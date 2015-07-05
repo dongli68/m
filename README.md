@@ -301,7 +301,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/?category=18271" rel="tag">为国接盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E8%B0%83%E6%8E%A7/?category=18271" rel="tag">国家调控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E5%B1%80/?category=18271" rel="tag">证监局</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%8A%B1%E6%80%BB%E4%BD%A0%E7%94%B5%E8%84%91%E6%8B%BF%E5%8F%8D%E4%BA%86/" target="cdt-mirror">【立此存照】花总你电脑拿反了</a>
 </h2>

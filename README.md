@@ -43,7 +43,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82/?category=18271" rel="tag">世界工厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%B2%AD%E9%9E%8B%E5%8E%82%E5%80%92%E5%A1%8C/?category=18271" rel="tag">温岭鞋厂倒塌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%8F%88%E9%BB%91%E4%B8%AD%E5%85%B1%EF%BC%81%E5%8F%AF%E4%BD%A0%E5%BE%97%E5%A4%9A%E6%B2%A1%E8%84%91%E5%AD%90%E6%89%8D%E4%BC%9A%E4%BF%A1%E8%BF%99%E4%B8%AA/" target="cdt-mirror">@环球时报：又黑中共！可你得多没脑子才会信这个谣言啊？</a>
 </h2>

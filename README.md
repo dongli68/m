@@ -68,7 +68,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">国共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9F%A5%E9%9D%92%E5%8D%9A%E7%89%A9%E9%A6%86%E5%BC%80%E5%B9%95%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%89%B9%E8%AF%84%E6%8A%8A%E6%96%87%E9%9D%A9%E7%BD%AA/" target="cdt-mirror">法广｜北京知青博物馆开幕贺卫方批评把“文革罪恶变了伟业”</a>
 </h2>
@@ -526,7 +526,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%87%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%A4%AB/?category=18271" rel="tag">屠夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E7%BD%AA/?category=18271" rel="tag">煽动颠覆罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%A0%B9%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">草根维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BD%E8%B0%A4%E7%BD%AA/?category=18271" rel="tag">诽谤罪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%B4%E8%82%83%E5%86%9B%E9%98%9F%E8%B4%A2%E7%BB%8F%E9%97%AE%E9%A2%98-%E5%BC%BA%E8%B0%83%E6%89%A7%E8%A1%8C%E7%BA%AA%E5%BE%8B/" target="cdt-mirror">自由亚州｜中国整肃军队财经问题 强调执行纪律</a>
 </h2>

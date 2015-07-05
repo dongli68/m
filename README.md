@@ -548,7 +548,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E6%80%A7%E8%85%90%E8%B4%A5/?category=18271" rel="tag">制度性腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AD%BB%E5%88%91%E7%8A%AF%E5%B0%B8%E7%9A%AE%E4%B9%8B%E4%BA%89/" target="cdt-mirror">【网络民议】死刑犯“尸皮”之争</a>
 </h2>

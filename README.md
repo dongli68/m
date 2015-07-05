@@ -627,7 +627,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">制度作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2-%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">唐映红.作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%AE%E5%87%B6/?category=18271" rel="tag">帮凶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81%E4%BA%BA%E6%A0%BC/?category=18271" rel="tag">权威人格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%97%E8%85%BF%E5%AD%90/?category=18271" rel="tag">狗腿子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BB%8A%E7%9A%84%E8%82%A1%E5%B8%82/" target="cdt-mirror">阑夕 | 几点看法：关于如今的股市</a>
 </h2>

@@ -119,7 +119,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83/?category=18271" rel="tag">性别失调</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E7%94%B7%E8%BD%BB%E5%A5%B3/?category=18271" rel="tag">重男轻女</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%87%E4%B8%80-2015-%E5%B9%B4%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98%EF%BC%8C%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%90%8E%E6%9E%9C%EF%BC%9F/" target="cdt-mirror">知乎｜万一 2015 年股市崩盘，会有什么样的后果？</a>
 </h2>

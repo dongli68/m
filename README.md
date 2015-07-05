@@ -68,7 +68,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">国共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9F%A5%E9%9D%92%E5%8D%9A%E7%89%A9%E9%A6%86%E5%BC%80%E5%B9%95%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%89%B9%E8%AF%84%E6%8A%8A%E6%96%87%E9%9D%A9%E7%BD%AA/" target="cdt-mirror">法广｜北京知青博物馆开幕贺卫方批评把“文革罪恶变了伟业”</a>
 </h2>
@@ -87,7 +87,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BC%9F%E5%85%89/?category=18271" rel="tag">王伟光</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E9%9D%92/?category=18271" rel="tag">知青</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A5%B3%E5%90%8C%E8%83%9E%E7%9A%84%E9%80%86%E8%A2%AD/" target="cdt-mirror">【网络民议】女同胞的逆袭</a>
 </h2>

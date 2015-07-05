@@ -222,7 +222,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">北朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E7%AF%A1%E6%94%B9-%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E4%B8%BB%E5%AF%BC%E4%BA%86/" target="cdt-mirror">美国之音 | 马英九：历史不容篡改 中华民国主导了抗战</a>
 </h2>

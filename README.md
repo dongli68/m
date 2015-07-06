@@ -24,6 +24,55 @@
     
     </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BA%89%E9%B8%A3%EF%BD%9C%E5%91%A8%E6%B0%B8%E5%BA%B7%E4%B8%BA%E4%BD%95%E7%9C%8B%E4%B8%AD%E8%B4%BE%E6%99%93%E7%83%A8-%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89/" target="cdt-mirror">争鸣｜周永康为何看中贾晓烨 原因曝光</a>
+</h2>
+<p><p>周永康与第二任妻子贾晓晔相差 26 岁，当年他们随着周的仕途飞黄腾达而结合，如今亦随着周沦为阶下囚而各走一方。近日，有媒体披露了这段具有中共官场特色婚姻的诸多细节。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/a8d.jpg" alt="a8d" width="396" height="386"><br>
+周永康(左)，贾晓烨</p>
+<p>1998 年 10 月，时任国土资于部部长、党组书记的周永康与发妻王淑华商定协议离婚。两人协议离婚后，王淑华搬到西安，但双方并没有办妥法律上的离婚手续。后来，周永康因要和贾晓晔结婚，才急忙补办了与王的离婚手续。不久王淑华被一辆军牌车撞死。</p>
+<p>周永康任国土资源部部长期间，追求央视美女主播某某，及刚入职外交部礼宾司的外交学院校花朱某某，但均遭婉拒。对方表明已有对象，而且正在筹划成家。</p>
+<p>周永康调任四川省委书记不到一年，又托高层，要追求四川省电视台文艺节目女主持人、四川师范大学外语女教师，后来搞出风波来，被时任中纪委书记尉健行批评：“不要在婚姻上搞出事。”</p>
+<p>周永康当时追求的对象家庭是军队高级将领，大多瞧不起周。 周永康钟情文艺界美女，曾流露：“张春贤好眼光，第二春就能得到中央台美女主播 ; 曹建明好福气，有清纯美女送上门。”</p>
+<p>周永康有了高位，后有人大献殷勤。 2000 年，时任国家广播电影电视总局副局长的李东生向他介绍了一名总政文工团报幕员、一名海军文工团舞蹈演员和央视的贾晓晔。</p>
+<p>当时，年已 59 岁的周永康喜出望外，都相中了，但他多少有些自卑。报幕员和舞蹈员的家庭背景都是现任将军，就是她们本人能接受，她们的家庭和父母也难接受，所以周最后选择了贾晓晔。</p>
+<p>随后，中宣部、中组部三次找贾晓烨谈话，贾一再要求给予时间考虑。在央视的催促下，贾晓晔答应了周。 但周永康本性难移，与贾成婚后继续藉到外巡视工作之机寻欢作乐，贾晓晔为此痛苦不堪。</p>
+<p>2002 年秋，中共 16 大召开，在江泽民的提拔下，周永康晋升中央政治局委员、中央书记处书记、国务委员、公安部长、武警部队第一政委。官运亨通的周永康更加为所欲为。仅在一年内，周以巡视为名到全国 9 个省市的 50 所私人会所观光享受，吃喝玩乐。<br>
+今年 6 月，周永康被判无期徒刑，随即和贾晓晔结束婚姻关系。贾晓晔在离婚书上签名后，哭着表示：“压抑在心上的痛楚终于解脱了，但太晚了。”</p>
+<p>转发自中国茉莉花革命网站。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BA%89%E9%B8%A3%EF%BD%9C%E5%91%A8%E6%B0%B8%E5%BA%B7%E4%B8%BA%E4%BD%95%E7%9C%8B%E4%B8%AD%E8%B4%BE%E6%99%93%E7%83%A8-%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E6%99%93%E7%83%A8/?category=18271" rel="tag">贾晓烨</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%87%E9%A9%AC%E9%BD%90%E5%96%91%E7%9A%84%E6%97%B6%E4%BB%A3%E8%A6%81%E6%9D%A5%E4%BA%86/" target="cdt-mirror">东网｜南桥：万马齐喑的时代要来了</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2013/11/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A7%94%E5%91%98%E4%BC%9A.jpg" alt="巴丢草：中国国家安全委员会" width="190" height="321"> 7月1日，中共的法定成立纪念日，全国人大常委会通过了新的国家安全法。选在党的生日公布一个有关国家生存的法律，这大概不是偶然的巧合。佛洛伊德一定会说，这些人下意识里一定有什么不明说的东西，这是什么？这些人深夜梦见了什么？</p>
+<p>此法一发表，立即引起了境外的热烈评论。西方人关心的是此法涵盖范围如此之广，把外层空间、海底和极地都包括在内，都涉及中国的国家安全。台湾人关心的是，这个国家安全法指出，维护国家主权、统一和领土完整也是“台湾同胞”的义务，台湾的中华民国公民如果有台湾独立的想法，那是违反中国国家安全法的。不过“台湾同胞”暂且还不是那么害怕。“香港同胞”就有点怯了，因为他们虽然手里拿的不是中国的公安局发的护照，但是理论上说他们是中华人民共和国的公民。如果他们以后还在香港的中环游行反对中央的普选方案，就涉嫌违反了中国的国家安全法。他们担心以后万一到内地来参观祖国大好河山，会不会让如狼似虎的公安、国保、国安、武警给捉了去。这个新法具有习近平的指纹：“全面”，不是四个全面，而是一万个全面，面面俱到，天网恢恢。</p>
+<p>我暂时还不担心这些。守法是应该的。一个正常的国家，公民守了法，就应该是安全的，快乐的，因为国家会保护你，会为你伸张正义和公平。我担心的是不知法而犯了法。于是第一时间研读新的国家安全法。</p>
+<p>一读之下，心就有点凉。倒不是担心习总书记的全面，说实话国家安全到外太空、海底、极地去实行，跟我一毛钱的关系也没有，NASA和神舟一百都不大可能请我同行，我不喜欢潜水，也怕冷，太空海洋和极地这些地方你尽管请便。我担心的是，通篇国安法读下来，我仍然不知道此时此刻，当我在电脑上打下这几个字的时候，我犯法了吗？读者朋友，如果你发现我犯法了，在把我扭送公安局之前，请允许我喊一声，天地良心，我不是故意的。我只是不知道就这几句话就危害了国家安全。我只是脑子里有了这些个想法，于是说出了所思所想而已。</p>
+<p>新的国安法读起来和我年轻时代文革时期读的东西很像，满篇是正面的大词，让你看到了无可厚非的正当性而根本就没法质疑提问，国家这个法就代表了正确，代表了正义，代表了“应该”，但仍然没有让老百姓明白，生活中什么行为是合法的，国家会保护你，什么行为是非法的，法律会约束你。</p>
+<p>举个例子：“第二十三条国家坚持社会主义先进文化前进方向，继承和弘扬中华民族优秀传统文化，培育和践行社会主义核心价值观，防范和抵制不良文化的影响，掌握意识形态领域主导权，增强文化整体实力和竞争力。”</p>
+<p>“第二十三条”后面缺一个标点符号或者空格，新浪网上刊登的文件中就是如此，照理这么庄严而宏伟的法律文件是不会有这种格式上的瑕疵的。让我们不要对中央（是党中央还是中央政府，各位请随意理解好了）的立法能力吹毛求疵了，就此不论。这二十三条讲的是文化涉及国家安全。这毫无疑问正确得不能再正确的二十三条，对法律全面管治下的民众来说，只有三个词是至关紧要的：先进文化、优秀传统文化、不良文化。第一个是要坚持，第二个是要继承和弘扬，第三个要防范和抵制。不错，是应该这样。问题是，什么是先进，什么是优秀，什么是不良？怎么定？怎么分辨？按照什么标准和规则来分辨？谁来定？是不是习总书记亲自定，或者是习总书记信任的“学习小组”定，还是周小平花千芳主席副主席定？他们难道就不会定错吗？定错了怎么办？</p>
+<p>如果你想知道你的思想和言论是不是先进文化优秀文化，还是应该自觉抵制和防范的不良文化，上述问题就是必须有答案的。否则，即使今天没轮到你“不良”，你不能保证明天你不会一不小心就被“不良”进去；即使你一辈子都小心翼翼地不会“不良”，不定哪天你的儿子孙子就给“不良”了。“不良”的帽子之下，谁是安全的？</p>
+<p>也许先进优秀文化的生物学载体周花主席副主席会很鄙夷地指出，公民都是成人，成人难道连是非好歹也分不出吗？是非好歹就是“良”和“不良”的区别。这种乐观态度实在是too young，too simple，and sometimes naive了。人类社会难免有矛盾，矛盾双方在划分“良”与“不良”的职权上难免有大小，权力大的人出于私心把对方打个“不良”，恐怕是难免的事情，就像1999年的总书记一个不爽就把公园里练身体的老头老太太都打成了邪教徒一样。</p>
+<p>新的国安法里充满了这样的形容词为内容的条款，从立法的角度来说，这些形容词是模糊的，它没有给出法与非法的判断标准。美国历史上曾经有一个年轻人，把国旗缝在裤子的屁股位置，被控“亵渎国旗”而定罪。联邦最高法院最后驳回了这一判决，理由是两个：第一，这“亵渎国旗”的法律过于模糊，模糊的法律不成其法，应予废除。把国旗缝在屁股上是“亵渎国旗”，那么缝在帽子上呢？如果也算“亵渎”，为什么？理由显然不足。如果缝在帽子上不算亵渎，裤子上算，那么腰带上呢？衣襟上呢？标准在哪里？这样需要民众费思量的法律，民众思量后判断可能不一致，警察怎么执法？如果警察要执法，也需要各自思量，那么就给了警察太大的个人裁量权，这将是非常危险的。所以这个法是质量低劣的法，应该废除；第二个理由是，这个年轻人是借蔑视国旗来表达对联邦政府的政策不满，这是宪法规定的思想表达的自由，民众有权用自己的方式来批评政府，对国旗作出任何动作，只要是为了表达思想，就是合法的，所以“亵渎国旗”的法律是违宪的。</p>
+<p>人有多个层面多种多样的文化需求和创造，绝对不是只分成正能量和负能量两个部分。“正能量”的说法，是为专制暴政特制的恶器。事实上，人的生活里，思想、情绪、艺术、精神是多姿多彩，多种多样的。一只雌天鹅，在公癞蛤蟆眼睛里并不美，公癞蛤蟆是宁可要一只雌癞蛤蟆的。任何人（包括党中央毛主席）都不可能一天二十四小时地沉浸在先进文化优良文化里，大白天你觉得是低俗的文化，半夜里却成了你正需要的。即使是薄和厚这样曾经受党的委任保障着这个国家之安全的人，在和“多名女子”发生关系的时候，大概也不会都是吟着优秀传统文化的唐诗宋词而爽着的吧？</p>
+<p>新的中国国安法第二十三条，就是这种低质量的模糊立法，是国家和政府的“任性”立法。没有标准，只要上面不爽，你的言论思想就可能是“不良”。你不想被不良，那就只有闭嘴，这是唯一的保险做法。国安法防范和抵制“不良文化”的条款，不如改为防范和抵制“不爽”文化。等到习总书记感觉没有什么不爽的时候，万马齐喑的时代就到了。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%87%E9%A9%AC%E9%BD%90%E5%96%91%E7%9A%84%E6%97%B6%E4%BB%A3%E8%A6%81%E6%9D%A5%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E6%B3%95/?category=18271" rel="tag">国安法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E6%B5%99%E6%B1%9F%E6%B8%A9%E5%B2%AD%E9%9E%8B%E5%8E%82%E5%80%92%E5%A1%8C%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3%E5%8D%81%E4%BA%8C%E4%BA%BA/" target="cdt-mirror">BBC｜浙江温岭鞋厂倒塌死亡人数上升至十二人</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150705022907_wenling_collapse_640x360_xinhua.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150705022907_wenling_collapse_640x360_xinhua.jpg" alt="150705022907_wenling_collapse_640x360_xinhua" width="550" height="309"></a></p>
@@ -625,44 +674,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E7%8B%97%E8%85%BF%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E4%BB%A4%E4%BA%BA/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">制度作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2-%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">唐映红.作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%AE%E5%87%B6/?category=18271" rel="tag">帮凶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81%E4%BA%BA%E6%A0%BC/?category=18271" rel="tag">权威人格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%97%E8%85%BF%E5%AD%90/?category=18271" rel="tag">狗腿子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BB%8A%E7%9A%84%E8%82%A1%E5%B8%82/" target="cdt-mirror">阑夕 | 几点看法：关于如今的股市</a>
-</h2>
-<p><p>1、跌得触目惊心的背后，据说证监会正在彻查“做空资金”，加上国际势力狙击中国牛市的传言蒸蒸日上，为数不少的股民心生同仇敌忾的情绪，甚至有新闻或是段子说有人在交易大厅里对着满园春色大唱国歌的事件。</p>
-<p>2、炒股，本质而言属于投资行为，而投资首先就是一个科学的概念，它秉承经济学的常识，有着潮汐效应，“只许涨、不许跌”的心态，无论出自个人还是政府，与输红了眼的赌徒并无二致。</p>
-<p>3、很多股民也都心知肚明，只是每个人都认为自己会是那个安全脱身的幸运角色，自信能与庄家斗智斗勇。其实换个场景，把他们请上牌桌，然后说明规则——对面的庄家可以看你的牌，但你不能看他的牌——此时他们显然又会痛骂“你当我是傻逼啊”然后掀桌走人。</p>
-<p>4、当然，以理性苛求资本市场的参与者，亦不现实。索罗斯提出过著名的“反身性”理论，他认为市场是偏向预期的，简单来说就是如果人们因为相信股市前景而大举进入，那么股市本身会因为热钱流入而上涨，这种利好又进一步验证了股民的预期，最终形成一种自我实现的循环。</p>
-<p>5、“反身性”理论有些像心理暗示，而暗示的破灭时机，在于目标膨胀到了一个脱离现实的高度，比如说催眠师或许可以偶然的使一个常年瘫痪的病人直立身体甚至蹒跚着走两步，但是无论如何，他也无法让这个实验对象挥舞双臂飞上天空。</p>
-<p>6、业内更愿意将之称为“泡沫的破灭”，上市公司从业绩总值到想象空间均已无力支撑仍在水涨船高的股民预期。在牛市的欢呼声中，注定会有一小部分玩家——通常是受益最多且机警敏锐的机构——开始从积木塔的底部抽回资金，于是，一种逆向的“反身性”理论开始上演，两个漩涡相互接近、撕咬，最终底气不足的那个漩涡遭到吞并。</p>
-<p>7、“买涨不买跌”是最为朴素和原始的投资动机，所谓“满仓救国”、“护盘抗敌”，其实都是狐假虎威。唯一能够冲抵“反身性”理论的，是股票背后的企业价值。</p>
-<p>8、美国2008年遭遇次贷危机，随着第四大投行雷曼兄弟的崩塌，引起全球的链式反应。美国和欧洲的处理措施截然相反，前者没有过多的行使政府救市的“义务”，而是让民众承受非理性投资的风险和代价，淘汰那些败给市场的企业，最终借由科技、能源、生物医疗等一系列行业的自我修复和技术创新，迅速完成复苏。欧洲则是基于社会保障理念而既不愿放任低迷企业的破产又不敢削弱选民的福利，至今仍然陷于泥潭而不可自拔。</p>
-<p>9、如果一定要救市，那么中国政府要做的，不是将全民的养老金也投进股市——这种行为其实有着不负责任的高危特色——而是真正的放开市场，减少一切不必要的行政干预，拆掉那些经济效率极其有限的国企和准国企，将挤出来的红利分给经受市场检验的成长型企业，做好准备和未来的牛市不期而遇。</p>
-<p>10、当然上面一点你国政府肯定做不到，所以请理解为对牛弹琴的一腔废话。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BB%8A%E7%9A%84%E8%82%A1%E5%B8%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E9%87%91%E5%A7%94/?category=18271" rel="tag">中央金委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E5%A4%8F%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">华夏保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E9%A0%AD%E6%AE%BC%EF%BD%9C%E4%B8%AD%E5%9C%8B%E6%83%B3%E6%8D%90%E5%B1%8D%E7%9A%AE-%E8%94%A3%E4%B8%99%E7%85%8C%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%AD%BB%E5%88%91%E7%8A%AF%E7%9A%84%E6%89%8D%E8%A1%8C/" target="cdt-mirror">新頭殼｜中國想捐屍皮 蔣丙煌：不是死刑犯的才行</a>
-</h2>
-<p><p>中國國台辦2日表示，中方擬捐總價值1億多的人工皮及屍皮給八仙塵爆病患使用，不過，衛福部長蔣丙煌下午表示，有得知此資訊，但據《人體器官移植條例》，要確定屍皮不是從死刑犯取得的才行。</p>
-<p>八仙樂園發生塵爆事件，造成近500人受傷、2人死亡，除了衛福部主動向國外尋求購買植皮所需皮膚外，不少單位也向台灣表達可提供協助。</p>
-<p>蔣丙煌表示，日本對此事很關注，有主動聯繫台灣，希望能提供醫材，包含人工皮等。而日本亞洲醫師協會已協調日廠提供醫材，也已派員來訪問2間醫院，2日抵台，3、4日進行評估。</p>
-<p>醫事司司長王宗曦指出，日本醫師協會因感謝台灣對311地震的協助，也對八仙事故感同身受，因此想提供支援。日本2名醫師下午已到三軍總醫醫院，3日也會到榮總，更熱心表示，日本整型醫師跟護理人員可以來協助，之後的安排要看日方的訪視結果而定。</p>
-<p>除了日本之外，中國國台辦也表示，有中國燒燙傷專家願意來台協助，王宗曦說，台灣不認可中國醫師資格；至於日本方面，主要還是專業諮詢的協助，不會是核心醫療業務。衛福部發言人王哲超指出，報備時，衛生局還是會審查是否具有合格的醫事人員證書，所以外籍醫師應該只能當志工。</p>
-<p>蔣丙煌強調，各界想派人來協助都很歡迎，雖然台灣有醫療法規的規定，還是可以提供諮詢。</p>
-<p>至於中國想捐人工皮、屍皮來台，蔣丙煌，中國有透過陸委會接洽，但根據《人體器官移植條例》，要確定屍皮不是從死刑犯取得的，他非常感謝中國的捐贈，但還是要符合法律規定。</p>
-<p>新頭殼newtalk 2015.07.02 翁嫆琄/台北報導</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E9%A0%AD%E6%AE%BC%EF%BD%9C%E4%B8%AD%E5%9C%8B%E6%83%B3%E6%8D%90%E5%B1%8D%E7%9A%AE-%E8%94%A3%E4%B8%99%E7%85%8C%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%AD%BB%E5%88%91%E7%8A%AF%E7%9A%84%E6%89%8D%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%B2%89%E5%B0%98%E7%88%86%E7%82%B8/?category=18271" rel="tag">台湾粉尘爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%99%A8%E5%AE%98%E7%A7%BB%E6%A4%8D/?category=18271" rel="tag">器官移植</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%8F%B0%E5%8A%9E/?category=18271" rel="tag">国台办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E5%9B%9A%E5%99%A8%E5%AE%98/?category=18271" rel="tag">死囚器官</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>

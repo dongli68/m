@@ -472,7 +472,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%82%A1%E5%B8%82%E5%91%8A%E6%80%A5-%E4%B8%AD%E5%9B%BD%E8%AF%81%E5%88%B8%E4%B8%9A%E5%87%BA%E6%89%8B%E6%95%91%E5%B8%82/" target="cdt-mirror">德国之声｜股市告急 中国证券业出手“救市”</a>
 </h2>

@@ -43,7 +43,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91/?category=18271" rel="tag">人民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">党的利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%82%AE%E6%8A%A5/?category=18271" rel="tag">华盛顿邮报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E6%95%91%E5%B8%82-%E6%9A%82%E5%81%9C%E6%96%B0%E8%82%A1%E5%8F%91%E8%A1%8C/" target="cdt-mirror">纽约时报 | 中国政府出手救市 暂停新股发行</a>
 </h2>

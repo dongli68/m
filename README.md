@@ -24,6 +24,102 @@
     
     </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%8D%8E%E9%82%AE%E7%A4%BE%E8%AE%BA%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%9D%83%E5%8A%9B%E7%9A%84%E8%B4%AA%E5%BE%97%E6%97%A0%E5%8E%8C/" target="cdt-mirror">博谈网 | 华邮社论北京对权力的贪得无厌</a>
+</h2>
+<p><p>（博谈网记者欧阳剑编译报道）《华盛顿邮报》于7月4日发表了社论，社论称中国共产党为了保证党的利益高于一切， 对所有它认为有可能威胁其权力的组织进行控制，进而铲除，而不管这些组织对中国人民给予的好处和帮助。 以下为原文译文。</p>
+<p>定义中国的共产主义的特征之一就是党的领导人对维持权力垄断、消灭任何竞争对手的强悍决心。北京的老板们已经基本上放弃了共产主义作为其经济理论，并采用了资本主义，但是，当涉及到对权力的掌控时，他们却寸步不让。</p>
+<p>然而，现实情况是，北京根本就无法满足其公民的所有需求，一直以来非政府组织（NGO）做了大量的工作。在过去二十年当中，各种非政府组织如雨后春笋般涌现，很多是由国外资助的，帮助满足中国人民的医疗，商业，环保以及其他需求。虽然，北京通常拒绝这些组织正式注册，但是他们在一种法律的灰色地带，一直在运作着。</p>
+<p>现在，北京提出了一个法律草案，可能消灭这些海外资助或民间资助的组织。该法律要求所有的非政府组织通过中国的安全警察的审批，要求他们找到一个正式的政府机构作为“赞助人”，并对它们施加侵犯性的检查、控制和雇人规定。不遵守这个法律可能会带来刑事处罚。</p>
+<p>该法律草案用了一个很含糊其辞的方式给了安全警察广泛的酌情权。几乎所有的组织都可能成为目标。“纽约大学”法学院的美国-亚洲法律研究所Ira Belkin（艾拉·贝尔金）和Jerome A. Cohen（杰罗姆·科恩）最近写道：“即便是哈佛大学教授的一个讲座，纽约现代艺术博物馆的一个艺术展览，红十字会的慈善或人道主义救灾的一个行为，一个运动竞赛，高中军乐队的一个表演，或给中国学生发放的一个奖学金，都可能属于这个法律的管辖范围，只要该活动由（或代表）外国的非政府机构在中国举行的话。”正如《华盛顿邮报》的Simon Denyer上个月报道的那样，该草案已经引起了美国和欧洲商业社区的反对，他们担心这会限制外国的行业协会，大学和科技机构，以及其他实体。</p>
+<p>该法律草案似乎反映了习近平从当代中国清除西方思想和价值观的意愿，这个主题已经通过2年前流传的被称为“9号文件”的长长的党内备忘录而展现。习近平的行动反映了一种偏执思想，即非政府组织有可能作为某种“第五纵队”成为威胁，或可能成为破坏党对权力掌控的颠覆力量。这是在中国和其它地区的专制老板们陈旧而又过时的恐惧。俄罗斯总统普京也采取了严厉手段，称NGO是“外国代理人”。</p>
+<p>如果习近平和其同伙剥夺了中国人民获得这些组织帮助的机会，那么首先和根本上受到伤害的就是中国人民。但是，这似乎符合了党只关心党的利益高于一切的一贯作风。</p>
+<p>原文 <a href="http://www.washingtonpost.com/opinions/chinas-insatiable-appetite-for-power/2015/07/03/d3a90fae-1f64-11e5-bf41-c23f5d3face1_story.html" target="_blank">China’s insatiable appetite for power</a></p>
+<p>关键词: 权力 NGO 栏目: 时事见解 首页重点发表: 新鲜看点 编译: 欧阳剑 作者: Editorial Board</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%8D%8E%E9%82%AE%E7%A4%BE%E8%AE%BA%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%9D%83%E5%8A%9B%E7%9A%84%E8%B4%AA%E5%BE%97%E6%97%A0%E5%8E%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91/?category=18271" rel="tag">人民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">党的利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%82%AE%E6%8A%A5/?category=18271" rel="tag">华盛顿邮报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E6%95%91%E5%B8%82-%E6%9A%82%E5%81%9C%E6%96%B0%E8%82%A1%E5%8F%91%E8%A1%8C/" target="cdt-mirror">纽约时报 | 中国政府出手救市 暂停新股发行</a>
+</h2>
+<p><p>过去三周中国股市大跌，中国最大的一批证券公司对此艰难地做出应对，在周六公布了一项得到政府支持的计划，从周一开始购买股票。与此同时，沪深两市暂停发行新股。</p>
+<p>由政府控制的中国证券业协会表示，21家大型证券公司已同意设立一只至少价值1200亿元人民币的基金，购买规模最大、最稳定的公司的股票，并停止减持已有股票。但一些专家称，这些举措可能还不足以阻止资金逃出股市，特别是考虑到周五沪市成交额高达6480.54亿元。</p>
+<p>该协会并未阐明是否允许这支基金以最初购买的股票为抵押来借入资金。这样做可以让该基金凭借杠杆，对市场产生更大的影响。</p>
+<p>“如果只是1200亿元，说实话，太少了，”交银国际首席策略师洪灏说。“如果能在它的基础上加杠杆，可能就会对大盘蓝筹股起到支撑作用。”交银国际是中国第五大银行交通银行旗下的全球金融部门。</p>
+<p>周六傍晚，分别位于上海和深圳的两家证券交易所发布通知，称暂停新股发行，直到有进一步通知，就连已经获得临时许可的公司也被暂缓上市。</p>
+<p>停止公开发行会鼓励投资者将资金留在现有股票上。深交所周六对18家计划首次公开发行的公司发出了暂停发行的公告，对每家公司都称原因是“近期市场波动较大”。上交所也以同样的理由，发布了涉及10家公司的通知。</p>
+<p>两家交易所发布相关通知之际，政府一直在手忙脚乱地阻止沪市行情近四分之一世纪以来最大幅度的跳水。自6月12日以来，股价跌落近三分之一，导致股市缩水超过2万亿美元，让数百万家庭立即陷入困境，他们不仅将自己的积蓄投入股市，还以高额利息大量举债炒股。</p>
+<p>证券业出资成立基金的设计，与香港外汇基金(Hong Kong Exchange Fund)有几分相似。后者由政府经营，在亚洲金融危机期间的1998年，它对扭转香港股市的下跌趋势发挥了关键作用。之前，该基金小心谨慎地将香港政府的财政储备以存款的形式投资，利率较低。但开始大举买进股票时，它引发了股市的上扬，还为政府赚取了大量利润。</p>
+<p>中国证券业协会周六向会员发出的倡议书中，既有资本主义措辞，也有毛派论调，二者怪异地掺杂在了一起。倡议书敦促协会成员集体行动，救助股市。</p>
+<p>“股票市场过快上涨和下跌，都不利于市场稳定健康发展，”倡议书称，“证券公司作为市场主要参与者，必须主动承担责任，团结一致，众志成城，全力维护市场稳定。”</p>
+<p>证券业协会还号召成员回购自己的部分股票，从而支撑股价。外界普遍认为，由政府占控股权的中国最大的石油公司和银行，已在上周用自己的钱回购股票。它们的股票表现得远比规模较小的公司好得多。</p>
+<p>但香港的金融业人士称，重点关注蓝筹股的该证券业基金的设计，可能最终更多的是保护富裕的中外投资者，而不是年轻的工薪阶层，以及最近几个月在股市飞涨之际，全国各地大量举债买股票的家庭。大公司的股票仅占沪市总市值的大约30%。</p>
+<p>中国股市在过去12个月里持续上涨，一直到6月12日急转直下。在行情上扬的时间里，金融基本面脆弱的中小企业是表现最好的。很多公司的市值翻了两番甚至更多，而尽管大盘股远远落后，但综合指数也翻了一番。</p>
+<p>中小盘股极大地吸引了中产阶级和工薪阶层投资者，不管是什么股票，只要是涨得最快的，这些投资者都会买。在截至6月12日的一年时间里，沪市涨幅149%。但与之形成对比的是，一项涵盖在香港上市的100家大型内地企业的股价指数同期涨幅仅为24%，这些企业中有很多也同时在上海上市。</p>
+<p>为了减少诈骗，同时也为了更密切地管控借贷交易，香港制定的上市规则比上海严格。官方统计数据显示，过去两年里，内地借给投资者炒股的贷款攀升了九倍，非正规金融公司以普遍超过20%的年利率发放的贷款助长了这一势头。</p>
+<p>救助基金最终可能会帮助大型国有企业，削弱往往属于私营领域的规模较小的企业。中国国家主席习近平和总理李克强曾表示，希望增强私营部门的作用，以提升中国经济的效率。</p>
+<p>其他一些官员甚至暗示在股市上出售更多国有企业的股票。这一点与眼下看上去正在发生的实际情况正相反，因为国有企业正在使用部分现金储备，从民众手里回购股票。</p>
+<p>证券业协会的倡议书发表几小时后，由政府支持的中国证券投资基金业协会召集了25家共同基金公司的代表。这些公司宣布，计划通过加快发行投资股市的基金，来帮助巩固股市。但与中国社交媒体上较早的报道相反，中国证券投资基金业协会并未像证券业那样，推出自己的救市基金。</p>
+<p>另一个担忧在于，中国很多共同基金和其他投资基金是否会突然被要求清算。它们中的很多，都在成立基金的基础合同中对亏损做出了规定：如果基金价值下跌30%，则必须将剩余资金返还给股东，通常是通过出售所有股票的方式。</p>
+<p>洪灏称，沪市自6月12日以来已下跌28.6%，这一规则正开始成为整个市场可能面临的一个风险。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E6%95%91%E5%B8%82-%E6%9A%82%E5%81%9C%E6%96%B0%E8%82%A1%E5%8F%91%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E5%A4%8F%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">华夏保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">国际资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">经济制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%91%A3%E8%97%A9%EF%BC%9A%E4%BA%BA%E9%80%A0%E7%89%9B%E5%B8%82%E5%BF%85%E7%84%B6%E5%B8%A6%E6%9D%A5%E8%A1%80%E8%85%A5%E8%82%A1%E7%81%BE%EF%BC%81/" target="cdt-mirror">董藩：人造牛市必然带来血腥股灾！</a>
+</h2>
+<p><p>昨日在微信群里看到一段跳楼的视频，据说是发生在深圳，应与股市暴跌有关。一条鲜活的生命瞬间消失，我感觉十分痛心！已属于外行、基本不公开评价中国股市的我，突然感觉无论是对错，都得说两句，否则对不住自己的良心。</p>
+<p>最近股市由5178点下跌了20%。几次暴跌，已经使很多股民的相当一部分财富被血洗。大热天的，据说很多普通家庭里氛围冰冷，空气紧张。现在一些高层建筑的物业公司也都很警觉，加强了监控，有的上楼顶的通道都被临时封死了。</p>
+<p>在股市的震荡中，很多人财富大缩水，或被套牢，股灾正在发生，甚至可能引发整个金融系统风险。证监会、央行等众多部门联手护市，似乎也无能为力，我猜高层也紧张了。</p>
+<p>上个世纪90年代初，还是学生的我和女朋友（今天家中的另一位教授）借助大商股份和大冷股份上市的时机，从股市里赚了2万元，拥有了4万元金融资产，一度成为校园里最富裕的学生，但随后我又将所赚全部亏掉。当时看了一些对外国股市的介绍资料，对比了市盈率状况，我感觉中国股市完全是赌场，于是抱着戒赌的心态离开了股市。我绝对不是因为自己输了就否认证券市场存在的价值，我恰恰一直将其视为完备市场体系的必要组成部分。但我接触股市后不久就发现，中国的股市从诞生之日起就是一个“怪胎”，其凶残、贪婪、别有用心和不规范性决定了股民必输，大部分庄家也是一样，赢的只是政府、券商和上市公司。这是制度、文化两个方面多种原因决定的结果。事实也一次次证明了我的判断。</p>
+<p>天则所有研究者前些年曾对全国（湖南、湖北、北京、广东、云南、四川、河北、广西、上海、浙江、江苏、山东）12个省市的200位有10年以上炒股经历的股民做过调查、分析，其投资回报结果如下：</p>
+<p>（1）这200个股民在2004年股指最低点的时候，没有一个人赚了钱；</p>
+<p>（2）截止2007年6月25日15:00时，还有31%的人净亏损，61%的人10年平均赢利率仅为0%-6%（不含6%），只有8%的人年平均回报率在6%以上。这16个年平均回报率在6%以上的人，平均回报率为10.1%。但他们在计算年平均回报率的时候完全没有计算自己10年来的工资及投入资金的利息——若算上这两部分，就没有几人赚钱了。</p>
+<p>这一调查结果，任何人可以随机再找200个有10年以上炒股经历的股民做调查，基本可以验证。网传29位第1代股神近况调查也再次验证了这个悲惨结局：5人入过狱，3人赔光了，7人逃亡了，8人生活窘迫，1人被禁入，3人转行告别股市，1人胜利了，1人失踪了。中等和好的结局是转行、胜利，只有4人，只占13.8%，其他都可以用“悲惨”来形容。</p>
+<p>这十多年来，我一直在研究资产的保值增值与财富安全等问题，在我的课堂上，比较各种投资方式的特点、成因和结果，是重要的学习内容。多年来有大约10多万董事长、总裁和普通投资者听过我的课程和演讲，我一直劝诫普通市民远离股市、积极买房，大家都知道我的主张。我就这样“喋喋不休”地劝了大家十多年，很多人也因此受益了。看看股民们的命运和这十多年房价的上涨状况，我的理论被验证为“无比正确”，这也是我拥有很多“铁粉”的原因。</p>
+<p>中国股票投资者的命运已经充分说明：中国的股市与价值投资已经没有多少关系，与经济形势的基本面、发展预期没有关联。GDP高涨时股市可能是低迷的，这一年来GDP增长率一路下滑，经济衰退严重，股市却高歌猛进，意外亢奋起来。</p>
+<p>我今天不是想讲理论或者评价中国的股市性质，我想说的是：最近的这场股灾完全是人为制造出来的——经济形势很差，看看连续40个月下滑的PPI数据，看看东北、内蒙古、山西等地经济状况，完全处于危机中，股市有什么理由一路高涨？憋久了就该一路高涨？真是笑话！</p>
+<p>大家不觉得这一轮股市上涨的启动不可思议么？不觉得最初的推动力量很神秘么？不觉得证监会去表态股市该涨还是该跌与其身份严重不符么？不觉得在实体经济运行效果不断恶化时引导百姓进入股市，有些不可思议么？</p>
+<p>在这轮暴涨暴跌过程中，我们看到，为刺激市场，号称一向反对过分投机和高杠杆化的监管部门，搞出所谓的融资融券业务，允许有关通道发行结构化私募产品。当市场高涨，担心失控时，又多次提出要“去杠杆化”，将自己烧红的火钳扔入冰水中。</p>
+<p>在这轮暴涨暴跌过程中，我们看到监管部门一会儿表态“牛市刚刚开始”、“牛市远未结束”，于是新股发行无度，肆无忌惮，所有的公司都想上市，有个概念就想上市圈钱。一会儿它又表态“股市不理性”、“严惩暴涨凶手”。赵本山这一年很沉静，股市监管部门出来忽悠大家了！</p>
+<p>在这轮暴涨暴跌过程中，我们看到人民日报社、新华社等权威媒体不断发表社论，一会儿提示风险，一会儿鼓励股民“挺住”。当多军不断溃败后，源于媒体和学者的“阴谋论”又大行其道了——“股市里发现‘恐怖分子’！”“股市里发现‘西方敌对势力’！”“多空对峙，买股救国！”</p>
+<p>为什么要建设证券市场？因为要发展经济，借此完成并购、转型、治理、融资等改革目标。为什么要改革？改革是希望人们过得更富足、有尊严。但如果改革的成本都借助证券市场转嫁给老百姓，变成了对老百姓的洗劫，这个证券市场便成了压榨百姓的机器，还有存在的必要么？</p>
+<p>在这轮暴涨暴跌过程中，我们看到监管部门一会儿通知公募基金不许砸盘，一会儿逼着私募大佬进行爱国表态。但岂不知这些做法反而会加剧市场恐慌，让更多机构、小散拼命逃离——因为所有人都知道：这次高涨原本就不该有，原本就是虚假繁荣！</p>
+<p>做空的政治势力究竟有没有？来自哪里？我不知道。但我觉得明知道普通百姓在股市里是不会有回报的，却把他们引导到这里，让嗜血成性的大资本伺机屠戮，不管基于什么目的，都不应该！</p>
+<p>这场人造的牛市必然带了灾难，正在带来灾难！</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%91%A3%E8%97%A9%EF%BC%9A%E4%BA%BA%E9%80%A0%E7%89%9B%E5%B8%82%E5%BF%85%E7%84%B6%E5%B8%A6%E6%9D%A5%E8%A1%80%E8%85%A5%E8%82%A1%E7%81%BE%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E5%A4%8F%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">华夏保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">国际资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">经济制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B9%A0%E5%A4%A7%E5%A4%A7%E6%95%91%E5%B8%82/" target="cdt-mirror">巴丢草 | 习大大救市</a>
+</h2>
+<p><p>@badiucao：中国股市一泻千里，中共当局一手抛出境外势力解围，一手端出罚酒以示家法，各种利好漫天飞扬，#然并卵。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJM6z4YVEAAIlv5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJM6z4YVEAAIlv5.jpg" alt="习大大救市" width="450" height="655"></a><p>习大大救市</p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B9%A0%E5%A4%A7%E5%A4%A7%E6%95%91%E5%B8%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E5%A4%8F%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">华夏保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">国际资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">经济制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BA%89%E9%B8%A3%EF%BD%9C%E5%91%A8%E6%B0%B8%E5%BA%B7%E4%B8%BA%E4%BD%95%E7%9C%8B%E4%B8%AD%E8%B4%BE%E6%99%93%E7%83%A8-%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89/" target="cdt-mirror">争鸣｜周永康为何看中贾晓烨 原因曝光</a>
 </h2>
 <p><p>周永康与第二任妻子贾晓晔相差 26 岁，当年他们随着周的仕途飞黄腾达而结合，如今亦随着周沦为阶下囚而各走一方。近日，有媒体披露了这段具有中共官场特色婚姻的诸多细节。</p>
@@ -552,131 +648,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%87%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%B1%A0%E5%A4%AB%E5%90%B4%E6%B7%A6%E8%A2%AB%E4%BB%A5%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%AD%89%E4%B8%A4%E7%BD%AA/" target="cdt-mirror">自由亚洲 | 屠夫吴淦被以煽动颠覆国家政权等两罪正式逮捕</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Clipboard15_62.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Clipboard15_62.jpg" alt="维权人士吴淦被以煽动颠覆国家政权等两罪正式逮捕" width="499" height="282"></a><p>维权人士吴淦被以煽动颠覆国家政权等两罪正式逮捕</p></div>
-<p>草根维权人士屠夫吴淦被以煽动颠覆国家政权等两罪正式逮捕，但是维权人士指出，当局打压吴淦，侵犯了公民监督政府的合法权益。</p>
-<p>海外的博讯网7月3号报道，吴淦的律师 燕文薪星期五发布的消息说：“刚刚接到厦门市检察院电话通知，称因之前已收到律师提交的法律意见，故现向律师作出答复，检察院采纳了辩护律师的部分意见，目前对吴淦以煽动颠覆国家政权和寻衅滋事两罪批准逮捕。”</p>
-<p>吴淦是草根维权人士，5月20日因在南昌抗议江西高院不让参与“乐平冤案”律师阅卷，而被行政拘留10天。5月27号又因所谓涉嫌“寻衅滋事罪”和“诽谤罪”，遭福建警方刑事拘留。</p>
-<p>吴淦今年42岁、自称“超级低俗屠夫”，在草根维权界享有盛誉。2009年以来，吴淦频繁出现在诸多社会热点事件的最前沿。</p>
-<p>湖北的维权人士姚立法说，在一些维权热点案件中，吴淦自发调查事件真相，并征集现场目击者的视频和录音采访，放到网上，挑战官方的说法。</p>
-<p>“吴淦只是在行使公民监督政府的合法权益，中国宪法的第四十一条明文规定，公民有权监督政府和官员。”</p>
-<p>新华社在吴淦被逮捕后，曾经在今年5月底发表文章说，吴淦在2009年的湖北恩施“邓玉娇事件”中一举成名，其后又参与多起热点案件、事件的炒作。网上还有他发布的“经验心得”—要围魏救赵，欲擒故纵，声东击西，不要针对事件本身，而是抓住当地公共事件或反腐话题形成焦点。</p>
-<p>四川成都的维权人士黄琦对此表示，新华社对吴淦的指责没有任何道理。</p>
-<p>“吴淦在草根维权人士是要高调一些，他会到现场举牌示威，或在网上发表文章和视频，但是这都是合法行为，当局最初也对他的这些做法比较容忍。”</p>
-<p>但是最近一个时期，中国政府对维权人士的态度越来越严厉。</p>
-<p>“就连比较温和的维权人士都被政府抓捕，那么吴淦这样比较高调的草根维权人士自然就成为严厉打击的对象。”</p>
-<p>黄琦说，吴淦帮助弱势群体维权，实际上有助于缓和社会矛盾。</p>
-<p>“如果政府一党独大，司法又不公正，民众有冤无处诉说，连吴淦这样的安全阀也被关上，那么社会矛盾就会更加尖锐，中共希望的长治久安就会成为泡影。”</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%B1%A0%E5%A4%AB%E5%90%B4%E6%B7%A6%E8%A2%AB%E4%BB%A5%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%AD%89%E4%B8%A4%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%A4%AB/?category=18271" rel="tag">屠夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E7%BD%AA/?category=18271" rel="tag">煽动颠覆罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%A0%B9%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">草根维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BD%E8%B0%A4%E7%BD%AA/?category=18271" rel="tag">诽谤罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%B4%E8%82%83%E5%86%9B%E9%98%9F%E8%B4%A2%E7%BB%8F%E9%97%AE%E9%A2%98-%E5%BC%BA%E8%B0%83%E6%89%A7%E8%A1%8C%E7%BA%AA%E5%BE%8B/" target="cdt-mirror">自由亚州｜中国整肃军队财经问题 强调执行纪律</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/29b94068-1f4f-4f33-800a-aff3b9d4cbd6.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/29b94068-1f4f-4f33-800a-aff3b9d4cbd6.jpeg" alt="资料图片：2015年3月15日，第12届全国人民代表大会第三次会议期间，中国人民解放军代表团抵达人民大会堂。（AFP PHOTO）" width="575" height=""></a><p>资料图片：2015年3月15日，第12届全国人民代表大会第三次会议期间，中国人民解放军代表团抵达人民大会堂。（AFP PHOTO）</p></div>
-<p>中国中央军委经过最近的全军财务清查，发现大量违规问题，包括擅自调整经费预决算、截留克扣挪用经费、超预算开支、违规开立银行账户、隐匿转移预算外收入、设立“小金库”、擅自扩大成本性开支等。</p>
-<p>据中国官方新华网７月２日的报道，中国全军财务工作大清查领导小组办公室日前印发施行《全军财务工作大清查业务纠治办法》，对财务清查中发现的预算管理、账户资金管理、经费开支、结算管理、内部接待场所财务、预算外经费管理６个方面，以及69种财经违规进行纠治整改，深查严纠突出问题，规范财经纪律，形成依法管财的长效机制。</p>
-<p>报道说，根据中央军委主席习近平和军委的部署，从今年２月开始的全军财务工作大清查行动，对2013年度和2014年度各项经费收支使用管理情况进行了全面清查，通过各单位自查自纠和全军蹲点督查，发现一些单位和部门存在擅自调整经费预决算、截留克扣挪用经费、无预算超预算开支、违规开立银行账户、不按规定存储资金和借垫款、违规发放福利补助、超标准超范围接待走访慰问、利用虚假发票合同套取资金、结算手续程序不合规、未按规定签订并履行合同、在内部接待场所转移报销开支、隐匿转移预算外收入设立“小金库”、拖欠应上缴经费、擅自扩大成本性费用开支等大量财经违规问题。</p>
-<p>中国官媒人民网曾报道，军方5月2日公布第二批14名将军重大贪腐案件的查处情况，涉及海、陆、空和二炮各军种，包括总参管理保障部副部长刘洪杰，成都军区联勤部部长朱和平，沈阳军区联勤部部长王爱国，以及广州军区联勤部原部长陈剑锋等。</p>
-<p>就中国军队腐败问题，国际反腐组织“透明国际”的亚太事务协调人廖然指出，虽然中国近来的军队反腐，查处了一些腐败“大老虎”，但中国军队军经商及腐败问题依然严重。</p>
-<p>“中国军队的腐败问题是太严重了。军队反腐虽然已经进行了一段时间，但腐败活动依然存在。最近曝光的茅台会就显示，军队中现在存在的腐败活动显然是与中央去年年底发布的八条规定对着干的。”</p>
-<p>人民网今年1月也曾报道，军方公布的16名将军的重大贪腐案件，包括前中央军委副主席徐才厚，总后勤部副部长符林国和刘铮、二炮副政委于大清、以及军事院校的4人和各军区的7人等。</p>
-<p>旅美中国学者谢选俊指出，中国军队的腐败现象已不能简单用“腐败”两字来形容，已变成了商业军队。</p>
-<p>“中国军队的腐败现象已经是不能仅仅用‘腐败’这两个字来形容的。中国人民解放军已由过去的政治军队变成了现在的一支商业队伍。习近平要是想在历史上立功的话，应该设法把中国军队变成一支真正的职业国防军。”</p>
-<p>中国军事检察机关指控前军委副主席徐才厚上将利用职务便利，为他人晋升职务提供帮助，直接和通过家人收受贿赂，数额特别巨大。徐才厚今年3月15日因病去世，免于受审。中国官媒报道，另一名前军委副主席郭伯雄上将的儿子郭正钢少将因腐败受到调查。有海外媒体报道，郭伯雄本人也在接受贪腐调查。</p>
-<p>（记者：希望 责编：嘉华）</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%B4%E8%82%83%E5%86%9B%E9%98%9F%E8%B4%A2%E7%BB%8F%E9%97%AE%E9%A2%98-%E5%BC%BA%E8%B0%83%E6%89%A7%E8%A1%8C%E7%BA%AA%E5%BE%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E6%80%A7%E8%85%90%E8%B4%A5/?category=18271" rel="tag">制度性腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AD%BB%E5%88%91%E7%8A%AF%E5%B0%B8%E7%9A%AE%E4%B9%8B%E4%BA%89/" target="cdt-mirror">【网络民议】死刑犯“尸皮”之争</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%AD%BB%E5%88%91%E7%9A%AE%E8%82%A4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%AD%BB%E5%88%91%E7%9A%AE%E8%82%A4.png" alt="死刑皮肤" width="500" height="469"></a></p>
-<p>台湾卫福部长对待中国大陆欲捐赠“尸皮”（指生物敷料，文末附背景信息）一事态度谨慎，表示需要<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E9%A0%AD%E6%AE%BC%EF%BD%9C%E4%B8%AD%E5%9C%8B%E6%83%B3%E6%8D%90%E5%B1%8D%E7%9A%AE-%E8%94%A3%E4%B8%99%E7%85%8C%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%AD%BB%E5%88%91%E7%8A%AF%E7%9A%84%E6%89%8D%E8%A1%8C/" target="_blank">先确定尸皮不是从死刑犯取得</a>的才可以接受。这则新闻经过一些大陆媒体报道之后引来大量网民关注，立场基本呈两极化：一方面，许多人表示台湾的态度并无不妥，中国大陆长期以来的确在使用死囚器官一事上声名狼藉，遭到国际社会的诟病。另一方面，也有相当数量的“爱国青年”表示愤怒，痛斥台湾不知感恩，“不要拉倒”；同时竟也有不少人似乎认为从死囚身上取用器官／皮肤是理所当然的。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>连鹏:不明白评论里为何那么多骂台湾的。。。</p>
-<p>陆丰客：我也想知道这些皮肤哪来的</p>
-<p>雪鹭的足迹：很正常啊，评论真是三观不正，用死刑犯的难倒应该吗</p>
-<p>水灵灵的江湖小郎中：看评论只能呵呵了，病态的社会病态的人才会觉得政府在死刑犯身上卸个胳膊扒个皮太正常了。让我想起一个故事：一群苍蝇从小吃屎，突然发现隔壁邻居家的苍蝇居然不吃，饿着也不吃，纷纷骂该苍蝇，有屎不吃，贱！傻逼！</p>
-<p>汤齐Cara：看完热评真的觉得很不舒服。台方不接受死刑犯的皮肤是因为，如果皮肤来自死刑犯，很有可能不是他们自愿捐赠的，他们并不想要强行剥夺来的好伐。评论里好多人大概觉得，死刑犯的器官就可以随意处置了。</p>
-<p>付指进:走出去才知道什么是法</p>
-<p>一口润：这有什么好骂的，人家只是希望是合法的皮</p>
-<p>任金池：这脸抽的漂亮</p>
-<p>日剧狂魔:评论里那些骂台湾的应该都还在上初中跟小学吧。gou共国际市场贩卖死囚器官这事儿早就烂大街了。</p>
-<p>宪中_李小念：中国以前用死刑犯的器官做移植，导致了中国器官移植的专家几十年都不受国际医学组织的待见</p>
-<p>Xing丶L：评论里很多人没搞懂台湾为什么会这么说[doge]</p>
-<p>夏日游风：中国的人权状况全世界都知道了，就尔等屁民还被蒙在鼓里，哈哈哈</p>
-<p>Q的三次元：我觉得台湾这样提要求很正常，倒卖死刑犯器官本身就没有人性没有人权，国外都曝光这事儿好久了，国内还一直封锁⋯⋯台湾有权力质疑！</p>
-<p>To__to__ro：评论里很多傻逼还在认为死刑犯的皮肤和器官是可以随意摘取的？？？</p>
-<p>sysu_厚_礼：一国两智</p>
-<p>瑪姬君_認真活攢人品見男神：这也是社会发展程度差异了……要真用了没有consent的捐献源，ww相关负责人会被骂到什么程度很难说</p>
-<p><strong>痛斥台湾的言论大致有以下几种：</strong></p>
-<blockquote>
-<ol><li>器官／皮肤难道不都是在死刑犯身上取的？</li>
-<li>死刑犯罪大恶极，被取器官是咎由自取。</li>
-<li>救人要紧，人权这时候可以放一放。</li>
-<li>大陆对台湾献媚，对他们“太好”。</li>
-<li>台湾逢大陆必反，认日美“作爹”。</li>
-<li>不知感恩，“给脸不要脸”。</li>
-</ol></blockquote>
-<p><strong>举例：</strong></p>
-<p>花开伴夏_：好好的人谁给你皮，除了死刑犯什么的，没有无私奉献的</p>
-<p>奇味花生：呵呵，不是死刑犯，哪来的皮</p>
-<p>Answer-ever：被炸的有你自己家人的时候，你还会问吗？是追究这个问题重要还是救那些无辜的人重要？</p>
-<p>不愿透露姓名的華三栋同学：就算是死刑犯的皮又怎么了？精神犯了罪连肉体都不干净了？？<br>
-贺贺的鱼：真他妈丢人，跪舔人家还不稀罕！</p>
-<p>谁给你的胆_：台湾犊子 自认清高不愿和大陆往来</p>
-<p>不见青山缘自到：这个时候还玩个毛线的不饮盗泉水，装逼就装逼，矫情就矫情。</p>
-<p>小汤圆没馅儿：爱要不要，让你美爹日爹给你整去</p>
-<p>Answer-ever：被炸的有你自己家人的时候，你还会问吗？是追究这个问题重要还是救那些无辜的人重要？</p>
-<p>我是壮壮哥_：操尼玛的是死台巴子，大陆干嘛老要这样热脸贴冷屁股</p>
-<p>鹿衬：傻逼台狗死完了算了，给你你就拿着，不然就给钱，逼事真多，死刑犯也比台狗命值钱。</p>
-<p>小鲨鱼先生：看来太高级了还挑，猪皮给你！</p>
-<p>光军King：去死吧 不给了</p>
-<p>和风尔雅：连喷个日本膏药旗的不敢的地儿，还给脸不要脸，也就在家里横，出外面立马装孙子！</p>
-<p>云臻海军工厂：这不是就是典型的“讨饭的还嫌饭凉吗”？</p>
-<p>Jennifer-CMD：他妈逼台湾死婊子不要脸的狗奴才</p>
-<p>小忻肝期待小贝回家：妈哒，真的是贱人就是矫情，救他妹。。</p>
-<p>2008沉不香1988：惯的，当父母的不教育孩子，不打不骂，哄着爱着棒着，最后出来的孩子都和傻逼一样！！</p>
-<p><strong>附：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E5%A4%AE%E7%A4%BE%EF%BD%9C%E5%85%AB%E4%BB%99%E5%A1%B5%E7%88%86%E9%80%B2%E5%8F%A3%E5%B1%8D%E7%9A%AE%E4%BE%86%E6%A4%8D%E7%9A%AE%EF%BC%9F%E8%AA%A4%E6%9C%83%E5%A4%A7%E4%BA%86/" target="_blank">中央社｜八仙塵爆進口屍皮來植皮？誤會大了</a></strong></p>
-<blockquote><p>八仙樂園塵爆近500名傷患分散各院，出現屍皮的不夠情況，讓民眾誤以為趕快進口屍皮，就能幫體無完膚的傷患「植皮」；至於廠商捐贈的不沾敷料，也讓家屬誤以為敷料「不會沾黏傷口」，體無完膚的孩子在換藥時不會有活生生剝皮的劇痛。</p>
-<p>屍皮、敷料有何不同？戴念梓解釋，屍皮是同種生物敷料，來自經過處理的大愛者捐贈皮膚，還有異種生物敷料來自豬皮；另外還有人工皮、不沾敷料、銀離子抗菌敷料等。目的都是給皮膚缺損的傷患提供保護，免於脫水、失溫、感染等風險危害生命。</p>
-<p>戴念梓認為，屍皮雖有排斥問題，卻有許多優點，包括屍皮有人類的膠原蛋白，能與傷口貼合，皮肉合一，加速復元，為未來植皮打下良好基礎；屍皮大約可用2週，塵爆傷患目前處於免疫力較低的狀況，排斥反應也低，屍皮大概可撐4週，省了病人換藥劇痛。</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AD%BB%E5%88%91%E7%8A%AF%E5%B0%B8%E7%9A%AE%E4%B9%8B%E4%BA%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%B2%89%E5%B0%98%E7%88%86%E7%82%B8/?category=18271" rel="tag">台湾粉尘爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%99%A8%E5%AE%98%E7%A7%BB%E6%A4%8D/?category=18271" rel="tag">器官移植</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E5%88%91%E7%8A%AF/?category=18271" rel="tag">死刑犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E5%9B%9A%E5%99%A8%E5%AE%98/?category=18271" rel="tag">死囚器官</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E7%8B%97%E8%85%BF%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E4%BB%A4%E4%BA%BA/" target="cdt-mirror">唐映红 | 心理学问答：“狗腿子”为什么那么令人憎恶？</a>
-</h2>
-<p><p><strong>问：“狗腿子”为什么那么令人憎恶？</strong></p>
-<p>答：所谓“<strong>狗腿子</strong>”，一般的解释为<strong>走狗，为恶势力效劳帮凶的人</strong>。既然是为恶势力效劳帮凶，那么人们憎恶之也就顺理成章。但从心理学角度，却没有这么简单。</p>
-<p>首先，<strong>人们普遍憎恶“狗腿子”，最主要的原因是他们所为之效劳的恶势力往往掌握了垄断的，甚至是绝对的权力，人们无法也无能将愤怒宣泄到掌握了权力的恶势力上，那么“狗腿子”显然就成为了人们泄愤的“出气筒”。</strong>一般来说，“恶”本身就令人憎恶，当人们有能力或途径制衡或阻遏“恶”时，人们憎恶的就只是“恶”本身。但一旦“恶”与权力结合在一起，使人们没有能力或途径去制衡和阻遏“恶”，这时，人们在面对恶势力的为非作歹所激发的愤怒无法直接针对恶势力而表达出来。特别地，<strong>如果60多年的时间里，一代又一代的人都无力去制衡或阻遏恶势力，</strong>那么人们在面对恶势力时就会产生“<strong>习得性无助</strong>”（Learned helplessness），因此<strong>不再将愤怒指向恶势力本身，转而转向更现实的目标，即恶势力的帮凶，“狗腿子”。</strong></p>
-<p>由于“狗腿子”往往是具体的，与受到压迫的人们没有明显差异的同阶层的人，那么<strong>人们将对恶势力的愤怒转移到“狗腿子”身上就具有相当的现实性。</strong>例如，当一个社会的警察机构沦为压榨和侵害人们权利的暴力机构，并从属更为庞大的垄断恶势力的一部分时，每个受到压迫的人显然没有可能针对警察机构或背后垄断恶势力发起挑战，这时，人们就可能把怒火转向具体的警员，特别是基层干脏活的警员。这些警员往往与那些受压迫的人们一样出身社会底层，他们甚至也是受害者。但也<strong>正是因为基层的警员对恶势力而言无足轻重，人们憎恶和挑战他们是安全的，有时候甚至是“有效”的，恶势力有时会为了取悦人们而牺牲掉一些“棋子”。</strong></p>
-<p>造成人们普遍憎恶“狗腿子”的第二个原因则是<strong>感知显著性</strong>（Perceptual salience）。<strong>由于掌握垄断权力的恶势力并没有什么机会去直接压迫具体的某一个人，直接对人们带来的压迫的往往是干脏活、累活的“狗腿子”，人们只能感知到他们，而不大可能感知到指使他们的幕后黑手。</strong>因此，人们憎恶“狗腿子”比憎恶背后的恶势力更普遍更强烈也就不奇怪了。</p>
-<p>除此之外<strong>，“狗腿子”整个群体的名声也容易被其中一些具有特异性人格特质的成员所“污名”。</strong>一般来说，在受恶势力指使执行一些不道德的任务时，普通人大凡都有恻隐之心，尽可能网开一面，而不大可能变本加厉。但有一种人格类型却不仅令受压迫的人憎恶，连他的同僚也不待见。这种人格类型为“<strong>权威型人格</strong>”（Authoritarian personality）。<strong>具有权威人格的人往往具有两面性，一方面对比他们强的人表示服膺和顺从，另一方面却对比他们弱的人表现出压榨和侵犯的倾向。</strong>因此，<strong>掌握了垄断权力的恶势力更容易得到权威人格的人的认同和服膺；而且他们在代表恶势力去压迫他人时，更可能表现得更严厉和苛刻。</strong>有时候，他们仅仅因为彰显自己的权威感，即时没有得到恶势力的指使，也会自作主张地欺压那些比自己权力低的人群。在影视或文学作品中，所塑造的<strong>典型的“狗腿子”形象，基本上都具有明显的权威人格特质。</strong>因此，他们就成为了“狗腿子”群体刻板印象的根源，人们因为千百倍地憎恶这些权威人格的“狗腿子”，也连带地千百倍地憎恶整个“狗腿子”。</p>
-<p>综上所述，<strong>因为对恶势力的习得性无助，转而憎恶“狗腿子”；对直接执行压迫任务的“狗腿子”有着更多的感知显著性；以及典型“狗腿子”的权威人格特质所形成的刻板印象，这三个因素基本上就解释了人们为什么憎恶“狗腿子”，甚至比憎恶恶势力更甚。</strong></p>
-<p>2015-07-02</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E7%8B%97%E8%85%BF%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E4%BB%A4%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">制度作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2-%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">唐映红.作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%AE%E5%87%B6/?category=18271" rel="tag">帮凶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81%E4%BA%BA%E6%A0%BC/?category=18271" rel="tag">权威人格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%97%E8%85%BF%E5%AD%90/?category=18271" rel="tag">狗腿子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>

@@ -24,6 +24,63 @@
     
     </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A1%E4%BA%B2%E4%BB%AC-%E5%86%8D%E8%B7%91%E6%88%91%E4%BB%AC%E5%B0%B1%E5%BC%80%E6%9E%AA%E4%BA%86/" target="cdt-mirror">【网络民议】乡亲们 再跑我们就开枪了</a>
+</h2>
+<p><p><strong>新闻背景：</strong>7月6日周一早盘，沪指高开大涨逾7%，开盘近千股涨停，早盘高开低走，盘中破3900、3800、3700点，仅金融股逆势大涨，午后开盘沪指跳水逼近前期新低，权重股低迷，题材股盘中再现跌停潮，临近尾盘沪指震荡走高。</p>
+<p>截止收盘，沪指报3775.91点，涨89.00点，涨幅2.41%；深成指报12075.77点，跌170.26点，跌幅1.39%；创业板报2493.83点，跌111.45点，跌幅4.28%。</p>
+<p>新闻链接：<a href="http://www.cankaoxiaoxi.com/roll/roll10/2015/0706/841067.shtml" target="_blank">沪指涨2.41%重返3700 金融股拉升护盘</a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>EnochLu：“得先让豪绅出钱，带着百姓捐钱。豪绅捐了，百姓才跟着捐。钱到手后，豪绅的钱，如数奉还，百姓的钱，三七分账。” —— 《让子弹飞》#股市</p>
+<p>lijiansion: A：冲进去，被套14个点，说好的各路资金呢？郁闷！B：你不就是各路资金。</p>
+<p>laokalaoka：环球时报煽动离场。#居然不是P的</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJNKLUhUAAM1Gok.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJNKLUhUAAM1Gok.jpg" alt="CJNKLUhUAAM1Gok" width="450" height="799"></a></p>
+<p> </p>
+<p>avb001：有人说救市成功与否管我屁事，除非你一点私人财产都没有，不然金融危机一旦爆发，通货膨胀，外资撤离，人民币会大幅贬值，个人财产大幅缩水，这样还不管你事？所以说到底还是需要你自己判断，对政府有信心你就买股票，没信心你就把自己那点人民币去换美元黄金，最起码危机来了能让自己少损失一点。</p>
+<p>jajia：解放军进村了，乡亲们拔腿就跑。政委说：“乡亲们！再跑我们就开枪了！”#2015股灾#</p>
+<p>0xFFF101010：妈蛋，一早上亏了近十五万，谁说新手手气好的？哪个说4500的？</p>
+<p>Vela1680：现在的问题不是配资爆仓，而是所有已配资、融资的人，都不想、不敢、不能再玩了。每个股民有十块钱，有人在问银行借了90，在高位买了100块的票，但那票只值10块，现在50，你让别人接盘，即便别人愿意接盘，他也要再去借40，现在还有人敢借他40吗？</p>
+<p>williamlong：股民段子：上联：让你涨你就涨不涨也涨 下联：让你跌你就跌不跌也跌 横批： 市场经济。</p>
+<p>网易网友：周一至周五，空头：对三。多头：…要不起。空头：一个四。多头：…要不起。空头：三五带两四。多头：…要不起。周末，空头：对四。多头：王炸！！！空头：顺子。多头：王炸！！！空头：一个六。多头：王炸！！！空头：没牌了。多头：王炸，王炸，王炸！！！空头：一副牌就一对王炸，你哪来这么多？多头：你管呢？王炸！</p>
+<p> </p>
+<p>话糙理不糙版：股民是花钱被国家嫖了，每天被糟蹋的不要不要的，还舍不得下床，总认为国家摸裤子口袋的时候是要给钱，可每次都他娘的拿出个套再糟蹋一遍又一遍…</p>
+<p>linglingfa：中国真有意思。买了房的人，房价许涨不许降；买了股的人，股票许红不许绿。房价涨了股市红了，那是他们高瞻远瞩头脑有佳，如果反过来，那就是境外敌对势力搞的鬼了。哈哈哈哈。</p>
+<p>MyDF：开盘以涨停价买到了股票的那拨人才是真正的爱国者，市场用20%的跌幅回报他们，“跟党走，上天台。”</p>
+<p>VinkySimon：今天中午是我在办公室经历过最安静的一个中午，股神们终于都闭上了嘴巴，好像一群终于长大的少年，不会再拿着脸盆扔上天就说自己拥有UFO。</p>
+<p>xyz98：原以为上周五割肉打新者已经够悲惨了，现在看来剧本还可以进一步深化：本周一这帮人开盘抢涨停，结果午盘即跌停，资产再次蒸发20%。#悲剧无下限</p>
+<p>温克坚：统治合法性的缺失，使得高层一直处在“亡党亡国”的焦虑中，紧绷神经会导致官僚机器策略扭曲行为过度，导致危机不断螺旋式升级，变成一场自我实现的灾难预言。党国正进入亮底牌（底裤）的模式，welcome!</p>
+<p>Arctosia：看天朝媒体引用一句话，说是巴菲特说的：“ 过去238年，没有人靠押自己国家崩溃而获巨大成功”。查到原话：Who has ever benefited during the past 238 years by betting against America? 救市救到脸都不要了。</p>
+<p>pufei：一觉醒来，想想国家队救市也没有什么不好，救市成功我们身边会有新富豪，救市失败我们就有新中国，这是历史上难得的双赢局面！</p>
+<p>pufei：救市指南：周一告知左派脑残，帝国主义做空中国。周二告知右派脑残，国际左派做空反政改。周三告知理中脑残，光暴党做空大大。周四告知阴谋论脑残，蛤李联手做空习王。周五告知宗教脑残，异端做空，断送中国梦。估计一年下来大盘也就30000点吧。</p>
+<p>琢磨先生：证监会说你们要什么政策我们给什么政策。汇金说你们抛多少我们接多少。央行说你们要多少钱我们给多少钱。政府说你们要什么规则我们给你们什么规则。就这相当于，不管空头出什么牌，多头都可以出王炸，周一可以直接把空头炸的开始怀疑人生。</p>
+<p>yangwenrui：大学同学微信群里因为股市行情分成两波，在金融行业和买股票的都被套牢深信习李会救市，一波是没有炒股的说相信救市的傻逼。</p>
+<p>williamlong：本来正在美国上市的很多国内一流互联网企业准备回归A股，现在突然暂停了IPO，估计这些互联网企业一两年是回不来了，为了让国内这些垃圾股不崩盘，而阻止优质的企业回归，这就是所谓的“劣币驱逐良币”。</p>
+<p>szstupidcool：若干年以后，当你的孙子孙女问你，你这辈子干过什么轰轰烈烈的大事儿没有。其他人都是摇了摇头，但你能够报以坚定的眼神，告诉她，在共和国六十六年六月（2015年6月），你在抗击海外反华势力的金融保卫战中，满仓为国护盘！像邱少云那样趴在那里一动不动！一动不动！一动也不动······</p>
+<p>TXYiKe：中国证监会要求券商的1200亿周一11点前到位——一个政府机构居然召集券商开会，要求券商拿出至少15%资产投资到暴跌的股市。可见这次股市暴跌已经完全脱离了党妈的控制，中共除了耍流氓的手段，已经别无他法了。</p>
+<p>tanxinbuzu：为什么国家不惜违反市场原则来救市呢，若快速跌破3500-3400一线到达筹码密集区则会引发又一轮快速下跌，导致场内融资爆仓，股权质押爆仓真正危及到银行，金融系统，和房价崩盘农民工失业一样，不炒股的也倒霉。</p>
+<p>kcome：前几天还跟我妈说别让我爸炒股了，太危险了，我妈说我爸只打新股不做别的了。现在好了新股也没了，我爸整天该闲得蛋疼问我找媳妇的事儿了。国务院你妈逼我招你惹你了！！！</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A1%E4%BA%B2%E4%BB%AC-%E5%86%8D%E8%B7%91%E6%88%91%E4%BB%AC%E5%B0%B1%E5%BC%80%E6%9E%AA%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88/?category=18271" rel="tag">党妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%8A%A1%E9%99%A2/?category=18271" rel="tag">国务院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%9B%98/?category=18271" rel="tag">大盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E6%B0%91/?category=18271" rel="tag">股民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9E%8D%E8%B5%84/?category=18271" rel="tag">融资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%99%86%E7%94%9F%E7%9A%84%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9/" target="cdt-mirror">【麻辣总局】陆生的毕业礼物</a>
+</h2>
+<p><p>@-育婉日記：網路上瘋傳照片，陸生畢業，收到馬總統的簽名照當做畢業禮物，台灣學生一聽到把簽名照當禮物，臉上三條線，陸生：「很榮耀啊！馬總統給我送的照片啊，還要貢起來傳給下一代啊！」台灣大學生：「有點傻眼，應該直接撕掉吧，哈哈。」</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/ZxiaO.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/ZxiaO.jpg" alt="ZxiaO" width="510" height="287"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/07/SE2yW.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/SE2yW.jpg" alt="SE2yW" width="510" height="287"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/07/hlVMc.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/hlVMc.jpg" alt="hlVMc" width="510" height="287"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%99%86%E7%94%9F%E7%9A%84%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9/?category=18271" rel="tag">毕业礼物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%8D%8E%E9%82%AE%E7%A4%BE%E8%AE%BA%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%9D%83%E5%8A%9B%E7%9A%84%E8%B4%AA%E5%BE%97%E6%97%A0%E5%8E%8C/" target="cdt-mirror">博谈网 | 华邮社论北京对权力的贪得无厌</a>
 </h2>
 <p><p>（博谈网记者欧阳剑编译报道）《华盛顿邮报》于7月4日发表了社论，社论称中国共产党为了保证党的利益高于一切， 对所有它认为有可能威胁其权力的组织进行控制，进而铲除，而不管这些组织对中国人民给予的好处和帮助。 以下为原文译文。</p>
@@ -596,55 +653,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%A5%89%E6%97%A8%E8%87%AA%E8%A3%81%E8%BF%98%E6%98%AF%E8%BE%95%E9%97%A8%E6%9E%AD%E9%A6%96%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%A5%B3%E5%B7%A5%E7%BB%84%E7%BB%87/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">劳工维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BC%9A/?category=18271" rel="tag">工会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B8%A9%E5%85%8B%E5%9D%9A-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E8%92%99%E4%BB%A3%E5%B0%94%E9%98%B4%E5%BD%B1/" target="cdt-mirror">温克坚 | 中国经济的“蒙代尔阴影”</a>
-</h2>
-<p><p>2015年6月27日，中国人民银行再次宣布降息降准，公众普遍把这次降息降准解读为对资本市场的救市措施。在6月26日，中国资本市场出现暴跌，数千只股票跌停。对于央行以及证监会推出的各种救市政策组合，资本市场已经给出了简单粗暴的回应，对此不再赘言，不过从2014年以来，央行已经连续数次降息，连续降息对人民币汇率和中国国际资本流动格局，其中长期影响可能是更深远的，也是本文试图进一步分析的着力点。</p>
-<p>分析国际资本流动格局，无法回避所谓的蒙代尔定理。所谓蒙代尔定理，是诺贝尔经济学奖得主罗伯特·蒙代尔首先提出的，其基本内涵是，一个经济体不可能同时维持货币政策独立性、固定汇率和跨境资本自由流动这三个关键特征。</p>
-<p>蒙代尔定理并不费解，通过简单的推导就可以明白其中的机理。大多数发达经济体事实上都实行浮动汇率制度，也允许资本自由流动，而在货币政策上可以保持相对的自主和独立性。欧元区成员国虽然把货币政策让渡给欧洲中央银行，但欧洲中央银行本身在货币政策上是有充分独立性的。发达国家并没有出现和蒙代尔定理相悖的经济现象。</p>
-<p>中国的情况则要复杂一些，长期以来，在这三个特征中，中国选择了牺牲资本自由流动来捍卫货币政策独立性和坚守固定汇率这两个特征。虽然官方表述把固定汇率机制替代成为“以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度”，但实际上，人民币汇率虽然有小幅波动，但其固定汇率特征是没有多少争议的。而表面上，中国虽然实行着严格的跨境资本流动，但随着经济活动复杂化和全球化，这种对资本流动的管控措施效率越来越低，经济体内事实上已经存在各种各样的资本流动通道，包括正式的QDII/QFII、贸易和投资转移、地下钱庄、现金进出等，资本项下的管控措施不过提高了资本流动的成本，而不可能真正控制住资本流动。</p>
-<p>随着经济形态的变化，变化会刺激更多变化，就中国现实经济情境而言，货币政策的独立性，固定汇率和国际资本自由流动这三个关键特征其实都没有那么灰色和纯粹，我们需要借助蒙代尔定理提供的视角，重新解释面貌模糊的现实。</p>
-<p>最显著的变化发生在跨境资本流动这个维度。从2003年中国加入世贸组织以来，中国经济经历了一轮明显的扩张周期，伴随这个过程的是长期的大量的资本流入，其形式包括对外直接投资(FDI)、美元债务、资产套利和资本市场上吸引的各种热钱，这种巨量资本流入的一个副作用是对货币政策独立性的冲击。其实多年以来，央行货币政策都相当不由自主，央行被迫以外汇结汇的方式释放了大量的人民币基础货币，随之也带来了广义货币的居高不下，这是2003—2008年这个阶段资产泡沫化和通货膨胀的核心机制。</p>
-<p>2008年美国发生次贷危机之后，虽然中国一度形成过短暂的资本外流趋势，但由于美联储把贷款再贴现利率降低到零，并推出定量宽松政策，美元流动性泛滥，重新从美国回流到全世界，同时中国推出以“四万亿”为名的经济刺激政策，也吸引了大量海外资金流入，这是2009—2013年这个阶段，经济恢复表面繁荣和资产再度泡沫化（其中以楼市最为明显）主要动力。</p>
-<p>不过2014年以来，中美两国经济走势上形成明显的分野，美国经济由于其强大的创新能力再次切入上升轨道，而中国经济则由于结构性沉疴而步入衰势，在货币政策上，是人们对美联储加息预期不断增强，而中国则不断通过降息来释放流动性刺激经济。反应在国际资本流动上，则是国际美元开始回流美国，而中国外汇储备开始下降。根据公开数据，2015年第一季度流出中国市场的资金规模达到创纪录的840亿美元。</p>
-<p>在固定汇率制度下，美元的流出意味着人民币流动性的收缩，不断流出的美元对冲着央行释放流动性的政策意图，央行被迫多次降息降准来释放流动性，释放流动性本身会强化人民币贬值预期，也间接鼓励更迅猛的资本外流。这种逻辑上的正循环，必然会随着美联储加息而强化，其最终后果难以预料。</p>
-<p>当然，这种经济迭变的剧目不会一气呵成。正如人们所预料的那样，2015年6月份美联储公开市场委员会会议，并没有宣布加息，甚至也没有对9月份加息的更强烈的暗示。而2015年5月中国国际收支，一反最近几个月的逆差，居然有了80多亿美元的顺差，这些都可以让经济决策者松一口气，官方也不失时机的强调中国并不存在资本外流的现象，资本进进出出都是正常的波动而已。</p>
-<p>但中国财经决策层明白，美联储进入加息通道是不可避免的，大量资本外流的危险一直存在，中国货币政策正在失去自主权，更加糟糕的是，前些年过度释放的流动性就像一个超级堰塞湖，配合恐慌情绪主导的大众从众行为，很容易在短期内引发一场金融风暴，目前拥有的外汇储备根本不足以对抗这场潜在的金融风暴。1997年东南亚金融风暴就是前车之鉴。</p>
-<p>在这种达摩克里斯之剑的阴影下，中国央行正通过各种复杂操作来对冲这种趋势，并刻意展示信心，这种策略对于不敏感的公众或许有效，而对专业机构和交易对手而言，恰恰是更好的博弈机会。正如正在发生的股灾一样，官方很容易陷入自身意图和策略所构建的陷阱。</p>
-<p>通过上述分析，我们可以看出，在现实经济情境中，跨境资本流动和货币政策独立性都已经不那么纯粹，相对而言，人民币汇率还处在央行的有效掌控之下，但问题其实也恰恰出在这里。固定汇率加上对资本流动的管控在短期内给予了货币政策恣意的空间，但长期而言必将，恣意的人民币投放必将冲击固定汇率本身；固定汇率在短期之内挡住了国际资本流动带来的震荡，但在长期内却积聚了更大资本流动带来的压力。对人民币汇率的坚守，其代价是货币政策和国际资本机制流动相互作用，形成了可怕的金融危机前景，这是蒙代尔定理提供的视角，这是笼罩在中国经济上空的一个挥之不去的阴影。</p>
-<p>那么在这些多重压力之下，人民币汇率本身是否会坚如磐石？笔者在几个月前撰写的相关文章里，曾经指出为了化解资本大幅外流的可怕前景和恢复货币政策的有效性，不排除央行提前出手，在人民币汇率上采取主动贬值措施，释放贬值套利压力。尽管这种措施可能是必要和恰当的，但却不得不受到决策层其他政治目标的制约，这些目标包括但不限于人民币国际化战略，一带一路战略等等，这些战略阻碍着人民币汇率的弹性空间，这些更复杂的相互关系留待以后的文章去解释。而目前看来，在相互冲突的目标驱动之下，央行正在打一场不可能获胜，却也输不起的战斗。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B8%A9%E5%85%8B%E5%9D%9A-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E8%92%99%E4%BB%A3%E5%B0%94%E9%98%B4%E5%BD%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E5%A4%96%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%97%A0%E7%A5%9E%E8%AE%BA%E6%94%BF%E5%BA%9C%E5%B7%A8%E8%B5%84%E6%89%B6%E6%8C%81%E5%AE%98%E6%96%B9%E6%95%99/" target="cdt-mirror">自由亚州｜外媒：中共无神论政府巨资扶持官方教会</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/bc6b0b05-5aaa-43dd-890a-0bbf553a9a27.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/bc6b0b05-5aaa-43dd-890a-0bbf553a9a27.jpeg" alt="图片： 天津一天主教教堂的牧师在新建的教堂外接受采访，称感谢当局斥资1900万元兴建该教堂。 （法新社图片）" width="575" height=""></a><p>图片： 天津一天主教教堂的牧师在新建的教堂外接受采访，称感谢当局斥资1900万元兴建该教堂。 （法新社图片）</p></div>
-<p>据法新社报道，天津、浙江、北京等地政府近期相继投入巨资改建官方教堂。但与此同时，中国民间教会活动却受到日趋严厉的限制。有评论认为，中国当局以统战为目的宗教政策，难以阻止非官方教会的发展。</p>
-<p>整体建筑面积达近4000平米的天津河东区圣心天主教堂，今年5月5日经天津地方政府投入高达1200万元人民币进行大规模改建后，已正式投入使用。</p>
-<p>法新社7月3日的报道说，短短几个月来，中国各地已有数十间民间教堂建筑被拆毁，而强拆十字架的活动尤其显现当局针对非官方教会信徒的打压政策日趋升温。与天津河东教堂官方牧师的喜悦不同，同样生活在天津，得到罗马天主教廷认可的88岁主教施宏帧（音译）甚至仍被当局限制行动自由，其教会用地的申请在长达十年后，至今仍没有任何结果。</p>
-<p>长期关注宗教问题的北京维权人士胡佳就此表示，中国当局投入巨资扶持官办教堂，凸显目前中国官办与民间独立教会间境况的迥异：</p>
-<p>“中国有国务院宗教管理局，各种宗教信仰都是在这个管理局之下的。也就是说，（宗教）其实是受到行政部门领导、控制的。能得到扩充的都是所谓的三自爱国教会，所有的宗教共产党都把它作为增强控制手段的工具，只能服务于党国。比如，佛教里有披着袈裟的共产党员，基督教里有披着牧师袍的党委书记。这些东西其实都把宗教扭曲了，在宗教里掺杂了许多党的意识形态和维护统治的意图。”</p>
-<p>美国民间宗教自由关注组织“对华援助协会”负责人傅希秋牧师指出，中国官方对所谓“三自教会”的扶持与当局的政治统战目的有关：</p>
-<p>“对教会和其他信仰群体来说，中国统战政策的焦点是要体现对官方所谓爱国教会的扶持，其目的是为了控制。对非注册、非官方教会就实行孤立、打压的政策。政府资助建教堂，就体现出中国政教关系非常混乱、可笑的局面。一个无神论共产党政府怎能出资去建教堂？这里的统战意味就非常明显，目的是为了建一个‘窗口’教会。”</p>
-<p>法新社的报道说，北京早在2007年即在海淀区民间宗教集会热点地区，全资聘请德国建筑设计师投建海淀教堂。目前杭州、苏州、福建等地政府也将对官方教会的资金支持，纳入了公共预算。中国当局目前针对宗教活动相对活跃的地区，采取了一种着重扶持官方教会的政策。</p>
-<p>傅希秋牧师指出，中国政府大力扶持官方教会的同时，针对民间独立教会打压却日趋严厉。非官方家庭教会活动被冠以“非法集会”、“聚众扰乱公共秩序”等刑事罪名指控的事件日渐增多。他认为，当局借扶持官方教会打压民间的举动，难以阻止中国独立教会的发展：</p>
-<p>“这不是说由于一个政府的打压或者扶持，教会就会消亡或出现人为的复兴。无论是世界宗教史还是中国教会过去60年的发展，其实都证明打压不仅不能使教会削弱或消亡，反而会促进教会的增长。教会整体独立的意识增强、维权的意识增强，而且教会的复兴会更加的壮大。”</p>
-<p>根据“对华援助协会”的统计，仅在中国浙江地区去年至今，教会遭遇当局强制拆除十字架的事件就发生了超过1100起之多。</p>
-<p>（记者：何平； 责编：嘉华）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E5%A4%96%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%97%A0%E7%A5%9E%E8%AE%BA%E6%94%BF%E5%BA%9C%E5%B7%A8%E8%B5%84%E6%89%B6%E6%8C%81%E5%AE%98%E6%96%B9%E6%95%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%87%AA%E6%94%BF%E7%AD%96/?category=18271" rel="tag">三自政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%87%AA%E6%95%99%E4%BC%9A/?category=18271" rel="tag">三自教会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E4%B8%8B%E6%95%99%E4%BC%9A/?category=18271" rel="tag">地下教会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%95%99%E4%BC%9A/?category=18271" rel="tag">家庭教会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E6%88%98/?category=18271" rel="tag">统战</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

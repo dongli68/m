@@ -94,7 +94,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0/?category=18271" rel="tag">信仰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">社会稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98/?category=18271" rel="tag">社会问题</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%9F%A5%E4%B9%8E%E7%BD%91%E5%8F%8B-%E5%86%9C%E6%9D%91%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%BB%91-%E4%BD%A0%E7%BB%9D%E5%AF%B9%E6%83%B3%E4%B8%8D%E5%88%B0/" target="cdt-mirror">知乎网友 | 农村到底有多黑 你绝对想不到</a>
 </h2>
@@ -846,7 +846,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82/?category=18271" rel="tag">世界工厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%B2%AD%E9%9E%8B%E5%8E%82%E5%80%92%E5%A1%8C/?category=18271" rel="tag">温岭鞋厂倒塌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%8F%88%E9%BB%91%E4%B8%AD%E5%85%B1%EF%BC%81%E5%8F%AF%E4%BD%A0%E5%BE%97%E5%A4%9A%E6%B2%A1%E8%84%91%E5%AD%90%E6%89%8D%E4%BC%9A%E4%BF%A1%E8%BF%99%E4%B8%AA/" target="cdt-mirror">@环球时报：又黑中共！可你得多没脑子才会信这个谣言啊？</a>
 </h2>

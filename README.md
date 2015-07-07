@@ -329,7 +329,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E7%89%87/?category=18271" rel="tag">国产动画片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%83%9D%E6%9F%8F%E6%9D%91%E6%89%B9%E8%AF%84%E4%B8%AD%E5%85%B1%E6%89%AD%E6%9B%B2%E6%8A%97%E6%88%98%E5%8F%B2-%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%8D%E6%9C%8D/" target="cdt-mirror">自由亚洲 | 郝柏村批评中共扭曲抗战史 解放军不服气</a>
 </h2>

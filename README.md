@@ -24,6 +24,78 @@
     
     </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E5%A6%82%E4%BD%95%E7%9C%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%EF%BC%9A%E4%BB%8E%E5%BE%AE%E5%8D%9A%E7%B2%89%E4%B8%9D%E5%9B%A2%E8%B0%88%E8%B5%B7/" target="cdt-mirror">BBC | 中国网民如何看政治人物：从微博粉丝团谈起</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/140206155747_china_internet_624x351_reuters.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/140206155747_china_internet_624x351_reuters.jpg" alt="中国官员在微博上也有粉丝俱乐部，这些政府官员粉丝俱乐部被视为强大的工具，能对中国网民在内政和国际事务上发挥影响力。" width="550" height="309"></a><p>中国官员在微博上也有粉丝俱乐部，这些政府官员粉丝俱乐部被视为强大的工具，能对中国网民在内政和国际事务上发挥影响力。</p></div>
+<p>尽管政府在二月时颁布了相关规定，中国社交媒体上的“粉丝俱乐部”仍然存在。</p>
+<p>国家互联网信息办公室（国家网信办）颁布新规定，防止社交媒体用户“角色扮演”他人。新华社表示，今后“以国外领导人例如奥巴马、普京为名的”用户名称、图像、账号描述会被禁止。但目前还看不出这则规定对这些公众人物“粉丝团”或“粉丝俱乐部”产生的影响。</p>
+<p>在中国社交媒体——微博（weibo）上，希拉里·克林顿粉丝俱乐部有超过35万人追踪，普京的粉丝俱乐部有2万人，南韩总统朴槿惠有7000人追踪。</p>
+<p>中国官员在微博上也有粉丝俱乐部，像是国家主席习近平、外交部长王毅、反贪腐大将王岐山，这些政府官员粉丝俱乐部被视为强大的工具，能对中国网民在内政和国际事务上发挥影响力。</p>
+<p><strong>政治人物在微博</strong></p>
+<p>中国媒体在五月大幅报道印度总理莫迪访华前开通新浪微博的新闻。</p>
+<p>根据《中国日报》报道，莫迪是第五个加入微博的“世界级领袖”，但微博总计有1.98亿活跃用户 ，推特则有3.02亿。</p>
+<p>在中国有所谓的“大V微博”，这是身分获得认证的“意见领袖”，许多名人、商业巨子、媒体人等等都有大V微博。</p>
+<p>但是中国国内的政治人物很少使用新浪微博。可是微博的西方竞争者“推特”（Twitter）恰恰相反，世界上许多领导人和政治人物会使用推特来传播讯息。</p>
+<p>以足球评论员身分在网络上成名的李承鹏，更进一部运用网络的力量，在微博上宣布以独立参选人身分竞选地方人大代表，运用网络参与政治评论的现象在中国政治人物之间是很罕见的。</p>
+<p>但就在2014年，他的腾讯和新浪微博账号被注销。一些国内媒体推测，这是政府黑手在幕后操作。《环球时报》在去年七月发表评论，暗示某些“激进自由派人士”如李承鹏，要“为他们的批评付出代价”。</p>
+<p>中国共产党官员现在会透过微博来发表官方媒体如新华社、《人民日报》、中央电视台等等的报道。</p>
+<p><strong>国内政治人物</strong></p>
+<p>中国政府似乎不太质疑中国政治人物粉丝团的权威性。而事实上，在微博上的“学习粉丝团”（在简介上写的是“习大大粉丝团”），就是国家主席习近平的认证官方账号，有280万粉丝，在中国版本的whatsapp微信上也有同样的账号。</p>
+<p>习近平的夫人彭丽媛在微博上也有一个超过67万人的粉丝团，习近平和彭丽媛的粉丝团自2012年起活跃经营，作为一个发布党的正面消息的平台。</p>
+<p>这个粉丝团成为一个中国共产党收集民众对于国内外事件看法的工具，例如，美国在六月27日宣布同志婚姻合法化，“习大大粉丝团”就问粉丝们对这件事情有何看法。4万8千名网友留言，并有超过5万5千人分享。</p>
+<p>在同一天，上千网民针对网民上传的“河南中学生群殴事件”视频，讨论是否该加重青少年刑罚。</p>
+<p>同样的，最近成立的外交部长王毅、反贪腐大将王岐山的微博，也有类似的目的，是要增加网民对于国际事务、反贪腐事件的讨论程度，获取网民意见。</p>
+<p><strong>国际焦点人物</strong></p>
+<p>中国外交部长王毅可能是最新一个获得粉丝团的中国高级政府官员（于四月成立），但网民已经在新浪微博上受到国外领导人影响很长一段时间。</p>
+<p>虽然只有10则贴文，成立于2011年的“希拉里·克林顿”粉丝团吸引了35万人追踪，但粉丝团上的贴文都集中于今年四、五月。</p>
+<p>“普京粉丝团”相形之下则更活跃，成立于2010年，旨在强化“中俄友好”与“散播正面能量”。贴文包含了“硬汉普京”图像，还有毛主席在苏联的历史照片与马克思主义的引文。</p>
+<p>从一些粉丝团可以看出中国网民如何形塑言论。台湾2016年总统大选国民党参选人洪秀柱在微博上有一个将近一万人的粉丝团，但在两岸议题上倾向主张台湾主权意识的民进党参选人蔡英文则没有。</p>
+<p>与中国外交关系不强的国家在新浪微博上则没有粉丝团，像是日本首相安倍晋三就没有。</p>
+<p>但有些受欢迎的国家领导人在微博上也不见踪影，例如，像是2015年在YouGov调查网被中国网民选为前10大“最令人景仰女性”的德国总理默克尔，就没有粉丝团。</p>
+<p>长期受中国网民欢迎的美国总统奥巴马也没有，在2014年的调查，他是第三受到景仰的人物，比普京和彭丽媛更受欢迎。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E5%A6%82%E4%BD%95%E7%9C%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%EF%BC%9A%E4%BB%8E%E5%BE%AE%E5%8D%9A%E7%B2%89%E4%B8%9D%E5%9B%A2%E8%B0%88%E8%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">中国政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">国家领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7v/?category=18271" rel="tag">大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">自由派</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%E7%BD%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E5%85%9A%E5%86%85%E6%8E%A5%E5%8F%97%E5%85%9A%E8%9C%95%E5%8C%96%E5%8F%98%E8%B4%A8%E8%B5%B0%E4%B8%8A%E4%BA%A1%E5%85%9A%E6%AF%81/" target="cdt-mirror">博讯网 | 习近平要党内接受党蜕化变质走上亡党毁国危机</a>
+</h2>
+<p><p>在中共建党周年的日期，英国《金融时报》、BBC中文网以及港媒三个渠道先后发表中共“亡党”危机相关报导，令人关注。据称，习近平在政治局扩大会议上还罕见称“要承认、接受党蜕化变质走上亡党毁国危机的事实。”</p>
+<p>据《争鸣》杂志7月号报导，6月中旬，中共政治局举行了扩大生活会，书记处书记、国务委员、人大和政协党组成员以及军委委员、中纪委副书记等均应邀参加。生活会历时两天，共长达11小时。</p>
+<p>报导指，在会上发放了一份关于中共党建和对党员干部巡视、考察的调研报告。据称，报告中毫不隐讳罗列了中共“亡党”的六大危机，并指局部政治、社会危机已经处于爆发、蔓延、恶化状态。</p>
+<p>这六大危机和问题包括：1、中共的理念、党的使命、理想和奋斗目标丧失；2、党建长期处于徘徊、迷失方向，基本处于瘫痪状态；3、党组织腐败、涣散、已渐失去社会上的凝聚力、号召力和向心力；4、党的领导干部在和平、物质丰富环境下懒、散、堕、疲、庸状况毕露；5、党政干部滥权、越权、以权谋私、权钱交易、权色交易情况泛滥，激化社会民怨、民愤；6、党政干部、公职人员道德败坏、生活腐化堕落，激化社会仇官气氛。</p>
+<p>六大危机涵盖了政治、经济、社会、信仰、前途等各个领域，显示中共体制腐败带来的吏治腐败已经无药可医。</p>
+<p>报导还披露，根据该调研报告，中央和地方高级官员平均合格率仅达1/4左右，而地方基层单位、县级党委不合格及表现差、需改组的“领导班子”高达90%以上，这实际上反映了中共党组织的根已经彻底烂掉。报导并指，习近平在该次会议讲话中罕见表示：“面对严峻事实，承认、接受党蜕化变质走上亡党毁国危机的事实。”</p>
+<p>从可收集的资料上看，中共亡党论最早是由胡锦涛提出的，2004年8月，时任中共总书记的胡锦涛在北戴河工作会议上发出此一警告，但时至今日，中共的腐败愈发不可收拾，同时也激发出中国政治、社会危机全面爆发。</p>
+<p>早前另有报导指，2013年3月，习近平在中共政治局扩大会议中曾表示，中共正面临严峻的挑战，处于生死存亡的关键时刻，他表示：“部分地区民怨到了沸点、民愤接近临界点。”</p>
+<p>2014年8月25日，中纪委书记王岐山出席中共政协常委会议，并作了脱稿讲话。他警告说，中共要防止自己垮台。</p>
+<p>近日，中共发布新的国家安全法，美国媒体CNN发表评论文章说：“中国共产党将要失去权力了吗？”文章表示，“当你看到中共新国家安全法律上列举的对国家安全构成威胁的各种政治、经济和社会问题的时候，你可以理解人们为什么会有这样的想法。”</p>
+<p>“这些威胁从社会矛盾到食品安全，从环境危机到外国宗教，从互联网到外太空，在新法律当中没有一种不是被归为国家安全风险。”</p>
+<p>此后，7月2日，中共中央党校教授，中共中央党校党史教研部主任谢春涛在BBC中文网上发表文章，其中列举中共当局面临的八大挑战：</p>
+<p>一是如何保持经济持续健康发展。</p>
+<p>二是老百姓希望有越来越多的民主自由权利和越来越健全的法治环境。</p>
+<p>三是如何提高国家文化软实力。</p>
+<p>四是如何实现社会稳定。目前矛盾多发高发，甚至演变为群体性事件。</p>
+<p>五是如何保护好生态环境。环境问题引发的群体性事件越来越多。</p>
+<p>六是如何促进国家和平统一。</p>
+<p>七是如何营造和平的国际环境。</p>
+<p>八是如何解决党内的消极腐败问题。</p>
+<p>文章所称上述问题与习近平的讲话遥相呼应。特别提及面临的诸多挑战中，最重要、最需要解决的是消极腐败问题。这个挑战解决不好、应对不力，应对其他挑战无从说起。</p>
+<p>此外，6月30日，英国《金融时报》中文版发表清华大学外籍教授贝淡宁（Daniel Bell）的文章《中共应该“正名”》，文章建议中共应该改变名称，认为中共或许不久之后就将不复存在，而应改换一个至少在名义上更现实的名称，比如“中国精英联盟”。</p>
+<p>文章称，在北京的非正式政治谈话中，人们经常同意，中共应该改名。就连党员都不信马克思主义，大多数学生厌恶马列必修课。鉴于共产主义在中国引起普遍的反感，中共保持名称不变的观念是令人困惑的。</p>
+<p>贝淡宁曾经被指称为中共放风喉舌。</p>
+<p>从上述的同类型的报道可以看出，习近平对政权危机的事实和严重程度是清醒的。此番国安法的出台以及暴力救股市的行为莫不与此思想关联。 [博讯首发,转载请注明出处]</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%E7%BD%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E5%85%9A%E5%86%85%E6%8E%A5%E5%8F%97%E5%85%9A%E8%9C%95%E5%8C%96%E5%8F%98%E8%B4%A8%E8%B5%B0%E4%B8%8A%E4%BA%A1%E5%85%9A%E6%AF%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0/?category=18271" rel="tag">信仰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">社会稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98/?category=18271" rel="tag">社会问题</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%9F%A5%E4%B9%8E%E7%BD%91%E5%8F%8B-%E5%86%9C%E6%9D%91%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%BB%91-%E4%BD%A0%E7%BB%9D%E5%AF%B9%E6%83%B3%E4%B8%8D%E5%88%B0/" target="cdt-mirror">知乎网友 | 农村到底有多黑 你绝对想不到</a>
 </h2>
 <p><p><strong>农村有多黑暗？</strong></p>
@@ -797,57 +869,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%8F%88%E9%BB%91%E4%B8%AD%E5%85%B1%EF%BC%81%E5%8F%AF%E4%BD%A0%E5%BE%97%E5%A4%9A%E6%B2%A1%E8%84%91%E5%AD%90%E6%89%8D%E4%BC%9A%E4%BF%A1%E8%BF%99%E4%B8%AA/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">国共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9F%A5%E9%9D%92%E5%8D%9A%E7%89%A9%E9%A6%86%E5%BC%80%E5%B9%95%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%89%B9%E8%AF%84%E6%8A%8A%E6%96%87%E9%9D%A9%E7%BD%AA/" target="cdt-mirror">法广｜北京知青博物馆开幕贺卫方批评把“文革罪恶变了伟业”</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/exposition-jeunes-instruits.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/exposition-jeunes-instruits.jpg" alt="2015年7月1日，知青博物馆鸟巢展开业典礼上，毛泽东纪念馆馆长杨勇赠送知青题材剪纸作品。北京大学教授、自由派学者贺卫方批评，展馆把文革“罪恶变成了伟业”。 图片取自知青博物馆" width="550" height="310"></a><p>2015年7月1日，知青博物馆鸟巢展开业典礼上，毛泽东纪念馆馆长杨勇赠送知青题材剪纸作品。北京大学教授、自由派学者贺卫方批评，展馆把文革“罪恶变成了伟业”。<br> 图片取自知青博物馆</p></div>
-<p>北京首家知青博物馆近日开幕。所谓知青，即在1968年在毛泽东的指示下，大批从城市下乡到农村的知识青年和学生，也是当年文化大革命的标志性行动之一。</p>
-<p>明报报道，内地知青约3000万人，逾50名现任中央委员、7名现任政治局委员及习近平、李克强、张德江、王岐山4位政治局常委都有知青经历。不过，北京大学教授、自由派学者贺卫方批评，展馆把文革“罪恶变成了伟业”。</p>
-<p>报道指，在本月1日开馆的北京知青博物馆，展览面积1600平方米，耗资逾400万元人民币，所展图片和物品大部分来自黑河市知青博物馆。展区开始是习、李的雕像，最后则以习的话作结：”上山下乡的经历对我的影响是相当深的，使我形成了脚踏实地、自强不息的品格……“</p>
-<p>博物馆首次展出一张李克强在田间得知大学录取时与朋友合影，但李赤脚部分被剪截了。据消息人士称，从所展高层内容之多就可以看出，该馆与官方关系非常密切，亦可能得到上层首肯。<br>
-据称，展览内容大纲经社科院院长王伟光亲审，王还捐赠了照片和手稿等展品。</p>
-<p>对此，自由派学者、北京大学法学院教授贺卫方公开表示，王伟光参与策划，“无怪乎展览（有）强烈的文革歌德派倾向，知青以及十年浩劫的苦难一点都不提，罪恶全变成了伟业”。</p>
-<p>博物馆负责人回应称，展览是为了弘扬知青不畏艰辛精神，未考虑加入反思内容。他又认为知青不等同于文革，纪念知青精神不是文革回潮。习、李均曾公开表示知青经历给自己带来磨练。据悉，内地知青博物馆已逾百家，但建立“文革”博物馆却未有进展。</p>
-<p>报道引述参观展览的北京知青张先生表示，展览最令他难过的是看到很多知青为了抢救公共财产牺牲：“当时他们真的有些无知，有命令就奋不顾身冲上去，这些知青死得很冤枉。”</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9F%A5%E9%9D%92%E5%8D%9A%E7%89%A9%E9%A6%86%E5%BC%80%E5%B9%95%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%89%B9%E8%AF%84%E6%8A%8A%E6%96%87%E9%9D%A9%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BC%9F%E5%85%89/?category=18271" rel="tag">王伟光</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E9%9D%92/?category=18271" rel="tag">知青</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A5%B3%E5%90%8C%E8%83%9E%E7%9A%84%E9%80%86%E8%A2%AD/" target="cdt-mirror">【网络民议】女同胞的逆袭</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-e1436083736883.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-e1436083736883.png" alt="" width="485" height=""></a></p>
-<blockquote><p><a href="http://www.weibo.com/2803301701/CpHEuhCcZ">@人民日报</a>：【农村适婚男女比例超4：1 彩礼动辄十几万】“一个村适婚男青年96个，女的只有23个”，有数据显示，山东省许多农村适婚男女比例严重失调。“娶媳妇难”催生高价彩礼，动辄十几万。在农村，因为孩子结婚而债台高筑的父母比比皆是，很多农村小伙儿直呼“结不起婚”。O网页链接 你怎么看？</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://www.weibo.com/2959774107" target="_blank">奈落落天</a>： 当初是你要男孩，一再堕女胎~如今这帮繁殖癌，想起媳妇来~你家儿媳土里埋，已有二十载~贞子花子伽椰子，今晚招婿来！当初是你要男孩，男孩就男孩~如今又想要后代，后代哪里来~你家儿媳土里埋，水里重投胎~砸锅卖铁娶不来，活你他爹该！！（转，原作者不明）有没有不知不觉唱起来呢？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://www.weibo.com/2063468912" target="_blank">烽烟戎舞</a>：哟，不是养儿防老么？怎么防不了了？<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]">哟，不是传宗接代么？怎么传不下去了？<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]">哟，不是男尊女卑么？怎么低三下四了？<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]">千百年的迂腐思想国家不引导不教育，任其发展，终自食恶果。打过好几个女孩子的家长们，期待您家里尊贵的儿子菊花朵朵开。</p>
-<p><a href="http://www.weibo.com/1697670394" target="_blank">MSevenEightNebula</a>：广大女同胞发来贺电<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>人生如戏请勿见怪：我觉得这不是钱的问题，而是中国观念重男轻女导致的结果，谁造成谁买单</p>
-<p>阿Xu六六六六六点五：当初流产和弄死女婴的时候何曾想过现在的报应 只求这些重男轻女的渣滓不要动歪脑筋到买媳妇上</p>
-<p>上官永清章和井悠悠：谁让你妈把你姐打了，要了你呢</p>
-<p>雄-霸天下：没关系，他们可以找男的呀</p>
-<p>-cassieY–：这就是当年你们重男轻女要付出的代价，比起一条生命这点钱算什么[微笑]</p>
-<p>郑志毅_毛老师：某村，不是农村的男女比例，小编不能因为单身造谣啊</p>
-<p>喜欢你的笑像太阳：真的假的，我山东的，我们这里很少的，相反我听到的很多南方地区彩礼特别多。</p>
-<p>真珠美人魚V：自食恶果，因为你们的媳妇早在娘胎里就被打了，生下来的还得保证能平安长大，这23个女的自身条件不错的也都嫁城里了</p>
-<p>桃千岩：对重男轻女一字不提，就说女的要的彩礼高，不带你们这么贱的</p>
-<p>東海集团3988652670：我这里就不要这么多钱，就买一套房120平米在买一台四个圆圈的小车就可以了。财礼也可以不要了！</p>
-<p>恬恬向上lxt：还延续香火呢，哈哈，打光棍吧。当是要是留下女孩长大嫁人结婚生孩子至少还能留下血脉基因，这下彻底傻眼了吧</p>
-<p>照亮菩提：石家庄地区也是，男多女少</p>
-<p>树懒小熊爱大树：北方彩礼要的很少，山东这边也就一两万，我江苏同学那就不一样了，十几万，不懂的不要乱说话[哼][哼]</p>
-<p>衣楚娘：我妈说了，十万彩礼，男的入赘。娃儿跟我姓。来么？[挖鼻]</p>
-<p>经会史书：计划生育好啊。因为只生一个好，所以是女孩就打掉。男比女多，僧多粥少。计划生育好。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83.png" alt="性别失调" width="500" height=""></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A5%B3%E5%90%8C%E8%83%9E%E7%9A%84%E9%80%86%E8%A2%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83/?category=18271" rel="tag">性别失调</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E7%94%B7%E8%BD%BB%E5%A5%B3/?category=18271" rel="tag">重男轻女</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

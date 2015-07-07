@@ -680,7 +680,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9/?category=18271" rel="tag">毕业礼物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%8D%8E%E9%82%AE%E7%A4%BE%E8%AE%BA%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%9D%83%E5%8A%9B%E7%9A%84%E8%B4%AA%E5%BE%97%E6%97%A0%E5%8E%8C/" target="cdt-mirror">博谈网 | 华邮社论北京对权力的贪得无厌</a>
 </h2>

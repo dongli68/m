@@ -24,6 +24,28 @@
     
     </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%89%93%E5%8E%8B%E4%BA%92%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86/" target="cdt-mirror">月光博客｜广电总局放大招打压互联网电视</a>
+</h2>
+<p><p>今日有媒体报道，广电总局昨日再出通知，要求其针对互联网电视违规进行整改，禁止通过USB端口安装应用，禁止访问互联网浏览器，禁止推送聚合软件、视频网站客户端等，禁止通过手机遥控播放视频。</p>
+<p>据业内相关人士透露，广电总局网络司7月6日给七大牌照方下发了紧急通知，要求其针对互联网电视现存的违规现象进行整改。如果无法按期整改的，可能丧失互联网电视播控平台牌照。</p>
+<p>据悉，此次清理主要针对如下几种违规情况：</p>
+<p>（1）在2015年初以后发布的机型中，仍可用USB端口安装应用的情况；</p>
+<p>（2）在系统中仍存在可访问互联网的浏览器的情况；</p>
+<p>（3）通过应用商店或其他手段推送聚合应用软件、视频网站客户端、电台应用软件的情况；</p>
+<p>（4）通过应用商店或其他手段，推送可通过手机间接遥控播放视频的遥控器应用。</p>
+<p>广电总局要求，牌照方必须于7月8日前完成上述要求的整改，否则取消播控权。</p>
+<p>消息人士表示，该通知只针对电视和盒子产品的视频服务，如果消息属实，目前大部分的互联网电视和盒子产品都会受到牵连。仅手机与电视间的投屏、推送功能一项，就牵涉众多互联网电视厂商，如小米为电视端开发的投屏神器、乐视Max手机上的无线WIDI、百度电视助手等。</p>
+<p>我觉得，如果全面实施广电的这些规定，相当于取消了互联网电视盒子的全部实用功能，让电视盒子完全成了废品，而这种产品肯定不为市场和广大用户所接受， 因此，针对广电总局关于电视盒子的种种限制规定，我觉得电视盒子厂商很可能会将产品更名为客厅HTPC（家庭影院电脑），以此来摆脱广电的种种限制。</p>
+<p>当然，不排除以后广电还会出什么其他限制，例如“电脑不允许放在客厅”、“电视机不能有HDMI接口”、“显示器不能超过25寸”等等。</p>
+<p>原文地址：<a href="http://www.williamlong.info/archives/4289.html">http://www.williamlong.info/archives/4289.html</a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%89%93%E5%8E%8B%E4%BA%92%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90/?category=18271" rel="tag">电视盒子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B9%B3%E8%AF%B4-%E5%AD%99%E6%82%9F%E7%A9%BA%E7%9A%84%E4%B8%A4%E6%AC%A1%E5%8F%8D%E5%9E%84%E6%96%AD/" target="cdt-mirror">平说 | 孙悟空的两次反垄断</a>
 </h2>
 <p><p><strong>《西游记》中的孙悟空有两次反垄断的经历，都与他的结拜兄弟牛魔王家族有关。一次是反暴力垄断，一次是反技术垄断。</strong></p>
@@ -924,18 +946,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
 <hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%91%A3%E8%97%A9%EF%BC%9A%E4%BA%BA%E9%80%A0%E7%89%9B%E5%B8%82%E5%BF%85%E7%84%B6%E5%B8%A6%E6%9D%A5%E8%A1%80%E8%85%A5%E8%82%A1%E7%81%BE%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E5%A4%8F%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">华夏保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">国际资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">经济制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B9%A0%E5%A4%A7%E5%A4%A7%E6%95%91%E5%B8%82/" target="cdt-mirror">巴丢草 | 习大大救市</a>
-</h2>
-<p><p>@badiucao：中国股市一泻千里，中共当局一手抛出境外势力解围，一手端出罚酒以示家法，各种利好漫天飞扬，#然并卵。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJM6z4YVEAAIlv5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJM6z4YVEAAIlv5.jpg" alt="习大大救市" width="450" height="655"></a><p>习大大救市</p></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B9%A0%E5%A4%A7%E5%A4%A7%E6%95%91%E5%B8%82/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E5%A4%8F%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">华夏保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">国际资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">经济制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>

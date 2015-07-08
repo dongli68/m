@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d277apfxm3s88.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d277apfxm3s88.cloudfront.net"
+        <td><a href="https://d59skdw2hqh94.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d59skdw2hqh94.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -965,7 +965,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d277apfxm3s88.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d277apfxm3s88.cloudfront.net"
+        <td><a href="https://d307pgav5xtlww.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d307pgav5xtlww.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -981,8 +981,9 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d277apfxm3s88.cloudfront.net">https://d277apfxm3s88.cloudfront.net</a></li>
-    <li><a href="https://d59skdw2hqh94.cloudfront.net">https://d59skdw2hqh94.cloudfront.net</a></li>
+<li><a href="https://d395w4hwc0nxa3.cloudfront.net">https://d395w4hwc0nxa3.cloudfront.net</a></li>
+    <li><a href="https://d277apfxm3s88.cloudfront.net">https://d277apfxm3s88.cloudfront.net</a></li>
+    <li><a href="https://d2ly8yrrbxcmrb.cloudfront.net">https://d2ly8yrrbxcmrb.cloudfront.net</a></li>
     <li><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a></li>
-    <li><a href="https://d395w4hwc0nxa3.cloudfront.net">https://d395w4hwc0nxa3.cloudfront.net</a></li>
+    <li><a href="https://d59skdw2hqh94.cloudfront.net">https://d59skdw2hqh94.cloudfront.net</a></li>
     </ul>

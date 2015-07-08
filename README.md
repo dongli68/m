@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d1b0katyvgixbi.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d1b0katyvgixbi.cloudfront.net"
+        <td><a href="https://d2imef5muflh2v.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2imef5muflh2v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1017,9 +1017,9 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d1gap3tvueet7c.cloudfront.net">https://d1gap3tvueet7c.cloudfront.net</a></li>
-    <li><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a></li>
+<li><a href="https://dth0sy7mpn5my.cloudfront.net">https://dth0sy7mpn5my.cloudfront.net</a></li>
+    <li><a href="https://d1gap3tvueet7c.cloudfront.net">https://d1gap3tvueet7c.cloudfront.net</a></li>
     <li><a href="https://d2zi6col239gwc.cloudfront.net">https://d2zi6col239gwc.cloudfront.net</a></li>
-    <li><a href="https://dth0sy7mpn5my.cloudfront.net">https://dth0sy7mpn5my.cloudfront.net</a></li>
     <li><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a></li>
+    <li><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a></li>
     </ul>

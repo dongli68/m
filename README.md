@@ -24,6 +24,40 @@
     
     </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%B8%83%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%E8%8D%89%E6%A1%88/" target="cdt-mirror">奇客资讯 | 中国公布网络安全法草案</a>
+</h2>
+<p><p><strong>人大网公布了网络安全法草案全文，向社会征求意见，递交意见的截至日期是8月5日。网络安全法确认了网信办统一监管互联网的职责，确认了网络实名制和电子身份证制度，确认了曾在新疆等地实施过的断网措施。其中值得关注的草案条款：</strong></p>
+<blockquote><p>第六条　国家网信部门负责统筹协调网络安全工作和相关监督管理工作。</p>
+<p>第九条…任何个人和组织使用网络应当遵守宪法和法律，遵守公共秩序，尊重社会公德，不得危害网络安全，不得利用网络从事危害国家安全、宣扬恐怖主义和极端主义、宣扬民族仇恨和民族歧视、传播淫秽色情信息、侮辱诽谤他人、扰乱社会秩序、损害公共利益、侵害他人知识产权和其他合法权益等活动。</p>
+<p>第二十条　网络运营者为用户办理网络接入、域名注册服务，办理固定电话、移动电话等入网手续，或者为用户提供信息发布服务，应当在与用户签订协议或者确认提供服务时，要求用户提供真实身份信息。用户不提供真实身份信息的，网络运营者不得为其提供相关服务。国家支持研究开发安全、方便的电子身份认证技术，推动不同电子身份认证技术之间的互认、通用。</p>
+<p>第三十一条　关键信息基础设施的运营者应当在中华人民共和国境内存储在运营中收集和产生的公民个人信息等重要数据；因业务需要，确需在境外存储或者向境外的组织或者个人提供的，应当按照国家网信部门会同国务院有关部门制定的办法进行安全评估。法律、行政法规另有规定的从其规定。</p>
+<p>第五十条　因维护国家安全和社会公共秩序，处置重大突发社会安全事件的需要，国务院或者省、自治区、直辖市人民政府经国务院批准，可以在部分地区对网络通信采取限制等临时措施。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>白马啸西风windy：倒车请注意……倒车请注意……[哼][哼]</p>
+<p>出发吧趁着还有热情：之前不是一直这么做的么？现在这是立法这么做了啊</p>
+<p>Flyinlong：当这个国家出现“重大安全事件”的时候国家的公民不能知道，也不能传播，就像前段时间上海金山的游行一样。[微笑]</p>
+<p>haksi：什么是“重大突发社会安全事件”？总理还是省长还是市长还是县长还是乡长拍脑袋说了算？</p>
+<p>Hauyeung_Cheung：前天不是才批评了日本安倍人渣政府限制媒体嘛，当时还讨伐的声色俱厉</p>
+<p>和风徐徐Ego：歌唱（F）我们亲爱（U）的祖国，从今（C）走向繁荣富强(K)！</p>
+<p>知食青年：啥案子都说相关法律尚未健全，这种事法律出台却又那么快！</p>
+<p>Hollis_Hsu：当年在新疆已经实施过了，原来当时是违法了。</p>
+<p>千里眼168168：把公鸡的喉咙卡住，天就不会亮了，习总果然是天降伟人，智慧，才能，英明集一身[笑cry][笑cry][笑cry]。</p>
+<p>小兵火夫：新词 “断网救市”</p>
+<p>布拉德皮牛寺：还用向社会征求意见啊？咱干脆直接拉闸断电吧？</p>
+<p>49那个67：真的连内裤也要脱掉吗？</p>
+<p>一头笨猪：不断网不好把坦克开上来</p>
+<p>198n：看来大家都要预装p2p聊天软件了</p>
+<p>未问归期：救市重大举措！断网了就止跌了！为伟大的国家智慧点赞[good]</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%B8%83%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%E8%8D%89%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8/?category=18271" rel="tag">安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AD%E7%BD%91/?category=18271" rel="tag">断网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">网络管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">颠覆国家政权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%89%93%E5%8E%8B%E4%BA%92%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86/" target="cdt-mirror">月光博客｜广电总局放大招打压互联网电视</a>
 </h2>
 <p><p>今日有媒体报道，广电总局昨日再出通知，要求其针对互联网电视违规进行整改，禁止通过USB端口安装应用，禁止访问互联网浏览器，禁止推送聚合软件、视频网站客户端等，禁止通过手机遥控播放视频。</p>
@@ -915,37 +949,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 <p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
 <hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E6%95%91%E5%B8%82-%E6%9A%82%E5%81%9C%E6%96%B0%E8%82%A1%E5%8F%91%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E5%A4%8F%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">华夏保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">国际资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">经济制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%91%A3%E8%97%A9%EF%BC%9A%E4%BA%BA%E9%80%A0%E7%89%9B%E5%B8%82%E5%BF%85%E7%84%B6%E5%B8%A6%E6%9D%A5%E8%A1%80%E8%85%A5%E8%82%A1%E7%81%BE%EF%BC%81/" target="cdt-mirror">董藩：人造牛市必然带来血腥股灾！</a>
-</h2>
-<p><p>昨日在微信群里看到一段跳楼的视频，据说是发生在深圳，应与股市暴跌有关。一条鲜活的生命瞬间消失，我感觉十分痛心！已属于外行、基本不公开评价中国股市的我，突然感觉无论是对错，都得说两句，否则对不住自己的良心。</p>
-<p>最近股市由5178点下跌了20%。几次暴跌，已经使很多股民的相当一部分财富被血洗。大热天的，据说很多普通家庭里氛围冰冷，空气紧张。现在一些高层建筑的物业公司也都很警觉，加强了监控，有的上楼顶的通道都被临时封死了。</p>
-<p>在股市的震荡中，很多人财富大缩水，或被套牢，股灾正在发生，甚至可能引发整个金融系统风险。证监会、央行等众多部门联手护市，似乎也无能为力，我猜高层也紧张了。</p>
-<p>上个世纪90年代初，还是学生的我和女朋友（今天家中的另一位教授）借助大商股份和大冷股份上市的时机，从股市里赚了2万元，拥有了4万元金融资产，一度成为校园里最富裕的学生，但随后我又将所赚全部亏掉。当时看了一些对外国股市的介绍资料，对比了市盈率状况，我感觉中国股市完全是赌场，于是抱着戒赌的心态离开了股市。我绝对不是因为自己输了就否认证券市场存在的价值，我恰恰一直将其视为完备市场体系的必要组成部分。但我接触股市后不久就发现，中国的股市从诞生之日起就是一个“怪胎”，其凶残、贪婪、别有用心和不规范性决定了股民必输，大部分庄家也是一样，赢的只是政府、券商和上市公司。这是制度、文化两个方面多种原因决定的结果。事实也一次次证明了我的判断。</p>
-<p>天则所有研究者前些年曾对全国（湖南、湖北、北京、广东、云南、四川、河北、广西、上海、浙江、江苏、山东）12个省市的200位有10年以上炒股经历的股民做过调查、分析，其投资回报结果如下：</p>
-<p>（1）这200个股民在2004年股指最低点的时候，没有一个人赚了钱；</p>
-<p>（2）截止2007年6月25日15:00时，还有31%的人净亏损，61%的人10年平均赢利率仅为0%-6%（不含6%），只有8%的人年平均回报率在6%以上。这16个年平均回报率在6%以上的人，平均回报率为10.1%。但他们在计算年平均回报率的时候完全没有计算自己10年来的工资及投入资金的利息——若算上这两部分，就没有几人赚钱了。</p>
-<p>这一调查结果，任何人可以随机再找200个有10年以上炒股经历的股民做调查，基本可以验证。网传29位第1代股神近况调查也再次验证了这个悲惨结局：5人入过狱，3人赔光了，7人逃亡了，8人生活窘迫，1人被禁入，3人转行告别股市，1人胜利了，1人失踪了。中等和好的结局是转行、胜利，只有4人，只占13.8%，其他都可以用“悲惨”来形容。</p>
-<p>这十多年来，我一直在研究资产的保值增值与财富安全等问题，在我的课堂上，比较各种投资方式的特点、成因和结果，是重要的学习内容。多年来有大约10多万董事长、总裁和普通投资者听过我的课程和演讲，我一直劝诫普通市民远离股市、积极买房，大家都知道我的主张。我就这样“喋喋不休”地劝了大家十多年，很多人也因此受益了。看看股民们的命运和这十多年房价的上涨状况，我的理论被验证为“无比正确”，这也是我拥有很多“铁粉”的原因。</p>
-<p>中国股票投资者的命运已经充分说明：中国的股市与价值投资已经没有多少关系，与经济形势的基本面、发展预期没有关联。GDP高涨时股市可能是低迷的，这一年来GDP增长率一路下滑，经济衰退严重，股市却高歌猛进，意外亢奋起来。</p>
-<p>我今天不是想讲理论或者评价中国的股市性质，我想说的是：最近的这场股灾完全是人为制造出来的——经济形势很差，看看连续40个月下滑的PPI数据，看看东北、内蒙古、山西等地经济状况，完全处于危机中，股市有什么理由一路高涨？憋久了就该一路高涨？真是笑话！</p>
-<p>大家不觉得这一轮股市上涨的启动不可思议么？不觉得最初的推动力量很神秘么？不觉得证监会去表态股市该涨还是该跌与其身份严重不符么？不觉得在实体经济运行效果不断恶化时引导百姓进入股市，有些不可思议么？</p>
-<p>在这轮暴涨暴跌过程中，我们看到，为刺激市场，号称一向反对过分投机和高杠杆化的监管部门，搞出所谓的融资融券业务，允许有关通道发行结构化私募产品。当市场高涨，担心失控时，又多次提出要“去杠杆化”，将自己烧红的火钳扔入冰水中。</p>
-<p>在这轮暴涨暴跌过程中，我们看到监管部门一会儿表态“牛市刚刚开始”、“牛市远未结束”，于是新股发行无度，肆无忌惮，所有的公司都想上市，有个概念就想上市圈钱。一会儿它又表态“股市不理性”、“严惩暴涨凶手”。赵本山这一年很沉静，股市监管部门出来忽悠大家了！</p>
-<p>在这轮暴涨暴跌过程中，我们看到人民日报社、新华社等权威媒体不断发表社论，一会儿提示风险，一会儿鼓励股民“挺住”。当多军不断溃败后，源于媒体和学者的“阴谋论”又大行其道了——“股市里发现‘恐怖分子’！”“股市里发现‘西方敌对势力’！”“多空对峙，买股救国！”</p>
-<p>为什么要建设证券市场？因为要发展经济，借此完成并购、转型、治理、融资等改革目标。为什么要改革？改革是希望人们过得更富足、有尊严。但如果改革的成本都借助证券市场转嫁给老百姓，变成了对老百姓的洗劫，这个证券市场便成了压榨百姓的机器，还有存在的必要么？</p>
-<p>在这轮暴涨暴跌过程中，我们看到监管部门一会儿通知公募基金不许砸盘，一会儿逼着私募大佬进行爱国表态。但岂不知这些做法反而会加剧市场恐慌，让更多机构、小散拼命逃离——因为所有人都知道：这次高涨原本就不该有，原本就是虚假繁荣！</p>
-<p>做空的政治势力究竟有没有？来自哪里？我不知道。但我觉得明知道普通百姓在股市里是不会有回报的，却把他们引导到这里，让嗜血成性的大资本伺机屠戮，不管基于什么目的，都不应该！</p>
-<p>这场人造的牛市必然带了灾难，正在带来灾难！</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%91%A3%E8%97%A9%EF%BC%9A%E4%BA%BA%E9%80%A0%E7%89%9B%E5%B8%82%E5%BF%85%E7%84%B6%E5%B8%A6%E6%9D%A5%E8%A1%80%E8%85%A5%E8%82%A1%E7%81%BE%EF%BC%81/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E5%A4%8F%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">华夏保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">国际资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">经济制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>

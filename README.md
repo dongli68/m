@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d3n0we8hvj6h9k.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d3n0we8hvj6h9k.cloudfront.net"
+        <td><a href="https://d395w4hwc0nxa3.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d395w4hwc0nxa3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -56,7 +56,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8/?category=18271" rel="tag">安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AD%E7%BD%91/?category=18271" rel="tag">断网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">网络管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">颠覆国家政权</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%89%93%E5%8E%8B%E4%BA%92%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86/" target="cdt-mirror">月光博客｜广电总局放大招打压互联网电视</a>
 </h2>
@@ -921,7 +921,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91/?category=18271" rel="tag">人民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">党的利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%82%AE%E6%8A%A5/?category=18271" rel="tag">华盛顿邮报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E6%95%91%E5%B8%82-%E6%9A%82%E5%81%9C%E6%96%B0%E8%82%A1%E5%8F%91%E8%A1%8C/" target="cdt-mirror">纽约时报 | 中国政府出手救市 暂停新股发行</a>
 </h2>
@@ -965,7 +965,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d3n0we8hvj6h9k.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d3n0we8hvj6h9k.cloudfront.net"
+        <td><a href="https://d395w4hwc0nxa3.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d395w4hwc0nxa3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>

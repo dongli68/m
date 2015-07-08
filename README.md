@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d2zi6col239gwc.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2zi6col239gwc.cloudfront.net"
+        <td><a href="https://dlcirbzrgj90v.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://dlcirbzrgj90v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -120,7 +120,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7%E5%A7%90/?category=18271" rel="tag">道德姐</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AD%99%E7%AB%8B%E5%B9%B3%EF%BC%9A%E4%BB%A4%E5%A5%BD%E4%BA%BA%E5%AF%92%E5%BF%83%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%B0%B1%E6%98%AF%E6%9C%80%E5%9D%8F%E7%9A%84/" target="cdt-mirror">南方日报｜孙立平：令好人寒心的社会就是最坏的社会</a>
 </h2>
@@ -952,7 +952,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d2967xzlyq7mvq.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2967xzlyq7mvq.cloudfront.net"
+        <td><a href="https://dlcirbzrgj90v.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://dlcirbzrgj90v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>

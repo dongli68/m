@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://ddari2h5788hj.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://ddari2h5788hj.cloudfront.net"
+        <td><a href="https://d314r0feyzoypw.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d314r0feyzoypw.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1001,7 +1001,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://ddari2h5788hj.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://ddari2h5788hj.cloudfront.net"
+        <td><a href="https://d1r9fh3plk8whw.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d1r9fh3plk8whw.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1017,9 +1017,9 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d7gkkzy9udv3p.cloudfront.net">https://d7gkkzy9udv3p.cloudfront.net</a></li>
-    <li><a href="https://d1r9fh3plk8whw.cloudfront.net">https://d1r9fh3plk8whw.cloudfront.net</a></li>
-    <li><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a></li>
-    <li><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a></li>
+<li><a href="https://d1r9fh3plk8whw.cloudfront.net">https://d1r9fh3plk8whw.cloudfront.net</a></li>
     <li><a href="https://ddari2h5788hj.cloudfront.net">https://ddari2h5788hj.cloudfront.net</a></li>
+    <li><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a></li>
+    <li><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a></li>
+    <li><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a></li>
     </ul>

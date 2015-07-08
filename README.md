@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d7gkkzy9udv3p.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d7gkkzy9udv3p.cloudfront.net"
+        <td><a href="https://d2imef5muflh2v.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2imef5muflh2v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -49,7 +49,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">公共权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90/?category=18271" rel="tag">公共资源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%9E%84%E6%96%AD/?category=18271" rel="tag">反垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1/?category=18271" rel="tag">精英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%B8%B8%E8%AE%B0/?category=18271" rel="tag">西游记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">黑社会</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 24分钟前</small>
+	<small> ============== 29分钟前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E4%B8%89%E5%88%99/" target="cdt-mirror">【麻辣总局】习总日记三则</a>
 </h2>
@@ -186,7 +186,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E5%A6%82%E4%BD%95%E7%9C%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%EF%BC%9A%E4%BB%8E%E5%BE%AE%E5%8D%9A%E7%B2%89%E4%B8%9D%E5%9B%A2%E8%B0%88%E8%B5%B7/" target="cdt-mirror">BBC | 中国网民如何看政治人物：从微博粉丝团谈起</a>
 </h2>
@@ -952,7 +952,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d31vdhgyqeprab.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d31vdhgyqeprab.cloudfront.net"
+        <td><a href="https://d1lnszqt9ilz2d.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d1lnszqt9ilz2d.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>

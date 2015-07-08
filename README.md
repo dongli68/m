@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d39hu3787rlscp.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d39hu3787rlscp.cloudfront.net"
+        <td><a href="https://d2967xzlyq7mvq.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2967xzlyq7mvq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -965,7 +965,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d2967xzlyq7mvq.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2967xzlyq7mvq.cloudfront.net"
+        <td><a href="https://d3kmzf2pyw9akn.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d3kmzf2pyw9akn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -981,9 +981,9 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d3kmzf2pyw9akn.cloudfront.net">https://d3kmzf2pyw9akn.cloudfront.net</a></li>
-    <li><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a></li>
+<li><a href="https://d39hu3787rlscp.cloudfront.net">https://d39hu3787rlscp.cloudfront.net</a></li>
     <li><a href="https://d3f35k5bqgr2jc.cloudfront.net">https://d3f35k5bqgr2jc.cloudfront.net</a></li>
+    <li><a href="https://d3kmzf2pyw9akn.cloudfront.net">https://d3kmzf2pyw9akn.cloudfront.net</a></li>
+    <li><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a></li>
     <li><a href="https://d1lvppbne5goav.cloudfront.net">https://d1lvppbne5goav.cloudfront.net</a></li>
-    <li><a href="https://d2txnjn981tyut.cloudfront.net">https://d2txnjn981tyut.cloudfront.net</a></li>
     </ul>

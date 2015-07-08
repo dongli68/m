@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d31vdhgyqeprab.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d31vdhgyqeprab.cloudfront.net"
+        <td><a href="https://d39hu3787rlscp.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d39hu3787rlscp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -952,7 +952,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d3pwsgy0kw4jhc.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d3pwsgy0kw4jhc.cloudfront.net"
+        <td><a href="https://d3f35k5bqgr2jc.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d3f35k5bqgr2jc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -968,9 +968,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a></li>
-    <li><a href="https://d7gkkzy9udv3p.cloudfront.net">https://d7gkkzy9udv3p.cloudfront.net</a></li>
-    <li><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a></li>
-    <li><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a></li>
-    <li><a href="https://d31vdhgyqeprab.cloudfront.net">https://d31vdhgyqeprab.cloudfront.net</a></li>
+<li><a href="https://d3f35k5bqgr2jc.cloudfront.net">https://d3f35k5bqgr2jc.cloudfront.net</a></li>
+    <li><a href="https://d39hu3787rlscp.cloudfront.net">https://d39hu3787rlscp.cloudfront.net</a></li>
     </ul>

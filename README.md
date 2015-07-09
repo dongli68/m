@@ -20,7 +20,7 @@
                 
                 <td></td>
         
-        <td><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a></td>    </tr>
+        <td><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a><br/></td>    </tr>
     
     </table>
 <h2>
@@ -1016,16 +1016,16 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 
                 <td></td>
         
-        <td><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a></td>    </tr>
+        <td><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a><br/><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><br/><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/></td>    </tr>
     
     </table>
 
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a></li>
-    <li><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a></li>
-    <li><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a></li>
-    <li><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a></li>
-    <li><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a></li>
+<li><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a></li>
+    <li><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a></li>
+    <li><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a></li>
+    <li><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a></li>
+    <li><a href="https://d395w4hwc0nxa3.cloudfront.net">https://d395w4hwc0nxa3.cloudfront.net</a></li>
     </ul>

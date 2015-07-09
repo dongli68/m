@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d10rlne3cwhsy4.cloudfront.net">https://d10rlne3cwhsy4.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3dbnontiiwkxj.cloudfront.net">https://d3dbnontiiwkxj.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d10rlne3cwhsy4.cloudfront.net">https://d10rlne3cwhsy4.cloudfront.net</a><br/><a href="https://d3dbnontiiwkxj.cloudfront.net">https://d3dbnontiiwkxj.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E8%82%A1%E7%81%BD%E6%9C%83%E5%BC%95%E7%99%BC%E5%B0%8D%E5%A4%96%E6%88%B0%E7%88%AD%E5%97%8E/" target="cdt-mirror">东网｜吳戈：股災會引發對外戰爭嗎</a>
@@ -50,7 +50,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%B4%E8%B7%8C/" target="cdt-mirror">纽约时报｜中国股市为什么暴跌</a>
 </h2>
@@ -117,7 +117,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B6%85%E7%BA%A7%E8%8B%B9%E6%9E%9C%E7%BD%91%EF%BD%9C%E8%88%86%E8%AE%BA%E5%9C%BA%EF%BC%9A%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%8D%97%E6%B5%B7%E4%B9%8B%E5%8D%B1/" target="cdt-mirror">超级苹果网｜舆论场：股市暴跌背后的中南海之危</a>
 </h2>
@@ -754,7 +754,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2967xzlyq7mvq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d10rlne3cwhsy4.cloudfront.net">https://d10rlne3cwhsy4.cloudfront.net</a><br/><a href="https://d3dbnontiiwkxj.cloudfront.net">https://d3dbnontiiwkxj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d10rlne3cwhsy4.cloudfront.net">https://d10rlne3cwhsy4.cloudfront.net</a><br/><a href="https://d3dbnontiiwkxj.cloudfront.net">https://d3dbnontiiwkxj.cloudfront.net</a><br/></td>    </tr>
 </table>

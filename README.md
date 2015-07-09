@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3n0we8hvj6h9k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2imef5muflh2v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3n0we8hvj6h9k.cloudfront.net">https://d3n0we8hvj6h9k.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a><br/><a href="https://d3g1pxp78zsxda.cloudfront.net">https://d3g1pxp78zsxda.cloudfront.net</a><br/><a href="https://d3kmzf2pyw9akn.cloudfront.net">https://d3kmzf2pyw9akn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a><br/><a href="https://d3g1pxp78zsxda.cloudfront.net">https://d3g1pxp78zsxda.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d3kmzf2pyw9akn.cloudfront.net">https://d3kmzf2pyw9akn.cloudfront.net</a><br/><a href="https://d3n0we8hvj6h9k.cloudfront.net">https://d3n0we8hvj6h9k.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%9C%9D%E9%B2%9C%E6%9C%89%E8%82%A1%E5%B8%82/" target="cdt-mirror">作家崔成浩：如果朝鲜有股市</a>
@@ -46,7 +46,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AF%81%E7%9B%91%E4%BC%9A%E8%A6%81%E6%B1%82%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E4%BA%94%E9%80%89%E4%B8%80%E6%8E%A8%E9%80%81%E5%88%A9%E5%A5%BD%EF%BC%9A%E8%BF%99%E6%98%AF%E8%A1%8C%E6%94%BF%E5%91%BD/" target="cdt-mirror">证监会要求上市公司五选一推送利好：这是行政命令必须做</a>
 </h2>
@@ -901,7 +901,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2imef5muflh2v.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2967xzlyq7mvq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -911,5 +911,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d3kmzf2pyw9akn.cloudfront.net">https://d3kmzf2pyw9akn.cloudfront.net</a><br/><a href="https://d3n0we8hvj6h9k.cloudfront.net">https://d3n0we8hvj6h9k.cloudfront.net</a><br/><a href="https://d3g1pxp78zsxda.cloudfront.net">https://d3g1pxp78zsxda.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a><br/><a href="https://d3g1pxp78zsxda.cloudfront.net">https://d3g1pxp78zsxda.cloudfront.net</a><br/><a href="https://d3n0we8hvj6h9k.cloudfront.net">https://d3n0we8hvj6h9k.cloudfront.net</a><br/><a href="https://d3kmzf2pyw9akn.cloudfront.net">https://d3kmzf2pyw9akn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d1lvppbne5goav.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d1lvppbne5goav.cloudfront.net"
+        <td><a href="https://d2hstb0twnr7a5.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2hstb0twnr7a5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -49,7 +49,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">纪念胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%85%84%E5%BC%9F%E8%A7%84%E5%88%99%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%A5%AD%E5%B1%80%E3%80%81%E6%80%A7%E4%BA%A4%E6%98%93%E4%B8%8E%E7%94%9F%E6%84%8F/" target="cdt-mirror">纽约时报 | 兄弟规则：中国的饭局、性交易与生意潜规则</a>
 </h2>

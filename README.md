@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1b0katyvgixbi.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2xifhuwz3r6uc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d1gpnu8v7fi74p.cloudfront.net">https://d1gpnu8v7fi74p.cloudfront.net</a><br/><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d1gpnu8v7fi74p.cloudfront.net">https://d1gpnu8v7fi74p.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B6%85%E7%BA%A7%E8%8B%B9%E6%9E%9C%E7%BD%91%EF%BD%9C%E8%88%86%E8%AE%BA%E5%9C%BA%EF%BC%9A%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%8D%97%E6%B5%B7%E4%B9%8B%E5%8D%B1/" target="cdt-mirror">超级苹果网｜舆论场：股市暴跌背后的中南海之危</a>
@@ -167,7 +167,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%B0%E5%9B%BD%E9%81%A3%E8%BF%94%E7%BB%B4%E5%90%BE%E5%B0%94%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">泰国遣返维吾尔穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/" target="cdt-mirror">德国之声｜原《时代周报》驻京记者助手张淼无罪获释</a>
 </h2>
@@ -209,7 +209,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%9C%9D%E9%B2%9C%E6%9C%89%E8%82%A1%E5%B8%82/" target="cdt-mirror">作家崔成浩：如果朝鲜有股市</a>
 </h2>
@@ -473,7 +473,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">公共权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90/?category=18271" rel="tag">公共资源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%9E%84%E6%96%AD/?category=18271" rel="tag">反垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1/?category=18271" rel="tag">精英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%B8%B8%E8%AE%B0/?category=18271" rel="tag">西游记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">黑社会</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E4%B8%89%E5%88%99/" target="cdt-mirror">【麻辣总局】习总日记三则</a>
 </h2>
@@ -916,7 +916,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2xifhuwz3r6uc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gpnu8v7fi74p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -926,5 +926,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
                 <td></td>
                 
         
-        <td><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d1gpnu8v7fi74p.cloudfront.net">https://d1gpnu8v7fi74p.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1gpnu8v7fi74p.cloudfront.net">https://d1gpnu8v7fi74p.cloudfront.net</a><br/><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/></td>    </tr>
 </table>

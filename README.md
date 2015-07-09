@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d2ly8yrrbxcmrb.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2ly8yrrbxcmrb.cloudfront.net"
+        <td><a href="https://d2hstb0twnr7a5.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2hstb0twnr7a5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -24,6 +24,33 @@
     
     </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E8%80%80%E9%82%A6%E8%84%B1%E6%95%8F%E7%94%B5%E5%BD%B1%E5%BC%80%E6%8B%8D-%E9%81%BF%E8%B0%88%E5%85%AD%E5%9B%9B/" target="cdt-mirror">自由亚洲｜胡耀邦“脱敏”电影开拍 避谈“六四”主打青春励志</a>
+</h2>
+<p><p>今年是一直被中国当局视为敏感人物的已故前中共总书记胡耀邦百年诞辰，首部以其为主角的电影近日开拍，但情节不涉及其担任国家领导人时期以及后来被迫下台的晚年岁月。</p>
+<p>今年11月20日是已故前中共总书记胡耀邦百年诞辰，大陆或高调纪念，首部以其为题材的电影《青春激荡的年代》，5日在胡的家乡湖南浏阳正式开机，预定10月中旬上映。</p>
+<p>据了解，该片以文艺、青春励志、爱情为题材，主要讲述胡耀邦上世纪五十年代调任共青团中央书记后的领导才能，以及如何带领、引导，激励全国千千万万的青年投身国家建设等。</p>
+<p>据大陆媒体《新京报》报道，该片制片人张葆青称，该片是为“纪念胡耀邦同志百年诞辰”而拍摄的，已经策划了一年多，也得到了湖南省委宣传部的指导和支持，还特别在浏阳拍摄地搭建了胡耀邦北京旧居的场景。</p>
+<p>胡耀邦被视为中共开明派，1987年因反资产阶级自由化不力而被迫辞职。26年前胡去世，被认为是引爆八九民运和六四事件的导火索之一，因此大陆官方一直避免评价胡耀邦，长期被当局视为政治“敏感人物”。</p>
+<p>去年8月官媒中央电视台播出的电视剧《历史转折中的邓小平》，曾出现了胡耀邦思想开放、敢想敢干、雷厉风行的改革者形象，这一现象引起舆论的极大关注与解读。</p>
+<p>去年12月，电影《黄克功案件》首映，其中出现了22岁的胡耀邦，是青年胡耀邦的形象首次出现在大陆银幕上。而此次电影的拍摄，被外界解读为，北京当局有意进一步让胡耀邦的名字走出大陆官方的禁忌。</p>
+<p>对此，中国前国务院秘书俞梅荪周三接受本台采访时称：“在感觉上面确实是自解禁，至少不打压了，我写的胡耀邦纪实的长篇文章，几个网站都发了，这在以前是不可想象的不能发的。如论怎么说，胡耀邦也是一个楷模，平反冤假错案、解放思想、改革开放、承上启下，共产党历史上没有像胡耀邦这样的被老百姓拥护的人，从长远来说，共产党94周年了，要往前走，必然要像胡耀邦那样做，大趋势上，我们必然要走向胡耀邦的路上。很明显的一个细节，我今年4月5日他的忌日去他家，警察很多，访民在北长街上打出横幅，但没抓他们，这在过去不可思议，过去要抓，送回原籍，劳改劳教，弄不好判刑，可以看出，细节上在不断放宽。”</p>
+<p>胡耀邦之子胡德平此前表示，中央对纪念活动已有郑重安排。他近日在接受香港《明报》访问时表示，感谢电影制片方的好意，但他认为，胡耀邦最光辉的年代，是“文革”后的拨乱反正，无奈碍于题材敏感，不能拍摄。</p>
+<p>由于胡耀邦的下台和去世与当年“六四”事件有着剪不断的联系，中国当局郑重安排隆重纪念不免让不少人联想：“六四”会不会被平反?</p>
+<p>对此，香港支联会副主席蔡耀昌接受本台采访时表示，如果纪念胡耀邦只是一场政治大戏，“六四”依旧没有获得深刻的反思，郑重安排纪念胡耀邦并不能说明中国当局释放出什么开明的信号。</p>
+<p>蔡耀昌：“我们觉得他对学潮学生的同情和思想开明也应该在他的纪念电影里提出来，不能避免因为他的离世而引发了八九民运，对他的纪念要全面地开展，不能阻碍民众讨论六四问题，我们觉得当局还是要将六四问题隐瞒下去。”</p>
+<p>“六四”期间曾担任香港《文汇报》驻北京记者的香港时事评论员刘锐绍今年初曾对媒体表示，纪念胡耀邦诞辰一百周年跟平反六四没有太大的关系，因为平反六四关系到中国共产党执政的关键问题；平反六四之后，中共的合法性就会受到质疑。但高调纪念胡耀邦对当今的中国仍然有非常贴近现实的意义， 因为胡耀邦生前的廉洁作风有助于改善中国共产党如今在百姓心目中的形象。</p>
+<p>特约记者：忻霖 责编：胡汉强/申铧</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E8%80%80%E9%82%A6%E8%84%B1%E6%95%8F%E7%94%B5%E5%BD%B1%E5%BC%80%E6%8B%8D-%E9%81%BF%E8%B0%88%E5%85%AD%E5%9B%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">纪念胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%85%84%E5%BC%9F%E8%A7%84%E5%88%99%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%A5%AD%E5%B1%80%E3%80%81%E6%80%A7%E4%BA%A4%E6%98%93%E4%B8%8E%E7%94%9F%E6%84%8F/" target="cdt-mirror">纽约时报 | 兄弟规则：中国的饭局、性交易与生意潜规则</a>
 </h2>
 <p><div><img src="http://graphics8.nytimes.com/images/2015/07/07/style/cn-tc08brocode/cn-tc08brocode-articleLarge.jpg" alt="就在政府官员面对当前局势纷纷望而却步的同时，商人们似乎对前往KTV仍然表现出高度兴趣。" width="500" height="344"><p>就在政府官员面对当前局势纷纷望而却步的同时，商人们似乎对前往KTV仍然表现出高度兴趣。</p>
@@ -969,27 +996,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%8D%8E%E9%82%AE%E7%A4%BE%E8%AE%BA%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%9D%83%E5%8A%9B%E7%9A%84%E8%B4%AA%E5%BE%97%E6%97%A0%E5%8E%8C/" target="cdt-mirror">博谈网 | 华邮社论北京对权力的贪得无厌</a>
-</h2>
-<p><p>（博谈网记者欧阳剑编译报道）《华盛顿邮报》于7月4日发表了社论，社论称中国共产党为了保证党的利益高于一切， 对所有它认为有可能威胁其权力的组织进行控制，进而铲除，而不管这些组织对中国人民给予的好处和帮助。 以下为原文译文。</p>
-<p>定义中国的共产主义的特征之一就是党的领导人对维持权力垄断、消灭任何竞争对手的强悍决心。北京的老板们已经基本上放弃了共产主义作为其经济理论，并采用了资本主义，但是，当涉及到对权力的掌控时，他们却寸步不让。</p>
-<p>然而，现实情况是，北京根本就无法满足其公民的所有需求，一直以来非政府组织（NGO）做了大量的工作。在过去二十年当中，各种非政府组织如雨后春笋般涌现，很多是由国外资助的，帮助满足中国人民的医疗，商业，环保以及其他需求。虽然，北京通常拒绝这些组织正式注册，但是他们在一种法律的灰色地带，一直在运作着。</p>
-<p>现在，北京提出了一个法律草案，可能消灭这些海外资助或民间资助的组织。该法律要求所有的非政府组织通过中国的安全警察的审批，要求他们找到一个正式的政府机构作为“赞助人”，并对它们施加侵犯性的检查、控制和雇人规定。不遵守这个法律可能会带来刑事处罚。</p>
-<p>该法律草案用了一个很含糊其辞的方式给了安全警察广泛的酌情权。几乎所有的组织都可能成为目标。“纽约大学”法学院的美国-亚洲法律研究所Ira Belkin（艾拉·贝尔金）和Jerome A. Cohen（杰罗姆·科恩）最近写道：“即便是哈佛大学教授的一个讲座，纽约现代艺术博物馆的一个艺术展览，红十字会的慈善或人道主义救灾的一个行为，一个运动竞赛，高中军乐队的一个表演，或给中国学生发放的一个奖学金，都可能属于这个法律的管辖范围，只要该活动由（或代表）外国的非政府机构在中国举行的话。”正如《华盛顿邮报》的Simon Denyer上个月报道的那样，该草案已经引起了美国和欧洲商业社区的反对，他们担心这会限制外国的行业协会，大学和科技机构，以及其他实体。</p>
-<p>该法律草案似乎反映了习近平从当代中国清除西方思想和价值观的意愿，这个主题已经通过2年前流传的被称为“9号文件”的长长的党内备忘录而展现。习近平的行动反映了一种偏执思想，即非政府组织有可能作为某种“第五纵队”成为威胁，或可能成为破坏党对权力掌控的颠覆力量。这是在中国和其它地区的专制老板们陈旧而又过时的恐惧。俄罗斯总统普京也采取了严厉手段，称NGO是“外国代理人”。</p>
-<p>如果习近平和其同伙剥夺了中国人民获得这些组织帮助的机会，那么首先和根本上受到伤害的就是中国人民。但是，这似乎符合了党只关心党的利益高于一切的一贯作风。</p>
-<p>原文 <a href="http://www.washingtonpost.com/opinions/chinas-insatiable-appetite-for-power/2015/07/03/d3a90fae-1f64-11e5-bf41-c23f5d3face1_story.html" target="_blank">China’s insatiable appetite for power</a></p>
-<p>关键词: 权力 NGO 栏目: 时事见解 首页重点发表: 新鲜看点 编译: 欧阳剑 作者: Editorial Board</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%8D%8E%E9%82%AE%E7%A4%BE%E8%AE%BA%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%9D%83%E5%8A%9B%E7%9A%84%E8%B4%AA%E5%BE%97%E6%97%A0%E5%8E%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91/?category=18271" rel="tag">人民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">党的利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%82%AE%E6%8A%A5/?category=18271" rel="tag">华盛顿邮报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1001,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d2ly8yrrbxcmrb.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d2ly8yrrbxcmrb.cloudfront.net"
+        <td><a href="https://d1lvppbne5goav.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d1lvppbne5goav.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>

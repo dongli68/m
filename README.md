@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://dg78j08veesp.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://dg78j08veesp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d314r0feyzoypw.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -19,8 +19,8 @@
         src="../../raw/master/x/cdt.qr.png" /></a></td>
                 
                 <td></td>
-                <td></td>
-    </tr>
+        
+        <td><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a></td>    </tr>
     
     </table>
 <h2>
@@ -117,7 +117,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E/?category=18271" rel="tag">东莞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E5%A5%B6/?category=18271" rel="tag">二奶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%85%BB/?category=18271" rel="tag">包养</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E6%B7%AB/?category=18271" rel="tag">卖淫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E4%BA%BA/?category=18271" rel="tag">商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E7%95%8C/?category=18271" rel="tag">商界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%AE%A2/?category=18271" rel="tag">嫖客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98/?category=18271" rel="tag">官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%BA/?category=18271" rel="tag">富人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E5%A7%90/?category=18271" rel="tag">小姐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BA%A4%E6%98%93/?category=18271" rel="tag">性交易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%B7%A5%E4%BD%9C%E8%80%85/?category=18271" rel="tag">性工作者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84/?category=18271" rel="tag">扫黄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%89%E6%91%A9/?category=18271" rel="tag">按摩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98/?category=18271" rel="tag">政府官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%A5%B3/?category=18271" rel="tag">美女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%B2%E6%83%85/?category=18271" rel="tag">色情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%99%E5%B8%A6%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">裙带关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BF%E8%B5%82/?category=18271" rel="tag">贿赂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%92%B1/?category=18271" rel="tag">金钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">黑社会</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%B8%83%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%E8%8D%89%E6%A1%88/" target="cdt-mirror">奇客资讯 | 中国公布网络安全法草案</a>
 </h2>
@@ -1007,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d307pgav5xtlww.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d307pgav5xtlww.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d307pgav5xtlww.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1015,8 +1015,8 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         src="https://raw.githubusercontent.com/greatfire/images/master/cdt.qr.png" /></a></td>
                 
                 <td></td>
-                <td></td>
-    </tr>
+        
+        <td><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a></td>    </tr>
     
     </table>
 
@@ -1024,8 +1024,8 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 
 <ul>
 <li><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a></li>
-    <li><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a></li>
-    <li><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a></li>
     <li><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a></li>
     <li><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a></li>
+    <li><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a></li>
+    <li><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a></li>
     </ul>

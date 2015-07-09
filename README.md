@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1urach92xkda7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d39hu3787rlscp.cloudfront.net">https://d39hu3787rlscp.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d1urach92xkda7.cloudfront.net">https://d1urach92xkda7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1urach92xkda7.cloudfront.net">https://d1urach92xkda7.cloudfront.net</a><br/><a href="https://d39hu3787rlscp.cloudfront.net">https://d39hu3787rlscp.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d4oaiwhq0gvm2.cloudfront.net">https://d4oaiwhq0gvm2.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E8%B0%A2%E5%9B%BD%E5%BF%A0%EF%BC%9A%E8%BF%99%E6%B3%A2a%E8%82%A1%E5%B0%B1%E6%98%AF%E9%AA%97%E5%AD%90%E5%9D%90%E5%BA%84-%E6%94%B9%E9%9D%A9%E5%85%A8%E9%9D%A2%E5%80%92/" target="cdt-mirror">墙外楼｜谢国忠：这波A股就是骗子坐庄 改革全面倒退</a>
@@ -267,7 +267,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AF%81%E7%9B%91%E4%BC%9A%E8%A6%81%E6%B1%82%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E4%BA%94%E9%80%89%E4%B8%80%E6%8E%A8%E9%80%81%E5%88%A9%E5%A5%BD%EF%BC%9A%E8%BF%99%E6%98%AF%E8%A1%8C%E6%94%BF%E5%91%BD/" target="cdt-mirror">证监会要求上市公司五选一推送利好：这是行政命令必须做</a>
 </h2>
@@ -926,5 +926,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d4oaiwhq0gvm2.cloudfront.net">https://d4oaiwhq0gvm2.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d1urach92xkda7.cloudfront.net">https://d1urach92xkda7.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d1urach92xkda7.cloudfront.net">https://d1urach92xkda7.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d4oaiwhq0gvm2.cloudfront.net">https://d4oaiwhq0gvm2.cloudfront.net</a><br/></td>    </tr>
 </table>

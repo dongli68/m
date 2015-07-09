@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d307pgav5xtlww.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25s42i2kb0ere.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/><a href="https://d3n0we8hvj6h9k.cloudfront.net">https://d3n0we8hvj6h9k.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/><a href="https://d3n0we8hvj6h9k.cloudfront.net">https://d3n0we8hvj6h9k.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/" target="cdt-mirror">德国之声｜原《时代周报》驻京记者助手张淼无罪获释</a>
+</h2>
+<p><p>北京市通州区检察院做出决定，对原德国《时代周报》驻京记者助手张淼”涉嫌从事寻衅滋事活动”一案不予起诉。在此之间张淼已经在看守所被关押了9个多月。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/01/018194460_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/01/018194460_30300.jpg" alt="free张淼" width="550" height=""></a></p>
+<p>（德国之声中文网）张淼的代理律师周世锋表示，今天（7月9日）上午他接到北京市通州区检察院打来的电话。对方称，通州区检察院对于张淼”涉嫌从事寻衅滋事活动”一案做出不予起诉的决定，并且当晚10点张淼将获得无罪释放。</p>
+<p>张淼曾是德国《时代周报》 驻京记者安吉拉·科克里茨（Angela Köckritz）的助手。去年10月初，在香港报道”雨伞运动”之后回到北京的张淼遭到警方逮捕。据称，她当时正计划参加几名中国艺术家在宋庄艺术区举办一场声援香港雨伞运动的诗歌朗诵会。</p>
+<p>事发三个月后，在通过其他管道斡旋无效的情况下，科克里茨在《时代周报》上刊载长文，讲述张淼被捕事件以及她本人遭到中国国安人员连续数天威胁的经过。</p>
+<p>今年6月，张淼的代理律师周世锋曾向德国之声透露，6月初北京检方曾打算释放张淼。但前提是张淼必须写一份”悔过书”。根据律师所掌握的信息，张淼在”悔过书”中表示”进入看守所后才终于认识到中国人权比美国好五倍”。</p>
+<p>依照律师的说法，6月25日原本是通州区检察院应该对张淼所涉案件做出是否起诉决定的最终期限。但是这一天检察院方面通知律师周世锋案件再度延期。</p>
+<p>周世锋说，今天通州区检察院做出不予起诉的决定表明检察机构”还是没有足够的证据证明张淼实施了犯罪”。他说，从结果来看是积极的一面，但是”这样一个案子拖了这么长时间，浪费、滥用国家大量的执法资源，是对国家执法信誉的伤害，并且损害了中国国家形象”。周世锋说：”（如果）缺乏监督和制约，任何一个权力机关、任何一个人就会疯掉。”</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B7%BC/?category=18271" rel="tag">张淼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%AE%A3%E9%83%A8%E6%80%A5%E4%BB%A4%E5%9B%BD%E5%86%85%E6%8A%A5%E9%81%93%E9%81%BF%E5%85%8D%E8%82%A1%E7%81%BE%E6%94%BF/" target="cdt-mirror">美国之音｜日媒称中宣部急令国内报道避免股灾政治化</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/393BCF55-C741-4B3B-947B-2C35B9690E07_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/393BCF55-C741-4B3B-947B-2C35B9690E07_w640_r1_s.jpg" alt="2015年7月8日，星期三，一位老人准备离开北京的股票经纪公司" width="540" height="304"></a><p>2015年7月8日，星期三，一位老人准备离开北京的股票经纪公司</p></div>
+<p>日本共同社周四（7月9日）发自北京的详细报道说：“共产党中央宣传部已对中国国内传媒下达了‘回避股市问题政治化，防止矛头指向党和政府’的紧急指令，并通告‘如需评论，要向权威部门专家申请’，禁止刊登批评当局的学者分析”。</p>
+<p>共同社报道引述“多个接近中国宣传当局的消息来源”说：“中宣部本周二和周三发出紧急指令，要点包括回避股市问题政治化，防止矛头指向党和政府；不 要把股市与政治挂钩；客观、冷静地报道股市升降；引导股民理性地接受股市波动；慎重发表不夸张的评论文章；宣传经济政策效果，传播中国经济正面前景”。</p>
+<p>共同社驻北京记者报道说：“中国股市迅速下跌，显示中国政府日前干预市场的措施效果有限，在中国股市占主体的个人投资者们不安和不满的情绪正在扩大。习近平政权对股市问题可能发展到批评经济政策的示威、抗议等社会不安，显然已开始持有强烈危机感”。</p>
+<p><strong>分析后果</strong></p>
+<p>共同社分析说：“如果中国股市管理出错，就会对习近平政权正谋求建设的亚投行和‘一带一路’这些瞩目政策泼冷水”。</p>
+<p>日本经济界最大报纸《日本经济新闻》驻北京记者周四也有类似报道，并分析说：“中国《人民日报》、新华社等国营传媒至今作推进股市上升的报道，也是导致个人投资者们相信这些报道反映了政府推高股市的政策，从而扩大投资的一个侧面”。</p>
+<p>富士通总合研究所主席研究员柯隆指出，这些年狂奔的中国经济与腐败现象、社会贫富悬殊已构成了中国泡沫经济崩溃“定时炸弹”，他说：“中国股市危机很容易会带出政治危机，乃至社会安定危机的连锁反应”。</p>
+<p><strong>朦胧导致不安</strong></p>
+<p>日本传媒2013年也披露过中宣部下达限制报道股灾的消息，这次再传出类似消息，共同社和《日经》都没显示意外，只是突出对中国股市可能因宣传原因升跌的不安感。</p>
+<p>去年中共召开四中全会前，主流传媒就广泛报道中国开始出现泡沫经济崩溃迹象，期待四中全会出台具体对策，四中全会闭幕前后，日本各大报社论都表示失望。</p>
+<p>不过由于二十世纪90年代日本的泡沫经济崩溃伴随着房地产价格崩溃，所以对中国房地产价格，尤其是都市并没出现明显崩溃现象，日本的投资者们半信半疑地揣摩中国经济。</p>
+<p>虽看不清这次中国股灾原因，但日本投资者们猜测至少会直接影响中国旅客访日人数，依靠中国旅客“爆买”盈利的百货店股率先下跌，接着扩大到几乎所有与中国经贸有关的企业股。</p>
+<p>尽管内阁官房长官菅义伟周四在记者会上说：“中国股市下跌不停全面影响了亚洲股市，市场上还有希腊债务问题不透明的看法”，但正在日本形成的舆论趋势是，希腊债务问题远没有中国泡沫经济崩溃对日本的直接影响大。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%AE%A3%E9%83%A8%E6%80%A5%E4%BB%A4%E5%9B%BD%E5%86%85%E6%8A%A5%E9%81%93%E9%81%BF%E5%85%8D%E8%82%A1%E7%81%BE%E6%94%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%9C%9D%E9%B2%9C%E6%9C%89%E8%82%A1%E5%B8%82/" target="cdt-mirror">作家崔成浩：如果朝鲜有股市</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/a8ef5277jw1etwmrulds7j20yi0pw43g.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/a8ef5277jw1etwmrulds7j20yi0pw43g.jpg" alt="a8ef5277jw1etwmrulds7j20yi0pw43g" width="500" height="375"></a></p>
@@ -803,93 +845,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%83%9D%E6%9F%8F%E6%9D%91%E6%89%B9%E8%AF%84%E4%B8%AD%E5%85%B1%E6%89%AD%E6%9B%B2%E6%8A%97%E6%88%98%E5%8F%B2-%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%8D%E6%9C%8D/" target="cdt-mirror">自由亚洲 | 郝柏村批评中共扭曲抗战史 解放军不服气</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Clipboard10_79.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Clipboard10_79.jpg" alt="台湾前行政院长郝柏村" width="550" height="310"></a><p>台湾前行政院长郝柏村</p></div>
-<p>台湾前行政院长郝柏村在新书中批评中共抗日战史作假成份居多，而正面和敌后战场歼敌的比例为百分之九十五比五。这样的说法引来解放军将领徐焰撰文批评，一场论战就此开始。</p>
-<p>亲身经历抗战的郝柏村近年专注研究抗战史，日前在新书发表会及接受媒体访问时都强调中共官方对抗战历史，“不但是隐瞒，而且是扭曲”。他也强调抗战的正面战场才是决定性的，“敌后战场只是一个补助”。从比例上来说，“抗战正面战场百分之九十五，敌后战场百分之五。”</p>
-<p>针对郝柏村的评论，中国国防大学教授徐焰在环球时报发表一篇名为“敌后和正面战场同样重要”的文章加以反驳。徐焰批评郝柏村的说法“不符合历史事实”；他说，日军在中国战场伤亡约一百四十万人，其中五十五万人是八路军和新四军的战果。</p>
-<p>徐焰的算法，是引用日本官方的资料，其中纪载日军在中国战场伤亡人数为一百四十万。而一九八零年代台湾蒋纬国将军主编的一套抗战丛书中，记载国军共造成八十五万日军死伤。两者相减的人数，就是八路军和新四军的战果。</p>
-<p>对于徐焰的算法，中华军史学会副理事长傅应川周一晚间接受本台访问时，直言“差太多了”。他反问，战时共军总共才多大兵力？可以看比较客观的资料，共军最多的时候是打“百团大战”时，之后共军的力量又衰退了。等到“一号作战”之后再又壮大起来，但始终没有超过百团那段全盛时期。没有那么多人，怎么可能创造那么大的战果？不可能的事情。</p>
-<p>傅应川说，查考日本方面的材料，也找不到徐焰说的这种纪录。傅应川说，真正的关键在于中共当局面对历史的态度。他说中共方面对历史材料有很多不同的解读，有些是基于他自己本身的战略利益，故意扭曲。历史要不要还原？是要还原。例如：抗战是谁领导的？怎麽打胜的？这都需要客观历史评价。</p>
-<p>傅应川是出席“纪念抗战胜利暨台湾光復七十周年”学术研讨会欢迎酒会时接受了访问。马英九也出席了欢迎酒会并发表讲话。</p>
-<p>马英九说，台湾纪念抗战胜利七十周年系列活动邀请到对抗战胜利有帮助的外国朋友来台湾，其中，包括美国三位前总统罗斯福、杜鲁门及艾森豪威尔的后人。</p>
-<p>马英七也透露政府将会正式颁褒扬令给两位在南京大屠杀时保护了许多中国人的德国商人拉贝及魏特琳，也会颁给有“中国辛德勒”称号的前驻维也纳总领事何凤山。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%83%9D%E6%9F%8F%E6%9D%91%E6%89%B9%E8%AF%84%E4%B8%AD%E5%85%B1%E6%89%AD%E6%9B%B2%E6%8A%97%E6%88%98%E5%8F%B2-%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%8D%E6%9C%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E5%86%9B/?category=18271" rel="tag">共军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8E%AB%E9%A1%BB%E6%9C%89%E5%85%AC%E7%A4%BE-%E5%8F%AF%E7%AC%91%E7%9A%84%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/" target="cdt-mirror">莫须有公社 | 可笑的为国接盘</a>
-</h2>
-<p><p>最近有句话很时髦——为国接盘。以前有教育救国、实业救国等等，现在风口变了，救国的最佳方式换成炒股。跟只会扣帽子耍嘴皮子的仁人志士相比，献出真金白银的股民，爱国的成色自然更胜一筹。</p>
-<p>对于股市，我纯属局外人，既非老油条，亦非小鲜肉，但也时常留意。在我看来，这是观察中国特色以及国民性的一个重要标的。股市是一面镜子，照出了中国人的可怜宿命，也照出了中国人的劣根性。</p>
-<p><strong>何为中国特色的股市</strong></p>
-<p>不知自何时起，凡事都要讲中国特色，尽管谁也说不清楚，这个万金油一般的东西该如何定义。股市当然概莫能外。</p>
-<p>中国股市从娘胎里爬出来，就残缺健康的基因，说难听点叫乱炖，说好听点就是中国特色。原因很简单，市场经济之于中国，从来就是挂羊头卖狗肉而已。</p>
-<p>吴敬琏先生所谓市场经济好与坏的二分法，实在太客气了。哪有好和坏的问题，只有真和假的问题，雾里看花水中捞月，如此而已。</p>
-<p>因为市场经济与民主自由互为表里，后者是前者存在的基础。也就是说，基于民主自由的市场经济有好有坏，但缺了民主自由，公共资源被一伙人垄断，就不会有真的市场经济。每每看见有人大谈中国特色的市场经济，我的态度是：去他娘的，骗谁呢！</p>
-<p>既然没有真的市场经济，就不会有健康的股市。主宰股市的不是市场规律，而是那双翻云覆雨的黑手，最多就是戴上红色或白色的手套而已。</p>
-<p>讲体面些，这是肉食者主导的玩局。更不体面的说法是，大流氓带着小流氓，玩弄一群乌合之众而已。大家都是赌徒，只是型号不同罢了。大流氓吃肉，小流氓喝汤，乌合之众或啃点骨头，或成了盘中菜。</p>
-<p>这完全是一个零和游戏，既然有人吃得满嘴流油，就一定有人尸骨无存，甚至连下水也在劫难逃。</p>
-<p>吴先生有赌场之说，事实上这样讲有点侮辱了专业赌场。所谓盗亦有道，人家还有起码的规矩！俗话说，没有规矩不成方圆，但中国的肉食者从不在乎方圆为何物，似乎只要祭出中国特色，就足以无敌于天下，方圆何足道哉！</p>
-<p><strong>牛市与熊市</strong></p>
-<p>炒股者最关心牛市和熊市的转换。也经常有人来信问我，牛还能活多久？我理解他的苦心，就是在牛逼到顶前，自己能全身而退，保住微不足道的战利品。</p>
-<p>但问我这个问题，纯属对牛弹琴，就像讨教处女用什么招式最解恨一般可笑，因为我既非股神，更不是有特异功能的算命先生或国学大师。</p>
-<p>我试着用更宽泛的视角谈谈，因为对中国特色，我还有一定的观察力。所谓股市，也只是其中的一部分而已。克劳塞维茨说，战争是政治的延续！好吧，我照猫画虎，以为股市也不过是政治的延续。</p>
-<p>中国的股市，从来就不是单纯的经济问题，而是一个复杂的政治问题。因为根本不存在真正的市场经济。说得体面些，股市体现的是朝廷的意志；说难听点，股市不过是肉食者的夜壶罢了。</p>
-<p>大流氓杜月笙靠着把兄弟蒋先生，曾威风一时，但也被玩得死去活来。杜先生说，自己不过是蒋先生的夜壶罢了，尿急了拿来用一下，用完了就扔到一边去。</p>
-<p>股市之于肉食者，功能跟杜先生之于蒋先生大概相仿。肉食者尿急了，拿过来解决问题，这就是所谓的牛市；等他们尿完了，去他妈的，这就是所谓熊市。</p>
-<p>所以，判断牛熊市如何转换，最根本的标准不是市场规律，要看肉食者内分泌系统的需求！聪明的人嘴上不说，但心里明白，只有愚人们才去钻研价值理论、波浪理论、K线图等等，从中寻找牛熊出没的规律。</p>
-<p>回头想想，我们搞了三十多年，如果用一个字概括，那就是“炒”。只是不同时期，炒的花样不同而已。我们不是发展经济，我们是炒经济，而考察人类的历史，炒出来的经济注定无法持续。一边扬言可持续发展，一边炒得天翻地覆，这大概就是所谓中国特色，中国对人类文明独一无二的伟大贡献！</p>
-<p>远的不说，过去的十年，我们就集中精力干了一件事，炒房炒地皮。炒地皮是纲，其他的都是目，纲举目张，炒出了一个太平盛世，世界第二大经济体。</p>
-<p>事实上炒地皮断非天朝独美，但我们爆炒数年，炒得太狠，彻底炒糊了，只留下一地鸡毛，太平盛世被尿成一大坑。何谓炒糊了，就是把原本该炒一百年的地皮，用几年炒完了，不糊行吗？</p>
-<p>现在还有人谈论刚性需求，房价要涨，这跟鼓吹四千点是牛市起步一样可笑。尽管我们缺乏真的市场经济，但中国特色还没有伟大到完全无视基本的供求关系。地产为何成了瘪三，原因无他，房子太多了嘛！中国的住房问题，不是供给不足，只是分配不均罢了。一边是遍地混凝土森林，一边是人口萎缩，还他妈鼓吹地产的黄金时代！</p>
-<p>尽管背着奸商的骂名，但炒地皮的主角，或者坐庄者，并非地产商，而是政府，他们是始作俑者，也是最大的受益方。在过去的十年，炒地皮就起到了夜壶的作用，类似大流氓杜月笙先生那样。</p>
-<p>我私下揣测，他们其实也想继续炒地皮，使用这个尿壶，只可惜先辈尿得太狠，好端端的青花瓷夜壶被尿坏了，而且尿出了一个大坑——银行的问题，国企的问题，地方政府的债务问题等等。</p>
-<p>要解决这些问题，无非一个字，钱！以前可以炒地皮，现在尿坏了、炒糊了，留下个烂摊子，怎么办？他们想到了更廉价的玩法，炒股！炒股与炒房，本质上没什么区别。就是开个场子，讲点故事，让大家夹着包包进来，脱了裤子出去。</p>
-<p>牛市就这样粉墨登场了！至于何时结束，要看炒地皮留下的坑填到什么程度，坐庄者的目的是否达到，夜壶还有没有用？或者说他们是否找到了更廉价更有效的炒作标的。如此，所谓的熊市也就横空而来了。</p>
-<p>就个人的观察，想填这个坑绝非一日之功，就目前的行情，找到其他标的颇为不易。这意味着本轮所谓的牛市不会轻易结束，夜壶不会被轻易踢掉，否则他们的内分泌系统会受不了！不炒股，他们又能炒什么呢？无论疯牛或慢牛，后边的逻辑大概如此！</p>
-<p>所谓的股神和乌合之众根本左右不了中国的股市，最多是跟着起哄或被利用的工具而已。江湖传言，号子里的资本大鳄黄光裕将王者归来，风云再起，就算我憋住不笑，真正的庄家大概要笑了——他们真会抬举自己！王亚伟、徐翔之辈何足道哉，不看今日之域中，是谁家之天下！</p>
-<p>大家根本不用担心，股市阳痿上几天，还会雄风再起。因为这不是个简单的市场问题，是个复杂的政治问题。</p>
-<p><strong>可笑的为国接盘</strong></p>
-<p>当美国大兵为美利坚祖国四处捣乱、抛头颅洒热血的时候，国人正以爱国为主题，比赛各种咏叹调，嗓门越高越爱国。一边胡作非为，忙着批发汉奸帽子，一边用廉价的胭脂把自己的脸蛋抹得通红，这就是中国特色的爱国者。</p>
-<p>看到有些人口口声声与日寇不共戴天，完了却冲过去睡人家的姑娘，捎带弄几个马桶回来，我笑了。笑完无话可说。如鲁迅先生所言：吟罢低眉无写处！有时候连吟也显得多余。夫子讲“天下有道则见，无道则隐。”，像我这样的刺儿头、小混混，是见还是隐呢？</p>
-<p>这都是闲话，还是谈谈为国接盘的问题。如果我猜得不错，所谓的为国接盘有两种动机，一是纯粹的装逼，一是无可奈何的黑色幽默。</p>
-<p>于无厘头的股市中，可以看出国人虚伪到何种程度。为了心中的小算盘，不惜把装逼进行到底！我不妨把皇帝的新装扒了，让大家看看，这都是什么货色。</p>
-<p>一个人炒股，不就是为了钱嘛！事实上，赚到钱让老婆孩子过上好日子，一点也不寒碜，何必要扣上爱国的高帽子。那些号称为国接盘的人，摸着良心想想，你到底想要什么？如果大家真是仁人志士，为国接盘，那为何股价涨了唱国歌，跌了就骂娘！这符合逻辑吗？为国牺牲，死得其所，有什么可抱怨的！</p>
-<p>在这方面，有些人连我这样的汉奸都不如。我们写文章，是为了黄金屋颜如玉吗？天天得罪权贵，还想要大骨头，岂非痴心妄想？弄不好还要进去吃窝窝头！文字狱可是中国特色。即便如此，大家坚持着，没什么怨言，是福是祸也都认了。苟利国家生死以，既然是为国接盘，又何必怨声载道呢？</p>
-<p>简而言之，有些人扬言为国接盘，只是装逼成了习惯。他们从小接受的教育就是，不装逼毋宁死，凡事都要上升到政治道德的高度。如鲁迅先生所言，孔雀开屏、后窍自现，非但不美，而且丑得要死。炒股赚钱，养家糊口，天经地义，又何必把脸蛋抹得通红，玩这种不入流的把戏。</p>
-<p>除了装逼，扬言为国接盘的人，心里大概多少有些阴暗，耍小聪明罢了。自己被套，希望以爱国的名义，把别人套进来，然后溜之大吉。最典型者莫过中国神车，号称李总的中车、国家的名片，一个个扬言为了国家利益，誓于神车共存亡。可结果呢，这些伟大的爱国者比狗跑得还快，一边跑还一边高唱爱国主义的战歌，把其他人忽悠进来。</p>
-<p>有些人扬言为国接盘，不就是骗别人进来，自己全身而退，回家抱着老婆数票子吗？数完了，继续出来忽悠，如此而已。这跟爱国有什么关系呢。</p>
-<p>股市暴跌后，出现了种种可笑的声音，所谓美国人的阴谋。其实，讲这种话的人，自己心里很清楚，这件事跟美国人没一根毛的关系。就这么个不入流的玩意，人家还不稀罕呢。既如此，为何还要玩这种把戏，原因有三：</p>
-<p>一是有些人被套，期盼解放军来拯救，可又怕人家不来，遵照过往的经验，把这个问题上纲上线，搞成阶级斗争或敌我斗争。既然是国家之间的对抗，政府焉有不出手的道理。股市泄成这样，政府当然应该救场，吃着人民的饭，就不能看着人民去跳楼。道理就这么简单，何必无限上纲上线，玩阴谋论，真是可怜之极。</p>
-<p>二、肉食者玩砸了，又不想承担责任，向民众谢罪。他们惯用的办法就是找个替罪羊。但凡干了恶心事，就说是美国人的罪过。普京、三胖等等，亦复如是。前几日，某喉舌暗示股灾乃摩根作祟。其实他们很清楚怎么回事，查查证券交易所的数据，不就一目了然了？如果真是美国人干的，诸位想想，喉舌们早大加挞伐了，还用暗示？所谓暗示，不过是企图误导某些蠢货而已。只可惜时代变了，类似的蠢货已经越来越少。</p>
-<p>三、既想救市，又不想花钱。我的态度是，不想花钱的救市等于耍流氓。可惜得很，有些人就想靠耍流氓蒙混过关。如果早点掏腰包，何至如此。宣扬为国接盘的目的，就是以爱国的名义糊弄民众，掏腰包自救。他们非但不掏钱，还可以多收税。这个办法以前大概是有用的，可现在情况不同了。一是这次阳痿得太厉害，非下猛药不可；二是老百姓也不如以前那么好糊弄。</p>
-<p>任老爷们、喉舌们如何讲故事，大盘根本不理不睬，一泻千里，每天都在涮新人类的历史。你丫光溜嘴皮子不掏钱，就死给你看，四千点何足道哉，如果再不掏钱，两千点正在招手呢。结果如何呢，只好老老实实掏银子出来，而且掏得更多。退一步讲，那些本来就是老百姓的血汗钱，拿出点救救急，为何如此抠抠索索呢？无他，店小二心里作祟罢了！看着大气磅礴，其实就是一群店小二。</p>
-<p>所谓的为国接盘，还有另一种动机，就是无可奈何的黑色幽默！</p>
-<p>所谓的黑色幽默，一方面是自嘲、反讽，一方面是无奈、去他妈的蛋、姑妄由之。这表明在一个无规则的赌局里，参与者极度无奈的心态——明知道难逃夜壶或者韭菜的命运，但侥幸最倒霉的不会是自己！</p>
-<p>当国家机器强大到无所不能时，作为弱势的个体，大概只能如此。也许有人会说，既然明白，何必要赌。原因很简单，在一个公共资源被高度垄断的社会里，留给普通人的投资机会微乎其微，与其等着家资贬值，倒不如赌一把试试手气。赢了，算是走了狗屎运，输了，愿赌服输，唾面自干罢了。</p>
-<p>肉食者对此心知肚明，这也是他们尿急了屡试不爽的招数，而且相对比较安全。比如加税，难免会引起国民的不满，布衣之怒的后果，肉食者不得不防。可以前的政府尿急了，除了搞苛捐杂税，又当如何呢？</p>
-<p>黄仁宇先生的书，大家应该看过，比如时髦的《万历十五年》。在我看来，他最有价值的作品是《十六世纪明代中国之财政与税收》。这本书抓住了王朝兴亡的要害。很多王朝玩不下去，就是财政出了大问题。</p>
-<p>明王朝灭亡的原因很复杂，但根本一条是财政问题，政府没有足够的钱应付乱局。经营辽东、平复叛乱，都需要钱，没钱玩个屁啊！可除了加税，崇祯和他的大小干部束手无策。结果必然激化社会矛盾，危机愈演愈烈，最后只能玩完，崇祯挂在歪脖子树上，呜呼哀哉！</p>
-<p>如果有中国特色的股市，崇祯开个场子，欢迎大家来赌，把大家洗劫一空，然后拿这些银子去折腾，明王朝会不会多活几天？用现在的话说，这可能叫积极的财政政策！</p>
-<p>也就是说，加税和坐庄虽然都是劫掠民众，但效果有所不同。尽管后者可能更残酷，但有可能糊弄住老百姓。坐庄者也心安理得——我没有逼着你进场子啊，再说了，在你进场子时，我已经反复提醒：股市有风险，投资须谨慎！可加税就要骂娘，就要造反。如果你当家，选哪一种办法呢？</p>
-<p>但凡事都有限度，玩过火了，就会弄巧成拙。如果玩得太出格，搞得有些人倾家荡产，怕就不会是黑色幽默那么简单！到那种时候，有些人会发现，暂时的尿急其实没什么大不了，人心才是大问题！</p>
-<p>谈及“为国接盘”，有人动不动祭出“天下兴亡，匹夫有责”。这句话是顾亭林先生讲的，几乎是领导们的口头禅。但这样讲有断章取义之嫌，因为领导们只讲前半句，后半句从来不讲，后半句是“国之兴亡，肉食者谋！”。顾亭林先生所谓的天下就是国家，而国家特指朝廷或者政府。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8E%AB%E9%A1%BB%E6%9C%89%E5%85%AC%E7%A4%BE-%E5%8F%AF%E7%AC%91%E7%9A%84%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/?category=18271" rel="tag">为国接盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88/?category=18271" rel="tag">党妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%8A%A1%E9%99%A2/?category=18271" rel="tag">国务院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%9B%98/?category=18271" rel="tag">大盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E6%B0%91/?category=18271" rel="tag">股民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9E%8D%E8%B5%84/?category=18271" rel="tag">融资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E8%89%B2%E5%B9%BD%E9%BB%98/?category=18271" rel="tag">黑色幽默</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -901,7 +856,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25s42i2kb0ere.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3n0we8hvj6h9k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -911,5 +866,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://d3n0we8hvj6h9k.cloudfront.net">https://d3n0we8hvj6h9k.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3n0we8hvj6h9k.cloudfront.net">https://d3n0we8hvj6h9k.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/></td>    </tr>
 </table>

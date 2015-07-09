@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://dg78j08veesp.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://dg78j08veesp.cloudfront.net"
+        <td><a href="https://d246o6rb4182xj.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d246o6rb4182xj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -938,7 +938,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96/?category=18271" rel="tag">中国文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">习主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">集体主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A1%E4%BA%B2%E4%BB%AC-%E5%86%8D%E8%B7%91%E6%88%91%E4%BB%AC%E5%B0%B1%E5%BC%80%E6%9E%AA%E4%BA%86/" target="cdt-mirror">【网络民议】乡亲们 再跑我们就开枪了</a>
 </h2>
@@ -1007,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d314r0feyzoypw.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d314r0feyzoypw.cloudfront.net"
+        <td><a href="https://d395w4hwc0nxa3.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d395w4hwc0nxa3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1023,9 +1023,9 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d395w4hwc0nxa3.cloudfront.net">https://d395w4hwc0nxa3.cloudfront.net</a></li>
-    <li><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a></li>
+<li><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a></li>
+    <li><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a></li>
+    <li><a href="https://d395w4hwc0nxa3.cloudfront.net">https://d395w4hwc0nxa3.cloudfront.net</a></li>
     <li><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a></li>
     <li><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a></li>
-    <li><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a></li>
     </ul>

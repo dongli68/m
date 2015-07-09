@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d314r0feyzoypw.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d314r0feyzoypw.cloudfront.net"
+        <td><a href="https://doy6565b136im.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://doy6565b136im.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1007,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td><a href="https://d395w4hwc0nxa3.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d395w4hwc0nxa3.cloudfront.net"
+        <td><a href="https://d314r0feyzoypw.cloudfront.net" target="cdt-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d314r0feyzoypw.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1023,9 +1023,9 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a></li>
-    <li><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a></li>
+<li><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a></li>
     <li><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a></li>
-    <li><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a></li>
-    <li><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a></li>
+    <li><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a></li>
+    <li><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a></li>
+    <li><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a></li>
     </ul>

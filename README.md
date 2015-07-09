@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2967xzlyq7mvq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d314r0feyzoypw.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a><br/><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><br/><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a><br/><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a><br/><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E8%80%80%E9%82%A6%E8%84%B1%E6%95%8F%E7%94%B5%E5%BD%B1%E5%BC%80%E6%8B%8D-%E9%81%BF%E8%B0%88%E5%85%AD%E5%9B%9B/" target="cdt-mirror">自由亚洲｜胡耀邦“脱敏”电影开拍 避谈“六四”主打青春励志</a>
@@ -1007,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pwsgy0kw4jhc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://doy6565b136im.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1017,5 +1017,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><br/><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://doy6565b136im.cloudfront.net">https://doy6565b136im.cloudfront.net</a><br/><a href="https://d3pwsgy0kw4jhc.cloudfront.net">https://d3pwsgy0kw4jhc.cloudfront.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/><a href="https://dg78j08veesp.cloudfront.net">https://dg78j08veesp.cloudfront.net</a><br/><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a><br/></td>    </tr>
 </table>

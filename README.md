@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1b0katyvgixbi.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d4oaiwhq0gvm2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1urach92xkda7.cloudfront.net">https://d1urach92xkda7.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d4oaiwhq0gvm2.cloudfront.net">https://d4oaiwhq0gvm2.cloudfront.net</a><br/><a href="https://d1urach92xkda7.cloudfront.net">https://d1urach92xkda7.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E8%B0%A2%E5%9B%BD%E5%BF%A0%EF%BC%9A%E8%BF%99%E6%B3%A2a%E8%82%A1%E5%B0%B1%E6%98%AF%E9%AA%97%E5%AD%90%E5%9D%90%E5%BA%84-%E6%94%B9%E9%9D%A9%E5%85%A8%E9%9D%A2%E5%80%92/" target="cdt-mirror">墙外楼｜谢国忠：这波A股就是骗子坐庄 改革全面倒退</a>
+</h2>
+<p><p>文/前海传媒 李哲</p>
+<p>”这轮A股就是个骗局。”原本不想谈论A股的谢国忠，还是忍不住这样说到。</p>
+<p>”越救越跌，越跌越救，恶性循环，生生不息”，中国A股眼下正陷入这样的困局里。截止，7月8日上午收盘，上证指数收报3582.50，半天跌幅3.88%，这可能还算是好的，毕竟开盘差点就跌停。</p>
+<p>人们在恐慌、咒骂与心惊胆颤中望着绿油油的盘面，监管层与市场参与者则在不断制造信心，无论是证监会、央行，亦或是各大证券公司的上书行动。</p>
+<p>事态显然在扩散，从A股保卫战到港股再到中资概念股，一遍哀鸿。甚至由A股所引发的中国版金融危机也甚嚣尘上。</p>
+<p>如何寻根刨底发现问题并解围，如何深刻反思，这都是不容回避的关键问题。为此，著名经济学家、原摩根士丹利董事总经理、亚太区首席经济学家、玫瑰石投资顾问首席经济学家谢国忠有着不同于常人的看法。</p>
+<p>老股民大都看懂了 这波A股就是骗子自己在炒</p>
+<p>谢国忠常年在中国市场经济建设中扮演着”乌鸦嘴”角色，从唱空房地产，到持续尖锐地批评中国式干预，这位曾连获6届亚洲最佳经济学家可谓毁誉各半。7月8日上午，谢国忠接受了前海传媒的独家采访，就当下A股坦言了自己观点。</p>
+<p>外界看来的A股急跌，在他看来，这波A股就是骗子自己在炒，老百姓跟进来的不多，所以市场跨起来就像现在看到的这样。原来的模式是中国老百姓会相信政府，又喜欢投机，中国的钱都是在五十年代末或六七十年代的，但很多人已经看透了这种玩法，所以骗不到钱了。</p>
+<p>谢国忠具体指出：”这波股市主要是靠债借钱炒起来的，坐庄的为主，老百姓有参加，但主要是年轻人，没什么钱的。中国老百姓看破了股市，所以来的人少，股市没有核心优势，靠的就是借的四五万亿的钱撑着。像上海的一些老股民，之前还愿意跟自己辩论，现在也说是骗人的，这些是有钱的人，没来，所以股市里的骗子骗不到钱，最后就骗银行的钱。”</p>
+<p>关于坐庄，谢指出，坐庄是体制的一个工具，创业板和新三板，主要是靠坐庄撑起来的，中国经济的核心问题是没有像欧洲、美国那样，他们的问题是老百姓对干活有看法，生活福利开支过大，归咎起来是老百姓要的过多引起的。</p>
+<p>”中国的话，是肯干活，但拿很少的钱，全世界的跨国公司也是这么说的，中国经济哪里来的呢？核心问题是增财富，增财富在西方社会靠的是创造品牌或发明了什么东西，那就有议价能力，而中国是通过发钞票来炒，中国为什么一浪一浪地炒，原来是从社会边缘的炒股票像90年代炒股票坐庄的人，现在变成了主流，跟权贵坐在一起，这反映了中国这个体制。”</p>
+<p>其实，这轮A股调整，多少在谢国忠的预计之内。早在4月底，谢就在《南华早报》上发表的文章称，中国似乎在吹起一个大规模股市泡沫，以麻痹房地产泡沫破裂带来的疼痛，以及延缓必要的经济重组。它在短期内可以起作用，将群众的注意力转向大规模赌博游戏和远离现实。但是，泡沫不会持续到2015年中。当市场崩溃，疼痛只会加倍。</p>
+<p>为此，谢国忠向前海传媒强调，现在是坐庄的人跟权贵联合在一起，中国要有很大的改革才能走向正规，牵涉到方方面面，原来习近平在2012年说过中国要处理过去过度刺激留下的遗留问题，中国不能靠泡沫。但过去看到的是，2013年又搞房地产泡沫，2014年又搞股市泡沫，牵涉的问题非常大。</p>
+<p>由这次A股谈到资本市场弊病，谢国忠坦言，中国的股市跟经济没关系，历史上几乎都是这样，所以它是把西方的概念拿过来，让大家去炒。中国股市主要是国有企业，国企怎么可能为股民赚钱，它二十年现金流都是负的，民企的话，大部分进来都是为了赚股民的钱。</p>
+<p>对救市，他说，政府救市的出发点是错误的，原来是想用股市炒起来带动经济，中国人相信权利，相信有权的人这样说就可能成功。救市把市场政治化，政治是有责任的，起来的时候是政府鼓励大家去炒的，所以，倒下来它也要负一定责任。</p>
+<p>”救市从过去来看，可能是想给股民一定心理上安慰，历史上都是这样，但让政府出钱是很少的，因为政府是要钱的，它把股市炒起来就想从里面拿钱。说到底，中国股市就是负的博弈，再加上后面还有人抽水。怎么可能是一个正常的市场？”</p>
+<p>改革基本的都倒退 央行买股或加速崩盘</p>
+<p>从资本市场看中国改革全局，他认为，中国经济的核心问题是，政府不想给老百姓钱，它更多想炒到自己口袋里，这是所以为什么中国坐庄的骗子那么多，它是一个惩善扬恶的地方，现在大家都去搞网络，也基本上都是骗人的。</p>
+<p>”现在重心还有偏离实体经济，搞概念，还是让大家炒这个炒那个，又搞什么基金去里应外合。管理层说的话什么时候得到执行，这是核心问题，这轮改革基本上还是空的，搞概念性。泡沫搞不起来了。很多都是打着为实体经济服务的名义，把资金转到没有用的地方或者叫浪费的地方。现在增财富是靠向13亿老百姓每人头上挖点钱，但是它不能靠自己有本事，比如像苹果那样生产一个影响世界的手机，或者像奔驰宝马那样，有自身的品牌。现在只能靠开赌场，但许多老百姓也都看破了。”</p>
+<p>谢国忠直言不讳说，目前无论是A股还是整个经济改革，基本的都是倒退的。改革真正改了什么？</p>
+<p>A股目前该如何作为，他说，早之前不干预是比较好，现在只能进一步下跌。最后央行可能自己印钞买股票，那很可能会出现崩盘，人民币一旦崩盘，可能会出现全局危机。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E8%B0%A2%E5%9B%BD%E5%BF%A0%EF%BC%9A%E8%BF%99%E6%B3%A2a%E8%82%A1%E5%B0%B1%E6%98%AF%E9%AA%97%E5%AD%90%E5%9D%90%E5%BA%84-%E6%94%B9%E9%9D%A9%E5%85%A8%E9%9D%A2%E5%80%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B6%85%E7%BA%A7%E8%8B%B9%E6%9E%9C%E7%BD%91%EF%BD%9C%E8%88%86%E8%AE%BA%E5%9C%BA%EF%BC%9A%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%8D%97%E6%B5%B7%E4%B9%8B%E5%8D%B1/" target="cdt-mirror">超级苹果网｜舆论场：股市暴跌背后的中南海之危</a>
 </h2>
 <p><p>100年前的那个盛夏，一场全球金融危机引发中国上海股市崩盘。而由于中国股市中特有的官商勾结、官场争斗、制度糜烂等诸多要素，这场单纯的市场危机不但危害程度被无限放大，而且迅速转化为政治危机——违规入市且损失惨重的川汉铁路陷入资金困境，并且就损失款的补偿问题与中央持续发生矛盾，引爆了“保路运动”，成为辛亥革命的先声……</p>
@@ -148,7 +182,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%9C%9F%E8%80%B3%E5%85%B6%E5%86%8D%E7%88%86%E5%8F%8D%E5%8D%8E%E7%A4%BA%E5%A8%81-%E5%8A%AB%E6%B3%B0%E9%A2%86%E9%A6%86%E6%8A%97%E8%AE%AE%E9%81%A3%E8%BF%94/" target="cdt-mirror">东方日报｜土耳其再爆反华示威 劫泰领馆抗议遣返维人</a>
 </h2>
@@ -871,40 +905,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%917%E5%B2%81%E7%94%B7%E7%AB%A5%E4%B8%8E%E7%8C%AA%E5%90%8C%E4%BD%8F-%E4%BB%8D%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D/" target="cdt-mirror">【异闻观止】7岁男童与猪同住 仍不会说话</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/75b52ed2jw1ett5aqmtiwj20g00ix7667.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/75b52ed2jw1ett5aqmtiwj20g00ix7667.jpg" alt="75b52ed2jw1ett5aqmtiwj20g00ix7667" width="440" height="492"></a></p>
-<p>近日，网曝濮阳清丰县一个小男孩和猪一起待在泔水车里。濮阳早报记者探访，男孩家境贫寒，父亲靠养猪、蹬三轮养家；母亲精神障碍，非打即骂致孩子头上身上满是伤疤，冬天也不让孩子进屋里睡觉，可怜的孩子一年四季蜷睡在院子角落里，至今不会说话。</p>
-<p><strong>家中臭气熏天 熏走左邻和右舍</strong></p>
-<p>一进入车子营村，记者就闻到了弥漫在空气中的刺鼻臭味。继续向前，在一群聊天的村民中间，记者见到了照片中的孩子，唯一不同的是，他从长发变成了光头。</p>
-<p>记者见到小洪波（音译）时，他正在啃食一块西瓜。濮阳爱心联盟社的志愿者们看到后，赶忙撕开一包零食递给他。但是，他没有看一眼志愿者递来的零食，而是继续啃食着所剩无几的西瓜。也许在他眼中，西瓜才是最好的零食。随后，志愿者从他手中夺过西瓜，将零食塞进他的手中。初尝零食的他，边吃边笑。</p>
-<p>随后，在邻居的引导下，记者来到了一排破旧的瓦房前。越是接近，空气中的那股臭味就越浓烈。“这就是刘振学（小洪波父亲）的家。”邻居指着刘家东侧的破旧瓦房说，原来他家两边都有邻居，自从开始养猪后，他家的臭味就没断过，最后邻居受不了这种臭味就都搬走了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/75b52ed2jw1ett5at1n3rj20f70bet9t.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/75b52ed2jw1ett5at1n3rj20f70bet9t.jpg" alt="75b52ed2jw1ett5at1n3rj20f70bet9t" width="440" height="330"></a></p>
-<p><strong>待遇令人震惊 四季睡在院子里</strong></p>
-<p>小洪波的家，用无从下脚这个词来形容丝毫不夸张。一个不大的院子里有一间堂屋，还有一间东屋，堂屋父母住，东屋则用来养猪。东屋的对面是一个大铁笼子，笼子里面养着2条大型犬，院子的中间仅剩下一条宽1米有余的路。即便如此，路上还不时会出现挖出的泔水坑和存放泔水的盆，院子里蚊蝇满天飞。</p>
-<p>在大门东侧的墙角里，有一片半平方米左右的空地，地面的土质十分松软，旁边还堆积着一堆破衣烂衫。“这就是小洪波一年四季生活的地方。”指着这半平方米的空地，邻居万素想说，不管刮风下雨还是下雪，孩子都是蜷缩在这里睡觉。他父亲天天不在家，不是去县城拉泔水养猪，就是出去蹬三轮挣钱，往往回到家里都已经半夜了。小洪波天天被母亲锁在院子里，不让出门，邻居看不过去了就会踹开门让小洪波出来玩儿会。一名不愿透露姓名的村民说：“冬天，孩子也是躲在门后面，从来没见过孩子在屋里睡觉。每年冬天，孩子的腿上都会生冻疮。冻疮烂了，伤口发炎化脓了就会黏在裤子上。开春后换衣服，都是把冬天的棉裤剪烂才能脱下来。”说到这里，泪水在邻居泛红的双眼中不停地打转。</p>
-<p>村里人都很同情这个孩子，经常给他吃的、喝的，有时还会拿些自家孩子穿剩下的衣服给他。但是换上衣服后没几天，小洪波的衣服又会变成脏兮兮的。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/75b52ed2jw1ett5auefvmj20bp08pjrx.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/75b52ed2jw1ett5auefvmj20bp08pjrx.jpg" alt="75b52ed2jw1ett5auefvmj20bp08pjrx" width="421" height="313"></a></p>
-<p><strong>头上满是伤疤 邻居哭诉母虐子</strong></p>
-<p>“我就住在他家前面，经常能听到孩子的母亲按着小洪波的脑袋往门上或地上撞，他有时被撞三四下才会发出哭声。” 每每提到小洪波的母亲，村民刘学方的气就不打一处来。见到小洪波后，记者看到大大小小的伤疤布满了他的头部。“这是昨天他母亲在门上撞的。”邻居指着小洪波额头上的2个大包心痛地说。据车子营村村民介绍，小洪波的母亲共生育有5个孩子，但是只成活了2个，未成活的3个孩子都是因为他们的母亲才离开人世的。万素想哭着说：“小孩在床上躺着，孩子的母亲就会用牙咬孩子的胳膊。丝毫不夸张地说，未成活的3个孩子都是被他们的母亲咬死的。成活的孩子中，老大一出生就被孩子的姑姑抱走了。老二（小洪波）虽然一直跟父母生活，但没人引导他说话，导致孩子马上7岁了还不会说话。”</p>
-<p>小洪波的母亲可能患有精神障碍，在记者采访时，面对村民和爱心人士指责她殴打孩子的行径，她始终面带微笑站在一旁，除此之外别无表情。一名村民说：“前几天，有人来看孩子时带了2箱牛奶，刘振学将其中的1箱给了自己的母亲。当刘振学去县城拉泔水时，小洪波的母亲就拿着棍子到隔壁院子准备殴打婆婆，吓得老人家拿着牛奶跑到路上找人求助，最后把牛奶还给了她才作罢。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/75b52ed2jw1ett5auur2lj20f70bcdh3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/75b52ed2jw1ett5auur2lj20f70bcdh3.jpg" alt="75b52ed2jw1ett5auur2lj20f70bcdh3" width="440" height="328"></a></p>
-<p><strong>家庭异常拮据 收入仅靠父亲养猪和蹬三轮</strong></p>
-<p>刘振学说：“我今年46岁，父亲去世得早，母亲也有轻微的精神病。由于家庭状况和年龄，我也不能出去打工挣钱，只能养猪、蹬三轮。”据刘振学介绍，他们家每个月需要支付电费及其他费用近300元，单靠种地根本无法支付这笔费用。迫于无奈，刘振学只好从县城拉泔水养猪，晚上再出去蹬三轮挣钱养家。</p>
-<p>每天晚上，刘振学都会骑上干净的三轮车去县城蹬三轮挣钱，每次都是到半夜完全没有生意了才回家。第二天睡醒后，他又会骑着泔水车去县城的大小饭店拉泔水。拉回泔水后，刘振学全家人就开始在泔水盆内挑选可以进食的东西。有邻居说：“每天拉完泔水回来，就能看到他们全家人围着泔水盆挑挑拣拣的，然后就当饭吃。”</p>
-<p><strong>心如刀绞 志愿者泪流满面</strong></p>
-<p>7月4日，濮阳爱心联盟社的近20名志愿者去看望了小洪波。在看到了小洪波家的居住环境，并得知了小洪波母亲的行径后，志愿者们都感到十分气愤。说到孩子的生活现状和遭遇，濮阳爱心联盟社的志愿者宗女士哭着说：“我觉得孩子十分可怜。孩子在这个家庭中受尽了虐待，如果继续这样下去，孩子根本无法存活。我建议将孩子送到社会福利机构。孩子马上就要7岁了，但是给人的感觉却像一个3岁左右的孩子，到目前为止还不会说话，必须要让孩子得到语言方面的训练。我也是一位母亲，我知道养育孩子父母需要为孩子付出多少。”小胜博的父亲张纪文见到孩子后也十分心酸，他说：“如果可以，我愿意收养这个孩子。虽然我的家庭条件并不富裕，但是我能给予孩子起码的温饱和教育。”</p>
-<p><strong>律师心痛 愿提供法律援助</strong></p>
-<p>关于小洪波的遭遇，记者咨询了河南飞鸿律师事务所的安克让律师。安律师说，关于男孩母亲是否构成虐待罪的问题，依据《刑法》二百六十条规定，虐待罪在未造成重伤或死亡的情况下，属于告诉才处理的案件，被害人自愿不告诉的，一般不予处理。被害人无法告诉的，其近亲属也可代为告诉。本次事件中，首先看男孩近亲属是否告诉，告诉才能启动法律程序。若孩子伤情构成轻伤，公安机关可以故意伤害罪直接立案侦查。其次得确定男孩的母亲是否具有刑事责任能力。我国《刑法》规定，对精神障碍者经法定程序鉴定确认的，如果是完全无刑事责任能力的，则不负刑事责任。孩子母亲患有精神障碍，如果追究其刑事责任，应对其进行司法精神医学鉴定。</p>
-<p>针对小洪波的母亲对其进行的无故殴打，安律师说，其实这是一个社会问题，我国的社会救助制度、未成年人保护法律、制度不健全，有些规定过于模糊，导致依据不足。本事件中，因为小孩还有父亲，他父亲如果同意，可以由他人收养。如果孩子家庭很困难，他父亲没有抚养能力，可以由社会福利机构供养。当得知小洪波的母亲曾咬死过3个孩子时，安律师说：“孩子的母亲很可能患有严重的精神障碍，依据《精神卫生法》第三十条，应对其进行强制医疗，费用则由政府承担的。”安律师还说，如果孩子有需要，他愿意提供免费的法律援助。⑨记者 张迪</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%917%E5%B2%81%E7%94%B7%E7%AB%A5%E4%B8%8E%E7%8C%AA%E5%90%8C%E4%BD%8F-%E4%BB%8D%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3/?category=18271" rel="tag">公安机关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E8%B4%A3%E4%BB%BB/?category=18271" rel="tag">刑事责任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A9%E5%AD%90/?category=18271" rel="tag">孩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%8A%A9/?category=18271" rel="tag">救助</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E6%B3%95/?category=18271" rel="tag">未成年人保护法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98/?category=18271" rel="tag">社会问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">精神卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%99%90%E5%BE%85/?category=18271" rel="tag">虐待</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -916,7 +916,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d4oaiwhq0gvm2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -926,5 +926,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d1urach92xkda7.cloudfront.net">https://d1urach92xkda7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d4oaiwhq0gvm2.cloudfront.net">https://d4oaiwhq0gvm2.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d1urach92xkda7.cloudfront.net">https://d1urach92xkda7.cloudfront.net</a><br/></td>    </tr>
 </table>

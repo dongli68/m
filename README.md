@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2xifhuwz3r6uc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1b0katyvgixbi.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d1gpnu8v7fi74p.cloudfront.net">https://d1gpnu8v7fi74p.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d308ee44pck5gk.cloudfront.net">https://d308ee44pck5gk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d1gpnu8v7fi74p.cloudfront.net">https://d1gpnu8v7fi74p.cloudfront.net</a><br/><a href="https://d308ee44pck5gk.cloudfront.net">https://d308ee44pck5gk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/" target="cdt-mirror">德国之声｜原《时代周报》驻京记者助手张淼无罪获释</a>
@@ -40,7 +40,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B7%BC/?category=18271" rel="tag">张淼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%AE%A3%E9%83%A8%E6%80%A5%E4%BB%A4%E5%9B%BD%E5%86%85%E6%8A%A5%E9%81%93%E9%81%BF%E5%85%8D%E8%82%A1%E7%81%BE%E6%94%BF/" target="cdt-mirror">美国之音｜日媒称中宣部急令国内报道避免股灾政治化</a>
 </h2>
@@ -115,7 +115,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E5%B1%80/?category=18271" rel="tag">证监局</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B6%A8%E5%A7%BF%E5%8A%BF-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E9%98%89%E5%89%B2%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%EF%BC%9A%E6%9C%89%E5%A4%9A%E6%97%A0%E8%80%BB-%E8%A6%81%E5%A4%9A%E6%97%A0/" target="cdt-mirror">涨姿势 | 广电总局阉割智能电视：有多无耻 要多无赖</a>
 </h2>
@@ -856,7 +856,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2xifhuwz3r6uc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d308ee44pck5gk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -866,5 +866,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d308ee44pck5gk.cloudfront.net">https://d308ee44pck5gk.cloudfront.net</a><br/><a href="https://d1gpnu8v7fi74p.cloudfront.net">https://d1gpnu8v7fi74p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d308ee44pck5gk.cloudfront.net">https://d308ee44pck5gk.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d1gpnu8v7fi74p.cloudfront.net">https://d1gpnu8v7fi74p.cloudfront.net</a><br/></td>    </tr>
 </table>

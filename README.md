@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3dbnontiiwkxj.cloudfront.net">https://d3dbnontiiwkxj.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d31vdhgyqeprab.cloudfront.net">https://d31vdhgyqeprab.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E8%82%A1%E7%81%BD%E6%9C%83%E5%BC%95%E7%99%BC%E5%B0%8D%E5%A4%96%E6%88%B0%E7%88%AD%E5%97%8E/" target="cdt-mirror">东网｜吳戈：股災會引發對外戰爭嗎</a>
@@ -83,7 +83,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E8%B0%A2%E5%9B%BD%E5%BF%A0%EF%BC%9A%E8%BF%99%E6%B3%A2a%E8%82%A1%E5%B0%B1%E6%98%AF%E9%AA%97%E5%AD%90%E5%9D%90%E5%BA%84-%E6%94%B9%E9%9D%A9%E5%85%A8%E9%9D%A2%E5%80%92/" target="cdt-mirror">墙外楼｜谢国忠：这波A股就是骗子坐庄 改革全面倒退</a>
 </h2>
@@ -152,7 +152,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B7%9D/?category=18271" rel="tag">周小川</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E7%BB%A7%E4%BC%9F/?category=18271" rel="tag">楼继伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%A9%E6%B6%AF%E8%AE%BA%E5%9D%9B%EF%BD%9C800%E4%B8%87%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%E7%9B%B4%E6%8E%A5%E5%8F%98%E8%B4%AB%E6%B0%91%EF%BC%8C%E4%BA%B2%E5%8E%86%E8%82%A1%E7%81%BE/" target="cdt-mirror">天涯论坛｜800万中产阶级直接变贫民，亲历股灾</a>
 </h2>
@@ -754,7 +754,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3dbnontiiwkxj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2pp4j4x0s9ozk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3dbnontiiwkxj.cloudfront.net">https://d3dbnontiiwkxj.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

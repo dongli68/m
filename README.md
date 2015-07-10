@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d35ku5fdb6b8d9.cloudfront.net">https://d35ku5fdb6b8d9.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2s8xjj7jnfifd.cloudfront.net">https://d2s8xjj7jnfifd.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d35ku5fdb6b8d9.cloudfront.net">https://d35ku5fdb6b8d9.cloudfront.net</a><br/><a href="https://d2s8xjj7jnfifd.cloudfront.net">https://d2s8xjj7jnfifd.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%9C%80%E7%BE%8E%E4%B8%BD/" target="cdt-mirror">奇闻录 | 中国梦最美丽</a>
@@ -254,7 +254,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%BB%B7/?category=18271" rel="tag">股价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D/?category=18271" rel="tag">金融</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E7%89%B9%E5%86%99%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%8B%E6%8C%AB-%E9%87%8D%E4%BC%A4%E5%B0%8F%E8%82%A1%E6%B0%91/" target="cdt-mirror">BBC | 特写：中国股市下挫 重伤小股民</a>
 </h2>
@@ -794,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d35ku5fdb6b8d9.cloudfront.net">https://d35ku5fdb6b8d9.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2s8xjj7jnfifd.cloudfront.net">https://d2s8xjj7jnfifd.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d35ku5fdb6b8d9.cloudfront.net">https://d35ku5fdb6b8d9.cloudfront.net</a><br/><a href="https://d2s8xjj7jnfifd.cloudfront.net">https://d2s8xjj7jnfifd.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>

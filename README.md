@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3hc98rbthl6xf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d277apfxm3s88.cloudfront.net">https://d277apfxm3s88.cloudfront.net</a><br/><a href="https://d3btv4ofdp8g62.cloudfront.net">https://d3btv4ofdp8g62.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3hc98rbthl6xf.cloudfront.net">https://d3hc98rbthl6xf.cloudfront.net</a><br/><a href="https://d2xetnn6d9o3y5.cloudfront.net">https://d2xetnn6d9o3y5.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d7gkkzy9udv3p.cloudfront.net">https://d7gkkzy9udv3p.cloudfront.net</a><br/><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/" target="cdt-mirror">博客天下 | 你知道张召忠将军有多努力吗？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/U11682P1DT20150710120625.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/U11682P1DT20150710120625.jpg" alt="U11682P1DT20150710120625" width="550" height="415"></a></p>
+<p>撰文：李蓓</p>
+<p>根据澎湃新闻网的报道，军事专家、海军少将张召忠已正式退役。</p>
+<p>1952年出生的张召忠将军已经63岁，是一位长者了，一般来说副军职干部要在60岁退休，不过在2012年，张召忠在接受有关媒体采访时就表示自己“已经到了退休年龄，组织上特批延长服役期”。</p>
+<p>不少人不喜欢他，叫他“局座”，叫他“张哈夫”，认为他影响了电视机的可观赏性。但你不得不承认的是，他是近20年来知名度最高的现役军人，没有之一。</p>
+<p>是什么让他如此成功，让我们一起复盘一下张将军的成名之路吧。</p>
+<p><strong>忠诚和大长腿</strong></p>
+<p>张召忠出生在河北沧州盐山县，沧州是个富有尚武精神的地方，按照张召忠自己的说法是“伴着泥土的芬芳读完了小学、中学和机电中专”，然后参军，他在山里当海军，搞导弹。</p>
+<p>在1966年到1970年之间，上中专和参军需要成分好，获得基层推荐，以及政审。</p>
+<p>这是忠诚，也是他后来一直所主张的优秀品质。</p>
+<p>张将军的身高181CM，在当时看来是非常魁梧的一条大汉，所有的部队首长都喜欢这样的兵。1974年，张召忠被送去北大学阿拉伯语。张将军没有参加过高考，他是工农兵学员。</p>
+<p>他曾回忆说，北大招生人员看中，“这小伙长得挺帅，个儿也挺高，说话挺利索，去当外交官吧”。</p>
+<p>虽然优秀，但张召忠没有引发清华和北大的招生人员的反目。</p>
+<p><strong>在校医院做手术的人</strong></p>
+<p>张召忠被招进了北京大学阿拉伯语专业。</p>
+<p>而在学习过程中张召忠为发不出颤音而烦恼，经过咨询校医院医生，他决定在舌头根部动手术。“我原来是学理工的，突然让我来学外语，这是党交给我的任务，我不能好好完成这个任务的原因是舌头，那我就解决舌头的问题。”</p>
+<p>敢把发声器官交给校医院医生，足见勇气。今天的很多主持人因为普通话不达标只能离开主持岗位，不能突破自己好好学习普通话，和张将军相比真是不够努力了。开刀学出来的能耐，一定是真能耐。</p>
+<p><strong>涨粉之道</strong></p>
+<p>1992年，在央视《军事天地》的《三十六计古今谈》系列节目中张召忠首次出现在观众的视野中。</p>
+<p>和《孙子兵法》不同，《三十六计》是最典型的草根军事学，换句话文言文说，LOW。</p>
+<p>但是张召忠仍然加入了这个栏目，这成为他央视生涯的起步。和高傲地混迹于学院中的学者相比，亲近媒体，抓住大众，成了他的制胜之道。日后他的影响力几乎覆盖了所有的40~60岁的男性，而这批人是最有价值的商业用户，如果放开现役军人接广告的限制，张将军可能将成为一位富有魅力的白酒、药厂、保健品的代言人。</p>
+<p>已经退休的将军在这些领域很可能大有可为。</p>
+<p>测不准也并不灰心</p>
+<p>张召忠在伊拉克战争时曾经认为，美军将会陷入萨达姆组织的一场人民战争的海洋当中，但很快萨达姆政权崩溃，本人也被抓判处了绞刑。</p>
+<p>从此被网友戏称为“战略忽悠局局长”。在朝鲜发射光明星3号卫星时，张召忠预测“成功率在80%以上”，结果火箭升空后两次爆炸裂为20余块。</p>
+<p>但是张召忠并没有因此崩溃，他仍然勤勤恳恳地在央视出勤，讨论着下一个老朋友的命运。《历代鸡汤大全》说得好，威灵顿被拿破仑打败好多回，看见蜘蛛执着织网，特别努力，终于成功了。</p>
+<p><strong>他从来没有回骂或者起诉网友</strong></p>
+<p>张召忠说过：“我特别喜欢别人骂我……有的时候别人骂你是看得起你，所以说只要是网上批评我的话，我都要看。我已经到了死猪不怕开水烫的地步了。”</p>
+<p>无独有偶，相声行里的规矩是，如果提到一个同行，哪怕说他不好的事情，挖苦他，那也是“砸挂”，是替朋友传名。</p>
+<p>而对于网友对他“忽悠局局长”的称呼，张召忠认为自己的评论是在有学术功底并且尊重事实的情况下把复杂的东西“忽悠”成简单的话，“这与赵本山小品里把假的忽悠成真的是不同的。”</p>
+<p>在央视出场了23年，张召忠同志从来没有起诉过“把他批判一番”的网友，也没有去找人家的单位领导，更没有开口回骂过。这人不会真的angry。</p>
+<p><strong>将军一贯高度重视仪表</strong></p>
+<p>张召忠三七偏分微微隆起的发型也成了他形象的一个标志。也有人问过他为了保持这个发型每天要打多少发胶，却被他以“当翻译时就非常注重仪表”扯开了话题。</p>
+<p>自出道以来，局座的造型基本上是由自己打理，化个全妆下来也不过4、5分钟，局座也承认自己化妆技术非常纯熟，“我化了妆跟没化是一样的”。</p>
+<p>此外尽管已经年过六旬，181CM的张将军一直保持着76KG左右的上等兵体重，这和许多刚提副处或者营销副总就已经腰围失控的男性朋友相比，简直不知道高到哪里去了。</p>
+<p><strong>越来越会谈笑风生</strong></p>
+<p>随着时间的推移，张将军气质上是越来越从容，也有许多网友感叹，“局座这些年越来越帅了”。</p>
+<p>“一开始做节目时是别人写稿子我来背，那个时候心里没底。而现在，你需要什么东西尽管拿。”张召忠作出从肚子里拿东西的手势，“这就是腹有诗书气自华”。</p>
+<p>郭德纲也曾经就“如何判断说相声的实力”提出过一个标准：像聊天似的，特别慢，都是好演员。而打了鸡血似的，高声大嗓喊口号，一定是他没水平。</p>
+<p><strong>热力学上有些新突破</strong></p>
+<p>在讲到红外遥感卫星时，他说“零下700度以上的物体都能被观测到。”颠覆了绝对零度是-273℃的这一物理常识，但周星驰引用爱因斯坦的那句话说得好：想象力比知识更重要。</p>
+<p>这样一位努力的将军，会就回家抱孙子了事吗，恭亲王奕?跟慈禧太后吵架的时候说得好，您革得了我的王位，革不了我的皇子。</p>
+<p>同样，一位深沉地为中国和各国老朋友思考，担忧人类命运、还热爱媒体事业的人，可以脱下军装收起将军军衔，但教授是永远的教授，思想家是永远的思想家，老朋友是永远的老朋友，局座是永远的局座。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81%E4%BA%BA/?category=18271" rel="tag">主持人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8F%AC%E5%BF%A0/?category=18271" rel="tag">张召忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%A0%B9/?category=18271" rel="tag">草根</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%97%B6%E9%97%B4%E6%8A%95%E8%B5%84-%E6%94%B6%E7%BD%91-%E8%9E%8D%E8%B5%84%E5%B9%B3%E4%BB%93%E5%85%A8%E8%AE%B0%E5%BD%95/" target="cdt-mirror">时间投资 | 收网——融资平仓全记录</a>
 </h2>
 <p><p><strong>按：本文转自天涯BBS，作者署名u_103639903。在小盘股大涨前夜，他因一倍杠杆长期投资被强制平仓，清洗出局。细读此文，体会大时代下小人物的悲剧，或许可令大人物们深思。</strong></p>
@@ -737,53 +790,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E4%B8%89%E5%88%99/" target="cdt-mirror">【麻辣总局】习总日记三则</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0.jpg" alt="习总日记" width="120" height="110">（1）2015，7，8</p>
-<p>一</p>
-<p>在全民族抗战爆发七十八周年之际，7日与李克强、张德江、俞正声、刘云山、王岐山、张高丽一起，前往中国人民抗日战争纪念馆，参观纪念中国人民抗日战争暨世界反法西斯战争胜利70周年主题展览《伟大胜利历史贡献》。</p>
-<p>我指出，中国局部抗战，主要反映中国共产党独立领导东北抗联进行抗日斗争，提出建立抗日民族统一战线的主张。相当于独资经营。</p>
-<p>我指出，全民族抗战，主要反映中国共产党倡导的以国共合作为基础的抗日民族统一战线正式形成，正面战场、敌后战场协同作战，共同抗击日本侵略者。虽然是国民政府蒋总统领导全面抗战，但剧本策划是我们共产党。参谋长比司令的功劳大。</p>
-<p>中流砥柱，主要反映中国共产党实行全面抗战路线，提出持久战的方针和一整套作战原则，广泛发动人民群众，成为抗日战争的中流砥柱。</p>
-<p>有人认为仅仅打死日军800多人不能称为“中流砥柱”。但我们喜欢这个称呼。你想怎么着吧。</p>
-<p>二</p>
-<p>中央党的群团工作会议7月6日至7日在北京召开。我出席会议并发表重要讲话。我强调，中国特色社会主义事业是亿万人民的事业，党的群团工作肩负着庄严使命。工会、共青团、妇联等群团组织一定要坚持解放思想、改革创新、锐意进取、扎实苦干，切实保持和增强党的群团工作和群团组织的政治性、先进性、群众性，组织动员广大人民群众更加紧密地团结在党的周围，把广大人民群众对美好生活的追求汇聚成强大动力，共同谱写实现“两个一百年”奋斗目标、实现中华民族伟大复兴中国梦的新篇章。</p>
-<p>我在讲话中指出，由党中央召开党的群团工作会议，在党的历史上还是第一次。在中国历史上是第一次，在全人类历史上也是第一次。</p>
-<p>有人老是指责我学毛主席，走毛主席走过的路。请问，毛主席召开过党的群团工作会议吗？毛主席想到过召开群团工作会议吗？毛主席的战友们想到过建议过召开群团工作会议吗？</p>
-<p>没有。他们想不到。我却想到了。这叫什么？这叫发展毛泽东思想，这叫习出于毛邓胜于毛邓。</p>
-<p>有人说毛邓是矛盾的。但依我看来归根结底是不矛盾的：怎么有用怎么来。毛主席那套不灵光了，上邓小平那套。现在邓小平那套也不灵光了，嘿嘿，吾来也！</p>
-<p>三</p>
-<p>听说美国总统奥巴马于7月7日，在他的椭圆形办公室会见越共总书记阮富仲。</p>
-<p>奥巴马的椭圆形办公室，我想去就去，想不去就不去。想去两次三次都可以。</p>
-<p>他欠我很多钱。更正一下。他们美国欠咱中国很多钱。</p>
-<p><a href="http://www.backchina.com/blog/328737/article-229621.html#ixzz3fGWShEa6">原文链接</a></p>
-<p>（2）</p>
-<p>2015，7，7</p>
-<p>中国人民是伟大的人民，中国股民一定也是伟大的股民。</p>
-<p>1937年7月7日，卢沟桥七七事变之后，中国人民在中国共产党的领导下，经过八年艰苦卓绝的斗争牺牲，战胜了日本侵略者。今天， 2015年7月7日，七七事变78周年之际，中国人民又一次面临重大抉择，是万众一心，同仇敌忾，出钱出力，投入股市，把股指推上去，还是缴械投降，任由股指往下跳水，任由人民财产遭受损失？我深信，勤劳勇敢智慧的中国人民，一定会用实际行动，交出一份令党满意的答卷。</p>
-<p>中国的股市是中国人民的股市，中国的上市公司是广大股民的上市公司，中华人民共和国的主人是中国人民。三十多年改革开放，富裕起来的中国人民不仅会横跨太平洋在美国加拿大买地买房，不仅会奔赴欧洲日本韩国扫货抢购，当祖国的股市需要他们接盘的时候，当祖国的股指需要他们哺育的时候，党有理由相信，祖国有理由相信，伟大的中国人民决不会后退一步，绝不会贪生怕死，绝不会向空头投降。</p>
-<p>上个世纪末亚洲金融危机时，韩国人民纷纷拿出自己外汇黄金首饰，贡献给祖国，拯救自己的国家。今天，祖国股市需要中国人民拿出当家作主的精神和勇气，为股市赴汤蹈火，为股指添砖加瓦。亲爱的同胞们，没有大家哪有小家，没有国强哪有民富，没有股市哪有股票，没有共产党哪有新中国。</p>
-<p>现在，党向你们发出呼唤，请把你们的银行存款取出，去买股票；请把你们的房产抵押，去买股票；请把你们的财产兑现，去买股票。</p>
-<p>让股指证明，你们是这个国家的主人；让股指证明，你们是爱国者；让股指证明，你们是真正的中国人。</p>
-<p>同胞们，把股市当作战场，把下跌看作敌人，把你们手中的人民币当作枪弹，发起一次又一次的冲锋，把股指推向新的高峰。买入啊！</p>
-<p><a href="http://www.backchina.com/blog/328737/article-229568.html#ixzz3fGW9WNmD">原文链接</a></p>
-<p>（3）2015, 7，5</p>
-<p>我就股市近况发表最新指示：一定要把股市搞上去。</p>
-<p>最近几周股指下跌，直接影响到社会的安定，经济的发展，和人民的生活。要把股票市场的稳定与国家安危联系起来，与党的领导地位联系起来，要提高到实现中华民族伟大复兴，实现中国梦的高度来看待。</p>
-<p>中国特色社会主义道路，是一条前所未有的、中国共产党领导下的、从中国特殊国情出发的发展道路，是比传统封建王朝更文明的道路，也是比西方民主制度更先进的道路。同理，中国特色股市也要体现出这种特色，既与西方股市相类似，也异于西方股市。</p>
-<p>与西方股市相类似，体现在中国特色股市也存在市场因素，由市场决定股票价格的上下起伏，在相关法律法规内实现自由买卖公平交易。异于西方股市，体现在中国特色股市完全接受党和政府的领导监督，中国股市是执行党和政府经济政策和任务的工具。</p>
-<p>根据党和国家的需要，中国沪深股票交易所的指数该上就上，该下就下。不该上就不许上，不该下就不许下。中国股市，要听共产党的话，要为中国人民服务，不能为股东服务，更不能被外国股东牵着鼻子走。</p>
-<p>国务院总理、财政部部长、中央银行行长、证监会主席等有关领导干部，必须对党中央负责，对中国人民负责，动用一切手段，把股市搞上去。搞不上去，就是失职渎职，就是对党对人民的犯罪。</p>
-<p><a href="http://www.wailaike.net/news-1351862-0.html">原文链接</a></p>
-<p>选自<a href="http://www.backchina.com/home.php?mod=space&uid=328737&do=blog&view=me&from=space">何岸泉的博客</a></p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E4%B8%89%E5%88%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -795,7 +801,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -805,5 +811,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d277apfxm3s88.cloudfront.net">https://d277apfxm3s88.cloudfront.net</a><br/><a href="https://d3btv4ofdp8g62.cloudfront.net">https://d3btv4ofdp8g62.cloudfront.net</a><br/><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d7gkkzy9udv3p.cloudfront.net">https://d7gkkzy9udv3p.cloudfront.net</a><br/><a href="https://d2xetnn6d9o3y5.cloudfront.net">https://d2xetnn6d9o3y5.cloudfront.net</a><br/><a href="https://d3hc98rbthl6xf.cloudfront.net">https://d3hc98rbthl6xf.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>

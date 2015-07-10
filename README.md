@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d308ee44pck5gk.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ikpwpp4yxmp3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d308ee44pck5gk.cloudfront.net">https://d308ee44pck5gk.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://d308ee44pck5gk.cloudfront.net">https://d308ee44pck5gk.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d1mu055s6van1y.cloudfront.net">https://d1mu055s6van1y.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%9C%80%E7%BE%8E%E4%B8%BD/" target="cdt-mirror">奇闻录 | 中国梦最美丽</a>
@@ -677,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/iphone/?category=18271" rel="tag">iPhone</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E7%AE%A1/?category=18271" rel="tag">主管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E8%80%80%E9%82%A6%E8%84%B1%E6%95%8F%E7%94%B5%E5%BD%B1%E5%BC%80%E6%8B%8D-%E9%81%BF%E8%B0%88%E5%85%AD%E5%9B%9B/" target="cdt-mirror">自由亚洲｜胡耀邦“脱敏”电影开拍 避谈“六四”主打青春励志</a>
 </h2>
@@ -794,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1mu055s6van1y.cloudfront.net">https://d1mu055s6van1y.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d308ee44pck5gk.cloudfront.net">https://d308ee44pck5gk.cloudfront.net</a><br/><a href="https://d1mu055s6van1y.cloudfront.net">https://d1mu055s6van1y.cloudfront.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/></td>    </tr>
 </table>

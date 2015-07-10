@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2imef5muflh2v.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d31vdhgyqeprab.cloudfront.net">https://d31vdhgyqeprab.cloudfront.net</a><br/><a href="https://d2zi6col239gwc.cloudfront.net">https://d2zi6col239gwc.cloudfront.net</a><br/><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E8%82%A1%E7%81%BD%E6%9C%83%E5%BC%95%E7%99%BC%E5%B0%8D%E5%A4%96%E6%88%B0%E7%88%AD%E5%97%8E/" target="cdt-mirror">东网｜吳戈：股災會引發對外戰爭嗎</a>
@@ -754,7 +754,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2imef5muflh2v.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2imef5muflh2v.cloudfront.net">https://d2imef5muflh2v.cloudfront.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d31vdhgyqeprab.cloudfront.net">https://d31vdhgyqeprab.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

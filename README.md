@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://d3w5aa6mhg537c.cloudfront.net">https://d3w5aa6mhg537c.cloudfront.net</a><br/><a href="https://d2hstb0twnr7a5.cloudfront.net">https://d2hstb0twnr7a5.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2hstb0twnr7a5.cloudfront.net">https://d2hstb0twnr7a5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/" target="cdt-mirror">博客天下 | 你知道张召忠将军有多努力吗？</a>
@@ -165,7 +165,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E7%AD%96/?category=18271" rel="tag">政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%85%83/?category=18271" rel="tag">美元</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%B8%9C/?category=18271" rel="tag">股东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%BB%B7/?category=18271" rel="tag">股价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%BB%BD/?category=18271" rel="tag">股份</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">资本</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9-%E5%A6%82%E6%9E%9C%E6%9C%9D%E9%B2%9C%E6%9C%89%E8%82%A1%E5%B8%82/" target="cdt-mirror">作家崔成浩 | 如果朝鲜有股市</a>
 </h2>
@@ -811,5 +811,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d3w5aa6mhg537c.cloudfront.net">https://d3w5aa6mhg537c.cloudfront.net</a><br/><a href="https://d2hstb0twnr7a5.cloudfront.net">https://d2hstb0twnr7a5.cloudfront.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2hstb0twnr7a5.cloudfront.net">https://d2hstb0twnr7a5.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>

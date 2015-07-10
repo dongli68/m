@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2xetnn6d9o3y5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2xetnn6d9o3y5.cloudfront.net">https://d2xetnn6d9o3y5.cloudfront.net</a><br/><a href="https://d7gkkzy9udv3p.cloudfront.net">https://d7gkkzy9udv3p.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d277apfxm3s88.cloudfront.net">https://d277apfxm3s88.cloudfront.net</a><br/><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d314r0feyzoypw.cloudfront.net">https://d314r0feyzoypw.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d7gkkzy9udv3p.cloudfront.net">https://d7gkkzy9udv3p.cloudfront.net</a><br/><a href="https://d2xetnn6d9o3y5.cloudfront.net">https://d2xetnn6d9o3y5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/" target="cdt-mirror">博客天下 | 你知道张召忠将军有多努力吗？</a>
@@ -75,7 +75,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81%E4%BA%BA/?category=18271" rel="tag">主持人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8F%AC%E5%BF%A0/?category=18271" rel="tag">张召忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%A0%B9/?category=18271" rel="tag">草根</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%97%B6%E9%97%B4%E6%8A%95%E8%B5%84-%E6%94%B6%E7%BD%91-%E8%9E%8D%E8%B5%84%E5%B9%B3%E4%BB%93%E5%85%A8%E8%AE%B0%E5%BD%95/" target="cdt-mirror">时间投资 | 收网——融资平仓全记录</a>
 </h2>
@@ -811,5 +811,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d3hc98rbthl6xf.cloudfront.net">https://d3hc98rbthl6xf.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d3btv4ofdp8g62.cloudfront.net">https://d3btv4ofdp8g62.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3hc98rbthl6xf.cloudfront.net">https://d3hc98rbthl6xf.cloudfront.net</a><br/><a href="https://d7gkkzy9udv3p.cloudfront.net">https://d7gkkzy9udv3p.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2xetnn6d9o3y5.cloudfront.net">https://d2xetnn6d9o3y5.cloudfront.net</a><br/><a href="https://d277apfxm3s88.cloudfront.net">https://d277apfxm3s88.cloudfront.net</a><br/></td>    </tr>
 </table>

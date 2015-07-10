@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1b0katyvgixbi.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d2xetnn6d9o3y5.cloudfront.net">https://d2xetnn6d9o3y5.cloudfront.net</a><br/><a href="https://d25s42i2kb0ere.cloudfront.net">https://d25s42i2kb0ere.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d10rlne3cwhsy4.cloudfront.net">https://d10rlne3cwhsy4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d2xetnn6d9o3y5.cloudfront.net">https://d2xetnn6d9o3y5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E7%89%B9%E5%86%99%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%8B%E6%8C%AB-%E9%87%8D%E4%BC%A4%E5%B0%8F%E8%82%A1%E6%B0%91/" target="cdt-mirror">BBC | 特写：中国股市下挫 重伤小股民</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709012736_lin_jinxia_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709012736_lin_jinxia_624x351__nocredit.jpg" alt="林锦霞和丈夫的投资亏损了一半。" width="500" height="281"></a><p>林锦霞和丈夫的投资亏损了一半。</p></div>
+<p><strong>有着狭窄巷弄、窄小的单间屋，路边摊食物气味扑鼻的上海老城区，在新经济发展的洪流之中渐渐流失，但留存下来的，已足矣维持旧日小区生气勃勃的氛围。</strong></p>
+<p>今年上半年，在店主和摊主之间流传的谣言集中谈论污浊黄河另一侧的上海证券交易所内，有赚钱的好机会。</p>
+<p>“我以前从来没有投资过股市，但我被这些讨论给影响” ，林锦霞说。</p>
+<p>林女士住在和丈夫及四岁的儿子住在七层公寓的顶楼，楼下停满积了灰尘的老旧自行车。</p>
+<p>他们是五年前从自福建省来的民工，透过在店里努力将钮扣卖给光鲜亮丽的服装业者，他们终于存到一笔小钱。</p>
+<p>而就在今年五月，他们在股市内投下了一大笔钱，投资超过20万人民币（约3万2千美元，2万英镑）买了4只股票。</p>
+<p>他们的投资看起来已经够分散风险，选择投资在电子、时尚、汽车销售产业，但他们选了一个糟糕的时机进场。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709012909_small_investors_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709012909_small_investors_624x351__nocredit.jpg" alt="中小型投资者占了中国股市很大一部分。" width="500" height="281"></a><p>中小型投资者占了中国股市很大一部分。</p></div>
+<p>他们的股票市值重挫，来到他们原购买价的一半。林女士和丈夫损失共计10万人民币。</p>
+<p>“我们损失了长久以来努力工作赚来的钱，我们现在只好缩减日常开销，我们赚得不多，这都是我们的血汗钱”，林女士说。</p>
+<p>不同于欧洲或美国市场，在中国，超过80%的投资者人是个体户。</p>
+<p>许多个体户投资人是没经验的新手，他们的决策常是跟着谣言或幻想，所以整个市场可以说是在群众行为之下更脆弱更易变动的。</p>
+<p>中国股市在攀上高峰长达一年以上之后，在今年6月12日，群众突然改变方向，3.2兆美元，几乎三分之一的市值在短短三周内蒸发。</p>
+<p><strong>“我知道股市有危机”</strong></p>
+<p>陈智慧的小裁缝店不容易被找到，就在靠近林锦霞的人行道附近。</p>
+<p>而就和他的邻居一样，他也过于积极的听从曾大发利市的人的建议投入股市，但他没意识到他在一个最糟糕的时间点进场。</p>
+<p>“就我个人而言呢，我知道是有风险在的”，他在狭小的工作坊里边操作纺织机边接受采访。</p>
+<p>他只投资了一支钢铁制造商的股票，花了1万人民币。后来发现他的股票价值比他当初买时下跌了一半。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709012957_chen_zhihui_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709012957_chen_zhihui_624x351__nocredit.jpg" alt="陈智慧说他知道很多邻居都和他一样在股市中赔了钱。" width="500" height="281"></a><p>陈智慧说他知道很多邻居都和他一样在股市中赔了钱。</p></div>
+<p>他的损失还算是相对小的。陈先生知道几乎在这区附近的店铺或家庭，几乎都在股市中赔了钱，或恐怕很快就要赔钱。</p>
+<p>“如果每个人都损失5千人民币，加起来会是一大笔钱”，他说。</p>
+<p>许多分析师解释为何中国政府要积极阻止股市继续下挫。</p>
+<p><strong>经济影响</strong></p>
+<p>一旦中国政府将活跃的股票市场视为策略性转移至消费社会的关键，快速增加的股民对于负债累累的大公司是一项利多，同时也让小股民们觉得自己赚钱了。</p>
+<p>目前中国共产党面临到与计画中相反的可怕前景，随着投资人的钱在股市中蒸发，投资人勒紧裤带减少支出，将可能使中国经济冷却。</p>
+<p>现在中国股市终于面临迟来的退烧，最近大幅贬值的价格依然能稍为令人宽慰的，与长达一年以上的获利相抵消。</p>
+<p>然而近日当局释出的转换措施只是停止情势更加恶化的一部分尝试，或无用的尝试。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709013111_a_man_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709013111_a_man_624x351__nocredit.jpg" alt="男子躺卧在写着国家主席习近平喊出的”中国梦”的广告牌下，牌上写着”实现伟大复兴，就是中华民族近代以来最伟大的梦想”。" width="500" height="281"></a><p>男子躺卧在写着国家主席习近平喊出的”中国梦”的广告牌下，牌上写着”实现伟大复兴，就是中华民族近代以来最伟大的梦想”。</p></div>
+<p>当然这被许多观察家批评是一项对股市而言危险的政治干预。</p>
+<p>但值得争论的是，如果策略奏效股市回升，政府投入的开支也会减少一些。</p>
+<p><strong>是政治而非经济</strong></p>
+<p>有些分析师忽略了一项要素，那就是对于一个成熟的股市崩溃可能引发的更广泛的经济冲击的忧虑。</p>
+<p>“中国股市太小，太互不相干” ，龙洲经讯（Gavekal Dragonomics）中国经济学家陈龙接受访问时表示。”中国股市只占中国家庭开支的5%，而且和去年相比，市场还是上升的”。</p>
+<p>中国股票的价值至少在政府开始表现惊慌之前，都还不算完全被抹杀。所以如果这个观点是对的，北京方面将会依照政治需要而行动，而不是经济方面。</p>
+<p>当前缓速成长的GDP已经让中国经济如履薄冰，政府最不想见到就是大叔大妈级股民因为不满亏损走上街头。目前为止，至少就这一点来看，政府的策略在平抑民怨上还是有点成效。</p>
+<p>虽然林锦霞已承受巨大损失，她仍是计画继续持有手上已经大幅贬值的股票，期望股市回温。她表示，”我相信政府会实施正确的策略”。</p>
+<p><strong>有信心的投资人</strong></p>
+<p>刘长荣是一名餐厅老板，他卖面、猪排和糯米饭，他的店铺就在陈先生的裁缝店附近。</p>
+<p>他要不是精明就是幸运，或两者皆是。”你只需要在对的时间买进”，他说。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709013158_liu_changrong_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709013158_liu_changrong_624x351__nocredit.jpg" alt="“当股市回温，我会再进场”，刘长荣说。" width="500" height="281"></a><p>“当股市回温，我会再进场”，刘长荣说。</p></div>
+<p>他确实在正确的时间进场了。他花了20万人民币买进一个中国大集团的股票，并在五月股价快达到高峰前全数卖出。</p>
+<p>他赚进可观的一笔钱，获利超过两倍。</p>
+<p>尽管他的邻居们都在股灾中损失，他仍对政府稳定股市的功能深具信心。</p>
+<p>“当股市回温，我会再进场”，他一边告诉记者，一边将大炒锅放上炉子。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E7%89%B9%E5%86%99%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%8B%E6%8C%AB-%E9%87%8D%E4%BC%A4%E5%B0%8F%E8%82%A1%E6%B0%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C/?category=18271" rel="tag">下跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%BF%83/?category=18271" rel="tag">信心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%BB%B7/?category=18271" rel="tag">股价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E6%B0%91/?category=18271" rel="tag">股民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E8%82%A1%E7%81%BD%E6%9C%83%E5%BC%95%E7%99%BC%E5%B0%8D%E5%A4%96%E6%88%B0%E7%88%AD%E5%97%8E/" target="cdt-mirror">东网｜吳戈：股災會引發對外戰爭嗎</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/bkncn-20150709000317405-0709_05411_001_01p.jpg" alt="bkncn-20150709000317405-0709_05411_001_01p" width="549" height="392"></p>
@@ -706,43 +761,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E5%A6%82%E4%BD%95%E7%9C%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%EF%BC%9A%E4%BB%8E%E5%BE%AE%E5%8D%9A%E7%B2%89%E4%B8%9D%E5%9B%A2%E8%B0%88%E8%B5%B7/" target="cdt-mirror">BBC | 中国网民如何看政治人物：从微博粉丝团谈起</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/140206155747_china_internet_624x351_reuters.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/140206155747_china_internet_624x351_reuters.jpg" alt="中国官员在微博上也有粉丝俱乐部，这些政府官员粉丝俱乐部被视为强大的工具，能对中国网民在内政和国际事务上发挥影响力。" width="550" height="309"></a><p>中国官员在微博上也有粉丝俱乐部，这些政府官员粉丝俱乐部被视为强大的工具，能对中国网民在内政和国际事务上发挥影响力。</p></div>
-<p>尽管政府在二月时颁布了相关规定，中国社交媒体上的“粉丝俱乐部”仍然存在。</p>
-<p>国家互联网信息办公室（国家网信办）颁布新规定，防止社交媒体用户“角色扮演”他人。新华社表示，今后“以国外领导人例如奥巴马、普京为名的”用户名称、图像、账号描述会被禁止。但目前还看不出这则规定对这些公众人物“粉丝团”或“粉丝俱乐部”产生的影响。</p>
-<p>在中国社交媒体——微博（weibo）上，希拉里·克林顿粉丝俱乐部有超过35万人追踪，普京的粉丝俱乐部有2万人，南韩总统朴槿惠有7000人追踪。</p>
-<p>中国官员在微博上也有粉丝俱乐部，像是国家主席习近平、外交部长王毅、反贪腐大将王岐山，这些政府官员粉丝俱乐部被视为强大的工具，能对中国网民在内政和国际事务上发挥影响力。</p>
-<p><strong>政治人物在微博</strong></p>
-<p>中国媒体在五月大幅报道印度总理莫迪访华前开通新浪微博的新闻。</p>
-<p>根据《中国日报》报道，莫迪是第五个加入微博的“世界级领袖”，但微博总计有1.98亿活跃用户 ，推特则有3.02亿。</p>
-<p>在中国有所谓的“大V微博”，这是身分获得认证的“意见领袖”，许多名人、商业巨子、媒体人等等都有大V微博。</p>
-<p>但是中国国内的政治人物很少使用新浪微博。可是微博的西方竞争者“推特”（Twitter）恰恰相反，世界上许多领导人和政治人物会使用推特来传播讯息。</p>
-<p>以足球评论员身分在网络上成名的李承鹏，更进一部运用网络的力量，在微博上宣布以独立参选人身分竞选地方人大代表，运用网络参与政治评论的现象在中国政治人物之间是很罕见的。</p>
-<p>但就在2014年，他的腾讯和新浪微博账号被注销。一些国内媒体推测，这是政府黑手在幕后操作。《环球时报》在去年七月发表评论，暗示某些“激进自由派人士”如李承鹏，要“为他们的批评付出代价”。</p>
-<p>中国共产党官员现在会透过微博来发表官方媒体如新华社、《人民日报》、中央电视台等等的报道。</p>
-<p><strong>国内政治人物</strong></p>
-<p>中国政府似乎不太质疑中国政治人物粉丝团的权威性。而事实上，在微博上的“学习粉丝团”（在简介上写的是“习大大粉丝团”），就是国家主席习近平的认证官方账号，有280万粉丝，在中国版本的whatsapp微信上也有同样的账号。</p>
-<p>习近平的夫人彭丽媛在微博上也有一个超过67万人的粉丝团，习近平和彭丽媛的粉丝团自2012年起活跃经营，作为一个发布党的正面消息的平台。</p>
-<p>这个粉丝团成为一个中国共产党收集民众对于国内外事件看法的工具，例如，美国在六月27日宣布同志婚姻合法化，“习大大粉丝团”就问粉丝们对这件事情有何看法。4万8千名网友留言，并有超过5万5千人分享。</p>
-<p>在同一天，上千网民针对网民上传的“河南中学生群殴事件”视频，讨论是否该加重青少年刑罚。</p>
-<p>同样的，最近成立的外交部长王毅、反贪腐大将王岐山的微博，也有类似的目的，是要增加网民对于国际事务、反贪腐事件的讨论程度，获取网民意见。</p>
-<p><strong>国际焦点人物</strong></p>
-<p>中国外交部长王毅可能是最新一个获得粉丝团的中国高级政府官员（于四月成立），但网民已经在新浪微博上受到国外领导人影响很长一段时间。</p>
-<p>虽然只有10则贴文，成立于2011年的“希拉里·克林顿”粉丝团吸引了35万人追踪，但粉丝团上的贴文都集中于今年四、五月。</p>
-<p>“普京粉丝团”相形之下则更活跃，成立于2010年，旨在强化“中俄友好”与“散播正面能量”。贴文包含了“硬汉普京”图像，还有毛主席在苏联的历史照片与马克思主义的引文。</p>
-<p>从一些粉丝团可以看出中国网民如何形塑言论。台湾2016年总统大选国民党参选人洪秀柱在微博上有一个将近一万人的粉丝团，但在两岸议题上倾向主张台湾主权意识的民进党参选人蔡英文则没有。</p>
-<p>与中国外交关系不强的国家在新浪微博上则没有粉丝团，像是日本首相安倍晋三就没有。</p>
-<p>但有些受欢迎的国家领导人在微博上也不见踪影，例如，像是2015年在YouGov调查网被中国网民选为前10大“最令人景仰女性”的德国总理默克尔，就没有粉丝团。</p>
-<p>长期受中国网民欢迎的美国总统奥巴马也没有，在2014年的调查，他是第三受到景仰的人物，比普京和彭丽媛更受欢迎。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E5%A6%82%E4%BD%95%E7%9C%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%EF%BC%9A%E4%BB%8E%E5%BE%AE%E5%8D%9A%E7%B2%89%E4%B8%9D%E5%9B%A2%E8%B0%88%E8%B5%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">中国政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">国家领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7v/?category=18271" rel="tag">大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">自由派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -754,7 +772,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gap3tvueet7c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1b0katyvgixbi.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -764,5 +782,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1gap3tvueet7c.cloudfront.net">https://d1gap3tvueet7c.cloudfront.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d10rlne3cwhsy4.cloudfront.net">https://d10rlne3cwhsy4.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://d2xetnn6d9o3y5.cloudfront.net">https://d2xetnn6d9o3y5.cloudfront.net</a><br/></td>    </tr>
 </table>

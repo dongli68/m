@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2hstb0twnr7a5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,75 @@
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2hstb0twnr7a5.cloudfront.net">https://d2hstb0twnr7a5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2hstb0twnr7a5.cloudfront.net">https://d2hstb0twnr7a5.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://d3w5aa6mhg537c.cloudfront.net">https://d3w5aa6mhg537c.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%9C%80%E7%BE%8E%E4%B8%BD/" target="cdt-mirror">奇闻录 | 中国梦最美丽</a>
+</h2>
+<p><p><strong>近期，“五十六朵花”少女偶像组合首次现身舞台，据悉此组合成员由56名16岁——23岁的各民族最有才艺和梦想的少女组成，也是全球成员最多的流行演唱组合。“五十六朵花没有像日本、韩国的女团一样去讨好市场，而是以民族情感为核心，宣扬正能量。”</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/20150630081643169.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/20150630081643169.jpg" alt="20150630081643169" width="500" height="333"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/20150630081630198.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/20150630081630198.jpg" alt="20150630081630198" width="500" height="333"></a></p>
+<p><strong>以下内容摘自新华网相关报道：</strong></p>
+<p>6月28日，由<strong>五十六朵花文工团</strong>主办、北京诠声文化有限公司承办的“CCTV五十六朵花中国梦最美丽”大型文艺演出在北京温都水城隆重举行，撒贝宁担任主持人，为首度和观众见面的“全球第一组合”五十六朵花少女偶像组合站台助威。这也是国内主流舞台上，首次出现的大规模唱跳组合的表演。</p>
+<p>在当晚表演中，当五十六位身着白色体恤青春靓丽的五十六朵花演唱国家形象主打歌《中国梦最美丽》时，清澈无比的青春活力表演给观众带来了全新的体验。</p>
+<p>据五十六朵花少女偶像组合导演介绍，作为当今世界人数最多的流行演唱组合，五十六朵花没有像日本、韩国以及国内的一些其他女团一样仅从讨好市场的角度去考虑，把性感、颜值、卖萌等元素当成消费标签，<strong>而是以中华大国自有的气势，唱即唱到定格的情感，为传播中国正能量、中国民族文化而应运而生的组合。</strong></p>
+<p>演出视频<a href="http://www.tudou.com/programs/view/RFlTTbVb7-Y/?resourceId=0_06_02_99" target="_blank">地址</a></p>
+<p>
+</p><hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%9C%80%E7%BE%8E%E4%B8%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=18271" rel="tag">CCTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">国家形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%A6/?category=18271" rel="tag">梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%96%87%E5%8C%96/?category=18271" rel="tag">民族文化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%91%E5%B8%82%E5%8F%AF%E4%BB%A5%E4%B8%8D%E9%A1%BE%E7%BB%8F%E6%B5%8E%E8%A7%84%E5%88%99/" target="cdt-mirror">纽约时报 | 为何中国政府救市可以不顾经济规则</a>
+</h2>
+<p><p>在中国之外，经济学家们的共识几乎是一致的：面对股市暴跌，该国托市的努力注定将会失败。这相当于在金融领域重现克努特国王(King Canute)试图阻止涌来的潮水之举。然而这是在中国，传统智慧也可能会出错。</p>
+<p>令人不安的抛盘形势，一度让中国主要股市蒸发了近3万亿美元市值，对此，中国宣布了一系列稳定股价的措施，包括建立一个1200亿人民币的基金，让全国最大的券商买入股票。</p>
+<p>迄今为止，很难说政府的干预措施是否产生了多大的影响。政府的计划宣布后，股市本周一出现了温和上扬，周二又恢复跌势，周三，跌势从投机成分较高的股票（其中很多现在已经停止交易）蔓延到了在美国上市的一些受到投资者热捧的股票，比如网上零售商阿里巴巴集团和互联网搜索引擎公司百度的股票。但中国股市在周四迎来了反弹。</p>
+<p>“从西方市场的角度来看，中国试图做事情，和我们知道会奏效的事情相反，”总部设在华盛顿的经济和政治咨询公司观察家集团(Observatory Group)的创始人兼董事总经理刚斋藤劲（音）说。“但他们和我们看法不一样。在西方民主国家，人们容忍波动。但在中国，股市崩盘可能会演化为社会动荡，对于中国领导层来说，这个前景相当可怕。”</p>
+<p>虽然让中国市场自由化，把它们开放给更多的外国投资是近期的热门话题，但中国市场依然既是金融机构，也是政治机构。股票可以提供高回报的话题是获得了中国政府首肯的，这帮助股市总市值在今年年初短短四个月内翻了一番。目前很多中国投资者正在看向主席习近平，希望他能兑现当初的那种鼓励，以及附带的隐性保证。</p>
+<p>没有人会怀疑中国可以加大努力。“事实是，如果他们愿意，就有资源可以注入，”罗伯特·F·怀特洛(Robert F. Whitelaw)说。他是纽约大学斯特恩商学院(New York University’s Stern School of Business)的财政系主任，也是几篇中国股市股价的文章的合著者。“中国政府拥有巨大财富。他们的钱多得令人难以置信。”</p>
+<p>对于全球投资者来说，中国稳定市场的努力是否成功远远不只是学术兴趣。尽管上海和深圳证券交易所主要开放给中国投资者，但在本周，由于担忧中国崩盘可能会引发全球经济增长放缓，金融风暴蔓延到了其他市场。（虽然投资者也一直关注着希腊债务危机的影响，中国股市市值蒸发的近3万亿美元，让希腊的国内生产总值相形见绌。）</p>
+<p>自2008年金融危机以来，中国相对强劲的经济增长帮助推动了全球经济复苏。从理论上说，即使在股市上遭受了急剧下挫，中国也可以遏制它对经济的伤害——中国股市仍远远高于一年前。</p>
+<p>但是，在上月股市暴跌开始之前，中国的经济就已经步履蹒跚。很多投资者现在担心，股价的进一步下挫可能会抑制中国消费者信心和需求，以及经济增长前景，在全球引发连锁反应。中国是世界上最大的石油等原材料进口国，在本周的抛盘中，大宗商品价格以及大宗商品生产者的股票遭受了尤为严重的打击。</p>
+<p>即便是在以市场为导向的美国，股价也不是完全不受政府影响的。美联储(Federal Reserve)往往会在出现危机和市场恐慌时向股市注入流动性，并放宽货币政策。在金融危机期间，美国监管机构认为，投资者借入股票并希望稍后以更低的价格售出的卖空行为会推动股价下跌，因而禁止卖空金融公司的股票。（后来的研究推断，此举是徒劳的。）中国现在也禁止卖空。</p>
+<p>但美国从来没有为了托市而直接购买股票。这类举措在其他地方也很罕见。可能最相近的是日本。今年，日本央行一直在以上市交易基金的形式购买日本股票，目标是每年在日本股市投入3万亿日元（220亿美元）。截至目前，这一行动看上去是成功的：从年初至今，日经指数(Nikkei index)已上涨逾15%。</p>
+<p>但刚斋藤劲指出，日本90年代初期采取的一项类似的措施似乎也是有效的，但后来失效了。1989年年底，日经指数接近40000点，达到历史高位，股市市盈率高达60倍。泡沫破灭后，日本股市1990年下跌38%。到了1992年，日经指数已跌至17000点以下，政府开始购买股票。日经指数回升了两年，但随后继续下跌，并在金融危机后跌至近7000点的低位。（本周，该指数率低于20000点。）</p>
+<p>中国现在面临着自己的泡沫的影响。在短短九个月时间里，沪市大涨1.35倍，并在6月达到了金融危机后的高点。据标准普尔Capital IQ(Standard & Poor’s Capital IQ)称，和略高于10倍的历史平均水平相比，在前不久的高位上，沪市市盈率超过了37倍。深市市值被高估得更严重，6月的市盈率接近80倍。很多投资者不相信中国公司通报的盈利情况，认为它们被夸大了，特别是那些较小的公司。</p>
+<p>伴随着高估值而来的是疯狂的散户投资、借钱大量买入和人们辞职炒股。所有这些都是典型泡沫的迹象。最近几个月，中国股市的交易量有时候会超过全球其他股市加起来的总量。而这一切，都发生在中国经济增长明显放缓、对房地产泡沫的担忧与日俱增、中国银行的账本上存在大量不良贷款的背景下。</p>
+<p>按刚斋藤劲来看，不仅是中国政府选的时机似乎不对，其不足200亿美元的投资目标，相对于中国股市总市值的比例也属于可以忽略不计。沪深两市和香港股市加起来是全球第二大股市（仅次于美国股市），总市值超过9.5万亿美元。他表示，相比之下，日本90年代投入的资金据信大约相当于其股市市值的0.8%。相对来说，这个比例远高于中国，但还是不够。</p>
+<p>“单纯从经济角度来说，所有这些都表明，中国的行动会失败，”刚斋藤劲说。</p>
+<p>但他接着说，“中国是一个可以忽视市场规则的共产党政权。”他和怀特洛一致认为，如果想成功，中国可能会大幅增加资金投入的规模，在某个时间点上，市场总是会作出回应的。</p>
+<p>资本智商(Capital IQ)表示，由于最近的暴跌，中国股市的估价看上去显得更合理了。本周恒生指数市盈率仅为11。对一些交易者而言，本周的波动表明中国股市目前正在触底，这或许会使政府支持的额外的股票购买更加有效。</p>
+<p>有传言称，政府正在准备一个规模更大的基金，用来直接购买股票。“中国政府根本不在乎在哪里损失个几十亿美元，” 怀特洛说。“他们试图保护投资者及保持稳定。谁不想那样呢？”</p>
+<p>但刚斋藤劲警告称，中国所能期待的最好结果——即使在大力干涉的情况下——就是为中国经济基本面的改善争取时间。如果没有改善，中国股市就会像其他所有股市一样，最终跌到一定水平，以反映投资者对未来收益的预期。</p>
+<p>刚斋藤劲称，“归根结底，连中国也无法违背经济引力的自然法则。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%91%E5%B8%82%E5%8F%AF%E4%BB%A5%E4%B8%8D%E9%A1%BE%E7%BB%8F%E6%B5%8E%E8%A7%84%E5%88%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E8%8D%A1/?category=18271" rel="tag">动荡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">地产泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E6%9C%BA/?category=18271" rel="tag">投机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%92%E8%82%A1/?category=18271" rel="tag">炒股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E8%81%94%E5%90%88%E5%9B%BD%E5%AF%B9%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E7%9A%84%E6%89%B9%E8%AF%84/" target="cdt-mirror">奇客资讯 | 外交部回应联合国对国家安全法的批评</a>
+</h2>
+<p><p>联合国人权事务高级专员扎伊德发表声明，对中国7月1日批准并于当天生效的《国家安全法》表达了关切。外交部发言人华春莹在回答记者提问时称，“联合国人权高专所谓声明对中方正常立法举措无端指责，既干涉中国内政，也暴露出其不专业，我们对此表示不满，坚决反对…我想强调的是，《国家安全法》的一个亮点就是突出‘以人民安全为宗旨’，坚持国家安全一切为了人民、一切依靠人民。法律第一条立法宗旨就强调‘保护人民的根本利益’，第七条明确规定‘尊重和保障人权，依法保护公民的权利和自由’，有关章节中还规定国家维护公民和组织的安全和合法权益。联合国人权高专声明关于《国家安全法》可能限制公民权利和自由的说法，完全是无端揣测，是站不住脚的。 ”她没有正面回答扎伊德关于模糊术语诠释的担忧。</p>
+<p>记者会<a href="http://www.fmprc.gov.cn/mfa_chn/fyrbt_602243/t1280006.shtml" target="_blank">实录</a></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E8%81%94%E5%90%88%E5%9B%BD%E5%AF%B9%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E7%9A%84%E6%89%B9%E8%AF%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E6%94%BF/?category=18271" rel="tag">内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/" target="cdt-mirror">博客天下 | 你知道张召忠将军有多努力吗？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/U11682P1DT20150710120625.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/U11682P1DT20150710120625.jpg" alt="U11682P1DT20150710120625" width="550" height="415"></a></p>
@@ -75,7 +141,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81%E4%BA%BA/?category=18271" rel="tag">主持人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8F%AC%E5%BF%A0/?category=18271" rel="tag">张召忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%A0%B9/?category=18271" rel="tag">草根</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%97%B6%E9%97%B4%E6%8A%95%E8%B5%84-%E6%94%B6%E7%BD%91-%E8%9E%8D%E8%B5%84%E5%B9%B3%E4%BB%93%E5%85%A8%E8%AE%B0%E5%BD%95/" target="cdt-mirror">时间投资 | 收网——融资平仓全记录</a>
 </h2>
@@ -707,89 +773,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%B8%83%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%E8%8D%89%E6%A1%88/" target="cdt-mirror">奇客资讯 | 中国公布网络安全法草案</a>
-</h2>
-<p><p><strong>人大网公布了网络安全法草案全文，向社会征求意见，递交意见的截至日期是8月5日。网络安全法确认了网信办统一监管互联网的职责，确认了网络实名制和电子身份证制度，确认了曾在新疆等地实施过的断网措施。其中值得关注的草案条款：</strong></p>
-<blockquote><p>第六条　国家网信部门负责统筹协调网络安全工作和相关监督管理工作。</p>
-<p>第九条…任何个人和组织使用网络应当遵守宪法和法律，遵守公共秩序，尊重社会公德，不得危害网络安全，不得利用网络从事危害国家安全、宣扬恐怖主义和极端主义、宣扬民族仇恨和民族歧视、传播淫秽色情信息、侮辱诽谤他人、扰乱社会秩序、损害公共利益、侵害他人知识产权和其他合法权益等活动。</p>
-<p>第二十条　网络运营者为用户办理网络接入、域名注册服务，办理固定电话、移动电话等入网手续，或者为用户提供信息发布服务，应当在与用户签订协议或者确认提供服务时，要求用户提供真实身份信息。用户不提供真实身份信息的，网络运营者不得为其提供相关服务。国家支持研究开发安全、方便的电子身份认证技术，推动不同电子身份认证技术之间的互认、通用。</p>
-<p>第三十一条　关键信息基础设施的运营者应当在中华人民共和国境内存储在运营中收集和产生的公民个人信息等重要数据；因业务需要，确需在境外存储或者向境外的组织或者个人提供的，应当按照国家网信部门会同国务院有关部门制定的办法进行安全评估。法律、行政法规另有规定的从其规定。</p>
-<p>第五十条　因维护国家安全和社会公共秩序，处置重大突发社会安全事件的需要，国务院或者省、自治区、直辖市人民政府经国务院批准，可以在部分地区对网络通信采取限制等临时措施。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>白马啸西风windy：倒车请注意……倒车请注意……[哼][哼]</p>
-<p>出发吧趁着还有热情：之前不是一直这么做的么？现在这是立法这么做了啊</p>
-<p>Flyinlong：当这个国家出现“重大安全事件”的时候国家的公民不能知道，也不能传播，就像前段时间上海金山的游行一样。[微笑]</p>
-<p>haksi：什么是“重大突发社会安全事件”？总理还是省长还是市长还是县长还是乡长拍脑袋说了算？</p>
-<p>Hauyeung_Cheung：前天不是才批评了日本安倍人渣政府限制媒体嘛，当时还讨伐的声色俱厉</p>
-<p>和风徐徐Ego：歌唱（F）我们亲爱（U）的祖国，从今（C）走向繁荣富强(K)！</p>
-<p>知食青年：啥案子都说相关法律尚未健全，这种事法律出台却又那么快！</p>
-<p>Hollis_Hsu：当年在新疆已经实施过了，原来当时是违法了。</p>
-<p>千里眼168168：把公鸡的喉咙卡住，天就不会亮了，习总果然是天降伟人，智慧，才能，英明集一身[笑cry][笑cry][笑cry]。</p>
-<p>小兵火夫：新词 “断网救市”</p>
-<p>布拉德皮牛寺：还用向社会征求意见啊？咱干脆直接拉闸断电吧？</p>
-<p>49那个67：真的连内裤也要脱掉吗？</p>
-<p>一头笨猪：不断网不好把坦克开上来</p>
-<p>198n：看来大家都要预装p2p聊天软件了</p>
-<p>未问归期：救市重大举措！断网了就止跌了！为伟大的国家智慧点赞[good]</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%B8%83%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%E8%8D%89%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8/?category=18271" rel="tag">安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AD%E7%BD%91/?category=18271" rel="tag">断网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">网络管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">颠覆国家政权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%89%93%E5%8E%8B%E4%BA%92%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86/" target="cdt-mirror">月光博客｜广电总局放大招打压互联网电视</a>
-</h2>
-<p><p>今日有媒体报道，广电总局昨日再出通知，要求其针对互联网电视违规进行整改，禁止通过USB端口安装应用，禁止访问互联网浏览器，禁止推送聚合软件、视频网站客户端等，禁止通过手机遥控播放视频。</p>
-<p>据业内相关人士透露，广电总局网络司7月6日给七大牌照方下发了紧急通知，要求其针对互联网电视现存的违规现象进行整改。如果无法按期整改的，可能丧失互联网电视播控平台牌照。</p>
-<p>据悉，此次清理主要针对如下几种违规情况：</p>
-<p>（1）在2015年初以后发布的机型中，仍可用USB端口安装应用的情况；</p>
-<p>（2）在系统中仍存在可访问互联网的浏览器的情况；</p>
-<p>（3）通过应用商店或其他手段推送聚合应用软件、视频网站客户端、电台应用软件的情况；</p>
-<p>（4）通过应用商店或其他手段，推送可通过手机间接遥控播放视频的遥控器应用。</p>
-<p>广电总局要求，牌照方必须于7月8日前完成上述要求的整改，否则取消播控权。</p>
-<p>消息人士表示，该通知只针对电视和盒子产品的视频服务，如果消息属实，目前大部分的互联网电视和盒子产品都会受到牵连。仅手机与电视间的投屏、推送功能一项，就牵涉众多互联网电视厂商，如小米为电视端开发的投屏神器、乐视Max手机上的无线WIDI、百度电视助手等。</p>
-<p>我觉得，如果全面实施广电的这些规定，相当于取消了互联网电视盒子的全部实用功能，让电视盒子完全成了废品，而这种产品肯定不为市场和广大用户所接受， 因此，针对广电总局关于电视盒子的种种限制规定，我觉得电视盒子厂商很可能会将产品更名为客厅HTPC（家庭影院电脑），以此来摆脱广电的种种限制。</p>
-<p>当然，不排除以后广电还会出什么其他限制，例如“电脑不允许放在客厅”、“电视机不能有HDMI接口”、“显示器不能超过25寸”等等。</p>
-<p>原文地址：<a href="http://www.williamlong.info/archives/4289.html">http://www.williamlong.info/archives/4289.html</a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%89%93%E5%8E%8B%E4%BA%92%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90/?category=18271" rel="tag">电视盒子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B9%B3%E8%AF%B4-%E5%AD%99%E6%82%9F%E7%A9%BA%E7%9A%84%E4%B8%A4%E6%AC%A1%E5%8F%8D%E5%9E%84%E6%96%AD/" target="cdt-mirror">平说 | 孙悟空的两次反垄断</a>
-</h2>
-<p><p><strong>《西游记》中的孙悟空有两次反垄断的经历，都与他的结拜兄弟牛魔王家族有关。一次是反暴力垄断，一次是反技术垄断。</strong></p>
-<p>牛魔王一家人基本上可算作自我奋斗而获得成功的民间精英，和悟空的成长路径相似，只是悟空被招安进入天庭体制内时，牛魔王还带着一家子在体制外折腾。所以他们再厉害，悟空自己打不赢他们时，悟空背后的体制内力量是绵绵不尽的，与这种力量对垒，牛魔王一家总有耗尽能量之时。</p>
-<p>悟空碰到自己侄儿辈的红孩儿，三昧真火烧得他难以招架，只好请出观世音用净瓶里的水浇灭大火，并收伏红孩儿做身边的善财童子。</p>
-<p>红孩儿被降伏不久，师徒四人在女儿国过子母河时，唐僧和八戒误饮了河水，怀了身孕，唯一的办法只能去“落胎泉”取水饮下，方能打胎。可控制“落胎泉”的如意真仙是牛魔王的弟弟、红孩儿的叔叔，真是冤家路窄。</p>
-<p>这“落胎泉”是女儿国的公共资源，而且十分稀缺珍贵。因为女儿国没有男人，女人靠喝子母河水传宗接代，误饮河水而怀孕是很容易发生的事，因此打胎的“落胎泉”是全体国民必须依赖的重要资源。这样一种关系到国民健康与福祉的资源，当然需要管理，用泉水的人也应当支付一定的成本，否则就会造成过度开发，资源浪费。管理“落胎泉”的，只应该是公共机构。</p>
-<p>若是在现代民主社会里，那就要开听证会，如何收费、收的费用如何使用，这一切必须告知国民。可如意真仙凭借暴力霸占了“落胎泉”。唐僧一行借宿的那家老婆婆告诉悟空：“但欲求水者，须要花红表礼，羊酒果盘，志诚奉献，只拜求得他一碗水哩。你们这行脚僧，怎么得许多钱财买办？但只可挨命，待时而生产罢了。”</p>
-<p>如意真仙这种方式是黑社会致富风险最小、效益最高的方式。</p>
-<p>黑道上人刚出江湖时，必定经过打打杀杀的初级阶段，弄不好就横尸街头。到了第二个阶段，不会动辄就流血，而是控制一本万利的买卖，如做“黄赌毒”的买卖，或者用暴力加金钱，搞定权力机关，取得某种行业的专营权。这如意真仙除了有一身武艺外，我怀疑他贿赂了女儿国朝廷中的官员们，否则以一国之力，还对付不了这个老道？我不相信，女儿国官员们的家眷误饮了子母河的水，也要用钱买“落胎泉”泉水。那么到了第三个阶段呢？就是被漂白了，或被招安了，成为官府的人。</p>
-<p>如意真仙碰上了悟空、八戒这样比他更横的人，打不过两人，只好让人家乖乖地免费取水。</p>
-<p>如意真仙暴力控制公共资源，而悟空又借暴力免费享用公共资源，这都有悖于公平交易的原则。但在不公平的体制下，这类现象是常态。因此唐僧、八戒喝剩下的泉水，被老婆婆讨要，当着宝贝埋在地下，并说：“这罐水，够我棺材本了。”悟空免费用水一次，并没有改变“落胎泉”水这公共资源的使用方式，如意真仙将会继续靠垄断致富。</p>
-<p>公共产品一旦被私人或利益集团垄断，最受损害的就是穷人。女儿国有钱人可以去买水，无钱的呢，诚如老婆婆所说，“只可挨命”。</p>
-<p>别了女儿国不久，唐僧师徒一行来到火焰山。要通过火焰山，只能借用铁扇公主的芭蕉扇。铁扇公主这是技术垄断，这芭蕉扇是她自己的，比那些老君、菩萨身边的仆人、宠物偷主人的宝贝下凡作怪文明得多，后者窃取的是他们主人所掌握的公共权力。</p>
-<p>牛魔王夫妇自然不愿意借扇子。这种态度无可厚非，因为两个平等的民事主体之间，任何人有拒绝交易的权利。可悟空不厚道，采取欺骗和强抢等手段，又使出惯用的一招，借用公权力，让李天王、哪吒、观音等一干人帮忙，制服了铁扇公主夫妇，把人家的专利产品夺过来。</p>
-<p>对于市场经济体制下的技术垄断和市场垄断，政府当然不能完全撒手不管，但是要程序合法。美国政府如果想拆分微软公司，肯定不能让司法部下道命令就能办到，必须要经过旷日持久的司法程序。而在《西游记》里很简单，把牛魔王的洞给烧了，把牛魔王抓起来，一切就妥了，根本不需经过司法程序。</p>
-<p>已故哈佛大学哲学教授诺齐克坚持权利高于善（利益）。他认为，市场体制下人们正当获取和自由交换的条件是不可使他人的状况恶化。为此他打了个比方，这一条件不允许某人独占沙漠中惟一的水源，然后以任意高的价格向别人供水。</p>
-<p>但是，如果一个人发明了某种致命疾病的治愈方法，他为此而任意开价，那仍然是允许的。如意真仙的垄断属于前者，铁扇公主的垄断属于后者。悟空第一次反垄断具有正当性，第二次反垄断是非正义的。</p>
-<p>悟空两次反垄断的成功，没有改变暴力为王、赢者通吃的体制，垄断的根源并没有消除，所以不值得为悟空的胜利喝彩。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B9%B3%E8%AF%B4-%E5%AD%99%E6%82%9F%E7%A9%BA%E7%9A%84%E4%B8%A4%E6%AC%A1%E5%8F%8D%E5%9E%84%E6%96%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">公共权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90/?category=18271" rel="tag">公共资源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%9E%84%E6%96%AD/?category=18271" rel="tag">反垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1/?category=18271" rel="tag">精英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%B8%B8%E8%AE%B0/?category=18271" rel="tag">西游记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">黑社会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -801,7 +784,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3w5aa6mhg537c.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -811,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2hstb0twnr7a5.cloudfront.net">https://d2hstb0twnr7a5.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3w5aa6mhg537c.cloudfront.net">https://d3w5aa6mhg537c.cloudfront.net</a><br/><a href="https://d307pgav5xtlww.cloudfront.net">https://d307pgav5xtlww.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2hstb0twnr7a5.cloudfront.net">https://d2hstb0twnr7a5.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

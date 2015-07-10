@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2s8xjj7jnfifd.cloudfront.net">https://d2s8xjj7jnfifd.cloudfront.net</a><br/><a href="https://d35ku5fdb6b8d9.cloudfront.net">https://d35ku5fdb6b8d9.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2s8xjj7jnfifd.cloudfront.net">https://d2s8xjj7jnfifd.cloudfront.net</a><br/><a href="https://d35ku5fdb6b8d9.cloudfront.net">https://d35ku5fdb6b8d9.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%9C%80%E7%BE%8E%E4%B8%BD/" target="cdt-mirror">奇闻录 | 中国梦最美丽</a>
@@ -88,7 +88,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E6%94%BF/?category=18271" rel="tag">内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/" target="cdt-mirror">博客天下 | 你知道张召忠将军有多努力吗？</a>
 </h2>
@@ -309,7 +309,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%BB%B7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C/?category=18271" rel="tag">下跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%BF%83/?category=18271" rel="tag">信心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%BB%B7/?category=18271" rel="tag">股价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E6%B0%91/?category=18271" rel="tag">股民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E8%82%A1%E7%81%BD%E6%9C%83%E5%BC%95%E7%99%BC%E5%B0%8D%E5%A4%96%E6%88%B0%E7%88%AD%E5%97%8E/" target="cdt-mirror">东网｜吳戈：股災會引發對外戰爭嗎</a>
 </h2>
@@ -784,7 +784,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d35ku5fdb6b8d9.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -794,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E
                 <td></td>
                 
         
-        <td><a href="https://d35ku5fdb6b8d9.cloudfront.net">https://d35ku5fdb6b8d9.cloudfront.net</a><br/><a href="https://d2s8xjj7jnfifd.cloudfront.net">https://d2s8xjj7jnfifd.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2s8xjj7jnfifd.cloudfront.net">https://d2s8xjj7jnfifd.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d35ku5fdb6b8d9.cloudfront.net">https://d35ku5fdb6b8d9.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>

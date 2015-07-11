@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E9%83%BD%E5%BE%AE%E5%8D%9A%E8%81%94%E7%9B%9F%EF%BD%9C%E4%B8%80%E7%BE%A4%E5%A5%B4%E6%89%8D%E5%92%8C%E5%A5%B4%E9%9A%B6%E6%98%AF%E5%BB%BA%E9%80%A0%E4%B8%8D%E5%87%BA%E9%87%91%E5%AD%97%E5%A1%94/" target="cdt-mirror">成都微博联盟｜一群奴才和奴隶是建造不出金字塔的</a>
@@ -616,7 +616,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E6%94%BF/?category=18271" rel="tag">内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/" target="cdt-mirror">博客天下 | 你知道张召忠将军有多努力吗？</a>
 </h2>
@@ -944,7 +944,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -954,5 +954,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>

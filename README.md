@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%99%A4%E4%BA%86%E4%BE%A9%E5%AD%90%E6%89%8B%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%80%80%E6%81%8B%E7%BA%B3%E7%B2%B9%E9%9B%86%E4%B8%AD/" target="cdt-mirror">【网络民议】除了侩子手，没有人会怀恋纳粹集中营</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/c562285bjw1etnlmab07bj20p118gjze.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/c562285bjw1etnlmab07bj20p118gjze.jpg" alt="c562285bjw1etnlmab07bj20p118gjze" width="400" height=""></a><br><em>（鸟巢知青展一景：“习近平：七年的上山下乡生活对我锻炼很大”；图片来源：新浪微博）</em></p>
+<blockquote><p><a href="http://www.weibo.com/huxijin">@胡锡进</a>：环球评论：知青一代的积极回忆值得尊重。知青上山下乡运动的成因中，当年中国城市化水平低、城里年轻人就业困难，大概是最基础的那一个。那是困难要用政治激 情包裹、遮掩的年代，成百上千万年轻人上演了恐怕历史也一言难尽的集体青春史诗，而史诗都充满了英雄主义，也如泣如诉。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-11-at-3.03.08-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-11-at-3.03.08-AM.png" alt="Screen Shot 2015-07-11 at 3.03.08 AM" width="550" height="178"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>君见无：史诗你一户口本！</p>
+<p>被传染的大脸：文字游戏：积极回忆值得尊重，不积极的回忆就不值得尊重了？</p>
+<p>Babash：困难是执政者自己造成的。不是放弃专制，搞活社会经济。反而创造出战天斗地的政治神话去蒙骗年轻人，通过政治斗争加上国家意志管理来胁迫年轻人去农村。把一群读书人，在最美好的青春阶段搞去干农活。知识没时间学，农村也不见得搞好。莫名其妙浪费十年青春。咋不见反思错误，反而歌颂浪费的十年呢</p>
+<p>楚之歌者: 请不要乱用尊重一词，知青运动是场浩大悲剧，反智的知识与实践倒挂。大冒进带来的工业停滞，流通崩溃。为魔头的任性买单，然后由你个杂种来可歌可泣！把你挂路灯才真正可歌！不泣！</p>
+<p>金辰天地：遮掩的是国家经济己全面崩溃了，这是知青的一部血泪史。</p>
+<p>日当无哼：你问过知青内心真正的想法吗？某些知青表面的说法是不可信的，去探视知青当时内心的心态就知道是怎么评价了，都是去你妈的。问过家里好几个当年的知青，说多了就是泪。你妈的，还吹嘘。</p>
+<p>尝尽似水流年：而且说当时城市水平低，就业困难，那就需要讨论下，这种局面是过错造成的，还是天灾造成的？如果是过错，是谁的过错！胡编的逻辑总是缺少了最关键的那半截</p>
+<p>猫在阳台:无耻！既然那么光荣伟大，为啥知青们跪在铁路边嚎哭着要回城？胡锡进赶紧让你娃也下乡去。</p>
+<p>未来就在此刻：一坨狗屎 经过胡大编们的嘴的深加工都成了香馍馍，让胡粉们垂涎三尺啊。</p>
+<p>一头小活猪: 作为胡学始祖，当年我说胡总最拿手的是叼飞盘，现在看来片面了，他老人家还有一桩手艺，就是食用大便加工，水果呀奶油啊芝士啊巧克力啊，一骨脑儿往上倒，然后请君品尝。</p>
+<p>KimiloveTF：叼飞盘+食屎 双管齐下</p>
+<p>jason-gdut：这也能接住！？难怪主子喜欢呢</p>
+<p>泓成_：胡编小心闪着腰啊，这接飞盘技术难度太高了！</p>
+<p>村长鲁阿满：有请胡编阐述一下，关于文革的七八个优点，美好回忆之类的。</p>
+<p>顾不白wx：我高中历史书上只有三页纸的东西，你们还说尊重？</p>
+<p>索馬里教授V：[doge]就业困难？你怎么不说当时青年没有创业精神啊</p>
+<p>流星弦月：黑白颠倒，是非不分，黑暗的年代被你歌颂成这样，你也真是极品。</p>
+<p>陀螺君：把知情的血泪史美化为英雄主义的赞歌，真是党的孩儿女</p>
+<p>深圳祝羚：既然积极回忆值得尊重，那么消极回忆呢？？</p>
+<p>石磊–闻博四海：那你现在要不再回炉一次？</p>
+<p><strong>12岁属马：要不胡编重走知青路呗。</strong></p>
+<p>飘在废墟上的回忆：您真好，说话都像您这样放屁，股市波动也不会那么大，夹边沟里面饿死的，横死的连棺材也没有的那些所谓右派，等怎么能放过现在在北京躺着的那位？</p>
+<p>树爸爸2012：我的几个妹妹和妹夫都当过知青，我认为知青下乡确实对农村有过好的影响，他们自己也得到了锻炼，但是负面问题更多更严重，对之只是美化歌颂是不符合历史事实的，是完全错误的。补充一点事实，当时并不是说去锻炼一段时间，而是号召安家落户。</p>
+<p>坠入尘世的星辰：我父亲也常怀念过去插队的战友，但不像有人那么无耻，拿过去的经历来证明那时代的美好，为错误的上山下乡运动来贴金。青春是美好的，但时代背景却是残酷的。西南联大的学生也没拿自己的青春经历证明抗日时代人民生活有多幸福。</p>
+<p>善败不亡：既然城裡就業困難上山下鄉後為什麼又從農村往城裡招工？一來一回不是巨大浪費嗎？毛就這麼拍屁股治國國家能不窮？</p>
+<p>青青子佩jx：你也承认这个展览是”有选择的记忆”,那我问你,如果有人办另一场相反的”有选择记忆”的展览,你会赞成吗?当局会允许吗?如果不成,就别提什么客观公正.</p>
+<p>zzzfff1235：当年上海只有600多万人，就说城市养活不了这么多人，如今上海2400多万人，也没说养活不了。完全是计划经济穷途末路的结果。</p>
+<p>羞涩的起哄架秧子星人：傻逼总是想证明傻逼的合理性和曾经有多牛逼，可是他们忽略了再牛逼的傻逼还是傻逼</p>
+<p>王水的世界：丧事当喜事说，好。</p>
+<p>多喝水0927：除了侩子手，没有人会怀恋纳粹集中营！</p>
+<p>空山新雨晚秋：也就是痛苦回忆就闭嘴，打死也不能说。</p>
+<p>威力王123世：看完评论，我就想先别码字了，火力太低，让人笑话。</p>
+<p>弹琴猪：卧槽！无论角度多么刁钻的飞盘胡编都能信手拈来的稳稳接住！御用文人的标杆啊！</p>
+<p>十三烂烂_：胡编评论：股民一代的积极回忆值得尊重。股民纷纷跳楼自杀的成因中，当今中国赌场普及率低、城里人娱乐活动少，大概是最基础的那一个。这是困难要用爱国主义包裹、遮掩的年代，成百上千万股民上演了恐怕历史也一言难尽的集体疯狂史诗，而史诗都充满了英雄主义，也如泣如诉。@文山娃 我这胡编体如何？</p>
+<p>我就不信八世：把所有骂你的都点个赞</p>
+<p><strong>附：<a href="http://opinion.huanqiu.com/shanrenping/2015-07/6971669.html">环球时报｜单仁平：知青一代的积极回忆值得尊重</a></strong></p>
+<blockquote><p>知青运动的成因中，当年中国工业化和城市化水平太低，城里物资匮乏且年轻人就业困难，大概是最基础的那一个。那是困难要用政治激情包裹、遮掩的年代，<strong>成百上千万年轻人上演了恐怕历史也一言难尽的集体青春史诗，而史诗都充满了英雄主义，也如泣如诉。</strong>[…]</p>
+<p><strong>个人励志往往会从逆境中发现积极的元素，一代人也会这样，它还会是一个民族感性的一面</strong>。这或许是历史观中宽容的基础。改革开放已经三十几年，共和国成立了六十几年，大多数有争议的人和事，由于不再与现实有直接利益相关，我们回首时都会离开当时的激烈态度，想起了那人的“某些好”，怀念那件悲伤事中人性温暖的碎片。</p>
+<p><strong>知青博物馆对上山下乡的记述是经过了选择的记忆，这种选择性并非是恶意的</strong>，因而或许是值得理解和体谅的。这样的展览并非国家对知青上山下乡的正式定性，它的发起人就是知青，他们要做的不是总结知青运动的时代背景和历史经验，而是向世人展示他们留在中华大地上的青春，他们希望以积极的身影走进历史。</p>
+<p>也许每一代人都有这样的权利，尊重知青那代人这一愿望，与他们一起做积极的回顾，还是强调历史的冷峻，坚持以当时上山下乡运动带给社会的问题和痛苦作为谈论知青的出发点，这是两种截然不同的维度。这两种维度开展尖锐冲突本是不应该的，当然它既然发生了，说明特别宽厚的社会可能很难存在。[…]</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%99%A4%E4%BA%86%E4%BE%A9%E5%AD%90%E6%89%8B%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%80%80%E6%81%8B%E7%BA%B3%E7%B2%B9%E9%9B%86%E4%B8%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%B1%B1%E4%B8%8B%E4%B9%A1/?category=18271" rel="tag">上山下乡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E9%9D%92/?category=18271" rel="tag">知青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9E%E7%9B%98%E8%83%A1/?category=18271" rel="tag">飞盘胡</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B0%8F%E4%B9%96-%E5%A5%BD%E5%A4%9A%E5%BE%8B%E5%B8%88/" target="cdt-mirror">小乖 | 好多律师</a>
+</h2>
+<p><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E4%B9%96.jpg">博讯｜北京大扫荡：至少二十名维权律师被抓捕或失联</a></p>
+<p>继北京锋锐律师事务所周世锋律师王宇律师等五人遭绑架失联后，北京有至少有二十名维权律师、律师助理或律师事务所工作人员于7月10日被带走或失联。至11日凌晨，仍陆续有多名维权律师被带走。</p>
+<p> </p>
+<p> </p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E4%B9%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E4%B9%96.jpg" alt="小乖" width="450" height="988"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B0%8F%E4%B9%96-%E5%A5%BD%E5%A4%9A%E5%BE%8B%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E5%8E%9F/?category=18271" rel="tag">刘晓原</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%9B%AA%E5%BF%A0/?category=18271" rel="tag">张雪忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%A4%BE%E7%A7%91%E9%99%A2%E5%93%B2%E5%AD%A6%E6%89%80%E7%A0%94%E7%A9%B6%E5%91%98%E7%9A%84%E7%BB%88%E6%9E%81%E9%97%AE%E9%A2%98%EF%BC%9A%E4%BB%80/" target="cdt-mirror">【立此存照】社科院哲学所研究员的终极问题：什么是脸？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A21.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A21.jpg" alt="刘钢1" width="415" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A22.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A22.jpg" alt="刘钢2" width="415" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A23.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A23.jpg" alt="刘钢3" width="415" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A2.jpg" alt="刘钢" width="356" height="300"></a><br><em>（图片来源：<a href="http://mp.weixin.qq.com/s?__biz=MzA4MzQxMTAwNA==&mid=207864492&idx=1&sn=fe9342c6459c5c185a7072b0856482a1#rd">学术中国</a>）</em></p>
@@ -67,7 +136,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E5%89%BD%E7%AA%83/?category=18271" rel="tag">学术剽窃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E7%A7%91%E9%99%A2/?category=18271" rel="tag">社科院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%88%E7%8E%B0%E7%A6%BB%E5%A9%9A/" target="cdt-mirror">自由亚州｜今年高考结束后，中国多地又现“离婚潮”</a>
 </h2>
@@ -688,43 +757,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%9C%9F%E8%80%B3%E5%85%B6%E5%86%8D%E7%88%86%E5%8F%8D%E5%8D%8E%E7%A4%BA%E5%A8%81-%E5%8A%AB%E6%B3%B0%E9%A2%86%E9%A6%86%E6%8A%97%E8%AE%AE%E9%81%A3%E8%BF%94/" target="cdt-mirror">东方日报｜土耳其再爆反华示威 劫泰领馆抗议遣返维人</a>
-</h2>
-<p><p>泰国驻伊斯坦布尔领馆7月8日晚至9日晨遭遇土耳其反华示威者袭击。200多名土耳其反华示威者强行闯入泰国领馆，抗议曼谷将上百名维吾尔族穆斯林遣返回中国的做法。</p>
-<p>据当地媒体报道，为响应一个支持中国维族穆斯林社团权益协会组织的号召，7月8日晚间，200多名反华示威者闯入泰国驻伊斯坦布尔领馆，他们破坏了领馆的大门、用石块砸毁领馆建筑的玻璃。愤怒的示威者口中高声呼喊着“神是伟大的”口号，他们捣毁领馆内的设施并将毁坏的物品抛出窗外。土耳其警方出面干预，逮捕了9名示威者。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/bfeff3937e11e9341c35e7658a6129b8.jpg" alt="bfeff3937e11e9341c35e7658a6129b8" width="500" height="375"><br>
-土耳其反华示威游行</p>
-<p>此前的2014年11月，逃离中国的300多名持假护照的中国维吾尔族人在泰国遭到拘捕。泰国政府发言人7月9日表示：泰国与中国、土耳其合作解决维吾尔穆斯林问题。170多名确认为土耳其公民的维吾尔人被遣返回土耳其，另外约100名确认为中国大陆籍的人士被遣返回大陆，还有50多人的国籍有待确认。</p>
-<p>然而，泰国遣返约100名维吾尔穆斯林至中国的做法成为了此次打砸泰国领馆的导火索。自穆斯林斋月以来，土耳其多座城市爆发示威，批判中国政府对维吾尔穆斯林少数民族实施的政策。安卡拉伊斯兰保守派政府还召见了中国大使，针对维吾尔穆斯林在斋月期间受到的限制提出抗议。</p>
-<p>但是中国驻土耳其大使馆在7月2日发布声明说，境外有关媒体和相关人士声称新疆禁止穆斯林在斋月期间封斋并履行宗教仪式等说法，与事实完全不符。斋月期间，新疆宗教和谐有序。中国政府保护正常的宗教活动，对普通信教群众在斋月期间的封斋、聚礼、吃斋饭等活动不干涉，充分尊重信教群众正常习俗和各地以往形成的习惯；对清真餐馆斋月期间是否正常开门营业充分尊重经营业主的选择。</p>
-<p>针对土耳其接连发生反华游行的原因，此前曾刊文指，土耳其官方对伊斯兰极端力量的纵容，民间对偷渡的维吾尔人的“同情”态度，都是这次反华示威游行背后的深刻根源之一。但同时需要看到的是，人们之说以会相信有“斋月禁令”，一方面的原因是出于当地政坛极右势力的蛊惑，但更为重要的原因是，西方媒体长期对于中国民族政策和少数民族地区的生存状态极具攻击性的负面报道，已经让对于中国缺乏了解的人形成固有认知，这是更深层次的原因。</p>
-<p>转自《外来客》网站</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%9C%9F%E8%80%B3%E5%85%B6%E5%86%8D%E7%88%86%E5%8F%8D%E5%8D%8E%E7%A4%BA%E5%A8%81-%E5%8A%AB%E6%B3%B0%E9%A2%86%E9%A6%86%E6%8A%97%E8%AE%AE%E9%81%A3%E8%BF%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%B0%E5%9B%BD%E9%81%A3%E8%BF%94%E7%BB%B4%E5%90%BE%E5%B0%94%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">泰国遣返维吾尔穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/" target="cdt-mirror">德国之声｜原《时代周报》驻京记者助手张淼无罪获释</a>
-</h2>
-<p><p>北京市通州区检察院做出决定，对原德国《时代周报》驻京记者助手张淼”涉嫌从事寻衅滋事活动”一案不予起诉。在此之间张淼已经在看守所被关押了9个多月。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/01/018194460_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/01/018194460_30300.jpg" alt="free张淼" width="550" height=""></a></p>
-<p>（德国之声中文网）张淼的代理律师周世锋表示，今天（7月9日）上午他接到北京市通州区检察院打来的电话。对方称，通州区检察院对于张淼”涉嫌从事寻衅滋事活动”一案做出不予起诉的决定，并且当晚10点张淼将获得无罪释放。</p>
-<p>张淼曾是德国《时代周报》 驻京记者安吉拉·科克里茨（Angela Köckritz）的助手。去年10月初，在香港报道”雨伞运动”之后回到北京的张淼遭到警方逮捕。据称，她当时正计划参加几名中国艺术家在宋庄艺术区举办一场声援香港雨伞运动的诗歌朗诵会。</p>
-<p>事发三个月后，在通过其他管道斡旋无效的情况下，科克里茨在《时代周报》上刊载长文，讲述张淼被捕事件以及她本人遭到中国国安人员连续数天威胁的经过。</p>
-<p>今年6月，张淼的代理律师周世锋曾向德国之声透露，6月初北京检方曾打算释放张淼。但前提是张淼必须写一份”悔过书”。根据律师所掌握的信息，张淼在”悔过书”中表示”进入看守所后才终于认识到中国人权比美国好五倍”。</p>
-<p>依照律师的说法，6月25日原本是通州区检察院应该对张淼所涉案件做出是否起诉决定的最终期限。但是这一天检察院方面通知律师周世锋案件再度延期。</p>
-<p>周世锋说，今天通州区检察院做出不予起诉的决定表明检察机构”还是没有足够的证据证明张淼实施了犯罪”。他说，从结果来看是积极的一面，但是”这样一个案子拖了这么长时间，浪费、滥用国家大量的执法资源，是对国家执法信誉的伤害，并且损害了中国国家形象”。周世锋说：”（如果）缺乏监督和制约，任何一个权力机关、任何一个人就会疯掉。”</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B7%BC/?category=18271" rel="tag">张淼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -736,7 +768,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1bkfri5hqw07e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ikpwpp4yxmp3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -746,5 +778,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
                 <td></td>
                 
         
-        <td><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/></td>    </tr>
 </table>

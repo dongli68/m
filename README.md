@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<meta name="robots" content="noindex, nofollow" />"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://              <span class="cf-error-type" data-translate="error">Error</span>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://<meta name="robots" content="noindex, nofollow" />">https://<meta name="robots" content="noindex, nofollow" /></a><br/><a href="https://                <div class="cf-column">">https://                <div class="cf-column"></a><br/><a href="https://</div><!-- /.error-footer -->">https://</div><!-- /.error-footer --></a><br/><a href="https://                <div class="cf-column">">https://                <div class="cf-column"></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3>">https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3></a><br/></td>    </tr>
+        <td><a href="https://              <span class="cf-error-type" data-translate="error">Error</span>">https://              <span class="cf-error-type" data-translate="error">Error</span></a><br/><a href="https://            </div>">https://            </div></a><br/><a href="https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">">https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source"></a><br/><a href="https://    <span class="cf-footer-separator">&bull;</span>">https://    <span class="cf-footer-separator">&bull;</span></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%99%A4%E4%BA%86%E4%BE%A9%E5%AD%90%E6%89%8B%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%80%80%E6%81%8B%E7%BA%B3%E7%B2%B9%E9%9B%86%E4%B8%AD/" target="cdt-mirror">【网络民议】除了侩子手，没有人会怀恋纳粹集中营</a>
@@ -778,5 +778,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
                 <td></td>
                 
         
-        <td><a href="https://">https://</a><br/><a href="https://  <span class="cf-status-desc" data-translate="cloud_desc">Dallas</span>">https://  <span class="cf-status-desc" data-translate="cloud_desc">Dallas</span></a><br/><a href="https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span>">https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span></a><br/><a href="https://">https://</a><br/><a href="https://                </div>">https://                </div></a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/><a href="https://        </div><!-- /.error-overview -->">https://        </div><!-- /.error-overview --></a><br/><a href="https://                  ">https://                  </a><br/><a href="https://  <div class="cf-icon-error-container">">https://  <div class="cf-icon-error-container"></a><br/><a href="https://<!DOCTYPE html>">https://<!DOCTYPE html></a><br/></td>    </tr>
 </table>

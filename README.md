@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%A4%A7%E6%89%AB%E8%8D%A1%EF%BC%9A%E8%87%B3%E5%B0%91%E4%BA%8C%E5%8D%81%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%93%E6%8D%95%E6%88%96/" target="cdt-mirror">博讯｜北京大扫荡：至少二十名维权律师被抓捕或失联</a>
+</h2>
+<p><p>（博讯报道，7月10日）继北京锋锐律师事务所周世锋律师王宇律师等五人遭绑架失联后，北京有至少有二十名维权律师、律师助理或律师事务所工作人员于7月10日被带走或失联。至11日凌晨，仍陆续有多名维权律师被带走。</p>
+<p>截止至11日早上9时，已确定被抓捕的维权律师、律师助理或律师事务所工作人员包括：王宇、包卓轩、周世锋、刘四新、李姝云、王芳、戈平、李和平、赵威、李威达、隋牧青、王海军，此外还有林斌（望云和尚）、刘永平（网名老木）等人被抓走。</p>
+<p>还有多名律师及相关人士处于失联或被控制的状态：张雪忠、周庆（锋锐所司机）、王全璋、黄立群、刘晓原、上海秦雷，包龙军（王宇的先生，公民代理人）等。北京知名异议人士胡石根失联，疑被限制自由。</p>
+<p>综合至11日上午11时的信息。张雪忠已经回家。凌晨四时，郑州警方强行开锁将常伯阳律师带走。凌晨五点四十左右，湖南谢阳律师、胡林政律师以及魏得丰三人 在怀化洪江托口镇黔州酒店被洪江市公安局和托口镇派出所的警察以扰乱单位秩序罪名带走。覃永沛及王成已经回到家中。刘晓原律师还在被当地警方控制中。</p>
+<p>综合至11日凌晨2时的消息，知名维权律师及法律学者张雪忠，甘肃李大伟、湖南郭雄伟、重庆游飞翥、河南常伯阳、浙江王成、山东刘卫国、北京张凯等律师家中都有警察闯入。刘卫国、李大伟家警察已经离开，两人未被带走。郭雄伟人不在家。另有湖南吕方芝、湖南文东海、云南曾维昶、上海薛荣民、湖南杨金柱、重庆 付剑波、浙江王成、河南姬来松、上海李天天等律师被深夜传唤带走。福建邹丽惠律师、甘肃蒋永继律师被传唤后已经回到家中。</p>
+<p>湖南杨金柱律师11日凌晨透露出来的消息称，据国保说：上级通报，周世锋涉及严重刑事犯罪。另据被传唤的律师传出来的消息称，维权律师被传唤，与声援王宇律师一事有关。</p>
+<p>10日当天，有多名维权律师、律师助理或律师事务所工作人员被抓捕。据同是锋锐所的刘晓原律师发布的消息：“（7月10日）下午1时25分许，接本所 （北京锋锐律师事务所律师）律师李姝云姐姐电话，说上午十一时多，有十几个便衣到家中，带走了李姝云律师。他们出示的是天津市公安局工作证。李姝云姐姐感 到奇怪并提出质疑，他们解释说，也有北京警方人员一起执法。他们在家搜查扣押电脑和硬盘，说李姝云涉及一起刑事案件带走调查。”据游飞翥律师发布的信息： “刚刚与张维玉通过电话，从下午一点到五点半，警方把他及其他人限制在锋锐律师事务所的会议室。手机被控制起来，搜查律所，完毕之后，现在他们获得自由。 限制自由一共有四个多小时。”</p>
+<p>据现场人士透露，10日上午11:30，有着警服有着便衣的自称北京市公安局的一群人闯入北京锋锐律师事务所，说是受天津市公安局的委托，对该所进行搜 查。在所内的张维玉律师、周世锋主任的司机周庆、左培生、江天勇、冯斌等13人被控制。来人对锋锐律师事务所进行了全面搜查、拍照，重点是周世锋主任和刘 四新律师的办公室，他们叫来了开锁人，打开了二人的办公室门及保险柜。江天勇律师被提前带离，至11日凌晨2时回到家中。</p>
+<p>10日下午6点，刘晓原律师发布微信“我可能被地方公安控制。”知名维权人士王荔蕻10日晚十一点半在推特上（@wlh8964 ）发布信息，“7月10日晚23：00 刘晓原律师短信：‘我有事了’。电话打过去，只说‘我有事、我有事。’背景里有多人的声音！判断刘律已经被控制。”</p>
+<p>锋锐所目前至少有8人被抓或失联，包括，前行政助理吴淦、王宇律师、主任周世锋律师、现任行政助理刘四新、出纳王芳、律师兼行政李姝云。王全章律师及黄力群律师失联。</p>
+<p>北京独立制片人沈勇平于11日零时在微博发布信息称，“隋牧青律师刚被广州番禺南村派出所以涉嫌寻衅滋事带走。”广州网友叶隐发布了详细经过：“刚和隋牧 青律师太太孙世华律师电话证实，隋牧青律师于7月10日23:40，被广州番禺区南村派出所，以寻衅滋事名义带走。隋太孙律师说：23:30，有人楼下按 门铃，说隋律的车被撞，请下楼处理。隋律已休息，说明天再处理。来人说撞得很严重，需即时处理。隋律下楼，在楼道被控制，并出具了寻衅滋事传唤通知。隋律 问具体所涉何事，对方不答。”</p>
+<p>另据李春富律师发布的消息：“刚收到嫂子王峭岭（李和平律师的太太）的短信：‘李和平律师被天津市公安局带走。家里被彻底搜查了一遍，所有电脑都被带 走。涉及刑事案件。有什么好的律师可推荐。’请大家关注。”另据网络消息，李和平律师的助理赵威（网名考拉）今天于7月10日被帶走。李和平律师在高博隆 华律师事务所工作。</p>
+<p>李金星“洗冤录”办公室被查抄，游豫平发布到网络的消息说“下午回来在办公室进来有20个条子（警察），手机及电脑硬盘等所有东西都被拿走了。 当时就他一个人在办公室里，东西拿走人没事。”</p>
+<p>河北李威达律师于10日晚10：35在微信发消息说：唐山市国保在敲门。目前电话已经打不通了。维权人士欧彪峰于10日晚11：30在推特上发布消息说 “广西南宁覃永沛律师数分钟前在微信发消息说被带到派出所，问他因为什么原因被带到哪个派出所，就一直没有回覆了······”</p>
+<p>另据微信消息，王宇律师的儿子包蒙蒙在天津已被姑姑包海英从公安手中接回。</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/">德国之声｜原《时代周报》驻京记者助手张淼无罪获释</a></p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%A4%A7%E6%89%AB%E8%8D%A1%EF%BC%9A%E8%87%B3%E5%B0%91%E4%BA%8C%E5%8D%81%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%93%E6%8D%95%E6%88%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E5%8E%9F/?category=18271" rel="tag">刘晓原</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%9B%AA%E5%BF%A0/?category=18271" rel="tag">张雪忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%98%8E%E9%95%9C%E6%9C%88%E5%88%8A%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%A4%AA%E5%A4%A7%E4%BA%86/" target="cdt-mirror">明镜月刊｜习近平的政治不确定性太大了</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235.jpg" alt="习近平亲民" width="500" height="395"><br>
@@ -704,33 +730,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/iphone/?category=1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E8%80%80%E9%82%A6%E8%84%B1%E6%95%8F%E7%94%B5%E5%BD%B1%E5%BC%80%E6%8B%8D-%E9%81%BF%E8%B0%88%E5%85%AD%E5%9B%9B/" target="cdt-mirror">自由亚洲｜胡耀邦“脱敏”电影开拍 避谈“六四”主打青春励志</a>
-</h2>
-<p><p>今年是一直被中国当局视为敏感人物的已故前中共总书记胡耀邦百年诞辰，首部以其为主角的电影近日开拍，但情节不涉及其担任国家领导人时期以及后来被迫下台的晚年岁月。</p>
-<p>今年11月20日是已故前中共总书记胡耀邦百年诞辰，大陆或高调纪念，首部以其为题材的电影《青春激荡的年代》，5日在胡的家乡湖南浏阳正式开机，预定10月中旬上映。</p>
-<p>据了解，该片以文艺、青春励志、爱情为题材，主要讲述胡耀邦上世纪五十年代调任共青团中央书记后的领导才能，以及如何带领、引导，激励全国千千万万的青年投身国家建设等。</p>
-<p>据大陆媒体《新京报》报道，该片制片人张葆青称，该片是为“纪念胡耀邦同志百年诞辰”而拍摄的，已经策划了一年多，也得到了湖南省委宣传部的指导和支持，还特别在浏阳拍摄地搭建了胡耀邦北京旧居的场景。</p>
-<p>胡耀邦被视为中共开明派，1987年因反资产阶级自由化不力而被迫辞职。26年前胡去世，被认为是引爆八九民运和六四事件的导火索之一，因此大陆官方一直避免评价胡耀邦，长期被当局视为政治“敏感人物”。</p>
-<p>去年8月官媒中央电视台播出的电视剧《历史转折中的邓小平》，曾出现了胡耀邦思想开放、敢想敢干、雷厉风行的改革者形象，这一现象引起舆论的极大关注与解读。</p>
-<p>去年12月，电影《黄克功案件》首映，其中出现了22岁的胡耀邦，是青年胡耀邦的形象首次出现在大陆银幕上。而此次电影的拍摄，被外界解读为，北京当局有意进一步让胡耀邦的名字走出大陆官方的禁忌。</p>
-<p>对此，中国前国务院秘书俞梅荪周三接受本台采访时称：“在感觉上面确实是自解禁，至少不打压了，我写的胡耀邦纪实的长篇文章，几个网站都发了，这在以前是不可想象的不能发的。如论怎么说，胡耀邦也是一个楷模，平反冤假错案、解放思想、改革开放、承上启下，共产党历史上没有像胡耀邦这样的被老百姓拥护的人，从长远来说，共产党94周年了，要往前走，必然要像胡耀邦那样做，大趋势上，我们必然要走向胡耀邦的路上。很明显的一个细节，我今年4月5日他的忌日去他家，警察很多，访民在北长街上打出横幅，但没抓他们，这在过去不可思议，过去要抓，送回原籍，劳改劳教，弄不好判刑，可以看出，细节上在不断放宽。”</p>
-<p>胡耀邦之子胡德平此前表示，中央对纪念活动已有郑重安排。他近日在接受香港《明报》访问时表示，感谢电影制片方的好意，但他认为，胡耀邦最光辉的年代，是“文革”后的拨乱反正，无奈碍于题材敏感，不能拍摄。</p>
-<p>由于胡耀邦的下台和去世与当年“六四”事件有着剪不断的联系，中国当局郑重安排隆重纪念不免让不少人联想：“六四”会不会被平反?</p>
-<p>对此，香港支联会副主席蔡耀昌接受本台采访时表示，如果纪念胡耀邦只是一场政治大戏，“六四”依旧没有获得深刻的反思，郑重安排纪念胡耀邦并不能说明中国当局释放出什么开明的信号。</p>
-<p>蔡耀昌：“我们觉得他对学潮学生的同情和思想开明也应该在他的纪念电影里提出来，不能避免因为他的离世而引发了八九民运，对他的纪念要全面地开展，不能阻碍民众讨论六四问题，我们觉得当局还是要将六四问题隐瞒下去。”</p>
-<p>“六四”期间曾担任香港《文汇报》驻北京记者的香港时事评论员刘锐绍今年初曾对媒体表示，纪念胡耀邦诞辰一百周年跟平反六四没有太大的关系，因为平反六四关系到中国共产党执政的关键问题；平反六四之后，中共的合法性就会受到质疑。但高调纪念胡耀邦对当今的中国仍然有非常贴近现实的意义， 因为胡耀邦生前的廉洁作风有助于改善中国共产党如今在百姓心目中的形象。</p>
-<p>特约记者：忻霖 责编：胡汉强/申铧</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E8%80%80%E9%82%A6%E8%84%B1%E6%95%8F%E7%94%B5%E5%BD%B1%E5%BC%80%E6%8B%8D-%E9%81%BF%E8%B0%88%E5%85%AD%E5%9B%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">纪念胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -742,7 +741,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dzwolpw164hc1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ikpwpp4yxmp3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -752,5 +751,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5
                 <td></td>
                 
         
-        <td><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/></td>    </tr>
 </table>

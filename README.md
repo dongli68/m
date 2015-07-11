@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1bkfri5hqw07e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%9C%80%E7%BE%8E%E4%B8%BD/" target="cdt-mirror">奇闻录 | 中国梦最美丽</a>
@@ -784,7 +784,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ikpwpp4yxmp3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1bkfri5hqw07e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -794,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E
                 <td></td>
                 
         
-        <td><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="      <p><span data-translate="522_owner_desc">Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522" data-translate="addtl_troubleshooting">Additional troubleshooting information here.</a></p>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="      <p><span data-translate="522_owner_desc">Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522" data-translate="addtl_troubleshooting">Additional troubleshooting information here.</a></p>">      <p><span data-translate="522_owner_desc">Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522" data-translate="addtl_troubleshooting">Additional troubleshooting information here.</a></p></a><br/><a href="https://  <div class="cf-icon-error-container">">https://  <div class="cf-icon-error-container"></a><br/><a href="https://<head>">https://<head></a><br/><a href="https://">https://</a><br/><a href="https://">https://</a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://    <i class="cf-icon-status cf-icon-ok"></i>">https://    <i class="cf-icon-status cf-icon-ok"></i></a><br/><a href="https://    </div><!-- /#cf-error-details -->">https://    </div><!-- /#cf-error-details --></a><br/><a href="https://  <p>">https://  <p></a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%99%A4%E4%BA%86%E4%BE%A9%E5%AD%90%E6%89%8B%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%80%80%E6%81%8B%E7%BA%B3%E7%B2%B9%E9%9B%86%E4%B8%AD/" target="cdt-mirror">【网络民议】除了侩子手，没有人会怀恋纳粹集中营</a>
@@ -768,7 +768,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://            <h1>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <i class="cf-icon cf-icon-cloud"></i>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -778,5 +778,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
                 <td></td>
                 
         
-        <td><a href="https://            <h1>">https://            <h1></a><br/><a href="https://                <div class="cf-columns cols-3">">https://                <div class="cf-columns cols-3"></a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://</div>">https://</div></a><br/><a href="https://<meta charset="UTF-8" />">https://<meta charset="UTF-8" /></a><br/></td>    </tr>
+        <td><a href="https://    <i class="cf-icon cf-icon-cloud"></i>">https://    <i class="cf-icon cf-icon-cloud"></i></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://  <p>">https://  <p></a><br/><a href="https://        <div class="cf-error-footer cf-wrapper">">https://        <div class="cf-error-footer cf-wrapper"></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>

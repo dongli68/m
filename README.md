@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/><a href="https://        </div><!-- /.error-overview -->">https://        </div><!-- /.error-overview --></a><br/><a href="https://        <div class="cf-section cf-highlight cf-status-display">">https://        <div class="cf-section cf-highlight cf-status-display"></a><br/><a href="https://    ">https://    </a><br/><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%99%A4%E4%BA%86%E4%BE%A9%E5%AD%90%E6%89%8B%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%80%80%E6%81%8B%E7%BA%B3%E7%B2%B9%E9%9B%86%E4%B8%AD/" target="cdt-mirror">【网络民议】除了侩子手，没有人会怀恋纳粹集中营</a>
@@ -768,7 +768,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1bkfri5hqw07e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://            <div class="cf-columns two">"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -778,5 +778,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
                 <td></td>
                 
         
-        <td><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://            <div class="cf-columns two">">https://            <div class="cf-columns two"></a><br/><a href="https://        <div class="cf-error-footer cf-wrapper">">https://        <div class="cf-error-footer cf-wrapper"></a><br/><a href="https://      <p data-translate="try_again_in_a_few">Please try again in a few minutes.</p>">https://      <p data-translate="try_again_in_a_few">Please try again in a few minutes.</p></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="server_label">Host</h3>">https://  <h3 class="cf-status-name" data-translate="server_label">Host</h3></a><br/><a href="<meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Sat, 11-Jul-15 17:02:34 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Sat, 11-Jul-15 17:02:34 GMT; path=/"></a><br/></td>    </tr>
 </table>

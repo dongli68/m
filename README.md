@@ -21,9 +21,114 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%A4%BE%E7%A7%91%E9%99%A2%E5%93%B2%E5%AD%A6%E6%89%80%E7%A0%94%E7%A9%B6%E5%91%98%E7%9A%84%E7%BB%88%E6%9E%81%E9%97%AE%E9%A2%98%EF%BC%9A%E4%BB%80/" target="cdt-mirror">【立此存照】社科院哲学所研究员的终极问题：什么是脸？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A21.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A21.jpg" alt="刘钢1" width="415" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A22.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A22.jpg" alt="刘钢2" width="415" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A23.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A23.jpg" alt="刘钢3" width="415" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%88%98%E9%92%A2.jpg" alt="刘钢" width="356" height="300"></a><br><em>（图片来源：<a href="http://mp.weixin.qq.com/s?__biz=MzA4MzQxMTAwNA==&mid=207864492&idx=1&sn=fe9342c6459c5c185a7072b0856482a1#rd">学术中国</a>）</em></p>
+<p><strong><a href="http://mp.weixin.qq.com/s?__biz=MzA4MjMwODUwNQ==&mid=210738085&idx=2&sn=58fd2c4911c83a7f26545f38e4a6cb31#rd">新闻传播学研｜你为什么抄袭？因为我不要脸呀！</a></strong></p>
+<blockquote><p>7月8日，中国社会科学院哲学研究所研究员刘钢，在科学网自己的实名博客上，发表了一篇名为《疯狂的天堂手术》的文章，探讨“换头术”的技术和伦理问题。</p>
+<p>10日，日本东京大学外科博士勿怪幸在微博爆料称，刘钢的这篇文章全篇抄袭了自己7月2日发表在《南方周末》的原创文章《换头术，最大的难点在哪里？》</p>
+<p>10日下午，刘钢在自己实名认证的微博上承认抄袭了勿怪幸的文章，并将自己博文题目前加上转载二字。本来以为此事就此告一段落，没想到的一幕发生了。</p>
+<p>成都商报客户端小编发现，就在网友纷纷出来指责刘钢抄袭时，刘钢的态度令人匪夷所思，他称自己的脸就是厚、人至贱则无敌是真理….网友陷入一片惊叹中。</p>
+<p><strong>下面就是成都商报客户端记者整理的刘钢的微博实录：</strong></p>
+<p>是呀，斯文不如扫地。</p>
+<p>什么是原创，什么是盗版？</p>
+<p>这回我可出名了。好名不出门，恶名传千里。我这回算是出了不大不小的一次恶名，也是是不错的经历。</p>
+<p>见识到了吧，以后还会见到比我有过之而无不及的呢。刚刚出道，的确要学好。 //@安如果你也听说:从未见过厚颜如此之人</p>
+<p>你把我的脸皮低估了，岂止一年！ //@社会网络与数据挖掘:【我承认那篇文章就是剽窃了。又当何如？】这脸我能玩一年</p>
+<p>在国内混，没点儿厚的精神，能活下去吗？ //@天涯梦醒人:皮真厚。</p>
+<p>什么是脸？ //@金牛座鱼:我艹，真的没见过这么无赖这么不要脸的人了</p>
+<p>呵呵，知道厉害了吧。</p>
+<p>道歉了呀，可大家还是不依不饶，我只好陪大家继续玩玩啦。</p>
+<p>我是破罐子当好罐子抱着，凭什么摔！</p>
+<p>厚颜可以说，无耻未见得。</p>
+<p>就是这个意思。 //@mickel_zhu:“我就是抄了，怎么了？你来咬我呀~”[蜡烛]</p>
+<p>见过不要脸的，没讲我这样不要脸的吧。</p>
+<p>一定要理直气壮啊，否则怎么混下去？</p>
+<p>我是垃圾中挑出来的，怎么样呢？</p>
+<p>就是要你见识见识呀</p>
+<p>why not! //@Yan筱晨_99:被吓傻，剽窃有理咯？ //@押沙龙: 看看，骂架的时候这也是一招：“你为什么插队？”“因为我没素质！”“你为什剽窃？”“因为我没廉耻！”“你为什么耍流氓？”“因为我是个流氓！”只要豁的出去，对方就会很迷惘：那我还说啥呢？</p>
+<p>谢谢啦，恶名也是名嘛。 //@伊人忽已远_中心愁若丝:既然豁出去不要脸了，也就替你宣传宣传。</p>
+<p>我开微博好几年了。这次终于捅了篓子，见到如此多的英雄豪杰汇聚在我的微博之下对我展开文革一般的批判，我顿感欣慰。我承认那篇文章就是剽窃了。又当何如？我还不信邪了。让批判来得更猛烈吧。看看我的耐受力如何？同时也可以看看这几天的股票。</p>
+<p>“抓屎糊脸”这词听来新鲜。</p>
+<p>昨天还见到微博上有当年人民日报的社论，题目是，人有多大胆，地有多大产的画面呢 //@落__袋:那话咋说来着：人有多不要脸，就会有多少无敌[作揖][作揖]</p>
+<p>回复@小杰_同学:就是要创纪录，什么记录都行 //@小杰_同学:@刘钢-CASS 刷新了不要脸的记录</p>
+<p>在此谢过 //@星乔雅: //@胡淑芬:对这种高调不要脸必须成全啊。 //@来去之间: 我错过了什么→_→ //@刘钢-CASS:什么是脸？ //@金牛座鱼:我艹，真的没见过这么无赖这么不要脸的人了</p>
+<p>事情真奇妙，回头才知道。 //@开始听戏的哥斯拉:头一次见到这么贱的人嘿</p>
+<p>不用替我担心，我吃财政饭，纳税人给我发饷 //@嘉宝爱wish:想知道原po是不是被人盗号～不然这样的智商真替他的饭碗担忧[挖鼻]</p>
+<p>真理 //@David爹嘀:呵呵 人至贱则无敌[笑cry]</p>
+<p>然也 //@丧尸暴龙–志:人不要脸天下无敌</p></blockquote>
+<p> </p>
+<hr><p><small>© 药不能停 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%A4%BE%E7%A7%91%E9%99%A2%E5%93%B2%E5%AD%A6%E6%89%80%E7%A0%94%E7%A9%B6%E5%91%98%E7%9A%84%E7%BB%88%E6%9E%81%E9%97%AE%E9%A2%98%EF%BC%9A%E4%BB%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E5%89%BD%E7%AA%83/?category=18271" rel="tag">学术剽窃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E7%A7%91%E9%99%A2/?category=18271" rel="tag">社科院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 21分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%88%E7%8E%B0%E7%A6%BB%E5%A9%9A/" target="cdt-mirror">自由亚州｜今年高考结束后，中国多地又现“离婚潮”</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/image.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/image.jpg" alt="image" width="500" height="375"></a><p>图片：中国的离婚证和结婚证。（网络图片）</p></div>
+<p>今年高考结束后，中国多地又现“离婚潮”。媒体认为，是因不少夫妇为了不影响孩子考试，推迟离婚所致。广州婚姻登记处“限号”办理离婚手续，最快要等一个月。</p>
+<p>《北京晨报》7月10号报道，为了孩子的学业不受影响，很多婚姻早就出现问题的父母选择等到高考结束后再离婚，每年高考过后的6月份到9月份也会出现离婚的“小高潮”。统计数据显示，自2009年以来，辽宁、湖南、青海、天津、重庆、山东、浙江和河南等地，每年高考结束后的20天比之前的20天，法院受理的离婚案件数都有较大的增长。湖南《三湘都市报》的相关报道说，全国高考的一周，长沙五城区共有247对夫妻离婚；而高考后的一周，就有493对夫妻离婚，增加近一倍。离婚的原因大多是 “感情不和，可以不用为了孩子继续勉强撑下去了”。</p>
+<p>《广州日报》7月10号报道说，广州部分市民近日遭遇离婚“限号”。广州市婚姻登记网上服务系统的离婚登记预约网页查询显示，天河区、白云区等地的离婚登记本月已约满，最快要8月11号才能办理离婚。有婚姻登记处的负责人表示，离婚“限号”原因是工作人手不足。广东居民李先生对此评论说：</p>
+<p>“现在很多政府部门的办事方式都是‘限号’的。这种方式不见得是坏事，但是政府的人手确实应该根据市民的需求来调整。”</p>
+<p>李先生认为，民政部门对离婚“限号”，可能也是为了降低离婚率，建设“和谐社会”。</p>
+<p>“按照中国婚姻法的规定，离婚必须得经过一个调解的过程。这个规定的本意就是认为，婚姻稳定是社会和谐的标志，是国家稳定富强的基础。政府还是那种传统意识，无视个人自由，公权、私权没有分开。”</p>
+<p>报道还说，目前也有不少夫妇是为了买学位房而“技术性”离婚。比如，广州市民林先生现有房产周围的两所小学都很一般，想再买一套好学校附近的学位房，但资金吃紧，于是他与妻子商量好离婚，以便在购买学位房时，利用首套房政策，获得优惠贷款利率。广东居民李先生对此评论说：</p>
+<p>“涉及到技术性离婚的，远远不只买房这一项，还有涉及到计划生育的。有的人为了多生一个，或者少缴罚款，也有技术性离婚的。我身边的人中就有不少技术性离婚的。”</p>
+<p>中国民政部近日发布的《2014年社会服务发展统计公报》显示，2014年中国大陆共有363.7万对夫妇离婚。2003年以来，中国离婚率已连续12年呈递增状态。</p>
+<p>（记者：林坪 编辑：嘉华）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%88%E7%8E%B0%E7%A6%BB%E5%A9%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%A6%BB%E5%A9%9A/?category=18271" rel="tag">中国式离婚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%93%E7%BA%A2%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6telegram%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E9%81%AD%E5%A4%A7%E5%9E%8Bddos/" target="cdt-mirror">当红加密聊天软件Telegram亚洲地区遭大型DDoS</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/telegram1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/telegram1.png" alt="telegram1" width="475" height=""></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/telegram2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/telegram2.png" alt="telegram2" width="475" height=""></a></p>
+<p>7月10日，以加密聊天而闻名的软件Telegram在Twitter上透露，他们正遭到大规模DDoS攻击，导致其印度及东南亚地区地区用户无法连接至服务器。中国也在受影响国家之列。几小时候后，Telegram称攻击他们的DDoS已升级至全球范围，影响到了世界各地的用户。</p>
+<p>Telegram在Twitter回答用户提问时解释，DDoS 攻击并不会影响聊天／加密聊天过程本身，而是一种让使用者无法连接上服务器的手段。同时，由于Telegram帐户与注册地区绑定，所以即使受影响地区的用户连接上其他地区的VPN，也无法正常使用。</p>
+<p>Telegram拒绝透露DDoS的流量来源。</p>
+<p>截至发稿时，有Twitter用户表示中国部分地区仍无法正常使用Telegram。这并非Telegram第一次遭到大型DDoS攻击。2014年9月底，该软件曾声称<a href="https://twitter.com/telegram/status/515819785972903936">遭到了</a>每秒数十Gigabit的攻击，导致部分国家的用户无法连接至服务器。</p>
+<blockquote><p><a href="https://twitter.com/telegram/status/619515927353278464">@telegram</a>：Alright, somebody seems really pissed — the DDoS is now global, affecting Telegram users worldwide.<br>
+（好吧，有人好像真的特别生气——DDoS现在是全球范围了，影响到了世界各地的Telegram用户。）</p>
+<p>‏<a href="https://twitter.com/telegram/status/619451363559350272">@telegram</a>：An ongoing DDoS is causing connection issues for our users in India and South East Asia. We’re hard at work fighting back.<br>
+（一场正在进行中的DDoS导致我们印度及东南亚地区的用户有连接上的问题。我们正非常努力地反击。）</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%93%E7%BA%A2%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6telegram%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E9%81%AD%E5%A4%A7%E5%9E%8Bddos/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ddos/?category=18271" rel="tag">ddos</a>, <a href="https://chinadigitaltimes.net/chinese/tag/telegram/?category=18271" rel="tag">Telegram</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B2%88%E5%8B%87%E5%B9%B3%EF%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%8448%E5%B0%8F%E6%97%B6%E5%86%85%EF%BC%8C%E6%9C%8956%E4%BA%BA%E8%A2%AB%E5%A4%9C%E8%A2%AD%E9%98%9F%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">沈勇平：过去的48小时内，有56人被夜袭队带走</a>
+</h2>
+<p><p>【编者注】沈勇平原文在新浪微博已遭到多次删除。以下内容来自新浪微博 <a href="http://www.weibo.com/5634684586/CqAS87ILm">@南方街头</a>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/0069kyRsgw1etyof3tgx3j30c81dq778.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/0069kyRsgw1etyof3tgx3j30c81dq778.jpg" alt="0069kyRsgw1etyof3tgx3j30c81dq778" width="440" height="1790"></a></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%A4%A7%E6%89%AB%E8%8D%A1%EF%BC%9A%E8%87%B3%E5%B0%91%E4%BA%8C%E5%8D%81%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%93%E6%8D%95%E6%88%96/">博讯｜北京大扫荡：至少二十名维权律师被抓捕或失联</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/">德国之声｜原《时代周报》驻京记者助手张淼无罪获释</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/">习近平谈党的意志与依法治国</a></li>
+</ul></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2014/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%B3%E4%BA%8E%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E8%AE%BA%E8%BF%B0%E6%91%98%E7%BC%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%B3%E4%BA%8E%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E8%AE%BA%E8%BF%B0%E6%91%98%E7%BC%96.jpg" alt="习近平关于全面深化改革论述摘编" width="400" height=""></a><br><em>（数字时代配图；图片来源：贝带劲 <a href="https://twitter.com/beidaijin">@beidaijin</a>）</em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B2%88%E5%8B%87%E5%B9%B3%EF%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%8448%E5%B0%8F%E6%97%B6%E5%86%85%EF%BC%8C%E6%9C%8956%E4%BA%BA%E8%A2%AB%E5%A4%9C%E8%A2%AD%E9%98%9F%E5%B8%A6%E8%B5%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%A4%A7%E6%89%AB%E8%8D%A1%EF%BC%9A%E8%87%B3%E5%B0%91%E4%BA%8C%E5%8D%81%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%93%E6%8D%95%E6%88%96/" target="cdt-mirror">博讯｜北京大扫荡：至少二十名维权律师被抓捕或失联</a>
 </h2>
 <p><p>（博讯报道，7月10日）继北京锋锐律师事务所周世锋律师王宇律师等五人遭绑架失联后，北京有至少有二十名维权律师、律师助理或律师事务所工作人员于7月10日被带走或失联。至11日凌晨，仍陆续有多名维权律师被带走。</p>
@@ -620,116 +725,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%AE%A3%E9%83%A8%E6%80%A5%E4%BB%A4%E5%9B%BD%E5%86%85%E6%8A%A5%E9%81%93%E9%81%BF%E5%85%8D%E8%82%A1%E7%81%BE%E6%94%BF/" target="cdt-mirror">美国之音｜日媒称中宣部急令国内报道避免股灾政治化</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/393BCF55-C741-4B3B-947B-2C35B9690E07_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/393BCF55-C741-4B3B-947B-2C35B9690E07_w640_r1_s.jpg" alt="2015年7月8日，星期三，一位老人准备离开北京的股票经纪公司" width="540" height="304"></a><p>2015年7月8日，星期三，一位老人准备离开北京的股票经纪公司</p></div>
-<p>日本共同社周四（7月9日）发自北京的详细报道说：“共产党中央宣传部已对中国国内传媒下达了‘回避股市问题政治化，防止矛头指向党和政府’的紧急指令，并通告‘如需评论，要向权威部门专家申请’，禁止刊登批评当局的学者分析”。</p>
-<p>共同社报道引述“多个接近中国宣传当局的消息来源”说：“中宣部本周二和周三发出紧急指令，要点包括回避股市问题政治化，防止矛头指向党和政府；不 要把股市与政治挂钩；客观、冷静地报道股市升降；引导股民理性地接受股市波动；慎重发表不夸张的评论文章；宣传经济政策效果，传播中国经济正面前景”。</p>
-<p>共同社驻北京记者报道说：“中国股市迅速下跌，显示中国政府日前干预市场的措施效果有限，在中国股市占主体的个人投资者们不安和不满的情绪正在扩大。习近平政权对股市问题可能发展到批评经济政策的示威、抗议等社会不安，显然已开始持有强烈危机感”。</p>
-<p><strong>分析后果</strong></p>
-<p>共同社分析说：“如果中国股市管理出错，就会对习近平政权正谋求建设的亚投行和‘一带一路’这些瞩目政策泼冷水”。</p>
-<p>日本经济界最大报纸《日本经济新闻》驻北京记者周四也有类似报道，并分析说：“中国《人民日报》、新华社等国营传媒至今作推进股市上升的报道，也是导致个人投资者们相信这些报道反映了政府推高股市的政策，从而扩大投资的一个侧面”。</p>
-<p>富士通总合研究所主席研究员柯隆指出，这些年狂奔的中国经济与腐败现象、社会贫富悬殊已构成了中国泡沫经济崩溃“定时炸弹”，他说：“中国股市危机很容易会带出政治危机，乃至社会安定危机的连锁反应”。</p>
-<p><strong>朦胧导致不安</strong></p>
-<p>日本传媒2013年也披露过中宣部下达限制报道股灾的消息，这次再传出类似消息，共同社和《日经》都没显示意外，只是突出对中国股市可能因宣传原因升跌的不安感。</p>
-<p>去年中共召开四中全会前，主流传媒就广泛报道中国开始出现泡沫经济崩溃迹象，期待四中全会出台具体对策，四中全会闭幕前后，日本各大报社论都表示失望。</p>
-<p>不过由于二十世纪90年代日本的泡沫经济崩溃伴随着房地产价格崩溃，所以对中国房地产价格，尤其是都市并没出现明显崩溃现象，日本的投资者们半信半疑地揣摩中国经济。</p>
-<p>虽看不清这次中国股灾原因，但日本投资者们猜测至少会直接影响中国旅客访日人数，依靠中国旅客“爆买”盈利的百货店股率先下跌，接着扩大到几乎所有与中国经贸有关的企业股。</p>
-<p>尽管内阁官房长官菅义伟周四在记者会上说：“中国股市下跌不停全面影响了亚洲股市，市场上还有希腊债务问题不透明的看法”，但正在日本形成的舆论趋势是，希腊债务问题远没有中国泡沫经济崩溃对日本的直接影响大。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%AE%A3%E9%83%A8%E6%80%A5%E4%BB%A4%E5%9B%BD%E5%86%85%E6%8A%A5%E9%81%93%E9%81%BF%E5%85%8D%E8%82%A1%E7%81%BE%E6%94%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%9C%9D%E9%B2%9C%E6%9C%89%E8%82%A1%E5%B8%82/" target="cdt-mirror">作家崔成浩：如果朝鲜有股市</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/a8ef5277jw1etwmrulds7j20yi0pw43g.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/a8ef5277jw1etwmrulds7j20yi0pw43g.jpg" alt="a8ef5277jw1etwmrulds7j20yi0pw43g" width="500" height="375"></a></p>
-<p>2028年7月9日晨，平壤，股市开盘前。小崔出了地铁口急忙往股票营业部跑，还差30分钟开盘，得抢个好位置。</p>
-<p>刚一进门，一个急刹，转身回来，朝大厅里悬挂的伟人像恭恭敬敬地三鞠躬，祈求伟人保佑。</p>
-<p>这几天行情不好。司令官要求慢牛，结果一不小心就被朝鲜股监会那帮家伙给整成了疯熊，半个月从5万点直接跌到3万点，崔想把股票卖掉，可每天跌停上几百万手的封单，要把股票卖出去可真是个技术活。</p>
-<p>崔一边擦汗一边赶紧翻看当日的《劳动新闻》，希望能找到点利好，给恐慌的自己一点安慰。</p>
-<p>没有大利好，但有消息说，抓了两个造谣分子。一个是写《4万点才是新起点》的那个家伙，按造谣罪连夜犬决了，因为曾是功勋创作员，用的是比特犬，进口的，痛苦少。另一个倒霉的记者把夫妻吵架跳楼的硬给写成因为股市跳楼，判处扰乱金融秩序罪，熊决。</p>
-<p>一声锣响，开盘了！天那！统统一字跌停！营业部经理赶紧跑上前，使劲拍了拍大屏幕的侧板，屏幕闪了几下，瞬间有红有绿，“又是接触不好。”一旁的老股民嘟囔道。崔买的是朝鲜卫星，军工概念，但没那么幸运，继续一字跌停。</p>
-<p>忽然，营业部里一阵骚乱，几个人民军战士进来踹开大户室的门，把两个家伙拖到外边，任凭他俩怎么大哭求饶，随着“砰砰”两声枪响，世界沉寂了。一个军官走了进来，咬着牙对众股民冷冷说，“这就是非法使用杠杆和恶意做空的下场！”</p>
-<p>一身冷汗！人民军一走，崔赶紧撕毁了营业部经理刚塞过来的50倍杠杆使用协议。</p>
-<p>这时，朝鲜卫星的卖单突然消失了，崔的股票成功卖出去了。“这简直就是个奇迹！感谢天降伟人赐福。”崔心里默念，可更大的奇迹在后面。</p>
-<p>朝鲜卫星的股价又瞬间涨停了！对，一分钟，从跌停到涨停！“简直混蛋！”崔感到受到了愚弄，一阵阵眩晕。</p>
-<p>各个跌停的股票纷纷快速上涨。大屏幕一片红！人群躁动起来。崔也想买，还没琢磨好买什么，结果除了停牌的，全都涨停了，一个也买不着。</p>
-<p>到底是什么惊天大利好，才能让朝鲜所有的股票瞬间涨停呢？</p>
-<p>晚7点，《朝闻联播》里的播音员得意洋洋地播出新闻：“战败国美国昨天再次给予我国500亿美元，作为战争赔偿。受该消息刺激，我国股市全线涨停。”</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%9C%9D%E9%B2%9C%E6%9C%89%E8%82%A1%E5%B8%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AF%81%E7%9B%91%E4%BC%9A%E8%A6%81%E6%B1%82%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E4%BA%94%E9%80%89%E4%B8%80%E6%8E%A8%E9%80%81%E5%88%A9%E5%A5%BD%EF%BC%9A%E8%BF%99%E6%98%AF%E8%A1%8C%E6%94%BF%E5%91%BD/" target="cdt-mirror">证监会要求上市公司五选一推送利好：这是行政命令必须做</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/10/%E6%B2%A1%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%A6%82%E6%9D%A5%E4%BD%9B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/%E6%B2%A1%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%A6%82%E6%9D%A5%E4%BD%9B.jpg" alt="没有共产党就没有如来佛" width="450" height=""></a><br><em>（网络图片）</em></p>
-<blockquote><p>（来源：21世纪经济报道）“我们刚刚接到证监局通知，要求从五项措施中选择一个，这已经是行政命令，要求我们必须做。”一位上市公司高管告诉21世纪经济报道记者。</p>
-<p>这五项措施分别为大股东增持、回购股票、董监高增持、股权激励、员工持股计划。记者了解到，证监会鼓励上市公司维护股价的方案不仅仅限于以上这些。</p>
-<p>8日，证监会发布公告，从即日起6个月内，上市公司控股股东和持股5%以上股东（并称大股东）及董事、监事、高级管理人员不得通过二级市场减持本公司股份。若违反上述规定减持本公司股份的，证监会将给予严肃处理。</p>
-<p>此外，证监会允许近期减持过股票的产业资本可以通过证券公司定向资管等方式立即在二级市场增持本公司股票；近期股价出现大幅下跌的（连续十个交易日内累计跌幅超过30%的），董监高增持本公司股票可以不受窗口期限制；上市公司大股东持股达到或超过30%的，可以不等待12个月立即增持2%股份。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>VERITAS1992：股民红军来了，赶紧买买买，在社会主义市场经济下，股票一定能一直牛下去的，10000点，20000点，天空才是极限。</p>
-<p>钢筋徒工：如果股市今天没有涨，是不是要军管证监会和沪深交易所？</p>
-<p>一生相诩：人造股市，法制都是笑话。</p>
-<p>活泼小帅哥S：计划经济的福利….</p>
-<p>鼎鼎_暴露之后换子弹：到底有没有这种权利[挖鼻]</p>
-<p>三无产品蔡范梓：感觉春风扑面来，从未如此民主过，居然有五个选项可供投票，就是这个费油倍儿爽。</p>
-<p>QQQQ向日葵：作为赔的已经生无可恋的股民，看见国家出台的这些利好政策当然开心的不要不要的。但作为学了几年法律的学沫，真是不明白，股市也是市场，看得见的手如何突破法律限制，不仅突破证券法规，更突破法律制定修改适用程序。</p>
-<p>桃子lululemon：太牛逼了，不干旁边坐着公安部……</p>
-<p>深圳闲人：哈哈太机智了，上市公司券商机构散户一个不能少啊，刚微博上看到一句话“穿上你发的军装，扛起我的枪”，太逗了。</p>
-<p>老东槐里：事实证明证监会说话没用，敬请公安部部长明天坐镇证监会，你再看效果。</p>
-<p>你国人民感情伤害专家：极权主义和后极权主义的区别是什么？答：极权主义剥夺你炒股的权利，后极权主义剥夺你不炒股的权利。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AF%81%E7%9B%91%E4%BC%9A%E8%A6%81%E6%B1%82%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E4%BA%94%E9%80%89%E4%B8%80%E6%8E%A8%E9%80%81%E5%88%A9%E5%A5%BD%EF%BC%9A%E8%BF%99%E6%98%AF%E8%A1%8C%E6%94%BF%E5%91%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E5%B1%80/?category=18271" rel="tag">证监局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B6%A8%E5%A7%BF%E5%8A%BF-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E9%98%89%E5%89%B2%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%EF%BC%9A%E6%9C%89%E5%A4%9A%E6%97%A0%E8%80%BB-%E8%A6%81%E5%A4%9A%E6%97%A0/" target="cdt-mirror">涨姿势 | 广电总局阉割智能电视：有多无耻 要多无赖</a>
-</h2>
-<p><p>一款不能连接Wi-Fi的iPhone手机？搞笑吗？</p>
-<p>一点都不好笑，这就是中国特色的苹果智能手机。当然，那是好多年前的国行版iPhone 3GS。为什么要阉割Wi-Fi模块？因为当时中国监管部门工信部主推WAPI，不支持这个协议就不准进入中国市场。于是造就了历史上最为奇葩的一款地区性iPhone。</p>
-<p>遗憾的是，我们的监管部门总是喜欢坚定不移、百折不饶地站在科技发展潮流对立面，依依不舍地抱着他们的本本文件，全然不顾全球大潮，一次次成为历史的笑料。</p>
-<p>为什么又翻出这个历史典故？因为今天又看到了一个顽冥不化的新政策——广电总局下达紧急通知，要求“七大牌照方”针对互联网电视现存违规现象进行整改。而且强制在7月8日前完成上述要求，否则取消播控权。</p>
-<p>都这样了，还要整改什么？“第一，不准用USB端口安装应用；第二，不准在系统存在访问互联网的浏览器；第三，不准通过应用商店或其他手段推送聚合应用软件、视频网站客户端和电台应用软件；第四，不准通过应用商店和其他手段，推送手机简介遥控播放视频的遥控应用。”</p>
-<p>什么？那还玩什么互联网电视？电视盒子和智能电视不等于生生被卸了一条大腿？智能手机也不能再向电视投放视频了。</p>
-<p>为毛啊？你很难用正常人的思维来理解我国监管部门的逻辑。因为他们的监管思维不是怎样推动行业的发展和科技的进步，而是怎样更好地捂好自己的一亩三分地收成。反正中国科技领域的发展和他们一点关系都没有。</p>
-<p>扯淡。不就是为了一点利益吗？我来解释一下，按照我国的监管疆界划分。广电总局是管理电视行业的，而互联网则属于工信部管理。本来没有互联网电视，两个部门各吃各饭，各管各事。</p>
-<p>但监管划分是哪年的事？科技发展的洪流是顺着监管部门划好的河道流淌的吗？现在是互联网融合改变一切的时代，原先的电脑、手机、电视、网站、宽带都在不可阻挡的汇聚在一起，互联网电视也就顺理成章的出现了。</p>
-<p>哦，还不是不可阻挡，至少在我国监管部门看来，这就是扰乱了我们的监管秩序，我们就要阻挡。“我们不管你科技怎么发展，用户是否方便，我只管按照老黄历办事。”</p>
-<p>他们觉得不对劲了，他们想不明白了。电视上可以看视频网站内容，那视频网站可是工信部的地盘。智能手机可以投放视频甚至遥控电视了，那也是工信部的疆土啊。视频网站现在影视内容比电视台都多，还开始自己制作节目，那以后谁还看电视？大家不看电视，那都投向了互联网，广电总局就吃不上驴肉火烧了！</p>
-<p>现在明白了吧，广电总局的新政策意思就是：你们老老实实的，做互联网的去做互联网，千万别想动我们家的电视地盘。河水绝对不准流入井水。不听？不听就不让你做电视。</p>
-<p>其实吧，广电总局也不是刚发现互联网电视威胁自己利益，更不是第一次拿互联网电视开刀了。早在四年前互联网电视刚刚露出苗头的时候，他们就制定了一个红头文件，要求互联网电视平台只能接入广电总局批准的互联网电视服务商设立的合法平台。没有广电总局批准就是非法。</p>
-<p>他们还规定，互联网电视不准链接互联网视频网站，不能在电视上直接播放互联网内容。互联网电视的播放内容也要符合广电总局的审查标准和要求。于是，所有的互联网电视平台都只能选择广电总局批准的10多家播控平台，后来减少到7家。</p>
-<p>这个臭名昭著的红头文件就是181号文件。因为这个文件，小米盒子上市之后横遭腰斩，雷老板哼都来不及哼一声，乐视则被认为是阴险的举报人。当然乐视也不愿意背黑锅，出了一个声明辟谣，意思是“大家都是被管得无处吐槽的苦逼，我心里也是一肚子苦水，怎么会干这么龌龊的事？”</p>
-<p>小米信不信我不知道。至少前段时间的小米乐视公开斗法，又把广电总局搬出来了。但这次的苦主却是乐视。因为乐视还没拿到审核就将互联网内容接入乐视电视。乐视一肚子火又不能吐槽这个该死的政策，只能说“我们马上就拿到审批了，小米别狂啊！”</p>
-<p>再看看广电总局批准的七家播控平台，都是清一色的广电系国企：中国网络电视台、百事通、华数传媒、湖南广电、南方传媒、中国国际广播电台以及中央人民广播电台。够明白了吧。就算互联网和电视融合了，也得乖乖地和广电总局旗下的企业合作。不合作就是非法，非法就要拿下。</p>
-<p>好吧，事竟如此，无话可说。以后中国互联网电视还怎么玩？回家玩自己去吧。</p>
-<p>别介，广电总局固然有一刀斩立绝的权力，但草民也可以自己想想办法。不玩电视不就得了吗？我搞个高清投影仪投放平板手机的视频，我用HDMI线或者其他方式连接电脑到电视；实在不行，我搞个高清显示屏，一样当电视用。反正现在电视台可真没什么吸引力。只要不是电视，那就跟您广电总局拜拜了。</p>
-<p>不过，广电总局本来就不是善主。说起这位大官人，国内影视观众甚至都不是一肚子苦水，根本就是罄竹难书。能够一次次站在历史对立面，展示自己的私心利益和品位低下，也不是一般部门干得出来的。</p>
-<p>大量电影电视被广电总局剪的面目全非，导致了出现了剧情乃至整个电影完全不同的低劣国行版，大量导演、明星因为私拍电影、送展电影或者拍了他们不想看到的戏遭到封杀。要想看到裸戏？除非是出现智者看完《泰坦尼克》大手一挥的场景。那种情况下，广电总局的文件和标准就是一个笑话。恩，本来就是一个笑话。</p>
-<p>而他们又批准了什么？各种低俗到无聊的电视节目占据着电视台，各种挑战智商的抗战神剧却得以顺利过关，手撕鬼子、翔嫂藏雷等脑残剧情完全颠覆了我对伟大的抗战主题影视剧的印象。</p>
-<p>十多年前，当我还在中央电视台某部门短暂打工的时候，曾经去过当时的广电总局几次，向主管央视的那些领导们呈送一些官方文件。当我站在南礼士路的那个大门等着查证，愣愣往里看的时候，仿佛看到了卡夫卡笔下的那座城堡。</p>
-<p>一座深不可测、不可理喻、丧心病狂的城堡。</p>
-<p>来源：http://weibo.com/p/1001603862293606719102</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B6%A8%E5%A7%BF%E5%8A%BF-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E9%98%89%E5%89%B2%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%EF%BC%9A%E6%9C%89%E5%A4%9A%E6%97%A0%E8%80%BB-%E8%A6%81%E5%A4%9A%E6%97%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/iphone/?category=18271" rel="tag">iPhone</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E7%AE%A1/?category=18271" rel="tag">主管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -751,5 +746,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/iphone/?category=1
                 <td></td>
                 
         
-        <td><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://d3ikpwpp4yxmp3.cloudfront.net">https://d3ikpwpp4yxmp3.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1bkfri5hqw07e.cloudfront.net">https://d1bkfri5hqw07e.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37qhlrpv0rr67.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E6%89%AB%E8%8D%A1%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%EF%BC%8C%E9%83%91%E6%81%A9%E5%AE%A0%E6%9D%8E%E6%96%B9%E5%B9%B3%E7%AD%8980%E4%BD%99/" target="cdt-mirror">博讯｜中国持续扫荡人权律师，郑恩宠李方平等80余人被带走</a>
+</h2>
+<p><p>博讯报道，7月11日下午，上海郑恩宠律师被警方带走并被抄家。身居上海的刘士辉律师也于11日下午被国保带走，羁押在浦东新区合庆派出所。11日晚上7 点许，北京李方平律师被江西萍乡市安源区凤凰派出所警察带走，去向不明。11日晚21：20分，广东葛永喜律师被南海黄岐派出所警察带走。11日深夜，广 东葛文秀律师被国保带走,广东王全平律师拒写保证书，被送往看守所。</p>
+<p>7月11日晚间消息，官方媒发文抹黑人权律师，称周世锋、刘四新、黄力群、王宇、王全璋、包龙军等人已被刑事拘留。广东隋牧青律师已经获释，被广州警方涉嫌煽动颠覆国家政权罪为由监视居住。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/201507110700411.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/201507110700411.jpg" alt="201507110700411" width="450" height=""></a></p>
+<p>从7月10日早上开始，中国当局开始对大陆维权律师、人权捍卫者进行大规模抓捕。目前已经有超过81位维权律师、人权捍卫者被捕、失踪、传唤、限制人身自由、约谈，而这一数字仍在上升。</p>
+<p>目前了解的情况显示，全国各地约谈的内容的基本都涉及王宇律师、周世锋律师以及所在的北京锋锐律师事务所以及屠夫案。</p>
+<p>据维权网统计，目前已经确认“710抓捕律师事件”共涉及81人，其中7人被明确拘押，（6人遭刑事拘留，1人遭监视居住）；28人仍遭扣押未获释；46人被带走、传唤或约谈后获释。查抄了3家律师事务所和办公室。</p>
+<p>一、7人被明确拘押，其中6人遭刑事拘留，1人遭监视居住</p>
+<p>刑事拘留6人名单：（名单如下）<br>
+1、王宇律师（北京锋锐所律师）、<br>
+2、包龙军（王宇律师丈夫）、<br>
+3、周世锋律师（锋锐所主任）、<br>
+4、黄力群律师（锋锐所律师）、<br>
+5、王全璋律师（锋锐所律师）、<br>
+6、刘四新博士（锋锐所行政助理）、</p>
+<p>监视居住1人名单：（名单如下）</p>
+<p>1、隋牧青律师（广州律师，被控“煽动国家政权”遭监视居住）</p>
+<p>二、28人被带走后仍遭扣押未获释：（名单如下）</p>
+<p>1、 李姝云律师（北京锋锐所律师）、2、王芳（锋锐所会计）、3、刘晓原律师（锋锐所律师）、4、周庆（锋锐所司机）、5、左培生（锋锐所工作人员）、 6、李和平律师（北京）、7、赵威（李和平助理、考拉）、8、李金星律师（律所被查抄）、9、河北李威达律师、10、上海秦雷律师、11、湖南吕方芝律 师、12、湖南文东海律师、13、上海薛荣民律师、14、湖南谢阳律师、15、湖南胡林政律师、16、河南姬来松律师、17、上海李天天律师、18、湖南 罗茜律师、19、上海刘士辉律师、20、北京李方平律师、21、广东葛永喜律师、22、上海郑恩宠律师（被抄家）、23、林斌（望云和尚）、24、北京戈 平（基督徒）、25、胡石根长老、26、刘永平（老木）、27、山西李发旺维权人士、28、湖南魏得丰维权人士。</p>
+<p>三、46人被带走、传唤或约谈后获释：（名单如下）</p>
+<p>1、包蒙蒙（王宇律师的未成年孩子）、2、山东张维玉律师、3、北京江天勇律师、4、北京张凯律师、5、北京王成律师、6、广州孙世华律师、<br>
+7、广东刘正清律师、8、广东王全平律师、9、广东吴魁明律师、<br>
+10广东陈武权律师、11、广西覃永沛律师、12、湖南王海军律师、<br>
+13、湖南郭雄伟律师、14、湖南杨金柱律师、15、湖南王海军律师、<br>
+16、湖南杨璇律师、17、湖南张重实律师、18湖南石伏龙律师、<br>
+19、湖南陈南石律师、20上海张雪忠律师、21、上海钟颖律师、<br>
+22、山东刘卫国律师、23、山东付永刚律师、24、云南曾维昶律师、<br>
+25、云南刘文华律师、26、福建邹丽慧律师、27、河南任全牛律师、<br>
+28、河南孟猛律师、29、河南马连顺律师、20、重庆付剑波律师、<br>
+31、重庆何伟律师、32、甘肃李大伟律师、33、甘肃蒋永继律师、<br>
+34、黑龙江王秋实律师、35、天津刘连贺律师、36、四川王万琼律师、<br>
+37、四川于全律师、38、苏州张磊律师、39、河南维权人士蓝无忧、<br>
+40、北京维权人士游豫平、41、湖南维权人士欧彪峰42、重庆游飞翥律师<br>
+43、广东葛文秀律师44、上海王福磊（渔夫）、45、河南常伯阳律师、<br>
+46、陕西张鉴康律师</p>
+<p>参见动态更新： <a href="https://docs.google.com/spreadsheets/d/10sz_XixcwQcLKa9TMZTOtzTTHzlQSf5SNhKHOvAUs0E/edit?usp=sharing" target="_blank">7月10－11日被捕或传唤律师活动人士清单</a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E6%89%AB%E8%8D%A1%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%EF%BC%8C%E9%83%91%E6%81%A9%E5%AE%A0%E6%9D%8E%E6%96%B9%E5%B9%B3%E7%AD%8980%E4%BD%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E9%83%BD%E5%BE%AE%E5%8D%9A%E8%81%94%E7%9B%9F%EF%BD%9C%E4%B8%80%E7%BE%A4%E5%A5%B4%E6%89%8D%E5%92%8C%E5%A5%B4%E9%9A%B6%E6%98%AF%E5%BB%BA%E9%80%A0%E4%B8%8D%E5%87%BA%E9%87%91%E5%AD%97%E5%A1%94/" target="cdt-mirror">成都微博联盟｜一群奴才和奴隶是建造不出金字塔的</a>
 </h2>
 <p><p>第一次读到这个故事，我被深深地震撼了。“金字塔的建造者，绝不会是奴隶，而只能是一批欢快的自由人。”——原编者按</p>
@@ -899,40 +944,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E8%B0%A2%E5%9B%BD%E5%BF%A0%EF%BC%9A%E8%BF%99%E6%B3%A2a%E8%82%A1%E5%B0%B1%E6%98%AF%E9%AA%97%E5%AD%90%E5%9D%90%E5%BA%84-%E6%94%B9%E9%9D%A9%E5%85%A8%E9%9D%A2%E5%80%92/" target="cdt-mirror">墙外楼｜谢国忠：这波A股就是骗子坐庄 改革全面倒退</a>
-</h2>
-<p><p>文/前海传媒 李哲</p>
-<p>”这轮A股就是个骗局。”原本不想谈论A股的谢国忠，还是忍不住这样说到。</p>
-<p>”越救越跌，越跌越救，恶性循环，生生不息”，中国A股眼下正陷入这样的困局里。截止，7月8日上午收盘，上证指数收报3582.50，半天跌幅3.88%，这可能还算是好的，毕竟开盘差点就跌停。</p>
-<p>人们在恐慌、咒骂与心惊胆颤中望着绿油油的盘面，监管层与市场参与者则在不断制造信心，无论是证监会、央行，亦或是各大证券公司的上书行动。</p>
-<p>事态显然在扩散，从A股保卫战到港股再到中资概念股，一遍哀鸿。甚至由A股所引发的中国版金融危机也甚嚣尘上。</p>
-<p>如何寻根刨底发现问题并解围，如何深刻反思，这都是不容回避的关键问题。为此，著名经济学家、原摩根士丹利董事总经理、亚太区首席经济学家、玫瑰石投资顾问首席经济学家谢国忠有着不同于常人的看法。</p>
-<p>老股民大都看懂了 这波A股就是骗子自己在炒</p>
-<p>谢国忠常年在中国市场经济建设中扮演着”乌鸦嘴”角色，从唱空房地产，到持续尖锐地批评中国式干预，这位曾连获6届亚洲最佳经济学家可谓毁誉各半。7月8日上午，谢国忠接受了前海传媒的独家采访，就当下A股坦言了自己观点。</p>
-<p>外界看来的A股急跌，在他看来，这波A股就是骗子自己在炒，老百姓跟进来的不多，所以市场跨起来就像现在看到的这样。原来的模式是中国老百姓会相信政府，又喜欢投机，中国的钱都是在五十年代末或六七十年代的，但很多人已经看透了这种玩法，所以骗不到钱了。</p>
-<p>谢国忠具体指出：”这波股市主要是靠债借钱炒起来的，坐庄的为主，老百姓有参加，但主要是年轻人，没什么钱的。中国老百姓看破了股市，所以来的人少，股市没有核心优势，靠的就是借的四五万亿的钱撑着。像上海的一些老股民，之前还愿意跟自己辩论，现在也说是骗人的，这些是有钱的人，没来，所以股市里的骗子骗不到钱，最后就骗银行的钱。”</p>
-<p>关于坐庄，谢指出，坐庄是体制的一个工具，创业板和新三板，主要是靠坐庄撑起来的，中国经济的核心问题是没有像欧洲、美国那样，他们的问题是老百姓对干活有看法，生活福利开支过大，归咎起来是老百姓要的过多引起的。</p>
-<p>”中国的话，是肯干活，但拿很少的钱，全世界的跨国公司也是这么说的，中国经济哪里来的呢？核心问题是增财富，增财富在西方社会靠的是创造品牌或发明了什么东西，那就有议价能力，而中国是通过发钞票来炒，中国为什么一浪一浪地炒，原来是从社会边缘的炒股票像90年代炒股票坐庄的人，现在变成了主流，跟权贵坐在一起，这反映了中国这个体制。”</p>
-<p>其实，这轮A股调整，多少在谢国忠的预计之内。早在4月底，谢就在《南华早报》上发表的文章称，中国似乎在吹起一个大规模股市泡沫，以麻痹房地产泡沫破裂带来的疼痛，以及延缓必要的经济重组。它在短期内可以起作用，将群众的注意力转向大规模赌博游戏和远离现实。但是，泡沫不会持续到2015年中。当市场崩溃，疼痛只会加倍。</p>
-<p>为此，谢国忠向前海传媒强调，现在是坐庄的人跟权贵联合在一起，中国要有很大的改革才能走向正规，牵涉到方方面面，原来习近平在2012年说过中国要处理过去过度刺激留下的遗留问题，中国不能靠泡沫。但过去看到的是，2013年又搞房地产泡沫，2014年又搞股市泡沫，牵涉的问题非常大。</p>
-<p>由这次A股谈到资本市场弊病，谢国忠坦言，中国的股市跟经济没关系，历史上几乎都是这样，所以它是把西方的概念拿过来，让大家去炒。中国股市主要是国有企业，国企怎么可能为股民赚钱，它二十年现金流都是负的，民企的话，大部分进来都是为了赚股民的钱。</p>
-<p>对救市，他说，政府救市的出发点是错误的，原来是想用股市炒起来带动经济，中国人相信权利，相信有权的人这样说就可能成功。救市把市场政治化，政治是有责任的，起来的时候是政府鼓励大家去炒的，所以，倒下来它也要负一定责任。</p>
-<p>”救市从过去来看，可能是想给股民一定心理上安慰，历史上都是这样，但让政府出钱是很少的，因为政府是要钱的，它把股市炒起来就想从里面拿钱。说到底，中国股市就是负的博弈，再加上后面还有人抽水。怎么可能是一个正常的市场？”</p>
-<p>改革基本的都倒退 央行买股或加速崩盘</p>
-<p>从资本市场看中国改革全局，他认为，中国经济的核心问题是，政府不想给老百姓钱，它更多想炒到自己口袋里，这是所以为什么中国坐庄的骗子那么多，它是一个惩善扬恶的地方，现在大家都去搞网络，也基本上都是骗人的。</p>
-<p>”现在重心还有偏离实体经济，搞概念，还是让大家炒这个炒那个，又搞什么基金去里应外合。管理层说的话什么时候得到执行，这是核心问题，这轮改革基本上还是空的，搞概念性。泡沫搞不起来了。很多都是打着为实体经济服务的名义，把资金转到没有用的地方或者叫浪费的地方。现在增财富是靠向13亿老百姓每人头上挖点钱，但是它不能靠自己有本事，比如像苹果那样生产一个影响世界的手机，或者像奔驰宝马那样，有自身的品牌。现在只能靠开赌场，但许多老百姓也都看破了。”</p>
-<p>谢国忠直言不讳说，目前无论是A股还是整个经济改革，基本的都是倒退的。改革真正改了什么？</p>
-<p>A股目前该如何作为，他说，早之前不干预是比较好，现在只能进一步下跌。最后央行可能自己印钞买股票，那很可能会出现崩盘，人民币一旦崩盘，可能会出现全局危机。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E8%B0%A2%E5%9B%BD%E5%BF%A0%EF%BC%9A%E8%BF%99%E6%B3%A2a%E8%82%A1%E5%B0%B1%E6%98%AF%E9%AA%97%E5%AD%90%E5%9D%90%E5%BA%84-%E6%94%B9%E9%9D%A9%E5%85%A8%E9%9D%A2%E5%80%92/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -944,7 +955,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32d8rxiljy7vy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3g98h24c8w86g.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -954,5 +965,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
                 <td></td>
                 
         
-        <td><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>

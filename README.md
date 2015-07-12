@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32d8rxiljy7vy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,75 @@
                 <td></td>
                 
         
-        <td><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E7%BD%91%E7%BB%9C%E7%BB%B4%E7%A8%B3%E7%AB%8B%E6%B3%95%E5%BC%BA%E5%88%B6-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%99%A9%E6%A2%A6%E5%8A%A0%E6%B7%B1/" target="cdt-mirror">自由港｜网络维稳立法强制 中国人权噩梦加深</a>
+</h2>
+<p><p><em>作者：Sylar</em></p>
+<p>「黑头套」、「被带走」、「抄家」……近来，类似关键字以刷屏模式出现在推特中文圈时间线上，触目惊心。维稳进入大抓捕「新常态」。</p>
+<p>从7月10日晨开始48小时内，已经有超过57位维权律师、人权捍卫者被捕、失踪、传唤、限制人身自由、约谈，而这一数字仍在上升。分析认为，这是由中国当局最高层直接部署和指挥的镇压行动。</p>
+<p>在大规模抓捕的同时，对大陆网民来说相对安全的通讯应用telegram出现被DDoS攻击事件，无法不怀疑这种“巧合”是在配合抓捕；新疆地区长期处于断网状态；因网络言论被控煽颠、寻衅滋事等罪名的案例在各地频发……当局对民间抗争实施打击的各种行动都伴随着对网络的封锁、控制，以及相关调查取证。毫无疑问，当局的这些行为并无任何法律依据，而且是在公然践踏法律。在民众逐步觉醒、对政权合法性质疑越来越强烈的背景下，相继出台“国安法”和“网络安全法（草案）”，当局之用心昭然。</p>
+<p><strong>网络维稳立法及其背景</strong></p>
+<p>2015年6月，第十二届全国人大常委会第十五次会议初次审议的《中华人民共和国网络安全法（草案）》共分七章68条， 涉及网络运行安全、网络信息安全、监测预警与应急处置、法律责任等范畴。该草案确认了网信办统一监管互联网的职责、确认了网络实名制和电子身份证制度、确 认了曾在新疆等地实施过的断网措施。它将允许政府能够更加自如地管控中国的信息流，其中很多条款直接关系到每一位网民的权益、隐私甚至人身安全。</p>
+<p>紧接着7月9号，中共中央公开了《关于加强和改进党的群团工作的意见》全文，为时隔26年，中央再就群团工作发布专门的指导文件，称：抵制颜色革命，站上网络舆论斗争最前沿。意见指，「中国发展的内外环境正发生深刻变化，党面临前所未有的考验，人心向背关系党的生死存亡，加强改进群团工作有重要和紧迫性」……中共当局对网络维稳失控的紧张、对自身政权稳固的恐慌，已跃然纸上。</p>
+<p>毕竟，制造恐慌、渗透恐慌，是极权维稳机制能得以正常运转的关键。网络管制立法早在三年 前就有舆论铺垫，当时曾引发民意强烈反对，与今日大众对此的沉默恰成对比。或可理解为同期的股灾话题太过炙热，被转移了视线，也或能透露，大陆网民对三年 来日渐强化的审查和管制已渐麻木，对极权的手段也已参透。当然，更有可能的是，反对声音已被清除，但那不过是极权当局的掩耳盗铃。嘴巴上被贴了封条的抗争 者们还站在那里，听不到他们的声音并不代表他们不存在，而大抓捕正是加强了这种存在感，抗争的坚定和力度随着维稳加剧，更为清晰化了。</p>
+<p>2014年底，在浙江乌镇召开“世界互联网大会”上，中国当局着重强调了“网络安全”问题，把它和国家主权和国家安全结合起来，已经在为炮制网络安全法做了充分的国内外舆论准备，加之VPN管制、网警巡逻和GFW在2015年年初的再一次升级，都是为该法案的出台而配备的软硬件条件。大量事实足以证明，网络安全法针对的是民间抗争活动。</p>
+<p>习近平上台以来，多次通过官媒发出社论，要求「抵制普世价值观」，通过「七不讲」严控教育，严加管制网络，至今已持续了一年多的运动式净网，整体烈度前所未有。</p>
+<p>中国政府已于2013年成立了「国家安全委员会」，专门应对那些被有关部门认定为颠覆中国政权的问题，该委员会由习近平本人担任主席，足见中共对政权稳固的紧张程度。上周发布的「新国家安全法」，已经加重了联合国对中国人权进一步恶化的担忧。</p>
+<p>看起来，中国当局认为一部新国安法并不足以安心，于是紧接着，这部《网络安全法（草案）》诞生了。各种极端的网络管制方式虽然一直存在，但该草案一旦通过，那些侵犯人权的网络审查和管制手段将被法制化，“言论罪”、“煽颠罪”或将更多出现。</p>
+<p>“煽颠”罪名是政治类重罪，早前一直被认为是稀罕的存在，被判以煽颠罪名的人都是正面反对、质疑极权合法性的清醒的抗争者。确定一例“煽颠罪”，就相当于给极权政府一记掌掴。但近年来，“煽颠罪名”突增，大派送一样，可见维稳之疯狂已丝毫不顾颜面了。去年十月，新疆民主人士赵海通（图）被乌鲁木齐中级人民法院判处有期徒刑十四年，定以的罪名就是“煽动颠覆国家政权罪”，是继刘晓波案以来最为严重的量刑。赵海通的判决书上显示：街头举牌、聚餐举牌、QQ群发言，都可以归为“煽动颠覆”，足见这个政权的脆弱。</p>
+<p><strong>网络维稳立法的目的和后果</strong></p>
+<p>近年来，各地维权事件突增，线下的维权活动与线上的通讯、扩散和声援形成维权O2O模式，互联网的信息传播、分享功能，社交网站和软件的信息集成、联络功能，都成为抗争相关信息传播、行动联系等的主要方式和途径，令行动效率明显提升。当然也同时成为了维稳打击的重点。由此分析，当局出台这部法律应该有如下几个目的：</p>
+<p>1、打击抗争信息发布和传播。该草案一旦通过，各种针对性打击手段将被法治化和常态化，信息发布者和传播者将面临巨大的法律风险。自媒体用户没有专业新闻机构那样的设备和人员条件，在信息发布上也很难做到多源互证，面临当局打击时就不可能自证信息真实性——而关于举证责任的归属，在中国的法治环境下有目共睹，用户如果不能自证信息“真实性”，就会面临现在“合法”的打击。</p>
+<p>2、控制和打击民间联络。该法案中对 于用户上网时确认身份的要求，是对网络实名制的法定化。这将大大降低当局的打击成本，也使日常控制变得更加紧密。而身份验证制度能令当局更为便捷地抓取抗 争者之间的内在联系，使民间联络充分暴露在极权监控之下。无疑，这是当局对于未来可能出现的，民间自发的组织化抗争的强力预防和控制。</p>
+<p>3、封锁信息、物理断网的合法化。曾经在新疆地区实施过的长期断网，对于封锁区域信息、控制信息传播、阻断民间联络等目的收到了“良好效果”。该草案一旦通过，全面断网或将有可能出现在全国范围内任何一个地区。而该草案已经将这种非法行为合法化了，暴露出当局对爆发大规模群体抗争事件的可能性已高度担忧，也充分暴露了极权控制民间、强行维稳的野心。</p>
+<p><strong>中国网民的网络安全是弃用墙内应用</strong></p>
+<p>「网络安全法草案」中出现频率最高的一个词条就是「有害信息」，绝大部分的所指应该是政 治反对，包括并不限于「七不讲」中所涉及的内容，还包括中国境内未被中国媒体报道过的维权群体事件、人权案例、政府腐败等信息，都被定义为「负面信息」， 当局认为它们是「有害」的。大陆网民如果通过网络对外媒做相关内容的爆料，会可能被认为是「危害国家安全」。直接阻碍了外媒的信息采集，新闻自由与言论自 由同时跌入冰点。</p>
+<p>很明显。该草案默认了服务主体为中共政权，这里的「国家安全」指的是极权政府统治的安全。对中国网民来说，网络安全是弃用墙内应用，全局代理翻墙。</p>
+<p>这部法律针对的是在中国境内的网络和信息核心技术、关键基础设施和重要领域信息系统及数据，要求它们做到「可控」。这也是外资科技企业比较担心的内容，法案中并没有指明如何执行，是否自身和用户的隐私信息都要与中国政府共享。但中国网民大多明白这其中的道理，「被GFW封锁的网站和应用才是安全的」这一概念早已深入人心。</p>
+<p>维权抗争群体的网络通讯安全意识已有广泛明确，即便在翻墙困难的情况下，已经有很多人号召弃用微信，改用telegram联络。至少目前看来，在所有不用翻墙的社交通讯应用中，telegram是相对比较安全的选择。但据近日消息显示，北京、江苏、黑龙江、广东等多地的维权人士的telegram账号在几乎同一时间里被入侵，入侵IP为：HK59.188.176.102。（图）看来当局已经盯住telegram了，或许也是近来telegram多次遭遇的DDOS攻击的缘由。建议大陆用户更换境外手机号重新注册，并关闭设置中的「允许同步其他设备」按钮，PC端使用终端加密。</p>
+<p>草案中还有针对运营商的条款，规定他们「加强对其用户发布的信息的管理」，要求他们「保 存记录，向有关部门报告」。应该是和前期出现的「约谈十条」管制条例相呼应的。对网民来说，面对的监察，不止来自于网警、网信办、国安委、五毛团队，还包 括大陆境内所有网络公司。足见放弃墙内应用的必要。</p>
+<p>该草案是对近年来全部网络维稳手段的一个总结。抗争时代的来临已被明确。中国当局已经对自身的统治稳定能力深度焦虑，但这正是极权之恶的代价，极权不会改变也无法改变，只能以加深罪恶的方式，大踏步走向灭亡。这部法案的推行就是迈进深渊的一大步。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E7%BD%91%E7%BB%9C%E7%BB%B4%E7%A8%B3%E7%AB%8B%E6%B3%95%E5%BC%BA%E5%88%B6-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%99%A9%E6%A2%A6%E5%8A%A0%E6%B7%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95%E6%97%A5/" target="cdt-mirror">巴丢草｜维权律师大抓捕日</a>
+</h2>
+<p><blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E6%B3%95%E6%B2%BB%E5%9B%BD/">【网络民议】习法治国 </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%B0%8F%E4%B9%96-%E5%A5%BD%E5%A4%9A%E5%BE%8B%E5%B8%88/">小乖 | 好多律师</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E6%89%AB%E8%8D%A1%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%EF%BC%8C%E9%83%91%E6%81%A9%E5%AE%A0%E6%9D%8E%E6%96%B9%E5%B9%B3%E7%AD%8980%E4%BD%99/">博讯｜中国持续扫荡人权律师，郑恩宠李方平等80余人被带走</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%B2%88%E5%8B%87%E5%B9%B3%EF%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%8448%E5%B0%8F%E6%97%B6%E5%86%85%EF%BC%8C%E6%9C%8956%E4%BA%BA%E8%A2%AB%E5%A4%9C%E8%A2%AD%E9%98%9F%E5%B8%A6%E8%B5%B0/">沈勇平：过去的48小时内，有56人被夜袭队带走</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E5%BA%86%EF%BC%9A%E9%BB%91%E8%89%B2%E5%91%A8%E6%9C%AB/">王庆：黑色周末</a></li>
+</ul></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJnnvcLUcAAv9mb.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJnnvcLUcAAv9mb.jpg" alt="CJnnvcLUcAAv9mb" width="500" height=""></a></p>
+<blockquote><p>巴丢草 <a href="https://twitter.com/badiucao/status/619775985651552256">‏@badiucao</a>：#巴丢草 漫画 【大抓捕日】 48小时内超过57位 #维权律师、人权捍卫者被捕、失踪或遭传唤，#习近平 又一次掀起 #维稳 狂潮，疯狂正在在上演。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJtDVodUsAQH3Qi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJtDVodUsAQH3Qi.jpg" alt="CJtDVodUsAQH3Qi" width="550" height=""></a></p>
+<blockquote><p>巴丢草<a href="https://twitter.com/badiucao/status/620163414229282816"> @badiucao</a>：#巴丢草 用漫画声援被捕 #维权律师 及人权活动者，欢迎大家转载散发 #大抓捕日 #Liuxiaoyuan #BlackFriday #China #HumanRights @CDT</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJra7YiUkAA9xQo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJra7YiUkAA9xQo.jpg" alt="CJra7YiUkAA9xQo" width="450" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJrbIiLUYAArv-f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJrbIiLUYAArv-f.jpg" alt="CJrbIiLUYAArv-f" width="450" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJrhlaQUEAEgi74.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJrhlaQUEAEgi74.jpg" alt="CJrhlaQUEAEgi74" width="450" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJr6FwPVEAE0I5D.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJr6FwPVEAE0I5D.jpg" alt="CJr6FwPVEAE0I5D" width="500" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJsFjQlUEAAXHRu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJsFjQlUEAAXHRu.jpg" alt="CJsFjQlUEAAXHRu" width="450" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJsOq7nUkAA2l_B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJsOq7nUkAA2l_B.jpg" alt="CJsOq7nUkAA2l_B" width="450" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJsvKo5UYAAIWjr.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJsvKo5UYAAIWjr.jpg" alt="CJsvKo5UYAAIWjr" width="450" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJs5WP-VEAA_Th5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJs5WP-VEAA_Th5.jpg" alt="CJs5WP-VEAA_Th5" width="450" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95%E6%97%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E8%AE%BF%E9%99%95%E9%80%BE%E7%99%BE%E4%B8%8A%E8%AE%BF%E8%80%85%E8%A2%AB%E6%88%AA/" target="cdt-mirror">法广｜王岐山访陕逾百上访者被截</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8E%8B%E5%B2%90%E5%B1%B1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8E%8B%E5%B2%90%E5%B1%B1.jpg" alt="王岐山" width="550" height="310"></a><p>中纪委书记王岐山／中文网络照片 DR</p></div>
@@ -886,84 +952,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9-%E5%A6%82%E6%9E%9C%E6%9C%9D%E9%B2%9C%E6%9C%89%E8%82%A1%E5%B8%82/" target="cdt-mirror">作家崔成浩 | 如果朝鲜有股市</a>
-</h2>
-<p><p>2028年7月9日晨，平壤，股市开盘前。小崔出了地铁口急忙往股票营业部跑，还差30分钟开盘，得抢个好位置。</p>
-<p>刚一进门，一个急刹，转身回来，朝大厅里悬挂的伟人像恭恭敬敬地三鞠躬，祈求伟人保佑。</p>
-<p>这几天行情不好。司令官要求慢牛，结果一不小心就被朝鲜股监会那帮家伙给整成了疯熊，半个月从5万点直接跌到3万点，崔想把股票卖掉，可每天跌停上几百万手的封单，要把股票卖出去可真是个技术活。</p>
-<p>崔一边擦汗一边赶紧翻看当日的《劳动新闻》，希望能找到点利好，给恐慌的自己一点安慰。</p>
-<p>没有大利好，但有消息说，抓了两个造谣分子。一个是写《4万点才是新起点》的那个家伙，按造谣罪连夜犬决了，因为曾是功勋创作员，用的是比特犬，进口的，痛苦少。另一个倒霉的记者把夫妻吵架跳楼的硬给写成因为股市跳楼，判处扰乱金融秩序罪，熊决。</p>
-<p>一声锣响，开盘了！天那！统统一字跌停！营业部经理赶紧跑上前，使劲拍了拍大屏幕的侧板，屏幕闪了几下，瞬间有红有绿，“又是接触不好。”一旁的老股民嘟囔道。崔买的是朝鲜卫星，军工概念，但没那么幸运，继续一字跌停。</p>
-<p>忽然，营业部里一阵骚乱，几个人民军战士进来踹开大户室的门，把两个家伙拖到外边，任凭他俩怎么大哭求饶，随着“砰砰”两声枪响，世界沉寂了。一个军官走了进来，咬着牙对众股民冷冷说，“这就是非法使用杠杆和恶意做空的下场！”</p>
-<p>一身冷汗！人民军一走，崔赶紧撕毁了营业部经理刚塞过来的50倍杠杆使用协议。</p>
-<p>这时，朝鲜卫星的卖单突然消失了，崔的股票成功卖出去了。“这简直就是个奇迹！感谢天降伟人赐福。”崔心里默念，可更大的奇迹在后面。</p>
-<p>朝鲜卫星的股价又瞬间涨停了！对，一分钟，从跌停到涨停！“简直混蛋！”崔感到受到了愚弄，一阵阵眩晕。</p>
-<p>各个跌停的股票纷纷快速上涨。大屏幕一片红！人群躁动起来。崔也想买，还没琢磨好买什么，结果除了停牌的，全都涨停了，一个也买不着。</p>
-<p>到底是什么惊天大利好，才能让朝鲜所有的股票瞬间涨停呢？</p>
-<p>晚7点，《朝闻联播》里的播音员得意洋洋地播出新闻：“战败国美国昨天再次给予我国500亿美元，作为战争赔偿。受该消息刺激，我国股市全线涨停。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9-%E5%A6%82%E6%9E%9C%E6%9C%9D%E9%B2%9C%E6%9C%89%E8%82%A1%E5%B8%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%BB%B7/?category=18271" rel="tag">股价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D/?category=18271" rel="tag">金融</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E7%89%B9%E5%86%99%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%8B%E6%8C%AB-%E9%87%8D%E4%BC%A4%E5%B0%8F%E8%82%A1%E6%B0%91/" target="cdt-mirror">BBC | 特写：中国股市下挫 重伤小股民</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709012736_lin_jinxia_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709012736_lin_jinxia_624x351__nocredit.jpg" alt="林锦霞和丈夫的投资亏损了一半。" width="500" height="281"></a><p>林锦霞和丈夫的投资亏损了一半。</p></div>
-<p><strong>有着狭窄巷弄、窄小的单间屋，路边摊食物气味扑鼻的上海老城区，在新经济发展的洪流之中渐渐流失，但留存下来的，已足矣维持旧日小区生气勃勃的氛围。</strong></p>
-<p>今年上半年，在店主和摊主之间流传的谣言集中谈论污浊黄河另一侧的上海证券交易所内，有赚钱的好机会。</p>
-<p>“我以前从来没有投资过股市，但我被这些讨论给影响” ，林锦霞说。</p>
-<p>林女士住在和丈夫及四岁的儿子住在七层公寓的顶楼，楼下停满积了灰尘的老旧自行车。</p>
-<p>他们是五年前从自福建省来的民工，透过在店里努力将钮扣卖给光鲜亮丽的服装业者，他们终于存到一笔小钱。</p>
-<p>而就在今年五月，他们在股市内投下了一大笔钱，投资超过20万人民币（约3万2千美元，2万英镑）买了4只股票。</p>
-<p>他们的投资看起来已经够分散风险，选择投资在电子、时尚、汽车销售产业，但他们选了一个糟糕的时机进场。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709012909_small_investors_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709012909_small_investors_624x351__nocredit.jpg" alt="中小型投资者占了中国股市很大一部分。" width="500" height="281"></a><p>中小型投资者占了中国股市很大一部分。</p></div>
-<p>他们的股票市值重挫，来到他们原购买价的一半。林女士和丈夫损失共计10万人民币。</p>
-<p>“我们损失了长久以来努力工作赚来的钱，我们现在只好缩减日常开销，我们赚得不多，这都是我们的血汗钱”，林女士说。</p>
-<p>不同于欧洲或美国市场，在中国，超过80%的投资者人是个体户。</p>
-<p>许多个体户投资人是没经验的新手，他们的决策常是跟着谣言或幻想，所以整个市场可以说是在群众行为之下更脆弱更易变动的。</p>
-<p>中国股市在攀上高峰长达一年以上之后，在今年6月12日，群众突然改变方向，3.2兆美元，几乎三分之一的市值在短短三周内蒸发。</p>
-<p><strong>“我知道股市有危机”</strong></p>
-<p>陈智慧的小裁缝店不容易被找到，就在靠近林锦霞的人行道附近。</p>
-<p>而就和他的邻居一样，他也过于积极的听从曾大发利市的人的建议投入股市，但他没意识到他在一个最糟糕的时间点进场。</p>
-<p>“就我个人而言呢，我知道是有风险在的”，他在狭小的工作坊里边操作纺织机边接受采访。</p>
-<p>他只投资了一支钢铁制造商的股票，花了1万人民币。后来发现他的股票价值比他当初买时下跌了一半。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709012957_chen_zhihui_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709012957_chen_zhihui_624x351__nocredit.jpg" alt="陈智慧说他知道很多邻居都和他一样在股市中赔了钱。" width="500" height="281"></a><p>陈智慧说他知道很多邻居都和他一样在股市中赔了钱。</p></div>
-<p>他的损失还算是相对小的。陈先生知道几乎在这区附近的店铺或家庭，几乎都在股市中赔了钱，或恐怕很快就要赔钱。</p>
-<p>“如果每个人都损失5千人民币，加起来会是一大笔钱”，他说。</p>
-<p>许多分析师解释为何中国政府要积极阻止股市继续下挫。</p>
-<p><strong>经济影响</strong></p>
-<p>一旦中国政府将活跃的股票市场视为策略性转移至消费社会的关键，快速增加的股民对于负债累累的大公司是一项利多，同时也让小股民们觉得自己赚钱了。</p>
-<p>目前中国共产党面临到与计画中相反的可怕前景，随着投资人的钱在股市中蒸发，投资人勒紧裤带减少支出，将可能使中国经济冷却。</p>
-<p>现在中国股市终于面临迟来的退烧，最近大幅贬值的价格依然能稍为令人宽慰的，与长达一年以上的获利相抵消。</p>
-<p>然而近日当局释出的转换措施只是停止情势更加恶化的一部分尝试，或无用的尝试。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709013111_a_man_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709013111_a_man_624x351__nocredit.jpg" alt="男子躺卧在写着国家主席习近平喊出的”中国梦”的广告牌下，牌上写着”实现伟大复兴，就是中华民族近代以来最伟大的梦想”。" width="500" height="281"></a><p>男子躺卧在写着国家主席习近平喊出的”中国梦”的广告牌下，牌上写着”实现伟大复兴，就是中华民族近代以来最伟大的梦想”。</p></div>
-<p>当然这被许多观察家批评是一项对股市而言危险的政治干预。</p>
-<p>但值得争论的是，如果策略奏效股市回升，政府投入的开支也会减少一些。</p>
-<p><strong>是政治而非经济</strong></p>
-<p>有些分析师忽略了一项要素，那就是对于一个成熟的股市崩溃可能引发的更广泛的经济冲击的忧虑。</p>
-<p>“中国股市太小，太互不相干” ，龙洲经讯（Gavekal Dragonomics）中国经济学家陈龙接受访问时表示。”中国股市只占中国家庭开支的5%，而且和去年相比，市场还是上升的”。</p>
-<p>中国股票的价值至少在政府开始表现惊慌之前，都还不算完全被抹杀。所以如果这个观点是对的，北京方面将会依照政治需要而行动，而不是经济方面。</p>
-<p>当前缓速成长的GDP已经让中国经济如履薄冰，政府最不想见到就是大叔大妈级股民因为不满亏损走上街头。目前为止，至少就这一点来看，政府的策略在平抑民怨上还是有点成效。</p>
-<p>虽然林锦霞已承受巨大损失，她仍是计画继续持有手上已经大幅贬值的股票，期望股市回温。她表示，”我相信政府会实施正确的策略”。</p>
-<p><strong>有信心的投资人</strong></p>
-<p>刘长荣是一名餐厅老板，他卖面、猪排和糯米饭，他的店铺就在陈先生的裁缝店附近。</p>
-<p>他要不是精明就是幸运，或两者皆是。”你只需要在对的时间买进”，他说。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150709013158_liu_changrong_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150709013158_liu_changrong_624x351__nocredit.jpg" alt="“当股市回温，我会再进场”，刘长荣说。" width="500" height="281"></a><p>“当股市回温，我会再进场”，刘长荣说。</p></div>
-<p>他确实在正确的时间进场了。他花了20万人民币买进一个中国大集团的股票，并在五月股价快达到高峰前全数卖出。</p>
-<p>他赚进可观的一笔钱，获利超过两倍。</p>
-<p>尽管他的邻居们都在股灾中损失，他仍对政府稳定股市的功能深具信心。</p>
-<p>“当股市回温，我会再进场”，他一边告诉记者，一边将大炒锅放上炉子。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E7%89%B9%E5%86%99%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%8B%E6%8C%AB-%E9%87%8D%E4%BC%A4%E5%B0%8F%E8%82%A1%E6%B0%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C/?category=18271" rel="tag">下跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%BF%83/?category=18271" rel="tag">信心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E4%BB%B7/?category=18271" rel="tag">股价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E6%B0%91/?category=18271" rel="tag">股民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -985,5 +973,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/></td>    </tr>
 </table>

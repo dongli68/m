@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2edpgbyhtzfbp.cloudfront.net">https://d2edpgbyhtzfbp.cloudfront.net</a><br/><a href="https://d246n5z86pd7y0.cloudfront.net">https://d246n5z86pd7y0.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d246n5z86pd7y0.cloudfront.net">https://d246n5z86pd7y0.cloudfront.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2edpgbyhtzfbp.cloudfront.net">https://d2edpgbyhtzfbp.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E7%BD%91%E7%BB%9C%E7%BB%B4%E7%A8%B3%E7%AB%8B%E6%B3%95%E5%BC%BA%E5%88%B6-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%99%A9%E6%A2%A6%E5%8A%A0%E6%B7%B1/" target="cdt-mirror">自由港｜网络维稳立法强制 中国人权噩梦加深</a>
@@ -653,7 +653,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%A6%BB%E5%A9%9A/?category=18271" rel="tag">中国式离婚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%93%E7%BA%A2%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6telegram%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E9%81%AD%E5%A4%A7%E5%9E%8Bddos/" target="cdt-mirror">当红加密聊天软件Telegram亚洲地区遭大型DDoS</a>
 </h2>
@@ -963,7 +963,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -973,5 +973,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://d246n5z86pd7y0.cloudfront.net">https://d246n5z86pd7y0.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://d246n5z86pd7y0.cloudfront.net">https://d246n5z86pd7y0.cloudfront.net</a><br/></td>    </tr>
 </table>

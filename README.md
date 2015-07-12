@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3g98h24c8w86g.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E8%AE%BF%E9%99%95%E9%80%BE%E7%99%BE%E4%B8%8A%E8%AE%BF%E8%80%85%E8%A2%AB%E6%88%AA/" target="cdt-mirror">法广｜王岐山访陕逾百上访者被截</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8E%8B%E5%B2%90%E5%B1%B1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8E%8B%E5%B2%90%E5%B1%B1.jpg" alt="王岐山" width="550" height="310"></a><p>中纪委书记王岐山／中文网络照片 DR</p></div>
+<p><strong>中共肃贪运动主帅王岐山日前出访陕西省榆林市调研3天，为了确保这位中央纪委书记的人身安全万无一失，不但有180个公安全天候护卫，并成功拦截了116个试图向王岐山喊冤的上访者。</strong></p>
+<p>陕西日报旗下的西部法制报对王岐山访陕的安全工作以及拦截访民，都有详细的报导，陕西的杨光报官方微博亦转载了该文，但据明报引述知情人士披露，报导由于涉嫌泄密并对王岐山营造的开放、亲民形象造成不良影响，榆林宣传部门提请陜西宣传部协助，全网删除该文。</p>
+<p>中纪委网站消息，王岐山在陜西调研期间，主持召开部分省区党委书记、纪委书记座谈会。他强调，修订廉政准则和党纪处分条例，要坚持党纪严于国法，实现纪法分开，体现党的先锋队性质，推进全面从严治党、依规治党的制度创新。调研期间，王岐山还专程到榆林市米脂县杨家沟革命旧址参观，到榆阳区金阳社区与党员和群众交流，还考察了榆林生态文明建设情况。</p>
+<p>王岐山前日离开陜西后，中共陕西省委机关报陜西日报主管的西部法制报同日报道了相关的保安细节。陜西的阳光报官方微博亦于前日转载该文。该篇题为《榆横公安分局圆满完成中央首长来榆调研警卫工作》的宣传稿称，在市委市政府、市公安局的直接领导下，榆横分局本着“安全第一、内紧外松”的原则，执行“严之又严、细之又细、确保万无一失”的要求，执行首长驻地周边安全警卫工作。</p>
+<p>报导指，为确保王岐山人身安全及其下榻酒店的保安工作万无一失，榆林市公安局榆横分局局长郭黎平24小时坐镇指挥，将休假的154名警力全部召回，全局逾180名警员全部投入护卫工作。为确保万无一失，警方提前对王岐山一行出行线路、驻地现场等进行实地勘察，对驻地人民大厦内部的所有员工全部进行了政治审查。</p>
+<p>报道又称，王岐山调研期间，先后有榆阳、佳县、横山、绥德、子洲等县区的116人次前来上访，其中个人上访10宗、集体上访7宗。由于被拦截，上述访民因此无法向王岐山陈诉冤情。</p>
+<p>明报报导，依照大陆的安保标准，现任政治局常委、国家主席、副主席、人大委员长、总理、政协主席、军委主席等正国级高官，实行最高级别的一级安保；内卫由中央警卫局的警卫人员（即“中南海保镳”）执行，外围警卫由地方负责。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E8%AE%BF%E9%99%95%E9%80%BE%E7%99%BE%E4%B8%8A%E8%AE%BF%E8%80%85%E8%A2%AB%E6%88%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E6%88%AA%E8%AE%BF/?category=18271" rel="tag">上访截访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E6%B3%95%E6%B2%BB%E5%9B%BD/" target="cdt-mirror">【网络民议】习法治国</a>
+</h2>
+<p><p>【编者注】下文提到的维权律师使用的“电报”即当红加密聊天软件Telegram。巧合的是，Telegram亚洲地区（后扩展至大洋洲）于7月10日起<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%BD%93%E7%BA%A2%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6telegram%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E9%81%AD%E5%A4%A7%E5%9E%8Bddos/">遭到大型DDoS攻击</a>，导致大量用户无法连接至服务器。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%B9%A0%E6%B3%BD%E4%B8%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%B9%A0%E6%B3%BD%E4%B8%9C.jpg" alt="习泽东" width="377" height="500"></a><br><em>（网络图片）</em></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E6%89%AB%E8%8D%A1%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%EF%BC%8C%E9%83%91%E6%81%A9%E5%AE%A0%E6%9D%8E%E6%96%B9%E5%B9%B3%E7%AD%8980%E4%BD%99/">博讯｜中国持续扫荡人权律师，郑恩宠李方平等80余人被带走</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%B0%8F%E4%B9%96-%E5%A5%BD%E5%A4%9A%E5%BE%8B%E5%B8%88/">小乖 | 好多律师</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%B2%88%E5%8B%87%E5%B9%B3%EF%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%8448%E5%B0%8F%E6%97%B6%E5%86%85%EF%BC%8C%E6%9C%8956%E4%BA%BA%E8%A2%AB%E5%A4%9C%E8%A2%AD%E9%98%9F%E5%B8%A6%E8%B5%B0/">沈勇平：过去的48小时内，有56人被夜袭队带走</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E5%BA%86%EF%BC%9A%E9%BB%91%E8%89%B2%E5%91%A8%E6%9C%AB/">王庆：黑色周末</a></li>
+</ul></blockquote>
+<p><strong><a href="http://news.sina.com.cn/c/2015-07-11/234732098086.shtml">北京锋锐律师事务所被查揭开“维权”黑幕</a></strong></p>
+<blockquote><p>办案民警介绍，遇有敏感案事件，这些“死磕”律师在庭内、网上公开对抗法庭，并幕后指使挑头滋事骨干组织访民在庭外、网下声援滋事，内外呼应，相互借力，成为炒作敏感案事件的直接推动力。[…]</p>
+<p>“<strong>‘电报’主要用于组织串联，里面的言论基本都是攻击党和政府的。</strong>”翟岩民供述，“我们在里面策划、组织各种声援活动，可以设定时间删除图片和文字，就是不想让政府知道。”[…]</p>
+<p>对于锋锐所律师代理炒作案件的做法，多名犯罪嫌疑人将其描述为“新、奇、特”：</p>
+<p>新，就是要有新思路，让律师不要像以往那样按照法律程序走。“在公安机关听警察的，在法庭听法官的，他们说什么是什么、不敢反抗，那样是不行的。要强势一些，不要听他们的，按照自己的意愿来处理。”周世锋曾这样告诉翟岩民。[…]</p>
+<p>特，就是用一些特别的方式，例如，在网上网下声援炒作围观他们代理的案件；举报、投诉主审法官、办案民警和当地官员，号召网民对他们人肉搜索，给他们施压；组织案件当事人、亲友以及不相干的人围攻政法机关，以此向政法机关施压，达到在正常法律制度内无法达到的代理效果。[…]</p>
+<p>“我们的行为严重扰乱了社会秩序，造成了交通堵塞等严重的社会混乱；错误引导了很多不明真相的群众，让他们对政府产生不好的印象，甚至也要参与进来；给其他一些别有用心的人提供了炒作的机会，达到他们丑化政府形象以及更多不可告人的目的。”翟岩民说。[…]</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>宋洪昌律师：看完整篇报道，还不知道是涉嫌什么罪。</p>
+<p>长空片云：赶紧把律师抓完，下一步抓不听话的记者，没人、没地儿制约你们了，你们就能千秋万代一统江湖了。加油。</p>
+<p>AKTulip：“主管官员被诋毁”，这个定性好，剧情瞬间反转。还被贪污、被受贿、被通奸、被包养女主持人、被强奸幼女、被谋杀外国人……还反腐干嘛，要坚决保护弱势官员合法权益啊</p>
+<p>百花缭乱閑散人：质疑就要被抓？好伟大的中国梦！</p>
+<p>大风刮刮刮刮：这就是法治社会？别把群众的牙笑掉了…</p>
+<p>两笑生：炒作是什么罪？</p>
+<p>iamFA：法院还没判呢就电视上开始了，呵呵，依法治国</p>
+<p>林宇轩不是林增锚：习法治国</p>
+<p>两笑生：这里是CCTV法庭，这里是CCTV法庭，现在为大家播报无需审判直接决定的结果…</p>
+<p>偶尔妥协不失本心：白色恐怖，再现。一言堂</p>
+<p>执著7799：合不合法，你自己说了算</p>
+<p>晚睡星人-_-：反正你们的政府说什么都是对的</p>
+<p>小偶l：觉得处理得好的人，拜托告诉我，即使按报道来看，这些人到底犯了什么罪做了什么恶？</p>
+<p>梦中包子：臭不要脸的依法治国。</p>
+<p>Christinez：老百姓有冤情找谁做主呢？</p>
+<p>飞鹰城堡：央视和人民日报说的话我还真不信！！！！</p>
+<p>叽叽咕咕小恶魔：国外法院门口，经常有人拉布条，也没见怎么着啊[笑cry]和谐社会就是只允许我说，不准你说！</p>
+<p>狂爱莎娇：看以后谁还敢维权！维权的全都是有组织的滋事！</p>
+<p>默默普京：你们判的几个案件经的起推敲吗，经的起历史检查么，真特么拿脸当屁股用，几个律师就可以颠覆国家颠覆政权，这样的国家政权烂到什么程度了？</p>
+<p>天下最穷：辨的过就辨，辨不过就抓！！！</p>
+<p>面朝大海VVV：独裁者利用媒体摸黑法律师。</p>
+<p>星际灰小妹：黑化律师、打压公民社会，这就是贵党为人民做的好事？</p>
+<p>PORUINN：经过政府大力打击，从此国民过上了国泰民安，天天新闻联播般的美好生活。</p>
+<p>huang龙儿：把评论都留着，别删哈。依法治国都治到家了</p>
+<p>Y你好尹天仇Y：道理我都懂，为什么要删评论[doge][doge]</p>
+<p>V道非常道：我见过不要脸的，没见过这么不要脸的，对这届报希望的是SB，对下届报希望的是大SB。</p>
+<p>南京一淘：试想一下，如果最后一扇门也关闭了，闷在里面的人要出来，唯一可以选择的只有暴力。这是得到历史无数次验证的结果，不管统治阶层多么强大。</p>
+<p>橙云Cloud：公布完整视频，这些律师不就炒作不了吗。</p>
+<p>娜宝贝的磨人的老妖精：看下这些小号都是什么样的～<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/8fdf4912jw1etzy65cpccj20f00qodi1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/8fdf4912jw1etzy65cpccj20f00qodi1.jpg" alt="8fdf4912jw1etzy65cpccj20f00qodi1" width="375" height="666"></a></p>
+<p>军师巷：不舔官府罪，应该是这个罪名吧</p>
+<p>普兰杰：尼玛个逼，不反思自己，黑律师。维权有错吗？ 等你们自己纠错，不是痴人说梦？</p>
+<p>davinic1：包子 腊肉 傻傻分不清楚</p>
+<p>千里眼168168：中华现毛魔习妖，国之不幸，民之不幸。</p>
+<p>隔壁老John：下次删评论时候能全删了吗？不要只把反对批评的声音删掉 只留下支持根恶心的跪舔</p>
+<p>青花布衣：自己脸上有屎自己不擦，反而打骂试图擦屎的人，要脸么还？</p>
+<p>幸福老巴布：建议发良民证吧，胆敢不唱赞歌者，剥夺良民资格，贬为贱民，剥夺政治权利终身。</p>
+<p>普兰杰：尼玛个逼，不反思自己，黑律师。维权有错吗？ 等你们自己纠错，不是痴人说梦？</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E6%B3%95%E6%B2%BB%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">和谐社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E6%89%AB%E8%8D%A1%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%EF%BC%8C%E9%83%91%E6%81%A9%E5%AE%A0%E6%9D%8E%E6%96%B9%E5%B9%B3%E7%AD%8980%E4%BD%99/" target="cdt-mirror">博讯｜中国持续扫荡人权律师，郑恩宠李方平等80余人被带走</a>
 </h2>
 <p><p>博讯报道，7月11日下午，上海郑恩宠律师被警方带走并被抄家。身居上海的刘士辉律师也于11日下午被国保带走，羁押在浦东新区合庆派出所。11日晚上7 点许，北京李方平律师被江西萍乡市安源区凤凰派出所警察带走，去向不明。11日晚21：20分，广东葛永喜律师被南海黄岐派出所警察带走。11日深夜，广 东葛文秀律师被国保带走,广东王全平律师拒写保证书，被送往看守所。</p>
@@ -883,67 +964,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E8%82%A1%E7%81%BD%E6%9C%83%E5%BC%95%E7%99%BC%E5%B0%8D%E5%A4%96%E6%88%B0%E7%88%AD%E5%97%8E/" target="cdt-mirror">东网｜吳戈：股災會引發對外戰爭嗎</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/bkncn-20150709000317405-0709_05411_001_01p.jpg" alt="bkncn-20150709000317405-0709_05411_001_01p" width="549" height="392"></p>
-<p>近日的股災，使中國公眾的危機感陡增。如果因此引發金融乃至全面經濟危機，以中國當前局面之脆弱，完全可能有更大危險。重大危局之下，當局是否會利用戰爭轉移和轉嫁危機，引人關注。</p>
-<p>當然，按正統理論，這樣的舉動往往是法西斯獨裁專制政權所為，怎麼能類推到偉大的祖國。不過還真不怪憂慮者們認不清社會主義制度以捍衞世界和平為己任的本質，就在這次股災中出現的大量歸罪於美帝國主義陰謀做空中國，阻擊中國發展的言論，官方色彩可一點不輕，號召公眾站在保國運的高度入市為國護盤，也儼然已是一場對外金融戰。</p>
-<p>循此邏輯，最終金融戰失敗，中國經濟亡於帝國主義陰謀暗算，中華民族難道就坐以待斃？以經濟手段制造中國崩潰，難道不是政治？作為政治的延續，戰爭難道就是說說而已？</p>
-<p>實際上，中國並不乏清醒者，他們正全力揭露這種陰謀論。然而，能做出這樣的栽贓，顯然已不打算遵循正常的邏輯。無邏輯、卻還有強大武力的力量對外孤注一擲並非不可能。因而我們也需要密切關注任何跡像。</p>
-<p>最近的跡像，當屬股災爆發不久的7月3日，南京軍區司令員蔡英挺、政委鄭衞平在《人民日報》發表《深刻汲取抗戰勝利歷史經驗，把軍事鬥爭準備抓得更加扎實有效》一文。其中，中國「家門口生亂生戰可能性增大」一語立刻引發聯想。</p>
-<p>還好，應當看到，這半句話的前提是「當前，我國周邊領土主權爭端、大國地緣競爭、民族宗教矛盾凸顯，周邊熱點問題升溫」，還是描述的宏觀背景和客觀形勢而非具體戰爭陰雲。</p>
-<p>事實上，即使宏觀背景如此，中國周邊最近的形勢也暫時沒有衝突的可能。台、日均無刺激性情勢；南海緊張繫中國積極改變現狀引發，在美國施壓下已暫時收斂；菲律賓向國際海洋法法庭提起的「九段線」訴訟結果也不至引發衝突；已進入阿富汗的IS勢力也還未直接在新疆生事。</p>
-<p>當然，這篇文章除了大段的八股，也依稀可見其它信號。</p>
-<p>比如，從江時代的「軍事鬥爭準備」到當前「時刻準備打仗」的提法，已是中共自90年代以來保持戰爭選項，對外尋求威懾，以及突出軍隊地位的慣用詞彙，並不等於真正的戰爭意圖；</p>
-<p>「認清國家安全形勢」、「富國與強軍相統一」和「中國夢蘊含強軍夢，強軍夢支撐中國夢」等提法倒是習時代的新詞，也的確體現當朝對形勢的危機感、對軍隊的高度倚重，以及高度強調軍事力量支撐民族主義（「找回民族自尊自信」、「建設強國軍隊、一流軍隊」），以民族主義支撐政權的意識，還能觀察到中共已將軍力建設上升到與經濟建設幾乎同等的地位；</p>
-<p>文中還有「必須認清國際競爭『叢林法則』」一語。「叢林法則」本是中國外交界對西方國際關係理論中弱肉強食的批判，但被中共關鍵戰略方向高級將領正面使用，很可能暗示著中共在內部並不看好和平的制度競賽，而是認定中國和發展將與現行世界秩序對撞，必須準備以武力一搏。</p>
-<p>這些，當然都是潛在的戰爭風險。</p>
-<p>不過，此文儘管強調「習主席圍繞創新和發展軍事戰略指導的一系列重要論述」，在具體的戰爭準備上仍然只有諸如「落後就要挨打、發展才能自強」、「打贏信息化局部戰爭」、「抓好實戰化軍事訓練」、以「革命理想」、「愛國主義和革命英雄主義」和「生死觀教育」塑造「戰鬥意志和作風」，以及「陷敵於（『人民』二字竟然被漏掉）汪洋大海之中的人民戰爭」等陳舊的概念和方法。</p>
-<p>而「我國當前進入從陸權國家向陸權海權兼備國家邁進的關鍵階段」一語則莫名其妙。中國強調海權已多有時日，2014年底習就提出了「海上強國」的目標，只是經過一番挑戰美國的試探，到近來的「一路一帶」戰略已明顯迴避了向東部戰略方向突破的難題，轉而向內陸尋找機會，此時南京軍區提一提「陸權海權兼備」無非也只是在理論上冒進、回縮、再修正而已。</p>
-<p>最後，文中「積極營造有利戰略態勢」、「把預防危機、遏制戰爭、打贏戰爭統一起來」的措辭，才真正暗示，當前中共並不大可能主動挑起與以美國為首的一系列主要對手衝突。</p>
-<div>當然，在重重危機連接惡化的形勢下，主動衝突的可能當然將明顯增大，但也還需要國際和地區形勢的配合。鑒於釣魚島等維權對峙中平靜局面的脆弱，中共在理論上存在以渲染日美敵意，再尋機擦槍走火機會的可能。</div>
-<p>只是，這到底意味著經濟危機迎刃而解，還是更大的危機全面爆發？國內多年積累的民族主義仇外情緒已成政權幾乎唯一的支柱，如果這種狂熱遭遇軍事挑戰的失敗，會不會像義和團一般轟然崩塌並累及大局，實難預料。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E8%82%A1%E7%81%BD%E6%9C%83%E5%BC%95%E7%99%BC%E5%B0%8D%E5%A4%96%E6%88%B0%E7%88%AD%E5%97%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%B4%E8%B7%8C/" target="cdt-mirror">纽约时报｜中国股市为什么暴跌</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/07UP-China-articleLarge.jpg" alt="07UP-China-articleLarge" width="550" height="389"></p>
-<p>尽管国际社会目前都在关注希腊危机，但人口为希腊123倍的中国，也面临着金融问题。中国股市的暴跌，可能会威胁这个世界第二大经济体的繁荣，并带来长期影响。</p>
-<p>不过，数据表明，或许股市的暴跌——四周内跌了26%——与其说是一个令人震惊的转折，还不如说是对市场一次不可避免的调整。这个市场存在许多金融泡沫的典型特征。</p>
-<p>近年来，投资股市已经成了一种中产阶级游戏，而且中国政府明显担心，股市持续下跌会导致国民财富蒸发，不满情绪积聚。为了避免股市崩盘，中国政府已经出台了一系列政策：降息、利用政府的养老基金来扶持股市，并宣布了对做空者进行调查的计划。</p>
-<p>然而数据表明，目前的市场下跌并不像中国政府想象的那么异常。2014年末，上证指数开始上涨，从去年7月初到6月8日的高点，共上涨151％。</p>
-<p>图表显示，人们很容易就会把市场数据想象的要么很可怕，要么很良性，完全取决于你的倾向。“中国股市一个月跌了26%”的说法很可怕；“中国股市过去一年涨了83%”听起来非常不错。这两种说法都对。</p>
-<p>从这个层面而言，上个月有损失的人，就是那些在过去几个月里投资中国股市的人，他们希望参与到似乎正在飞速上涨的股市。任何已投资股市超过数月的人都没有任何问题，至少目前如此。</p>
-<p>事实上，如果把观察的时间范围稍微扩大，就会知道中国股市过去一年所经历的动荡并非那么不寻常。长期来看，股价波动一直较大，2010年到2013年处于相对平稳上涨的状态。</p>
-<p>我们来看看过去10年的上证指数，以2005年6月的水平为基础进行比对，再与全球股指进行比较。与世界其他地方相比，中国股市在2007年的飞速发展、2008年的暴跌，以及2009年到2010年重新上扬期间经历过更大的震荡。而且从百分比来看，这些震荡比近期的波动更严重。中国股市的剧烈震荡或许会给中国储户带来损失，但它们不一定会像2008年的美国次贷危机和2011年的欧洲债务危机那样，对世界经济造成影响。</p>
-<p>为何会出现如此剧烈的震荡？因为与金融市场更发达的国家相比，中国股市仍不完善。许多最强的中国企业都选择在香港或纽约上市，而那些在中国上市的企业则很可能在商业模式、审计和企业管理方面存在问题。</p>
-<p>所以，这便促使人们对中国股市的态度在极度乐观和极度悲观之间迅速转变。对于那些在近期的股市暴跌中损失储蓄的个人投资者，这并不能缓解他们的痛苦；但是它却为这样一种观点提供了支持：他们有必要了解自己所承担的风险。</p>
-<p>但是基本原则如何？中国股票是否正在跌到一个相对于它们的收益和增长率而言比较正常的价格，还是已经失控，还会进一步下跌？</p>
-<p>仅仅一年前，中国股价看起来还比较合理，市盈率在10左右。这就是说，如果一名投资者用大概每股10美元的价格购买一只股票，每年就能获得1美元每股的收益。相比之下，去年夏天同一时间，美国股市投资者要支付每股17美元，才能获得1美元的收益。</p>
-<p>但是，中国股价从2014年末开始急剧上升，同时收益却没有增加。股价之所以上涨，是因为投资者愿意为同样的回报付更多的钱。</p>
-<p>6月初，上证指数的市盈率已升至近26。也就是说，现在获得一年前10美元的成本所带来的收益，需要这些股票投资者投入26美元。从那时起，股价开始下跌，市盈率随即变为19，仍然比美国股市高出一些，但是比仅仅一年前中国股市的估值高出了许多。</p>
-<p>中国股市有理由得到比较高的估值。如果你期待自己购买了股票的公司会随着时间流逝变得更加挣钱——也就是说它们将迅速发展——为1美元的收益支付19或26美元是非常说得通的。毕竟，这1美元可能很快就会变成2美元，然后变成4美元。</p>
-<p>但是，在这些公司试图增加收益的过程中，整个经济背景也值得一看。</p>
-<p>10年前，中国经济在以10%到12%的速度增长，这种环境对企业利润的迅速增长有利。中国的经济增长率一直在稳步下跌，最近已经降到了7%。中国一直在试图对经济进行调整，希望增加消费对促进经济发展的作用，并减少住房、基础设施建设和进口的影响力，但这是一个艰难的过程。</p>
-<p>换而言之，尽管经济增速放缓，相对于收益，股市估值仍然过高。此外，从2014年7月到2015年6月，很难看到中国经济状况或政策中发生过什么改变，可以很好地解释股市在最近的暴跌前出现的暴涨。</p>
-<p>把这些片段拼凑起来，就能得出以下结论：中国股价去年的上涨似乎在更大程度上与投资者的心理、而非任何实质情况有关。很难认为一个月前的股价是合理的，但是很好理解上个月为何会发生抛售股票的现象。</p>
-<p>所以这反过来又能说明，中国官员通过出台一些政策来阻止这种调整过程，其实是在进行一场非常艰难的战斗，而且这也能解释他们的政策举动目前为何会收效甚微。</p>
-<p>中国当前的问题——对于世界经济也是一样——就是中国股市还要下跌多少，以及——不论这种下跌是否合理——会造成多大的负面影响。</p>
-<p>翻译：陈柳</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%B4%E8%B7%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -955,7 +975,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3g98h24c8w86g.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -965,5 +985,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3g98h24c8w86g.cloudfront.net">https://d3g98h24c8w86g.cloudfront.net</a><br/><a href="https://d32d8rxiljy7vy.cloudfront.net">https://d32d8rxiljy7vy.cloudfront.net</a><br/><a href="https://d37qhlrpv0rr67.cloudfront.net">https://d37qhlrpv0rr67.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>

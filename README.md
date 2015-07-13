@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1lnszqt9ilz2d.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/><a href="https://d3btv4ofdp8g62.cloudfront.net">https://d3btv4ofdp8g62.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://de05wsbc62ea7.cloudfront.net">https://de05wsbc62ea7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/><a href="https://d3btv4ofdp8g62.cloudfront.net">https://d3btv4ofdp8g62.cloudfront.net</a><br/><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B8%AF%E5%8E%BB%E5%B9%B4%E9%80%BE30%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E9%81%87%E8%A2%AD%E5%AE%89%E5%85%A8%E5%A0%AA%E8%99%9E/" target="cdt-mirror">自由亚洲 | 港去年逾30记者采访遇袭安全堪虞</a>
@@ -231,7 +231,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">颜色革命</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8C%AB%E7%9C%BC%E7%9C%8B%E4%BA%BA%EF%BD%9C%E6%B1%9F%E5%B9%B3%EF%BC%9A%E5%85%AC%E6%9D%83%E5%8A%9B%E4%B8%8D%E8%83%BD%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E6%8A%93%E5%BE%8B%E5%B8%88/" target="cdt-mirror">猫眼看人｜江平：公权力不能动不动就抓律师</a>
 </h2>
@@ -969,5 +969,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://de05wsbc62ea7.cloudfront.net">https://de05wsbc62ea7.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a><br/><a href="https://d3btv4ofdp8g62.cloudfront.net">https://d3btv4ofdp8g62.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://de05wsbc62ea7.cloudfront.net">https://de05wsbc62ea7.cloudfront.net</a><br/><a href="https://d3btv4ofdp8g62.cloudfront.net">https://d3btv4ofdp8g62.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>

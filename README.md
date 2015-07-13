@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://d246n5z86pd7y0.cloudfront.net">https://d246n5z86pd7y0.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2edpgbyhtzfbp.cloudfront.net">https://d2edpgbyhtzfbp.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d246n5z86pd7y0.cloudfront.net">https://d246n5z86pd7y0.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E7%BE%A4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE-%E6%8A%B5%E5%BE%A1%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/" target="cdt-mirror">美国之音｜习近平参加群团工作会议 抵御敌对势力和“颜色革命”</a>
+</h2>
+<p><p> </p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/05/121120050049_cn_xi_jinping_640x360_gettyimages.jpg" alt="中共要求各级党校、行政学院、干部学院学习习近平讲话读本" width="550" height="309"><p>中共要求各级党校、行政学院、干部学院学习习近平讲话读本</p></div>
+<p>中共总书记习近平 （资料照片）</p>
+<p>北京—中共中央最近在北京召开了首次党的群团工作会议，在中国共产党的历史上这是第一次。习近平以中共总书记、国家主席和军委主席的身份出席会议并发表讲话。习近平称群团工作的核心是最大限度地把人民群众团结在党的周围，打造抵御敌对势力和“颜色革命”的铜墙铁壁。</p>
+<p>中国特色</p>
+<p>群团组织是一个中国特有的名称，是“群体性社团组织”的简称，在海外一般称之为ＮＧＯ，也就是非政府组织。不过，中国的ＮＧＯ有名无实，因为中国的工青妇等很多ＮＧＯ实际上是官办的，工作人员和党和政府机关的公职人员相同。</p>
+<p>根据新华网７月９日全文发布的《中共中央关于加强和改进党的群团工作的意见》，“中国的群团组织在编制、工资待遇和党政机关相同，主要包括共青团、妇联、工会、工商联、残联、文联、关工委等，是党联系群众的桥梁和纽带”。</p>
+<p>与官办的社团组织相比，民间的非政府组织既缺乏先天的组织优势，又受到当局多方的限制和管理。北京文化遗产保护中心是一家致力于保护中国文化遗产的民间公益组织，其创始人何戍中此前曾对美国之音记者坦言，中国的民间NGO目前力量太弱小，这是它们无法完成很多工作的根本原因。</p>
+<p>何戍中说：“最好的期望是NGO是现在的十倍、一百倍，那是最好的。但即使是现在的状况也拆不了，社会底层的力量在起来，我们现在最着急的是本身的力量不够，包括现在最糟糕的天气，如果环保NGO的力量是现在的十倍，那天气肯定比现在要好。”</p>
+<p>高度打压</p>
+<p>这份近万字的文件指出，中共所谓“群团工作”的核心是打造抵御国内外敌对势力干扰破坏和“颜色革命”的铜墙铁壁。</p>
+<p>在东欧发生“颜色革命”以及中东“茉莉花运动”之后，中共对中国国内ＮＧＯ的打压，到达了前所未有的高度。很多在江泽民和胡锦涛时代能够正常活动的非官办的非政府组织和活动人士，如女权运动组织、新公民运动负责人许志永博士、防治艾滋病的爱知行研究所等组织，其网站被关闭，机构被取缔，一些负责人甚至被逮捕和判刑.</p>
+<p>中国近代史学者章立凡认为，中国政府想靠群团工作控制社会没有意义，因为NGO的出现是社会的需求，不可能被消灭。</p>
+<p>他说：“靠群团工作来控制社会，把NGO看成是颜色革命的策源地，用群团工作来抵抗民间组织，这是没有意义的，一个是你的系统本身变质了，NGO的出现是社会有需求才出现的，所以你想消灭是很困难的。”</p>
+<p>鉴于非公有制经济在中国社会中所占比例越来越大，中共这份关于群团组织的意见还提出了加强群团工作的一些具体措施：比如工会、共青团、妇联等群团组织要重点向私营企业和合资企业延伸，加强在农民工、自由职业者等群体建立组织体系。此外，中共还提出要加强高等学校群团组织建设。</p>
+<p>维稳要务</p>
+<p>《纽约时报》 在专访美国知名中国问题专家沈大伟的报道中问道：“在习近平的领导下，中国共产党针对异见人士、独立公民组织以及大胆前冲的新闻媒体发起了强大的攻势。从目前来看，政府似乎消灭了许多潜在的批评或反对声音的来源，也没有引发什么严重后果。你认为这种情况会发生改变吗？”</p>
+<p>沈大伟教授回答说，“如果（中共的打压）行动开始松懈，中共的体制就会迅速瓦解。但就目前来看，我发现我所说的‘打压机构’相当强大，有效地开展工作。这对中国来说并非幸事，但现实就是如此”。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E7%BE%A4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE-%E6%8A%B5%E5%BE%A1%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">颜色革命</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8C%AB%E7%9C%BC%E7%9C%8B%E4%BA%BA%EF%BD%9C%E6%B1%9F%E5%B9%B3%EF%BC%9A%E5%85%AC%E6%9D%83%E5%8A%9B%E4%B8%8D%E8%83%BD%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E6%8A%93%E5%BE%8B%E5%B8%88/" target="cdt-mirror">猫眼看人｜江平：公权力不能动不动就抓律师</a>
 </h2>
 <p><p>2015年7月12日，在<a href="http://blog.sina.com.cn/lm/z/sakura/" target="_blank">京都</a>律师事务所二十周年年庆主题《<wbr></wbr>依法治国与律师使命》的主题下，<wbr></wbr>中国政法大学终身教授江平发表演讲：</p>
@@ -831,59 +859,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/" target="cdt-mirror">博客天下 | 你知道张召忠将军有多努力吗？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/U11682P1DT20150710120625.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/U11682P1DT20150710120625.jpg" alt="U11682P1DT20150710120625" width="550" height="415"></a></p>
-<p>撰文：李蓓</p>
-<p>根据澎湃新闻网的报道，军事专家、海军少将张召忠已正式退役。</p>
-<p>1952年出生的张召忠将军已经63岁，是一位长者了，一般来说副军职干部要在60岁退休，不过在2012年，张召忠在接受有关媒体采访时就表示自己“已经到了退休年龄，组织上特批延长服役期”。</p>
-<p>不少人不喜欢他，叫他“局座”，叫他“张哈夫”，认为他影响了电视机的可观赏性。但你不得不承认的是，他是近20年来知名度最高的现役军人，没有之一。</p>
-<p>是什么让他如此成功，让我们一起复盘一下张将军的成名之路吧。</p>
-<p><strong>忠诚和大长腿</strong></p>
-<p>张召忠出生在河北沧州盐山县，沧州是个富有尚武精神的地方，按照张召忠自己的说法是“伴着泥土的芬芳读完了小学、中学和机电中专”，然后参军，他在山里当海军，搞导弹。</p>
-<p>在1966年到1970年之间，上中专和参军需要成分好，获得基层推荐，以及政审。</p>
-<p>这是忠诚，也是他后来一直所主张的优秀品质。</p>
-<p>张将军的身高181CM，在当时看来是非常魁梧的一条大汉，所有的部队首长都喜欢这样的兵。1974年，张召忠被送去北大学阿拉伯语。张将军没有参加过高考，他是工农兵学员。</p>
-<p>他曾回忆说，北大招生人员看中，“这小伙长得挺帅，个儿也挺高，说话挺利索，去当外交官吧”。</p>
-<p>虽然优秀，但张召忠没有引发清华和北大的招生人员的反目。</p>
-<p><strong>在校医院做手术的人</strong></p>
-<p>张召忠被招进了北京大学阿拉伯语专业。</p>
-<p>而在学习过程中张召忠为发不出颤音而烦恼，经过咨询校医院医生，他决定在舌头根部动手术。“我原来是学理工的，突然让我来学外语，这是党交给我的任务，我不能好好完成这个任务的原因是舌头，那我就解决舌头的问题。”</p>
-<p>敢把发声器官交给校医院医生，足见勇气。今天的很多主持人因为普通话不达标只能离开主持岗位，不能突破自己好好学习普通话，和张将军相比真是不够努力了。开刀学出来的能耐，一定是真能耐。</p>
-<p><strong>涨粉之道</strong></p>
-<p>1992年，在央视《军事天地》的《三十六计古今谈》系列节目中张召忠首次出现在观众的视野中。</p>
-<p>和《孙子兵法》不同，《三十六计》是最典型的草根军事学，换句话文言文说，LOW。</p>
-<p>但是张召忠仍然加入了这个栏目，这成为他央视生涯的起步。和高傲地混迹于学院中的学者相比，亲近媒体，抓住大众，成了他的制胜之道。日后他的影响力几乎覆盖了所有的40~60岁的男性，而这批人是最有价值的商业用户，如果放开现役军人接广告的限制，张将军可能将成为一位富有魅力的白酒、药厂、保健品的代言人。</p>
-<p>已经退休的将军在这些领域很可能大有可为。</p>
-<p>测不准也并不灰心</p>
-<p>张召忠在伊拉克战争时曾经认为，美军将会陷入萨达姆组织的一场人民战争的海洋当中，但很快萨达姆政权崩溃，本人也被抓判处了绞刑。</p>
-<p>从此被网友戏称为“战略忽悠局局长”。在朝鲜发射光明星3号卫星时，张召忠预测“成功率在80%以上”，结果火箭升空后两次爆炸裂为20余块。</p>
-<p>但是张召忠并没有因此崩溃，他仍然勤勤恳恳地在央视出勤，讨论着下一个老朋友的命运。《历代鸡汤大全》说得好，威灵顿被拿破仑打败好多回，看见蜘蛛执着织网，特别努力，终于成功了。</p>
-<p><strong>他从来没有回骂或者起诉网友</strong></p>
-<p>张召忠说过：“我特别喜欢别人骂我……有的时候别人骂你是看得起你，所以说只要是网上批评我的话，我都要看。我已经到了死猪不怕开水烫的地步了。”</p>
-<p>无独有偶，相声行里的规矩是，如果提到一个同行，哪怕说他不好的事情，挖苦他，那也是“砸挂”，是替朋友传名。</p>
-<p>而对于网友对他“忽悠局局长”的称呼，张召忠认为自己的评论是在有学术功底并且尊重事实的情况下把复杂的东西“忽悠”成简单的话，“这与赵本山小品里把假的忽悠成真的是不同的。”</p>
-<p>在央视出场了23年，张召忠同志从来没有起诉过“把他批判一番”的网友，也没有去找人家的单位领导，更没有开口回骂过。这人不会真的angry。</p>
-<p><strong>将军一贯高度重视仪表</strong></p>
-<p>张召忠三七偏分微微隆起的发型也成了他形象的一个标志。也有人问过他为了保持这个发型每天要打多少发胶，却被他以“当翻译时就非常注重仪表”扯开了话题。</p>
-<p>自出道以来，局座的造型基本上是由自己打理，化个全妆下来也不过4、5分钟，局座也承认自己化妆技术非常纯熟，“我化了妆跟没化是一样的”。</p>
-<p>此外尽管已经年过六旬，181CM的张将军一直保持着76KG左右的上等兵体重，这和许多刚提副处或者营销副总就已经腰围失控的男性朋友相比，简直不知道高到哪里去了。</p>
-<p><strong>越来越会谈笑风生</strong></p>
-<p>随着时间的推移，张将军气质上是越来越从容，也有许多网友感叹，“局座这些年越来越帅了”。</p>
-<p>“一开始做节目时是别人写稿子我来背，那个时候心里没底。而现在，你需要什么东西尽管拿。”张召忠作出从肚子里拿东西的手势，“这就是腹有诗书气自华”。</p>
-<p>郭德纲也曾经就“如何判断说相声的实力”提出过一个标准：像聊天似的，特别慢，都是好演员。而打了鸡血似的，高声大嗓喊口号，一定是他没水平。</p>
-<p><strong>热力学上有些新突破</strong></p>
-<p>在讲到红外遥感卫星时，他说“零下700度以上的物体都能被观测到。”颠覆了绝对零度是-273℃的这一物理常识，但周星驰引用爱因斯坦的那句话说得好：想象力比知识更重要。</p>
-<p>这样一位努力的将军，会就回家抱孙子了事吗，恭亲王奕?跟慈禧太后吵架的时候说得好，您革得了我的王位，革不了我的皇子。</p>
-<p>同样，一位深沉地为中国和各国老朋友思考，担忧人类命运、还热爱媒体事业的人，可以脱下军装收起将军军衔，但教授是永远的教授，思想家是永远的思想家，老朋友是永远的老朋友，局座是永远的局座。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BC%A0%E5%8F%AC%E5%BF%A0%E5%B0%86%E5%86%9B%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81%E4%BA%BA/?category=18271" rel="tag">主持人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8F%AC%E5%BF%A0/?category=18271" rel="tag">张召忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%A0%B9/?category=18271" rel="tag">草根</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -905,5 +880,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://d2edpgbyhtzfbp.cloudfront.net">https://d2edpgbyhtzfbp.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d246n5z86pd7y0.cloudfront.net">https://d246n5z86pd7y0.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://d2edpgbyhtzfbp.cloudfront.net">https://d2edpgbyhtzfbp.cloudfront.net</a><br/></td>    </tr>
 </table>

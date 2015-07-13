@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhkrvhow3t86l.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,155 @@
                 <td></td>
                 
         
-        <td><a href="https://dhkrvhow3t86l.cloudfront.net">https://dhkrvhow3t86l.cloudfront.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/><a href="https://d167zo4rk7pyrg.cloudfront.net">https://d167zo4rk7pyrg.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d167zo4rk7pyrg.cloudfront.net">https://d167zo4rk7pyrg.cloudfront.net</a><br/><a href="https://dzxmgoz6q56na.cloudfront.net">https://dzxmgoz6q56na.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%B0%E5%A2%83%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%80%A7%E4%BE%B5%E9%98%B4%E5%BD%B1%E4%B8%8B%E7%9A%84%E6%9D%91%E5%BA%84/" target="cdt-mirror">新京报 | 留守儿童困境调查：性侵阴影下的村庄</a>
+</h2>
+<p><p><strong>农村留守儿童目前至少有6102.55万。占农村儿童37.7%，占全国儿童21.88%。20多年来，进城的农民工们贡献了飞速现代化，被迫留在乡土的孩子们，却成了这一宏伟进程的被忽视者。在故乡留守甚至流浪，他们成了悲剧主角，自杀、被性侵、误入歧途……</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/024A324A09EF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/024A324A09EF.jpg" alt="在家长录下的视频中，受害女孩出现做噩梦、自闭、发呆等状况。新京报记者 周清树 摄" width="400" height="266"></a><p>在家长录下的视频中，受害女孩出现做噩梦、自闭、发呆等状况。新京报记者 周清树 摄</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/027D32A10958.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/027D32A10958.jpg" alt="在这个村里唯一的幼儿园，12名幼女被老师性侵。新京报记者 周清树 摄" width="400" height="266"></a><p>在这个村里唯一的幼儿园，12名幼女被老师性侵。新京报记者 周清树 摄</p></div>
+<p><strong>宁夏一村庄12名幼女被性侵，11人是留守儿童，受害家庭面临心理创伤、二次伤害</strong></p>
+<p>从表面上看，宁夏灵武市秀水梁村算不上贫穷、闭塞的村庄：它距离灵武市及宁夏沿黄河城市带核心区域的吴忠市，均只有半小时车程。有着金色窗棂的清真大寺在村口最显眼位置，俯瞰着这个小村庄。很多房屋贴了瓷砖，在农村，这代表着体面和富裕。</p>
+<p>过去的一年中，12名幼女在村里的幼儿园被教师黄振辛性侵案发，其中11人为留守儿童。在100多户人家的村庄中，这意味着十分之一的家庭受到伤害。</p>
+<p>事发之后，12个家庭面临着心理创伤、村民议论带来的二次伤害及艰难维权，“我早晚会搬离这里。”6月24日，受害女童的家长田超说。“我无数次想过，再也不回到这里。”</p>
+<p>（注：为了尊重和保护未成年人权益，文中对乡镇以及乡镇以下地名、受害女童及其家长姓名均做了化名处理）</p>
+<p><strong>“坏爷爷”</strong></p>
+<p>如果不是因为两个女童之间的争吵，以及田超果断报警，性侵案的盖子或许至今无法揭开。</p>
+<p>田超介绍，2014年4月18日傍晚，一位杨姓5岁女童与一位李姓6岁女童发生了口角，前者急了，“你跟老师亲嘴，他还扒你裤子，我要告诉你妈妈。”</p>
+<p>李姓女童的母亲就在旁边，询问孩子之后，她跑到田超家说起此事。</p>
+<p>她与田超的妻子关系亲密，田超的女儿也在这所幼儿园就读。</p>
+<p>田超的第一反应是不相信。“我们老师应该不太可能做出这种事。”被指控的教师黄振辛是田超上小学时的数学老师。2011年主动从高谷梁乡的一所小学来到秀水梁幼儿园，是幼儿园唯一的老师。在田超的印象中，当年的黄振辛和学生丢沙包、撑橡皮筋，是一位和蔼的老师。</p>
+<p>一直到事发前，田超非常尊重黄振辛，每次见面仍以老师相称。</p>
+<p>问了女儿，田超的女儿田晓静也有这样的经历。</p>
+<p>田超的妻子随后走访了至少4户有女儿在这所幼儿园的人家，女孩子们都遭遇了类似经历。</p>
+<p>愤怒的家长聚集在田超家中，有的家长提出“去打黄振辛一顿”。</p>
+<p>当晚9点左右，田超决定报警。随后，田晓静和一位6岁的马姓女童被带到村子所属的张家庄镇派出所做笔录。</p>
+<p>次日也就是2014年4月19日早上9点，黄振辛因涉嫌强奸、猥亵儿童，被灵武市公安局刑事拘留。今年1月9日，案件在银川中院开庭审理，黄振辛被控强奸罪、猥亵儿童罪。</p>
+<p>在受害女童的描述中，黄振辛和她们亲嘴，把她们“放在沙发上，裤子脱掉，趴在我们身上。”</p>
+<p>据银川市检察院的起诉书，2014年2月至4月期间，黄振辛以修改作业为由，多次将3名幼女带到办公室，实施奸淫。</p>
+<p>2013年至2014年4月期间，黄振辛多次在办公室、学校操场，对12名幼女实施猥亵行为。</p>
+<p>12名女童均为4至6岁的幼女。黄振辛多次实施性侵行为时，现场还有其他学生。</p>
+<p>案件庭审时，黄振辛称他的行为：这些女孩子可爱，只是玩玩。</p>
+<p>12位受害女童的家长都请了律师。田晓静的代理律师、广西方园律师事务所律师吴晖介绍，所有女童的处女膜没有破损，但出现外阴红肿、戳伤、撕裂等状况。</p>
+<p>秀水梁幼儿园是村子唯一的幼儿园，隶属于高谷梁乡幼儿园，案发时共有25名学生，其中13名女童。<strong>这起案件中，唯一幸免的女童是一名村干部的孙女。</strong></p>
+<p>出生于1961年的黄振辛现年54岁，多位受害女童的家属介绍，黄振辛高一米六左右，很胖，满头白发。儿女双全，妻子也在家。</p>
+<p>事发后，孩子们将他称为“那个很坏的爷爷”。</p>
+<p><strong>被忽略的征兆</strong></p>
+<p>现在回想起来，田超觉得，其实一切早有征兆。</p>
+<p>案发前的2013年，田超的女儿田晓静总说下面疼。“女儿下体红肿，像流过血，但又没有流血”。他买了痱子粉给孩子涂抹，很快好起来，但过几天又红了。</p>
+<p>田晓静还说不想上幼儿园，他买好吃的零食哄着。</p>
+<p>红肿的病情和厌学的情绪，断断续续持续了一年。那一年，仅痱子粉就用掉两盒。</p>
+<p>其他孩子也出现类似征兆。</p>
+<p>杨森蓝的女儿曾对他说，“爷爷对我很好，亲我。”他以为这是老师喜欢女儿的方式。</p>
+<p>案发后，家长们反思，在长达一年多的时间里，孩子为什么没有和本该最亲近的父母说起此事。</p>
+<p>多名受访家长称，黄振辛通常会给孩子一个苹果、5毛钱、1块钱、或者买些零食；黄振辛还威胁孩子，不许告诉家长，不然会被开除。</p>
+<p>北京青少年法律援助中心与媒体发起的一项儿童性侵害调查显示，恐吓和零食成为施暴者性侵儿童的主要手段。</p>
+<p>与孩子缺乏交流、对孩子情绪及身体上的异常反应没有足够重视，也是家长们意识到的问题。</p>
+<p>留守儿童的概念是父母一方或者双方外出务工，儿童自己留在农村。这起案件，12个受害女童中，11人为留守儿童。</p>
+<p>在田晓静仅6个月大时，田超夫妻便外出打工。2008年至今，他们先后在宁夏石嘴山市、吴忠市、灵武市、银川市以及内蒙古呼和浩特打工。</p>
+<p>田超说，与孩子的交流基本靠打电话。</p>
+<p>去年冬天，田超和妻子回家，6岁的女儿和4岁的儿子在院子里玩，“我喊他们过来，他们却站着发呆。”</p>
+<p>在北京青少年法律援助中心与媒体发起的儿童性侵害调查中，统计的40起案件中15起是关于农村留守儿童的，占到统计案件总数的近4成。</p>
+<p>除了外出打工，家长们并没有更好的选择。</p>
+<p>在秀水梁村，每人一亩半到两亩土地，均种植玉米，一年只能种一季，亩产1400斤左右，每斤玉米1.1元左右。</p>
+<p>“每亩土地收入1500块钱，扣除人工费、农具费、肥料费以及口粮等，所剩无几。”</p>
+<p>做过村干部的马丹迪说，村里的打工潮始于1996年左右，2000年后，成为普遍现象。村子有800人左右，除了在家养羊的人，村里基本见不到青壮年。</p>
+<p>打工收入成为秀水梁村的主要收入来源。也因此使得秀水梁相较周边其他的农业村，更显富裕。</p>
+<p>今年2月份，杨森蓝离家到宁夏中卫市打工。其他家长也陆续再次外出打工。</p>
+<p>家长们觉得，孩子该做的身体检查都做了，“而且，总要挣钱生活。”</p>
+<p><strong>噩梦</strong></p>
+<p>到派出所做笔录后不久，田晓静开始做噩梦。</p>
+<p>一天凌晨3点左右，田晓静在睡着的状态下不断翻身，吵醒了田超。“她说胡话，但是听不清说什么。”</p>
+<p>田超说，这种状况持续了4个多月，深夜吵醒过他7、8次，“有一次还一直哭。”</p>
+<p>即使白天，田晓静的状况也令人担忧。她长时间趴在沙发上，一动不动，瞪着大大的眼睛，眼神空洞。</p>
+<p>“孩子平常不是这样的，”在田超的描述中，女儿性格活泼，贪玩。有一次，她和几个男孩子去玉米地里玩，玉米长得太高，田超找了整整一个下午。</p>
+<p>“你说她胆子多大。村里人都说，你家丫头像个男孩子。”</p>
+<p>在案发后，接替黄振辛成为幼儿园老师的车如芳也察觉到孩子的变化。</p>
+<p>车如芳发现，田晓静现在性格脆弱，一旦用稍微带批评的语气跟她说话，她会哭。</p>
+<p>车如芳与田超是邻居，“孩子以前总来我家玩，活泼好动，怎么说她都无所谓。”</p>
+<p>新京报记者采访了6位家长，他们的孩子在案发后均出现做噩梦、厌学、自闭、发呆等状况。</p>
+<p>长期关注儿童保护的中国青年政治学院少年儿童研究所所长童小军说，这是受到心理伤害儿童的典型外在表现。“被性侵后，孩子还会表现出对特定人群的恐惧，活泼的孩子变得安静，安静的孩子变得沉默。”</p>
+<p>“性侵害是对儿童最严重的伤害，阴影伴随一生”，童小军说，案发后就应该马上进行心理治疗。</p>
+<p>灵武市教育体育局局长王志勇说，事发后，教育部门、学校和乡镇，对受害女童及其家长做了心理辅导。灵武市对所有学校进行了一次排查，在全市针对教师开展了师德教育、普法教育，针对中小学生开办了防性侵知识讲座等专项培训。</p>
+<p>今年3月份，灵武市教育局曾向该案代理律师吴晖做出一份信息公开申请的答复，称“对涉及的12名女童进行了6-13次心理辅导，效果良好。”</p>
+<p>但家长们均否认有人为孩子做过心理辅导。</p>
+<p>杨森蓝自己花1800元钱，从银川请了一位心理辅导老师为孩子辅导。这也是记者在采访中了解到的唯一一个给女童做过心理辅导的家庭。</p>
+<p><strong>折中的调解</strong></p>
+<p>案发至今一年多，田超和其他11个家庭就孩子转学、追责以及赔偿等问题多次找到灵武市政府及教育局。</p>
+<p>但转学、赔偿等问题，双方一直没有谈成。</p>
+<p>在刑事附带民事诉讼环节，12名受害女童的代理律师除对黄振辛提起索赔外，还将灵武市政府、灵武市教育体育局、涉事学校及所在的镇政府、村委会告上法庭，要求五被告向每位被害人连带赔偿各项损失共19万余元。</p>
+<p>在法庭辩论中，上述五被告均承认被害人存在损害，但均拒绝承担赔偿责任。</p>
+<p>案件至今仍未宣判。在刑事附带民事诉讼方面，法院也一直试图对双方进行调解。</p>
+<p>受害女童田晓静代理律师吴晖透露，6月8日，他和其他几位律师就调解问题再次与法院沟通，“法院说争取每个家庭赔偿5万，我们同意了。但至今没有结果。”</p>
+<p>“目前针对性侵幼女的赔偿法律规定存在缺失，”吴晖说，如果按照《刑事诉讼法》的规定赔偿，在幼女被性侵案件中，实际损失是很少的。</p>
+<p>该案的审判长曾向吴晖透露，如果此案判决，实际赔偿可能只有1800元，因为一个家庭的实际损失只是体检费、来往路费等。</p>
+<p>“但类似案件中，心理损失才是最大的一块。”吴晖查了近年国内性侵幼女的判例，心理损失没有实际判决的。均通过调解途径解决赔偿问题。</p>
+<p>长期关注妇女儿童权益的律师李莹认为，从儿童利益最大化来说，选择调解会好些。“这有助于降低儿童的心理影响，尽快回归正常生活，也能让受害者拿到更多的赔偿。</p>
+<p>李莹同时认为，在调解拿到赔偿的同时，也会降低社会效益。比如一起典型性案例，如果通过有效判决明确学校等部门的责任划分，对社会、公众、其他地方的相关部门，会起到更大的警示、教育及防范作用。</p>
+<p>新京报记者了解到，在距离灵武市230公里的宁夏海原县，今年初发生了一起性侵女童的事件：海原县甜水乡小学教师杨某，在给学生上课时，猥亵9名女学生。案件的刑事附带民事部分最终通过调解达成和解。每个受侵害的幼女获得数万元赔偿。这是一起从未被曝光过的案件，因为和解的条件之一是，家长不允许通过媒体扩大事件影响。该案代理律师及受害女童家长均拒绝了记者采访。</p>
+<p><strong>远离村庄</strong></p>
+<p>事发后，女童家长也变得敏感而脆弱。</p>
+<p>平常交际广泛的受害女童家长马丹迪现在基本不出门，他怕村民跟他提起这件事。</p>
+<p>受害女童家长车文秀陪孩子转学到新学校，老师问，以前在哪里上学？车文秀很不愿意提及“秀水梁幼儿园。”她说，“说起学校名字我就难受。”</p>
+<p>即使回到村里，田超和其他家长现在也尽量不出去走动，村里的氛围让他们压抑。</p>
+<p>一位村民曾当面指责田超：“你们拿孩子的身体去市政府闹，是为了要钱。”</p>
+<p>有一次，马丹迪的妻子走在村子里，村民正在议论：谁家的孩子受到的伤害重，谁家的轻一些。</p>
+<p>家长们想远离村庄，包括让孩子远离。</p>
+<p>他们普遍选择了尽量避免让孩子和村里其他孩子玩，“小孩子在一起难免会说起来。”</p>
+<p>2014年4月案发至新学期的9月份，12位女童均没有上学。2014年9月，新学期开学后，家长们选择让孩子在离村子较远的地方读书。</p>
+<p>12个女童中，目前有6名女童在黑土岭小学就读一年级，有3名女童在黑土岭小学附设的幼儿园就读。</p>
+<p>田超的母亲考虑到田超夫妻仍要外出打工，为了方便照顾孩子，田晓静仍然在秀水梁幼儿园就读。</p>
+<p>马丹迪和杨森蓝将女儿送到了更远的凳子沟镇一所小学。他们专门租了一辆私家车，接送孩子上下学，“每天给私家车主40块钱。”</p>
+<p>凳子沟镇属于吴忠市，非灵武市管辖区。马丹迪和杨森蓝不愿让孩子在灵武市的学校上学。“这里的人都知道这件事，风言风语很多。”</p>
+<p>家长们更长远的想法是搬离村庄。</p>
+<p>“我们的风俗习惯尤为看重这些，发生这种事情，对孩子和家庭的声誉造成特别大的影响。”马丹迪说， “我打算以后在吴忠市买房、生活，或者搬迁到内蒙古，或者更远的地方。”</p>
+<p>6月23日上午近9点钟，田晓静的奶奶送她和弟弟去幼儿园，女孩低头，眼睛里充满对陌生人的好奇和警惕，背后的书包随着走路节奏上下跳跃。</p>
+<p>距离田晓静约百米的西南方向即是幼儿园，它在村子中间，是村里唯一一个飘扬着国旗的地方。</p>
+<p>西北日光强烈，风卷着旗子飘扬。细土黄沙，被风吹起，满眼一片灰黄。</p>
+<p><strong>【给女儿的一封信】</strong></p>
+<p>（以下内容，根据受害女童家长田超的采访及口述整理，有适当的内容删减和位置调整）</p>
+<p>孩子，爸爸想对你说</p>
+<p>亲爱的孩子：</p>
+<p>没有保护好你，我很内疚。</p>
+<p>我知道村里的学校教学质量不好，本来想过送你到黑土岭镇的学校读书，但我和妈妈要出去打工，你在这里读书，方便奶奶照顾，起码你也能够学会认识数字。</p>
+<p>没想到发生了这种事。</p>
+<p>有一天，你躺在沙发上，躺了很久，不说话，我用手机偷拍照片，你都没有发现。那段时间，你跟变了一个人似的，我看着很难受，但不知道该怎么办。</p>
+<p>你的妈妈也很担心你。</p>
+<p>有一次，你还是这么躺着。妈妈问你，不高兴吗？是因为那个老师吗？我说了你妈妈，不允许她再提这件事情。</p>
+<p>慢慢就过去了，你会忘记这件事，都会好起来。</p>
+<p>你会好起来的。还记得去年9月份的一个星期六吗？我带你去黄河公园，坐过山车、碰碰车，你一直在笑。这才是你。是的，我以前都没有带你出来玩过。</p>
+<p>在黄河公园那天，我跟你说，以后会送你去一所有很多好玩的东西的学校。你至今已经问过我两三次，什么时候送你去这样的学校。</p>
+<p>我一直希望给你转学，到一所教育条件更好的学校，有更多好玩的。</p>
+<p>但我现在没有条件，只能给你买早餐奶、喜欢吃的零食、喜欢的漂亮衣服，还有你在电话里跟我说的“一把枪”和“车车”。请你理解。</p>
+<p>还有，我想以后带你搬到吴忠市，就是有黄河公园的那个地方。我们再也不回秀水梁。</p>
+<p>你的爸爸 田超</p>
+<p>□新京报记者 周清树 宁夏灵武市报道</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%B0%E5%A2%83%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%80%A7%E4%BE%B5%E9%98%B4%E5%BD%B1%E4%B8%8B%E7%9A%84%E6%9D%91%E5%BA%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%B5%E5%AE%B3/?category=18271" rel="tag">侵害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99/?category=18271" rel="tag">刑事拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E9%95%BF/?category=18271" rel="tag">家长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%88%E5%BE%B7/?category=18271" rel="tag">师德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BC%E5%84%BF%E5%9B%AD/?category=18271" rel="tag">幼儿园</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BC%E5%A5%B3/?category=18271" rel="tag">幼女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%A5%B8/?category=18271" rel="tag">强奸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%A5%E4%BA%B5/?category=18271" rel="tag">猥亵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">留守儿童</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%80%8E%E4%B9%88%E5%8A%9E-%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4%E6%8D%9F%E5%AE%B3%E5%8F%B8%E6%B3%95%E6%9D%83%E5%A8%81/" target="cdt-mirror">怎么办 | “央视审判”损害司法权威</a>
+</h2>
+<p><p><strong>当最高法院的官方微博，仍在转发这些央视判决时，我仿佛看到，他们自己不但在矮化自己，甚至，自己在不停地敲响那个丧钟。</strong></p>
+<section>似乎《宪法》将受更多的尊重，因为人大通过新决议，最高领导及各级领导都要向宪法宣誓了。我国《宪法》明确写着：任何公民，非经人民检察院批准或者决定或者人民法院决定，并由公安机关执行，不受逮捕。《刑事诉讼法》也规定得非常清楚，<strong>法院是最终决定罪与非罪的最终裁判机关，除法院之外，再无其他任何国家权力机关可以宣告一个公民有罪。</strong></section><section></section><p>但是，我们往往可以看到，经常有央视在检察院都未批准逮捕之前，已经将案件定性通报，让犯罪嫌疑人出镜、认罪，甚至指控尚未认罪的人，同时也不让被指控者自己或者他（她）的律师进行辩白。</p>
+<section></section><p>《保守国家秘密法》 第九条：下列涉及国家安全和利益的事项，泄露后可能损害国家在政治、经济、国防、外交等领域的安全和利益的，应当确定为国家秘密：其中第（六）项：维护国家安全活动和追查刑事犯罪中的秘密事项；这也是说，追查刑事犯罪中涉及秘密事项，因此，<strong>刑事诉讼法的规定中，不让律师在公安侦查期间看公安的卷宗，但央视及其背后的人却可以忽视这一点。</strong></p>
+<section></section><p>官方媒体经常在警告律师，不要试图通过舆论影响司法，我搞不明白，为什么官方媒体这样可以大肆宣传一个刚刚开始侦查的刑事案件，而且，公安机关和检察机关有义务收集罪轻和无罪的证据，万一侦查之后收集到的证据证明被告人无罪呢？万一辩方提供的证据证明嫌疑人无罪呢，央视如何下台呢？如何给这些被央视诋毁的人恢复名誉呢？</p>
+<section></section><p>这种形式，和文革期间的游街批斗，有什么区别呢？游街看到的人不多，而上电视示众，却是举国游街。文革时，公检法被砸烂了，现在公检法健全存在，但依然通过这种形式来定调、示众，为什么不待到法院审理时，通过直播让大家看到诉辩双方的证据、辩论，古人说，兼听者明，偏听则信。</p>
+<section></section><section>我们的官方说文革是史无前例的十年，但要知道，文革也不是一日造就，之前的反右、整风等，让知识分子不敢说真话，通过媒体统一思想，乃至之前，让党内有识之士不肯说出真实观点，国家才走进史无前例的的灾难，几乎所有人都被波及到。约翰但恩的话：没有人是与世隔绝的岛，每个人是大地的一部分；如果海流冲走了一团泥土，大陆就失去一块，如同失去一个海岬，如果朋友或自己失去家园，任何人的死都让我受损，因为我与人类息息相关，<strong>因此，别去打听丧钟为谁而鸣，它为你而鸣！</strong></section><section></section><section>一般的民众，往往不会有那么多的闲暇时间去关心离自己很远的钟声，因此，当央视法院响起锤声时，他们也只是漠然地看着这些判决，但知识分子及其他法律人，应该警觉，这些法律之外的判决，最终败坏的，是这个国家法制的基石，意味着，检法全然被忽视，司法程序及保护人权、预防错案的防火墙被拆毁，最终倒下的，是整个国家的法制，目前这个法制，也是十年文革之后，不少当政者，自受其苦，痛定思痛之后，才建立起来。种树不易毁树易。<strong>谁都知道，文革期间，当检法失去效用之后，公安也没有笑到最后，因为法律已经废弛，他们被军管了。</strong></section><section><section></section><p>当最高法院的官方微博，仍在转发这些央视判决时，我仿佛看到，他们自己不但在矮化自己，甚至，自己在不停地敲响那个丧钟。</p>
+<section></section><p>至于那些被在央视法院审判的人们，我只能引用一句话,“人生之中，痛是难以避免的，但苦却是我们的选择”。</p>
+</section><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%80%8E%E4%B9%88%E5%8A%9E-%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4%E6%8D%9F%E5%AE%B3%E5%8F%B8%E6%B3%95%E6%9D%83%E5%A8%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2/?category=18271" rel="tag">人民法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3/?category=18271" rel="tag">公安机关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">刑事案件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC/?category=18271" rel="tag">刑事诉讼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">司法程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">国家权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E7%BE%A4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE-%E6%8A%B5%E5%BE%A1%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/" target="cdt-mirror">美国之音｜习近平参加群团工作会议 抵御敌对势力和“颜色革命”</a>
 </h2>
 <p><p> </p>
@@ -309,7 +455,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B4%E5%BD%B9/?category=18271" rel="tag">奴役</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1/?category=18271" rel="tag">自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AF%97%E3%80%91%E9%98%BF%E8%B5%AB%E7%8E%9B%E6%89%98%E5%A8%83%EF%BC%9A%E5%AE%89%E9%AD%82%E6%9B%B2/" target="cdt-mirror">【诗】阿赫玛托娃：安魂曲</a>
 </h2>
@@ -812,53 +958,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%91%E5%B8%82%E5%8F%AF%E4%BB%A5%E4%B8%8D%E9%A1%BE%E7%BB%8F%E6%B5%8E%E8%A7%84%E5%88%99/" target="cdt-mirror">纽约时报 | 为何中国政府救市可以不顾经济规则</a>
-</h2>
-<p><p>在中国之外，经济学家们的共识几乎是一致的：面对股市暴跌，该国托市的努力注定将会失败。这相当于在金融领域重现克努特国王(King Canute)试图阻止涌来的潮水之举。然而这是在中国，传统智慧也可能会出错。</p>
-<p>令人不安的抛盘形势，一度让中国主要股市蒸发了近3万亿美元市值，对此，中国宣布了一系列稳定股价的措施，包括建立一个1200亿人民币的基金，让全国最大的券商买入股票。</p>
-<p>迄今为止，很难说政府的干预措施是否产生了多大的影响。政府的计划宣布后，股市本周一出现了温和上扬，周二又恢复跌势，周三，跌势从投机成分较高的股票（其中很多现在已经停止交易）蔓延到了在美国上市的一些受到投资者热捧的股票，比如网上零售商阿里巴巴集团和互联网搜索引擎公司百度的股票。但中国股市在周四迎来了反弹。</p>
-<p>“从西方市场的角度来看，中国试图做事情，和我们知道会奏效的事情相反，”总部设在华盛顿的经济和政治咨询公司观察家集团(Observatory Group)的创始人兼董事总经理刚斋藤劲（音）说。“但他们和我们看法不一样。在西方民主国家，人们容忍波动。但在中国，股市崩盘可能会演化为社会动荡，对于中国领导层来说，这个前景相当可怕。”</p>
-<p>虽然让中国市场自由化，把它们开放给更多的外国投资是近期的热门话题，但中国市场依然既是金融机构，也是政治机构。股票可以提供高回报的话题是获得了中国政府首肯的，这帮助股市总市值在今年年初短短四个月内翻了一番。目前很多中国投资者正在看向主席习近平，希望他能兑现当初的那种鼓励，以及附带的隐性保证。</p>
-<p>没有人会怀疑中国可以加大努力。“事实是，如果他们愿意，就有资源可以注入，”罗伯特·F·怀特洛(Robert F. Whitelaw)说。他是纽约大学斯特恩商学院(New York University’s Stern School of Business)的财政系主任，也是几篇中国股市股价的文章的合著者。“中国政府拥有巨大财富。他们的钱多得令人难以置信。”</p>
-<p>对于全球投资者来说，中国稳定市场的努力是否成功远远不只是学术兴趣。尽管上海和深圳证券交易所主要开放给中国投资者，但在本周，由于担忧中国崩盘可能会引发全球经济增长放缓，金融风暴蔓延到了其他市场。（虽然投资者也一直关注着希腊债务危机的影响，中国股市市值蒸发的近3万亿美元，让希腊的国内生产总值相形见绌。）</p>
-<p>自2008年金融危机以来，中国相对强劲的经济增长帮助推动了全球经济复苏。从理论上说，即使在股市上遭受了急剧下挫，中国也可以遏制它对经济的伤害——中国股市仍远远高于一年前。</p>
-<p>但是，在上月股市暴跌开始之前，中国的经济就已经步履蹒跚。很多投资者现在担心，股价的进一步下挫可能会抑制中国消费者信心和需求，以及经济增长前景，在全球引发连锁反应。中国是世界上最大的石油等原材料进口国，在本周的抛盘中，大宗商品价格以及大宗商品生产者的股票遭受了尤为严重的打击。</p>
-<p>即便是在以市场为导向的美国，股价也不是完全不受政府影响的。美联储(Federal Reserve)往往会在出现危机和市场恐慌时向股市注入流动性，并放宽货币政策。在金融危机期间，美国监管机构认为，投资者借入股票并希望稍后以更低的价格售出的卖空行为会推动股价下跌，因而禁止卖空金融公司的股票。（后来的研究推断，此举是徒劳的。）中国现在也禁止卖空。</p>
-<p>但美国从来没有为了托市而直接购买股票。这类举措在其他地方也很罕见。可能最相近的是日本。今年，日本央行一直在以上市交易基金的形式购买日本股票，目标是每年在日本股市投入3万亿日元（220亿美元）。截至目前，这一行动看上去是成功的：从年初至今，日经指数(Nikkei index)已上涨逾15%。</p>
-<p>但刚斋藤劲指出，日本90年代初期采取的一项类似的措施似乎也是有效的，但后来失效了。1989年年底，日经指数接近40000点，达到历史高位，股市市盈率高达60倍。泡沫破灭后，日本股市1990年下跌38%。到了1992年，日经指数已跌至17000点以下，政府开始购买股票。日经指数回升了两年，但随后继续下跌，并在金融危机后跌至近7000点的低位。（本周，该指数率低于20000点。）</p>
-<p>中国现在面临着自己的泡沫的影响。在短短九个月时间里，沪市大涨1.35倍，并在6月达到了金融危机后的高点。据标准普尔Capital IQ(Standard & Poor’s Capital IQ)称，和略高于10倍的历史平均水平相比，在前不久的高位上，沪市市盈率超过了37倍。深市市值被高估得更严重，6月的市盈率接近80倍。很多投资者不相信中国公司通报的盈利情况，认为它们被夸大了，特别是那些较小的公司。</p>
-<p>伴随着高估值而来的是疯狂的散户投资、借钱大量买入和人们辞职炒股。所有这些都是典型泡沫的迹象。最近几个月，中国股市的交易量有时候会超过全球其他股市加起来的总量。而这一切，都发生在中国经济增长明显放缓、对房地产泡沫的担忧与日俱增、中国银行的账本上存在大量不良贷款的背景下。</p>
-<p>按刚斋藤劲来看，不仅是中国政府选的时机似乎不对，其不足200亿美元的投资目标，相对于中国股市总市值的比例也属于可以忽略不计。沪深两市和香港股市加起来是全球第二大股市（仅次于美国股市），总市值超过9.5万亿美元。他表示，相比之下，日本90年代投入的资金据信大约相当于其股市市值的0.8%。相对来说，这个比例远高于中国，但还是不够。</p>
-<p>“单纯从经济角度来说，所有这些都表明，中国的行动会失败，”刚斋藤劲说。</p>
-<p>但他接着说，“中国是一个可以忽视市场规则的共产党政权。”他和怀特洛一致认为，如果想成功，中国可能会大幅增加资金投入的规模，在某个时间点上，市场总是会作出回应的。</p>
-<p>资本智商(Capital IQ)表示，由于最近的暴跌，中国股市的估价看上去显得更合理了。本周恒生指数市盈率仅为11。对一些交易者而言，本周的波动表明中国股市目前正在触底，这或许会使政府支持的额外的股票购买更加有效。</p>
-<p>有传言称，政府正在准备一个规模更大的基金，用来直接购买股票。“中国政府根本不在乎在哪里损失个几十亿美元，” 怀特洛说。“他们试图保护投资者及保持稳定。谁不想那样呢？”</p>
-<p>但刚斋藤劲警告称，中国所能期待的最好结果——即使在大力干涉的情况下——就是为中国经济基本面的改善争取时间。如果没有改善，中国股市就会像其他所有股市一样，最终跌到一定水平，以反映投资者对未来收益的预期。</p>
-<p>刚斋藤劲称，“归根结底，连中国也无法违背经济引力的自然法则。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%91%E5%B8%82%E5%8F%AF%E4%BB%A5%E4%B8%8D%E9%A1%BE%E7%BB%8F%E6%B5%8E%E8%A7%84%E5%88%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E8%8D%A1/?category=18271" rel="tag">动荡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">地产泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E6%9C%BA/?category=18271" rel="tag">投机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%92%E8%82%A1/?category=18271" rel="tag">炒股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E8%81%94%E5%90%88%E5%9B%BD%E5%AF%B9%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E7%9A%84%E6%89%B9%E8%AF%84/" target="cdt-mirror">奇客资讯 | 外交部回应联合国对国家安全法的批评</a>
-</h2>
-<p><p>联合国人权事务高级专员扎伊德发表声明，对中国7月1日批准并于当天生效的《国家安全法》表达了关切。外交部发言人华春莹在回答记者提问时称，“联合国人权高专所谓声明对中方正常立法举措无端指责，既干涉中国内政，也暴露出其不专业，我们对此表示不满，坚决反对…我想强调的是，《国家安全法》的一个亮点就是突出‘以人民安全为宗旨’，坚持国家安全一切为了人民、一切依靠人民。法律第一条立法宗旨就强调‘保护人民的根本利益’，第七条明确规定‘尊重和保障人权，依法保护公民的权利和自由’，有关章节中还规定国家维护公民和组织的安全和合法权益。联合国人权高专声明关于《国家安全法》可能限制公民权利和自由的说法，完全是无端揣测，是站不住脚的。 ”她没有正面回答扎伊德关于模糊术语诠释的担忧。</p>
-<p>记者会<a href="http://www.fmprc.gov.cn/mfa_chn/fyrbt_602243/t1280006.shtml" target="_blank">实录</a></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E8%81%94%E5%90%88%E5%9B%BD%E5%AF%B9%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E7%9A%84%E6%89%B9%E8%AF%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E6%94%BF/?category=18271" rel="tag">内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -870,7 +969,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhkrvhow3t86l.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -880,5 +979,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d167zo4rk7pyrg.cloudfront.net">https://d167zo4rk7pyrg.cloudfront.net</a><br/><a href="https://dzxmgoz6q56na.cloudfront.net">https://dzxmgoz6q56na.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://dhkrvhow3t86l.cloudfront.net">https://dhkrvhow3t86l.cloudfront.net</a><br/><a href="https://d167zo4rk7pyrg.cloudfront.net">https://d167zo4rk7pyrg.cloudfront.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

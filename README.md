@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2967xzlyq7mvq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B8%AF%E5%8E%BB%E5%B9%B4%E9%80%BE30%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E9%81%87%E8%A2%AD%E5%AE%89%E5%85%A8%E5%A0%AA%E8%99%9E/" target="cdt-mirror">自由亚洲 | 港去年逾30记者采访遇袭安全堪虞</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85.jpg" alt="香港记者" width="500" height="282"></a></p>
+<p>香港记者协会12日发表题为“香港两极化 记者内外受压”的年报指出，去年占领运动期间有超过30名记者采访时遇袭受伤，是新闻工作者人身安全最受严重威胁的一年。记协主席岑倚兰形容“情况令人痛心”。年报还同时点名明报、南华早报和TVB的新闻自我审查日趋严重。</p>
+<p>在最新一份的言论自由年报中，记者协会又批评港府在过去一年行事隐密的作风更趋严重，特别是在推动政改工作时，隐瞒或选择性公布官员落区宣传政改的时地；官员亦愈来愈多以单向式网志解释政策，代替记者会。</p>
+<p>年报指出，过去一年是新闻工作者人身安全最受严重威胁的一年，记者在采访占领运动及其他包括本土派示威活动时，遭到示威者及部分警务人员滋扰。根据记协统计，超过30名记者受伤，亦有遭警方粗暴对待，最严重一次有多达4人同时受袭。</p>
+<p>主席岑倚兰说，有群众因为不满记者所代表的传媒的立场，还以为打人合理，“这是荒谬的”。</p>
+<p>记协促请港府采取一切可能的措施，确保记者可以履行合法采访职责，以及给予警务人员清晰指引，如何以谨慎尊重的态度应对记者。</p>
+<p>年报点名一些事件，包括明报今年2月临时换走一则关于六四秘闻的头条新闻、无线电视新闻报道7名警察在暗角向一名示威者施暴但却删除旁白、南华早报则要求专栏作家事先申报文章的标题及内容大纲，记协认为传媒自我审查渐趋严重。明报的记者指该报的高层对批评不予评论，明报和苹果日报的记者致电TVB新闻部总监袁志伟查询，但一样未获回应。</p>
+<p>南华早报回应表示不同意记协有关评论，指有关做法只是方便沟通，为免文章主题重覆，不涉自我审查。</p>
+<p>另外，全国人大常委会在月初通过新《国家安全法》，岑倚兰表示，近日曾去信要求约见政制及内地事务局长谭志源，冀反映本港记者在新《国安法》下，在内地采访时的疑虑，但当局拒绝会面。岑倚兰说，会争取向中联办主任反映香港记者的忧虑。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B8%AF%E5%8E%BB%E5%B9%B4%E9%80%BE30%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E9%81%87%E8%A2%AD%E5%AE%89%E5%85%A8%E5%A0%AA%E8%99%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%81%94%E5%8A%9E/?category=18271" rel="tag">中联办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E6%B3%95/?category=18271" rel="tag">国安法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E6%8A%A5%E9%81%93/?category=18271" rel="tag">新闻报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E7%A7%91%E7%A0%94%E6%8A%95%E5%85%A5%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C-%E7%A0%B8%E9%92%B1%E5%A4%9A%E5%9B%9E%E6%8A%A5%E5%B0%8F/" target="cdt-mirror">网易数读 | 中国科研投入世界第二 砸钱多回报小</a>
+</h2>
+<p><p>自2006年起，中国政府在科研创新上的投入绝对值就达到世界第二的水平，仅次于美国，但十年来花重金砸下的投入产出比却依然不成比例。近日，麦肯锡发布了一项题为《中国创新的全球效应》的报告，其中就对比了中、美、日、德四国在科研上的投资与回报。</p>
+<p>随着高校扩招，中国博士研究生的规模也年年攀升，2008年中国授予的博士学位就已经超过了美国，2013年光是科学与工程学就颁发了28,700个博士学位，组成规模庞大的研究人员队伍。中国科研在论文发表和专利申请数量上也早已达到了世界数一数二的水平，但有量无质的问题同样没有解决，平均每篇论文被引用次数和与国外学术人员的合作发表论文数都只有美日等国的一半左右。作为专利申请第一大国，中国专利的含金量却名不副实，同时向美国、日本和欧洲的三家专利局提出申请的专利数量仅仅是美日德三国的零头。</p>
+<p>不过，中国科研并不是在所有领域的回报率都不理想，在通过政府下订单的行业，如高铁、风电和电信设备类等行业就颇为奏效。然而在其他需要科研创新的行业，中国企业依然习惯制造低附加值产品，比如生产仿制药。即便是那些与国外企业组建的合资公司也并未显著改善中国本土企业的创新能力，比如国有车企们。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/2015071305262737610.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/2015071305262737610.jpg" alt="2015071305262737610" width="550" height="761"></a></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E7%A7%91%E7%A0%94%E6%8A%95%E5%85%A5%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C-%E7%A0%B8%E9%92%B1%E5%A4%9A%E5%9B%9E%E6%8A%A5%E5%B0%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%A9/?category=18271" rel="tag">专利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">中国企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中国政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E5%91%8A/?category=18271" rel="tag">报告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E7%A0%94/?category=18271" rel="tag">科研</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">网络</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%B0%E5%A2%83%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%80%A7%E4%BE%B5%E9%98%B4%E5%BD%B1%E4%B8%8B%E7%9A%84%E6%9D%91%E5%BA%84/" target="cdt-mirror">新京报 | 留守儿童困境调查：性侵阴影下的村庄</a>
 </h2>
 <p><p><strong>农村留守儿童目前至少有6102.55万。占农村儿童37.7%，占全国儿童21.88%。20多年来，进城的农民工们贡献了飞速现代化，被迫留在乡土的孩子们，却成了这一宏伟进程的被忽视者。在故乡留守甚至流浪，他们成了悲剧主角，自杀、被性侵、误入歧途……</strong></p>
@@ -913,51 +948,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%98%8E%E9%95%9C%E6%9C%88%E5%88%8A%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%A4%AA%E5%A4%A7%E4%BA%86/" target="cdt-mirror">明镜月刊｜习近平的政治不确定性太大了</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235.jpg" alt="习近平亲民" width="500" height="395"><br>
-杨帆，63岁。吉林大学经济学硕士、中国社会科学院经济学博士，曾为天津开发区研究所所长，民主评议会主席。国家物价局副处长，中国社会科学院经济研究所研究员。现为中国政法大学商学院教授，博士生导师，商学院学术委员会主席。杨帆专业领域为人民币汇率和中国发展战略，是中国新左派代表人物之一，是《重庆模式》作者之一。2014年4月，杨帆教授就重庆模式、中国新左派、中国经济形势和中国政治问题接受了《大事件》杂志专访。</p>
-<p>问：你认为薄熙来相信左的那套东西，什麽理论呀，制度呀？</p>
-<p>答：他没有习近平那麽真诚。如果薄熙来是真正的左派领袖，他为什麽又要搞“民主法制十五条”呢？</p>
-<p>这是我们要讨论的一个特别重大的问题，就是在中国现在的背景下，究竟是右派搞民主还是左派搞民主的问题。在江泽民搞权贵资本主义之后，实际在中国主张民主的是左翼，右翼是不搞民主的。</p>
-<p>问：右翼搞什麽呢？</p>
-<p>答：他们搞权贵资本主义。右翼专制。江泽民时期就是右翼专制。胡锦涛时期向左调了一下。</p>
-<p>问：左派有部分人是肯定不搞民主的。</p>
-<p>答：其实，他们这些人，例如，国家主义者、民族主义者，按照美国的定义，是右派，不是左派。</p>
-<p>问：专制这东西在西方话语下，还是左的方面的东西。如果我们简单画一条线，对民主法治宪政持同情、支持态度的，我们认为他们靠右。</p>
-<p>答：极左极右都是反对民主法治的。</p>
-<p>问：你的极右是指在经济上主张放任自由的？</p>
-<p>答：“六四”之后，共产党实际是利用分化了自由主义，他们只用了经济自由主义。所以，这些应当被划为极右的东西。</p>
-<p>问：实际上，这些人可能既信任市场，也信任有限政府。主张政府不能干涉市场，自然主张有限政府。在这个意义上，市场自由主义与宪政是捆绑的。</p>
-<p>答：这不是中国的实际情况。“六四”是个分界线。胡耀邦、赵紫阳其实都是中左，温和左派。“六四”一开枪，共产党变成极右了。江泽民提出“三个代表”继续往极右走，胡上来之后往左调了一下，真正做到比较彻底的是薄，薄在经济路线上，绝对是以民生为中心，这是他左的方面，政治上，他有前三年集权，唱红打黑，后来，他有向民主法制转折的意思，但没有做成。</p>
-<p>这样来看，习头一年做的还不如薄的那套。习在政治上，不搞民主法治，经济上，他不搞共同富裕。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%98%8E%E9%95%9C%E6%9C%88%E5%88%8A%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%A4%AA%E5%A4%A7%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%9C%80%E7%BE%8E%E4%B8%BD/" target="cdt-mirror">奇闻录 | 中国梦最美丽</a>
-</h2>
-<p><p><strong>近期，“五十六朵花”少女偶像组合首次现身舞台，据悉此组合成员由56名16岁——23岁的各民族最有才艺和梦想的少女组成，也是全球成员最多的流行演唱组合。“五十六朵花没有像日本、韩国的女团一样去讨好市场，而是以民族情感为核心，宣扬正能量。”</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/20150630081643169.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/20150630081643169.jpg" alt="20150630081643169" width="500" height="333"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/20150630081630198.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/20150630081630198.jpg" alt="20150630081630198" width="500" height="333"></a></p>
-<p><strong>以下内容摘自新华网相关报道：</strong></p>
-<p>6月28日，由<strong>五十六朵花文工团</strong>主办、北京诠声文化有限公司承办的“CCTV五十六朵花中国梦最美丽”大型文艺演出在北京温都水城隆重举行，撒贝宁担任主持人，为首度和观众见面的“全球第一组合”五十六朵花少女偶像组合站台助威。这也是国内主流舞台上，首次出现的大规模唱跳组合的表演。</p>
-<p>在当晚表演中，当五十六位身着白色体恤青春靓丽的五十六朵花演唱国家形象主打歌《中国梦最美丽》时，清澈无比的青春活力表演给观众带来了全新的体验。</p>
-<p>据五十六朵花少女偶像组合导演介绍，作为当今世界人数最多的流行演唱组合，五十六朵花没有像日本、韩国以及国内的一些其他女团一样仅从讨好市场的角度去考虑，把性感、颜值、卖萌等元素当成消费标签，<strong>而是以中华大国自有的气势，唱即唱到定格的情感，为传播中国正能量、中国民族文化而应运而生的组合。</strong></p>
-<p>演出视频<a href="http://www.tudou.com/programs/view/RFlTTbVb7-Y/?resourceId=0_06_02_99" target="_blank">地址</a></p>
-<p>
-</p><hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%9C%80%E7%BE%8E%E4%B8%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=18271" rel="tag">CCTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">国家形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%A6/?category=18271" rel="tag">梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%96%87%E5%8C%96/?category=18271" rel="tag">民族文化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -969,7 +959,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dzwolpw164hc1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2pp4j4x0s9ozk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -979,5 +969,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>

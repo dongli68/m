@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,76 @@
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://de05wsbc62ea7.cloudfront.net">https://de05wsbc62ea7.cloudfront.net</a><br/><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a><br/><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://de05wsbc62ea7.cloudfront.net">https://de05wsbc62ea7.cloudfront.net</a><br/><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87-%E8%B0%81%E6%94%B9%E5%8F%98%E4%BA%86%E9%9F%A9%E5%9B%BD%EF%BC%9A518%E8%BF%90%E5%8A%A8-629%E5%AE%A3%E8%A8%80-%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1/" target="cdt-mirror">闾丘露薇 | 谁改变了韩国：518运动 629宣言 一部电影</a>
+</h2>
+<p><p>曾经有一段时间，对于韩国的印象，就是上街示威的大学生，电视镜头里面总是火光冲天的样子，那应该是1980年代末1990年代中，有机会看香港的电视新闻的缘故。</p>
+<p>到了1997年，印象最深刻的，是韩国民众纷纷把家中的金银首饰捐赠给国家，那个时候，从泰国开始的金融危机正在席卷整个亚洲。</p>
+<p>2005年到韩国采访，遇到了韩国农民抗议WTO的集会。虽然我采访过世界各地的集会示威，甚至还经历了1999年西雅图反WTO的示威，但是，大会的音响设备、舞台以及流程，场下韩农们的人数以及整齐度，还是让我大开眼界。韩国警察的装备，尤其是在玻璃窗上装上了铁闸，防止韩农砸玻璃的车辆，让我开始担心，第二年，如果这些韩农们到香港来示威的话，香港警察能不能对付他们。</p>
+<p>2006年，WTO部长级会议在香港举行，因为我在美国读书，所以只能看新闻。后来听同事们讲起在现场采访的很多趣事：韩农们会把警察掉在地上的盾牌捡起来，交给香港警察，然后再继续摆出对峙的模样。现场采访戴着防毒面具，很是刺激。</p>
+<p>不过说到韩农，印象更深刻的，是用自焚的方式来抗议的韩国农民。</p>
+<p>说到韩国的民主化进程，人们谈得最多的就是光州事件，从网络上搜寻资料，也可以清楚地看到这次事件对韩国社会的影响。也因为这样，这次去韩国采访，决定要去光州亲眼看一看。</p>
+<p>在光州的518自由公园，除了大量当时的照片，还有被整体搬迁过来的军警总部，里面有审讯室、拘留房、军事法庭。一走进审讯室，就会响起解说声，虽然只有韩语，但是伴随着解说声，还有惨叫声，男男女女的哀号，再加上眼前被拘捕民众被拷打的模型，完全可以想象和体会到当时是怎样的情景。</p>
+<p>（编者注：关于作者拍摄的518自由公园的具体情景，<a href="http://t.qq.com/p/t/400295052376833" target="_blank">点击此处查看微博图片</a>，上图为图组之一）</p>
+<p>里面还有水刑室。如果你看过最近在香港上映的韩国电影《逆权大状》（内地翻译成《辩护人》），就会知道，里面大学生被拷打的场景，正是在还原当年的这段历史。</p>
+<p>电影是以“釜林事件“作为原型，没有直接提到光州事件，但是这个事件的起源，正是在光州事件被镇压之后，全斗焕在全国采取的强硬压制手段的结果。不过电影中有一个场景，一群人到宋律师楼下示威，当他气冲冲地下楼要理论的时候，他第一次看到了戴着防毒面具、手拿棍棒的军警。</p>
+<p>其实这是光州事件的起源的一部分。说起光州事件，要从1979年8月9号，朴正熙打压金大中领导的第一在野新民党支持的女工罢工运动开始。当天警方发动了“101号作战“的镇压方案，逮捕了174名女工，一名女工因为逃避追捕跳窗重伤死亡。事件激发了全国学生抗议，而且开始把诉求转为要求废除维新体制。</p>
+<p>当中最著名的是10月16号开始爆发的“釜山-马山民众抗争”，为期四天的抗议，最终1563人被捕，其中500多名是学生。说到马山，1960年，韩国民众要求李承晚下台的“419革命”的爆发点，就在马山的两所大学。</p>
+<p>说到419，当时李承晚操控选举，谋求连任，在民众反对投票结果之后镇压示威，一名马山的高中生被揭发，在遭遇催泪弹后死亡并且被警方扔到大海，这激发了民众的愤怒，马山民众的示威行动很快拓展到汉城，4月19日，数十万汉城学生和民众上街，当局镇压造成187名学生死亡，6千多人受伤，到27日，李承晚宣布下台。</p>
+<p>1979年10月26日，朴正熙被自己的情报部部长刺杀。当时的代理总统崔圭夏宣布戒严，全斗焕被认为为新设置的合同搜查本部长，成为韩国军方最有力人物。12月12日，全斗焕发动政变，新军部控制了军队，不过直到1980年8月崔圭夏辞职，全斗焕才成为总统，从政变到上任，花了八个月的时间。</p>
+<p>1980年春天，韩国的大学生开始了学生自治运动，不过一开始只是集中在校园选举。直到4月，因为各大学拒绝兵营集体训练，和新军部产生矛盾，对于学生的校内示威，军方批评“学生们缺乏安全意识”并且在媒体展开批判，导致冲突升级。</p>
+<p>从5月2号到13号，各所大学开始进行街头示威的组织和准备，14号，在学生会强硬派的坚持下，首尔7万名大学生走上街头，要求撤销戒严令，撤换全斗焕，由于看到当时市民并没有积极反应，这些学生第二天返回校园。光州的大学生开始响应，16号举行和平集会，学生加上市民有5万多人，但是第二天也恢复了平静。由于舆论对学生的支持，警察并没有干预，学生还给警察送饮料，气氛良好。</p>
+<p>但是警方在17号开始在全国各大学拘捕学生和其他民主人士，17号下午，政府宣布扩大紧急戒严令，新军部调兵到首尔、釜山、大邱和光州等大城市，其中首尔和光州是全斗焕新军部的重点攻击目标，18号凌晨，戒严部队进入光州各大学。光州事件的导火索是全南大学门口学生和戒严部队的冲突，之后演变成持续了持续10天的光州抗争运动，光州30万民众共同参与，根据统计，155人死亡，76人失踪，受伤和遭拘捕的有4965人。有一部韩国电影“华丽的假期”，就是当时军队镇压光州抗争的行动代号。</p>
+<p>当时政府把光州518事件称为暴动，而且由于韩国其他地方的民众对于事件真相没有了解渠道，因此一直看成是遭到朝鲜煽动的企图颠覆国家的内乱，金大中也因为被指控为事件主谋而被军事法庭判处死刑。</p>
+<p>在《辩护人》这部电影里面，宋律师和他的大学同学有一场争吵，认为这些聪明的孩子是在闹事，受到了唆使。正如电影中那位当记者的大学同学所感叹的，保住媒体饭碗，就是选择沉默，甚至是歪曲事实，用于发声的那些，都丢了工作。光州事件之后，有700多名新闻工作者被解雇。</p>
+<p>其实从1981年开始，光州事件的受害人家属就开始不断为查明真相而努力，尽管遭到打压，每年都举行祭奠死者的活动，1985年5月17日，韩国80所大学举行示威，要求查明真相。</p>
+<p>电影结尾，宋律师已经成为一名社会活动家，那已经是1987年。这一年，是对于韩国来说非常重要的一年。</p>
+<p>1987年1月14日，首尔大学学生朴钟哲因为被指控为共产党，审问期间被严刑拷打致死，当局封锁追悼仪式现场，并且捏造死亡原因。后来，真相还是被宗教界人士向公众揭发，从而导致了一连串示威活动的发生。</p>
+<p>那一年的6月9日，延世大学学生李韩烈在示威中遭催泪弹袭击身亡，从10号开始，全国爆发大规模抗议活动，直到29号，当时总统全斗焕钦点的接班人（也是总统候选人）的卢泰愚发布“629宣言”，宣布接受在野党提出的“进行总统直选、金大中豁免复权”等八项措施。</p>
+<p>不过，这只是韩国结束军政府统治，向民选政府和民主化迈进的开始而已。就拿光州事件来说，真正平反要到1993年，金泳三的“513讲话”确定民主运动的正当性。1994年，全斗焕、卢泰愚被起诉。1995年，由于当时的检察官宣布不起诉，又激发全国抗议。1996年，检察官发表“518事件”部分情况，将两人以涉嫌内乱和军事政变，追加起诉。1997年，韩国最高法院根据“1212政变”和“518事件”，判全斗焕无期，卢泰愚入狱17年。不过，两人在年底均获得特赦而释放。就在这一年，政府把5月18日定为“国家纪念日”。</p>
+<p>在查找光州事件的资料中，我发现，原来韩国的反美情绪在光州事件之后达到了高峰。因为韩国民众发现，原来美国间接支持了军政府镇压民众的行为。这一发现，导致韩国国民对于韩美关系的认知开始发生改变。</p>
+<p>光州事件后，发生了釜山美国文化院纵火案，大学生在首尔美国文化院绝食，占领光州美国文化院，要求美国为光州事件道歉，同时停止支持军政府。1986年5月20号，首尔大学学生李东洙高喊“美帝国主义滚出去”之后自焚。1996年，美国《洛杉矶时报》报道，光州事件，美国事先承认派出韩美联合司所属兵力，当时的总统卡特透过特使向全斗焕表示：支持他的调兵计划。</p>
+<p>国家会变成怎样，一个重要因素是“这个国家的人怎样想”。国家也好，国家机器也好，是由人构成的，如果正义的人占了多数，那么社会就会有进步。靠外来的压力？有点作用。比如全斗焕在1981年访问美国，同年通过选举当选总统，显然获得了美国政府的支持，而作为交换，金大中从死刑改判到无期，再到有期，直到1982年被终止刑期，流亡美国就医。而成功申办1988年奥运，使得当时的韩国政府希望能够有一个良好的国家形象，这都是最终对民众的诉求做出了让步的理由，但是只是之一，而不是所有。历史的经验一再证明，想要真正的稳定的改变，只有靠一个国家内部的改变，靠一个国家的国民自己。</p>
+<p>看到朋友感叹，他遇到的韩国年轻人并不了解光州事件。我倒觉得这不是问题，因为前辈们争取的权利，已经成为这些年轻人与生俱来拥有的东西。抗争原本是不应该有生命危险的，如果可以不需要街头运动，不是更加理想？过去的激烈，就是为了现在的不激烈。年轻人自然会去追求更好的，他们也不甘于失去现在拥有的。如果又回到只能靠激烈的方式才能表达诉求的年代，政府就需要反省，哪里出现了问题，抗争者也需要衡量，再用这样的方法，是否能够获得更多的支持。如果说，曾经年轻过的人是这样过来的，那现在的年轻人，也会这样走过去的。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/2000-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/2000-1.jpg" alt="2000 (1)" width="550" height="322"></a></p>
+<p>（图注：韩国电影《辩护人》剧照）</p>
+<p>看到一段新闻，说是在接到《辩护人》这部电影的时候，宋康昊原本不太愿意演。但是在看了剧本之后，他决定来扮演这个角色，因为他发现，这个故事，并不像他一开始担心的那样，是关于一个个体的故事，而是讲述了一群人的故事。电影中的宋律师，代表的是一个群体的改变和他们的作为。就好像电影中的警察，还有那个认为民主还不适合当时的韩国民众的海归富二代，都代表的是各自的群体。这些群体构成了一个社会，而不同群体力量的博弈，会决定了社会向哪里走。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87-%E8%B0%81%E6%94%B9%E5%8F%98%E4%BA%86%E9%9F%A9%E5%9B%BD%EF%BC%9A518%E8%BF%90%E5%8A%A8-629%E5%AE%A3%E8%A8%80-%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%8F%8D/?category=18271" rel="tag">平反</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%92%E4%B8%A5/?category=18271" rel="tag">戒严</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%8C%96/?category=18271" rel="tag">民主化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">民主运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">示威活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%B2%BB/?category=18271" rel="tag">自治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%97%E5%A4%B4%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">街头运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%89%E4%B8%BE/?category=18271" rel="tag">选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%87%E5%8E%8B/?category=18271" rel="tag">镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%9B%BD/?category=18271" rel="tag">韩国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%AE%B0%E5%8D%8F%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E9%81%AD%E9%81%87%E6%9C%80%E9%BB%91%E6%9A%97%E6%97%B6%E6%9C%9F/" target="cdt-mirror">美国之音 | 记协：香港新闻自由遭遇最黑暗时期</a>
+</h2>
+<p><p>香港记者协会7月12日公布的最新言论自由年报表示，在香港既重要但同时也令人忧虑的过去一年，记者和媒体经历了严峻的采访挑战，遭遇暴力，内外受压，内部面对日趋严重的自我审查情况，外部压力则来自政府和大企业。</p>
+<p>香港记协在题为“香港两极化，记者内外受压”的言论自由年报中表示，过去一年有30多名新闻记者遭到暴力相待，人数近年最多，情况最恶劣，严重打击新闻自由。</p>
+<p><strong>暴力相向前所未有</strong></p>
+<p>记协主席、资深媒体人岑倚兰表示，投身新闻界超过30年，从未见过一年内有这么多新闻记者遇袭，令人痛心。她称，在去年为期79天的占领运动期间，接获30多名记者在激进示威者和警察冲击下受伤的报告，而最严重一次有多达4名记者在采访一个亲政府团体反占中集会时同时受袭。另外，还有记者在采访冲突事件中则被部分警员粗暴对待，也有记者反被指袭警，但从传媒拍摄片段所见事实并非如此。</p>
+<p>岑倚兰强调，若示威者不满传媒报道立场，应该依正常途径反映，而不是向记者施暴，而警方也应该向前线警员提供应对记者的清晰指引，并采取适当行动应对任何攻击记者的人士。</p>
+<p>香港人权监察通常会向大型的示威、集会、游行等活动派出观察员，尤其在去年的雨伞运动期间，处处可以看到该组织的人员。人权监察总干事罗沃启星期一对美国之音表示，尽管自回归以来香港新闻自由的空间逐步缩小，但是还从来没有发生过像去年占领运动期间，如此多的新闻记者遇到暴力的情况，而他们统计的数字远高于记协公布的比较严重的30多起。</p>
+<p>他说：“从来还没有像去年占领运动过程中受到的那么大的威胁，甚至人身上对数量众多的记者加以袭击或者威胁。记协讲的30多个个案，相信还是偏低的，因为据我们所见，或者是记者跟我们谈的，不少人遇到警方粗暴对待，包括推撞，甚至部分殴打的情况，他们没有提诉的。”</p>
+<p>不过，据港媒报道，亲政府团体爱港之声主席高达斌认为，记者采访遇袭及被警察冲击在所难免，并以战地记者比喻，称记者在占领运动中遇袭是正常。警方则回应称，一向尊重新闻自由，明白配合传媒采访工作的重要，绝不容忍暴力事件。</p>
+<p>此外，记协发表一项调查表明，香港公众也认同新闻自由在恶化。调查显示，若以100分为满分，公众评分仅有48.8分，比上一年下跌0.6分，而对新闻工作者的评分，下跌3.1分到38.9分。</p>
+<p><strong>自我审查令人忧虑</strong></p>
+<p>年报特别提到新闻界令人担心的自我审查的情况。年报在检视有关趋势时表示，记者面对在报道上要认同建制看法的压力越来越大，并特别点名三家媒体涉嫌自我审查，包括明报更换7.1头版大题及抽调六四敏感报道、南华早报要求专栏作家先提交题目审批，以及无线电视新闻部管理层删减七警殴示威者事件报道旁白，导致多人离职。</p>
+<p>据报道，无线电视和明报没有或不愿回应媒体的询问，而南华早报回应表示，不同意记协有关评论，称做法是为方便沟通，避免主题重覆，否认涉及自我审查。</p>
+<p>此外，年报还列出过去一年的多起重大事件，反映新闻自由正受到政府及商家的影响而收窄，这些事件包括信报专栏作家练乙铮因发表“梁氏涉黑实可双规”的文章后，收到特首梁振英的律师信、信报创始人将剩余20%的股权全部卖给巨商李泽楷、明报更换总编辑等。</p>
+<p>记协同时敦促港府为提高透明度，尽快制订《资讯自由法》及《档案法》，让包括记者在内的港人，有适当渠道索阅政府的资讯及文件，保障公众的知情权，并呼吁各政府部门开诚布公，有重要公布时，应召开记者会，而不是采用例如写网志等单向式的沟通方法。</p>
+<p>特首梁振英在2012年竞选期间，曾公开签署记者协会的“新闻自由约章”，承诺在任内积极推动制订《资讯自由法》。</p>
+<p>另外，记协主席岑倚兰在星期天的记者会上还表示，在全国人大常委会月初通过新国安法后，近日曾去信要求约见政制及内地事务局长谭志源，希望反映香港记者在新国安法下，前往内地采访的疑虑，但是当局却拒绝会面。岑倚兰强调，会争取向中联办反映香港记者的忧虑。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%AE%B0%E5%8D%8F%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E9%81%AD%E9%81%87%E6%9C%80%E9%BB%91%E6%9A%97%E6%97%B6%E6%9C%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">反占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">香港新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%AE%B0%E5%8D%8F/?category=18271" rel="tag">香港记协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85/?category=18271" rel="tag">香港记者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B8%AF%E5%8E%BB%E5%B9%B4%E9%80%BE30%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E9%81%87%E8%A2%AD%E5%AE%89%E5%85%A8%E5%A0%AA%E8%99%9E/" target="cdt-mirror">自由亚洲 | 港去年逾30记者采访遇袭安全堪虞</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85.jpg" alt="香港记者" width="500" height="282"></a></p>
@@ -204,6 +271,41 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-12/" target="cdt-mirror">奇闻录 | 周末段子荟萃 7-12</a>
+</h2>
+<p><p>@buqueding：统治者大量的抓捕人在历代都是王朝灭亡前的先兆…尘土本无边，不是我的国…我本地球人，你们在我的出生地域名称强加给我一个国籍…</p>
+<p>@侯虹斌：台风一夜刮走了三十多位维权律师，还有一批被登门警告不能发声，该吱声的某某协会闷声不响；然后，全民在为了维护一位一千六百年前的外族入侵政权的女将军（而且还是虚构的），投票要封杀某小品演员。我生活的这片土地，是一个大精神病院吗？</p>
+<p>@YaxueCao：当局这次的恐慌跟2011年茉莉花应该是一样的。恐慌的频率越来越高，恐慌的原因越来越多样。杯弓蛇影，到处都是敌人。股市里有敌人，NGO都是敌人，律师都是敌人，网民都是敌人，访民都是敌人，赔了钱的中产阶级恐怕也都成了敌人。</p>
+<p>@xxxcatman：【黑色星期五】几乎一夜之间，由北京始，全国各大城市的死磕派律师尽数落网，黑头套，密秘抓捕，其恐怖程度远超2011茉莉花，彰显了领导小组上下协调统一作战的快捷功能。一些漏网之鱼纷纷写下遗书，离婚书，律师委托书交代后事。这是按下了依法治国的暂停键还是按下了驶向末日的快进键？试目以待。</p>
+<p>@mranti：建议以后高考招生的时候，法律系和新闻系招生的老师，负责任地在招生简章上说明：本系优秀人物有坐牢风险，请各位考生在报考之前咨询家长。</p>
+<p>@leonmail：去年香港占领的时候，以为那时应该是整个硕士生涯最没法安心学术的时期了，结果现在临近毕业，发现真是低估了国内形势。</p>
+<p>@jiapin1989：7月7日早间新闻：日本奈良县有个小学六年级的女孩子被人拐走。看日本警察是如何破案的：一个普通老百姓打了个110 、不到3分钟、200名日本警察二话不说把整个市区的道路给封锁了，当天破案。小女孩被救出来 。中国也这样的话人贩子还敢猖獗吗？值得国人深思。</p>
+<p>@hnjhj：你匪不惜一切代价一定要制造人工牛市，估计所有坏账、赤字、黑幕都指着这个来抹平，给人感觉股市兴衰已经到了和政权存亡挂钩的程度了。总觉得把自己软肋暴露得那么赤裸裸很不保险。</p>
+<p>@wukra：苍茫的哈蟆是我的爱…黑框的眼镜高高提裤带…什么样的记者是最呀最无奈…什么样的歌姬才是最开怀…美国的华莱士谈笑来…西方国家都去漂洋跨过海…火辣辣的妹子是长者的期待…景区人山人海才是最实在…长者要钦点就点得最痛快….</p>
+<p>@milpitas95035：股市崩盘、经济危机即将来临的大背景下，这一轮的抓捕与茉莉花革命时期非常相似：先捕再审或不审、控制潜在威胁力量为第一要务。估计被中共认为排在第一线的活跃人士都要被控制起来，等气候好转再释放。至于罪名已经无所谓了。抓人、控制人是挽救政权生死的首要方法。</p>
+<p>@laokalaoka：王金波不懂“指定居所监视居住”就是73条的秘密逮捕，是黑监狱，这是蠢；无视全国范围内数十名律师被逮捕被恐吓，轻描淡写为针对周世锋王宇的个人案件，主动为匪帮开脱，这是贱；毫无根据臆测屠夫叛变投敌连累同道，这是坏。如此蠢贱坏，必须操他全家。</p>
+<p>@朱其：在所有专制政权的崩溃时期，抓律师就等于把他们逼成未来的政治家，甚至把他们推上民主后获得新生的国家总统，南非的曼得拉、韩国的卢武炫、台湾的陈水扁，都曾经是专制政权倒台前的被抓律师。抓吧，这是催生一个民族新政治家的必由的炼狱之路。</p>
+<p>@oran_ge：做国产动画很艰苦，大圣归来的制作团队很穷，发行费都是众筹，也没钱搞太多媒体合作（跟我厂合作算是一种缘分），排片率从初期 1.5% ，一点点争取到 10.5%，基本都是靠口碑做的。在《小时代4》和《栀子花开》这种巨头发行商面前，争取过亿的票房实在不易。</p>
+<p>@xiucai1911：朋友们，下一个上央视“认罪频道”的如果是我，请相信，我绝对不会道歉、认罪！如果你们真的看到了我的“认罪”，请在鄙视我之前，先技术分析一下是不是合成、剪接的。</p>
+<p>@xiucai1911：小时候，政治老师说：“我们的祖国很墙大”。地理老师说：“我们的祖国地狱辽阔”。长大后，才知道，老师，你说得太对了！</p>
+<p>@WXZ0909：进去了，就别跟共产党再玩心眼，长痛不如短痛，横下心零口供吃不了亏，让他们抓笼子里，一堆人研究你，你却信息闭塞，你玩心眼就是有算计有权衡，他们就有机会了，折腾得就起劲儿，不免害人害己。</p>
+<p>@shangguanluan：今天，遇见以前一个朋友，她在地方拆迁办，经常截拆迁访民 。今天问我怎么翻墙。我说你为什么想翻墙？她说，那些刁民都学会了在境外发消息，一套一套的。我说你们收入比其他部门高吗。她说不高。我说别做了，你以后明白了会后悔的。她没说话 。</p>
+<p>@kgen：本来觉得telegram 被攻击和天朝没有关系的，结果今天官媒发了很多文章说telegram反动什么的，我现在觉得这就是一场准备好的攻击。</p>
+<p>@bigeagle_xd：任何地方，任何人，只要犯罪成本低，犯罪后果小，就什么事都干得出来。如果最终确定是LINE发起的DDOS，亿万LINE用户会就此放弃LINE？至于党国，更是谁也无法阻止。</p>
+<p>@jerrymice：昨天晚上儿子在小区里玩high了，跟着去小朋友家里接着玩，到睡觉时候我在小区里到处找不见踪影，急得一头汗，路过的热心大妈也来帮我找，我专门在人多的地方找，呼唤儿子，而大妈却奇怪的很，专门去树丛草地里找，找了半天大妈气喘吁吁的问我：你家狗是啥颜色啊？</p>
+<p>@xueshudi：怎么把学霸秀成绩，情侣秀恩爱，土豪炫富一起说———我量子才考了98，我媳妇100，哎，又输给她一台土豪金。</p>
+<p>@ld0905：喷了，刚在豆瓣上发现我写的关于爆裂鼓手的影评《用生命演绎生命》下面有一条新评论：“恭喜！你这篇影评已被我的学生抄为期末作业。”</p>
+<p>@jasontj：跑Uber，接了一单是中心妇产的，停车一看，是一对夫妻和一个大娘，抱着个娃。接新生儿出院啊！赶紧下车帮忙往后备箱装住院用品，又赶紧关空调，一路和三口人聊着新生儿注意事项，劝他们务必摒弃传统尿布。天气太热又怕吹到产妇和婴儿，送到地方汗都把衣服湿透了，但是心里特别高兴。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-12/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E7%BE%A4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE-%E6%8A%B5%E5%BE%A1%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/" target="cdt-mirror">美国之音｜习近平参加群团工作会议 抵御敌对势力和“颜色革命”</a>
 </h2>
@@ -885,69 +987,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%93%E7%BA%A2%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6telegram%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E9%81%AD%E5%A4%A7%E5%9E%8Bddos/" target="cdt-mirror">当红加密聊天软件Telegram亚洲地区遭大型DDoS</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/telegram1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/telegram1.png" alt="telegram1" width="475" height=""></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/telegram2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/telegram2.png" alt="telegram2" width="475" height=""></a></p>
-<p>7月10日，以加密聊天而闻名的软件Telegram在Twitter上透露，他们正遭到大规模DDoS攻击，导致其印度及东南亚地区地区用户无法连接至服务器。中国也在受影响国家之列。几小时候后，Telegram称攻击他们的DDoS已升级至全球范围，影响到了世界各地的用户。</p>
-<p>Telegram在Twitter回答用户提问时解释，DDoS 攻击并不会影响聊天／加密聊天过程本身，而是一种让使用者无法连接上服务器的手段。同时，由于Telegram帐户与注册地区绑定，所以即使受影响地区的用户连接上其他地区的VPN，也无法正常使用。</p>
-<p>Telegram拒绝透露DDoS的流量来源。</p>
-<p>截至发稿时，有Twitter用户表示中国部分地区仍无法正常使用Telegram。这并非Telegram第一次遭到大型DDoS攻击。2014年9月底，该软件曾声称<a href="https://twitter.com/telegram/status/515819785972903936">遭到了</a>每秒数十Gigabit的攻击，导致部分国家的用户无法连接至服务器。</p>
-<blockquote><p><a href="https://twitter.com/telegram/status/619515927353278464">@telegram</a>：Alright, somebody seems really pissed — the DDoS is now global, affecting Telegram users worldwide.<br>
-（好吧，有人好像真的特别生气——DDoS现在是全球范围了，影响到了世界各地的Telegram用户。）</p>
-<p>‏<a href="https://twitter.com/telegram/status/619451363559350272">@telegram</a>：An ongoing DDoS is causing connection issues for our users in India and South East Asia. We’re hard at work fighting back.<br>
-（一场正在进行中的DDoS导致我们印度及东南亚地区的用户有连接上的问题。我们正非常努力地反击。）</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%93%E7%BA%A2%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6telegram%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E9%81%AD%E5%A4%A7%E5%9E%8Bddos/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ddos/?category=18271" rel="tag">ddos</a>, <a href="https://chinadigitaltimes.net/chinese/tag/telegram/?category=18271" rel="tag">Telegram</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B2%88%E5%8B%87%E5%B9%B3%EF%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%8448%E5%B0%8F%E6%97%B6%E5%86%85%EF%BC%8C%E6%9C%8956%E4%BA%BA%E8%A2%AB%E5%A4%9C%E8%A2%AD%E9%98%9F%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">沈勇平：过去的48小时内，有56人被夜袭队带走</a>
-</h2>
-<p><p>【编者注】沈勇平原文在新浪微博已遭到多次删除。以下内容来自新浪微博 <a href="http://www.weibo.com/5634684586/CqAS87ILm">@南方街头</a>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/0069kyRsgw1etyof3tgx3j30c81dq778.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/0069kyRsgw1etyof3tgx3j30c81dq778.jpg" alt="0069kyRsgw1etyof3tgx3j30c81dq778" width="440" height="1790"></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%A4%A7%E6%89%AB%E8%8D%A1%EF%BC%9A%E8%87%B3%E5%B0%91%E4%BA%8C%E5%8D%81%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%93%E6%8D%95%E6%88%96/">博讯｜北京大扫荡：至少二十名维权律师被抓捕或失联</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/">德国之声｜原《时代周报》驻京记者助手张淼无罪获释</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/">习近平谈党的意志与依法治国</a></li>
-</ul></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2014/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%B3%E4%BA%8E%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E8%AE%BA%E8%BF%B0%E6%91%98%E7%BC%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%B3%E4%BA%8E%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E8%AE%BA%E8%BF%B0%E6%91%98%E7%BC%96.jpg" alt="习近平关于全面深化改革论述摘编" width="400" height=""></a><br><em>（数字时代配图；图片来源：贝带劲 <a href="https://twitter.com/beidaijin">@beidaijin</a>）</em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B2%88%E5%8B%87%E5%B9%B3%EF%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%8448%E5%B0%8F%E6%97%B6%E5%86%85%EF%BC%8C%E6%9C%8956%E4%BA%BA%E8%A2%AB%E5%A4%9C%E8%A2%AD%E9%98%9F%E5%B8%A6%E8%B5%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%A4%A7%E6%89%AB%E8%8D%A1%EF%BC%9A%E8%87%B3%E5%B0%91%E4%BA%8C%E5%8D%81%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%93%E6%8D%95%E6%88%96/" target="cdt-mirror">博讯｜北京大扫荡：至少二十名维权律师被抓捕或失联</a>
-</h2>
-<p><p>（博讯报道，7月10日）继北京锋锐律师事务所周世锋律师王宇律师等五人遭绑架失联后，北京有至少有二十名维权律师、律师助理或律师事务所工作人员于7月10日被带走或失联。至11日凌晨，仍陆续有多名维权律师被带走。</p>
-<p>截止至11日早上9时，已确定被抓捕的维权律师、律师助理或律师事务所工作人员包括：王宇、包卓轩、周世锋、刘四新、李姝云、王芳、戈平、李和平、赵威、李威达、隋牧青、王海军，此外还有林斌（望云和尚）、刘永平（网名老木）等人被抓走。</p>
-<p>还有多名律师及相关人士处于失联或被控制的状态：张雪忠、周庆（锋锐所司机）、王全璋、黄立群、刘晓原、上海秦雷，包龙军（王宇的先生，公民代理人）等。北京知名异议人士胡石根失联，疑被限制自由。</p>
-<p>综合至11日上午11时的信息。张雪忠已经回家。凌晨四时，郑州警方强行开锁将常伯阳律师带走。凌晨五点四十左右，湖南谢阳律师、胡林政律师以及魏得丰三人 在怀化洪江托口镇黔州酒店被洪江市公安局和托口镇派出所的警察以扰乱单位秩序罪名带走。覃永沛及王成已经回到家中。刘晓原律师还在被当地警方控制中。</p>
-<p>综合至11日凌晨2时的消息，知名维权律师及法律学者张雪忠，甘肃李大伟、湖南郭雄伟、重庆游飞翥、河南常伯阳、浙江王成、山东刘卫国、北京张凯等律师家中都有警察闯入。刘卫国、李大伟家警察已经离开，两人未被带走。郭雄伟人不在家。另有湖南吕方芝、湖南文东海、云南曾维昶、上海薛荣民、湖南杨金柱、重庆 付剑波、浙江王成、河南姬来松、上海李天天等律师被深夜传唤带走。福建邹丽惠律师、甘肃蒋永继律师被传唤后已经回到家中。</p>
-<p>湖南杨金柱律师11日凌晨透露出来的消息称，据国保说：上级通报，周世锋涉及严重刑事犯罪。另据被传唤的律师传出来的消息称，维权律师被传唤，与声援王宇律师一事有关。</p>
-<p>10日当天，有多名维权律师、律师助理或律师事务所工作人员被抓捕。据同是锋锐所的刘晓原律师发布的消息：“（7月10日）下午1时25分许，接本所 （北京锋锐律师事务所律师）律师李姝云姐姐电话，说上午十一时多，有十几个便衣到家中，带走了李姝云律师。他们出示的是天津市公安局工作证。李姝云姐姐感 到奇怪并提出质疑，他们解释说，也有北京警方人员一起执法。他们在家搜查扣押电脑和硬盘，说李姝云涉及一起刑事案件带走调查。”据游飞翥律师发布的信息： “刚刚与张维玉通过电话，从下午一点到五点半，警方把他及其他人限制在锋锐律师事务所的会议室。手机被控制起来，搜查律所，完毕之后，现在他们获得自由。 限制自由一共有四个多小时。”</p>
-<p>据现场人士透露，10日上午11:30，有着警服有着便衣的自称北京市公安局的一群人闯入北京锋锐律师事务所，说是受天津市公安局的委托，对该所进行搜 查。在所内的张维玉律师、周世锋主任的司机周庆、左培生、江天勇、冯斌等13人被控制。来人对锋锐律师事务所进行了全面搜查、拍照，重点是周世锋主任和刘 四新律师的办公室，他们叫来了开锁人，打开了二人的办公室门及保险柜。江天勇律师被提前带离，至11日凌晨2时回到家中。</p>
-<p>10日下午6点，刘晓原律师发布微信“我可能被地方公安控制。”知名维权人士王荔蕻10日晚十一点半在推特上（@wlh8964 ）发布信息，“7月10日晚23：00 刘晓原律师短信：‘我有事了’。电话打过去，只说‘我有事、我有事。’背景里有多人的声音！判断刘律已经被控制。”</p>
-<p>锋锐所目前至少有8人被抓或失联，包括，前行政助理吴淦、王宇律师、主任周世锋律师、现任行政助理刘四新、出纳王芳、律师兼行政李姝云。王全章律师及黄力群律师失联。</p>
-<p>北京独立制片人沈勇平于11日零时在微博发布信息称，“隋牧青律师刚被广州番禺南村派出所以涉嫌寻衅滋事带走。”广州网友叶隐发布了详细经过：“刚和隋牧 青律师太太孙世华律师电话证实，隋牧青律师于7月10日23:40，被广州番禺区南村派出所，以寻衅滋事名义带走。隋太孙律师说：23:30，有人楼下按 门铃，说隋律的车被撞，请下楼处理。隋律已休息，说明天再处理。来人说撞得很严重，需即时处理。隋律下楼，在楼道被控制，并出具了寻衅滋事传唤通知。隋律 问具体所涉何事，对方不答。”</p>
-<p>另据李春富律师发布的消息：“刚收到嫂子王峭岭（李和平律师的太太）的短信：‘李和平律师被天津市公安局带走。家里被彻底搜查了一遍，所有电脑都被带 走。涉及刑事案件。有什么好的律师可推荐。’请大家关注。”另据网络消息，李和平律师的助理赵威（网名考拉）今天于7月10日被帶走。李和平律师在高博隆 华律师事务所工作。</p>
-<p>李金星“洗冤录”办公室被查抄，游豫平发布到网络的消息说“下午回来在办公室进来有20个条子（警察），手机及电脑硬盘等所有东西都被拿走了。 当时就他一个人在办公室里，东西拿走人没事。”</p>
-<p>河北李威达律师于10日晚10：35在微信发消息说：唐山市国保在敲门。目前电话已经打不通了。维权人士欧彪峰于10日晚11：30在推特上发布消息说 “广西南宁覃永沛律师数分钟前在微信发消息说被带到派出所，问他因为什么原因被带到哪个派出所，就一直没有回覆了······”</p>
-<p>另据微信消息，王宇律师的儿子包蒙蒙在天津已被姑姑包海英从公安手中接回。</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8E%9F%E3%80%8A%E6%97%B6%E4%BB%A3%E5%91%A8%E6%8A%A5%E3%80%8B%E9%A9%BB%E4%BA%AC%E8%AE%B0%E8%80%85%E5%8A%A9%E6%89%8B%E5%BC%A0%E6%B7%BC%E6%97%A0%E7%BD%AA/">德国之声｜原《时代周报》驻京记者助手张淼无罪获释</a></p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%A4%A7%E6%89%AB%E8%8D%A1%EF%BC%9A%E8%87%B3%E5%B0%91%E4%BA%8C%E5%8D%81%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%93%E6%8D%95%E6%88%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E5%8E%9F/?category=18271" rel="tag">刘晓原</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%9B%AA%E5%BF%A0/?category=18271" rel="tag">张雪忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -959,7 +998,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3btv4ofdp8g62.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://do6jnz5ogldgs.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -969,5 +1008,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d3btv4ofdp8g62.cloudfront.net">https://d3btv4ofdp8g62.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a><br/><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/><a href="https://de05wsbc62ea7.cloudfront.net">https://de05wsbc62ea7.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>

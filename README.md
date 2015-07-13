@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d167zo4rk7pyrg.cloudfront.net">https://d167zo4rk7pyrg.cloudfront.net</a><br/><a href="https://dzxmgoz6q56na.cloudfront.net">https://dzxmgoz6q56na.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://dhkrvhow3t86l.cloudfront.net">https://dhkrvhow3t86l.cloudfront.net</a><br/><a href="https://dzxmgoz6q56na.cloudfront.net">https://dzxmgoz6q56na.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%B0%E5%A2%83%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%80%A7%E4%BE%B5%E9%98%B4%E5%BD%B1%E4%B8%8B%E7%9A%84%E6%9D%91%E5%BA%84/" target="cdt-mirror">新京报 | 留守儿童困境调查：性侵阴影下的村庄</a>
@@ -168,7 +168,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2/?category=18271" rel="tag">人民法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3/?category=18271" rel="tag">公安机关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">刑事案件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC/?category=18271" rel="tag">刑事诉讼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">司法程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">国家权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E7%BE%A4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE-%E6%8A%B5%E5%BE%A1%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/" target="cdt-mirror">美国之音｜习近平参加群团工作会议 抵御敌对势力和“颜色革命”</a>
 </h2>
@@ -969,7 +969,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhkrvhow3t86l.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -979,5 +979,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dhkrvhow3t86l.cloudfront.net">https://dhkrvhow3t86l.cloudfront.net</a><br/><a href="https://d167zo4rk7pyrg.cloudfront.net">https://d167zo4rk7pyrg.cloudfront.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d246o6rb4182xj.cloudfront.net">https://d246o6rb4182xj.cloudfront.net</a><br/><a href="https://dzxmgoz6q56na.cloudfront.net">https://dzxmgoz6q56na.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d167zo4rk7pyrg.cloudfront.net">https://d167zo4rk7pyrg.cloudfront.net</a><br/></td>    </tr>
 </table>

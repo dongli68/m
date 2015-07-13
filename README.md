@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d4oaiwhq0gvm2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d4oaiwhq0gvm2.cloudfront.net">https://d4oaiwhq0gvm2.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://d1mu055s6van1y.cloudfront.net">https://d1mu055s6van1y.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d2ccln9a5b6v1r.cloudfront.net">https://d2ccln9a5b6v1r.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d1mu055s6van1y.cloudfront.net">https://d1mu055s6van1y.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%B0%E5%A2%83%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%80%A7%E4%BE%B5%E9%98%B4%E5%BD%B1%E4%B8%8B%E7%9A%84%E6%9D%91%E5%BA%84/" target="cdt-mirror">新京报 | 留守儿童困境调查：性侵阴影下的村庄</a>
@@ -151,7 +151,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%B5%E5%AE%B3/?category=18271" rel="tag">侵害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99/?category=18271" rel="tag">刑事拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E9%95%BF/?category=18271" rel="tag">家长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%88%E5%BE%B7/?category=18271" rel="tag">师德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BC%E5%84%BF%E5%9B%AD/?category=18271" rel="tag">幼儿园</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BC%E5%A5%B3/?category=18271" rel="tag">幼女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%A5%B8/?category=18271" rel="tag">强奸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%A5%E4%BA%B5/?category=18271" rel="tag">猥亵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">留守儿童</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%80%8E%E4%B9%88%E5%8A%9E-%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4%E6%8D%9F%E5%AE%B3%E5%8F%B8%E6%B3%95%E6%9D%83%E5%A8%81/" target="cdt-mirror">怎么办 | “央视审判”损害司法权威</a>
 </h2>
@@ -969,7 +969,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -979,5 +979,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d1b0katyvgixbi.cloudfront.net">https://d1b0katyvgixbi.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1mu055s6van1y.cloudfront.net">https://d1mu055s6van1y.cloudfront.net</a><br/><a href="https://d4oaiwhq0gvm2.cloudfront.net">https://d4oaiwhq0gvm2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d1mu055s6van1y.cloudfront.net">https://d1mu055s6van1y.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d4oaiwhq0gvm2.cloudfront.net">https://d4oaiwhq0gvm2.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3a3uobazz9lql.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87-%E8%B0%81%E6%94%B9%E5%8F%98%E4%BA%86%E9%9F%A9%E5%9B%BD%EF%BC%9A518%E8%BF%90%E5%8A%A8-629%E5%AE%A3%E8%A8%80-%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1/" target="cdt-mirror">闾丘露薇 | 谁改变了韩国：518运动 629宣言 一部电影</a>
@@ -270,7 +270,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2/?category=18271" rel="tag">人民法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3/?category=18271" rel="tag">公安机关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">刑事案件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC/?category=18271" rel="tag">刑事诉讼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">司法程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">国家权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-12/" target="cdt-mirror">奇闻录 | 周末段子荟萃 7-12</a>
 </h2>
@@ -998,7 +998,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1008,5 +1008,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

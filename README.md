@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d6d6bhobe59v0.cloudfront.net">https://d6d6bhobe59v0.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d1zbtxzfg8rdji.cloudfront.net">https://d1zbtxzfg8rdji.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%82%A8%E7%9A%84%E5%BE%8B%E5%B8%88%E5%B7%B2%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BF%99%E5%84%BF%E4%BA%86/" target="cdt-mirror">【麻辣总局】您的律师已在我们这儿了</a>
+</h2>
+<p><p>@jajia：在我的律师来之前，我什么都不会说。对不起，您的律师已经在我们那儿了。</p>
+<p>@remonwangxt：根據@jajia 的原創段子改編的當代奇幻漫畫。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJzTPlsUAAEEFr6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJzTPlsUAAEEFr6.jpg" alt="CJzTPlsUAAEEFr6" width="550" height="690"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%82%A8%E7%9A%84%E5%BE%8B%E5%B8%88%E5%B7%B2%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BF%99%E5%84%BF%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87-%E8%B0%81%E6%94%B9%E5%8F%98%E4%BA%86%E9%9F%A9%E5%9B%BD%EF%BC%9A518%E8%BF%90%E5%8A%A8-629%E5%AE%A3%E8%A8%80-%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1/" target="cdt-mirror">闾丘露薇 | 谁改变了韩国：518运动 629宣言 一部电影</a>
 </h2>
 <p><p>曾经有一段时间，对于韩国的印象，就是上街示威的大学生，电视镜头里面总是火光冲天的样子，那应该是1980年代末1990年代中，有机会看香港的电视新闻的缘故。</p>
@@ -964,29 +977,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%88%E7%8E%B0%E7%A6%BB%E5%A9%9A/" target="cdt-mirror">自由亚州｜今年高考结束后，中国多地又现“离婚潮”</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/image.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/image.jpg" alt="image" width="500" height="375"></a><p>图片：中国的离婚证和结婚证。（网络图片）</p></div>
-<p>今年高考结束后，中国多地又现“离婚潮”。媒体认为，是因不少夫妇为了不影响孩子考试，推迟离婚所致。广州婚姻登记处“限号”办理离婚手续，最快要等一个月。</p>
-<p>《北京晨报》7月10号报道，为了孩子的学业不受影响，很多婚姻早就出现问题的父母选择等到高考结束后再离婚，每年高考过后的6月份到9月份也会出现离婚的“小高潮”。统计数据显示，自2009年以来，辽宁、湖南、青海、天津、重庆、山东、浙江和河南等地，每年高考结束后的20天比之前的20天，法院受理的离婚案件数都有较大的增长。湖南《三湘都市报》的相关报道说，全国高考的一周，长沙五城区共有247对夫妻离婚；而高考后的一周，就有493对夫妻离婚，增加近一倍。离婚的原因大多是 “感情不和，可以不用为了孩子继续勉强撑下去了”。</p>
-<p>《广州日报》7月10号报道说，广州部分市民近日遭遇离婚“限号”。广州市婚姻登记网上服务系统的离婚登记预约网页查询显示，天河区、白云区等地的离婚登记本月已约满，最快要8月11号才能办理离婚。有婚姻登记处的负责人表示，离婚“限号”原因是工作人手不足。广东居民李先生对此评论说：</p>
-<p>“现在很多政府部门的办事方式都是‘限号’的。这种方式不见得是坏事，但是政府的人手确实应该根据市民的需求来调整。”</p>
-<p>李先生认为，民政部门对离婚“限号”，可能也是为了降低离婚率，建设“和谐社会”。</p>
-<p>“按照中国婚姻法的规定，离婚必须得经过一个调解的过程。这个规定的本意就是认为，婚姻稳定是社会和谐的标志，是国家稳定富强的基础。政府还是那种传统意识，无视个人自由，公权、私权没有分开。”</p>
-<p>报道还说，目前也有不少夫妇是为了买学位房而“技术性”离婚。比如，广州市民林先生现有房产周围的两所小学都很一般，想再买一套好学校附近的学位房，但资金吃紧，于是他与妻子商量好离婚，以便在购买学位房时，利用首套房政策，获得优惠贷款利率。广东居民李先生对此评论说：</p>
-<p>“涉及到技术性离婚的，远远不只买房这一项，还有涉及到计划生育的。有的人为了多生一个，或者少缴罚款，也有技术性离婚的。我身边的人中就有不少技术性离婚的。”</p>
-<p>中国民政部近日发布的《2014年社会服务发展统计公报》显示，2014年中国大陆共有363.7万对夫妇离婚。2003年以来，中国离婚率已连续12年呈递增状态。</p>
-<p>（记者：林坪 编辑：嘉华）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%88%E7%8E%B0%E7%A6%BB%E5%A9%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%A6%BB%E5%A9%9A/?category=18271" rel="tag">中国式离婚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -998,7 +988,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d6d6bhobe59v0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1008,5 +998,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d6d6bhobe59v0.cloudfront.net">https://d6d6bhobe59v0.cloudfront.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d1zbtxzfg8rdji.cloudfront.net">https://d1zbtxzfg8rdji.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d6d6bhobe59v0.cloudfront.net">https://d6d6bhobe59v0.cloudfront.net</a><br/></td>    </tr>
 </table>

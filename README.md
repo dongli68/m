@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://l0nd7b.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://de05wsbc62ea7.cloudfront.net">https://de05wsbc62ea7.cloudfront.net</a><br/><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87-%E8%B0%81%E6%94%B9%E5%8F%98%E4%BA%86%E9%9F%A9%E5%9B%BD%EF%BC%9A518%E8%BF%90%E5%8A%A8-629%E5%AE%A3%E8%A8%80-%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1/" target="cdt-mirror">闾丘露薇 | 谁改变了韩国：518运动 629宣言 一部电影</a>
@@ -998,7 +998,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://do6jnz5ogldgs.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1008,5 +1008,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://do6jnz5ogldgs.cloudfront.net">https://do6jnz5ogldgs.cloudfront.net</a><br/><a href="https://d1lnszqt9ilz2d.cloudfront.net">https://d1lnszqt9ilz2d.cloudfront.net</a><br/><a href="https://de05wsbc62ea7.cloudfront.net">https://de05wsbc62ea7.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3a3uobazz9lql.cloudfront.net">https://d3a3uobazz9lql.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

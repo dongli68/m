@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2t90pvdbri3c5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dtjv8l8ak7z86.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2t90pvdbri3c5.cloudfront.net">https://d2t90pvdbri3c5.cloudfront.net</a><br/><a href="https://d2lnpt5c90nzai.cloudfront.net">https://d2lnpt5c90nzai.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://dtjv8l8ak7z86.cloudfront.net">https://dtjv8l8ak7z86.cloudfront.net</a><br/><a href="https://d2t90pvdbri3c5.cloudfront.net">https://d2t90pvdbri3c5.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2lnpt5c90nzai.cloudfront.net">https://d2lnpt5c90nzai.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%82%A8%E7%9A%84%E5%BE%8B%E5%B8%88%E5%B7%B2%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BF%99%E5%84%BF%E4%BA%86/" target="cdt-mirror">【麻辣总局】您的律师已在我们这儿了</a>
@@ -988,7 +988,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dtjv8l8ak7z86.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ize.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -998,5 +998,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF
                 <td></td>
                 
         
-        <td><a href="https://dtjv8l8ak7z86.cloudfront.net">https://dtjv8l8ak7z86.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2t90pvdbri3c5.cloudfront.net">https://d2t90pvdbri3c5.cloudfront.net</a><br/><a href="https://d2lnpt5c90nzai.cloudfront.net">https://d2lnpt5c90nzai.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://d2t90pvdbri3c5.cloudfront.net">https://d2t90pvdbri3c5.cloudfront.net</a><br/><a href="https://dtjv8l8ak7z86.cloudfront.net">https://dtjv8l8ak7z86.cloudfront.net</a><br/></td>    </tr>
 </table>

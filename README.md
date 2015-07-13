@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d3vjt7p44ey112.cloudfront.net">https://d3vjt7p44ey112.cloudfront.net</a><br/><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://d2ccln9a5b6v1r.cloudfront.net">https://d2ccln9a5b6v1r.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B8%AF%E5%8E%BB%E5%B9%B4%E9%80%BE30%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E9%81%87%E8%A2%AD%E5%AE%89%E5%85%A8%E5%A0%AA%E8%99%9E/" target="cdt-mirror">自由亚洲 | 港去年逾30记者采访遇袭安全堪虞</a>
@@ -203,7 +203,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2/?category=18271" rel="tag">人民法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3/?category=18271" rel="tag">公安机关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">刑事案件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC/?category=18271" rel="tag">刑事诉讼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">司法程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">国家权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E7%BE%A4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE-%E6%8A%B5%E5%BE%A1%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/" target="cdt-mirror">美国之音｜习近平参加群团工作会议 抵御敌对势力和“颜色革命”</a>
 </h2>
@@ -253,7 +253,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E5%B9%B3/?category=18271" rel="tag">江平</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E7%BD%91%E7%BB%9C%E7%BB%B4%E7%A8%B3%E7%AB%8B%E6%B3%95%E5%BC%BA%E5%88%B6-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%99%A9%E6%A2%A6%E5%8A%A0%E6%B7%B1/" target="cdt-mirror">自由港｜网络维稳立法强制 中国人权噩梦加深</a>
 </h2>
@@ -959,7 +959,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ccln9a5b6v1r.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2pp4j4x0s9ozk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -969,5 +969,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d2ccln9a5b6v1r.cloudfront.net">https://d2ccln9a5b6v1r.cloudfront.net</a><br/><a href="https://d2967xzlyq7mvq.cloudfront.net">https://d2967xzlyq7mvq.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://d3vjt7p44ey112.cloudfront.net">https://d3vjt7p44ey112.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2pp4j4x0s9ozk.cloudfront.net">https://d2pp4j4x0s9ozk.cloudfront.net</a><br/><a href="https://dzwolpw164hc1.cloudfront.net">https://dzwolpw164hc1.cloudfront.net</a><br/><a href="https://d2xifhuwz3r6uc.cloudfront.net">https://d2xifhuwz3r6uc.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
 </table>

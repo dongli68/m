@@ -88,7 +88,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/?category=18271" rel="tag">一党专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E6%B3%95/?category=18271" rel="tag">国安法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">核心利益</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E4%B8%AD%E5%85%B1%E5%AE%98%E5%AA%92%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%89%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E6%8A%93%E6%8D%95%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/" target="cdt-mirror">BBC | 中共官媒回应美国批评中国抓捕维权律师</a>
 </h2>
@@ -254,7 +254,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%85%AC%E4%BB%86/?category=18271" rel="tag">人民公仆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BB%86/?category=18271" rel="tag">公仆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE/?category=18271" rel="tag">垃圾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%81%94/?category=18271" rel="tag">文联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%81%94%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">文联主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A/?category=18271" rel="tag">舔菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A1%E9%98%B3/?category=18271" rel="tag">衡阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E4%BE%83/?category=18271" rel="tag">调侃</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AF%97%E3%80%91%E4%B8%BB%E4%BB%86%E7%8E%8B%E6%80%A1-%E5%93%8E%E5%91%80-%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%9F%E5%A4%9A/" target="cdt-mirror">【诗】主仆王怡 | 哎呀 我的朋友真多</a>
 </h2>
@@ -853,5 +853,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/></td>    </tr>
 </table>

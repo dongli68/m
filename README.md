@@ -24,6 +24,110 @@
         <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AF%97%E3%80%91%E4%B8%BB%E4%BB%86%E7%8E%8B%E6%80%A1-%E5%93%8E%E5%91%80-%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%9F%E5%A4%9A/" target="cdt-mirror">【诗】主仆王怡 | 哎呀 我的朋友真多</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/646548021522425215.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/646548021522425215.jpg" alt="哎呀  我的朋友真多" width="500" height="375"></a><p>哎呀 我的朋友真多</p></div>
+<p><strong>哎呀，我的朋友真多</strong></p>
+<p> </p>
+<p>刘晓波是我的朋友</p>
+<p>我不想再说什么</p>
+<p>高智晟也是我的朋友</p>
+<p>虽然我们见面次数不多</p>
+<p>许志永是我的朋友</p>
+<p>他来过我家，又来教会听我讲道</p>
+<p>陈云飞是我的朋友</p>
+<p>他的女儿放假了</p>
+<p>也习惯了爸爸不在家</p>
+<p> </p>
+<p>刘贤斌是我的弟兄</p>
+<p>他在里面给一个小偷传福音</p>
+<p>我很久没见到他妻子了</p>
+<p>李化平是我的弟兄，和我体重相若</p>
+<p>当然我是指他入狱之前</p>
+<p>唐荆陵是我的弟兄</p>
+<p>第一次在广州见他，他穿着草鞋</p>
+<p>陈卫也是我的弟兄</p>
+<p>我们只吃过一顿饭，因为客气</p>
+<p>他硬着头皮，也听我讲了一次道</p>
+<p> </p>
+<p>李和平是一位好弟兄</p>
+<p>前几年，每次出事我都找他</p>
+<p>李方平也是好弟兄，和他一字之差</p>
+<p>胡世根长老是好朋友</p>
+<p>在北京见第一面，在成都见第二面</p>
+<p>范亚峰是我的弟兄，也是我兄长</p>
+<p>主曾叫我跪在他家的地板上</p>
+<p>做了最后一次决志祷告</p>
+<p> </p>
+<p>杨茂东也是我的朋友</p>
+<p>虽然许多人认为，我是他的敌人</p>
+<p>他的律师隋牧青来过教会两次</p>
+<p>和我握了两次手。听说他被带走</p>
+<p>我忽然感到手上热乎乎的</p>
+<p> </p>
+<p>冉云飞是我的老朋友</p>
+<p>浦志强也是我的朋友</p>
+<p>一个朋友坐牢时，我和另一个朋友通电话</p>
+<p>后来夏霖也坐牢了</p>
+<p>我们喝过一次，当然我是以茶代酒</p>
+<p>坐牢的人都惺惺相惜</p>
+<p>所以朋友的朋友，也成了朋友</p>
+<p> </p>
+<p>哎呀，我的朋友真多</p>
+<p>郭玉闪在我书房，谈过一个下午</p>
+<p>笑蜀在我客厅，屁股没坐热就走了</p>
+<p>王清营多年前来成都，敲过我的门</p>
+<p>郑恩宠倒是一面都没见过</p>
+<p>但他的夫人刚来过我家查经</p>
+<p> </p>
+<p>谭作人是一个好朋友</p>
+<p>记得第一次在江边喝茶，他说</p>
+<p>你多保重啊，千万不要进去</p>
+<p>谁知进去的人是他</p>
+<p> </p>
+<p>还有些人，必须先成为朋友</p>
+<p>出来后才有机会认识</p>
+<p>譬如师涛，譬如杨子立</p>
+<p>还有些亲爱的朋友，只能在海外约</p>
+<p>譬如去美国，约余杰弟兄</p>
+<p>去香港，约滕彪兄弟</p>
+<p> </p>
+<p>还有我的朋友李必丰，他居然托人</p>
+<p>带了一张纸条出来给我</p>
+<p>要我帮他儿子留在加拿大，别回来</p>
+<p>还有我的弟兄王炳章，我和他的女儿一道</p>
+<p>去华盛顿见过美国参议员</p>
+<p>还有杨天水，还有许万平</p>
+<p>还有黄琦，他妻子在教会受过洗</p>
+<p>还有严文汉，进入链子门之前</p>
+<p>他是秋雨之福教会的慕道友</p>
+<p> </p>
+<p>哎呀，我的朋友真多</p>
+<p>北京最多，成都次之，广东第三</p>
+<p>哎呀，我的朋友真多</p>
+<p>基本上都是男的，留下孤儿寡母</p>
+<p>哎呀，我的朋友真多</p>
+<p>多我一个不多，少我一个不少</p>
+<p> </p>
+<p>哎呀，我的朋友真多</p>
+<p>我不以为耻，反以为荣</p>
+<p>哎呀，我的朋友真多</p>
+<p>谈笑有囚徒，往来无鸿儒</p>
+<p>哎呀，我的朋友真多</p>
+<p>我怕什么，如果上帝让我进去了</p>
+<p>总有人说，王怡是我的朋友</p>
+<p>王怡是我的弟兄</p>
+<p>我们要为他祷告，替他的妻儿分忧</p>
+<p> </p>
+<p>20150713，深夜，想念朋友。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AF%97%E3%80%91%E4%B8%BB%E4%BB%86%E7%8E%8B%E6%80%A1-%E5%93%8E%E5%91%80-%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%9F%E5%A4%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0/?category=18271" rel="tag">余杰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%84%E5%BC%9F/?category=18271" rel="tag">兄弟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%89%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">冉云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%B4%A4%E6%96%8C/?category=18271" rel="tag">刘贤斌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96/?category=18271" rel="tag">夏霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%88%E6%B6%9B/?category=18271" rel="tag">师涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E4%BC%9A/?category=18271" rel="tag">教会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BB%95%E5%BD%AA/?category=18271" rel="tag">滕彪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%80%A1/?category=18271" rel="tag">王怡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8B%E9%9B%A8%E4%B9%8B%E7%A6%8F/?category=18271" rel="tag">秋雨之福</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B8%E5%BF%97%E6%B0%B8/?category=18271" rel="tag">许志永</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%AD%E4%BD%9C%E4%BA%BA/?category=18271" rel="tag">谭作人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">陈云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%95%E6%B8%85%E6%B6%9F-7%E6%9C%88a%E8%82%A1%E6%95%91%E5%B8%82%EF%BC%9A%E6%9D%83%E5%8A%9B%E4%B8%8E%E5%B8%82%E5%9C%BA%E7%9A%84%E5%AF%B9%E5%86%B3/" target="cdt-mirror">何清涟 | 7月A股救市：权力与市场的对决</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/8E39F80F-47F8-4984-A27C-711762929416_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/8E39F80F-47F8-4984-A27C-711762929416_w640_r1_s.jpg" alt="在武汉的证券交易市场，股民们看着电脑屏幕上的股市行情。" width="550" height="309"></a><p>在武汉的证券交易市场，股民们看着电脑屏幕上的股市行情。</p></div>
@@ -953,60 +1057,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97/?categor
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></div></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%99%A4%E4%BA%86%E4%BE%A9%E5%AD%90%E6%89%8B%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%80%80%E6%81%8B%E7%BA%B3%E7%B2%B9%E9%9B%86%E4%B8%AD/" target="cdt-mirror">【网络民议】除了侩子手，没有人会怀恋纳粹集中营</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/c562285bjw1etnlmab07bj20p118gjze.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/c562285bjw1etnlmab07bj20p118gjze.jpg" alt="c562285bjw1etnlmab07bj20p118gjze" width="400" height=""></a><br><em>（鸟巢知青展一景：“习近平：七年的上山下乡生活对我锻炼很大”；图片来源：新浪微博）</em></p>
-<blockquote><p><a href="http://www.weibo.com/huxijin">@胡锡进</a>：环球评论：知青一代的积极回忆值得尊重。知青上山下乡运动的成因中，当年中国城市化水平低、城里年轻人就业困难，大概是最基础的那一个。那是困难要用政治激 情包裹、遮掩的年代，成百上千万年轻人上演了恐怕历史也一言难尽的集体青春史诗，而史诗都充满了英雄主义，也如泣如诉。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-11-at-3.03.08-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-11-at-3.03.08-AM.png" alt="Screen Shot 2015-07-11 at 3.03.08 AM" width="550" height="178"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>君见无：史诗你一户口本！</p>
-<p>被传染的大脸：文字游戏：积极回忆值得尊重，不积极的回忆就不值得尊重了？</p>
-<p>Babash：困难是执政者自己造成的。不是放弃专制，搞活社会经济。反而创造出战天斗地的政治神话去蒙骗年轻人，通过政治斗争加上国家意志管理来胁迫年轻人去农村。把一群读书人，在最美好的青春阶段搞去干农活。知识没时间学，农村也不见得搞好。莫名其妙浪费十年青春。咋不见反思错误，反而歌颂浪费的十年呢</p>
-<p>楚之歌者: 请不要乱用尊重一词，知青运动是场浩大悲剧，反智的知识与实践倒挂。大冒进带来的工业停滞，流通崩溃。为魔头的任性买单，然后由你个杂种来可歌可泣！把你挂路灯才真正可歌！不泣！</p>
-<p>金辰天地：遮掩的是国家经济己全面崩溃了，这是知青的一部血泪史。</p>
-<p>日当无哼：你问过知青内心真正的想法吗？某些知青表面的说法是不可信的，去探视知青当时内心的心态就知道是怎么评价了，都是去你妈的。问过家里好几个当年的知青，说多了就是泪。你妈的，还吹嘘。</p>
-<p>尝尽似水流年：而且说当时城市水平低，就业困难，那就需要讨论下，这种局面是过错造成的，还是天灾造成的？如果是过错，是谁的过错！胡编的逻辑总是缺少了最关键的那半截</p>
-<p>猫在阳台:无耻！既然那么光荣伟大，为啥知青们跪在铁路边嚎哭着要回城？胡锡进赶紧让你娃也下乡去。</p>
-<p>未来就在此刻：一坨狗屎 经过胡大编们的嘴的深加工都成了香馍馍，让胡粉们垂涎三尺啊。</p>
-<p>一头小活猪: 作为胡学始祖，当年我说胡总最拿手的是叼飞盘，现在看来片面了，他老人家还有一桩手艺，就是食用大便加工，水果呀奶油啊芝士啊巧克力啊，一骨脑儿往上倒，然后请君品尝。</p>
-<p>KimiloveTF：叼飞盘+食屎 双管齐下</p>
-<p>jason-gdut：这也能接住！？难怪主子喜欢呢</p>
-<p>泓成_：胡编小心闪着腰啊，这接飞盘技术难度太高了！</p>
-<p>村长鲁阿满：有请胡编阐述一下，关于文革的七八个优点，美好回忆之类的。</p>
-<p>顾不白wx：我高中历史书上只有三页纸的东西，你们还说尊重？</p>
-<p>索馬里教授V：[doge]就业困难？你怎么不说当时青年没有创业精神啊</p>
-<p>流星弦月：黑白颠倒，是非不分，黑暗的年代被你歌颂成这样，你也真是极品。</p>
-<p>陀螺君：把知情的血泪史美化为英雄主义的赞歌，真是党的孩儿女</p>
-<p>深圳祝羚：既然积极回忆值得尊重，那么消极回忆呢？？</p>
-<p>石磊–闻博四海：那你现在要不再回炉一次？</p>
-<p><strong>12岁属马：要不胡编重走知青路呗。</strong></p>
-<p>飘在废墟上的回忆：您真好，说话都像您这样放屁，股市波动也不会那么大，夹边沟里面饿死的，横死的连棺材也没有的那些所谓右派，等怎么能放过现在在北京躺着的那位？</p>
-<p>树爸爸2012：我的几个妹妹和妹夫都当过知青，我认为知青下乡确实对农村有过好的影响，他们自己也得到了锻炼，但是负面问题更多更严重，对之只是美化歌颂是不符合历史事实的，是完全错误的。补充一点事实，当时并不是说去锻炼一段时间，而是号召安家落户。</p>
-<p>坠入尘世的星辰：我父亲也常怀念过去插队的战友，但不像有人那么无耻，拿过去的经历来证明那时代的美好，为错误的上山下乡运动来贴金。青春是美好的，但时代背景却是残酷的。西南联大的学生也没拿自己的青春经历证明抗日时代人民生活有多幸福。</p>
-<p>善败不亡：既然城裡就業困難上山下鄉後為什麼又從農村往城裡招工？一來一回不是巨大浪費嗎？毛就這麼拍屁股治國國家能不窮？</p>
-<p>青青子佩jx：你也承认这个展览是”有选择的记忆”,那我问你,如果有人办另一场相反的”有选择记忆”的展览,你会赞成吗?当局会允许吗?如果不成,就别提什么客观公正.</p>
-<p>zzzfff1235：当年上海只有600多万人，就说城市养活不了这么多人，如今上海2400多万人，也没说养活不了。完全是计划经济穷途末路的结果。</p>
-<p>羞涩的起哄架秧子星人：傻逼总是想证明傻逼的合理性和曾经有多牛逼，可是他们忽略了再牛逼的傻逼还是傻逼</p>
-<p>王水的世界：丧事当喜事说，好。</p>
-<p>多喝水0927：除了侩子手，没有人会怀恋纳粹集中营！</p>
-<p>空山新雨晚秋：也就是痛苦回忆就闭嘴，打死也不能说。</p>
-<p>威力王123世：看完评论，我就想先别码字了，火力太低，让人笑话。</p>
-<p>弹琴猪：卧槽！无论角度多么刁钻的飞盘胡编都能信手拈来的稳稳接住！御用文人的标杆啊！</p>
-<p>十三烂烂_：胡编评论：股民一代的积极回忆值得尊重。股民纷纷跳楼自杀的成因中，当今中国赌场普及率低、城里人娱乐活动少，大概是最基础的那一个。这是困难要用爱国主义包裹、遮掩的年代，成百上千万股民上演了恐怕历史也一言难尽的集体疯狂史诗，而史诗都充满了英雄主义，也如泣如诉。@文山娃 我这胡编体如何？</p>
-<p>我就不信八世：把所有骂你的都点个赞</p>
-<p><strong>附：<a href="http://opinion.huanqiu.com/shanrenping/2015-07/6971669.html">环球时报｜单仁平：知青一代的积极回忆值得尊重</a></strong></p>
-<blockquote><p>知青运动的成因中，当年中国工业化和城市化水平太低，城里物资匮乏且年轻人就业困难，大概是最基础的那一个。那是困难要用政治激情包裹、遮掩的年代，<strong>成百上千万年轻人上演了恐怕历史也一言难尽的集体青春史诗，而史诗都充满了英雄主义，也如泣如诉。</strong>[…]</p>
-<p><strong>个人励志往往会从逆境中发现积极的元素，一代人也会这样，它还会是一个民族感性的一面</strong>。这或许是历史观中宽容的基础。改革开放已经三十几年，共和国成立了六十几年，大多数有争议的人和事，由于不再与现实有直接利益相关，我们回首时都会离开当时的激烈态度，想起了那人的“某些好”，怀念那件悲伤事中人性温暖的碎片。</p>
-<p><strong>知青博物馆对上山下乡的记述是经过了选择的记忆，这种选择性并非是恶意的</strong>，因而或许是值得理解和体谅的。这样的展览并非国家对知青上山下乡的正式定性，它的发起人就是知青，他们要做的不是总结知青运动的时代背景和历史经验，而是向世人展示他们留在中华大地上的青春，他们希望以积极的身影走进历史。</p>
-<p>也许每一代人都有这样的权利，尊重知青那代人这一愿望，与他们一起做积极的回顾，还是强调历史的冷峻，坚持以当时上山下乡运动带给社会的问题和痛苦作为谈论知青的出发点，这是两种截然不同的维度。这两种维度开展尖锐冲突本是不应该的，当然它既然发生了，说明特别宽厚的社会可能很难存在。[…]</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%99%A4%E4%BA%86%E4%BE%A9%E5%AD%90%E6%89%8B%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%80%80%E6%81%8B%E7%BA%B3%E7%B2%B9%E9%9B%86%E4%B8%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%B1%B1%E4%B8%8B%E4%B9%A1/?category=18271" rel="tag">上山下乡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E9%9D%92/?category=18271" rel="tag">知青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9E%E7%9B%98%E8%83%A1/?category=18271" rel="tag">飞盘胡</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1018,7 +1068,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1weeg252kjd26.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2o16v2qzqa366.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1028,5 +1078,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/></td>    </tr>
 </table>

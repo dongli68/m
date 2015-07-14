@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iwakb03cg586.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2o16v2qzqa366.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E6%8B%98%E7%95%99%E6%BB%8B%E4%BA%8B%E5%BE%8B%E5%B8%88/" target="cdt-mirror">【真理部】有关部门拘留滋事律师</a>
@@ -831,7 +831,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -843,7 +843,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1weeg252kjd26.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iwakb03cg586.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -853,5 +853,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/></td>    </tr>
 </table>

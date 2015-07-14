@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iwakb03cg586.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2o16v2qzqa366.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%95%E6%B8%85%E6%B6%9F-7%E6%9C%88a%E8%82%A1%E6%95%91%E5%B8%82%EF%BC%9A%E6%9D%83%E5%8A%9B%E4%B8%8E%E5%B8%82%E5%9C%BA%E7%9A%84%E5%AF%B9%E5%86%B3/" target="cdt-mirror">何清涟 | 7月A股救市：权力与市场的对决</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/8E39F80F-47F8-4984-A27C-711762929416_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/8E39F80F-47F8-4984-A27C-711762929416_w640_r1_s.jpg" alt="在武汉的证券交易市场，股民们看着电脑屏幕上的股市行情。" width="550" height="309"></a><p>在武汉的证券交易市场，股民们看着电脑屏幕上的股市行情。</p></div>
+<p>话说中国政府铁腕救市，那手段真是别国望尘莫及，笔杆子与枪杆子齐上，奇迹终于出现：7月9日开始股市风向立变，股指扶摇直上，直到7月13日仍然保持上升，担心中国股灾之祸甚于希腊债务危机的言论顿时从国际媒体上消失。</p>
+<p>舆论开始讨论这种救市是否有损中国政府形象、对中国未来经济发展利大还是弊大之时，我倒是想到另一个问题：从应急手段的启动来看，北京其实是经历了一场应对金融危机的预演。</p>
+<p><strong>救市手段彰显政府极权本色</strong></p>
+<p>这次救市分两个阶段，第一阶段主要是任由证监会、央行在那里捣腾，因此办法也比较少，6月28日央行出台的降息降准算是大动作，结果股市不升反跌，在7月6日之后的三天狂跌之后，进入第二阶段，股市行情被上升到国家安全层面，不仅证监会、银监会、央行、财政部、国资委全体出动救市，就连公安部也出动力量“清查恶意做空势力”。如此强力救市，当然要有总书记习近平发出谕旨，否则无法启动“举国体制”。</p>
+<p>7月8日午间，证监会紧急发出【证监发（2015）51号】文，推出两条措施：一是规定从即日起6个月内，上市公司控股股东和持股5%以上股东及董事、监事、高级管理人员不得通过二级市场减持本公司股份。以上相关人员违反规定减持本公司股份的，将给予严肃处理。二是要求各证监局约谈近6个月内减持本公司股票的大股东及董监高管，明确以下要求，其中，减持5亿以下的增持比例不低于累计减持金额的10％；减持5亿元以上的增持比例不低于原减持金额的20％。</p>
+<p>“举国体制”的威力果然不同凡响，立刻有655家上市公司公告增持回购计划，其他金融机构也闻风而动，中科、招商斥资约1.63亿增持三家上市公司，等等，证金公司通过注资、发债、同业拆借等多种方式获得的流动性支持，截止到7月9日已达数千亿元。</p>
+<p>因畏惧国企反腐，从去年以来，国企高管们通过股市交易，将当年通过“经理人持股（MBO）”这一“国企改革”划拉来的股票“减持”，今年上半年共套现5000亿。证监会既有令下，估计这些国企高管们不等证监会“约谈”就乖乖按指示办事。那些股票本来就是高管们利用“国企改革”空手套白狼弄到的，党中央如今只让吐出一小部分共赴国难，还给留下大部分，已经算是开恩了。</p>
+<p>在“如朕亲临”的天子令牌压力下，“国家队”众志成城地“做多”，与“做空”的市场力量（也说成是“外部势力”）进行了一场人类股市史上前所未有的对决，终于战胜了2015年7月A股股灾，托住了股指（因为限制卖盘，所以不能称之为“托住股市”），稳定了包括中小散户在内的国内投资者的信心。</p>
+<p>难怪2008年金融危机降临美国之时，《华尔街日报》有篇文章希望“党支部空降华尔街”，戏称只有中共才能拯救美国股市。没想到一语成谶，七年之后，党中央降临中国股市，成功地托住了股指。</p>
+<p><strong>挽股市崩塌于既倒，习总“全能”形象获巩固</strong></p>
+<p>7月5日，北京多方救市不灵，一篇《万一2015年股市崩盘，会有什么样的后果？》的文章流传网上。该文预测：如果股市，房市，实体经济和银行系统都出现危机，那么下一个受到冲击的绝对是汇率。央行又毫无例外地双线作战股市与汇市。结果是人民币国际化就此休息，香港可能再次受到极大的冲击。</p>
+<p>中国经历过十几轮牛熊翻覆，但习的决断力，以及他领导下的救市手段之蛮勇，绝非前两任总书记能够企及。</p>
+<p>这次最大的特色就是让警察与国安力量介入救市。7月9日，新华社发布消息，称当天上午“公安部副部长孟庆丰带队到证监会，会同证监会排查近期恶意卖空股票与股指的线索，要出重拳打击违法违规行为”。</p>
+<p>公安与国安力量介入救市采取了何种具体行动，外界不得而知，但据博讯7月12日引述“吾上天涯”一条信息，截至7月9号下午18时，国安局已查获特大地下钱庄286家。封堵，查封近3万亿现金。这笔资金“将以扰乱国内金融次序之罪名，收入国库”，因为这条消息无别的来源，暂且视为“齐东野语”，姑妄听之。</p>
+<p>这次股市下跌一度非常危急，甚至带动了纽约股市下跌，让一些国际观察人士觉得世界金融危机将再度由中国股市引爆，因此对被视为“全能”的习近平的控制能力产生严重怀疑。经过7月A股救市，人们对习的强势与决断力再无怀疑，有分歧的是对习的强势将对中国命运产生何种影响。</p>
+<p>对救市抱持正面看法的人，大都在国内，认为救市不仅应该，而且避免了一次危机。一些评论委婉地提出要反思经验，不能再有下一轮。赞美救市的曲调不够高昂的原因，只是因为这场股灾本来就是“政策牛市”惹的祸，人们对此记忆犹新，官媒不好意思回避这一事实，只说“党啊，您在关键时刻率领全党全国人民成功地平息了灾难”。</p>
+<p>对7月A股救市抱持负面看法的，除了希望危机能推动改朝换代的人之外，还有希望中国能够通过市场化改革成为市场经济体制国家的海外投资者。他们希望中国提高市场化程度，融入国际大家庭，减少与世界各国经贸交往的障碍。这类看法，以《金融时报》7月13日《中国救市举措威胁人民币改革》为代表，文中讲到一些人的失望：“执政的中共最终无法放弃对中国经济和金融体系重要方面的控制权。……在华的外国投资者也常常发出抱怨：他们现在发现自己正处于一个不友好的监管氛围下，大量官僚主义的市场准入门槛依然令他们感到沮丧。”</p>
+<p>上述评价的分歧主要源于评价者与中共体制有无利益关系，算是体现了相对主义的精髓：全看你在什么时间，全看你处在什么地位，全看你与这一事件或人的关系。</p>
+<p><strong>世界重温1949年上海故事</strong></p>
+<p>2015年7月A股救市，与1949年5月以后，陈毅、陈云在上海与“不法奸商”（实际也是“市场力量”）对决相似。</p>
+<p>1949年5月25日上海解放，陈毅、陈云奉命主政上海，在大半年时间里，围绕货币和商品，与上海投机商人面对面地打了三次激烈的攻防战，最后赢了个大满贯。二陈用了什么法宝呢？无他，动用了军事行动。</p>
+<p>以第一仗“银元大战”为例，发行金元券的币制改革导致恶性通货膨胀，使人民对纸币失去了信心。上海解放后10天内，黄金、银元和美钞被大力炒作，银元价格暴涨了将近两倍，各种物价指数随之上涨，大米和棉纱涨了一倍多。南京路上的四大百货公司用银元标价，拒用人民币，“解放军进了上海城，可是人民币却进不了南京路”成了国际笑话。在军事管制委员会抛售银元平市无效之后，二陈商量并获毛泽东电准，决定采取断然的军事手段。先于6月8日，军管会通过报纸、电台进行“阵前喊话”，要求商家接受人民币。10日上午，由上海市警备司令部司令员宋时轮亲领全副武装的军警，分五路包抄汉口路422号的上海证券大楼，搜查、登记了所有封堵在大楼内的人员名单及财物，然后集中训话，当场扣押234人，移送人民法院审判。</p>
+<p>当时国内外舆论认为，“共产党军事一百分，政治八十分，经济打零分”，银元大战后，二陈又在纱布大战、粮食大战中获胜，方式依然是动用国家机器力量同市场力量对决，上海滩上的各种“投机商人”，轻则坐牢赔家当，重则丢了命。据红色资本家荣毅仁回忆，经此三大经济战役，海内外对中共的经济能力改变看法。</p>
+<p>毛泽东对上海经济战役评价很高，认为其意义“不下于淮海战役”，御笔亲书“能”字褒奖陈云。从此，陈云稳坐党内头号财经专家交椅，直至去世。</p>
+<p>从1949年到2015年，时光流逝66年，但中共禀赋依旧未脱革命党本色。中国的毛粉们正在盼星星盼月亮，日夜盼望毛泽东重回人间，此次习总救市的强悍形象，应该让毛粉们看到了希望，看到了光明。</p>
+<p>中国A股市场经历了这一轮从政策牛市到国安力量介入救市的波折，从西方自由经济的角度来看，中国离市场经济体制的标准更加遥远；从中国政府的角度来看，等于时光倒转60余年，重温1949年毛泽东遥控指挥二陈在上海与市场对决的历史。这种权力与市场对决经验的重温，相当于进行了一场应对金融危机的预演。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%95%E6%B8%85%E6%B6%9F-7%E6%9C%88a%E8%82%A1%E6%95%91%E5%B8%82%EF%BC%9A%E6%9D%83%E5%8A%9B%E4%B8%8E%E5%B8%82%E5%9C%BA%E7%9A%84%E5%AF%B9%E5%86%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%AE%B6/?category=18271" rel="tag">专家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E8%83%A1%E8%80%80%E9%82%A6%E7%9A%84%E6%9C%80%E5%90%8E%E5%8D%8A%E5%B9%B4-%E6%80%9D%E6%83%B3%E5%8E%8B%E6%8A%91%E4%B8%AD%E6%81%90%E6%83%A7%E8%BE%9E%E4%B8%96/" target="cdt-mirror">外来客｜胡耀邦的最后半年 思想压抑中恐惧辞世</a>
 </h2>
 <p><p>胡耀邦对中央生活会的“揭发批判”心有余悸，总觉得这件事可能还没完，他还没有得到真正的原谅和宽恕，因此心存恐惧。胡耀邦最后一任政治秘书刘崇文在2009年第9期《炎黄春秋》撰文《胡耀邦逝世前半年的心态》披露，生活会后，他曾同夫人李昭去看望过邓小平一次，谈了15分钟左右，邓很冷淡。在与刘崇文的日常交谈中，他尽量回避提到邓小平和陈云，万不得已时也从不直呼他们的名字，而是用摸右边耳朵代表指小平，摸左边耳朵代表指陈云，可见其之噤若寒蝉。胡耀邦还告诉刘崇文，有一次，他去拜访叶帅，在他俩谈话时，叶帅把收音机开得大大的，唯恐被人听到。正是在这种恐惧心理状态下，胡耀邦并不急于谈他想谈的那些敏感问题。他自己完全没有想到，此后不久，他就突发心脏病而与世长辞，他晚年的这一心愿竟成泡影，实在是无法弥补的历史遗憾！全文如下。</p>
@@ -73,7 +112,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%82%A8%E7%9A%84%E5%BE%8B%E5%B8%88%E5%B7%B2%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BF%99%E5%84%BF%E4%BA%86/" target="cdt-mirror">【麻辣总局】您的律师已在我们这儿了</a>
 </h2>
@@ -968,21 +1007,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B0%8F%E4%B9%96-%E5%A5%BD%E5%A4%9A%E5%BE%8B%E5%B8%88/" target="cdt-mirror">小乖 | 好多律师</a>
-</h2>
-<p><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E4%B9%96.jpg">博讯｜北京大扫荡：至少二十名维权律师被抓捕或失联</a></p>
-<p>继北京锋锐律师事务所周世锋律师王宇律师等五人遭绑架失联后，北京有至少有二十名维权律师、律师助理或律师事务所工作人员于7月10日被带走或失联。至11日凌晨，仍陆续有多名维权律师被带走。</p>
-<p> </p>
-<p> </p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E4%B9%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E4%B9%96.jpg" alt="小乖" width="450" height="988"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%B0%8F%E4%B9%96-%E5%A5%BD%E5%A4%9A%E5%BE%8B%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E5%8E%9F/?category=18271" rel="tag">刘晓原</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%9B%AA%E5%BF%A0/?category=18271" rel="tag">张雪忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -994,7 +1018,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://755nk9uk9.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iwakb03cg586.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1004,5 +1028,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://l0nd7b.azurewebsites.net">https://l0nd7b.azurewebsites.net</a><br/><a href="https://ize.azurewebsites.net">https://ize.azurewebsites.net</a><br/><a href="https://755nk9uk9.azurewebsites.net">https://755nk9uk9.azurewebsites.net</a><br/></td>    </tr>
 </table>

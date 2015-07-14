@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2o16v2qzqa366.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iwakb03cg586.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,59 @@
                 <td></td>
                 
         
-        <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E6%8B%98%E7%95%99%E6%BB%8B%E4%BA%8B%E5%BE%8B%E5%B8%88/" target="cdt-mirror">【真理部】有关部门拘留滋事律师</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/" target="_blank">有关部门拘留滋事律师</a>一事  所有网站一律以政府权威媒体报道为准。工作人员要注意查删有害信息；来源不规范的网络消息不得转载。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E6%8B%98%E7%95%99%E6%BB%8B%E4%BA%8B%E5%BE%8B%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%90%9D%E5%8D%9C%E7%BD%91-%E6%88%91%E6%9D%A5%E6%90%9C%E9%9B%86%E4%B8%80%E4%B8%8B7798%E6%9D%A1%E5%B7%AE%E8%AF%84%E9%87%8C%E7%9A%84%E7%B2%BE%E5%8D%8E/" target="cdt-mirror">萝卜网 | 我来搜集一下7798条差评里的精华</a>
+</h2>
+<p><p>在微博上有近2.5万人给这部电影打了一星。目前评分2.6分。它有7798条差评。创下了纪录。上一次遇到这么牛逼的成绩来自《富春山居图》，3.2分。而且这个2.6分还是因为有很多用户给了五星差评，写了超多反讽的评价……</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5ff7d993jw1eu25v3b4c9j20bs0go77s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5ff7d993jw1eu25v3b4c9j20bs0go77s.jpg" alt="5ff7d993jw1eu25v3b4c9j20bs0go77s" width="424" height="600"></a></p>
+<p>看见大家都在骂它，我只想说，导演，你真是导演中的战斗导演。</p>
+<p>@芳菲小猪：★，没有影评，我只是来给花钱看这片儿的观众道歉的。</p>
+<p>@姜远枫_JYFeng ：★，既然做中国版汽车（人）总动员，应该贴近中国的汽车文化，比如主角应该是桑塔纳，领导是红旗，也有部分是黑色奥迪，大反派是横冲直撞的泥头车，再加入大量电瓶车做打手也是极好的。</p>
+<p>@依然_未完成 ：★，本片不适合3岁以上的人看。</p>
+<p>@偶尔e网事 ：★，这年头有些人靠脸吃饭，有些人靠不要脸吃饭。</p>
+<p>@杨纯真v587 ：★，为什么不能评0分</p>
+<p>@ElysionsCC ：★，真的很好看，起码两千万特效，好莱坞级别的制作团队，剧情跌宕起伏，充满了社会核心价值观，重新塑造了我的三观，有桌导演中国动漫电影崛起有望，我的病友们都很期待，好了不说了，医生叫我回去吃药了。导演，我们四川第二精神病院全体病友都支持您</p>
+<p>@八瓜八叔小锦鲤 ：★，你们为什么要骂导演？你们不了解他，没看过这部电影，如果你们了解了，就不会骂他了，而他妈是揍他了。</p>
+<p>@轻微失焦 ：★，如果把抄袭比作吃别人拉出来的屎，那么郭敬明和于正还可以狡辩说：“虽然这看起来很像某人拉的，但其实是牛肉酱。”汽车人总动员导演则是拿盘子在人屁股底下接着，拉出来原封不动还冒着热乎气儿就吃了，边吃边咋吧嘴：“我这是鉴赏美食，不是吃屎。”</p>
+<p>@ForTheNazi ：★，是一部很不错的电影（sha bi）可以说 这部电影为国产争光了（qu ni da ye)导演卓建荣在微博也十分有素质（che dan）面对网友的围攻（gan de piao liang)仍然沉着冷静 一口一个人渣脑袋进水大骂网友没素质我只想对那些批评这部电影的人说：丧心病狂（gan de hao）</p>
+<p>@基西 ：★，很好看的动画片，带亲戚家的熊孩子看一次，他就再也不理我了</p>
+<p>@2_bad ：★，我准备拍《泰坦船尼克号》，首先声明，这部剧完全是自创，没有抄袭《泰坦尼克号》，因为虽然大部分剧情以及风格是一样的，但是与《泰坦尼克号》不同的是，我在剧中加入了一条二哈狗，还加入了一头荷兰猪。所以，我的剧中有动物的出现，不算抄袭。</p>
+<p>@晗没没 ：★，去死好吗？去死</p>
+<p>@曾泓源 ：★，超强明星阵容！上亿特效！潸然泪下的剧情！这些….都没有！其实这部电影最最吸引人的是大家的影评。</p>
+<p>@Yaeuiy ：这东西带孩子看。孩子说爸爸你秀逗了吧，带我来看弱智片，我是小不是傻。。。</p>
+<p>@V1ll1ams ：好鸡动，今天看了汽车总动员了，毕竟都是从小追的，据说导演是华人。进去一看，天，这特效棒极了，和我小学的flash水平一模一样呢！这个华人导演简直是小朋友的骄傲，弘扬了社会主义旗帜下的动画水平是可以获得迪斯尼承认的！欸，我艹，这不是迪斯尼的？</p>
+<p>@洛阳说唱AKAzombie脏比 ：没看过莂BB，说这电影怎么地。我带两岁大的侄子去看，效果就很好嘛，他进电影院哭着喊着不想进，我吧唧一个大耳巴子上去：操你妈！我带你来接受社会主义文化洗礼，怎么这么不懂事！然后把他捆了进去，不得不说电影很感人，尤其是大圣那最后一幕，直接把我感动哭啦</p>
+<p>@伊人一笑醉红尘丶 ：电影非常好，非常深刻，将万恶的资本主义的电影借鉴过来加以改造，取其精华去其糟粕，可谓是用心良苦。画面也十分精美，我如果要做这样的画面怎么也得两天一夜的赶工才能做出来这样的画面，得是在我喝醉神志不清，边草导演妈边作图的情况下，导演的细心可谓是难得。</p>
+<p>@李狗维 ：一面是境外敌对势力的文化渗透，一面对技术的追求浪费了我们太多财力，祖国给我们重任，一条中国特色的道路才能让产业崛起！卓建荣一咬牙一跺脚，直接切了裆下屌！他敢想敢干，不要华丽特效，无需复杂后期，一个正能量的故事与美国大片的对抗终于取得压倒性的胜利！</p>
+<p>@浮世若梦_ ：很好看 期待你的《怪物人史莱克》《冰雪人奇缘》《玩具人总动员》《海底鱼总动员》哦，对了，还有《机器从总动员》。</p>
+<p>@BeareGentle ：天哪，太好看了吧！我从来没见过制作如此精美又色彩鲜艳的灵车！导演好有孝心那！！！！</p>
+<p>@OreoOlymLee ：卓建荣大胆“借鉴”好莱坞垃圾电影给1颗星 卓建荣面对质疑大义凌然给1颗星 卓建荣和众网友评论撕逼爆粗口给1颗星 卓建荣敢于用恬不知耻的语言回击日本欧美媒体给1颗星 这剧情 这特效 1颗星值了吧！新时代的楷模 中国电影业的骄傲 必须赞</p>
+<p>不说了，其他的自己看影评吧……再见！ヾ(￣▽￣)Bye~Bye~</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%90%9D%E5%8D%9C%E7%BD%91-%E6%88%91%E6%9D%A5%E6%90%9C%E9%9B%86%E4%B8%80%E4%B8%8B7798%E6%9D%A1%E5%B7%AE%E8%AF%84%E9%87%8C%E7%9A%84%E7%B2%BE%E5%8D%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E7%89%87/?category=18271" rel="tag">国产动画片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0/?category=18271" rel="tag">自主创新</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/" target="cdt-mirror">余英时：国家安全法</a>
 </h2>
 <p><p>这个国安法公布以后引起很强烈的反应。7月1号正式通过的。早在5月底就看到有关报道。所以我一直注意这件国安法会引起一些什么样的后果来。所谓《国家安全法》，我觉得它最大的特色就是要把共产党的意识形态用法律的方式具体地保卫。因为共产党的意识形态早在毛泽东文革的时候就破产了，因为文革的时候把意识形态用得太过头了。所以今天意识形态显然不能起作用。但是共产党的意识形态千言万语说到最后只是一句话，也就是所谓‘一党专政是不能放弃的’。所以，怎么样能够让这个东西实现？今天已经不能光靠空洞的意识形态，所以必须要采取法律的方式，采取法律方式以后就可以直接整治、惩罚任何国内国外想怀疑共产党领导的问题或者对共产党执政的问题。所谓国家安全从外表上来看海上的霸权、海上的安全、南北极的安全都要用国安法来保护。换句话说，这是形势下共产党想怎么样在国际跟国内建立绝对的权威，不用去和别人挑战就认为它所要保卫的跟国家安全有关东西，它叫做核心利益。‘核心利益’这个字是它一直用的，可是它的观念不断在变。所以今天的核心利益已经不是20年前、10年前所说的‘核心利益’了。10年前所说的是某些地方的主权不允许争辩。所谓核心利益就是你不允许跟它讨价还价的东西，这是没有商量的余地的，就是中国一定要的。所以从前关于台湾的主权、关于西藏的主权、新疆中国是建立绝对主权的地位，是不能放弃的。可是大家对它这个国安法一分析，就发现里面很多东西的扩大已经到了不可想象的地步了。</p>
@@ -759,87 +809,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E8%AE%BF%E9%99%95%E9%80%BE%E7%99%BE%E4%B8%8A%E8%AE%BF%E8%80%85%E8%A2%AB%E6%88%AA/" target="cdt-mirror">法广｜王岐山访陕逾百上访者被截</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8E%8B%E5%B2%90%E5%B1%B1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8E%8B%E5%B2%90%E5%B1%B1.jpg" alt="王岐山" width="550" height="310"></a><p>中纪委书记王岐山／中文网络照片 DR</p></div>
-<p><strong>中共肃贪运动主帅王岐山日前出访陕西省榆林市调研3天，为了确保这位中央纪委书记的人身安全万无一失，不但有180个公安全天候护卫，并成功拦截了116个试图向王岐山喊冤的上访者。</strong></p>
-<p>陕西日报旗下的西部法制报对王岐山访陕的安全工作以及拦截访民，都有详细的报导，陕西的杨光报官方微博亦转载了该文，但据明报引述知情人士披露，报导由于涉嫌泄密并对王岐山营造的开放、亲民形象造成不良影响，榆林宣传部门提请陜西宣传部协助，全网删除该文。</p>
-<p>中纪委网站消息，王岐山在陜西调研期间，主持召开部分省区党委书记、纪委书记座谈会。他强调，修订廉政准则和党纪处分条例，要坚持党纪严于国法，实现纪法分开，体现党的先锋队性质，推进全面从严治党、依规治党的制度创新。调研期间，王岐山还专程到榆林市米脂县杨家沟革命旧址参观，到榆阳区金阳社区与党员和群众交流，还考察了榆林生态文明建设情况。</p>
-<p>王岐山前日离开陜西后，中共陕西省委机关报陜西日报主管的西部法制报同日报道了相关的保安细节。陜西的阳光报官方微博亦于前日转载该文。该篇题为《榆横公安分局圆满完成中央首长来榆调研警卫工作》的宣传稿称，在市委市政府、市公安局的直接领导下，榆横分局本着“安全第一、内紧外松”的原则，执行“严之又严、细之又细、确保万无一失”的要求，执行首长驻地周边安全警卫工作。</p>
-<p>报导指，为确保王岐山人身安全及其下榻酒店的保安工作万无一失，榆林市公安局榆横分局局长郭黎平24小时坐镇指挥，将休假的154名警力全部召回，全局逾180名警员全部投入护卫工作。为确保万无一失，警方提前对王岐山一行出行线路、驻地现场等进行实地勘察，对驻地人民大厦内部的所有员工全部进行了政治审查。</p>
-<p>报道又称，王岐山调研期间，先后有榆阳、佳县、横山、绥德、子洲等县区的116人次前来上访，其中个人上访10宗、集体上访7宗。由于被拦截，上述访民因此无法向王岐山陈诉冤情。</p>
-<p>明报报导，依照大陆的安保标准，现任政治局常委、国家主席、副主席、人大委员长、总理、政协主席、军委主席等正国级高官，实行最高级别的一级安保；内卫由中央警卫局的警卫人员（即“中南海保镳”）执行，外围警卫由地方负责。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E8%AE%BF%E9%99%95%E9%80%BE%E7%99%BE%E4%B8%8A%E8%AE%BF%E8%80%85%E8%A2%AB%E6%88%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E6%88%AA%E8%AE%BF/?category=18271" rel="tag">上访截访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E6%B3%95%E6%B2%BB%E5%9B%BD/" target="cdt-mirror">【网络民议】习法治国</a>
-</h2>
-<p><p>【编者注】下文提到的维权律师使用的“电报”即当红加密聊天软件Telegram。巧合的是，Telegram亚洲地区（后扩展至大洋洲）于7月10日起<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%BD%93%E7%BA%A2%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6telegram%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E9%81%AD%E5%A4%A7%E5%9E%8Bddos/">遭到大型DDoS攻击</a>，导致大量用户无法连接至服务器。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%B9%A0%E6%B3%BD%E4%B8%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%B9%A0%E6%B3%BD%E4%B8%9C.jpg" alt="习泽东" width="377" height="500"></a><br><em>（网络图片）</em></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E6%89%AB%E8%8D%A1%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%EF%BC%8C%E9%83%91%E6%81%A9%E5%AE%A0%E6%9D%8E%E6%96%B9%E5%B9%B3%E7%AD%8980%E4%BD%99/">博讯｜中国持续扫荡人权律师，郑恩宠李方平等80余人被带走</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%B0%8F%E4%B9%96-%E5%A5%BD%E5%A4%9A%E5%BE%8B%E5%B8%88/">小乖 | 好多律师</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%B2%88%E5%8B%87%E5%B9%B3%EF%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%8448%E5%B0%8F%E6%97%B6%E5%86%85%EF%BC%8C%E6%9C%8956%E4%BA%BA%E8%A2%AB%E5%A4%9C%E8%A2%AD%E9%98%9F%E5%B8%A6%E8%B5%B0/">沈勇平：过去的48小时内，有56人被夜袭队带走</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E5%BA%86%EF%BC%9A%E9%BB%91%E8%89%B2%E5%91%A8%E6%9C%AB/">王庆：黑色周末</a></li>
-</ul></blockquote>
-<p><strong><a href="http://news.sina.com.cn/c/2015-07-11/234732098086.shtml">北京锋锐律师事务所被查揭开“维权”黑幕</a></strong></p>
-<blockquote><p>办案民警介绍，遇有敏感案事件，这些“死磕”律师在庭内、网上公开对抗法庭，并幕后指使挑头滋事骨干组织访民在庭外、网下声援滋事，内外呼应，相互借力，成为炒作敏感案事件的直接推动力。[…]</p>
-<p>“<strong>‘电报’主要用于组织串联，里面的言论基本都是攻击党和政府的。</strong>”翟岩民供述，“我们在里面策划、组织各种声援活动，可以设定时间删除图片和文字，就是不想让政府知道。”[…]</p>
-<p>对于锋锐所律师代理炒作案件的做法，多名犯罪嫌疑人将其描述为“新、奇、特”：</p>
-<p>新，就是要有新思路，让律师不要像以往那样按照法律程序走。“在公安机关听警察的，在法庭听法官的，他们说什么是什么、不敢反抗，那样是不行的。要强势一些，不要听他们的，按照自己的意愿来处理。”周世锋曾这样告诉翟岩民。[…]</p>
-<p>特，就是用一些特别的方式，例如，在网上网下声援炒作围观他们代理的案件；举报、投诉主审法官、办案民警和当地官员，号召网民对他们人肉搜索，给他们施压；组织案件当事人、亲友以及不相干的人围攻政法机关，以此向政法机关施压，达到在正常法律制度内无法达到的代理效果。[…]</p>
-<p>“我们的行为严重扰乱了社会秩序，造成了交通堵塞等严重的社会混乱；错误引导了很多不明真相的群众，让他们对政府产生不好的印象，甚至也要参与进来；给其他一些别有用心的人提供了炒作的机会，达到他们丑化政府形象以及更多不可告人的目的。”翟岩民说。[…]</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>宋洪昌律师：看完整篇报道，还不知道是涉嫌什么罪。</p>
-<p>长空片云：赶紧把律师抓完，下一步抓不听话的记者，没人、没地儿制约你们了，你们就能千秋万代一统江湖了。加油。</p>
-<p>AKTulip：“主管官员被诋毁”，这个定性好，剧情瞬间反转。还被贪污、被受贿、被通奸、被包养女主持人、被强奸幼女、被谋杀外国人……还反腐干嘛，要坚决保护弱势官员合法权益啊</p>
-<p>百花缭乱閑散人：质疑就要被抓？好伟大的中国梦！</p>
-<p>大风刮刮刮刮：这就是法治社会？别把群众的牙笑掉了…</p>
-<p>两笑生：炒作是什么罪？</p>
-<p>iamFA：法院还没判呢就电视上开始了，呵呵，依法治国</p>
-<p>林宇轩不是林增锚：习法治国</p>
-<p>两笑生：这里是CCTV法庭，这里是CCTV法庭，现在为大家播报无需审判直接决定的结果…</p>
-<p>偶尔妥协不失本心：白色恐怖，再现。一言堂</p>
-<p>执著7799：合不合法，你自己说了算</p>
-<p>晚睡星人-_-：反正你们的政府说什么都是对的</p>
-<p>小偶l：觉得处理得好的人，拜托告诉我，即使按报道来看，这些人到底犯了什么罪做了什么恶？</p>
-<p>梦中包子：臭不要脸的依法治国。</p>
-<p>Christinez：老百姓有冤情找谁做主呢？</p>
-<p>飞鹰城堡：央视和人民日报说的话我还真不信！！！！</p>
-<p>叽叽咕咕小恶魔：国外法院门口，经常有人拉布条，也没见怎么着啊[笑cry]和谐社会就是只允许我说，不准你说！</p>
-<p>狂爱莎娇：看以后谁还敢维权！维权的全都是有组织的滋事！</p>
-<p>默默普京：你们判的几个案件经的起推敲吗，经的起历史检查么，真特么拿脸当屁股用，几个律师就可以颠覆国家颠覆政权，这样的国家政权烂到什么程度了？</p>
-<p>天下最穷：辨的过就辨，辨不过就抓！！！</p>
-<p>面朝大海VVV：独裁者利用媒体摸黑法律师。</p>
-<p>星际灰小妹：黑化律师、打压公民社会，这就是贵党为人民做的好事？</p>
-<p>PORUINN：经过政府大力打击，从此国民过上了国泰民安，天天新闻联播般的美好生活。</p>
-<p>huang龙儿：把评论都留着，别删哈。依法治国都治到家了</p>
-<p>Y你好尹天仇Y：道理我都懂，为什么要删评论[doge][doge]</p>
-<p>V道非常道：我见过不要脸的，没见过这么不要脸的，对这届报希望的是SB，对下届报希望的是大SB。</p>
-<p>南京一淘：试想一下，如果最后一扇门也关闭了，闷在里面的人要出来，唯一可以选择的只有暴力。这是得到历史无数次验证的结果，不管统治阶层多么强大。</p>
-<p>橙云Cloud：公布完整视频，这些律师不就炒作不了吗。</p>
-<p>娜宝贝的磨人的老妖精：看下这些小号都是什么样的～<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/8fdf4912jw1etzy65cpccj20f00qodi1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/8fdf4912jw1etzy65cpccj20f00qodi1.jpg" alt="8fdf4912jw1etzy65cpccj20f00qodi1" width="375" height="666"></a></p>
-<p>军师巷：不舔官府罪，应该是这个罪名吧</p>
-<p>普兰杰：尼玛个逼，不反思自己，黑律师。维权有错吗？ 等你们自己纠错，不是痴人说梦？</p>
-<p>davinic1：包子 腊肉 傻傻分不清楚</p>
-<p>千里眼168168：中华现毛魔习妖，国之不幸，民之不幸。</p>
-<p>隔壁老John：下次删评论时候能全删了吗？不要只把反对批评的声音删掉 只留下支持根恶心的跪舔</p>
-<p>青花布衣：自己脸上有屎自己不擦，反而打骂试图擦屎的人，要脸么还？</p>
-<p>幸福老巴布：建议发良民证吧，胆敢不唱赞歌者，剥夺良民资格，贬为贱民，剥夺政治权利终身。</p>
-<p>普兰杰：尼玛个逼，不反思自己，黑律师。维权有错吗？ 等你们自己纠错，不是痴人说梦？</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E6%B3%95%E6%B2%BB%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">和谐社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -851,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iwakb03cg586.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2o16v2qzqa366.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/></td>    </tr>
 </table>

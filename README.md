@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2o16v2qzqa366.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1weeg252kjd26.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/" target="cdt-mirror">余英时：国家安全法</a>
@@ -152,7 +152,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%85%AC%E4%BB%86/?category=18271" rel="tag">人民公仆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BB%86/?category=18271" rel="tag">公仆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE/?category=18271" rel="tag">垃圾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%81%94/?category=18271" rel="tag">文联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%81%94%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">文联主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A/?category=18271" rel="tag">舔菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A1%E9%98%B3/?category=18271" rel="tag">衡阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E4%BE%83/?category=18271" rel="tag">调侃</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AF%97%E3%80%91%E4%B8%BB%E4%BB%86%E7%8E%8B%E6%80%A1-%E5%93%8E%E5%91%80-%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%9F%E5%A4%9A/" target="cdt-mirror">【诗】主仆王怡 | 哎呀 我的朋友真多</a>
 </h2>
@@ -851,7 +851,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iwakb03cg586.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1weeg252kjd26.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +861,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/></td>    </tr>
 </table>

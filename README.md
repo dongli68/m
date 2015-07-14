@@ -256,7 +256,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0/?category=18271" rel="tag">余杰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%84%E5%BC%9F/?category=18271" rel="tag">兄弟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%89%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">冉云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%B4%A4%E6%96%8C/?category=18271" rel="tag">刘贤斌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96/?category=18271" rel="tag">夏霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%88%E6%B6%9B/?category=18271" rel="tag">师涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E4%BC%9A/?category=18271" rel="tag">教会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BB%95%E5%BD%AA/?category=18271" rel="tag">滕彪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%80%A1/?category=18271" rel="tag">王怡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8B%E9%9B%A8%E4%B9%8B%E7%A6%8F/?category=18271" rel="tag">秋雨之福</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B8%E5%BF%97%E6%B0%B8/?category=18271" rel="tag">许志永</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%AD%E4%BD%9C%E4%BA%BA/?category=18271" rel="tag">谭作人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">陈云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%95%E6%B8%85%E6%B6%9F-7%E6%9C%88a%E8%82%A1%E6%95%91%E5%B8%82%EF%BC%9A%E6%9D%83%E5%8A%9B%E4%B8%8E%E5%B8%82%E5%9C%BA%E7%9A%84%E5%AF%B9%E5%86%B3/" target="cdt-mirror">何清涟 | 7月A股救市：权力与市场的对决</a>
 </h2>
@@ -851,7 +851,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1weeg252kjd26.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iwakb03cg586.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +861,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3iwakb03cg586.cloudfront.net">https://d3iwakb03cg586.cloudfront.net</a><br/><a href="https://d2o16v2qzqa366.cloudfront.net">https://d2o16v2qzqa366.cloudfront.net</a><br/><a href="https://d1weeg252kjd26.cloudfront.net">https://d1weeg252kjd26.cloudfront.net</a><br/></td>    </tr>
 </table>

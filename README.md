@@ -59,7 +59,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF%E7%AD%96/?category=18271" rel="tag">令政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%84%E5%BC%9F/?category=18271" rel="tag">兄弟</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%9B%E5%B7%9D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E8%97%8F%E4%BA%BA%E7%B2%BE%E7%A5%9E%E9%A2%86%E8%A2%96/" target="cdt-mirror">纽约时报 | 四川数千人示威要求归还藏人精神领袖遗体</a>
 </h2>

@@ -59,7 +59,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF%E7%AD%96/?category=18271" rel="tag">令政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%84%E5%BC%9F/?category=18271" rel="tag">兄弟</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%9B%E5%B7%9D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E8%97%8F%E4%BA%BA%E7%B2%BE%E7%A5%9E%E9%A2%86%E8%A2%96/" target="cdt-mirror">纽约时报 | 四川数千人示威要求归还藏人精神领袖遗体</a>
 </h2>
@@ -387,7 +387,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%85%AC%E4%BB%86/?category=18271" rel="tag">人民公仆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BB%86/?category=18271" rel="tag">公仆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE/?category=18271" rel="tag">垃圾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%81%94/?category=18271" rel="tag">文联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%81%94%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">文联主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A/?category=18271" rel="tag">舔菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A1%E9%98%B3/?category=18271" rel="tag">衡阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E4%BE%83/?category=18271" rel="tag">调侃</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AF%97%E3%80%91%E4%B8%BB%E4%BB%86%E7%8E%8B%E6%80%A1-%E5%93%8E%E5%91%80-%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%9F%E5%A4%9A/" target="cdt-mirror">【诗】主仆王怡 | 哎呀 我的朋友真多</a>
 </h2>

@@ -24,6 +24,43 @@
         <td><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E4%BB%A4%E8%AE%A1%E5%88%92%E5%A7%90%E5%A4%AB%E8%A2%AB%E5%B8%A6%E8%B5%B0-%E7%96%91%E8%BF%9D%E8%A7%84%E5%80%9F%E6%AC%BE/" target="cdt-mirror">网易路标 | 令计划姐夫被带走 疑违规借款</a>
+</h2>
+<p><p>网易《路标》 文|潘则福 编辑|张建宁</p>
+<p>数位消息人士告诉网易《路标》，全国政协原副主席令计划姐夫、山西运城市副市长王健康被山西省纪委带离运城。但关于他被带走的时间，有2015年7月11日和12日两种说法。</p>
+<p>王健康最后一次出现在公开报道中，是2015年7月9日，其参加运城市委副书记、市长王清宪与山西省检验检疫局局长于洋的座谈。</p>
+<p>接近运城市委的消息人士称，山西省纪委的工作人员在7月11日到达运城。省纪委工作人员的到来，一度引发猜测，一开始没有人想到是王健康。网易《路标》无法核实到，其目前的状态是协助调查还是被调查。</p>
+<p>值得一提的是，2014年6月19日，令计划二哥、山西省政协原副主席令政策被宣布接受组织调查后，2014年6月至8月间，王健康54天未公开露面，曾引发联想。</p>
+<p>现年60岁的王健康，山西省沁源县人。运城市政府公众信息网显示，在运城市5名副市长中，王健康排名第三。他的另一重身份，是令政策的妹妹、令计划的姐姐令狐路线的丈夫。网易《路标》获知，由于令氏兄弟平日忙于政务，居住于运城市的老父令狐野，平日主要由令狐路线照料。每逢年节，运城市领导都会去令狐野家里拜会致意。</p>
+<p>出任运城市副市长前，王健康一直在运城市交通系统工作。从运城汽运公司保修厂技术员起步，王健康历任副厂长、厂长、汽运公司副经理、工会主席。1995年2月，王健康进入运城市交通局任职，出任副局长。2001年10月，王健康出任交通局一把手。2009年9月，王健康再获拔擢，出任运城市副市长，从实权部门交通局迈入市政府领导序列。</p>
+<p>当地人认为，能从一个技术员做到副市长，王健康的升迁与妻子家族的政治影响力不无关系。</p>
+<p>“这次是省纪委六室来人办的，前些时候就核查过，包括海鑫集团那1个亿的资金挪用。”接近运城政府的消息人士透露。</p>
+<p>王健康2008年在运城市交通局局长任上，或涉嫌向该市闻喜县的民营钢铁巨头海鑫集团违规出借1亿财政资金。海鑫集团为运城市大型钢铁企业，员工上万名，其产值占闻喜县工业总产值的七成。</p>
+<p>2008年底，受金融危机影响，海鑫集团出现资金困难，四处求援。时任运城市交通局局长王健康，曾出面斡旋，借给海鑫集团1亿元财政资金。</p>
+<p>事后来看，这笔借款的程序及后续处理，问题多多。据网易《路标》了解，借款过程大致如下：</p>
+<p>当时市交通局有学苑路立交桥、中条山隧道灯两个在建工程需用钢材，故市交通局向市财政局出具了一份承诺书，大致内容为：10个月还款，除本金外还息1000万元，但本息用等价的钢材偿还。</p>
+<p>市财政局据此向闻喜县财政局拨款1亿元，县财政局将这笔钱拨给海鑫集团，再由海鑫向市交通局提供相应的钢材。</p>
+<p>按照交通局的承诺，海鑫集团本应在2009年向市财政局归还财政借款。但直到2012年底，市财政也没收到本金和利息。2012年底或2013年初，有人向市审计局举报此事，市审计局遂对这笔借款的去向展开审计。但有关领导向市审计局打招呼，将此事压下。</p>
+<p>此后数月，海鑫集团开始陆续还款。</p>
+<p>2013年5月6日，当时已由交通局长已升任副市长的王健康，召集财政局、市审计局、市交通局、市城投公司、闻喜县财政局、闻喜县国税局、运城经济开发区国税局、海鑫集团及秦州公司等单位负责人召开会议，出具政府会议纪要，专题研究《运城市学苑路立交桥及中条山隧道灯工程建设钢材预订合同》协议执行相关事宜。</p>
+<p>两周后的5月20日，王健康签发《运城市人民政府协调会议议定事项》，网易《路标》曾于2014年获得这份文件。该文件称，截止2013年5月6日，海鑫集团供货29195.14吨，结算金额约10316万元，尚有584万元钢材未供货。</p>
+<p>前述接近运城政府的知情者告诉网易《路标》，这一系列步骤存在几个疑点：</p>
+<p>第一，将财政资金借贷给企业并收取利息，是否涉及违纪？</p>
+<p>第二，为何此前海鑫集团未按约定归还财政资金，直至事情败露才突击还款？</p>
+<p>第三，王健康作为副市长，分管农业、发改、物价、商务、外事等领域，并不包括财政，市政府并未授权他召开上述会议，分管副市长也未出席，那么这个会议的法律效力何在？</p>
+<p>第四，依据这个会议出具的文件中认定的还款金额，只是单方面给出的数字，至今也未经审计，是否能保证属实？</p>
+<p>据网易《路标》了解，在被带走的一个多月前，山西省纪委核查了市城投公司等王健康曾分管的公司、项目的账目，其中包括对海鑫集团的这笔问题借款。</p>
+<p>网易《路标》向山西省纪委宣教室、运城市纪委相关负责人核实王健康近况，均未获得回复。截至发稿，运城市政府公众信息网上，仍可以查询到王健康的简历。但拨打王健康本人的电话，已是呼叫转移的状态。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E4%BB%A4%E8%AE%A1%E5%88%92%E5%A7%90%E5%A4%AB%E8%A2%AB%E5%B8%A6%E8%B5%B0-%E7%96%91%E8%BF%9D%E8%A7%84%E5%80%9F%E6%AC%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF%E7%AD%96/?category=18271" rel="tag">令政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%84%E5%BC%9F/?category=18271" rel="tag">兄弟</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%9B%E5%B7%9D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E8%97%8F%E4%BA%BA%E7%B2%BE%E7%A5%9E%E9%A2%86%E8%A2%96/" target="cdt-mirror">纽约时报 | 四川数千人示威要求归还藏人精神领袖遗体</a>
 </h2>
 <p><p>据新闻报道和一个倡导团体称，一名藏人精神领袖在中国监狱死亡一事引发了藏人的暴力抗议，要求将其遗体交还给家人。</p>
@@ -786,23 +823,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%A9
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%B0%E5%A2%83%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%80%A7%E4%BE%B5%E9%98%B4%E5%BD%B1%E4%B8%8B%E7%9A%84%E6%9D%91%E5%BA%84/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%B5%E5%AE%B3/?category=18271" rel="tag">侵害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99/?category=18271" rel="tag">刑事拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E9%95%BF/?category=18271" rel="tag">家长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%88%E5%BE%B7/?category=18271" rel="tag">师德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BC%E5%84%BF%E5%9B%AD/?category=18271" rel="tag">幼儿园</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BC%E5%A5%B3/?category=18271" rel="tag">幼女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%A5%B8/?category=18271" rel="tag">强奸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%A5%E4%BA%B5/?category=18271" rel="tag">猥亵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">留守儿童</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%80%8E%E4%B9%88%E5%8A%9E-%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4%E6%8D%9F%E5%AE%B3%E5%8F%B8%E6%B3%95%E6%9D%83%E5%A8%81/" target="cdt-mirror">怎么办 | “央视审判”损害司法权威</a>
-</h2>
-<p><p><strong>当最高法院的官方微博，仍在转发这些央视判决时，我仿佛看到，他们自己不但在矮化自己，甚至，自己在不停地敲响那个丧钟。</strong></p>
-<section>似乎《宪法》将受更多的尊重，因为人大通过新决议，最高领导及各级领导都要向宪法宣誓了。我国《宪法》明确写着：任何公民，非经人民检察院批准或者决定或者人民法院决定，并由公安机关执行，不受逮捕。《刑事诉讼法》也规定得非常清楚，<strong>法院是最终决定罪与非罪的最终裁判机关，除法院之外，再无其他任何国家权力机关可以宣告一个公民有罪。</strong></section><section></section><p>但是，我们往往可以看到，经常有央视在检察院都未批准逮捕之前，已经将案件定性通报，让犯罪嫌疑人出镜、认罪，甚至指控尚未认罪的人，同时也不让被指控者自己或者他（她）的律师进行辩白。</p>
-<section></section><p>《保守国家秘密法》 第九条：下列涉及国家安全和利益的事项，泄露后可能损害国家在政治、经济、国防、外交等领域的安全和利益的，应当确定为国家秘密：其中第（六）项：维护国家安全活动和追查刑事犯罪中的秘密事项；这也是说，追查刑事犯罪中涉及秘密事项，因此，<strong>刑事诉讼法的规定中，不让律师在公安侦查期间看公安的卷宗，但央视及其背后的人却可以忽视这一点。</strong></p>
-<section></section><p>官方媒体经常在警告律师，不要试图通过舆论影响司法，我搞不明白，为什么官方媒体这样可以大肆宣传一个刚刚开始侦查的刑事案件，而且，公安机关和检察机关有义务收集罪轻和无罪的证据，万一侦查之后收集到的证据证明被告人无罪呢？万一辩方提供的证据证明嫌疑人无罪呢，央视如何下台呢？如何给这些被央视诋毁的人恢复名誉呢？</p>
-<section></section><p>这种形式，和文革期间的游街批斗，有什么区别呢？游街看到的人不多，而上电视示众，却是举国游街。文革时，公检法被砸烂了，现在公检法健全存在，但依然通过这种形式来定调、示众，为什么不待到法院审理时，通过直播让大家看到诉辩双方的证据、辩论，古人说，兼听者明，偏听则信。</p>
-<section></section><section>我们的官方说文革是史无前例的十年，但要知道，文革也不是一日造就，之前的反右、整风等，让知识分子不敢说真话，通过媒体统一思想，乃至之前，让党内有识之士不肯说出真实观点，国家才走进史无前例的的灾难，几乎所有人都被波及到。约翰但恩的话：没有人是与世隔绝的岛，每个人是大地的一部分；如果海流冲走了一团泥土，大陆就失去一块，如同失去一个海岬，如果朋友或自己失去家园，任何人的死都让我受损，因为我与人类息息相关，<strong>因此，别去打听丧钟为谁而鸣，它为你而鸣！</strong></section><section></section><section>一般的民众，往往不会有那么多的闲暇时间去关心离自己很远的钟声，因此，当央视法院响起锤声时，他们也只是漠然地看着这些判决，但知识分子及其他法律人，应该警觉，这些法律之外的判决，最终败坏的，是这个国家法制的基石，意味着，检法全然被忽视，司法程序及保护人权、预防错案的防火墙被拆毁，最终倒下的，是整个国家的法制，目前这个法制，也是十年文革之后，不少当政者，自受其苦，痛定思痛之后，才建立起来。种树不易毁树易。<strong>谁都知道，文革期间，当检法失去效用之后，公安也没有笑到最后，因为法律已经废弛，他们被军管了。</strong></section><section><section></section><p>当最高法院的官方微博，仍在转发这些央视判决时，我仿佛看到，他们自己不但在矮化自己，甚至，自己在不停地敲响那个丧钟。</p>
-<section></section><p>至于那些被在央视法院审判的人们，我只能引用一句话,“人生之中，痛是难以避免的，但苦却是我们的选择”。</p>
-</section><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%80%8E%E4%B9%88%E5%8A%9E-%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4%E6%8D%9F%E5%AE%B3%E5%8F%B8%E6%B3%95%E6%9D%83%E5%A8%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2/?category=18271" rel="tag">人民法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3/?category=18271" rel="tag">公安机关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">刑事案件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC/?category=18271" rel="tag">刑事诉讼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">司法程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">国家权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

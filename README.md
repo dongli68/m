@@ -59,7 +59,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF%E7%AD%96/?category=18271" rel="tag">令政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%84%E5%BC%9F/?category=18271" rel="tag">兄弟</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%9B%E5%B7%9D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E8%97%8F%E4%BA%BA%E7%B2%BE%E7%A5%9E%E9%A2%86%E8%A2%96/" target="cdt-mirror">纽约时报 | 四川数千人示威要求归还藏人精神领袖遗体</a>
 </h2>
@@ -825,7 +825,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%A9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%B5%E5%AE%B3/?category=18271" rel="tag">侵害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99/?category=18271" rel="tag">刑事拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E9%95%BF/?category=18271" rel="tag">家长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%88%E5%BE%B7/?category=18271" rel="tag">师德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BC%E5%84%BF%E5%9B%AD/?category=18271" rel="tag">幼儿园</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BC%E5%A5%B3/?category=18271" rel="tag">幼女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%A5%B8/?category=18271" rel="tag">强奸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%A5%E4%BA%B5/?category=18271" rel="tag">猥亵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">留守儿童</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>

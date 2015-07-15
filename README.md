@@ -80,7 +80,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F/?category=18271" rel="tag">人权观察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%83%A7%E4%BA%BA/?category=18271" rel="tag">僧人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E/?category=18271" rel="tag">精神</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%84%9A/?category=18271" rel="tag">自焚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%A4%AE%E4%B8%A5%E4%BB%A4%EF%BC%9A%E4%BB%8A%E5%90%8E%E4%B8%8D%E8%AE%B8%E5%8F%8D%E5%85%9A%E5%8F%8D%E6%AF%9B%E8%A8%80%E8%AE%BA%E5%85%AC/" target="cdt-mirror">【异闻观止】中央严令：今后不许反党反毛言论公然在媒体出现</a>
 </h2>

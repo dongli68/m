@@ -24,6 +24,38 @@
         <td><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%AF%B9%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%97%9B/" target="cdt-mirror">环球时报 | 中国社会并不存在对计划生育的真实痛恨</a>
+</h2>
+<p><p>原标题：社评：骂计生者比当年批马寅初还疯狂</p>
+<p>国家卫计委近日表示，当前主要任务是要继续组织实施好单独二孩政策，也要积极做好进一步调整完善生育政策的研究论证工作。一些媒体解读认为，计生委所说的“进一步调整完善”指的是全面放开二孩政策，而不少人相信，中国全面放开二孩生育是大势所趋。</p>
+<p>一段时间以来，舆论围绕计生的讨论很多，抱怨也很多。而国家政策调整保持着稳扎稳打的节奏，我们认为这是有必要的。</p>
+<p>中国人口政策到了需要调整之时，而调整也的确在发生。舆论不断指出问题，政府的政策调整随之跟进，社会意见和行动之间并没有出现断裂。</p>
+<p><strong>有少数人对计划生育这一过去几十年的国策做“反攻倒算”式的批评，这是一种极端声音。这种声音在互联网上有时形成汇合，像是有点声势，但这是一种假象。中国社会并不存在对计划生育政策的真实痛恨。</strong></p>
+<p>几十年的计划生育政策执行中，各地不时有不规范的强制性个案被报道出来，它们受到批评和谴责，但那些事件大多在改善官员工作作风的层面消化了，对全社会来说，它们并没有被记到整个计划生育的账上。</p>
+<p>世易时移，中国的人口计划需要与时俱进，即使将来全面放开二孩，甚至允许三孩，也不代表过去40年中国计划生育搞错了。一些人因为现在的人口结构出现了一点问题就全盘否定国家计生走过的路，这是随便拿过去撒气、缺少历史涵养的表现。</p>
+<p>世上的事有一利则有一弊，计划生育如此庞大的社会政策更是如此，关键要看它利大还是弊大。中国从上世纪70年代末开始计划生育，累积少生了几亿人。想想看，今天的中国有可能是18亿人，甚至20亿人，而我们今天实际13亿多人。中国没有其他差别会比这两个数字之间的差别更大、更深刻。</p>
+<p>我们今天提前进入了老龄化社会，人口红利少了。但假如在今天的经济发展水平甚至更低水平上拥有18亿人口，这个国家将会遇到的问题不知要糟糕多少倍。常听人谈印度的“人口红利”，挺让人羡慕，但所谓“人口红利”只有在经济学上才是正面意义的，当它分散成一个个具体的人生时，它的实际表现往往是极度贫困、劳动者缺少权利、社会极端的两极分化等等。</p>
+<p><strong>现在有少数人批评计生政策，动辄说中国可以养育二十几亿人口，这种声音比当年对马寅初人口学的批判还要疯狂。我们可以让经济发展少一点人口动力，但我们不希望中国变成有二十几亿人口的国家。</strong>世界上有老龄化问题的国家有的是，那样的社会有多可怕可以看见，但<strong>二十几亿人口的国家会是什么样难以想象。那很可能是一个超级的“蚁族国家”，谁也别试图哄骗我们那样的中国有多美好。</strong></p>
+<p>中国已经是超级人口大国，计划生育需要针对现实问题进行调整，避免出现经济发展难以承受的断崖式劳动力减少。相信国家对人口动向的监测和统计是缜密、全面的，社会的具体意见会在国家层面得到汇集整理，国家的人口政策会在这些意见的碰撞中实现稳健。</p>
+<p>危言耸听的人口意见注定是会被“削峰”的，想生多少就生多少，甚至国家对多生者给予奖励，这样的鼓励生育政策短时间内肯定不会在中国出现。<strong>去中国农村基层看一看，了解一下更广范围的生育情况，就知道这是为什么了。</strong></p>
+<p>延伸阅读</p>
+<p><strong>提出“新人口论”的马寅初为何挨批</strong></p>
+<p>马寅初是浙江嵊县人，1882年生。早年留学美国，攻读经济学，获经济学博士学位。1915年回国，先后在北京大学、中山大学、交通大学、重庆大学、浙江大学任教，并曾任北京大学经济系主任、教务长、重庆大学商学院院长。</p>
+<p><strong>马寅初提出以节制生育、提高人口质量为中心的“新人口论”和综合平衡、按比例发展的经济理论。</strong>他认为我国人口“增殖太快”，“影响积累、影响工业化”，“是个极大的负担”，他主张“实行计划生育”，“推迟结婚年龄”。他认为国民经济要综合平衡，不能片面地强调重工业，必须同时积极发展轻工业，积极发展农业，主张引进外国先进技术设备，主张充分利用价值规律等等。</p>
+<p>在全国“大跃进”、人多好处多的浓浓氛围中，节制人口的声音被淹没了。为了扫除“大跃进”的思想理论障碍，毛泽东批判了党内外“反冒进”主张的理论依据——马寅初先生按比例发展的“综合平衡论”，“新人口论”则是综合平衡理论体系的重要组成部分。</p>
+<p><strong>在康生、陈伯达的策划鼓动下，开展了对马寅初的“批判”，把正确的说成为错误的，把学术问题，说成是政治问题。给他戴上“资产阶级代表人物”，“中国的马尔萨斯”、“反党反社会主义”等等帽子和罪名。</strong></p>
+<p>1958年5月4日北京大学60周年庆祝大会上，陈伯达到会突然发难，说：“马老要作检讨。”5天后，《光明日报》等紧跟其上，掀起批判马寅初《新人口论》和经济理论的高潮。7月1日康生到北大作报告，说批判马寅初是根据毛泽东的部署发动的，阴阳怪气地说：“听说你们北大出了个‘新人口论’，它的作者也姓马。这是哪家的马啊？是马克思的马呢？还是马尔萨斯的马？我看是马尔萨斯的马。”冷眼相对的马寅初最后则大声反驳：“我马寅初是马克思的‘马’家！”至此，矛盾公开并激化。</p>
+<p>1958年夏到1959年春，马寅初以全国人大常委会委员的身份深入浙江、江西、广东等8个省区实地考察调研工农业生产和人口状况。1959年庐山会议后，周恩来劝马寅初从大局出发，写个检讨。在对自己的思想和理论梳理过后，马寅初在文章里写道：“我对我的理论有相当的把握，不能不坚持，学术尊严不能不维护，只好拒绝检讨。”1959年11月，马寅初给《新建设》送去5万余字的《我的哲学思想和经济理论》，在文章的第五部分“附带声明”中，庄严声明：“我虽年近八十，明知寡不敌众，自当单身匹马，出来应战，直至战死为止，绝不向专以力压服不以理说服的那种批判者们投降。”掷地作金石之声。</p>
+<p>1959年12月到1960年1月，在康生的授意下，北京大学掀起了大规模的批马运动，大字报、批判会、各类文章可谓“铺天盖地”。1960年1月3日，马寅初亲自到教育部提交了北京大学校长辞职书。3月18日，国务院批准。</p>
+<p>党的十一届三中全会后，在中央的直接关怀下，马寅初的问题，得到了彻底平反，肯定了他的新人口论和综合平衡的经济理论，都是正确的，推翻了强加于他的一切污蔑不实之辞，恢复了他的职务和名誉。1981年为马老举行了百岁寿辰的活动。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%AF%B9%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%97%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E8%AE%BA/?category=18271" rel="tag">人口论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%AF%85%E5%88%9D/?category=18271" rel="tag">马寅初</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 15分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%88%86%E7%82%B8%E5%89%8D%E4%B8%A4%E6%9C%88-%E6%97%A5%E7%85%A7%E8%B4%A8%E7%9B%91%E5%B1%80%E7%A7%B0%E4%B8%BA%E6%B6%89%E4%BA%8B%E5%8C%96%E5%B7%A5%E5%8E%82%E8%A7%A3%E9%99%A4%E9%87%8D%E5%A4%A7%E5%AE%89/" target="cdt-mirror">爆炸前两月 日照质监局称为涉事化工厂解除重大安全隐患</a>
 </h2>
 <p><p><strong><a href="http://news.sina.com.cn/c/2015-07-16/112132114288.shtml">新华网｜山东日照一石化企业发生火灾爆炸</a></strong></p>
@@ -56,7 +88,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B9%9D%E5%90%8D%E5%A4%96%E7%B1%8D%E6%B8%B8%E5%AE%A2/" target="cdt-mirror">纽约时报 | 中国警方逮捕九名外籍游客</a>
 </h2>
@@ -712,19 +744,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?catego
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E8%83%A1%E8%80%80%E9%82%A6%E7%9A%84%E6%9C%80%E5%90%8E%E5%8D%8A%E5%B9%B4-%E6%80%9D%E6%83%B3%E5%8E%8B%E6%8A%91%E4%B8%AD%E6%81%90%E6%83%A7%E8%BE%9E%E4%B8%96/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%82%A8%E7%9A%84%E5%BE%8B%E5%B8%88%E5%B7%B2%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BF%99%E5%84%BF%E4%BA%86/" target="cdt-mirror">【麻辣总局】您的律师已在我们这儿了</a>
-</h2>
-<p><p>@jajia：在我的律师来之前，我什么都不会说。对不起，您的律师已经在我们那儿了。</p>
-<p>@remonwangxt：根據@jajia 的原創段子改編的當代奇幻漫畫。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJzTPlsUAAEEFr6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJzTPlsUAAEEFr6.jpg" alt="CJzTPlsUAAEEFr6" width="550" height="690"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%82%A8%E7%9A%84%E5%BE%8B%E5%B8%88%E5%B7%B2%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BF%99%E5%84%BF%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>

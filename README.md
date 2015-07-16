@@ -121,7 +121,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中国政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0/?category=18271" rel="tag">伊斯兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E6%8E%A2%E7%BD%91-%E5%B0%8F%E6%97%B6%E4%BB%A3%EF%BC%9A%E5%9B%BD%E5%A4%96%E5%BD%B1%E8%AF%84%E4%BA%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E8%AF%84%E8%AE%BA%E7%9A%84/" target="cdt-mirror">博探网 | 小时代：国外影评人是这样评论的</a>
 </h2>

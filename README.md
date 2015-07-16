@@ -205,7 +205,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E7%89%87/?category=18271" rel="tag">国产动画片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0/?category=18271" rel="tag">自主创新</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/" target="cdt-mirror">余英时：国家安全法</a>
 </h2>

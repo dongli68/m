@@ -714,7 +714,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?catego
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%82%A8%E7%9A%84%E5%BE%8B%E5%B8%88%E5%B7%B2%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BF%99%E5%84%BF%E4%BA%86/" target="cdt-mirror">【麻辣总局】您的律师已在我们这儿了</a>
 </h2>

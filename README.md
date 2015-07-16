@@ -594,7 +594,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87-%E8%B0%81%E6%94%B9%E5%8F%98%E4%BA%86%E9%9F%A9%E5%9B%BD%EF%BC%9A518%E8%BF%90%E5%8A%A8-629%E5%AE%A3%E8%A8%80-%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1/" target="cdt-mirror">闾丘露薇 | 谁改变了韩国：518运动 629宣言 一部电影</a>
 </h2>

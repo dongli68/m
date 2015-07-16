@@ -75,7 +75,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E4%BA%8B%E6%95%85/?category=18271" rel="tag">化工事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E7%85%A7%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8/?category=18271" rel="tag">日照化工厂爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%B9%96%E5%8D%97%E8%80%92%E9%98%B3%E5%B8%82%E6%96%87%E8%81%94%E4%B8%BB%E5%B8%AD%E6%99%92%E8%AF%97/" target="cdt-mirror">【真理部】湖南耒阳市文联主席晒诗</a>
 </h2>

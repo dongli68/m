@@ -168,7 +168,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E4%BA%AC
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%90%9D%E5%8D%9C%E7%BD%91-%E6%88%91%E6%9D%A5%E6%90%9C%E9%9B%86%E4%B8%80%E4%B8%8B7798%E6%9D%A1%E5%B7%AE%E8%AF%84%E9%87%8C%E7%9A%84%E7%B2%BE%E5%8D%8E/" target="cdt-mirror">萝卜网 | 我来搜集一下7798条差评里的精华</a>
 </h2>

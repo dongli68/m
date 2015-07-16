@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2m30ocdaq2z7d.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1pla0no1zpxlh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2m30ocdaq2z7d.cloudfront.net">https://d2m30ocdaq2z7d.cloudfront.net</a><br/><a href="https://d2hi93evjjanmm.cloudfront.net">https://d2hi93evjjanmm.cloudfront.net</a><br/><a href="https://d1pla0no1zpxlh.cloudfront.net">https://d1pla0no1zpxlh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1pla0no1zpxlh.cloudfront.net">https://d1pla0no1zpxlh.cloudfront.net</a><br/><a href="https://d2hi93evjjanmm.cloudfront.net">https://d2hi93evjjanmm.cloudfront.net</a><br/><a href="https://d2m30ocdaq2z7d.cloudfront.net">https://d2m30ocdaq2z7d.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6%E3%80%81sb%E6%94%BF%E5%BA%9C%E7%AD%89-2015-7-16/" target="cdt-mirror">【敏感词库】维权律师大抓捕事件、“sb政府”等 2015-7-16</a>
@@ -371,7 +371,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9C%E5%AF%BC%E6%AD%A3/?category=18271" rel="tag">杜导正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%AF%B9%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%97%9B/" target="cdt-mirror">【网络民议】中国社会并不存在对计划生育的真实痛恨</a>
 </h2>
@@ -848,5 +848,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d1pla0no1zpxlh.cloudfront.net">https://d1pla0no1zpxlh.cloudfront.net</a><br/><a href="https://d2hi93evjjanmm.cloudfront.net">https://d2hi93evjjanmm.cloudfront.net</a><br/><a href="https://d2m30ocdaq2z7d.cloudfront.net">https://d2m30ocdaq2z7d.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1pla0no1zpxlh.cloudfront.net">https://d1pla0no1zpxlh.cloudfront.net</a><br/><a href="https://d2m30ocdaq2z7d.cloudfront.net">https://d2m30ocdaq2z7d.cloudfront.net</a><br/><a href="https://d2hi93evjjanmm.cloudfront.net">https://d2hi93evjjanmm.cloudfront.net</a><br/></td>    </tr>
 </table>

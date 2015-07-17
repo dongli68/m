@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dekjf1y8bec7s.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%99%86%E5%86%9B%EF%BC%9A%E4%B8%AD%E5%9B%BDngo%E4%B8%8D%E4%BC%9A%E5%9B%A0%E4%B8%BA%E5%A4%9A%E4%BA%86%E4%B8%80%E9%83%A8%E6%B3%95%E5%BE%8B%E5%B0%B1%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA/" target="cdt-mirror">陆军：中国NGO不会因为多了一部法律就手足无措</a>
+</h2>
+<p><p><em>【编者注】中国数字时代英语版近日对益仁平创始人陆军进行了采访。除最后一组问答外，下文所有问题均翻译自英语版原文，陆军的回答均为中文原文。最后一组问答翻译自英语原文。</em></p>
+<p><span><strong>CDT<span>：</span></strong>能否请您告诉我们益仁平的背景是什么？您当时为何会创建这个机构？您希望达成什么？您认为贵机构至今为止在实现或努力实现原目标的道路上是否算成功？</span></p>
+<p><span><strong><span>陆军</span>：</strong></span>益仁平是中国第一个以“反歧视”为机构主要宗旨使命的NGO，注册于2006年12月。当时，我已经志愿从事反乙肝歧视工作三年，越来越觉得反歧视这个事业对弱势群体非常重要的一个事业，而当时国内还没有一个专门的反歧视机构，我和身边的朋友们都觉得中国需要一个专门的反歧视机构，于是就和三位朋友共同注册了北京益仁平中心，专注于反歧视、以及公共卫生领域的其他人权问题。</p>
+<p>注册时，我们期待的是推动国家消除针对中国近一亿名乙肝病毒携带者的制度性歧视，以及艾滋病等公共卫生领域的制度性歧视，并进而推动其他领域的反歧视。</p>
+<p>通过2007-2009年的努力，我们和社会各界一起，成功地推动立法机关和行政机关彻底消除了制度性乙肝歧视，二十部法律（法规、规章）被修改，多部新法被制定出来。这使得近一亿乙肝病毒携带者受到的就业歧视和教育歧视被消除，以往曾频繁发生的乙肝携带者自杀、报复杀人等现象大大减少。我和同事们认为，我们的工作是很成功的。中国的NGO界和法学界也普遍这样认为。</p>
+<p><strong><span>CDT</span></strong><span>：益仁平最初与政府关系如何？您在注册这个机构时是否遇到了困难？贵机构正式注册性质为企业，而不是非营利性机构。您能否解释一下您和您的创立伙伴为什么选择了这条途径？这对您的工作是如何产生益处或阻碍的？</span></p>
+<p><span><strong>陆军</strong></span>：2014年之前，我们和政府的关系要好于我们最初的预期。当时，国内艾滋病领域的维权和倡导类的机构经常会受到当局的严重骚扰，甚至会议和培训被明令叫停、负责人“失踪”。益仁平成立后，虽然受到多个部门、多个级别警察的密切“关照”，但直到2014年夏天，我们的会议和培训还没有被叫停过，工作人员还没有“失踪”和被抓捕。而且，各级各类警方从未指出益仁平的行为有任何违法之处，反而普遍认为益仁平的工作是有意义的。</p>
+<p>我们曾经询问过警方和民政部门，是否有可能在民政部门注册为社团、或民办非企业机构，但答案都是否定的。近年来，民政部门虽然放宽了对“民办非企业”机构的注册，但对法律维权和政策倡导类机构的注册并没有放宽。</p>
+<p>公司注册的机构与民政注册的机构比起来，到底有哪些差别，我也不很清楚，因为不了解民政注册的机构。在下面这些方面可能会比民政注册的机构不利：<br>
+1. 政府部门向NGO购买服务时，经常会要求NGO拥有民政注册；<br>
+2. 在接收外汇时有严格的限制；<br>
+3. 不能申请免税的待遇。</p>
+<p><span><strong>CDT</strong>：这些年来我一直听说由于中国禁止海外捐助的法规，益仁平无法获取国外团体的捐款。然而您筹到的资金有相当一部分都不可避免地来自于海外。请问您是如何避开这些法规的？</span></p>
+<p><span><strong>陆军</strong></span>：2010年，中央政府有一个新的规定，严格限制外汇的接收，但后来中国的NGO还是找到了办法，但需要给政府额外缴纳税款，税率是3%-5.5%。</p>
+<p><span><strong>CDT</strong>：您收到的筹款中有多少来自中国？近年来这个数字是否有所上升？</span></p>
+<p><span><strong>陆军</strong></span>：我们的资金，来自中国国内的不到10%，近年来数字没有增加，而是下降了。主要原因是，我们的工作成效比较好，国际知名度不断提高，所以有更多的国际项目合作。</p>
+<p><span><strong>CDT</strong>：2015年3月，<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/">五女权人士被拘事件</a>发生后，坊间猜测这五位女权活动人士之所以受到打压是由于她们多少都和益仁平有牵连。在她们被拘期间，益仁平办公室遭到查抄，之后又有两名与她们有牵连的活动人士遭到拘留。你认为益仁平是否被有关部门盯上了？如果是的话，又是何种原因呢？</span></p>
+<p><span><strong>陆军</strong></span>：警方抓捕女权五姐妹的真实原因，现在还不清楚，也许真正的原因是要打击益仁平，但也不一定，因为五姐妹中有两个人从来没有为益仁平工作过。<br>
+我觉得益仁平并不是官方镇压NGO运动的唯一目标，其他的NGO也收到了打压：<br>
+2014年9月18日， 著名的民间公益机构“立人乡村图书馆”理事会宣布停止运营。</p>
+<p>2014年10月9日、10日，知名民间智库机构“北京传知行”的创办人、负责人及多名工作人员被拘捕，办公室被查抄；<br>
+2015年1月，一位与国际非营利组织有关的英国人士因警察提出的签证问题被迫离开中国；据2015年3月的媒体报道，另一位与我国民间机构有关的法国人士因类似原因被拘留了十天，其后也被迫离开中国。</p>
+<p>另外，《境外NGO管理法》的制定，更说明官方对NGO的打压是整体性的。益仁平作为一个比较大、成立比较早的法律维权及政策倡导类的NGO，受到打压是不奇怪的。</p>
+<p><span><strong>CDT</strong>：有不少国际媒体都报道了习近平上台后对民间团体进行的“镇压”，许多国内外人士人都对<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96ngo%E6%B3%95%E6%A1%88/">境外NGO管理法案</a>草案表示了严重关切。然而就在一年前，《经济学人》的<a href="http://www.economist.com/news/china/21600747-spite-political-clampdown-flourishing-civil-society-taking-hold-beneath-glacier">一篇报道</a>描述了即便面对政治打压，中国的民间团体仍在蓬勃发展，但他们同时也正面对来自于当局的阴晴不定、难以预测的对待。您会如何评价中国民间团体的现状？与您2006年最初建立益仁平时相比，民间团体整体来说是否改变了？</span></p>
+<p><span><strong>陆军</strong></span>：一年前，我对NGO的处境也比较乐观，因为中国社会矛盾太尖锐，维权活动人士越来越多，越来越多的人比NGO更“敏感”，相比之下，NGO的敏感度越来越低。在2011年春季北非和西亚“茉莉花革命”期间，有几百名人权律师、公知、维权人士“失踪”，但没有一位是NGO人士，这也说明了NGO没有被政府认为是现实“革命”的威胁。从那之后的三年时间里，当局针对NGO的打压行动，比2011年前明显减少。</p>
+<p>情况起变化是从2014年夏天开始的，起点就是对郑州亿人平的打压。形势发展到今天，明显可以看出来政府对NGO的态度已经变得比2011-2013年敌对了许多，敌对程度远远超过了十年前东欧和中亚发生“颜色革命”的时期，也远远超过了2008年奥运会时期和2009年“建国六十周年大庆”时期，更超过了益仁平刚成立时的2006、2007年。NGO界很多人认为，这种敌对态度很有可能是在效仿俄罗斯。</p>
+<p><span><strong>CDT</strong>：在境外NGO管理法案的公示阶段，许多国内外个人和团体都发表了详细的批评与反馈意见。绝大多数的批评都集中在该法案中那些过于模糊和宽泛的条例。你认为这个公示阶段会有多大价值？您觉得那些立法人员有没有任何考虑接受批评意见的迹象？</span></p>
+<p><span><strong>陆军</strong></span>：这部法律草案征集到的意见，看起来远远超过了这部法律草案的起草者（公安部）和审议者（全国人大常委会）所考虑到的范畴，比公安部和全国人大常委会考虑的全面得多。从已经公开看到的意见和建议来看，原草案如果继续审议并被批准的话，对我国的国际合作将会造成巨大的破坏，也将严重破坏“对外开放”的政策。</p>
+<p><span><strong>CDT</strong>：如果境外NGO管理法案以当前版本的草案通过，您认为会对益仁平及其他类似的团体造成什么影响？</span></p>
+<p><span><strong>陆军</strong></span>：对益仁平和维权倡导组织的影响不大，因为这些组织本来就长期受到公安、国安、民政部门的严格监控，活动空间极为有限，且不断被税务、工商、公安等部门以各种方式、各种罪名调查、搜查、处罚。多一部法律，只不过是“九牛”多了“一毛”而已。中国NGO的生存环境，本来就不同于俄罗斯、埃及、印度等国家 ，那些国家都是多党制国家，连政党都可以自由组建，“结社自由”受到普遍重视，民间组织有相当大的空间，相比那些国家的NGO，中国的维权倡导NGO长期以来面对的管制要严苛得多，不会因为多了一部法律就手足无措 。</p>
+<p><span><strong>CDT</strong>：鉴于最近发生的一些事件，我也希望了解您对“<a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">黑色星期五</a>”的看法？我知道现在还为时尚早，但对于政府目前如此大规模地拘捕律师和维权人士，您最初的反应是什么？您认为他们做此事的动机以及期望的结果是什么？</span></p>
+<p><span><strong>陆军</strong></span>：我的观点是，<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E5%AE%89%E6%9E%AA%E5%87%BB%E6%A1%88/">庆安枪击事件</a>是造成警察这次行动的直接原因。</p>
+<p>吴淦在社交网络上传的视频与央视播放的枪击画面完全不同。王宇公开了警察对她去拘留所探望吴淦的种种刁难和阻挠，然后王宇就和她丈夫以及他们16岁的儿子就一起消失了。吴淦和王宇都在周世锋的律师事务所工作，所以随后周世锋连同他事务所里的其他律师也都被拘捕了。</p>
+<p>一百多名律师在网上声援被失联的王宇，然后警方就对一百多名律师展开抓捕。</p>
+<p>公安机关镇压庆安事件的原因是警方在扩张他们的权力范围。当局以支持庆安枪击事件中警察一方来鼓励警察“敢于开枪”。其他现象还包括警察在境外NGO法案中<a href="http://chinadigitaltimes.net/chinese/2015/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%A4%96%E5%9B%BD%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%9D%9E%E7%AE%A1%E4%B8%8D%E5%8F%AF/">扮演的角色</a>，以及警察所承担<a href="http://www.boxun.com/news/gb/finance/2015/07/201507100521.shtml">“救市”任务</a>。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%99%86%E5%86%9B%EF%BC%9A%E4%B8%AD%E5%9B%BDngo%E4%B8%8D%E4%BC%9A%E5%9B%A0%E4%B8%BA%E5%A4%9A%E4%BA%86%E4%B8%80%E9%83%A8%E6%B3%95%E5%BE%8B%E5%B0%B1%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96ngo%E6%B3%95%E6%A1%88/?category=18271" rel="tag">境外NGO法案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%A4%AB%E5%90%B4%E6%B7%A6/?category=18271" rel="tag">屠夫吴淦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">民间机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%8A%E4%BB%81%E5%B9%B3/?category=18271" rel="tag">益仁平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E5%86%9B/?category=18271" rel="tag">陆军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E5%8E%9F%E5%88%9B-%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E5%A4%A9%E5%9B%A2%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%EF%BC%9F/" target="cdt-mirror">凤凰原创 | “五十六朵花天团”是怎样炼成的？</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/W020150717294307495862.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/W020150717294307495862.png" alt="五十六朵花文工团于6月28日演" width="550" height="367"></a><p>五十六朵花文工团于6月28日演</p></div>
@@ -864,31 +909,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%A4%AE%E4%B8%A5%E4%BB%A4%EF%BC%9A%E4%BB%8A%E5%90%8E%E4%B8%8D%E8%AE%B8%E5%8F%8D%E5%85%9A%E5%8F%8D%E6%AF%9B%E8%A8%80%E8%AE%BA%E5%85%AC/" target="cdt-mirror">【异闻观止】中央严令：今后不许反党反毛言论公然在媒体出现</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%B8%AD%E5%85%B1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%B8%AD%E5%85%B1.jpg" alt="中共" width="550" height="415"></a></p>
-<p>最近，各个省市区中共党的宣传部长都在传达中央宣传工作会议精神，据参加某省传达会议的人士披露，今后中央宣传基调已经明朗。</p>
-<p>一、必须坚持媒体的”喉舌论”，即在中国的媒体，不管是传统纸媒还是新媒体，都应当是党的喉舌，人民的喉舌，这是我们的政治制度所决定了的，有些人在这方面有糊涂观念或错误立场，今后不允许党管的媒体发出与党和人民利益相违背的声音，现在一些媒体改制，由社会力量筹办，也必须遵守这一原则，否则就收回或者不要办了(据了解，有的省区已开始收回一些社会办刊)。</p>
-<p>二、必须坚持党和国家的指导思想是马列毛与特色理论,对此要有理论自信,在这方面思想比较混乱,一些人一直在宣扬马列毛过时论,散布错误观点,今后不能允许反马列毛言论公开地堂而皇之地在媒体上出现。马列毛作为指导思想是我们的政治制度规定了的,是党和人民长期实践选择检验了的,而且现在仍是我们事业的基础,并不是一些人随随便便就能否定得了的。</p>
-<p>三、必须注意”新三反人员”占据媒体与舆论阵地的问题。所谓”新三反人员”就是坚持反党、反国家、反民族立场的人员，这些人本来是党培养的，被党安排在舆论阵地，却不为党的事业说话，总是唱反调；有的还拿着国家津贴，提起我们的国家却是一无是处；明明你是中华民族的子孙，却总在贬损这个民族，这些人不能继续呆在媒体，不能从事舆论宣传工作，应该”不换立场就换人”。</p>
-<p>四、对媒体要加强管理与引导，媒体人要有鲜明的政治立场，要有清醒的政治头脑，要坚持客观真正性原则，要辨证地看待事物之间的联系，要对社会负责，比如，媒体成天全版面报道负面东西，对正面的却视而不见，你这是客观真实吗？许多人都在夸美国的言论自由，最近美国教育部把毛泽东语录上到网上，结果引起全国反弹，我们这里把林肯语录到处宣扬，大家却平静接受，这不值得我们反思吗？</p>
-<p>五、加强党对媒体舆论的领导,要从培养新闻人才抓起，各高校凡有新闻类专业的，一定要把培养学生正确的思想意识，正确的政治立场放在首位，凡有”新三反”倾向的,凡是思想糊涂立场混乱的人,不能在高校从事新闻人才的培养。今后将派出党政干部到各高校新闻专业去与各高校新闻教师到媒体与党政机关来换岗。</p>
-<p><strong>禁止媒体反党反毛反老一辈无产阶级革命家</strong></p>
-<p>据中华主流文化网、红歌会网报道，在最近召开的中央宣传工作会议上，”今后不能允许反马列毛言论公开地堂而皇之地在媒体上出现”、宣传战线将清理反党、反国家、反民族立场的”新三反人员”，成了本次会议的重要精神。</p>
-<p>对党和国家、对绝大多数中国人来说，这是一个重大的利好消息，它表明新一届党中央真正认识到了放任反毛反党舆论的巨大危险性，真正在吸取苏联亡党亡国的教训，真正开始重视意识形态领域的工作。</p>
-<p>宪法和党章对毛泽东思想的指导地位和共产党的领导作用有明确的阐述和规定,因此,维护毛泽东思想的指导地位,维护党的形象,是依宪法执政按党章办事的前提,同时也符合绝大多数爱国家爱民族的人民的心愿。</p>
-<p>党报反党，放任各种媒体污蔑自己的开国领袖，这种怪现状恐怕只有在解体前的苏联才出现过，可这种现象在我们中国已经存在了30多年。80年代中期，由于资产阶级自由化思潮泛滥，党中央作出了坚持四项基本原则的决策，可随即就因为”不管姓资姓社”理论的出现而导致四项基本原则成为一纸空文。多年来，反毛反党言论甚嚣尘上，许多媒体甚至围剿封杀歌颂毛泽东思想歌颂社会主义价值观的言论，党在人民中的威信降至了最低点，共产党执政的合法性受到了严峻的挑战，国家和民族的命运也已经岌岌可危。</p>
-<p>毛泽东是中国共产党和中华人民共和国的主要缔造者，是伟大的人民领袖，他始终坚定不移的站在人民大众的立场上，为人民求生存谋幸福。这正是毛泽东去世30多年后，绝大多数中国人仍然深深怀念他敬仰他的根本原因。离开了毛泽东思想就不是中国共产党，这样的党就不会受党人民的拥戴。因此，全体共产党人必须有清醒的认识：反毛就是反党，反党必定反毛；反毛就是反人民，反人民也必定反毛。</p>
-<p>新一届党中央禁止媒体反党反毛是真正代表了最广大人民群众的根本利益的，是大快人心的。但是光禁止反毛反党言论还不够，还应该大张旗鼓地宣传毛泽东思想的伟大作用，宣传中国共产党的历史功绩，宣传符合人民利益的社会主义价值观，激浊扬清，扶正祛邪，打造健康的舆论环境，营造积极向上的舆论氛围，强化意识形态的功能。只有这样，党才会重新获得人民的信任，涣散的民心才能再一次凝聚起来，中国共产党才能永远立于不败之地，中华民族才能真正实现伟大复兴的梦想！</p>
-<p>（转载自 为企业代言为民族增光）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%A4%AE%E4%B8%A5%E4%BB%A4%EF%BC%9A%E4%BB%8A%E5%90%8E%E4%B8%8D%E8%AE%B8%E5%8F%8D%E5%85%9A%E5%8F%8D%E6%AF%9B%E8%A8%80%E8%AE%BA%E5%85%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2-2/?category=18271" rel="tag">异闻观止</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">政治制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E/?category=18271" rel="tag">精神</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">红歌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -900,7 +920,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dekjf1y8bec7s.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3195iyr5rm4op.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -910,5 +930,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD
                 <td></td>
                 
         
-        <td><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fdyabmf24mn6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dekjf1y8bec7s.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E5%8E%9F%E5%88%9B-%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E5%A4%A9%E5%9B%A2%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%EF%BC%9F/" target="cdt-mirror">凤凰原创 | “五十六朵花天团”是怎样炼成的？</a>
@@ -142,7 +142,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%83%A8%E9%95%BF/?category=18271" rel="tag">庹部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%85%9A%E7%9A%84%E6%9D%83%E5%88%A9%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%AC%B2/" target="cdt-mirror">德国之声｜党的权利与控制欲</a>
 </h2>
@@ -900,7 +900,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fdyabmf24mn6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dekjf1y8bec7s.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -910,5 +910,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD
                 <td></td>
                 
         
-        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
 </table>

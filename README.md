@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2hrhos2jw806n.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fdyabmf24mn6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E5%93%AA%E4%B8%AA%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF/" target="cdt-mirror">【立此存照】新华国际到底在说哪个“今日俄罗斯”？</a>
+</h2>
+<p><p>新华国际今日在其客户端及微博帐号推送了一篇<a href="http://xhgj.api.zhongguowangshi.com/wap/share.aspx?clientApp=104&docid=93774&channel=sina">评论文章</a>（文末附截图），称“今日俄罗斯”国际新闻通讯社在伦敦的银行帐户遭冻结一事，充分说明了“西方国家在新闻自由这个问题上奉行的双重标准”：</p>
+<blockquote><p>“今日俄罗斯”在国际新闻界虽是后起之秀，但其常常因发出不同于西方的声音，而受到国际社会的关注，也令美英等西方国家感到不舒服，甚至被看作是一种挑战。 […]</p>
+<p>与此同时，西方国家媒体却打着新闻自由的幌子，肆意片面报道甚至歪曲发展中国家和任何他们不喜欢的国家，往往把这些国家描绘得一无是处，一团漆黑，并动辄跟所谓制度联系在一起，而对西方国家自己的问题，或视而不见，或避重就轻。 […]</p></blockquote>
+<p>然而，从新华国际的文章配图可以看出，他们似乎并没有搞清“今日俄罗斯”通讯社和RT（今日俄罗斯）电视台的区别。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF.jpg" alt="今日俄罗斯" width="605" height=""></a><br><em>（左图为Rossiya Segodnya，右图为RT）</em></p>
+<p><a href="http://www.rt.com/news/273310-uk-freeze-russian-agency/">在伦敦被关闭银行帐号的</a>是Rossiya Segodnya，直译成英语为”Russia Today”，但与平时国人经常耳闻的“今日俄罗斯”电视台（”Russia Today”简称RT）是两家完全不同的机构（虽然他们都是俄罗斯政府所有）。此次报道中的“今日俄罗斯”（Rossiya Segodnya），其实是俄罗斯政府在2013年对俄新社（RIA Novosti）和“俄罗斯之声”（Voice of Russia）重组更名后的产物，并非什么“新闻界后起之秀”。调整后该社的官方宗旨是“<a href="http://america.aljazeera.com/articles/2013/12/9/putin-dissolves-rianovostinewsagency.html">对俄罗斯国家政策及联邦内公共生活进行报道</a>”（provide coverage of Russian state policy and public life in the federation）。</p>
+<p>而2005年（由RIA Novosti）全新建立的多语言全天候RT电视联播网，才是中国官媒经常提及、甚至有<a href="http://www.guancha.cn/america/2015_06_18_323875.shtml">央视驻美国首席时政记者作客</a>的“今日俄罗斯”。</p>
+<p>另外，（新华国际没有提及的）欧盟对Rossiya Segodnya 总裁 Dmitry Kiselyov 的<a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2014:086:0030:0032:EN:PDF">制裁理由</a>如下：</p>
+<blockquote><p>Appointed by Presidential Decree on 9 December 2013 Head of the Russian Federal State news agency “Rossiya Segodnya”.<br>
+Central figure of the government propaganda supporting the deployment of Russian forces in Ukraine.</p>
+<p>（2013年12月9日经政府任命成为俄罗斯联邦政府新闻机构”今日俄罗斯“最高负责人。<br>
+支持俄罗斯向乌克兰派遣军队的俄政府宣传的中心人物。）</p></blockquote>
+<p><strong>附维基百科词条：</strong></p>
+<blockquote>
+<ul><li><a href="https://en.wikipedia.org/wiki/Rossiya_Segodnya">Rossiya Segodnya</a></li>
+<li><a href="https://en.wikipedia.org/wiki/RT_%28TV_network%29">RT 电视联播网</a></li>
+</ul></blockquote>
+<p><strong><a href="http://xhgj.api.zhongguowangshi.com/wap/share.aspx?clientApp=104&docid=93774&channel=sina">新华国际｜评：且看西方新闻自由的双重标准</a></strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85.png" alt="新华国际" width="435" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E5%93%AA%E4%B8%AA%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E7%BE%8E%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%8E%B0%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B3%E8%AF%B7%E8%81%94%E5%90%88%E5%9B%BD/" target="cdt-mirror">自由亚州｜“现在自由”申请联合国认证遭拒 中国伊朗等投反对票</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1104e129-ecda-4fd4-959d-72caac3b5e72.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1104e129-ecda-4fd4-959d-72caac3b5e72.jpeg" alt="1104e129-ecda-4fd4-959d-72caac3b5e72" width="550" height=""></a><p>图片： “现在自由”组织官员认为，此次被拒与他们关注各国良心犯有关。 （现在自由网页截图）</p></div>
@@ -812,22 +841,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/" target="cdt-mirror">余英时：国家安全法</a>
-</h2>
-<p><p>这个国安法公布以后引起很强烈的反应。7月1号正式通过的。早在5月底就看到有关报道。所以我一直注意这件国安法会引起一些什么样的后果来。所谓《国家安全法》，我觉得它最大的特色就是要把共产党的意识形态用法律的方式具体地保卫。因为共产党的意识形态早在毛泽东文革的时候就破产了，因为文革的时候把意识形态用得太过头了。所以今天意识形态显然不能起作用。但是共产党的意识形态千言万语说到最后只是一句话，也就是所谓‘一党专政是不能放弃的’。所以，怎么样能够让这个东西实现？今天已经不能光靠空洞的意识形态，所以必须要采取法律的方式，采取法律方式以后就可以直接整治、惩罚任何国内国外想怀疑共产党领导的问题或者对共产党执政的问题。所谓国家安全从外表上来看海上的霸权、海上的安全、南北极的安全都要用国安法来保护。换句话说，这是形势下共产党想怎么样在国际跟国内建立绝对的权威，不用去和别人挑战就认为它所要保卫的跟国家安全有关东西，它叫做核心利益。‘核心利益’这个字是它一直用的，可是它的观念不断在变。所以今天的核心利益已经不是20年前、10年前所说的‘核心利益’了。10年前所说的是某些地方的主权不允许争辩。所谓核心利益就是你不允许跟它讨价还价的东西，这是没有商量的余地的，就是中国一定要的。所以从前关于台湾的主权、关于西藏的主权、新疆中国是建立绝对主权的地位，是不能放弃的。可是大家对它这个国安法一分析，就发现里面很多东西的扩大已经到了不可想象的地步了。</p>
-<p>第一个就是一党专政，不能有任何人怀疑它，也不能有任何人说共产党不应该执政。所以这个一党专政就是国家安全最重要的事情；第二个当然包括一切主权，主权领土现在又扩大了，今天包括海上的一些岛屿都在引起国际上极端的敌视。不但包括菲律宾而且还包括越南以及美国；第三个当然就是它的经济发展。经济发展也是它认为没有商量的余的。为了经济发展它可以把一切作为政治目的，正如它在美国进行的许多科技偷窃，在它认为都是正当的，都是应该，都是属于人民利益的。因为他们打的口号永远都是以人民利益。你要看它的国安法讲来讲去都是人民利益，可是我们都知道所谓‘人民’两个字的意思，共产党讲只是共产党本人，甚至还不是所有的共产党人，而是执政的那一小部分人，那一部分人士代表共产党。所以国安法的影响将来会很大。最重要的一点是伤害。<br>
-我们从国内讲，因为现在从意识形态讲很难讲某些话该说某些话不该说。因为今天共产党内部的思想也有分歧。所以意识形态不能解决问题。现在只能通过法律。如果订过法律以后他就说你说出任何话或做出的任何活动影响到共产党一党专政就是影响到国家的最大利益，就是核心利益。这样就必须用暴力把你取缔或者关起来或者下放或者用其他的方式惩罚，这个事情已经屡见不鲜了。用这个方式它就可以侵犯所有的人权，而且还打出口号说是为了国家利益。如果不惩罚他们国家安全就即刻陷于困难。不但如此，与国安法相关的还有一个新的法律也很快就要实现，目前已经出现了。这就是对于外国的非政府的组织在中国的活动，过去中国有许多人权的活动，包括环境污染活动都是靠许多国外非政府组织的人来帮忙。现在共产党有了一个新的控制外国非政府组织的活动。把所有非政府组织的人都放在所谓国家安全部手上控制着，一切活动都要经过地方警察通过。这些非政府组织以后越来越不能在中国起作用，也不能支持中国民权组织，这一切活动都不能进行了。因为这一切活动一进行好像都是对于共产党的政策、对于共产党的领导有一种怀疑的态度、一种质疑态度，同时还不只如此，共产党还有一个最新的与此相关的法律，现在还没有出现，不过很快就会出现了。这就是反恐，它在反恐的名义底下只要任何人对共产党有不利的行为或者不利的语言马上就可以打为恐怖主义范围之内。如果是涉及恐怖主义那一切活动就都是恐怖主义了。所以这是共产党另一个和国安法并行的互相关联的一套方式，这套方式是从前没有过的，从前没有用法律的方式。</p>
-<p>现在共产党也提倡一种‘依法治国’，但是它这个法和西方普遍价值所谓的就是这个法律是独立的、立法是独立的。立法的人员是老百姓直接选举出来的，代表老百姓的意志，所以他们的立法就有法律的作用。这个法律作用是在政治之上，政治不能违背人民的立法。但是现在共产党不一样，在一党专政的立场上以它的方便建立一些法律，叫人这样做不要人那样做都是以它的一党专政为核心目标的。从前这些一党专政的方式都是通过意识形态就够，但今天不行了。今天社会很复杂所以它最近一连串的立法活动在国际上的反应是非常强烈，不但是关于海岛上的情况，就是在台湾也引起了强烈的抗议。台湾本来也希望跟共产党能够和平共处，然后维持现状。但是从以上这些我们就看出所谓国安法的这一切活动都是代表共产党的新的活动阶段。这个阶段跟从前毛泽东时代的意识形态支配一切是不一样的。它现在的意识形态必须要通过法律方式才能够施行，因为只有法律才能强制性地规定下来，意识形态不能只讲抽象的东西，不能讲具体的东西。我觉得这是值得大家好好想一想的大问题。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/?category=18271" rel="tag">一党专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E6%B3%95/?category=18271" rel="tag">国安法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">核心利益</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -839,7 +852,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fdyabmf24mn6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dekjf1y8bec7s.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -849,5 +862,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/></td>    </tr>
 </table>

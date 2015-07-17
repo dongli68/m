@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1xtm9uth1jep.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33m780rfkn99a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E5%93%AA%E4%B8%AA%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF/" target="cdt-mirror">【立此存照】新华国际到底在说哪个“今日俄罗斯”？</a>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fdyabmf24mn6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,129 @@
                 <td></td>
                 
         
-        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E5%8E%9F%E5%88%9B-%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E5%A4%A9%E5%9B%A2%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%EF%BC%9F/" target="cdt-mirror">凤凰原创 | “五十六朵花天团”是怎样炼成的？</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/W020150717294307495862.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/W020150717294307495862.png" alt="五十六朵花文工团于6月28日演" width="550" height="367"></a><p>五十六朵花文工团于6月28日演</p></div>
+<p>我们培养的是最纯净的中华少女。</p>
+<p>不要求颜值，不要求高音能上得去，不要求腿能掰180度。但要精神面貌好，气质佳，像朵太阳花。不允许夜不归宿，不允许接触复杂的社会人士，以及真的，真的，不许谈恋爱。</p>
+<p>一看就觉得很舒服——这孩子好像生活得很幸福。你们待会儿会见到她们。</p>
+<p>在阐述五十六朵花文工团价值观近三个小时后，副团长刘彦希停了下来，工作人员立刻打开会议室大门，领进来两个女孩，一高一矮，一白一黑，瘦，不难看，笑得有些腼腆。这是目前最符合刘彦希心意的姑娘，戴沁仪和谭芯——“一看就让人觉得幸福的阳光美少女”——前来采访的记者们见到的团员，也基本只是她们俩。</p>
+<p>6月28日文艺汇演后，这个号称“全球最大女团”的“少女偶像组合”在网上红了。在对外的宣传资料中，他们试图让人们产生这样一种印象——红色，官方背景，少女偶像。官网上如此介绍“五十六朵花”：“唯一代表中国五十六个民族美丽形象的公众品牌。唯一代表中国妇女美丽形象的公众品牌。”如今，这个颜色鲜艳的官网已经打不开，页面上只有孤零零的一句：“您的网站超过了本空间规定流量，请升级更换合适的产品。”有网友还保留着官网的截图，讽刺地圈出网站上的图标bug：官网—facebook图标；官方微博—twitter图标；报考咨询—youtube图标。</p>
+<p>负责人们似乎并不在意这些。刘彦希说，团长和她都曾下令，禁止在网上造势。如今加着蓝V标识的“五十六朵花官微”，刘彦希和她的手下人员辨认了一会，否认了。</p>
+<p>对于文工团的真实背景，刘彦希以及团长陈光都显得有些神秘，不仅背后的老板“不方便说”，就连文工团logo上的题字是何人所写，也是“现在透露不恰当”。刘彦希的解释是，不想借助高大上的个人或团体来造势宣传。一份6月1日的宣传稿中似乎泄露了些许信息：“由文化部主管的东方文化艺术院宣传部分管的五十六朵花文工团首次亮相钓鱼台”。面对网友的质疑，陈光的回答是：“这帮孩子不懂，完全不懂在中国是怎么回事情。不明白里面的关系，不明白什么人出面合适，什么机构出面合适。我们肯定是有政府部门的参与和支持。”</p>
+<p>在他们所宣称的商业构想中，包括进军韩国、日本等海外市场，挑战AKB48等日韩偶像天团；打造少女类快消品，生产卫生巾、内衣等，预计内衣市场年销售将会超过60亿；推广植入APP，成为专一少女、青年女性领域的互联网及移动互联网王者。</p>
+<p>一</p>
+<p>谭芯已经醒了，时间大约是早晨5点钟。她躺在床上，丝毫没有起床的意愿，再偷懒一会吧，她想，等待着5点50的闹铃声。</p>
+<p>闹铃响了，炸开了宿舍里的睡意朦胧。她还是躺着，10分钟之后还有一个，那是最后的底线了。</p>
+<p>戴沁仪起床了，把自己的绿色塑料水杯里灌满了清水。她喜欢水倒入绿色透明杯子里的感觉，好看。在接下来长达近2个小时的跑步训练中，杯子和水是必需品。而后，她们要去另外3个宿舍叫同伴起床。</p>
+<p>目前五十六朵花文工团签约了5个演员，都出生于农村。去年春节，谭芯花了400多买了一张卧铺票，坐了27个小时的火车回广西老家。</p>
+<p>5人中，戴沁仪和谭芯处于“管理岗位”，队长和副队长，也是唯二名字出现在大众面前的演员。戴沁仪的职务是6月28号文艺演出之后新近拔擢的，她是副团长亲自提拔的新官，理由是她的精神面貌好，学习态度好，“已经从一个三好学生升级为一个阳光美少女”。前一个队长为此哭了鼻子。</p>
+<p>谭芯外号叫“小米”，源于她极其迷你的个头，这也成了她在北京各大艺术院校四处碰壁的罪魁祸首。看到文工团的海报后，她去报了名，而后在50个申请者中被挑了出来。</p>
+<p>刘彦希毫不掩饰对一般遴选标准的鄙视，她将“高音是否上的去；腿是否能掰180度”视为“低层次和低技术含量的”，自豪于五十六朵花的“综合考量”标准——“不以颜值，不以所谓专业的素质为依据。我们会有更丰富更高级的要求，比如气质，比如精神风貌，是否能够契合我们这个集体的风貌，应该体现出中华民族的风貌，应该完全没有模仿外国的痕迹。”</p>
+<p>在刘彦希的描述中，他们选人，会在素质测试之后外加上面试，以发现“有没有成为阳光美少女的潜质”。“我们会提一些比较简单的问题，不涉及到政治，基本就问你平时有什么爱好，喜欢哪个明星，课余喜欢做什么？如果说喜欢天天泡吧，喜欢天天上夜店，喜欢韩国哪个每天露着的明星，那肯定一律不录用了。”即使是招聘普通的歌剧老师，刘彦希也在后面加上了“党员优先”的条件，因为“有基础来贴合我们”。</p>
+<p>刘彦希说很怕学生叛逆，虽然她形容自己是个“叛逆的人”。“小孩就是这样的，如果她对大人叛逆了，就会产生多米诺的效应，会否定大人的一切，那还怎么工作嘛。”这位自称“悉心研究多年教育心理学”的刘老师，用“杀人诛心”来比喻自己对孩子们的心理教育。</p>
+<p>“你一定要完全走到孩子们的心里，才可以完全地驾驭她。”</p>
+<p>“驾驭？”</p>
+<p>“驾驭，而且让她是快乐而幸福的，对于我对她的驾驭。”</p>
+<p>二</p>
+<p>6点半，晨跑开始。这是在附近学校的操场里。先跑上十圈，若是累了停下来休息，也要立即大声唱歌。先唱团里的歌曲，然后是自己平常听的歌。开声的歌五花八门，戴沁仪的常用曲目是《再给我两分钟》，还有人会唱《坐上火车去拉萨》。</p>
+<p>谭芯有些气喘吁吁，她已经跑了十多圈，脑子里一片空白。她停了下来，张开口，一句歌词都没冒出来，只能提步，继续跑下去。太累了，脚像灌了铅，她终于想起来一首蔡依林的歌，可以停下来了，谭芯觉得如释重负。</p>
+<p>而后是上午的芭蕾和民族舞训练；下午的外国舞和少女偶像养成训练项目；晚上会有2个半到3个小时的文化课。一周七天，循环往复。这群本该上大学年纪的女孩们在北京郊区重复着高中生涯，生活起居、工作学习都在文工团的掌控之下。</p>
+<p>因为五十六朵花要培养“纯净的少女”。不许夜不归宿，不许谈恋爱，都是为了“避免社会的污染”。“我们不希望她们受到伤害，不希望她们接受到这些负面的经验，不希望她们太成熟，希望她们是一个少年化的（形象）。”</p>
+<p>谭芯觉得有些赚到了：“学到的东西比较多，像以前高中，就只是单一在学舞蹈，这边可以学到表演、唱歌，各方面都能学得到，挺好的。”但由于团里不强调基本功，谭芯不得不每天晚上睡觉之前先把腿掰成180度。“不能让自己的功底还回去，一天不练可能就会有很大区别，现在这里更多的是练舞姿什么的，不像学校那么专业，就得自己弄。”</p>
+<p>每晚的文化课，没有什么固定教材，大家或讨论唱歌跳舞专业问题，或是老师讲解歌词，或由老师用生活化语言向学生们灌输政治理念，比如刘彦希。在2个多小时的课堂上，刘彦希会对学生们说，“每个国家有每个国家的国情，不一定所有都适合议会民主”，“相比较其他政党来说，我们也有我们的优越性”，和“我们在吃着共产党的，在穿着共产党的，在共产党的领导下，我们最起码大部分人是衣食富足的，国外很多发生战乱的地方，吃了上顿没下顿。”</p>
+<p>刘彦希说，她要达到的效果，是让团里的女孩们发自内心的爱国。“现在很多人在反党反社会，青少年说的那些话乌七八糟，受到甚至一些反动势力，和利用阶级矛盾，不怀好意，别有用心的人（的蛊惑）。”</p>
+<p>就某种程度而言，这种教育确实起了效果，至少在表面上。提到“红歌”和“正能量”，戴沁仪，这个在洗手间看《奔跑吧兄弟》乐得忘了洗衣服的女孩，会正襟危坐，板着脸，严肃得不像个少女。而在接受媒体采访时，这个1997年出生的年轻女孩，在回答问题时会习惯用上“老师说”，她没有直接回答自己的想法。</p>
+<p>三</p>
+<p>自6月28日之后，采访几乎都在温都水城“五十六朵花文艺会展中心”进行。你几乎不用拿着地图找——在中国戏剧学院大门的对面，酒店入口，楼梯间，都能看到明晃晃的红色展板和金黄色的圆形logo。</p>
+<p>两个作为团员代表的女孩已经见了太多媒体了。她们在镜头前很自然，配合摄影师的要求，走台步，跳舞，唱歌，像是两件主人颇为得意的成品，频频放在聚光灯下展览。在五十六朵花文工团的体系里，她们属于一类演员。</p>
+<p>副团长刘彦希委婉地拒绝了我们的跟拍请求，除了要为新节目保密，还因为50个二类演员没有在媒体前露面的机会——这是属于签约演员的。</p>
+<p>这是个金字塔似的分级体系：所有人先从三类的练习生开始，步入二类行列，最后竞争成为一类。一类和二类享有同样的待遇，都住在文工团提供的宿舍里，但三类，则散落在北京其他地方。按照团长的规划，文工团将来会和大型卫视进行捆绑合作，在全国竞选“国花”。作为一类生的戴沁仪和谭芯，有直接进入总决赛的资格。在对女孩们许诺的光明未来里，她们将会出专辑，接受媒体推广，为产品代言，出演影视剧，甚至可以拿到文凭——本科或专科，视女孩自己的意愿——“国家教育部承认的”文凭。</p>
+<p>如今，两个姑娘每个月有3000块的底薪，平时可能有些补助，每个月5—10号发工资。谭芯4月新买了个手机，iphone6，花了一个月的收入加上过年攒的钱。戴沁仪觉得自己挺值，“上着学，但也拿到了工资。”</p>
+<p>然而7月13日开始，有原先参演五十六朵花文艺汇演的演员们在微博上集体讨薪。她们称都收到了官微要求删微博的威胁（工作人员先前否认那是官方微博），但在6月28日演出当晚，这个有企业蓝V标识的微博账号转发了讨薪女孩们的微博，并配上了文字“现场太震撼！女神们太棒了！”</p>
+<p>她们所描述的文工团，显然不是戴沁仪和谭芯所看到的文工团。这些女孩基本都参演了民乐团的节目，她们否认自己是五十六朵花的练习生，称自己只是来参加商演，拿完钱后就该与文工团两清，再无瓜葛。</p>
+<p>她们和文工团的矛盾集中于两处：结算演出费；用她们录制的曲子出专辑。7月15日，@李玟萱-古筝转发了官微关于“进军韩国市场”的微博，愤怒难掩：“请赶紧把我两个月前的演出费结清再吹牛逼好吗？”最为主创们津津乐道的《映山红》和《沂蒙颂》两首曲子，据与@李玟萱-古筝一同出演的女孩说，刚开始录制时连曲谱都没有提供，录制时间长达10个小时，从下午2点多，一直到后半夜。在发了微博质疑后，她收到了官微的私信，让她“别不学无术，去看看版权法”。更让她不满的是，在5月28日演出的宣传稿里，还贴了她们这些临时演员们的合照。</p>
+<p>@Hibara-harugo只参加了6月28日的演出，那是“五十六朵花”的全球首秀。之前官网的预告列出了一大堆当下流行明星的名单，其中还有TFboys和凤凰传奇。然而在当晚现场，姑娘们只见到了几个德高望重的老艺术家，和唯一一个姑娘们认得出来的——撒贝宁。@Hibara-harugo说，五十六朵花文工团欠了她演出费800，已经半个月过去了，钱还是没到手。刘彦希的解释是，可能是因为之前的财务人员即将临盆，有所疏漏。</p>
+<p>这不是唯一让陈光和刘彦希感到头疼的女孩们。在6月28日演出后，演唱组开除了5人，据刘彦希说，其中2人是因为去参加了上海偶像组合SNH48的海选。这不符合他们对“纯净女孩”的定义，当然也包括与社会人士谈恋爱。</p>
+<p>说到爱情的话题，戴沁仪会有些羞涩，她不知道接下来的排练歌曲会不会涉及到爱情这个流行音乐避不开的主题。“主要还是以主旋律为主。”戴沁仪站起身来，准备在镜头前表演独唱《故乡的云》，她突然狡黠一笑：“但是我相信少女也是会有长大的那一天的。”(凤凰网许晔)</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E5%8E%9F%E5%88%9B-%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E5%A4%A9%E5%9B%A2%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96/?category=18271" rel="tag">中国文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">习主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">集体主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E7%BE%8E%E4%B9%90%E9%98%9F%E5%8F%96%E6%B6%88%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%EF%BC%9A%E7%96%91%E6%B6%89%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E6%8E%A8%E6%96%87/" target="cdt-mirror">BBC｜美乐队取消上海演唱：疑涉达赖喇嘛推文</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Jesse-Carmichael.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Jesse-Carmichael.png" alt="Jesse Carmichael" width="550" height=""></a><p>Maroon 5乐队键盘手Jesse Carmichael推文（谷歌缓存）截图</p></div>
+<p>美国当红乐队魔力红（Maroon 5）原定于今年9月12号的全球巡回演唱会上海站因故取消。</p>
+<p>此次演唱会上海主办方莱音商务咨询（上海）有限公司通过其官网微博“LiveNationChina”于周四（7月16日）发布了取消通知。</p>
+<p>BBC中文网向上海市文化广播影视管理局市场处求证此事时，电话处于忙线状态，无人接听。上海市文广局负责管理上海市的重大文化活动。</p>
+<p>记者在魔力红（Maroon 5）官网搜索其9月亚洲演出场次时，上海站并不在列。但9月4号香港，9月14号台湾和 9月19号新加坡场次正常售票。</p>
+<p>网友“子渂哥咯”评论道：“我不喜欢魔力红了（政治原因，国家利益高于一切）”。 网友“阿辉小宝”则认为：“唱歌的不好好唱歌瞎参和什么啊！”</p>
+<p>魔 力红（Maroon 5）是一支来自美国洛杉机的摇滚乐队。2005年，乐队凭借专辑《Songs About Jane》摘下了第47届格莱美最佳新人奖（The Grammy Award for Best New Artist）。此奖项是格莱美奖中颁发给前一年内获得突出成就的乐坛新人的奖项。</p>
+<p>美国有线电视新闻网络（CNN）报道，其乐队成员杰西·卡麦可（Jesse Carmichael）于7月4号在美国流行社交网站推特上发表推文祝中国西藏精神领袖达赖喇嘛生日快乐。BBC中文网在推特上查证发现，原推文已被删除，但网上仍有此推文的<a href="http://webcache.googleusercontent.com/search?q=cache:e0hos9eGWJcJ:https://twitter.com/JRCarmichael/status/617498561983463424+&cd=1&hl=en&ct=clnk&gl=hk">截图</a>。</p>
+<p>达赖喇嘛近期参加了印度，英国和美国为其举办的庆生活动。美国总统奥巴马高级顾问贾瑞特7月10号在纽约参加达赖80岁“庆生”活动。</p>
+<p>中国外交部发言人华春莹于周一（7月13日）答记者问时表示，美方不顾中方多次交涉，执意安排高官与达赖进行接触，中方对此表示强烈不满和坚决反对。</p>
+<p>（撰稿：觅云/责编：萧尔）</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E7%BE%8E%E4%B9%90%E9%98%9F%E5%8F%96%E6%B6%88%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%EF%BC%9A%E7%96%91%E6%B6%89%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E6%8E%A8%E6%96%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%BA%B9%E9%9C%87%E5%8D%87%E4%BB%BB%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF/" target="cdt-mirror">共产党新闻网｜庹震升任中宣部副部长</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2012/04/%E5%BA%B9-e1364275700882.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2012/04/%E5%BA%B9-e1364275700882.jpg" alt="一庹翔 • 南周新年献辞事件" width="369" height="450"></a><br><em>【编者注】庹震：前广东宣传部部长，草泥马语“<a href="http://chinadigitaltimes.net/chinese/2013/01/%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E7%B3%BB%E5%88%97%EF%BC%9A%E8%A2%AB%E5%BA%B9/">被庹</a>”出处，<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">南周新年献辞事件</a>始作俑者，人称“平南王”</em></p>
+<p>中国共产党新闻网北京7月17日电 （崔小粟）据中国作家协会主办的中国作家网消息，7月9日至10日，由中央宣传部和中国作家协会联合举办的“全国儿童文学创作出版座谈会”在京召开。中宣部副部长庹震等出席会议。据了解，这是庹震首次以中宣部副部长身份在媒体上公开亮相。此前，他担任广东省委常委、省委宣传部部长。</p>
+<p><strong>庹震同志简历</strong></p>
+<p>庹震，男，汉族，1959年9月生，河南方城人，1982年6月入党，1976年6月参加工作，武汉大学经济系政治经济学专业毕业，大学学历，高级记者。</p>
+<p>1976-1978年 河南省南阳县溧河公社插队知青</p>
+<p>1978-1982年 武汉大学经济系政治经济学专业学习</p>
+<p>1982-1986年 经济日报社总编室编辑</p>
+<p>1986-1988年 经济日报社工交部副主任</p>
+<p>1988-1992年 经济日报社记者部副主任（其间：1992.04- 1992.09挂任河北省保定地区涿州市副市长）</p>
+<p>1992-1993年 经济日报社记者部代主任</p>
+<p>1993-1996年 经济日报社记者部主任</p>
+<p>1996-1996年 经济日报社编委会委员、记者部主任</p>
+<p>1996-2005年 经济日报社副总编辑（其间：1997.09-1997.11中央党校省部级干部进修班学习；2001.09- 2001.11中央党校省部级干部进修班学习）</p>
+<p>2005-2011年 经济日报社总编辑</p>
+<p>2011-2012年 新华社副社长、党组成员</p>
+<p>2012-2015年 广东省委常委、宣传部部长</p>
+<p>2015年7月- 中宣部副部长。</p>
+<p>第十届、十一届广东省委委员</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>清华秦鹏：好消息是，原广东省宣传部长庹震不再祸害广东了，坏消息是它升任副部长了。</p>
+<p>戏班小子-：要祸害全国了</p>
+<p>我要法网：从中国特色行政区广东省升到中国特色区总部了啊！</p>
+<p>LoveForever哩：戈培尔的门徒么？</p>
+<p>98年记：此人成功地把中国梦—宪政梦，做成了伟大的中国梦—永远梦！适合干宣传。</p>
+<p>余甚惑焉：你们总算明白点儿了吧？当年谁的意思？谁是后台？呵呵！</p>
+<p>paolo2011：中Xuan部下任部长人选，坨坨的了[衰]</p>
+<p>FreeiKen：包子粉们吃包子终于吃到包子馅儿了</p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E4%B8%AD%E5%AE%A3%E9%83%A8%EF%BC%9A%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">中宣部：南周新年献辞事件</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912013%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%BA%B9%E7%BF%94/">【网络民议】2013年的第“一庹翔”</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%BA%B9%E9%9C%87%E6%94%B9%E5%86%99%E3%80%8A%E5%8D%97%E5%91%A8%E3%80%8B%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6%E7%9B%B8%E5%85%B3/">【敏感词库】庹震改写南周新年献辞事件相关 2013-1-3</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E6%88%B4%E5%BF%97%E5%8B%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%A2%A6%EF%BC%8C%E5%AE%AA%E6%94%BF%E6%A2%A6%EF%BC%88%E5%8D%97%E9%83%BD%E8%A2%AB%E5%88%A0%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%AF%8D%EF%BC%89/">戴志勇：中国梦 宪政梦（南周被删新年献辞） </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E5%90%B4%E6%81%92%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E5%AF%B9%E3%80%8A%E5%8D%97%E5%91%A8%E3%80%8B%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%AF%8D%E7%9A%84%E9%98%85%E8%AF%BB%E7%90%86/">吴恒：一个语文老师对《南周》新年献词的阅读理解 </a></li>
+<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">南周新年献辞事件</a>专题</li>
+</ul></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2013/01/%E5%BA%B9%E5%B0%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/01/%E5%BA%B9%E5%B0%BA.jpg" alt="庹尺" width="426" height="187"></a><br><em>（“壹庹” by 变态辣椒）</em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%BA%B9%E9%9C%87%E5%8D%87%E4%BB%BB%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%83%A8%E9%95%BF/?category=18271" rel="tag">庹部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%85%9A%E7%9A%84%E6%9D%83%E5%88%A9%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%AC%B2/" target="cdt-mirror">德国之声｜党的权利与控制欲</a>
 </h2>
 <p><p>“时代在线”文章认为，中共正致力于建设一个方方面面均在管控之下的计划社会，然而该愿景前景黯淡。《法兰克福汇报》则称，比起“依法治国”，“借法治国”的说法在中国更为贴切。</p>
@@ -769,69 +889,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E5%88%AB%E4%BA%86-%E5%B8%82%E5%9C%BA%E4%B8%8E%E6%B3%95%E6%B2%BB/" target="cdt-mirror">德国之声 | 长平观察：别了 市场与法治</a>
-</h2>
-<p><p><strong>中国同时发生暴力救股市与全国抓律师事件。时评人长平认为，蛊惑人心二十多年的市场经济与法治建设真相毕现。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018576228_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018576228_30300.jpg" alt="0,,18576228_303,00" width="550" height="310"></a></p>
-<p> </p>
-<p>上周五（7月10日），中国股市上演了惊世奇幻剧情：从连续数日千股跌停、过半股票停牌的深渊中突然逆转，变成了千股涨停、疯狂抢购的盛宴。同一天，全国各地超过50名维权律师及相关人士或被绑架或遭抓捕，成为继2010年茉莉花革命之后最大规模的”黑头套”飓风，延续至今，已涉及至少138人。这两件看似不相关的事情，有着紧密的内在联系。</p>
-<p>自6月中旬以来，中国股市连续暴跌，约15万亿元人民币的市值迅速蒸发，相当于转眼间消失了十个希腊的GDP。尽管如此，有国外经济学家指出，股指并没有回落到今年的最低点，而且股市市值仅占国民生产总值的三分之一，远低于发达国家水平。再说，股市早已经脱离实体经济，暴跌不会带来系统性风险。</p>
-<p>中国政府对自身系统性风险有更深的了解。遑论股市，中国实体经济和金融体系也早已经脱离世界经济运行规则，成为专制政治的赌博工具。股市一泻千里，可能让整个赌局溃败。因此，在传言李克强总理主持国务院会议狂喊”暴力救市”的同时，安全部门也把维持股市稳定视为保卫国家（政权）安全的重要任务。</p>
-<p>中央连续出台一系列利好政策，包括暂停IPO、央行协助通过多种形式给予流动性支持、21家证券公司出资不低于1200亿元购买蓝筹股及证监会对涉嫌市场操纵行为进行专项核查等，当然还包括李克强公开表示要培育长期稳定健康发展的资本市场。然而，当股民识破”国家队”只救四大银行和”两桶油”之后，中小股更加溃不成军。</p>
-<p><strong>“谁都不许跑，否则老子毙了你！”</strong></p>
-<p>一切利诱、欺骗和恫吓都无济于事，一场股市引发的金融危机和政权危机在所难免。这时，史无前例的一幕上演了：官方媒体高调报道，公安部副部长孟庆丰带队到证监会，会同证监会排查近期”恶意卖空股票与股指”的线索。在这条消息的背后，是机构和个人受到威胁，”恶意卖空”者将涉嫌危害国家（政权）安全罪，而且很多人被胁迫定额购买股票。</p>
-<p>“谁都不许跑，否则老子毙了你！”这个黑社会电影中的低级桥段，真的起作用了。头一天《人民日报》还发表文章呼吁”理性的价值投资”，这一天，在没有任何经济价值逻辑的情况下，股市天翻地覆，盆满钵满。</p>
-<p>二十六年前，坦克开上安门广场，保住了苟延残喘的中共政权；二十六年后的今天，枪口顶住投资人的脑袋，危在旦夕的中共政权再一次得救。不同的是，上一次举国悲哀，而这一次万民狂欢；上一次全球共愤，这一次各国股市受益–尽管这种暴力救市让专业人士感到震惊，但是跟着强盗分赃也让很多投资人甘之如饴。</p>
-<p><strong>全国扫荡人权律师</strong></p>
-<p>就在股民狂欢的同时，人权律师周世锋、李姝云、王全章、张维玉、黄力群、李和平及其他相关人士却经历了另一场黑社会遭遇。有的人在酒店被蒙头劫持，有的人在办公室被带走，有的人在家中被骗出。加上头一天在家中被绑架的王宇律师，以及后两天被抄家的郑恩宠律师等，绑架、拘捕和约谈者至少138人，地点遍及北京、上海、广州、天津、黑龙江、山东及福建等至少17个省市，是一场由公安部统一部署的全国性扫荡行动。</p>
-<p>与此同时，中央电视台、《人民日报》等官方媒体进行了长篇累牍的报道，将这些人权律师定性为犯罪集团。报道义正辞严揭露的”犯罪事实”，乃是律师和网民帮助上访民众或其他冤案当事人，维护中共自己制定的法律中规定的公民权利。</p>
-<p>中共一手持枪，一手抛钱，培养了一个犬儒、怯懦、只顾埋头挣钱的城市中产阶级。网上流传一个帖子，哭诉在这场股灾中被强制平仓、损失大半财富的经历，作者就是一个中产阶级的典型。尽管遭遇如此惨痛，号称不再相信”中国梦”，但他只是向当权者发出哀鸣，痛惜”老大”未能及早重拳救市。</p>
-<p>人权律师是一个例外。他们大多受过良好的教育，有着较高的收入，属于社会中产阶级甚至精英阶层。但是他们信仰法律、坚守正义，并利用专业能力普及法律，一方面呼吁统治者建立法治体系，一方面帮助底层民众维护公民权利。此前一段时期内，因为谙熟法律，而且表现出非凡的勇气、智慧和团结，他们既受到民众尊敬，也让当局抓不到把柄。</p>
-<p><strong>市场经济与法治建设真相毕现</strong></p>
-<p>二十多年来，中共一直声称要建立两样东西，一个是市场经济，一个是法治建设。这不仅让国内的知识分子保持极高的期待，而且让国际社会和它合作有了充足的理由。事实上，从一开始这就是两个谎言，因为中共比谁都知道，如果真正按照游戏规则来玩，独裁制度必然走向终结。然而中国知识分子和国际社会乡愿深厚，自欺欺人。</p>
-<p>习近平上台之后，看中国经济权力日渐强大，傲视寰宇，宣布”三个自信”（道路自信、理论自信和制度自信），不屑与国内知识分子和国际社会虚与委蛇，处处主动”亮剑”。7月10日这一天，市场经济与法治建设真相毕现，血光淋漓。</p>
-<p>长平是中国资深媒体人、时事评论作家，现居德国。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E5%88%AB%E4%BA%86-%E5%B8%82%E5%9C%BA%E4%B8%8E%E6%B3%95%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中国政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%89%E8%8E%89%E8%8A%B1/?category=18271" rel="tag">茉莉花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">茉莉花革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%A2%81%E4%BA%AC%EF%BC%9A%E8%82%A1%E7%81%BE%E5%BC%95%E7%88%86%E5%AF%B9%E4%B9%A0%E6%9D%8E%E7%9A%84%E4%BF%A1%E5%BF%83%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">自由亚洲｜梁京：股灾引爆对习李的信心危机</a>
-</h2>
-<p><p>六月发生的股灾已经成为本年降临中国最大的一只黑天鹅。这次股灾导致的最严重的政治后果，就是全面引爆了对习李新政的信心危机。无论是精英还是民众，无论是左派还是右派，对习李的治国能力的质疑都达到了前所未有的程度，这一发展对于中国今后两年的政治和经济形势的发展将带来非常重大的影响。</p>
-<p>应该说，对习李的信心危机已经酝酿了一段时间了，只不过这次股灾把这个危机加剧和表面化了。对习李治国能力的信心危机的来源，首先是两人的治国言论和国策，让人感觉肤浅、似是而非，甚至是极不靠谱。这方面习近平的问题比李克强更突出。但习近平反腐的力度很大，一定程度上掩盖了这个问题。不过，随著越来越多的人看出习近平的反腐并不敢触及中国巨大的家族资本利益，对习近平的执政信心已经在急剧衰减。</p>
-<p>左派对习近平的失望是非常明显的。借著这次股灾，这种失望和愤怒得到了一个极好的表达机会。我刚读到，”毛左”的代表人物张宏良，直接把周一政府救市失败的责任归咎于家族资本。他认为是中国庞大的家族资本，成功地阻击了政府倾全力的救市。他写道：</p>
-<p>“让人感到悲哀的是，国内无论是传统媒体还是网络媒体，无论是左派还是右派，都把做空力量的帽子扣到了温州老板和浙江民企的头上，… 从而在转移全国和全世界的视线，保护家族资本在携取十几万亿现金资产。这就是中国老百姓最悲哀的地方。把罪恶扣到浙江温州老板头上，还有一个可怕之处，就是会彻底打垮中国人民对政府的信心。道理很简单，如果中央政府连几个浙江老板都打不过，又怎么能够保卫国家领土完整和主权统一？</p>
-<p>所以我们不得不面对一个残酷的现实，就是我们遇到了不可战胜的家族资本。对于家族资本而言，除了人民群众，他们没有任何对手，对上能够战胜上帝，对下能够战胜魔鬼，人间更没有任何对手。这就是今天股市告诉我们的历史事实。虽然这个事实特别可怕，可怕的让人浑身发抖，但却是我们不得不面对的铁的事实。”</p>
-<p>另一位左派学者潘维，则对当权者发出了”是信仰人民还是信仰乌托邦”的质问，直接批评习近平在政治上犯了方向性的错误。</p>
-<p>中国在野的自由派早已对习李不抱幻想，他们在微信中的言论表明，自由派在一个关键问题上，与左派取得了共识，那就是中国的五十个大家族利益是中国的真正问题所在。</p>
-<p>那些天天在金融市场中谋生存的职业人，按道理应该是市场经济的维护者，但他们中间的很多人对李克强的救市策略也非常不满，认为李克强的救市办法无视了金融市场和百姓的根本利益，没有把老百姓的钱，包括通过杠杆融资套进去的私人存款真正从股市中解脱出来，从而有引发社会动乱的危险。</p>
-<p>由股灾引爆的对习李执政能力的信心危机，本周正在经历最严峻的时刻。这场信心危机会不会进一步引爆中国的金融危机、进而引爆经济危机、社会危机和政治危机，相当程度上取决于中国政府救市的结果。</p>
-<p>从救市的措施来看，习李完全认识到了这次股灾对自己政治生命的严重威胁，会不惜代价来救市。那么，习李救市的胜算如何呢？我认为他们最大的危险，就是高估了手中的好牌，尤其是高估了自己的学识。作为红卫兵一代出身的领导人，习李有一个共同的弱点就是虚骄。他们既没有打江山的系统历练，又没有民主政治的系统历练，却都给自己戴上了名不符实的博士头衔。关键时刻，这个弱点有可能妨碍他们接近真正的有识之士，从而给自己带来灭顶之灾。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%A2%81%E4%BA%AC%EF%BC%9A%E8%82%A1%E7%81%BE%E5%BC%95%E7%88%86%E5%AF%B9%E4%B9%A0%E6%9D%8E%E7%9A%84%E4%BF%A1%E5%BF%83%E5%8D%B1%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E4%BA%AC/?category=18271" rel="tag">梁京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E6%8B%98%E7%95%99%E6%BB%8B%E4%BA%8B%E5%BE%8B%E5%B8%88/" target="cdt-mirror">【真理部】有关部门拘留滋事律师</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/" target="_blank">有关部门拘留滋事律师</a>一事  所有网站一律以政府权威媒体报道为准。工作人员要注意查删有害信息；来源不规范的网络消息不得转载。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E6%8B%98%E7%95%99%E6%BB%8B%E4%BA%8B%E5%BE%8B%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -853,5 +910,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pfnfiqgdzxli.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E5%8E%9F%E5%88%9B-%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E5%A4%A9%E5%9B%A2%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%EF%BC%9F/" target="cdt-mirror">凤凰原创 | “五十六朵花天团”是怎样炼成的？</a>
@@ -900,7 +900,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dekjf1y8bec7s.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -910,5 +910,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD
                 <td></td>
                 
         
-        <td><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/></td>    </tr>
 </table>

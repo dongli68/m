@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3195iyr5rm4op.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E7%BE%8E%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%8E%B0%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B3%E8%AF%B7%E8%81%94%E5%90%88%E5%9B%BD/" target="cdt-mirror">自由亚州｜“现在自由”申请联合国认证遭拒 中国伊朗等投反对票</a>
@@ -839,7 +839,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3195iyr5rm4op.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -849,5 +849,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/></td>    </tr>
 </table>

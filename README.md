@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E7%BE%8E%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%8E%B0%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B3%E8%AF%B7%E8%81%94%E5%90%88%E5%9B%BD/" target="cdt-mirror">自由亚州｜“现在自由”申请联合国认证遭拒 中国伊朗等投反对票</a>

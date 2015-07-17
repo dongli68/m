@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fdyabmf24mn6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%85%9A%E7%9A%84%E6%9D%83%E5%88%A9%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%AC%B2/" target="cdt-mirror">德国之声｜党的权利与控制欲</a>
+</h2>
+<p><p>“时代在线”文章认为，中共正致力于建设一个方方面面均在管控之下的计划社会，然而该愿景前景黯淡。《法兰克福汇报》则称，比起“依法治国”，“借法治国”的说法在中国更为贴切。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018278636_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018278636_30300.jpg" alt="0,,18278636_303,00" width="575" height=""></a></p>
+<p>（德国之声中文网）德国”时代在线”7月15日一篇题为 <a href="http://www.zeit.de/politik/ausland/2015-07/china-plangesellschaft-xi-jinping" target="external" rel="nofollow">“控制一切”的文章</a>在开头写道，中国拥有世界水平的学者，这些学者却无法（不”翻墙”地）查询西方数据文献；中国讲究创新，然而新兴产业企业家大多拿着美国绿卡甚至护照；中国不乏满腔热情、自愿投身于治理贫困和环境污染问题的人，这些人却要因为害怕触犯新国安法而处处担心。</p>
+<p>“对于党和国家一把手习近平而言，这些并不矛盾。为了其在21世纪的统治，中共领导层想要的不是一个独立的公民社会，而是一个高效的、适应市场的计划社会。自2013年年初起，北京就一直朝着这个目标努力。”</p>
+<p>文章写道，中共领导层先将以民主制度、言论自由为首的”危险西方思想”列为大忌，然后为保障”意识形态安全”，开始肃清社交媒体–一些微博”大V”因”传播谣言”被捕、被判刑，很快学者和律师也面临充当”西方渗透”开路先锋的嫌疑。</p>
+<p>“依据中共最新决议，在一切社会组织和团体中建立党组。而凭借新出台的国安法，政府能以维护国家安全的名义，禁止IT、金融、环境等一切领域的公共活动。中央政府正在建设一个大规模的、对民众进行监控和分级的系统。”</p>
+<p>文章表示，这样一来，民众就只能在有限的空间里，进行对党国有利无害的活动。”相比其前任，以习近平为首的中共领导层更加注重有目的性地调动群众：他们对 那些具有强烈民族主义色彩的反日示威活动持宽容态度；他们也呼吁民众，举报腐败的官员–为此，中纪委新近还特别推出了一个智能手机应用程序。”</p>
+<p>中国政府”计划社会”的目标在很多领域都成功了，然而并非所有领域，文章这样写道。例如在新兴IT行业，尽管北京为发展该行业做出了很多努力，然而该行业 的企业家只愿意有保留地加入北京的计划。他们着眼全球市场，当然也使用”翻墙”软件和海外云服务。”他们表现得非常自信，称政府更依赖他们而不是倒过 来。”</p>
+<p>文章在最后写道，如果习近平这个”计划社会”的愿景失败，那么较好结果是如今自行成立的这些社会组织和团体成为一个独立、自主社会的基石；糟糕的结果则是社会原子化（中间组织的缺失而导致的人际疏离、道德解组的社会危机）和纯商业化的进一步加强。</p>
+<p>“如果这个愿景成功，那么向海外移民，或者为以遁世寻找精神寄托的人将会增加。毕竟，一个建设好的计划社会是否能够带来中国领导层所追求的创新、行动自主、社会互信、政治稳定，非常值得质疑。”</p>
+<p><b>“党的权利”</b></p>
+<p>《法兰克福汇报》本周五继续关注中国当局逮捕维权律师一事。文章以反问开头，质疑北京如何能一边将”依法治国”、打击腐败称为要务，一边逮捕那些为当事人在与可疑权贵抗争中伸张权利的律师？</p>
+<p>文章称，党媒《人民日报》向往常一样给出了答案。该报写道，这是公安部的一次大型行动，行动焦点北京锋锐律师事务所是专门寻衅滋事、破坏社会稳定的”重大犯罪团伙”。《环球时报》更是写道，这件事将有助于区分普通律师和律师里的”极端派”。</p>
+<p>“这件事触及问题核心。中国绝大多数司法学者、中国政府都没有将法律理解为个人权利。他们像公元前三世纪的中国法学者一样，更多将法律看作是是一种统治工具。”</p>
+<p>文章说，比起用”依法治国”来解读这个话题，”借法治国”的说法更为贴切。</p>
+<p>[摘编自其他媒体的内容，不代表德国之声观点]</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%85%9A%E7%9A%84%E6%9D%83%E5%88%A9%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%AC%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E6%B3%95/?category=18271" rel="tag">国安法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E5%93%AA%E4%B8%AA%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF/" target="cdt-mirror">【立此存照】新华国际到底在说哪个“今日俄罗斯”？</a>
 </h2>
 <p><p>新华国际今日在其客户端及微博帐号推送了一篇<a href="http://xhgj.api.zhongguowangshi.com/wap/share.aspx?clientApp=104&docid=93774&channel=sina">评论文章</a>（文末附截图），称“今日俄罗斯”国际新闻通讯社在伦敦的银行帐户遭冻结一事，充分说明了“西方国家在新闻自由这个问题上奉行的双重标准”：</p>
@@ -804,43 +832,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%90%9D%E5%8D%9C%E7%BD%91-%E6%88%91%E6%9D%A5%E6%90%9C%E9%9B%86%E4%B8%80%E4%B8%8B7798%E6%9D%A1%E5%B7%AE%E8%AF%84%E9%87%8C%E7%9A%84%E7%B2%BE%E5%8D%8E/" target="cdt-mirror">萝卜网 | 我来搜集一下7798条差评里的精华</a>
-</h2>
-<p><p>在微博上有近2.5万人给这部电影打了一星。目前评分2.6分。它有7798条差评。创下了纪录。上一次遇到这么牛逼的成绩来自《富春山居图》，3.2分。而且这个2.6分还是因为有很多用户给了五星差评，写了超多反讽的评价……</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5ff7d993jw1eu25v3b4c9j20bs0go77s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5ff7d993jw1eu25v3b4c9j20bs0go77s.jpg" alt="5ff7d993jw1eu25v3b4c9j20bs0go77s" width="424" height="600"></a></p>
-<p>看见大家都在骂它，我只想说，导演，你真是导演中的战斗导演。</p>
-<p>@芳菲小猪：★，没有影评，我只是来给花钱看这片儿的观众道歉的。</p>
-<p>@姜远枫_JYFeng ：★，既然做中国版汽车（人）总动员，应该贴近中国的汽车文化，比如主角应该是桑塔纳，领导是红旗，也有部分是黑色奥迪，大反派是横冲直撞的泥头车，再加入大量电瓶车做打手也是极好的。</p>
-<p>@依然_未完成 ：★，本片不适合3岁以上的人看。</p>
-<p>@偶尔e网事 ：★，这年头有些人靠脸吃饭，有些人靠不要脸吃饭。</p>
-<p>@杨纯真v587 ：★，为什么不能评0分</p>
-<p>@ElysionsCC ：★，真的很好看，起码两千万特效，好莱坞级别的制作团队，剧情跌宕起伏，充满了社会核心价值观，重新塑造了我的三观，有桌导演中国动漫电影崛起有望，我的病友们都很期待，好了不说了，医生叫我回去吃药了。导演，我们四川第二精神病院全体病友都支持您</p>
-<p>@八瓜八叔小锦鲤 ：★，你们为什么要骂导演？你们不了解他，没看过这部电影，如果你们了解了，就不会骂他了，而他妈是揍他了。</p>
-<p>@轻微失焦 ：★，如果把抄袭比作吃别人拉出来的屎，那么郭敬明和于正还可以狡辩说：“虽然这看起来很像某人拉的，但其实是牛肉酱。”汽车人总动员导演则是拿盘子在人屁股底下接着，拉出来原封不动还冒着热乎气儿就吃了，边吃边咋吧嘴：“我这是鉴赏美食，不是吃屎。”</p>
-<p>@ForTheNazi ：★，是一部很不错的电影（sha bi）可以说 这部电影为国产争光了（qu ni da ye)导演卓建荣在微博也十分有素质（che dan）面对网友的围攻（gan de piao liang)仍然沉着冷静 一口一个人渣脑袋进水大骂网友没素质我只想对那些批评这部电影的人说：丧心病狂（gan de hao）</p>
-<p>@基西 ：★，很好看的动画片，带亲戚家的熊孩子看一次，他就再也不理我了</p>
-<p>@2_bad ：★，我准备拍《泰坦船尼克号》，首先声明，这部剧完全是自创，没有抄袭《泰坦尼克号》，因为虽然大部分剧情以及风格是一样的，但是与《泰坦尼克号》不同的是，我在剧中加入了一条二哈狗，还加入了一头荷兰猪。所以，我的剧中有动物的出现，不算抄袭。</p>
-<p>@晗没没 ：★，去死好吗？去死</p>
-<p>@曾泓源 ：★，超强明星阵容！上亿特效！潸然泪下的剧情！这些….都没有！其实这部电影最最吸引人的是大家的影评。</p>
-<p>@Yaeuiy ：这东西带孩子看。孩子说爸爸你秀逗了吧，带我来看弱智片，我是小不是傻。。。</p>
-<p>@V1ll1ams ：好鸡动，今天看了汽车总动员了，毕竟都是从小追的，据说导演是华人。进去一看，天，这特效棒极了，和我小学的flash水平一模一样呢！这个华人导演简直是小朋友的骄傲，弘扬了社会主义旗帜下的动画水平是可以获得迪斯尼承认的！欸，我艹，这不是迪斯尼的？</p>
-<p>@洛阳说唱AKAzombie脏比 ：没看过莂BB，说这电影怎么地。我带两岁大的侄子去看，效果就很好嘛，他进电影院哭着喊着不想进，我吧唧一个大耳巴子上去：操你妈！我带你来接受社会主义文化洗礼，怎么这么不懂事！然后把他捆了进去，不得不说电影很感人，尤其是大圣那最后一幕，直接把我感动哭啦</p>
-<p>@伊人一笑醉红尘丶 ：电影非常好，非常深刻，将万恶的资本主义的电影借鉴过来加以改造，取其精华去其糟粕，可谓是用心良苦。画面也十分精美，我如果要做这样的画面怎么也得两天一夜的赶工才能做出来这样的画面，得是在我喝醉神志不清，边草导演妈边作图的情况下，导演的细心可谓是难得。</p>
-<p>@李狗维 ：一面是境外敌对势力的文化渗透，一面对技术的追求浪费了我们太多财力，祖国给我们重任，一条中国特色的道路才能让产业崛起！卓建荣一咬牙一跺脚，直接切了裆下屌！他敢想敢干，不要华丽特效，无需复杂后期，一个正能量的故事与美国大片的对抗终于取得压倒性的胜利！</p>
-<p>@浮世若梦_ ：很好看 期待你的《怪物人史莱克》《冰雪人奇缘》《玩具人总动员》《海底鱼总动员》哦，对了，还有《机器从总动员》。</p>
-<p>@BeareGentle ：天哪，太好看了吧！我从来没见过制作如此精美又色彩鲜艳的灵车！导演好有孝心那！！！！</p>
-<p>@OreoOlymLee ：卓建荣大胆“借鉴”好莱坞垃圾电影给1颗星 卓建荣面对质疑大义凌然给1颗星 卓建荣和众网友评论撕逼爆粗口给1颗星 卓建荣敢于用恬不知耻的语言回击日本欧美媒体给1颗星 这剧情 这特效 1颗星值了吧！新时代的楷模 中国电影业的骄傲 必须赞</p>
-<p>不说了，其他的自己看影评吧……再见！ヾ(￣▽￣)Bye~Bye~</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%90%9D%E5%8D%9C%E7%BD%91-%E6%88%91%E6%9D%A5%E6%90%9C%E9%9B%86%E4%B8%80%E4%B8%8B7798%E6%9D%A1%E5%B7%AE%E8%AF%84%E9%87%8C%E7%9A%84%E7%B2%BE%E5%8D%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E7%89%87/?category=18271" rel="tag">国产动画片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0/?category=18271" rel="tag">自主创新</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -852,7 +843,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pfnfiqgdzxli.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -862,5 +853,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/></td>    </tr>
 </table>

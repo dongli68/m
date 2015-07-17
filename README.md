@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1sgqo4nbh3dh7.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3195iyr5rm4op.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E7%BE%8E%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%8E%B0%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B3%E8%AF%B7%E8%81%94%E5%90%88%E5%9B%BD/" target="cdt-mirror">自由亚州｜“现在自由”申请联合国认证遭拒 中国伊朗等投反对票</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1104e129-ecda-4fd4-959d-72caac3b5e72.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1104e129-ecda-4fd4-959d-72caac3b5e72.jpeg" alt="1104e129-ecda-4fd4-959d-72caac3b5e72" width="550" height=""></a><p>图片： “现在自由”组织官员认为，此次被拒与他们关注各国良心犯有关。 （现在自由网页截图）</p></div>
+<p>美国非政府组织“现在自由”要求获得联合国咨商地位认证的申请遭非政府组织委员会拒绝后，在美国代表的要求下，该委员会的上级机构将在7月20号对此进行投票表决。“现在自由”组织官员认为，此次被拒与他们关注各国良心犯有关，包括中国良心犯刘晓波案等有关，导致不少联合国“非政府组织委员会”成员国不满。</p>
+<p>美联社7月16号报道，上个月，联合国非政府组织委员会（UN NGO Committee）经投票，拒绝给予总部设在美国华盛顿的非政府组织“现在自由”（Freedom Now）联合国“咨商地位”认证。不过，美国决定提请联合国非政府组织委员会的上级部门—联合国经济及社会委员会（Economic and Social Council）对此进行复议。</p>
+<p>“现在自由” 执行主任特纳（Maran Turner）7月16号接受本台记者电话采访时介绍说，该组织长期致力于通过法律、政治、公关等手段推动全球良心犯获得自由。2009年，该组织向联合国非政府组织委员会提交“咨商地位”认证申请，并在随后5年多的时间里，为此做了积极认真的准备。不过，上个月，<strong>由19个成员国组成的联合国非政府组织委员会投票否决了这一申请，包括中国、俄罗斯、伊朗、古巴、苏丹、阿塞拜疆在内的11个国家投了反对票，美国、以色列、希腊、委内瑞拉等4国投了赞成票，印度弃权，几内亚、毛里塔尼亚、土耳其3国代表没有到场。</strong></p>
+<p>特纳说，联合国非政府组织委员会对于否决“现在自由”咨商地位认证，并没有给出官方理由。不过，联合国与该项投票结果相关的公开记录显示，一些到场投票的成员国称，该项投票不符合联合国非政府组织委员会的章程和工作方法。联合国非政府组织委员会主席当场驳斥了这种说法，指出该项投票遵循了联合国非政府组织委员会的所有章程和工作方法。</p>
+<p>特纳认为，“现在自由”组织未能获得联合国非政府组织委员会咨商地位认证，其真正的原因，并不是该组织没有满足联合国咨商地位认证的要求，而是因为该组织致力于推动全球良心犯获得自由，引起一些国家的担心。</p>
+<p>“我们最著名的案件，就是中国的刘晓波。我们向联合国人权委员会‘任意拘押工作小组’提交了刘晓波的案件，该独立机构给出了有利于我方的意见，结论是：刘晓波被监禁，确实违反了他的基本自由权利，刘晓波是良心犯。”</p>
+<p>美联社的报道说，美国常驻联合国代表萨曼莎·鲍尔（Samantha Power）上个月在美国国会听证会上表示，拒绝给予“现在自由”组织联合国咨商地位认证的联合国非政府组织委员会“充斥着一群自己都不容忍本国非政府组织的国家……但我们不会放弃”。</p>
+<p>目前正在纽约大学“美国亚洲法律研究所”做访问学者的北京非政府组织“益仁平中心”负责人陆军对此评论说：</p>
+<p>“中国政府对NGO的态度，其实地球人都知道，一直以来都很不友好，尤其是对待权利型NGO、独立NGO、草根NGO。最近两年这种情况又有所恶化。去年开始，中国发起了一个针对NGO的镇压运动。到目前为止，据我们所知，已经有10多家权利型NGO被搜查，或者成员被抓捕，还有10多家服务型NGO也被搜查、调查。很明显，中国对NGO很不友好。联合国确实需要慎重考虑，中国是不是适合作为联合国非政府组织委员会的成员。”</p>
+<p>据美联社的报道，联合国非政府组织委员会的上级部门—联合国经济及社会委员会由54个成员国组成，联合国经济及社会委员会将在7月20号投票，决定是否给予“现在自由”联合国“咨商地位”认证。</p>
+<p>（记者：林坪；责编：嘉华）</p>
+<p>原<em>标题：美非政府组织“现在自由”申请联合国咨商地位认证遭非政府组织委员会拒绝</em></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E7%BE%8E%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%8E%B0%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B3%E8%AF%B7%E8%81%94%E5%90%88%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6%E3%80%81sb%E6%94%BF%E5%BA%9C%E7%AD%89-2015-7-16/" target="cdt-mirror">【敏感词库】维权律师大抓捕事件、“sb政府”等 2015-7-16</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJnnvcLUcAAv9mb.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJnnvcLUcAAv9mb.jpg" alt="CJnnvcLUcAAv9mb" width="400" height=""></a><br><em>（“大抓捕” by 巴丢草）</em></p>
@@ -749,7 +774,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E4%BA%AC
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%90%9D%E5%8D%9C%E7%BD%91-%E6%88%91%E6%9D%A5%E6%90%9C%E9%9B%86%E4%B8%80%E4%B8%8B7798%E6%9D%A1%E5%B7%AE%E8%AF%84%E9%87%8C%E7%9A%84%E7%B2%BE%E5%8D%8E/" target="cdt-mirror">萝卜网 | 我来搜集一下7798条差评里的精华</a>
 </h2>
@@ -800,30 +825,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/?category=18271" rel="tag">一党专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E6%B3%95/?category=18271" rel="tag">国安法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">核心利益</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E4%B8%AD%E5%85%B1%E5%AE%98%E5%AA%92%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%89%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E6%8A%93%E6%8D%95%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/" target="cdt-mirror">BBC | 中共官媒回应美国批评中国抓捕维权律师</a>
-</h2>
-<p><p><strong>中共《人民日报》旗下《环球时报》发表社评说，美国回应中国抓捕维权律师的言论“像是粘在中国人脚底的一块泡泡糖”，“可以藐视”。</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150714072547_cn_china_lawyers_global_times_976x549_ap.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150714072547_cn_china_lawyers_global_times_976x549_ap.jpg" alt="《环球时报》社评强调被捕的是“滋事律师”" width="660" height="371"></a><p>《环球时报》社评强调被捕的是“滋事律师”</p></div>
-<p>美国国务院星期天（7月12日）发表声明说，中国警方“有组织扣留”一些“和平捍卫他人权益”，“合法地挑战官方政策”的人，强烈促请中国尊重公民权利，释放被捕人员。</p>
-<p>中国外交部尚未公开评论美方表态，《环球时报》星期二（14日）的这篇社评是目前中方最高级别的回应。社评还说，中国律师是出于“同病相怜”而质疑抓捕行动。</p>
-<p>据国际特赦组织统计，截至星期一，中国内地共有101名律师与维权人士被警方列为对付目标，香港中国维权律师关注组则称达139人。</p>
-<p><a href="http://www.bbc.co.uk/news/world-asia-china-33502955">BBC中国总编辑凯瑞（Carrie Gracie）指出</a>，把律师视为绊脚石而非助力成为了中国宣传法治建设的方向。不能被拉拢的群体被唾弃，也显然容不下任何律师或律师事务所把当事人利益置于党的利益之上。</p>
-<p><strong>“摧毁支撑点”</strong></p>
-<p>《环球时报》的社评开首说，美国国务院对中国抓捕律师的立场“与其以往在人权领域向中国发难一脉相承”。</p>
-<p>“然而区别是，过去中国比较弱时，美方的指责像是‘人权大棒’，如今它的指责像是粘在中国人脚底的一块泡泡糖。不会有人认为美国务院的这番话有什么实际作用，它只会让中国多少有点不舒服，其程度同鞋被脏东西粘在地板上差不多。”</p>
-<p>在多名律师相继失去联络或被证实遭到警方刑事拘留、监视居住后，一些其他律师透过联署等方式表达不满。社评说，“这或许有一部分来自于行业内部的‘同病相怜’，就像有记者犯案被抓时，新闻圈内会天然多一些人觉得有必要帮着说几句话”。</p>
-<p>《环球时报》续说：“美国务院宣称被抓律师是在‘合法地挑战政府政策’，这种主张是西方势力与中国死磕派律师和他们支持者彼此呼应的支撑点之一。必须要摧毁这样的支撑点，但摧毁它们的方式不能是大批判，而只能通过对被抓者依法进行公开、公正的审理来实现。”</p>
-<p>社评还把台湾和香港声援被捕律师的群体形容为“一些极端力量”，并说，“客观说，它们的表现令内地公众反感，民间会有一些人认为，被这些外部势力支持，说明被抓者的确不是什么‘好人’”。</p>
-<p>“打掉一个有‘维权律师’涉嫌参与的犯罪团伙，不仅要实现中国社会治安的进一步平稳，还要力促国人在中西意识形态的争议点上更加自信和团结，这既是法律和治安之战，也是人心争夺战。”</p>
-<p>社评称，中国将以“无可挑剔的司法办案过程”来证明“法律面前人人平等”。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E4%B8%AD%E5%85%B1%E5%AE%98%E5%AA%92%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%89%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E6%8A%93%E6%8D%95%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E7%89%B9%E8%B5%A6%E7%BB%84%E7%BB%87/?category=18271" rel="tag">国际特赦组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%9D%83/?category=18271" rel="tag">民权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>

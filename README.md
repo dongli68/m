@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33m780rfkn99a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2hrhos2jw806n.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E7%8E%8B%E5%AE%87%E4%B9%8B%E5%AD%90%EF%BC%9A%E6%9C%89%E5%AE%B6%E4%B8%8D%E8%83%BD%E5%BD%92-%E6%9C%89%E5%AD%A6%E4%B8%8D/" target="cdt-mirror">美国之音｜被捕律师王宇之子：有家不能归 有学不能上</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/B7E8753F-12AB-4532-84B3-ACF2FD605235_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/B7E8753F-12AB-4532-84B3-ACF2FD605235_w640_r1_s.jpg" alt="王宇律师（资料照片）" width="575" height=""></a><p>王宇律师（资料照片）</p></div>
+<p>上周被中国警方逮捕的维权律师王宇的儿子包蒙蒙说，自己和家人目前处于被监视居住的状态，并且不允许和律师沟通。和他偶尔有联系的北京律师陈建刚呼吁各界人士关注中国政府对维权律师及其家人的打击。</p>
+<p><strong>门口站着两个警察 祖孙俩深感恐惧</strong></p>
+<p>曾代理著名维权人士“屠夫” 吴淦案的维权律师王宇和她的丈夫包龙军自7月9日凌晨被警方强行带走后，至今没有音讯。陈建刚告诉美国之音，过去一周来，王宇律师的儿子包蒙蒙被警方带走问讯过至少三次。他目前寄住在奶奶家，但是家门口整日有警察值勤监视，也不允许他离开天津。</p>
+<p>陈建刚说，“这个孩子他现在一直是在警察的监控当中。虽然交给他奶奶居住，但是警察对他始终有监控，就是不允许他离开天津。（警察）至少是已经找了他三次了。现在这个小孩儿还有他奶奶都有恐惧感。他家里还有病人，他爷爷有重病，必须有人照看。”</p>
+<p><strong>警方：不要想出国上学了，不会让你去的</strong></p>
+<p>16岁的包蒙蒙原本计划今年到澳洲念高中，却因为护照被警方扣押而一再推迟学籍注册。与护照一起被扣押的还有他与父母住家的门钥匙。</p>
+<p>陈建刚用一句话形容包蒙蒙的生活：有家不能归，有学不能上。</p>
+<p>他说，“警方的说法就是很坚决，‘你不要想出国上学了，不会让你去的。现在不会让你去，将来也不会让你去。’”</p>
+<p>而远在澳洲的校方也对此无能为力。校方表示，如果包蒙蒙不能按时报到，将通知移民局并取消他的签证。</p>
+<p><strong>包蒙蒙被禁止和律师联系</strong></p>
+<p>“我打电话现在孩子不敢接啊。”陈建刚说。</p>
+<p>陈建刚表示，自己和其他同行一样，也被警察带走问讯过。他被警方警告说不许关注并支持跟王宇有关的事情，不许在网上发表文章，不许接受媒体采访。“下一句就是，否则就会有法律的严惩，”他说。</p>
+<p>陈建刚现在已经离开北京，但仍会被地方的公安找上门，带走问话。他说，今天接到过几个来自北京的电话，猜想是警察，所以没有接。</p>
+<p>“大概在前三天左右吧，因为我不在北京，我在外地。是公安部的命令，然后北京市公安局通知外地某市的公安局的国保，然后国保开车直接去找我。找到我，把我带到公安局。然后单个房间……前后两天找了我两次。”他说。</p>
+<p>他还谈到，现在维权律师界有许多律师愿意为王宇和包龙军辩护。但警方恐吓王宇的家人，不允许他们聘请律师。</p>
+<p>中国官媒新华网7月15日发布了一篇题目为《依法打击极少数违法律师是为了给广大律师创造更好执业环境》的文章，将被拘律师的罪名定义为“带头挑事、非法滋事……涉嫌严重干扰正常司法活动，涉嫌严重扰乱社会秩序”。</p>
+<p>据中国维权律师关注组的最新统计数据，目前已有222名律师、律师事务所工作人员和人权活动人士被中国警方刑拘、带走、失联、约谈、传唤、或短期限制人身自由。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E7%8E%8B%E5%AE%87%E4%B9%8B%E5%AD%90%EF%BC%9A%E6%9C%89%E5%AE%B6%E4%B8%8D%E8%83%BD%E5%BD%92-%E6%9C%89%E5%AD%A6%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%99%86%E5%86%9B%EF%BC%9A%E4%B8%AD%E5%9B%BDngo%E4%B8%8D%E4%BC%9A%E5%9B%A0%E4%B8%BA%E5%A4%9A%E4%BA%86%E4%B8%80%E9%83%A8%E6%B3%95%E5%BE%8B%E5%B0%B1%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA/" target="cdt-mirror">陆军：中国NGO不会因为多了一部法律就手足无措</a>
 </h2>
 <p><p><em>【编者注】中国数字时代英语版近日对益仁平创始人陆军进行了采访。除最后一组问答外，下文所有问题均翻译自英语版原文，陆军的回答均为中文原文。最后一组问答翻译自英语原文。</em></p>
@@ -888,27 +916,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%9B%E5%B7%9D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E8%97%8F%E4%BA%BA%E7%B2%BE%E7%A5%9E%E9%A2%86%E8%A2%96/" target="cdt-mirror">纽约时报 | 四川数千人示威要求归还藏人精神领袖遗体</a>
-</h2>
-<p><p>据新闻报道和一个倡导团体称，一名藏人精神领袖在中国监狱死亡一事引发了藏人的暴力抗议，要求将其遗体交还给家人。</p>
-<p>丹增德勒仁波切(Tenzin Delek Rinpoche)是被中国当局关押的藏人精神领袖中身份最显要的一位。2002年因四川省会成都发生的一系列爆炸事件而被判有罪后，丹增德勒仁波切一直在该省服20年的有期徒刑。</p>
-<p>家人是在周日获悉这名僧人的<a href="http://cn.nytimes.com/china/20150714/c14tibetan/" target="_blank" rel="nofollow">死讯</a>的。据总部位于伦敦的倡导团体自由西藏(Free Tibet)的一则声明称，第二天，数千人聚集在四川西部雅江县一政府机构外致哀。</p>
-<p>该组织称，周一当天，为了驱散人群，警方向空中鸣枪，使用了催泪瓦斯，并殴打抗议者，致使至少23人被送往医院接受治疗。</p>
-<p>自由西藏称，抗议者要求中国当局将这名僧人的遗体交还家人，以举行葬礼。</p>
-<p>总部位于华盛顿并接受美国政府资助的新闻机构自由亚洲电台(Radio Free Asia)也报道了这起对峙事件，并援引了身在该地区和流亡在外的消息来源。</p>
-<p>记者周二无法联系到丹增德勒仁波切的家人接受采访，致电关押他的监狱亦无人接听。</p>
-<p>坚称自己无罪的丹增德勒，尽管身在狱中依然受人崇敬。他的一名同案被告已在2003年被执行死刑。</p>
-<p>据人权观察组织(Human Rights Watch)在2004年的一份报道称，丹增德勒早前生活在雅江县，并修建了多座寺院、诊所和学校。</p>
-<p>在周一的一则声明中，美国国务院称希望中国调查丹增德勒之死。</p>
-<p>“我们敦促中国当局将其遗体归还给家人或其所在的寺院，以便依照习惯举行适当的宗教仪式，”<a href="http://www.state.gov/r/pa/prs/ps/2015/07/244853.htm" target="_blank" rel="nofollow">国务院</a>在声明中说。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%9B%E5%B7%9D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E8%97%8F%E4%BA%BA%E7%B2%BE%E7%A5%9E%E9%A2%86%E8%A2%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F/?category=18271" rel="tag">人权观察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%83%A7%E4%BA%BA/?category=18271" rel="tag">僧人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E/?category=18271" rel="tag">精神</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%84%9A/?category=18271" rel="tag">自焚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -920,7 +927,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pfnfiqgdzxli.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33m780rfkn99a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -930,5 +937,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%89%93%E5%8E%8B%E5%AA%92%E4%BD%93%E8%80%85%E4%BB%95%E9%80%94%E7%95%85%E9%80%9A/" target="cdt-mirror">德国之声｜长平：打压媒体者仕途畅通</a>
+</h2>
+<p><p>南方周末新年献词事件抗议对象庹震调任中宣部副部长。时评人长平认为，这是当局强化舆论控制的又一个例证。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2013/01/b33443b3jw1e0kt7lij5ej.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/01/b33443b3jw1e0kt7lij5ej.jpg" alt="网友所献菊花" width="375" height="500"></a><br>
+（<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">南周新年献辞事件</a>发生后，网民在南方报业楼前献上菊花以示抗议）</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%BA%B9%E9%9C%87%E5%8D%87%E4%BB%BB%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF/">共产党新闻网｜庹震升任中宣部副部长</a></p></blockquote>
+<p>（德国之声中文网）尽管戈培尔的名言”谎言重复千遍即是真理”、奥威尔《1984》里描述的真理部都臭名昭著，但是中共宣传部还没有得到应有的重视，其副 部长职位调整几乎无人问津。庹震先生是一个例外。在他任职之前，网络上就有消息传播。最近媒体从一则官方会议消息中发现，他的头衔的确改变了，从此前的中 共广东省委宣传部长变成了中宣部副部长。</p>
+<p>庹震先生之所以引人注目，是因为2013年发生了轰动一时的南方周末新年献词修改事件。新年献词是这份知名报纸一年一度表达立场和情怀的传统产品，曾经拥 有大量读者。宣传部门对此自然不会放过，审查越来越严格，到最后几乎对每一个字都反复探照，文章也越来越难写。2013年初始，南方周末编辑部就当年的新 年献词被修改得体无完肤表达集体抗议，引发了来自全社会的街头及网络抗议活动，抗议矛头指向中共体制下的新闻审查，呼吁言论自由。当时的广东省委宣传部部 长，正是庹震先生。</p>
+<p>一度传言庹震亲自捉笔删改社论，但后来官方媒体称事实并非如此。尽管如此，他上任之后严格执行宣传审查制度，甚至令媒体人感到更加窒息，却是不争的事实。因此，要求他下台谢罪，是那场抗议活动的诉求之一。</p>
+<p>那是一场自1989年以后中国难得一见的针对新闻审查的公开抗议。抗议的结果，不仅庹震没有下台，总编没有辞职，而且一位反水揭露审查黑幕的审读员被辞退（并于离职数日后酒醉致死），南方周末编辑部遭致更多打压，南方集团诸多优秀编辑记者被逼离职。</p>
+<p>此事件中街头抗议的主要参与者、著名人权活动家杨茂东（网名郭飞雄）和刘远东，则于2013年8月遭到抓捕，拘禁至今。有报道指称，南方报业传媒集团做出了对二人不利的证词，称他们的行为”满足聚众扰乱公共场所秩序罪的后果要件”。</p>
+<p>抗议的主要对象庹震显然打压立功，管制有方，受到高层肯定，不仅毫毛未损，反而仕途畅通，终于调任中央。</p>
+<p><b>规模空间的媒体打压仍在继续</b></p>
+<p>回顾习近平上台之后对媒体及网络的严格管制，这并不让人感到意外，不过是当局空前强化舆论控制的又一个例证而已。2010年底，我因为撰写批评当局的时评 文章，被迫从南方报业集团离职。据媒体报道，幕后指挥者是曾经多次亲赴广东打压媒体的宣传部副部长蔡名照。如今蔡名照已出任中共最大宣传喉舌新华社社长。 人权律师浦志强曾经多次为被打压的媒体及媒体人辩护，如今他被冠以莫须有的罪名，身陷囹圄。</p>
+<p>一份在网络传播的最新中央宣传工作会议文件称，必须坚持媒体的”喉舌论”，即”在中国的媒体，不管是传统纸媒还是新媒体，都应当是党的喉舌”，”今后不能 允许反马列毛言论公开地堂而皇之地在媒体上出现”。会议的重点是全面清理”新三反（反党、反国家、反民族立场）人员”，”这些人不能继续呆在媒体，不能从 事舆论宣传工作”，也”不能在高校从事新闻人才的培养”。</p>
+<p>值得注意的是，媒体证实庹震职务调动的消息来自中国作家协会主办的《中国作家网》，消息称在由中央宣传部和中国作家协会联合举办的”全国儿童文学创作出版 座谈会”上，庹震以中宣部副部长身份出席并讲话。中共洗脑从幼儿抓起，这并不是什么秘密。但是，那些不愿意参与甚至反感南周事件街头抗议活动的中产阶级， 恐怕从来没有想过庹震先生和自己孩子看的童书之间有什么关系。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2013/01/A_-vmEeCYAAhnw1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/01/A_-vmEeCYAAhnw1.jpg" alt="每朵菊花绽放力量" width="525" height="394"></a><br>
+（<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">南周新年献辞事件</a>发生后，网民自发前去南方报业集团楼下抗议；图片来自新浪微博）</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%89%93%E5%8E%8B%E5%AA%92%E4%BD%93%E8%80%85%E4%BB%95%E9%80%94%E7%95%85%E9%80%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">南周新年献辞事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%83%A8%E9%95%BF/?category=18271" rel="tag">庹部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%BC%BA%E8%A1%8C%E7%81%AB%E5%8C%96%E8%97%8F%E5%83%A7%E4%B8%B9%E5%A2%9E%E5%BE%B7%E5%8B%92%E4%BB%81%E6%B3%A2%E5%88%87/" target="cdt-mirror">纽约时报｜中国当局强行火化藏僧丹增德勒仁波切遗体</a>
+</h2>
+<p><p>北京——周四，中国西南地区当局不顾亲属、宗教领袖和数千名支持者的请求，将上周在狱中去世的一名知名藏族僧人的遗体火化。支持者曾要求获准依照藏传佛教传统举行葬礼。</p>
+<p>去世的这名僧人是终年65岁的丹增德勒仁波切(Tenzin Delek Rinpoche)。亲属称，周四凌晨，四川省的监狱官员不顾他们的请求，草草火化了丹增德勒的遗体。已经演化为暴力冲突的抗议活动很可能因此加剧。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/14China-web-popup.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/14China-web-popup.jpg" alt="14China-web-popup" width="371" height="500"></a><p>丹增德勒仁波切</p></div>
+<p>“我觉得他们是害怕人们会看到遗体，知道不是自然死亡，”丹增德勒的表亲格西嘉央尼玛(Geshe Jamyang Nyima)在Skype上接受采访时说。</p>
+<p>权利倡导人士一直要求调查<a href="http://cn.nytimes.com/china/20150714/c14tibetan/" target="_blank" rel="nofollow">丹增德勒的死</a>。丹增德勒是一名社群领袖，生前因被控恐怖主义和煽动分裂而服无期徒刑。在狱中的13年里，丹增德勒坚称自己无罪，称关于他策划了2002年的一系列爆炸案的指控，是由对他的公众声望日益提高感到不满的官员捏造的。</p>
+<p>最近几年，因有关其健康每况愈下的报道而感到担忧的家人，一直在请求北京准许丹增德勒保外就医，并得到了西藏流亡团体、西方政府和丹增德勒在国内的数千名信徒的支持。本周，美国国务院和欧盟呼吁中国政府交还遗体。</p>
+<p>周四当天，记者无法联系到四川省会成都的监狱官员请其置评，但亲属称，他们多次拒绝公布丹增德勒的死因。</p>
+<p>家人称，丹增德勒被捕前健康状况良好，但后来患上了心脏病。他们称他在被关押期间遭到虐待，并将心脏病归咎于此。</p>
+<p>“从最早骚扰他的活动开始，一直到处理掉他的遗体，中国当 局对待丹增德勒仁波切的态度，表现出了他们对自己的法律和对宗教传统的极大蔑视，”人权观察组织(Human Rights Watch)中国部主任芮莎菲(Sophie Richardson)说。“让饱受折磨且得不到医治的人死在监狱里，残忍至极。”</p>
+<p>丹增德勒是中国身份最显赫的政治犯之一。在一个本就充斥着反政府情绪的地区，他的死亡和遗体被草草火化可能会加剧紧张局势。</p>
+<p>周一，一千多人聚集在丹增德勒曾居住过的雅江的政府外。雅江是四川的一个县，居民大多是藏族。据说警方朝人群使用了催泪瓦斯和实弹。报道此次抗议活动的海外倡导团体自由西藏学生运动(Students for a Free Tibet)称，有十多人受伤。</p>
+<p>丹增德勒的表亲格西嘉央尼玛说，在遗体周四上午在成都郊外一处秘密场所火化前不久，监狱官员让丹增德勒的姐妹见了他的遗体。“她们发现他的嘴唇和手指甲都变黑了，”格西嘉央尼玛说。“在我们看来，他明显是被害死的。”他目前在印度流亡，经常与丹增德勒的一个姐妹电话联系。</p>
+<p>丹增德勒在四川藏人中备受崇敬。在四川，他帮忙修建了诊所、学校和寺院。他还是一位有名的环保人士，反对开矿和砍伐森林。</p>
+<p>但据自由西藏学生运动的活动总监帕玛卓玛(Padma Dolma)称，丹增德勒对藏语和西藏文化的推广，以及当地民众对他的忠诚追随，让汉族官员不安。“他没有参与政治活动，正因为如此，他被捕并被控密谋安置炸弹令人震惊，”她说。</p>
+<p>被捕并被秘密审判后，丹增德勒在四川以外的地方也出名了。在国际权利倡导人士发起活动要求释放他后，他的死刑被减为无期徒刑。但他的一名同案被告已在2003年被执行死刑。</p>
+<p>哥伦北亚大学现代藏学研究项目主任罗伯特·巴尼特(Robert Barnett)表示，中国政府一直非公开地允许患病的藏族囚犯保外就医，过去两年里人数达到了17人。但考虑到丹增德勒的名望，当局可能害怕民众会为他获释一事举行庆祝。</p>
+<p>“让他死在监狱里这件事真的很不同寻常，”他说。“这会在藏人群体中引发非常强烈的影响。”</p>
+<div>
+<p><em>杰安迪(Andrew Jacobs)是《纽约时报》驻京记者。</em></p>
+</div>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%BC%BA%E8%A1%8C%E7%81%AB%E5%8C%96%E8%97%8F%E5%83%A7%E4%B8%B9%E5%A2%9E%E5%BE%B7%E5%8B%92%E4%BB%81%E6%B3%A2%E5%88%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E5%83%A7/?category=18271" rel="tag">藏僧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E4%B8%89%E9%B9%BF%E4%BA%8B%E4%BB%B6%E8%A2%AB%E9%97%AE%E8%B4%A3%E8%80%85%E7%8E%8B%E6%99%BA%E6%89%8D%E4%BB%BB%E5%86%9C%E4%B8%9A%E9%83%A8%E6%80%BB%E7%95%9C%E7%89%A7/" target="cdt-mirror">财新网｜三鹿事件被问责者王智才任农业部总畜牧师</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/07/%E5%A5%B6%E7%B2%89%E5%9B%BD.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2013/07/%E5%A5%B6%E7%B2%89%E5%9B%BD.jpeg" alt="奶粉国" width="575" height=""></a><br><em>（艾未未作品《奶粉国》；网络图片）</em></p>
+<p>【财新网】（记者 林韵诗）继吴显国、孙咸泽后，又一名在三鹿事件中被问责的官员履新。近日，农业部网站“部领导”一栏更新显示，2009年因三鹿事件被中央纪委监察部降级处分的王智才任农业部总畜牧师。</p>
+<p>王智才早前就以新身份出席公开活动。据包头市农牧业局官网消息，7月12日，中国•包头国际牛羊肉产业大会暨绿色农畜产品博览会落幕，农业部总农艺师孙中华、总畜牧师王智才等出席开幕式。</p>
+<p>公开资料显示，王智才是陕西省西安市鸣犊镇人，曾任农业部畜牧业司司长、全国饲料工作办公室主任；因三鹿奶粉事件，2009年3月被中央纪委监察部处以降级的行政处分。</p>
+<p>据财新记者统计，王智才是近期第三位履新的三鹿事件被问责的官员。</p>
+<p>此前的7月10日，人社部公布国家工作人员任免名单，曾被记过处分的孙咸泽，在国家食药监督总局党组成员、药品安全总监两个职务之上，再兼任该局副局长。</p>
+<p>5月，曾被免职的中共十七届中央候补委员、原河北省委常委、石家庄市委书记吴显国，自2013年初复出担任河北省委省政府农村工作领导小组副组长后，再进一步任河北省政府党组成员。</p>
+<p>三鹿毒奶粉事件发生于2008年6月。事后，多名国务院相关部委及石家庄领导受到不同级别的处分。</p>
+<p>根据2009年7月中共中央办公厅、国务院办公厅发布的《关于实行党政领导干部问责的暂行规定》，引咎辞职、责令辞职、免职的党政领导干部，“一年内不得重新担任与其原任职务相当的领导职务”，“一年后如果重新担任与其原任职务相当的领导职务，除应当按照干部管理权限履行审批手续外，还应当征求上一级党委组织部门的意见”。</p>
+<p>目前，因三鹿事件受处分的大批官员已复出或履新，财新记者梳理如下：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1437130469958575.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1437130469958575.jpg" alt="1437130469958575" width="450" height="659"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E4%B8%89%E9%B9%BF%E4%BA%8B%E4%BB%B6%E8%A2%AB%E9%97%AE%E8%B4%A3%E8%80%85%E7%8E%8B%E6%99%BA%E6%89%8D%E4%BB%BB%E5%86%9C%E4%B8%9A%E9%83%A8%E6%80%BB%E7%95%9C%E7%89%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%B9%BF%E5%A5%B6%E7%B2%89%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">三鹿奶粉事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E5%A4%8D%E5%87%BA/?category=18271" rel="tag">官员复出</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E7%8E%8B%E5%AE%87%E4%B9%8B%E5%AD%90%EF%BC%9A%E6%9C%89%E5%AE%B6%E4%B8%8D%E8%83%BD%E5%BD%92-%E6%9C%89%E5%AD%A6%E4%B8%8D/" target="cdt-mirror">美国之音｜被捕律师王宇之子：有家不能归 有学不能上</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/B7E8753F-12AB-4532-84B3-ACF2FD605235_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/B7E8753F-12AB-4532-84B3-ACF2FD605235_w640_r1_s.jpg" alt="王宇律师（资料照片）" width="575" height=""></a><p>王宇律师（资料照片）</p></div>
@@ -50,7 +127,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%99%86%E5%86%9B%EF%BC%9A%E4%B8%AD%E5%9B%BDngo%E4%B8%8D%E4%BC%9A%E5%9B%A0%E4%B8%BA%E5%A4%9A%E4%BA%86%E4%B8%80%E9%83%A8%E6%B3%95%E5%BE%8B%E5%B0%B1%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA/" target="cdt-mirror">陆军：中国NGO不会因为多了一部法律就手足无措</a>
 </h2>
@@ -813,109 +890,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E6%8E%A2%E7%BD%91-%E5%B0%8F%E6%97%B6%E4%BB%A3%EF%BC%9A%E5%9B%BD%E5%A4%96%E5%BD%B1%E8%AF%84%E4%BA%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E8%AF%84%E8%AE%BA%E7%9A%84/" target="cdt-mirror">博探网 | 小时代：国外影评人是这样评论的</a>
-</h2>
-<p><p>《好莱坞报道者》(The Hollywood Reporter)是美国娱乐行业的一份专业报纸，他们昨天发了一篇《小时代4》的影评，我翻译了一下。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E6%97%B6%E4%BB%A3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E6%97%B6%E4%BB%A3.jpg" alt="小时代" width="550" height="531"></a><br>
-《小时代4》是由作家转型的导演郭敬明根据他自己的小说改编的电影四部曲的最新一集、也是最后一集，小说讲述的是四个生活在当代上海的女孩之间起伏不定的友情。在电影里，郭敬明堆砌了所有的东西：撕逼，癌症，公司里的勾心斗角，整容手术，Chippendale式的裸男，唯独没有现实。</p>
-<p>注：撕逼，原文用的是catfight，原意是女人之间的争斗。Chippendale是拉斯维加斯非常有名的猛男秀，他们的男舞者素以上身赤裸、只戴领结和袖口著称，如下图。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%B0%8F%E6%97%B6%E4%BB%A32.jpg" alt="小时代2" width="550" height="244"></p>
-<p>不过，就像他的角色一样，郭敬明在新的艺术领域里的尝试看起来并不成熟。尽管有两名‌‌“执行导演‌‌”的辅佐，但郭敬明在把自己的小说改编成电影时却完全迷失了。他完全不管电影的结构和质感；这一点在那些为了减少因为吸毒被抓而上了黑名单的柯震东的出场而重新拍摄和剪辑的拙劣场景中体现得尤为明显。</p>
-<p>前几集里，巨大的情节漏洞基本上被郭敬明用对物质最大化的铺陈给糊弄掩盖了过去，面对那样毫无节制的、挑衅似地扔了你一脸的物质展示，要无动于衷是不可能的。《小时代4》减少了这样珠光宝气的炫耀，这可能是因为预算的削减，也可能是为了避免被倡导艰苦朴素生活方式的人批评。于是，这部影片就暴露出了一个视觉叙事新手在试图给一个陈旧的主题赋予严肃性时所遭遇的失败。</p>
-<p>7月9日上线的《小时代4》两天内在中国揽下3220万美元，显示了狂热的粉丝们将会对郭敬明和他星光熠熠的卡司团队支持到底，不过它们的票房部分地受到了另一部瞄准青少年的花样少年题材电影《栀子花开》的影响。而在中国以外，这部电影的市场前景几近于无；《小时代3》到目前为止还没有在海外上映。</p>
-<p>许多系列电影都不适合对其不太了解的人观看，郭敬明构建的宇宙对新观众来说也并不轻松。第三部里混杂了大量的人物角色，其中大多数是年轻健壮的美男子，他们有着一样的肌肉和一样的眉头深锁的表情。如果不是资深粉丝，要弄清这样繁杂如迷宫一样的人物关系对于任何人来说都是几乎不可能的挑战。</p>
-<p>第四部延续第三部的情节发展，主要围绕对顾里的审判展开，这是一个曾经富有、但因为父亲留下的债而陷入财政危机的女王蜂。也许是担心具体的审判过程对于他的目标观影群体来说有点太难了，郭敬明给了顾里一个更容易让观众理解的审判方式——与刚刚诊断出来的癌症作斗争。由于太过骄傲而不愿意向身边任何人寻求安慰，顾里开始了一系列自我毁坏的举动，导致了她与曾经的好友林萧、南湘和唐宛如渐渐疏远。</p>
-<p>也许郭敬明能够更加得心应手地用文字来展开互相交织的故事线，而在电影里，情节的把握对他来说变得相当艰难。他的剧本没有能够让角色去做出那些细微但是一目了然的肢体语言，而是把宝押在了让漂亮脸蛋摆pose上，结果完全没有传递出悲伤的情感。《小时代4》是一部反高潮的电影，此前极富争议、充斥刺耳杂音的来势，最终以一个低迷的结尾收场。</p>
-<p>除了《好莱坞报道者》，目前还没有看到别的主要外媒关注《小时代4》。不过，两年前的《小时代2》曾经被很多媒体集中报道。美国另一份娱乐行业的专业媒体《综艺》(Variety)当时是这样评论的。<br>
-因为泛滥的物质主义和荒谬编造的情节设置，《小时代》曾在中国的微博上遭到嘲笑。比如说，一个刚刚毕业的大学生怎么可能立即当上CFO？不过，来自四川小城的男孩郭敬明，为主要来自乏味的二线城市的大众编织了一个大都会之梦。从这一点来看，所有矫揉造作的卖弄就和一个小女孩偷偷试妈妈的口红那样，既可爱又无害。郭敬明也许是把物质的丰裕变成了让人着迷的奇观，可巴兹·鲁赫曼(《了不起的盖茨比》导演)也是这么做的；看到片中角色如同机场跑道一样的更衣室，你甚至可能会想到盖茨比那些剪裁考究的衬衫。</p>
-<p>炫目光鲜的制作会让观众觉得自己在精品服装店或者家具展厅里被困了两个小时，但是电影在审美上的许多处理方式却充斥着坏品味。摄影车亮逸用了很多夸张的镜头运动和糟糕构图让剧情发展显得不自然；顾晓芸的剪辑一塌糊涂；而候志坚的煽情配乐一直就没停过，有时把人物的谈话都给淹没了。</p>
-<p>《纽约时报》也曾经接连发了两篇关于《小时代》的文章，这里节选一下。<br>
-布鲁克林或许属于莉娜·杜汉姆(Lena Dunham)和《绯闻女孩》(Girls)。而在《小时代2》中，编剧兼导演郭敬明继续改编自己的成长三部曲小说，讲述四个从中学起就是好朋友的年轻女人在当今这个野心勃勃、物欲横流的上海寻找自己道路的故事。‌‌“姐妹情有力量‌‌”，这句话似乎很容易被翻译成普通话。</p>
-<p>《小时代》第一部推出了四个女主角：时髦、富有、全能妈妈一样的顾里；多才多艺的艺术家南湘；胖乎乎又花痴的唐宛如，以及叙事者、‌‌“普通‌‌”女孩林萧。有点像年轻版、无性版的《欲望都市》（不过《小时代》里的都市可能就等于性，它如同一个令人眼花缭乱的奥兹国，充满光彩熠熠的建筑和奢侈品牌）。</p>
-<p>《小时代》对《穿普拉达的女魔头》(The Devil Wears Prada)借鉴颇多，比如林萧就是在一个要求很高的时尚杂志编辑手下当实习生，并证明了自己；不同之处是，她的上司是个男人，名叫宫洺，有点像凯莉(Carrie Bradshaw)的Mr. Big，只不过这个人物长得更像汤姆·克鲁斯。</p>
-<p>该片第一部今年夏天在中国票房极佳，因此郭敬明提前发行了这部续作。这一集里，四位主角已从大学毕业，上演了一部关于背叛与分手、误会与原谅、疾病与死亡、董事会会议室政治与公司收购的肥皂剧。20多岁的人就是这样，你懂的。</p>
-<p>作为娱乐片，这是一部典型的粗制滥造之作。但是这部影片同时也是一种幻想，一种结合了崛起的财富与西方生活方式的21世纪青年文化的产物。</p>
-<p>来源：假装在纽约</p>
-<p><strong>延伸阅读：</strong></p>
-<p><strong>微在：好莱坞是如何评论郭敬明和《小时代》的？</strong></p>
-<p>小时代系列在国内屡创票房纪录，好莱坞的业界人士也一直在一旁目瞪口呆地关注。在《小时代4》上映之际，我们找到了《洛杉矶时报》和好莱坞行业报纸Vareity 影评人对郭敬明和《小时代》的严肃评论，让我们来看看好莱坞的影评人是如何向美国观众介绍小四和他的代表作《小时代》1、2 和3的。</p>
-<p><strong>《洛杉矶时报》说：</strong></p>
-<p><strong>小时代都是闪光灯，没有内涵。这是四个上海姑娘闯祸的故事，里面有一大堆愚蠢的填充物。</strong></p>
-<p>把《欲望都市》里的欲望拿掉，然后移植到上海，你就有了郭敬明零性爱的《小时代》。四个爱穿貂和高跟鞋的好朋友和一群男孩子们无所事事，也不知是因为目标人群是十几岁的少年还是因为审查原因，没有任何一个女孩脱过衣服，甚至算不上是接过吻，但是她们流行歌星似的男朋友随时都乐意脱掉衬衣，然后像在剃须水广告中一样走来走去。</p>
-<p>我们的Carrie 是林萧，一个奢侈杂志的编辑助理，她以第一人称叙述她那些情场失意的女朋友是如何围着她老板流口水的。这些女人在现实中不太可能是朋友，霸道总裁式的顾里和养蟑螂的唐宛如没有任何共同点，长头发的南湘唯一的个性就是她真的好美好美好美而且非常被动。这些愚蠢的填充物被慢镜头和伤感的中文歌曲弄成了一部肥皂剧。好看吗？No。有意思吗？有一点。有换衣服和化妆的蒙太奇吗？当然有。</p>
-<p><strong>Variety 说：</strong></p>
-<p><strong>《小时代》触动了整个国家争名逐利的热情。</strong></p>
-<p>《小时代》是中国的萝莉girl power 幻想片的终结者，比任何阿莫多瓦电影里的高跟鞋和难以置信的情节转变还要多。这是一部根据四个闺蜜在上海梦想爱情和成功的小说改编的电影，小说家和初出茅庐的导演郭敬明对电影语言的掌握说不上是最好，但是电影让人着迷的奢侈感确实很有效地触动了整个国家争名逐利的热情。</p>
-<p>郭敬明，一个四川小镇青年，表达出了大都会里大众对梦想的渴望，而这些人大多来自土气的二线城市。从这个角度说，电影里夸张的炫富就像小女孩在偷涂妈妈的口红一样，还蛮可爱也没有什么坏处。</p>
-<p>郭敬明的一个问题是他作为一个小说家的才华并没有很好的嫁接到荧幕上来。书里口若悬河的对话在荧幕上显得累赘而做作，至少在这一部电影里是这样。各式各样的男人都在接近这些女孩，但是没有任何关系得到了发展，也看不到一个主要的故事线索，这部电影看起来更像是一些养眼的镜头拼贴，而不是一个完整的叙事。</p>
-<p><strong>《小时代 3》比前两部电影更加奇葩。</strong></p>
-<p>长相一模一样的人，长期失散的兄弟和乱伦恋爱的同性恋表兄只是《小时代3》情节的一小部分，足以让它比前两部电影更加奇葩。中国的畅销书作家在转型电影导演后，依然没有展示出在技术与叙事逻辑上的任何进展，郭敬明仍然依靠漂亮的脸蛋和超级浮夸的场景设计让人眼花缭乱，但是电影里空洞的角色和他们内置的虚荣心已经变得非常令人厌倦了——除非你是郭敬明数百万青春期脑残粉中的一份子。</p>
-<p>《小时代3》和中国所有的浪漫喜剧一样，选择在国外（罗马）拍摄外景的套路正是它创造力在急剧萎缩的象征。</p>
-<p>和《小时代2》一样，只要这些女人在派对或者走T 台的模式中，观众就可以被一股毛茸茸的喜悦感蒙蔽。但是每过一会儿她们偏偏要认真起来，不是花里胡哨的示爱就是参与空洞的公司管理活动，她们越是假装大人一样走来走去，看起来就越幼稚可笑。第一部电影算得上是对女性友谊的一种可爱的致敬，续集可以说是赋予了这些女人职业生涯和拔地而起的野心。在这里，可惜，这些角色们是为了男孩子们发神经，而且为了完全无关紧要的事情相互撕咬。就像所有类似的电影一样，她们打架、亲吻、最终和好，但是这部电影里这种套路既比以前粗暴又比以前难以吸引人的注意力。</p>
-<p>也许是团队人员的变化，道具制作虽然还是很浮夸但是没有了以前的优雅。场景设计令人感到制作成本的压缩，没有那么多浮夸的舞台和香槟，也没有换那么多套衣服。摄影师终于没有给以前那样夸张的特写，但是镜头转动依然达到了让人呕吐的效果。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E6%8E%A2%E7%BD%91-%E5%B0%8F%E6%97%B6%E4%BB%A3%EF%BC%9A%E5%9B%BD%E5%A4%96%E5%BD%B1%E8%AF%84%E4%BA%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E8%AF%84%E8%AE%BA%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/21%E4%B8%96%E7%BA%AA/?category=18271" rel="tag">21世纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">小时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%B2%E6%9C%9B/?category=18271" rel="tag">欲望</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E8%B4%A8%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">物质主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E6%95%AC%E6%98%8E/?category=18271" rel="tag">郭敬明</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BF%BB%E5%A2%99-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%B0%B1%E8%AF%95%E8%A1%A3%E9%97%B4%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E7%BA%A6%E8%B0%88%E6%96%B0%E6%B5%AA%E8%85%BE%E8%AE%AF%E8%B4%9F%E8%B4%A3/" target="cdt-mirror">翻墙 | 网信办就试衣间不雅视频约谈新浪腾讯负责人</a>
-</h2>
-<p><div dir="ltr">7月15日凌晨起，“试衣间不雅视频”在网上特别是微博微信平台快速扩散，引发网民高度关注和强烈谴责。当日下午，国家互联网信息办公室约谈新浪、腾讯负责人，责令其切实履行好企业主体责任，积极配合有关部门开展调查。</div>
-<p>国家网信办移动网络管理局负责人表示，“试衣间不雅视频” 在网上“病毒式”传播，突破“七条底线”，严重违背社会主义核心价值观，微博、微信是主要传播平台。广大网民高度关注，对涉嫌低俗营销、搭车营销，甚至借机传播病毒链接等行为强烈谴责，呼吁严厉查处。该负责人强调，新浪、腾讯必须进一步提高社会责任意识，全面落实企业主体责任，完善制度，加强管理，并积极主动配合好相关调查工作。</p>
-<p>该负责人指出，对制作、复制、出版、贩卖、传播淫秽电子信息等涉嫌构成犯罪的，依法追究刑事责任。国家网信办将会同有关部门对网络传播淫秽色情行为持续保持高压态势，坚决打击，依法惩处。同时，呼吁广大网民共同维护良好网络生态，及时举报网上违法行为。</p>
-<p>源地址：http://news.sina.com.cn/c/2015-07-15/195832111491.shtml</p>
-<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html" target="_blank" rel="nofollow">订阅地址及社交帐号</a></div>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=39E5&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=C65WOSDSCRKZFEGWZFMFMY2JTM2TCAHTI&e=1431815249&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
-<hr><p><small>© 亚克蜥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BF%BB%E5%A2%99-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%B0%B1%E8%AF%95%E8%A1%A3%E9%97%B4%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E7%BA%A6%E8%B0%88%E6%96%B0%E6%B5%AA%E8%85%BE%E8%AE%AF%E8%B4%9F%E8%B4%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E4%BB%A4%E8%AE%A1%E5%88%92%E5%A7%90%E5%A4%AB%E8%A2%AB%E5%B8%A6%E8%B5%B0-%E7%96%91%E8%BF%9D%E8%A7%84%E5%80%9F%E6%AC%BE/" target="cdt-mirror">网易路标 | 令计划姐夫被带走 疑违规借款</a>
-</h2>
-<p><p>网易《路标》 文|潘则福 编辑|张建宁</p>
-<p>数位消息人士告诉网易《路标》，全国政协原副主席令计划姐夫、山西运城市副市长王健康被山西省纪委带离运城。但关于他被带走的时间，有2015年7月11日和12日两种说法。</p>
-<p>王健康最后一次出现在公开报道中，是2015年7月9日，其参加运城市委副书记、市长王清宪与山西省检验检疫局局长于洋的座谈。</p>
-<p>接近运城市委的消息人士称，山西省纪委的工作人员在7月11日到达运城。省纪委工作人员的到来，一度引发猜测，一开始没有人想到是王健康。网易《路标》无法核实到，其目前的状态是协助调查还是被调查。</p>
-<p>值得一提的是，2014年6月19日，令计划二哥、山西省政协原副主席令政策被宣布接受组织调查后，2014年6月至8月间，王健康54天未公开露面，曾引发联想。</p>
-<p>现年60岁的王健康，山西省沁源县人。运城市政府公众信息网显示，在运城市5名副市长中，王健康排名第三。他的另一重身份，是令政策的妹妹、令计划的姐姐令狐路线的丈夫。网易《路标》获知，由于令氏兄弟平日忙于政务，居住于运城市的老父令狐野，平日主要由令狐路线照料。每逢年节，运城市领导都会去令狐野家里拜会致意。</p>
-<p>出任运城市副市长前，王健康一直在运城市交通系统工作。从运城汽运公司保修厂技术员起步，王健康历任副厂长、厂长、汽运公司副经理、工会主席。1995年2月，王健康进入运城市交通局任职，出任副局长。2001年10月，王健康出任交通局一把手。2009年9月，王健康再获拔擢，出任运城市副市长，从实权部门交通局迈入市政府领导序列。</p>
-<p>当地人认为，能从一个技术员做到副市长，王健康的升迁与妻子家族的政治影响力不无关系。</p>
-<p>“这次是省纪委六室来人办的，前些时候就核查过，包括海鑫集团那1个亿的资金挪用。”接近运城政府的消息人士透露。</p>
-<p>王健康2008年在运城市交通局局长任上，或涉嫌向该市闻喜县的民营钢铁巨头海鑫集团违规出借1亿财政资金。海鑫集团为运城市大型钢铁企业，员工上万名，其产值占闻喜县工业总产值的七成。</p>
-<p>2008年底，受金融危机影响，海鑫集团出现资金困难，四处求援。时任运城市交通局局长王健康，曾出面斡旋，借给海鑫集团1亿元财政资金。</p>
-<p>事后来看，这笔借款的程序及后续处理，问题多多。据网易《路标》了解，借款过程大致如下：</p>
-<p>当时市交通局有学苑路立交桥、中条山隧道灯两个在建工程需用钢材，故市交通局向市财政局出具了一份承诺书，大致内容为：10个月还款，除本金外还息1000万元，但本息用等价的钢材偿还。</p>
-<p>市财政局据此向闻喜县财政局拨款1亿元，县财政局将这笔钱拨给海鑫集团，再由海鑫向市交通局提供相应的钢材。</p>
-<p>按照交通局的承诺，海鑫集团本应在2009年向市财政局归还财政借款。但直到2012年底，市财政也没收到本金和利息。2012年底或2013年初，有人向市审计局举报此事，市审计局遂对这笔借款的去向展开审计。但有关领导向市审计局打招呼，将此事压下。</p>
-<p>此后数月，海鑫集团开始陆续还款。</p>
-<p>2013年5月6日，当时已由交通局长已升任副市长的王健康，召集财政局、市审计局、市交通局、市城投公司、闻喜县财政局、闻喜县国税局、运城经济开发区国税局、海鑫集团及秦州公司等单位负责人召开会议，出具政府会议纪要，专题研究《运城市学苑路立交桥及中条山隧道灯工程建设钢材预订合同》协议执行相关事宜。</p>
-<p>两周后的5月20日，王健康签发《运城市人民政府协调会议议定事项》，网易《路标》曾于2014年获得这份文件。该文件称，截止2013年5月6日，海鑫集团供货29195.14吨，结算金额约10316万元，尚有584万元钢材未供货。</p>
-<p>前述接近运城政府的知情者告诉网易《路标》，这一系列步骤存在几个疑点：</p>
-<p>第一，将财政资金借贷给企业并收取利息，是否涉及违纪？</p>
-<p>第二，为何此前海鑫集团未按约定归还财政资金，直至事情败露才突击还款？</p>
-<p>第三，王健康作为副市长，分管农业、发改、物价、商务、外事等领域，并不包括财政，市政府并未授权他召开上述会议，分管副市长也未出席，那么这个会议的法律效力何在？</p>
-<p>第四，依据这个会议出具的文件中认定的还款金额，只是单方面给出的数字，至今也未经审计，是否能保证属实？</p>
-<p>据网易《路标》了解，在被带走的一个多月前，山西省纪委核查了市城投公司等王健康曾分管的公司、项目的账目，其中包括对海鑫集团的这笔问题借款。</p>
-<p>网易《路标》向山西省纪委宣教室、运城市纪委相关负责人核实王健康近况，均未获得回复。截至发稿，运城市政府公众信息网上，仍可以查询到王健康的简历。但拨打王健康本人的电话，已是呼叫转移的状态。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E4%BB%A4%E8%AE%A1%E5%88%92%E5%A7%90%E5%A4%AB%E8%A2%AB%E5%B8%A6%E8%B5%B0-%E7%96%91%E8%BF%9D%E8%A7%84%E5%80%9F%E6%AC%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF%E7%AD%96/?category=18271" rel="tag">令政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%84%E5%BC%9F/?category=18271" rel="tag">兄弟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -927,7 +901,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pfnfiqgdzxli.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2hrhos2jw806n.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -937,5 +911,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E6%94%BF
                 <td></td>
                 
         
-        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3exa92796wh5e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1xtm9uth1jep.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BA%A6%E5%9E%9B%E5%8D%9A%E5%AE%A2%EF%BD%9C%E6%9E%81%E5%85%B6%E4%B8%A5%E5%B3%BB-%E5%86%85%E9%83%A8%E4%BA%BA%E5%A3%AB%E6%8F%AD%E5%86%9B%E9%98%9F%E5%8F%8D%E8%85%90%E7%9C%9F%E5%AE%9E%E6%83%85%E7%8A%B6/" target="cdt-mirror">麦垛博客｜极其严峻 内部人士揭军队反腐真实情状</a>
@@ -965,7 +965,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3exa92796wh5e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1xtm9uth1jep.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -975,5 +975,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3
                 <td></td>
                 
         
-        <td><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
 </table>

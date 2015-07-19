@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fdyabmf24mn6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pfnfiqgdzxli.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,132 @@
                 <td></td>
                 
         
-        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋报道的中英版内容对照</a>
+</h2>
+<p><p>2015年7月18日，人民日报与新华社记者发表了一篇联合报道，详细描述了北京市锋锐律师事务所主任周世锋日前认罪忏悔的内容。这是继央视焦点访谈播出所谓曝光“’维权圈’幕后推手”节目后，官媒对周世锋、王宇等维权律师进行的又一次“媒体审判”。</p>
+<p>新华网英语站同时刊登了一篇与<a href="http://news.xinhuanet.com/legal/2015-07/18/c_1115967431.htm">中文报道</a>相对应的<a href="http://news.xinhuanet.com/english/2015-07/19/c_134424769.htm">英语稿</a>。</p>
+<p>但经过数字时代编辑仔细阅读后发现，与中文版对比，新华的英语稿件除了简短不少外，还有一些非常微妙且耐人寻味的出入。英语报道删除或替换了相当一部分形容词，摒弃了人身攻击和不少细节描述的内容，同时也避免了那些中文报道里“未审先判”的措辞。</p>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代 <a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">黑色星期五：维权律师大抓捕 </a>专题</p></blockquote>
+<p>以下为中英版不同部分中值得一提的例子，由中国数字时代编辑不完全统计后编译整理：</p>
+<p>（红字为有出入部分，蓝字为数字时代编者注释）</p>
+<blockquote><p>According to Zhou, Wu’s reputation as “butcher” was huge, and any government department would pay great attention when they knew Wu was coming.</p>
+<p>“尽管吴淦不是律师，但能起到律师不能起的作用。屠夫名气大，<span>他是邓玉娇案件的操盘手</span>，一听吴淦来了，相关单位就会重视。”</p></blockquote>
+<p><span>英语稿件中没有提及“邓玉娇案”。</span></p>
+<blockquote><p>Camera recordings for a court hearing in the northeastern city of Shenyang in April showed that several defending lawyers were shouting and screaming shortly after the trial opened despite judges’ calls for order. They later switched targets to police trying to interfere, with the firm’s female lawyer Wang Yu pointing fingers and calling them “hooligans.”</p>
+<p>法院视频资料显示，庭审刚一开始，几名辩护人就高声叫喊起来。审判长多次要求遵守法庭纪律，但这几名辩护人根本不听，<span>反而无理要求合议庭人员全体回避</span>。他们<span>不顾审判长、法警劝阻</span>，继续大吵大闹，并公然辱骂包括审判长、法警在内的法院工作人员。其中的领头者正是锋锐律所的女律师王宇。她<span>走出辩护席、带头叫骂</span>，指着法警的鼻子<span>大骂</span>其是流氓、<span>禽兽</span>，<span>将庄严的法庭变成了骂人、撒泼之地</span>，使得庭审无法进行下去。</p></blockquote>
+<p><span>以上红字部分都是英语稿件中没有的内容。可以看出减去的都是贬义形容词和带有主观色彩的细节描述。</span></p>
+<blockquote><p>According to the ministry statement, making a scene and then being forced out of court was the group’s usual tricks to paint an image of victim for themselves, induce sympathy and hype up cases on a wider scope.</p>
+<p><span>故意闹庭、制造事端，让自己被逐出法庭，刻意渲染悲情、营造“弱者”形象，然后进行一系列炒作，也是他们的另一“杀手锏”。</span></p></blockquote>
+<p><span>英语里说明了后面的内容来自司法部的报告，但中文里没有使用引号，是在作事实陈述。</span></p>
+<blockquote><p><span>2013年4月，江苏省靖江市人民法院。一起案件开庭前，辩护人、与王宇同为锋锐律所律师的王全璋，与无律师执业资格的李某某到靖江市人民检察院无 理控告承办人及主审法官。庭审中，王全璋以申请回避、捏造事实等方式干扰庭审进程；未经法庭许可，擅自用“云录音”状态的手机录音、拍照，企图传到网上炒 作。李某某未经允许，两次擅自闯入审判区坐上辩护席。鉴于其行为违反法庭秩序且情节严重，王全璋被依法治安拘留。</span></p>
+<p><span>庭外早有人做好准备，在网上迅速发起所谓“紧急营救王全璋律师”行动，煽动一批人在法院聚集闹事。靖江法院领导及主审法官的电话被公布在网上，连续几天被打爆。</span></p></blockquote>
+<p><span><strong>英语报道完全没有提及营救王全璋律师的内容。</strong></span></p>
+<blockquote><p>Zhou reportedly only accepted high-profile cases, and for those small ones, the firm would always resort to methods to boost publicity.</p>
+<p>“I let my subordinates <span>do whatever they could</span> to boost the firm’s reputation. For major, difficult cases, I would instruct them to create some influence and attract public attention,” Zhou said.</p>
+<p>为了尽快“扬名立万”，<span>周世锋选用律师不看水平、先看“名气”</span>。周世锋说，“我有两方面考虑，第一是想出名，提高所里的知名度，我就放任他们去做了；第二个是有重大疑难案件，让他们制造点影响，容易引起关注。”</p>
+<p>如今，周世锋深感后悔：“我纵容和鼓励了他们在代理案件中的<span>违法行为</span>，<span>给社会稳定带来了大的隐患，我作为所里的主任，有不可推卸的责任</span>。”</p></blockquote>
+<p><span>中文的“违法行为”在英语中成了“do whatever they could”。其余中文红字部分没有在英语报道中出现。</span></p>
+<blockquote><p>“Wang Yu enjoyed quite a reputation in the lawyer industry. Although she earned it mostly from <span>shrewish quarrels</span> and public exposure, it was an indisputable fact that everybody knew her,” Zhou said.</p>
+<p><span>对于被判过刑坐过牢、以“死磕”著称的女律师王宇</span>，“她在律师行业有名气，尽管名气靠<span>死磕</span>、炒作来的，但是一说起王宇没有不知道的。<span>这样无形中就把锋锐律所和我的知名度抬上去了。如果锋锐律所有大的疑难案件，让她介入炒作，效果很好。”周世锋说。</span></p></blockquote>
+<p><span>“死磕律师”在英语里一般翻译为“<strong>diehard lawyer</strong>”。而新华社使用的<strong>shrewish</strong>是一个对针对女性的贬义形容词，与之对应的中文大致就是“<strong>泼妇</strong>”。其余中文红字部分为英语版中缺失的内容。</span></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/diehard-lawyers.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/diehard-lawyers.png" alt="diehard lawyers" width="425" height="393"></a><p>“死磕”翻译举例</p></div>
+<blockquote><p><span>连日来，多名犯罪嫌疑人进行了深刻反思，认为自己的行为严重破坏了法律实施，更严重损害了社会公平正义。</span></p>
+<p><span>——为了扬名获利和其他不可告人的目的，极少数律师甚至不惜牺牲当事人的合法权益。</span></p></blockquote>
+<p><span><span>红字</span>部分的中文内容在英语版中完全没有出现。中文报道的表达是事实陈述，非常明确地为“犯罪嫌疑人”提前作出审判。</span></p>
+<blockquote><p>Zhou’s group then resorted to the usual tricks of <span>disrupting</span> court orders, verbally attacking judges and hyping up the case on the Interent, but the court still found all the defendants guilty.</p>
+<p>代理过程中，周世锋等人采取了<span>抹黑</span>主审法官、<span>大闹</span>法庭、网络炒作等惯用手法，<span>没想到</span>法院仍然依法判决全部被告人有罪。</p></blockquote>
+<p><span>英语使用了中性词“disrupting”，中文使用了带有贬义的“大闹”。“抹黑”、“没想到”这两个充满主观色彩的用语在英语中均没有出现。</span></p>
+<blockquote><p>In the trademark case, Zhou <span>reportedly</span> let the defendants wire the one million yuan as well as 300,000 yuan to compensate traffic costs directly to his personal account.</p>
+<p>在代理鄂尔多斯案件中，周世锋让对方将100万元代理费和30万元交通费都打到自己的账户上。江苏一起案件的30万元代理费，河南一起案件的70万元代理费，也都打到周世锋个人的账户上</p></blockquote>
+<p><span>英语版中，对周世锋的指控使用了“reportedly”（“据称”）。中文报道中是将指控当作事实来陈述。</span></p>
+<blockquote><p><span>此外，周世锋在代理一起案件时，看到当事人因车祸受伤卧床不起，便邀约该当事人的妻子外出旅游，强迫与其发生性关系，后生下一女。与周世锋有不正当男女关系的多名女性中，大多数是其乡亲托付他在北京给予照顾的晚辈。</span></p></blockquote>
+<p><span>这段道德指控的内容在英语报道中完全没有出现。新华社似乎也知道嫌疑人的私生活与本案毫无关系。</span></p>
+<blockquote><p>Liu added that “savage acts” can only become negative factors in the country’s rule of law and might also be taken advantage by foreign malicious forces.</p>
+<p>“一味的蛮干、‘<span>死磕</span>’，不利于推进全面依法治国，反而会成为依法治国的杂音和消极不利因素，还会被境外恶意利用。”</p></blockquote>
+<p><span>英语报道再次避开了“死磕”一词。</span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/628dceaagw1dkoqpzcb9bj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/628dceaagw1dkoqpzcb9bj.jpg" alt="628dceaagw1dkoqpzcb9bj" width="400" height=""></a><br><em>（《南方人物周刊》2011年9月封面；图片来自新浪微博）</em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%B7%A6/?category=18271" rel="tag">吴淦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 15分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E6%B2%A1%E6%9C%89%E4%B9%B0%E5%8D%96%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%9D%80%E6%88%AE/" target="cdt-mirror">德国之声｜没有买卖就没有杀戮</a>
+</h2>
+<p><p>有调查显示，香港已经成为全球象牙交易的主要市场和中转地。90%的买家来自中国内地。香港象牙市场的火爆严重威胁到非洲大象的生存。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018484227_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018484227_30300.jpg" alt="0,,18484227_303,00" width="575" height=""></a></p>
+<p>（德国之声中文网）《野生动植物濒危物种国际贸易公约》于1989年底把非洲大象列入濒危名单，禁止跨境象牙贸易的法令于1990年初生效。但是香港政府 对1975年《野生动植物濒危物种国际贸易公约》出台前已在市场上流通的象牙发放进口和再出口许可证，这类象牙通常被称为”协议前象牙”。但是动物保护组 织”拯救大象”（Save the Elephants）指出，香港近年来出售的象牙制品数量远超过注册的储存量。这些象牙交易后被非法走私到中国内地，数量极大。</p>
+<p>拯救大象组织在肯尼亚和香港公布的调查报告指出，香港的象牙贸易已经成为国际上阻止杀戮非洲象行动中的一个严重漏洞。报告撰写人之一马丁（Esmond Martin）说：”没有哪个城市储存的象牙数量达到香港的水平。”</p>
+<p>报告中指出，在香港有72家店铺都在销售象牙制品，多为首饰和雕像，数量超过30800件。90%的买家都来自中国内地。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/015712484_40100.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/015712484_40100.jpg" alt="0,,15712484_401,00" width="575" height="324"></a><p>动物保护组织”拯救大象”指出，香港近年来出售的象牙制品数量远超过注册的储存量</p></div>
+<p>香港的低税率促成在香港购买象牙价格远低于中国内地的事实。而且香港同内地之间的边境管理松散，每年4000万的人员往来流量意味着香的象牙港贸易会对非法在非洲捕猎大象形成重大影响。</p>
+<p>野生救援协会（WildAid）的工作人员霍弗德（Alex Hofford）说：”大量非洲象仍在被猎杀，香港政府却睁一只眼闭一只眼。”</p>
+<p>报告指出，香港出售非法象牙数量位居全球第3位，仅次于肯尼亚和坦桑尼亚。</p>
+<p>北京方面加大了对贸易的限制，打击边境象牙走私。但是活动人士认为，这些措施仍然不够。</p>
+<p>拯救大象组织创办人道格拉斯-汉密尔顿（Iain Douglas-Hamilton）说：”除非完全关闭香港的象牙交易，否则这座城市会继续成为威胁物种生存的代表。”他说猎杀大象无异于是一场”屠杀”。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018484225_40100.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018484225_40100.jpg" alt="0,,18484225_401,00" width="575" height="324"></a><p>北京方面加大了对贸易的限制，打击边境象牙走私。但是活动人士认为，这些措施仍然不够。</p></div>
+<p>由于中国和中东国家对象牙的巨大需求，每年都会有3万多头大象遭到猎杀。每公斤象牙的售价达到2000美元。据估测现在非洲生活的大象数量不到47万头。</p>
+<p>道格拉斯-汉密尔顿说：”中国对于非洲象未来的命运起到关键作用。如果杀戮仍在继续，那么我们将失去非洲大多数野生象。”</p>
+<p>野生救援协会的霍弗德说：”解决这一问题的问题办法就是政府立法禁止象牙交易。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E6%B2%A1%E6%9C%89%E4%B9%B0%E5%8D%96%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%9D%80%E6%88%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">动物保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%97%E7%8C%8E/?category=18271" rel="tag">盗猎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%A1%E7%89%99%E8%B5%B0%E7%A7%81/?category=18271" rel="tag">象牙走私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2%E8%B1%A1/?category=18271" rel="tag">非洲象</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%A5%B3%E7%94%A8%E8%83%B8%E9%83%A8%E8%A2%AD%E8%AD%A6%E7%BD%AA%E6%88%90%E5%9B%BD%E9%99%85%E4%BC%A0%E5%AA%92%E8%85%BE%E7%AC%91/" target="cdt-mirror">法广｜港女用胸部“袭警”罪成国际传媒腾笑</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/hk_13.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/hk_13.jpg" alt="hk_13" width="550" height=""></a><p>香港警察</p></div>
+<p><strong>香港警察在雨伞行动及反水货客示威中，起诉多人“袭警”，但很多都因为证据不足或供词前后矛盾而被撤去控罪，但最近一宗“袭警”罪名成立的例子，却成为国际传媒竞相刊登的笑话，美国著名的《赫芬顿邮报》的标题更迹近挖苦：“香港女示威者用最知名的武器－－胸部袭击警员，被判罪成。”</strong></p>
+<p>案件涉及20岁的男学生与任职文员的30岁女友吴丽英，两人被指参与3月1日“光复元朗”反水货客示威期间，阻差办公及袭警，两人否认控罪受审。</p>
+<p>暂委裁判官陈碧桥早前裁决时指，邝及吴虚构总督察非礼吴，并裁定吴当日以胸口撞向总督察上臂的方式属袭警。</p>
+<p>这个裁判官于是裁定，邝及吴阻差办公及袭警罪成，并特指吴用女性身份诬蔑被总督察非礼，是非常恶毒的行为，会令总督察在职业上及名誉受到很大伤害。</p>
+<p>美国《时代》网站以“一名香港女子被裁定以胸袭击警员罪成”为题报道事件，又在报道中以迹近嘲笑的语气指“警员未有透露被袭击后的伤势”；英国《独立报》则以“香港女示威者被裁定以胸袭警罪成”为题报道。</p>
+<p>其实香港的男性警察亦经常参与涉及使用“最低武力”拘捕及抬走不合作的女示威者，警方从未因此而受到非议或起诉。更有警察在雨伞行动中用警棍挥打路过的途人，以及有7个警察将示威者拖入暗角拳打脚踢，尽管事发经过都被摄录机录下，但上述肇事警察仍然逍遥法外。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%A5%B3%E7%94%A8%E8%83%B8%E9%83%A8%E8%A2%AD%E8%AD%A6%E7%BD%AA%E6%88%90%E5%9B%BD%E9%99%85%E4%BC%A0%E5%AA%92%E8%85%BE%E7%AC%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B0%B4%E5%AE%A2/?category=18271" rel="tag">反水客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89/?category=18271" rel="tag">香港普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">香港警察</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E8%90%A7%E7%80%9A-%E6%9D%83%E5%8A%9B%E7%9A%84%E9%BE%99%E5%8F%98%EF%BC%9A%E4%BB%8E%E5%8F%8D%E8%85%90%E8%BF%90%E5%8A%A8%E5%88%B0%E7%BB%91%E6%9E%B6%E5%BE%8B/" target="cdt-mirror">纵览中国｜萧瀚: 权力的龙变——从反腐运动到绑架律师</a>
+</h2>
+<p><p>近期以警方查抄锋锐律师事务所、周世锋律师被警方绑架、王宇律师一家三口夫妻被警方绑架、儿子被多次非法限制人身自由并恐吓为标志的大规模整肃律师群体事件，很让人有瞠乎其后之感——这几年的人权纪录一日千里地恶化，至于到现在传唤、抓捕、恐吓数百名律师的事都敢做了。</p>
+<p>美国记者艾玛.拉金（Emma Larkin）2006年出版的Finding George Orwell in Burma（《在缅甸寻找奥威尔》）中写过一个在缅甸流传甚广的传说。有个村子被一条恶龙肆虐，牠要求村里每年都得进贡一个处女给自己献祭，每年也因此都有一个勇士越过附近的那座山去跟恶龙搏斗，但没有一个英雄能回来。后来又有一位勇士翻山去杀恶龙，有人悄然尾随其后。这位秘密跟踪者终于发现了全部的真相：龙穴里铺满了金银财宝，英雄仗剑屠龙后坐在龙尸上，艳羡地看着光芒闪烁的财宝，慢慢地长出鳞片、尾巴和触角……，英雄变成了村人痛恨的恶龙。</p>
+<p>拉金讲完这个故事后，说“这个传说的道德训诫与奥威尔的《动物庄园》是相同的”。就像托尔金的“魔戒”预示着权力对人心的腐蚀，这个故事也一样，它以十分简单的情节就深刻地揭示了权力致胜者所受权力的腐蚀之甚。</p>
+<p>几年前我就担心，反腐运动（这依然只是场政治运动而非法治）给当政者带来巨大的道德自负，而普通民众对程序正义的不敏感也会授予当政者错误的道德光环，这双份的政治正当性毒酒会让当政者在使用权力时更加无所顾忌。现在进行时的态势已经悲哀地证实着这些担忧。原先让许多人欢欣鼓舞的反腐的权力，正在成为比原先可能更恶劣践踏民权的恣肆权力。</p>
+<p>我的一位作家朋友感慨说，像明朝那样，连整个官僚阶层都觉得毫无安全感的时候，百姓的日子只会更惨，中国历史向来如此。这一概括虽然简单，但颇含深意，这是权力法则所决定的，各级官员毕竟是当政者的手足——哪怕只是个脚趾头甚至一根汗毛，动他们总要下狠心的，对他们都下得了狠手，那么对谁下不了狠心呢？敢于自断手足者不可能不敢刀劈斧削别人。律师群体正是当政者觉得自己对民间恣肆乱权的极大障碍，因为相对来说，律师群体一定是一个社会最让当权者感到掣肘的群体，哪怕平常时候人们会视专制下的律师只是个装点门面的制度摆设，但没有这个摆设和有这个摆设还是有些许差别。</p>
+<p>由于制度的原因，体制内大大小小掌权的，尤其是手握实权和重权的官员们，无论中央还是地方，要完全远离贪腐可不是件容易的事，看中国古代历史就知道，官员们仅仅凭着薪水不依靠贪腐，根本不可能维持他们那种奢侈的官僚阶层交往，这种状况如今也没有改变。因此，要找出点各级官员身上的贪腐、渎职等毛病，实在是易如反掌；再说，规范官僚体制的各种规章制度朝令夕改、条文间相互冲突，想要整一个人，随便找上几条扣上，也能八九不离十，因此，非制度性、法治化的反腐，而是搞运动式反腐，最佳效果无非是选择性地整倒巨贪、震慑中贪小贪，让国库更加充盈，至于是否有利于民生那可不一定；而一般效果也无非是权力斗兽场上硝烟四起、风云跌宕，不管谁，在失败的权斗过程中只要扣个“贪官”的帽子，也就万劫不复了，谁管他们的生死呢？百姓最恨贪腐，既然某官被戴上“贪官”的铁帽子了，哪里还会有生路？然而，就像帝制时代的中国，各个朝代一些新皇登基之后，为了迅速扩张自己的权力，不惜用种种惨酷手段除掉权力对手，古代用得最多的罪名就是“谋反”，相当于“反革命”或“危害国家安全”——权力掌控者很了解用什么名义最能获得合法性和正当性承认，就像现在用“贪腐”。只要没有独立的司法，没有正当程序，没有司法公开，没有言论自由，中央集权下的反腐就跟中共历史上的历次肃反性政治运动不会有性质上的差别，只是贪官被发现冤枉的概率更低，其选择性执法的隐蔽能力更强。</p>
+<p>如果将反腐视为就是还给民间公正，那就是个天大的笑话，宪政制度日常性的反腐都未必代表着归还社会公正，遑论专制制度下。周永康被整垮并被判处无期徒刑，但他在位期间作的恶却并不因此就能被纠正，尤其不意味着当时受了冤屈和不公正对待的人能重新获得弥补。就像那位传说中变成恶龙的缅甸英雄，专制权力在整垮周永康们的同时，也当然至少继承了周永康们的权势利益，甚至还可能包括一切不公正原本会给周永康们即将带来的更多潜在利益。因此，民间受到的荼毒绝不会因为周永康们的垮台而终止，平民百姓的日常生活并不会因此而改善，不公正状态倘能不加剧就要烧高香了。油价并没有随着周永康下台而迅速下调，油品也不可能立刻提高；血腥强拆的报道少了，可是谁知道是因为强拆真的少了，还是因为媒体被强拆的多了呢？周永康们是下台了，可LXB、XZY们并没有因此走出监狱之门（甚至写出他们的名字，我在这里都发表不了），不但他们依然身陷囹圄，举报周永康的浦志强们还又进去了。</p>
+<p>我当然不可能反对反腐，我看重的是怎么反，用什么手段反，如果反腐只是又一轮无限权力的恣意行使，那只不过是权力自身在翻烙饼，张三拿刀杀人，李四夺刀继续杀，对于被杀的人一样都是屠杀。只要制度不改，反腐不反腐跟改善民生、保障公正实在没什么关系。</p>
+<p>在名义上的中央集权实质上的寡头政治下，人民还会因为势均力敌的权斗尚有容身之地，当寡头混战结果尘埃落定，弱势的权力寡头一个个落败，只剩最后独裁一权时，这独大的权力先前因忙于内斗无暇他顾，现在终于空闲下来，可以集中精力对付人民了。从媒体和出版业遭到整肃，到民间维权遭受进一步打击，直到当前连维权律师如此幼弱的群体这最后的正义掩体也遭到大规模摧毁，三年来政治生态的显著变迁，无不显示了权斗的阶段性独裁后果，也是掌权者的所谓反腐的成果，但绝不会是反腐利于人民的成果。</p>
+<p>或问，接下来还会发生什么？虽然具体细节无法预测，但总的趋势是可以推断的，这种总趋势就是经历过无数历史事实验证的权力法则的逻辑未来。如果目前这种公然大规模迫害律师肆意践踏民权的态势无法得到遏制和缓解，如罗马法谚云“无救济则无权利”，由于律师这道屏障的消失，检察院法院作为独裁党权专政工具的性质更得不到制衡式校正，那么其继续走向必然是各级官府横征暴敛的加剧，人民的权利和自由遭受进一步侵害甚至剥夺，一切反抗都会遭受比之前更为严厉的镇压。寡头性的权力和独裁式的权力，在对付人民方面的力度一定是有差别的，前者因为有同等势力的掣肘会有所忌惮，而后者既有政治合法性的支持，又没有碍手碍脚的耽耽虎视，就会更肆无忌惮，更不把人民的自由和权利放在眼里。尤为糟糕的是，如果掌权者不懂得权力谦抑原理，误以为自己是个治国奇才，以为自己的想法可以为人民造福，而完全无视人民自身的意愿，强力推行明显摧毁自由市场、干涉甚至剥夺个体自由和权利的各种政策时，权力会挟掌权者错误的动机优越感而采取更为严厉的强力手段，以至祸满人间。</p>
+<p>20世纪90年代初朱镕基确立的分税制，将大部分的税收收入都塞进中央政府的钱袋子，它导致两个恶劣的后果，一是地方政府为了生财，大规模地与民争利，滋生腐败与不公，这种冲突伴随着权力的不公正行使，会促成地方民生的进一步恶化，民意的进一步离心；二是中央政府财大气粗，就会穷奢极欲乱花钱，制造腐败及其产业链。这一状况在过去的二十年里一直是个严重问题，现在随着权力逐渐定于一尊，新的腐败团队也将随之崛起，随着律师群体维权空间的进一步萎缩，民间的生存空间也将随之进一步萎缩。这种状况在目前的经济全球化时代可能不会立刻在经济上表现出来，但时间一久，依然会严重影响国民经济。试想，什么人会愿意长期呆在一个产权得不到保障的地方积累财富？所以，目前态势若不叫停，早已开启多年的富裕者移民潮只会加剧，不会减弱，甚至这种移民潮也在逐渐蔓延到没那么富裕但同样需要安全的人群。再者，投资积极性遭受打击的同时，创造的积极性必然也同样会遭打击，市场因此受损，但恣肆的权力却并不会因为经济下行而少花钱，既没有合法性也不受制约的征税权即使不减征，税收都会在下滑的经济指数中增高比例，何况他们不可能减征税收。这一出一进，民生更趋艰难。</p>
+<p>不公正会导致反抗加剧，而加剧的反抗也会在独裁权力面前遭到更严厉的镇压，律师群体遭受进一步打压只会使不公正更趋严重，而不是减弱，失去了律师帮助的民间维权，其手段也会从有序转向混乱、和平转向暴力。最后，伴随经济下行的民生艰难与不公正加剧、不稳定加剧、镇压加剧的高压锅效应，会使得抓狂而又独裁的权力走向军国主义，这是经济体量依然庞大的集权权力遭遇危机时通常会采取的路径，只有这样的豪赌才可能转移国内的矛盾。虽然历史表明这种解决危机的办法通常不仅为祸国民，还为祸国际，并且最终祸害自己，但独裁者通常都不会有这样的智商，他们固执地将教训当经验使用，前仆后继，这是权力和人的本性决定的。</p>
+<p>《笑林广记》里有个庸医，胳膊上受了箭伤的士兵来找他，庸医拿出一把大剪刀，把露在皮肤外面的箭杆剪掉了，说剩下的不归我管了。把律师都抓起来，就像这个庸医剪箭杆，外人只是看不见箭杆了，但箭镞深陷肉中，病人痛苦依旧。人们常说，即使杀光天下的公鸡，天依然会亮的。抓律师可能让人瞧不见不公正，却不但不能消除不公正，还制造新的不公正，更不可能让天下太平，即使天下太平的表象也未必能维持多久。不公正以天文数量累积的地方一定是政治火山，它会随着不公正的活埋行动而几何级数蓄势蓄能，等待最后的喷薄爆发。</p>
+<p>奉劝某些人，收手吧，饮鸩固能止一时之渴，但终归是要死的。</p>
+<p><em>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</em></p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E8%90%A7%E7%80%9A-%E6%9D%83%E5%8A%9B%E7%9A%84%E9%BE%99%E5%8F%98%EF%BC%9A%E4%BB%8E%E5%8F%8D%E8%85%90%E8%BF%90%E5%8A%A8%E5%88%B0%E7%BB%91%E6%9E%B6%E5%BE%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A5%B9%E6%98%AF%E4%B8%80%E5%90%8D%E5%AE%89%E9%9D%99%E7%9A%84%E5%95%86%E4%B8%9A%E5%BE%8B%E5%B8%88%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B/" target="cdt-mirror">博谈网｜她是一名安静的商业律师，后来北京开始针对她</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/wangyu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/wangyu.jpg" alt="wangyu" width="400" height="471"></a></p>
@@ -594,363 +717,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E7%BE%8E%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%8E%B0%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B3%E8%AF%B7%E8%81%94%E5%90%88%E5%9B%BD/" target="cdt-mirror">自由亚州｜“现在自由”申请联合国认证遭拒 中国伊朗等投反对票</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1104e129-ecda-4fd4-959d-72caac3b5e72.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1104e129-ecda-4fd4-959d-72caac3b5e72.jpeg" alt="1104e129-ecda-4fd4-959d-72caac3b5e72" width="550" height=""></a><p>图片： “现在自由”组织官员认为，此次被拒与他们关注各国良心犯有关。 （现在自由网页截图）</p></div>
-<p>美国非政府组织“现在自由”要求获得联合国咨商地位认证的申请遭非政府组织委员会拒绝后，在美国代表的要求下，该委员会的上级机构将在7月20号对此进行投票表决。“现在自由”组织官员认为，此次被拒与他们关注各国良心犯有关，包括中国良心犯刘晓波案等有关，导致不少联合国“非政府组织委员会”成员国不满。</p>
-<p>美联社7月16号报道，上个月，联合国非政府组织委员会（UN NGO Committee）经投票，拒绝给予总部设在美国华盛顿的非政府组织“现在自由”（Freedom Now）联合国“咨商地位”认证。不过，美国决定提请联合国非政府组织委员会的上级部门—联合国经济及社会委员会（Economic and Social Council）对此进行复议。</p>
-<p>“现在自由” 执行主任特纳（Maran Turner）7月16号接受本台记者电话采访时介绍说，该组织长期致力于通过法律、政治、公关等手段推动全球良心犯获得自由。2009年，该组织向联合国非政府组织委员会提交“咨商地位”认证申请，并在随后5年多的时间里，为此做了积极认真的准备。不过，上个月，<strong>由19个成员国组成的联合国非政府组织委员会投票否决了这一申请，包括中国、俄罗斯、伊朗、古巴、苏丹、阿塞拜疆在内的11个国家投了反对票，美国、以色列、希腊、委内瑞拉等4国投了赞成票，印度弃权，几内亚、毛里塔尼亚、土耳其3国代表没有到场。</strong></p>
-<p>特纳说，联合国非政府组织委员会对于否决“现在自由”咨商地位认证，并没有给出官方理由。不过，联合国与该项投票结果相关的公开记录显示，一些到场投票的成员国称，该项投票不符合联合国非政府组织委员会的章程和工作方法。联合国非政府组织委员会主席当场驳斥了这种说法，指出该项投票遵循了联合国非政府组织委员会的所有章程和工作方法。</p>
-<p>特纳认为，“现在自由”组织未能获得联合国非政府组织委员会咨商地位认证，其真正的原因，并不是该组织没有满足联合国咨商地位认证的要求，而是因为该组织致力于推动全球良心犯获得自由，引起一些国家的担心。</p>
-<p>“我们最著名的案件，就是中国的刘晓波。我们向联合国人权委员会‘任意拘押工作小组’提交了刘晓波的案件，该独立机构给出了有利于我方的意见，结论是：刘晓波被监禁，确实违反了他的基本自由权利，刘晓波是良心犯。”</p>
-<p>美联社的报道说，美国常驻联合国代表萨曼莎·鲍尔（Samantha Power）上个月在美国国会听证会上表示，拒绝给予“现在自由”组织联合国咨商地位认证的联合国非政府组织委员会“充斥着一群自己都不容忍本国非政府组织的国家……但我们不会放弃”。</p>
-<p>目前正在纽约大学“美国亚洲法律研究所”做访问学者的北京非政府组织“益仁平中心”负责人陆军对此评论说：</p>
-<p>“中国政府对NGO的态度，其实地球人都知道，一直以来都很不友好，尤其是对待权利型NGO、独立NGO、草根NGO。最近两年这种情况又有所恶化。去年开始，中国发起了一个针对NGO的镇压运动。到目前为止，据我们所知，已经有10多家权利型NGO被搜查，或者成员被抓捕，还有10多家服务型NGO也被搜查、调查。很明显，中国对NGO很不友好。联合国确实需要慎重考虑，中国是不是适合作为联合国非政府组织委员会的成员。”</p>
-<p>据美联社的报道，联合国非政府组织委员会的上级部门—联合国经济及社会委员会由54个成员国组成，联合国经济及社会委员会将在7月20号投票，决定是否给予“现在自由”联合国“咨商地位”认证。</p>
-<p>（记者：林坪；责编：嘉华）</p>
-<p>原<em>标题：美非政府组织“现在自由”申请联合国咨商地位认证遭非政府组织委员会拒绝</em></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C%E7%BE%8E%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%8E%B0%E5%9C%A8%E8%87%AA%E7%94%B1%E7%94%B3%E8%AF%B7%E8%81%94%E5%90%88%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6%E3%80%81sb%E6%94%BF%E5%BA%9C%E7%AD%89-2015-7-16/" target="cdt-mirror">【敏感词库】维权律师大抓捕事件、“sb政府”等 2015-7-16</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CJnnvcLUcAAv9mb.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CJnnvcLUcAAv9mb.jpg" alt="CJnnvcLUcAAv9mb" width="400" height=""></a><br><em>（“大抓捕” by 巴丢草）</em></p>
-<p>[ 测试时间：2015年7月16日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
-<p>(编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。)</p>
-<p><strong><span><em><a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">维权律师大抓捕</a>事件：</em></span></strong><br><strong>周世锋＋失联</strong><br><strong> 北京锋锐律师事务所</strong><br><strong> 刘卫国</strong><br><strong> 刘四新＋被抓</strong><br><strong> 王宇＋被抓</strong><br><strong> 声援王宇</strong><br><strong> 维权律师</strong>（复测）<br><strong>拘留＋翟岩民</strong></p>
-<p><em><strong><span>更多：</span></strong></em><br><strong>股票<strong>＋</strong>跳楼</strong></p>
-<p><strong>sb<strong>＋</strong>政府</strong></p>
-<p><strong>圣战<strong>＋</strong>Jihad</strong>（相关：<a href="http://chinadigitaltimes.net/chinese/2014/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BC%8A%E6%8B%89%E5%85%8B%E7%A7%B0%E6%8A%93%E8%8E%B7%E4%B8%AD%E5%9B%BD%E7%B1%8D%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9C%A3%E6%88%98%E8%80%85/">纽约时报｜伊拉克称抓获中国籍伊斯兰圣战者</a>）<br><strong>穆畜</strong></p>
-<p><strong>生日<strong>＋</strong>尊者</strong> (详见:<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AF%97%E3%80%91%E5%94%AF%E8%89%B2%EF%BC%9A%E7%8C%AE%E8%BE%9E-%E4%B8%BA%E5%B0%8A%E8%80%85%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E5%85%AB%E5%8D%81%E5%AF%BF%E8%AF%9E%E8%80%8C/">【诗】唯色：献辞——为尊者达赖喇嘛八十寿诞而作</a>)</p>
-<p><strong>爆炸<strong>＋</strong>东长安街</strong><br><strong> 爆炸<strong>＋</strong>CBD</strong></p>
-<p><strong>(许)志永<strong>＋</strong>被抓</strong></p>
-<p><strong>四万亿<strong>＋</strong>温</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2013/06/%E8%AE%B8%E5%B0%8F%E5%B9%B4-%E5%9B%9B%E4%B8%87%E4%BA%BF%E4%B9%9F%E6%95%91%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/">许小年 | 四万亿也救不了中国经济</a>）<br><strong>永康<strong>＋</strong>自辩书</strong><br><strong>吴小辉</strong>(安邦董事长，邓小平外孙女婿)<br><strong>外籍<strong>＋</strong>习</strong><br><strong>习<strong>＋</strong>汪 </strong><br><strong> 明泽</strong></p>
-<p><strong>午3时<strong>＋</strong>维园 </strong>（香港2015年7.1大游行出发时间和地点）</p>
-<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。<br>
-———————-<br></p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6%E3%80%81sb%E6%94%BF%E5%BA%9C%E7%AD%89-2015-7-16/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cbd/?category=18271" rel="tag">cbd</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E5%8D%AB%E5%9B%BD/?category=18271" rel="tag">刘卫国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8/?category=18271" rel="tag">爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%9B%AD/?category=18271" rel="tag">维园</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B8%E5%BF%97%E6%B0%B8/?category=18271" rel="tag">许志永</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%AE%89%E8%A1%97/?category=18271" rel="tag">长安街</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E6%B7%98%E5%AE%9D%E9%89%B4%E9%BB%84%E5%B8%88%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%B8%B8/" target="cdt-mirror">博客天下 | 淘宝鉴黄师的工作日常</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%89%B4%E9%BB%84%E5%B8%88.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%89%B4%E9%BB%84%E5%B8%88.jpg" alt="鉴黄师" width="550" height="392"></a></p>
-<p> </p>
-<p><strong>这个职位没什么宅男福利，成为一名鉴黄师，可能还会丧失一部分作为男人的乐趣。</strong></p>
-<p>撰文：黄旻旻<br>
-编辑：汤涌</p>
-<p>用老板的时间来上黄网的人，恐怕妻子对他都难以理解。</p>
-<p>当阿里巴巴安全部的“信息安全运营小二”天成告诉老婆自己即将成为一名“鉴黄师”的时候，他得到的回应是：“投其所好”。</p>
-<p>这是大部分人听到鉴黄师这个职位时的玩笑——宅男福利——拥有免流量、免会员账号、免积分点数无限制欣赏大量色情资源的机会，并且还是在上班时间。</p>
-<p>自1980年代后期，制作、复制、贩卖、传播淫秽物品量刑细化，鉴黄师这一岗位首先在公安系统内产生。他们负责审看办案单位送来的书、录像带、VCD、DVD，开具鉴定结论。这些结论会影响案件的定性、犯罪嫌疑人的量刑和处理。</p>
-<p>和公安系统看碟翻书的前辈们比，阿里巴巴的鉴黄师们面临着的是最聪明的传黄者，有的还很调皮。要把阿里巴巴旗下各类产品里的涉黄内容分择出来，一要懂黄，二要懂产品。</p>
-<p>2013年，由百度、腾讯、金山等10多个互联网公司组成的“安全联盟”20万招聘“首席淫秽色情鉴定官”的消息很快成为热门。拥有看片的福利还拿着高薪，网友们对这个岗位的评价大概可以概括为：简直没有天理了。</p>
-<p>已经鉴黄2年多的天成冷静地描绘了这份工作：“看到一张图片，我满脑子想的都是：这个是不是合规的？”</p>
-<p>天成已经被训练出了职业惯性，他没有炫耀自己坐怀不乱的定力，工作就是工作，保持理性是所有“鉴黄师”工作时的理想状态、职业守则第一条。</p>
-<p>黄色信息的处理只是阿里鉴黄师工作内容之一，欺诈、暴恐的审查都在这个岗位的职责范围里。“在阿里巴巴我们自己有正规的抬头。”他很认真地介绍，“就叫信息安全运营‘小二’。”</p>
-<p>这个抬头可以让他躲开被家人朋友的盘问、取笑和自己的尴尬：“我不会跟他说我是鉴黄师。”</p>
-<p><strong>那些奇葩的买家秀</strong></p>
-<p>天成目前的职责是负责阿里平台上存在交互功能的产品里，不良信息的鉴别和筛除。来往、扎堆里的朋友圈、手淘客户端、淘宝的买家秀……这里存在的违法违规内容，很大一部分是黄色信息。其中最吸引眼球的、亮点频发的重灾区，就是买家秀。</p>
-<p>今年5月份，阿里安全部的业务部门和公关部一起策划了#奇葩买家秀#话题，一些大尺度的买家秀图片在微博和微信公众号曝光，这引起了轰动。</p>
-<p>在阿里自己意识到买家秀可能会引爆话题性传播热点之前，已经有大量的个人账号（也包括赚眼球和流量的营销号），热衷于挖掘淘宝里隐藏的“亮点”。直到他们总结起光怪陆离的“奇葩”并公布到微博、朋友圈，人们才知道，淘宝里原来暗藏着这么多“好东西”。</p>
-<p>一位购买了劣质纸尿裤的妈妈气急败坏地晒出了自己家女儿被纸尿裤捂烂了的下体；一个买了痔疮膏的会员展示患处，表扬药膏立竿见影。</p>
-<p>情趣内衣、内裤、胸罩的真人效果的示范图比比皆是。</p>
-<p>一个戴着兔耳朵的女优正用舌尖舔舐一只用来挡住关键部位的男士皮鞋。虽然已经事前打了码，但很多人仍然可以看出，它模拟的是一个口交的场景。</p>
-<p>年轻和天真的买家往往在买家秀上特别大方，吸引了注意力之后才明白自己惹了多大的麻烦。</p>
-<p>最常见的情况是内衣买家秀，很多买家露了点，盖住脸。</p>
-<p>这些买家秀达人仍然认为只要守住不露脸的底线就万事大吉。天成说自己“很诧异”，“不要以为头不露了别人就不知道你是谁。”有好事者专门盯着淘宝买家秀，虽然匿名、没露脸，但仍可能被找到。</p>
-<p>有人为此付出了代价，骚扰者找到发布人的账号，真人露脸图和内衣秀一起被公开，贴在各种色情论坛上。</p>
-<p>在淘宝上公开叫卖的黄色书籍和碟片会被小二们很快干掉，这也是一种最简单的传黄形态，传黄者们在不断进化：店里链进 AV 视频、把日本成人漫画藏在隐秘的漫画里出售，甚至隐秘的卖淫。</p>
-<p>阿里在不断更新鉴黄的技术手段，但随着业务量的扩张，不可避免的是，相应的违规信息也在增加。</p>
-<p>阿里云平台的鉴黄师孝肃形容自己的工作节奏是“7×24”，几乎全年无休，尤其是“双十一”、“双十二”。</p>
-<p>上亿会员同时在线的“双十一”、“双十二”给天成所在的团队带来巨大的压力。“有些流量大的店会放视频和弹幕，我们就要时刻盯着……这时候影响最大，我们更要保障它的洁净度。”</p>
-<p>弹幕是每个用户都可以发言，就像现实中的人群聚集一样，有失控的风险。</p>
-<p><strong>恶搞里也埋着色情的雷</strong></p>
-<p>一些“新奇特”商品也是各种奇葩，有的能让人一笑了之，有的色情内容就藏在了里面。</p>
-<p>帮卖家打通任督二脉、全球限量1G（克）切糕、马勒戈壁上的珍稀物种草泥马、18岁少女口水一小瓶、虚拟女友，最后一个可能就有问题。</p>
-<p>“虚拟女友”曾一度风靡淘宝。花20块钱左右就可以通过微信、QQ、短信享受一个不认识的女生的服务，内容包括叫起床、道晚安、听吐槽、给唱歌。你还可以选择是要御姐还是萝莉。</p>
-<p>这类商品很快引来围观，有人说它是“宅男福音”，甚至有买家说“差点要爱上她”。但因为可能带来欺诈甚至出现卖淫、招嫖，虚拟女友在引起争议后，很快被下架。</p>
-<p>安全部“小二” Sophie 曾经发现过一件名为“最新捕获的活体金刚野生葫芦娃”的商品，标价1毛钱。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%87%8E%E7%94%9F%E8%91%AB%E8%8A%A6%E5%A8%83.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%87%8E%E7%94%9F%E8%91%AB%E8%8A%A6%E5%A8%83.jpg" alt="野生葫芦娃" width="550" height="325"></a></p>
-<p> </p>
-<p>有买家出于好奇真的买了，“拍了后评价‘为什么收到货什么都没有？’店主回他：‘因为给你发的是六娃隐身娃啊。’”</p>
-<p>这些“新奇特”究竟是“杀”还是留，需要鉴黄师自己拿捏尺度。他们也是一群爱逛淘宝的年轻人，懂得二次元世界、上 B 站，“决不能漏掉一个”的工作原则外，也会手松一下，保留必要的幽默感，一些可爱的玩笑被允许存在。</p>
-<p>野生葫芦娃现在仍然可以在淘宝搜到，大部分卖家自觉地在颜色分类里把这个商品标注为“纯属搞笑”。买家花1毛钱，确认收货后可以留言评论。他们买的，其实是一个评论栏的吐槽广告位。</p>
-<p>“买了7个娃，结果来的就一个，店家说可能是7个娃合体了吧。”</p>
-<p>“给我发的是一对水娃火娃，然后呢？我家天然气啥的省了好多。”</p>
-<p><strong>一个鉴黄师的职业修养</strong></p>
-<p>尽管很多男性会学色情论坛上用户的客气话来开玩笑（比如“好人一生平安”），但身为鉴黄师，认同工作才是第一位的。</p>
-<p>鉴黄师“包孝肃”的花名和他本家包拯的谥号一样，他的脸圆乎乎，总是露着笑，谈起自己的工作时带着一种不容商量的语气。</p>
-<p>“我是有孩子的。”他往上推了推眼镜，“我也不希望我孩子上网看到那种诱惑的姿势的图片，和黄色图片没有区别。”</p>
-<p>阿里巴巴从有业务开始就有安全团队、鉴黄师，但这个队伍的壮大是最近三四年的事，伴随着业务量的增加，他们同各地公安部门的互动和合作也越来越紧密。和公安机关有点像，他们的重要信息来源是广大群众。天成和孝肃每天的工作都是从处理举报信息开始。</p>
-<p>黄色信息的大量摄入极大地提高了天成的防御值。“能让我恶不恶心不是数量的问题，是画面；不是看了多少，而是看了什么。”入职阿里安全部近8年，天成已经从一线的信息安全运营“小二”成长为团队的管理者。</p>
-<p>正常男用户看到“福利图片”时首先脑补的可能是“ D 杯还是 E 杯？”，天成关注的则是：“它怎么能被发上来？我们的系统是不是有漏洞？”</p>
-<p>常见的异性性交图片并不令天成反感，女同的性行为甚至可以算作额外福利，但鉴定“男男”图片对天成则是个挑战。“真的受不了。”</p>
-<p>在成为鉴黄师之前，天成的工作是负责支付宝账户的安全，鉴黄工作确实部分增加了他和同事们的工作乐趣，但那种乐趣可能更偏向于技术流。“有时候遇到一张图片就会一群人一起盯着看，还会分析：哎，这是假的吧，PS的吧。”</p>
-<p>此前的媒体报道提到过，公安部门招聘鉴黄师的硬门槛是已婚，但在互联网公司，是否已婚已经不作为筛选鉴黄师的指标，在这个时代，婚姻已经不再是性经验的指标了。</p>
-<p>即使是鉴黄的第一天，天成也并没有特别地感到尴尬。“如果我没有看过，那可能还会脸红心跳。但大部分男生在大学的时候就都看过了。”</p>
-<p>女性鉴黄师这个岗位并不罕见。在阿里的鉴黄师团队里，男女比例是1:1。女性工作细致，一些打擦边球行动的尺度，做了母亲的女性可能会提出一些更好的建议。</p>
-<p>天成的团队里有一位三十三四岁的妈妈。“她不但需要负责信息安全，还有整个成人用品类目的管控。她甚至还特别了解整个成人用品的分类，是道具还是飞机杯。”这位女同事还专门去参观过日本的成人用品展、工厂。</p>
-<p>“做安全嘛，性格开朗很重要。”孝肃取笑他的同事小丫，那个受不了黄图的新妈妈：“你这样的就不适合。”</p>
-<p>男性鉴黄师们生活中对黄色物品的兴趣确实有下降，天成说问题在于会忍不住想起工作：“看一张黄图，我们会想：哎，这个系统应该抓到的吧。为什么没抓到？这个人为什么会在这个地方发这种东西？他想的是什么？而在大学里看黄图时，我只会单纯地想：哎，这个女的身材真好。”</p>
-<p>天成仍有访问草榴等色情网站的需求，并且非常频繁，这是工作需要。他需要时刻更新样本库的高清大图，保证系统跟得上最前沿的节奏，系统会把长得一样的各位“某老师们”从产品中筛选出来，送到鉴黄师面前。</p>
-<p>草榴也在盯着阿里，有问题的图刚出现，马上就能在草榴看到。</p>
-<p>被这个中文世界最著名的黄色网站拎出来“吊打”是件危险的事，这些图片可能很快就会发布到微博、朋友圈，这也让天成格外紧张。</p>
-<p>“第一步我会把这个信息清理干净，第二步就是找到为什么这个信息我们没有发现。”</p>
-<p>“专职做这样岗位的人，绝对能达到这样的状态，听到前奏，知道是哪个发行方、制作方，哪个公司产的，甚至可能看到一段视频就知道大概在什么位置会出现黄色镜头。”</p>
-<p>据说熟练的鉴黄师甚至可以清楚分辨出 AV 里女优的声音。</p>
-<p><strong>技术还无法替代的岗位</strong></p>
-<p>阿里巴巴旗下产品的图片日均更新量已经达到亿级。通过人力没有办法满足如此庞大的更新量，它需要强大的、智能的系统。这种系统也要学习，这也是为什么天成要去草榴上找图“教它”，就像给警犬一只嫌疑人的鞋一样。</p>
-<p>所有可能的涉黄信息都会经过系统打分。“打个比方，如果系统打分说这个图片99%涉黄，那就几乎可以确定是，机器自己会处理。另外一些次一点分值的图片，就需要人工鉴别。”</p>
-<p>天成介绍了自己每天的工作流程。“首先要处理一下举报的内容；第二个是针对我们系统自动处理之后，其他的需要人工进行判断鉴别的信息，做任务的申领和处理；第三个是维护我们的整个系统的性能，提升它的学习能力。”</p>
-<p>更被看重的第三步，把日常工作当中发现的一些违规的情况，进行总结，添加到相应的样本库。丰富样本库，提高系统的准确率。</p>
-<p>系统工作所遵循的规则和逻辑在安全部是个不允许被对外谈论的话题，一旦暴露模型和规则，防控就会失效，对手会绕过它。</p>
-<p>不过，在整个违规信息的管理链里，利用系统事后删除只是最后一步，是下下策。大部分小网站的删帖者所从事的就是这样依靠工具的、简单重复的劳动。</p>
-<p>阿里巴巴安全部更希望做到能在黄色信息还没有发生的时候就拦截，这在很大程度上依赖于鉴黄师们的工作反馈对系统的提升。</p>
-<p>“今天互联网上出现一个什么新的情况，这是需要审核人员有敏感性和嗅觉的。更重要的是发现了一个新的情况之后，他要能感觉出来：管控之后，可能会有什么新的变化，提前在线上布置策略。”</p>
-<p>处理数据、分析会员行为、通过事后处理，反哺系统的逻辑、规则、运行、管控策略，才是阿里鉴黄师工作的核心内容。让这个系统越来越像人这样思考，鉴黄师就可以尽量少地去接触各种不快的原图了。</p>
-<p>“我们依托于一个庞大样本库。”天成介绍道，“对系统进行训练、学习，经过长时间的积累，它的准确性就会越来越高。”</p>
-<p>超过系统认知经验的商品，会及时传递到鉴黄师的手里，所有的商品发布都在监控范围内，出现了新的东西，商量一下，很快就会被处理。</p>
-<p>阿里安全部依据以往的系统经验开发了“绿网”，它可以帮助所有依托在阿里云平台上的企业网站实现内容自动净化。依托绿网，没有能力自己开发安全系统的小网站可以使用阿里已经成熟的技术，节省自己雇佣鉴黄师的成本。</p>
-<p><strong>魔高一丈</strong></p>
-<p>天成和孝肃都说，传黄的人也在一直成长。</p>
-<p>原来的标题是“招小姐”，被系统屏蔽后他们就改成“有妹子，你懂的”（“你懂的”在淘宝上已经被屏蔽）。</p>
-<p>有的直接不发文字，发个图，打码，留个 QQ 号。</p>
-<p>“人家挂着一张人体艺术的油画，说是卖油画的，你问他，他说：我们到 QQ 去聊。”这样斗智斗勇也让天成和他的团队不停地自我进化，就像在和对方推手，“真的有些人是专门在研究我们的规则和模型”，甚至不停地发图试。</p>
-<p>当系统判断出现疑问的时候，鉴黄师们只能通过数据去搜索可疑的卖家到底在卖什么，有的时候则需要通过他的行为去锁定。</p>
-<p>随着互联网的普及，网站已经不再是“扫黄”的主要战场，更主流的是网盘，不少内容手机客户端也能找到。它们的传播变得快速、便捷，监管也变得更困难。</p>
-<p>“鉴黄的分工（在阿里）存在至少也有五六年了。”天成回顾了自己队伍的壮大，“原来做这个岗位和事情的人一直都有，但现在发展成专职、全职了，因为随着互联网技术发展，近两三年，这个职位（的作用）越来越凸显。”</p>
-<p>法律法规没有也不可能穷尽每一种色情信息的具体情况，但对于企业而言，他所必须负担的“扫黄”义务，并不会因为标准的模糊而得到宽容和理解。鉴黄师们还需要探索，在模糊不清的标准面前，找出一套适合自己平台的专属标准。</p>
-<p>中国并没有采用西方国家通常的内容分级的方式来管控不良信息，阿里巴巴法务部告诉《博客天下》，中国的色情管控法律法规“是基于我们的公序良俗，建立起了一整套适用于中国国情的体系”。</p>
-<p>阿里有自己的规则，一个高于国家标准的、更细的准则，并且需要不断地和一线的“扫黄打非”部门保持联系。</p>
-<p>阿里法务部对规则形成过程的描述是：“结合具体的业务场景，兼顾不同国家、地区、民族的需求和感受……除了参考规范性文件，也会与当地公安、文化广电新闻出版局、国信办等机关保持紧密联系，就工作中遇到的问题及时获取咨询建议。”</p>
-<p>在新闻出版总署发布的《关于认定淫秽及色情出版物的暂行规定》里，除了对明确的淫秽和猥亵行为作出界定性六条描述之外，最后一条是“其他令普通人不能容忍的对性行为淫秽性描写”。</p>
-<p>普通人不能容忍的程度并不完全一样。模棱两可的图片究竟是黄色图片还只是情色类相关，尺度全由鉴黄师把握。</p>
-<p>这使得内部统一标准显得更加重要。“标准不能混乱掉。”孝肃说，“我们每个人的感官都不一样。”</p>
-<p>曾经出现过的备受争议的“原味内衣”，并没有法律做出界定，但也没活太久，违反公序良俗的情况，不被欢迎。</p>
-<p>不同的平台对同一张图片的要求也会不一样。买家买把椅子，却穿个比基尼坐在上面挤着沟，属于低俗营销，是违规。同样一张图片，出现在分享平台用户自己的账号里，就会被允许。</p>
-<p>把系统抓取的可疑信息处理掉并不是鉴黄师最重要的任务，他们的竞争力在于，懂得不同产品和渠道上尺寸的把握。</p>
-<p>为了统一标准，阿里巴巴要求所有鉴黄师上岗前要经过考试。</p>
-<p>标准过低放过色情内容的员工可能会让公司因为“监管失职”负上连带责任。而标准过高也一样无法通过考试，这可能会影响成人类目的卖家的正常经营。</p>
-<p>“阿里作为网络交易平台提供商，对包括黄色信息在内的不良信息负有一定的监管义务。”阿里法务部的回答是，如果阿里知道或者应当知道平台上某条具体的黄色信息的存在，而不采取任何处理措施，会被责令罚款、停业整顿直至吊销经营许可证，企业负责人也须承担相应的刑事责任。</p>
-<p>一个近在眼前的判决案例就是深圳的快播。</p>
-<p>天成、孝肃、 Sophie 还没来得及换上阿里安全部新标志，他们脖子上挂着的工牌还保留有原来的部门 LOGO ——一个戴着大盖帽、表情憨厚的动漫形象的警察。</p>
-<p>此前有网友送给阿里巴巴安全部“阿里神盾局”的名号。</p>
-<p>神盾局的全称是“国土战略防御攻击与后勤保障局”，在美国漫威漫画里是美国队长、雷神、黑寡妇、钢铁侠的工作单位，专门处理各类“超能力”奇异攻击者的安全组织。</p>
-<p>阿里安全部也模仿着神盾局的徽章，将自己的部门 LOGO 换成了一个鹰的标志。</p>
-<p>曾经是一个守土有责、家长里短的青年，现在则需要成为一个眼神锐利、大胆进击的猎者。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E6%B7%98%E5%AE%9D%E9%89%B4%E9%BB%84%E5%B8%88%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%B8%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%83%85/?category=18271" rel="tag">中国国情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E4%BF%97/?category=18271" rel="tag">低俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E5%B8%96/?category=18271" rel="tag">删帖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%AB%E7%A7%BD%E8%89%B2%E6%83%85/?category=18271" rel="tag">淫秽色情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%B2%E6%83%85/?category=18271" rel="tag">色情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%89%B4%E9%BB%84/?category=18271" rel="tag">鉴黄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%89%B4%E9%BB%84%E5%B8%88/?category=18271" rel="tag">鉴黄师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%89%B2/?category=18271" rel="tag">黄色</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C710%E6%8A%93%E6%8D%95%E5%A4%A7%E5%BE%8B%E5%B8%88%E4%BA%8B%E4%BB%B6%E5%B7%B2%E6%B6%89%E5%8F%8A167%E4%BA%BA/" target="cdt-mirror">维权网｜“710抓捕大律师事件”已涉及167人</a>
-</h2>
-<p><p><em>原标题：“710抓捕律师事件”通报8：截止7月15日 10时，“710大抓捕事件”共涉及167人，被刑拘 、监视居住10人、被失踪、带走、失联 16人，被短暂拘留、约谈、传唤已获释141人</em></p>
-<p>（维权网信息中心综合报道）“710抓捕律师事件”仍在进展中，本网获悉最新消息：著名作家、诗人、记者师涛因就此事发布个人声明，今早9时被银川警方约谈，现在仍未归，情况不明；江苏苏州戈觉平，网名奔博，14日13:00家被特警包围,被带走后失联；常州姚钦，14日17:30被带走后失联。同时，昨日获悉有数人获释。</p>
-<p>综上：截止7月15日 10时，“710大抓捕事件”共涉及167人，被刑拘 、监视居住10人，被失踪、带走、失联 16人，被短暂拘留、约谈、传唤已获释141人。涉及省份多达24个。当局继续使用警察以传唤、恐吓的方式制造恐怖气氛，恫吓大陆民主维权人士。</p>
-<p><strong>一、被刑拘 ／监视居住【10人】(未获释／情况未明)</strong></p>
-<p><strong>律师6人：</strong></p>
-<ol><li>王宇  (北京，锋锐所，7月9日4：00被带走，未能联络，，被刑拘)</li>
-<li>周世锋 (北京，锋锐所，7月10日7：30被带走，未能联络，被刑拘)</li>
-<li>王全璋 (北京，锋锐所，7月10日13：00被带走，未能联络，被刑拘)</li>
-<li>黄力群 (北京，锋锐所，7月10日8：30被带走，未能联络，被刑拘)</li>
-<li>隋牧青 (广州，7月10日23：40 被带走，未能联络，以煽颠罪被监视居住)</li>
-<li>谢阳 (湖南，7月11日5：40被带走，未能联络，以煽动颠覆国家政权罪被监视居住 )</li>
-</ol><p><strong>其他人权捍卫者4人：</strong></p>
-<ol start="7"><li>包龙军 (王宇丈夫，北京，7月9日3：00被带走，未能联络，被刑拘)</li>
-<li>刘四新 (北京，锋锐所助理，7月10日8：45被带走，未能联络，被刑拘)</li>
-<li>戈平 (勾洪国，天津，10日上午被带走，未能联络，以寻衅滋事监视居住)</li>
-<li>姜建军 (辽宁，7月12日被寻衅滋事刑事拘留)</li>
-</ol><p><strong>二、强迫失踪／去向未明/失联 【16人】</strong></p>
-<p><strong>律师 4 人：</strong></p>
-<ol start='11"'><li>李姝云(北京，锋锐所，7月10日1130被警方带走，失踪)</li>
-<li>李和平(北京，7月10日1400 被警方带走，失踪)</li>
-<li>郑恩宠(上海，11日下午被警方带走并抄家，失踪)</li>
-<li>游飞翥 (重庆，14日上午被带走)</li>
-</ol><p><strong>其他 12人</strong></p>
-<ol start="15"><li>王方(北京，锋锐所会计，7月10日0830开始失踪)</li>
-<li>考拉(赵威，北京，李和平律师助手，7月10日1700被带走，失踪，)</li>
-<li>老木(刘永平，北京，10日确认被捕，失踪)</li>
-<li>胡石根(北京，10日开始失踪)</li>
-<li>望云和尚(林斌) (10日中午在四川成都机场被带走，失踪)</li>
-<li>巩磊(山东，13日被带走，去向未明)</li>
-<li>李向阳(山东，14日01：00以涉嫌诈骗罪带走)</li>
-<li>任乃俊 (上海，12日被带走)</li>
-<li>王明贤 (苏州，14日17：30被带走)</li>
-<li>姚钦（常州，14日17:30被带走）</li>
-<li>15 .戈觉平(奔博，江苏苏州，14日13:00家被特警包围,被带走失联)</li>
-<li>师涛（银川，15日9：被带走）</li>
-</ol><p><strong>三、被短暂拘留／约谈／传唤 【113人】(已获释／现平安)</strong></p>
-<p><strong>律师 100人</strong></p>
-<ol start="27"><li>张维玉 (山东，在北京锋锐被拘)</li>
-<li>左培生 (北京，在锋锐被控制)</li>
-<li>江天勇 (北京)</li>
-<li>倪玉兰(北京，12日1347警察上门警告)</li>
-<li>张凯 (北京)</li>
-<li>刘晓原(北京，锋锐所，7月10日2300起疑被控制，已回家)</li>
-<li>程海 (北京，13日被公安找)</li>
-<li>谢燕益 (北京，10日下午约谈)</li>
-<li>刘连贺 (天津)</li>
-<li>马卫 (天津，7月10日被约谈)</li>
-<li>李威达(河北唐山，10日22:30被带走至11日17:15，计算机及手机被抄)</li>
-<li>梁澜馨(河北唐山，10日22:30被带走至11日17:15，计算机及手机被抄)</li>
-<li>姬来松 (河南)</li>
-<li>任全牛 (河南)</li>
-<li>孟猛 (河南)</li>
-<li>马连顺 (河南)</li>
-<li>常伯阳 (河南，12日0200回家)</li>
-<li>张俊杰（河南）</li>
-<li>苗杰(河南)</li>
-<li>刘卫国 (山东)</li>
-<li>刘书庆(山东，13日被约谈，14日下午再约)</li>
-<li>舒向新 (山东，14日警察二次登门)</li>
-<li>徐红卫 (山东)</li>
-<li>付永刚 (山东)</li>
-<li>王玉琴（山东）</li>
-<li>熊冬梅（山东）</li>
-<li>刘金湘（山东）</li>
-<li>王学明（山东）</li>
-<li>熊伟（山东）</li>
-<li>李金星 (山东)</li>
-<li>张海 (山东)</li>
-<li>冯延强 (山东)</li>
-<li>许桂娟 (山东，12日下午被约谈)</li>
-<li>赵永林 (山东，13日约谈)</li>
-<li>徐忠 (山东)</li>
-<li>刘金滨 (山东)</li>
-<li>王秋实 (黑龙江)</li>
-<li>张雪忠（上海）</li>
-<li>李天天（上海）</li>
-<li>薛荣民 (上海)</li>
-<li>秦雷 (上海)</li>
-<li>钟锦化 (上海，14日约谈 )</li>
-<li>王卫华 (上海，15日约谈)</li>
-<li>刘士辉(广东律师，11日中午在上海被带走，12日1800获释)</li>
-<li>张磊（11日在江苏苏州被约谈，12日22:20被带往长沙南站铁路派出所，0040出来）</li>
-<li>王成（浙江杭州，12日23:08发讯息报平安，寻衅滋事行政传唤21小时）</li>
-<li>庄道鹤(浙江杭州，约了14日在杭州谈话)</li>
-<li>陈宗瑶（陈晨，浙江）</li>
-<li>袁裕来（浙江）</li>
-<li>吕洲宾（浙江）</li>
-<li>汪廖 （浙江，13日中午国保约谈）</li>
-<li>王万琼 (四川)</li>
-<li>于全 (四川)</li>
-<li>付剑波 (重庆)</li>
-<li>何伟 （重庆）</li>
-<li>游忠洪（重庆）</li>
-<li>张庭源（重庆）</li>
-<li>雷登峰 (重庆)</li>
-<li>黄思敏(湖北，12日2300被约谈，13日0140出来)</li>
-<li>胡林政(湖南，12日0600出来，手机装软件)</li>
-<li>文东海(湖南，12日约1900被带走，有传唤证，涉嫌寻衅滋事，13日约0200获释)</li>
-<li>郭雄伟 (湖南)</li>
-<li>陈南石 (湖南)</li>
-<li>王海军 (湖南，13日被二次约谈)</li>
-<li>石伏龙（湖南）</li>
-<li>杨金柱（湖南）</li>
-<li>杨璇（湖南）</li>
-<li>张重实（湖南）</li>
-<li>罗茜 (湖南)</li>
-<li>吕芳芝 (湖南)</li>
-<li>张玉娟 (湖南)</li>
-<li>蔡瑛 (湖南，14日约谈，问及谢阳)</li>
-<li>蒋永继 (甘肃)</li>
-<li>曾维昶 (云南)</li>
-<li>刘文华 (云南)</li>
-<li>杨名跨（云南）</li>
-<li>王宗跃 (贵州)</li>
-<li>李贵生 (贵州)</li>
-<li>周立新(贵州，锋锐所律师，12日约1600被警方带往贵阳派出所，已自由)</li>
-<li>邹丽惠 (福建)</li>
-<li>陈学梅（福建，14日1320回）</li>
-<li>刘正清 （广东）</li>
-<li>吴魁明（广东）</li>
-<li>葛永喜(广东，11日2120被警察里带走，12日0156确认出来)</li>
-<li>陈武权 (广东，14日0140被敲门找)</li>
-<li>葛文秀(广东，11日、13日两次约谈)</li>
-<li>陈科云 (广东，13日1700约谈)</li>
-<li>陈进学 (广东，13日被约谈)</li>
-<li>吴镇琦(广东)</li>
-<li>王全平（广东，12日约谈，14日第二次约谈）</li>
-<li>崔小平 (广东深圳)</li>
-<li>徐德军 (广东深圳)</li>
-<li>朱金辉 (广东深圳)</li>
-<li>庞琨(广东深圳，13日1600在罗岗派出所，0015出来)</li>
-<li>覃永沛 (广西)</li>
-<li>杨在新 (广西，14日国保上门)</li>
-<li>张鉴康 (陕西)</li>
-<li>李方平（北京，12日0730在江西萍乡被第二次带走，2130回家）</li>
-<li>李昱函 (辽宁)</li>
-<li>陈建刚(北京，13日在安徽约谈，14日1130国保再到宾馆找)</li>
-</ol><p><strong>其他 41人</strong></p>
-<ol start="127"><li>周庆 (北京，锋锐所司机)</li>
-<li>游豫平 (洗冤行动志愿者，北京)</li>
-<li>包蒙蒙 (王宇儿子，北京)</li>
-<li>冯斌 (北京，在锋锐被控制)</li>
-<li>袁立(北京，10日中午被带走问话，2100获释，问题针对老木)</li>
-<li>佳期(北京，考拉室友，10日被带走，当日获释)</li>
-<li>李学惠(北京，10日、13日两次喝茶)</li>
-<li>李小玲（北京)</li>
-<li>杜延林(北京，14日1600去派出所，约1900出来)</li>
-<li>郑建慧（天津， 12日16：00被公安带走至13日0400.)</li>
-<li>蓝无忧（河南)</li>
-<li>侯帅（河南)</li>
-<li>卢秋梅 (山东，12日1300被传唤)</li>
-<li>徐知汉(山东济南，11日0455被从济南带回河南，14日1030获释)</li>
-<li>李发旺(山西，11日0400被带走，13日1100获释)</li>
-<li>李大伟 (甘肃)</li>
-<li>渔夫(王福磊，深圳，在上海被带走，已无事)</li>
-<li>杨勤恒 (上海，14日 下午约谈)</li>
-<li>王法展(砀山人，上海，14日1210被带走，16：05回)</li>
-<li>陆镇平 (江苏南通，13日被喝茶)</li>
-<li>单丽华 (江苏南通，13日被喝茶)</li>
-<li>瞿华 (江苏南通，13日被喝茶)</li>
-<li>张秀琴 (江苏南通，13日被喝茶)</li>
-<li>胡诚 (江苏常熟，13日被喝茶)</li>
-<li>顾晓峰（江苏常熟，13日被喝茶）</li>
-<li>江淳（许正彪，江苏南京，约了14日1500喝茶）</li>
-<li>游明磊（赵威丈夫，福州，被传唤）</li>
-<li>甄江华（广东， 10日21：20被带走至11日凌晨3点.）</li>
-<li>肖育辉(广东广州，13日1630开始喝茶，1915喝茶结束 )</li>
-<li>王爱忠(广东广州，13日约1630 派出所上门找，约八九点回家)</li>
-<li>陈荣高(醉侠老高，广东广州，13日1500开始喝茶，晚上回家)</li>
-<li>游精佑（福建，13日下午喝茶）</li>
-<li>欧彪峰(湖南，13日约1600被带到公安局做笔录，20：30分回家，，第二次约谈)</li>
-<li>黄智平（网名黄怡剑，湖南，14日晚约谈）</li>
-<li>魏得丰(谢阳律师助理，湖南，11日0540被带走，已获释)</li>
-<li>黄燕明 (贵州，14日0740被带走，晚上回来)</li>
-<li>刘国慧(山东，7月13日被约谈)</li>
-<li>戴振亚（福建，被约谈）</li>
-<li>余洪明（福建，被约谈）</li>
-<li>潘细佃（福建，被约谈）</li>
-<li>尤锦旭（福建，被约谈）</li>
-</ol><p><strong>四、被查抄3家</strong></p>
-<p>1.锋锐律师事务所</p>
-<p>2.李金星律师办公室（NGO：洗冤行动办公室）</p>
-<p>3.北京高博隆华律师事务所 (李和平律师所在事务所)</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C710%E6%8A%93%E6%8D%95%E5%A4%A7%E5%BE%8B%E5%B8%88%E4%BA%8B%E4%BB%B6%E5%B7%B2%E6%B6%89%E5%8F%8A167%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -962,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fdyabmf24mn6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1xtm9uth1jep.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -972,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d1fdyabmf24mn6.cloudfront.net">https://d1fdyabmf24mn6.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>

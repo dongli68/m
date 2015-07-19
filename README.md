@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2hrhos2jw806n.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3195iyr5rm4op.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%8F%91%E5%B8%83%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%AE%A4%E7%BD%AA%E8%A8%80%E8%AE%BA/" target="cdt-mirror">BBC｜中国官媒发布维权律师“认罪”言论</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg" alt="150718215643_f_976x549_ap" width="550" height="309"></a><p>中国媒体说，北京市锋锐律师事务所9名律师、数名助理及相关人士被当局“依法采取刑事强制措施”。</p></div>
+<p><strong>中国官方新华社与中央电视台就北京市锋锐律师事务所案件播发了负责人周世锋律师的“认罪忏悔”言论。</strong></p>
+<p>报道称，北京市锋锐律师事务所9名律师——周世锋、王宇、李和平、谢燕益、隋牧青、黄力群、谢远东、谢阳、刘建军——数名助理及相关人士被当局“依法采取刑事强制措施”。</p>
+<p>其中一名被拘律师谢燕益的妻子周日（7月19日）向BBC中文网确认，将计划对新华网及参与该报道采访的6名记者提起民事诉讼。</p>
+<p>同日，香港有多名律师及法律界立法会议员发起网上联署，声称声援中国内地超过100名被捕的维权律师。</p>
+<p>这篇由新华社记者与中共《人民日报》记者联合署名的报道援引警方消息说：“近日，公安部指挥多地公安机关摧毁一个以北京市锋锐律师事务所为平台，少数律师、推手、‘访民’相互勾连、滋事扰序的涉嫌重大犯罪团伙。”</p>
+<p>报道说：“这些涉案律师……不顾当事人的利益，用法庭内闹庭、庭外‘围观’等方式炒作办案，借机出名渔利。此外，周世锋还涉嫌行贿国家机关工作人员。”</p>
+<p>北京警方通报说：“以北京市锋锐律师事务所为平台，周世锋、王宇等人组成的犯罪团伙，自2012年7月以来，先后组织策划40余起案事件，打着‘维权’‘公益’等旗号炒作，借机出名，从中牟取利益。”</p>
+<p>新华社在报道中引述周世锋的认罪言论说：“我认罪，希望能给我一个机会。”</p>
+<p>除周世锋外，该报道还引述了谢远东、翟岩民、刘四新等多名被捕人员的供词，指被捕的律师通过“炒作”案件、利用“访民”制造声势等方式妨碍司法，包括试图引起国际社会关注，来谋取个人利益。</p>
+<p>不过在程序上，这些被捕人员尚未经过法庭审讯，有声音中国媒体在进行“媒体审判”。</p>
+<h2>“他们这是诱导”</h2>
+<p>谢燕益的妻子原珊珊在周日总部在中国境外的倡导组织维权网上（Chinese Human Rights Defenders）发布一份起诉状，表示将对新华网及参与相关报道的记者提出民事起诉。</p>
+<p>原珊珊向BBC中文网表示，计划提出起诉的原因是家属认为谢燕益与报道中所提及的案件没有关联，而当局在对他采取刑事措施时也未依法及时通知家属。</p>
+<p>“谢燕益律师做哪一件事情都是依法理性地做代理或者是给当事人争取权利，”原珊珊通过电话告诉BBC中文网说，并且表示谢燕益与锋锐律师事务所也没有业务来往和关联。</p>
+<p>谢燕益是曾代理过多起维权案件的中国人权律师。关于北京锋锐律师事务所律师及工作人员被控告的案件具体情况，原珊珊表示了解得并不详尽，她只是认为谢燕益与该具体案件“没什么关系”。</p>
+<p>“并且在家属还没有收到任何通知的情况下，他们就这样去报道，是不是会影响公安机关以后披露真相？”原珊珊表示，新华网的报道像是在进行一场“舆论公审”。</p>
+<p>原珊珊承认自己并非法律专业人士，不过对于报道产生的影响，她向BBC中文网表示：“他们这是诱导吧。”</p>
+<p>稍早前，长沙律师杨金柱宣布为周世锋担任代表律师。杨金柱目前并未对官媒所属的认罪言论作出回应，但据维权网刊发杨金柱递交长沙市司法局与律师协会的报道所 述，杨金柱承诺在替周世锋辩护的过程中，“绝对不接受境外媒体记者的任何采访”，“绝对不在博客、微博或者其它媒体发表违法言论”。</p>
+<h2>维权律师被捕</h2>
+<p>海外的媒体和人权团体说，在过去一周以来，中国各地众多律师被约谈和传唤，许多维权律师受到警方警告或威胁。</p>
+<p>法新社的报道说，在全中国范围内对维权律师和活动人士的打压行动中，近200人受到约谈和被捕。</p>
+<p>国际特赦组织说，目前中国警方仍拘捕着31名律师和活动人士。</p>
+<p>这一事件受到西方和港台等各方广泛关注，美国国务院早些时候发表声明说，中国警方“有组织扣留”一些“和平捍卫他人权益”，“合法地挑战官方政策”的人，强烈促请中国尊重公民权利，释放被捕人员。</p>
+<p>但随后，《人民日报》旗下《环球时报》周二亦发表社评说，美国回应中国抓捕维权律师的言论“与其以往在人权领域向中国发难一脉相承”。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%8F%91%E5%B8%83%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%AE%A4%E7%BD%AA%E8%A8%80%E8%AE%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BA%A6%E5%9E%9B%E5%8D%9A%E5%AE%A2%EF%BD%9C%E6%9E%81%E5%85%B6%E4%B8%A5%E5%B3%BB-%E5%86%85%E9%83%A8%E4%BA%BA%E5%A3%AB%E6%8F%AD%E5%86%9B%E9%98%9F%E5%8F%8D%E8%85%90%E7%9C%9F%E5%AE%9E%E6%83%85%E7%8A%B6/" target="cdt-mirror">麦垛博客｜极其严峻 内部人士揭军队反腐真实情状</a>
 </h2>
 <p><p>北京时间7月17日，解放军总政副主任兼军纪委书记杜金才在党刊《求是》撰文，立场鲜明、态度强烈地系统阐述政治纪律和政治规矩。文章带有明显的军方人物和军媒的习惯性口吻，但所陈述的问题严重性却难以等闲视之。作为军方高层核心成员之一，尤其是军纪监督者，杜金才对军队严峻形势的描述可信度极高。如此的话，军队反腐整顿仍然不容乐观，未来的走向也越发难以预测。</p>
@@ -887,73 +922,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%AF%B9%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%97%9B/" target="cdt-mirror">【网络民议】中国社会并不存在对计划生育的真实痛恨</a>
-</h2>
-<p><p>原标题：环球时报社评：骂计生者比当年批马寅初还疯狂</p>
-<p>国家卫计委近日表示，当前主要任务是要继续组织实施好单独二孩政策，也要积极做好进一步调整完善生育政策的研究论证工作。一些媒体解读认为，计生委所说的“进一步调整完善”指的是全面放开二孩政策，而不少人相信，中国全面放开二孩生育是大势所趋。</p>
-<p>一段时间以来，舆论围绕计生的讨论很多，抱怨也很多。而国家政策调整保持着稳扎稳打的节奏，我们认为这是有必要的。</p>
-<p>中国人口政策到了需要调整之时，而调整也的确在发生。舆论不断指出问题，政府的政策调整随之跟进，社会意见和行动之间并没有出现断裂。</p>
-<p><strong>有少数人对计划生育这一过去几十年的国策做“反攻倒算”式的批评，这是一种极端声音。这种声音在互联网上有时形成汇合，像是有点声势，但这是一种假象。中国社会并不存在对计划生育政策的真实痛恨。</strong></p>
-<p>几十年的计划生育政策执行中，各地不时有不规范的强制性个案被报道出来，它们受到批评和谴责，但那些事件大多在改善官员工作作风的层面消化了，对全社会来说，它们并没有被记到整个计划生育的账上。</p>
-<p>世易时移，中国的人口计划需要与时俱进，即使将来全面放开二孩，甚至允许三孩，也不代表过去40年中国计划生育搞错了。一些人因为现在的人口结构出现了一点问题就全盘否定国家计生走过的路，这是随便拿过去撒气、缺少历史涵养的表现。</p>
-<p>世上的事有一利则有一弊，计划生育如此庞大的社会政策更是如此，关键要看它利大还是弊大。中国从上世纪70年代末开始计划生育，累积少生了几亿人。想想看，今天的中国有可能是18亿人，甚至20亿人，而我们今天实际13亿多人。中国没有其他差别会比这两个数字之间的差别更大、更深刻。</p>
-<p>我们今天提前进入了老龄化社会，人口红利少了。但假如在今天的经济发展水平甚至更低水平上拥有18亿人口，这个国家将会遇到的问题不知要糟糕多少倍。常听人谈印度的“人口红利”，挺让人羡慕，但所谓“人口红利”只有在经济学上才是正面意义的，当它分散成一个个具体的人生时，它的实际表现往往是极度贫困、劳动者缺少权利、社会极端的两极分化等等。</p>
-<p><strong>现在有少数人批评计生政策，动辄说中国可以养育二十几亿人口，这种声音比当年对马寅初人口学的批判还要疯狂。我们可以让经济发展少一点人口动力，但我们不希望中国变成有二十几亿人口的国家。</strong>世界上有老龄化问题的国家有的是，那样的社会有多可怕可以看见，但<strong>二十几亿人口的国家会是什么样难以想象。那很可能是一个超级的“蚁族国家”，谁也别试图哄骗我们那样的中国有多美好。</strong></p>
-<p>中国已经是超级人口大国，计划生育需要针对现实问题进行调整，避免出现经济发展难以承受的断崖式劳动力减少。相信国家对人口动向的监测和统计是缜密、全面的，社会的具体意见会在国家层面得到汇集整理，国家的人口政策会在这些意见的碰撞中实现稳健。</p>
-<p>危言耸听的人口意见注定是会被“削峰”的，想生多少就生多少，甚至国家对多生者给予奖励，这样的鼓励生育政策短时间内肯定不会在中国出现。<strong>去中国农村基层看一看，了解一下更广范围的生育情况，就知道这是为什么了。</strong></p>
-<p>延伸阅读</p>
-<p><strong>提出“新人口论”的马寅初为何挨批</strong></p>
-<p>马寅初是浙江嵊县人，1882年生。早年留学美国，攻读经济学，获经济学博士学位。1915年回国，先后在北京大学、中山大学、交通大学、重庆大学、浙江大学任教，并曾任北京大学经济系主任、教务长、重庆大学商学院院长。</p>
-<p><strong>马寅初提出以节制生育、提高人口质量为中心的“新人口论”和综合平衡、按比例发展的经济理论。</strong>他认为我国人口“增殖太快”，“影响积累、影响工业化”，“是个极大的负担”，他主张“实行计划生育”，“推迟结婚年龄”。他认为国民经济要综合平衡，不能片面地强调重工业，必须同时积极发展轻工业，积极发展农业，主张引进外国先进技术设备，主张充分利用价值规律等等。</p>
-<p>在全国“大跃进”、人多好处多的浓浓氛围中，节制人口的声音被淹没了。为了扫除“大跃进”的思想理论障碍，毛泽东批判了党内外“反冒进”主张的理论依据——马寅初先生按比例发展的“综合平衡论”，“新人口论”则是综合平衡理论体系的重要组成部分。</p>
-<p><strong>在康生、陈伯达的策划鼓动下，开展了对马寅初的“批判”，把正确的说成为错误的，把学术问题，说成是政治问题。给他戴上“资产阶级代表人物”，“中国的马尔萨斯”、“反党反社会主义”等等帽子和罪名。</strong></p>
-<p>1958年5月4日北京大学60周年庆祝大会上，陈伯达到会突然发难，说：“马老要作检讨。”5天后，《光明日报》等紧跟其上，掀起批判马寅初《新人口论》和经济理论的高潮。7月1日康生到北大作报告，说批判马寅初是根据毛泽东的部署发动的，阴阳怪气地说：“听说你们北大出了个‘新人口论’，它的作者也姓马。这是哪家的马啊？是马克思的马呢？还是马尔萨斯的马？我看是马尔萨斯的马。”冷眼相对的马寅初最后则大声反驳：“我马寅初是马克思的‘马’家！”至此，矛盾公开并激化。</p>
-<p>1958年夏到1959年春，马寅初以全国人大常委会委员的身份深入浙江、江西、广东等8个省区实地考察调研工农业生产和人口状况。1959年庐山会议后，周恩来劝马寅初从大局出发，写个检讨。在对自己的思想和理论梳理过后，马寅初在文章里写道：“我对我的理论有相当的把握，不能不坚持，学术尊严不能不维护，只好拒绝检讨。”1959年11月，马寅初给《新建设》送去5万余字的《我的哲学思想和经济理论》，在文章的第五部分“附带声明”中，庄严声明：“我虽年近八十，明知寡不敌众，自当单身匹马，出来应战，直至战死为止，绝不向专以力压服不以理说服的那种批判者们投降。”掷地作金石之声。</p>
-<p>1959年12月到1960年1月，在康生的授意下，北京大学掀起了大规模的批马运动，大字报、批判会、各类文章可谓“铺天盖地”。1960年1月3日，马寅初亲自到教育部提交了北京大学校长辞职书。3月18日，国务院批准。</p>
-<p>党的十一届三中全会后，在中央的直接关怀下，马寅初的问题，得到了彻底平反，肯定了他的新人口论和综合平衡的经济理论，都是正确的，推翻了强加于他的一切污蔑不实之辞，恢复了他的职务和名誉。1981年为马老举行了百岁寿辰的活动。</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p><em>蛙蛙蛙蛙蛙蛙蛙蛙蛙蛙蛙：什么政策都是有利有弊，但我觉得计生政策利大于弊，没有计生政策，我们会有今天相对安定的社会环境吗？一天就知道喷，键盘侠动动手指世界就可以改变，真厉害。</em></p>
-<p><em>郭毛她妈妈：计划生育遏制了疯狂增长的人口，功不可没。</em></p>
-<p><em>擎天柱吃包子：挺支持计划生育的，很多落后地区的家庭，根本养不起太多孩子，但是拼命生。还有不生男孩誓不罢休的，亲眼见过有一家人为了生个儿子东躲西藏，在生了九个女儿之后终于如愿以偿，然后送了好几个女儿给别人养。像这种家庭就应该严格执行计划生育。</em></p>
-<p><em>克石：我赞同计划生育政策，人口无限制增长，最终是灾难。即使是现在有已经处处拥挤了，难道天天上演“春运”是好事吗？我国各地资源逐渐枯竭，很难养育十几亿人口了。计划生育政策实施本身就迟了。应该反对的是各地计生部门执法时的简单粗暴的行为，而不是计生政策。</em></p>
-<p><em>凭栏画西瓜：我觉得计划生育好啊，只不过执行的时候出现很多道德问题，那些喷政策本身的一定是多生出来的zhazha..少生这样的人中国才好过。</em></p>
-<p>第一座六芒城：操你妈，你以为每个家庭都和你家一样超生？或者都和你家一样平安无事？1000万个失独家庭对计划生育的痛恨，或许从人数上讲只占13亿的不到1%——但即便1个失独家庭对计划生育政策的痛恨，都比13亿未遭此厄运的普通人更有话语权。</p>
-<p>实在想不出微博名字-：94年，因为我的出生，原本就一贫如洗的家里被计生办的人洗劫一空，甚至被拆了屋顶，我牢记着国家的耻辱，也牢记着这个国家给我的家带来的耻辱。</p>
-<p>Daisy_Zhou：又想起来之前有个同事说真想再来一次文革，还有另一个同事说支持计划生育……大家同是受过高等教育的人，尚且有这么大的认知差距，更别说范围更广一点的国人了。唉………#我唉个鬼</p>
-<p>中南有狼：骂计生，是骂没有经过论证的拍脑子政策，骂的是不讲人权的暴力堕胎，骂的是依附于这套政策如同吸血虫般的流氓。</p>
-<p>唐传松：强制结扎，强行堕胎，野蛮连坐，丧心病狂。。。曾经的刽子手都断子绝孙。。。。</p>
-<p>锋将的潘趣酒：日本的国土只有中国的二十五之一，养活了中国十分之一的人口。别给无能找借口。</p>
-<p>云上高岗：批马寅初是官方组织的，批计生官员是人民自发的；马寅初是手无寸铁的理论学者，计生官员是实实在在实施了无数恶行，甚至是为以此牟利的掌权者。</p>
-<p>华本倪一叶：马寅初主张避孕和推迟婚龄，但坚持反对人工流产。他认为有比人工流产更好的办法。这就是“最好是一对夫妇只生两个孩子，对只有两个孩子的父母加以奖励，而对超过两个孩子的父母要抽税”。而我们的“国策”，强制堕胎、流产、结扎，进民居抢钱抢物，“社会不存在对计生政策的真实痛恨？”真是呵呵了。</p>
-<p>徐先森好慌张：不存在对计生真实痛恨？这种不要脸的话也说得出口？</p>
-<p>民议院：存不存在痛恨不是你环球时报说了算，看看评论就知道。</p>
-<p>叶磊04019：我对计划生育存在真实痛恨，其他人不知道。</p>
-<p>云的记忆空间：是不是真的有”真实痛恨“，就搞一个投票看看…</p>
-<p>贪婪的金鱼：生孩子罚款数能公示一下吗？</p>
-<p>杉原崇：文革，大生产，大跃进，计划生育。数亿人在跟随贯彻你们的正确领导和优秀方针。怎么会感到痛恨呢。</p>
-<p>春柏律师：评论很精彩！我小时候看到过计生干部带领着民兵拆超生家庭的房子上的瓦、赶走猪、挑走稻谷和米，拿走家中一切可以值钱的东西。</p>
-<p>姓吴的叔叔：我有一个姐姐，比我大四岁，活的。姐姐下面有一个哥哥，刚成形被强行弄出来。后来是我，二十四年前被罚了一万六，村里计生委拿了钱就组团去无锡玩了一圈。我妈那年被强行接扎。对，我没有怨恨。</p>
-<p>miss木每木每：看到下面都是骂你的，我也放心了。</p>
-<p>何兵：数以百万的失独父母，不会认同本文。</p>
-<p>哉同学：我们天朝计生干部计生手段之恶毒执法之严苛，让这一制度更加严酷。</p>
-<p>如果早没有如果：断子绝孙的计划生育，还不让骂了？操行。</p>
-<p>MrOleg：在人类基本权利上讨价还价，都是耍流氓。</p>
-<p>江南才子不是我：做了罪恶的事，就不要怕清算。</p>
-<p>延枫馨语：连生育权都被剥夺了！还谈什么公民权利？</p>
-<p> </p>
-<p>仰天长啸88：该扎不扎房倒屋塌，上吊给绳，喝药给瓶，这些事老百姓都看在眼里，记在心里，你说没事就没事了？！操你妈大血碧。</p>
-<p>德刚1984：人口结构出现了一点问题？那是一点问题吗？完全放开二胎，有你说的那么难吗？没人否定之前计划生育，我们在意未来，太可怕了，还在为几百亿罚款使人口比例严重失调，使老龄化加重，使上万失独家庭老无所依，将来让更多的人娶不上老婆，社会动荡之隐患！一群不要脸的东西，会毁了这国家！</p>
-<p>郭健guojian：那些數以百萬計的失獨家庭被你們輕輕一筆就抹掉了。</p>
-<p>三合技术服务：我们全村人都痛恨计划生育，就我所了解的，全镇、全县绝大部分人都痛恨计划生育。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%AF%B9%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%97%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E8%AE%BA/?category=18271" rel="tag">人口论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%AF%85%E5%88%9D/?category=18271" rel="tag">马寅初</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -965,7 +933,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1xtm9uth1jep.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -975,5 +943,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3
                 <td></td>
                 
         
-        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/></td>    </tr>
 </table>

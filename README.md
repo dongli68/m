@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋报道的中英版内容对照</a>
@@ -64,6 +64,58 @@
 <p><span>英语版中，对周世锋的指控使用了“reportedly”（“据称”）。中文报道中是将指控当作事实来陈述。</span></p>
 <blockquote><p><span>此外，周世锋在代理一起案件时，看到当事人因车祸受伤卧床不起，便邀约该当事人的妻子外出旅游，强迫与其发生性关系，后生下一女。与周世锋有不正当男女关系的多名女性中，大多数是其乡亲托付他在北京给予照顾的晚辈。</span></p></blockquote>
 <p><span>这段道德指控的内容在英语报道中完全没有出现。新华社似乎也知道嫌疑人的私生活与本案毫无关系。</span></p>
+<blockquote><p>Liu added that “savage acts” can only become negative factors in the country’s rule of law and might also be taken advantage by foreign malicious forces.</p>
+<p>“一味的蛮干、‘<span>死磕</span>’，不利于推进全面依法治国，反而会成为依法治国的杂音和消极不利因素，还会被境外恶意利用。”</p></blockquote>
+<p><span>英语报道再次避开了“死磕”一词。</span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/628dceaagw1dkoqpzcb9bj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/628dceaagw1dkoqpzcb9bj.jpg" alt="628dceaagw1dkoqpzcb9bj" width="400" height=""></a><br><em>（《南方人物周刊》2011年9月封面；图片来自新浪微博）</em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%B7%A6/?category=18271" rel="tag">吴淦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋认罪报道的中英版内容对照</a>
+</h2>
+<p><p>2015年7月18日，人民日报与新华社记者发表了一篇联合报道，详细描述了北京市锋锐律师事务所主任周世锋日前认罪忏悔的内容。这是继央视焦点访谈播出所谓曝光“’维权圈’幕后推手”节目后，官媒对周世锋、王宇等维权律师进行的又一次“媒体审判”。</p>
+<p>新华网英语站同时刊登了一篇与<a href="http://news.xinhuanet.com/legal/2015-07/18/c_1115967431.htm">中文报道</a>相对应的<a href="http://news.xinhuanet.com/english/2015-07/19/c_134424769.htm">英语稿</a>。</p>
+<p>但经过数字时代编辑仔细阅读后发现，与中文版对比，新华的英语稿件除了简短不少外，还有一些非常微妙且耐人寻味的出入。英语报道删除或替换了相当一部分形容词，摒弃了人身攻击和不少细节描述的内容，同时也避免了那些中文报道里“未审先判”的措辞。</p>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代 <a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">黑色星期五：维权律师大抓捕 </a>专题</p></blockquote>
+<p>以下为中英版不同部分中值得一提的例子，由中国数字时代编辑不完全统计后编译整理：</p>
+<p>（红字为有出入部分，蓝字为数字时代编者注释）</p>
+<blockquote><p>According to Zhou, Wu’s reputation as “butcher” was huge, and any government department would pay great attention when they knew Wu was coming.</p>
+<p>“尽管吴淦不是律师，但能起到律师不能起的作用。屠夫名气大，<span>他是邓玉娇案件的操盘手</span>，一听吴淦来了，相关单位就会重视。”</p></blockquote>
+<p><span>英语稿件中没有提及“邓玉娇案”。</span></p>
+<blockquote><p>Camera recordings for a court hearing in the northeastern city of Shenyang in April showed that several defending lawyers were shouting and screaming shortly after the trial opened despite judges’ calls for order. They later switched targets to police trying to interfere, with the firm’s female lawyer Wang Yu pointing fingers and calling them “hooligans.”</p>
+<p>法院视频资料显示，庭审刚一开始，几名辩护人就高声叫喊起来。审判长多次要求遵守法庭纪律，但这几名辩护人根本不听，<span>反而无理要求合议庭人员全体回避</span>。他们<span>不顾审判长、法警劝阻</span>，继续大吵大闹，并公然辱骂包括审判长、法警在内的法院工作人员。其中的领头者正是锋锐律所的女律师王宇。她<span>走出辩护席、带头叫骂</span>，指着法警的鼻子<span>大骂</span>其是流氓、<span>禽兽</span>，<span>将庄严的法庭变成了骂人、撒泼之地</span>，使得庭审无法进行下去。</p></blockquote>
+<p><span>以上红字部分都是英语稿件中没有的内容。可以看出减去的都是贬义形容词和带有主观色彩的细节描述。</span></p>
+<blockquote><p><span>According to the ministry statement</span>, making a scene and then being forced out of court was the group’s usual tricks to paint an image of victim for themselves, induce sympathy and hype up cases on a wider scope.</p>
+<p><span>故意闹庭、制造事端，让自己被逐出法庭，刻意渲染悲情、营造“弱者”形象，然后进行一系列炒作，也是他们的另一“杀手锏”。</span></p></blockquote>
+<p><span>英语里说明了后面的内容来自司法部的报告，但中文里没有使用引号，是在作事实陈述。</span></p>
+<blockquote><p><span>2013年4月，江苏省靖江市人民法院。一起案件开庭前，辩护人、与王宇同为锋锐律所律师的王全璋，与无律师执业资格的李某某到靖江市人民检察院无 理控告承办人及主审法官。庭审中，王全璋以申请回避、捏造事实等方式干扰庭审进程；未经法庭许可，擅自用“云录音”状态的手机录音、拍照，企图传到网上炒 作。李某某未经允许，两次擅自闯入审判区坐上辩护席。鉴于其行为违反法庭秩序且情节严重，王全璋被依法治安拘留。</span></p>
+<p><span>庭外早有人做好准备，在网上迅速发起所谓“紧急营救王全璋律师”行动，煽动一批人在法院聚集闹事。靖江法院领导及主审法官的电话被公布在网上，连续几天被打爆。</span></p></blockquote>
+<p><span><strong>英语报道完全没有提及营救王全璋律师的内容。</strong></span></p>
+<blockquote><p>Zhou reportedly only accepted high-profile cases, and for those small ones, the firm would always resort to methods to boost publicity.</p>
+<p>“I let my subordinates <span>do whatever they could</span> to boost the firm’s reputation. For major, difficult cases, I would instruct them to create some influence and attract public attention,” Zhou said.</p>
+<p>为了尽快“扬名立万”，<span>周世锋选用律师不看水平、先看“名气”</span>。周世锋说，“我有两方面考虑，第一是想出名，提高所里的知名度，我就放任他们去做了；第二个是有重大疑难案件，让他们制造点影响，容易引起关注。”</p>
+<p>如今，周世锋深感后悔：“我纵容和鼓励了他们在代理案件中的<span>违法行为</span>，<span>给社会稳定带来了大的隐患，我作为所里的主任，有不可推卸的责任</span>。”</p></blockquote>
+<p><span>中文的“违法行为”在英语中成了“do whatever they could”。其余中文红字部分未在英语报道中出现。</span></p>
+<blockquote><p>“Wang Yu enjoyed quite a reputation in the lawyer industry. Although she earned it mostly from <span>shrewish quarrels</span> and public exposure, it was an indisputable fact that everybody knew her,” Zhou said.</p>
+<p><span>对于被判过刑坐过牢、以“死磕”著称的女律师王宇</span>，“她在律师行业有名气，尽管名气靠<span>死磕</span>、炒作来的，但是一说起王宇没有不知道的。<span>这样无形中就把锋锐律所和我的知名度抬上去了。如果锋锐律所有大的疑难案件，让她介入炒作，效果很好。”周世锋说。</span></p></blockquote>
+<p><span>“死磕律师”在英语里一般翻译为“<strong>diehard lawyer</strong>”。而新华社使用的<strong>shrewish</strong>是一个对针对女性的贬义形容词，与之对应的中文大致就是“<strong>泼妇</strong>”。其余中文红字部分为英语版中缺失的内容。</span></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/diehard-lawyers.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/diehard-lawyers.png" alt="diehard lawyers" width="425" height="393"></a><p>“死磕”翻译举例</p></div>
+<blockquote><p><span>连日来，多名犯罪嫌疑人进行了深刻反思，认为自己的行为严重破坏了法律实施，更严重损害了社会公平正义。</span></p>
+<p><span>——为了扬名获利和其他不可告人的目的，极少数律师甚至不惜牺牲当事人的合法权益。</span></p></blockquote>
+<p><span><span>红字</span>部分的中文内容在英语版中完全没有出现。中文报道的表达是事实陈述，非常明确地为“犯罪嫌疑人”提前作出审判。</span></p>
+<blockquote><p>Zhou’s group then resorted to the usual tricks of <span>disrupting</span> court orders, verbally attacking judges and hyping up the case on the Interent, but the court still found all the defendants guilty.</p>
+<p>代理过程中，周世锋等人采取了<span>抹黑</span>主审法官、<span>大闹</span>法庭、网络炒作等惯用手法，<span>没想到</span>法院仍然依法判决全部被告人有罪。</p></blockquote>
+<p><span>英语使用了中性词“disrupting”，中文使用了带有贬义的“大闹”。“抹黑”、“没想到”这两个充满主观色彩的用语在英语中均没有出现。</span></p>
+<blockquote><p>In the trademark case, Zhou <span>reportedly</span> let the defendants wire the one million yuan as well as 300,000 yuan to compensate traffic costs directly to his personal account.</p>
+<p>在代理鄂尔多斯案件中，周世锋让对方将100万元代理费和30万元交通费都打到自己的账户上。江苏一起案件的30万元代理费，河南一起案件的70万元代理费，也都打到周世锋个人的账户上</p></blockquote>
+<p><span>英语版中，对周世锋的指控使用了“reportedly”（“据称”）。中文报道中是将指控当作事实来陈述。</span></p>
+<blockquote><p><span>此外，周世锋在代理一起案件时，看到当事人因车祸受伤卧床不起，便邀约该当事人的妻子外出旅游，强迫与其发生性关系，后生下一女。与周世锋有不正当男女关系的多名女性中，大多数是其乡亲托付他在北京给予照顾的晚辈。</span></p></blockquote>
+<p><span>这段道德指控的内容在英语报道中完全没有出现。<strong>新华社似乎也知道嫌疑人的私生活与本案毫无关系。</strong></span></p>
 <blockquote><p>Liu added that “savage acts” can only become negative factors in the country’s rule of law and might also be taken advantage by foreign malicious forces.</p>
 <p>“一味的蛮干、‘<span>死磕</span>’，不利于推进全面依法治国，反而会成为依法治国的杂音和消极不利因素，还会被境外恶意利用。”</p></blockquote>
 <p><span>英语报道再次避开了“死磕”一词。</span></p>
@@ -688,35 +740,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E5%93%AA%E4%B8%AA%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF/" target="cdt-mirror">【立此存照】新华国际到底在说哪个“今日俄罗斯”？</a>
-</h2>
-<p><p>新华国际今日在其客户端及微博帐号推送了一篇<a href="http://xhgj.api.zhongguowangshi.com/wap/share.aspx?clientApp=104&docid=93774&channel=sina">评论文章</a>（文末附截图），称“今日俄罗斯”国际新闻通讯社在伦敦的银行帐户遭冻结一事，充分说明了“西方国家在新闻自由这个问题上奉行的双重标准”：</p>
-<blockquote><p>“今日俄罗斯”在国际新闻界虽是后起之秀，但其常常因发出不同于西方的声音，而受到国际社会的关注，也令美英等西方国家感到不舒服，甚至被看作是一种挑战。 […]</p>
-<p>与此同时，西方国家媒体却打着新闻自由的幌子，肆意片面报道甚至歪曲发展中国家和任何他们不喜欢的国家，往往把这些国家描绘得一无是处，一团漆黑，并动辄跟所谓制度联系在一起，而对西方国家自己的问题，或视而不见，或避重就轻。 […]</p></blockquote>
-<p>然而，从新华国际的文章配图可以看出，他们似乎并没有搞清“今日俄罗斯”通讯社和RT（今日俄罗斯）电视台的区别。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF.jpg" alt="今日俄罗斯" width="605" height=""></a><br><em>（左图为Rossiya Segodnya，右图为RT）</em></p>
-<p><a href="http://www.rt.com/news/273310-uk-freeze-russian-agency/">在伦敦被关闭银行帐号的</a>是Rossiya Segodnya，直译成英语为”Russia Today”，但与平时国人经常耳闻的“今日俄罗斯”电视台（”Russia Today”简称RT）是两家完全不同的机构（虽然他们都是俄罗斯政府所有）。此次报道中的“今日俄罗斯”（Rossiya Segodnya），其实是俄罗斯政府在2013年对俄新社（RIA Novosti）和“俄罗斯之声”（Voice of Russia）重组更名后的产物，并非什么“新闻界后起之秀”。调整后该社的官方宗旨是“<a href="http://america.aljazeera.com/articles/2013/12/9/putin-dissolves-rianovostinewsagency.html">对俄罗斯国家政策及联邦内公共生活进行报道</a>”（provide coverage of Russian state policy and public life in the federation）。</p>
-<p>而2005年（由RIA Novosti）全新建立的多语言全天候RT电视联播网，才是中国官媒经常提及、甚至有<a href="http://www.guancha.cn/america/2015_06_18_323875.shtml">央视驻美国首席时政记者作客</a>的“今日俄罗斯”。</p>
-<p>另外，（新华国际没有提及的）欧盟对Rossiya Segodnya 总裁 Dmitry Kiselyov 的<a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2014:086:0030:0032:EN:PDF">制裁理由</a>如下：</p>
-<blockquote><p>Appointed by Presidential Decree on 9 December 2013 Head of the Russian Federal State news agency “Rossiya Segodnya”.<br>
-Central figure of the government propaganda supporting the deployment of Russian forces in Ukraine.</p>
-<p>（2013年12月9日经政府任命成为俄罗斯联邦政府新闻机构”今日俄罗斯“最高负责人。<br>
-支持俄罗斯向乌克兰派遣军队的俄政府宣传的中心人物。）</p></blockquote>
-<p><strong>附维基百科词条：</strong></p>
-<blockquote>
-<ul><li><a href="https://en.wikipedia.org/wiki/Rossiya_Segodnya">Rossiya Segodnya</a></li>
-<li><a href="https://en.wikipedia.org/wiki/RT_%28TV_network%29">RT 电视联播网</a></li>
-</ul></blockquote>
-<p><strong><a href="http://xhgj.api.zhongguowangshi.com/wap/share.aspx?clientApp=104&docid=93774&channel=sina">新华国际｜评：且看西方新闻自由的双重标准</a></strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85.png" alt="新华国际" width="435" height=""></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%B0%E5%8D%8E%E5%9B%BD%E9%99%85%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E5%93%AA%E4%B8%AA%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -728,7 +751,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3exa92796wh5e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -738,5 +761,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
                 <td></td>
                 
         
-        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>

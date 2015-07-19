@@ -24,6 +24,52 @@
         <td><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A5%B9%E6%98%AF%E4%B8%80%E5%90%8D%E5%AE%89%E9%9D%99%E7%9A%84%E5%95%86%E4%B8%9A%E5%BE%8B%E5%B8%88%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B/" target="cdt-mirror">博谈网｜她是一名安静的商业律师，后来北京开始针对她</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/wangyu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/wangyu.jpg" alt="wangyu" width="400" height="471"></a></p>
+<p>（博谈网记者赵亮编译报道）据《华盛顿邮报》7月18日报道，可以说是中国当局造出了王宇，他们的一个眼中钉。</p>
+<p>她曾是一名温和的商业律师，从事专利纠纷之类的案件，直到2008年底在天津火车站的一起事件。当时火车站员工阻止她登车，即便她持有车票，于是双方发生口角，随后王宇遭几名男子殴打。</p>
+<p>但几个月后，是王宇而非那些打她的男子被指控“故意伤害罪”。经过长时间、可被质疑的法律程序，她在监狱里被关了两年半。</p>
+<p>她的朋友和同事们说，在那里，她看到了囚犯们是如何被强迫劳作而没有报酬，听到了他们被虐待和折磨的故事。2011年出来时，王宇已变成了一名人权提倡者，承接一些在中国最引人注目的案件。</p>
+<p>“当她出来时，她迅速成为这个运动的一部分，真正投身进去”，伦敦国王学院（King’s College London）的中国法律专家Eva Pils说。她在几周前与王宇交谈过。</p>
+<p>据中国官方媒体报道，上周在中国19个省统一抓捕了100多名律师，以打击一个“严重扰乱社会秩序”的“重大犯罪团伙”。王宇是其中之一。</p>
+<p>王宇曾是著名维族知识分子伊力哈木·土赫提的代表律师。伊力哈木·土赫提去年被以鼓吹分裂、煽动民族仇恨、批评政府和发声支持恐怖主义的罪名被判终身监禁。</p>
+<p>王宇也为今年三月被捕的五名女权活动人士辩护。她们计划在三八国际妇女节推出一个反性骚扰的公共活动而被捕，罪名是“寻衅滋事”。</p>
+<p>王宇原计划作为被当局禁止的法轮功团体成员的辩护律师出庭，但她一再被拒绝进入法院。</p>
+<p>去年在黑龙江省，当王宇被拒绝会见一名法轮功当事人后，她与一名同事站在牡丹江公安局外举着牌子说“律师要求有权见当事人”。</p>
+<p>很少人会看到他俩站在接近中俄边境的这个边远的公安局外。但是王宇的同事把他们两人的照片放到了微博上，并很快传播开来。</p>
+<p>就是这一点——用社交媒体告知公众——导致她上周成为全国性统一打压人权律师行动的一部分。</p>
+<p>“我觉得实际上是她在人权方面的工作惹恼了当局”，中国最著名的民权律师之一、哈佛大学法学院访问学者滕彪说。“这些律师有良好的组织和联系。他们可以通过社交媒体来动员人。”</p>
+<p>在中国，逮捕人权律师并不罕见。据总部位于香港的中国维权律师关注组消息，截至周四，在中国国内共有215名律师、律师事务所工作人员和人权活动人士被拘捕、逮捕或失联。</p>
+<p>分析师们表示，上周的大规模拘捕令人震惊，它是在习近平领导下更广泛压制非政府组织和其它民间社团的背景下发生的。</p>
+<p>“这是继2011年‘茉莉花’抗议以来最令人瞩目的打压”，大赦国际的研究人员William Nee说。“但打击的范围和对这些特定律师的后果方面都远远超过以前。”</p>
+<p>虽然44岁的王宇和她所在律师事务所的其他律师在被捕律师之列，但王宇的境况引起公众关注，因为她是被当局挑出来点名批评的几位律师之一。</p>
+<p>上个月，国营新华社刊登了一篇没有署名、显然是旨在抹黑王宇名誉的评论文章。文章说，“就是这样一个嚣张跋扈、身背案底的女人，近几年居然摇身一变成为了律师，张口闭口法治、人权、正义，到处打着‘维权’旗号活跃逍遥。”</p>
+<p>认识王宇的人描绘的是一个完全不同的景象。</p>
+<p>“五名女权活动人士”之一的李婷婷说，王宇是一名耐心、投入的律师。“她工作非常努力，总是在路上，包总是塞得满满的”，李婷婷在微博上写道。“她很瘦，每次见到她都是背着很重的袋子。我注意到她是如此的努力，而且从来不抱怨。”</p>
+<p>人权观察的Maya Wang表示，被拘捕的王宇律师没有火气。“她讲话轻声细语，对待工作非常认真”，她说。“首先，她是一名律师。对她和其律师事务所的整个打压是一种政治打压。”</p>
+<p>但当局用那起火车站事件来针对王宇。当新华社刊出该官方评论时，王宇和她的同事们知道这是坏事即将到来的迹象。</p>
+<p>7月8日，王宇去机场为她的丈夫、人权活动家包龙军和他们16岁的儿子送行。他们正准备前往澳大利亚，送孩子到那里上学。</p>
+<p>那天夜里大约凌晨3点，她家里突然断电，Wifi也断了，她给一群律师朋友发了条短信。接着，她听到有人在撬她家门锁的声音。</p>
+<p>“我从猫眼往外看，漆黑一团，什么也看不到，偶尔有低声说话的声音，但听不清楚”，她发短信写道。“我丈夫和儿子都没有接听他们的手机。”</p>
+<p>结果发现他们已在机场被捕。</p>
+<p>当人权活动人士们收到王宇的短信试图给她打电话时，她没有接听。</p>
+<p>此后，王宇夫妇一直被关押，他们的儿子被释放，由他的姑姑照顾，但他的护照被没收。</p>
+<p>王宇已感觉到自己可能会被“收拾”，上个月她曾说她的工作意味着“许多相关权贵早已对我怀恨在心”。</p>
+<p>“真相岂容掩盖”，她在回应新华社那篇评论的一份声明中写道。“我相信在民智大开、网络新媒体日益普及、人民越来越具有明辨真假能力的今天，任何企图丑化我的阴谋都绝不可能得逞！”</p>
+<p>当局似乎在试图确保这不会发生。在微博上被禁止搜索“律师王宇”和“维权律师”，对于王宇案的评论只有非常负面的那些。</p>
+<p>原文<a href="https://www.washingtonpost.com/world/she-was-a-quiet-commercial-lawyer-then-china-turned-against-her/2015/07/18/fe45876c-2b3d-11e5-960f-22c4ba982ed4_story.html">She was a quiet commercial lawyer. Then China turned against her.</a></p>
+<p><em>编译: 赵亮  作者: Anna Fifield</em></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A5%B9%E6%98%AF%E4%B8%80%E5%90%8D%E5%AE%89%E9%9D%99%E7%9A%84%E5%95%86%E4%B8%9A%E5%BE%8B%E5%B8%88%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%8F%91%E5%B8%83%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%AE%A4%E7%BD%AA%E8%A8%80%E8%AE%BA/" target="cdt-mirror">BBC｜中国官媒发布维权律师“认罪”言论</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg" alt="150718215643_f_976x549_ap" width="550" height="309"></a><p>中国媒体说，北京市锋锐律师事务所9名律师、数名助理及相关人士被当局“依法采取刑事强制措施”。</p></div>
@@ -905,23 +951,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C-%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B%E5%90%8D%E5%AD%98%E5%AE%9E%E4%BA%A1-%E9%80%BC%E9%80%80%E6%9D%A8%E7%BB%A7%E7%BB%B3%E5%A4%A7/" target="cdt-mirror">自由亚州｜ “炎黄春秋”名存实亡 逼退杨继绳“大结局”</a>
-</h2>
-<p><p>中国言论指标刊物《炎黄春秋》月刊总编辑杨继绳的<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E6%9D%A8%E7%BB%A7%E7%BB%B3%EF%BC%9A%E7%A6%BB%E5%BC%80%E3%80%8A%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B%E3%80%8B%E6%80%BB%E7%BC%96%E5%B2%97%E4%BD%8D%E7%9A%84%E4%B8%A4%E5%B0%81/">两封辞职公开信</a>，星期三在网络曝光。公开信称，他于7月1日 正式离职，同时披露，上级主管部门官员早些时候多次催促他辞职的过程，以及在过去五年，该杂志社向广电总局报备的文章，八成没有下文。他强调，新组的编辑部运作良好，编辑工作已走上了正轨。杨继绳星期四接受本台采访时强调，他没有发表这两份公开信，只是给朋友看过，不知谁对外披露。</p>
-<p>著名政论月刊《炎黄春秋》因受到中宣部的干预，去年以来，遇到各种阻力，先是被强制变更主管主办单位，后又接《警示通知书》，指其刊登的文章违规，甚至要求稿件送审等，导致多人辞职。</p>
-<p>总编辑杨继绳在7月1日离职前，写下了《致炎黄春秋社委会和全体读者的告别信》和《向国家新闻出版广电总局的最后陈述》两封公开信。</p>
-<p>他在写给炎黄春秋社委会和全体读者的告别信中称，退出《炎黄春秋》杂志社。李锐、杜导正两位前辈和社委会对我一再挽留，我思考再三，还是决定离开。在这里，向在《炎黄春秋》合作多年的朋友们告别，也向百万热心的读者告别。</p>
-<p>75岁的杨继绳在《炎黄春秋》担任副社长12年，他说离开的原因有三个，一是年老多病，难以承担总编辑这个沉重的负担。第二个原因是4月10日 新华社三位局级干部代表社党组找他谈话，用党的纪律要求他立即退出《炎黄春秋》。第三个原因是去年第四季度，总编辑、两位轮执主编和网络主编四人同时辞 职。他不得不临危受命。但他承诺只干半年。现在，半年已过，新组的编辑部运作良好，编辑工作已走上了正轨，已经完成了社委会交给他的任务。他要兑现承诺， 决不恋栈。</p>
-<p>杨继绳星期四接受本台采访时称，他接到上级通知不得接受境外媒体采访，但承认公开信出自他本人，强调不是他公开发表，谁发表的他不知道。（责编：胡汉强）</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E6%9D%A8%E7%BB%A7%E7%BB%B3%EF%BC%9A%E7%A6%BB%E5%BC%80%E3%80%8A%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B%E3%80%8B%E6%80%BB%E7%BC%96%E5%B2%97%E4%BD%8D%E7%9A%84%E4%B8%A4%E5%B0%81/">博讯｜杨继绳：离开《炎黄春秋》总编岗位的两封公开信</a></p></blockquote>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E5%B7%9E%EF%BD%9C-%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B%E5%90%8D%E5%AD%98%E5%AE%9E%E4%BA%A1-%E9%80%BC%E9%80%80%E6%9D%A8%E7%BB%A7%E7%BB%B3%E5%A4%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9C%E5%AF%BC%E6%AD%A3/?category=18271" rel="tag">杜导正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -933,7 +962,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1sgqo4nbh3dh7.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3exa92796wh5e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -943,5 +972,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88
                 <td></td>
                 
         
-        <td><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1sgqo4nbh3dh7.cloudfront.net">https://d1sgqo4nbh3dh7.cloudfront.net</a><br/></td>    </tr>
 </table>

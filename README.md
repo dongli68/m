@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1n0txxzlxwshj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24ely8w6sy7b.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1n0txxzlxwshj.cloudfront.net">https://d1n0txxzlxwshj.cloudfront.net</a><br/><a href="https://d24ely8w6sy7b.cloudfront.net">https://d24ely8w6sy7b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24ely8w6sy7b.cloudfront.net">https://d24ely8w6sy7b.cloudfront.net</a><br/><a href="https://d1n0txxzlxwshj.cloudfront.net">https://d1n0txxzlxwshj.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
@@ -667,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1n0txxzlxwshj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24ely8w6sy7b.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -677,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1n0txxzlxwshj.cloudfront.net">https://d1n0txxzlxwshj.cloudfront.net</a><br/><a href="https://d24ely8w6sy7b.cloudfront.net">https://d24ely8w6sy7b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24ely8w6sy7b.cloudfront.net">https://d24ely8w6sy7b.cloudfront.net</a><br/><a href="https://d1n0txxzlxwshj.cloudfront.net">https://d1n0txxzlxwshj.cloudfront.net</a><br/></td>    </tr>
 </table>

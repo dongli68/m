@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3if2sorwls47e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tix8wfe1ud5j.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
@@ -457,7 +457,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%8F%91%E5%B8%83%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%AE%A4%E7%BD%AA%E8%A8%80%E8%AE%BA/" target="cdt-mirror">BBC｜中国官媒发布维权律师“认罪”言论</a>
 </h2>
@@ -677,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/></td>    </tr>
 </table>

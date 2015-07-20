@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E8%8A%B1%E6%9C%A8%E5%85%B0%E7%9A%84%E7%A2%B0%E7%93%B7%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">阑夕 | 几点看法：关于花木兰的碰瓷事件</a>
+</h2>
+<p><p>1、继中国木兰文化研究中心状告相声演员贾玲在表演时“恶搞巾帼英雄花木兰、严重伤害国人感情”之后，中国道教协会权益保护委员会也公开发文，谴责陈凯歌导演的电影《道士下山》“肆意丑化道士形象”。这是一个把段子手逼至绝境的荒诞年代，一切穷极想象才能构思出来的滑稽剧情在隔日之后就变成了现实。</p>
+<p>2、中国木兰文化研究中心属于民间组织，中国道教协会则挂靠在国家宗教事务局底下，二者伺机闻风而动，均受中国广宣阵线的宏观政策影响。众所周知，“掌握文明的话语权”，是本届草根国师揣测圣意应运而生的主张，其具体含义就是反对所谓的“历史虚无主义”，将一切有可能冲击家国及民族理论的区域设置禁区，用“盖棺定论”的方式来解决演绎噪声。</p>
+<p>3、因而有了自上而下的曲意承迎，核心领域显然是在意识形态这个被称为“网络上甘岭”之处。质疑邱少云，就是不懂“军人生理学”，而试图证伪英雄史迹，就是“不知哪里来的胆子”（出自军报原文），恩威并施的抹杀争议，就是这场保卫运动的最终目的。而花木兰和道教这对活宝借机蹭了过来，虽有稀释肃穆环境的不合时宜，却仍有着精细明察的机智，就像那张印有老街坊字样的律师名片一样，上层不见得欣赏，却也不太好方便一脚踢开它们。</p>
+<p>4、而贾玲出面道歉，和毕福剑事件的轨迹是一样的，与其说是诚恳认错，不如说是息事宁人，尤其是在中国这个民意汹涌刀枪不入的畸形社会，公众人物需要考量职业发展，不愿因小失大。</p>
+<p>5、由于在政治和经济的改革上呈现跛腿走路的趋势，因此中国民众对于权利的理解也变得割裂而吊诡，在消费遇到障碍时，挥舞钞票动辄抵制，成为一种十分热门的行为习惯，而商家乖乖低头强化服务，则成为了“顾客就是上帝”的最好诠释。但是在另一方面，在某些与自身利益可能关系更大的环境污染、饮食安全等事件上，缺少选票的民众又显得羊羔一般的逆来顺受，眼睁睁的看着因“三鹿事件”而被问责降职的官员纷纷茁壮复出。</p>
+<p>6、土壤肥料好坏，决定庄稼收成，拒绝普世价值，注定特立独行。当《查理周刊》因为嘲讽宗教而被恐怖分子血洗时，中国的舆论场合里也不乏各打五十大板的老好人：“虽说打打杀杀不对，但你屡教不改的伤害别人感情，也有错的”。少有人会扪心自问，若是将“情感伤害”上升到罪责层面，那么言语边界该会变得多么狭窄，在一个人人都要求他人认同自己价值的社会，没有一个人能够幸免无辜。</p>
+<p>7、2006年，美军士兵Matthew A. Snyder在伊拉克牺牲，他的遗体被运送回国举行葬礼。但是，一个极端浸信会组织WBC在他的葬礼附近，打出“感谢上帝杀死了你”、“同性恋摧毁美国”、“下地狱吧”等标语，Matthew的家人深感伤害，一怒之下起诉WBC。这起官司总计打了五年，一直打到联邦最高法院，最终，高院以八比一作出裁决，认为WBC的抗议行为合法，受美国宪法第一修正案的保护。</p>
+<p>8、二十余家主流美国媒体均关注该案结果，亦在裁决生效之后，发布联署声明，支持WBC的表达权利，同时认为WBC的表达方式“过于恶心”。这个结果相当完整的证明了法制社会的态度，一个人或是组织的言论令人厌恶，与其是否就应当被强令噤声，是完全不同的两件事情，法庭亦无权为人们捍卫“情感”立场。</p>
+<p>9、我们应当警惕的是，这种打着“为历史正名”的旗帜、实际上却是在将主旋律侵入更大面积的文化领土的运动，如果无限扩大下去，中国的未来距离样板戏、忠字舞以及思想审查的返祖历史就会无限接近。</p>
+<p>10、真理愈辩愈明，不让辩的，必然不是真理。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E8%8A%B1%E6%9C%A8%E5%85%B0%E7%9A%84%E7%A2%B0%E7%93%B7%E4%BA%8B%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90/?category=18271" rel="tag">恐怖分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E6%9C%A8%E5%85%B0/?category=18271" rel="tag">花木兰</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 23分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AE%B2%E5%BC%A0-%E4%BA%BA%E7%94%9F%E5%BD%93%E7%84%B6%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E6%95%99%E8%AE%AD%E5%82%BB%E9%80%BC%E7%9A%84/" target="cdt-mirror">讲张 | 人生当然不是用来教训傻逼的</a>
+</h2>
+<p><p>我早就说过，抹黑的手法有很多种，揭露私生活只是其中一种。</p>
+<p>还有一种是隐秘的文字导向。其主要目的就是将被抹黑者导向非主流或不道德的境地。</p>
+<p>比如说吧，说某个律师没有执业资格，意味着他可能不是律师。但实际情形，往往不过是没有通过年审而已。没有通过年审的优秀律师其实很多，最近几年尤其多。</p>
+<p>就像昨晚人日新华喉舌联合署名发表的关于刘四新先生的文字，说他“具有法学背景”，而实际上，刘博士是北大刑法学博士，在浙大做过经济法博士后研究，另外，还是政法大学硕士，在美国也取得过国际法硕士学位。</p>
+<p>如此高大上的学历背景，黄、邹两位喉舌自然不会涉及。一旦涉及，等于是为对方作正面宣传。</p>
+<p>至于刘博士为“刑满释放人员”，其来龙去脉也不难搞清。实乃冲冠一怒为妻子，反被人诬陷而已。</p>
+<p>但是一般读者哪里会管得了那么多？一看到“刑满释放”、“没有执业资格”等词汇，就认定此人不是“好人”（多么淳朴的二分法），会先入为主地。</p>
+<p>对于高学历人士，抹黑手法当然无法从学历上着手。但是对于一些草根精英，则此招必用。如对于福建吴先生，则强调其“初中学历”。</p>
+<p>“初中学历”是一种什么概念？等于只念完了九年制义务教育阶段的课程。一般读者很容易将此符号与他们所熟知的一些身边小混混等同起来。</p>
+<p>大家回想一下，身边是否有一些同学初中毕业即跑出去“混社会”了？</p>
+<p>“初中学历”意味着更多。比如脑子愚蠢，比如不思进取，比如无心学业，比如打架斗殴，比如偏离主流，比如渴望出人头地，比如也许不择手段……这类联想是无止境的。</p>
+<p>一句话，在不露声色的号称“新闻真实”的叙述中，媒体已经将被抹黑对象导向了道德上充满瑕疵的境地。</p>
+<p>只要花一点时间，这些抹黑手段是极易识别的。至于有人跟着央视、人日和新华起舞，附和或配合抹黑，则一来是信息被垄断之故，二来，也足可证明此人太懒脑子少根筋。</p>
+<p>对这类人士，我的看法是如果你了解其心性，熟悉其一般为人，判断其属于临时性拎不清，则可以稍加解释一番；对那种明显恶意的傻逼或水军，则大可置之不理，或痛骂一顿了事。</p>
+<p>当然，也许你更需要动动手指，转发一些你所确认的事实和真相。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AE%B2%E5%BC%A0-%E4%BA%BA%E7%94%9F%E5%BD%93%E7%84%B6%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E6%95%99%E8%AE%AD%E5%82%BB%E9%80%BC%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E9%BB%91/?category=18271" rel="tag">抹黑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">职业资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AC%E9%99%B7/?category=18271" rel="tag">诬陷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7/?category=18271" rel="tag">道德</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋报道的中英版内容对照</a>
 </h2>
 <p><p>2015年7月18日，人民日报与新华社记者发表了一篇联合报道，详细描述了北京市锋锐律师事务所主任周世锋日前认罪忏悔的内容。这是继央视焦点访谈播出所谓曝光“’维权圈’幕后推手”节目后，官媒对周世锋、王宇等维权律师进行的又一次“媒体审判”。</p>
@@ -666,80 +711,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%BA%B9%E9%9C%87%E5%8D%87%E4%BB%BB%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF/" target="cdt-mirror">共产党新闻网｜庹震升任中宣部副部长</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2012/04/%E5%BA%B9-e1364275700882.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2012/04/%E5%BA%B9-e1364275700882.jpg" alt="一庹翔 • 南周新年献辞事件" width="369" height="450"></a><br><em>【编者注】庹震：前广东宣传部部长，草泥马语“<a href="http://chinadigitaltimes.net/chinese/2013/01/%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E7%B3%BB%E5%88%97%EF%BC%9A%E8%A2%AB%E5%BA%B9/">被庹</a>”出处，<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">南周新年献辞事件</a>始作俑者，人称“平南王”</em></p>
-<p>中国共产党新闻网北京7月17日电 （崔小粟）据中国作家协会主办的中国作家网消息，7月9日至10日，由中央宣传部和中国作家协会联合举办的“全国儿童文学创作出版座谈会”在京召开。中宣部副部长庹震等出席会议。据了解，这是庹震首次以中宣部副部长身份在媒体上公开亮相。此前，他担任广东省委常委、省委宣传部部长。</p>
-<p><strong>庹震同志简历</strong></p>
-<p>庹震，男，汉族，1959年9月生，河南方城人，1982年6月入党，1976年6月参加工作，武汉大学经济系政治经济学专业毕业，大学学历，高级记者。</p>
-<p>1976-1978年 河南省南阳县溧河公社插队知青</p>
-<p>1978-1982年 武汉大学经济系政治经济学专业学习</p>
-<p>1982-1986年 经济日报社总编室编辑</p>
-<p>1986-1988年 经济日报社工交部副主任</p>
-<p>1988-1992年 经济日报社记者部副主任（其间：1992.04- 1992.09挂任河北省保定地区涿州市副市长）</p>
-<p>1992-1993年 经济日报社记者部代主任</p>
-<p>1993-1996年 经济日报社记者部主任</p>
-<p>1996-1996年 经济日报社编委会委员、记者部主任</p>
-<p>1996-2005年 经济日报社副总编辑（其间：1997.09-1997.11中央党校省部级干部进修班学习；2001.09- 2001.11中央党校省部级干部进修班学习）</p>
-<p>2005-2011年 经济日报社总编辑</p>
-<p>2011-2012年 新华社副社长、党组成员</p>
-<p>2012-2015年 广东省委常委、宣传部部长</p>
-<p>2015年7月- 中宣部副部长。</p>
-<p>第十届、十一届广东省委委员</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>清华秦鹏：好消息是，原广东省宣传部长庹震不再祸害广东了，坏消息是它升任副部长了。</p>
-<p>戏班小子-：要祸害全国了</p>
-<p>我要法网：从中国特色行政区广东省升到中国特色区总部了啊！</p>
-<p>LoveForever哩：戈培尔的门徒么？</p>
-<p>98年记：此人成功地把中国梦—宪政梦，做成了伟大的中国梦—永远梦！适合干宣传。</p>
-<p>余甚惑焉：你们总算明白点儿了吧？当年谁的意思？谁是后台？呵呵！</p>
-<p>paolo2011：中Xuan部下任部长人选，坨坨的了[衰]</p>
-<p>FreeiKen：包子粉们吃包子终于吃到包子馅儿了</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E4%B8%AD%E5%AE%A3%E9%83%A8%EF%BC%9A%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">中宣部：南周新年献辞事件</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912013%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%BA%B9%E7%BF%94/">【网络民议】2013年的第“一庹翔”</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%BA%B9%E9%9C%87%E6%94%B9%E5%86%99%E3%80%8A%E5%8D%97%E5%91%A8%E3%80%8B%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6%E7%9B%B8%E5%85%B3/">【敏感词库】庹震改写南周新年献辞事件相关 2013-1-3</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E6%88%B4%E5%BF%97%E5%8B%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%A2%A6%EF%BC%8C%E5%AE%AA%E6%94%BF%E6%A2%A6%EF%BC%88%E5%8D%97%E9%83%BD%E8%A2%AB%E5%88%A0%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%AF%8D%EF%BC%89/">戴志勇：中国梦 宪政梦（南周被删新年献辞） </a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/01/%E5%90%B4%E6%81%92%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E5%AF%B9%E3%80%8A%E5%8D%97%E5%91%A8%E3%80%8B%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%AF%8D%E7%9A%84%E9%98%85%E8%AF%BB%E7%90%86/">吴恒：一个语文老师对《南周》新年献词的阅读理解 </a></li>
-<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">南周新年献辞事件</a>专题</li>
-</ul></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2013/01/%E5%BA%B9%E5%B0%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/01/%E5%BA%B9%E5%B0%BA.jpg" alt="庹尺" width="426" height="187"></a><br><em>（“壹庹” by 变态辣椒）</em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%BA%B9%E9%9C%87%E5%8D%87%E4%BB%BB%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%83%A8%E9%95%BF/?category=18271" rel="tag">庹部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%85%9A%E7%9A%84%E6%9D%83%E5%88%A9%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%AC%B2/" target="cdt-mirror">德国之声｜党的权利与控制欲</a>
-</h2>
-<p><p>“时代在线”文章认为，中共正致力于建设一个方方面面均在管控之下的计划社会，然而该愿景前景黯淡。《法兰克福汇报》则称，比起“依法治国”，“借法治国”的说法在中国更为贴切。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018278636_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018278636_30300.jpg" alt="0,,18278636_303,00" width="575" height=""></a></p>
-<p>（德国之声中文网）德国”时代在线”7月15日一篇题为 <a href="http://www.zeit.de/politik/ausland/2015-07/china-plangesellschaft-xi-jinping" target="external" rel="nofollow">“控制一切”的文章</a>在开头写道，中国拥有世界水平的学者，这些学者却无法（不”翻墙”地）查询西方数据文献；中国讲究创新，然而新兴产业企业家大多拿着美国绿卡甚至护照；中国不乏满腔热情、自愿投身于治理贫困和环境污染问题的人，这些人却要因为害怕触犯新国安法而处处担心。</p>
-<p>“对于党和国家一把手习近平而言，这些并不矛盾。为了其在21世纪的统治，中共领导层想要的不是一个独立的公民社会，而是一个高效的、适应市场的计划社会。自2013年年初起，北京就一直朝着这个目标努力。”</p>
-<p>文章写道，中共领导层先将以民主制度、言论自由为首的”危险西方思想”列为大忌，然后为保障”意识形态安全”，开始肃清社交媒体–一些微博”大V”因”传播谣言”被捕、被判刑，很快学者和律师也面临充当”西方渗透”开路先锋的嫌疑。</p>
-<p>“依据中共最新决议，在一切社会组织和团体中建立党组。而凭借新出台的国安法，政府能以维护国家安全的名义，禁止IT、金融、环境等一切领域的公共活动。中央政府正在建设一个大规模的、对民众进行监控和分级的系统。”</p>
-<p>文章表示，这样一来，民众就只能在有限的空间里，进行对党国有利无害的活动。”相比其前任，以习近平为首的中共领导层更加注重有目的性地调动群众：他们对 那些具有强烈民族主义色彩的反日示威活动持宽容态度；他们也呼吁民众，举报腐败的官员–为此，中纪委新近还特别推出了一个智能手机应用程序。”</p>
-<p>中国政府”计划社会”的目标在很多领域都成功了，然而并非所有领域，文章这样写道。例如在新兴IT行业，尽管北京为发展该行业做出了很多努力，然而该行业 的企业家只愿意有保留地加入北京的计划。他们着眼全球市场，当然也使用”翻墙”软件和海外云服务。”他们表现得非常自信，称政府更依赖他们而不是倒过 来。”</p>
-<p>文章在最后写道，如果习近平这个”计划社会”的愿景失败，那么较好结果是如今自行成立的这些社会组织和团体成为一个独立、自主社会的基石；糟糕的结果则是社会原子化（中间组织的缺失而导致的人际疏离、道德解组的社会危机）和纯商业化的进一步加强。</p>
-<p>“如果这个愿景成功，那么向海外移民，或者为以遁世寻找精神寄托的人将会增加。毕竟，一个建设好的计划社会是否能够带来中国领导层所追求的创新、行动自主、社会互信、政治稳定，非常值得质疑。”</p>
-<p><b>“党的权利”</b></p>
-<p>《法兰克福汇报》本周五继续关注中国当局逮捕维权律师一事。文章以反问开头，质疑北京如何能一边将”依法治国”、打击腐败称为要务，一边逮捕那些为当事人在与可疑权贵抗争中伸张权利的律师？</p>
-<p>文章称，党媒《人民日报》向往常一样给出了答案。该报写道，这是公安部的一次大型行动，行动焦点北京锋锐律师事务所是专门寻衅滋事、破坏社会稳定的”重大犯罪团伙”。《环球时报》更是写道，这件事将有助于区分普通律师和律师里的”极端派”。</p>
-<p>“这件事触及问题核心。中国绝大多数司法学者、中国政府都没有将法律理解为个人权利。他们像公元前三世纪的中国法学者一样，更多将法律看作是是一种统治工具。”</p>
-<p>文章说，比起用”依法治国”来解读这个话题，”借法治国”的说法更为贴切。</p>
-<p>[摘编自其他媒体的内容，不代表德国之声观点]</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%85%9A%E7%9A%84%E6%9D%83%E5%88%A9%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%AC%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E6%B3%95/?category=18271" rel="tag">国安法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -761,5 +732,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d33m780rfkn99a.cloudfront.net">https://d33m780rfkn99a.cloudfront.net</a><br/><a href="https://d2hrhos2jw806n.cloudfront.net">https://d2hrhos2jw806n.cloudfront.net</a><br/><a href="https://dekjf1y8bec7s.cloudfront.net">https://dekjf1y8bec7s.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>

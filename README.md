@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dkym6hrckr72h.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iozzb1m9b94c.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dkym6hrckr72h.cloudfront.net">https://dkym6hrckr72h.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://djieg0onof9xg.cloudfront.net">https://djieg0onof9xg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://dkym6hrckr72h.cloudfront.net">https://dkym6hrckr72h.cloudfront.net</a><br/><a href="https://djieg0onof9xg.cloudfront.net">https://djieg0onof9xg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BC%9A%E5%9B%BD%E4%BC%81%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5%E6%B7%A1%E8%96%84-%E9%A2%86%E5%AF%BC%E5%BD%93%E8%87%AA/" target="cdt-mirror">【异闻观止】中纪委：国企党的观念淡薄 领导当自己是老板</a>

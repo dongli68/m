@@ -42,7 +42,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90/?category=18271" rel="tag">恐怖分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E6%9C%A8%E5%85%B0/?category=18271" rel="tag">花木兰</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AE%B2%E5%BC%A0-%E4%BA%BA%E7%94%9F%E5%BD%93%E7%84%B6%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E6%95%99%E8%AE%AD%E5%82%BB%E9%80%BC%E7%9A%84/" target="cdt-mirror">讲张 | 人生当然不是用来教训傻逼的</a>
 </h2>

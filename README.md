@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2q927kn2kdksu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28ikyaoz30cfk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/><a href="https://d103ye7xx9df1o.cloudfront.net">https://d103ye7xx9df1o.cloudfront.net</a><br/><a href="https://d28ikyaoz30cfk.cloudfront.net">https://d28ikyaoz30cfk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28ikyaoz30cfk.cloudfront.net">https://d28ikyaoz30cfk.cloudfront.net</a><br/><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/><a href="https://d103ye7xx9df1o.cloudfront.net">https://d103ye7xx9df1o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E8%8A%B1%E6%9C%A8%E5%85%B0%E7%9A%84%E7%A2%B0%E7%93%B7%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">阑夕 | 几点看法：关于花木兰的碰瓷事件</a>
@@ -67,7 +67,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E9%BB%91/?category=18271" rel="tag">抹黑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">职业资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AC%E9%99%B7/?category=18271" rel="tag">诬陷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7/?category=18271" rel="tag">道德</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋报道的中英版内容对照</a>
 </h2>
@@ -732,5 +732,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
                 <td></td>
                 
         
-        <td><a href="https://d28ikyaoz30cfk.cloudfront.net">https://d28ikyaoz30cfk.cloudfront.net</a><br/><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/><a href="https://d103ye7xx9df1o.cloudfront.net">https://d103ye7xx9df1o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28ikyaoz30cfk.cloudfront.net">https://d28ikyaoz30cfk.cloudfront.net</a><br/><a href="https://d103ye7xx9df1o.cloudfront.net">https://d103ye7xx9df1o.cloudfront.net</a><br/><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/></td>    </tr>
 </table>

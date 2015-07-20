@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2q927kn2kdksu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28ikyaoz30cfk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/><a href="https://d28ikyaoz30cfk.cloudfront.net">https://d28ikyaoz30cfk.cloudfront.net</a><br/><a href="https://d103ye7xx9df1o.cloudfront.net">https://d103ye7xx9df1o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28ikyaoz30cfk.cloudfront.net">https://d28ikyaoz30cfk.cloudfront.net</a><br/><a href="https://d103ye7xx9df1o.cloudfront.net">https://d103ye7xx9df1o.cloudfront.net</a><br/><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E8%8A%B1%E6%9C%A8%E5%85%B0%E7%9A%84%E7%A2%B0%E7%93%B7%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">阑夕 | 几点看法：关于花木兰的碰瓷事件</a>

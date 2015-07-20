@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31xrre12bakm4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2qiv2w103sxva.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1smqm1s4tt6bs.cloudfront.net">https://d1smqm1s4tt6bs.cloudfront.net</a><br/><a href="https://d2qiv2w103sxva.cloudfront.net">https://d2qiv2w103sxva.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2qiv2w103sxva.cloudfront.net">https://d2qiv2w103sxva.cloudfront.net</a><br/><a href="https://d1smqm1s4tt6bs.cloudfront.net">https://d1smqm1s4tt6bs.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E6%BB%95%E5%BD%AA%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%95%87%E5%8E%8B%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%BE%8B%E5%B8%88%E4%BB%AC/" target="cdt-mirror">博谈网 | 滕彪：在中国镇压不住的律师们</a>
@@ -679,7 +679,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2qiv2w103sxva.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1smqm1s4tt6bs.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -689,5 +689,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d2qiv2w103sxva.cloudfront.net">https://d2qiv2w103sxva.cloudfront.net</a><br/><a href="https://d1smqm1s4tt6bs.cloudfront.net">https://d1smqm1s4tt6bs.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1smqm1s4tt6bs.cloudfront.net">https://d1smqm1s4tt6bs.cloudfront.net</a><br/><a href="https://d2qiv2w103sxva.cloudfront.net">https://d2qiv2w103sxva.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/></td>    </tr>
 </table>

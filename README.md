@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tix8wfe1ud5j.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dq7nd0ix0hst8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,23 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
+</h2>
+<p><p>新华网北京7月20日电 7月20日，中共中央政治局会议审议并通过中共中央纪律检查委员会《关于令计划严重违纪案的审查报告》，决定给予令计划开除党籍、开除公职处分，对其涉嫌犯罪问题及线索移送司法机关依法处理。</p>
+<p>根据中央纪委、最高人民检察院、公安部在查办案件中发现的线索，2014年12月22日，中央政治局常委会召开会议，决定对令计划立案审查。</p>
+<p>经查，令计划严重违反党的政治纪律、政治规矩、组织纪律、保密纪律；利用职务便利为多人谋取利益，本人或通过家人收受巨额贿赂；违纪违法获取党和国家大量核心机密；严重违反廉洁自律规定，本人及其妻收受他人钱物，为其妻经营活动谋取利益；与多名女性通奸，进行权色交易；对亲属利用其职务影响力敛财牟利负有重要责任。调查中还发现令计划其他涉嫌犯罪线索。令计划的行为完全背离了党的性质和宗旨，严重违反党的纪律，极大损害党的形象，社会影响极其恶劣。</p>
+<p>2015年7月20日，中央政治局会议审议并通过中央纪委《关于令计划严重违纪案的审查报告》，根据《中国共产党纪律处分条例》，参照《行政机关公务员处分条例》的有关规定，决定给予令计划开除党籍、开除公职处分，将令计划涉嫌犯罪问题及线索移送司法机关依法处理。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80/?category=18271" rel="tag">中央政治局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E6%BB%95%E5%BD%AA%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%95%87%E5%8E%8B%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%BE%8B%E5%B8%88%E4%BB%AC/" target="cdt-mirror">博谈网 | 滕彪：在中国镇压不住的律师们</a>
 </h2>
 <p><p>（博谈网记者赵亮编译）7月9日凌晨3点左右，维权律师王宇被从北京的家中绑架走。她的丈夫、人权活动人士包龙军也被消失了。王宇是中国的著名律师：她曾代理过因参与人权活动被拘押、在拘押期间被拒绝就医而死亡的曹顺利、被不公正地判处终身监禁的维族学者伊力哈木·土赫提及抗议组织者吴淦。自王宇被捕以来的这些日子里，数十名维权律师和其他人被绑架、逮捕或失踪；包括那些被短暂拘押及被警告的人，这次扫荡针对24个省份200多人。</p>
@@ -642,32 +656,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%89%93%E5%8E%8B%E5%AA%92%E4%BD%93%E8%80%85%E4%BB%95%E9%80%94%E7%95%85%E9%80%9A/" target="cdt-mirror">德国之声｜长平：打压媒体者仕途畅通</a>
-</h2>
-<p><p>南方周末新年献词事件抗议对象庹震调任中宣部副部长。时评人长平认为，这是当局强化舆论控制的又一个例证。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2013/01/b33443b3jw1e0kt7lij5ej.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/01/b33443b3jw1e0kt7lij5ej.jpg" alt="网友所献菊花" width="375" height="500"></a><br>
-（<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">南周新年献辞事件</a>发生后，网民在南方报业楼前献上菊花以示抗议）</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%BA%B9%E9%9C%87%E5%8D%87%E4%BB%BB%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF/">共产党新闻网｜庹震升任中宣部副部长</a></p></blockquote>
-<p>（德国之声中文网）尽管戈培尔的名言”谎言重复千遍即是真理”、奥威尔《1984》里描述的真理部都臭名昭著，但是中共宣传部还没有得到应有的重视，其副 部长职位调整几乎无人问津。庹震先生是一个例外。在他任职之前，网络上就有消息传播。最近媒体从一则官方会议消息中发现，他的头衔的确改变了，从此前的中 共广东省委宣传部长变成了中宣部副部长。</p>
-<p>庹震先生之所以引人注目，是因为2013年发生了轰动一时的南方周末新年献词修改事件。新年献词是这份知名报纸一年一度表达立场和情怀的传统产品，曾经拥 有大量读者。宣传部门对此自然不会放过，审查越来越严格，到最后几乎对每一个字都反复探照，文章也越来越难写。2013年初始，南方周末编辑部就当年的新 年献词被修改得体无完肤表达集体抗议，引发了来自全社会的街头及网络抗议活动，抗议矛头指向中共体制下的新闻审查，呼吁言论自由。当时的广东省委宣传部部 长，正是庹震先生。</p>
-<p>一度传言庹震亲自捉笔删改社论，但后来官方媒体称事实并非如此。尽管如此，他上任之后严格执行宣传审查制度，甚至令媒体人感到更加窒息，却是不争的事实。因此，要求他下台谢罪，是那场抗议活动的诉求之一。</p>
-<p>那是一场自1989年以后中国难得一见的针对新闻审查的公开抗议。抗议的结果，不仅庹震没有下台，总编没有辞职，而且一位反水揭露审查黑幕的审读员被辞退（并于离职数日后酒醉致死），南方周末编辑部遭致更多打压，南方集团诸多优秀编辑记者被逼离职。</p>
-<p>此事件中街头抗议的主要参与者、著名人权活动家杨茂东（网名郭飞雄）和刘远东，则于2013年8月遭到抓捕，拘禁至今。有报道指称，南方报业传媒集团做出了对二人不利的证词，称他们的行为”满足聚众扰乱公共场所秩序罪的后果要件”。</p>
-<p>抗议的主要对象庹震显然打压立功，管制有方，受到高层肯定，不仅毫毛未损，反而仕途畅通，终于调任中央。</p>
-<p><b>规模空间的媒体打压仍在继续</b></p>
-<p>回顾习近平上台之后对媒体及网络的严格管制，这并不让人感到意外，不过是当局空前强化舆论控制的又一个例证而已。2010年底，我因为撰写批评当局的时评 文章，被迫从南方报业集团离职。据媒体报道，幕后指挥者是曾经多次亲赴广东打压媒体的宣传部副部长蔡名照。如今蔡名照已出任中共最大宣传喉舌新华社社长。 人权律师浦志强曾经多次为被打压的媒体及媒体人辩护，如今他被冠以莫须有的罪名，身陷囹圄。</p>
-<p>一份在网络传播的最新中央宣传工作会议文件称，必须坚持媒体的”喉舌论”，即”在中国的媒体，不管是传统纸媒还是新媒体，都应当是党的喉舌”，”今后不能 允许反马列毛言论公开地堂而皇之地在媒体上出现”。会议的重点是全面清理”新三反（反党、反国家、反民族立场）人员”，”这些人不能继续呆在媒体，不能从 事舆论宣传工作”，也”不能在高校从事新闻人才的培养”。</p>
-<p>值得注意的是，媒体证实庹震职务调动的消息来自中国作家协会主办的《中国作家网》，消息称在由中央宣传部和中国作家协会联合举办的”全国儿童文学创作出版 座谈会”上，庹震以中宣部副部长身份出席并讲话。中共洗脑从幼儿抓起，这并不是什么秘密。但是，那些不愿意参与甚至反感南周事件街头抗议活动的中产阶级， 恐怕从来没有想过庹震先生和自己孩子看的童书之间有什么关系。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2013/01/A_-vmEeCYAAhnw1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/01/A_-vmEeCYAAhnw1.jpg" alt="每朵菊花绽放力量" width="525" height="394"></a><br>
-（<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/">南周新年献辞事件</a>发生后，网民自发前去南方报业集团楼下抗议；图片来自新浪微博）</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%89%93%E5%8E%8B%E5%AA%92%E4%BD%93%E8%80%85%E4%BB%95%E9%80%94%E7%95%85%E9%80%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">南周新年献辞事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%83%A8%E9%95%BF/?category=18271" rel="tag">庹部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -689,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/></td>    </tr>
 </table>

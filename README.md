@@ -101,7 +101,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85/?category=18271" rel="tag">交通事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0/?category=18271" rel="tag">死亡人数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E/?category=18271" rel="tag">死亡证明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BE%E8%BD%A6/?category=18271" rel="tag">驾车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BE%E9%A9%B6/?category=18271" rel="tag">驾驶</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E6%96%87%E8%89%BA%E5%88%9B%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE-%E3%80%8A%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1%E3%80%8B%E8%A2%AB%E8%B0%B4%E8%B4%A3/" target="cdt-mirror">BBC | 文艺创作引争议 《道士下山》被谴责</a>
 </h2>

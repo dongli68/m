@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmo3wxpnwlexk.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wme9113v0bag.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
@@ -129,7 +129,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81/?category=18271" rel="tag">主持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AA%92/?category=18271" rel="tag">党媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96/?category=18271" rel="tag">文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">文艺工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1/?category=18271" rel="tag">道士下山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E6%95%99%E5%8D%8F%E4%BC%9A/?category=18271" rel="tag">道教协会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E6%AD%89/?category=18271" rel="tag">道歉</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E6%88%91%E7%A6%BB%E5%A4%A9%E5%AE%89%E9%97%A8%E5%BE%88%E8%BF%9C%EF%BC%8C%E6%88%91%E7%A6%BB%E5%85%AD%E5%9B%9B%E5%BE%88%E8%BF%91/" target="cdt-mirror">纵览中国｜我离天安门很远，我离六四很近</a>
 </h2>
@@ -175,7 +175,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BC%9A%E5%9B%BD%E4%BC%81%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5%E6%B7%A1%E8%96%84-%E9%A2%86%E5%AF%BC%E5%BD%93%E8%87%AA/" target="cdt-mirror">【异闻观止】中纪委：国企党的观念淡薄 领导当自己是老板</a>
 </h2>
@@ -655,7 +655,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/90%E5%90%8E/?categ
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -667,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmo3wxpnwlexk.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wme9113v0bag.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -677,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/></td>    </tr>
 </table>

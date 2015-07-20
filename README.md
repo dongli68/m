@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nlfnuz6gg3ol.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31xrre12bakm4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nlfnuz6gg3ol.cloudfront.net">https://d1nlfnuz6gg3ol.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1ss2rty8ef9f.cloudfront.net">https://d1ss2rty8ef9f.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1ss2rty8ef9f.cloudfront.net">https://d1ss2rty8ef9f.cloudfront.net</a><br/><a href="https://d1nlfnuz6gg3ol.cloudfront.net">https://d1nlfnuz6gg3ol.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E6%BB%95%E5%BD%AA%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%95%87%E5%8E%8B%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%BE%8B%E5%B8%88%E4%BB%AC/" target="cdt-mirror">博谈网 | 滕彪：在中国镇压不住的律师们</a>
@@ -197,7 +197,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90/?category=18271" rel="tag">恐怖分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E6%9C%A8%E5%85%B0/?category=18271" rel="tag">花木兰</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AE%B2%E5%BC%A0-%E4%BA%BA%E7%94%9F%E5%BD%93%E7%84%B6%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E6%95%99%E8%AE%AD%E5%82%BB%E9%80%BC%E7%9A%84/" target="cdt-mirror">讲张 | 人生当然不是用来教训傻逼的</a>
 </h2>
@@ -679,7 +679,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ss2rty8ef9f.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31xrre12bakm4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -689,5 +689,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1ss2rty8ef9f.cloudfront.net">https://d1ss2rty8ef9f.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1nlfnuz6gg3ol.cloudfront.net">https://d1nlfnuz6gg3ol.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1nlfnuz6gg3ol.cloudfront.net">https://d1nlfnuz6gg3ol.cloudfront.net</a><br/><a href="https://d1ss2rty8ef9f.cloudfront.net">https://d1ss2rty8ef9f.cloudfront.net</a><br/></td>    </tr>
 </table>

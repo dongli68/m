@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iuumsa3c87de.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1v7vfb27iecx3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3iuumsa3c87de.cloudfront.net">https://d3iuumsa3c87de.cloudfront.net</a><br/><a href="https://dwha80lyae1yk.cloudfront.net">https://dwha80lyae1yk.cloudfront.net</a><br/><a href="https://d1v7vfb27iecx3.cloudfront.net">https://d1v7vfb27iecx3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1v7vfb27iecx3.cloudfront.net">https://d1v7vfb27iecx3.cloudfront.net</a><br/><a href="https://d3iuumsa3c87de.cloudfront.net">https://d3iuumsa3c87de.cloudfront.net</a><br/><a href="https://dwha80lyae1yk.cloudfront.net">https://dwha80lyae1yk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E6%BB%95%E5%BD%AA%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%95%87%E5%8E%8B%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%BE%8B%E5%B8%88%E4%BB%AC/" target="cdt-mirror">博谈网 | 滕彪：在中国镇压不住的律师们</a>
@@ -161,7 +161,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BC%9A%E5%9B%BD%E4%BC%81%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5%E6%B7%A1%E8%96%84-%E9%A2%86%E5%AF%BC%E5%BD%93%E8%87%AA/" target="cdt-mirror">【异闻观止】中纪委：国企党的观念淡薄 领导当自己是老板</a>
 </h2>

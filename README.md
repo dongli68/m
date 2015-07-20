@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wme9113v0bag.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3if2sorwls47e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
@@ -36,7 +36,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80/?category=18271" rel="tag">中央政治局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E6%BB%95%E5%BD%AA%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%95%87%E5%8E%8B%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%BE%8B%E5%B8%88%E4%BB%AC/" target="cdt-mirror">博谈网 | 滕彪：在中国镇压不住的律师们</a>
 </h2>
@@ -175,7 +175,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BC%9A%E5%9B%BD%E4%BC%81%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5%E6%B7%A1%E8%96%84-%E9%A2%86%E5%AF%BC%E5%BD%93%E8%87%AA/" target="cdt-mirror">【异闻观止】中纪委：国企党的观念淡薄 领导当自己是老板</a>
 </h2>
@@ -667,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3if2sorwls47e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wme9113v0bag.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -677,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/></td>    </tr>
 </table>

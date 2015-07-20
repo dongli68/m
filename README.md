@@ -115,7 +115,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81/?category=18271" rel="tag">主持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AA%92/?category=18271" rel="tag">党媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96/?category=18271" rel="tag">文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">文艺工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1/?category=18271" rel="tag">道士下山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E6%95%99%E5%8D%8F%E4%BC%9A/?category=18271" rel="tag">道教协会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E6%AD%89/?category=18271" rel="tag">道歉</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E6%88%91%E7%A6%BB%E5%A4%A9%E5%AE%89%E9%97%A8%E5%BE%88%E8%BF%9C%EF%BC%8C%E6%88%91%E7%A6%BB%E5%85%AD%E5%9B%9B%E5%BE%88%E8%BF%91/" target="cdt-mirror">纵览中国｜我离天安门很远，我离六四很近</a>
 </h2>
@@ -222,7 +222,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E9%BB%91/?category=18271" rel="tag">抹黑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">职业资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AC%E9%99%B7/?category=18271" rel="tag">诬陷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7/?category=18271" rel="tag">道德</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋报道的中英版内容对照</a>
 </h2>
@@ -689,5 +689,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1nlfnuz6gg3ol.cloudfront.net">https://d1nlfnuz6gg3ol.cloudfront.net</a><br/><a href="https://d1ss2rty8ef9f.cloudfront.net">https://d1ss2rty8ef9f.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nlfnuz6gg3ol.cloudfront.net">https://d1nlfnuz6gg3ol.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1ss2rty8ef9f.cloudfront.net">https://d1ss2rty8ef9f.cloudfront.net</a><br/></td>    </tr>
 </table>

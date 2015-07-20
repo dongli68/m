@@ -24,6 +24,22 @@
         <td><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BC%9A%E5%9B%BD%E4%BC%81%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5%E6%B7%A1%E8%96%84-%E9%A2%86%E5%AF%BC%E5%BD%93%E8%87%AA/" target="cdt-mirror">【异闻观止】中纪委：国企党的观念淡薄 领导当自己是老板</a>
+</h2>
+<p><p>中新网7月20日电 中央纪委监察部网站今日刊登《推动国有企业从严治党之二加强党的领导是头等大事》一文，文章指出，巡视过程中发现国企党建工作排不上号具有普遍性，党的观念淡漠导致企业领导把自己混同于“老板”，坐商务机、比阔气，其行事风格与共产党的理想信念宗旨风马牛不相及。</p>
+<p>文章称，巡视央企发现的问题，从根本上讲是党的领导弱化，主体责任缺失，管党治党不严，党的路线方针政策未能得到有效贯彻。问题的症结还是在于企业党组织自身。在国企，党建工作排不上号具有普遍性，有的党组织从不研究党建工作，党务部门变成养老、安置干部的地方；有的把党管干部原则抛到一边，研究干部召开党政联席会，甚至以董事会取代党委会。</p>
+<p>党的观念淡漠，导致企业领导把自己混同于“老板”，坐商务机、比阔气，其行事风格与共产党的理想信念宗旨风马牛不相及。有的干部颠倒了个人和组织的关系，认为成绩都是自己干出来的，忘记了首先是党给的机遇和信任；有的干部严重违纪违法，在被查处后反思说，自己基本上没有党的观念，没开过一次党的会，从来没感觉到身边还有党组织存在。这么大一份国有资产的家当，党任命的干部，竟然感觉不到党组织的存在。不难想象，党的领导干部离开了信念和忠诚，离开了纪律和监督，企业发展必然会迷失方向，必然要出大问题！</p>
+<p>文章表示，在国企深化改革过程中，必须旗帜鲜明地加强党的领导，而不能削弱党的领导，更不能放弃党的领导。无论是深化改革，还是加强监管，都必须在党的领导下进行，对这一条决不能含含糊糊、遮遮掩掩。在中国，离开了党的领导，就不叫央企、不叫国有企业。国企负责人哪个不是先接到党内职务的任命，然后才接到其他任命，履行公司董事会那一套手续。国企负责人不能只管人事、资金和项目，忘了自己是党员、是党的干部，首先要履行管党治党的职责，把国有企业党的建设鲜明地抓起来。对这个问题，上级党组织要讲清楚，企业党员领导干部自己也要认识清楚。</p>
+<p>加强国有企业党的领导，要体现在实实在在的行动上。党的领导是具体的，有程序保障，也有内容要求，依据就是党章党规党纪和党的理想信念宗旨、路线方针政策。国有企业领导干部不能把“团结在党中央周围”当空话、套话，不能把加强党的领导与企业发展对立起来。不折不扣贯彻党的路线方针政策，这句话有着丰富内涵，必须仔细琢磨、真正领悟、坚决落实。央企要切实解决好巡视发现的问题，深入研究加强党的建设的具体措施，以高的标准、严的要求，建好班子、配好干部、抓好队伍。说一千道一万，就是要把党的领导真正体现出来，保证国有企业发展的正确方向。</p>
+<p>在中国，事事离不开中国共产党这个领导核心。国有企业发展关乎国民经济命脉，必须体现党的领导这个中国特色社会主义的最本质特征，保证企业在正确的轨道上健康发展，不断满足人民群众日益增长的物质和精神文化需求。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BC%9A%E5%9B%BD%E4%BC%81%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5%E6%B7%A1%E8%96%84-%E9%A2%86%E5%AF%BC%E5%BD%93%E8%87%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5/?category=18271" rel="tag">党的观念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">党的领导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">领导核心</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E8%8A%B1%E6%9C%A8%E5%85%B0%E7%9A%84%E7%A2%B0%E7%93%B7%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">阑夕 | 几点看法：关于花木兰的碰瓷事件</a>
 </h2>
 <p><p>1、继中国木兰文化研究中心状告相声演员贾玲在表演时“恶搞巾帼英雄花木兰、严重伤害国人感情”之后，中国道教协会权益保护委员会也公开发文，谴责陈凯歌导演的电影《道士下山》“肆意丑化道士形象”。这是一个把段子手逼至绝境的荒诞年代，一切穷极想象才能构思出来的滑稽剧情在隔日之后就变成了现实。</p>
@@ -687,27 +703,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E5%8E%9F%E5%88%9B-%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E5%A4%A9%E5%9B%A2%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%EF%BC%9F/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96/?category=18271" rel="tag">中国文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">习主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">集体主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E7%BE%8E%E4%B9%90%E9%98%9F%E5%8F%96%E6%B6%88%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%EF%BC%9A%E7%96%91%E6%B6%89%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E6%8E%A8%E6%96%87/" target="cdt-mirror">BBC｜美乐队取消上海演唱：疑涉达赖喇嘛推文</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Jesse-Carmichael.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Jesse-Carmichael.png" alt="Jesse Carmichael" width="550" height=""></a><p>Maroon 5乐队键盘手Jesse Carmichael推文（谷歌缓存）截图</p></div>
-<p>美国当红乐队魔力红（Maroon 5）原定于今年9月12号的全球巡回演唱会上海站因故取消。</p>
-<p>此次演唱会上海主办方莱音商务咨询（上海）有限公司通过其官网微博“LiveNationChina”于周四（7月16日）发布了取消通知。</p>
-<p>BBC中文网向上海市文化广播影视管理局市场处求证此事时，电话处于忙线状态，无人接听。上海市文广局负责管理上海市的重大文化活动。</p>
-<p>记者在魔力红（Maroon 5）官网搜索其9月亚洲演出场次时，上海站并不在列。但9月4号香港，9月14号台湾和 9月19号新加坡场次正常售票。</p>
-<p>网友“子渂哥咯”评论道：“我不喜欢魔力红了（政治原因，国家利益高于一切）”。 网友“阿辉小宝”则认为：“唱歌的不好好唱歌瞎参和什么啊！”</p>
-<p>魔 力红（Maroon 5）是一支来自美国洛杉机的摇滚乐队。2005年，乐队凭借专辑《Songs About Jane》摘下了第47届格莱美最佳新人奖（The Grammy Award for Best New Artist）。此奖项是格莱美奖中颁发给前一年内获得突出成就的乐坛新人的奖项。</p>
-<p>美国有线电视新闻网络（CNN）报道，其乐队成员杰西·卡麦可（Jesse Carmichael）于7月4号在美国流行社交网站推特上发表推文祝中国西藏精神领袖达赖喇嘛生日快乐。BBC中文网在推特上查证发现，原推文已被删除，但网上仍有此推文的<a href="http://webcache.googleusercontent.com/search?q=cache:e0hos9eGWJcJ:https://twitter.com/JRCarmichael/status/617498561983463424+&cd=1&hl=en&ct=clnk&gl=hk">截图</a>。</p>
-<p>达赖喇嘛近期参加了印度，英国和美国为其举办的庆生活动。美国总统奥巴马高级顾问贾瑞特7月10号在纽约参加达赖80岁“庆生”活动。</p>
-<p>中国外交部发言人华春莹于周一（7月13日）答记者问时表示，美方不顾中方多次交涉，执意安排高官与达赖进行接触，中方对此表示强烈不满和坚决反对。</p>
-<p>（撰稿：觅云/责编：萧尔）</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E7%BE%8E%E4%B9%90%E9%98%9F%E5%8F%96%E6%B6%88%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%EF%BC%9A%E7%96%91%E6%B6%89%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E6%8E%A8%E6%96%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>

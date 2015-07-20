@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3if2sorwls47e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmo3wxpnwlexk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
@@ -157,7 +157,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%99%BD%E9%9D%9E%EF%BC%9A%E4%B9%A0%E7%8E%8B%E4%BD%93%E5%88%B6%EF%BC%9F/" target="cdt-mirror">东网｜白非：习王体制？</a>
 </h2>
@@ -667,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wme9113v0bag.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmo3wxpnwlexk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -677,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/></td>    </tr>
 </table>

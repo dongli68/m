@@ -157,7 +157,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%99%BD%E9%9D%9E%EF%BC%9A%E4%B9%A0%E7%8E%8B%E4%BD%93%E5%88%B6%EF%BC%9F/" target="cdt-mirror">东网｜白非：习王体制？</a>
 </h2>
@@ -667,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dq7nd0ix0hst8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tix8wfe1ud5j.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -677,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/></td>    </tr>
 </table>

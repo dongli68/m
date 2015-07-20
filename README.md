@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3if2sorwls47e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dq7nd0ix0hst8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
@@ -101,7 +101,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85/?category=18271" rel="tag">交通事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0/?category=18271" rel="tag">死亡人数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E/?category=18271" rel="tag">死亡证明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BE%E8%BD%A6/?category=18271" rel="tag">驾车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BE%E9%A9%B6/?category=18271" rel="tag">驾驶</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E6%96%87%E8%89%BA%E5%88%9B%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE-%E3%80%8A%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1%E3%80%8B%E8%A2%AB%E8%B0%B4%E8%B4%A3/" target="cdt-mirror">BBC | 文艺创作引争议 《道士下山》被谴责</a>
 </h2>
@@ -667,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tix8wfe1ud5j.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3if2sorwls47e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -677,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3if2sorwls47e.cloudfront.net">https://d3if2sorwls47e.cloudfront.net</a><br/><a href="https://dq7nd0ix0hst8.cloudfront.net">https://dq7nd0ix0hst8.cloudfront.net</a><br/><a href="https://d2tix8wfe1ud5j.cloudfront.net">https://d2tix8wfe1ud5j.cloudfront.net</a><br/></td>    </tr>
 </table>

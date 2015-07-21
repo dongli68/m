@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dn7tgit2yqu6y.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dn7tgit2yqu6y.cloudfront.net">https://dn7tgit2yqu6y.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dn7tgit2yqu6y.cloudfront.net">https://dn7tgit2yqu6y.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313/" target="cdt-mirror">博谈网｜《朝日新闻》社论：习打压人权律师损害13亿中国人</a>
@@ -417,7 +417,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E9%BB%91/?category=18271" rel="tag">抹黑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">职业资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AC%E9%99%B7/?category=18271" rel="tag">诬陷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7/?category=18271" rel="tag">道德</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋报道的中英版内容对照</a>
 </h2>
@@ -604,7 +604,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31xrre12bakm4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1xtm9uth1jep.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -614,5 +614,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://dmo3wxpnwlexk.cloudfront.net">https://dmo3wxpnwlexk.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d31xrre12bakm4.cloudfront.net">https://d31xrre12bakm4.cloudfront.net</a><br/></td>    </tr>
 </table>

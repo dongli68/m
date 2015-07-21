@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1lbj3j02zx4av.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3j2k1sdebxutj.cloudfront.net">https://d3j2k1sdebxutj.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3j2k1sdebxutj.cloudfront.net">https://d3j2k1sdebxutj.cloudfront.net</a><br/><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d3rs6ik85dyjcv.cloudfront.net">https://d3rs6ik85dyjcv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90%EF%BC%9A%E9%9A%8F%E6%89%8Bx%E5%A4%A7%E4%BD%BF%E9%A6%86/" target="cdt-mirror">【河蟹档案】染香姐姐：随手X大使馆</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%87%A4%E5%87%B0%E6%80%9D%E7%BB%B4">凤凰思维</a>：【历史大倒退】想当年薄熙来抓了一个李庄，全国舆论像炸开了锅。现在抓一个律师再也不用费心构陷什么教唆伪证了，它们直接修改了刑律，律师只要较真，随时随地面临牢狱之灾。薄熙来周永康不是都倒台了吗？这法治的倒退为什么就刹不住车还在加速呢？！难道它们是一伙的？<br><a href="https://freeweibo.com/weibo/3865909863233557" target="/weibo/386">2015年07月18日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B1%9F%E8%8D%A3%E7%94%9F">江荣生</a>：一个朋友是长春某厂管理人员，前几天有幸被安排习总握手之列，问：是不是组织安排的，答：政审、外调，搞了一个星期！//<a href="https://freeweibo.com/weibo/%40%E8%B5%B5%E5%85%8B%E7%BD%97">@赵克罗</a>:千万不要洗握过的手！相关阅读｜《<a href="http://news.eastday.com/c/20150720/u1a8803575.html">盘点：习近平在吉林考察 和百姓聊了什么？</a>》<br><a href="https://freeweibo.com/weibo/3866244534560535" target="/weibo/386">2015年07月19日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%B6%E6%99%AF%E6%B4%B2">陶景洲</a>：这种微博都不安全？<a href="https://freeweibo.com/weibo/%40%E5%88%98%E8%80%98%E5%8D%9A%E5%A3%AB">@刘耘博士</a>  相关阅读｜《<a href="http://baike.baidu.com/subview/3248536/10383442.htm">百度百科：刘耘（原长沙学院院长现海口经济学院院长）</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11118.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11118.jpg" alt="111" width="359" height="639"></a><br><a href="https://freeweibo.com/weibo/3866602020230301" target="/weibo/386">2015年07月20日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%87%8A%E4%B8%8D%E5%BD%92">释不归</a>：此女网名<a href="https://freeweibo.com/weibo/%40%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90">@染香姐姐</a> ，曾任南方报业集团凯迪网络版主，居住地番禺，11年后处无业状态，13年初为南方系元旦事件一举成名，这是她发出的最新图片。欢迎网友举报。相关阅读｜《<a href="http://www.boxun.com/news/gb/china/2014/10/201410150027.shtml#.Va4CJpNViko">博讯｜凯迪版主染香姐姐从泰国逃亡美国的过程</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11113.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11113.jpg" alt="111" width="402" height="714"></a></p>
+<blockquote><p>相关视频：</p><p><a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90%EF%BC%9A%E9%9A%8F%E6%89%8Bx%E5%A4%A7%E4%BD%BF%E9%A6%86/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3864865728651049" target="/weibo/386">2015年07月15日</a></blockquote>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B8%85%E5%8D%8E%E7%A7%A6%E9%B9%8F">清华秦鹏</a>：好消息是，原广东省宣传部长庹震不再祸害广东了，坏消息是它升任副部长了。[挖鼻] 相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/zhengzhi/yf2-07172015100758.html">RFA｜整肃“南周”核心人物庹震调任中宣部副部长</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%BA%B9%E9%9C%87%E5%8D%87%E4%BB%BB%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF/">共产党新闻网｜庹震升任中宣部副部长</a>》</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11112.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11112.jpg" alt="111" width="372" height="662"></a><br><a href="https://freeweibo.com/weibo/3865589464601283" target="/weibo/386">2015年07月17日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%A9%AC%E5%85%8B%E6%80%9D%E7%B2%89%E4%B8%9D2">马克思粉丝2</a>：分享图片这又咋了？？[群体围观][群体围观][群体围观][群体围观][群体围观] 相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">数字时代｜维权律师大抓捕专题</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11111.jpg" alt="111" width="600" height="417"></a><br><a href="https://freeweibo.com/weibo/3865717063025554" target="/weibo/386">2015年07月17日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%A5%BF%E7%A7%A6%E7%8B%BC%E5%85%AD">西秦狼六</a>：分享图片<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11115.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11115.jpg" alt="111" width="397" height="464"></a><br><a href="https://freeweibo.com/weibo/3864549608653476" target="/weibo/386">2015年07月14日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%AE%B8%E5%90%88%E6%96%87">许合文</a>：中国的人权<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11116.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11116.jpg" alt="111" width="524" height="352"></a><br><a href="https://freeweibo.com/weibo/3866243226752196" target="/weibo/386">2015年07月19日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%9C%E5%B2%B3%E6%99%9A%E6%99%B4">东岳晚晴</a>：【感觉恐怖】在一个随时都会被以任何罪名带走的年代（转发敏感微博、质疑某事件、律师在公堂死磕）人人自危，我突然间觉得我自己有点了不起[偷笑]，我连晚上自己睡觉都不敢关灯的女子还敢在微博上乱逛呢，哪天要是偶的微博傻了吧唧的转发个难以理解的事态文章[可怜]不敢想。。立马我也成了一条消息。 相关阅读｜《<a href="http://www.rfa.org/mandarin/Xinwen/3-07102015113501.html">FRA 佛教维权人士“望云和尚”（林斌）在成都被带走</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11110.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11110.jpg" alt="111" width="558" height="233"></a><br><a href="https://freeweibo.com/weibo/3863049167717893" target="/weibo/386">2015年07月10日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B7%AF%E9%80%8F%E4%B8%AD%E6%96%87%E7%BD%91Reuters">路透中文网Reuters</a>：SPAM <a href="https://freeweibo.com/weibo/%E8%B7%AF%E9%80%8F%E5%9B%BE%E7%89%87">#路透图片#</a>【24小时时事新闻】7月5日，土耳其伊斯坦布尔，示威者在中国驻土耳其领事馆附近焚烧中国国旗。中国驻土耳其使领馆提醒在土中国公民注意加强安全防范，切勿接近或拍摄游行队伍，尽量减少单独外出活动。REUTERS/Osman Orsal 相关阅读｜《BBC｜<a href="http://www.bbc.com/zhongwen/simp/world/2015/07/150710_turkey_china_relation_ana">分析：土中关系危机中的感性恨与理性爱</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1116.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1116.jpg" alt="111" width="479" height="319"></a><br><a href="https://freeweibo.com/weibo/3861650149414714" target="/weibo/386">2015年07月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%88%91%E4%BF%82%E9%98%BFBen">我係阿Ben</a>：情況在不斷地變壞。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1113.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1113.jpg" alt="111" width="429" height="763"></a><br><a href="https://freeweibo.com/weibo/3860641858879978" target="/weibo/386">2015年07月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【转别人的】央视不经审判就给人定罪,是要毁掉法制<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11117.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11117.jpg" alt="111" width="362" height="1024"></a><br><a href="https://freeweibo.com/weibo/3866810795553256" target="/weibo/386">2015年07月20日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90%EF%BC%9A%E9%9A%8F%E6%89%8Bx%E5%A4%A7%E4%BD%BF%E9%A6%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%92%E9%80%80/?category=18271" rel="tag">倒退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%98%E5%84%BF/?category=18271" rel="tag">托儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">望云和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E6%96%8C/?category=18271" rel="tag">林斌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90/?category=18271" rel="tag">染香姐姐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%94%E5%91%98/?category=18271" rel="tag">演员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%9B%BD%E4%BA%A7%E9%80%BB%E8%BE%91%C2%B7%E7%AC%AC%E4%B8%80%E5%AD%A3/" target="cdt-mirror">【麻辣总局】国产逻辑·第一季</a>
+</h2>
+<p><p>@没有羊先生：国产逻辑八：私货 ——终于凑齐了#国产逻辑# 第一季九张图（含番外）。感谢为此无码套图提供素材的众多群众们。希望大家反复研读学习，被SB拉至同一水准时也不能输阵。目录：居住地，体制，万能句型，方法，花式占领道德高地，实干波普，混乱中立，认知社会学（番外）。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjnk7gjj20c81r812j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjnk7gjj20c81r812j.jpg" alt="5329f865gw1eu9mjnk7gjj20c81r812j" width="440" height="2276"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjv6mc0j21kw10laek.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjv6mc0j21kw10laek.jpg" alt="5329f865gw1eu9mjv6mc0j21kw10laek" width="440" height="283"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjwhd6hj21kw1q4tne.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjwhd6hj21kw1q4tne.jpg" alt="5329f865gw1eu9mjwhd6hj21kw1q4tne" width="440" height="480"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjxfjydj20wy1x4k61.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjxfjydj20wy1x4k61.jpg" alt="5329f865gw1eu9mjxfjydj20wy1x4k61" width="440" height="923"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjyfwiqj21221xwqfe.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjyfwiqj21221xwqfe.jpg" alt="5329f865gw1eu9mjyfwiqj21221xwqfe" width="440" height="808"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjz2go7j20ml2mg7j1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjz2go7j20ml2mg7j1.jpg" alt="5329f865gw1eu9mjz2go7j20ml2mg7j1" width="440" height="1840"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mk2yxw9j21fn2mgx4g.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mk2yxw9j21fn2mgx4g.jpg" alt="5329f865gw1eu9mk2yxw9j21fn2mgx4g" width="440" height="805"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mkjcl2yj20c80iodi1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mkjcl2yj20c80iodi1.jpg" alt="5329f865gw1eu9mkjcl2yj20c80iodi1" width="440" height="672"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mkm6xzlj215z2mg7ak.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mkm6xzlj215z2mg7ak.jpg" alt="5329f865gw1eu9mkm6xzlj215z2mg7ak" width="440" height="990"></a></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%9B%BD%E4%BA%A7%E9%80%BB%E8%BE%91%C2%B7%E7%AC%AC%E4%B8%80%E5%AD%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E9%80%BB%E8%BE%91/?category=18271" rel="tag">国产逻辑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">官方意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9%E6%98%AF%E4%BB%80%E4%B9%88/" target="cdt-mirror">新华网 | 中共的政治规矩是什么</a>
 </h2>
 <p><p>1月13日，在十八届中央纪委第五次全会上，中共中央总书记习近平讲话中的一个词引发外界关注：“政治规矩”。他提出，要“严明政治纪律和政治规矩”，“把守纪律、讲规矩摆在更加重要的位置”。</p>
@@ -570,134 +608,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%BB%84%E5%8D%A7%E4%BA%91%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%98%AF%E4%BB%80%E4%B9%88%E6%96%87%E5%8C%96/" target="cdt-mirror">共识网｜黄卧云：中国传统文化是什么文化?</a>
-</h2>
-<p><p><strong>一</strong></p>
-<p>在最近几年时间里，儒学成了一门显学，为的是复兴中国传统文化，学术界忙碌地研究起 来，据说要重新发现和开掘传统文化中的价值观念以指导当下中国的现代化。今天，否定传统文化将不得人心，新文化运动也因为其彻底地反传统文化而受到质疑。 但要问传统文化是什么，却各说纷纭，儒家思想、儒家文化、中国传统文化三个各不相同的概念纠结在一起，中国传统文化的内涵变得含混不清。</p>
-<p>“传统”和“文化”是两个内涵极为庞杂、外延十分宽广的词，每个人心目中都有自己的 “中国传统文化”。在酒桌上正当人们酒酣耳热之际，中国传统文化就是酒文化。有品茗之雅好的人视茶文化为中国传统文化的重要组成部分。对于喜欢舞文弄墨 者，诗词歌赋琴棋书画就是中国传统文化。从哲学和玄学的角度，诸子百家，阴阳五行之说，天人合一的宇宙观，无不在传统文化之列。<strong>但是当把 中国传统文化与西方文化相提并论时，文化一词便有了特定的含义，它指的是一个社会特定的价值取向。新文化运动的领袖将西方文化归纳为民主与科学，准确地抓 住了西方文化的实质。今天，即使在世界范围内对西方文化的理解也是清晰和清楚的，它的基本内涵就是自由、民主、人权和法治。</strong></p>
-<p>中学(中国传统文化)的概念是在19世纪西学东渐的历史背景下产生的，它一开始就具有 两大基本特征，第一，它是一套与西方的自由、民主价值观相对立的价值体系，第二，它专指儒家思想体系。中国政府近年来在国外开办的几百所孔子学院，也同样 表明把儒家与中国传统文化等同起来。对中国传统文化的态度也从一开始就出现了两极对立，统治阶级提倡它和维护它，有新知识的知识分子则否定它和批判它。这 种对立在戊戌维新和袁世凯称帝两大政治事件前后达到了顶峰：因为向往“西法”，才产生了康、梁领导的维新变法，袁世凯为复辟帝制发动“尊孔读经”，才直接 导致了陈独秀、胡适等人领导的激烈反传统文化、高唱民主与科学的新文化运动。近代以来的文化之争实质是制度之争，西学与中学的命运与国家政治和国家命运联 系在一起。统治阶级执迷于传统，知识精英热心于西学。当国家遭遇巨大的外部挑战、统治权受到严重威胁的时候，政府就大倡西学或积极寻求西方支持，在甲午战 争之后、联军攻进北京之后，日本发动九一三事变之后，抗日战争期间以及中苏发生军事冲突、中国有遭受北方大国大规模攻击危险的时候都是如此，只要外部危机 不甚严重，或者过去，或者缓和，政府日子比较好过的时候，文化排外主义就会抬头，传统便受到青睐。</p>
-<p>儒家文化能不能代表中国传统文化暂且不提，而什么是儒家文化也远不是像西方文化那样有 确定的含义，每个人都可以做出自己的理解，这也是对儒家文化褒贬不止和争论不休的源头。自汉代“罢黜百家，独尊儒术”，它就成为一种统治工具。术者，技 也。儒家思想变为儒术的过程，就是根据统治的需要对孔子思想进行解释、强调、取舍、发挥的过程，也是儒家思想变为儒家文化的过程，它最后归结为一套约束臣 民思想和行为的纲常伦理。如果没有西方人的到来，它不会受到任何质疑，但在晚清时期，儒教受到了西方文化的致命冲击，乃至于到了需要“保种、保国、保教” 的严峻地步。在朝廷看来，“中体西用”解决了中西之学的矛盾。中学指的是儒家的价值观体系，如张之洞所言，“故知君臣之纲，则民权之说不可行也;知父子之 纲，则父子同罪免丧废祀之说不可行也;知夫妇之纲，则男女平权之说不可行也”。在知识精英如辜鸿铭眼里，儒教是教导人们修身的指南，《论语》阐述的是君子 之道。辜鸿铭极力要调和中西文化的差异，使它们能兄弟一家亲，他把《论语》比作中国人的《大宪章》，把中国人的学堂比作西方人的教堂。他捍卫中国传统，他 也喜欢西方文明，在他看来，中西文化其名虽异，其实相同。到了新文化运动的旗手那里，儒家文化不过是一片以仁义道德之名掩盖人吃人的罪恶历史的遮羞布。当 代，刚刚去世的新加坡领导人李光耀，一个颇能见什么人说什么话、迎合听众的天才人物，称颂儒家文化在主导亚洲发展中的重要价值，一如他在面对西方听众时称 颂法治制度，是世界政坛唯一赞赏儒家文化的重量级政治家。他看重儒家文化中权威主义，为他在新加坡的家长式统治进行辩护。儒家权威主义最重要的特征是家长 式权威主义。</p>
-<p><strong>当人们在谈论儒家的时候，常常对两种不同意义的儒家不加区分，一是孔 子的儒家，指儒家思想，一是统治阶级的儒家，指儒家文化。前者属于法家、墨家、老庄思想等等诸子百家之一，后者是统治阶级的意识形态，为统治阶级提供统治 的合法性。但无论哪种意义上的儒家，儒家思想还是儒家文化，都不能等同于中国传统文化，因为儒家的价值观并没有在事实上成为中国人的价值观。</strong></p>
-<p><strong>二</strong></p>
-<p>新文化运动领袖以看似激进的话语戳穿了儒家文化作为意识形态的遮眼法，触及了真实的中 国历史。在孔子的政治伦理中，施仁政是一个核心概念。仁者爱人，忠恕是仁政的根本，忠恕基于爱，忠恕就是爱。统治者本着爱人之心统治他的子民。爱就是推己 及人——己所不欲，勿施于人。没有爱就没有仁政。可事实呢，打天下、大肆杀戮，何曾有仁爱?钳制言论、让天下人道路以目，何曾有仁爱?滥施酷刑、铲除异 己，何曾有仁爱?取之尽锱铢，用之如泥沙，何曾有仁爱?在一个被公正而慈仁统治的社会，不会有饿殍遍野的惨象，更不会有朝野上下的普遍腐败和贪婪。</p>
-<p>仁政在孔子的思想里是一种政治理想，可这一理想从来都没有变成现实，更不用说具有制度 保障了。它只是专制主义的欺骗。任何专制主义都需要堂崇高的外表。青天思想和民众对仁政的永久期盼确实是中国文化中一个十分独特的现象，它不是仁政文化， 而是奴性文化。孔子阐述的“君子之道”同样无法变成普遍的社会实践，对于千千万万的普通人和饮食男女，他们无意成为道德超群的君子，只有西方的公民——为 法律所保护、具有基本政治权利的人——才能成为每一个普通人的身份。<strong>作为价值观体系的文化，它只能植根在社会生活中，而不是存在于儒家的 教诲中，只有为社会所有人接受的普遍观念，并实际指导着他们的行为，才能成为社会的价值观。它必须有相对应的制度形态。从价值观方面理解的西方文化，不能 只从柏拉图《理想国》、洛克的《政府论》、孟德斯鸠的《论法的精神》中去寻找答案，而是要从古希腊的雅典民主、罗马的法律制度、英国的宪政、美国政府的三 权分立体制中去获取结论，正如理解基督教文明不是从《圣经》去理解，而是从基督徒的行为中去理解。</strong></p>
-<p><strong>信仰不是观念，而是行为。意识形态是观念体系，信仰不是。信仰上帝，信仰基督，不只是相信上帝和天国的存在，而是按照基督的教导检查自己的内心，修正自己的行为。</strong>《鲁 滨逊漂流记》的作者绝对不会忘记给荒岛上的鲁滨逊留下一本《圣经》，使得他虽然长期生活在与世隔绝的环境中但能依然能接近上帝。他经常对照基督徒对上帝的 义务来思考自己的责任，使自己的行为符合一个基督徒的行为。天朝的官员人人自称是儒家的信徒，皇帝就更是儒家的代表，可他们有多少成为了儒家的“君子”， 践行了儒家以待己之心待人的忠恕之道?对于共产主义信徒，我不得不想，他们是不是都知道信仰共产主义对自己意味着什么。按照信条，他们为共产主义事业奋斗 终身就是向社会无私奉献，我看到了无数共产主义的信徒——共产党员，但我很少看到，几乎没有看到无私奉献的信徒(我并不认为无私奉献是适合人类社会的良好 的行为方式)。在这里信仰不是行为，顶多只能算是一种关于“英特耐雄纳尔就一定要实现”的模糊信念。</p>
-<p>对今天那些醉心于传统文化的人士，或那些尾随权力而大倡传统文化的人士来说，由于不能 从中国历史和传统的社会结构中挖掘他们想要的价值观，便只有到书本中、到儒家经典中去寻找中国传统文化了。不能不遗憾地说，他们研究儒家经典其实只是研究 儒家思想，研究孔子的思想，而不是研究中国传统文化。<strong>儒家思想对中国社会的巨大影响毋庸置疑，但一个社会在漫长的历史中只接受一种思想的 支配是不可思议的。社会有它自身的结构，以及由社会结构引起的驱动力。孔子思想实际上是一些随感，通常是他与弟子在一起时发出的感想，因此其所思所想忽此 忽彼，研究者可以各取所需，从专制思想到民主思想，从革命思想到改良思想，从保守主义到激进主义，都能在孔子的言论中找到思想源泉。康有为为牵强附会的研 究方法作出了表率，他以《孔子改制考》来包装和宣传自己的改制和改良主张，他证明孔子就是以改制为务的伟大改革家。</strong></p>
-<p>要研究儒家文化，必须要研究中国王朝政治的实际运作，要深入到中国社会的结构中去。从 政治运作上看，正如人们所说的，中国传统政治具有儒表法里的基本特征。儒家文化是王朝专制的一层包装纸。包装当然不是内核和全部，但包装也不是毫无意义。 仁政、仁爱和忠恕显然不是王朝政治的实质，王朝政治中能真实体现儒家文化的部分是君权的绝对性。它的绝对性不是来自于(理论上的)君权神授，而是来自于 (理论上的)万民爱戴。君权的家长式权威构成了儒家文化最富于特色的部分，家长和皇帝不是给予爱，而是给予恩惠；不是给予爱，而是接受膜拜。儒家的君权权 威有别于西方君权的权威，前者不受制约，西方的王权虽在万民之上，却在上帝和上帝的律法之下。从社会结构上看，儒家的“权威—服从”伦理并不是规范社会行 为的唯一准则。中国虽然人口众多，但社会结构简单，只有官民两个阶级的分野，两者有“权威—服从”关系，但也有“压迫—反抗”关系。这样，在中国传统文化 中，不但儒家的权威主义秩序观具有正统性，造反和颠覆的观念也同样具有正统性，肯定了官逼民反，就肯定了被压迫者反抗暴政的正当权利。</p>
-<p><strong>三</strong></p>
-<p>文化是社会发展的产物，中国传统文化就是中国传统社会的产物。生活在共同体中的人们对 其生活和生活环境会形成一定的看法和观点，他们必须以此指导自己的生活，协调自己的行为。这些看法或者称之为价值观念就是文化最核心的部分。随着人口的自 然繁殖和延续，它们也会一代接一代人的传承和延续，这就是传统文化。因此，传统文化既是一个历史的概念，也是一个当下的概念，传统文化的遗传密码就存在于 我们每一个人身上。研究传统文化的最佳起点不是古籍，而是自身。</p>
-<p>西方人把中国传统文化归纳为东方专制主义文化，既区别于西方的专制主义文化，又区别于 西方的自由、民主和法治文化。先进社会才可能有先进文化。皇朝专制社会只能产生皇朝专制文化，而不可能是别的什么文化。如果要用一句话概中国皇朝时代的社 会生活，我想最准确的莫过于“只许州官放火，不许百姓点灯”这句古代俗语，它不但准确反映了中国两大社会阶级的生存状况，也极其准确地揭示了中国传统文化 的特点。生活在这样的社会里，它的人民形成了怎样的生活观和价值观，产生了怎样的文化传统?官民两大社会阶级的生存状况决定了中国文化的唯一性，使它不同 于其他文化：</p>
-<p>1，这是一个极不公平、极不平等的社会，官有放火的自由，民无点灯的权利。官对民的绝 对主宰，不仅是对权力的垄断，也是对文化、教育和思想的垄断，以便把自身的特权固定化，永久化。官方的特权思想成为社会主流思想，阻碍了社会对公平的思考 和追求，中国文化的特权观念由此根深蒂固。在西方文化浸入国门之前，国人除了造反去推翻一个王朝，从来不知道用什么办法改造和改变极其不公的生活模式。</p>
-<p>2，蛮横的、以武力和威吓为基础的权力，使一切自由辩论和说理都成为不可能。你找不到 任何地方，任何人，找不出任何法律可以与之理论：为什么州官能放火，百姓却不能点灯。现实就是如此，现实必须接受。没有对事理的辨析，没有对是非曲直的讨 论和论争，没有对生活和制度的批判，文化便失去了向前发展的动力，造成整体的思想和文化停滞。</p>
-<p>3，在不能辩论和说理的社会，逻辑科学无从发展，人们习惯于武断，却不善于论证自己的观点。有人说西方社会好，反对者马上就说“西方的月亮也比中国圆”，通过偷换概念、歪曲和篡改对手的观点来反驳对手。缺少逻辑科学是中国文化的一项根本性缺陷。</p>
-<p>4，人们没有学会合符逻辑地思考、质疑、推理、求证，就不可能培养出科学精神，也就不 能在科学上取得进步。已经有很多人思考和探究过中国为何没有发展出现代科学技术的问题，有的人归结为中国人的感性思维特点使他们不具有发现事物原理的能 力，我则认为科学精神的缺失才是最根本的原因。</p>
-<p>5，官民两极的社会造就了它的人民的性格呈现两个极端，要么胆小怕事，屈从权力，奴性 十足，行事势利，相信青天却不相信自己，要么放纵妄为，目无一切，唯我独尊，迷信暴力。统治阶级保持秩序的最佳方法就是保持武力威吓，使人民胆小怕事。一 旦武力不足以威吓，铤而走险的底层民众便起来造反，攻城略地，杀人放火，时机一到甚至还可以“夺了鸟位”。</p>
-<p>6，儒家文化作为传统文化的一部分，维护着官民之间的“权威—服从”秩序，君臣、父子、夫妇之序都各安其位。它要被统治者相信，统治者施仁政对自己来说是唯一的希望所在。</p>
-<p>7，中国历史的治乱循环根源于两极对立的社会结构。这两个对立的阶级不可能产生基于理 性的利益共享机制。在资本主义社会，“资本家要发财致富，唯一途径是像满足他们自身需求一样来改善同胞的物质供应条件”，从而实现资本家与工人阶级的双赢 局面。但官僚阶级不是资产阶级，它不参与财富的生产和创造，官僚要发财致富只有靠加大对生产者的掠夺，官僚阶级与生产阶级不能做到双赢，其矛盾也是无法调 和的，因此中国传统文化中也没有形成利益分享理性，官民之间不能通过利益让步和妥协化解冲突，而以和平方式结束统治者与被统治者的永久性战争状态是制度改 良和进步的重要方式。</p>
-<p><strong>四</strong></p>
-<p>清末能臣李鸿章对“中体西用”原则的灵活掌握和运用在当世无疑是最为出色的，在后世的 官僚中也罕有匹敌，或许只有邓小平可以相比。李氏生活在传统的中国社会，传统对于他不仅是文化问题，还是感情问题。在同太平军作战的过程中，他领导的淮军 率先装备西式枪炮，战功显赫，他本人也由此成为朝廷重臣，成为西方技术的坚定支持者，成为洋务运动的领袖。他关注着日本的明治维新，1876年，他在天津 对日本驻清国特命全权公使森有礼的谈话充满了文化优越感，对日本全面学习西洋文化十分不以为然。</p>
-<p>李鸿章：近来贵国的变化实在令人刮目相看深为佩服，然有一点不敢苟同，就是贵国盲目模仿欧国风俗习惯改变自国古来的服制。</p>
-<p>森有礼：改变服制其实道理非常简单，如阁下所见我国古来的旧服宽大爽快，适合那些无所事事悠闲的人，可是对大多数勤劳耕作的人却完全不适合。</p>
-<p>李鸿章：一般而言衣服之样式，乃是人们追忆先祖遗愿的一种取向，作为子孙之辈应该对此尊重，万世传承才对。</p>
-<p>森有礼：一千年以来，日本人的祖先敬仰贵国服式的优雅，传承了古唐这一文化，历史上我国人民均以善于模仿改造之能事光大民族文化。</p>
-<p>李鸿章：贵国的祖先采用我国的服制是最贤明的做法，可是模仿现今的洋服想必需要花费莫大的财物和不必要的劳作。</p>
-<p>森有礼：贵国的衣服和洋服比较，其精致性和便利性不及半分。也许粗糙的大褂比较适合长 垂的清式发辫，却不适合我国人民的自然体貌。除此之外，贵国的其他物品也都不一定适合我国。对外来事物的取舍并无他人强迫，我国自古以来极力吸收和采用亚 洲、欧美及其他各国的长处为己所用。</p>
-<p>李鸿章：不过我国绝不会进行如此改革，只是不得不在武器、铁路、电信等机械方面吸收西洋的东西，因为这些东西正是那些国家最优秀之处。</p>
-<p>李鸿章面对日本人良好的自我感觉只保持了短暂的时间，到1885年他就认识到“大约十 年之内，日本富强必有可观，此中土之远患”，再过10年，1895年，73岁的他不得不亲自前往日本乞和，代表战败的清国接受日本的全部条件签订了《马关 条约》，割让领土，承认朝鲜独立，赔偿军费。在日期间，他遭到一个日本青年的袭击，子弹击中左眼下面颊，成为震惊各国的大事。病榻上的李鸿章以死争取大清 国的利益，请求伊藤博文给老朋友面子，但伊藤并不给“老朋友”面子，没有做出让步，李大人以一句“没想到阁下是如此严酷执拗之人”愤然离场。</p>
-<p>李鸿章亲眼看到自己领导的起初看起来很有希望的改革事业毁于一旦，成为一个国际笑话，这对他是一个非常残酷的打击，此后便在抑郁中度过余年，1901年卒。<strong>“中体西用”的国策本该随着洋务运动的失败和李鸿章一起进入历史，但却一再进入政治现实。</strong></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%BB%84%E5%8D%A7%E4%BA%91%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%98%AF%E4%BB%80%E4%B9%88%E6%96%87%E5%8C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">中华传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AD%A6/?category=18271" rel="tag">儒学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6%E6%80%9D%E6%83%B3/?category=18271" rel="tag">儒家思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-90%E5%90%8E%E8%82%A1%E6%B0%91%E7%9A%84%E8%82%A1%E5%B8%82%E6%B2%89%E6%B5%AE/" target="cdt-mirror">中国青年报 | 90后股民的股市沉浮</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/SmLx7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/SmLx7.jpg" alt="某证券营业厅里，一个年轻股民在琢磨大盘走势。 " width="450" height="675"></a><p>某证券营业厅里，一个年轻股民在琢磨大盘走势。</p></div>
-<p>“衡量成败的维度不只在于财富多少，那太肤浅了。人生不在于钱，在于经历。”艾国伟只有24岁，但他的另一个身份却是有20多个徒弟的“老股民”。</p>
-<p>在举国关注的股市中，90后青年一代的身影已无法被忽视。他们中，许多人曾为股市废寝忘食，幻想一夜暴富；许多人在股灾打击下血本无归，有的却全身而退；许多人还在股市浮沉，有的却已转身前往下一个路口。</p>
-<p>据《中国新闻周刊》统计，今年上半年，看上去与股市毫无瓜葛的90后，以各种各样的方式陆续被卷入其中。中信建投的后台数据显示，今年90后股民占该券商开户股民的20%，比去年翻了一倍。中信建投的数据还显示，90后持有的股票总资产，约占全部股民的16%。</p>
-<p>当一个个艾国伟，坐上股市这趟过山车，属于90后的财富观、价值观，也在红绿股指的起起落落中，不断受到瞩目，同时也在被重塑。</p>
-<p><strong>入市：“整天幻想一夜暴富，以为自己是下一个巴菲特”</strong></p>
-<p>“股神”梦，是不少90后杀入股市的动力。</p>
-<p>2007年，艾国伟开始关注股市时，还只是个高一学生。“因为当时漫天的新闻都围绕着股票来，同学爸爸的股票跌得很惨。那时候我想得简单：就想知道股票是什么？为什么能让经济这样？那时我没钱，就只是关注。”</p>
-<p>2009年，艾国伟在高二下学期开了户。“我每个月在学校吃饭只用100元，攒下500元左右。攒了一年，就为了炒股。”那年年底，他投入了3000余元，“每天看大盘、K线，不过看不太懂”。</p>
-<p>刚开始，这个只投了几千元的高中生“整天幻想明天涨停、一夜暴富，然后登上人生巅峰”。“那时，我只看巴菲特的书，是个‘股神’迷。以为自己就是下一个巴菲特，很孩子气。”</p>
-<p>中国青年报记者采访中发现，“巴菲特”是影响90后股民的一大关键词。</p>
-<p>武汉工程大学土木专业大三学生王宇（化名），从初中起就是个金融爱好者。今年5月，巴菲特执掌伯克希尔50周年的股东大会，他三更半夜起来，趴着看完了文字直播，“希望通过这个学习到更多跟金融有关的经验”。</p>
-<p>迷“股神”，不等于能成为他，艾国伟的初战成果并不好。“刚开始买的是工商银行，只知道银行每年这么挣钱，应该股票不错吧。但天天损失几十元，心脏简直受不了。毕竟，一天吃饭也就十元钱。”</p>
-<p>这个“初生牛犊”并没有割肉退出，而是选择不断换股。“频繁交易，频繁失败，就跟抓阄一样，纯蒙。偶尔会有个涨停，开心一两天。会狂躁，大喜大悲，也失眠过。”</p>
-<p>同是1991年生人的董伟，“股龄”比艾国伟短8年，他杀入股市的理由是——让生活充实一点。</p>
-<p>今年以前，学通信工程专业的他和股票是“绝缘”的。“今年1月，公司来了一个学金融的新实习生，一直模拟炒股，天天和炒股的同事聊。所有人聊的都是赚钱，说是大牛市，我听着觉得有意思。加上有了一些空闲时间，就动了心试试看。”</p>
-<p>今年3月初，董伟开了户，把刚工作攒下的钱都投了进去。“总共两万多元，除去给家里寄的，这几乎是我全部的积蓄了。”</p>
-<p>当时正值两会期间，环保股是热门。董伟用1万多元买了“菲达环保”。“不敢买多，因为不懂。买之前很兴奋，初生牛犊不怕虎。眼看赚了5000多元，又跌回去了，看数字一直跳，特别紧张，感觉几秒钟，钱就没了。”他最得意的一次是“连续两天赚两个涨停”。</p>
-<p>新手董伟的投入程度，很快赶上了“老股民”艾国伟。</p>
-<p>他的生活轨迹也变了，变得完全围绕着股票展开：“早上要设想大盘走势、想选股策略。工作时间是9点30分～14点，在股市开市的时段中，我不是在盯盘就是用QQ聊股票。到了晚上，原本我会加班或者和朋友出去玩、看书、学韩语，现在直接回家，只看股票理论书、把今天的盈亏情况‘复盘’。”</p>
-<p>他坦言，睡觉都梦到股票。“自从炒股，生活中都是它。很多人和我一样癫狂，梦到股票涨，第二天就说要买。炒股能填充时间，上面的数字代表你的钱，无论涨跌都是一种反馈，感觉它时时刻刻都在，刺激着你。”</p>
-<p>去年11月开始炒股的王宇说得更直接：“炒股给我最大的收获，是现在终于知道上课可以做什么了，人生算是充实些了。”</p>
-<p><strong>实战：“你以为股市是个提款机，想拿多少钱都行，但全错了”</strong></p>
-<p>低成本、冒险精神、乐观主义……多数90后的做事风格，与上述关键词高度重合。但这群“新新股民”发现，炒股并不总是美好。</p>
-<p>艾国伟的第一次“大赚”，是在2010年7~9月，股市从2500点左右升到了3200点。他在大学靠创业挣了两万多元，全部投入股市，两个月挣了4000多元。</p>
-<p>中国青年报记者采访的每位90后股民，都可以迅速从口中“蹦”出自己的股票代码、某些重要时间节点的大盘点位和股票价格。</p>
-<p>在买第一只股票“南山铝业”前，华中科技大学生物医学工程专业的大三学生胡轶，观望了很久：“还是比较谨慎的。”这只股涨了，但他没等上太久就卖了。“刚刚开始炒，心还没有静下来，换股比较频繁。其实都知道牛市里，拿到底是最赚钱的，但谁也坐不住，经常换股。”</p>
-<p>给董伟最大惊喜的股票，也是短线操作。“在上午跌停时买入，下午涨停，相当于赚了20%”。</p>
-<p>第一次股票涨停时，胡轶特别兴奋，马上给爸妈、同学报喜。“我对自己的操作更有自信了。但后来却跌停了。见惯了风雨，我碰到大的波动时，心态都比较稳定了。”</p>
-<p>在董伟看来，红和绿、涨与跌，光明与黑暗，是股市这枚硬币必然存在的两面。但推崇乐观与冒险的90后股民只愿意看到其中好的一面。“几乎没有人会说自己亏了多少。”董伟说，“牛市里面，谁都是‘大神’。你就会误以为：股市是个提款机，想拿多少钱都行，很多人还不懂基本知识就去了，但全错了。股市也能让你亏得血本无归。”</p>
-<p>今年7月A股股灾时，董伟有7万多元在股市里，“仓位还是比较轻的”，每天损失7000多元。看新闻说大妈在股票市场唱国歌，他也兴奋激动。“这种时候只有赌博，赌它反弹。”</p>
-<p>那时，胡轶的资金一共损失了30%，但他并未沉浸在抱怨中。“我吃了两个跌停，跌得有点不能接受，但一个星期后，我只有‘割肉’（股市用语，指高价买进股票后，大势下跌，为避免继续损失，低价赔本卖出股票。——记者注）。”</p>
-<p>“割肉”后，他领悟到两个道理：一是不能不尊重趋势。“个股不能脱离大盘存在，尽管它不行了，我还觉得它会好起来，但这只是我的一厢情愿。”二是不能不接受现实，学会风险控制、及时“止损”。</p>
-<p><strong>股灾：“股市是赌场，大部分的我们都不会成为传奇”</strong></p>
-<p>本科学金融的同学曾告诉董伟：“在股市里，人性的贪婪、自律、冲动、冷静，都表现得淋漓尽致。”</p>
-<p>中国青年报记者采访中发现，与父辈相比，90后股民往往拥有更多金融知识、接受新事物也快。但是，股市中他们同样难以免俗，甚至会被迅速拥抱的新事物——比如杠杆股票“坑一把”。</p>
-<p>董伟告诉了中国青年报记者两个身边发生的真实故事。“一个同龄朋友A快要结婚了，把辛苦五六年存下的20万元，全部投入股市，并加了4倍杠杆，相当于100万元。”（杠杆股票是指利用保证金信用交易而购买的股票，利用一部分固定利率的资金来提高普通股的投资报酬率。购买者本人投资额较少，由此可能获得成倍的高额利润，但股票下跌时也将成倍亏损。——记者注）</p>
-<p>但这位想“搏一把”的准新郎遭遇了股灾。“一个跌停，10万元就没了。他女朋友就逼着他把剩下的钱都退出股市。据说，如果他再不退，女朋友就要和他分手。不过那段时间他每天闷在家里，也不去工作，后来被公司开除了……”</p>
-<p>另一个同龄朋友B则相对幸运。</p>
-<p>“他同样是做杠杆股票，配资额度比较高，有几百万元。因为亏损，快要被强行平仓了，银行催交保证金。7月8日，他又向周围亲友借了30万元。这已经他是第四次借钱了，前三次都血本无归，就像赌徒一样，每次都说最后一次了。万幸，7月9日股市高开，股票涨停，把他救回来了。”</p>
-<p>“没入市之前，都觉得自己心态好，真金白银进去，就不是那么回事了。”24岁的艾国伟，说这话时显得格外老成。董伟告诉记者，他现在相信，卖房炒股的行为是存在的。“人是贪婪的，总还想赚更多。但股市无情。”</p>
-<p>今年4月底，董伟用1万元加了5倍杠杆。5月6、7、8日三天连续暴跌，他因为杠杆，亏掉了半个月赚来的钱。之后就退出了。他在最高点时曾盈利5万元，后来都“还给了股市，还搭进去本金1万多元”。“平时自律性再强，但在股场，是赌红了眼的赌徒。”</p>
-<p>受访的90后股民形容股市时，都提到“赌场”这个关键词。</p>
-<p>做短期的王宇，还会遗憾自己错失了很多股票的最高点。“最早买的一批股票中有一只叫‘华远地产’的，我买入时只有3元多。股市到5000多点的时候涨到10多元，如果我能一直留着这只股的话，估计现在也赚了很多了。”</p>
-<p>在股灾之前，有2007级的经济学毕业生向胡轶预警过：“股市利润就像一大块蛋糕。牛市刚开始时，人少，人人都可以得到很多利润。而现在开户人数爆炸，连身边完全不会看k线的妈妈级人物都开始进股市赚钱了。这就是一个非常危险的警示。”</p>
-<p>“这轮牛市我们叫做杠杆牛，大量的股民使用杠杆，成倍的获利，股指上涨太快泡沫很容易破。其实道理大家都懂，就是要在正确的时间惊醒。”胡轶说。</p>
-<p>王宇在这次股灾中并没有损失多少，对他而言像是“看了一场戏”：“90后新股民的受害人数不小，胆子大，什么都敢买，最后被割韭菜的也是这些人。”</p>
-<p><strong>蜕变：“我不信巴菲特了，也不信所谓股神，无论蒙对蒙错，都有借口”</strong></p>
-<p>中国青年报记者采访发现，在90后股民群体中，多数人的“炒股经”是来自课堂、书本、同龄人。</p>
-<p>胡轶进入股市的契机，是大三下学期选修的“证券投资”公选课。他从今年4月中旬开始共向股市投入1万元，也来自他攒下的生活费。</p>
-<p>入市前，他跟着经济学老师做过虚拟盘面，跟炒股贴吧里的网友学习过基础知识。他也买过三本“有关盘口还有阻力行为的书”，但到现在才看完一本。</p>
-<p>对胡轶而言，“最有用的经验”都来自和身边的人交流心得。“华科有个股票交流群，参与讨论大都是仓位比较重的人。大盘波动特别大的时候，大家就会相互提醒注意，究竟是该增仓还是减仓。听他们说经验，也会让我学起来比较快。”</p>
-<p>艾国伟则找到了更资深的“领路人”。</p>
-<p>高三毕业后，他在暑期打工期间认识了某报财经专栏的主编。后来两人成了师徒。大学四年，艾国伟跟着这位50多岁的“师傅”学习技术面。他在外汇市场里，曾把60万元做到了2000万元。“证券投资分析相关的理论，我靠自学。师傅教我，稳定心态从赔钱开始。这是最好的办法。”</p>
-<p>毕业后，他回老家的某燃气站办公室工作。“但股票始终是业余爱好，就像我喜欢打篮球、自驾游一样。”</p>
-<p>2014年7月，他从父亲那里借了10万元，加上手里的3万元，再次进入股市。在今年股市达到5200点时，他的13万元变成了28万元。在“股灾”刚开始的那个周一，艾国伟当天赔了5000多元，果断离场。</p>
-<p>7月10日，他再次买了15万股票，14日上午挣了3万元，再次离场。“牛市时要做中长线，不好的时候做短线。凡事要灵活去做，活法、死法都有好几种，这样才有提升的空间。”</p>
-<p>他现在不再天天盯着个股。“看股票的时间挺少的，需要买了就花几分钟看看。”他的身边也有了20～30个徒弟，从20岁～46岁不等，其中不乏90后学生。</p>
-<p>“都是同学、朋友、同事‘一传十’地介绍的。因为今年上半年给别人推荐股票，经常第二天就涨停。我也不知道咋了，可能因为整体行情好。”他说得很平淡，“我自己买的，反倒都很稳定。但毕竟股票只是闲钱的集中地，别太把它当回事，别让它影响心情。”</p>
-<p>他与“徒弟”们吃饭、喝酒时，主要讲技术知识。即便推荐个股，也会提醒他们“只能参考，买卖随意”。</p>
-<p>这个曾经的“巴菲特迷”，现在也不信巴菲特了，“不在同一片天下，不能比较”。他自己也不信所谓“股神”推荐的股，“无论是蒙对蒙错，都有借口”。</p>
-<p><strong>离场：“让股票教育你，但别因为股票忘记人生”</strong></p>
-<p>对胡轶、王宇来说，炒股的目的主要在“锻炼自己，积累经验，为未来的投资作准备”。当他们还在股市中沉浮时，艾国伟、董伟都在准备告别了。</p>
-<p>他们的新目标不约而同——创业。</p>
-<p>董伟深知，对炒股的沉迷已经耽误了他的正常工作和生活。“开盘的4小时内，我是不能安心工作的。一次被领导看到，说了一次。当时身不由己，不能理解领导的良苦用心，现在才开始理解。”</p>
-<p>受访的90后股民均坦言：“炒股会上瘾。”</p>
-<p>董伟发现自己“从早到晚，生活都是股票，想做的事都做不了”。老家的父母打电话来劝他别炒了，他一度也不理会。他“五一”时买了很多想看的书，都“扔着没看完”。他坚持写了10多年的日记，炒股竟然也打破了这个习惯，曾让日记中断了4天。</p>
-<p>他惊觉：“这肯定不行。”后来，他对自己规定，每天下午1点～3点之间不看股票。“因为当天买的股票当天不能卖，所以无论盈亏，当天没必要看。”</p>
-<p>7月10日，董伟卖出了所有股票，删掉了同花顺、自选股等所有炒股软件。“刚毕业一年，还是得把心思用在工作上。散户亏的比赚的快，比如你有1万元，亏损50%，要涨100%才能赚回来。想清楚这一点就退出了。”现在他每天跑步10分钟，锻炼腹肌20分钟。</p>
-<p>他的4个炒股朋友中，一人已退出股市。他准备在学生实习教育方面创业，打算把剩下三个人从股市“拉出来”，做项目。“还是希望做些实事。趁着年轻时要去尝试，即使第一次没做好，还有第二、第三次，炒股不是生活的全部。”</p>
-<p>但这个“割肉”离场的前股民，依然感谢炒股的经历。</p>
-<p>“尽管亏钱，离开时，我也不是一无所有。”炒股让他的日记从每天300多字涨到了充满思考的两三千字。“之前从来不关心中国、国际政治经济大事，现在，我学会主动了解，也能深入了解国家为什么作出这种决策，看到国家经济和产业结构的转型。”</p>
-<p>股票的投入，原本占艾国伟理财的80%。现在，他准备退出股市，在资产管理、理财课程方面创业。“好的时候要敢干。不好的时候，要隐退。”</p>
-<p>坐在电脑前炒股和独自创业的难度，不可同日而语。但艾国伟并不犹疑：“股市是赌博，创业是人生，不可比较。一辈子很短，何必一味地为了钱赌一生。不如，想我所想，做我所做。可能不如意，那又如何？”</p>
-<p>“如果股票可以教育你的人生，那是最好，如果股票让你忘记人生，就不好了。”这名“90后炒股师傅”淡然地说。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-90%E5%90%8E%E8%82%A1%E6%B0%91%E7%9A%84%E8%82%A1%E5%B8%82%E6%B2%89%E6%B5%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/90%E5%90%8E/?category=18271" rel="tag">90后</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -709,7 +619,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/90%E5%90%8E/?categ
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3rs6ik85dyjcv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gl66gqdbafbg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -719,5 +629,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/90%E5%90%8E/?categ
                 <td></td>
                 
         
-        <td><a href="https://d3rs6ik85dyjcv.cloudfront.net">https://d3rs6ik85dyjcv.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3j2k1sdebxutj.cloudfront.net">https://d3j2k1sdebxutj.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3j2k1sdebxutj.cloudfront.net">https://d3j2k1sdebxutj.cloudfront.net</a><br/></td>    </tr>
 </table>

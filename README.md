@@ -246,7 +246,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">中国法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">人权活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1/?category=18271" rel="tag">自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%87%E5%8E%8B/?category=18271" rel="tag">镇压</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%82%85%E9%9B%AA%E5%B3%B0-%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%B9%B4%E8%BD%A6%E7%A5%B8%E7%A9%B6%E7%AB%9F%E6%AD%BB%E4%BA%A1%E5%A4%9A%E5%B0%91%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">傅雪峰 | 中国一年车祸究竟死亡多少人？</a>
 </h2>
@@ -548,7 +548,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">动物保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%97%E7%8C%8E/?category=18271" rel="tag">盗猎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%A1%E7%89%99%E8%B5%B0%E7%A7%81/?category=18271" rel="tag">象牙走私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2%E8%B1%A1/?category=18271" rel="tag">非洲象</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%A5%B3%E7%94%A8%E8%83%B8%E9%83%A8%E8%A2%AD%E8%AD%A6%E7%BD%AA%E6%88%90%E5%9B%BD%E9%99%85%E4%BC%A0%E5%AA%92%E8%85%BE%E7%AC%91/" target="cdt-mirror">法广｜港女用胸部“袭警”罪成国际传媒腾笑</a>
 </h2>
@@ -604,7 +604,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsi2a3cimrkwf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -614,5 +614,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/></td>    </tr>
 </table>

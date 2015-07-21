@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3j2k1sdebxutj.cloudfront.net">https://d3j2k1sdebxutj.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/><a href="https://d3rs6ik85dyjcv.cloudfront.net">https://d3rs6ik85dyjcv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3j2k1sdebxutj.cloudfront.net">https://d3j2k1sdebxutj.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9%E6%98%AF%E4%BB%80%E4%B9%88/" target="cdt-mirror">新华网 | 中共的政治规矩是什么</a>
@@ -709,7 +709,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/90%E5%90%8E/?categ
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -719,5 +719,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/90%E5%90%8E/?categ
                 <td></td>
                 
         
-        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3rs6ik85dyjcv.cloudfront.net">https://d3rs6ik85dyjcv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d3j2k1sdebxutj.cloudfront.net">https://d3j2k1sdebxutj.cloudfront.net</a><br/><a href="https://d3rs6ik85dyjcv.cloudfront.net">https://d3rs6ik85dyjcv.cloudfront.net</a><br/></td>    </tr>
 </table>

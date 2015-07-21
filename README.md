@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dwhzpylq7uiqo.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wme9113v0bag.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dwhzpylq7uiqo.cloudfront.net">https://dwhzpylq7uiqo.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://dde8sfg85aqgu.cloudfront.net">https://dde8sfg85aqgu.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://d3gmlb06ewcfng.cloudfront.net">https://d3gmlb06ewcfng.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://dwhzpylq7uiqo.cloudfront.net">https://dwhzpylq7uiqo.cloudfront.net</a><br/><a href="https://d3gmlb06ewcfng.cloudfront.net">https://d3gmlb06ewcfng.cloudfront.net</a><br/><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://dde8sfg85aqgu.cloudfront.net">https://dde8sfg85aqgu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
@@ -36,7 +36,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80/?category=18271" rel="tag">中央政治局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E6%BB%95%E5%BD%AA%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%95%87%E5%8E%8B%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%BE%8B%E5%B8%88%E4%BB%AC/" target="cdt-mirror">博谈网 | 滕彪：在中国镇压不住的律师们</a>
 </h2>
@@ -513,7 +513,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%80%81%E8%99%8E/?category=18271" rel="tag">大老虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%BB%84%E5%8D%A7%E4%BA%91%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%98%AF%E4%BB%80%E4%B9%88%E6%96%87%E5%8C%96/" target="cdt-mirror">共识网｜黄卧云：中国传统文化是什么文化?</a>
 </h2>
@@ -677,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://dde8sfg85aqgu.cloudfront.net">https://dde8sfg85aqgu.cloudfront.net</a><br/><a href="https://d3gmlb06ewcfng.cloudfront.net">https://d3gmlb06ewcfng.cloudfront.net</a><br/><a href="https://dwhzpylq7uiqo.cloudfront.net">https://dwhzpylq7uiqo.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1xtm9uth1jep.cloudfront.net">https://d1xtm9uth1jep.cloudfront.net</a><br/><a href="https://d2wme9113v0bag.cloudfront.net">https://d2wme9113v0bag.cloudfront.net</a><br/><a href="https://d3gmlb06ewcfng.cloudfront.net">https://d3gmlb06ewcfng.cloudfront.net</a><br/><a href="https://dde8sfg85aqgu.cloudfront.net">https://dde8sfg85aqgu.cloudfront.net</a><br/><a href="https://dwhzpylq7uiqo.cloudfront.net">https://dwhzpylq7uiqo.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3exa92796wh5e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,96 @@
                 <td></td>
                 
         
-        <td><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://dsbusbmq9e23z.cloudfront.net">https://dsbusbmq9e23z.cloudfront.net</a><br/><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://dwx4gbz0zmacf.cloudfront.net">https://dwx4gbz0zmacf.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dwx4gbz0zmacf.cloudfront.net">https://dwx4gbz0zmacf.cloudfront.net</a><br/><a href="https://dsbusbmq9e23z.cloudfront.net">https://dsbusbmq9e23z.cloudfront.net</a><br/><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313/" target="cdt-mirror">博谈网｜《朝日新闻》社论：习打压人权律师损害13亿中国人</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg" alt="150718215643_f_976x549_ap" width="550" height="309"></a></p>
+<p>（博谈网记者赵亮编译报道）日本《朝日新闻》英文网7月19日发表社论，题为“习打压人权律师损害13亿中国人”。以下为该社论的译文：</p>
+<p>现在7月10日被关注中国人权的人们称作“黑色星期五”。就在那一天，警方在中国不同地区大规模镇压从事人权工作的人，拘捕人权律师和活动人士。</p>
+<p>在随后的日子里，中国当局继续围捕，至今有200多人遭审问。这是一个不容忽视的出格之举。</p>
+<p>主要打击对象是北京锋锐律师事务所。与锋锐有关联的人士仍被关押。</p>
+<p>那些在其他地区（如湖南、上海和河南省）被抓捕的人被怀疑与锋锐有关。</p>
+<p>这些民权律师在各式案件中一直在为普通访民的权利辩护，包括被强制拆迁的人。</p>
+<p>这些律师对于改善中国的人权状况发挥了重要作用，对这些律师和活动人士的如此攻击可能严重损害整个中国公众的权益。</p>
+<p>北京使用由国家控制的媒体来妖魔化锋锐律师事务所，把它描绘成“已扰乱社会秩序的犯罪组织”。该指控指的是锋锐用互联网来吸引公众关注警方与当地居民之间侵犯公民权利的纠纷案。</p>
+<p>依照中国政府的逻辑，所有反对当局所为的抗议均够格被当作“反政府”的活动。</p>
+<p>今年5月，众所周知的人权律师浦志强被（当局）正式起诉。两个月后，当局推出了本次针对人权律师的最新举措。</p>
+<p>根据一些报道，去年在中国有近1000名人权活动人士被拘捕。</p>
+<p>习近平主席的政府一直在中国以前所未有的程度打压保护人权的人们。</p>
+<p>自从中国开始实行经济改革和对外部世界打开大门以来，两大主要力量一直在为主导权而交战。</p>
+<p>一个是在生活和教育水平不断提升情况下新出现的公民力量。虽然他们肯定有着保守的一面，但是中国的国民已越来越意识到他们的生活与权利息息相关，以及他们已经具备了采取行动的能力。</p>
+<p>与公民力量对垒的是中共用来压制异议之声的政治权力，目的是保护其一党统治。习近平政府一直在积极主张这种政治权力。</p>
+<p>中国2004年的宪法修正案增加了一项条款：“国家尊重和保障人权”。该宪法还保障言论、集会和结社自由。</p>
+<p>但是（在中国）没有制度来确保这些宪法规定得以执行。其结果是，它们实际上是死条款。</p>
+<p>与此同时，新的《国家安全法》7月1日开始实施，该法律可能只会加强政府以国家安全为借口更加限制国民的权利。7月初，联合国高级人权专员Zeid Ra‘ad Al-Hussein对这项新的法律潜在的人权问题表达了关注。</p>
+<p>去年秋天在中共的一个重要会议上，习近平政府承诺要在法治基础上全心全意推动国家的治理。</p>
+<p>然而，如果说当前正在中国发生的事提供任何迹象的话，那么，该法律实际上是用来打压国民的一根棍子，而非保护他们的盾牌。</p>
+<p>我们深度关切13亿中国人民在未来仍被困在远没有法治、悲惨的人权状况之中。</p>
+<p>原文<a href="http://ajw.asahi.com/article/views/editorial/AJ201507200026">EDITORIAL：1.3 billion Chinese lose in Xi’s crackdown on human rights lawyers</a></p>
+<p>编译: 赵亮</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E5%88%86%E6%9E%90%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E4%B8%8E%E4%B8%AD%E5%85%B1%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/" target="cdt-mirror">BBC | 分析：令计划与中共的“政治规矩”</a>
+</h2>
+<p><p><strong>中共中央政治局周一（20日）决定给予前中国全国政协副主席令计划开除党籍、开除公职处分，其中一个罪名是指他“严重违反党的政治规矩”，而“政治规矩”也因此成为中国一个新的政治词汇。</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150721063821.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150721063821.jpg" alt="令计划被指“严重违反党的政治规矩”又指的是什么呢？" width="550" height="309"></a><p>令计划被指“严重违反党的政治规矩”又指的是什么呢？</p></div>
+<p>翻查资料，今年1月13日，中共总书记习近平在十八届中央纪委第五次全会上曾提到“政治规矩”这个词，当时他表示，要“严明政治纪律和政治规矩”。</p>
+<p>而在3天后的中央政治局常委会上，习近平又提到“政治规矩”这个词，提出，“坚持党的领导，首先是要坚持党中央的集中统一领导，这是一条根本的政治规矩”。</p>
+<p>但对于许多人来说，中共的“政治规矩”还是一个相当新鲜的词汇。</p>
+<p><strong>词汇解读</strong></p>
+<p>中共党媒《人民日报》海外版在2015年1月曾经发表了一篇署名文章，其中引述了习近平对“党的纪律 ”与“政治规矩”的解释，“纪律是成文的规矩，一些未明文列入纪律的规矩是不成文的纪律；纪律是刚性的规矩，一些未明文列入纪律的规矩是自我约束的纪律“。</p>
+<p>而在香港的中国时事评论员刘锐绍在接受BBC中文网采访时则表示，中共所谓的“政治规矩“其实就是中共党内的”内部伦理“。他说，”党的纪律“可以用白纸黑字写出来，但”政治规矩“却是无法写出来但又很重要的东西。</p>
+<p>刘锐绍进一步举例说，中共党章中明确要求党员要“对党忠诚“，这也是”党的纪律“，但至于党员应该向党的什么人忠诚，则属”政治规矩“的范畴。</p>
+<p>而曾经担任香港《南华早报》北京记者站站长多年的时事评论员黄忠清也认为，“政治规矩“指的是一些”不言而明“的东西。他指出，许多东西很难以党章明确规定。例如党章不可能限制党员喝酒，但是党员干部经常大吃大喝显然违反了”规矩“。</p>
+<p>黄忠清还补充说，习近平不断强调“规矩“也反映出他希望以此来解决近年来中共党员干部道德堕落的问题，甚至恢复到毛泽东时代对中共党员干部个人修养的严格要求。</p>
+<p><strong>令的罪名</strong></p>
+<p>至于令计划被指“严重违反党的政治规矩”又指的是什么呢？</p>
+<p>BBC中文网记者为此询问了两位分别身在中国大陆及香港的中国事务专家，但他们都认为，由于中国官方至今还没有公开披露有关令计划具体所为的详情，因此无法就此作出明确判断。</p>
+<p>不过，香港的中国时事评论员刘锐绍则认为，令计划后来与日前被判终身监禁的前中共政治局常委周永康结盟发生在其儿子发生车祸后，性质与薄熙来和周永康结盟并不一样，因此需要一种新的诠释来定性，因此“政治规矩“就成为最恰当的形容词。</p>
+<p>而黄忠清则表示，令计划在党内拉帮结派的做法相信也是其“严重违反党的政治规矩”的一个罪证。</p>
+<p><strong>对令处理　</strong></p>
+<p>除了“严重违反党的政治规矩”，令计划有另外“六宗罪“，其中包括”利用职务便利为多人谋取利益，本人或通过家人收受巨额贿赂；违纪违法获取党和国家大量核心机密；严重违反廉洁自律规定，本人及其妻收受他人钱物，为其妻经营活动谋取利益；与多名女性通奸，进行权色交易；对亲属利用其职务影响力敛财牟利负有重要责任。“</p>
+<p>中共官方文件还形容说，“令计划的行为完全背离了党的性质和宗旨，严重违反党的纪律，极大损害党的形象，社会影响极其恶劣“。</p>
+<p>从罪名上来看，令计划的罪名比周永康还要多，这是否意味着令计划面对的处罚会比周永康更重呢？</p>
+<p>为此，刘锐绍指出，这一切还要取决于令计划的“认罪态度“。</p>
+<p>他表示，从官方公布的有关文件看，并没有明确指出令计划收受巨额贿赂的具体金额，因此其“认罪态度“将影响最终起诉的涉贿金额，从而影响到其受到处罚的程度。</p>
+<p>香港《南华早报》的黄忠清则认为，对于像令计划这样的高级官员，中共的处理考虑往往是“政治性多于法律性“。不过，他也同时指出，相对于周永康来说，中共在处理令计划时会更为放心，因此对令的处罚也很有可能更为严厉，故此对令的刑期判决也很有可能比周永康的无期徒刑还要重。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E5%88%86%E6%9E%90%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E4%B8%8E%E4%B8%AD%E5%85%B1%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80/?category=18271" rel="tag">中央政治局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BE%AE%E4%BF%A1%E4%B8%BB%E8%A6%81%E5%AE%A1%E6%9F%A5%E8%B0%A3%E8%A8%80%E3%80%81%E8%85%90%E8%B4%A5%E5%92%8C%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F%E8%AF%9D/" target="cdt-mirror">美国之音｜微信主要审查谣言、腐败和政治敏感话题</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/03/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%8D%B1%E6%9C%BA-we-chat-no-more.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/03/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%8D%B1%E6%9C%BA-we-chat-no-more.jpg" alt="巴丢草：微信危机 we chat no more" width="500" height="484"></a><br>
+（“微信危机 we chat no more” by 巴丢草）</p>
+<p>“腐败”、“民主运动”等话题一直是中国大陆社交媒体审查的关键词，但是，近日发布的报告称，微信的审查把重点放在了“谣言”上。</p>
+<p>腾讯微信是目前中国最火爆的社交媒体平台之一。和其他中国社交媒体一样，微信也受到政府的严密监督和审查。近日，加拿大多伦多大学公民实验室发布了 一份报告称，相比其他社交媒体，微信的屏蔽对象不仅限于“腐败”、“六四”、“民主运动”等常见敏感话题，而更多地瞄准了谣言。</p>
+<p>据《南华早报》报道，此次调查对象是微信官方帐号，这些帐号可供企业和个人发布公开消息。公民实验室研究员杰森•吴是该报告的作者，他说，最新报告数据显示，有关“腐败”的关键词只占了50大敏感词中的五个。</p>
+<p>报告称，与其他社交媒体，如微博、人人等不同，微信审查的目标更多地指向了“典型的煽动性言论和小报消息”。审查者们可能认为，微信上需要被屏蔽的内容不止于公众集会示威。</p>
+<p>《南华早报》称，报告的结果与中国大陆2013年发起的“反谣”行动相呼应。官方称，这一行动旨在打击网络谣言，肃清网络环境。据《纽约时报》报道，自2013年8月以来，中国警方在各地抓了不少社交媒体和网络活跃人士，遭逮捕者不下数百。</p>
+<blockquote><p><strong>英语报告全文</strong>：<br><a href="https://citizenlab.org/2015/07/tracking-censorship-on-wechat-public-accounts-platform/">Citizen Lab｜Politics, Rumors, and Ambiguity: Tracking Censorship on WeChat’s Public Accounts Platform</a></p></blockquote>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BE%AE%E4%BF%A1%E4%B8%BB%E8%A6%81%E5%AE%A1%E6%9F%A5%E8%B0%A3%E8%A8%80%E3%80%81%E8%85%90%E8%B4%A5%E5%92%8C%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F%E8%AF%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4/?category=18271" rel="tag">公民实验室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF/?category=18271" rel="tag">腾讯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90%EF%BC%9A%E9%9A%8F%E6%89%8Bx%E5%A4%A7%E4%BD%BF%E9%A6%86/" target="cdt-mirror">【河蟹档案】染香姐姐：随手X大使馆</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -47,7 +134,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%92%E9%80%80/?category=18271" rel="tag">倒退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%98%E5%84%BF/?category=18271" rel="tag">托儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">望云和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E6%96%8C/?category=18271" rel="tag">林斌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90/?category=18271" rel="tag">染香姐姐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%94%E5%91%98/?category=18271" rel="tag">演员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%9B%BD%E4%BA%A7%E9%80%BB%E8%BE%91%C2%B7%E7%AC%AC%E4%B8%80%E5%AD%A3/" target="cdt-mirror">【麻辣总局】国产逻辑·第一季</a>
 </h2>
@@ -506,108 +593,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A5%B9%E6%98%AF%E4%B8%80%E5%90%8D%E5%AE%89%E9%9D%99%E7%9A%84%E5%95%86%E4%B8%9A%E5%BE%8B%E5%B8%88%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B/" target="cdt-mirror">博谈网｜她是一名安静的商业律师，后来北京开始针对她</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/wangyu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/wangyu.jpg" alt="wangyu" width="400" height="471"></a></p>
-<p>（博谈网记者赵亮编译报道）据《华盛顿邮报》7月18日报道，可以说是中国当局造出了王宇，他们的一个眼中钉。</p>
-<p>她曾是一名温和的商业律师，从事专利纠纷之类的案件，直到2008年底在天津火车站的一起事件。当时火车站员工阻止她登车，即便她持有车票，于是双方发生口角，随后王宇遭几名男子殴打。</p>
-<p>但几个月后，是王宇而非那些打她的男子被指控“故意伤害罪”。经过长时间、可被质疑的法律程序，她在监狱里被关了两年半。</p>
-<p>她的朋友和同事们说，在那里，她看到了囚犯们是如何被强迫劳作而没有报酬，听到了他们被虐待和折磨的故事。2011年出来时，王宇已变成了一名人权提倡者，承接一些在中国最引人注目的案件。</p>
-<p>“当她出来时，她迅速成为这个运动的一部分，真正投身进去”，伦敦国王学院（King’s College London）的中国法律专家Eva Pils说。她在几周前与王宇交谈过。</p>
-<p>据中国官方媒体报道，上周在中国19个省统一抓捕了100多名律师，以打击一个“严重扰乱社会秩序”的“重大犯罪团伙”。王宇是其中之一。</p>
-<p>王宇曾是著名维族知识分子伊力哈木·土赫提的代表律师。伊力哈木·土赫提去年被以鼓吹分裂、煽动民族仇恨、批评政府和发声支持恐怖主义的罪名被判终身监禁。</p>
-<p>王宇也为今年三月被捕的五名女权活动人士辩护。她们计划在三八国际妇女节推出一个反性骚扰的公共活动而被捕，罪名是“寻衅滋事”。</p>
-<p>王宇原计划作为被当局禁止的法轮功团体成员的辩护律师出庭，但她一再被拒绝进入法院。</p>
-<p>去年在黑龙江省，当王宇被拒绝会见一名法轮功当事人后，她与一名同事站在牡丹江公安局外举着牌子说“律师要求有权见当事人”。</p>
-<p>很少人会看到他俩站在接近中俄边境的这个边远的公安局外。但是王宇的同事把他们两人的照片放到了微博上，并很快传播开来。</p>
-<p>就是这一点——用社交媒体告知公众——导致她上周成为全国性统一打压人权律师行动的一部分。</p>
-<p>“我觉得实际上是她在人权方面的工作惹恼了当局”，中国最著名的民权律师之一、哈佛大学法学院访问学者滕彪说。“这些律师有良好的组织和联系。他们可以通过社交媒体来动员人。”</p>
-<p>在中国，逮捕人权律师并不罕见。据总部位于香港的中国维权律师关注组消息，截至周四，在中国国内共有215名律师、律师事务所工作人员和人权活动人士被拘捕、逮捕或失联。</p>
-<p>分析师们表示，上周的大规模拘捕令人震惊，它是在习近平领导下更广泛压制非政府组织和其它民间社团的背景下发生的。</p>
-<p>“这是继2011年‘茉莉花’抗议以来最令人瞩目的打压”，大赦国际的研究人员William Nee说。“但打击的范围和对这些特定律师的后果方面都远远超过以前。”</p>
-<p>虽然44岁的王宇和她所在律师事务所的其他律师在被捕律师之列，但王宇的境况引起公众关注，因为她是被当局挑出来点名批评的几位律师之一。</p>
-<p>上个月，国营新华社刊登了一篇没有署名、显然是旨在抹黑王宇名誉的评论文章。文章说，“就是这样一个嚣张跋扈、身背案底的女人，近几年居然摇身一变成为了律师，张口闭口法治、人权、正义，到处打着‘维权’旗号活跃逍遥。”</p>
-<p>认识王宇的人描绘的是一个完全不同的景象。</p>
-<p>“五名女权活动人士”之一的李婷婷说，王宇是一名耐心、投入的律师。“她工作非常努力，总是在路上，包总是塞得满满的”，李婷婷在微博上写道。“她很瘦，每次见到她都是背着很重的袋子。我注意到她是如此的努力，而且从来不抱怨。”</p>
-<p>人权观察的Maya Wang表示，被拘捕的王宇律师没有火气。“她讲话轻声细语，对待工作非常认真”，她说。“首先，她是一名律师。对她和其律师事务所的整个打压是一种政治打压。”</p>
-<p>但当局用那起火车站事件来针对王宇。当新华社刊出该官方评论时，王宇和她的同事们知道这是坏事即将到来的迹象。</p>
-<p>7月8日，王宇去机场为她的丈夫、人权活动家包龙军和他们16岁的儿子送行。他们正准备前往澳大利亚，送孩子到那里上学。</p>
-<p>那天夜里大约凌晨3点，她家里突然断电，Wifi也断了，她给一群律师朋友发了条短信。接着，她听到有人在撬她家门锁的声音。</p>
-<p>“我从猫眼往外看，漆黑一团，什么也看不到，偶尔有低声说话的声音，但听不清楚”，她发短信写道。“我丈夫和儿子都没有接听他们的手机。”</p>
-<p>结果发现他们已在机场被捕。</p>
-<p>当人权活动人士们收到王宇的短信试图给她打电话时，她没有接听。</p>
-<p>此后，王宇夫妇一直被关押，他们的儿子被释放，由他的姑姑照顾，但他的护照被没收。</p>
-<p>王宇已感觉到自己可能会被“收拾”，上个月她曾说她的工作意味着“许多相关权贵早已对我怀恨在心”。</p>
-<p>“真相岂容掩盖”，她在回应新华社那篇评论的一份声明中写道。“我相信在民智大开、网络新媒体日益普及、人民越来越具有明辨真假能力的今天，任何企图丑化我的阴谋都绝不可能得逞！”</p>
-<p>当局似乎在试图确保这不会发生。在微博上被禁止搜索“律师王宇”和“维权律师”，对于王宇案的评论只有非常负面的那些。</p>
-<p>原文<a href="https://www.washingtonpost.com/world/she-was-a-quiet-commercial-lawyer-then-china-turned-against-her/2015/07/18/fe45876c-2b3d-11e5-960f-22c4ba982ed4_story.html">She was a quiet commercial lawyer. Then China turned against her.</a></p>
-<p><em>编译: 赵亮  作者: Anna Fifield</em></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A5%B9%E6%98%AF%E4%B8%80%E5%90%8D%E5%AE%89%E9%9D%99%E7%9A%84%E5%95%86%E4%B8%9A%E5%BE%8B%E5%B8%88%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%8F%91%E5%B8%83%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%AE%A4%E7%BD%AA%E8%A8%80%E8%AE%BA/" target="cdt-mirror">BBC｜中国官媒发布维权律师“认罪”言论</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg" alt="150718215643_f_976x549_ap" width="550" height="309"></a><p>中国媒体说，北京市锋锐律师事务所9名律师、数名助理及相关人士被当局“依法采取刑事强制措施”。</p></div>
-<p><strong>中国官方新华社与中央电视台就北京市锋锐律师事务所案件播发了负责人周世锋律师的“认罪忏悔”言论。</strong></p>
-<p>报道称，北京市锋锐律师事务所9名律师——周世锋、王宇、李和平、谢燕益、隋牧青、黄力群、谢远东、谢阳、刘建军——数名助理及相关人士被当局“依法采取刑事强制措施”。</p>
-<p>其中一名被拘律师谢燕益的妻子周日（7月19日）向BBC中文网确认，将计划对新华网及参与该报道采访的6名记者提起民事诉讼。</p>
-<p>同日，香港有多名律师及法律界立法会议员发起网上联署，声称声援中国内地超过100名被捕的维权律师。</p>
-<p>这篇由新华社记者与中共《人民日报》记者联合署名的报道援引警方消息说：“近日，公安部指挥多地公安机关摧毁一个以北京市锋锐律师事务所为平台，少数律师、推手、‘访民’相互勾连、滋事扰序的涉嫌重大犯罪团伙。”</p>
-<p>报道说：“这些涉案律师……不顾当事人的利益，用法庭内闹庭、庭外‘围观’等方式炒作办案，借机出名渔利。此外，周世锋还涉嫌行贿国家机关工作人员。”</p>
-<p>北京警方通报说：“以北京市锋锐律师事务所为平台，周世锋、王宇等人组成的犯罪团伙，自2012年7月以来，先后组织策划40余起案事件，打着‘维权’‘公益’等旗号炒作，借机出名，从中牟取利益。”</p>
-<p>新华社在报道中引述周世锋的认罪言论说：“我认罪，希望能给我一个机会。”</p>
-<p>除周世锋外，该报道还引述了谢远东、翟岩民、刘四新等多名被捕人员的供词，指被捕的律师通过“炒作”案件、利用“访民”制造声势等方式妨碍司法，包括试图引起国际社会关注，来谋取个人利益。</p>
-<p>不过在程序上，这些被捕人员尚未经过法庭审讯，有声音中国媒体在进行“媒体审判”。</p>
-<h2>“他们这是诱导”</h2>
-<p>谢燕益的妻子原珊珊在周日总部在中国境外的倡导组织维权网上（Chinese Human Rights Defenders）发布一份起诉状，表示将对新华网及参与相关报道的记者提出民事起诉。</p>
-<p>原珊珊向BBC中文网表示，计划提出起诉的原因是家属认为谢燕益与报道中所提及的案件没有关联，而当局在对他采取刑事措施时也未依法及时通知家属。</p>
-<p>“谢燕益律师做哪一件事情都是依法理性地做代理或者是给当事人争取权利，”原珊珊通过电话告诉BBC中文网说，并且表示谢燕益与锋锐律师事务所也没有业务来往和关联。</p>
-<p>谢燕益是曾代理过多起维权案件的中国人权律师。关于北京锋锐律师事务所律师及工作人员被控告的案件具体情况，原珊珊表示了解得并不详尽，她只是认为谢燕益与该具体案件“没什么关系”。</p>
-<p>“并且在家属还没有收到任何通知的情况下，他们就这样去报道，是不是会影响公安机关以后披露真相？”原珊珊表示，新华网的报道像是在进行一场“舆论公审”。</p>
-<p>原珊珊承认自己并非法律专业人士，不过对于报道产生的影响，她向BBC中文网表示：“他们这是诱导吧。”</p>
-<p>稍早前，长沙律师杨金柱宣布为周世锋担任代表律师。杨金柱目前并未对官媒所属的认罪言论作出回应，但据维权网刊发杨金柱递交长沙市司法局与律师协会的报道所 述，杨金柱承诺在替周世锋辩护的过程中，“绝对不接受境外媒体记者的任何采访”，“绝对不在博客、微博或者其它媒体发表违法言论”。</p>
-<h2>维权律师被捕</h2>
-<p>海外的媒体和人权团体说，在过去一周以来，中国各地众多律师被约谈和传唤，许多维权律师受到警方警告或威胁。</p>
-<p>法新社的报道说，在全中国范围内对维权律师和活动人士的打压行动中，近200人受到约谈和被捕。</p>
-<p>国际特赦组织说，目前中国警方仍拘捕着31名律师和活动人士。</p>
-<p>这一事件受到西方和港台等各方广泛关注，美国国务院早些时候发表声明说，中国警方“有组织扣留”一些“和平捍卫他人权益”，“合法地挑战官方政策”的人，强烈促请中国尊重公民权利，释放被捕人员。</p>
-<p>但随后，《人民日报》旗下《环球时报》周二亦发表社评说，美国回应中国抓捕维权律师的言论“与其以往在人权领域向中国发难一脉相承”。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%8F%91%E5%B8%83%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%AE%A4%E7%BD%AA%E8%A8%80%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BA%A6%E5%9E%9B%E5%8D%9A%E5%AE%A2%EF%BD%9C%E6%9E%81%E5%85%B6%E4%B8%A5%E5%B3%BB-%E5%86%85%E9%83%A8%E4%BA%BA%E5%A3%AB%E6%8F%AD%E5%86%9B%E9%98%9F%E5%8F%8D%E8%85%90%E7%9C%9F%E5%AE%9E%E6%83%85%E7%8A%B6/" target="cdt-mirror">麦垛博客｜极其严峻 内部人士揭军队反腐真实情状</a>
-</h2>
-<p><p>北京时间7月17日，解放军总政副主任兼军纪委书记杜金才在党刊《求是》撰文，立场鲜明、态度强烈地系统阐述政治纪律和政治规矩。文章带有明显的军方人物和军媒的习惯性口吻，但所陈述的问题严重性却难以等闲视之。作为军方高层核心成员之一，尤其是军纪监督者，杜金才对军队严峻形势的描述可信度极高。如此的话，军队反腐整顿仍然不容乐观，未来的走向也越发难以预测。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/xucaihpu.jpg" alt="xucaihpu" width="551" height="413"><br>
-军委前副主席徐才厚已经落马，但是完全清除他所造成的负面影响仍然任重道远</p>
-<p>杜金才在第二部分谈及目前存在的突出问题时指出，“实事求是地讲，党风廉政建设和反腐败斗争形势依然严峻复杂，在实现不敢腐、不能腐、不想腐上还没有取得压倒性胜利，一些问题积弊深、惯性大，迫切需要来一次‘问题大排查’‘思想大扫除’”。</p>
-<p>早在2014年8月的一次全国政协常委会上，中纪委书记王岐山就曾作出表态说，现在“不敢腐”已初见成效，“不能腐”“不想腐”还要靠制度创新。杜金才与王岐山的描述并无大的矛盾，但在接近一年之后，军队方面的反腐斗争“形势依然严峻复杂”，且在这三个方面还未取得压倒性胜利，甚至迫切需要再次注入“强心剂”，则突显出军队反腐的实际情况确实令人忧虑。</p>
-<p>杜金才说，“习主席严肃指出的不守纪律不讲规矩种种表现，针针见血，振聋发聩”，但文中并道出说习近平的原话，其可能原因是过于敏感机密重大，不宜为外界所知。在此之后，杜金才又列举了当前军队所存在的诸多问题，例如：“有的团团伙伙结圈子，以人划线、以地域划线、以单位划线，搞远近亲疏，罗织利益交换的关系网；有的口无遮拦乱议论，发牢骚讲怪话，会上不说会下乱说，甚至信谣传谣、调侃戏谑政策规定；有的以权谋私搞特殊，利用职务影响捞好处饱私囊，明里暗里为子女亲属谋取不正当利益”。</p>
-<p>中国军队一直有着较为苛刻的自我要求，军纪在执行层面比党纪国法都更为严格。军方人物和军媒讲话一般也比较郑重严厉。杜金才的这些表述带有较为浓重的军方口吻，但其内容应当并无夸大之处。由于军队的特殊性保密性，外界对军队腐败和反腐败情势不甚了解，而杜金才通过媒体自我揭黑自我批评的做法，算是为外界打开了一扇观察的窗户。</p>
-<p>截至目前，军级以上落马将官已经高达38人。军方高层、四大总部、各大军区、二炮国防大学等等军方单位几乎全被波及。在总政系统深耕近20年的军委前副主席徐才厚落马，另一位军委副主席郭伯雄也形势危急。透过这些零碎的表象也能大体推知，经过数十年感染破坏的中国军队已经是怎样的情状。短时间内的反腐行动也确实难以挽回颓势。</p>
-<p>然则军队反腐整顿仍然在进行之中。在不久前的7月10日，兰州军区联勤部原政委邓瑞华被调查。他也正是目前落马的军级以上的第38位。受到外界较多关注的是他所在的兰州军区。兰州军区成为2015年军队查处大案要案进程中首个双主官皆涉案的部门，另一位2015年4月末被公布的该军区联勤部原部长占国桥。再加上几天前现任军委副主席范长龙率多名高级将领巡视兰州军区，显示出军队打虎反腐的最动向。</p>
-<p>中共新决策者对军队的规划部署是一项重大工程，反腐是其中的重要方面，其他的议程还包括军队现代化改革，军队战斗力的提升，甚或在不久的将来打赢一场战争。杜金才在他的文章第一部分谈到军队的意识形态斗争时说，当前，敌对势力政治渗透矛头直指党对军队绝对领导，大肆鼓吹“军队非党化、非政治化”和“军队国家化”，恣意虚无历史、诋毁军队、抹黑英烈，妄图对我军拔根去魂。</p>
-<p>可见，军队思想领域也出现了严重的变数。中共对军队的要求越高，军队的变化就会越大，而做出改变遭受的阻力也会相应增长。有消息称，即将召开的北戴河会议将会讨论军队改革问题。这说明军队改变之重、之难、之大。而在北戴河会议之后，军队方面的变化或将进入新的阶段。届时不排除会再大“大老虎”现身。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BA%A6%E5%9E%9B%E5%8D%9A%E5%AE%A2%EF%BD%9C%E6%9E%81%E5%85%B6%E4%B8%A5%E5%B3%BB-%E5%86%85%E9%83%A8%E4%BA%BA%E5%A3%AB%E6%8F%AD%E5%86%9B%E9%98%9F%E5%8F%8D%E8%85%90%E7%9C%9F%E5%AE%9E%E6%83%85%E7%8A%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%80%81%E8%99%8E/?category=18271" rel="tag">大老虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -619,7 +604,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zvmgms7teq30.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1lbj3j02zx4av.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -629,5 +614,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
                 <td></td>
                 
         
-        <td><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://dsbusbmq9e23z.cloudfront.net">https://dsbusbmq9e23z.cloudfront.net</a><br/><a href="https://dwx4gbz0zmacf.cloudfront.net">https://dwx4gbz0zmacf.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1lbj3j02zx4av.cloudfront.net">https://d1lbj3j02zx4av.cloudfront.net</a><br/><a href="https://d2zvmgms7teq30.cloudfront.net">https://d2zvmgms7teq30.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://dwx4gbz0zmacf.cloudfront.net">https://dwx4gbz0zmacf.cloudfront.net</a><br/><a href="https://dsbusbmq9e23z.cloudfront.net">https://dsbusbmq9e23z.cloudfront.net</a><br/></td>    </tr>
 </table>

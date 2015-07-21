@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/><a href="https://dwha80lyae1yk.cloudfront.net">https://dwha80lyae1yk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/><a href="https://dwha80lyae1yk.cloudfront.net">https://dwha80lyae1yk.cloudfront.net</a><br/><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313/" target="cdt-mirror">博谈网｜《朝日新闻》社论：习打压人权律师损害13亿中国人</a>
@@ -147,7 +147,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E9%80%BB%E8%BE%91/?category=18271" rel="tag">国产逻辑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">官方意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9%E6%98%AF%E4%BB%80%E4%B9%88/" target="cdt-mirror">新华网 | 中共的政治规矩是什么</a>
 </h2>
@@ -614,5 +614,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://dwha80lyae1yk.cloudfront.net">https://dwha80lyae1yk.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3pfnfiqgdzxli.cloudfront.net">https://d3pfnfiqgdzxli.cloudfront.net</a><br/><a href="https://d2q927kn2kdksu.cloudfront.net">https://d2q927kn2kdksu.cloudfront.net</a><br/><a href="https://d1gl66gqdbafbg.cloudfront.net">https://d1gl66gqdbafbg.cloudfront.net</a><br/><a href="https://dwha80lyae1yk.cloudfront.net">https://dwha80lyae1yk.cloudfront.net</a><br/><a href="https://d3exa92796wh5e.cloudfront.net">https://d3exa92796wh5e.cloudfront.net</a><br/></td>    </tr>
 </table>

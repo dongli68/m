@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsi2a3cimrkwf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A3%80%E6%9F%A5%E7%82%B9%E6%9C%AA%E5%81%9C%E8%BD%A6-%E6%96%B0%E7%96%86%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9E%AA%E5%87%BB%E6%AD%BB/" target="cdt-mirror">自由亚洲 | 检查点未停车 新疆女教师被警察枪击死亡</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/image1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/image1.jpg" alt="2014年7月18日，新疆教师李文洁在温宿县一临时检查站疑因未有停车被击毙。" width="300" height="229"></a><p>2014年7月18日，新疆教师李文洁在温宿县一临时检查站疑因未有停车被击毙。</p></div>
+<p>新疆阿克苏地区一名女教师，在去年7月疑因未有在治安检查点停车，被警察开枪击中头部当场死亡。当局其后将事件定性为“枪击意外致人死亡”，死者丈夫称，当局作出的调查结论与事实严重不符，家属会追究到底，还原事实真相。(潘加晴/何山报道)</p>
+<p>死者丈夫张振海近日在微博发帖称，2014年7月18日下午4时许，新疆阿克苏地区职业技术学院艺术系女教师李文洁，驾车带著8岁的女儿到温宿县辖区参加钢琴大赛，途经阿温大道大欣国际汽车城前300米温宿县公安局设立的治安检查点，以时速40公哩的速度，在未受到任何阻拦、并已经正常经过治安检查点的情况下，从车辆后部开枪击中头部前额致死，子弹从后排女儿额头擦过，差一点就一枪两命。</p>
+<p>张振海说，当时负责李文洁后事处理的温宿县检察院领导拍著胸脯对他们家属说：“我以温宿县检察院领导的身份向你们家属保证，一定会还原事实真相，妥善处理李文洁死亡一事，请家属相信我，请家属放心”。</p>
+<p>但当局其后将事件定性为“枪击意外致人死亡”，并对家属提出还原事实真相的诉求，相互推诿。</p>
+<p>张振海周二(21日)晚接受本台访问时表示，从事发到现在已经过了一年，家属提出的还原事实真相诉求，迟迟不予解决。开枪的警察没有说个一句道歉说话，公安局也没有一个人站出来对此事说明处理。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/af0fb035-ec77-4b75-8bdb-6bd198ea1195.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/af0fb035-ec77-4b75-8bdb-6bd198ea1195.jpeg" alt="温宿县检察院向家属发出鉴定意见通知书，将事件定性为“枪击意外致人死亡”。(张振海微博)" width="230" height="294"></a><p>温宿县检察院向家属发出鉴定意见通知书，将事件定性为“枪击意外致人死亡”。(张振海微博)</p></div>
+<p>他指出，事发地点是加气站和路口，又是上班高峰期，有监控设备，事实非常清楚，加上事发地点是临时检查站，当时又没有设立明显的标示牌，不可能是意外致死，或工伤。</p>
+<p>他说：只能以工伤(申请赔偿)，哪可能是工伤？这个是枪击事件，不可能是工伤，她是参加活动的工伤？(记者﹕如果是工伤，他们就没有责任？) 对的。工伤的说法，我们肯定不同意。</p>
+<p>本台曾致电温宿县公安局，但电话一直无人接听。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A3%80%E6%9F%A5%E7%82%B9%E6%9C%AA%E5%81%9C%E8%BD%A6-%E6%96%B0%E7%96%86%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9E%AA%E5%87%BB%E6%AD%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E5%AE%9E%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">事实真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%9E%AA/?category=18271" rel="tag">开枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">枪击事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%85%8B%E8%8B%8F/?category=18271" rel="tag">阿克苏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%94%BF%E8%A7%81-%E6%94%BF%E6%B2%BB%E6%95%99%E7%A7%91%E4%B9%A6%E6%9C%89%E6%95%88%E5%A1%91%E9%80%A0%E4%BA%86%E5%AD%A6%E7%94%9F%E7%9A%84%E8%A7%82%E5%BF%B5/" target="cdt-mirror">政见 | 政治教科书有效塑造了学生的观念</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/xh20150717_0843-%E5%89%AF%E6%9C%AC-300x199.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/xh20150717_0843-%E5%89%AF%E6%9C%AC-300x199.jpg" alt="政治教科书" width="450" height="299"></a><p>政治教科书塑造了学生的观念</p></div>
+<p>最近，一个由慕尼黑大学、斯坦福大学、加州大学伯克利分校、香港科技大学和北京大学学者组成的研究团队发现：在中国， 政治教科书通过对一些十分重要观念的解读（包括中国的政治制度、经济系统、思想体系等等），有效地塑造了学生对于中国政治社会的态度和看法。</p>
+<p>为了探究教科书与政治观念之间的因果关系，这个研究团队选择利用最近十年在中国教育系统中展开的课程改革作为切入点。在中国的教育体系中，各省高考所考核的内容、所使用的教科书不尽相同。在同样一套课程标准之下，每个省的教育主管部门都可以根据自己地方的情况，选择其省内学生使用的教材。然而，自2001年起，由教育部主导的第八次全国课程改革在政治（意识形态）教育上做出了很多新的改变，新的课程标准（以下简称“课标”）引入了更多对于中国基层政治制度的介绍，对于国家经济制度和少数民族制度的教学内容也进行了全新的编写。在这一份新课标的指导下，各省相继更换了根据新课标编写的政治教材。</p>
+<p>为了观察这场政治（意识形态）教育的改革对学生政治态度的变化，研究团队在北京大学展开了一次线上调查，向近2000名北京大学的本科生询问他们对政治、经济、民族、环境等诸多议题的态度的态度。</p>
+<p>他们发现，在政治参与和民主制度方面，由于新课标涵盖了更多对中国基层政治制度的介绍，特别是对选举相对细致的描述和解释，因此，使用新课标的学生会更加关心中国的选举制度。他们也会更加倾向于认为：普通人有权决定谁来担任基层管理者——村长。</p>
+<p>另一方面，也正是因为新课标教课书将更多的笔墨用于介绍中国的基层政治制度，接受这套课程标准的学生更倾向认为中国正在变得更民主。</p>
+<p>在政府信任方面，新的课程体系中出现了一个题为“中国政府的权威来自哪里”的全新单元。这一改动使得学生对政府信任的态度发生了改变。新课标教学体系的学生变得更加信任各级政府、法院和公安。</p>
+<p>另外，新课标在思想政治部分还加入了江泽民提出的“三个代表”思想。研究者们发现，学生在学习了带有“三个代表”思想的教科书后，更愿意相信不仅仅是中共党员和政府官员，其他“非体制内人士”也有权对政府政策产生影响，这一变化正反映了”三个代表“思想中表达对非公经济人士的吸纳。</p>
+<p>新课标在政治态度的“改造”不可谓不成功。然而在经济知识方面，由于删除了原来对市场经济的阐释，新课标的学生表达了对市场经济更多的质疑。</p>
+<p>另外，在民族事务的议题上，新课标加强了对“少数民族和汉族之间同属于中华民族”这一观点的诠释。这一变化给汉族和少数民族学生带来了不同的影响。汉族的学生变得更愿意接受少数民族和汉族的通婚。对少数民族学生来说，虽然使用新课标教课的学生与使用旧教材的学生对于通婚的问题并没有变化，但是前者较之后者更加认同“自己是中国人”这一观念。</p>
+<p>研究者们也对新课标中增加的环境问题模块进行了检验。他们发现，学生虽然使用了新教材，接受了更多对环境问题的宣传教育，但他们并没有比过去的学生更加重视环境问题。</p>
+<p>对于这项研究，一个比较有代表性的质疑是：可能并不是教材的变化，而是老师教学方式的变化造成了所谓教材改革效应的“假象”。不过，研究者们发现，新课标并没有对既有的教学方式以及对高考的重视程度发生任何实质的变化。同时， 研究者们也运用了调整标准误、缩小样本、检验自然实验之前的趋势（pre-trend）以及随机模拟等方式来论证他们的观点是稳健的。</p>
+<p>这个设计精巧且议题丰富的研究并不是十全十美。其样本仅仅选择了北京大学本科生。他们也许在高中时代更加热衷于学习，比其他成绩平平的学生花了更多地时间在背诵记忆政治教科书的内容，所以教科书的新内容才对这群优等生有显著的影响。</p>
+<p>参考文献</p>
+<blockquote><p>Cantoni, D., Chen, Y., Yang, D. Y., Yuchtman, N., & Zhang, Y. J. (2014).Curriculum and Ideology (No. w20112). National Bureau of Economic Research.</p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%94%BF%E8%A7%81-%E6%94%BF%E6%B2%BB%E6%95%99%E7%A7%91%E4%B9%A6%E6%9C%89%E6%95%88%E5%A1%91%E9%80%A0%E4%BA%86%E5%AD%A6%E7%94%9F%E7%9A%84%E8%A7%82%E5%BF%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E7%A7%91%E4%B9%A6/?category=18271" rel="tag">政治教科书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%8D%94%E6%9E%9Dfm%E5%85%AC%E5%91%8A%EF%BC%9A%E6%96%B0%E8%8A%82%E7%9B%AE%E5%85%88%E5%AE%A1%E5%90%8E%E5%8F%91/" target="cdt-mirror">【立存此照】荔枝FM公告：新节目先审后发</a>
 </h2>
 <p><p>荔枝FM公告：为配合国家“净网2015”行动及响应国家对文化安全、网络安全等11个领域的安全规范法律精神，荔枝FM将加强对所涉内容的播客、节目的管理和梳理清查。从即日起，所有新上传节目均会经由先审查后发布的程序，可能会造成节目发布延误，敬请主播知悉和谅解。</p>
@@ -504,83 +551,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AE%B2%E5%BC%A0-%E4%BA%BA%E7%94%9F%E5%BD%93%E7%84%B6%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E6%95%99%E8%AE%AD%E5%82%BB%E9%80%BC%E7%9A%84/" target="cdt-mirror">讲张 | 人生当然不是用来教训傻逼的</a>
-</h2>
-<p><p>我早就说过，抹黑的手法有很多种，揭露私生活只是其中一种。</p>
-<p>还有一种是隐秘的文字导向。其主要目的就是将被抹黑者导向非主流或不道德的境地。</p>
-<p>比如说吧，说某个律师没有执业资格，意味着他可能不是律师。但实际情形，往往不过是没有通过年审而已。没有通过年审的优秀律师其实很多，最近几年尤其多。</p>
-<p>就像昨晚人日新华喉舌联合署名发表的关于刘四新先生的文字，说他“具有法学背景”，而实际上，刘博士是北大刑法学博士，在浙大做过经济法博士后研究，另外，还是政法大学硕士，在美国也取得过国际法硕士学位。</p>
-<p>如此高大上的学历背景，黄、邹两位喉舌自然不会涉及。一旦涉及，等于是为对方作正面宣传。</p>
-<p>至于刘博士为“刑满释放人员”，其来龙去脉也不难搞清。实乃冲冠一怒为妻子，反被人诬陷而已。</p>
-<p>但是一般读者哪里会管得了那么多？一看到“刑满释放”、“没有执业资格”等词汇，就认定此人不是“好人”（多么淳朴的二分法），会先入为主地。</p>
-<p>对于高学历人士，抹黑手法当然无法从学历上着手。但是对于一些草根精英，则此招必用。如对于福建吴先生，则强调其“初中学历”。</p>
-<p>“初中学历”是一种什么概念？等于只念完了九年制义务教育阶段的课程。一般读者很容易将此符号与他们所熟知的一些身边小混混等同起来。</p>
-<p>大家回想一下，身边是否有一些同学初中毕业即跑出去“混社会”了？</p>
-<p>“初中学历”意味着更多。比如脑子愚蠢，比如不思进取，比如无心学业，比如打架斗殴，比如偏离主流，比如渴望出人头地，比如也许不择手段……这类联想是无止境的。</p>
-<p>一句话，在不露声色的号称“新闻真实”的叙述中，媒体已经将被抹黑对象导向了道德上充满瑕疵的境地。</p>
-<p>只要花一点时间，这些抹黑手段是极易识别的。至于有人跟着央视、人日和新华起舞，附和或配合抹黑，则一来是信息被垄断之故，二来，也足可证明此人太懒脑子少根筋。</p>
-<p>对这类人士，我的看法是如果你了解其心性，熟悉其一般为人，判断其属于临时性拎不清，则可以稍加解释一番；对那种明显恶意的傻逼或水军，则大可置之不理，或痛骂一顿了事。</p>
-<p>当然，也许你更需要动动手指，转发一些你所确认的事实和真相。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%AE%B2%E5%BC%A0-%E4%BA%BA%E7%94%9F%E5%BD%93%E7%84%B6%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E6%95%99%E8%AE%AD%E5%82%BB%E9%80%BC%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E9%BB%91/?category=18271" rel="tag">抹黑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">职业资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AC%E9%99%B7/?category=18271" rel="tag">诬陷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7/?category=18271" rel="tag">道德</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋报道的中英版内容对照</a>
-</h2>
-<p><p>2015年7月18日，人民日报与新华社记者发表了一篇联合报道，详细描述了北京市锋锐律师事务所主任周世锋日前认罪忏悔的内容。这是继央视焦点访谈播出所谓曝光“’维权圈’幕后推手”节目后，官媒对周世锋、王宇等维权律师进行的又一次“媒体审判”。</p>
-<p>新华网英语站同时刊登了一篇与<a href="http://news.xinhuanet.com/legal/2015-07/18/c_1115967431.htm">中文报道</a>相对应的<a href="http://news.xinhuanet.com/english/2015-07/19/c_134424769.htm">英语稿</a>。</p>
-<p>但经过数字时代编辑仔细阅读后发现，与中文版对比，新华的英语稿件除了简短不少外，还有一些非常微妙且耐人寻味的出入。英语报道删除或替换了相当一部分形容词，摒弃了人身攻击和不少细节描述的内容，同时也避免了那些中文报道里“未审先判”的措辞。</p>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代 <a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">黑色星期五：维权律师大抓捕 </a>专题</p></blockquote>
-<p>以下为中英版不同部分中值得一提的例子，由中国数字时代编辑不完全统计后编译整理：</p>
-<p>（红字为有出入部分，蓝字为数字时代编者注释）</p>
-<blockquote><p>According to Zhou, Wu’s reputation as “butcher” was huge, and any government department would pay great attention when they knew Wu was coming.</p>
-<p>“尽管吴淦不是律师，但能起到律师不能起的作用。屠夫名气大，<span>他是邓玉娇案件的操盘手</span>，一听吴淦来了，相关单位就会重视。”</p></blockquote>
-<p><span>英语稿件中没有提及“邓玉娇案”。</span></p>
-<blockquote><p>Camera recordings for a court hearing in the northeastern city of Shenyang in April showed that several defending lawyers were shouting and screaming shortly after the trial opened despite judges’ calls for order. They later switched targets to police trying to interfere, with the firm’s female lawyer Wang Yu pointing fingers and calling them “hooligans.”</p>
-<p>法院视频资料显示，庭审刚一开始，几名辩护人就高声叫喊起来。审判长多次要求遵守法庭纪律，但这几名辩护人根本不听，<span>反而无理要求合议庭人员全体回避</span>。他们<span>不顾审判长、法警劝阻</span>，继续大吵大闹，并公然辱骂包括审判长、法警在内的法院工作人员。其中的领头者正是锋锐律所的女律师王宇。她<span>走出辩护席、带头叫骂</span>，指着法警的鼻子<span>大骂</span>其是流氓、<span>禽兽</span>，<span>将庄严的法庭变成了骂人、撒泼之地</span>，使得庭审无法进行下去。</p></blockquote>
-<p><span>以上红字部分都是英语稿件中没有的内容。可以看出减去的都是贬义形容词和带有主观色彩的细节描述。</span></p>
-<blockquote><p>According to the ministry statement, making a scene and then being forced out of court was the group’s usual tricks to paint an image of victim for themselves, induce sympathy and hype up cases on a wider scope.</p>
-<p><span>故意闹庭、制造事端，让自己被逐出法庭，刻意渲染悲情、营造“弱者”形象，然后进行一系列炒作，也是他们的另一“杀手锏”。</span></p></blockquote>
-<p><span>英语里说明了后面的内容来自司法部的报告，但中文里没有使用引号，是在作事实陈述。</span></p>
-<blockquote><p><span>2013年4月，江苏省靖江市人民法院。一起案件开庭前，辩护人、与王宇同为锋锐律所律师的王全璋，与无律师执业资格的李某某到靖江市人民检察院无 理控告承办人及主审法官。庭审中，王全璋以申请回避、捏造事实等方式干扰庭审进程；未经法庭许可，擅自用“云录音”状态的手机录音、拍照，企图传到网上炒 作。李某某未经允许，两次擅自闯入审判区坐上辩护席。鉴于其行为违反法庭秩序且情节严重，王全璋被依法治安拘留。</span></p>
-<p><span>庭外早有人做好准备，在网上迅速发起所谓“紧急营救王全璋律师”行动，煽动一批人在法院聚集闹事。靖江法院领导及主审法官的电话被公布在网上，连续几天被打爆。</span></p></blockquote>
-<p><span><strong>英语报道完全没有提及营救王全璋律师的内容。</strong></span></p>
-<blockquote><p>Zhou reportedly only accepted high-profile cases, and for those small ones, the firm would always resort to methods to boost publicity.</p>
-<p>“I let my subordinates <span>do whatever they could</span> to boost the firm’s reputation. For major, difficult cases, I would instruct them to create some influence and attract public attention,” Zhou said.</p>
-<p>为了尽快“扬名立万”，<span>周世锋选用律师不看水平、先看“名气”</span>。周世锋说，“我有两方面考虑，第一是想出名，提高所里的知名度，我就放任他们去做了；第二个是有重大疑难案件，让他们制造点影响，容易引起关注。”</p>
-<p>如今，周世锋深感后悔：“我纵容和鼓励了他们在代理案件中的<span>违法行为</span>，<span>给社会稳定带来了大的隐患，我作为所里的主任，有不可推卸的责任</span>。”</p></blockquote>
-<p><span>中文的“违法行为”在英语中成了“do whatever they could”。其余中文红字部分没有在英语报道中出现。</span></p>
-<blockquote><p>“Wang Yu enjoyed quite a reputation in the lawyer industry. Although she earned it mostly from <span>shrewish quarrels</span> and public exposure, it was an indisputable fact that everybody knew her,” Zhou said.</p>
-<p><span>对于被判过刑坐过牢、以“死磕”著称的女律师王宇</span>，“她在律师行业有名气，尽管名气靠<span>死磕</span>、炒作来的，但是一说起王宇没有不知道的。<span>这样无形中就把锋锐律所和我的知名度抬上去了。如果锋锐律所有大的疑难案件，让她介入炒作，效果很好。”周世锋说。</span></p></blockquote>
-<p><span>“死磕律师”在英语里一般翻译为“<strong>diehard lawyer</strong>”。而新华社使用的<strong>shrewish</strong>是一个对针对女性的贬义形容词，与之对应的中文大致就是“<strong>泼妇</strong>”。其余中文红字部分为英语版中缺失的内容。</span></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/diehard-lawyers.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/diehard-lawyers.png" alt="diehard lawyers" width="425" height="393"></a><p>“死磕”翻译举例</p></div>
-<blockquote><p><span>连日来，多名犯罪嫌疑人进行了深刻反思，认为自己的行为严重破坏了法律实施，更严重损害了社会公平正义。</span></p>
-<p><span>——为了扬名获利和其他不可告人的目的，极少数律师甚至不惜牺牲当事人的合法权益。</span></p></blockquote>
-<p><span><span>红字</span>部分的中文内容在英语版中完全没有出现。中文报道的表达是事实陈述，非常明确地为“犯罪嫌疑人”提前作出审判。</span></p>
-<blockquote><p>Zhou’s group then resorted to the usual tricks of <span>disrupting</span> court orders, verbally attacking judges and hyping up the case on the Interent, but the court still found all the defendants guilty.</p>
-<p>代理过程中，周世锋等人采取了<span>抹黑</span>主审法官、<span>大闹</span>法庭、网络炒作等惯用手法，<span>没想到</span>法院仍然依法判决全部被告人有罪。</p></blockquote>
-<p><span>英语使用了中性词“disrupting”，中文使用了带有贬义的“大闹”。“抹黑”、“没想到”这两个充满主观色彩的用语在英语中均没有出现。</span></p>
-<blockquote><p>In the trademark case, Zhou <span>reportedly</span> let the defendants wire the one million yuan as well as 300,000 yuan to compensate traffic costs directly to his personal account.</p>
-<p>在代理鄂尔多斯案件中，周世锋让对方将100万元代理费和30万元交通费都打到自己的账户上。江苏一起案件的30万元代理费，河南一起案件的70万元代理费，也都打到周世锋个人的账户上</p></blockquote>
-<p><span>英语版中，对周世锋的指控使用了“reportedly”（“据称”）。中文报道中是将指控当作事实来陈述。</span></p>
-<blockquote><p><span>此外，周世锋在代理一起案件时，看到当事人因车祸受伤卧床不起，便邀约该当事人的妻子外出旅游，强迫与其发生性关系，后生下一女。与周世锋有不正当男女关系的多名女性中，大多数是其乡亲托付他在北京给予照顾的晚辈。</span></p></blockquote>
-<p><span>这段道德指控的内容在英语报道中完全没有出现。新华社似乎也知道嫌疑人的私生活与本案毫无关系。</span></p>
-<blockquote><p>Liu added that “savage acts” can only become negative factors in the country’s rule of law and might also be taken advantage by foreign malicious forces.</p>
-<p>“一味的蛮干、‘<span>死磕</span>’，不利于推进全面依法治国，反而会成为依法治国的杂音和消极不利因素，还会被境外恶意利用。”</p></blockquote>
-<p><span>英语报道再次避开了“死磕”一词。</span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/628dceaagw1dkoqpzcb9bj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/628dceaagw1dkoqpzcb9bj.jpg" alt="628dceaagw1dkoqpzcb9bj" width="400" height=""></a><br><em>（《南方人物周刊》2011年9月封面；图片来自新浪微博）</em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%B7%A6/?category=18271" rel="tag">吴淦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -602,5 +572,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>

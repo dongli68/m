@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mgwkqfu36p3z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E4%BB%8A%E5%A4%A9-%E6%88%91%E6%8B%BF%E5%88%B0%E4%BA%86%E6%8A%A4%E7%85%A7/" target="cdt-mirror">【图说天朝】艾未未：今天 我拿到了护照</a>
@@ -113,7 +113,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E5%AE%9E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E7%A7%91%E4%B9%A6/?category=18271" rel="tag">政治教科书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%8D%94%E6%9E%9Dfm%E5%85%AC%E5%91%8A%EF%BC%9A%E6%96%B0%E8%8A%82%E7%9B%AE%E5%85%88%E5%AE%A1%E5%90%8E%E5%8F%91/" target="cdt-mirror">【立存此照】荔枝FM公告：新节目先审后发</a>
 </h2>
@@ -570,7 +570,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mgwkqfu36p3z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3doptgaqtbfnt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -580,5 +580,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
 </table>

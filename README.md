@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mpsg9ssceuan.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,77 @@
                 <td></td>
                 
         
-        <td><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%90%B4%E6%99%93%E6%B3%A2%EF%BC%9A%E8%B7%9F%E7%8E%8B%E6%9E%97%E5%90%88%E5%BD%B1%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%98%B2%E7%AC%91/" target="cdt-mirror">【异闻观止】吴晓波：跟王林合影的人不该被嘲笑</a>
+</h2>
+<p><p><strong>文/吴晓波</strong></p>
+<p>父亲是1950年代末的大学毕业生，自上海交大机械系毕业后，他就应招从军，在炮兵研究所工作，用他的话说，“这十多年里，打了一套家具，生了三个娃”。1978年高考恢复，他以38岁“高龄”考上第一批研究生，进了浙江大学新成立的科学仪器系，很多年里，这个系的招生考分为全校第一。</p>
+<p>80年代初，“气功热”蔓烧神州，国家科委及国防科工委拨下一笔经费，组建了几个秘密研究小组，试图破解气功之谜，父亲参与了其中的一项研究，<strong>他们将一些“气功大师”邀集到实验室，</strong><strong>试图从仪器的角度证明或证伪“气”的存在。</strong></p>
+<p>据我所知，这项研究后来不了了之，也没有见父亲出过什么科研成果，不过，从此之后，他就成了一个气功爱好者，家里有一个书柜都是这一方面的书。后来母亲得了重疾，他还四处探访气功师，为她治病，貌似效果还不错。直到现在，75岁的老父亲每天还练练吐纳，做做气功。</p>
+<p>因这一段渊源，我对气功之事，从来怀有敬畏。<strong>其实，自孔子那时起，民间神秘之人就未曾断绝，孔夫子的态度很暧昧，“子不语乱力怪神”，同时，“敬鬼神，而远之。”</strong></p>
+<p>在过去的这些年里，行走大江南北，我不时会遇到一些有特异功能的人，我曾目睹一“高人”在酒席之上，把刚刚见面不久的陌生人的电话号码，一个数字一个数字地准确报出，我还听闻或亲身经历过一些预言准确的惊人之事。</p>
+<p>不久前，读《陈一谘回忆录》，他专门有一节讲“张震寰请张宝胜、严新给我发功”。陈一谘掏出一根555牌香烟，张宝胜用手一指，再吸，竟变成雪茄味。陈维仁对此颇为不信，张宝胜指着他的衣服说，“你的右胳膊窝着火了”，大家一看，果然从陈的右肩冒出很多烟。张震寰是国防科工委主任，陈一谘是中国经济体制改革研究所所长，陈维仁是中央党校副校长，如果张气功师仅仅是另一个“刘谦”，恐怕不太好解释。</p>
+<p><strong>大凡一个成年人，在日常生活中，都可能遇到种种奇异之事、</strong><strong>特异之人，而大多数的人都如同我的父亲及陈一谘那样，将信将疑，不置是否。</strong>人对生命的好奇，是一种与生俱来的本能，而宇宙及人体的奥秘，又岂是一个已经被彻底破解的命题。连爱因斯坦都说，“我们所能经历的最美好的事情是神秘，它是所有真正的艺术和科学的源泉。最重要的是不要停止问问题，好奇心的存在，自有其道理。”</p>
+<p>拉拉杂杂写这些，是因为近日王林的那本合影画册。</p>
+<p>在过去的几年里，这位靠“空盆变蛇”而出名的江西怪人一直处在舆论的风口浪尖，本月更是因涉嫌一起凶杀案而再度引人注目。他的一本画册被曝光，其中不乏各路大小官员、企业家及娱乐明星，嘲笑之声四起，<strong>有人甚至认定王林事件“戳穿了中国精英，脱掉了他们最后一条内裤”，他们“智商很低、缺乏安全感、缺乏最基本的科学常识，渣滓俨然精英，这是时代的悲哀。”</strong></p>
+<p>这样的嘲讽相当痛快，最适合在PM2.5值很高的城市以及炎夏将至的季节传播。在这种一网打尽的语境之下，这个国家大概就是这样子的了：屌丝们在优衣库的试衣间里狂欢，中产们在股市的跌荡中沉沦，精英们在王林的会客厅里堕落。</p>
+<p>我只是有一丝丝的侥幸：大约在四年前，某次去江西调研，有朋友邀约“去一个叫王林的大师那里坐坐，据说他很神的”，我因事未成行，否则，现在应该也被当众脱掉了最后的内裤。</p>
+<p>我想说的道理很简单——</p>
+<p>王林是气功师还是魔术师，是可以讨论的事，王林的人品优劣，仁者见仁智者见智，王林有没有涉嫌谋杀，警方将给出结论。</p>
+<p>可是，与王林合影的每一个人，无论是国家领导人还是已经被枪决的贪官，无论是马云、何鸿燊还是曾荫权，无论是李冰冰还是赵薇，都没有被嘲笑、污蔑的必要。<strong>他们的智商是高还是低，他们是否有安全感，他们是否有科学常识，与他们有没有跟王林合过一张影，没有任何关系。</strong></p>
+<p>所有去见王林的人，都是对生命本身有好奇的人，如爱因斯坦所言，他们对人体的秘密和未知之事存着一份探寻的热情。他们也许去错了地方，见错了人，好奇害死猫，但天大的好奇，也不至于害得自己脱掉了内裤。</p>
+<p><strong>一个国家的智力底线，是社会的宽容能力和理性判断力。</strong>如果，各个阶层的人士，日夜以互相诋毁、嘲弄为乐事，以撕裂、对立为目标，以在思维的烂泥潭里缠斗为欢，那么，这才是一个真正的“智商很低、缺乏安全感、缺乏最基本的科学常识”的下流社会。</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E5%90%B4%E6%99%93%E6%B3%A2%E8%80%81%E5%B8%88-%E4%BD%A0%E7%9A%84%E6%83%85%E8%B6%A3%E5%86%85%E8%A1%A3%E9%9C%B2%E5%87%BA%E6%9D%A5%E4%BA%86/" target="_blank">王枪枪 | 吴晓波老师 你的情趣内衣露出来了</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%90%B4%E6%99%93%E6%B3%A2%EF%BC%9A%E8%B7%9F%E7%8E%8B%E6%9E%97%E5%90%88%E5%BD%B1%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%98%B2%E7%AC%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9/?category=18271" rel="tag">公众人物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%93%BE%E6%9D%A1/?category=18271" rel="tag">利益链条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%99%93%E6%B3%A2/?category=18271" rel="tag">吴晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E9%92%B1%E4%BA%A4%E6%98%93/?category=18271" rel="tag">权钱交易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">阶级</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%89%93%E5%B7%A5%E4%BB%94%E5%88%B0%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%AD%A6%E4%BC%9A%E4%B8%8D%E5%81%9A%E5%87%BA%E5%A4%B4%E9%B8%9F/" target="cdt-mirror">纽约时报 | 美国打工仔到中国：学会不做“出头鸟”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/19-ONWORK-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19-ONWORK-articleLarge.jpg" alt="19-ONWORK-articleLarge" width="550" height="383"></a></p>
+<p>大学毕业时，我和许多同学一样，想“有所作为”。但不久受到了美国经济危机的打击。随着一次又一次的面试以拒信告终，我的理想主义转为恐慌。</p>
+<p>后来，我读了一篇文章，说中国经济2008年增长了9％。显然，就业岗位全都去了中国，为什么不跟着去呢？几个月时间里，靠承办聚会、宴会餐饮的兼职工作，我攒够了去往北京的机票钱。</p>
+<p>得益于大学中文老师的指引，在广州郊区一家技术公司，我找到了一份商业分析师的工作。广州是中国第三大城市。从外表来看，这个拥有玻璃建筑物并让人快乐的企业园区似乎与加利福尼亚的帕洛阿尔托(Palo Alto)或山景市(Mountain View)毫无差别。里面的小隔间和荧光灯看起来也很熟悉，但是，坐在中国的办公室里工作却一点也没有正常感。</p>
+<p>然而，两三个月后，我的生活逐渐步入常规。工作日从8点半开始，我们一直工作到中午，届时，广播中会传出肯尼·基(Kenny G)用萨克斯演奏的中国古典名曲《茉莉花》，宣布午餐时间的到来。我们会在食堂排队购买便宜的午饭，比如油腻的藕片和似乎只有骨头块和肥油的“肉”。</p>
+<p>午睡时间是下午1点。我所在办工室的所有人都会从桌子下面拉出床垫，盖上被子（一名女员工甚至还抱着了一个毛绒猪）睡到下午1点半，到了时候，理查德·克莱德曼(Richard Clayderman)的舒缓钢琴曲《秋日私语》(A Comme Amour)的悲伤琶音会标志着下半个工作日的开始。</p>
+<p>有时候，在我恢复意识的前几秒钟里，我会忘记我在哪里；我会眼望窗外，看到成排的、一模一样的蓝色玻璃办公大楼，感到一种深深的存在恐慌。但之后，我会打开我的联想ThinkPad笔记本电脑，喝上雀巢速溶咖啡，回到Microsoft Office的麻木工作中来。下午5点半，肯尼·基的《回家》宣布一天工作的结束。</p>
+<p>我享受将充当职业老外的工作放在所有日常责任之上。由于我是办公室里唯一的美国人，有人在我身上看到了一个给公司添加国际味道的机会。我出现在企业招聘视频里，与人握手、假装开会。有的时候，我还担任过主持人、翻译和歌手。在我职业老外生涯的巅峰，在共产党主办的中国新年晚会上，我给2000名工厂工人唱过歌。</p>
+<p>我结识的第一个朋友是杰克(Jack)，他是一个有点书呆子气、但颇为自信的产品经理。到了周六，他会开着中国国产的奇瑞QQ来接我。我们会开到一个公共游泳池去。在那里，我们会游上几个来回，但因为游泳池里人非常多，我们永远无法游出一条直线。之后，我们会开车到一个露天海鲜餐厅，点上一些鱼和啤酒，坐在塑料凳子上聊天。</p>
+<p>杰克对中国常有抱怨，但不是关于审查、环境污染和人权问题。令他不满的是住房价格。杰克有一个很好的工作，但要想成功，你需要有个妻子；要想娶妻，你需要先有房子。但是，一套两间卧室的公寓售价可高达30万至200万美元（约合190万至1240万元人民币），而且，在房地产投机的煽动下，房价不断上涨。就这样，杰克在办公隔间里长年任劳任怨，为自己的婚姻幸福积累财富，但幸福却仍是遥不可及。</p>
+<p>我突然意识到，这是控制社会的一个巧妙方法。</p>
+<p>我和其他未婚的员工一样，住在公司宿舍里，在名为科学城的、一片半空的“开发区”。那里没有别的事情可做，没有吃饭的地方，除了可怕的食堂和难吃的快餐店。</p>
+<p>大部分员工和杰克不同，他们没有自己的车，乘公交去城里要花一个小时的时间，乘公交的人多到让人在车上难以呼吸的程度。所以，我的同事们的大多数空闲时间是在他们房间里独自一人度过的。</p>
+<p>这种生活看似慢性精神死亡，这促使我做了一件事：搞一次员工满意程度的匿名调查。</p>
+<p>这份调查包括15道多选题，内容涉及食物，住房，薪水，福利和公司文化。我把问卷放在了一个自己创建的网站上，然后把网址贴在了公司布告栏，并起草了一封群邮。我深呼吸了一口气，然后点下了“发送”键。</p>
+<p>不到十分钟，一个人力资源部的男士就来到了我桌前。他把我带到了一间没人的会议室里，要求我把邮件信息删掉，并且把网站关掉。</p>
+<p>但是我下定了决心，要用自己职业老外的身份来改变现状，所以就继续做我的调查。我收到了大概300份回复。其中一个员工写到：</p>
+<p>“男人太多，女人不够，篮球场不够！”</p>
+<p>另一个员工则写到：</p>
+<p>“1. 表面上加班是自愿的，但事实上存在一些隐性标准。如果这个月班加少了，那么老板下个月就会手持你的加班数据，找你谈话。”</p>
+<p>“2. 食堂的食物太糟糕，严重影响员工的健康。”</p>
+<p>“3. 薪水不是特别高，而且还逐年减少我们的福利。”</p>
+<p>一度看起来，我不会因为这次调查遭受不良影响。不过后来老板把我叫到了他的办公室。“听着，人们总是会有不满意的地方，”他说道，“但是我们没法每天都给他们提供鹅肝酱。你这样看起来好像是在挑拨公司和员工的关系。他们想要的是维护融洽的氛围。”</p>
+<p>他说如果我给管理部门写一封道歉信，就会保我没事。我同意了，不过把我的调查结果也附带着给交了，就当是给我闯的“祸”做个“补偿”。我为自己的过错写下了一份没有意义的检讨书，然后终止了我的调查。之后我又继续在公司里工作了一年。</p>
+<p>回首过往，我看得出以前我把自己当成了一个英雄。想象着自己横空出世，挑战权威，拯救员工。</p>
+<p>但是要在新的文化环境下改变任何事物，特别是在中国，你需要了解所牵涉到的人，他们的动机，以及事情的由来。这是需要花费时间和耐性的。</p>
+<p>如果一个员工在没有得到允许的情况下，在全公司发放调查问卷，那么即使是美国公司也会不同意。最后，我的公司还是很宽宏大量。管理部门最后确实也整改了食堂，并且引入了员工奖金计划。不过我不知道这是不是我的问卷起了作用。</p>
+<p>如果我坚持留下来和他们一起工作，我还能实现多少成就呢？</p>
+<p>尽管如此，问卷的事件让我明白，数据和一些好的问题可以用来解决难题。自此以后，我成为了一名分析师，在香港，波士顿，雅加达和印度尼西亚都工作过，目前则在上海帮助一些国际公司解决难题。</p>
+<p>更重要的是，这件事让我明白，最重要的方法不是“改变现状”，而是要去了解。自此以后，不管是在中国，还是在国际业务中，亦或是在生活里，这成了我一直都在奉行的一条原则。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%89%93%E5%B7%A5%E4%BB%94%E5%88%B0%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%AD%A6%E4%BC%9A%E4%B8%8D%E5%81%9A%E5%87%BA%E5%A4%B4%E9%B8%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">企业环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%9B%E8%81%98/?category=18271" rel="tag">招聘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">理想主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">美国人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313/" target="cdt-mirror">博谈网｜《朝日新闻》社论：习打压人权律师损害13亿中国人</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg" alt="150718215643_f_976x549_ap" width="550" height="309"></a></p>
@@ -549,50 +617,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E7%89%A9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%A5%B3%E7%94%A8%E8%83%B8%E9%83%A8%E8%A2%AD%E8%AD%A6%E7%BD%AA%E6%88%90%E5%9B%BD%E9%99%85%E4%BC%A0%E5%AA%92%E8%85%BE%E7%AC%91/" target="cdt-mirror">法广｜港女用胸部“袭警”罪成国际传媒腾笑</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/hk_13.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/hk_13.jpg" alt="hk_13" width="550" height=""></a><p>香港警察</p></div>
-<p><strong>香港警察在雨伞行动及反水货客示威中，起诉多人“袭警”，但很多都因为证据不足或供词前后矛盾而被撤去控罪，但最近一宗“袭警”罪名成立的例子，却成为国际传媒竞相刊登的笑话，美国著名的《赫芬顿邮报》的标题更迹近挖苦：“香港女示威者用最知名的武器－－胸部袭击警员，被判罪成。”</strong></p>
-<p>案件涉及20岁的男学生与任职文员的30岁女友吴丽英，两人被指参与3月1日“光复元朗”反水货客示威期间，阻差办公及袭警，两人否认控罪受审。</p>
-<p>暂委裁判官陈碧桥早前裁决时指，邝及吴虚构总督察非礼吴，并裁定吴当日以胸口撞向总督察上臂的方式属袭警。</p>
-<p>这个裁判官于是裁定，邝及吴阻差办公及袭警罪成，并特指吴用女性身份诬蔑被总督察非礼，是非常恶毒的行为，会令总督察在职业上及名誉受到很大伤害。</p>
-<p>美国《时代》网站以“一名香港女子被裁定以胸袭击警员罪成”为题报道事件，又在报道中以迹近嘲笑的语气指“警员未有透露被袭击后的伤势”；英国《独立报》则以“香港女示威者被裁定以胸袭警罪成”为题报道。</p>
-<p>其实香港的男性警察亦经常参与涉及使用“最低武力”拘捕及抬走不合作的女示威者，警方从未因此而受到非议或起诉。更有警察在雨伞行动中用警棍挥打路过的途人，以及有7个警察将示威者拖入暗角拳打脚踢，尽管事发经过都被摄录机录下，但上述肇事警察仍然逍遥法外。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%A5%B3%E7%94%A8%E8%83%B8%E9%83%A8%E8%A2%AD%E8%AD%A6%E7%BD%AA%E6%88%90%E5%9B%BD%E9%99%85%E4%BC%A0%E5%AA%92%E8%85%BE%E7%AC%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B0%B4%E5%AE%A2/?category=18271" rel="tag">反水客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89/?category=18271" rel="tag">香港普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">香港警察</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E8%90%A7%E7%80%9A-%E6%9D%83%E5%8A%9B%E7%9A%84%E9%BE%99%E5%8F%98%EF%BC%9A%E4%BB%8E%E5%8F%8D%E8%85%90%E8%BF%90%E5%8A%A8%E5%88%B0%E7%BB%91%E6%9E%B6%E5%BE%8B/" target="cdt-mirror">纵览中国｜萧瀚: 权力的龙变——从反腐运动到绑架律师</a>
-</h2>
-<p><p>近期以警方查抄锋锐律师事务所、周世锋律师被警方绑架、王宇律师一家三口夫妻被警方绑架、儿子被多次非法限制人身自由并恐吓为标志的大规模整肃律师群体事件，很让人有瞠乎其后之感——这几年的人权纪录一日千里地恶化，至于到现在传唤、抓捕、恐吓数百名律师的事都敢做了。</p>
-<p>美国记者艾玛.拉金（Emma Larkin）2006年出版的Finding George Orwell in Burma（《在缅甸寻找奥威尔》）中写过一个在缅甸流传甚广的传说。有个村子被一条恶龙肆虐，牠要求村里每年都得进贡一个处女给自己献祭，每年也因此都有一个勇士越过附近的那座山去跟恶龙搏斗，但没有一个英雄能回来。后来又有一位勇士翻山去杀恶龙，有人悄然尾随其后。这位秘密跟踪者终于发现了全部的真相：龙穴里铺满了金银财宝，英雄仗剑屠龙后坐在龙尸上，艳羡地看着光芒闪烁的财宝，慢慢地长出鳞片、尾巴和触角……，英雄变成了村人痛恨的恶龙。</p>
-<p>拉金讲完这个故事后，说“这个传说的道德训诫与奥威尔的《动物庄园》是相同的”。就像托尔金的“魔戒”预示着权力对人心的腐蚀，这个故事也一样，它以十分简单的情节就深刻地揭示了权力致胜者所受权力的腐蚀之甚。</p>
-<p>几年前我就担心，反腐运动（这依然只是场政治运动而非法治）给当政者带来巨大的道德自负，而普通民众对程序正义的不敏感也会授予当政者错误的道德光环，这双份的政治正当性毒酒会让当政者在使用权力时更加无所顾忌。现在进行时的态势已经悲哀地证实着这些担忧。原先让许多人欢欣鼓舞的反腐的权力，正在成为比原先可能更恶劣践踏民权的恣肆权力。</p>
-<p>我的一位作家朋友感慨说，像明朝那样，连整个官僚阶层都觉得毫无安全感的时候，百姓的日子只会更惨，中国历史向来如此。这一概括虽然简单，但颇含深意，这是权力法则所决定的，各级官员毕竟是当政者的手足——哪怕只是个脚趾头甚至一根汗毛，动他们总要下狠心的，对他们都下得了狠手，那么对谁下不了狠心呢？敢于自断手足者不可能不敢刀劈斧削别人。律师群体正是当政者觉得自己对民间恣肆乱权的极大障碍，因为相对来说，律师群体一定是一个社会最让当权者感到掣肘的群体，哪怕平常时候人们会视专制下的律师只是个装点门面的制度摆设，但没有这个摆设和有这个摆设还是有些许差别。</p>
-<p>由于制度的原因，体制内大大小小掌权的，尤其是手握实权和重权的官员们，无论中央还是地方，要完全远离贪腐可不是件容易的事，看中国古代历史就知道，官员们仅仅凭着薪水不依靠贪腐，根本不可能维持他们那种奢侈的官僚阶层交往，这种状况如今也没有改变。因此，要找出点各级官员身上的贪腐、渎职等毛病，实在是易如反掌；再说，规范官僚体制的各种规章制度朝令夕改、条文间相互冲突，想要整一个人，随便找上几条扣上，也能八九不离十，因此，非制度性、法治化的反腐，而是搞运动式反腐，最佳效果无非是选择性地整倒巨贪、震慑中贪小贪，让国库更加充盈，至于是否有利于民生那可不一定；而一般效果也无非是权力斗兽场上硝烟四起、风云跌宕，不管谁，在失败的权斗过程中只要扣个“贪官”的帽子，也就万劫不复了，谁管他们的生死呢？百姓最恨贪腐，既然某官被戴上“贪官”的铁帽子了，哪里还会有生路？然而，就像帝制时代的中国，各个朝代一些新皇登基之后，为了迅速扩张自己的权力，不惜用种种惨酷手段除掉权力对手，古代用得最多的罪名就是“谋反”，相当于“反革命”或“危害国家安全”——权力掌控者很了解用什么名义最能获得合法性和正当性承认，就像现在用“贪腐”。只要没有独立的司法，没有正当程序，没有司法公开，没有言论自由，中央集权下的反腐就跟中共历史上的历次肃反性政治运动不会有性质上的差别，只是贪官被发现冤枉的概率更低，其选择性执法的隐蔽能力更强。</p>
-<p>如果将反腐视为就是还给民间公正，那就是个天大的笑话，宪政制度日常性的反腐都未必代表着归还社会公正，遑论专制制度下。周永康被整垮并被判处无期徒刑，但他在位期间作的恶却并不因此就能被纠正，尤其不意味着当时受了冤屈和不公正对待的人能重新获得弥补。就像那位传说中变成恶龙的缅甸英雄，专制权力在整垮周永康们的同时，也当然至少继承了周永康们的权势利益，甚至还可能包括一切不公正原本会给周永康们即将带来的更多潜在利益。因此，民间受到的荼毒绝不会因为周永康们的垮台而终止，平民百姓的日常生活并不会因此而改善，不公正状态倘能不加剧就要烧高香了。油价并没有随着周永康下台而迅速下调，油品也不可能立刻提高；血腥强拆的报道少了，可是谁知道是因为强拆真的少了，还是因为媒体被强拆的多了呢？周永康们是下台了，可LXB、XZY们并没有因此走出监狱之门（甚至写出他们的名字，我在这里都发表不了），不但他们依然身陷囹圄，举报周永康的浦志强们还又进去了。</p>
-<p>我当然不可能反对反腐，我看重的是怎么反，用什么手段反，如果反腐只是又一轮无限权力的恣意行使，那只不过是权力自身在翻烙饼，张三拿刀杀人，李四夺刀继续杀，对于被杀的人一样都是屠杀。只要制度不改，反腐不反腐跟改善民生、保障公正实在没什么关系。</p>
-<p>在名义上的中央集权实质上的寡头政治下，人民还会因为势均力敌的权斗尚有容身之地，当寡头混战结果尘埃落定，弱势的权力寡头一个个落败，只剩最后独裁一权时，这独大的权力先前因忙于内斗无暇他顾，现在终于空闲下来，可以集中精力对付人民了。从媒体和出版业遭到整肃，到民间维权遭受进一步打击，直到当前连维权律师如此幼弱的群体这最后的正义掩体也遭到大规模摧毁，三年来政治生态的显著变迁，无不显示了权斗的阶段性独裁后果，也是掌权者的所谓反腐的成果，但绝不会是反腐利于人民的成果。</p>
-<p>或问，接下来还会发生什么？虽然具体细节无法预测，但总的趋势是可以推断的，这种总趋势就是经历过无数历史事实验证的权力法则的逻辑未来。如果目前这种公然大规模迫害律师肆意践踏民权的态势无法得到遏制和缓解，如罗马法谚云“无救济则无权利”，由于律师这道屏障的消失，检察院法院作为独裁党权专政工具的性质更得不到制衡式校正，那么其继续走向必然是各级官府横征暴敛的加剧，人民的权利和自由遭受进一步侵害甚至剥夺，一切反抗都会遭受比之前更为严厉的镇压。寡头性的权力和独裁式的权力，在对付人民方面的力度一定是有差别的，前者因为有同等势力的掣肘会有所忌惮，而后者既有政治合法性的支持，又没有碍手碍脚的耽耽虎视，就会更肆无忌惮，更不把人民的自由和权利放在眼里。尤为糟糕的是，如果掌权者不懂得权力谦抑原理，误以为自己是个治国奇才，以为自己的想法可以为人民造福，而完全无视人民自身的意愿，强力推行明显摧毁自由市场、干涉甚至剥夺个体自由和权利的各种政策时，权力会挟掌权者错误的动机优越感而采取更为严厉的强力手段，以至祸满人间。</p>
-<p>20世纪90年代初朱镕基确立的分税制，将大部分的税收收入都塞进中央政府的钱袋子，它导致两个恶劣的后果，一是地方政府为了生财，大规模地与民争利，滋生腐败与不公，这种冲突伴随着权力的不公正行使，会促成地方民生的进一步恶化，民意的进一步离心；二是中央政府财大气粗，就会穷奢极欲乱花钱，制造腐败及其产业链。这一状况在过去的二十年里一直是个严重问题，现在随着权力逐渐定于一尊，新的腐败团队也将随之崛起，随着律师群体维权空间的进一步萎缩，民间的生存空间也将随之进一步萎缩。这种状况在目前的经济全球化时代可能不会立刻在经济上表现出来，但时间一久，依然会严重影响国民经济。试想，什么人会愿意长期呆在一个产权得不到保障的地方积累财富？所以，目前态势若不叫停，早已开启多年的富裕者移民潮只会加剧，不会减弱，甚至这种移民潮也在逐渐蔓延到没那么富裕但同样需要安全的人群。再者，投资积极性遭受打击的同时，创造的积极性必然也同样会遭打击，市场因此受损，但恣肆的权力却并不会因为经济下行而少花钱，既没有合法性也不受制约的征税权即使不减征，税收都会在下滑的经济指数中增高比例，何况他们不可能减征税收。这一出一进，民生更趋艰难。</p>
-<p>不公正会导致反抗加剧，而加剧的反抗也会在独裁权力面前遭到更严厉的镇压，律师群体遭受进一步打压只会使不公正更趋严重，而不是减弱，失去了律师帮助的民间维权，其手段也会从有序转向混乱、和平转向暴力。最后，伴随经济下行的民生艰难与不公正加剧、不稳定加剧、镇压加剧的高压锅效应，会使得抓狂而又独裁的权力走向军国主义，这是经济体量依然庞大的集权权力遭遇危机时通常会采取的路径，只有这样的豪赌才可能转移国内的矛盾。虽然历史表明这种解决危机的办法通常不仅为祸国民，还为祸国际，并且最终祸害自己，但独裁者通常都不会有这样的智商，他们固执地将教训当经验使用，前仆后继，这是权力和人的本性决定的。</p>
-<p>《笑林广记》里有个庸医，胳膊上受了箭伤的士兵来找他，庸医拿出一把大剪刀，把露在皮肤外面的箭杆剪掉了，说剩下的不归我管了。把律师都抓起来，就像这个庸医剪箭杆，外人只是看不见箭杆了，但箭镞深陷肉中，病人痛苦依旧。人们常说，即使杀光天下的公鸡，天依然会亮的。抓律师可能让人瞧不见不公正，却不但不能消除不公正，还制造新的不公正，更不可能让天下太平，即使天下太平的表象也未必能维持多久。不公正以天文数量累积的地方一定是政治火山，它会随着不公正的活埋行动而几何级数蓄势蓄能，等待最后的喷薄爆发。</p>
-<p>奉劝某些人，收手吧，饮鸩固能止一时之渴，但终归是要死的。</p>
-<p><em>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</em></p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E8%90%A7%E7%80%9A-%E6%9D%83%E5%8A%9B%E7%9A%84%E9%BE%99%E5%8F%98%EF%BC%9A%E4%BB%8E%E5%8F%8D%E8%85%90%E8%BF%90%E5%8A%A8%E5%88%B0%E7%BB%91%E6%9E%B6%E5%BE%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -604,7 +628,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -614,5 +638,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/></td>    </tr>
 </table>

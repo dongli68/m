@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28j84tii67yl7.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%8D%94%E6%9E%9Dfm%E5%85%AC%E5%91%8A%EF%BC%9A%E6%96%B0%E8%8A%82%E7%9B%AE%E5%85%88%E5%AE%A1%E5%90%8E%E5%8F%91/" target="cdt-mirror">【立存此照】荔枝FM公告：新节目先审后发</a>
+</h2>
+<p><p>荔枝FM公告：为配合国家“净网2015”行动及响应国家对文化安全、网络安全等11个领域的安全规范法律精神，荔枝FM将加强对所涉内容的播客、节目的管理和梳理清查。从即日起，所有新上传节目均会经由先审查后发布的程序，可能会造成节目发布延误，敬请主播知悉和谅解。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%8D%94%E6%9E%9D%E5%85%AC%E5%91%8A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%8D%94%E6%9E%9D%E5%85%AC%E5%91%8A.jpg" alt="荔枝公告" width="650" height="262"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%8D%94%E6%9E%9Dfm%E5%85%AC%E5%91%8A%EF%BC%9A%E6%96%B0%E8%8A%82%E7%9B%AE%E5%85%88%E5%AE%A1%E5%90%8E%E5%8F%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%88%E5%AE%A1%E5%90%8E%E5%8F%91/?category=18271" rel="tag">先审后发</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95/" target="cdt-mirror">【真理部】房地产税立法</a>
+</h2>
+<p><p>查删《房地产税立法初稿基本成形》一文，不要炒作相关话题。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<p>附：房地产税立法初稿已成形 税率或由地方自决</p>
+<p>2015-07-14 来源： 经济参考报</p>
+<p> 房地产税立法初稿已成形 税率或由地方自决</p>
+<p>　　房地产税改革路径日渐明晰。《经济参考报》记者获悉，房地产税立法初稿已基本成形，正在内部征求意见并不断完善中。据悉，房地产税主体税种或由房产税、城镇土地使用税合并，具体税率可能将由地方在中央确定的税率区间内自行决定。</p>
+<p>　　财政部部长楼继伟日前在向十二届全国人大常委会第十五次会议作2014年中央决算报告时表示，今年将配合做好房地产税立法工作，加快房地产税立法并适时推进改革。</p>
+<p>　　据悉，房地产建设环节涉及耕地占用税、契税、城镇土地使用税、建筑安装营业税及附征城建税、教育费附加、企业所得税和印花税;交易环节，卖方销售需缴纳销售不动产营业税及附征的城建税和教育费附加、土地增值税、企业所得税或个人所得税。目前，个人买卖房屋暂时免征土地增值税和印花税。</p>
+<p>　　有业内人士指出，现行房地产税费内容繁复。对于调控而言，以交易环节调整税收为重，短期内能产生一定效果。但从建立长效机制来看，税收政策调整频繁，出台较为仓促，应急色彩浓厚，缺乏顶层设计。此外，还存在制度建设滞后、保有环节改革进展缓慢等问题。</p>
+<p>　　“现阶段保有环节几乎没有税收，历次调控均以交易环节税收为主，促进住房资源合理配置效果不够明显。” 上述业内人士表示，除保有环节税收外，现阶段交易环节税收重在调节卖方。在供求关系紧张的市场环境下，卖方承担的税负基本转嫁至买方，增加了中低收入人群和自住等合理需求的购房负担，偏离了调控方向。</p>
+<p>　　以2013年房地产相关税收为例，直接来源于房地产的税收收入约为2.56万亿元，占全国税收收入比重约为23.1%，占全国财政收入比重约为19.8%。其中，建设环节收入在房地产税收收入中占35.6%，交易环节收入占54.9%，保有环节税收仅占9.5%。</p>
+<p>　　上述业内人士表示，根据房地产税立法改革总体思路，拟在房地产相关税费负担总体不变的前提下，适当提高保有环节税负，降低建设、交易环节税费负担。</p>
+<p>　　中国政法大学财税法研究中心主任施正文在接受《经济参考报》记者采访时表示，房地产税立法初稿已基本成形，现阶段应在全国人大、财政部内部征求意见，进行完善，还没有到向专家等社会各界征求意见的阶段。</p>
+<p>　　“但房地产税改革路径的大框架已基本成形。”施正文说，主要是把现有的房产税和城镇土地使用税合并成为新的房地产税，增加房地产保有环节的税负，以房地产的评估值为征税基础。土地增值税、契税等税种暂不纳入房地产税，随着房地产税征收步入正轨，未来会再进行改革。</p>
+<p>　　国务院发展研究中心研究员倪红日也表示，房地产税改革要把现有的房产税和城镇土地使用税合并起来，已确定无疑。</p>
+<p>　　值得注意的是，上述业内人士认为，税改应注意合理制定对家庭基本需求的免税政策，同时对房地产企业持有的土地和正在开发项目征收房地产税，抑制囤地、闲置土地等行为。</p>
+<p>　　倪红日表示，现阶段房地产开发商要缴纳城镇土地使用税，未来房产税和城镇土地使用税合并后，房企也应作为有地无房新的房地产税纳税人。她认为，税收覆盖面和强度或比现在更为严厉，“新的房地产税计税依据发生很大变化。是根据房地产的评估值作为征税基础，而评估值是以市场价值为基础，进行专业计税评估。将按照土地面积和地理位置，实行差别税率”。</p>
+<p>　　有房地产商认为，未来房地产税若以评估价为缴税基础，将增加房企的囤地囤房成本。在房地产市场下滑的背景下，将对目前大量囤地囤房等行为产生抑制作用。</p>
+<p>　　此外，倪红日指出，立法框架建立起来之后，具体征收时，地方应有一定的自主权。“房地产税将作为地方税种，给地方一定的征税自主权。比较可能的方式是类似于煤炭资源税的征税方式，全国规定一个税率区间，各个地方在这个区间范围内根据当地的具体情况自主确定具体税率。各地的开征时间、具体征税依据、操作细节也会有细微不同。”施正文说，即便房地产税立法完成，可以开征房地产税，也不会全国范围内统一开征，各地会各自出台征收细则。</p>
+<p>　　针对将在什么时间、以何种形式开征，以及征收对象、免征范围的划定等涉及具体执行层面的问题，有业内人士称暂时还没有定论。</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%90%B4%E6%99%93%E6%B3%A2%EF%BC%9A%E8%B7%9F%E7%8E%8B%E6%9E%97%E5%90%88%E5%BD%B1%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%98%B2%E7%AC%91/" target="cdt-mirror">【异闻观止】吴晓波：跟王林合影的人不该被嘲笑</a>
 </h2>
 <p><p><strong>文/吴晓波</strong></p>
@@ -538,85 +581,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/" target="cdt-mirror">【内外有别】新华社周世锋认罪报道的中英版内容对照</a>
-</h2>
-<p><p>2015年7月18日，人民日报与新华社记者发表了一篇联合报道，详细描述了北京市锋锐律师事务所主任周世锋日前认罪忏悔的内容。这是继央视焦点访谈播出所谓曝光“’维权圈’幕后推手”节目后，官媒对周世锋、王宇等维权律师进行的又一次“媒体审判”。</p>
-<p>新华网英语站同时刊登了一篇与<a href="http://news.xinhuanet.com/legal/2015-07/18/c_1115967431.htm">中文报道</a>相对应的<a href="http://news.xinhuanet.com/english/2015-07/19/c_134424769.htm">英语稿</a>。</p>
-<p>但经过数字时代编辑仔细阅读后发现，与中文版对比，新华的英语稿件除了简短不少外，还有一些非常微妙且耐人寻味的出入。英语报道删除或替换了相当一部分形容词，摒弃了人身攻击和不少细节描述的内容，同时也避免了那些中文报道里“未审先判”的措辞。</p>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代 <a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">黑色星期五：维权律师大抓捕 </a>专题</p></blockquote>
-<p>以下为中英版不同部分中值得一提的例子，由中国数字时代编辑不完全统计后编译整理：</p>
-<p>（红字为有出入部分，蓝字为数字时代编者注释）</p>
-<blockquote><p>According to Zhou, Wu’s reputation as “butcher” was huge, and any government department would pay great attention when they knew Wu was coming.</p>
-<p>“尽管吴淦不是律师，但能起到律师不能起的作用。屠夫名气大，<span>他是邓玉娇案件的操盘手</span>，一听吴淦来了，相关单位就会重视。”</p></blockquote>
-<p><span>英语稿件中没有提及“邓玉娇案”。</span></p>
-<blockquote><p>Camera recordings for a court hearing in the northeastern city of Shenyang in April showed that several defending lawyers were shouting and screaming shortly after the trial opened despite judges’ calls for order. They later switched targets to police trying to interfere, with the firm’s female lawyer Wang Yu pointing fingers and calling them “hooligans.”</p>
-<p>法院视频资料显示，庭审刚一开始，几名辩护人就高声叫喊起来。审判长多次要求遵守法庭纪律，但这几名辩护人根本不听，<span>反而无理要求合议庭人员全体回避</span>。他们<span>不顾审判长、法警劝阻</span>，继续大吵大闹，并公然辱骂包括审判长、法警在内的法院工作人员。其中的领头者正是锋锐律所的女律师王宇。她<span>走出辩护席、带头叫骂</span>，指着法警的鼻子<span>大骂</span>其是流氓、<span>禽兽</span>，<span>将庄严的法庭变成了骂人、撒泼之地</span>，使得庭审无法进行下去。</p></blockquote>
-<p><span>以上红字部分都是英语稿件中没有的内容。可以看出减去的都是贬义形容词和带有主观色彩的细节描述。</span></p>
-<blockquote><p><span>According to the ministry statement</span>, making a scene and then being forced out of court was the group’s usual tricks to paint an image of victim for themselves, induce sympathy and hype up cases on a wider scope.</p>
-<p><span>故意闹庭、制造事端，让自己被逐出法庭，刻意渲染悲情、营造“弱者”形象，然后进行一系列炒作，也是他们的另一“杀手锏”。</span></p></blockquote>
-<p><span>英语里说明了后面的内容来自司法部的报告，但中文里没有使用引号，是在作事实陈述。</span></p>
-<blockquote><p><span>2013年4月，江苏省靖江市人民法院。一起案件开庭前，辩护人、与王宇同为锋锐律所律师的王全璋，与无律师执业资格的李某某到靖江市人民检察院无 理控告承办人及主审法官。庭审中，王全璋以申请回避、捏造事实等方式干扰庭审进程；未经法庭许可，擅自用“云录音”状态的手机录音、拍照，企图传到网上炒 作。李某某未经允许，两次擅自闯入审判区坐上辩护席。鉴于其行为违反法庭秩序且情节严重，王全璋被依法治安拘留。</span></p>
-<p><span>庭外早有人做好准备，在网上迅速发起所谓“紧急营救王全璋律师”行动，煽动一批人在法院聚集闹事。靖江法院领导及主审法官的电话被公布在网上，连续几天被打爆。</span></p></blockquote>
-<p><span><strong>英语报道完全没有提及营救王全璋律师的内容。</strong></span></p>
-<blockquote><p>Zhou reportedly only accepted high-profile cases, and for those small ones, the firm would always resort to methods to boost publicity.</p>
-<p>“I let my subordinates <span>do whatever they could</span> to boost the firm’s reputation. For major, difficult cases, I would instruct them to create some influence and attract public attention,” Zhou said.</p>
-<p>为了尽快“扬名立万”，<span>周世锋选用律师不看水平、先看“名气”</span>。周世锋说，“我有两方面考虑，第一是想出名，提高所里的知名度，我就放任他们去做了；第二个是有重大疑难案件，让他们制造点影响，容易引起关注。”</p>
-<p>如今，周世锋深感后悔：“我纵容和鼓励了他们在代理案件中的<span>违法行为</span>，<span>给社会稳定带来了大的隐患，我作为所里的主任，有不可推卸的责任</span>。”</p></blockquote>
-<p><span>中文的“违法行为”在英语中成了“do whatever they could”。其余中文红字部分未在英语报道中出现。</span></p>
-<blockquote><p>“Wang Yu enjoyed quite a reputation in the lawyer industry. Although she earned it mostly from <span>shrewish quarrels</span> and public exposure, it was an indisputable fact that everybody knew her,” Zhou said.</p>
-<p><span>对于被判过刑坐过牢、以“死磕”著称的女律师王宇</span>，“她在律师行业有名气，尽管名气靠<span>死磕</span>、炒作来的，但是一说起王宇没有不知道的。<span>这样无形中就把锋锐律所和我的知名度抬上去了。如果锋锐律所有大的疑难案件，让她介入炒作，效果很好。”周世锋说。</span></p></blockquote>
-<p><span>“死磕律师”在英语里一般翻译为“<strong>diehard lawyer</strong>”。而新华社使用的<strong>shrewish</strong>是一个对针对女性的贬义形容词，与之对应的中文大致就是“<strong>泼妇</strong>”。其余中文红字部分为英语版中缺失的内容。</span></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/diehard-lawyers.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/diehard-lawyers.png" alt="diehard lawyers" width="425" height="393"></a><p>“死磕”翻译举例</p></div>
-<blockquote><p><span>连日来，多名犯罪嫌疑人进行了深刻反思，认为自己的行为严重破坏了法律实施，更严重损害了社会公平正义。</span></p>
-<p><span>——为了扬名获利和其他不可告人的目的，极少数律师甚至不惜牺牲当事人的合法权益。</span></p></blockquote>
-<p><span><span>红字</span>部分的中文内容在英语版中完全没有出现。中文报道的表达是事实陈述，非常明确地为“犯罪嫌疑人”提前作出审判。</span></p>
-<blockquote><p>Zhou’s group then resorted to the usual tricks of <span>disrupting</span> court orders, verbally attacking judges and hyping up the case on the Interent, but the court still found all the defendants guilty.</p>
-<p>代理过程中，周世锋等人采取了<span>抹黑</span>主审法官、<span>大闹</span>法庭、网络炒作等惯用手法，<span>没想到</span>法院仍然依法判决全部被告人有罪。</p></blockquote>
-<p><span>英语使用了中性词“disrupting”，中文使用了带有贬义的“大闹”。“抹黑”、“没想到”这两个充满主观色彩的用语在英语中均没有出现。</span></p>
-<blockquote><p>In the trademark case, Zhou <span>reportedly</span> let the defendants wire the one million yuan as well as 300,000 yuan to compensate traffic costs directly to his personal account.</p>
-<p>在代理鄂尔多斯案件中，周世锋让对方将100万元代理费和30万元交通费都打到自己的账户上。江苏一起案件的30万元代理费，河南一起案件的70万元代理费，也都打到周世锋个人的账户上</p></blockquote>
-<p><span>英语版中，对周世锋的指控使用了“reportedly”（“据称”）。中文报道中是将指控当作事实来陈述。</span></p>
-<blockquote><p><span>此外，周世锋在代理一起案件时，看到当事人因车祸受伤卧床不起，便邀约该当事人的妻子外出旅游，强迫与其发生性关系，后生下一女。与周世锋有不正当男女关系的多名女性中，大多数是其乡亲托付他在北京给予照顾的晚辈。</span></p></blockquote>
-<p><span>这段道德指控的内容在英语报道中完全没有出现。<strong>新华社似乎也知道嫌疑人的私生活与本案毫无关系。</strong></span></p>
-<blockquote><p>Liu added that “savage acts” can only become negative factors in the country’s rule of law and might also be taken advantage by foreign malicious forces.</p>
-<p>“一味的蛮干、‘<span>死磕</span>’，不利于推进全面依法治国，反而会成为依法治国的杂音和消极不利因素，还会被境外恶意利用。”</p></blockquote>
-<p><span>英语报道再次避开了“死磕”一词。</span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/628dceaagw1dkoqpzcb9bj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/628dceaagw1dkoqpzcb9bj.jpg" alt="628dceaagw1dkoqpzcb9bj" width="400" height=""></a><br><em>（《南方人物周刊》2011年9月封面；图片来自新浪微博）</em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%91%A8%E4%B8%96%E9%94%8B%E6%8A%A5%E9%81%93%E7%9A%84%E4%B8%AD%E8%8B%B1%E7%89%88%E5%86%85%E5%AE%B9%E5%AF%B9%E7%85%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%B7%A6/?category=18271" rel="tag">吴淦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E6%B2%A1%E6%9C%89%E4%B9%B0%E5%8D%96%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%9D%80%E6%88%AE/" target="cdt-mirror">德国之声｜没有买卖就没有杀戮</a>
-</h2>
-<p><p>有调查显示，香港已经成为全球象牙交易的主要市场和中转地。90%的买家来自中国内地。香港象牙市场的火爆严重威胁到非洲大象的生存。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018484227_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018484227_30300.jpg" alt="0,,18484227_303,00" width="575" height=""></a></p>
-<p>（德国之声中文网）《野生动植物濒危物种国际贸易公约》于1989年底把非洲大象列入濒危名单，禁止跨境象牙贸易的法令于1990年初生效。但是香港政府 对1975年《野生动植物濒危物种国际贸易公约》出台前已在市场上流通的象牙发放进口和再出口许可证，这类象牙通常被称为”协议前象牙”。但是动物保护组 织”拯救大象”（Save the Elephants）指出，香港近年来出售的象牙制品数量远超过注册的储存量。这些象牙交易后被非法走私到中国内地，数量极大。</p>
-<p>拯救大象组织在肯尼亚和香港公布的调查报告指出，香港的象牙贸易已经成为国际上阻止杀戮非洲象行动中的一个严重漏洞。报告撰写人之一马丁（Esmond Martin）说：”没有哪个城市储存的象牙数量达到香港的水平。”</p>
-<p>报告中指出，在香港有72家店铺都在销售象牙制品，多为首饰和雕像，数量超过30800件。90%的买家都来自中国内地。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/015712484_40100.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/015712484_40100.jpg" alt="0,,15712484_401,00" width="575" height="324"></a><p>动物保护组织”拯救大象”指出，香港近年来出售的象牙制品数量远超过注册的储存量</p></div>
-<p>香港的低税率促成在香港购买象牙价格远低于中国内地的事实。而且香港同内地之间的边境管理松散，每年4000万的人员往来流量意味着香的象牙港贸易会对非法在非洲捕猎大象形成重大影响。</p>
-<p>野生救援协会（WildAid）的工作人员霍弗德（Alex Hofford）说：”大量非洲象仍在被猎杀，香港政府却睁一只眼闭一只眼。”</p>
-<p>报告指出，香港出售非法象牙数量位居全球第3位，仅次于肯尼亚和坦桑尼亚。</p>
-<p>北京方面加大了对贸易的限制，打击边境象牙走私。但是活动人士认为，这些措施仍然不够。</p>
-<p>拯救大象组织创办人道格拉斯-汉密尔顿（Iain Douglas-Hamilton）说：”除非完全关闭香港的象牙交易，否则这座城市会继续成为威胁物种生存的代表。”他说猎杀大象无异于是一场”屠杀”。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018484225_40100.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018484225_40100.jpg" alt="0,,18484225_401,00" width="575" height="324"></a><p>北京方面加大了对贸易的限制，打击边境象牙走私。但是活动人士认为，这些措施仍然不够。</p></div>
-<p>由于中国和中东国家对象牙的巨大需求，每年都会有3万多头大象遭到猎杀。每公斤象牙的售价达到2000美元。据估测现在非洲生活的大象数量不到47万头。</p>
-<p>道格拉斯-汉密尔顿说：”中国对于非洲象未来的命运起到关键作用。如果杀戮仍在继续，那么我们将失去非洲大多数野生象。”</p>
-<p>野生救援协会的霍弗德说：”解决这一问题的问题办法就是政府立法禁止象牙交易。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E6%B2%A1%E6%9C%89%E4%B9%B0%E5%8D%96%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%9D%80%E6%88%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">动物保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%97%E7%8C%8E/?category=18271" rel="tag">盗猎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%A1%E7%89%99%E8%B5%B0%E7%A7%81/?category=18271" rel="tag">象牙走私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2%E8%B1%A1/?category=18271" rel="tag">非洲象</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -638,5 +602,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E7%89%A9
                 <td></td>
                 
         
-        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
 </table>

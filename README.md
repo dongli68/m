@@ -24,6 +24,50 @@
         <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E4%BB%8A%E5%A4%A9-%E6%88%91%E6%8B%BF%E5%88%B0%E4%BA%86%E6%8A%A4%E7%85%A7/" target="cdt-mirror">【图说天朝】艾未未：今天 我拿到了护照</a>
+</h2>
+<p><p>@BBC Chinese：中国艺术家和异见人士艾未未@aiww 今天在其Instagram账号上发表了一张他手持中国护照的照片，并说“今天，我拿到了护照”。艾未未的护照在2011年被当局没收，无法离开中国。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CKgyeMnWIAA0lvD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CKgyeMnWIAA0lvD.jpg" alt="CKgyeMnWIAA0lvD" width="599" height="337"></a></p>
+<p> </p>
+<p>中国知名艺术家艾未未2011年被当局以经济犯罪嫌疑拘捕了近三个月，获得保释后，其护照始终未获发还。艾未未从2013年11月起，每天在其工作室门外的自行车篮里放置一束鲜花，并将照片上传社交网络，要求当局发还护照、恢复其旅行自由的权利。（德国之声）</p>
+<p> </p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2014/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E6%8A%A4%E7%85%A7%E8%A2%AB%E6%B2%A1%E6%94%B6%E7%9A%841001%E5%A4%A9/" target="_blank">艾未未：护照被没收的1001天</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E4%BB%8A%E5%A4%A9-%E6%88%91%E6%8B%BF%E5%88%B0%E4%BA%86%E6%8A%A4%E7%85%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E7%85%A7/?category=18271" rel="tag">护照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%BF%AB%E5%AE%B3/?category=18271" rel="tag">政治迫害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9D%A8%E4%BF%8A%E9%94%8B-%E7%8E%8B%E6%9E%97%EF%BC%9A%E6%B8%B8%E8%B5%B0%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BD%93%E5%88%B6%E7%BC%9D%E9%9A%99%E9%87%8C%E7%9A%84%E7%8B%90%E7%8B%B8/" target="cdt-mirror">杨俊锋 | 王林：游走于中国体制缝隙里的狐狸</a>
+</h2>
+<p><p>杨俊锋</p>
+<p>这几年来的著名话题人物“大师”王林，终于彻底栽了。中国各权威官媒不约而同地报道：王林因涉嫌雇凶杀死反目的“关门弟子”邹勇而被捕受审。网上流出的审讯画面上，大师再不复往昔神彩，形容消瘦沮丧，无异于常人。</p>
+<p>从媒体报道来看，王原本不过底层混混，并多有劣迹；他的“神功”也并不算太高明、新奇。那么，像王林之类的大师为何却能长期走红，坐拥众多名车豪宅，官员、明星、商人趋之若鹜？</p>
+<p>对此，许多报道和分析似乎并未切中要害。其实，官员及其权力才是王林的最核心资源，明星不过是用以贴金的道具，甚至也是其敛财对象，商人才是其主要猎物。在中国社会，权力才是最硬的硬通货，权力不仅支配主要的社会资源，还是真理的裁判者——至少在普通百姓的眼中仍是如此。因此，王林利用其机巧结交上官员，才是发达的关键。</p>
+<p>仔细探究王林的经历，他发达的最关键转折点在于，成功地“俘获”了原江西省公安厅厅长丁鑫发，由此叩开了他打入官场的大门，完成最关键的原始积累。由此便一通则百通，奠定了后来的王林神话的根基。</p>
+<p>总结起来，王林成功的要诀在于，俘获一个官员后，不仅利用这个官员的地位和权力为自己直接牟利，还借此巩固和放大自己的光环，尤其利用这个官员而结交更大的官员；而高官则是无意识地成了王林塑造自己光环的道具和大旗——其实在中国的各行各业，都往往把与高官的合影作为其重要的形象资本。</p>
+<p>有了官员和权力直接或间接背书，在众口相传的共振、叠加效应下，加上王林精于包装夸大的“经营”天赋，大师神话才越来越耀眼，才有大量名人和商人攀附。王大师所依附的生态链上，官员尤其是高官仍位居最顶端，而王则利用其机巧吸附在这些官员身上，构成食物链的第二级，下面依次是名人、小官、商人。</p>
+<p>如果说各路名人结好王林主要因为王的名气，那么商人包括低级官员的攀附则主要看重的是王林的权力资源。导致王林大师现形的“关门弟子”邹勇，便是典型例子。他之所以愿意不惜重金结好王林，根本原因其实并非是仰慕王的神功，而是王林的官场资源。王林官场资源确实也给邹带来过巨大的利益。</p>
+<p>据报道，邹勇找到王林说申请了一个大货场赣西电煤项目，省市两级都批了红头文件，并打了很多报告，但国家都没批下来。当时全国都在清理小货场，邹的货场也接到通知说要关闭。因此王林联系了刘志军并见到了他。见面只有几分钟，但最终刘志军批给了邹一个铁道旁原本待拆的货场，改建为大型煤炭储运中心，还配给了他几条货运线。这也成就了邹勇的巨额财富。</p>
+<p>表面上看，王大师现形是因为：了解他底细并握有实据的原关门弟子，与他反目成仇，进而一心要扳倒他，不断拼死控告揭发；同时，各大媒体跟进曝光。但根本原因则其实在于，他主要的官场宿主陈安众、朱明国等相继倒台，使他失去了权力的庇护。否则，对大师的揭发很可能早就被扼杀，甚至举报者也要身陷囹圄，也就无需后来涉嫌雇凶杀人了。</p>
+<p>其实，即便邹与王林交恶并不断揭发，各大媒体纷纷曝光王林涉嫌诈骗、非法行医、非法持枪等“七宗罪”，当地政府在舆论压力下展开调查的情况下，王林仍长时间内逍遥法外，在香港、深圳、江西等多地来去自如——而且，在这期间，王林仍不时露面并都曾引起舆论讨伐。直到最后王大师涉嫌雇凶杀人，局面才无法收拾。</p>
+<p>由此可以想见，若不是王林的主要官员靠山倒台，他仍然会安然无恙。如同周永康的“国师”曹永正，若非周落马，也肯定会继续发财、风光。因此，大师的垮台与否，根本上取决于他背后的权力资源和要揭穿他的力量之间的实力对比。</p>
+<p>相似的规律是：各路大师的影响力取决于，与官员关系的密切程度以及官员权力的大小。因此，与具有强大背景的王林等大师的大手笔相比，那些没有什么权力背景的民间“野生”大师，所干的都只是小儿科般的“小买卖”，所蒙骗的只能是底层无知百姓，而王大师却还每年都斥巨资对贫困家庭行善。其实，大师这一江湖行当如此，一些商人不也有类似之处？</p>
+<p>王既无真才实学，道德也更谈不上高尚，而何以使那么多官员为他用？其实，即便位高权重的高官，表面上高高在上于芸芸众生；但风光的背后，也难免普通人的弱点：也不乏普通人一样的猎奇心、也会因仕途而像普通人一样的焦虑不宁、也会像普通人一样畏惧死亡、像普通人那样在疾病面前变得软弱无助……而对于官员来讲，唯一而又最不缺的资本便是权力；而且在中国，权力至今几乎可以决定一切，而缺乏有效的约束，像刘志军一句话就可以决定一个商人是破产还是暴富。</p>
+<p>因此，如果说王林过人之处的话，其实也并不是他的“神功”，而是在于：尽管未受过像样的教育，但却是一个在社会大学中自修成才的心理大师，深谙现实的社会法则尤其是官员心态，并精明地为己所用。可见，他有着不凡的智商与情商，包括超乎常人的厚颜——这或许也可看作是情商的一部分。</p>
+<p>因此，王林无疑是社会病态孕育出的奇葩。他像滑溜机敏灵活的狐狸，在体制的漏洞罅隙中穿行自如，大享其成。从他戏剧般奇幻的兴衰经历，不难看出中国社会可能是最为重大的系统性陈年老病，即：公权力缺乏有效的法律约束。只要权力的魔力仍漫无边际，类似王林的大师及其神话就仍会在中国不时产生。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9D%A8%E4%BF%8A%E9%94%8B-%E7%8E%8B%E6%9E%97%EF%BC%9A%E6%B8%B8%E8%B5%B0%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BD%93%E5%88%B6%E7%BC%9D%E9%9A%99%E9%87%8C%E7%9A%84%E7%8B%90%E7%8B%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9/?category=18271" rel="tag">公众人物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%93%BE%E6%9D%A1/?category=18271" rel="tag">利益链条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%99%93%E6%B3%A2/?category=18271" rel="tag">吴晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E9%92%B1%E4%BA%A4%E6%98%93/?category=18271" rel="tag">权钱交易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">阶级</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A3%80%E6%9F%A5%E7%82%B9%E6%9C%AA%E5%81%9C%E8%BD%A6-%E6%96%B0%E7%96%86%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9E%AA%E5%87%BB%E6%AD%BB/" target="cdt-mirror">自由亚洲 | 检查点未停车 新疆女教师被警察枪击死亡</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/image1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/image1.jpg" alt="2014年7月18日，新疆教师李文洁在温宿县一临时检查站疑因未有停车被击毙。" width="300" height="229"></a><p>2014年7月18日，新疆教师李文洁在温宿县一临时检查站疑因未有停车被击毙。</p></div>
@@ -112,7 +156,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%90%B4%E6%99%93%E6%B3%A2%EF%BC%9A%E8%B7%9F%E7%8E%8B%E6%9E%97%E5%90%88%E5%BD%B1%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%98%B2%E7%AC%91/" target="cdt-mirror">【异闻观止】吴晓波：跟王林合影的人不该被嘲笑</a>
 </h2>
@@ -140,7 +184,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9/?category=18271" rel="tag">公众人物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%93%BE%E6%9D%A1/?category=18271" rel="tag">利益链条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%99%93%E6%B3%A2/?category=18271" rel="tag">吴晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E9%92%B1%E4%BA%A4%E6%98%93/?category=18271" rel="tag">权钱交易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">阶级</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%89%93%E5%B7%A5%E4%BB%94%E5%88%B0%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%AD%A6%E4%BC%9A%E4%B8%8D%E5%81%9A%E5%87%BA%E5%A4%B4%E9%B8%9F/" target="cdt-mirror">纽约时报 | 美国打工仔到中国：学会不做“出头鸟”</a>
 </h2>
@@ -512,42 +556,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%99%BD%E9%9D%9E%EF%BC%9A%E4%B9%A0%E7%8E%8B%E4%BD%93%E5%88%B6%EF%BC%9F/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BC%9A%E5%9B%BD%E4%BC%81%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5%E6%B7%A1%E8%96%84-%E9%A2%86%E5%AF%BC%E5%BD%93%E8%87%AA/" target="cdt-mirror">【异闻观止】中纪委：国企党的观念淡薄 领导当自己是老板</a>
-</h2>
-<p><p>中新网7月20日电 中央纪委监察部网站今日刊登《推动国有企业从严治党之二加强党的领导是头等大事》一文，文章指出，巡视过程中发现国企党建工作排不上号具有普遍性，党的观念淡漠导致企业领导把自己混同于“老板”，坐商务机、比阔气，其行事风格与共产党的理想信念宗旨风马牛不相及。</p>
-<p>文章称，巡视央企发现的问题，从根本上讲是党的领导弱化，主体责任缺失，管党治党不严，党的路线方针政策未能得到有效贯彻。问题的症结还是在于企业党组织自身。在国企，党建工作排不上号具有普遍性，有的党组织从不研究党建工作，党务部门变成养老、安置干部的地方；有的把党管干部原则抛到一边，研究干部召开党政联席会，甚至以董事会取代党委会。</p>
-<p>党的观念淡漠，导致企业领导把自己混同于“老板”，坐商务机、比阔气，其行事风格与共产党的理想信念宗旨风马牛不相及。有的干部颠倒了个人和组织的关系，认为成绩都是自己干出来的，忘记了首先是党给的机遇和信任；有的干部严重违纪违法，在被查处后反思说，自己基本上没有党的观念，没开过一次党的会，从来没感觉到身边还有党组织存在。这么大一份国有资产的家当，党任命的干部，竟然感觉不到党组织的存在。不难想象，党的领导干部离开了信念和忠诚，离开了纪律和监督，企业发展必然会迷失方向，必然要出大问题！</p>
-<p>文章表示，在国企深化改革过程中，必须旗帜鲜明地加强党的领导，而不能削弱党的领导，更不能放弃党的领导。无论是深化改革，还是加强监管，都必须在党的领导下进行，对这一条决不能含含糊糊、遮遮掩掩。在中国，离开了党的领导，就不叫央企、不叫国有企业。国企负责人哪个不是先接到党内职务的任命，然后才接到其他任命，履行公司董事会那一套手续。国企负责人不能只管人事、资金和项目，忘了自己是党员、是党的干部，首先要履行管党治党的职责，把国有企业党的建设鲜明地抓起来。对这个问题，上级党组织要讲清楚，企业党员领导干部自己也要认识清楚。</p>
-<p>加强国有企业党的领导，要体现在实实在在的行动上。党的领导是具体的，有程序保障，也有内容要求，依据就是党章党规党纪和党的理想信念宗旨、路线方针政策。国有企业领导干部不能把“团结在党中央周围”当空话、套话，不能把加强党的领导与企业发展对立起来。不折不扣贯彻党的路线方针政策，这句话有着丰富内涵，必须仔细琢磨、真正领悟、坚决落实。央企要切实解决好巡视发现的问题，深入研究加强党的建设的具体措施，以高的标准、严的要求，建好班子、配好干部、抓好队伍。说一千道一万，就是要把党的领导真正体现出来，保证国有企业发展的正确方向。</p>
-<p>在中国，事事离不开中国共产党这个领导核心。国有企业发展关乎国民经济命脉，必须体现党的领导这个中国特色社会主义的最本质特征，保证企业在正确的轨道上健康发展，不断满足人民群众日益增长的物质和精神文化需求。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BC%9A%E5%9B%BD%E4%BC%81%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5%E6%B7%A1%E8%96%84-%E9%A2%86%E5%AF%BC%E5%BD%93%E8%87%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E8%A7%82%E5%BF%B5/?category=18271" rel="tag">党的观念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">党的领导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">领导核心</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E8%8A%B1%E6%9C%A8%E5%85%B0%E7%9A%84%E7%A2%B0%E7%93%B7%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">阑夕 | 几点看法：关于花木兰的碰瓷事件</a>
-</h2>
-<p><p>1、继中国木兰文化研究中心状告相声演员贾玲在表演时“恶搞巾帼英雄花木兰、严重伤害国人感情”之后，中国道教协会权益保护委员会也公开发文，谴责陈凯歌导演的电影《道士下山》“肆意丑化道士形象”。这是一个把段子手逼至绝境的荒诞年代，一切穷极想象才能构思出来的滑稽剧情在隔日之后就变成了现实。</p>
-<p>2、中国木兰文化研究中心属于民间组织，中国道教协会则挂靠在国家宗教事务局底下，二者伺机闻风而动，均受中国广宣阵线的宏观政策影响。众所周知，“掌握文明的话语权”，是本届草根国师揣测圣意应运而生的主张，其具体含义就是反对所谓的“历史虚无主义”，将一切有可能冲击家国及民族理论的区域设置禁区，用“盖棺定论”的方式来解决演绎噪声。</p>
-<p>3、因而有了自上而下的曲意承迎，核心领域显然是在意识形态这个被称为“网络上甘岭”之处。质疑邱少云，就是不懂“军人生理学”，而试图证伪英雄史迹，就是“不知哪里来的胆子”（出自军报原文），恩威并施的抹杀争议，就是这场保卫运动的最终目的。而花木兰和道教这对活宝借机蹭了过来，虽有稀释肃穆环境的不合时宜，却仍有着精细明察的机智，就像那张印有老街坊字样的律师名片一样，上层不见得欣赏，却也不太好方便一脚踢开它们。</p>
-<p>4、而贾玲出面道歉，和毕福剑事件的轨迹是一样的，与其说是诚恳认错，不如说是息事宁人，尤其是在中国这个民意汹涌刀枪不入的畸形社会，公众人物需要考量职业发展，不愿因小失大。</p>
-<p>5、由于在政治和经济的改革上呈现跛腿走路的趋势，因此中国民众对于权利的理解也变得割裂而吊诡，在消费遇到障碍时，挥舞钞票动辄抵制，成为一种十分热门的行为习惯，而商家乖乖低头强化服务，则成为了“顾客就是上帝”的最好诠释。但是在另一方面，在某些与自身利益可能关系更大的环境污染、饮食安全等事件上，缺少选票的民众又显得羊羔一般的逆来顺受，眼睁睁的看着因“三鹿事件”而被问责降职的官员纷纷茁壮复出。</p>
-<p>6、土壤肥料好坏，决定庄稼收成，拒绝普世价值，注定特立独行。当《查理周刊》因为嘲讽宗教而被恐怖分子血洗时，中国的舆论场合里也不乏各打五十大板的老好人：“虽说打打杀杀不对，但你屡教不改的伤害别人感情，也有错的”。少有人会扪心自问，若是将“情感伤害”上升到罪责层面，那么言语边界该会变得多么狭窄，在一个人人都要求他人认同自己价值的社会，没有一个人能够幸免无辜。</p>
-<p>7、2006年，美军士兵Matthew A. Snyder在伊拉克牺牲，他的遗体被运送回国举行葬礼。但是，一个极端浸信会组织WBC在他的葬礼附近，打出“感谢上帝杀死了你”、“同性恋摧毁美国”、“下地狱吧”等标语，Matthew的家人深感伤害，一怒之下起诉WBC。这起官司总计打了五年，一直打到联邦最高法院，最终，高院以八比一作出裁决，认为WBC的抗议行为合法，受美国宪法第一修正案的保护。</p>
-<p>8、二十余家主流美国媒体均关注该案结果，亦在裁决生效之后，发布联署声明，支持WBC的表达权利，同时认为WBC的表达方式“过于恶心”。这个结果相当完整的证明了法制社会的态度，一个人或是组织的言论令人厌恶，与其是否就应当被强令噤声，是完全不同的两件事情，法庭亦无权为人们捍卫“情感”立场。</p>
-<p>9、我们应当警惕的是，这种打着“为历史正名”的旗帜、实际上却是在将主旋律侵入更大面积的文化领土的运动，如果无限扩大下去，中国的未来距离样板戏、忠字舞以及思想审查的返祖历史就会无限接近。</p>
-<p>10、真理愈辩愈明，不让辩的，必然不是真理。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E%E8%8A%B1%E6%9C%A8%E5%85%B0%E7%9A%84%E7%A2%B0%E7%93%B7%E4%BA%8B%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90/?category=18271" rel="tag">恐怖分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E6%9C%A8%E5%85%B0/?category=18271" rel="tag">花木兰</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

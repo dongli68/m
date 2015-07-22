@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%90%B4%E6%99%93%E6%B3%A2%EF%BC%9A%E8%B7%9F%E7%8E%8B%E6%9E%97%E5%90%88%E5%BD%B1%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%98%B2%E7%AC%91/" target="cdt-mirror">【异闻观止】吴晓波：跟王林合影的人不该被嘲笑</a>
@@ -628,7 +628,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E7%89%A9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3195iyr5rm4op.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -638,5 +638,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E7%89%A9
                 <td></td>
                 
         
-        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d120g5ieg5mk6k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313/" target="cdt-mirror">博谈网｜《朝日新闻》社论：习打压人权律师损害13亿中国人</a>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ir8jl9gpfklx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AF%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E7%9A%84%E8%84%B8-%E4%BB%96%E4%B8%8D%E8%A6%81%E6%88%91%E4%BA%86/" target="cdt-mirror">【网络民议】大家好 我是央视财经的脸 他不要我了</a>
+</h2>
+<p><p>央视财经近日播出节目声称“人民币汇改十年，升值33%”后，在微博引来恶评一片。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CCAV.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CCAV.png" alt="CCAV" width="550" height=""></a></p>
+<blockquote><p><a href="http://www.weibo.com/2258727970/CsgaDoyXm">@央视财经</a>：【你手中的钱值钱了！人民币汇改十年，升值33%！】2005年的7月21日，人民币汇改大幕拉开。到今天为止，汇改整整十年，人民币交出漂亮成绩单：对 美元升值了30%以上！算笔账：十年前，如果要换100美元，我需要花800多块钱人民币，而现在只需600多人民币。咱们的钱似乎更值钱了。<a title="http://tv.cntv.cn/video/C10330/3dc075dc1d364c6da0d9c54e67596bf1" href="http://t.cn/RLJT4BQ" target="_blank"><em>网页链接</em></a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>莲说藕听：大家好，我是央视财经的脸 他不要我了</p>
+<p>洋葱日报社：注意最后一句，“似乎~”。用词严谨，不愧是我们的学习对象。</p>
+<p>李LEWIS：你们央视的智商低的匪夷所思，奴才也要有文化啊！</p>
+<p>小超的生命有一种绝对：对外升值，对内贬值，好杰宝都插你们屁眼去了[拜拜][拜拜]</p>
+<p>姚广孝_wayne：头一次听说货币购买力是用汇率来估算的，央视财经连基本的经济常识都没有，你国的宣传阵线现在真是在全面带鱼化啊</p>
+<p>Xia_zHaoFeNg-：去死吧，十年前一碗肉丸2块，现在8块还只是面粉。真值钱！</p>
+<p>茫茫尘寰：升值尼玛，对外升值，对内贬值</p>
+<p>开门请当心下车请走好：感谢央视 ！ 我变的更富了！</p>
+<p>有点小贱的Dan：以前一根油条0.3现在是1.5 早饭躺着都能吃到5快以上你跟我说钱值钱了 笑话真好听</p>
+<p>做恶梦的猪：物价翻了多少，发东西前，想想挨骂的几率</p>
+<p>YUKI东：值你麻痹，你们像印纸钱一样往死里印。</p>
+<p>右边缺一人：吐槽小编的，你们没觉得小编的那个“似乎”用的很好吗？</p>
+<p>鹿鹿是一只鹿：抛开内部的通胀不说，如果没有“外界”压力人民币会升值么[微笑] 国际上顶不住压力人民币升值了，然后说是为老百姓做实事[微笑] 我们老百姓都是文盲[微笑]</p>
+<p>Galli_陈嘉谊：大家都没看懂。主页君最后一句才是需要揣摩的[哈哈]</p>
+<p>A_bit_of_talkshow：人民币对外升值 对内贬值 简直就是一个无可争议的事实 不然全跑国外买东西去了</p>
+<p>白彦云：十年前的1000，我带着敢去好多地方玩，现在的1000，我坐家里都发慌。你说值到哪儿了？</p>
+<p>囧的没有肾：看到新闻的那一刻我就猜到了里面的评论[doge]</p>
+<p>片仔癀药妆在沧州：脸皮又厚了不止33个点</p>
+<p>盛志诚：早安！这条新闻证明了，无知者无畏。</p>
+<p>张小扬要坚强：我们国家的外汇储备是多少你不会不知道吧。人名币升值相当于损失多少你不会不清楚吧。升值对国内人民的购买力有毛的影响你不会不明白吧。你作为官媒真的可以指鹿为马吗！！！！！</p>
+<p>小土来了：无比的荣耀感油然而生</p>
+<p>连岳lianyue：央视这些肉喇叭，嘴上功夫真是强，什么姿势都能吹出来。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F.png" alt="央视财经" width="608" height="1412"></a><br>
+（热门评论截图）</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AF%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E7%9A%84%E8%84%B8-%E4%BB%96%E4%B8%8D%E8%A6%81%E6%88%91%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%B9%B8%E7%A6%8F/?category=18271" rel="tag">被幸福</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%94%90%E6%98%8A%EF%BC%9A%E4%BD%93%E5%88%B6%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/" target="cdt-mirror">唐昊：“体制”夹缝中的年轻人</a>
 </h2>
 <p><p>当下中国青年毕业后的一大梦想就是进入“体制”。近年公务员考试已经达到不可思议的热度，很多职位与报考学生比率超过了1:1000，最高的甚至达1:4000。与公务员热类似，一份由中国与全球化研究中心和北大光华管理学院共同完成的《中国海归创业发展报告2012》指出，目前已经回国就业的海归也以选择事业单位为主，占43.2%。也就是说，体制的吸引力已经越出国门，连喝过洋墨水的海归也越来越多地把进入体制作为第一选择。</p>
@@ -552,34 +590,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
 <a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E6%96%87%E8%89%BA%E5%88%9B%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE-%E3%80%8A%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1%E3%80%8B%E8%A2%AB%E8%B0%B4%E8%B4%A3/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81/?category=18271" rel="tag">主持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AA%92/?category=18271" rel="tag">党媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96/?category=18271" rel="tag">文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">文艺工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1/?category=18271" rel="tag">道士下山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E6%95%99%E5%8D%8F%E4%BC%9A/?category=18271" rel="tag">道教协会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E6%AD%89/?category=18271" rel="tag">道歉</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E6%88%91%E7%A6%BB%E5%A4%A9%E5%AE%89%E9%97%A8%E5%BE%88%E8%BF%9C%EF%BC%8C%E6%88%91%E7%A6%BB%E5%85%AD%E5%9B%9B%E5%BE%88%E8%BF%91/" target="cdt-mirror">纵览中国｜我离天安门很远，我离六四很近</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/05/db40b1e46501EeDVFDtf.jpg" alt="六四天安门" width="452" height="315"></p>
-<p>1989那年，我16岁，但我还在读小学5年级，因身体残疾所以读书比较晚——按年纪，我已不能算是80后了，但按心智，有时我觉得我比很多80后还稚嫩。</p>
-<p>那时，我不清楚天安门具体发生了什么事情，只从大人们口中得到一个词：动乱。邻居家电视里不时播放北京发生的事情，但我没看，孤僻内向的我，还没去过那个邻居家。但某天，我伯父从外面回来，却很悲愤地说：军队向学生开枪！——他是一个退休老教师，经历过动荡年代。</p>
-<p>“军队向学生开枪”——这个便是我能构想得出来的一个64事件的具体场景。</p>
-<p>读初中了，少年维特的烦恼随之而来，夜里经常失眠。于是买了个火柴盒大小的袖珍收音机当伴侣。很多时候，晚上十一二点时是收听“珠江广播电台”，有时能在悠扬的歌曲背景中聆听着主持人的散文入睡。而更多的时候，主持人下班了，我却还没能入睡。此时我只能一点点的搜索别的能收听到的电台。有晚无意中被我收到了粤语版“美国之音”节目，那时“美国之音”每晚都在说六四有关的事情。我被“美国之音”深深吸引住了，失眼的时候我每夜都搜索它来听。虽然我隐隐觉得它是“敌对”台，也不知听它会不会给捉，但我还是控制不了自己的好奇心。只是，“美国之音”这个台经常受到电波干扰，一阵一阵的，有时能听到有时只有杂音，但这丝毫没有减弱我收听它的兴趣。对于电波干扰，我的感想只有一个“政府真无耻”。</p>
-<p>然而，“美国之音”具体说些啥，我现在一点都不记得了，唯一还能记得的词是“时事经纬”及“持不同政见者”，好象还有“达喇啦嘛”。</p>
-<p>初二还是初三时，班里来了一个新同学，据说是从深圳回来的。他带了些香港的杂志到班里。第一次，我知道了“龙虎豹”杂志是怎么样的。但令我震撼的却是一本不完整的杂志里夹杂着的六四的图片——肝脑涂地的图片。第一次，我知道了，人类竟能这样的无情，竟能这样的凶残，竟能这样的冷血。</p>
-<p>高中了，大家都全身心地投入了学习，我也渐渐忘了六四这事。</p>
-<p>直至2005年，我开通了宽带，可以随意上网之后，某晚突然想起六四事件，便用google搜索了。于是知道了事件前因后果，也知道了更多的细节。我脑里子跳出的词汇是“暴政”“纳粹”“法西斯”。</p>
-<p>自此，我开始关注民运团体，我google“北京64”，找到了一个叫“折腾”的网站，从“折腾”网上第一次听说了胡佳，后来知道了曾金燕和她的“了了园”，并从她的日记中知道了原来这个世界上还有一个物种叫“国保”。只是，随着时间的推移，形势可能越来越紧张了，“折腾”网就只能发布基督信息了，最后“折腾”网就变成“404”错误了。</p>
-<p>然而，我与六四最深入的最直接的接触却是发生在2013年5月11日，那晚因之前的某天建议QQ群的群友们在即将到来的六四晚去某某地方点蜡烛默哀而被非法传唤。回来之后发现爱人惊恐万状，她声音很生硬且带着惊惧地责问我“×××（我的名字），怎么回事？”。从没遇到这种场景的4半岁的女儿也跟着用生硬的声音责问我“怎么回事？”，我知道，我的举动所引发的事件，深深地把这娘俩吓到了，我很内疚！</p>
-<p>2013年5月13日，爱人在她空间里留下了“从未如此的害怕过，真想远离！”的字句。</p>
-<p>当一个政权能让人惧怕，当一个政权能令妻离子散，当一个政权能令家庭成员反目成仇，这个政权一定是邪恶的，不人道的，反人类的！</p>
-<p>我意识到，如果我再继续这样下去，我妻子女儿将离我而去了，于是，我选择了蛰伏。</p>
-<p>但蛰伏不是退缩，而是在积蓄能量，在等待时机。</p>
-<p>是的，我在等待着……</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E6%88%91%E7%A6%BB%E5%A4%A9%E5%AE%89%E9%97%A8%E5%BE%88%E8%BF%9C%EF%BC%8C%E6%88%91%E7%A6%BB%E5%85%AD%E5%9B%9B%E5%BE%88%E8%BF%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>

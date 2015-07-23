@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28j84tii67yl7.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AE%B0%E5%BF%86%E3%80%91%E5%90%91%E7%BA%A2%EF%BC%9A%E5%9B%9B%E5%8D%81%E5%B9%B4%E6%9C%89%E6%84%9F/" target="cdt-mirror">【记忆】向红：四十年有感</a>
@@ -140,7 +140,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/571%E5%B7%A5%E7%A8%8B/?category=18271" rel="tag">571工程</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">党的历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AE%87%E9%A9%B0/?category=18271" rel="tag">周宇驰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%BD%AA/?category=18271" rel="tag">林彪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%87%8D%E6%96%B0%E8%8E%B7%E5%BE%97%E6%8A%A4%E7%85%A7%EF%BC%8C%E8%AE%A1%E5%88%92%E8%B5%B4%E5%BE%B7%E5%9B%BD/" target="cdt-mirror">纽约时报｜艾未未重新获得护照，计划赴德国</a>
 </h2>
@@ -691,5 +691,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/></td>    </tr>
 </table>

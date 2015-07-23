@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsi2a3cimrkwf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3j9wxaxhevs10.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AE%B0%E5%BF%86%E3%80%91%E5%90%91%E7%BA%A2%EF%BC%9A%E5%9B%9B%E5%8D%81%E5%B9%B4%E6%9C%89%E6%84%9F/" target="cdt-mirror">【记忆】向红：四十年有感</a>
@@ -270,6 +270,26 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%94%90%E6%98%8A%EF%BC%9A%E4%BD%93%E5%88%B6%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%A4%96/?category=18271" rel="tag">体制外</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1%E5%91%98/?category=18271" rel="tag">公务员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%8D%E5%85%AC/?category=18271" rel="tag">社会不公</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">社会关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">社会运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1/?category=18271" rel="tag">精英</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B5%B5%E4%BD%9C%E5%AA%9B%EF%BC%9A%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A2%AB%E7%BA%A6%E8%B0%88%E8%AE%B0/" target="cdt-mirror">赵作媛：第三次被约谈记</a>
+</h2>
+<p><p>7月21日，国保第三次上门，来了三个，正副大队长带队，这次来的目的还是不让声援王宇律师，说王宇犯罪了，都被公安抓了，也上中央电视了，还用手机播放王宇在法庭指着法警理论的一段视频，说王宇骂法警，破坏法庭秩序等等；</p>
+<p>我说法院还没判，不能说王宇犯罪，就算判了又怎样？，赵作海、聂树斌、呼格吉乐图案不都平反了吗？再说中央电视台的话能信吗？前段时间还说周永康、徐才厚、谷俊山等人何等清廉正确，转眼之间不也给抓了吗？不是又播出他们是犯罪分子了吗？再说，为何只播放王宇“骂”法警破坏法庭秩序，怎么不播放完整视频，看看王宇为什么骂法警？</p>
+<p>国保说我怎么净说负能量，不说正能量的话，我说我十年经历法院违法、信访部门的不作为，访民的投告无门，被打压、被刑拘，都是负能量！我没经历什么正能量！我经历什么就说什么，若十年前王宇作我的律师，就不会有我今天的上访和投告无门！也不会让我经历这么多的负能量！</p>
+<p>电视台只播吴淦骂院长，怎么不播院长违法剥夺律师阅卷权？我自身经历了长岛法院法官集体违法，法院院长违法，信访部门的官官相护，访民的投告无门，所以，我身有体会，我在用自身真实的经历说话！</p>
+<p>国保黑着脸，警告我正在取保候审期间，出门要请假，否则要依法收监！我说，刑拘取保候审是继劳教之后又一打压访民的非法手段，访民没犯法，却被非法关押，很多被取保候审的访民都在北京继续维权，你们能否把访民都填满监狱？填完怎么判？你们不解决问题，却解决提出问题的访民？</p>
+<p>吴淦骂法院院长公安抓他，电视台说他诽谤，长岛法院副院长刘锡文公然说习近平不会放过访民，是不是诽谤？为何不抓他？</p>
+<p>国保说你有诉求你走正常渠道解决问题，别干犯法的事，我说正常渠道都给腐败分子堵死了，才有投告无门的众访民去中南海找国家领导反映，信访等部门不作为，但是，却又被视为“非访”，又关、又拘、又判的！现在连把帮访民说话的律师都抓起来了[流泪]访民问题还能解决吗？你们所谓的“正常渠道”在哪里？你来告诉我，要不你们陪我一起走走“正常渠道”？看看所谓的“正常渠道”是怎么不作为的？</p>
+<p>国保说我来不是给你解决问题的，我来就是告诉你不要支持王宇，她犯罪了，我说，她犯没犯罪你我都没看到，也不知道，不作评论，我就知道她为受迫害的访民发声！我们感恩为义发声的人！国保站了起来，表情复杂地说，看起来你也不能给我写什么东西了，我也不逼你了，但你绝对不能去围观，出去要请假，不能做违法的事！说完就走了！</p>
+<p>通过这次谈话，明显感觉出他们释怀出一个信息：不听话就制裁你！</p>
+<p>2015.7.22 [博讯首发,转载请注明出处]</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B5%B5%E4%BD%9C%E5%AA%9B%EF%BC%9A%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A2%AB%E7%BA%A6%E8%B0%88%E8%AE%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E8%83%BD%E9%87%8F/?category=18271" rel="tag">负能量</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -656,20 +676,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/" target="cdt-mirror">新华网 | 中共中央给予令计划开除党籍开除公职处分</a>
-</h2>
-<p><p>新华网北京7月20日电 7月20日，中共中央政治局会议审议并通过中共中央纪律检查委员会《关于令计划严重违纪案的审查报告》，决定给予令计划开除党籍、开除公职处分，对其涉嫌犯罪问题及线索移送司法机关依法处理。</p>
-<p>根据中央纪委、最高人民检察院、公安部在查办案件中发现的线索，2014年12月22日，中央政治局常委会召开会议，决定对令计划立案审查。</p>
-<p>经查，令计划严重违反党的政治纪律、政治规矩、组织纪律、保密纪律；利用职务便利为多人谋取利益，本人或通过家人收受巨额贿赂；违纪违法获取党和国家大量核心机密；严重违反廉洁自律规定，本人及其妻收受他人钱物，为其妻经营活动谋取利益；与多名女性通奸，进行权色交易；对亲属利用其职务影响力敛财牟利负有重要责任。调查中还发现令计划其他涉嫌犯罪线索。令计划的行为完全背离了党的性质和宗旨，严重违反党的纪律，极大损害党的形象，社会影响极其恶劣。</p>
-<p>2015年7月20日，中央政治局会议审议并通过中央纪委《关于令计划严重违纪案的审查报告》，根据《中国共产党纪律处分条例》，参照《行政机关公务员处分条例》的有关规定，决定给予令计划开除党籍、开除公职处分，将令计划涉嫌犯罪问题及线索移送司法机关依法处理。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%BB%99%E4%BA%88%E4%BB%A4%E8%AE%A1%E5%88%92%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C%E5%A4%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80/?category=18271" rel="tag">中央政治局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>

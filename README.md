@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%87%8D%E6%96%B0%E8%8E%B7%E5%BE%97%E6%8A%A4%E7%85%A7%EF%BC%8C%E8%AE%A1%E5%88%92%E8%B5%B4%E5%BE%B7%E5%9B%BD/" target="cdt-mirror">纽约时报｜艾未未重新获得护照，计划赴德国</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CKgyeMnWIAA0lvD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CKgyeMnWIAA0lvD.jpg" alt="CKgyeMnWIAA0lvD" width="599" height="337"></a></p>
+<p>香港——中国艺术家艾未未说，当局周三把他的护照还给了他。自从2011年在北京机场 被扣留 之后，当局一直禁止他出国旅行。</p>
+<p>“今天，我拿到了护照。”艾未未在 Twitter 和 Instagram 上写道的，还显示了一张他手持枣红色中国护照的照片。</p>
+<p>艾未未曾为北京被称为 “鸟巢”的体育场担任设计顾问 ，还曾在伦敦泰特现代美术馆展出他的装置艺术作品《葵花籽》( Sunflower Seeds )，2011年他打算从北京飞往香港时，在北京机场被扣留。他被关押、审讯了 81天 ，后被当局指控逃税。法院做出对他不利的裁决，判处他的工作室缴纳欠税及罚款共计1522万元人民币（当时约合240万美元）。</p>
+<p>艾未未表示，逃税案是对他政治活动的报复，包括针对他纪念在2008年四川大地震中、因教室倒塌而死亡的成千上万名学生的活动。</p>
+<p>他在周三表示，当局对为什么发给他护照未做任何解释。“我只能说，为什么不给呢？他们在过去四年中已经答应还回护照。现在，他们终于把护照还给我了，”他在接受电话采访时说。“他们过去总是说仍在处理之中，让我耐心等待。”</p>
+<p>护照被没收意味着艾未未不得不远程安排他在国外的展览，包括在华盛顿史密森学会的赫什霍恩博物馆暨雕塑园( Hirshhorn Museum and Sculpture Garden )的展览，以及在旧金山湾原来的监狱恶魔岛( Alcatraz )的展览。</p>
+<p>除了无法到中国境外旅行之外，他还被禁止在国内举办个人展览。他的作品也被从去年上海举办的艺术家群体展览上拿掉。但上个月，他获许在中国举办首次个人展览，这表明对他的限制已经开始放松。</p>
+<p>现年57岁的艾未未说，他打算不久前往德国。他在柏林有一间工作室，他6岁的儿子艾老在过去一年中一直和母亲一起住在德国。艾未未说，他还计划在德国做一次体检。2009年，他曾在那里接受紧急开颅手术，之前，中国西南部城市成都的警察打过他的头部。</p>
+<p>“我将去申请签证，一拿到签证我就走，”他说。</p>
+<p>艾未未说，他期待着能在现场安排海外艺术展览。上周，伦敦皇家艺术学院( Royal Academy of Arts in London )为安装八棵艾未未重建的死树，开始了一次筹款活动。</p>
+<p>艾未未也把他没有护照的年月变成一个艺术项目，每天早上，在位于北京草场地艺术区的工作室外，他把 一束鲜花 放到锁在门外的自行车车篮中，把拍下的照片贴到网上，然后他会转贴支持者发来的鲜花图片。他指出，自从2013年开始该项目以来，周三是他 摆放鲜花的第600天 。</p>
+<p><em>王霜舟(Austin Ramzy)是《纽约时报》记者。</em></p>
+<p><em>翻译：Cindy Hao</em></p>
+<p>纽约时报中文网 国际纵览</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%87%8D%E6%96%B0%E8%8E%B7%E5%BE%97%E6%8A%A4%E7%85%A7%EF%BC%8C%E8%AE%A1%E5%88%92%E8%B5%B4%E5%BE%B7%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A722%E5%A8%81%E6%B5%B7%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%89%93%E4%B8%80%E4%BA%8B%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E6%98%AF/" target="cdt-mirror">钢铁侠：722威海爱国青年被打一事，我想说的是…</a>
+</h2>
+<p><p>喝酒刚回来，惊闻大威海出了大事件！我爱国青年在校门口被人跨省殴打！卧槽这还了得？赶紧搜搜来龙去脉：</p>
+<p>1、7月22日下午14：52，爱国青年（这四个字是<a href="http://www.weibo.com/n/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE">@共青团中央</a> 封的）<a href="http://www.weibo.com/n/%E4%BE%AF%E8%81%9A%E6%A3%AE-%E4%BE%A7%E5%8D%AB36">@侯聚森-侧卫36</a> 发了一篇挨打的微博，如下图</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubz13jmarj20v90xd0y4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubz13jmarj20v90xd0y4.jpg" alt="76716e15jw1eubz13jmarj20v90xd0y4" width="525" height="560"></a></p>
+<p>2、没想到这么个无头无脑的帖子，直接得到了<a href="http://www.weibo.com/n/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE">@共青团中央</a> 和 <a href="http://www.weibo.com/n/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%BD%91">@中国青年网</a> 等正能量官博力挺，甚至得到了团中央微博至高无上的微博置顶支持，如下图</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza459iyj20oz18g7ar.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza459iyj20oz18g7ar.jpg" alt="76716e15jw1eubza459iyj20oz18g7ar" width="500" height="890"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza5x4gfj20oz18g0zo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza5x4gfj20oz18g0zo.jpg" alt="76716e15jw1eubza5x4gfj20oz18g0zo" width="500" height="890"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza7lqgfj20oz18gn3m.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza7lqgfj20oz18gn3m.jpg" alt="76716e15jw1eubza7lqgfj20oz18gn3m" width="500" height="890"></a></p>
+<p>3、这真是把我惊到了，我不由得对身边这位爱国青年无比崇敬，于是赶紧奔至其微博瞻仰，于是看到了这些，如下图</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzfqhtcoj20oz18ggqz.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzfqhtcoj20oz18ggqz.jpg" alt="76716e15jw1eubzfqhtcoj20oz18ggqz" width="500" height="890"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzfoiow5j20oz18g445.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzfoiow5j20oz18g445.jpg" alt="76716e15jw1eubzfoiow5j20oz18g445" width="500" height="890"></a></p>
+<p>4、确认无误是我爱国青年无疑（在编），于此不难理解组织上对此案情为何如此重视，沿着组织的指引找到了当地警方官微，如下图</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzj92auej20v90lx796.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzj92auej20v90lx796.jpg" alt="76716e15jw1eubzj92auej20v90lx796" width="500" height="351"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzj7tjzzj20v90u10xd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzj7tjzzj20v90u10xd.jpg" alt="76716e15jw1eubzj7tjzzj20v90u10xd" width="500" height="480"></a></p>
+<p>5、结果却发现警方这边成了众矢之的，正能量自干五们群起而攻之，这又把我惊到了，都是正能量，相煎何太急啊，这时爱国青年又发了一篇微博，貌似也是质疑警方的，如下图</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzqjjp6uj20v90lu43j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzqjjp6uj20v90lu43j.jpg" alt="76716e15jw1eubzqjjp6uj20v90lu43j" width="500" height="349"></a></p>
+<p>6、按照爱国青年的说法，如果说第一次约架他没去，然后第二次只是“抱着好奇的心态出门看看”就被六七个人攻击，这似乎的确不能算约架，但是随即我又在网上捡到了疑似爱国青年的好友动态，如下图</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzvz12p3j20dc0nqabo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzvz12p3j20dc0nqabo.jpg" alt="76716e15jw1eubzvz12p3j20dc0nqabo" width="480" height="854"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzvxxrczj20dc0nqmyx.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzvxxrczj20dc0nqmyx.jpg" alt="76716e15jw1eubzvxxrczj20dc0nqmyx" width="480" height="854"></a></p>
+<p>好吧，事情到这里告一段落，真相究竟如何用不着我们猜疑，相信很快水落石出，现在科技这么发达，学校门口的监控目击者自拍狂多的是，况且这还是团中央督办的大案。但是就这件事我只想对<a href="http://www.weibo.com/n/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE">@共青团中央</a> 说一点，让一名高中生，一个面临高考的孩子成为自干五，成为所谓的爱国青年，这就是你们所倡导的正能量？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0ehy4urj20v90smjvi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0ehy4urj20v90smjvi.jpg" alt="76716e15jw1euc0ehy4urj20v90smjvi" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0egjno4j20v914tjz3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0egjno4j20v914tjz3.jpg" alt="76716e15jw1euc0egjno4j20v914tjz3" width="500" height="653"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0ek53qlj20v915tahg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0ek53qlj20v915tahg.jpg" alt="76716e15jw1euc0ek53qlj20v915tahg" width="500" height="669"></a></p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A722%E5%A8%81%E6%B5%B7%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%89%93%E4%B8%80%E4%BA%8B%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E6%98%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AF%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E7%9A%84%E8%84%B8-%E4%BB%96%E4%B8%8D%E8%A6%81%E6%88%91%E4%BA%86/" target="cdt-mirror">【网络民议】大家好 我是央视财经的脸 他不要我了</a>
 </h2>
 <p><p>央视财经近日播出节目声称“人民币汇改十年，升值33%”后，在微博引来恶评一片。</p>
@@ -529,70 +581,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%82%85%E9%9B%AA%E5%B3%B0-%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%B9%B4%E8%BD%A6%E7%A5%B8%E7%A9%B6%E7%AB%9F%E6%AD%BB%E4%BA%A1%E5%A4%9A%E5%B0%91%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">傅雪峰 | 中国一年车祸究竟死亡多少人？</a>
-</h2>
-<p><p>近期接连看到有关惨烈车祸导致伤亡的报道，从南京宝马撞碎马自达，到无锡街头轿车失控致十余人伤亡，再到吉林集安大巴失控翻下公路桥……中国的车祸已经成为严重的社会公害，但车祸死亡数字却一直是个谜。也许，这个数字大到你我难以置信、也不愿意相信的程度，必须提醒大家注意这个血色现实：车祸与死亡的威胁就在你我和家人身边，无论是驾车还是步行，务请守法并多加小心。</p>
-<p>多年来，世界卫生组织（WHO）倔强地表达着对中国车祸死亡数字的好奇。前不久，世界卫生组织驻华代表施贺德又强调了一遍，说中国每年因道路交通事故死亡超过20万人——根据中国公安交管部门的说法，这个数字绝不会超过6万。</p>
-<p>20多万和6万，这差得也太离谱了。如果一个国家一年因车祸真的死亡20多万人，这绝对是一个恐怖的数字。</p>
-<p>2010年，印度的车祸死亡人数排名世界第一，差不多是13万人。中国公安交管部门公布的中国当年车祸死亡数字是65,225人，也就是印度的一半。但世卫组织通过模拟核算，这个数字就飙升到27万，又比印度翻了番——如果真是这样，中国车祸死亡数字绝对是世界第一。</p>
-<p>世界卫生组织屡次对中国车祸相关数字提出质疑，他们说，中国卫生部门报告的交通死亡数字总是比公安部门的数字高。他们还发布研究报告称，近年来，根据死亡登记数字所显示的交通死亡数字，并没有像中国公安部门所说的那样下降，而是随着中国汽车市场的发展而上升。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%BD%A6%E7%A5%B8%E6%95%B0%E6%8D%AE1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%BD%A6%E7%A5%B8%E6%95%B0%E6%8D%AE1.jpg" alt="车祸数据1" width="550" height="323"></a></p>
-<p> </p>
-<p>世卫组织不嫌烦，有关部门早就烦了。交警部门每年初都例行发布上年道路交通事故情况，其中会有死亡人数等关键数据，但从2012年以后，我们在公开报道中已经看不到这些数据。当然，有关的新闻发布会还是要开，不过，内容已经改为“全国交通安全形势总体平稳”之类的官话，即使放出一些数据，也是诸如新手肇事率、货车肇事率之类的微观数据，让你根本没办法“窥一斑而见全豹”。</p>
-<p>多年来，有关车祸死亡数字，公安交警部门和卫生部门的数据一直在打架。</p>
-<p>公安部门的数据是由交警事故处理部门一级级报上去的。</p>
-<p>卫生部门关于车祸死亡人数的数据，主要来自各医院医生签署的死亡证明。死亡证明是官方的死亡认定依据，可信度还是比较高的。当然，这里也可能有漏报、低报的问题，但卫生部门提供的车祸死亡人数，总会是公安交管部门的3倍以上。</p>
-<p>而根据国家统计局公布的数字，中国交通事故死亡人数最多的应该是2002年，达到109,381人。此后基本呈逐年下降之势，到2011年降至62,387人，2012年为59,997人，2013年为58,539人，2014年数据尚未公布。</p>
-<p>另外有一个部门，叫国务院安全生产委员会办公室。它曾在2012年初印发了《道路交通安全“十二五”规划》。规划提出到2015年要力争实现全国道路交通事故万车死亡率不超过2.2。</p>
-<p>根据公安部交通管理局的消息，2014年中国机动车保有量达2.64亿。根据万车死亡率2.2的“规划”计算，2014年的交通事故死亡人数应为58,080，这恰巧比2013年的58,539降低了一个合理的比率。这既符合大趋势，又符合三年前的规划。只是，这符合事实吗？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%BD%A6%E7%A5%B8%E6%95%B0%E6%8D%AE2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%BD%A6%E7%A5%B8%E6%95%B0%E6%8D%AE2.jpg" alt="车祸数据2" width="550" height="374"></a></p>
-<p> </p>
-<p>这种数字，固然能说明我公安交管部门勇斗车祸这只猛虎，在“保安全、保畅通”方面向人民交上了一份满意的答卷。但这份答卷却在挑战一个常识：恰恰从2002年开始，我国汽车销量开始了爆发性增长，连续两年的增长率达到百分之六七十，此后基本维持了两位数的增长率。2002年，中国汽车的保有量是2000多万辆，到今年5月，已经突破1.6亿辆，差不多增长8倍。在汽车数量疯狂增长的前提下，车祸中的死亡人数却连年下降，这怎么看都是一个传奇。</p>
-<p>汽车销量暴涨而车祸中的伤亡暴降，一者可以说明我国国民的交通安全意识大为改观，二者可以说明我国的交通管理水平全球领先。但奇怪的是，我国的交通管理部门保持了低调，并没有就此向国外输出先进的交通管理经验。更奇怪的是，时至今日，国人的交通文明素质仍然一再遭到批评，前段时间“女司机变道遭暴打”刚刚尘埃落定，近日“宝马闹市区闯红灯撞飞马自达”一案又沸沸扬扬。</p>
-<p>说到这里，想到一个故事。2009年，一位交警朋友到上海参加培训，上课的一位外籍教官在课堂上好奇地问：“中国的汽车数量增长这么快，交通事故下降也很多，你们是怎么做到的？”讲台下的各位警官忍俊不禁，课堂中响起一片神秘的笑声。</p>
-<p>讲这个故事的是一位交警朋友，他说，当时大家边说边互相打趣：怎么做到的？编出来的呗。</p>
-<p>据说，这几年，公安交管部门已经着手纠正交通事故统计不实的问题，要求各地交警队如实上报。现在，至少省一级的公安交管部门基本掌握了比较准确的数字。至于这个数字是多少？交管部门敝帚自珍，对外讳莫如深。于是，我们就听到了不同版本的猜测，世卫组织说一年车祸死亡20多万，其实已算是保守的，据某些业内人士估算，这个数字可能是30多万，也可能是50多万……不敢再多说了，30多万已经足够举世震惊。</p>
-<p>说实话，车祸伤亡数字，就是该拿出来吓人的。这么大一个国家，这么多车和人，如果真能控制在一年车祸中死亡6万人以内，交通管理水平也算达到了世界先进水平（美国现在一年车祸死亡3万多人）。但如果达到了30万量级，那就是个比雾霾还要严重得多的社会问题。</p>
-<p>就拿每年死亡30万来计算，每天就要因车祸死亡800多人，平均不到两分钟就有一个人成为路上亡魂。就在你读到这篇东西的时候，不知道在什么地方，已经又有几人或是喋血汽车驾驶室，或是倒在车轮之下，从此与家人阴阳两隔。</p>
-<p>修饰过的车祸伤亡数字，掩盖了残酷的血色现实，淡漠了人们对于车祸的警惕。车来车往之间，有多少人放浪形骸，懵然不觉中一次次与死神擦肩而过。正如雾霾，没有告诉你那恶毒的PM2.5时，你轻松在徜徉在街头，一任毒素随呼吸侵入肌体而浑然不觉；而真相一旦曝出，整个社会为之悚然，一批冒烟的工厂被停工、一座座高炉被拆除，人们不再天真地在雾霾中跑步嬉戏，嘴上也多了个口罩。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajNa7J6LibpOia48icB3weicRtIdcFyKwUKiaOHuGO75eyK9ic0ouyw8Km7WwHd9c6cSxtI6NfDQdmsxnFyQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>让那个恐怖的数字站出来，告诉大家车祸的真相吧！惊悚之下，会有更多的人系上安全带，会有更多的人不在马路上你争我抢，会有更多的车善待路上的行人，也会有更多的行人不再无知者无畏。这个打脸的数字也会让有关部门行动起来，像治理雾霾一样，从交通设施、交通管理、社会宣传方面多想一些办法，努力把车祸伤亡数字降低到一个正常的水平。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%82%85%E9%9B%AA%E5%B3%B0-%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%B9%B4%E8%BD%A6%E7%A5%B8%E7%A9%B6%E7%AB%9F%E6%AD%BB%E4%BA%A1%E5%A4%9A%E5%B0%91%E4%BA%BA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85/?category=18271" rel="tag">交通事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0/?category=18271" rel="tag">死亡人数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E/?category=18271" rel="tag">死亡证明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BE%E8%BD%A6/?category=18271" rel="tag">驾车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BE%E9%A9%B6/?category=18271" rel="tag">驾驶</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E6%96%87%E8%89%BA%E5%88%9B%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE-%E3%80%8A%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1%E3%80%8B%E8%A2%AB%E8%B0%B4%E8%B4%A3/" target="cdt-mirror">BBC | 文艺创作引争议 《道士下山》被谴责</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150719102819_china_film_taoism_624x351_xinhua.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150719102819_china_film_taoism_624x351_xinhua.jpg" alt="导演陈凯歌与妻子出席《道士下山》北京首映" width="550" height="309"></a><p>导演陈凯歌与妻子出席《道士下山》北京首映</p></div>
-<p>中国道教界人士发表声明，谴责陈凯歌导演的《道士下山》肆意丑化道教，违反多项政策法规，要求立即停播，并向道教界及社会公开道歉。</p>
-<p>周日（7月19日），中国道教协会权益保护委员会主任孟崇然道长通过微信公众号“道扬天下”向导演陈凯歌提出严正谴责声明，声明中称陈凯歌执导的《道士下山》肆意丑化道教，违反多项政策法规，要求陈凯歌立即停播《道士下山》，并向道教界及社会公开道歉，消除影响。</p>
-<p>与此同时，中国官方媒体则引述中国道教协会新闻发言人孟至岭道长称，《道士下山》的制片方之前与中国道协有沟通，并按照要求对于剧情做了修改，因此道协对于影片持有包容心态。“谴责声明并非由道协发出，至于是否孟崇然以个人名义发出尚待核实。”</p>
-<h2>“低级下流”</h2>
-<p>孟崇然发出的声明质疑陈凯歌，“根据什么拍出如此低级下流的电影来贬低、侮辱、诽谤道教？”</p>
-<p>另外，“本片所涉及的黄色片段不仅用大篇幅表现，更是作为本部影片的宣传噱头大肆宣传。这种做法就是在教唆淫欲，勾引青少年走下坡路。用低级粗俗的淫秽 暗喻吸引观众，以达到其自身的商业目的。”</p>
-<p>声明还批评陈凯歌“身为一名文艺工作者，本应该把大众向积极方面引领，而您本片的故事情节，不仅与习近平总书记在文艺座谈会上的讲话精神相违背，更是严重扭曲当今社会所倡导的和谐社 会核心价值观。”</p>
-<p>影片中，主角何安下杀人后跪求向和尚忏悔寻求慰籍，“这很明显是在扬佛抑道，影响宗教和睦，蓄意制造宗教之间的矛盾与纷争”。</p>
-<p>声明要求陈凯歌解释：如此贬低道教的目的是本意为之？还是受到了境外投资方或其它势力的有意指使？“从道士下山的影片中可以看出陈凯歌你虽然是一个中国人，但是已经成为一个缺少了中国人骨气的卖国贼！”</p>
-<h2>“通俗与低俗”</h2>
-<p>孟崇然在声明中提到的习近平在文艺座谈会上的讲话，指的是2014年10月中共总书记习近平曾主持文艺座谈会，邀请数十位文艺界人士出席。此举被外界视为中国当局对文艺界的整肃。</p>
-<p>党媒《人民日报》曾总结习近平此次讲话给文艺界的“六句箴言”，其中包括文艺不能当市场的奴隶、低俗不是通俗，欲望不代表希望、把爱国主义作为文艺创作的主旋律、倡导说真话、讲道理。</p>
-<p>《道士下山》故事背景为民国时期，演员包括两岸三地多位知名演员王宝强、范伟，林志玲、张震、郭富城等。</p>
-<p>在孟崇然道长发出这一声明之前，中国另一名喜剧演员贾玲在电视节目上，把花木兰演成贪生怕死、不孝又贪吃的傻大姐，引致中国木兰文化研究中心发表公开信要求道歉。</p>
-<p>贾玲随后则以“艺术无涯、传统有界”，向观众道歉。</p>
-<p>孟崇然这一谴责声明发出后，中国多位文化界和媒体人士在微博上发表评论。中国著名导演冯小刚在微博上写道：妖协要求《捉妖记》道歉。</p>
-<p>网络上比较普遍认同的一种意见是：如果艺术作品动辄得咎，还何谈艺术创作？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E6%96%87%E8%89%BA%E5%88%9B%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE-%E3%80%8A%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1%E3%80%8B%E8%A2%AB%E8%B0%B4%E8%B4%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81/?category=18271" rel="tag">主持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AA%92/?category=18271" rel="tag">党媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96/?category=18271" rel="tag">文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">文艺工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%A3%AB%E4%B8%8B%E5%B1%B1/?category=18271" rel="tag">道士下山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E6%95%99%E5%8D%8F%E4%BC%9A/?category=18271" rel="tag">道教协会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E6%AD%89/?category=18271" rel="tag">道歉</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -614,5 +602,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%8C%81
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/></td>    </tr>
 </table>

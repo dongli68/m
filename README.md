@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d34ruqwtacj6dr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%87%8D%E6%96%B0%E8%8E%B7%E5%BE%97%E6%8A%A4%E7%85%A7%EF%BC%8C%E8%AE%A1%E5%88%92%E8%B5%B4%E5%BE%B7%E5%9B%BD/" target="cdt-mirror">纽约时报｜艾未未重新获得护照，计划赴德国</a>
@@ -49,7 +49,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A722%E5%A8%81%E6%B5%B7%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%89%93%E4%B8%80%E4%BA%8B%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E6%98%AF/" target="cdt-mirror">钢铁侠：722威海爱国青年被打一事，我想说的是…</a>
 </h2>
@@ -592,7 +592,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iozzb1m9b94c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3j9wxaxhevs10.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -602,5 +602,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/></td>    </tr>
 </table>

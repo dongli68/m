@@ -24,6 +24,104 @@
         <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E5%AE%B6%E6%9D%A5%E6%84%9F%E5%8F%97%E4%B8%8B%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F/" target="cdt-mirror">【图说天朝】大家来感受下武汉地铁工程质量</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1134963020/CsrFCEyGl">@姚满竹</a>：大家来感受下武汉地铁工程质量2<a title="秒拍视频" href="http://t.cn/RL6bpIn" target="_blank"><i> </i><em>秒拍视频</em></a> .</p></blockquote>
+<p></p>
+<blockquote><p><a href="http://www.weibo.com/1787433323/CsrTE1B8V">@武汉同城会</a>：#武汉暴雨#【武汉地铁】目前轨道交通1、2号线正常运营，4号线车站排水设备正全力开动抽排，滞水情况已有所缓解，现运营区域仍维持武汉站至五里墩站。视频为网友拍的王家湾地铁站。</p></blockquote>
+<p><em>视频截图：</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.31.14-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.31.14-AM.png" alt="Screen Shot 2015-07-23 at 3.31.14 AM" width="400" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.31.30-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.31.30-AM.png" alt="Screen Shot 2015-07-23 at 3.31.30 AM" width="400" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.31.46-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.31.46-AM.png" alt="Screen Shot 2015-07-23 at 3.31.46 AM" width="400" height=""></a></p>
+<p>部分关于武汉地铁四号线工程质量的报道截图，搜集自网络：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.25.46-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.25.46-AM.png" alt="Screen Shot 2015-07-23 at 3.25.46 AM" width="550" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.26.04-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.26.04-AM.png" alt="Screen Shot 2015-07-23 at 3.26.04 AM" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.27.16-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.27.16-AM.png" alt="Screen Shot 2015-07-23 at 3.27.16 AM" width="550" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.25.32-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.25.32-AM.png" alt="Screen Shot 2015-07-23 at 3.25.32 AM" width="550" height="268"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.46.20-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-23-at-3.46.20-AM.png" alt="Screen Shot 2015-07-23 at 3.46.20 AM" width="550" height="228"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E5%AE%B6%E6%9D%A5%E6%84%9F%E5%8F%97%E4%B8%8B%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%86%E8%85%90%E6%B8%A3%E5%B7%A5%E7%A8%8B/?category=18271" rel="tag">豆腐渣工程</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E5%BC%80%E5%BE%81%E6%88%BF%E4%BA%A7%E7%A8%8E%EF%BC%9A%E5%8F%AA%E5%A2%9E%E8%B4%A2%E6%BA%90-%E6%97%A0%E5%85%B3%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1/" target="cdt-mirror">网易另一面 | 开征房产税：只增财源 无关公共服务</a>
+</h2>
+<p><p><b>导语：</b>房产税立法初稿已基本成形，许多媒体称征收房产税是“国际惯例”。和国际惯例恰恰相反，中国开征房产税，能为地方政府提供稳定财源，但却对公共服务质量的提高毫无帮助。</p>
+<p><b>六十秒读懂专题：</b>中国苦苦追求的美国式“物业税”、“房产税”等，都是指“由政府对房子估值，再从估价里每年抽一部分钱作为税”。中国人买房，已经为70年土地使用权“一次性”缴纳了地租，此时再被征收房产税，无疑是要再次以“分期”形式缴纳地租。上海重庆的房产税试点，都没明白房产价值评估的重要性，而美国纽约州有一条完整的评估流程。美国人如果觉得房产税被征收太多，可以提出申诉，成功率还不低。美国的房产税只有一个目的，那就是改善当地公共服务，而中国没心思也没能力改善公共服务。</p>
+<p><b>1.此前媒体热议的“物业税”、“房地产税”等其实是指美国式“房产税”：它在房产的持有环节征收，2012</b><b>年，美国地方政府征收的房产税达到4330</b><b>亿美元，占到地方财政收入29.7%</b></p>
+<p>多年来，中国苦苦追求的美国式“物业税”、“房产税”、“房地产税”，其实都是指同一种税。它们都是在房产的持有环节征收，都是指“政府对房、地估计市场价值，再每年从估计的价值中，强制抽取一部分”（下文对“房产税”不做区别地使用）。</p>
+<p>美国各级政府中，征收房产税(PropertyTax)的主要是地方一级政府（占比97%以上）。根据census.gov的数据（2014年12月发布）：在2012财年(2011.7.1 – 2012.6.30)，州政府共征税7994亿美元（占州财政收入49%）；再往下的地方政府共征税5888亿美元（占地方财政收入40.4%），其中房产税达到了4330亿美元（占地方税收73.5%、地方财政收入29.7%），相比于2007财年的3763亿美元增加了15.1%。</p>
+<p><b>2.中国若开征房产税，是“重复征税”：购房时业主已经为70</b><b>年土地使用权“一次性”缴纳了地租，倘若再征房产税，相当于按照“分期”方式又得交一次地租</b></p>
+<p>表面上看，中国确实没有房产税。但是民众购买商品住房，付出的房价里30%-50%为土地出让金（即“楼面地价”），这本质上是民众为了获得70年土地使用权而“一次性”缴纳的地租。倘若政府再收取房产税，相当于民众按照“分期”的方式又多缴纳了一次地租，而美国持有房屋者至始至终只用交“分期”的房产税。有学者一再强调房产税是“公共服务的税”，土地出让金是“使用土地的租金”，但这看似不同的两者最后却都是由购房者承担。</p>
+<p>根据《第一财经日报》统计，若计入土地及房产相关的5种税收，2013年中国地方政府的国有土地使用权收入占地方财政收入的46%，这其实已经远超过了美国（2012年，房产税占地方财政收入29.7%）。</p>
+<p><b>3.上海重庆试点房产税，不管不顾房产价值评估的重要性：美国纽约州规定，只有一处房产发生物理变化，才进行评估，有些社区几十年都没有进行价值评估</b></p>
+<p>一般在美国，房子每年的房产税=房子评估价值×税率，税率由地方政府的民选议会根据每年预算决定，而如何评估房子的价值才是重中之重。以纽约州为例，评估员必须要获得纽约州的资格认证，在三年内上岗。所有郡、市、镇（除了纽约市和拿骚郡）的应税房产都必须以市场价值或者市场价值的相同比例来评估，只有在一处房产发生物理变化时，评估员才会评估房产的价值，一些社区在几年甚至几十年都没有进行价值评估。这种估值全部公开，很容易在相关房地产网站（比如Zillow）上找到，例如加利福尼亚州旧金山一处房产包括：3间卧室，2.5个浴室，1924年建成。2004年估值270,000美元，房产税5,090美元；2005年以725,000美元卖出（这两年处于房地产泡沫时期）；2006年房产税10,997美元；2010年以540,000美元卖出，房产税12,193美元。</p>
+<p>2011年，上海和重庆“试水”房产税，但在评估环节极其简陋和粗糙。上海市只模糊规定“房产税税基评估工作在市政府统一领导下，由市地税、财政、住房保障房屋管理、规划国土资源等部门共同实施”，没提到具体评估机制，而重庆市压根就没有类似规定。</p>
+<p><b>4.美国人若觉得自己被多征了房产税，可以提出申诉：2014</b><b>年，芝加哥所属库克郡有60%</b><b>提出申诉者获得了房产税减免</b></p>
+<p>美国民众如果觉得自己多交了房产税，可以立即提出申请，要求退税：在亚利桑那州凤凰城，退休人员林恩·韦弗(Lynne Weave)自己研究公开材料，提出申诉，成功将其房子的估值从2009年的709,715美元重新调整到了2010年的390,000美元，而房产税也从2009年的5597美元下降到2010年的3257美元；在伊利诺伊州芝加哥市，房地产每三年会被评估一次，2001-2011年，有超过25%的房屋持有者提出“重新评估”房子的价值，其中每年平均有18%的申诉者成功降低了自己房子的估价，从而少交了房产税。</p>
+<p>在2014年，芝加哥市所属的库克郡的房屋持有者共提交了99,659份单户型住宅的申诉，其中有60,411份（将近60%）获得了房产税的减免，地方政府共退还8700万美元的房产税。这些申诉者一部分受到过“TurboAppeal”这样专业咨询网站的帮助。俄亥俄州汉密尔顿郡的房产评估员达斯提·罗兹(Dusty Rhodes)说，“我们也可能犯错。”亚利桑那州马里科帕郡评估员办公室的发言人则称，这就是为什么“我们希望公众帮助我们做得更准确。”</p>
+<p><b>5.在美国，房产税唯一合法目的是用于改善公共服务：2009</b><b>年，纽约州房产税62%</b><b>都流入当地学校，剩下的用来资助警察、消防等市政服务</b></p>
+<p>在美国，征收房产税的唯一合法目的就是为公共服务提供资金，而且房产税每一分钱的去向都有据可查。例如华盛顿州克拉克郡，2014财年该郡向城市居民(City Resident)征收的房产税，有42%流入了当地学校，5%投入了当地图书馆。在纽约州，2009财年征收的房产税179.9亿美元(62.2%)流入了当地学校，50亿美元(16.9%)分配给了郡，剩下20.9%在城市、乡村、特殊地区之间分配，主要是为警察、消防、道路维修以及其他市政服务提供资金。这种关系可以解释为，“我住在这里，我给政府交物业费，政府拿着这笔物业费给我提供公共服务。”</p>
+<p>科罗拉多州斯普林斯市是著名的右派城市，它有着几乎全美最低的房产税——2008年时人均房产税大概为55美元。在2009年末经济衰退时期，该市发现自己面临着财政收入锐减问题，不得不关掉了三分之一的路灯，关掉了供人们玩耍的“纪念碑谷公园”游泳设施。最后，居民们根据法律进行了公投，结果是拒绝加税。人们宁愿遭受公共服务的削减，也不愿意看到自己需要交更多的房产税。这也是典型的“物业与业主”关系的例证。</p>
+<p><b>6.美国房产税改善了公共服务，反过来又促进该地区房子升值，最终业主获益：但中国无法实现这样的正向循环</b></p>
+<p>根据约翰·英杰(John Yinger)等人著的《房产税与房屋价值》(Property Taxes and House Values)，房产税与学区密不可分，一个学区如果房子价格高，房产税也就相应较高，最终流向学校的钱也比较多，学校（乃至整个学区）服务质量得到了提高，又吸引更多的家长购买学区房，从而推动房价上涨。2015年，德克萨斯州圣安东尼奥市独立学区的住宅评估价值上升了16%，而东北独立学区和北区独立学区的估价上升了10%，正是这个原因。而在中国根本无法实现这样一个正向循环，因为子女所在学区的经费并不来自于房产税。</p>
+<p><b>7.中国很难保证房产税足额流向公共服务：中国开征房产税只是为了给地方开辟稳定巨大的税源；在2011</b><b>年，地方政府土地出让金收益中仅有2.95%</b><b>用于廉租房，远低于4</b><b>年前10%</b><b>的承诺</b></p>
+<p>最近几年，中国政府以“抑制房价”、“打击投机”等多个冠冕堂皇的理由提出要开征房产税。但是中国为何要开征房产税，其实许多人早就心知肚明——为了给地方政府开辟稳定庞大的税收来源。据《21世纪经济报道》，2015年1-4月，中国地方政府国有土地使用权出让收入9016亿元，同比减少5572亿元，下降38.2%。土地是有限的，地方政府在即将坐吃山空之时，拿“房产税”这种可以无限期征收的税种替代也不足为奇。</p>
+<p>但对于监管方面来说，聂日明曾指出，在2011年3月财政部提交至全国人大的报告中，2010年国有土地使用权出让金为2.9万亿，征地拆迁补偿为1.3万亿元，廉租房保障支出463.62亿元，即土地出让收益中仅有2.95%用于廉租房的支出，也远未到达其2007年做出的10%的规定。在可预见的将来，中国开征房产税，也很难保证房产税能流向公共服务。<b>导语：</b>房产税立法初稿已基本成形，许多媒体称征收房产税是“国际惯例”。和国际惯例恰恰相反，中国开征房产税，能为地方政府提供稳定财源，但却对公共服务质量的提高毫无帮助。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E5%BC%80%E5%BE%81%E6%88%BF%E4%BA%A7%E7%A8%8E%EF%BC%9A%E5%8F%AA%E5%A2%9E%E8%B4%A2%E6%BA%90-%E6%97%A0%E5%85%B3%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%9D%83/?category=18271" rel="tag">土地使用权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%BE%81%E6%88%BF%E4%BA%A7%E7%A8%8E/?category=18271" rel="tag">开征房产税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E7%A8%8E/?category=18271" rel="tag">房产税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E7%A7%8D/?category=18271" rel="tag">税种</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%94%BF%E6%94%B6%E5%85%A5/?category=18271" rel="tag">财政收入</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%A4%A7%E6%89%93%E5%8E%8B%EF%BC%8C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%9B%9B%E9%9D%A2%E5%8F%97%E6%95%8C/" target="cdt-mirror">纽约时报｜中国加大打压，维权律师四面受敌</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/23lawyers-web-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/23lawyers-web-articleLarge.jpg" alt="23lawyers-web-articleLarge" width="575" height="383"></a><p>48岁的商业律师余文生说。在最近遭到逮捕后，他加入了维权律师的行列。／Adam Dean for The New York Times</p></div>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">黑色星期五：维权律师大抓捕</a>专题</p></blockquote>
+<p>北京——200多名律师及其熟人遭到拘捕，其中20人仍然在押。一些律师在电视上示众，给出屈辱的口供，并被描绘成煽风点火的无耻之徒。共产党的官方报纸刊发了大量评论，谴责他们从事颠覆和欺诈活动。</p>
+<p>律师们称，这是几十年来律师职业遭受的力度最大的政治攻击。中国政府正在广泛打压维权律师，宣称他们利用有争议的案件中饱私囊、攻击共产党。</p>
+<p>陷入困境的律师们表示，政府真正目的是诋毁和掐灭“维权”运动。在该运动中，有少数无畏的律师利用法律和公众压力，为在体制中处于弱势的客户提供支持。</p>
+<p>“感觉是我们经历过的最大的袭击，” 遭到警方询问后获释的南方律师张磊说。 “看上去是依法办事，但这些被失踪的律师当中，几乎没有一个能够会见到自己的律师。有200多人遭到问话和警告——我以前从来没有见过这样的事情。”</p>
+<p>然而，自毛泽东逝世这四十年来，中国社会发生了诸多变化，一个很有说服力的现象就是律师们并没有退缩。尽管警方施加了巨大压力，而且习近平上台后已经有一些律师遭到监禁，仍然有几十名律师写下请愿书，对此次拘捕行动予以谴责，并自愿为被警方羁押的人做辩护。</p>
+<p>“我以前觉得当律师只是一种谋生的手段，”48岁的商业律师余文生说。在最近遭到逮捕后，他加入了维权律师的行列。“现在，我相信我们有更崇高的使命，就是要去改变一个失灵的体制。他们的打压很猛烈，但我们维权律师会进行反击。”</p>
+<p>在余文生他们看来，中国未来的法治之路岌岌可危。</p>
+<p>这几十年来，中国司法体系从毛泽东导致的法律废墟上建立起来，律师群体推动中国走走停停地接纳西式法理。这个政党国家几乎无所不能，而律师们的努力帮助普通中国民众赢得了些许保护，让异见者、公开的基督徒及非法征地的受害者拥有了一个难得的反击方式。</p>
+<p>十几年前，中国新闻媒体甚至热烈赞扬维权律师说服了立法机关废止严苛的居留许可制度。</p>
+<p>但在大约两周前开始的这轮行动中，新闻报道把维权律师描述为贪图钱财的骗子、性侵犯者和满嘴脏话的流氓。这种大加鞭挞表明，共产党不仅决心瓦解维权运动，还要让它丧失合法性。</p>
+<p>“这些行动步调一致，目的是抹黑整个维权律师群体，”福坦莫大学(Fordham University)的中国法律专家<a href="http://www.fordham.edu/info/23165/carl_minzner" target="_blank" rel="nofollow">明克胜(Carl Minzner)</a>说。他还表示，这是一个“明确的信号”：维权律师利用知名度较高的案件以及新闻媒体的压力来把人们的注意力引到社会问题上的做法“不会再被容忍”。</p>
+<p>中国政府的矛头直指<a title="Link: http://cn.nytimes.com/china/20150713/c13lawyers/" href="http://cn.nytimes.com/china/20150713/c13lawyers/" target="_blank" rel="nofollow">北京锋锐律师事务所</a>。他们的客户包括异见艺术家艾未未、去年以分裂国家的罪名被判处无期徒刑的维吾尔学者伊力哈木·土赫提(Ilham Tohti)，以及人权活动者曹顺利。曹顺利<a title="Link: http://cn.nytimes.com/china/20140329/c29family/" href="http://cn.nytimes.com/china/20140329/c29family/" target="_blank" rel="nofollow">在警方关押期间死亡，据报道是由于疾病没有得到救治</a>。</p>
+<p>当局拘押了锋锐律所的<a title="Link: http://cn.nytimes.com/china/20150713/c13lawyers/" href="http://cn.nytimes.com/china/20150713/c13lawyers/" target="_blank" rel="nofollow">周世锋</a>主任，以及该所的至少四名律师和一名行政助理。一名律师16岁的儿子被带走并羁押了两天，此前他正准备飞往澳大利亚上高中。该名律师的丈夫也遭到了拘押。</p>
+<p><a title="Link: http://cn.nytimes.com/china/20150714/c14sino-lawyers/" href="http://cn.nytimes.com/china/20150714/c14sino-lawyers/" target="_blank" rel="nofollow">警方称，周世锋及其同事</a>组织人员到法院进行抗议，在网上制造舆论，以抹黑政府、恐吓法官并宣传自己。上周，周世锋的同事黄力群在国家级电视台上进行了供认，指责周世锋侵占公款，并把他描述为好色之徒，曾多次骚扰女员工。画面显示，周世锋本人也表示认罪。</p>
+<p>官方新闻媒体的攻击毫不留情、耸人听闻。“在一些热点敏感事件的背后，总是藏有‘黑手’在推波助澜，”一家党报上周的<a href="http://www.jcrb.com/opinion/zywy/201507/t20150712_1524897.html" target="_blank" rel="nofollow">一篇评论文章</a>称。“但在这些所谓维权的事件中，少数律师扮演了不光彩的角色，充当起破坏法治、扰乱社会秩序的帮凶。”</p>
+<p>在过去两周被带走的人当中，有120多名律师。<a title="Link: https://www.amnesty.org/press-releases/2015/07/china-list-of-lawyers-and-activists-targeted/" href="https://www.amnesty.org/press-releases/2015/07/china-list-of-lawyers-and-activists-targeted/" target="_blank" rel="nofollow">国际特赦组织(Amnesty International)编制的名单</a>显示，其他的是律师事务所的工作人员、律师家属和独立的维权人士。政府和官方新闻媒体对此次行动的规模保持沉默，一味标榜针对锋锐事务所律师的指控推动了司法公正，并谴责反对拘捕行动的批评者。</p>
+<p>官方新闻机构新华社周三发表<a title="Link: http://politics.people.com.cn/n/2015/0722/c70731-27345881.html" href="http://politics.people.com.cn/n/2015/0722/c70731-27345881.html" target="_blank" rel="nofollow">评论文章</a>称，“一些西方媒体和政治人物不尊重中国的法律制度和规定。”文中表示，此次查办律师的行动与美国那些涉及违法律师的案件没什么不同。“这些律师破坏了中国的法律秩序，理应受到法律惩罚。”</p>
+<p>自习近平于2012年11月上台以来，当局监禁了数十名维权运动的支持者，还有一位知名律师浦志强自2014年5月以来一直被警方羁押。他可能<a title="Link: http://cn.nytimes.com/china/20150515/c15china/" href="http://cn.nytimes.com/china/20150515/c15china/" target="_blank" rel="nofollow">很快就会面临审判</a>，几乎肯定会被定罪，像<a href="http://cn.nytimes.com/china/20140126/c26xuzhiyong/" target="_blank" rel="nofollow">其他几位知名维权律师</a>一样入狱。另外一些在具有政治争议性的案件中挑战政府的律师则遭到了骚扰、拘押、吊销律师证和失去客户的待遇。</p>
+<p>然而，最近几年，愿意接手政治敏感案件的律师却越来越多。他们是中国27万名律师中的一小部分，但对公共生活有着巨大的影响力。</p>
+<p>伦敦国王学院(King’s College London)研究中国法律活动人士的<a href="http://www.kcl.ac.uk/law/people/academic/Dr-Eva-Pils.aspx" target="_blank" rel="nofollow">学者</a>艾华(Eva Pils)表示，中国的维权律师现在有300名，而十年前只有几十名。她说，“有其他律师已经意识到，他们自己的职业利益与那些人权律师是一致的。”</p>
+<p>商业律师余文生已开始从事危险的第二职业，成为维权人士。他表示，自己的这种转变始于去年10月，当时监狱管理人员非法禁止他探望客户。这名客户因为被控支持香港的<a title="Link: http://cn.nytimes.com/china/20141207/c07hongkong/" href="http://cn.nytimes.com/china/20141207/c07hongkong/" target="_blank" rel="nofollow">亲民主示威活动</a>而遭到扣押。</p>
+<p>失望的余文生做了一些与自己个性不符的事情：他在这座位于北京郊区的看守所外进行抗议，自拍照片，并在中国的热门即时通讯应用微信上发布了这些图片。</p>
+<p>两天之后，他被捕了。在三个月的关押期内，他大部分时间和死刑犯关在一起，还经受了长达17个小时的审讯，身体遭到摧残，致使他患上腹疝。他无法见律师，也一直没有被正式起诉。</p>
+<p>余文生后来获得保释，但警方告诫他不要谈论关押期间的遭遇。余文生表示，他不会受此影响。“我知道他们随时可以过来把我带走，”他说。“我过去很害怕，但现在再也不会了。”</p>
+<p>本轮拘捕行动受到一些法学权威的批评。他们警告，中国可能会逆转本已步履蹒跚的法治进程。</p>
+<p>“如果公权力机关动不动就把律师抓起来，这并不是一个国家律师健全的一个标志，”中国政法大学前校长江平在<a title="Link: http://www.zgxbdlsw.com/html/Hot/dongtai/671.html" href="http://www.zgxbdlsw.com/html/Hot/dongtai/671.html" target="_blank" rel="nofollow">上周公布的演讲稿</a>中说道。“反而是一个律师保护在责任方面的一个倒退。”</p>
+<p>他还表示，“只有律师自身的安全得到保障，律师才可能去尽到维护他人的权利。”</p>
+<p>然而，随着情况的恶化，越来越多的律师感到幻灭，比如来自东北地区的59岁的律师迟夙生。</p>
+<p>她曾担任15年的全国人大代表，直到2013年。全国人大代表是一个享有声望且可能带来诸多利益的头衔。不过，她的工作遭到扰乱和限制，就连没有政治色彩的案件也是如此，这让她愈发失望。</p>
+<p>“我一直有绝对的信心，总有一天会有一个法治国家到来，”她接受电话采访时说。“但当我们教老百姓要遵守法律程序，依法律办事，我们就发现，人去了法院，但法院就不给他们受理案件。”</p>
+<p>很多律师揶揄政府针对维权律师的那些指控，特别是宣称他们通过接维权案件敛财的说法。曾被监禁三个月无法与外界接触的律师余文生指着他破旧的办公室说，代理维权客户几乎没有什么经济回报，其中很多客户权利遭到剥夺，非常贫穷。</p>
+<p>“如果你想赚钱，”他说，“我建议你坚持做商业案件方面的工作。”</p>
+<p><em>杰安迪(Andrew Jacobs)、储百亮(Chris Buckley)是《纽约时报》记者。</em><br><em>杰安迪自北京、储百亮自香港报道。Vanessa Piao自北京对本文有研究贡献。</em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%A4%A7%E6%89%93%E5%8E%8B%EF%BC%8C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%9B%9B%E9%9D%A2%E5%8F%97%E6%95%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E8%AE%B0%E5%BF%86%E3%80%91%E5%90%91%E7%BA%A2%EF%BC%9A%E5%9B%9B%E5%8D%81%E5%B9%B4%E6%9C%89%E6%84%9F/" target="cdt-mirror">【记忆】向红：四十年有感</a>
 </h2>
 <p><p>周宇驰（1935—1971），曾任空军司令员刘亚楼秘书，时任空军司令部办公室副主任，1971年9月13日，乘直升机外逃未遂，饮弹自尽。最高人民检察院特别检察厅起诉书称，他是反革命武装政变骨干力量“联合舰队”的主要成员。</p>
@@ -579,100 +677,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BE%AE%E4%BF%A1%E4%B8%BB%E8%A6%81%E5%AE%A1%E6%9F%A5%E8%B0%A3%E8%A8%80%E3%80%81%E8%85%90%E8%B4%A5%E5%92%8C%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F%E8%AF%9D/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4/?category=18271" rel="tag">公民实验室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF/?category=18271" rel="tag">腾讯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90%EF%BC%9A%E9%9A%8F%E6%89%8Bx%E5%A4%A7%E4%BD%BF%E9%A6%86/" target="cdt-mirror">【河蟹档案】染香姐姐：随手X大使馆</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%87%A4%E5%87%B0%E6%80%9D%E7%BB%B4">凤凰思维</a>：【历史大倒退】想当年薄熙来抓了一个李庄，全国舆论像炸开了锅。现在抓一个律师再也不用费心构陷什么教唆伪证了，它们直接修改了刑律，律师只要较真，随时随地面临牢狱之灾。薄熙来周永康不是都倒台了吗？这法治的倒退为什么就刹不住车还在加速呢？！难道它们是一伙的？<br><a href="https://freeweibo.com/weibo/3865909863233557" target="/weibo/386">2015年07月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B1%9F%E8%8D%A3%E7%94%9F">江荣生</a>：一个朋友是长春某厂管理人员，前几天有幸被安排习总握手之列，问：是不是组织安排的，答：政审、外调，搞了一个星期！//<a href="https://freeweibo.com/weibo/%40%E8%B5%B5%E5%85%8B%E7%BD%97">@赵克罗</a>:千万不要洗握过的手！相关阅读｜《<a href="http://news.eastday.com/c/20150720/u1a8803575.html">盘点：习近平在吉林考察 和百姓聊了什么？</a>》<br><a href="https://freeweibo.com/weibo/3866244534560535" target="/weibo/386">2015年07月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%B6%E6%99%AF%E6%B4%B2">陶景洲</a>：这种微博都不安全？<a href="https://freeweibo.com/weibo/%40%E5%88%98%E8%80%98%E5%8D%9A%E5%A3%AB">@刘耘博士</a>  相关阅读｜《<a href="http://baike.baidu.com/subview/3248536/10383442.htm">百度百科：刘耘（原长沙学院院长现海口经济学院院长）</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11118.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11118.jpg" alt="111" width="359" height="639"></a><br><a href="https://freeweibo.com/weibo/3866602020230301" target="/weibo/386">2015年07月20日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%87%8A%E4%B8%8D%E5%BD%92">释不归</a>：此女网名<a href="https://freeweibo.com/weibo/%40%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90">@染香姐姐</a> ，曾任南方报业集团凯迪网络版主，居住地番禺，11年后处无业状态，13年初为南方系元旦事件一举成名，这是她发出的最新图片。欢迎网友举报。相关阅读｜《<a href="http://www.boxun.com/news/gb/china/2014/10/201410150027.shtml#.Va4CJpNViko">博讯｜凯迪版主染香姐姐从泰国逃亡美国的过程</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11113.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11113.jpg" alt="111" width="402" height="714"></a></p>
-<blockquote><p>相关视频：</p><p><a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90%EF%BC%9A%E9%9A%8F%E6%89%8Bx%E5%A4%A7%E4%BD%BF%E9%A6%86/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3864865728651049" target="/weibo/386">2015年07月15日</a></blockquote>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B8%85%E5%8D%8E%E7%A7%A6%E9%B9%8F">清华秦鹏</a>：好消息是，原广东省宣传部长庹震不再祸害广东了，坏消息是它升任副部长了。[挖鼻] 相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/zhengzhi/yf2-07172015100758.html">RFA｜整肃“南周”核心人物庹震调任中宣部副部长</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%BA%B9%E9%9C%87%E5%8D%87%E4%BB%BB%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF/">共产党新闻网｜庹震升任中宣部副部长</a>》</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11112.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11112.jpg" alt="111" width="372" height="662"></a><br><a href="https://freeweibo.com/weibo/3865589464601283" target="/weibo/386">2015年07月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%A9%AC%E5%85%8B%E6%80%9D%E7%B2%89%E4%B8%9D2">马克思粉丝2</a>：分享图片这又咋了？？[群体围观][群体围观][群体围观][群体围观][群体围观] 相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">数字时代｜维权律师大抓捕专题</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11111.jpg" alt="111" width="600" height="417"></a><br><a href="https://freeweibo.com/weibo/3865717063025554" target="/weibo/386">2015年07月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%A5%BF%E7%A7%A6%E7%8B%BC%E5%85%AD">西秦狼六</a>：分享图片<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11115.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11115.jpg" alt="111" width="397" height="464"></a><br><a href="https://freeweibo.com/weibo/3864549608653476" target="/weibo/386">2015年07月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%AE%B8%E5%90%88%E6%96%87">许合文</a>：中国的人权<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11116.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11116.jpg" alt="111" width="524" height="352"></a><br><a href="https://freeweibo.com/weibo/3866243226752196" target="/weibo/386">2015年07月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%9C%E5%B2%B3%E6%99%9A%E6%99%B4">东岳晚晴</a>：【感觉恐怖】在一个随时都会被以任何罪名带走的年代（转发敏感微博、质疑某事件、律师在公堂死磕）人人自危，我突然间觉得我自己有点了不起[偷笑]，我连晚上自己睡觉都不敢关灯的女子还敢在微博上乱逛呢，哪天要是偶的微博傻了吧唧的转发个难以理解的事态文章[可怜]不敢想。。立马我也成了一条消息。 相关阅读｜《<a href="http://www.rfa.org/mandarin/Xinwen/3-07102015113501.html">FRA 佛教维权人士“望云和尚”（林斌）在成都被带走</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11110.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11110.jpg" alt="111" width="558" height="233"></a><br><a href="https://freeweibo.com/weibo/3863049167717893" target="/weibo/386">2015年07月10日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B7%AF%E9%80%8F%E4%B8%AD%E6%96%87%E7%BD%91Reuters">路透中文网Reuters</a>：SPAM <a href="https://freeweibo.com/weibo/%E8%B7%AF%E9%80%8F%E5%9B%BE%E7%89%87">#路透图片#</a>【24小时时事新闻】7月5日，土耳其伊斯坦布尔，示威者在中国驻土耳其领事馆附近焚烧中国国旗。中国驻土耳其使领馆提醒在土中国公民注意加强安全防范，切勿接近或拍摄游行队伍，尽量减少单独外出活动。REUTERS/Osman Orsal 相关阅读｜《BBC｜<a href="http://www.bbc.com/zhongwen/simp/world/2015/07/150710_turkey_china_relation_ana">分析：土中关系危机中的感性恨与理性爱</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1116.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1116.jpg" alt="111" width="479" height="319"></a><br><a href="https://freeweibo.com/weibo/3861650149414714" target="/weibo/386">2015年07月06日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%88%91%E4%BF%82%E9%98%BFBen">我係阿Ben</a>：情況在不斷地變壞。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1113.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1113.jpg" alt="111" width="429" height="763"></a><br><a href="https://freeweibo.com/weibo/3860641858879978" target="/weibo/386">2015年07月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【转别人的】央视不经审判就给人定罪,是要毁掉法制<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11117.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11117.jpg" alt="111" width="362" height="1024"></a><br><a href="https://freeweibo.com/weibo/3866810795553256" target="/weibo/386">2015年07月20日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90%EF%BC%9A%E9%9A%8F%E6%89%8Bx%E5%A4%A7%E4%BD%BF%E9%A6%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%92%E9%80%80/?category=18271" rel="tag">倒退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%98%E5%84%BF/?category=18271" rel="tag">托儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">望云和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E6%96%8C/?category=18271" rel="tag">林斌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%93%E9%A6%99%E5%A7%90%E5%A7%90/?category=18271" rel="tag">染香姐姐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%94%E5%91%98/?category=18271" rel="tag">演员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%9B%BD%E4%BA%A7%E9%80%BB%E8%BE%91%C2%B7%E7%AC%AC%E4%B8%80%E5%AD%A3/" target="cdt-mirror">【麻辣总局】国产逻辑·第一季</a>
-</h2>
-<p><p>@没有羊先生：国产逻辑八：私货 ——终于凑齐了#国产逻辑# 第一季九张图（含番外）。感谢为此无码套图提供素材的众多群众们。希望大家反复研读学习，被SB拉至同一水准时也不能输阵。目录：居住地，体制，万能句型，方法，花式占领道德高地，实干波普，混乱中立，认知社会学（番外）。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjnk7gjj20c81r812j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjnk7gjj20c81r812j.jpg" alt="5329f865gw1eu9mjnk7gjj20c81r812j" width="440" height="2276"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjv6mc0j21kw10laek.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjv6mc0j21kw10laek.jpg" alt="5329f865gw1eu9mjv6mc0j21kw10laek" width="440" height="283"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjwhd6hj21kw1q4tne.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjwhd6hj21kw1q4tne.jpg" alt="5329f865gw1eu9mjwhd6hj21kw1q4tne" width="440" height="480"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjxfjydj20wy1x4k61.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjxfjydj20wy1x4k61.jpg" alt="5329f865gw1eu9mjxfjydj20wy1x4k61" width="440" height="923"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjyfwiqj21221xwqfe.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjyfwiqj21221xwqfe.jpg" alt="5329f865gw1eu9mjyfwiqj21221xwqfe" width="440" height="808"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjz2go7j20ml2mg7j1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mjz2go7j20ml2mg7j1.jpg" alt="5329f865gw1eu9mjz2go7j20ml2mg7j1" width="440" height="1840"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mk2yxw9j21fn2mgx4g.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mk2yxw9j21fn2mgx4g.jpg" alt="5329f865gw1eu9mk2yxw9j21fn2mgx4g" width="440" height="805"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mkjcl2yj20c80iodi1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mkjcl2yj20c80iodi1.jpg" alt="5329f865gw1eu9mkjcl2yj20c80iodi1" width="440" height="672"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mkm6xzlj215z2mg7ak.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5329f865gw1eu9mkm6xzlj215z2mg7ak.jpg" alt="5329f865gw1eu9mkm6xzlj215z2mg7ak" width="440" height="990"></a></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%9B%BD%E4%BA%A7%E9%80%BB%E8%BE%91%C2%B7%E7%AC%AC%E4%B8%80%E5%AD%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E9%80%BB%E8%BE%91/?category=18271" rel="tag">国产逻辑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">官方意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9%E6%98%AF%E4%BB%80%E4%B9%88/" target="cdt-mirror">新华网 | 中共的政治规矩是什么</a>
-</h2>
-<p><p>1月13日，在十八届中央纪委第五次全会上，中共中央总书记习近平讲话中的一个词引发外界关注：“政治规矩”。他提出，要“严明政治纪律和政治规矩”，“把守纪律、讲规矩摆在更加重要的位置”。</p>
-<p>而在1月16日的中央政治局常委会上，习近平进一步提出，“坚持党的领导，首先是要坚持党中央的集中统一领导，这是一条根本的政治规矩”。“政治纪律”是党内常态话语，经常被提及，但“政治规矩”的提法则比较罕见。</p>
-<p>可以说，“政治规矩”，是当前理解中国政治思路的一个关键词。那么，到底什么是政治规矩？为什么要在今天重新提出政治规矩？</p>
-<p><strong>1.什么是党的规矩</strong></p>
-<p>“欲知平直，则必准绳；欲知方圆，则必规矩”。一个人，没有规矩，很难成为一个合格的社会人；一个拥有8600多万党员的大党，没有经律和规矩，就注定成为一盘散沙。</p>
-<p>为什么这么说？是因为，形势越复杂，肩负的任务越艰巨，就越需要保持执政党的团结统一。要达到这个目的，不仅需要一套严密的组织体系，需要全党成员的高度自觉，也需要制度约束——这就是纪律和规矩的作用。</p>
-<p>革命战争时期，为了“上下同欲者胜”，需要规矩；全面深化改革的今天，为了凝聚全党、团结一心啃下硬骨头，同样需要规矩。</p>
-<p>那么，党的规矩到底包括哪些？</p>
-<p>习近平对此有过总体论述。具体说来，党的规矩包括四个方面：第一，党章是全党必须遵循的总章程，也是总规矩；第二，党的纪律是刚性约束，政治纪律更是全党在政治方向、政治立场、政治言论、政治行动方面必须遵守的刚性约束；第三，国家法律是党员、干部必须遵守的规矩；第四，党在长期实践中形成的优良传统和工作惯例。</p>
-<p>从宽泛的外延说，中国共产党党员也都是中国公民，因此必须遵循国家法律，这毫无疑问；从党员的身份来说，党章等党内规章制度作为硬性的约束，也需要每个党员遵守。而包括政治纪律、组织纪律、财经纪律、宣传纪律等在内的“党的纪律”，既然已经明确成文，自然也就成为约束和指南。那么，为什么说“党在长期实践中形成的优良传统和工作惯例”也是政治规矩？</p>
-<p>这就需要理清“党的纪律”和“党的规矩”之间的关系。</p>
-<p>习近平对此有详细的论述：“纪律是成文的规矩，一些未明文列入纪律的规矩是不成文的纪律；纪律是刚性的规矩，一些未明文列入纪律的规矩是自我约束的纪律。党内很多规矩是我们党在长期实践中形成的优良传统和工作惯例，经过实践检验，约定俗成、行之有效，反映了我们党对一些问题的深刻思考和科学总结，需要全党长期坚持并自觉遵循。”</p>
-<p>也就是说，从概念的层面，“党的规矩”的外延要比“党的纪律”更大。纪律是刚性的规矩，优良传统和工作惯例是不成文的、相对柔性的规矩，同样需要遵守。</p>
-<p>在党的纪律中，习近平尤其强调“政治纪律”，因为这事关全党的路线和立场。同样，在党的规矩中，习近平也尤其强调“政治规矩”，因为这也是事业兴衰的关键。习近平指出：“在所有党的纪律和规矩中，第一位的是政治纪律和政治规矩。”</p>
-<p><strong>2.政治规矩包括哪些</strong></p>
-<p>“政治规矩”确是一个新词，也是理解当下中国政治思路的一个关键词。</p>
-<p>新概念的提出，通常有其问题背景。而作为总书记，习近平为什么要提出遵守政治规矩呢？无疑，是因为党内存在不遵守政治规矩的表现。</p>
-<p>在近日出版的《习近平关于党风廉政建设和反腐败斗争论述摘编》中，习近平对于“不守政治规矩”的现象有所总结。</p>
-<p>比如，在原则立场上，不守规矩主要体现为不能自觉与党中央保持一致，包括“在原则问题和大是大非面前立场摇摆”，“对涉及党的理论和路线方针政策等重大政治问题公开发表反对意见”，甚至是“对中央方针政策和重大决策部署阳奉阴违”，“口无遮拦，毫无顾忌”。</p>
-<p>又比如，在党内团结方面，不守规矩的主要体现，是“团团伙伙”、小山头、小圈子、宗派主义。2013年和2014年，习近平两次在不同场合表示，党的干部来自五湖四海，不能借着老乡会、同学会、战友会等场合，搞小圈子、拉帮结派、称兄道弟，“宗派主义必须处理，山头主义必须铲除”。</p>
-<p>为什么？因为这涉及到全党的“团结统一”。山头主义和宗派主义的出现，本质上就是“党内有党”，不仅可能在上情下达、方针执行上打折扣、搞对抗，甚至可能形成“门客、门宦、门附”的封建人身依附关系，在政治上形成一种抱团化、互相支持、互相提携的利益交换关系，使政治“潜规则”大行其道，破坏党的风气和统一。</p>
-<p>习近平反复论及的另外一个规矩，就是“组织”的重要性。要有组织、体现组织，就要体现程序意识。</p>
-<p>作为党员，组织性体现在哪里？下级服从上级、少数服从多数、遵循组织程序、听从组织安排、重大事项向组织请示报告。习近平批评道，现在许多干部没有程序意识，“迈过锅台上炕”，或者是做先斩后奏的“事后诸葛亮”。</p>
-<p>这种情况，主要体现为“组织意识淡漠、不向组织请示报告”，比如子女在国外定居、个人有几本因私护照、随意外出不报告、个人家庭发生重大变故不报告等。而这些，往往也是干部出问题的苗头，在近年来落马的官员中屡见不鲜。</p>
-<p>政治意识不强、组织意识不强，一个干部就不免目中无人、心中无畏，甚至可能衍生出管不好身边人、擅权干政、干预选人用人、打招呼说情等问题。这都是不守规矩的表现。</p>
-<p>可以说，在今天重新提倡政治规矩，其本质就是为了维护党中央权威、维护党内团结统一、重塑党组织的纪律性和约束力，净化党的政治生态。</p>
-<p><strong>3.强调规矩是传统</strong></p>
-<p>事实上，这已经不是习近平首次讲“规矩”了。2012年11月16日，刚刚履新的习近平就强调“没有规矩，不成方圆”，并提出党章是“根本大法”和“总规矩”。此后，在多个场合，他都强调党的政治纪律和政治规矩。</p>
-<p>其中最让人印象深刻的一次，是2013年在西柏坡。用他的话来说，“这里是立规矩的地方。”那里有中国共产党1949年就立下的“六条规矩”：“一、不做寿；二、不送礼；三、少敬酒；四、少拍掌；五、不以人名作地名；六、不要把中国同志同马恩列斯平列。”</p>
-<p>规矩简单，但透露出的是对自身、对形势、对未来事业的清醒认识。重规矩、明纪律，是中国共产党革命胜利、赢取民心的重要法宝。从成文的“三大纪律、八项注意”，到进入上海秩序井然地睡在街头的解放军战士、“不拿群众一针一线”的红军，每一个细节，都是政治规矩的体现，是政治理念在行为层面的实践。</p>
-<p>但在当下，党的纪律、党的规矩都有不同程度地被忽视、被破坏的现象。</p>
-<p>比如，在去年6月份中央纪委监察部网站推出的一项调查中，面对“你身边的‘组织涣散、纪律松弛’”现象，4万多名参与的网友，有74.1%的人把票投给了“程度严重”的选项。</p>
-<p>网友的切身感受，真实反映着来自现实的问题。</p>
-<p>比如，山西“塌方式腐败”，让中央政治局常委、中央纪委书记王岐山直言“令人触目惊心”；湖南衡阳的破坏选举案，409人被给予党纪政纪处分；广东茂名窝案，涉嫌行贿买官人员159人，相互牵连的官员之间“一损俱损”，“山头主义”“团团伙伙”的危害之大可见一斑。2014年12月29日，中共中央政治局会议专门强调：“严明政治纪律和政治规矩，党内决不容忍搞团团伙伙、结党营私、拉帮结派。”</p>
-<p>违纪，往往自破坏规矩始。讲规矩，是对党员、干部党性的重要考验，也是对党员、干部对党忠诚度的重要检验。</p>
-<p><strong>4.如何遵守政治规矩</strong></p>
-<p>有了规矩、懂了规矩，如何做到自觉遵守规矩？答案是，要做到“五个必须”。</p>
-<p>一是必须维护党中央权威，决不允许背离党中央要求另搞一套，必须在思想上政治上行动上同党中央保持高度一致，听从党中央指挥，不得阳奉阴违、自行其是，不得对党中央的大政方针说三道四，不得公开发表同中央精神相违背的言论。</p>
-<p>二是必须维护党的团结，决不允许在党内培植私人势力，要坚持五湖四海，团结一切忠实于党的同志，团结大多数，不得以人划线，不得搞任何形式的派别活动。</p>
-<p>三是必须遵循组织程序，决不允许擅作主张、我行我素，重大问题该请示的请示，该汇报的汇报，不允许超越权限办事，不能先斩后奏。</p>
-<p>四是必须服从组织决定，决不允许搞非组织活动，不得跟组织讨价还价，不得违背组织决定，遇到问题要找组织、依靠组织，不得欺骗组织、对抗组织。</p>
-<p>五是必须管好亲属和身边工作人员，决不允许他们擅权干政、谋取私利，不得纵容他们影响政策制定和人事安排、干预日常工作运行，不得默许他们利用特殊身份谋取非法利益。</p>
-<p>要做到这些，就要树立政治意识、团结意识、程序意识、组织意识、原则意识。</p>
-<p>“其身不正，虽令不行；其身正，不令而行。”人心是最大的政治，守纪律讲规矩的政党才能得民心。在“减少腐败存量、遏制腐败增量、重构政治生态的工作艰巨繁重”的今天，强调规矩，也是改善政治生态的必要之举。</p>
-<p>2015年，是全面深化改革的关键之年，也是全面依法落实依法治国方略的开局之年。要全面建成小康社会、全面深化改革、全面推进依法治国，离不开“全面从严治党”，因为这是前三者的政治基础和根基。而守纪律、讲规矩，就是全面从严治党的最重要抓手。</p>
-<p>“治理一个国家、一个社会，关键是要立规矩、讲规矩、守规矩。”习近平说。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9%E6%98%AF%E4%BB%80%E4%B9%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80/?category=18271" rel="tag">中央政治局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

@@ -56,7 +56,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=18271" rel="tag">Google</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 23分钟前</small>
+	<small> ============== 28分钟前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%9B%E8%99%BD%E5%BC%BA%E4%BD%86%E5%A3%B0%E8%AA%89%E4%B8%8D%E5%BD%B0/" target="cdt-mirror">网易数读 | 中国国力虽强但声誉不彰</a>
 </h2>
@@ -76,7 +76,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E5%91%8A/?category=18271" rel="tag">报告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%92%E8%A1%8C%E6%A6%9C/?category=18271" rel="tag">排行榜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E6%9F%A5/?category=18271" rel="tag">调查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%89%B9%E5%88%AB%E8%B0%83%E6%9F%A5%E5%91%98%EF%BC%9A%E5%90%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E5%AD%A6%E4%B9%A0/" target="cdt-mirror">特别调查员：向爱国青年侯聚森学习</a>
 </h2>

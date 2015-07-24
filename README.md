@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gsw7xh4atmss.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mby9ogvjapzk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90%E6%A1%88%E7%BB%AD%E5%BC%80%E5%AE%A1%E5%90%84%E7%95%8C%E5%85%B3%E6%B3%A8-%E9%A6%99%E6%B8%AF/" target="cdt-mirror">自由亚洲｜“广州三君子”案续开审各界关注 香港支联会发起“伞聚”声援</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5db03df7-5fec-48dc-b0db-d0837ffacdca.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5db03df7-5fec-48dc-b0db-d0837ffacdca.jpeg" alt="“广州三君子”案续审 法院外警方戒备严密（维权人士独家提供）" width="575" height=""></a><p>“广州三君子”案续审 法院外警方戒备严密（维权人士独家提供）</p></div>
+<p>维权律师唐荆陵等“广州三君子”案本周四第二次开庭审理。当天，法院外戒备森严，除了家属被允许进入法庭旁庭外，其余到场声援的公民都不被允许靠近法庭，多人被带走。此外，香港支联会发起声援行动，呼吁中国当局立即释放“广州三君子”以及其余他被捕维权人士，撤销所有不实控罪。</p>
+<p>唐荆陵、王清营、袁新亭被控“煽动颠覆国家政权罪”一案周四上午在广州市中级人民法院第二次开庭审理。庭审至当天下午5点半结束，法庭进入质证阶段，将于翌日继续审理。</p>
+<p>唐荆陵的代理律师葛永喜在庭审后接受本台采访时表示，公诉人暂时出示了9组证据中的4组证据，均涉及言论。而在法庭上，他的当事人阐述了“非暴力不合作”的理念，认为自己是无罪的。</p>
+<p>“唐荆陵主要是在发问阶段，他详细地、非常清晰地阐述了他非暴力不合作的理念。不单是觉得他是无罪的，他坚定地认为他是无罪的。而且他认为法庭是没有权力来审判他的。他认为，在目前的这种司法体制下，煽颠罪，肯定是没有任何一个司法机关可以审判他。”</p>
+<p>唐荆陵的妻子汪艳芳则告诉记者，与前一次开庭一样，法院只允许三名被告人的家属入内，到场声援的公民均被带走。</p>
+<p>“庭审5点半就结束，中午一直都没休息，就吃了个饭就继续开庭。来旁听的只有家属，而且只有28个位，其他人员都是他们自己安排的，我们没有办法让我们认识的朋友进来旁听，和第一次一样。而且外面有很多的警察，设置得很严格，根本让其他想旁听这个案件的人无法走近，走近了就直接把人给抓走了。”</p>
+<p>开庭前，警方在法院外设置了铁马，并将前来准备参与旁听的美国领事馆人员阻挡在外。而在抓捕现场公民时，警方一度撑起了黑色雨伞用来遮挡。</p>
+<p>了解情况的一名维权人士向本台表示，约有10人被带走，包括来自湖北的维权人士爱嘉、湖南异议人士欧阳经华、李原风、何家维、以及广州本地的贾榀、老曾等。</p>
+<p>“看到了消息，大概有10个左右，有些来自外地的朋友，有些被带去派出所谈话了。有可能是准备遣返吧。”</p>
+<p>记者周四多次拨打被带走的多名公民电话，然而直至当晚7点，所有电话不是无人接听，就是提示已经关机。</p>
+<p>与此同时，香港支联会也于同日在铜锣湾时代广场发起“撑伞无罪 停止滥控‘煽动颠覆国家政权’”的声援行动。呼吁中国当局依宪保障言论自由，立即释放所有“伞捕者”及广州三君子，撤销所有控罪。同时废除“煽动颠覆国家政权罪”，停止以国家安全为名打压民主人权运动。到场人士高举黄色雨伞，并拉起“释放广州三君子”的横幅。</p>
+<p>支联会副主席蔡耀昌接受本台采访时表示：“今天有几个案子内地法庭开庭，关于维权人士的，包括唐荆陵他们‘广州三君子’。这个我们极度关注。特别唐荆陵律师过去作为维权律师帮助很多的人士，包括李旺阳这个事情，还有其他很多的案件，可以看到他一直关注内地人权情况。而且他们作为公民，表达他们应有的言论自由，（却）被拘捕，现在面对‘煽动颠覆国家政权罪’，我们认为是毫无理由的起诉。”</p>
+<p>此外，总部位于美国的人权组织“人权观察”当天发表声明，敦促中国政府立即释放唐荆陵、袁新亭和王清营。声明说，中国政府对颠覆行为的解释过于宽泛，违反中国宪法第35条保障公民言论自由的规定。唐荆陵他们阅读和讨论书刊不是犯罪，也不应成为不当对待、酷刑或剥夺公正审判基本权利的理由，若说有谁犯了“严重政治错误”，那正是企图打压和平论辩中国前途的政府当局。</p>
+<p>去年5月16日，唐荆陵、袁新亭及王清营被广州国保从家中带走，后以“涉嫌寻衅滋事罪”刑事拘留，关押在白云区看守所。6月20日，唐荆陵被以“涉嫌煽动颠覆国家政权罪”批捕。案件移交检察院后，两度退回补充侦查。警方指控唐荆陵的七项犯罪行为，主要是他推动公民不合作运动，发起六四静思节、4.29林昭纪念日，主张废除户籍隔离等。起诉书称唐荆陵等三人散发并讨论他人出版的关于以和平手段终结独裁的书刊，以及在维权人士聚会场合传播上述理念。该案于上月第一次开庭审理时，由于法庭多处违法，三名被告当庭解除了与律师的委托关系，庭审被迫中止。</p>
+<p>（特约记者：扬帆／ 责编：胡汉强/吴晶）</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90%E6%A1%88%E7%BB%AD%E5%BC%80%E5%AE%A1%E5%90%84%E7%95%8C%E5%85%B3%E6%B3%A8-%E9%A6%99%E6%B8%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B8%85%E8%90%A5/?category=18271" rel="tag">王清营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E6%96%B0%E4%BA%AD/?category=18271" rel="tag">袁新亭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C/?category=18271" rel="tag">非暴力不合作</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%A2%A6/" target="cdt-mirror">【立此存照】爱国青年的谷歌梦</a>
 </h2>
 <p><p>近日所谓“爱国青年被打”事件主角侯聚森，曾<a href="http://www.weibo.com/p/230418146f0c5830102vkm1">公开承认</a>“侧卫36”是他的通用网名。</p>
@@ -768,31 +794,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E5%AE%9E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%94%BF%E8%A7%81-%E6%94%BF%E6%B2%BB%E6%95%99%E7%A7%91%E4%B9%A6%E6%9C%89%E6%95%88%E5%A1%91%E9%80%A0%E4%BA%86%E5%AD%A6%E7%94%9F%E7%9A%84%E8%A7%82%E5%BF%B5/" target="cdt-mirror">政见 | 政治教科书有效塑造了学生的观念</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/xh20150717_0843-%E5%89%AF%E6%9C%AC-300x199.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/xh20150717_0843-%E5%89%AF%E6%9C%AC-300x199.jpg" alt="政治教科书" width="450" height="299"></a><p>政治教科书塑造了学生的观念</p></div>
-<p>最近，一个由慕尼黑大学、斯坦福大学、加州大学伯克利分校、香港科技大学和北京大学学者组成的研究团队发现：在中国， 政治教科书通过对一些十分重要观念的解读（包括中国的政治制度、经济系统、思想体系等等），有效地塑造了学生对于中国政治社会的态度和看法。</p>
-<p>为了探究教科书与政治观念之间的因果关系，这个研究团队选择利用最近十年在中国教育系统中展开的课程改革作为切入点。在中国的教育体系中，各省高考所考核的内容、所使用的教科书不尽相同。在同样一套课程标准之下，每个省的教育主管部门都可以根据自己地方的情况，选择其省内学生使用的教材。然而，自2001年起，由教育部主导的第八次全国课程改革在政治（意识形态）教育上做出了很多新的改变，新的课程标准（以下简称“课标”）引入了更多对于中国基层政治制度的介绍，对于国家经济制度和少数民族制度的教学内容也进行了全新的编写。在这一份新课标的指导下，各省相继更换了根据新课标编写的政治教材。</p>
-<p>为了观察这场政治（意识形态）教育的改革对学生政治态度的变化，研究团队在北京大学展开了一次线上调查，向近2000名北京大学的本科生询问他们对政治、经济、民族、环境等诸多议题的态度的态度。</p>
-<p>他们发现，在政治参与和民主制度方面，由于新课标涵盖了更多对中国基层政治制度的介绍，特别是对选举相对细致的描述和解释，因此，使用新课标的学生会更加关心中国的选举制度。他们也会更加倾向于认为：普通人有权决定谁来担任基层管理者——村长。</p>
-<p>另一方面，也正是因为新课标教课书将更多的笔墨用于介绍中国的基层政治制度，接受这套课程标准的学生更倾向认为中国正在变得更民主。</p>
-<p>在政府信任方面，新的课程体系中出现了一个题为“中国政府的权威来自哪里”的全新单元。这一改动使得学生对政府信任的态度发生了改变。新课标教学体系的学生变得更加信任各级政府、法院和公安。</p>
-<p>另外，新课标在思想政治部分还加入了江泽民提出的“三个代表”思想。研究者们发现，学生在学习了带有“三个代表”思想的教科书后，更愿意相信不仅仅是中共党员和政府官员，其他“非体制内人士”也有权对政府政策产生影响，这一变化正反映了”三个代表“思想中表达对非公经济人士的吸纳。</p>
-<p>新课标在政治态度的“改造”不可谓不成功。然而在经济知识方面，由于删除了原来对市场经济的阐释，新课标的学生表达了对市场经济更多的质疑。</p>
-<p>另外，在民族事务的议题上，新课标加强了对“少数民族和汉族之间同属于中华民族”这一观点的诠释。这一变化给汉族和少数民族学生带来了不同的影响。汉族的学生变得更愿意接受少数民族和汉族的通婚。对少数民族学生来说，虽然使用新课标教课的学生与使用旧教材的学生对于通婚的问题并没有变化，但是前者较之后者更加认同“自己是中国人”这一观念。</p>
-<p>研究者们也对新课标中增加的环境问题模块进行了检验。他们发现，学生虽然使用了新教材，接受了更多对环境问题的宣传教育，但他们并没有比过去的学生更加重视环境问题。</p>
-<p>对于这项研究，一个比较有代表性的质疑是：可能并不是教材的变化，而是老师教学方式的变化造成了所谓教材改革效应的“假象”。不过，研究者们发现，新课标并没有对既有的教学方式以及对高考的重视程度发生任何实质的变化。同时， 研究者们也运用了调整标准误、缩小样本、检验自然实验之前的趋势（pre-trend）以及随机模拟等方式来论证他们的观点是稳健的。</p>
-<p>这个设计精巧且议题丰富的研究并不是十全十美。其样本仅仅选择了北京大学本科生。他们也许在高中时代更加热衷于学习，比其他成绩平平的学生花了更多地时间在背诵记忆政治教科书的内容，所以教科书的新内容才对这群优等生有显著的影响。</p>
-<p>参考文献</p>
-<blockquote><p>Cantoni, D., Chen, Y., Yang, D. Y., Yuchtman, N., & Zhang, Y. J. (2014).Curriculum and Ideology (No. w20112). National Bureau of Economic Research.</p></blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%94%BF%E8%A7%81-%E6%94%BF%E6%B2%BB%E6%95%99%E7%A7%91%E4%B9%A6%E6%9C%89%E6%95%88%E5%A1%91%E9%80%A0%E4%BA%86%E5%AD%A6%E7%94%9F%E7%9A%84%E8%A7%82%E5%BF%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E7%A7%91%E4%B9%A6/?category=18271" rel="tag">政治教科书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -804,7 +805,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kgvctyluk389.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -814,5 +815,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/></td>    </tr>
 </table>

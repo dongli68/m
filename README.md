@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsi2a3cimrkwf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96%E5%86%92%E9%BB%91%E7%83%9F%E5%90%8E%E7%BB%AD%EF%BC%9A%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5%E5%90%A6%E8%AE%A4%E6%9B%BE%E5%8F%91%E7%94%9F%E7%AA%81%E7%84%B6/" target="cdt-mirror">彭州石化冒黑烟后续：成都供电否认曾发生“突然停电100毫秒”</a>
+</h2>
+<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/">【网络民议】这不叫污染啥子叫污染</a></p></blockquote>
+<p>中国北京时间7月24日，国家电网成都供电发表声明，否认7月22日当天该地电网发生过彭州石化所称的“突然停电100毫秒”现象。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5.png" alt="成都供电" width="600" height="304"></a></p>
+<blockquote><p>关于“四川彭州石化基地冒黑烟”事件的声明</p>
+<p>7月22日下午至23日，位于成都彭州的四川彭州石化基地冒出浓浓黑烟的图片在微信中广泛传播。23日19时27分，四川彭州石化基地官方微博称：22日16时18分，四川省电网供四川石化的220千伏电力系统突然停电100毫秒导致黑烟现象。对此，成都供电公司在此发出声明：四川彭州石化基地由其自建的220千伏石化站（该站产权归石化基地所属）供电，由220千伏桥石线和220千伏回石线双电源供电，根据成都电网调度运行数据显示，7月22日全天，上述两条供电线路均没有发生四川彭州石化基地官方微博所谓的“突然停电100毫秒”现象。</p>
+<p>特此声明。<br>
+成都供电公司<br>
+2015年7月24日凌晨0时40分</p></blockquote>
+<p><strong>事件回顾：</strong></p>
+<p>7月22日，有民众拍到彭州石化烟囱冒出浓浓黑烟：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/7133f35djw1eucoa4wr24j20hs0hsjt1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/7133f35djw1eucoa4wr24j20hs0hsjt1.jpg" alt="7133f35djw1eucoa4wr24j20hs0hsjt1" width="440" height="440"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/6d8c4e55jw1eucr4y5bj9j20hs0ns77s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/6d8c4e55jw1eucr4y5bj9j20hs0ns77s.jpg" alt="6d8c4e55jw1eucr4y5bj9j20hs0ns77s" width="440" height="589"></a></p>
+<p>官方随后发表声明，称是由于四川供电系统突然停电100毫秒造成：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96.jpg" alt="彭州石化" width="440" height="1066"></a></p>
+<p>成都市环境监测中心后<a href="http://news.sina.com.cn/c/2015-07-23/225732140957.shtml">发表监测结果</a>，称冒黑烟期间未对环境造成污染：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/U6074P1T1D32140957F21DT20150723225736.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/U6074P1T1D32140957F21DT20150723225736.jpg" alt="U6074P1T1D32140957F21DT20150723225736" width="400" height="473"></a></p>
+<p> </p>
+<p>@平安成都 随后要求广大市民“不信谣，不传谣”：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/49014048jw1eudmmahve5j20ku112wps.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/49014048jw1eudmmahve5j20ku112wps.jpg" alt="49014048jw1eudmmahve5j20ku112wps" width="400" height="711"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96%E5%86%92%E9%BB%91%E7%83%9F%E5%90%8E%E7%BB%AD%EF%BC%9A%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5%E5%90%A6%E8%AE%A4%E6%9B%BE%E5%8F%91%E7%94%9F%E7%AA%81%E7%84%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">px事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96/?category=18271" rel="tag">彭州石化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BDpx/?category=18271" rel="tag">成都PX</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%88%98%E4%BA%89%E6%8C%87%E5%AF%BC%E8%89%BA%E6%9C%AF%E7%9A%84%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BD%A0/" target="cdt-mirror">【异闻观止】战争指导艺术最高境界就是“你打你的、我打我的”</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/01/20130615024247225.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/01/20130615024247225.jpg" alt="鸡血疗法" width="364" height="442"></a><br><em>（网络图片）</em></p>
@@ -719,42 +745,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313/" target="cdt-mirror">博谈网｜《朝日新闻》社论：习打压人权律师损害13亿中国人</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150718215643_f_976x549_ap.jpg" alt="150718215643_f_976x549_ap" width="550" height="309"></a></p>
-<p>（博谈网记者赵亮编译报道）日本《朝日新闻》英文网7月19日发表社论，题为“习打压人权律师损害13亿中国人”。以下为该社论的译文：</p>
-<p>现在7月10日被关注中国人权的人们称作“黑色星期五”。就在那一天，警方在中国不同地区大规模镇压从事人权工作的人，拘捕人权律师和活动人士。</p>
-<p>在随后的日子里，中国当局继续围捕，至今有200多人遭审问。这是一个不容忽视的出格之举。</p>
-<p>主要打击对象是北京锋锐律师事务所。与锋锐有关联的人士仍被关押。</p>
-<p>那些在其他地区（如湖南、上海和河南省）被抓捕的人被怀疑与锋锐有关。</p>
-<p>这些民权律师在各式案件中一直在为普通访民的权利辩护，包括被强制拆迁的人。</p>
-<p>这些律师对于改善中国的人权状况发挥了重要作用，对这些律师和活动人士的如此攻击可能严重损害整个中国公众的权益。</p>
-<p>北京使用由国家控制的媒体来妖魔化锋锐律师事务所，把它描绘成“已扰乱社会秩序的犯罪组织”。该指控指的是锋锐用互联网来吸引公众关注警方与当地居民之间侵犯公民权利的纠纷案。</p>
-<p>依照中国政府的逻辑，所有反对当局所为的抗议均够格被当作“反政府”的活动。</p>
-<p>今年5月，众所周知的人权律师浦志强被（当局）正式起诉。两个月后，当局推出了本次针对人权律师的最新举措。</p>
-<p>根据一些报道，去年在中国有近1000名人权活动人士被拘捕。</p>
-<p>习近平主席的政府一直在中国以前所未有的程度打压保护人权的人们。</p>
-<p>自从中国开始实行经济改革和对外部世界打开大门以来，两大主要力量一直在为主导权而交战。</p>
-<p>一个是在生活和教育水平不断提升情况下新出现的公民力量。虽然他们肯定有着保守的一面，但是中国的国民已越来越意识到他们的生活与权利息息相关，以及他们已经具备了采取行动的能力。</p>
-<p>与公民力量对垒的是中共用来压制异议之声的政治权力，目的是保护其一党统治。习近平政府一直在积极主张这种政治权力。</p>
-<p>中国2004年的宪法修正案增加了一项条款：“国家尊重和保障人权”。该宪法还保障言论、集会和结社自由。</p>
-<p>但是（在中国）没有制度来确保这些宪法规定得以执行。其结果是，它们实际上是死条款。</p>
-<p>与此同时，新的《国家安全法》7月1日开始实施，该法律可能只会加强政府以国家安全为借口更加限制国民的权利。7月初，联合国高级人权专员Zeid Ra‘ad Al-Hussein对这项新的法律潜在的人权问题表达了关注。</p>
-<p>去年秋天在中共的一个重要会议上，习近平政府承诺要在法治基础上全心全意推动国家的治理。</p>
-<p>然而，如果说当前正在中国发生的事提供任何迹象的话，那么，该法律实际上是用来打压国民的一根棍子，而非保护他们的盾牌。</p>
-<p>我们深度关切13亿中国人民在未来仍被困在远没有法治、悲惨的人权状况之中。</p>
-<p>原文<a href="http://ajw.asahi.com/article/views/editorial/AJ201507200026">EDITORIAL：1.3 billion Chinese lose in Xi’s crackdown on human rights lawyers</a></p>
-<p>编译: 赵亮</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -766,7 +756,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d120g5ieg5mk6k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsi2a3cimrkwf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -776,5 +766,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/></td>    </tr>
 </table>

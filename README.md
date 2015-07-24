@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgs00pbm9u9t8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E8%83%A1%E5%B9%B3%EF%BC%9A%E4%BB%8E%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%9A%84%E6%81%B6%E6%80%A7%E4%BA%89%E6%96%97%E8%B0%88%E8%B5%B7/" target="cdt-mirror">华夏文摘｜胡平：从网络上的恶性争斗谈起</a>
+</h2>
+<p><p>在中国，互联网承担了在别的国家不会承担的任务。今日中国，风起云涌的异议运动、维权运动、民间反腐败运动，离开了互联网几乎是不可想象的。无怪乎中国的网民要说：互联网是上天赐给中国人民最好的礼物。</p>
+<p>脸书推动了埃及革命，让很多中国人好生羡慕并自愧不如。其实那未必是中国的国民不行。想想看，如果八九民运时中国就有今天这样普及的互联网，共产党专政还能过得了那一关吗？</p>
+<p>互联网的好处多多，自不待言；但网络造成的弊端也是明显的，尤其是在互动性强的公共论坛、社交媒体和邮件群发组，你经常可以看到党同伐异、斗气逞强、冷嘲热讽、粗言恶语、人身攻击，外带起哄架秧子。有些志同道合的群体或组织为了加强内部的沟通与合作，设立了自己的论坛或邮件群发组，殊不知在这种内部人的论坛或群发组里，更容易产生互相攻击谩骂乃至人格侮辱。有不少人，包括一些比较出名的人，就是因为反感网上这种粗野低俗的气氛，退出了网络，甚至退出了那个群体或组织。</p>
+<p>目睹这样的状况，很多人大发感慨，感慨中国人的素质低下，悲观地说：“看来，中国人离民主还很遥远。”其实，这和中国人的素质高低倒没有什么关系。在西方人那里，上述情况也不少见。去年，《纽约时报》前执行主编比尔·凯勒（Bill Keller）发表了一篇文章，题目就叫“社交媒体是否放大了我们的恶毒”。</p>
+<p>凯勒写道，他在时报网站上自己的专栏文章下面看到一些读者的评论，随手回复了几条，但除去偶尔带来了非常生动、并具启发性的辩论，大部分交流充斥着尖酸刻薄的话语和口号。但比起时报网站，推特（Twitter）上的交流明显更为恶毒且肤浅。这就像是一个相对客气有礼的城镇会议，和一个大家可以随便上台表演的末流喜剧俱乐部开放之夜的区别。</p>
+<p>凯勒指出，社交媒体比一般的网站更容易成为垃圾场，因为社交媒体更不适于长篇大论，不适于深度地讨论问题；另外，社交媒体又缺少过滤功能，因而使得粗言恶语泛滥成灾。凯勒认为，社交网络鼓励党同伐异。在这里，一个人很容易会对挑战自己偏见的观点嗤之以鼻，而无人质疑的偏见又很容易简化成标语口号。网络鼓励人们快速地发表自己的评论，而一旦你对外界发表了自己的看法，你就很不乐意改变和纠正。很多人上网，唯恐没多少人听到，所以就大喊大叫，语不惊人死不休；或者是蓄意挑起事端，引发争斗。再有，很多网络允许匿名，这就为恶意的、不负责任的言论大开方便之门，如此等等。</p>
+<p>互联网引出的这些弊端，早在问世之初就发现了。上个世纪末，美国学者帕翠西?华莱士（Patricia Wallace）写过一本书《互联网心理学》，其中有一章专门讲到“怒火与争斗－－网上攻击心理学”。如果说人的天性中就有好斗性或攻击性，那么，互联网这种特殊的方式则放大了这些特性。</p>
+<p>对互联网的一些早期研究表明，发生在网上的谩骂、咒骂、侮辱等要比面对面的争斗更多更激烈。人们在网上常常表现得要比在实际生活中更好斗更有攻击性。作者提醒我们，心理学研究证实，我们所处的环境是能够影响我们的行为方式的。一定的交往方式，影响着交往的质量，并影响着交往者的心态乃至性情。绝大多数人在某种特殊的氛围中，会做出与自己性格不符的事情。</p>
+<p>互联网创造出一种虚拟空间，它使得在实体空间相隔的人们可以即时地交流，好像大家坐在一起交谈。但是，虚拟空间毕竟不是实体空间。</p>
+<p>在互联网上，我们不是用嘴说话，而是用手敲键盘。且不说有时网速慢，让人不耐烦，单单是打字比说话费力气，我们为了省事，懒得多打字，于是在网上的发言常常是直来直去，缺少客套，这就显得生硬。如果你嫌麻烦不回复了或者只用几个字打发，那又显得很傲慢。</p>
+<p>更重要的区别是，在网上，我们彼此是看不见的。这就和在实体空间里大家当面交流很不一样。俗话说，见面三分情。大家聚在一起交流，不论是讨论严肃的议题，还是聊闲天，那多多少少都会营造出一种友好的气氛。即使参与者互不相识，但是彼此都可以看到对方的脸，而一般人总是要脸的；这就是说，当着众人的面，一个人总会有所顾忌、有所约束。再有，人的脸色或曰表情，一个微笑或点头，一个皱眉或撇嘴，往往能比语言更迅速地显示出人的好恶倾向。它们会对一种观点、一种态度或口气形成某种影响，或鼓励或抑制，从而使得一定的言说格调和氛围得以维系－－而这些恰恰是虚拟空间的网络所缺乏的。</p>
+<p>既然一定的交往方式会影响着交往的质量，并影响着交往者的心态乃至性情，那么，为了达到较好的交往质量和保持较好心态或性情，我们就需要建立较适当的交往方式。这层道理其实一般人早明白。譬如在饭局上谈生意解决纠纷；譬如在会议上安排主持人，确定规则程序，以免众声喧哗，乱吵一气，不欢而散。特别是打官司，有的原告和被告是冤家对头，势不两立，你很难指望他们彼此能理性对话，因此就让律师出面代理，双方的律师也不是面对面争辩，而是各自面向法官或陪审团说话。如此等等。</p>
+<p>因为网络能够克服空间的距离，这是虚拟空间胜过实体空间的地方。因为网络能够即时互动，鼓励更多更平等的参与，这是互联网胜过传统媒体的地方。但是网络世界也有它的短处。其弊害之一就是，它容易使我们变得烦躁、好斗，容易造成无谓的敌意和争斗。</p>
+<p>正像华莱士所说：“若想降低网上的敌对气氛并远离纷争，重要的是确定引起争斗的原因。”如果我们意识到网络上这些敌意与争斗的发生，其实是和网络这种特定的交往方式有关；如果我们意识到一般人（包括我们自己）在实际生活中其实要比在网络上更好处一些，那么，我们或许就会对网上的恶性争斗看得更淡一些，同时也会提醒自己在网上表现得更好一些。另外，还可以考虑设立一些可行的规则，以便使网上的气氛更健康一些。</p>
+<hr><p><small>© 亚克蜥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E8%83%A1%E5%B9%B3%EF%BC%9A%E4%BB%8E%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%9A%84%E6%81%B6%E6%80%A7%E4%BA%89%E6%96%97%E8%B0%88%E8%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA/?category=18271" rel="tag">网络舆论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90%E6%A1%88%E7%BB%AD%E5%BC%80%E5%AE%A1%E5%90%84%E7%95%8C%E5%85%B3%E6%B3%A8-%E9%A6%99%E6%B8%AF/" target="cdt-mirror">自由亚洲｜“广州三君子”案续开审各界关注 香港支联会发起“伞聚”声援</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5db03df7-5fec-48dc-b0db-d0837ffacdca.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5db03df7-5fec-48dc-b0db-d0837ffacdca.jpeg" alt="“广州三君子”案续审 法院外警方戒备严密（维权人士独家提供）" width="575" height=""></a><p>“广州三君子”案续审 法院外警方戒备严密（维权人士独家提供）</p></div>
@@ -48,7 +72,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B8%85%E8%90%A5/?category=18271" rel="tag">王清营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E6%96%B0%E4%BA%AD/?category=18271" rel="tag">袁新亭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C/?category=18271" rel="tag">非暴力不合作</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%A2%A6/" target="cdt-mirror">【立此存照】爱国青年的谷歌梦</a>
 </h2>
@@ -772,28 +796,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A3%80%E6%9F%A5%E7%82%B9%E6%9C%AA%E5%81%9C%E8%BD%A6-%E6%96%B0%E7%96%86%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9E%AA%E5%87%BB%E6%AD%BB/" target="cdt-mirror">自由亚洲 | 检查点未停车 新疆女教师被警察枪击死亡</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/image1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/image1.jpg" alt="2014年7月18日，新疆教师李文洁在温宿县一临时检查站疑因未有停车被击毙。" width="300" height="229"></a><p>2014年7月18日，新疆教师李文洁在温宿县一临时检查站疑因未有停车被击毙。</p></div>
-<p>新疆阿克苏地区一名女教师，在去年7月疑因未有在治安检查点停车，被警察开枪击中头部当场死亡。当局其后将事件定性为“枪击意外致人死亡”，死者丈夫称，当局作出的调查结论与事实严重不符，家属会追究到底，还原事实真相。(潘加晴/何山报道)</p>
-<p>死者丈夫张振海近日在微博发帖称，2014年7月18日下午4时许，新疆阿克苏地区职业技术学院艺术系女教师李文洁，驾车带著8岁的女儿到温宿县辖区参加钢琴大赛，途经阿温大道大欣国际汽车城前300米温宿县公安局设立的治安检查点，以时速40公哩的速度，在未受到任何阻拦、并已经正常经过治安检查点的情况下，从车辆后部开枪击中头部前额致死，子弹从后排女儿额头擦过，差一点就一枪两命。</p>
-<p>张振海说，当时负责李文洁后事处理的温宿县检察院领导拍著胸脯对他们家属说：“我以温宿县检察院领导的身份向你们家属保证，一定会还原事实真相，妥善处理李文洁死亡一事，请家属相信我，请家属放心”。</p>
-<p>但当局其后将事件定性为“枪击意外致人死亡”，并对家属提出还原事实真相的诉求，相互推诿。</p>
-<p>张振海周二(21日)晚接受本台访问时表示，从事发到现在已经过了一年，家属提出的还原事实真相诉求，迟迟不予解决。开枪的警察没有说个一句道歉说话，公安局也没有一个人站出来对此事说明处理。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/af0fb035-ec77-4b75-8bdb-6bd198ea1195.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/af0fb035-ec77-4b75-8bdb-6bd198ea1195.jpeg" alt="温宿县检察院向家属发出鉴定意见通知书，将事件定性为“枪击意外致人死亡”。(张振海微博)" width="230" height="294"></a><p>温宿县检察院向家属发出鉴定意见通知书，将事件定性为“枪击意外致人死亡”。(张振海微博)</p></div>
-<p>他指出，事发地点是加气站和路口，又是上班高峰期，有监控设备，事实非常清楚，加上事发地点是临时检查站，当时又没有设立明显的标示牌，不可能是意外致死，或工伤。</p>
-<p>他说：只能以工伤(申请赔偿)，哪可能是工伤？这个是枪击事件，不可能是工伤，她是参加活动的工伤？(记者﹕如果是工伤，他们就没有责任？) 对的。工伤的说法，我们肯定不同意。</p>
-<p>本台曾致电温宿县公安局，但电话一直无人接听。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A3%80%E6%9F%A5%E7%82%B9%E6%9C%AA%E5%81%9C%E8%BD%A6-%E6%96%B0%E7%96%86%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9E%AA%E5%87%BB%E6%AD%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E5%AE%9E%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">事实真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%9E%AA/?category=18271" rel="tag">开枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">枪击事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%85%8B%E8%8B%8F/?category=18271" rel="tag">阿克苏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -805,7 +807,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E5%AE%9E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgs00pbm9u9t8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -815,5 +817,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E5%AE%9E
                 <td></td>
                 
         
-        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
 </table>

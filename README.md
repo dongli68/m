@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsi2a3cimrkwf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d120g5ieg5mk6k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,63 @@
                 <td></td>
                 
         
-        <td><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%A2%A6/" target="cdt-mirror">【立此存照】爱国青年的谷歌梦</a>
+</h2>
+<p><p>近日所谓“爱国青年被打”事件主角侯聚森，曾<a href="http://www.weibo.com/p/230418146f0c5830102vkm1">公开承认</a>“侧卫36”是他的通用网名。</p>
+<p>这位曾参加过山东省共青团网络宣传引导工作专题培训班、在围殴事件后受到共青团及官媒力挺的“爱国青年”，在百度贴吧活跃时除了似乎<a href="http://chinadigitaltimes.net/chinese/2015/07/%E7%89%B9%E5%88%AB%E8%B0%83%E6%9F%A5%E5%91%98%EF%BC%9A%E5%90%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E5%AD%A6%E4%B9%A0/">有问候别人母亲的习惯</a>外，还对谷歌的Nexus系列手机及其原生自带应用表现出了执着的爱。“爱国青年”就此被硬生生地逼上了翻墙的邪路。</p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A722%E5%A8%81%E6%B5%B7%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%89%93%E4%B8%80%E4%BA%8B%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E6%98%AF/">钢铁侠：722威海爱国青年被打一事，我想说的是…</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E7%89%B9%E5%88%AB%E8%B0%83%E6%9F%A5%E5%91%98%EF%BC%9A%E5%90%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E5%AD%A6%E4%B9%A0/">特别调查员：向爱国青年侯聚森学习</a></li>
+</ul></blockquote>
+<p><strong>“fqrouter2既可”</strong></p>
+<p><a href="http://tieba.baidu.com/p/3652237954?pid=66002675916&cid=0&from=prin#66002675916">LG吧</a>：2015年3月22日，购买了港版LG手机的楼主求助如何才能使用谷歌自带软件。</p>
+<p><a href="http://www.baidu.com/p/%E4%BE%A7%E5%8D%AB36">侧卫36</a> 不但知道fqrouter这个翻墙路由器，而且还了解只要直接下载原始apk，不用root就可使用：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-24-at-1.58.10-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-24-at-1.58.10-AM.png" alt="fqrouter2" width="575" height="348"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-24-at-2.06.53-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-24-at-2.06.53-AM.png" alt="fqrouter2" width="400" height="683"></a></p>
+<p><strong>“谁让你不在play更新” “进不去翻墙”</strong></p>
+<p><a href="http://tieba.baidu.com/p/3680969361?pid=66560035205&cid=66560240918&from=prin#66560240918">Nexus4吧</a>：2015年4月5日，楼主询问为何Google Play商店打开是白屏，无法使用Google自带app。</p>
+<p><a href="http://www.baidu.com/p/%E4%BE%A7%E5%8D%AB36">侧卫36</a> 如此回答：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-24-at-2.00.11-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-24-at-2.00.11-AM.png" alt="Screen Shot 2015-07-24 at 2.00.11 AM" width="575" height=""></a></p>
+<p><strong>“死活登不上谷歌”</strong></p>
+<p><a href="http://tieba.baidu.com/p/3683912447?pid=66627781701&cid=0&from=prin#66627781701">Google吧</a>：2015年4月6日，有人询问为何突然无法连接Google服务器。</p>
+<p><a href="http://www.baidu.com/p/%E4%BE%A7%E5%8D%AB36">侧卫36</a> 同学很显然也有此困扰：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-24-at-2.00.26-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-24-at-2.00.26-AM.png" alt="Screen Shot 2015-07-24 at 2.00.26 AM" width="575" height=""></a></p>
+<p><strong>“我的Nexus4也是如此，估计不是个别现象”</strong></p>
+<p><a href="http://tieba.baidu.com/p/3683794673?pid=66627811182&cid=0&from=prin#66627811182">Google吧</a>：2015年4月6日，有吧友询问为何在重新安装谷歌全套应用和翻墙路由器后，出现了无法登陆谷歌账户的现象。</p>
+<p>同样有此困扰的<a href="http://www.baidu.com/p/%E4%BE%A7%E5%8D%AB36">侧卫36 </a>认为这可能并非个别现象：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%99%A8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%99%A8.png" alt="谷歌服务器" width="575" height=""></a></p>
+<p>再来回顾一下用上Nexus 5的侧位36，被打后是如何在微博反击那些“推墙推的走火入魔”的“low货”的：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%8E%A8%E5%A2%99.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%8E%A8%E5%A2%99.jpg" alt="推墙" width="500" height="534"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%A2%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=18271" rel="tag">Google</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 23分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%9B%E8%99%BD%E5%BC%BA%E4%BD%86%E5%A3%B0%E8%AA%89%E4%B8%8D%E5%BD%B0/" target="cdt-mirror">网易数读 | 中国国力虽强但声誉不彰</a>
+</h2>
+<p><p>中国的国力日渐强大，但在国际上的声誉并不与国力相匹配。近日，调查机构声誉研究所发布了2005年全球55个主要国家的声誉排行榜，中国排名第46位，排在榜单的倒数第十位。该调查综合了16项指标，参与人数超过48,000人。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/20150724032102c40a4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/20150724032102c40a4.jpg" alt="20150724032102c40a4" width="550" height="584"></a></p>
+<p>该报告显示，加拿大是55个国家中声誉最高的，78.1分。亚洲国家中，日本名列前茅，排在第16位。美国第22位。中国以42.5分排名第46，也就是倒数第十，与“中国人民的老朋友”俄罗斯相去不远，后者位列殿军，倒数的。</p>
+<p>该报告表明，国力强大并不代表声誉就高。在GPD、出口、外国直接投资、旅游等国力指标方面，中国名列世界前茅，但国际声誉却只有46名。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/2015072403272307525.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/2015072403272307525.jpg" alt="2015072403272307525" width="550" height="545"></a></p>
+<p><strong>世界人民依然认可美国当领导</strong></p>
+<p>著名调查机构盖洛普日前发布了《世界领导者评分》，就美国、德国、欧盟、中国和俄罗斯五个国家和地区的全球领导力进行评定，结果显示，美国依然是评分最高的国家，受调查的世界人民认为，美国更适合作为全球领导人，这是美国连续第三年排名第一。其次是德国、欧盟、中国和俄罗斯。值得一提的是，俄罗斯是这五个全球势力中唯一一个否定率高于支持率的国家。</p>
+<p>来源：网易数读</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%9B%E8%99%BD%E5%BC%BA%E4%BD%86%E5%A3%B0%E8%AA%89%E4%B8%8D%E5%BD%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E5%91%8A/?category=18271" rel="tag">报告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%92%E8%A1%8C%E6%A6%9C/?category=18271" rel="tag">排行榜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E6%9F%A5/?category=18271" rel="tag">调查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%89%B9%E5%88%AB%E8%B0%83%E6%9F%A5%E5%91%98%EF%BC%9A%E5%90%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E5%AD%A6%E4%B9%A0/" target="cdt-mirror">特别调查员：向爱国青年侯聚森学习</a>
 </h2>
 <p><p>【编者注】本文作者：新浪微博 <a href="http://www.weibo.com/3776512722/CsraN9Jf6">@特别调查员</a>。微博原文已被删除，以下内容来自凯迪转载。</p>
@@ -739,49 +793,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%8D%94%E6%9E%9Dfm%E5%85%AC%E5%91%8A%EF%BC%9A%E6%96%B0%E8%8A%82%E7%9B%AE%E5%85%88%E5%AE%A1%E5%90%8E%E5%8F%91/" target="cdt-mirror">【立存此照】荔枝FM公告：新节目先审后发</a>
-</h2>
-<p><p>荔枝FM公告：为配合国家“净网2015”行动及响应国家对文化安全、网络安全等11个领域的安全规范法律精神，荔枝FM将加强对所涉内容的播客、节目的管理和梳理清查。从即日起，所有新上传节目均会经由先审查后发布的程序，可能会造成节目发布延误，敬请主播知悉和谅解。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%8D%94%E6%9E%9D%E5%85%AC%E5%91%8A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%8D%94%E6%9E%9D%E5%85%AC%E5%91%8A.jpg" alt="荔枝公告" width="650" height="262"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%8D%94%E6%9E%9Dfm%E5%85%AC%E5%91%8A%EF%BC%9A%E6%96%B0%E8%8A%82%E7%9B%AE%E5%85%88%E5%AE%A1%E5%90%8E%E5%8F%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%88%E5%AE%A1%E5%90%8E%E5%8F%91/?category=18271" rel="tag">先审后发</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95/" target="cdt-mirror">【真理部】房地产税立法</a>
-</h2>
-<p><p>查删《房地产税立法初稿基本成形》一文，不要炒作相关话题。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<p>附：房地产税立法初稿已成形 税率或由地方自决</p>
-<p>2015-07-14 来源： 经济参考报</p>
-<p> 房地产税立法初稿已成形 税率或由地方自决</p>
-<p>　　房地产税改革路径日渐明晰。《经济参考报》记者获悉，房地产税立法初稿已基本成形，正在内部征求意见并不断完善中。据悉，房地产税主体税种或由房产税、城镇土地使用税合并，具体税率可能将由地方在中央确定的税率区间内自行决定。</p>
-<p>　　财政部部长楼继伟日前在向十二届全国人大常委会第十五次会议作2014年中央决算报告时表示，今年将配合做好房地产税立法工作，加快房地产税立法并适时推进改革。</p>
-<p>　　据悉，房地产建设环节涉及耕地占用税、契税、城镇土地使用税、建筑安装营业税及附征城建税、教育费附加、企业所得税和印花税;交易环节，卖方销售需缴纳销售不动产营业税及附征的城建税和教育费附加、土地增值税、企业所得税或个人所得税。目前，个人买卖房屋暂时免征土地增值税和印花税。</p>
-<p>　　有业内人士指出，现行房地产税费内容繁复。对于调控而言，以交易环节调整税收为重，短期内能产生一定效果。但从建立长效机制来看，税收政策调整频繁，出台较为仓促，应急色彩浓厚，缺乏顶层设计。此外，还存在制度建设滞后、保有环节改革进展缓慢等问题。</p>
-<p>　　“现阶段保有环节几乎没有税收，历次调控均以交易环节税收为主，促进住房资源合理配置效果不够明显。” 上述业内人士表示，除保有环节税收外，现阶段交易环节税收重在调节卖方。在供求关系紧张的市场环境下，卖方承担的税负基本转嫁至买方，增加了中低收入人群和自住等合理需求的购房负担，偏离了调控方向。</p>
-<p>　　以2013年房地产相关税收为例，直接来源于房地产的税收收入约为2.56万亿元，占全国税收收入比重约为23.1%，占全国财政收入比重约为19.8%。其中，建设环节收入在房地产税收收入中占35.6%，交易环节收入占54.9%，保有环节税收仅占9.5%。</p>
-<p>　　上述业内人士表示，根据房地产税立法改革总体思路，拟在房地产相关税费负担总体不变的前提下，适当提高保有环节税负，降低建设、交易环节税费负担。</p>
-<p>　　中国政法大学财税法研究中心主任施正文在接受《经济参考报》记者采访时表示，房地产税立法初稿已基本成形，现阶段应在全国人大、财政部内部征求意见，进行完善，还没有到向专家等社会各界征求意见的阶段。</p>
-<p>　　“但房地产税改革路径的大框架已基本成形。”施正文说，主要是把现有的房产税和城镇土地使用税合并成为新的房地产税，增加房地产保有环节的税负，以房地产的评估值为征税基础。土地增值税、契税等税种暂不纳入房地产税，随着房地产税征收步入正轨，未来会再进行改革。</p>
-<p>　　国务院发展研究中心研究员倪红日也表示，房地产税改革要把现有的房产税和城镇土地使用税合并起来，已确定无疑。</p>
-<p>　　值得注意的是，上述业内人士认为，税改应注意合理制定对家庭基本需求的免税政策，同时对房地产企业持有的土地和正在开发项目征收房地产税，抑制囤地、闲置土地等行为。</p>
-<p>　　倪红日表示，现阶段房地产开发商要缴纳城镇土地使用税，未来房产税和城镇土地使用税合并后，房企也应作为有地无房新的房地产税纳税人。她认为，税收覆盖面和强度或比现在更为严厉，“新的房地产税计税依据发生很大变化。是根据房地产的评估值作为征税基础，而评估值是以市场价值为基础，进行专业计税评估。将按照土地面积和地理位置，实行差别税率”。</p>
-<p>　　有房地产商认为，未来房地产税若以评估价为缴税基础，将增加房企的囤地囤房成本。在房地产市场下滑的背景下，将对目前大量囤地囤房等行为产生抑制作用。</p>
-<p>　　此外，倪红日指出，立法框架建立起来之后，具体征收时，地方应有一定的自主权。“房地产税将作为地方税种，给地方一定的征税自主权。比较可能的方式是类似于煤炭资源税的征税方式，全国规定一个税率区间，各个地方在这个区间范围内根据当地的具体情况自主确定具体税率。各地的开征时间、具体征税依据、操作细节也会有细微不同。”施正文说，即便房地产税立法完成，可以开征房地产税，也不会全国范围内统一开征，各地会各自出台征收细则。</p>
-<p>　　针对将在什么时间、以何种形式开征，以及征收对象、免征范围的划定等涉及具体执行层面的问题，有业内人士称暂时还没有定论。</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -793,7 +804,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d120g5ieg5mk6k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsi2a3cimrkwf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +814,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/></td>    </tr>
 </table>

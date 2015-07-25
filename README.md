@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3j9wxaxhevs10.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%94%90%E8%8D%86%E9%99%B5%E7%AD%89%E7%85%BD%E9%A1%9B%E6%A1%88%E8%A2%AB%E5%AE%9A%E7%BD%AA%E7%9A%84%E5%8F%AF/" target="cdt-mirror">德国之声｜辩护律师：唐荆陵等煽顛案被定罪的可能极大</a>
+</h2>
+<p><p><strong>正值中国维权律师遭遇大规模打压之际，有”广州民主三剑客”之称的唐荆陵、袁朝阳、王清营被指涉嫌”煽动顛覆国家政权”案为期两天的庭审结束。唐荆陵妻子透露，审理过程中发生过激烈辩论。 </strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018527727_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018527727_30300.jpg" alt="0,,18527727_303,00" width="575" height=""></a><p>广州中院（资料图片）</p></div>
+<p>（德国之声中文网）中国维权律师唐荆陵、人权活动人士袁朝阳（笔名袁新亭）和王清营涉嫌犯”煽动颠覆国家政权罪”一案，于23日和24日两天在广州中院第十二法庭开庭审理。</p>
+<p>参加旁听的唐荆陵妻子汪艳芳向德国之声介绍，两天的审理中，发生过激烈辩论。“律师做了无罪辩护，律师们都认为检方理据不足，法院没有当庭宣判，也没有告知何时宣判。”她说：“现在家属们的心情都很沉重，明知道他们无罪，但却清楚他们很可能被定罪，实在是很绝望与无奈。”</p>
+<p>唐荆陵唐曾通过推特介绍自己称，因多次参与维护人权的工作于05年被当局吊销律师执照，现为中国公民不合作运动的首倡者和积极推动者。王清营曾在广东的一所大学任教，袁朝阳曾担任出版社编辑。三人都是《零八宪章》的首批签署者，去年5月，因涉嫌”寻衅滋事罪”被警方拘留。警方表示，涉案人员传播了例如吉恩·夏普的书籍《从独裁到民主》和《自我解放》。</p>
+<p>上个月19日，广州市中级人民法院开庭审判不久后，三名辩护律师被当庭解雇，庭审被迫中止。</p>
+<p>唐荆陵妻子说，此次庭审明显感觉比上次戒备森严。警方设置了隔离带，严格控制进入广州中院的人员。和上次一样，记者和少数西方外交人员被拦在门外。另据路透社援引现场的外交人员和目击者称，被告人的数名支持者被警方带走。汪艳芳还说，第一天庭审开始双方就法官和法庭工作人员的党员身份问题发生激烈争执，稍候有所缓和。她还说，目前三人的精神状态还不错，身体因为经过一年的拘押，多少有些影响。</p>
+<p><strong>“被定罪的可能非常非常大”</strong></p>
+<p>袁朝阳此次庭审的辩护律师文东海在第一天庭审后告诉德国之声，此次庭审在程序上有所改善，包括当事人不用带械具等。但是，文东海稍停一下后继续说，从目前国内的整体气氛来看，这样的案子不管事实如何，最后被定罪的可能非常非常大，罪名可能也不会变，”刑期的弹性会比较大，目前无法做准确的预计，但是从我们掌握的资料看，比起唐荆陵，其它两人的介入较少一些，但是我们律师认为三人是无罪的，他们只是正常地行使了公民的言论自由、监督和批评的权利，当事人也作了无罪陈诉。”</p>
+<p>获悉丈夫很可能会被定罪的消息，汪艳芳表示伤心难过，但还是她希望国家能够依法办事。</p>
+<p><strong>高压下开庭</strong></p>
+<p>6月份的第一次庭审后，律师张雪忠在网上透露：”在庭审过程中，被告人和辩护律师要求法官披露自己的政治身份，并申请中共党员回避，因为由专政集团的成员审判反对一党专政的被告人，严重违反正当程序的要求。”</p>
+<p>此案再度开庭正值中国维权律师遭遇大规模打压之际。本月以来已有超过两百名维权律师和相关人士遭到当局的拘捕、传唤或约谈。</p>
+<p>目前汪艳芳的住处外仍有人在对其进行全天的监督。6月的庭审后，再次找新律师的她经过多次碰壁，最终才找到北京的律师燕薪和广东的律师葛永喜，她透露现在的律师压力很大。</p>
+<p>文东海也已被约谈过三次。虽然谈话中没有涉及此案，但是相关部门嘱咐过他对目前维权律师的情况保持沉默，”也有个别领导交待在这个敏感时期接受这个敏感案件要注意规范言行”。</p>
+<p>文东海承认，难免会有一些担心和顾虑，但不会因此而不接此案。”在中国做律师，我们无法预测自己的言行会引起哪种势力的不满。因为不确定所以担心。”</p>
+<p>文东海还强调：”今天开庭的时候，有一部摄像机专门对着我们辩护人，没有拍检察官和法官。虽然我们无法揣测他们的目的是什么，但是可以感觉到他们的防范意识很重。实际上，我们没有那么可怕，我们所依靠的只是法律。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%94%90%E8%8D%86%E9%99%B5%E7%AD%89%E7%85%BD%E9%A1%9B%E6%A1%88%E8%A2%AB%E5%AE%9A%E7%BD%AA%E7%9A%84%E5%8F%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B8%85%E8%90%A5/?category=18271" rel="tag">王清营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0/?category=18271" rel="tag">零八宪章</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%9B%B7%E5%85%8B%E5%BE%AE%E5%8D%9A%E4%B8%BB%E9%A1%B5%E5%86%85%E5%AE%B9%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA-%E7%96%91%E5%86%8D%E9%81%AD%E5%92%8C%E8%B0%90/" target="cdt-mirror">德国人雷克微博主页内容无法显示 疑再遭新浪和谐</a>
+</h2>
+<p><p>2015年7月24日，微博红人德国人 <a href="http://www.weibo.com/leikexiaoliumang">@雷克</a> 的主页内容突然一片空白。虽然其个人简介、粉丝数、关注数、微博数量等资料尚存，但所有具体的微博内容都无从查看。雷克随后在Twitter确认了此事，但目前新浪方面尚未有任何解释。</p>
+<p>雷克以用中文自制反讽视频来针砭时政而知名。2015年3月，雷克曾因“多次发布违反‘七条底线’言论”而<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A-%E5%85%B3%E4%BA%8E%E9%9B%B7%E5%85%8B-%E8%A2%AB%E7%A6%81%E8%A8%80%E7%9A%84%E8%AF%B4%E6%98%8E/">被新浪微博禁言48小时</a>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%9B%B7%E5%85%8B.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%9B%B7%E5%85%8B.png" alt="雷克" width="575" height=""></a></p>
+<blockquote><p><a href="https://twitter.com/deguoziganwu/status/624621085493886977">@deguoziga</a>：我在微博上被和谐了。不知道是不是彻底不能玩儿了，也不知道为啥这样。我人在德国，很安全，很好。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%9B%B7%E5%85%8Btwitter.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%9B%B7%E5%85%8Btwitter.png" alt="雷克twitter" width="525" height="236"></a></p>
+<p>@雷克 微博内容举例：</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/575769adjw1euexivxqt9j20gk0mdgn6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/575769adjw1euexivxqt9j20gk0mdgn6.jpg" alt="575769adjw1euexivxqt9j20gk0mdgn6" width="525" height="709"></a><p>图片来源：新浪微博@假行僧老巩</p></div>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%9B%B7%E5%85%8B%E5%BE%AE%E5%8D%9A%E4%B8%BB%E9%A1%B5%E5%86%85%E5%AE%B9%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA-%E7%96%91%E5%86%8D%E9%81%AD%E5%92%8C%E8%B0%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E5%85%8B/?category=18271" rel="tag">雷克</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%96%AC%E6%9C%A8%EF%BC%9A%E4%BB%A4%E8%A8%88%E5%8A%83%E9%81%95%E5%8F%8D%E4%BA%86%E9%BB%A8%E5%85%A7%E6%BD%9B%E8%A6%8F%E5%89%87/" target="cdt-mirror">东网｜喬木：令計劃違反了黨內潛規則</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/bkncn-20150724000316494-0724_05411_001_01p.jpg" alt="bkncn-20150724000316494-0724_05411_001_01p" width="550" height="367"><br>
@@ -100,7 +146,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%9C%AC%E9%A1%BA/?category=18271" rel="tag">周本顺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%91%A8%E6%9C%AC%E9%A1%BA%E8%90%BD%E9%A9%AC%E5%8C%97%E4%BA%AC%E6%AC%B2%E6%93%92%E6%95%85%E7%BA%B5%EF%BC%9F/" target="cdt-mirror">法广｜周本顺落马北京欲擒故纵？</a>
 </h2>
@@ -729,58 +775,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/571%E5%B7%A5%E7%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%87%8D%E6%96%B0%E8%8E%B7%E5%BE%97%E6%8A%A4%E7%85%A7%EF%BC%8C%E8%AE%A1%E5%88%92%E8%B5%B4%E5%BE%B7%E5%9B%BD/" target="cdt-mirror">纽约时报｜艾未未重新获得护照，计划赴德国</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CKgyeMnWIAA0lvD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CKgyeMnWIAA0lvD.jpg" alt="CKgyeMnWIAA0lvD" width="599" height="337"></a></p>
-<p>香港——中国艺术家艾未未说，当局周三把他的护照还给了他。自从2011年在北京机场 被扣留 之后，当局一直禁止他出国旅行。</p>
-<p>“今天，我拿到了护照。”艾未未在 Twitter 和 Instagram 上写道的，还显示了一张他手持枣红色中国护照的照片。</p>
-<p>艾未未曾为北京被称为 “鸟巢”的体育场担任设计顾问 ，还曾在伦敦泰特现代美术馆展出他的装置艺术作品《葵花籽》( Sunflower Seeds )，2011年他打算从北京飞往香港时，在北京机场被扣留。他被关押、审讯了 81天 ，后被当局指控逃税。法院做出对他不利的裁决，判处他的工作室缴纳欠税及罚款共计1522万元人民币（当时约合240万美元）。</p>
-<p>艾未未表示，逃税案是对他政治活动的报复，包括针对他纪念在2008年四川大地震中、因教室倒塌而死亡的成千上万名学生的活动。</p>
-<p>他在周三表示，当局对为什么发给他护照未做任何解释。“我只能说，为什么不给呢？他们在过去四年中已经答应还回护照。现在，他们终于把护照还给我了，”他在接受电话采访时说。“他们过去总是说仍在处理之中，让我耐心等待。”</p>
-<p>护照被没收意味着艾未未不得不远程安排他在国外的展览，包括在华盛顿史密森学会的赫什霍恩博物馆暨雕塑园( Hirshhorn Museum and Sculpture Garden )的展览，以及在旧金山湾原来的监狱恶魔岛( Alcatraz )的展览。</p>
-<p>除了无法到中国境外旅行之外，他还被禁止在国内举办个人展览。他的作品也被从去年上海举办的艺术家群体展览上拿掉。但上个月，他获许在中国举办首次个人展览，这表明对他的限制已经开始放松。</p>
-<p>现年57岁的艾未未说，他打算不久前往德国。他在柏林有一间工作室，他6岁的儿子艾老在过去一年中一直和母亲一起住在德国。艾未未说，他还计划在德国做一次体检。2009年，他曾在那里接受紧急开颅手术，之前，中国西南部城市成都的警察打过他的头部。</p>
-<p>“我将去申请签证，一拿到签证我就走，”他说。</p>
-<p>艾未未说，他期待着能在现场安排海外艺术展览。上周，伦敦皇家艺术学院( Royal Academy of Arts in London )为安装八棵艾未未重建的死树，开始了一次筹款活动。</p>
-<p>艾未未也把他没有护照的年月变成一个艺术项目，每天早上，在位于北京草场地艺术区的工作室外，他把 一束鲜花 放到锁在门外的自行车车篮中，把拍下的照片贴到网上，然后他会转贴支持者发来的鲜花图片。他指出，自从2013年开始该项目以来，周三是他 摆放鲜花的第600天 。</p>
-<p><em>王霜舟(Austin Ramzy)是《纽约时报》记者。</em></p>
-<p><em>翻译：Cindy Hao</em></p>
-<p>纽约时报中文网 国际纵览</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%87%8D%E6%96%B0%E8%8E%B7%E5%BE%97%E6%8A%A4%E7%85%A7%EF%BC%8C%E8%AE%A1%E5%88%92%E8%B5%B4%E5%BE%B7%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A722%E5%A8%81%E6%B5%B7%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%89%93%E4%B8%80%E4%BA%8B%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E6%98%AF/" target="cdt-mirror">钢铁侠：722威海爱国青年被打一事，我想说的是…</a>
-</h2>
-<p><p>喝酒刚回来，惊闻大威海出了大事件！我爱国青年在校门口被人跨省殴打！卧槽这还了得？赶紧搜搜来龙去脉：</p>
-<p>1、7月22日下午14：52，爱国青年（这四个字是<a href="http://www.weibo.com/n/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE">@共青团中央</a> 封的）<a href="http://www.weibo.com/n/%E4%BE%AF%E8%81%9A%E6%A3%AE-%E4%BE%A7%E5%8D%AB36">@侯聚森-侧卫36</a> 发了一篇挨打的微博，如下图</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubz13jmarj20v90xd0y4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubz13jmarj20v90xd0y4.jpg" alt="76716e15jw1eubz13jmarj20v90xd0y4" width="525" height="560"></a></p>
-<p>2、没想到这么个无头无脑的帖子，直接得到了<a href="http://www.weibo.com/n/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE">@共青团中央</a> 和 <a href="http://www.weibo.com/n/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%BD%91">@中国青年网</a> 等正能量官博力挺，甚至得到了团中央微博至高无上的微博置顶支持，如下图</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza459iyj20oz18g7ar.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza459iyj20oz18g7ar.jpg" alt="76716e15jw1eubza459iyj20oz18g7ar" width="500" height="890"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza5x4gfj20oz18g0zo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza5x4gfj20oz18g0zo.jpg" alt="76716e15jw1eubza5x4gfj20oz18g0zo" width="500" height="890"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza7lqgfj20oz18gn3m.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza7lqgfj20oz18gn3m.jpg" alt="76716e15jw1eubza7lqgfj20oz18gn3m" width="500" height="890"></a></p>
-<p>3、这真是把我惊到了，我不由得对身边这位爱国青年无比崇敬，于是赶紧奔至其微博瞻仰，于是看到了这些，如下图</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzfqhtcoj20oz18ggqz.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzfqhtcoj20oz18ggqz.jpg" alt="76716e15jw1eubzfqhtcoj20oz18ggqz" width="500" height="890"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzfoiow5j20oz18g445.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzfoiow5j20oz18g445.jpg" alt="76716e15jw1eubzfoiow5j20oz18g445" width="500" height="890"></a></p>
-<p>4、确认无误是我爱国青年无疑（在编），于此不难理解组织上对此案情为何如此重视，沿着组织的指引找到了当地警方官微，如下图</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzj92auej20v90lx796.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzj92auej20v90lx796.jpg" alt="76716e15jw1eubzj92auej20v90lx796" width="500" height="351"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzj7tjzzj20v90u10xd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzj7tjzzj20v90u10xd.jpg" alt="76716e15jw1eubzj7tjzzj20v90u10xd" width="500" height="480"></a></p>
-<p>5、结果却发现警方这边成了众矢之的，正能量自干五们群起而攻之，这又把我惊到了，都是正能量，相煎何太急啊，这时爱国青年又发了一篇微博，貌似也是质疑警方的，如下图</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzqjjp6uj20v90lu43j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzqjjp6uj20v90lu43j.jpg" alt="76716e15jw1eubzqjjp6uj20v90lu43j" width="500" height="349"></a></p>
-<p>6、按照爱国青年的说法，如果说第一次约架他没去，然后第二次只是“抱着好奇的心态出门看看”就被六七个人攻击，这似乎的确不能算约架，但是随即我又在网上捡到了疑似爱国青年的好友动态，如下图</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzvz12p3j20dc0nqabo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzvz12p3j20dc0nqabo.jpg" alt="76716e15jw1eubzvz12p3j20dc0nqabo" width="480" height="854"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzvxxrczj20dc0nqmyx.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubzvxxrczj20dc0nqmyx.jpg" alt="76716e15jw1eubzvxxrczj20dc0nqmyx" width="480" height="854"></a></p>
-<p>好吧，事情到这里告一段落，真相究竟如何用不着我们猜疑，相信很快水落石出，现在科技这么发达，学校门口的监控目击者自拍狂多的是，况且这还是团中央督办的大案。但是就这件事我只想对<a href="http://www.weibo.com/n/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE">@共青团中央</a> 说一点，让一名高中生，一个面临高考的孩子成为自干五，成为所谓的爱国青年，这就是你们所倡导的正能量？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0ehy4urj20v90smjvi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0ehy4urj20v90smjvi.jpg" alt="76716e15jw1euc0ehy4urj20v90smjvi" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0egjno4j20v914tjz3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0egjno4j20v914tjz3.jpg" alt="76716e15jw1euc0egjno4j20v914tjz3" width="500" height="653"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0ek53qlj20v915tahg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1euc0ek53qlj20v915tahg.jpg" alt="76716e15jw1euc0ek53qlj20v915tahg" width="500" height="669"></a></p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A722%E5%A8%81%E6%B5%B7%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%89%93%E4%B8%80%E4%BA%8B%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E6%98%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -792,7 +786,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2x0g6o87e27qg.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3j9wxaxhevs10.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -802,5 +796,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
                 <td></td>
                 
         
-        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
 </table>

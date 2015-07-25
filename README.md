@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmiyx5l158vd3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ir8jl9gpfklx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%9B%9B%E5%B7%9D%E9%9D%92%E7%A5%9E%E5%8E%BF%E5%AE%98%E5%91%98%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E4%B8%8D%E8%AE%A4%E5%B9%B2%E4%BA%B2%E5%B9%B2/" target="cdt-mirror">【异闻观止】四川青神县官员集体宣誓不认干亲干儿女</a>
@@ -464,7 +464,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E7%A8%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">px事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96/?category=18271" rel="tag">彭州石化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BDpx/?category=18271" rel="tag">成都PX</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%88%98%E4%BA%89%E6%8C%87%E5%AF%BC%E8%89%BA%E6%9C%AF%E7%9A%84%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BD%A0/" target="cdt-mirror">【异闻观止】战争指导艺术最高境界就是“你打你的、我打我的”</a>
 </h2>
@@ -700,7 +700,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ir8jl9gpfklx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d9qxotwuzj9gb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -710,5 +710,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/></td>    </tr>
 </table>

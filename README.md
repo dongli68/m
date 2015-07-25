@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%9B%9B%E5%B7%9D%E9%9D%92%E7%A5%9E%E5%8E%BF%E5%AE%98%E5%91%98%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E4%B8%8D%E8%AE%A4%E5%B9%B2%E4%BA%B2%E5%B9%B2/" target="cdt-mirror">【异闻观止】四川青神县官员集体宣誓不认干亲干儿女</a>
@@ -438,7 +438,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E/?category=18271" rel="tag">偷税漏税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9/?category=18271" rel="tag">河蟹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%99%93%E6%98%8E/?category=18271" rel="tag">艾晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E9%9D%92/?category=18271" rel="tag">艾青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">遇难学生</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96%E5%86%92%E9%BB%91%E7%83%9F%E5%90%8E%E7%BB%AD%EF%BC%9A%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5%E5%90%A6%E8%AE%A4%E6%9B%BE%E5%8F%91%E7%94%9F%E7%AA%81%E7%84%B6/" target="cdt-mirror">彭州石化冒黑烟后续：成都供电否认曾发生“突然停电100毫秒”</a>
 </h2>
@@ -700,7 +700,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d34ruqwtacj6dr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -710,5 +710,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3doptgaqtbfnt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3e575lz8o6fco.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,84 @@
                 <td></td>
                 
         
-        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%95%E5%9B%BE%EF%BD%9C%E6%9C%AC%E9%A1%BA%EF%BC%8C%E7%9F%A5%E9%81%93%E4%BD%A0%E5%BF%A0%E5%BF%83%EF%BC%8C%E6%88%91%E5%B0%86%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%90%83%E4%BD%A0/" target="cdt-mirror">仕图｜本顺，知道你忠心，我将最后一个吃你</a>
+</h2>
+<p><p><em>【编者注】作者微信公号<a href="http://mp.weixin.qq.com/s?__biz=MzA3MDM5MzIyOA==&mid=209232771&idx=1&sn=3c2bbb13db3363178b3491a4e9360e30#rd">原文</a>已因“涉嫌违反相关法律法规和政策”而无法查看。以下内容来自<a href="http://chuansong.me/n/1565333">传送门</a>。</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/image2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/image2.jpg" alt="image" width="550" height=""></a></p>
+<p>顺子：</p>
+<p>听说公司把你撤了，董事长还是决定动手了。</p>
+<p>一个人在职场上懂事，意味着他能看得清自己的处境，知道什么时候进，什么时候退。</p>
+<p>你是康总的人，大学和他同专业，后来搞矿，再后来当保全，进法务，秘书头儿就当了很多年，你的BOSS出了事，那么容易就能蒙混过关吗？</p>
+<p>当然你也做了不少的努力，请了董事长起驾到你的分公司，一起开掏心窝子的会，红红脸，出出汗。</p>
+<p>在会上确实人见了，内刊的稿子发了，但不代表今上就觉得你过关了，不要打错了主意。</p>
+<p>小聪明可以救命，但不足以保全前程，混了首长一声好，赶紧就要去医院，查出点问题来提前退休，还欣然接纳任命，赖在大区总裁任上，这就太不明智了。董事长还有一堆功臣要安插，一群队伍要锻炼，怎么可能让你在这久呆？</p>
+<p>你应该想想贵分公司是什么所在，是董事长做的地方之一，地理上，又是拱卫总部的要地，这地方交给派性中间的人都不太可能，何况你是个可疑的家伙。</p>
+<p>不立刻查你，无非是有个进度条，太多线程了毁机器，如果你觉得最后一个任务就是永远不启动，那就大错特错了，</p>
+<p>你一定觉得挺冤的吧，对啊，你跟对方不是一个量级的，伤害不到对方嘛。</p>
+<p>奥德修斯流落到独眼巨人的岛上，巨人是波塞冬的儿子。把他们堵在洞里，每天吃他的人，他给巨人酒喝，喝完了请巨人放过自己，巨人的回答是：“无人（他耍坏给自己起的花名），为了报答你的酒，我将最后一个吃你，无人。”</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%91%A8%E6%9C%AC%E9%A1%BA%E8%90%BD%E9%A9%AC%E5%8C%97%E4%BA%AC%E6%AC%B2%E6%93%92%E6%95%85%E7%BA%B5%EF%BC%9F/">法广｜周本顺落马北京欲擒故纵？</a></p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%95%E5%9B%BE%EF%BD%9C%E6%9C%AC%E9%A1%BA%EF%BC%8C%E7%9F%A5%E9%81%93%E4%BD%A0%E5%BF%A0%E5%BF%83%EF%BC%8C%E6%88%91%E5%B0%86%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%90%83%E4%BD%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%9C%AC%E9%A1%BA/?category=18271" rel="tag">周本顺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%91%A8%E6%9C%AC%E9%A1%BA%E8%90%BD%E9%A9%AC%E5%8C%97%E4%BA%AC%E6%AC%B2%E6%93%92%E6%95%85%E7%BA%B5%EF%BC%9F/" target="cdt-mirror">法广｜周本顺落马北京欲擒故纵？</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/323e66555f7992cb8cce1c8f666830719999.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/323e66555f7992cb8cce1c8f666830719999.jpg" alt="中共当局宣布河北省委书记周本顺“涉嫌违纪违法”" width="575" height=""></a><p>中共当局宣布河北省委书记周本顺“涉嫌违纪违法”</p></div>
+<p><em>作者: 安德烈</em></p>
+<p><strong>河北省委书记周本顺涉腐落马。虽然，大到周永康，令计划，小到“七品芝麻官”近年来落马官员比比皆是，但周本顺可是为习近平奠基的十八大以来第一位落马的在职省委书记。网上就有“这样的人十八大以后还能重用”的疑问？另外还有人指出，周“是最早开始对‘公民社会’开刀的中央人物。公民社会还没全垮，他先垮了。这是啥事？”还有网友对周本顺突然落马颇感蹊跷。</strong></p>
+<p>中纪委7月24日宣布，“周本顺涉嫌严重违纪违法”，正在被“调查”。周本顺落马，网上引起的反应不能同周永康令计划比，但也很有特点。一种认为周本顺是习执政后落马的在职省委书记，暗示现政权“缺乏眼力”。有个自称天下一亩三分地就感叹：“到底是什么原因，出了这么多贪官？”还有一位叫大眼小蛙的说：“人生大喜大悲的太快，我心脏受不了！”</p>
+<p>一些网友则揭出此人是“靠维稳和特色理论起家的极左党棍”。浪子海松称：“记得其著名文章‘警惕西方公民社会陷阱’，许多现场见识过其会议发言的老师连批其左，维稳大总管倒是步步高升了。”</p>
+<p>呼车让人写道：“习李之新政，如此一个思想不开化的人竟然高升？让河北遭殃”.愤飞的麻雀认为：“公民社会是陷阱，那么奴隶社会就是天堂！不过必须明确是谁的陷阱，谁的天堂？肯定地说，公民社会是权力的牢笼，对权力是陷阱，而奴隶社会对民众是地狱，对权力却是天堂，不是口口声声为人民服务吗？从这一点的认知就知道究竟是为人民服务，还是为权力或者自己服务！</p>
+<p>周本顺曾在‘求是’杂志撰文指出，中国加强和创新社会管理，一定要站在巩固中共执政地位的高度，防止误信、误传甚至落入某些西方国家为我们设计的所谓”公民社会“的陷阱。有人讽刺说，”这样一个厌恶公民社会的人，没想到也完蛋了“。</p>
+<p>周本顺是否跟倒台的前中央常委周永康有瓜葛，也是一个被猜疑的点。从周本顺的简历看，担任省委书记前，许多时间是在政法部门工作，曾经担任中央政法委秘书长，他的顶头上司就是那时如日中天的周永康。因此，有网民讽刺说：”恭喜，你站錯队了“。老徐时评：”周本顺落马了。看他的简历，本来在高校当老师挺好的，非要从政；其实从政也没啥，偏要干公安；其实干公安也没啥，偏要跑到北京来干公安。结果没有跟对人，摊上个周永康这么个顶头上司，那就只能自认倒霉吧。官场险恶，仕途难测。当官有风险，跟人需谨慎“。</p>
+<p>另外就是周本顺的落马太突然，有人认为带有明显的”陷阱特征“。当然这是一个公然的陷阱，一方在套，一方还在强打精神。习近平发动打贪以来，有个特点，就是有点”欲擒故纵“。落马前几十个小时，还是让你”堂堂正正“地煎熬。令计划被公布”罪行“前一周，12月15日还在党刊‘求是’写文章，在文章中，令计划不仅至少16次引述习近平讲话精神，而且在每个小标题后，都紧跟同样的八股文用语：”习近平总书记强调“，8个小标题，重复了8次。</p>
+<p>连用八个”习近平总书记强调“，可见活到何等颤颤惊惊的地步。至于周本顺，就在中纪委宣布”调查“的前两天，还前往秦皇岛北戴河区进行推进城乡统筹发展的调研。河北省的党报‘河北日报’刊登了这条消息。他在调研中强调”让城市和乡村变得更加富裕、更加美丽。“话音刚落不久，翻身落马。现在再要上河北日报网查这篇文章，已经无影无踪。</p>
+<p>遭到这种待遇的官员其实很多。南京市市长季建业，2013年10月16日当天，按照这一周的南京主要领导工作行程，要召开全市生态文明建设动员大会，季建业将要做发言。这次生态大会安排在南京郊县的高淳区，计划上午参观，下午14时召开大会。上午突然”失踪“，中纪委第二天宣布已被”双规“。</p>
+<p>南京市委书记杨卫泽倒台的一个重大特征如同几日前落马的令计划一般，在议论纷纷中，杨卫泽在被中纪委宣布调查前几天的一月一日，仍在主持南京市每年举办的元旦长跑。大公报引述南京市委官员则说，杨卫泽”心里素质较强“，在被带走之前，”每天都精神饱满地工作着…”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%91%A8%E6%9C%AC%E9%A1%BA%E8%90%BD%E9%A9%AC%E5%8C%97%E4%BA%AC%E6%AC%B2%E6%93%92%E6%95%85%E7%BA%B5%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E6%9F%AF%E6%96%87%E5%93%B2%E4%B8%BA%E5%8F%8D%E8%AF%BE%E7%BA%B2%E4%BA%8B%E4%BB%B6%E6%8B%98%E6%8D%95%E8%AE%B0%E8%80%85%E9%81%93%E6%AD%89/" target="cdt-mirror">BBC｜台北市长柯文哲为反课纲事件拘捕记者道歉</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150725033103_ko_wen_je_624x351_cna.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150725033103_ko_wen_je_624x351_cna.jpg" alt="台北市长柯文哲在个人脸书专页上为警方逮捕记者一事道歉。 " width="575" height=""></a><p>台北市长柯文哲在个人脸书专页上为警方逮捕记者一事道歉。</p></div>
+<p>周四（7月23日）晚上，几十名中学生及民众闯入教育部，抗议教育部推行新的历史课纲。警察逮捕示威者及三名记者，引起公众不满，台北市长柯文哲在个人Facebook专页上为警方逮捕记者一事道歉。</p>
+<p>三名被逮捕的记者分别是《自由时报》记者廖振辉、《苦劳网》记者宋小海与前《新头壳》记者林雨佑。三人拒绝认罪及保释，检方其后改以限制居住。</p>
+<p>本地媒体报道记者手机被没收，不过，中正一警局副分局长李权哲接受壹电视专访，否认警方没收记者手机。</p>
+<p>台湾新闻记者协会发表声明稿，谴责警方拘捕记者，指事件是“台湾民主之耻”。</p>
+<p>“不论在任何场合，警察都不能任意逮捕记者，侵犯记者采访权。从法律而言，不论是集游现场、刑案现场，都是‘新闻事件的现场’，记者都有权力在现场采访，警方顶多只能界定采访的范围，不能阻止。”</p>
+<p>周五（7月24日）上午，柯文哲面对传媒时说，由于教育部报警，所以警方以现行犯逮捕，属紧急状况。</p>
+<p>在场记者问柯文哲是否有人报警就可以拘捕记者，柯文哲说：“要问昨天的检察官，不要问我，因为他接手指挥权。”</p>
+<p>不过周五晚上，柯文哲在自己个人Facebook专页上公布声明稿，对逮捕记者一事道歉。</p>
+<p>“媒体记者本于采访之职，于陈抗现场进行采访工作，乃受宪法保障之自由。我对于昨晚台北市警察局在过程中，侵犯记者采访自由一事致歉。”</p>
+<p>柯文哲也承认周四晚上警方没有根据既定流程行动。一些警员应该穿着标上“媒体联络”的背心，与在场记者沟通。他要求台北市政府警察局一个月内与记者组织检讨及协调。</p>
+<p>另外，柯文哲又有在声明稿上表达对反课纲学生的同情，并指他们“勇气可嘉”。</p>
+<p>除了三名记者外，警方还拘捕了24名学生及6名民众，其中11名学生未成年。</p>
+<p>教育部的声明中指，教育部将对学生的违法行为诉诸法律途径处理。</p>
+<p>教育部部长吴思华指，反课纲抗议背后有政党人士操纵。“这是不道德的，政治是一时的也是残酷、欠缺同理心的，呼吁各方节制自重，勿以抗争凌驾专业。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E6%9F%AF%E6%96%87%E5%93%B2%E4%B8%BA%E5%8F%8D%E8%AF%BE%E7%BA%B2%E4%BA%8B%E4%BB%B6%E6%8B%98%E6%8D%95%E8%AE%B0%E8%80%85%E9%81%93%E6%AD%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AF%E6%96%87%E5%93%B2/?category=18271" rel="tag">柯文哲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E8%83%A1%E5%B9%B3%EF%BC%9A%E4%BB%8E%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%9A%84%E6%81%B6%E6%80%A7%E4%BA%89%E6%96%97%E8%B0%88%E8%B5%B7/" target="cdt-mirror">华夏文摘｜胡平：从网络上的恶性争斗谈起</a>
 </h2>
 <p><p>在中国，互联网承担了在别的国家不会承担的任务。今日中国，风起云涌的异议运动、维权运动、民间反腐败运动，离开了互联网几乎是不可想象的。无怪乎中国的网民要说：互联网是上天赐给中国人民最好的礼物。</p>
@@ -732,70 +807,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B5%B5%E4%BD%9C%E5%AA%9B%EF%BC%9A%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A2%AB%E7%BA%A6%E8%B0%88%E8%AE%B0/" target="cdt-mirror">赵作媛：第三次被约谈记</a>
-</h2>
-<p><p>7月21日，国保第三次上门，来了三个，正副大队长带队，这次来的目的还是不让声援王宇律师，说王宇犯罪了，都被公安抓了，也上中央电视了，还用手机播放王宇在法庭指着法警理论的一段视频，说王宇骂法警，破坏法庭秩序等等；</p>
-<p>我说法院还没判，不能说王宇犯罪，就算判了又怎样？，赵作海、聂树斌、呼格吉乐图案不都平反了吗？再说中央电视台的话能信吗？前段时间还说周永康、徐才厚、谷俊山等人何等清廉正确，转眼之间不也给抓了吗？不是又播出他们是犯罪分子了吗？再说，为何只播放王宇“骂”法警破坏法庭秩序，怎么不播放完整视频，看看王宇为什么骂法警？</p>
-<p>国保说我怎么净说负能量，不说正能量的话，我说我十年经历法院违法、信访部门的不作为，访民的投告无门，被打压、被刑拘，都是负能量！我没经历什么正能量！我经历什么就说什么，若十年前王宇作我的律师，就不会有我今天的上访和投告无门！也不会让我经历这么多的负能量！</p>
-<p>电视台只播吴淦骂院长，怎么不播院长违法剥夺律师阅卷权？我自身经历了长岛法院法官集体违法，法院院长违法，信访部门的官官相护，访民的投告无门，所以，我身有体会，我在用自身真实的经历说话！</p>
-<p>国保黑着脸，警告我正在取保候审期间，出门要请假，否则要依法收监！我说，刑拘取保候审是继劳教之后又一打压访民的非法手段，访民没犯法，却被非法关押，很多被取保候审的访民都在北京继续维权，你们能否把访民都填满监狱？填完怎么判？你们不解决问题，却解决提出问题的访民？</p>
-<p>吴淦骂法院院长公安抓他，电视台说他诽谤，长岛法院副院长刘锡文公然说习近平不会放过访民，是不是诽谤？为何不抓他？</p>
-<p>国保说你有诉求你走正常渠道解决问题，别干犯法的事，我说正常渠道都给腐败分子堵死了，才有投告无门的众访民去中南海找国家领导反映，信访等部门不作为，但是，却又被视为“非访”，又关、又拘、又判的！现在连把帮访民说话的律师都抓起来了[流泪]访民问题还能解决吗？你们所谓的“正常渠道”在哪里？你来告诉我，要不你们陪我一起走走“正常渠道”？看看所谓的“正常渠道”是怎么不作为的？</p>
-<p>国保说我来不是给你解决问题的，我来就是告诉你不要支持王宇，她犯罪了，我说，她犯没犯罪你我都没看到，也不知道，不作评论，我就知道她为受迫害的访民发声！我们感恩为义发声的人！国保站了起来，表情复杂地说，看起来你也不能给我写什么东西了，我也不逼你了，但你绝对不能去围观，出去要请假，不能做违法的事！说完就走了！</p>
-<p>通过这次谈话，明显感觉出他们释怀出一个信息：不听话就制裁你！</p>
-<p>2015.7.22 [博讯首发,转载请注明出处]</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B5%B5%E4%BD%9C%E5%AA%9B%EF%BC%9A%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A2%AB%E7%BA%A6%E8%B0%88%E8%AE%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E8%83%BD%E9%87%8F/?category=18271" rel="tag">负能量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E4%BB%8A%E5%A4%A9-%E6%88%91%E6%8B%BF%E5%88%B0%E4%BA%86%E6%8A%A4%E7%85%A7/" target="cdt-mirror">【图说天朝】艾未未：今天 我拿到了护照</a>
-</h2>
-<p><p>@BBC Chinese：中国艺术家和异见人士艾未未@aiww 今天在其Instagram账号上发表了一张他手持中国护照的照片，并说“今天，我拿到了护照”。艾未未的护照在2011年被当局没收，无法离开中国。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CKgyeMnWIAA0lvD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CKgyeMnWIAA0lvD.jpg" alt="CKgyeMnWIAA0lvD" width="599" height="337"></a></p>
-<p> </p>
-<p>中国知名艺术家艾未未2011年被当局以经济犯罪嫌疑拘捕了近三个月，获得保释后，其护照始终未获发还。艾未未从2013年11月起，每天在其工作室门外的自行车篮里放置一束鲜花，并将照片上传社交网络，要求当局发还护照、恢复其旅行自由的权利。（德国之声）</p>
-<p> </p>
-<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2014/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E6%8A%A4%E7%85%A7%E8%A2%AB%E6%B2%A1%E6%94%B6%E7%9A%841001%E5%A4%A9/" target="_blank">艾未未：护照被没收的1001天</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E4%BB%8A%E5%A4%A9-%E6%88%91%E6%8B%BF%E5%88%B0%E4%BA%86%E6%8A%A4%E7%85%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E7%85%A7/?category=18271" rel="tag">护照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%BF%AB%E5%AE%B3/?category=18271" rel="tag">政治迫害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9D%A8%E4%BF%8A%E9%94%8B-%E7%8E%8B%E6%9E%97%EF%BC%9A%E6%B8%B8%E8%B5%B0%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BD%93%E5%88%B6%E7%BC%9D%E9%9A%99%E9%87%8C%E7%9A%84%E7%8B%90%E7%8B%B8/" target="cdt-mirror">杨俊锋 | 王林：游走于中国体制缝隙里的狐狸</a>
-</h2>
-<p><p>杨俊锋</p>
-<p>这几年来的著名话题人物“大师”王林，终于彻底栽了。中国各权威官媒不约而同地报道：王林因涉嫌雇凶杀死反目的“关门弟子”邹勇而被捕受审。网上流出的审讯画面上，大师再不复往昔神彩，形容消瘦沮丧，无异于常人。</p>
-<p>从媒体报道来看，王原本不过底层混混，并多有劣迹；他的“神功”也并不算太高明、新奇。那么，像王林之类的大师为何却能长期走红，坐拥众多名车豪宅，官员、明星、商人趋之若鹜？</p>
-<p>对此，许多报道和分析似乎并未切中要害。其实，官员及其权力才是王林的最核心资源，明星不过是用以贴金的道具，甚至也是其敛财对象，商人才是其主要猎物。在中国社会，权力才是最硬的硬通货，权力不仅支配主要的社会资源，还是真理的裁判者——至少在普通百姓的眼中仍是如此。因此，王林利用其机巧结交上官员，才是发达的关键。</p>
-<p>仔细探究王林的经历，他发达的最关键转折点在于，成功地“俘获”了原江西省公安厅厅长丁鑫发，由此叩开了他打入官场的大门，完成最关键的原始积累。由此便一通则百通，奠定了后来的王林神话的根基。</p>
-<p>总结起来，王林成功的要诀在于，俘获一个官员后，不仅利用这个官员的地位和权力为自己直接牟利，还借此巩固和放大自己的光环，尤其利用这个官员而结交更大的官员；而高官则是无意识地成了王林塑造自己光环的道具和大旗——其实在中国的各行各业，都往往把与高官的合影作为其重要的形象资本。</p>
-<p>有了官员和权力直接或间接背书，在众口相传的共振、叠加效应下，加上王林精于包装夸大的“经营”天赋，大师神话才越来越耀眼，才有大量名人和商人攀附。王大师所依附的生态链上，官员尤其是高官仍位居最顶端，而王则利用其机巧吸附在这些官员身上，构成食物链的第二级，下面依次是名人、小官、商人。</p>
-<p>如果说各路名人结好王林主要因为王的名气，那么商人包括低级官员的攀附则主要看重的是王林的权力资源。导致王林大师现形的“关门弟子”邹勇，便是典型例子。他之所以愿意不惜重金结好王林，根本原因其实并非是仰慕王的神功，而是王林的官场资源。王林官场资源确实也给邹带来过巨大的利益。</p>
-<p>据报道，邹勇找到王林说申请了一个大货场赣西电煤项目，省市两级都批了红头文件，并打了很多报告，但国家都没批下来。当时全国都在清理小货场，邹的货场也接到通知说要关闭。因此王林联系了刘志军并见到了他。见面只有几分钟，但最终刘志军批给了邹一个铁道旁原本待拆的货场，改建为大型煤炭储运中心，还配给了他几条货运线。这也成就了邹勇的巨额财富。</p>
-<p>表面上看，王大师现形是因为：了解他底细并握有实据的原关门弟子，与他反目成仇，进而一心要扳倒他，不断拼死控告揭发；同时，各大媒体跟进曝光。但根本原因则其实在于，他主要的官场宿主陈安众、朱明国等相继倒台，使他失去了权力的庇护。否则，对大师的揭发很可能早就被扼杀，甚至举报者也要身陷囹圄，也就无需后来涉嫌雇凶杀人了。</p>
-<p>其实，即便邹与王林交恶并不断揭发，各大媒体纷纷曝光王林涉嫌诈骗、非法行医、非法持枪等“七宗罪”，当地政府在舆论压力下展开调查的情况下，王林仍长时间内逍遥法外，在香港、深圳、江西等多地来去自如——而且，在这期间，王林仍不时露面并都曾引起舆论讨伐。直到最后王大师涉嫌雇凶杀人，局面才无法收拾。</p>
-<p>由此可以想见，若不是王林的主要官员靠山倒台，他仍然会安然无恙。如同周永康的“国师”曹永正，若非周落马，也肯定会继续发财、风光。因此，大师的垮台与否，根本上取决于他背后的权力资源和要揭穿他的力量之间的实力对比。</p>
-<p>相似的规律是：各路大师的影响力取决于，与官员关系的密切程度以及官员权力的大小。因此，与具有强大背景的王林等大师的大手笔相比，那些没有什么权力背景的民间“野生”大师，所干的都只是小儿科般的“小买卖”，所蒙骗的只能是底层无知百姓，而王大师却还每年都斥巨资对贫困家庭行善。其实，大师这一江湖行当如此，一些商人不也有类似之处？</p>
-<p>王既无真才实学，道德也更谈不上高尚，而何以使那么多官员为他用？其实，即便位高权重的高官，表面上高高在上于芸芸众生；但风光的背后，也难免普通人的弱点：也不乏普通人一样的猎奇心、也会因仕途而像普通人一样的焦虑不宁、也会像普通人一样畏惧死亡、像普通人那样在疾病面前变得软弱无助……而对于官员来讲，唯一而又最不缺的资本便是权力；而且在中国，权力至今几乎可以决定一切，而缺乏有效的约束，像刘志军一句话就可以决定一个商人是破产还是暴富。</p>
-<p>因此，如果说王林过人之处的话，其实也并不是他的“神功”，而是在于：尽管未受过像样的教育，但却是一个在社会大学中自修成才的心理大师，深谙现实的社会法则尤其是官员心态，并精明地为己所用。可见，他有着不凡的智商与情商，包括超乎常人的厚颜——这或许也可看作是情商的一部分。</p>
-<p>因此，王林无疑是社会病态孕育出的奇葩。他像滑溜机敏灵活的狐狸，在体制的漏洞罅隙中穿行自如，大享其成。从他戏剧般奇幻的兴衰经历，不难看出中国社会可能是最为重大的系统性陈年老病，即：公权力缺乏有效的法律约束。只要权力的魔力仍漫无边际，类似王林的大师及其神话就仍会在中国不时产生。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%9D%A8%E4%BF%8A%E9%94%8B-%E7%8E%8B%E6%9E%97%EF%BC%9A%E6%B8%B8%E8%B5%B0%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BD%93%E5%88%B6%E7%BC%9D%E9%9A%99%E9%87%8C%E7%9A%84%E7%8B%90%E7%8B%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9/?category=18271" rel="tag">公众人物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%93%BE%E6%9D%A1/?category=18271" rel="tag">利益链条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%99%93%E6%B3%A2/?category=18271" rel="tag">吴晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E9%92%B1%E4%BA%A4%E6%98%93/?category=18271" rel="tag">权钱交易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">阶级</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -807,7 +818,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3doptgaqtbfnt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ds0o1ncr69cqn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -817,5 +828,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97
                 <td></td>
                 
         
-        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>

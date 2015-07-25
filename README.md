@@ -24,6 +24,60 @@
         <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%96%AC%E6%9C%A8%EF%BC%9A%E4%BB%A4%E8%A8%88%E5%8A%83%E9%81%95%E5%8F%8D%E4%BA%86%E9%BB%A8%E5%85%A7%E6%BD%9B%E8%A6%8F%E5%89%87/" target="cdt-mirror">东网｜喬木：令計劃違反了黨內潛規則</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/bkncn-20150724000316494-0724_05411_001_01p.jpg" alt="bkncn-20150724000316494-0724_05411_001_01p" width="550" height="367"><br>
+在中紀委有關令計劃的通報中，首次出現了違反「政治規矩」的表述。</p>
+<p>最近中紀委公布了對令計劃的初查，提到的「雙開（開除黨籍、公職）、收受巨額賄賂、與多名女性通姦、親屬利用影響斂財牟利、其他犯罪線索交司法處理」，這些都是落馬官員的標準配置，沒有什麼奇怪。奇怪的是在通報中，首次出現了違反「政治規矩」這樣的表述。</p>
+<p>什麼是中共的「政治規矩」？</p>
+<p>顯然在對令計劃的查處通報中，不是指的「政治紀律、組織紀律、保密紀律」等要求，因為所說的違反政治規矩，和這幾項並列在一起，排在政治紀律之後。政治規矩既然不是指的這些，那麼到底是什麼呢？</p>
+<p>儘管在中國到底是黨大還是法大，很模糊，但是作為個體的共產黨員，很清楚，要遵守法律，而法律是明確公示的。一個政黨，有自己的組織紀律，作為有中國特色的執政黨，還有政治紀律和保密紀律，都可以理解。這些東西要麼像黨章一樣公諸於眾，要麼作為規定、紀律、條例，形成文件，有據可查。</p>
+<p>可是這個看不見、摸不著、沒有文字記載，卻被令計劃違反的「政治規矩」到底是什麼？它肯定不是道德，道德雖然也比較模糊，沒有書面的約定，但它和人性倫理相關，每個人都明白道德是怎麼回事，比如對家庭忠誠、對他人守信、不侵害公共利益是符合道德的，而通姦、說謊、以權謀私是不道德的。這些普通人也能遵守的基本道德，大量作奸犯科的黨員卻做不到。</p>
+<p>而政治規矩存在於黨內，並在處理高層領導中專門說起，顯然不是人人明白的道德準則。它確實存在，但沒有文字記載，又不能公開討論，大家心照不宣的明白、遵守，這不就是俗稱的「潛規則」嗎？原來以為演藝界等行業有潛規則，怎麼偉大光榮正確、為人民服務的共產黨也有不能明說、難以細究的潛規則？</p>
+<p>其實黨內確實有大量的潛規則。比如人民軍隊忠於黨，既然黨是為人民服務，軍隊叫人民解放軍，怎麼又要終於黨呢？黨指揮槍是明規則，但潛規則卻是槍指揮黨，誰掌握槍，誰就是黨內老大。比如鄧小平從來沒有擔任過黨和國家的最高職務，但由於掌握槍，長期任軍委主席，就能連換兩個黨的總書記。即使後來什麼職務也不擔任了，在世時絕對是黨內、軍隊最有影響的人。</p>
+<p>江澤民幹滿兩屆主席不再連任，這是明規則。但他不擔任國家元首和黨的總書記後，交出政權和黨權，卻不交軍權，繼續又任兩年軍委主席，這就是潛規則。接任他的胡錦濤雖然是最高領導，但要遵守這個潛規則，不敢違反、不滿。其他人更是心知肚明，即使是高喊著「緊密團結在以胡錦濤為核心的黨中央周圍」，但也明白誰才是真正的老大。</p>
+<p>令計劃到底違反了什麼政治規矩，這個像規矩本身一樣，只能意會不能言傳。但這邊強調依法治國，那邊卻暴露出黨內存在政治規矩。黨大還是法大的問題沒有解決，黨章、文件等明規則需要遵守，還是政治規矩等潛規則更重要，值得深思。</p>
+<p>從薄熙來、周永康到令計劃的倒台，貪腐犯罪肯定少不了，可是在台上的又比他們乾淨多少呢？薄周被指從事「非組織政治活動」，令計劃則是「違反政治規矩」，多少說明反腐有權力鬥爭的因素。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%96%AC%E6%9C%A8%EF%BC%9A%E4%BB%A4%E8%A8%88%E5%8A%83%E9%81%95%E5%8F%8D%E4%BA%86%E9%BB%A8%E5%85%A7%E6%BD%9B%E8%A6%8F%E5%89%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%87%AA%E5%B9%B2%E4%BA%94%E4%BB%AC%E7%9A%84%E6%84%A4%E6%80%92/" target="cdt-mirror">【图说天朝】自干五们的愤怒</a>
+</h2>
+<p><p>2015年7月22日，山东文登青年侯聚森自称因爱国被打，引来各地共青团及一些官媒的力挺。文登警方于7月24日公布查证结果，将事件定性为约架，所有涉事者均被处以行政拘留。包括侯聚森在内的三位未成年人由于不满18周岁且是初犯，行政拘留不予执行。</p>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/">文登爱国青年事件</a>专题</p></blockquote>
+<p><strong><a href="http://www.weibo.com/p/1001603868190252922023">文登警方在线｜公安机关依法对“7.22”涉案人员作出处理</a></strong></p>
+<blockquote><p>7月24日，威海市公安局文登分局对“7.22”治安案件事实进行了查证：2013年以来，侯某某与梁某某、陈某某等人经常在网上发表不同言论，进而形成纷争、谩骂，并经常在网上互称要和对方见面“理论”。案发前，梁某某、陈某某、张某某、张某某等4人来到文登，梁某某同时准备了甩棍等作案工具。案发当日上午，陈某某数次通过QQ约侯某某见面“理论”，侯某某均作出见面“理论”的回应；13时40分许，侯某某同孙某（男，20岁，系侯某某同学）等人员从文登师范学校校内走到校门口，侯某某先与陈某某互殴，后梁某某、张某某、张某某、孙某等参与斗殴，致侯某某、张某某轻微伤。</p>
+<p>根据查明的事实，依据《中华人民共和国治安管理处罚法》第二十六条第（一）项，威海市公安局文登分局对涉案双方人员作出行政处罚决定：对陈某某、梁某某分别处以行政拘留十五日，对侯某某、张某某、张某某处以行政拘留十日，对孙某处以行政拘留七日。其中，梁某某、侯某某、张某某因年龄已满16周岁不满18周岁、初次违反治安管理，依据《中华人民共和国治安管理处罚法》第二十一条第（二）项，行政拘留不执行。</p></blockquote>
+<p><strong>爱国青年们显然对文登警方对处理结果非常不满。微博截图举例：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/565ecf03jw1eue5149brpj20u007bwfk.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/565ecf03jw1eue5149brpj20u007bwfk.jpg" alt="565ecf03jw1eue5149brpj20u007bwfk" width="600" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.58.39-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.58.39-AM.png" alt="Screen Shot 2015-07-25 at 12.58.39 AM" width="500" height="609"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/0066M2Rhjw1eue3q0tyxaj30ih0qo41g.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/0066M2Rhjw1eue3q0tyxaj30ih0qo41g.jpg" alt="0066M2Rhjw1eue3q0tyxaj30ih0qo41g" width="440" height="635"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.55.19-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.55.19-AM.png" alt="Screen Shot 2015-07-25 at 12.55.19 AM" width="600" height="112"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.53.00-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.53.00-AM.png" alt="Screen Shot 2015-07-25 at 12.53.00 AM" width="600" height="110"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.58.18-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.58.18-AM.png" alt="Screen Shot 2015-07-25 at 12.58.18 AM" width="600" height="156"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.52.10-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.52.10-AM.png" alt="Screen Shot 2015-07-25 at 12.52.10 AM" width="600" height="112"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.51.40-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.51.40-AM.png" alt="Screen Shot 2015-07-25 at 12.51.40 AM" width="600" height="134"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.56.17-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.56.17-AM.png" alt="Screen Shot 2015-07-25 at 12.56.17 AM" width="600" height="239"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.59.00-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.59.00-AM.png" alt="Screen Shot 2015-07-25 at 12.59.00 AM" width="600" height="157"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.56.59-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/Screen-Shot-2015-07-25-at-12.56.59-AM.png" alt="Screen Shot 2015-07-25 at 12.56.59 AM" width="600" height="217"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/65cc9274jw1euev1ndo8uj20hs0vk42n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/65cc9274jw1euev1ndo8uj20hs0vk42n.jpg" alt="65cc9274jw1euev1ndo8uj20hs0vk42n" width="450" height="799"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/65cc9274jw1euev1muqd5j20hs0vk0vo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/65cc9274jw1euev1muqd5j20hs0vk0vo.jpg" alt="65cc9274jw1euev1muqd5j20hs0vk0vo" width="450" height="799"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/65cc9274jw1euev1nvo8oj20hs0vkwio.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/65cc9274jw1euev1nvo8oj20hs0vkwio.jpg" alt="65cc9274jw1euev1nvo8oj20hs0vkwio" width="450" height="799"></a></p>
+<p><strong>再来回顾一下文登爱国青年事件发生后各地共青团及部分官媒的反应：</strong></p>
+<blockquote><p><strong><a href="http://www.weibo.com/3776512722/CsIBKvGQs">@特别调查员</a></strong>：昨天你闹得欢，今天我拉清单。共青团中央沦陷，约八成省级共青团沦陷，大量基层团委沦陷，前仆后继，豪壮激越，俨然新时期的红卫兵。江西、安徽、甘肃、青海、云南、贵州、吉林和河南等省鸡血指数位居前列，青海最猛，贵州最萌。在警方通报调查结论后，无一回应，未现反思。我谴责共青团。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1euet4lsvpjj20bs0vx1bd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1euet4lsvpjj20bs0vx1bd.jpg" alt="e11902d2jw1euet4lsvpjj20bs0vx1bd" width="424" height="1149"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1euet4mi8aaj20ku0bwaby.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1euet4mi8aaj20ku0bwaby.jpg" alt="e11902d2jw1euet4mi8aaj20ku0bwaby" width="550" height="314"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1euet4nj65uj20ku0d2jtc.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1euet4nj65uj20ku0d2jtc.jpg" alt="e11902d2jw1euet4nj65uj20ku0d2jtc" width="550" height="345"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1euet4kxijhj20kt0w4n2d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1euet4kxijhj20kt0w4n2d.jpg" alt="e11902d2jw1euet4kxijhj20kt0w4n2d" width="450" height="695"></a></p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza5x4gfj20oz18g0zo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza5x4gfj20oz18g0zo.jpg" alt="76716e15jw1eubza5x4gfj20oz18g0zo" width="500" height="1"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza7lqgfj20oz18gn3m.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza7lqgfj20oz18gn3m.jpg" alt="76716e15jw1eubza7lqgfj20oz18gn3m" width="500" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza459iyj20oz18g7ar.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/76716e15jw1eubza459iyj20oz18g7ar.jpg" alt="76716e15jw1eubza459iyj20oz18g7ar" width="500" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/6375b7e4jw1eueziypzj9j20ez0qon0k.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/6375b7e4jw1eueziypzj9j20ez0qon0k.jpg" alt="6375b7e4jw1eueziypzj9j20ez0qon0k" width="500" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%87%AA%E5%B9%B2%E4%BA%94%E4%BB%AC%E7%9A%84%E6%84%A4%E6%80%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%95%E5%9B%BE%EF%BD%9C%E6%9C%AC%E9%A1%BA%EF%BC%8C%E7%9F%A5%E9%81%93%E4%BD%A0%E5%BF%A0%E5%BF%83%EF%BC%8C%E6%88%91%E5%B0%86%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%90%83%E4%BD%A0/" target="cdt-mirror">仕图｜本顺，知道你忠心，我将最后一个吃你</a>
 </h2>
 <p><p><em>【编者注】作者微信公号<a href="http://mp.weixin.qq.com/s?__biz=MzA3MDM5MzIyOA==&mid=209232771&idx=1&sn=3c2bbb13db3363178b3491a4e9360e30#rd">原文</a>已因“涉嫌违反相关法律法规和政策”而无法查看。以下内容来自<a href="http://chuansong.me/n/1565333">传送门</a>。</em></p>
@@ -727,86 +781,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AF%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E7%9A%84%E8%84%B8-%E4%BB%96%E4%B8%8D%E8%A6%81%E6%88%91%E4%BA%86/" target="cdt-mirror">【网络民议】大家好 我是央视财经的脸 他不要我了</a>
-</h2>
-<p><p>央视财经近日播出节目声称“人民币汇改十年，升值33%”后，在微博引来恶评一片。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/CCAV.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/CCAV.png" alt="CCAV" width="550" height=""></a></p>
-<blockquote><p><a href="http://www.weibo.com/2258727970/CsgaDoyXm">@央视财经</a>：【你手中的钱值钱了！人民币汇改十年，升值33%！】2005年的7月21日，人民币汇改大幕拉开。到今天为止，汇改整整十年，人民币交出漂亮成绩单：对 美元升值了30%以上！算笔账：十年前，如果要换100美元，我需要花800多块钱人民币，而现在只需600多人民币。咱们的钱似乎更值钱了。<a title="http://tv.cntv.cn/video/C10330/3dc075dc1d364c6da0d9c54e67596bf1" href="http://t.cn/RLJT4BQ" target="_blank"><em>网页链接</em></a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>莲说藕听：大家好，我是央视财经的脸 他不要我了</p>
-<p>洋葱日报社：注意最后一句，“似乎~”。用词严谨，不愧是我们的学习对象。</p>
-<p>李LEWIS：你们央视的智商低的匪夷所思，奴才也要有文化啊！</p>
-<p>小超的生命有一种绝对：对外升值，对内贬值，好杰宝都插你们屁眼去了[拜拜][拜拜]</p>
-<p>姚广孝_wayne：头一次听说货币购买力是用汇率来估算的，央视财经连基本的经济常识都没有，你国的宣传阵线现在真是在全面带鱼化啊</p>
-<p>Xia_zHaoFeNg-：去死吧，十年前一碗肉丸2块，现在8块还只是面粉。真值钱！</p>
-<p>茫茫尘寰：升值尼玛，对外升值，对内贬值</p>
-<p>开门请当心下车请走好：感谢央视 ！ 我变的更富了！</p>
-<p>有点小贱的Dan：以前一根油条0.3现在是1.5 早饭躺着都能吃到5快以上你跟我说钱值钱了 笑话真好听</p>
-<p>做恶梦的猪：物价翻了多少，发东西前，想想挨骂的几率</p>
-<p>YUKI东：值你麻痹，你们像印纸钱一样往死里印。</p>
-<p>右边缺一人：吐槽小编的，你们没觉得小编的那个“似乎”用的很好吗？</p>
-<p>鹿鹿是一只鹿：抛开内部的通胀不说，如果没有“外界”压力人民币会升值么[微笑] 国际上顶不住压力人民币升值了，然后说是为老百姓做实事[微笑] 我们老百姓都是文盲[微笑]</p>
-<p>Galli_陈嘉谊：大家都没看懂。主页君最后一句才是需要揣摩的[哈哈]</p>
-<p>A_bit_of_talkshow：人民币对外升值 对内贬值 简直就是一个无可争议的事实 不然全跑国外买东西去了</p>
-<p>白彦云：十年前的1000，我带着敢去好多地方玩，现在的1000，我坐家里都发慌。你说值到哪儿了？</p>
-<p>囧的没有肾：看到新闻的那一刻我就猜到了里面的评论[doge]</p>
-<p>片仔癀药妆在沧州：脸皮又厚了不止33个点</p>
-<p>盛志诚：早安！这条新闻证明了，无知者无畏。</p>
-<p>张小扬要坚强：我们国家的外汇储备是多少你不会不知道吧。人名币升值相当于损失多少你不会不清楚吧。升值对国内人民的购买力有毛的影响你不会不明白吧。你作为官媒真的可以指鹿为马吗！！！！！</p>
-<p>小土来了：无比的荣耀感油然而生</p>
-<p>连岳lianyue：央视这些肉喇叭，嘴上功夫真是强，什么姿势都能吹出来。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F.png" alt="央视财经" width="608" height="1412"></a><br>
-（热门评论截图）</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AF%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E7%9A%84%E8%84%B8-%E4%BB%96%E4%B8%8D%E8%A6%81%E6%88%91%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%B9%B8%E7%A6%8F/?category=18271" rel="tag">被幸福</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%94%90%E6%98%8A%EF%BC%9A%E4%BD%93%E5%88%B6%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/" target="cdt-mirror">唐昊：“体制”夹缝中的年轻人</a>
-</h2>
-<p><p>当下中国青年毕业后的一大梦想就是进入“体制”。近年公务员考试已经达到不可思议的热度，很多职位与报考学生比率超过了1:1000，最高的甚至达1:4000。与公务员热类似，一份由中国与全球化研究中心和北大光华管理学院共同完成的《中国海归创业发展报告2012》指出，目前已经回国就业的海归也以选择事业单位为主，占43.2%。也就是说，体制的吸引力已经越出国门，连喝过洋墨水的海归也越来越多地把进入体制作为第一选择。</p>
-<p>处于人生最有活力、最强调自主性、最愿意冒险的阶段，青年们竞相选择安稳、体面、高福利的体制内单位作为其事业起点，不外两个原因，一是体制外给他们提供的空间过少，体制外的环境也在逐渐变差；二是中国的青年受原有体制驯化的程度较为严重。</p>
-<p><strong>“体制内”和“体制外”的区分</strong></p>
-<p>所谓体制，其实包括一系列具体的制度性安排，如户籍制度、公务员考试制度、教育制度、社会福利制度、劳动就业法规等。在中国的政治实践中，这些制度性安排有时并未带来平等，而是使人群分化。如户籍制度中的城乡二元分割体制导致城市居民与农民的分化；重要行业的市场准入规定造成国有垄断企业和民营企业之间的不平等；公务员考试漏洞太多使得“拼爹”成为可能，等等。</p>
-<p>上述暗含社会歧视的制度安排，通常会造成社会成员中部分人获利和另外一部分人受损。在现有体制中长期获利的社会成员属于体制内，其他领域的社会成员则属于体制外。二者的利益差别是巨大的：体制内的人群不但享有更加安稳、体面、更受制度保障的生活，而且其所在的机构往往握有更大的政治权力和经济权力（政府机关、垄断企业等）；相对来说体制外的人群更难保障自己的基本权利和利益（中小企业主、农民工等），更容易受到来自权力的侵害。</p>
-<p>与此同时，中国的所谓“体制”不仅是一个制度概念，还具有明显的意识形态色彩。很明显，离权力中心更近的政府机关、事业单位、国有垄断企业等，共同分享着执政党的核心价值观，其成员也有着更严密的思想纪律；而民营企业、市民社会这些领域则离核心政治价值相对遥远，其成员有时还秉承着另外一套价值理念。所以体制的“内”“外”之分，在很大程度上也是以意识形态划界的。</p>
-<p>在体制内外所存在的利益差别和思想差别下，中国社会中不但出现了一个由日益扩张的行政权力所掌控的“体制内”，而且由体制所产生的权力还延展到体制之外，扼杀了这个社会其他领域的生机与活力。于是，和十几年前中国高学历者纷纷脱离体制“下海”形成鲜明对照、也和西方发达国家很少年轻人考公务员的现象有相当差异的是：中国的年轻人纷纷选择通过难度极大的公务员考试而逃回体制内。这些情况都表明，近年来中国的“体制外”环境正在迅速恶化中。青年人选择的狭窄意味着整个社会选择的狭窄。</p>
-<p>在体制外环境变差的同时，政府本身的财政汲取能力却越来越强大。中国的财政收入增速在 1995年首超GDP增速后，持续高速增长至今。2010年，中国财政收入达8.3万亿元，增速两倍于GDP增速。最近几年的财政收入都达到GDP的1/3左右，政府掌控资源的能力相当惊人。随着政府插手各种经济和社会领域，其职能不断扩张，直接后果就是机构庞大，不断招人，造就了一个迅速增长的就业市场。</p>
-<p>同时，国家财政支出中行政支出比例的虚高不下以及支出核算和管理的极度不透明，直接让集中了最优质社会资源的政府本身成为最受追捧的行业。和大学毕业生的起薪点低至2000元以下，甚至低于农民工的工资相反，体制内的人员工资虽然也高不了多少，但更多的补贴、隐性收入、灰色收入却可以保证他们过上体面的生活。《2010年中国城市居民幸福感调查》显示，国家机关党群组织、企事业单位负责人回答“非常幸福”的比例最高。当所有的物质资源都集中到国家手里，而人是跟着资源走的，不去国家机关和事业单位就业难道还会有其他更好的选择吗？</p>
-<p>当然，想进入体制也并不容易。除了自身获得优质资源外，阶层和集团的特权还直接延伸到他们的子女身上。各种“萝卜招聘”、“拼爹”现象对平民子女来说，就是一种不公平的阻碍。</p>
-<p><strong>体制驯化青年？</strong></p>
-<p>奇怪的是，在事业选择空间日益狭窄的同时，这些年轻人还遭遇了社会舆论的批评。北大教授钱理群就发文批评现在的大学生更加世俗化和功利化。似乎是在印证这个判断，日前媒体广泛报道了清华毕业的 “80后”进入体制得到快速升迁，但同时也快速腐败的经历。对于这些通过考公务员进入体制的年轻人来说，过于缺乏政治理想，导致他们在无奈中选择靠拢体制，并在进入后却连体制的阴暗面也照单全收。</p>
-<p>其实，青年的蜕变过程并不是从他们进入体制内的那一刻开始的，而是早得多。在中国，对体制内的规则和潜规则的认同正逐渐演化为一种文化锁定。虽然每个国家的中年男女都倾向保守，但没有一个国家的父母像中国的父母们一样，教育他们的子女从小听自己的话、上学听老师和学校的话、工作后听领导的话。对体制的认同渗透进了家庭教育和学校教育，成为人格的一部分。但这种认同不是对体制内涵的认同，而是认定无法改变体制的无奈服从。</p>
-<p>在某种程度上，中国的“体制”不但剥夺了年轻人的机会、能力，更重要的是消解了年轻人的梦想，改变了年轻人的本性，使其更关注个人利益，也更能容忍社会不公。在拼命试图进入公务员队伍的过程中，我们既能看到对前途稳定的关心，也无法排除对权钱缝隙中的巨大灰色利益的觊觎。无论是何种心态，都缺乏政治原则的坚守，很难期望他们能够在转型时代挺身中流、改变体制。很多人甚至连自己不被濡染都成了奢望。</p>
-<p>而青年之所以那么容易被体制驯化，在很大程度上是其自身内涵和自主信念的缺乏。在一些学术机构的调查中，现下中国青年的优点被归纳为务实、开放、敢于创新等，而其缺陷则被归结为缺乏社会视野、缺少对社会各阶层的了解、缺少交流、分享和合作、公益心不足等。这些弱点很明显是公共生活参与不足、对社会真实缺乏了解和同情心所致。在某种意义上，正是因为中国青年缺乏参与公共生活的经验，才被剥夺了在公共生活中形成和巩固自我价值观的机会，才可能被体制轻易改变。</p>
-<p>人是一种多重社会关系的存在。而体制最终会变成无所不在的社会关系，让社会成员之间彼此限制，甚至内化为社会成员自己的自由意志。离体制越近，受体制的驯化也就越严重。这种一边在压制，一边在驯化的体制，迫使年轻人在痛恨体制的同时，也越来越依赖体制。</p>
-<p>然而，把一切都推到体制身上确实很方便，可是体制并不能解释和解决所有问题。上述的压制和驯化现象在很大程度上是源于体制安排，但问题是，“体制”又是从何而来？支撑体制内和体制外区分的社会基础又是什么？</p>
-<p>当前，计划经济的残留力量比我们想象的更大。中国的重大经济决策一直掌握在中央政府、各个部门、地方政府的手中，并且这些决策可以轻易地突破市场的规则甚至原则。中国的中央和地方政府决策可以直接限制房屋交易、巩固或破坏私有财产权、规定某个领域的市场准入，其对经济的影响力比其他市场经济国家要大得多。</p>
-<p>经济上的垄断实际上来自权力的垄断。由政府介入的方便，中央政府制定了保护行政垄断的种种规则；地方政府则力保低端的加工产业为自己带来短期政绩。由此导致的是中国国有垄断企业占主导地位的经济结构，以及劳动密集型企业占主流地位的低端产业结构。此种经济结构一经形成，便导致庞大的经济–政治利益集团的出现，并成为现有经济体制和经济政策的最有力支柱。而有可能对体制形成挑战和改革力量的民营经济，则因最近几年的金融危机和中国经济进入低速发展的周期，逐渐在中国经济结构中被边缘化——虽然其对GDP的贡献仍然巨大，但却无法掌握更多的经济权力，也就无法掌握自己的命运。根据近年的统计数据，中国自主创业的个体户比几年前减少了几百万户。</p>
-<p>同时，行政权力的独大还约束了第三部门的发展。在西方国家，社会组织本是就业的重要渠道。现任美国总统奥巴马的第一份工作便是在芝加哥做社区服务。当时的工资不高，只有1.3万多美元，这份工作不但让他积累了社区服务的经验，也让他找到后来攻读法律学位的动力，最终成就了一位非裔平民总统，其竞选中的平民策略与其早期工作经验是密切相关的。但在中国，提供非营利服务的社区组织和社会组织的生存和发展受到一系列阻滞。组织生存的艰难不但表现在就业机会被剥夺，也表现为对体制本身的屈服与靠拢。在一个竞争剧烈的世界里，靠近最强者是很自然的选择。但也自然使得体制本身更加强大和稳固。</p>
-<p>从逻辑上说，体制内外的划分首先改变的是整个社会的结构，并且形成了体制和社会结构之间的相互支撑。是社会结构决定了政治体制还是政治体制决定了社会结构，确实是一个鸡生蛋还是蛋生鸡的问题。但社会结构和体制之间的不断互动和相互加持，确实导致体制的固化和强大，并成为社会成员依赖的对象。</p>
-<p>不过，即使是对于体制内的人群来说，这个体制真的是值得依赖的吗？恐怕未必。在体制内这样一个超稳定和官僚化的环境中，个人的能力是难以得到提高的，个体价值也会缩水。</p>
-<p>同时，体制内的官场规则和潜规则未必是所有人都可以适应的。随着“90后”这些更加强调个性和自由的世代的登场，体制能够带给人们的幸福感，恐怕会越来越少。</p>
-<p>更重要的是，只要体制本身的自上而下控制型的特点不改变，体制内向上流动渠道就会依然缺乏，体制内竞争的激烈程度不一定比体制外更小。在“拼爹”时代流行的中国，普通青年进入体制后的晋升发展机会也不一定很多。</p>
-<p><strong>作为体制挑战者的年轻人</strong></p>
-<p>体制与人的矛盾可能存在于任何一个世代，但只有在内外条件具备的情况下，这种矛盾才会导致改革力量的诞生。在目下的中国，体制与人的矛盾所导致的却更多的是非常规的反抗，而非理性的改革。这在很大程度上是因为体制本身所提供的改革空间太小。而在体制外的改革力量走正规路径走不通的情况下，只能以非常规的方式来进行利益表达。最僵化的体制下反而有可能酝酿出最激烈的反抗。类似情况曾经发生在1960年代的中国和欧洲。</p>
-<p>无论是1966年的红卫兵运动，还是1968年的五月风暴，都不仅是一场单纯的政治运动，而是有具体而现实的社会就业问题作为学生不满的前提。但有趣的是，在五月风暴中，先锋不是那些找不到工作的普通年轻学生，而恰恰是索邦大学这样的精英大学中的、毕业后不愁找不到工作的精英学生。而1970年代末，知青返城的要求也成为中国改革旧有体制的一大动力。这说明，即使体制成功地驯化了部分年轻人，但对于真正的精英来说却很难驯化。他们仍然会成为运动的领袖和改革的先锋。</p>
-<p>在历史上，体制并不一定是年轻人的敌人，而更应是他们倚重但必须要改变的对象。如前所述，行政权力的无限扩张所导致的政治经济安排确实限制了年轻人的发展，也驯化了部分的年轻人。即便如此，人们还是有选择余地的。但大多数人选择默许了这个体制的存在和运行。也就是说，无论多么恶劣的体制，在很大程度上都是人们选择的结果。</p>
-<p>不过，在中国如此选择的背景环境正在发生变化。也就是说，一方面新生的社会问题已经成为原有体制难以解决，另一方面改变体制的力量正在空前地成长起来。就前一方面来说，转型时期的特殊状况对青年就业的阶段性压力，加剧了体制本身转变的压力。最近10年来，随着高等教育规模的急剧拓展，青年人就业选择更加狭窄化。2002年的大学毕业生只有200多万，到了2011年就迅速增加到600万。如此迅速的待就业人数增长远远超过了经济增长速度，在中国的产业结构迟迟不能升级的情况下，也超过了这个经济体所能提供的就业岗位增长的速度。套用鲁迅先生的一句话：世界上的路本来就少，走的人多了，就更没了路。</p>
-<p>而从另一方面来看，在路径减少的情况下，人们的欲望和能力却在增强。在经济不断发展、社会环境不断开放的情况下，城市居民对体制改革的冲动逐渐提上日程。体制内渠道的匮乏反而刺激了更多体制外解决方式的出台。人们的变革冲动是与其改变环境的能力成正比的。在外部冲击日趋严重、体制内外的群体无法再像以往那样生活下去。</p>
-<p>历史证明，体制变化的速度总是低于社会变化的速度，也低于青年觉醒和崛起的速度。另一方面，体制也只能提供物质层面的利益，不能提供方向和理想。因此在被剥夺了更多发展机会的市场和社会领域，我们仍然能够发现来自青年的鲜活力量在生长。近年来，轰轰烈烈的城市环境社会运动、公民慈善运动、公益创新活动的主体都是青年，说明属于青年人的理想主义冲动始终是无法磨灭的。在这个意义上，年轻人没有被体制驯化，年轻的生命也永远不可能被驯化。他们的使命终归是改变世界。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%94%90%E6%98%8A%EF%BC%9A%E4%BD%93%E5%88%B6%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%A4%96/?category=18271" rel="tag">体制外</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1%E5%91%98/?category=18271" rel="tag">公务员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%8D%E5%85%AC/?category=18271" rel="tag">社会不公</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">社会关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">社会运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1/?category=18271" rel="tag">精英</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>

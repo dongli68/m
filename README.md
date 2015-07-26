@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E9%A2%91%E9%81%AD%E5%8F%98%E6%95%85%E5%85%A5%E4%BD%9B%E9%97%A8-%E6%9D%8E%E5%B0%8F%E7%90%B3%E7%B2%BE%E7%A5%9E%E5%8F%97%E5%88%9B%EF%BC%9F/" target="cdt-mirror">外来客｜频遭变故入佛门 李小琳精神受创？</a>
@@ -835,7 +835,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gsw7xh4atmss.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d120g5ieg5mk6k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -845,5 +845,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/></td>    </tr>
 </table>

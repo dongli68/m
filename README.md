@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kd1s58mjs3rf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mgwkqfu36p3z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,216 @@
                 <td></td>
                 
         
-        <td><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E7%9A%84%E7%B2%97%E5%8F%A3%E6%95%99%E7%A8%8B/" target="cdt-mirror">【立此存照】爱国青年侯聚森的粗口教程</a>
+</h2>
+<p><p>2015年7月24日，“<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/">文登爱国青年被打</a>”事件主角侯聚森在<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%A4%A7%E4%BC%97%E7%BD%91-%E7%88%B1%E5%85%9A%E9%9D%92%E5%B9%B4%E8%B0%88%E8%A2%AB%E6%89%93%E5%89%8D%E5%90%8E%EF%BC%9A%E6%88%91%E9%AA%82%E4%BA%BA%E9%83%BD%E6%98%AF%E8%B7%9F%E5%AF%B9%E6%96%B9/">接受大众网记者采访</a>时，为自己近日被网民曝光的骂人黑历史辩解，称那些话是从骂他的人那里学来的：</p>
+<blockquote><p>我2014年才开始上兔吧(那年那兔那事儿吧)，[…]后来上了“日本の家”吧、“和风の家”吧、和风屋吧，看到他们的言论，觉得挺不可思议的。说大日本帝国好，中国共产党不好的言论，感觉这些都是网络汉奸吧。所以就骂那些人，骂他们狗汉奸。慢慢自己在贴吧也有一些知名度了。[…]</p>
+<p>回击主要是正面“打脸”，要么是反讽、调侃。平时回应就是调侃几句，然后贴资料。有时候心情不好上火了也骂几句。在QQ空间里，[…]一开始回击少，他们骂的多了后来跟他们学的，也说“飞妈”“死妈”“你妈炸了”等。后来我在兔吧发了一组爱国黑框图片，对方看到就骂我，说是废物，那些骂人的话。</p></blockquote>
+<p>爱国青年也是谦虚了。其实<strong>侯聚森早在2013年就已经开始在百度贴吧中勤学粗口技巧</strong>，并在以下这则<a href="http://tieba.baidu.com/p/2400999124">词汇教学贴</a>中现学现用：</p>
+<p>该贴楼主<strong>所“教”内容，就是如何运用各种粗俗的语言问候对方家人</strong>。截图举例，你们先感受下：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B41.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B41.png" alt="词汇教学贴1" width="525" height=""></a></p>
+<p>从下图可以看出，一个名为“战爹风云3”的用户在表达了对该楼主的景仰之情后@了“列宁的配枪”和爱国青年“侧卫36”（侯聚森），“侧卫36” 来到本帖后又再次@了用户“列宁的配枪”，<strong>并发出“楼主牛逼”这样的赞叹</strong>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B422.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B422.png" alt="词汇教学贴22" width="525" height=""></a></p>
+<p>在该“教学贴”<a href="http://tieba.baidu.com/p/2400999124?pn=4">第四页</a>，爱国青年侯聚森<strong>展现了他对此类语言的快速学习能力</strong>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B43.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B43.png" alt="词汇教学贴3" width="550" height="173"></a></p>
+<p>曾有“那年那兔那些事儿吧”吧友<a href="http://tieba.baidu.com/p/3132734359?pn=2#52870249583l">劝文登爱国青年对“逗逼美分日杂”少爆点儿粗口</a>，正能量青年的回答是：“<strong>对畜生，无文明”</strong>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A0%E6%96%87%E6%98%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A0%E6%96%87%E6%98%8E.png" alt="无文明" width="550" height="266"></a></p>
+<p>现在来对比一下<strong>学习成果</strong>：</p>
+<p>在学习阅读上述“教学贴”前，<strong>侯聚森的粗口词汇似乎较为有限</strong>：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4.jpg" alt="爱国青年" width="500" height=""></a><br>
+在掌握了“教学贴”的精髓后，<strong>侯聚森骂人时的想象力显然有了质的提高</strong>：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/686da053gw1eudre0e3ujj20hs0l4mzy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/686da053gw1eudre0e3ujj20hs0l4mzy.jpg" alt="686da053gw1eudre0e3ujj20hs0l4mzy" width="500" height=""></a></p>
+<p>融会贯通。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E7%9A%84%E7%B2%97%E5%8F%A3%E6%95%99%E7%A8%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E5%86%99%E4%BD%9C%EF%BD%9C%E5%88%98%E8%8D%BB%EF%BC%9A%E8%AE%A4%E7%BD%AA%EF%BC%88%E7%9B%B8%E5%A3%B0%EF%BC%89/" target="cdt-mirror">自由写作｜刘荻：认罪（相声）</a>
+</h2>
+<p><p>甲：观众朋友们大家好……</p>
+<p>乙：（面带微笑，做摇头晃脑、洋洋得意状。）</p>
+<p>甲：今天由我来给大家认罪……</p>
+<p>乙：啊？</p>
+<p>甲：这个认罪呢，是我国的一门传统艺术……</p>
+<p>乙：（推甲）哎，你等会！</p>
+<p>甲：怎么啦？</p>
+<p>乙：还怎么啦！认罪像话吗？</p>
+<p>甲：怎么不像话啊？这你就落伍了吧！你数数，最近有多少名人都上电视认罪了？</p>
+<p>乙：你给咱大伙数数？</p>
+<p>甲：薛蛮子，微博大V，因为嫖娼涉嫌聚众淫乱，上电视认罪了吧？</p>
+<p>乙：认罪了！</p>
+<p>甲：秦火火，造谣诽谤寻衅滋事，上电视认罪了吧？</p>
+<p>乙：认罪了！</p>
+<p>甲：郭美美，赌博，上电视认罪了吧？</p>
+<p>乙：认罪了！</p>
+<p>甲：张元、宁财神、柯震东……这些都是演艺界人士，都是因为吸毒被抓的，都上电视认罪了吧？</p>
+<p>乙：认罪了！</p>
+<p>甲：刘晓波……</p>
+<p>乙：啊？没有，这个真没有！</p>
+<p>甲：所以说，这个认罪，是我国的一门传统艺术……</p>
+<p>乙：这话听着怎么这么别扭！</p>
+<p>甲：……讲究说学斗唱……</p>
+<p>乙：哎，你再等会！这认罪怎么还带说学逗唱的？</p>
+<p>甲：你听我慢慢给你解释。</p>
+<p>乙：我听着呢。</p>
+<p>甲：首先，这个认罪，它不得说吗？</p>
+<p>乙：嗯，对，认罪是得说。那学呢？</p>
+<p>甲：不光要说，还要努力学习，提高自己的思想认识。这不就有学了吗？</p>
+<p>乙：有学了。那逗呢，认罪还能把人给逗乐了？</p>
+<p>甲：认罪嘛，必须要进行激烈的思想斗争……</p>
+<p>乙：哦，这么个斗啊。那唱呢？</p>
+<p>甲：（做抹眼泪状）一想到难过之处，我就忍不住要唱：</p>
+<p>铁门啊铁窗啊铁锁链</p>
+<p>手扶着铁窗我望外边</p>
+<p>外边地生活是多么美好啊</p>
+<p>何日重返我的家园</p>
+<p>条条锁链锁住了我</p>
+<p>朋友啊听我唱支歌</p>
+<p>歌声有悔也有恨啊</p>
+<p>伴随着歌声一起飞</p>
+<p>月儿啊弯弯照我心</p>
+<p>儿在牢中想母亲</p>
+<p>悔恨未听娘的话呀</p>
+<p>而今我成了狱中人</p>
+<p>月儿啊弯弯照娘心</p>
+<p>儿在牢中细思寻</p>
+<p>不要只是悔和恨</p>
+<p>洗心革面重做人</p>
+<p>乙：行了行了，别唱了！说了这么半天，你到底要认什么罪啊？</p>
+<p>甲：我也在想啊！你说现在都那么多名人上电视认罪了，我也要奋起直追啊……</p>
+<p>乙：听着就不像话！</p>
+<p>甲：我干别的没机会上电视，认罪还没有机会上电视吗？</p>
+<p>乙：你听听，这都什么追求！</p>
+<p>甲：可是我认什么罪呢？这杀人放火，咱没胆子；贪污受贿，咱没权；吸毒嫖娼赌博，咱没钱。咱屌丝一个，能认什么罪呢？</p>
+<p>乙：这得好好想想！</p>
+<p>甲：我想出来了！</p>
+<p>乙：想出什么来了？</p>
+<p>甲：我挖坑！</p>
+<p>乙：挖坑？</p>
+<p>甲：最近不是有一挖坑的，把大街都给挖塌了？</p>
+<p>乙：是有这么一位。</p>
+<p>甲：他挖坑，我也挖坑！</p>
+<p>乙：人家是在德胜门挖的，你在哪挖？</p>
+<p>甲：我在天安门挖！</p>
+<p>乙：那可是个好地方！</p>
+<p>甲：一大早天不亮我就出来了！开着挖掘机我就上了长安街！</p>
+<p>乙：哎，哎，挖掘机哪来的？</p>
+<p>甲：我家旁边正拆迁呢，我趁早上还没上工，偷的。</p>
+<p>乙：偷的？你会开吗？</p>
+<p>甲：也不知怎么的我上去就能开。开着我就上了长安街，一路上也没遇到什么人。到了天安门广场，一穿制服的把我拦住了。</p>
+<p>乙：看看，被拦住了吧？</p>
+<p>甲：“同志，证件！”我上哪找证件去呀……我四处一寻摸，有了！驾驶座旁边就搁着一份也不知是什么文件。我看也没看就给他递过去了。</p>
+<p>乙：那能行吗？</p>
+<p>甲：也别说，穿制服的看了一眼文件，朝我一挥手，让我进去了！</p>
+<p>乙：这就让你进去啦？</p>
+<p>甲：进去我就开挖。刚要挖还没挖，就见另一个穿制服的大老远举着个手就朝我跑过来了……</p>
+<p>乙：完了吧！</p>
+<p>甲：他气喘吁吁地跑到我跟前，给我递了根烟，说：“同志，您来太早了。”</p>
+<p>乙：太早？</p>
+<p>甲：“本来说好下午才拆迁的，您行个方便，上午我们这还要接待外国国家领导人那！”</p>
+<p>乙：嘿！</p>
+<p>甲：我一听敢情我帮忙拆迁来了，赶紧走吧！</p>
+<p>乙：拆天安门？怎么不拆中南海呀？</p>
+<p>甲：我也这么问呀。</p>
+<p>乙：对方怎么能回答的？</p>
+<p>甲：人家冲我一乐：“您别急，明天就拆去！”</p>
+<p>乙：好嘛！</p>
+<p>甲：我一看这招失败了啊，还得想别的辙啊。</p>
+<p>乙：又动上脑筋了。</p>
+<p>甲：我想啊想啊想……有了！</p>
+<p>乙：又想出什么馊主意来了？</p>
+<p>甲：我当黑客！最近不是有一个什么少年黑客，才十七岁，就骗了十几个亿？</p>
+<p>乙：这可是个有技术含量的事，你能行吗？</p>
+<p>甲：你别担心！像咱这种宅男，别的不会，这玩个电脑啊、编个程啊、当个黑客啊，都不在话下，哈哈……（拍乙肩膀。）</p>
+<p>乙：（躲闪）我担什么心啊！</p>
+<p>甲：我自己写了个程序，拿它来扫描各个网站的系统，找哪里有漏洞。我找啊找啊找……叮！还真让我给找到了！</p>
+<p>乙：这怎么还带声的啊！</p>
+<p>甲：我自己编的程序，找到漏洞就“叮”的一声。我一看，是一银行的网站，还是香港的。吱溜一声我就钻进去了……</p>
+<p>乙：耗子呀！</p>
+<p>甲：黑进去以后我就到处留言，“XXX（甲名）到此一游。”</p>
+<p>乙：你不怕人家把你抓着？</p>
+<p>甲：不把我抓着我怎么上电视认罪啊？</p>
+<p>乙：我把这茬给忘了。</p>
+<p>甲：我在家等他们来找我，等了好几天，一点动静都没有。</p>
+<p>乙：着急了？</p>
+<p>甲：又过了几天，突然发现支付宝上有人给我汇了一大笔钱！吓我这一大跳，咱这辈子都没见过这么多钱……</p>
+<p>乙：哟，这是怎么回事？</p>
+<p>甲：对方还留了个言。</p>
+<p>乙：什么内容？</p>
+<p>甲：“这点小费请先生笑纳。本行的客户名单还请千万保密不要外泄。”</p>
+<p>乙：咳！</p>
+<p>甲：我又失败了！</p>
+<p>乙：看你还能有什么幺蛾子！</p>
+<p>甲：唉，实在不行，我只好……（小声嘟囔）</p>
+<p>乙：你说什么？我没听见。</p>
+<p>甲：我说实在不行，我只好……（继续小声嘟囔）</p>
+<p>乙：你大点声行不行？</p>
+<p>甲：（大声）我说实在不行，我只好去当五毛了！（捂嘴）</p>
+<p>乙：（摇头）唉，让我说你什么好！年轻人，干点什么不行，怎么能去干五毛这种缺德事呢？一人做五毛，祖孙三代脸上无光；将来等你老了，怎么给自己的孙子讲这段不堪回首的往事；等你到了另一个世界，怎么有脸见列祖列宗……</p>
+<p>甲：行了行了。别瞧不起我们五毛，我们五毛中也出了不少名人！像那个司马南……</p>
+<p>乙：就是夹头那个。</p>
+<p>甲：还有那个芮成钢……</p>
+<p>乙：嗯，听说艳福不浅！</p>
+<p>甲：还有周小平、花千芳，最近还有那个徐岚……</p>
+<p>乙：你瞧瞧这都是些什么人！</p>
+<p>甲：要说这些人里，我最佩服的就要算芮成钢了。</p>
+<p>乙：他现在都进去了，你佩服他什么啊？</p>
+<p>甲：你想，他本来就在央视工作，回头再上央视认个罪，多有回家的感觉！</p>
+<p>乙：你还想着这事呢？</p>
+<p>甲：我当了五毛之后就整天在网上骂人，什么贺卫方陈丹青了，什么公知大V了，逮谁骂谁……</p>
+<p>乙：你还真够能的！</p>
+<p>甲：那天，我正在家里写一篇大文章……</p>
+<p>乙：哦？你也能写文章？什么题目？</p>
+<p>甲：《论如何用中国特色社会主义理论来指导带鱼养殖业》。</p>
+<p>乙：嘿！这题目好！写这么篇文章要是才赚五毛，也太便宜了吧？</p>
+<p>甲：起码得值十个五毛！我正在电脑前专心致志地写呢，就听见外面有人在嚷嚷：“哎！拆迁了拆迁了！”</p>
+<p>乙：“啊？”</p>
+<p>甲：我回头朝窗户这么一看，只见一辆吊车冲着我家房子就过来了。急得我是大喊一声——</p>
+<p>乙：然后怎么样了？</p>
+<p>甲：然后，然后我就醒了！</p>
+<p>乙：噢，敢情是梦呀！</p>
+<p>甲：我说我怎么上了挖掘机就能开呢，原来都是梦一场。</p>
+<p>乙：这个梦挺有意思的。</p>
+<p>甲：醒来之后我就把这个梦写下来，发到了网上。</p>
+<p>乙：有什么反响没有？</p>
+<p>甲：你别说，反响还真不小！第二天一大早我还没起呢，就听咣咣咣的敲门声——</p>
+<p>乙：这怎么回事？</p>
+<p>甲：“查水表！”我一开门，俩穿制服的就把我带走了。</p>
+<p>乙：哈……这下可以认罪了。</p>
+<p>甲：我说：“呵……警察同志，我要认罪你能放我走吗？”</p>
+<p>乙：警察怎么说？</p>
+<p>甲：“你真的认识到错了吗？”我说：“呵……真认识到了。”警察同志说：“认识到错了，就要认真接受惩罚。企图通过认罪来逃避惩罚，说明你还没有真正认识到错了！”</p>
+<p>乙：嘿！这逻辑还真严密。</p>
+<p>甲：我一听我白认了啊。这时又进来另一位警察同志，看上去挺和蔼，他冲我这么一乐，说：“XXX（甲名），你这问题呢也不严重，你认个错，写个悔过书，我们就放你回家。”</p>
+<p>乙：你怎么说的？</p>
+<p>甲：我说，我不能写悔过书，因为写悔过说明我想逃避惩罚。我真心认识到自己错了，决心为国家服一辈子刑、砸一辈子碱，所以我坚决不写悔过书。</p>
+<p>乙：嘿！那这事最后怎么解决的？</p>
+<p>甲：最后经过警察同志反复做思想工作，我终于答应认罪了！</p>
+<p>乙：你认什么罪啊？</p>
+<p>甲：我胡乱做梦，对不起国家。</p>
+<p>乙：这就完了？不够深刻！得好好反思，深挖犯罪根源！</p>
+<p>甲：我平时一贯表现不好，我过马路闯过红灯，随地乱扔过垃圾，用过盗版软件，看过盗版电影……</p>
+<p>乙：避重就轻！</p>
+<p>甲：我制造了苏联解体，发动了海湾战争，我还跟周永康沆瀣一气，预谋发动第三次世界大战……</p>
+<p>乙：……</p>
+<p>甲：这几年我混进了知识分子队伍，在改革开放形势一片大好的今天，我按耐不住反革命野心，公然从阴暗的角落里跳了出来，扇阴风点鬼火，或造谣于街头，或策划于密室，拉少年下水，诱少女上床，唯恐天下不乱，企图乱中夺权，大有炸平庐山停止地球转动之势！</p>
+<p>乙：……</p>
+<p>甲：本人在运动中所犯的错误和罪行，在一定程度上延缓了本单位运动的进程，削弱了群众对党组织一元化领导的信心，干扰了无产阶级革命路线，破坏了党中央毛主席的伟大战略部署，客观上配合了帝、修、反向党的猖狂进攻……真是罪该万死！经过党组织和群众的批判教育，本人深刻地认识到，如果没有党的绝对领导，资本主义就会复辟，中国就会陷入动乱，千百万人头就会落地……</p>
+<p>（完）<br>
+阅读次数:767</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E5%86%99%E4%BD%9C%EF%BD%9C%E5%88%98%E8%8D%BB%EF%BC%9A%E8%AE%A4%E7%BD%AA%EF%BC%88%E7%9B%B8%E5%A3%B0%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%A4%A7%E5%B0%B8%E5%87%B6%EF%BC%9Axx%E9%9D%92%E5%B9%B4%E5%83%8F/" target="cdt-mirror">【麻辣总局】大尸凶：XX青年像</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/1987987811/CsRtqwDhh">@大尸凶的漫画</a>： XX青年像[偷笑]#大尸凶的漫画#</p></blockquote>
@@ -643,132 +850,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%88%98%E4%BA%89%E6%8C%87%E5%AF%BC%E8%89%BA%E6%9C%AF%E7%9A%84%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BD%A0/" target="cdt-mirror">【异闻观止】战争指导艺术最高境界就是“你打你的、我打我的”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/01/20130615024247225.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/01/20130615024247225.jpg" alt="鸡血疗法" width="364" height="442"></a><br><em>（网络图片）</em></p>
-<p><strong>原标题：解放军报｜战略思想，历史的财富和未来的制胜法宝——感悟共产党人领导抗战赢得胜利之战略战术的伟大魅力</strong></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%911932%E5%B9%B4%E5%85%B1%E5%86%9B%E9%A2%86%E5%AF%BC%E6%8A%97%E6%88%98%E7%AC%AC%E4%B8%80%E5%A4%A7%E6%8D%B7%EF%BC%9A%E7%89%BA/">【异闻观止】共军领导“抗战第一大捷”：牺牲7人 歼敌3500</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4-%E4%B9%9F%E9%9C%80%E8%A6%81%E7%BB%9F%E4%B8%80/">反法西斯战争胜利70周年 也需要统一口径</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%98%AF%E5%85%A8%E6%B0%91%E6%97%8F%E6%8A%97%E6%88%98/">人民日报｜中国共产党是全民族抗战的中流砥柱</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8A%97%E6%97%A5%E7%9A%84%E4%B8%BB%E6%88%98%E5%9C%BA%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%A8%E6%A8%AA%E5%BA%97/">【网络民议】抗日的主战场原来是在横店</a></li>
-</ul></blockquote>
-<p> </p>
-<p><strong>战略思想，历史的财富和未来的制胜法宝</strong></p>
-<p><strong>——感悟共产党人领导抗战赢得胜利之战略战术的伟大魅力</strong></p>
-<p><em>军报记者：柴永忠 徐文耀 黄昆仑</em></p>
-<h3><strong>万众一心是最大的战略，也是最大的力量</strong></h3>
-<p>一个只知有家不知有国的民族，注定是“一盘散沙”不堪一击！</p>
-<p>甲午硝烟未散，一个日本官员溜到湖北沙市，惊讶地发现这座城市里，上至官员下至百姓，竟然无人知晓那场还未走远的战争，只沉醉于过自己的太平日子。</p>
-<p>“以北洋一隅之力，搏倭人全国之师”——官员为私利计，民众作壁上观，这样的战争焉能不败？</p>
-<p>正是抱着中国“是在一个自治部落的地区加上了国家这一名称而已”的认识，日本再次发动蓄谋已久的侵华战争。他们赌的是，内战频仍、军阀割据下的中国，仍会是各打各的算盘，仍旧是可以一击即溃的“一盘散沙”。</p>
-<p>然而历史并没有重演。以毛泽东为代表的中国共产党人以敏锐的战略眼光洞察到民族矛盾开始上升为当时中国的最主要矛盾，主动驱散“四一二”血雨腥风留下的阴霾，主动解开国共十年血战结下的“死结”，再次推动国共合作，及时提出建立抗日民族统一战线的战略思想，并成为这条路线的最先发起者、有力组织者和可靠领导者。</p>
-<p>这需要怎样博大的胸怀和非凡的胆略？然而为了国家和民族的根本利益，中国共产党做到了。</p>
-<p>因为有了中国共产党，一个民族的力量被空前激发出来；因为有了中国共产党，“一盘散沙”聚变成“万众一心”。</p>
-<p>“有钱出钱，有枪出枪，有知识出知识”“士兵战死，有百姓来抵；丈夫战死，有妻子来抵”。这种力量排山倒海，这种团结无坚不摧。毛泽东曾这样感慨：“政治上动员军民的问题，实在是太重要了！我们之所以反反复复地说到这一点，实在是没有这一点就没有胜利。”</p>
-<p>共产党人牢牢抓住兵民这一胜利之本，让“每个士兵每个人都明白为什么要打仗，打仗和他们有什么关系”；把每一个农民都发动起来，“只要组织和指挥得当，能使日本军队一天忙碌二十四小时，使之疲于奔命”。</p>
-<p>据日军战史记载：“共产党地区的所有民众，连妇女、儿童也用竹篓帮助运送手榴弹，我方有的部队因无戒备而突进，被手执大刀的敌人奇袭、包围而陷于苦战。”</p>
-<p>为什么中国共产党能够扛起全民族抗战的大旗，能够团结动员90%的中国民众同仇敌忾齐心抗战？因为她始终把人民利益高高举过头顶，她以前赴后继的牺牲精神感染了人民，她以抗战到底的实际行动赢得了人民。</p>
-<p>为了团结一切可以团结的力量，中国共产党通过兼顾各阶级利益的减租减息政策，改善了农村社会的生产关系；通过各级政权组织的“三三制”建设，实现了中国社会从未有过的政治民主；通过精兵简政和大生产运动，解决了战争需要和民众生活兼顾问题，密切了军队与人民的鱼水关系……</p>
-<p>得到人民支持的共产党领导下的抗日武装，就如同战斗的安泰从大地母亲身上源源不断地获取制胜力量。辽阔的华北平原上，为了应对日寇的疯狂“扫荡”，广大抗日军民开动脑筋积极行动起来，他们改造道路，使敌人的汽车、坦克无法通过，抗日武装的大车、马车却可畅通无阻；他们把村庄用地道连起来，开展地道战，使敌人不敢进庄，进去又很难出来，抗日武装却来往自如……</p>
-<p>时任《纽约时报》记者的哈里逊·福尔曼在他的《来自红色中国的报告》中写道：“凡见到过八路军的都不会怀疑他们，他们所以能以缴获的武器或简陋的武器坚持作战，就是因为他们与人民站在一起。”</p>
-<p>与人民站在一起，凝聚起万众一心的力量——任何时候任何情况下，这都是跨越千沟万壑、战胜千难万险的胜利选择！</p>
-<h3><strong>战争指导艺术的最高境界，就是“你打你的、我打我的”</strong></h3>
-<p>在近代抵御外来侵略的历次战争中，中国人民的牺牲精神惊天地、泣鬼神，为何收获的却是一次次失败？抗日战争何以能在艰苦卓绝中赢得最后荣光？答案就在于有没有科学的战争指导和正确的战略战术。前者解开思想的困惑，后者破除实践的难题。</p>
-<p>1936年夏，陕北保安县城的一孔窑洞里，毛泽东与远道而来的美国记者埃德加·斯诺彻夜长谈。</p>
-<p>对毛泽东的谈话，斯诺后来有清楚的记述：“他（毛泽东）要我预先设想到日本将赢得所有重大的战斗……继后产生的是一个持久斗争的局面，在这个局面中，红军游击队将起主要作用……”</p>
-<p>在两年后发表的《论持久战》中，毛泽东作出判断：中国不会亡，也不会速胜，抗日战争是持久战……</p>
-<p>许多国民党将领对《论持久战》深为叹服，将其归纳成“积小胜为大胜，以空间换时间”，作为全国抗战的指导思想。</p>
-<p>那是“漫漫长夜”中投射到中华民族身上最具穿透力的真理之光！战争的发展进程印证了毛泽东这位“窑洞里的预言家”的非凡洞察力。而将思想的洞察力转化为行动的战斗力的关键就在于八个字：你打你的、我打我的。</p>
-<p>日本侵略者是想和中国打速决战的。大兵团作战是装备精良、训练有素的日军擅长的作战方式。早在1874年，日本驻华公使柳原前光就说，中日如果发生战争，“我求利在于速决，彼求利在于缓慢。”抗战之初，日寇叫嚣“三个月解决支那事变”，狂妄之中也夹杂着“速决”的战略企图。</p>
-<p>淞沪会战、太原会战、徐州会战……国民党军队的抵抗可谓英勇。但是，与敌人打堂堂之阵的阵地战，拿主力机械地去硬拼，不仅自己陷入被动挨打的境遇，被敌人各个击破，无形中也正中了日军的下怀。</p>
-<p>毛泽东一针见血地指出，要想取得抗战胜利，形成有利于我而不利于敌的战争格局，中国军队就绝不能按照日军希望的方式作战，必须扬我之长击敌之短，瞄着敌人的软肋和死穴打，着眼于发挥我们的优势打，即“你打你的、我打我的”。</p>
-<p>从白山黑水到海岛琼崖，从万山丛中到青纱帐里，八路军、新四军等共产党领导的抗日武装，坚持“基本的是游击战，但不放松有利条件下的运动战”的战略方针，分散以发动群众、集中以歼灭敌寇，避敌锋芒、击敌惰归，带领广大军民零敲“牛皮糖”，散吃“豆腐块”，使日寇顾此失彼深陷泥潭。</p>
-<p>这笔账中日双方都在算：</p>
-<p>1941年后，抗战进入最艰苦时期。华北200余县的抗日武装提出任务：一个县一天至少打死一个鬼子，每月就能击毙日军6000人，这样就能“积小胜为大胜”。</p>
-<p>日军华北方面军军官加登幸太郎后来回忆：“我在任时，整个方面军一天平均死伤50名。50名虽不多，但一年就有18000人离开战列，是大消耗战。”</p>
-<p>广大敌后战场上，共产党领导的抗日武装把游击战的战略战术运用得游刃有余：你打你的速战速决，我打我的持久深入；你打你的“铁壁合围”，我打我的“各个击破”；你打你的围剿战、扫荡战，我打我的地雷战、地道战、“麻雀战”，始终把战场的主动权牢牢攥在自己手中。</p>
-<p>许多年后仍为中国人津津乐道的地道战，就是对付日伪军“扫荡”产生的战术创举。仅在冀中平原，抗日武装就挖出1.25万里地道，形成了村村相连、户户相通的“地下钢铁长城”。美军观察员艾斯·杜伦考察抗日根据地期间，遭日军包围，最后钻进地道脱险。他对杨成武将军说，“冀中的地道是万能的，中国一定能胜利”。</p>
-<p>中国能胜利，胜在以毛泽东为代表的共产党人驾驭战争的自信与自如。“你要打，我不打；我要打，你不得不打；你打我时，打不到，摸不着；我打你时，打得准，打得狠”——“你打你的、我打我的”本质在于掌握了战争主动权。而谁掌握了战争主动权，谁就站在了胜利一边。</p>
-<h3><strong>从战略上谋势布局创建“根据地”，打造撬动胜利的支点</strong></h3>
-<p>阿基米德曾说：“给我一个支点，我就能撬动地球。”</p>
-<p>在波澜壮阔的抗日战争中，中国共产党领导并创建的敌后抗日根据地，就是决定战争走向和成败的战略支点。</p>
-<p>毛泽东早在土地革命战争时期就着重说明了建立根据地的“支点”意义。他生动地比喻道：革命要有根据地，就像人要有屁股，人若没有屁股，便不能坐下来；要是老走着，老站着，定然不会持久；腿走酸了，站软了，就会倒下去。革命有了根据地，才能够有地方休整，恢复气力，补充力量，再继续战斗，扩大发展，走向最后胜利。</p>
-<p>在抗战中，毛泽东从中国基本国情和地缘特征出发，进一步发展了其根据地思想，创造性地将深入敌后发动群众创建抗日根据地，转化为决定抗战走势的神来之笔。</p>
-<p>1937年秋，开赴华北前线的八路军115师，遇到了从前方退下来的国军士兵，他们对八路军说，日本人的炮火打得铺天盖地，现在上前线就是去送死。</p>
-<p>八路军不为所动，就是要反其道而行之，趁日军主力专注于正面进攻之机，“敌进我进”将战火引向敌后，让战争流动起来，让战场活跃起来，将一把把尖刀插向敌人的腹心。平型关大捷、阳明堡夜袭、响堂铺伏击……一记记重拳粉碎了日军“不可战胜”的神话。</p>
-<p>纵览8年全面抗战，像这样正面战场国民党军队大面积溃退，共产党军队却大踏步前进的状况，屡见不鲜。小米加步枪的共产党军队，何以在黑云压城之际敢于迎敌而上呢？</p>
-<p>毛泽东的回答是，中国的地理条件，“东方不亮西方亮，黑了南方有北方”，是抗日战争“一个重要的甚至是第一个重要的条件”。针对日本兵力少而要疯狂占领中国广大领土的矛盾，毛泽东要求我军深入敌后，普遍发展游击区，建立巩固的抗日根据地，造成你中有我、我中有你的战略态势，与敌人进行犬牙交错的缠斗。</p>
-<p>这一犬牙交错的战争形态，毛泽东形象地称之为围棋“做眼”：“敌对于我我对于敌之战役和战斗的作战好似吃子，敌之据点和我之游击根据地则好似做眼。在这个‘做眼’的问题上，表示了敌后游击战争根据地之战略作用的重大性”。</p>
-<p>如果把抗日战争比作一场大棋局，毛泽东无疑是雄才伟略的“国手”。他没有在开局时把目光仅仅放在“吃子”上，而是在日军控制薄弱的广大农村巧妙“做眼”，打开了展现人民战争威力的广阔空间。面对这种始料不及的战争格局，狂妄的日寇不得不放弃速战速决的战略进攻。</p>
-<p>随着战局的发展，八路军在华北的活动区域占了敌占区面积的80%，日军不得不龟缩在大中城市和交通线上，成为一条条“无眼”的“困龙”动弹不得。作家王树增在其著作《抗日战争》中写道：“之所以说日军对中国的占领是‘名义上’的，指的是侵华日军实际上已经没有了后方。没有后方的军队是悲惨的。没有后方的战争注定失败。”</p>
-<p>与日寇相比，敌后根据地却成为中国抗日军民最可靠的大后方。在抗战最艰苦的时期，广大群众积极参加共产党领导的抗日武装斗争，为战争提供物资支持，担负后勤保障任务，积极参加运输队和担架队，运送物资，救治伤员，直接或间接地援助军队作战，为夺取抗战胜利奠定了坚实的物质和人力基础。</p>
-<p>1938年4月，卫立煌眼看晋南危险，请八路军将其所部在临汾、运城的军火和物资运走。卫立煌很惊讶地看见“八路军把赵城、临汾和洪洞等五个县的农民和四五百辆大车都调动起来了，把东西都运走了，直到日军快要到了临汾城的东门，他们的最后一辆大车才离开临汾城的西门”。</p>
-<p>当1945年春天到来的时候，中国共产党领导的抗日根据地已遍及大江南北，总面积约95万平方公里，人口近1亿。依托抗日根据地，广大抗日武装在艰苦卓绝的条件下，愈挫愈强、愈打愈多，人民军队抗战之初仅有4万多人，到抗战结束时，已发展壮大成百万大军。</p>
-<p>支点，就是各种力量的支撑和依托。高瞻远瞩的政略、灵活机动的战术、英勇善战的军队、视死如归的战士、舍家报国的民众……这些抗击日本侵略者的核心要素，凝铸成一根降妖除魔的“金箍棒”，通过“根据地”这一战略支点，撬开了抗日战争的胜利之门。</p>
-<h3><strong>弘扬伟大战略思想，在强军兴军征程上奋力前行</strong></h3>
-<p>1960年5月，英国元帅蒙哥马利造访中国军营，临走留下了这样的评价：“不要同中国军队在地面上交手，这要成为军事家的一条禁忌，谁打中国，进得去出不来！”1962年中印战争期间，有记者问前美国远东军司令麦克阿瑟，他说：“谁想跟中国陆军打仗，一定有病。”</p>
-<p>两位二战骁将为何结论高度一致？那支看上去装束有“几分土气”的东方军队，在两位老兵的眼中为何散出谜一般的光芒？他们或许永远无法窥其堂奥：这支军队之所以所向披靡，源于这是一支脚踩中国大地、用毛泽东思想滋养、壮大的人民军队！</p>
-<p>习主席深刻指出：“毛泽东思想教育了几代中国共产党人……任何时候都不能动摇高举毛泽东思想旗帜的原则。”70年后的今天，我们走进抗战深处，并不是要从昨天的战略战术中克隆现成答案，而是在于同先哲的心灵叩问里，把握贯穿其思想的立场、观点、方法，探索今天克敌制胜的门匙。</p>
-<p>站在信息化的星空下，面对惊涛拍岸的世界新军事革命大潮，回望引领抗战胜利的思想瑰宝，怎样触到其“活的灵魂”？</p>
-<p>——坚信人民群众是历史的创造者，胜败的关键在人不在物。习主席强调：“人民群众是战争胜利最深厚的伟力”。在战争史上，每当一种新技术、新武器出现，总有一些唯武器论者夸大其词，把先进武器说成是主宰战场、决定胜负的东西，抗日战争以劣胜优的伟大胜利，再一次雄辩地证明，决定战争最终胜负的是人不是物，信息化战争也无法改变这一本质规律。</p>
-<p>今天，我们在大力发展武器装备，加快构建适应我军履行新使命要求的装备体系，从“钢少气多”走向“气多钢好”，为实现强国梦强军梦提供强大物质技术保障的同时，更要从根本上牢记这一点。无人化、智能化战争“键对键”的背后，控制它们的仍然是人，是人和武器的高度一体化。从这个意义上说，“重视武器因素也就是重视人的因素”。</p>
-<p>强军兴军，要在得人。破解“两个不相适应”“两个差距很大”的矛盾，培养“四有”新一代革命军人、坚守人民军队的性质宗旨，做好军民融合深度发展的大文章等，都需要我们大力弘扬以爱国主义为核心的民族精神和以改革创新为核心的时代精神，充分激发广大官兵的积极性主动性创造性，集合起中华儿女的集体智慧，凝聚攻坚克难的强大力量，勠力同心，才能形成推进强军兴军事业的强大势场。</p>
-<p>——坚持实事求是，一切从客观实际和发展要求出发。习主席指出：“实事求是是马克思主义的根本观点，是中国共产党人认识世界、改造世界的根本要求，是我们党的基本思想方法、工作方法、领导方法。”在抗日斗争最艰难的时刻，毛泽东发表的《论持久战》《抗日游击战争的战略问题》等一系列光辉著作，立足中国实际，放眼战争全局，将科学理论与斗争实践以及广大抗日军民的创造性有机结合，为抗战胜利指明了方向。</p>
-<p>今天，中华民族正处在“由大向强”关键一跃的关节点上，国防和军队建设也正处于一个历史的交叉口。社会变革深化期、军事变革攻坚期、军队历史使命拓展期并行叠加，军事转型与社会转型“双重攻坚”、机械化与信息化“双重建设”、军事变革与军事斗争准备“双重任务”交织互动。挑战前所未有，认清这个实际是做好一切工作的前提。越是处在国家和民族的重大关头，越是处在建设、发展和改革的关键时期，我们就越需要从党情国情军情实际出发，充分发挥思想理论的引导作用，坚持问题意识、问题导向，增强辩证思维能力，提高驾驭复杂局面、处理复杂问题的本领，加快推进国防和军队现代化建设，创造无愧于时代的业绩。</p>
-<p>——坚定走中国特色强军之路，为实现强军目标提供可靠保证。战略的最高原则是“致人而不致于人”。抗日战争留给后人拨动心弦的一幕是：鬼子张牙舞爪处处碰壁，我军机动灵活时时显威。这是共产党人独立自主、坚持走自己的路创造的战争奇迹，闪耀着东方哲学的智慧之光。</p>
-<p>习主席强调，在马克思主义军事理论、中国革命战争和人民军队建设实践、中华传统兵法相结合的过程中，我们党靠不断创新，逐步形成了一整套建军治军的原则和制度，创造了人民战争的战略战术，形成了我军的特有优势。</p>
-<p>建设与我国国际地位相称、与国家安全和发展利益相适应的巩固国防和强大军队，“睁眼向洋看世界”是必要也是必需的，但无论哪国哪军的“模式”，“拿来主义”必须接中国地气，跟在别人后面亦步亦趋是没有出路的。我们必须保持战略清醒，增强战略定力，处理好战争与政治的辩证关系，把战争问题放在实现中华民族伟大复兴这个大目标下来认识和筹划；必须进一步解放思想，尤其应在破除思维定势，树立与强军目标要求相适应的思维方式和思想观念上下大气力；必须推动军事战略创新发展，深钻细研现代战争制胜机理，大力推进信息化条件下人民战争的战法研究，使我军灵活机动的战略战术焕发出新的时代光彩。</p>
-<p>“守不忘战，将之任也；训练有备，兵之事也”。今天，思想的淬火，是为了明天的战胜。重整行装再出发，强军路上，我们永远是一支“思想领先”的胜利之师、威武之师！</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%88%98%E4%BA%89%E6%8C%87%E5%AF%BC%E8%89%BA%E6%9C%AF%E7%9A%84%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BD%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3/?category=18271" rel="tag">我反正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E4%B8%BB%E5%8A%9B/?category=18271" rel="tag">抗日主力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/" target="cdt-mirror">【网络民议】这不叫污染啥子叫污染</a>
-</h2>
-<p><p>7月23日，有成都网友在微信朋友圈发布的彭州石化项目排污图引起大量本地网友的转发和关注，从图片中可以看到，该石化基地的厂区的两根烟囱在晴好的傍晚天气下发出滚滚黑烟…..</p>
-<blockquote><p>彭州石化项目从最初修建就遭到专业环境人士的质疑与<a href="http://chinadigitaltimes.net/chinese/2013/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%88%90%E9%83%BD%E7%A7%B0%E6%BB%A1%E5%9F%8E%E8%AD%A6%E5%AF%9F%E4%B8%BA%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83%E9%81%AD%E8%B4%A8%E7%96%91/" target="_blank">当地民意的反对</a>，但在<a href="http://chinadigitaltimes.net/chinese/2014/04/%E7%9E%AD%E6%9C%9B%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%9E%E5%BE%97%E6%98%AF%E5%BD%AD%E5%B7%9E/" target="_blank">中石油四川石化公司和地方政府</a>的一意孤行下通过，四川作家谭作人亦部分因参与反对彭州石化的行动而受<a href="http://chinadigitaltimes.net/chinese/2014/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%9B%9B%E5%B7%9D%E4%BD%9C%E5%AE%B6%E8%B0%AD%E4%BD%9C%E4%BA%BA%E5%88%91%E6%BB%A1%E8%8E%B7%E9%87%8A-%E5%86%8D%E5%85%A5%E5%A4%A7%E7%9B%91%E7%8B%B1/" target="_blank">打压判刑</a>，成都当局为石化项目护航甚至多次<a href="http://chinadigitaltimes.net/chinese/2013/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%88%90%E9%83%BD%E7%A7%B0%E6%BB%A1%E5%9F%8E%E8%AD%A6%E5%AF%9F%E4%B8%BA%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83%E9%81%AD%E8%B4%A8%E7%96%91/" target="_blank">打压了民众的游行示威计划</a>，项目最终在一片“<a href="http://chinadigitaltimes.net/chinese/2013/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%9B%9B%E5%B7%9D%E7%9F%B3%E5%8C%96%EF%BC%9A%E5%BD%AD%E5%B7%9E%E9%A1%B9%E7%9B%AE%E5%B0%86%E6%98%8E%E6%98%BE%E6%94%B9%E5%96%84%E6%88%90%E9%83%BD/" target="_blank">无污染、很安全</a>”的官方赞誉声中于2014年初投入运营，如今污染问题开始显现……</p></blockquote>
-
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4p91hmj20hs0vk77d/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4p91hmj20hs0vk77d-150x150.jpg" alt="6d8c4e55jw1eucr4p91hmj20hs0vk77d"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4qb1ozj20a00hs0ue/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4qb1ozj20a00hs0ue-150x150.jpg" alt="6d8c4e55jw1eucr4qb1ozj20a00hs0ue"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4r2we3j20a00hs3zw/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4r2we3j20a00hs3zw-150x150.jpg" alt="6d8c4e55jw1eucr4r2we3j20a00hs3zw"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4s6onij20hs0vkn1b/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4s6onij20hs0vkn1b-150x150.jpg" alt="6d8c4e55jw1eucr4s6onij20hs0vkn1b"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4ugjtqj20hs0vkq7w/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4ugjtqj20hs0vkq7w-150x150.jpg" alt="6d8c4e55jw1eucr4ugjtqj20hs0vkq7w"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4vn32dj20hs0vkn0s/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4vn32dj20hs0vkn0s-150x150.jpg" alt="6d8c4e55jw1eucr4vn32dj20hs0vkn0s"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4wjo35j20a00hsjsk/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4wjo35j20a00hsjsk-150x150.jpg" alt="6d8c4e55jw1eucr4wjo35j20a00hsjsk"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4xdmexj20a00hsjsm/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4xdmexj20a00hsjsm-150x150.jpg" alt="6d8c4e55jw1eucr4xdmexj20a00hsjsm"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/6d8c4e55jw1eucr4y5bj9j20hs0ns77s/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/6d8c4e55jw1eucr4y5bj9j20hs0ns77s-150x150.jpg" alt="6d8c4e55jw1eucr4y5bj9j20hs0ns77s"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/686a9ef6jw1eucpcdvtxpj20k00rnmzq/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/686a9ef6jw1eucpcdvtxpj20k00rnmzq-150x150.jpg" alt="686a9ef6jw1eucpcdvtxpj20k00rnmzq"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/686a9ef6jw1eucpcf32dbj20f00n7dh4/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/686a9ef6jw1eucpcf32dbj20f00n7dh4-150x150.jpg" alt="686a9ef6jw1eucpcf32dbj20f00n7dh4"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/7133f35djw1eucoa4wr24j20hs0hsjt1/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/07/7133f35djw1eucoa4wr24j20hs0hsjt1-150x150.jpg" alt="7133f35djw1eucoa4wr24j20hs0hsjt1"></a>
-
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>sizher44：今天全成都的朋友圈都被彭州石化刷了个屏！</p>
-<p>WQH汪清华：看着这股浓浓的黑烟点缀在蓝天白云下，身为成都人，你是否觉得深受其害，彭州Px项目，或许真的是成都人的梦魇，生活在这片蓝天下的成都人，都成了坚强的空气净化器。这就是要治理环境污染的开始吗？相关部门、领导还有生活在这个地区的朋友们你们怎么看？为了我们的健康都贡献一份力量–转发吧</p>
-<p>新闻已死：虽然我不怎么反对石化工程，但彭州这个选址着实操蛋。</p>
-<p>疯癫的尼采：周永康那个狗杂种要是判死刑，我举双手赞成，不为别的，就为那狗日的不顾成都市民的反对修建彭州石化，搞得现在成都的天气一年有一半的时间笼罩在雾霾之中，天府之国已经不复存在。</p>
-<p>maoxinyu1949：今天朋友圈刷爆了，成都#彭州石化项目，身为成都人我只想说有卵用。当初彭州人抵制的时候，你们喝好吃好 ，屁都不恩一声 。今天的转发就只是凑热闹而已，兲朝人 就这鸡巴艹蛋。</p>
-<p>jia_wu038：真心不知道政府的做为是为人民服务 还是为害人民 成都市彭州石化基地，距离成都市区三十多公里，傍晚晴空万里实拍图，这要让成都人民如何生存？政府到底管不管人民死活！！！</p>
-<p>keyi_bu：午饭时，同事说起彭州石化那两冒黑烟的火炬。分析可能是事故乙炔火炬，就是为了出小问题时用来燃烧乙炔用的。</p>
-<p>zhuziyi：#成都彭州石化 #PX项目 民众“散步”的时候彭州石化项目早就审批下来了，且中石化送出去的礼是不能收回来的，政府迫于压力必须建设这个项目，现在都在冒黑烟了，才到朋友圈发有何意义？当初的警告当放屁，周永康已倒台是不是该拆得了？</p>
-<p>CHE-L：昨天晴空万里彭州PX排放照片却触目惊心，距离成都仅30公里年炼化80万吨乙烯，政府说，PX污染毒性就和咖啡差不多，我想问问，这么壮观的咖啡是摩卡还是拿铁？不传谣不信谣，再过几年去化疗。无论你是不是成都人，都请帮转发，我们不仅为自己呐喊，还为全国所有城市对待PX态度，愿明日灾祸不因今时冷漠。</p>
-<p>TomHsiung：成都还宜居么，谁来保证这些黑烟对生命无害？</p>
-<p>天下糖果雨：今天朋友圈被彭州px污染图刷屏了 当初那些说狗官杂说的呐？没啥子污染？这tm叫没啥子污染？那你干脆搬到那住起 天天吸多吸点！</p>
-<p>戏作三昧：看到朋友圈里大量关于彭州PX的影像，传达的不仅仅是过去和现在，而是要告诉你这些痛彻心扉的无奈是如何成为不想面对的未来。</p>
-<p>伊藤锅魁：成都自从彭州PX项目以后，主流媒体对空气质量一直保持高度一致的沉默。你们鼻子不通都感冒了吗？能否和普通百姓一样能发现空气中弥漫的烟味。</p>
-<p>CD恒娃儿：起初以为是以讹传讹，但图二仿佛真是彭州。彭州是成都县级市里最无下限的，没有之一。因离成都远，高新产业看不起那边，所以政府只有靠引进重工重污染的产业才有利可图。正好应证了一句话，山高皇帝远，彭州除了贪官多，煤老板的豪车也是在灰尘弥漫的大街小巷随处可见。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">px事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/px%E9%A1%B9%E7%9B%AE/?category=18271" rel="tag">PX项目</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96/?category=18271" rel="tag">彭州石化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%AD%E4%BD%9C%E4%BA%BA/?category=18271" rel="tag">谭作人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -780,7 +861,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kd1s58mjs3rf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mgwkqfu36p3z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -790,5 +871,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%
                 <td></td>
                 
         
-        <td><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
 </table>

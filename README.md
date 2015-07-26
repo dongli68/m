@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ir8jl9gpfklx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj9md441h7qvb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%A4%A7%E5%B0%B8%E5%87%B6%EF%BC%9Axx%E9%9D%92%E5%B9%B4%E5%83%8F/" target="cdt-mirror">【麻辣总局】大尸凶：XX青年像</a>
@@ -122,7 +122,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%86%9B/?category=18271" rel="tag">网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E7%BD%97%E6%85%B0%E5%B9%B4%EF%BC%9A%E6%9C%9D%E4%BB%A3%E5%9B%BD%E5%AE%B6%E4%BA%A1%E5%9B%BD%E5%9F%BA%E5%9B%A0%E5%9B%BE%E8%B0%B1/" target="cdt-mirror">共识网｜罗慰年：朝代国家亡国基因图谱</a>
 </h2>
@@ -780,7 +780,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mgwkqfu36p3z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -790,5 +790,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%
                 <td></td>
                 
         
-        <td><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3doptgaqtbfnt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgs00pbm9u9t8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E9%A2%91%E9%81%AD%E5%8F%98%E6%95%85%E5%85%A5%E4%BD%9B%E9%97%A8-%E6%9D%8E%E5%B0%8F%E7%90%B3%E7%B2%BE%E7%A5%9E%E5%8F%97%E5%88%9B%EF%BC%9F/" target="cdt-mirror">外来客｜频遭变故入佛门 李小琳精神受创？</a>
+</h2>
+<p><p>早前就任大唐集团副总经理的李小琳在7月24日前后到内蒙古某公司调研，之后进入一家藏传佛教寺院，身穿佛家衣物，在僧侣围绕间神情虔诚地拜佛。有评论说是因仕途失意，也有消息说是为其父李鹏祈福延寿。但不论如何，作为一个党员，从事此类宗教活动，都有背离中共纪律、信仰之嫌。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/dca2aff58bdb68b9d88d3f3a178e0f31.jpg" alt="dca2aff58bdb68b9d88d3f3a178e0f31" width="550" height="412"><br>
+王林在中国官场如鱼得水般的际遇，以及现今的被调查，折射出中国政治的变化</p>
+<p>而且在近一段时间，中共正在追究“大师”王林。在7月25日，中纪委机关报《中国纪检监察报》还在痛斥“腐败官员大搞封建迷信”现象。李小琳此番拜佛，是又一次“顶风”行为。这可能有她“任性”的因素在，其实也折射出中共党内“不信马列信鬼神”、精神信仰缺乏问题的严重性。其实从人情事理的角度来看，作为一名女性和曾经的“公主”，后来却长年遭受负面评论，近期又频生变故，李小琳不顾中共纪律约束心向佛门，也可能是她内心苦闷、脆弱，甚或濒临崩溃的表现。如此的话，这也是中国政治的一种悲哀。</p>
+<p>中国似乎存在着很多“大师”。周永康“国师”曹永正的问题还没有厘清，之前曾经避风香港的另一位“大师”王林又一次进入舆论场，隐藏王林身后的一长串名单也再次映入观众眼帘。除明星、富商之外，位居上层的官场人物亦有不少。</p>
+<p>近日网间流传一个段子称，“关于王林大师，还有人曾经把他推荐给曾经的最大老板。第一次表演穿着衣服，弄出一堆蛇，老板让他脱的只剩内裤再变一次，啥也没有。王大师叩首感叹，遇到真龙我的法术不灵了。大老板知道他是个骗子，摆手让他离开，推荐人撤职。真事。”相关的评论暗指文中所谓的“曾经的最大老板”是前中共总书记江泽民。如果这一段子所述为真，确是说明江泽民对鬼神玄奥迷信之述的怀疑、排斥态度。</p>
+<p>其实，此前所公开的一些与王林合影的知名人物中，就有时任中央政治局常委的李瑞环、贾庆林和吴官正。当然，合影只能说明王林的人脉、影响力和机缘，并不能由此推测确定与他合影人就一定相信这一套，受其蛊惑。虽然如此，以王林在中国官场如鱼得水般的际遇，还是说明了他的“法术”确实征服到了相当一批政坛人物。</p>
+<p>与王林合影的刘志军习惯烧香拜佛，已经拥有“国师”曹永正的周永康曾经请老和尚做法事，李春城安排道士做法驱邪，杨卫泽被查前巡游寺庙，谷俊山裤兜装着一个小桃木（以“桃”代“逃”，即逃脱纪检调查之意），李小琳遁入空门……本应坚持唯物主义和“无神论”，信任马克思主义的中共高级党员，为何有心向宗教、迷信或邪道之举？</p>
+<p>有媒体报道，李小琳的好友兼佛门长辈赤·仁波切数次在微博上提到李小琳，称赞她“高雅从容、温良恭谦、刻苦求知、向善好施”，“有些人只看到她的家庭的背景，殊不知，偌大一个能源企业的负责人，带领大家探索着为国家作贡献，唯一步一个脚印、踏踏实实方可为之。”李小琳上月中被传因调职而不愉快，赤·仁波切则称“祝福小琳在新的岗位绽放得更加灿烂”。</p>
+<p>赤·仁波切所表达的这些称赞、解释、安慰和祝福，或许是在两人交流时他的常用表态。在外漂泊流浪的人都想有一个心灵的港湾。由于某些原因，李小琳在中国舆论环境中承受相当多的负面压力，仁波切所说应当正是她所需要的，自然很容易产生归属感、依赖感。社会舆论持续数十年的带有恶意的关注，再加上近日本人仕途失意，或许还有精神支柱李鹏病危的因素，李小琳心向佛门也可以理解。</p>
+<p>在一些观者看来，拜佛求师者，多是“内心有鬼”。违反规矩法律党纪者，受到社会负面评价者，身处高处不胜其寒者，遭受打击失意落寞者，外在表现越是强硬故我，甚至铤而走险，内心却越是忧惧不安、空虚脆弱。既然自我麻醉的方式容易出事，这时就越是需要一个人生的“大师”，给予他（她）心理上、精神上的抚慰。其实，这也是其可怜之处。</p>
+<p>除此之外，也可能有一些内心强大之人，能够对外在的负面情事保持免疫和自我恢复能力，总是能为自己所做所为找到解释和台阶。与之相比，一些做“错事”后寻求外在寄托者，倒还是有些可爱之处。</p>
+<p>在历史上，在任何国家和社会之中，上述这样的人都会或多或少地存在着，可能数目还不少。他们数量的多少，与国家社会的健康状况多是呈负相关的关系。也就是说，这样的人越多，越是说明其所在国家社会越不健康，疾患越严重。相应地，他们数量的减少，则说明这个国家社会的好转。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E9%A2%91%E9%81%AD%E5%8F%98%E6%95%85%E5%85%A5%E4%BD%9B%E9%97%A8-%E6%9D%8E%E5%B0%8F%E7%90%B3%E7%B2%BE%E7%A5%9E%E5%8F%97%E5%88%9B%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7%E5%A7%90/?category=18271" rel="tag">道德姐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BD%90%E4%BF%8A%E6%9D%B0%EF%BC%9A%E5%B1%81%E8%82%A1%E6%89%8D%E6%98%AF%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/" target="cdt-mirror">齐俊杰：屁股才是决定房产税的关键因素！</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5390ee71jw1eufv7ngbtej20cy07xdfv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5390ee71jw1eufv7ngbtej20cy07xdfv.jpg" alt="5390ee71jw1eufv7ngbtej20cy07xdfv" width="466" height="285"></a></p>
@@ -273,7 +296,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%A7%E4%BC%97%E7%BD%91-%E7%88%B1%E5%85%9A%E9%9D%92%E5%B9%B4%E8%B0%88%E8%A2%AB%E6%89%93%E5%89%8D%E5%90%8E%EF%BC%9A%E6%88%91%E9%AA%82%E4%BA%BA%E9%83%BD%E6%98%AF%E8%B7%9F%E5%AF%B9%E6%96%B9/" target="cdt-mirror">大众网 | 爱党青年谈被打前后：我骂人都是跟对方学的</a>
 </h2>
@@ -801,51 +824,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E9%97%B2%E4%BA%BA%E8%89%BE%E6%9C%AA%E6%9C%AA/" target="cdt-mirror">博客天下 | 闲人艾未未</a>
-</h2>
-<p><p><strong>艾未未</strong>，艺术家，社会活动家。生于1957年，父亲是著名诗人艾青，早年就读于北京电影学院，后赴美留学，回国后活跃于艺术、影像和社会文化评论领域。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/aiweiwei.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/aiweiwei.jpg" alt="aiweiwei" width="550" height="333"></a></p>
-<p>文：赵良美<br>
-图：尹夕远<br>
-编辑：徐臻</p>
-<p>艾未未拿到了护照。</p>
-<p>就在上个月，他的展览“艾未未”在北京798艺术区举行，展品是将一座有400年历史的明代祠堂拆解后，在两个不同的展览空间内重新组装。</p>
-<p>这是艾未未第一次在国内举办个展。</p>
-<p>一个多月后，他又重获护照。</p>
-<p>7月7日上午，我们在艾未未位于北京东北五环的工作室聊天。“我其实挺闲，但搞得自己很忙，上上网，做点调查、研究，主持展览这种事。”他说。</p>
-<p>话讲到一半，有警察上门来看他。艾未未走去院子，回来告诉我们，说警察讲领导让来看看，“怕你心情不好”。</p>
-<p>艾未未说话声音很小。2005年时，新浪给艾未未开了个博客，他才开始关注这片土地上正在发生的事。此前，他就是纯搞艺术，“从来不知道网上这些事，连打字都不会。”</p>
-<p>2011年，艾未未的护照被收走。自2013年11月30日起，每天早晨，他都在工作室门外的自行车的车篮中放一束鲜花，打算一直放到自己可以随便出门的那天。</p>
-<p>到7月22日，车篮里的鲜花已经绽开600天。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%89%BE%E6%9C%AA%E6%9C%AA-%E9%B2%9C%E8%8A%B1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%89%BE%E6%9C%AA%E6%9C%AA-%E9%B2%9C%E8%8A%B1.jpg" alt="艾未未 鲜花" width="550" height="385"></a></p>
-<p> </p>
-<p><strong>「清单」</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%85%E5%8D%95.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%85%E5%8D%95.jpg" alt="清单" width="638" height="320"></a></p>
-<p>
-</p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%8A%A4%E7%85%A7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%8A%A4%E7%85%A7.jpg" alt="护照 艾未未1981年去美国，是中国最早出国的一批人，12年后回国。“那段时间玩得很high，我没拿美国护照，也没拿学位，也不会开车，也没有积累资金，也没结婚，就这么混着。”" width="638" height="457"></a><p>护照 艾未未1981年去美国，是中国最早出国的一批人，12年后回国。“那段时间玩得很high，我没拿美国护照，也没拿学位，也不会开车，也没有积累资金，也没结婚，就这么混着。”</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%94%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%94%BB.jpg" alt="画 艾未未的儿子画给他的画，上面写着“free aiww”。艾未未的妻子和6岁的儿子现在住在德国，他们已经一年没有见面。" width="638" height="450"></a><p>画 艾未未的儿子画给他的画，上面写着“free aiww”。艾未未的妻子和6岁的儿子现在住在德国，他们已经一年没有见面。</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%89%8B%E9%93%BE%E5%AD%A6%E7%94%9F%E5%8D%A1%E5%A2%A8%E6%B0%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%89%8B%E9%93%BE%E5%AD%A6%E7%94%9F%E5%8D%A1%E5%A2%A8%E6%B0%B4.jpg" alt="手链、学生卡、墨水 汶川地震后，艾未未在都江堰聚源中学的地上捡的。2009年，他发起地震遇难学生调查，学生卡上的高爽是名单中的一个。" width="618" height="796"></a><p>手链、学生卡、墨水 汶川地震后，艾未未在都江堰聚源中学的地上捡的。2009年，他发起地震遇难学生调查，学生卡上的高爽是名单中的一个。</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%8D%89%E6%B3%A5%E9%A9%AC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%8D%89%E6%B3%A5%E9%A9%AC.jpg" alt="草泥马 2009年开始流行网络的恶搞语汇，用来表达不满，艾未未还曾唱过“草泥马之歌”。" width="638" height="451"></a><p>草泥马 2009年开始流行网络的恶搞语汇，用来表达不满，艾未未还曾唱过“草泥马之歌”。</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%AA%A8%E5%A4%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%AA%A8%E5%A4%B4.jpg" alt="骨头 贝壳做的人的胯骨。艾未未的朋友、中山大学教授艾晓明在曾关押劳改犯的甘肃夹边沟捡来送给他的，“因为我父亲也是57年的右派。”" width="638" height="444"></a><p>骨头 贝壳做的人的胯骨。艾未未的朋友、中山大学教授艾晓明在曾关押劳改犯的甘肃夹边沟捡来送给他的，“因为我父亲也是57年的右派。”</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B2%B3%E8%9F%B9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B2%B3%E8%9F%B9.jpg" alt="大闸蟹 2009年，艾未未在上海新建的马陆工作室完工不久，突然被当地政府宣布为违章建筑。艾未未后发起“河蟹”盛宴，请大家吃大闸蟹，“有800多人去吃大闸蟹，之后房子就被拆了”。" width="641" height="450"></a><p>大闸蟹 2009年，艾未未在上海新建的马陆工作室完工不久，突然被当地政府宣布为违章建筑。艾未未后发起“河蟹”盛宴，请大家吃大闸蟹，“有800多人去吃大闸蟹，之后房子就被拆了”。</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BD%9B%E6%89%8B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BD%9B%E6%89%8B.jpg" alt="佛手 产自艾未未的家乡浙江金华，“我父亲很喜欢，我也挺喜欢它这种特殊的味道。”" width="640" height="427"></a><p>佛手 产自艾未未的家乡浙江金华，“我父亲很喜欢，我也挺喜欢它这种特殊的味道。”</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%91%84%E5%83%8F%E6%9C%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%91%84%E5%83%8F%E6%9C%BA.jpg" alt="摄像机 过去几年中，艾未未做了很多纪录片。某次拍摄中，这个摄像机被抢下弄坏了。" width="640" height="445"></a><p>摄像机 过去几年中，艾未未做了很多纪录片。某次拍摄中，这个摄像机被抢下弄坏了。</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A5%AD%E7%9B%92.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A5%AD%E7%9B%92.jpg" alt="饭盒 瓷器做的饭盒。“改革开放这么多年，无数民工用得最多的就是这个东西，跟这个时代，跟生存的关系很大。”" width="640" height="439"></a><p>饭盒 瓷器做的饭盒。“改革开放这么多年，无数民工用得最多的就是这个东西，跟这个时代，跟生存的关系很大。”</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%A7%AF%E6%9C%A8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%A7%AF%E6%9C%A8.jpg" alt="积木 艾未未在美国加州做过的一个展览，用乐高积木拼了世界上176个入狱或者被通缉的人的肖像，包括曼德拉、斯诺登等人。" width="640" height="444"></a><p>积木 艾未未在美国加州做过的一个展览，用乐高积木拼了世界上176个入狱或者被通缉的人的肖像，包括曼德拉、斯诺登等人。</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%A1%80%E7%B3%96%E6%B5%8B%E9%87%8F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%A1%80%E7%B3%96%E6%B5%8B%E9%87%8F.jpg" alt="血糖检测仪 艾未未有高血糖，每天早上都要测一次，每天也都要吃药。" width="640" height="443"></a><p>血糖检测仪 艾未未有高血糖，每天早上都要测一次，每天也都要吃药。</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%80%9F%E6%8D%AE.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%80%9F%E6%8D%AE.jpg" alt="借据 2011年，艾未未的公司被控“偷税漏税”，北京税务局要求缴纳欠税和罚款1522万元。之后，他在网上发起借钱运动，称“每一分钱都还”。最终，他的支持者帮他筹集了800万元。" width="640" height="423"></a><p>借据 2011年，艾未未的公司被控“偷税漏税”，北京税务局要求缴纳欠税和罚款1522万元。之后，他在网上发起借钱运动，称“每一分钱都还”。最终，他的支持者帮他筹集了800万元。</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%91%B5%E7%93%9C%E5%AD%90.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%91%B5%E7%93%9C%E5%AD%90.jpg" alt="葵花籽 来自艾未未的作品《1亿颗陶瓷瓜子》。这1亿颗瓜子重量超过150吨，是景德镇1600名熟练工人历时2年多才完成的，“它们是独立的个体，看似相同，其实没有两个是一样的。”" width="639" height="425"></a><p>葵花籽 来自艾未未的作品《1亿颗陶瓷瓜子》。这1亿颗瓜子重量超过150吨，是景德镇1600名熟练工人历时2年多才完成的，“它们是独立的个体，看似相同，其实没有两个是一样的。”</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%9C%A3%E7%BB%8F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%9C%A3%E7%BB%8F.jpg" alt="圣经 艾未未从一个收藏家手里买的，上面密密麻麻写满了笔记，它的主人是一名牧师。“有些时期，光凭人的精神是无法抵抗（压力）的，于是就求助信仰，求助神。”不过，艾未未自己没有宗教信仰，“我的苦难很小。”" width="640" height="445"></a><p>圣经 艾未未从一个收藏家手里买的，上面密密麻麻写满了笔记，它的主人是一名牧师。“有些时期，光凭人的精神是无法抵抗（压力）的，于是就求助信仰，求助神。”不过，艾未未自己没有宗教信仰，“我的苦难很小。”</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BD%9B%E5%83%8F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BD%9B%E5%83%8F.jpg" alt="佛像 北魏时期的铜造佛像，艾未未在古玩市场买的。“农民发现了以后，以为它是块金子，就砸它，掰它，最后这些片都被弄掉了。这是经过了毫无知识、毫无信仰、毫无敬畏之心的时期的一个标志。”" width="641" height="448"></a><p>佛像 北魏时期的铜造佛像，艾未未在古玩市场买的。“农民发现了以后，以为它是块金子，就砸它，掰它，最后这些片都被弄掉了。这是经过了毫无知识、毫无信仰、毫无敬畏之心的时期的一个标志。”</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8C%AB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8C%AB.jpg" alt="猫 艾未未家有三四十只猫，都是捡回来的。“最初我一点不喜欢，可也不能吃掉啊，就开始养，发现它们都很独立、干净，从来没打扰过我。和人都不能这样相处的。”采访前一天，现任美国驻华大使马克斯·鲍克斯从艾未未家抱走了两只猫。" width="641" height="425"></a><p>猫 艾未未家有三四十只猫，都是捡回来的。“最初我一点不喜欢，可也不能吃掉啊，就开始养，发现它们都很独立、干净，从来没打扰过我。和人都不能这样相处的。”采访前一天，现任美国驻华大使马克斯·鲍克斯从艾未未家抱走了两只猫。</p></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E9%97%B2%E4%BA%BA%E8%89%BE%E6%9C%AA%E6%9C%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E/?category=18271" rel="tag">偷税漏税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9/?category=18271" rel="tag">河蟹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%99%93%E6%98%8E/?category=18271" rel="tag">艾晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E9%9D%92/?category=18271" rel="tag">艾青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">遇难学生</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -857,7 +835,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E7%A8%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3195iyr5rm4op.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3doptgaqtbfnt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -867,5 +845,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E7%A8%8E
                 <td></td>
                 
         
-        <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
 </table>

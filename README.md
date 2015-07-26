@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%AB%98%E6%96%87%E8%B0%A6%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%85%E6%97%A0%E5%AE%98%E5%BF%83%E5%A4%96%E6%97%A0%E6%B0%91%E5%BF%83%EF%BC%8C%E6%89%8D%E5%A4%A7%E5%BF%97%E7%96%8F%E8%A6%81%E5%81%9A/" target="cdt-mirror">高文谦：习近平内无官心外无民心，才大志疏要做亡党之君</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/03/%E4%B9%A0%E5%A4%A7%E5%A4%A7.jpg" alt="习大大" width="282" height="307">今年七一，是中共建党94周年。因为不是逢五逢十，官方不会大张旗鼓地纪念，面临各种生存压力的中国民众更不会有多少人在意这个日子。它只是提醒人们一个事实：中共离“百年老店”的门槛只有一步之遥。如同一个人的生命周期一样，中共经历了从诞生、青少年和壮年时期， 现在已进入风烛残年，百病缠身，来日无多。</p>
+<p>应该说，习近平上台前对中共的现状是很清楚的，知道共产党深入骨髓的腐败已经失去民心，党面临生死存亡的关头，他不想做亡党之君。习上台后，用“中国梦”开局，宣称要“实现中华民族的伟大复兴”，并下大力反腐，企图扭转颓势，再造共产党，使其起死回生，在中共建党100周年的时候，告慰以毛泽东为首开创红色江山的父辈。</p>
+<p>作为红二代出身的中国最高领导人，习近平这样的想法可以理解，借反腐震慑官场，树立个人权威也无可厚非。可惜的是，他昧于大势，反腐的目的和采取的方式，与世界潮流和人心所向背道而驰——反腐只是为了救党保权，只反贪官（老虎苍蝇），不反皇帝（一党体制），现在已经骑虎难下。</p>
+<p>习近平的困境</p>
+<p>习近平面临的根本困境是，党国体制是产生腐败的制度根源，而他本人恰恰就是这一体制最大的既得利益者。本来反腐有强大的民意基础，民心可用，但习近平怕危及一党天下，不敢动用民间道义资源，反而把要求公示官员财产的活跃人士抓进监狱，结果只是习王两人与整个官场孤军作战，虽然占有道义上的制高点，却缺乏体制内的支撑力量，势单力孤。这种首鼠两端的做法，既挫伤了民心，又得罪了整个官场，两头失塌，里外不是人，陷入“不反腐亡党，反腐也要亡党”的两难困境之中。</p>
+<p>习近平不想做亡党之君</p>
+<p>本来，习近平准备重判周永康，借其项上人头，来震慑官场，彰显铁腕反腐的决心，但遭遇滑铁卢。对周永康来说，其实判死缓和无期并没有什么实质区别，但党内高层就是不买习的账，由此可见习王的孤立，不得不做出妥协，高层反腐到此为止。在此之前，反腐已经受到党内各方的抵抗和反弹，显示出大局逆转的迹象——先是两会期间曾庆红的秘书高调反击中纪委“庆亲王”的影射文章；接着，郭文贵在海外揭胡舒立的隐私，影射王岐山，以其人之道还治其人之身，成为大局逆转的重要节点，此后高层反腐戛然而止。</p>
+<p>除了来自党内的抵抗之外，令反腐大局逆转的另一个重要的原因是经济全面下滑，实体经济一片萧条，长期积累的房市泡沫、地方债务泡沫、内贬外升的虚假汇率三大问题逼近同时爆发的临界点，经济已成为压倒一切的问题。更让问题雪上加霜的是，习王反腐得罪了整个官场，集体懒政怠工不作为已经成为官场的“新常态”。在这种情况下，习王不得不调整反腐的力度，软硬兼施，说服官员以大局为重，为党分忧。</p>
+<p>但是，习王铁腕反腐破坏了多年来中共官场的潜规则，重搞毛时代的你死我活，一人落马，全家遭殃，让中低层官员感到心寒，离心离德，表面上敷衍，实际并不真出力。“一带一路”雷声大雨点小，迟迟落实不了就是例子，急得李克强干着急没有办法。而在党内高层，习王反腐几乎得罪了所有的人，特别是以反腐为名集权，掺杂私货，为了扶植习家军在中共十九大上位，把挡路的团派和江派绑在一起打，炮制周、薄、徐、令“新四人帮”的做法，受到高层各派的联手抵制，处境相当孤立。</p>
+<p>反腐能否救党？</p>
+<p>习近平虽然大权在握，反腐也占据道义的制高点，但中共官场几乎没有一个人的屁股是干净的，反腐动了官场所有人的蛋糕，与整个体制为敌。如果不从改革政治制度入手，反腐只是在挖党的墙角，自毁形象。借用最近《中国纪检监察报》的说法是“反腐败是把双刃剑，打的是违纪违法党员干部，疼的是组织，损害的是党的形象。”因为大家都在共产党这条船上，把船弄翻了，谁也不会答应。这就是习王反腐表面上轰轰烈烈，实际上孤掌难鸣，受到众多制肘反扑，搞不下去的原因。</p>
+<p>习王铁腕反腐破坏了多年来中共官场的潜规则</p>
+<p>习近平铁腕反腐，搅动了江胡时代的一潭死水，已经没有退路。中共高层内部已经为此撕破了脸，目前达成的妥协只是暂时的平衡，随时可能打破。习近平以反腐开局，为了救党，反而危及了共产党统治的稳定。如果反腐不了了之，习近平的新政也就寿终正寝了，而且打虎不成，反被虎噬，势必遭到反对势力的清算，这是习近平现在最大的心病。</p>
+<p>习近平生逢末世，心高命薄，虽想力挽狂澜，但志大才疏，缺少历史的大视野，囿守一党之私，没有勇气开创新局。他上台后在内政外交上四面出击，八面树敌，几乎得罪了中国社会各个阶层，人权状况急剧恶化，老百姓非但没有得到反腐的实惠，反而受到各种打压，生计上陷入困境，党内外人心思变。习近平虽然不想做亡党之君，但这种搞法，明显逆历史潮流而动，已经把上台时的一盘好棋走成死局，照这样下去，能不能撑到中共建党100周年，只有天晓得。</p>
+<p>作者系前中共中央文献研究室专家 高文谦</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%AB%98%E6%96%87%E8%B0%A6%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%85%E6%97%A0%E5%AE%98%E5%BF%83%E5%A4%96%E6%97%A0%E6%B0%91%E5%BF%83%EF%BC%8C%E6%89%8D%E5%A4%A7%E5%BF%97%E7%96%8F%E8%A6%81%E5%81%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E9%A2%91%E9%81%AD%E5%8F%98%E6%95%85%E5%85%A5%E4%BD%9B%E9%97%A8-%E6%9D%8E%E5%B0%8F%E7%90%B3%E7%B2%BE%E7%A5%9E%E5%8F%97%E5%88%9B%EF%BC%9F/" target="cdt-mirror">外来客｜频遭变故入佛门 李小琳精神受创？</a>
 </h2>
 <p><p>早前就任大唐集团副总经理的李小琳在7月24日前后到内蒙古某公司调研，之后进入一家藏传佛教寺院，身穿佛家衣物，在僧侣围绕间神情虔诚地拜佛。有评论说是因仕途失意，也有消息说是为其父李鹏祈福延寿。但不论如何，作为一个党员，从事此类宗教活动，都有背离中共纪律、信仰之嫌。</p>
@@ -764,66 +789,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%89%B9%E5%88%AB%E8%B0%83%E6%9F%A5%E5%91%98%EF%BC%9A%E5%90%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E5%AD%A6%E4%B9%A0/" target="cdt-mirror">特别调查员：向爱国青年侯聚森学习</a>
-</h2>
-<p><p>【编者注】本文作者：新浪微博 <a href="http://www.weibo.com/3776512722/CsraN9Jf6">@特别调查员</a>。微博原文已被删除，以下内容来自凯迪转载。</p>
-<blockquote><p>相关阅读： <a href="http://chinadigitaltimes.net/chinese/2015/07/%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A722%E5%A8%81%E6%B5%B7%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%89%93%E4%B8%80%E4%BA%8B%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E6%98%AF/">钢铁侠：722威海爱国青年被打一事，我想说的是…</a></p></blockquote>
-<p>据 @山东共青团，2015年6月29日-7月2日 山东省共青团在山东青年政治学院组织网络宣传引导工作专题培训班，共120余名学员，侯聚森是其中之一。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1eucoup92hkj20c80b2wff.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1eucoup92hkj20c80b2wff.jpg" alt="e11902d2jw1eucoup92hkj20c80b2wff" width="440" height="398"></a></p>
-<p>据 @山东共青团、@共青团中央，侯聚森是网络爱国青年，因发表爱国言论被网络暴民迫害，要求严惩网络暴民。</p>
-<p>据 爱国青年侯聚森本人（@侯聚森-侧卫36），其发表爱国言论的主要据点是百度贴吧和QQ空间。</p>
-<p>鉴于 本人思想后进，</p>
-<p>忆及 伟大领袖最高指示“好好学习，天天向上”，</p>
-<p>决定 向爱国青年、先进同志侯聚森学习。</p>
-<p>侯聚森同志热爱领袖，忠于党国，善于总结，其公开发言句句触动灵魂，反动派无不闻风丧胆。</p>
-<p>侯聚森同志在高中学习期间积极投身于网络宣传引导工作，堪称网评界劳模，仅在百度贴吧累计发帖量即高达1.2万、日均发帖量13个，可谓日理万机。由于工作 任务繁重，侯聚森同志只能利用业余时间攻读高中学业，功夫不负有心人，山东青年政治学院（前山东团校）慧眼识珠，抢先录取。热烈祝贺山东青年政治学院。</p>
-<p>以下特摘录侯聚森同志高中期间思想精华，供各位先睹为快。</p>
-<p><strong>爱国言论（一）</strong></p>
-<p>http://tieba.baidu.com/p/2897687610?pid=46779138688</p>
-<p>2014-03-02 22:41 我操他妈作者，这还是人能写出来的么？</p>
-<p>http://tieba.baidu.com/p/2899700968?pid=46862492573</p>
-<p>2014-03-05 10:09 你们都是用舌头抽插的？怪不得说话如此骚，原来你们都是用生殖器说话的，厉害！</p>
-<p>http://tieba.baidu.com/p/2899700968?pid=46830811769</p>
-<p>2014-03-05 10:06 从前，有个基佬叫唐骏。他喜欢终日裸露着菊花。</p>
-<p>2014-03-19 08:31 回复 亲_爹1 :滚你妈的唐骏</p>
-<p>2014-03-19 08:32 回复 xuguangye99 :你好啊脑残傻逼</p>
-<p>http://tieba.baidu.com/p/2899700968?pid=46838923335</p>
-<p>2014-03-05 10:07 这吧里都傻逼…</p>
-<p>2014-03-19 08:29 回复 落葉無情淚 :滚你妈逼</p>
-<p>2014-03-19 08:40 回复 落葉無情淚 :傻逼是你妈逼</p>
-<p>http://tieba.baidu.com/p/2764081324?pid=43196237997</p>
-<p>2014-03-31 14:21 回复 尼米兹他儿子 :你妈逼</p>
-<p>http://tieba.baidu.com/p/2948572142?pid=48474640980</p>
-<p>2014-04-06 20:27 丫叫走向共和，这丫是个日杂，丰田4S店卖车的</p>
-<p>http://tieba.baidu.com/p/3304884217?pid=57692686748<br>
-2014-09-20 11:44 @241540489 死马垃圾快来爆出出国证明，爆不出你的婊子妈立马绕地球逆光飞行，不回答一秒死一个婊子妈<br>
-2014-09-20 11:44 @241540489 你已经死了20多个婊子妈了！<br>
-2014-09-20 11:47 @241540489 前排出售你的婊子妈成堆尸体！<br>
-2014-09-20 11:51 @241540489 穷傻逼你妈在路上被200条狗同是插爆B，流的满路黑紫色的血，还有你妈烂掉的半边B，你妈老臭b爬着到路边几顿狗屎里拿着一根根比你拿短命爹小的像针一 样的b粗数万倍的狗屎，一根根塞下你妈那懒得像马蜂窝的半边b里，才剩下满脑子屎的狗头人身的杂种，那个人就是你飞妈呢<br>
-2014-09-20 11:58 【爱国青年 @legendMiG25 回复：】说的太解气了，谢谢同志啦</p>
-<p>http://tieba.baidu.com/p/2772410848?pid=62304307290<br>
-2014-12-31 23:39 回复 速度年代教 :你爱美国你妈就被北约爹轮奸一次<br>
-2014-12-31 23:49 回复 速度年代教 :以后你黑我一次你就死一个婊子妈，说一句瞎话就死一个婊子妈，我就帮你数数你究竟能死多少个婊子妈</p>
-<p>http://tieba.baidu.com/p/3499558624?pid=62388623921<br>
-2014-12-31 23:51 还忘了说，开一个小号你就死一个婊子妈</p>
-<p><strong>爱国言论（二）</strong></p>
-<p>http://tieba.baidu.com/p/3232994749?pid=55736131604</p>
-<p>2014-08-16 00:49 用流量就能翻【墙】了.</p>
-<p>http://tieba.baidu.com/p/3683912447?pid=66627781701</p>
-<p>2015-04-06 18:33 我的Nexus4今天也是，死活登不上谷歌.</p>
-<p>http://tieba.baidu.com/p/3683794673?pid=66627811182</p>
-<p>2015-04-06 18:34 我的Nexus4也是如此，估计不是个别现象.</p>
-<p>http://tieba.baidu.com/p/3680969361?pid=66560035205</p>
-<p>2015-04-05 12:35 回复 忽繎丶丶詪想你 :【Google Play】进不去【就】翻墙</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1eucordlmvaj20jz0fxwhh.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1eucordlmvaj20jz0fxwhh.jpg" alt="e11902d2jw1eucordlmvaj20jz0fxwhh" width="575" height="458"></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%89%B9%E5%88%AB%E8%B0%83%E6%9F%A5%E5%91%98%EF%BC%9A%E5%90%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E5%AD%A6%E4%B9%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%86%9B/?category=18271" rel="tag">网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -835,7 +800,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1x9b1kipusa7k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -845,5 +810,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
 </table>

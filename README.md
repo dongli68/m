@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BD%90%E4%BF%8A%E6%9D%B0%EF%BC%9A%E5%B1%81%E8%82%A1%E6%89%8D%E6%98%AF%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/" target="cdt-mirror">齐俊杰：屁股才是决定房产税的关键因素！</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5390ee71jw1eufv7ngbtej20cy07xdfv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5390ee71jw1eufv7ngbtej20cy07xdfv.jpg" alt="5390ee71jw1eufv7ngbtej20cy07xdfv" width="466" height="285"></a></p>
+<p>有报道说，一位接近房地产税决策层的权威人士表示，现在的初步方案和最后提交全国人大法工委的方案，可能会有一定的修改和调整。如果这个消息确实的话，说明房产税已经在路上了，而且已经有了个方案。那到底怎么收这个房产税呢？首套房收不收呢？税率收多少呢？大家争论来争论去，所有的争论点都来源于屁股！屁股坐在哪，房产税的方案就自然不一样。</p>
+<p>立场一，站在全局立场，成功推出房产税，给地方政府找到了新税源，有利于房地产市场的债务去杠杆，慢慢拆掉地方债这个炸弹，有利于全国的金融安全和稳定。房产税最好能够替代卖地的收入。目的就是告诉地方，你们自己的债务最好不要麻烦中央。现在可以肯定的是，中央已经将制定税率的事，交给了地方。那意思就是，你们自己看着办。</p>
+<p>立场二，站在地方考虑，房产税要推出来，恐怕会影响卖地收入，那么难题来了，要么不推房产税，继续卖地赚钱，但这显然已经难以为继，特别是二三线城市已经出现了严重的供大于求，如果要收房产税，就一定不能像上海那样，由于对征收面积过度宽松，所以收上来的税只占财政收入的2%不到，然并卵。政府收税不积极，交税的也不积极。所以上海房产税这种人均60平米的免征额模式已经完全失败，征收了还不如不收。根据美国经验，房产税怎么也得占财政收入的3成吧。他们是每套房都收，税率在1.3-1.9%，当然我们的地方政府跟美国没法比，我们更加依赖土地，其他税都被中央拿走了，所以房产税占3成恐怕还远远不够。另外，从开征的迫切度角度，二三西城市要比一线大城市积极的多，因为他们已经卖不动地了。</p>
+<p>立场三，有多套房的房叔房婶房祖宗们，很显然他们是最怕房产税的，所以他们将是房产税推出的最大阻力，非常不幸的是，立法者队伍中，恐怕这样的人不少。这也是为什么很多人提出在2-3年落地没戏。</p>
+<p>立场四，有2套房的中产们，应该说这部分人不属于投机，而是属于日子稍微好一点的。碰巧弄了两套房，他们最关心的就是首套房是否征税，交了土地出让金，再收房产税，这明显是掠夺啊，最好首套房不征收，二套房少收，人均60平米以上才好，老百姓赚点钱不容易，当然重庆模式，对豪宅别墅才收房产税最好。好不容易制下两套房子，没道理就变成负担了。而且这哪里是房产税，分明就是泡沫税！实在让人不得不怀疑，你们故意炒这么高房价，然后再收税！简直就是简直了</p>
+<p>立场五，买房自住的，没别的说的，强烈要求首套房不征税，房产税属于财产税，70年使用权还交税，上哪说理去？即使70年使用权放开了，也不行！特别是大城市，动辄一套房子500万，按照1%征税，一年可就是5万啊，要知道北上广深的人均收入一年也就这么多，一家两口双职工，一个人的工资已经被吃掉了。至少50%以上的人，是负担不起的。</p>
+<p>立场六，准备买房的，征税！必须征，不征税那帮孙子不会把房子抛出来，房价根本下不来，爷一辈子也买不起房子了。最好给个免征额，然后超标的加重税，这样买个小户型就好了。当然大户型即使不征税也买不起。</p>
+<p>立场七，租房一族。不要啦，房产税开征，房东必然会把负担转移到租户身上。所以，要么不征，要么就狠征，别不温不火的让他一年多交1-2万，他肯定加到房租里。你狠狠的征他一笔，他就得降价卖房了，房价一跌没准房租也能下来（当然这可能只是一厢情愿，没什么理论基础）。所以，租房的心态就是，要么都好，要么都倒霉，你房东比我还倒霉。就是这么敞亮</p>
+<p>所以，对于房产税来说，根本就是个糊涂账，那么我们分析下，掌握话语权的是谁呢，很显然是一二三，一二的立场是一样的，站在他们的立场上，这是一个必须要干的事，但却是一个违背自己意志的事，也就是立场三，最大的可能就是拖着，等第三类立场把手里的房子处理干净了，他们的方向也就统一了。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BD%90%E4%BF%8A%E6%9D%B0%EF%BC%9A%E5%B1%81%E8%82%A1%E6%89%8D%E6%98%AF%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">地方债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF/?category=18271" rel="tag">地方财政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E7%A8%8E/?category=18271" rel="tag">房产税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%8F%94%E6%88%BF%E5%AB%82/?category=18271" rel="tag">房叔房嫂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">房地产泡沫</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E7%9A%84%E7%B2%97%E5%8F%A3%E6%95%99%E7%A8%8B/" target="cdt-mirror">【立此存照】爱国青年侯聚森的粗口教程</a>
 </h2>
 <p><p>2015年7月24日，“<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/">文登爱国青年被打</a>”事件主角侯聚森在<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%A4%A7%E4%BC%97%E7%BD%91-%E7%88%B1%E5%85%9A%E9%9D%92%E5%B9%B4%E8%B0%88%E8%A2%AB%E6%89%93%E5%89%8D%E5%90%8E%EF%BC%9A%E6%88%91%E9%AA%82%E4%BA%BA%E9%83%BD%E6%98%AF%E8%B7%9F%E5%AF%B9%E6%96%B9/">接受大众网记者采访</a>时，为自己近日被网民曝光的骂人黑历史辩解，称那些话是从骂他的人那里学来的：</p>
@@ -251,7 +273,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%A7%E4%BC%97%E7%BD%91-%E7%88%B1%E5%85%9A%E9%9D%92%E5%B9%B4%E8%B0%88%E8%A2%AB%E6%89%93%E5%89%8D%E5%90%8E%EF%BC%9A%E6%88%91%E9%AA%82%E4%BA%BA%E9%83%BD%E6%98%AF%E8%B7%9F%E5%AF%B9%E6%96%B9/" target="cdt-mirror">大众网 | 爱党青年谈被打前后：我骂人都是跟对方学的</a>
 </h2>
@@ -824,32 +846,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E7%A8%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96%E5%86%92%E9%BB%91%E7%83%9F%E5%90%8E%E7%BB%AD%EF%BC%9A%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5%E5%90%A6%E8%AE%A4%E6%9B%BE%E5%8F%91%E7%94%9F%E7%AA%81%E7%84%B6/" target="cdt-mirror">彭州石化冒黑烟后续：成都供电否认曾发生“突然停电100毫秒”</a>
-</h2>
-<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E4%B8%8D%E5%8F%AB%E6%B1%A1%E6%9F%93%E5%95%A5%E5%AD%90%E5%8F%AB%E6%B1%A1%E6%9F%93/">【网络民议】这不叫污染啥子叫污染</a></p></blockquote>
-<p>中国北京时间7月24日，国家电网成都供电发表声明，否认7月22日当天该地电网发生过彭州石化所称的“突然停电100毫秒”现象。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5.png" alt="成都供电" width="600" height="304"></a></p>
-<blockquote><p>关于“四川彭州石化基地冒黑烟”事件的声明</p>
-<p>7月22日下午至23日，位于成都彭州的四川彭州石化基地冒出浓浓黑烟的图片在微信中广泛传播。23日19时27分，四川彭州石化基地官方微博称：22日16时18分，四川省电网供四川石化的220千伏电力系统突然停电100毫秒导致黑烟现象。对此，成都供电公司在此发出声明：四川彭州石化基地由其自建的220千伏石化站（该站产权归石化基地所属）供电，由220千伏桥石线和220千伏回石线双电源供电，根据成都电网调度运行数据显示，7月22日全天，上述两条供电线路均没有发生四川彭州石化基地官方微博所谓的“突然停电100毫秒”现象。</p>
-<p>特此声明。<br>
-成都供电公司<br>
-2015年7月24日凌晨0时40分</p></blockquote>
-<p><strong>事件回顾：</strong></p>
-<p>7月22日，有民众拍到彭州石化烟囱冒出浓浓黑烟：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/7133f35djw1eucoa4wr24j20hs0hsjt1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/7133f35djw1eucoa4wr24j20hs0hsjt1.jpg" alt="7133f35djw1eucoa4wr24j20hs0hsjt1" width="440" height="440"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/6d8c4e55jw1eucr4y5bj9j20hs0ns77s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/6d8c4e55jw1eucr4y5bj9j20hs0ns77s.jpg" alt="6d8c4e55jw1eucr4y5bj9j20hs0ns77s" width="440" height="589"></a></p>
-<p>官方随后发表声明，称是由于四川供电系统突然停电100毫秒造成：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96.jpg" alt="彭州石化" width="440" height="1066"></a></p>
-<p>成都市环境监测中心后<a href="http://news.sina.com.cn/c/2015-07-23/225732140957.shtml">发表监测结果</a>，称冒黑烟期间未对环境造成污染：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/U6074P1T1D32140957F21DT20150723225736.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/U6074P1T1D32140957F21DT20150723225736.jpg" alt="U6074P1T1D32140957F21DT20150723225736" width="400" height="473"></a></p>
-<p> </p>
-<p>@平安成都 随后要求广大市民“不信谣，不传谣”：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/49014048jw1eudmmahve5j20ku112wps.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/49014048jw1eudmmahve5j20ku112wps.jpg" alt="49014048jw1eudmmahve5j20ku112wps" width="400" height="711"></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96%E5%86%92%E9%BB%91%E7%83%9F%E5%90%8E%E7%BB%AD%EF%BC%9A%E6%88%90%E9%83%BD%E4%BE%9B%E7%94%B5%E5%90%A6%E8%AE%A4%E6%9B%BE%E5%8F%91%E7%94%9F%E7%AA%81%E7%84%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">px事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E5%B7%9E%E7%9F%B3%E5%8C%96/?category=18271" rel="tag">彭州石化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BDpx/?category=18271" rel="tag">成都PX</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -861,7 +857,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2x0g6o87e27qg.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -871,5 +867,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/px%E4%BA%8B%E4%BB%
                 <td></td>
                 
         
-        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/></td>    </tr>
 </table>

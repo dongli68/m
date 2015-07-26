@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ds0o1ncr69cqn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BD%90%E4%BF%8A%E6%9D%B0%EF%BC%9A%E5%B1%81%E8%82%A1%E6%89%8D%E6%98%AF%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/" target="cdt-mirror">齐俊杰：屁股才是决定房产税的关键因素！</a>
@@ -351,7 +351,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%86%9B/?category=18271" rel="tag">网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E7%BD%97%E6%85%B0%E5%B9%B4%EF%BC%9A%E6%9C%9D%E4%BB%A3%E5%9B%BD%E5%AE%B6%E4%BA%A1%E5%9B%BD%E5%9F%BA%E5%9B%A0%E5%9B%BE%E8%B0%B1/" target="cdt-mirror">共识网｜罗慰年：朝代国家亡国基因图谱</a>
 </h2>
@@ -867,5 +867,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E7%A8%8E
                 <td></td>
                 
         
-        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/></td>    </tr>
 </table>

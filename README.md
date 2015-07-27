@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsgmenuw8l4my.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gsw7xh4atmss.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E4%B8%8D%E6%AD%A3%E7%BB%8F/" target="cdt-mirror">王枪枪 | 一本正经地不正经</a>
+</h2>
+<p><p>今天下午，我一直沉浸在悲痛中无法自拔，听了三遍《血染的风采》情绪才有所缓和，“如果是这样，你不要悲哀，共和国的旗帜上有我们血染的风采”，谨以此曲献给真正的爱国者：中国散户。谁是爱国者？肯定不是侯聚森这样的小流氓，虽然有各级共青团组织和《环球时报》加持，但烂泥毕竟扶不上墙，加持这个东西有用的话，负责治安工作的就是朝阳区仁波切而不是朝阳区群众了。浏览了一下侯聚森青年的微博，今年刚考上一所三流大专，前段时间刚在山东青年政治学院参加完“全省共青团网络宣传引导工作专题培训班”，没想到这么快就有了用武之地。“爱国青年侯聚森”被打事件发生后，各级共青团的官微第一时间出面表态支持“爱国青年”，一本正经地写下了诸如“侯聚森，你不孤单，我们都在你的身旁”等感人言论，后来侯聚森的一些网络言论被扒了出来，我在这就不一一引用了，看完我都脸红了，各种器官和姿势，这么说吧，侯青年去日本当AV编剧，一定能大放异彩，不知道这时会不会有人站在他身旁，他会不会感到孤单。</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/" target="_blank">文登爱国青年被打</a></p>
+<p>我以前总说，在这样的时代里，做恶事可以理解，但别做恶心人的事，除了酒精和女色，再也没有比死要面子地不要脸更容易让人吐的了。作为一个男人，我的审美第一要素是大，大奸大恶瞧得上，小地痞小流氓实在没时间看，千万别给他们冠上“爱国青年”的称号，就像在A杯的内衣里塞上了厚厚海绵垫，看上去很美实操不行。真正的爱国者应该是这段时间勇入股市为国接盘的散户，请你们放心，党和国家不会忘记你们的，人民英雄纪念碑上会加刻你们的名字。</p>
+<p>一本正经地《捉妖记》据说票房已成华语影史冠军，必须得承认这部片子里有些演员的演技已经达到好莱坞水准，我说的是动画角色，人类演员就不提了，喊台词还是喊得那么流畅。这部片子之所以广受好评并非是《小时代4》的衬托，而是人类演员和动画演员穿插得很巧妙，当人类演员演得让我们快厌烦的时候，导演就及时安排动画角色出场，当我们快发现动画角色很像哪部好莱坞动画大片时，导演又及时安排人类演员出来喊台词打断我们的思绪，所以说，这是一部好得很奇怪的国产电影，减分的都是国产演员，加分的都是类似于好莱坞的动画角色，一切都很一本正经，票房又那么有面子，不去细想，看上去很美。我很喜欢那个长得像萝卜的动画主角，也很感激人类演员井柏然喊得那句台词：“记住，你有自己的名字，叫胡巴”，对于热爱麻将的我来说，这是极好的。</p>
+<p>一本正经地还有陕西旬阳县政府，为了更好的管理本县上访群众，县政府官方网站发表了题为《无理缠访将写入县志》的文章，文章说，“青史留名”是一个人、一个家族，乃至一个地域的无上荣誉，但留下的要是“恶名”，则是把自己和家族永远地钉在历史的耻辱柱上。今后，凡是我县重大缠访赴省进京访者也将进入县志“青史留名”，只不过，留下的是遗臭万年的“恶名”。看完这则新闻我都有点糊涂了，这个县政府是要依法治国还是要以德治国呢？以往能在县志中留名留姓的，不是社会贤达就是大奸大恶，要么就是“天微雨，有光如弓影，见于来山之西，忽坠于山巅，作青白焰，高丈余。”这类的奇事，从未听说过记录上访群众的，上访者多为升斗小民，有问题要政府解决，解决问题的程序也在政府手中，县政府不解决问题却想解决提出问题的人，威胁将他们记入县志，这事本身就挺值得写入县志的。</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%97%AC%E9%98%B3%E6%94%BF%E5%BA%9C%E7%BD%91-%E5%B0%86%E6%97%A0%E7%90%86%E7%BC%A0%E8%AE%BF%E8%80%85%E5%86%99%E5%85%A5%E5%8E%BF%E5%BF%97-%E9%92%89%E5%9C%A8%E8%80%BB%E8%BE%B1%E6%9F%B1%E4%B8%8A/" target="_blank">旬阳政府网 | 将无理缠访者写入县志 钉在耻辱柱上</a></p>
+<p>一本正经地县政府还有四川省青神县政府，前几日青神县300多名党员领导干部聚集在县清廉广场，集体公开签名，并举起右手庄严承诺不认干爹干妈干女儿等，如果承诺有用，要纪委干什么，承诺应该是可以监督的，但又从没见过干爹干女儿一类的会公开活动，此类宣誓活动看上去一本正经浩气长存，实则是为不正经打掩护，就像莫文蔚唱得那样：“也许承诺，不过证明没把握…不用掩饰什么，当结果是那么赤裸裸……”，一声令人酥麻地干爹，不仅能助肾气利膀胱，还能提升干爹的活力和干劲，为人民更好地服务，何乐而不为呢？</p>
+<p>相关阅读：</p>
+<p>有些东西，看上去很像那么一回事，但终究不是那么一回事，就像赵本山和陈冠希，雪村和张震，总有那么一瞬间会让人觉得他们很像，可二者之间却有大不同，一方让人想不正经，一方却让人一本正经。</p>
+<p>就写到这吧，我知道有很多人今天又栽在股市里了，不要忧伤，像我一样马不停蹄地奔向下一个战场：麻将局。期货界的传奇人物刘强在股灾后自杀了，拿他写的小说里的一段话送给那些仍拼搏在股市里的人们吧：“施主，我看您也是有缘人，最后老僧送你一句话——三千年读史，不外功名利禄，九万里悟道，总归诗酒田园。”</p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E6%96%B0%E7%BD%91-%E6%B2%AA%E6%8C%87%E6%94%B6%E7%9B%98%E6%8A%A53725-56%E7%82%B9-%E5%88%9B8%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85/" target="_blank">中新网 | 沪指收盘报3725.56点 创8年来最大跌幅</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E4%B8%8D%E6%AD%A3%E7%BB%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E8%80%85/?category=18271" rel="tag">上访者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/?category=18271" rel="tag">为国接盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">小时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AD%A6/?category=18271" rel="tag">政治学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%A8%80%E8%AE%BA/?category=18271" rel="tag">网络言论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E6%96%B0%E7%BD%91-%E6%B2%AA%E6%8C%87%E6%94%B6%E7%9B%98%E6%8A%A53725-56%E7%82%B9-%E5%88%9B8%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85/" target="cdt-mirror">中新网 | 沪指收盘报3725.56点 创8年来最大跌幅</a>
 </h2>
 <p><p>【沪指创八年来最大跌幅】上证综指收盘报3725.56点，跌幅8.48%，成交额7213亿元。 深证指数收盘报12493.05点，跌幅7.59%，成交额6677亿元。创业板收盘报2683.45点，跌幅7.40%。两市近2000个股跌停，石化双雄跌停。</p>
@@ -80,7 +101,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">中国政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C/?category=18271" rel="tag">吾尔开希</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">政治风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E7%B2%B9/?category=18271" rel="tag">民粹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">民运人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E9%9D%92%E5%B9%B4-%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%8E%BF%E5%9F%8E%E9%87%8C%E9%9D%A2%E7%9A%84%E6%94%BF%E6%B2%BB%E6%B1%9F%E6%B9%96/" target="cdt-mirror">中国好青年 | 北大博士：一个县城里面的政治江湖</a>
 </h2>
@@ -175,7 +196,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8E%BF%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">中县干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6/?category=18271" rel="tag">中国研究</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A7%94/?category=18271" rel="tag">党委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">党委书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1%E5%91%98/?category=18271" rel="tag">公务员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">地方利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%94%9F%E6%80%81/?category=18271" rel="tag">政治生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%9C%E8%A7%84%E5%88%99/?category=18271" rel="tag">潜规则</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%99%E5%B8%A6/?category=18271" rel="tag">裙带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%9D%E8%AF%AD%E6%9D%83/?category=18271" rel="tag">话语权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E5%AE%98/?category=18271" rel="tag">贪官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E8%85%90/?category=18271" rel="tag">贪腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E5%AD%90%E5%A5%B3/?category=18271" rel="tag">领导子女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">领导核心</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E6%9C%80%E5%90%8E%E4%B8%BA%E4%BD%95%E5%A4%9A%E6%88%90%E7%93%9C%E8%94%93%E6%8A%84%EF%BC%9F/" target="cdt-mirror">何清涟：中国反腐最后为何多成“瓜蔓抄”？</a>
 </h2>
@@ -207,7 +228,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8E%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">不讲政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">中国政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E9%9B%86%E6%9D%83/?category=18271" rel="tag">中央集权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%B3%BB%E7%BD%91/?category=18271" rel="tag">关系网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%93%BE%E6%9D%A1/?category=18271" rel="tag">利益链条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">周永康案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%AE%97/?category=18271" rel="tag">清算</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%99%E5%B8%A6/?category=18271" rel="tag">裙带</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E6%94%BE%E5%BC%80%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA-%E4%B8%8D%E4%BC%9A%E5%A4%A9%E4%B8%8B%E5%A4%A7%E4%B9%B1/" target="cdt-mirror">阑夕 | 放开专车市场 不会天下大乱</a>
 </h2>
@@ -823,30 +844,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%95%E5%9B%BE%EF%BD%9C%E6%9C%AC%E9%A1%BA%EF%BC%8C%E7%9F%A5%E9%81%93%E4%BD%A0%E5%BF%A0%E5%BF%83%EF%BC%8C%E6%88%91%E5%B0%86%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%90%83%E4%BD%A0/" target="cdt-mirror">仕图｜本顺，知道你忠心，我将最后一个吃你</a>
-</h2>
-<p><p><em>【编者注】作者微信公号<a href="http://mp.weixin.qq.com/s?__biz=MzA3MDM5MzIyOA==&mid=209232771&idx=1&sn=3c2bbb13db3363178b3491a4e9360e30#rd">原文</a>已因“涉嫌违反相关法律法规和政策”而无法查看。以下内容来自<a href="http://chuansong.me/n/1565333">传送门</a>。</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/image2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/image2.jpg" alt="image" width="550" height=""></a></p>
-<p>顺子：</p>
-<p>听说公司把你撤了，董事长还是决定动手了。</p>
-<p>一个人在职场上懂事，意味着他能看得清自己的处境，知道什么时候进，什么时候退。</p>
-<p>你是康总的人，大学和他同专业，后来搞矿，再后来当保全，进法务，秘书头儿就当了很多年，你的BOSS出了事，那么容易就能蒙混过关吗？</p>
-<p>当然你也做了不少的努力，请了董事长起驾到你的分公司，一起开掏心窝子的会，红红脸，出出汗。</p>
-<p>在会上确实人见了，内刊的稿子发了，但不代表今上就觉得你过关了，不要打错了主意。</p>
-<p>小聪明可以救命，但不足以保全前程，混了首长一声好，赶紧就要去医院，查出点问题来提前退休，还欣然接纳任命，赖在大区总裁任上，这就太不明智了。董事长还有一堆功臣要安插，一群队伍要锻炼，怎么可能让你在这久呆？</p>
-<p>你应该想想贵分公司是什么所在，是董事长做的地方之一，地理上，又是拱卫总部的要地，这地方交给派性中间的人都不太可能，何况你是个可疑的家伙。</p>
-<p>不立刻查你，无非是有个进度条，太多线程了毁机器，如果你觉得最后一个任务就是永远不启动，那就大错特错了，</p>
-<p>你一定觉得挺冤的吧，对啊，你跟对方不是一个量级的，伤害不到对方嘛。</p>
-<p>奥德修斯流落到独眼巨人的岛上，巨人是波塞冬的儿子。把他们堵在洞里，每天吃他的人，他给巨人酒喝，喝完了请巨人放过自己，巨人的回答是：“无人（他耍坏给自己起的花名），为了报答你的酒，我将最后一个吃你，无人。”</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%91%A8%E6%9C%AC%E9%A1%BA%E8%90%BD%E9%A9%AC%E5%8C%97%E4%BA%AC%E6%AC%B2%E6%93%92%E6%95%85%E7%BA%B5%EF%BC%9F/">法广｜周本顺落马北京欲擒故纵？</a></p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%95%E5%9B%BE%EF%BD%9C%E6%9C%AC%E9%A1%BA%EF%BC%8C%E7%9F%A5%E9%81%93%E4%BD%A0%E5%BF%A0%E5%BF%83%EF%BC%8C%E6%88%91%E5%B0%86%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%90%83%E4%BD%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%9C%AC%E9%A1%BA/?category=18271" rel="tag">周本顺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -858,7 +855,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iozzb1m9b94c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gsw7xh4atmss.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -868,5 +865,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/></td>    </tr>
 </table>

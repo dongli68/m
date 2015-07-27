@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mpsg9ssceuan.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d34ruqwtacj6dr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%A4%A7%E9%99%86%E6%B0%91%E8%BF%90%E5%88%86%E5%AD%90%E5%8F%B0%E6%B9%BE%E9%80%89%E7%AB%8B/" target="cdt-mirror">【异闻观止】环球时报 | 大陆民运分子台湾选“立委”好滑稽</a>
@@ -198,7 +198,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/uber/?category=18271" rel="tag">uber</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6/?category=18271" rel="tag">专车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">专车市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E9%83%A8/?category=18271" rel="tag">交通部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BD%E5%AD%90%E9%92%B1/?category=18271" rel="tag">份子钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">公共利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6/?category=18271" rel="tag">出租车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/?category=18271" rel="tag">出租车司机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%AB%98%E6%96%87%E8%B0%A6%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%85%E6%97%A0%E5%AE%98%E5%BF%83%E5%A4%96%E6%97%A0%E6%B0%91%E5%BF%83%EF%BC%8C%E6%89%8D%E5%A4%A7%E5%BF%97%E7%96%8F%E8%A6%81%E5%81%9A/" target="cdt-mirror">高文谦：习近平内无官心外无民心，才大志疏要做亡党之君</a>
 </h2>
@@ -872,7 +872,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mpsg9ssceuan.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -882,5 +882,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/></td>    </tr>
 </table>

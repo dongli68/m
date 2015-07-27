@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsgmenuw8l4my.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d9qxotwuzj9gb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%A4%A7%E9%99%86%E6%B0%91%E8%BF%90%E5%88%86%E5%AD%90%E5%8F%B0%E6%B9%BE%E9%80%89%E7%AB%8B/" target="cdt-mirror">【异闻观止】环球时报 | 大陆民运分子台湾选“立委”好滑稽</a>
@@ -872,7 +872,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsgmenuw8l4my.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d9qxotwuzj9gb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -882,5 +882,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
 </table>

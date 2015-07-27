@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28j84tii67yl7.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kgvctyluk389.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E6%94%BE%E5%BC%80%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA-%E4%B8%8D%E4%BC%9A%E5%A4%A9%E4%B8%8B%E5%A4%A7%E4%B9%B1/" target="cdt-mirror">阑夕 | 放开专车市场 不会天下大乱</a>
+</h2>
+<p><p>2015年初，北京市交通执法总队对外表示，互联网公司的“专车”服务变相为乘客提供黑车。借助手机软件从事非法运营的车辆，一旦被核实从事非法运营，将按高限处罚（罚款2万元）。</p>
+<p>上周周末，北京市委宣传部旗下的《京华时报》再度投射炮弹，称北京市交通执法总队已查处私家车、租赁车2147辆，其中“滴滴专车”1211辆，罚款2400多万元。</p>
+<p>此外还组织了互联网专车的“四大罪状”，其中“罪状”之一被归纳为“发布广告”，真是令人费解。</p>
+<p>（“四大罪状”：涉嫌违法组织客运经营、逃漏税、违规发送商业性短信息和发布广告等）</p>
+<p>费时大半年，围绕甚嚣尘上专车争议，其实已无多少剩余盲区，万物归宗，全都聚于一个“法”字。根据中国现代化进程的轨迹，经济领域的立法精神总体而言仍然遵循罗马法的复兴，用法学家江平的话来说，市场经济的法律“是由意志本位到规律本位的回归”。</p>
+<p>换而言之，它强调的是权利主张，而非管理主张，比如“投机倒把罪”的废除就极具代表性，属于法制无法适应经济发展而让位于后者的案例。</p>
+<p>北京交通部门的理由相当“政治正确”，其称北京作为特大型城市，公交优先是交通发展的根本战略，而出租车（这里指的是广义上的租赁车辆，包括专车）对道路资源的占用过高，需要控制比例。</p>
+<p>早在2011年，北京交通发展研究中心主任郭继孚就指出北京的公共交通网络存在关键性的弊病，其不堪重负的效率配置导致平均出行速度仅为私家车的40%，时间浪费的损失总量不容小觑。同时，公共交通的连年亏损，造成巨额补贴的持续投入，最终通过涨价逼走经济承受能力最弱的乘客群体，也谈不上战略合理。</p>
+<p>同时，“打车难”亦是困扰北京多年的社会议题，高峰时期，乘客无论是打不到车还是遭遇拒载，都是相当恶劣的体验，而出租车司机一边苦于居高不下的“份子钱”，一边抵触出租车总量的扩容。</p>
+<p>互联网专车之所以能够以一个纯商业产品的面貌而得到众多坚定不移的拥戴声音，并非人们热衷于践踏法律，而是“共享经济”确实解决了资源匹配的问题，人们亦无理由同情一份与公共利益站在对立面上的法律条款。</p>
+<p>与Uber在西方不少国家的情况的细微区别在于——欧洲民主选举制度以工会势力为重要票仓，政府迫于工会压力而对Uber颇有微辞，却又很难“一刀切”的得罪同样也是选民的Uber拥趸——北京交通部门表态“正在深入研究出租车行业改革的相关举措”，实际上仍是无法舍弃牌照背后的寻租空间。</p>
+<p>1992年，北京开放不必挂靠于出租车公司的个人经营牌照，不过短短两年之后，这个渠道就被重新禁止，暂停审批直到今天。仗着垄断稀缺资源，北京的出租车公司每个月坐收4亿余“份子钱”，但是根据2年前的听证会，出租车公司的企业利润仅为3%，管理成本之剧，让人难以相信这个行业的健康型。</p>
+<p>事实上，2012年国务院就已提出政府应要退出“凡公民、法人或者其他组织能够自主决定，市场竞争机制能够有效调节，行业组织或者中介机构能够自律管理的事项”，若是政府难以遏制权力膨胀的惯性，只会让“互联网+”成为一句空话。</p>
+<p>时至今日，互联网专车在经历了“非法”的野蛮生长之后，它的可行性和风险性都已受到充分检验，那些殚精竭虑的忧虑并未成真，专车就是一个更为灵巧和自由满足供需关系的交通商品，它不见得更加安全，但也绝对不更为危险。</p>
+<p>除了合法性的问题之外，关于监管、税收等事项，皆可通过与提供专车服务的互联网公司共同完成，于情于理，都不应使用最无赖、最官僚的“封杀权”。</p>
+<p>就像淘宝刚刚问世的时期，公众讶异于“没有经营许可证怎么能够做生意”，媒体亦煽动这种网络摊贩会让实体行业血流成河。如今，人们早已习惯享受电子商务的便利，而商业地产一路攀升，亦找到了与网络共存乃至合作共赢的契机。</p>
+<p>流水不腐，户枢不蠹。城市本身就是一个庞大的生态系统，如果不让这个生态系统主动消化创新，那么创新本身便会远去，并使全民承担蒙昧的代价。</p>
+<p>开放专车市场，真的不会天下大乱。而一味阻止发展趋势的做法，反而可能成为历史的耻辱柱。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E6%94%BE%E5%BC%80%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA-%E4%B8%8D%E4%BC%9A%E5%A4%A9%E4%B8%8B%E5%A4%A7%E4%B9%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/uber/?category=18271" rel="tag">uber</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6/?category=18271" rel="tag">专车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">专车市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E9%83%A8/?category=18271" rel="tag">交通部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BD%E5%AD%90%E9%92%B1/?category=18271" rel="tag">份子钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">公共利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6/?category=18271" rel="tag">出租车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/?category=18271" rel="tag">出租车司机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%AB%98%E6%96%87%E8%B0%A6%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%85%E6%97%A0%E5%AE%98%E5%BF%83%E5%A4%96%E6%97%A0%E6%B0%91%E5%BF%83%EF%BC%8C%E6%89%8D%E5%A4%A7%E5%BF%97%E7%96%8F%E8%A6%81%E5%81%9A/" target="cdt-mirror">高文谦：习近平内无官心外无民心，才大志疏要做亡党之君</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/03/%E4%B9%A0%E5%A4%A7%E5%A4%A7.jpg" alt="习大大" width="282" height="307">今年七一，是中共建党94周年。因为不是逢五逢十，官方不会大张旗鼓地纪念，面临各种生存压力的中国民众更不会有多少人在意这个日子。它只是提醒人们一个事实：中共离“百年老店”的门槛只有一步之遥。如同一个人的生命周期一样，中共经历了从诞生、青少年和壮年时期， 现在已进入风烛残年，百病缠身，来日无多。</p>
@@ -769,26 +797,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%9B%E8%99%BD%E5%BC%BA%E4%BD%86%E5%A3%B0%E8%AA%89%E4%B8%8D%E5%BD%B0/" target="cdt-mirror">网易数读 | 中国国力虽强但声誉不彰</a>
-</h2>
-<p><p>中国的国力日渐强大，但在国际上的声誉并不与国力相匹配。近日，调查机构声誉研究所发布了2005年全球55个主要国家的声誉排行榜，中国排名第46位，排在榜单的倒数第十位。该调查综合了16项指标，参与人数超过48,000人。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/20150724032102c40a4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/20150724032102c40a4.jpg" alt="20150724032102c40a4" width="550" height="584"></a></p>
-<p>该报告显示，加拿大是55个国家中声誉最高的，78.1分。亚洲国家中，日本名列前茅，排在第16位。美国第22位。中国以42.5分排名第46，也就是倒数第十，与“中国人民的老朋友”俄罗斯相去不远，后者位列殿军，倒数的。</p>
-<p>该报告表明，国力强大并不代表声誉就高。在GPD、出口、外国直接投资、旅游等国力指标方面，中国名列世界前茅，但国际声誉却只有46名。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/2015072403272307525.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/2015072403272307525.jpg" alt="2015072403272307525" width="550" height="545"></a></p>
-<p><strong>世界人民依然认可美国当领导</strong></p>
-<p>著名调查机构盖洛普日前发布了《世界领导者评分》，就美国、德国、欧盟、中国和俄罗斯五个国家和地区的全球领导力进行评定，结果显示，美国依然是评分最高的国家，受调查的世界人民认为，美国更适合作为全球领导人，这是美国连续第三年排名第一。其次是德国、欧盟、中国和俄罗斯。值得一提的是，俄罗斯是这五个全球势力中唯一一个否定率高于支持率的国家。</p>
-<p>来源：网易数读</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%9B%E8%99%BD%E5%BC%BA%E4%BD%86%E5%A3%B0%E8%AA%89%E4%B8%8D%E5%BD%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E5%91%8A/?category=18271" rel="tag">报告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%92%E8%A1%8C%E6%A6%9C/?category=18271" rel="tag">排行榜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E6%9F%A5/?category=18271" rel="tag">调查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -800,7 +808,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d120g5ieg5mk6k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -810,5 +818,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/></td>    </tr>
 </table>

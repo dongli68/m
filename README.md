@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsgmenuw8l4my.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E6%96%B0%E7%BD%91-%E6%B2%AA%E6%8C%87%E6%94%B6%E7%9B%98%E6%8A%A53725-56%E7%82%B9-%E5%88%9B8%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85/" target="cdt-mirror">中新网 | 沪指收盘报3725.56点 创8年来最大跌幅</a>
+</h2>
+<p><p>【沪指创八年来最大跌幅】上证综指收盘报3725.56点，跌幅8.48%，成交额7213亿元。 深证指数收盘报12493.05点，跌幅7.59%，成交额6677亿元。创业板收盘报2683.45点，跌幅7.40%。两市近2000个股跌停，石化双雄跌停。</p>
+<p>中新网7月27日电 沪指早盘低开，开盘后低位震荡，午后跌幅逐渐扩大，截至收盘跌幅高达8.48%。深证成指今日同样走低，收盘时下跌1025.46点。</p>
+<p>据板块分类显示，证券板块领跌两市，跌幅高达9.9%，其中除国海证券外，22只券商股全线跌停；航空、煤炭、互联网、保险、钢铁、电力、有色等权重板块也均跌逾9%。</p>
+<p>个股方面，两市A股市场今日共2172只下跌，其中近1800只非ST股跌停。两市市值超2000千亿个股缩至22只，除长江电力停牌外，其余全线下跌，其中中国石化、中国中车、中国人寿、中国神华、中国中铁、交通银行、中国重工等10只跌停。</p>
+<p>截至收盘，上证综指报收3725.56点，跌345.35点，跌幅8.48%，成交7213亿元；深成指报收12493.0点，跌1025.46点，跌幅7.59%，成交6677亿元。(中新网证券频道)</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E6%96%B0%E7%BD%91-%E6%B2%AA%E6%8C%87%E6%94%B6%E7%9B%98%E6%8A%A53725-56%E7%82%B9-%E5%88%9B8%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C/?category=18271" rel="tag">下跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%AA%E6%8C%87/?category=18271" rel="tag">沪指</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%A7%B0%E6%94%AF%E6%8C%81%E5%A2%83%E5%A4%96ngo%E5%8F%91%E5%B1%95/" target="cdt-mirror">德国之声 | 中国称支持境外NGO发展</a>
+</h2>
+<p><p><strong>中国公安部昨日引述公安部长郭声琨表示，《境外非政府组织管理法》将会为境外NGO提供更有力的法律保障。不过这种说法难以消除外界对这项法案草案的担忧，路透社指出，随着法律的出台，境外NGO的活动会受到严格限制。</strong></p>
+<p>（德国之声中文网）公安部昨日（7月26日）在网站上发表的声明中引述公安部部长郭声琨表示：”中国政府高度赞赏境外非政府组织的积极作用，欢迎和支持境外非政府组织来华开展友好交流与合作。” 上周六（7月25日），郭声琨与中国外交部、民政部以及多个境外非政府组织在上海召开境外非政府组织座谈会时作出了这番表述。</p>
+<p>不过他在会上也表示，希望外国的NGO组织”关注和关心中国的发展，深入了解中国国情，自觉遵守中国法律”。</p>
+<p>路透社指出，中国政府常以中国的特定”国情”来反驳来自西方国家的批评。在一些问题上，中国已使用这种说法来作出解释，比如网络安全检查制度。</p>
+<p>郭声琨表示，目前中国立法机关正在制定《境外非政府组织管理法》，这将会为境外非政府组织在华开展合法活动提供更加有力的法律保障。</p>
+<p>这项新法规已引起外界的广泛关注。有观察人士认为，管理法将严格限制国外NGO、商业团体和大学在华的活动。</p>
+<p>路透社指出，这个法案对境外NGO 的定义十分宽泛，可以适用于一名计划去中国大学演讲的美国教授、外国贸易组织或在中国表演的海外舞蹈团。</p>
+<p>今年5月《境外非政府组织管理法》草案公开征求意见时曾受到批评，草案规定，境外NGO将受到”商业联合体”、公安和其他部门的监管。草案还提到，中国公安部和省公安厅将管理境外非政府组织在华的注册。此外，国外资金必须来自”合法”渠道，非政府组织不得在中国筹款。</p>
+<p>西方政府和外国NGO正在向中国施压修改《境外非政府组织管理法》草案。</p>
+<p>路透社还指出，正值习近平政府镇压异议之际，中国当局推出此项法律。中国政府拘捕监禁活动人士，并指责包括境外NGO在内的”境外势力”参与去年香港的民主抗议。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%A7%B0%E6%94%AF%E6%8C%81%E5%A2%83%E5%A4%96ngo%E5%8F%91%E5%B1%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%83%85/?category=18271" rel="tag">中国国情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中国政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8/?category=18271" rel="tag">公安部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%A4%96ngo/?category=18271" rel="tag">国外ngo</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9/?category=18271" rel="tag">西方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%A4%A7%E9%99%86%E6%B0%91%E8%BF%90%E5%88%86%E5%AD%90%E5%8F%B0%E6%B9%BE%E9%80%89%E7%AB%8B/" target="cdt-mirror">【异闻观止】环球时报 | 大陆民运分子台湾选“立委”好滑稽</a>
 </h2>
 <p><p>1989年政治风波后出逃的通缉犯吾尔开希近日在台湾宣布竞选“立法委员”。他称台湾为“国家”，称台“立法院”为“国会”，并宣称他个人的背景和特质可以让他为台湾做些事情，“捍卫和深化台湾的民主”。吾尔开希1996年在台湾定居，据美国之音报道，他表示“爱这个比在大陆生活时间更长的国家”。</p>
@@ -810,57 +847,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%91%A8%E6%9C%AC%E9%A1%BA%E8%90%BD%E9%A9%AC%E5%8C%97%E4%BA%AC%E6%AC%B2%E6%93%92%E6%95%85%E7%BA%B5%EF%BC%9F/" target="cdt-mirror">法广｜周本顺落马北京欲擒故纵？</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/323e66555f7992cb8cce1c8f666830719999.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/323e66555f7992cb8cce1c8f666830719999.jpg" alt="中共当局宣布河北省委书记周本顺“涉嫌违纪违法”" width="575" height=""></a><p>中共当局宣布河北省委书记周本顺“涉嫌违纪违法”</p></div>
-<p><em>作者: 安德烈</em></p>
-<p><strong>河北省委书记周本顺涉腐落马。虽然，大到周永康，令计划，小到“七品芝麻官”近年来落马官员比比皆是，但周本顺可是为习近平奠基的十八大以来第一位落马的在职省委书记。网上就有“这样的人十八大以后还能重用”的疑问？另外还有人指出，周“是最早开始对‘公民社会’开刀的中央人物。公民社会还没全垮，他先垮了。这是啥事？”还有网友对周本顺突然落马颇感蹊跷。</strong></p>
-<p>中纪委7月24日宣布，“周本顺涉嫌严重违纪违法”，正在被“调查”。周本顺落马，网上引起的反应不能同周永康令计划比，但也很有特点。一种认为周本顺是习执政后落马的在职省委书记，暗示现政权“缺乏眼力”。有个自称天下一亩三分地就感叹：“到底是什么原因，出了这么多贪官？”还有一位叫大眼小蛙的说：“人生大喜大悲的太快，我心脏受不了！”</p>
-<p>一些网友则揭出此人是“靠维稳和特色理论起家的极左党棍”。浪子海松称：“记得其著名文章‘警惕西方公民社会陷阱’，许多现场见识过其会议发言的老师连批其左，维稳大总管倒是步步高升了。”</p>
-<p>呼车让人写道：“习李之新政，如此一个思想不开化的人竟然高升？让河北遭殃”.愤飞的麻雀认为：“公民社会是陷阱，那么奴隶社会就是天堂！不过必须明确是谁的陷阱，谁的天堂？肯定地说，公民社会是权力的牢笼，对权力是陷阱，而奴隶社会对民众是地狱，对权力却是天堂，不是口口声声为人民服务吗？从这一点的认知就知道究竟是为人民服务，还是为权力或者自己服务！</p>
-<p>周本顺曾在‘求是’杂志撰文指出，中国加强和创新社会管理，一定要站在巩固中共执政地位的高度，防止误信、误传甚至落入某些西方国家为我们设计的所谓”公民社会“的陷阱。有人讽刺说，”这样一个厌恶公民社会的人，没想到也完蛋了“。</p>
-<p>周本顺是否跟倒台的前中央常委周永康有瓜葛，也是一个被猜疑的点。从周本顺的简历看，担任省委书记前，许多时间是在政法部门工作，曾经担任中央政法委秘书长，他的顶头上司就是那时如日中天的周永康。因此，有网民讽刺说：”恭喜，你站錯队了“。老徐时评：”周本顺落马了。看他的简历，本来在高校当老师挺好的，非要从政；其实从政也没啥，偏要干公安；其实干公安也没啥，偏要跑到北京来干公安。结果没有跟对人，摊上个周永康这么个顶头上司，那就只能自认倒霉吧。官场险恶，仕途难测。当官有风险，跟人需谨慎“。</p>
-<p>另外就是周本顺的落马太突然，有人认为带有明显的”陷阱特征“。当然这是一个公然的陷阱，一方在套，一方还在强打精神。习近平发动打贪以来，有个特点，就是有点”欲擒故纵“。落马前几十个小时，还是让你”堂堂正正“地煎熬。令计划被公布”罪行“前一周，12月15日还在党刊‘求是’写文章，在文章中，令计划不仅至少16次引述习近平讲话精神，而且在每个小标题后，都紧跟同样的八股文用语：”习近平总书记强调“，8个小标题，重复了8次。</p>
-<p>连用八个”习近平总书记强调“，可见活到何等颤颤惊惊的地步。至于周本顺，就在中纪委宣布”调查“的前两天，还前往秦皇岛北戴河区进行推进城乡统筹发展的调研。河北省的党报‘河北日报’刊登了这条消息。他在调研中强调”让城市和乡村变得更加富裕、更加美丽。“话音刚落不久，翻身落马。现在再要上河北日报网查这篇文章，已经无影无踪。</p>
-<p>遭到这种待遇的官员其实很多。南京市市长季建业，2013年10月16日当天，按照这一周的南京主要领导工作行程，要召开全市生态文明建设动员大会，季建业将要做发言。这次生态大会安排在南京郊县的高淳区，计划上午参观，下午14时召开大会。上午突然”失踪“，中纪委第二天宣布已被”双规“。</p>
-<p>南京市委书记杨卫泽倒台的一个重大特征如同几日前落马的令计划一般，在议论纷纷中，杨卫泽在被中纪委宣布调查前几天的一月一日，仍在主持南京市每年举办的元旦长跑。大公报引述南京市委官员则说，杨卫泽”心里素质较强“，在被带走之前，”每天都精神饱满地工作着…”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%91%A8%E6%9C%AC%E9%A1%BA%E8%90%BD%E9%A9%AC%E5%8C%97%E4%BA%AC%E6%AC%B2%E6%93%92%E6%95%85%E7%BA%B5%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E6%9F%AF%E6%96%87%E5%93%B2%E4%B8%BA%E5%8F%8D%E8%AF%BE%E7%BA%B2%E4%BA%8B%E4%BB%B6%E6%8B%98%E6%8D%95%E8%AE%B0%E8%80%85%E9%81%93%E6%AD%89/" target="cdt-mirror">BBC｜台北市长柯文哲为反课纲事件拘捕记者道歉</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/150725033103_ko_wen_je_624x351_cna.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150725033103_ko_wen_je_624x351_cna.jpg" alt="台北市长柯文哲在个人脸书专页上为警方逮捕记者一事道歉。 " width="575" height=""></a><p>台北市长柯文哲在个人脸书专页上为警方逮捕记者一事道歉。</p></div>
-<p>周四（7月23日）晚上，几十名中学生及民众闯入教育部，抗议教育部推行新的历史课纲。警察逮捕示威者及三名记者，引起公众不满，台北市长柯文哲在个人Facebook专页上为警方逮捕记者一事道歉。</p>
-<p>三名被逮捕的记者分别是《自由时报》记者廖振辉、《苦劳网》记者宋小海与前《新头壳》记者林雨佑。三人拒绝认罪及保释，检方其后改以限制居住。</p>
-<p>本地媒体报道记者手机被没收，不过，中正一警局副分局长李权哲接受壹电视专访，否认警方没收记者手机。</p>
-<p>台湾新闻记者协会发表声明稿，谴责警方拘捕记者，指事件是“台湾民主之耻”。</p>
-<p>“不论在任何场合，警察都不能任意逮捕记者，侵犯记者采访权。从法律而言，不论是集游现场、刑案现场，都是‘新闻事件的现场’，记者都有权力在现场采访，警方顶多只能界定采访的范围，不能阻止。”</p>
-<p>周五（7月24日）上午，柯文哲面对传媒时说，由于教育部报警，所以警方以现行犯逮捕，属紧急状况。</p>
-<p>在场记者问柯文哲是否有人报警就可以拘捕记者，柯文哲说：“要问昨天的检察官，不要问我，因为他接手指挥权。”</p>
-<p>不过周五晚上，柯文哲在自己个人Facebook专页上公布声明稿，对逮捕记者一事道歉。</p>
-<p>“媒体记者本于采访之职，于陈抗现场进行采访工作，乃受宪法保障之自由。我对于昨晚台北市警察局在过程中，侵犯记者采访自由一事致歉。”</p>
-<p>柯文哲也承认周四晚上警方没有根据既定流程行动。一些警员应该穿着标上“媒体联络”的背心，与在场记者沟通。他要求台北市政府警察局一个月内与记者组织检讨及协调。</p>
-<p>另外，柯文哲又有在声明稿上表达对反课纲学生的同情，并指他们“勇气可嘉”。</p>
-<p>除了三名记者外，警方还拘捕了24名学生及6名民众，其中11名学生未成年。</p>
-<p>教育部的声明中指，教育部将对学生的违法行为诉诸法律途径处理。</p>
-<p>教育部部长吴思华指，反课纲抗议背后有政党人士操纵。“这是不道德的，政治是一时的也是残酷、欠缺同理心的，呼吁各方节制自重，勿以抗争凌驾专业。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E6%9F%AF%E6%96%87%E5%93%B2%E4%B8%BA%E5%8F%8D%E8%AF%BE%E7%BA%B2%E4%BA%8B%E4%BB%B6%E6%8B%98%E6%8D%95%E8%AE%B0%E8%80%85%E9%81%93%E6%AD%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AF%E6%96%87%E5%93%B2/?category=18271" rel="tag">柯文哲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -882,5 +868,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
 </table>

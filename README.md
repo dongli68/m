@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d9qxotwuzj9gb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgs00pbm9u9t8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%A4%A7%E9%99%86%E6%B0%91%E8%BF%90%E5%88%86%E5%AD%90%E5%8F%B0%E6%B9%BE%E9%80%89%E7%AB%8B/" target="cdt-mirror">【异闻观止】环球时报 | 大陆民运分子台湾选“立委”好滑稽</a>
@@ -43,7 +43,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">中国政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C/?category=18271" rel="tag">吾尔开希</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">政治风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E7%B2%B9/?category=18271" rel="tag">民粹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">民运人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 25分钟前</small>
+	<small> ============== 30分钟前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E9%9D%92%E5%B9%B4-%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%8E%BF%E5%9F%8E%E9%87%8C%E9%9D%A2%E7%9A%84%E6%94%BF%E6%B2%BB%E6%B1%9F%E6%B9%96/" target="cdt-mirror">中国好青年 | 北大博士：一个县城里面的政治江湖</a>
 </h2>
@@ -198,7 +198,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/uber/?category=18271" rel="tag">uber</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6/?category=18271" rel="tag">专车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">专车市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E9%83%A8/?category=18271" rel="tag">交通部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BD%E5%AD%90%E9%92%B1/?category=18271" rel="tag">份子钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">公共利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6/?category=18271" rel="tag">出租车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/?category=18271" rel="tag">出租车司机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%AB%98%E6%96%87%E8%B0%A6%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%85%E6%97%A0%E5%AE%98%E5%BF%83%E5%A4%96%E6%97%A0%E6%B0%91%E5%BF%83%EF%BC%8C%E6%89%8D%E5%A4%A7%E5%BF%97%E7%96%8F%E8%A6%81%E5%81%9A/" target="cdt-mirror">高文谦：习近平内无官心外无民心，才大志疏要做亡党之君</a>
 </h2>
@@ -872,7 +872,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d9qxotwuzj9gb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -882,5 +882,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d9qxotwuzj9gb.cloudfront.net">https://d9qxotwuzj9gb.cloudfront.net</a><br/></td>    </tr>
 </table>

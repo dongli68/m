@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1niws1nl7ekmj.cloudfront.net">https://d1niws1nl7ekmj.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d1niws1nl7ekmj.cloudfront.net">https://d1niws1nl7ekmj.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8839%EF%BC%89%EF%BC%9A-%E8%8D%A3%E8%8E%B7%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5%E8%87%AA%E7%94%B1%E5%85%88%E9%94%8B%E5%A5%96/" target="cdt-mirror">成田机场日记（39）： 荣获北京之春自由先锋奖</a>
@@ -107,7 +107,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E8%80%85/?category=18271" rel="tag">上访者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/?category=18271" rel="tag">为国接盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">小时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AD%A6/?category=18271" rel="tag">政治学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%A8%80%E8%AE%BA/?category=18271" rel="tag">网络言论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E6%96%B0%E7%BD%91-%E6%B2%AA%E6%8C%87%E6%94%B6%E7%9B%98%E6%8A%A53725-56%E7%82%B9-%E5%88%9B8%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85/" target="cdt-mirror">中新网 | 沪指收盘报3725.56点 创8年来最大跌幅</a>
 </h2>
@@ -887,7 +887,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2x0g6o87e27qg.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -897,5 +897,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
                 <td></td>
                 
         
-        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/></td>    </tr>
 </table>

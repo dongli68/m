@@ -24,6 +24,93 @@
         <td><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A5%EF%BD%9C%E8%82%A1%E7%81%BE%E9%87%8D%E6%BC%94%E5%8C%97%E4%BA%AC%E5%A4%B1%E7%AE%97-%E7%BE%8E%E5%9B%BD%E9%9A%94%E5%B2%B8%E7%BA%B5%E7%81%AB/" target="cdt-mirror">今日早报｜股灾重演北京失算 美国隔岸纵火</a>
+</h2>
+<p><p>昨日（7月27日）中国股市又经历了另一个黑色星期一，股市大跌8.5%，创8年以来最大单日百分比跌幅。余忧未尽的中国股民再次迎来了股灾，这次股灾爆发的原因到底是什么？阴谋论还能解释得通吗？</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19883039099_6814154cac.jpg" alt="19883039099_6814154cac" width="510" height="316"></div>
+<p>据FactSet的数据，上证综指暴跌8.5%，可能创出2007年2月份以来最大单日百分比跌幅。这也是该指数连续第二交易日下跌。香港恒生指数下跌3%。澳大利亚S&P ASX 200指数上涨0.4%。日经指数下跌1%。尤其是上证指数大跌8.5%，可能创出2007年2月份以来最大单日百分比跌幅。</p>
+<p>股灾再次来袭，而且威力不亚于上次刚刚过去的股灾，上次的股灾所到之处可谓是市场一片哀鸿。有人戏称中国中产阶级一夜回到解放前，中国政府也使出多般手段力图救市。在执政者仓促应战之后，到底谁是次轮做空的导演和主力，人们仍然争论不休。阴谋论出台也是自然而然，更何况，中国并不缺乏制造盛产阴谋论的土壤。“外国亡我之心不死”的情结已经根深于每个国民心中。</p>
+<p>尤其是经过救市以后，股市有了些许好转，更加印证了股市藏有做空势力的想法。尤其是连续几天的交易量持续上升，大盘陆续翻红的情况，再次让中国政府和民众天真的认为股灾已经过去了，中国牛市又将再次来临。</p>
+<p>但好景不长，周一的暴跌无异于当头棒喝。因为之前六连阳走势，A股貌似刚刚走出巨震阴影，暴跌更显得匪夷所思。</p>
+<p>当然，在众多精英学者一致认为阴谋论时，仍有不少人持有清醒的头脑，认为这次股市是由于经济基本面，上市企业的业绩表现不佳，加上中国监管层的不作为、中国股市虽然借鉴了国外的形式但市场规则和监管并没有很好的运用等等主客观因素造成的，所以当务之急是改革中国资本市场，尤其是监管层的能力与规则。<br>
+这次的股灾总体上来说，是由于上次股灾的重创造成的，在经历了股灾之后，股民的信心依然非常脆弱。在这个投资者不停摇摆的市场里，有“弹药”的投资者在积极参与反弹之余，却又做好了随时撤退的准备。</p>
+<p>据媒体报道，广发证券策略分析师陈杰、郑恺、曹柳龙等近日通过走访公募、私募、保险、银行理财部、一些银行理财部的个人客户等，发现机构和散户都变成了“右侧投资者”，观点摇摆不定。“轻仓的投资者还在观望，而重仓的人又随时准备撤离。”</p>
+<p>对此，财经学者李大霄认为，这次的暴跌原因有两个，首先是目前A股整个市场的估值偏高，有回调需要；其次，自从资本市场设立了双向交易以来，市场上任何风吹草动都会引起市场的波动。而这两个原因中，第一个原因又是最主要的。李大霄同时表示，目前A股去杠杆虽有一定成效，场外配资等数据较沪指位于5178点时有所回落，但A股仍处于去杠杆过程中。</p>
+<p>更有分析认为，这次的暴跌与6月份的暴跌根本不能相提并论。表面上看，这次下跌似乎比6月股灾更惨，但实质上，昨日的暴跌不是流动性危机，而是对近期强势反弹、严重超买的修正。在7月9日至7月24日的强势反弹中，共有731只个股涨幅达到或超过50%，166只个股已经回到调整前水平，18股更实现翻番。沪深两市市值也回升了近9万亿元。获利丰厚的抄底盘出逃以及等待已久的解套盘抛压，加剧了市场的下跌。经过了6月份的股灾，杠杆已基本被去掉，再次发生集体性大规模杀跌的概率不大。</p>
+<p>更重要的是，美国加息预期似乎越来越强烈，加息鼓点也越来越急促，对中国股市无疑是隔岸纵火。近期，美联储主席耶伦重申，预计今年将进行近十年来的首次加息。市场人士预期，美联储加息的窗口可能选择在9月。尤其是，美联储网站误发加息信息更是把猜测推向了高潮。据媒体报道，美联储不经意间于6月29日在美联储官网上发布了美联储职员层面为6月16-17日FOMC政策决议筹备的经济预期。美联储通常都会在五年后才公布这些预测，但却在6月29日误将其公布到了网上。从去年10月美联储停止量宽开始，资金流出新兴市场的迹象就开始出现，当时不少新兴市场的货币及股市均出现动荡。此次美国加息预期增强，将使动荡加剧。</p>
+<p>但实际上，股市的再次暴跌实际上也给当局者以及众多股民一个教训，任何脱离经济基本面的繁华终究是一个美好的泡影，而泡影终有一天会破裂的。所以，不要再倚仗某些特别某些主流市场自由派精英以“阴谋论”封堵舆论，在2008年股灾交了近十万亿的学费后，6月份的股灾又交了二十万亿的巨额学费，这次的股灾教训学费想必也不会低，但如果还认识不到问题的根本，教训与学费还会接踵而来。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A5%EF%BD%9C%E8%82%A1%E7%81%BE%E9%87%8D%E6%BC%94%E5%8C%97%E4%BA%AC%E5%A4%B1%E7%AE%97-%E7%BE%8E%E5%9B%BD%E9%9A%94%E5%B2%B8%E7%BA%B5%E7%81%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E7%97%85%E6%80%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BD%B1%E5%93%8D%E6%B7%B1%E8%BF%9C/" target="cdt-mirror">外来客｜病态的中国经济影响深远</a>
+</h2>
+<p><p>中国是全球第二大经济体。市场担忧中国经济增速放缓会拖累全球其他主要经济体，包括美国。考虑到目前全球经济增长缓慢，而各国政府的武器库中可用武器所剩无几，这种情况可能更加危险。</p>
+<div>
+<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/c075c213246b5b8f99c03b9afdfff7ea.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/c075c213246b5b8f99c03b9afdfff7ea.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
+<p>中国股市在6月末7月初的暴跌让投资者目前行事谨慎。虽然中国股市目前暂时稳定，但是这在投资者造成了恐慌，使得原油、黄金和铜的价格也出现大跌。</p>
+<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/b6a4b07e182c046a4d56b203fc6a7f77.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/b6a4b07e182c046a4d56b203fc6a7f77.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
+<p>中国经济增长动力部分来自于债务规模的扩大。但是现在经济增速放缓，市场担心有毒贷款可能会引发金融危机，并蔓延到全球范围。正如2008年美国次贷危机那样。</p>
+<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/e63708ec76d55bf2ccb172f4e53cd309.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/e63708ec76d55bf2ccb172f4e53cd309.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
+<p>以下是中国经济放缓会影响到美国经济的主要方式：</p>
+<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/b43fc5810a67501ebdabe584a1ee20a0.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/b43fc5810a67501ebdabe584a1ee20a0.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
+<p>贸易下滑：两国的贸易往来是中美之间最直接的联系。根据State Street Global预测，未来两年，中美之间的贸易将超过美国和加拿大的双边贸易，成为全球最大的双边贸易关系。但是如果中国增速放缓，那么对于国外产品的需求就会下跌，包括美国产品。</p>
+<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/f7719f49134b23496251bd75de9f3ac3.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/f7719f49134b23496251bd75de9f3ac3.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
+<p>美国商业遭受打击：美国股市对于中国的风险敞口正在扩大。因为40%的标准普尔500指数公司的利润都是来自海外。中国经济增速的加速下滑将会很自然地损害了跨国公司的利润。仅仅上周，联合技术公司(NYSE:UTX)下调了其2015年全年盈利预期，并将下调预期的原因归咎于中国。联合技术公司表示上一季度中国的新设备业务就大跌10%。</p>
+<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/5d41601adf132bbc33290629e5defb2b.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/5d41601adf132bbc33290629e5defb2b.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
+<p>激冷效应：6月12日前，中国股市在过去12个月中大涨150%。之后又大跌32%，这让投资者担心这是中国经济问题进一步加深的信号。中国股市此轮的大涨是由借贷、投机和官方媒体的造势所推动的。中国监管机构为阻止股市暴跌出台了一系列大力度的救市措施，以保证金融市场的稳定。但是这些大力度的救市措施对于投资者产生了激冷效应，投资者更加希望中国的市场能够更加自由。</p>
+<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/f2bf497da7cebce74875b95440c9775b.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/f2bf497da7cebce74875b95440c9775b.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
+</div>
+<div></div>
+<div>转自《金融时报》</div>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E7%97%85%E6%80%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BD%B1%E5%93%8D%E6%B7%B1%E8%BF%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%8B%85%E5%BF%83%E9%A9%BB%E5%8D%8E%E9%97%B4%E8%B0%8D%E5%9B%A0%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6%E6%9A%B4%E9%9C%B2%E8%BA%AB%E4%BB%BD/" target="cdt-mirror">纽约时报｜美国担心驻华间谍因黑客事件暴露身份</a>
+</h2>
+<p><p>美国官员担心，中国政府可从被盗的数百万联邦政府工作人员和承包商记录中整合资料，从而确定出历年来被秘密派往中国的情报人员的身份。</p>
+<p>现任和前任情报官员说，情报人员身份暴露的潜在风险可能会让一大批美国间谍从此不能再被派驻海外。这对美国情报部门会是一个严重挫折，情报部门已经对人事管理办公室(Office of Personnel Management)的记录最近被盗一事非常担心，认为那是中国间谍工作的一个重大意外收获。</p>
+<p>海军上将迈克·S·罗杰斯，美国国家安全局局长。他认为被窃取的数据可以被用来对政府官员进行“鱼叉式网络钓鱼”攻击。</p>
+<p>政府在上个月公开了几百万联邦工作人员和承包商记录被盗一事，奥巴马政府的一些官员在之后的几天里曾表示，记录被盗的破坏性不像想象中的那么严重，因为中国黑客并没有得到美国秘密间谍的身份。</p>
+<p>政府官员说，中央情报局和某些其他情报部门的记录从来都不是人事部门数据库的一部分，那些保密记录在人事部门数据库被侵入期间并未被泄露。官员说，情报部门正在采取措施，以试图减少记录被盗所造成的破坏，但目前还不清楚他们具体在做什么。</p>
+<p>但是，情报部门和国会官员目前表示，他们的担心在增长，因为黑客仍可从被盗的海量信息中，用排除法来识别美国间谍，而且官员们现在不愿意公开说黑客是在为中国政府工作。官员们说，通过把被盗的数据与多年来搜集到的信息相结合，黑客可以用“大数据分析法”得出有关特工身份的结果。</p>
+<p>加利福尼亚州众议员亚当·B·希夫(Adam B. Schiff)是众议院情报委员会的民主党领导人，他说，“这些被盗信息本身就很有价值。当这些信息与他们可能已经掌握的其他信息结合起来使用的话，能泄露更多的东西。可能需要几年的时间我们才会搞清楚数据被盗所造成的破坏的严重程度。”</p>
+<p>中央情报局及其他向外派遣特工的机构对马上从中国撤出间谍人员持谨慎态度，因为这样做会引起中国反间谍特工的猜疑。中央情报局的一位发言人拒绝对此发表评论。</p>
+<p>中央情报局以及其他部门通常把其间谍派到美国驻外大使馆，他们在那里以外交官的身份，从事政治事务、农业政策或其他方面的工作。美国驻北京大使馆很久以来就是中央情报局在全世界的最大基地之一，情报人员在那里搜集有关中国的政治动态、经济发展，以及军事现代化的信息。</p>
+<p>几位现任和前任官员说，即使人事管理办公室的数据库中不包括中央情报局人员的身份，中国情报人员也可以对获得签证的美国驻中国使领馆工作人员的数据库进行检索。如果从中找到了名字不在被盗文件中的人，可以通过一个排除过程将这些人怀疑为特工。</p>
+<p>在科罗拉多的阿斯彭安全论坛(Aspen Security Forum)上，国家安全局(National Security Agency)局长迈克尔·S·罗杰斯海军上将(Adm. Michael S.Rogers)在周四夜间接受采访时间接地提到了这个问题。</p>
+<p>“从情报学的角度来看，被盗数据让人获得可能用于反间谍目的的巨大洞察力，”罗杰斯说。“假设我对试图确定来中国的美国人的身份感兴趣，比如我想搞清楚他们为什么来中国：他们只是游客呢？还是他们另有别的目的？那些来自人事办公室的数据能提供有意思的东西。”</p>
+<p>罗杰斯暗示了黑客的另一个可能动机：这些数据可以用来开发对政府官员进行复杂巧妙的“鱼叉式网络钓鱼”攻击的工具。这类攻击靠受害者点击来自他们认识的人的看似无恶意的电子邮件，让病毒侵入他们的计算机网络。</p>
+<p>罗杰斯说，“在过去九个月里，我看到了不少针对美国目标的大型鱼叉式网络钓鱼活动，这也许并非没有关系，”但他不愿给出攻击发源国的名字。</p>
+<p>官员们表示，目前尚不清楚中国官员在如何使用——或可能如何使用——那些偷来的文件，文件中包括对政府工作人员做背景调查时收集的个人信息，其中很多人现在有绝密级的审核批准。</p>
+<p>“从实际角度出发，你必须假设所有的信息已经暴露，并会被利用，”希夫说，他还表示，按“最坏的情况”制定方案是谨慎的做法。</p>
+<p>一些前任官员表示，自己不太担心数据外泄可能会对美国情报收集造成长期的不利影响。他们说，鉴于的海量的数据可能超出了中国的分析能力，该国到底能从数百万份人事档案中，获取多少有关美国间谍的定论，是难以确定的。</p>
+<p>“中国人制造了自己的大数据问题，” 罗伯· 柯纳克(Rob Knake)说道。他曾是国家安全委员会(National Security Council)网络安全政策主管，现在担任外交关系协会(Council on Foreign Relations)高级研究员一职。</p>
+<p>柯纳克表示，一旦机密遭到泄露，中央情报局(CIA)和其他情报机构将能够做出调整。不过对很多CIA情报官员来说，他们在此后的职业生涯中也许只能做些办公室的工作了。</p>
+<p>可以分析数以百万计，甚至数以十亿计文件的精密计算机能让情报人员利用那些曾经价值并不确定的情报。</p>
+<p>国家情报局(National Intelligence)反间谍部门前负责人乔尔·布伦纳(Joel Brenner)表示，利用此前多年中收集到的人名信息，中国可以在数据库中搜索一些疑似间谍的名字。“你把其中200个人的资料搜索一下，然后就会比较清楚，这个系统里有什么信息，没有什么信息，” 布伦纳说道。</p>
+<p>对于中国是否是人事管理办公室(Office of Personnel Management)的入侵者，美国政府内部少有争论。而入侵行动的时间至少长达18个月。国家情报总监小詹姆斯·R·克拉珀(James R. Clapper Jr.)在上个月说道，“你不得不去佩服中国人这次的行动。”不过，他后来又纠正了这一说法，表示中国只是这一入侵事件的“首要嫌疑人”。</p>
+<p>一位前中情局高级官员和一位国会官员表示，黑客还从数据库中获取了中情局退休官员的个人信息。不过因为他们已经得到了有关数据外泄的机密信息，因此两位官员都不愿透露各自的姓名。</p>
+<p>多位现任和前任美国官员表示，在未来几年内，黑客对安全审查信息的入侵将会带来问题。背景调查表涉及隐私度极高且可能让人难堪的信息，这包括财务状况，饮酒、使用药物的情况，与外籍人士的联系，以及精神健康问题。</p>
+<p>克拉珀于周五在阿斯彭表示，因为黑客的入侵，人事管理办公室的承包商在安全审查工作的开展上出现大幅延迟，而这又使得该情报机构对员工的定期审查也完全跟不上进度。不过针对数据外泄事件，克拉珀保持了较为冷静的态度。</p>
+<p>“如果我们有机会做同样的事，”他表示，“我们可能也会去做。”</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%8B%85%E5%BF%83%E9%A9%BB%E5%8D%8E%E9%97%B4%E8%B0%8D%E5%9B%A0%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6%E6%9A%B4%E9%9C%B2%E8%BA%AB%E4%BB%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">间谍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">黑客</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8839%EF%BC%89%EF%BC%9A-%E8%8D%A3%E8%8E%B7%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5%E8%87%AA%E7%94%B1%E5%85%88%E9%94%8B%E5%A5%96/" target="cdt-mirror">成田机场日记（39）： 荣获北京之春自由先锋奖</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/01/11130.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/01/11130.jpg" alt="冯正虎" width="377" height="226"></a></p>
@@ -808,74 +895,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%94%90%E8%8D%86%E9%99%B5%E7%AD%89%E7%85%BD%E9%A1%9B%E6%A1%88%E8%A2%AB%E5%AE%9A%E7%BD%AA%E7%9A%84%E5%8F%AF/" target="cdt-mirror">德国之声｜辩护律师：唐荆陵等煽顛案被定罪的可能极大</a>
-</h2>
-<p><p><strong>正值中国维权律师遭遇大规模打压之际，有”广州民主三剑客”之称的唐荆陵、袁朝阳、王清营被指涉嫌”煽动顛覆国家政权”案为期两天的庭审结束。唐荆陵妻子透露，审理过程中发生过激烈辩论。 </strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/018527727_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/018527727_30300.jpg" alt="0,,18527727_303,00" width="575" height=""></a><p>广州中院（资料图片）</p></div>
-<p>（德国之声中文网）中国维权律师唐荆陵、人权活动人士袁朝阳（笔名袁新亭）和王清营涉嫌犯”煽动颠覆国家政权罪”一案，于23日和24日两天在广州中院第十二法庭开庭审理。</p>
-<p>参加旁听的唐荆陵妻子汪艳芳向德国之声介绍，两天的审理中，发生过激烈辩论。“律师做了无罪辩护，律师们都认为检方理据不足，法院没有当庭宣判，也没有告知何时宣判。”她说：“现在家属们的心情都很沉重，明知道他们无罪，但却清楚他们很可能被定罪，实在是很绝望与无奈。”</p>
-<p>唐荆陵唐曾通过推特介绍自己称，因多次参与维护人权的工作于05年被当局吊销律师执照，现为中国公民不合作运动的首倡者和积极推动者。王清营曾在广东的一所大学任教，袁朝阳曾担任出版社编辑。三人都是《零八宪章》的首批签署者，去年5月，因涉嫌”寻衅滋事罪”被警方拘留。警方表示，涉案人员传播了例如吉恩·夏普的书籍《从独裁到民主》和《自我解放》。</p>
-<p>上个月19日，广州市中级人民法院开庭审判不久后，三名辩护律师被当庭解雇，庭审被迫中止。</p>
-<p>唐荆陵妻子说，此次庭审明显感觉比上次戒备森严。警方设置了隔离带，严格控制进入广州中院的人员。和上次一样，记者和少数西方外交人员被拦在门外。另据路透社援引现场的外交人员和目击者称，被告人的数名支持者被警方带走。汪艳芳还说，第一天庭审开始双方就法官和法庭工作人员的党员身份问题发生激烈争执，稍候有所缓和。她还说，目前三人的精神状态还不错，身体因为经过一年的拘押，多少有些影响。</p>
-<p><strong>“被定罪的可能非常非常大”</strong></p>
-<p>袁朝阳此次庭审的辩护律师文东海在第一天庭审后告诉德国之声，此次庭审在程序上有所改善，包括当事人不用带械具等。但是，文东海稍停一下后继续说，从目前国内的整体气氛来看，这样的案子不管事实如何，最后被定罪的可能非常非常大，罪名可能也不会变，”刑期的弹性会比较大，目前无法做准确的预计，但是从我们掌握的资料看，比起唐荆陵，其它两人的介入较少一些，但是我们律师认为三人是无罪的，他们只是正常地行使了公民的言论自由、监督和批评的权利，当事人也作了无罪陈诉。”</p>
-<p>获悉丈夫很可能会被定罪的消息，汪艳芳表示伤心难过，但还是她希望国家能够依法办事。</p>
-<p><strong>高压下开庭</strong></p>
-<p>6月份的第一次庭审后，律师张雪忠在网上透露：”在庭审过程中，被告人和辩护律师要求法官披露自己的政治身份，并申请中共党员回避，因为由专政集团的成员审判反对一党专政的被告人，严重违反正当程序的要求。”</p>
-<p>此案再度开庭正值中国维权律师遭遇大规模打压之际。本月以来已有超过两百名维权律师和相关人士遭到当局的拘捕、传唤或约谈。</p>
-<p>目前汪艳芳的住处外仍有人在对其进行全天的监督。6月的庭审后，再次找新律师的她经过多次碰壁，最终才找到北京的律师燕薪和广东的律师葛永喜，她透露现在的律师压力很大。</p>
-<p>文东海也已被约谈过三次。虽然谈话中没有涉及此案，但是相关部门嘱咐过他对目前维权律师的情况保持沉默，”也有个别领导交待在这个敏感时期接受这个敏感案件要注意规范言行”。</p>
-<p>文东海承认，难免会有一些担心和顾虑，但不会因此而不接此案。”在中国做律师，我们无法预测自己的言行会引起哪种势力的不满。因为不确定所以担心。”</p>
-<p>文东海还强调：”今天开庭的时候，有一部摄像机专门对着我们辩护人，没有拍检察官和法官。虽然我们无法揣测他们的目的是什么，但是可以感觉到他们的防范意识很重。实际上，我们没有那么可怕，我们所依靠的只是法律。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%94%90%E8%8D%86%E9%99%B5%E7%AD%89%E7%85%BD%E9%A1%9B%E6%A1%88%E8%A2%AB%E5%AE%9A%E7%BD%AA%E7%9A%84%E5%8F%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B8%85%E8%90%A5/?category=18271" rel="tag">王清营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0/?category=18271" rel="tag">零八宪章</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%9B%B7%E5%85%8B%E5%BE%AE%E5%8D%9A%E4%B8%BB%E9%A1%B5%E5%86%85%E5%AE%B9%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA-%E7%96%91%E5%86%8D%E9%81%AD%E5%92%8C%E8%B0%90/" target="cdt-mirror">德国人雷克微博主页内容无法显示 疑再遭新浪和谐</a>
-</h2>
-<p><p>2015年7月24日，微博红人德国人 <a href="http://www.weibo.com/leikexiaoliumang">@雷克</a> 的主页内容突然一片空白。虽然其个人简介、粉丝数、关注数、微博数量等资料尚存，但所有具体的微博内容都无从查看。雷克随后在Twitter确认了此事，但目前新浪方面尚未有任何解释。</p>
-<p>雷克以用中文自制反讽视频来针砭时政而知名。2015年3月，雷克曾因“多次发布违反‘七条底线’言论”而<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A-%E5%85%B3%E4%BA%8E%E9%9B%B7%E5%85%8B-%E8%A2%AB%E7%A6%81%E8%A8%80%E7%9A%84%E8%AF%B4%E6%98%8E/">被新浪微博禁言48小时</a>。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%9B%B7%E5%85%8B.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%9B%B7%E5%85%8B.png" alt="雷克" width="575" height=""></a></p>
-<blockquote><p><a href="https://twitter.com/deguoziganwu/status/624621085493886977">@deguoziga</a>：我在微博上被和谐了。不知道是不是彻底不能玩儿了，也不知道为啥这样。我人在德国，很安全，很好。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%9B%B7%E5%85%8Btwitter.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%9B%B7%E5%85%8Btwitter.png" alt="雷克twitter" width="525" height="236"></a></p>
-<p>@雷克 微博内容举例：</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/575769adjw1euexivxqt9j20gk0mdgn6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/575769adjw1euexivxqt9j20gk0mdgn6.jpg" alt="575769adjw1euexivxqt9j20gk0mdgn6" width="525" height="709"></a><p>图片来源：新浪微博@假行僧老巩</p></div>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%9B%B7%E5%85%8B%E5%BE%AE%E5%8D%9A%E4%B8%BB%E9%A1%B5%E5%86%85%E5%AE%B9%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA-%E7%96%91%E5%86%8D%E9%81%AD%E5%92%8C%E8%B0%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E5%85%8B/?category=18271" rel="tag">雷克</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%96%AC%E6%9C%A8%EF%BC%9A%E4%BB%A4%E8%A8%88%E5%8A%83%E9%81%95%E5%8F%8D%E4%BA%86%E9%BB%A8%E5%85%A7%E6%BD%9B%E8%A6%8F%E5%89%87/" target="cdt-mirror">东网｜喬木：令計劃違反了黨內潛規則</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/bkncn-20150724000316494-0724_05411_001_01p.jpg" alt="bkncn-20150724000316494-0724_05411_001_01p" width="550" height="367"><br>
-在中紀委有關令計劃的通報中，首次出現了違反「政治規矩」的表述。</p>
-<p>最近中紀委公布了對令計劃的初查，提到的「雙開（開除黨籍、公職）、收受巨額賄賂、與多名女性通姦、親屬利用影響斂財牟利、其他犯罪線索交司法處理」，這些都是落馬官員的標準配置，沒有什麼奇怪。奇怪的是在通報中，首次出現了違反「政治規矩」這樣的表述。</p>
-<p>什麼是中共的「政治規矩」？</p>
-<p>顯然在對令計劃的查處通報中，不是指的「政治紀律、組織紀律、保密紀律」等要求，因為所說的違反政治規矩，和這幾項並列在一起，排在政治紀律之後。政治規矩既然不是指的這些，那麼到底是什麼呢？</p>
-<p>儘管在中國到底是黨大還是法大，很模糊，但是作為個體的共產黨員，很清楚，要遵守法律，而法律是明確公示的。一個政黨，有自己的組織紀律，作為有中國特色的執政黨，還有政治紀律和保密紀律，都可以理解。這些東西要麼像黨章一樣公諸於眾，要麼作為規定、紀律、條例，形成文件，有據可查。</p>
-<p>可是這個看不見、摸不著、沒有文字記載，卻被令計劃違反的「政治規矩」到底是什麼？它肯定不是道德，道德雖然也比較模糊，沒有書面的約定，但它和人性倫理相關，每個人都明白道德是怎麼回事，比如對家庭忠誠、對他人守信、不侵害公共利益是符合道德的，而通姦、說謊、以權謀私是不道德的。這些普通人也能遵守的基本道德，大量作奸犯科的黨員卻做不到。</p>
-<p>而政治規矩存在於黨內，並在處理高層領導中專門說起，顯然不是人人明白的道德準則。它確實存在，但沒有文字記載，又不能公開討論，大家心照不宣的明白、遵守，這不就是俗稱的「潛規則」嗎？原來以為演藝界等行業有潛規則，怎麼偉大光榮正確、為人民服務的共產黨也有不能明說、難以細究的潛規則？</p>
-<p>其實黨內確實有大量的潛規則。比如人民軍隊忠於黨，既然黨是為人民服務，軍隊叫人民解放軍，怎麼又要終於黨呢？黨指揮槍是明規則，但潛規則卻是槍指揮黨，誰掌握槍，誰就是黨內老大。比如鄧小平從來沒有擔任過黨和國家的最高職務，但由於掌握槍，長期任軍委主席，就能連換兩個黨的總書記。即使後來什麼職務也不擔任了，在世時絕對是黨內、軍隊最有影響的人。</p>
-<p>江澤民幹滿兩屆主席不再連任，這是明規則。但他不擔任國家元首和黨的總書記後，交出政權和黨權，卻不交軍權，繼續又任兩年軍委主席，這就是潛規則。接任他的胡錦濤雖然是最高領導，但要遵守這個潛規則，不敢違反、不滿。其他人更是心知肚明，即使是高喊著「緊密團結在以胡錦濤為核心的黨中央周圍」，但也明白誰才是真正的老大。</p>
-<p>令計劃到底違反了什麼政治規矩，這個像規矩本身一樣，只能意會不能言傳。但這邊強調依法治國，那邊卻暴露出黨內存在政治規矩。黨大還是法大的問題沒有解決，黨章、文件等明規則需要遵守，還是政治規矩等潛規則更重要，值得深思。</p>
-<p>從薄熙來、周永康到令計劃的倒台，貪腐犯罪肯定少不了，可是在台上的又比他們乾淨多少呢？薄周被指從事「非組織政治活動」，令計劃則是「違反政治規矩」，多少說明反腐有權力鬥爭的因素。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%96%AC%E6%9C%A8%EF%BC%9A%E4%BB%A4%E8%A8%88%E5%8A%83%E9%81%95%E5%8F%8D%E4%BA%86%E9%BB%A8%E5%85%A7%E6%BD%9B%E8%A6%8F%E5%89%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -887,7 +906,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d222mead95cxb5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmiyx5l158vd3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -897,5 +916,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
                 <td></td>
                 
         
-        <td><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
 </table>

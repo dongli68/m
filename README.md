@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E7%BD%91%E5%8F%8B%E6%8A%8A%E5%8F%B7%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%B8%B8%E4%BE%A0%E6%B1%BD%E8%BD%A6/" target="cdt-mirror">全叔读报 | 网友把号称“中国特斯拉”的游侠汽车扒得干干净净</a>
@@ -1034,5 +1034,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2
                 <td></td>
                 
         
-        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
 </table>

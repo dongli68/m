@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2nyp6w3ktvkkm.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28j84tii67yl7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,159 @@
                 <td></td>
                 
         
-        <td><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E7%BD%91%E5%8F%8B%E6%8A%8A%E5%8F%B7%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%B8%B8%E4%BE%A0%E6%B1%BD%E8%BD%A6/" target="cdt-mirror">全叔读报 | 网友把号称“中国特斯拉”的游侠汽车扒得干干净净</a>
+</h2>
+<p><p>昨天下午，北京开了一场发布会，游侠发布了其首款电动汽车产品“游侠X”，号称要做“中国特斯拉”。</p>
+<p>游侠X内置车载定制的 Android 5.1 系统 KITT OS。车的“前脸”即车辆的进气格栅处有一块屏幕，内饰包括 10.2 英寸的液晶仪表盘和 17.3 英寸 1080P 分辨率的中控显示屏。车辆配备松下 18650 三元锂电池。</p>
+<p>车辆搭载一台异步电机，采用后驱模式。峰值功率为 270 kw、最大扭矩 440 nm、最高转速可达 16000 r/min。官方称“游侠X”续航里程能达 460 km，百公里加速 5.6 秒。</p>
+<p>官方计划 2016 年开放首批预定，2017 年量产上市。目前只有蓝色一个款式。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A01.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A01.jpg" alt="游侠1" width="600" height="450"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A02.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A02.jpg" alt="游侠2" width="600" height="452"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A03.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A03.jpg" alt="游侠3" width="600" height="451"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A04.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A04.jpg" alt="游侠4" width="600" height="447"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A05.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A05.jpg" alt="游侠5" width="600" height="451"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A06.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A06.jpg" alt="游侠6" width="600" height="449"></a></p>
+<p>看照片，还真是TM像特斯拉啊……</p>
+<p>火星人的朋友圈昨天就炸了！纷纷吐槽伟大的C2C （Copy to China ），早上一搜，知乎上也有各路大神出来，把这款“心比天高”“牛B吹大发了”的游侠汽车扒了个干干净净。快来一起看看吧！</p>
+<p><strong>@ Brandon Lu ：</strong></p>
+<p>这车离量产上路还有很长的路要走，大概十几个亿那么远吧。</p>
+<p><strong>@ maomaobear ：</strong></p>
+<p>我揭一下底吧</p>
+<p>黄修源同学就在知乎</p>
+<p>恩，他传媒大学毕业以后不找工作，和几个同学利用这两年风投钱好拿的机会来创业。</p>
+<p>前后，创业了5、6个项目吧，没有一个坚持过1年的，基本是风投的钱花完了，上36kr看看什么项目新，能拉到风投，就搞个商业计划书再来一轮。</p>
+<p>给自己和同学开很高的工资，把风投的钱烧掉，其实比找工作好。</p>
+<p>这个游侠电动车大约是1、2年前，黄同学看到特斯拉的灵感，然后把这个创业n次的团队转行搞电动车。</p>
+<p>一开始是给一辆现代酷派换上电机，跑了几百米，然后拿着这段视频开始融资。</p>
+<p>最近这批投资好像就是在知乎拿到的，然后这个钱真买了一辆特斯拉来拆，包括今天这个发布会。</p>
+<p>嗯，发布会上的车，大家仔细看一下照片，和他3D设计那个车是完全不同的，除了前脸尾灯有点类似，为什么呢？</p>
+<p>因为发布会上那辆车，就是他们买的一辆特斯拉Model S，然后改了前脸和尾灯、把车标换成自己的……，内饰我估计都没动。</p>
+<p>补充：游侠电动车的同学给我看了一组他们装配的图片，内饰确实是动了，我的原文估计错误。</p>
+<p>游侠电动车的同学称车也是自己的，但是没有提供车身钣金件来源信息，也没有提供底盘，电池，电机，电控的图片，给我的前图有两个白盒子。我以为是电控，但是答复说是氛围灯。</p>
+<p>就对方提供的信息，我还不能改变之前的判断。底盘，车身，电机，电池组的来源问题。</p>
+<p>目前无争议的是这个样车用了特斯拉的一些零件，问题是用了哪些，用了多少，改了多少。这个有待更多信息，从目前看到的图片判断，可以确认内饰是改动的。增加了一些氛围灯也可以确认。</p>
+<p>近期给他们投资的好像是一个做网游的，投的钱也不太多。买辆特斯拉改改，做几个PPT，开个发布会后是够了。</p>
+<p>别说造一辆原型车，造个像样的模型都未必造的出来，所以直接摆上去一台特斯拉。</p>
+<p>恩，黄同学传媒大学毕业，传播还是搞得不错，以前黄同学搞的五个项目，每一个项目，我一搜索，都能在雷锋网、36K，钛媒体这些地方找到软文。说明媒体关系和宣传还是不错的。</p>
+<p>这次，大家搜搜游侠电动车，不少地方都有，网游老板投资还是立竿见影的。</p>
+<p>恩，模型做做，文字编编，说我用什么电池，什么电控，其实花不了几个钱。网游老板的投资够。</p>
+<p>但是国家对电动车造车是有资质的，冲压一个线，就不是网游老板能解决的。而且真要造出一辆原型车，经过正常的测试，就要烧不少钱。不用说量产的问题。</p>
+<p>黄同学带着几个一起毕业的同学，看到36kr的特斯拉之前，未必摸过电动车，要学习恐怕要很长时间。即使能招聘到汽车厂的人，没钱也是不行的。</p>
+<p>不知道这轮传播，能不能拉到下一轮投资。</p>
+<p>从理论角度，这个项目完全就是个拉投资，维持团队生存的项目。</p>
+<p>从黄同学的角度，维持住，能给团队开出工资就是胜利，以前5个项目都是这么过来的。</p>
+<p>但是，这个东西真能造出来车距离还是很远，下一次能买辆特斯拉把外观内饰都改出来，上路跑就不容易。</p>
+<p>说到把零件攒成车，投资充足的情况下，2017年能不能干出来都是问题。况且投资还未必到。量产没谱。</p>
+<p>这个项目还是个资本运作，指望车的筒子们不用报太大期望。</p>
+<p><strong>@匿名用户：</strong></p>
+<p>我分析今天发布会上的游侠电动车直接是将TESLA的底盘拆过来用了。（由于行业原因，就匿名没有办法打赌了）</p>
+<p>以现在游侠团队的汽车行业人员的配比，根本不可能在几个月内做出底盘和对应的适配。</p>
+<p>如果这个都没做，就发布概念车，只能说明不懂行业规矩（行业内都是基本适配要做完才发布概念车或者原型车，没有哪个车厂敢用别家的底盘套一个自己的壳就敢去发布概念车的），或者是说这个团队还是唐吉可德。</p>
+<p>另外，很佩服这个团队在无任何样车测试/路试情况下，竟然给出了0-100KM/H的数据；续航的数据，这数据是需要跑路试得到的，不是拿嘴估计出来的。并且这个数据明显是按照TESLA的续航给的，问题是你知道TESLA是优化过多少次才达到这个续航的么？你的风阻有TESLA优化的那么好么？TESLA底盘都为了风阻做了多次动态调优。</p>
+<p>更奇怪的是，你续航数据都有，那你车的风阻数据该有吧？好像还没有，这逻辑好像又不通了….</p>
+<p>还有，用ANDROID 5.1做汽车操作系统？有没有搞错….. 做车载娱乐系统可以用ANDROID，汽车控制系统那边也用ANDROID？用ANDROID来做实时操作系统用？</p>
+<p>另外，牛都开始吹到自动驾驶上去了。PPT上讲辅助驾驶用MOBILEYE的技术，这个我理解，业界很多家都在同MOBILEYE合作，可是自动驾驶可不是嘴皮之功，涉及到人工视觉/机器智能/路面识别….一大票算法，你们有这方面人么？还开源你们的自动驾驶算法…. 哎….让GOOGLE自动驾驶那边的人脸往哪搁</p>
+<p>还有，你们不能将PAPAGO的代码给放到你们的开源代码里面，那是papago的东西，不是你家的，程序员还是要有一些节操才好。 youxiamotors · GitHub 你这上面放的代码有没有你们自己写的呀，都是papago放给华强北行车记录仪厂家的东西，哪是什么无人驾驶/自动驾驶呀。</p>
+<p>瀑布汗…….</p>
+<p>不说了，说多了你们内裤都没有了</p>
+<p>只能解释这是一辆PPT车。</p>
+<p>总之，很佩服这个团队的胆量和勇（CHUI NIU）气（BI），但总觉得他们也太外行了吧…</p>
+<p>佩服年轻人的勇气，但是也不希望互联网造车行业太浮躁。做一套UI就说自己做手机了，做一个外形就说自己做车了。这是对那些认真做车的人不尊重。</p>
+<p><strong>@ Chow Leonardo ：</strong></p>
+<p>作为一个行业内人，看到最近这些时不时蹦出来的各种乱七八糟行业出来造车的新闻真的狠抓狂，乃们知道要造一个车究竟要花多少钱吗！</p>
+<p>先不讲别的，投产一款新车，从研发，试制，试验，认证，质量，生产，物流，零部件采购，销售，售后，这每一个环节需要多少钱？豪车品牌，比如BBA，光一款车型的换代研发（还不是新开发），数十亿欧元真不算多，国内自主品牌可能压缩成本少一点，投产一款新车型几个亿也是必须的，这还是在已经有生产产地，研发团队，质量体系，供应链物流的情况下。尼玛你随便找几个人，找个车型改一改外饰，就敢自称能做车了？在中国造车需要的条件太多了。</p>
+<p>首先是国家政策</p>
+<p>为什么汽车生产门槛高，首先国家政策上就进行了严格的限制，汽车行业的国家政策主要是《汽车产业发展政策》，其中，对于投资管理是这样说的（第十章，第四十七条）：</p>
+<p>新建汽车生产企业的投资项目，项目投资总额不得低于20亿元人民币，其中自有资金不得低于8亿元人民币,要建立产品研究开发机构，且投资不得低于5亿元人民币。新建乘用车、重型载货车生产企业投资项目应包括为整车配套的发动机生产。</p>
+<p>新建车用发动机生产企业的投资项目，项目投资总额不得低于15亿元人民币，其中自有资金不得低于5亿元人民币,要建立研究开发机构，产品水平要满足不断提高的国家技术规范的强制性要求的要求。</p>
+<p>看看这里面的要求，如果是新建车企，至少需要的投资。</p>
+<p>如果你是新能源车，那就更麻烦了，需要通过所谓的工信部的44号公告《新能源汽车生产企业 及产品准入管理规则》，里面是这么说的： 应当是《公告》内汽车整车生产企业或改装类商用车生产企业；新建汽车企业或现有汽车企业跨产品类别生产其他类别新能源汽车整车产品的，应当按照国家有关投资管理规定先行办理项目的核准或备案手续。然后才能按照正常的新能源准入审查进行，这个新能源审查至少要考察那几方面的东西，17条规则，分别对应生产，研发，生产一致性，采购，销售。只有至少在这五个方面合格，才能获得准入，取得生产新能源车的资质！</p>
+<p>技术来源</p>
+<p>如果要做新车，总得知道怎么做吧，研发团队得建立起来吧，底盘，传动，内外饰，公告认证，如果是新能源车还要有电池，电控等等。然后得有技术来源吧，国内说自己完全自主搞一款车出来那是骗政府钱的</p>
+<p>零部件开发</p>
+<p>就算有了上述一切，造车也不是这么容易，当前的车企自制件已经很少了，需要跟零部件供应商合作，合作是一回事，零部件开发不要钱？你的车量少，人家模都不愿给你开，再说了，现在零部件开发费用好多都采取相互分担的模式了，这也是钱啊</p>
+<p>试验试制</p>
+<p>汽车最最重要的是可靠性，这也是造车区别于其它普通制造业的一个重要标志，一辆车在正式投入市场之前，需要经过无数次试验，如果加上零部件开发过程中的试验，说是成千上万次也毫不为过，其次，不是随随便便改点外饰就号称是概念车了，你那上面除了概念还有别的东西吗？</p>
+<p>先说这么多，只想说，汽车不是随随便便想造就造的，最近几年在新能源汽车，互联网汽车概念的带动下，很多别的行业，特别是互联网界开始进军汽车行业，其实这也是行业的趋势，也算是汽车行业发展的一个方向，但由于汽车生产的门槛，这些新兴”车企”的模式一般还是在借用原型车，大打概念牌，生产基本找代工，销售基本靠传销的模式，真正需要走的路还是太长，比如说像这种来骗投资人钱，骗眼球的所谓概念车，真的有进行下去的必要吗？</p>
+<p><strong>@ 熊游心：</strong></p>
+<p>我现在开始后悔以前没好好学习做ppt了，多好的赚(pian)钱机会啊！</p>
+<p>更丧心病狂的吐槽来啦……</p>
+<p><strong>@匿名用户：</strong></p>
+<p>大家好，我很开心今天有机会回答这个问题。</p>
+<p>因为这将会成为我的一场网络发布会。</p>
+<p>在此，我隆重向各位介绍我的创业项目——飞侠飞机。</p>
+<p>你以为它是无人机？错了，我要造一台真正的飞机。</p>
+<p>先给大家看看我的第一版概念设计图：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A3%9E%E4%BE%A0%E9%A3%9E%E6%9C%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A3%9E%E4%BE%A0%E9%A3%9E%E6%9C%BA.jpg" alt="飞侠飞机" width="600" height="463"></a></p>
+<p>很酷对不对？</p>
+<p>在这个石油短缺的时代，我们需要创新的飞机，所以这台飞机搭载了 6 个纯电动涡轮引擎，依靠飞机底部的特斯拉同款锂电池组供电，续航时间足以满足你从黑龙江飞到海南岛。</p>
+<p>作为一台互联网飞机，用户完全不需要传统飞机复杂的操作，只需要一个 App，就可以好像“全民打飞机”一样开动这台颠覆性的飞机。</p>
+<p>我还将会开发一个 Fly OS，用户可以在这个系统中定制飞机的外观。</p>
+<p>最后，因为我们希望制造属于年轻人的第一台飞机，所以它的定价将会被控制在 100 万以内，同样的价格，你没法在大城市买一套房，但是你可以买一台飞侠飞机与家人见识这个美好的世界。</p>
+<p>在此，我向广大投资人发出融资请求：我希望大家能够给我投 300 万元人民币，我将在 1 年后完成这台飞机 1:18 模型的制作，两年内，我绝对能够……</p>
+<p>把 PPT 给大家做出来，希望大家能够相信我，谢谢。</p>
+<p><strong>@ XIAO XI：</strong></p>
+<p>还不如让老罗来做呢（额……这个）</p>
+<p>既然说得这么狠，说游侠是“PPT汽车”，那么就让我们来见识这原汁原味的PPT：</p>
+<p>1.当我们都老了甚至死了的时候，石油会枯竭【电才是未来，游侠电动有前景！】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe08DvDAdDN2sgvdVBeMqtW30XeFngkQRFW7IjXZPjcHKpGY0Z0WQ6shg/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>2.我们是一家有情怀的公司</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0Vn4tTnJWGRtia1RNTSTETWqfkhNq4Qx9M6WOFRXIjTlG4wZvlGYHsrA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>3.在中国这神奇的土地上，游侠有能力造好一辆汽车【其他中国公司都是屎！】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0aDVfmH7hpXXIOz8ibhmugShJkbrO1XPAVh21s4yV71hyXKJ0p9gKsaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>4.且听我们分析【开启催牛逼模式】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0HOyXp9IT7Wg4aQLWfhGuVSYEdba2HuaVRNyK5yibUkiaxUKcdxtXLD7A/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>5.看着这轮廓，还不错吧？</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0Pl4rDULibpZkC79fBh1Kj611AR8oD93ibNEM2hGF8hkBPo1ptWPk0ODA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>6.我们游侠公司是一家中国公司，我们不忘本，我从中国书法中提取柔中带刚的元素应用到产品设计上【毕竟民族的，才是世界的！】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe007SicbwlHyL1ibw0ibUwT8sw02utEzkTFQDicD4JASvZDrJG9V7qKzKibbA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>7.我们追随大师的脚步【我们是一家有有情怀的小公司】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0HHAXaJAy858zcoShtHklzaqnTw2uS3uFecYFshhZJoeHlwwbrQVPEA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>8.我们的车最漂亮【就靠这个吃饭了！】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0x4OGVcFlLeh91rMEUvl8AiaicRQFh7hq1C31O1Jds9ibkhbUplDdbov4Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>9.把镜头切换到观众席，看他们惊喜的脸孔！【从侧面证明，外观是漂亮的】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0dY8FO4vPQjcVO5U8Od4fEUkib69H0ZSMtAG1dy0neABNcX6QT1o4sfw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>10.我们的灯，玩得比奥迪好！【你们可以天天换不同颜色的灯喔~屌爆了】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0Uc1zPHCxbL9eteOIV0v8I8mY2B2myuq32swS8TZ5roFpLKOvuPz6QA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe089lrbRmvEeMPibdpfgTKPW8L1eSAH6mJyNX0runPaphiaoiaqSS1r45TA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>11.我们的音响碉堡天，可以模仿超级跑车的轰鸣声，也能够模仿拖拉机的咳嗽声哦。我们车的前脸，还可以跟川剧变脸一样变脸哦。【镀铬不错吧？高大上的感觉！还有啊，我们这辆车已经跟政府申请了，可以不用挂车牌】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0LicxmUp6nzoVPEkt3PZwOmv4lBoba3UsJK6SDJQvuQxYp45ba215G9w/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0XIkWn0ed54phU3cIlvqvF8HgngIibsKUeTzJkyibibgxnHexNHTsAosFQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>12.我们的内饰是高科技的，所以以下照片都是高光的哦。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe00QAeUK3PTaYzQFsVWvx25OQj9nAGAhDqibZTia5BvYIFBt8QSEjDWLmw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>13.我们是一家互联网公司，所以软件肯定不会差的啦~</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0Q3qFa1KaogrR4k6J316rlQ1UaexjCQcADBK6MrL3wg9XWEJFhr3UAA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>14.手机有的功能，我们也必须有。【毕竟，我们是一家互联网公司】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0KXYX2jGucgy5WK9iava6m3Z3iaX1sP01uoXWYYwJphajIv0ZcQW7mRuA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>14.别人能够做到的，我们也必须做到。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0GDxVyCpVNs3eU2g0BjJehe7jdQqmer6eGUkmibiaCia316Nctm7zhq6lA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>15.我们的参数也很好看</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0fdeplwiadJ2UouEEhl3Wc59psVhqDl9Shoj8H6LVicibicLbB7WqIo57Jw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0IToMxMibxStG5ic9ySlThWuzSMZmkZmCdiclchyB70cXjhicwO3J8c2r7g/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>16.我们改变了世界</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0ibRYh7VWFiceMDcEzd2fX5o6Az0ic5MXh9XpvsDrxTQOF6IbhcXalIV8Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>17.参数参数！</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0VNrWg8xOrSJzrBTXPibaAiawfuSIL7Vuic2rQdlriarviaeraCXgOljkTnA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>18.购买游侠电动车，就是为了省钱来的！</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0DKByAvpHD5xckGpgDick8eWTOD6WUibGIXo2ZVFiby70ReZ52GtVicCQzg/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>19.那么，这么牛逼的车我们什么时候才能买到？答：还要2年</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0JgCia2bQOkudBrWETjT3ZCVibHah3nQgT75CSJV0sTEX2LK1ewkhYQkg/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>20.情怀情怀！吐了……</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0avVzryJuib2OVRngIPRz4VibMvlAabKwiaZib8YzmMicuHIECHpxWsaBKibA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0z6GwbRu3N4OfEaBLQRp9VAbWftibtyAJRT9PBYDBf3b6PVD79B0vArw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>21.可以跟车合照了哦~【但是不能摸更不能开哦~因为车漆未干，电池也还未装上去】</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0gacdrjXvujUoREKqTTSn8iaXWeJHK8EPic99d3XDAsrn6iadBunu9iaVIA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>22.等我们把视频P下后，大家可以在线看哦</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0lMORiaf90od2kOIbtg1U3hkBpdBHU6zfc7JS3rqEaRMJe6rfeiaszgFw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>23.完</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0ZRgXavjickKZmiaH8NDDD0HQ213Yu3BiaOIw6wonYkibPTNPHe8X48n78A/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
+<p>恩，至少从汽车的LOGO来看，确实挺像特斯拉的！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E7%BD%91%E5%8F%8B%E6%8A%8A%E5%8F%B7%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%B8%B8%E4%BE%A0%E6%B1%BD%E8%BD%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ppt/?category=18271" rel="tag">ppt</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">互联网公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E6%96%B0/?category=18271" rel="tag">创新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%AF%A8/?category=18271" rel="tag">山寨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E6%80%80/?category=18271" rel="tag">情怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E8%83%BD%E6%BA%90/?category=18271" rel="tag">新能源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6/?category=18271" rel="tag">新能源汽车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%BD%E8%BD%A6/?category=18271" rel="tag">汽车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%BD%E8%BD%A6%E5%B7%A5%E4%B8%9A/?category=18271" rel="tag">汽车工业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E4%BE%A0/?category=18271" rel="tag">游侠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%96%AF%E6%8B%89/?category=18271" rel="tag">特斯拉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/?category=18271" rel="tag">电动汽车</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A5%EF%BD%9C%E8%82%A1%E7%81%BE%E9%87%8D%E6%BC%94%E5%8C%97%E4%BA%AC%E5%A4%B1%E7%AE%97-%E7%BE%8E%E5%9B%BD%E9%9A%94%E5%B2%B8%E7%BA%B5%E7%81%AB/" target="cdt-mirror">今日早报｜股灾重演北京失算 美国隔岸纵火</a>
 </h2>
 <p><p>昨日（7月27日）中国股市又经历了另一个黑色星期一，股市大跌8.5%，创8年以来最大单日百分比跌幅。余忧未尽的中国股民再次迎来了股灾，这次股灾爆发的原因到底是什么？阴谋论还能解释得通吗？</p>
@@ -863,38 +1013,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%9B%9B%E5%B7%9D%E9%9D%92%E7%A5%9E%E5%8E%BF%E5%AE%98%E5%91%98%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E4%B8%8D%E8%AE%A4%E5%B9%B2%E4%BA%B2%E5%B9%B2/" target="cdt-mirror">【异闻观止】四川青神县官员集体宣誓不认干亲干儿女</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/wangzch57566_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/wangzch57566_b.jpg" alt="打干亲宣誓现场" width="400" height="239"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/wangzch57567_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/wangzch57567_b.jpg" alt="打干亲宣誓现场" width="400" height="266"></a></p>
-<p>一场主题为“不‘打干亲’”的宣誓仪式，于近日引发关注。7月22日上午，四川省青神县300多名党员领导干部聚集在县清廉广场，集体公开签名，并举起右手就不以任何名义任何形式与任何人“打干亲”、“认干爹干妈”等作公开宣誓承诺。县委书记胡国民带头在“不‘打干亲’”集体承诺活动现场签名。</p>
-<p>据新京报记者近日了解，在青神的党员干部中确有“打干亲”现象存在，如关系比较好的干部之间，会认对方的儿女为干儿子或干女儿。禁止党员领导干部“打干亲”活动由县委办公室发起，县纪委具体执行，作出承诺的为副科级以上干部，未对普通工作人员提出要求。</p>
-<p><strong>副科级以上签承诺书</strong></p>
-<p>根据当地党报的报道，这300名党员干部，包括县委书记和乡镇班子成员等。另据青神县纪委和县委宣传部的工作人员透露，作出承诺的都是副科级以上干部，“不打干亲”专项整治活动未对普通工作人员提出要求。</p>
-<p>青神县纪委的一位工作人员说，禁止党员领导干部“打干亲”是青神县从严治党，净化政治生态的一个举措。该活动由县委办公室发起，县纪委具体执行。</p>
-<p>前述工作人员参加了22日的活动，他记得，时间是在9点前，县委领导班子的成员都参加了。会上领导做了简单的讲话，副科级以上干部去签了字，并宣誓承诺“不‘打干亲’”。</p>
-<p>至于为何将副科级以上干部作为该项整治活动的重点对象，青神县纪委工作人员表示，在县里，副科级以上干部往往是一个部门或单位的主要领导，拥有更多的权力，这个群体通过“打干亲”谋取私利的潜在可能性更高。</p>
-<p>他还表示，社会上的商人也可能通过“打干亲”来搞权钱交易，这也在该项活动的整治范围之中。</p>
-<p><strong>承诺活动曾遭遇阻力</strong></p>
-<p>当地媒体报道，青神县委书记胡国民（兼任县长）说，“打干亲”本是一种传统习俗。但是，这种传统习俗在个别时候被庸俗化、利益化。在党员干部队伍中，少数人以“打干亲”为名，拉帮结派，搞小团体，形成“圈子文化”。</p>
-<p>青神县纪委工作人员表示，在青神的党员干部中，确实有这样的现象存在。比如说，关系比较好的干部之间，会认对方的儿女为干儿子或干女儿。他还介绍，干部与干部之间，主要是认作干兄弟，不存在互相认作干爹干妈的情况。</p>
-<p>前述纪委工作人员坦言，一些党员领导干部可能通过“打干亲”的方式，互相牵线搭桥，谋取私利。</p>
-<p>当地媒体报道，截至7月22日，已有400余党员领导干部签订了“不打干亲”承诺书，还有50余名党员领导干部主动解除了“干亲”关系。</p>
-<p>青神县纪委工作人员说，县里有420余名副科级以上干部，目前都签了承诺书，没有不签的。不过，他也坦言该项活动曾遇到阻力，有人会认为自己并没有通过“打干亲”谋取私利。“第一个吃螃蟹的人，总会遇到不被理解的情况。”</p>
-<p><strong>已查出“打干亲” 8月底前解除关系</strong></p>
-<p>当地媒体报道，青神县专门成立了一名由县委副书记担任组长的专项整治活动领导小组。</p>
-<p>据了解，本月15日，青神县纪委印发通知，要求开展专项整治党员领导干部“打干亲”活动。根据安排，要求全县各级各部门公开承诺活动于7月30日前完成，书面承诺情况需要报所在单位或系统纪检监察机关备案。</p>
-<p>青神县要求，对前期自查出的“打干亲”关系，必须在8月底前予以解除。在8月底自查自纠阶段结束之后，如发现领导干部利用“打干亲”谋取不正当利益的，发现一起，纠正一起，查处一起，绝不姑息。</p>
-<p>青神县纪委工作人员对新京报记者表示，“打干亲”往往是口头缔约，解除干亲关系也是经过口头解除即可。</p>
-<p>新京报记者 贾世煜</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%9B%9B%E5%B7%9D%E9%9D%92%E7%A5%9E%E5%8E%BF%E5%AE%98%E5%91%98%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E4%B8%8D%E8%AE%A4%E5%B9%B2%E4%BA%B2%E5%B9%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E5%A5%B3%E5%84%BF/?category=18271" rel="tag">干女儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E7%88%B9/?category=18271" rel="tag">干爹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%B9%B2%E4%BA%B2/?category=18271" rel="tag">打干亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E9%92%B1%E4%BA%A4%E6%98%93/?category=18271" rel="tag">权钱交易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%99%E5%B8%A6%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">裙带关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">领导小组</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -906,7 +1024,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2nyp6w3ktvkkm.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ds0o1ncr69cqn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -916,5 +1034,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98
                 <td></td>
                 
         
-        <td><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/></td>    </tr>
 </table>

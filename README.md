@@ -24,6 +24,77 @@
         <td><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BA%94%E9%81%93%E5%8F%A3%E5%A5%A5%E8%90%A8%E7%8E%9B-%E9%83%9C%E8%89%B3%E6%95%8F%E7%9A%84%E6%95%85%E4%BA%8B%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E8%89%B2%E8%8D%92%E8%AF%9E/" target="cdt-mirror">五道口奥萨玛 | 郜艳敏的故事背后的黑色荒诞</a>
+</h2>
+<p><p>作者: 前《凤凰卫视》节目策划@五道口奥萨玛</p>
+<p>2006年年初，当时我刚进入鸟台，给做节目策划，发现了一则新闻选题，在河北曲阳县下岸村有一位被拐来的姑娘，从一个两千七百元买来的媳妇，最后没有选择出逃的道路，而是留在那个让她伤心欲绝的地方，成为了一个名扬乡里的乡村女教师。</p>
+<p>看到这个选题后，本能地觉得是一个好选题，符合栏目寻找宏大历史社会背景下个体命运抉择的定位。所谓宏大社会背景，指存在于事发地并非罕见的妇女拐卖问题，以及被拐妇女被迫成为生育工具，完成“任务”后，多数人选择逃走，村里留下没有母亲、父亲在外打工的留守儿童；另外，还有乡村代课教师的处境问题。而对于当事人来说，这是一个关于“当尊严被碾碎，生命又将如何重生”的故事，是自我救赎的艰难历程。</p>
+<p>最早发现这个选题的是当地的一个农民摄影家，他也是当地一份报纸的通讯员。最早的报道也是以图片报道的形式出现。通过这位当地朋友（也是后来引发争议的后续报道的记者之一）的帮助，我们联系到了这位郜老师。当时，除了首发的本地媒体外，还没有其他媒体跟进，因此我们的采访初期联系很顺利。</p>
+<p>几周以后，我们摄制组一行三人就驱车从北京来到了河北曲阳县下岸村。当时，郜老师正在村里的教学上班，我们决定先拍摄一些教学的纪实镜头再作采访。</p>
+<p>学校其实就是在村东头不远处的两间平房，村里所有的小孩不分年纪都在一个教室中就坐，分成不同年级作在不同组里。由于下岸村地处偏僻，最近的一所小学也路途遥远，加之贫穷，据说之前来过的代课教师都呆不下去，很快离开。整个学校也只有郜老师一个人。</p>
+<p>她的代课教师工资是一千多人民币，一年。</p>
+<p>课间，郜老师带着孩子们围成圈做游戏。正当摄像师全身心投入拍摄的时候，郜老师脸色突然阴沉下来。我们这才发现，离学校不远的村洞口的树下，不知道什么时候开始蹲着几个村外的人。这几个人蹲着、一边抽烟、一边远远地注视着我们。</p>
+<p>没多久以后，应该是得到了指令的确认后，就一拥而上，阻拦我们拍摄。并且动手抢我们的摄像机。本来在户外跟郜老师做游戏的孩子们吓得哭成一片。郜老师赶紧把他们带回教室。自己出来帮我们说话。</p>
+<p>我们出离的愤怒，不仅在于正常的采访被暴力中止，还在于这些暴行就发生在一班孩子们的眼皮底下，全然不顾他们的号啕大哭。</p>
+<p>撕扯中，摄制组的人或多或少都被划伤了手臂，但是究竟寡不敌众，机器等设备被抢走。一群人把我们护送出村。在村口，一个领头模样的当地干部对我说的话，荒诞至极：</p>
+<p>“记者老弟，人跟人的生活就像平行线，我们在这里交汇也算是有缘份，不要互相为难。”</p>
+<p>我当时觉得在一番撕扯后说出如此人生哲理，真是啼笑皆非。只想要回机器，只好问，机器怎么办？</p>
+<p>“平行线哥”说：明天中午12点，到车站附近。到时候会有人联系你们。</p>
+<p>走之前，郜老师偷偷塞给我一张纸条，上面写着“东西在我这，放心。”后来我才知道，郜老师以为别在她身上的“小蜜蜂”无线麦是磁带，让孩子藏到屋后。</p>
+<p>这张皱巴巴的纸条在之后一直留在我的钱包里。</p>
+<p>第二天中午，我们按照约定时间开车到车站附近。因为对方没有说定具体地点，我们只能开车围着车站兜圈。正在怀疑对方是不是在耍我们，在一个红灯路口，我们停下车。这时候突然有一个人不知从哪儿冒出来，拍打我们副驾驶的车窗，我们正奇怪遥下车窗的时候，这个陌生人把我们昨天被抢的机器递了进来。挥挥手，意思是你们可以走了。</p>
+<p>我们一车三个人瞠目结舌。红灯停车不过几十秒。我们的一举一动早已被对方了如指掌。</p>
+<p>第一次采访在如此曲折中结束。我们推测对方如此大动干戈的原因在于他们料想到采访肯定多少会曝露出当地妇女拐卖问题严重的事实。</p>
+<p>这里要补充一点背景信息：1、被拐卖的妇女往往来自更加贫穷的地方，人贩子认为这样他们被拐后才不会想跑；2、拐卖多伴随人贩子的强暴等犯罪；3、郜老师当时为了尽快逃脱人贩子的施暴，自己甚至用藏在鞋底的钱补足了买家与人贩子要价之间的差价。</p>
+<p>我们陷入了一个困境。我们料想到可能会发生的事情：1、地方上肯定会对下岸村严加盯防；2、郜老师的处境会变得更加糟糕。当时能帮到她的唯一方法，就是待机再次采访，让节目顺利播出。在这个事件中，我们能想到的对郜老师最好的保护是公众的目光。</p>
+<p>若干月以后，我们再次来到下岸村。在我们采访失败后，村口每天都有人来“上班”。于是我们选择“日落而作，日出而息”的方法。前一天等天黑以后，悄悄进村。在郜老师家住了一夜。就着火炕，跟郜老师聊了很多这期间的曲折。第二天一早，郜老师为我们炒了一大盆蛋炒饭，放了四个鸡蛋。我们赶在大亮之前完成了纪实拍摄。在村口“上班”的人到岗之前就已经离开。</p>
+<p>几周后，郜老师顺利地来到北京，我们完成在全部的采访工作。节目顺利播出。海内外反响强烈，那是一个还没有社交媒体的时代。我们的电话被打爆。要求捐款的海内外观众络绎不绝。我们也拿到并公布了郜老师她的帐号，她也几番推托。</p>
+<p>后来，下岸村发生了几件事：</p>
+<p>1、当地有关部门据说多次找郜老师，要帮她成立一个基金，妥善保管和处理捐款问题。</p>
+<p>2、郜老师被评为感动人物。</p>
+<p>3、郜老师带着孩子们又来了一次北京，看了天安门升旗仪式。</p>
+<p>4、郜老师故事改编成了电影，叫《走出大山的女人》。</p>
+<p>郜生过两个孩子，两次自杀，并没有死，她被赶来的村民救了起来。一年后买家同意由郜艳敏的丈夫赔她回一趟老家。突然见到失踪的女儿，父母和郜艳敏抱头痛哭。郜艳敏希望能够留下，但在同样贫穷封闭的家乡，摆在她面前的命运，也许比作为一个被拐女终老他乡更加灰暗。因此无奈的父母能劝她的只有两个字认命。</p>
+<p>当时后续一幕幕，让我们觉得此事就是时代黑色幽默最好的注脚。个体命运的无力只能通过荒诞的自我建设完成救赎，但对于个体来说，除此以外又能做些什么呢？而对宏大社会问题的探讨却会被暴力阻挠。要知道，在郜艳敏之前，是无数被拐妇女的个人与家庭悲剧。</p>
+<p>未曾想到的是，事隔八年以后，郜老师再次走进公众视野。</p>
+<p>（完）</p>
+<p>*由于事隔久远，部分时间细节可能有所出入。</p>
+<p>*本文属于个人手记，不代表任何组织结构立场。)</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BA%94%E9%81%93%E5%8F%A3%E5%A5%A5%E8%90%A8%E7%8E%9B-%E9%83%9C%E8%89%B3%E6%95%8F%E7%9A%84%E6%95%85%E4%BA%8B%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E8%89%B2%E8%8D%92%E8%AF%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">人贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88/?category=18271" rel="tag">代课教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BD%E8%BF%90/?category=18271" rel="tag">命运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%B7%A5/?category=18271" rel="tag">打工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E7%A9%B7/?category=18271" rel="tag">贫穷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E9%97%AE%E9%A2%98%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E6%BF%80%E8%B5%B7%E5%8F%8D%E5%8D%8E%E6%83%85%E7%BB%AA/" target="cdt-mirror">纽约时报 | 新疆问题在土耳其激起反华情绪</a>
+</h2>
+<p><p>北京——对很多中国人来说，本月来自土耳其的一些影像相当凶狠骇人。</p>
+<p>网上的视频以及在伊斯坦布尔拍摄的照片显示，土耳其和维吾尔族示威者在中国领事馆外焚烧了中国国旗；愤怒的人群<a title="Link: http://www.hurriyetdailynews.com/video-turkish-nationalists-protesting-china-attack-korean-tourists-in-istanbul.aspx?PageID=238&NID=84972&NewsCatID=338" href="http://www.hurriyetdailynews.com/video-turkish-nationalists-protesting-china-attack-korean-tourists-in-istanbul.aspx?PageID=238&NID=84972&NewsCatID=338" target="_blank" rel="nofollow">狂躁地冲向韩国游客</a>，似乎误以为他们是中国人；以维吾尔人为主的暴民砸烂了<a href="https://www.youtube.com/watch?v=pi_-qZ4GTSY" target="_blank" rel="nofollow">泰国领事馆的窗户</a>，因为泰国违背当事人的意愿，将100多名维吾尔人遣返中国。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/27chinamemo-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/27chinamemo-articleLarge.jpg" alt="土耳其反华" width="500" height="333"></a></p>
+<p>中国人可能在疑惑，土耳其是否仍然是原来的那个土耳其——那个吸引了越来越多中国游客，同意<a href="http://cn.nytimes.com/china/20131021/c21arms/" target="_blank" rel="nofollow">从中国公司购买</a>导弹防御系统，付钱让中国国有企业在该国两座最大的城市之间修建<a href="http://cn.nytimes.com/china/20140729/c29rail/" target="_blank" rel="nofollow">长达300英里高铁</a>的土耳其。</p>
+<p>土耳其的前身是奥斯曼帝国，一直以整个中亚地区突厥语系人口的保护者自居——这包括了以穆斯林为主的维吾尔人，他们居住在中国西部的新疆，与在中国占主导的汉族之间关系越发紧张，暴力活动日益加剧。维吾尔人称这是因为他们受到了官方的压制，而中国官员指责这是由于恐怖主义意识形态。</p>
+<p>一些分析人士思忖，这个在土耳其长期发酵的问题，是否会逆转两国不断加强的经济和外交关系，损害两国在彼此眼中的形象。就在这些问题出现之时，土耳其总统雷杰普·塔伊普·埃尔多安(Recep Tayyip Erdogan)周二离开了土耳其首都安卡拉，对中国进行国事访问。</p>
+<p>“双边贸易不断增长，中国向土耳其出售了一些武器，各个领域的合作已在开展，”中国社科院中东问题研究员殷罡说。“然而维吾尔问题成为了拦路石，土耳其公众因此对中国怀有敌意，我们在这方面可以做的事情不多。”</p>
+<p>周二当天，埃尔多安的办公室并未提供有关他中国之行的细节。与政府关系密切的土耳其报纸报道，一群土耳其商人将陪同埃尔多安一同访华。报道并未提及埃尔多安是否打算同中方提出维吾尔人问题。埃尔多安同时面临的问题还有，该国打击伊斯兰国(Islamic State)及库尔德武装的战斗出现了升级。</p>
+<p>最近几周的两次事态发展，致使维吾尔人问题在两国关系中处在了突出的位置。7月初，听说中国官方迫使新疆的维吾尔人在穆斯林斋月期间进食，而且可能还杀害了一些违反命令的人之后（尚未证实发生过这类杀人事件），土耳其人和维吾尔人在伊斯坦布尔和安卡拉的<a href="http://www.aa.com.tr/en/news/548404--turks-gather-to-protest-chinas-alleged-fasting-ban" target="_blank" rel="nofollow">街头举行了抗议</a>。街头集会与土耳其一个保守的民族主义政党有关联。</p>
+<p>几天后，土耳其人和维吾尔人又抗议泰国将<a href="http://cn.nytimes.com/asia-pacific/20150710/c10uighur/" target="_blank" rel="nofollow">维吾尔人强迫遣返</a>。泰国的行为也遭到了联合国难民事务高级专员公署(Office of the United Nations High Commissioner for Refugees)和人权组织的谴责。中国官员坚称那些维吾尔人计划经土耳其前往叙利亚和伊拉克，加入伊斯兰国。该组织亦称为ISIS或ISIL。</p>
+<p>最近几周，围绕新疆维吾尔人处境的问题，中国和土耳其有过激烈的外交交锋。6月30日，土耳其外交部称，禁止斋月封斋的报道，以及对其他宗教行为的限制“让土耳其民众感到难过”，且土耳其已向中国大使表达了“深切关注”。</p>
+<p>中国的回应相当于一场宣传运动：外交部女发言人华春莹在北京表示，“维吾尔族民众安居乐业，享有宪法规定的宗教信仰自由。”中国官方新闻机构发表文章，并在Twitter上发贴，介绍中国境内的维吾尔人在斋月期间封斋的情况。</p>
+<p>纽约时报中文网 国际纵览</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E9%97%AE%E9%A2%98%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E6%BF%80%E8%B5%B7%E5%8F%8D%E5%8D%8E%E6%83%85%E7%BB%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%8E/?category=18271" rel="tag">反华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94/?category=18271" rel="tag">维吾尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E7%91%9C%E7%96%91%E6%82%A3%E7%99%8C%E7%97%87%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96/" target="cdt-mirror">自由亚洲 | 高瑜疑患癌症健康恶化</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/43852c283d3f71a354c4871f24cab36a.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/43852c283d3f71a354c4871f24cab36a.jpg" alt="前记者苏雨桐表示，她脖子有一侧是淋巴结，另一侧有肿块，医生说不排除是癌症，或是恶性肿瘤。（法新社图片）" width="620" height="414"></a><p>前记者苏雨桐表示，她脖子有一侧是淋巴结，另一侧有肿块，医生说不排除是癌症，或是恶性肿瘤。（法新社图片）</p></div>
@@ -141,6 +212,27 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BB%84%E4%BD%9F%E4%BD%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%90%86%E7%94%B1%E4%B8%8D%E6%94%AF%E6%8C%81%E5%A5%B3%E6%9D%83/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%BA/?category=18271" rel="tag">中国女人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%89%E6%A3%8D/?category=18271" rel="tag">光棍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E8%BA%AB/?category=18271" rel="tag">单身</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E6%81%8B/?category=18271" rel="tag">婚恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%80%E5%AD%95/?category=18271" rel="tag">怀孕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9/?category=18271" rel="tag">政治权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9/?category=18271" rel="tag">社会福利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%9D%83%E5%88%A9/?category=18271" rel="tag">经济权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE/?category=18271" rel="tag">解放</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BF%BB%E5%A2%99-%E5%90%91%E6%9B%B2%E5%BE%84%E7%BF%BB%E5%A2%99%E8%AF%B4%E5%86%8D%E8%A7%81/" target="cdt-mirror">翻墙 | “向曲径翻墙说再见”</a>
+</h2>
+<p><div dir="ltr">
+<div>7月29日，知名翻墙服务曲径（<a href="https://getqujing.com/" target="_blank" rel="nofollow">https://getqujing.com/</a>）宣布关闭服务，其原因是“国家要求互联网用户从正规渠道获取信息”。目前，尚不清楚开发者遭受了何种公权力所施加的压力（有网友怀疑是遭喝茶），但开发者已明确表示退出此领域，这也使得曲径成为最新的一个倒下的商业翻墙服务。</div>
+<div></div>
+<div><a href="http://4.bp.blogspot.com/-VGSH3c3htBA/Vbg8BUOF4gI/AAAAAAAACc4/kHqsuicZ7kg/s1600/%25E6%259B%25B2%25E5%25BE%2584.jpg" target="_blank" rel="nofollow"><img src="http://4.bp.blogspot.com/-VGSH3c3htBA/Vbg8BUOF4gI/AAAAAAAACc4/kHqsuicZ7kg/s640/%25E6%259B%25B2%25E5%25BE%2584.jpg" alt="" width="640" height="452" border="0"></a></div>
+<div></div>
+<blockquote lang="en">
+<div dir="ltr" lang="zh">各位，再见 <a href="https://t.co/aMmaRsvQIA" target="_blank" rel="nofollow">https://t.co/aMmaRsvQIA</a></div>
+<p>— 曲径 | Qu Jing (@getqujing) <a href="https://twitter.com/getqujing/status/626206480467906560" target="_blank" rel="nofollow">July 29, 2015</a></p></blockquote>
+</div>
+<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html" target="_blank" rel="nofollow">订阅地址及社交帐号</a></div>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
+<hr><p><small>© 亚克蜥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BF%BB%E5%A2%99-%E5%90%91%E6%9B%B2%E5%BE%84%E7%BF%BB%E5%A2%99%E8%AF%B4%E5%86%8D%E8%A7%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B2%E5%BE%84/?category=18271" rel="tag">曲径</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">被屏蔽</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 9小时前</small>
@@ -733,91 +825,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8E%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E6%9C%80%E5%90%8E%E4%B8%BA%E4%BD%95%E5%A4%9A%E6%88%90%E7%93%9C%E8%94%93%E6%8A%84%EF%BC%9F/" target="cdt-mirror">何清涟：中国反腐最后为何多成“瓜蔓抄”？</a>
-</h2>
-<p><p>令计划案件结局初现，周永康案余震还波及了封疆大吏周本顺。有人感叹，这些故事再度演绎了寒门子弟励志向上，终至卿相，在位极人臣之后又惨罹灭门之祸的王朝故事。这种感叹并非无因，从这些政治大事件的缘起、事件所涉人物的结局等来看，确实与王朝故事没有本质差别，分析这种现代版王朝故事，有助于人们了解中国政治属性，以及今后这类事件还会不会重演。</p>
-<p><strong>周、令两案演绎当代版的“瓜蔓抄”</strong></p>
-<p>薄、周、令三案，其实都缘于“不讲政治规矩”。但问鼎的核心人物薄家只有夫妻二人陷狱，周、令两家几乎是“瓜蔓抄”，周家只有儿子周涵因生母不明死亡之事与父亲断交，完全无涉，方保持了自由身；令家两代人如今只剩下令狐路线与令狐剑两人算是自由身。其间原因，当然是三人出身不同，薄家位列红色公侯，算是“主子”；周出身寒门，令家只算附上“老革命”骥尾，不是红色权贵圈中人。</p>
-<p>从周令两案牵涉人数及其与核心人物周令二人关系来看，几乎就是明朝永乐帝时期的“瓜蔓抄”。</p>
-<p>何谓“瓜蔓抄”？中国王朝时期历来有灭三族（父族、母族、妻族）之重刑，谓之“族诛”。据考证，族诛始于商朝，至秦朝发展为诛三族、五族、七族。至隋，宽仁为政的隋文帝认为太残酷，予以废除，但旋即被其子隋炀帝复行并扩至诛九族。降及明朝，还出现史上唯一一次的诛十族，永乐皇帝朱棣深恨方孝孺不降，将与方孝孺有师友关系的人算为一族，列入诛杀之列。这十族当中，除了永乐帝发明的“师友一族”属于非血缘关系之外，其余三族直至九族，虽然解释有不同，但均是血缘关系。</p>
-<p>我在此借用这个词，不取明人对永乐皇帝夺位后严惩方孝孺引发世人腹诽，因而用“瓜蔓抄”一词形容其酷之用意，只取其惩罚所涉之面。如果用现代政治语言来说，“瓜蔓抄”可表述为“以周令二人为核心建立的利益集团全军覆灭”。</p>
-<p>细究起来，现代版瓜蔓抄还是与王朝时期不同，一是因为中共建政后，宗族关系被视为封建余孽予以扫荡；二是毕竟进入人口高度流动的工业化社会与信息社会，血缘关系的羁绊弱了许多，利益分享之时这种关系不是必然考虑因素，因此，被牵涉进案中的主要是当事人的直系亲属兼子侄辈、姻亲之类，五服之类的血缘亲属只要没有利益纠葛，不会因血缘关系列入其中。倒是“师友关系”的现代变种，即官场上下级因利益结成的保护者与被保护者关系网，成为被打击的主流。</p>
-<p>周永康任职经历丰富，其宦海泛舟之处，如石油系统、四川省、政法系统、先后任用的秘书亲信，无不在扫荡之列，近几年倒台的省部级官员当中，至少有80%左右与周有涉。令计划的任职经历相对简单，从山西直接进团中央，因而只有西山会（山西帮）及其直系亲属成为反腐目标，在官场引起的震动远较年长十来岁、任职经历更为复杂的周永康小得多。</p>
-<p><strong>中国政治硬币的两面：荣与辱</strong></p>
-<p>一般来说，王朝体制下，瓜蔓抄多用于谋逆大罪，既云谋逆，自然得有帮派，一个人是无法谋逆的。为官不清（即腐败）、行为不检等只是副产品。但世界早就进入民主化时代，第一强国美国总统都是风水轮流转，中国毕竟挂了个“共和”名号，不再是世袭罔替的家天下，所以“谋逆”这罪名无论如何端不上台面，只能用别的罪名，比如泄露国家机密、破坏党内政治规矩、腐败等等。但这不影响办案时采用瓜蔓抄方式。</p>
-<p><strong>现在再来回答一个问题：这种瓜蔓抄合不合理？</strong></p>
-<p>在今天的西方社会，这种先抓人、后定罪的瓜蔓抄肯定不会发生，配偶、父母与子女之间在犯罪中的合谋关系、甚至一方是另一方犯罪的受益者都需要证据，必须遵循无罪推定这一司法原则。</p>
-<p>列入中国“红色通缉令”百名追缉犯之一的程慕阳就是一例。中国法院判决认为，程慕阳1997年在河北省政府北京购买地产的一笔交易中扮演了中间人，他和经纪人将这笔交易价格被抬高部分的收入占为己有，被指控侵占人民币280万元。加拿大联邦法官罗伊指出，加拿大难民署2014年10月做出的拒绝程慕阳难民申请的决定，是依据他们相信程犯有严重罪行，但这依据过于依赖中国法院的结论，因为这些证据，要不就是加拿大难民署无法得到的，要不就是“模糊不清和第三手的”。罗伊法官写道，他“难以理解的是什么证据可以证明程慕阳为共犯”，“我并不是说不存在证据，而是说这些文件并没有包含任何可以显示资金转移到程慕阳账号、能被中国法院裁决为欺诈的证据。”</p>
-<p>程慕阳是河南前省委书记程维高之子。程维高于1990年至1998年，历任中共河北省委副书记、省长；中共河北省委书记，是中共第十三、十四、十五届中央委员会委员。中国人当然都清楚，如果程慕阳不是凭借其父亲程维高之势，不可能白手起家，用不到10年时间，创办了32家海内外公司，资产总值达数亿元人民币。也不可能在2000年8月其父程维高秘书李真受贿、贪污案发之后，顺利经香港逃往加拿大。当然也不可能被河北省政府认可为房地产交易中间人。</p>
-<p>因此，程慕阳被列为“猎狐计划”，在中国，无论是朝廷还是民间，都认为应该而且合理。这倒并非朝廷昏愦，民间是非不明，而是如我曾强调的那样，中共垄断着中国所有的资源分配大权，极易形成家国一体的利益输送机制，掌权者通过一家两制的方式让家人肆意攫取公共财是中共政治通例。这些权势人物大权在握，可以让自己的妻子情人子女利用其权势攫取财富，可以让自己的被保护者官运亨通、发财致富；当这些权势人物倒台后，清算其家族巧取豪夺来的财富、清算其卵翼之下的被保护网络，本来就是题中应有之义。一荣俱荣，当年幸运时，一人得道，鸡犬升天，家族成员等享受的是政治硬币上荣华富贵那一面；如今一损俱损，得与家主一道承担失败带来的耻辱。</p>
-<p>猎狐行动海外受阻，并不证明这些外逃贪官家属子女的灰黑色财富来源就合理了，只能说这些人利用了文明国家的法律保护了自己。这些文明国家制订法律时，不可能考虑到这么复杂的中国因素，更不知道世界上还有中国这种家国一体的利益输送体制。</p>
-<p><strong>制度依旧，制度诅咒就仍然灵验</strong></p>
-<p>我曾写过一篇《从周、令、薄三案看中国政治的制度诅咒》，指出中国反腐中的瓜蔓抄现象，其实缘于中国政治体制的制度诅咒。这种制度诅咒包含三重：第一重，权力对资源支配形成的利益帮派化成必然趋势。附着于利益链条上的帮派坐大之后，对中共的中央集权是种挑战，让最高领导人缺乏安全感；第二重，官员对资源拥有支配权，必然形成家国一体的利益输送机制，家族腐败是中共官场之特色；第三重，“二代”们不可避免地具有“权力的傲慢”之特质。后两者在中共政治中不是致命的，但如果家主卷入了不讲规矩谋求最高权力宝座的政治帮派之争，后两点就必然成为突破口。</p>
-<p>相较帝制而言，中共政治体制有个特点：有帝制之专制及裙带特点，却无最后责任人。封建王朝的最高责任人是皇帝，所以皇帝会在国难频发之际发个罪己诏，以示负责，以此挽回一点民心。中共政治体制从诞生之日开始，问责从来不及最高领导人。毛泽东一手制造了饿死3000万人的大饥荒，也无须用任何形式谢罪，继续伟大光荣正确下去，直至死后还能继续封神，罪责判由其妻等人承担。</p>
-<p>中国政治这三重“制度诅咒”，既锻造了家国一体的利益输送管道，让权贵与官员们“一人得道，鸡犬升天”，但最后也让不少人身败名裂，罹倾巢之痛。薄、周、令三人，既非蒙受中共政治制度诅咒的第一批，当然也不会是最后一拨。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E6%9C%80%E5%90%8E%E4%B8%BA%E4%BD%95%E5%A4%9A%E6%88%90%E7%93%9C%E8%94%93%E6%8A%84%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">不讲政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">中国政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E9%9B%86%E6%9D%83/?category=18271" rel="tag">中央集权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%B3%BB%E7%BD%91/?category=18271" rel="tag">关系网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%93%BE%E6%9D%A1/?category=18271" rel="tag">利益链条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">周永康案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%AE%97/?category=18271" rel="tag">清算</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%99%E5%B8%A6/?category=18271" rel="tag">裙带</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E6%94%BE%E5%BC%80%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA-%E4%B8%8D%E4%BC%9A%E5%A4%A9%E4%B8%8B%E5%A4%A7%E4%B9%B1/" target="cdt-mirror">阑夕 | 放开专车市场 不会天下大乱</a>
-</h2>
-<p><p>2015年初，北京市交通执法总队对外表示，互联网公司的“专车”服务变相为乘客提供黑车。借助手机软件从事非法运营的车辆，一旦被核实从事非法运营，将按高限处罚（罚款2万元）。</p>
-<p>上周周末，北京市委宣传部旗下的《京华时报》再度投射炮弹，称北京市交通执法总队已查处私家车、租赁车2147辆，其中“滴滴专车”1211辆，罚款2400多万元。</p>
-<p>此外还组织了互联网专车的“四大罪状”，其中“罪状”之一被归纳为“发布广告”，真是令人费解。</p>
-<p>（“四大罪状”：涉嫌违法组织客运经营、逃漏税、违规发送商业性短信息和发布广告等）</p>
-<p>费时大半年，围绕甚嚣尘上专车争议，其实已无多少剩余盲区，万物归宗，全都聚于一个“法”字。根据中国现代化进程的轨迹，经济领域的立法精神总体而言仍然遵循罗马法的复兴，用法学家江平的话来说，市场经济的法律“是由意志本位到规律本位的回归”。</p>
-<p>换而言之，它强调的是权利主张，而非管理主张，比如“投机倒把罪”的废除就极具代表性，属于法制无法适应经济发展而让位于后者的案例。</p>
-<p>北京交通部门的理由相当“政治正确”，其称北京作为特大型城市，公交优先是交通发展的根本战略，而出租车（这里指的是广义上的租赁车辆，包括专车）对道路资源的占用过高，需要控制比例。</p>
-<p>早在2011年，北京交通发展研究中心主任郭继孚就指出北京的公共交通网络存在关键性的弊病，其不堪重负的效率配置导致平均出行速度仅为私家车的40%，时间浪费的损失总量不容小觑。同时，公共交通的连年亏损，造成巨额补贴的持续投入，最终通过涨价逼走经济承受能力最弱的乘客群体，也谈不上战略合理。</p>
-<p>同时，“打车难”亦是困扰北京多年的社会议题，高峰时期，乘客无论是打不到车还是遭遇拒载，都是相当恶劣的体验，而出租车司机一边苦于居高不下的“份子钱”，一边抵触出租车总量的扩容。</p>
-<p>互联网专车之所以能够以一个纯商业产品的面貌而得到众多坚定不移的拥戴声音，并非人们热衷于践踏法律，而是“共享经济”确实解决了资源匹配的问题，人们亦无理由同情一份与公共利益站在对立面上的法律条款。</p>
-<p>与Uber在西方不少国家的情况的细微区别在于——欧洲民主选举制度以工会势力为重要票仓，政府迫于工会压力而对Uber颇有微辞，却又很难“一刀切”的得罪同样也是选民的Uber拥趸——北京交通部门表态“正在深入研究出租车行业改革的相关举措”，实际上仍是无法舍弃牌照背后的寻租空间。</p>
-<p>1992年，北京开放不必挂靠于出租车公司的个人经营牌照，不过短短两年之后，这个渠道就被重新禁止，暂停审批直到今天。仗着垄断稀缺资源，北京的出租车公司每个月坐收4亿余“份子钱”，但是根据2年前的听证会，出租车公司的企业利润仅为3%，管理成本之剧，让人难以相信这个行业的健康型。</p>
-<p>事实上，2012年国务院就已提出政府应要退出“凡公民、法人或者其他组织能够自主决定，市场竞争机制能够有效调节，行业组织或者中介机构能够自律管理的事项”，若是政府难以遏制权力膨胀的惯性，只会让“互联网+”成为一句空话。</p>
-<p>时至今日，互联网专车在经历了“非法”的野蛮生长之后，它的可行性和风险性都已受到充分检验，那些殚精竭虑的忧虑并未成真，专车就是一个更为灵巧和自由满足供需关系的交通商品，它不见得更加安全，但也绝对不更为危险。</p>
-<p>除了合法性的问题之外，关于监管、税收等事项，皆可通过与提供专车服务的互联网公司共同完成，于情于理，都不应使用最无赖、最官僚的“封杀权”。</p>
-<p>就像淘宝刚刚问世的时期，公众讶异于“没有经营许可证怎么能够做生意”，媒体亦煽动这种网络摊贩会让实体行业血流成河。如今，人们早已习惯享受电子商务的便利，而商业地产一路攀升，亦找到了与网络共存乃至合作共赢的契机。</p>
-<p>流水不腐，户枢不蠹。城市本身就是一个庞大的生态系统，如果不让这个生态系统主动消化创新，那么创新本身便会远去，并使全民承担蒙昧的代价。</p>
-<p>开放专车市场，真的不会天下大乱。而一味阻止发展趋势的做法，反而可能成为历史的耻辱柱。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%98%91%E5%A4%95-%E6%94%BE%E5%BC%80%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA-%E4%B8%8D%E4%BC%9A%E5%A4%A9%E4%B8%8B%E5%A4%A7%E4%B9%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/uber/?category=18271" rel="tag">uber</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6/?category=18271" rel="tag">专车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">专车市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E9%83%A8/?category=18271" rel="tag">交通部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BD%E5%AD%90%E9%92%B1/?category=18271" rel="tag">份子钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">公共利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6/?category=18271" rel="tag">出租车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/?category=18271" rel="tag">出租车司机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%AB%98%E6%96%87%E8%B0%A6%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%85%E6%97%A0%E5%AE%98%E5%BF%83%E5%A4%96%E6%97%A0%E6%B0%91%E5%BF%83%EF%BC%8C%E6%89%8D%E5%A4%A7%E5%BF%97%E7%96%8F%E8%A6%81%E5%81%9A/" target="cdt-mirror">高文谦：习近平内无官心外无民心，才大志疏要做亡党之君</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/03/%E4%B9%A0%E5%A4%A7%E5%A4%A7.jpg" alt="习大大" width="282" height="307">今年七一，是中共建党94周年。因为不是逢五逢十，官方不会大张旗鼓地纪念，面临各种生存压力的中国民众更不会有多少人在意这个日子。它只是提醒人们一个事实：中共离“百年老店”的门槛只有一步之遥。如同一个人的生命周期一样，中共经历了从诞生、青少年和壮年时期， 现在已进入风烛残年，百病缠身，来日无多。</p>
-<p>应该说，习近平上台前对中共的现状是很清楚的，知道共产党深入骨髓的腐败已经失去民心，党面临生死存亡的关头，他不想做亡党之君。习上台后，用“中国梦”开局，宣称要“实现中华民族的伟大复兴”，并下大力反腐，企图扭转颓势，再造共产党，使其起死回生，在中共建党100周年的时候，告慰以毛泽东为首开创红色江山的父辈。</p>
-<p>作为红二代出身的中国最高领导人，习近平这样的想法可以理解，借反腐震慑官场，树立个人权威也无可厚非。可惜的是，他昧于大势，反腐的目的和采取的方式，与世界潮流和人心所向背道而驰——反腐只是为了救党保权，只反贪官（老虎苍蝇），不反皇帝（一党体制），现在已经骑虎难下。</p>
-<p>习近平的困境</p>
-<p>习近平面临的根本困境是，党国体制是产生腐败的制度根源，而他本人恰恰就是这一体制最大的既得利益者。本来反腐有强大的民意基础，民心可用，但习近平怕危及一党天下，不敢动用民间道义资源，反而把要求公示官员财产的活跃人士抓进监狱，结果只是习王两人与整个官场孤军作战，虽然占有道义上的制高点，却缺乏体制内的支撑力量，势单力孤。这种首鼠两端的做法，既挫伤了民心，又得罪了整个官场，两头失塌，里外不是人，陷入“不反腐亡党，反腐也要亡党”的两难困境之中。</p>
-<p>习近平不想做亡党之君</p>
-<p>本来，习近平准备重判周永康，借其项上人头，来震慑官场，彰显铁腕反腐的决心，但遭遇滑铁卢。对周永康来说，其实判死缓和无期并没有什么实质区别，但党内高层就是不买习的账，由此可见习王的孤立，不得不做出妥协，高层反腐到此为止。在此之前，反腐已经受到党内各方的抵抗和反弹，显示出大局逆转的迹象——先是两会期间曾庆红的秘书高调反击中纪委“庆亲王”的影射文章；接着，郭文贵在海外揭胡舒立的隐私，影射王岐山，以其人之道还治其人之身，成为大局逆转的重要节点，此后高层反腐戛然而止。</p>
-<p>除了来自党内的抵抗之外，令反腐大局逆转的另一个重要的原因是经济全面下滑，实体经济一片萧条，长期积累的房市泡沫、地方债务泡沫、内贬外升的虚假汇率三大问题逼近同时爆发的临界点，经济已成为压倒一切的问题。更让问题雪上加霜的是，习王反腐得罪了整个官场，集体懒政怠工不作为已经成为官场的“新常态”。在这种情况下，习王不得不调整反腐的力度，软硬兼施，说服官员以大局为重，为党分忧。</p>
-<p>但是，习王铁腕反腐破坏了多年来中共官场的潜规则，重搞毛时代的你死我活，一人落马，全家遭殃，让中低层官员感到心寒，离心离德，表面上敷衍，实际并不真出力。“一带一路”雷声大雨点小，迟迟落实不了就是例子，急得李克强干着急没有办法。而在党内高层，习王反腐几乎得罪了所有的人，特别是以反腐为名集权，掺杂私货，为了扶植习家军在中共十九大上位，把挡路的团派和江派绑在一起打，炮制周、薄、徐、令“新四人帮”的做法，受到高层各派的联手抵制，处境相当孤立。</p>
-<p>反腐能否救党？</p>
-<p>习近平虽然大权在握，反腐也占据道义的制高点，但中共官场几乎没有一个人的屁股是干净的，反腐动了官场所有人的蛋糕，与整个体制为敌。如果不从改革政治制度入手，反腐只是在挖党的墙角，自毁形象。借用最近《中国纪检监察报》的说法是“反腐败是把双刃剑，打的是违纪违法党员干部，疼的是组织，损害的是党的形象。”因为大家都在共产党这条船上，把船弄翻了，谁也不会答应。这就是习王反腐表面上轰轰烈烈，实际上孤掌难鸣，受到众多制肘反扑，搞不下去的原因。</p>
-<p>习王铁腕反腐破坏了多年来中共官场的潜规则</p>
-<p>习近平铁腕反腐，搅动了江胡时代的一潭死水，已经没有退路。中共高层内部已经为此撕破了脸，目前达成的妥协只是暂时的平衡，随时可能打破。习近平以反腐开局，为了救党，反而危及了共产党统治的稳定。如果反腐不了了之，习近平的新政也就寿终正寝了，而且打虎不成，反被虎噬，势必遭到反对势力的清算，这是习近平现在最大的心病。</p>
-<p>习近平生逢末世，心高命薄，虽想力挽狂澜，但志大才疏，缺少历史的大视野，囿守一党之私，没有勇气开创新局。他上台后在内政外交上四面出击，八面树敌，几乎得罪了中国社会各个阶层，人权状况急剧恶化，老百姓非但没有得到反腐的实惠，反而受到各种打压，生计上陷入困境，党内外人心思变。习近平虽然不想做亡党之君，但这种搞法，明显逆历史潮流而动，已经把上台时的一盘好棋走成死局，照这样下去，能不能撑到中共建党100周年，只有天晓得。</p>
-<p>作者系前中共中央文献研究室专家 高文谦</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%AB%98%E6%96%87%E8%B0%A6%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%85%E6%97%A0%E5%AE%98%E5%BF%83%E5%A4%96%E6%97%A0%E6%B0%91%E5%BF%83%EF%BC%8C%E6%89%8D%E5%A4%A7%E5%BF%97%E7%96%8F%E8%A6%81%E5%81%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -829,7 +836,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iozzb1m9b94c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsgmenuw8l4my.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -839,5 +846,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3e575lz8o6fco.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kgvctyluk389.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,140 @@
                 <td></td>
                 
         
-        <td><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E4%B8%BA%E5%B1%B1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/" target="cdt-mirror">【异闻观止】 郜艳敏：被拐女成为山村女教师</a>
+</h2>
+<p><p>燕赵都市网记者祁胜勇文 通讯员刘向阳图</p>
+<p>她在打工途中被人贩子拐骗，卖到了河北省保定市曲阳县大山深处，她曾用生命抗争，但没有能逃离偏僻的小村庄。</p>
+<p>因为她是村子里学历最高的人初中毕业，她成了村小学的代课教师，因为孩子们渴望的眼睛，她选择留在了带给她痛苦和屈辱的异地他乡。因为一份本能的大爱，她饱经苦难的生命像美丽的山花绽放。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/sEM5T.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/sEM5T.jpg" alt="郜艳敏：被拐女成为山村女教师" width="550" height="365"></a></p>
+<p> </p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/UHGT3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/UHGT3.jpg" alt="郜艳敏：被拐女成为山村女教师" width="550" height="418"></a></p>
+<p> </p>
+<p><strong>传奇经历：被拐卖后成为山村教师</strong></p>
+<p>曲阳县灵山镇地处太行山深处，在大山皱褶里，有一个小小的村子下岸村。</p>
+<p>静谧而贫穷的村子里，最显眼的是村东的山坡前飘扬的五星红旗，红旗下，是灵山镇辉岭中心小学下岸教学点，孩子们的朗朗书声和笑声不时从狭小的校园里传出来，回荡在山谷间。</p>
+<p>这可能是世界上最小的学校了，18个学前班学生，2个一年级学生，“校长”和老师都是一个人2006年度本报感动人物郜艳敏。</p>
+<p>郜艳敏已经在这所小学校里工作了十几年，送走了三百多个学生。下个月，她的一个读高三的学生将参加高考，她盼望着这个学生考出好成绩，那样，下岸这个小山村，将出现第一个大学生。</p>
+<p>“我教的第一批的学生，他们的孩子现在都跟着我读书了，可惜，大部分人只读到初中没有读下去。”郜艳敏说。</p>
+<p>郜艳敏的身份仍然是“代课教师”，每月工资600元，寒暑假没有工资。</p>
+<p>但她仍每天热情而快乐地工作着，常年和孩子们在一起，37岁的她依旧很年轻，一脸的天真。</p>
+<p>一个人的讲台，每天重复着单调而愉快的教学：教孩子们语文、数学、体育、音乐、美术。与孩子们一起跳舞、做操、做游戏，在孩子们眼里，他们的老师是最可亲、最有智慧、最伟大的人。</p>
+<p>孩子们都不知道，他们的老师曾有过异常不幸的命运。</p>
+<p>1994年初夏，18岁的河南打工妹郜艳敏被人以介绍工作哄骗，落入两个女人贩子圈套，后被转卖、被人凌辱，再以2700元的价格卖到了太行山深处的曲阳县灵山镇下岸村，卖给了一个比她大6岁的不识字的羊倌。她曾多次自杀、逃跑，但都没有成功。</p>
+<p>村里有个破败的小学校，但因为条件太艰苦，老师们来了都呆不住。1995年，村里没有了老师，村里的孩子们面临失学，乡中心校马校长在村干部的带领下找到郜艳敏这个村里唯一上过初中的人。虽然工资每月只有200元，而且放假的几个月没有工资，但马校长一次一次上门来，甚至家长领着孩子们也来找，孩子们说，老师你教教我们识字吧！看着孩子们渴望读书的眼睛，郜艳敏心软了，就答应下来，成了一名代课教师，为了让村里的孩子们，不再重复放羊买媳妇的命运。</p>
+<p><strong>村里买来的媳妇走了大半，为了孩子们她留下来</strong></p>
+<p>下岸村偏僻、穷，400多口人的村庄，前些年从外地买来的媳妇就有三十多个。</p>
+<p>许多媳妇跑掉了，包括郜艳敏婆家的二嫂。郜艳敏的生活也不如意，丈夫因为她是买来的媳妇，常喝醉了酒打她，她万分痛苦，但几次都没有逃出村口窄窄的羊肠山路。</p>
+<p>她选择了当老师，还有一个理由，村里好多买来的媳妇跑了，丢下了七八个没娘的孩子，这些孩子没有了娘，不能再没有学上。</p>
+<p>从此后，下岸村一二年级的适龄孩子没有一个失学，有不上学的，郜艳敏就耐心地一趟一趟找家长，把他们找回来。</p>
+<p>最早几年，每月只有200元钱工资，她还要挤出钱来给几个特困的孩子买学习用品，学校里没有图书，她翻山赶集，去集市上的书摊上买回旧的《读者》等杂志图书。</p>
+<p>除了规定的文化课，她一个人开设了体育、音乐、美术，虽然体育课是踢毽子、跳绳，做游戏，虽然音乐课是她教唱自己记忆里的歌曲，虽然美术课是在黑板上画花草动物，但她给孩子们，打开了知识的大门，陶冶着他们的情操。</p>
+<p>郜艳敏开始的教学生涯，教教停停，因为生女儿、儿子，中断了几年。从2001年起，她的教学工作再也没有间断过，一个人撑起一个教学点，十几年中，下岸村小学的成绩一直处于整个学区中上水平，尽管她只有初中毕业。</p>
+<p>乡亲们都感激她，没有人再轻蔑“这个媳妇是买来的”，村人都尊敬地称她：“郜老师”。</p>
+<p>就这样，她在这里扎下根来，用一颗善良的心，回报带给她屈辱痛苦的山村。后来看着村里又有买来的媳妇走了，她再也没有动心，她知道，自己已经离不开这些孩子们了。</p>
+<p><strong>本报报道，郜艳敏一夜成名</strong></p>
+<p>本报记者发现郜艳敏是一个偶然。</p>
+<p>2006年5月，本报记者来曲阳采访一直热心救助山区贫困孩子的摄影家刘向阳，在大山的旮旯里发现了下岸小学，了解了郜艳敏传奇的经历。</p>
+<p>本报刊发后，引起了巨大的轰动和感动，海内外上百家媒体聚焦下岸小学。随后，她当选2006年度感动河北人物，同时成为当年网友们评选的“中国最美的六个女人”，原本像大山里一朵苦菜花一样平凡的她成为明星。</p>
+<p>2007年，长春电影制片厂根据她的事迹改编成电影《嫁给大山的女人》。</p>
+<p>相当长的时间里，接受采访、去各省市电视台做节目是她教学间隙中的重要内容。</p>
+<p>她受过委屈，因为她暴露了当地教育等方面的一些不如意的地方；也接受过无数的掌声和赞誉，因为她的大爱，以德报怨，展示了一个最美乡村女教师的传奇形象。</p>
+<p>成名后，她成了这个小山村的灵魂人物，她是乡亲们心中的指望。</p>
+<p>郜艳敏当选感动人物获得了一万元奖金后，她拿出一大部分给村里老人们买了生活用品，然后给公婆、河南父亲一部分，自己只剩下几百元，买了个简单的手机。到贵州电视台做节目时，一位画家感动于她的事迹，捐了两幅画义卖了3万元，税后的善款捐给郜艳敏。郜艳敏只接受了5000元，其他的交给了大队，修建了学校，还剩下一点，给学生们买了桌椅、玩具。</p>
+<p>2010年11月17日，郜艳敏光荣地加入中国共产党。村支书张乱仓对记者说，郜老师在村里起到了一个党员的模范作用，乡亲们都很敬佩她。</p>
+<p><strong>一个人的坚守</strong></p>
+<p>下岸村距离最近的辉岭小学隔着一座大山，走大路六七里，走小路五里。</p>
+<p>多年以来，下岸村教学点一直保留着一二年级，还有学前班。</p>
+<p>2006年，本报报道了郜艳敏的事迹后，下岸教学点的境况引起当地重视，派了公办的老师来，但因为条件艰苦，先后来了三位正式的老师，都呆上一两年就调回去了。郜艳敏与她们相处得很好，也特别能理解她们，毕竟这里太偏僻、太艰苦，一个外来的老师在这里生活，有种种的不便。</p>
+<p>到去年，又只剩下郜艳敏一个老师。</p>
+<p>正式的老师调走，辉岭小学决定将下岸一年级的学生也并过去，但家长们不同意，因为孩子太小，山路太远。</p>
+<p>开学的时候，还是将该上一年级的学生送到郜艳敏这里来，郜老师不敢收，最后上级决定，下岸教学点保留一年级。</p>
+<p>于是郜艳敏一个人担任着一年级、和小中大三个学前班的教学任务。小的学前班的孩子有的才三岁，但家长们都愿意送过来，一者是比自己带着省心，二者是郜老师可以教他们识字明理。</p>
+<p>开始一年级有5个学生，但因为家长看到二年级还得到辉岭去上学，担心孩子太小吃不消，后来有3个孩子的家长将他们提前转学到县城的私立学校。</p>
+<p>今年新学期开学时，村里一个外地嫁过来的媳妇小李，送女儿过来上学前班，看小班的小孩子们还不适应，郜老师非常费心辛苦，就主动说，我帮你教孩子吧。小李也是初中毕业，也有爱心，一直帮郜老师教了两个月多。作为“校长”的郜艳敏，就从每个学前班孩子三四十元的学费里，每月挤出500元，给小李发工资，小李坚辞不收，但郜艳敏坚决让她收下。可惜，小李不小心崴了脚，就回家养伤不干了，村小学还是郜艳敏一个人。郜艳敏的直接领导、辉岭中心小学校长庞耀辉对记者说，郜艳敏老师对工作非常认真、用心，教学成绩一直很好，她虽然没有经过正规的培训，但很爱学习，每次来学校，都跟老师们探讨教学方法。虽然她是代课老师，但承担的教学任务与正式老师是一样的。</p>
+<p><strong>盼望：小学校的条件能够改善一点</strong></p>
+<p>多年过去了，郜艳敏已经适应了这里的生活，口音都变了。她与公婆相处得很好，是村里公认的孝顺媳妇，尽管她是买来的。婆婆与她情同母女，老人心疼地说，艳敏十几年没有买过衣服，这孩子，可节省呢。</p>
+<p>与不识字的丈夫尽管没有共同语言，没有爱情，但有了亲情。丈夫已经知道妻子是个受社会尊敬的“名人”，已经不敢打他了。</p>
+<p>社会上的好心人一直关心着她，女儿被石家庄的好心人接出来，在精英中学读书。儿子被邯郸爱心妈妈李丽娟接到武安市读书。对现在的生活、和来自社会各界的温暖，郜艳敏深深感恩。</p>
+<p>她现在的身份是代课教师，每月工资600元，而且假期没有工资。对此她没有抱怨，因为转成正式教师需要学历等条件，只有初中毕业的她不抱奢望。</p>
+<p>记者问郜艳敏还有什么困难，她想了想说，就是学校的条件需要改善一点，我没有能力。</p>
+<p>郜艳敏成名后，在社会各界与镇政府的帮助下，几年前曾修建了教室，但屋顶没有处理好，非常薄，夏天教室里像蒸笼，冬天里像冰窟。多年前买的电扇都坏了，冬天一个教室生一只小炉子也起不了什么作用。看着孩子们受罪，郜艳敏期望，上级或社会的好心人士能帮助修一修。</p>
+<p>另外，教室外的小操场是石子地，孩子们摔倒很容易磕破头，需要用水泥磨一磨。学前班的孩子们需要滑梯等玩具。她心中盼望着，这个小学校能成为村里孩子们快乐成长的一个乐园。“我不嫌工资少，只要孩子们需要，我愿意一辈子当这个代课老师。”郜艳敏说。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E4%B8%BA%E5%B1%B1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">人贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88/?category=18271" rel="tag">代课教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BD%E8%BF%90/?category=18271" rel="tag">命运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%B7%A5/?category=18271" rel="tag">打工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E7%A9%B7/?category=18271" rel="tag">贫穷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BB%84%E4%BD%9F%E4%BD%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%90%86%E7%94%B1%E4%B8%8D%E6%94%AF%E6%8C%81%E5%A5%B3%E6%9D%83/" target="cdt-mirror">黄佟佟：中国男人有什么理由不支持女权</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89.jpg" alt="女权主义" width="550" height="321"></a></p>
+<p><strong>把女权和嫁人扯上关系，还真是中国女性的绝大发明，如果你真的了解女权，你就会发现，女权和嫁人还真是一对冤家。</strong></p>
+<p>我有个富二代女友，思想传统，嫌北京的男人素质太差，跑去纽约想改变命运，结果一年以后，她仍然小姑独处。“纽约虽好，却不适合嫁人”，她哀叹，也是，纽约的单身女人比单身男人多出了21万，十几年前坎迪斯·布什奈尔写的《欲望都市》里告诫女人们：欢迎来到不纯真年代，在纽约，DATE（英文：约会，用俗一点的中国话就是约炮）是容易的，但结婚是难的，你很容易和曼哈顿最优秀的男人轮番上过一次床，可是要找到你的MR BIG，这还真不件容易的事。而让富二代女友更觉得无情的是，他们甚至连开房的钱都想省了，最好是去女孩那儿，如果是在他自己的住处，上完床就赶你走，美其名曰担心你赶不上最后一班地铁。</p>
+<p>美国的女权运动轰轰烈烈地进行了七八十年，算是到了中级阶段，它让女性获得了长足的进步，但是也让感性的女人们感叹感情生活如此光怪陆离，选择多了，稳定性就差了，每个人都成了走钢丝的人。我这位富二代女友撇着嘴说：“原以为中国女性在婚恋市场的地位低，嫁人难，到了纽约才发现女性地位高，嫁人也很难。”我大笑起来，如果你的目的是只想嫁人，还真是应该留在女性地位低的地方，深山里还有好多光棍等着娶老婆呢？<strong>把女权和嫁人扯上关系，还真是中国女性的绝大发明，如果你真的了解女权，你就会发现，女权和嫁人还真是一对冤家。</strong></p>
+<p>前段时间我去了一趟北欧，参观了女权最为发达的国家——挪威。在挪威的十几天，最强烈的感受是：当女权获得真正的法律保障（挪威法律规定了女性在政治与经济生活中拥有和男人一样的权利，挪威的现任政府内阁18人，8位是女性，加上首相也是女性，刚好一半，两党党魁也均是女性，而早在2003，挪威就产法要求企业董事会保证40%成员是女性。）之后，女性面临着更大的挑战——嫁人不是挪威女人最热衷的话题（这一点恰好和中国女人相反），工作是聊天的主题。她们普遍走路飒爽英姿，那种极为女性化的，穿着窄身裙子，戴着首饰，化着严妆的职场女性极为罕见。街上到处都是穿着跑鞋牛仔裤风湿褛素面朝天的精明干练的挪威女人，开车的是女人，主持国际文学讨论会的是女人，挺着大肚子在台上当主持的还是女人。</p>
+<p>“我个人的感觉，挪威女性活得普遍比中国女性要累。”负责陪同我们的挪威领事馆的职员温茜认真地跟我说，她是挪威人，在北京已经呆了将近十年了，找了一个香港男友。一路上，她掌管我们这个团的一切事物，小至一把伞她都要注意，后来我才知道她当时已经怀了三个月身孕，这真让人震惊。我的中国女同事们在怀孕初期的各种请假，在我们看来都天经地义，可是温茜在陪伴我们的那十几天里长途飞机来去，她风里来雨里去到处奔跑神态正常处事利索看上去一如任何一个职场女性，“哪有坐月子这回事，我好多同事生完三天就上班了，产假是男女一样，父亲十个星期母亲十个星期……”她告诉我，我心想难怪在奥斯陆，满大街都是推着婴儿车的男人。</p>
+<p>“听说奥斯陆是全世界一夜情最厉害的地方，”我逗她。“这个我不太确切，”温茜大笑起来，冲我做了个鬼脸，“但我知道挪威人的单身率确实很高，排在全世界前面，大家都不愿意结婚，因为发现结了婚到最后都要离，哈哈哈，就同居，生了孩子就共同抚养，有社会福利，但你知道，男人们更自私，所以挪威的单亲妈妈也很累……”啊，原来在女权的高级阶段，女性是这么累人，男人是这么爽，哪怪我一个研究女权主义的女友私下跟我吐槽：“越研究女权主义越发现女权主义没什么好结果，我在意大利几乎没拎过自己的旅行箱，因为意大利男人都好热情，但我在挪威从头到尾都是自己，一是因为挪威男人没有照顾女人的习惯，二是他们还担心拎被女人看做是性别歧视……”我于是就问温茜既然当挪威女人这么累，那如果给你机会选择，你是愿意当挪威女人还是中国女人？</p>
+<p>她认真地想半天说，“还是挪威女人吧，因为我想拥有选择自己生活权利，而不是让别人选择啊。”</p>
+<p>是啊，纵然累，但累总比没得选要好，真正的女权主义者都知道：箱子是没人拿了，可是问题是你能决定去什么地方，如果你想要拥有与男人同样的权利（政治权利和经济权利）时，你就不能再用性别原因来索求更多对于弱者的照顾。用更简单的话来说，只要你想要主宰自己的命运，你就承担了这命运的重量。就像我这样嚷嚷越女权越累的教授女友，生活里不一样还是坚定地当了一个女权主义者，她说“女权的实现并非要女性凌驾于男性之上，而是让女性拥有和男性并行的权利，就像让挑夫把肩膀上担着女人放下来，那其实完全是解放了男人啊”。</p>
+<p>嗯，看看奥斯陆的男人就知道在真正的女权社会里，男人的生活比沉浸在亚洲男权伦理中的男人不知轻松多少，是的，他们和女人一道平等地工作，平等在竞争，他们不再拥有性别优越感，但也从此不再拥有更多的性别责任（虽然中国男人未必也有），他们和女人的关系如此不拖不欠，女人和他们上完床不是满腹幽怨地问他何时娶她，而是心平气和地去赶最后一班地铁，既然如此，为何那些中国直男会强烈地反对女权主义呢？我问。</p>
+<p>女教授一翻白眼：因为他们蠢呗！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BB%84%E4%BD%9F%E4%BD%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%90%86%E7%94%B1%E4%B8%8D%E6%94%AF%E6%8C%81%E5%A5%B3%E6%9D%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%BA/?category=18271" rel="tag">中国女人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%89%E6%A3%8D/?category=18271" rel="tag">光棍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E8%BA%AB/?category=18271" rel="tag">单身</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E6%81%8B/?category=18271" rel="tag">婚恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%80%E5%AD%95/?category=18271" rel="tag">怀孕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9/?category=18271" rel="tag">政治权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9/?category=18271" rel="tag">社会福利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%9D%83%E5%88%A9/?category=18271" rel="tag">经济权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE/?category=18271" rel="tag">解放</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%A6%8F%E5%B8%83%E6%96%AF%E4%B8%AD%E6%96%87%E7%BD%91-%E8%BF%99%E4%BD%8D%E5%88%86%E6%9E%90%E5%B8%88%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BF%AB%E8%A6%81%E6%92%91%E4%B8%8D/" target="cdt-mirror">福布斯中文网 | 这位分析师相信中国经济快要撑不住了</a>
+</h2>
+<p><p><strong>作者|Bert Dohmen</strong></p>
+<p>大约三年前，我曾写过《即将到来的中国危机》（The Coming China Crisis）这本书，书中预言了导致中国走向危机的一系列问题，比如创纪录的债务、不良投资、房地产领域中依靠债务融资的过度投机、6,400万套闲置的公寓住房、紧随信贷危机而来的信贷紧缩，然后经济崩溃。此外，书中还说这场危机很可能会笼罩全球市场。到目前为止，现实情况似乎正朝着书中预言的道路在发展。</p>
+<p><strong>眼下中国的私人、企业和政府债务总额高达28万亿美元，这比美国全年的国内生产总值（GDP）高出50%，并且相当于中国GDP的282%。</strong></p>
+<p>去年底，中国决定取消专门约束外国资本参与中国股市的监管规定，想以此提振股市。此举催生出一轮幅度巨大的投机性上涨，促使幼稚的投资者（包括利用自身运营资金和银行贷款进行投机的公司）争相投身于股市之中，甚至有人为了借钱炒股连房子抵押了出去。</p>
+<p><strong>其结果可想而知，今年7月中国股市泡沫破裂了。</strong>以下是跟踪中创100指数（由中小板和创业板中市值最大、流动性最好的100只中小市值股票组成——译注）的市场动力华夏中小板-创业板交易所交易基金（Market Vectors China AMC SME-ChiNext ETF，交易代码：CNXT）的走势图。该指数中不包括大型国有上市公司。可以看出，此番暴跌极具破坏力。那些都是中国普通投资者持有的股票。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%82%A1%E5%B8%82.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%82%A1%E5%B8%82.jpg" alt="股市" width="550" height="333"></a></p>
+<p> </p>
+<p>这轮疯牛走势失去了控制。通过专门设立的工具（类似于2008年美国的担保债务凭证资产池）提供的股票保证金融资杠杆比例高达5:1。你或许记得，当相关证券崩盘时，CDO造成了美国上次一金融危机。</p>
+<p>今年7月，中国大陆的股市暴跌抹去了大约4万亿美元的财富。那相当于中国GDP的38%。</p>
+<p>然而，我们看到耳目闭塞的分析师们在电视上大谈中国“没问题”，因为中国的GDP增速仍然达到令人羡慕的7%。他们要么耳聋，要么眼瞎，要么愚蠢，要么就是三者兼有。</p>
+<p>这些人说：“没有什么可以担心的。只有很少一部分中国人持有股票交易账户。是的，但大多数中国人都是贫穷的农民。这使得那些为数不多的富裕阶层更加重要。</p>
+<p>那些持有股票的中国人可能拥有这个贫穷国家中所有财富的99%。大约8,000万个人投资者拥有股票账户。现在他们很可能已经失去了一切。</p>
+<p><strong>现在，中国政府必须修复这个损伤。如何修复呢？</strong>推出更多的刺激和强迫措施。中国政府现在正式拿出多达5,000亿美元的资金用于救市。金融公司被禁止出售股票，做空者将会被逮捕，而且政府给予证券公司的资金只能用于做多不能做空。</p>
+<p>然而，这一次，学聪明的投资者将在场外观望。政府将变成股市的主要投资者。如果说投资者都说不准自己买进的股票能不能被允许卖出去，那么他为什么要买股票呢?</p>
+<p><strong>那些唱好中国的人士会说，中国政府将会阻止股市进一步下跌。祝他们好运吧!</strong></p>
+<p><strong>中国政府或许能够支撑股市一段时间，但它如何可以阻止创纪录的债务金字塔崩塌呢?</strong></p>
+<p>过去十五年以来，中国一直都是全球经济增长的火车头。许多原材料、大宗商品、石油、钢铁、煤炭很可能有60%-80%的需求都是来自于中国。眼下中国私营经济正处于衰退状态，这些需求将会在全球范围内消失。忘掉中国政府大肆宣传的7%经济增速吧。如果你认为这意味着“经济增长”，那么这就是一个童话故事。</p>
+<p>今年以来中国的私营经济一直在衰退，而且还会继续下去。虽然很少受到关注，但在2014年6月——当短期利率一夜间上涨两倍，飙升至25%时，钱荒现象在中国顿时严重起来。就在那时，中国政府努力掩盖事实的行为在无意中泄露了出来。</p>
+<p>最新发布的制造业采购经理人指数（PMI）初值估计数字是48.2，为十五个月来的低点。不久之后，全球各大对冲基金也将会发现，他们对中国经济增长的估计大错特错。这一幕已经开始发生了，全球最大的对冲基金集团创始人雷伊·达里奥（Ray Dalio）最先承认自己判断失误。</p>
+<p>诸如重型卡车、装载机、挖掘机等机械设备的销售正处于甚至低于2009年危机时的惨淡低位。</p>
+<p>除此之蛙，水泥、钢铁和汽车的销量也呈现负增长势头，都回落到2009年危机时的水平，甚至还要低，私营经济的衰退（萧条）可见一斑。</p>
+<p>显然，铁路货运量的持续增长也是经济增长的重要指标。然而，眼下中国铁路货运量的增速还比不上2009年危机时的低迷数字。</p>
+<p>对于那些并不想为中国的各种问题操心的美国投资者而言，请认识到，美国的铁路货运量现在也出现急剧放缓，哪怕是华尔街流行着各种乐观的经济预测。华尔街告诉你，美国经济正在走强。我的证据却与此相反。</p>
+<p><strong>中国现在投放的流动性大约是7月初他们开始救市时的25倍。</strong>他们的政府已经惊慌失措。这相当于前美国财政部长汉克·鲍尔森（Hank Paulsen）为阻止2008金融危机而实施的那场“Big Bazooka”救市行动。中国政府的注资能否通过创造更多的债务来阻止他们的债务金字塔崩塌呢?</p>
+<p><strong>此外，中国正在面临外国投资资本的大量外流。这将会成为中国未来面临的一个大问题。</strong></p>
+<p>高盛集团（Goldman Sachs）估计，今年第二季度中国资本外流规模超过了2,240亿美元。在过去的一年里，中国的资本外流规模可能高达8,000亿美元。高盛对此的评论是“历史上前所未见”。</p>
+<p>资本外流自然会削弱中国政府在支撑的人民币汇率。然而，如果经济困境的最佳对策是让人民币贬值——从而让中国商品在全球市场上获得优势，那么中国政府支撑人民币这一政策将会发生变化。</p>
+<p><strong>长久以来一直看空中国的对冲基金大佬吉姆·查诺斯（Jim Chanos）现在称中国是“史上最大的做空机会之一”。</strong></p>
+<p>是的，在熊市下也照样是可以挣大钱的。这是重要信息。通过跟踪响应板块或指数的反向ETF，投资者可以很便利的做到这一点。</p>
+<p>结论：中国股市暴跌对全球市场具有重要意义。在过去一年的希腊危机期间，我曾经撰文写道，希腊只是让市场的注意力从更加严重的问题——即中国——分散开来的一个小问题。现在我们终于看到中国这个大问题。</p>
+<p>由于中国政府的种种紧急救市举措，将导致个人投资者望而怯步。这使得中国股市成为政府实体以及需要政府帮忙的金融公司（比如允许开展业务、与政府实体签合同等）的市场。那不可能是长久之计。</p>
+<p>记住，借助先进的技术分析或者得到最有经验的指导，即便是在股市暴跌、崩盘和熊市环境下，照样是可以挣大钱。</p>
+<p>译|陈玮 校|李其奇</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%A6%8F%E5%B8%83%E6%96%AF%E4%B8%AD%E6%96%87%E7%BD%91-%E8%BF%99%E4%BD%8D%E5%88%86%E6%9E%90%E5%B8%88%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BF%AB%E8%A6%81%E6%92%91%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC/?category=18271" rel="tag">国内生产总值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%A9%E6%BA%83/?category=18271" rel="tag">崩溃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E7%9C%9F%E6%AD%A3%E8%AE%A9%E5%B8%82%E5%9C%BA%E5%8F%91%E6%8C%A5%E4%BD%9C%E7%94%A8/" target="cdt-mirror">金融时报 | 真正让市场发挥作用</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/000053133_piclink-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/000053133_piclink-1.jpg" alt="中国股市暴跌" width="600" height="338"></a></p>
@@ -699,235 +830,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E7%9A%84%E7%B2%97%E5%8F%A3%E6%95%99%E7%A8%8B/" target="cdt-mirror">【立此存照】爱国青年侯聚森的粗口教程</a>
-</h2>
-<p><p>2015年7月24日，“<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/">文登爱国青年被打</a>”事件主角侯聚森在<a href="http://chinadigitaltimes.net/chinese/2015/07/%E5%A4%A7%E4%BC%97%E7%BD%91-%E7%88%B1%E5%85%9A%E9%9D%92%E5%B9%B4%E8%B0%88%E8%A2%AB%E6%89%93%E5%89%8D%E5%90%8E%EF%BC%9A%E6%88%91%E9%AA%82%E4%BA%BA%E9%83%BD%E6%98%AF%E8%B7%9F%E5%AF%B9%E6%96%B9/">接受大众网记者采访</a>时，为自己近日被网民曝光的骂人黑历史辩解，称那些话是从骂他的人那里学来的：</p>
-<blockquote><p>我2014年才开始上兔吧(那年那兔那事儿吧)，[…]后来上了“日本の家”吧、“和风の家”吧、和风屋吧，看到他们的言论，觉得挺不可思议的。说大日本帝国好，中国共产党不好的言论，感觉这些都是网络汉奸吧。所以就骂那些人，骂他们狗汉奸。慢慢自己在贴吧也有一些知名度了。[…]</p>
-<p>回击主要是正面“打脸”，要么是反讽、调侃。平时回应就是调侃几句，然后贴资料。有时候心情不好上火了也骂几句。在QQ空间里，[…]一开始回击少，他们骂的多了后来跟他们学的，也说“飞妈”“死妈”“你妈炸了”等。后来我在兔吧发了一组爱国黑框图片，对方看到就骂我，说是废物，那些骂人的话。</p></blockquote>
-<p>爱国青年也是谦虚了。其实<strong>侯聚森早在2013年就已经开始在百度贴吧中勤学粗口技巧</strong>，并在以下这则<a href="http://tieba.baidu.com/p/2400999124">词汇教学贴</a>中现学现用：</p>
-<p>该贴楼主<strong>所“教”内容，就是如何运用各种粗俗的语言问候对方家人</strong>。截图举例，你们先感受下：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B41.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B41.png" alt="词汇教学贴1" width="525" height=""></a></p>
-<p>从下图可以看出，一个名为“战爹风云3”的用户在表达了对该楼主的景仰之情后@了“列宁的配枪”和爱国青年“侧卫36”（侯聚森），“侧卫36” 来到本帖后又再次@了用户“列宁的配枪”，<strong>并发出“楼主牛逼”这样的赞叹</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B422.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B422.png" alt="词汇教学贴22" width="525" height=""></a></p>
-<p>在该“教学贴”<a href="http://tieba.baidu.com/p/2400999124?pn=4">第四页</a>，爱国青年侯聚森<strong>展现了他对此类语言的快速学习能力</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B43.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%AF%8D%E6%B1%87%E6%95%99%E5%AD%A6%E8%B4%B43.png" alt="词汇教学贴3" width="550" height="173"></a></p>
-<p>曾有“那年那兔那些事儿吧”吧友<a href="http://tieba.baidu.com/p/3132734359?pn=2#52870249583l">劝文登爱国青年对“逗逼美分日杂”少爆点儿粗口</a>，正能量青年的回答是：“<strong>对畜生，无文明”</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A0%E6%96%87%E6%98%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A0%E6%96%87%E6%98%8E.png" alt="无文明" width="550" height="266"></a></p>
-<p>现在来对比一下<strong>学习成果</strong>：</p>
-<p>在学习阅读上述“教学贴”前，<strong>侯聚森的粗口词汇似乎较为有限</strong>：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4.jpg" alt="爱国青年" width="500" height=""></a><br>
-在掌握了“教学贴”的精髓后，<strong>侯聚森骂人时的想象力显然有了质的提高</strong>：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/686da053gw1eudre0e3ujj20hs0l4mzy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/686da053gw1eudre0e3ujj20hs0l4mzy.jpg" alt="686da053gw1eudre0e3ujj20hs0l4mzy" width="500" height=""></a></p>
-<p>融会贯通。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E7%9A%84%E7%B2%97%E5%8F%A3%E6%95%99%E7%A8%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E5%86%99%E4%BD%9C%EF%BD%9C%E5%88%98%E8%8D%BB%EF%BC%9A%E8%AE%A4%E7%BD%AA%EF%BC%88%E7%9B%B8%E5%A3%B0%EF%BC%89/" target="cdt-mirror">自由写作｜刘荻：认罪（相声）</a>
-</h2>
-<p><p>甲：观众朋友们大家好……</p>
-<p>乙：（面带微笑，做摇头晃脑、洋洋得意状。）</p>
-<p>甲：今天由我来给大家认罪……</p>
-<p>乙：啊？</p>
-<p>甲：这个认罪呢，是我国的一门传统艺术……</p>
-<p>乙：（推甲）哎，你等会！</p>
-<p>甲：怎么啦？</p>
-<p>乙：还怎么啦！认罪像话吗？</p>
-<p>甲：怎么不像话啊？这你就落伍了吧！你数数，最近有多少名人都上电视认罪了？</p>
-<p>乙：你给咱大伙数数？</p>
-<p>甲：薛蛮子，微博大V，因为嫖娼涉嫌聚众淫乱，上电视认罪了吧？</p>
-<p>乙：认罪了！</p>
-<p>甲：秦火火，造谣诽谤寻衅滋事，上电视认罪了吧？</p>
-<p>乙：认罪了！</p>
-<p>甲：郭美美，赌博，上电视认罪了吧？</p>
-<p>乙：认罪了！</p>
-<p>甲：张元、宁财神、柯震东……这些都是演艺界人士，都是因为吸毒被抓的，都上电视认罪了吧？</p>
-<p>乙：认罪了！</p>
-<p>甲：刘晓波……</p>
-<p>乙：啊？没有，这个真没有！</p>
-<p>甲：所以说，这个认罪，是我国的一门传统艺术……</p>
-<p>乙：这话听着怎么这么别扭！</p>
-<p>甲：……讲究说学斗唱……</p>
-<p>乙：哎，你再等会！这认罪怎么还带说学逗唱的？</p>
-<p>甲：你听我慢慢给你解释。</p>
-<p>乙：我听着呢。</p>
-<p>甲：首先，这个认罪，它不得说吗？</p>
-<p>乙：嗯，对，认罪是得说。那学呢？</p>
-<p>甲：不光要说，还要努力学习，提高自己的思想认识。这不就有学了吗？</p>
-<p>乙：有学了。那逗呢，认罪还能把人给逗乐了？</p>
-<p>甲：认罪嘛，必须要进行激烈的思想斗争……</p>
-<p>乙：哦，这么个斗啊。那唱呢？</p>
-<p>甲：（做抹眼泪状）一想到难过之处，我就忍不住要唱：</p>
-<p>铁门啊铁窗啊铁锁链</p>
-<p>手扶着铁窗我望外边</p>
-<p>外边地生活是多么美好啊</p>
-<p>何日重返我的家园</p>
-<p>条条锁链锁住了我</p>
-<p>朋友啊听我唱支歌</p>
-<p>歌声有悔也有恨啊</p>
-<p>伴随着歌声一起飞</p>
-<p>月儿啊弯弯照我心</p>
-<p>儿在牢中想母亲</p>
-<p>悔恨未听娘的话呀</p>
-<p>而今我成了狱中人</p>
-<p>月儿啊弯弯照娘心</p>
-<p>儿在牢中细思寻</p>
-<p>不要只是悔和恨</p>
-<p>洗心革面重做人</p>
-<p>乙：行了行了，别唱了！说了这么半天，你到底要认什么罪啊？</p>
-<p>甲：我也在想啊！你说现在都那么多名人上电视认罪了，我也要奋起直追啊……</p>
-<p>乙：听着就不像话！</p>
-<p>甲：我干别的没机会上电视，认罪还没有机会上电视吗？</p>
-<p>乙：你听听，这都什么追求！</p>
-<p>甲：可是我认什么罪呢？这杀人放火，咱没胆子；贪污受贿，咱没权；吸毒嫖娼赌博，咱没钱。咱屌丝一个，能认什么罪呢？</p>
-<p>乙：这得好好想想！</p>
-<p>甲：我想出来了！</p>
-<p>乙：想出什么来了？</p>
-<p>甲：我挖坑！</p>
-<p>乙：挖坑？</p>
-<p>甲：最近不是有一挖坑的，把大街都给挖塌了？</p>
-<p>乙：是有这么一位。</p>
-<p>甲：他挖坑，我也挖坑！</p>
-<p>乙：人家是在德胜门挖的，你在哪挖？</p>
-<p>甲：我在天安门挖！</p>
-<p>乙：那可是个好地方！</p>
-<p>甲：一大早天不亮我就出来了！开着挖掘机我就上了长安街！</p>
-<p>乙：哎，哎，挖掘机哪来的？</p>
-<p>甲：我家旁边正拆迁呢，我趁早上还没上工，偷的。</p>
-<p>乙：偷的？你会开吗？</p>
-<p>甲：也不知怎么的我上去就能开。开着我就上了长安街，一路上也没遇到什么人。到了天安门广场，一穿制服的把我拦住了。</p>
-<p>乙：看看，被拦住了吧？</p>
-<p>甲：“同志，证件！”我上哪找证件去呀……我四处一寻摸，有了！驾驶座旁边就搁着一份也不知是什么文件。我看也没看就给他递过去了。</p>
-<p>乙：那能行吗？</p>
-<p>甲：也别说，穿制服的看了一眼文件，朝我一挥手，让我进去了！</p>
-<p>乙：这就让你进去啦？</p>
-<p>甲：进去我就开挖。刚要挖还没挖，就见另一个穿制服的大老远举着个手就朝我跑过来了……</p>
-<p>乙：完了吧！</p>
-<p>甲：他气喘吁吁地跑到我跟前，给我递了根烟，说：“同志，您来太早了。”</p>
-<p>乙：太早？</p>
-<p>甲：“本来说好下午才拆迁的，您行个方便，上午我们这还要接待外国国家领导人那！”</p>
-<p>乙：嘿！</p>
-<p>甲：我一听敢情我帮忙拆迁来了，赶紧走吧！</p>
-<p>乙：拆天安门？怎么不拆中南海呀？</p>
-<p>甲：我也这么问呀。</p>
-<p>乙：对方怎么能回答的？</p>
-<p>甲：人家冲我一乐：“您别急，明天就拆去！”</p>
-<p>乙：好嘛！</p>
-<p>甲：我一看这招失败了啊，还得想别的辙啊。</p>
-<p>乙：又动上脑筋了。</p>
-<p>甲：我想啊想啊想……有了！</p>
-<p>乙：又想出什么馊主意来了？</p>
-<p>甲：我当黑客！最近不是有一个什么少年黑客，才十七岁，就骗了十几个亿？</p>
-<p>乙：这可是个有技术含量的事，你能行吗？</p>
-<p>甲：你别担心！像咱这种宅男，别的不会，这玩个电脑啊、编个程啊、当个黑客啊，都不在话下，哈哈……（拍乙肩膀。）</p>
-<p>乙：（躲闪）我担什么心啊！</p>
-<p>甲：我自己写了个程序，拿它来扫描各个网站的系统，找哪里有漏洞。我找啊找啊找……叮！还真让我给找到了！</p>
-<p>乙：这怎么还带声的啊！</p>
-<p>甲：我自己编的程序，找到漏洞就“叮”的一声。我一看，是一银行的网站，还是香港的。吱溜一声我就钻进去了……</p>
-<p>乙：耗子呀！</p>
-<p>甲：黑进去以后我就到处留言，“XXX（甲名）到此一游。”</p>
-<p>乙：你不怕人家把你抓着？</p>
-<p>甲：不把我抓着我怎么上电视认罪啊？</p>
-<p>乙：我把这茬给忘了。</p>
-<p>甲：我在家等他们来找我，等了好几天，一点动静都没有。</p>
-<p>乙：着急了？</p>
-<p>甲：又过了几天，突然发现支付宝上有人给我汇了一大笔钱！吓我这一大跳，咱这辈子都没见过这么多钱……</p>
-<p>乙：哟，这是怎么回事？</p>
-<p>甲：对方还留了个言。</p>
-<p>乙：什么内容？</p>
-<p>甲：“这点小费请先生笑纳。本行的客户名单还请千万保密不要外泄。”</p>
-<p>乙：咳！</p>
-<p>甲：我又失败了！</p>
-<p>乙：看你还能有什么幺蛾子！</p>
-<p>甲：唉，实在不行，我只好……（小声嘟囔）</p>
-<p>乙：你说什么？我没听见。</p>
-<p>甲：我说实在不行，我只好……（继续小声嘟囔）</p>
-<p>乙：你大点声行不行？</p>
-<p>甲：（大声）我说实在不行，我只好去当五毛了！（捂嘴）</p>
-<p>乙：（摇头）唉，让我说你什么好！年轻人，干点什么不行，怎么能去干五毛这种缺德事呢？一人做五毛，祖孙三代脸上无光；将来等你老了，怎么给自己的孙子讲这段不堪回首的往事；等你到了另一个世界，怎么有脸见列祖列宗……</p>
-<p>甲：行了行了。别瞧不起我们五毛，我们五毛中也出了不少名人！像那个司马南……</p>
-<p>乙：就是夹头那个。</p>
-<p>甲：还有那个芮成钢……</p>
-<p>乙：嗯，听说艳福不浅！</p>
-<p>甲：还有周小平、花千芳，最近还有那个徐岚……</p>
-<p>乙：你瞧瞧这都是些什么人！</p>
-<p>甲：要说这些人里，我最佩服的就要算芮成钢了。</p>
-<p>乙：他现在都进去了，你佩服他什么啊？</p>
-<p>甲：你想，他本来就在央视工作，回头再上央视认个罪，多有回家的感觉！</p>
-<p>乙：你还想着这事呢？</p>
-<p>甲：我当了五毛之后就整天在网上骂人，什么贺卫方陈丹青了，什么公知大V了，逮谁骂谁……</p>
-<p>乙：你还真够能的！</p>
-<p>甲：那天，我正在家里写一篇大文章……</p>
-<p>乙：哦？你也能写文章？什么题目？</p>
-<p>甲：《论如何用中国特色社会主义理论来指导带鱼养殖业》。</p>
-<p>乙：嘿！这题目好！写这么篇文章要是才赚五毛，也太便宜了吧？</p>
-<p>甲：起码得值十个五毛！我正在电脑前专心致志地写呢，就听见外面有人在嚷嚷：“哎！拆迁了拆迁了！”</p>
-<p>乙：“啊？”</p>
-<p>甲：我回头朝窗户这么一看，只见一辆吊车冲着我家房子就过来了。急得我是大喊一声——</p>
-<p>乙：然后怎么样了？</p>
-<p>甲：然后，然后我就醒了！</p>
-<p>乙：噢，敢情是梦呀！</p>
-<p>甲：我说我怎么上了挖掘机就能开呢，原来都是梦一场。</p>
-<p>乙：这个梦挺有意思的。</p>
-<p>甲：醒来之后我就把这个梦写下来，发到了网上。</p>
-<p>乙：有什么反响没有？</p>
-<p>甲：你别说，反响还真不小！第二天一大早我还没起呢，就听咣咣咣的敲门声——</p>
-<p>乙：这怎么回事？</p>
-<p>甲：“查水表！”我一开门，俩穿制服的就把我带走了。</p>
-<p>乙：哈……这下可以认罪了。</p>
-<p>甲：我说：“呵……警察同志，我要认罪你能放我走吗？”</p>
-<p>乙：警察怎么说？</p>
-<p>甲：“你真的认识到错了吗？”我说：“呵……真认识到了。”警察同志说：“认识到错了，就要认真接受惩罚。企图通过认罪来逃避惩罚，说明你还没有真正认识到错了！”</p>
-<p>乙：嘿！这逻辑还真严密。</p>
-<p>甲：我一听我白认了啊。这时又进来另一位警察同志，看上去挺和蔼，他冲我这么一乐，说：“XXX（甲名），你这问题呢也不严重，你认个错，写个悔过书，我们就放你回家。”</p>
-<p>乙：你怎么说的？</p>
-<p>甲：我说，我不能写悔过书，因为写悔过说明我想逃避惩罚。我真心认识到自己错了，决心为国家服一辈子刑、砸一辈子碱，所以我坚决不写悔过书。</p>
-<p>乙：嘿！那这事最后怎么解决的？</p>
-<p>甲：最后经过警察同志反复做思想工作，我终于答应认罪了！</p>
-<p>乙：你认什么罪啊？</p>
-<p>甲：我胡乱做梦，对不起国家。</p>
-<p>乙：这就完了？不够深刻！得好好反思，深挖犯罪根源！</p>
-<p>甲：我平时一贯表现不好，我过马路闯过红灯，随地乱扔过垃圾，用过盗版软件，看过盗版电影……</p>
-<p>乙：避重就轻！</p>
-<p>甲：我制造了苏联解体，发动了海湾战争，我还跟周永康沆瀣一气，预谋发动第三次世界大战……</p>
-<p>乙：……</p>
-<p>甲：这几年我混进了知识分子队伍，在改革开放形势一片大好的今天，我按耐不住反革命野心，公然从阴暗的角落里跳了出来，扇阴风点鬼火，或造谣于街头，或策划于密室，拉少年下水，诱少女上床，唯恐天下不乱，企图乱中夺权，大有炸平庐山停止地球转动之势！</p>
-<p>乙：……</p>
-<p>甲：本人在运动中所犯的错误和罪行，在一定程度上延缓了本单位运动的进程，削弱了群众对党组织一元化领导的信心，干扰了无产阶级革命路线，破坏了党中央毛主席的伟大战略部署，客观上配合了帝、修、反向党的猖狂进攻……真是罪该万死！经过党组织和群众的批判教育，本人深刻地认识到，如果没有党的绝对领导，资本主义就会复辟，中国就会陷入动乱，千百万人头就会落地……</p>
-<p>（完）<br>
-阅读次数:767</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E5%86%99%E4%BD%9C%EF%BD%9C%E5%88%98%E8%8D%BB%EF%BC%9A%E8%AE%A4%E7%BD%AA%EF%BC%88%E7%9B%B8%E5%A3%B0%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%A4%A7%E5%B0%B8%E5%87%B6%EF%BC%9Axx%E9%9D%92%E5%B9%B4%E5%83%8F/" target="cdt-mirror">【麻辣总局】大尸凶：XX青年像</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1987987811/CsRtqwDhh">@大尸凶的漫画</a>： XX青年像[偷笑]#大尸凶的漫画#</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/767e4963jw1eufx61s6x4j21jk19ytlu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/767e4963jw1eufx61s6x4j21jk19ytlu.jpg" alt="767e4963jw1eufx61s6x4j21jk19ytlu" width="550" height=""></a><br><strong><br>
-以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>憨福阿甘：爱国是流氓最好的面具，只要嘴上喊着爱国，就可以做为所欲为的事情。</p>
-<p>孤王是蒸笼：爱国主义是流氓最后的庇护所</p>
-<p>小恶魔系1982：这种流氓都护， 可想而知共青团是什么组织了……</p>
-<p>荣剑2001：网络爱国青年的爱国语言。</p>
-<p>piMach：@胡锡进 快去救！</p>
-<p>坏孩子_sky：我去，这骂人的话还真不是一般人能想出来的，三青团人的智商和情商真替他们捉急啊</p>
-<p>加油叶国翔：我记得打他的人自称野爹吧，弄反了吗</p>
-<p>VikongLi：哈哈，很形象。这些骂人的话莫非是共青团统一培训的成果？</p>
-<p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/">文登爱国青年事件</a>专题</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%A4%A7%E5%B0%B8%E5%87%B6%EF%BC%9Axx%E9%9D%92%E5%B9%B4%E5%83%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -939,7 +841,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ir8jl9gpfklx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3e575lz8o6fco.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -949,5 +851,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
                 <td></td>
                 
         
-        <td><a href="https://d2ir8jl9gpfklx.cloudfront.net">https://d2ir8jl9gpfklx.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
 </table>

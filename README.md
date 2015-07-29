@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3e575lz8o6fco.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E4%B8%BA%E5%B1%B1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/" target="cdt-mirror">【异闻观止】 郜艳敏：被拐女成为山村女教师</a>
@@ -841,7 +841,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23txna5f63swy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3doptgaqtbfnt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -851,5 +851,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
 </table>

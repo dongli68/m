@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mgwkqfu36p3z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E7%91%9C%E7%96%91%E6%82%A3%E7%99%8C%E7%97%87%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96/" target="cdt-mirror">自由亚洲 | 高瑜疑患癌症健康恶化</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/43852c283d3f71a354c4871f24cab36a.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/43852c283d3f71a354c4871f24cab36a.jpg" alt="前记者苏雨桐表示，她脖子有一侧是淋巴结，另一侧有肿块，医生说不排除是癌症，或是恶性肿瘤。（法新社图片）" width="620" height="414"></a><p>前记者苏雨桐表示，她脖子有一侧是淋巴结，另一侧有肿块，医生说不排除是癌症，或是恶性肿瘤。（法新社图片）</p></div>
+<p>等候二审开庭的71岁高龄资深女记者高瑜，服刑期间的一次身体检查中，发现颈部有肿瘤或血管栓塞迹象，健康状况进一步恶化。她周二(28日)会见律师时，转述警察最近不断提审要她认罪，甚至提出解聘律师或改为“轻罪辩护”要求。（文宇晴报道）</p>
+<p>被控“为境外非法提供国家秘密罪” 重判入狱七年的资深记者高瑜，案件正在上诉阶段，等候二审开庭。</p>
+<p>一直关注事件的“德国之声”前记者苏雨桐，从高瑜家人处了解到，律师周二到过看守所进行会见，得悉高瑜的健康状况进一步恶化，不排除随时有生命危险。</p>
+<p>苏雨桐指出，当局对家属和国际社会的呼吁一直充耳不闻；律师提出各种例如保外就医等申请遭到拒绝。71岁的高瑜年时已高，在看守所这样的环境下关押超过1年时间，最近开始国保多次违法提讯，一周内约4至5天都来找她要她认罪。家属担心在这情况下，会加重高瑜的病情，希望出于人道考虑，先让她回家或在较好条件的医院治疗。</p>
+<p>苏雨桐说：她脖子有一侧是淋巴结，另一侧有肿块，医生说不排除是癌症，或是恶性肿瘤，要做活体检查。现在她的心血管上有一个白斑，意味著心血管有堵塞，所以说她现在随时有生命的危险。当时她家人跟我转述这消息时，一直哽咽著。</p>
+<p>记者问：她的家人是否也因为这事，受到的压力也挺大？</p>
+<p>苏雨桐回答：是，包括律师和家人都曾被要求闭嘴。其实她的家人没有叫我公开，但是我想我必须选择公开，而且我也必须选择和国际机构以及国外政府去联系。这是一件非常糟糕的事情，因为在中国已经做了很多办法，我想判决或各种法律程序，至于合不合法和有没有法治，我们看得清楚，但现在这件事，我想是出于人道的考虑。</p>
+<p>高瑜的代表律师莫少平向记者说，律师尚宝军在会见时，高瑜向他提到警方最近一段时间里不断进行游说，要求她解聘律师。</p>
+<p>莫少平认为，案件已来到二审阶段，公安部门突然有这样的要求，是毫无法律依据。</p>
+<p>莫少平说：公安动员高瑜女士更换律师，高瑜女士拒绝了，说绝对不会更换。那么公安又给她做工作，说能否动员律师，在二审中不要做无罪辩护，改做轻罪辩护。高瑜女士只是说，我可以把你们的意思转告给律师，但是我还是要尊重律师的专业意见。</p>
+<p>71岁的高瑜曾任职中新社记者，曾两次因言被捕。去年4月高瑜再度被捕，后被控非法获取并向境外网站，泄露一份中共内部文件。高瑜被当局羁押近一年后，4月中时在北京市第三中级人民法院宣判，其被控“为境外非法提供国家秘密”罪成，判有期徒刑7年，剥夺政治权利1年。随即高瑜提出上诉。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E7%91%9C%E7%96%91%E6%82%A3%E7%99%8C%E7%97%87%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E5%A4%96%E5%B0%B1%E5%8C%BB/?category=18271" rel="tag">保外就医</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B6/?category=18271" rel="tag">内部文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9/?category=18271" rel="tag">政治权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9B%AA%E4%B8%AD%E9%80%A0%E8%AE%BF%E5%B0%91%E6%9E%97%E5%AF%BA-%E5%81%B6%E9%81%87%E6%96%B9%E4%B8%88%E9%87%8A%E6%B0%B8%E4%BF%A1/" target="cdt-mirror">【图说天朝】雪中造访少林寺 偶遇方丈释永信</a>
 </h2>
 <p><p>@罗昌平：某年雪中造访少林寺，院中遇到方丈释永信，看到这幕前呼后拥！(...)<br>Read the rest of <a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9B%AA%E4%B8%AD%E9%80%A0%E8%AE%BF%E5%B0%91%E6%9E%97%E5%AF%BA-%E5%81%B6%E9%81%87%E6%96%B9%E4%B8%88%E9%87%8A%E6%B0%B8%E4%BF%A1/">【图说天朝】雪中造访少林寺 偶遇方丈释永信</a> (0 words)</p>
@@ -33,7 +55,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E5%AF%BA/?category=18271" rel="tag">少林寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">罗昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E4%B8%BA%E5%B1%B1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/" target="cdt-mirror">【异闻观止】 郜艳敏：被拐女成为山村女教师</a>
 </h2>
@@ -100,7 +122,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">人贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88/?category=18271" rel="tag">代课教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BD%E8%BF%90/?category=18271" rel="tag">命运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%B7%A5/?category=18271" rel="tag">打工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E7%A9%B7/?category=18271" rel="tag">贫穷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BB%84%E4%BD%9F%E4%BD%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%90%86%E7%94%B1%E4%B8%8D%E6%94%AF%E6%8C%81%E5%A5%B3%E6%9D%83/" target="cdt-mirror">黄佟佟：中国男人有什么理由不支持女权</a>
 </h2>
@@ -796,29 +818,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E9%A2%91%E9%81%AD%E5%8F%98%E6%95%85%E5%85%A5%E4%BD%9B%E9%97%A8-%E6%9D%8E%E5%B0%8F%E7%90%B3%E7%B2%BE%E7%A5%9E%E5%8F%97%E5%88%9B%EF%BC%9F/" target="cdt-mirror">外来客｜频遭变故入佛门 李小琳精神受创？</a>
-</h2>
-<p><p>早前就任大唐集团副总经理的李小琳在7月24日前后到内蒙古某公司调研，之后进入一家藏传佛教寺院，身穿佛家衣物，在僧侣围绕间神情虔诚地拜佛。有评论说是因仕途失意，也有消息说是为其父李鹏祈福延寿。但不论如何，作为一个党员，从事此类宗教活动，都有背离中共纪律、信仰之嫌。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/dca2aff58bdb68b9d88d3f3a178e0f31.jpg" alt="dca2aff58bdb68b9d88d3f3a178e0f31" width="550" height="412"><br>
-王林在中国官场如鱼得水般的际遇，以及现今的被调查，折射出中国政治的变化</p>
-<p>而且在近一段时间，中共正在追究“大师”王林。在7月25日，中纪委机关报《中国纪检监察报》还在痛斥“腐败官员大搞封建迷信”现象。李小琳此番拜佛，是又一次“顶风”行为。这可能有她“任性”的因素在，其实也折射出中共党内“不信马列信鬼神”、精神信仰缺乏问题的严重性。其实从人情事理的角度来看，作为一名女性和曾经的“公主”，后来却长年遭受负面评论，近期又频生变故，李小琳不顾中共纪律约束心向佛门，也可能是她内心苦闷、脆弱，甚或濒临崩溃的表现。如此的话，这也是中国政治的一种悲哀。</p>
-<p>中国似乎存在着很多“大师”。周永康“国师”曹永正的问题还没有厘清，之前曾经避风香港的另一位“大师”王林又一次进入舆论场，隐藏王林身后的一长串名单也再次映入观众眼帘。除明星、富商之外，位居上层的官场人物亦有不少。</p>
-<p>近日网间流传一个段子称，“关于王林大师，还有人曾经把他推荐给曾经的最大老板。第一次表演穿着衣服，弄出一堆蛇，老板让他脱的只剩内裤再变一次，啥也没有。王大师叩首感叹，遇到真龙我的法术不灵了。大老板知道他是个骗子，摆手让他离开，推荐人撤职。真事。”相关的评论暗指文中所谓的“曾经的最大老板”是前中共总书记江泽民。如果这一段子所述为真，确是说明江泽民对鬼神玄奥迷信之述的怀疑、排斥态度。</p>
-<p>其实，此前所公开的一些与王林合影的知名人物中，就有时任中央政治局常委的李瑞环、贾庆林和吴官正。当然，合影只能说明王林的人脉、影响力和机缘，并不能由此推测确定与他合影人就一定相信这一套，受其蛊惑。虽然如此，以王林在中国官场如鱼得水般的际遇，还是说明了他的“法术”确实征服到了相当一批政坛人物。</p>
-<p>与王林合影的刘志军习惯烧香拜佛，已经拥有“国师”曹永正的周永康曾经请老和尚做法事，李春城安排道士做法驱邪，杨卫泽被查前巡游寺庙，谷俊山裤兜装着一个小桃木（以“桃”代“逃”，即逃脱纪检调查之意），李小琳遁入空门……本应坚持唯物主义和“无神论”，信任马克思主义的中共高级党员，为何有心向宗教、迷信或邪道之举？</p>
-<p>有媒体报道，李小琳的好友兼佛门长辈赤·仁波切数次在微博上提到李小琳，称赞她“高雅从容、温良恭谦、刻苦求知、向善好施”，“有些人只看到她的家庭的背景，殊不知，偌大一个能源企业的负责人，带领大家探索着为国家作贡献，唯一步一个脚印、踏踏实实方可为之。”李小琳上月中被传因调职而不愉快，赤·仁波切则称“祝福小琳在新的岗位绽放得更加灿烂”。</p>
-<p>赤·仁波切所表达的这些称赞、解释、安慰和祝福，或许是在两人交流时他的常用表态。在外漂泊流浪的人都想有一个心灵的港湾。由于某些原因，李小琳在中国舆论环境中承受相当多的负面压力，仁波切所说应当正是她所需要的，自然很容易产生归属感、依赖感。社会舆论持续数十年的带有恶意的关注，再加上近日本人仕途失意，或许还有精神支柱李鹏病危的因素，李小琳心向佛门也可以理解。</p>
-<p>在一些观者看来，拜佛求师者，多是“内心有鬼”。违反规矩法律党纪者，受到社会负面评价者，身处高处不胜其寒者，遭受打击失意落寞者，外在表现越是强硬故我，甚至铤而走险，内心却越是忧惧不安、空虚脆弱。既然自我麻醉的方式容易出事，这时就越是需要一个人生的“大师”，给予他（她）心理上、精神上的抚慰。其实，这也是其可怜之处。</p>
-<p>除此之外，也可能有一些内心强大之人，能够对外在的负面情事保持免疫和自我恢复能力，总是能为自己所做所为找到解释和台阶。与之相比，一些做“错事”后寻求外在寄托者，倒还是有些可爱之处。</p>
-<p>在历史上，在任何国家和社会之中，上述这样的人都会或多或少地存在着，可能数目还不少。他们数量的多少，与国家社会的健康状况多是呈负相关的关系。也就是说，这样的人越多，越是说明其所在国家社会越不健康，疾患越严重。相应地，他们数量的减少，则说明这个国家社会的好转。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E9%A2%91%E9%81%AD%E5%8F%98%E6%95%85%E5%85%A5%E4%BD%9B%E9%97%A8-%E6%9D%8E%E5%B0%8F%E7%90%B3%E7%B2%BE%E7%A5%9E%E5%8F%97%E5%88%9B%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7%E5%A7%90/?category=18271" rel="tag">道德姐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -830,7 +829,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3doptgaqtbfnt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gsw7xh4atmss.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -840,5 +839,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F
                 <td></td>
                 
         
-        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
 </table>

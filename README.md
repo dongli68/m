@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d34ruqwtacj6dr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,20 @@
                 <td></td>
                 
         
-        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9B%AA%E4%B8%AD%E9%80%A0%E8%AE%BF%E5%B0%91%E6%9E%97%E5%AF%BA-%E5%81%B6%E9%81%87%E6%96%B9%E4%B8%88%E9%87%8A%E6%B0%B8%E4%BF%A1/" target="cdt-mirror">【图说天朝】雪中造访少林寺 偶遇方丈释永信</a>
+</h2>
+<p><p>@罗昌平：某年雪中造访少林寺，院中遇到方丈释永信，看到这幕前呼后拥！(...)<br>Read the rest of <a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9B%AA%E4%B8%AD%E9%80%A0%E8%AE%BF%E5%B0%91%E6%9E%97%E5%AF%BA-%E5%81%B6%E9%81%87%E6%96%B9%E4%B8%88%E9%87%8A%E6%B0%B8%E4%BF%A1/">【图说天朝】雪中造访少林寺 偶遇方丈释永信</a> (0 words)</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9B%AA%E4%B8%AD%E9%80%A0%E8%AE%BF%E5%B0%91%E6%9E%97%E5%AF%BA-%E5%81%B6%E9%81%87%E6%96%B9%E4%B8%88%E9%87%8A%E6%B0%B8%E4%BF%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E5%AF%BA/?category=18271" rel="tag">少林寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">罗昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E4%B8%BA%E5%B1%B1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/" target="cdt-mirror">【异闻观止】 郜艳敏：被拐女成为山村女教师</a>
 </h2>
 <p><p>燕赵都市网记者祁胜勇文 通讯员刘向阳图</p>
@@ -89,7 +100,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">人贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88/?category=18271" rel="tag">代课教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BD%E8%BF%90/?category=18271" rel="tag">命运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%B7%A5/?category=18271" rel="tag">打工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E7%A9%B7/?category=18271" rel="tag">贫穷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BB%84%E4%BD%9F%E4%BD%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%90%86%E7%94%B1%E4%B8%8D%E6%94%AF%E6%8C%81%E5%A5%B3%E6%9D%83/" target="cdt-mirror">黄佟佟：中国男人有什么理由不支持女权</a>
 </h2>
@@ -808,28 +819,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BD%90%E4%BF%8A%E6%9D%B0%EF%BC%9A%E5%B1%81%E8%82%A1%E6%89%8D%E6%98%AF%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/" target="cdt-mirror">齐俊杰：屁股才是决定房产税的关键因素！</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/5390ee71jw1eufv7ngbtej20cy07xdfv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/5390ee71jw1eufv7ngbtej20cy07xdfv.jpg" alt="5390ee71jw1eufv7ngbtej20cy07xdfv" width="466" height="285"></a></p>
-<p>有报道说，一位接近房地产税决策层的权威人士表示，现在的初步方案和最后提交全国人大法工委的方案，可能会有一定的修改和调整。如果这个消息确实的话，说明房产税已经在路上了，而且已经有了个方案。那到底怎么收这个房产税呢？首套房收不收呢？税率收多少呢？大家争论来争论去，所有的争论点都来源于屁股！屁股坐在哪，房产税的方案就自然不一样。</p>
-<p>立场一，站在全局立场，成功推出房产税，给地方政府找到了新税源，有利于房地产市场的债务去杠杆，慢慢拆掉地方债这个炸弹，有利于全国的金融安全和稳定。房产税最好能够替代卖地的收入。目的就是告诉地方，你们自己的债务最好不要麻烦中央。现在可以肯定的是，中央已经将制定税率的事，交给了地方。那意思就是，你们自己看着办。</p>
-<p>立场二，站在地方考虑，房产税要推出来，恐怕会影响卖地收入，那么难题来了，要么不推房产税，继续卖地赚钱，但这显然已经难以为继，特别是二三线城市已经出现了严重的供大于求，如果要收房产税，就一定不能像上海那样，由于对征收面积过度宽松，所以收上来的税只占财政收入的2%不到，然并卵。政府收税不积极，交税的也不积极。所以上海房产税这种人均60平米的免征额模式已经完全失败，征收了还不如不收。根据美国经验，房产税怎么也得占财政收入的3成吧。他们是每套房都收，税率在1.3-1.9%，当然我们的地方政府跟美国没法比，我们更加依赖土地，其他税都被中央拿走了，所以房产税占3成恐怕还远远不够。另外，从开征的迫切度角度，二三西城市要比一线大城市积极的多，因为他们已经卖不动地了。</p>
-<p>立场三，有多套房的房叔房婶房祖宗们，很显然他们是最怕房产税的，所以他们将是房产税推出的最大阻力，非常不幸的是，立法者队伍中，恐怕这样的人不少。这也是为什么很多人提出在2-3年落地没戏。</p>
-<p>立场四，有2套房的中产们，应该说这部分人不属于投机，而是属于日子稍微好一点的。碰巧弄了两套房，他们最关心的就是首套房是否征税，交了土地出让金，再收房产税，这明显是掠夺啊，最好首套房不征收，二套房少收，人均60平米以上才好，老百姓赚点钱不容易，当然重庆模式，对豪宅别墅才收房产税最好。好不容易制下两套房子，没道理就变成负担了。而且这哪里是房产税，分明就是泡沫税！实在让人不得不怀疑，你们故意炒这么高房价，然后再收税！简直就是简直了</p>
-<p>立场五，买房自住的，没别的说的，强烈要求首套房不征税，房产税属于财产税，70年使用权还交税，上哪说理去？即使70年使用权放开了，也不行！特别是大城市，动辄一套房子500万，按照1%征税，一年可就是5万啊，要知道北上广深的人均收入一年也就这么多，一家两口双职工，一个人的工资已经被吃掉了。至少50%以上的人，是负担不起的。</p>
-<p>立场六，准备买房的，征税！必须征，不征税那帮孙子不会把房子抛出来，房价根本下不来，爷一辈子也买不起房子了。最好给个免征额，然后超标的加重税，这样买个小户型就好了。当然大户型即使不征税也买不起。</p>
-<p>立场七，租房一族。不要啦，房产税开征，房东必然会把负担转移到租户身上。所以，要么不征，要么就狠征，别不温不火的让他一年多交1-2万，他肯定加到房租里。你狠狠的征他一笔，他就得降价卖房了，房价一跌没准房租也能下来（当然这可能只是一厢情愿，没什么理论基础）。所以，租房的心态就是，要么都好，要么都倒霉，你房东比我还倒霉。就是这么敞亮</p>
-<p>所以，对于房产税来说，根本就是个糊涂账，那么我们分析下，掌握话语权的是谁呢，很显然是一二三，一二的立场是一样的，站在他们的立场上，这是一个必须要干的事，但却是一个违背自己意志的事，也就是立场三，最大的可能就是拖着，等第三类立场把手里的房子处理干净了，他们的方向也就统一了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%BD%90%E4%BF%8A%E6%9D%B0%EF%BC%9A%E5%B1%81%E8%82%A1%E6%89%8D%E6%98%AF%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">地方债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF/?category=18271" rel="tag">地方财政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E7%A8%8E/?category=18271" rel="tag">房产税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%8F%94%E6%88%BF%E5%AB%82/?category=18271" rel="tag">房叔房嫂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">房地产泡沫</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -841,7 +830,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23txna5f63swy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -851,5 +840,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
 </table>

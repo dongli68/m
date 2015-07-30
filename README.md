@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gsw7xh4atmss.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mgwkqfu36p3z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE%EF%BC%9F/" target="cdt-mirror">【立此存照】我到底是不是侯聚森？</a>
+</h2>
+<p><p><strong>“我不是侯聚森”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%91%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE-copy.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%91%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE-copy.png" alt="我不是侯聚森 copy" width="525" height="636"></a><br><em>百度贴吧用户名一旦注册是无法更改的，所以贴吧里的@侧卫36只能是爱国青年侯聚森。</em></p>
+<p><strong>“那两段真的不是我骂的”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE6.png" alt="侯聚森6" width="550" height="178"></a><br><em>就如“我不是侯聚森”那般真实。（详见：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E7%9A%84%E7%B2%97%E5%8F%A3%E6%95%99%E7%A8%8B/">【立此存照】爱国青年侯聚森的粗口教程</a> ）</em></p>
+<p><strong>“为了我的信仰”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE2.png" alt="侯聚森2" width="550" height="343"></a><br><em>爱国青年侯聚森并不只爱中国。</em></p>
+<p>“极力<strong>抹黑斯大林模式</strong>”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE5.png" alt="侯聚森5" width="550" height="516"></a><br><em>斯大林模式需要抹黑？</em></p>
+<p><strong>“为啥戈猪还不死”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE4.png" alt="侯聚森4" width="550" height="380"></a><br><em>爱国青年对戈尔巴乔夫的诅咒。</em></p>
+<p>“<strong>谷歌泄露中国人银行卡信息</strong>导致大量金钱在境外被盗”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE3.png" alt="侯聚森3" width="550" height="540"></a><br><em>侯聚森在某些与爱国无关的贴吧里，立刻摇身一变，成为了Nexus系列手机爱好者和谷歌原生App死粉。（详见：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%A2%A6/">【立此存照】爱国青年的谷歌梦 </a>）</em></p>
+<p>“我们有权<strong>向东京发起进攻并</strong>成为<strong>率先占领这座城市</strong>的部队”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE7.png" alt="侯聚森7" width="550" height="475"></a><br><del><em>纳尼？</em></del></p>
+<p><strong>附：兔粉的爱国言论</strong>（相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%87%AA%E5%B9%B2%E4%BA%94%E4%BB%AC%E7%9A%84%E6%84%A4%E6%80%92/">【图说天朝】自干五们的愤怒（一）</a>）</p>
+<p>“15岁小兔子”、<strong>“打倒日杂美粉”</strong>：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A5%E6%9D%82%E7%BE%8E%E7%B2%89.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A5%E6%9D%82%E7%BE%8E%E7%B2%89.png" alt="日杂美粉" width="525" height=""></a></p>
+<p>“<strong>爆吧</strong>的时候就看到他了”：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%86%E5%90%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%86%E5%90%A7.png" alt="爆吧" width="525" height=""></a></p>
+<p>“我们去纳吧潜伏，<strong>爆了它</strong>”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%86%E5%90%A721.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%86%E5%90%A721.png" alt="爆吧2" width="550" height=""></a></p>
+<p>“<strong>纳蛆</strong>”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%BA%B3%E5%90%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%BA%B3%E5%90%A7.png" alt="纳吧" width="550" height=""></a></p>
+<blockquote><p><strong>名词解释：</strong></p>
+<ul><li><strong>纳吧</strong>：百度 纳年纳兔那些事吧，现已被封。曾与“<a href="http://tieba.baidu.com/f?kw=%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF">那年那兔那些事儿吧</a>”针锋相对</li>
+<li><strong>爆吧</strong>：指在贴吧内不停地发无实质内容的废贴、水贴、垃圾贴等，把可以正常浏览的贴子刷到后几页去。（via <a href="http://baike.baidu.com/view/423530.htm">百度百科</a>）</li>
+<li><strong>日杂</strong>：日本杂种／日本杂碎</li>
+<li><strong>美粉</strong>：亲美人士，多为贬义</li>
+<li><strong>小兔子</strong>：“那年那兔那些事儿”的粉丝，热血爱国青少年的自称</li>
+<li><strong>纳蛆</strong>：对纳吧成员的蔑称</li>
+</ul></blockquote>
+<p><em>延伸阅读：<a href="http://www.dooo.cc/2015/07/37712.shtml">谨防中国青少年意识形态出现极端主义思潮</a></em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%9D%8E%E5%B0%8F%E7%90%B3%E4%BF%A1%E4%BA%86%E4%BD%9B%EF%BC%8C%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%BB%8D%E5%9D%9A%E4%BF%A1%E5%85%9A/" target="cdt-mirror">【河蟹档案】李小琳信了佛，释永信仍坚信党</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -767,34 +798,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E7%97%85%E6%80%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BD%B1%E5%93%8D%E6%B7%B1%E8%BF%9C/" target="cdt-mirror">外来客｜病态的中国经济影响深远</a>
-</h2>
-<p><p>中国是全球第二大经济体。市场担忧中国经济增速放缓会拖累全球其他主要经济体，包括美国。考虑到目前全球经济增长缓慢，而各国政府的武器库中可用武器所剩无几，这种情况可能更加危险。</p>
-<div>
-<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/c075c213246b5b8f99c03b9afdfff7ea.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/c075c213246b5b8f99c03b9afdfff7ea.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
-<p>中国股市在6月末7月初的暴跌让投资者目前行事谨慎。虽然中国股市目前暂时稳定，但是这在投资者造成了恐慌，使得原油、黄金和铜的价格也出现大跌。</p>
-<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/b6a4b07e182c046a4d56b203fc6a7f77.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/b6a4b07e182c046a4d56b203fc6a7f77.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
-<p>中国经济增长动力部分来自于债务规模的扩大。但是现在经济增速放缓，市场担心有毒贷款可能会引发金融危机，并蔓延到全球范围。正如2008年美国次贷危机那样。</p>
-<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/e63708ec76d55bf2ccb172f4e53cd309.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/e63708ec76d55bf2ccb172f4e53cd309.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
-<p>以下是中国经济放缓会影响到美国经济的主要方式：</p>
-<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/b43fc5810a67501ebdabe584a1ee20a0.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/b43fc5810a67501ebdabe584a1ee20a0.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
-<p>贸易下滑：两国的贸易往来是中美之间最直接的联系。根据State Street Global预测，未来两年，中美之间的贸易将超过美国和加拿大的双边贸易，成为全球最大的双边贸易关系。但是如果中国增速放缓，那么对于国外产品的需求就会下跌，包括美国产品。</p>
-<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/f7719f49134b23496251bd75de9f3ac3.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/f7719f49134b23496251bd75de9f3ac3.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
-<p>美国商业遭受打击：美国股市对于中国的风险敞口正在扩大。因为40%的标准普尔500指数公司的利润都是来自海外。中国经济增速的加速下滑将会很自然地损害了跨国公司的利润。仅仅上周，联合技术公司(NYSE:UTX)下调了其2015年全年盈利预期，并将下调预期的原因归咎于中国。联合技术公司表示上一季度中国的新设备业务就大跌10%。</p>
-<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/5d41601adf132bbc33290629e5defb2b.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/5d41601adf132bbc33290629e5defb2b.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
-<p>激冷效应：6月12日前，中国股市在过去12个月中大涨150%。之后又大跌32%，这让投资者担心这是中国经济问题进一步加深的信号。中国股市此轮的大涨是由借贷、投机和官方媒体的造势所推动的。中国监管机构为阻止股市暴跌出台了一系列大力度的救市措施，以保证金融市场的稳定。但是这些大力度的救市措施对于投资者产生了激冷效应，投资者更加希望中国的市场能够更加自由。</p>
-<div><a title="" href="http://www.moremorewin.net/imgserver/imgs/2015/07/27/f2bf497da7cebce74875b95440c9775b.jpg"><img title="点击图片看原样大小图片" src="http://www.moremorewin.net/imgserver/imgs/2015/07/27/f2bf497da7cebce74875b95440c9775b.jpg" alt="点击图片看原样大小图片" width="300" height=""></a></div>
-</div>
-<div></div>
-<div>转自《金融时报》</div>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A4%96%E6%9D%A5%E5%AE%A2%EF%BD%9C%E7%97%85%E6%80%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BD%B1%E5%93%8D%E6%B7%B1%E8%BF%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -806,7 +809,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gsw7xh4atmss.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d34ruqwtacj6dr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +819,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1gsw7xh4atmss.cloudfront.net">https://d1gsw7xh4atmss.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23txna5f63swy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mpsg9ssceuan.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,138 @@
                 <td></td>
                 
         
-        <td><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%AF%B7%E6%B1%82%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%8B%92%E7%BB%9D%E5%8C%97%E4%BA%AC/" target="cdt-mirror">纽约时报 | 中国人权人士请求国际奥委会拒绝北京</a>
+</h2>
+<p><p>几天之后，国际奥委会(International Olympic Committee)就将决定是由哈萨克斯坦的阿拉木图还是北京举办2022年冬奥会。此时此刻，人权倡导人士正积极开展行动，以中国对维权律师、政治活动人士及少数民族进行广泛镇压为由，力劝奥委会不要选择中国。人权观察组织(Human Rights Watch)等团体批评国际奥委会没有严肃对待自北京举办2008年夏季奥运会以来，网络审查与政府打压力度不断加大的事实。该委员会将于周五在马来西亚的吉隆坡进行不记名投票，选出举办城市。一批知名的中国权利活动人士周五发布了一封<a title="Link: https://www.change.org/p/international-olympic-committee-to-reject-beijing-s-bid-to-host-the-2022-winter-olympics" href="https://www.change.org/p/international-olympic-committee-to-reject-beijing-s-bid-to-host-the-2022-winter-olympics" target="_blank" rel="nofollow">请愿书</a>，其中认为，选择中国将与奥林匹克运动会提出的“增进社会和平、促进人类尊严”的目标产生矛盾。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/27SINO-OLYMPICS-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/27SINO-OLYMPICS-articleLarge.jpg" alt="去年冬天，河北密苑云顶乐园滑雪场的建设工程。如果北京赢得2022年冬奥会主办权，这里将举办部分体育赛事。" width="600" height="400"></a><p>去年冬天，河北密苑云顶乐园滑雪场的建设工程。如果北京赢得2022年冬奥会主办权，这里将举办部分体育赛事。</p></div>
+<p>此外，46岁的西藏流亡僧人久美嘉措(Golog Jigme)也提出了自己的理由，说明该委员会的决定会如何影响普通人，并鼓励一个对有关其人权记录的批评越来越习以为常的政府。他以个人名义向国际奥委会主席托马斯·巴赫(Thomas Bach)提出请求。</p>
+<p>久美嘉措表示，他在协助制作纪录片<a title="Link: http://www.leavingfearbehind.com/projects/leaving-fear-behind/" href="http://www.leavingfearbehind.com/projects/leaving-fear-behind/" target="_blank" rel="nofollow">《不再恐惧》(Leaving Fear Behind)</a>后于2008年被捕，并遭到虐待。这部纪录片探讨了普通藏人在2008年夏季奥运会前的复杂情绪。该片的联合制片人<a title="Link: http://www.nytimes.com/2009/10/31/world/asia/31tibet.html" href="http://www.nytimes.com/2009/10/31/world/asia/31tibet.html" target="_blank" rel="nofollow">当知项欠(Dhondup Wangchen)</a>以颠覆罪名服刑六年，于去年获释。</p>
+<p>目前在瑞士生活的久美嘉措于7月17日向巴赫<a href="https://docs.google.com/document/d/1jaOBTxUFj0I-kMi3Z45vx-twtEVeIkkSDjHARagFFAU/edit" target="_blank" rel="nofollow">发送了函件</a>，询问是否可以当面陈情。</p>
+<p>《纽约时报》获得了这封信件的副本。他在文中写道，“我非常希望亲自为您展示这部纪录片，这样您就可以看到藏人在汉人统治下的遭遇，听到他们对在自身人权状况极为糟糕的情况下中国却获得2008年奥运会主办权的想法。”</p>
+<p>截至周一，同样定居瑞士的巴赫尚未做出回应。</p>
+<p>久美嘉措接受采访时表示，让他颇为不安的是，在中国政府背弃了之前申办奥运会时做出的承诺后，国际奥委会仍可能将冬奥会主办权交给北京。</p>
+<p>当时，中国<a title="Link: http://www.nytimes.com/2008/02/04/opinion/04mon2.html" href="http://www.nytimes.com/2008/02/04/opinion/04mon2.html" target="_blank" rel="nofollow">向奥委会保证</a>，中国会提高新闻自由，履行其国际人权承诺，甚至允许民众在奥运会期间开展抗议活动。虽然外国记者在北京的官方媒体中心可以不受限制地使用网络，但政府大力审查有关奥运会的负面新闻，安全官员也<a title="Link: http://www.nytimes.com/2008/08/14/sports/olympics/14protest.html" href="http://www.nytimes.com/2008/08/14/sports/olympics/14protest.html" target="_blank" rel="nofollow">确保了在北京设立的指定抗议区域空无一人</a>。（申请在这些区域进行抗议的人中，有不少在提交申请时被带走。）</p>
+<p>“我们藏人难以接受中国获得奥运会主办权的事实，”久美嘉措说。“奥运会是一场非常重要、享有声望的盛会。”</p>
+<p>“国际奥委会怎么能将这份荣耀给予中国呢？”他反问道。</p>
+<p>久美嘉措的指责说明了中国政府花了多大的力气来压制与官方消息相矛盾的来自民众的说法。在《不再恐惧》中，在全国上下据称都在喜迎奥运会的背景下，一些普通藏人公开谈论了自身的疑虑。</p>
+<p>这部纪录片基本上由他的朋友当知项欠一手打造。这名商人自学了拍片，花了五个月的时间采访藏人，询问他们在汉人统治下的生活。长达40个小时的采访视频提炼成了一部25分钟的影片，重点讲述他们对汉族移民涌入藏区、宗教限制加剧的不满，以及他们对达赖喇嘛的尊崇。北京将这名藏人流亡精神领袖视作政权的敌人。</p>
+<p>“我们想向国际社会证明，国际奥委会将2008年奥运会主办权交给中国的依据是谎言，”久美嘉措说。“我们希望驳斥中国政府的宣传。他们声称藏人享有自由，西藏是一个和谐社会，这些都是谎言。”</p>
+<p>2008年3月，就在这部纪录片被偷偷送到国外的几天之后，当局拘捕了两人。久美嘉措表示，在接下来的52天里，他遭到警察的<a href="http://www.tibetwatch.org/uploads/2/4/3/4/24348968/an_interview_with_golog_jigme_gyatso.pdf" target="_blank" rel="nofollow">拷打</a>，目的是逼他透露那些在镜头前接受采访的藏人的身份。</p>
+<p>久美嘉措表示，“我的父亲也出现在了片子里，我甚至得假装不认识他。”他还说，审问者将他的双臂吊在天花板上，长达几个小时，同时还用电棍对他施加电刑。</p>
+<p>虽然他最终获释，但他在2009年和2012年又分别遭到拘押，并于最后一次在押期间逃走。</p>
+<p>2014年5月，在西藏山区躲藏了20个月后，久美嘉措越过边境逃到印度。今年1月，他到达瑞士。</p>
+<p>目前尚不清楚，他对国际奥委会提出的请求是否会产生影响。人权倡导人士并不乐观。鉴于北京成功举办了2008年奥运会，外界认为它有不小的可能性赢得2022年冬奥会的主办权。而且，<a href="http://cn.nytimes.com/asia-pacific/20150623/c23almaty/" target="_blank" rel="nofollow">哈萨克斯坦的人权记录</a>非常糟糕，不时也会有批评政府的人士遭到关押。此外，自1989年以来，该国一直由同一个人——努尔苏丹·纳扎尔巴耶夫(Nursultan Nazarbayev)——领导。</p>
+<p>在<a href="https://www.hrw.org/news/2015/07/21/china/kazakhstan-2022-games-major-test-olympic-reforms" target="_blank" rel="nofollow">上周公布的一封信</a>中，人权观察组织呼吁国际奥委会，无论哪个国家赢得举办权，都要确保它必须遵守该委员会2014年采用的改革方案。经过修改的<a title="Link: http://www.olympic.org/Documents/olympic_charter_en.pdf" href="http://www.olympic.org/Documents/olympic_charter_en.pdf" target="_blank" rel="nofollow">《奥林匹克宪章》(Olympic Charter)</a>要求主办国维护新闻自由，将“人类尊严”视作奥林匹克运动的一个基本要素。</p>
+<p>在上周的邮件往来中，国际奥委会发言人艾曼纽尔·莫罗(Emmanuelle Moreau)表示，中国和哈萨克斯坦均“保证”会遵守新宪章，但她承认委员会对奥运会主办国的影响有限。“国际奥委会并非一个世界政府，”她写道，我们必须“尊重主权国家的法律”。</p>
+<p>在上周发布的那封公开信中，200多人联名呼吁国际奥委会拒绝北京主办冬奥会的申请，他们认为奥委会的这种立场还不够。他们表示，给予北京2022年冬奥会主办权的决定会被中国解读为国际社会对自身的认可，助长一个愈发容不下异议的政府的气焰。</p>
+<p>“如果赞同北京举办2022年冬奥会，将给世界传达这样一个信息：国际奥委会支持中国政府侵犯人权。这样，2022年冬奥会将与1936年柏林奥运会和1980年莫斯科奥运会极其相似，”信中写道。“我们梦想着有一天，奥运圣火将照亮一个自由的中国。然而在当前、在现政府统治下，在北京再次举办奥运会将成为耻辱载入史册，也将使国际奥委会成为以奥运之名侵犯人权的帮凶。”</p>
+<div>
+<p>杰安迪(Andrew Jacobs)是《纽约时报》驻京记者。</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%AF%B7%E6%B1%82%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%8B%92%E7%BB%9D%E5%8C%97%E4%BA%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%8A%9E%E6%9D%83/?category=18271" rel="tag">举办权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A/?category=18271" rel="tag">国际奥委会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B/?category=18271" rel="tag">奥林匹克</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%87%86%E5%84%BF%E5%AA%B3%E4%B8%BE%E6%8A%A5%EF%BC%9A%E6%9C%89%E5%A6%BB%E3%80%81%E5%90%83%E8%82%89%E3%80%81/" target="cdt-mirror">南方周末 | 寺庙住持被准儿媳举报：有妻、吃肉、开路虎</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/96uSg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/96uSg.jpg" alt="96uSg" width="660" height="440"></a></p>
+<p>近日，针对少林寺方丈释永信的举报在网上持续流传。浙江温州一位佛教界的达人也被举报了。举报者，是他的准儿媳妇。</p>
+<p>“他虽然14岁出家，但有妻子名林银香，爱吃牛肉不爱吃菜，出门专车路虎揽胜，或者奥迪A8，出入五星级宾馆，冬虫夏草泡茶……”</p>
+<p>在官方下文确认其并无僧人身份之后，这位佛教界达人不得不辞去佛教协会常务副会长的官方职务。然而，他还继续担任着两个寺的住持。</p>
+<p>而形形色色的“假和尚”，远不止他一个。</p>
+<p>“会抽烟吗？”乐清市宝林寺住持释智通，掏出手中的中华牌香烟微笑。7月24日下午，他穿着黑色圆领T恤、穿着拖鞋，站在自己的白色路虎揽胜边，并没有一丝被举报的烦恼。</p>
+<p>与千里之外的少林寺方丈释永信相比，这位同样身陷举报漩涡，却罕被媒体关注的苍南县佛教协会常务副会长，处境无疑要好得多。</p>
+<p>不远处，一座高大的佛塔即将结顶——占地五十多亩的新宝林寺，依然在加紧完成之中。规模宏伟的计划，目标是将这座元代古刹恢复至昔年的盛况。</p>
+<p>站在仍在修建的观音殿中央，他指点着高耸的巨木梁柱，顾盼间颇为自得，“这根木头有24米高，那根18米……”</p>
+<p>筹集资金、规划这一切的，均是他一人之力。在温州佛教界，54岁的释智通是颇有名气的大人物。除了乐清宝林寺，他同时还兼掌苍南的龙慧寺。</p>
+<p>他的头衔在苍南佛教界几乎已达到顶峰，他是苍南县佛教协会常务副会长、苍南佛教界唯一的温州市政协委员。此前的会长释觉圆圆寂后，他还是治丧委员会的主任。他人脉通达、交友广泛，连西泠印社也在他的寺庙里办过展览。</p>
+<p>“只差一步，他就成了苍南县佛教协会的会长。”苍南县佛教协会的一位副会长告诉南方周末记者记者。不过，让人跌破眼镜的是，这位差点成了一县僧众领袖的人物，最近却被揭穿：并无僧人资格。</p>
+<p>“市佛协历届理事会都未曾承认其僧人资格，在2011年全省开展宗教教职人员身份认定备案工作以来市佛协也未给予认定备案。”温州市佛教协会2015年第13号文件，首度用书面的方式确认了他的“假和尚”身份。</p>
+<p><strong>住持是个假和尚？</strong></p>
+<p>“他结婚生子，这么多年一直维持着婚姻。”苍南县佛教协会一位熟知释智通的僧侣说。这在温州佛教界几乎人人皆知。但一直罕有人公开站出来揭露真相，“真僧人都不想跟他多接触，也不愿多惹烦恼。”</p>
+<p>这次站出来的，是智通儿子的前女友。这位差点成了智通儿媳的黄姓女士，在为其诞下一个孙子后，由于产生纠纷，今年6月，用网名在新浪微博上，公开披露自己住在龙慧寺时的所见所闻。</p>
+<p>“他虽然14岁出家，但有妻子名林银香，爱吃牛肉不爱吃菜，出门专车路虎揽胜，或者奥迪A8，出入五星级宾馆，冬虫夏草泡茶……”黄女士在举报帖中说。她在寺庙中住了很长时间，这些都是她亲见亲闻。她并承诺，“如有造假，本人愿意全权承担法律责任”。</p>
+<p>“他们家有好几套房子，他们的户口本上，还写着一家人的关系。”7月初，黄在接受南方周末记者采访时说。她聘请了律师，因此还获得了智通一家的户籍信息和财产状况。</p>
+<p>“（他）在上海、杭州、温州，很多地方都有房子和商铺。”她告诉南方周末记者，释智通的妻子林银香并无固定职业，31岁的儿子，大学毕业后做生意也没几年，一直亏得多赚得少，“他们的钱从哪里来的？”她表示，这些举报内容，已经通过正常渠道传递到了苍南、温州两级的佛教协会和宗教管理部门。</p>
+<p>在苍南老家，俗家姓吕的智通也早已成为传奇。三十年来，他一直游走在僧俗两界，朋友遍及政商文化领域。“他跟各方面关系都很熟，经常有各种领导来这视察交流。”黄姓女子告诉南方周末记者。</p>
+<p>“有一年清明节宗族参拜，整个家族的宴请，就是智通一个人埋单，大概花了接近二十万元。”一位当地村民回忆说，而智通同宗的一位兄弟直接拒绝出席，“吃了这饭是有罪的”。</p>
+<p>不过智通否认黄姓女子对自己吃荤的指控，也否认自己将寺庙的钱转移给家庭。“我不是乱来的人。”智通说，他14岁出家，“我是受过戒，后来因缘到了，1984年才还俗结婚。”智通自己表示，一直到2014年，他因为感情不和，才和妻子离婚。</p>
+<p>他对南方周末记者介绍，结婚后他仍在修行，去年曾有人开高价向其销售戒牒，但他并未购买。</p>
+<p>“僧装、素食、独身，这是中国佛教界公认最底线的戒律。”中国佛教协会副秘书长、灵隐寺方丈光泉大和尚在接受南方周末记者采访时说。</p>
+<p>但显然，对智通而言，这并未妨碍他在佛教系统地位的晋升。“他跟民宗系统和统战系统的官员很熟。”苍南县佛教系统的一位寺院住持告诉南方周末记者，虽然不是僧人，但智通一直以来在苍南佛教协会担着要职。1994年到2006年，他历任苍南佛教协会三届常务理事，四届副会长，目前还是苍南佛教界唯一的温州市政协委员。“无论是副会长，还是以前动议要他当会长，协会内部一些僧人对此一直有不同意见。”这位住持说。但这些反对的声音并未起作用。</p>
+<p>一位没有僧人身份、一直饱受争议的人，如何成为县佛教界在市政协的唯一代表？分管佛教事务的苍南县民族宗教事务局副局长陈士洪拒绝对此作出回应，“我很忙。”他匆匆挂断电话说。</p>
+<p>“他是由民宗系统通过统战部推选过来的，具体过程我们也不知道。”温州市政协委员工委主任黄林华说。</p>
+<p>温州市佛教协会对此亦表示无能为力。“温州市佛协一直不给释智通任何职务。”温州市佛教协会的一位副会长告诉南方周末记者，此前苍南县佛协曾几次将其作为代表向市佛协理事申请上报，但都被市佛协驳回。</p>
+<p>“市佛协历来反对他在苍南县佛协担任任何职务，前几届市政协推荐佛教界委员，征求市佛协意见时只要看到释智通出现都提出反对意见，而这届释智通推荐当选为市政协委员，市佛协一点都不知情。”温州市佛协的官方文件声明说。</p>
+<p><strong>纯粹是利益使然</strong></p>
+<p>出于被报复的担心，杭州律师钱明（化名）和家人要求对其个人和关键信息全部做出匿名和模糊处理。4年前，她曾替浙南老家的亲戚代理过一家寺庙的纠纷，延宕至今。</p>
+<p>“我们家族都是做生意，在举报假和尚后，一直就被打击报复，现在都怕了。”7月29日凌晨6点，她又给南方周末记者打来电话，再三嘱咐。</p>
+<p>这家陷入风波的寺庙，位于浙南某地市区城郊接合部。寺庙规模并不大，建制也不完全，是由信众自筹资金建立。</p>
+<p>它的利益巨大。钱明介绍，寺庙的收入，主要由信众捐助和佛事收入构成，小庙的捐助不多，但光佛事收入，就颇为不菲。</p>
+<p>钱明介绍，以这家寺庙为例，佛教的佛事，分大众佛事和个人佛事。大众佛事由四方信众参加，每期固定7天，农历一月是拜万佛，二月观音圣诞，三月拜济公，五月拜十方，六月再拜观音，七月拜地藏王，还有兰盆会，九月又拜观音，十月拜梁皇，十一月拜阿弥陀佛，十二月拜释迦牟尼。每月还都加上一场吉祥法会。</p>
+<p>每场的大众佛事，参加香客众多，参加的人都要交钱，分为大牌位和小牌位，大牌位每位收取1280至3000元不等，小牌位收取二三十元。</p>
+<p>以拜梁皇为例，此法会须连做三年，一年收取一次费用。光一次拜梁皇，收费就可达二三十万元。而第三年的末次法会，收费更可高达四十万元以上。</p>
+<p>个人委托的佛事，一场佛事也是固定7天，收费最少8800元。这还不包括供天（购买供奉的礼品）、焰口（晚上招魂后给僧人的红包费）以及招待费用。</p>
+<p>“每年的乐助款，每位信众多则几万少则数百，也是笔不小的收入。”钱明说，这间寺庙，一年收入二三百万不在话下。</p>
+<p>虽然按照规定，寺庙收入应设立会计出纳制度进行监管，但多位僧人表示，在很多地方，这套财务制度始终未能建立，名存实亡。</p>
+<p>或许是觊觎这笔脱离监管的收入，信众们当时本已邀请一位有戒牒的僧人主持，但很快，这位僧人就被赶走。一位有背景的香客领来了一群僧人入驻。而这些新来的“僧人”，也没有一人出具过戒牒。</p>
+<p>“这群表面穿着僧服的和尚，都来自河南，没有戒牒、度牒，也没有佛教协会认定和宗教事务管理局备案。”钱明说，她向浙江省民宗委查询后，曾确认了带头者的假僧人身份。在她看来，这纯粹是利益使然。</p>
+<p>更蹊跷的是，带头的僧人，还被查出两个身份，“两张身份证，同一生日、同一张脸，却写着不同名字，县籍也不同。一张户籍显示独身，用于僧人身份，另一张则用于俗家，娶妻生儿育女，还买了商品房、轿车，投资苗木生意。”</p>
+<p>钱明此后向浙江省民宗委举报了此情况。但虽有上级领导督促，基层民宗局和统战部的官员，却始终拖而不决。这一拖就是四五年，“按道理，寺庙应该要进行审计，并纳入统一账户保管。但这群假僧人执掌后，有四五年时间，没有缴纳过分文，也根本无法进行审计。”钱明说，“把手炉、香客的乐助、经营宗教用品所得收入，均不入账，几百万巨款去向不明。”</p>
+<p>他们多次反映此情况，终于将带头者驱离了寺庙。</p>
+<p>但迄今，这位“僧人”依然主持着当地的另一家寺庙。</p>
+<p>“假和尚”们把持乡间的寺庙，业已成了佛教界高僧大德们痛心疾首的一个痼疾。乐清统战部的一位官员承认，现在乐清乡间的寺庙几乎已被江苏南通籍为主的僧人占领，“他们中很多根本没有僧人身份，一查都是假的”。</p>
+<p>“他们都是职业和尚。”乐清本地一位僧侣告诉南方周末记者记者，现在这里几乎都被江苏籍的假僧人占据。“他们至少在这里有四百多人，现在的大小佛事道场，都被江苏南通的假和尚占了。”</p>
+<p>“他们主要的收入来源是道场。必须依靠寺庙才能做。”乐清佛教界的一位居士说，“他们是有佛事，出来穿身僧衣，做完就脱下来回家。连寺庙也不住的。”这位居士说，这些人甚至连佛教徒都算不上。此前，因为分钱不均、发生纠纷，乐清还一度发生过假和尚被刺死的命案。</p>
+<p>“这些人都是老乡带老乡。”浙江省的一位宗教界人士分析：温州地区，来自江苏的假和尚最多；金华丽水青田这一带都是四川来的。宁波，则以安徽人最多。</p>
+<p>“这就是末法时代，一些人打着佛教的旗号，吃着佛教的饭，在做破坏佛教的事情。”光泉大和尚说。</p>
+<p>甚至智通对此都表示十分鄙视。虽然承认自己并非僧人，但他表示自己每天佛教的早晚功课都有做。“不管刮风下雨都会坚持”。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%87%86%E5%84%BF%E5%AA%B3%E4%B8%BE%E6%8A%A5%EF%BC%9A%E6%9C%89%E5%A6%BB%E3%80%81%E5%90%83%E8%82%89%E3%80%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8F%E6%8C%81/?category=18271" rel="tag">住持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BC%97/?category=18271" rel="tag">信众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">假和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BA%E5%BA%99/?category=18271" rel="tag">寺庙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E6%96%B9%E4%B8%88/?category=18271" rel="tag">少林方丈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8D%E5%8D%97%E4%BD%9B%E6%95%99%E7%95%8C/?category=18271" rel="tag">苍南佛教界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%8B%90%E5%8D%96%E4%BA%BA%E5%8F%A3%E4%B8%8E%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/" target="cdt-mirror">德国之声 | 长平观察：拐卖人口与洗脑教育</a>
+</h2>
+<p><p><strong>一起拐卖妇女旧案引发热烈讨论。时评人长平认为，“感动中国”宣传模式长期压制对社会不公的抗争。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E6%95%99%E5%B8%88.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E6%95%99%E5%B8%88.jpg" alt="从被拐女成最美乡村教师" width="550" height="390"></a></p>
+<p>（德国之声中文网）中国网民正热烈地讨论着一起拐卖妇女旧案，对官方洗脑宣传提出强烈的质疑。</p>
+<p>1994年初夏，18岁的郜艳敏出门打工被人拐骗，然后被反复拐卖、强奸、虐待，最后由来自河北省曲阳县灵山镇下岸村的一个老大爷以2700元的价格买下，带回家给儿子当老婆。她多次自杀和逃跑，均未成功。</p>
+<p>一个妇女被拐卖的过程中，必然伴随着一系列的罪恶。人贩子通常都会采用欺骗、绑架、关押、虐待、强奸、买卖等各种犯罪手段。这一点没有疑问。但是很多人都忽略了，这才仅仅是开始，更漫长的犯罪由买主来实施。他们把女人当牲口一样买来之后，在长达数年甚至数十年的时间里，随意强奸、打骂、关押、胁迫、跟踪、强制劳动，直到她们放弃反抗，逆来顺受。大多被拐卖妇女都曾反复抗争、逃跑，又都被买主拦截，重复着前述犯罪行为。这个过程通常会持续到她们怀孕生子为止。有些买主采用的手段较为软性，但本质上并无不同。</p>
+<p>由于文化和社会的原因，买主的罪恶往往被舆论淡化和忽略，甚至受害者自己也努力说服自己忘却，只记恨人贩子。在文化上，她们从小被灌输了贞操观和家庭观，被一个陌生人以丈夫的名义反复强奸（包括胁迫下的”自愿”性交）之后，她们往往认为自己已大为贬值。在作为买卖人口的强奸犯的妻子和逃跑之后重新开始生活之间选择，她们并没有确定的答案。在被用作生育工具怀孕生子之后，她们更是认为别无选择了。她们的亲人也这样认为。在郜艳敏多年后有机会回家看望父母，并希望留下来时，父母却劝她回去，要求她”为公婆考虑”，不能让她们”人财两空”，否则”做人没有良心”。其中重要的原因也是担心女儿”再也不好嫁人了”。</p>
+<p><strong>社会管理有利于买卖妇女</strong></p>
+<p>更多的问题出在社会治理上。买卖人口及相关罪恶，在中国法律中都是犯罪行为。警方时或也布置专门的打击行动，但是并不彻底，更多的时候视而不见。中国警方随时都有充足的警力骚扰异议人士、抓捕人权律师，但是每当妇女儿童被拐卖，亲属从警方得到回答几乎都是：警力不足，仅予立案。大约六七年前，我在中国做编辑时编发的报道中，有一个孩子失踪之后，警方除了立案不愿做任何更多事情。数年以后，家属才看到监控录像，原来是被一个熟人拐走了。如果及时追查，完全可以避免后来的倾家荡产全国寻子的悲惨经历。</p>
+<p>从南到北，从东到西，整个中国的乡村拐卖人口的事实大量存在。郜艳敏所在的那个四百余人的村庄，被买为人妻的妇女就有三十多个。解救被拐妇女，要比抓捕人权律师容易多了。但是，根据我曾经的采访调查，当地警方不仅不会解救，而且还会帮助买主拦截设法逃离的受害人。</p>
+<p>社会制度也不支持单亲女人带孩子生活。不仅没有相应的生育支持，而且在乡村她们也往往没有自己的土地和房屋。这就是为什么她们在怀上拘押者和强奸犯（买主）的孩子之后，大多会认同这个”丈夫”，接受并回报对方的”感情”，共同建设这个”家庭”。</p>
+<p><strong>媒体宣传压制抗争</strong></p>
+<p>郜艳敏的故事中，让网民愤怒的还不是人贩子的猖獗交易、买主的反复绑架和警方的玩忽职守，而是官方媒体的宣传报道。</p>
+<p>在郜艳敏漫长的痛苦而艰难的抗争中，没有媒体关注她，没有人来帮助她。她的村子里被买来的三十多个妇女中，有一半左右的人逃离成功。这是一个非常了不起的成就，每一个人背后都有无数的悲欢故事，但是没有媒体对这些”越狱”英雄感兴趣。一直到郜艳敏决定放弃反抗，安下心来，并找到一份代课教师的工作来填补生命的空虚，媒体一下子兴奋起来，对她大加赞赏，称之为”最美乡村教师”。2006年，她被评选为”2006年感动河北十大年度人物”。2009年，她的故事被改编成电影《嫁给大山的女人》公映。</p>
+<p>在绝望中放弃逃离的努力，郜艳敏选择做一名教师，也是对命运的一种退而求其次的抗争，同时也对乡村教育做出了很大的贡献。但是，媒体的报道，尤其是被网民传阅的《燕赵都市报》两年前的报道《[最美乡村教师候选]郜艳敏：被拐女成为山村女教师》一文，以及那部电影的主题，赞扬她放弃逃离，是因为怀有对”公婆”、”丈夫”及乡村孩子们的”大爱”。似乎同村那十几位成功逃离魔窟的被拐卖妇女，都是心中无爱、自私自利的人。</p>
+<p>郜艳敏获选”感动河北”人物，这个地方电视台的节目显然模仿自中央电视台”感动中国”人物评选。”感动中国”以及央视的诸多报道，都是这样的宣传模式：将坏事变为好事，用高调赞扬个人道德来掩盖和压制对社会不公的追问。忍受不公并为不公平的环境付出更多，成为感动中国的”大爱”；而个人命运的抗争，尤其是对社会制度的追问，则被贬损为”大爱”的反面。至于要追究统治者的责任，那就是”寻衅滋事”或者”颠覆国家政权”的犯罪行为了。</p>
+<p><strong>网民厌恶洗脑教育</strong></p>
+<p>但是网民对这起旧案的追究中，表达了对这种洗脑教育的看穿和厌恶。很多网民都表示，无论官方媒体如何美化，他们都从郜艳敏的故事中看到这个国家贩卖人口之猖獗、执法水平之低劣、性别歧视之严重、乡村教育之缺乏及贫富差距之悬殊，遍地都是罪恶和谎言。</p>
+<p>这场讨论规模之大，公安部打拐办主任陈士渠也不得不出面表态。他通过微博表示，人贩子必须严惩，买主也必须追究刑事责任，已部署当地警方调查。人们仍将质疑：既然有专职的打拐机构，为什么没有责任追究？难道又要将21年不管不问的坏事变成”警方积极为民除害”的好事？</p>
+<p>长平是中国资深媒体人、时事评论作家，现居德国。</p>
+<p>日期 29.07.2015<br>
+作者 长平</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%8B%90%E5%8D%96%E4%BA%BA%E5%8F%A3%E4%B8%8E%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">人贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88/?category=18271" rel="tag">代课教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BD%E8%BF%90/?category=18271" rel="tag">命运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%B7%A5/?category=18271" rel="tag">打工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E7%A9%B7/?category=18271" rel="tag">贫穷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E4%BB%AC%E6%8A%8A%E7%88%B1%E5%9B%BD%E8%BF%99%E4%B8%AA%E8%AF%8D%E7%BB%99%E5%BC%84%E5%8F%98%E5%91%B3%E4%BA%86/" target="cdt-mirror">【网络民议】你们把爱国这个词给弄变味了</a>
 </h2>
 <p><p>近日，清华大学教授孙立平就「山东文登爱国青年被打」事件后，就爱国的含义、判定标准质问共青团中央，喉舌《人民日报》甘肃分社社长林治波因此指摘孙立平等公知「身在体制、心在推墙」，并与林展开简短交锋。孙立平此番微博言论引致“五毛网友”围攻，但也有不少网友对此表示赞同。（苹果日报）</p>
@@ -675,106 +804,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8839%EF%BC%89%EF%BC%9A-%E8%8D%A3%E8%8E%B7%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5%E8%87%AA%E7%94%B1%E5%85%88%E9%94%8B%E5%A5%96/" target="cdt-mirror">成田机场日记（39）： 荣获北京之春自由先锋奖</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/01/11130.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/01/11130.jpg" alt="冯正虎" width="377" height="226"></a></p>
-<p>五年前，中国发生一个荒唐的故事，一个震惊世界的事件。中国公民冯正虎被上海当局八次拒绝回国，于2009年11月4日起露宿于日本东京成田国际机场92天。每天睡在长椅子上，没有洗澡，最初几天没有食品，只能以自来水维持生命，后来依靠入境日本的中国大陆、香港、台湾民众及海外华人、外国友人的食 品空运援助。他成了一个不能回到自己国家的中国公民，一个上演了好莱坞电影《幸福终点站》真人版的悲剧人物。</p>
-<p>2010年2月12日，冯正虎在中国驻日大使馆的帮助下回到自己的祖国。中国政府依法让冯正虎回国，已在政治大局上纠正上海违法官员的错误，赢得民心与挽回国家的尊严。冯正虎的成田机场日记记载了这一段历史，现在连载公开，与读者分享。</p>
-<p>——————</p>
-<blockquote><p><strong>成田机场日记（39）： 荣获北京之春自由先锋奖 / 12月11日</strong></p>
-<p>今天12月11日，是我在日本国门外露宿的第38天。</p>
-<p>8:00，澳大利亚广播电台记者就来电话预约采访，他说是否半小时后对我进行电话采访，我同意了。此时，我正要吃早餐了，一碗快餐面。8:41，他再次来电话，对方的王小姐做现场口译，我进行了16分钟的答记者问。</p>
-<p>写了一篇祝贺《北京之春》第200期出版的短文，并感谢我被评选为2009年度北京之春自由先锋奖获得者。我说：“这是我的幸运，深表感谢。我在推进中国出版自由、争取回国自由、捍卫人身自由等方面已做出许多努力，但是许许多多先锋者比我奉献出的努力与牺牲更大、更艰难，只不过我幸运地生活在这个互联网时代，我做的一切都能让民众知道，也得到民众的最大支持，而我本身就是民众的一分子，与大家一起在创造一个自由中国的时代。”</p>
-<p>谢谢sfufoet推友，你关于键盘按键坏的临时替代办法的邮件我已阅读，让我放心了。启动osk命令，启用虚拟键盘临时替代的方法，我正在使用。你的提醒很好，带一个USB键盘，这样的小键盘比携带笔记本电脑方便，体积小、价格便宜。我一急，自己却没有想到这点。</p>
-<p>12:30，今天当班的首席审查官又来向我提交第9份官方文件，内容与昨天一样，日期是新的，并与他合影一张。我也将《冯正虎向中国政府转呈12月11日的日本官方文件（总第9份）》一文送网络媒体发表，并附上日本官方文件的照相件。</p>
-<p>下午14:17，西班牙加泰罗尼亚（音）广播电台电话采访，对方的工作人员做现场口译，采访了15分钟。</p>
-<p>晚上，德国电视一台、英国金融时报的记者来电话。现在我与这些记者的谈话就像老朋友谈话一样轻松，因为彼此都熟悉了。中国官僚的昏庸，又使这起事件增加一些滑稽可笑的新故事，令人捧腹大笑。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11134.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11134.jpg" alt="冯正虎" width="417" height="541"></a></p></blockquote>
-<p> </p>
-<p>——————</p>
-<blockquote><p>相关阅读：</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%881%EF%BC%89%EF%BC%9A%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD/">成田机场日记（1）：禁止中国公民冯正虎回国</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%882%EF%BC%89%EF%BC%9A%E5%BC%BA%E8%A1%8C%E6%8A%BC%E9%80%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%86%AF%E6%AD%A3%E8%99%8E%E5%8E%BB%E6%97%A5/">成田机场日记（2）：强行押送中国公民冯正虎去日本</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%883%EF%BC%89%EF%BC%9A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E8%A2%AB%E8%BF%AB%E7%BB%9D%E9%A3%9F/">成田机场日记（3）：在东京成田机场被迫绝食</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%884%EF%BC%89%EF%BC%9A%E5%9D%9A%E5%AE%88%E5%81%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%B0%8A%E4%B8%A5/">成田机场日记（4）：坚守做中国人的尊严</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%885%EF%BC%89%EF%BC%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%EF%BC%8C%E8%AA%93%E6%AD%BB%E5%9B%9E%E5%9B%BD/">成田机场日记（5）：破釜沉舟，誓死回国</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%886%EF%BC%89%EF%BC%9A-%E4%B8%8E%E7%8E%8B%E5%AE%B6%E7%91%9E%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%85%A5%E5%A2%83%E5%8F%A3%E7%9B%B8%E9%81%87/">成田机场日记（6）： 与王家瑞在日本入境口相遇</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%887%EF%BC%89%EF%BC%9A%E5%90%91%E5%86%AF%E6%AD%A3%E8%99%8E%E6%8F%B4%E5%8A%A9%E4%B8%80%E5%8C%85%E9%A5%BC%E5%B9%B2/">成田机场日记（7）：向冯正虎援助一包饼干</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%888%EF%BC%89%EF%BC%9A-%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E5%8F%8B%E7%88%B1/">成田机场日记（8）： 日本人的友爱</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%889%EF%BC%89%EF%BC%9A%E7%BD%91%E7%BB%9C%E4%B8%93%E5%AE%B6%E6%AF%9B%E5%90%91%E6%99%96%E7%9A%84%E6%8F%B4%E5%8A%A9/">成田机场日记（9）：网络专家毛向晖的援助</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8810%EF%BC%89%EF%BC%9A%E4%B8%8D%E7%A7%BB%E5%8A%A8/">成田机场日记（10）：不移动</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8811%EF%BC%89%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E9%99%88%E5%B7%A7%E6%96%87%E9%80%81%E9%A3%9F%E5%93%81/">成田机场日记（11）：香港大学学生陈巧文送食品</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8812%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%AE%BF%E9%97%AE%E4%B8%AD%E6%97%A5/">成田机场日记（12）：欢迎美国总统奥巴马访问中日</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8813%EF%BC%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E8%83%BD%E5%9B%9E%E5%9B%BD%EF%BC%8C%E8%B0%81%E8%83%BD%E7%9B%B8%E4%BF%A1/">成田机场日记（13）：中国公民不能回国，谁能相信？</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8814%EF%BC%89%EF%BC%9A%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8A%A9%E6%89%8B%E9%AB%98%E8%8A%9C%E4%B8%8E%E8%8B%B1%E5%9B%BD%E9%87%91%E8%9E%8D%E6%97%B6/">成田机场日记（14）: 艾未未助手高芜与英金融时报记者的现场采访</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8815%EF%BC%89%EF%BC%9A%E4%B8%8D%E8%AE%A9%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%9B%BD%E8%80%BB/">成田机场日记（15）：不让冯正虎回国是我们的国耻！</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8816%EF%BC%89%EF%BC%9A%E8%B0%A2%E7%BB%9D%E4%BA%86%E8%81%94%E5%90%88%E5%9B%BD%E9%9A%BE%E6%B0%91%E7%94%B3%E8%AF%B7/">成田机场日记（16）：谢绝了联合国难民申请</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8817%EF%BC%89%EF%BC%9A-%E8%B5%A2%E5%BE%97%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E7%9A%84%E4%BF%A1%E4%BB%BB%E4%B8%8E%E5%B0%8A%E9%87%8D/">成田机场日记（17）： 赢得日本官员的信任与尊重</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8818%EF%BC%89%EF%BC%9A-%E8%89%BE%E6%9C%AA%E6%9C%AA%E7%AD%89%E5%8F%8B%E4%BA%BA%E7%9A%84%E7%9C%9F%E6%83%85%E4%B8%8E%E6%B8%A9%E6%9A%96/">成田机场日记（18）： 艾未未等友人的真情与温暖</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8819%EF%BC%89%EF%BC%9A%E6%9D%A5%E8%87%AA%E5%9B%BD%E5%86%85%E4%B8%80%E4%BD%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%9F%AD%E4%BF%A1/">成田机场日记（19）：来自国内一位大学生的短信</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8820%EF%BC%89%EF%BC%9A-%E5%85%AD%E5%9B%9B%E5%AD%A6%E7%94%9F%E9%A2%86%E8%A2%96%E7%8E%8B%E4%B8%B9%E7%9A%84%E7%94%B5%E8%AF%9D%E9%97%AE/">成田机场日记（20）： 六四学生领袖王丹的电话问候</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8821%EF%BC%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%B4%BB%E5%8A%A8%E5%AE%B6%E5%86%AF%E6%AD%A3%E8%99%8E/">成田机场日记（21）：中国人权活动家冯正虎</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8822%EF%BC%89%EF%BC%9A-%E5%85%A8%E7%90%83%E7%9F%A5%E6%99%93%E7%9A%84%E6%96%B0%E9%97%BB%E4%BA%BA%E7%89%A9/">成田机场日记（22）： 全球知晓的新闻人物</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8823%EF%BC%89%EF%BC%9A%E5%91%8A%E7%A4%BA%E6%9D%BF%E7%9A%84%E4%BA%89%E8%AE%AE/">成田机场日记（23）：告示板的争议</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8824%EF%BC%89%EF%BC%9A-%E4%B8%AD%E5%9B%BD%E6%B0%91%E9%98%B5%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%8E%B0%E5%9C%BA%E6%85%B0%E9%97%AE/">成田机场日记（24）： 中国民阵领导人现场慰问</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8825%EF%BC%89%EF%BC%9A-%E5%90%84%E5%9B%BD%E6%B0%91%E4%BC%97%E5%85%B3%E7%88%B1%E7%9A%84%E5%B0%8F%E5%AD%A9/">成田机场日记（25）： 各国民众关爱的“小孩”</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8826%EF%BC%89%EF%BC%9A-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE/">成田机场日记（26）： 中国外交部发言人答记者问</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8827%EF%BC%89%EF%BC%9A-%E7%BB%88%E4%BA%8E%E7%9C%8B%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8E%A8%E7%89%B9/">成田机场日记（27）： 终于看到自己的推特</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8828%EF%BC%89%EF%BC%9A-%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/">成田机场日记（28）： 美国芝加哥的中国留学生</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8829%EF%BC%89%EF%BC%9A%E7%BE%8E%E5%9B%BDcnn%E9%87%87%E8%AE%BF%E5%86%AF%E6%AD%A3%E8%99%8E/">成田机场日记（29）：美国CNN采访冯正虎</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8830%EF%BC%89%EF%BC%9A%E5%A4%A9%E4%B8%8B%E6%B2%A1%E6%9C%89%E7%99%BD%E5%90%83%E7%9A%84%E5%8D%88%E9%A4%90/">成田机场日记（30）：天下没有白吃的午餐</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8831%EF%BC%89%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%8F%B8%E5%BE%92%E5%8D%8E%E9%A2%86%E9%98%9F%E8%B5%B4/">成田机场日记（31）：香港支联会主席司徒华领队赴现场慰问</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8832%EF%BC%89%EF%BC%9A%E5%AE%B6%E4%B9%A1%E4%BA%BA%E8%A7%81%E9%9D%A2%E6%A0%BC%E5%A4%96%E4%BA%B2/">成田机场日记（32）：家乡人见面格外亲</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8833%EF%BC%89%EF%BC%9A-%E5%90%91%E8%83%A1%E9%94%A6%E6%B6%9B%E8%BD%AC%E5%91%88%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E7%9A%84/">成田机场日记（33）： 向胡锦涛转呈日本政府的“劝告书”</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8834%EF%BC%89%EF%BC%9A-%E4%B8%8A%E6%B5%B7%E7%A9%BA%E5%A7%90%E7%9A%84%E4%BF%9D%E6%B8%A9%E6%9D%AF/">成田机场日记（34）： 上海空姐的保温杯</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8835%EF%BC%89%EF%BC%9A%E8%AF%89%E9%98%BB%E6%AD%A2%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD%E7%9A%84%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%AE%B6/">成田机场日记（35）：诉阻止冯正虎回国的中美两家航空公司</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8836%EF%BC%89%EF%BC%9Anhk%E5%B0%8F%E6%9E%97%E5%90%9B%E7%9A%84%E9%87%87%E8%AE%BF/">成田机场日记（36）：NHK小林君的采访</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8837%EF%BC%89%EF%BC%9A-%E3%80%8A%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0%E3%80%8B%E5%8F%91%E8%A1%A8%E4%B8%80%E5%91%A8%E5%B9%B4/">成田机场日记（37）： <零八宪章>发表一周年</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8838%EF%BC%89%EF%BC%9A-%E4%BA%BA%E6%9D%83%E6%97%A5%E6%88%91%E4%BC%91%E6%81%AF/">成田机场日记（38）： 人权日我休息</a>》</p></blockquote>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8839%EF%BC%89%EF%BC%9A-%E8%8D%A3%E8%8E%B7%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5%E8%87%AA%E7%94%B1%E5%85%88%E9%94%8B%E5%A5%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E6%AD%A3%E8%99%8E/?category=18271" rel="tag">冯正虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5/?category=18271" rel="tag">北京之春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA/?category=18271" rel="tag">成田机场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%90/?category=18271" rel="tag">民运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">海外华人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E5%85%88%E9%94%8B%E5%A5%96/?category=18271" rel="tag">自由先锋奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E4%B8%8D%E6%AD%A3%E7%BB%8F/" target="cdt-mirror">王枪枪 | 一本正经地不正经</a>
-</h2>
-<p><p>今天下午，我一直沉浸在悲痛中无法自拔，听了三遍《血染的风采》情绪才有所缓和，“如果是这样，你不要悲哀，共和国的旗帜上有我们血染的风采”，谨以此曲献给真正的爱国者：中国散户。谁是爱国者？肯定不是侯聚森这样的小流氓，虽然有各级共青团组织和《环球时报》加持，但烂泥毕竟扶不上墙，加持这个东西有用的话，负责治安工作的就是朝阳区仁波切而不是朝阳区群众了。浏览了一下侯聚森青年的微博，今年刚考上一所三流大专，前段时间刚在山东青年政治学院参加完“全省共青团网络宣传引导工作专题培训班”，没想到这么快就有了用武之地。“爱国青年侯聚森”被打事件发生后，各级共青团的官微第一时间出面表态支持“爱国青年”，一本正经地写下了诸如“侯聚森，你不孤单，我们都在你的身旁”等感人言论，后来侯聚森的一些网络言论被扒了出来，我在这就不一一引用了，看完我都脸红了，各种器官和姿势，这么说吧，侯青年去日本当AV编剧，一定能大放异彩，不知道这时会不会有人站在他身旁，他会不会感到孤单。</p>
-<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/" target="_blank">文登爱国青年被打</a></p>
-<p>我以前总说，在这样的时代里，做恶事可以理解，但别做恶心人的事，除了酒精和女色，再也没有比死要面子地不要脸更容易让人吐的了。作为一个男人，我的审美第一要素是大，大奸大恶瞧得上，小地痞小流氓实在没时间看，千万别给他们冠上“爱国青年”的称号，就像在A杯的内衣里塞上了厚厚海绵垫，看上去很美实操不行。真正的爱国者应该是这段时间勇入股市为国接盘的散户，请你们放心，党和国家不会忘记你们的，人民英雄纪念碑上会加刻你们的名字。</p>
-<p>一本正经地《捉妖记》据说票房已成华语影史冠军，必须得承认这部片子里有些演员的演技已经达到好莱坞水准，我说的是动画角色，人类演员就不提了，喊台词还是喊得那么流畅。这部片子之所以广受好评并非是《小时代4》的衬托，而是人类演员和动画演员穿插得很巧妙，当人类演员演得让我们快厌烦的时候，导演就及时安排动画角色出场，当我们快发现动画角色很像哪部好莱坞动画大片时，导演又及时安排人类演员出来喊台词打断我们的思绪，所以说，这是一部好得很奇怪的国产电影，减分的都是国产演员，加分的都是类似于好莱坞的动画角色，一切都很一本正经，票房又那么有面子，不去细想，看上去很美。我很喜欢那个长得像萝卜的动画主角，也很感激人类演员井柏然喊得那句台词：“记住，你有自己的名字，叫胡巴”，对于热爱麻将的我来说，这是极好的。</p>
-<p>一本正经地还有陕西旬阳县政府，为了更好的管理本县上访群众，县政府官方网站发表了题为《无理缠访将写入县志》的文章，文章说，“青史留名”是一个人、一个家族，乃至一个地域的无上荣誉，但留下的要是“恶名”，则是把自己和家族永远地钉在历史的耻辱柱上。今后，凡是我县重大缠访赴省进京访者也将进入县志“青史留名”，只不过，留下的是遗臭万年的“恶名”。看完这则新闻我都有点糊涂了，这个县政府是要依法治国还是要以德治国呢？以往能在县志中留名留姓的，不是社会贤达就是大奸大恶，要么就是“天微雨，有光如弓影，见于来山之西，忽坠于山巅，作青白焰，高丈余。”这类的奇事，从未听说过记录上访群众的，上访者多为升斗小民，有问题要政府解决，解决问题的程序也在政府手中，县政府不解决问题却想解决提出问题的人，威胁将他们记入县志，这事本身就挺值得写入县志的。</p>
-<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%97%AC%E9%98%B3%E6%94%BF%E5%BA%9C%E7%BD%91-%E5%B0%86%E6%97%A0%E7%90%86%E7%BC%A0%E8%AE%BF%E8%80%85%E5%86%99%E5%85%A5%E5%8E%BF%E5%BF%97-%E9%92%89%E5%9C%A8%E8%80%BB%E8%BE%B1%E6%9F%B1%E4%B8%8A/" target="_blank">旬阳政府网 | 将无理缠访者写入县志 钉在耻辱柱上</a></p>
-<p>一本正经地县政府还有四川省青神县政府，前几日青神县300多名党员领导干部聚集在县清廉广场，集体公开签名，并举起右手庄严承诺不认干爹干妈干女儿等，如果承诺有用，要纪委干什么，承诺应该是可以监督的，但又从没见过干爹干女儿一类的会公开活动，此类宣誓活动看上去一本正经浩气长存，实则是为不正经打掩护，就像莫文蔚唱得那样：“也许承诺，不过证明没把握…不用掩饰什么，当结果是那么赤裸裸……”，一声令人酥麻地干爹，不仅能助肾气利膀胱，还能提升干爹的活力和干劲，为人民更好地服务，何乐而不为呢？</p>
-<p>相关阅读：</p>
-<p>有些东西，看上去很像那么一回事，但终究不是那么一回事，就像赵本山和陈冠希，雪村和张震，总有那么一瞬间会让人觉得他们很像，可二者之间却有大不同，一方让人想不正经，一方却让人一本正经。</p>
-<p>就写到这吧，我知道有很多人今天又栽在股市里了，不要忧伤，像我一样马不停蹄地奔向下一个战场：麻将局。期货界的传奇人物刘强在股灾后自杀了，拿他写的小说里的一段话送给那些仍拼搏在股市里的人们吧：“施主，我看您也是有缘人，最后老僧送你一句话——三千年读史，不外功名利禄，九万里悟道，总归诗酒田园。”</p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E6%96%B0%E7%BD%91-%E6%B2%AA%E6%8C%87%E6%94%B6%E7%9B%98%E6%8A%A53725-56%E7%82%B9-%E5%88%9B8%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85/" target="_blank">中新网 | 沪指收盘报3725.56点 创8年来最大跌幅</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E4%B8%8D%E6%AD%A3%E7%BB%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E8%80%85/?category=18271" rel="tag">上访者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/?category=18271" rel="tag">为国接盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">小时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AD%A6/?category=18271" rel="tag">政治学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%A8%80%E8%AE%BA/?category=18271" rel="tag">网络言论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E6%96%B0%E7%BD%91-%E6%B2%AA%E6%8C%87%E6%94%B6%E7%9B%98%E6%8A%A53725-56%E7%82%B9-%E5%88%9B8%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85/" target="cdt-mirror">中新网 | 沪指收盘报3725.56点 创8年来最大跌幅</a>
-</h2>
-<p><p>【沪指创八年来最大跌幅】上证综指收盘报3725.56点，跌幅8.48%，成交额7213亿元。 深证指数收盘报12493.05点，跌幅7.59%，成交额6677亿元。创业板收盘报2683.45点，跌幅7.40%。两市近2000个股跌停，石化双雄跌停。</p>
-<p>中新网7月27日电 沪指早盘低开，开盘后低位震荡，午后跌幅逐渐扩大，截至收盘跌幅高达8.48%。深证成指今日同样走低，收盘时下跌1025.46点。</p>
-<p>据板块分类显示，证券板块领跌两市，跌幅高达9.9%，其中除国海证券外，22只券商股全线跌停；航空、煤炭、互联网、保险、钢铁、电力、有色等权重板块也均跌逾9%。</p>
-<p>个股方面，两市A股市场今日共2172只下跌，其中近1800只非ST股跌停。两市市值超2000千亿个股缩至22只，除长江电力停牌外，其余全线下跌，其中中国石化、中国中车、中国人寿、中国神华、中国中铁、交通银行、中国重工等10只跌停。</p>
-<p>截至收盘，上证综指报收3725.56点，跌345.35点，跌幅8.48%，成交7213亿元；深成指报收12493.0点，跌1025.46点，跌幅7.59%，成交6677亿元。(中新网证券频道)</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%AD%E6%96%B0%E7%BD%91-%E6%B2%AA%E6%8C%87%E6%94%B6%E7%9B%98%E6%8A%A53725-56%E7%82%B9-%E5%88%9B8%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C/?category=18271" rel="tag">下跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%AA%E6%8C%87/?category=18271" rel="tag">沪指</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -796,5 +825,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?catego
                 <td></td>
                 
         
-        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d2mpsg9ssceuan.cloudfront.net">https://d2mpsg9ssceuan.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/></td>    </tr>
 </table>

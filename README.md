@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dajsdqr8u6o30.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E4%BB%AC%E6%8A%8A%E7%88%B1%E5%9B%BD%E8%BF%99%E4%B8%AA%E8%AF%8D%E7%BB%99%E5%BC%84%E5%8F%98%E5%91%B3%E4%BA%86/" target="cdt-mirror">【网络民议】你们把爱国这个词给弄变味了</a>
@@ -786,7 +786,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?catego
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1x9b1kipusa7k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -796,5 +796,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?catego
                 <td></td>
                 
         
-        <td><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/></td>    </tr>
 </table>

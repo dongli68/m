@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dajsdqr8u6o30.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%AF%B7%E6%B1%82%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%8B%92%E7%BB%9D%E5%8C%97%E4%BA%AC/" target="cdt-mirror">纽约时报 | 中国人权人士请求国际奥委会拒绝北京</a>
@@ -120,7 +120,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8F%E6%8C%81/?category=18271" rel="tag">住持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BC%97/?category=18271" rel="tag">信众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">假和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BA%E5%BA%99/?category=18271" rel="tag">寺庙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E6%96%B9%E4%B8%88/?category=18271" rel="tag">少林方丈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8D%E5%8D%97%E4%BD%9B%E6%95%99%E7%95%8C/?category=18271" rel="tag">苍南佛教界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%8B%90%E5%8D%96%E4%BA%BA%E5%8F%A3%E4%B8%8E%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/" target="cdt-mirror">德国之声 | 长平观察：拐卖人口与洗脑教育</a>
 </h2>
@@ -815,7 +815,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3j9wxaxhevs10.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -825,5 +825,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/></td>    </tr>
 </table>

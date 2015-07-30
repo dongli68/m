@@ -21,9 +21,110 @@
                 <td></td>
                 
         
-        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E9%87%8D%E5%A1%91%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E8%A7%84%E5%88%99/" target="cdt-mirror">纽约时报｜习近平强势重塑中国政治规则</a>
+</h2>
+<p><p>习近平对中国政治规则的改写究竟多彻底？自从2012年11月成为中共领导人、2013年3月成为国家主席以来，他一直在国内外推动积极有力的议程。但是他的权势有多大、变革力度有多大？专家们对这个问题存在不同意见。有些人认为，尽管开展了一些自夸式的宣传，他在很大程度上仍然像前任胡锦涛一样，受制于同样的局限、约束和利益集团。</p>
+<p>但是，华盛顿国际战略研究中心(Center for Strategic and International Studies)的克里斯托弗·K·约翰逊(Christopher K. Johnson)和其他一些学者却认为，习近平的权势明显比几位前任更强大，而且他正在重塑中国政治的规则。在《外交事务》(Foreign Affairs)的一篇文章中，他和他的同事甘思德(Scott Kennedy)表示，习近平有力地重申了中共的作用。约翰逊在这里解释了这个观点：</p>
+<p>问：从很多方面来说，如今的中国政治十分诡秘，更甚于以前。有鉴于此，我们对中共运转方式的了解有多少呢？</p>
+<p>答：习近平对体制做出的改变，已经让所有人都更难了解这一点了——包括那些和他非常接近的人。因此我感觉，没有人完全知道习近平在想些什么，我想他很喜欢这样。这是他的个性中一个毛泽东似的元素，他喜欢让每个人都感到不安。他基本上每周做一次新的政策讲话，让每个人猜测他的意思，并且力图跟上形势。所以，现在肯定是比以前更难了解政策面的走向了。</p>
+<p>至于谁在掌权，这种不透明的局面让人真的很难弄明白，比如其他政治局常委有多大的影响力。除了（中共中央纪律检查委员会书记）王岐山及其张扬的反腐活动之外，真的很难搞清楚这些人的影响力到底如何。</p>
+<p>但是有些时候，事情就明摆在眼前，我们也不必强调这件事的难度。肯定有一些看得见的事实，显示习近平掌握着大权。</p>
+<p>首先，他做到了前任们尝试过但没有做到的事情——比如设立国家安全委员会，在军队中大举反腐，组建了中央全面深化改革领导小组。所有这些事情，我认为其他人都是做不到的。有人说，这一切不过是中共党内权贵阶层的巨大共识，我不同意这个说法。</p>
+<p>还有他重塑重要的外交政策和国内政策的能力。他能做到这些，尤其是在他任期之初，就表明他有了相当大的权力。</p>
+<p>问：您文章的总体观点是，不仅习近平个人的权力与前任相比增强了，而且共产党的重要地位回归了，也变得更强大了。标志有哪些？</p>
+<p>答：你能看到他在用很多方式重新强调党的作用，无论是在部委甚至非政府组织中，重新重视党委的作用，还是成立新的领导小组。这些领导小组所起的统领性、协调性作用，过去是由不同机构承担的。在经济政策的管理方面，中央全面深化改革领导小组在某种程度上取代了国务院。</p>
+<p>我们还能看到其他一些迹象，比如党控制下的中央财经领导小组，正在远更直接地进行政策管理。不是真正的执行，而是给出更多指示，因为执行的任务最终还是要交给部委。过去，该小组的作用实际上是筹备一年两次的中央经济工作会议，并在五年计划起草委员会的管理中扮演重要角色。除此之外，就没什么太多的作用了。现在，在中央财经领导小组办公室主任刘鹤的领导下，他们大量增员。而且这一次，在第十三个五年计划的起草中，他们显然比起草十二五计划时更亲力亲为。</p>
+<p>我们还看到中共本身变得更加公开，举行新闻发布会，公布领导小组的活动，至少是概括总结。这么做既是为了公开分享信息，也要让体制内的每一个人了解掌握权力的是谁。</p>
+<p>最后，习近平似乎一上台就否决了邓小平在80年代提出的改革号召——将党政职能分开，以制衡党的权力。在随后的三十年里，这成为了党内的一场持久战，但习近平斩钉截铁地站到了有利于党的这一边。</p>
+<p>问：不过，关于为什么这样做的问题还是没有得到解答。如果想重振国家机器，可以通过为现有安排注入活力的方式来实现。但听起来，你好像看到了不一样的做法，也就是重新确立党的特殊地位。</p>
+<p>答：这基本上是习近平的思想核心，也是他这么做的主要动力，在很大程度上反映了习近平的自我看法。他将自己视作成就历史的人，甚至是共产党的救世主。</p>
+<p>他在共产党面临发展困境时掌权。我们看到他上台以来大力发展意识形态和宣传领域，以便宣告共产党政权的历史分为三个阶段，每一阶段为30年：毛泽东时代、邓小平及其他人的时代，然后是习近平时代。他认为自己身负重任，希望确保党走在正确的轨道上。</p>
+<p>还有一个更宏观的问题。他觉得这个体制及整个社会需要更强的纪律性，而他将共产党视作制定并执行纪律的主要力量。</p>
+<p>另一方面，他是一名传统的中国领导人。很多观察人士在胡锦涛时期逐渐确信，党内民主及他们做的其他一些事情说明，他们正在朝着更大程度的制度化方向发展。现在看来，这些其实是一个孱弱的领导人在竭尽所能地利用自己手中的牌，基本止于空谈。如今，回到了由能够行使权力的传统领导人执政的格局，他们就在很大程度上回归了老一套。</p>
+<p>这是习近平的另一项特点。我觉得他的理念并不一定包含很多共产主义思想，而是体现了不少列宁主义思想，特别是列宁式的党的组织结构，以及有关控制关键的权力杠杆的思考。</p>
+<p>看看到目前为止曝光的各种“打老虎”的反腐案件，就会发现共产党体制内有一些不响应中央控制的非常重要的权力中心——周永康掌管的安全部门、令计划领导的办公厅，当然还有徐才厚和郭伯雄掌管的军队。调查显示，有很多事情发生，党中央对关键的权力杠杆却没有控制力。</p>
+<p>问：这对中国的运行方式有什么影响？中国是世界第二大经济体，这个日益复杂的经济体和社会仍旧需要通过政府和国务院运行。既然有这么多权力集中在共产党手中，那是不是意味着必然会有运转不良的问题呢？还是说，它可以通过可能被西方人低估了的方式发挥作用？</p>
+<p>答：在一定程度上，两者皆是。可以从几个方面看到这种困惑和失衡。一个就是官僚机构对他们应该做的具体事情颇为困惑。在胡锦涛时期，你打开国务院的组织机构图就会基本明白权力的分配。你可以去找国务院部委或监管机构的负责人，便能很好地感觉到他们给出的答案在一定程度上反映了现实和政策的大方向。</p>
+<p>如今就远没有那么确定了。我自己肯定看到过这种情况，也从其他人那里听说了很多故事。例如有人去找负责监管特定事务的国务院工作人员，他们会告诉你一些事情，但几周之后就会暴露出，这是完全错误的。你发现他们并不是决策圈的人。</p>
+<p>不过，也有与之大相径庭的情况发生，就像最近股市的动荡呈现出的那样。这很可能是体制按照习近平及其同伴的意愿发挥作用的例子。</p>
+<p>我们看到的是国务院方面做出了混乱的过度反应，缺乏协调、极其草率。但接下来，大概是领导小组——财经工作领导小组，或者，更可能的是改革领导小组——介入其中，把相关人员凑到一起拿主意。因为后来，差不多就是同一天里，财政部、中国人民银行，乃至保险监督管理委员，纷纷站出来支持稳定股市的举措。很明显，体系中有人施加了巨大的影响，而这个人只能是习近平。</p>
+<p>这就形成了一个例子：现实似乎是，看不见的机器发挥了作用，产生了对他们而言比较恰当的影响。政府做出安抚之举后，市场的确稳定了下来，不过这条故事线还在继续展开。</p>
+<p>问：听起来，你觉得这个政治体制以及现在这位领导人的地位还是很稳固的。这与一些观察人士的观点正好相反，他们认为习近平的权力非常脆弱，共产党也是如此。</p>
+<p>答：我会将中共的脆弱性与习近平的脆弱性区分开来。我没有看到切实的证据可以证明，习近平的权力不是很大。我需要看到更多他行动受限的实例，才能说服自己相信这一点。</p>
+<p>如果他受制于常委会或中共元老中的某个人，告诉我这个人是谁。我不知道是谁。有分析认为更多的制度化会导致威权主义的四分五裂，形成可以限制最高领导人权力的、强大的既得利益集团。在我看来，习近平是这些分析者不愿面对的真相。</p>
+<p>我的确认为经济是他的阿喀琉斯之踵。如果习近平在这方面闯了大祸，无论是在国内还是国外的危机中，后果很快就会体现出来。但他非常清楚这一点，因此，你看到他会根据需要做出策略调整，最明显的就是处理中日关系的时候。对于习近平来说，问题在于当你宣称负责一切的时候，如果你想将责任推给其他人，那看起来就会非常虚伪。</p>
+<p>问：那么目前的情况就是一个更强权的领导人带领着一个更强权的政党。还有什么弱点吗？你刚刚提到了经济。</p>
+<p>答：另一个危险在于，意识形态的推动力度，对于这个明显朝着另一个方向发展的社会来说，有些太大了。有时候会引发强烈反对。</p>
+<p>还有就是，他们没有认识到美中关系环境的改变，（去年9月在华盛顿召开的）峰会并不成功，两国关系越来越紧张。与中国官员交谈时，我发现他们不了解美国政府人事管理办公室(Office of Personnel Management)遭到黑客攻击、中国（在南海）建岛等事件的影响，不知道这些事在美国民众中的反响。这让我感到震惊。</p>
+<p>我感觉，中国将经历一个混乱的时期，特别是从现在到2020年，也就是习近平提出的变革性议程应该取得“实质性进展”的时期。这个进程将会是走走停停的，内部可能会出现严重的争论和冲突。他们试图做的是些艰难的事情，如果进行改革，体制内一些有地位的人会失去权力、权威和金钱。</p>
+<p>这与邓小平推行改革时的情况不同。那时候刚刚经历文化大革命，没有什么可失去的了。但现在的情况有所不同。很多人会失去很多。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E9%87%8D%E5%A1%91%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E8%A7%84%E5%88%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E6%88%B4%E6%B2%B3%E4%BC%9A%E8%AE%AE%E5%B0%86%E5%BC%80%E9%94%A3%EF%BC%8C%E5%9B%9B%E7%9B%B4%E8%BE%96%E5%B8%82%E4%B9%A6%E8%AE%B0%E4%BC%A0%E6%8D%A2/" target="cdt-mirror">苹果日报｜北戴河会议将开锣，四直辖市书记传换马</a>
+</h2>
+<p><p>一年一度中共高层北戴河会议即将举行。官媒透露会议主题是讨论「十叁五规划」；但消息显示此次北戴河会议绝非「只议经济」，而是涉及重大人事安排，包括四大直辖市换马，以及个别「大老虎」如何处理等。有报道指，中共早前出台新规要求官员「能上能下」，习近平或借此在北戴河大做文章，换掉一批不合意高官，為年底的五中全会和后年的十九大铺路。</p>
+<p>内地网民透露，近日北戴河气氛开始紧张。网民「山人进城V」昨在微博称：「武警的调动，人员早已到位。今日北戴河大会。」知名学者杨恆均也在微博发帖称：「世界上能够决定最多人命运、也是最隐蔽和神秘的会议开始了，地点：北戴河。」依惯例，当局不会对外发佈任何有关北戴河会议的信息。</p>
+<p>官媒早前一直為北戴河会议煽风，表示会议重点是讨论「国民经济和社会发展第十叁个五年规划」（十叁五规划，2016至2020年规划）。不过，近期中共政坛诸多动向显示，此次北戴河会议不单要讨论经济问题，更涉及高层人事安排等重大问题。海外博闻社透露，江泽民日内将亲临北戴河，令北戴河政治风暴再起。</p>
+<p>习近平拟空降两心腹</p>
+<p>中共在十八大后掀起反腐潮，大批省部级高官落马，人事更迭如走马灯。但最受关注的应是四大直辖市主官的异动。近日传北京市委书记郭金龙要卸任，其位由习近平大内总管、中办主任栗战书接替；上海市委书记韩正要调京出任中央深改小组办公室主任，空缺将由已连续服侍叁届中共领导人、被誉中共「首席文胆」的中央政策研究主任王沪寧接任。</p>
+<p>天津市委书记黄兴国去年12月上位，仍属代理，依例直辖市书记须為中央政治局委员，此意味黄或升官入局，继续坐镇天津，或拍屁股「走人」。重庆市委书记孙政才是2012年薄熙来出事后，接替临时受命坐镇重庆的张德江接掌重庆的，迄今已近叁年，有理由「动一动」换位置坐。但此两市暂未闻有问鼎者。</p>
+<p>要拿下「无才少能」庸官</p>
+<p>另有微信传，重庆市长黄奇帆要调北京出掌中国证监会，现证监会主席肖刚则调重庆任副书记，而重庆副书记张国清则升市长。有评论认為，此传或反映内地股民对近期中国股市的不满，借此宣洩情绪。</p>
+<p>上月底，中共政治局审议通过一项重要规定，决定推进高官「能上能下」，重点是「能下」。博闻社报道指，习在本次北戴河会议上，或会提出一份「能上能下」的高官名单，藉此拿下那些佔着位置、没有大错但又「无才少能」的庸官，可能包括个别现任政治局委员。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E6%88%B4%E6%B2%B3%E4%BC%9A%E8%AE%AE%E5%B0%86%E5%BC%80%E9%94%A3%EF%BC%8C%E5%9B%9B%E7%9B%B4%E8%BE%96%E5%B8%82%E4%B9%A6%E8%AE%B0%E4%BC%A0%E6%8D%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%88%B4%E6%B2%B3%E4%BC%9A%E8%AE%AE/?category=18271" rel="tag">北戴河会议</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%E7%BB%99%E4%BA%88%E9%83%AD%E4%BC%AF%E9%9B%84%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%A4%84%E5%88%86/" target="cdt-mirror">新华网 | 中共中央决定给予郭伯雄开除党籍处分</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/03/%E9%83%AD%E4%BC%AF%E9%9B%84.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/03/%E9%83%AD%E4%BC%AF%E9%9B%84.jpg" alt="郭伯雄" width="450" height="338"></a></p>
+<p>新华社北京7月30日电 7月30日，中共中央政治局会议审议并通过中央军委纪律检查委员会《关于对郭伯雄组织调查情况和处理意见的报告》，决定给予郭伯雄开除党籍处分，对其涉嫌严重受贿犯罪问题及线索移送最高人民检察院授权军事检察机关依法处理。</p>
+<p>2015年4月9日，中共中央依照党的纪律条例，决定对郭伯雄进行组织调查。经查，郭伯雄利用职务便利，为他人谋取职务晋升等方面利益，直接或通过家人收受贿赂，严重违反党的纪律，涉嫌受贿犯罪，情节严重，影响恶劣。</p>
+<p>会议认为，严肃查处郭伯雄严重违纪涉嫌违法犯罪问题，充分体现了以习近平同志为总书记的党中央推进全面从严治党、依法治军从严治军的坚定政治决心，表明了党中央坚定不移惩治腐败的坚强意志。全党全军必须充分认清当前党风廉政建设和反腐败斗争形势依然严峻复杂，坚定不移把党风廉政建设和反腐败斗争引向深入。任何人不论权力大小、职务高低，只要触犯党纪国法，都要严肃查处，绝不姑息，绝不手软。</p>
+<p>会议强调，各级党委要加强对党员干部特别是高中级领导干部的教育、管理、监督，加强反腐倡廉法规制度建设，发挥法规纪律的约束作用，推动形成不敢腐、不能腐、不想腐的有效机制，不断取得党风廉政建设和反腐败斗争新成效。各级领导干部必须牢固树立马克思主义世界观、人生观、价值观，自觉加强党性修养，严守党的政治纪律和政治规矩，树立正确的权力观、地位观、利益观，带头践行“三严三实”要求，带头遵守廉洁自律各项规定，带头反对腐败，自觉经受住各种诱惑和考验，永葆党的先进性和纯洁性。</p>
+<p>会议强调，人民军队始终是党和人民信赖的队伍。改革开放以来，在党中央坚强领导下，国防和军队建设取得了显著成就，人民军队在维护国家主权、安全、发展利益，保卫人民安定生活等方面作出了重大贡献。各地区各部门要一如既往关心和支持军队建设改革，维护和促进军政军民团结，为实现强军目标提供坚强保障。军队各级要深入抓好思想政治建设和作风建设，认真贯彻落实全军政治工作会议精神，坚持思想领先，坚持练兵备战，坚持严字当头，坚持以身作则，继承发扬党和军队光荣传统和优良作风，永葆人民军队政治本色，确保高度稳定和集中统一，不断凝聚强军兴军的强大正能量。</p>
+<p>郭伯雄简历</p>
+<p>郭伯雄，男，汉族，1942年7月生，陕西礼泉人，1963年3月加入中国共产党，1958年8月参加工作，1961年8月入伍，解放军军事学院完成班毕业，大专学历。上将军衔。</p>
+<p>曾任中共中央政治局委员，中央军事委员会副主席，中华人民共和国中央军事委员会副主席。</p>
+<p>1958—1961 陕西兴平县四○八厂工人；</p>
+<p>1961—1964 陆军第十九军五十五师一六四团八连战士、副班长、班长；</p>
+<p>1964—1965 陆军第十九军五十五师一六四团八连排长；</p>
+<p>1965—1966 陆军第十九军五十五师一六四团政治处宣传股干事；</p>
+<p>1966—1970 陆军第十九军五十五师一六四团司令部作训股参谋；</p>
+<p>1970—1971 陆军第十九军五十五师一六四团司令部作训股股；</p>
+<p>1971—1981 陆军第十九军司令部作训处参谋、副处长、处长；</p>
+<p>1981—1982 陆军第十九军五十五师参谋长；</p>
+<p>1982—1983 兰州军区司令部作战部副部长（1981—1983 解放军军事学院学习）；</p>
+<p>1983—1985 陆军第十九军参谋长；</p>
+<p>1985—1990 兰州军区副参谋长；</p>
+<p>1990—1993 陆军第四十七集团军军长；</p>
+<p>1993—1997 北京军区副司令员；</p>
+<p>1997—1999 兰州军区司令员、军区党委副书记；</p>
+<p>1999—2002 中央军事委员会委员，中华人民共和国中央军事委员会委员，解放军常务副总参谋长、总参谋部党委副书记；</p>
+<p>2002—2003 中央政治局委员，中央军事委员会副主席，中华人民共和国中央军事委员会委员；</p>
+<p>2003—2013 中央政治局委员（至2012年11月），中央军事委员会副主席（至2012年11月），中华人民共和国中央军事委员会副主席（至2013年3月）。</p>
+<p>郭伯雄是中共第十五届、十六届、十七届中央委员，十六届、十七届中央政治局委员。十五届四中全会增补为中央军事委员会委员。第九届全国人大常委会第十二次会议任命为中华人民共和国中央军事委员会委员。十六届一中全会任中央军事委员会副主席。第十届全国人大第一次会议任命为中华人民共和国中央军事委员会副主席。十七届一中全会任中央军事委员会副主席。第十一届全国人大第一次会议任命为中华人民共和国中央军事委员会副主席。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%E7%BB%99%E4%BA%88%E9%83%AD%E4%BC%AF%E9%9B%84%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%A4%84%E5%88%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F/?category=18271" rel="tag">人民军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E9%A3%8E/?category=18271" rel="tag">作风</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%9B%BD%E6%B3%95/?category=18271" rel="tag">党纪国法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">国家主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BE%8B/?category=18271" rel="tag">纪律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE%EF%BC%9F/" target="cdt-mirror">【立此存照】我到底是不是侯聚森？</a>
 </h2>
 <p><p><strong>“我不是侯聚森”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%91%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE-copy.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%91%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE-copy.png" alt="我不是侯聚森 copy" width="525" height="636"></a><br><em>百度贴吧用户名一旦注册是无法更改的，所以贴吧里的@侧卫36只能是爱国青年侯聚森。</em></p>
@@ -595,209 +696,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BF%83%E8%B7%AF%E7%8B%AC%E8%88%9E-%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA%E5%9B%9E%E4%BA%86%E8%B6%9F%E5%9B%BD%E9%9C%87%E6%83%8A%E4%BA%86-%E5%9B%BD%E5%86%85%E7%94%9F%E6%B4%BB%E7%AB%9F%E7%84%B6/" target="cdt-mirror">心路独舞 | 海外华人回了趟国震惊了 国内生活竟然变成这样了</a>
-</h2>
-<p><p>对于久居美国的华裔移民来说，他们对中国社会的日常生活都不是非常了解。因此，一些华裔移民在回到中国后，都有“惊人”发现。近日，一位美国华裔移民就指出，以前总见有中国国内的网友抱怨中国物价是世界最高的，当时感觉是说中国物价高虽确是实情，但说世界最高不免有夸张的因素，但她回国的经历却让她开始相信这种说法了。</p>
-<p>每一个回国探亲或旅游的华人都有一个大快朵颐的吃货梦，我当然也不例外。但坐进哪怕是很一般的餐馆里每个人消费一、两百元人民币是最基本的了，我在大连、上海去过不同档次的饭馆，从街边早餐店到星级宾馆里的餐厅，曾见过茶盅大小的一碗特价打折粥都要8元钱（1人民币约合0.16美元，下同），一小笼屉生煎包子要18元，汤包要22元，更不说上百元的菜肴屡比比皆是！现在任职于美国大学、并为美国多家知名媒体特约专栏作家的心路独舞近日在网易教育刊文，称回了趟中国，才知道中国物价有多高。以下为文章原文。</p>
-<p>中国的普通人至少要工作五、六个小时才够自己出门吃一顿饭，让我对请我吃饭的人顿生出一种心怀愧疚的感觉，更忍不住开始怀念在美国不到10美元就能吃一顿很不错自助餐的生活，美国的普通人工作半个小时左右就够出门吃一段饭了。</p>
-<p>细想，以消费型为主的美国经济之所以能健康发展，跟定价机制的合理性密切相关，中国的高物价只是表面的现象，导致高物价的背后原因实际上最耐人思考，一顿饭的定价里有多少是各种税收和管理费用，算清楚后恐怕还是挺吓人的。</p>
-<p>在中国期间我也去过几次超市，在家乐福里看到了在美国的中国超市里也有的茶叶、牛肉干（粒）、麻糬、凤梨酥等，惊讶地发现这些东西的价格居然高于它们在美国的售价，有些是略高，有些甚至高出两三倍。在中国制造的小食品运到美国之后的售价居然低于原产地，不禁让人有点百思不得其解，挣美元的我们买同样的零食居然比挣人民币的同胞花更少的钱，我也真是醉了。</p>
-<p>相反，美国食品进入中国后的售价都翻到两倍或以上，我看到的加州红酒在家乐福售价108元，在美国不打折时是6美元左右，打折的时候我曾买过3.99美元一瓶的；番茄酱32元，在美国不打折时是2到3美元的样子，打折时我买过99美分一瓶的，如此等等。对美国和中国同属奢侈进口产品的法国人头马，进口到美国是125美元一瓶，而到中国是1558元，依旧是美国的两倍，从某个角度可以看出中国进口税之高。</p>
-<p>这些进口食品的价格都是美国的两倍或以上，但中国食品进入美国后却不升反降。</p>
-<p>在中国期间我还去过上海地摊买水果，看起来很一般的李子、桃子开口就要15元一斤，大连的樱桃也开价15元，让不会讨价还价的我十分无所适从，不得不赶紧叫上亲朋好友前来帮忙。这些时令水果的叫价显然都超过了美国同类产品的价格，味道也不是记忆中的样子，让我不免唏嘘。</p>
-<p>当然在国内逛商场的经历就更惨不忍睹了，在大连一家一条丝巾都可以标价1688元的商店里，我真有立马石化的感觉，在美国逛梅西百货、第五大道、Dillard’s或各种名品**我对价格都从没有这么惊讶过，后来有网友告诉我现在的商店基本上不是为普通百姓消费的，一般的人常去的是网购或在地摊“淘货”，我突然理解了为什么淘宝会充斥各种假货了。</p>
-<p>在美国出门喝杯咖啡或饮料是最正常不过得了，价格从一、两美元到四、五不等，店里一般还提供免费的Wi-Fi，所以一般的美国人很喜欢到咖啡店去消磨时间，带上手提电脑还能顺便处理一下工作，我的很多文章就是在星巴克等咖啡店里写的。</p>
-<p>这次我在大连一家装潢档次中等的饮料店里买了一份个人量的菊花茶花了56元，一个果盘88元，让我这种美国中产阶级收入水平的人都觉得实在有些贵，显然不是中国一般工薪阶层会去消费的地方。星巴克就更是了，我在上海的星巴克买一杯咖啡要25元，看来普通收入的中国人买杯星巴克咖啡要工作一个小时的样子，而写这篇文章时我正坐在一家美国的星巴克店里，买了同样大小的一杯咖啡只花了1.89美元，这是对会员的定价，不是会员的价格是2.10美元，是在中国价格的一半，对普通收入的美国人来说只要工作上五、六分钟就够买一杯星巴克咖啡的了。</p>
-<p>值得注意的是，星巴克在全球的定价机制是一样的，在中国高出这一倍的价格显然和各种明目的税和管理费有关。</p>
-<p>虽然是美国两倍的价格，但星巴克店的服务和环境与美国差不多，除了座位之间比较拥挤之外。</p>
-<p>不过前面说的这些吃喝穿衣还是最简单的，住房的昂贵也不用我说了，我想多说几句的是车的价格，在美国原装两万美元上下的Mini Cooper在中国售价要四十几万，和我SRX越野同配的车价比我的两倍还多出不少，就是国产化以后的别克、奥迪什么的也比在美国原装的同品卖得昂贵，还不说国产化之后质量有所折扣，我坐过一辆两年新的别克，车内材料的折旧速度等同美国同款车七、八年的样子，说明所用的材料质量要差很多，但愿这些材料都只用在装饰性的部位，而不是车的主架（Frame）。</p>
-<p>上海金茂大厦这观光电梯的确很酷，速度一流，但120元的价格也很宰人。</p>
-<p>常有网友微友给我留言抱怨中国物价的昂贵，这次回国一趟我才有了比较直接的认识，如果说以我在美国超过平均水平的收入到中国消费都会产生迟疑的话，普通收入的中国老百姓恐怕就更得精打细算才行了，我从心底理解了中国人蜂拥海外旅游购物的原因，这不能不说是中国向消费型经济转型的巨大障碍。</p>
-<p>这些年中国作为国家的确是富了，甚至可以说富到了流油，但老百姓生活水平的提高是否同比，我不免有些怀疑。</p>
-<p>本应是佛教净土的上海城隍庙里也层层收钱，但庙里玩手机的工作人员和虔诚信徒之间的鲜明对比让我很啼笑皆非。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BF%83%E8%B7%AF%E7%8B%AC%E8%88%9E-%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA%E5%9B%9E%E4%BA%86%E8%B6%9F%E5%9B%BD%E9%9C%87%E6%83%8A%E4%BA%86-%E5%9B%BD%E5%86%85%E7%94%9F%E6%B4%BB%E7%AB%9F%E7%84%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0/?category=18271" rel="tag">中国制造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">海外华人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%B4%BB%E6%B0%B4%E5%B9%B3/?category=18271" rel="tag">生活水平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AD%E7%89%A9/?category=18271" rel="tag">购物</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E7%BD%91%E5%8F%8B%E6%8A%8A%E5%8F%B7%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%B8%B8%E4%BE%A0%E6%B1%BD%E8%BD%A6/" target="cdt-mirror">全叔读报 | 网友把号称“中国特斯拉”的游侠汽车扒得干干净净</a>
-</h2>
-<p><p>昨天下午，北京开了一场发布会，游侠发布了其首款电动汽车产品“游侠X”，号称要做“中国特斯拉”。</p>
-<p>游侠X内置车载定制的 Android 5.1 系统 KITT OS。车的“前脸”即车辆的进气格栅处有一块屏幕，内饰包括 10.2 英寸的液晶仪表盘和 17.3 英寸 1080P 分辨率的中控显示屏。车辆配备松下 18650 三元锂电池。</p>
-<p>车辆搭载一台异步电机，采用后驱模式。峰值功率为 270 kw、最大扭矩 440 nm、最高转速可达 16000 r/min。官方称“游侠X”续航里程能达 460 km，百公里加速 5.6 秒。</p>
-<p>官方计划 2016 年开放首批预定，2017 年量产上市。目前只有蓝色一个款式。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A01.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A01.jpg" alt="游侠1" width="600" height="450"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A02.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A02.jpg" alt="游侠2" width="600" height="452"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A03.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A03.jpg" alt="游侠3" width="600" height="451"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A04.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A04.jpg" alt="游侠4" width="600" height="447"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A05.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A05.jpg" alt="游侠5" width="600" height="451"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A06.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%B8%B8%E4%BE%A06.jpg" alt="游侠6" width="600" height="449"></a></p>
-<p>看照片，还真是TM像特斯拉啊……</p>
-<p>火星人的朋友圈昨天就炸了！纷纷吐槽伟大的C2C （Copy to China ），早上一搜，知乎上也有各路大神出来，把这款“心比天高”“牛B吹大发了”的游侠汽车扒了个干干净净。快来一起看看吧！</p>
-<p><strong>@ Brandon Lu ：</strong></p>
-<p>这车离量产上路还有很长的路要走，大概十几个亿那么远吧。</p>
-<p><strong>@ maomaobear ：</strong></p>
-<p>我揭一下底吧</p>
-<p>黄修源同学就在知乎</p>
-<p>恩，他传媒大学毕业以后不找工作，和几个同学利用这两年风投钱好拿的机会来创业。</p>
-<p>前后，创业了5、6个项目吧，没有一个坚持过1年的，基本是风投的钱花完了，上36kr看看什么项目新，能拉到风投，就搞个商业计划书再来一轮。</p>
-<p>给自己和同学开很高的工资，把风投的钱烧掉，其实比找工作好。</p>
-<p>这个游侠电动车大约是1、2年前，黄同学看到特斯拉的灵感，然后把这个创业n次的团队转行搞电动车。</p>
-<p>一开始是给一辆现代酷派换上电机，跑了几百米，然后拿着这段视频开始融资。</p>
-<p>最近这批投资好像就是在知乎拿到的，然后这个钱真买了一辆特斯拉来拆，包括今天这个发布会。</p>
-<p>嗯，发布会上的车，大家仔细看一下照片，和他3D设计那个车是完全不同的，除了前脸尾灯有点类似，为什么呢？</p>
-<p>因为发布会上那辆车，就是他们买的一辆特斯拉Model S，然后改了前脸和尾灯、把车标换成自己的……，内饰我估计都没动。</p>
-<p>补充：游侠电动车的同学给我看了一组他们装配的图片，内饰确实是动了，我的原文估计错误。</p>
-<p>游侠电动车的同学称车也是自己的，但是没有提供车身钣金件来源信息，也没有提供底盘，电池，电机，电控的图片，给我的前图有两个白盒子。我以为是电控，但是答复说是氛围灯。</p>
-<p>就对方提供的信息，我还不能改变之前的判断。底盘，车身，电机，电池组的来源问题。</p>
-<p>目前无争议的是这个样车用了特斯拉的一些零件，问题是用了哪些，用了多少，改了多少。这个有待更多信息，从目前看到的图片判断，可以确认内饰是改动的。增加了一些氛围灯也可以确认。</p>
-<p>近期给他们投资的好像是一个做网游的，投的钱也不太多。买辆特斯拉改改，做几个PPT，开个发布会后是够了。</p>
-<p>别说造一辆原型车，造个像样的模型都未必造的出来，所以直接摆上去一台特斯拉。</p>
-<p>恩，黄同学传媒大学毕业，传播还是搞得不错，以前黄同学搞的五个项目，每一个项目，我一搜索，都能在雷锋网、36K，钛媒体这些地方找到软文。说明媒体关系和宣传还是不错的。</p>
-<p>这次，大家搜搜游侠电动车，不少地方都有，网游老板投资还是立竿见影的。</p>
-<p>恩，模型做做，文字编编，说我用什么电池，什么电控，其实花不了几个钱。网游老板的投资够。</p>
-<p>但是国家对电动车造车是有资质的，冲压一个线，就不是网游老板能解决的。而且真要造出一辆原型车，经过正常的测试，就要烧不少钱。不用说量产的问题。</p>
-<p>黄同学带着几个一起毕业的同学，看到36kr的特斯拉之前，未必摸过电动车，要学习恐怕要很长时间。即使能招聘到汽车厂的人，没钱也是不行的。</p>
-<p>不知道这轮传播，能不能拉到下一轮投资。</p>
-<p>从理论角度，这个项目完全就是个拉投资，维持团队生存的项目。</p>
-<p>从黄同学的角度，维持住，能给团队开出工资就是胜利，以前5个项目都是这么过来的。</p>
-<p>但是，这个东西真能造出来车距离还是很远，下一次能买辆特斯拉把外观内饰都改出来，上路跑就不容易。</p>
-<p>说到把零件攒成车，投资充足的情况下，2017年能不能干出来都是问题。况且投资还未必到。量产没谱。</p>
-<p>这个项目还是个资本运作，指望车的筒子们不用报太大期望。</p>
-<p><strong>@匿名用户：</strong></p>
-<p>我分析今天发布会上的游侠电动车直接是将TESLA的底盘拆过来用了。（由于行业原因，就匿名没有办法打赌了）</p>
-<p>以现在游侠团队的汽车行业人员的配比，根本不可能在几个月内做出底盘和对应的适配。</p>
-<p>如果这个都没做，就发布概念车，只能说明不懂行业规矩（行业内都是基本适配要做完才发布概念车或者原型车，没有哪个车厂敢用别家的底盘套一个自己的壳就敢去发布概念车的），或者是说这个团队还是唐吉可德。</p>
-<p>另外，很佩服这个团队在无任何样车测试/路试情况下，竟然给出了0-100KM/H的数据；续航的数据，这数据是需要跑路试得到的，不是拿嘴估计出来的。并且这个数据明显是按照TESLA的续航给的，问题是你知道TESLA是优化过多少次才达到这个续航的么？你的风阻有TESLA优化的那么好么？TESLA底盘都为了风阻做了多次动态调优。</p>
-<p>更奇怪的是，你续航数据都有，那你车的风阻数据该有吧？好像还没有，这逻辑好像又不通了….</p>
-<p>还有，用ANDROID 5.1做汽车操作系统？有没有搞错….. 做车载娱乐系统可以用ANDROID，汽车控制系统那边也用ANDROID？用ANDROID来做实时操作系统用？</p>
-<p>另外，牛都开始吹到自动驾驶上去了。PPT上讲辅助驾驶用MOBILEYE的技术，这个我理解，业界很多家都在同MOBILEYE合作，可是自动驾驶可不是嘴皮之功，涉及到人工视觉/机器智能/路面识别….一大票算法，你们有这方面人么？还开源你们的自动驾驶算法…. 哎….让GOOGLE自动驾驶那边的人脸往哪搁</p>
-<p>还有，你们不能将PAPAGO的代码给放到你们的开源代码里面，那是papago的东西，不是你家的，程序员还是要有一些节操才好。 youxiamotors · GitHub 你这上面放的代码有没有你们自己写的呀，都是papago放给华强北行车记录仪厂家的东西，哪是什么无人驾驶/自动驾驶呀。</p>
-<p>瀑布汗…….</p>
-<p>不说了，说多了你们内裤都没有了</p>
-<p>只能解释这是一辆PPT车。</p>
-<p>总之，很佩服这个团队的胆量和勇（CHUI NIU）气（BI），但总觉得他们也太外行了吧…</p>
-<p>佩服年轻人的勇气，但是也不希望互联网造车行业太浮躁。做一套UI就说自己做手机了，做一个外形就说自己做车了。这是对那些认真做车的人不尊重。</p>
-<p><strong>@ Chow Leonardo ：</strong></p>
-<p>作为一个行业内人，看到最近这些时不时蹦出来的各种乱七八糟行业出来造车的新闻真的狠抓狂，乃们知道要造一个车究竟要花多少钱吗！</p>
-<p>先不讲别的，投产一款新车，从研发，试制，试验，认证，质量，生产，物流，零部件采购，销售，售后，这每一个环节需要多少钱？豪车品牌，比如BBA，光一款车型的换代研发（还不是新开发），数十亿欧元真不算多，国内自主品牌可能压缩成本少一点，投产一款新车型几个亿也是必须的，这还是在已经有生产产地，研发团队，质量体系，供应链物流的情况下。尼玛你随便找几个人，找个车型改一改外饰，就敢自称能做车了？在中国造车需要的条件太多了。</p>
-<p>首先是国家政策</p>
-<p>为什么汽车生产门槛高，首先国家政策上就进行了严格的限制，汽车行业的国家政策主要是《汽车产业发展政策》，其中，对于投资管理是这样说的（第十章，第四十七条）：</p>
-<p>新建汽车生产企业的投资项目，项目投资总额不得低于20亿元人民币，其中自有资金不得低于8亿元人民币,要建立产品研究开发机构，且投资不得低于5亿元人民币。新建乘用车、重型载货车生产企业投资项目应包括为整车配套的发动机生产。</p>
-<p>新建车用发动机生产企业的投资项目，项目投资总额不得低于15亿元人民币，其中自有资金不得低于5亿元人民币,要建立研究开发机构，产品水平要满足不断提高的国家技术规范的强制性要求的要求。</p>
-<p>看看这里面的要求，如果是新建车企，至少需要的投资。</p>
-<p>如果你是新能源车，那就更麻烦了，需要通过所谓的工信部的44号公告《新能源汽车生产企业 及产品准入管理规则》，里面是这么说的： 应当是《公告》内汽车整车生产企业或改装类商用车生产企业；新建汽车企业或现有汽车企业跨产品类别生产其他类别新能源汽车整车产品的，应当按照国家有关投资管理规定先行办理项目的核准或备案手续。然后才能按照正常的新能源准入审查进行，这个新能源审查至少要考察那几方面的东西，17条规则，分别对应生产，研发，生产一致性，采购，销售。只有至少在这五个方面合格，才能获得准入，取得生产新能源车的资质！</p>
-<p>技术来源</p>
-<p>如果要做新车，总得知道怎么做吧，研发团队得建立起来吧，底盘，传动，内外饰，公告认证，如果是新能源车还要有电池，电控等等。然后得有技术来源吧，国内说自己完全自主搞一款车出来那是骗政府钱的</p>
-<p>零部件开发</p>
-<p>就算有了上述一切，造车也不是这么容易，当前的车企自制件已经很少了，需要跟零部件供应商合作，合作是一回事，零部件开发不要钱？你的车量少，人家模都不愿给你开，再说了，现在零部件开发费用好多都采取相互分担的模式了，这也是钱啊</p>
-<p>试验试制</p>
-<p>汽车最最重要的是可靠性，这也是造车区别于其它普通制造业的一个重要标志，一辆车在正式投入市场之前，需要经过无数次试验，如果加上零部件开发过程中的试验，说是成千上万次也毫不为过，其次，不是随随便便改点外饰就号称是概念车了，你那上面除了概念还有别的东西吗？</p>
-<p>先说这么多，只想说，汽车不是随随便便想造就造的，最近几年在新能源汽车，互联网汽车概念的带动下，很多别的行业，特别是互联网界开始进军汽车行业，其实这也是行业的趋势，也算是汽车行业发展的一个方向，但由于汽车生产的门槛，这些新兴”车企”的模式一般还是在借用原型车，大打概念牌，生产基本找代工，销售基本靠传销的模式，真正需要走的路还是太长，比如说像这种来骗投资人钱，骗眼球的所谓概念车，真的有进行下去的必要吗？</p>
-<p><strong>@ 熊游心：</strong></p>
-<p>我现在开始后悔以前没好好学习做ppt了，多好的赚(pian)钱机会啊！</p>
-<p>更丧心病狂的吐槽来啦……</p>
-<p><strong>@匿名用户：</strong></p>
-<p>大家好，我很开心今天有机会回答这个问题。</p>
-<p>因为这将会成为我的一场网络发布会。</p>
-<p>在此，我隆重向各位介绍我的创业项目——飞侠飞机。</p>
-<p>你以为它是无人机？错了，我要造一台真正的飞机。</p>
-<p>先给大家看看我的第一版概念设计图：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A3%9E%E4%BE%A0%E9%A3%9E%E6%9C%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E9%A3%9E%E4%BE%A0%E9%A3%9E%E6%9C%BA.jpg" alt="飞侠飞机" width="600" height="463"></a></p>
-<p>很酷对不对？</p>
-<p>在这个石油短缺的时代，我们需要创新的飞机，所以这台飞机搭载了 6 个纯电动涡轮引擎，依靠飞机底部的特斯拉同款锂电池组供电，续航时间足以满足你从黑龙江飞到海南岛。</p>
-<p>作为一台互联网飞机，用户完全不需要传统飞机复杂的操作，只需要一个 App，就可以好像“全民打飞机”一样开动这台颠覆性的飞机。</p>
-<p>我还将会开发一个 Fly OS，用户可以在这个系统中定制飞机的外观。</p>
-<p>最后，因为我们希望制造属于年轻人的第一台飞机，所以它的定价将会被控制在 100 万以内，同样的价格，你没法在大城市买一套房，但是你可以买一台飞侠飞机与家人见识这个美好的世界。</p>
-<p>在此，我向广大投资人发出融资请求：我希望大家能够给我投 300 万元人民币，我将在 1 年后完成这台飞机 1:18 模型的制作，两年内，我绝对能够……</p>
-<p>把 PPT 给大家做出来，希望大家能够相信我，谢谢。</p>
-<p><strong>@ XIAO XI：</strong></p>
-<p>还不如让老罗来做呢（额……这个）</p>
-<p>既然说得这么狠，说游侠是“PPT汽车”，那么就让我们来见识这原汁原味的PPT：</p>
-<p>1.当我们都老了甚至死了的时候，石油会枯竭【电才是未来，游侠电动有前景！】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe08DvDAdDN2sgvdVBeMqtW30XeFngkQRFW7IjXZPjcHKpGY0Z0WQ6shg/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>2.我们是一家有情怀的公司</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0Vn4tTnJWGRtia1RNTSTETWqfkhNq4Qx9M6WOFRXIjTlG4wZvlGYHsrA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>3.在中国这神奇的土地上，游侠有能力造好一辆汽车【其他中国公司都是屎！】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0aDVfmH7hpXXIOz8ibhmugShJkbrO1XPAVh21s4yV71hyXKJ0p9gKsaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>4.且听我们分析【开启催牛逼模式】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0HOyXp9IT7Wg4aQLWfhGuVSYEdba2HuaVRNyK5yibUkiaxUKcdxtXLD7A/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>5.看着这轮廓，还不错吧？</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0Pl4rDULibpZkC79fBh1Kj611AR8oD93ibNEM2hGF8hkBPo1ptWPk0ODA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>6.我们游侠公司是一家中国公司，我们不忘本，我从中国书法中提取柔中带刚的元素应用到产品设计上【毕竟民族的，才是世界的！】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe007SicbwlHyL1ibw0ibUwT8sw02utEzkTFQDicD4JASvZDrJG9V7qKzKibbA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>7.我们追随大师的脚步【我们是一家有有情怀的小公司】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0HHAXaJAy858zcoShtHklzaqnTw2uS3uFecYFshhZJoeHlwwbrQVPEA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>8.我们的车最漂亮【就靠这个吃饭了！】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0x4OGVcFlLeh91rMEUvl8AiaicRQFh7hq1C31O1Jds9ibkhbUplDdbov4Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>9.把镜头切换到观众席，看他们惊喜的脸孔！【从侧面证明，外观是漂亮的】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0dY8FO4vPQjcVO5U8Od4fEUkib69H0ZSMtAG1dy0neABNcX6QT1o4sfw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>10.我们的灯，玩得比奥迪好！【你们可以天天换不同颜色的灯喔~屌爆了】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0Uc1zPHCxbL9eteOIV0v8I8mY2B2myuq32swS8TZ5roFpLKOvuPz6QA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe089lrbRmvEeMPibdpfgTKPW8L1eSAH6mJyNX0runPaphiaoiaqSS1r45TA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>11.我们的音响碉堡天，可以模仿超级跑车的轰鸣声，也能够模仿拖拉机的咳嗽声哦。我们车的前脸，还可以跟川剧变脸一样变脸哦。【镀铬不错吧？高大上的感觉！还有啊，我们这辆车已经跟政府申请了，可以不用挂车牌】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0LicxmUp6nzoVPEkt3PZwOmv4lBoba3UsJK6SDJQvuQxYp45ba215G9w/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0XIkWn0ed54phU3cIlvqvF8HgngIibsKUeTzJkyibibgxnHexNHTsAosFQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>12.我们的内饰是高科技的，所以以下照片都是高光的哦。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe00QAeUK3PTaYzQFsVWvx25OQj9nAGAhDqibZTia5BvYIFBt8QSEjDWLmw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>13.我们是一家互联网公司，所以软件肯定不会差的啦~</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0Q3qFa1KaogrR4k6J316rlQ1UaexjCQcADBK6MrL3wg9XWEJFhr3UAA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>14.手机有的功能，我们也必须有。【毕竟，我们是一家互联网公司】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0KXYX2jGucgy5WK9iava6m3Z3iaX1sP01uoXWYYwJphajIv0ZcQW7mRuA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>14.别人能够做到的，我们也必须做到。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0GDxVyCpVNs3eU2g0BjJehe7jdQqmer6eGUkmibiaCia316Nctm7zhq6lA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>15.我们的参数也很好看</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0fdeplwiadJ2UouEEhl3Wc59psVhqDl9Shoj8H6LVicibicLbB7WqIo57Jw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0IToMxMibxStG5ic9ySlThWuzSMZmkZmCdiclchyB70cXjhicwO3J8c2r7g/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>16.我们改变了世界</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0ibRYh7VWFiceMDcEzd2fX5o6Az0ic5MXh9XpvsDrxTQOF6IbhcXalIV8Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>17.参数参数！</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0VNrWg8xOrSJzrBTXPibaAiawfuSIL7Vuic2rQdlriarviaeraCXgOljkTnA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>18.购买游侠电动车，就是为了省钱来的！</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0DKByAvpHD5xckGpgDick8eWTOD6WUibGIXo2ZVFiby70ReZ52GtVicCQzg/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>19.那么，这么牛逼的车我们什么时候才能买到？答：还要2年</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0JgCia2bQOkudBrWETjT3ZCVibHah3nQgT75CSJV0sTEX2LK1ewkhYQkg/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>20.情怀情怀！吐了……</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0avVzryJuib2OVRngIPRz4VibMvlAabKwiaZib8YzmMicuHIECHpxWsaBKibA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0z6GwbRu3N4OfEaBLQRp9VAbWftibtyAJRT9PBYDBf3b6PVD79B0vArw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>21.可以跟车合照了哦~【但是不能摸更不能开哦~因为车漆未干，电池也还未装上去】</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0gacdrjXvujUoREKqTTSn8iaXWeJHK8EPic99d3XDAsrn6iadBunu9iaVIA/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>22.等我们把视频P下后，大家可以在线看哦</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0lMORiaf90od2kOIbtg1U3hkBpdBHU6zfc7JS3rqEaRMJe6rfeiaszgFw/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>23.完</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajOMRetbInZ9icy9Ttejepoe0ZRgXavjickKZmiaH8NDDD0HQ213Yu3BiaOIw6wonYkibPTNPHe8X48n78A/640?wx_fmt=jpeg&tp=webp&wxfrom=5" alt=""></p>
-<p>恩，至少从汽车的LOGO来看，确实挺像特斯拉的！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E7%BD%91%E5%8F%8B%E6%8A%8A%E5%8F%B7%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%B8%B8%E4%BE%A0%E6%B1%BD%E8%BD%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ppt/?category=18271" rel="tag">ppt</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">互联网公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E6%96%B0/?category=18271" rel="tag">创新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%AF%A8/?category=18271" rel="tag">山寨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E6%80%80/?category=18271" rel="tag">情怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E8%83%BD%E6%BA%90/?category=18271" rel="tag">新能源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6/?category=18271" rel="tag">新能源汽车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%BD%E8%BD%A6/?category=18271" rel="tag">汽车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%BD%E8%BD%A6%E5%B7%A5%E4%B8%9A/?category=18271" rel="tag">汽车工业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E4%BE%A0/?category=18271" rel="tag">游侠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%96%AF%E6%8B%89/?category=18271" rel="tag">特斯拉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/?category=18271" rel="tag">电动汽车</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A5%EF%BD%9C%E8%82%A1%E7%81%BE%E9%87%8D%E6%BC%94%E5%8C%97%E4%BA%AC%E5%A4%B1%E7%AE%97-%E7%BE%8E%E5%9B%BD%E9%9A%94%E5%B2%B8%E7%BA%B5%E7%81%AB/" target="cdt-mirror">今日早报｜股灾重演北京失算 美国隔岸纵火</a>
-</h2>
-<p><p>昨日（7月27日）中国股市又经历了另一个黑色星期一，股市大跌8.5%，创8年以来最大单日百分比跌幅。余忧未尽的中国股民再次迎来了股灾，这次股灾爆发的原因到底是什么？阴谋论还能解释得通吗？</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19883039099_6814154cac.jpg" alt="19883039099_6814154cac" width="510" height="316"></div>
-<p>据FactSet的数据，上证综指暴跌8.5%，可能创出2007年2月份以来最大单日百分比跌幅。这也是该指数连续第二交易日下跌。香港恒生指数下跌3%。澳大利亚S&P ASX 200指数上涨0.4%。日经指数下跌1%。尤其是上证指数大跌8.5%，可能创出2007年2月份以来最大单日百分比跌幅。</p>
-<p>股灾再次来袭，而且威力不亚于上次刚刚过去的股灾，上次的股灾所到之处可谓是市场一片哀鸿。有人戏称中国中产阶级一夜回到解放前，中国政府也使出多般手段力图救市。在执政者仓促应战之后，到底谁是次轮做空的导演和主力，人们仍然争论不休。阴谋论出台也是自然而然，更何况，中国并不缺乏制造盛产阴谋论的土壤。“外国亡我之心不死”的情结已经根深于每个国民心中。</p>
-<p>尤其是经过救市以后，股市有了些许好转，更加印证了股市藏有做空势力的想法。尤其是连续几天的交易量持续上升，大盘陆续翻红的情况，再次让中国政府和民众天真的认为股灾已经过去了，中国牛市又将再次来临。</p>
-<p>但好景不长，周一的暴跌无异于当头棒喝。因为之前六连阳走势，A股貌似刚刚走出巨震阴影，暴跌更显得匪夷所思。</p>
-<p>当然，在众多精英学者一致认为阴谋论时，仍有不少人持有清醒的头脑，认为这次股市是由于经济基本面，上市企业的业绩表现不佳，加上中国监管层的不作为、中国股市虽然借鉴了国外的形式但市场规则和监管并没有很好的运用等等主客观因素造成的，所以当务之急是改革中国资本市场，尤其是监管层的能力与规则。<br>
-这次的股灾总体上来说，是由于上次股灾的重创造成的，在经历了股灾之后，股民的信心依然非常脆弱。在这个投资者不停摇摆的市场里，有“弹药”的投资者在积极参与反弹之余，却又做好了随时撤退的准备。</p>
-<p>据媒体报道，广发证券策略分析师陈杰、郑恺、曹柳龙等近日通过走访公募、私募、保险、银行理财部、一些银行理财部的个人客户等，发现机构和散户都变成了“右侧投资者”，观点摇摆不定。“轻仓的投资者还在观望，而重仓的人又随时准备撤离。”</p>
-<p>对此，财经学者李大霄认为，这次的暴跌原因有两个，首先是目前A股整个市场的估值偏高，有回调需要；其次，自从资本市场设立了双向交易以来，市场上任何风吹草动都会引起市场的波动。而这两个原因中，第一个原因又是最主要的。李大霄同时表示，目前A股去杠杆虽有一定成效，场外配资等数据较沪指位于5178点时有所回落，但A股仍处于去杠杆过程中。</p>
-<p>更有分析认为，这次的暴跌与6月份的暴跌根本不能相提并论。表面上看，这次下跌似乎比6月股灾更惨，但实质上，昨日的暴跌不是流动性危机，而是对近期强势反弹、严重超买的修正。在7月9日至7月24日的强势反弹中，共有731只个股涨幅达到或超过50%，166只个股已经回到调整前水平，18股更实现翻番。沪深两市市值也回升了近9万亿元。获利丰厚的抄底盘出逃以及等待已久的解套盘抛压，加剧了市场的下跌。经过了6月份的股灾，杠杆已基本被去掉，再次发生集体性大规模杀跌的概率不大。</p>
-<p>更重要的是，美国加息预期似乎越来越强烈，加息鼓点也越来越急促，对中国股市无疑是隔岸纵火。近期，美联储主席耶伦重申，预计今年将进行近十年来的首次加息。市场人士预期，美联储加息的窗口可能选择在9月。尤其是，美联储网站误发加息信息更是把猜测推向了高潮。据媒体报道，美联储不经意间于6月29日在美联储官网上发布了美联储职员层面为6月16-17日FOMC政策决议筹备的经济预期。美联储通常都会在五年后才公布这些预测，但却在6月29日误将其公布到了网上。从去年10月美联储停止量宽开始，资金流出新兴市场的迹象就开始出现，当时不少新兴市场的货币及股市均出现动荡。此次美国加息预期增强，将使动荡加剧。</p>
-<p>但实际上，股市的再次暴跌实际上也给当局者以及众多股民一个教训，任何脱离经济基本面的繁华终究是一个美好的泡影，而泡影终有一天会破裂的。所以，不要再倚仗某些特别某些主流市场自由派精英以“阴谋论”封堵舆论，在2008年股灾交了近十万亿的学费后，6月份的股灾又交了二十万亿的巨额学费，这次的股灾教训学费想必也不会低，但如果还认识不到问题的根本，教训与学费还会接踵而来。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A5%EF%BD%9C%E8%82%A1%E7%81%BE%E9%87%8D%E6%BC%94%E5%8C%97%E4%BA%AC%E5%A4%B1%E7%AE%97-%E7%BE%8E%E5%9B%BD%E9%9A%94%E5%B2%B8%E7%BA%B5%E7%81%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>

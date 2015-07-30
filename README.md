@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3/" target="cdt-mirror">【真理部】有关“郜艳敏：从被拐女成最美乡村女教师”</a>
+</h2>
+<p><p>有关《郜艳敏：从被拐女成最美乡村教师》这一旧闻，各网站要注意舆论把控，对借机攻击政府和社会制度的恶意言论予以坚决删除。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">最美乡村女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐乡村女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E9%87%8D%E5%A1%91%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E8%A7%84%E5%88%99/" target="cdt-mirror">纽约时报｜习近平强势重塑中国政治规则</a>
 </h2>
 <p><p>习近平对中国政治规则的改写究竟多彻底？自从2012年11月成为中共领导人、2013年3月成为国家主席以来，他一直在国内外推动积极有力的议程。但是他的权势有多大、变革力度有多大？专家们对这个问题存在不同意见。有些人认为，尽管开展了一些自夸式的宣传，他在很大程度上仍然像前任胡锦涛一样，受制于同样的局限、约束和利益集团。</p>
@@ -655,47 +668,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E7%9C%9F%E6%AD%A3%E8%AE%A9%E5%B8%82%E5%9C%BA%E5%8F%91%E6%8C%A5%E4%BD%9C%E7%94%A8/" target="cdt-mirror">金融时报 | 真正让市场发挥作用</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/000053133_piclink-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/000053133_piclink-1.jpg" alt="中国股市暴跌" width="600" height="338"></a></p>
-<p>一年又一年强劲而稳定的增长，给中国统治者套上了无所不能的光环。但是，维持这样一个光环是有代价的。在中国政府采取干预行动以遏止股市滑坡的三周后，股价再次下挫，上证综指(Shanghai Composite)出现八年来最大单日跌幅。现在北京面临一个不值得羡慕的选择：加码救市，或是摘掉无所不能的面具。</p>
-<p>这是当局本来根本不需要面对的一个两难。中国统治者有足够多的事情需要操心，无需对股市表现承担责任。中国经济正处于转型过程中，目的是摆脱对债务和房地产投资的过度依赖。服务业和家庭支出需要背负拉动需求的更大负担。</p>
-<p>要说飙涨的股价在这个经济计划中能够发挥一定作用，是说得通的。国有企业需要增加股本和减少债务，估值较高的股市能够帮助它们募资。有幸拥有股票的家家户户财富增加，鼓励他们消费。牛市甚至可以宣传市场的“决定性作用”，那是国家主席习近平在宣布早就应该推行的改革——终结国家规定的价格时所用的措辞。</p>
-<p>真相更接近反面。股市非但没有推动消费热潮，反而引诱家庭省下钱来投入股市，追逐国家担保的回报。</p>
-<p>更糟的是，股市行为打破了这样的说法，即中国统治者愿意放手让市场力量发挥作用。他们对股市上涨的明显支持，以及他们付出的阻止股指跌破某个门槛的努力，似乎表明市场在更大程度上是由国家的冲动（而非任何客观经济因素）决定的。政府——通过中国证券业协会(Securities Association of China)——似乎甚至发出了信号：目标是上证综指回升至4500点。</p>
-<p>在摆出了充当市场后盾的姿态后，北京方面现在如果走开不管是会有代价的。据一些人估测，中国逾3.5万亿元人民币（合5640亿美元）的债务与炒股关联。如果周一的暴跌重演几次，那么家庭资产负债表所受的损害可能给经济造成沉重代价。</p>
-<p>但是，最大的伤害将是心理上的。在长期貌似有能力引导经济走向自己想要的方向之后，中国领导层将被迫承认自己的威力是有清晰限度的。这可能在中国经济已经在放缓之际重创经济信心。</p>
-<p>然而，它必须承认。谁也没办法预先说清楚，当局必须砸下多少资金才能稳住股价。一旦政府停止买入，完全以国家支持为依托的投资者信心就会消失。与此同时，市场暴露于任性干预的风险越久，向市场化金融转型的计划就会遭遇越是严重的倒退。对交易的限制已经惹恼了国际投资者，并破坏了让人民币成为国际储备货币的努力。</p>
-<p>向市场力量交出控制权不仅让共产党难以忍受，也与中国政治生活至今盛行的家长作风格格不入。但是，借用一位著名投资者的话说，市场“需要吓人的几周”才会变得更加安全。如果股价下滑影响消费者信心，中国政府即使不买股票也有其他手段可以提振需求。如果中国统治者是明智的，投资者应该准备好迎接令人不安的几周。</p>
-<p>—</p>
-<p>分析：中国政府还会救市吗？</p>
-<p>中国股市昨日出现史上第二糟糕的单日跌幅之后，各方都把目光投向北京，中国政府面临一个严峻的两难问题，其公信力也面临严重挑战。</p>
-<p>过去一个月已经推出的前所未有的干预措施包括：禁止卖空和首次公开发行(IPO)，强迫国有投资者买入股票，禁止大股东减持股份，以及由中国央行提供直接信贷支持。</p>
-<p>在连续三周时间里，中国基准股指从7月初触及的低位反弹。上述多数救市措施是在7月上旬出炉的，此前中国股市在不到一个月里下滑逾30%。</p>
-<p>昨日大部分时间里股市表现平平，但尾盘出现大举抛售，使上证综指(Shanghai Composite Index)的当日跌幅从下午2时的3%左右扩大至一小时后收盘时的8.5%。</p>
-<p>截至昨晚，当局没有表示下一步会做什么。英国《金融时报》联系的央行和中国证券监督管理委员会(CSRC)官员拒绝回答任何问题。</p>
-<p>“如果（政府）什么都不做，那么之前的所有努力都将付诸东流，但如果他们继续进行救市努力，那么这个洞会变得越来越大，”上海高级金融学院(Shanghai Advanced Institute of Finance)副院长朱宁表示。“我们希望监管者尊重市场和市场规则。”</p>
-<p>对政府来说，一个很大的问题是，之前对市场规则的不尊重以及随后的反弹，已经让投资者期待每次指数下挫都会促使当局出台力度越来越大的干预行动。“如今大家都只是看着政策制定者的行动，主要是看有没有更多政府救市资金进入市场，”上海的股市评论员叶檀表示。</p>
-<p>在中国，股票每日只可上涨或下跌10%，触及这个单日涨跌上限就会自动暂停交易。</p>
-<p>昨日，近1800只股票（占沪深股市主板全部股票的60%以上）跌停，似乎表明如果没有单日涨跌限制，大盘的暴跌会厉害得多。</p>
-<p>中国当局面对的另一个问题是，昨日的暴跌似乎是在没有明显触发因素的情况下发生的，这一点令人担忧。</p>
-<p>中国分析师们提出各种可能性，从猪仔涨价，到市场预期美联储(Federal Reserve)不久将加息。</p>
-<p>在中国的居民消费价格指数(CPI)中，猪肉等主食占有较大比重。如果通胀上扬，那将限制中国央行继续放松货币政策、以支撑股价和整体经济的能力。</p>
-<p>昨日股市下跌将给执政的共产党带来更大压力，要求其进一步降低利率和银行的存款准备金率，尤其是因为大部分指标显示国内生产总值(GDP)增长继续减速。</p>
-<p>中国经济去年增长7.4%，这是24年来最慢的增速。今年北京方面将竭尽全力达到“7%左右”的全年增长目标，此前两个季度的同比增长都恰好达到7%。</p>
-<p>越来越多的知名官员和前任官员呼吁采取进一步行动刺激经济增长，近来中国经济增长受到房地产泡沫破裂和企业盈利下降的拖累。</p>
-<p>政府研究机构——国家信息中心(State Information Centre)经济预测部主任祝宝良对路透社(Reuters)表示，股市暴跌正对实体经济产生深刻影响，当局不得不进一步降息和放松货币政策。</p>
-<p>昨日发布的官方数据显示，今年上半年中国工业企业利润同比下降0.7%，其中6月份的利润同比下降是三个月来头一回。除了拼命撑起股市的努力外，很多分析师抱怨称，高级官员对中国经济过于乐观的预测削弱了政府的公信力。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E7%9C%9F%E6%AD%A3%E8%AE%A9%E5%B8%82%E5%9C%BA%E5%8F%91%E6%8C%A5%E4%BD%9C%E7%94%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BF%A1%E5%8A%9B/?category=18271" rel="tag">公信力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%92%E8%82%A1/?category=18271" rel="tag">炒股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -707,7 +679,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -717,5 +689,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/></td>    </tr>
 </table>

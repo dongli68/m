@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23txna5f63swy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d2lun1j4fyz3yg.cloudfront.net">https://d2lun1j4fyz3yg.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3/" target="cdt-mirror">【真理部】有关“郜艳敏：从被拐女成最美乡村女教师”</a>
@@ -35,7 +35,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">最美乡村女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐乡村女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E9%87%8D%E5%A1%91%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E8%A7%84%E5%88%99/" target="cdt-mirror">纽约时报｜习近平强势重塑中国政治规则</a>
 </h2>
@@ -679,7 +679,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23txna5f63swy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -689,5 +689,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://d2lun1j4fyz3yg.cloudfront.net">https://d2lun1j4fyz3yg.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d2lun1j4fyz3yg.cloudfront.net">https://d2lun1j4fyz3yg.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/></td>    </tr>
 </table>

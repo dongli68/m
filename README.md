@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E4%BB%AC%E6%8A%8A%E7%88%B1%E5%9B%BD%E8%BF%99%E4%B8%AA%E8%AF%8D%E7%BB%99%E5%BC%84%E5%8F%98%E5%91%B3%E4%BA%86/" target="cdt-mirror">【网络民议】你们把爱国这个词给弄变味了</a>
+</h2>
+<p><p>近日，清华大学教授孙立平就「山东文登爱国青年被打」事件后，就爱国的含义、判定标准质问共青团中央，喉舌《人民日报》甘肃分社社长林治波因此指摘孙立平等公知「身在体制、心在推墙」，并与林展开简短交锋。孙立平此番微博言论引致“五毛网友”围攻，但也有不少网友对此表示赞同。（苹果日报）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%B1%E5%9B%BD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%B1%E5%9B%BD.jpg" alt="爱国" width="559" height="212"></a></p>
+<blockquote><p>@清华孙立平：要不要爱自己的国家？当然要。爱那片河山，爱自己的同胞，改进这个社会，让这个社会变好。但在和平时期鼓动狂热的爱国主义情绪，则往往是另有目的：为自己的主张寻找道德优势并抹黑对方；用非理性的情绪掩盖或模糊基本的是非；在民众中制造对立和矛盾等等。</p>
+<p>@林治波：孙教授这段话貌似有理，实则不然。战争年代，侵略者用枪炮屠刀教育了民众，即便没有爱国教育，民众也会为生存而战斗。恰恰在和平时期，人们感受不到国家的价值，更无生存的危机，故而最需要爱国主义引领。现在汉奸买办思潮泛滥，爱国主义不是多了而是少了，不是强了而是弱了，哪里有什么“狂热“？</p>
+<p>@清华孙立平：老林啊，如果按照你的逻辑，我能论证出你是中国最大的卖国贼之一。你信不信？理由：你说今天这么多人诋毁爱国者。为什么呢？其实是因为你们滥用爱国这个词引起人们对这个词的反感。你把祖国这么好的一个东西给糟蹋了，还不是卖国吗？当然这是你的逻辑。实事求是地说你也并不是个卖国贼。</p>
+<p>@林治波：不明白今天为何有那么多人热衷于诋毁爱国者，诬之为“爱国贼”和“一门生意”。不排除极少数人打着爱国旗号谋取私利，但绝不能以此否定广大爱国者。在汉奸买办思潮和极端个人主义盛行的今天，所幸还有那么一批人真诚地关心着国家安危，抨击卖国言行，这种无私无畏提倡尚来不及，何忍诽谤之？有良心吗？</p>
+<p>@清华孙立平：很好理解，是因为你们把爱国这个词给弄变味了。</p>
+<p>@林治波：公知对722事件的狂热喝彩，对文登警方的肉麻赞美，对侯聚森的竭力抹黑，对梁某某亲日反共辱华、械持藏枪、跨省寻衅、结伙斗殴种种劣迹的竭力淡化，全都印证了一点：警方愚蠢之至，情况十分严重。</p>
+<p>@清华孙立平：别说虚的，最简单地说说你是怎么比别人更爱国的吧！</p>
+<p>@林治波：对爱国者的言行进行诋毁诽谤，把爱国者的形象妖魔化，让中国人都讨厌爱国者，视其为贼为祸；在这种气氛下，那些内心爱国的人也不敢表达，更不敢行动，这样他们的目的就达到了！</p>
+<p>@林治波：孙教授，我没见你抨击过一次汉奸买办，倒是向那些淳朴善良的爱国者开刀，我不信你不知道汉奸买办卖国的情况，以及他们给国家人民造成的巨大损害！你过去伪装中间派，现在卸妆了，也不能如此过分！</p>
+<p>@清华孙立平：看了所谓爱国青年被打的一些信息。就事情本身说，由法律来处理。但我这里要说的是，不要继续在青少年中，尤其是未成年的少年儿童中进行政治鼓动了，尤其是会制造敌意与暴力的鼓动。他们的许多帖子还是高中时的。有关部门能做善事尽量做点善事如希望工程，退其次做点无意义的事情，底线是别作恶。</p></blockquote>
+<p><strong>反驳</strong></p>
+<p>胡杨麟：真正的公知，在体制内享受着特权，拿着丰厚的报酬，把子女送出国去居住，骂着政府，随时准备好开溜，而公知粉大多是平民子弟，他们的父母，无权无势，被资本家盘剥，艰难的生存下供养着孩子，希望他们能有出息有本事养活自己，而这些公知粉一心为公知舔菊洗地，对好心来规劝的大肆辱骂：你这五毛！</p>
+<p>胡杨麟 ：要不要爱自己的国家？当然要。爱那片河山，爱自己的同胞，改进这个社会，让这个社会变好。但在和平时期攻击丑化社会体制，则往往是另有目的：为自己的主张寻找道德优势并抹黑先烈；用非理性的情绪掩盖或模糊基本的是非，颠倒黑白，把爱国者骂为爱国贼；在民众中制造对立和矛盾等等。人渣@清华孙立平</p>
+<p>杰飞天：相应的，我相信在和平时期还有人鼓动某种“恨国情绪”。</p>
+<p>默mom：你这教授，天天吹牛。爱什么爱。你真爱这国家你找些闲人去帮农民种地去。那么有那么多时间发微博~！你提倡闲人有效利用起来。国家的经济和收入增加了，农民们都感觉到大爱了，那他们会更感激中国国家，更爱中国国家。你做的到吗？你若做不到别吹牛太多。</p>
+<p>阿水哥哥2013：最近一、二十年间，一些公知大V对所有正义的声音进行毫无底线的攻击围剿，对在中国人民的解放事业中牺牲的英雄人物毫无底线的谩骂亵渎，这一切既有西方反华反共势力的支助怂恿和中国政府的软弱所致，但是更多的是这伙人的狂妄和仇恨心理。我们有理由相信这伙人早就具备了第五纵队的潜质。</p>
+<p>诸子百家之一 ：【“爱国者”与“汉奸”辩析：不应乱用】由于战时与和平时期的环境不同，自然含义有区别。战时：投降侵略者为汉奸；直接或间接为抵抗侵略出力、流血是爱国者。平时：有出卖国家利益具体行为的是汉奸；而全体劳动者、拥护社会主义和拥护祖国统一的，都是爱国者。</p>
+<p>媣稥1号：借文登722事件，公知们却不断强调爱国不能骂人，并摸黑侯聚森为约架，@新京报@清华孙立平 等傻逼媒体和叫兽进而要求爱国者必须守法。我就不赞成守这样的法，谁敢堵我校门，侵我村院，进我小区滋事，一律打了再说。至于法律，等我收拾完恶棍，爱咋的咋的吧。</p>
+<p>尹鸿 ：如果爱国都不敢表达，那一定不是国出了问题就是爱不是真爱。毕竟爱国是天然的认同需要。</p>
+<p>道刀：亏得孙公知这些老装逼犯还好意思说爱自己的同胞，納吧那些畜生宣扬种族灭绝全体中国人，可没有丝毫公知可以免死的意思@清华孙立平 要不要爱自己的国家？当然要。爱那片河山，爱自己的同胞，改进这个社会，让这个社会变好。但在和平时期鼓动狂热的爱国主义情绪，则往往是另有目的。</p>
+<p>天下为公111l：敢问博主在和平时期虚无历史，歌颂卖国媚外自贬又是一种什么类型的“理性”捏？</p>
+<p><strong>支持</strong></p>
+<p>邹建锋：“爱国”是门大生意——嘴上都是主义，满脑子想的都是生意。至于他们“爱”完之后的国家会怎样，他们根本不会考虑。倒是无数被他们扣上个汉奸或者美分帽子的人，咬着牙在帮着这艘苦难的大船拉纤撑杆。</p>
+<p>benjamin31221：一个堂堂大学教授被迫去和一群精神分裂症患者辩论，可想而知，这个社会病得不轻呀！</p>
+<p>胡发云：越来越多的人终于分清楚了，什么是党，什么是国，什么是政府。</p>
+<p>风生雷起：爱国就是用满嘴生殖器爱的吗？</p>
+<p>费尔哈：孙教授说得太好了！“ 我不相信一个对自己的同胞，哪怕是有不同意见的同胞，充满仇恨、面露凶光、诅咒谩骂甚至必欲置之死地而后快的人会是一个什么爱国者。</p>
+<p>伊凉宇zw：把民众分为三六九等，撕裂他们的情感，制造矛盾冲突，让民众内斗，是他们一直干得非常拿手的技能，只有这样才有利于执政嘛。</p>
+<p>枯树老藤昏鸦01：生于斯长于斯，谁不爱这个国家？谁不希望这个国家好？批评执政党、批评政府希望改革，希望依法治国就是汉奸、美狗？溜须拍马、为五毛折腰，帮助执政者掩盖错误就是爱国？？国家的概念都不知道，基本的是非观念都没，有还标榜爱国？</p>
+<p>小黄蛉：几个三观不正是非善恶界限模糊的小男孩，被戴上〃爱国者＂的高帽子？微博对骂中，满唃粗俗不堪下流低级的污言秽语。其人品及综合素质与流氓无异。官媒为其站台背书，恐玷污爱国者的清名。</p>
+<p>谁吾与从001：这个鸡巴国，我是不爱的。</p>
+<p>公民康明诚：有些”爱国者”实为碍国者，其背后是多年来宣传和教育的畸形。</p>
+<p>大道至简ABC：有些左派人物没有改变文革思维模式，动辄给人扣上敌对势力的大帽子。一群没有独立思维能力的年轻人跟在这些人后面聒噪。个别团派官微也推波助澜。</p>
+<p>假行僧老巩：林治波造谣大饥荒没饿死人，需要这样的爱国者吗？</p>
+<p>老旌：他们对不同观点的人横加指责—–从吹棒文革到吹棒重庆模式，无论形势如何变化，他们吹棒的那些人马全倒台了，还是认为自己是对的。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E4%BB%AC%E6%8A%8A%E7%88%B1%E5%9B%BD%E8%BF%99%E4%B8%AA%E8%AF%8D%E7%BB%99%E5%BC%84%E5%8F%98%E5%91%B3%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">文登爱国青年事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E6%B2%BB%E6%B3%A2/?category=18271" rel="tag">林治波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8A%A8%E5%90%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E6%8A%8A%E8%82%A1%E5%B8%82%E5%8A%9E%E6%88%90%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%A4%A7%E8%B5%8C%E5%9C%BA/" target="cdt-mirror">动向｜南桥：把股市办成一本正经的国家大赌场</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/07/8E39F80F-47F8-4984-A27C-711762929416_w640_r1_s.jpg" alt="在武汉的证券交易市场，股民们看着电脑屏幕上的股市行情。" width="549" height="309"><p>在武汉的证券交易市场，股民们看着电脑屏幕上的股市行情。</p></div>
@@ -728,28 +775,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?catego
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%A7%B0%E6%94%AF%E6%8C%81%E5%A2%83%E5%A4%96ngo%E5%8F%91%E5%B1%95/" target="cdt-mirror">德国之声 | 中国称支持境外NGO发展</a>
-</h2>
-<p><p><strong>中国公安部昨日引述公安部长郭声琨表示，《境外非政府组织管理法》将会为境外NGO提供更有力的法律保障。不过这种说法难以消除外界对这项法案草案的担忧，路透社指出，随着法律的出台，境外NGO的活动会受到严格限制。</strong></p>
-<p>（德国之声中文网）公安部昨日（7月26日）在网站上发表的声明中引述公安部部长郭声琨表示：”中国政府高度赞赏境外非政府组织的积极作用，欢迎和支持境外非政府组织来华开展友好交流与合作。” 上周六（7月25日），郭声琨与中国外交部、民政部以及多个境外非政府组织在上海召开境外非政府组织座谈会时作出了这番表述。</p>
-<p>不过他在会上也表示，希望外国的NGO组织”关注和关心中国的发展，深入了解中国国情，自觉遵守中国法律”。</p>
-<p>路透社指出，中国政府常以中国的特定”国情”来反驳来自西方国家的批评。在一些问题上，中国已使用这种说法来作出解释，比如网络安全检查制度。</p>
-<p>郭声琨表示，目前中国立法机关正在制定《境外非政府组织管理法》，这将会为境外非政府组织在华开展合法活动提供更加有力的法律保障。</p>
-<p>这项新法规已引起外界的广泛关注。有观察人士认为，管理法将严格限制国外NGO、商业团体和大学在华的活动。</p>
-<p>路透社指出，这个法案对境外NGO 的定义十分宽泛，可以适用于一名计划去中国大学演讲的美国教授、外国贸易组织或在中国表演的海外舞蹈团。</p>
-<p>今年5月《境外非政府组织管理法》草案公开征求意见时曾受到批评，草案规定，境外NGO将受到”商业联合体”、公安和其他部门的监管。草案还提到，中国公安部和省公安厅将管理境外非政府组织在华的注册。此外，国外资金必须来自”合法”渠道，非政府组织不得在中国筹款。</p>
-<p>西方政府和外国NGO正在向中国施压修改《境外非政府组织管理法》草案。</p>
-<p>路透社还指出，正值习近平政府镇压异议之际，中国当局推出此项法律。中国政府拘捕监禁活动人士，并指责包括境外NGO在内的”境外势力”参与去年香港的民主抗议。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%A7%B0%E6%94%AF%E6%8C%81%E5%A2%83%E5%A4%96ngo%E5%8F%91%E5%B1%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%83%85/?category=18271" rel="tag">中国国情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中国政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8/?category=18271" rel="tag">公安部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%A4%96ngo/?category=18271" rel="tag">国外ngo</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9/?category=18271" rel="tag">西方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -771,5 +796,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d222mead95cxb5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d2lun1j4fyz3yg.cloudfront.net">https://d2lun1j4fyz3yg.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%85%8E%E9%A5%BC%E6%91%8A%E4%B8%BB%E5%85%A5%E9%80%89%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%91%98/" target="cdt-mirror">【异闻观止】澎湃新闻 | 煎饼摊主入选南京信息员队伍</a>
@@ -55,7 +55,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%91%98/?category=18271" rel="tag">信息员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89/?category=18271" rel="tag">公安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%9C%BA%E8%88%9E/?category=18271" rel="tag">广场舞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2/?category=18271" rel="tag">敲诈勒索</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%AE%B0%E8%80%85/?category=18271" rel="tag">新闻记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%A0%BC%E5%8C%96%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">网格化维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E6%9F%A5/?category=18271" rel="tag">调查</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E5%8A%9B%E9%87%8F%E9%AA%97%E5%BE%97%E6%88%91%E4%BB%AC%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2/" target="cdt-mirror">王枪枪 | 总有一种力量骗得我们泪流满面</a>
 </h2>
@@ -163,7 +163,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">公共知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">台湾政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%9D%A0%E5%8D%B0%E9%92%9E%E7%A5%A8%E7%BB%B4%E7%A8%B3%E8%82%A1%E5%B8%82%E9%80%A0%E6%88%90/" target="cdt-mirror">美国之音｜张欣：中国政府靠印钞票维稳股市造成通胀风险</a>
 </h2>
@@ -645,7 +645,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d120g5ieg5mk6k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2x0g6o87e27qg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -655,5 +655,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d2lun1j4fyz3yg.cloudfront.net">https://d2lun1j4fyz3yg.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/></td>    </tr>
 </table>

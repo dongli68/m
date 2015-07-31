@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s23u1mjtj1nc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dflxky9yfyd83.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%85%8E%E9%A5%BC%E6%91%8A%E4%B8%BB%E5%85%A5%E9%80%89%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%91%98/" target="cdt-mirror">【异闻观止】澎湃新闻 | 煎饼摊主入选南京信息员队伍</a>
+</h2>
+<p><p>80份包裹要寄往全国不同的地方，内装不明纸质材料，且不让快递员拆开查验。就在准备打包寄出的那一刻，快递员陈师傅突然发现，寄件人所写的寄件地址竟然是不存在的。</p>
+<p>他拆开一看，包裹中竟装有不雅照片和疑为敲诈的信件，于是果断报了警。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/005utZb2jw1eul3epx9hij30fa0a976j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/005utZb2jw1eul3epx9hij30fa0a976j.jpg" alt="煎饼摊主入选南京信息员队伍" width="500" height="335"></a></p>
+<p><strong>快递员发现80份快递内装大量不雅照</strong></p>
+<p>澎湃新闻记者从南京秦淮警方获悉，7月28日，南京洪武路派出所接到一位快递师傅报警，称他在80份要寄出的快件中发现不雅照，且寄件地址虚假，怀疑有人用此违法犯罪。</p>
+<p>陈师傅告诉赶到现场的民警称，寄件人在现场并不让陈师傅拆开检验，并称里面都是些纸张信件涉及机密。陈师傅大致摸了下，的确是纸质物品，便将快件收了下来。</p>
+<p>回到单位后，陈师傅发现对方写的寄件地址为“南京市人民路275号”，而这个地址并不存在，是个“幽灵”地址。“我就拆开来检验，结果发现竟然是一对男女裸身相拥的黑白照片。”陈师傅表示。</p>
+<p>经查验，这些快递发件地址各不相同，遍及全国各地。快件内装有一张男女黑白床上裸照和一封信。信上称，自己是某大型新闻网记者，对方有不良生活作风问题，要求对方在收到信件3天后，汇款25万元。信的末尾还附上了银行账号。</p>
+<p>民警发现，由于所有不雅照中男女主人公的姿势都一样，只是面部不同。同时，每张照片人物的身体和头部有明显的拼接痕迹。根据判断，这应该是有人将照片合成后寄给收件人，从而进行敲诈勒索。</p>
+<p>目前，秦淮警方已经介入调查。</p>
+<p>针对网络上时常有不雅照流传的现象，秦淮警方表示，这些照片一部分是合成的，还有的则是被偷拍，而这两种都可能成为不法分子犯罪的工具。警方提醒称，要杜绝“艳照”流出，市民最好做到不主动拍摄裸照；有了不雅照更不能传播。</p>
+<p><strong>环卫工、广场舞大妈都是“秦淮群众”</strong></p>
+<p>快递员发现线索后报案，这在南京市秦淮区并不奇怪。</p>
+<p>因为除了快递大哥，南京秦淮警方的“耳目”（信息员）还包括“扫地僧”、“广场舞者”，甚至“煎饼侠”。</p>
+<p>澎湃新闻记者从南京秦淮警方获悉，近年来他们成立了“秦淮百姓”信息员队伍。通过筛选，他们挑出不同职业、不同年龄、不同区域的人员，总数达到近8000人。</p>
+<p>这些信息员隐匿于民间，擅长察言观色，对社情民意了如指掌。在该局人口大队大队长丁小江看来，“秦淮百姓”就是一支“隐形部队”。</p>
+<p>比如今年2月11日，中华门派出所接到一位老人报警，称有人在路上扯去了她的耳环。此后大半个月内，嫌疑人又疯狂作案6起，平均4天就有一位老太太受害。由于现场线索极少，警方一时难以突破。</p>
+<p>就在案件陷入僵局时，经常在朝天宫广场跳舞的一位大妈称，最近在跳舞的过程中，她发现一个人连续好几天戴着的耳环都不一样。得到这个线索后，警方立即开展工作，最终发现了与女子同住一起的男子就是犯罪嫌疑人。</p>
+<p>还有“扫地僧”。2014年8月，一名小区保洁人员向警方反映，在小区内发现了几只身上有铅弹孔的死麻雀，怀疑有人非法持有枪支。于是，警方根据该线索迅速发现了嫌疑人杨某及其落脚点。报案当晚，民警便成功地在杨某住处查获左轮手枪一支、枪管三根以及一批制、改枪械工具。</p>
+<p>不要小看了路边摊煎饼的，他们也可能成为破案关键人物。今年5月，有市民报警称家里遭劫。由于小区比较老旧，监控条件又很差，警方一时无法找到嫌疑人的信息。</p>
+<p>就在民警为难的时候，在小区门口做煎饼的老张称，他发现一名男子比较可疑，因为每天在店铺吃早饭的老李经常穿一件女儿从美国带回来的衣服，最近来吃早饭的时候，说这件衣服不见了。而老张发现，就在案发当天，有一个陌生男子居然穿着与老李一样的衣服来买早饭。</p>
+<p>于是，警方很快就明确了嫌疑人的身份，并在案发后的第三天将嫌疑人捉拿归案。</p>
+<p>秦淮区公安分局相关负责人告诉澎湃新闻记者，他们会对有用线索进行奖励，范围从50元到1000元不等。优秀的信息员将得到相应的称号，而常年没有贡献的信息员会被淘汰掉，从而逐渐形成优胜劣汰的队伍管理格局。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%85%8E%E9%A5%BC%E6%91%8A%E4%B8%BB%E5%85%A5%E9%80%89%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%91%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%91%98/?category=18271" rel="tag">信息员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89/?category=18271" rel="tag">公安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%9C%BA%E8%88%9E/?category=18271" rel="tag">广场舞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2/?category=18271" rel="tag">敲诈勒索</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%AE%B0%E8%80%85/?category=18271" rel="tag">新闻记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%A0%BC%E5%8C%96%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">网格化维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E6%9F%A5/?category=18271" rel="tag">调查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E5%8A%9B%E9%87%8F%E9%AA%97%E5%BE%97%E6%88%91%E4%BB%AC%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2/" target="cdt-mirror">王枪枪 | 总有一种力量骗得我们泪流满面</a>
 </h2>
 <p><p>1999年，我读到了南方周末的新年献词《总有一种力量让我们泪流满面》，读完后我很感动，毅然放弃了喜爱多年的《知音》，只是对比了一下定价后我才明白，总有一种力量让我们泪流满面地掏钱，感动是一件很费钱的事。从高中起我就开始为“感动”付费，我被“母亲河植树公益”感动得花了几个月的伙食费，被路边刚进城没找到亲戚的夫妻俩感动得花了五十块钱，被火车站丢了钱包的女学生感动得花了一百块钱，被为理想骑行远方的驴友感动得花了二十块钱，被替弟弟挣学费的足浴妹感动得花了五百块钱，后来足浴妹改行做洗头妹了，我又被替父亲挣医药费的她感动得花了两百块钱。后来，我终于学会了控制情绪，让感动不要来得那么快，至少要十二秒以后才行，后来我就买房了。</p>
@@ -148,7 +181,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B9%9B%E8%8B%A5%E7%A7%8B%E6%B0%B4%EF%BC%9A%E6%9C%89%E5%A4%9A%E5%B0%91%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">湛若秋水：有多少被拐女子还在继续“感动中国”</a>
 </h2>
@@ -211,7 +244,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E8%80%81%E8%99%8E/?category=18271" rel="tag">老老虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A6%E6%B6%9B/?category=18271" rel="tag">胡锦涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3/" target="cdt-mirror">【真理部】有关“郜艳敏：从被拐女成最美乡村女教师”</a>
 </h2>
@@ -601,52 +634,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <p>remonwangxt：<img src="https://s.w.org/images/core/emoji/72x72/1f62d.png" alt="</p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BA%94%E9%81%93%E5%8F%A3%E5%A5%A5%E8%90%A8%E7%8E%9B-%E9%83%9C%E8%89%B3%E6%95%8F%E7%9A%84%E6%95%85%E4%BA%8B%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E8%89%B2%E8%8D%92%E8%AF%9E/" target="cdt-mirror">五道口奥萨玛 | 郜艳敏的故事背后的黑色荒诞</a>
-</h2>
-<p><p>作者: 前《凤凰卫视》节目策划@五道口奥萨玛</p>
-<p>2006年年初，当时我刚进入鸟台，给做节目策划，发现了一则新闻选题，在河北曲阳县下岸村有一位被拐来的姑娘，从一个两千七百元买来的媳妇，最后没有选择出逃的道路，而是留在那个让她伤心欲绝的地方，成为了一个名扬乡里的乡村女教师。</p>
-<p>看到这个选题后，本能地觉得是一个好选题，符合栏目寻找宏大历史社会背景下个体命运抉择的定位。所谓宏大社会背景，指存在于事发地并非罕见的妇女拐卖问题，以及被拐妇女被迫成为生育工具，完成“任务”后，多数人选择逃走，村里留下没有母亲、父亲在外打工的留守儿童；另外，还有乡村代课教师的处境问题。而对于当事人来说，这是一个关于“当尊严被碾碎，生命又将如何重生”的故事，是自我救赎的艰难历程。</p>
-<p>最早发现这个选题的是当地的一个农民摄影家，他也是当地一份报纸的通讯员。最早的报道也是以图片报道的形式出现。通过这位当地朋友（也是后来引发争议的后续报道的记者之一）的帮助，我们联系到了这位郜老师。当时，除了首发的本地媒体外，还没有其他媒体跟进，因此我们的采访初期联系很顺利。</p>
-<p>几周以后，我们摄制组一行三人就驱车从北京来到了河北曲阳县下岸村。当时，郜老师正在村里的教学上班，我们决定先拍摄一些教学的纪实镜头再作采访。</p>
-<p>学校其实就是在村东头不远处的两间平房，村里所有的小孩不分年纪都在一个教室中就坐，分成不同年级作在不同组里。由于下岸村地处偏僻，最近的一所小学也路途遥远，加之贫穷，据说之前来过的代课教师都呆不下去，很快离开。整个学校也只有郜老师一个人。</p>
-<p>她的代课教师工资是一千多人民币，一年。</p>
-<p>课间，郜老师带着孩子们围成圈做游戏。正当摄像师全身心投入拍摄的时候，郜老师脸色突然阴沉下来。我们这才发现，离学校不远的村洞口的树下，不知道什么时候开始蹲着几个村外的人。这几个人蹲着、一边抽烟、一边远远地注视着我们。</p>
-<p>没多久以后，应该是得到了指令的确认后，就一拥而上，阻拦我们拍摄。并且动手抢我们的摄像机。本来在户外跟郜老师做游戏的孩子们吓得哭成一片。郜老师赶紧把他们带回教室。自己出来帮我们说话。</p>
-<p>我们出离的愤怒，不仅在于正常的采访被暴力中止，还在于这些暴行就发生在一班孩子们的眼皮底下，全然不顾他们的号啕大哭。</p>
-<p>撕扯中，摄制组的人或多或少都被划伤了手臂，但是究竟寡不敌众，机器等设备被抢走。一群人把我们护送出村。在村口，一个领头模样的当地干部对我说的话，荒诞至极：</p>
-<p>“记者老弟，人跟人的生活就像平行线，我们在这里交汇也算是有缘份，不要互相为难。”</p>
-<p>我当时觉得在一番撕扯后说出如此人生哲理，真是啼笑皆非。只想要回机器，只好问，机器怎么办？</p>
-<p>“平行线哥”说：明天中午12点，到车站附近。到时候会有人联系你们。</p>
-<p>走之前，郜老师偷偷塞给我一张纸条，上面写着“东西在我这，放心。”后来我才知道，郜老师以为别在她身上的“小蜜蜂”无线麦是磁带，让孩子藏到屋后。</p>
-<p>这张皱巴巴的纸条在之后一直留在我的钱包里。</p>
-<p>第二天中午，我们按照约定时间开车到车站附近。因为对方没有说定具体地点，我们只能开车围着车站兜圈。正在怀疑对方是不是在耍我们，在一个红灯路口，我们停下车。这时候突然有一个人不知从哪儿冒出来，拍打我们副驾驶的车窗，我们正奇怪遥下车窗的时候，这个陌生人把我们昨天被抢的机器递了进来。挥挥手，意思是你们可以走了。</p>
-<p>我们一车三个人瞠目结舌。红灯停车不过几十秒。我们的一举一动早已被对方了如指掌。</p>
-<p>第一次采访在如此曲折中结束。我们推测对方如此大动干戈的原因在于他们料想到采访肯定多少会曝露出当地妇女拐卖问题严重的事实。</p>
-<p>这里要补充一点背景信息：1、被拐卖的妇女往往来自更加贫穷的地方，人贩子认为这样他们被拐后才不会想跑；2、拐卖多伴随人贩子的强暴等犯罪；3、郜老师当时为了尽快逃脱人贩子的施暴，自己甚至用藏在鞋底的钱补足了买家与人贩子要价之间的差价。</p>
-<p>我们陷入了一个困境。我们料想到可能会发生的事情：1、地方上肯定会对下岸村严加盯防；2、郜老师的处境会变得更加糟糕。当时能帮到她的唯一方法，就是待机再次采访，让节目顺利播出。在这个事件中，我们能想到的对郜老师最好的保护是公众的目光。</p>
-<p>若干月以后，我们再次来到下岸村。在我们采访失败后，村口每天都有人来“上班”。于是我们选择“日落而作，日出而息”的方法。前一天等天黑以后，悄悄进村。在郜老师家住了一夜。就着火炕，跟郜老师聊了很多这期间的曲折。第二天一早，郜老师为我们炒了一大盆蛋炒饭，放了四个鸡蛋。我们赶在大亮之前完成了纪实拍摄。在村口“上班”的人到岗之前就已经离开。</p>
-<p>几周后，郜老师顺利地来到北京，我们完成在全部的采访工作。节目顺利播出。海内外反响强烈，那是一个还没有社交媒体的时代。我们的电话被打爆。要求捐款的海内外观众络绎不绝。我们也拿到并公布了郜老师她的帐号，她也几番推托。</p>
-<p>后来，下岸村发生了几件事：</p>
-<p>1、当地有关部门据说多次找郜老师，要帮她成立一个基金，妥善保管和处理捐款问题。</p>
-<p>2、郜老师被评为感动人物。</p>
-<p>3、郜老师带着孩子们又来了一次北京，看了天安门升旗仪式。</p>
-<p>4、郜老师故事改编成了电影，叫《走出大山的女人》。</p>
-<p>郜生过两个孩子，两次自杀，并没有死，她被赶来的村民救了起来。一年后买家同意由郜艳敏的丈夫赔她回一趟老家。突然见到失踪的女儿，父母和郜艳敏抱头痛哭。郜艳敏希望能够留下，但在同样贫穷封闭的家乡，摆在她面前的命运，也许比作为一个被拐女终老他乡更加灰暗。因此无奈的父母能劝她的只有两个字认命。</p>
-<p>当时后续一幕幕，让我们觉得此事就是时代黑色幽默最好的注脚。个体命运的无力只能通过荒诞的自我建设完成救赎，但对于个体来说，除此以外又能做些什么呢？而对宏大社会问题的探讨却会被暴力阻挠。要知道，在郜艳敏之前，是无数被拐妇女的个人与家庭悲剧。</p>
-<p>未曾想到的是，事隔八年以后，郜老师再次走进公众视野。</p>
-<p>（完）</p>
-<p>*由于事隔久远，部分时间细节可能有所出入。</p>
-<p>*本文属于个人手记，不代表任何组织结构立场。)</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BA%94%E9%81%93%E5%8F%A3%E5%A5%A5%E8%90%A8%E7%8E%9B-%E9%83%9C%E8%89%B3%E6%95%8F%E7%9A%84%E6%95%85%E4%BA%8B%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E8%89%B2%E8%8D%92%E8%AF%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97/?category=18271" rel="tag">五星红旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">人贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88/?category=18271" rel="tag">代课教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BD%E8%BF%90/?category=18271" rel="tag">命运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%B7%A5/?category=18271" rel="tag">打工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E7%A9%B7/?category=18271" rel="tag">贫穷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -658,7 +645,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s23u1mjtj1nc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -668,5 +655,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/></td>    </tr>
 </table>

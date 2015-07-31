@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d120g5ieg5mk6k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%B4%E8%BF%91%E7%94%9F%E6%AD%BB%E5%85%B3%E5%A4%B4-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%AD%E6%B0%94%E5%BC%BA%E7%A1%AC%E5%BE%88%E7%BD%95%E8%A7%81/" target="cdt-mirror">世界日报｜临近生死关头 习近平语气强硬很罕见</a>
@@ -179,7 +179,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">最美乡村女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐乡村女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E9%87%8D%E5%A1%91%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E8%A7%84%E5%88%99/" target="cdt-mirror">纽约时报｜习近平强势重塑中国政治规则</a>
 </h2>
@@ -555,7 +555,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <p>moebearback：被拐女成为乡村教师这事，算是之前说过你国乡村崩溃和丛林化的一个例证。在这个事件里你看不到无所不能的老大哥的存在。在城市里无所不能的老大哥在这里近乎无能为力。当然它并不是真的无能为力，只是资源不会放在这些边缘地区而已。”</p>
 <p>remonwangxt：<img src="https://s.w.org/images/core/emoji/72x72/1f62d.png" alt="</p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%BA%94%E9%81%93%E5%8F%A3%E5%A5%A5%E8%90%A8%E7%8E%9B-%E9%83%9C%E8%89%B3%E6%95%8F%E7%9A%84%E6%95%85%E4%BA%8B%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E8%89%B2%E8%8D%92%E8%AF%9E/" target="cdt-mirror">五道口奥萨玛 | 郜艳敏的故事背后的黑色荒诞</a>
 </h2>
@@ -660,7 +660,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28j84tii67yl7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -670,5 +670,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
 </table>

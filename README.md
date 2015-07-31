@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E5%8A%9B%E9%87%8F%E9%AA%97%E5%BE%97%E6%88%91%E4%BB%AC%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2/" target="cdt-mirror">王枪枪 | 总有一种力量骗得我们泪流满面</a>
+</h2>
+<p><p>1999年，我读到了南方周末的新年献词《总有一种力量让我们泪流满面》，读完后我很感动，毅然放弃了喜爱多年的《知音》，只是对比了一下定价后我才明白，总有一种力量让我们泪流满面地掏钱，感动是一件很费钱的事。从高中起我就开始为“感动”付费，我被“母亲河植树公益”感动得花了几个月的伙食费，被路边刚进城没找到亲戚的夫妻俩感动得花了五十块钱，被火车站丢了钱包的女学生感动得花了一百块钱，被为理想骑行远方的驴友感动得花了二十块钱，被替弟弟挣学费的足浴妹感动得花了五百块钱，后来足浴妹改行做洗头妹了，我又被替父亲挣医药费的她感动得花了两百块钱。后来，我终于学会了控制情绪，让感动不要来得那么快，至少要十二秒以后才行，后来我就买房了。</p>
+<p>感动这种东西本来是发自丹田、自然单纯地事情，就像天雷勾动地火，西门遇到金莲，那感觉就像金风玉露一相逢，就像钟情少男遇到怀春少女，就像只是在人群中多看了你一眼，你就回头对我说，你瞅啥？现如今，感动已经成为一种社会化商品，由自然萌发地春情变成了人为制造地春药，不论是个体、媒体还是有关部门，都能按需制造各取所需，现如今被制造出来的感动已多如丽江的文艺青年，文艺着下半身，多如选秀节目中的远方理想，理想着商业化，它们不外乎是骗钱、骗色、骗人心，骗得你感动到泪流满面，感动到要么花光钱，要么脱光衣服，要么感谢政府。</p>
+<p>1994年，18岁的河南女孩郜艳敏被人贩子拐卖，惨遭强暴后以2700元的价格被卖到了曲阳县下岸村，她逃跑过，自杀过，但最终没有逃脱。时间到了2000年，作为村里唯一上过初中的人，郜艳敏算是有文化的了，于是她成了村子里的代课老师，一年一千多的工资。是不是很感人？的确感动了很多人，于是，郜艳敏2006年被评为“感动河北十大人物”之一。这件事情的荒诞就在于，媒体和宣传部门太擅长和习惯于把一个人的苦难加工成感动傻逼的药丸，而且很多苦难都明显源于违法犯罪行为或者政府有关部门的不作为，相关部门不仅不加以解决，反而拿出来津津乐道，这种加工出来的感动在这片土地上盛行多年了，粉饰太平遮掩丑陋，让个体地苦难更加沉重，让看客地麻木又深了一分。</p>
+<p>感动源于内心又滋养内心，它使人心向善，倘若感动不是源于真和爱，它又能让人愚昧，不是让你不要相信感动，而是要有一颗分辨心，少年怀春地激动和老年吃了春药地冲动，不是一回事啊姑娘。在很大程度上，“感动”这个词在当下已经成为他人苦难史和政府不作为的代名词了，本来应该是千夫所指的罪责，却被描绘成美丽心灵，词汇的污染就像《1984》里描绘的那样：政府专门负责造假新闻的部门，叫真理部，专门负责秘密警察，迫害异见人士的部门叫友爱部，专门负责发动战争的部门叫和平部。一个社会，若是天天都发生“感人”的事情，那么这个社会十有八九已经烂透了，天天拿正能量自慰的人，大家一定要小心，他们比能戒烟的人还可怕。</p>
+<p>前人讲究“牌坊要大，金莲要小”，牌坊大很感人，金莲小则很撩人，就像今人讲究的胸要大，脸要良家一样，是内在需求和外部表象的合一，既想屋外感人肺腑又要屋内翻云覆雨，可惜这不是对自己的要求，而是对他人的要求，受苦的是别人，享受的是自己，正如掌权者残暴，你要求被压迫者理性，正如土匪冷酷，你要求受害者宽容，面对由他人苦难加工而成的感动，即便你泪流满面，也与罗马斗兽场内观看奴隶厮杀拍手叫好的贵妇无甚区别，非要说区别，也无非是她们看不到未来自己的惨，你看不到眼下自己的蠢。</p>
+<p>记得去年的春晚上有一个全国道德模范，跟郜艳敏一样，曾经也是感动河北十大人物，他的主要成绩就是炸油条不使用二道油，相关部门给他的道德点评为：没有炒作，没有创新，没有秘方，只有良心，只有诚信，只有责任。看到这个我也是有点无语了，你当然可以为他不使用劣质油而感动，可我想的是，这样的人成为了全国道德模范，成为行业的佼佼者，那全国其他炸油条的呢？绝大部分都不如他吧，负责食品安全卫生管理的部门到底在干什么？当然，做这些提问很无聊，很扫兴，不如大家一起比感动，比泪流满面，比谁是世界上最美的纳税人，比谁是世界上最幸福的政府。</p>
+<p>感动已经渐渐成为有些人的爱好了，为了你们这点爱好，电视里常放那些感人的画面：山区师生绳索渡河坚持求学，山村医生在简陋的卫生室几十年如一日治病救人，小孩子辍学打工给妈妈治病，老奶奶捡垃圾维生资助多个大学生……,在你们感动地涕泪横流之时，趁泪水还没逆流进脑子，汇款单还没填好，能否想一下这种感人的画面应该存在吗？为什么存在呢？我不觉得你们是有爱的，你们是有害的，是在虚情假意的掩护下逃避自己的责任，是拎着满满一桶正能量给腐朽的时代涂脂抹粉。再说个新近感人的事情：被誉为中国最美的奶奶，叫中国最坚强的奶奶也行，厦门97岁的老人与儿媳相依为命，为补贴家用，老人上街摆摊，当街道社区知道97岁老人摆摊后，果断地把老人家原来320元低保降为120元……,这事也挺感人吧？</p>
+<p>前些年经常听到有人说“你这个人太偏激了”、“你太愤青了”、“你阴谋论了”、“你怎么老盯着社会的阴暗面”一类的话语，以前会觉得有些委屈，现在则完全不屑一顾了，反而觉得这些人很可怜，当然里面不乏一些识时务的聪明人，他们的小日子过得很不错，再加上点感动中国一类的精神食粮，我相信他们已经很知足了，每个人都有权选择过好自己的生活，选择对一些东西视而不见不闻不问，他人无权站在道德高地指责，但是倘若反过头来咬一口成为粉饰太平的帮凶，那就不再享有豁免权了。对于言语上的激烈，今天有个少林寺的和尚说得挺好，他叫释圣智，先不论他是不是替释永信辩护，但就和尚能不能骂人这点，他说的挺好：“话说今天骂人事出有因，你们骂我和尚千万遍，我和尚骂你们一声都不行。谣言惑众，还不让我们澄清。逆来顺受，是你们的盛情。我和尚不领情，骂一声是告诉尔等，魔子欺佛，佛祖不怒，金刚怒目。你们见谣言而幻听，闻是非而跟风。遂妄波而不息，造恶业以沉沦。若无澄清之期，宁有解脱之时。希仗国法之正义，愿解谣言之是非。今我修文，希迷流而归正途。博主今日以针锋，俱蒙相对。招感冤家而而共会，各自解脱。四海友朋，化热闹而作清凉，八方冤亲，拾谣言而等澄清。”，挺赞的。</p>
+<p>“感动的事情”肯定还会愈演愈烈，满是臭味的屋子香水只会越喷越多，有时候我在想，按“中国最美乡村女教师”这个思路发展下去，会不会再来个“中国最美受侵害幼女”，“中国最帅弓虽女干犯”，“中国最温柔杀人犯”一类的感人事迹？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E5%8A%9B%E9%87%8F%E9%AA%97%E5%BE%97%E6%88%91%E4%BB%AC%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7%E6%A8%A1%E8%8C%83/?category=18271" rel="tag">道德模范</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8B%92%E5%8F%916%E4%B8%AA%E6%9C%88%E5%95%86%E5%8A%A1%E7%AD%BE%E8%AF%81/" target="cdt-mirror">BBC | 艾未未：英国政府拒发6个月商务签证</a>
+</h2>
+<p><p><strong>中国知名维权人士兼艺术家艾未未在其社交媒体Instagram和推特帐户上透露，因为英国政府只给予他20天的商务签证，可能无法出席今年9月英国皇家美术学院为他举行个人作品展的开幕式。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%89%BE%E6%9C%AA%E6%9C%AA%E8%8B%B1%E5%9B%BD%E7%AD%BE%E8%AF%81.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E8%89%BE%E6%9C%AA%E6%9C%AA%E8%8B%B1%E5%9B%BD%E7%AD%BE%E8%AF%81.jpg" alt="艾未未英国签证" width="550" height="310"></a></p>
+<p>艾未未表示，英国政府指其在填报赴英签证申请时，没有如实填报有关犯罪记录的资料。</p>
+<p>艾未未还在社交媒体上展示了他获得的英国签证，上边显示签证有效期为2015年9月9日至29日。</p>
+<p>他还在社交媒体上公开了英国签证与移民局官员发给她的一封信，信中明确指出没有给予艾未未6个月入境签证的理由是，“根据公共记录，你（指艾未未）之前曾在中国受到刑事起诉”，而艾未未没有就此申报。但信中还表示，虽然如此，英国政府还是特别通融，给予艾未未一定时间的入境许可。</p>
+<p>不过，艾未未说，虽然他曾多次向英国签证与移民局及英国驻华使馆官员解释，虽然他在2011年遭中国当局秘密拘捕并指控他涉嫌逃税，但并未正式遭到起诉，但英国政府代表仍坚持只给予艾未未20天的商务签证，而没有批准他要求6个月商务签证的申请。</p>
+<p>英国皇家美术学院将在今年9月19日至12月13日举办艾未未作品的大型展览。英国皇家美术学院说，他们期待艾未未在画展开幕前能够抵达英国。</p>
+<p>有分析认为，如果艾未未无法到伦敦参展，将会对中国国家主席习近平今年10月的英国访问产生负面影响。</p>
+<p>但也有分析指出，令人感到巧合的是，英国政府现在给予艾未未访英签证的日期，正好错过了习近平访英的时间，也因此避免了届时有可能出现的尴尬场面。</p>
+<p>艾未未被看作是中国观念艺术作品之父，但他的作品往往也反映一些政治敏感的主题。</p>
+<p><strong>刚获得赴德签证</strong></p>
+<p>在本周一（7月27日），艾未未对法新社表示，他已经拿到了去德国的签证，而艾未未朋友把艾未未获得的4年多次往返德国签证文件的照片贴到了网上。艾未未6岁的儿子目前居住在德国。</p>
+<p>艾未未是在上周三（7月22日）获得中国警方发还个人护照的，他为此还在其个人推特和Instagram上分享自己终于拿到护照的照片，并留言说，“今天，我拿到了护照。”未来终于可以不必再通过电脑或通讯软件，而能自己到各地分享展览了。不少网友也纷纷留言恭喜他。</p>
+<p>艾未未在2011年被禁止出国后，每次他在世界各地的个展都只能通过电脑、通讯软件遥控指挥他的艺术团队。</p>
+<p>今年6月，中国政府终于允许艾未未在境内举办个展，但条件是展览只能谈艺术而不谈政治。当时有中国媒体评论，这可视为官方与他之间恩怨的隐约句号。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/bbc-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8B%92%E5%8F%916%E4%B8%AA%E6%9C%88%E5%95%86%E5%8A%A1%E7%AD%BE%E8%AF%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">国家主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91%E5%B1%80/?category=18271" rel="tag">移民局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E7%AD%BE%E8%AF%81/?category=18271" rel="tag">英国签证</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%B4%E8%BF%91%E7%94%9F%E6%AD%BB%E5%85%B3%E5%A4%B4-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%AD%E6%B0%94%E5%BC%BA%E7%A1%AC%E5%BE%88%E7%BD%95%E8%A7%81/" target="cdt-mirror">世界日报｜临近生死关头 习近平语气强硬很罕见</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/150726103024_cn_xi_jinping_zhou_benshun_976x549_xinhua.jpg" alt="150726103024_cn_xi_jinping_zhou_benshun_976x549_xinhua" width="549" height="309">中共持续两年多的反腐运动是否遇阻了？总书记习近平日前利用中央政治局集体学习的机会，清楚作答：「开弓没有回头箭」，「反腐没有休止符」，宣示反 腐仍在路上。紧接着，西藏、新疆和国家体育总局几位官员落马的消息宣布。然而，几只「小老虎」落马，并不能满足社会大众对反腐的期待。由于前中共中央政治局常委周永康未被公开审判且保住性命，传闻中的几个「铁帽子王」似乎也平安着陆，军方反腐又戛然而止，如果下月举行的北戴河会议后不能掀起反腐新高潮，外界就有足够理由相信，反腐已半途而废，打虎不成，反被虎噬的后果会十分严重。</p>
@@ -602,53 +647,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E9%97%AE%E9%A2%98%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E6%BF%80%E8%B5%B7%E5%8F%8D%E5%8D%8E%E6%83%85%E7%BB%AA/" target="cdt-mirror">纽约时报 | 新疆问题在土耳其激起反华情绪</a>
-</h2>
-<p><p>北京——对很多中国人来说，本月来自土耳其的一些影像相当凶狠骇人。</p>
-<p>网上的视频以及在伊斯坦布尔拍摄的照片显示，土耳其和维吾尔族示威者在中国领事馆外焚烧了中国国旗；愤怒的人群<a title="Link: http://www.hurriyetdailynews.com/video-turkish-nationalists-protesting-china-attack-korean-tourists-in-istanbul.aspx?PageID=238&NID=84972&NewsCatID=338" href="http://www.hurriyetdailynews.com/video-turkish-nationalists-protesting-china-attack-korean-tourists-in-istanbul.aspx?PageID=238&NID=84972&NewsCatID=338" target="_blank" rel="nofollow">狂躁地冲向韩国游客</a>，似乎误以为他们是中国人；以维吾尔人为主的暴民砸烂了<a href="https://www.youtube.com/watch?v=pi_-qZ4GTSY" target="_blank" rel="nofollow">泰国领事馆的窗户</a>，因为泰国违背当事人的意愿，将100多名维吾尔人遣返中国。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/27chinamemo-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/27chinamemo-articleLarge.jpg" alt="土耳其反华" width="500" height="333"></a></p>
-<p>中国人可能在疑惑，土耳其是否仍然是原来的那个土耳其——那个吸引了越来越多中国游客，同意<a href="http://cn.nytimes.com/china/20131021/c21arms/" target="_blank" rel="nofollow">从中国公司购买</a>导弹防御系统，付钱让中国国有企业在该国两座最大的城市之间修建<a href="http://cn.nytimes.com/china/20140729/c29rail/" target="_blank" rel="nofollow">长达300英里高铁</a>的土耳其。</p>
-<p>土耳其的前身是奥斯曼帝国，一直以整个中亚地区突厥语系人口的保护者自居——这包括了以穆斯林为主的维吾尔人，他们居住在中国西部的新疆，与在中国占主导的汉族之间关系越发紧张，暴力活动日益加剧。维吾尔人称这是因为他们受到了官方的压制，而中国官员指责这是由于恐怖主义意识形态。</p>
-<p>一些分析人士思忖，这个在土耳其长期发酵的问题，是否会逆转两国不断加强的经济和外交关系，损害两国在彼此眼中的形象。就在这些问题出现之时，土耳其总统雷杰普·塔伊普·埃尔多安(Recep Tayyip Erdogan)周二离开了土耳其首都安卡拉，对中国进行国事访问。</p>
-<p>“双边贸易不断增长，中国向土耳其出售了一些武器，各个领域的合作已在开展，”中国社科院中东问题研究员殷罡说。“然而维吾尔问题成为了拦路石，土耳其公众因此对中国怀有敌意，我们在这方面可以做的事情不多。”</p>
-<p>周二当天，埃尔多安的办公室并未提供有关他中国之行的细节。与政府关系密切的土耳其报纸报道，一群土耳其商人将陪同埃尔多安一同访华。报道并未提及埃尔多安是否打算同中方提出维吾尔人问题。埃尔多安同时面临的问题还有，该国打击伊斯兰国(Islamic State)及库尔德武装的战斗出现了升级。</p>
-<p>最近几周的两次事态发展，致使维吾尔人问题在两国关系中处在了突出的位置。7月初，听说中国官方迫使新疆的维吾尔人在穆斯林斋月期间进食，而且可能还杀害了一些违反命令的人之后（尚未证实发生过这类杀人事件），土耳其人和维吾尔人在伊斯坦布尔和安卡拉的<a href="http://www.aa.com.tr/en/news/548404--turks-gather-to-protest-chinas-alleged-fasting-ban" target="_blank" rel="nofollow">街头举行了抗议</a>。街头集会与土耳其一个保守的民族主义政党有关联。</p>
-<p>几天后，土耳其人和维吾尔人又抗议泰国将<a href="http://cn.nytimes.com/asia-pacific/20150710/c10uighur/" target="_blank" rel="nofollow">维吾尔人强迫遣返</a>。泰国的行为也遭到了联合国难民事务高级专员公署(Office of the United Nations High Commissioner for Refugees)和人权组织的谴责。中国官员坚称那些维吾尔人计划经土耳其前往叙利亚和伊拉克，加入伊斯兰国。该组织亦称为ISIS或ISIL。</p>
-<p>最近几周，围绕新疆维吾尔人处境的问题，中国和土耳其有过激烈的外交交锋。6月30日，土耳其外交部称，禁止斋月封斋的报道，以及对其他宗教行为的限制“让土耳其民众感到难过”，且土耳其已向中国大使表达了“深切关注”。</p>
-<p>中国的回应相当于一场宣传运动：外交部女发言人华春莹在北京表示，“维吾尔族民众安居乐业，享有宪法规定的宗教信仰自由。”中国官方新闻机构发表文章，并在Twitter上发贴，介绍中国境内的维吾尔人在斋月期间封斋的情况。</p>
-<p>纽约时报中文网 国际纵览</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E9%97%AE%E9%A2%98%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E6%BF%80%E8%B5%B7%E5%8F%8D%E5%8D%8E%E6%83%85%E7%BB%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%8E/?category=18271" rel="tag">反华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94/?category=18271" rel="tag">维吾尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E7%91%9C%E7%96%91%E6%82%A3%E7%99%8C%E7%97%87%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96/" target="cdt-mirror">自由亚洲 | 高瑜疑患癌症健康恶化</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/43852c283d3f71a354c4871f24cab36a.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/43852c283d3f71a354c4871f24cab36a.jpg" alt="前记者苏雨桐表示，她脖子有一侧是淋巴结，另一侧有肿块，医生说不排除是癌症，或是恶性肿瘤。（法新社图片）" width="620" height="414"></a><p>前记者苏雨桐表示，她脖子有一侧是淋巴结，另一侧有肿块，医生说不排除是癌症，或是恶性肿瘤。（法新社图片）</p></div>
-<p>等候二审开庭的71岁高龄资深女记者高瑜，服刑期间的一次身体检查中，发现颈部有肿瘤或血管栓塞迹象，健康状况进一步恶化。她周二(28日)会见律师时，转述警察最近不断提审要她认罪，甚至提出解聘律师或改为“轻罪辩护”要求。（文宇晴报道）</p>
-<p>被控“为境外非法提供国家秘密罪” 重判入狱七年的资深记者高瑜，案件正在上诉阶段，等候二审开庭。</p>
-<p>一直关注事件的“德国之声”前记者苏雨桐，从高瑜家人处了解到，律师周二到过看守所进行会见，得悉高瑜的健康状况进一步恶化，不排除随时有生命危险。</p>
-<p>苏雨桐指出，当局对家属和国际社会的呼吁一直充耳不闻；律师提出各种例如保外就医等申请遭到拒绝。71岁的高瑜年时已高，在看守所这样的环境下关押超过1年时间，最近开始国保多次违法提讯，一周内约4至5天都来找她要她认罪。家属担心在这情况下，会加重高瑜的病情，希望出于人道考虑，先让她回家或在较好条件的医院治疗。</p>
-<p>苏雨桐说：她脖子有一侧是淋巴结，另一侧有肿块，医生说不排除是癌症，或是恶性肿瘤，要做活体检查。现在她的心血管上有一个白斑，意味著心血管有堵塞，所以说她现在随时有生命的危险。当时她家人跟我转述这消息时，一直哽咽著。</p>
-<p>记者问：她的家人是否也因为这事，受到的压力也挺大？</p>
-<p>苏雨桐回答：是，包括律师和家人都曾被要求闭嘴。其实她的家人没有叫我公开，但是我想我必须选择公开，而且我也必须选择和国际机构以及国外政府去联系。这是一件非常糟糕的事情，因为在中国已经做了很多办法，我想判决或各种法律程序，至于合不合法和有没有法治，我们看得清楚，但现在这件事，我想是出于人道的考虑。</p>
-<p>高瑜的代表律师莫少平向记者说，律师尚宝军在会见时，高瑜向他提到警方最近一段时间里不断进行游说，要求她解聘律师。</p>
-<p>莫少平认为，案件已来到二审阶段，公安部门突然有这样的要求，是毫无法律依据。</p>
-<p>莫少平说：公安动员高瑜女士更换律师，高瑜女士拒绝了，说绝对不会更换。那么公安又给她做工作，说能否动员律师，在二审中不要做无罪辩护，改做轻罪辩护。高瑜女士只是说，我可以把你们的意思转告给律师，但是我还是要尊重律师的专业意见。</p>
-<p>71岁的高瑜曾任职中新社记者，曾两次因言被捕。去年4月高瑜再度被捕，后被控非法获取并向境外网站，泄露一份中共内部文件。高瑜被当局羁押近一年后，4月中时在北京市第三中级人民法院宣判，其被控“为境外非法提供国家秘密”罪成，判有期徒刑7年，剥夺政治权利1年。随即高瑜提出上诉。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E7%91%9C%E7%96%91%E6%82%A3%E7%99%8C%E7%97%87%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E5%A4%96%E5%B0%B1%E5%8C%BB/?category=18271" rel="tag">保外就医</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B6/?category=18271" rel="tag">内部文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9/?category=18271" rel="tag">政治权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -660,7 +658,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28j84tii67yl7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -670,5 +668,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d120g5ieg5mk6k.cloudfront.net">https://d120g5ieg5mk6k.cloudfront.net</a><br/></td>    </tr>
 </table>

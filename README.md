@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s23u1mjtj1nc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kd1s58mjs3rf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%85%8E%E9%A5%BC%E6%91%8A%E4%B8%BB%E5%85%A5%E9%80%89%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%91%98/" target="cdt-mirror">【异闻观止】澎湃新闻 | 煎饼摊主入选南京信息员队伍</a>
@@ -244,7 +244,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E8%80%81%E8%99%8E/?category=18271" rel="tag">老老虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A6%E6%B6%9B/?category=18271" rel="tag">胡锦涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3/" target="cdt-mirror">【真理部】有关“郜艳敏：从被拐女成最美乡村女教师”</a>
 </h2>
@@ -645,7 +645,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dflxky9yfyd83.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2x0g6o87e27qg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -655,5 +655,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/></td>    </tr>
 </table>

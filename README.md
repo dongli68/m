@@ -212,7 +212,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%87%AA%E6%94%BF%E7%AD%96/?category=18271" rel="tag">三自政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9B%E6%95%99/?category=18271" rel="tag">佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%85%8E%E9%A5%BC%E6%91%8A%E4%B8%BB%E5%85%A5%E9%80%89%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%91%98/" target="cdt-mirror">【异闻观止】澎湃新闻 | 煎饼摊主入选南京信息员队伍</a>
 </h2>
@@ -628,5 +628,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/7-23%E5%8A%A8%E8%B
                 <td></td>
                 
         
-        <td><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d1niws1nl7ekmj.cloudfront.net">https://d1niws1nl7ekmj.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://d1niws1nl7ekmj.cloudfront.net">https://d1niws1nl7ekmj.cloudfront.net</a><br/></td>    </tr>
 </table>

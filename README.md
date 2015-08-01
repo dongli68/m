@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3195iyr5rm4op.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B3%E5%86%AC%E5%A5%A5%E6%AD%8C%E6%9B%B2%E3%80%8A%E5%86%B0%E9%9B%AA%E8%88%9E%E5%8A%A8%E3%80%8B%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F/" target="cdt-mirror">知乎｜为什么冬奥歌曲《冰雪舞动》很像《冰雪奇缘》主题曲？</a>
@@ -320,7 +320,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">国家主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91%E5%B1%80/?category=18271" rel="tag">移民局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E7%AD%BE%E8%AF%81/?category=18271" rel="tag">英国签证</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%B4%E8%BF%91%E7%94%9F%E6%AD%BB%E5%85%B3%E5%A4%B4-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%AD%E6%B0%94%E5%BC%BA%E7%A1%AC%E5%BE%88%E7%BD%95%E8%A7%81/" target="cdt-mirror">世界日报｜临近生死关头 习近平语气强硬很罕见</a>
 </h2>
@@ -621,7 +621,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dawvfagbvm5zl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsgmenuw8l4my.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -631,5 +631,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/></td>    </tr>
 </table>

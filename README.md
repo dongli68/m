@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s23u1mjtj1nc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BE%E5%9B%BD%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E5%9B%9A%E7%A6%81%E7%9D%80%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9F%E7%9A%AE%E7%90%83%E8%B8%A2/" target="cdt-mirror">【网络民议】举国的正义感囚禁着郜艳敏？皮球踢的真是妙啊</a>
@@ -161,7 +161,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0/?category=18271" rel="tag">财新</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B1%E6%94%BF%E5%BA%9C%E5%90%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%81%93%E6%AD%89-%E9%87%8D%E5%8F%916%E4%B8%AA%E6%9C%88%E7%AD%BE%E8%AF%81/" target="cdt-mirror">美国之音｜英政府向艾未未道歉 重发6个月签证</a>
 </h2>
@@ -618,7 +618,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/7-23%E5%8A%A8%E8%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s23u1mjtj1nc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -628,5 +628,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/7-23%E5%8A%A8%E8%B
                 <td></td>
                 
         
-        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/></td>    </tr>
 </table>

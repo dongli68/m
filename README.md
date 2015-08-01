@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3i6e2bv2phnf3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mby9ogvjapzk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1mby9ogvjapzk.cloudfront.net">https://d1mby9ogvjapzk.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B1%E6%94%BF%E5%BA%9C%E5%90%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%81%93%E6%AD%89-%E9%87%8D%E5%8F%916%E4%B8%AA%E6%9C%88%E7%AD%BE%E8%AF%81/" target="cdt-mirror">美国之音｜英政府向艾未未道歉 重发6个月签证</a>
@@ -655,7 +655,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsi2a3cimrkwf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3doptgaqtbfnt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -665,5 +665,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B
                 <td></td>
                 
         
-        <td><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3doptgaqtbfnt.cloudfront.net">https://d3doptgaqtbfnt.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://dajsdqr8u6o30.cloudfront.net">https://dajsdqr8u6o30.cloudfront.net</a><br/></td>    </tr>
 </table>

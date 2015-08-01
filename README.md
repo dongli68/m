@@ -52,7 +52,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%AF%A8/?category=18271" rel="tag">山寨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BE%E5%9B%BD%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E5%9B%9A%E7%A6%81%E7%9D%80%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9F%E7%9A%AE%E7%90%83%E8%B8%A2/" target="cdt-mirror">【网络民议】举国的正义感囚禁着郜艳敏？皮球踢的真是妙啊</a>
 </h2>

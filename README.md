@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mgwkqfu36p3z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%A2%AB%E6%8B%90%E7%9A%84%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A6%BB%E5%BC%80%EF%BC%9F%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%BA%BA%E7%9A%84%E9%80%89/" target="cdt-mirror">女权之声｜被拐的她为什么不离开？看到女人的选择与别无选择</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/6403.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/6403.jpg" alt="640" width="500" height=""></a></p>
+<p><em>文｜李芙蕊</em></p>
+<p>随着一起拐卖妇女旧案和一部赞颂被拐妇女成乡村教师的旧闻重新得见天日，郜艳敏这个名字在短短几天里被网友无数次提起。1994年，18岁的郜艳敏被河北省下岸村的一户人家以2700元的价格买下。其后，她多次尝试自杀和逃跑均未成功，包括后来与亲人取得联系也并未逃脱，直至1999年，她当上了村里的教学点老师，开始了她转而“回报山村”的平静生活。</p>
+<p>对于仍留在村里做教师、不愿离开的郜艳敏，有些人显然不能接受。他们翘首以盼一个“走向自由新生”的振奋结局，有热心之人四处打听如何捐赠或救援“深陷水火”之中的女主人公，不理解她为何不走出大山，而选择“认命”。</p>
+<p>于是在铺天盖地网友的评论中，有这样的一种声音：郜艳敏是可悲的，她屈服于罪恶的、陷她于凄惨境地的羸弱法律和拐卖犯，配合了无良媒体的扭曲价值观。她是善良的，但这“善良”是愚昧的善良。甚至有人讥讽她为“圣母婊”，感慨“哀其不幸，怒其不争”，分析出她有“斯德哥尔摩综合症”，她的依赖导致了她无法扭转悲剧的命运。</p>
+<p>但是，郜艳敏是个懦弱的人吗？</p>
+<p>她不堪人贩子的折磨和凌辱，不惜自己补齐钱让前来买媳妇的老人把自己买走；“她跑过一次，自杀过3次，洗胃，灌肠，脑子也受刺激了”；她也奋力争取回到老家，问父母“我能不能不回去了”……</p>
+<p>对于被拐妇女来说，人贩子经常是比买主更可恶，留下更多不堪回忆的人。郜艳敏配合“购买”自己的过程讽刺又绝望：从她被拐的一刻起，她便无法做自己身体和生命的主人。<strong>她能做的，只有抓住从一种已知的绝境进入到另一种“可能的”绝境的稻草，摆脱眼前无法忍受的痛苦煎熬。</strong>她也曾回到自己的家，她的父母呢？面对被拐走的女儿，他们并没有欢迎和接纳她回家，因为“公公婆婆也很可怜”，因为“在咱们这个地方，结过婚的女子，再想找个好对象就难了”。而在一个“买媳妇”并不那么稀奇的地方，整个村子的人都是控制被拐妇女的合谋。</p>
+<p>郜艳敏的故事昭示着一个残酷的事实：<strong>对于一些女人来说，生活中从来不存在什么“更好的选择”。</strong></p>
+<p>郜艳敏也并非没有走出去的机会。她曾可以外出工作，但最终留了下来，作为“整个村子文化水平最高的人”做起了教师。<strong>在这看似“顺从”的背后，是郜艳敏的“抗争”。这不是懦弱和屈从，恰恰是女人能动性和力量最大的体现</strong>。</p>
+<p>到现在，“下岸村的外地媳妇已经跑掉了一半”。当然，这些女人出逃之后的命运，没人知道。</p>
+<p>“别的外来媳妇走了，她既肯定她们的勇气，‘她们有追求自己幸福的权利，反正当初都是被迫来的，如果不是被迫，谁也不会来到这个地方’，又担忧‘她们扔下的孩子怎么办？’留下来的媳妇，她体谅‘她们也有许多无可奈何之处’。”被拐的妇女想要出逃，绝大多数必须要割舍孩子，她们既得不到任何的制度上和经济上的保障，又要同时承担情感与道德的巨大压力。</p>
+<p>当年采访过郜艳敏的记者这样说：“郜艳敏不走，是她做过无数次艰难的权衡，最终做出的选择，而并不是有些网友想象的那样——能走也不走，善良到了愚昧的地步。”</p>
+<p>而这样对受害者的责难并不少见。<strong>每当有家暴事件发生，人们最爱问的问题之一就是：她为什么不离开？</strong>在现实中，女人遭遇暴力或者陷入其他困境时所拥有的选择，往往比旁观者想象得要少得多。阶级的受限、经济的受限、情感的无法割舍、社会和文化的支持少得可怜……摆脱受暴的处境绝不是离开那么简单。<strong>将“不走”称为病症，看不到造成困境的根源，其实就是对受害人的变相责备，“你之所以落得这样就是因为自己不争气”。对受害者来说，这也是极大的不公正。</strong>因此看到并理解女性个体的真实处境，相信她们也有生存策略与智慧至关重要。</p>
+<p>承认受害者不是永远被动和受害，不代表不再追究失职的公权力。在郜艳敏被拐的村子里，从外地买来的媳妇就有三四十个，政府和公安睁只眼闭只眼。除了被害人自己的反抗，没人来制止这种集体的犯罪。在郜艳敏最需要帮助的时候，他们没有出现；在看到她的宣传价值后，又转而歌颂“大爱”。<strong>该讨论的不是郜艳敏的去与留，而是导致她和无数被拐妇女陷入困境的制度不作为和文化中的性别歧视如何改变。</strong></p>
+<p>“被买女”的身份是郜艳敏个人噩梦开始，又是她之后持续受到歧视的挥之不去的阴影。<strong>甚至当她以为自己可以摆脱这个标签，在教书育人中获取自身价值与他人肯定之后，旁观者却不肯放手，时刻提醒着她过去悲惨的经历，给出数不尽的同情怜悯。</strong></p>
+<p>“本来已经平静了，又来揭我的伤疤。”郜艳敏说。实际上，她的教书也是在为拐卖妇女现象的消除而默默努力。“村里还没有一个初中毕业生。有几个正在念初中的。我觉得，没有文化就没有出路，只能像他们的祖辈一样，放羊、买媳妇。”</p>
+<p>如艾晓明所说，“<strong>郜艳敏的善良不因为国家阴谋而贬值，她的出路之狭窄才是国家之耻。</strong>”</p>
+<p><em>女权之声独家，转载请注明来源</em></p>
+<p><em>微信号：genderinchina</em><br><em> 邮箱：womenvoicechina@gmail.com</em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%A2%AB%E6%8B%90%E7%9A%84%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A6%BB%E5%BC%80%EF%BC%9F%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%BA%BA%E7%9A%84%E9%80%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E6%9A%B4/?category=18271" rel="tag">家暴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%90%E5%8D%96%E5%A6%87%E5%A5%B3/?category=18271" rel="tag">拐卖妇女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%8A%A9/?category=18271" rel="tag">救助</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E4%B8%8D%E4%BD%9C%E4%B8%BA/?category=18271" rel="tag">行政不作为</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E6%AD%AA%E8%84%96%E5%AD%90%E6%A0%91%EF%BC%9A%E6%96%A5%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E4%B8%BB%E6%9D%83%E8%AE%BA/" target="cdt-mirror">华夏文摘｜歪脖子树：斥网络空间主权论</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/04/1115070916_14297872819251n.jpg" alt="中国互联网违法和不良信息举报中心办公区" width="549" height="352"><p>中国互联网违法和不良信息举报中心办公区</p></div>
@@ -574,68 +604,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%87%86%E5%84%BF%E5%AA%B3%E4%B8%BE%E6%8A%A5%EF%BC%9A%E6%9C%89%E5%A6%BB%E3%80%81%E5%90%83%E8%82%89%E3%80%81/" target="cdt-mirror">南方周末 | 寺庙住持被准儿媳举报：有妻、吃肉、开路虎</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/96uSg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/96uSg.jpg" alt="96uSg" width="660" height="440"></a></p>
-<p>近日，针对少林寺方丈释永信的举报在网上持续流传。浙江温州一位佛教界的达人也被举报了。举报者，是他的准儿媳妇。</p>
-<p>“他虽然14岁出家，但有妻子名林银香，爱吃牛肉不爱吃菜，出门专车路虎揽胜，或者奥迪A8，出入五星级宾馆，冬虫夏草泡茶……”</p>
-<p>在官方下文确认其并无僧人身份之后，这位佛教界达人不得不辞去佛教协会常务副会长的官方职务。然而，他还继续担任着两个寺的住持。</p>
-<p>而形形色色的“假和尚”，远不止他一个。</p>
-<p>“会抽烟吗？”乐清市宝林寺住持释智通，掏出手中的中华牌香烟微笑。7月24日下午，他穿着黑色圆领T恤、穿着拖鞋，站在自己的白色路虎揽胜边，并没有一丝被举报的烦恼。</p>
-<p>与千里之外的少林寺方丈释永信相比，这位同样身陷举报漩涡，却罕被媒体关注的苍南县佛教协会常务副会长，处境无疑要好得多。</p>
-<p>不远处，一座高大的佛塔即将结顶——占地五十多亩的新宝林寺，依然在加紧完成之中。规模宏伟的计划，目标是将这座元代古刹恢复至昔年的盛况。</p>
-<p>站在仍在修建的观音殿中央，他指点着高耸的巨木梁柱，顾盼间颇为自得，“这根木头有24米高，那根18米……”</p>
-<p>筹集资金、规划这一切的，均是他一人之力。在温州佛教界，54岁的释智通是颇有名气的大人物。除了乐清宝林寺，他同时还兼掌苍南的龙慧寺。</p>
-<p>他的头衔在苍南佛教界几乎已达到顶峰，他是苍南县佛教协会常务副会长、苍南佛教界唯一的温州市政协委员。此前的会长释觉圆圆寂后，他还是治丧委员会的主任。他人脉通达、交友广泛，连西泠印社也在他的寺庙里办过展览。</p>
-<p>“只差一步，他就成了苍南县佛教协会的会长。”苍南县佛教协会的一位副会长告诉南方周末记者记者。不过，让人跌破眼镜的是，这位差点成了一县僧众领袖的人物，最近却被揭穿：并无僧人资格。</p>
-<p>“市佛协历届理事会都未曾承认其僧人资格，在2011年全省开展宗教教职人员身份认定备案工作以来市佛协也未给予认定备案。”温州市佛教协会2015年第13号文件，首度用书面的方式确认了他的“假和尚”身份。</p>
-<p><strong>住持是个假和尚？</strong></p>
-<p>“他结婚生子，这么多年一直维持着婚姻。”苍南县佛教协会一位熟知释智通的僧侣说。这在温州佛教界几乎人人皆知。但一直罕有人公开站出来揭露真相，“真僧人都不想跟他多接触，也不愿多惹烦恼。”</p>
-<p>这次站出来的，是智通儿子的前女友。这位差点成了智通儿媳的黄姓女士，在为其诞下一个孙子后，由于产生纠纷，今年6月，用网名在新浪微博上，公开披露自己住在龙慧寺时的所见所闻。</p>
-<p>“他虽然14岁出家，但有妻子名林银香，爱吃牛肉不爱吃菜，出门专车路虎揽胜，或者奥迪A8，出入五星级宾馆，冬虫夏草泡茶……”黄女士在举报帖中说。她在寺庙中住了很长时间，这些都是她亲见亲闻。她并承诺，“如有造假，本人愿意全权承担法律责任”。</p>
-<p>“他们家有好几套房子，他们的户口本上，还写着一家人的关系。”7月初，黄在接受南方周末记者采访时说。她聘请了律师，因此还获得了智通一家的户籍信息和财产状况。</p>
-<p>“（他）在上海、杭州、温州，很多地方都有房子和商铺。”她告诉南方周末记者，释智通的妻子林银香并无固定职业，31岁的儿子，大学毕业后做生意也没几年，一直亏得多赚得少，“他们的钱从哪里来的？”她表示，这些举报内容，已经通过正常渠道传递到了苍南、温州两级的佛教协会和宗教管理部门。</p>
-<p>在苍南老家，俗家姓吕的智通也早已成为传奇。三十年来，他一直游走在僧俗两界，朋友遍及政商文化领域。“他跟各方面关系都很熟，经常有各种领导来这视察交流。”黄姓女子告诉南方周末记者。</p>
-<p>“有一年清明节宗族参拜，整个家族的宴请，就是智通一个人埋单，大概花了接近二十万元。”一位当地村民回忆说，而智通同宗的一位兄弟直接拒绝出席，“吃了这饭是有罪的”。</p>
-<p>不过智通否认黄姓女子对自己吃荤的指控，也否认自己将寺庙的钱转移给家庭。“我不是乱来的人。”智通说，他14岁出家，“我是受过戒，后来因缘到了，1984年才还俗结婚。”智通自己表示，一直到2014年，他因为感情不和，才和妻子离婚。</p>
-<p>他对南方周末记者介绍，结婚后他仍在修行，去年曾有人开高价向其销售戒牒，但他并未购买。</p>
-<p>“僧装、素食、独身，这是中国佛教界公认最底线的戒律。”中国佛教协会副秘书长、灵隐寺方丈光泉大和尚在接受南方周末记者采访时说。</p>
-<p>但显然，对智通而言，这并未妨碍他在佛教系统地位的晋升。“他跟民宗系统和统战系统的官员很熟。”苍南县佛教系统的一位寺院住持告诉南方周末记者，虽然不是僧人，但智通一直以来在苍南佛教协会担着要职。1994年到2006年，他历任苍南佛教协会三届常务理事，四届副会长，目前还是苍南佛教界唯一的温州市政协委员。“无论是副会长，还是以前动议要他当会长，协会内部一些僧人对此一直有不同意见。”这位住持说。但这些反对的声音并未起作用。</p>
-<p>一位没有僧人身份、一直饱受争议的人，如何成为县佛教界在市政协的唯一代表？分管佛教事务的苍南县民族宗教事务局副局长陈士洪拒绝对此作出回应，“我很忙。”他匆匆挂断电话说。</p>
-<p>“他是由民宗系统通过统战部推选过来的，具体过程我们也不知道。”温州市政协委员工委主任黄林华说。</p>
-<p>温州市佛教协会对此亦表示无能为力。“温州市佛协一直不给释智通任何职务。”温州市佛教协会的一位副会长告诉南方周末记者，此前苍南县佛协曾几次将其作为代表向市佛协理事申请上报，但都被市佛协驳回。</p>
-<p>“市佛协历来反对他在苍南县佛协担任任何职务，前几届市政协推荐佛教界委员，征求市佛协意见时只要看到释智通出现都提出反对意见，而这届释智通推荐当选为市政协委员，市佛协一点都不知情。”温州市佛协的官方文件声明说。</p>
-<p><strong>纯粹是利益使然</strong></p>
-<p>出于被报复的担心，杭州律师钱明（化名）和家人要求对其个人和关键信息全部做出匿名和模糊处理。4年前，她曾替浙南老家的亲戚代理过一家寺庙的纠纷，延宕至今。</p>
-<p>“我们家族都是做生意，在举报假和尚后，一直就被打击报复，现在都怕了。”7月29日凌晨6点，她又给南方周末记者打来电话，再三嘱咐。</p>
-<p>这家陷入风波的寺庙，位于浙南某地市区城郊接合部。寺庙规模并不大，建制也不完全，是由信众自筹资金建立。</p>
-<p>它的利益巨大。钱明介绍，寺庙的收入，主要由信众捐助和佛事收入构成，小庙的捐助不多，但光佛事收入，就颇为不菲。</p>
-<p>钱明介绍，以这家寺庙为例，佛教的佛事，分大众佛事和个人佛事。大众佛事由四方信众参加，每期固定7天，农历一月是拜万佛，二月观音圣诞，三月拜济公，五月拜十方，六月再拜观音，七月拜地藏王，还有兰盆会，九月又拜观音，十月拜梁皇，十一月拜阿弥陀佛，十二月拜释迦牟尼。每月还都加上一场吉祥法会。</p>
-<p>每场的大众佛事，参加香客众多，参加的人都要交钱，分为大牌位和小牌位，大牌位每位收取1280至3000元不等，小牌位收取二三十元。</p>
-<p>以拜梁皇为例，此法会须连做三年，一年收取一次费用。光一次拜梁皇，收费就可达二三十万元。而第三年的末次法会，收费更可高达四十万元以上。</p>
-<p>个人委托的佛事，一场佛事也是固定7天，收费最少8800元。这还不包括供天（购买供奉的礼品）、焰口（晚上招魂后给僧人的红包费）以及招待费用。</p>
-<p>“每年的乐助款，每位信众多则几万少则数百，也是笔不小的收入。”钱明说，这间寺庙，一年收入二三百万不在话下。</p>
-<p>虽然按照规定，寺庙收入应设立会计出纳制度进行监管，但多位僧人表示，在很多地方，这套财务制度始终未能建立，名存实亡。</p>
-<p>或许是觊觎这笔脱离监管的收入，信众们当时本已邀请一位有戒牒的僧人主持，但很快，这位僧人就被赶走。一位有背景的香客领来了一群僧人入驻。而这些新来的“僧人”，也没有一人出具过戒牒。</p>
-<p>“这群表面穿着僧服的和尚，都来自河南，没有戒牒、度牒，也没有佛教协会认定和宗教事务管理局备案。”钱明说，她向浙江省民宗委查询后，曾确认了带头者的假僧人身份。在她看来，这纯粹是利益使然。</p>
-<p>更蹊跷的是，带头的僧人，还被查出两个身份，“两张身份证，同一生日、同一张脸，却写着不同名字，县籍也不同。一张户籍显示独身，用于僧人身份，另一张则用于俗家，娶妻生儿育女，还买了商品房、轿车，投资苗木生意。”</p>
-<p>钱明此后向浙江省民宗委举报了此情况。但虽有上级领导督促，基层民宗局和统战部的官员，却始终拖而不决。这一拖就是四五年，“按道理，寺庙应该要进行审计，并纳入统一账户保管。但这群假僧人执掌后，有四五年时间，没有缴纳过分文，也根本无法进行审计。”钱明说，“把手炉、香客的乐助、经营宗教用品所得收入，均不入账，几百万巨款去向不明。”</p>
-<p>他们多次反映此情况，终于将带头者驱离了寺庙。</p>
-<p>但迄今，这位“僧人”依然主持着当地的另一家寺庙。</p>
-<p>“假和尚”们把持乡间的寺庙，业已成了佛教界高僧大德们痛心疾首的一个痼疾。乐清统战部的一位官员承认，现在乐清乡间的寺庙几乎已被江苏南通籍为主的僧人占领，“他们中很多根本没有僧人身份，一查都是假的”。</p>
-<p>“他们都是职业和尚。”乐清本地一位僧侣告诉南方周末记者记者，现在这里几乎都被江苏籍的假僧人占据。“他们至少在这里有四百多人，现在的大小佛事道场，都被江苏南通的假和尚占了。”</p>
-<p>“他们主要的收入来源是道场。必须依靠寺庙才能做。”乐清佛教界的一位居士说，“他们是有佛事，出来穿身僧衣，做完就脱下来回家。连寺庙也不住的。”这位居士说，这些人甚至连佛教徒都算不上。此前，因为分钱不均、发生纠纷，乐清还一度发生过假和尚被刺死的命案。</p>
-<p>“这些人都是老乡带老乡。”浙江省的一位宗教界人士分析：温州地区，来自江苏的假和尚最多；金华丽水青田这一带都是四川来的。宁波，则以安徽人最多。</p>
-<p>“这就是末法时代，一些人打着佛教的旗号，吃着佛教的饭，在做破坏佛教的事情。”光泉大和尚说。</p>
-<p>甚至智通对此都表示十分鄙视。虽然承认自己并非僧人，但他表示自己每天佛教的早晚功课都有做。“不管刮风下雨都会坚持”。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%87%86%E5%84%BF%E5%AA%B3%E4%B8%BE%E6%8A%A5%EF%BC%9A%E6%9C%89%E5%A6%BB%E3%80%81%E5%90%83%E8%82%89%E3%80%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8F%E6%8C%81/?category=18271" rel="tag">住持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BC%97/?category=18271" rel="tag">信众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">假和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BA%E5%BA%99/?category=18271" rel="tag">寺庙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E6%96%B9%E4%B8%88/?category=18271" rel="tag">少林方丈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8D%E5%8D%97%E4%BD%9B%E6%95%99%E7%95%8C/?category=18271" rel="tag">苍南佛教界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -657,5 +625,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8F%E6%8C%81
                 <td></td>
                 
         
-        <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2mgwkqfu36p3z.cloudfront.net">https://d2mgwkqfu36p3z.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>

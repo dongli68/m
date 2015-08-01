@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://di93ylmnqzw4d.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ds0o1ncr69cqn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B1%E6%94%BF%E5%BA%9C%E5%90%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%81%93%E6%AD%89-%E9%87%8D%E5%8F%916%E4%B8%AA%E6%9C%88%E7%AD%BE%E8%AF%81/" target="cdt-mirror">美国之音｜英政府向艾未未道歉 重发6个月签证</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1C4AF4FD-F3B8-420B-9BD8-EA683A95F89B_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1C4AF4FD-F3B8-420B-9BD8-EA683A95F89B_w640_r1_s.jpg" alt="" width="575" height=""></a><p>艾未未、王芬（左）和他们的儿子抵达德国慕尼黑机场（2015年7月30日）</p></div>
+<p>华盛顿— 英国内政大臣特里萨·梅下令向中国艺术家艾未未颁发6个月的签证，推翻了原先只给他20天签证的决定，并且向艾未未表示道歉。</p>
+<p>早些时候，英国内政部发表声明说，正在“了解”这起事件。</p>
+<p>英国签证处原先<a href="http://chinadigitaltimes.net/chinese/2015/07/bbc-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8B%92%E5%8F%916%E4%B8%AA%E6%9C%88%E5%95%86%E5%8A%A1%E7%AD%BE%E8%AF%81/">拒绝颁发给艾未未6个月的商务签证</a>，说他没有在申请表上如实填写自己的“犯罪记录”。</p>
+<p>英国内政大臣特里萨·梅就此向艾未未表示道歉。</p>
+<p>这个星期四，艾未未在Instagram网页上发表了一篇文章，说英国只给了他20天的签证。</p>
+<p>今年57岁的艾未未常常对北京提出批评，他从来没有受到正式指控或定罪，不过常常遭到中国当局的骚扰、逮捕和罚款。</p>
+<p>艾未未星期四在Instagram上发表的另一则声明说，艾未未向英国驻北京大使馆解释，中国当局没有正式起诉他，所以没有填写，可是英国当局“拒绝承认任何失误”。</p>
+<p>声明说：“这个决定不仅剥夺了艾未未作为一个普通公民的权利，而且是站在给那些人权捍卫者制造痛苦的人的立场上。”</p>
+<p>据英国广播公司报道，英国内政部一位发言人说，已经向艾未未寄出了一封信，“对给他造成的不便表示道歉”。</p>
+<p>英国内政部表示：“签证处没有就颁发给艾未未一个月签证的决定向内政部请示，特里萨·梅审查了这个事件后，指示内政部为他颁发6个月的签证。”</p>
+<p>艾未未2011年被中国当局拘捕，没收了他的护照，指控他逃税，并对他所属的公司罚款1500万人民币。很多人认为政府的做法是出于政治动机。</p>
+<p>一个星期之前，中国政府把护照归还给了艾未未。</p>
+<p>目前，艾未未已经离开中国，抵达德国。他将前往英国参加英国皇家艺术学院今年9月举办的艾未未个人作品展的开幕式。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B1%E6%94%BF%E5%BA%9C%E5%90%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%81%93%E6%AD%89-%E9%87%8D%E5%8F%916%E4%B8%AA%E6%9C%88%E7%AD%BE%E8%AF%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 20分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%8F%B0%E6%B9%BE%E6%B3%95%E5%B8%88%E8%B0%88%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%BA%8B%E4%BB%B6%EF%BC%9A%E4%BD%9B%E6%95%99%E8%A6%81%E6%9C%89%E5%8B%87%E6%B0%94%E9%9D%A2/" target="cdt-mirror">凤凰网｜台湾法师谈释永信事件：佛教要有勇气面对丑闻</a>
+</h2>
+<p><p>（凤凰网）编者按：少林寺方丈释永信被举报玩弄女性事件席卷了整个中国大陆，7月30日，国家宗教局、中国佛教协会首次对中国佛教高僧被举报事件作出回应。与此同时，台湾《中国时报》大版面刊登了释永信被爆料新闻，综上，释永信被举报成为轰动两岸佛教界的重大事件，必将对华语世界佛教人群产生深远的影响。为此，凤凰佛教电话采访了台湾玄奘大学文理学院院长、玄奘大学宗教学系暨研究所专任教授，台湾弘誓文教基金会董事长昭慧法师。请昭慧法师就释永信被举报事件谈谈宗教丑闻对两岸佛教界的影响。采访文字如下：</p>
+<p><strong>宗教丑闻放在阳光下会比较健康</strong></p>
+<p>我们讲一个人或许会有一些缺点或瑕疵，但这个人不一定是万恶不赦 的。我见过永信法师一二面，虽然我不是很了解永信法师，但我相信他的人格中有90%是很好的东西，也许剩下的10%不太好的东西恰恰就是佛门大忌，就是社 会在佛教中最敏感的问题。我也看了今天的《中国时报》，面对这样的社会舆论，我只能这样讲，教界是很没有出息的。大家都在沉默，谁也不敢站出来说话。</p>
+<p>面对丑闻，宗教界人士往往会有两种选择，一是自己的德性也不怎么样，因此就不太敢去谈论别人，免得引火烧身，这也是佛教界面对丑闻为什么如此静默的原因。另一种选择，很多人虽然自己很干净，但也不愿意去谈别人的丑闻，认为这种事情对佛教有伤害，越低调越好。</p>
+<p>丑闻对佛教有伤害，很多人认为就要越低调越好，问题的关键是，回避丑闻对谁好？这个对佛陀的教法流传于世间好吗？如果涉及到有受害人，对受害人好吗？</p>
+<p>不仅是佛教，宗教界都有家丑不可外扬的观念。我们要从根源上质疑，家丑不可外扬，这样的观点完全正确吗？可以无限上纲吗？我相信，每一个组织都不完整，人世 间由人来组成的家庭、社群、宗教教团等，都不会是完美的。但如何让这种不完美逐渐趋向完美？这是每一个群体的责任。假设说，某个宗教社团内部有一种机制， 可以去抵制或勒令改正（错误），那么，我们说，是的，这个教团的自律能力会很强。出现问题，可以通过内部处理，让受害人感到自己得到了补偿，受到了公正的 对待。暂且不管这样处理是否完美，但至少内部处理的机制是存在的。现在问题是，我们佛教界内部的处理机制在哪里？我们看到的丑闻大部分不都盖起来了吗？</p>
+<p><strong>回避宗教丑闻是在姑息养奸</strong></p>
+<p>当宗教团体内部没有一种公正的机制去处理这些丑闻的时候，我认为这是在姑息养奸。我们先不论永信法师有没有被举报的事实，但在中国大陆，我们心知肚明，其他教内人士就没有这样的事情吗？</p>
+<p>退一万步讲，如果永信法师被举报的事件是真实的，教徒们会很担心佛教界会不会有一些身居高位的法师也倒下？那么请问，如果真有这样的问题，他们不应该倒下吗？</p>
+<p>出 家人本来不是圣人，我们都会犯错误。广大信众是不是也从举报人的角度去思考，比如，那位举报人实名举报前，也许他在教内曾经试图努力过反应情况，却没有得 到任何回应。我看过的许多宗教丑闻几乎都是这样一种模式。一般来说，举报宗教丑闻的，大多是宗教信徒。非信徒很少会在宗教丑闻中受到伤害。信徒要解决问题 其实都是想在教内解决的，其实都不希望伤害到信仰。因此，宗教问题的举报人可能都走过正常的渠道，希望得到公正的对待，可是，宗教的机构往往都会把事情盖 起来，不处理。如此，佛教是不是就助长了一群不好的人。教内的人都认为，丑闻盖起来就没事了。拜托！多少人因为这些丑闻已经远离佛法而去了，这是不是伤害 了佛教？我认为，藏污纳垢，长久来说，对宗教是不好的。</p>
+<p><strong>建议佛协建立公正透明的处理机制</strong></p>
+<p>佛陀从来没有让我们姑息养奸，佛陀的戒律多么严厉呀，多么严格呀。我们教团内部没有按照佛陀的戒律严格处置犯戒，我们就很难避免有些人因为看不到公正处理问题而揭发举报嘛。因此，我们建议佛协建立公正透明的处理机制，让社会感到佛教是负责任的。</p>
+<p><strong>台湾佛教界同样缺乏面对丑闻的勇气</strong></p>
+<p>我 感觉，佛教界中一些欲贪方面无法克制的人还在教内发酵，比如，在台湾，宗教团体法受到所有宗教的赞同，只有佛教拼命抵制。我认为，宗教法人团体要受到社会 监督呀，寺院的钱财来自十方，会计账目就要透明呀，这是很正常的事情。当时台湾佛教界一些清流的法师和团队也认为不应该抵制宗教团体法，应该接受宗教团体 法的监督，但是，我们这些赞同宗教法的法师就受到了台湾大部分佛教团体的抗议。大众就会看到佛教出家人出来抗议不是为了社会正义，而是要维持自家钱财的黑 箱作业，不让财务透明化。</p>
+<p><strong>每个人都要为自己做的事情负责任</strong></p>
+<p>后来，我就分得很清楚，我永远都是佛陀的弟子，我永远希望正法久住。但是我们不要把这些佛教的负面现象背在自己身上产生忧苦。因为，每个人都要为自己做的事情负责任，每一个团体都要为自己的作为和不作为付出代价。</p>
+<p>我内心真诚希望永信法师被举报的事件不是真的，但万一不幸举报是真实的，我认为佛教界也要勇敢面对，同时应该建立内部可以公正处理的机制，这才是真正的佛陀的精神。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%8F%B0%E6%B9%BE%E6%B3%95%E5%B8%88%E8%B0%88%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%BA%8B%E4%BB%B6%EF%BC%9A%E4%BD%9B%E6%95%99%E8%A6%81%E6%9C%89%E5%8B%87%E6%B0%94%E9%9D%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%87%AA%E6%94%BF%E7%AD%96/?category=18271" rel="tag">三自政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9B%E6%95%99/?category=18271" rel="tag">佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%85%8E%E9%A5%BC%E6%91%8A%E4%B8%BB%E5%85%A5%E9%80%89%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%91%98/" target="cdt-mirror">【异闻观止】澎湃新闻 | 煎饼摊主入选南京信息员队伍</a>
 </h2>
 <p><p>80份包裹要寄往全国不同的地方，内装不明纸质材料，且不让快递员拆开查验。就在准备打包寄出的那一刻，快递员陈师傅突然发现，寄件人所写的寄件地址竟然是不存在的。</p>
@@ -593,47 +644,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8A%A8%E5%90%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E6%8A%8A%E8%82%A1%E5%B8%82%E5%8A%9E%E6%88%90%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%A4%A7%E8%B5%8C%E5%9C%BA/" target="cdt-mirror">动向｜南桥：把股市办成一本正经的国家大赌场</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/07/8E39F80F-47F8-4984-A27C-711762929416_w640_r1_s.jpg" alt="在武汉的证券交易市场，股民们看着电脑屏幕上的股市行情。" width="549" height="309"><p>在武汉的证券交易市场，股民们看着电脑屏幕上的股市行情。</p></div>
-<p>股市在上海的终结和恢复</p>
-<p>股市是欧洲人的发明。早在十三世纪，威尼斯的银行家就开始买卖政府债券，随后比萨、热内亚、佛罗伦萨等城邦的银行家也开始买卖政府债券，开今日股市之先河。他们之所以能这样做，因为中世纪的这些意大利城邦是独立的共和体制的城市国家，政府权力掌握在一群有影响的市民手里。现在西方国家的”公民”一词，就是指当年这种城市国家的自由的”市民”。</p>
-<p>从其发源可以看出，西方股市是自由市民之间的交易。具有今日股票形态的第一支股票，据说是１６０２年荷兰东印度公司股票。１７７３年，英国伦敦股票交易所在乔纳森咖啡馆成立。１７９０年，美国成立了费城证券交易所，１７９２年，２４个证券交易人在纽约签订了一项协议，后来演变为世界上最大的纽约证券交易所。</p>
-<p>股市的最主要功能是为生产筹措资金，上市公司能籍出售股票迅速筹集资金投入生产或建设项目，所以股市成为经济活动的一个活力指标，也是整个社会状态的指标。</p>
-<p>这些都是老生常谈，妇孺皆知，如今中国菜市场上一边卖菜一边炒股的大妈都能说得比这些原理更深更具体。但是我们常常忘了，股市在中国本是”山寨”，有过一波三折的遭遇。1949年解放军进入上海后，陈毅担任上海市长，他后来为人称道多年的一个功绩，就是用霹雳手段取缔了当时的上海证券交易所，从此中国无股市。股市和股票，在我们这一代人所受的教育中，是资本主义的邪恶产物，是专门逼迫人”跳黄浦”的妖魔。文革后，改革开放慢慢地改变了人们的固有观念，走出国门的人看到西方人发明的股市并没有造成大量的投河跳楼上吊，股市并不可怕。文革后新的共产党领袖们接受了股市这个idea，仍然以上海开头，在中国恢复了股市。</p>
-<p>股市投资与赌场下注</p>
-<p>股市是为筹集资金而诞生的，但是股票一经在股市上诞生，就以独立的商品形式而存在，似乎有了自己的生命力。表面上看，在股市上买卖的人只有两种，一种是赚了钱的，另一种是亏了钱的。大家都不谈股市上的股票和实体经济之间的联系，可是从股票的本质来看，股市上的买卖者分成两种，一种人是把股票看成实体经济的抽象物，是实体经济的证明文件，即”证券”的原意，他们是理性的，始终没有忘记，实体经济状态好，股价就会合理上涨，他们自然倾向于成为长期投资者，等着实体经济的成绩在他们手中的股票价格上反映出来；另一种人把股票视为机会的象征，那是冥冥之中的宿命说轮到他今天要发财了，只要买卖的动作时机恰到好处。这种人必定倾向于短期交易，于是有了中国人非常形象的说法，”炒”。</p>
-<p>对于炒股的人来说，时机决定胜负，股市和赌场是没有区别的。原本为筹资而设立的股市”异化”了，异化的原因是这第二种参与者不再是以投资者的心理来买股票，而是以赌徒的心理来下注。</p>
-<p>在美国的中国人多少接触过美国为数不多的一些赌场，有了比较就知道，中国人好赌。在美国，只要有赌场的地方，就少不了中国人的身影。美国人把赌场都设在莫名其妙的地方，不是沙漠里的拉斯维加斯，就是密西西比河上的赌船，或者是偏远的印第安保留地，不管是什么地方，都会有大巴把一车一车的中国同胞拉来一试手气。</p>
-<p>赌场的主人都是人类贪婪心理学的专家，他们营造发财的气氛，在他们设计的赌法规则中，庄家的赢面只比赌客高一个百分点，但是他们知道这就够了，大多数人都会输光了才离开赌场。在我所接触的人中，我问过每一个到赌场试过的人，还没有遇到一个最终赢了钱的。</p>
-<p>中国人相信，帝王将相宁有种乎，别人轮到了的事情，我也一定能轮得到。所以，赌场刻意渲染的赢钱榜样，对中国人特别有效。这种心理，也表现在中国股市的炒股者身上。明明知道”股市有风险”，冲进去的劲头仍然如飞蛾扑火，中国股市就表现出怎么看怎么像赌场的景象。中国人本来就是干什么都一窝蜂，炒股也是这样。</p>
-<p>中国政府需要”牛市”</p>
-<p>国人还有一个特点，一方面有极深的不安全感，中国人储蓄率之高，是美国人怎么也想不通的，收入再低也要存一点钱，因为万一有点病灾，只能靠自己；另一方面，虽然不信任政府的公信力和道德心，却相信政府想要做什么总是能做到的。这是弱者的特点，倾向于相信强者的力量。</p>
-<p>欧美国家的股市，是自由经济的产物，本质上是民间投资者自由交易的市场，和政府权力是没有关系的。政府只是维持法律秩序的裁判员，裁判员不能暗地里插手偏袒任何一方。在经济过热或者萧条的时候，欧美政府除了间接的金融政策和财政政策以外，用其他手段来影响股市都是一种忌讳。</p>
-<p>但是中国不一样。现在的中国，执政党自己内心里明白，执政合法性危机太重了，它能不能继续攥住这个国家不放手，很大程度上需要国家处于较好的经济状态，来告诉老百姓，”面包会有的，牛奶会有的，一切都会有的”。有那么几年，城镇化和房地产是执政党向老百姓证明它伟光正的证据。如今城镇化的连带问题一个个地浮现，房地产开始从顶峰滑落，执政党需要一块方寸之地来站稳脚跟。股市作为一种资金平台，又作为经济和社会状态的第一指标，越是在经济有种种问题的时候，中国政府越需要牛市。</p>
-<p>最近的牛市就是这样在政府的动员下产生的，官媒毫不忌讳，称之为”改革牛”、”政策牛”。尽管一众经济学家都警告，这轮牛市十分诡异，和实体经济的状况完全不般配，这轮牛市是泡沫。但是又有更强的声音，以人民日报为首，告诉民众真正的牛市刚刚开头，发财的机会是机不可失时不再来。不知有多少人把多年的积蓄拿了出来，再配以融资杠杆，等于向政府鼓励的银行借钱炒股，一厢情愿地希望政府会把牛市维持下去。脱贫致富、一夕暴富，就在此一搏。六月末发生股市暴跌，政府恰在此时宣布降息降准，政府托市的信息十分明确。媒体谈及股市，使用的词句好似战争语言，政府就是战争中牛市的一方。它在告诉股民，如果你相信政府强大，你就该相信牛市还在后面。</p>
-<p>这不是正常的股市，这是政府一本正经办的国家大赌场。</p>
-<p>来源：《动向》杂志2015年7月号</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8A%A8%E5%90%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E6%8A%8A%E8%82%A1%E5%B8%82%E5%8A%9E%E6%88%90%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%A4%A7%E8%B5%8C%E5%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B1%A1%E8%A1%80%E9%87%8C%E9%83%BD%E8%83%BD%E6%A6%A8%E5%87%BA%E6%84%9F%E5%8A%A8%E6%9D%A5/" target="cdt-mirror">【网络民议】污血里都能榨出感动来</a>
-</h2>
-<p><p>7月28日，燕赵都市报一篇旧报道<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E4%B8%BA%E5%B1%B1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/" target="_blank">《【最美乡村教师候选】郜艳敏：被拐女成为山村女教师》</a>被挖出，引起网友热议。这篇报道对当事人郜艳敏被拐卖到河北省保定市曲阳县大山深处的经历（曾多次自杀、逃跑）轻描淡写地带过，却对其不得不留于当地学校担任代课教师的无奈大加歌颂，弘扬“大爱”。当年燕赵都市报及其他媒体的相关报道令郜艳敏当选2006年度感动河北人物，同时成为当年网友们评选的“中国最美的六个女人”。然而，在此报道再度映入公众视野时，不少网友对报道以及官方宣传口径的“价值扭曲”大为愤怒，认为这样的黑色荒诞事件背后都能被榨出感动来，实在是时代之耻。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/s3957961.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/s3957961.jpg" alt="根据该事件改编的电影《嫁给大山的女人》获中/共中/央宣/传部精神文明建设“五个一工程”奖。电影中有多处情节改动，诸如“郜燕敏受尽凌辱，多次自杀未遂之后，她却被公公、婆婆的善良感动了，决心以善报善，留下来为体弱多病的婆婆尽孝，用自己羸弱的肩膀支撑起这个风雨飘摇中的家”等。" width="450" height="662"></a><p>根据该事件改编的电影《嫁给大山的女人》获中/共中/央宣/传部精神文明建设“五个一工程”奖。电影中有多处情节改动，诸如“郜燕敏受尽凌辱，多次自杀未遂之后，她却被公公、婆婆的善良感动了，决心以善报善，留下来为体弱多病的婆婆尽孝，用自己羸弱的肩膀支撑起这个风雨飘摇中的家”等。</p></div>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>缺德社：你国宣传拐卖无罪性奴有理又不是一天两天了，以前央视倪萍有档节目，有一个是女的被拐卖当性奴，天天被打，然后逃走，他们做节目的时候问为什么你不跟男的好好谈（男的非常高壮，暴力倾向），然后女方说被家暴，倪萍说咱们不谈这个，你为什么逃走，为什么不好好过日子…简直炸裂，正能量肥肠大。</p>
-<p>小灯：1，村里买了很多媳妇。体现了这个国家贩卖人口之猖獗。2，村里的农民目不识丁，孩子失学，初中文化是最高文凭。体现了这个国家贫困地区的教育之缺失。3，每月工资200元，大山里请不起老师。体现了这个国家贫富差距之悬殊。4，村里大半都是买来的媳妇，受害者十几年逃不出大山，无人营救，体现了这个国家执法力度之低。到处都是罪恶与暴民。5，记者采访，事件真相本可以昭告天下，正义应得到伸张，罪恶应得到惩罚，却莫名其妙地评出了个感动中国人物，体现了这个国家价值观之扭曲。6，真实事件竟拍成了电影，受害者以德报犯罪者，弘扬起正能量，竟然还通过了审查得以上映，政府漠视，法律漠视。，新闻偷换概念，让人们把对这个地区的恶劣状况转移到个人道德之上，一番折腾之后，这里的现状依旧没有改善，然后就不了了之了。直到今天才重新引起重视。每一条看上去都是悲哀，最后竟然成了歌颂美好，这个社会到底怎么了？！一个国家的发达程度绝不是体现在她最大的城市的高楼是不是全世界最富丽堂皇的，而是体现在她让能不能每一寸土地上的人民都少一点悲哀，表面华丽实质却愚昧无知，这样的社会你要我承认她是进步的？ 我到底是在打自己的脸还是在打谁的脸？</p>
-<p>moebearback：被拐女成为乡村教师这事，算是之前说过你国乡村崩溃和丛林化的一个例证。在这个事件里你看不到无所不能的老大哥的存在。在城市里无所不能的老大哥在这里近乎无能为力。当然它并不是真的无能为力，只是资源不会放在这些边缘地区而已。”</p>
-<p>remonwangxt：<img src="https://s.w.org/images/core/emoji/72x72/1f62d.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -645,7 +655,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://di93ylmnqzw4d.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kgvctyluk389.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -655,5 +665,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/><a href="https://dsi2a3cimrkwf.cloudfront.net">https://dsi2a3cimrkwf.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>

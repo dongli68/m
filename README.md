@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1x9b1kipusa7k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B3%E5%86%AC%E5%A5%A5%E6%AD%8C%E6%9B%B2%E3%80%8A%E5%86%B0%E9%9B%AA%E8%88%9E%E5%8A%A8%E3%80%8B%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F/" target="cdt-mirror">知乎｜为什么冬奥歌曲《冰雪舞动》很像《冰雪奇缘》主题曲？</a>
@@ -91,7 +91,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E4%B8%8D%E4%BD%9C%E4%B8%BA/?category=18271" rel="tag">行政不作为</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%A2%AB%E6%8B%90%E7%9A%84%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A6%BB%E5%BC%80%EF%BC%9F%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%BA%BA%E7%9A%84%E9%80%89/" target="cdt-mirror">女权之声｜被拐的她为什么不离开？看到女人的选择与别无选择</a>
 </h2>
@@ -621,7 +621,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1x9b1kipusa7k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -631,5 +631,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>

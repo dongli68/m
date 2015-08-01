@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BE%E5%9B%BD%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E5%9B%9A%E7%A6%81%E7%9D%80%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9F%E7%9A%AE%E7%90%83%E8%B8%A2/" target="cdt-mirror">【网络民议】举国的正义感囚禁着郜艳敏？皮球踢的真是妙啊</a>
+</h2>
+<p><blockquote><p><a href="http://www.weibo.com/1618051664/CtMaa4keE">@头条新闻</a>：<a href="http://huati.weibo.com/k/%E6%96%B0%E6%B5%AA%E7%8B%AC%E5%AE%B6?from=501" target="_blank">#新浪独家#</a>【新浪本周人物：谁囚禁了“最美乡村女教师”？】郜敏艳的故事再次被媒体深挖成为举国关注的对象，而她自己永远是个被利用的卑微小人物。她一直被囚禁着，过去是人贩子，是他的公公和丈夫，是那个村子的村民，是当地的官员，现在，是举国的正义感。<a title="新浪本周人物:谁囚禁了郜艳敏" href="http://feed.mix.sina.com.cn/link_card/redirect?url=http%3A%2F%2Fnews.sina.com.cn%2Fc%2Fzg%2Fjpm%2F2015-08-01%2F09131306.html" target="_blank"><em>网页链接</em></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/60718250jw1eumvg0d3zvj20b606z755.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/60718250jw1eumvg0d3zvj20b606z755.jpg" alt="60718250jw1eumvg0d3zvj20b606z755" width="402" height="251"></a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://www.weibo.com/estherblack" target="_blank">@二角鲸</a><i title="微博达人"></i>：又到了用这张图的时候<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/80500a68jw1eun6wmc9cnj209109qq3o.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/80500a68jw1eun6wmc9cnj209109qq3o.jpg" alt="80500a68jw1eun6wmc9cnj209109qq3o" width="300" height=""></a></p>
+<p>@北京厨子新号: 我操你妈的人贩子和奴隶主不被判刑？这他妈的是21世纪的中国，不是他妈的十九世纪上半叶的美国！无数先烈抛头颅洒热血不是为了在通往奴役的道路上越走越远！新中国通过的第一个法律是婚姻法！妈了个逼的新浪评论！</p>
+<p><a href="http://www.weibo.com/5387683778" target="_blank">@冻山阁miracle</a>：卧槽本来还以为有人敢说说理，看到最后一句简直要喷出来“是举国的正义感”········<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">我去年买了个表！我呸！如果别人把你拐到山里关十几年，外面都是想帮你出来的人，你再试试能不能说出“被举国的正义感囚禁着”这种话。要点脸！你才是囚禁她的其中一员！还推到众人头上！<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>@矢量怪兽林某某：哦，若干年之后，她成为全国人贩子教育被拐卖人口的教材…啊呀呀，没什么的，待几年就习惯啦，就是一家人了，还可以当村里的老师哦，法律都不会追究的呢，全国人民都只敢祝福你呢……不寒而栗……</p>
+<p>@押沙龙：张三强奸了李四，后来有了孩子或者受害人觉得木已成舟，李四认命了，决定跟张三过日子。这时候还要不要追究张三的强奸罪？追究了有人说是二次伤害，可不追究是不是等于说：强奸犯只要强奸出了孩子，或者强奸得久了，差不多就可以脱责？</p>
+<p>@Momot_ree：举国的正义感囚禁了她？！我真恨不得不长这双眼看到这么恶心话！不解救被拐妇女，不惩治罪犯，宣传这种价值观！群众的进步、文明、正义你看不到吗！你他妈以为几句话就能洗脑了吗！你他妈怎么不去死！！！</p>
+<p>@我是你认识的王小能:贵喉舌干脆起个标题说「是谁强奸禁锢了她？是你们这些自以为是的网友！」好了。大家省心。「体制问题」这四个字就像伏地魔的名字一样，你可以假装它不存在，但你活着就绕不开。</p>
+<p>@好蓝嗖好蓝嗖的阿迟：举国正义感？？？？我就问！法律去哪里了？？警察去哪里了？？？都是吃翔了吗？一个被拐卖至今未得到解决的问题，这样一个违法犯罪得不到惩处，而作为一个官方媒体还发出这样的论调竟然一点都不感觉到耻辱！你在吃带着血的馒头！</p>
+<p>@云暄_依钒：举国的正义感？！和当地政府当地村民一样的繁殖癌才能说出这样的话吧？她被现实打压磨灭了意志，那么其他的被拐妇女的意愿呢？囚禁强奸这样的犯罪行为就合该让被拐妇女遭受着？！罪犯的错凭什么受害者承担？！凭什么？！</p>
+<p>@爬爬倍儿棒：所以法律是个p么？因为情有可原？ 造成她悲剧的不是公众的正义感，囚禁她的也不是公众的正义感，而是司法的缺失，无视和纵容，把这些归咎于公众舆论绑架，其心可诛。</p>
+<p>@Synteettinen：放你妈的狗屁，这个锅我不背，法律道德都被你吃了吗，以前我最讨厌这么说的，不过，现在我觉得，你国药丸[拜拜]</p>
+<p>@溪里水浅：时至今日，没有一家媒体有针对当地政府及相关职能部门渎职的报道，翻来覆去被针对的只有郜敏艳这三个字。说这背后没有被操纵，你信吗？我国的媒体，总是在不必和政府对着干的地方，对着干。该好好责问政府的时候，从来不，说到底，就是利益二字，哪有什么新闻人的追求与责任感？</p>
+<p>@三角烧三角烧：她作为受害者确实受到了过多的关注和各方的施压，好了，我们现在不关注她了，关注拐卖参与者，你们能把人贩，村民，相关政府负责人交出来不？毕竟她们村子还有好多被拐卖的姑娘，不要转移矛盾。</p>
+<p>@HarVestJi_jupiter：所以小编的意思是，你们看你们把人家的生活都搅乱了，真要关心她就别再关注这事了⋯⋯你三观喂了狗了吧？</p>
+<p>@俺是萝卜脆脆本人的微博：噢 一个又一个好好的少女被拐卖去偏远山村打骂虐待强奸，如今相关部门啥动作都没有，反而说举国的正义感在伤害她？！ 这理解力满分啊！你们觉得她过得好你们也去体验一下？</p>
+<p>@虎牙先生王俊凯：你国也就这样了，怪天怪地怪时运不济，怪到最后反倒成了网友的错，多管闲事咯？[doge][doge]</p>
+<p>@TONY3093-李诚涌：当您讲法理时，人家同您讲情理，当您讲情理时，人家同您讲法理，当您讲法律时，人家当流氓，当您做流氓时，人家又讲法律。笑笑吧，这个世界无非是今天笑笑别人，明天被别人笑笑，而这些笑话足以堆砌起一个社会与民族的悲哀。问好</p>
+<p>@落下孤灯白雪飘：[doge]这言论也是神奇，该救的时候不救，还把人塑造成“最美女教师”。发出来被网友批评，还有脸怪网友。那些做恶没被惩罚的干嘛不怪？捏软柿子？</p>
+<p>@唱歌的和尚：当违法犯罪遇到三纲五常，也可以忽略不计了，——可以说她是被中国的封建糟粕文化囚禁着。</p>
+<p>@Dramatize丶：能再恶心一点？举国的正义感绑架了她？这皮球踢的真是妙啊</p>
+<p>@花之律：记者们，能不能抓重点，采访多灾多难的当事人做什么？哪个是她能控制的？有能耐你们采访当地村委会、镇政府、公安局、打拐办、妇联、县教育局、县委宣传部、河北省委宣传部……就知道挑软柿子捏，你们集体阳痿啊？</p>
+<p>@Minaros：最后都是境外反动势力搞得鬼？</p>
+<p>@自黑大魔王：小编你丧尽天良！写通稿的人你的良心呢？！</p>
+<p>@吃大餐的sohu：中国梦，白日梦</p>
+<p>@liulaiyouqu：虽然不是第一次被这个无耻的政府恶心到。但党媒在目前已经是水火不容，讲真2022都未必是现政府的情况下。还如此的为渎职开脱，为平息愤怒而火上浇油，扬汤止沸。我说，你们明白你们在干嘛吗？这种行为叫丧失政权合法性！以为现在还是那些被丧事喜办洗脑的愚民吗？以为吗？党媒滚蛋！</p>
+<p>@侯杨方：多好的象征。如果所有人都向这位女教师学习，江山就可以千秋万代了，更不需要维稳了，所以要大力宣扬。</p>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/">被拐女教师</a>专题</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BE%E5%9B%BD%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E5%9B%9A%E7%A6%81%E7%9D%80%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9F%E7%9A%AE%E7%90%83%E8%B8%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E4%B8%8D%E4%BD%9C%E4%B8%BA/?category=18271" rel="tag">行政不作为</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%A2%AB%E6%8B%90%E7%9A%84%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A6%BB%E5%BC%80%EF%BC%9F%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%BA%BA%E7%9A%84%E9%80%89/" target="cdt-mirror">女权之声｜被拐的她为什么不离开？看到女人的选择与别无选择</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/6403.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/6403.jpg" alt="640" width="500" height=""></a></p>
@@ -52,7 +91,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E6%9A%B4/?category=18271" rel="tag">家暴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%90%E5%8D%96%E5%A6%87%E5%A5%B3/?category=18271" rel="tag">拐卖妇女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%8A%A9/?category=18271" rel="tag">救助</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E4%B8%8D%E4%BD%9C%E4%B8%BA/?category=18271" rel="tag">行政不作为</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E6%AD%AA%E8%84%96%E5%AD%90%E6%A0%91%EF%BC%9A%E6%96%A5%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E4%B8%BB%E6%9D%83%E8%AE%BA/" target="cdt-mirror">华夏文摘｜歪脖子树：斥网络空间主权论</a>
 </h2>
@@ -568,42 +607,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/7-23%E5%8A%A8%E8%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%AF%B7%E6%B1%82%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%8B%92%E7%BB%9D%E5%8C%97%E4%BA%AC/" target="cdt-mirror">纽约时报 | 中国人权人士请求国际奥委会拒绝北京</a>
-</h2>
-<p><p>几天之后，国际奥委会(International Olympic Committee)就将决定是由哈萨克斯坦的阿拉木图还是北京举办2022年冬奥会。此时此刻，人权倡导人士正积极开展行动，以中国对维权律师、政治活动人士及少数民族进行广泛镇压为由，力劝奥委会不要选择中国。人权观察组织(Human Rights Watch)等团体批评国际奥委会没有严肃对待自北京举办2008年夏季奥运会以来，网络审查与政府打压力度不断加大的事实。该委员会将于周五在马来西亚的吉隆坡进行不记名投票，选出举办城市。一批知名的中国权利活动人士周五发布了一封<a title="Link: https://www.change.org/p/international-olympic-committee-to-reject-beijing-s-bid-to-host-the-2022-winter-olympics" href="https://www.change.org/p/international-olympic-committee-to-reject-beijing-s-bid-to-host-the-2022-winter-olympics" target="_blank" rel="nofollow">请愿书</a>，其中认为，选择中国将与奥林匹克运动会提出的“增进社会和平、促进人类尊严”的目标产生矛盾。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/27SINO-OLYMPICS-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/27SINO-OLYMPICS-articleLarge.jpg" alt="去年冬天，河北密苑云顶乐园滑雪场的建设工程。如果北京赢得2022年冬奥会主办权，这里将举办部分体育赛事。" width="600" height="400"></a><p>去年冬天，河北密苑云顶乐园滑雪场的建设工程。如果北京赢得2022年冬奥会主办权，这里将举办部分体育赛事。</p></div>
-<p>此外，46岁的西藏流亡僧人久美嘉措(Golog Jigme)也提出了自己的理由，说明该委员会的决定会如何影响普通人，并鼓励一个对有关其人权记录的批评越来越习以为常的政府。他以个人名义向国际奥委会主席托马斯·巴赫(Thomas Bach)提出请求。</p>
-<p>久美嘉措表示，他在协助制作纪录片<a title="Link: http://www.leavingfearbehind.com/projects/leaving-fear-behind/" href="http://www.leavingfearbehind.com/projects/leaving-fear-behind/" target="_blank" rel="nofollow">《不再恐惧》(Leaving Fear Behind)</a>后于2008年被捕，并遭到虐待。这部纪录片探讨了普通藏人在2008年夏季奥运会前的复杂情绪。该片的联合制片人<a title="Link: http://www.nytimes.com/2009/10/31/world/asia/31tibet.html" href="http://www.nytimes.com/2009/10/31/world/asia/31tibet.html" target="_blank" rel="nofollow">当知项欠(Dhondup Wangchen)</a>以颠覆罪名服刑六年，于去年获释。</p>
-<p>目前在瑞士生活的久美嘉措于7月17日向巴赫<a href="https://docs.google.com/document/d/1jaOBTxUFj0I-kMi3Z45vx-twtEVeIkkSDjHARagFFAU/edit" target="_blank" rel="nofollow">发送了函件</a>，询问是否可以当面陈情。</p>
-<p>《纽约时报》获得了这封信件的副本。他在文中写道，“我非常希望亲自为您展示这部纪录片，这样您就可以看到藏人在汉人统治下的遭遇，听到他们对在自身人权状况极为糟糕的情况下中国却获得2008年奥运会主办权的想法。”</p>
-<p>截至周一，同样定居瑞士的巴赫尚未做出回应。</p>
-<p>久美嘉措接受采访时表示，让他颇为不安的是，在中国政府背弃了之前申办奥运会时做出的承诺后，国际奥委会仍可能将冬奥会主办权交给北京。</p>
-<p>当时，中国<a title="Link: http://www.nytimes.com/2008/02/04/opinion/04mon2.html" href="http://www.nytimes.com/2008/02/04/opinion/04mon2.html" target="_blank" rel="nofollow">向奥委会保证</a>，中国会提高新闻自由，履行其国际人权承诺，甚至允许民众在奥运会期间开展抗议活动。虽然外国记者在北京的官方媒体中心可以不受限制地使用网络，但政府大力审查有关奥运会的负面新闻，安全官员也<a title="Link: http://www.nytimes.com/2008/08/14/sports/olympics/14protest.html" href="http://www.nytimes.com/2008/08/14/sports/olympics/14protest.html" target="_blank" rel="nofollow">确保了在北京设立的指定抗议区域空无一人</a>。（申请在这些区域进行抗议的人中，有不少在提交申请时被带走。）</p>
-<p>“我们藏人难以接受中国获得奥运会主办权的事实，”久美嘉措说。“奥运会是一场非常重要、享有声望的盛会。”</p>
-<p>“国际奥委会怎么能将这份荣耀给予中国呢？”他反问道。</p>
-<p>久美嘉措的指责说明了中国政府花了多大的力气来压制与官方消息相矛盾的来自民众的说法。在《不再恐惧》中，在全国上下据称都在喜迎奥运会的背景下，一些普通藏人公开谈论了自身的疑虑。</p>
-<p>这部纪录片基本上由他的朋友当知项欠一手打造。这名商人自学了拍片，花了五个月的时间采访藏人，询问他们在汉人统治下的生活。长达40个小时的采访视频提炼成了一部25分钟的影片，重点讲述他们对汉族移民涌入藏区、宗教限制加剧的不满，以及他们对达赖喇嘛的尊崇。北京将这名藏人流亡精神领袖视作政权的敌人。</p>
-<p>“我们想向国际社会证明，国际奥委会将2008年奥运会主办权交给中国的依据是谎言，”久美嘉措说。“我们希望驳斥中国政府的宣传。他们声称藏人享有自由，西藏是一个和谐社会，这些都是谎言。”</p>
-<p>2008年3月，就在这部纪录片被偷偷送到国外的几天之后，当局拘捕了两人。久美嘉措表示，在接下来的52天里，他遭到警察的<a href="http://www.tibetwatch.org/uploads/2/4/3/4/24348968/an_interview_with_golog_jigme_gyatso.pdf" target="_blank" rel="nofollow">拷打</a>，目的是逼他透露那些在镜头前接受采访的藏人的身份。</p>
-<p>久美嘉措表示，“我的父亲也出现在了片子里，我甚至得假装不认识他。”他还说，审问者将他的双臂吊在天花板上，长达几个小时，同时还用电棍对他施加电刑。</p>
-<p>虽然他最终获释，但他在2009年和2012年又分别遭到拘押，并于最后一次在押期间逃走。</p>
-<p>2014年5月，在西藏山区躲藏了20个月后，久美嘉措越过边境逃到印度。今年1月，他到达瑞士。</p>
-<p>目前尚不清楚，他对国际奥委会提出的请求是否会产生影响。人权倡导人士并不乐观。鉴于北京成功举办了2008年奥运会，外界认为它有不小的可能性赢得2022年冬奥会的主办权。而且，<a href="http://cn.nytimes.com/asia-pacific/20150623/c23almaty/" target="_blank" rel="nofollow">哈萨克斯坦的人权记录</a>非常糟糕，不时也会有批评政府的人士遭到关押。此外，自1989年以来，该国一直由同一个人——努尔苏丹·纳扎尔巴耶夫(Nursultan Nazarbayev)——领导。</p>
-<p>在<a href="https://www.hrw.org/news/2015/07/21/china/kazakhstan-2022-games-major-test-olympic-reforms" target="_blank" rel="nofollow">上周公布的一封信</a>中，人权观察组织呼吁国际奥委会，无论哪个国家赢得举办权，都要确保它必须遵守该委员会2014年采用的改革方案。经过修改的<a title="Link: http://www.olympic.org/Documents/olympic_charter_en.pdf" href="http://www.olympic.org/Documents/olympic_charter_en.pdf" target="_blank" rel="nofollow">《奥林匹克宪章》(Olympic Charter)</a>要求主办国维护新闻自由，将“人类尊严”视作奥林匹克运动的一个基本要素。</p>
-<p>在上周的邮件往来中，国际奥委会发言人艾曼纽尔·莫罗(Emmanuelle Moreau)表示，中国和哈萨克斯坦均“保证”会遵守新宪章，但她承认委员会对奥运会主办国的影响有限。“国际奥委会并非一个世界政府，”她写道，我们必须“尊重主权国家的法律”。</p>
-<p>在上周发布的那封公开信中，200多人联名呼吁国际奥委会拒绝北京主办冬奥会的申请，他们认为奥委会的这种立场还不够。他们表示，给予北京2022年冬奥会主办权的决定会被中国解读为国际社会对自身的认可，助长一个愈发容不下异议的政府的气焰。</p>
-<p>“如果赞同北京举办2022年冬奥会，将给世界传达这样一个信息：国际奥委会支持中国政府侵犯人权。这样，2022年冬奥会将与1936年柏林奥运会和1980年莫斯科奥运会极其相似，”信中写道。“我们梦想着有一天，奥运圣火将照亮一个自由的中国。然而在当前、在现政府统治下，在北京再次举办奥运会将成为耻辱载入史册，也将使国际奥委会成为以奥运之名侵犯人权的帮凶。”</p>
-<div>
-<p>杰安迪(Andrew Jacobs)是《纽约时报》驻京记者。</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%AF%B7%E6%B1%82%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%8B%92%E7%BB%9D%E5%8C%97%E4%BA%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%8A%9E%E6%9D%83/?category=18271" rel="tag">举办权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A/?category=18271" rel="tag">国际奥委会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B/?category=18271" rel="tag">奥林匹克</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -625,5 +628,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://d3195iyr5rm4op.cloudfront.net">https://d3195iyr5rm4op.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/></td>    </tr>
 </table>

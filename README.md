@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d222mead95cxb5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s23u1mjtj1nc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B3%E5%86%AC%E5%A5%A5%E6%AD%8C%E6%9B%B2%E3%80%8A%E5%86%B0%E9%9B%AA%E8%88%9E%E5%8A%A8%E3%80%8B%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F/" target="cdt-mirror">知乎｜为什么冬奥歌曲《冰雪舞动》很像《冰雪奇缘》主题曲？</a>
@@ -191,7 +191,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0/?category=18271" rel="tag">财新</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B1%E6%94%BF%E5%BA%9C%E5%90%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%81%93%E6%AD%89-%E9%87%8D%E5%8F%916%E4%B8%AA%E6%9C%88%E7%AD%BE%E8%AF%81/" target="cdt-mirror">美国之音｜英政府向艾未未道歉 重发6个月签证</a>
 </h2>
@@ -631,5 +631,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>

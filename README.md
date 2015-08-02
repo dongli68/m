@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dawvfagbvm5zl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,94 @@
                 <td></td>
                 
         
-        <td><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E4%B8%A7%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/" target="cdt-mirror">自由港｜丧命在于折腾</a>
+</h2>
+<p><p><em>作者：Sylar</em></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/WeChat_1438372312-300x224.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/WeChat_1438372312-300x224.jpeg" alt="WeChat_1438372312-300x224" width="300" height="224"></a><p>香港中文大学反奥运宣传海报</p></div>
+<p>2015年7月31号，北京时间晚间时分，大陆官媒以刷屏的模式「庆祝北京申办2022年冬季奥运会成功」。与此同时，带动起墙内外中文舆论场一片热议。</p>
+<p>仅凭肉眼观察，反对和支持的声音在比重上难以区分伯仲，主要原因有两点：1、有部分网友在不同平台上所表现的观点不尽一致，甚至相左。推测认为，有可能受限于他们的职业，比如在大陆的媒体人，公开平台上使用的账号基本都被要求在单位登记，对言论形成的制约是肯定的。但他们私下大多表示出较鲜明的反对立场；2、当局对舆论的管控非常迅速。31号当晚，反对声音在墙内平台几乎无一留存。</p>
+<p>31号晚间，在一个媒体人汇集的大型微信群聊里，某知名电视台工作人员表示出对申奥成功的欣喜之情后，被群内同行合力反驳，因其站在政府的角度上说话，持改良派口吻，被群友称其为「五毛」，并一致同意将其踢出了群聊。如此大面积一致性反对政府的状况，在陆媒在职人员的群体里比较罕见。综合显示，该群体中持「劳民伤财」的观点是为主体。</p>
+<p>对扰民的担忧也是大部分公众的意见。观察新浪微博显示，从30号的「舆论铺陈时段」开始，在官媒相关消息下面留言的网友大多倒向反对的一方，不难理解，中国多次主办国际型体育赛事的现实经历，令中国民众已身心疲惫。纳税人的钱财又要被挪用到对民生毫无价值的面子工程上，加之经济下滑已成定局且预判无法乐观、同时财税减少的大环境，沉重的税务负担只能由中国老百姓来扛。在31号之前，已有不少网民表示「祈祷申奥不要成功」。</p>
+<p>但当时，那些反对申奥的帖子中还有一些转发量极低的尚且留存着，而在申奥成功之后，相关反对的声音瞬间被全部删除了。各大官媒的申奥消息下面转发内容皆不可见（比如下图中，央视新闻官方账号截屏时被显示为3.5万的转发量，内容部分一片空白），而评论中保留的内容绝大部分是疑似五毛的声音。也就不难理解大陆媒体人只能私下吐槽的郁闷了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB-%E5%9B%BE2.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB-%E5%9B%BE2.jpeg" alt="央视新闻-图2" width="299" height="646"></a></p>
+<p>其实相关舆论筛查，自几个月前就已陆续开始。近日网上流传出一份来自山西省文化厅的音像制品管制通知，通知中称：由地下摇滚乐队「盘古」创作的歌曲《操你妈的北京，奥你妈的运》「造成恶劣社会影响」，责令「太原市文化局加大检查力度」以及「严惩」云云。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%9B%BE3.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%9B%BE3.jpeg" alt="图3" width="550" height="344"></a></p>
+<p>删帖加恐吓之下，大陆舆论场外观已呈现「一片和谐」。中国民众反对的态度是基于个体和周边小群体切实利益的考虑，无形中也相当于协助维系了极权的命脉——经济。不过反对声音形成的对意识形态一致性的对冲力量也不失为好事。</p>
+<p><a title="申奥通稿" href="http://www.google.com/url?q=http%3A%2F%2Fweibo.com%2Fp%2F1001603870802608298947&sa=D&sntz=1&usg=AFQjCNHHAI3tvEuR2xv0t-ZHPdrhnmDFGA" target="_blank">官媒通稿</a>是打肿脸的胖子在画大饼，称：「（申奥成功）这一胜利对中国建设价值5万亿元的体育产业将是一个极大的促进，将创造数百万个就业岗位」。对此，自由港认为，基础工程建设项目的资金占用将使中小企业更加困难，对于衰退中的经济体，这样的项目是负担而不是机遇，资源的强行配置会使市场危机雪上加霜，冬奥申办成功有可能对中国经济实现最后一击。长远考虑不失为利好之势，毕竟经济发展的绩效是中共当局政权合法性的主要基础之一，经济衰败也是能有效挑战维稳机制的关键动因。</p>
+<p>墙外平台上谈论相关话题的内容暂时较少，部分民主人士也同样以促衰经济为立场表示支持奥运，「从终结极权统治的角度来看，不是坏事。面子上的钱花多了，维稳的钱，或投入经济和福利的钱就少了。从这个角度，不妨鼓励他们多折腾一些劳民伤财的事情」，媒体人北风表示。</p>
+<p>国际组织对中国申奥的反对理由只有一个：中国政府的政治举措所导致的各种弊端，没有资格获得主办权。<a title="保护记者委员会" href="https://www.google.com/url?q=https%3A%2F%2Ft.co%2FjmiX1oVaaw&sa=D&sntz=1&usg=AFQjCNH_zhZ7CrNPZNsD6eDM_HYdK59Egg" target="_blank">美国保护记者委员会</a>号召国际奥委会确保在北京2022年冬奥会上，记者能自由报道奥运会，包括敏感问题，如场馆的建设、可能出现的抗议和腐败指控。根据保护记者委员会的研究报道，中国是世界上监禁记者最多的国家，2014年至少有44位记者被拘押。保护记者委员会的亚洲项目协调人Bob Dietz说：「中国的新闻自由和人权纪录使之并不值得获得举办权。2022年冬奥会的成功不将只取决于场地或者收视率，还应该取决于奥林匹克宪章中所提到的对人格尊严的尊重」。</p>
+<p>保护记者委员会的相关推特帖截图发于上述反对申奥的大陆媒体人群聊中，很遗憾没有收到有效回应。难道以维护老百姓利益为宗旨而持反对意见的大陆媒体人，没有太多维护自身权益的意识？理想化的认为，微信群聊是墙内模式，他们为信息安全着想，在谨慎发言。不论如何，只有抗争，才能突破被管制的困境获得自由，只有提振抗争主动性，才有机会争取到恒久的权益。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E4%B8%A7%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E9%BB%84%E8%8B%B1%E8%B1%AA%E5%8F%8A%E6%9D%8E%E5%85%86%E5%9F%BA%E4%BA%B2%E5%AE%B6%E7%96%91%E6%B6%89%E8%B4%AA%E8%A2%AB%E6%8D%95/" target="cdt-mirror">法广｜全国政协黄英豪及李兆基亲家疑涉贪被捕</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2012-03-30_HongKong_SUNHUNGKAI.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2012-03-30_HongKong_SUNHUNGKAI.jpg" alt="资料图片：香港廉政公署外观。摄于2012年3月12日 图片来源：路透社/Tyrone Siu" width="550" height=""></a><p>资料图片：香港廉政公署外观。摄于2012年3月12日<br>图片来源：路透社/Tyrone Siu</p></div>
+<p>全国政协委员黄英豪与香港亿万大富豪李兆基的亲家公徐传顺以及另一人，1日被廉政公署正式落案起诉，控告他们在2007年涉嫌透过上市公司海域化工的重组，向该公司前执行董事提供一份出任顾问的服务合约，作为该执董协助顺利收购的报酬；黄英豪另被控在2009年用认股权向同一人行贿，作为对方参与收购金饰连锁店“金至尊”5间附属公司的报酬，被告暂准保释，案件周三提堂。</p>
+<p>黄英豪被视为梁振英的支持者，去年参加保普选反占中大联盟发起签名运动，之后又以基金信托人身份捐款50万元予警察福利基金支持警方。</p>
+<p>廉署的新闻稿指出，已正式落案起诉Perfect Ace Investments Limited（PAIL）现职董事、52岁的黄英豪，及两名前任董事，包括恒基地产老板李兆基次子李家诚的岳父、61岁徐传顺，及62岁的尹应能。3人同被控一项向代理人提供利益罪名，涉嫌违反《防止贿赂条例》；黄另被控一项相类罪名。有关罪名最高可被判罚款50万元及监禁7年，并须按法庭指示，将收取的利益支付予法庭指示的人士或公共机构。三名被告将于下周在东区裁判法院应讯，待案件转介区域法院进行答辩。</p>
+<p>廉署表示，PAIL与上市公司海域化工集团有限公司、其临时清盘人及一间会计师事务所，于2007年10月达成重组协议，重组于翌年9月完成。PAIL成为海域化工主要股东，黄英豪就成为海域化工主席，而协助收购的海域化工执行董事就留任。海域化工于2009年1月7日改名为香港资源控股有限公司。</p>
+<p>香港资源随后与当时上巿公司金至尊珠宝控股有限公司的临时清盘人商议后，于2009年7月向金至尊收购其5间附属公司。</p>
+<p>首项控罪指黄英豪、徐传顺及尹应能涉嫌约于2007年11月1日，在海域化工重组期间，向该名执行董事提供利益，即作为PAIL顾问的服务合约，以此作为该执董履行和行使PAIL或海域化工董事局可指派、赋予或指示的职责及权力的报酬。</p>
+<p>另一项控罪指，黄英豪涉嫌约于2009年8月，以认股权行贿同一名执行董事，提供以180万元（港币，下同）认购1500万股香港资源优先股的1元认股权，作为对方参与香港资源收购金至尊5间附属公司的报酬。翻查资料，当时香港资源每股市值约1.33元，换言之该董事可以用180万元，换取当时市值接近2000万元的香港资源优先股。</p>
+<p>据海域化工在2006年及2008年的3张公告显示，海域化工有3名执行董事，前联合交易所执行副总裁许浩明是其中之一，当年协助黄英豪进行收购工作，亦是唯一由海域化工转为香港资源后仍然留任的执行董事。许于去年病逝。</p>
+<p>廉署于2011年已就本案展开调查，历时四年至今始提出起诉。</p>
+<p>黄英豪出身“爱国”世家，父亲黄乾亨在中国改革开放初期已获北京委任做公证律师，可在港处理涉内地法律事务，并于2001年获港府授金紫荆星章。</p>
+<blockquote><p><em><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2014/10/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%86%8D%E5%8F%91%E6%96%87%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E3%80%81%E6%9D%8E%E5%85%86%E5%9F%BA%E7%AD%89%E9%BD%90%E5%8F%8D/">凤凰网｜新华社再发文：李嘉诚、李兆基等齐反“占中”</a></em></p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E9%BB%84%E8%8B%B1%E8%B1%AA%E5%8F%8A%E6%9D%8E%E5%85%86%E5%9F%BA%E4%BA%B2%E5%AE%B6%E7%96%91%E6%B6%89%E8%B4%AA%E8%A2%AB%E6%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2/?category=18271" rel="tag">廉政公署</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%86%E5%9F%BA/?category=18271" rel="tag">李兆基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E8%A2%AB%E5%AE%A0%E5%B9%B8%E4%BA%86%E7%9A%84%E5%8C%85%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B/" target="cdt-mirror">【网络民议】一个被宠幸了的包子的故事</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/01/9fe26948jw1ecuns0ak1tj218g165qfl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/01/9fe26948jw1ecuns0ak1tj218g165qfl.jpg" alt="变态辣椒：包大人" width="500" height="474"></a><br><em>（“包大人” by 变态辣椒）</em></p>
+<p><strong><a href="http://news.163.com/15/0801/13/AVUFV8GH0001124J.html">每日经济新闻｜庆丰包子铺拟上市 包子研究院将落成</a></strong></p>
+<blockquote><p>“到2020年，庆丰包子铺要在外埠建设五大物流基地，连锁门店数量计划发展到1000家。”7月16日，北京庆丰包子铺总经理高文慧在接受北京商报记者专访时，首次披露了庆丰未来五年的发展战略。为支撑市场扩张计划，继近期设立运营中心后，下月初，庆丰管理学院、包子研究院也将相继落成。高文慧还透露，庆丰包子铺计划通过借壳上市的方式登陆新三板，借助资本力量实现更大发展。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/n/LifeTime?from=feed&loc=at" target="_blank">@LifeTime</a>: 庆丰包子上市会累死证监会：1）单独取消涨停板限制。2）单独禁止做空。3）财报只能做机密文件。4）股价只能涨不许跌。5）国家队专门基金保驾护航。<img title="[晕]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif" alt="[晕]"></p>
+<p>@William-Lin324：接下来就是国安部把麦当劳肯德基列入外国敌对势力，建立肠胃防火墙。共青团抵制吃洋快餐。舌尖上的中国改名舌尖上的庆丰包子</p>
+<p>@阳光飘渺无痕：将来一定是天价牛股！试问谁敢做空包子？不要命的就试试！</p>
+<p>@在日落以前：一人得道 包子个跟着升天……..</p>
+<p><a href="http://www.weibo.com/2407268715" target="_blank">@小楼梧桐夜听雨</a>：壮哉我包<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@换个昵称和头像：研究些什么？用什么面粉和面？包子皮擀薄好还是厚点好？包子馅儿用什么材料好？………突然觉得可研究的东西太多了</p>
+<p>@海鱼儿66：研究包子？先研究一下自家的为何现在挺难吃吧！</p>
+<p>@丑陋裁判：清华、北大分别设立包子专业，培养包子博士。一毕业，各省市政府机关、各大军区抢着要，成为第一热门专业。</p>
+<p>@ZZ-What：包子研究院?! 比贴膜还专业啊</p>
+<p>@趟子手翟进：是不是也考虑学孔子学院一样海外建校招生？</p>
+<p>@黑夜黑眼睛2010：撤回孔子学院，把庆丰包子推向世界。</p>
+<p>@老康AT泥轰：包子治国思想研究院</p>
+<p>@严戈刀：蛤蟆一上天，叫月亮（蟾蜍）；包子一上市，叫股票。</p>
+<p>@子木成林：一定要找长得像包子那哥们做包子</p>
+<p>@连伊泪1988：怎么能这么舔腚</p>
+<p>@时光取名叫匆匆：以后习大上个厕所拉个屎或尿个尿那家马桶公司也能借势这样了～</p>
+<p>@蒋献磊：戴着官帽的包子就是比狗也不理的好吃</p>
+<p>@晃晃悠悠同学：真他妈的，不敢相信这个年代还有这种事情</p>
+<p>@李不白的空间: 这是一出讽刺剧。</p>
+<p>@五台憎人：万一以后的某届领导不喜欢吃包子，而喜欢吃棕子，哪已经上市的包子会如何？</p>
+<p>@毛豆刷屏控：门口记得挂黄马褂！</p>
+<p>@桌子318：一个被宠幸了的包子的故事……</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E8%A2%AB%E5%AE%A0%E5%B9%B8%E4%BA%86%E7%9A%84%E5%8C%85%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">庆丰包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BF%84%E6%83%B3%E5%85%B3%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2-%E5%A6%82%E6%AD%A4%E5%AF%B9%E5%BE%85%E6%88%98%E7%95%A5%E4%BC%99%E4%BC%B4/" target="cdt-mirror">美国之音｜俄想关孔子学院 如此对待战略伙伴</a>
 </h2>
 <p><p>虽然俄罗斯与中国关系不断密切，但孔子学院在俄罗斯却遭遇麻烦。俄罗斯检察官最近起诉孔子学院违法，要求关闭孔子学院并把这家中国官方支持的机构定性为外国代理人。俄罗斯媒体说，这是对中国软力量的强硬回答。</p>
@@ -519,82 +604,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B9%9B%E8%8B%A5%E7%A7%8B%E6%B0%B4%EF%BC%9A%E6%9C%89%E5%A4%9A%E5%B0%91%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">湛若秋水：有多少被拐女子还在继续“感动中国”</a>
-</h2>
-<p><p>这几天网上热议被拐代课女教师郜燕敏的经历，再次引起公众对被拐卖妇女的关注，经友人提醒，又看到了一个“感动中国”的人物事迹，主人公也是位女子，她就是福建省安溪县龙门镇龙美村村主任邓美华。有关邓美华的事迹，《泉州晚报》2001年6月7日的文章说的比较清楚，现照录如下：</p>
-<p><strong>“外来妹”村主任</strong></p>
-<blockquote><p>老区的新鲜事真不少。<strong>10年前，有个女孩被骗到山高水冷的基点村龙美村。如今，这位“外来妹”成了村主任，成了全国先进个人</strong>——安溪县龙门镇的龙美村在革命年代是个不寻常的地方。<strong>但同样吸引我们前往的是，听说这个村的村主任邓美华是个“被拐骗来的外来妹”，还是全国先进个人。</strong>我们很想弄清楚，为什么反差那么大的事会发生在同一个人身上。</p>
-<p>邓美华操着一口地道的龙门腔闽南话，不知情的人根本就想像不出她是个“外来妹”。这个三十来岁的传奇女子并不愿重提伤心往事，但在我们的“旁敲侧击”下，她还是打开了话匣，只是眼里不时有泪花闪现。</p>
-<p>邓美华是三明市人，家境殷实。她1991年高中毕业后在家乡一所小学任代课老师，次年，带着“闯世界”的梦想到厦门特区打工。在那里，她认识了男友（现在的丈夫）。不久，单纯的邓美华带着美好的遐想随男友回乡探亲，没料到，这一去改变了她的一生。</p>
-<p>邓美华怎么也想像不出男友的家会是这般模样。当时上山的公路还未修，从龙门镇政府所在地到男友家的龙美村溪湖店角落，就要走2个多小时的山路。这个村太穷了，见不到一台电视机，一部电话，连一瓶酱油也见不到，村里甚至连找个能读信的人都难。<strong>她想回头已经太难了，她不仅被看住出不了山，就是连通信的权利也失去了。那几年，她父母四处寻访，在报纸、电视台刊发寻人启事，仍没有任何消息……</strong><strong>山里人在贫困中表现出的无可奈何的野蛮伤害了美华，但同时，他们纯朴的善良与信任却又深深地打动了美华。</strong>美华动情地回忆说，当时男友的祖母把全家十几口人召集起来训示：美华是全家最有文化的人，今后所有的人都要听她的，不许对她不好……</p>
-<p><strong>在这样的两难境地，在爱与恨之间，善良的美华选择了理解和坚强。</strong>她决定扎根山里，要在向命运挑战中实现自己的人生价值。</p>
-<p>接下去的几年，她做的一件件事使她一步步走进村民的心里，很快成了村里的主心骨：溪湖店自然村，外出没有一条像样的路。她发动村民投工投劳，向镇政府要求资金支持，写信动员华侨捐助，花了1年多时间，把5公里长的水泥路修了起来。<strong>村里的小学缺乏教师，她义不容辞地前往任教。看到学校长期寄居破旧的祖厝，她想方设法把新校舍建了起来。</strong></p>
-<p>山里信息闭塞，观念守旧，发展经济十分困难。她率先养山羊、种芦柑、开塘养鱼，带动许多村民发展种养业，村民收入大为改观。计生工作被称为“天下第一难事”。她主动挑起计生中心户长重担，带头办了独生子女证，挨家挨户谈心，日夜奔波在深山，为村里的计生工作争了先……</p>
-<p>在各级党组织和政府的关心下，邓美华一步一个脚印地成长起来。1995年，邓美华加入中国共产党，1996年起担任村妇女主任……2000年10月在村级换届选举中，她以高票当选为龙美村村主任。同年，她被评为全国优秀中心户长。她还曾经在安溪县“千万农家女，百万新技术”知识竞赛中获得第一名；<strong>县计生协会把她的先进事迹编成板鼓说唱《夸咱协会组长邓美华》搬上舞台……</strong></p>
-<p>望着干练成熟的邓美华，我们理解了这样一件事：1995年她父母得知她的信息而赶到龙美村，临走时流着泪一千个不放心；而不久前再次探望女儿的父母却舒心地笑了。他们说：“现在美华是儿女中最让我们放心的一个。”·（本报记者王家声杨杰）</p></blockquote>
-<p>在网上继续搜索，邓美华的先进事迹可相当不少，头上的光环也很耀眼:泉州十大杰出青年，感动泉州十佳好儿媳，全国先进个人，她的事迹被泉州光明网、和谐中国网的魅力女性专栏登载，全国妇联宣传部推荐……可是，从如上的新闻里，我们似乎嗅到了一些气息，尽管当事人和记者都已经巧妙曲笔，但依然能读出来：这是一个当初被拐的女子！</p>
-<p>果然，在和与其相识的友人交谈后，证实了这一情况：邓美华当年高中毕业被人贩子以招工为由拐卖到现在的所在地，卖家寸步不离监禁，直到她生下儿子，到儿子很大时，邓美华外出开会，她的家人还一直担心她会跑掉。但凡认真读了上述新闻的人，就不难猜出记者这段报道的背后隐含着怎样辛酸的故事，可是，<strong>无论是当地政府，抑或采访了邓美华的媒体，似乎都不当这是个违法案件！甚至还津津乐道由拐骗女到道德模范的过程！</strong></p>
-<p>友人继续介绍说：“以前安溪是拐卖妇女的重灾区。女孩被人贩子拐来卖掉。买家无一不是采取监禁、毒打、强奸的办法，直至生下小孩才有走出家门的些许自由，真的惨无人道。”事实上，中国大地还有多少这样的被拐卖女子在遭受着同样甚至更残忍的折磨。友人说，她从前曾参与一起解救女子被拐案件，女孩拼死反抗，被双手横绑在扁担上强奸，为打垮她的意志，连公公叔伯都参与轮奸。这种地方一般都是极其落后贫困的地区，交通不便，往往是逃跑的女子还没跑到下个路口早被追回来。村里很多人的老婆都是这样买来的，所以遇到买来的女子逃跑，全村同仇敌忾，一起帮助追赶，找回来就是毒打，下次才不敢跑。而解救的时候，这些村民有时连警车都敢包围和攻击。友人感叹道：“那种愚昧的凶残没有经历过是无法想象的。“</p>
-<p><img src="http://ww3.sinaimg.cn/large/5f5480d2gw1eukxm30fohj20gl0870tm.jpg" alt=""><br>
-（图：山东潍坊一女子遭拐卖，裸体被绑十五年，精神失常）</p>
-<p>这些天来看到和听到的有关拐卖女性的案例实在是让人义愤填膺，被拐女子的悲惨命运令人动容，即使有个别如上文提到的邓美华这样算是凭个人的努力过上了稍微不错的生活，但能因此抹杀掉她的悲惨遭遇吗？那些阳光下的罪恶因此就销声匿迹，被和谐在一片”感动“中了吗？按照现在的逻辑，<strong>拐卖有理，人贩子无罪，受害者必须像斯德哥尔摩综合症患者一样感恩戴德，还得被敲骨吸髓榨油——这就是我们的和谐观吗？这就是“家和万事兴”，“十佳好儿媳”吗？</strong></p>
-<p>邓美华只不过是千千万万被拐女性中稍微”幸运“些的，其实，即便是在今天，很多地方恶势力的强大是超乎我们想象的，特别是山高皇帝远的穷乡僻壤，那里没有经过文明洗礼的愚昧、野蛮和凶悍摧残了多少女孩的身心。多年前就看到很多报道，解救被拐卖妇女时遭当地村民的武力抵抗，而女子也往往表示愿留下。于是有人就认为，应该尊重被拐对象的“自愿”。但问题是，这种“自愿”到底是真心的，还是被洗脑的结果抑或是无奈选择？</p>
-<p><img src="http://ww4.sinaimg.cn/large/5f5480d2gw1eukxnhw2rnj20ay08egmj.jpg" alt=""></p>
-<p>所以，解救应同时伴随良好的心理辅导和教育，并且如果条件允许的话，应该拿出一部分对人贩子的罚款和财政拨款来进行经济支持。如果只是将被拐对象简单放回家乡，面对落后地区愚昧的道德伦理观下的指指点点，被拐女性很难抬头做人，自然宁可留在被拐地去“建设”贫困地区，然后被当做道德楷模来给予嘉奖。这世上还有更冤苦的命运吗？</p>
-<p><strong>政府该认真作为了，对被拐女性的解救，一个是对那种常年全村作为拐卖女性买家的地区，不能法不责众，要从严惩处；再一个，就是要给予被拐女性相当的经济支持，可将对买主和人贩子的罚款，加上国家补贴，以及民间公益组织的经费用来资助被害人去学习技术手艺，不用再回原籍。</strong></p>
-<p><strong>而各级地方政府和主流媒体，请停止对那些道德榜样无休止的煽情，本国的“感动”、“最美”以及各种过分的“歌颂母亲”，都大半用心险恶，要将人架在火上烤。包括对艺术家、诗人、科学家们受穷的歌颂。道德的高帽下是无尽的恶劣攫取、索取。</strong><strong>这种无视违法行为，无视被拐卖女子悲惨经历，还对其无偿的付出作“感动中国”式的歌颂，实在是全无心肝，实在是犯罪行为的帮凶——对人心的麻痹就是对犯罪行为开绿灯。</strong></p>
-<p>网友<a href="http://www.weibo.com/n/%E6%B2%A1%E6%9C%89%E6%98%B5%E7%A7%B0%E5%91%90">@没有昵称呐</a> 曾说：“对医生、老师等行业无偿加班的赞美，违背人性推崇舍己利人的所谓医德、师德；见义勇为不应受偿；遭遇诈欺就用博大的胸怀感化对方；被家暴的妻子应放下芥蒂拥抱家暴丈夫……<strong>都在暗示一句话：’你过得不好是你自己的错，这个社会救不了你，你要用大爱来感动世界从而得到救赎’。</strong>“可谓是对这种所谓的“感动中国”行为的一个很好说明。<strong>用歌颂来掩盖罪恶，将被侮辱与被损害的受害者的所谓“奉献”当做道德行为，这样的道德楷模，这样的“感动”不应再出现了！</strong></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%B9%9B%E8%8B%A5%E7%A7%8B%E6%B0%B4%EF%BC%9A%E6%9C%89%E5%A4%9A%E5%B0%91%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD%E5%A6%87%E8%81%94/?category=18271" rel="tag">全国妇联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%90%E5%8D%96%E5%A6%87%E5%A5%B3/?category=18271" rel="tag">拐卖妇女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E5%B7%A6%E4%B8%AD%E5%8F%B3%EF%BC%9Ahu-hu-hu/" target="cdt-mirror">王左中右：hú hŭ hŭ</a>
-</h2>
-<p><blockquote><p><a href="http://www.weibo.com/2836149552/CtyHMgQNK">@王左中右</a>：当年也是不容易#字新闻#</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/a90c3530jw1eul7zlhnvzj218g18gajt.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/a90c3530jw1eul7zlhnvzj218g18gajt.jpg" alt="胡虎虎" width="500" height=""></a></p>
-<p><strong><a href="http://china.caixin.com/2015-07-30/100834676_all.html">财新网｜郭伯雄沉浮</a></strong></p>
-<blockquote><p>在2007年10月-2010年10月期间，郭伯雄和徐才厚是中央军委仅有的两名副主席，执掌230万中国人民解放军的日常军政管理大权，是这支世界上最庞大军队事实上的指挥官与政委。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://www.weibo.com/Fontainebleauer" target="_blank">Fontainebleauer</a>：我来解释一下，胡被两只<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8190.png" alt="" width="20px" height="20px">架着，被架空了。。</p>
-<p>heyHP：胡 下面都是虎～</p>
-<p>yihong9：一胡两虎三军头。</p>
-<p>天空之城qdyq00：哎，确实不容易啊~~湖再大也没有江大~</p>
-<p>KwokKinMin：两虎架一胡 ，十年啊，人生有几个十年？原以为站在紫禁城之巅，却只是个空中楼阁，想必先帝的这十年过得是郁郁寡欢啊</p>
-<p>0灯芯糕0：hu总打入敌人内部十年[哈哈]</p>
-<p>1984年的动物农场：都是影帝啊，不容易哈哈哈哈</p>
-<p>limonade：@BBOONN há há há[汗][汗]</p>
-<p>社会主义产物：所以啊，8年没业绩，能扛下来也不错了</p>
-<p>章海波：到底是听海观涛还是好好学习？</p>
-<p>莫名其妙的诱惑168：原来是派两只老虎盯着皇上搞垂帘听政，谁这么厉害啊？</p>
-<p>盛哞哞：十年能扛下来也是不容易，两只虎架着，还有一群影帝在身边，不容易</p>
-<p>未名博雅：胡虎生危。。。</p>
-<p>梦见撒：THAT是另一个英宗，THIS也许是另一个崇祯。</p>
-<p>李宇晖4: 别再查了，再查就是“虎，虎，虎”了。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E5%B7%A6%E4%B8%AD%E5%8F%B3%EF%BC%9Ahu-hu-hu/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E8%80%81%E8%99%8E/?category=18271" rel="tag">老老虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A6%E6%B6%9B/?category=18271" rel="tag">胡锦涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3/" target="cdt-mirror">【真理部】有关“郜艳敏：从被拐女成最美乡村女教师”</a>
-</h2>
-<p><p>有关《郜艳敏：从被拐女成最美乡村教师》这一旧闻，各网站要注意舆论把控，对借机攻击政府和社会制度的恶意言论予以坚决删除。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9A%E4%BB%8E%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">最美乡村女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐乡村女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -606,7 +615,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E7%BE%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsgmenuw8l4my.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -616,5 +625,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E7%BE%8E
                 <td></td>
                 
         
-        <td><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/></td>    </tr>
 </table>

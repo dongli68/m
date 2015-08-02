@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d222mead95cxb5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1niws1nl7ekmj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d1niws1nl7ekmj.cloudfront.net">https://d1niws1nl7ekmj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1niws1nl7ekmj.cloudfront.net">https://d1niws1nl7ekmj.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9D%A2%E7%98%AB%E6%90%9E%E4%B8%AA%E5%A4%8F%E5%A5%A5%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3-%E5%8C%85%E5%AD%90%E6%90%9E%E5%86%AC%E5%A5%A5/" target="cdt-mirror">【河蟹档案】面瘫搞个夏奥还可以理解, 包子搞冬奥简直脑残啊</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%85%B3%E6%B3%A8%E6%B0%91%E7%94%9F%E7%9A%84%E6%B3%95%E5%AD%A6%E7%A1%95%E5%A3%AB">关注民生的法学硕士</a>：北京再一次申奥成功，不少人都狂欢，可是我狂欢不起来。一个只知道盲目狂欢，只知道拼命对外展示“阳光”，只知道拼命对外援助，而对于自己国家的民生问题听之任之的民族有什么值得狂欢的。有那么多钱办奥运会，为何不多关心一下那些还处于水深火热的最底层的老百姓？<br><a href="https://freeweibo.com/weibo/3870759283656983" target="/weibo/387">2015年07月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%8E%84%E5%A5%98%E5%86%8D%E4%BF%AE%E5%9C%86">玄奘再修圆</a>：向莉 ：2008年北京奥运会开幕，当年奥组委主席陈希同在高墙里； 2010年上海世博会开幕，当年申博主席陈良宇在高墙里； 2011年深圳大运会开幕，申办主席许宗衡在高墙里； 2014年南京青奥会开幕，申办主席季建业在高墙里，后来杨卫泽也进去了； 2022年北京冬奥会开幕，谁将进高墙？<br><a href="https://freeweibo.com/weibo/3870771086228189" target="/weibo/387">2015年07月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%B2%89%E7%BA%A2%E8%89%B2%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%93%A3-">粉红色玫瑰花瓣-</a>：人家避之犹恐不及，我们趋之若鹜，这是为哪般？//*<a href="https://freeweibo.com/weibo/%40%E7%8E%8B%E7%A6%8F%E9%87%8D">王福重</a>：阿拉木图，只是托儿。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11145.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11145.jpg" alt="111" width="530" height="468"></a><br><a href="https://freeweibo.com/weibo/3870760084475559" target="/weibo/387">2015年07月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%E5%BE%AE%E5%8D%9A">无穷小亮微博</a>：这条被屏蔽了，看来是真的了。 相关阅读｜《<a href="https://commondatastorage.googleapis.com/letscorp_archive/archives/92797">墙外楼｜三峡成坝我不语，今日终于到海陀：微博盛传北京冬奥会新建高山滑雪中心将不惜破坏海坨国家自然保护区</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11141.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11141.jpg" alt="111" width="393" height="699"></a><br><a href="https://freeweibo.com/weibo/3870786802605216" target="/weibo/387">2015年07月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%82%B1%E5%B2%B3%E9%A6%96_">邱岳首_</a>：扒衣节慰问一下长期被敌人重兵围困的前军委胡主席。[挤眼]//*<a href="https://freeweibo.com/weibo/%40%E6%B1%9F%E6%B9%96%E4%BE%A0%E5%AE%A2%E5%90%B4%E4%BB%B2%E6%B9%9B">江湖侠客吴仲湛</a>：SPAM 《战斗在敌人心脏》电影名。相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/07/%E7%8E%8B%E5%B7%A6%E4%B8%AD%E5%8F%B3%EF%BC%9Ahu-hu-hu/">王左中右：hú hŭ hŭ</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%E7%BB%99%E4%BA%88%E9%83%AD%E4%BC%AF%E9%9B%84%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%A4%84%E5%88%86/">新华网 | 中共中央决定给予郭伯雄开除党籍处分</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11146.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11146.jpg" alt="111" width="590" height="496"></a><br><a href="https://freeweibo.com/weibo/3870974585763699" target="/weibo/387">2015年08月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%B9%A6%E7%94%9F%E8%80%81%E7%94%B0">书生老田</a>：有网友说今晨发的另一条微博看不到了，小秘书，您们辛苦了，大周末都起这么早。相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/07/bbc%EF%BD%9C%E9%83%AD%E4%BC%AF%E9%9B%84%E4%B8%8E%E5%BE%90%E6%89%8D%E5%8E%9A%E7%9A%84%E7%9B%B8%E5%90%8C%E4%B9%8B%E5%A4%84/">BBC｜郭伯雄与徐才厚的相同之处</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/11143.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/11143.jpg" alt="111" width="515" height="377"></a><br><a href="https://freeweibo.com/weibo/3870929882660697" target="/weibo/387">2015年08月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%AE%B5%E4%B8%87%E9%87%91%E5%BE%8B%E5%B8%88">段万金律师</a>：军队这篇针对郭伯雄的稿子颇有朝鲜官方针对张成泽的味道，不知道谁效仿谁？作为一个律师，我只能书生气的希望郭享有刑诉法规定的权利，公平公正接受审判。相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/08/%E5%89%8D%E6%B5%B7%E8%A7%82%E5%AF%9F-%E4%BB%8E%E5%BE%90%E6%89%8D%E5%8E%9A%E5%88%B0%E9%83%AD%E4%BC%AF%E9%9B%84%EF%BC%9A%E7%8E%8B%E5%8D%A0%E9%98%B3%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/">前海观察 | 从徐才厚到郭伯雄：王占阳“颜色革命”论完胜军方</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/111.jpg" alt="111" width="385" height="685"></a><br><a href="https://freeweibo.com/weibo/3870446229333108" target="/weibo/387">2015年07月30日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%8C%8E%E5%A4%B4%E9%A9%AC%E9%94%A1%E8%81%AA">猎头马锡聪</a>：前几天推出释永信是为了今天的郭伯雄，我党伟光正啊！[哈哈][哈哈][哈哈]<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1111.jpg" alt="111" width="565" height="376"></a><br><a href="https://freeweibo.com/weibo/3870449903356215" target="/weibo/387">2015年07月30日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9D%A2%E7%98%AB%E6%90%9E%E4%B8%AA%E5%A4%8F%E5%A5%A5%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3-%E5%8C%85%E5%AD%90%E6%90%9E%E5%86%AC%E5%A5%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90/?category=18271" rel="tag">包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%80%81%E8%99%8E/?category=18271" rel="tag">大老虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A3%E5%BB%BA%E4%B8%9A/?category=18271" rel="tag">季建业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%AE%B6%E7%95%8C/?category=18271" rel="tag">张家界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%8D%AB%E6%B3%BD/?category=18271" rel="tag">杨卫泽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%BE%E5%B1%B1%E5%A4%A7%E6%B5%B7%E9%99%80/?category=18271" rel="tag">松山大海陀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A2%E5%A3%AB%E9%A1%BF/?category=18271" rel="tag">波士顿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E5%A5%A5%E6%88%90%E5%8A%9F/?category=18271" rel="tag">申奥成功</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%A8%8E%E4%BA%BA/?category=18271" rel="tag">纳税人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A6%E6%B6%9B/?category=18271" rel="tag">胡锦涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA/?category=18271" rel="tag">自然保护区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B8%E5%AE%97%E8%A1%A1/?category=18271" rel="tag">许宗衡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E5%87%BA%E7%94%B3%E5%8A%9E/?category=18271" rel="tag">退出申办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E6%8B%89%E6%9C%A8%E5%9B%BE/?category=18271" rel="tag">阿拉木图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%B8%8C%E5%90%8C/?category=18271" rel="tag">陈希同</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%89%AF%E5%AE%87/?category=18271" rel="tag">陈良宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A2%E7%98%AB/?category=18271" rel="tag">面瘫</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E4%B8%A7%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/" target="cdt-mirror">自由港｜丧命在于折腾</a>
 </h2>
 <p><p><em>作者：Sylar</em></p>
@@ -586,24 +605,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%9D%A0%E5%8D%B0%E9%92%9E%E7%A5%A8%E7%BB%B4%E7%A8%B3%E8%82%A1%E5%B8%82%E9%80%A0%E6%88%90/" target="cdt-mirror">美国之音｜张欣：中国政府靠印钞票维稳股市造成通胀风险</a>
-</h2>
-<p><p><strong>编者按：这是美国托列多大学经济系教授兼亚洲研究所主任张欣为美国之音撰写的评论文章。这篇评论不代表美国之音的观点。转载者请注明来自美国之音或者</strong><strong>VOA。</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/000053133_piclink-1.jpg" alt="中国股市暴跌" width="550" height="310">最近中国股市经历了世界金融史上空前的震荡。一个月内先从沪指5200点暴跌了33%到3500点, 然后在中央财经领导小组的决策下，政府动用货币财政行政司法等全部手段暴力护盘救市，这几天沪指又回弹15％到4000点。表面上，政府的护盘有效了。实际上并不是那么回事。政府的做法实际是靠印钞票来“维稳”股市。这个饮鸩止渴，将短痛换成长痛的措施，形成了下一轮的通胀风险，后患无穷。</p>
-<p>决定股价的最终因素只是企业的盈利状况，其它因素都是暂时的，假象的。目前将沪指“托”回到4000点的关键，是政府砸钱让券商购入抬高并不实际的股价。此次托市的目标是4500点，官媒也宣传要股民在4500点下“放心持股”。聪明些的股民知道到4500点官方也不会守，因此保险些他们在4000点就兑现。这就形成了目前在4000点上下股民不断抛售，政府不断砸钱维持的僵持。</p>
-<p>4000点仍然是个不切实际的泡沫。陈志武批评官媒煽动“4000点只是牛市开始”非常不负责任，完全和经济基本面脱离。经济学家普遍认为中国股市的真实股价在沪指2000－3000点。瑞银资深金融家Magnus预测沪指将摔下去到2500－2800点，他的道理很显而易见，“泡沫从哪里涨上来就摔回哪里去”。沪指在2014年前稳定在2100点左右有5年，可见和真实均衡股价不远。2014年中国经济基本面恶化，企业盈利下降，真实股价怎么反而上升呢？真正原因是2014年开始政府的积极鼓励和干预股市，制造了这轮背离真实股价的股市泡沫。</p>
-<p>现在维稳股市的“法宝”是政府砸钱用目标价格买进抛售的股票。这样做短期内有效，但政府必须要有足够的钱砸进去。目前沪深两市市值约40万亿元，由此推算泡沫为16万亿元。去除禁止减持非流通部分等等各种因素，算一半，托市要8万亿元资金。假如配资或乘数为2，政府需要准备4万亿元现金。彭博社报道中国政府已经拿出4800亿美元即3万亿人民币作为护盘资金。短期内虽可敷用，但长期也不够。</p>
-<p>这些钱从哪里来，造成什么经济后果？政府钱的来源说到底只有两种渠道，或是纳税人直接间接缴的税收，或是央行印钞票。财政部出5000亿元，其官网说如要护盘只有股价跌到合理价格时才购进，可见部长楼继伟知道现在还是泡沫，算算财政赤字已经很大，他只得务实。因此3万 亿元中的绝大部分钱，靠的是央行印钞票。具体做法是，如华尔街日报报道，“央行向中证金公司提供基础货币，中证金然后向券商放贷，再由券商向投资者提供融 资买入股票”。这是央行资金第一次直接投向非银行机构，购买的不是政府债券而是风险股票。这个货币政策做法经济学上是很犯忌出轨的。它将造成中国经济下一 轮通胀，还会有其它风险损失。</p>
-<p>中国货币供应总量M1为36万亿。为了维稳泡沫股市增发货币2.5万亿元，仅此项会推高通胀率大约5-7个 百分点。这些央行印的钞票并不会安静地留在股市里，也很少形成对中国实体经济和一般消费的刺激。这是因为赚钱的一般是投资者。他们从股市套现后将寻找更可 靠的投资渠道。因此，这些钱首先会从股市流向房地产， 将一二线城市地价房价和租金进一步推高，使经济结构进一步扭曲。地价上涨又推动蔬菜副食品和服务价格上涨。为了寻找避风港，资金将还进一步外流，压迫人民 币贬值。最近广泛报道的北上广深房价上涨、猪肉价格暴涨，到银行兑换美元数量剧增等，说明通胀已经初露端倪。假如这3万亿元还填不满这个泡沫窟窿，那么今年底明年初通胀的后果会更严重。</p>
-<p>通货膨胀损害经济健康发展，使收入分配恶化，穷人平民生活更困难。中国政府应该做的是尊重股市市场规律，让股价回归真实，更不能用印钞票来托一个泡沫。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%9D%A0%E5%8D%B0%E9%92%9E%E7%A5%A8%E7%BB%B4%E7%A8%B3%E8%82%A1%E5%B8%82%E9%80%A0%E6%88%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -615,7 +616,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d222mead95cxb5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -625,5 +626,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d1niws1nl7ekmj.cloudfront.net">https://d1niws1nl7ekmj.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d1niws1nl7ekmj.cloudfront.net">https://d1niws1nl7ekmj.cloudfront.net</a><br/><a href="https://d3s1jkdnk9kbhm.cloudfront.net">https://d3s1jkdnk9kbhm.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://di93ylmnqzw4d.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8A%E5%AE%98%E4%B9%B1-%E5%B0%B4%E5%B0%AC%E7%9A%84%E7%94%B0%E5%9B%AD%E7%89%A7%E6%AD%8C/" target="cdt-mirror">上官乱 | 尴尬的田园牧歌</a>
+</h2>
+<p><p>前天早上，我在睡眼朦胧中，收到我妈的短信——我妈知道这个时候我肯定还没有连上wifi上微信：“乌鸦嘴，十只小鸭被蛇或者老鼠吃光了。”我瞬间睡意全无，整个清晨的氛围都被这个有点惊悚的田园牧歌感染了。她说的乌鸦嘴是我，她当初打算在乡下盖间小房子，养点鸡鸭种点蔬菜，农夫山泉有点田，以打发退休时光的时候，我就不怀好意地打击她：“蛇都知道：人少，鸡多，速来。”</p>
+<p>我知道我们的调侃中，一直漂浮着一些心酸——她心疼那些夭折的小鸭仔，在她为数不多的养老金发放下来之前，十只小鸭并不仅是田园牧歌式的忧伤，还是笔实在的损失和伸手可触的挫败感。她在朋友圈转发的各种养生、社会、家庭鸡汤，最重要的作用，不过是把这些现实的窘迫与焦虑粉饰成小清新的田园牧歌。自己种的青菜干净而健康，另一层意思不过是经济适用假装逼格。现在乡村里的每一个老人妇孺，都喜欢说自己的作物“绿色”“生态”“有机”，他们并不知道有机的真正含义有多么苛刻，但他们知道，这个概念很受欢迎，是城乡二元化中作为弱势的一方的他们最大的自我安慰和优越感。</p>
+<p>要说农村生活没有改善，是不可能的。这里每家每户都享受着现代工业和市场流通的便利，再老旧的人家，堂屋里都摆放着电视机冰箱洗衣机微波炉，很多人还将以前的旱厕改为冲水厕所——因为养猪的人家剧减，厕所不需要连着猪圈。一半以上的人家有电脑，拿着手机走在田野里，从一个村子到另一个村子，手机几乎随时显示此处有可用wifi，连40多岁的媳妇手机上都装了wifi万能钥匙。可是，这仅仅是市场供求的结果。乡村的人情社会和权力结构并没有随着信息时代升级更新，而是一直一如既往地坚挺着。</p>
+<p>近几年，许多知识分子的议题都离不开故乡，我也在母亲准备退休之前才关注起这个我离别了十几年的小镇。十几年后，这里基本没有什么变化，小学时天天走的桥变成了危桥，立桩加杆限制车辆的高宽，老街依然买得到解放鞋，以前的亲戚长辈全部老了。最大的变化是山坡上的监狱。</p>
+<p>这座监狱因专门关押经济犯和落马贪腐官员而闻名。小时候，它在山坡顶上，屋顶隐约可见，神秘莫测。前几年，它高高的围墙和电网已经扩大到山脚，监狱大楼崭新宏伟，几十米一个哨岗，犯人数量扩充了不知道多少倍，却仍然有供不应求之势。前几日，一个同学告诉我，最近她老公在我老家镇上。我问在那里干什么，她隐晦地说：学习。我恍然大悟。她老公是搞金融的。那座监狱一直以来都被用作预防犯罪教育基地，教育了一批又一批金融从业人员、法学师生、官员，又收纳了一批又一批前金融精英和前人民公仆，容量扩大了几倍，不知道会不会修分部。</p>
+<p>前不久，朋友一群人在亲戚村子里拍摄一个广告片，新老村干部看见一队人扛着摄像机进村，以为是电视台，紧张得不得了，接连不断地给我妈打电话，问这帮人要干什么，是不是要把他们推上舆论的风口浪尖。我妈哭笑不得，喃喃道：心这么虚，在怕什么。</p>
+<p>我还参观过其他村子的选举，候选人只有两个，事实上只有一个，就是现任的村主任，他磕磕巴巴地读完演讲稿以后，大家就可以选他了。另外一个陪选的炮灰连讲稿都没有——即使有也然并卵，谁要选他，就拿不到30块钱一人的出场费。</p>
+<p>其实，所有关于田园牧歌的幻想，都如那一纸讲稿一样。母亲退休后，在镇上新建的公寓安了家，却总不满足，和土地割断联系的几十年让她找不到根，于是跑到危桥对岸的亲戚手中租下几分田角，在里面种土豆、青菜、花生。</p>
+<p>第一年，满田的花生即将饱满成熟的时候，一场十年不遇的大洪水冲破河岸，将花生田像文物一样埋在一尺厚的淤泥下，将这个别无所长唯有长年水患的县城第一次推上央视新闻。我妈说：“可惜我扯了那么久的草。”——为了实现她的绿色生态梦想，她坚持不用除草剂。</p>
+<p>其实我觉得现在我故乡的乡村已经够生态了，河岸、田野到处是成群的白鹭，喜欢悠然地站在水牛身上，站成美妙的图景；田里野兔成群，我妈都抓到过一只野兔仔，回家拿牛奶和水果养着；当然蛇也成群。这些可以在微信朋友圈装逼半年的美景，背后的凄凉逻辑却基本被无视：野兔多，白鹭多，是因为土地抛荒非常严重，因为年轻人们离开村庄，再也不回到土地上。白鹭增多还因为食物丰富——它们的食物主要就是泛滥每寸沟渠水田的福寿螺，这些十几年前被引入中国的肥硕生物，现在入侵到了故乡的每一寸水域，繁殖力恐怖，稻叶上、石头上，到处是一堆堆粉红色的卵，像一滩滩粉红色的痰。可因为它是很多寄生虫的宿主，加上肉质比田螺差得远，又上不了餐桌。</p>
+<p>我母亲的田园牧歌梦也一样。她在菜地里并没有得到满足，她还要在菜地边——荒废了十几年的老房子边，盖一座铁皮屋，只用来养鸡鸭，每天早上赶来喂食、捡蛋。可是她大概忘了这种老房子里经常有蛇出没，于是出现了开头那一幕。</p>
+<p>水灾和蛇劫并不是母亲田园牧歌梦全部的尴尬。就在她盖铁皮屋的当天，就有远房亲戚来找了“麻烦”。那个亲戚带着村主任，指着我妈的铁皮鸡圈，说：“这个屋顶呢，都盖到我的竹林这边来了。”她还用手比划出屋顶“侵占”的距离，侵占了她足足有接近20厘米宽，起码有一片竹叶那么远，我妈不得不抽掉一些瓦。</p>
+<p>那片竹林那亲戚并不使用，为什么如此计较这一绺边角呢？因为这片村子据说要建工业区，大家都在盼望征地赔款，村民第一次如此重视那个叫“产权”的东西，虽然这个征地的传说起码已经流传了6年，至今却一点迹象都没有。为着这个消息，每家每户都在平房上硬生生加了一层石棉瓦，或者在多年未问津的田里种上几颗树苗，结果石棉瓦都破得千疮百孔，树苗也争气地成林了，传说仍然只是传说，可是许多村民仍然和那个亲戚一样，谨慎地维护着那微弱的期望，就像维护那微弱的“产权”一样。</p>
+<p>维护土地是本能，因为土地不仅能生长出米面瓜果，还能生出真金白银。在本县其他的乡镇，有幸引进了项目的村子，土地早已面目全非，人与人之间也不再那么淳朴——或许淳朴本来就和“生态”一样是种标签，因为拆迁征地，农民和官员犄角相对，斗智斗勇，每天上演一出又一出对抗、上访、镇压、截访的剧目，包括我参观过选举的那个村子，以及这个国家更广泛的土地。而人们往往只为那萧条土地里长出的“生态蔬菜”而感动得泪流满面，却并不理会这片土地与人的真实期望。我永远记得，小时候，家族里名声很不好的表叔，娶了一个山区乡镇的漂亮老婆。那满口客家腔的女人对我说:“嫁给他,无非就图这儿是平坝,我再不用挑粪爬山梁了。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8A%E5%AE%98%E4%B9%B1-%E5%B0%B4%E5%B0%AC%E7%9A%84%E7%94%B0%E5%9B%AD%E7%89%A7%E6%AD%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%AE%98%E4%B9%B1/?category=18271" rel="tag">上官乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91/?category=18271" rel="tag">乡村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%80%81/?category=18271" rel="tag">生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B0%E5%9B%AD%E7%89%A7%E6%AD%8C/?category=18271" rel="tag">田园牧歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B3%E5%86%AC%E5%A5%A5%E6%AD%8C%E6%9B%B2%E3%80%8A%E5%86%B0%E9%9B%AA%E8%88%9E%E5%8A%A8%E3%80%8B%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F/" target="cdt-mirror">知乎｜为什么冬奥歌曲《冰雪舞动》很像《冰雪奇缘》主题曲？</a>
 </h2>
 <p><p><strong>问题：</strong>为什么北京申办 2022 年冬奥会歌曲《冰雪舞动》听起来很像《冰雪奇缘》主题曲？<br>
@@ -576,37 +600,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%88%B4
 <a href="https://chinadigitaltimes.net/chinese/2015/07/%E6%96%B0%E5%8D%8E%E7%BD%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%E7%BB%99%E4%BA%88%E9%83%AD%E4%BC%AF%E9%9B%84%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%A4%84%E5%88%86/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F/?category=18271" rel="tag">人民军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E9%A3%8E/?category=18271" rel="tag">作风</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%9B%BD%E6%B3%95/?category=18271" rel="tag">党纪国法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">国家主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BE%8B/?category=18271" rel="tag">纪律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE%EF%BC%9F/" target="cdt-mirror">【立此存照】我到底是不是侯聚森？</a>
-</h2>
-<p><p><strong>“我不是侯聚森”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%91%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE-copy.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%88%91%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE-copy.png" alt="我不是侯聚森 copy" width="525" height="636"></a><br><em>百度贴吧用户名一旦注册是无法更改的，所以贴吧里的@侧卫36只能是爱国青年侯聚森。</em></p>
-<p><strong>“那两段真的不是我骂的”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE6.png" alt="侯聚森6" width="550" height="178"></a><br><em>就如“我不是侯聚森”那般真实。（详见：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E7%9A%84%E7%B2%97%E5%8F%A3%E6%95%99%E7%A8%8B/">【立此存照】爱国青年侯聚森的粗口教程</a> ）</em></p>
-<p><strong>“为了我的信仰”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE2.png" alt="侯聚森2" width="550" height="343"></a><br><em>爱国青年侯聚森并不只爱中国。</em></p>
-<p>“极力<strong>抹黑斯大林模式</strong>”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE5.png" alt="侯聚森5" width="550" height="516"></a><br><em>斯大林模式需要抹黑？</em></p>
-<p><strong>“为啥戈猪还不死”</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE4.png" alt="侯聚森4" width="550" height="380"></a><br><em>爱国青年对戈尔巴乔夫的诅咒。</em></p>
-<p>“<strong>谷歌泄露中国人银行卡信息</strong>导致大量金钱在境外被盗”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE3.png" alt="侯聚森3" width="550" height="540"></a><br><em>侯聚森在某些与爱国无关的贴吧里，立刻摇身一变，成为了Nexus系列手机爱好者和谷歌原生App死粉。（详见：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%A2%A6/">【立此存照】爱国青年的谷歌梦 </a>）</em></p>
-<p>“我们有权<strong>向东京发起进攻并</strong>成为<strong>率先占领这座城市</strong>的部队”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%BE%AF%E8%81%9A%E6%A3%AE7.png" alt="侯聚森7" width="550" height="475"></a><br><del><em>纳尼？</em></del></p>
-<p><strong>附：兔粉的爱国言论</strong>（相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%87%AA%E5%B9%B2%E4%BA%94%E4%BB%AC%E7%9A%84%E6%84%A4%E6%80%92/">【图说天朝】自干五们的愤怒（一）</a>）</p>
-<p>“15岁小兔子”、<strong>“打倒日杂美粉”</strong>：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A5%E6%9D%82%E7%BE%8E%E7%B2%89.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A5%E6%9D%82%E7%BE%8E%E7%B2%89.png" alt="日杂美粉" width="525" height=""></a></p>
-<p>“<strong>爆吧</strong>的时候就看到他了”：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%86%E5%90%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%86%E5%90%A7.png" alt="爆吧" width="525" height=""></a></p>
-<p>“我们去纳吧潜伏，<strong>爆了它</strong>”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%86%E5%90%A721.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%88%86%E5%90%A721.png" alt="爆吧2" width="550" height=""></a></p>
-<p>“<strong>纳蛆</strong>”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%BA%B3%E5%90%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%BA%B3%E5%90%A7.png" alt="纳吧" width="550" height=""></a></p>
-<blockquote><p><strong>名词解释：</strong></p>
-<ul><li><strong>纳吧</strong>：百度 纳年纳兔那些事吧，现已被封。曾与“<a href="http://tieba.baidu.com/f?kw=%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF">那年那兔那些事儿吧</a>”针锋相对</li>
-<li><strong>爆吧</strong>：指在贴吧内不停地发无实质内容的废贴、水贴、垃圾贴等，把可以正常浏览的贴子刷到后几页去。（via <a href="http://baike.baidu.com/view/423530.htm">百度百科</a>）</li>
-<li><strong>日杂</strong>：日本杂种／日本杂碎</li>
-<li><strong>美粉</strong>：亲美人士，多为贬义</li>
-<li><strong>小兔子</strong>：“那年那兔那些事儿”的粉丝，热血爱国青少年的自称</li>
-<li><strong>纳蛆</strong>：对纳吧成员的蔑称</li>
-</ul></blockquote>
-<p><em>延伸阅读：<a href="http://www.dooo.cc/2015/07/37712.shtml">谨防中国青少年意识形态出现极端主义思潮</a></em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BE%AF%E8%81%9A%E6%A3%AE%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://di93ylmnqzw4d.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3e575lz8o6fco.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3e575lz8o6fco.cloudfront.net">https://d3e575lz8o6fco.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E4%B8%A7%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/" target="cdt-mirror">自由港｜丧命在于折腾</a>
@@ -615,7 +615,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3j9wxaxhevs10.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ds0o1ncr69cqn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -625,5 +625,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://dsgmenuw8l4my.cloudfront.net">https://dsgmenuw8l4my.cloudfront.net</a><br/><a href="https://dawvfagbvm5zl.cloudfront.net">https://dawvfagbvm5zl.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/></td>    </tr>
 </table>

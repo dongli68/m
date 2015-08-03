@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1uhdeocsxtx9r.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24t8df74xqgwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%87%8C%E9%83%BD%E5%9C%A8%E6%8A%B5%E5%88%B6%E5%BA%B7%E5%B8%88%E5%82%85-%E5%92%8B%E5%9B%9E%E4%BA%8B%EF%BC%9F/" target="cdt-mirror">观察者网 | 朋友圈里都在“抵制康师傅” 咋回事？</a>
@@ -558,7 +558,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0/?category=18271" rel="tag">财新</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B1%E6%94%BF%E5%BA%9C%E5%90%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%81%93%E6%AD%89-%E9%87%8D%E5%8F%916%E4%B8%AA%E6%9C%88%E7%AD%BE%E8%AF%81/" target="cdt-mirror">美国之音｜英政府向艾未未道歉 重发6个月签证</a>
 </h2>
@@ -664,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/></td>    </tr>
 </table>

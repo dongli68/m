@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AF%BC%E6%B8%B8%E7%81%AB%E7%88%86%E8%A7%86%E9%A2%91%E7%9C%9F%E7%9B%B8%E5%9C%A8%E6%AD%A4/" target="cdt-mirror">全叔读报 | 台湾女导游火爆视频真相在此</a>
@@ -227,7 +227,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99/?category=18271" rel="tag">宗教;</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">社会危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">社会管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87%E5%8C%96/?category=18271" rel="tag">组织化</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9D%A2%E7%98%AB%E6%90%9E%E4%B8%AA%E5%A4%8F%E5%A5%A5%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3-%E5%8C%85%E5%AD%90%E6%90%9E%E5%86%AC%E5%A5%A5/" target="cdt-mirror">【河蟹档案】面瘫搞个夏奥还可以理解, 包子搞冬奥简直脑残啊</a>
 </h2>

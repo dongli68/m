@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24t8df74xqgwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1eodappbpsp9v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%87%8C%E9%83%BD%E5%9C%A8%E6%8A%B5%E5%88%B6%E5%BA%B7%E5%B8%88%E5%82%85-%E5%92%8B%E5%9B%9E%E4%BA%8B%EF%BC%9F/" target="cdt-mirror">观察者网 | 朋友圈里都在“抵制康师傅” 咋回事？</a>
@@ -389,7 +389,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%AE%98%E4%B9%B1/?category=18271" rel="tag">上官乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91/?category=18271" rel="tag">乡村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%80%81/?category=18271" rel="tag">生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B0%E5%9B%AD%E7%89%A7%E6%AD%8C/?category=18271" rel="tag">田园牧歌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B3%E5%86%AC%E5%A5%A5%E6%AD%8C%E6%9B%B2%E3%80%8A%E5%86%B0%E9%9B%AA%E8%88%9E%E5%8A%A8%E3%80%8B%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F/" target="cdt-mirror">知乎｜为什么冬奥歌曲《冰雪舞动》很像《冰雪奇缘》主题曲？</a>
 </h2>
@@ -654,7 +654,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1eodappbpsp9v.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1uhdeocsxtx9r.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -664,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1x9b1kipusa7k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2x0g6o87e27qg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,68 @@
                 <td></td>
                 
         
-        <td><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AF%BC%E6%B8%B8%E7%81%AB%E7%88%86%E8%A7%86%E9%A2%91%E7%9C%9F%E7%9B%B8%E5%9C%A8%E6%AD%A4/" target="cdt-mirror">全叔读报 | 台湾女导游火爆视频真相在此</a>
+</h2>
+<p><p>昨天开始，一段台湾女导游号召大陆游客抵制康师傅的视频在朋友圈、微博疯传，视频中，女导游告诉全车游客，康师傅此前在台湾发生馊水油事件，全台正团结进行“灭顶行动”，直到顶新完全退出台湾。她还说，“康师傅在台湾产的馊水油，跟运到大陆贩售的馊水油，大陆是台湾56倍。但顶新集团态度是什么？康师傅说大陆14亿人，我怕你啊，大陆谁不吃我的方便面，谁不喝我的矿泉水，我无所谓啊，大陆就算10亿人不理我，4亿人支持我，我也发财了，它根本不在乎台湾市场。”</p>
+<p>针对这段视频，康师傅今日称系恶意中伤，已报案。女导游说的都是真的吗？不妨回顾下此事件。</p>
+<p><strong>女导游说对了：顶新因一年内三次涉入食安案，遭遇台湾民众全面抵制</strong></p>
+<p>为什么专门针对顶新，因为它多次涉案。</p>
+<p>第一次是2013年秋，10月18日，彰化检方和卫生部门查出“大统长基食品公司”的花生油没花生成分、橄榄油也没橄榄成分，且添加禁用物“铜叶绿素”。这些油卖给很多知名企业，顶新是其中一家，6年半共买进230万784公斤。顶新方面称：没自行混油，也未教唆混油，且自动存档、停产，多次主动外送检验，结果均为合格。但检方认为，顶新辩称不知实在难让人相信。彰化法院当年12月判“大统长基”负责人高振利16年徒刑，罚公司5000万新台币。有意思的是，法院不支持检方申请“没收20亿元犯罪所得”，法官认为：此举影响受害民众获赔，政府不宜“与民相争”。</p>
+<p>当时的舆论焦点在“大统长基”，且涉事知名企业太多，所以顶新非众矢之的。</p>
+<p>第二次是2014年秋，9月4日，台湾卫生部门在屏东县一家废气回收厂发现有人回收潲水、皮革厂废弃皮脂油、屠宰场废弃物，烹煮制成油品卖给下游强冠公司。公开信息显示：味全、香港美心、香港大家乐、7-11、85度等均是强冠客户。此即女导游视频中提到的“馊水油事件”。当日，顶新集团味全公司主动通报台北卫生部门，称旗下品牌使用强冠油，共15.6吨，并已封存，并发声明谴责供应商。味全此次也因主动通报免遭处罚。</p>
+<div><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajMoT7rqQMDUwlZhXJ9u1eV0qTs1er3ibnlfibEffEXVOibCmbmzbia1sicZtdZ4I5e20RS1glqQUq09UFQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="421" height="376"><p>强冠董事长喝自家油证清白</p></div>
+<div><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajMoT7rqQMDUwlZhXJ9u1eV0NIGe8tpDY9pb3Jiaqia2xIBMtIviaLib5KkMlv44ceBRGnEtIe2DkzISMQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="432" height="302"><p>下跪道歉</p></div>
+<p>“好事不过三”，没多久，顶新又出事了。2014年10月9日，台南地检署查出顶新味全集团旗下猪油厂正义公司，涉嫌向鑫好公司购买动物性饲料用油，并混掺入食用猪油。调查称问题油原料来自越南大幸福公司。随后，正义公司董事长魏应充被羁押、起诉，案件至今仍在法庭审理。</p>
+<p>一年不到涉三起案件，舆论瞬时“炸了”，台湾民众发起全面抵制顶新运动。企业、学校、艺人、消费者组织纷纷加入。</p>
+<p>台消费者文教基金会搞了款“抵制APP”，可一键检索顶新产品，如输入咖啡，就出现贝纳颂；有网友推出“抵制懒人包”，将顶新旗下所有产品列出供抵制参考，如贝纳颂、德克士炸鸡；企业界闻风也加入，华硕宣布，其员工餐厅全面下架顶新产品，SOGO百货宣布全台超市停止贩售顶新集团产品；教育界也不落后，台大、台湾政大宣布，不再接受来自顶新集团的奖学金，政大李蔡彦说，“良心比钱重要”。</p>
+<p><strong>女导游说错的：“运到大陆的馊水油是台湾56倍”查无证据</strong></p>
+<p>视频中，女导游说“运到大陆的馊水油是台湾56倍”，此一说法针对的应为“强冠公司卖馊水油事件”，不过据国家质检总局消息，初步核查，大陆没“全统香猪油”进口，并已要求各地暂停受理强冠下游235个用户产品的报检。后来，台湾大陆事务主管部门负责人称，有盛香珍等9项使用强冠公司劣质猪油的产品已输往大陆，并已通报。至于56倍一说，并无资料证明。</p>
+<p>针对越南饲料油事件，2014年10月22日，国家质检总局发消息称：经查询进口检验检疫记录，2013年至今，大陆没有进口过越南大幸福公司生产的食用和饲料用油脂。</p>
+<p><strong>女导游没说的：此事在台湾也有些争议，如舆论审判引发质疑</strong></p>
+<p>有人质疑“灭顶行动”有扩大化嫌疑，误伤很多没问题的产品。</p>
+<div><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajMoT7rqQMDUwlZhXJ9u1eV0dIapSbbZQ94qY0HBhOpxnhthLhwWfwUTpwOajmF8GccfvmLAVJysKg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="411" height="405"><p>顶新掌门人魏家成员</p></div>
+<p>还有人质疑抵制搞错了对象，当时还是台北市长参选人的柯文哲说，“到底是这家公司有问题还是台当局有问题，我内心还是充满疑惑”，“我个人非常反对，每次出事就抓一个人出来烧死，就像中世纪把女巫抓去烧死，我非常反对这种文化”，“加入抵制能解决问题吗？顶新出事当然有责任，也相信顶新在这件事情中占了最大责任。但台当局的角色在哪里？”</p>
+<p>事件中也不乏谣言传播，比如一些网友把30年前的“彰化米糠油事件”怪在顶新集团头上，该起事件造成上千人中毒，致皮肤病变，其惨状至今让台湾民众记忆犹新。有网友称肇事者就是顶新集团创始人魏家。新旧两事一联系，自然让舆论升温。后来，警方抓了一名传谣者，该网友坦承因一时气愤误信谣言。检察官表示，“纵使该集团因最近的油品事件而影响公司形象，也不意味该遭受跟它无关的事件指谪。” 最后，彰化地院对其判处拘役40天的处罚。</p>
+<p>除此之外，“饲料油事件”在进入法庭后也出现新情况，比如，台媒《中国时报》、《工商时报》等报道，彰化法院公布5月前往顶新屏东厂的检验结果，绝多大数重金属与黄曲毒素均未检出，总极性化合物只有6至8，检验数字显示：原料油非回收油、地沟油、馊水油、废弃油等劣质油。检方对调查提出质疑，此案还在审理中。厘清真相，还需要不少时间。</p>
+<p><strong>“灭顶运动”对我们有啥启示？</strong></p>
+<p>“灭顶行动”已产生了效果，比如，制作罐头的味全台中厂，生产线已减产3/4；去年10月15日，在丑闻被爆出后，康师傅股价跌幅超过10%，四个交易日蒸发122亿港币；康师傅财报显示，去年3季度，旗下方便面、饮用水、方便食品业绩均出现下滑。</p>
+<p>顶新觉得很冤，因为比起其它企业，他们更主动地公布了存在的问题，且不是每款产品都“有事”。</p>
+<p>全叔认为，误伤或多或少肯定有，但不能就此完全否定消费者行动的价值，因为在食品监管中，政府无论投入力量多大，总有滞后性，而走司法渠道成本非常之高，往往不能产生直接效果，这时，舆论作用才能“釜底抽薪”，“用脚投票”是最直接的惩处，更能敦促政府、企业。纵使舆论中有盲目非理性的东西，也不值得过分担心，媒体、司法机关、行政部门、独立机构不都可以发出“正确的声音”吗？相比之下，大陆消费者就太健忘了，当年蒙牛等诸多企业涉毒奶粉事件，虽业绩一段时间受影响，但并不妨碍其越做越大，成为行业龙头，连续赞助各种文娱活动，一切就像没发生过似的。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AF%BC%E6%B8%B8%E7%81%AB%E7%88%86%E8%A7%86%E9%A2%91%E7%9C%9F%E7%9B%B8%E5%9C%A8%E6%AD%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%B2%9F%E6%B2%B9/?category=18271" rel="tag">地沟油</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B7%E5%B8%88%E5%82%85/?category=18271" rel="tag">康师傅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AC%E5%AE%89%E9%83%A8%E5%88%91%E4%BE%A6%E5%B1%80-%E6%B8%85%E9%99%A4%E7%BD%91%E4%B8%8A%E9%BB%91%E6%81%B6%E5%8A%BF%E5%8A%9B%E4%BA%8B%E5%85%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/" target="cdt-mirror">公安部刑侦局 | 清除网上黑恶势力事关国家安全</a>
+</h2>
+<p><p><strong>类似于“纳吧”的网上黑恶势力的实质是教唆青少年成为西方反华势力颜色革命的马前卒。意识形态领域的网络颠覆活动绝非一般性治安事件，社会各界要高度警惕，以必胜的信心与其进行长期性斗争，将依法治国落实到深层次和方方面面。</strong></p>
+<p>“纳吧”黑幕被揭开，暴露出网上存在若干股黑恶势力，教唆、利诱、胁迫、围剿和攻击卷入其中的青少年。究其实质，是要让青少年认同其反民族、反国家、反社会甚至反人类的政治观点和行动取向，与他们同流合污，成为动摇和改变这个国家性质的后续力量，成为西方反华势力颜色革命的马前卒和炮灰。</p>
+<p>一直以来，西方敌对势力就宣称要把颠覆中国的赌注押在青少年身上，押在中国的第三代、第四代、第五代人身上。我们不愿看到，但这是不争的事实——网上已经出现一些黑恶势力，有组织有计划有智囊有资金，不遗余力贩卖西方政治观点，唱衰中国前途，丑化中国文化，歪曲中国历史，抹黑中国道德，撕裂中国社会。其主要祸害对象，就是青少年。他们手段极其恶劣，欺骗、威胁、利诱、携裹；对不顺从者全力围剿攻击，再有不服，就到网下施以暴力。</p>
+<p>美国前国务卿希拉里明确提出要通过网络推动中国发生“颜色革命”。她曾在2011年公开表示，美国已经“奖励”出2000多万美元用于寻找途径突破“网络压制”，当年还将再投入2500万美元。香港“占中”的背后，就是西方通过网络的全力渗透。他们要把祸水引入内地。这已经对中国的国家安全造成了极大危害。</p>
+<p>对此，我们决不能掉以轻心。对于网络颠覆活动的苗头和显著表现，不能视而不见或者轻描淡写，认为这只是网上的正常聚集，把青少年被欺骗和携裹的严重现象看成一帮小孩子不懂事。甚至，网上斗争已经延伸到网下成为暴力事件，还认为只是普通的观点不合，没什么大不了，当成一般性治安事件看待。</p>
+<p>意识形态领域争夺青少年的斗争很严峻，但更严峻的，是看不到危险。露出的苗头已经很明显，我们还在众说纷纭。一些社会事件与意识形态安全息息相关，要从国家政治安全和国家总体安全的角度看待。习近平总书记指出，没有网络安全，就没有国家安全。对于网上斗争的艰巨性复杂性，我们必须马上统一思想，提高认识，来不得半点犹豫含糊。我们不能对特洛伊木马只是驻足围观，指指点点。</p>
+<p>北京大学张颐武教授说，“纳吧”宣扬很多极端思想的思路和ISIS宣传劝诱青少年的路径有很多相似。这些国际极端组织惯用的手法如果本土化，将极其危险。警方和社会各界都要高度关注，高度警惕。</p>
+<p>7月1日，《国家安全法》实施。该法明确指出，加强网络管理，防范、制止和依法惩治网络攻击、网络入侵、网络窃密、散布违法有害信息等网络违法犯罪行为，维护国家网络空间主权、安全和发展利益。同时，把维护社会主义文化前进方向和核心价值观作为国家安全的重要任务。7月6日，全国人大常委会对《国家网络安全法》征求意见。该法规定，任何个人和组织，不得利用网络从事危害国家安全、宣扬恐怖主义和极端主义、宣扬民族仇恨和民族歧视、传播淫秽色情信息、侮辱诽谤他人、扰乱社会秩序、损害公共利益、侵害他人知识产权和其他合法权益等活动。</p>
+<p>因网络引发的社会事件，判断和处理不仅要看表象，还必须把原因查清楚。治安、安全、司法、网信、工信、青少年权益保护等各方面都要依法主动介入。依法治国必须全面，法治不能只是湿层地皮儿，还必须落实到深层次和方方面面。</p>
+<p>“纳吧”被封，但其附着的黑恶势力成员并未伤筋动骨，已经转战其他地方。同时，类似“纳吧”这样的藏污纳垢之所还有很多，意识形态领域的网络颠覆活动依然活跃。依法治国的中国，决不能容忍这样的现象长期存在。我们必须组织相关部门全力进行摸底排查，并动员网民投诉举报。相关法律是健全的，相关部门守土有责，网民力量更是无比强大。为了国家安全，为了法律权威，我们必须开展一场斗争，清除通过网络进行意识形态颠覆活动的黑恶势力，确保青少年思想坚定跟党走，确保青少年的合法权益得到保障。</p>
+<p>清除网上黑恶势力，是清朗网络空间的先手棋，是网络空间斗争的开路机，更是事关国家安全的撒手锏。形势严峻，我们不可能一举而成，一蹴而就，斗争是长期性的。我们有必胜的信心，但对斗争的长期性和艰巨性要有充分的预期。不糊涂，不犹疑，发现一个打一个，坚决进行，久久为功。做到了这一点，才能从根本上消除青少年被洗脑和被利用的土壤，才能强化网络空间战斗力，也才能为国家安全奠定牢不可破的网络基石。</p>
+<p>（中国青年网评论员　刘塍岳）</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/" target="_blank">文登爱国青年事件</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AC%E5%AE%89%E9%83%A8%E5%88%91%E4%BE%A6%E5%B1%80-%E6%B8%85%E9%99%A4%E7%BD%91%E4%B8%8A%E9%BB%91%E6%81%B6%E5%8A%BF%E5%8A%9B%E4%BA%8B%E5%85%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%81%B6%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">黑恶势力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%87%8C%E9%83%BD%E5%9C%A8%E6%8A%B5%E5%88%B6%E5%BA%B7%E5%B8%88%E5%82%85-%E5%92%8B%E5%9B%9E%E4%BA%8B%EF%BC%9F/" target="cdt-mirror">观察者网 | 朋友圈里都在“抵制康师傅” 咋回事？</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/8ece25cf942d1c1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/8ece25cf942d1c1.jpg" alt="视频截图" width="475" height="476"></a><p>视频截图</p></div>
@@ -97,7 +156,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0/?category=18271" rel="tag">上证指数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%81%BE/?category=18271" rel="tag">中国股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">泡沫经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E9%A3%8E%E9%99%A9/?category=18271" rel="tag">金融风险</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%87%AA%E5%B9%B2%E4%BA%94%E7%9A%84%E6%B0%B4%E5%87%86%E6%98%AF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B7%AE%E4%BA%86/" target="cdt-mirror">【网络民议】自干五的水准是越来越差了</a>
 </h2>
@@ -583,66 +642,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%8F%B0%E6%B9%BE%E6%B3%95%E5%B8%88%E8%B0%88%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%BA%8B%E4%BB%B6%EF%BC%9A%E4%BD%9B%E6%95%99%E8%A6%81%E6%9C%89%E5%8B%87%E6%B0%94%E9%9D%A2/" target="cdt-mirror">凤凰网｜台湾法师谈释永信事件：佛教要有勇气面对丑闻</a>
-</h2>
-<p><p>（凤凰网）编者按：少林寺方丈释永信被举报玩弄女性事件席卷了整个中国大陆，7月30日，国家宗教局、中国佛教协会首次对中国佛教高僧被举报事件作出回应。与此同时，台湾《中国时报》大版面刊登了释永信被爆料新闻，综上，释永信被举报成为轰动两岸佛教界的重大事件，必将对华语世界佛教人群产生深远的影响。为此，凤凰佛教电话采访了台湾玄奘大学文理学院院长、玄奘大学宗教学系暨研究所专任教授，台湾弘誓文教基金会董事长昭慧法师。请昭慧法师就释永信被举报事件谈谈宗教丑闻对两岸佛教界的影响。采访文字如下：</p>
-<p><strong>宗教丑闻放在阳光下会比较健康</strong></p>
-<p>我们讲一个人或许会有一些缺点或瑕疵，但这个人不一定是万恶不赦 的。我见过永信法师一二面，虽然我不是很了解永信法师，但我相信他的人格中有90%是很好的东西，也许剩下的10%不太好的东西恰恰就是佛门大忌，就是社 会在佛教中最敏感的问题。我也看了今天的《中国时报》，面对这样的社会舆论，我只能这样讲，教界是很没有出息的。大家都在沉默，谁也不敢站出来说话。</p>
-<p>面对丑闻，宗教界人士往往会有两种选择，一是自己的德性也不怎么样，因此就不太敢去谈论别人，免得引火烧身，这也是佛教界面对丑闻为什么如此静默的原因。另一种选择，很多人虽然自己很干净，但也不愿意去谈别人的丑闻，认为这种事情对佛教有伤害，越低调越好。</p>
-<p>丑闻对佛教有伤害，很多人认为就要越低调越好，问题的关键是，回避丑闻对谁好？这个对佛陀的教法流传于世间好吗？如果涉及到有受害人，对受害人好吗？</p>
-<p>不仅是佛教，宗教界都有家丑不可外扬的观念。我们要从根源上质疑，家丑不可外扬，这样的观点完全正确吗？可以无限上纲吗？我相信，每一个组织都不完整，人世 间由人来组成的家庭、社群、宗教教团等，都不会是完美的。但如何让这种不完美逐渐趋向完美？这是每一个群体的责任。假设说，某个宗教社团内部有一种机制， 可以去抵制或勒令改正（错误），那么，我们说，是的，这个教团的自律能力会很强。出现问题，可以通过内部处理，让受害人感到自己得到了补偿，受到了公正的 对待。暂且不管这样处理是否完美，但至少内部处理的机制是存在的。现在问题是，我们佛教界内部的处理机制在哪里？我们看到的丑闻大部分不都盖起来了吗？</p>
-<p><strong>回避宗教丑闻是在姑息养奸</strong></p>
-<p>当宗教团体内部没有一种公正的机制去处理这些丑闻的时候，我认为这是在姑息养奸。我们先不论永信法师有没有被举报的事实，但在中国大陆，我们心知肚明，其他教内人士就没有这样的事情吗？</p>
-<p>退一万步讲，如果永信法师被举报的事件是真实的，教徒们会很担心佛教界会不会有一些身居高位的法师也倒下？那么请问，如果真有这样的问题，他们不应该倒下吗？</p>
-<p>出 家人本来不是圣人，我们都会犯错误。广大信众是不是也从举报人的角度去思考，比如，那位举报人实名举报前，也许他在教内曾经试图努力过反应情况，却没有得 到任何回应。我看过的许多宗教丑闻几乎都是这样一种模式。一般来说，举报宗教丑闻的，大多是宗教信徒。非信徒很少会在宗教丑闻中受到伤害。信徒要解决问题 其实都是想在教内解决的，其实都不希望伤害到信仰。因此，宗教问题的举报人可能都走过正常的渠道，希望得到公正的对待，可是，宗教的机构往往都会把事情盖 起来，不处理。如此，佛教是不是就助长了一群不好的人。教内的人都认为，丑闻盖起来就没事了。拜托！多少人因为这些丑闻已经远离佛法而去了，这是不是伤害 了佛教？我认为，藏污纳垢，长久来说，对宗教是不好的。</p>
-<p><strong>建议佛协建立公正透明的处理机制</strong></p>
-<p>佛陀从来没有让我们姑息养奸，佛陀的戒律多么严厉呀，多么严格呀。我们教团内部没有按照佛陀的戒律严格处置犯戒，我们就很难避免有些人因为看不到公正处理问题而揭发举报嘛。因此，我们建议佛协建立公正透明的处理机制，让社会感到佛教是负责任的。</p>
-<p><strong>台湾佛教界同样缺乏面对丑闻的勇气</strong></p>
-<p>我 感觉，佛教界中一些欲贪方面无法克制的人还在教内发酵，比如，在台湾，宗教团体法受到所有宗教的赞同，只有佛教拼命抵制。我认为，宗教法人团体要受到社会 监督呀，寺院的钱财来自十方，会计账目就要透明呀，这是很正常的事情。当时台湾佛教界一些清流的法师和团队也认为不应该抵制宗教团体法，应该接受宗教团体 法的监督，但是，我们这些赞同宗教法的法师就受到了台湾大部分佛教团体的抗议。大众就会看到佛教出家人出来抗议不是为了社会正义，而是要维持自家钱财的黑 箱作业，不让财务透明化。</p>
-<p><strong>每个人都要为自己做的事情负责任</strong></p>
-<p>后来，我就分得很清楚，我永远都是佛陀的弟子，我永远希望正法久住。但是我们不要把这些佛教的负面现象背在自己身上产生忧苦。因为，每个人都要为自己做的事情负责任，每一个团体都要为自己的作为和不作为付出代价。</p>
-<p>我内心真诚希望永信法师被举报的事件不是真的，但万一不幸举报是真实的，我认为佛教界也要勇敢面对，同时应该建立内部可以公正处理的机制，这才是真正的佛陀的精神。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%8F%B0%E6%B9%BE%E6%B3%95%E5%B8%88%E8%B0%88%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%BA%8B%E4%BB%B6%EF%BC%9A%E4%BD%9B%E6%95%99%E8%A6%81%E6%9C%89%E5%8B%87%E6%B0%94%E9%9D%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%87%AA%E6%94%BF%E7%AD%96/?category=18271" rel="tag">三自政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9B%E6%95%99/?category=18271" rel="tag">佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%85%8E%E9%A5%BC%E6%91%8A%E4%B8%BB%E5%85%A5%E9%80%89%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%91%98/" target="cdt-mirror">【异闻观止】澎湃新闻 | 煎饼摊主入选南京信息员队伍</a>
-</h2>
-<p><p>80份包裹要寄往全国不同的地方，内装不明纸质材料，且不让快递员拆开查验。就在准备打包寄出的那一刻，快递员陈师傅突然发现，寄件人所写的寄件地址竟然是不存在的。</p>
-<p>他拆开一看，包裹中竟装有不雅照片和疑为敲诈的信件，于是果断报了警。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/005utZb2jw1eul3epx9hij30fa0a976j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/005utZb2jw1eul3epx9hij30fa0a976j.jpg" alt="煎饼摊主入选南京信息员队伍" width="500" height="335"></a></p>
-<p><strong>快递员发现80份快递内装大量不雅照</strong></p>
-<p>澎湃新闻记者从南京秦淮警方获悉，7月28日，南京洪武路派出所接到一位快递师傅报警，称他在80份要寄出的快件中发现不雅照，且寄件地址虚假，怀疑有人用此违法犯罪。</p>
-<p>陈师傅告诉赶到现场的民警称，寄件人在现场并不让陈师傅拆开检验，并称里面都是些纸张信件涉及机密。陈师傅大致摸了下，的确是纸质物品，便将快件收了下来。</p>
-<p>回到单位后，陈师傅发现对方写的寄件地址为“南京市人民路275号”，而这个地址并不存在，是个“幽灵”地址。“我就拆开来检验，结果发现竟然是一对男女裸身相拥的黑白照片。”陈师傅表示。</p>
-<p>经查验，这些快递发件地址各不相同，遍及全国各地。快件内装有一张男女黑白床上裸照和一封信。信上称，自己是某大型新闻网记者，对方有不良生活作风问题，要求对方在收到信件3天后，汇款25万元。信的末尾还附上了银行账号。</p>
-<p>民警发现，由于所有不雅照中男女主人公的姿势都一样，只是面部不同。同时，每张照片人物的身体和头部有明显的拼接痕迹。根据判断，这应该是有人将照片合成后寄给收件人，从而进行敲诈勒索。</p>
-<p>目前，秦淮警方已经介入调查。</p>
-<p>针对网络上时常有不雅照流传的现象，秦淮警方表示，这些照片一部分是合成的，还有的则是被偷拍，而这两种都可能成为不法分子犯罪的工具。警方提醒称，要杜绝“艳照”流出，市民最好做到不主动拍摄裸照；有了不雅照更不能传播。</p>
-<p><strong>环卫工、广场舞大妈都是“秦淮群众”</strong></p>
-<p>快递员发现线索后报案，这在南京市秦淮区并不奇怪。</p>
-<p>因为除了快递大哥，南京秦淮警方的“耳目”（信息员）还包括“扫地僧”、“广场舞者”，甚至“煎饼侠”。</p>
-<p>澎湃新闻记者从南京秦淮警方获悉，近年来他们成立了“秦淮百姓”信息员队伍。通过筛选，他们挑出不同职业、不同年龄、不同区域的人员，总数达到近8000人。</p>
-<p>这些信息员隐匿于民间，擅长察言观色，对社情民意了如指掌。在该局人口大队大队长丁小江看来，“秦淮百姓”就是一支“隐形部队”。</p>
-<p>比如今年2月11日，中华门派出所接到一位老人报警，称有人在路上扯去了她的耳环。此后大半个月内，嫌疑人又疯狂作案6起，平均4天就有一位老太太受害。由于现场线索极少，警方一时难以突破。</p>
-<p>就在案件陷入僵局时，经常在朝天宫广场跳舞的一位大妈称，最近在跳舞的过程中，她发现一个人连续好几天戴着的耳环都不一样。得到这个线索后，警方立即开展工作，最终发现了与女子同住一起的男子就是犯罪嫌疑人。</p>
-<p>还有“扫地僧”。2014年8月，一名小区保洁人员向警方反映，在小区内发现了几只身上有铅弹孔的死麻雀，怀疑有人非法持有枪支。于是，警方根据该线索迅速发现了嫌疑人杨某及其落脚点。报案当晚，民警便成功地在杨某住处查获左轮手枪一支、枪管三根以及一批制、改枪械工具。</p>
-<p>不要小看了路边摊煎饼的，他们也可能成为破案关键人物。今年5月，有市民报警称家里遭劫。由于小区比较老旧，监控条件又很差，警方一时无法找到嫌疑人的信息。</p>
-<p>就在民警为难的时候，在小区门口做煎饼的老张称，他发现一名男子比较可疑，因为每天在店铺吃早饭的老李经常穿一件女儿从美国带回来的衣服，最近来吃早饭的时候，说这件衣服不见了。而老张发现，就在案发当天，有一个陌生男子居然穿着与老李一样的衣服来买早饭。</p>
-<p>于是，警方很快就明确了嫌疑人的身份，并在案发后的第三天将嫌疑人捉拿归案。</p>
-<p>秦淮区公安分局相关负责人告诉澎湃新闻记者，他们会对有用线索进行奖励，范围从50元到1000元不等。优秀的信息员将得到相应的称号，而常年没有贡献的信息员会被淘汰掉，从而逐渐形成优胜劣汰的队伍管理格局。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%85%8E%E9%A5%BC%E6%91%8A%E4%B8%BB%E5%85%A5%E9%80%89%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%91%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%91%98/?category=18271" rel="tag">信息员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89/?category=18271" rel="tag">公安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%9C%BA%E8%88%9E/?category=18271" rel="tag">广场舞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2/?category=18271" rel="tag">敲诈勒索</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%AE%B0%E8%80%85/?category=18271" rel="tag">新闻记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%A0%BC%E5%8C%96%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">网格化维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E6%9F%A5/?category=18271" rel="tag">调查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -664,5 +663,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28j84tii67yl7.cloudfront.net">https://d28j84tii67yl7.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d2x0g6o87e27qg.cloudfront.net">https://d2x0g6o87e27qg.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
 </table>

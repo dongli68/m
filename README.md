@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d1yk9jzvv1tzyu.cloudfront.net">https://d1yk9jzvv1tzyu.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d1yk9jzvv1tzyu.cloudfront.net">https://d1yk9jzvv1tzyu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B5%B5%E6%A5%9A-%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%BC%94%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89/" target="cdt-mirror">东网 | 赵楚：正在上演的中国宗教战争</a>
+</h2>
+<p><p>最近在大陆很多地方，都在发生政府强行拆毁基督教礼拜设施的事件。这件事的奇怪之处在于，这些教堂和礼拜场所绝大多数都不是自来就有的，而是近30年来陆续建成的，当其逐步建设成型，当地的政府实际上是眼开眼闭，宁愿不管的，否则，以大陆现行的管制体制，这些设施根本不可能建设起来。换言之，今日的全国范围的望十字架而兴师的大规模平毁行动是出自新领导班子的意志，因此，这些设施今日的强行拆毁与教众的坚定维护对抗就成了观察中国社会和政治政策的一个指标性对象。</p>
+<p>宗教信仰在历史上引起的社会剧烈冲突是常见的，中世纪基督教欧洲国家与新兴的伊斯兰力量的十字军战争固然早已为人所知，在欧洲自中世纪向近代化民族国家转化的过程中，不同基督信仰族群的冲突也是无比惨烈的，30年战争才为这一冲突大致划下句号。无论在欧洲国家内部，还是在伊斯兰信仰族群的内部，因为宗教派别不同而导致致命对抗可以说至今仍在中东各种热点问题上馀烬复燃。抛开对宗教和信仰真理的价值讨论不谈（因为一旦涉及此点，则很可能引起不必要的争议和分歧），宗教及国家相关政策在历史与社会发展中状况本身也包含着严肃的社会与治理研究意义。</p>
+<p>中国大陆近30年来宗教信仰热情的复兴是显而易见的事实。曾经在1949之后被污名化和严厉制裁的宗教界首先因为改革开放政策的需要而重新赢得正面形象，因为执政党历史上三大战略法宝之一为统一战线政策，宗教界本是统一战线工作的重点之一。在中国环境下，宗教又与新疆、宁夏、西藏和青海等地的民族聚居地区政策相关，因此，对宗教压制采取纾缓的政策，可以说是在这些地区推行管制的前提之一。</p>
+<p>就内地地区来说，特别是在经济发达的地区及中产阶级色彩的人群中，基督教为代表的信仰扩张迅猛，这直接地由于一个原因，那就是，在布尔什维克的信仰代用品彻底失败之后，社会需要在一个万花筒般剧烈变动的世界上寻找心灵的归宿，以便依托这种归宿重建足以令个人安身立命的伦理生活。质言之，基督教信仰的扩张虽有外部交流扩大，外部宗教的传教努力重新找到接口的原因，但其内生条件却是主要和首要的。这些年来，对各种家庭教会与非官方控制的信仰团体屡加打压，但丝毫未能削弱信仰的热情。这便是明证。</p>
+<p>30年来的政治和社会变迁实际上对中国大陆本身的旧有政治与权力结构也造成了翻天覆地的变化。虽然其刚性的结构未变，但实际上，这些结构已经做出了适应时代的巨大修改。很多人没有意识到，“中国特色的社会主义”这个术语本身就表明，当局已经承认，曾支付难以计算的鲜血代价建立布尔什维克信仰政教合一国家已经失败；而奉行几达30年的“一切以经济建设为中心”战略则等于宣布，国家的权力虽然仍竭力保持专政的状态，但已经退缩到经济生活的领域，因而把曾经尽力把持和包办的心灵与精神生活领域还给了社会与个人。这也是一心忙于各种发展项目的地方政府对宗教浪潮眼开眼闭的原因。</p>
+<p>细心的观察者会发现，在过去30年大部分时间里，一般来说，虽然政府理论上反对各种不受官方控制宗教发展，但事实上对此并未采取类似先进的强力对抗政策。就在经济高速发展，社会各阶层经济利益上升的时期里，经济发展，宗教也发展，权力也忙着搞钱，大家相安无事，直到现在。所以，要分析和理解今日的宗教强力打压政策，必须考虑当前中国社会严重和综合性的社会危机。这种危机首先是经济层面的，即国家经济大局与金融等核心经济领域的崩溃危机，地方财政与行政能力的崩溃危机，因为各种经济与发展议题引发的大规模社会对抗，以及由此点燃的全社会性的反抗危机，等等。总之，当地方政府违背历来做法，不计代价强行对宗教开战，这背后折射的实际上最高当局对大局的判断与基本政治意图。</p>
+<p>由于总体经济资源与效率的枯竭，令当局恐慌的是政权本身的基本安全，特别是在西藏和新疆这样的宗教与民族可以几乎合一的地区出现大的问题之后，宗教信仰本身成了可能威胁政权安全的一大因素。最近发生的恐怖袭击事件不过把这一问题以更突出的方式显现出来。现实中的宗教信众，特别是基督教信众与宗教人士往往都表现出对现实政治及社会问题相当审慎的态度，尽管如此，基督教还是成为本次打击的优先对象，可见新一轮的宗教打压与具体的宗教信众的社会行动并无直接的关系，而是出自其他的考量。</p>
+<p>这些考量的最根本要点是：第一，当社会危机前景越来越明晰，基于信仰的人群所体现的群体认同感和召感力是可能转化为社会抗争的大规模力量框架的，这在苏东及南非的转变中教会的作用里已有强大证据，在本次各地信众保护教堂的无声对峙中也已经可以看出端倪；其二，长期以来，基督教教会为代表的信仰系统拒绝接受官方管控，这使得一切基于权力直接控制的政权当局感到潜在的社会对抗的意志。这也正是历来大陆当局所绝对不能容忍的，此前的冲突和摩擦也主要为围绕此点进行。所谓君子无罪，怀璧其罪，这些潜在的社会与政治能量，正是基督教招致不妥协打压的基本原因。这一点犹有更深层的社会意义。</p>
+<p>选择打击十字架，还有个技术性的因素也必须列入考虑，那就是，其他主要宗教都牵涉复杂的民族地区局势问题，只有基督教信众主要地生活于内地的现行行政区域内，加之如上所述，他们又在政治上较为低调，因此，他们被选择为首要的打击对象可能较少引发复杂的政治对抗局势。这不代表对其他宗教就不会采取同等的打击措施。事实上，这些年来，围绕寺庙和伊斯兰习俗等问题，西部省区已经陆续采取了许多压制性的措施。</p>
+<p>总之，应对现实社会总危机的思路是既定的，既然不能在政治上彻底抛弃过去，以宪政和民主构架重建政策思维与体系，由此建设宗教与社会宽容的新体制，则回到过去，重建一元化和一体化的新版本斯大林体制就在逻辑上成了唯一选项和不得不做的选择。在此过程中，拒绝接受官方直接监管的宗教信仰活动与现实的暧昧和平状态也就自然走到了其终点。所以，从目前不宣而战的新宗教战争中，我们看到，信众与当局的对抗与其说是信仰与世俗世界的对抗，倒不如更准确地说，实质上是两种生活方式的根本抉择——通过斗争选择一个可以自由从事信仰活动、也容忍他人有不同信仰方式、把心灵与精神生活还给人们自己的世界，还是就此告别自由的信仰，把身家性命像1949之后的30年那样重新托付给宗教局与走马灯一样的书记市长。</p>
+<p>从这个意义上说，目前的中国21世纪版宗教战争，也注定会像历史上的那些宗教冲突一样，除非自由信仰的一方获胜，社会因为基础政治条件的变化而能在制度上支持宗教的多元和宽容，否则永无妥协之可能。以此我们也可以初步预测这一冲突的未来走势，那就是，当局会更加严厉和蛮横，而本来一贯政治上低调的基督徒们必然会滋生更广泛与自觉的现实政治关切。这与当初在东欧和南非发生的情况也是一样的，并没什么中国特色或宗教特色。</p>
+<p>本文转自东网</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B5%B5%E6%A5%9A-%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%BC%94%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99/?category=18271" rel="tag">宗教;</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">社会危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">社会管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87%E5%8C%96/?category=18271" rel="tag">组织化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9D%A2%E7%98%AB%E6%90%9E%E4%B8%AA%E5%A4%8F%E5%A5%A5%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3-%E5%8C%85%E5%AD%90%E6%90%9E%E5%86%AC%E5%A5%A5/" target="cdt-mirror">【河蟹档案】面瘫搞个夏奥还可以理解, 包子搞冬奥简直脑残啊</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -572,39 +594,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E6%97%A5%E4%B8%83%E5%90%9B%E5%AD%90%EF%BC%8C%E6%97%A0%E5%A5%88%E8%A2%AB%E5%AB%96%E5%A8%BC/" target="cdt-mirror">【网络民议】今日七君子，无奈被嫖娼</a>
-</h2>
-<p><blockquote><p><a href="http://www.weibo.com/2656274875/CtCzVcQvw">@央视新闻</a>： #抗战胜利70周年#【坚持斗争不屈服 “七君子”出狱】1937年7月31日，国民政府迫于压力将“七君子”释放。“七君子”为救国会领导人沈钧儒、邹韬奋、李公朴、沙千里、史良、章乃器、王造时。他们因发表声明要求国民政府停止内战被捕。出狱后，他们继续从事抗日救亡运动。抗战日历：<a href="http://xxt.ctsi.com.cn/views/default/cus/cctv/kzrl/today.html">网页链接</a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/9e5389bbjw1eulp5vuhy5j20cq09zq4u.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/9e5389bbjw1eulp5vuhy5j20cq09zq4u.jpg" alt="9e5389bbjw1eulp5vuhy5j20cq09zq4u" width="440" height="345"></a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>才子鹰天下：然而并没有什么卵用，现在你来七个人聚众示威看看。。。。</p>
-<p><a href="http://www.weibo.com/2322691154" target="_blank">苍白的阵容</a>：放gcd政府你试试<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p>钢铁般温柔：放到现在，你们是出不了狱的[笑cry]</p>
-<p>茸茸雨：这就是当时的公知嘛。</p>
-<p>小胖微微OO：现在台湾的政府真的不行，弄点游行，学生运动就妥协，还说什么自己的课纲自己救，也不笑掉大牙，以前的课纲是不承认强迫慰安妇的，现在承认了不好么，台湾的历史课本就是斗争的产物，谁赢了就改历史</p>
-<p>牙白不是病病病：蒋公活该退守台湾[拜拜]</p>
-<p><strong>蔣志清1973：今日七君子，无奈被嫖娼！</strong></p>
-<p>独小仙：不是我国有个诺贝尔和平奖的人被抓在监狱？表面夸赞伟人，背后又做另一套</p>
-<p>十笔郎：换下位置，估计想出也出不来吧，看来，无耻的程度还是不一样啊。</p>
-<p>中庸小道：周恩来当年带领学生抗议，北洋政府嫌影响不好，把人关起来，管吃管住，看书狱卒负责出去买，最后大摇大摆的走了出去…换到现在，哈哈哈哈哈哈~</p>
-<p>harodkoo：还能出狱，国民政府还真是民主啊</p>
-<p>我是靳亮：章乃器不是被我们伟大的政府划为大右派了吗</p>
-<p>幸福的穿靴子的猫：【章乃器】1966年8月，开始文化大革命，又遭林彪“四人帮”一伙的残酷迫害，抄家、批斗、毒打，但他怀着对党和人民的赤诚忠心，不计较个人恩怨，常以诸葛亮“淡泊以明志，宁静以致远”名言自勉。</p>
-<p>幸福的穿靴子的猫：1957年【王造时】被错划为右派分子，1960年9月，摘掉右派帽子后，在“文化大革命”中王造时又受到冲击。“文革”中，王造时的两个儿子和女儿海若均患了精神分裂症，女儿海容因为拒绝参加复旦大学对其父亲的批斗，也被打成“反革命”备受折磨而死。1971年9月王造时因病逝世，享年70岁。</p>
-<p>幸福的穿靴子的猫：“文化大革命”爆发后，【史良】遭受批判，被造反派抄家、勒令写检查和参加劳动，幸而受到周恩来总理的保护，她才免遭更大的灾难。</p>
-<p><a href="http://www.weibo.com/3952839318" target="_blank">我是谁我也不知道222</a><i></i>：场景很类似啊……看起来还不如反动派呢<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">轻点打脸俺都心疼了<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
-<p><a href="http://www.weibo.com/1789949073" target="_blank">苹果SSME</a>：怎么越看这条新闻越觉得先总统蒋公顺民意非独裁呢<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>長距離索敵陣形：害国卖国 为一党之私不顾国家大局利益的人</p>
-<p>侃爷_me：他们还能活着，健康的出来</p>
-<p>纳米霆：这些人都是律师吗？被抓了这么多？[吃惊]</p>
-<p>复杂物堆FS: 配此帖看，效果更佳。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/07/0066Ll1Gjw1eulqe5daudj30hs0hsjsd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/0066Ll1Gjw1eulqe5daudj30hs0hsjsd.jpg" alt="0066Ll1Gjw1eulqe5daudj30hs0hsjsd" width="500" height=""></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E6%97%A5%E4%B8%83%E5%90%9B%E5%AD%90%EF%BC%8C%E6%97%A0%E5%A5%88%E8%A2%AB%E5%AB%96%E5%A8%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">公共知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">台湾政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -616,7 +605,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kgvctyluk389.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dflxky9yfyd83.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -626,5 +615,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1yk9jzvv1tzyu.cloudfront.net">https://d1yk9jzvv1tzyu.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d1yk9jzvv1tzyu.cloudfront.net">https://d1yk9jzvv1tzyu.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1eodappbpsp9v.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24t8df74xqgwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d37a2nh33vmj01.cloudfront.net">https://d37a2nh33vmj01.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%87%8C%E9%83%BD%E5%9C%A8%E6%8A%B5%E5%88%B6%E5%BA%B7%E5%B8%88%E5%82%85-%E5%92%8B%E5%9B%9E%E4%BA%8B%EF%BC%9F/" target="cdt-mirror">观察者网 | 朋友圈里都在“抵制康师傅” 咋回事？</a>
@@ -537,7 +537,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%B4%A2%E6%96%B0%EF%BD%9C%E9%83%AD%E4%BC%AF%E9%9B%84%E5%AE%B6%E8%A3%85%E6%BB%A1%E9%92%B1%E7%9A%84%E5%8C%85%E9%87%8C%E7%8E%B0%E8%91%A3%E6%98%8E%E7%A5%A5%E7%AE%80%E5%8E%86/" target="cdt-mirror">财新｜郭伯雄家装满钱的包里现董明祥简历</a>
 </h2>
@@ -654,7 +654,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1eodappbpsp9v.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmiyx5l158vd3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -664,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dmiyx5l158vd3.cloudfront.net">https://dmiyx5l158vd3.cloudfront.net</a><br/><a href="https://d37a2nh33vmj01.cloudfront.net">https://d37a2nh33vmj01.cloudfront.net</a><br/><a href="https://di93ylmnqzw4d.cloudfront.net">https://di93ylmnqzw4d.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/></td>    </tr>
 </table>

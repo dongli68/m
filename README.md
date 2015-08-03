@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kgvctyluk389.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d279322898scen.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d1yk9jzvv1tzyu.cloudfront.net">https://d1yk9jzvv1tzyu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1yk9jzvv1tzyu.cloudfront.net">https://d1yk9jzvv1tzyu.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B5%B5%E6%A5%9A-%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%BC%94%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89/" target="cdt-mirror">东网 | 赵楚：正在上演的中国宗教战争</a>
@@ -615,5 +615,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d1yk9jzvv1tzyu.cloudfront.net">https://d1yk9jzvv1tzyu.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dflxky9yfyd83.cloudfront.net">https://dflxky9yfyd83.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d279322898scen.cloudfront.net">https://d279322898scen.cloudfront.net</a><br/><a href="https://d1yk9jzvv1tzyu.cloudfront.net">https://d1yk9jzvv1tzyu.cloudfront.net</a><br/><a href="https://d1kd1s58mjs3rf.cloudfront.net">https://d1kd1s58mjs3rf.cloudfront.net</a><br/></td>    </tr>
 </table>

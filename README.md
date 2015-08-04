@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kywl11kvk88c.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kgvctyluk389.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://dj9md441h7qvb.cloudfront.net">https://dj9md441h7qvb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%94%BE%E9%A3%8E%E6%94%BB%E9%98%B2%E7%81%AB%E5%A2%99%E6%8A%A5%E5%A4%8D%E4%B8%AD%E5%9B%BD-%E5%A4%AA%E8%BF%87%E5%88%86%E4%BA%86/" target="cdt-mirror">环球时报 | 美国放风攻防火墙报复中国 太过分了</a>
+</h2>
+<p><p><strong>原标题：社评：美放风攻防火墙报复中国，太过分了</strong></p>
+<p><strong>据纽约时报报道，奥巴马政府已决定就人事管理局数据库2000多万名美国个人信息被盗一事对中国进行报复。报道称美情报机构内部讨论的“最具创新性”的行动方案是：寻找一种能突破中国层层防火墙的方法，对中国实施警告。白宫官员匿名称：“我们需要有一整套手段来制定一个回应措施。”</strong></p>
+<p>美国政府认定人事管理局数据库遭到的黑客袭击不同寻常，规模和目标都非常大，但是美国情报机构至今并没有拿出什么确凿证据，它安给中国的罪名是莫须有的。</p>
+<p><strong>长城防火墙是由中国政府出资建立的互联网管理系统，如果美国网络部队公然攻击这一系统，其性质是极其恶劣的。这与黑客偷偷摸摸干违法的事有本质的不同，它将被视为美国国家力量对象征中国主权的目标发动攻击，后果将十分严重。</strong></p>
+<p>众所周知，网络黑客行动具有从攻击地点到作案手段的隐蔽性，显示发自中国的黑客攻击有可能来自第三国。美国对中国人、特别是有中国政府背景网络攻击的认定都是单方面做出的，不能作为其报复中国的合法依据。这是全世界都懂的道理。</p>
+<p>如果美国网络部队采取任何侵犯中国主权的行动，中国针锋相对地还以颜色是可以预见的。华盛顿不应有中方会对美方攻击忍气吞声、大事化小的幻想。</p>
+<p>有中国学者猜测，美国官员通过纽约时报发声，是意在向中方施压，为美方在9月份中美元首会晤时促使中方让步创造条件。即使是一个策略，美方威胁“报复中国”也应遭到回击。中国是大国，大国之间说话不能像美国对小国那样不讲规矩。美国有一分放肆，就需准备得到一分遭到蔑视的尴尬。</p>
+<p>中美不能停留在互放狠话上。北京与华盛顿看来还是要加强沟通，制定给双方都带来安全感的网络行为准则，避免一遭攻击就怀疑是对方干的，在乱纷纷的互联网上建立起一份战略稳定。</p>
+<p>其实纽约时报的报道透露出一个惊人信息：美情报官员对该报说，美在中国计算机网络安置了“几千个嵌入系统”，它们能对即将发生的袭击事件向美方预警。也许美方是想警告中国，但如果是那样的话，美方还有什么脸同中方谈黑客攻击？它事实上每时每刻都在对中国互联网进行系统性威胁。</p>
+<p>倒是中国应当要求美方就这几千个嵌入系统“是怎么回事”讲清楚，如果美国政府不讲，就应当要求对华有业务的美国公司讲。中国看来非常有必要对全网安全开展大检查，在关键位置上多使用国产设备，排除未来的险情。</p>
+<p>互联网是一个互动系统，这决定了在现实国际关系条件下，在网上谁的安全感都很难成为绝对的。美国尚惴惴不安、疑神疑鬼，可想其他国家、尤其是与美存在争执的那些国家是什么感受。美国毕竟是互联网结构的中心和互联网技术的上游，它对安全的追求应当适可而止。</p>
+<p>在传统社会里，大国对抗难免两败俱伤。在密切交织的互联网世界里，更难有一个绝对的胜利者。从纽约时报的报道看，奥巴马政府也担心它的报复行动会导致中美网络冲突升级。他们的这些担心是必要的。中美消受不起一场网络战争，这不仅是中方的忧虑，美国也应当把有关的一切全想清楚了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%94%BE%E9%A3%8E%E6%94%BB%E9%98%B2%E7%81%AB%E5%A2%99%E6%8A%A5%E5%A4%8D%E4%B8%AD%E5%9B%BD-%E5%A4%AA%E8%BF%87%E5%88%86%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%98%E4%BA%89/?category=18271" rel="tag">网络战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E8%A7%84%E5%88%99%E4%B9%8B%E9%97%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E8%BF%B7%E6%80%9D/" target="cdt-mirror">何清涟：习近平与规则之间关系的迷思</a>
 </h2>
 <p><p>最近，论及中国政治与习近平，“规矩”（或曰“规则”）一词出现的频率加大，对习近平与规则之间的关系之分析则莫衷一是。中共中央通报令计划不讲“政治规矩”，《世界日报》评称“这个‘政治规矩’词语首次在官方文告使用，带有习近平个人风格”；美国《民主》杂志发表《改革时代以后的中国》(China After the Reform Era)，说习近平“撕毁现有的规则，逆转很多党内的规范”；《纽约时报》的采访标题则是“习近平强势重塑中国政治规则”。</p>
@@ -618,45 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BE%E5%9B%BD%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E5%9B%9A%E7%A6%81%E7%9D%80%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9F%E7%9A%AE%E7%90%83%E8%B8%A2/" target="cdt-mirror">【网络民议】举国的正义感囚禁着郜艳敏？皮球踢的真是妙啊</a>
-</h2>
-<p><blockquote><p><a href="http://www.weibo.com/1618051664/CtMaa4keE">@头条新闻</a>：<a href="http://huati.weibo.com/k/%E6%96%B0%E6%B5%AA%E7%8B%AC%E5%AE%B6?from=501" target="_blank">#新浪独家#</a>【新浪本周人物：谁囚禁了“最美乡村女教师”？】郜敏艳的故事再次被媒体深挖成为举国关注的对象，而她自己永远是个被利用的卑微小人物。她一直被囚禁着，过去是人贩子，是他的公公和丈夫，是那个村子的村民，是当地的官员，现在，是举国的正义感。<a title="新浪本周人物:谁囚禁了郜艳敏" href="http://feed.mix.sina.com.cn/link_card/redirect?url=http%3A%2F%2Fnews.sina.com.cn%2Fc%2Fzg%2Fjpm%2F2015-08-01%2F09131306.html" target="_blank"><em>网页链接</em></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/60718250jw1eumvg0d3zvj20b606z755.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/60718250jw1eumvg0d3zvj20b606z755.jpg" alt="60718250jw1eumvg0d3zvj20b606z755" width="402" height="251"></a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://www.weibo.com/estherblack" target="_blank">@二角鲸</a><i title="微博达人"></i>：又到了用这张图的时候<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/80500a68jw1eun6wmc9cnj209109qq3o.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/80500a68jw1eun6wmc9cnj209109qq3o.jpg" alt="80500a68jw1eun6wmc9cnj209109qq3o" width="300" height=""></a></p>
-<p>@北京厨子新号: 我操你妈的人贩子和奴隶主不被判刑？这他妈的是21世纪的中国，不是他妈的十九世纪上半叶的美国！无数先烈抛头颅洒热血不是为了在通往奴役的道路上越走越远！新中国通过的第一个法律是婚姻法！妈了个逼的新浪评论！</p>
-<p><a href="http://www.weibo.com/5387683778" target="_blank">@冻山阁miracle</a>：卧槽本来还以为有人敢说说理，看到最后一句简直要喷出来“是举国的正义感”········<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">我去年买了个表！我呸！如果别人把你拐到山里关十几年，外面都是想帮你出来的人，你再试试能不能说出“被举国的正义感囚禁着”这种话。要点脸！你才是囚禁她的其中一员！还推到众人头上！<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p>@矢量怪兽林某某：哦，若干年之后，她成为全国人贩子教育被拐卖人口的教材…啊呀呀，没什么的，待几年就习惯啦，就是一家人了，还可以当村里的老师哦，法律都不会追究的呢，全国人民都只敢祝福你呢……不寒而栗……</p>
-<p>@押沙龙：张三强奸了李四，后来有了孩子或者受害人觉得木已成舟，李四认命了，决定跟张三过日子。这时候还要不要追究张三的强奸罪？追究了有人说是二次伤害，可不追究是不是等于说：强奸犯只要强奸出了孩子，或者强奸得久了，差不多就可以脱责？</p>
-<p>@Momot_ree：举国的正义感囚禁了她？！我真恨不得不长这双眼看到这么恶心话！不解救被拐妇女，不惩治罪犯，宣传这种价值观！群众的进步、文明、正义你看不到吗！你他妈以为几句话就能洗脑了吗！你他妈怎么不去死！！！</p>
-<p>@我是你认识的王小能:贵喉舌干脆起个标题说「是谁强奸禁锢了她？是你们这些自以为是的网友！」好了。大家省心。「体制问题」这四个字就像伏地魔的名字一样，你可以假装它不存在，但你活着就绕不开。</p>
-<p>@好蓝嗖好蓝嗖的阿迟：举国正义感？？？？我就问！法律去哪里了？？警察去哪里了？？？都是吃翔了吗？一个被拐卖至今未得到解决的问题，这样一个违法犯罪得不到惩处，而作为一个官方媒体还发出这样的论调竟然一点都不感觉到耻辱！你在吃带着血的馒头！</p>
-<p>@云暄_依钒：举国的正义感？！和当地政府当地村民一样的繁殖癌才能说出这样的话吧？她被现实打压磨灭了意志，那么其他的被拐妇女的意愿呢？囚禁强奸这样的犯罪行为就合该让被拐妇女遭受着？！罪犯的错凭什么受害者承担？！凭什么？！</p>
-<p>@爬爬倍儿棒：所以法律是个p么？因为情有可原？ 造成她悲剧的不是公众的正义感，囚禁她的也不是公众的正义感，而是司法的缺失，无视和纵容，把这些归咎于公众舆论绑架，其心可诛。</p>
-<p>@Synteettinen：放你妈的狗屁，这个锅我不背，法律道德都被你吃了吗，以前我最讨厌这么说的，不过，现在我觉得，你国药丸[拜拜]</p>
-<p>@溪里水浅：时至今日，没有一家媒体有针对当地政府及相关职能部门渎职的报道，翻来覆去被针对的只有郜敏艳这三个字。说这背后没有被操纵，你信吗？我国的媒体，总是在不必和政府对着干的地方，对着干。该好好责问政府的时候，从来不，说到底，就是利益二字，哪有什么新闻人的追求与责任感？</p>
-<p>@三角烧三角烧：她作为受害者确实受到了过多的关注和各方的施压，好了，我们现在不关注她了，关注拐卖参与者，你们能把人贩，村民，相关政府负责人交出来不？毕竟她们村子还有好多被拐卖的姑娘，不要转移矛盾。</p>
-<p>@HarVestJi_jupiter：所以小编的意思是，你们看你们把人家的生活都搅乱了，真要关心她就别再关注这事了⋯⋯你三观喂了狗了吧？</p>
-<p>@俺是萝卜脆脆本人的微博：噢 一个又一个好好的少女被拐卖去偏远山村打骂虐待强奸，如今相关部门啥动作都没有，反而说举国的正义感在伤害她？！ 这理解力满分啊！你们觉得她过得好你们也去体验一下？</p>
-<p>@虎牙先生王俊凯：你国也就这样了，怪天怪地怪时运不济，怪到最后反倒成了网友的错，多管闲事咯？[doge][doge]</p>
-<p>@TONY3093-李诚涌：当您讲法理时，人家同您讲情理，当您讲情理时，人家同您讲法理，当您讲法律时，人家当流氓，当您做流氓时，人家又讲法律。笑笑吧，这个世界无非是今天笑笑别人，明天被别人笑笑，而这些笑话足以堆砌起一个社会与民族的悲哀。问好</p>
-<p>@落下孤灯白雪飘：[doge]这言论也是神奇，该救的时候不救，还把人塑造成“最美女教师”。发出来被网友批评，还有脸怪网友。那些做恶没被惩罚的干嘛不怪？捏软柿子？</p>
-<p>@唱歌的和尚：当违法犯罪遇到三纲五常，也可以忽略不计了，——可以说她是被中国的封建糟粕文化囚禁着。</p>
-<p>@Dramatize丶：能再恶心一点？举国的正义感绑架了她？这皮球踢的真是妙啊</p>
-<p>@花之律：记者们，能不能抓重点，采访多灾多难的当事人做什么？哪个是她能控制的？有能耐你们采访当地村委会、镇政府、公安局、打拐办、妇联、县教育局、县委宣传部、河北省委宣传部……就知道挑软柿子捏，你们集体阳痿啊？</p>
-<p>@Minaros：最后都是境外反动势力搞得鬼？</p>
-<p>@自黑大魔王：小编你丧尽天良！写通稿的人你的良心呢？！</p>
-<p>@吃大餐的sohu：中国梦，白日梦</p>
-<p>@liulaiyouqu：虽然不是第一次被这个无耻的政府恶心到。但党媒在目前已经是水火不容，讲真2022都未必是现政府的情况下。还如此的为渎职开脱，为平息愤怒而火上浇油，扬汤止沸。我说，你们明白你们在干嘛吗？这种行为叫丧失政权合法性！以为现在还是那些被丧事喜办洗脑的愚民吗？以为吗？党媒滚蛋！</p>
-<p>@侯杨方：多好的象征。如果所有人都向这位女教师学习，江山就可以千秋万代了，更不需要维稳了，所以要大力宣扬。</p>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/">被拐女教师</a>专题</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BE%E5%9B%BD%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E5%9B%9A%E7%A6%81%E7%9D%80%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9F%E7%9A%AE%E7%90%83%E8%B8%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E4%B8%8D%E4%BD%9C%E4%B8%BA/?category=18271" rel="tag">行政不作为</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">被拐女教师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -668,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s23u1mjtj1nc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kgvctyluk389.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -678,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d3i6e2bv2phnf3.cloudfront.net">https://d3i6e2bv2phnf3.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d1kywl11kvk88c.cloudfront.net">https://d1kywl11kvk88c.cloudfront.net</a><br/><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kgvctyluk389.cloudfront.net">https://d3kgvctyluk389.cloudfront.net</a><br/><a href="https://d3s23u1mjtj1nc.cloudfront.net">https://d3s23u1mjtj1nc.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/></td>    </tr>
 </table>

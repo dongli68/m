@@ -60,7 +60,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E9%B1%BC%E4%BE%AF/?category=18271" rel="tag">长鱼侯</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%BE%AE%E4%BF%A1%E7%8E%B0%E5%B0%81%E5%8F%B7%E6%BD%AE-%E7%96%91%E4%BC%BC%E6%95%B4%E9%A1%BF%E8%B0%A3%E8%A8%80/" target="cdt-mirror">翻墙 | 微信现封号潮 疑似整顿谣言</a>
 </h2>

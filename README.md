@@ -24,6 +24,64 @@
         <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%BF%9D%E5%8D%AB%E5%8D%81%E5%AD%97%E6%9E%B6-%E4%B8%AD%E5%9B%BD%E5%9F%BA%E7%9D%A3%E5%BE%92%E4%BB%AC%E6%AD%A3%E5%9C%A8%E8%81%94%E6%89%8B%E6%8A%97%E4%BA%89/" target="cdt-mirror">博谈网  | 保卫十字架 中国基督徒们正在联手抗争</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/shizi_1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/shizi_1.jpg" alt="十字架" width="550" height="310"></a></p>
+<p>（博谈网记者赵亮编译报道）据《今日基督教》8月3日报道，“中国的耶路撒冷”当地政府在过去两年里已从教堂建筑上拆除了数百个巨型红色十字架。现在，中国的新教徒和天主教徒们正在联合起来，把红色的十字架重新放回公众视线，虽然尺寸要小得多。</p>
+<p>在一个网上运动中，浙江省的教会领袖们呼吁众基督徒手工制作数百个小型木制十字架，把它们涂成红色，摆在家中或他们的汽车里。</p>
+<p>“他们每拆一个十字架，我们就会竖起来更多”，一位要求匿名的教会领袖对《卫报》表示。“我们甚至在考虑制作带有十字架图案的旗帜和衣服。我们会让十字架遍及整个中国。”</p>
+<p>（当局）拆除十字架的运动始于2013年，但去年夏天对基督徒的打击最为严重。数百个十字架被拆除，有时伴随着拆除整座教堂。</p>
+<p>基督徒们不时坐在他们的教堂前抗议，或在十字架前保护它。世界基督教团结会（CSW）报告说，2014年有100多人因抗议当局拆除十字架而被拘留或逮捕。另外38人在抗议期间遭到殴打或受伤。</p>
+<p>去年秋天，拆除十字架的行动减少，冬季似乎完全消失了，但今年春天又重新升温。5月份拆除了17个十字架。7月份又拆了10个.</p>
+<p>同样在5月份，中国政府发布了关于教堂十字架新的指导方针：它们必须是矮的，不得超过建筑立面高度的1/10。它们必须贴在建筑立面上，不得竖立在建筑物顶空。这些规则意味着所剩的大多数教堂十字架必须得拆除，它们通常是红颜色矗立在建筑物顶。</p>
+<p>浙江省温州市因为有一百万新教徒及大约30万天主教徒而被称作“中国的耶路撒冷”。从温州市天主教领袖们写的一封公开信来看，中国的基督徒们正在对这场运动失去耐心。</p>
+<p>“我们的教区一直很耐心，合情合理。我们一次又一次地展示了宽容，我们祈祷、沟通和观望，希望阴霾能散去”，这些领袖们写道。“但他们没有停止过。相反，他们已升级了这场运动，迅速出击十字架，那是爱与和平的象征。”</p>
+<p>“浙江省正在进行的这场强拆十字架和拆除教堂的运动已经对浙江省的天主教和新教教会产生了深远的负面影响”，世界基督教团结会首席执行官Mervyn Thomas说。“许多教会领袖耐心地多次尝试与地方当局去谈判和对话，他们领导的这些抗议和请愿是一个迹象，表明政府没有解决他们的问题。”</p>
+<p>因此，7月4日，一个教会的成员们举行了静坐，他们拿着标语，上面写着“举起十字架”和“保护宗教自由”。7月下旬，大约20名牧师在政府办公室外抗议。他们的横幅写着“维护宗教尊严，反对强行拆除十字架”。</p>
+<p>与此同时，一群基督徒维权律师已经联手为宗教自由而战，他们自称是“保护十字架的律师”。</p>
+<p>上周，16名新教徒被以“妨碍公务”及“非法经营罪”逮捕，但他们的律师称他们被捕是因为他们拒绝让当局拆除他们的十字架。</p>
+<p>天主教神学院教授陈开华神父在微博上要求中国各地的教会加入“安全、合法的非暴力抗命运动”。</p>
+<p>他写道，“明天你将会看到浙江到处都是十字架。”</p>
+<p><a href="http://www.christianitytoday.com/gleanings/2015/august/china-sees-red-christian-protest-hundreds-crosses-wenzhou.html" target="_blank">原文China Sees Red：Christian Protest Puts Hundreds of Crosses Back in Public</a></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%BF%9D%E5%8D%AB%E5%8D%81%E5%AD%97%E6%9E%B6-%E4%B8%AD%E5%9B%BD%E5%9F%BA%E7%9D%A3%E5%BE%92%E4%BB%AC%E6%AD%A3%E5%9C%A8%E8%81%94%E6%89%8B%E6%8A%97%E4%BA%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92/?category=18271" rel="tag">基督徒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E7%A7%8D%E4%B9%A6%E9%83%BD%E4%B9%B0-%E8%82%AF%E5%AE%9A%E6%9C%89%E9%97%AE%E9%A2%98/" target="cdt-mirror">【网络民议】这种书都买 肯定有问题</a>
+</h2>
+<p><p>@阑夕：BBC的记者因为在书店买了几本习的著作被警察拆包盘问……她在Twitter上吐槽：“难道是因为这些书没有人会购买，所以当我去买就显得很可疑么？”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5d098bccgw1euqk9xjkyqj20gg0j676y.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5d098bccgw1euqk9xjkyqj20gg0j676y.jpg" alt="5d098bccgw1euqk9xjkyqj20gg0j676y" width="440" height="513"></a></p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p>蘑菇蘑菇蘑蘑菇菇：大家可能嫌纸太硬。</p>
+<p>囧纳森III：“傻逼才花钱买这玩意儿呢！这个洋鬼子一定有猫腻！”</p>
+<p>贫僧莫言：你们拿回去学这个治国，领导的老婆孩子往哪里送啊？</p>
+<p>貂锦胡尘：价值观不输出了？</p>
+<p>Threewatch：这种书都买，肯定有问题！</p>
+<p>小光君： 哈哈哈敌对势力要偷我强国之路的秘笈！</p>
+<p>陇上一哥：这是国家机密，里面有很多治国的计谋，岂能外人拿走，学了咋办？！</p>
+<p>专业起哄：绝世秘籍会给你带来杀身之祸的[生病]不信你买本笑傲江湖看看，拿秘籍的人都杯具了。</p>
+<p>lulingeorge：还有一种可能是：他们奉命监视，告诉不在现场的上司，外国人现在在买书；上司一听来了精神，就叫他们开包检查。</p>
+<p>lulingeorge：奉严令监视外国记者一举一动，战战兢兢唯恐出错；看到记者购买纸质文本，一下子毛骨悚然起来；基层警察，行动自主权、政策解释权、对监视目的的整体了解度很少，宁左勿右…</p>
+<p>kankeSKY：想把宝书带走！哼！那里那么容易！</p>
+<p>宋学渊律师：我们不出口。</p>
+<p>铜豌豆方：哈哈哈哈 你买这书不是脑子有病就是别后用心 肯定要查你啊</p>
+<p>十年砍柴：宝书被洋人买走，想干什么呀？当然会怀疑居心叵测。</p>
+<p>_根勇：三个不自信！</p>
+<p>闲人哈罗：想垄断梦？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E7%A7%8D%E4%B9%A6%E9%83%BD%E4%B9%B0-%E8%82%AF%E5%AE%9A%E6%9C%89%E9%97%AE%E9%A2%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF/?category=18271" rel="tag">治国理政</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%94%BE%E9%A3%8E%E6%94%BB%E9%98%B2%E7%81%AB%E5%A2%99%E6%8A%A5%E5%A4%8D%E4%B8%AD%E5%9B%BD-%E5%A4%AA%E8%BF%87%E5%88%86%E4%BA%86/" target="cdt-mirror">环球时报 | 美国放风攻防火墙报复中国 太过分了</a>
 </h2>
 <p><p><strong>原标题：社评：美放风攻防火墙报复中国，太过分了</strong></p>
@@ -586,60 +644,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8A%E5%AE%98%E4%B9%B1-%E5%B0%B4%E5%B0%AC%E7%9A%84%E7%94%B0%E5%9B%AD%E7%89%A7%E6%AD%8C/" target="cdt-mirror">上官乱 | 尴尬的田园牧歌</a>
-</h2>
-<p><p>前天早上，我在睡眼朦胧中，收到我妈的短信——我妈知道这个时候我肯定还没有连上wifi上微信：“乌鸦嘴，十只小鸭被蛇或者老鼠吃光了。”我瞬间睡意全无，整个清晨的氛围都被这个有点惊悚的田园牧歌感染了。她说的乌鸦嘴是我，她当初打算在乡下盖间小房子，养点鸡鸭种点蔬菜，农夫山泉有点田，以打发退休时光的时候，我就不怀好意地打击她：“蛇都知道：人少，鸡多，速来。”</p>
-<p>我知道我们的调侃中，一直漂浮着一些心酸——她心疼那些夭折的小鸭仔，在她为数不多的养老金发放下来之前，十只小鸭并不仅是田园牧歌式的忧伤，还是笔实在的损失和伸手可触的挫败感。她在朋友圈转发的各种养生、社会、家庭鸡汤，最重要的作用，不过是把这些现实的窘迫与焦虑粉饰成小清新的田园牧歌。自己种的青菜干净而健康，另一层意思不过是经济适用假装逼格。现在乡村里的每一个老人妇孺，都喜欢说自己的作物“绿色”“生态”“有机”，他们并不知道有机的真正含义有多么苛刻，但他们知道，这个概念很受欢迎，是城乡二元化中作为弱势的一方的他们最大的自我安慰和优越感。</p>
-<p>要说农村生活没有改善，是不可能的。这里每家每户都享受着现代工业和市场流通的便利，再老旧的人家，堂屋里都摆放着电视机冰箱洗衣机微波炉，很多人还将以前的旱厕改为冲水厕所——因为养猪的人家剧减，厕所不需要连着猪圈。一半以上的人家有电脑，拿着手机走在田野里，从一个村子到另一个村子，手机几乎随时显示此处有可用wifi，连40多岁的媳妇手机上都装了wifi万能钥匙。可是，这仅仅是市场供求的结果。乡村的人情社会和权力结构并没有随着信息时代升级更新，而是一直一如既往地坚挺着。</p>
-<p>近几年，许多知识分子的议题都离不开故乡，我也在母亲准备退休之前才关注起这个我离别了十几年的小镇。十几年后，这里基本没有什么变化，小学时天天走的桥变成了危桥，立桩加杆限制车辆的高宽，老街依然买得到解放鞋，以前的亲戚长辈全部老了。最大的变化是山坡上的监狱。</p>
-<p>这座监狱因专门关押经济犯和落马贪腐官员而闻名。小时候，它在山坡顶上，屋顶隐约可见，神秘莫测。前几年，它高高的围墙和电网已经扩大到山脚，监狱大楼崭新宏伟，几十米一个哨岗，犯人数量扩充了不知道多少倍，却仍然有供不应求之势。前几日，一个同学告诉我，最近她老公在我老家镇上。我问在那里干什么，她隐晦地说：学习。我恍然大悟。她老公是搞金融的。那座监狱一直以来都被用作预防犯罪教育基地，教育了一批又一批金融从业人员、法学师生、官员，又收纳了一批又一批前金融精英和前人民公仆，容量扩大了几倍，不知道会不会修分部。</p>
-<p>前不久，朋友一群人在亲戚村子里拍摄一个广告片，新老村干部看见一队人扛着摄像机进村，以为是电视台，紧张得不得了，接连不断地给我妈打电话，问这帮人要干什么，是不是要把他们推上舆论的风口浪尖。我妈哭笑不得，喃喃道：心这么虚，在怕什么。</p>
-<p>我还参观过其他村子的选举，候选人只有两个，事实上只有一个，就是现任的村主任，他磕磕巴巴地读完演讲稿以后，大家就可以选他了。另外一个陪选的炮灰连讲稿都没有——即使有也然并卵，谁要选他，就拿不到30块钱一人的出场费。</p>
-<p>其实，所有关于田园牧歌的幻想，都如那一纸讲稿一样。母亲退休后，在镇上新建的公寓安了家，却总不满足，和土地割断联系的几十年让她找不到根，于是跑到危桥对岸的亲戚手中租下几分田角，在里面种土豆、青菜、花生。</p>
-<p>第一年，满田的花生即将饱满成熟的时候，一场十年不遇的大洪水冲破河岸，将花生田像文物一样埋在一尺厚的淤泥下，将这个别无所长唯有长年水患的县城第一次推上央视新闻。我妈说：“可惜我扯了那么久的草。”——为了实现她的绿色生态梦想，她坚持不用除草剂。</p>
-<p>其实我觉得现在我故乡的乡村已经够生态了，河岸、田野到处是成群的白鹭，喜欢悠然地站在水牛身上，站成美妙的图景；田里野兔成群，我妈都抓到过一只野兔仔，回家拿牛奶和水果养着；当然蛇也成群。这些可以在微信朋友圈装逼半年的美景，背后的凄凉逻辑却基本被无视：野兔多，白鹭多，是因为土地抛荒非常严重，因为年轻人们离开村庄，再也不回到土地上。白鹭增多还因为食物丰富——它们的食物主要就是泛滥每寸沟渠水田的福寿螺，这些十几年前被引入中国的肥硕生物，现在入侵到了故乡的每一寸水域，繁殖力恐怖，稻叶上、石头上，到处是一堆堆粉红色的卵，像一滩滩粉红色的痰。可因为它是很多寄生虫的宿主，加上肉质比田螺差得远，又上不了餐桌。</p>
-<p>我母亲的田园牧歌梦也一样。她在菜地里并没有得到满足，她还要在菜地边——荒废了十几年的老房子边，盖一座铁皮屋，只用来养鸡鸭，每天早上赶来喂食、捡蛋。可是她大概忘了这种老房子里经常有蛇出没，于是出现了开头那一幕。</p>
-<p>水灾和蛇劫并不是母亲田园牧歌梦全部的尴尬。就在她盖铁皮屋的当天，就有远房亲戚来找了“麻烦”。那个亲戚带着村主任，指着我妈的铁皮鸡圈，说：“这个屋顶呢，都盖到我的竹林这边来了。”她还用手比划出屋顶“侵占”的距离，侵占了她足足有接近20厘米宽，起码有一片竹叶那么远，我妈不得不抽掉一些瓦。</p>
-<p>那片竹林那亲戚并不使用，为什么如此计较这一绺边角呢？因为这片村子据说要建工业区，大家都在盼望征地赔款，村民第一次如此重视那个叫“产权”的东西，虽然这个征地的传说起码已经流传了6年，至今却一点迹象都没有。为着这个消息，每家每户都在平房上硬生生加了一层石棉瓦，或者在多年未问津的田里种上几颗树苗，结果石棉瓦都破得千疮百孔，树苗也争气地成林了，传说仍然只是传说，可是许多村民仍然和那个亲戚一样，谨慎地维护着那微弱的期望，就像维护那微弱的“产权”一样。</p>
-<p>维护土地是本能，因为土地不仅能生长出米面瓜果，还能生出真金白银。在本县其他的乡镇，有幸引进了项目的村子，土地早已面目全非，人与人之间也不再那么淳朴——或许淳朴本来就和“生态”一样是种标签，因为拆迁征地，农民和官员犄角相对，斗智斗勇，每天上演一出又一出对抗、上访、镇压、截访的剧目，包括我参观过选举的那个村子，以及这个国家更广泛的土地。而人们往往只为那萧条土地里长出的“生态蔬菜”而感动得泪流满面，却并不理会这片土地与人的真实期望。我永远记得，小时候，家族里名声很不好的表叔，娶了一个山区乡镇的漂亮老婆。那满口客家腔的女人对我说:“嫁给他,无非就图这儿是平坝,我再不用挑粪爬山梁了。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8A%E5%AE%98%E4%B9%B1-%E5%B0%B4%E5%B0%AC%E7%9A%84%E7%94%B0%E5%9B%AD%E7%89%A7%E6%AD%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%AE%98%E4%B9%B1/?category=18271" rel="tag">上官乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91/?category=18271" rel="tag">乡村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%80%81/?category=18271" rel="tag">生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B0%E5%9B%AD%E7%89%A7%E6%AD%8C/?category=18271" rel="tag">田园牧歌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B3%E5%86%AC%E5%A5%A5%E6%AD%8C%E6%9B%B2%E3%80%8A%E5%86%B0%E9%9B%AA%E8%88%9E%E5%8A%A8%E3%80%8B%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F/" target="cdt-mirror">知乎｜为什么冬奥歌曲《冰雪舞动》很像《冰雪奇缘》主题曲？</a>
-</h2>
-<p><p><strong>问题：</strong>为什么北京申办 2022 年冬奥会歌曲《冰雪舞动》听起来很像《冰雪奇缘》主题曲？<br>
-只要听过冰雪奇缘主题曲 let it go 感觉就是抄袭的啊醉了 为了安全 还是匿了吧</p>
-<p><strong>答主：<a href="http://www.zhihu.com/people/luo-yuan-chen-60">土酱Elapse</a>，</strong><strong title="是个勃爱的人">是个勃爱的人</strong></p>
-<p>先说结论:”不敢说抄没抄袭，80%的相似度。”</p>
-<p>看到题主题目特地去听了这首《冰雪飞舞》，然后粗略对比了《Let it go》。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2ba8adbd4258d508b719ef759e191ffa_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2ba8adbd4258d508b719ef759e191ffa_b.jpg" alt="2ba8adbd4258d508b719ef759e191ffa_b" width="600" height=""></a></p>
-<p>(连调都懒得改了么)</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5760fd4378a08a9920acdb36ed594da1_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5760fd4378a08a9920acdb36ed594da1_b.jpg" alt="5760fd4378a08a9920acdb36ed594da1_b" width="600" height="102"></a></p>
-<p>前面主歌部分比较相似的主要有两句，冰舞第一句”梦如雪在下”的几个音和LIG的是一样的，只是压的节奏不一样，而第二句”长城内外”这几个音就是一样的旋律。</p>
-<p>后面部分还没弄，粗略听了下，和LIG的相似点还有以下</p>
-<p>最主要的相似点是两首歌的和弦走向基本上是完全一样的。但是实际上很多歌曲的和弦走向都是可能相同的，然而因为配器的选择和编排的不同，作曲旋律的不同，两首不一样的歌才会被区分出来才不会有那么多的相似度，才不会给人一种”啊，这不是那首《xxxx》吗”的感觉。然而，《冰雪舞动》和《Let it go》的和弦走向、配器的选择和编排都是类似度达到90%的，且不论一看这名字就得联想到LIG</p>
-<p>冰舞的旋律部分，比如上面讲的，还有后面的”天地之大”这几个音和LIG的是一样的(当时进行的和弦也是一样的)。</p>
-<p>配器的编配方面，前奏类似不用说了，都是那么长的小节，都是差不多钢琴和声与和弦分解，不那么类似的是冰舞”巧妙”地用了和LIG同样和弦里的不同底音。冰舞是”F C# G# D#”，LIG是”C G# A# F”。</p>
-<p>还有很类似的地方是冰舞的歌词”爱如雪融化”开始的弦乐的编配就和LIG后面部分的类似了。</p>
-<p>好吧，我不知道是否是《冰雪舞动》这首歌曲的制作团队是否和LIG的团队有关联，如果有他们有关联有交流有讨论，这首曲子可以认为是《Let it go》合理的中文版改编；如果没有，那么这首歌曲只是一首和LIG相似的曲目，给人只有既视感和没新意而已了吧。</p>
-<p>写曲子，和弦向别的歌曲借鉴是正常的，甚至作曲部分旋律有类似感也是可以接受的，然而连配器的使用和编排、歌曲的分段小节速度都要一样的话，╭(°A°`)╮是有点过分啦。</p>
-<p>开着Let it go 的伴奏作了曲，然后巧妙地修改修改修出另一个影子么。希望只是我想多了。</p>
-<p>以上。</p>
-<p><strong>附歌曲链接</strong>：《<a href="http://www.weibo.com/p/10151501_56178535">Let It Go</a>》《<a href="http://www.weibo.com/p/10151501_56607924">冰雪舞动</a>》</p>
-<blockquote><p>“梦里回首复兴的中华”</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1.560.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1.560.jpg" alt="1.560" width="525" height="328"></a><br><em>（网络图片）</em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B3%E5%86%AC%E5%A5%A5%E6%AD%8C%E6%9B%B2%E3%80%8A%E5%86%B0%E9%9B%AA%E8%88%9E%E5%8A%A8%E3%80%8B%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%AF%A8/?category=18271" rel="tag">山寨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -651,7 +655,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jef2bkp16tj6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhz8njgnt52dp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +665,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5
                 <td></td>
                 
         
-        <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhz8njgnt52dp.cloudfront.net">https://dhz8njgnt52dp.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
 </table>

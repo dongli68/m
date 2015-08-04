@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d222mead95cxb5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ds0o1ncr69cqn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d222mead95cxb5.cloudfront.net">https://d222mead95cxb5.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E5%88%BA%E5%88%80%E4%B8%8D%E4%BC%9A%E5%B8%A6%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%B9%81%E8%8D%A3/" target="cdt-mirror">美国之音｜张欣：刺刀不会带来中国股市繁荣</a>
+</h2>
+<p><p>—— 论“恶意做空”罪名之荒谬</p>
+<p>除了少数阴谋论偏执狂外，谁都希望中国有一个繁荣健康的股市，包括股民，中国政府，以及西方国家。但不尊重经济规律就会事与愿违。</p>
+<p>最近中国政府与证监会为了阻止沪指下跌（其实是市场回调真实股价的一个正常过程），在这次“救市”中采取的一些措施的实际效果却是破坏中国股市，在法治、金融国际化、和改革上大幅倒退。</p>
+<p>政府采取的各种暴力救市手段中，最荒谬，最违规，最有害，也是最无效的“救市”手段就是司法恐吓做空的投资者，为此甚至创造一个“恶意做空”的罪名。摘录官媒新华网报道的两段如下：</p>
+<p>“公安部副部长孟庆丰会同证监会排查近期恶意卖空股票与股指的线索，…，证监会、公安部执法人员已进场对近日涉嫌恶意做空大盘蓝筹股的十余家机构和个人开展核查取证工作。（7月9日）”</p>
+<p>“证监会新闻发言人张晓军表示，根据交易所监控报告和投诉举报反映，证监会已组织稽查执法力量，重点针对7月27日集中抛售股票等有关线索进场核查。针对备受关注的一些大户集中抛售股票一事，张晓军表示，不排除存在恶意做空这种可能。证监会正组织力量对有关线索进行核查，一经查实，将严厉惩处。… 一位投资者曾于7月3日接到证监会核查电话，感到很意外，证监会向他询问了为何集中高买低卖一只股票，是否恶意做空等。（7月29日）”</p>
+<p>政府和证监会的司法恐吓做法，岂不等同于在市场上用刺刀来威胁交易者？其危害性质如下：</p>
+<p>第一是荒谬性。</p>
+<p>所谓“恶意做空”，既无客观定义，亦无法规法理依据。不管是买多还是卖空，如果违规违法，证监会应该追究执法。可这“恶意做空”以动机为理由的罪名就怪了。股民入场股市是为了赚钱投机套利，不是去捐钱爱国跟党走。股市中做空者有恶意嫌疑，股市做多者就算善意自愿捐钱？如果一个券商或者股民为了套利看跌去做空抛售股票，只要他不违规，有什么错？难道还要和当年文革那样，“腹诽”“企图发财”都能是罪名？</p>
+<p>即使有股票大鳄为套利集中资金做空打跌某股票，当天也最多跌停10％。如果那股票确实低过真实价格，第二天自有一大堆其它投机套利者会进来抄底抬高股价。如果说套利是恶意，那么市场机制的神奇就是靠投机者自利的“恶意”行为来达到了社会资源配置最优的结果。因此，政府要做的就是保护市场上每个人有这种自利恶意的自由，而不是去妨碍这种自由。</p>
+<p>第二是破坏性，将使中国股市萎缩而不是繁荣。</p>
+<p>自从人类历史开始商品交换，成就了经济和商业发展，靠的是市场上交易各方的自愿，没有靠刺刀逼在交易双方后面强买强卖的，不然就不叫市场而叫抢劫或者霸市。股市本来就是多空交易双方自由交换博弈的地方，政府职能本应是保护好自由交易的市场机制，现在反过来自己去破坏去做市霸。不要说你还想吸引外国资本建立国际金融中心，即使是连国内股民和真正有盈利潜力的国内公司如阿里巴巴，都会被这些做法吓得退出中国股市。</p>
+<p>第三是无效性和不可操作性。</p>
+<p>除非在股市全面禁止抛售股票或者干脆关闭股市，政府不可能盯在上亿股民券商或者账号屁股后面监管，告诉他哪个股票可以卖哪个不可以卖。经济学上叫做监管成本太高不可行或不可操作。事实上，证监会和公安部的所有机动人力连一两个大券商公司都监管不了。券商要赚钱，它每时每刻不停地在几千个上市公司股票里做买卖，你证监会公安部有人力有能力从早到晚监管和批准它哪一笔生意可作哪一笔生意不可做？证监会唯一可以硬做的就是在千万个卖空减持的大股东中随机抓一个典型武断定性处理。可结果必然是，既没有信服力也不会有遏阻力，受损的反倒是证监会自己的信誉、法治意识和监管执法能力。</p>
+<p>市场繁荣靠买卖双方以图利为目的的自由交易。市场的供求双方制衡可提高经济效率优化最终结果。如陈志武说，这次股市危机中，中国政府特别要感谢的反倒是做空的，因为他们拴住了泡沫疯牛，避免了未来更大的股市和经济危机。</p>
+<p>用司法恐吓股市中的买卖任何一方，如同用刺刀威胁强卖强买，不会带来中国股市的健康和繁荣。政府想出这类措施，反映了以为依靠命令、威胁和高压可以解决从政治到经济所有问题的错误领导思维方式。这种思维方式曾在毛领导下给中国带来过计划经济的失败和大跃进灾难。中国不应在来之不易的市场化道路上倒退。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E5%88%BA%E5%88%80%E4%B8%8D%E4%BC%9A%E5%B8%A6%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%B9%81%E8%8D%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AF%BC%E6%B8%B8%E7%81%AB%E7%88%86%E8%A7%86%E9%A2%91%E7%9C%9F%E7%9B%B8%E5%9C%A8%E6%AD%A4/" target="cdt-mirror">全叔读报 | 台湾女导游火爆视频真相在此</a>
 </h2>
 <p><p>昨天开始，一段台湾女导游号召大陆游客抵制康师傅的视频在朋友圈、微博疯传，视频中，女导游告诉全车游客，康师傅此前在台湾发生馊水油事件，全台正团结进行“灭顶行动”，直到顶新完全退出台湾。她还说，“康师傅在台湾产的馊水油，跟运到大陆贩售的馊水油，大陆是台湾56倍。但顶新集团态度是什么？康师傅说大陆14亿人，我怕你啊，大陆谁不吃我的方便面，谁不喝我的矿泉水，我无所谓啊，大陆就算10亿人不理我，4亿人支持我，我也发财了，它根本不在乎台湾市场。”</p>
@@ -618,30 +646,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B1%E6%94%BF%E5%BA%9C%E5%90%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%81%93%E6%AD%89-%E9%87%8D%E5%8F%916%E4%B8%AA%E6%9C%88%E7%AD%BE%E8%AF%81/" target="cdt-mirror">美国之音｜英政府向艾未未道歉 重发6个月签证</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/07/1C4AF4FD-F3B8-420B-9BD8-EA683A95F89B_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/1C4AF4FD-F3B8-420B-9BD8-EA683A95F89B_w640_r1_s.jpg" alt="" width="575" height=""></a><p>艾未未、王芬（左）和他们的儿子抵达德国慕尼黑机场（2015年7月30日）</p></div>
-<p>华盛顿— 英国内政大臣特里萨·梅下令向中国艺术家艾未未颁发6个月的签证，推翻了原先只给他20天签证的决定，并且向艾未未表示道歉。</p>
-<p>早些时候，英国内政部发表声明说，正在“了解”这起事件。</p>
-<p>英国签证处原先<a href="http://chinadigitaltimes.net/chinese/2015/07/bbc-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8B%92%E5%8F%916%E4%B8%AA%E6%9C%88%E5%95%86%E5%8A%A1%E7%AD%BE%E8%AF%81/">拒绝颁发给艾未未6个月的商务签证</a>，说他没有在申请表上如实填写自己的“犯罪记录”。</p>
-<p>英国内政大臣特里萨·梅就此向艾未未表示道歉。</p>
-<p>这个星期四，艾未未在Instagram网页上发表了一篇文章，说英国只给了他20天的签证。</p>
-<p>今年57岁的艾未未常常对北京提出批评，他从来没有受到正式指控或定罪，不过常常遭到中国当局的骚扰、逮捕和罚款。</p>
-<p>艾未未星期四在Instagram上发表的另一则声明说，艾未未向英国驻北京大使馆解释，中国当局没有正式起诉他，所以没有填写，可是英国当局“拒绝承认任何失误”。</p>
-<p>声明说：“这个决定不仅剥夺了艾未未作为一个普通公民的权利，而且是站在给那些人权捍卫者制造痛苦的人的立场上。”</p>
-<p>据英国广播公司报道，英国内政部一位发言人说，已经向艾未未寄出了一封信，“对给他造成的不便表示道歉”。</p>
-<p>英国内政部表示：“签证处没有就颁发给艾未未一个月签证的决定向内政部请示，特里萨·梅审查了这个事件后，指示内政部为他颁发6个月的签证。”</p>
-<p>艾未未2011年被中国当局拘捕，没收了他的护照，指控他逃税，并对他所属的公司罚款1500万人民币。很多人认为政府的做法是出于政治动机。</p>
-<p>一个星期之前，中国政府把护照归还给了艾未未。</p>
-<p>目前，艾未未已经离开中国，抵达德国。他将前往英国参加英国皇家艺术学院今年9月举办的艾未未个人作品展的开幕式。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/07/%E8%8B%B1%E6%94%BF%E5%BA%9C%E5%90%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%81%93%E6%AD%89-%E9%87%8D%E5%8F%916%E4%B8%AA%E6%9C%88%E7%AD%BE%E8%AF%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -653,7 +657,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1uhdeocsxtx9r.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24t8df74xqgwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -663,5 +667,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
                 <td></td>
                 
         
-        <td><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24t8df74xqgwl.cloudfront.net">https://d24t8df74xqgwl.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d3j9wxaxhevs10.cloudfront.net">https://d3j9wxaxhevs10.cloudfront.net</a><br/><a href="https://ds0o1ncr69cqn.cloudfront.net">https://ds0o1ncr69cqn.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1x9b1kipusa7k.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1x9b1kipusa7k.cloudfront.net">https://d1x9b1kipusa7k.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B6%85%E7%BA%A7%E8%8B%B9%E6%9E%9C%E7%BD%91%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E5%8F%9B%E5%8F%98%E8%83%8C%E5%90%8E%E4%B8%A4%E5%A4%A7%E7%8E%84%E6%9C%BA-%E4%BB%A4%E6%A1%88%E6%9C%89%E5%8F%98/" target="cdt-mirror">超级苹果网｜令完成”叛变”背后两大玄机 令案有变?</a>
+</h2>
+<p><p>不同于周永康身边的“秘书帮”、“马仔”，令计划案的特别之处在于其背后的令狐家族，兄妹五人及家庭可谓全军覆没，唯有令计划最小的弟弟令完成仍在逃海外，成为令案备受关注的话题之一。而令计划案盖棺定论在即，这或许意味着令计划案有变。如令完成寻求政治庇护属实，将可能成为中国的“斯诺登”式人物，“叛变”对中共造成的打击也可想而知。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1438697093_511029.jpg" alt="1438697093_511029" width="549" height="412"><br>
+令计划案已远远超出了中共反腐的范畴</p>
+<p>中共给令计划定的罪名中“违法获取国家大量核心机密”可以算作是最吸引人眼球的一项，这与坊间对令完成的描述“不谋而合”。此前多家媒体报道，令完成在逃美国，并且手握高层机密要挟中南海，要求中共停止对令氏家族不利的处置。甚至有分析称，令完成手中材料的重要程度远超过前重庆副市长王立军叛逃美领馆、以及斯诺登爆美国政府监听行为所引起的震动。以此逻辑，令完成如同令计划与中共谈判的一个政治筹码。连日来，令完成外逃事件从坊间舆论场内走向了更大的舆论平台。</p>
+<p>被外界认为有中共官方背景的财新网报道称，确认令完成已经逃往美国，且在美国加州内华达山脉脚下小镇卢米斯（Loomis）拥有一处豪宅。这座豪宅占地2.5英亩、建筑面积725平方米。报道称令完成以化名“王诚”及其妻的名义于2013年9月买下这座豪宅。</p>
+<p>需要注意的是，稍早前，中办大管家令计划“监守自盗”，非法获取大量“机密”文件的坊间消息，因敏感度较高一直处于被“封锁状态”，对令狐一家进行“起底式”调查中，两位“大哥”令政策、令计划已身陷囹圄不在话下，但令完成和妻子李平如同人间蒸发，听不到一丝音讯。此前在中国互联网中，“令完成”也属于禁忌词。一些涉及令完成的海外消息或评论，均被删除。而财新网的报道无疑是打开了这道防火墙，也代表着中共对此事的态度已经提升至一个高度，即当下毋须解决这一问题。</p>
+<p>种种迹象显示，中共历时一年的调查取证后，伴随着令计划被移交司法，令完成事件或已成为令案完结的最后一个环节。无独有偶，《纽约时报》8月3日也引用美方官员的说法证实了这一消息。同时还透露，最近几个月，奥巴马政府都因为令完成这个人，受到来自中国政府要求对其遣返的压力。美国国务院发言人托纳(Mark Toner)称，我们一直与中国就共同关系的执法问题保持沟通，这其中也包括潜逃者和反腐运动。坦白来说，中国一直反对住在美国的国民，我们一直试图对此反对，正如我之前说的，要依靠中国向我们提供合法、令人信服和有力的证据来说明为何这些人要被引渡回国。美国国务院对令完成的关注，让其登上海内外各大华文媒体的头条新闻，舆论场内对令氏兄弟的讨论沸反盈天。相较于周永康、徐才厚等人贪腐、滥用职权、党内违纪等罪名，这意味着令计划案有变。其一，从大陆反腐角度来看，令计划案按盖棺定论在即，如坊间传言令完成手握“大量核心机密”消息属实，那么令完成便是当局定罪令计划的重要证人及证据的持有者。</p>
+<p>虽然从官方指控的“六宗罪”内容来看，令计划至少涉及三大罪名，分别是受贿罪、滥用职权罪与非法获取国家秘密罪。根据中国法律规定，除受贿罪最高可判死刑外，其他两项罪名的最高刑期均为七年。但特殊的一点在于，令计划的牢狱之灾实属必然，但引渡令完成一事，从检察院起诉令计划的工作进度上，以及刑罚的考量上都起着重要的推动作用。</p>
+<p>其二，如令完成寻求政治庇护属实，将可能成为中国的“斯诺登”式人物，因其“叛变”，或将成为情报领域的一项非凡成就，对中共造成的打击可想而知。进一步分析，这也意味令案更本性质已经从反腐问题转变至国际层面的国家安全问题。</p>
+<p> </p>
+<p>资料显示，中共的反腐行动包括2014年开始的“猎狐行动”计划，追捕逃到国外的腐败官员。但是中国与包括美、加、澳等主要西方国家没有签订引渡条约，因此这些国家成为外逃贪官的首选目的地。中国官方此前称，至少150名“经济在逃人员”在美国滞留，其中多数被认为是贪腐官员，普遍认为，令完成便是其中之一。而早在2014年北京召开的亚洲太平洋经济合作组织（APEC）峰会上，已经通过了《北京反腐败宣言》，成立反腐败执法合作网络（ACT-NET）。美中官员也在2015年1月在菲律宾会商，讨论遣返藏匿在美国的中国贪腐官员一事。曾有分析指出，美国之所以犹豫，是认为中国的法制水平不够，如果与中国签订引渡条约，相当于认可中国法制水平。</p>
+<p>就此反观美国国务院发言人对细节问题的回避，中美双方就追逃令完成一事的交涉情况，很有可能加剧本就紧张的中美关系。早在今年三月，海内舆论热议王岐山将访美一事与追逃令完成不无关系。《金融时报》曾引詹姆斯敦基金会中国安全问题专家彼得•马蒂斯的话说，“如果这是王岐山作为中纪委负责人对美国进行正式访问，那么他此行的主要原因之一就是追捕外逃贪官和追缴外逃非法资金。”事实上，此事随后也不了了之，有舆论分析称，由此可以看出中美双方的初期谈判也许并不怎么顺利。临近9月，习近平访美在即，此时令完成的消息大量曝光，奥巴马也选择此时宣称“决定对所谓中国从人事管理局数据库窃取2,000多万美国人个人信息一事进行报复，但仍在竭力寻求采取一些不至于使两国网络冲突升级的行动。”无不透露出两国外交层面上的博弈战略。目前来看，习近平访美会否就遣返令完成一事同奥巴马政府交涉仅处于猜测阶段，但中共在进行了两年卓有成效的国内反腐后，如何开辟海外反腐战线，开辟后又如何执行反腐任务等问题，才是中共正面临的一大挑战。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B6%85%E7%BA%A7%E8%8B%B9%E6%9E%9C%E7%BD%91%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E5%8F%9B%E5%8F%98%E8%83%8C%E5%90%8E%E4%B8%A4%E5%A4%A7%E7%8E%84%E6%9C%BA-%E4%BB%A4%E6%A1%88%E6%9C%89%E5%8F%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%81%BF%E5%B8%A6%E9%B1%BC%E8%AE%B3%E7%9A%84%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%9D%A5%E4%B8%B4/" target="cdt-mirror">【立此存照】避带鱼讳的时代已来临</a>
 </h2>
 <p><blockquote><p><a href="http://www.weibo.com/1992226647/Cuh2AbVtx">@朱怀素</a>： 俺被周带鱼举报了，还扣了二分。。。牛！逼！</p></blockquote>
@@ -616,48 +638,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BF%84%E6%83%B3%E5%85%B3%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2-%E5%A6%82%E6%AD%A4%E5%AF%B9%E5%BE%85%E6%88%98%E7%95%A5%E4%BC%99%E4%BC%B4/" target="cdt-mirror">美国之音｜俄想关孔子学院 如此对待战略伙伴</a>
-</h2>
-<p><p>虽然俄罗斯与中国关系不断密切，但孔子学院在俄罗斯却遭遇麻烦。俄罗斯检察官最近起诉孔子学院违法，要求关闭孔子学院并把这家中国官方支持的机构定性为外国代理人。俄罗斯媒体说，这是对中国软力量的强硬回答。</p>
-<p>被告上法院</p>
-<p>与中国相接壤的俄罗斯边境城市布拉戈维申斯克的法院最近决定受理检察官的起诉，将在8月4日开庭审理当地一家孔子学院违法一案。位于黑龙江另一岸，阿穆尔州首府布拉戈维申斯克与中国黑河市隔江相望，中国人称之为海兰泡。</p>
-<p>布拉戈维申斯克检察院认为，附属于布拉戈维申斯克国立师范大学的孔子学院违反了俄罗斯有关组建外国文化信息中心方面的法规。孔子学院必须以非商业机构的身份在俄罗斯注册，并要在税务机关登记。检察官要求停止孔子学院的活动，并把中国官方支持的孔子学院定性为外国代理人和非政府组织。</p>
-<p>等同外国代理人</p>
-<p>外国代理人在俄语中拥有为外国间谍和情报机构从事活动的含义。普京几年前再次当选总统后，俄罗斯国内曾爆发大规模抗议示威。亲俄罗斯的乌克兰总统亚努科维奇也在一年多前被民众示威赶下台。在这一背景下，克里姆林宫为维持执政稳定，接二连三出台各种法律加紧对国内社会控制，外国代理人法就是其中之一。</p>
-<p>许多俄罗斯活动人士认为，外国代理人一词带有歧视和侮辱内容，他们宁可关闭自己的组织，也不愿意在当局的强迫下以外国代理人的身份登记。外国代理人法成为当局打压人权团体和在俄罗斯活动的西方非政府组织的重要工具。</p>
-<p>欧美从未发生 或是误会非官方立场？</p>
-<p>俄罗斯与中国官方曾多次表态要对抗所谓的颜色革命，但俄罗斯以对付西方非政府组织和人权机构的手法对待孔子学院让人感到十分奇怪。</p>
-<p>中国驻俄罗斯大使馆的一名高级外交官对当地媒体表示，孔子学院是俄中文化交流合作的重要工具，越来越多的俄罗斯大学想与之合作。类似干扰孔子学院活动的做法无论在美国还是在欧洲都从未发生过。考虑到中俄两国关系前所未有的密切程度，限制孔子学院活动的举动让人感到莫名其妙。他认为，这可能是场误会和意外，并非俄罗斯官方立场，问题将得到解决。</p>
-<p>威胁国家安全 有关闭先例</p>
-<p>孔子学院在俄罗斯已开办大约20家，但已经不是第一次遇到麻烦。雅库茨克地区的联邦安全局在2010年成功关闭了当地孔子学院。俄罗斯安全机构认为，孔子学院肩负向俄罗斯渗透中国意识形态以及从事经济扩张的任务，威胁到了国家安全。</p>
-<p>关注中国事务的俄罗斯活动人士尼科里斯基透露，2012年时，俄罗斯新西伯利亚市的检察官同样曾对当地孔子学院实施检查，并曾想关闭孔子学院，列出的理由同这一次非常相似，那就是：孔子学院的中文课程都收费，但却不交税。一些在孔子学院教书的中国人没有有关从事教学活动的资历证明和许可。但由于莫斯科中央政府干预，新西伯利亚市的检察官并没有把孔子学院告上法院，事情后来不了了之。</p>
-<p>担心中国影响扩大</p>
-<p>尼科里斯基说，俄罗斯国内很多人都支持孔子学院的中文教学活动。但也有不少人确实担心孔子学院不受控制，中国借此扩大影响。</p>
-<p>尼科里斯基：“反对孔子学院的这些人他们首先认为，孔子学院主要所从事的不是中文教学，而是渗透中国共产党文化和意识形态，比如不允许讨论西藏问题，法轮功，中国持不同政见者等。此外，不少人还担心，中国利用孔子学院这个工具来培养俄罗斯年轻人，使年轻一代的精神世界亲北京。”</p>
-<p>回应中国软力量 排外牺牲品</p>
-<p>尼科里斯基认为，这场风波也显示了在俄罗斯今天的政治气候下，孔子学院正成为牺牲品和人质。由于同西方对抗使俄罗斯变得孤立，国内许多人日益拒绝和反感外部世界和外国文化，因此孔子学院和其他西方国家的文化中心一样被一视同仁看待，都被当成外部势力，在这方面中国同其他别的西方国家没有区别。</p>
-<p>俄罗斯媒体评论说，孔子学院被一些人看成是中国部署在国外的特洛伊木马。孔子学院肩负着宣传中国文化和扩展影响力的任务，同时也是中国软力量的代表。针对中国的软力量，俄罗斯检察官这次做出了强硬回答。</p>
-<p>校方力挺孔子学院</p>
-<p>布拉戈维申斯克国立师范大学与中国黑河大学2007年签订协议共同组建了这所孔子学院。布拉戈维申斯克国立师范大学国际教育合作部主任兼孔子学院院长库哈连科否认孔子学院的活动违法。他解释说，孔子学院是他们大学的下属机构，并非中国的文化信息中心。因此，不应被定性为外国代理人。他认为，孔子学院被指控宣传中国文化，但他们并没有参与政治活动。</p>
-<p>库哈连科说，检察官在3月份对孔子学院实施了检查，不满孔子学院的中国教师中，有的人缺乏没有刑事犯罪的证明，以及在俄罗斯精神神经防治所登记的证明，但他们随后在两个星期内已把有关文件补齐。</p>
-<p>俄边境居民对中国有好感？</p>
-<p>活动人士尼科里斯基说，边境城市布拉戈维申斯克同中国交往频繁密切，中文应该在当地有市场。</p>
-<p>但他注意到，自从孔子学院遇到麻烦后，仅有当地大学的官员出面表态支持孔子学院，而大学生或是普通民众迄今都保持沉默。如果这些边境地区的居民真的对中国有好感，他们为什么不能挺身出面为孔子学院辩护？这种现象让人深思。</p>
-<p>对中国失望 态度转变</p>
-<p>尼科里斯基说，西方制裁后，俄罗斯转向中国，许多人原本期望能从中国获得好处，在俄罗斯遇到困难时能得到中国的帮助。但结果并非如此，许多人因此失望，更有人乐见孔子学院遭遇不顺。</p>
-<p>尼科里斯基：“总的来讲，俄罗斯对中国的看法发生了改变。这首先表现在人们觉得没有得到中国的帮助，以及当局当初承诺的众多好处，许多人不再认为两国友谊将有美好未来。最近，对这种友谊的批评声音开始增多，甚至一些支持克里姆林宫的人也加入了批评行列。”</p>
-<p>形势如何发展引人关注</p>
-<p>尼科里斯基说，许多人觉得，同中国拉近关系仅使坐在莫斯科的一小撮人获得了好处，多数人其中包括边境地区都与此无缘。很可能是地方上的检察官决定起诉孔子学院。莫斯科中央政府这次是否将出面干预，地方上将如何回应都值得观察。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BF%84%E6%83%B3%E5%85%B3%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2-%E5%A6%82%E6%AD%A4%E5%AF%B9%E5%BE%85%E6%88%98%E7%95%A5%E4%BC%99%E4%BC%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2/?category=18271" rel="tag">孔子学院</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -669,7 +649,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d103zed7wnrbqu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1uhdeocsxtx9r.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -679,5 +659,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
                 <td></td>
                 
         
-        <td><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d23txna5f63swy.cloudfront.net">https://d23txna5f63swy.cloudfront.net</a><br/><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1uhdeocsxtx9r.cloudfront.net">https://d1uhdeocsxtx9r.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/><a href="https://d103zed7wnrbqu.cloudfront.net">https://d103zed7wnrbqu.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
 </table>

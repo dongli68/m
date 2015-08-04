@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2nyp6w3ktvkkm.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,74 @@
                 <td></td>
                 
         
-        <td><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d1ddldspblcit2.cloudfront.net">https://d1ddldspblcit2.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d2fl55xayqc3u.cloudfront.net">https://d2fl55xayqc3u.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/><a href="https://d1ddldspblcit2.cloudfront.net">https://d1ddldspblcit2.cloudfront.net</a><br/><a href="https://d2fl55xayqc3u.cloudfront.net">https://d2fl55xayqc3u.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%81%BF%E5%B8%A6%E9%B1%BC%E8%AE%B3%E7%9A%84%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%9D%A5%E4%B8%B4/" target="cdt-mirror">【立此存照】避带鱼讳的时代已来临</a>
+</h2>
+<p><blockquote><p><a href="http://www.weibo.com/1992226647/Cuh2AbVtx">@朱怀素</a>： 俺被周带鱼举报了，还扣了二分。。。牛！逼！</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/76bef757jw1euqnso51r0j20dc0m8ado.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/76bef757jw1euqnso51r0j20dc0m8ado.jpg" alt="76bef757jw1euqnso51r0j20dc0m8ado" width="400" height="666"></a></p>
+<blockquote><p><a href="http://weibo.com/n/%E5%8C%97%E6%96%97%E4%B9%A6%E7%94%9F?from=feed&loc=at" target="_blank">北斗书生</a>:今天一口气举报了数百名说带鱼的，野生的太伤人了 <a title="http://service.account.weibo.com/index?type=6&status=0&key=%E5%91%A8%E5%B0%8F%E5%B9%B3&page=1" href="http://t.cn/RLjMgqN" target="_blank"><em>网页链接</em></a></p></blockquote>
+<p><strong>2015年8月4日，周小平同志在新浪微博举报记录截图：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC01.png" alt="周带鱼01" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC02.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC02.png" alt="周带鱼02" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC03.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC03.png" alt="周带鱼03" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC04.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC04.png" alt="周带鱼04" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC05.png" alt="周带鱼05" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC06.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC06.png" alt="周带鱼06" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC07.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC07.png" alt="周带鱼07" width="535" height=""></a><strong><br>
+以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://www.weibo.com/1628920082" target="_blank">墨客博浪行</a>：主动对号入座？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://www.weibo.com/bluecq" target="_blank">不死鸟之火舞</a>：明明是养殖的，说野生那就是人身攻击<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p><a href="http://www.weibo.com/3982303416" target="_blank">旗袍6</a>：回复<a href="http://weibo.com/n/qizhy_?from=feed&loc=at" target="_blank">@qizhy_</a>:杂交的不假，但人家是御膳房养殖的嘛，都成精成妖了，还不准人家咬人嗦？那御膳房养它做啥子嘛？难不成真的要“奸”“煎”了？<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p>@十年砍柴:靠。带鱼莫非也要避讳？</p>
+<p>@爵爷府小宝：新浪官方认可并将某称呼就是某人的代号。看起来博主输了两分，实际上新浪把一坨黄亮亮的泥巴糊到某人的脸上了</p>
+<p>@大咕咕咕鸡: 小平同志这是终于认祖了吗，喷了！当代生活的残酷性，一个活生生的人，在话语的凝视下活活被建构成一条带鱼</p>
+<p>@方便卫生起效快：吃包子就得就带鱼，这是星辰大海套餐</p>
+<p>@一头小活猪: 说包子全家突突突。</p>
+<p>@娮之凿凿：每个人都骂他带鱼，有本事他全举报了</p>
+<p>@holicchen：带鱼怎么能是野生的呢，人家是有主子滴。</p>
+<p>@大炮小白兔：又逗了~~~说个带鱼就人身攻击了？脊索动物门 脊椎动物亚门 硬骨鱼纲 鲈形目 带鱼科 我说错没？Kingdom: Animalia Phylum: Chordata Class: Actinopterygii Order: Perciformes Family: Trichiuridae Genus: Trichiurus Species: T. lepturus ，这再举报再扣分咱就木话说了~~</p>
+<p>@战争史研究WHS: 我觉得是从带鱼（硬骨鱼纲鲈形目带鱼科）进化为皇带鱼（辐鳍鱼纲月鱼目皇带鱼科）了[笑cry]</p>
+<p>@张不叁_：因为他讳说“带鱼”以及一切近于“带”、“鱼”的音，后来推而广之，“皮带”也讳，“黄花鱼”也讳，再后来，连“绳”、“线”都讳了。谁知从此种花家的闲人们便愈喜欢玩笑他，一见面，他们便假作吃惊的说：“哙，吊起来了！”“原来有保险丝在这里！”……</p>
+<p>@站住大和尚：笑死我了！活该！人家是乾清宫行走黄马褂带鱼！下回直接冲过来咬你！</p>
+<p>@刘步尘：你说带鱼有野生的，等于说某人是没爹的野孩子，当然要扣分，[嘻嘻]，中国已进入带鱼惹不起时代，你要与时俱进</p>
+<p>@爷超疯: 野生活带鱼算侮辱性词汇？</p>
+<p>@周泽律师: 估计以后鱼类都不让提呢。</p>
+<p>@Meine_excalibur：@周小平同志 来看看评论呗，煞笔</p>
+<p>@睡雾狮medal：今晚赶紧煎条带鱼吃，压压惊 @周小平同志</p>
+<p>@奥六马：带鱼不让说，鲳鱼让说吗？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E9%BB%9B%E7%8E%89.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E9%BB%9B%E7%8E%89.png" alt="周黛玉" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC.png" alt="周带鱼" width="535" height="232"></a><br><em>（新浪微博“周带鱼”和“周黛玉”搜索结果截图）</em></p>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/">周带鱼</a>专题</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%81%BF%E5%B8%A6%E9%B1%BC%E8%AE%B3%E7%9A%84%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%9D%A5%E4%B8%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E9%B1%BC%E4%BE%AF/?category=18271" rel="tag">长鱼侯</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%BE%AE%E4%BF%A1%E7%8E%B0%E5%B0%81%E5%8F%B7%E6%BD%AE-%E7%96%91%E4%BC%BC%E6%95%B4%E9%A1%BF%E8%B0%A3%E8%A8%80/" target="cdt-mirror">翻墙 | 微信现封号潮 疑似整顿谣言</a>
+</h2>
+<p><div dir="ltr">新榜根据业界反馈信息获悉，8月3日晚间，微信公众号惊现封号潮，不少十万级大号被封，理由多为“谣言”，据此推断，此次封号极有可能是微信官方整顿谣言的生态优化行动。</div>
+<div><a href="http://4.bp.blogspot.com/-7jrF6m7g3Ls/VcBqMynJ0HI/AAAAAAAACdM/T3IIgeH2r9Q/s1600/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25B0%2581%25E5%258F%25B71.jpg" target="_blank" rel="nofollow"><img src="http://4.bp.blogspot.com/-7jrF6m7g3Ls/VcBqMynJ0HI/AAAAAAAACdM/T3IIgeH2r9Q/s640/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25B0%2581%25E5%258F%25B71.jpg" alt="" width="512" height="640" border="0"></a></div>
+<div></div>
+<p>据有关运营者反映，许多公司化的微信运营团队有四五个号同时被封，而且许多账号在之前没有违规封号的情况下，第一次就被直接封号一个月，此举不难看出微信重拳打击谣言的决心。</p>
+<p>除了封号规模较大之外，另一方面的情况也备受注目：有运营者反映，微信官方通知中所列举导致封号的文章有的是一年前发布，有的是未发布的素材，甚至有人反映所涉文章和素材都早已删除。</p>
+<div><a href="http://4.bp.blogspot.com/-LZei_N06yJ0/VcBqM1xnH3I/AAAAAAAACdQ/Dswh_7OtExw/s1600/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25B0%2581%25E5%258F%25B72.jpg" target="_blank" rel="nofollow"><img src="http://4.bp.blogspot.com/-LZei_N06yJ0/VcBqM1xnH3I/AAAAAAAACdQ/Dswh_7OtExw/s640/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25B0%2581%25E5%258F%25B72.jpg" alt="" width="433" height="640" border="0"></a></div>
+<div></div>
+<p>根据《微信公众平台服务协议》（以下简称“协议”），无论是否正式发布，在微信公众平台上制作、储存违法违规信息本身就可能受到制裁。根据协议第五条中关于信息内容规范的规定：</p>
+<p>5.1.1 本条所述信息内容是指用户使用本服务过程中所制作、复制、发布、传播的任何内容，包括但不限于微信公众帐号头像、名称、用户说明等注册信息及认证资料，或文字、语音、图片、视频、图文等发送、回复或自动回复消息和相关链接页面，以及其他使用微信公众帐号或微信公众平台服务所产生的内容。</p>
+<p>5.1.2 你理解并同意，微信公众平台一直致力于为用户提供文明健康、规范有序的网络环境，你不得利用微信公众帐号或微信公众平台服务制作、复制、发布、传播如下干扰微信公众平台正常运营，以及侵犯其他用户或第三方合法权益的内容。</p>
+<p>如果按照协议规定，后台涉及谣言的未发布图文素材是有可能被制裁的。但如果上图中运营者反馈信息属实，已经删除了发布消息和后台素材之后还是被封号，则让人疑惑。</p>
+<p>运营者主动删除图文消息应当视为认识到自身存在问题，主动消除不利影响。即使考虑到“谣言”已经造成了事实上的负面影响，但不问运营者的主动认错行为，一刀切封号，多少有些不近情理。</p>
+<p>网络谣言泛滥亟需治理，需要有关部门、平台方和运营者及用户多方合力而为。此前，微信通过“谣言粉碎机”公众号、辟谣大会，以及建立辟谣中心等措施，有效地打击了微信生态圈的谣言态势。</p>
+<p>有网友提议，参照原创版权库的做法，微信官方可以设立谣言内容库，将已证实的谣言内容纳入其中，在公众号内容未发出之前通过比对来提示运营者可能存在违规，或许可以更有效地从源头上遏制谣言的传播。</p>
+<p>源地址：http://mp.weixin.qq.com/s?__biz=MzAwMjE1NjcxMg%3D%3D&from=groupmessage&idx=1&isappinstalled=0&mid=207728902&scene=1&sn=aaf42f16f68f9b8363c5f3818a8ec995</p>
+<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html" target="_blank" rel="nofollow">订阅地址及社交帐号</a></div>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
+<hr><p><small>© 亚克蜥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%BE%AE%E4%BF%A1%E7%8E%B0%E5%B0%81%E5%8F%B7%E6%BD%AE-%E7%96%91%E4%BC%BC%E6%95%B4%E9%A1%BF%E8%B0%A3%E8%A8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">谣言</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%BF%9D%E5%8D%AB%E5%8D%81%E5%AD%97%E6%9E%B6-%E4%B8%AD%E5%9B%BD%E5%9F%BA%E7%9D%A3%E5%BE%92%E4%BB%AC%E6%AD%A3%E5%9C%A8%E8%81%94%E6%89%8B%E6%8A%97%E4%BA%89/" target="cdt-mirror">博谈网  | 保卫十字架 中国基督徒们正在联手抗争</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/shizi_1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/shizi_1.jpg" alt="十字架" width="550" height="310"></a></p>
@@ -102,7 +167,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%98%E4%BA%89/?category=18271" rel="tag">网络战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E8%A7%84%E5%88%99%E4%B9%8B%E9%97%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E8%BF%B7%E6%80%9D/" target="cdt-mirror">何清涟：习近平与规则之间关系的迷思</a>
 </h2>
@@ -593,57 +658,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%85%8B%E9%B2%81%E6%A0%BC%E6%9B%BC%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BF%87%E5%8E%BB25%E5%B9%B4%E7%9A%84%E6%88%90%E5%8A%9F%E5%B9%B6%E4%B8%8D/" target="cdt-mirror">美国之音｜克鲁格曼：经济成功并不意味中国领导人懂经济</a>
-</h2>
-<p><p>诺贝尔经济学奖得主、普林斯顿大学教授克鲁格曼(Paul Krugman)自从1999年开始，同时为《纽约时报》撰写专栏。目前，他的专栏每周一和周五发表。在7月31日出版的、最近一篇专栏里，克鲁格曼以“中国的裸体皇帝们”(China’s Naked Emperors)为题，特别阐述了最近中国股市动荡与政府运作所表明的、中国领导人的执政能力、尤其是在经济领域的执政能力，同中国经济“飞速发展”之间的关系。</p>
-<p>文章一开头，克鲁格曼即以美国国内的形势为例，“以点带面”。他写到：那些在经济发展状态良好时期执政的政治人物，往往错误地以为自己很能干；这一点，可以从美国国内的局势见端倪：以杰布.布什为例，仅仅因为他担任弗罗里达州州长期间，那里的房地产经历了大幅度的上升，同时又很幸运地在弗罗里达的房地产泡沫破灭以前卸任，就自以为知道经济增长的奥秘了。</p>
-<p>克鲁格曼还以日本为例：“我还记得1980年代大家都在说日本的官员如何如何懂经济，后来，日本经济陷入长期萧条（也就再也没人这么形容日本官员了）。”</p>
-<p>克鲁格曼说，应该从这些角度来看待中国目前非常“奇怪的”股市状况。“股票价格（高低）本身原本不应当太‘引人注目’，但是中国政府方面选择了通过力图控制股市的方式，将他们的信誉同股市动向紧密结合在一起；而这么做，恰恰反映出：尽管中国过去25年来取得了很令人侧目的(经济领域的)成功，其领导人根本就不懂他们到底在做什么。”</p>
-<p>克鲁格曼提出一个问题：在投资大幅度削减的同时，消费又增长得不够快，这中间产生的落差会有什么样的效应？</p>
-<p>他注意到，中国的企业、包括很多的国有企业，赚了钱，往往“往兜里揣”，而不是投入到社会和大众中去，因此大大降低了普通人的消费能力。与此同时，中国领导人很有可能是因为出于政治上的担心，对即便是短期的经济萧条，也怕得要命。所以就一直在用信贷的方式，长期“强制喂养”整个(经济)体系，包括鼓励股票市场的“繁荣”。但是，克鲁格曼说，这些招数可以在一段时间内有效；假如大规模的改革进行得很快，那么，结果可能是皆大欢喜，但是，实际情况并不是如此；结果是，泡沫在等着破灭。</p>
-<p>克鲁格曼在7月31日星期五为《纽约时报》撰写的专栏里写到：往往，每当你以为当权者都已经名声/信誉扫地了，但是他们不知怎地，还能够“再创新高”。“最近，(中国官方)媒体就一直为股市大幅下跌寻找替罪羊——你猜对了——这个替罪羊就是‘境外敌对势力’。”</p>
-<p>克鲁格曼说，中国官方这么做，恐怕是搬起石头砸自己的脚了：中国政府长期以来在这方面一直有非常严格的限制，以至于中国的股市根本就不允许外国人参与。“从来就没被允许拥有的股票，怎么个甩卖法？”</p>
-<p>这位世界著名的经济学家说，中国股市最近的动荡所反映的中国经济状况或许不是新闻，而真正是新闻的，是这一过程所衬托出的中国领导人的状况。“把你以前听说的、有关他们如何英明、如何前瞻，都丢到脑后吧；从他们眼下的这些动作来看，他们根本就不知道自己在做什么。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%85%8B%E9%B2%81%E6%A0%BC%E6%9B%BC%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BF%87%E5%8E%BB25%E5%B9%B4%E7%9A%84%E6%88%90%E5%8A%9F%E5%B9%B6%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%A6%82%E6%AD%A4%E6%94%BF%E5%8F%98%E7%9A%84%E5%90%97%EF%BC%9F/" target="cdt-mirror">争鸣｜世界上有如此“政变”的吗？</a>
-</h2>
-<p><p>博讯网于今年七月十三日首发了一篇《上海消息：江李或在习近平九月访美期间发动政变！》江李是指江泽民和李鹏。真是天大的奇闻。古今中外政变都是暗中策划、突然发生的。哪里有明目张胆、大声张扬，两个月前就宣称要在何时发动政变！对方难道是白痴，等待政敌来政变把他推翻？</p>
-<p>常态政变</p>
-<p>什么是政变？这是指统治集团内部一部分人采取军事或政治手段造成国家政权自上而下的突然变更。远的不说，一九七六年十月六日时任中共中央第一副主席、国务院总理华国锋联合中共中央副主席叶剑英和中共中央办公厅主任汪东兴等人将时任中共中央政治局委员王洪文、张春桥、江青、姚文元（即“四人帮”成员）以“隔离审查”的名义抓捕。</p>
-<p>根据现已公开的资料，一九七六年九月十日下午华国锋到李先念家中密谋，派李去西山找叶剑英密商粉碎“四人帮”之事。由于直接关系到每个参与者的身家性命，所以必须小心翼翼、谨慎行事。叶李密谈时怕隔墙有耳，特地开响了收音机广播。后来又到院子里谈，确保周围无人偷听。九月十一日华又找汪东兴密谈，汪时任中央政治局委员、中央警卫团政委、中央办公厅主任，大权在握，华必须依靠汪的支持。九月二十一日叶、华进行了历史性的晤谈，初步确定采取隔离审查的方式。九月二十六日华找李先念、吴德密会，最后决定用隔离审查，并确定国庆节后动手。十月四日下午汪向华、吴通报了他和叶商量的行动方案，三人商定：由华、叶坐镇中南海怀仁堂指挥，以召开政治局常委会研究《毛选》第五卷的出版问题的名义，通知王、张、姚到会。汪负责抓捕，并派卫戍部队迅即控制《人民日报》、新华社、中央人民广播电台等。十月六日晚八时在怀仁堂一举抓捕王、张、姚，在中南海二○一号楼抓捕江青。前后过程高度保密，无人泄密才大功告成。由上述可见，如果事先大叫大嚷或不小心漏了风声，结局就完全不同，这是不言而喻的。</p>
-<p>再看一例。一九五三年三月五日斯大林死后，苏联领导层有三股政治势力并存：一股是贝利亚为代表的斯大林左派；另一股是马林科夫为代表的中左力量；再一股是赫鲁晓夫为代表的右派。赫鲁晓夫说服了马林科夫，两人结成反对贝利亚的联盟，他们决定在六月二十六日召开一次会议讨论贝利亚问题。为了当场逮捕贝利亚，马林科夫请来朱可夫元帅，并由赫鲁晓夫、布尔加宁组织了军人小组。当天，贝利亚入座后，马林科夫即宣读报告，不到一刻钟，军人们和朱可夫进入，马林科夫在读报告的最后几句：“可以看出，贝利亚不仅是国内的敌人，也是国际的敌人，建议立即逮捕”。军人立即动手，贝利亚举起双手。报道说七月二至七日召开了苏共中央全会开始正式清算贝利亚的“罪行”，但据说可能六月末逮捕后就将其处决了。</p>
-<p>新常态政变说缘由</p>
-<p>两个例子都表明政变不能让对方知道。那么为什么博讯会刊登这篇不合常理的文章呢？一个解释是放出探测气球，试探网上民间和国际的反应如何？另一个可能是为取消习近平上台后第一次正式国事访问美国造舆论。</p>
-<p>习近平上台以来，把中共自一九七八年十一月十一届三中全会以来确定的以经济现代化建设为中心的国策变成了以选择性反腐揽权保权位为中心，在此思想指导下，一系列政策和行动脱离了原来的轨道，甚至背道而驰。习已经当上了三个主要权位的头，还嫌不够，自封为十四个小组组长，成为独裁者。由于中共官场已是上层皆老虎、下层尽苍蝇，反贪一抓一个准。但是只抓政敌，不抓亲信，这怎能服人？官员们不知道明天又会抓谁？因此出现了普遍不作为的消极怠工，中国经济不断下滑。经济是根本，这样滑下去怎么得了！最近的股灾，更是雪上加霜。五千万股民，人均损失四十一万元，怪不得股民跳楼，对习近平完全丧失信心。追根索源，中国政府才是股市泡沫的始作俑者。习近平想通过上市的方式向股民圈钱解决企业负债过高的问题。国家媒体一直鼓动炒股，一年内上海股市上涨一倍半，深圳甚至翻了三倍，号称“习的改革牛市”，为习氏大唱赞歌。可这是泡沫，自今年六月中旬以来，三周已下跌约三分之一，蒸发市值二十万亿元。政府紧急采取特殊措施，甚至出动公安部队不许卖空。这种世上少有的措施的实际后果非常严重。市场本来是自由买卖的地方，政府出来干涉，只许买，不许卖，这还能称为市场吗？过去两年一直说要使市场在资源配置中起决定性作用，突然又不让起决定性作用了。君无戏言，没有了信用，谁再敢来投资中国股市？后果不堪设想。再加上一系列镇压异议者、公民社会、律师、记者、网络界等等，人们对习近平的评价一落千丈，这是他刚愎自用，对内犯了颠覆性错误，咎由自取。</p>
-<p>习近平自取其辱</p>
-<p>在对外方面，邓小平的韬光养晦，不当头、不称霸的策略实施多年，相安无事。习近平一上台，自以为翅膀硬了，四面出击，八方树敌，前年突然宣布设立东海防空识别区，谁要进入，必先通报中国，否则紧急处理，公布当天十时立即生效，气势汹汹。可是当美国两架B-52轰炸机不报而来时，习只能干瞪眼，不敢紧急处理了。习近平遭国际舆论耻笑为纸老虎，被比喻为赫鲁晓夫撤出古巴导弹时不得不揭开船上雨布让美机在上空检查。赫鲁晓夫受此羞辱是因为当时苏联声称拥有的一百枚导弹中只有八枚是真的，自知打不嬴美国。习氏受此羞辱也是因为自己还打不过美国，不敢动手。早知今日，何必当初？红卫兵式鲁莽地宣布东海防识区，直到现在，美国还公开不承认，真是何苦呢？</p>
-<p>去年习在南海又重蹈覆辙。“海洋石油九八一”钻井平台在南海争议海域突然宣布开钻一百天。越南说该处位于越南二百海浬经济专属区海域与大陆架范围内，双方吵得不可开交，美国国会参议院七月十日一致通过四一二号决议案，直接要求中国撤走平台。七月十四日习与奥巴马通电话后一天，平台立即撤离，提前一个月，推说是避台风。越、菲的一千五百台钻井为何不怕台风？又是早知今日，何必当初，自取其辱。</p>
-<p>今年又在南海填海造岛，至今造地面积已达九点五平方公里，正建造三千米长的飞机跑道，引发南海诸国警觉，促成越、菲、日、美、澳联合加强合作和防御，孤立的是习氏自己。经过一番争吵，六月十六日中国外交部宣布停止造岛，但表示仍要完成已建工程，意即习决心要完成机场跑道。习下了决心，人家就无法对付了吗？否，七月一日美国两架B-52轰炸机从美国中部的巴克斯代尔基地起飞，往澳大利亚北部的戴尔摩尔靶场投掷了常规炸弹，再飞回基地。空中加油，持续飞行时间长达四十四小时，飞行距离三万多公里，称为“轰炸机保证与威慑”任务。不言自明，这是在威慑南海造岛建机场者，你有办法造，我有办法炸。不用提关岛还有美军基地。</p>
-<p>总之，习氏对外到处逞强，四处出击，八方树敌，这是他志大才疏，对外也犯了颠覆性错误，结果是四面楚歌，孤立的是自己。</p>
-<p>找出路放气球不访美？</p>
-<p>在内外交困的情况下四顾茫茫，一个好汉三个帮，环顾世界，中国究竟还有几个真朋友国家？甚至连普京也若即若离。五月莫斯科大阅兵，习带去仪仗队，本想排在首位，结果排在末位。本想中央电视台直播，结果紧急停止。最近上合峰会，亲习媒体发现普京和习近平唱的调不一样。朝鲜更不用说，金三胖就是不与习氏见面，习氏又能把他怎么样？</p>
-<p>说了这么多，无非表明，习要找出路，放出政变气球探测舆论风向，只能是习方所为。江李方若有此意，唯恐保密不够，泄漏风声。第二个可能更非习莫属。他可推说为了防政变，不访美了。最近突然抓捕二百多名维权律师，可引美国发声，再以美国粗暴干涉中国内政为由，停止国事访问。他可以在国内筑高墙（防火墙越筑越高）下称霸，全面法西斯化。东方红，习特勒升，让世界见识一番。</p>
-<p>《争鸣》2015年8月号</p>
-<p>关键词: 政变 习近平 栏目: 新颖视角 首页重点发表: 精品导读 作者: 史平</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%A6%82%E6%AD%A4%E6%94%BF%E5%8F%98%E7%9A%84%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E6%94%BF%E5%8F%98%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">北京政变传言</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -655,7 +669,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ddldspblcit2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3iozzb1m9b94c.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -665,5 +679,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1ddldspblcit2.cloudfront.net">https://d1ddldspblcit2.cloudfront.net</a><br/><a href="https://d2fl55xayqc3u.cloudfront.net">https://d2fl55xayqc3u.cloudfront.net</a><br/><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3iozzb1m9b94c.cloudfront.net">https://d3iozzb1m9b94c.cloudfront.net</a><br/><a href="https://d2fl55xayqc3u.cloudfront.net">https://d2fl55xayqc3u.cloudfront.net</a><br/><a href="https://d1ddldspblcit2.cloudfront.net">https://d1ddldspblcit2.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d2nyp6w3ktvkkm.cloudfront.net">https://d2nyp6w3ktvkkm.cloudfront.net</a><br/></td>    </tr>
 </table>

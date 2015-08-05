@@ -140,7 +140,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B0%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3%E7%B2%BE%E9%80%89/?category=18271" rel="tag">官二代精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%B7%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">穷二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%85%E8%A1%8C%E7%AC%94%E8%AE%B0%EF%BD%9C%E8%A2%AB%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%94%B9%E5%8F%98%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA/" target="cdt-mirror">旅行笔记｜被一个人改变的另一个人</a>
 </h2>

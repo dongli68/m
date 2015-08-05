@@ -234,7 +234,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%87%89%E5%B1%B1/?category=18271" rel="tag">大凉山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%9D%E6%97%8F/?category=18271" rel="tag">彝族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%AF%E6%95%99/?category=18271" rel="tag">支教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%A6%E4%BE%9D%E4%BA%94%E6%9C%A8/?category=18271" rel="tag">苦依五木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0/?category=18271" rel="tag">贫困</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%99%88%E7%A0%B4%E7%A9%BA%EF%BC%9A%E4%BB%A4%E5%AE%8C%E6%88%90%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%89%8B%E4%B8%8A%E4%B8%80%E5%BC%A0%E7%89%8C/" target="cdt-mirror">法广｜陈破空：令完成是美国手上一张牌 </a>
 </h2>

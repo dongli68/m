@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jef2bkp16tj6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,99 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3p6evn3pxjtc0.cloudfront.net">https://d3p6evn3pxjtc0.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/><a href="https://d3p6evn3pxjtc0.cloudfront.net">https://d3p6evn3pxjtc0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%9C%89%E4%B8%80%E7%A7%8D%E7%94%9F%E7%89%A9%E5%8F%AB%EF%BC%9A%E6%9F%90%E5%9B%BD%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7/" target="cdt-mirror">德国之声 | 有一种生物叫：#某国单身女性#</a>
+</h2>
+<p><p>中国女艺人徐静蕾公开承认自己在美国冷冻卵子，并称‌‌“冷冻卵子是全世界唯一的后悔药‌‌”。一个月后，央视告诉中国单身女性，卫生部规定，单身女性不能使用冷冻卵子生育。然后，很多人都看不下去了。</p>
+<p>事情的起源大概真的要追溯到徐静蕾的身上。今年7月初，著名女演员徐静蕾接受中国一家媒体访问时公开承认自己在美国冷冻了9颗卵子。当时她在采访中解释说，冷冻卵子的目的不是为了多生孩子，而是‌‌“为了保证自己在生育权上拥有尽可能大的选择余地‌‌”。41岁的徐静蕾称，‌‌“冷冻卵子是全世界唯一的后悔药‌‌”。</p>
+<p>这件事一度在中国社会上引起广泛讨论。大约事隔一个月后，央视新闻报道称，‌‌“中国卫生部规定，单身女性不能实施辅助生殖技术的相关手术。有的医院允许单身女性冷冻卵子，但在使用冷冻卵子时必须提供三证：即身份证、结婚证、准生证‌‌”。报道中引述2001年中国卫生部发布的《人类辅助生殖技术管理办法》中做出的规定，‌‌“人类辅助生殖技术的应用应当在医疗机构中进行，以医疗为目的，并符合国家计划生育政策、伦理原则和有关法律规定‌‌”。这也就是说，按照中国现行相关政策及法律的规定，‌‌“未婚女性禁止进行辅助生殖类手术‌‌”。最通俗的理解就是，在中国，未婚女性即便冷冻了卵子，也不能接受人工授精手术。</p>
+<p>徐静蕾在其新浪微博上讽刺地写道：‌‌“有一种生物叫：#我国单身女性#。‌‌”自称‌‌“直男癌‌‌”的大陆作家韩寒也表示对相关政策‌‌“看不下去了‌‌”，他在微博上写道：‌‌“想要个孩子但就是不想跟男人结婚不可以吗？自己的卵子自己还不能用了吗？女性不能独立行使生育权利吗？还有，未婚女性怀孕，准生证都不给，孩子未来连户口都办不下来，除非认罚巨额社会抚养费。生育必须要和找个男人结婚捆绑吗？连我这个直男癌都看不下去了。‌‌”</p>
+<p><strong>有一种贴叫‌‌“找抽贴‌‌”</strong></p>
+<p>央视的这一报道再次在网上引爆有关单身女性冷冻卵子的讨论。在央视新闻官方微博相关报道下热门跟贴几乎无一例外地对卫生部发布的《管理办法》表示愤慨。有人评论道：‌‌“不去管拐卖妇女儿童，不去管性侵幼女，不去管家庭暴力，不去管校园暴力，却来反对女性冻卵。男的出轨，三妻四妾是压力大；女的出轨是臭不要脸骚溅浪。征婚现场洗脸扒光测胸围，拐去大山回不了家感动中国！真的够了。‌‌”还有人评论道：‌‌“他的意思是，有本事去美国你就去美国，没本事去美国就老老实实和中国男人混，又去不成美国还想不帮国家消化中国光棍，就让你断子绝孙。‌‌”还有人嘲讽地写道：‌‌“这是我看过的最好的移民广告。‌‌”</p>
+<p><strong>Facebook和苹果公司资助女员工冷冻卵子</strong></p>
+<p>去年，美国两大科技巨头脸书(Facebook）和苹果（Apple）公司分别宣布资助女员工2万美元冷冻卵子，以帮助她们在适合生育的年龄专注于事业发展。</p>
+<p>两个公司的做法被看作是公司‌‌“福利‌‌”，但也有批评意见指出，两家公司使用的这种策略会使女性将自己的精力和灵魂完全奉献给雇主，为了晋升而错过最佳生育时机。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%9C%89%E4%B8%80%E7%A7%8D%E7%94%9F%E7%89%A9%E5%8F%AB%EF%BC%9A%E6%9F%90%E5%9B%BD%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5%E6%8E%88%E7%B2%BE/?category=18271" rel="tag">人工授精</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B7%E5%86%BB%E5%8D%B5%E5%AD%90/?category=18271" rel="tag">冷冻卵子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">单身女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E9%9D%99%E8%95%BE/?category=18271" rel="tag">徐静蕾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2%E6%9D%83/?category=18271" rel="tag">生育权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB-%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E5%86%99%E6%82%B2%E6%83%85%E4%BD%9C%E6%96%87%E6%8F%AD%E8%90%BD%E5%90%8E%E8%B4%AB%E7%A9%B7/" target="cdt-mirror">网易新闻 | 四川大凉山女孩写悲情作文揭落后贫穷现状</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150804133458d0d19_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150804133458d0d19_550.jpg" alt="苦依五木" width="550" height="366"></a></p>
+<p>一个多月前，新华社记者范敏达曾深入大凉山，近距离接触了许多如苦依五木般的孩子，他用图文的形式，记录下了“不幸中依然保持纯真、贫穷中依然渴望学习”的孩子群像。</p>
+<p>今天，推荐一篇小学作文，一篇世界上最悲伤的小学作文。文章的作者名叫苦依五木(笔名柳彝)，一个来自大凉山的小学四年级彝族小姑娘。</p>
+<p>一个多月前，新华社记者范敏达曾深入大凉山，近距离接触了许多如苦依五木般的孩子，他用图文的形式，记录下了“不幸中依然保持纯真、贫穷中依然渴望学习”的孩子群像。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150804133501e98a7_550.jpg" alt="作文" width="450" height="852"></p>
+<p><strong>大凉山归来</strong></p>
+<p>昨晚，一位在大凉山支教的朋友分享了这篇四年级彝族女孩的作文，看完后心疼、心酸，情绪全无，整个人都不好了。</p>
+<p>令我纠结、难过的不仅仅是这个名叫苦依五木的孤苦女孩的命运，还有大凉山，这片美丽却又贫穷的大山里，千千万万个孩子的命运。</p>
+<p>我从大凉山回来已经快一个月了。这一个月来，每每一闭眼就看到孩子们黝黑的面孔、明亮的眼睛。那是世间最天真、最好奇、最真诚的眼神，也是最懵懂、最无知、最空虚的眼神。</p>
+<p>端午节那天，我和几位在四川省凉山彝族自治州美姑县大桥乡中心校支教的年轻人一起来到尔其乡甲拉村，和在甲拉支教的两个小伙子一起过端午节。</p>
+<p>甲拉村小位于村子地势最高的地方，原本是一间废弃的土坯房，竖起一面国旗，便成了一所能容纳30多个孩子的小学。</p>
+<p>我们抵达这里的时候，支教老师孙杰正在给孩子们补课。走进教室，30多双眼睛突然齐刷刷地回头望着我，那些眼睛在仅靠一盏白织灯照明的昏暗的教室里熠熠发光。</p>
+<p>孙杰告诉我，甲拉村以前没有学校，孩子们想上学就得步行一个多小时到尔其乡中心校去，然而山路险峻，雨季时更是泥泞非常，连马、羊等家畜都偶有跌落山崖摔死的情况发生，家长们便不愿让孩子冒险上学，“现在虽然有学校了，但是教室太小，村里还有一半的孩子仍然处于失学状态。”</p>
+<p>甲拉地处偏僻，两位支教老师的生活颇为艰辛，没有手机信号，没有生活来源，平时靠老乡接济的土豆、青菜、面条为生。</p>
+<p>“待下去的最大动力是老乡们的支持，”孙杰告诉我，“一次有个学生逃课，被他父亲揪着耳朵带回学校，当着我的面训那个孩子，‘老师教你认识那么多字，打死你都是可以的！’那时候我觉得，一切孤独、艰苦都值了。”</p>
+<p>在随后去瓦古乡尼勒觉村的路上，经过一个不知名的小村子。</p>
+<p>我们一行人停下来在村子里找水喝，这时，一个把红领巾当成头饰系在额头上的小女孩欢笑着从家里跑了出来，看到我们后脸一红，把额头上的红领巾摘了下来，又仔细地系在了脖子上。</p>
+<p>女孩名叫阿格以作，去年尼勒觉学校扩建翻新之后，她为了得到读书的机会，每天往返于两小时山路之外的尼勒觉学校。她告诉我，红领巾是她最珍视的宝贝，村里的小伙伴们都羡慕她有一条红领巾。</p>
+<p>我的那位在大凉山支教的朋友告诉我，虽然那里很多家长不重视教育，很多孩子在学校里调皮捣蛋，但是为了那些渴望学习，渴望走出大山的孩子们，他付出再多都是值得的。</p>
+<p>今年春节前，他曾带了几个孩子回到老家山西，其中一个名叫额其尔布的男孩令我印象深刻。</p>
+<p>额其尔布今年已经17岁，却刚刚开始读初一。因为父亲早逝，母亲身体不好，两个哥哥也已成家，他成为了家里的顶梁柱，读完三年级便辍学在家干农活。</p>
+<p>然而随着成长，额其尔布听说了外出打工的乡亲们描述的外面的世界，也萌生了好好读书，将来走出大山的念头，去年不顾母亲反对，问一个叔叔借了500块钱，到大桥乡中心校报名上初中。</p>
+<p>而跟着支教老师走出大山的这段时日里，看到了现代城市里的高楼大厦、飞机轮船，对比起自己家乡的贫穷落后，他坚定了自己的想法：要好好读书，考上大学，然后回到家乡教书，让更多的族人能够改变自己放羊种地的命运。</p>
+<p>回到大凉山的额其尔布成为了学校纪律的“守护者”，他会严厉制止一切妨碍老师上课的行为，也会耐心劝阻喝酒、逃课、打架等不良行为。虽然学习基础较差，但是他以一个男子汉的担当，努力地追赶学习进度，最近这次期末考试，他所在的班级一跃成为年级第一，他的成绩也名列前茅。</p>
+<p>可以说，大凉山的贫穷，并不仅仅贫穷在物资匮乏，更贫穷在观念落后。</p>
+<p>在大桥中心校里，有一个颇受公益组织关注的“爱心学校”，收容了本乡500多个像苦依五木一样的孤儿。</p>
+<p>凉山彝人热情豪迈，能歌善舞，却也沾染着吸毒、酗酒、斗殴等恶习，当地基础医疗服务极度薄弱，而彝人历史上又没有寻医问药的习俗，生病了就找“毕摩”(彝人宗教里的祭祀)，种种原因造成大量孩子生活在破碎的家庭中——甚至从小就失去了家庭的关怀。</p>
+<p>爱心学校里的孩子们还算是不幸者中的幸运儿，至少他们又获得了一个新的大家庭，而在更广的范围里，还有千千万万个彝族孤儿，只能像苦依五木一样，在泪水中思念父母。</p>
+<p>从大凉山回来后，我一直在思索，能够为那些孩子们多做些什么？</p>
+<p>孩子们需要支教老师吗？当然需要，但是支教老师往往只会待一到二个学期，他们走了以后怎么办？</p>
+<p>孩子们需要物资捐赠吗？当然需要，可是物资往往只能送到有限的、交通较为顺畅的地区，那些更偏远、更需要帮助的地方怎么办？</p>
+<p>我不愿再看到苦依五木们的泪水，也不愿再看到额其尔布们的艰辛，可是现实面前，我们能做的，真的很有限。</p>
+<p>我那位支教老师朋友曾对我说：“人这一辈子，又能有多少机会，可以改变另一个人的命运？我没能力帮助所有人，但至少，能做一点是一点，能帮一个是一个，我们教过的孩子，可能以后还是考不上大学，但他们会知道教育很重要，他们将来有了孩子，就会敦促孩子好好念书，他们的孩子就有可能考上大学，走出大山。”</p>
+<p>是啊，莫以善小而不为，我们也许无法亲自走进大山，但是多一份关注，多一丝善意，改变凉山儿童命运的力量就会更大一分。上体面生活的社会距离还很远。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB-%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E5%86%99%E6%82%B2%E6%83%85%E4%BD%9C%E6%96%87%E6%8F%AD%E8%90%BD%E5%90%8E%E8%B4%AB%E7%A9%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%87%89%E5%B1%B1/?category=18271" rel="tag">大凉山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%9D%E6%97%8F/?category=18271" rel="tag">彝族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%AF%E6%95%99/?category=18271" rel="tag">支教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%A6%E4%BE%9D%E4%BA%94%E6%9C%A8/?category=18271" rel="tag">苦依五木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0/?category=18271" rel="tag">贫困</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%99%88%E7%A0%B4%E7%A9%BA%EF%BC%9A%E4%BB%A4%E5%AE%8C%E6%88%90%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%89%8B%E4%B8%8A%E4%B8%80%E5%BC%A0%E7%89%8C/" target="cdt-mirror">法广｜陈破空：令完成是美国手上一张牌 </a>
+</h2>
+<p><div></div>
+<div>
+<div>
+<div>《纽约时报》8月3日报导，令计划之弟令完成可能会向美国寻求政治庇护，而在申办期间，令完成可合法留在美国。美国司法部发言人莱蒙迪（Marc Raimondi）对纽时表示，司法部已多次表明，对那些中国想要的逃犯，司法部敦促中国提供证据，因为“仅仅提供一个名单是不够的”。</div>
+</div>
+<p>令完成携带大量机密逃到美国，海外媒体已经对此报道议论数月之久，但美国政府一直没有任何回应，现在通过《纽约时报》的访谈文章，不仅证实令完成逃到美国寻求避难，还间接表示引渡令完成需要充足理由。</p>
+<p>《纽约时报》的报导引述一名美国官员谈话表示，如果令完成寻求政治庇护，将可能成为中共建政后最具破坏力的“叛逃者”。另一方面，令完成出逃美国，亦将加剧了原先就相当紧张的中美关系。</p>
+<p>从《纽约时报》有关令完成的报道中，传递出了什么信息？本台就此采访了在美国的中国时政评论家陈破空先生：</p>
+<p>陈破空：令完成逃到美国已经半年了，美国对此一直没有公布，只字不提，为什么美国在这个时候公布令完成的一些行踪？这次美国政府是部分地释放出令完成的一些行踪，通过新闻媒体报道出来，实际上这是反过来给中国政府一些压力，因为现在美国面临的一个情况就是面临大规模的网络攻击，黑客窃取美国2150万联邦雇员的个人资料，这让美国感到非常的恼火，所以部分地公布令完成的情况就是一个报复手段，也是想在习近平9月访美之前给习近平制造一些压力，尤其是在中国肆无忌惮的网络攻击面前。这是个实际问题。</p>
+<p>法广：这等于是美国利用令完成本身的特殊身份，和传说中的他掌握的机密来对中国施加压力，而不是就令计划问题进行什么交易？</p>
+<p>陈破空：根据国际情报界的通常作业程序：虽然令完成是个商人，但他的哥哥当过中共的中办主任，中办实际上是情报中枢, 他哥哥委托他带出的机密文件, 据说有2700份,其中有中国的核心机密, 有人称是 ‘情报核弹’。按照国际情报界的常规，令完成到达美国后，美国政府就从他手上取得了完整的核心机密，只是美国政府秘而不宣，只字不提，守口如瓶。而令完成本身出于对他哥哥的保护也不会承认他向美国泄露了机密。</p>
+<p>令完成的身份角色非常特别，假如美国白宫的幕僚长下台了，他的弟弟携大量机密逃到中国，或者说莫斯科克里姆林宫的总管下台了，他的弟弟携大量机密逃到中国，这样的人物逃到中国后一定会受到中国的保护，而且肯定会获取这些机密。所以我相信：美国政府已经获取了令完成手上的机密，而令完成也已经得到美国政府的保护。</p>
+<p>美国在这个时候公布有关信息，是倒过来给中国政府一些压力，因为该报道明确说：美国已经拒绝了中方的所谓引渡要求，并说：如果是因为犯罪而引渡的话，就要出示充分的证据，如果仅仅是权力斗争，不足以使美国把令完成交还给中国。</p>
+<p>所以现在令完成成了美国手上的一张牌，还有报道说：他手上的情报会让美国在情报领域取得非凡的成就。这就说明令完成手上的确有真料，这对现在执政的习近平来说是一个很大的打击或挑战。</p>
+</div>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%99%88%E7%A0%B4%E7%A9%BA%EF%BC%9A%E4%BB%A4%E5%AE%8C%E6%88%90%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%89%8B%E4%B8%8A%E4%B8%80%E5%BC%A0%E7%89%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B6%85%E7%BA%A7%E8%8B%B9%E6%9E%9C%E7%BD%91%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E5%8F%9B%E5%8F%98%E8%83%8C%E5%90%8E%E4%B8%A4%E5%A4%A7%E7%8E%84%E6%9C%BA-%E4%BB%A4%E6%A1%88%E6%9C%89%E5%8F%98/" target="cdt-mirror">超级苹果网｜令完成”叛变”背后两大玄机 令案有变?</a>
 </h2>
 <p><p>不同于周永康身边的“秘书帮”、“马仔”，令计划案的特别之处在于其背后的令狐家族，兄妹五人及家庭可谓全军覆没，唯有令计划最小的弟弟令完成仍在逃海外，成为令案备受关注的话题之一。而令计划案盖棺定论在即，这或许意味着令计划案有变。如令完成寻求政治庇护属实，将可能成为中国的“斯诺登”式人物，“叛变”对中共造成的打击也可想而知。</p>
@@ -553,91 +643,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E4%B8%A7%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/" target="cdt-mirror">自由港｜丧命在于折腾</a>
-</h2>
-<p><p><em>作者：Sylar</em></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/WeChat_1438372312-300x224.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/WeChat_1438372312-300x224.jpeg" alt="WeChat_1438372312-300x224" width="300" height="224"></a><p>香港中文大学反奥运宣传海报</p></div>
-<p>2015年7月31号，北京时间晚间时分，大陆官媒以刷屏的模式「庆祝北京申办2022年冬季奥运会成功」。与此同时，带动起墙内外中文舆论场一片热议。</p>
-<p>仅凭肉眼观察，反对和支持的声音在比重上难以区分伯仲，主要原因有两点：1、有部分网友在不同平台上所表现的观点不尽一致，甚至相左。推测认为，有可能受限于他们的职业，比如在大陆的媒体人，公开平台上使用的账号基本都被要求在单位登记，对言论形成的制约是肯定的。但他们私下大多表示出较鲜明的反对立场；2、当局对舆论的管控非常迅速。31号当晚，反对声音在墙内平台几乎无一留存。</p>
-<p>31号晚间，在一个媒体人汇集的大型微信群聊里，某知名电视台工作人员表示出对申奥成功的欣喜之情后，被群内同行合力反驳，因其站在政府的角度上说话，持改良派口吻，被群友称其为「五毛」，并一致同意将其踢出了群聊。如此大面积一致性反对政府的状况，在陆媒在职人员的群体里比较罕见。综合显示，该群体中持「劳民伤财」的观点是为主体。</p>
-<p>对扰民的担忧也是大部分公众的意见。观察新浪微博显示，从30号的「舆论铺陈时段」开始，在官媒相关消息下面留言的网友大多倒向反对的一方，不难理解，中国多次主办国际型体育赛事的现实经历，令中国民众已身心疲惫。纳税人的钱财又要被挪用到对民生毫无价值的面子工程上，加之经济下滑已成定局且预判无法乐观、同时财税减少的大环境，沉重的税务负担只能由中国老百姓来扛。在31号之前，已有不少网民表示「祈祷申奥不要成功」。</p>
-<p>但当时，那些反对申奥的帖子中还有一些转发量极低的尚且留存着，而在申奥成功之后，相关反对的声音瞬间被全部删除了。各大官媒的申奥消息下面转发内容皆不可见（比如下图中，央视新闻官方账号截屏时被显示为3.5万的转发量，内容部分一片空白），而评论中保留的内容绝大部分是疑似五毛的声音。也就不难理解大陆媒体人只能私下吐槽的郁闷了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB-%E5%9B%BE2.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB-%E5%9B%BE2.jpeg" alt="央视新闻-图2" width="299" height="646"></a></p>
-<p>其实相关舆论筛查，自几个月前就已陆续开始。近日网上流传出一份来自山西省文化厅的音像制品管制通知，通知中称：由地下摇滚乐队「盘古」创作的歌曲《操你妈的北京，奥你妈的运》「造成恶劣社会影响」，责令「太原市文化局加大检查力度」以及「严惩」云云。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%9B%BE3.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%9B%BE3.jpeg" alt="图3" width="550" height="344"></a></p>
-<p>删帖加恐吓之下，大陆舆论场外观已呈现「一片和谐」。中国民众反对的态度是基于个体和周边小群体切实利益的考虑，无形中也相当于协助维系了极权的命脉——经济。不过反对声音形成的对意识形态一致性的对冲力量也不失为好事。</p>
-<p><a title="申奥通稿" href="http://www.google.com/url?q=http%3A%2F%2Fweibo.com%2Fp%2F1001603870802608298947&sa=D&sntz=1&usg=AFQjCNHHAI3tvEuR2xv0t-ZHPdrhnmDFGA" target="_blank">官媒通稿</a>是打肿脸的胖子在画大饼，称：「（申奥成功）这一胜利对中国建设价值5万亿元的体育产业将是一个极大的促进，将创造数百万个就业岗位」。对此，自由港认为，基础工程建设项目的资金占用将使中小企业更加困难，对于衰退中的经济体，这样的项目是负担而不是机遇，资源的强行配置会使市场危机雪上加霜，冬奥申办成功有可能对中国经济实现最后一击。长远考虑不失为利好之势，毕竟经济发展的绩效是中共当局政权合法性的主要基础之一，经济衰败也是能有效挑战维稳机制的关键动因。</p>
-<p>墙外平台上谈论相关话题的内容暂时较少，部分民主人士也同样以促衰经济为立场表示支持奥运，「从终结极权统治的角度来看，不是坏事。面子上的钱花多了，维稳的钱，或投入经济和福利的钱就少了。从这个角度，不妨鼓励他们多折腾一些劳民伤财的事情」，媒体人北风表示。</p>
-<p>国际组织对中国申奥的反对理由只有一个：中国政府的政治举措所导致的各种弊端，没有资格获得主办权。<a title="保护记者委员会" href="https://www.google.com/url?q=https%3A%2F%2Ft.co%2FjmiX1oVaaw&sa=D&sntz=1&usg=AFQjCNH_zhZ7CrNPZNsD6eDM_HYdK59Egg" target="_blank">美国保护记者委员会</a>号召国际奥委会确保在北京2022年冬奥会上，记者能自由报道奥运会，包括敏感问题，如场馆的建设、可能出现的抗议和腐败指控。根据保护记者委员会的研究报道，中国是世界上监禁记者最多的国家，2014年至少有44位记者被拘押。保护记者委员会的亚洲项目协调人Bob Dietz说：「中国的新闻自由和人权纪录使之并不值得获得举办权。2022年冬奥会的成功不将只取决于场地或者收视率，还应该取决于奥林匹克宪章中所提到的对人格尊严的尊重」。</p>
-<p>保护记者委员会的相关推特帖截图发于上述反对申奥的大陆媒体人群聊中，很遗憾没有收到有效回应。难道以维护老百姓利益为宗旨而持反对意见的大陆媒体人，没有太多维护自身权益的意识？理想化的认为，微信群聊是墙内模式，他们为信息安全着想，在谨慎发言。不论如何，只有抗争，才能突破被管制的困境获得自由，只有提振抗争主动性，才有机会争取到恒久的权益。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E4%B8%A7%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E9%BB%84%E8%8B%B1%E8%B1%AA%E5%8F%8A%E6%9D%8E%E5%85%86%E5%9F%BA%E4%BA%B2%E5%AE%B6%E7%96%91%E6%B6%89%E8%B4%AA%E8%A2%AB%E6%8D%95/" target="cdt-mirror">法广｜全国政协黄英豪及李兆基亲家疑涉贪被捕</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2012-03-30_HongKong_SUNHUNGKAI.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2012-03-30_HongKong_SUNHUNGKAI.jpg" alt="资料图片：香港廉政公署外观。摄于2012年3月12日 图片来源：路透社/Tyrone Siu" width="550" height=""></a><p>资料图片：香港廉政公署外观。摄于2012年3月12日<br>图片来源：路透社/Tyrone Siu</p></div>
-<p>全国政协委员黄英豪与香港亿万大富豪李兆基的亲家公徐传顺以及另一人，1日被廉政公署正式落案起诉，控告他们在2007年涉嫌透过上市公司海域化工的重组，向该公司前执行董事提供一份出任顾问的服务合约，作为该执董协助顺利收购的报酬；黄英豪另被控在2009年用认股权向同一人行贿，作为对方参与收购金饰连锁店“金至尊”5间附属公司的报酬，被告暂准保释，案件周三提堂。</p>
-<p>黄英豪被视为梁振英的支持者，去年参加保普选反占中大联盟发起签名运动，之后又以基金信托人身份捐款50万元予警察福利基金支持警方。</p>
-<p>廉署的新闻稿指出，已正式落案起诉Perfect Ace Investments Limited（PAIL）现职董事、52岁的黄英豪，及两名前任董事，包括恒基地产老板李兆基次子李家诚的岳父、61岁徐传顺，及62岁的尹应能。3人同被控一项向代理人提供利益罪名，涉嫌违反《防止贿赂条例》；黄另被控一项相类罪名。有关罪名最高可被判罚款50万元及监禁7年，并须按法庭指示，将收取的利益支付予法庭指示的人士或公共机构。三名被告将于下周在东区裁判法院应讯，待案件转介区域法院进行答辩。</p>
-<p>廉署表示，PAIL与上市公司海域化工集团有限公司、其临时清盘人及一间会计师事务所，于2007年10月达成重组协议，重组于翌年9月完成。PAIL成为海域化工主要股东，黄英豪就成为海域化工主席，而协助收购的海域化工执行董事就留任。海域化工于2009年1月7日改名为香港资源控股有限公司。</p>
-<p>香港资源随后与当时上巿公司金至尊珠宝控股有限公司的临时清盘人商议后，于2009年7月向金至尊收购其5间附属公司。</p>
-<p>首项控罪指黄英豪、徐传顺及尹应能涉嫌约于2007年11月1日，在海域化工重组期间，向该名执行董事提供利益，即作为PAIL顾问的服务合约，以此作为该执董履行和行使PAIL或海域化工董事局可指派、赋予或指示的职责及权力的报酬。</p>
-<p>另一项控罪指，黄英豪涉嫌约于2009年8月，以认股权行贿同一名执行董事，提供以180万元（港币，下同）认购1500万股香港资源优先股的1元认股权，作为对方参与香港资源收购金至尊5间附属公司的报酬。翻查资料，当时香港资源每股市值约1.33元，换言之该董事可以用180万元，换取当时市值接近2000万元的香港资源优先股。</p>
-<p>据海域化工在2006年及2008年的3张公告显示，海域化工有3名执行董事，前联合交易所执行副总裁许浩明是其中之一，当年协助黄英豪进行收购工作，亦是唯一由海域化工转为香港资源后仍然留任的执行董事。许于去年病逝。</p>
-<p>廉署于2011年已就本案展开调查，历时四年至今始提出起诉。</p>
-<p>黄英豪出身“爱国”世家，父亲黄乾亨在中国改革开放初期已获北京委任做公证律师，可在港处理涉内地法律事务，并于2001年获港府授金紫荆星章。</p>
-<blockquote><p><em><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2014/10/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%86%8D%E5%8F%91%E6%96%87%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E3%80%81%E6%9D%8E%E5%85%86%E5%9F%BA%E7%AD%89%E9%BD%90%E5%8F%8D/">凤凰网｜新华社再发文：李嘉诚、李兆基等齐反“占中”</a></em></p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E9%BB%84%E8%8B%B1%E8%B1%AA%E5%8F%8A%E6%9D%8E%E5%85%86%E5%9F%BA%E4%BA%B2%E5%AE%B6%E7%96%91%E6%B6%89%E8%B4%AA%E8%A2%AB%E6%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2/?category=18271" rel="tag">廉政公署</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%86%E5%9F%BA/?category=18271" rel="tag">李兆基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E8%A2%AB%E5%AE%A0%E5%B9%B8%E4%BA%86%E7%9A%84%E5%8C%85%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B/" target="cdt-mirror">【网络民议】一个被宠幸了的包子的故事</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/01/9fe26948jw1ecuns0ak1tj218g165qfl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/01/9fe26948jw1ecuns0ak1tj218g165qfl.jpg" alt="变态辣椒：包大人" width="500" height="474"></a><br><em>（“包大人” by 变态辣椒）</em></p>
-<p><strong><a href="http://news.163.com/15/0801/13/AVUFV8GH0001124J.html">每日经济新闻｜庆丰包子铺拟上市 包子研究院将落成</a></strong></p>
-<blockquote><p>“到2020年，庆丰包子铺要在外埠建设五大物流基地，连锁门店数量计划发展到1000家。”7月16日，北京庆丰包子铺总经理高文慧在接受北京商报记者专访时，首次披露了庆丰未来五年的发展战略。为支撑市场扩张计划，继近期设立运营中心后，下月初，庆丰管理学院、包子研究院也将相继落成。高文慧还透露，庆丰包子铺计划通过借壳上市的方式登陆新三板，借助资本力量实现更大发展。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/LifeTime?from=feed&loc=at" target="_blank">@LifeTime</a>: 庆丰包子上市会累死证监会：1）单独取消涨停板限制。2）单独禁止做空。3）财报只能做机密文件。4）股价只能涨不许跌。5）国家队专门基金保驾护航。<img title="[晕]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif" alt="[晕]"></p>
-<p>@William-Lin324：接下来就是国安部把麦当劳肯德基列入外国敌对势力，建立肠胃防火墙。共青团抵制吃洋快餐。舌尖上的中国改名舌尖上的庆丰包子</p>
-<p>@阳光飘渺无痕：将来一定是天价牛股！试问谁敢做空包子？不要命的就试试！</p>
-<p>@在日落以前：一人得道 包子个跟着升天……..</p>
-<p><a href="http://www.weibo.com/2407268715" target="_blank">@小楼梧桐夜听雨</a>：壮哉我包<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@换个昵称和头像：研究些什么？用什么面粉和面？包子皮擀薄好还是厚点好？包子馅儿用什么材料好？………突然觉得可研究的东西太多了</p>
-<p>@海鱼儿66：研究包子？先研究一下自家的为何现在挺难吃吧！</p>
-<p>@丑陋裁判：清华、北大分别设立包子专业，培养包子博士。一毕业，各省市政府机关、各大军区抢着要，成为第一热门专业。</p>
-<p>@ZZ-What：包子研究院?! 比贴膜还专业啊</p>
-<p>@趟子手翟进：是不是也考虑学孔子学院一样海外建校招生？</p>
-<p>@黑夜黑眼睛2010：撤回孔子学院，把庆丰包子推向世界。</p>
-<p>@老康AT泥轰：包子治国思想研究院</p>
-<p>@严戈刀：蛤蟆一上天，叫月亮（蟾蜍）；包子一上市，叫股票。</p>
-<p>@子木成林：一定要找长得像包子那哥们做包子</p>
-<p>@连伊泪1988：怎么能这么舔腚</p>
-<p>@时光取名叫匆匆：以后习大上个厕所拉个屎或尿个尿那家马桶公司也能借势这样了～</p>
-<p>@蒋献磊：戴着官帽的包子就是比狗也不理的好吃</p>
-<p>@晃晃悠悠同学：真他妈的，不敢相信这个年代还有这种事情</p>
-<p>@李不白的空间: 这是一出讽刺剧。</p>
-<p>@五台憎人：万一以后的某届领导不喜欢吃包子，而喜欢吃棕子，哪已经上市的包子会如何？</p>
-<p>@毛豆刷屏控：门口记得挂黄马褂！</p>
-<p>@桌子318：一个被宠幸了的包子的故事……</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E8%A2%AB%E5%AE%A0%E5%B9%B8%E4%BA%86%E7%9A%84%E5%8C%85%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">庆丰包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -649,7 +654,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jef2bkp16tj6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -659,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3p6evn3pxjtc0.cloudfront.net">https://d3p6evn3pxjtc0.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d3p6evn3pxjtc0.cloudfront.net">https://d3p6evn3pxjtc0.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1ei1h4yo9uxg5.cloudfront.net">https://d1ei1h4yo9uxg5.cloudfront.net</a><br/></td>    </tr>
 </table>

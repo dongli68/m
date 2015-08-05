@@ -457,7 +457,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%98%E4%BA%89/?category=18271" rel="tag">网络战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E8%A7%84%E5%88%99%E4%B9%8B%E9%97%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E8%BF%B7%E6%80%9D/" target="cdt-mirror">何清涟：习近平与规则之间关系的迷思</a>
 </h2>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ldkwkbijk4pl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wwkkjvcpmzb7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/><a href="https://d89i9m5e51yy1.cloudfront.net">https://d89i9m5e51yy1.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2wwkkjvcpmzb7.cloudfront.net">https://d2wwkkjvcpmzb7.cloudfront.net</a><br/><a href="https://d1gnj60aoaeaka.cloudfront.net">https://d1gnj60aoaeaka.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wwkkjvcpmzb7.cloudfront.net">https://d2wwkkjvcpmzb7.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/><a href="https://d89i9m5e51yy1.cloudfront.net">https://d89i9m5e51yy1.cloudfront.net</a><br/><a href="https://d1gnj60aoaeaka.cloudfront.net">https://d1gnj60aoaeaka.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%8E%E7%BD%91%E8%AD%A6%E5%B7%A1%E6%9F%A5%E5%88%B0%E7%BD%91%E5%AE%89%E8%AD%A6%E5%8A%A1%E5%AE%A4/" target="cdt-mirror">德国之声 | 从“网警巡查”到“网安警务室”</a>
@@ -568,7 +568,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3天前</small>
+	<small> ============== 4天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E5%88%BA%E5%88%80%E4%B8%8D%E4%BC%9A%E5%B8%A6%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%B9%81%E8%8D%A3/" target="cdt-mirror">美国之音｜张欣：刺刀不会带来中国股市繁荣</a>
 </h2>
@@ -702,7 +702,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d89i9m5e51yy1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gnj60aoaeaka.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -712,5 +712,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d89i9m5e51yy1.cloudfront.net">https://d89i9m5e51yy1.cloudfront.net</a><br/><a href="https://d1gnj60aoaeaka.cloudfront.net">https://d1gnj60aoaeaka.cloudfront.net</a><br/><a href="https://d2wwkkjvcpmzb7.cloudfront.net">https://d2wwkkjvcpmzb7.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1gnj60aoaeaka.cloudfront.net">https://d1gnj60aoaeaka.cloudfront.net</a><br/><a href="https://d34ruqwtacj6dr.cloudfront.net">https://d34ruqwtacj6dr.cloudfront.net</a><br/><a href="https://d2wwkkjvcpmzb7.cloudfront.net">https://d2wwkkjvcpmzb7.cloudfront.net</a><br/><a href="https://d3ldkwkbijk4pl.cloudfront.net">https://d3ldkwkbijk4pl.cloudfront.net</a><br/><a href="https://d89i9m5e51yy1.cloudfront.net">https://d89i9m5e51yy1.cloudfront.net</a><br/></td>    </tr>
 </table>

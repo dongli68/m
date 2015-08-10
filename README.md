@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3njvlcx917r7o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%AE%E7%94%A8%E4%BA%BA%E5%BA%95%E7%89%8C-%E8%AD%A6%E5%91%8A%E5%85%9A%E5%86%85%E4%BA%94%E5%A4%A7%E6%B4%BE%E5%88%AB%E5%88%AB/" target="cdt-mirror">争鸣｜习近平亮用人底牌 警告党内“五大派别”别挡道</a>
@@ -89,7 +89,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%8C%96/?category=18271" rel="tag">市场化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE/?category=18271" rel="tag">异议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%BD%93%E5%88%B6/?category=18271" rel="tag">极权体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">清网行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%AE%A1%E7%90%86/?category=18271" rel="tag">社会管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%A0%BC%E5%8C%96%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">网格化维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">网络安全法</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E6%97%A0%E7%9F%A5%EF%BD%9C%E8%B0%8C%E6%B4%AA%E6%9E%9C%EF%BC%9A%E6%88%91%E7%9F%A5%E9%81%93%E6%88%91%E4%B8%80%E6%97%A0%E6%89%80%E7%9F%A5/" target="cdt-mirror">知无知｜谌洪果：我知道我一无所知</a>
 </h2>
@@ -665,7 +665,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -675,5 +675,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/></td>    </tr>
 </table>

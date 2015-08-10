@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%88%B1%E5%9B%BD%E6%B2%A1%E5%95%A5%E4%BA%86%E4%B8%8D%E8%B5%B7/" target="cdt-mirror">博客中国｜罗伯特卡帕：爱国没啥了不起</a>
@@ -111,7 +111,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%AF%E8%81%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%98%E6%96%97%E5%8A%9B/?category=18271" rel="tag">战斗力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%94%9F%E6%80%81/?category=18271" rel="tag">政治生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">老干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%A8%8E%E6%94%B6%E6%98%AF%E4%B8%80%E7%A7%8D%E6%8B%94%E9%B9%85%E6%AF%9B%E7%9A%84%E8%89%BA%E6%9C%AF/" target="cdt-mirror">【异闻观止】人民日报 | 税收是一种拔鹅毛的艺术</a>
 </h2>
@@ -132,7 +132,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%81%E7%A8%8E/?category=18271" rel="tag">征税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%80%E6%B1%82/?category=18271" rel="tag">需求</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E6%B8%85%E6%B4%81%E5%B7%A5/" target="cdt-mirror">【图说天朝】“感动中国”清洁工</a>
 </h2>
@@ -658,7 +658,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -668,5 +668,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
 </table>

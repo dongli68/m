@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ve6unky63mh0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%A8%8E%E6%94%B6%E6%98%AF%E4%B8%80%E7%A7%8D%E6%8B%94%E9%B9%85%E6%AF%9B%E7%9A%84%E8%89%BA%E6%9C%AF/" target="cdt-mirror">【异闻观止】人民日报 | 税收是一种拔鹅毛的艺术</a>
+</h2>
+<p><p>人民日报谈征房地产税：不是为了降房价</p>
+<p>房地产税进入全国人大立法规划的消息，近来颇受社会关注。</p>
+<p>持期待态度的群体往往是出于这样的逻辑：房地产税出炉——多房人士不堪税负而抛售——市场上房子供给增多——房价下降。</p>
+<p>需要指出的是，推房地产税，目的不是为了降房价，而且在客观上也起不到压低房价的作用。重庆、上海两地试点房产税4年多，对房价的调控效果影响不大，就是一个例证。决定房价的，归根结底还是供求关系。由于现在各地的商品房库存已经很大了，全国层面供大于需。所以房地产税出台，对房价的总体走势很难起到立竿见影的作用。</p>
+<p>那么，该如何认识房地产税呢？房地产税作为未来地方的重要税种，在调节财富分配、抑制房地产市场投机等方面有重要作用。</p>
+<p><strong>第一，它能降低大多数纳税人的“税收痛苦”。从征税角度来说，税收是一种拔鹅毛的艺术，鹅毛肯定要拔，高水平的表现是：既把鹅毛拔下来，又不让鹅叫唤，或者少叫唤。</strong></p>
+<p>税收理论中有这样一个定律：假设宏观税负既定，社会成员总体的税收痛苦程度，与间接税的比重成正比，与直接税的比重成反比。</p>
+<p>需要指出的是，间接税由于直接嵌入商品售价，因此往往通过价格渠道转嫁由消费大众承担。而支付能力强的富裕阶层承担的直接税比重过低，反而税负不高。</p>
+<p>我国税制结构里直接税比重偏低是突出问题。而房地产税是直接税，开征它有利于降低间接税比重，从而会减轻大多数纳税人的痛苦感，社会税负的归宿也将更加公平合理。</p>
+<p>第二，它能发挥抽肥补瘦的功能。税收，取之于民，用之于民。但是，取之收入点与用之支出点并不是一一对应的，因为税收的一大职能是收入调节进行再分配，也就是抽肥补瘦，故能发挥收入调节的作用。</p>
+<p>第三，它有助于房地产市场保持理性的发展方向。房地产税的一大作用就是调节房地产消费的高端需求部分，一来，一部分潜在购房者会调整预期而放弃购买；二来，热衷于追求建造“高大上”小区、瞄准少数高端购房者市场的部分房地产开发商，或会考虑多倾力于中小户型住房。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%A8%8E%E6%94%B6%E6%98%AF%E4%B8%80%E7%A7%8D%E6%8B%94%E9%B9%85%E6%AF%9B%E7%9A%84%E8%89%BA%E6%9C%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%81%E7%A8%8E/?category=18271" rel="tag">征税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%80%E6%B1%82/?category=18271" rel="tag">需求</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 14分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E6%B8%85%E6%B4%81%E5%B7%A5/" target="cdt-mirror">【图说天朝】“感动中国”清洁工</a>
+</h2>
+<p><p>@善王府善王爷：#拄拐清洁工#成都网友在公交车路站拍到的一幕….每一份坚强的背后，都是满满的一把心酸！希望他能得到关注。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwbkl9j20c00cmdh2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwbkl9j20c00cmdh2.jpg" alt="7155ee97jw1eux7fwbkl9j20c00cmdh2" width="432" height="454"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwkorhj20bz0c9myc.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwkorhj20bz0c9myc.jpg" alt="7155ee97jw1eux7fwkorhj20bz0c9myc" width="431" height="441"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwlttmj20bp0cx0tz.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwlttmj20bp0cx0tz.jpg" alt="7155ee97jw1eux7fwlttmj20bp0cx0tz" width="421" height="465"></a></p>
+<p> </p>
+<p>@直播成都：#成都爆料#【正能量：成都大丰#独腿环卫工#拄拐扫街！】 网友@婚礼化妆师胡婷婷 在成都大丰镇拍到这样一幕，他只有一条腿，却依然拄拐坚持扫街，这是这座城最美丽感人的画面！看到他，我们还有什么理由自怨自艾，还有什么理由抱怨生活！成都正能量！[good]#成都身边事#</p>
+<p>@直播成都：据悉，他叫邓贤国，安岳人。50年前，在工地被石头压断左腿。后来，和妻儿相继到成都打工，7年前，环卫公司给了邓贤国一个岗位，如今，68岁的他坚持每天在大丰镇一段300米长的路边挪动拐杖，挥动扫帚。能干就干，他不想做一个无用的人。</p>
+<p>@sicau_ly：这也正能量？操尼玛的官腔、傻逼！</p>
+<p>@胡子拉碴的徐大爷：我没有收到正能量，莫名心酸！</p>
+<p>@心情涛涛：一个假肢生产商送了一个假肢给他，但他怕弄坏了一直舍不得用。附近的商家也对他很好。</p>
+<p>@ttyyz：残疾老人晚年只能靠扫大街过活也叫正能量，我看到的只有不健全的社会保障制度。</p>
+<p>@小镇清年：残疾是没有办法才去扫地，难道zf不应该帮助这些人么？我只看到zf的无能。</p>
+<p>@王武力：这个大丰镇真的很乱，脏乱差，不作为，问题一大堆，就是没人管！</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E6%B8%85%E6%B4%81%E5%B7%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%8B%E7%96%BE%E4%BA%BA/?category=18271" rel="tag">残疾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%B4%81%E5%B7%A5/?category=18271" rel="tag">清洁工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C/?category=18271" rel="tag">社会保障</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%AE%E7%94%A8%E4%BA%BA%E5%BA%95%E7%89%8C-%E8%AD%A6%E5%91%8A%E5%85%9A%E5%86%85%E4%BA%94%E5%A4%A7%E6%B4%BE%E5%88%AB%E5%88%AB/" target="cdt-mirror">争鸣｜习近平亮用人底牌 警告党内“五大派别”别挡道</a>
 </h2>
 <p><p>习江斗进入关键时期，陆媒披露，习近平用人的三大标准及中共内部存在五种阻碍当局各项政策的“派别”。分析认为，这是习近平在警告中共党内“五大派别”。</p>
@@ -567,93 +609,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A-%E5%88%AB%E8%A3%85%E4%BA%86-%E4%BD%A0%E4%BB%AC%E9%9C%80%E8%A6%81%E4%B8%AA%E6%AF%9B%E7%9A%84%E9%AB%98%E5%83%A7%E5%A4%A7%E5%BE%B7/" target="cdt-mirror">六神磊磊 | 别装了 你们需要个毛的高僧大德</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%87%8A%E6%B0%B8%E4%BF%A1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%87%8A%E6%B0%B8%E4%BF%A1.jpg" alt="释永信" width="550" height="366"></a></p>
-<p><strong>文/六神磊磊</strong></p>
-<p><strong>一</strong></p>
-<p>这一周，我的后台完全被刷屏了：磊磊，你怎么不写释永信，怎么不写释永信，不写释永信，写释永信，释永信，永信，信……</p>
-<p>搞得我精神都恍惚了，以至于交警拦了我车，我摇下窗子，第一反应就是赶紧解释我为什么不写释永信。</p>
-<p>最近几天，少林寺方丈被所谓“情妇”“私生子”等举报缠身，麻烦不断。好多人慨叹连连，各种痛心疾首：</p>
-<p>啊呀，瞧人家的特蕾莎修女，瞧人家甘地，瞧人家玄奘法师，再比比我们，不知道高到哪里去了……</p>
-<p>屌丝这么慨叹，干部也这么感叹，商人也这么感叹，众口一辞，什么“末法时代”呀，“颠倒妄执”呀，“至德渺茫”呀，“禅宗寂灭”呀……</p>
-<p>千言万语，无非一句：释永信方丈，你为什么不当高僧大德？</p>
-<p>对此，我只能笑笑。</p>
-<p>别装了，你们真的需要高僧大德么？</p>
-<p><strong>二</strong></p>
-<p>首先，相信我，高僧大德们研究的东西，很枯燥的；他们埋头搞的那些经典，是没有机场读物好看的。</p>
-<p>玄奘算高僧吧？人家译的《大般若经》“大”到什么程度？梵本有20万颂，译了整整600卷，连当时的业内人士都觉得太多了，请求法师删掉一点。</p>
-<p>古代的经典难啃，近代的也不好啃，《太虚大师全书》700万字，就好啃了？</p>
-<p>我们现今这社会要佛经来干什么？无非三个用途：老板讲话引一下，干部练字抄一下，强迫员工读一下。高僧搞的这些东西，你真觉得对你有用？</p>
-<p>其次，高僧大德多半是没工夫开养生班、精品养生班、特级精品禅修养生班，教你双修辟谷喝西北风的。</p>
-<p>弘一、虚云、太虚、印光，近世四名僧，你觉得谁会有兴趣用高压线来电你，关怀你的血糖血脂和前列腺？</p>
-<p>你肚子里的茅台拉菲脂肪板油太多，想到人家那去剐；你在豪宅里便秘，想上山一本正经打座几天，吃两天没油的茄子，就可以延年益寿，陡增一甲子功力，夜御数女金枪不倒？</p>
-<p>省省吧你，唯死亡和肾，对一切人都是公平的。</p>
-<p><strong>三</strong></p>
-<p>再次，高僧大德的徒弟，不但很难当，当了也没什么意思的。</p>
-<p>你想布施个六位数七位数的银钱，就成了弟子，从此沾光贴金，福报无穷了？还是省省吧。</p>
-<p>比如一灯大师，收的是什么徒弟？那是渔樵耕读，打渔的是当朝猛将，读书的是辛未状元，有一个没文化没素质的猪头么？何况人家徒弟们都真正跟着老人家在山里过苦日子。</p>
-<p>你说一灯大师是虚构人物，那么玄奘法师呢？他的徒弟或是“奘门四哲”，或为“俱舍三师”，宗师辈出，名僧如林，一个个学问渊博，著作等身。你混在里面好意思不？</p>
-<p>你去拜师，好啊，徒儿别忙着回去开董事会，先帮为师把《二万五千颂般若》译出来……</p>
-<p>还有，高僧大德大概都忙的很，有工夫和你拍合影、拍画册、表演抓个蛇抓个蛤蟆之类么？</p>
-<p>他们到底有多忙？随便举个例子。比如法显大师，算是没有争议的高僧大德吧，东晋最牛的一个和尚，六十多岁了，还拼着一把老骨头跑到西方取经，今天印度，明天斯里兰卡，动不动就穿越个塔克拉玛干大沙漠玩。你跟着去啊？</p>
-<p>老人家后来扛了多少经书回来？光《摩诃僧祇律》就有四十卷。回国之后，老人家又一口气猛翻译起来。你在边上看啊？</p>
-<p><strong>四</strong></p>
-<p>你们说释永信“不像和尚”。</p>
-<p>看不惯人家卖高香？那是谁最需要高香的安抚？不就是你们自己么；看不惯人家搞商业搞宣传，那是谁最喜欢拜金跟风起哄，不也是你们么？看不惯人家头衔多，那是谁给的头衔，不也是你们自己么？</p>
-<p>你们才啖西瓜三五片，摊前打翻卖瓜人？</p>
-<p>更难的是，高僧大德都是不太好搞的。你拆人家的庙修酒店，人家愿干？你拍脑袋上马的旅游养生文化项目，人家配合？</p>
-<p>人家从西方带几百本书回来，你受得了？带回来了还要翻译、传播、一统胡印，严重扰乱外版书籍管理秩序，你没意见？你以为你是大唐啊。</p>
-<p>另外，你们咋呼着想要高僧，可高僧是怎么培养出来的？</p>
-<p>人家玄奘在汉川时，向空景二法师学习；在相州，向慧休法师学习；在赵州，向道深法师学习，在长安，向道岳法师学习……多少名家的栽培教诲，才诞出一代高僧。</p>
-<p>巨人总是站在巨人的肩上的。你要培养一个玄奘，就要先培养出无数的空、景、慧休、道深、道岳。我们嫌弃释永信方丈不如玄奘，但我们的空、景、慧休、道深、道岳们在哪里？</p>
-<p><strong>五</strong></p>
-<p>综上，叶公好龙的故事，说的就是你们。</p>
-<p>都吼着爱高僧、想高僧、盼高僧，等人家真去当了高僧就上你们当了，没人气，没市场，取个经还动不动要打成汉奸，好不容易搞点研究，朋友圈都不转发，因为你们都要转发“一个深蹲让你远离九种疾病”“奥巴马评价谁谁谁的三句话震惊中国人”。</p>
-<p>咱们不需要高僧大德，咱们不配拥有高僧大德。</p>
-<p>李一王林才是我们的菜。至于还能有个永信方丈瞻仰，那已经算是超标高配了，给个好评拉倒吧您。</p>
-<p>文章的结尾，我忽然想起余光中的一首诗，叫做《唐马》：</p>
-<p><strong>昔日骑士的子子孙孙，</strong></p>
-<p><strong>壁上观一排排坐定：</strong></p>
-<p><strong>不谙骑术，</strong></p>
-<p><strong>只诵马经。</strong></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A-%E5%88%AB%E8%A3%85%E4%BA%86-%E4%BD%A0%E4%BB%AC%E9%9C%80%E8%A6%81%E4%B8%AA%E6%AF%9B%E7%9A%84%E9%AB%98%E5%83%A7%E5%A4%A7%E5%BE%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E5%AF%BA/?category=18271" rel="tag">少林寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E4%B8%88/?category=18271" rel="tag">方丈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%AB%E6%B3%95%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">末法时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%83%A7/?category=18271" rel="tag">高僧</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 5天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E4%BB%8E%E9%83%AD%E4%BC%AF%E9%9B%84%E7%9C%8B%E7%A9%B7%E4%BA%8C%E4%BB%A3%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%9A%84%E5%BF%83%E8%B7%AF/" target="cdt-mirror">【真理部】从郭伯雄看“穷二代”落马官员的心路历程</a>
-</h2>
-<p><p>全网注意查删《南风窗：从郭伯雄看“穷二代”落马官员的心路历程》一文。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<p>附：南风窗：从郭伯雄看“穷二代”落马官员的心路历程</p>
-<p>中央军委原副主席郭伯雄被开除党籍，并因涉嫌严重受贿犯罪，被移送最高人民检察院授权军事检察机关依法处理。一切尘埃落定。</p>
-<p>听几个军队转业干部讲，拿钱买官的现象早非止一日，甚至招女兵，也明码标价。作为曾经的军委副主席，郭伯雄、徐才厚具有恶劣的示范效应。他们的倒台，显示出中央反腐的强力决心。</p>
-<p>只是，翻一下郭伯雄的人生履历，我看到了一种熟悉的现象：和周永康、徐才厚、谷俊山、万庆良、刘志军……（排名不按原来的官阶分先后）一样，他也是平民子弟，出生於农村，小时一家9口人挤在狭窄的平房内，衣服轮流穿。</p>
-<p>这很容易给人这样的印象：平民子弟出身的权力者更容易贪腐。而这个印象，又得到了某些社会印象的支持——比如，“凤凰男”就一直被控诉。人们似乎有一个“贫穷容易导致人性扭曲”的共识。这个共识，很可能会合法化一种固化的阶层壁垒：只有“我们的人”或“跟我相同的人”才靠得住。</p>
-<p>但还是让我们做一个思想实验吧！</p>
-<p>假设有一个平民二代和一个官二代，同时进了体制内做公务员。他们在攀爬权力阶梯时，起点相同，分别在N年和M年后，都爬到了厅长的位置。请问：谁付出的代价（或“努力”）更多？</p>
-<p>大家只要知道中国社会的常识，想都不用想：平民二代！</p>
-<p>这个代价可以罗列出一系列的清单，其中之一就是心理上的代价——它决定了一个人在心理上，甚至人性上是否会扭曲。</p>
-<p>进行一下情境想象：没有任何背景的平民二代，进入权力机构后，必须要当个孙子，面对上司，必须学会拍马逢迎，遭到训斥时还要学会忍。他必须找到一个靠山。总之，为了保护自己，为了上位，他必须对自己真实的情感、情绪进行深度压抑。他还必须出卖自我。可以说，他厅长的位置，是靠杀自我换来的。这是一种没有尊严的生活。权力场就相当於是一个黑箱，当一个平民二代从这头进，从那头出来时，很可能已经是另一个人了。</p>
-<p>官二代呢？并不太需要这样干。他有庞大的官场庇护网络，攀爬上去很“自然”，不像平民二代那样有剧烈的内心冲突。</p>
-<p>但这能够说明官二代比平民二代心理正常，人性没有扭曲吗？当然不是。</p>
-<p>我这麽说吧，官二代的心理结构，和平民二代不同，他的阶层出身，使他在社会价值排序上较高，与那个利益结构、等级秩序天然就是同构的。因此，他的心理处境，和平民二代完全不一样。平民二代要在这个利益结构和等级秩序中攀爬上去，必须把原来的自我给踩死，这样才能和利益结构、等级秩序同构，所以他有剧烈的内心冲突，但官二代没有显示出这一点，他不用卖自我（本来就是这个自我！他的自我和利益结构、等级秩序天然同构），一切都很“自然”。</p>
-<p>所以，在往上攀爬时，平民二代的心理和手段，看上去要远比官二代难看，也会卑劣很多，也许他会把老婆都给领导供上。官二代呢？靠老爸一番运作，问题就解决了，你没有机会看见那个也许在另一种意义上更难看的自我，因为你看到的永远只是权力和制度的表象。</p>
-<p>思想实验进行到这儿，我想，应该明白导致人性扭曲的不是或主要不是贫穷了。而郭伯雄等人走过了怎样的心路历程，也完全可以进行情境想象。</p>
-<p>还有一个问题需要解决一下，即权力场中为什麽有很多人那麽容易心理上出问题，或者心理扭曲，大肆贪腐，或者对老百姓很不客气，动不动就冷眼刁难甚至飞踹什麽的，或者抑郁自杀。原因是：权力场是一个不创造财富，而只是分配利益的领域，一个人没有机会像企业家、技术人员那样通过创造力的释放来获取利益，而只能通过熟悉分配利益的游戏规则、追逐权力来达成目的——这对一个人健全的自我构成了巨大的挑战，非内心强大者、人格力量强大者不能保持心理的健康。</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E4%BB%8E%E9%83%AD%E4%BC%AF%E9%9B%84%E7%9C%8B%E7%A9%B7%E4%BA%8C%E4%BB%A3%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%9A%84%E5%BF%83%E8%B7%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3%E7%B2%BE%E9%80%89/?category=18271" rel="tag">官二代精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%B7%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">穷二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 5天前</small>
 </p>
 <table>
     <tr>
@@ -665,7 +620,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -675,5 +630,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C
                 <td></td>
                 
         
-        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r3bu1vl2semn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%85%B1%E5%85%9A%E6%8A%A5%E6%89%B9%E9%80%80%E4%BD%8D%E9%A2%86%E5%AF%BC%E4%BB%8D%E5%B9%B2%E6%94%BF%E5%BC%95%E5%8F%91%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 中共党报批退位领导仍干政引发网友热议</a>
+</h2>
+<p><p>中共中央机关报《人民日报》周一（10日）发文，批评有的领导干部在退位后仍不愿撒手，让新领导左右为难。</p>
+<p>这篇作者署名“顾伯冲”的文章发表在《人民日报》第7版的〈思想纵横〉栏目，题目是〈辩证看待‘人走茶凉’〉。</p>
+<p>文章说，有的领导干部不仅在位时安插“亲信”，为日后发挥“余权”创造条件；而且退下多年后，对原单位的重大问题还是不愿撒手。稍不遂愿，就感叹“人走茶凉”，指责他人“势利眼”。这种现象不仅让新领导左右为难，不便放开手脚大胆工作，而且导致一些单位庸俗风气盛行，甚或拉帮结派、山头林立，搞得人心涣散、正常工作难以开展，削弱党组织的凝聚力战斗力。</p>
+<p>文章还分析说，有人坚持要“人走茶热”，主要有两类原因。一是一些领导干部认为自己在一个单位好不容易站稳脚、有威望、说了算，不甘心退休后落个“人走茶凉”，于是千方百计延伸权力，不管政策如何、不顾政德影响，努力让那杯“茶”始终热着；其次还有一些领导干部并没有搞“余权”之意，只是离开领导岗位后极不适应，加之有些亲朋好友指望其继续为自己的利益发挥“余热”，便为这杯“凉茶”不断添柴加火。</p>
+<p>文章指出，“不在其位，不谋其政”的这种“茶凉”是一种常态，应辩证看待、正确对待。对领导干部来说，从岗位上退下来，不再负责那份工作，自然也就没有那份权力与责任，应及时调整心态，适应人生转变，以免陷入无穷烦恼。</p>
+<p>文章也建议，对于组织而言，应立好规矩，把尊重感情与明确职责区别开来，杜绝说情之风、挡住干预之手，营造风清气正的政治生态。</p>
+<p><strong>网民评论</strong></p>
+<p>对于《人民日报》罕见地发文批评退位领导仍然干政，不少中国网友在社交平台上都纷纷发表评论。</p>
+<p>其中一位网友问道，“说谁呢，这话要得罪多少人啊？”</p>
+<p>另一位网友则明确认为，“人民日报说的事情，就不会是一般的人，那么也就一个人，他想干嘛”</p>
+<p>还有一位网友表示，“这是下最后通牒了。退而不退，能有几人？说了多少遍的‘政治规矩’了？不听弦外之音？那就只能坦白说了–要认这个‘人走茶凉’。”</p>
+<p>署名“香港商报副总编辑周刚”的网友“西蒙周”则在微博上留言说：“1.老人政治始于高层，解铃还须系铃人；2.要以制度说话，对老人干政明确限制；3.三年前已有人做出裸退榜样，得大张旗鼓宣传。”</p>
+<p><strong>附全文：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/7891591f826a9b9.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7891591f826a9b9.png" alt="7891591f826a9b9" width="409" height="581"></a></p>
+<p>原标题：辩证看待“人走茶凉”（思想纵横）</p>
+<p>“人走茶凉”是对世态炎凉的一种形象表达，经常有人以此慨叹离开工作岗位后处境的变化。但对于“人走茶凉”也需辩证看待，“不在其位，不谋其政”的这种“茶凉”，应当成为一种常态。</p>
+<p><strong>“人事有代谢，往来成古今。”长期以来，我们党的许多领导干部从工作岗位上退下来后，正确对待身份地位的变化，对新班子的工作自觉做到不插手、不干预，体现了一名老党员、老干部的宽广胸怀和高尚情操，赢得了大家的尊敬。然而，也有的领导干部不仅在位时安插“亲信”，为日后发挥“余权”创造条件；而且退下多年后，对原单位的重大问题还是不愿撒手。稍不遂愿，就感叹“人走茶凉”，指责他人“势利眼”。这种现象不仅让新领导左右为难，不便放开手脚大胆工作，而且导致一些单位庸俗风气盛行，甚或拉帮结派、山头林立，搞得人心涣散、正常工作难以开展，削弱党组织的凝聚力战斗力。</strong></p>
+<p>照理说工作上的“人走茶凉”是常情，为何有人执意“人走茶热”？就当事人本身来说，主要有两类原因：一些领导干部认为自己在一个单位好不容易站稳脚、有威望、说了算，不甘心退休后落个“人走茶凉”，于是千方百计延伸权力，不管政策如何、不顾政德影响，努力让那杯“茶”始终热着；也有一些领导干部并没有搞“余权”之意，只是离开领导岗位后极不适应，加之有些亲朋好友指望其继续为自己的利益发挥“余热”，便为这杯“凉茶”不断添柴加火。两种原因，尽管动机有异，但都对其原单位的工作带来了不良影响。</p>
+<p>其实，“人走茶凉”是一种自然现象。俄国文学家托尔斯泰说过：“友谊好比一壶开水，一旦离开了炉子，就会逐渐凉了下来。”仔细琢磨，确实不无道理。从事物本质上理解，“人走茶凉”是一种自然规律。这杯“茶”是主人用来招待客人的，客人走了，主人就不会再续热水，也没必要再保持茶水的温度，只会把喝剩的茶水倒掉。因此，人走了茶非凉不可，不然就会变馊。</p>
+<p>从工作层面上剖析，“人走茶凉”是一种社会规律。当领导干部离开原来单位、原有职位后，自然就不能再拥有原来那份权力和待遇。只有“在其位、谋其政”的人，才会履行与其责任相匹配的职责。因此，这种“人在茶才热，人走茶自凉”纯属正常。</p>
+<p>从情感角度来体会，“人走茶凉”是一种人情规律。人都有自己的工作圈、生活圈、交友圈，当个人离开单位、职位后，与以往同事、部属、熟人的联系往往逐渐减少，久而久之，关系淡了也是正常的。因此，过去门庭若市，现在车马稀少；过去请示、汇报、问候的电话不绝于耳，现在可能几天听不到一次电话铃声；过去被邀请出席各种庆典、宴会、研讨会、论证会，现在难得收到一份请柬；凡此种种，均属情理之中的事。</p>
+<p>可见，“不在其位，不谋其政”的这种“茶凉”是一种常态，应辩证看待、正确对待。对领导干部来说，从岗位上退下来，不再负责那份工作，自然也就没有那份权力与责任，应及时调整心态，适应人生转变，以免陷入无穷烦恼。对于组织而言，应立好规矩，把尊重感情与明确职责区别开来，杜绝说情之风、挡住干预之手，营造风清气正的政治生态。</p>
+<p>当然，人非草木，孰能无情？提倡把工作上的“人走茶凉”作为常态，绝不能影响对老党员老干部政治上尊重、思想上关心、生活上照顾、精神上关怀，绝不能影响他们老有所养、老有所乐、老有所为。但是，应处理好情感与原则的关系，切不可将本该凉了的茶水加热后再端上桌子。</p>
+<p>《人民日报》（ 2015年08月10日07 版）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%85%B1%E5%85%9A%E6%8A%A5%E6%89%B9%E9%80%80%E4%BD%8D%E9%A2%86%E5%AF%BC%E4%BB%8D%E5%B9%B2%E6%94%BF%E5%BC%95%E5%8F%91%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%98%E6%96%97%E5%8A%9B/?category=18271" rel="tag">战斗力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%94%9F%E6%80%81/?category=18271" rel="tag">政治生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">老干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%A8%8E%E6%94%B6%E6%98%AF%E4%B8%80%E7%A7%8D%E6%8B%94%E9%B9%85%E6%AF%9B%E7%9A%84%E8%89%BA%E6%9C%AF/" target="cdt-mirror">【异闻观止】人民日报 | 税收是一种拔鹅毛的艺术</a>
 </h2>
 <p><p>人民日报谈征房地产税：不是为了降房价</p>
@@ -104,7 +140,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4/?category=18271" rel="tag">政治庇护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E6%8E%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/" target="cdt-mirror">端传媒 | 莫之许：中国为何要推网络安全法</a>
 </h2>
@@ -578,37 +614,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%8E%E7%BD%91%E8%AD%A6%E5%B7%A1%E6%9F%A5%E5%88%B0%E7%BD%91%E5%AE%89%E8%AD%A6%E5%8A%A1%E5%AE%A4/" target="cdt-mirror">德国之声 | 从“网警巡查”到“网安警务室”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%AD%A6%E5%AF%9F%E7%A4%BE%E4%BC%9A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%AD%A6%E5%AF%9F%E7%A4%BE%E4%BC%9A.jpg" alt="警察社会" width="550" height="311"></a></p>
-<p>继6月份中国网警首次高调亮相后，《网络安全法》草案征求意见截止的前一天，中国公安部宣布在重点网站和互联网企业设立“网安警务室”。有人表示赞成，但也有人担心，中国已成警察社会。</p>
-<p>（德国之声中文网）据中国公安部周二（8月4日）发布的消息，公安部副部长陈智敏在全国重点互联网站和服务企业安全管理工作会议上强调，要深入开展网站”网安警务室”建设，在重点网站和互联网企业设立”网安警务室”，第一时间掌握网上涉嫌违法犯罪情况，服务和指导网站提高安全管理防范能力。陈智敏还要求严打入侵破坏、窃取网民个人信息、网络诈骗和网络谣言等，重点网站和互联网企业不能渲染可能诱发犯罪的敏感案事件，不能传播低俗信息。</p>
-<p>公告最后指出，中央网信办、工信部有关部门负责同志，全国100余家重点网站和互联网企业安全工作负责人参加会议，中国移动、阿里巴巴、腾讯和奇虎360等公司作了发言。</p>
-<p><b>网民担心中国成警察社会</b></p>
-<p>消息公布后，有网民拍手叫好，指出”网络环境早就该管了”，但也有网民认为”中国已成警察社会”。微博用户”读来读往的胖子”直接将此举称作”网络盖世太保的进一步动作”。</p>
-<p>“一品清风”写道：”基本上就是为了控制舆论……我建议在youtube也常驻网警，帮世界人民防治一下谣言…”</p>
-<p>还有一些网民呼吁”网络舆论该整治，但人民声音必须倾听”。微博博主”南山响马” 对网安警务室的担忧则是：”只是不知道怎么个设法。只怕象征意义远大于实际作用，最后难免沦为年度工作报告上一个新颖的数字。”</p>
-<p>就陈智敏提出网络安全已”事关国家安全和社会稳定”的说法，推特用户 “喜欢去做吧”评论道：”说得好像没有互联网之前没有内战、没有外患、社会一片和谐似的。”</p>
-<p><b>网警首次高调亮相</b></p>
-<p>今年5月底，中国公安部宣布， <a href="http://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%AD%A6%E5%AF%9F%E4%BB%8E%E5%B9%95%E5%90%8E%E8%B5%B0%E5%90%91%E5%89%8D%E5%8F%B0/a-18489557">6月1日起</a>，首批50个省市公安机关统一标识为”网警巡查执法”的微博、微信和百度贴吧账号集中上线。在这些省市当中，有北京、上海、天津、广东、重庆和江苏等上网率比较高的省市，也有西藏和新疆等敏感地区。公安部指出，由此网警不仅由幕后走向前台，而且全面提高网上见警率。</p>
-<p>人民网当时发表评论：”如同有公民就有警察一样，在网络世界，有网民，自然就有网警。正如相关部门所言，’虽然网警执法账号这次是公开设立，但我国网络安全保卫部门已设立十七八年，现在只是工作的延续。'””当然，警察的身影常见了，难免有人会担心网络生活能不能那么’任性’了。这样的担心，显然有些多余。对于守法网民来说，并不妨碍其在互联网世界愉快玩耍”。</p>
-<p>德国之声记者注意到，微博8月4、5日两天又新增了一些”网警巡查执法”的微博账号，如”天水网警巡查执法”和”廊坊网警巡查执法”。</p>
-<p>推特网民”胡荻”就此指出：”从网管办坐镇重点网站拿双薪封博封微博，到今天加派网警，下一步该网警直接接管网站了？网站营运商付薪缴利润–无论是否盈利。”</p>
-<p>就公安部5日提出”在重点网站和互联网企业设立’网安警务室'”的要求，推特用户MerlotN调侃道：”看来网警巡逻的效果不好啊，都要设立网络派出所了。”</p>
-<p><b>“没有网络安全，就没有国家安全”</b></p>
-<p>近年来，中国当局不断强调网络安全问题。去年2月，中央网络安全和信息化领导小组宣告成立，中国国家主席习近平亲自担任组长。习近平强调： “没有网络安全，就没有国家安全”。</p>
-<p>上个月初，中国全国人民代表大会通过了一部涉及面广泛的新国家安全法，将法律的使用范围扩大到网络领域，引起国际上对于北京进一步加强权利限制的担忧。全国人大常委会法制工作委员会副主任郑淑娜当时表示，网络是 “国家的重要基础设施建设领域之一”，并指出北京在该空间的主权必须得到”尊重和维护”。</p>
-<p>几天后的7月6日， <a href="http://www.dw.com/zh/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%E4%BF%9D%E6%8A%A4%E8%B0%81%E7%9A%84%E5%AE%89%E5%85%A8/a-18570121">中国人大常委会对外公布了《中华人民共和国网络安全法》的草案</a>，其中一些关涉网络空间主权与网络言论自由等方面的条款引起广泛讨论。本周三（8月5日）是该草案的征求意见截止日期。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%8E%E7%BD%91%E8%AD%A6%E5%B7%A1%E6%9F%A5%E5%88%B0%E7%BD%91%E5%AE%89%E8%AD%A6%E5%8A%A1%E5%AE%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">社会稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">网络安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">网络警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AD%A6/?category=18271" rel="tag">网警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">警察社会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 5天前</small>
 </p>
 <table>
     <tr>
@@ -630,5 +635,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/></td>    </tr>
 </table>

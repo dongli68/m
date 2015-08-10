@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3njvlcx917r7o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%AE%E7%94%A8%E4%BA%BA%E5%BA%95%E7%89%8C-%E8%AD%A6%E5%91%8A%E5%85%9A%E5%86%85%E4%BA%94%E5%A4%A7%E6%B4%BE%E5%88%AB%E5%88%AB/" target="cdt-mirror">争鸣｜习近平亮用人底牌 警告党内“五大派别”别挡道</a>
@@ -62,7 +62,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4/?category=18271" rel="tag">政治庇护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E6%8E%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/" target="cdt-mirror">端传媒 | 莫之许：中国为何要推网络安全法</a>
 </h2>
@@ -665,7 +665,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1eodappbpsp9v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -675,5 +675,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
 </table>

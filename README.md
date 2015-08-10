@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%AE%E7%94%A8%E4%BA%BA%E5%BA%95%E7%89%8C-%E8%AD%A6%E5%91%8A%E5%85%9A%E5%86%85%E4%BA%94%E5%A4%A7%E6%B4%BE%E5%88%AB%E5%88%AB/" target="cdt-mirror">争鸣｜习近平亮用人底牌 警告党内“五大派别”别挡道</a>
+</h2>
+<p><p>习江斗进入关键时期，陆媒披露，习近平用人的三大标准及中共内部存在五种阻碍当局各项政策的“派别”。分析认为，这是习近平在警告中共党内“五大派别”。</p>
+<p>8 月 6 日，“学习中国”微信公众号撰题为《习近平呼唤改革促进派》的文章称，习近平用的“改革促进派”就是那些既“口能言”，又“身能行”的“国宝”。文章称，中共“改革已经进入深水区和攻坚期，都是难啃的硬骨头，都有可能遭到既得利益集团的阻拦”。<br>
+文章列出了习近平三大用人衡量标准，如“政治立场牢靠”、“敢于亮剑”等。</p>
+<p>报导称，面对中共当局的改革和“夺印削权”、“断腕割肉”般的利益调整，中共党内出现五种不正常的派别：在“关键时刻和大是大非面前”出现了“骑墙派”；敷衍了事的“摇头派”；不愿改革、拖拉推等的“梗阻派”；为官不为、尸位素餐的“观潮派”；反对改革、畏难而退的“促退派”。</p>
+<p>习近平“打虎”已瞄准江泽民、曾庆红</p>
+<p>媒体表示，习近平当局的反腐“打虎”已进入深水区，目标已瞄准江派大佬曾庆红、江泽民之际，陆媒披露习近平的三大用人标准及中共党内存在的“五大派别”，警告之意明显。</p>
+<p>中共十八届三中全会，当局出台了《关于全面深化改革若干重大问题的决定》（简称，《决定》）。《决定》包括设立两大权力机构：中共国家安全委员会、深化改革领导小组，全文分 16 项共 60 条内容，也包括中共国防和军队改革等多项重大内容。</p>
+<p>此前报导，习近平当局出台的《决定》，其实质就是从中共江泽民集团手中收回中共的党、政、军、财政大权。中共国家安全委员会囊括了中共党、政、军、财政、公安、武警、司法、情报、外交等部门，将使习近平高度集权，同时也架空了江系三常委的权力，并收回江派此前长期把控的政法委的权力。深化改革领导小组就是要收回江派在中共经济领域、中共各级政府、国企中的权力。</p>
+<p>习近平、李克强、王岐山等多次强调中共改革进入“深水区”、都是“难啃的硬骨头”，反腐“打虎”进入胶着期，“开弓没有回头箭”等。</p>
+<p>时政评论员表示，中共当局的改革，其实就是中共党内的利益再分配，而江泽民集团不仅长期把持中共政权，而且掌控了中共的主要经济命脉，如江泽民家族控制中国电信行业、曾庆红、周永康两家垄断中国的石油行业，李长春家族掌控了部分文化基金，刘云山的儿子是金融大亨等。石实认为，习近平的改革和反腐“打虎” 过程，其目的就是从江派手中收回权力的过程。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/f020a5-150x150.jpg" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 走丫的路 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%AE%E7%94%A8%E4%BA%BA%E5%BA%95%E7%89%8C-%E8%AD%A6%E5%91%8A%E5%85%9A%E5%86%85%E4%BA%94%E5%A4%A7%E6%B4%BE%E5%88%AB%E5%88%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E4%BA%BA%E4%BA%8B/?category=18271" rel="tag">高层人事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E5%86%85%E6%96%97/?category=18271" rel="tag">高层内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%B7%B2%E7%BB%8F%E5%AE%8C%E6%88%90%E4%BB%A4%E8%AE%A1%E5%88%92%E7%9A%84%E8%AE%A1%E5%88%92/" target="cdt-mirror">法广 | 令完成已经完成令计划的计划</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/jpg_2492.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/jpg_2492.jpg" alt="令完成" width="500" height="282"></a></p>
+<p>在过去的一个星期，令完成是美中关系最重要的话题。这个星期，美国官员证实了令完成潜逃美国；另一个得到证实的是：令完成携带着大量中共最核心的机密，也就是人们所说的政治核弹。《纽约时报》报道说：熟悉这一案件的几位美国官员表示，如果令完成寻求政治庇护，将可能成为中华人民共和国历史上最具破坏力的叛逃者。或将成为美国情报领域的一项非凡成就。</p>
+<p>时政评论家、网路杂志《中国事务》主编伍凡认为：令完成潜逃美国，是他的哥哥、前中共中央办公厅主任令计划，获知自己与自己的家族面临灭顶之灾时，实施的与习近平拼死一搏以求自保的计划。令完成潜逃事件，通过美国官员之口和《纽约时报》加以公开，表明令完成已经完成了令计划的计划。</p>
+<p>这个事件的重要性超过上个星期中国被彻底孤立、惨遭败绩的东盟外长会议。伍凡认为：习近平九月访美，南海议题已没有多少话可说，令完成必然是习近平与奥巴马交锋最重要的议题。而中国许多人，包括上层官员，仍然相信四处流传的谣言：奥巴马奉习近平之命，已经用专机将令完成遣返回中国。</p>
+<p>伍凡指出：美国不可能遣返令完成。美国的任何一位行政官员、包括奥巴马在内，遣返令完成都将遭到议会和法院的阻止。相信令完成已经获得美国的政治庇护，或者正在申请美国的政治庇护。</p>
+<p>未来还会有令完成潜逃事件更多的情节，通过美国官员之口和美国媒体的报道揭示出来，那将进一步表明令完成如何精彩绝伦的完成了令计划的计划。包括令完成人在何处，也将继续扑朔迷离：他未必住在加州的小城阿凯迪亚、也不可能住在一个名叫卢米斯的小镇。</p>
+<p>精彩绝伦的故事背后是中共权力斗争的残酷超出了人们的想象：习近平对令计划下手太狠，令计划的回击也绝不留余地。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%B7%B2%E7%BB%8F%E5%AE%8C%E6%88%90%E4%BB%A4%E8%AE%A1%E5%88%92%E7%9A%84%E8%AE%A1%E5%88%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4/?category=18271" rel="tag">政治庇护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E6%8E%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/" target="cdt-mirror">端传媒 | 莫之许：中国为何要推网络安全法</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/b0bbca6d74bf402a9379eafd26a2bfad.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b0bbca6d74bf402a9379eafd26a2bfad.jpg" alt="截止2014年底，中国网民人数近6亿5千万。摄:林亦非/端传媒" width="500" height="333"></a><p>截止2014年底，中国网民人数近6亿5千万。摄:林亦非/端传媒</p></div>
@@ -614,87 +654,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%85%E8%A1%8C%E7%AC%94%E8%AE%B0%EF%BD%9C%E8%A2%AB%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%94%B9%E5%8F%98%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA/" target="cdt-mirror">旅行笔记｜被一个人改变的另一个人</a>
-</h2>
-<p><p><strong>雪按：</strong>这个七月，“雪访”开张，是我做独立访问者的开始，谢谢诸位亲友的关爱支持。最近没有更新的原因，是我在原定的旅途中。十多天游荡川渝，看风景，见朋友，快意喜悦，可堪书写，遂成旅行笔记，慢慢奉于诸君。其余访问，也在从容开始。吾有耐心，不图急速，愿诸君依旧伴我。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%B0%A2%E8%8B%8F%E6%98%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%B0%A2%E8%8B%8F%E6%98%8E.jpg" alt="谢苏明" width="450" height="670"></a><p>谢苏明，重庆江北区的一个服装商人。被偶然的命运改变了的人，也是被一位大个子改变了的人。</p></div>
-<p>雨夜的长江边，谢苏明声音低低地说了一句：正义迟早会到来的。</p>
-<p>他刚刚打发了街道综治办的维稳人员。他和他们讲道理，说，老浦当年救过我，如今他落难，我不说话，不是人……对方或许自知理亏，末了说：声援律师你就少说话吧，不过为老浦说话可以的。</p>
-<p>一句话把他惹笑了。</p>
-<p>一</p>
-<p>最近，他一直在想着大个子开庭的事。按照5月15日检察院的微博公告，8月18日应该开庭了。他想从重庆赶过去旁听，哪怕到时进不去呢。不过估计会受到阻拦。不管坐飞机、还是火车，一买票人家就都知道了。</p>
-<p>去年12月，他去了趟北京，看望浦嫂孟群。结果一买票，就被盯上了。</p>
-<p>他发现不妙是在重庆机场的摆渡车上。他看到一个人莫名其妙地给他笑了一下。他近视，没看清也就没搭理。一会儿，这人笑嘻嘻地走到他跟前，他才发现是长期盯他的那个人。他气坏了，大喊：滚回去！对方说，咱不是朋友么，就跟着他上了飞机。</p>
-<p>他坐前排，那两个男人坐后排。临降落时，他上了趟厕所，飞机颠簸，就坐在了最后一排。眼看着，飞机降落后，那两人急匆匆冲前面找他去了。</p>
-<p>他趁机钻进了机场的卫生间，呆了半小时，换上运动鞋。心想，一会儿出来如果还被盯着，就顺高速路跑，自己平时跑步，对方肯定追不上。“我就在网上全世界直播，说两个狗腿子在追我。”</p>
-<p>还好，没出现想象中的一幕。跟踪的人把他搞丢了。</p>
-<p>他见到了孟群。见面，喊声“嫂子”，喉头哽咽，就说不出话来了。</p>
-<p>这是他第二次见到孟群。第一次是在河北滦县，2013年7月，大个子律师的母亲葬礼上。他和重庆这边被劳教过的任建宇、彭洪等几个人都去了。老太太下葬时，他看见大个子律师在哭，鼻涕一把眼泪一把的。</p>
-<p>他最后一次见大个子，是在任建宇的婚礼上。那天大个子高兴得像个孩子，还喝了点酒，但没多喝，人人都知道他有糖尿病，也不敢劝。那次婚礼后，大家还去缙云山玩了。过了几天，大约是2014年的5月4日，听到他被带走的消息。</p>
-<p>二</p>
-<p>他始终记得大个子说的一句话。薄王时期，重庆无辜被劳教者，数目庞大，至今成谜。而其中有10多个因为网络发言被劳教的，例如谢苏明，彭洪、方竹笋、任建宇等，都是因为他的努力，问题才得到解决。事后，大家请他吃饭。席间，大个子说了一句：往后，我在重庆是有亲人的！</p>
-<p>这句话他一直记着。“亲人出了事情，你说你能不出来说话吗？”</p>
-<p>“我相信，他们再不要面子，怎么能用20多条微博给他定罪？”他说。</p>
-<p>在他心目中，大个子仗义、善良，就像他自己给自己封的“体制外大佬”，确实有大佬范儿。</p>
-<p>这个大佬，谢苏明第一次和他见面，是在重庆一家100多块钱的小旅馆。当时，他去找他，说自己被劳教的经过。结果大个子说，来，今天就给你拍一下。就让他坐在宾馆床上，用三星手机拍了个视频。题目很大：《浦某某对话谢苏明——一句跟帖引发的劳教案》。传到网上，谢苏明就火了，有不少媒体来采访他。</p>
-<p>几天后，当地政府叫他去，把他的劳教决定撤销了，两年多来他心里积压的郁闷，就这样一扫而光。</p>
-<p>他最深的印象是大个子的善良。“他家里包了饺子。盯他的国宝在楼道里睡着，他喊人家到家里吃饺子。”的确，大个子被盯惯了，和人说话，一口一声“我们家国宝”。谢苏明听到了，笑到不行。那次在老太太葬礼上，他还见那个被大个子称为“我家国宝”的人了，个子高高的，还过来要他们几个电话。有人给了。他没好气，说了句“我没电话！”，拒绝了。</p>
-<p>三</p>
-<p>从2012年底到现在，认识大个子两年多了，谢苏明说，自己被他改变了很多很多。</p>
-<p>44岁的谢苏明，是重庆江北区的一名普通商人，做服装生意。2009年，因为在网上跟贴，调侃王立军，就被以“寻衅滋事以及扰乱社会治安”，劳教了一年。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%B0%A2%E8%8B%8F%E6%98%8E2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%B0%A2%E8%8B%8F%E6%98%8E2.jpg" alt="公安机关给谢苏明出具的解除劳动教养通知书。" width="450" height="730"></a><p>公安机关给谢苏明出具的解除劳动教养通知书。</p></div>
-<p>谢苏明早年从涪陵师范的美术专业毕业，分到老家当老师，因为想出来闯荡，就辞职做生意。1997年前后，他买了电脑，那时，开始上天涯杂谈，在一些BBS和聊天室里看东西。</p>
-<p>一直到2011年前后，微博火爆，他也开始上微博，眼界一下子打开了。“以前我会为911狂欢。上了微博之后，所有的病都治好了。”他说。至今，一个关系要好的同学，总和他辩论，他干脆说：你是新闻联播看多了，去看点微博吧。</p>
-<p>“我劳教被抓，很多网友声援我。现在看到不公平的情况，我觉得自己也该声援，这是很普通的事。”他说。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%B0%A2%E8%8B%8F%E6%98%8E3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%B0%A2%E8%8B%8F%E6%98%8E3.jpg" alt="谢苏明3" width="550" height="406"></a><p>认识大个子以来，两年过去了，他觉得，自己最大的改变是，内心的恐惧消除了很多。</p></div>
-<p>他还记得，任建宇案开庭时，这个瘦瘦的小伙子站在大个子跟前，战战兢兢的，大个子在一旁一直鼓励着他。</p>
-<p>那时，谢苏明自己也是战战兢兢的。因言获罪的恐惧，让这个一直自认为安分守己的商人，压抑苦闷。如今，他觉得自己内心的恐惧减少了很多。“不过说几句话而已，大不了就坐牢”。</p>
-<p>2013年，他的劳教决定被撤销，得到了不足6万元的国家赔偿。但之后，他却成了维稳对象。</p>
-<p>原因除了在微博上声援老浦之外，他还一直在控告当时劳教他的派出所副所长。“我给他打电话，逼问他，你说我冤枉不！他说：肯定冤枉。我就录了音，传到网上。”</p>
-<p>一些敏感日期，家里总是要来人。他气坏了，骂他们：你们再来，小心我敲你们的脑袋。</p>
-<p>“你说，又不是警察传唤，就是街道办人员。这是啥程序？往我家里闯？”他大声地说着。</p>
-<p>他不再是那个战战兢兢的谢苏明了。</p>
-<p>四</p>
-<p>被劳教后，谢苏明的生意中断了两年，如今，他重操旧业。在做生意之余，就是为老浦呼吁。他最坏的打算，是不做生意了，回到老家，种两亩地，自给自足得了。</p>
-<p>他惦记着大个子，有时做梦会梦到他。他对大个子的故事如数家珍。知道他当年硕士毕业后就失业，曾找中国社科院的张显扬先生诉说苦闷。张先生赠他一句话：“一个人只要忠实于信仰忠实于朋友，就能立于不败之地。”谢苏明特意找了个哥们，把这句话写成书法，挂在自己的房间。</p>
-<p>重庆的艺术家刘伟伟曾以谢苏明的事情为入口，做了一个艺术行动的作品。算是让谢苏明这个美术系毕业生，重新回了趟艺术。</p>
-<p>沿着谢被劳教的线路，刘伟伟全部重走一遍。每到一个地方，寻找一些小空椅子，总共大约有十几把把，最后一起放进了展览活动里。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%B0%A2%E8%8B%8F%E6%98%8E4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%B0%A2%E8%8B%8F%E6%98%8E4.jpg" alt="谢苏明请朋友写了副书法，内容是曾支撑大个子律师的一句话：一个人只要忠实信仰，忠实于朋友，就能立于不败之地。" width="600" height="135"></a><p>谢苏明请朋友写了副书法，内容是曾支撑大个子律师的一句话：一个人只要忠实信仰，忠实于朋友，就能立于不败之地。</p></div>
-<p>这一切，都让谢苏明觉得，被劳教这个经历，或许不是一个坏事。让他认识了大个子，也认识了像刘伟伟这样一些有趣的朋友。尤其是，对这个社会和国家，有了更深刻的认识。</p>
-<p>“以前我会相信宣传，现在对那些所谓新闻，会打几个问号。”他说。</p>
-<p>“当然，那一套也有土壤，不知道真相的人也就信了。但是，毕竟有了自媒体，真相多少能滲过去。人没有那么容易被欺骗了。”</p>
-<p>夜深了，江水滔滔，这是2015年的7月。谢苏明打开随身携带的ipad，播放他自己制作的一个MV，里面都是大个子的照片，背景音乐是谭维维的那首《明天你依旧在我身旁》。音乐伴着江水，就那样响着： 时空飞越，年华老去，也许我们无力前行，但你我都能知道，那是唯一的方向。只有一件事最重要，明天你依旧在我身旁……</p>
-<p>独立写作，随意打赏，谢过。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/3FNxSgAPUeC21ntPDXBekY99SJudGNaZiaaPZBBxDjeHk6NvsLxuQTZREvs9pdD6FQbKFmf1ov1O8ej83QAmibZg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%85%E8%A1%8C%E7%AC%94%E8%AE%B0%EF%BD%9C%E8%A2%AB%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%94%B9%E5%8F%98%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E6%95%99/?category=18271" rel="tag">劳教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%A2%E8%8B%8F%E6%98%8E/?category=18271" rel="tag">谢苏明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%AA%E8%AE%BF/?category=18271" rel="tag">雪访</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 5天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%9C%89%E4%B8%80%E7%A7%8D%E7%94%9F%E7%89%A9%E5%8F%AB%EF%BC%9A%E6%9F%90%E5%9B%BD%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7/" target="cdt-mirror">德国之声 | 有一种生物叫：#某国单身女性#</a>
-</h2>
-<p><p>中国女艺人徐静蕾公开承认自己在美国冷冻卵子，并称‌‌“冷冻卵子是全世界唯一的后悔药‌‌”。一个月后，央视告诉中国单身女性，卫生部规定，单身女性不能使用冷冻卵子生育。然后，很多人都看不下去了。</p>
-<p>事情的起源大概真的要追溯到徐静蕾的身上。今年7月初，著名女演员徐静蕾接受中国一家媒体访问时公开承认自己在美国冷冻了9颗卵子。当时她在采访中解释说，冷冻卵子的目的不是为了多生孩子，而是‌‌“为了保证自己在生育权上拥有尽可能大的选择余地‌‌”。41岁的徐静蕾称，‌‌“冷冻卵子是全世界唯一的后悔药‌‌”。</p>
-<p>这件事一度在中国社会上引起广泛讨论。大约事隔一个月后，央视新闻报道称，‌‌“中国卫生部规定，单身女性不能实施辅助生殖技术的相关手术。有的医院允许单身女性冷冻卵子，但在使用冷冻卵子时必须提供三证：即身份证、结婚证、准生证‌‌”。报道中引述2001年中国卫生部发布的《人类辅助生殖技术管理办法》中做出的规定，‌‌“人类辅助生殖技术的应用应当在医疗机构中进行，以医疗为目的，并符合国家计划生育政策、伦理原则和有关法律规定‌‌”。这也就是说，按照中国现行相关政策及法律的规定，‌‌“未婚女性禁止进行辅助生殖类手术‌‌”。最通俗的理解就是，在中国，未婚女性即便冷冻了卵子，也不能接受人工授精手术。</p>
-<p>徐静蕾在其新浪微博上讽刺地写道：‌‌“有一种生物叫：#我国单身女性#。‌‌”自称‌‌“直男癌‌‌”的大陆作家韩寒也表示对相关政策‌‌“看不下去了‌‌”，他在微博上写道：‌‌“想要个孩子但就是不想跟男人结婚不可以吗？自己的卵子自己还不能用了吗？女性不能独立行使生育权利吗？还有，未婚女性怀孕，准生证都不给，孩子未来连户口都办不下来，除非认罚巨额社会抚养费。生育必须要和找个男人结婚捆绑吗？连我这个直男癌都看不下去了。‌‌”</p>
-<p><strong>有一种贴叫‌‌“找抽贴‌‌”</strong></p>
-<p>央视的这一报道再次在网上引爆有关单身女性冷冻卵子的讨论。在央视新闻官方微博相关报道下热门跟贴几乎无一例外地对卫生部发布的《管理办法》表示愤慨。有人评论道：‌‌“不去管拐卖妇女儿童，不去管性侵幼女，不去管家庭暴力，不去管校园暴力，却来反对女性冻卵。男的出轨，三妻四妾是压力大；女的出轨是臭不要脸骚溅浪。征婚现场洗脸扒光测胸围，拐去大山回不了家感动中国！真的够了。‌‌”还有人评论道：‌‌“他的意思是，有本事去美国你就去美国，没本事去美国就老老实实和中国男人混，又去不成美国还想不帮国家消化中国光棍，就让你断子绝孙。‌‌”还有人嘲讽地写道：‌‌“这是我看过的最好的移民广告。‌‌”</p>
-<p><strong>Facebook和苹果公司资助女员工冷冻卵子</strong></p>
-<p>去年，美国两大科技巨头脸书(Facebook）和苹果（Apple）公司分别宣布资助女员工2万美元冷冻卵子，以帮助她们在适合生育的年龄专注于事业发展。</p>
-<p>两个公司的做法被看作是公司‌‌“福利‌‌”，但也有批评意见指出，两家公司使用的这种策略会使女性将自己的精力和灵魂完全奉献给雇主，为了晋升而错过最佳生育时机。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%9C%89%E4%B8%80%E7%A7%8D%E7%94%9F%E7%89%A9%E5%8F%AB%EF%BC%9A%E6%9F%90%E5%9B%BD%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5%E6%8E%88%E7%B2%BE/?category=18271" rel="tag">人工授精</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B7%E5%86%BB%E5%8D%B5%E5%AD%90/?category=18271" rel="tag">冷冻卵子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">单身女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E9%9D%99%E8%95%BE/?category=18271" rel="tag">徐静蕾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2%E6%9D%83/?category=18271" rel="tag">生育权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 5天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +665,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r3bu1vl2semn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +675,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>

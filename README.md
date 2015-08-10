@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgs00pbm9u9t8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%A8%8E%E6%94%B6%E6%98%AF%E4%B8%80%E7%A7%8D%E6%8B%94%E9%B9%85%E6%AF%9B%E7%9A%84%E8%89%BA%E6%9C%AF/" target="cdt-mirror">【异闻观止】人民日报 | 税收是一种拔鹅毛的艺术</a>
@@ -87,7 +87,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%8B%E7%96%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E4%BA%BA%E4%BA%8B/?category=18271" rel="tag">高层人事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E5%86%85%E6%96%97/?category=18271" rel="tag">高层内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%B7%B2%E7%BB%8F%E5%AE%8C%E6%88%90%E4%BB%A4%E8%AE%A1%E5%88%92%E7%9A%84%E8%AE%A1%E5%88%92/" target="cdt-mirror">法广 | 令完成已经完成令计划的计划</a>
 </h2>
@@ -620,7 +620,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgs00pbm9u9t8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -630,5 +630,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>

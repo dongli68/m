@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,482 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E6%8E%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/" target="cdt-mirror">端传媒 | 莫之许：中国为何要推网络安全法</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/b0bbca6d74bf402a9379eafd26a2bfad.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b0bbca6d74bf402a9379eafd26a2bfad.jpg" alt="截止2014年底，中国网民人数近6亿5千万。摄:林亦非/端传媒" width="500" height="333"></a><p>截止2014年底，中国网民人数近6亿5千万。摄:林亦非/端传媒</p></div>
+<p><strong>从赋予管理部门超级权能、强化网络运营者全面责任和义务，以及对网络个人用户的实名监控这三个方面入手，形成了一个无所逃於天地之间的严密管制的网络空间。</strong></p>
+<blockquote><p>随着《网络安全法》的推行，曾经相对自由、宽松、隐匿的互联网空间就此一去不返，大陆的自由化表达和抗争行动也由此会逐渐失去这唯一的平台。</p></blockquote>
+<p>2015年8月5日，是《网络安全法》徵求意见截止日，这也意味着，在不久的将来，《网络安全法》将正式出台，从已有的草案中，若干条款已经引发高度关注，该草案强调网络主权是国家主权在网络空间的体现和延伸，将「维护网络空间主权和国家安全」作为立法宗旨，赋予了管理部门近乎无限的管理权能，引发了「中国将建立国家互联网」的联想。</p>
+<p>该草案将网络运营者作为第一责任人，提出了巨细无遗的规定，尤其在网络安全部分，网络运营者有处置违法信息的义务（草案第四十条）、发送电子信息、提供应用软件不得含有法律、行政法规禁止发布或者传输的信息（草案第四十一条）、侦查机关依照法律规定，可以要求网络运营者提供必要的支持与协助（草案第二十三条），等等。此外，该草案赋予有关主管部门处置违法信息、阻断违法信息传播的权力（草案第四十三条），甚至「依法断网」（草案第五十条）。</p>
+<p>最令普通网民关注的，则是草案同时规定，确立决定规定的网络身份管理制度即网络实名制，以保障网络信息的可追溯（草案第二十条）。由此，从赋予管理部门超级权能、强化网络运营者全面责任和义务，以及对网络个人用户的实名监控这三个方面入手，形成了一个无所逃於天地之间的严密管制的网络空间。</p>
+<p>《网络安全法》草案的如此面貌，并不出人意外，近年来，北京强化了对於网络的管控，两年前声势浩大的「清网行动」，尚在人们的记忆当中。在当局眼里，对於互联网的管控，不仅具有一般社会管理的意义，还涉及到所谓国家安全也就是政权稳定，具有最为重要的战略意义。在笔者看来，网络安全对於当局如此重要，与极权体制采用市场化的社会後果有关，极权体制一方面需要引入市场化以提高存续能力，一方面又必须面对市场化社会後果可能具有的颠覆性效应，网络空间则为这一颠覆性效应提供了最为可能的产生平台，从而成为统治者必欲彻底控制的对象。</p>
+<p>在市场化改革前的既有极权体制下，体制之外并无所谓社会，不仅一切资源、信息和人身的流动处於体制的绝对控制之下，以单位制与公社制为基本社会单元，所有个体均被纳入体制的直接管理乃至人身控制，体制也因此获得了超乎寻常的稳定性。当然，这样的体制也因此会失去活力，陷入到普遍的停滞乃至匮乏之中，而这种状况的存续，不仅会持续扩大与自由阵营在经济、科技，以及军事上的绝对差距，也会引发包括统治群体内部成员在内的普遍不满，从而削弱体制的活力，在极端情况下，还会威胁到体制的存续，苏联东欧的巨变，就在很大程度上印证了这一点。在这个意义上，中国大陆对於市场化的引进，可以看作是体制的自我修补的提升，引入市场化，从根本上是为了克服既有体制下普遍的停滞乃至匮乏，缩小与自由阵营在经济、科技、以及军事上的绝对差距，以提高专政体制的活力和存续可能。</p>
+<p>应该说，大陆30多年来的市场化改革在很大程度上满足了统治者的意图：市场化带来了经济发展，克服了普遍的停滞和匮乏，也确实缩小了与自由阵营在经济、科技、以及军事上的绝对差距，这也是当前所谓「三个自信」的基础，这一表述也说明，市场化改革自始至终都从属於维持专政体制这一根本目的，而不是如某些乐观者所期待的那样指向体制的进一步转型。不过，尽管收获了上述成果，对於维持专政体制这一目的而言，市场化带来了新的挑战：</p>
+<p>首先，市场化需要资金、信息和人员的自由流动，也就需要给予社会成员以相应的人身权利、经济权利、文化（消费）权利，必然带来单位制和公社制的解体，也使得广大社会成员脱离了体制的直接管理和人身控制，其次，市场化产生了新的利益格局，形成了新的社会群体，各种利益诉求和权利诉求此起彼伏，根据不同统计口径的群体性事件直线上升，最後，市场化和对外开放，也不可避免地刺激了新兴社会阶层的权利诉求，促成了自由化思想观念的流行，扩大了对於现行体制根本质疑的社会基础。</p>
+<p>上述变化，一方面给当局带来了无尽的「维稳」压力，在另一方面，也形成了一个令当局始终抛却不下的根本担忧：不受直接管理和人身控制的天量人群，天然地有着与既有体制相对立的利益和权利诉求，对於自由化思想观念有着天然的亲和力，一旦出现特定的经济和社会条件或者说危机状态，该人群的上述特徵和倾向，完全可能转变为针对体制的根本质疑，形成具有颠覆性的社会运动。这一根本担忧，伴随着整个市场化过程，当下日益刚性化和网格化的维稳体制，正是这一担忧的产物。</p>
+<p>相对自由、宽松、隐匿的互联网空间的存在，则为这一可能提供了合适的平台，也因此成为了北京的眼中钉。一方面，大陆并无所谓言论自由，各种媒体平台依旧处於当局的直接拥有和控制之下，互联网也因此成为各种自由化思想观念传播的最重要平台，另一方面，大陆也无所谓结社自由，不可能存在任何正式反对组织，互联网空间尤其是最新的社交工具，为各种非正式的联结乃至抗争网络，以及相应的抗争行动提供了便利，在当局眼里，互联网是不受直接控制的人群与自由化思想观念的重要、甚至是唯一的聚合平台，不仅如此，一旦出现特定的社会条件，对体制的根本质疑广泛涌现，互联网也是唯一可能的呈现平台，并可能成为颠覆性社会运动的动员平台，也因此，对於体制来说，互联网的存在，更像是「万恶之源」。</p>
+<p>近年来，北京通过一波又一波的打击，对基於互联网的各种观念传播和抗争行为进行持续打压。这一打击首先针对的已经浮现出来的积极分子，通过现实的网格化维稳体制，也通过持续的网络清除，对积极分子进行全面管束压制，如最近的7.10律师劫。经由数年来的持续打压，已经极大地消除了任何有组织抗争的发展可能；也因此，在当局眼里，经由有组织抗争的扩大，进而形成颠覆性社会运动的可能性，已经降到了最低。</p>
+<p>可是，仅仅消除掉有组织抗争的威胁，并不能让北京高枕无忧，即使消除了有组织抗争形成颠覆性社会运动的可能，也依然存在特定经济和社会条件下，出现大规模突发聚集，进而形成颠覆性社会运动的可能，而在这样的运动当中，互联网空间和工具依旧是最为重要的存在，互联网空间以其即时性和覆盖面，提供了最大的爆炸性和颠覆性。对於当局来说，如果能够取消掉这一存在，则不啻是买到了最终的保险，或者说完成了政权安全的最後一块拼图，而这也正是《网络安全法》出台的根本原因，草案内容也完全展示出了北京的用心：</p>
+<p>强调网络主权是国家主权的体现和延伸，是为了阻断境外信息的流入，消除对於大陆民间抗争和社会运动的声援和支持；强化网络运营者的责任和义务，则是为了全面清除对於体制的根本质疑声音，消除各种异议表达和抗争行为的存在，最後，网络实名制取消了互联网空间的隐匿特性，有助於将积极分子和根本质疑者识别出来，并彻底清除出互联网空间。不难设想，随着《网络安全法》的推行，曾经相对自由、宽松、隐匿的互联网空间就此一去不返，大陆的自由化表达和抗争行动也由此会逐渐失去这唯一的平台。而即使出现特定的经济和社会条件，北京也能够防止互联网空间成为人群与观念的聚合平台，从而降低大规模突发聚集出现的可能，防止互联网空间成为颠覆性社会运动的策源地，所谓的「依法断网」条款，更描绘了这一确凿无疑的前景。</p>
+<p>从维持专政体制的用心来看，《网络安全法》的推行已无任何悬念，自正式进入中国大陆以来，相对於原有的社会管制空间，互联网一直被看作相对自由、宽松、隐匿的虚拟空间，并曾经被寄托过「改变中国」的想像，而根据《网络安全法》草案，一旦该法实施，这一虚拟空间势必与既有的实体空间同样受到严密管制，曾经有过的浪漫想像也将随风而逝去。失去网络这一重要甚至是唯一平台之後，未来中国的民间抗争会呈现怎样的面貌？没有了互联网这一观念和人群的聚合平台，在特定的经济和社会条件下，人群的大规模突发聚集会出现怎样的行为模式？所有这一切都很难有现成的答案，但无疑，《网络安全法》的推出，将首先带来互联网空间的逐步沉寂，迎来一段难熬的冰河期，而所有这一切，也势必深深地影响乃至改变未来中国的社会进程。</p>
+<p>（莫之许，青年学者，独立评论人）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E6%8E%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%8C%96/?category=18271" rel="tag">市场化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE/?category=18271" rel="tag">异议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%BD%93%E5%88%B6/?category=18271" rel="tag">极权体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">清网行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%AE%A1%E7%90%86/?category=18271" rel="tag">社会管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%A0%BC%E5%8C%96%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">网格化维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">网络安全法</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E6%97%A0%E7%9F%A5%EF%BD%9C%E8%B0%8C%E6%B4%AA%E6%9E%9C%EF%BC%9A%E6%88%91%E7%9F%A5%E9%81%93%E6%88%91%E4%B8%80%E6%97%A0%E6%89%80%E7%9F%A5/" target="cdt-mirror">知无知｜谌洪果：我知道我一无所知</a>
+</h2>
+<p><h2></h2>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401.jpg" alt="640" width="640" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/643.jpg" alt="643" width="550" height="366"></div>
+<div>
+<p>2013年12月23日，我发表了辞职公开信，告别心爱的教师事业。当时的我，为大学自由独立精神的沦丧而痛惜，为捍卫珍视的原则和尊严而宁愿付出代价。一介书生，就这么孤注一掷；煎熬数十天之后的决定，在关心和不关心的人们看来，未免还是一时负气之下的冲动。不管有多少误解，时间会证明你是怎样的人。我有美好而光明的坚守，这一点至今甚为欣慰。然而，对生存的恐惧，毕竟是我辞职后最大的现实。尽管收获了各种理解同情和道义支持，并为之感动和温暖，但当喧嚣的事件如同泡沫烟消云散，独自默默承受生存之艰的，还是只有自己和家人。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/641.jpg" alt="641" width="551" height="734"></p>
+<p>算起来，辞职已近一年零八个月。在这期间，我从北京漂到香港，然后再度回到西安。走了一圈，在四十一岁年纪，又得开始在另一个起点重新出发。有过很多的调整、沉淀、定位和选择，个中滋味，只能自己体会和承受，不必抱怨，唯有前行；得到很多好人、恩人的帮助、指点、鼓励和提携，只能把感激放在心底，也因此更加难以放弃。可是，我能做什么呢？琐碎累积的艰辛，比起一时的苦难，更容易消磨人的意志，把一个人彻底变形，尤其是对心态的扭曲。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/642.jpg" alt="642" width="549" height="412"></p>
+<p> </p>
+<p>我想过很多要做的事情。是啊，被迫辞职了，不甘心，不服气，要比以前活得更有人样，要让那些曾经阻拦你的人看看你今天混得如何好，要证明你愈挫愈勇、很优秀很有成就，等等等等。诸如此类的想法时常冒出，幸好很快就收了回去。毕竟，人生的巨变让我明白了命运时常会捉弄人，人的能力总有不可逾越的限度，所以重要的是要有自知之明。不过如果仅仅认识到这一步，我想我还不会有内在的平和，因为我还是在以某些外在的标准来衡量幸福的指数，由此而来的放下，也不过是自知无法实现抱负后的故作坦然。</p>
+<p>所以我在想，我是不是因为生存的压迫，而背叛了自己的信念。当初在高校坚守本分，只在乎做正确之事，而不在乎别人的评判；今天想要活得更好，却忘了曾经的坚持，而计较他人的眼光。我如果过的是我原先所反对的生活，那我辞职的意义何在？这个问题像幽灵一样缠绕着我。对它的恐惧甚至超越了对生存本身的恐惧。我要解决生存问题，但更急迫的是我得继续寻找自己，认识自己。</p>
+<p> </p>
+<p>还有更进一步的纠结。辞职一年半以来，我够沉默也够疑惑，时时反思当年各种自以为是和自以为义的骄傲。一个力图保持内外一致并以此为荣的人，也许也是一个不近人情的人，就像尼采说苏格拉底不会为雅典掉一滴眼泪一样。大概就是因为缺乏对所爱的城邦的同情理解，使苏格拉底得罪了雅典人民。同样，我们又该如何同情地理解所处的时代和环境，看到伟大背后的渺小，正义包含的忧伤，罪人隐藏的可怜？天啦，我们总想改变世界以及改变别人，却总是没有勇气想想自己该如何改变。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/644.jpg" alt="644" width="550" height="733"></p>
+<p>我当然同意社会是应当改变的，但实在不能以唯我独尊的姿态和居高临下的方式。发生在今天中国的许多冲突，既是利益和立场的冲突，也是观念及偏见的对峙。每个人都生活在自己的位置局限和精神牢笼中，也生活在害怕被颠覆的恐惧及想要被尊重的傲慢里。活在被安排的某种坐标系中是不错的，问题在于我们失去了理解、倾听、对话和分享的能力，也失去了平常、平等、悲悯和谦卑的心态。和谐的第一课，应该是学会如何与自己、他人及世界相处。</p>
+<p>遗憾的是，基本共识的撕裂和毫无掩饰的攻讦，日渐成为当下各种政治或社会事件的常态。人们不再像那位古希腊的哲人一样，提着灯笼寻找失落的人，而是在终日的惴惴不安中，不断寻找新的敌人。我想说，这不是一个号称文明的大国所应有的形象，也不是这片土地上的人们所想要过的生活。我还想说，这个民族有无处不在的关爱、温情和美善，这个国度也曾经呈现海纳百川的气度与自信。所以，我们完全能够做到在尊重个体利益和选择的基础上，促进共同体的繁荣与荣耀。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/645.jpg" alt="645" width="550" height="550"></p>
+<p>能够做到，所以要做；相信某些长久的东西可以超越政治的壁垒、人性的高墙，所以才会更加务实地去努力，去尝试。经历命运浮沉的我，愿意继续实践美丽的自由，参与到这种可能性的创造中来。我想通过一个文化空间的创意和经营，安置我的生存，也植根我的梦想。面对未来，我仍然会有很多焦虑和惶恐，但无论生活多么艰难，我们也要快乐阳光地活下去，精神丰盈地活下去。我想呈现和传达这样的生命样态。结果如何，我不得而知。我期待成功，但不会把它放在最重要的位置。重要的是我在做，并且在做的过程中探索自己。有些答案我们也许一辈子也找不到，但我们走过的行迹，却可以看得越来越清晰。是你所经历的事件，你为这些事件赋予的意义，你对世界的回应，以及你对自我的交代，构成了你这个人。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/646.jpg" alt="646" width="551" height="413"></p>
+<p>伟大的文化社群，正是由一个个有着鲜活生命的这些具体个人共同塑造出来的。文化并非高不可攀的东西，也不仅仅是某种格调和品位，她就体现在平常人生活的各种细节当中，是每个人有权利追寻的基本需求。当越来越多的人的梦想可以得到尊重，可以有实现的机会，我们的文化土壤就会越来越肥沃，文化的软实力就会越来越有温度和力量。文化应当是活力四射的、多样包容的，并且是相互激荡的，所以要靠每个人自下而上的参与来丰富其中的色彩。我愿意活在一个多姿多彩的世界中，我所能做的，就是依托西安这座文化底蕴深厚的伟大城市，提供一个小小的平台，通过各种艺术文化活动，激活人们的文化消费，提升市民到人文品味，奉献独特的文化思考，扎实而理性地从事文化建设，不断提供有价值的文化产品，最终形成有爱有智有趣的文化社群。总之，通过自己的踏实努力，为文化增添一缕色彩。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/647.jpg" alt="647" width="549" height="732"></p>
+<p> </p>
+<p>“知无知”的名称来自苏格拉底对智慧的拷问，即所谓的“无知之知”：人们知道得越多，就越应明白自己的无知，从而才会更加谦卑地寻找真知。不仅要有自知之明，而且要把认识无知作为智慧，明白是那些永恒的东西，在支撑着人类有限的知识和生存。智慧因而是一种观照，映出人类的破败堕落，也指出人类修复完善并迈向更高文明的可能。公司的英文缩写为igwise, 既是指无知之知（ignorantwisdom），又是指点燃智慧（ignite wisdom）。你们不知道我对苏格拉底有多么热爱，他一直是我的精神路灯。在苏格拉底那里，认识自我的过程就是不断拷问以哪种方式活着更好更有意义的过程。这是每个人都应有的卑微而高贵的文化使命。我愿追寻着他，做文化的助产士，也借机弥补自己曾经如此匮乏的文化生活，并且，在有限的努力中享受解放自己的快乐。</p>
+<p>这是我在人生十字路口的又一次抉择。我何德何能，却能如此幸运，受到太多眷顾。不能辜负，那就继续征途。因为对未来不确定性的无知，使我得以迎接一个又一个的惊奇。即使苦难，也是上苍赐给的特殊礼物，使我能从背后的意义中受益。诚挚欢迎朋友们多多关注和支持我和我的伙伴们的“知无知”小小空间，加入到我们的卑微事业中来，和我们一道成长，以向下扎根的行动，丰富这国这民的文化和文明。</p>
+<p>请记住我们：<strong>知无知</strong>。</p>
+<p>知无知创始人：谌洪果 敬呈</p>
+<p>2015年8月8日</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/648.jpg" alt="648" width="414" height="378"></p>
+</div>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E6%97%A0%E7%9F%A5%EF%BD%9C%E8%B0%8C%E6%B4%AA%E6%9E%9C%EF%BC%9A%E6%88%91%E7%9F%A5%E9%81%93%E6%88%91%E4%B8%80%E6%97%A0%E6%89%80%E7%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">公共知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E5%AE%89/?category=18271" rel="tag">西安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%8C%E6%B4%AA%E6%9E%9C/?category=18271" rel="tag">谌洪果</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%BB%99%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E5%90%8C/" target="cdt-mirror">博客中国｜罗伯特卡帕：给“爱国青年”侯聚森同学推荐一篇毛选</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/e11902d2jw1eucoup92hkj20c80b2wff.jpg" alt="e11902d2jw1eucoup92hkj20c80b2wff" width="440" height="398"></p>
+<p>“爱国青年”是共青团山东团委微博与共青团中央微博给予山东文登某师范学校学生侯聚森同学的称号，我在文章《到底是“爱国青年”还是“法西斯青年”？》里分析过，小侯同学蔑视人权，没有人权观念，网上称“钉子户活该被枪毙”，因此与人发生争吵，争吵时又使用了极为下流暴力的语言，导致网下被群殴。我认为，小侯同学根本配不上“爱国青年”的称号，有“法西斯青年”的嫌疑。</p>
+<p>毛说惩前毖后，治病救人。还有句俗话，年轻人犯错误，上帝都会原谅。我已经不再年轻，不过我也是从年轻过来的，年轻人的优点是有激情，缺点是容易受人蛊惑被洗脑。</p>
+<p>我是80年代中期高中毕业的，那时中国与越南正在边境进行边界战争，当时官媒无论是报纸上还是电视上都在宣传战争英雄的事迹，我的最高理想就是参加战争，像越战英雄一样为国捐躯。</p>
+<p>如今回想起来，庆幸的是我当时眼睛近视，不够参军资格，另外我考上了一所中专学校，所以“为国捐躯”的“宏伟理想”并没有实现。</p>
+<p>记得17岁高中刚毕业，我参加了本地文联组织的一场现场写作比赛，我写作了一首长诗，抒发了自己对祖国的热爱之情。诗歌写完之后，仿佛是自己嚎啕大哭了一场一样，抒发的确实是年轻人最真挚的情感。诗歌获得了后来成为文联主席的本地诗人的好评，并获了奖。</p>
+<p>年轻人的爱国情感是最真挚的，往往也是最感人的。然而，年轻人除了拥有爱国的情感以外，还应该有理智的头脑，有正确的价值观，能够独立思考，否则，就很容易被政治野心家政治骗子所忽悠，最后成为炮灰成为牺牲品而不知。</p>
+<p>当年中国与越南发生战争的原因，随着互联网的出现，其真正原因已经越来越被国人所了解。真实的原因并非越南挑衅中国，所谓“是可忍孰不可忍”，而是中国要挽救柬埔寨不得人心的波尔布特政权，至于波尔布特政权在柬埔寨干了什么，去百度一下即可知道。</p>
+<p>小侯同学今年18岁，与我当年高中毕业时的年龄相仿。他从高中一年级起，就频繁地光顾百度的一些贴吧，如“苏联吧”，“苏军吧”，“米格吧”“加仑将军吧”等。有人从这些贴吧的名字，往往简单地得出一个结论，即这些贴吧都是“左派”的贴吧，小侯同学是受左派的影响。</p>
+<p>其实，这些人犯了刻舟求剑，用静止的眼光而不是发展变化的眼光看问题的错误。中国今日的“左派”已经不同于90年代初期的左派，最近二十年尤其是最近十年，中国的“左派”已经越来越“民族主义化”“国家主义化”，即越来越“法西斯化”“纳粹化”。这些所谓的“左派”，不仅不读不相信马克思主义，甚至连毛思想也所知甚少。无论是苏联也好，毛也好，都是他们打的一个招牌，卖的其实是“国家主义”“民族主义”“法西斯主义”“纳粹主义”的狗肉。</p>
+<p>一个人从十四五岁的少年到二十岁左右的青年，正是思想逐渐成型的时期，可惜的是，小侯同学喜欢光顾的这些贴吧，名义上打着“苏联”“苏军”的旗号，其实贩卖的是“国家主义”“民族主义”的毒药，是一些中国极右法西斯分子的言论与思想根据地。</p>
+<p>小侯同学正是由于从高一16岁开始，就经常光顾这些极右分子的贴吧，受到这些极右思想的熏陶与洗脑，所以才会发出“钉子户活该被枪毙”这样的反人类反人权的极端言论。</p>
+<p>对待钉子户，真正的左派是什么态度呢？我给小侯同学推荐一篇毛选。我不是毛粉，但我认为毛思想的很多部分是有道理的，所以，给你推荐这篇，希望你好好改造自己的思想，好好反省，远离法西斯，真正站到人民这边来。</p>
+<p>毛泽东论拆迁</p>
+<p>（一九五六年十一月十五日在中国共产党第八届中央委员会第二次全体会议上的讲话 ）</p>
+<p>早几年，在河南省一个地方要修飞机场，事先不给农民安排好，没有说清道理，就强迫人家搬家。那个庄的农民说，你拿根长棍子去拨树上雀儿的巢，把它搞下来，雀儿也要叫几声。邓小平你也有一个巢，我把你的巢搞烂了，你要不要叫几声？于是乎那个地方的群众布置了三道防线：第一道是小孩子，第二道是妇女，第三道是男的青壮年。到那里去测量的人都被赶走了，结果农民还是胜利了。</p>
+<p>后来，向农民好好说清楚，给他们作了安排，他们的家还是搬了，飞机场还是修了。这样的事情不少。现在，有这样一些人，好象得了天下，就高枕无忧，可以横行霸道了。这样的人，群众反对他，打石头，打锄头，我看是该当，我最欢迎。而且有些时候，只有打才能解决问题。</p>
+<p>共产党是要得到教训的。学生上街，工人上街，凡是有那样的事情，同志们要看作好事。成都有一百多学生要到北京请愿，一个列车上的学生在四川省广元车站就被阻止了，另外一个列车上的学生到了洛阳，没有能到北京来。我的意见，周总理的意见，是应当放到北京来，到有关部门去拜访。要允许工人罢工……</p>
+<p>无非是矛盾。世界充满着矛盾。民主革命解决了同帝国主义、封建主义、官僚资本主义这一套矛盾。现在，在所有制方面同民族资本主义和小生产的矛盾也基本上解决了，别的方面的矛盾又突出出来了，新的矛盾又发生了。县委以上的干部有几十万，国家的命运就掌握在他们手里。如果不搞好，脱离群众，不是艰苦奋斗，那末，工人、农民、学生就有理由不赞成他们。我们一定要警惕，不要滋长官僚主义作风，不要形成一个脱离人民的贵族阶层。谁犯了官僚主义，不去解决群众的问题，骂群众，压群众，总是不改，群众就有理由把他革掉。我说革掉很好，应当革掉。</p>
+<p>（《毛泽东选集》第五卷，人民出版社１９７７年４月第１版，第313–329页）</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%BB%99%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BE%AF%E8%81%9A%E6%A3%AE%E5%90%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%AF%E8%81%9A%E6%A3%AE/?category=18271" rel="tag">侯聚森</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E6%8B%86%E8%BF%81/?category=18271" rel="tag">强制拆迁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E7%94%A8%E6%BC%AB%E7%94%BB%E6%8F%8F%E7%BB%98%E8%A2%AB%E5%88%91%E8%AE%AF%E7%BB%8F%E8%BF%87-%E7%BE%81%E6%8A%BC5%E5%B9%B4/" target="cdt-mirror">澎湃新闻 | 山西男子用漫画描绘被刑讯经过 羁押5年后获无罪</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/808.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/808.jpg" alt="刘仁旺" width="450" height="600"></a><p>刘仁旺 受访者供图</p></div>
+<p>被关了5年之后，山西省吕梁市中阳县尧峪村村民刘仁旺重获清白，除了申请国家赔偿之外，他还用漫画的形式再现了“刑讯逼供”的场景，“想让更多人知道刑讯逼供的手段”。</p>
+<p>他曾被认定为2008年末一起谋杀案的凶手，并两度被判重刑。直至本案中的重要物证和他的有罪供述被视为非法证据排除之后，刘仁旺才获判无罪，获得自由。</p>
+<p>澎湃新闻了解到，刘仁旺已经向吕梁中院提出600万余元的赔偿要求。6月4日，吕梁中院正式受理了该起赔偿案，目前仍在立案审查当中。</p>
+<p><strong>村委会换届选举前参选人遭枪杀</strong></p>
+<p>2008年12月10日，山西吕梁市中阳县尧峪村发生了一起枪杀案。这个据称“中阳县建国以来第一起枪杀案”发生在村委会换届选举期间，该村原副主任、曾欲参选村主任的刘建军，凌晨在家中被枪杀。</p>
+<p>当日凌晨2时40分许，刘建军家的窗玻璃被砸碎了。听到响声后，他和妻子范福爱几乎同时坐起来，他还骂了一声。</p>
+<p>这时一道刺眼的光照进来，晃得范福爱睁不开眼。几乎同时枪响了，“砰”的一声，一切重新进入黑暗。范福爱拉开灯，看见刘建军仰脸躺在床上，枪眼在额头正中，刘建军当场身亡。案发后经中阳县公安局鉴定：系他人持霰弹枪枪击头部致严重颅脑损伤而死。</p>
+<p>凌晨枪响后，范福爱听到摩托车发动的声音，住在路口的刘建军的父亲，看到两人骑摩托车离开。</p>
+<p>当晚，包括刘仁旺在内的三十多名村民被警方带走问话，6天后，刘仁旺被中阳县公安局以涉嫌故意杀人罪刑拘。</p>
+<p>因枪杀案正值该村换届选举期内，且被杀的是该村原副主任，引发当地民众诸多猜测。两周后，中阳县召开新闻发布会称，经初步分析，“12·10”持枪杀人案仇杀的可能性较大，与村委换届选举无直接关系。</p>
+<p> </p>
+
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E7%94%A8%E6%BC%AB%E7%94%BB%E6%8F%8F%E7%BB%98%E8%A2%AB%E5%88%91%E8%AE%AF%E7%BB%8F%E8%BF%87-%E7%BE%81%E6%8A%BC5%E5%B9%B4/bw0xz/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/Bw0xz-150x150.jpg" alt="Bw0xz"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E7%94%A8%E6%BC%AB%E7%94%BB%E6%8F%8F%E7%BB%98%E8%A2%AB%E5%88%91%E8%AE%AF%E7%BB%8F%E8%BF%87-%E7%BE%81%E6%8A%BC5%E5%B9%B4/n4q84/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/n4Q84-150x150.jpg" alt="n4Q84"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E7%94%A8%E6%BC%AB%E7%94%BB%E6%8F%8F%E7%BB%98%E8%A2%AB%E5%88%91%E8%AE%AF%E7%BB%8F%E8%BF%87-%E7%BE%81%E6%8A%BC5%E5%B9%B4/qkpeg/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/QkpEg-150x150.jpg" alt="QkpEg"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E7%94%A8%E6%BC%AB%E7%94%BB%E6%8F%8F%E7%BB%98%E8%A2%AB%E5%88%91%E8%AE%AF%E7%BB%8F%E8%BF%87-%E7%BE%81%E6%8A%BC5%E5%B9%B4/viojw/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/ViOJW-150x150.jpg" alt="ViOJW"></a>
+
+<p><strong>山西高院两次发回重审</strong></p>
+<p>刘仁旺最终作为该案唯一的犯罪嫌疑人被检方提起公诉。</p>
+<p>2010年2月2日，吕梁市检察院指控称，刘仁旺与其弟刘才旺因承包工程与被害人刘建军关系恶化，刘仁旺找人准备卸掉刘建军“一件”（指断其一只手或脚）。案发当日，刘仁旺伙同他人骑摩托车来到刘建军家门口，持猎枪击碎刘建军家窗户玻璃。睡梦中的刘建军爬起来对窗户骂时，刘仁旺拿手电照住刘建军，并向刘建军头面部开了一枪后骑摩托车逃离现场，刘建军当场死亡。</p>
+<p>检方认为，刘仁旺的行为已构成故意杀人罪，其在共同犯罪中起了主要作用，系主犯。</p>
+<p>2010年8月11日，吕梁中院审理认为，刘仁旺有动机，他和刘建军因经济纠纷引发矛盾，还扬言报复刘建军；有物证，他的双手擦拭物和枪击现场一致；有供词，该案侦查期间，他多次作出有罪供述。据此，刘仁旺被一审判处死缓。</p>
+<p>刘仁旺曾在法庭上否认所有指控，并称其在侦查阶段的有罪供述是刑讯逼供所致。吕梁中院称，刘仁旺没有证据证实受到刑讯逼供，且公安机关提供的审讯刘仁旺的录像资料能充分证明其在侦查阶段的供述是正常的。</p>
+<p>在刘仁旺不服判决上诉的同时，附带民事诉讼原告对赔偿数额不满，也提出上诉。2011年4月25日，山西高院将本案发回重审。</p>
+<p>2012年4月12日，吕梁中院重审此案，仍认定刘仁旺构成故意杀人罪，不同的是将刑期由死缓改判为无期。对比前后两次判决书，这次审理并未增加新证据。</p>
+<p>刘仁旺再次上诉，附带民事诉讼原告也同样提出上诉。2012年12月6日，山西高院再次将本案发回重审。</p>
+<p>2013年12月27日，吕梁中院第三次审理此案，改判刘仁旺无罪。</p>
+<p><strong>核心物证和口供被法院排除</strong></p>
+<p>吕梁中院第三次审理此案时，启动了非法证据排除程序，此前两次判决中的关键证据，刘仁旺的有罪供述和物证双手擦拭物，最终被排除。</p>
+<p>判决书显示：刘仁旺的有罪供述，讯问地点不合法。</p>
+<p>根据中阳县公安局的补侦报告、中阳县看守所的情况说明，刘仁旺关于其一人作案的2次有罪供述，和关于其伙同李克忠作案的6次有罪供述均在看守所之外取得。除此之外，刘仁旺还有2次被提出看守所：2009年1月9日刑警队提出，当晚回押，无讯问笔录等书面材料，无体检记录；次日又被刑警队提出，10天后回所。无讯问笔录，体检记录载明“后脖子有伤，下巴下有伤、额头有伤，鼻梁侧有伤、双手腕有伤、双肩膀疼痛”。</p>
+<p>吕梁中院认为尽管侦查人员提供书面材料并出庭作证，证明未对刘仁旺刑讯逼供，刘之伤系拒捕造成，但不能排除刘仁旺的有罪供述是刑讯逼供等非法方法收集的，按照刑诉法规定予以排除。</p>
+<p>对于物证，吕梁中院则认为，刘仁旺双手擦拭物的提取笔录无见证人，且无法补正，尽管公诉机关提供了侦查人员的情况说明，证明因当时天黑无法找到见证人，该解释理由并不充分，按照刑诉法规定予以排除。而刘仁旺双手擦拭物的鉴定意见，因检材来源不明，依法不能作为定案依据。</p>
+<p>除此之外，刘仁旺供述的同案犯一直没有找到，且作案枪支、手电、摩托车未也都未找到。</p>
+<p>改判后，2014年1月2日，吕梁检察院提出抗诉。在刑事抗诉书中，检方认为，法院判决以排除非法证据为由，片面排除被告人刘仁旺的有罪供述及相关鉴定结论，导致认定事实、适用法律、定性等确有错误。</p>
+<p>针对吕梁中院排除的非法证据，抗诉书称，刘仁旺的有罪供述系山西省公安厅、吕梁市公安局、中阳县公安局侦查人员共同讯问时所供，刑讯逼供可能比较小……讯问刘仁旺的地点在中阳县朱家店宾馆，是中阳县公安局根据当时的实际情况确定的工作地点，并不违法。</p>
+<p>此后在山西高院审理期间，山西省检察院认为抗诉不当，撤回抗诉。</p>
+<p>2014年10月8日，山西高院作出终审裁定，准许山西省检察院撤回抗诉；驳回上诉，维持原判。就此，刘仁旺得以被明确宣告无罪。</p>
+<p><strong>漫画还原刑讯过程</strong></p>
+<p>在判决书中，刘仁旺的有罪供述有两个版本：单独购枪杀人和伙同他人杀人。而法院认定的是后者。实际上，刘仁旺先后共有有15次供述，其中有7次均否认有罪，另8次是有罪供述。</p>
+<p>在“独自购枪杀人”的版本里，刘仁旺两次供述，涉案所用枪支系从一个名叫“东生”的人手里购得，购枪费用2300元。在“伙同他人杀人”的版本里，刘仁旺6次供述，他伙同一名叫“李克忠”的河南人作为他的同伙，共同枪杀刘建军。</p>
+<p>判决书显示，吕梁中院第三次审理此案时，无论是“东生”还是“李克忠”，都无从寻找。</p>
+<p>刘仁旺说，8次有罪供述，全部为刑讯逼供所得，对于为何有罪供述还有前后两个不同的版本，他有自己的说法：“前两次说只有我一个人作案，是因为根本不知道案发时的情况，他们（办案人员）让我招，我就说是我买枪杀的人。后来他们说不对，是两个人作案，打得太厉害，我就随便想了一个名字。”</p>
+<p>无罪获释之后，刘仁旺仍难平静。他说：“现在想起来还心有余悸，在我被捕的前几个月里，真是生不如死，时刻想着自杀，但无条件。”</p>
+<p>为了更形象地还原“刑讯逼供”的情景，刘仁旺特地找人画了几张漫画，漫画里的场景有吊打、电击、关铁笼、开水烫、锥刺十指……他说，这是为了“让更多的人了解刑讯逼供”。</p>
+<p>除了申请国家赔偿外，刘仁旺还表示要追究相关办案人员的法律责任。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E7%94%A8%E6%BC%AB%E7%94%BB%E6%8F%8F%E7%BB%98%E8%A2%AB%E5%88%91%E8%AE%AF%E7%BB%8F%E8%BF%87-%E7%BE%81%E6%8A%BC5%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%A4%E6%A1%88/?category=18271" rel="tag">冤案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E6%8B%98/?category=18271" rel="tag">刑拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF/?category=18271" rel="tag">刑讯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF/?category=18271" rel="tag">国家赔偿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA/?category=18271" rel="tag">故意杀人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E8%B4%A3%E4%BB%BB/?category=18271" rel="tag">法律责任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%9A%97/?category=18271" rel="tag">黑暗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E7%9B%B4%E7%BA%AA%E5%B7%A5%E5%A7%94%EF%BC%9A%E6%AF%95%E7%A6%8F%E5%89%91%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E6%94%BF%E6%B2%BB%E7%BA%AA%E5%BE%8B/" target="cdt-mirror">中直纪工委：毕福剑“严重违反政治纪律”</a>
+</h2>
+<p><p><strong>原文：<a href="http://news.sina.com.cn/2015-08-09/doc-ifxftkps3804962.shtml">中直机关严明党的政治纪律规矩:做政治上明白人</a></strong></p>
+<blockquote><p>[…]中国日报社对报导导向和政治性差错作出严格规定，对违反规定的不仅给予经济惩罚和通报批评，情节严重的还要给予行政降级和降职，直至开除辞退。<br>
+……<br>
+今年以来，中直各单位把党的政治纪律和政治规矩摆在各项纪律之首，通过加强党章学习教育、开展专项检查、加大问题查处力度，确保党员干部做政治上的“明白人”。[…]</p>
+<p><strong>让违纪违规者付出应有代价</strong></p>
+<p>今年上半年，中央电视台节目主持人毕福剑用调侃的方式损害老一辈党和国家领导人形象的视频在网上流出后，国家新闻出版广电总局临时机关党委、机关纪委予以高 度重视，认为这不是一般的违纪问题，而是严重违反政治纪律的行为，责成中央电视台机关纪委依据有关规定严肃处理，并在全局开展警示教育。</p>
+<p>不仅是国家新闻出版广电总局，中直其他单位也坚持对违反政治纪律、政治规矩行为发现一起、查处一起、曝光通报一起，决不姑息。</p>
+<p>加大查处力度的同时，一些单位坚持抓早抓小，通过召开组织生活会等方式，对违反政治纪律问题早发现早提醒。</p>
+<p>“对党员干部遵守政治纪律和政治规矩情况进行经常性检查，发现苗头性、倾向性问题，立即进行批评和纠正，在关键时间节点对个别人进行提醒谈话，帮助认识和改正错误。”中央政策研究室机关纪委书记陆俊在介绍本单位经验时说。</p>
+<p>在此基础上，一些单位还坚持把健全制度规定作为治本之策，通过完善制度，堵塞漏洞，建立长效机制。中央政法委提出遵守政治纪律、政治规矩“三个 决不允许”。 中央网信办制定《中央网信办守纪律讲规矩十项要求》。中直工委制定《中直工委机关严守党的政治纪律和政治规矩若干规定（试行）》。</p></blockquote>
+<p><strong><a href="http://www.cyxqd.com/10110.html">毕福剑唱了什么？</a></strong></p>
+<blockquote><p>侃：噢，当兵啊？<br>
+唱：来到深山！<br>
+侃：要消灭反动派。<br>
+唱：能打过人家嘛？<br>
+唱：改地换天几十年，闹革命南北闯站。<br>
+侃：噢，够辛苦的啊！<br>
+唱：共**猫**<br>
+侃：哎，可别提那个老逼养的了，可把我们害苦了。<br>
+唱：指引我们向前，一颗红星头上戴，革命的红旗挂两边。<br>
+侃：这啥打扮啊？<br>
+唱：红旗直出云帆，解放区老百姓斗地主把身翻。<br>
+侃：地主招你惹你了？<br>
+唱：人民的军队与人民共患难，到这里为一件事，啪，跆，扫平威虎山。<br>
+侃：吹牛逼吧！</p></blockquote>
+<blockquote><p><strong>事件回顾</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E6%AF%95%E7%A6%8F%E5%89%91/">毕福剑</a>专题</p></blockquote>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/04/440x2658x005QWEkUjw1er0ahpdp75j30hs2ze495.jpg.pagespeed.ic.vtfmwvhlTh.jpg" alt="毕福剑唱了什么" width="440" height="2658"></p>
+<hr><p><small>© 药不能停 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E7%9B%B4%E7%BA%AA%E5%B7%A5%E5%A7%94%EF%BC%9A%E6%AF%95%E7%A6%8F%E5%89%91%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E6%94%BF%E6%B2%BB%E7%BA%AA%E5%BE%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%95%E7%A6%8F%E5%89%91/?category=18271" rel="tag">毕福剑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E6%AF%95%E5%85%BB%E7%9A%84/?category=18271" rel="tag">老毕养的</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%9D%8E%E6%BA%90%E6%BD%AE%E6%8E%A5%E8%A7%81%E6%B8%AF%E9%9D%92%E7%A6%81%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF/" target="cdt-mirror">法广｜李源潮接见港青禁香港记者采访</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/800px-%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/800px-%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82.jpg" alt="800px-人民大会堂" width="575" height="325"></a><p>北京人民大会堂 <br>图片：维基百科</p></div>
+<p>中国副主席李源潮8日在人民大会堂会见一支由1800人组成的香港青年交流团，事先早已获得安排采访的香港驻京记者，临时却被通知取消采访安排。</p>
+<p>是次活动国务院澳办原安排香港驻京传媒以联合采访方式拍摄，但港澳办前晚突取消采访安排，未透露原因，会后就会面向传媒发新闻稿，有消息指因场地协调而要取消采访安排。</p>
+<p>李源潮今年1月21日在北京出席中国侨联会议时，曾回应全国侨联委员、港澳日报社长田炳信就香港占中局势提出的建议时表示，中央认为反占中斗争还没 有完，“好戏还在后头”，并称持续几个月的港闹，搞占中的人及其背后的人没有达到他们的目的，目前中央和港府以及爱国爱港力量取得了阶段性胜利。</p>
+<p>不过官方的主要媒体如新华社或人民日报却没有报导身兼中央港澳工作协调小组副组长李源潮这次讲话的内容，反而由一个地方网媒《港澳网》报道，事件耐人寻味。</p>
+<p>根据新华社发稿报导，李源潮会见由香港新家园协会组织的香港青年交流团时强调，香港与祖国从来都是命运共同体，“中国梦”也包含了“香港梦”，这为 香港发展提供了动力和机遇，“爱国必然爱港，爱港也应该爱国”。他认为，香港青年到内地交流，对全面认识国家有帮助，并希望他们和衷共济、凝心聚力，支持 特区政府依法施政，为香港和国家的发展作出新贡献。</p>
+<p>李源潮同时呼吁“香港青少年以更宽广视野思考香港发展，把注意力集中到干事创业上来，支持特区政府依法施政，为香港和国家的发展作出新贡献”。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%9D%8E%E6%BA%90%E6%BD%AE%E6%8E%A5%E8%A7%81%E6%B8%AF%E9%9D%92%E7%A6%81%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%BA%90%E6%BD%AE/?category=18271" rel="tag">李源潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%BE%E8%91%AD-%E6%9C%9D%E9%98%B3%E5%A4%A7%E5%A6%88%E8%AF%B4%EF%BC%9A%E4%B8%AB%E5%A4%B4-%E5%B9%B2%E4%BD%A0%E4%BB%AC%E8%BF%99%E8%A1%8C%E5%8F%AF%E7%9C%9F%E4%B8%8D%E5%AE%B9%E6%98%93%E5%95%8A/" target="cdt-mirror">贾葭 | 朝阳大妈说：丫头 干你们这行可真不容易啊</a>
+</h2>
+<p><p>秋高气爽的时节又到了，这大概是北京一年里难得的美好时光。郁达夫笔下，故都的秋，如今完全看不到，因为高墙深院基本都拆了，普通人很难体会在四合院的枣树底下抬头望天的感觉。一般来说，秋季被称为北京的“会议季”(夏季是北戴河的会议季)，除了年底的总结大会之外，剩下的会议大部分在秋天开。</p>
+<p>这个时候，就可以看到街道边、厂房里、广场上、胡同深处，到处都是拎着小马扎和暖水瓶的大妈们。她们个个戴着红袖箍，斗志昂扬、意气风发地一边扯闲淡一边警惕地盯着过往的人群和车辆，目光锐利得好比安检仪，基本能把别人包里的东西猜个八九不离十。这是长年的战斗经验练就的火眼金睛。</p>
+<p>作为一个遵纪守法的良民，我也能感到她们目光的不可欺骗和震慑力量。对坏人那就更有效了。每年在10月份开会后，媒体会公布说，因为首都治安志愿者的积极热情参与，首都刑事案件在本月下降多少多少，侦破治安案件多少多少起，有效地保障了某某大会的顺利进行云云。看到这里，我都会感激涕零地从内心感谢这些大妈们。因为按照媒体的渲染，假如没有她们，必然会有人家破人亡妻离子散。</p>
+<p>她们的正式名称叫“治安志愿者”，我不晓得有多少是志愿的，但我亲耳听到一个大妈对另一个大妈说，今年的外勤补贴比奥运还高啊。无利不起早嘛，退休人员偶尔挣个外快，同时又维护了社会治安，这一来一去，都是G D P，是个多赢的局面。这部分钱据说是从维稳预算里走，想来大家都交了一笔。</p>
+<p>交钱倒也没什么，我只希望她们的良民标准别那么高，好像只有坐在黑色奥迪车里呼啸而过的人，才对政府没有威胁。我刚刚来北京时，跟几个同事租住在国家计委的一个老旧小区里。每晚下班回家，都能看见十几个大妈围坐在院子里，我从她们的小马扎中间穿过时，她们毫不顾忌地死盯着你看，仿佛你没有穿衣服或者多穿了衣服。</p>
+<p>尤其是，碰巧你有个女同事或者女性朋友来家里玩，经过这些小马扎之时，能听到背后窸窸窣窣的议论声，你猛得回头看她们，又像电视按了静音键，寂静非常。这个时候，我和那位女生会觉得被人剥光了放在砧板上，马上要切了下锅，或者感觉背上爬了一排蚂蚁，咬得你想死的心都有了。</p>
+<p>北京好像从来不缺人，电梯里也坐着这样的大妈。她会在电梯里放一把高脚凳，一个床头柜，上面摆着各种小报和暖水瓶及台式电话，茶叶已经泡得不成形。如果是冬天，她还会接一个电暖气机在电梯里。本来限额13人的电梯，经这么一折腾，站5个人就算不错了。进了电梯，她眼皮不抬地问你：几层？声音恰巧到达你的耳朵后消失，不会因此多费一丝力气。</p>
+<p>我有个同事，因为值夜班，通常半夜一两点回家。由于伊穿着比较考究，又是东北口音，因此被大妈鄙视了良久。大妈说，丫头，干你们这行可真不容易啊。你不能确定她说的是媒体这行还是天上人间这行，总之那种怜悯的口气听上去特别像讽刺。她只好回答：大妈您老也不容易啊。</p>
+<p>这位同事忍了很久之后，有次假装不小心，把新闻出版总署颁发的记者证故意掉在地板上，大妈从此对伊肃然起敬。由此也可以推知大妈之前说的“这行”是哪行了。不仅如此，所有人的信件和快递都是大妈来接收，她知道你买过什么干过什么，谁来看过你，如果她愿意，也可以从你的垃圾袋推测你今天吃了什么。</p>
+<p>假如人口普查交给她们来做，计生委应该会很放心。大妈的存在有时候让人觉得安全，有时是却让人极度不安全。不过，只要她们以及她们的头头觉得安全，那么这个社会那就是安全的，就是稳定的。我的情绪当然也就很稳定了。</p>
+<p>葭案：本文原刊于2010年8月的南方都市报。所谓的“朝阳群众“其实一直很厉害，只不过最近两年他们出镜率太高，才被关注到。这部分群众，其实跟包帝同龄，生在新中国，长在红旗下，学在文革中，千万不要奇怪就好了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%BE%E8%91%AD-%E6%9C%9D%E9%98%B3%E5%A4%A7%E5%A6%88%E8%AF%B4%EF%BC%9A%E4%B8%AB%E5%A4%B4-%E5%B9%B2%E4%BD%A0%E4%BB%AC%E8%BF%99%E8%A1%8C%E5%8F%AF%E7%9C%9F%E4%B8%8D%E5%AE%B9%E6%98%93%E5%95%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%BB%E5%AE%89%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">治安志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%A0%BC%E5%8C%96%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">网格化维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%EF%BC%9A%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%A8%E6%88%B7%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/" target="cdt-mirror">【网络民议】上海电信：亲爱的用户我是你爹</a>
+</h2>
+<p><p>2015年8月8日，有新浪微博用户曝光了与上海电信客服的聊天记录，证实了其限制外网并将以此强推所谓“上外网增值服务”的行为（本文所指外网不包括被墙网站）。</p>
+<blockquote><p><a href="http://weibo.com/1045528843/CuSQwoQAU">@PriorCode神奈</a>：#上海电信限制外网# “以后不办理这个服务电信用户上外网就是很慢的。”咨询过官方在线客服，已得到明确答复：八月中旬会推出新的上外网增值服务。人不要脸果天下无敌。先剥夺你上外网的权利然后再把这个原本应得的服务通过再购买的方式强行让用户买单。很少骂人，这次翻遍了辞典都找不到合适的词了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A11.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A11.jpg" alt="上海电信1" width="369" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A12.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A12.jpg" alt="上海电信2" width="369" height="161"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A13.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A13.jpg" alt="上海电信3" width="440" height="258"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A14.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A14.jpg" alt="上海电信4" width="440" height="146"></a></p></blockquote>
+<p>今年6月就曾有用户对上海电信限制外网的行为<a href="http://weibo.com/p/1001603859480025636674" target="_blank">进行了曝光和抗议</a> ，称近期“每天高峰时段访问国外网站困难”，但“同一时间点非本地点电信却没有这种现象”。</p>
+<p>上海电信这一行为似乎与防火长城无直接关联，可能是作为垄断企业逼迫用户接受涨价的一种手段。但对原本就被挡在墙外的中国网民来说，这无疑是<del>伐要米空</del>雪上加霜。</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1758373263" target="_blank">@Roxanne-Zhang</a>：广州的路过<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">只有电信的光纤才能用VPN，其他省网络和市网络全把VPN禁止了。。今年回国发现上个自己大学官网都上不去<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">心想我们一理工屌丝大学从来不跟政治挂钩。。为什么要封。。。查成绩根本没法查 要上学校官网注册新学年也没法注册 还要最可恶的是老子要复习的时候连讲义都看不了<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<blockquote><p><a href="http://weibo.com/2278234951/Cv1aDdCnO" target="_blank">@MingjunYang</a>：嗯，4.39KB/S、 3.0KiB/S速度真的很快很快了！！！回顾一下调制解调器的发展史，1960年代工程师们为1200bit/s和2400bit/s的传输速度欢呼鼓 舞了！！！真的感谢技术提供者们，真的真的诚心感谢！！！这是这个时代的巨大进步嘛，毕竟比那个时代快了成千上万倍了！！！<a href="http://huati.weibo.com/k/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1?from=526" target="_blank">#<em>上海</em><em>电信</em>#</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/87cb1b47gw1euwbdxj27lj20xc18gtlm.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/87cb1b47gw1euwbdxj27lj20xc18gtlm.jpg" alt="87cb1b47gw1euwbdxj27lj20xc18gtlm" width="440" height="587"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/87cb1b47gw1euwbdy3kwtj20xc18gth1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/87cb1b47gw1euwbdy3kwtj20xc18gth1.jpg" alt="87cb1b47gw1euwbdy3kwtj20xc18gth1" width="440" height="587"></a></p></blockquote>
+<p><a href="http://weibo.com/2836041855/Cv01HqWPe">CDog_poi</a>：<a href="http://huati.weibo.com/k/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E9%99%90%E5%88%B6%E5%A4%96%E7%BD%91?from=501" target="_blank">#上海电信限制外网#</a>看 来有必要澄清一下…昨天发的那条电信丢包率100%的微博是我的疏忽，没考虑对方站点禁止ping的这个因素。今天用境外的主机测了一下，确实我测得 两个站点都是禁止ping的…随后我又测试了几个常用的境外网站，测得电信实际丢包率在30%~56%之间</p>
+<p><a href="http://weibo.com/2836041855/CuUNau0S2" target="_blank">@CDog_poi</a>：#上海电信限制外网#上海电信20M下行的光钎，访问app store和onenote等了半个多小时了都没打开！这些网站又不像某些社交网站。app store和onenote都是工作必须用到的，这样一搞工作都没办法做…每年几千块钱交给电信换来的就是这种网络质量？电信你给我出来解释下！！@中国电信 @中国电信客服</p>
+<blockquote><p><a href="http://weibo.com/1505366414/Cv07Kpwz7" target="_blank">@八汰乌</a>：这就是电信100m!!</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/59ba118ejw1euw6ti95cvj20y00y0tgd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/59ba118ejw1euw6ti95cvj20y00y0tgd.jpg" alt="59ba118ejw1euw6ti95cvj20y00y0tgd" width="440" height="440"></a></p></blockquote>
+<p><strong>@林沛满：上海成天号称要追赶香港，成为国际化大都市，其实连国外网站都上不去。我说的不是政治敏感型网站哦，而是连国外大学官网、企业网、技术交流社区等等都包括在内。花钱买VPN也不行。网络包如下，我想上的是微软的官网，但三次握手根本无法成功。下次改成追赶平壤行不？别侮辱香港了。</strong></p>
+<p><a href="http://weibo.com/3070772007/Cv1lQv8iZ" target="_blank">@总觉得背后有人说我帅</a>：<a href="http://huati.weibo.com/k/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E9%99%90%E5%88%B6%E5%A4%96%E7%BD%91?from=526" target="_blank">#上海电信限制外网#</a> <img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">看到这个话题才知道原来不是win10 的锅啊 买个慈善包都要挂vpn去收key 试了下打开美亚 3分钟了加载了几张图<img title="[泪流满面]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/lxhtongku_org.gif" alt="[泪流满面]"></p>
+<p>@spellingford：#上海电信限制外网#这是重大的商业欺诈行为。对消费者的网速擅自加以限制，办理时也不告知消费者更是罪上加罪，真不知道这算不算垄断@工信微报 @12321举报中心 @上海市消保委</p>
+<p>@黑土雨：回复@OrchidKid:在公司的时候比较顺畅。回家后就一塌糊涂……</p>
+<p>@LittleSB：#上海电信海外访问受限# 我火狐的flash根本更新不了，限制你妈啊</p>
+<p>@靠垫大魔王：@中国电信客服 @中国电信 上海电信单方面违约，限制海外网站流量（非被墙网站）， 包括apple.com，github.com等，要求中止合约，退回我一年预付的费用</p>
+<p>@yi然很天真：#上海电信限制外网#河北这边ping搬瓦工主机丢包率能到50%</p>
+<p>@元气魂：[挖鼻]上海电信应对政府深化改革开放和降低资费的措施就是减少国际出口带宽，普通用户要上外网请购买1小时1元的氮气瓶加速服务，机智啊机智。</p>
+<p>@哎呀就玩一下：人要脸树要皮，人至贱则无敌。上海一直想超越深圳成为一个有标志性互联网城市，看来是越走越远了。</p>
+<p>@天邪鬼1917_heart大人洗白了吗: 亲爱的用户我是你爹</p>
+<p>@黄家炜1984：此时此刻作为中国人坚决拥护美帝国主义把长城防火墙给拆了。中国人民水深火热啊</p>
+<p>@Yuuki雨：我无锡的，经常会用着用着网页循环…我简直了</p>
+<p>@炎星站：原来说提速的意思是国内的提速国外的减速。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%EF%BC%9A%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%A8%E6%88%B7%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1/?category=18271" rel="tag">上海电信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">垄断企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%89%AF%E6%B0%91%E9%83%BD%E5%AE%9E%E5%90%8D%E4%BA%86%EF%BC%8C%E5%94%AF%E5%BC%BA%E7%9B%97%E4%B8%8D/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗良民都实名了，唯强盗不实名</a>
+</h2>
+<p><p>1.【国信办约谈凤凰网 责令其整改新闻服务】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7061c249gw1euv2pdyywgj20th0hktg5.jpg" alt="7061c249gw1euv2pdyywgj20th0hktg5" width="440" height="262"></p>
+<p>2015年以来，互联网违法和不良信息举报中心接到涉凤凰网的举报1330件。此外，凤凰网还存在违法登载新闻信息、抢发散播不实消息等问题。相关负责人表示，若其整改不符要求，或者整改期继续违规，或将依法停止其新闻服务。——凤凰马屁拍的已经够响了还不合格？总参的人都不好使了？？</p>
+<p>2.【官场有风险，当官需谨慎！】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/61e04755jw1euv71ezx8kj20e008amyv.jpg" alt="61e04755jw1euv71ezx8kj20e008amyv" width="440" height="260"></p>
+<p>7月24日，周本顺妻子段雁秋被带走调查。据悉，段雁秋身兼数职，曾任银河证券投资银行总部董事等职位。周家一家三口，加上侄女婿宋达勇、小舅子刘延涛以及刘姓秘书，其“身边人”被查人数已达六人。——@老徐时评：周本顺一家三口均被查，加上其他亲属和身边人，被查人数达六人。周的名字也从老家“名人榜”上被撤下来。一荣俱荣，一损俱损。人生变幻莫测，本该一帆风顺，其实根本不顺。</p>
+<p>3.【良民都实名了，唯强盗不实名】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/62f87eb4gw1euv2cj3iphj20b407vq3w.jpg" alt="62f87eb4gw1euv2cj3iphj20b407vq3w" width="400" height="283"></p>
+<p>9月1日起，办理手机卡必须出示本人身份证，并当场在二代身份证读卡器上验证。2013年9月1日前入网的未实名老用户，要在办理新业务、更换电话卡时补登记，或直接去营业厅进行身份证实名登记，否则可能停机！—— @涛翁wt：9月1日始居民购买电话卡一律要验身份证。现在无论是火车票、菜刀、汽油、火柴、上网吧、夜间桑拿、娱乐、晚上茶楼打麻将等等都要实名制了，唯独一样不实名——官员财产。</p>
+<p>4.【凉山的政府办公楼】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/d34eaa96gw1euv4vva0llj20go0ciwfj.jpg" alt="d34eaa96gw1euv4vva0llj20go0ciwfj" width="440" height="330"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/d34eaa96gw1euv4vz63pnj20fa04st9c.jpg" alt="d34eaa96gw1euv4vz63pnj20fa04st9c" width="440" height="138"></p>
+<p>记者手记：探访“最悲伤作文”发生地。来到马依村，走进村民古次作古的家，第一反应是震惊，社会发展进步到今天，真的还会有人居住在这样的地方么？在这里，依然保持着人畜混居的生活状态，漆黑的屋子里左边睡牛马，右边便住着一家7口。原因很简单：没有钱修不起牛圈，又怕牲畜在夜晚冻死。——@易水寒冰：如果凉山是因为懒惰造成贫困的，那么这些宫殿式豪华衙门里，荣华富贵的苍蝇肯定比蜜蜂还勤劳。看看这些凉山州的豪华衙门，你就找到了凉山彝人贫穷的原因。</p>
+<p>5.【坐待兲朝9月3日阅兵的票房……】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/d34eaa96gw1eutu6pht7nj20kh0sgjwh.jpg" alt="d34eaa96gw1eutu6pht7nj20kh0sgjwh" width="440" height="611"></p>
+<p>广岛原子弹爆炸70周年纪念日。美国驻日大使，政府高官首次列席。100多个国家到日本参加和平大会。同样是为了和平，岛国的票房咋就这么抢手……中国到目前为止，只有俄罗斯和蒙古两个国家确定到中国参加纪念抗日战争阅兵。中国的好朋友在非洲，花了那么多钱支援，应该把非洲60多个国家全部拉过来参加抗日纪念大会。</p>
+<p>6.【女子国外丢手机一个月欠费23万】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/625ab309jw1euvd0t42ydj2085064jrc.jpg" alt="625ab309jw1euvd0t42ydj2085064jrc" width="293" height="220"></p>
+<p>中国移动告诉我们，中国移动是要有钱的土豪才能勉强适合使用的。京华时报消息：近日，从西班牙回国的蔡女士查询后得知，其6月13日在国外遗失的手机已欠费23万多元。蔡女士称手机遗失后她第一时间委托国内家人挂失，电信客服要求提供服务密码，但她不知道密码，未能挂失成功。中国电信客服方面称正在调查核实。——既然是挂失，还需要提供密码？！大家知道的，移动只让我们欠10块钱。哪里会让欠费这么多的，故意的吧？</p>
+<p>7.【为继承遗产 男子跑了一年证明“母亲没私生子”】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/884f7263jw1euvfb9enexj20fa09m750.jpg" alt="884f7263jw1euvfb9enexj20fa09m750" width="440" height="277"></p>
+<p>潇湘晨报消息，长沙的陈先生的母亲生病住院没有好转。2014年3月立下遗嘱，将自己名下的房子过户给陈先生。一年过去了，几番折腾，陈先生仍没能继承过户。因为按照继承权公证要求，陈先生还得证明自己的母亲没有私生子。——有没有私生子要怎么证明？哪个部门证明？人家真有私生子会告诉不相干的人吗？当地政府这是吃多了撑得了吧？！</p>
+<p>8.【没妈的孩子像根草】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0067D70Igw1eutxy1m2hjj30eq09s0tq1.jpg" alt="0067D70Igw1eutxy1m2hjj30eq09s0tq(1)" width="440" height="292"></p>
+<p>在湖南省邵阳县，竟有一个“无妈乡”！这个名叫黄荆乡的地方，仅义务教育阶段在校学生中，就有132个孩子处于“失母”状态——除了母亲正常死亡，其中有116个孩子的母亲因为逃婚或改嫁离开了他们。</p>
+<p>9.【路有热死骨！】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/676abacdjw1euvf419abrj20dw09eabj.jpg" alt="676abacdjw1euvf419abrj20dw09eabj" width="440" height="297"></p>
+<p>荆楚网：8月4日中午1点许，武汉，江汉区一条道路工地，一名50岁老工人倒地不起，送医院后死亡。当天，最高气温达到37℃，工人们却每天连续高强度工作10小时，可以挣到200来块工钱，折合每小时20元。施工方负责人说，没有人强迫工人干活，他们这是为了挣加班费。。</p>
+<p>10.【网评员也有今天】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0069RAbPjw1euvpdvek0cj30jr0f8gni.jpg" alt="0069RAbPjw1euvpdvek0cj30jr0f8gni" width="440" height="339"></p>
+<p>实际上五毛经费是一个很大的寻租空间腐败基地，那几个走红的五毛都应该是联合体制内腐败分子盗取国家财富的贼！什么爱国正能量？打爱国幌子骗钱！什么网上上甘岭，捞钱项目而已！不知各位五毛做何感想？</p>
+<p>11.【开放八胎都不用担心人口增长】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/617fc8a9jw1euvj180zolj20qo0zktej.jpg" alt="617fc8a9jw1euvj180zolj20qo0zktej" width="440" height="587"></p>
+<p>15平米，450万……这个广告并不是说房子卖的有多贵，而是中国的教育有多糟糕！产业化的兲朝，一切都是财富的源泉……</p>
+<p>12.【“中流砥柱”的主战场……】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0068624Ngw1euvjz91igpj30960cbt9k.jpg" alt="0068624Ngw1euvjz91igpj30960cbt9k" width="330" height="443"></p>
+<p>你跟日本人打仗他们会乖乖地让你们收税？你们是勾结起来商量好的吧？</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%89%AF%E6%B0%91%E9%83%BD%E5%AE%9E%E5%90%8D%E4%BA%86%EF%BC%8C%E5%94%AF%E5%BC%BA%E7%9B%97%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E7%BE%8E%E6%AD%8C%E6%98%9F%E6%9C%8D%E9%A5%B0%E5%93%81%E7%89%8C%E6%98%AF%E5%90%A6%E5%8E%BB1989%E5%AD%97%E6%A0%B7%E5%BC%95%E5%85%B3%E6%B3%A8/" target="cdt-mirror">BBC｜美歌星服饰品牌是否去“1989”字样引关注</a>
+</h2>
+<p><p>路透社援引消息人士称，了解美国歌手泰勒·斯威夫特（Taylor Swift）个人服饰品牌《1989》生产情况的人士曾讨论是否去除“1989”的字样。但目前并不清楚，持有这种想法的人是否占上风。</p>
+<p>路透社的独家报道称，在中国在线平台“京东商城”上出售的泰勒·斯威夫特官方T恤并没有“1989”字样。BBC中文网查证发现，京东商城上仍有售《1989》专辑。</p>
+<p>泰勒·斯威夫特相关产品发行商周三（5日）曾发表声明称：“众所周知，泰勒·斯威夫特生于1989年”。但拒绝回应此声明是否特地针对中国市场。</p>
+<p>为宣传新专辑《1989》及同名巡回演唱会，她预料即将正式宣布在中国发行其个人服饰品牌。产品包括T恤、裙和运动服等，将在中国在线购物平台阿里巴巴天猫和京东商城出售。</p>
+<p>美国发售的产品印有 “T.S. 1989”字样。“T.S.” 是其英文名Taylor Swift的首字母缩写。而1989则代表她于1989年出生，也是其专辑和演唱会的名字。</p>
+<p>但“T.S. 1989”也可以被理解成“1989年的天安门广场”。因为“T.S.”也是英文“Tiananmen Square” 的缩写。1989年6月4日，中国当局曾武力镇压学生示威。</p>
+<p>路透社称，中共禁止官方媒体报道、互联网传播和书籍记载关于“六·四”事件的消息。这导致许多中国年轻人对26年前的镇压事件一无所知。</p>
+<p><strong>“1989”的商标</strong></p>
+<figure></figure><figure><figcaption><span> 音乐分析人士指出，泰勒·斯威夫特的号召力领先于中国本土歌手。 </span> </figcaption></figure><figure></figure><figure><figcaption><span> 该消息人士无法证实是谁提出要去掉“1989”的商标，或者歌手泰勒·斯威夫特自己是否就牵涉其中。 </span> </figcaption></figure><p>路透社独家报道引述不具名的消息人士称，之所以要放弃“1989”的商标，是因为京东商城早前发表声明称，印制并发售这样的产品，会惹得中国当局不高兴，因为此事极为敏感。</p>
+<p>但该消息人士无法证实是谁提出要去掉“1989”的商标，或者歌手泰勒·斯威夫特自己是否就牵涉其中。</p>
+<p>目前为止中国官方没有表态与此事有关。中国文化部拒绝对此事做出回应。中国商务部和中国国家工商行政管理总局截至发稿前，仍未回复路透社记者的评论请求。</p>
+<p>泰勒·斯威夫特的中国官方微博也未对此事做出任何回应。</p>
+<p><strong>泰勒·斯威夫特</strong></p>
+<figure></figure><figure><figcaption><span> 现年26岁的歌手泰勒·斯威夫特的号召力遥遥领先。 </span> </figcaption></figure><p>歌手泰勒·斯威夫特曾七次获得格莱美奖。中国音乐分析人士指出，相对于中国本土歌手，现年26岁的歌手泰勒·斯威夫特的号召力遥遥领先。</p>
+<p>除此之外，她在中国社交平台新浪微博上的官方认证帐号拥有超过402万的粉丝。粉丝人数超过了另一位美国歌手碧昂丝（Beyoncé）的262万。</p>
+<p>今年6月，泰勒·斯威夫特曾批评苹果（Apple）公司即将推出的音乐串流服务在试用期间不向音乐人支付任何费用的行为是不公平的。之后成功迫使苹果公司向音乐人支付费用。</p>
+<p>去年，泰勒·斯威夫特在上海演唱会的1万8千张门票在一分钟内被一抢而空。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E7%BE%8E%E6%AD%8C%E6%98%9F%E6%9C%8D%E9%A5%B0%E5%93%81%E7%89%8C%E6%98%AF%E5%90%A6%E5%8E%BB1989%E5%AD%97%E6%A0%B7%E5%BC%95%E5%85%B3%E6%B3%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1989/?category=18271" rel="tag">1989</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%B0%E5%8B%92%C2%B7%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9/?category=18271" rel="tag">泰勒·斯威夫特</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E9%99%88%E5%90%91%E9%98%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%EF%BC%8C%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C/" target="cdt-mirror">华夏文摘｜陈向阳：中国股市，独一无二</a>
+</h2>
+<p><p>中国股市全球独一份，除了熊市牛市，还有猪市。这个猪（朱）是当年股民的调侃：那时朱镕基一发话，股市就可能应声而动。猪市是小名，大名叫“政策市”。如今的政策市又发展到新高度，政府试图调控股市：想调出个“慢牛”来。</p>
+<p>按原来计划，2015年下半年股市将作重大改革：公司上市从审批制改为登记制：政府不再严格管控，凡合乎条件的公司不必再排队一等好多年，请上市吧，只要注册登记就行了。股票能否卖得出，能卖什么价，市场说了算。政府只监视上市公司是否作假违规。其实，在发达国家早就是这样。</p>
+<p>但这次股改需要牛市。如果股市低迷，无人问津，那么多早就憋着上市的公司再一窝蜂挂牌开卖，将是什么结果？这改革一出头就得撞墙，所以必需牛市。</p>
+<p>从2014下半年政府就对中国股市“暖风频吹”。先知先觉的基金经理和老股民看出了苗头。其实，连续7年的熊市（上证指数从2007年的最高点6124点一直跌到了1800多点）已使部分蓝筹股跌出了投资价值。比如大多数银行股年分红已达股价的5%以上。像最大的工商银行，股价一度跌到3.5元，而年分红却长到每股0.26元，为股价的7.4%。</p>
+<p>有如此的“物质基础”，政府再把“暖风”一吹，牛市启动了。2015年初，乐观的基金经理认为，到年底股指会突破3000点。可中国股市的牛脾气一来，谁都摸不准。蹭蹭蹭，股指破了3000点，又破4000，到6月居然窜到5100点！</p>
+<p>大牛市来了，却是疯牛，毫无理性。大牌蓝筹股上涨并不多，比如工商银行仅长到5.5元。而业绩不佳、分红极低甚至不分红的创业板股票却几倍十几倍甚至几十倍往上窜。为什么？因为中国股民和很多基金经理根本就不是投资而是投机，是炒股票，买进卖出赚快钱，才不屑于那每年百分之几的股息分红。而最合适的“炒货”就是创业板股票（还有中小版），它们有时髦的题材，像科技创新、新兴行业，而且盘子小（股票少，总市值小，一般才几亿元），稍微多买就供不应求，股价就涨，就发生“自我实现”：看看，我选对了吧，买了就涨，还得多买！于是越买越涨，越涨越买。追涨的股民蜂拥而入，管什么市盈率、分红，只要股价上涨就行。换大盘股试试，一个盘子几百亿上千亿，没有超级大资金投入根本撬不动。</p>
+<p>这半年多来，中国的疯牛市就在“自我实现”：股价越涨就吸引越多的股民和机构投入，而投入的越多就越涨。但股市的疯狂不可能永远继续。许多股票的股价早已超越了“价值基础”。支撑股价的早已不是公司的未来收益，而是股民的“搏傻”信念：相信还会有更傻的人在更高的价位接货，所以现在的价位买了就能赚钱。搏傻就像击鼓传花，每传一次就有人金钱入账，可一旦鼓声停了，花落在谁手里谁就要把前面人赚的都赔出来。鼓声是一定要停的，因为继续入市的金钱不是无限的。当那些从没玩过股票的大妈一到股市开盘连广场舞都不跳了，上网炒股，当大学生把家里寄来的生活费都拿来买股票，鼓声就快停了。不仅国企的解禁股趁着牛市大出货，变现圈钱，那些吃过苦头的老股民和眼尖手快的基金经理也首先想到见好收，及时卖出，落袋为安，于是雪崩就开始了。绝大多数还没吃过苦头的新股民都会成为“最后接花的“。这次雪崩从6月下旬开始，很快就跌去了一千多点，曾跌到3500点左右。</p>
+<p>半年之中，股指就上涨150%，十几天又跌去30%，而这期间，中国的经济状况变化甚微。股市本应是经济的晴雨表，中国股市却与经济没啥关系，这在全球也是独一份。有人说，这显示出中国股市的高度投机性和赌博性。而股市的背后又是人性，是否该责怪中国股民好投机嗜赌搏？也许有道理，但又不公平：他们进入的就是一个赌场般的股市。</p>
+<p>中国股市在1990年代一建立，基础就打歪了。当时政府急着搞股市有个很重要的原因：为国企脱困。那时的国企远不像今天财大气粗，大部分经营不善、困难重重。政府也远不像今天这么有钱，所以急着从老百姓手里敛钱为国企输血。可许多国企不合上市条件（必须是盈利企业），怎么办？分割重组。许多企业一分为二，亏损留给这半，让另一半账面上盈利，光鲜上市。银行则“剥离坏账”交给国家兜起来，然后一身轻松地上市了。这算什么？说白了就是在政府指使下公然作假！以后的公司上市也常用这套，叫“包装上市”。账面包装的光鲜亮丽，可一上市转脸就亏损，露出真面目。</p>
+<p>而且，中国股票的发行价定的超高，为了尽量多敛钱。按国际惯例，比如在澳洲，股票发行价通常是年盈利的二三十倍（市盈率二三十）。可中国股票却大多定价在四五十倍以上，甚至达七八十倍。而且别忘了，那个盈利已经虚高，是包装出来的。如此高价股，怎么卖得出？有招。发行股票的证卷公司一向都会组织资金“保驾”，让新股一发行先大涨（溢价），使股民形成观念：买新股必赚，所以踊跃“打新股”。</p>
+<p>许多中国的上市公司还不分红。亏损的不必说，可盈利的也不分红，或只拿出很小一部分利润来分红。那么，股民的钱被拿去做什么了？一部分会用来扩大经营，还有呢？经常曝光出公司高管的高薪酬、大红包、奢侈浪费。这还是合法的，非法占用侵吞决少不了，只是很隐蔽。那些上市的国企公司多是腐败的重灾区，这里不多说了。反正小股民们称公司发行股票为“圈钱”，真是一语中的。对那些公司而言，上市就是合法地从股民手里敛钱，然后拿去满足小集团和高管们的个人利益。中国几乎所有的公司都渴望着上市发股，就因为这能最快最大量地捞钱。</p>
+<p>上市公司在股市中获利最多。接下来呢，还有其他的“捕食者”：就是那些兴风作浪的庄家们，包括各种的证卷公司、金融公司、股票基金，有的还与上市公司勾在一起，还有其他机构和个人，反正都是手握大资金炒股票的。他们“坐庄”都选小盘和中盘股，买进卖出，拉升打压，从中渔利。被“斩杀”的多是那些跟风炒作的散户小股民。</p>
+<p>当然，小股民也不甘任人宰割，也琢磨如何咬庄家一口。曾有一阵，有关“股市战法”的书铺天盖地。随手一翻，许多形容庄家手法的词汇透着冷酷和狡诈，比如：诱多、诱空、假摔、震仓、洗盘、砸盘、作盘、打压、拉升、出货等等。这些“中国式股市操作”保准让澳洲股民大跌眼镜：这不都是操纵股价么？是诈骗是犯罪呀！一点不错。中国法律允许公然犯罪么？不许。中国法律当然不许操纵股价盈利，可中国的法律还不许贪污受贿呢！这就是中国：法律是法律，实际是实际。被称为中国最有良心的经济学家吴敬琏曾相当客气地评价中国股市“连赌场都不如”。真的，赌场还严守规矩呢。</p>
+<p>从这样一个股市出来的股民还能是个什么样子？他们能信奉“价值投资”？大多数公司不分红或象征性地分一点，股息收入还比不上银行存款，风险却不小，谈何价值？另一方面，股市投机的诱惑却闪闪发光。不仅股市捞金的故事在民间流传（大多亏损者却不会自揭伤疤），媒体上的股市节目也一面倒地宣传“成功范例”，介绍炒股技巧，举办炒股大赛，对待英雄般地推介炒股高手。实际上，高抛低吸赚差价的短线炒作不过是零和游戏，社会财富没有增加，只不过从亏钱人手里转移到赚钱人手里，本质上如同赌博，对经济和社会不说有害也毫无益处。中国的公共媒体却热衷炒股节目，这在当今世界也属罕见。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/06/gushizhi.png" alt="股市泡沫" width="551" height="310"><p>股市泡沫</p></div>
+<p>都说中国股市和中国经济状况没有相关性：经济好，股市却可能低迷，经济不好，股市也可能暴涨。为什么这样？很简单。经济好了，公司盈利，却不分红或分一丁点，股票收益根本就不反映公司的经营状况。再者，新股定价超高，与上市公司的盈利和资产状况根本脱节。股价不反映公司的状况，那么，股市又怎么能反映中国的经济状况？</p>
+<p>当然，上面说的中国股市有点“过时了”，更像是2007年之前的情况。必须承认，政府早已明白了，中国股市的大弊病从根本上限制了这个重要融资市场的发展，所以早就开始了整治，还曾任命过一位香港专业人士来帮助整治中国股市。多年的努力也有了些效果。如今，明目张胆的欺诈，比如坐庄操纵股价，利用内部消息抢先买卖股票的已经收敛了一些。不少国企大公司还在政府指令下不得不分红。但这些变化还远没有改变中国股民已经相当定型的观念：股市赚钱就是要靠低买高卖的“炒”。发达国家的股民也炒股，但同时也有相当一部分股民和机构奉行“价值投资”：长线投资于蓝筹股。这是保持股市稳定的力量。而中国太缺少长线投资的股民和机构。倒是有不少长期持股的，却是出于无奈：被套住了。一旦解套转身就逃。所以，一窝蜂的追涨杀跌，股价剧烈的大起大落就是中国股市的必然。</p>
+<p>如此质量的中国股民显然不适于政府准备推行的股改。换句话，股票上市由审批制改登记制的条件恐怕还不成熟。这次的疯牛市就是警告。这些天政府为了救市已经暂缓了发行新股的速度，股改也可能向后推延，但前进的决心没变。这次重拳出击救市就显示了政府的决心，还透露出更大的“雄心壮志”。</p>
+<p>有人说，政府出手过早过重。才跌到3500点，离牛市启动前的1800点还远着呢。很多股民和基金还赚着钱呢，只不过把先前赚的又“吐出来”一部分而已，还远没到股灾的地步。政府为何急着出此重手？居然由央行出资，借手一些证卷公司和证金公司大举进场购买股票，还下令国企停止减持（卖出股票）改为增持（买进股票）。这样的“绝杀狠招”在3500点就使了出来，显然不是救股灾，而是要保牛市，是要阻止牛市的终结，还要推动牛市继续下去。简单一句话：中国政府正在投资打造牛市！这又是全球独一份。</p>
+<p>发达国家的股市都跟随本国经济的起落而上下：经济是原因，股市升降是结果。中国政府却试图把这关系反过来：打造一个牛市来拖动减速的经济。详细点说：中国股市本来就没有跟随在经济后边，现在呢，政府干脆试着造出个牛市来拖拽经济。一方面牛市的“财富效应”可以刺激消费增长（老百姓股市赚了钱就会多花钱）。另一方面，可借股市为新一波“创业创新”潮筹措资金。为了刺激正在减速的经济，政府已经制定了一些举措，发起新一波的全民创业创新就是其中之一。但是，需要巨量的扶助资金从何来？如果能让大批的创新企业直接到股市上集资将是最好的解决途径。这就需要股改：改上市审批制为登记制。而此股改又必需牛市。这就是政府启动牛市和力保牛市的主要原因。</p>
+<p>总之，正当中国经济持续减速时，中国股市却爆发了牛市，这已是天下奇事。当疯牛市转而暴跌，中国政府又出重拳止住了跌势（至少目前看来如此）。如果中国政府再能“牵住牛鼻子”，调控出一个按计划增长的慢牛市来，那更将创下全球股市的吉尼斯纪录。</p>
+<p>老实说，这在理论上还真有可能：中国政府有印钞机，可无限买入中国股票，又管控着许多企业，可卖出天量股票，因此，政府有能力做最大的庄家，操纵全部中国股票的价格。负面效果当然会无比巨大，但在这成为事实之前还没必要讨论。</p>
+<p>有一点已经很清楚了：中国股市也在走着一条与世不同的“中国道路”，它最终走向哪里，是撞墙还是趟出一条新通道，目前还难以预测。世界只是瞪大眼睛，且看中国股市令人目眩的表演。</p>
+<p>□ 作者投稿</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E9%99%88%E5%90%91%E9%98%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%EF%BC%8C%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%81%93%E8%B7%AF/?category=18271" rel="tag">中国道路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AA%E5%B8%82/?category=18271" rel="tag">猪市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB-%E9%87%8A%E6%B0%B8%E4%BF%A1/" target="cdt-mirror">巴丢草 | 少林功夫——释永信</a>
+</h2>
+<p><p>@badiucao: #巴丢草 漫画 【少林功夫——#释永信】在党国的关怀下，顺我者和尚都让你三妻四妾，逆我者分分钟<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A%EF%BC%9A%E7%A1%AC%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6%E6%88%90%E7%BB%9F%E6%88%98%E7%A1%AC%E4%BC%A4/">烧掉你的十字架</a>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CL3jU3pUEAAoqK0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CL3jU3pUEAAoqK0.jpg" alt="少林功夫释永信" width="480" height="689"></a></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB-%E9%87%8A%E6%B0%B8%E4%BF%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E5%AF%BA/?category=18271" rel="tag">少林寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E3%80%8A%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94%E3%80%8B%E6%98%AF%E4%B8%80%E9%83%A8%E6%AD%AA%E6%9B%B2/" target="cdt-mirror">博客中国｜罗伯特卡帕：《那年那兔》是一部反动漫画书</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%97%A5%E6%9D%82%E7%BE%8E%E7%B2%89-719x1024.png" alt="日杂美粉" width="550" height="783"></p>
+<p>《那年那兔那些事儿》是几年前流行于网络的一部漫画书，对于涉世不深，对中国历史缺乏了解的青少年学生影响极大，拥有无数的粉丝。其中的主人公，代表中共的兔子，其原型来自二战时期日本宣扬军国主义的一部反动动画片《海军の鹫》。</p>
+<p>《那年》是一部公开宣扬国家主义民族主义，鼓吹弱肉强食丛林法则等法西斯思想的漫画书。该书严重歪曲中国近现代史与中共党史，把历史上马克思主义毛泽东思想的中共丑化成了奉行丛林法则弱肉强食价值观与民族主义国家主义的法西斯政党。</p>
+<p>1.中共当年经过长期艰苦卓绝的斗争，能战胜强大的国民党，是靠着人民，按照陈毅的话说，淮海战役的胜利是“人民用小推车推出来的”，中共信奉的是人民史观，创造历史的是人民，而非英雄。</p>
+<p>而这部漫画书宣扬流氓哲学，丛林法则，强权即公理，谁的拳头硬谁打胜了，谁就代表真理。把国共战争，代表大资产阶级大地主阶级利益的国民党与代表最广大人民利益的共产党之间的斗争，丑化成两个流氓打架，赢的流氓拥有中国这个地盘。</p>
+<p>中共推翻代表大地主大资产阶级利益的蒋家王朝的反动统治，推翻的是三座大山，这三座大山分别是官僚资本主义封建主义和帝国主义。而这部漫画书里，阶级矛盾没有了，有的只是民族矛盾，严重扭曲历史，扭曲党史。把历史上工人阶级的先锋队代表最广大人民利益的中共，矮化丑化为与昔日国民党一样的法西斯政党。</p>
+<p>2.朝鲜战争是当时社会主义阵营与资本主义阵营之间的战争，是意识形态之间的战争，而非《那年》漫画书所丑化的几个国际流氓争夺地盘的战争。难道当年无数烈士血洒朝鲜半岛，只是为了像帝国主义国家一样争夺地盘吗？如果如此，那么，他们的牺牲与法西斯日本侵略者的牺牲，与法西斯德国侵略者的牺牲有什么区别？</p>
+<p>毛在《纪念张思德》这篇文章里说，“人固有一死，或重于泰山，或轻于鸿毛。为人民利益而死，就比泰山还重；替法西斯卖力，替剥削人民和压迫人民的人去死，就比鸿毛还轻”。</p>
+<p>那些在朝鲜战场牺牲的烈士，难道是为了抢占地盘的帝国主义法西斯“卖力”？当然，如今的朝鲜堕落成一个封建法西斯奴隶制国家，但是，这也非当年牺牲烈士的初衷，而是后来的朝鲜的统治阶级背叛了人民。</p>
+<p>3.这部漫画书所极力宣扬的国家主义，在毛的文章《中国社会各阶级分析》里，毛明确指出，国家主义派是最反动的政治派别，代表的是大地主大买办阶级的利益，背叛孙中山先生三民主义，代表大地主阶级大资产阶级利益的蒋介石信奉的正是混合了儒教的国家主义。</p>
+<p>4.这部漫画书除了宣扬国家主义，还大力鼓吹民族主义，而国家主义与民族主义相结合，那是什么东西呢？就是臭名昭著，曾给世界带来巨大灾难的法西斯主义。</p>
+<p>奇怪的是，这样一部严重歪曲中国历史，歪曲中共党史，歪曲中共性质的漫画书，不但不被禁止，反而被拍成了动画片，广为播映，制作成游戏，供青少年娱乐，达到“寓”法西斯主义的“教”于“乐”的效果，而该动画片的制片人就是近来得宠的大五毛“带鱼周”先生。</p>
+<p>那些反对“历史虚无主义”的“自称左派”的“斗士们”，对于这样一部明显歪曲历史丑化历史上的中共的极为反动的漫画书，你们为什么视而不见，却对坚持实事求是原则的杂志《炎黄春秋》要上下其手？</p>
+<p>我不仅想问，那些支持这部反动漫画书的“肉食者”，你们到底想干什么，到底想把这个国家这个党，变成一个什么样的国家，什么样的政党？你们到底想走什么样的“路”？</p>
+<p>1楼 2015-7-26<br>
+@弗瑞斯通 2015-07-26 14:08:38<br>
+这个罗伯特卡帕是个什么鬼？ 拿美分的工号？<br>
+—————————–<br>
+罗伯特卡帕，是一位历史上著名的反法西斯战士，摄影大师的名字。我因为敬仰他，所以用他的名字作网名。不了解，可以去百度搜索。</p>
+<p>我也不拿美分，你不用乱扣帽子。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E3%80%8A%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94%E3%80%8B%E6%98%AF%E4%B8%80%E9%83%A8%E6%AD%AA%E6%9B%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%94%E5%90%A7/?category=18271" rel="tag">兔吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">国家主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94/?category=18271" rel="tag">那年那兔</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E4%BD%95%E5%AE%B6%E5%BC%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%85%90%E8%B4%A5%E7%8A%AF%E7%BD%AA%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90/" target="cdt-mirror">共识网｜何家弘：中国腐败犯罪的原因分析</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg" alt="老百姓的钱包是共产党的牵挂" width="520" height="389"></a><br><em>（网络图片）</em></p>
+<p>在当下中国，腐败问题已经为政权敲响了警钟，于是反腐败就成为执政党面临的严峻挑战。中共十八大以来，新一届领导集体采取“先治标后治本”的反腐 策略，坚持“老虎”和“苍蝇”一起打，显示出前所未有的反腐决心和查办力度。然而，反腐败的成效不在于查办了多少贪官，而在于社会中还有多少贪官。因此， 我们必须认真研究腐败犯罪的原因，特别是社会原因，以便对症下药，提高中国预防腐败的能力。</p>
+<p><strong>     一、中国腐败犯罪的现状</strong></p>
+<p>在过去十年，中国查处的贪官数量堪称“世界之最”。根据最高人民检察院的工作报告，中国每年查处的贪官约四万人。其中，县处级干部二千多人，司 局级干部二百多人，省部级以上干部五六人。最高人民检察院检察长曹建明在2013年10月22日向全国人大常委会汇报反贪污贿赂工作时介绍，从2008年 1月至2013年8月，全国检察机关共立案侦查贪污贿赂犯罪案件151350件，涉及198781人，其中县处级干部13368人，司局级干部1029 人，省部级以上干部32人，包括曾经担任中共中央政治局委员的原上海市委书记陈良宇和原重庆市委书记薄熙来。2014年，中国“打老虎”的成绩引人注目， 共查办省部级以上高官33人，包括全国政协原副主席苏荣、中央军委原副主席徐才厚、中央政治局原常委周永康。</p>
+<p>然而，查办贪官的数量并不能全面反映中国腐败犯罪的状况，因为腐败犯罪还存在“黑数”，即已经发生但未被发现或未被追究的犯罪数。在中国，腐败 犯罪的查处面临“三难”，即发现难，查证难，处罚难。首先，腐败犯罪的方法、过程和结果都具有很强的隐蔽性，因此有相当数量的腐败犯罪没有被发现的现象不 足为奇。其次，腐败案件的查证主要依赖人证，物证较少，而且犯罪人多具有较高的智商和反侦查能力，所以查证也很难。再者，腐败官员多具有广泛的“人脉”或 关系网，甚至形成利益共同体或保护伞，因此许多已经获得充分证据的案件也很难对犯罪人进行实质性的处罚。</p>
+<p>根据腐败犯罪的发现难、查证难、处罚难，我们可以做出如下推断：在已经实施的腐败犯罪中大约有一半未被发现;在已经检举揭发或偶然事件而被发现 的腐犯罪中大约有一半未能查证;在已经获得相关证据的腐败犯罪中大约有一半未能处罚。如果这三个推断比较靠谱，那么三个50%相乘的结果就是：受到处罚的 贪官大概只占实在贪官的12.5%。换言之，腐败犯罪的黑数可能高达87.5%。</p>
+<p>虽然中国不是世界上最腐败的国家，但腐败问题也是相当严重的，而且已经从个体性腐败发展为制度性腐败和社会性腐败。所谓个体性腐败，即主要因为 个人的道德品质低劣导致的偶发性腐败。所谓制度性腐败，即主要因为制度缺陷导致的多发性腐败。所谓社会性腐败，即主要由于文化习俗和行为环境等社会因素造 成的普遍性腐败。它与制度性腐败往往有常态联系，但它已不仅存在于政府官员的群体，而是蔓延到社会的各行各业之中，譬如工商企业、社会团体、文艺体育、教 育卫生等领域。当代中国造成腐败泛滥的原因是多方面的，既有个体原因，也有制度原因，还有社会原因。下面，我主要分析社会中产生腐败的原因。</p>
+<p><strong>     二、社会习俗中生成腐败的原因</strong></p>
+<p>腐败都是在一定的社会环境中生成的，因此社会的文化传统和风俗习惯都会影响到腐败的产生和蔓延。在中国的社会习俗中，生成腐败的原因主要表现在以下几个方面。</p>
+<p>(一)重人轻规</p>
+<p>大约从20世纪70年代中期开始，中国人就开始流行“办事找关系”了。在“知识青年上山下乡”的大潮中，一些有关系的家庭把子女通过“后门”送 去参军或返回城市。后来，那些没有关系的家庭也开始找关系让下乡的子女“返城”或安排较好的工作。后来，这种做法不断蔓延，以至于人们几乎在办任何事情的 时候都要依靠关系或者去寻找关系。上学要找关系，看病也要找关系;去商店购物要有关系，去饭馆吃饭也要有关系;找工作要靠关系，做生意也要靠关系;开车违 章了要去交管部门疏通关系，遇到纠纷了要到法院去建立关系。在官场上，关系更是至关重要的，成事靠人脉，晋升靠关系，于是，选边站队，拉帮结派，就成为官 场上司空见惯的怪现状。</p>
+<p>在重视关系的社会中，规则往往是被人轻视的，因为在关系面前，规则的作用可有可无——需要时即有，不需要时即无。特别是在规则不明确或不公开的 情况下，有关系和没关系的待遇就会大相径庭。即使是完全正当的需求，没关系的人也会饱受刁难。即使是不太正当的请求，有关系的人也会一路畅通。于是，人们 就千方百计去寻找关系，建立关系。而且这关系的用途也不断升级，从抢购鸡鸭鱼肉等紧俏商品到争拿黄金地块等开发项目，从中获益的金额也从几十元攀升至数亿 元。与之相比，先天不足的法律规则在中国社会中的作用更为弱化。那些敢于无视规则的人被视为有魄力，那些善于规避规则的人被视为有能力。当规则在关系面前 大举溃败之时，腐败就必然在社会中暗流涌动。</p>
+<p>(二)送礼成风</p>
+<p>请客送礼与“找关系”和“走后门”往往是紧密相连的。中国人本来就有逢年过节给亲友送礼和请亲友聚餐的习俗，后来这请客送礼的对象就演化为有权 有势或有用之人。20世纪70-80年代，由于经济公有制和生产力低下，许多社会资源都处于短缺状态，于是那些能够掌握或支配这些资源的人就成为有用之 人。且不说政府官员和单位领导，一些职业也成为许多人希望结交的对象。当时的社会中就流传着关于好职业的说法：第一是听诊器(医生)，第二是方向盘(司 机)，第三是商店的售货员。人们在日常生活中，往往需要这三种人的关照，于是在逢年过节时就要送礼上门。那时候，中国人整体的生活水平都不高，所以主要礼 品就是烟酒糖果糕点。后来，随着经济的发展和人民生活水平的提高，送礼的内容越来越丰富，越来越昂贵，请客的方式也越来越排场，越来越多彩。于是，一些手 握大权的官员就成为请客送礼的首选，以至于在一些重要节日前出现送礼排队和宴请连场的状况。其实，请客送礼往往是行贿受贿的开端。</p>
+<p>(三)公私不分</p>
+<p>新中国成立之后，国家决策者在社会的物质和精神都没有充分准备的情况下就急促地推行公有制，从工商企业的“公私合营”到农业生产的“人民公 社”，试图在短期内全面颠覆私有财产制。与此同时，在共产主义理想的指引下，“大公无私”等道德号召流行一时。然而，这样的理想和号召是超越现实的，也是 超越人性的，因此就会在人们心底生成公私不分的思维习惯。公家的东西就是大家的，每人都有一份。因此，偷拿别人的东西是盗窃，偷拿公家的东西就不算盗窃。 这种心态在中国人中相当普遍。事实上，许多公有制的企事业单位都允许员工享用共有财物，大到汽车房屋，小到纸笔信封。在这种公私不分的思维习惯下，人们在 违反规定占用或消费公共资产的时候就会心安理得，甚至在盗用公共财物的时候也没有犯罪感。“改革开放”之后，随着经济的高速发展，国家越来越富裕，公家的 财物越来越多，于是公私不分的行为也越来越上档次。公款吃喝和公款旅游已司空见惯，公车私用和公产私占也屡见不鲜。一时间，有人在请亲友吃饭之后就把能够 “报销”作为炫耀的资本;有人在为小集体利益而侵吞国家资产之时还欢呼“共同致富”。由于多年来在公私之间没有明晰的界线，所以一些掌握实权的官员就在不 知不觉或半知半觉中滑入腐败的深渊。</p>
+<p>(四)喜爱特权</p>
+<p>长期的封建等级社会已经把特权观念深深地镌刻在中国人的心上。“人民论坛”2012年进行的一项问卷调查的结果显示，50%的调查对象明知特权不合理，但是并不拒绝使用特权。也许，中国人都不愿意别人享有特权，但是却希望自己享有特权。举一个简单的例子。北京人经常在大街上看到因国家领导人出行 而交通管制的情况，也经常看到一些特权车违章行驶的情况。此时，许多市民都会表示厌恶甚至愤慨，但是内心却希望自己也能享受类似的待遇。于是，有些人就想 方设法地追寻这种特权，譬如冒用军警车牌、非法安装警灯警报器和警用喇叭、违规办理各种通行证等。一些无法获得这些特殊用品的人还会自我享受特权车的待 遇，譬如占用紧急行车道、闯红灯等。从世界各国的情况来看，官员特权的多少与腐败问题的严重程度之间存在一定联系。官员特权多的地方往往腐败问题比较严 重，而官员平民化的国度则腐败问题较为轻微。其实，腐败既是特权追求的产物，也是追求特权的产物。且不说那些贪官污吏都要享受特权，就是一般人送礼行贿的 目的也是要享受特权，或者说“特殊的优待”。由此可见，喜爱特权的社会习俗也是生成腐败的一个原因。</p>
+<p><strong>     三、社会转型期中生成腐败的原因</strong></p>
+<p>过去三十年，中国处于从物质生活到精神生活的转型时期，一方面是经济的高速发展和贫富差距的拉大，另一方面是私有观念的复苏和道德信仰的崩溃。 社会没有建成稳态的法治行为环境，人们也没有养成良好的法治行为习惯，再加上各种规章制度尚不健全，于是，手中握有权力的官员在各种诱惑下就容易走上违法 犯罪的道路，腐败犯罪就处于多发状态。具体说，社会转型期中生成腐败的原因主要表现在以下几个方面。</p>
+<p>(一)信仰缺失</p>
+<p>历史的经验表明，一个政党或政治集团在夺取政权的过程中往往需要一个高尚的理想，以便吸引那些激情燃烧热血的青年为之奋斗乃至献身。但是在成为 执政党之后，这种崇高的理想就逐渐在权力的侵淫和现实的反衬下变成虚幻的口号。无可否认，当下中国人面临的一个重大社会问题就是信仰缺失。曾经占统治地位 的共产主义信仰已经黯然失色，而复苏或外来的宗教信仰也难成大道。虽然在我们的身边能够看到许多自称信仰佛教、道教、基督教、伊斯兰教的人，但其中纯洁的 信仰者恐怕为数不多。一些佛教圣地的过度商业化就是例证。于是有人感叹，就连寺庙里的和尚都“一切向钱看”了，中国人的信仰何在!如果平民百姓只信仰金 钱，社会中就会有很多的坑蒙拐骗。如果掌握公共权力的官员只信仰金钱，国家中就会有很多的贪污受贿。因此就腐败犯罪而言，各路官员的信仰缺失确为原因之 一。</p>
+<p>(二)道德下滑</p>
+<p>作为社会行为的准则，道德的功能在于约束人们的行为，倡导文明的行为模式。中国曾经享有“礼仪之邦”的美名，但现在却呈现“礼崩乐坏”的态势。 在当下中国，社会道德的整体下滑是个不争的事实。诚然，过去流行的“大公无私、舍己为人”的说法确实有些虚高，但是曾被国人所不齿的“人不为己、天诛地 灭”的主张却已经堂而皇之地被人宣扬，甚至出现“笑贫不笑娼”的大众心态，就都表明了道德观念的低落。另外，文艺作品的“低俗化”和社会生活的“泛娱乐 化”，也反映了社会道德的迷失。诚然，中国还有助人为乐的好人，也有真心为民的官员，但属于凤毛麟角。在整体道德下滑的社会环境中，官员群体的自我约束能 力就会下降，出现那些“窝贪”和“串贪”的现象也就不足为奇了。</p>
+<p>(三)私欲膨胀</p>
+<p>人具有自利的本能，因此人人都有私欲。但是，人的私欲在社会中应该受到约束，否则就会损害他人的利益和群体的利益。中国自改革开放以来，经济的 高速发展带来了社会的繁荣昌盛，但是也促进了国人私欲的膨胀。一方面，商品市场的发达给人们的消费提供了多种多样的选择，也就使人的“食色本欲”得到丰富 和扩张。另一方面，“让一部分人先富起来”的政策激发了国人的创造力和生产力，但是也急剧地拉大了中国的贫富差距。巨大的贫富差距导致人们的心理不平衡， 也刺激了人们的私欲。于是，一些人在私欲的驱动下，就去寻找不当乃至非法的致富路径，包括运用手中掌控的权力去“寻租”。从这个意义上讲，贪官就是膨胀的 私欲所催生出来的怪胎。</p>
+<p>(四)行为失范</p>
+<p>在社会转型期间，主客观的因素导致许多人的社会行为失范。就贪官而言，这种行为失范多始于性行为的纵乱。古人讲，万恶淫为首。此话并非儿戏，实 乃经验之谈。在过去三十年，中国社会急剧地从性封闭走向性开放，一些官员也随波逐流地放松了自身的行为约束，从“讲黄段子”到“包养情妇”再到“开房嫖 娼”，于是就出现了重庆区委书记的“做爱视频”和上海法官的“集体嫖娼”等轰动一时的丑闻。性行为规范在人类的道德体系中占有重要位置。一个突破了性道德 底线的人，往往也就很容易突破其他方面的道德底线，于是，性罪又衍生出他罪，包括腐败犯罪。用老百姓的话说，当官的连那种事情都干得出来，还有什么事情不 敢干啊!当下中国许多贪官的腐化堕落都是从性行为失范开始的，多数腐败案件中都包含有“权色交易”的内容。当然，性行为失范的官员不限于男性。男性贪官拥 权贪色，女性贪官则一边以色谋权一边又以权谋色，譬如深圳市公安局罗湖分局原局长安惠君。因此，社会行为失范也是腐败犯罪的原因之一。</p>
+<p>中共十八大以来，反腐败斗争已初见成效，反腐策略也逐步转移。战略重心从查处贪官转向预防腐败;治标之术从杀一儆百转向有贪必肃;治本之道从思 想教育转向法律规制。如果说腐败的大官是“老虎”，腐败的小官是“苍蝇”，那么各类民营企事业组织中的行贿受贿者就像是“蟑螂”。中国查办腐败犯罪的重心 应该逐渐从“打老虎”转向“拍苍蝇”再转向“灭蟑螂”。反腐败的进程也可以相应地划分为三个阶段：第一阶段以治标为主，一方面要集中力量打“老虎”，遏止 腐败的泛滥势头;一方面要整顿纪律，转变党风政风。第二阶段从治标转向治本，一方面严查的对象要从“老虎”转向“苍蝇”，特别是那些顶风作案继续腐败的贪 官;一方面要建立健全预防腐败的法律体系，包括保障法院和检察院独立公正地行使职权的制度和集中统一的职务犯罪侦查体制，以及官员财产公示等预防腐败的制 度。第三阶段以治本为主，在推进政治体制改革和完善民主法治的同时，腐败犯罪的查办从纪检监察机关为主的“法外查办”转向检察机关为主的“法内查办”，而 查办的重点也要从“苍蝇”延伸至“蟑螂”，以清除腐败的土壤，巩固廉政之根基。</p>
+<p>(本文为发表于2015年第1期《法学评论》的“中国腐败犯罪的原因分析”的摘选。)</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E4%BD%95%E5%AE%B6%E5%BC%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%85%90%E8%B4%A5%E7%8A%AF%E7%BD%AA%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%9C%BA/?category=18271" rel="tag">中国官场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E6%80%A7%E8%85%90%E8%B4%A5/?category=18271" rel="tag">制度性腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%85%90/?category=18271" rel="tag">正腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E6%AC%B2%E5%B9%B3%E6%81%AF%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80%E6%BD%AE/" target="cdt-mirror">法广｜中共欲平息官员自杀潮</a>
+</h2>
+<p><div>
+<p>在一系列中共官员因受查而自杀事件发生后，中国最高检察院8月6日夜间发布8项禁令，禁令包括对导致官员自杀的办案人追究责任。此举被认为是中共当局意图遏制两年来的官员自杀潮。</p>
+</div>
+<div>
+<p>法新社8月7日报道指出，两年来，很多中国官员在习近平的打贪运动被撤职，官员自杀现象也随之飙升。据中国财新杂志今年一月报道，2012年以来，至少有50名中共官员“非正常死亡。”</p>
+<p>最近一起受关注的自杀案是中国第一重型机械股份公司董事长吴生富8月3日在其办公室被发现自杀身亡。吴生富自杀是在中纪委第11巡视组进驻一重专项巡视近1个月后发生的。</p>
+<p>中国最高检昨夜发布的八项禁令包括在办案过程中，受调查官员如因检调人员的违法行为或严重失职而自杀或受伤，办案者将受到降级撤职等处分。</p>
+<p>中国最高检的8项禁令：1，擅自处置案件线索、随意初查和在初查中对被调查对象采取人身限制、财产权利强制性措施的；2，违法使用监视居住措施 的；3，非法干涉涉案企业正常经营活动，插手工程建设、工程招投标，经济纠纷，越职办案，接受赞助、报销费用、吃拿卡要的； 4，违法处理查封、扣押、冻结涉案财物的； 5，阻止或妨碍律师依法会见嫌疑人的； 6，未在全程同步录音录像下进行讯问的； 7，刑讯逼供及其他非法取证的； 8，违法违规办案或严重不负责任造成嫌疑人脱逃、伤残、自杀或证人伤残、自杀的。</p>
+<p>以上8项禁令凸显中国打贪运动存在违法问题。而在法治和制度缺失背景下，中共官员到头来自己也难逃被“非法处理”的厄运。中国最高检在8项禁令后还说，因管理不善或指挥不当导致检察人员违反八项禁令的，将严肃追究领导责任。</p>
+</div>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E6%AC%B2%E5%B9%B3%E6%81%AF%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80%E6%BD%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80/?category=18271" rel="tag">官员自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E7%BA%AA%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">违纪双规</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%8E%E7%BD%91%E8%AD%A6%E5%B7%A1%E6%9F%A5%E5%88%B0%E7%BD%91%E5%AE%89%E8%AD%A6%E5%8A%A1%E5%AE%A4/" target="cdt-mirror">德国之声 | 从“网警巡查”到“网安警务室”</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%AD%A6%E5%AF%9F%E7%A4%BE%E4%BC%9A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%AD%A6%E5%AF%9F%E7%A4%BE%E4%BC%9A.jpg" alt="警察社会" width="550" height="311"></a></p>
@@ -222,475 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB-%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E5%86%99%E6%82%B2%E6%83%85%E4%BD%9C%E6%96%87%E6%8F%AD%E8%90%BD%E5%90%8E%E8%B4%AB%E7%A9%B7/" target="cdt-mirror">网易新闻 | 四川大凉山女孩写悲情作文揭落后贫穷现状</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150804133458d0d19_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150804133458d0d19_550.jpg" alt="苦依五木" width="550" height="366"></a></p>
-<p>一个多月前，新华社记者范敏达曾深入大凉山，近距离接触了许多如苦依五木般的孩子，他用图文的形式，记录下了“不幸中依然保持纯真、贫穷中依然渴望学习”的孩子群像。</p>
-<p>今天，推荐一篇小学作文，一篇世界上最悲伤的小学作文。文章的作者名叫苦依五木(笔名柳彝)，一个来自大凉山的小学四年级彝族小姑娘。</p>
-<p>一个多月前，新华社记者范敏达曾深入大凉山，近距离接触了许多如苦依五木般的孩子，他用图文的形式，记录下了“不幸中依然保持纯真、贫穷中依然渴望学习”的孩子群像。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150804133501e98a7_550.jpg" alt="作文" width="450" height="852"></p>
-<p><strong>大凉山归来</strong></p>
-<p>昨晚，一位在大凉山支教的朋友分享了这篇四年级彝族女孩的作文，看完后心疼、心酸，情绪全无，整个人都不好了。</p>
-<p>令我纠结、难过的不仅仅是这个名叫苦依五木的孤苦女孩的命运，还有大凉山，这片美丽却又贫穷的大山里，千千万万个孩子的命运。</p>
-<p>我从大凉山回来已经快一个月了。这一个月来，每每一闭眼就看到孩子们黝黑的面孔、明亮的眼睛。那是世间最天真、最好奇、最真诚的眼神，也是最懵懂、最无知、最空虚的眼神。</p>
-<p>端午节那天，我和几位在四川省凉山彝族自治州美姑县大桥乡中心校支教的年轻人一起来到尔其乡甲拉村，和在甲拉支教的两个小伙子一起过端午节。</p>
-<p>甲拉村小位于村子地势最高的地方，原本是一间废弃的土坯房，竖起一面国旗，便成了一所能容纳30多个孩子的小学。</p>
-<p>我们抵达这里的时候，支教老师孙杰正在给孩子们补课。走进教室，30多双眼睛突然齐刷刷地回头望着我，那些眼睛在仅靠一盏白织灯照明的昏暗的教室里熠熠发光。</p>
-<p>孙杰告诉我，甲拉村以前没有学校，孩子们想上学就得步行一个多小时到尔其乡中心校去，然而山路险峻，雨季时更是泥泞非常，连马、羊等家畜都偶有跌落山崖摔死的情况发生，家长们便不愿让孩子冒险上学，“现在虽然有学校了，但是教室太小，村里还有一半的孩子仍然处于失学状态。”</p>
-<p>甲拉地处偏僻，两位支教老师的生活颇为艰辛，没有手机信号，没有生活来源，平时靠老乡接济的土豆、青菜、面条为生。</p>
-<p>“待下去的最大动力是老乡们的支持，”孙杰告诉我，“一次有个学生逃课，被他父亲揪着耳朵带回学校，当着我的面训那个孩子，‘老师教你认识那么多字，打死你都是可以的！’那时候我觉得，一切孤独、艰苦都值了。”</p>
-<p>在随后去瓦古乡尼勒觉村的路上，经过一个不知名的小村子。</p>
-<p>我们一行人停下来在村子里找水喝，这时，一个把红领巾当成头饰系在额头上的小女孩欢笑着从家里跑了出来，看到我们后脸一红，把额头上的红领巾摘了下来，又仔细地系在了脖子上。</p>
-<p>女孩名叫阿格以作，去年尼勒觉学校扩建翻新之后，她为了得到读书的机会，每天往返于两小时山路之外的尼勒觉学校。她告诉我，红领巾是她最珍视的宝贝，村里的小伙伴们都羡慕她有一条红领巾。</p>
-<p>我的那位在大凉山支教的朋友告诉我，虽然那里很多家长不重视教育，很多孩子在学校里调皮捣蛋，但是为了那些渴望学习，渴望走出大山的孩子们，他付出再多都是值得的。</p>
-<p>今年春节前，他曾带了几个孩子回到老家山西，其中一个名叫额其尔布的男孩令我印象深刻。</p>
-<p>额其尔布今年已经17岁，却刚刚开始读初一。因为父亲早逝，母亲身体不好，两个哥哥也已成家，他成为了家里的顶梁柱，读完三年级便辍学在家干农活。</p>
-<p>然而随着成长，额其尔布听说了外出打工的乡亲们描述的外面的世界，也萌生了好好读书，将来走出大山的念头，去年不顾母亲反对，问一个叔叔借了500块钱，到大桥乡中心校报名上初中。</p>
-<p>而跟着支教老师走出大山的这段时日里，看到了现代城市里的高楼大厦、飞机轮船，对比起自己家乡的贫穷落后，他坚定了自己的想法：要好好读书，考上大学，然后回到家乡教书，让更多的族人能够改变自己放羊种地的命运。</p>
-<p>回到大凉山的额其尔布成为了学校纪律的“守护者”，他会严厉制止一切妨碍老师上课的行为，也会耐心劝阻喝酒、逃课、打架等不良行为。虽然学习基础较差，但是他以一个男子汉的担当，努力地追赶学习进度，最近这次期末考试，他所在的班级一跃成为年级第一，他的成绩也名列前茅。</p>
-<p>可以说，大凉山的贫穷，并不仅仅贫穷在物资匮乏，更贫穷在观念落后。</p>
-<p>在大桥中心校里，有一个颇受公益组织关注的“爱心学校”，收容了本乡500多个像苦依五木一样的孤儿。</p>
-<p>凉山彝人热情豪迈，能歌善舞，却也沾染着吸毒、酗酒、斗殴等恶习，当地基础医疗服务极度薄弱，而彝人历史上又没有寻医问药的习俗，生病了就找“毕摩”(彝人宗教里的祭祀)，种种原因造成大量孩子生活在破碎的家庭中——甚至从小就失去了家庭的关怀。</p>
-<p>爱心学校里的孩子们还算是不幸者中的幸运儿，至少他们又获得了一个新的大家庭，而在更广的范围里，还有千千万万个彝族孤儿，只能像苦依五木一样，在泪水中思念父母。</p>
-<p>从大凉山回来后，我一直在思索，能够为那些孩子们多做些什么？</p>
-<p>孩子们需要支教老师吗？当然需要，但是支教老师往往只会待一到二个学期，他们走了以后怎么办？</p>
-<p>孩子们需要物资捐赠吗？当然需要，可是物资往往只能送到有限的、交通较为顺畅的地区，那些更偏远、更需要帮助的地方怎么办？</p>
-<p>我不愿再看到苦依五木们的泪水，也不愿再看到额其尔布们的艰辛，可是现实面前，我们能做的，真的很有限。</p>
-<p>我那位支教老师朋友曾对我说：“人这一辈子，又能有多少机会，可以改变另一个人的命运？我没能力帮助所有人，但至少，能做一点是一点，能帮一个是一个，我们教过的孩子，可能以后还是考不上大学，但他们会知道教育很重要，他们将来有了孩子，就会敦促孩子好好念书，他们的孩子就有可能考上大学，走出大山。”</p>
-<p>是啊，莫以善小而不为，我们也许无法亲自走进大山，但是多一份关注，多一丝善意，改变凉山儿童命运的力量就会更大一分。上体面生活的社会距离还很远。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB-%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E5%86%99%E6%82%B2%E6%83%85%E4%BD%9C%E6%96%87%E6%8F%AD%E8%90%BD%E5%90%8E%E8%B4%AB%E7%A9%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%87%89%E5%B1%B1/?category=18271" rel="tag">大凉山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%9D%E6%97%8F/?category=18271" rel="tag">彝族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%AF%E6%95%99/?category=18271" rel="tag">支教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%A6%E4%BE%9D%E4%BA%94%E6%9C%A8/?category=18271" rel="tag">苦依五木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0/?category=18271" rel="tag">贫困</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 5天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%99%88%E7%A0%B4%E7%A9%BA%EF%BC%9A%E4%BB%A4%E5%AE%8C%E6%88%90%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%89%8B%E4%B8%8A%E4%B8%80%E5%BC%A0%E7%89%8C/" target="cdt-mirror">法广｜陈破空：令完成是美国手上一张牌 </a>
-</h2>
-<p><div></div>
-<div>
-<div>
-<div>《纽约时报》8月3日报导，令计划之弟令完成可能会向美国寻求政治庇护，而在申办期间，令完成可合法留在美国。美国司法部发言人莱蒙迪（Marc Raimondi）对纽时表示，司法部已多次表明，对那些中国想要的逃犯，司法部敦促中国提供证据，因为“仅仅提供一个名单是不够的”。</div>
-</div>
-<p>令完成携带大量机密逃到美国，海外媒体已经对此报道议论数月之久，但美国政府一直没有任何回应，现在通过《纽约时报》的访谈文章，不仅证实令完成逃到美国寻求避难，还间接表示引渡令完成需要充足理由。</p>
-<p>《纽约时报》的报导引述一名美国官员谈话表示，如果令完成寻求政治庇护，将可能成为中共建政后最具破坏力的“叛逃者”。另一方面，令完成出逃美国，亦将加剧了原先就相当紧张的中美关系。</p>
-<p>从《纽约时报》有关令完成的报道中，传递出了什么信息？本台就此采访了在美国的中国时政评论家陈破空先生：</p>
-<p>陈破空：令完成逃到美国已经半年了，美国对此一直没有公布，只字不提，为什么美国在这个时候公布令完成的一些行踪？这次美国政府是部分地释放出令完成的一些行踪，通过新闻媒体报道出来，实际上这是反过来给中国政府一些压力，因为现在美国面临的一个情况就是面临大规模的网络攻击，黑客窃取美国2150万联邦雇员的个人资料，这让美国感到非常的恼火，所以部分地公布令完成的情况就是一个报复手段，也是想在习近平9月访美之前给习近平制造一些压力，尤其是在中国肆无忌惮的网络攻击面前。这是个实际问题。</p>
-<p>法广：这等于是美国利用令完成本身的特殊身份，和传说中的他掌握的机密来对中国施加压力，而不是就令计划问题进行什么交易？</p>
-<p>陈破空：根据国际情报界的通常作业程序：虽然令完成是个商人，但他的哥哥当过中共的中办主任，中办实际上是情报中枢, 他哥哥委托他带出的机密文件, 据说有2700份,其中有中国的核心机密, 有人称是 ‘情报核弹’。按照国际情报界的常规，令完成到达美国后，美国政府就从他手上取得了完整的核心机密，只是美国政府秘而不宣，只字不提，守口如瓶。而令完成本身出于对他哥哥的保护也不会承认他向美国泄露了机密。</p>
-<p>令完成的身份角色非常特别，假如美国白宫的幕僚长下台了，他的弟弟携大量机密逃到中国，或者说莫斯科克里姆林宫的总管下台了，他的弟弟携大量机密逃到中国，这样的人物逃到中国后一定会受到中国的保护，而且肯定会获取这些机密。所以我相信：美国政府已经获取了令完成手上的机密，而令完成也已经得到美国政府的保护。</p>
-<p>美国在这个时候公布有关信息，是倒过来给中国政府一些压力，因为该报道明确说：美国已经拒绝了中方的所谓引渡要求，并说：如果是因为犯罪而引渡的话，就要出示充分的证据，如果仅仅是权力斗争，不足以使美国把令完成交还给中国。</p>
-<p>所以现在令完成成了美国手上的一张牌，还有报道说：他手上的情报会让美国在情报领域取得非凡的成就。这就说明令完成手上的确有真料，这对现在执政的习近平来说是一个很大的打击或挑战。</p>
-</div>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%99%88%E7%A0%B4%E7%A9%BA%EF%BC%9A%E4%BB%A4%E5%AE%8C%E6%88%90%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%89%8B%E4%B8%8A%E4%B8%80%E5%BC%A0%E7%89%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 5天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B6%85%E7%BA%A7%E8%8B%B9%E6%9E%9C%E7%BD%91%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E5%8F%9B%E5%8F%98%E8%83%8C%E5%90%8E%E4%B8%A4%E5%A4%A7%E7%8E%84%E6%9C%BA-%E4%BB%A4%E6%A1%88%E6%9C%89%E5%8F%98/" target="cdt-mirror">超级苹果网｜令完成”叛变”背后两大玄机 令案有变?</a>
-</h2>
-<p><p>不同于周永康身边的“秘书帮”、“马仔”，令计划案的特别之处在于其背后的令狐家族，兄妹五人及家庭可谓全军覆没，唯有令计划最小的弟弟令完成仍在逃海外，成为令案备受关注的话题之一。而令计划案盖棺定论在即，这或许意味着令计划案有变。如令完成寻求政治庇护属实，将可能成为中国的“斯诺登”式人物，“叛变”对中共造成的打击也可想而知。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1438697093_511029.jpg" alt="1438697093_511029" width="549" height="412"><br>
-令计划案已远远超出了中共反腐的范畴</p>
-<p>中共给令计划定的罪名中“违法获取国家大量核心机密”可以算作是最吸引人眼球的一项，这与坊间对令完成的描述“不谋而合”。此前多家媒体报道，令完成在逃美国，并且手握高层机密要挟中南海，要求中共停止对令氏家族不利的处置。甚至有分析称，令完成手中材料的重要程度远超过前重庆副市长王立军叛逃美领馆、以及斯诺登爆美国政府监听行为所引起的震动。以此逻辑，令完成如同令计划与中共谈判的一个政治筹码。连日来，令完成外逃事件从坊间舆论场内走向了更大的舆论平台。</p>
-<p>被外界认为有中共官方背景的财新网报道称，确认令完成已经逃往美国，且在美国加州内华达山脉脚下小镇卢米斯（Loomis）拥有一处豪宅。这座豪宅占地2.5英亩、建筑面积725平方米。报道称令完成以化名“王诚”及其妻的名义于2013年9月买下这座豪宅。</p>
-<p>需要注意的是，稍早前，中办大管家令计划“监守自盗”，非法获取大量“机密”文件的坊间消息，因敏感度较高一直处于被“封锁状态”，对令狐一家进行“起底式”调查中，两位“大哥”令政策、令计划已身陷囹圄不在话下，但令完成和妻子李平如同人间蒸发，听不到一丝音讯。此前在中国互联网中，“令完成”也属于禁忌词。一些涉及令完成的海外消息或评论，均被删除。而财新网的报道无疑是打开了这道防火墙，也代表着中共对此事的态度已经提升至一个高度，即当下毋须解决这一问题。</p>
-<p>种种迹象显示，中共历时一年的调查取证后，伴随着令计划被移交司法，令完成事件或已成为令案完结的最后一个环节。无独有偶，《纽约时报》8月3日也引用美方官员的说法证实了这一消息。同时还透露，最近几个月，奥巴马政府都因为令完成这个人，受到来自中国政府要求对其遣返的压力。美国国务院发言人托纳(Mark Toner)称，我们一直与中国就共同关系的执法问题保持沟通，这其中也包括潜逃者和反腐运动。坦白来说，中国一直反对住在美国的国民，我们一直试图对此反对，正如我之前说的，要依靠中国向我们提供合法、令人信服和有力的证据来说明为何这些人要被引渡回国。美国国务院对令完成的关注，让其登上海内外各大华文媒体的头条新闻，舆论场内对令氏兄弟的讨论沸反盈天。相较于周永康、徐才厚等人贪腐、滥用职权、党内违纪等罪名，这意味着令计划案有变。其一，从大陆反腐角度来看，令计划案按盖棺定论在即，如坊间传言令完成手握“大量核心机密”消息属实，那么令完成便是当局定罪令计划的重要证人及证据的持有者。</p>
-<p>虽然从官方指控的“六宗罪”内容来看，令计划至少涉及三大罪名，分别是受贿罪、滥用职权罪与非法获取国家秘密罪。根据中国法律规定，除受贿罪最高可判死刑外，其他两项罪名的最高刑期均为七年。但特殊的一点在于，令计划的牢狱之灾实属必然，但引渡令完成一事，从检察院起诉令计划的工作进度上，以及刑罚的考量上都起着重要的推动作用。</p>
-<p>其二，如令完成寻求政治庇护属实，将可能成为中国的“斯诺登”式人物，因其“叛变”，或将成为情报领域的一项非凡成就，对中共造成的打击可想而知。进一步分析，这也意味令案更本性质已经从反腐问题转变至国际层面的国家安全问题。</p>
-<p> </p>
-<p>资料显示，中共的反腐行动包括2014年开始的“猎狐行动”计划，追捕逃到国外的腐败官员。但是中国与包括美、加、澳等主要西方国家没有签订引渡条约，因此这些国家成为外逃贪官的首选目的地。中国官方此前称，至少150名“经济在逃人员”在美国滞留，其中多数被认为是贪腐官员，普遍认为，令完成便是其中之一。而早在2014年北京召开的亚洲太平洋经济合作组织（APEC）峰会上，已经通过了《北京反腐败宣言》，成立反腐败执法合作网络（ACT-NET）。美中官员也在2015年1月在菲律宾会商，讨论遣返藏匿在美国的中国贪腐官员一事。曾有分析指出，美国之所以犹豫，是认为中国的法制水平不够，如果与中国签订引渡条约，相当于认可中国法制水平。</p>
-<p>就此反观美国国务院发言人对细节问题的回避，中美双方就追逃令完成一事的交涉情况，很有可能加剧本就紧张的中美关系。早在今年三月，海内舆论热议王岐山将访美一事与追逃令完成不无关系。《金融时报》曾引詹姆斯敦基金会中国安全问题专家彼得•马蒂斯的话说，“如果这是王岐山作为中纪委负责人对美国进行正式访问，那么他此行的主要原因之一就是追捕外逃贪官和追缴外逃非法资金。”事实上，此事随后也不了了之，有舆论分析称，由此可以看出中美双方的初期谈判也许并不怎么顺利。临近9月，习近平访美在即，此时令完成的消息大量曝光，奥巴马也选择此时宣称“决定对所谓中国从人事管理局数据库窃取2,000多万美国人个人信息一事进行报复，但仍在竭力寻求采取一些不至于使两国网络冲突升级的行动。”无不透露出两国外交层面上的博弈战略。目前来看，习近平访美会否就遣返令完成一事同奥巴马政府交涉仅处于猜测阶段，但中共在进行了两年卓有成效的国内反腐后，如何开辟海外反腐战线，开辟后又如何执行反腐任务等问题，才是中共正面临的一大挑战。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B6%85%E7%BA%A7%E8%8B%B9%E6%9E%9C%E7%BD%91%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E5%8F%9B%E5%8F%98%E8%83%8C%E5%90%8E%E4%B8%A4%E5%A4%A7%E7%8E%84%E6%9C%BA-%E4%BB%A4%E6%A1%88%E6%9C%89%E5%8F%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%81%BF%E5%B8%A6%E9%B1%BC%E8%AE%B3%E7%9A%84%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%9D%A5%E4%B8%B4/" target="cdt-mirror">【立此存照】避带鱼讳的时代已来临</a>
-</h2>
-<p><blockquote><p><a href="http://www.weibo.com/1992226647/Cuh2AbVtx">@朱怀素</a>： 俺被周带鱼举报了，还扣了二分。。。牛！逼！</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/76bef757jw1euqnso51r0j20dc0m8ado.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/76bef757jw1euqnso51r0j20dc0m8ado.jpg" alt="76bef757jw1euqnso51r0j20dc0m8ado" width="400" height="666"></a></p>
-<blockquote><p><a href="http://weibo.com/n/%E5%8C%97%E6%96%97%E4%B9%A6%E7%94%9F?from=feed&loc=at" target="_blank">北斗书生</a>:今天一口气举报了数百名说带鱼的，野生的太伤人了 <a title="http://service.account.weibo.com/index?type=6&status=0&key=%E5%91%A8%E5%B0%8F%E5%B9%B3&page=1" href="http://t.cn/RLjMgqN" target="_blank"><em>网页链接</em></a></p></blockquote>
-<p><strong>2015年8月4日，周小平同志在新浪微博举报记录截图：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC01.png" alt="周带鱼01" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC02.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC02.png" alt="周带鱼02" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC03.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC03.png" alt="周带鱼03" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC04.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC04.png" alt="周带鱼04" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC05.png" alt="周带鱼05" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC06.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC06.png" alt="周带鱼06" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC07.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC07.png" alt="周带鱼07" width="535" height=""></a><strong><br>
-以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://www.weibo.com/1628920082" target="_blank">墨客博浪行</a>：主动对号入座？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://www.weibo.com/bluecq" target="_blank">不死鸟之火舞</a>：明明是养殖的，说野生那就是人身攻击<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
-<p><a href="http://www.weibo.com/3982303416" target="_blank">旗袍6</a>：回复<a href="http://weibo.com/n/qizhy_?from=feed&loc=at" target="_blank">@qizhy_</a>:杂交的不假，但人家是御膳房养殖的嘛，都成精成妖了，还不准人家咬人嗦？那御膳房养它做啥子嘛？难不成真的要“奸”“煎”了？<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p>@十年砍柴:靠。带鱼莫非也要避讳？</p>
-<p>@爵爷府小宝：新浪官方认可并将某称呼就是某人的代号。看起来博主输了两分，实际上新浪把一坨黄亮亮的泥巴糊到某人的脸上了</p>
-<p>@大咕咕咕鸡: 小平同志这是终于认祖了吗，喷了！当代生活的残酷性，一个活生生的人，在话语的凝视下活活被建构成一条带鱼</p>
-<p>@方便卫生起效快：吃包子就得就带鱼，这是星辰大海套餐</p>
-<p>@一头小活猪: 说包子全家突突突。</p>
-<p>@娮之凿凿：每个人都骂他带鱼，有本事他全举报了</p>
-<p>@holicchen：带鱼怎么能是野生的呢，人家是有主子滴。</p>
-<p>@大炮小白兔：又逗了~~~说个带鱼就人身攻击了？脊索动物门 脊椎动物亚门 硬骨鱼纲 鲈形目 带鱼科 我说错没？Kingdom: Animalia Phylum: Chordata Class: Actinopterygii Order: Perciformes Family: Trichiuridae Genus: Trichiurus Species: T. lepturus ，这再举报再扣分咱就木话说了~~</p>
-<p>@战争史研究WHS: 我觉得是从带鱼（硬骨鱼纲鲈形目带鱼科）进化为皇带鱼（辐鳍鱼纲月鱼目皇带鱼科）了[笑cry]</p>
-<p>@张不叁_：因为他讳说“带鱼”以及一切近于“带”、“鱼”的音，后来推而广之，“皮带”也讳，“黄花鱼”也讳，再后来，连“绳”、“线”都讳了。谁知从此种花家的闲人们便愈喜欢玩笑他，一见面，他们便假作吃惊的说：“哙，吊起来了！”“原来有保险丝在这里！”……</p>
-<p>@站住大和尚：笑死我了！活该！人家是乾清宫行走黄马褂带鱼！下回直接冲过来咬你！</p>
-<p>@刘步尘：你说带鱼有野生的，等于说某人是没爹的野孩子，当然要扣分，[嘻嘻]，中国已进入带鱼惹不起时代，你要与时俱进</p>
-<p>@爷超疯: 野生活带鱼算侮辱性词汇？</p>
-<p>@周泽律师: 估计以后鱼类都不让提呢。</p>
-<p>@Meine_excalibur：@周小平同志 来看看评论呗，煞笔</p>
-<p>@睡雾狮medal：今晚赶紧煎条带鱼吃，压压惊 @周小平同志</p>
-<p>@奥六马：带鱼不让说，鲳鱼让说吗？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E9%BB%9B%E7%8E%89.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E9%BB%9B%E7%8E%89.png" alt="周黛玉" width="535" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%91%A8%E5%B8%A6%E9%B1%BC.png" alt="周带鱼" width="535" height="232"></a><br><em>（新浪微博“周带鱼”和“周黛玉”搜索结果截图）</em></p>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/">周带鱼</a>专题</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%81%BF%E5%B8%A6%E9%B1%BC%E8%AE%B3%E7%9A%84%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%9D%A5%E4%B8%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E9%B1%BC%E4%BE%AF/?category=18271" rel="tag">长鱼侯</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%BE%AE%E4%BF%A1%E7%8E%B0%E5%B0%81%E5%8F%B7%E6%BD%AE-%E7%96%91%E4%BC%BC%E6%95%B4%E9%A1%BF%E8%B0%A3%E8%A8%80/" target="cdt-mirror">翻墙 | 微信现封号潮 疑似整顿谣言</a>
-</h2>
-<p><div dir="ltr">新榜根据业界反馈信息获悉，8月3日晚间，微信公众号惊现封号潮，不少十万级大号被封，理由多为“谣言”，据此推断，此次封号极有可能是微信官方整顿谣言的生态优化行动。</div>
-<div><a href="http://4.bp.blogspot.com/-7jrF6m7g3Ls/VcBqMynJ0HI/AAAAAAAACdM/T3IIgeH2r9Q/s1600/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25B0%2581%25E5%258F%25B71.jpg" target="_blank" rel="nofollow"><img src="http://4.bp.blogspot.com/-7jrF6m7g3Ls/VcBqMynJ0HI/AAAAAAAACdM/T3IIgeH2r9Q/s640/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25B0%2581%25E5%258F%25B71.jpg" alt="" width="512" height="640" border="0"></a></div>
-<div></div>
-<p>据有关运营者反映，许多公司化的微信运营团队有四五个号同时被封，而且许多账号在之前没有违规封号的情况下，第一次就被直接封号一个月，此举不难看出微信重拳打击谣言的决心。</p>
-<p>除了封号规模较大之外，另一方面的情况也备受注目：有运营者反映，微信官方通知中所列举导致封号的文章有的是一年前发布，有的是未发布的素材，甚至有人反映所涉文章和素材都早已删除。</p>
-<div><a href="http://4.bp.blogspot.com/-LZei_N06yJ0/VcBqM1xnH3I/AAAAAAAACdQ/Dswh_7OtExw/s1600/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25B0%2581%25E5%258F%25B72.jpg" target="_blank" rel="nofollow"><img src="http://4.bp.blogspot.com/-LZei_N06yJ0/VcBqM1xnH3I/AAAAAAAACdQ/Dswh_7OtExw/s640/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25B0%2581%25E5%258F%25B72.jpg" alt="" width="433" height="640" border="0"></a></div>
-<div></div>
-<p>根据《微信公众平台服务协议》（以下简称“协议”），无论是否正式发布，在微信公众平台上制作、储存违法违规信息本身就可能受到制裁。根据协议第五条中关于信息内容规范的规定：</p>
-<p>5.1.1 本条所述信息内容是指用户使用本服务过程中所制作、复制、发布、传播的任何内容，包括但不限于微信公众帐号头像、名称、用户说明等注册信息及认证资料，或文字、语音、图片、视频、图文等发送、回复或自动回复消息和相关链接页面，以及其他使用微信公众帐号或微信公众平台服务所产生的内容。</p>
-<p>5.1.2 你理解并同意，微信公众平台一直致力于为用户提供文明健康、规范有序的网络环境，你不得利用微信公众帐号或微信公众平台服务制作、复制、发布、传播如下干扰微信公众平台正常运营，以及侵犯其他用户或第三方合法权益的内容。</p>
-<p>如果按照协议规定，后台涉及谣言的未发布图文素材是有可能被制裁的。但如果上图中运营者反馈信息属实，已经删除了发布消息和后台素材之后还是被封号，则让人疑惑。</p>
-<p>运营者主动删除图文消息应当视为认识到自身存在问题，主动消除不利影响。即使考虑到“谣言”已经造成了事实上的负面影响，但不问运营者的主动认错行为，一刀切封号，多少有些不近情理。</p>
-<p>网络谣言泛滥亟需治理，需要有关部门、平台方和运营者及用户多方合力而为。此前，微信通过“谣言粉碎机”公众号、辟谣大会，以及建立辟谣中心等措施，有效地打击了微信生态圈的谣言态势。</p>
-<p>有网友提议，参照原创版权库的做法，微信官方可以设立谣言内容库，将已证实的谣言内容纳入其中，在公众号内容未发出之前通过比对来提示运营者可能存在违规，或许可以更有效地从源头上遏制谣言的传播。</p>
-<p>源地址：http://mp.weixin.qq.com/s?__biz=MzAwMjE1NjcxMg%3D%3D&from=groupmessage&idx=1&isappinstalled=0&mid=207728902&scene=1&sn=aaf42f16f68f9b8363c5f3818a8ec995</p>
-<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html" target="_blank" rel="nofollow">订阅地址及社交帐号</a></div>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
-<hr><p><small>© 亚克蜥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%BE%AE%E4%BF%A1%E7%8E%B0%E5%B0%81%E5%8F%B7%E6%BD%AE-%E7%96%91%E4%BC%BC%E6%95%B4%E9%A1%BF%E8%B0%A3%E8%A8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">谣言</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%BF%9D%E5%8D%AB%E5%8D%81%E5%AD%97%E6%9E%B6-%E4%B8%AD%E5%9B%BD%E5%9F%BA%E7%9D%A3%E5%BE%92%E4%BB%AC%E6%AD%A3%E5%9C%A8%E8%81%94%E6%89%8B%E6%8A%97%E4%BA%89/" target="cdt-mirror">博谈网  | 保卫十字架 中国基督徒们正在联手抗争</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/shizi_1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/shizi_1.jpg" alt="十字架" width="550" height="310"></a></p>
-<p>（博谈网记者赵亮编译报道）据《今日基督教》8月3日报道，“中国的耶路撒冷”当地政府在过去两年里已从教堂建筑上拆除了数百个巨型红色十字架。现在，中国的新教徒和天主教徒们正在联合起来，把红色的十字架重新放回公众视线，虽然尺寸要小得多。</p>
-<p>在一个网上运动中，浙江省的教会领袖们呼吁众基督徒手工制作数百个小型木制十字架，把它们涂成红色，摆在家中或他们的汽车里。</p>
-<p>“他们每拆一个十字架，我们就会竖起来更多”，一位要求匿名的教会领袖对《卫报》表示。“我们甚至在考虑制作带有十字架图案的旗帜和衣服。我们会让十字架遍及整个中国。”</p>
-<p>（当局）拆除十字架的运动始于2013年，但去年夏天对基督徒的打击最为严重。数百个十字架被拆除，有时伴随着拆除整座教堂。</p>
-<p>基督徒们不时坐在他们的教堂前抗议，或在十字架前保护它。世界基督教团结会（CSW）报告说，2014年有100多人因抗议当局拆除十字架而被拘留或逮捕。另外38人在抗议期间遭到殴打或受伤。</p>
-<p>去年秋天，拆除十字架的行动减少，冬季似乎完全消失了，但今年春天又重新升温。5月份拆除了17个十字架。7月份又拆了10个.</p>
-<p>同样在5月份，中国政府发布了关于教堂十字架新的指导方针：它们必须是矮的，不得超过建筑立面高度的1/10。它们必须贴在建筑立面上，不得竖立在建筑物顶空。这些规则意味着所剩的大多数教堂十字架必须得拆除，它们通常是红颜色矗立在建筑物顶。</p>
-<p>浙江省温州市因为有一百万新教徒及大约30万天主教徒而被称作“中国的耶路撒冷”。从温州市天主教领袖们写的一封公开信来看，中国的基督徒们正在对这场运动失去耐心。</p>
-<p>“我们的教区一直很耐心，合情合理。我们一次又一次地展示了宽容，我们祈祷、沟通和观望，希望阴霾能散去”，这些领袖们写道。“但他们没有停止过。相反，他们已升级了这场运动，迅速出击十字架，那是爱与和平的象征。”</p>
-<p>“浙江省正在进行的这场强拆十字架和拆除教堂的运动已经对浙江省的天主教和新教教会产生了深远的负面影响”，世界基督教团结会首席执行官Mervyn Thomas说。“许多教会领袖耐心地多次尝试与地方当局去谈判和对话，他们领导的这些抗议和请愿是一个迹象，表明政府没有解决他们的问题。”</p>
-<p>因此，7月4日，一个教会的成员们举行了静坐，他们拿着标语，上面写着“举起十字架”和“保护宗教自由”。7月下旬，大约20名牧师在政府办公室外抗议。他们的横幅写着“维护宗教尊严，反对强行拆除十字架”。</p>
-<p>与此同时，一群基督徒维权律师已经联手为宗教自由而战，他们自称是“保护十字架的律师”。</p>
-<p>上周，16名新教徒被以“妨碍公务”及“非法经营罪”逮捕，但他们的律师称他们被捕是因为他们拒绝让当局拆除他们的十字架。</p>
-<p>天主教神学院教授陈开华神父在微博上要求中国各地的教会加入“安全、合法的非暴力抗命运动”。</p>
-<p>他写道，“明天你将会看到浙江到处都是十字架。”</p>
-<p><a href="http://www.christianitytoday.com/gleanings/2015/august/china-sees-red-christian-protest-hundreds-crosses-wenzhou.html" target="_blank">原文China Sees Red：Christian Protest Puts Hundreds of Crosses Back in Public</a></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%BF%9D%E5%8D%AB%E5%8D%81%E5%AD%97%E6%9E%B6-%E4%B8%AD%E5%9B%BD%E5%9F%BA%E7%9D%A3%E5%BE%92%E4%BB%AC%E6%AD%A3%E5%9C%A8%E8%81%94%E6%89%8B%E6%8A%97%E4%BA%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92/?category=18271" rel="tag">基督徒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E7%A7%8D%E4%B9%A6%E9%83%BD%E4%B9%B0-%E8%82%AF%E5%AE%9A%E6%9C%89%E9%97%AE%E9%A2%98/" target="cdt-mirror">【网络民议】这种书都买 肯定有问题</a>
-</h2>
-<p><p>@阑夕：BBC的记者因为在书店买了几本习的著作被警察拆包盘问……她在Twitter上吐槽：“难道是因为这些书没有人会购买，所以当我去买就显得很可疑么？”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5d098bccgw1euqk9xjkyqj20gg0j676y.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5d098bccgw1euqk9xjkyqj20gg0j676y.jpg" alt="5d098bccgw1euqk9xjkyqj20gg0j676y" width="440" height="513"></a></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p>蘑菇蘑菇蘑蘑菇菇：大家可能嫌纸太硬。</p>
-<p>囧纳森III：“傻逼才花钱买这玩意儿呢！这个洋鬼子一定有猫腻！”</p>
-<p>贫僧莫言：你们拿回去学这个治国，领导的老婆孩子往哪里送啊？</p>
-<p>貂锦胡尘：价值观不输出了？</p>
-<p>Threewatch：这种书都买，肯定有问题！</p>
-<p>小光君： 哈哈哈敌对势力要偷我强国之路的秘笈！</p>
-<p>陇上一哥：这是国家机密，里面有很多治国的计谋，岂能外人拿走，学了咋办？！</p>
-<p>专业起哄：绝世秘籍会给你带来杀身之祸的[生病]不信你买本笑傲江湖看看，拿秘籍的人都杯具了。</p>
-<p>lulingeorge：还有一种可能是：他们奉命监视，告诉不在现场的上司，外国人现在在买书；上司一听来了精神，就叫他们开包检查。</p>
-<p>lulingeorge：奉严令监视外国记者一举一动，战战兢兢唯恐出错；看到记者购买纸质文本，一下子毛骨悚然起来；基层警察，行动自主权、政策解释权、对监视目的的整体了解度很少，宁左勿右…</p>
-<p>kankeSKY：想把宝书带走！哼！那里那么容易！</p>
-<p>宋学渊律师：我们不出口。</p>
-<p>铜豌豆方：哈哈哈哈 你买这书不是脑子有病就是别后用心 肯定要查你啊</p>
-<p>十年砍柴：宝书被洋人买走，想干什么呀？当然会怀疑居心叵测。</p>
-<p>_根勇：三个不自信！</p>
-<p>闲人哈罗：想垄断梦？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E7%A7%8D%E4%B9%A6%E9%83%BD%E4%B9%B0-%E8%82%AF%E5%AE%9A%E6%9C%89%E9%97%AE%E9%A2%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF/?category=18271" rel="tag">治国理政</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%94%BE%E9%A3%8E%E6%94%BB%E9%98%B2%E7%81%AB%E5%A2%99%E6%8A%A5%E5%A4%8D%E4%B8%AD%E5%9B%BD-%E5%A4%AA%E8%BF%87%E5%88%86%E4%BA%86/" target="cdt-mirror">环球时报 | 美国放风攻防火墙报复中国 太过分了</a>
-</h2>
-<p><p><strong>原标题：社评：美放风攻防火墙报复中国，太过分了</strong></p>
-<p><strong>据纽约时报报道，奥巴马政府已决定就人事管理局数据库2000多万名美国个人信息被盗一事对中国进行报复。报道称美情报机构内部讨论的“最具创新性”的行动方案是：寻找一种能突破中国层层防火墙的方法，对中国实施警告。白宫官员匿名称：“我们需要有一整套手段来制定一个回应措施。”</strong></p>
-<p>美国政府认定人事管理局数据库遭到的黑客袭击不同寻常，规模和目标都非常大，但是美国情报机构至今并没有拿出什么确凿证据，它安给中国的罪名是莫须有的。</p>
-<p><strong>长城防火墙是由中国政府出资建立的互联网管理系统，如果美国网络部队公然攻击这一系统，其性质是极其恶劣的。这与黑客偷偷摸摸干违法的事有本质的不同，它将被视为美国国家力量对象征中国主权的目标发动攻击，后果将十分严重。</strong></p>
-<p>众所周知，网络黑客行动具有从攻击地点到作案手段的隐蔽性，显示发自中国的黑客攻击有可能来自第三国。美国对中国人、特别是有中国政府背景网络攻击的认定都是单方面做出的，不能作为其报复中国的合法依据。这是全世界都懂的道理。</p>
-<p>如果美国网络部队采取任何侵犯中国主权的行动，中国针锋相对地还以颜色是可以预见的。华盛顿不应有中方会对美方攻击忍气吞声、大事化小的幻想。</p>
-<p>有中国学者猜测，美国官员通过纽约时报发声，是意在向中方施压，为美方在9月份中美元首会晤时促使中方让步创造条件。即使是一个策略，美方威胁“报复中国”也应遭到回击。中国是大国，大国之间说话不能像美国对小国那样不讲规矩。美国有一分放肆，就需准备得到一分遭到蔑视的尴尬。</p>
-<p>中美不能停留在互放狠话上。北京与华盛顿看来还是要加强沟通，制定给双方都带来安全感的网络行为准则，避免一遭攻击就怀疑是对方干的，在乱纷纷的互联网上建立起一份战略稳定。</p>
-<p>其实纽约时报的报道透露出一个惊人信息：美情报官员对该报说，美在中国计算机网络安置了“几千个嵌入系统”，它们能对即将发生的袭击事件向美方预警。也许美方是想警告中国，但如果是那样的话，美方还有什么脸同中方谈黑客攻击？它事实上每时每刻都在对中国互联网进行系统性威胁。</p>
-<p>倒是中国应当要求美方就这几千个嵌入系统“是怎么回事”讲清楚，如果美国政府不讲，就应当要求对华有业务的美国公司讲。中国看来非常有必要对全网安全开展大检查，在关键位置上多使用国产设备，排除未来的险情。</p>
-<p>互联网是一个互动系统，这决定了在现实国际关系条件下，在网上谁的安全感都很难成为绝对的。美国尚惴惴不安、疑神疑鬼，可想其他国家、尤其是与美存在争执的那些国家是什么感受。美国毕竟是互联网结构的中心和互联网技术的上游，它对安全的追求应当适可而止。</p>
-<p>在传统社会里，大国对抗难免两败俱伤。在密切交织的互联网世界里，更难有一个绝对的胜利者。从纽约时报的报道看，奥巴马政府也担心它的报复行动会导致中美网络冲突升级。他们的这些担心是必要的。中美消受不起一场网络战争，这不仅是中方的忧虑，美国也应当把有关的一切全想清楚了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%94%BE%E9%A3%8E%E6%94%BB%E9%98%B2%E7%81%AB%E5%A2%99%E6%8A%A5%E5%A4%8D%E4%B8%AD%E5%9B%BD-%E5%A4%AA%E8%BF%87%E5%88%86%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%98%E4%BA%89/?category=18271" rel="tag">网络战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E8%A7%84%E5%88%99%E4%B9%8B%E9%97%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E8%BF%B7%E6%80%9D/" target="cdt-mirror">何清涟：习近平与规则之间关系的迷思</a>
-</h2>
-<p><p>最近，论及中国政治与习近平，“规矩”（或曰“规则”）一词出现的频率加大，对习近平与规则之间的关系之分析则莫衷一是。中共中央通报令计划不讲“政治规矩”，《世界日报》评称“这个‘政治规矩’词语首次在官方文告使用，带有习近平个人风格”；美国《民主》杂志发表《改革时代以后的中国》(China After the Reform Era)，说习近平“撕毁现有的规则，逆转很多党内的规范”；《纽约时报》的采访标题则是“习近平强势重塑中国政治规则”。</p>
-<p>那么，习近平究竟是党规的破坏者还是重建者？这得从中共政治文化中明规则与潜规则并存入手分析，方能破解这一迷思。</p>
-<p>中共政治文化：掌权者建立并任意捉弄规则</p>
-<p>英文中，规则、规矩都用rules表达，因此，上述三文其实都是对习近平近年所作所为的不同看法。</p>
-<p>习近平近三年主要就做了一件大事，集权。集权的重要手段就是通过反腐打击政治对手，清除其遍布党政军系统的党羽。这种做法到底是破坏中共的规则还是重建规则？弄清楚这点并不难，关键就是要了解中共政治文化中的规则与潜规则之间的关系，中共独裁体制游移于个人独裁与寡头独裁之间的变化、以及在变化过程中，谁掌握订立规则与解释规则的权力。</p>
-<p>如果观察自1942年以来的中共高层政治（此前有苏联因素与共产国际因素），大概可以表述为：从1942-1976年毛辞世，毛泽东是个人独裁，掌握订立规则、解释规则、并随时改变规则的权力于一身。邓小平及邓后的江胡时代，是寡头独裁体制。</p>
-<p>不管是个人独裁，还是寡头独裁，在明文公布的党章、党纪等明规则之外，还有一整套与明规则相互矛盾的潜规则，圈内人明白且运用娴熟，但绝不会在公开场合宣之于口。如果潜规则被别人点出来了，官媒通常也会一本正经地引用明规则而加以否定。之所以需要潜规则，是因为统治者或统治集团成员们有种种个人的需要，但却为明规则所不容，于是，违反明规则之事，有权力者但行无妨，只要大家彼此心照不宣，心照者，潜规则也，比如官员们以权谋私就是改革以来通行无阻的潜规则。</p>
-<p>有些潜规则延续已久，也可能变成明规则，例如中共历史上的高干特殊经济待遇，本来是潜规则，1950年以后便改成明规则了。但也有些潜规则因为声名狼藉，当局只能表面上否认其存在，比如家国一体的利益输送机制，以及刑不上现任常委的免罪“约定”等等。江胡以来，官场运行当中的种种潜规则广为流播，所谓“局地党内关系”已经“异化为帮派或人身依附关系”，以至于众多官员已经将入党升官发财、买官卖官兼容性视为半透明的正式规则了。</p>
-<p>习近平上任以来，在官场上强调许多条关于“不”的规则，其实，这些“不”原本就是中共的明规则，只是多年来这些明规则早已被潜规则取代；在这方面，习近平其实即没有建立多少新的明规则，也没有取消多少旧的明规则，他所做的，无非是用原有的明规则对付无处不在的潜规则而已。</p>
-<p>党内谁可兴帮派？</p>
-<p>中共中央最近宣布了令计划的罪状，其中的关键词是令破坏了“党的政治规矩”，这是指令成立西山会，并与周永康合谋。与周合谋这点成为罪状易于理解，但让不研究中共党史的评论者困惑的是：令计划成立一个“西山会”，究竟犯了啥规则？多年来，评论中国政治时，中文评论中，这个派、那个帮几乎是分析中国政治脉动的出发点，站队正确与否几乎成了官员们升迁的生死线；西方世界的分析中，帮派的学术说法，即政治利益集团、利益链条、政治保护与被保护关系等，同样成为分析中国政治的出发点。</p>
-<p>以打击帮派为理由削除政治对手，算不算“撕毁与逆转党内的规矩”？认真考察，还真算不上破坏党的明规则。因为中共在所谓党内政治生活中，历来就强烈反对帮派，所谓“十一次路线斗争”中，不少就是以“打击反党集团”名义来清除政治对手。那场奠定毛泽东在党内最高领导地位的“延安整风”，其主旨就是“反对宗派主义”。毛泽东立下这规矩之后，终其一生，都以反对党内帮派为名，不断翦除那些让他不放心的同僚，决不允许在毛派之外还有别的政治派系。</p>
-<p>1966年8月毛在八届十一中全会讲的那段著名的《四言韵语·党外党内》，“党外无党，帝王思想；党内无派，千奇百怪”，并不是真要修改规矩，从此允许党内各派共存，而是要扶持群众组织造反派去打倒“党内走资本主义道路的当权派”。这句话后来作为最高指示在全国传播，其实，这话是1927年国民党清党打击中共时，陈独秀应瞿秋白所约而写的《国民党四字经》的前16个字，后面那段“以党治国，放屁胡说；党化教育，专制余毒”，因为正是中共写照，中共自然不会公开引用。</p>
-<p>为了避免再度发生文革，中共十一届五中全会通过了《关于党内政治生活的若干准则》，重申以民主集中制为主要内容的党内政治生活，规定要坚持集体领导，反对个人专断。党内关系出现异化。邓小平对党内圈子表示深恶痛绝：“党员要按照党的章程办事，遵守党的纪律，不能搞宗派主义，树山头、垒山头，或者站到这个山头、那个山头。”</p>
-<p>这一《若干准则》到底实施过没有呢？应该说，在平衡邓小平与陈云二人关系时有点作用，有陈云的牵制，邓小平这位太上皇多少受点牵制。但在邓小平对待胡耀邦、赵紫阳两位总书记时，就成了废纸。只保留了军委主席一职的邓小平这位“党内退休老人”可以两废总书记，利用的是政治潜规则，即军权凌驾于党权之上，枪杆子里面出党魁这条潜规则，中共高层彼此心照，于是假装不知道此潜规则为中共党章与《若干准则》所不容了。</p>
-<p>“家国一体的利益输送机制”属于哪类规则？</p>
-<p>江胡时期，中共新一代太子党成功进入金融、能源等行业，或私募，或掌国企，还形成了家国一体的利益输送机制这种分赃体制。红色权贵及第三、四代领导人的子弟亲属，公开瓜分国有资源与公共财，这一点既为中低级官员腐败起了极其恶劣的示范作用，也让中国人愤愤不平。</p>
-<p>应该说，这种分赃体制的形成，是中共政治的又一条潜规则，而这条潜规则同样与中共的党内明规则直接抵触，后者公然违犯明规则。</p>
-<p>早在1985年，中国党政两大最高权力机构就颁布了《中共中央、国务院关于禁止领导干部的子女、配偶经商的决定》，明确规定：“凡县、团级以上领导干部的子女、配偶，除在国营、集体、中外合资企业，以及在为解决职工子女就业而兴办的劳动服务性行业工作者外，一律不准经商。”“所有干部子女特别是在经济部门工作的干部子女，都不得凭借家庭关系和影响，参与或受人指派，利用牌价议价差别，拉扯关系，非法倒买倒卖，牟取暴利。”</p>
-<p>作为党内规则，这个决定从来就没有被废除，而是不断被重申、强调；中纪委网站刚开设时，这个文件就是中纪委公布的关于反腐败的第一个中央文件（如今已撤下，但国内其他网站上载有）。中纪委廉政理论研究中心在《关于防止利益冲突工作的调研》报告中称，仅从1979年至2011年，就有58次中纪委全会、110余项法律法规及政策涉及防止干部亲属官商利益关联内容。</p>
-<p>然而，反腐败的明规则管用吗？它的对头不在海外，而在党内；不在基层，而在顶端。早在邓小平时代，高层子女介入商业活动便蔚然成风，而坚决抵制“禁止干部亲属官商利益关联”这一明规则的，就包括邓小平、陈云等头号大佬，因为他们均放手让子女进入公司经商。当然，这些红二代们也不把禁止领导干部子女经商这样的明规则放在眼里，因为党内高层还有一条潜规则，即红二代本来就是“接班人”，享有特权理所当然。有邓小平、陈云暗中支持，党内高层很快就“共同分赃”这一潜规则达成了默契。中央大佬子女介入的公司，往往是国字号；各分管部门官员子女亲属的猎场，自然是老爸的辖地；如此这般运作之下，全党“服从”中央，就从北京到各地乡村自然形成了家国一体的利益输送机制。</p>
-<p>这种一家两制的分赃机制说明，在中国，极其恶劣的潜规则经常堂而皇之地破坏明规则；原来的明规则目标明确地要遏制腐败，而腐败的各级官僚却轻而易举地把明规则变成了一纸虚文。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E8%A7%84%E5%88%99%E4%B9%8B%E9%97%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E8%BF%B7%E6%80%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85%E6%B6%9F/?category=18271" rel="tag">何清涟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%B5%84%E6%9C%AC%E5%A4%96%E6%B5%81%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">自由亚洲｜中国资本外流意味着什么？</a>
-</h2>
-<p><p>英国《金融时报》中文网络版八月三号星期一发表评论，分析中国最近一年资本外流相比以往增大是否是人们对中国经济发展信息减弱的标志。</p>
-<p>中国外汇储备连续四个季度出现下滑，从2014年6月底达到近4万亿美元之后，已经减少了近3000亿美元。从悲观角度解读的人士认为，资本外流将把资本流动性从中国国内经济中抽走；从乐观角度分析，有分析师认为适度的资本外流表明中国放宽资本管制，放弃痴迷于积累外汇储备的重商主义。</p>
-<p>究竟孰是孰非？难道中国庞大的外汇储备一年减少不到10%就预示着中国经济的暴风雨即将来临？中国经济学家孙飞博士星期一表示，中国经济目前还处在转型和结构性调整之中，出现阵痛是不可避免的，资本外流一年达到2990亿美元没有必要大惊小怪，更没有必要就此认为中国经济发展未来前景不妙。</p>
-<p>“首先，中国外汇储备太多；第二，中国财力极其雄厚；第三，中国民间向海外投资和并购活动也很多。不容否认，最近中国股市的小股灾造成部分恐慌性资金外流的现象是存在的。然而，相对于中国的经济总量、外汇储备和GDP，这点资本外流不足为怪。中国经济发展只是放缓了，没有像以前那么高了。中国经济发展实际上还是很多突破点。这些突破点表现在更进一步的改革，更进一步的市场化和更进一步的开放。”</p>
-<p>《金融时报》星期一的评论说，中国仍然拥有全球最大的外汇储备，资本外流有很大一部分是中国政府刻意的政策选择，与恐慌性的投资者寻求退出中国市场不沾边。然而，目前在美国进行访问研究的原北京大学经济学教授夏业良博士星期一表示，资本外流的确预示着中国经济滑向熊市的境地，确实值得人们大惊小怪。</p>
-<p>“假如中国政府正式宣布完全开放资本项目，允许外汇向外自由流动，允许中国公民自由向海外投资，资本连续四个季度的资本外流使外乎储备出现下降就不值得大惊小怪。然而，目前的情况是，中国政府并没有完全放开资本项目的管制。例如，中国政府对居民向海外转移资金管制很严，每一位公民每年只能兑换五万美元的外汇。”</p>
-<p>夏教授认为，自从此轮股灾发生之后，越来越多的中国富人希望将财产转移到海外，中国国内的资本流动性已经明显减弱。在这种情况下，夏教授强调，现在不是有人，而是大多数人对中国经济发展的前景基本持悲观态度。</p>
-<p>“所以说，现在的情况应该说是中共执政已经到了一个危险期。说到危险期，过去中共最怕的是政权被颠覆。中共庞大的政权和国家机器被现在颠覆靠什么访民群体、靠什么某一个群体性事件或地方农民抗争是不可能的，最有可能的反倒是经济危机的发生。”</p>
-<p>近期中国股市的过山车式行情和中国政府史无前例的救市行动使不少海内外的人士和机构开始担心中国经济的发展前景。不过，孙飞博士对中国经济发展前景持谨慎乐观的态度，认为中国经济发展未来处于一个次级高增长周期，在7%到8%之间，不再是以往的两位数，中国政府还有很多杀手锏促使中国经济发展。</p>
-<p>（记者：闻剑 责编：嘉远）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%B5%84%E6%9C%AC%E5%A4%96%E6%B5%81%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BB%A4%E8%AE%A1%E5%88%92%E4%B9%8B%E5%BC%9F%E6%BD%9C%E9%80%83%E7%BE%8E%E5%9B%BD%EF%BC%8C%E6%88%96%E5%AF%BB%E6%B1%82%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4/" target="cdt-mirror">纽约时报｜令计划之弟潜逃美国，或寻求政治庇护</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/04defector-web-articleLarge.jpg" alt="04defector-web-articleLarge" width="551" height="367"></p>
-<p>Max Whittaker for The New York Times</p>
-<p>令完成在加州内华达山脉山脚下的房产，价值250万美元。</p>
-<p>加州卢米斯——中国正在要求奥巴马政府遣返一名逃往美国的有政治背景的中国富商。熟悉这一案件的几位美国官员表示，如果他寻求政治庇护，将可能成为中国人民共和国历史上最具破坏力的叛逃者。</p>
-<p>商人令完成出逃事件，加剧了本就紧张的中美关系。习近平主席将于今年9月对美国进行<a href="http://www.nytimes.com/2015/02/12/world/asia/china-president-xi-jinping-state-visit-to-us.html" target="_blank" rel="nofollow">国事访问</a>，这将是他上任以来的第一次，但两国在诸多议题上都存在分歧，包括<a href="http://www.nytimes.com/2015/06/05/us/breach-in-a-federal-computer-system-exposes-personnel-data.html" target="_blank" rel="nofollow">美国政府数据的大规模网络失窃</a>，和<a href="http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea.html" target="_blank" rel="nofollow">中国咄咄逼人的领土主张</a>。</p>
-<div>
-<div>
-<h4>令完成是令计划最小的弟弟，后者在中国多年担任相当于美国白宫幕僚长的职务，以中央办公厅主任的身份掌控着中国共产党的核心部分。在习近平作为其主要举措推出的一场反腐败运动中，令计划是职位最高的落马官员之一。</h4>
-</div>
-</div>
-<p>几位美国官员和令完成如今在美国的隔壁邻居说，令完成避开中国当局，已来到了美国。产权记录显示，令完成在内华达山脉脚下拥有一座面积为7800平方英尺（约合725平方米）的住宅，他之前从一名专业篮球运动员那里以250万美元（约合1550万元人民币）的价格将之买下。</p>
-<p>几位官员表示，最近几个月，中国政府一直向奥巴马政府施压，要求遣返令完成。几位官员都不具名，以方便他们公开讨论这一敏感外交问题。这一问题已经让美国国土安全部(Department of Homeland Security)和中国公安部于今年4月达成的一项协议变得更加复杂。</p>
-<p><a href="http://www.dhs.gov/news/2015/04/12/fact-sheet-meeting-between-us-secretary-homeland-security-jeh-johnson-and-chinas" target="_blank" rel="nofollow">这项协议</a>是美国国土安全部长杰·约翰逊(Jeh Johnson)此前访问北京时与中国达成的。依据协议，美国可以遣返目前需要被驱逐出境的数以万计的中国人，他们当中有些人目前身处美国拘留机构。作为回报，美国将帮助中国追捕逃到美国的富有逃犯，这些人有可能也违反了美国的一些法律。</p>
-<p>几位美国官员确认，令完成目前身在美国，但他们不愿公开表示令完成是否已经申请政治庇护，也没有透露他的具体下落。因有隐私法的限制，处理政治庇护案件的美国国土安全部也不对具体案件置评。</p>
-<p>截至目前，奥巴马政府没有同意北京对令完成的遣返要求，而令完成有可能叛变，这或将成为情报领域的一项非凡成就，对中国造成打击。上个月曾有消息传出，有一些电脑黑客<a href="http://www.nytimes.com/2015/07/10/us/office-of-personnel-management-hackers-got-data-of-millions.html" target="_blank" rel="nofollow">盗取了数以百万计的美国政府工作人员和承包商的人事文件</a>。几位美国官员已经表示，他们几乎可以确定，是中国政府实施了这一数据盗窃行动。</p>
-<p>中国外交部没有回应时报通过传真发出的针对令完成案件的采访请求。美国白宫、国务院和国土安全部的发言人也拒绝置评。</p>
-<p>曾被人用来在加州联系令完成的三个号码都带有达拉斯地区的区号。据说英文很差的令完成没有回应时报用中文短信发出的采访请求。上述三个号码有两个已停机，另一个无人接听。</p>
-<p>令完成的财富和家族地位使他可以自由游走于中国精英阶层的各个圈子里。他可能掌握着有关习近平现在和从前的亲信官员的令人不安的信息。</p>
-<p>专攻中国情报的前美国中央情报局(Central Intelligence Agency)分析师克里斯托弗·K·约翰逊(Christopher K. Johnson)说，中国领导层可能想让令完成帮助起诉他的哥哥令计划。他还表示，他们想阻止令完成把自己掌握的有关中国政治的信息“宝藏”交给美国官员。</p>
-<p>“中国领导层会非常想抓到这个人，”目前供职于华盛顿国际战略研究中心(Center for Strategic and International Studies)的约翰逊在接受电话采访时说道。“毫无疑问，他手上拥有得到大量有趣信息的渠道。”</p>
-<p>虽然目前尚不清楚令完成知道多少事情，不过共产党在提到他的哥哥令计划的行为时，透露了一些引人好奇的线索：中共称其腐败是家族行为。上个月，中共<a href="http://www.ccdi.gov.cn/jlsc/201507/t20150721_59485.html" target="_blank" rel="nofollow">宣布开除</a>令计划党籍，并移交司法机关处理，说他“本人或通过家人收受巨额贿赂”。令计划是前国家主席胡锦涛的忠实下属。</p>
-<p>令计划现年58岁。1980年代，他在胡锦涛主管的共青团里节节高升，并最终在1999年到2012年间担任中共中央办公厅副主任和主任。他是胡锦涛的私人秘书，也是关系最亲密的部下，他的职位拥有极大的实权：可以指挥保护高层领导人的警卫，在顶层人事任命上拥有相当大的发言权，并且在政策的执行中起着关键作用。</p>
-<p>“这真的是整个系统的神经中枢，是权力运作的精髓，”波士顿大学(Bosten University)帕迪全球研究学院(Pardee School of Global Studies)研究中国政治的傅士卓教授(Joseph Fewsmith)评价令计划之前的职位时说。</p>
-<p>令计划本来有望跻身中共中央政治局。自1942年以来，除他之外的所有中办主任，后来都进入了政治局，其中包括原总理温家宝。</p>
-<p>但在2012年3月18日，令计划的儿子驾驶一辆黑色法拉利在北京发生车祸，因此丧生。车中有两名女性，其中一人死亡。</p>
-<p>令计划<a href="http://cn.nytimes.com/china/20121205/c05crash/" target="_blank" rel="nofollow">对该事故的拙劣掩盖</a>，在一定程度上导致了他在政坛失势。他未能进入政治局，而是被降职到了一个没那么重要的职位。2014年12月，他正式受到腐败调查。</p>
-<p>但针对令计划的腐败调查远远超出了法拉利撞车事故，他的弟弟令完成在其中可能扮演了重要角色。</p>
-<p>作为一名高层官员，令计划的举动受到监控。但他弟弟是一名普通公民，受到的限制要少得多。声誉颇高的中国媒体<a href="http://china.caixin.com/2014-11-26/100756012_1.html" target="_blank" rel="nofollow">财新报道称</a>，令完成是一家总部在北京的投资公司的老板，他借此取得巨额财富。该公司在恰当的时机对一些企业做出投资，这些企业后来成功上市，为该公司带来了2.25亿美元的收益。房产记录显示，他利用加利福尼亚的一家公司购买了卢米斯的一栋住宅。除此之外，一家与该公司地址相同的公司，至少还拥有两个高尔夫球场，其中一个在卢米斯附近，另一个在内华达州卡森市。</p>
-<p>令完成是中国方面要求遣返的、身在美国的数名中国公民之一。两国建立了一个讨论此类案件的渠道，称为“中美执法合作联合联络组”(U.S.-China Joint Liaison Group on Law Enforcement Cooperation)，中方时常通过这一渠道就他们的案件向奥巴马政府官员施压。</p>
-<p>中国政府今年早些时候<a href="http://cn.nytimes.com/china/20150518/c18fugitive/" target="_blank" rel="nofollow">公开发布了一份</a>据信身在美国的外逃人员的名单。据信化名王诚或杰森·王(Jason Wang)、现年55岁左右的令完成，却不在这40名外逃人员之列。可见高层领导人认为他的案件多么敏感。</p>
-<p> 司法部发言人马克·雷蒙迪(Marc Raimondi)说，司法部“已多次表明，对那些中国想要的逃犯，如果他们在美国被指控洗钱或其他刑事犯罪的话，本部门将积极大力地对他们提起诉讼。”</p>
-<p>但他补充说，“仅仅提供一个名单是不够的。”雷蒙迪说，司法部敦促中国提供证据。</p>
-<p>房地产记录显示，2013年底，令完成用王诚的名字与李平一起，在卢米斯的一个封闭式住宅小区，从美国全国篮球协会球员本诺·尤德里(Beno Udrih)手中卖下一套房子，中国新闻媒体将一位与李平同名的中国国有电视台前主持人指认为令完成的妻子。</p>
-<p>令完成在卢米斯的邻居雷·马特森(Ray Matteson)及妻子很快就与隔壁这对夫妻交了朋友，这对夫妻自我介绍叫杰森和简·王(Jason and Jane Wang)。马特森夫妇曾至少三次邀请他们到家中吃饭或喝饮料。令完成是带着礼物去的，有一次送给马特森夫妇的是令氏老家山西产的<a href="http://detail.1688.com/offer/44688631597.html?spm=a261b.2187593.1998088710.26.M6Yrco" target="_blank" rel="nofollow">一瓶白酒</a>，还有一次送的是<a href="http://www.wine-searcher.com/find/beaulieu+bv+maestro+collection+cab+sauv+ranch+two+rutherford+napa+valley+county+north+coast/2009" target="_blank" rel="nofollow">两大瓶</a>加利福尼亚州的葡萄酒。</p>
-<p>马特森夫妇说，他们的邻居对令家卷入高层政治斗争、令氏的两个哥哥被逮捕或侄子死亡等事，从未透露出任何暗示。</p>
-<p>“在我的脑海里，他毫无疑问地是个绅士，”马特森说，他和另一位在卢米斯见过杰森·王的人证实，杰森·王与被中国媒体称作令完成的男子是同一人。但他们两人都没有把中国电视节目前主持人李平的照片认作是自我介绍叫简·王的女子。</p>
-<p>令完成会给自己的隔壁邻居发短信。他的英语不好，所以他经常使用表情符号，比如一个竖起的大拇指、或一个笑脸。他会把他认为可笑的视频链接发给邻居，还向邻居咨询过从哪里可以找人来清洗房子的窗户。</p>
-<p>马特森说，自从去年10月以来，他从未见过令完成，当时这两对夫妇在马特森家里一起吃了晚饭。但是，如果令完成躲藏在美国的话，维持加州房产的平凡琐事把他拴在了卢米斯，他需要支付业主协会会费，还需要雇园丁来保证房子周围的灌木和草坪有人修剪。</p>
-<p>马特森与令完成最后一次联系是在5月，当时，令完成房子的报警系统被激活，保安公司让马特森与令完成联系一下，以获得进入令家房子大门的密码。</p>
-<p>马特森夫妇说，他们在社区里从未看到过任何异常活动，只是几个月前来了几个国土安全部的官员，他们说，他们在试图联系令完成。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Clipboard02_154.jpg" alt="Clipboard02_154" width="445" height="251"></p>
-<p>令完成目前的签证身份无从可知。国土安全部下属的美国公民及移民服务局(U.S. Citizenship and Immigration Services)发言人克里斯托弗·本特利(Christopher Bentley)说，办理庇护案件通常需要一到三年的时间。他说，在案件办理期间，寻求庇护者被允许合法留在美国。</p>
-<div>
-<p>傅才德(Michael Forsythe)是《纽约时报》记者。</p>
-<p>Mark Mazzetti自华盛顿报道。</p>
-</div>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BB%A4%E8%AE%A1%E5%88%92%E4%B9%8B%E5%BC%9F%E6%BD%9C%E9%80%83%E7%BE%8E%E5%9B%BD%EF%BC%8C%E6%88%96%E5%AF%BB%E6%B1%82%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E5%88%BA%E5%88%80%E4%B8%8D%E4%BC%9A%E5%B8%A6%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%B9%81%E8%8D%A3/" target="cdt-mirror">美国之音｜张欣：刺刀不会带来中国股市繁荣</a>
-</h2>
-<p><p>—— 论“恶意做空”罪名之荒谬</p>
-<p>除了少数阴谋论偏执狂外，谁都希望中国有一个繁荣健康的股市，包括股民，中国政府，以及西方国家。但不尊重经济规律就会事与愿违。</p>
-<p>最近中国政府与证监会为了阻止沪指下跌（其实是市场回调真实股价的一个正常过程），在这次“救市”中采取的一些措施的实际效果却是破坏中国股市，在法治、金融国际化、和改革上大幅倒退。</p>
-<p>政府采取的各种暴力救市手段中，最荒谬，最违规，最有害，也是最无效的“救市”手段就是司法恐吓做空的投资者，为此甚至创造一个“恶意做空”的罪名。摘录官媒新华网报道的两段如下：</p>
-<p>“公安部副部长孟庆丰会同证监会排查近期恶意卖空股票与股指的线索，…，证监会、公安部执法人员已进场对近日涉嫌恶意做空大盘蓝筹股的十余家机构和个人开展核查取证工作。（7月9日）”</p>
-<p>“证监会新闻发言人张晓军表示，根据交易所监控报告和投诉举报反映，证监会已组织稽查执法力量，重点针对7月27日集中抛售股票等有关线索进场核查。针对备受关注的一些大户集中抛售股票一事，张晓军表示，不排除存在恶意做空这种可能。证监会正组织力量对有关线索进行核查，一经查实，将严厉惩处。… 一位投资者曾于7月3日接到证监会核查电话，感到很意外，证监会向他询问了为何集中高买低卖一只股票，是否恶意做空等。（7月29日）”</p>
-<p>政府和证监会的司法恐吓做法，岂不等同于在市场上用刺刀来威胁交易者？其危害性质如下：</p>
-<p>第一是荒谬性。</p>
-<p>所谓“恶意做空”，既无客观定义，亦无法规法理依据。不管是买多还是卖空，如果违规违法，证监会应该追究执法。可这“恶意做空”以动机为理由的罪名就怪了。股民入场股市是为了赚钱投机套利，不是去捐钱爱国跟党走。股市中做空者有恶意嫌疑，股市做多者就算善意自愿捐钱？如果一个券商或者股民为了套利看跌去做空抛售股票，只要他不违规，有什么错？难道还要和当年文革那样，“腹诽”“企图发财”都能是罪名？</p>
-<p>即使有股票大鳄为套利集中资金做空打跌某股票，当天也最多跌停10％。如果那股票确实低过真实价格，第二天自有一大堆其它投机套利者会进来抄底抬高股价。如果说套利是恶意，那么市场机制的神奇就是靠投机者自利的“恶意”行为来达到了社会资源配置最优的结果。因此，政府要做的就是保护市场上每个人有这种自利恶意的自由，而不是去妨碍这种自由。</p>
-<p>第二是破坏性，将使中国股市萎缩而不是繁荣。</p>
-<p>自从人类历史开始商品交换，成就了经济和商业发展，靠的是市场上交易各方的自愿，没有靠刺刀逼在交易双方后面强买强卖的，不然就不叫市场而叫抢劫或者霸市。股市本来就是多空交易双方自由交换博弈的地方，政府职能本应是保护好自由交易的市场机制，现在反过来自己去破坏去做市霸。不要说你还想吸引外国资本建立国际金融中心，即使是连国内股民和真正有盈利潜力的国内公司如阿里巴巴，都会被这些做法吓得退出中国股市。</p>
-<p>第三是无效性和不可操作性。</p>
-<p>除非在股市全面禁止抛售股票或者干脆关闭股市，政府不可能盯在上亿股民券商或者账号屁股后面监管，告诉他哪个股票可以卖哪个不可以卖。经济学上叫做监管成本太高不可行或不可操作。事实上，证监会和公安部的所有机动人力连一两个大券商公司都监管不了。券商要赚钱，它每时每刻不停地在几千个上市公司股票里做买卖，你证监会公安部有人力有能力从早到晚监管和批准它哪一笔生意可作哪一笔生意不可做？证监会唯一可以硬做的就是在千万个卖空减持的大股东中随机抓一个典型武断定性处理。可结果必然是，既没有信服力也不会有遏阻力，受损的反倒是证监会自己的信誉、法治意识和监管执法能力。</p>
-<p>市场繁荣靠买卖双方以图利为目的的自由交易。市场的供求双方制衡可提高经济效率优化最终结果。如陈志武说，这次股市危机中，中国政府特别要感谢的反倒是做空的，因为他们拴住了泡沫疯牛，避免了未来更大的股市和经济危机。</p>
-<p>用司法恐吓股市中的买卖任何一方，如同用刺刀威胁强卖强买，不会带来中国股市的健康和繁荣。政府想出这类措施，反映了以为依靠命令、威胁和高压可以解决从政治到经济所有问题的错误领导思维方式。这种思维方式曾在毛领导下给中国带来过计划经济的失败和大跃进灾难。中国不应在来之不易的市场化道路上倒退。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E5%88%BA%E5%88%80%E4%B8%8D%E4%BC%9A%E5%B8%A6%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%B9%81%E8%8D%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AF%BC%E6%B8%B8%E7%81%AB%E7%88%86%E8%A7%86%E9%A2%91%E7%9C%9F%E7%9B%B8%E5%9C%A8%E6%AD%A4/" target="cdt-mirror">全叔读报 | 台湾女导游火爆视频真相在此</a>
-</h2>
-<p><p>昨天开始，一段台湾女导游号召大陆游客抵制康师傅的视频在朋友圈、微博疯传，视频中，女导游告诉全车游客，康师傅此前在台湾发生馊水油事件，全台正团结进行“灭顶行动”，直到顶新完全退出台湾。她还说，“康师傅在台湾产的馊水油，跟运到大陆贩售的馊水油，大陆是台湾56倍。但顶新集团态度是什么？康师傅说大陆14亿人，我怕你啊，大陆谁不吃我的方便面，谁不喝我的矿泉水，我无所谓啊，大陆就算10亿人不理我，4亿人支持我，我也发财了，它根本不在乎台湾市场。”</p>
-<p>针对这段视频，康师傅今日称系恶意中伤，已报案。女导游说的都是真的吗？不妨回顾下此事件。</p>
-<p><strong>女导游说对了：顶新因一年内三次涉入食安案，遭遇台湾民众全面抵制</strong></p>
-<p>为什么专门针对顶新，因为它多次涉案。</p>
-<p>第一次是2013年秋，10月18日，彰化检方和卫生部门查出“大统长基食品公司”的花生油没花生成分、橄榄油也没橄榄成分，且添加禁用物“铜叶绿素”。这些油卖给很多知名企业，顶新是其中一家，6年半共买进230万784公斤。顶新方面称：没自行混油，也未教唆混油，且自动存档、停产，多次主动外送检验，结果均为合格。但检方认为，顶新辩称不知实在难让人相信。彰化法院当年12月判“大统长基”负责人高振利16年徒刑，罚公司5000万新台币。有意思的是，法院不支持检方申请“没收20亿元犯罪所得”，法官认为：此举影响受害民众获赔，政府不宜“与民相争”。</p>
-<p>当时的舆论焦点在“大统长基”，且涉事知名企业太多，所以顶新非众矢之的。</p>
-<p>第二次是2014年秋，9月4日，台湾卫生部门在屏东县一家废气回收厂发现有人回收潲水、皮革厂废弃皮脂油、屠宰场废弃物，烹煮制成油品卖给下游强冠公司。公开信息显示：味全、香港美心、香港大家乐、7-11、85度等均是强冠客户。此即女导游视频中提到的“馊水油事件”。当日，顶新集团味全公司主动通报台北卫生部门，称旗下品牌使用强冠油，共15.6吨，并已封存，并发声明谴责供应商。味全此次也因主动通报免遭处罚。</p>
-<div><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajMoT7rqQMDUwlZhXJ9u1eV0qTs1er3ibnlfibEffEXVOibCmbmzbia1sicZtdZ4I5e20RS1glqQUq09UFQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="421" height="376"><p>强冠董事长喝自家油证清白</p></div>
-<div><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajMoT7rqQMDUwlZhXJ9u1eV0NIGe8tpDY9pb3Jiaqia2xIBMtIviaLib5KkMlv44ceBRGnEtIe2DkzISMQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="432" height="302"><p>下跪道歉</p></div>
-<p>“好事不过三”，没多久，顶新又出事了。2014年10月9日，台南地检署查出顶新味全集团旗下猪油厂正义公司，涉嫌向鑫好公司购买动物性饲料用油，并混掺入食用猪油。调查称问题油原料来自越南大幸福公司。随后，正义公司董事长魏应充被羁押、起诉，案件至今仍在法庭审理。</p>
-<p>一年不到涉三起案件，舆论瞬时“炸了”，台湾民众发起全面抵制顶新运动。企业、学校、艺人、消费者组织纷纷加入。</p>
-<p>台消费者文教基金会搞了款“抵制APP”，可一键检索顶新产品，如输入咖啡，就出现贝纳颂；有网友推出“抵制懒人包”，将顶新旗下所有产品列出供抵制参考，如贝纳颂、德克士炸鸡；企业界闻风也加入，华硕宣布，其员工餐厅全面下架顶新产品，SOGO百货宣布全台超市停止贩售顶新集团产品；教育界也不落后，台大、台湾政大宣布，不再接受来自顶新集团的奖学金，政大李蔡彦说，“良心比钱重要”。</p>
-<p><strong>女导游说错的：“运到大陆的馊水油是台湾56倍”查无证据</strong></p>
-<p>视频中，女导游说“运到大陆的馊水油是台湾56倍”，此一说法针对的应为“强冠公司卖馊水油事件”，不过据国家质检总局消息，初步核查，大陆没“全统香猪油”进口，并已要求各地暂停受理强冠下游235个用户产品的报检。后来，台湾大陆事务主管部门负责人称，有盛香珍等9项使用强冠公司劣质猪油的产品已输往大陆，并已通报。至于56倍一说，并无资料证明。</p>
-<p>针对越南饲料油事件，2014年10月22日，国家质检总局发消息称：经查询进口检验检疫记录，2013年至今，大陆没有进口过越南大幸福公司生产的食用和饲料用油脂。</p>
-<p><strong>女导游没说的：此事在台湾也有些争议，如舆论审判引发质疑</strong></p>
-<p>有人质疑“灭顶行动”有扩大化嫌疑，误伤很多没问题的产品。</p>
-<div><img src="http://mmbiz.qpic.cn/mmbiz/OS8pZTIyiajMoT7rqQMDUwlZhXJ9u1eV0dIapSbbZQ94qY0HBhOpxnhthLhwWfwUTpwOajmF8GccfvmLAVJysKg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="411" height="405"><p>顶新掌门人魏家成员</p></div>
-<p>还有人质疑抵制搞错了对象，当时还是台北市长参选人的柯文哲说，“到底是这家公司有问题还是台当局有问题，我内心还是充满疑惑”，“我个人非常反对，每次出事就抓一个人出来烧死，就像中世纪把女巫抓去烧死，我非常反对这种文化”，“加入抵制能解决问题吗？顶新出事当然有责任，也相信顶新在这件事情中占了最大责任。但台当局的角色在哪里？”</p>
-<p>事件中也不乏谣言传播，比如一些网友把30年前的“彰化米糠油事件”怪在顶新集团头上，该起事件造成上千人中毒，致皮肤病变，其惨状至今让台湾民众记忆犹新。有网友称肇事者就是顶新集团创始人魏家。新旧两事一联系，自然让舆论升温。后来，警方抓了一名传谣者，该网友坦承因一时气愤误信谣言。检察官表示，“纵使该集团因最近的油品事件而影响公司形象，也不意味该遭受跟它无关的事件指谪。” 最后，彰化地院对其判处拘役40天的处罚。</p>
-<p>除此之外，“饲料油事件”在进入法庭后也出现新情况，比如，台媒《中国时报》、《工商时报》等报道，彰化法院公布5月前往顶新屏东厂的检验结果，绝多大数重金属与黄曲毒素均未检出，总极性化合物只有6至8，检验数字显示：原料油非回收油、地沟油、馊水油、废弃油等劣质油。检方对调查提出质疑，此案还在审理中。厘清真相，还需要不少时间。</p>
-<p><strong>“灭顶运动”对我们有啥启示？</strong></p>
-<p>“灭顶行动”已产生了效果，比如，制作罐头的味全台中厂，生产线已减产3/4；去年10月15日，在丑闻被爆出后，康师傅股价跌幅超过10%，四个交易日蒸发122亿港币；康师傅财报显示，去年3季度，旗下方便面、饮用水、方便食品业绩均出现下滑。</p>
-<p>顶新觉得很冤，因为比起其它企业，他们更主动地公布了存在的问题，且不是每款产品都“有事”。</p>
-<p>全叔认为，误伤或多或少肯定有，但不能就此完全否定消费者行动的价值，因为在食品监管中，政府无论投入力量多大，总有滞后性，而走司法渠道成本非常之高，往往不能产生直接效果，这时，舆论作用才能“釜底抽薪”，“用脚投票”是最直接的惩处，更能敦促政府、企业。纵使舆论中有盲目非理性的东西，也不值得过分担心，媒体、司法机关、行政部门、独立机构不都可以发出“正确的声音”吗？相比之下，大陆消费者就太健忘了，当年蒙牛等诸多企业涉毒奶粉事件，虽业绩一段时间受影响，但并不妨碍其越做越大，成为行业龙头，连续赞助各种文娱活动，一切就像没发生过似的。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%A8%E5%8F%94%E8%AF%BB%E6%8A%A5-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AF%BC%E6%B8%B8%E7%81%AB%E7%88%86%E8%A7%86%E9%A2%91%E7%9C%9F%E7%9B%B8%E5%9C%A8%E6%AD%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%B2%9F%E6%B2%B9/?category=18271" rel="tag">地沟油</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B7%E5%B8%88%E5%82%85/?category=18271" rel="tag">康师傅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AC%E5%AE%89%E9%83%A8%E5%88%91%E4%BE%A6%E5%B1%80-%E6%B8%85%E9%99%A4%E7%BD%91%E4%B8%8A%E9%BB%91%E6%81%B6%E5%8A%BF%E5%8A%9B%E4%BA%8B%E5%85%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/" target="cdt-mirror">公安部刑侦局 | 清除网上黑恶势力事关国家安全</a>
-</h2>
-<p><p><strong>类似于“纳吧”的网上黑恶势力的实质是教唆青少年成为西方反华势力颜色革命的马前卒。意识形态领域的网络颠覆活动绝非一般性治安事件，社会各界要高度警惕，以必胜的信心与其进行长期性斗争，将依法治国落实到深层次和方方面面。</strong></p>
-<p>“纳吧”黑幕被揭开，暴露出网上存在若干股黑恶势力，教唆、利诱、胁迫、围剿和攻击卷入其中的青少年。究其实质，是要让青少年认同其反民族、反国家、反社会甚至反人类的政治观点和行动取向，与他们同流合污，成为动摇和改变这个国家性质的后续力量，成为西方反华势力颜色革命的马前卒和炮灰。</p>
-<p>一直以来，西方敌对势力就宣称要把颠覆中国的赌注押在青少年身上，押在中国的第三代、第四代、第五代人身上。我们不愿看到，但这是不争的事实——网上已经出现一些黑恶势力，有组织有计划有智囊有资金，不遗余力贩卖西方政治观点，唱衰中国前途，丑化中国文化，歪曲中国历史，抹黑中国道德，撕裂中国社会。其主要祸害对象，就是青少年。他们手段极其恶劣，欺骗、威胁、利诱、携裹；对不顺从者全力围剿攻击，再有不服，就到网下施以暴力。</p>
-<p>美国前国务卿希拉里明确提出要通过网络推动中国发生“颜色革命”。她曾在2011年公开表示，美国已经“奖励”出2000多万美元用于寻找途径突破“网络压制”，当年还将再投入2500万美元。香港“占中”的背后，就是西方通过网络的全力渗透。他们要把祸水引入内地。这已经对中国的国家安全造成了极大危害。</p>
-<p>对此，我们决不能掉以轻心。对于网络颠覆活动的苗头和显著表现，不能视而不见或者轻描淡写，认为这只是网上的正常聚集，把青少年被欺骗和携裹的严重现象看成一帮小孩子不懂事。甚至，网上斗争已经延伸到网下成为暴力事件，还认为只是普通的观点不合，没什么大不了，当成一般性治安事件看待。</p>
-<p>意识形态领域争夺青少年的斗争很严峻，但更严峻的，是看不到危险。露出的苗头已经很明显，我们还在众说纷纭。一些社会事件与意识形态安全息息相关，要从国家政治安全和国家总体安全的角度看待。习近平总书记指出，没有网络安全，就没有国家安全。对于网上斗争的艰巨性复杂性，我们必须马上统一思想，提高认识，来不得半点犹豫含糊。我们不能对特洛伊木马只是驻足围观，指指点点。</p>
-<p>北京大学张颐武教授说，“纳吧”宣扬很多极端思想的思路和ISIS宣传劝诱青少年的路径有很多相似。这些国际极端组织惯用的手法如果本土化，将极其危险。警方和社会各界都要高度关注，高度警惕。</p>
-<p>7月1日，《国家安全法》实施。该法明确指出，加强网络管理，防范、制止和依法惩治网络攻击、网络入侵、网络窃密、散布违法有害信息等网络违法犯罪行为，维护国家网络空间主权、安全和发展利益。同时，把维护社会主义文化前进方向和核心价值观作为国家安全的重要任务。7月6日，全国人大常委会对《国家网络安全法》征求意见。该法规定，任何个人和组织，不得利用网络从事危害国家安全、宣扬恐怖主义和极端主义、宣扬民族仇恨和民族歧视、传播淫秽色情信息、侮辱诽谤他人、扰乱社会秩序、损害公共利益、侵害他人知识产权和其他合法权益等活动。</p>
-<p>因网络引发的社会事件，判断和处理不仅要看表象，还必须把原因查清楚。治安、安全、司法、网信、工信、青少年权益保护等各方面都要依法主动介入。依法治国必须全面，法治不能只是湿层地皮儿，还必须落实到深层次和方方面面。</p>
-<p>“纳吧”被封，但其附着的黑恶势力成员并未伤筋动骨，已经转战其他地方。同时，类似“纳吧”这样的藏污纳垢之所还有很多，意识形态领域的网络颠覆活动依然活跃。依法治国的中国，决不能容忍这样的现象长期存在。我们必须组织相关部门全力进行摸底排查，并动员网民投诉举报。相关法律是健全的，相关部门守土有责，网民力量更是无比强大。为了国家安全，为了法律权威，我们必须开展一场斗争，清除通过网络进行意识形态颠覆活动的黑恶势力，确保青少年思想坚定跟党走，确保青少年的合法权益得到保障。</p>
-<p>清除网上黑恶势力，是清朗网络空间的先手棋，是网络空间斗争的开路机，更是事关国家安全的撒手锏。形势严峻，我们不可能一举而成，一蹴而就，斗争是长期性的。我们有必胜的信心，但对斗争的长期性和艰巨性要有充分的预期。不糊涂，不犹疑，发现一个打一个，坚决进行，久久为功。做到了这一点，才能从根本上消除青少年被洗脑和被利用的土壤，才能强化网络空间战斗力，也才能为国家安全奠定牢不可破的网络基石。</p>
-<p>（中国青年网评论员　刘塍岳）</p>
-<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/" target="_blank">文登爱国青年事件</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AC%E5%AE%89%E9%83%A8%E5%88%91%E4%BE%A6%E5%B1%80-%E6%B8%85%E9%99%A4%E7%BD%91%E4%B8%8A%E9%BB%91%E6%81%B6%E5%8A%BF%E5%8A%9B%E4%BA%8B%E5%85%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%81%B6%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">黑恶势力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 6天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%87%8C%E9%83%BD%E5%9C%A8%E6%8A%B5%E5%88%B6%E5%BA%B7%E5%B8%88%E5%82%85-%E5%92%8B%E5%9B%9E%E4%BA%8B%EF%BC%9F/" target="cdt-mirror">观察者网 | 朋友圈里都在“抵制康师傅” 咋回事？</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/8ece25cf942d1c1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/8ece25cf942d1c1.jpg" alt="视频截图" width="475" height="476"></a><p>视频截图</p></div>
-<p>视频<a href="http://video.weibo.com/show?fid=1034:baeccc6cef56a0168cb63797d97df51c" target="_blank">地址</a></p>
-<p>去年十月，台湾爆发“馊水油事件”，台湾各界掀起“灭顶运动”，顶新（即“康师傅”）集团及关联企业多名高层陆续被判刑。而近日，一则“台湾良心导游向大陆游客揭露康师傅惊天内幕”的视频在社交媒体中热传，抵制话题重新燃起。</p>
-<p>视频中，这位操着一口台湾腔，自称是导游的女子，向车上的大陆游客说道：“康师傅在大陆使用的馊水油数量是台湾的56倍。这个新闻大陆有报道吗？没有，但台湾知道。”女导游还表示，台湾有个行动叫“灭顶行动”，但顶新集团不怕，因为大陆有14亿人的市场。大陆人就算10亿人抵制，只要4亿人支持，顶新集团就发财了。</p>
-<p>对此，网友纷纷在微博朋友圈或微博中主动转发该视频，在表达愤怒之情并谴责康师傅的同时，质疑政府部门的失职。一些名人、微博大V相继转发视频表支持，@崔永元在今日凌晨转发视频，表示“大陆人都应该知道。”而台湾歌手黄安今早也发布微博，称康师傅被证实使用馊水油早就不是新闻了。黄安还表示，“顶新的背后是日本日清集团，同胞们吃一碗、小日本赚一碗，他能瞧得起人傻钱多的咱吗？”</p>
-<p>先来看看女导游说了什么。</p>
-<p>视频的开头，女导游就开门见山地控诉了“馊水油”事件的主角，即台湾顶新集团：“台湾这么重视‘食安’（食品安全）的地方，我们居然发生馊水油事件，而且是发生在这么大的厂商品牌，这都是顶新集团干出来的好事。”</p>
-<p>接着，女导游强调自去年台湾爆发馊水油事件以来，全台湾掀起一场“灭顶行动”。女导演表示，“各位现在在台湾，你会发现在各个便利店或小店，你是找不到康师傅的任何产品的。全台湾因为这件（馊水油）事件，非常生气，所以全台湾的市民正在团结地进行‘灭顶行动’，就是消灭顶新集团的意思。”</p>
-<p>话锋一转，女导游先是提醒大陆游客，康师傅在大陆使用的馊水油数量是台湾的56倍。接着又揭露顶新集团对台湾“灭顶行为”持无所谓的态度，称“大陆14亿人我怕什么，大陆人谁不吃我的方便面，谁不喝我的矿泉水和饮料。无所谓啊，大陆人就算10亿人不理我，只要4亿人支持我，我就发财啦。”</p>
-<p>女导游在视频最后表示这些内容自己是“逢大陆团必讲”，“我每一团的宣导，我能影响多少人我不知道，可是各位你们信不信，我们今天能一个人影响十个人，十个人再影响十个人，两岸同心齐力地把康师傅搞倒，绝对可以改善你们大陆的食安问题。因为这么大的企业都被你们弄倒了，你觉得小企业会不会收敛一点，能不能改善你们自己的环境？你们去想一想这个问题就好了。”</p>
-<p><strong>“康师傅”称已报警</strong></p>
-<p>对于此段视频造成的影响，康师傅今日也发表了紧急声明，康师傅在中国内地生产和销售的产品从未涉及近年来台湾发生的油品事件，台湾的所谓“馊水油”从未向大陆进口并使用过。“国家质量监督检验检疫总局和国台办分别于2014年10月22日和2014年10月29日正式发布澄清消息，证实康师傅在中国内地生产所使用的油品安全无虞。”以下为声明全文：</p>
-<p>针对近日网络中流传的“某台湾导游恶意中伤康师傅”的视频，康师傅严正声明如下：</p>
-<p>一、康师傅在中国内地生产与销售的产品从未涉及台湾近年来的油品事件。康师傅从未进口并使用台湾相关油品。康师傅在生产经营各环节均严格遵守国家相关法律法规和各项标准，严守食品安全底线。</p>
-<p>二、自2014年开始，康师傅已多次通过官方及媒体渠道进行事实澄清，国家质量监督检验检疫总局和国台办也分别于2014年10月22日和2014年10月29日正式发布澄清消息，证实康师傅在中国内地生产所使用的油品安全无虞。</p>
-<p>三、针对相关视频中的恶意中伤行为，康师傅已于第一时间向相关媒体平台进行举报，并已向所在地区警方报案，提请司法介入调查。</p>
-<p>四、针对个别自媒体社交账户持续煽动及散播谣言的行为，康师傅将按照国家针对“散播网络谣言”的法律规定，严肃追究其法律责任，坚决维护企业品牌名誉及合法权益。</p>
-<p>五、在此，康师傅强烈呼吁，社交媒体平台应加强对涉及食品安全信息的管理，勿使社交媒体成为造谣的利器、传谣的温床，并期盼社会各界共同维护健康和谐的网络环境。</p>
-<p><strong>台湾“地沟油事件”始末：</strong></p>
-<p>2014年9月14日下午，康师傅发布公告，确认该公司部分产品使用了地沟油作为原料的劣质猪油。不过康师傅也在这份公告中表示，在大陆制造和销售的产品并没有卷入台湾地沟油事件。</p>
-<p>“馊水油事件”爆发一个月后，顶新集团旗下企业以饲料油混制食用油又被曝光，再加上2013年11月在台湾地区曝出的橄榄油掺铜叶绿素事件，这家旗下拥有康师傅、味全等品牌的知名企业，一年竟连曝三起食品安全事件。随后，顶新宣布全面退出台湾油品市场。</p>
-<p>据东森当时的报道，包括澎湖、金门在内的全台22个县市政府通令所属机关学校停用抵制顶新所有产品。宜兰县长林聪贤就呼吁县民不买不吃不用顶新产品，台北市长郝龙斌更明确宣称，“要罚到倒闭”，而且“对主要的负责人更应该要科以刑责”。台北市政府教育局局长林奕华发布声明称，鉴于顶新集团及味全公司屡发食品安全重大违法事件，令消费者感到该公司没有诚信且质疑其质量管理能力。</p>
-<p>台“行政院长”江宜桦14日在“立法院”答询时表示，已交代“法务部”采取必要措施，在合法情况下扣押或冻结顶新和魏家的资产，以防顶新脱产影响消费者求偿。</p>
-<p>2014年12月，康师傅母公司顶新顶不住了，49亿卖101大厦股权。</p>
-<p>综合观察者网（作者徐喆）报道</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%87%8C%E9%83%BD%E5%9C%A8%E6%8A%B5%E5%88%B6%E5%BA%B7%E5%B8%88%E5%82%85-%E5%92%8B%E5%9B%9E%E4%BA%8B%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%B2%9F%E6%B2%B9/?category=18271" rel="tag">地沟油</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B7%E5%B8%88%E5%82%85/?category=18271" rel="tag">康师傅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 7天前</small>
 </p>
 <table>
     <tr>
@@ -702,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -712,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>

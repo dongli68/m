@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%88%B1%E5%9B%BD%E6%B2%A1%E5%95%A5%E4%BA%86%E4%B8%8D%E8%B5%B7/" target="cdt-mirror">博客中国｜罗伯特卡帕：爱国没啥了不起</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%BE%AF%E8%81%9A%E6%A3%AE1.jpg" alt="侯聚森" width="550" height="400"></p>
+<p>最近团中央微博把约架打输了的侯聚森同学封为“爱国青年”，引起天下大哗。我想，根本原因是团中央微博把“爱国”与“爱政府爱党”的概念搞混了。名不正，则言不顺，这才是大多数公共舆论对团中央微博表示质疑的原因。</p>
+<p>   中国大陆这些年思想界比较混乱，其中一个表现就是概念混乱。比如，搞不清什么是左，什么是右。把代表大资产阶级利益的极右翼的民族主义国家主义当成了“左”，荒谬至极；再比如，分不清什么是爱国，什么是爱政府爱党，把两者混为一谈。</p>
+<p>   因为概念不清，所以导致逻辑混乱，网上与网下的争论往往是鸡同鸭讲，各说各话，永远争论不出一个是非来。</p>
+<p>   爱国是什么？按照马克思主义的观点，在专制社会，在少数人统治多数人的社会，国家是暴力机器，是少数人统治多数人的工具，是少数人攫取多数人财富的工具，是少数人压迫多数人的工具。</p>
+<p>   正因为如此，毛才说，少数人的政府让少数人去爱吧，爱这样的国家，是对祖国的背叛。也正因为如此，列宁才说，爱国主义是流氓最后的遮羞布。德国的希特勒，日本的东条英机，中国的蒋介石，当年可都是喊爱国主义口号喊得最响的，事实上，他们都是代表大资产阶级利益的政治流氓。</p>
+<p>   马克思主义的国家观很有道理。不过，如果把马克思主义国家观里的“国家”换成“政府”的话，我会更加同意。</p>
+<p>   我认为，爱国是没啥了不起的事情，爱国跟爱家乡一样，都是绝大多数人类的自然情感，跟道德无关。一个人对生于斯长于斯老于斯的地方有着深厚的感情，这是非常自然的事情，是非常自然的情感，与道德一毛钱的关系也没有。</p>
+<p>   这样的情感，从小的地域来说，就是爱家乡，从大的地域来说，就是爱国。把这种自然流露的非道德的情感道德化，捧上圣坛，是政治流氓们的伎俩，是政治流氓们煽动民众，转移国内阶级矛盾，搞专制主义，维护既得利益的手段。当年的希特勒墨索里尼东条英机蒋介石等，都是这么干的。</p>
+<p>   一个人爱自己的家乡，是人类非常自然的情感。但是，一个人爱家乡的同时，他也可能祸害自己的家乡，做对自己家乡不利的事情。比如，有的人为了赚钱，在家乡建立严重污染环境的工厂。还有的人在家乡搞黑社会，横行乡里，欺压百姓，无恶不作。</p>
+<p>   但是，你说这样的人不爱家乡，也是唯心主义的观点。这些人可能跟那些不危害家乡的人同样爱家乡，那么，为什么一边爱家乡一边又祸害家乡呢？</p>
+<p>   根本原因是，爱家乡是大多数人类具有的情感，那些恶人也不例外，但是恶人往往不能遏制自己的欲望，为了赚钱而不择手段。</p>
+<p>   爱家乡的人，可能危害家乡。而极少数不爱家乡的人，比如，有的人因为讨厌自己的家乡，而永远离开了自己的家乡，这些人反而不会危害家乡。</p>
+<p>   爱家乡，就是一种人类自然的情感，与道德一毛钱关系也没有。如果有人用爱家乡来抬高自己，这样的人不是骗子，就是正准备干危害家乡的事，或已经做了危害家乡的事，而用喊爱家乡的口号，来掩盖自己已经在危害家乡的事实。</p>
+<p>   列宁说，爱国主义是流氓最后的遮羞布。从这个意义上来说，“爱家乡主义”也会成为那些祸害家乡的流氓最后的遮羞布。</p>
+<p>   爱家乡如此，爱国也是如此，爱国也是人类的一种再自然不过的情感。人们爱自己生于斯长于斯的这片土地，爱它的悠久历史，爱它的灿烂文化，爱它的勤劳朴实的人民，爱它的秀美壮丽的河山，这些都是绝大多数人类的自然情感。</p>
+<p>   离开家乡的人，在家乡以外，老乡见老乡，两眼泪汪汪，是这种自然情感的流露；离开祖国的人，到了国外，听到祖国的乡音，见到祖国的文字，都亲切得不得了，也是这种自然情感的流露。与道德无关，与道德八竿子也打不着。道德有强迫性，爱家乡与爱国家没有强迫性，不需要强迫。</p>
+<p>   爱家乡的人可能做祸害家乡的事情，同样，一个爱国的人，也可能做祸害国家的事情。</p>
+<p>   比如满清王朝的最高统治者慈禧太后，在她统治时期，签订了无数卖国条约，危害国家至深。难道她没有爱国的情感吗？我想，这是不符合事实的。</p>
+<p>   我相信，与一般百姓相比，她更爱这个国。但她为了满清贵族的利益，为了延续自己的反动统治，而不惜出卖国家的利益。在她身上，爱国的情感与卖国的行为是同时存在的。</p>
+<p>   再比如日本侵略中国时期的那些人数众多的汉奸，他们没有爱国的情感吗？我想也不是。他们是有爱国情感的，但同时他们也克制不了自己内心的升官发财的欲望，而去为侵略者效力。最大的汉奸汪精卫去日本治病，在得知自己将不久于人世之时，他还是要求把自己抬回国内，他希望死在自己的祖国，而不是日本。</p>
+<p>   像慈禧太后一样，在汉奸们的身上，爱国的情感与卖国的行为是同时存在的。</p>
+<p>   所以，爱国并不是什么高大上的事情，也不是什么道德，更上不了圣坛。爱国的人不一定不祸害国家，不爱国的人也不一定祸害国家。</p>
+<p>   爱国就像爱家乡一样，本来就是很普通很自然的人类情感，绝大多数人都会自然而然地拥有。而一些人故意把这种绝大多数人都有的自然情感道德化，神圣化，捧上圣坛。我觉得，这些人是居心叵测的，目的是煽动民族主义，把自己搞成爱国的代表，爱国的化身，搞专制主义。谁反对我的观点，谁就是不爱国，谁就是汉奸，行专制主义之实，以维护大资产阶级们的既得利益。</p>
+<p>    当年的日本法西斯与德国法西斯就是这么干的，把本来很自然的爱国情感道德化，神圣化，弄上圣坛。法西斯主义者把自己打扮成爱国的化身，谁反对他们搞对外侵略战争，谁就是国贼（即我们的汉奸）；谁反对他们搞法西斯专制主义，谁就是国贼；谁主张民主自由人权，谁就是国贼。</p>
+<p>   团中央微博把约架打输了的侯聚森封为“爱国青年”。我无法判定侯聚森内心是爱国或是不爱国，但根据爱国是绝大多数人拥有的一种自然情感来推测，我认为侯聚森是拥有这种情感的。</p>
+<p>   但这只是我的猜测，我不能肯定。我能肯定的是，根据侯聚森自己接受《大众网》采访时的表述，他对那些在网上讽刺党与政府的言论非常不满，而且还站在政府立场，认为“钉子户即使被枪毙也活该”，据此判断，我认为他是爱党爱政府的，这是确凿无疑的。</p>
+<p>   在侯聚森事件中，不仅团中央微博搞混了爱国与爱党爱政府的概念，即使侯聚森与他的父亲恐怕也是不清楚爱国与爱党爱政府之间的区别。侯聚森与他的父亲都认为，侯在网上的言论是爱国的，他是因为爱国而被打的。</p>
+<p>   显而易见，侯聚森被打之原因，并非爱国，而是因为爱党爱政府而与人发生争论。侯聚森在其微博上的自我介绍是“自干五”，而其实际身份为网评员，这个有其参加网评员培训的照片为证。网评员的工作就是站在党与政府的立场上说话，说好话，唱赞歌，引导社会舆论，歌功颂德。</p>
+<p>   如果团中央因为侯聚森被打，非要给他一个称号以示安慰与鼓励的话，实事求是的称号应该是“爱党爱政府青年”，而非“爱国青年”。正是因为团中央微博搞混了爱国与爱党爱政府的区别，名不正言不顺，才引发了网络那么大的争议。如果团中央本着实事求是的精神，授予侯聚森“爱党爱政府青年”的称号，估计也不会有以后的那么大的网络争议了。</p>
+<p>   而与侯聚森约架的另一方青年，他们就不爱国吗？没有确凿的证据，说他们不爱国是诛心之论，是唯心主义的，不是实事求是的。爱国就是一种很自然很普通的人类情感，大多数人都有。正如我推测侯聚森拥有爱国这种情感一样，我推测与侯聚森打架的另一方青年也是爱国的，也是拥有爱国这种绝大多数人类拥有的自然情感的。</p>
+<p>   正如我说侯聚森爱国，只是一种推测不能肯定一样，我说与侯聚森打架的另一方青年爱国也是一种推测，不能肯定。但我可以肯定的是，与侯聚森约架的青年或者对党与政府有意见，或者他们也爱党爱政府，但是看不惯像侯聚森这种五毛一味地歌功颂德的做法。</p>
+<p>   中国大陆自改革开放以来，由于只有经济体制改革，没有政治体制改革，缺乏民主与法治，一条腿走路，造成财富落入了极少数权力者或与权力者相勾结的人手中，贫富悬殊，腐败极为猖獗。这种情况下，说大多数人民还爱党爱政府，这不符合实际，是自欺欺人的。</p>
+<p>   人民对党对政府有意见，这是很正常的事情，人民要求改革要求严惩腐败，要求缩小贫富差距，要求共享经济发展的成果，也是很自然很正常的事情。人民的这种批评，这种意见，这种呼声，在网络时代，会反映在网上，这也是很正常的事情。</p>
+<p>   但无视人民的批评与意见，无视人民的各种呼声，动用网评员或五毛在网络上引导舆论，唱赞歌，歌功颂德，甚至对发表批评意见的网友恶语相向，动辄问候别人的家人，是不正常的，是违背了共产党全心全意为人民服务的宗旨的。</p>
+<p>   我认为，正是在这一背景之下，才发生了网评员侯聚森与其他网友在网上发生争论，进而导致网下约架打架斗殴的事件。团中央微博，违背实事求是的精神，搞不清爱国与爱党爱政府的区别，贸然授予侯聚森“爱国青年”的称号，是不恰当的，后果是很严重的。</p>
+<p>   即使侯聚森站在党与政府的立场发表了很多网上言论，但其用最下流的语言攻击网友，还发表“钉子户即使被枪毙都是活该”这种言论，甚至发生约架斗殴这种行为，这样的人到底是“爱党爱政府”，还是抹黑了党与政府的形象，也是值得商榷的。</p>
+<p>   这个事件发生之后，又有其他政治势力介入，如《大众网》，“国家安全文化与意识形态研究中心”，公安部的某部门微博，一些自称是左派的网站如《红歌会》等，这些势力如团中央微博一样，违背党的实事求是的精神，给侯菊森约架事件披上了一层爱国青年被打的外衣，声称要抓此次事件背后的黑手。</p>
+<p>   对于这些居心叵测的政治势力，我想引用小平同志在十一届三中全会上的报告里的一段作为回应：</p>
+<p>   “一听到群众有一点议论，尤其是尖锐一点的议论，就要追查所谓“政治背景”、所谓“政治谣言”，就要立案，进行打击压制，这种恶劣作风必须坚决制止。毛泽东同志历来说，这种状况实际上是软弱的表现，是神经衰弱的表现。我们的各级领导，无论如何不要造成同群众对立的局面。这是一个必须坚持的原则”。</p>
+<p>   目前的中国，腐败如此猖獗，官僚主义如此严重，贫富差距如此悬殊的情况下，大多数人民对党与政府是不满的，但这不等于他们反党反政府，不满与反是两个概念。大多数的人民是要求改革，尤其是政治体制改革，要求惩治腐败，要求缩小贫富差距的。</p>
+<p>   如果把侯菊森送上了“爱国青年”的圣坛，与之争论乃至约架的都是“敌对势力”；如果把发出批评与呼吁的人都打成“敌对势力”，那么，我想说，这样做，只会有利于腐败分子与权贵势力，而不利于党与政府自身。</p>
+<p>   目前改革又到了十字路口，何去何从，是听从民意，践行党的为人民服务与实事求是的准则，还是逆民意而行，恣意妄为，利用权力来任性，把所有不同意自己意见反对自己意见的人，都打成“敌对势力”，造成“道路以目”，你们自己选择！</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%88%B1%E5%9B%BD%E6%B2%A1%E5%95%A5%E4%BA%86%E4%B8%8D%E8%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%AF%E8%81%9A%E6%A3%AE/?category=18271" rel="tag">侯聚森</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC%E7%B2%BE%E9%80%89/?category=18271" rel="tag">爱国贼精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 13分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%85%B1%E5%85%9A%E6%8A%A5%E6%89%B9%E9%80%80%E4%BD%8D%E9%A2%86%E5%AF%BC%E4%BB%8D%E5%B9%B2%E6%94%BF%E5%BC%95%E5%8F%91%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 中共党报批退位领导仍干政引发网友热议</a>
 </h2>
 <p><p>中共中央机关报《人民日报》周一（10日）发文，批评有的领导干部在退位后仍不愿撒手，让新领导左右为难。</p>
@@ -594,26 +647,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E6%AC%B2%E5%B9%B3%E6%81%AF%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80%E6%BD%AE/" target="cdt-mirror">法广｜中共欲平息官员自杀潮</a>
-</h2>
-<p><div>
-<p>在一系列中共官员因受查而自杀事件发生后，中国最高检察院8月6日夜间发布8项禁令，禁令包括对导致官员自杀的办案人追究责任。此举被认为是中共当局意图遏制两年来的官员自杀潮。</p>
-</div>
-<div>
-<p>法新社8月7日报道指出，两年来，很多中国官员在习近平的打贪运动被撤职，官员自杀现象也随之飙升。据中国财新杂志今年一月报道，2012年以来，至少有50名中共官员“非正常死亡。”</p>
-<p>最近一起受关注的自杀案是中国第一重型机械股份公司董事长吴生富8月3日在其办公室被发现自杀身亡。吴生富自杀是在中纪委第11巡视组进驻一重专项巡视近1个月后发生的。</p>
-<p>中国最高检昨夜发布的八项禁令包括在办案过程中，受调查官员如因检调人员的违法行为或严重失职而自杀或受伤，办案者将受到降级撤职等处分。</p>
-<p>中国最高检的8项禁令：1，擅自处置案件线索、随意初查和在初查中对被调查对象采取人身限制、财产权利强制性措施的；2，违法使用监视居住措施 的；3，非法干涉涉案企业正常经营活动，插手工程建设、工程招投标，经济纠纷，越职办案，接受赞助、报销费用、吃拿卡要的； 4，违法处理查封、扣押、冻结涉案财物的； 5，阻止或妨碍律师依法会见嫌疑人的； 6，未在全程同步录音录像下进行讯问的； 7，刑讯逼供及其他非法取证的； 8，违法违规办案或严重不负责任造成嫌疑人脱逃、伤残、自杀或证人伤残、自杀的。</p>
-<p>以上8项禁令凸显中国打贪运动存在违法问题。而在法治和制度缺失背景下，中共官员到头来自己也难逃被“非法处理”的厄运。中国最高检在8项禁令后还说，因管理不善或指挥不当导致检察人员违反八项禁令的，将严肃追究领导责任。</p>
-</div>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E6%AC%B2%E5%B9%B3%E6%81%AF%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80%E6%BD%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80/?category=18271" rel="tag">官员自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E7%BA%AA%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">违纪双规</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -625,7 +658,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -635,5 +668,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>

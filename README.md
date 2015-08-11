@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r3bu1vl2semn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%8B%E5%BB%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E9%80%80/" target="cdt-mirror">王建：中国经济增长已出现“断崖式衰退”</a>
@@ -466,7 +466,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%AF%E8%81%9A%E6%A3%AE/?category=18271" rel="tag">侯聚森</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E6%8B%86%E8%BF%81/?category=18271" rel="tag">强制拆迁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%99%BB%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">文登爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E7%94%A8%E6%BC%AB%E7%94%BB%E6%8F%8F%E7%BB%98%E8%A2%AB%E5%88%91%E8%AE%AF%E7%BB%8F%E8%BF%87-%E7%BE%81%E6%8A%BC5%E5%B9%B4/" target="cdt-mirror">澎湃新闻 | 山西男子用漫画描绘被刑讯经过 羁押5年后获无罪</a>
 </h2>
@@ -754,7 +754,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E5%AF%BA/?category=18271" rel="tag">少林寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -776,5 +776,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97
                 <td></td>
                 
         
-        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>

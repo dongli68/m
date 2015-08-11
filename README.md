@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r3bu1vl2semn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BB%8A%E5%A4%A9%E9%81%93%EF%BD%9C%E6%8A%8A%E8%80%B3%E6%9C%B5%E9%83%BD%E6%8D%82%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%8A%8A%E6%99%BA%E5%95%86%E9%83%BD%E4%B8%A2%E4%B8%8A%E6%9D%A5/" target="cdt-mirror">今天道｜把耳朵都捂起来，把智商都丢上来</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/image.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/image.jpg" alt="image" width="575" height=""></a></p>
+<p>我永远忘不了2005年的那个午后，刚上大学的我在宿舍写现代汉语作业，室友用立体声音箱外放了一首歌，是mc.hotdog的《韩流来袭》，当那句“草泥马隔壁”铿然唱起时，我的笔差点掉在了地上，而室友则是一脸得意的表情，那种“土鳖没听过吧！哥比我们更早接触前沿文化”的优越感呼之欲出。在此之前，我只在新闻联播的批评名单里听过哈狗帮。我理了理思绪，仔细听了这歌词后心里默喊一句：草，真牛逼！就是不能火。</p>
+<p>但是如大家所知，后来的热狗与张震岳相遇了，颇似刘备遇孔明、干柴遇烈火，这两个非主流的乐手偶然碰到一起，推出《wake up》这张神专辑，high遍两岸三地，这是热狗的第一春、阿岳的第二春，并一举拿下18届金曲奖最佳国语专辑奖——在全台直播的金曲奖现场，二位台客对着台下喊，林志玲算什么、侯佩岑算什么，号召大家把衣服都掀起来、把奶罩都丢上来，把主持人侯佩岑逗得前仰后合，全场起立大合唱，坐在前排的台北文化局长 一张搞笑的扑克脸。看着网络直播的我只能艳羡：你看看人家的歌手，你看看人家的典礼，你看看人家的尺度，你看看人家的领导。</p>
+<p>这并不是低俗歌手热狗的巅峰。2014年2月，热狗还与张震岳、顽童同受中国奥委会邀请打造索契冬奥会主题曲， 创作《Super Duper Fly》。一个地下粗口说唱歌手眼看要成为国家名片。内地这出身的你告诉我有谁？彩铃时代唱《赚钱了》的吾酷？还是唱《东北人都是活雷锋》的雪村？哪怕是 去年因为《董小姐》火得一塌糊涂的宋冬野，也只是LIVEHOUSE火热，宣传部、文化部的领导是不会鸟这个民谣胖子的，主流卫视选角更是慎之又慎——请这帮嘴上没把门、没入过党的二流子做什么？要是他在台上唱出“射在墙上、床上、姑娘的肚子上”怎么办？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5d807254914f64995259bb0970850375_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5d807254914f64995259bb0970850375_b.jpg" alt="5d807254914f64995259bb0970850375_b" width="575" height=""></a><br>
+（这就是现场演出的尺度）</p>
+<p>所以，不要以为国内电影审查严格，音乐审查制度好歹宽松的，你就太naive了：还是十年前，他们就能把陶喆《太平盛世》里的《鬼》这一单曲删除，让台湾歌手周杰伦把《分裂》改为《离开》，也逼过陈奕迅《HHHM》必须给专辑取个国语名，E神团队万般无奈下只好取了个《好好好卖》的鬼名字。</p>
+<p>但这还不够，为了响应“接地气”、亲民意的号召，领导们决心把网络歌曲搬上春晚，以飨大众。但是又怕低俗怎办？为此真是煞费苦心：先是选了《香水有毒》这首 小三之歌，然后把“擦干眼泪陪你睡”改成“陪你醉”，不仔细听发现不了；《老婆老公我爱你》，后边接的不是“阿弥陀佛”而是“我的祝福保佑你”，唱歌的是 已经仙逝的姚贝娜和霍尊他爹火风仁波切！想象下：一个仁波切不说阿弥陀佛，而用祝福来保佑老婆！这是怎样的一种凌乱。纵贯线的年度金曲《亡命之徒》，审查 半天实在找不出毛病，最后觉得，妈的歌名是不是太消极了？来，整点正能量，于是改成了《出发》。保持我们文化的先进性、纯洁性，这是一件非常重要的任务。 如果只听过官方版的所有音乐作品，你上网后一定会发现好多新歌。</p>
+<p>今天，文化部突然要求，互联网文化单位集中下架１２０首内容违规的网络音乐产品，谁不下架从严查处。我看了一下这120首的歌单，既有《MLGB》这样的奇葩歌曲，也有《他们》这样的老牌民谣大作。而最让我惊讶的是，发表于13年前的一首民间流传的网络歌曲《大学生自习室》也赫然在列：一首教化大众长达十三 年的歌曲到头来被证明是低俗的、不应该来到这个世界上，是不是有一种第一大帮帮主乔峰被证明是契丹人的黑色幽默？</p>
+<p>十年前听《韩流来袭》，我被它的尺度震惊，但很快，但这尺度被草榴、东京热及层出不穷的领导干部不雅视频盖过。听歌还能听怀孕吗？约炮才行嘛！在一个包小姐名片乱飞，性信息满世界飞、领导满宾馆双飞的年代，连点开正能量的人民新华网都能看到丰乳肥臀的信息爆炸时代，我就不信听几首靡靡之音就躁动、低俗、勃 起、上街了。信息全封闭、只能听红歌的年代，对岸唱几曲邓丽君都能亡国，我们都恨不得让听到的人去洗耳朵；而在全世界的信息无壁垒的互联网时代，文化主管 部门还要帮着我们把耳朵捂起来——靡靡之音！不要听，不要听，千万不要听！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/image2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/image2.jpg" alt="image2" width="575" height=""></a><br>
+（龙应台的演讲）</p>
+<p>现在是什么时代？台前“文化部长”龙应台刚刚在香港书展这么讲：现在是二十一世纪了……是温柔倾听的时刻了。……一个人的记忆就是他的尊严，我们欠他一个真 诚的倾听吧？二十一世纪的香港、台湾、中国大陆，应该开启一个大倾听的时代，倾听自己身边的人，倾听大海对岸的人，倾听我们不喜欢不赞成的人，倾听前面一 个时代残酷烟灭的记忆。倾听，是建立新的文明价值的第一个起点。</p>
+<p>同样是管文化的，相比之下，我们怎么就那么不懂文化？让我们听了又怎样？放心，天塌不下来，正能量不会耗散，核心价值观自带三个自信属性，无法造成伤害的！ 真正差的作品根本无需禁止，听众会自动用记忆将其销毁；而真正好的音乐、电影、一切文艺，又岂是一纸禁令能灭绝的？它将被反复地以自己独有的形式，被倾 听、阅读、感受，并永远存在于我们的手机、硬盘、书架，存在于深深的脑海里。在众声喧哗的时代，你怕什么靡靡之音，在全民娱乐时代，你还不信兼听则明？这 些禁令将变得可笑又没有意义。</p>
+<p>最后，我要用黑名单上一首歌，也是本文的背景音乐里的歌词，来结束这篇同样无意义的文字：<strong>他们指向左/他们指向右/你我不能没脑子,闭眼随便过/睁眼将就活/我们的生活多美好。</strong>是的，要么听我们的，听120首歌曲在内的所有声音，即使耳朵捂起来，还是听得到；要么听他们的，闭眼随便过，睁眼将就活，生活多美好。</p>
+<p><em><strong>微信公众号：jintiandao1984</strong></em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/jintiandao1984.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/jintiandao1984.jpg" alt="今天道" width="255" height="255"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BB%8A%E5%A4%A9%E9%81%93%EF%BD%9C%E6%8A%8A%E8%80%B3%E6%9C%B5%E9%83%BD%E6%8D%82%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%8A%8A%E6%99%BA%E5%95%86%E9%83%BD%E4%B8%A2%E4%B8%8A%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E4%B8%89%E4%BF%97/?category=18271" rel="tag">反三俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD/?category=18271" rel="tag">闭关锁国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%8B%E5%BB%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E9%80%80/" target="cdt-mirror">王建：中国经济增长已出现“断崖式衰退”</a>
 </h2>
 <p><p>如果按照消费与工业物价走势，以及电力、运输和货币所表现出的经济运行态势，去年的实际经济增长水平可能已经“破5”，现价增长率更可能在去年四季度已经进入负值。</p>
@@ -200,7 +227,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ktv/?category=18271" rel="tag">ktv</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8D%E5%8D%95/?category=18271" rel="tag">名单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96/?category=18271" rel="tag">网络文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%90%8D%E5%8D%95/?category=18271" rel="tag">黑名单</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%88%B1%E5%9B%BD%E6%B2%A1%E5%95%A5%E4%BA%86%E4%B8%8D%E8%B5%B7/" target="cdt-mirror">博客中国｜罗伯特卡帕：爱国没啥了不起</a>
 </h2>
@@ -742,19 +769,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB-%E9%87%8A%E6%B0%B8%E4%BF%A1/" target="cdt-mirror">巴丢草 | 少林功夫——释永信</a>
-</h2>
-<p><p>@badiucao: #巴丢草 漫画 【少林功夫——#释永信】在党国的关怀下，顺我者和尚都让你三妻四妾，逆我者分分钟<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A%EF%BC%9A%E7%A1%AC%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6%E6%88%90%E7%BB%9F%E6%88%98%E7%A1%AC%E4%BC%A4/">烧掉你的十字架</a>。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CL3jU3pUEAAoqK0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CL3jU3pUEAAoqK0.jpg" alt="少林功夫释永信" width="480" height="689"></a></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB-%E9%87%8A%E6%B0%B8%E4%BF%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97%E5%AF%BA/?category=18271" rel="tag">少林寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%B0%B8%E4%BF%A1/?category=18271" rel="tag">释永信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -766,7 +780,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -776,5 +790,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%9E%97
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>

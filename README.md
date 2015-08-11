@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E6%8D%8D%E5%8D%AB%E7%88%B6%E8%BE%88%E6%B1%9F%E5%B1%B1/" target="cdt-mirror">博客中国｜罗伯特卡帕：罗援将军“捍卫父辈江山论”的出处找到了</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/14387905335440.jpg" alt="14387905335440" width="540" height="443"></p>
+<p>著名的红二代（高干子弟）出身的将军罗援在接受《环球时报》采访时曾表示，“父辈打下的江山，我们有责任来保卫父辈的成果。”</p>
+<p>   在网上查找资料，无意中发现了文革期间高干子弟红卫兵的一篇文章《红色恐怖万岁！》。原来，罗源将军的“捍卫父辈江山论”源远流长，来自这里，失敬失敬！</p>
+<p>    原文如下：</p>
+<p>     我们高呼：红色恐怖万岁！ </p>
+<p> 　　今天，我们搞红色恐怖，明天，我们还要搞红色恐怖，只要有不符合毛泽东思想的东西存在，我们就要造反，就要搞红色恐怖！ </p>
+<p> 　　毛主席说：“革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。革命是暴动，是一个阶级推翻一个阶级的暴烈的行动。”我们要砸烂旧世界，要横扫一切牛鬼蛇神，要在全中国，全世界树立毛泽东思想的绝对权威，就必须对一切旧的东西大杀大砍。文文雅雅、慢慢腾腾怎么能行呢！？怎么能在框框里干革命呢？！ </p>
+<p> 　　有人一见到红色恐怖，听到我们喊造反有理，就胆战心惊、大发雷霆。什么“不按党的方针政策办事呀！”什么“这样太乱了吧。”统统都是胡说八道。天下，是我们的！江山，是我们的！我们翻身了，我们执政了。我们造了牛鬼蛇神的反，罢了牛鬼蛇神的官，专了它们的政，我们扬眉吐气了，谁敢在我们面前专横跋扈，不可一世，我们就叫它去见阎王。害怕红色恐怖的家伙们，实话告诉你们：对红色恐怖持有什么态度，是真假革命者的试金石。 </p>
+<p> 　　我们是天生的造反者，我们是旧世界的批判家。我们的父兄，在战火纷飞的战斗岁月里跟着毛主席踏遍了万水千山，夺得了政权，打下了江山。今天，我们──革命事业的继承者，毛泽东思想的红卫兵，跟着最高统帅毛主席又燃起了无产阶级文化大革命的熊熊烈火。头可断，血可流，毛泽东思想不能丢！血未干，仇未忘，无产阶级专政不能放！上刀山，下火海，党的领导不能篡。我们红色的后代起来了，起来保政权、捍江山。 </p>
+<p> 　　毛主席教导我们：“不止不行，不塞不流，不破不立。”我们造反是造定了，我们还要在红色恐怖的烈火上加油，烧！烧！烧！！烧掉旧世界，建立无产阶级的新世界，建立毛泽东思想的红世界。 </p>
+<p> 　　造反有理！造反到底！ </p>
+<p> 　　红色恐怖万岁！ </p>
+<p> 　　（哈尔滨市红五类子弟造反大会会刊《红后代》社论）</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E6%8D%8D%E5%8D%AB%E7%88%B6%E8%BE%88%E6%B1%9F%E5%B1%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B/?category=18271" rel="tag">罗援将军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E9%87%91%E6%9B%B2120%E9%A6%96%EF%BC%9A%E4%B8%8A%E6%A6%9C%E6%95%88%E6%9E%9C%E7%AB%8B%E7%AB%BF/" target="cdt-mirror">【立此存照】文化部禁歌金曲120首：上榜效果立竿见影</a>
 </h2>
 <p><p>北京本土饶舌乐队 阴三儿 在文化部近日推出的<a href="http://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/">禁歌金曲120首</a>排行榜中占领了第一至第十七的位置，并因此人气大增：</p>
@@ -94,7 +117,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6/?category=18271" rel="tag">作家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%A7%81%E9%A2%86%E8%A2%96/?category=18271" rel="tag">意见领袖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">社会运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E9%9B%84/?category=18271" rel="tag">英雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%87%E8%AE%BF/?category=18271" rel="tag">采访</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%B8%E6%88%8F%E6%89%93%E6%8A%98%E6%83%85%E6%8A%A5%EF%BD%9C20%E5%B9%B4%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E7%94%A8%E6%88%B7%E6%9D%A5%E8%AF%B4%E8%AF%B4%E8%BF%99%E6%AC%A1%E7%9A%84%E7%BD%91%E7%BB%9C/" target="cdt-mirror">游戏打折情报｜20年上海电信用户来说说这次的网络问题</a>
 </h2>
@@ -556,7 +579,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%8B%E7%96%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E4%BA%BA%E4%BA%8B/?category=18271" rel="tag">高层人事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E5%86%85%E6%96%97/?category=18271" rel="tag">高层内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%B7%B2%E7%BB%8F%E5%AE%8C%E6%88%90%E4%BB%A4%E8%AE%A1%E5%88%92%E7%9A%84%E8%AE%A1%E5%88%92/" target="cdt-mirror">法广 | 令完成已经完成令计划的计划</a>
 </h2>
@@ -763,23 +786,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%9D%8E%E6%BA%90%E6%BD%AE%E6%8E%A5%E8%A7%81%E6%B8%AF%E9%9D%92%E7%A6%81%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF/" target="cdt-mirror">法广｜李源潮接见港青禁香港记者采访</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/800px-%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/800px-%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82.jpg" alt="800px-人民大会堂" width="575" height="325"></a><p>北京人民大会堂 <br>图片：维基百科</p></div>
-<p>中国副主席李源潮8日在人民大会堂会见一支由1800人组成的香港青年交流团，事先早已获得安排采访的香港驻京记者，临时却被通知取消采访安排。</p>
-<p>是次活动国务院澳办原安排香港驻京传媒以联合采访方式拍摄，但港澳办前晚突取消采访安排，未透露原因，会后就会面向传媒发新闻稿，有消息指因场地协调而要取消采访安排。</p>
-<p>李源潮今年1月21日在北京出席中国侨联会议时，曾回应全国侨联委员、港澳日报社长田炳信就香港占中局势提出的建议时表示，中央认为反占中斗争还没 有完，“好戏还在后头”，并称持续几个月的港闹，搞占中的人及其背后的人没有达到他们的目的，目前中央和港府以及爱国爱港力量取得了阶段性胜利。</p>
-<p>不过官方的主要媒体如新华社或人民日报却没有报导身兼中央港澳工作协调小组副组长李源潮这次讲话的内容，反而由一个地方网媒《港澳网》报道，事件耐人寻味。</p>
-<p>根据新华社发稿报导，李源潮会见由香港新家园协会组织的香港青年交流团时强调，香港与祖国从来都是命运共同体，“中国梦”也包含了“香港梦”，这为 香港发展提供了动力和机遇，“爱国必然爱港，爱港也应该爱国”。他认为，香港青年到内地交流，对全面认识国家有帮助，并希望他们和衷共济、凝心聚力，支持 特区政府依法施政，为香港和国家的发展作出新贡献。</p>
-<p>李源潮同时呼吁“香港青少年以更宽广视野思考香港发展，把注意力集中到干事创业上来，支持特区政府依法施政，为香港和国家的发展作出新贡献”。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%9D%8E%E6%BA%90%E6%BD%AE%E6%8E%A5%E8%A7%81%E6%B8%AF%E9%9D%92%E7%A6%81%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%BA%90%E6%BD%AE/?category=18271" rel="tag">李源潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -791,7 +797,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -801,5 +807,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E9%87%91%E6%9B%B2120%E9%A6%96%EF%BC%9A%E4%B8%8A%E6%A6%9C%E6%95%88%E6%9E%9C%E7%AB%8B%E7%AB%BF/" target="cdt-mirror">【立此存照】文化部禁歌金曲120首：上榜效果立竿见影</a>
+</h2>
+<p><p>北京本土饶舌乐队 阴三儿 在文化部近日推出的<a href="http://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/">禁歌金曲120首</a>排行榜中占领了第一至第十七的位置，并因此人气大增：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/005yczpRgw1euynsvm8l0j30hs0qodgu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005yczpRgw1euynsvm8l0j30hs0qodgu.jpg" alt="005yczpRgw1euynsvm8l0j30hs0qodgu" width="385" height=""></a><br><em>（图片来源：新浪微博<a href="http://weibo.com/5086055663/CvkhtabpW">@一头小活猪</a>）</em></p>
+<p><strong>阴三儿成员贾伟</strong>（@Nyabinghi，非认证账号）在微博上对此事做出了回应：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-2.22.31-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-2.22.31-AM.png" alt="Screen Shot 2015-08-11 at 2.22.31 AM" width="550" height=""></a></p>
+<blockquote><p><strong><a href="http://weibo.com/1829940271/CveaAqf6G">@Nyabinghi</a></strong>：他们想让我们成为反面儿教材 想让年轻人别像我们那样 可是很多事情他们并没有想到…</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6d12ac2fjw1euxwoj0qtcj20hs0vkn2e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6d12ac2fjw1euxwoj0qtcj20hs0vkn2e.jpg" alt="6d12ac2fjw1euxwoj0qtcj20hs0vkn2e" width="385" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6d12ac2fjw1euxwu3kctuj22io1w0hdt.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6d12ac2fjw1euxwu3kctuj22io1w0hdt.jpg" alt="6d12ac2fjw1euxwu3kctuj22io1w0hdt" width="385" height=""></a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@走你王溜溜：恭喜“阴三儿”乐队包揽文化部革委会120首禁歌（金曲）前17强！文革会这次太帮忙了，给足了面子！下次奥运会主题歌就是《老师你好》了！@阴三儿in3</p>
+<p>@Leotology：#120首网络歌曲下架# 最具公信力的音乐榜单，西恩billboard啊！！！另：某IN3一夜成名，这是给了文化部多少钱……</p>
+<p>@我叫小楠楠-jn：#120首网络歌曲下架# 强烈要求手撕鬼子滚出电视，我就爱台妹了，就允许领导把衣服都掀起来把奶罩都丢上来，就不许百姓唱</p>
+<p>@我最近胖了：#120首网络歌曲下架#文化部又神勇了，赶紧去听听这些压压惊</p>
+<p>@侵掠如火者浣熊是也：被焚化部禁掉的那些rap才是你国真rap 。</p>
+<p>@滚青装B指南：文化部和人民日报联名倾力推荐的歌单120首，阴三儿，逼哥，赵雷实力上榜，向真正的艺术家致敬！</p>
+<p>@施政V：中國史上第一次官方推薦小眾音樂top120 這說明文化部對小眾音樂的高度關注與大力支持 為了回報文化部的關愛 應該創造出更多更好聽的小眾作品</p>
+<p>@勋操鹿：建议首页把那位大大拉黑 黑名单有她更精彩</p>
+<p><strong>附：豆瓣“阴三儿”主页 部分留言截图</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.39.31-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.39.31-AM.png" alt="Screen Shot 2015-08-11 at 12.39.31 AM" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.39.49-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.39.49-AM.png" alt="Screen Shot 2015-08-11 at 12.39.49 AM" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.40.35-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.40.35-AM.png" alt="Screen Shot 2015-08-11 at 12.40.35 AM" width="475" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E9%87%91%E6%9B%B2120%E9%A6%96%EF%BC%9A%E4%B8%8A%E6%A6%9C%E6%95%88%E6%9E%9C%E7%AB%8B%E7%AB%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">禁歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E4%B8%8B%E6%9E%B6/" target="cdt-mirror">阑夕 | 几点看法：关于“120首网络歌曲下架”</a>
 </h2>
 <p><p>1、文化部的反射弧再度令人惊叹，这是继“38部动漫被列黑名单”之后的第二场网络焚书运动，也是一场带领主流80后网民回溯青春的旅程。</p>
@@ -753,27 +780,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%BE%E8%91%AD-%E6%9C%9D%E9%98%B3%E5%A4%A7%E5%A6%88%E8%AF%B4%EF%BC%9A%E4%B8%AB%E5%A4%B4-%E5%B9%B2%E4%BD%A0%E4%BB%AC%E8%BF%99%E8%A1%8C%E5%8F%AF%E7%9C%9F%E4%B8%8D%E5%AE%B9%E6%98%93%E5%95%8A/" target="cdt-mirror">贾葭 | 朝阳大妈说：丫头 干你们这行可真不容易啊</a>
-</h2>
-<p><p>秋高气爽的时节又到了，这大概是北京一年里难得的美好时光。郁达夫笔下，故都的秋，如今完全看不到，因为高墙深院基本都拆了，普通人很难体会在四合院的枣树底下抬头望天的感觉。一般来说，秋季被称为北京的“会议季”(夏季是北戴河的会议季)，除了年底的总结大会之外，剩下的会议大部分在秋天开。</p>
-<p>这个时候，就可以看到街道边、厂房里、广场上、胡同深处，到处都是拎着小马扎和暖水瓶的大妈们。她们个个戴着红袖箍，斗志昂扬、意气风发地一边扯闲淡一边警惕地盯着过往的人群和车辆，目光锐利得好比安检仪，基本能把别人包里的东西猜个八九不离十。这是长年的战斗经验练就的火眼金睛。</p>
-<p>作为一个遵纪守法的良民，我也能感到她们目光的不可欺骗和震慑力量。对坏人那就更有效了。每年在10月份开会后，媒体会公布说，因为首都治安志愿者的积极热情参与，首都刑事案件在本月下降多少多少，侦破治安案件多少多少起，有效地保障了某某大会的顺利进行云云。看到这里，我都会感激涕零地从内心感谢这些大妈们。因为按照媒体的渲染，假如没有她们，必然会有人家破人亡妻离子散。</p>
-<p>她们的正式名称叫“治安志愿者”，我不晓得有多少是志愿的，但我亲耳听到一个大妈对另一个大妈说，今年的外勤补贴比奥运还高啊。无利不起早嘛，退休人员偶尔挣个外快，同时又维护了社会治安，这一来一去，都是G D P，是个多赢的局面。这部分钱据说是从维稳预算里走，想来大家都交了一笔。</p>
-<p>交钱倒也没什么，我只希望她们的良民标准别那么高，好像只有坐在黑色奥迪车里呼啸而过的人，才对政府没有威胁。我刚刚来北京时，跟几个同事租住在国家计委的一个老旧小区里。每晚下班回家，都能看见十几个大妈围坐在院子里，我从她们的小马扎中间穿过时，她们毫不顾忌地死盯着你看，仿佛你没有穿衣服或者多穿了衣服。</p>
-<p>尤其是，碰巧你有个女同事或者女性朋友来家里玩，经过这些小马扎之时，能听到背后窸窸窣窣的议论声，你猛得回头看她们，又像电视按了静音键，寂静非常。这个时候，我和那位女生会觉得被人剥光了放在砧板上，马上要切了下锅，或者感觉背上爬了一排蚂蚁，咬得你想死的心都有了。</p>
-<p>北京好像从来不缺人，电梯里也坐着这样的大妈。她会在电梯里放一把高脚凳，一个床头柜，上面摆着各种小报和暖水瓶及台式电话，茶叶已经泡得不成形。如果是冬天，她还会接一个电暖气机在电梯里。本来限额13人的电梯，经这么一折腾，站5个人就算不错了。进了电梯，她眼皮不抬地问你：几层？声音恰巧到达你的耳朵后消失，不会因此多费一丝力气。</p>
-<p>我有个同事，因为值夜班，通常半夜一两点回家。由于伊穿着比较考究，又是东北口音，因此被大妈鄙视了良久。大妈说，丫头，干你们这行可真不容易啊。你不能确定她说的是媒体这行还是天上人间这行，总之那种怜悯的口气听上去特别像讽刺。她只好回答：大妈您老也不容易啊。</p>
-<p>这位同事忍了很久之后，有次假装不小心，把新闻出版总署颁发的记者证故意掉在地板上，大妈从此对伊肃然起敬。由此也可以推知大妈之前说的“这行”是哪行了。不仅如此，所有人的信件和快递都是大妈来接收，她知道你买过什么干过什么，谁来看过你，如果她愿意，也可以从你的垃圾袋推测你今天吃了什么。</p>
-<p>假如人口普查交给她们来做，计生委应该会很放心。大妈的存在有时候让人觉得安全，有时是却让人极度不安全。不过，只要她们以及她们的头头觉得安全，那么这个社会那就是安全的，就是稳定的。我的情绪当然也就很稳定了。</p>
-<p>葭案：本文原刊于2010年8月的南方都市报。所谓的“朝阳群众“其实一直很厉害，只不过最近两年他们出镜率太高，才被关注到。这部分群众，其实跟包帝同龄，生在新中国，长在红旗下，学在文革中，千万不要奇怪就好了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%BE%E8%91%AD-%E6%9C%9D%E9%98%B3%E5%A4%A7%E5%A6%88%E8%AF%B4%EF%BC%9A%E4%B8%AB%E5%A4%B4-%E5%B9%B2%E4%BD%A0%E4%BB%AC%E8%BF%99%E8%A1%8C%E5%8F%AF%E7%9C%9F%E4%B8%8D%E5%AE%B9%E6%98%93%E5%95%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%BB%E5%AE%89%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">治安志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%A0%BC%E5%8C%96%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">网格化维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -785,7 +791,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A6%88
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -795,5 +801,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A6%88
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>

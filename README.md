@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-120-%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E8%A2%AB%E6%96%87%E5%8C%96%E9%83%A8%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95/" target="cdt-mirror">知乎｜如何评价 120 首网络歌曲被文化部列入黑名单？</a>
@@ -834,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1989/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,59 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8F%91%E8%A1%A8%E4%BF%9D%E5%AE%88%E8%A8%80%E8%AE%BA%E8%A2%AB%E8%BD%B0%E3%80%8C%E5%81%B6%E5%83%8F%E5%B4%A9%E5%A1%8C%E3%80%8D/" target="cdt-mirror">端传媒 | 艾未未发表保守言论被轰「偶像崩塌」</a>
+</h2>
+<p><p>「偶像崩塌」、「助纣为虐」、「变节」、「投降」……这些词在过去的几天中，被用来形容重新获得护照才半个月的中国艺术家、异议人士艾未未。一向被视为中国异议光谱中激进象徵的艾未未在抵达德国後突然发表被许多人视为「保守」的言论，震惊甚至激怒了不少中国异议者，中国官方媒体《环球时报》将这总结为「艾未未没骂政府，西方不高兴了」。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/c342757135e14f849f3baefae44dcbb5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/c342757135e14f849f3baefae44dcbb5.jpg" alt="艾未未" width="450" height="300"></a></p>
+<blockquote><p>现在当他们拘留你，他们会有逮捕令。法院会判决这些人，他们按程序办事。如果证据不足时他们就会将你释放，这些策略不再像几年前那样不合法。 —— 艾未未</p></blockquote>
+<p>这场风波缘起於《南德意志报》对艾未未的一次采访。艾未未在采访中指当局对他的限制不断放松，且对归还他的护照几乎没有附加条件，又许诺他出国之後还可以返回中国。「你是自由人」，艾未未引述中国当局的话说。在评论中国大举拘捕维权律师事件时，艾未未表示中国当局现在的策略「不再像几年前那样不合法」了，拘留或判决都会「按程序办事」。他还提出，在批评社会的同时必须基於现状，提供解决方案。「如果我没有解决方案，那我为什麽要去谈论问题呢？」</p>
+<p>「美国之音」将艾未未上述言论引发的激烈反弹形容为中国异议者的「错愕」甚至「受伤」。作为中国异议者中的标志人物，艾未未屡屡在政治敏感事件中高调发声，又以艺术家的方式表达对当局的不满，更因此曾经遭受过拘捕、软禁、监视或被没收护照。</p>
+<p>此次艾未未一反常态发表温和言论後，中国保守官媒《环球时报》及时出声力挺，指异议人士和西方舆论视他为「反体制的旗手」，一直以「自由世界」的各种荣誉「绑架」着他，导致他过去未能「展示内心的矛盾和纠结」。而旅美异议者温云超的回应，大概能概括一部份对艾未未言论倍感失望的异议者的声音，他说：「艾未未的转变，让我更感觉『为反对而反对』是多麽重要。批判是知识分子的品格，甚至是唯一必须要做的事情，而所谓建设，那是执政者的事情。」</p>
+<blockquote><p>我就像一棵树，我在成长。 —— 艾未未</p></blockquote>
+<p>专栏作家赵思乐认为，2014年以来，随着形势愈发严峻，中国异议者中的温和派与激进派更加撕裂，进而使温和派遭到遗弃，而艾未未就是其中一个崩塌的意见领袖。异议者莫之许也对这种派别之争的变化深有感触，认为艾未未此番言论若在2010年说出，「估计是满堂喝彩」。除此之外，也有独立评论博客分析指，在艾未未「转向」之前早已有曾经的异议者「彻底退场」，只不过不及艾未未有名而已。</p>
+<blockquote><p>1572 天 —— 自从2011年4月3日起至2015年7月22日，艾未未护照共被警方扣留1572天。中国现行护照法规定：「中华人民共和国护照是中华人民共和国公民出入国境和在国外证明国籍和身份的证件。任何组织或者个人不得僞造、变造、转让、故意损毁或者非法扣押护照。」</p></blockquote>
+<p><strong>声音</strong></p>
+<blockquote><p>在当局的高压之下，原来的反对者若是选择放弃和退出，我们完全可以尊重他们的个人选择，并祝福他们回归平静安祥的生活。但是，如果他们还要对坚持反对的人踩上一脚，我们就有必要提醒他们：这种反戈一击的做法，是对自己和同仁的双重背叛。 —— 中国维权律师张雪忠</p>
+<p>一个社会运动的强大和成熟，不仅能塑造英雄和符号性人物，而且能够承受英雄的背叛，淘汰符号性人物──如果他变得不合时宜的话。 —— 中国异议人士温克坚</p>
+<p>自由派们，把你们的奶嘴从艾未未胸口拿开，自己走两步好吗？ —— 网友@akid</p>
+<p>他是最中国的中国人。我们深信，比起评论中国的内务外交来说，作爲艺术家艾未未能够在世界上更有作爲。 —— 柏林艺术品商人奥克斯（Alexander Ochs）</p></blockquote>
+<p>来源：<a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%88%91%E5%B0%B1%E5%83%8F%E4%B8%80%E6%A3%B5%E6%A0%91%E6%88%91%E5%9C%A8%E6%88%90%E9%95%BF/a-18628801">德國之聲</a>、<a href="http://www.voachinese.com/content/voa-news-beijing-aiweiwei-20150809/2909199.html">美國之音</a>、<a href="http://gravitysworm.com/post/126228252007/%E5%8F%8D%E6%8A%97%E5%8F%8A%E5%85%B6%E6%A0%87%E7%AD%BE?from=timeline&isappinstalled=0">萬有引力之蟲（微信公眾號）</a>、<a href="http://opinion.huanqiu.com/shanrenping/2015-08/7223164.html">環球時報</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8F%91%E8%A1%A8%E4%BF%9D%E5%AE%88%E8%A8%80%E8%AE%BA%E8%A2%AB%E8%BD%B0%E3%80%8C%E5%81%B6%E5%83%8F%E5%B4%A9%E5%A1%8C%E3%80%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6/?category=18271" rel="tag">作家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%A7%81%E9%A2%86%E8%A2%96/?category=18271" rel="tag">意见领袖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">社会运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E9%9B%84/?category=18271" rel="tag">英雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%87%E8%AE%BF/?category=18271" rel="tag">采访</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 18分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%B8%E6%88%8F%E6%89%93%E6%8A%98%E6%83%85%E6%8A%A5%EF%BD%9C20%E5%B9%B4%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E7%94%A8%E6%88%B7%E6%9D%A5%E8%AF%B4%E8%AF%B4%E8%BF%99%E6%AC%A1%E7%9A%84%E7%BD%91%E7%BB%9C/" target="cdt-mirror">游戏打折情报｜20年上海电信用户来说说这次的网络问题</a>
+</h2>
+<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%EF%BC%9A%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%A8%E6%88%B7%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/">【网络民议】上海电信：亲爱的用户我是你爹 </a></p></blockquote>
+<p>这两个月来上海电信访问国外网站的速度很成问题，晚间时段基本没有速度。反正现在也上不了国外网站，闲着也是闲着，作为一个上海电信20年的用户，从用户的角度，让我来八一八上海电信的网络。</p>
+<p>上海电信最早的时候是从固定电话开始的，我记得我家固话的初装费是4000多块钱，还买了一台很牛X的“皓盛”电话，另外每月还要交月租费。记得最开始的时 候月租费好像是30块，而且不包含任何通信费用（现在降到了25元并且含有6元的通话费用）。而如今家里每人两部手机，这个固话就像一个装饰品，基本不响 也很少用，因为年代久远爸妈舍不得退就先留着了。</p>
+<p>到了1998年的样子，我买了台电脑，就开始拨号上网。经历过那个时代的人都知道，那个时候拨号上网有8888、8163等号码，因为8888 vip/vip 最便宜（每小时大概1块多）所以我经常用这个上网。但是用这个号码只能访问上海本地的网站，像是上海热线、PCHOME.net、凯利聊天室等等。我认为这应该就是上海电信的本地网络，另外一种拨号可以上互联网，但价格连电话费大概要4块钱左右一小时。这就是当时的网费差距，上海本地网便宜，互联网（那时 候也称163网）要贵很多，这个道理放到现在也一样，国内网的成本低，国际网的成本较高，不同的是普通宽带并没有对此区别收费，直到出现了“国际精品 网”，那是后话了。所以当时我会去找代理服务器上互联网。由于上网是计时的，所以拨号前会想好要做哪些事，然后上网的同时打开代理猎手扫描没有加密码的代 理。</p>
+<p>再后来有了ADSL上网，2002-2004 年中国电信南北分拆以后，中国电信架设了一个新的网络：ChinaNet Next Carrying Network（CNCN）也称为 CN2。相对原来的 ChinaNet（也就是所谓的163网），这个网络更加先进，支持主干网络的很多功能。如果说原来的上海本地网是小马路的话，ChinaNet 就是4车道大马路，而 CN2 我们将它认为是8车道高速公路。</p>
+<p>CN2 网络建成以后是和 ChinaNet 网络并行使用的，但 CN2 网络的速度更好。CN2 主要面向政企，提供更快的网速和出口带宽，在晚上企业下班以后，CN2 也会被调来分担民用网络（因为设置了 QoS 所以并不会影响政企网）。我是怎么知道的呢，其实还要感谢九（gou）城。记得那时候打魔兽世界的时候，由于代理商第九城市拼命压缩成本，将原本在上海和 四川的服务器都搬到深圳便宜的机房去了，于是上海的延迟暴增。我偶然发现如果 ADSL 拨号的IP是 58 开头的话，延迟会好很多很多，后来才知道 58 开头的IP就是走 CN2 网络的。当时晚上用户上 ADSL 走的可能是 ChinaNet，也有可能是 CN2。后来有段时间上网不爽的时候就不断重拨，直到找到 58 开头的IP地址为止。再后来……再后来再也找不到这个IP了。因为后来中国电信出了“国际精品网”业务，现在不买“国际精品网”，不用“国际氮气瓶”的 话，是不可能拨号到 58 开头的 IP 地址了，因为它已经被当作一项特权卖掉了。</p>
+<p>什么是“国际 精品网”呢？简单来说就是让你上网时候接入 CN2，也就是肯定给你分配一个 58 开头的IP地址。上海电信将原来对家庭用户随机分配的网络，固定成一项业务出售。所以 2014 年的时候很多用户都觉得上网变慢了，大概就是因为普通家庭用户上不了 CN2 了。由于家庭用户没有了 CN2 分流，大家只能都挤到 ChinaNet 上。就好比原来两条路，一条大马路一条高速公路，但是现在高速公路要另外收费了，普通车辆只能都去挤普通马路。所以速度肯定是变慢的。最早购买“国际精品 网”的用户，可能刚开始觉得很快，但后来越来越慢，其实是上海电信带宽超售，导致家庭用户使用 CN2 也“堵车”。政企用户因为有 QoS 设置优先，所以并不会感到有什么影响。现在停售走 CN2 的“国际精品网”并不是电信不想赚钱，是因为 CN2 也快要饱和的缘故。</p>
+<p>终于到正题了，说说今年5月起国外网站访问困难的问题。这篇文章看到这里，相信大家也差不多明白为什么会发生现在这样的情况。由于 CN2 被当作特权出售，所有的用户都只能挤在 ChinaNet 网络上，而今年中国电信宽带用户量增长以后，ChinaNet 的国际出口显然无法满足大量用户的需要，所以存在大量的掉包现象。今天新闻中上海电信经理解释说并不是人为劣化服务的，其实我只同意一半，这场服务事故就 是有人为的因素。没有 CN2 的分流，加上电信用户增加，国外游戏（包括手游），PSN/XBOX Live的服务量，Windows 升级等都需要出口带宽，但是出口带宽却没有增加，这样的结果是必然的。作为专业的服务商，这都是事先可以预料到的情况，上海电信却选择了无视。</p>
+<p>再 来说说“氮气瓶”这个服务，本来我是懒得发这篇文章的，但是在“氮气瓶吧”被一而再、再而三地删帖，心里气愤不过，顺便也来八一八。“氮气瓶”这个服务最 早是给宽带临时提速用的，业务并不是很显眼，但是这个业务的后台很硬。为什么呢？因为它可以通过用户 APP 接入扣费，直接修改后台中用户的带宽。这事不是一般客服能做到的，他们居然用程序完成。直到今天，他们开卖 CN2 的“国际氮气瓶”，原理也很简单，上面说过了。你付3块钱，给你3小时的“58IP”，也就是用3个小时的 CN2 网络。看起来简单，但是后台一点都不简单。这个项目组掌握了电信企业中最重要的带宽资源，可以通过给用户分配宽带谋利，将原本用户可以享受到的 CN2 网络单独划出来收费，看来上海电信非常想念拨号上网时的计费方式呢。他们也可以随意更改用户的网络（见下图），这里留给大家想象的空间……</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a97c223agw1euxxf69120j20e10dawfl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a97c223agw1euxxf69120j20e10dawfl.jpg" alt="a97c223agw1euxxf69120j20e10dawfl" width="475" height="450"></a></p>
+<p>终于说到上海电信要如何解决的问题了。今天新闻中上海电信说的“现在设备已经到了，九月中旬会升级电信网络，现有服务和收费不会改变”（你还想涨价么？）。 我们来看看8月6日的新闻：《中国电信CN2扩容工程集采 华为获最大份额》（http://www.chinadaily.com.cn/hqcj/xfly/2015-08-06 /content_14082056.html）。如果我没猜错的话，此次的网络升级针对 CN2 网络，和我们这些普通的用户有什么关系？ CN2网络一扩容，再开始卖“国际精品网”吗？如果 CN2 的网络出口可以分给普通家庭用户，那么现在为什么不做？你3块钱卖一个 50M 的氮气瓶，拆成 500K 分给 100个家庭用户，每户约有 63k/s 的下载速度，这样的话相信找上海电信麻烦的用户会少掉一大半。</p>
+<p>通过现在的情况来看，9月以后普通家庭用户上网能否有改善、有多少改善仍然是个未知数。实话实说，上海电信的总体服务水平还是可以的，但是从这件事上也看出来，上海电信捞外块的水平也是蛮不错的。由于本人现在手机绑定宽带，一下全换掉不太可能，过一段时间将银行等的验证码绑定到其它的手机上以后考虑换网或多加一个移动/联通网络做双WAN。</p>
+<p>上海电信这次问题，也促使我去查了一下联通和移动的宽带价格。 10M-20M的宽带，移动是58块钱一个月，联通是1400块2年，我正在用的上海电信是1400块一年，各位自己算算差价。如果你仍在合约期，其实是可以解除合约的，因为上海电信违约在先了。根据已经解除合约的网友的说法，解除合约时是按使用天数计费结算的。不过，如果大家都转到联通或者移动网络的话，带宽拥挤的情况会不会重演，这点很难说。因为毕竟这三家都是垄断企业……</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%B8%E6%88%8F%E6%89%93%E6%8A%98%E6%83%85%E6%8A%A5%EF%BD%9C20%E5%B9%B4%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E7%94%A8%E6%88%B7%E6%9D%A5%E8%AF%B4%E8%AF%B4%E8%BF%99%E6%AC%A1%E7%9A%84%E7%BD%91%E7%BB%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1/?category=18271" rel="tag">上海电信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">垄断企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-120-%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E8%A2%AB%E6%96%87%E5%8C%96%E9%83%A8%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95/" target="cdt-mirror">知乎｜如何评价 120 首网络歌曲被文化部列入黑名单？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%8D%89%E6%B3%A5%E9%A9%ACID.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%8D%89%E6%B3%A5%E9%A9%ACID.jpg" alt="草泥马ID" width="575" height=""></a><br><em>（网络图片）</em></p>
@@ -740,79 +790,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%89%AF%E6%B0%91%E9%83%BD%E5%AE%9E%E5%90%8D%E4%BA%86%EF%BC%8C%E5%94%AF%E5%BC%BA%E7%9B%97%E4%B8%8D/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗良民都实名了，唯强盗不实名</a>
-</h2>
-<p><p>1.【国信办约谈凤凰网 责令其整改新闻服务】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7061c249gw1euv2pdyywgj20th0hktg5.jpg" alt="7061c249gw1euv2pdyywgj20th0hktg5" width="440" height="262"></p>
-<p>2015年以来，互联网违法和不良信息举报中心接到涉凤凰网的举报1330件。此外，凤凰网还存在违法登载新闻信息、抢发散播不实消息等问题。相关负责人表示，若其整改不符要求，或者整改期继续违规，或将依法停止其新闻服务。——凤凰马屁拍的已经够响了还不合格？总参的人都不好使了？？</p>
-<p>2.【官场有风险，当官需谨慎！】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/61e04755jw1euv71ezx8kj20e008amyv.jpg" alt="61e04755jw1euv71ezx8kj20e008amyv" width="440" height="260"></p>
-<p>7月24日，周本顺妻子段雁秋被带走调查。据悉，段雁秋身兼数职，曾任银河证券投资银行总部董事等职位。周家一家三口，加上侄女婿宋达勇、小舅子刘延涛以及刘姓秘书，其“身边人”被查人数已达六人。——@老徐时评：周本顺一家三口均被查，加上其他亲属和身边人，被查人数达六人。周的名字也从老家“名人榜”上被撤下来。一荣俱荣，一损俱损。人生变幻莫测，本该一帆风顺，其实根本不顺。</p>
-<p>3.【良民都实名了，唯强盗不实名】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/62f87eb4gw1euv2cj3iphj20b407vq3w.jpg" alt="62f87eb4gw1euv2cj3iphj20b407vq3w" width="400" height="283"></p>
-<p>9月1日起，办理手机卡必须出示本人身份证，并当场在二代身份证读卡器上验证。2013年9月1日前入网的未实名老用户，要在办理新业务、更换电话卡时补登记，或直接去营业厅进行身份证实名登记，否则可能停机！—— @涛翁wt：9月1日始居民购买电话卡一律要验身份证。现在无论是火车票、菜刀、汽油、火柴、上网吧、夜间桑拿、娱乐、晚上茶楼打麻将等等都要实名制了，唯独一样不实名——官员财产。</p>
-<p>4.【凉山的政府办公楼】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/d34eaa96gw1euv4vva0llj20go0ciwfj.jpg" alt="d34eaa96gw1euv4vva0llj20go0ciwfj" width="440" height="330"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/d34eaa96gw1euv4vz63pnj20fa04st9c.jpg" alt="d34eaa96gw1euv4vz63pnj20fa04st9c" width="440" height="138"></p>
-<p>记者手记：探访“最悲伤作文”发生地。来到马依村，走进村民古次作古的家，第一反应是震惊，社会发展进步到今天，真的还会有人居住在这样的地方么？在这里，依然保持着人畜混居的生活状态，漆黑的屋子里左边睡牛马，右边便住着一家7口。原因很简单：没有钱修不起牛圈，又怕牲畜在夜晚冻死。——@易水寒冰：如果凉山是因为懒惰造成贫困的，那么这些宫殿式豪华衙门里，荣华富贵的苍蝇肯定比蜜蜂还勤劳。看看这些凉山州的豪华衙门，你就找到了凉山彝人贫穷的原因。</p>
-<p>5.【坐待兲朝9月3日阅兵的票房……】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/d34eaa96gw1eutu6pht7nj20kh0sgjwh.jpg" alt="d34eaa96gw1eutu6pht7nj20kh0sgjwh" width="440" height="611"></p>
-<p>广岛原子弹爆炸70周年纪念日。美国驻日大使，政府高官首次列席。100多个国家到日本参加和平大会。同样是为了和平，岛国的票房咋就这么抢手……中国到目前为止，只有俄罗斯和蒙古两个国家确定到中国参加纪念抗日战争阅兵。中国的好朋友在非洲，花了那么多钱支援，应该把非洲60多个国家全部拉过来参加抗日纪念大会。</p>
-<p>6.【女子国外丢手机一个月欠费23万】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/625ab309jw1euvd0t42ydj2085064jrc.jpg" alt="625ab309jw1euvd0t42ydj2085064jrc" width="293" height="220"></p>
-<p>中国移动告诉我们，中国移动是要有钱的土豪才能勉强适合使用的。京华时报消息：近日，从西班牙回国的蔡女士查询后得知，其6月13日在国外遗失的手机已欠费23万多元。蔡女士称手机遗失后她第一时间委托国内家人挂失，电信客服要求提供服务密码，但她不知道密码，未能挂失成功。中国电信客服方面称正在调查核实。——既然是挂失，还需要提供密码？！大家知道的，移动只让我们欠10块钱。哪里会让欠费这么多的，故意的吧？</p>
-<p>7.【为继承遗产 男子跑了一年证明“母亲没私生子”】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/884f7263jw1euvfb9enexj20fa09m750.jpg" alt="884f7263jw1euvfb9enexj20fa09m750" width="440" height="277"></p>
-<p>潇湘晨报消息，长沙的陈先生的母亲生病住院没有好转。2014年3月立下遗嘱，将自己名下的房子过户给陈先生。一年过去了，几番折腾，陈先生仍没能继承过户。因为按照继承权公证要求，陈先生还得证明自己的母亲没有私生子。——有没有私生子要怎么证明？哪个部门证明？人家真有私生子会告诉不相干的人吗？当地政府这是吃多了撑得了吧？！</p>
-<p>8.【没妈的孩子像根草】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0067D70Igw1eutxy1m2hjj30eq09s0tq1.jpg" alt="0067D70Igw1eutxy1m2hjj30eq09s0tq(1)" width="440" height="292"></p>
-<p>在湖南省邵阳县，竟有一个“无妈乡”！这个名叫黄荆乡的地方，仅义务教育阶段在校学生中，就有132个孩子处于“失母”状态——除了母亲正常死亡，其中有116个孩子的母亲因为逃婚或改嫁离开了他们。</p>
-<p>9.【路有热死骨！】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/676abacdjw1euvf419abrj20dw09eabj.jpg" alt="676abacdjw1euvf419abrj20dw09eabj" width="440" height="297"></p>
-<p>荆楚网：8月4日中午1点许，武汉，江汉区一条道路工地，一名50岁老工人倒地不起，送医院后死亡。当天，最高气温达到37℃，工人们却每天连续高强度工作10小时，可以挣到200来块工钱，折合每小时20元。施工方负责人说，没有人强迫工人干活，他们这是为了挣加班费。。</p>
-<p>10.【网评员也有今天】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0069RAbPjw1euvpdvek0cj30jr0f8gni.jpg" alt="0069RAbPjw1euvpdvek0cj30jr0f8gni" width="440" height="339"></p>
-<p>实际上五毛经费是一个很大的寻租空间腐败基地，那几个走红的五毛都应该是联合体制内腐败分子盗取国家财富的贼！什么爱国正能量？打爱国幌子骗钱！什么网上上甘岭，捞钱项目而已！不知各位五毛做何感想？</p>
-<p>11.【开放八胎都不用担心人口增长】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/617fc8a9jw1euvj180zolj20qo0zktej.jpg" alt="617fc8a9jw1euvj180zolj20qo0zktej" width="440" height="587"></p>
-<p>15平米，450万……这个广告并不是说房子卖的有多贵，而是中国的教育有多糟糕！产业化的兲朝，一切都是财富的源泉……</p>
-<p>12.【“中流砥柱”的主战场……】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0068624Ngw1euvjz91igpj30960cbt9k.jpg" alt="0068624Ngw1euvjz91igpj30960cbt9k" width="330" height="443"></p>
-<p>你跟日本人打仗他们会乖乖地让你们收税？你们是勾结起来商量好的吧？</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%89%AF%E6%B0%91%E9%83%BD%E5%AE%9E%E5%90%8D%E4%BA%86%EF%BC%8C%E5%94%AF%E5%BC%BA%E7%9B%97%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E7%BE%8E%E6%AD%8C%E6%98%9F%E6%9C%8D%E9%A5%B0%E5%93%81%E7%89%8C%E6%98%AF%E5%90%A6%E5%8E%BB1989%E5%AD%97%E6%A0%B7%E5%BC%95%E5%85%B3%E6%B3%A8/" target="cdt-mirror">BBC｜美歌星服饰品牌是否去“1989”字样引关注</a>
-</h2>
-<p><p>路透社援引消息人士称，了解美国歌手泰勒·斯威夫特（Taylor Swift）个人服饰品牌《1989》生产情况的人士曾讨论是否去除“1989”的字样。但目前并不清楚，持有这种想法的人是否占上风。</p>
-<p>路透社的独家报道称，在中国在线平台“京东商城”上出售的泰勒·斯威夫特官方T恤并没有“1989”字样。BBC中文网查证发现，京东商城上仍有售《1989》专辑。</p>
-<p>泰勒·斯威夫特相关产品发行商周三（5日）曾发表声明称：“众所周知，泰勒·斯威夫特生于1989年”。但拒绝回应此声明是否特地针对中国市场。</p>
-<p>为宣传新专辑《1989》及同名巡回演唱会，她预料即将正式宣布在中国发行其个人服饰品牌。产品包括T恤、裙和运动服等，将在中国在线购物平台阿里巴巴天猫和京东商城出售。</p>
-<p>美国发售的产品印有 “T.S. 1989”字样。“T.S.” 是其英文名Taylor Swift的首字母缩写。而1989则代表她于1989年出生，也是其专辑和演唱会的名字。</p>
-<p>但“T.S. 1989”也可以被理解成“1989年的天安门广场”。因为“T.S.”也是英文“Tiananmen Square” 的缩写。1989年6月4日，中国当局曾武力镇压学生示威。</p>
-<p>路透社称，中共禁止官方媒体报道、互联网传播和书籍记载关于“六·四”事件的消息。这导致许多中国年轻人对26年前的镇压事件一无所知。</p>
-<p><strong>“1989”的商标</strong></p>
-<figure></figure><figure><figcaption><span> 音乐分析人士指出，泰勒·斯威夫特的号召力领先于中国本土歌手。 </span> </figcaption></figure><figure></figure><figure><figcaption><span> 该消息人士无法证实是谁提出要去掉“1989”的商标，或者歌手泰勒·斯威夫特自己是否就牵涉其中。 </span> </figcaption></figure><p>路透社独家报道引述不具名的消息人士称，之所以要放弃“1989”的商标，是因为京东商城早前发表声明称，印制并发售这样的产品，会惹得中国当局不高兴，因为此事极为敏感。</p>
-<p>但该消息人士无法证实是谁提出要去掉“1989”的商标，或者歌手泰勒·斯威夫特自己是否就牵涉其中。</p>
-<p>目前为止中国官方没有表态与此事有关。中国文化部拒绝对此事做出回应。中国商务部和中国国家工商行政管理总局截至发稿前，仍未回复路透社记者的评论请求。</p>
-<p>泰勒·斯威夫特的中国官方微博也未对此事做出任何回应。</p>
-<p><strong>泰勒·斯威夫特</strong></p>
-<figure></figure><figure><figcaption><span> 现年26岁的歌手泰勒·斯威夫特的号召力遥遥领先。 </span> </figcaption></figure><p>歌手泰勒·斯威夫特曾七次获得格莱美奖。中国音乐分析人士指出，相对于中国本土歌手，现年26岁的歌手泰勒·斯威夫特的号召力遥遥领先。</p>
-<p>除此之外，她在中国社交平台新浪微博上的官方认证帐号拥有超过402万的粉丝。粉丝人数超过了另一位美国歌手碧昂丝（Beyoncé）的262万。</p>
-<p>今年6月，泰勒·斯威夫特曾批评苹果（Apple）公司即将推出的音乐串流服务在试用期间不向音乐人支付任何费用的行为是不公平的。之后成功迫使苹果公司向音乐人支付费用。</p>
-<p>去年，泰勒·斯威夫特在上海演唱会的1万8千张门票在一分钟内被一抢而空。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E7%BE%8E%E6%AD%8C%E6%98%9F%E6%9C%8D%E9%A5%B0%E5%93%81%E7%89%8C%E6%98%AF%E5%90%A6%E5%8E%BB1989%E5%AD%97%E6%A0%B7%E5%BC%95%E5%85%B3%E6%B3%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1989/?category=18271" rel="tag">1989</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%B0%E5%8B%92%C2%B7%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9/?category=18271" rel="tag">泰勒·斯威夫特</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -824,7 +801,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1989/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20gferc35pg6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +811,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1989/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>

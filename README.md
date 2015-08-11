@@ -21,9 +21,87 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-120-%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E8%A2%AB%E6%96%87%E5%8C%96%E9%83%A8%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95/" target="cdt-mirror">知乎｜如何评价 120 首网络歌曲被文化部列入黑名单？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%8D%89%E6%B3%A5%E9%A9%ACID.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%8D%89%E6%B3%A5%E9%A9%ACID.jpg" alt="草泥马ID" width="575" height=""></a><br><em>（网络图片）</em></p>
+<p><strong>提问：</strong>【[话筒]这120首网络歌曲被文化部列入黑名单！】文化部今日公布了一批网络音乐产品“黑名单”，要求互联网文化单位<a href="http://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/">集中下架120首内容违规的网络音乐产品</a>。对拒不下架的互联网文化单位，文化部表示将依法从严查处。</p>
+<h3><strong>答主：<a href="http://www.zhihu.com/people/zhao-chen-ke">赵强坚</a></strong></h3>
+<p>李志和邵夷贝的另一首歌能解答这个问题<br>
+《<i></i><b>黄昏》 </b><a href="http://music.163.com/#/m/song?id=292246" target="_blank" rel="nofollow noreferrer"><span>http://</span><span>music.163.com/#</span><span>/m/song?id=292246</span><i></i></a></p>
+<blockquote><p>他用一种慈祥的姿态在高处安抚着你</p>
+<p>他铺开巨大的过滤网层层信仰奢靡</p>
+<p>他大义凌然地宣布要把纯净筛留给你</p>
+<p>过滤得只剩下了残骸还要你歌颂感激</p>
+<p>你终其一生想找到理由去热爱脚下的土地</p>
+<p>他为其定义的伟大 对你有什么意义</p>
+<p>你所能做的只是在奔跑中保护好你自己</p>
+<p>你想要感受到他爱你 愿他别去伤害你</p>
+<p>他庞大的身躯压垮了多少初生的纯良</p>
+<p>他曾有的灵魂矗立在远方冷漠地观望</p>
+<p>他费力塑造的繁华成为装扮阴暗面的假象</p>
+<p>他毁掉的美好在不久的将来变成了疯狂</p>
+<p>你终其一生想找到理由去热爱脚下的土地</p>
+<p>他为其定义的伟大 对你有什么意义</p>
+<p>你所能做的只是在奔跑中保护好你自己</p>
+<p>你想要感受到他爱你 愿他别去伤害你</p>
+<p>你终其一生找不到理由去热爱脚下的土地</p>
+<p>传说中这里的强大是你生命的全部意义</p>
+<p>你所能做的只是在奔跑中保护好你自己</p>
+<p>你想要感受到他爱你 愿他别去伤害你</p></blockquote>
+<h3><strong>答主：<a href="http://www.zhihu.com/people/xue-fu-72">薛夫</a></strong></h3>
+<p>这尼玛哪叫禁？<br>
+简直就是颁奖。<br>
+就差给in3发个奖杯了，底座上还得印俩烫金的大字“牛逼”</p>
+<h3><strong>答主：<a href="http://www.zhihu.com/people/slim-chan">slim Chan</a></strong></h3>
+<p>分享CharlesLuke创建的歌单「即将被文化部封杀的120首网络歌曲」: <a href="http://music.163.com/playlist/96923579/1427295/" target="_blank" rel="nofollow noreferrer"><span>http://</span><span>music.163.com/playlist/</span><span>96923579/1427295/</span></a> (来自@网易云音乐)</p>
+<h3><strong>答主：</strong><a href="http://www.zhihu.com/people/ParanoidAndroid">张得意</a></h3>
+<p><b>百余歌曲金榜题名 阴三儿或成最大赢家</b></p>
+<p>10日，文化部评选出新一届的「120首最伟大的中文网络歌曲」（120 Greatest Chinese Politics/Porn Songs），在国内引起强烈反响。其中，阴三儿乐队以17首歌曲入选的优异成绩，在本次评选中满载而归，或成为最大赢家。</p>
+<p>文化部强调，要通过要求互联网文化单位集中下架入选作品的方式，大力推广此次获奖作品，让音乐创作从群众中来，到群众中去，让优秀的艺术作品走向民间、服务群众。无论是拥有优秀群众基础的无产阶级偶像派歌手李志同志，还是十年如一日地在知乎成人社区默默耕耘的 <a href="http://www.zhihu.com/people/4a558b8ac2eec7883524bf520a19ad24" data-hash="4a558b8ac2eec7883524bf520a19ad24" data-editable="true" data-title="@曹石" data-tip="p$b$4a558b8ac2eec7883524bf520a19ad24">@曹石</a>同 志所在的黑撒乐队，无论是致力于弘扬中华优秀传统文化的许嵩同志，还是身在宝岛台湾心在组织中央的优秀战士张震岳同志，都是此次评选中的杰出代表。要坚持 百花齐放、推陈出新，支持不同风格、不同流派竞相发展，重视继承传统，传艺、传神、传德，鼓励创新创造，出名家、出精品、出流派，努力展现网络歌曲艺术时 代新风貌。值得一提的是，《咬之歌》的原作者尧十三同志，为了培养新一代文艺工作者，把自己的作品无私地献给了组织的新鲜血液不是那么黑同志。</p>
+<p>文化部强调，要建立健全音乐人才培养体系，注重师徒传承，培育观众群体，努力夯实网络歌曲发展的根基。扩大开放程度，鼓励使用具有创新精神的艺名，如「网络 歌手」「东北粗口」「沈阳 mm」「小贱」；提高行业素养，鼓励使用具有艺术气息的作品名，如「秀X你妈个」「傻B情侣」「我想要做爱」「老公老公你好坏」。对于阴三儿、新街口组合 这样优秀的文艺工作团体，一定要扩大影响，加大政策扶持力度，增强“造血”功能和发展动力，要求基层组织结合主题日活动、组织生活会等组织集中学习收听并 进行讨论交流，领导干部要带头学习收听，确保学习取得实实在在成效。</p>
+<p>另外，据不愿透露姓名的知情人士称，周杰伦同志对作品「屌」的入选提 出了质疑。文化部做出官方回应：艺术作品不能流于文字表面，要深入学习贯彻中央重要讲话精神特别是在文艺工作座谈会上的讲话精神，坚守文化立场，坚定文化 自信，树立以人民为中心的工作导向，以核心价值观为引领，推出更多艺术精湛、群众喜爱的歌曲精品，不要动不动就想搞一个大新闻。</p>
+<h3><strong>匿名用户</strong></h3>
+<p>党害了我，以前在我最懵懂纯洁的时候出了一份禁淫秽色情小说的名单</p>
+<h3><strong>答主：</strong><a href="http://www.zhihu.com/people/jimmy-yen">wicked代码</a></h3>
+<p>封锁越来越紧了，说明鬼子的末日就要来了。——李向阳《平原游击队》</p>
+<h3><strong>答主：</strong><a href="http://www.zhihu.com/people/lenneko">Neko Len</a></h3>
+<blockquote><p>“如果她能做一件事绝对保证学校里每个人都会读采访你的文章,那就是禁止它!” 赫敏·格兰杰，《哈利波特与凤凰社》</p></blockquote>
+<h3>知乎用户</h3>
+<p>就当做歌单~~~</p>
+<h3><strong>知乎用户</strong></h3>
+<p>听什么歌你要管<br>
+看什么电影你要管<br>
+读什么书你要管<br>
+上什么网你要管<br>
+说什么话你也要管。</p>
+<p>但是，我们吃什么你不管，住哪里你不管，孩子上不了学你不管，生病了你不管。</p>
+<p>总之该管的你不管，不该管的你他妈全管！</p>
+<p>转自腾讯网友评论</p>
+<h3><strong>答主：<a href="http://www.zhihu.com/people/fu-hong-xue-52">傅红雪</a></strong></h3>
+<p>我国的课堂上并不会教育大家如何正确使用避孕套。<br>
+我国每年都有许许多多的少女流产。<br>
+我国很多人以为紧急避孕药可以随便吃。<br>
+我国极少数官僚和商人非常喜欢十几岁的处女。<br>
+我国的极少数少女还在把同学介绍给人嫖宿。<br>
+我国的许多女人还在闷着捂着坐月子。</p>
+<h3><strong>答主：<a href="http://www.zhihu.com/people/babayage">babayage</a></strong></h3>
+<p>中国版billboard 终于诞生了。<br>
+有个小小的心愿：请定期发布。<br>
+看看多少朋友要去听，这就叫公信力，不服来战。<br>
+我一直在等华语音乐有个讲良心、没铜臭味的靠谱榜单，一度以为这辈子都等不来了。</p>
+<h3><strong>答主：<a href="http://www.zhihu.com/people/ren-ke-31-76">任珂</a></strong></h3>
+<p>列出这120首可不容易，有老有新，港台内地，地上地下，摇滚饶舌，网络金曲。看来组织里有专人“批判性的听”啊。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-120-%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E8%A2%AB%E6%96%87%E5%8C%96%E9%83%A8%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BB%8A%E5%A4%A9%E9%81%93%EF%BD%9C%E6%8A%8A%E8%80%B3%E6%9C%B5%E9%83%BD%E6%8D%82%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%8A%8A%E6%99%BA%E5%95%86%E9%83%BD%E4%B8%A2%E4%B8%8A%E6%9D%A5/" target="cdt-mirror">今天道｜把耳朵都捂起来，把智商都丢上来</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/image.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/image.jpg" alt="image" width="575" height=""></a></p>
@@ -227,7 +305,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ktv/?category=18271" rel="tag">ktv</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8D%E5%8D%95/?category=18271" rel="tag">名单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96/?category=18271" rel="tag">网络文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%90%8D%E5%8D%95/?category=18271" rel="tag">黑名单</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%88%B1%E5%9B%BD%E6%B2%A1%E5%95%A5%E4%BA%86%E4%B8%8D%E8%B5%B7/" target="cdt-mirror">博客中国｜罗伯特卡帕：爱国没啥了不起</a>
 </h2>
@@ -735,40 +813,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1989/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E9%99%88%E5%90%91%E9%98%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%EF%BC%8C%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C/" target="cdt-mirror">华夏文摘｜陈向阳：中国股市，独一无二</a>
-</h2>
-<p><p>中国股市全球独一份，除了熊市牛市，还有猪市。这个猪（朱）是当年股民的调侃：那时朱镕基一发话，股市就可能应声而动。猪市是小名，大名叫“政策市”。如今的政策市又发展到新高度，政府试图调控股市：想调出个“慢牛”来。</p>
-<p>按原来计划，2015年下半年股市将作重大改革：公司上市从审批制改为登记制：政府不再严格管控，凡合乎条件的公司不必再排队一等好多年，请上市吧，只要注册登记就行了。股票能否卖得出，能卖什么价，市场说了算。政府只监视上市公司是否作假违规。其实，在发达国家早就是这样。</p>
-<p>但这次股改需要牛市。如果股市低迷，无人问津，那么多早就憋着上市的公司再一窝蜂挂牌开卖，将是什么结果？这改革一出头就得撞墙，所以必需牛市。</p>
-<p>从2014下半年政府就对中国股市“暖风频吹”。先知先觉的基金经理和老股民看出了苗头。其实，连续7年的熊市（上证指数从2007年的最高点6124点一直跌到了1800多点）已使部分蓝筹股跌出了投资价值。比如大多数银行股年分红已达股价的5%以上。像最大的工商银行，股价一度跌到3.5元，而年分红却长到每股0.26元，为股价的7.4%。</p>
-<p>有如此的“物质基础”，政府再把“暖风”一吹，牛市启动了。2015年初，乐观的基金经理认为，到年底股指会突破3000点。可中国股市的牛脾气一来，谁都摸不准。蹭蹭蹭，股指破了3000点，又破4000，到6月居然窜到5100点！</p>
-<p>大牛市来了，却是疯牛，毫无理性。大牌蓝筹股上涨并不多，比如工商银行仅长到5.5元。而业绩不佳、分红极低甚至不分红的创业板股票却几倍十几倍甚至几十倍往上窜。为什么？因为中国股民和很多基金经理根本就不是投资而是投机，是炒股票，买进卖出赚快钱，才不屑于那每年百分之几的股息分红。而最合适的“炒货”就是创业板股票（还有中小版），它们有时髦的题材，像科技创新、新兴行业，而且盘子小（股票少，总市值小，一般才几亿元），稍微多买就供不应求，股价就涨，就发生“自我实现”：看看，我选对了吧，买了就涨，还得多买！于是越买越涨，越涨越买。追涨的股民蜂拥而入，管什么市盈率、分红，只要股价上涨就行。换大盘股试试，一个盘子几百亿上千亿，没有超级大资金投入根本撬不动。</p>
-<p>这半年多来，中国的疯牛市就在“自我实现”：股价越涨就吸引越多的股民和机构投入，而投入的越多就越涨。但股市的疯狂不可能永远继续。许多股票的股价早已超越了“价值基础”。支撑股价的早已不是公司的未来收益，而是股民的“搏傻”信念：相信还会有更傻的人在更高的价位接货，所以现在的价位买了就能赚钱。搏傻就像击鼓传花，每传一次就有人金钱入账，可一旦鼓声停了，花落在谁手里谁就要把前面人赚的都赔出来。鼓声是一定要停的，因为继续入市的金钱不是无限的。当那些从没玩过股票的大妈一到股市开盘连广场舞都不跳了，上网炒股，当大学生把家里寄来的生活费都拿来买股票，鼓声就快停了。不仅国企的解禁股趁着牛市大出货，变现圈钱，那些吃过苦头的老股民和眼尖手快的基金经理也首先想到见好收，及时卖出，落袋为安，于是雪崩就开始了。绝大多数还没吃过苦头的新股民都会成为“最后接花的“。这次雪崩从6月下旬开始，很快就跌去了一千多点，曾跌到3500点左右。</p>
-<p>半年之中，股指就上涨150%，十几天又跌去30%，而这期间，中国的经济状况变化甚微。股市本应是经济的晴雨表，中国股市却与经济没啥关系，这在全球也是独一份。有人说，这显示出中国股市的高度投机性和赌博性。而股市的背后又是人性，是否该责怪中国股民好投机嗜赌搏？也许有道理，但又不公平：他们进入的就是一个赌场般的股市。</p>
-<p>中国股市在1990年代一建立，基础就打歪了。当时政府急着搞股市有个很重要的原因：为国企脱困。那时的国企远不像今天财大气粗，大部分经营不善、困难重重。政府也远不像今天这么有钱，所以急着从老百姓手里敛钱为国企输血。可许多国企不合上市条件（必须是盈利企业），怎么办？分割重组。许多企业一分为二，亏损留给这半，让另一半账面上盈利，光鲜上市。银行则“剥离坏账”交给国家兜起来，然后一身轻松地上市了。这算什么？说白了就是在政府指使下公然作假！以后的公司上市也常用这套，叫“包装上市”。账面包装的光鲜亮丽，可一上市转脸就亏损，露出真面目。</p>
-<p>而且，中国股票的发行价定的超高，为了尽量多敛钱。按国际惯例，比如在澳洲，股票发行价通常是年盈利的二三十倍（市盈率二三十）。可中国股票却大多定价在四五十倍以上，甚至达七八十倍。而且别忘了，那个盈利已经虚高，是包装出来的。如此高价股，怎么卖得出？有招。发行股票的证卷公司一向都会组织资金“保驾”，让新股一发行先大涨（溢价），使股民形成观念：买新股必赚，所以踊跃“打新股”。</p>
-<p>许多中国的上市公司还不分红。亏损的不必说，可盈利的也不分红，或只拿出很小一部分利润来分红。那么，股民的钱被拿去做什么了？一部分会用来扩大经营，还有呢？经常曝光出公司高管的高薪酬、大红包、奢侈浪费。这还是合法的，非法占用侵吞决少不了，只是很隐蔽。那些上市的国企公司多是腐败的重灾区，这里不多说了。反正小股民们称公司发行股票为“圈钱”，真是一语中的。对那些公司而言，上市就是合法地从股民手里敛钱，然后拿去满足小集团和高管们的个人利益。中国几乎所有的公司都渴望着上市发股，就因为这能最快最大量地捞钱。</p>
-<p>上市公司在股市中获利最多。接下来呢，还有其他的“捕食者”：就是那些兴风作浪的庄家们，包括各种的证卷公司、金融公司、股票基金，有的还与上市公司勾在一起，还有其他机构和个人，反正都是手握大资金炒股票的。他们“坐庄”都选小盘和中盘股，买进卖出，拉升打压，从中渔利。被“斩杀”的多是那些跟风炒作的散户小股民。</p>
-<p>当然，小股民也不甘任人宰割，也琢磨如何咬庄家一口。曾有一阵，有关“股市战法”的书铺天盖地。随手一翻，许多形容庄家手法的词汇透着冷酷和狡诈，比如：诱多、诱空、假摔、震仓、洗盘、砸盘、作盘、打压、拉升、出货等等。这些“中国式股市操作”保准让澳洲股民大跌眼镜：这不都是操纵股价么？是诈骗是犯罪呀！一点不错。中国法律允许公然犯罪么？不许。中国法律当然不许操纵股价盈利，可中国的法律还不许贪污受贿呢！这就是中国：法律是法律，实际是实际。被称为中国最有良心的经济学家吴敬琏曾相当客气地评价中国股市“连赌场都不如”。真的，赌场还严守规矩呢。</p>
-<p>从这样一个股市出来的股民还能是个什么样子？他们能信奉“价值投资”？大多数公司不分红或象征性地分一点，股息收入还比不上银行存款，风险却不小，谈何价值？另一方面，股市投机的诱惑却闪闪发光。不仅股市捞金的故事在民间流传（大多亏损者却不会自揭伤疤），媒体上的股市节目也一面倒地宣传“成功范例”，介绍炒股技巧，举办炒股大赛，对待英雄般地推介炒股高手。实际上，高抛低吸赚差价的短线炒作不过是零和游戏，社会财富没有增加，只不过从亏钱人手里转移到赚钱人手里，本质上如同赌博，对经济和社会不说有害也毫无益处。中国的公共媒体却热衷炒股节目，这在当今世界也属罕见。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/06/gushizhi.png" alt="股市泡沫" width="551" height="310"><p>股市泡沫</p></div>
-<p>都说中国股市和中国经济状况没有相关性：经济好，股市却可能低迷，经济不好，股市也可能暴涨。为什么这样？很简单。经济好了，公司盈利，却不分红或分一丁点，股票收益根本就不反映公司的经营状况。再者，新股定价超高，与上市公司的盈利和资产状况根本脱节。股价不反映公司的状况，那么，股市又怎么能反映中国的经济状况？</p>
-<p>当然，上面说的中国股市有点“过时了”，更像是2007年之前的情况。必须承认，政府早已明白了，中国股市的大弊病从根本上限制了这个重要融资市场的发展，所以早就开始了整治，还曾任命过一位香港专业人士来帮助整治中国股市。多年的努力也有了些效果。如今，明目张胆的欺诈，比如坐庄操纵股价，利用内部消息抢先买卖股票的已经收敛了一些。不少国企大公司还在政府指令下不得不分红。但这些变化还远没有改变中国股民已经相当定型的观念：股市赚钱就是要靠低买高卖的“炒”。发达国家的股民也炒股，但同时也有相当一部分股民和机构奉行“价值投资”：长线投资于蓝筹股。这是保持股市稳定的力量。而中国太缺少长线投资的股民和机构。倒是有不少长期持股的，却是出于无奈：被套住了。一旦解套转身就逃。所以，一窝蜂的追涨杀跌，股价剧烈的大起大落就是中国股市的必然。</p>
-<p>如此质量的中国股民显然不适于政府准备推行的股改。换句话，股票上市由审批制改登记制的条件恐怕还不成熟。这次的疯牛市就是警告。这些天政府为了救市已经暂缓了发行新股的速度，股改也可能向后推延，但前进的决心没变。这次重拳出击救市就显示了政府的决心，还透露出更大的“雄心壮志”。</p>
-<p>有人说，政府出手过早过重。才跌到3500点，离牛市启动前的1800点还远着呢。很多股民和基金还赚着钱呢，只不过把先前赚的又“吐出来”一部分而已，还远没到股灾的地步。政府为何急着出此重手？居然由央行出资，借手一些证卷公司和证金公司大举进场购买股票，还下令国企停止减持（卖出股票）改为增持（买进股票）。这样的“绝杀狠招”在3500点就使了出来，显然不是救股灾，而是要保牛市，是要阻止牛市的终结，还要推动牛市继续下去。简单一句话：中国政府正在投资打造牛市！这又是全球独一份。</p>
-<p>发达国家的股市都跟随本国经济的起落而上下：经济是原因，股市升降是结果。中国政府却试图把这关系反过来：打造一个牛市来拖动减速的经济。详细点说：中国股市本来就没有跟随在经济后边，现在呢，政府干脆试着造出个牛市来拖拽经济。一方面牛市的“财富效应”可以刺激消费增长（老百姓股市赚了钱就会多花钱）。另一方面，可借股市为新一波“创业创新”潮筹措资金。为了刺激正在减速的经济，政府已经制定了一些举措，发起新一波的全民创业创新就是其中之一。但是，需要巨量的扶助资金从何来？如果能让大批的创新企业直接到股市上集资将是最好的解决途径。这就需要股改：改上市审批制为登记制。而此股改又必需牛市。这就是政府启动牛市和力保牛市的主要原因。</p>
-<p>总之，正当中国经济持续减速时，中国股市却爆发了牛市，这已是天下奇事。当疯牛市转而暴跌，中国政府又出重拳止住了跌势（至少目前看来如此）。如果中国政府再能“牵住牛鼻子”，调控出一个按计划增长的慢牛市来，那更将创下全球股市的吉尼斯纪录。</p>
-<p>老实说，这在理论上还真有可能：中国政府有印钞机，可无限买入中国股票，又管控着许多企业，可卖出天量股票，因此，政府有能力做最大的庄家，操纵全部中国股票的价格。负面效果当然会无比巨大，但在这成为事实之前还没必要讨论。</p>
-<p>有一点已经很清楚了：中国股市也在走着一条与世不同的“中国道路”，它最终走向哪里，是撞墙还是趟出一条新通道，目前还难以预测。世界只是瞪大眼睛，且看中国股市令人目眩的表演。</p>
-<p>□ 作者投稿</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E9%99%88%E5%90%91%E9%98%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%EF%BC%8C%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%81%93%E8%B7%AF/?category=18271" rel="tag">中国道路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AA%E5%B8%82/?category=18271" rel="tag">猪市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -790,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>

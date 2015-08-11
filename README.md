@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E4%B8%8B%E6%9E%B6/" target="cdt-mirror">阑夕 | 几点看法：关于“120首网络歌曲下架”</a>
+</h2>
+<p><p>1、文化部的反射弧再度令人惊叹，这是继“38部动漫被列黑名单”之后的第二场网络焚书运动，也是一场带领主流80后网民回溯青春的旅程。</p>
+<p>2、上一次，文化部让我们重温了学生年代藏在课桌里的《樱花通信》和用小水管下载《日在校园》BT种子的温馨记忆，这一次，曾经登录百度MP3最热榜单以及被数百版本FLASH演绎的《大学自习室》和第一代网红、同时也是非主流自杀歌手代表C.K沉珂的《飞向别人的床》又被往事重提，听者有意都是岁月催人老的蹉跎感。</p>
+<p>3、文化部是一个位于夹缝之中的政府职能机构，它在广宣阵线中的地位常被低估，级别比不过中宣部，权力不如广电总局，寻租空间小于出版总署，近年以来连网信办都能频繁插手文化部的职能领域，因而文化部只得主动刷脸换取存在感。</p>
+<p>4、用戈培尔的话来说，“宣传只有一个目标，就是征服群众”，比如在他担任主席的德国文化协会，就集中到了决定德国人能看什么样的画作、小说、电影、报纸的权力。德国文化协会在首都柏林开展过数起烧书运动，比如著名的批判现实主义作家亨利希·曼就因“思想颓废、道德败坏”被烧过书，像弗洛伊德这种那就更不用说了，德国文化协会的烧前评语是“灵魂扭曲的性生活”。</p>
+<p>5、在当初关于《进击的巨人》的评论里，我明确表达过一个观点，即“文艺创作没有禁区”，很多人唯独觉得此处值得商榷，他们的确隐约觉得审查权力不应潜移默化的授予公权，却又出于某种“价值观”的惯性理解，认为似乎文艺作品应当有着“好坏优劣”——注意，这里指的不是专业或是学术上的标准——的分别，有些作品就是应当在这个世界上不复存在，而权力正是实现这种心愿的捷径。</p>
+<p>6、可惜权力往往也是不受控制的巨蚺，屠刀不会选择性的落到谁的头上，它的重量一定是整体承担的。曾有微博用户刚为自己极其厌恶的某部作品遭遇钳制而欢欣鼓舞奔走相告，转瞬又会发现封杀大权又对准了自己拥戴热爱的领域，乐极生悲的哭丧画面又反哺出了亲痛仇快的效果，嘲讽不绝于耳：“还真以为自己姓赵了？”</p>
+<p>7、一边慢条斯理的说“封禁是不对的”，一边理性客观的说“但有些作品也确实低俗，封了也好”，这种游走于伪君子和真小人之间的声音最为卑劣。戈培尔对心腹私下评价这类人，是这样说的：“假如我对这帮家伙发问，是否愿意从哥伦布大厦的楼顶上往下跳的话，他们也同样会吼‘愿意’的。”</p>
+<p>8、西方极权国家通常具备一套美学理论，这在历史唯物主义的角度来看，或许还是有着些许留存价值，包括希特勒倍加重视的里芬施塔尔——她被称为“插在纳粹历史上的艺术之花”——和斯大林对帕斯捷尔纳克等诗人的克制与容忍以及现今仍然可见的帝国式建筑风格，都很难全盘否定。但这取决于领袖的质素和视野，换到朝鲜，哪怕金正恩长期留学欧陆、通晓三国语言，李雪主的穿衣打扮也难逃乡土气色。</p>
+<p>9、说到底，外行指挥内行，是比内行指挥内行更为可怕且缺少底线的事情。用女权主义者的话来讲，“地球上就没有比人到中年的官僚更恶心的生物了”，而让他们来传授何为审美的信达雅，简直堪比蒙古海军舰队。</p>
+<p>10、苏轼与佛印禅师论道的民间故事流传已久，心中填满牛粪，自然看什么都是牛粪。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E4%B8%8B%E6%9E%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2/?category=18271" rel="tag">歌曲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8F%91%E8%A1%A8%E4%BF%9D%E5%AE%88%E8%A8%80%E8%AE%BA%E8%A2%AB%E8%BD%B0%E3%80%8C%E5%81%B6%E5%83%8F%E5%B4%A9%E5%A1%8C%E3%80%8D/" target="cdt-mirror">端传媒 | 艾未未发表保守言论被轰「偶像崩塌」</a>
 </h2>
 <p><p>「偶像崩塌」、「助纣为虐」、「变节」、「投降」……这些词在过去的几天中，被用来形容重新获得护照才半个月的中国艺术家、异议人士艾未未。一向被视为中国异议光谱中激进象徵的艾未未在抵达德国後突然发表被许多人视为「保守」的言论，震惊甚至激怒了不少中国异议者，中国官方媒体《环球时报》将这总结为「艾未未没骂政府，西方不高兴了」。</p>
@@ -754,42 +774,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A6%88
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%EF%BC%9A%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%A8%E6%88%B7%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/" target="cdt-mirror">【网络民议】上海电信：亲爱的用户我是你爹</a>
-</h2>
-<p><p>2015年8月8日，有新浪微博用户曝光了与上海电信客服的聊天记录，证实了其限制外网并将以此强推所谓“上外网增值服务”的行为（本文所指外网不包括被墙网站）。</p>
-<blockquote><p><a href="http://weibo.com/1045528843/CuSQwoQAU">@PriorCode神奈</a>：#上海电信限制外网# “以后不办理这个服务电信用户上外网就是很慢的。”咨询过官方在线客服，已得到明确答复：八月中旬会推出新的上外网增值服务。人不要脸果天下无敌。先剥夺你上外网的权利然后再把这个原本应得的服务通过再购买的方式强行让用户买单。很少骂人，这次翻遍了辞典都找不到合适的词了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A11.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A11.jpg" alt="上海电信1" width="369" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A12.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A12.jpg" alt="上海电信2" width="369" height="161"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A13.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A13.jpg" alt="上海电信3" width="440" height="258"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A14.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A14.jpg" alt="上海电信4" width="440" height="146"></a></p></blockquote>
-<p>今年6月就曾有用户对上海电信限制外网的行为<a href="http://weibo.com/p/1001603859480025636674" target="_blank">进行了曝光和抗议</a> ，称近期“每天高峰时段访问国外网站困难”，但“同一时间点非本地点电信却没有这种现象”。</p>
-<p>上海电信这一行为似乎与防火长城无直接关联，可能是作为垄断企业逼迫用户接受涨价的一种手段。但对原本就被挡在墙外的中国网民来说，这无疑是<del>伐要米空</del>雪上加霜。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1758373263" target="_blank">@Roxanne-Zhang</a>：广州的路过<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">只有电信的光纤才能用VPN，其他省网络和市网络全把VPN禁止了。。今年回国发现上个自己大学官网都上不去<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">心想我们一理工屌丝大学从来不跟政治挂钩。。为什么要封。。。查成绩根本没法查 要上学校官网注册新学年也没法注册 还要最可恶的是老子要复习的时候连讲义都看不了<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<blockquote><p><a href="http://weibo.com/2278234951/Cv1aDdCnO" target="_blank">@MingjunYang</a>：嗯，4.39KB/S、 3.0KiB/S速度真的很快很快了！！！回顾一下调制解调器的发展史，1960年代工程师们为1200bit/s和2400bit/s的传输速度欢呼鼓 舞了！！！真的感谢技术提供者们，真的真的诚心感谢！！！这是这个时代的巨大进步嘛，毕竟比那个时代快了成千上万倍了！！！<a href="http://huati.weibo.com/k/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1?from=526" target="_blank">#<em>上海</em><em>电信</em>#</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/87cb1b47gw1euwbdxj27lj20xc18gtlm.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/87cb1b47gw1euwbdxj27lj20xc18gtlm.jpg" alt="87cb1b47gw1euwbdxj27lj20xc18gtlm" width="440" height="587"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/87cb1b47gw1euwbdy3kwtj20xc18gth1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/87cb1b47gw1euwbdy3kwtj20xc18gth1.jpg" alt="87cb1b47gw1euwbdy3kwtj20xc18gth1" width="440" height="587"></a></p></blockquote>
-<p><a href="http://weibo.com/2836041855/Cv01HqWPe">CDog_poi</a>：<a href="http://huati.weibo.com/k/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E9%99%90%E5%88%B6%E5%A4%96%E7%BD%91?from=501" target="_blank">#上海电信限制外网#</a>看 来有必要澄清一下…昨天发的那条电信丢包率100%的微博是我的疏忽，没考虑对方站点禁止ping的这个因素。今天用境外的主机测了一下，确实我测得 两个站点都是禁止ping的…随后我又测试了几个常用的境外网站，测得电信实际丢包率在30%~56%之间</p>
-<p><a href="http://weibo.com/2836041855/CuUNau0S2" target="_blank">@CDog_poi</a>：#上海电信限制外网#上海电信20M下行的光钎，访问app store和onenote等了半个多小时了都没打开！这些网站又不像某些社交网站。app store和onenote都是工作必须用到的，这样一搞工作都没办法做…每年几千块钱交给电信换来的就是这种网络质量？电信你给我出来解释下！！@中国电信 @中国电信客服</p>
-<blockquote><p><a href="http://weibo.com/1505366414/Cv07Kpwz7" target="_blank">@八汰乌</a>：这就是电信100m!!</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/59ba118ejw1euw6ti95cvj20y00y0tgd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/59ba118ejw1euw6ti95cvj20y00y0tgd.jpg" alt="59ba118ejw1euw6ti95cvj20y00y0tgd" width="440" height="440"></a></p></blockquote>
-<p><strong>@林沛满：上海成天号称要追赶香港，成为国际化大都市，其实连国外网站都上不去。我说的不是政治敏感型网站哦，而是连国外大学官网、企业网、技术交流社区等等都包括在内。花钱买VPN也不行。网络包如下，我想上的是微软的官网，但三次握手根本无法成功。下次改成追赶平壤行不？别侮辱香港了。</strong></p>
-<p><a href="http://weibo.com/3070772007/Cv1lQv8iZ" target="_blank">@总觉得背后有人说我帅</a>：<a href="http://huati.weibo.com/k/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E9%99%90%E5%88%B6%E5%A4%96%E7%BD%91?from=526" target="_blank">#上海电信限制外网#</a> <img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">看到这个话题才知道原来不是win10 的锅啊 买个慈善包都要挂vpn去收key 试了下打开美亚 3分钟了加载了几张图<img title="[泪流满面]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/lxhtongku_org.gif" alt="[泪流满面]"></p>
-<p>@spellingford：#上海电信限制外网#这是重大的商业欺诈行为。对消费者的网速擅自加以限制，办理时也不告知消费者更是罪上加罪，真不知道这算不算垄断@工信微报 @12321举报中心 @上海市消保委</p>
-<p>@黑土雨：回复@OrchidKid:在公司的时候比较顺畅。回家后就一塌糊涂……</p>
-<p>@LittleSB：#上海电信海外访问受限# 我火狐的flash根本更新不了，限制你妈啊</p>
-<p>@靠垫大魔王：@中国电信客服 @中国电信 上海电信单方面违约，限制海外网站流量（非被墙网站）， 包括apple.com，github.com等，要求中止合约，退回我一年预付的费用</p>
-<p>@yi然很天真：#上海电信限制外网#河北这边ping搬瓦工主机丢包率能到50%</p>
-<p>@元气魂：[挖鼻]上海电信应对政府深化改革开放和降低资费的措施就是减少国际出口带宽，普通用户要上外网请购买1小时1元的氮气瓶加速服务，机智啊机智。</p>
-<p>@哎呀就玩一下：人要脸树要皮，人至贱则无敌。上海一直想超越深圳成为一个有标志性互联网城市，看来是越走越远了。</p>
-<p>@天邪鬼1917_heart大人洗白了吗: 亲爱的用户我是你爹</p>
-<p>@黄家炜1984：此时此刻作为中国人坚决拥护美帝国主义把长城防火墙给拆了。中国人民水深火热啊</p>
-<p>@Yuuki雨：我无锡的，经常会用着用着网页循环…我简直了</p>
-<p>@炎星站：原来说提速的意思是国内的提速国外的减速。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%EF%BC%9A%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%A8%E6%88%B7%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1/?category=18271" rel="tag">上海电信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">垄断企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -801,7 +785,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -811,5 +795,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>

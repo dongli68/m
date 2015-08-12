@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20gferc35pg6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E6%B0%91%E7%BD%91-%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%85%8B%E5%BF%97%EF%BC%9A%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%A6%84/" target="cdt-mirror">人民网 | 河北省委书记赵克志：党员干部绝不能妄议中央</a>
@@ -366,7 +366,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">禁歌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E4%B8%8B%E6%9E%B6/" target="cdt-mirror">阑夕 | 几点看法：关于“120首网络歌曲下架”</a>
 </h2>
@@ -820,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20gferc35pg6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -830,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>

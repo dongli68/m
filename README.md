@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E6%B0%91%E7%BD%91-%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%85%8B%E5%BF%97%EF%BC%9A%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%A6%84/" target="cdt-mirror">人民网 | 河北省委书记赵克志：党员干部绝不能妄议中央</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5666D4C3F6F5957DBD816D3D0057D388.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5666D4C3F6F5957DBD816D3D0057D388.jpg" alt="5666D4C3F6F5957DBD816D3D0057D388" width="363" height="558"></a></p>
+<p>人民网北京8月12日电 《河北日报》10日在头版刊发《赵克志在唐山调研时强调 认真贯彻习近平总书记重要指示要求 推动全省经济社会平稳健康发展》一文。文中称，9日下午，赵克志与唐山市四套班子主要负责人进行座谈时强调，党员干部在政治上绝对不能犯自由主义，绝不能妄议中央，绝不能散布与中央和省委精神相悖的言论。全文如下：</p>
+<p>省委书记赵克志8月8日至9日在唐山调研时强调，习近平总书记系列重要讲话是我们统一思想认识的强大思想武器，是我们推动河北各项事业发展的根本指针。唐山要讲政治、讲大局、讲担当，认真贯彻习近平总书记重要指示要求，在贯彻落实中央和省委决策部署上走在全省前列。要坚定发展信心，加快调整经济结构，抓住重大机遇，确保和谐稳定，推动经济社会平稳健康发展。省委常委、唐山市委书记焦彦龙，副省长姜德果分别参加调研。</p>
+<p>渤海之滨，发展潮涌。曹妃甸经过十几年的开发建设，由昔日的荒滩沙岛变成今天的深水大港，现已拥有国家级经济技术开发区、河北省首家综合保税区、循环经济示范区等金字招牌，成为新崛起的沿海开发区。赵克志来到曹妃甸工业区置业大厦规划展厅、北京（曹妃甸）现代产业发展试验区先行启动区、首钢京唐钢铁公司、25万吨级矿石码头，详细了解曹妃甸的历史发展、产业聚集、打造协同发展示范区等情况。在首钢京唐钢铁公司，他一边参观企业，一边仔细询问产品规模、种类、规格及京唐合作、海水淡化等情况。得知该公司正在努力建成具有先进产品制造、能源高效转换、废物消纳处理和资源化利用的新一代钢铁厂，赵克志对企业的发展目标给予充分肯定。烈日炎炎，海风猎猎。在曹妃甸25万吨级矿石码头上，赵克志认真察看码头建设情况，向有关负责同志了解港口吞吐能力、临港产业发展等情况。赵克志指出，曹妃甸具有港口、土地、区位、交通、资源、政策等方面的组合优势，发展潜力巨大，一定要把握好定位，加快开放开发步伐，迅速成长为渤海湾的重要增长极之一。</p>
+<p>在南堡经济开发区，赵克志考察了全国纯碱和化纤行业的排头兵——唐山三友集团有限公司。他深入氯碱公司主控室、化纤公司纺练车间、硅业公司主控室，详细了解企业发展现状、市场形势、产品价格、循环经济发展等情况。“三友的事业，根基在基层、关键在干部、源泉在职工”“人企共兴、家园共育、未来共创”……看到车间悬挂的企业文化展板，赵克志停下脚步仔细品读，对三友集团“真想事、真干事、真管人、真管事”“用真心、说真话、做真人、干真事”的文化理念深表赞赏。</p>
+<p>“接轨世界，牵引未来。”唐山轨道客车有限责任公司是我国首列国产时速350公里CRH3型“和谐号”动车组的诞生地。沿着现代化的生产线，赵克志边走边了解动车组关键技术、生产流程、配套产业等情况，并跟一线职工亲切攀谈，关切地询问他们的工作、收入等情况。他叮嘱当地有关负责同志，要放宽眼界，全力服务企业，特别是要推动配套产业发展聚集，为转型升级注入活力。</p>
+<p>唐山钢铁集团有限责任公司是河北钢铁集团的骨干企业，全国特大型钢铁企业。来到唐钢，赵克志实地了解了污水处理中心设备工艺，并冒着高温参观了3200立方米高炉，了解高炉运转情况和环保技术，对唐钢花园式厂区建设给予充分肯定，称赞唐钢是钢铁行业的标杆。</p>
+<p>调研期间，赵克志还考察了唐山爱信汽车零部件有限公司，唐山开诚电控设备集团有限公司，开滦国家矿山公园博物馆，南湖生态城和2016年世界园艺博览会场馆等企业和项目。</p>
+<p>唐山市在39年前那场大地震中被夷为平地，如今在地震废墟上已建设起一座崭新的城市。赵克志来到唐山地震遗址公园，在地震纪念墙前敬献鲜花，向唐山大地震罹难同胞和在抗震救灾中捐躯的英雄表示深切哀悼，向具有光荣传统的唐山人民致以崇高敬意。</p>
+<p>9日下午，赵克志与唐山市四套班子主要负责人，各县（市、区）委书记、县（市、区）长，市直综合部门主要负责人进行座谈。在听取了唐山市经济社会发展情况汇报后，赵克志指出，唐山市发展取得很大成绩，园区建设、项目建设和企业发展都给人留下深刻印象。</p>
+<p><strong>赵克志指出，前不久，省委召开常委扩大会议，就贯彻中央决定精神、做好当前工作提出明确要求。总的是，深入学习贯彻习近平总书记系列重要讲话精神，协调推进“四个全面”战略布局，高举发展、团结、奋斗的旗帜，把思想统一到总书记系列重要讲话精神上，把心思集中到发展上，把力量凝聚到全面建成小康社会上，正确处理发展、改革、稳定的关系，调动一切积极因素，把干劲鼓起来，推动各项工作的落实，努力保持全省政治、经济、社会大局稳定。唐山要讲政治、讲大局、讲担当，在贯彻落实中央和省委决策部署上走在全省前列。</strong></p>
+<p><strong>赵克志强调，要深入学习贯彻习近平总书记系列重要讲话精神，坚决在思想上、政治上、行动上同以习近平同志为总书记的党中央保持高度一致。总书记系列重要讲话是我们统一思想认识的强大思想武器，是我们推动河北各项事业发展的根本指针。学习习近平总书记系列重要讲话，要注意解决严守政治纪律和政治规矩问题。要对党绝对忠诚，带着感情和责任，坚决在思想上、政治上、行动上同以习近平同志为总书记的党中央保持高度一致，坚决听从中央指挥，坚决维护中央权威。党员干部在政治上绝对不能犯自由主义，绝不能妄议中央，绝不能散布与中央和省委精神相悖的言论。对各种错误思想、错误言论，要旗帜鲜明地严肃批评纠正。要大力倡导忠诚、干净、担当。开展好“三严三实”专题教育，把干部的心思和精力集中到干事创业上，聚精会神，心无旁骛，全面落实好中央和省委的决策部署。</strong></p>
+<p>赵克志强调，要坚定发展信心，加快调整经济结构，提高经济增长质量和效益。唐山的区位优势明显、交通条件很好、产业基础雄厚，多项重要经济指标处于全省前列，发展大有希望，大家应该充满信心，着力提高经济增长质量和效益，加快结构调整步伐。要加快传统产业升级。由要素驱动转向创新驱动，抓住“中国制造2025”和互联网+行动计划等契机，大力推进工业化与信息化深度融合，围绕产业链，部署创新链，提升价值链，向绿色、高端、集约、高效方向转变。要大力发展战略性新兴产业。把高端装备制造、电子信息、节能环保、新能源、新材料，作为新的经济增长点来抓，引进龙头企业，引进技术人才，努力做大做强。要把调结构与治污染结合起来。压减过剩产能，淘汰落后产能，加快企业环保设施建设，推进节能降耗，发展循环经济，实现经济发展和生态建设的双赢。</p>
+<p>赵克志指出，要抓住重大机遇，按照“三个定位”要求，加快实施京津冀协同发展战略。习近平总书记2010年到唐山视察时提出，要把唐山建成东北亚地区经济合作的窗口城市、环渤海地区的新型工业化基地、首都经济圈的重要支点。这“三个定位”，饱含战略思考，饱含殷切期望，非常符合唐山实际，具有重大而深远的指导意义。落实好总书记提出的“三个定位”要求，关键是抓住京津冀协同发展的重大机遇。落实京津冀协同发展规划纲要，最根本的是深刻学习领会总书记京津冀协同发展的重大战略思想，提升河北发展质量和水平。从全省来看，各市县要把工作做得精准，精准确定功能定位，精准选择协同发展的载体和抓手，精准承接非首都功能疏解和产业转移。把推进京津冀协同发展与谋划“十三五”结合起来，加强战略研究，制定发展规划，优化空间布局，把重点发展的产业明确下来，坚持一张蓝图绘到底。抓好战略平台的开发建设，加快推进北京与河北联合共建曹妃甸协同发展示范区，曹妃甸中日韩循环经济示范基地，唐山湾生态城等重大工程。盯住重大项目不放松，对首钢二期、华润二期、千万吨炼化等项目，要成立专门班子，统筹调配资源，尽快早开工、早建成、早见效。继续加强基础设施建设，对港口、铁路、高速等重点工程，要加快建设进度，拉动投资，改善环境，带动开放开发。曹妃甸面积大、优势大、潜力大，经过十多年的探索建设，有了很好的基础，要全力以赴抓紧抓好，加快往里装项目、聚人气，形成增长极。</p>
+<p>赵克志强调，要充分发挥“护城河”作用，确保社会和谐稳定。唐山地理位置特殊，要正确处理改革发展稳定的关系，认真落实维护稳定的第一责任，把工作做实做细。要加强社会治理体系建设，抓好公共安全，严厉打击刑事犯罪，特别是涉枪涉爆犯罪，落实安全生产责任制，加强食品药品监管，严防各类事故的发生。要扎实做好群众工作，深入开展信访维稳攻坚行动，抓源头、抓基础、抓落实，特别是领导干部要亲自接访、下访、包案、督访，组织干部驻村，解决实际问题，最大限度地把信访量降下来。要做好重大活动安保工作，加强重点部位、重点场所安全保卫，加强重点人员监控，打造平安和谐稳定的良好环境。</p>
+<p>唐山市主要负责同志和省有关部门负责同志参加调研。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E6%B0%91%E7%BD%91-%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%85%8B%E5%BF%97%EF%BC%9A%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%A6%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0/?category=18271" rel="tag">中国制造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E5%A4%A7%E5%B1%80/?category=18271" rel="tag">讲大局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">讲政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D/?category=18271" rel="tag">重要讲话</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BE%AF%E8%99%B9%E6%96%8C%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E6%98%82%E8%B4%B5/" target="cdt-mirror">侯虹斌｜中国女人为什么这么昂贵</a>
 </h2>
 <p><p>最近被刘强东与奶茶妹妹的消息刷屏。</p>
@@ -60,6 +86,45 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%A4%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%B9%B6%E4%B8%8D%E5%A4%A7%E7%9A%84%E6%B5%B7%EF%BC%9A%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E7%BF%BB%E5%A2%99%E6%9C%89%E5%A4%9A%E9%9A%BE-%E8%80%8C%E6%98%AF%E5%B7%B2/" target="cdt-mirror">翻墙 | 重要的不是翻墙有多难 而是已经没人想要翻墙</a>
+</h2>
+<p><div dir="ltr">今天，代理又坏了。我和几个朋友又打开微信群，开始讨论如果它就此死掉，下一步我们该换什么别的方法。</div>
+<p>最近几个月，这个只聊翻墙问题的群常常被顶在微信第一页。</p>
+<p>我现在在用的这个工具一个月60块钱。乍一看，这个数字不高。可如果你从好几年前就开始尝试翻墙，一步步的为这件事花越来越多的钱，就会觉得这个价格其实不低。更为重要的是，当现在我再和人们讨论起“我一个月花在翻墙上的钱有60块”时，绝大多数人的反应都是“WOW，那真是太贵了。”</p>
+<p>其实我特别能理解这件事，因为在大多数人眼里，翻墙本来就不应该花钱。</p>
+<p>早些年，翻墙确实不需要花钱，一个在线代理就搞定了，而且是纯免费的。那时候翻墙需求非常小，不仅是因为那年大家普遍知道的少，更因为那年需要翻墙的网站特别少。偶尔碰到一个打不开的，在线代理输一下地址，看两眼，关掉网页，就算完事了。而随着六七年来多的令人费解的网站一个又一个的变成了404，翻墙，才成了一件不得已而为之的事情。</p>
+<p>很多人一听到我抱怨付费的翻墙工具又不好用了，就存在感满满的跑来跟我说自己的免费VPN还很好用。对于这样的人，我历来连回复都懒得写。还在用VPN尤其是免费VPN的人，通常还处在翻墙最最基础的阶段，根本不足以谈论这件事。时至今日，你做许多许多事都要翻墙，甚至看个外国大学官网登登人家的博物馆都要翻墙，请问你每天要连线和断线VPN多少次呢？你耐得住那个烦吗？</p>
+<p>如果你承认你其实耐不过那个烦，也就罢了。可如果有人还不知好歹的说自己很耐烦，那才叫贻笑大方。事实上，正因为VPN这种翻墙方式实在太过繁琐和不便，才导致几年以来，常翻墙，愿翻墙，能翻墙，知道翻墙的人越来越少。如果你想不通为什么会这样，你应该了解这样一句话：不要尝试对抗自己的人性。</p>
+<p>今天当代理又坏掉而大家又围在一起吐槽时，我说了一句看上去特别傻逼的话，可这句话却很残酷的是对的。</p>
+<p>我说：当我们这群想翻墙愿意为翻墙花钱的人都在一次又一次面对人性中有关失败、挫折、无效努力和麻烦的考验时，全中国常态翻墙的网民可能已经只有总人数的千分之一了，甚至更低。</p>
+<p>这不是自以为是，也不是装逼，而是一句实话。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/310599-3c9a3c091d571ec1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/q/100" alt="" width="640" height="491"></p>
+<p>几年的时间足以改变许多的事情，时至今日，绝大多数网民都已经丢失了翻墙这种习惯。一来，他们中间有很多人根本不知道翻墙能带来什么好处。二来，国内互联网尤其是移动互联网的爆炸式发展，确实在很短的时间里就创造出了足以弥补那些该页无法访问们缺口的产品。哪怕，缺口可能只是用泥巴勉强给糊上的。</p>
+<p>每当我说出诸如“连我都……可想而知有多少人会……”的句式时，总会遭受到一些精英分子的白眼。原因是，这些尊贵的精英们地位之高，所拥有之多，根本不会使他们面对与我和我的同辈们一样的问题。可是，难道仅仅因为他们的世界里什么问题都没有发生，世界就一片太平了吗？</p>
+<p>我常常想起过去我曾经举过的例子。当我放言时常读书的人仅占总人口5%的论调时，那些常读书的知识分子往往对我百般冷嘲热讽。原因只因为，他们身边都是读书人。可是如果我们真正仔细的环顾周围乃至将目光努力放的更长远一些，就会发现读书在当今本来就是一些近乎奢侈的事情，更不要提常读书了。任何一个人都绝不能因为自己身边的读书人多，就尝试否认中国全民频繁阅读率很可能低于5%的事实。换句话说，14亿的5%，就是7000万读书人口了，你觉得中国的读书人口能有7000万吗？</p>
+<p>这件事上所反应出来的东西与如今几乎已无人翻墙的本质是一模一样的。如今，需要翻墙的网站是如此之多，翻墙工具是如此脆弱，国内各功能各用处的网站和App是如此之全，在这样的情况下，翻墙还对多少人是一件“必要”的事情？当你一次又一次的连接VPN还没搜完两个关键词VPN又自动断线时，你会不会就那样屈从于百度，并从此忘记了翻墙这件事？</p>
+<p>当真正常态化的翻墙已经几乎非付费而不行时，当每个月为翻墙所做的付费越来越高时，当付费的翻墙工具一个又一个的沦陷时，当人们和我谈起翻墙这件事，我还能乐观吗？</p>
+<p>而且别忘了，当我讨论这些问题的时候，我的讨论范围仅仅局限于那些尚存一丝“想”翻墙愿望的人，而这群人在总人口中又占多少呢，这一比例，难道不又比愿意读书的人低的多吗？</p>
+<p>每当我这样谈论起翻墙时，除了几天上那么几分钟的免费VPN党，就是一些高技术高门槛高平台的不以为然党，这帮人的论调，比免费VPN党更加荒唐。在他们眼里，只要学会了技术就没有这些问题了，只要进了名校／出了国／进了世界五百强或中国五百强就没有这些问题了。也许他们真的觉得站在那个高处是一件再正常不过的事情，可放言整个中华大地，又有几个人能有机会站在那样的高处？</p>
+<p>还有一些人，每当我谈论翻墙时就会跟我解释，翻墙是政策需要，是迫不得已，翻墙有很多复杂的目的，譬如是为了提高某些信息的获取门槛……说实话，早几年，我也相信过类似的说法，理解过我党我国的某些也许存在的苦心。毕竟我们这些斯德哥尔摩症候患者们，总会有那么一些不切实际的幻想。可这么多年看过来，这些幻想我早就全都没有了，原因在于，它们没有一个站得住脚。</p>
+<p>中国大陆地区限制访问的网站，已经远远超出了任何政策和法规限制的管理范畴，几乎任何一个境外网站哪怕只有一次表达了哪怕一丁点不合某类人眼的文字或图片，就会被无情的直接抹去，永无恢复之日，甚至大学资料库和艺术类网站也无法幸免于难。随着时间逐渐流去，我甚至已经丧失掉了最先很多网站被封时内心的那种诧异，因为我知道，即使想破脑袋也想不出来禁止访问原因的网站，一样会源源不断的列入GFW的无法访问名单。</p>
+<p>而这一切的发生，究竟原因何在呢？我们不知道原因，因为从来没有任何人凭借任何理论来向我们我们解释为什么会发生这些事情。我们所能听到的倒是一些类似于“XX属于中国内政，别国无权干涉”“中国依据相关法律法规管理互联网违法行为”“中国的互联网世界最自由”等的官方辞令。更为让人百思不得其解的是，都这么多年过去了，这么多东西被夺走了，这么多片地方一块又一块的沦陷了，而我们中的任何一个人都仍然不知道是什么部门的什么人在以什么样的居心背着我们所有人替我们做出了这些“最终决定”。</p>
+<p>翻墙工具呢？翻墙工具一个又一个的被追杀。最近两三年，我用的翻墙工具甚至几乎没人知道，而他们的用户量也无一例外少得可怜。使用它们都需要付费，付费是最有效的门槛，足以把相当多数人挡在门外，也足以“确保”用户的始终有限。可这几年来，这样的翻墙工具一个又一个的被端掉，而他们被端掉以后，甚至在网上掀不起什么涟漪。不是因为用过它们的人都没有感情，而是因为大家都不知道有过它们。</p>
+<p>当这些年这些事情一而再再而三的发生的时候，我内心已不再有任何幻想，因为我知道，幻想都来源于不了解，现在网上很多的论调，曾经的我几乎都有过，而且我的态度我的言辞，比他们还要激烈的多。可随着越长越大，知道的越来越多，我实际是很幸运的把很多问题都想得越来越清楚了。然而这种幸运并不是人人都有的，也不是人人都认为它是一种幸运，每当把一个问题想的更清楚，我就更确切的感觉到，在很多问题上拒绝人云亦云，叛逆偏激或者被洗脑，是一件有些孤独的事情。</p>
+<p>如果在过去时光的某一个瞬间，我因为阴差阳错而错过了那个促使我去不断研究翻墙新办法的理由，我会如何呢？我不愿去设想这样一种可能，因为这种可能的答案实在太过清晰，我身边到处都是答案。确实，我没有出身优越，也没有天赋异禀，我从小到大并未足够努力，使得我在某个年纪突然幡然醒悟之后开始努力之后，却仍然不能快速脱离我所处的境况。可事实也是，因为运气和许许多多原因导致意识不到这些事情的人，远比我之上意识的到这些事情的人多，而且多的多。</p>
+<p>早些年，我是一个“忧国忧民”的人——这就叫年轻。等过了一个年纪，我脑袋里早已不会常常有这些没有必要的想法。可每当我一次又一次不断面对这样的问题时我不免又想，这样的状况，会持续多少年呢，难道会永远持续下去吗？难道中国人真的自信自己的14亿人能够对抗剩下将近60亿人的智慧吗？不，我不认为是这样的，我相信终归有一天，今天发生的这些事情都会改变，世界各个地方的人会分享智慧、知识、观点和创造，而不是像现在这样，我要和他们产生交流都是那么的困难。可是，当那一天到来的时候，今天这一代从这样的环境里长大出来的人又该如何面对呢？</p>
+<p>这个国家，愿意将这个炸弹一般的问题埋下，等到十几年或几十年后再去解决吗？</p>
+<p>源地址：http://www.jianshu.com/p/8c643bd4c3f4</p>
+<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html" target="_blank" rel="nofollow">订阅地址及社交帐号</a></div>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
+<hr><p><small>© 亚克蜥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%B9%B6%E4%B8%8D%E5%A4%A7%E7%9A%84%E6%B5%B7%EF%BC%9A%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E7%BF%BB%E5%A2%99%E6%9C%89%E5%A4%9A%E9%9A%BE-%E8%80%8C%E6%98%AF%E5%B7%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/x%E5%8D%9A%E5%A3%AB-%E5%AD%A6%E4%B9%A0%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E5%90%8D%E5%8D%95%E4%B9%8B%E5%90%8E%E7%9A%84%E5%B0%8F%E5%BF%83%E5%BE%97/" target="cdt-mirror">X博士 | 学习文化部禁歌名单之后的小心得</a>
 </h2>
@@ -744,48 +809,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%A8%8E%E6%94%B6%E6%98%AF%E4%B8%80%E7%A7%8D%E6%8B%94%E9%B9%85%E6%AF%9B%E7%9A%84%E8%89%BA%E6%9C%AF/" target="cdt-mirror">【异闻观止】人民日报 | 税收是一种拔鹅毛的艺术</a>
-</h2>
-<p><p>人民日报谈征房地产税：不是为了降房价</p>
-<p>房地产税进入全国人大立法规划的消息，近来颇受社会关注。</p>
-<p>持期待态度的群体往往是出于这样的逻辑：房地产税出炉——多房人士不堪税负而抛售——市场上房子供给增多——房价下降。</p>
-<p>需要指出的是，推房地产税，目的不是为了降房价，而且在客观上也起不到压低房价的作用。重庆、上海两地试点房产税4年多，对房价的调控效果影响不大，就是一个例证。决定房价的，归根结底还是供求关系。由于现在各地的商品房库存已经很大了，全国层面供大于需。所以房地产税出台，对房价的总体走势很难起到立竿见影的作用。</p>
-<p>那么，该如何认识房地产税呢？房地产税作为未来地方的重要税种，在调节财富分配、抑制房地产市场投机等方面有重要作用。</p>
-<p><strong>第一，它能降低大多数纳税人的“税收痛苦”。从征税角度来说，税收是一种拔鹅毛的艺术，鹅毛肯定要拔，高水平的表现是：既把鹅毛拔下来，又不让鹅叫唤，或者少叫唤。</strong></p>
-<p>税收理论中有这样一个定律：假设宏观税负既定，社会成员总体的税收痛苦程度，与间接税的比重成正比，与直接税的比重成反比。</p>
-<p>需要指出的是，间接税由于直接嵌入商品售价，因此往往通过价格渠道转嫁由消费大众承担。而支付能力强的富裕阶层承担的直接税比重过低，反而税负不高。</p>
-<p>我国税制结构里直接税比重偏低是突出问题。而房地产税是直接税，开征它有利于降低间接税比重，从而会减轻大多数纳税人的痛苦感，社会税负的归宿也将更加公平合理。</p>
-<p>第二，它能发挥抽肥补瘦的功能。税收，取之于民，用之于民。但是，取之收入点与用之支出点并不是一一对应的，因为税收的一大职能是收入调节进行再分配，也就是抽肥补瘦，故能发挥收入调节的作用。</p>
-<p>第三，它有助于房地产市场保持理性的发展方向。房地产税的一大作用就是调节房地产消费的高端需求部分，一来，一部分潜在购房者会调整预期而放弃购买；二来，热衷于追求建造“高大上”小区、瞄准少数高端购房者市场的部分房地产开发商，或会考虑多倾力于中小户型住房。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%A8%8E%E6%94%B6%E6%98%AF%E4%B8%80%E7%A7%8D%E6%8B%94%E9%B9%85%E6%AF%9B%E7%9A%84%E8%89%BA%E6%9C%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%81%E7%A8%8E/?category=18271" rel="tag">征税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%80%E6%B1%82/?category=18271" rel="tag">需求</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E6%B8%85%E6%B4%81%E5%B7%A5/" target="cdt-mirror">【图说天朝】“感动中国”清洁工</a>
-</h2>
-<p><p>@善王府善王爷：#拄拐清洁工#成都网友在公交车路站拍到的一幕….每一份坚强的背后，都是满满的一把心酸！希望他能得到关注。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwbkl9j20c00cmdh2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwbkl9j20c00cmdh2.jpg" alt="7155ee97jw1eux7fwbkl9j20c00cmdh2" width="432" height="454"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwkorhj20bz0c9myc.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwkorhj20bz0c9myc.jpg" alt="7155ee97jw1eux7fwkorhj20bz0c9myc" width="431" height="441"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwlttmj20bp0cx0tz.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7155ee97jw1eux7fwlttmj20bp0cx0tz.jpg" alt="7155ee97jw1eux7fwlttmj20bp0cx0tz" width="421" height="465"></a></p>
-<p> </p>
-<p>@直播成都：#成都爆料#【正能量：成都大丰#独腿环卫工#拄拐扫街！】 网友@婚礼化妆师胡婷婷 在成都大丰镇拍到这样一幕，他只有一条腿，却依然拄拐坚持扫街，这是这座城最美丽感人的画面！看到他，我们还有什么理由自怨自艾，还有什么理由抱怨生活！成都正能量！[good]#成都身边事#</p>
-<p>@直播成都：据悉，他叫邓贤国，安岳人。50年前，在工地被石头压断左腿。后来，和妻儿相继到成都打工，7年前，环卫公司给了邓贤国一个岗位，如今，68岁的他坚持每天在大丰镇一段300米长的路边挪动拐杖，挥动扫帚。能干就干，他不想做一个无用的人。</p>
-<p>@sicau_ly：这也正能量？操尼玛的官腔、傻逼！</p>
-<p>@胡子拉碴的徐大爷：我没有收到正能量，莫名心酸！</p>
-<p>@心情涛涛：一个假肢生产商送了一个假肢给他，但他怕弄坏了一直舍不得用。附近的商家也对他很好。</p>
-<p>@ttyyz：残疾老人晚年只能靠扫大街过活也叫正能量，我看到的只有不健全的社会保障制度。</p>
-<p>@小镇清年：残疾是没有办法才去扫地，难道zf不应该帮助这些人么？我只看到zf的无能。</p>
-<p>@王武力：这个大丰镇真的很乱，脏乱差，不作为，问题一大堆，就是没人管！</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E6%B8%85%E6%B4%81%E5%B7%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%8B%E7%96%BE%E4%BA%BA/?category=18271" rel="tag">残疾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%B4%81%E5%B7%A5/?category=18271" rel="tag">清洁工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C/?category=18271" rel="tag">社会保障</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -797,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%8B%E7%96%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -807,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%8B%E7%96%BE
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>

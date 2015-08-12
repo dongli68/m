@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/x%E5%8D%9A%E5%A3%AB-%E5%AD%A6%E4%B9%A0%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E5%90%8D%E5%8D%95%E4%B9%8B%E5%90%8E%E7%9A%84%E5%B0%8F%E5%BF%83%E5%BE%97/" target="cdt-mirror">X博士 | 学习文化部禁歌名单之后的小心得</a>
+</h2>
+<p><p>十诫（希伯来语：עשרתהדיברות‎）。根据《圣经》记载，是上帝借由希伯来先知摩西向希伯来人颁布的律法中的首要的十条规定，这大概是公元前1500年的事情。十诫是希伯来人的生活和信仰的准则，也是最初的法律条文，在希伯来人心中具有神圣的指导地位。</p>
+<p>希伯来人的事儿，咱们先搁一边儿，以后聊神秘学和历史的时候再说。但是，相比几千年才听过一次十诫的希伯来人，我们中华人民共和国的人民是有福的。文化部总是猝不及防的、突如其来的、抽冷子的从高处给广大人民群众传达循循善诱的旨意：</p>
+<p><strong>近期，文化部部署开展了对内容违规的网络音乐产品的集中排查工作，共排查出120首内容存在严重问题的网络音乐产品。这些网络音乐产品含有宣扬淫秽、暴力、教唆犯罪或者危害社会公德的内容，违反了《互联网文化管理暂行规定》第十六条的规定，文化部依法将这120首歌在网络上封杀。</strong></p>
+<p>看了这份歌单我陷入了沉思，有了许多学习心得体会，正像文革中有句谚语所说：“三天不学习，赶不上刘少奇”，我掏出了小本儿总结出了许多心的体会。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97.jpg" alt="学习心得" width="550" height="415"></a><p>赶紧掏出小本儿学习，这小本儿是牛头梗教授去日本扫货时买的。</p></div>
+<p> </p>
+<p><strong>心得如下：</strong></p>
+<p>第一。我对组织里的研究能力表示佩服。列出这120首可不容易，有老有新，港台内地，地上地下，摇滚饶舌，网络金曲。我平常总自诩听歌多，一看傻眼了，其中得一半人没听过，像“沈阳 mm”、“小贱”这样藏在地洞之中的音乐人，组织也是一清二楚的。像「秀你妈个X」、「傻B情侣」、「我想要做爱」、「老公老公你好坏」这样的极端粗俗的音乐，组织也是了如指掌的。</p>
+<p>看来组织里真是有很多艺术鉴赏老炮儿，就算你是只在东北八线县城野鸡夜总会里对着俩仨观众唱粗口的，组织里也总能通过各种口径将其从阴暗的下水道里挖出来。组织通过这次小试牛刀，基本就把音乐圈的牛鬼蛇神全部震慑，就算你是爆粗口的草履虫，组织也能把它挖出来，将其暴露在红日之下，让人民群众唾弃。</p>
+<p>第二。从时间跨度上，该榜单中出现的一些歌曲虽然已经存在了十几年，也依然被组织严肃处理，以免流毒后世。比如13年前的一首民间流传的网络歌曲《大学生自习室》也赫然在列，这充分说明了组织的眼睛是雪亮的，你以为你仗着年头长就能混过组织的火眼金睛么。再比如，台湾二流子歌手罗百吉的低俗名曲《吹喇叭》也偷摸在网络上混了十年，刺激了不少处在青春发育期的少男。组织的这次穿越时光的定点爆破，让群众一边感慨时间都去了哪，一边拍手称快。</p>
+<p>第三。从空间跨度上，该榜单将依附在网络各个阴暗小角落的音乐都一网打尽，颇为无远弗届。这次的名单已经清楚的表明，组织的目标是给整个华语圈文化洗洗澡，治治病。不管你是猫在北京西城的胡同串子，还是在东北迪厅带着镀铜链子莫名摇摆的社会混子；不管你是像哈狗帮、张震岳、罗百吉这样故意拉长音儿、大舌头的台客；也不管你是黄秋生这样的成名港星。一切都在组织的掌控之中，该批判批判，该封杀封杀，绝不含糊，别以为拿着港台通行证组织就不一视同仁，堪称文化界的猎狐行动。</p>
+<p>第四。从名单中，我们可以清晰的发现，华语地下说唱占了榜单的主要位置，尤其是阴三儿乐队，拢共也就出了二十首歌，在这次排查中被查封了17首，可见阴三儿乐队成军十多年基本没着过调。由此可见，华语说唱界真是处在一个危险的边缘，再不紧紧抓住社会各界伸出来的手，洗心革面，那就危险啦。</p>
+<p>所以，我建议中国的说唱界应该成立类似文联的管理组织，设立代表会议，定期学习社会主义核心价值观；多多进行批评与自我批评；要有为社会主义文化市场的繁荣添砖加瓦的决心；要重视继承传统，传艺、传神、传德，鼓励创新创造，出名家、出精品、出流派，努力展现说唱艺术时代新风貌；说唱艺术作品不能流于文字表面，要深入学习贯彻中央重要讲话精神特别是在文艺工作座谈会上的讲话精神，坚守文化立场，坚定文化自信，树立以人民为中心的工作导向，以核心价值观为引领，推出更多艺术精湛、群众喜爱的说唱歌曲精品；不要动不动就爆粗口，发牢骚，总想搞一个大新闻！</p>
+<p>此外，当阴三儿遭到文化部通告之后，给了一些好起哄的群众瞎胡闹的机会。</p>
+<p><strong>比如一位群众说：这尼玛哪叫禁？简直就是颁奖。就差给in3发个奖杯了，底座上还得印俩烫金的大字“牛逼”</strong></p>
+<p><strong>另一位群众说：百余歌曲金榜题名 阴三儿或成最大赢家</strong></p>
+<p>对此，我想特别和阴三儿和群众说：不要盲目起哄，要虚心接受组织的意见。而且说唱也不一定非的东西海岸、gangsta、战死街头范儿嘛。没看美国、俄国还有基督教说唱么，咱就不能好好琢磨琢磨，拿出精力搞个社会主义说唱么？我向组织斗胆提议，给阴三儿一个为社会主义文化添砖加瓦机会，让他们翻唱《好日子》、《走进新时代》、《祝福祖国》、《幸福万年长》、《红星照我去战斗》、《咱们好百姓》等雅俗共赏的好歌！为人民立新功！</p>
+<p>第五。在地下说唱遭到连续重拳清理的同时，榜单上还出现了少量民谣歌曲，如李志的《他们》。李志在歌中唱道：</p>
+<blockquote><p>铁路向西走，长江不能流，到底谁才是走狗<br>
+天亮漱漱口，天黑动动手，劳动为了给税收<br>
+他们指向左，他们指向右，他们一直有洋楼<br>
+我们不能叫，我们不能交，我们的生活带套套</p></blockquote>
+<p>歌词充满了阴阳怪气，满腹牢骚。李志同志，你危险啦！我告诉你李志，你不要觉得你在南京上过一个985学校，勉强在民谣界算个野生知识分子就志得意满，摇头晃脑，满口牢骚。在从前，高岗同志对于知识分子有个一针见血的评价就是：“小知识分子就像个鸡八，动不动就硬一下”。虽然嘛，高岗同志倒了，反党反人民了，但是他的这句话还是有警示作用的嘛，要辩证地看，李志同志你要反复学习精神啊！不要刚比什么麻油叶、牛油果乐队强个三星半点就刚愎自用，盲目跑偏！</p>
+<p>此外，这次没有上榜的一些音乐人，也不要幸灾乐祸，尾巴翘到天上去。比如左小诅咒啊、二手玫瑰啊、新裤子啊、cmcb、某位爱说“屌”的周姓歌星啊，等等等，都得通过这次事件好好审视、总结一下自己在音乐创作路上的历程和问题。比如左小诅咒的《皮条客》，首先名字就很粗俗，里面的歌词“举起来，再放下去，放下去再举起来”，你以为组织看不出里面的讽刺么；还有二手玫瑰的《仙儿》、《黄诗》、《舞曲》都很低级趣味，也不要以为组织没听过；cmcb的《假瓷器》更不用说了；新裤子的《著名导演》里问题也很多，什么叫“我要做一个著名导演，我要和女演员睡觉”啊，粗俗，极端粗俗。</p>
+<p>总之各路乐队要加强学习，做到有则改之，无则加勉。在坚持百花齐放、推陈出新的同时，也要统筹兼顾好艺术创作的文化底蕴和大方向正确性，坚守住社会主义价值观的底线。音乐人们要常在夜深人静时问自己三个问题：为什么创作？为谁创作？怎么创作？</p>
+<p>简而言之，在学习了文化部列出的禁歌名单之后，我提高了思想觉悟，头脑上紧了发条，一股暖流在胸腔和小腹中激荡，总之很荡漾。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/x%E5%8D%9A%E5%A3%AB-%E5%AD%A6%E4%B9%A0%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E5%90%8D%E5%8D%95%E4%B9%8B%E5%90%8E%E7%9A%84%E5%B0%8F%E5%BF%83%E5%BE%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">禁歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E9%95%9C%E6%96%B0%E9%97%BB%EF%BD%9C%E9%BA%A6%E5%85%8B%E6%B3%95%E5%A4%B8%E5%B0%94%EF%BC%9A%E4%B9%A0%E7%9A%84%E8%B6%85%E7%BA%A7%E6%9D%83%E5%8A%9B/" target="cdt-mirror">明镜新闻｜麦克法夸尔：习的超级权力</a>
 </h2>
 <p><p>哈佛大学政府系教授罗德里克·麦克法夸尔在八月份的《纽约书评》上为两本书撰写了书评，一本是习近平的《谈治国理政》，另一本书是詹姆斯敦基金会的高级研究员林和立的《习近平时代的中国政治：复兴，改革还是后退》 。本文是自由港对麦克法夸尔书评的翻译综述。</p>
@@ -43,7 +79,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%A6%E5%85%8B%E6%B3%95%E5%A4%B8%E5%B0%94/?category=18271" rel="tag">麦克法夸尔</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E9%BB%84%E4%BA%9A%E7%94%9F%EF%BC%9A%E8%82%A1%E5%B8%82%E8%AF%81%E6%98%8E%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E5%B9%B6%E9%9D%9E%E6%97%A0%E6%89%80%E4%B8%8D/" target="cdt-mirror">纽约时报｜黄亚生：股市证明中国领导并非无所不能</a>
 </h2>
@@ -736,23 +772,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%B7%B2%E7%BB%8F%E5%AE%8C%E6%88%90%E4%BB%A4%E8%AE%A1%E5%88%92%E7%9A%84%E8%AE%A1%E5%88%92/" target="cdt-mirror">法广 | 令完成已经完成令计划的计划</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/jpg_2492.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/jpg_2492.jpg" alt="令完成" width="500" height="282"></a></p>
-<p>在过去的一个星期，令完成是美中关系最重要的话题。这个星期，美国官员证实了令完成潜逃美国；另一个得到证实的是：令完成携带着大量中共最核心的机密，也就是人们所说的政治核弹。《纽约时报》报道说：熟悉这一案件的几位美国官员表示，如果令完成寻求政治庇护，将可能成为中华人民共和国历史上最具破坏力的叛逃者。或将成为美国情报领域的一项非凡成就。</p>
-<p>时政评论家、网路杂志《中国事务》主编伍凡认为：令完成潜逃美国，是他的哥哥、前中共中央办公厅主任令计划，获知自己与自己的家族面临灭顶之灾时，实施的与习近平拼死一搏以求自保的计划。令完成潜逃事件，通过美国官员之口和《纽约时报》加以公开，表明令完成已经完成了令计划的计划。</p>
-<p>这个事件的重要性超过上个星期中国被彻底孤立、惨遭败绩的东盟外长会议。伍凡认为：习近平九月访美，南海议题已没有多少话可说，令完成必然是习近平与奥巴马交锋最重要的议题。而中国许多人，包括上层官员，仍然相信四处流传的谣言：奥巴马奉习近平之命，已经用专机将令完成遣返回中国。</p>
-<p>伍凡指出：美国不可能遣返令完成。美国的任何一位行政官员、包括奥巴马在内，遣返令完成都将遭到议会和法院的阻止。相信令完成已经获得美国的政治庇护，或者正在申请美国的政治庇护。</p>
-<p>未来还会有令完成潜逃事件更多的情节，通过美国官员之口和美国媒体的报道揭示出来，那将进一步表明令完成如何精彩绝伦的完成了令计划的计划。包括令完成人在何处，也将继续扑朔迷离：他未必住在加州的小城阿凯迪亚、也不可能住在一个名叫卢米斯的小镇。</p>
-<p>精彩绝伦的故事背后是中共权力斗争的残酷超出了人们的想象：习近平对令计划下手太狠，令计划的回击也绝不留余地。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%B7%B2%E7%BB%8F%E5%AE%8C%E6%88%90%E4%BB%A4%E8%AE%A1%E5%88%92%E7%9A%84%E8%AE%A1%E5%88%92/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4/?category=18271" rel="tag">政治庇护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -764,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -774,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

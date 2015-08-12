@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E6%B0%91%E7%BD%91-%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%85%8B%E5%BF%97%EF%BC%9A%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%A6%84/" target="cdt-mirror">人民网 | 河北省委书记赵克志：党员干部绝不能妄议中央</a>
@@ -85,7 +85,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">上大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E5%B1%82/?category=18271" rel="tag">中产阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%A9%E5%A5%B3/?category=18271" rel="tag">剩女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E8%BA%AB/?category=18271" rel="tag">单身</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%9C%E9%87%91/?category=18271" rel="tag">拜金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%8E%B0%E5%AE%9E/?category=18271" rel="tag">社会现实</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82/?category=18271" rel="tag">社会阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%BA%90%E5%88%86%E9%85%8D/?category=18271" rel="tag">资源分配</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%B9%B6%E4%B8%8D%E5%A4%A7%E7%9A%84%E6%B5%B7%EF%BC%9A%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E7%BF%BB%E5%A2%99%E6%9C%89%E5%A4%9A%E9%9A%BE-%E8%80%8C%E6%98%AF%E5%B7%B2/" target="cdt-mirror">翻墙 | 重要的不是翻墙有多难 而是已经没人想要翻墙</a>
 </h2>
@@ -820,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20gferc35pg6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -830,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>

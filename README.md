@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,131 @@
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E5%B5%A9%E5%B1%B1%E6%B4%BE%E5%88%B0%E5%BA%95%E6%98%AF%E5%BC%80%E6%94%BE%E8%BF%98%E6%98%AF%E4%B8%8D%E5%BC%80%E6%94%BE/" target="cdt-mirror">六神磊磊：嵩山派到底是开放还是不开放</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6403.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6403.jpg" alt="640" width="575" height=""></a></p>
+<p><strong>文/六神磊磊</strong></p>
+<p><strong>一</strong></p>
+<p>金庸有本书，叫做《笑傲江湖》，里面有一个武林大门派，叫嵩山派。</p>
+<p>这个派很有意思。首先，它是江湖上响当当的一个门派，区域性霸主，五岳小圈子里的龙头老大，用个成语，叫“举足轻重”，派中的人都很自豪。</p>
+<p>然而，它又只是个江湖新贵，近几十年才从江湖上冒头。用书上的话说，“在武林崛起，不过是近六七十年的事”，没有少林、武当这些个老牌豪门家底厚。</p>
+<p>所以，这个新贵门派很希望受到别人尊重。它提出了很多宗旨：要开放，多搞大活动，多和外面打交道，让外面的朋友了解我们、尊重我们；要自强，把本门武功练好，先练到五岳第一，再争取练到天下第一，等等。</p>
+<p>但我们看了小说就会发现，自强、奋斗之类的都不难，难就难在开放上。嵩山派也一直很痛苦：我到底是开放，还是不开放？</p>
+<p><strong>二</strong></p>
+<p>本来，要彻底不开放也可以。魔教就不开放，去了黑木崖就是一个死，可人家照样很牛，很受人敬畏。</p>
+<p>然而嵩山派却抹不下面子——当今江湖武林，尽人皆知开放更洋气，开放是潮流。想当武林盟主，想做千年大门派，不开放怎么行呢，要被江湖武林笑话的。</p>
+<p>所以嵩山派其实很想开放，很想把自己搞得气度雍容，海纳百川，交友遍天下。</p>
+<p>你看小说里面，嵩山派组织大型活动最用心，尤其是到了本门的重大节庆日子，例如三月十五日的推举掌门人大庆典，都要发很多请帖，邀请各路豪杰来参加。</p>
+<p>他们真的很好客，很热情，准备很细致，甚至让人感动——“山道上打扫干净，每过数里，便有几名嵩山弟子备了茶水点心，迎接宾客，准备得甚是周到。”</p>
+<p>对于客人是否能到场，嵩山派也特别在乎，打心眼里盼望人家的大人物多来捧场。</p>
+<p>比如少林方丈、武当掌门来参加庆典了，嵩山派的CEO左冷禅表面上很淡定，道：“他二位老人家也来了？那可客气得很啊。这可须得下去迎接了。”一副满不在乎的模样，但实际上受宠若惊，激动不已，“衣袖微微颤动，喜悦之情难以尽掩”，心里一万只草泥马在奔腾。</p>
+<p><strong>三</strong></p>
+<p>然而，你要说嵩山派很想开放，有的时候又不太像。</p>
+<p>外人一来，他就动不动给人念叨光辉历史。“嵩山位居天下之中，在汉唐二朝邦畿之内，原是天下群山之首……历代帝王均建都于嵩山之麓……”</p>
+<p>新贵都喜欢说历史，“我家曾经阔过”，这也难免。自家光辉的历史你不介绍，别人也不明白，总之也算是一份好意，可以理解。</p>
+<p>但除了说历史，它还特别喜欢示威。嵩山的弟子们不知道怎么养成的习惯，是有组织的还是自发的，每上来一拨客人，就向山谷里丢几块大石头示威。</p>
+<p>“一名嵩山弟子拾起一块大石抛下壑去，大石和山壁相撞，初时轰然如雷”，然后觉得：好爽！好爽！那些什么华山派、泰山派的一定被吓呆了！</p>
+<p>有时候真的为这个门派感到心疼，好不容易策划一些大活动、大庆典，把朋友们各种“请进来”，各种周到细致的准备，辛辛苦苦经营出一点子开放、大气的形象，弟子们投两块石头就毁了。</p>
+<p>每一个外人来了，它还喜欢事先安排三五个人盯着，好像随时生死攸关，只要一个没盯住，就关乎门派存亡。例如天门道长来了，有玉玑子、玉音子、“青海一枭”盯着；令狐冲来了，山道上有一帮瞎子剑客盯着，仿佛是三国演义里周瑜、卞喜请客，随时要摔杯为号，刀斧手一齐杀出。</p>
+<p><strong>四</strong></p>
+<p>所以我看金庸小说时，常常被搞糊涂，觉得这个门派像是《镜花缘》里的两面国，和善的那一面热情得过分，狰狞的那一面粗鲁得可怕。</p>
+<p>这个门派，总是秉持着一种“朋友来了有好酒、豺狼来了有猎枪”的二元逻辑。其实江湖上有时候不用灌酒也不用打枪的，正常交往就行，但嵩山弟子们老是学不会。</p>
+<p>你说它不开放吧，偏偏它对人家的表扬、好话特别在乎，外面表扬几句、捧个场子，派中人就激动得发抖；你要说它开放吧，一旦三言两语稍有拂逆，就摔杯喊刀斧手，什么都不管不顾了。</p>
+<p>我也在给嵩山派分析原因。深层次的就不说了，表层次的也许是因为它还稚嫩，见得还少。你看金庸小说里，少林寺门口天天都有人来挑衅的、打架的，和尚们多少年来早见怪不怪了，罗汉堂里出来俩武僧打发了就是。</p>
+<p>嵩山派的却没见过这阵势，一有别家的武师闲汉上门，就习惯性如临大敌，看谁都像东方不败派来搞破坏的。</p>
+<p>所以它才表现得有点神经质，想不卑不亢，结果又卑又亢，一会儿放鲜花和小学生，一会儿放练家子工作人员，这边酒杯响，那边猎枪响，上午忙着发请帖，下午又咆哮着下逐客令，自己还觉得挺有原则的，外人却越看越迷糊，不知道这一家人在搞什么名堂。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/EC7unEiaL8xr3CdPaQ0urZEnhGzt6wAl9ibX5xAw4jXe1mVzK6x9XAtdaT6MI1pmvQQXlGG9iaqVKdJM0n7AKY2DA/0?wx_fmt=gif&wxfrom=5&wx_lazy=1" alt="" data-src="http://mmbiz.qpic.cn/mmbiz/EC7unEiaL8xr3CdPaQ0urZEnhGzt6wAl9ibX5xAw4jXe1mVzK6x9XAtdaT6MI1pmvQQXlGG9iaqVKdJM0n7AKY2DA/0?wx_fmt=gif" data-ratio="0.019444444444444445" data-w="360"></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/EC7unEiaL8xpwAetL85kThmEgwcNWLbBxUN9Okic3MTrRAZ6oIDfmEJhczHnpgFD9WsZRBrH6O4PxnX6n1L1huXQ/0?wx_fmt=gif&wxfrom=5&wx_lazy=1" alt="" data-src="http://mmbiz.qpic.cn/mmbiz/EC7unEiaL8xpwAetL85kThmEgwcNWLbBxUN9Okic3MTrRAZ6oIDfmEJhczHnpgFD9WsZRBrH6O4PxnX6n1L1huXQ/0?wx_fmt=gif" data-ratio="0.4125" data-w="160"></p>
+<pre><strong><em>
+六神磊磊新书《你我皆凡人》，目前最全的精品集
+<a href="http://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00X75A9ZG">亚马逊购书链接</a></em></strong></pre>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E5%B5%A9%E5%B1%B1%E6%B4%BE%E5%88%B0%E5%BA%95%E6%98%AF%E5%BC%80%E6%94%BE%E8%BF%98%E6%98%AF%E4%B8%8D%E5%BC%80%E6%94%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/?category=18271" rel="tag">改革开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A5%A5%E5%9C%BA%E5%9C%B0%E4%B9%8B%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%B0%8F%E6%B5%B7%E5%9D%A8/" target="cdt-mirror">无界新闻｜奥场地之争议：小海坨</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122270@2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122270@2x.jpg" alt="▲滑雪场施工计划（图片来源：奥组委）" width="550" height=""></a><p>▲滑雪场施工计划（图片来源：奥组委）</p></div>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%9C%BA%E5%9C%B0%E4%B8%8D%E5%9C%A8%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA%E5%86%85%E5%9B%A0%E4%B8%BA%E8%8C%83/">【网络民议】冬奥会场地不在自然保护区内因为范围改了 </a></p></blockquote>
+<p>【无界新闻记者 邝蔚丹 实习记者 汪振兴/文】</p>
+<p>刘夙一开始并没有留意到北京-张家口冬季奥运会选址小海坨的事情。这位中国科学院植物研究所毕业的年轻博士是一位科普写作者，在微博上拥有9万粉丝，在两年前离开了北京。直到2015年7月31日，他在社交网络上看到一种说法：“决战”的日期到了。当天，2022冬奥会举办地将揭晓。</p>
+<p>当晚，他得知的第二个信息是，“延庆有个高山滑雪场建在了松山保护区里面。”</p>
+<p>据公开报道，延庆小海坨山区将依托现有山体地形修建临时场地设施，分为高山滑雪场地和雪车雪橇场地。北京市体育局局长李颖川介绍，如果申办成功，一个“皇冠级别”的滑雪场地将落户于此，“不仅有800米落差，滑道长度还要达到3000米以上。”</p>
+<p>资料显示，小海坨，坐落于北京松山国家级自然保护区，位于河北大海陀国家级自然保护区与松山国家级自然保护区交界处。</p>
+<p>在微博上，刘夙的一些关注对象——他们有着植物保护相关专业背景——对此发出了疑问：保护区内怎么能建滑雪场地呢？</p>
+<p>同时，通过谷歌地图的叠加图，身份认证为果壳网科普作者的“飞雪之灵”将奥组委公布的拟建场地与北京松山国家级自然保护区核心区域相对比，发现速降赛道与保护区核心区有重合，引起自然爱好者广泛关注。</p>
+<p>随后，自然爱好者“凡虫Ecobserver”列出了详细名录证明冬奥会拟建场地将会给诸多珍稀濒危动植物造成不可挽回的影响。</p>
+<p>这时，曾经手工录入过《北京植物志》的刘夙开始意识到问题的严重性。</p>
+<p>“我虽然没有去过小海坨，但是我对北京周边的自然环境有基础性了解，对北京有什么动植物比较清楚。‘凡虫’整理的名录，绝大部分是靠谱的，我一下子理解了破坏小海坨周边植被的严重后果。”</p>
+<p>刘夙的态度由此发生变化：“如果我们宏观生物学专业人士都不站出来说话，那又怎么可能指望其他人会站出来呢？”</p>
+<p><strong>看不见的争议</strong></p>
+<p>2015年7月13日开始，小海坨封山。</p>
+<p>松山国家级自然保护区旅游咨询处的工作人员称，这是为冬奥会建址做的决定。</p>
+<p>常年去小海坨露营的网民“伊犁河谷”心中滋味万千。2009年，这个热爱户外运动的年轻人和伙伴们意外发现了这片“处女地”，那个时候小海坨知道的人不错，连进山的路都不好找。开拓进入的他们无不惊叹：“美呆了，真没有想到北京还有这么个地方。”从此以后，他每年都会到小海坨来一次。</p>
+<p>“说实话，近些来驴友越来越多，我也感觉已经超过了小海坨的承载能力。”“伊犁河谷”在多年见证小海坨的变化后，对封山的消息感到矛盾：他庆幸小海坨可以在封山的时间内得以休养生息，但又担心解封后已不复从前。</p>
+<p>同样热爱户外运动的“王小锤”对封山持反对态度，他认为绝大部分驴友都十分自律：“那些纯粹旅游的人对环境的破坏才大。”</p>
+<p>像“飞雪之灵”等有专业背景的植物爱好者态度非常鲜明：“保护区，尤其是核心区域，应该禁止旅游活动。”</p>
+<p>虽然他们的视觉各有不同，但当面对小海坨将被改造为滑雪场地时，开始站在了同样的队列。</p>
+<p>消息正式宣布之前，不少消息灵通的户外论坛组织了告别小海坨之旅；“凡虫Ecobserver”在封山后托关系进入小海坨考察。</p>
+<p>“凡虫Ecobserver”真名计云，定位自己为自由昆虫学者。从中国农业大学毕业后，他长期从事野生动植物的拍摄，几乎年年都会去海坨山。长期的实地调研经验，让他有足够自信对海坨的生态环境状况做判断。</p>
+<p>申奥成功后，他一度托关系进入已被封闭的自然保护区考察，当地多位原住民、驻守民警告诉他，横穿大海坨-松山保护区的X012公路将大幅拓宽并沿路修建各种附属设施。这令他十分担心：“附属设施的建设，肯定对生态环境是个更大的打击。”</p>
+<p>出于担心，他在社交网络上发布了一份《海坨山有什么——为了举国盛世我们有哪些不应舍弃的东西？》的声明，细数了大海坨-松山国家级自然保护区内珍惜种植物名录，其中提了四项请求：</p>
+<p>（1）冬奥会的相关建设施工需避开大海坨-松山区域所有海拔1500m以上的、完整的阔叶林-混交林-落叶松林-亚高山草甸垂直生态系统及其附属环境；</p>
+<p>（2）闫家坪垭口一带保持原貌、闫家坪垭口两侧山坡不得开发、拓路工程需与周边环境隔离进行、就地保护道路两侧30m外的所有植被；</p>
+<p>（3）松闫路（X012公路）的拓宽工程不得破坏山地溪流生境，在傍溪流路段只能向另一侧进行拓宽工程，并严格保护水资源、杜绝污染。</p>
+<p>（4）涉及上述地区及环境的施工，聘请自然保护、环境评估、动植物研究等领域的专家、组织、社会团体作为观察员。</p>
+<p>几乎与此同时，也有人在国外互联网站发布请愿书希望避免环境被破坏的事件发生。另有植物爱好者贴出2010年5月英国媒体的一篇报道，作为对比——英国政府为保护一株即将开花的杓兰，派警力24小时守护。</p>
+<p>在小圈子里，争议的声音逐渐发酵。</p>
+<p>一个大背景是，仅仅2个月前，国家环保部联合发改委、财政部等9个部门发布了《关于进一步加强涉及自然保护区开发建设活动监督管理的通知》（下称《通知》）。《通知》内明确提到地方各有关部门要严格执行《自然保护区条例》等相关法律法规，禁止在自然保护区核心区、缓冲区开展任何建设活动，建设任何生产经营设施。</p>
+<p><strong>“OUT”</strong><strong>保护区</strong></p>
+<p>其实，在小海坨兴建冬奥设施所涉及的环境问题，官方并非未有关注。</p>
+<p>北京奥组委在向国际奥组委递交的申请材料中称，延庆地区的滑雪场地建设有可能造成植被、土壤的破坏，影响一些鸟类的生存环境，产生噪音污染。提出的解决方案为：选择合适场地和路线、合理规划场所建设，对原住民予以补偿……种植合适的植被以期生态重建，若有需要，应保护动物洞穴等等。</p>
+<p>国际奥组委在2015年6月所出具的冬奥会评估报告中指出，在延庆地区修建的高山滑雪场地，毗连面积为4600公顷的松山国家级自然保护区，且为同一山系。这意味着需要将更多的环境需求因素应囊括在具体的修建计划之中。</p>
+<p>申奥结果则随即到来：2015年7月31日，在马来西亚吉隆坡举行的国际奥委会第128次全会投票决定，北京成为2022冬奥会和冬残奥会举办城市。</p>
+<p>上述两份报告都提到了环境敏感性，让自然爱好者不解的是，小海坨何时成为了“毗连”松山国家级自然保护区？</p>
+<p>事情的走向让这种不解成为现实。</p>
+<p>8月7日，延庆县常务副县长张素枝向新京报表示，小海坨松山国家级自然保护区已进行范围调整：将位于原保护区东侧的小海坨山主峰的东坡和北坡整体调入松山保护区，调入面积2655.8公顷；将原保护区北部部分区域调出，调出面积为1102.84公顷。调整后，保护区总面积为6122.96公顷，比原保护区面积增加了31%(1462.96公顷)。</p>
+<p>于是，冬奥会的比赛场地之一——小海坨从此OUT，不再在保护区范围内。</p>
+<p>这让刘夙的不解更深：“把生物多样性最丰富、珍惜濒危植物分布最集中的地方划出核心区，在别的地方划一块面积更大的核心区就可以补偿吗？”</p>
+<p>“飞雪之灵”则对比了调整范围后认为，调出的面积相当于将北部核心区域的80%划了出去：“相当于在两个保护区共同交界的核心区中间挖出了一块非保护地区用于建设，这种保护区空心了。”</p>
+<p>调整保护区范围有其标准。按照2013年印发的《国务院关于印发国家级自然保护区调整管理规定的通知》，“国家重大工程建设需要，国家重大工程包括国务院审批、核准的建设项目，列入国务院或国务院授权有关部门批准的规划且近期将开工建设的建设项目”可以申请进行调整。当然，这种调整“应确保主要保护对象得到有效保护，不破坏生态系统和生态过程的完整性，不损害生物多样性”。</p>
+<p>曾发表《北京松山国家级自然保护区野生种子植物分布及物种组成分析》论文的北京林业大学自然保护区学院教授张志翔向无界新闻记者表示：“任何工程对环境都会有所扰动，面对国家的重大需求，我们可以制定详细可行的保护方案，在工程之前进行一次周密调查，把可能出现的影响降到最低。”</p>
+<p>对自然爱好者的担心，张志翔表示非常理解，但他说，并未在小海坨拟建场地发现保护名录里的保护植物。</p>
+<p>张志翔称，小海坨的大坡向是西南坡向，横在张家口和北京之间，要使用的方向属于西南方向（北京一侧）。他实地观察后称，对刘夙和计云尤为关注的珍稀濒危植物山西杓兰和丁香叶忍冬，并未在这一侧有所发现。</p>
+<p>“自然爱好者和我调研的路线和方法可能不同，但是工程开展之前，我们还可以进行一次周密调查。”张志翔称，由于面积小，可进行细致的实地走访，可能会发现一些因为季节不同的原因（原来没有发现）的植物：“在工程进行之前，把这些植物迁到环境条件相似的地方进行保护，这是一种常见的保护植物的好方法。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122271@2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122271@2x.jpg" alt="picture_122271@2x" width="550" height="377"></a><br>
+▲2014年6月27日，小海陀（计云/摄 ）</p>
+<p>【大花杓兰Cypripediummacranthos】</p>
+<p>花大、粉红，每年6月开花。北京的亚高山草甸因为大花杓兰群落的存在而与众不同，在整个华北的草甸生境中尤其亮眼。</p>
+<p>●生存环境：海拔1500m以上的草甸、林缘，北京地区仅见于海陀山、百花山、东灵山、雾灵山等少数地方。</p>
+<p>●濒危状态：国家一级保护植物，数量不多，且因花大、具有极高的观赏价值而倍遭采摘、盗挖。由于自然繁殖力差，其种群逐年减小。（图注来源：计云）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122272@2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122272@2x.jpg" alt="picture_122272@2x" width="550" height="377"></a><br>
+▲2015年6月27日，小海陀（计云/摄）</p>
+<p>【紫点杓兰Cypripediumguttatum】</p>
+<p>花朵白色缀以或多或少的粉紫色斑点，每年6月开花。</p>
+<p>●生存环境：海拔1500m以上的草甸、林缘，北京地区见于海陀山、百花山、东灵山、雾灵山等地方。</p>
+<p>●濒危状态：国家一级保护植物，比其他两种杓兰数量多，但也常遭人采摘，由于自然繁殖力差，其种群受打击后难以恢复。（图注来源：计云）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122273@2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122273@2x.jpg" alt="picture_122273@2x" width="550" height="367"></a><br>
+▲2014年7月9日，海陀山（王辰/摄 ）</p>
+<p>【山西杓兰Cypripediumshanxiense】</p>
+<p>花朵颜色在杓兰属中平淡无奇，却内是国内最濒危的杓兰之一。</p>
+<p>●生存环境：海拔1500m以上的草甸、林缘，北京历史分布于极少数地方。</p>
+<p>●濒危状态：北京市一级保护植物。极度濒危，多年调查无果的种类。几十年调查，仅有3-4次发现。（图注来源：计云）</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A5%A5%E5%9C%BA%E5%9C%B0%E4%B9%8B%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%B0%8F%E6%B5%B7%E5%9D%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BF%92%E5%8D%B1%E5%8A%A8%E6%A4%8D%E7%89%A9/?category=18271" rel="tag">濒危动植物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">生态环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A0%B7%E6%80%A7/?category=18271" rel="tag">生物多样性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA/?category=18271" rel="tag">自然保护区</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%A7%86%E9%A2%91%EF%BC%8C%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E4%B8%80%E8%88%AC/" target="cdt-mirror">【河蟹档案】天津爆炸视频，如世界末日一般</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -45,7 +167,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E8%AE%B0%E8%80%85/?category=18271" rel="tag">BBC记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/carrie-gracie/?category=18271" rel="tag">Carrie Gracie</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%96%87%E7%94%9F/?category=18271" rel="tag">余文生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E5%B0%8F%E4%BC%99/?category=18271" rel="tag">外国小伙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E6%98%A5%E5%AE%AB%E5%9B%BE/?category=18271" rel="tag">文革春宫图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%9B%E9%80%BC/?category=18271" rel="tag">牛逼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%81%E5%A7%94%E5%B7%A1%E8%A7%86%E7%BB%84/?category=18271" rel="tag">省委巡视组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%AD%E5%BD%92%E5%8E%BF/?category=18271" rel="tag">秭归县</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8D%E5%85%B4%E5%B5%8A%E5%B7%9E/?category=18271" rel="tag">绍兴嵊州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA/?category=18271" rel="tag">退伍军人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF9%E6%9C%883%E6%97%A5/" target="cdt-mirror">东网｜吳戈：為什麼是9月3日</a>
 </h2>
@@ -260,7 +382,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已致44人遇难 （21图）</a>
 </h2>
@@ -317,7 +439,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已17死逾400伤 （21图）</a>
 </h2>
@@ -370,7 +492,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E6%B0%91%E7%BD%91-%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%85%8B%E5%BF%97%EF%BC%9A%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%A6%84/" target="cdt-mirror">人民网 | 河北省委书记赵克志：党员干部绝不能妄议中央</a>
 </h2>
@@ -665,56 +787,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E6%8D%8D%E5%8D%AB%E7%88%B6%E8%BE%88%E6%B1%9F%E5%B1%B1/" target="cdt-mirror">博客中国｜罗伯特卡帕：罗援将军“捍卫父辈江山论”的出处找到了</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/14387905335440.jpg" alt="14387905335440" width="540" height="443"></p>
-<p>著名的红二代（高干子弟）出身的将军罗援在接受《环球时报》采访时曾表示，“父辈打下的江山，我们有责任来保卫父辈的成果。”</p>
-<p>   在网上查找资料，无意中发现了文革期间高干子弟红卫兵的一篇文章《红色恐怖万岁！》。原来，罗源将军的“捍卫父辈江山论”源远流长，来自这里，失敬失敬！</p>
-<p>    原文如下：</p>
-<p>     我们高呼：红色恐怖万岁！ </p>
-<p> 　　今天，我们搞红色恐怖，明天，我们还要搞红色恐怖，只要有不符合毛泽东思想的东西存在，我们就要造反，就要搞红色恐怖！ </p>
-<p> 　　毛主席说：“革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。革命是暴动，是一个阶级推翻一个阶级的暴烈的行动。”我们要砸烂旧世界，要横扫一切牛鬼蛇神，要在全中国，全世界树立毛泽东思想的绝对权威，就必须对一切旧的东西大杀大砍。文文雅雅、慢慢腾腾怎么能行呢！？怎么能在框框里干革命呢？！ </p>
-<p> 　　有人一见到红色恐怖，听到我们喊造反有理，就胆战心惊、大发雷霆。什么“不按党的方针政策办事呀！”什么“这样太乱了吧。”统统都是胡说八道。天下，是我们的！江山，是我们的！我们翻身了，我们执政了。我们造了牛鬼蛇神的反，罢了牛鬼蛇神的官，专了它们的政，我们扬眉吐气了，谁敢在我们面前专横跋扈，不可一世，我们就叫它去见阎王。害怕红色恐怖的家伙们，实话告诉你们：对红色恐怖持有什么态度，是真假革命者的试金石。 </p>
-<p> 　　我们是天生的造反者，我们是旧世界的批判家。我们的父兄，在战火纷飞的战斗岁月里跟着毛主席踏遍了万水千山，夺得了政权，打下了江山。今天，我们──革命事业的继承者，毛泽东思想的红卫兵，跟着最高统帅毛主席又燃起了无产阶级文化大革命的熊熊烈火。头可断，血可流，毛泽东思想不能丢！血未干，仇未忘，无产阶级专政不能放！上刀山，下火海，党的领导不能篡。我们红色的后代起来了，起来保政权、捍江山。 </p>
-<p> 　　毛主席教导我们：“不止不行，不塞不流，不破不立。”我们造反是造定了，我们还要在红色恐怖的烈火上加油，烧！烧！烧！！烧掉旧世界，建立无产阶级的新世界，建立毛泽东思想的红世界。 </p>
-<p> 　　造反有理！造反到底！ </p>
-<p> 　　红色恐怖万岁！ </p>
-<p> 　　（哈尔滨市红五类子弟造反大会会刊《红后代》社论）</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E6%8D%8D%E5%8D%AB%E7%88%B6%E8%BE%88%E6%B1%9F%E5%B1%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B/?category=18271" rel="tag">罗援将军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E9%87%91%E6%9B%B2120%E9%A6%96%EF%BC%9A%E4%B8%8A%E6%A6%9C%E6%95%88%E6%9E%9C%E7%AB%8B%E7%AB%BF/" target="cdt-mirror">【立此存照】文化部禁歌金曲120首：上榜效果立竿见影</a>
-</h2>
-<p><p>北京本土饶舌乐队 阴三儿 在文化部近日推出的<a href="http://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/">禁歌金曲120首</a>排行榜中占领了第一至第十七的位置，并因此人气大增：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/005yczpRgw1euynsvm8l0j30hs0qodgu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005yczpRgw1euynsvm8l0j30hs0qodgu.jpg" alt="005yczpRgw1euynsvm8l0j30hs0qodgu" width="385" height=""></a><br><em>（图片来源：新浪微博<a href="http://weibo.com/5086055663/CvkhtabpW">@一头小活猪</a>）</em></p>
-<p><strong>阴三儿成员贾伟</strong>（@Nyabinghi，非认证账号）在微博上对此事做出了回应：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-2.22.31-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-2.22.31-AM.png" alt="Screen Shot 2015-08-11 at 2.22.31 AM" width="550" height=""></a></p>
-<blockquote><p><strong><a href="http://weibo.com/1829940271/CveaAqf6G">@Nyabinghi</a></strong>：他们想让我们成为反面儿教材 想让年轻人别像我们那样 可是很多事情他们并没有想到…</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6d12ac2fjw1euxwoj0qtcj20hs0vkn2e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6d12ac2fjw1euxwoj0qtcj20hs0vkn2e.jpg" alt="6d12ac2fjw1euxwoj0qtcj20hs0vkn2e" width="385" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6d12ac2fjw1euxwu3kctuj22io1w0hdt.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6d12ac2fjw1euxwu3kctuj22io1w0hdt.jpg" alt="6d12ac2fjw1euxwu3kctuj22io1w0hdt" width="385" height=""></a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@走你王溜溜：恭喜“阴三儿”乐队包揽文化部革委会120首禁歌（金曲）前17强！文革会这次太帮忙了，给足了面子！下次奥运会主题歌就是《老师你好》了！@阴三儿in3</p>
-<p>@Leotology：#120首网络歌曲下架# 最具公信力的音乐榜单，西恩billboard啊！！！另：某IN3一夜成名，这是给了文化部多少钱……</p>
-<p>@我叫小楠楠-jn：#120首网络歌曲下架# 强烈要求手撕鬼子滚出电视，我就爱台妹了，就允许领导把衣服都掀起来把奶罩都丢上来，就不许百姓唱</p>
-<p>@我最近胖了：#120首网络歌曲下架#文化部又神勇了，赶紧去听听这些压压惊</p>
-<p>@侵掠如火者浣熊是也：被焚化部禁掉的那些rap才是你国真rap 。</p>
-<p>@滚青装B指南：文化部和人民日报联名倾力推荐的歌单120首，阴三儿，逼哥，赵雷实力上榜，向真正的艺术家致敬！</p>
-<p>@施政V：中國史上第一次官方推薦小眾音樂top120 這說明文化部對小眾音樂的高度關注與大力支持 為了回報文化部的關愛 應該創造出更多更好聽的小眾作品</p>
-<p>@勋操鹿：建议首页把那位大大拉黑 黑名单有她更精彩</p>
-<p><strong>附：豆瓣“阴三儿”主页 部分留言截图</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.39.31-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.39.31-AM.png" alt="Screen Shot 2015-08-11 at 12.39.31 AM" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.39.49-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.39.49-AM.png" alt="Screen Shot 2015-08-11 at 12.39.49 AM" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.40.35-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-11-at-12.40.35-AM.png" alt="Screen Shot 2015-08-11 at 12.40.35 AM" width="475" height=""></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E9%87%91%E6%9B%B2120%E9%A6%96%EF%BC%9A%E4%B8%8A%E6%A6%9C%E6%95%88%E6%9E%9C%E7%AB%8B%E7%AB%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">禁歌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -726,7 +798,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -736,5 +808,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/></td>    </tr>
 </table>

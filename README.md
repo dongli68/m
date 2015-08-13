@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,81 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF9%E6%9C%883%E6%97%A5/" target="cdt-mirror">东网｜吳戈：為什麼是9月3日</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150813000312117-0813_05411_001_01p.jpg" alt="bkncn-20150813000312117-0813_05411_001_01p" width="551" height="393"><br>
+尽管抗戰在中國影視文藝領域早已成熱點，但以片面歌功頌德使它們喪失了基本的嚴肅性。</p>
+<p>即使你再不關心時事，全國放假和北京長達半個月的交通管制也會讓你知道9月3日政府要做什麼，更別說從一年前就開始預熱，北京郊區為閱兵仿造了天安門城樓。</p>
+<p>然而這次活動到底在紀念什麼，估計很多人還是答不準確。因為9月3日的「抗戰勝利紀念日」身份源自1946年4月中國國民黨中常會的決議，1949年底新政權政務院的相關規定先確定了「八一五抗戰勝利紀念日」，1951年改為9月3日，經過長期政治運動的荒廢，1999年又由國務院重申，但作為法定節假日由立法機關規定的程序2014年初才完成。</p>
+<p>這也與中國抗戰勝利的歷史過程有關，日本天皇公布投降詔書是1945年8月15日，但盟軍正式受降是在9月2日，因而中國國民政府以次日為勝利紀念日，但中國戰區正式受降則是9月9日。</p>
+<p>因此，作為一個人為確定的紀念日，9月3日對習慣了紀念歷史事件發生日的中國社會有些陌生。</p>
+<p>同時，不同的歷史時期，官方也需要強調不同的紀念角度。比如很長時期內，中國大陸習慣紀念「七七事變」，因為這不光日本全面侵華，中國全面抗戰的開始，也是共產黨在抗戰中得以大展宏圖的契機，同樣是1937年的淞滬會戰就近年才更多引起關注；1985年南京大屠殺紀念館建成，這一雖發生在國統區，但對提醒當代青年不忘侵略軍罪行非常重要的事件受到高度重視，到2014年更以設立國家公祭日達到頂峰；90年代初，「不忘國恥」、「落後這要挨打」的觀念勃興，「九一八」被濃墨重彩；</p>
+<p>而今，紀念9月3日倒並不為拉近兩岸關係，志得意滿的中國總不能老紀念被打被殺，而急需強調偉大功績，同時以戰勝國資歷刺激對外鬥爭的信心。</p>
+<p>然而，僅僅是9月2日日本投降儀式在東京灣的美國「密蘇里」號戰列艦上舉行，受降者有諸多盟國代表這一事實，就意味著我們紀念的不可能只是一場在自己國土上從被侵略到轉敗為勝的戰爭。中國近年對日本在歷史問題上的不斷批評，也總是引用《波茨坦公告》和《雅爾塔會議》所確立的戰後世界格局。今天中國在聯合國安理會的常任理事國席位也是來自這一過程。</p>
+<p>因而，歷史早已注定中國不可能閉門紀念抗戰。這正是9月3日的國家級活動正式名稱為「紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利70周年」的原因。可惜的是，儘管抗戰在中國影視文藝領域也早已成為熱點，但以片面歌功頌德使它們喪失了基本的嚴肅性。其實，隨著國內抗戰史研究，特別是民間關注度和參與度的活躍，圍繞抗戰史實引發一連串爭論，說明國人自有公論：對抗戰與二戰都持投機取巧的利用態度實不可取。</p>
+<p>然而，需求是如此旺盛，被侵略的記憶早已長期被當作感激執政黨功績的重要前提加以強調，而以高調紀念抗戰強化國家當前外患大於內憂，以軍事對抗轉移國內矛盾，無不是急迫需要，甚至不惜這樣的抗戰敘事造成中美和兩岸關係齟齬不斷，也不惜在對日對美關係中損失更大利益。</p>
+<p>這才有了國人抗戰史常識認知的慘不忍睹。比如人民網一篇寫江蘇某抗戰老兵的文章說「日軍屍首上有勛章，上面清晰地印著『偽滿洲國』四個字」；在大陸的原國軍抗戰老兵凡參加過內戰的就不給補助，而官媒大張旗鼓宣傳的在公交車上登廣告尋戰友的所謂國軍抗戰老兵，卻是1945年末才參加的國軍。</p>
+<p>各家大媒在夾縫中完成的抗戰紀念，有的不乏對歷史的去偽存真，但更多的卻體現出一種為生存而裝瘋賣傻的精明。比如對評述一個淞滬會戰，主題竟是「三萬國軍不敵一萬日軍」，而答案不過是日軍有艦炮轟擊；對國軍對「出雲」號的攻擊，焦點又放在炸彈炸中平民上；最後只以國軍戰車孤軍出擊，戰士致死仍握著手榴彈一點煽情結尾。而一到共軍的戰績，自然又小宇宙爆發。</p>
+<p>國內普遍的視野狹隘帶來的局限，在現實中同樣有直接的後果——海峽兩岸仍未能攜手紀念抗戰；俄羅斯這個最後幾天才參戰的伙伴驚人地高調，而太平洋戰爭的一些主角卻缺席中國的慶典；中國期待羞辱日本，日本卻以美日同盟不斷強化的現實泰然自若。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF9%E6%9C%883%E6%97%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/" target="cdt-mirror">【立此存照】别让老外帮中国人报道啊！</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a>发生后的第二天早晨，CNN记者<a href="http://www.cnn.com/profiles/will-ripley">Will Ripley</a>在天津某医院外与电视台进行连线报道过程中，突然有人高喊“别让老外帮中国人报道啊！”。随后有数位男性上前围住Will Ripley和摄像师，其中有人大喊“we’re so sad OK?”（我们很悲伤的好吗？），一番混乱后直播画面成了黑屏。这些上前围攻CNN记者的人中有穿着制服的疑似工作人员，也有一部分是身着便装的人士。</p>
+<p>直播连线被切断后，CNN节目主持人<a href="http://www.cnn.com/profiles/michael-holmes-profile">Michael Holmes</a>无奈地说：</p>
+<blockquote><p>悲哀的是，类似我台驻中国记者就此类事件进行报道时遭到保安人员阻挠的事情并不是第一次发生。就像你们刚才看到的，这类事情多年来已经发生很多次了。</p></blockquote>
+<p>以下为视频截图：</p>
+<p><strong>CNN记者及摄像师遭到围攻：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%811.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%811.png" alt="歪果仁1" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%812.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%812.png" alt="歪果仁2" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%813.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%813.png" alt="歪果仁3" width="550" height="304"></a></p>
+<p><strong>一番混乱后：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%814.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%814.png" alt="歪果仁4" width="550" height=""></a></p>
+<p><strong>直播画面进入黑屏：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%815.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%815.png" alt="歪果仁5" width="550" height=""></a></p>
+<p><em><a href="http://www.cnn.com/videos/world/2015/08/12/china-explosion-hospital-ripley.cnn">原始视频链接</a>：</em><br></p>
+<p><em>截至发稿时尚有效的<a href="http://video.weibo.com/show?fid=1034:0d72273719766e4dc8501f10394b0791">墙内视频链接</a></em></p>
+<p><strong>附：<a href="http://www.ettoday.net/news/20150813/549146.htm#ixzz3ievSkEiO">东森新闻｜CNN記者播報天津爆炸  激動民眾圍攻：不要老外報導！</a></strong></p>
+<blockquote><p>《CNN》記者雷普利（Will Ripley）今晨在天津市某家醫院外，與美國連線直播，報導昨晚發生的大爆炸意外，但在連線進行到近1分40秒時，一名民眾突然嗆聲「不要老外幫中國人報導！」隨後一群人就朝著雷普利一擁而上，要求「stop record！」（停止錄影！）迫使直播中斷。美國棚內的主播只能嚴肅地說，這已經不是第一次記者在中國大陸報導時被民眾阻撓打斷。</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%A9%E5%AE%B6%E8%A1%97-%E5%A1%98%E6%B2%BD%E5%A4%A7%E7%88%86%E7%82%B8-%E5%A4%A9%E6%B4%A5%E4%BE%9D%E7%84%B6%E6%98%AF%E5%BA%A7%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9F%8E%E5%B8%82/" target="cdt-mirror">温家街 | 塘沽大爆炸 天津依然是座没有新闻的城市</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/U136P1T940D4281F24202DT20150813103646.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/U136P1T940D4281F24202DT20150813103646.jpg" alt="U136P1T940D4281F24202DT20150813103646" width="500" height="300"></a></p>
+<p>文/新浪专栏 观察家 汤嘉琛</p>
+<p>12日深夜，天津滨海新区一危险品仓库发生爆炸，现场腾起蘑菇云。据测算，爆炸破坏力相当于24吨TNT炸药当量——能量接近53个战斧式巡航导弹。新华社报道：截至13日9时，事故已致17人死亡，400余人受伤。</p>
+<p>爆炸发生后，微博、微信群、朋友圈被刷屏，微博相关话题阅读量已超2亿次，人们急切希望知道更多权威的信息。但诡异的是，从爆炸事故发生至今，天津市有关方面的信息发布、新闻报道严重不足。</p>
+<p>打开《天津日报》等媒体的电子报，会发现他们很“机智”地撤掉了头版……不知道是否是因为对爆炸事故只字未提，怕被网友“炒作”。家在天津朋友，如果方便的话，可以留言说说或拍一下头版然后发给我。</p>
+<p>如果说纸媒收出版流程限制，反应慢一点情有可原。那么，新媒体平台总不至于失语了吧。但现实是依然让人震惊。</p>
+<p>直到今天凌晨3:52，天津市人民政府新闻办公室官方微博“天津发布”才发布了第一条消息。而此时，距离爆炸事故发生已有4个多小时，网络上已经流言四起。</p>
+<p>遇到这种突发事件，第一时间要求公布死伤者人数、事故原因等，有些过于苛刻。但通过微博、网站动态发布最新信息，避免因信息不透明而出现谣言，减少民众的恐慌情绪，这样的要求并不过分。从3年前的蓟县大火，到如今的塘沽爆炸，没有丝毫进步。</p>
+<p>新闻业内有一种说法：天津是一座没有新闻的城市。这一次，似乎依然没有新闻。</p>
+<p>几年前，@中青报曹林曾吐槽：“这座城市严重信息封闭，平常外界看不到这座城市有什么新闻发生，正面负面都是如此。这种管制造成天津媒体的封闭和媒体人的封闭，难出知名媒体，难出拿得出手的名记，当地媒体和媒体人与外界也少有联系。天津媒体不监督异地，异地媒体也监督不了天津 。”</p>
+<p>蓟县大火后，“假装在纽约”也曾质疑：“天津是个奇怪的地方，这么大的城市这么多人，这么多年却一直没什么声响，安静得像是不存在。什邡小城出事把微博折腾了个底朝天，天津这么大的火，外地网友拼命刷屏追问真相，却没看到多少天津人在讨论，天津的官博连装模作样的辟谣都懒得辟。”</p>
+<p>天津媒体的“低调”，与其直辖市的地位极不相称。对此，天津市民也诟病颇多：“地铁事故你们不报，公交车死人你们不报，街头上的凶杀案你们不报，成天就知道婆婆妈妈的小事，喜欢报道小偷小摸呀、丢井盖啊、积水啊、撞车啊……”</p>
+<p>有媒体从业者分析：“天津媒体的特色是副刊、葵花灯下及都市报道，而不是新闻、评论及新文化；天津媒体喜追名家而不捧自己人，尤其不捧所谓新锐的年轻人；天津媒体人流行圈子、踩自己人、打小报告，唯领导马屁是从；有新闻理想的人，不善于周旋者，别在天津做媒体人。”</p>
+<p>媒体人“mele_yu”曾在微博中说： “和天津的同行接触，感觉他们非常热爱自己的城市，不愿意承认自己的城市会出问题。于是每次我们关心他们怎么样时，他们都轻描淡写的说：嘛事没有！”</p>
+<p>但问题，对自己城市存在的问题假装看不见，不是爱，是害。纸是包不住火的，明明有很多问题却总是捂着掖着，拒绝舆论监督，迟早出大事。</p>
+<p>最新消息称，习近平、李克强已对此次爆炸事故做出重要批示，其中明确要求“及时公开透明向社会发布信息”。为天津祈祷，也希望天津不再沉默，及时查明真相并公开信息，对责任人严肃追责，给遇难者家属和所有遭受损失的人一个交代。</p>
+<p>这次爆炸，能炸醒一直“装睡”的天津吗？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%A9%E5%AE%B6%E8%A1%97-%E5%A1%98%E6%B2%BD%E5%A4%A7%E7%88%86%E7%82%B8-%E5%A4%A9%E6%B4%A5%E4%BE%9D%E7%84%B6%E6%98%AF%E5%BA%A7%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9F%8E%E5%B8%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E4%BA%BA/?category=18271" rel="tag">媒体人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E9%97%BB%E4%B8%8D%E9%87%8D%E8%A6%81-%E6%94%BF%E6%B2%BB%E6%89%8D%E9%87%8D%E8%A6%81/" target="cdt-mirror">【网络民议】新闻不重要 政治才重要</a>
 </h2>
 <p><p>新闻背景：<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="_blank">天津滨海新区码头大爆炸 已17死逾400伤</a></p>
@@ -132,6 +204,59 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81
 <p>目前，该公司以经营危险化学品集装箱拆箱、装箱、中转运输、货物申报、运抵配送及仓储服务等业务为主，共有员工70人，外用工20人。</p>
 <p>据该公司官网显示，该公司仓储业务的商品类别有：第二类：压缩气体和液化气体(氩气、压缩天然气等);第三类：易燃液体(甲乙酮、乙酸乙酯等)；第四类：易 燃固体、自燃物品和遇湿易燃物品(硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物(硝酸钾、硝酸钠等);第六类：毒害品(氰化钠、 甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类(甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
 <p>公司官网显示，其安全文化的方针是：“更科学、更严谨、更规范，对生命负责”。同时，格外强调“安全”，并称：“金钱再好，没有生命美好，时间再紧，没有安全要紧”、“安全不是万能的，没有安全却是万万不能的。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已17死逾400伤 （21图）</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg" alt="据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。" width="500" height="281"></a><p>据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p></div>
+<p><strong>天津滨海新区开发区瑞海危险品仓库周三（12日）晚11时30分左右，发生剧烈爆炸，爆炸火光冲天，引发的烟尘高达数十米。方圆数公里有强烈震感。 人民日报和央视都报道说，已经有17人死亡。另外，人民日报报道有300多人受伤，而央视则称，受伤人数超过400人。相关企业责任人已被拘捕。</strong></p>
+<p>报道说，灭火过程中发生2次爆炸导致部分现场人员被困，现正在全力搜救被困人员。</p>
+<p>新京报记者现场报道，在爆炸中心，有7-8辆消防车被炸毁。在被炸毁的消防车附近，消防人员正在搬运队友尸体，至少3具被烧焦的尸体被抬走。随后被送往附近泰达医院，直接送进了太平间。</p>
+<p>中国领导人习近平对天津滨海新区危险品仓库爆炸事故作出重要指示，要求尽快控制、消除火情，全力救治伤员，确保人民生命财产安全。</p>
+<p>国务院总理李克强立即作出批示，要求全力组织力量，注意做好科学施救，防止发生次生事故，查明事故原因，及时公开透明向社会发布信息。同时要督促各地强化责任，切实把各项安全生产措施落到实处。</p>
+<p>公安部部长郭声琨已率国务院工作组赴现场指导事故救援和应急处置工作。</p>
+<p>天津港国际物流中心区域内瑞海公司所属危险品仓库发生爆炸，周边建筑受损。在灭火过程中发生2次爆炸，导致部分现场人员被困，正在全力搜救。</p>
+<p>央视报道：爆炸后产生的粉尘没有扩散，对附近居民威胁极小。目前现场所有消防力量正在进入事发地，对火势发起总攻。由于爆炸物为特殊物质，沙土掩埋为最佳灭火方式。经现场侦查，仍存在二次爆炸的可能。</p>
+<p>天津市委代书记、市长黄兴国提出三点要求：全力控制现场防止次生事故；全力救治伤员；尽快查清事故原因做好善后工作。</p>
+<p>天津警方通报称，瑞海国际物流公司危险品仓库集装箱堆场，装有危险品的集装箱起火爆炸，造成轻轨东海路站建筑及周边居民楼受损，津滨轻轨9号线13日停止营运。</p>
+<p>据央视报道，截至目前，爆炸点附近停放的车辆仍在发生爆炸，据估计现场火势还将持续至少2小时。爆炸点两公里内的建筑玻璃全部被震碎，距离事故发生地10公里左右的路段发生了交通拥堵，或将影响早高峰交通出行。</p>
+<p>据新华社现场记者报道指，现场已经戒严，在记者前方约500米处的一个汽车工业园，仍在发生连绵不绝的爆炸，浓烟滚滚。</p>
+<p>天津滨海新区开发区周边瑞海危险品仓库昨俺发生爆炸，邻近多家公司和建筑物毁损严重，其中雷诺汽车仓储停有6000多辆汽车，估有六分之一左右被烧毁，消防员还在持续灭火中。</p>
+<p>在事故现场不到百米施工的水电工人，暂居的简易木板房屋全部倒塌，这批简易木板房有2000多人居住，逃出的工人表示，幸有北疆海事局几层办公楼挡着，缓解爆炸冲击，不然工人伤亡可能会很严重。</p>
+<p>另一建筑工地的一名木工也指，他所在的施工地活动板房距离事故现场有一公里多的距离，七八间活动板房里至少住着300名工人。 事故发生后，活动板房倒塌，正在睡觉的工人全部被埋，所幸伤亡不重。</p>
+<p>据官方中国地震台网报道，天津周三晚的爆炸共有两次，第一次爆炸发生在当地时间23时34分6秒，近震震级ML约2.3级，相当于3吨TNT，第二次爆炸在30秒种后，近震震级ML约2.9级，相当于21吨TNT。</p>
+<p>国家地震台网官方微博综合网民反馈的消息称，天津塘沽、滨海等，以及河北河间、肃宁、晋州、藁城等地均有震感。</p>
+<p>事发的塘沽区出现交通大挤塞，主要道路水洩不通，救护车亦难以将伤者送达医院治疗。京津塘高速公路禁止往塘沽方向行驶。</p>
+<p><strong>救火中发生爆炸</strong></p>
+<p>据中国消防消息，当日22时50分，天津消防总队接到报警称，天津滨海新区港务集团瑞海物流危化品堆垛发生火灾，天津消防总队9个中队和港务局码头3个专职队赶赴现场扑救。当日23时30分左右，现场发生爆炸 。目前，2名消防官兵失联，4名受伤。</p>
+<p>另一位天津市民刚刚对BBC中文网表示，他不久前身在距离爆炸现场只有100米左右的地方，看到爆炸现场仍在起火，而且不时传出零星的爆炸声，但爆炸威力远低于之前的两次爆炸。</p>
+<p>天津港发生大爆炸时，住在天津经济技术开发区市民广场的市民张先生称，爆炸发生在大约晚上11时30分至35分之间，爆炸点出现明亮红光，此后一声巨响，大约3秒后感受到强烈冲击波。10秒钟以后，火光变得更大更亮，又一声巨响后迎来更强大的冲击波，抬头就看到天上腾起了一片白色的蘑菇云。</p>
+<p>从网上流传的照片可见，火光直冒半空，而且出现巨大蘑菇云，附近许多建筑物都受损，有住宅玻璃被震碎、有写字楼天花倒塌、有学校大门玻璃散落一地。</p>
+<p>新华社报道称：发生爆炸的天津滨海新区开发区第12大街到新港四号路部分戒严。</p>
+<p>一名目前身在天津滨海新区市区的当地居民在电话中向BBC中文网记者表示，目前滨海新区市区到处都是疏散的人群，而且不少警察在街上维持秩序，而且还看到一些地区已经戒严。</p>
+<p><strong>“数百人受伤”</strong></p>
+<p>据多位天津当地微博网友称，爆炸发生后，爆炸地点附近多处建筑物受到冲击波致门窗等掉落，另外由于天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p>
+<p>天津港口医院工作人员称，截至目前，已送进300至400名伤员，均在急救室内进行紧急处理。前述工作人员称，爆炸发生后，急救电话被打爆，“急救车抢救和自己来的都有。”</p>
+<p>由于塘沽的泰达医院、天津第五中心医院、泰达心血管医院很快出现伤员“饱和”的状况。急救人员开始往市内医院分流伤者，通过救护车往返接送，将不少伤者分别送至市内的总医院、天津医院、武警医院、第三中心医院、第四医院等多家医院救治。</p>
+<p>该报道称此次事故的伤者中多以骨折、烧伤、擦伤为主。</p>
+<p>天津血液中心说，已经有超过上百人登记献血，中心已经做好了应对急救用血的准备，明天（周四13日）该市各大采血点将准时开放。</p>
+<p>泰达医院很混乱，重伤伤者都在那边。”义务献血的杨先生称，自己看到爆炸后就赶往泰达医院，救护车不断的往医院送人，伤者多是外伤，“有的人被救护车运过来时呈昏迷状态。”</p>
+<p>杨先生称，因为泰达医院离事发现场较近，接受的都是重伤伤员，轻伤伤员都被转移至塘沽医院，很多市民义务开车运送伤员，献血的市民也被统一转至塘沽医院。“登记献血者的册子都填满了。”</p>
+<p>杨先生称，目前塘沽医院排队献血的市民约有四百余人。</p>
+<p><strong>瑞海国际物流有限公司</strong></p>
+<p>据天津东疆保税港区瑞海国际物流有限公司官网介绍，该公司成立于2011年，是天津口岸危险品货物集装箱业务的大型中转、集散中心，是天津海事局指定危险货物监装场站和天津交委港口危险货物作业许可单位。</p>
+<p>目前，该公司以经营危险化学品集装箱拆箱、装箱、中转运输、货物申报、运抵配送及仓储服务等业务为主，共有员工70人，外用工20人。</p>
+<p>据该公司官网显示，该公司仓储业务的商品类别有：第二类：压缩气体和液化气体(氩气、压缩天然气等);第三类：易燃液体(甲乙酮、乙酸乙酯等)；第四类：易 燃固体、自燃物品和遇湿易燃物品(硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物(硝酸钾、硝酸钠等);第六类：毒害品(氰化钠、 甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类(甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
+<p>公司官网显示，其安全文化的方针是：“更科学、更严谨、更规范，对生命负责”。同时，格外强调“安全”，并称：“金钱再好，没有生命美好，时间再紧，没有安全要紧”、“安全不是万能的，没有安全却是万万不能的。”</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9B%B4%E6%92%AD%E5%9B%BE%E9%9B%86%E3%80%91%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E9%83%A8%E5%88%86%E8%B5%84%E8%AE%AF%E6%BA%90%E6%B1%87/" target="_blank">【直播+图集】天津滨海新区爆炸事件部分新闻源汇总</a></p>
+<p>附：更多图片来自中国茉莉花革命网站：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/902.jpg" alt="902" width="640" height="481"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/908b.jpg" alt="908b" width="480" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909pp.jpg" alt="909pp" width="640" height="426"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909ss.jpg" alt="909ss" width="479" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/912.jpg" alt="912" width="480" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/915.jpg" alt="915" width="640" height="480"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917aa.jpg" alt="917aa" width="640" height="426"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917h.jpg" alt="917h" width="594" height="355"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/919.jpg" alt="919" width="640" height="417"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/953.jpg" alt="953" width="515" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/954-381x1024.jpg" alt="954" width="381" height="1024"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/969.jpg" alt="969" width="640" height="384"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/971.jpg" alt="971" width="640" height="384"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/979.jpg" alt="979" width="640" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/990.jpg" alt="990" width="640" height="408"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a15.gif" alt="a15" width="320" height="240"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b1.jpg" alt="b1" width="361" height="640"></p>
 <hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
 <a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/">Permalink</a> |
 <br>
@@ -553,289 +678,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-120-%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E8%A2%AB%E6%96%87%E5%8C%96%E9%83%A8%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95/" target="cdt-mirror">知乎｜如何评价 120 首网络歌曲被文化部列入黑名单？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%8D%89%E6%B3%A5%E9%A9%ACID.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E8%8D%89%E6%B3%A5%E9%A9%ACID.jpg" alt="草泥马ID" width="575" height=""></a><br><em>（网络图片）</em></p>
-<p><strong>提问：</strong>【[话筒]这120首网络歌曲被文化部列入黑名单！】文化部今日公布了一批网络音乐产品“黑名单”，要求互联网文化单位<a href="http://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/">集中下架120首内容违规的网络音乐产品</a>。对拒不下架的互联网文化单位，文化部表示将依法从严查处。</p>
-<h3><strong>答主：<a href="http://www.zhihu.com/people/zhao-chen-ke">赵强坚</a></strong></h3>
-<p>李志和邵夷贝的另一首歌能解答这个问题<br>
-《<i></i><b>黄昏》 </b><a href="http://music.163.com/#/m/song?id=292246" target="_blank" rel="nofollow noreferrer"><span>http://</span><span>music.163.com/#</span><span>/m/song?id=292246</span><i></i></a></p>
-<blockquote><p>他用一种慈祥的姿态在高处安抚着你</p>
-<p>他铺开巨大的过滤网层层信仰奢靡</p>
-<p>他大义凌然地宣布要把纯净筛留给你</p>
-<p>过滤得只剩下了残骸还要你歌颂感激</p>
-<p>你终其一生想找到理由去热爱脚下的土地</p>
-<p>他为其定义的伟大 对你有什么意义</p>
-<p>你所能做的只是在奔跑中保护好你自己</p>
-<p>你想要感受到他爱你 愿他别去伤害你</p>
-<p>他庞大的身躯压垮了多少初生的纯良</p>
-<p>他曾有的灵魂矗立在远方冷漠地观望</p>
-<p>他费力塑造的繁华成为装扮阴暗面的假象</p>
-<p>他毁掉的美好在不久的将来变成了疯狂</p>
-<p>你终其一生想找到理由去热爱脚下的土地</p>
-<p>他为其定义的伟大 对你有什么意义</p>
-<p>你所能做的只是在奔跑中保护好你自己</p>
-<p>你想要感受到他爱你 愿他别去伤害你</p>
-<p>你终其一生找不到理由去热爱脚下的土地</p>
-<p>传说中这里的强大是你生命的全部意义</p>
-<p>你所能做的只是在奔跑中保护好你自己</p>
-<p>你想要感受到他爱你 愿他别去伤害你</p></blockquote>
-<h3><strong>答主：<a href="http://www.zhihu.com/people/xue-fu-72">薛夫</a></strong></h3>
-<p>这尼玛哪叫禁？<br>
-简直就是颁奖。<br>
-就差给in3发个奖杯了，底座上还得印俩烫金的大字“牛逼”</p>
-<h3><strong>答主：<a href="http://www.zhihu.com/people/slim-chan">slim Chan</a></strong></h3>
-<p>分享CharlesLuke创建的歌单「即将被文化部封杀的120首网络歌曲」: <a href="http://music.163.com/playlist/96923579/1427295/" target="_blank" rel="nofollow noreferrer"><span>http://</span><span>music.163.com/playlist/</span><span>96923579/1427295/</span></a> (来自@网易云音乐)</p>
-<h3><strong>答主：</strong><a href="http://www.zhihu.com/people/ParanoidAndroid">张得意</a></h3>
-<p><b>百余歌曲金榜题名 阴三儿或成最大赢家</b></p>
-<p>10日，文化部评选出新一届的「120首最伟大的中文网络歌曲」（120 Greatest Chinese Politics/Porn Songs），在国内引起强烈反响。其中，阴三儿乐队以17首歌曲入选的优异成绩，在本次评选中满载而归，或成为最大赢家。</p>
-<p>文化部强调，要通过要求互联网文化单位集中下架入选作品的方式，大力推广此次获奖作品，让音乐创作从群众中来，到群众中去，让优秀的艺术作品走向民间、服务群众。无论是拥有优秀群众基础的无产阶级偶像派歌手李志同志，还是十年如一日地在知乎成人社区默默耕耘的 <a href="http://www.zhihu.com/people/4a558b8ac2eec7883524bf520a19ad24" data-hash="4a558b8ac2eec7883524bf520a19ad24" data-editable="true" data-title="@曹石" data-tip="p$b$4a558b8ac2eec7883524bf520a19ad24">@曹石</a>同 志所在的黑撒乐队，无论是致力于弘扬中华优秀传统文化的许嵩同志，还是身在宝岛台湾心在组织中央的优秀战士张震岳同志，都是此次评选中的杰出代表。要坚持 百花齐放、推陈出新，支持不同风格、不同流派竞相发展，重视继承传统，传艺、传神、传德，鼓励创新创造，出名家、出精品、出流派，努力展现网络歌曲艺术时 代新风貌。值得一提的是，《咬之歌》的原作者尧十三同志，为了培养新一代文艺工作者，把自己的作品无私地献给了组织的新鲜血液不是那么黑同志。</p>
-<p>文化部强调，要建立健全音乐人才培养体系，注重师徒传承，培育观众群体，努力夯实网络歌曲发展的根基。扩大开放程度，鼓励使用具有创新精神的艺名，如「网络 歌手」「东北粗口」「沈阳 mm」「小贱」；提高行业素养，鼓励使用具有艺术气息的作品名，如「秀X你妈个」「傻B情侣」「我想要做爱」「老公老公你好坏」。对于阴三儿、新街口组合 这样优秀的文艺工作团体，一定要扩大影响，加大政策扶持力度，增强“造血”功能和发展动力，要求基层组织结合主题日活动、组织生活会等组织集中学习收听并 进行讨论交流，领导干部要带头学习收听，确保学习取得实实在在成效。</p>
-<p>另外，据不愿透露姓名的知情人士称，周杰伦同志对作品「屌」的入选提 出了质疑。文化部做出官方回应：艺术作品不能流于文字表面，要深入学习贯彻中央重要讲话精神特别是在文艺工作座谈会上的讲话精神，坚守文化立场，坚定文化 自信，树立以人民为中心的工作导向，以核心价值观为引领，推出更多艺术精湛、群众喜爱的歌曲精品，不要动不动就想搞一个大新闻。</p>
-<h3><strong>匿名用户</strong></h3>
-<p>党害了我，以前在我最懵懂纯洁的时候出了一份禁淫秽色情小说的名单</p>
-<h3><strong>答主：</strong><a href="http://www.zhihu.com/people/jimmy-yen">wicked代码</a></h3>
-<p>封锁越来越紧了，说明鬼子的末日就要来了。——李向阳《平原游击队》</p>
-<h3><strong>答主：</strong><a href="http://www.zhihu.com/people/lenneko">Neko Len</a></h3>
-<blockquote><p>“如果她能做一件事绝对保证学校里每个人都会读采访你的文章,那就是禁止它!” 赫敏·格兰杰，《哈利波特与凤凰社》</p></blockquote>
-<h3>知乎用户</h3>
-<p>就当做歌单~~~</p>
-<h3><strong>知乎用户</strong></h3>
-<p>听什么歌你要管<br>
-看什么电影你要管<br>
-读什么书你要管<br>
-上什么网你要管<br>
-说什么话你也要管。</p>
-<p>但是，我们吃什么你不管，住哪里你不管，孩子上不了学你不管，生病了你不管。</p>
-<p>总之该管的你不管，不该管的你他妈全管！</p>
-<p>转自腾讯网友评论</p>
-<h3><strong>答主：<a href="http://www.zhihu.com/people/fu-hong-xue-52">傅红雪</a></strong></h3>
-<p>我国的课堂上并不会教育大家如何正确使用避孕套。<br>
-我国每年都有许许多多的少女流产。<br>
-我国很多人以为紧急避孕药可以随便吃。<br>
-我国极少数官僚和商人非常喜欢十几岁的处女。<br>
-我国的极少数少女还在把同学介绍给人嫖宿。<br>
-我国的许多女人还在闷着捂着坐月子。</p>
-<h3><strong>答主：<a href="http://www.zhihu.com/people/babayage">babayage</a></strong></h3>
-<p>中国版billboard 终于诞生了。<br>
-有个小小的心愿：请定期发布。<br>
-看看多少朋友要去听，这就叫公信力，不服来战。<br>
-我一直在等华语音乐有个讲良心、没铜臭味的靠谱榜单，一度以为这辈子都等不来了。</p>
-<h3><strong>答主：<a href="http://www.zhihu.com/people/ren-ke-31-76">任珂</a></strong></h3>
-<p>列出这120首可不容易，有老有新，港台内地，地上地下，摇滚饶舌，网络金曲。看来组织里有专人“批判性的听”啊。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-120-%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E8%A2%AB%E6%96%87%E5%8C%96%E9%83%A8%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BB%8A%E5%A4%A9%E9%81%93%EF%BD%9C%E6%8A%8A%E8%80%B3%E6%9C%B5%E9%83%BD%E6%8D%82%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%8A%8A%E6%99%BA%E5%95%86%E9%83%BD%E4%B8%A2%E4%B8%8A%E6%9D%A5/" target="cdt-mirror">今天道｜把耳朵都捂起来，把智商都丢上来</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/image.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/image.jpg" alt="image" width="575" height=""></a></p>
-<p>我永远忘不了2005年的那个午后，刚上大学的我在宿舍写现代汉语作业，室友用立体声音箱外放了一首歌，是mc.hotdog的《韩流来袭》，当那句“草泥马隔壁”铿然唱起时，我的笔差点掉在了地上，而室友则是一脸得意的表情，那种“土鳖没听过吧！哥比我们更早接触前沿文化”的优越感呼之欲出。在此之前，我只在新闻联播的批评名单里听过哈狗帮。我理了理思绪，仔细听了这歌词后心里默喊一句：草，真牛逼！就是不能火。</p>
-<p>但是如大家所知，后来的热狗与张震岳相遇了，颇似刘备遇孔明、干柴遇烈火，这两个非主流的乐手偶然碰到一起，推出《wake up》这张神专辑，high遍两岸三地，这是热狗的第一春、阿岳的第二春，并一举拿下18届金曲奖最佳国语专辑奖——在全台直播的金曲奖现场，二位台客对着台下喊，林志玲算什么、侯佩岑算什么，号召大家把衣服都掀起来、把奶罩都丢上来，把主持人侯佩岑逗得前仰后合，全场起立大合唱，坐在前排的台北文化局长 一张搞笑的扑克脸。看着网络直播的我只能艳羡：你看看人家的歌手，你看看人家的典礼，你看看人家的尺度，你看看人家的领导。</p>
-<p>这并不是低俗歌手热狗的巅峰。2014年2月，热狗还与张震岳、顽童同受中国奥委会邀请打造索契冬奥会主题曲， 创作《Super Duper Fly》。一个地下粗口说唱歌手眼看要成为国家名片。内地这出身的你告诉我有谁？彩铃时代唱《赚钱了》的吾酷？还是唱《东北人都是活雷锋》的雪村？哪怕是 去年因为《董小姐》火得一塌糊涂的宋冬野，也只是LIVEHOUSE火热，宣传部、文化部的领导是不会鸟这个民谣胖子的，主流卫视选角更是慎之又慎——请这帮嘴上没把门、没入过党的二流子做什么？要是他在台上唱出“射在墙上、床上、姑娘的肚子上”怎么办？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5d807254914f64995259bb0970850375_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5d807254914f64995259bb0970850375_b.jpg" alt="5d807254914f64995259bb0970850375_b" width="575" height=""></a><br>
-（这就是现场演出的尺度）</p>
-<p>所以，不要以为国内电影审查严格，音乐审查制度好歹宽松的，你就太naive了：还是十年前，他们就能把陶喆《太平盛世》里的《鬼》这一单曲删除，让台湾歌手周杰伦把《分裂》改为《离开》，也逼过陈奕迅《HHHM》必须给专辑取个国语名，E神团队万般无奈下只好取了个《好好好卖》的鬼名字。</p>
-<p>但这还不够，为了响应“接地气”、亲民意的号召，领导们决心把网络歌曲搬上春晚，以飨大众。但是又怕低俗怎办？为此真是煞费苦心：先是选了《香水有毒》这首 小三之歌，然后把“擦干眼泪陪你睡”改成“陪你醉”，不仔细听发现不了；《老婆老公我爱你》，后边接的不是“阿弥陀佛”而是“我的祝福保佑你”，唱歌的是 已经仙逝的姚贝娜和霍尊他爹火风仁波切！想象下：一个仁波切不说阿弥陀佛，而用祝福来保佑老婆！这是怎样的一种凌乱。纵贯线的年度金曲《亡命之徒》，审查 半天实在找不出毛病，最后觉得，妈的歌名是不是太消极了？来，整点正能量，于是改成了《出发》。保持我们文化的先进性、纯洁性，这是一件非常重要的任务。 如果只听过官方版的所有音乐作品，你上网后一定会发现好多新歌。</p>
-<p>今天，文化部突然要求，互联网文化单位集中下架１２０首内容违规的网络音乐产品，谁不下架从严查处。我看了一下这120首的歌单，既有《MLGB》这样的奇葩歌曲，也有《他们》这样的老牌民谣大作。而最让我惊讶的是，发表于13年前的一首民间流传的网络歌曲《大学生自习室》也赫然在列：一首教化大众长达十三 年的歌曲到头来被证明是低俗的、不应该来到这个世界上，是不是有一种第一大帮帮主乔峰被证明是契丹人的黑色幽默？</p>
-<p>十年前听《韩流来袭》，我被它的尺度震惊，但很快，但这尺度被草榴、东京热及层出不穷的领导干部不雅视频盖过。听歌还能听怀孕吗？约炮才行嘛！在一个包小姐名片乱飞，性信息满世界飞、领导满宾馆双飞的年代，连点开正能量的人民新华网都能看到丰乳肥臀的信息爆炸时代，我就不信听几首靡靡之音就躁动、低俗、勃 起、上街了。信息全封闭、只能听红歌的年代，对岸唱几曲邓丽君都能亡国，我们都恨不得让听到的人去洗耳朵；而在全世界的信息无壁垒的互联网时代，文化主管 部门还要帮着我们把耳朵捂起来——靡靡之音！不要听，不要听，千万不要听！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/image2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/image2.jpg" alt="image2" width="575" height=""></a><br>
-（龙应台的演讲）</p>
-<p>现在是什么时代？台前“文化部长”龙应台刚刚在香港书展这么讲：现在是二十一世纪了……是温柔倾听的时刻了。……一个人的记忆就是他的尊严，我们欠他一个真 诚的倾听吧？二十一世纪的香港、台湾、中国大陆，应该开启一个大倾听的时代，倾听自己身边的人，倾听大海对岸的人，倾听我们不喜欢不赞成的人，倾听前面一 个时代残酷烟灭的记忆。倾听，是建立新的文明价值的第一个起点。</p>
-<p>同样是管文化的，相比之下，我们怎么就那么不懂文化？让我们听了又怎样？放心，天塌不下来，正能量不会耗散，核心价值观自带三个自信属性，无法造成伤害的！ 真正差的作品根本无需禁止，听众会自动用记忆将其销毁；而真正好的音乐、电影、一切文艺，又岂是一纸禁令能灭绝的？它将被反复地以自己独有的形式，被倾 听、阅读、感受，并永远存在于我们的手机、硬盘、书架，存在于深深的脑海里。在众声喧哗的时代，你怕什么靡靡之音，在全民娱乐时代，你还不信兼听则明？这 些禁令将变得可笑又没有意义。</p>
-<p>最后，我要用黑名单上一首歌，也是本文的背景音乐里的歌词，来结束这篇同样无意义的文字：<strong>他们指向左/他们指向右/你我不能没脑子,闭眼随便过/睁眼将就活/我们的生活多美好。</strong>是的，要么听我们的，听120首歌曲在内的所有声音，即使耳朵捂起来，还是听得到；要么听他们的，闭眼随便过，睁眼将就活，生活多美好。</p>
-<p><em><strong>微信公众号：jintiandao1984</strong></em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/jintiandao1984.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/jintiandao1984.jpg" alt="今天道" width="255" height="255"></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BB%8A%E5%A4%A9%E9%81%93%EF%BD%9C%E6%8A%8A%E8%80%B3%E6%9C%B5%E9%83%BD%E6%8D%82%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%8A%8A%E6%99%BA%E5%95%86%E9%83%BD%E4%B8%A2%E4%B8%8A%E6%9D%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E4%B8%89%E4%BF%97/?category=18271" rel="tag">反三俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD/?category=18271" rel="tag">闭关锁国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%8B%E5%BB%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E9%80%80/" target="cdt-mirror">王建：中国经济增长已出现“断崖式衰退”</a>
-</h2>
-<p><p>如果按照消费与工业物价走势，以及电力、运输和货币所表现出的经济运行态势，去年的实际经济增长水平可能已经“破5”，现价增长率更可能在去年四季度已经进入负值。</p>
-<p><strong>经济增长数据的两个“看不懂”</strong></p>
-<p>2009年我曾写过一篇文章，指出由于次贷危机的爆发，中断了新全球化以来中国以外需为主导的高速增长过程，而这场危机将在很长时间内持续，所以若不从外需主导型增长向内需主导型转变，中国经济就会持续下行。经济下行的内部原因是生产过剩，生产过剩则产生于收入分配差距。而在中国特定发展阶段，导致收入分配差距的主要因素是因城市化严重滞后所形成的城乡收入差距，所以，城市化就成为走出低谷的唯一通道。</p>
-<p>我原先以为，城市化会成为“十二五”中后期的主导战略，但以大规模城市化为核心内容的结构大调整始终没有出现，所以我在2013年下半年写文章指出，经济下行会变得更加严重。我在2014年4月更明确指出，到2014年下半年，经济增长可能会从“滑落转坠落”出现“断崖式衰退”，增长率很可能会在年内相继“破7、破6、破5”。</p>
-<p>去年8月，首先是工业增长率出现了“跳水”，从上月的9.1%猛降到6.9%，紧跟着是进入四季度后发电量、铁路货运量和M1增速猛降。根据这些情况判断，三季度经济应“破7”，四季度应“破6”甚至“破5”，但从国家统计局公布的数字看，这两个季度都保持在7.3%的稳定水平。因此笔者从另一角度，对去年数据进行一些分析。</p>
-<p><strong>看不懂的平减指数</strong></p>
-<p>GDP总值分现价与不变价两种，不变价经济增长率乘以GDP平减指数，就是现价经济增长率。在中国目前还没有专门的平减指数统计，而是用CPI与PPI指数来合成。比如1978-2013年间的CPI增长年率是2.5%，PPI增长年率是1.9%，同期的GDP平减指数基本是CPI与PPI之和，即4.4%。</p>
-<p>2014年GDP增长率是7.4%，CPI是2%，PPI是-1.9%，所以若按历史规律和沿用的方法，GDP平减指数本应基本为“0”，但按统计局公布的数据计算，去年GDP的现价增长率是11.9%，所以平减指数是4.19%，即平减指数与CPI、PPI的关系出现了显著背离。</p>
-<p>如果看2014年前三季度，GDP平减指数是1%，而前三季的CPI增速为2.3%，PPI增速是-1.8%，两者之和约为0.5%;四季度CPI平均值是1.5%，PPI是-2.8%，两者之和约为-1.3%，而四季度的现价GDP增长率却是19.2%，实际增长率是7.3%，则平减指数竟高达11.1%。所以，平减指数与CPI、PPI的严重背离主要是发生在四季度的统计中。</p>
-<p>如果GDP平减指数发生异常变化，肯定会在增长结构上有所表现。由于在GDP总值中，工业占36%，服务业占48%，所以下面我们主要看工业与服务业的平减指数与CPI、PPI的关系。2014年四季度工业不变价增长率为7%，现价增长率却为15%，平减指数为7.5%，但四季度的PPI增速却是-2.7%，其中12月已降到-3.3%，所以四季度工业增加值平减指数与PPI的背离就高达10个百分点以上。</p>
-<p>而服务业四季度不变价增长率是8.1%，现价增长率竟高达28.8%，平减指数为19.1%，但按照统计局的服务业价格统计，去年四季度是1.9%，所以服务业增加值平减指数与服务业CPI的背离更高达17个百分点以上。</p>
-<p>GDP平减指数与CPI、PPI同源，都是中国经济运行中的价格水平的反映，所以不可能CPI、PPI向下，而平减指数向上。去年以来，中国经济增速在下行过程中开始显露出通缩迹象，表现为各类价格指数的逐季走低。</p>
-<p>但进入四季度，虽然CPI与PPI的通缩势头更加明显，平减指数却脱离了消费物价与工业品物价的走势，突然拔高到11.1%。2005年和2007年是新世纪以来中国的两个严重通胀的年份，GDP平减指数也没有高过8%，而若平减指数高过10%，CPI与PPI本应都该高过5%，我们看到的应该是严重通胀形势，这与当前的通缩形势完全不符。</p>
-<p>还有一个观察角度，就是各地区GDP平减指数的变动情况，因为全国GDP是在各地区上报数字基础上的汇总处理，如果各地区的平减指数与国家统计局的平减指数大体相符，则去年全国GDP平减指数与CPI、PPI增速的背离也有根据。</p>
-<p>由此我计算了GDP总值排在全国前16位的省、市、区GDP平减指数情况，这16省市2014年经济总值占全国总量的82%，应有足够的代表性。在这16省市中，去年平减指数高于1%的只有5省市，最高的是上海和北京(1.9%)，有10省市在1%以下，其中还有6省市是负值，最低的河北只有-2.4%。但是全国的统计结果是4.19%。显然，去年全国GDP平减指数的高估，不是出在省市。</p>
-<p><strong>看不懂的经济增长率</strong></p>
-<p>笔者不仅是对平减指数看不懂，对实际经济增长率更看不懂，还是从发电、运力和货币这三个与经济增长相关性最强的指标来分析。</p>
-<p>先看发电量与经济增长率的关系。“十五”期间国内GDP平均增速9.8%，发电量增速为13%;“十一五”期间GDP平均增速是11.2%，发电量增速为11%。“十二五”前三年的GDP平均增速8.2%，发电量平均增长8.7%。可见新千年以来，包括次贷危机以来，发电量增长率始终高于同期经济增长率。</p>
-<p>但是去年经济增长率7.4%，发电量增长率却只有3.2%。从时段看，去年上半年，发电量增长率5.7%，GDP增长率7.4%;三季度发电量下降到1.7%，GDP增长率还是7.4%;四季度发电量下降到1.3%，GDP增长率只微弱下降到7.3%。所以发电量与统计经济增长率的背离，主要是发生在去年下半年，尤其是四季度。</p>
-<p>如果发电量大幅低于经济增长率，那只有一个解释就是用电结构发生了重大变化。由于工业用电量占全社会用电量的3/4，在工业用电中重工业又占八成以上，所以如果是经济增长大量节电，必然是因为重工业用电比重大幅度下降。但根据国家能源局的数据，去年工业用电中，重工业比重是83.3%，2013年是83.4%，只有0.1个百分点的变化。显然，去年中国的用电结构并未发生显著有利于节电的变化，那为何发电量却与经济增长率发生了严重背离?</p>
-<p>如果按经济增长与发电量1:1的比例计算，去年实际经济增长率可能已经下降到只有3.2%，四季度只有1.3%。由于四季度用CPI、PPI加总的平减指数已经是负值，现价经济增长率进入去年四季度可能已经是负增长。这个情况与2014年8月以来企业利润就已进入负增长，四季度负增长4.8%，12月份负增长8%的情况，也是相匹配的。</p>
-<p>再看铁路货运情况。新千年以来，经济增长率与铁路货运量的比率平均是1：0.63，即经济增长1%，铁路货运量相应增长0.6%。按照这个关系，去年经济增长了7.4%，铁路货运量至少应增长4%。</p>
-<p>但是去年上半年，全国铁路货运量下降2.1%，三季度下降2.5%，四季度下降7.8%，其中11月下降6.9%，12月份下降11.4%，这是前所未有的降幅。按照四季度铁路货运量的巨大降幅，四季度的经济增长率应该已经下到“零”以下。这些情况都说明，自去年8月工业增长率突降2.1个百分点开始，中国经济增长已经出现了“断崖式衰退”。</p>
-<p>再看货币。货币主要看M1，因为M1是交易中的货币，如果看贷款，在经济不活跃的时候，企业获得贷款会存而不用，就会表现为虽然贷款与M2的增长率都很高，但M1增长率很低，所以经济增长的势头强弱，主要与M1的增长率相关。</p>
-<p>新千年以来，M1的年均增长率为15.3%，是同期经济增长率的1.5倍。2011-2013年，经济增长率年均8.2%，同期M1增长率年均也为8.2%，是1：1的关系。但是去年M1只增长了3.2%，这个增长率是自上世纪90年代开始有货币供应量统计后未曾有过的低值。2012年一季度也曾出现过M1为3.4%的增长率，但以后又逐渐恢复，全年仍上升到6.5%。</p>
-<p>去年上半年，M1增长率还在8.9%的高位，但到9月末下降到4.8%，四季度就降到了3.2%，所以主要是在四季度发生了萎缩，与2013年四季度相比，M1新增额从2.5万亿元减少到2.1万亿元，但四季度统计的现价GDP新增额却有3.5万亿元，这个GDP增加额就显得不真实，何况去年四季度股市开始活跃，大量货币交易是服务于股市而非实体经济。</p>
-<p>综上所述，如果按照消费与工业物价走势，以及电力、运输和货币所表现出的经济运行态势，去年的实际经济增长水平可能已经“破5”，现价增长率更可能在去年四季度已经进入负值。</p>
-<p>目前唯一与经济严重下行不匹配的情况是就业，但这其中恐怕也有水分。反映生产积压的指标是产成品库存增长率。如果产成品增长高于生产增长，就表明销售不畅;如果产成品增长大幅高出工业生产增长率，企业就不是为市场而是为库存生产。</p>
-<p>由于产品不能实现销售，生产过程的维持，如购买原材料、燃料动力和支付工资，不是要动用以前的利润结存，就是要用银行贷款或社会融资来支付，因此是不可能持久的，一旦企业利润结存耗光、信用耗光，为库存而生产的过程就必然走到尽头。</p>
-<p>去年现价计算的工业增长率是6.3%，统计局公布的产成品增长率也是现价的，是12.6%，正好是现价工业增长率的一倍。新千年以来，现价工业增速与产成品增速的关系平均是1：1，2011-2013年平均是1:0.98，还是接近1：1，而去年则是1：2。</p>
-<p>这种变化，说明企业的生产已经在很大程度上不是在为市场需求生产，而是在靠吃老本和借贷来维持企业运转，则就业的状况即使好，也是难以持久的。另一方面，没有企业愿意为库存生产，出现这种情况，是企业为了维持不关门、职工队伍不散而在苦撑，如果宏观形势再不显著改善，出现企业倒闭和工人失业的情况恐怕也不是危言耸听。</p>
-<p>(本文作者介绍：研究员、中国宏观经济学会副会长兼秘书长)</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%8B%E5%BB%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E9%80%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">宏观经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">收入差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6/?category=18271" rel="tag">经济学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%B0%E9%80%80/?category=18271" rel="tag">衰退</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%BD%91-120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E8%A2%AB%E6%96%87%E5%8C%96%E9%83%A8%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95/" target="cdt-mirror">新华网 | 120首网络歌曲被文化部列入黑名单</a>
-</h2>
-<p><p>文化部10日在京公布了网络音乐产品黑名单共计120首，记者看到张震岳、黄立行、许嵩等人的曲目郝然在列，张震岳的曲目达到5首之多，黄立行3首，许嵩有1首。文化部市场司副司长刘强表示，作为加强网络市场中的事中、事后监管的重点措施，“黑名单”制度将成为今后的常态管理方式。</p>
-<p>据介绍，近期，文化部部署开展了对内容违规的网络音乐产品的集中排查工作，共排查出120首内容存在严重问题的网络音乐产品。这些网络音乐产品含有宣扬淫秽、暴力、教唆犯罪或者危害社会公德的内容，违反了《互联网文化管理暂行规定》第十六条的规定，已被列入网络音乐管理黑名单(附后)，任何单位和个人不得提供。</p>
-<p>刘强表示，近年来，文化部持续加强对网络音乐市场的监管，部署了多批次违规网络音乐经营活动的查处工作，依法查办了一批重大案件，有力地净化了网络音乐市场，规范了网络文化市场经营秩序。本次将依法认定的120首内容违规的网络音乐产品以“黑名单”形式公布，将进一步增强网络文化市场监管的针对性，同时也给互联网文化单位内容自审提供了准确的“靶子”，便于企业将违规产品定向清除，明确底线，加强服务。</p>
-<p>“我们先公布违规产品，各企业主体在15天内自查自审，完成下架删除。15天后文化部将组织综合执法机构进行网上巡查、重点检查。凡拒不下架黑名单所列网络音乐产品的，文化行政部门和文化市场综合执法机构将依法从严查处。”刘强指出，作为加强网络市场中的事中、事后监管的重点措施，“黑名单”制度将成为今后的常态管理方式。</p>
-<p>据悉，进入“黑名单”的曲目将禁止出现在KTV等点播系统，禁止经营性表演中演出，禁止在互联网上网场所进行下载、复制和传播，禁止以音像制品和电子出版物形式出现。(完)</p>
-<p>被列入黑名单的网络音乐产品(120首)</p>
-<p>1、老师好(阴三儿)</p>
-<p>2、老师你好(阴三儿)</p>
-<p>3、北京晚报(阴三儿)</p>
-<p>4、我又没说你(阴三儿)</p>
-<p>5、没钱没朋友(阴三儿)</p>
-<p>6、天生疯塔儿(阴三儿)</p>
-<p>7、北京混子(阴三儿)</p>
-<p>8、都得死(阴三儿)</p>
-<p>9、凭什么我买单(阴三儿)</p>
-<p>10、Da-la-di-la-da(阴三儿)</p>
-<p>11、我不管(阴三儿)</p>
-<p>12、燃烧吧火焰(阴三儿)</p>
-<p>13、没完没了(阴三儿)</p>
-<p>14、这条大街(阴三儿)</p>
-<p>15、爽歪歪(阴三儿)</p>
-<p>16、魔爪重生(阴三儿)</p>
-<p>17、龙宫宴请(阴三儿)</p>
-<p>18、我TM不愿意(新街口组合)</p>
-<p>19、教父(新街口组合)</p>
-<p>20、我们都不睡觉(新街口组合)</p>
-<p>21、不想上学(新街口组合)</p>
-<p>22、脏蜜震西单(新街口组合)</p>
-<p>23、一夜情(新街口组合)</p>
-<p>24、我要呲大蜜(新街口组合)</p>
-<p>25、自杀日记(新街口组合)</p>
-<p>26、黑暗之中吻了你的嘴(家家)</p>
-<p>27、拉屎歌(小峰峰/二饼)</p>
-<p>28、No性No爱(光光/K-Bo)</p>
-<p>29、这不是一首一夜情的歌(光光)</p>
-<p>30、Mlgb(颜韵)</p>
-<p>31、磕巴脓(颜韵)</p>
-<p>32、背叛(Mc天佑)</p>
-<p>33、你是猴子请来的救兵吗(谣乐队)</p>
-<p>34、我要上学校(谣乐队)</p>
-<p>35、老子(谣乐队)</p>
-<p>36、小区里的高级跑车(谣乐队)</p>
-<p>37、咬春(赵雷)</p>
-<p>38、他们(李志)</p>
-<p>39、败类(网络歌手)</p>
-<p>40、败类(宋威)</p>
-<p>41、咬之歌(不是那么黑)</p>
-<p>42、飞向别人的床(网络歌手)</p>
-<p>43、去你妹的爱情(马旭东)</p>
-<p>44、腐X无限大(洛天依)</p>
-<p>45、小三你好贱(本兮)</p>
-<p>46、大学生自习室(郝雨)</p>
-<p>47、321对不起(徐良)</p>
-<p>48、微微博起(小贱)</p>
-<p>49、无耻(Vnek)</p>
-<p>50、草泥马的爱情(网络歌手)</p>
-<p>51、耽美乱世道(凌橘绿)</p>
-<p>52、绝世小受(漠然)</p>
-<p>53、绝世小攻(苏仨)</p>
-<p>54、绝世小攻之年下诱惑(少年霜)</p>
-<p>55、禁夜(凌音/钟洁)</p>
-<p>56、夜情诱惑(渔圈/刘芸)</p>
-<p>57、纵欲(费尼克斯/邝巧汾)</p>
-<p>58、大陆巡捕抓嫖娼(欧阳正萌/小莹儿/乌拉呆)</p>
-<p>59、少女的初夜(沈雁)</p>
-<p>60、A歌(司小魂/Mc诺)</p>
-<p>61、老公老公你好坏(网络歌手)</p>
-<p>62、我想要做爱(小安)</p>
-<p>63、哇靠(小安)</p>
-<p>64、今晚一夜情(V.Jey/油炸鬼)</p>
-<p>65、性空虚(菜儿/Chyna Apple)</p>
-<p>66、贱女人坏男人(网络歌手)</p>
-<p>67、傻B情侣(Mini黄妍嘉/毛毛)</p>
-<p>68、大连站(葡桃)</p>
-<p>69、一起开房不一定是情侣(易燃)</p>
-<p>70、他妈的社会(喻小米)</p>
-<p>71、女表子(丁字裤先生)</p>
-<p>72、城市夜生活的副作用(黑撒)</p>
-<p>73、去他妈的爱情(支原体)</p>
-<p>74、别用你舔过别人XX的嘴说爱我(Mc和尚)</p>
-<p>75、失足女(Mc和尚/小举)</p>
-<p>76、让你飞向别人他妈的床(猥琐小丑)</p>
-<p>77、你只是一个J女(小右)</p>
-<p>78、三八处女节(小右)</p>
-<p>79、蛋疼的生活(Mc振炮/张子源)</p>
-<p>80、狗男女(张震岳)</p>
-<p>81、TROUBLE(张震岳)</p>
-<p>82、0204(张震岳)</p>
-<p>83、摇头玩(许嵩)</p>
-<p>84、哈狗帮(Mc Hotdog)</p>
-<p>85、X你妈了X(Mc Hotdog)</p>
-<p>86、1030(Mc Hotdog)</p>
-<p>87、补习(Mc Hotdog)</p>
-<p>88、十八岁(Mc Hotdog)</p>
-<p>89、我行我素(Mc Hotdog)</p>
-<p>90、女人不需要性感不是骚(Mc流星)</p>
-<p>91、骚麦(小莫)</p>
-<p>92、2013社会磕(Mc洪磊)</p>
-<p>93、溜冰经典(Mc天佑)</p>
-<p>94、迪厅粗口现场-寰宇网络版(Mc洪磊)</p>
-<p>95、写给妓女的话-东北粗口</p>
-<p>96、超级叫春迷药</p>
-<p>97、秀X你妈个</p>
-<p>98、今晚叼胶(鸠)你(黄秋生)</p>
-<p>99、今晚叼胶(鸠)你(大懒堂)</p>
-<p>100、女人需要男人搞</p>
-<p>101、超强XX歌(沈阳 mm)</p>
-<p>102、泡妞秘笈</p>
-<p>103、叫床声刺激</p>
-<p>104、花花公子(罗百吉、宝贝)</p>
-<p>105、那一夜(罗百吉)</p>
-<p>106、动你的屁股(罗百吉)</p>
-<p>107、你们这群狗(Mc振炮)</p>
-<p>108、你们这群狗(正黄旗组合)</p>
-<p>109、我爱台妹(Mc Hotdog/张震岳)</p>
-<p>110、吹喇叭(罗百吉)</p>
-<p>111、为了兄弟(铁竹堂)</p>
-<p>112、迷你裙(旺福)</p>
-<p>113、屌(黄立成、麻吉)</p>
-<p>114、补补补(哈狗帮)</p>
-<p>115、我的梦中情人(黄立行)</p>
-<p>116、爽(黄立行)</p>
-<p>117、噩梦(麻吉)</p>
-<p>118、打分数(黄立行)</p>
-<p>119、放屁(张震岳)</p>
-<p>120、摩的神曲(葡桃)</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%BD%91-120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E8%A2%AB%E6%96%87%E5%8C%96%E9%83%A8%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ktv/?category=18271" rel="tag">ktv</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8D%E5%8D%95/?category=18271" rel="tag">名单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96/?category=18271" rel="tag">网络文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%90%8D%E5%8D%95/?category=18271" rel="tag">黑名单</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -857,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ktv/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>

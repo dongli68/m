@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%B7%A5%E7%81%BE%E5%AE%B3%E6%88%96%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">端传媒 | 吴强：中国化工灾害或引发政治危机</a>
@@ -133,7 +133,7 @@ _________</p>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E5%B5%A9%E5%B1%B1%E6%B4%BE%E5%88%B0%E5%BA%95%E6%98%AF%E5%BC%80%E6%94%BE%E8%BF%98%E6%98%AF%E4%B8%8D%E5%BC%80%E6%94%BE/" target="cdt-mirror">六神磊磊：嵩山派到底是开放还是不开放</a>
 </h2>
@@ -833,7 +833,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r3bu1vl2semn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1eodappbpsp9v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -843,5 +843,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/></td>    </tr>
 </table>

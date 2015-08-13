@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%A7%86%E9%A2%91%EF%BC%8C%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E4%B8%80%E8%88%AC/" target="cdt-mirror">【河蟹档案】天津爆炸视频，如世界末日一般</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%AD%A3%E7%9B%B4%E7%A7%AF%E6%9E%81%E5%A5%BD%E9%9D%92%E5%B9%B4">正直积极好青年</a>：天津爆炸完整版视频，三次爆炸，世界末日一般…<a href="http://t.cn/RL3M0BW" target="_BLANK">http://t.cn/RL3M0BW</a><img src="https://freeweibo.com/img/extlink.png" alt=""> .<br></p><p><a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%A7%86%E9%A2%91%EF%BC%8C%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E4%B8%80%E8%88%AC/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3875187667507267" target="/weibo/387">2015年08月13日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：女律师从滋事式维权陡升到煽动颠覆国家政权？相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%87_(%E5%BE%8B%E5%B8%AB)">维基百科：王宇 (律师)</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1114.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1114.jpg" alt="111" width="455" height="606"></a><br><a href="https://freeweibo.com/weibo/3873260465147285" target="/weibo/387">2015年08月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E6%B3%BD%E5%BE%8B%E5%B8%88">周泽律师</a>：斯伟江被北京公安限制出境。相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf2-08122015104905.html">自由亚洲｜高月罪涉“煽颠”律师会见受阻 斯伟江携妻儿出境被拦</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11115.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11115.jpg" alt="111" width="403" height="715"></a><br><a href="https://freeweibo.com/weibo/3874760175572928" target="/weibo/387">2015年08月11日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%97%A5%E6%9C%AC%E4%BE%A8%E6%8A%A5%E6%AE%B5%E8%B7%83%E4%B8%AD">日本侨报段跃中</a>：中国计划引渡，美国能完成吗？今天的东京新闻晚报二版。相关阅读｜《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20150809-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%B7%B2%E7%BB%8F%E5%AE%8C%E6%88%90%E4%BB%A4%E8%AE%A1%E5%88%92%E7%9A%84%E8%AE%A1%E5%88%92">法广｜令完成已经完成令计划的计划</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1117.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1117.jpg" alt="111" width="345" height="460"></a><br><a href="https://freeweibo.com/weibo/3872154728671906" target="/weibo/387">2015年08月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%98%91%E5%A4%95">阑夕</a>：BBC的记者因为在书店买了几本习的著作被警察拆包盘问……她在Twitter上吐槽：“难道是因为这些书没有人会购买，所以当我去买就显得很可疑么？”<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1118.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1118.jpg" alt="111" width="369" height="430"></a><br><a href="https://freeweibo.com/weibo/3872123409543702" target="/weibo/387">2015年08月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%92%8B%E5%AD%90%E5%88%9A%E4%B8%8E%E5%8F%91%E6%98%8E">蒋子刚与发明</a>：SPAM 发表了一篇转载博文《[转载]牛逼》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11114.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11114.jpg" alt="111" width="481" height="306"></a><br><a href="https://freeweibo.com/weibo/3874422542788461" target="/weibo/387">2015年08月10日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BB%BF%E7%AA%97%E7%BA%A2%E5%86%B7">绿窗红冷</a>：军人、军后代们的过去，现在和未来！…//*<a href="https://freeweibo.com/weibo/%40%E8%8D%89%E6%B0%91%E8%AF%84">草民评</a>：年轻力壮时是维稳主力，退伍后是被维稳主力<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1116.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1116.jpg" alt="111" width="388" height="690"></a><br><a href="https://freeweibo.com/weibo/3872870511712637" target="/weibo/387">2015年08月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%95%E4%B8%8D%E5%8F%AA%E4%BC%9A%E5%B0%84%E9%9B%95">朕不只会射雕</a>：这将是一场新一轮的抓捕，还是开启依法治国的标志？相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/hc-08112015114008.html">自由亚洲｜余文生控告北京警方虐待及变相酷刑</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1119.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1119.jpg" alt="111" width="485" height="407"></a><br><a href="https://freeweibo.com/weibo/3871550845349727" target="/weibo/387">2015年08月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%82%85%E5%9B%BD%E6%B6%8C">傅国涌</a>：绍兴嵊州市三界教堂正在拆十字架。相关阅读｜《<a href="http://www.rfa.org/mandarin/Xinwen/13-08102015140220.html">自由亚洲｜浙江强拆十字架继续 嵊州三界教堂十字架被强拆</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11113.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11113.jpg" alt="111" width="381" height="508"></a><br><a href="https://freeweibo.com/weibo/3874230871877177" target="/weibo/387">2015年08月10日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B8%A9%E5%BF%831984">温心1984</a>：辣椒同学写的。相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2015/05/150512_china_cartoonist">BBC｜漫画家变态辣椒：虽然困难仍坚持创作</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11110.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11110.jpg" alt="111" width="402" height="780"></a><br><a href="https://freeweibo.com/weibo/3871497489334140" target="/weibo/387">2015年08月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E9%A0%AD%E4%B8%8D%E5%8A%A0V">老頭不加V</a>：文革時期的春宮圖，<a href="https://freeweibo.com/weibo/%40%E6%84%BD%E7%89%A9%E9%A4%A8%E5%85%B8%E8%97%8F">@愽物館典藏</a> 見過沒？相关阅读｜《<a href="http://www.anyanw.com/65464.html">惊世骇俗：你绝对没见过的文革时期的春宫图</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11111.jpg" alt="111" width="600" height="627"></a><br><a href="https://freeweibo.com/weibo/3873781636807805" target="/weibo/387">2015年08月09日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%A5%E5%B0%91%E9%9B%8465">严少雄65</a>：看看青天：网传的省委巡视组。 相关阅读｜《<a href="http://news.dahe.cn/2011/09-13/100846160.html">湖北巡视组贫困县巡视13人20余天花费80万元（2011年）</a>》；《<a href="http://www.baike.com/wiki/%E6%B9%96%E5%8C%97%E5%B7%A1%E8%A7%86%E7%BB%84%E8%B4%AB%E5%9B%B0%E5%8E%BF%E5%B7%A1%E8%A7%86%E8%B4%A6%E5%8D%95%E6%9B%9D%E5%85%89%E4%BA%8B%E4%BB%B6">互动百科｜湖北巡视组贫困县巡视账单曝光事件</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1115.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1115.jpg" alt="111" width="417" height="1146"></a><br><a href="https://freeweibo.com/weibo/3872941651034385" target="/weibo/387">2015年08月06日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%A7%86%E9%A2%91%EF%BC%8C%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E4%B8%80%E8%88%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E8%AE%B0%E8%80%85/?category=18271" rel="tag">BBC记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/carrie-gracie/?category=18271" rel="tag">Carrie Gracie</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%96%87%E7%94%9F/?category=18271" rel="tag">余文生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E5%B0%8F%E4%BC%99/?category=18271" rel="tag">外国小伙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E6%98%A5%E5%AE%AB%E5%9B%BE/?category=18271" rel="tag">文革春宫图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%9B%E9%80%BC/?category=18271" rel="tag">牛逼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%81%E5%A7%94%E5%B7%A1%E8%A7%86%E7%BB%84/?category=18271" rel="tag">省委巡视组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%AD%E5%BD%92%E5%8E%BF/?category=18271" rel="tag">秭归县</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8D%E5%85%B4%E5%B5%8A%E5%B7%9E/?category=18271" rel="tag">绍兴嵊州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA/?category=18271" rel="tag">退伍军人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF9%E6%9C%883%E6%97%A5/" target="cdt-mirror">东网｜吳戈：為什麼是9月3日</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150813000312117-0813_05411_001_01p.jpg" alt="bkncn-20150813000312117-0813_05411_001_01p" width="551" height="393"><br>
@@ -47,6 +70,33 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/" target="cdt-mirror">【立此存照】别让老外帮中国人报道啊！（更正）</a>
+</h2>
+<p><p>【CNN更正说明】：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-12-at-11.07.50-PM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-12-at-11.07.50-PM.png" alt="Screen Shot 2015-08-12 at 11.07.50 PM" width="550" height=""></a></p>
+<blockquote><p><a href="https://twitter.com/CNN/status/631683570810114052">@CNN</a>：Correction: CNN Correspondent interrupted in a live report by upset friends and relatives of victims killed and injured in the China blasts.<br>
+更正：打断CNN记者直播的是爆炸遇难者亲友。</p></blockquote>
+<p>【更新】：</p>
+<blockquote><p>@花总丢了金箍棒：未经许可盗转，十分钟后删。事实就是事实，不管你喜不喜欢。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/8d79b6b1gw1ev0xi3krm9j20gh0m8ac4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/8d79b6b1gw1ev0xi3krm9j20gh0m8ac4.jpg" alt="8d79b6b1gw1ev0xi3krm9j20gh0m8ac4" width="375" height=""></a></p></blockquote>
+<p>________________________________________________</p>
+<p><a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a>发生后的第二天早晨，CNN记者<a href="http://www.cnn.com/profiles/will-ripley">Will Ripley</a>在天津某医院外与电视台进行连线报道过程中，突然有人高喊“别让老外帮中国人报道啊！”。随后有数位男性上前围住Will Ripley和摄像师，其中有人大喊“we’re so sad OK?”（我们很悲伤的好吗？），一番混乱后直播画面成了黑屏。这些上前围攻CNN记者的人中有穿着制服的疑似工作人员，也有一部分是身着便装的人士。</p>
+<p>直播连线被切断后，CNN节目主持人<a href="http://www.cnn.com/profiles/michael-holmes-profile">Michael Holmes</a>无奈地说：</p>
+<blockquote><p>悲哀的是，类似我台驻中国记者就此类事件进行报道时遭到保安人员阻挠的事情并不是第一次发生。就像你们刚才看到的，这类事情多年来已经发生很多次了。</p></blockquote>
+<p>以下为视频截图：</p>
+<p><strong>CNN记者及摄像师遭到围攻：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%811.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%811.png" alt="歪果仁1" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%812.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%812.png" alt="歪果仁2" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%813.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%813.png" alt="歪果仁3" width="550" height="304"></a></p>
+<p><strong>一番混乱后：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%814.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%814.png" alt="歪果仁4" width="550" height=""></a></p>
+<p><strong>直播画面进入黑屏：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%815.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%815.png" alt="歪果仁5" width="550" height=""></a></p>
+<p><em><a href="http://www.cnn.com/videos/world/2015/08/12/china-explosion-hospital-ripley.cnn">原始视频链接</a>：</em><br></p>
+<p><em>截至发稿时尚有效的<a href="http://video.weibo.com/show?fid=1034:0d72273719766e4dc8501f10394b0791">墙内视频链接</a></em></p>
+<p><strong>附：<a href="http://www.ettoday.net/news/20150813/549146.htm#ixzz3ievSkEiO">东森新闻｜CNN記者播報天津爆炸  激動民眾圍攻：不要老外報導！</a></strong></p>
+<blockquote><p>《CNN》記者雷普利（Will Ripley）今晨在天津市某家醫院外，與美國連線直播，報導昨晚發生的大爆炸意外，但在連線進行到近1分40秒時，一名民眾突然嗆聲「不要老外幫中國人報導！」隨後一群人就朝著雷普利一擁而上，要求「stop record！」（停止錄影！）迫使直播中斷。美國棚內的主播只能嚴肅地說，這已經不是第一次記者在中國大陸報導時被民眾阻撓打斷。</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/" target="cdt-mirror">【立此存照】别让老外帮中国人报道啊！</a>
 </h2>
@@ -204,6 +254,63 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81
 <p>目前，该公司以经营危险化学品集装箱拆箱、装箱、中转运输、货物申报、运抵配送及仓储服务等业务为主，共有员工70人，外用工20人。</p>
 <p>据该公司官网显示，该公司仓储业务的商品类别有：第二类：压缩气体和液化气体(氩气、压缩天然气等);第三类：易燃液体(甲乙酮、乙酸乙酯等)；第四类：易 燃固体、自燃物品和遇湿易燃物品(硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物(硝酸钾、硝酸钠等);第六类：毒害品(氰化钠、 甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类(甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
 <p>公司官网显示，其安全文化的方针是：“更科学、更严谨、更规范，对生命负责”。同时，格外强调“安全”，并称：“金钱再好，没有生命美好，时间再紧，没有安全要紧”、“安全不是万能的，没有安全却是万万不能的。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已致44人遇难 （21图）</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg" alt="据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。" width="500" height="281"></a><p>据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p></div>
+<p><strong>更新：</strong>【事故已造成44人死亡 包括12名消防员】截至今日中午12时，此次爆炸事故共造成44人死亡，其中包括12名消防官兵；住院治疗520人，其中重症伤员66人。 —— 新华网 （2015年8月13日13:16分）</p>
+<p>————————</p>
+<p><strong>天津滨海新区开发区瑞海危险品仓库周三（12日）晚11时30分左右，发生剧烈爆炸，爆炸火光冲天，引发的烟尘高达数十米。方圆数公里有强烈震感。 人民日报和央视都报道说，已经有17人死亡。另外，人民日报报道有300多人受伤，而央视则称，受伤人数超过400人。相关企业责任人已被拘捕。</strong></p>
+<p>报道说，灭火过程中发生2次爆炸导致部分现场人员被困，现正在全力搜救被困人员。</p>
+<p>新京报记者现场报道，在爆炸中心，有7-8辆消防车被炸毁。在被炸毁的消防车附近，消防人员正在搬运队友尸体，至少3具被烧焦的尸体被抬走。随后被送往附近泰达医院，直接送进了太平间。</p>
+<p>中国领导人习近平对天津滨海新区危险品仓库爆炸事故作出重要指示，要求尽快控制、消除火情，全力救治伤员，确保人民生命财产安全。</p>
+<p>国务院总理李克强立即作出批示，要求全力组织力量，注意做好科学施救，防止发生次生事故，查明事故原因，及时公开透明向社会发布信息。同时要督促各地强化责任，切实把各项安全生产措施落到实处。</p>
+<p>公安部部长郭声琨已率国务院工作组赴现场指导事故救援和应急处置工作。</p>
+<p>天津港国际物流中心区域内瑞海公司所属危险品仓库发生爆炸，周边建筑受损。在灭火过程中发生2次爆炸，导致部分现场人员被困，正在全力搜救。</p>
+<p>央视报道：爆炸后产生的粉尘没有扩散，对附近居民威胁极小。目前现场所有消防力量正在进入事发地，对火势发起总攻。由于爆炸物为特殊物质，沙土掩埋为最佳灭火方式。经现场侦查，仍存在二次爆炸的可能。</p>
+<p>天津市委代书记、市长黄兴国提出三点要求：全力控制现场防止次生事故；全力救治伤员；尽快查清事故原因做好善后工作。</p>
+<p>天津警方通报称，瑞海国际物流公司危险品仓库集装箱堆场，装有危险品的集装箱起火爆炸，造成轻轨东海路站建筑及周边居民楼受损，津滨轻轨9号线13日停止营运。</p>
+<p>据央视报道，截至目前，爆炸点附近停放的车辆仍在发生爆炸，据估计现场火势还将持续至少2小时。爆炸点两公里内的建筑玻璃全部被震碎，距离事故发生地10公里左右的路段发生了交通拥堵，或将影响早高峰交通出行。</p>
+<p>据新华社现场记者报道指，现场已经戒严，在记者前方约500米处的一个汽车工业园，仍在发生连绵不绝的爆炸，浓烟滚滚。</p>
+<p>天津滨海新区开发区周边瑞海危险品仓库昨俺发生爆炸，邻近多家公司和建筑物毁损严重，其中雷诺汽车仓储停有6000多辆汽车，估有六分之一左右被烧毁，消防员还在持续灭火中。</p>
+<p>在事故现场不到百米施工的水电工人，暂居的简易木板房屋全部倒塌，这批简易木板房有2000多人居住，逃出的工人表示，幸有北疆海事局几层办公楼挡着，缓解爆炸冲击，不然工人伤亡可能会很严重。</p>
+<p>另一建筑工地的一名木工也指，他所在的施工地活动板房距离事故现场有一公里多的距离，七八间活动板房里至少住着300名工人。 事故发生后，活动板房倒塌，正在睡觉的工人全部被埋，所幸伤亡不重。</p>
+<p>据官方中国地震台网报道，天津周三晚的爆炸共有两次，第一次爆炸发生在当地时间23时34分6秒，近震震级ML约2.3级，相当于3吨TNT，第二次爆炸在30秒种后，近震震级ML约2.9级，相当于21吨TNT。</p>
+<p>国家地震台网官方微博综合网民反馈的消息称，天津塘沽、滨海等，以及河北河间、肃宁、晋州、藁城等地均有震感。</p>
+<p>事发的塘沽区出现交通大挤塞，主要道路水洩不通，救护车亦难以将伤者送达医院治疗。京津塘高速公路禁止往塘沽方向行驶。</p>
+<p>现场<a href="http://video.weibo.com/show?fid=1034:82d4e119266cd5063341e63bd9b88c0e" target="_blank">视频</a></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p><strong>救火中发生爆炸</strong></p>
+<p>据中国消防消息，当日22时50分，天津消防总队接到报警称，天津滨海新区港务集团瑞海物流危化品堆垛发生火灾，天津消防总队9个中队和港务局码头3个专职队赶赴现场扑救。当日23时30分左右，现场发生爆炸 。目前，2名消防官兵失联，4名受伤。</p>
+<p>另一位天津市民刚刚对BBC中文网表示，他不久前身在距离爆炸现场只有100米左右的地方，看到爆炸现场仍在起火，而且不时传出零星的爆炸声，但爆炸威力远低于之前的两次爆炸。</p>
+<p>天津港发生大爆炸时，住在天津经济技术开发区市民广场的市民张先生称，爆炸发生在大约晚上11时30分至35分之间，爆炸点出现明亮红光，此后一声巨响，大约3秒后感受到强烈冲击波。10秒钟以后，火光变得更大更亮，又一声巨响后迎来更强大的冲击波，抬头就看到天上腾起了一片白色的蘑菇云。</p>
+<p>从网上流传的照片可见，火光直冒半空，而且出现巨大蘑菇云，附近许多建筑物都受损，有住宅玻璃被震碎、有写字楼天花倒塌、有学校大门玻璃散落一地。</p>
+<p>新华社报道称：发生爆炸的天津滨海新区开发区第12大街到新港四号路部分戒严。</p>
+<p>一名目前身在天津滨海新区市区的当地居民在电话中向BBC中文网记者表示，目前滨海新区市区到处都是疏散的人群，而且不少警察在街上维持秩序，而且还看到一些地区已经戒严。</p>
+<p><strong>“数百人受伤”</strong></p>
+<p>据多位天津当地微博网友称，爆炸发生后，爆炸地点附近多处建筑物受到冲击波致门窗等掉落，另外由于天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p>
+<p>天津港口医院工作人员称，截至目前，已送进300至400名伤员，均在急救室内进行紧急处理。前述工作人员称，爆炸发生后，急救电话被打爆，“急救车抢救和自己来的都有。”</p>
+<p>由于塘沽的泰达医院、天津第五中心医院、泰达心血管医院很快出现伤员“饱和”的状况。急救人员开始往市内医院分流伤者，通过救护车往返接送，将不少伤者分别送至市内的总医院、天津医院、武警医院、第三中心医院、第四医院等多家医院救治。</p>
+<p>该报道称此次事故的伤者中多以骨折、烧伤、擦伤为主。</p>
+<p>天津血液中心说，已经有超过上百人登记献血，中心已经做好了应对急救用血的准备，明天（周四13日）该市各大采血点将准时开放。</p>
+<p>泰达医院很混乱，重伤伤者都在那边。”义务献血的杨先生称，自己看到爆炸后就赶往泰达医院，救护车不断的往医院送人，伤者多是外伤，“有的人被救护车运过来时呈昏迷状态。”</p>
+<p>杨先生称，因为泰达医院离事发现场较近，接受的都是重伤伤员，轻伤伤员都被转移至塘沽医院，很多市民义务开车运送伤员，献血的市民也被统一转至塘沽医院。“登记献血者的册子都填满了。”</p>
+<p>杨先生称，目前塘沽医院排队献血的市民约有四百余人。</p>
+<p><strong>瑞海国际物流有限公司</strong></p>
+<p>据天津东疆保税港区瑞海国际物流有限公司官网介绍，该公司成立于2011年，是天津口岸危险品货物集装箱业务的大型中转、集散中心，是天津海事局指定危险货物监装场站和天津交委港口危险货物作业许可单位。</p>
+<p>目前，该公司以经营危险化学品集装箱拆箱、装箱、中转运输、货物申报、运抵配送及仓储服务等业务为主，共有员工70人，外用工20人。</p>
+<p>据该公司官网显示，该公司仓储业务的商品类别有：第二类：压缩气体和液化气体(氩气、压缩天然气等);第三类：易燃液体(甲乙酮、乙酸乙酯等)；第四类：易 燃固体、自燃物品和遇湿易燃物品(硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物(硝酸钾、硝酸钠等);第六类：毒害品(氰化钠、 甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类(甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
+<p>公司官网显示，其安全文化的方针是：“更科学、更严谨、更规范，对生命负责”。同时，格外强调“安全”，并称：“金钱再好，没有生命美好，时间再紧，没有安全要紧”、“安全不是万能的，没有安全却是万万不能的。”</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9B%B4%E6%92%AD%E5%9B%BE%E9%9B%86%E3%80%91%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E9%83%A8%E5%88%86%E8%B5%84%E8%AE%AF%E6%BA%90%E6%B1%87/" target="_blank">【直播+图集】天津滨海新区爆炸事件部分新闻源汇总</a></p>
+<p>附：更多图片来自中国茉莉花革命网站：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/902.jpg" alt="902" width="640" height="481"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/908b.jpg" alt="908b" width="480" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909pp.jpg" alt="909pp" width="640" height="426"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909ss.jpg" alt="909ss" width="479" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/912.jpg" alt="912" width="480" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/915.jpg" alt="915" width="640" height="480"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917aa.jpg" alt="917aa" width="640" height="426"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917h.jpg" alt="917h" width="594" height="355"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/919.jpg" alt="919" width="640" height="417"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/953.jpg" alt="953" width="515" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/954-381x1024.jpg" alt="954" width="381" height="1024"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/969.jpg" alt="969" width="640" height="384"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/971.jpg" alt="971" width="640" height="384"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/979.jpg" alt="979" width="640" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/990.jpg" alt="990" width="640" height="408"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a15.gif" alt="a15" width="320" height="240"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b1.jpg" alt="b1" width="361" height="640"></p>
 <hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
 <a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/">Permalink</a> |
 <br>
@@ -608,76 +715,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E4%B8%8B%E6%9E%B6/" target="cdt-mirror">阑夕 | 几点看法：关于“120首网络歌曲下架”</a>
-</h2>
-<p><p>1、文化部的反射弧再度令人惊叹，这是继“38部动漫被列黑名单”之后的第二场网络焚书运动，也是一场带领主流80后网民回溯青春的旅程。</p>
-<p>2、上一次，文化部让我们重温了学生年代藏在课桌里的《樱花通信》和用小水管下载《日在校园》BT种子的温馨记忆，这一次，曾经登录百度MP3最热榜单以及被数百版本FLASH演绎的《大学自习室》和第一代网红、同时也是非主流自杀歌手代表C.K沉珂的《飞向别人的床》又被往事重提，听者有意都是岁月催人老的蹉跎感。</p>
-<p>3、文化部是一个位于夹缝之中的政府职能机构，它在广宣阵线中的地位常被低估，级别比不过中宣部，权力不如广电总局，寻租空间小于出版总署，近年以来连网信办都能频繁插手文化部的职能领域，因而文化部只得主动刷脸换取存在感。</p>
-<p>4、用戈培尔的话来说，“宣传只有一个目标，就是征服群众”，比如在他担任主席的德国文化协会，就集中到了决定德国人能看什么样的画作、小说、电影、报纸的权力。德国文化协会在首都柏林开展过数起烧书运动，比如著名的批判现实主义作家亨利希·曼就因“思想颓废、道德败坏”被烧过书，像弗洛伊德这种那就更不用说了，德国文化协会的烧前评语是“灵魂扭曲的性生活”。</p>
-<p>5、在当初关于《进击的巨人》的评论里，我明确表达过一个观点，即“文艺创作没有禁区”，很多人唯独觉得此处值得商榷，他们的确隐约觉得审查权力不应潜移默化的授予公权，却又出于某种“价值观”的惯性理解，认为似乎文艺作品应当有着“好坏优劣”——注意，这里指的不是专业或是学术上的标准——的分别，有些作品就是应当在这个世界上不复存在，而权力正是实现这种心愿的捷径。</p>
-<p>6、可惜权力往往也是不受控制的巨蚺，屠刀不会选择性的落到谁的头上，它的重量一定是整体承担的。曾有微博用户刚为自己极其厌恶的某部作品遭遇钳制而欢欣鼓舞奔走相告，转瞬又会发现封杀大权又对准了自己拥戴热爱的领域，乐极生悲的哭丧画面又反哺出了亲痛仇快的效果，嘲讽不绝于耳：“还真以为自己姓赵了？”</p>
-<p>7、一边慢条斯理的说“封禁是不对的”，一边理性客观的说“但有些作品也确实低俗，封了也好”，这种游走于伪君子和真小人之间的声音最为卑劣。戈培尔对心腹私下评价这类人，是这样说的：“假如我对这帮家伙发问，是否愿意从哥伦布大厦的楼顶上往下跳的话，他们也同样会吼‘愿意’的。”</p>
-<p>8、西方极权国家通常具备一套美学理论，这在历史唯物主义的角度来看，或许还是有着些许留存价值，包括希特勒倍加重视的里芬施塔尔——她被称为“插在纳粹历史上的艺术之花”——和斯大林对帕斯捷尔纳克等诗人的克制与容忍以及现今仍然可见的帝国式建筑风格，都很难全盘否定。但这取决于领袖的质素和视野，换到朝鲜，哪怕金正恩长期留学欧陆、通晓三国语言，李雪主的穿衣打扮也难逃乡土气色。</p>
-<p>9、说到底，外行指挥内行，是比内行指挥内行更为可怕且缺少底线的事情。用女权主义者的话来讲，“地球上就没有比人到中年的官僚更恶心的生物了”，而让他们来传授何为审美的信达雅，简直堪比蒙古海军舰队。</p>
-<p>10、苏轼与佛印禅师论道的民间故事流传已久，心中填满牛粪，自然看什么都是牛粪。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%98%91%E5%A4%95-%E5%87%A0%E7%82%B9%E7%9C%8B%E6%B3%95%EF%BC%9A%E5%85%B3%E4%BA%8E120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2%E4%B8%8B%E6%9E%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2/?category=18271" rel="tag">歌曲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC/?category=18271" rel="tag">草泥马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8F%91%E8%A1%A8%E4%BF%9D%E5%AE%88%E8%A8%80%E8%AE%BA%E8%A2%AB%E8%BD%B0%E3%80%8C%E5%81%B6%E5%83%8F%E5%B4%A9%E5%A1%8C%E3%80%8D/" target="cdt-mirror">端传媒 | 艾未未发表保守言论被轰「偶像崩塌」</a>
-</h2>
-<p><p>「偶像崩塌」、「助纣为虐」、「变节」、「投降」……这些词在过去的几天中，被用来形容重新获得护照才半个月的中国艺术家、异议人士艾未未。一向被视为中国异议光谱中激进象徵的艾未未在抵达德国後突然发表被许多人视为「保守」的言论，震惊甚至激怒了不少中国异议者，中国官方媒体《环球时报》将这总结为「艾未未没骂政府，西方不高兴了」。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/c342757135e14f849f3baefae44dcbb5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/c342757135e14f849f3baefae44dcbb5.jpg" alt="艾未未" width="450" height="300"></a></p>
-<blockquote><p>现在当他们拘留你，他们会有逮捕令。法院会判决这些人，他们按程序办事。如果证据不足时他们就会将你释放，这些策略不再像几年前那样不合法。 —— 艾未未</p></blockquote>
-<p>这场风波缘起於《南德意志报》对艾未未的一次采访。艾未未在采访中指当局对他的限制不断放松，且对归还他的护照几乎没有附加条件，又许诺他出国之後还可以返回中国。「你是自由人」，艾未未引述中国当局的话说。在评论中国大举拘捕维权律师事件时，艾未未表示中国当局现在的策略「不再像几年前那样不合法」了，拘留或判决都会「按程序办事」。他还提出，在批评社会的同时必须基於现状，提供解决方案。「如果我没有解决方案，那我为什麽要去谈论问题呢？」</p>
-<p>「美国之音」将艾未未上述言论引发的激烈反弹形容为中国异议者的「错愕」甚至「受伤」。作为中国异议者中的标志人物，艾未未屡屡在政治敏感事件中高调发声，又以艺术家的方式表达对当局的不满，更因此曾经遭受过拘捕、软禁、监视或被没收护照。</p>
-<p>此次艾未未一反常态发表温和言论後，中国保守官媒《环球时报》及时出声力挺，指异议人士和西方舆论视他为「反体制的旗手」，一直以「自由世界」的各种荣誉「绑架」着他，导致他过去未能「展示内心的矛盾和纠结」。而旅美异议者温云超的回应，大概能概括一部份对艾未未言论倍感失望的异议者的声音，他说：「艾未未的转变，让我更感觉『为反对而反对』是多麽重要。批判是知识分子的品格，甚至是唯一必须要做的事情，而所谓建设，那是执政者的事情。」</p>
-<blockquote><p>我就像一棵树，我在成长。 —— 艾未未</p></blockquote>
-<p>专栏作家赵思乐认为，2014年以来，随着形势愈发严峻，中国异议者中的温和派与激进派更加撕裂，进而使温和派遭到遗弃，而艾未未就是其中一个崩塌的意见领袖。异议者莫之许也对这种派别之争的变化深有感触，认为艾未未此番言论若在2010年说出，「估计是满堂喝彩」。除此之外，也有独立评论博客分析指，在艾未未「转向」之前早已有曾经的异议者「彻底退场」，只不过不及艾未未有名而已。</p>
-<blockquote><p>1572 天 —— 自从2011年4月3日起至2015年7月22日，艾未未护照共被警方扣留1572天。中国现行护照法规定：「中华人民共和国护照是中华人民共和国公民出入国境和在国外证明国籍和身份的证件。任何组织或者个人不得僞造、变造、转让、故意损毁或者非法扣押护照。」</p></blockquote>
-<p><strong>声音</strong></p>
-<blockquote><p>在当局的高压之下，原来的反对者若是选择放弃和退出，我们完全可以尊重他们的个人选择，并祝福他们回归平静安祥的生活。但是，如果他们还要对坚持反对的人踩上一脚，我们就有必要提醒他们：这种反戈一击的做法，是对自己和同仁的双重背叛。 —— 中国维权律师张雪忠</p>
-<p>一个社会运动的强大和成熟，不仅能塑造英雄和符号性人物，而且能够承受英雄的背叛，淘汰符号性人物──如果他变得不合时宜的话。 —— 中国异议人士温克坚</p>
-<p>自由派们，把你们的奶嘴从艾未未胸口拿开，自己走两步好吗？ —— 网友@akid</p>
-<p>他是最中国的中国人。我们深信，比起评论中国的内务外交来说，作爲艺术家艾未未能够在世界上更有作爲。 —— 柏林艺术品商人奥克斯（Alexander Ochs）</p></blockquote>
-<p>来源：<a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%88%91%E5%B0%B1%E5%83%8F%E4%B8%80%E6%A3%B5%E6%A0%91%E6%88%91%E5%9C%A8%E6%88%90%E9%95%BF/a-18628801">德國之聲</a>、<a href="http://www.voachinese.com/content/voa-news-beijing-aiweiwei-20150809/2909199.html">美國之音</a>、<a href="http://gravitysworm.com/post/126228252007/%E5%8F%8D%E6%8A%97%E5%8F%8A%E5%85%B6%E6%A0%87%E7%AD%BE?from=timeline&isappinstalled=0">萬有引力之蟲（微信公眾號）</a>、<a href="http://opinion.huanqiu.com/shanrenping/2015-08/7223164.html">環球時報</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8F%91%E8%A1%A8%E4%BF%9D%E5%AE%88%E8%A8%80%E8%AE%BA%E8%A2%AB%E8%BD%B0%E3%80%8C%E5%81%B6%E5%83%8F%E5%B4%A9%E5%A1%8C%E3%80%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6/?category=18271" rel="tag">作家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%A7%81%E9%A2%86%E8%A2%96/?category=18271" rel="tag">意见领袖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">社会运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E9%9B%84/?category=18271" rel="tag">英雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%87%E8%AE%BF/?category=18271" rel="tag">采访</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%B8%E6%88%8F%E6%89%93%E6%8A%98%E6%83%85%E6%8A%A5%EF%BD%9C20%E5%B9%B4%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E7%94%A8%E6%88%B7%E6%9D%A5%E8%AF%B4%E8%AF%B4%E8%BF%99%E6%AC%A1%E7%9A%84%E7%BD%91%E7%BB%9C/" target="cdt-mirror">游戏打折情报｜20年上海电信用户来说说这次的网络问题</a>
-</h2>
-<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%EF%BC%9A%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%A8%E6%88%B7%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/">【网络民议】上海电信：亲爱的用户我是你爹 </a></p></blockquote>
-<p>这两个月来上海电信访问国外网站的速度很成问题，晚间时段基本没有速度。反正现在也上不了国外网站，闲着也是闲着，作为一个上海电信20年的用户，从用户的角度，让我来八一八上海电信的网络。</p>
-<p>上海电信最早的时候是从固定电话开始的，我记得我家固话的初装费是4000多块钱，还买了一台很牛X的“皓盛”电话，另外每月还要交月租费。记得最开始的时 候月租费好像是30块，而且不包含任何通信费用（现在降到了25元并且含有6元的通话费用）。而如今家里每人两部手机，这个固话就像一个装饰品，基本不响 也很少用，因为年代久远爸妈舍不得退就先留着了。</p>
-<p>到了1998年的样子，我买了台电脑，就开始拨号上网。经历过那个时代的人都知道，那个时候拨号上网有8888、8163等号码，因为8888 vip/vip 最便宜（每小时大概1块多）所以我经常用这个上网。但是用这个号码只能访问上海本地的网站，像是上海热线、PCHOME.net、凯利聊天室等等。我认为这应该就是上海电信的本地网络，另外一种拨号可以上互联网，但价格连电话费大概要4块钱左右一小时。这就是当时的网费差距，上海本地网便宜，互联网（那时 候也称163网）要贵很多，这个道理放到现在也一样，国内网的成本低，国际网的成本较高，不同的是普通宽带并没有对此区别收费，直到出现了“国际精品 网”，那是后话了。所以当时我会去找代理服务器上互联网。由于上网是计时的，所以拨号前会想好要做哪些事，然后上网的同时打开代理猎手扫描没有加密码的代 理。</p>
-<p>再后来有了ADSL上网，2002-2004 年中国电信南北分拆以后，中国电信架设了一个新的网络：ChinaNet Next Carrying Network（CNCN）也称为 CN2。相对原来的 ChinaNet（也就是所谓的163网），这个网络更加先进，支持主干网络的很多功能。如果说原来的上海本地网是小马路的话，ChinaNet 就是4车道大马路，而 CN2 我们将它认为是8车道高速公路。</p>
-<p>CN2 网络建成以后是和 ChinaNet 网络并行使用的，但 CN2 网络的速度更好。CN2 主要面向政企，提供更快的网速和出口带宽，在晚上企业下班以后，CN2 也会被调来分担民用网络（因为设置了 QoS 所以并不会影响政企网）。我是怎么知道的呢，其实还要感谢九（gou）城。记得那时候打魔兽世界的时候，由于代理商第九城市拼命压缩成本，将原本在上海和 四川的服务器都搬到深圳便宜的机房去了，于是上海的延迟暴增。我偶然发现如果 ADSL 拨号的IP是 58 开头的话，延迟会好很多很多，后来才知道 58 开头的IP就是走 CN2 网络的。当时晚上用户上 ADSL 走的可能是 ChinaNet，也有可能是 CN2。后来有段时间上网不爽的时候就不断重拨，直到找到 58 开头的IP地址为止。再后来……再后来再也找不到这个IP了。因为后来中国电信出了“国际精品网”业务，现在不买“国际精品网”，不用“国际氮气瓶”的 话，是不可能拨号到 58 开头的 IP 地址了，因为它已经被当作一项特权卖掉了。</p>
-<p>什么是“国际 精品网”呢？简单来说就是让你上网时候接入 CN2，也就是肯定给你分配一个 58 开头的IP地址。上海电信将原来对家庭用户随机分配的网络，固定成一项业务出售。所以 2014 年的时候很多用户都觉得上网变慢了，大概就是因为普通家庭用户上不了 CN2 了。由于家庭用户没有了 CN2 分流，大家只能都挤到 ChinaNet 上。就好比原来两条路，一条大马路一条高速公路，但是现在高速公路要另外收费了，普通车辆只能都去挤普通马路。所以速度肯定是变慢的。最早购买“国际精品 网”的用户，可能刚开始觉得很快，但后来越来越慢，其实是上海电信带宽超售，导致家庭用户使用 CN2 也“堵车”。政企用户因为有 QoS 设置优先，所以并不会感到有什么影响。现在停售走 CN2 的“国际精品网”并不是电信不想赚钱，是因为 CN2 也快要饱和的缘故。</p>
-<p>终于到正题了，说说今年5月起国外网站访问困难的问题。这篇文章看到这里，相信大家也差不多明白为什么会发生现在这样的情况。由于 CN2 被当作特权出售，所有的用户都只能挤在 ChinaNet 网络上，而今年中国电信宽带用户量增长以后，ChinaNet 的国际出口显然无法满足大量用户的需要，所以存在大量的掉包现象。今天新闻中上海电信经理解释说并不是人为劣化服务的，其实我只同意一半，这场服务事故就 是有人为的因素。没有 CN2 的分流，加上电信用户增加，国外游戏（包括手游），PSN/XBOX Live的服务量，Windows 升级等都需要出口带宽，但是出口带宽却没有增加，这样的结果是必然的。作为专业的服务商，这都是事先可以预料到的情况，上海电信却选择了无视。</p>
-<p>再 来说说“氮气瓶”这个服务，本来我是懒得发这篇文章的，但是在“氮气瓶吧”被一而再、再而三地删帖，心里气愤不过，顺便也来八一八。“氮气瓶”这个服务最 早是给宽带临时提速用的，业务并不是很显眼，但是这个业务的后台很硬。为什么呢？因为它可以通过用户 APP 接入扣费，直接修改后台中用户的带宽。这事不是一般客服能做到的，他们居然用程序完成。直到今天，他们开卖 CN2 的“国际氮气瓶”，原理也很简单，上面说过了。你付3块钱，给你3小时的“58IP”，也就是用3个小时的 CN2 网络。看起来简单，但是后台一点都不简单。这个项目组掌握了电信企业中最重要的带宽资源，可以通过给用户分配宽带谋利，将原本用户可以享受到的 CN2 网络单独划出来收费，看来上海电信非常想念拨号上网时的计费方式呢。他们也可以随意更改用户的网络（见下图），这里留给大家想象的空间……</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a97c223agw1euxxf69120j20e10dawfl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a97c223agw1euxxf69120j20e10dawfl.jpg" alt="a97c223agw1euxxf69120j20e10dawfl" width="475" height="450"></a></p>
-<p>终于说到上海电信要如何解决的问题了。今天新闻中上海电信说的“现在设备已经到了，九月中旬会升级电信网络，现有服务和收费不会改变”（你还想涨价么？）。 我们来看看8月6日的新闻：《中国电信CN2扩容工程集采 华为获最大份额》（http://www.chinadaily.com.cn/hqcj/xfly/2015-08-06 /content_14082056.html）。如果我没猜错的话，此次的网络升级针对 CN2 网络，和我们这些普通的用户有什么关系？ CN2网络一扩容，再开始卖“国际精品网”吗？如果 CN2 的网络出口可以分给普通家庭用户，那么现在为什么不做？你3块钱卖一个 50M 的氮气瓶，拆成 500K 分给 100个家庭用户，每户约有 63k/s 的下载速度，这样的话相信找上海电信麻烦的用户会少掉一大半。</p>
-<p>通过现在的情况来看，9月以后普通家庭用户上网能否有改善、有多少改善仍然是个未知数。实话实说，上海电信的总体服务水平还是可以的，但是从这件事上也看出来，上海电信捞外块的水平也是蛮不错的。由于本人现在手机绑定宽带，一下全换掉不太可能，过一段时间将银行等的验证码绑定到其它的手机上以后考虑换网或多加一个移动/联通网络做双WAN。</p>
-<p>上海电信这次问题，也促使我去查了一下联通和移动的宽带价格。 10M-20M的宽带，移动是58块钱一个月，联通是1400块2年，我正在用的上海电信是1400块一年，各位自己算算差价。如果你仍在合约期，其实是可以解除合约的，因为上海电信违约在先了。根据已经解除合约的网友的说法，解除合约时是按使用天数计费结算的。不过，如果大家都转到联通或者移动网络的话，带宽拥挤的情况会不会重演，这点很难说。因为毕竟这三家都是垄断企业……</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%B8%E6%88%8F%E6%89%93%E6%8A%98%E6%83%85%E6%8A%A5%EF%BD%9C20%E5%B9%B4%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E7%94%A8%E6%88%B7%E6%9D%A5%E8%AF%B4%E8%AF%B4%E8%BF%99%E6%AC%A1%E7%9A%84%E7%BD%91%E7%BB%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1/?category=18271" rel="tag">上海电信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">垄断企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -689,7 +726,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>

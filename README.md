@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%91%98%E4%B8%8D%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%92%AD/" target="cdt-mirror">天津官员不知危险品与居民区规定距离 发布会直播被掐</a>
@@ -488,6 +488,65 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 <p>
 	<small> ============== 1天前</small>
 </p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已致50人遇难 （21图）</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg" alt="据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。" width="500" height="281"></a><p>据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p></div>
+<p><strong>更新：</strong></p>
+<p>【爆炸事故已造成50人死亡 重症伤员71人】滨海新区危险品仓库爆炸事故最新伤亡人数发布：截至今日18时，此次爆炸事故共造成50人死亡；住院治疗701人，其中重症伤员71人。——天津日报</p>
+<p>【事故已造成44人死亡 包括12名消防员】截至今日中午12时，此次爆炸事故共造成44人死亡，其中包括12名消防官兵；住院治疗520人，其中重症伤员66人。 —— 新华网 （2015年8月13日13:16分）</p>
+<p>————————</p>
+<p><strong>天津滨海新区开发区瑞海危险品仓库周三（12日）晚11时30分左右，发生剧烈爆炸，爆炸火光冲天，引发的烟尘高达数十米。方圆数公里有强烈震感。 人民日报和央视都报道说，已经有17人死亡。另外，人民日报报道有300多人受伤，而央视则称，受伤人数超过400人。相关企业责任人已被拘捕。</strong></p>
+<p>报道说，灭火过程中发生2次爆炸导致部分现场人员被困，现正在全力搜救被困人员。</p>
+<p>新京报记者现场报道，在爆炸中心，有7-8辆消防车被炸毁。在被炸毁的消防车附近，消防人员正在搬运队友尸体，至少3具被烧焦的尸体被抬走。随后被送往附近泰达医院，直接送进了太平间。</p>
+<p>中国领导人习近平对天津滨海新区危险品仓库爆炸事故作出重要指示，要求尽快控制、消除火情，全力救治伤员，确保人民生命财产安全。</p>
+<p>国务院总理李克强立即作出批示，要求全力组织力量，注意做好科学施救，防止发生次生事故，查明事故原因，及时公开透明向社会发布信息。同时要督促各地强化责任，切实把各项安全生产措施落到实处。</p>
+<p>公安部部长郭声琨已率国务院工作组赴现场指导事故救援和应急处置工作。</p>
+<p>天津港国际物流中心区域内瑞海公司所属危险品仓库发生爆炸，周边建筑受损。在灭火过程中发生2次爆炸，导致部分现场人员被困，正在全力搜救。</p>
+<p>央视报道：爆炸后产生的粉尘没有扩散，对附近居民威胁极小。目前现场所有消防力量正在进入事发地，对火势发起总攻。由于爆炸物为特殊物质，沙土掩埋为最佳灭火方式。经现场侦查，仍存在二次爆炸的可能。</p>
+<p>天津市委代书记、市长黄兴国提出三点要求：全力控制现场防止次生事故；全力救治伤员；尽快查清事故原因做好善后工作。</p>
+<p>天津警方通报称，瑞海国际物流公司危险品仓库集装箱堆场，装有危险品的集装箱起火爆炸，造成轻轨东海路站建筑及周边居民楼受损，津滨轻轨9号线13日停止营运。</p>
+<p>据央视报道，截至目前，爆炸点附近停放的车辆仍在发生爆炸，据估计现场火势还将持续至少2小时。爆炸点两公里内的建筑玻璃全部被震碎，距离事故发生地10公里左右的路段发生了交通拥堵，或将影响早高峰交通出行。</p>
+<p>据新华社现场记者报道指，现场已经戒严，在记者前方约500米处的一个汽车工业园，仍在发生连绵不绝的爆炸，浓烟滚滚。</p>
+<p>天津滨海新区开发区周边瑞海危险品仓库昨俺发生爆炸，邻近多家公司和建筑物毁损严重，其中雷诺汽车仓储停有6000多辆汽车，估有六分之一左右被烧毁，消防员还在持续灭火中。</p>
+<p>在事故现场不到百米施工的水电工人，暂居的简易木板房屋全部倒塌，这批简易木板房有2000多人居住，逃出的工人表示，幸有北疆海事局几层办公楼挡着，缓解爆炸冲击，不然工人伤亡可能会很严重。</p>
+<p>另一建筑工地的一名木工也指，他所在的施工地活动板房距离事故现场有一公里多的距离，七八间活动板房里至少住着300名工人。 事故发生后，活动板房倒塌，正在睡觉的工人全部被埋，所幸伤亡不重。</p>
+<p>据官方中国地震台网报道，天津周三晚的爆炸共有两次，第一次爆炸发生在当地时间23时34分6秒，近震震级ML约2.3级，相当于3吨TNT，第二次爆炸在30秒种后，近震震级ML约2.9级，相当于21吨TNT。</p>
+<p>国家地震台网官方微博综合网民反馈的消息称，天津塘沽、滨海等，以及河北河间、肃宁、晋州、藁城等地均有震感。</p>
+<p>事发的塘沽区出现交通大挤塞，主要道路水洩不通，救护车亦难以将伤者送达医院治疗。京津塘高速公路禁止往塘沽方向行驶。</p>
+<p>现场<a href="http://video.weibo.com/show?fid=1034:82d4e119266cd5063341e63bd9b88c0e" target="_blank">视频</a></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p><strong>救火中发生爆炸</strong></p>
+<p>据中国消防消息，当日22时50分，天津消防总队接到报警称，天津滨海新区港务集团瑞海物流危化品堆垛发生火灾，天津消防总队9个中队和港务局码头3个专职队赶赴现场扑救。当日23时30分左右，现场发生爆炸 。目前，2名消防官兵失联，4名受伤。</p>
+<p>另一位天津市民刚刚对BBC中文网表示，他不久前身在距离爆炸现场只有100米左右的地方，看到爆炸现场仍在起火，而且不时传出零星的爆炸声，但爆炸威力远低于之前的两次爆炸。</p>
+<p>天津港发生大爆炸时，住在天津经济技术开发区市民广场的市民张先生称，爆炸发生在大约晚上11时30分至35分之间，爆炸点出现明亮红光，此后一声巨响，大约3秒后感受到强烈冲击波。10秒钟以后，火光变得更大更亮，又一声巨响后迎来更强大的冲击波，抬头就看到天上腾起了一片白色的蘑菇云。</p>
+<p>从网上流传的照片可见，火光直冒半空，而且出现巨大蘑菇云，附近许多建筑物都受损，有住宅玻璃被震碎、有写字楼天花倒塌、有学校大门玻璃散落一地。</p>
+<p>新华社报道称：发生爆炸的天津滨海新区开发区第12大街到新港四号路部分戒严。</p>
+<p>一名目前身在天津滨海新区市区的当地居民在电话中向BBC中文网记者表示，目前滨海新区市区到处都是疏散的人群，而且不少警察在街上维持秩序，而且还看到一些地区已经戒严。</p>
+<p><strong>“数百人受伤”</strong></p>
+<p>据多位天津当地微博网友称，爆炸发生后，爆炸地点附近多处建筑物受到冲击波致门窗等掉落，另外由于天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p>
+<p>天津港口医院工作人员称，截至目前，已送进300至400名伤员，均在急救室内进行紧急处理。前述工作人员称，爆炸发生后，急救电话被打爆，“急救车抢救和自己来的都有。”</p>
+<p>由于塘沽的泰达医院、天津第五中心医院、泰达心血管医院很快出现伤员“饱和”的状况。急救人员开始往市内医院分流伤者，通过救护车往返接送，将不少伤者分别送至市内的总医院、天津医院、武警医院、第三中心医院、第四医院等多家医院救治。</p>
+<p>该报道称此次事故的伤者中多以骨折、烧伤、擦伤为主。</p>
+<p>天津血液中心说，已经有超过上百人登记献血，中心已经做好了应对急救用血的准备，明天（周四13日）该市各大采血点将准时开放。</p>
+<p>泰达医院很混乱，重伤伤者都在那边。”义务献血的杨先生称，自己看到爆炸后就赶往泰达医院，救护车不断的往医院送人，伤者多是外伤，“有的人被救护车运过来时呈昏迷状态。”</p>
+<p>杨先生称，因为泰达医院离事发现场较近，接受的都是重伤伤员，轻伤伤员都被转移至塘沽医院，很多市民义务开车运送伤员，献血的市民也被统一转至塘沽医院。“登记献血者的册子都填满了。”</p>
+<p>杨先生称，目前塘沽医院排队献血的市民约有四百余人。</p>
+<p><strong>瑞海国际物流有限公司</strong></p>
+<p>据天津东疆保税港区瑞海国际物流有限公司官网介绍，该公司成立于2011年，是天津口岸危险品货物集装箱业务的大型中转、集散中心，是天津海事局指定危险货物监装场站和天津交委港口危险货物作业许可单位。</p>
+<p>目前，该公司以经营危险化学品集装箱拆箱、装箱、中转运输、货物申报、运抵配送及仓储服务等业务为主，共有员工70人，外用工20人。</p>
+<p>据该公司官网显示，该公司仓储业务的商品类别有：第二类：压缩气体和液化气体(氩气、压缩天然气等);第三类：易燃液体(甲乙酮、乙酸乙酯等)；第四类：易 燃固体、自燃物品和遇湿易燃物品(硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物(硝酸钾、硝酸钠等);第六类：毒害品(氰化钠、 甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类(甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
+<p>公司官网显示，其安全文化的方针是：“更科学、更严谨、更规范，对生命负责”。同时，格外强调“安全”，并称：“金钱再好，没有生命美好，时间再紧，没有安全要紧”、“安全不是万能的，没有安全却是万万不能的。”</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9B%B4%E6%92%AD%E5%9B%BE%E9%9B%86%E3%80%91%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E9%83%A8%E5%88%86%E8%B5%84%E8%AE%AF%E6%BA%90%E6%B1%87/" target="_blank">【直播+图集】天津滨海新区爆炸事件部分新闻源汇总</a></p>
+<p>附：更多图片来自中国茉莉花革命网站：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/902.jpg" alt="902" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/908b.jpg" alt="908b" width="400" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909pp.jpg" alt="909pp" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909ss.jpg" alt="909ss" width="400" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/912.jpg" alt="912" width="400" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/915.jpg" alt="915" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917aa.jpg" alt="917aa" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917h.jpg" alt="917h" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/919.jpg" alt="919" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/953.jpg" alt="953" width="515" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/954-381x1024.jpg" alt="954" width="500" height="1342"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/969.jpg" alt="969" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/971.jpg" alt="971" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/979.jpg" alt="979" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/990.jpg" alt="990" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a15.gif" alt="a15" width="320" height="240"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b1.jpg" alt="b1" width="361" height="640"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已17死逾400伤 （21图）</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg" alt="据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。" width="500" height="281"></a><p>据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p></div>
@@ -798,19 +857,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%96%87%E5%8C%96%E9%83%A8%E6%8B%89%E9%BB%91120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2/" target="cdt-mirror">【真理部】文化部拉黑120首网络歌曲</a>
-</h2>
-<p><p>“文化部拉黑120首网络歌曲”  一事，各网站禁止恶意炒作。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%96%87%E5%8C%96%E9%83%A8%E6%8B%89%E9%BB%91120%E9%A6%96%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -822,7 +868,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -832,5 +878,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

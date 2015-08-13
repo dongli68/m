@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%B7%A5%E7%81%BE%E5%AE%B3%E6%88%96%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">端传媒 | 吴强：中国化工灾害或引发政治危机</a>
@@ -276,6 +276,63 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5
 <a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%A7%86%E9%A2%91%EF%BC%8C%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E4%B8%80%E8%88%AC/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E8%AE%B0%E8%80%85/?category=18271" rel="tag">BBC记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/carrie-gracie/?category=18271" rel="tag">Carrie Gracie</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%96%87%E7%94%9F/?category=18271" rel="tag">余文生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E5%B0%8F%E4%BC%99/?category=18271" rel="tag">外国小伙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E6%98%A5%E5%AE%AB%E5%9B%BE/?category=18271" rel="tag">文革春宫图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%9B%E9%80%BC/?category=18271" rel="tag">牛逼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%81%E5%A7%94%E5%B7%A1%E8%A7%86%E7%BB%84/?category=18271" rel="tag">省委巡视组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%AD%E5%BD%92%E5%8E%BF/?category=18271" rel="tag">秭归县</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8D%E5%85%B4%E5%B5%8A%E5%B7%9E/?category=18271" rel="tag">绍兴嵊州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA/?category=18271" rel="tag">退伍军人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E5%85%A8%E4%B8%96%E7%95%8C%E5%9C%A8%E7%9C%8B%E5%A4%A9%E6%B4%A5-%E5%A4%A9%E6%B4%A5%E5%9C%A8%E7%9C%8B%E5%8A%A8%E7%94%BB%E7%89%87/" target="cdt-mirror">王枪枪 | 全世界在看天津 天津在看动画片</a>
+</h2>
+<p><p>早起打开电视，天津卫视正播着动画片《戚继光》，戚继光指挥军队运送“神火飞鸦”，这是一种原始的火箭弹——震天雷炮，或许只有这一点，能和天津滨海昨晚发生的大爆炸关联起来，在很多媒体人看来，天津是一个没有爆炸性新闻的城市，虽然这个城市刚刚发生过大爆炸，但它的电视台却在恬静地放着动画片。</p>
+<p>发生重大灾难后，第一时间要做的事情是什么？当然是祈福！昨晚，何炅、黄晓明、李晨、范冰冰、王珞丹、佟丽娅、袁弘、韩红等明星纷纷在微博为天津祈福，微信朋友圈也都是祈福的蜡烛和合掌。汶川地震、马航MH370失踪时，何炅、黄晓明、李晨、范冰冰、韩红等也祈福过，看来明星们的祈福功力不够强大，还需要再加深学习一下。相比之下，章子怡老师和她的夫君早已脱离了祈福派，成为了问责派，问责政府，只是这政府是马来西亚政府。马航客机失踪时，章子怡老师怒斥马来西亚政府伤害了整个世界，“我们在找飞机，你们在找时机。马来西亚政府，今天你错了。你错判了作为一国政府应有的担当，错判了政治手腕对于生命应有的敬畏，错判了包括所有中国人在内的世界公民对于真信追求的执着。”，中国好声音的汪峰老师也不甘示弱：“是什么让他们如此肆无忌惮的撒谎与视而不见？是不是软弱可以换回逝去生命与高贵的尊严？看着那些死难家属绝望与愤怒的表情，谁该为此而深彻羞愧！”，多么希望他们的这些话是说在此时此刻，是问此地政府，不过，没关系。</p>
+<p>不要再说“天津加油”这种话了，火上浇油不好。合掌和祈福没事，但是千万别说“记者到前线报道是添乱”这种蠢话，你们愚蠢的样子是最大的添乱。《新京报》这次挺拼的，连出《五问天津爆炸：被化工和恐慌围困的城市》、《八问天津滨海大爆炸：为何有救援人员失联受伤？》，这就是新媒体的好处，不过相关部门的管理措施应该会很快出台，“灭火”这件事情他们很擅长。在采访现场，新京报记者林野被7名警察要求删除照片，还威胁“不删照片把你铐走”，此外，“新京报记者致电天津市委宣传部询问爆炸情况，工作人员却答复“你们不要问”，随后挂断电话。记者再打，再无人接听。”。傲慢而冷酷地执法者。</p>
+<p>灾难发生后，总有不法之徒试图捞取钱财，一切向你索要钱财之类的请慎重考虑，我不是说天津市红十字会。一点也不意外，我在朋友圈看到了《为天津人点赞！爆炸事件中最令人动容的瞬间》，它来得晚了些，但还是来了，接下来会有《感谢你无数次冲进那片悲伤的火海》吗？消防员首先要有的是专业精神，而不是自我牺牲精神，事故现场的状况应该先摸清楚，否则只会白白搭上更多的生命，跟让人热泪盈眶地自我牺牲相比，我们更希望你能活下来。据《新京报》报道（记者李相蓉林野 杨锋 王大鹏)“天津消防总队消息称，开发区支队、保税区支队有36名官兵失联，33名受伤的官兵在医院救治，2名战士牺牲。”。谁是那名愚蠢地指挥官？</p>
+<p>“腾讯·大燕网天津”的微信公号说<strong>“在塘沽发生爆炸事件后，天津人的朋友圈，微博，各大门户网站等新媒体各方联动；群众，医生，消防官兵等社会各界共同守护，只为了一个目的：抢救生命”</strong>，这么多灾难过后，我们依然只擅长“抢救生命”，而不擅长如何去预防灾难的发生。<strong>“患难见真情！天津人不只会贫，天津人，更有大爱！这一次，让我们为自己点赞！”，</strong>你们家什么时候患难，让我去见一次真情，去给你点上三十二个赞。还有个微信公号更是赤裸了<strong>“无眠天津,无眠中国！为天津祈福，为天津人民祈福！大家一起转.发.出去，让更多的人一起为天津祈福，愿菩萨保佑，愿一切安好。”</strong>，我以前说过，有信仰的人可以为天灾祈福，哪怕没信仰也可以假装祈福增强参与感，但是为人祸祈福，那就是纵容罪恶，为虎作伥。天津的《每日新报》以《天津滨海新区一危险品仓库发生爆炸，这个无眠夜，我们在现场见证温暖与坚强》为题发了一篇微信公号，我想问下，温暖在哪？冰冷的尸体身上？坚强在哪？家属痛哭的脸上？灾难太多，很多人的确麻木了，对痛苦麻木，但对抒情不麻木，灾难中的抒情越来越让人反胃。</p>
+<p>以前悲剧发生，大家都要抒情一番，写诗的，写文章的，点蜡烛的，各类祈福的，谁要是说半句煞风景的，立马被围殴说没人性没良心，你要是问句责任在哪问题在哪，他们都会觉得你冷酷无聊甚至说你愤青总把责任怪在政府身上，现在不同了，越来越多的人开始问为什么会发生？问题出在哪？责任在谁？如何避免再次发生？不是人群越来越进步了，而是危险越来越临近了，以前大家觉得灾难离自己很远，现在却经常发生在身边，还是那句老话，互害社会谁都没有豁免权，躲在一边当政治小清新的日子一去不复返了。</p>
+<p>关于爆炸，它们其实没有那么遥远，爆炸的速度已经超越了我们遗忘的速度，它用越来越快的频次、越来越重的响声唤醒着我们：</p>
+<p>2015年4月6日，福建漳州PX石化发生爆炸；</p>
+<p>2015年4月21日，江苏南京化工厂发生爆炸；</p>
+<p>2015年5月25日，江西赣州泰普化工厂发生爆炸；</p>
+<p>2015年7月16日，山东日照石大科技石化公司发生爆炸；</p>
+<p>2015年8月12日，天津塘沽滨海开发区发生爆炸。</p>
+<p>《生活大爆炸》是喜剧，在我们这是悲剧，《生活大爆炸》是电视剧，在我们这是现实，是不是觉得这篇文章给万众一心的救援添乱了？是不是给温暖和谐的祈福泼冷水了？如果你真这么想，那么请让我为你点燃一根祈福的蜡烛，祝你永远平安。</p>
+<p>除了捐款、献血、祈福、歌颂、感动，我们还可以做点其它的。</p>
+<p><strong>新华网发了篇文章，挺实用，也挺自黑：</strong></p>
+<p>面对突发爆炸事故，我们并非完全束手无策，有许多应急措施可以帮助我们减少伤害。美国联邦应急管理署（FEMA）的应急指南，希望大家永远都用不上这份指南。</p>
+<p><strong>当不明爆炸发生、可能伴随化学泄漏时：</strong></p>
+<p>如果可能，尽快判断爆炸和可能化学泄漏发生的地点。</p>
+<p>立刻远离爆炸/泄漏区！</p>
+<p>如果你身边有东西掉落，钻到结实的餐桌或书桌底下。停止掉落时，迅速离开，要当心明显不稳的地板和楼梯。 从大楼撤出时，要格外小心掉落的杂物。</p>
+<p>不要站在窗户、玻璃门前或其它有潜在危害的区域。</p>
+<p>让出人行道或街道供急救人员或其它尚未撤离的人使用。</p>
+<p><strong>如果爆炸/泄漏发生在你所在的建筑，你应该：</strong></p>
+<p>尽快离开，但躲开沾染区。</p>
+<p>如果有烟雾，低下身来。不要停下来回去取个人物品或打电话。</p>
+<p>切勿使用电梯。</p>
+<p>如果无法离开建筑，或者无法穿过爆炸区域，那么寻找尽可能远离爆炸区的地方，然后就地采取防护措施（见文末）。</p>
+<p><strong>如果爆炸发生时你在室外，你应该：</strong></p>
+<p>计算一下怎样最快能找到新鲜空气。判断一下你应该尽快逃离还是进入最近的建筑就地防护。</p>
+<p>如果选择逃离，判断风向，立刻向爆炸点上风方向移动。</p>
+<p><strong>如果你被困在废墟里，你应该：</strong></p>
+<p>如果可能，用手电筒给救援人员打信号告知你所在位置。</p>
+<p>敲击管道或墙壁以便救援人员能找到你所在的位置。</p>
+<p>如果可能，吹口哨给救援人员打信号。</p>
+<p>不到万不得已不要大喊。喊叫时会让你吸入危险量的灰尘。</p>
+<p>避免不必要的挪动，这样你不会搅起尘土。</p>
+<p>用任何手边的东西捂住口鼻。（密织棉料用来过滤很不错。 尽量通过这种材料呼吸。）</p>
+<p><strong>如果你得到通知要留在家中，或者因其他原因决定就地防护：</strong></p>
+<p>用好所有已知信息和你的常识，判断何时需要逃离，何时应当采取就地防护措施。</p>
+<p>如果家人和宠物在身边，确保他们一起进屋。</p>
+<p>锁门，关窗，关上通风口和壁炉。</p>
+<p>关闭风扇和空调。</p>
+<p>藏身在内侧的屋子里，窗户尽可能少。</p>
+<p>带上你的应急储备物资。</p>
+<p>用2-4毫米厚的塑料纸和胶条封死所有门、窗户和通风口。可以事先将塑料纸裁好以节约时间。</p>
+<p>用胶条时，先贴住角落，再封死边缘。</p>
+<p><strong>当地政府可能无法立即提供应急应对信息。但你依然应该关注电视、收音机和互联网，随时了解情况。</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%8B%E6%9E%AA%E6%9E%AA-%E5%85%A8%E4%B8%96%E7%95%8C%E5%9C%A8%E7%9C%8B%E5%A4%A9%E6%B4%A5-%E5%A4%A9%E6%B4%A5%E5%9C%A8%E7%9C%8B%E5%8A%A8%E7%94%BB%E7%89%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E7%A5%B8/?category=18271" rel="tag">人祸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -765,42 +822,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/x%E5%8D%9A%E5%A3%AB-%E5%AD%A6%E4%B9%A0%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E5%90%8D%E5%8D%95%E4%B9%8B%E5%90%8E%E7%9A%84%E5%B0%8F%E5%BF%83%E5%BE%97/" target="cdt-mirror">X博士 | 学习文化部禁歌名单之后的小心得</a>
-</h2>
-<p><p>十诫（希伯来语：עשרתהדיברות‎）。根据《圣经》记载，是上帝借由希伯来先知摩西向希伯来人颁布的律法中的首要的十条规定，这大概是公元前1500年的事情。十诫是希伯来人的生活和信仰的准则，也是最初的法律条文，在希伯来人心中具有神圣的指导地位。</p>
-<p>希伯来人的事儿，咱们先搁一边儿，以后聊神秘学和历史的时候再说。但是，相比几千年才听过一次十诫的希伯来人，我们中华人民共和国的人民是有福的。文化部总是猝不及防的、突如其来的、抽冷子的从高处给广大人民群众传达循循善诱的旨意：</p>
-<p><strong>近期，文化部部署开展了对内容违规的网络音乐产品的集中排查工作，共排查出120首内容存在严重问题的网络音乐产品。这些网络音乐产品含有宣扬淫秽、暴力、教唆犯罪或者危害社会公德的内容，违反了《互联网文化管理暂行规定》第十六条的规定，文化部依法将这120首歌在网络上封杀。</strong></p>
-<p>看了这份歌单我陷入了沉思，有了许多学习心得体会，正像文革中有句谚语所说：“三天不学习，赶不上刘少奇”，我掏出了小本儿总结出了许多心的体会。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97.jpg" alt="学习心得" width="550" height="415"></a><p>赶紧掏出小本儿学习，这小本儿是牛头梗教授去日本扫货时买的。</p></div>
-<p> </p>
-<p><strong>心得如下：</strong></p>
-<p>第一。我对组织里的研究能力表示佩服。列出这120首可不容易，有老有新，港台内地，地上地下，摇滚饶舌，网络金曲。我平常总自诩听歌多，一看傻眼了，其中得一半人没听过，像“沈阳 mm”、“小贱”这样藏在地洞之中的音乐人，组织也是一清二楚的。像「秀你妈个X」、「傻B情侣」、「我想要做爱」、「老公老公你好坏」这样的极端粗俗的音乐，组织也是了如指掌的。</p>
-<p>看来组织里真是有很多艺术鉴赏老炮儿，就算你是只在东北八线县城野鸡夜总会里对着俩仨观众唱粗口的，组织里也总能通过各种口径将其从阴暗的下水道里挖出来。组织通过这次小试牛刀，基本就把音乐圈的牛鬼蛇神全部震慑，就算你是爆粗口的草履虫，组织也能把它挖出来，将其暴露在红日之下，让人民群众唾弃。</p>
-<p>第二。从时间跨度上，该榜单中出现的一些歌曲虽然已经存在了十几年，也依然被组织严肃处理，以免流毒后世。比如13年前的一首民间流传的网络歌曲《大学生自习室》也赫然在列，这充分说明了组织的眼睛是雪亮的，你以为你仗着年头长就能混过组织的火眼金睛么。再比如，台湾二流子歌手罗百吉的低俗名曲《吹喇叭》也偷摸在网络上混了十年，刺激了不少处在青春发育期的少男。组织的这次穿越时光的定点爆破，让群众一边感慨时间都去了哪，一边拍手称快。</p>
-<p>第三。从空间跨度上，该榜单将依附在网络各个阴暗小角落的音乐都一网打尽，颇为无远弗届。这次的名单已经清楚的表明，组织的目标是给整个华语圈文化洗洗澡，治治病。不管你是猫在北京西城的胡同串子，还是在东北迪厅带着镀铜链子莫名摇摆的社会混子；不管你是像哈狗帮、张震岳、罗百吉这样故意拉长音儿、大舌头的台客；也不管你是黄秋生这样的成名港星。一切都在组织的掌控之中，该批判批判，该封杀封杀，绝不含糊，别以为拿着港台通行证组织就不一视同仁，堪称文化界的猎狐行动。</p>
-<p>第四。从名单中，我们可以清晰的发现，华语地下说唱占了榜单的主要位置，尤其是阴三儿乐队，拢共也就出了二十首歌，在这次排查中被查封了17首，可见阴三儿乐队成军十多年基本没着过调。由此可见，华语说唱界真是处在一个危险的边缘，再不紧紧抓住社会各界伸出来的手，洗心革面，那就危险啦。</p>
-<p>所以，我建议中国的说唱界应该成立类似文联的管理组织，设立代表会议，定期学习社会主义核心价值观；多多进行批评与自我批评；要有为社会主义文化市场的繁荣添砖加瓦的决心；要重视继承传统，传艺、传神、传德，鼓励创新创造，出名家、出精品、出流派，努力展现说唱艺术时代新风貌；说唱艺术作品不能流于文字表面，要深入学习贯彻中央重要讲话精神特别是在文艺工作座谈会上的讲话精神，坚守文化立场，坚定文化自信，树立以人民为中心的工作导向，以核心价值观为引领，推出更多艺术精湛、群众喜爱的说唱歌曲精品；不要动不动就爆粗口，发牢骚，总想搞一个大新闻！</p>
-<p>此外，当阴三儿遭到文化部通告之后，给了一些好起哄的群众瞎胡闹的机会。</p>
-<p><strong>比如一位群众说：这尼玛哪叫禁？简直就是颁奖。就差给in3发个奖杯了，底座上还得印俩烫金的大字“牛逼”</strong></p>
-<p><strong>另一位群众说：百余歌曲金榜题名 阴三儿或成最大赢家</strong></p>
-<p>对此，我想特别和阴三儿和群众说：不要盲目起哄，要虚心接受组织的意见。而且说唱也不一定非的东西海岸、gangsta、战死街头范儿嘛。没看美国、俄国还有基督教说唱么，咱就不能好好琢磨琢磨，拿出精力搞个社会主义说唱么？我向组织斗胆提议，给阴三儿一个为社会主义文化添砖加瓦机会，让他们翻唱《好日子》、《走进新时代》、《祝福祖国》、《幸福万年长》、《红星照我去战斗》、《咱们好百姓》等雅俗共赏的好歌！为人民立新功！</p>
-<p>第五。在地下说唱遭到连续重拳清理的同时，榜单上还出现了少量民谣歌曲，如李志的《他们》。李志在歌中唱道：</p>
-<blockquote><p>铁路向西走，长江不能流，到底谁才是走狗<br>
-天亮漱漱口，天黑动动手，劳动为了给税收<br>
-他们指向左，他们指向右，他们一直有洋楼<br>
-我们不能叫，我们不能交，我们的生活带套套</p></blockquote>
-<p>歌词充满了阴阳怪气，满腹牢骚。李志同志，你危险啦！我告诉你李志，你不要觉得你在南京上过一个985学校，勉强在民谣界算个野生知识分子就志得意满，摇头晃脑，满口牢骚。在从前，高岗同志对于知识分子有个一针见血的评价就是：“小知识分子就像个鸡八，动不动就硬一下”。虽然嘛，高岗同志倒了，反党反人民了，但是他的这句话还是有警示作用的嘛，要辩证地看，李志同志你要反复学习精神啊！不要刚比什么麻油叶、牛油果乐队强个三星半点就刚愎自用，盲目跑偏！</p>
-<p>此外，这次没有上榜的一些音乐人，也不要幸灾乐祸，尾巴翘到天上去。比如左小诅咒啊、二手玫瑰啊、新裤子啊、cmcb、某位爱说“屌”的周姓歌星啊，等等等，都得通过这次事件好好审视、总结一下自己在音乐创作路上的历程和问题。比如左小诅咒的《皮条客》，首先名字就很粗俗，里面的歌词“举起来，再放下去，放下去再举起来”，你以为组织看不出里面的讽刺么；还有二手玫瑰的《仙儿》、《黄诗》、《舞曲》都很低级趣味，也不要以为组织没听过；cmcb的《假瓷器》更不用说了；新裤子的《著名导演》里问题也很多，什么叫“我要做一个著名导演，我要和女演员睡觉”啊，粗俗，极端粗俗。</p>
-<p>总之各路乐队要加强学习，做到有则改之，无则加勉。在坚持百花齐放、推陈出新的同时，也要统筹兼顾好艺术创作的文化底蕴和大方向正确性，坚守住社会主义价值观的底线。音乐人们要常在夜深人静时问自己三个问题：为什么创作？为谁创作？怎么创作？</p>
-<p>简而言之，在学习了文化部列出的禁歌名单之后，我提高了思想觉悟，头脑上紧了发条，一股暖流在胸腔和小腹中激荡，总之很荡漾。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/x%E5%8D%9A%E5%A3%AB-%E5%AD%A6%E4%B9%A0%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C%E5%90%8D%E5%8D%95%E4%B9%8B%E5%90%8E%E7%9A%84%E5%B0%8F%E5%BF%83%E5%BE%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">文化部禁歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%9B%B2120%E9%A6%96/?category=18271" rel="tag">禁曲120首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%AD%8C/?category=18271" rel="tag">禁歌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -812,7 +833,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jef2bkp16tj6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -822,5 +843,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>

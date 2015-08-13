@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%91%98%E4%B8%8D%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%92%AD/" target="cdt-mirror">天津官员不知危险品与居民区规定距离 发布会直播被掐</a>
+</h2>
+<p><p>北京时间2015年8月13日下午4点30分，爆炸事故首场新闻发布会在滨海新区美华大酒店召开。发布会由天津市人民政府新闻办举办。</p>
+<p>参与领导包括：<strong>市公安消防局局长周天，滨海新区区委副书记、区长张勇，市卫计委副主任王建存，市环保局局长温武瑞</strong></p>
+<blockquote><p><strong><a href="http://weibo.com/5618373408/CvE8EodDQ">@不变的糕哥</a></strong>：刚才天津政府的新闻发布会，一个记者问：危险品仓库按照规定应该离居民区多远，一圈官员面面相觑，无言以对，央视干脆直接掐断了现场直播。</p>
+<p><strong><a href="http://weibo.com/1135021013/CvE8Rnftw">@ecle</a></strong>：刚刚央视直播天津爆炸新闻发布会，有记者大声询问：“请问按环保部规定，危险品仓库与居民住宅的最小距离应是多远？”无人回答，电视信号立即切回了演播室。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-13-at-4.02.22-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-13-at-4.02.22-AM.png" alt="Screen Shot 2015-08-13 at 4.02.22 AM" width="500" height=""></a><br>
+（<a href="http://video.sina.com.cn/p/news/c/v/2015-08-13/171265053909.html">视频地址</a>）</p>
+<p>具体提问内容如下：</p>
+<p><strong>记者问：</strong></p>
+<blockquote><p>“根据咱们的规定，危险品应该距离居民有多远？”</p></blockquote>
+<p><strong>台上一片沉默</strong>，记者又将问题重新提了一遍：</p>
+<blockquote><p>“就根据环保的规定，污染物距离居民区应该有多远？”</p></blockquote>
+<p>台上<strong>依旧一片沉默</strong>，随后画面被掐。<br>
+_________</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>王亚军北京: 对，掐了就没事了。</p>
+<p>随口一说：我看的天津台，也切了，央视切的更干净</p>
+<p>little_sunny_：天津卫视直接播放歌曲了，崩溃了</p>
+<p>愤怒了的葡萄：之后换成了欢乐的我家住在松花江上。</p>
+<p>Quiet-roair：我也看了，我们要的的是事故进展和原因，不是他妈安全讲座</p>
+<p>弯腰拾节操_：我也很好奇这事 知道是危险品为什么不做好防护措施让事态如此严重</p>
+<p>Qnannan：我比较关心这个记者的安全问题啊</p>
+<p>爱爆炸的图图：我也看到了，环保局局长</p>
+<p>骚浪巨博：天津市环保局局长温武瑞，林学专业出身，记者会中说了无数遍【甲bǔn】，读完稿子后几次想溜被记者发问拦住。你不觉得他不知道危险品和居民区距离要多远太正常了吗？</p>
+<p>刘机智sod蜜：太气人了！环保局局长听到这个问题之后沉默了几秒钟之后就走了！！</p>
+<p>丶我就是徐抠抠：距离是多少？是政府和民众之间的距离。你答不上来，我也就一次次心寒，然后不想问了。</p>
+<p>西门吹疯了：看了，很尴尬，愧对失去生命的消防员和老百姓</p>
+<p>依然钟小周：现在这些化工产业不都这样，直接在码头圈地，原来的民众拆迁统一安置，隔条街全是居民区。那些气罐阿烟囱阿集装箱啊，哪个从路上经过时看不到。</p>
+<p>森女昙花一现2：估计环保局局长和规划局局长都不知道</p>
+<p>泪痣不是眼屎：天津市不只是危险品 还有天然气罐 巨型 也在居民区</p>
+<p>老头吉祥：当我看到区长说伤者和伤者家属情绪稳定后，我便放心的把电视关了，我还是相信政府的。</p>
+<p>彦庆LI又开始了：这不是新闻发布会，这是安全讲座，谢谢</p>
+<p>中天派：@作家崔成浩 崔，服不服，关键时刻拔线</p>
+<p>短发姑凉你好：粉饰太平！感动中国！！我呸，算什么国民电视台！！</p>
+<p>无痕轩: 大灾之年无答疑</p>
+<p>Blue-less：环保局那个大概是秘书临时赶的稿子，那个人念了半天甲烷什么的念都念不清楚，下次记得让秘书给你标拼音，免得露出你的小学文化</p>
+<p>赤勒汪穆：场务场务，怎么搞的？说好了要背熟台本，怎么一开机就跑偏不按套路出牌？</p>
+<p>木林森森绿：灾难发生后每次都是重要指示，为什么不在灾难发生前作重要指示，避免这些可怕的事情发生，不作为，不作为，呵呵</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%91%98%E4%B8%8D%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%92%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E5%B5%A9%E5%B1%B1%E6%B4%BE%E5%88%B0%E5%BA%95%E6%98%AF%E5%BC%80%E6%94%BE%E8%BF%98%E6%98%AF%E4%B8%8D%E5%BC%80%E6%94%BE/" target="cdt-mirror">六神磊磊：嵩山派到底是开放还是不开放</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6403.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6403.jpg" alt="640" width="575" height=""></a></p>
@@ -332,7 +379,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81/?category=18271" rel="tag">主流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E5%AA%92%E4%BD%93/?category=18271" rel="tag">传统媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8%E9%97%A8/?category=18271" rel="tag">宣传部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E5%AF%BC%E8%88%86%E8%AE%BA/?category=18271" rel="tag">引导舆论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%9A%E7%9F%A5/?category=18271" rel="tag">通知</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">通稿</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已17死逾400伤</a>
 </h2>
@@ -764,29 +811,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E6%8D%8D%E5%8D%AB%E7%88%B6%E8%BE%88%E6%B1%9F%E5%B1%B1/" target="cdt-mirror">博客中国｜罗伯特卡帕：罗援将军“捍卫父辈江山论”的出处</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/14387905335440.jpg" alt="14387905335440" width="540" height="443"></p>
-<p>著名的红二代（高干子弟）出身的将军罗援在接受《环球时报》采访时曾表示，“父辈打下的江山，我们有责任来保卫父辈的成果。”</p>
-<p>   在网上查找资料，无意中发现了文革期间高干子弟红卫兵的一篇文章《红色恐怖万岁！》。原来，罗源将军的“捍卫父辈江山论”源远流长，来自这里，失敬失敬！</p>
-<p>    原文如下：</p>
-<p>     我们高呼：红色恐怖万岁！ </p>
-<p> 　　今天，我们搞红色恐怖，明天，我们还要搞红色恐怖，只要有不符合毛泽东思想的东西存在，我们就要造反，就要搞红色恐怖！ </p>
-<p> 　　毛主席说：“革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。革命是暴动，是一个阶级推翻一个阶级的暴烈的行动。”我们要砸烂旧世界，要横扫一切牛鬼蛇神，要在全中国，全世界树立毛泽东思想的绝对权威，就必须对一切旧的东西大杀大砍。文文雅雅、慢慢腾腾怎么能行呢！？怎么能在框框里干革命呢？！ </p>
-<p> 　　有人一见到红色恐怖，听到我们喊造反有理，就胆战心惊、大发雷霆。什么“不按党的方针政策办事呀！”什么“这样太乱了吧。”统统都是胡说八道。天下，是我们的！江山，是我们的！我们翻身了，我们执政了。我们造了牛鬼蛇神的反，罢了牛鬼蛇神的官，专了它们的政，我们扬眉吐气了，谁敢在我们面前专横跋扈，不可一世，我们就叫它去见阎王。害怕红色恐怖的家伙们，实话告诉你们：对红色恐怖持有什么态度，是真假革命者的试金石。 </p>
-<p> 　　我们是天生的造反者，我们是旧世界的批判家。我们的父兄，在战火纷飞的战斗岁月里跟着毛主席踏遍了万水千山，夺得了政权，打下了江山。今天，我们──革命事业的继承者，毛泽东思想的红卫兵，跟着最高统帅毛主席又燃起了无产阶级文化大革命的熊熊烈火。头可断，血可流，毛泽东思想不能丢！血未干，仇未忘，无产阶级专政不能放！上刀山，下火海，党的领导不能篡。我们红色的后代起来了，起来保政权、捍江山。 </p>
-<p> 　　毛主席教导我们：“不止不行，不塞不流，不破不立。”我们造反是造定了，我们还要在红色恐怖的烈火上加油，烧！烧！烧！！烧掉旧世界，建立无产阶级的新世界，建立毛泽东思想的红世界。 </p>
-<p> 　　造反有理！造反到底！ </p>
-<p> 　　红色恐怖万岁！ </p>
-<p> 　　（哈尔滨市红五类子弟造反大会会刊《红后代》社论）</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95%EF%BC%9A%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E6%8D%8D%E5%8D%AB%E7%88%B6%E8%BE%88%E6%B1%9F%E5%B1%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B/?category=18271" rel="tag">罗援将军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -798,7 +822,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -808,5 +832,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>

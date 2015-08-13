@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF9%E6%9C%883%E6%97%A5/" target="cdt-mirror">东网｜吳戈：為什麼是9月3日</a>
@@ -210,7 +210,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已17死逾400伤 （21图）</a>
 </h2>
@@ -263,7 +263,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E6%B0%91%E7%BD%91-%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%85%8B%E5%BF%97%EF%BC%9A%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%A6%84/" target="cdt-mirror">人民网 | 河北省委书记赵克志：党员干部绝不能妄议中央</a>
 </h2>
@@ -689,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>

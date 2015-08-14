@@ -21,9 +21,107 @@
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E7%BB%8F%E5%AE%9E%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8F%AA%E5%B3%B0%E6%98%AF%E8%B0%81%EF%BC%9F%EF%BC%81%E6%97%A0%E4%BA%BA%E5%9B%9E%E5%BA%94/" target="cdt-mirror">中经实时报｜只峰是谁？！无人回应</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/9ce4bf2fgw1ev2142k1w9j20c80960tl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/9ce4bf2fgw1ev2142k1w9j20c80960tl.jpg" alt="9ce4bf2fgw1ev2142k1w9j20c80960tl" width="440" height="330"></a><br>
+（网络图片）</p>
+<p><em>本报记者 郝</em>成</p>
+<p>在龚建生宣布最后一个问题时，一位国内女记者和一名外媒男记者都问了“安全评估报告何时能公布”，在得到需要和有关部门再沟通的答案后，发布会宣布结束，但现场多名记者大喊：只峰是谁？！官员们似乎没有听见，转身离开。</p>
+<p>本次发布会在上午10点整开始，大概持续40多分钟结束。其中环保方面较为侧重。据环保专家介绍，目前已经对现场采取了多项措施，且正在研判情况，计划有更 多措施被用于现场。总体思路来看，事故现场将被封锁起来，确保污水不流入大海，也不进入其他管网，同时用化学物质中和反应，再用水泵抽取出来送往污水处理 厂处理。而空气方面，专家称目前仍是西南风，即浓烟主要向大海方向扩散。</p>
+<p>对于空气检测情况，专家给出了更为严谨的表述：按照常规检测，有些物质并未在检测行列，所以仅从数据而言，是没有对群众造成影响的，但现场周边设置的17各检测点也在检测更多其他物质，这些物质的数据在事发次日既已降下来，也不会对群众有太大影响。</p>
+<p>有媒体提到如果出现降雨，是否会对现场堆放的氰化物造成影响，进而产生污染。环保部门称由于现场已经封闭，不会向外泄露。</p>
+<p>消防部门则进一步明确了最初救援情况，周天称由于港口的消防事务由港口公安部门负责，他们当时是以增援部队而非救援部队赶往的。且他说出这样一个细节：最初接到的报警电话是说有辆车在燃烧。</p>
+<p>周天还称，由于现场情况依然复杂，且尚未弄清究竟是何种物质爆炸，以及周边还有哪些物质，所以目前仍处于研判中，所以现场灭火仍未完成。而今日凌晨记者进入现场时，发现除了一辆处于启动状态的消防车外，现场再无人员。</p>
+<p>周天还介绍，今晨7点从现场救出一名消防人员。但未介绍具体情况。发布会结束时，两名记者不约而同提到安全评估报告，但官员称会向交通运输部门沟通，尽快提供。随后，龚建生宣布发布会结束，几乎同时，现场多名记者大喊：只峰是谁？！官员们匆匆离去，未有任何回应。</p>
+<p>然而，媒体已经对只峰开始“人肉式”调查，由于其姓氏罕见，这位爆炸企业的法人被认为与天津某位领导存在亲属关系。另有媒体报道，只峰目前已经苏醒，且有警员陪同，但未采取强制措施。这引发媒体圈高度质疑。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E7%BB%8F%E5%AE%9E%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8F%AA%E5%B3%B0%E6%98%AF%E8%B0%81%EF%BC%9F%EF%BC%81%E6%97%A0%E4%BA%BA%E5%9B%9E%E5%BA%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/?category=18271" rel="tag">信息公开</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E9%83%A8/?category=18271" rel="tag">环保部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E4%B8%89%E9%87%8C%E5%B1%AF%E7%8B%82%E4%BA%BA%E7%96%AF%E6%9D%80-%E4%B8%AD%E6%B3%95%E6%96%B0%E5%A9%9A%E4%BA%BA%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4/" target="cdt-mirror">法广｜北京三里屯狂人疯杀 中法新婚人一死一伤</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Clipboard19_46.jpg" alt="Clipboard19_46" width="550" height="379"></p>
+<p>北京三里屯优衣库商店前发生持刀砍杀事件，一名中国籍女性被杀害，另一名法国男子被砍伤。没有经过官方证实的消息报告，两位受害人是新婚不久的夫妇。非官方消息说，法国驻华使馆已派官员探望法国男子遇袭及伤情。</p>
+<p>据路透社报导，北京市公安局在其官方微博平安北京通报，一名男子周四在北京三里屯持刀砍伤一名法国男子和一名中国女子，受伤女子已因抢救无效死亡。</p>
+<p>嫌疑人高某某，25岁，为吉林省通化市人。平安北京未提供有关该男子的更多细节。</p>
+<p>社交媒体流传的照片和视频显示，一名男子在三里屯优衣库门店外手持日本武士刀，附近一名女子浑身是血倒在地上。路透社说，无法独立证实这些照片和视频的真实性。</p>
+<p>这起攻击事件上午发生在北京“三里屯酒吧街”，警方随后赶到现场，将这名男子制伏。目前得知这名男子姓高、现年25岁，来自吉林通化。警方持续侦讯嫌犯，设法了解他犯案动机。</p>
+<p>另据报导说，杀人犯可能患有狂想，扬言想杀美国人，但随机斩杀中法夫妇。受害的女子疑来自山东女，遇袭后倒卧路边花坛，其法籍丈夫则捂着她胸前伤口。</p>
+<p>香港东网的报导指出，北京优衣库三里屯分店外今日近中午12时发生凶杀案，一名25岁高姓凶徒，捅伤一对法国与中国籍的夫妇，女子送院抢救无效死亡。高某被到场警员制服。</p>
+<p>根据事发时现场人士拍下的照片和视频可见，一名外籍男子捂著一名倒卧花坛边、胸口溢血的女子，而地上则有大滩血渍；另外，在优衣库门前，则有一名男子手持一把日本军刀在广场上徘徊。根据市公安局通报，该名外籍男子为法国人，而受伤女子为山东人，两人为夫妇关系，后者经送院抢救无效死亡。</p>
+<p>有消息指高某的行凶动机是报复社会，想在北京制造事端，而且目标更锁定为美国人。目击者称，高某遇到法籍男子时曾问对方是不是美国人，对方说不是，但其妻却看了高某一眼，即被凶手挥刀捅伤。但另有目击者说，高某是从背后捅向女死者。据悉，该名法国男子与女死者刚新婚不久。</p>
+<p>事发后，高某没有逃离现场，反而从优衣库内拿出一具人形模特扔在广场，用刀斩玩，直到警员到场，高某弃刀主动走向警方，缓缓趴下被制服。</p>
+<p>最先的消息曾经报告，凶案由摊贩争抢地盘引起。双方为小贩，疑因抢占地盘起冲突。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Clipboard20_2.jpg" alt="Clipboard20_2" width="551" height="347"></p>
+<p>东网早前的报导还指，北京三里屯今日上午传出发生斩人事件，从网上流传的照片可见，一名男子手持日本军刀，在早前发生更衣室性爱短片的优衣库三屯里分店外逞凶，事后被赶到的警员合力制服在地。</p>
+<p>另有照片显示，一名女子被斩死躺卧血泊中，随后被白布盖上；此外，还有一张疑似事发现场照片，一名女子胸部受伤躺卧路边，一名外籍男子在旁照料。</p>
+<p>有网民称，凶徒没有特定袭击目标，持刀乱杀人。另有网民指，斩人事件最少造成一名女子被斩死：一个人拿刀在优衣库路口乱捅，死了一个，所有人都跑到星巴克了，优衣库和星巴克赶紧锁门了。死了一个人，躺在地上，都是血，三屯里全部保安都出来了。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E4%B8%89%E9%87%8C%E5%B1%AF%E7%8B%82%E4%BA%BA%E7%96%AF%E6%9D%80-%E4%B8%AD%E6%B3%95%E6%96%B0%E5%A9%9A%E4%BA%BA%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%87%8C%E5%B1%AF/?category=18271" rel="tag">三里屯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%80%E4%BA%BA/?category=18271" rel="tag">杀人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%EF%BD%9C%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BB%93%E5%BA%93%E4%B8%9A%E4%B8%BB%E4%B8%A4%E5%B9%B4%E5%89%8D%E5%AE%89%E6%A3%80%E4%B8%AD%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%BF%9D%E8%A7%84/" target="cdt-mirror">BBC ｜滨海爆炸仓库业主两年前安检中被查出违规</a>
+</h2>
+<p><p>天津海事局说，拥有天津滨海新区发生爆炸仓库的瑞海国际物流有限公司在两年前的一次安全检查中曾经违反了包装标准的规定。</p>
+<p>路透社报道，天津海事局说，天津东疆保税港区瑞海公司拥有的4,325个集装箱在那次安全检查中5个集装箱没有通过检查。</p>
+<p>新华社报道，周三晚间的爆炸发生在属于瑞海公司的一座仓库。</p>
+<p>天津海事局去年1月在其网站上发布的一份报告说，海事局检查了瑞海物流公司和其他四间公司的的数千个集装箱。</p>
+<p>瑞海物流公司自称是经过政府批准的专门处理“危险品”的公司。</p>
+<p>报告还说，天津海事局总共检查了14,000多个集装箱，发现5个公司的29个集装箱没有通过包装安全检查。</p>
+<p>《中国日报》报道说，瑞海物流公司是私营企业，公司的经理已经被警方拘留。</p>
+<p>根据政府环境部门的一个检查员的报告，瑞海物流公司的库房用来储存危险化物，诸如极为有害的氰化钠，还有易发生爆炸的亚硝酸钠和硝酸钾。</p>
+<p>瑞海国际物流有限公司2011年成立于天津东疆保税港区。该公司拥有46,000平方米的库房设施，危险品在那里的库房被储存和转运。</p>
+<p>但是该公司包含上述信息的有关网页自周四上午起已经无法进入。该网站还说瑞海公司每年处理1百万吨货物，营业额超过3000万元。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%EF%BD%9C%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BB%93%E5%BA%93%E4%B8%9A%E4%B8%BB%E4%B8%A4%E5%B9%B4%E5%89%8D%E5%AE%89%E6%A3%80%E4%B8%AD%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%BF%9D%E8%A7%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E9%9C%8D%E5%85%8B%E8%A2%AB%E5%8F%8C%E5%BC%80/" target="cdt-mirror">自由亚洲｜中国原国家旅游局副局长霍克被双开</a>
+</h2>
+<p><p>中国原国家旅游局副局长霍克被日前被中纪委开除党籍公职，指控他贪污腐败及泄露国家秘密。有评论认为，霍克长期在令计划领导下工作，他被查处与令计划落马有关。</p>
+<p>北京的《新京报》日前报道，中纪委网站8月12号宣布， 经中共中央批准，中共中央纪委对国家旅游局原副局长、党组成员霍克严重违纪问题进行了立案审查。经调查，霍克严重违反廉洁自律规定，收受礼品；利用职务上的便利在干部选拔任用、企业经营等方面为他人谋取利益，收受贿赂；为谋求个人职务升迁，向他人行贿；泄露党和国家秘密。其中，受贿、行贿、泄露党和国家秘密问题涉嫌犯罪。霍克还存在干扰、妨碍组织审查的行为，严重违反党的政治纪律、政治规矩、组织纪律和保密纪律，且中共18大后仍不收敛、不收手，性质恶劣、情节严重。</p>
+<p>报道说，依据《中国共产党纪律处分条例》等有关规定，经中央纪委审议并报中共中央批准，决定给予霍克开除党籍处分；由监察部报国务院批准，给予其行政开除处分；收缴其违纪所得；将其涉嫌犯罪问题、线索及所涉款物移送司法机关依法处理。</p>
+<p>总部在比利时的国际反腐机构透明国际亚洲部负责人廖然对此表示，中国旅游局副局长霍克被查处的重要罪名是泄露国家机密：</p>
+<p>“霍克在被降任国家旅游局副局长之前，曾经担任保密局局长，长期以来是令计划的部下。令计划被双开时罪名之一就是泄露国家机密，霍克等人肯定是协助了令计划泄密。”</p>
+<p>霍克生于1961年，河北人。公开履历显示，他曾在解放军南京政治学院新闻系学习，当过北京军区政治部战友报社记者、编辑；随后进入中央办公厅，一直在秘书局工作，后担任中央办公厅秘书局局长。<br>
+廖然指出，令计划覆亡的转折点是2012年3月他的儿子发生车祸之际：</p>
+<p>“车祸到他去年被双开之间有很长一段时间。这期间，令计划手下的一窝人肯定预计到他们将面临鱼死网破的结局，因此他们不惜泄露国际机密，以获取日后进行讨价还价的政治资本。”</p>
+<p>霍克到底泄露什么样的国家机密，美国纽约市立大学政治学教授夏明认为：</p>
+<p>“官方没有说明到底是什么秘密，我们只能猜测。在过去四年里，习近平接班之际，中共党内的权力斗争激烈，薄熙来和令计划都是习近平上台的绊脚石。”</p>
+<p>夏明教授说，薄熙来和令计划手下的人都曾经海外媒体爆料一些不利于习近平的信息，</p>
+<p>“薄熙来通过新加坡的媒体爆料了不利于习近平的信息。而美国一些媒体曾经爆料习近平家人财产的信息。这些消息的来源很可能来自令计划手下的霍克等人。”</p>
+<p>霍克的工作经历和令计划有相似之处，令计划也是从中央办公厅调研室三组负责人做起， 2007年升任中央办公厅主任，自此直到2012年，转任中共中央统战部部长。令计划在中央办公厅工作的12年间，霍克一直是其下属。霍克去年12月16日从中办调到国家旅游局一周后，中纪委12月23日通报了令计划被调查的消息。</p>
+<p>记者:高山 责编： 嘉华</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E9%9C%8D%E5%85%8B%E8%A2%AB%E5%8F%8C%E5%BC%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%8D%E5%85%8B/?category=18271" rel="tag">霍克</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B9%E6%98%93%E7%89%BA%E7%89%B2/" target="cdt-mirror">大象公会｜中国消防员为什么容易牺牲</a>
 </h2>
 <p><p><em>新浪微博<a href="http://weibo.com/daxianggonghui">@大象工会</a></em><br><em>官网：http://www.idaxiang.org/</em></p>
@@ -686,181 +784,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已致50人遇难 （21图）</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg" alt="据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。" width="500" height="281"></a><p>据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p></div>
-<p><strong>更新：</strong></p>
-<p>【爆炸事故已造成50人死亡 重症伤员71人】滨海新区危险品仓库爆炸事故最新伤亡人数发布：截至今日18时，此次爆炸事故共造成50人死亡；住院治疗701人，其中重症伤员71人。——天津日报</p>
-<p>【事故已造成44人死亡 包括12名消防员】截至今日中午12时，此次爆炸事故共造成44人死亡，其中包括12名消防官兵；住院治疗520人，其中重症伤员66人。 —— 新华网 （2015年8月13日13:16分）</p>
-<p>————————</p>
-<p><strong>天津滨海新区开发区瑞海危险品仓库周三（12日）晚11时30分左右，发生剧烈爆炸，爆炸火光冲天，引发的烟尘高达数十米。方圆数公里有强烈震感。 人民日报和央视都报道说，已经有17人死亡。另外，人民日报报道有300多人受伤，而央视则称，受伤人数超过400人。相关企业责任人已被拘捕。</strong></p>
-<p>报道说，灭火过程中发生2次爆炸导致部分现场人员被困，现正在全力搜救被困人员。</p>
-<p>新京报记者现场报道，在爆炸中心，有7-8辆消防车被炸毁。在被炸毁的消防车附近，消防人员正在搬运队友尸体，至少3具被烧焦的尸体被抬走。随后被送往附近泰达医院，直接送进了太平间。</p>
-<p>中国领导人习近平对天津滨海新区危险品仓库爆炸事故作出重要指示，要求尽快控制、消除火情，全力救治伤员，确保人民生命财产安全。</p>
-<p>国务院总理李克强立即作出批示，要求全力组织力量，注意做好科学施救，防止发生次生事故，查明事故原因，及时公开透明向社会发布信息。同时要督促各地强化责任，切实把各项安全生产措施落到实处。</p>
-<p>公安部部长郭声琨已率国务院工作组赴现场指导事故救援和应急处置工作。</p>
-<p>天津港国际物流中心区域内瑞海公司所属危险品仓库发生爆炸，周边建筑受损。在灭火过程中发生2次爆炸，导致部分现场人员被困，正在全力搜救。</p>
-<p>央视报道：爆炸后产生的粉尘没有扩散，对附近居民威胁极小。目前现场所有消防力量正在进入事发地，对火势发起总攻。由于爆炸物为特殊物质，沙土掩埋为最佳灭火方式。经现场侦查，仍存在二次爆炸的可能。</p>
-<p>天津市委代书记、市长黄兴国提出三点要求：全力控制现场防止次生事故；全力救治伤员；尽快查清事故原因做好善后工作。</p>
-<p>天津警方通报称，瑞海国际物流公司危险品仓库集装箱堆场，装有危险品的集装箱起火爆炸，造成轻轨东海路站建筑及周边居民楼受损，津滨轻轨9号线13日停止营运。</p>
-<p>据央视报道，截至目前，爆炸点附近停放的车辆仍在发生爆炸，据估计现场火势还将持续至少2小时。爆炸点两公里内的建筑玻璃全部被震碎，距离事故发生地10公里左右的路段发生了交通拥堵，或将影响早高峰交通出行。</p>
-<p>据新华社现场记者报道指，现场已经戒严，在记者前方约500米处的一个汽车工业园，仍在发生连绵不绝的爆炸，浓烟滚滚。</p>
-<p>天津滨海新区开发区周边瑞海危险品仓库昨俺发生爆炸，邻近多家公司和建筑物毁损严重，其中雷诺汽车仓储停有6000多辆汽车，估有六分之一左右被烧毁，消防员还在持续灭火中。</p>
-<p>在事故现场不到百米施工的水电工人，暂居的简易木板房屋全部倒塌，这批简易木板房有2000多人居住，逃出的工人表示，幸有北疆海事局几层办公楼挡着，缓解爆炸冲击，不然工人伤亡可能会很严重。</p>
-<p>另一建筑工地的一名木工也指，他所在的施工地活动板房距离事故现场有一公里多的距离，七八间活动板房里至少住着300名工人。 事故发生后，活动板房倒塌，正在睡觉的工人全部被埋，所幸伤亡不重。</p>
-<p>据官方中国地震台网报道，天津周三晚的爆炸共有两次，第一次爆炸发生在当地时间23时34分6秒，近震震级ML约2.3级，相当于3吨TNT，第二次爆炸在30秒种后，近震震级ML约2.9级，相当于21吨TNT。</p>
-<p>国家地震台网官方微博综合网民反馈的消息称，天津塘沽、滨海等，以及河北河间、肃宁、晋州、藁城等地均有震感。</p>
-<p>事发的塘沽区出现交通大挤塞，主要道路水洩不通，救护车亦难以将伤者送达医院治疗。京津塘高速公路禁止往塘沽方向行驶。</p>
-<p>现场<a href="http://video.weibo.com/show?fid=1034:82d4e119266cd5063341e63bd9b88c0e" target="_blank">视频</a></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p><strong>救火中发生爆炸</strong></p>
-<p>据中国消防消息，当日22时50分，天津消防总队接到报警称，天津滨海新区港务集团瑞海物流危化品堆垛发生火灾，天津消防总队9个中队和港务局码头3个专职队赶赴现场扑救。当日23时30分左右，现场发生爆炸 。目前，2名消防官兵失联，4名受伤。</p>
-<p>另一位天津市民刚刚对BBC中文网表示，他不久前身在距离爆炸现场只有100米左右的地方，看到爆炸现场仍在起火，而且不时传出零星的爆炸声，但爆炸威力远低于之前的两次爆炸。</p>
-<p>天津港发生大爆炸时，住在天津经济技术开发区市民广场的市民张先生称，爆炸发生在大约晚上11时30分至35分之间，爆炸点出现明亮红光，此后一声巨响，大约3秒后感受到强烈冲击波。10秒钟以后，火光变得更大更亮，又一声巨响后迎来更强大的冲击波，抬头就看到天上腾起了一片白色的蘑菇云。</p>
-<p>从网上流传的照片可见，火光直冒半空，而且出现巨大蘑菇云，附近许多建筑物都受损，有住宅玻璃被震碎、有写字楼天花倒塌、有学校大门玻璃散落一地。</p>
-<p>新华社报道称：发生爆炸的天津滨海新区开发区第12大街到新港四号路部分戒严。</p>
-<p>一名目前身在天津滨海新区市区的当地居民在电话中向BBC中文网记者表示，目前滨海新区市区到处都是疏散的人群，而且不少警察在街上维持秩序，而且还看到一些地区已经戒严。</p>
-<p><strong>“数百人受伤”</strong></p>
-<p>据多位天津当地微博网友称，爆炸发生后，爆炸地点附近多处建筑物受到冲击波致门窗等掉落，另外由于天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p>
-<p>天津港口医院工作人员称，截至目前，已送进300至400名伤员，均在急救室内进行紧急处理。前述工作人员称，爆炸发生后，急救电话被打爆，“急救车抢救和自己来的都有。”</p>
-<p>由于塘沽的泰达医院、天津第五中心医院、泰达心血管医院很快出现伤员“饱和”的状况。急救人员开始往市内医院分流伤者，通过救护车往返接送，将不少伤者分别送至市内的总医院、天津医院、武警医院、第三中心医院、第四医院等多家医院救治。</p>
-<p>该报道称此次事故的伤者中多以骨折、烧伤、擦伤为主。</p>
-<p>天津血液中心说，已经有超过上百人登记献血，中心已经做好了应对急救用血的准备，明天（周四13日）该市各大采血点将准时开放。</p>
-<p>泰达医院很混乱，重伤伤者都在那边。”义务献血的杨先生称，自己看到爆炸后就赶往泰达医院，救护车不断的往医院送人，伤者多是外伤，“有的人被救护车运过来时呈昏迷状态。”</p>
-<p>杨先生称，因为泰达医院离事发现场较近，接受的都是重伤伤员，轻伤伤员都被转移至塘沽医院，很多市民义务开车运送伤员，献血的市民也被统一转至塘沽医院。“登记献血者的册子都填满了。”</p>
-<p>杨先生称，目前塘沽医院排队献血的市民约有四百余人。</p>
-<p><strong>瑞海国际物流有限公司</strong></p>
-<p>据天津东疆保税港区瑞海国际物流有限公司官网介绍，该公司成立于2011年，是天津口岸危险品货物集装箱业务的大型中转、集散中心，是天津海事局指定危险货物监装场站和天津交委港口危险货物作业许可单位。</p>
-<p>目前，该公司以经营危险化学品集装箱拆箱、装箱、中转运输、货物申报、运抵配送及仓储服务等业务为主，共有员工70人，外用工20人。</p>
-<p>据该公司官网显示，该公司仓储业务的商品类别有：第二类：压缩气体和液化气体(氩气、压缩天然气等);第三类：易燃液体(甲乙酮、乙酸乙酯等)；第四类：易 燃固体、自燃物品和遇湿易燃物品(硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物(硝酸钾、硝酸钠等);第六类：毒害品(氰化钠、 甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类(甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
-<p>公司官网显示，其安全文化的方针是：“更科学、更严谨、更规范，对生命负责”。同时，格外强调“安全”，并称：“金钱再好，没有生命美好，时间再紧，没有安全要紧”、“安全不是万能的，没有安全却是万万不能的。”</p>
-<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9B%B4%E6%92%AD%E5%9B%BE%E9%9B%86%E3%80%91%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E9%83%A8%E5%88%86%E8%B5%84%E8%AE%AF%E6%BA%90%E6%B1%87/" target="_blank">【直播+图集】天津滨海新区爆炸事件部分新闻源汇总</a></p>
-<p>附：更多图片来自中国茉莉花革命网站：</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/902.jpg" alt="902" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/908b.jpg" alt="908b" width="400" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909pp.jpg" alt="909pp" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909ss.jpg" alt="909ss" width="400" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/912.jpg" alt="912" width="400" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/915.jpg" alt="915" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917aa.jpg" alt="917aa" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917h.jpg" alt="917h" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/919.jpg" alt="919" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/953.jpg" alt="953" width="515" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/954-381x1024.jpg" alt="954" width="500" height="1342"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/969.jpg" alt="969" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/971.jpg" alt="971" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/979.jpg" alt="979" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/990.jpg" alt="990" width="550" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a15.gif" alt="a15" width="320" height="240"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b1.jpg" alt="b1" width="361" height="640"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已17死逾400伤 （21图）</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg" alt="据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。" width="500" height="281"></a><p>据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p></div>
-<p><strong>天津滨海新区开发区瑞海危险品仓库周三（12日）晚11时30分左右，发生剧烈爆炸，爆炸火光冲天，引发的烟尘高达数十米。方圆数公里有强烈震感。 人民日报和央视都报道说，已经有17人死亡。另外，人民日报报道有300多人受伤，而央视则称，受伤人数超过400人。相关企业责任人已被拘捕。</strong></p>
-<p>报道说，灭火过程中发生2次爆炸导致部分现场人员被困，现正在全力搜救被困人员。</p>
-<p>新京报记者现场报道，在爆炸中心，有7-8辆消防车被炸毁。在被炸毁的消防车附近，消防人员正在搬运队友尸体，至少3具被烧焦的尸体被抬走。随后被送往附近泰达医院，直接送进了太平间。</p>
-<p>中国领导人习近平对天津滨海新区危险品仓库爆炸事故作出重要指示，要求尽快控制、消除火情，全力救治伤员，确保人民生命财产安全。</p>
-<p>国务院总理李克强立即作出批示，要求全力组织力量，注意做好科学施救，防止发生次生事故，查明事故原因，及时公开透明向社会发布信息。同时要督促各地强化责任，切实把各项安全生产措施落到实处。</p>
-<p>公安部部长郭声琨已率国务院工作组赴现场指导事故救援和应急处置工作。</p>
-<p>天津港国际物流中心区域内瑞海公司所属危险品仓库发生爆炸，周边建筑受损。在灭火过程中发生2次爆炸，导致部分现场人员被困，正在全力搜救。</p>
-<p>央视报道：爆炸后产生的粉尘没有扩散，对附近居民威胁极小。目前现场所有消防力量正在进入事发地，对火势发起总攻。由于爆炸物为特殊物质，沙土掩埋为最佳灭火方式。经现场侦查，仍存在二次爆炸的可能。</p>
-<p>天津市委代书记、市长黄兴国提出三点要求：全力控制现场防止次生事故；全力救治伤员；尽快查清事故原因做好善后工作。</p>
-<p>天津警方通报称，瑞海国际物流公司危险品仓库集装箱堆场，装有危险品的集装箱起火爆炸，造成轻轨东海路站建筑及周边居民楼受损，津滨轻轨9号线13日停止营运。</p>
-<p>据央视报道，截至目前，爆炸点附近停放的车辆仍在发生爆炸，据估计现场火势还将持续至少2小时。爆炸点两公里内的建筑玻璃全部被震碎，距离事故发生地10公里左右的路段发生了交通拥堵，或将影响早高峰交通出行。</p>
-<p>据新华社现场记者报道指，现场已经戒严，在记者前方约500米处的一个汽车工业园，仍在发生连绵不绝的爆炸，浓烟滚滚。</p>
-<p>天津滨海新区开发区周边瑞海危险品仓库昨俺发生爆炸，邻近多家公司和建筑物毁损严重，其中雷诺汽车仓储停有6000多辆汽车，估有六分之一左右被烧毁，消防员还在持续灭火中。</p>
-<p>在事故现场不到百米施工的水电工人，暂居的简易木板房屋全部倒塌，这批简易木板房有2000多人居住，逃出的工人表示，幸有北疆海事局几层办公楼挡着，缓解爆炸冲击，不然工人伤亡可能会很严重。</p>
-<p>另一建筑工地的一名木工也指，他所在的施工地活动板房距离事故现场有一公里多的距离，七八间活动板房里至少住着300名工人。 事故发生后，活动板房倒塌，正在睡觉的工人全部被埋，所幸伤亡不重。</p>
-<p>据官方中国地震台网报道，天津周三晚的爆炸共有两次，第一次爆炸发生在当地时间23时34分6秒，近震震级ML约2.3级，相当于3吨TNT，第二次爆炸在30秒种后，近震震级ML约2.9级，相当于21吨TNT。</p>
-<p>国家地震台网官方微博综合网民反馈的消息称，天津塘沽、滨海等，以及河北河间、肃宁、晋州、藁城等地均有震感。</p>
-<p>事发的塘沽区出现交通大挤塞，主要道路水洩不通，救护车亦难以将伤者送达医院治疗。京津塘高速公路禁止往塘沽方向行驶。</p>
-<p><strong>救火中发生爆炸</strong></p>
-<p>据中国消防消息，当日22时50分，天津消防总队接到报警称，天津滨海新区港务集团瑞海物流危化品堆垛发生火灾，天津消防总队9个中队和港务局码头3个专职队赶赴现场扑救。当日23时30分左右，现场发生爆炸 。目前，2名消防官兵失联，4名受伤。</p>
-<p>另一位天津市民刚刚对BBC中文网表示，他不久前身在距离爆炸现场只有100米左右的地方，看到爆炸现场仍在起火，而且不时传出零星的爆炸声，但爆炸威力远低于之前的两次爆炸。</p>
-<p>天津港发生大爆炸时，住在天津经济技术开发区市民广场的市民张先生称，爆炸发生在大约晚上11时30分至35分之间，爆炸点出现明亮红光，此后一声巨响，大约3秒后感受到强烈冲击波。10秒钟以后，火光变得更大更亮，又一声巨响后迎来更强大的冲击波，抬头就看到天上腾起了一片白色的蘑菇云。</p>
-<p>从网上流传的照片可见，火光直冒半空，而且出现巨大蘑菇云，附近许多建筑物都受损，有住宅玻璃被震碎、有写字楼天花倒塌、有学校大门玻璃散落一地。</p>
-<p>新华社报道称：发生爆炸的天津滨海新区开发区第12大街到新港四号路部分戒严。</p>
-<p>一名目前身在天津滨海新区市区的当地居民在电话中向BBC中文网记者表示，目前滨海新区市区到处都是疏散的人群，而且不少警察在街上维持秩序，而且还看到一些地区已经戒严。</p>
-<p><strong>“数百人受伤”</strong></p>
-<p>据多位天津当地微博网友称，爆炸发生后，爆炸地点附近多处建筑物受到冲击波致门窗等掉落，另外由于天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p>
-<p>天津港口医院工作人员称，截至目前，已送进300至400名伤员，均在急救室内进行紧急处理。前述工作人员称，爆炸发生后，急救电话被打爆，“急救车抢救和自己来的都有。”</p>
-<p>由于塘沽的泰达医院、天津第五中心医院、泰达心血管医院很快出现伤员“饱和”的状况。急救人员开始往市内医院分流伤者，通过救护车往返接送，将不少伤者分别送至市内的总医院、天津医院、武警医院、第三中心医院、第四医院等多家医院救治。</p>
-<p>该报道称此次事故的伤者中多以骨折、烧伤、擦伤为主。</p>
-<p>天津血液中心说，已经有超过上百人登记献血，中心已经做好了应对急救用血的准备，明天（周四13日）该市各大采血点将准时开放。</p>
-<p>泰达医院很混乱，重伤伤者都在那边。”义务献血的杨先生称，自己看到爆炸后就赶往泰达医院，救护车不断的往医院送人，伤者多是外伤，“有的人被救护车运过来时呈昏迷状态。”</p>
-<p>杨先生称，因为泰达医院离事发现场较近，接受的都是重伤伤员，轻伤伤员都被转移至塘沽医院，很多市民义务开车运送伤员，献血的市民也被统一转至塘沽医院。“登记献血者的册子都填满了。”</p>
-<p>杨先生称，目前塘沽医院排队献血的市民约有四百余人。</p>
-<p><strong>瑞海国际物流有限公司</strong></p>
-<p>据天津东疆保税港区瑞海国际物流有限公司官网介绍，该公司成立于2011年，是天津口岸危险品货物集装箱业务的大型中转、集散中心，是天津海事局指定危险货物监装场站和天津交委港口危险货物作业许可单位。</p>
-<p>目前，该公司以经营危险化学品集装箱拆箱、装箱、中转运输、货物申报、运抵配送及仓储服务等业务为主，共有员工70人，外用工20人。</p>
-<p>据该公司官网显示，该公司仓储业务的商品类别有：第二类：压缩气体和液化气体(氩气、压缩天然气等);第三类：易燃液体(甲乙酮、乙酸乙酯等)；第四类：易 燃固体、自燃物品和遇湿易燃物品(硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物(硝酸钾、硝酸钠等);第六类：毒害品(氰化钠、 甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类(甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
-<p>公司官网显示，其安全文化的方针是：“更科学、更严谨、更规范，对生命负责”。同时，格外强调“安全”，并称：“金钱再好，没有生命美好，时间再紧，没有安全要紧”、“安全不是万能的，没有安全却是万万不能的。”</p>
-<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9B%B4%E6%92%AD%E5%9B%BE%E9%9B%86%E3%80%91%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E9%83%A8%E5%88%86%E8%B5%84%E8%AE%AF%E6%BA%90%E6%B1%87/" target="_blank">【直播+图集】天津滨海新区爆炸事件部分新闻源汇总</a></p>
-<p>附：更多图片来自中国茉莉花革命网站：</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/902.jpg" alt="902" width="640" height="481"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/908b.jpg" alt="908b" width="480" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909pp.jpg" alt="909pp" width="640" height="426"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/909ss.jpg" alt="909ss" width="479" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/912.jpg" alt="912" width="480" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/915.jpg" alt="915" width="640" height="480"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917aa.jpg" alt="917aa" width="640" height="426"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/917h.jpg" alt="917h" width="594" height="355"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/919.jpg" alt="919" width="640" height="417"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/953.jpg" alt="953" width="515" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/954-381x1024.jpg" alt="954" width="381" height="1024"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/969.jpg" alt="969" width="640" height="384"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/971.jpg" alt="971" width="640" height="384"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/979.jpg" alt="979" width="640" height="640"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/990.jpg" alt="990" width="640" height="408"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a15.gif" alt="a15" width="320" height="240"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b1.jpg" alt="b1" width="361" height="640"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E6%B0%91%E7%BD%91-%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%85%8B%E5%BF%97%EF%BC%9A%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%A6%84/" target="cdt-mirror">人民网 | 河北省委书记赵克志：党员干部绝不能妄议中央</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5666D4C3F6F5957DBD816D3D0057D388.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5666D4C3F6F5957DBD816D3D0057D388.jpg" alt="5666D4C3F6F5957DBD816D3D0057D388" width="363" height="558"></a></p>
-<p>人民网北京8月12日电 《河北日报》10日在头版刊发《赵克志在唐山调研时强调 认真贯彻习近平总书记重要指示要求 推动全省经济社会平稳健康发展》一文。文中称，9日下午，赵克志与唐山市四套班子主要负责人进行座谈时强调，党员干部在政治上绝对不能犯自由主义，绝不能妄议中央，绝不能散布与中央和省委精神相悖的言论。全文如下：</p>
-<p>省委书记赵克志8月8日至9日在唐山调研时强调，习近平总书记系列重要讲话是我们统一思想认识的强大思想武器，是我们推动河北各项事业发展的根本指针。唐山要讲政治、讲大局、讲担当，认真贯彻习近平总书记重要指示要求，在贯彻落实中央和省委决策部署上走在全省前列。要坚定发展信心，加快调整经济结构，抓住重大机遇，确保和谐稳定，推动经济社会平稳健康发展。省委常委、唐山市委书记焦彦龙，副省长姜德果分别参加调研。</p>
-<p>渤海之滨，发展潮涌。曹妃甸经过十几年的开发建设，由昔日的荒滩沙岛变成今天的深水大港，现已拥有国家级经济技术开发区、河北省首家综合保税区、循环经济示范区等金字招牌，成为新崛起的沿海开发区。赵克志来到曹妃甸工业区置业大厦规划展厅、北京（曹妃甸）现代产业发展试验区先行启动区、首钢京唐钢铁公司、25万吨级矿石码头，详细了解曹妃甸的历史发展、产业聚集、打造协同发展示范区等情况。在首钢京唐钢铁公司，他一边参观企业，一边仔细询问产品规模、种类、规格及京唐合作、海水淡化等情况。得知该公司正在努力建成具有先进产品制造、能源高效转换、废物消纳处理和资源化利用的新一代钢铁厂，赵克志对企业的发展目标给予充分肯定。烈日炎炎，海风猎猎。在曹妃甸25万吨级矿石码头上，赵克志认真察看码头建设情况，向有关负责同志了解港口吞吐能力、临港产业发展等情况。赵克志指出，曹妃甸具有港口、土地、区位、交通、资源、政策等方面的组合优势，发展潜力巨大，一定要把握好定位，加快开放开发步伐，迅速成长为渤海湾的重要增长极之一。</p>
-<p>在南堡经济开发区，赵克志考察了全国纯碱和化纤行业的排头兵——唐山三友集团有限公司。他深入氯碱公司主控室、化纤公司纺练车间、硅业公司主控室，详细了解企业发展现状、市场形势、产品价格、循环经济发展等情况。“三友的事业，根基在基层、关键在干部、源泉在职工”“人企共兴、家园共育、未来共创”……看到车间悬挂的企业文化展板，赵克志停下脚步仔细品读，对三友集团“真想事、真干事、真管人、真管事”“用真心、说真话、做真人、干真事”的文化理念深表赞赏。</p>
-<p>“接轨世界，牵引未来。”唐山轨道客车有限责任公司是我国首列国产时速350公里CRH3型“和谐号”动车组的诞生地。沿着现代化的生产线，赵克志边走边了解动车组关键技术、生产流程、配套产业等情况，并跟一线职工亲切攀谈，关切地询问他们的工作、收入等情况。他叮嘱当地有关负责同志，要放宽眼界，全力服务企业，特别是要推动配套产业发展聚集，为转型升级注入活力。</p>
-<p>唐山钢铁集团有限责任公司是河北钢铁集团的骨干企业，全国特大型钢铁企业。来到唐钢，赵克志实地了解了污水处理中心设备工艺，并冒着高温参观了3200立方米高炉，了解高炉运转情况和环保技术，对唐钢花园式厂区建设给予充分肯定，称赞唐钢是钢铁行业的标杆。</p>
-<p>调研期间，赵克志还考察了唐山爱信汽车零部件有限公司，唐山开诚电控设备集团有限公司，开滦国家矿山公园博物馆，南湖生态城和2016年世界园艺博览会场馆等企业和项目。</p>
-<p>唐山市在39年前那场大地震中被夷为平地，如今在地震废墟上已建设起一座崭新的城市。赵克志来到唐山地震遗址公园，在地震纪念墙前敬献鲜花，向唐山大地震罹难同胞和在抗震救灾中捐躯的英雄表示深切哀悼，向具有光荣传统的唐山人民致以崇高敬意。</p>
-<p>9日下午，赵克志与唐山市四套班子主要负责人，各县（市、区）委书记、县（市、区）长，市直综合部门主要负责人进行座谈。在听取了唐山市经济社会发展情况汇报后，赵克志指出，唐山市发展取得很大成绩，园区建设、项目建设和企业发展都给人留下深刻印象。</p>
-<p><strong>赵克志指出，前不久，省委召开常委扩大会议，就贯彻中央决定精神、做好当前工作提出明确要求。总的是，深入学习贯彻习近平总书记系列重要讲话精神，协调推进“四个全面”战略布局，高举发展、团结、奋斗的旗帜，把思想统一到总书记系列重要讲话精神上，把心思集中到发展上，把力量凝聚到全面建成小康社会上，正确处理发展、改革、稳定的关系，调动一切积极因素，把干劲鼓起来，推动各项工作的落实，努力保持全省政治、经济、社会大局稳定。唐山要讲政治、讲大局、讲担当，在贯彻落实中央和省委决策部署上走在全省前列。</strong></p>
-<p><strong>赵克志强调，要深入学习贯彻习近平总书记系列重要讲话精神，坚决在思想上、政治上、行动上同以习近平同志为总书记的党中央保持高度一致。总书记系列重要讲话是我们统一思想认识的强大思想武器，是我们推动河北各项事业发展的根本指针。学习习近平总书记系列重要讲话，要注意解决严守政治纪律和政治规矩问题。要对党绝对忠诚，带着感情和责任，坚决在思想上、政治上、行动上同以习近平同志为总书记的党中央保持高度一致，坚决听从中央指挥，坚决维护中央权威。党员干部在政治上绝对不能犯自由主义，绝不能妄议中央，绝不能散布与中央和省委精神相悖的言论。对各种错误思想、错误言论，要旗帜鲜明地严肃批评纠正。要大力倡导忠诚、干净、担当。开展好“三严三实”专题教育，把干部的心思和精力集中到干事创业上，聚精会神，心无旁骛，全面落实好中央和省委的决策部署。</strong></p>
-<p>赵克志强调，要坚定发展信心，加快调整经济结构，提高经济增长质量和效益。唐山的区位优势明显、交通条件很好、产业基础雄厚，多项重要经济指标处于全省前列，发展大有希望，大家应该充满信心，着力提高经济增长质量和效益，加快结构调整步伐。要加快传统产业升级。由要素驱动转向创新驱动，抓住“中国制造2025”和互联网+行动计划等契机，大力推进工业化与信息化深度融合，围绕产业链，部署创新链，提升价值链，向绿色、高端、集约、高效方向转变。要大力发展战略性新兴产业。把高端装备制造、电子信息、节能环保、新能源、新材料，作为新的经济增长点来抓，引进龙头企业，引进技术人才，努力做大做强。要把调结构与治污染结合起来。压减过剩产能，淘汰落后产能，加快企业环保设施建设，推进节能降耗，发展循环经济，实现经济发展和生态建设的双赢。</p>
-<p>赵克志指出，要抓住重大机遇，按照“三个定位”要求，加快实施京津冀协同发展战略。习近平总书记2010年到唐山视察时提出，要把唐山建成东北亚地区经济合作的窗口城市、环渤海地区的新型工业化基地、首都经济圈的重要支点。这“三个定位”，饱含战略思考，饱含殷切期望，非常符合唐山实际，具有重大而深远的指导意义。落实好总书记提出的“三个定位”要求，关键是抓住京津冀协同发展的重大机遇。落实京津冀协同发展规划纲要，最根本的是深刻学习领会总书记京津冀协同发展的重大战略思想，提升河北发展质量和水平。从全省来看，各市县要把工作做得精准，精准确定功能定位，精准选择协同发展的载体和抓手，精准承接非首都功能疏解和产业转移。把推进京津冀协同发展与谋划“十三五”结合起来，加强战略研究，制定发展规划，优化空间布局，把重点发展的产业明确下来，坚持一张蓝图绘到底。抓好战略平台的开发建设，加快推进北京与河北联合共建曹妃甸协同发展示范区，曹妃甸中日韩循环经济示范基地，唐山湾生态城等重大工程。盯住重大项目不放松，对首钢二期、华润二期、千万吨炼化等项目，要成立专门班子，统筹调配资源，尽快早开工、早建成、早见效。继续加强基础设施建设，对港口、铁路、高速等重点工程，要加快建设进度，拉动投资，改善环境，带动开放开发。曹妃甸面积大、优势大、潜力大，经过十多年的探索建设，有了很好的基础，要全力以赴抓紧抓好，加快往里装项目、聚人气，形成增长极。</p>
-<p>赵克志强调，要充分发挥“护城河”作用，确保社会和谐稳定。唐山地理位置特殊，要正确处理改革发展稳定的关系，认真落实维护稳定的第一责任，把工作做实做细。要加强社会治理体系建设，抓好公共安全，严厉打击刑事犯罪，特别是涉枪涉爆犯罪，落实安全生产责任制，加强食品药品监管，严防各类事故的发生。要扎实做好群众工作，深入开展信访维稳攻坚行动，抓源头、抓基础、抓落实，特别是领导干部要亲自接访、下访、包案、督访，组织干部驻村，解决实际问题，最大限度地把信访量降下来。要做好重大活动安保工作，加强重点部位、重点场所安全保卫，加强重点人员监控，打造平安和谐稳定的良好环境。</p>
-<p>唐山市主要负责同志和省有关部门负责同志参加调研。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E6%B0%91%E7%BD%91-%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%85%8B%E5%BF%97%EF%BC%9A%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%A6%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0/?category=18271" rel="tag">中国制造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E5%A4%A7%E5%B1%80/?category=18271" rel="tag">讲大局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">讲政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D/?category=18271" rel="tag">重要讲话</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BE%AF%E8%99%B9%E6%96%8C%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E6%98%82%E8%B4%B5/" target="cdt-mirror">侯虹斌｜中国女人为什么这么昂贵</a>
-</h2>
-<p><p>最近被刘强东与奶茶妹妹的消息刷屏。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A5%B6%E8%8C%B6%E5%88%98%E5%BC%BA%E4%B8%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A5%B6%E8%8C%B6%E5%88%98%E5%BC%BA%E4%B8%9C.jpg" alt="奶茶刘强东" width="400" height="714"></a></p>
-<p>下面这段评论，基本上就是恶心的代名词，而且被到处转发。不仅把女性当作物品来计价，当作衡量男人成功与否的砝码；而且，这种物品最贵重之处就在于年龄。</p>
-<p>段子的中心意思是，你成功了，就可以买到更年轻的女人，不成功，你的女儿就会被老头买走。</p>
-<p>PS：后面的不是章泽天的父母！不是章泽天的父母！（转发的人没脑子也就算了，还不会用百度谷歌？）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A5%B6%E8%8C%B6%E5%88%98%E5%BC%BA%E4%B8%9C2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A5%B6%E8%8C%B6%E5%88%98%E5%BC%BA%E4%B8%9C2.jpg" alt="奶茶刘强东2" width="357" height="216"></a></p>
-<p>然后是这么一段。您操心得太多了吧？</p>
-<p>我此前曾在腾讯大家发过的一篇《中国男人为什么这么丑》，不曾想，不仅点击过百万，很多转载，而且我的各个与文化和媒体毫不搭界的Q群和微信群里，都转发了这篇文章，都是含羞带怨的，有骂有赞；我走到哪里，都被媒体圈朋友介绍，喏，就是那个写文章说中国男人丑的。</p>
-<p>其实，一篇两千字的文章很难充分论证这个宠大的命题——再加上这篇也不能——题目中的全称指代也不贴切，一竹竿撩倒一船人，这我需要向被躺枪的男士们道歉；不过，这一议题之所以能引起这么多人共鸣、吐槽，或者攻击，而且反响还能延续一段时间，说明了这并非一个伪问题，也说明，<strong>社会的发展已到了一个节点，女性的不满显而易见了。</strong></p>
-<p>但对于后来衍生成为“中国男人配不上中国女人”的论题，我也不能苟同。<strong>说白了，中国男性之容貌粗俗、气质粗鄙，是与中国女性双向选择之后的结果</strong><strong>。</strong></p>
-<p>如果用一句粗俗的话来说，就是：<strong>只要男人有钱，哪怕长得像猪一样，女人也能睡得下去，这样的价值观之下，男人怎么可能不丑呢？</strong>中国的女人如此拜金、如此庸俗，她们不正好匹配那些肥头大耳的中年男么？求仁得仁何所怨？</p>
-<p>想必说到这一层，男性们会释怀了：中国女性总算负担起了让男性变丑的责任了，他们本来就是无辜受害的乖宝宝。</p>
-<p>从历史上来说，男女关系也都是这样的路数：妲己害了商纣王，杨妃害了唐明皇，慈禧还害得满清灭亡呢；现在的推导关系，只不过是更加彻底了而已：女性负起了这个社会的教化功能。不奇怪，<strong>两性关系当中，女性地位越低的时候，社会责任必然是越大的</strong><strong>，</strong>看看那些说心灵鸡汤一个劲地说女人对一个家有多重要就知道了。</p>
-<p>但是，<strong>社会价值观怎么可能是由弱势一方塑造的？这是由一部分充分掌握了社会资源的人（这种权贵基本上是中老年男性）决定的，他们用自己的方式重新进行性别资源分配。</strong></p>
-<p>要理解这种分配，我们可以参考一下这个社会处于“高等级”的一群人。在中国的语境下，占据这个社会最多权力与资源的人一般是指一定级别以上的高官（至于什么级别才是高官，取决于你的心理定位），或许还可加上个别巨富大贾。他们的生活我们凡人无从瞻仰，但从近期的各种高官落马的新闻中可以发现，原来他们基本上都有一个爱好：通奸。他们一般有一个与他们同龄的发妻，但还会寻找多个更年轻、更漂亮的情人（常见的一种选择是主播），<strong>实际上就是对古代一夫一妻多妾制的回温。</strong>还有另外一种相对文雅的方式，<strong>就是一次接一次地离婚结婚，妻子年龄越换越小，这种，可以称为连续型多妻制。</strong></p>
-<p>这里不打算探讨贪腐，也不打算探讨道德，只想说明一点：<strong>达官贵人们的婚姻结构或性关系结构，就是对年龄、向外貌的无限追求，是不断地向下兼容。</strong></p>
-<p>当然，能攀上这种层次的人物凤毛麟角，跟大众也没有啥关系，但是，比他们次一等的、拥有部分资源的人，比如，各种层级的官员，各种煤老板，各种有钱有名的人，均在效仿这种价值分配结构。这并非我的臆测，中国传统的理论是“上有所好，下必甚焉”；而美国经济学家罗伯特·弗兰克也提出过一种“消费瀑布效应”的理论：<strong>每个人在确定消费水平时的参照对象都是比自己更富有的人群。是的，最有权势的那些人为自己在深山中建造行宫，吃一饭能挥霍掉公款百万，在国家级电视台中选后宫……这些自然和我没半毛钱关系，但是这些生活深深刺激了有资格与高官们打交道的大土豪们，于是他们咬紧牙关建造了更大的房子，吃更豪华的宴席，在地方电视台选情人……</strong>这些土豪们又把这种生活方式传递给中产阶层，于是中产阶层呢，虽然在供楼供车之外没有资格供养大小情人了，但他们的价值观早就暗暗与土豪们是齐平的。就我所知道的一些例子而言，<strong>既有四十岁的未婚白领，相亲时坚决不肯见三十岁的女白领，哪怕条件很好，理由是对方太老；也有在某些艺术文化的小圈子里，四五十岁的老男人总是比赛着谁带的女友年龄更小。</strong></p>
-<p>我仿佛听到了白居易的心声：“<strong>十载春啼变莺舌，三嫌老丑换蛾眉</strong>”（当年白居易已六十岁了，嫌十八九岁的歌妓太老了每三年就要更换新人）。这显然不是个别现象。当年杨振宁娶了比他小54岁的翁帆，我已经听到无数人对这种关系表示了不加掩饰的垂涎。<strong>这种价值观念的影响，就如同瀑布一样，沿着社会阶层从上至下影响了每一个人，与受教育程度没有关系。</strong></p>
-<p>于是乎，哪怕是刚上大学的女生，只要还单身，普遍都会有“剩女”的忧虑。实际她们也就二十岁。<strong>如今的女孩子们普遍都明白，这个社会对她们的定位是什么，在她们尚年轻的时候，选择男友、选择配偶，必须优先考虑经济条件，以及是否负责任、是否适合共同养育子女、是否忠诚，等等；情感与尊严，已经变得不那么重要了；性吸引力，则更次要了。</strong>耳濡目染的社会现实也在提醒她们，必须要提高价码，以预先赎买男性对她们中年以后的背叛。</p>
-<p>所谓女性的拜金，就是这么来的。</p>
-<p>事实上，<strong>我也不打算为女性推卸责任。中国的许多女性长辈们，三姑六婆或者居委会大妈，她们打压起自己的同性比男性更积极、下手更狠。无论是自己过得苦大仇深还是乐哈哈的，她都会告诉你，女人一定要低人一等才是完美的世界。</strong>至于怎么个低法才能深得完美的精髓，又各有不同：可能是逼婚，可能是强调重男轻女，可能是要求你任打任骂死不离婚，也可能是压迫一切她能够得着的女性——最后一条，滋养着中国电视黄金时段里诸多博大精深的婆媳剧。<strong>最终的目的，是维护这个结构已然稳固的男权社会，她们在这种稳固中，可以获得一种安全感，有的还可以捞点别的收益。</strong></p>
-<p>这么说“大妈”，并不公平，因为很多年轻女孩也是这么想的。</p>
-<p>其实，<strong>在一个堕落的社会中，没有资源的人堕落速度是最快的，因为他没有能力去抵挡。在男性对着权势、财富、美女孜孜以求的时候，比他们弱的女性就会选择迎合他们，接受他们的遴选，以更年轻、更性感、更物化的姿态来争相博取宠幸</strong>。而在上一拔女孩子芳华渐去的时候，又一茬一茬的小妖精长出来了，开出更高的价码。最终，拍死在沙滩上的，是一群出不起价的loser们。</p>
-<p>问题是，<strong>loser们也并不愿意把女性还愿成人，他们只知道抱怨价格高了，认为美女们就应该便宜大甩卖，不卖就是拜金的坏女人。他们也喜欢物化女人，一点都不无辜。</strong></p>
-<p>说到这里，我还没有提到“丑陋”呢。没错，喜欢以权势金钱的方法去衡量和购买长期婚姻、或短期性关系的男性，很难不猥琐；喜欢以贬低女性的方式来获得性别优越感的男性，很难不恶心；而<strong>我们中国的中流砥柱们，这个社会的权力、财富、荣耀归于他们，这个社会发展成今天的肮脏和无耻下流也要归于他们，这样的人群，很难不丑陋。</strong></p>
-<p>可怕的还在于，<strong>这种价值观的洪流滚滚地倾泻而下，身在其中，很难不被瀑布所沾湿。</strong>我可以感受到，身边还有很多思维正常的可爱的人，既有男性也有女性，但最后，<strong>这种部分人共谋的结果也挤压了正常人的世界：好男孩不得不与脑满肠肥所代表的背后的权力进行竞争，好女孩年岁渐长后不得不迎接可以轻易购</strong><strong>买的年轻的肉体的挑战，或者干脆绝决地退出市场，从此任逍遥。</strong></p>
-<p>真到了那个时候，再去讨论配得上配不上，都意义不大了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BE%AF%E8%99%B9%E6%96%8C%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E6%98%82%E8%B4%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">上大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E5%B1%82/?category=18271" rel="tag">中产阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%A9%E5%A5%B3/?category=18271" rel="tag">剩女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E8%BA%AB/?category=18271" rel="tag">单身</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%9C%E9%87%91/?category=18271" rel="tag">拜金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%8E%B0%E5%AE%9E/?category=18271" rel="tag">社会现实</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82/?category=18271" rel="tag">社会阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%BA%90%E5%88%86%E9%85%8D/?category=18271" rel="tag">资源分配</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -872,7 +795,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -882,5 +805,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>

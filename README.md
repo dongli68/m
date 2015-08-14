@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E9%A3%9E%E6%8E%A0%E5%BD%B1%EF%BC%9A%E6%88%91%E5%AF%B9%E5%A4%A9%E6%B4%A5%E5%8C%96%E5%AD%A6%E5%93%81%E7%88%86%E7%82%B8%E7%9A%84%E8%AF%B4%E6%B3%95%E5%92%8C%E4%B8%80%E4%BA%9B%E4%B8%93%E4%B8%9A/" target="cdt-mirror">风飞掠影：我对天津化学品爆炸的说法和一些专业故事</a>
+</h2>
+<p><p>一天前夜里的几声巨响把天津变成了热门词汇，网络上的祈福，默哀，致敬，自保技巧硬生生的把这世界级的骇人事件变得更像说资，事件过后当事人受到的伤害一点也没有减少，幸存者承受的却是残酷的 “自我认识和自我提高”，该负责的，该反省的，就这样潜移默化的自行解散了。</p>
+<p>事情不应该是这样的逻辑，也不能是这样的逻辑，尤其是如此恶性的事件。</p>
+<p>我没有做大数据分析，也没有调查历史，其实心也已经麻木了，躲在美帝多年，以为可以自清，可每每发生此类事件，还是痛心疾首。尤其这次，对我这个在化学领域摸爬滚打13年之多的人的冲击可想而知。我想以为对化学的理解和十多年的亲身体会，以及在中国7年，美国6年的化学生涯为背景，随便谈谈我的看法，讲点故事。</p>
+<p>有 网友查到国内有法律明文规定大型化工厂需要距离居民区至少一千米以上，一点都不为过，事实上美国大多数的化学公司不止不在大城市，而且经常建在鸟不生蛋的地方，不是对自己不自信，而是对别人负责。以陶氏化学为例，实验室工作人员的安全至高无上，安全培训及其严格，安全类文书非常详尽，在业内名声震震，成为了众多美国大学实验室安全培训的模仿对象。大家也许听周围人讲过，美国人做事很拖沓，也许把事情考虑周全是需要不少的时间，可是值得。09年 刚到美国化学实验室工作的时候，第一天就劈头盖脸的压来了厚厚的安全文书，连续几日的线上培训，实体课程，每个人必须的灭火器操作，终于通过了安全考核， 才知道自己完成的只是所有大学工作人员必须通过的普通安全培训，还有更复杂具体的化学专项培训。其中一项反复强调的，化学相关的火灾种类，分A, B,C 三类，A类为普通火灾，B 为易燃化学品，C 为 遇水或空气自燃或发生反应的火灾。灭火器自然也分三种，而干粉类才适合化学反应型火灾，因为普通的二氧化碳或者消防用的水碰到活泼金属反而会生成更易燃的 气体（氢气）或助燃气体（氧气），属于火上浇油。而所有的这些都只是涉及小火灾，如果火势发展到威胁人身安全，撤离是唯一的选择，火灾必须交由专业人士 （消防）处理。火灾之下，首要的就是要充分了解情况和任何背景，熟知化学药品的种类和数目，并估量可能的反应产物和性状，才能预先作出可能的应对。比如酸雾，卤素气体，甚至氰氢酸，每一样可能的反应产物中和失活的机理都大不相同，即时知情也不一定能够安全消除，更别提事前毫无估量。微博链里盛传“Burn Down”原则，我没有细查，但我本能性不认同。A类火灾甚至B类火灾可能都问题不大，C类火灾决不能放任有害物质无限量进入大气。我个人认为可以不主动扑灭，但一定要在防止火势蔓延的同时，熟知化学品性状，并对可能的反应产物进行中和降解处理，才能把二次污染降到最低。否则，这个二次污染要比爆炸的损害更大，继续拿氰化钠为例，水溶性极好，无色无味，不尽快中和氧化降解，任何的扩散都是致命 的。</p>
+<p>化学实验室的火灾防护专业人员都必 须具有相当的处置化学品的经验，这一点我的感触很深。记得在国内的时候，有一次对面楼一个化学合成实验室着火，冷却器里的酒精在瞬间就把火势推到整个房 间，所有的学生都成功的逃出了实验室。在消防车赶到前，研究所的几个保安小伙儿操起灭火器就冲进了火场，被泄露的氯气熏至休克，幸好最后救治了过来，才没有酿成悲剧。能怪他们吗？怎么能？！一个个每天早上能见到的友好的面孔。但有没有更好的办法，当然有，那就是安全培训，安全文书，和安全规章制度。在国内 读书的时候，夏天做实验温度太高，大家就系个围裙，做什么用？怕弄脏衣服，跟防火八杆子打不着，你问我会不会用灭火器，我说会你信吗？当然不信，连我自己都不信。来加州工作后，规定多严格？安全护目镜，防火服，长裤，不露脚趾和脚面的鞋，而且衣服尽量要求穿棉质的。专门负责化学实验室消防的人员都具有一定相关知识，而且对实验室环境非常熟悉。为什么这么严格？不是他们聪明或者怕死，因为这里面有个故事。</p>
+<p>2000年初的一个夏天，洛杉矶加州大学，化学系的一位教授的实验室来了一个本科女生Intern，安排好了做化学实验。那时候化学实验室的安全培训比现在简单上100倍，所以没几天她就开始 “亲自” 做实验了。普通的一天，在实验室里只有她自己的情况下，她开始了一个需要50毫 升叔丁基锂溶液的反应，懂化学的人都知道，叔丁基锂碰到空气就会自燃，更何况有易燃助燃溶剂。硕大的注射器在她手里极不自在，在她加压注射液体时，针头脱离，叔丁基锂喷到了她的涤纶毛衣上，是的！她没有穿实验服！没有几分钟她倒下了，连呼救的时间也没有，一个满怀化学梦想的女生，就这样没了。</p>
+<p>问责？追究？立案？立法？这些加州都做了，而且一做就做了十年。美国有个联邦部门，叫做 Occupational Safetyand HealthAdministration，我们叫他们OSHA。因为上面的一个事故，OSHA重新做了安全规程，并要求所有加州的大学强制执行，现在的加州所有大学安全制度更严格了，安全文案也更复杂了，安全培训周期也是历史之最。如果现在你来加州大学的化学实验室学习的话，也许你在通过安全培训前都拿不到办公室和实验室的钥匙，也不准踏进实验室半步，因为OSHA不关心你能不能在美国学到东西回去报效祖国，他们只关心你的安全，因为你不安全了，跟你有关的所有人都脱不了干系。他们每年不定期的巡查，如果有违反规定的行为，他们可能会关掉实验室，重罚相关机构，或者甚至诉诸法律。</p>
+<p>美国发生的事故也并不少（参考@年轻的沙狐隆美尔 转 发的故事），事故发生了，后续做什么更重要，只有尊重活人，才可以避免对逝者落泪。我们是一个容易流泪和感动的民族，事情发生了，我们可以伤心难过，事情 过去了，我们可以收起眼泪继续看八卦。事情没有发生在自己身边，永远都只会是说资。可这件事也可以吗？这种只有在灾难片里发生的场景活脱脱的发生在眼前， 还能够一谈而过吗？还能够只流眼泪，只感动，只点蜡烛就而已吗，人们？！去年发生在圣塔芭芭拉的枪击事件，失去了唯一儿子的父亲，在讲台上对我们笑着讲自 己儿子生前的故事。美国人无情吗？就是这个父亲，这一年多到处奔走呼喊提出改进法案，为的是避免类似事件再次发生。我们的一个朋友酷爱骑车，年纪轻轻就永远留在了他喜欢的路上。他的爸爸妈妈在两年内从没停下自己的脚步，促成了加州修改交通法：机动车必须与非机动车保持1米以上的距离。我觉得他们的这些，才是真情，比眼泪，要贵上一万倍。</p>
+<p>有网友查了以后说，国内的安全相关规定并不是不健全。那为什么形同虚设？因为虽然部门多，却没有哪个可以严格地有权威地强制执法。即使有，某些企业也可以找“机会”过关。柴静的《穹顶之下》里左右为难的环保局就是一个例子。我在美国生活了这些年，提两个这边的例子。大家都知道美国汽车尾气标准很严格，谁监督执行呢？在加州是Department of Motor Vehicle(DMV)，所有的车辆每隔一年必须强制进行尾气检测并达标才能成功注册，没有人可以例外。另一个，为什么很多国内开车很熟的人来美国考驾照会考不过？因为在美国，即时你开车不熟练，只要你安全意识充分，就会给你驾照，而赛车手的技术，没有安全意识，也就只能和驾照相视而笑了。</p>
+<p>这次天津化学品爆炸中，如此大规模的化学品储存及转运公司，安全文件，制度规程，化学品的详细种类，储量，位置，还有每个化学品的标准操作规程（SOP）都应该可以即时获取。有网友帖子里提到可能有的化合物种类，我本人没有去核实。举个例子，700顿氰化钠是什么概念？氰化钠是剧毒神经毒性化学品，半数致死量为惊人的20毫克每千克。假设人平均体重为60千克，致死量只需要1克多。700吨可以杀死多少人？单位换算？算出来的同学不要被吓到。氰化钠遇酸会生成氰氢酸，毒性更剧烈，而且具有主动侵蚀性，极度危险。消防人员在这种情况下应该进入救火救援吗？当然应该，有人说“那是他们的职责”，没错，的确是他们的职责。可安全文书在哪里，化学品的详细资料在哪里？有没有预先估量现场的情况？有人说“搜索安全文件会耽搁救援时间，造成更大损失”，可是现在时间省下来了，损失的，是人命。中国人的命不值钱吗？我相信不管谁说这句话都会被群起而攻之，可事实呢？还有人说“这是他们的职责，他们有责任去冒险，去奋不顾身保护市民安全”，说的一点没错，我相信不管你问哪一个消防人员都会得到肯定的回答，可<strong>他们应得的是知情的冒险，而不是盲目的送命</strong>。在消防人员不知情的情况下把他们送到千吨万吨级化学药品的失火现场去救援，然后你感动的称他们是英雄，称他们在“最伟大的逆行”，他们牺牲了自己，你落泪伤心。你好意思感动吗？！你好意思伤心吗？！有人说，外国的消防员也奋不顾身。但你忘记了，他们大多都是在尊严的冒险，他们熟知自己面对的危险是什么，可能后果是什么。人基本的尊重做到了，去冒险保护市民，他们会义无反顾。</p>
+<p>人的生命都是平等的，也许不同的职业会赋予人们不同的责任，但在对事情的衡量和知情权上一定要是相同的，而且人却“无知”却“弱小”，就越应该受到保护，得到便利。<strong>希望以后的某一天，我们不再会是：无事时无忧，有事时显真情，人死了落泪点蜡烛，只尊重尸体，却不尊重活人。</strong></p>
+<p>@风飞掠影 15/08/13</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E9%A3%9E%E6%8E%A0%E5%BD%B1%EF%BC%9A%E6%88%91%E5%AF%B9%E5%A4%A9%E6%B4%A5%E5%8C%96%E5%AD%A6%E5%93%81%E7%88%86%E7%82%B8%E7%9A%84%E8%AF%B4%E6%B3%95%E5%92%8C%E4%B8%80%E4%BA%9B%E4%B8%93%E4%B8%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E5%AE%89%E5%85%A8/?category=18271" rel="tag">化工安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">安全制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%94%E6%80%A5%E9%A2%84%E6%A1%88/?category=18271" rel="tag">应急预案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%92%8C%E3%80%8A%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E3%80%8B%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB/" target="cdt-mirror">【图说天朝】毛泽东和《开罗宣言》到底什么关系</a>
+</h2>
+<p><p><strong><a href="http://news.mtime.com/2015/08/14/1545751.html">MT时光网｜《开罗宣言》发布人物海报 毛泽东斯大林等四位伟人亮相</a></strong></p>
+<blockquote><p>二战题材影片《开罗宣言》今日曝光了一组全新海报，<strong>斯大林、罗斯福、丘吉尔、毛泽东四位国际舞台上的重要人物悉数亮相</strong>，展现出了宏大的叙事格局，一幅伟大的历史长卷就此铺开。</p>
+<p>与影片此前曝光的几款海报不同，今日曝光的这四款海报主打历史人物，四位伟人的剪影与重大事件的画面浑然一体，这种设计也突出了历史造就伟人，伟人成就历史的关系。在人物的选取上，不同党派、不同国别的领导人以并列的姿态现身，<strong>并没有偏重一方</strong>，这也充分体现了《开罗宣言》<strong>从国际视角观察历史、以全人类的角度去尊重历史的立意和胸怀</strong>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/091928.98821428_1280.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/091928.98821428_1280.jpg" alt="091928.98821428_1280" width="425" height="659"></a></p></blockquote>
+<p><strong>其实片方公布的首批海报上是有蒋介石的</strong>（见下图）。但不知为何，<strong>在单独宣传《开罗宣言》重要人物的时候就成了毛泽东</strong>。此片的导演之一为近期陷入争议的《嫁给大山的女人》导演胡明钢。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Cairo-Declaration_poster_goldposter_com_4-800x518.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Cairo-Declaration_poster_goldposter_com_4-800x518.jpg" alt="Cairo-Declaration_poster_goldposter_com_4-800x518" width="525" height="340"></a><br><em>（图片来源：<a href="http://www.goldposter.com/63368/">Gold Poster</a>）</em></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1179397731/CvNy0AL3B">@谌旭彬</a>：【海报太霸气！！！】作为一个历史从业者，我深深地被震惊到无话可说了！！！</p>
+<p>@董and斌:居然还有头发，都不知道考据一下吗</p>
+<p>@论人民的収视权或装锅权：蒋总统咋长成这逼样的呢？</p>
+<p>@曾健仁V3：这个老biang的还去过埃及呐~</p>
+<p><a href="http://weibo.com/5597149483" target="_blank">专业拆伙12</a>：喂喂，喂！1943年老蒋有木有芥茉胖啊？啊啊？？？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/1425282462" target="_blank">MT码头</a>：正能量！<img title="[威武]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/vw_org.gif" alt="[威武]"><img title="[good]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]"></p>
+<p><a href="http://weibo.com/n/%E5%AD%99%E8%A7%81%E5%9D%A4?from=feed&loc=at" target="_blank">@孙见坤</a>:蒋委员长在开罗使用了法老的生发秘方<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@囧纳森III: 这个演员一脸奸猾，长得一点都不像蒋介石，怎么挑的啊？</p>
+<p>@Lui__：画外音：怎么不让我去！</p>
+<p>@被解放的张哥：银桥啊，今天不吃红烧肉了，给我弄张去开罗的机票</p>
+<p>@Lanrsixcaix：百度百科需要及时提高姿势水平，以免为党国添堵，伤害中国人民的感情。</p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5a1fcf66gw1ev29k6apwbj20hs0vkaf6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5a1fcf66gw1ev29k6apwbj20hs0vkaf6.jpg" alt="5a1fcf66gw1ev29k6apwbj20hs0vkaf6" width="375" height="666"></a></p></blockquote>
+<p>@一半舞剑一半闲：毛泽东当年去和丘吉尔、斯大林在开罗会谈，阐释了三个世界的划分！对了，宋美龄做的翻译。</p>
+<p>@不沉默的大多数: 历史就是如此啊 当年击毙在战场上 今后消灭在书本里。</p>
+<p>@余戈-腾冲之围:唐国强说：要有个会！于是开罗开了个会。</p>
+<p>@icno2001：真尼玛狠啊，大家都惊呆了</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Cairo_conference_edited.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Cairo_conference_edited.jpg" alt="Cairo_conference_edited" width="500" height="381"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%92%8C%E3%80%8A%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E3%80%8B%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E4%B8%BB%E5%8A%9B/?category=18271" rel="tag">抗日主力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E4%BB%8B%E7%9F%B3/?category=18271" rel="tag">蒋介石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%92%8C%E5%B0%8F%E6%AC%A3%EF%BC%9A%E8%B5%B0%E5%A4%9A%E8%BF%9C%EF%BC%9F%E4%BD%9C%E5%A4%9A%E4%B9%85%EF%BC%9F/" target="cdt-mirror">和小欣：走多远？作多久？</a>
 </h2>
 <p><p><em>作者：小心和小欣<br>
@@ -297,6 +353,33 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
 <a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E4%B8%89%E9%87%8C%E5%B1%AF%E7%8B%82%E4%BA%BA%E7%96%AF%E6%9D%80-%E4%B8%AD%E6%B3%95%E6%96%B0%E5%A9%9A%E4%BA%BA%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%87%8C%E5%B1%AF/?category=18271" rel="tag">三里屯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%80%E4%BA%BA/?category=18271" rel="tag">杀人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%EF%BD%9C%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BB%93%E5%BA%93%E4%B8%9A%E4%B8%BB%E4%B8%A4%E5%B9%B4%E5%89%8D%E5%AE%89%E6%A3%80%E4%B8%AD%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%BF%9D%E8%A7%84/" target="cdt-mirror">BBC ｜滨海爆炸仓库安检中曾被查出违规 死亡人数上升到56人</a>
+</h2>
+<p><p>【<a href="http://www.bbc.com/zhongwen/simp/china/2015/08/150813_tianjin_explosion_news_conference">更新</a>】据中国媒体报道，天津仓库爆炸的最新死亡人数上升到56人，其中包括21名消防员。</p>
+<p>据《人民日报》报道，受伤人数的最新统计是721人，其中25人伤势严重。</p>
+<p>天津市政府在第3次发布会上说，目前现场明火已基本扑灭，复燃可能性很小。</p>
+<p>稍早时，中国国务院工作组在天津仓库爆炸现场通报说，在现场搜出五名遇难者遗体和一名生还者，遇难人数升至55人。<br>
+__________________</p>
+<p>天津海事局说，拥有天津滨海新区发生爆炸仓库的瑞海国际物流有限公司在两年前的一次安全检查中曾经违反了包装标准的规定。</p>
+<p>路透社报道，天津海事局说，天津东疆保税港区瑞海公司拥有的4,325个集装箱在那次安全检查中5个集装箱没有通过检查。</p>
+<p>新华社报道，周三晚间的爆炸发生在属于瑞海公司的一座仓库。</p>
+<p>天津海事局去年1月在其网站上发布的一份报告说，海事局检查了瑞海物流公司和其他四间公司的的数千个集装箱。</p>
+<p>瑞海物流公司自称是经过政府批准的专门处理“危险品”的公司。</p>
+<p>报告还说，天津海事局总共检查了14,000多个集装箱，发现5个公司的29个集装箱没有通过包装安全检查。</p>
+<p>《中国日报》报道说，瑞海物流公司是私营企业，公司的经理已经被警方拘留。</p>
+<p>根据政府环境部门的一个检查员的报告，瑞海物流公司的库房用来储存危险化物，诸如极为有害的氰化钠，还有易发生爆炸的亚硝酸钠和硝酸钾。</p>
+<p>瑞海国际物流有限公司2011年成立于天津东疆保税港区。该公司拥有46,000平方米的库房设施，危险品在那里的库房被储存和转运。</p>
+<p>但是该公司包含上述信息的有关网页自周四上午起已经无法进入。该网站还说瑞海公司每年处理1百万吨货物，营业额超过3000万元。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%EF%BD%9C%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BB%93%E5%BA%93%E4%B8%9A%E4%B8%BB%E4%B8%A4%E5%B9%B4%E5%89%8D%E5%AE%89%E6%A3%80%E4%B8%AD%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%BF%9D%E8%A7%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E8%AF%84/?category=18271" rel="tag">安评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E8%AF%84/?category=18271" rel="tag">环评</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 6小时前</small>
@@ -812,149 +895,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%A9%E5%AE%B6%E8%A1%97-%E5%A1%98%E6%B2%BD%E5%A4%A7%E7%88%86%E7%82%B8-%E5%A4%A9%E6%B4%A5%E4%BE%9D%E7%84%B6%E6%98%AF%E5%BA%A7%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9F%8E%E5%B8%82/" target="cdt-mirror">温家街 | 塘沽大爆炸 天津依然是座没有新闻的城市</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/U136P1T940D4281F24202DT20150813103646.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/U136P1T940D4281F24202DT20150813103646.jpg" alt="U136P1T940D4281F24202DT20150813103646" width="500" height="300"></a></p>
-<p>文/新浪专栏 观察家 汤嘉琛</p>
-<p>12日深夜，天津滨海新区一危险品仓库发生爆炸，现场腾起蘑菇云。据测算，爆炸破坏力相当于24吨TNT炸药当量——能量接近53个战斧式巡航导弹。新华社报道：截至13日9时，事故已致17人死亡，400余人受伤。</p>
-<p>爆炸发生后，微博、微信群、朋友圈被刷屏，微博相关话题阅读量已超2亿次，人们急切希望知道更多权威的信息。但诡异的是，从爆炸事故发生至今，天津市有关方面的信息发布、新闻报道严重不足。</p>
-<p>打开《天津日报》等媒体的电子报，会发现他们很“机智”地撤掉了头版……不知道是否是因为对爆炸事故只字未提，怕被网友“炒作”。家在天津朋友，如果方便的话，可以留言说说或拍一下头版然后发给我。</p>
-<p>如果说纸媒收出版流程限制，反应慢一点情有可原。那么，新媒体平台总不至于失语了吧。但现实是依然让人震惊。</p>
-<p>直到今天凌晨3:52，天津市人民政府新闻办公室官方微博“天津发布”才发布了第一条消息。而此时，距离爆炸事故发生已有4个多小时，网络上已经流言四起。</p>
-<p>遇到这种突发事件，第一时间要求公布死伤者人数、事故原因等，有些过于苛刻。但通过微博、网站动态发布最新信息，避免因信息不透明而出现谣言，减少民众的恐慌情绪，这样的要求并不过分。从3年前的蓟县大火，到如今的塘沽爆炸，没有丝毫进步。</p>
-<p>新闻业内有一种说法：天津是一座没有新闻的城市。这一次，似乎依然没有新闻。</p>
-<p>几年前，@中青报曹林曾吐槽：“这座城市严重信息封闭，平常外界看不到这座城市有什么新闻发生，正面负面都是如此。这种管制造成天津媒体的封闭和媒体人的封闭，难出知名媒体，难出拿得出手的名记，当地媒体和媒体人与外界也少有联系。天津媒体不监督异地，异地媒体也监督不了天津 。”</p>
-<p>蓟县大火后，“假装在纽约”也曾质疑：“天津是个奇怪的地方，这么大的城市这么多人，这么多年却一直没什么声响，安静得像是不存在。什邡小城出事把微博折腾了个底朝天，天津这么大的火，外地网友拼命刷屏追问真相，却没看到多少天津人在讨论，天津的官博连装模作样的辟谣都懒得辟。”</p>
-<p>天津媒体的“低调”，与其直辖市的地位极不相称。对此，天津市民也诟病颇多：“地铁事故你们不报，公交车死人你们不报，街头上的凶杀案你们不报，成天就知道婆婆妈妈的小事，喜欢报道小偷小摸呀、丢井盖啊、积水啊、撞车啊……”</p>
-<p>有媒体从业者分析：“天津媒体的特色是副刊、葵花灯下及都市报道，而不是新闻、评论及新文化；天津媒体喜追名家而不捧自己人，尤其不捧所谓新锐的年轻人；天津媒体人流行圈子、踩自己人、打小报告，唯领导马屁是从；有新闻理想的人，不善于周旋者，别在天津做媒体人。”</p>
-<p>媒体人“mele_yu”曾在微博中说： “和天津的同行接触，感觉他们非常热爱自己的城市，不愿意承认自己的城市会出问题。于是每次我们关心他们怎么样时，他们都轻描淡写的说：嘛事没有！”</p>
-<p>但问题，对自己城市存在的问题假装看不见，不是爱，是害。纸是包不住火的，明明有很多问题却总是捂着掖着，拒绝舆论监督，迟早出大事。</p>
-<p>最新消息称，习近平、李克强已对此次爆炸事故做出重要批示，其中明确要求“及时公开透明向社会发布信息”。为天津祈祷，也希望天津不再沉默，及时查明真相并公开信息，对责任人严肃追责，给遇难者家属和所有遭受损失的人一个交代。</p>
-<p>这次爆炸，能炸醒一直“装睡”的天津吗？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B8%A9%E5%AE%B6%E8%A1%97-%E5%A1%98%E6%B2%BD%E5%A4%A7%E7%88%86%E7%82%B8-%E5%A4%A9%E6%B4%A5%E4%BE%9D%E7%84%B6%E6%98%AF%E5%BA%A7%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9F%8E%E5%B8%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E4%BA%BA/?category=18271" rel="tag">媒体人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E9%97%BB%E4%B8%8D%E9%87%8D%E8%A6%81-%E6%94%BF%E6%B2%BB%E6%89%8D%E9%87%8D%E8%A6%81/" target="cdt-mirror">【网络民议】新闻不重要 政治才重要</a>
-</h2>
-<p><p>新闻背景：<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="_blank">天津滨海新区码头大爆炸 已17死逾400伤</a></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8.jpg" alt="天津爆炸" width="500" height="333"></a><p>天津危险品仓库爆炸后的末日场景</p></div>
-<p> </p>
-<p>@头条新闻：#天津滨海爆炸#【爆炸已超10小时 天津卫视仍在播韩剧！！！】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/60718250jw1ev0qghlkp9j20fa0bgjrx.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/60718250jw1ev0qghlkp9j20fa0bgjrx.jpg" alt="60718250jw1ev0qghlkp9j20fa0bgjrx" width="440" height="330"></a></p>
-<p> </p>
-<p>@传媒老王：刚刚天津卫视终于在早新闻节目结束时口播了国家领导人关注事故现场的新闻，连字幕都没有打，然后转切画面了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6309fc78gw1ev0nssd2wwj218g0xcdt3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6309fc78gw1ev0nssd2wwj218g0xcdt3.jpg" alt="6309fc78gw1ev0nssd2wwj218g0xcdt3" width="440" height="330"></a></p>
-<p> </p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CMQV5SqUYAEgd2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CMQV5SqUYAEgd2x.jpg" alt="CMQV5SqUYAEgd2x" width="440" height="248"></a></p>
-<p> </p>
-<p>@Anderlio：天津卫视舔得一口好菊……</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CMQPQlxUYAE5Kkt.png" alt="CMQPQlxUYAE5Kkt" width="440" height="272"></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p><em>吴胜斌：特别提醒大家注意，不要上当！！！评论回复当中有一部分人根本就是外国势力培植的代言人，冒充不同省份及地区的人相互进行地域歧视和攻击，目的是挑起地域仇视，离间国人，制造不安定因素，破坏社会秩序！请大家在关注的同时理性思考，别造谣。一定帮忙顶上去，让更多人能清楚的知道事实的真相！！！</em></p>
-<p><em>大排少女：头条新闻你也是个唯恐天下不乱的东西，还有闲工夫窝里斗。</em></p>
-<p><em>翻好白：拜托你先不要草率引导舆论的方向。电视台又怎么会不知道孰轻孰重？ 现在在播并不代表他们没有做好直播现场的准备。</em></p>
-<p><em>小井二：你管的有点多了，才死了40个人，在中国算事情吗？</em></p>
-<p>——————————————————————————</p>
-<p>sinrocha：在我看来，天津卫视不过是在做他们的本职工作，即讨好领导而已。它是一个除了领导谁都翘不动的独立王国。</p>
-<p>胶光片影：#天津塘沽大爆炸#此刻，天津卫视在播韩剧，CCTV在走基层。</p>
-<p>凉月初：版权费不能白交。</p>
-<p>南方人物周刊：另一个世界。</p>
-<p>Weiboscope：全世界都在关注天津大爆炸，天津卫视女主播还在笑眯眯扯蛋玩呢！</p>
-<p>终小南：韩剧的特点不就是怎么都死不了么。</p>
-<p>shota_nuke：天津卫视作为直接相关的地方传媒有马上组织突发新闻滚动报道的社会责任。</p>
-<p>刘同渡：这个跟台风非一个性质灾害。天灾尚可，人祸牵扯电视台台长乌纱帽，关键是，党媒，你懂的。</p>
-<p>真话哥：太不可思议了！平时不看天津卫视，发生了这么大的事儿，全中国人民都在关注天津塘沽大爆炸事件，想想天津卫视一定滚动跟进相关报道吧！没料到你们竟然一如平常，陈旧的播放肥皂剧。这样的台长，出去的时候别说是用纳税人的钱养！建议一人一句#天津卫视台长滚下电视台#！</p>
-<p>徐昕：对天津媒体和宣传的批评，是为了促进他们改正，以更透明的信息应对灾难，但已经看到，很多这样的帖子被删，若未来问责，不仅要问责事故单位和责任人，也要针对这些不良媒体和管制者。</p>
-<p>刘春：近年来，省级卫视的竞争主要在综艺真人秀和电视剧上，新闻直播的机制、人才、意识都大不如前，电视的媒体功能大大弱化，所以，一遇到重大突发事件，往往反应迟钝表现奇差。唉！</p>
-<p>gehouhun：天津卫视这态度肯定会遭到大规模讨伐的。巧合的是，天津卫视正在播出的电影《逃出生天》是一部火灾灾难片。</p>
-<p>财经网：【微观察】天津，现在，韩剧：糟糠之妻俱乐部。即使从最基本新闻报道基础工作角度说，这也是传统“主流”新闻机构“主动”放弃了自己的本职工作。在“非主流”媒体们通过网络持续滚动报道天津爆炸事件时，“主流”们就是这样把自己自我边缘化了，边缘的非常彻底。</p>
-<p>吳堯12：沒宣傳部批准你敢直播？</p>
-<p>littlehawk：“天津，是一座没有新闻的城市。”——看来这句话不假。</p>
-<p>多数时候的少数派：新华社通讯稿没出，事件没有定性，你让地方台怎么报道？放韩剧是职业道德问题，放新闻可是政治立场问题啊。</p>
-<p>男巫Iven：上面没指令，不定调，敢随便报吗？</p>
-<p> </p>
-<p>什么都不让说了：台长表示作好了报道的一切准备，等待领导统一口径，一声令下。</p>
-<p>fndhrt：明星点蜡，大V祈福。领导批示，群众感激。张三加油，李四不哭。没关系啦，多难兴邦。</p>
-<p>你国中年蔡范梓 ：生的计划，死的随机。越资深的你国居民，越知一语中的。除了灾害，还有次生灾害，完全防不胜防。不会追究深层责任，不会汲取现实教训，不会借此破窗，对流出清新与澄明。唯上古尸气，黏稠、腐败、不温不火，四平八稳的蔓延，如看不见的蜘蛛网，将众生裹牢，缚住手脚，绑定头脑，惯了墙高，自将寻欢笑。</p>
-<p>幸福向我狂奔：BBC正在报道关于中国天津的爆炸事件。尼玛中国的媒体着实让我受不了。</p>
-<p>贾小包包：全世界在看天津，天津在看韩剧…身为天津人的无语。</p>
-<p>shangguanluan：大清早就停水，头洗不成，饭做不成，只能打开电视，看天津爆炸区人民有没有情绪稳定，据说爱国群众还义正词严地声讨了现场的外媒。然后，打开天津卫视的时候，发现我天真了，人家何止情绪稳定……</p>
-<p>LiuCheng2B：我想天津居民，尤其滨海新区的居民更想知道的是亲人朋友邻里的安危，空气中是否会有有毒物质，火势何时扑灭，可是天津卫视依旧正常播韩剧。</p>
-<p>徐凤文：据悉，天津电视台工作人员已做好分段直播的一切准备。但，还在等许可，还在等通知。希望中午前天津卫视开启新闻直播，现场救援和及时、公开、透明地发布现场信息，同等重要。</p>
-<p>valkyrie181：和传统媒体的性质无关，想滚动分分钟，和宣传部每天发的那张纸有关吧。</p>
-<p>风中清扬的树：体制内的媒体啊，没有通稿怎么敢播出？自己的官位不要了？台领导又不需要对观众负责，他只需要对他的领导负责。</p>
-<p>新希望的奶酪：他们尸位素餐，都是我们这些P民造成了，我们的麻木纵容加速了他们的腐化。</p>
-<p>辛勤的老牛vv：世界都在关注天津塘沽大爆炸，除了天津卫视。</p>
-<p>看我的神id：看看别的国家再看看自己的国家头条竟是王迅出轨。</p>
-<p>春风不独来：老说没有批准谁敢播，监利沉船事件，湖北卫视全天报道；昆明恐怖事件，云南卫视全天报道。天津台领导没勇气没魄力罢了，别拉所有卫视下水。对了，东方卫视这方面也不错，勇于报道突发事件，也常做全天新闻关注。</p>
-<p>嘴巴咧到后脑勺：天津当年商场火灾也是这样的媒体，都是国外媒体报道，国内全部装死。</p>
-<p>吃饭睡觉打豆豆哦也：做直播得经宣传部门统一，所以这个锅也可以给宣传部门去背。</p>
-<p>kankeSKY：也不是，看评论共青团爱国侯网评员已全部就位。</p>
-<p>老兵在京：天津卫视已经开始直播事故。（注：2015年8月13日 10：40分 距离事发超11小时）</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E9%97%BB%E4%B8%8D%E9%87%8D%E8%A6%81-%E6%94%BF%E6%B2%BB%E6%89%8D%E9%87%8D%E8%A6%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81/?category=18271" rel="tag">主流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E5%AA%92%E4%BD%93/?category=18271" rel="tag">传统媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8%E9%97%A8/?category=18271" rel="tag">宣传部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E5%AF%BC%E8%88%86%E8%AE%BA/?category=18271" rel="tag">引导舆论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%9A%E7%9F%A5/?category=18271" rel="tag">通知</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">通稿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/" target="cdt-mirror">BBC | 天津滨海新区码头大爆炸 已17死逾400伤</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150812181503_tianjin_blast_624x351_weibo_nocredit.jpg" alt="据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。" width="500" height="281"></a><p>据网友称，爆炸发生后，建筑物天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p></div>
-<p><strong>天津滨海新区开发区瑞海危险品仓库周三（12日）晚11时30分左右，发生剧烈爆炸，爆炸火光冲天，引发的烟尘高达数十米。方圆数公里有强烈震感。 人民日报和央视都报道说，已经有17人死亡。另外，人民日报报道有300多人受伤，而央视则称，受伤人数超过400人。相关企业责任人已被拘捕。</strong></p>
-<p>报道说，灭火过程中发生2次爆炸导致部分现场人员被困，现正在全力搜救被困人员。</p>
-<p>新京报记者现场报道，在爆炸中心，有7-8辆消防车被炸毁。在被炸毁的消防车附近，消防人员正在搬运队友尸体，至少3具被烧焦的尸体被抬走。随后被送往附近泰达医院，直接送进了太平间。</p>
-<p>中国领导人习近平对天津滨海新区危险品仓库爆炸事故作出重要指示，要求尽快控制、消除火情，全力救治伤员，确保人民生命财产安全。</p>
-<p>国务院总理李克强立即作出批示，要求全力组织力量，注意做好科学施救，防止发生次生事故，查明事故原因，及时公开透明向社会发布信息。同时要督促各地强化责任，切实把各项安全生产措施落到实处。</p>
-<p>公安部部长郭声琨已率国务院工作组赴现场指导事故救援和应急处置工作。</p>
-<p>天津港国际物流中心区域内瑞海公司所属危险品仓库发生爆炸，周边建筑受损。在灭火过程中发生2次爆炸，导致部分现场人员被困，正在全力搜救。</p>
-<p>央视报道：爆炸后产生的粉尘没有扩散，对附近居民威胁极小。目前现场所有消防力量正在进入事发地，对火势发起总攻。由于爆炸物为特殊物质，沙土掩埋为最佳灭火方式。经现场侦查，仍存在二次爆炸的可能。</p>
-<p>天津市委代书记、市长黄兴国提出三点要求：全力控制现场防止次生事故；全力救治伤员；尽快查清事故原因做好善后工作。</p>
-<p>天津警方通报称，瑞海国际物流公司危险品仓库集装箱堆场，装有危险品的集装箱起火爆炸，造成轻轨东海路站建筑及周边居民楼受损，津滨轻轨9号线13日停止营运。</p>
-<p>据央视报道，截至目前，爆炸点附近停放的车辆仍在发生爆炸，据估计现场火势还将持续至少2小时。爆炸点两公里内的建筑玻璃全部被震碎，距离事故发生地10公里左右的路段发生了交通拥堵，或将影响早高峰交通出行。</p>
-<p>据新华社现场记者报道指，现场已经戒严，在记者前方约500米处的一个汽车工业园，仍在发生连绵不绝的爆炸，浓烟滚滚。</p>
-<p>天津滨海新区开发区周边瑞海危险品仓库昨俺发生爆炸，邻近多家公司和建筑物毁损严重，其中雷诺汽车仓储停有6000多辆汽车，估有六分之一左右被烧毁，消防员还在持续灭火中。</p>
-<p>在事故现场不到百米施工的水电工人，暂居的简易木板房屋全部倒塌，这批简易木板房有2000多人居住，逃出的工人表示，幸有北疆海事局几层办公楼挡着，缓解爆炸冲击，不然工人伤亡可能会很严重。</p>
-<p>另一建筑工地的一名木工也指，他所在的施工地活动板房距离事故现场有一公里多的距离，七八间活动板房里至少住着300名工人。 事故发生后，活动板房倒塌，正在睡觉的工人全部被埋，所幸伤亡不重。</p>
-<p>据官方中国地震台网报道，天津周三晚的爆炸共有两次，第一次爆炸发生在当地时间23时34分6秒，近震震级ML约2.3级，相当于3吨TNT，第二次爆炸在30秒种后，近震震级ML约2.9级，相当于21吨TNT。</p>
-<p>国家地震台网官方微博综合网民反馈的消息称，天津塘沽、滨海等，以及河北河间、肃宁、晋州、藁城等地均有震感。</p>
-<p>事发的塘沽区出现交通大挤塞，主要道路水洩不通，救护车亦难以将伤者送达医院治疗。京津塘高速公路禁止往塘沽方向行驶。</p>
-<p><strong>救火中发生爆炸</strong></p>
-<p>据中国消防消息，当日22时50分，天津消防总队接到报警称，天津滨海新区港务集团瑞海物流危化品堆垛发生火灾，天津消防总队9个中队和港务局码头3个专职队赶赴现场扑救。当日23时30分左右，现场发生爆炸 。目前，2名消防官兵失联，4名受伤。</p>
-<p>另一位天津市民刚刚对BBC中文网表示，他不久前身在距离爆炸现场只有100米左右的地方，看到爆炸现场仍在起火，而且不时传出零星的爆炸声，但爆炸威力远低于之前的两次爆炸。</p>
-<p>天津港发生大爆炸时，住在天津经济技术开发区市民广场的市民张先生称，爆炸发生在大约晚上11时30分至35分之间，爆炸点出现明亮红光，此后一声巨响，大约3秒后感受到强烈冲击波。10秒钟以后，火光变得更大更亮，又一声巨响后迎来更强大的冲击波，抬头就看到天上腾起了一片白色的蘑菇云。</p>
-<p>从网上流传的照片可见，火光直冒半空，而且出现巨大蘑菇云，附近许多建筑物都受损，有住宅玻璃被震碎、有写字楼天花倒塌、有学校大门玻璃散落一地。</p>
-<p>新华社报道称：发生爆炸的天津滨海新区开发区第12大街到新港四号路部分戒严。</p>
-<p>一名目前身在天津滨海新区市区的当地居民在电话中向BBC中文网记者表示，目前滨海新区市区到处都是疏散的人群，而且不少警察在街上维持秩序，而且还看到一些地区已经戒严。</p>
-<p><strong>“数百人受伤”</strong></p>
-<p>据多位天津当地微博网友称，爆炸发生后，爆炸地点附近多处建筑物受到冲击波致门窗等掉落，另外由于天降玻璃渣，已至少致数百人受伤，伤者纷纷涌向医院。</p>
-<p>天津港口医院工作人员称，截至目前，已送进300至400名伤员，均在急救室内进行紧急处理。前述工作人员称，爆炸发生后，急救电话被打爆，“急救车抢救和自己来的都有。”</p>
-<p>由于塘沽的泰达医院、天津第五中心医院、泰达心血管医院很快出现伤员“饱和”的状况。急救人员开始往市内医院分流伤者，通过救护车往返接送，将不少伤者分别送至市内的总医院、天津医院、武警医院、第三中心医院、第四医院等多家医院救治。</p>
-<p>该报道称此次事故的伤者中多以骨折、烧伤、擦伤为主。</p>
-<p>天津血液中心说，已经有超过上百人登记献血，中心已经做好了应对急救用血的准备，明天（周四13日）该市各大采血点将准时开放。</p>
-<p>泰达医院很混乱，重伤伤者都在那边。”义务献血的杨先生称，自己看到爆炸后就赶往泰达医院，救护车不断的往医院送人，伤者多是外伤，“有的人被救护车运过来时呈昏迷状态。”</p>
-<p>杨先生称，因为泰达医院离事发现场较近，接受的都是重伤伤员，轻伤伤员都被转移至塘沽医院，很多市民义务开车运送伤员，献血的市民也被统一转至塘沽医院。“登记献血者的册子都填满了。”</p>
-<p>杨先生称，目前塘沽医院排队献血的市民约有四百余人。</p>
-<p><strong>瑞海国际物流有限公司</strong></p>
-<p>据天津东疆保税港区瑞海国际物流有限公司官网介绍，该公司成立于2011年，是天津口岸危险品货物集装箱业务的大型中转、集散中心，是天津海事局指定危险货物监装场站和天津交委港口危险货物作业许可单位。</p>
-<p>目前，该公司以经营危险化学品集装箱拆箱、装箱、中转运输、货物申报、运抵配送及仓储服务等业务为主，共有员工70人，外用工20人。</p>
-<p>据该公司官网显示，该公司仓储业务的商品类别有：第二类：压缩气体和液化气体(氩气、压缩天然气等);第三类：易燃液体(甲乙酮、乙酸乙酯等)；第四类：易 燃固体、自燃物品和遇湿易燃物品(硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物(硝酸钾、硝酸钠等);第六类：毒害品(氰化钠、 甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类(甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
-<p>公司官网显示，其安全文化的方针是：“更科学、更严谨、更规范，对生命负责”。同时，格外强调“安全”，并称：“金钱再好，没有生命美好，时间再紧，没有安全要紧”、“安全不是万能的，没有安全却是万万不能的。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%A0%81%E5%A4%B4%E5%A4%A7%E7%88%86%E7%82%B8-%E5%B7%B217%E6%AD%BB%E9%80%BE400%E4%BC%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E4%BA%A1/?category=18271" rel="tag">伤亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%8C%BA/?category=18271" rel="tag">开发区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%98%91%E8%8F%87%E4%BA%91/?category=18271" rel="tag">蘑菇云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -966,7 +906,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -976,5 +916,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

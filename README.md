@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1a76y84uyc9xz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,87 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B9%E6%98%93%E7%89%BA%E7%89%B2/" target="cdt-mirror">大象公会｜中国消防员为什么容易牺牲</a>
+</h2>
+<p><p><em>新浪微博<a href="http://weibo.com/daxianggonghui">@大象工会</a></em><br><em>官网：http://www.idaxiang.org/</em></p>
+<p><strong>培训体制落后，经费来源不稳定，人员流动性强……中国的消防队员面对的不仅仅是火灾，还有复杂的制度困境。</strong></p>
+<p><em>文 | 杜修琪 齐群</em></p>
+<p>中国城市爆炸事故，总有消防员牺牲的消息，天津的爆炸也不例外，截止今天，天津8•12滨海新区爆炸事故，已有至少17名消防队员牺牲，占官方统计的全部死亡人数约1/4，另外，数名消防队员失联。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/8798db0ec823e748c8b07fbe3158c680.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/8798db0ec823e748c8b07fbe3158c680.jpg" alt="8798db0ec823e748c8b07fbe3158c680" width="600" height="230"></a><br><strong><span>▍近年城市救灾中殉职消防员信息统计</span></strong></p>
+<p>从统计中可以看出，牺牲的消防员年龄普遍偏低，很少超过25岁，最小的只有18岁，只有伤亡20人的衡阳特大火灾中，有30岁以上的消防员牺牲。此次天津爆炸，一名25岁，刚刚结婚12天的黑龙江籍消防员牺牲，尤为令人难以接受。</p>
+<p>历次事件中，消防设备的问题非常突出，如上海徐汇区大火，就暴露了高层灭火设备的不足，此次天津爆炸事件，19小时过去，爆炸的化学物质还未弄明，消防队员却没有专业防护设备的情况下，坚持救援。</p>
+<p>而 这样的程序也引发了问题。根据今天《南方周末》的报道，一名消防队员称：“第一批投入的消防队员人很多，‘有一百多’。现场并无人告知他们有不能沾水的危 险化学品。该消防员说，大家就按照正常途径用水来救火。自己是‘二板车’（音），负责给前面的车供水。‘开始是一个集装箱，大概喷水10多分钟，听见啪啪 啪响，然后集装箱就亮了。先是一个小爆炸，后来就出事了。’”</p>
+<p>今天，新闻和社交网络中对消防员的讨论非常多，其中，一张图片令所有人印象深刻：一队带着口罩，提着铁锹，列队的士兵，准备前往爆炸现场。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/c8c2fd5021b749cb69dffae4ca7ed410.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/c8c2fd5021b749cb69dffae4ca7ed410.jpg" alt="c8c2fd5021b749cb69dffae4ca7ed410" width="576" height="395"></a><br><span><strong>▍数百名武警官兵蓄势待发（图片来自网络）</strong></span></p>
+<p>不少人发出了疑问，为什么只戴了简单口罩，拎着铁锹，就准备进入现场？</p>
+<p>其实，这些官兵属于武警部队，但不是消防官兵。他们的装备看起来还不如后者。</p>
+<p>为什么总是年轻的官兵在事件中牺牲？为什么多次灾难后，消防设备水平仍然令人担忧？武警和消防官兵在编制上有什么差别？</p>
+<p>这些问题看似简单，却涉及了解放军，公安部，地方政府，林业局等部门，想要做任一改进，都要在协调复杂的制度中，不同机构的权力和利益。想要让中国消防队员减少牺牲，设备更加专业，并不是简单地推进公务员化、职业化就能解决的。</p>
+<h2><span><strong>麻烦的人与装备</strong></span></h2>
+<p>中国的消防部队是武警的一部分，除此之外，武装警察部队还有内卫、边防等各专业警种。</p>
+<p>消防部队是其中比较特殊的一种，它实际上受多重力量领导：</p>
+<p>——组织上，武警消防部队配额为国家兵役编制，执行中国人民解放军的条令条例和供给标准，其工资、服装、生活费由国防经费支出。</p>
+<p>——业务上，武警消防部队接受公安部消防局指挥，该局为正军级单位，列公安部第七局。</p>
+<p>——经费上，开支由地方财政负担，比如消防车辆及装备器材等业务经费，就由部队所在地提供。</p>
+<p>所以，虽然部队行政经费由国家统一划拨——主要是人员工薪、医疗、保险、公用经费等，但这些只能勉强维持部队日常生活。真正决定部队之间差别的是消防业务经费——消防站工程建设、装备购置、器材购置、信息网络建设及应急物资储备等，却依赖当地政府的慷慨程度。</p>
+<p>较为发达地区的消防官兵能获得的经费，会远远超出经济落后地区。如以下表格显示：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/b2d78cbd6e940aec56fd018af0a77639.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b2d78cbd6e940aec56fd018af0a77639.jpg" alt="b2d78cbd6e940aec56fd018af0a77639" width="525" height="719"></a><br><span><strong>▍2011年，财政部下发《地方消防经费管理办法》，各地区按照自身条件，制定当地标准。以上是根据公开资料整理的部分省市情况</strong></span></p>
+<p>而在地区内部，基层消防支队、大队的经费也千差万别。地方经济条件好的，业务经费有数千万甚至上亿，差的只有百余万，个别相当差的大队，年业务经费只有十余万。</p>
+<p>而且，消防部队的自由度有限，尤其是单位的编制名额，非常固定，要调整需要多方请示，而采购的设备，很少能根据当地情况定制或订购。</p>
+<p>这种条件下，不要说比拼高层灭火、化学保护设备，训练高难度灭火技能，就是基本的营房建设，一些大队都没法保证。根据学者张中有的论文《中国消防体制的困境及对策研究》，消防支队、大队的领导，核心作用之一，是找领导签字，跑财政要钱，这牵涉了大量精力。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/aa36812ddecd96cb58fe37532882ee35.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/aa36812ddecd96cb58fe37532882ee35.jpg" alt="aa36812ddecd96cb58fe37532882ee35" width="525" height="660"></a><br><span><strong>▍2005年几个省市采购的设备数和相应的设备采购经费</strong></span></p>
+<p>2008年的《中华人民共和国消防法》，除火灾扑救、常规救援任务外，又给消防部队增加地震灾害、抗洪抢险、爆炸等 18 项抢险救援任务。</p>
+<p>本 来，中国的消防官兵占国民比例就偏低——2012 年，中国消防官兵总人数13 万，约占国民总人数的万分之一，仅为美国的十分之一左右，又增加诸多职能（虽然这样令地方消防能利用消防检查，有一定的寻租空间，但这部分收入不会进入到 设备采购等环节），却总体上加重了消防负担。</p>
+<p>同时，人员上受国家兵役制度限制，是基层官兵普遍年轻的原因。消防士兵分义务兵、士官，义务兵 2 年制，兵员由武装部统一招入，异地招兵非常常见，一个新兵往往刚熟悉驻地，掌握业务，就面临退伍问题，而且选改士官比例非常有限。</p>
+<p>为什么事故中牺牲的多数是年轻官兵？因为基层的消防员几乎都很年轻。</p>
+<h2><span><strong>消防队员的职业训练</strong></span></h2>
+<p>整体而言，中国的消防队员职业训练时间较短，内容简单，与发达国家差别很大。这与消防武警所属的体制相关。</p>
+<p>消防武警的入伍训练，与军队新兵训练标准类似——队列、内务、体能。唯一不同的是，解放军的技术内容为武器装备的操作使用，消防武警则是消防器械操作和业务理论学习。</p>
+<p>新兵训练时间非常短，事实上很难掌握复杂的消防技能，其科目也和实际技能相差甚远，如下图所示：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/d7088a803c02ae35bda87b71e246d255.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/d7088a803c02ae35bda87b71e246d255.jpg" alt="d7088a803c02ae35bda87b71e246d255" width="525" height="1473"></a><br><span><strong>▍2011年某地森林消防武警新兵训练（共九周）的第二周与第六周的训练内容</strong></span></p>
+<p>真正的职业技能从何学习？复杂的现场情况如何掌握？</p>
+<p>答：从实践中来，到实践中去。</p>
+<p>目前，中国大陆的消防武警更多是在救灾实践中积累经验，但人人都知道，这是一个高危行业，所以，消防经验的积累常常要以生命为代价。</p>
+<p>很少有国家像中国这样培训消防队员。海峡对岸的台湾，消防队员有着严格的准入制度——想报考消防警察，须高中毕业后，报考2年制警察专业学校，或者4年制警察大学的消防科系。</p>
+<p>毕业之后，也要再参加警察特考中的消防警察类考试，通过才可进入消防队。而且，不同学校背景，入职等级都有差别——警专毕业生只能报考四等消防警察，警大毕业生才能报考三等消防警察。</p>
+<p>至于非警察专业的社会人员，想要加入消防员队伍，也要先参加消防警察类考试，考上后，受训一年半到两年才能任用。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2b80ac6c59396b5bd6019ca1ff2993e8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2b80ac6c59396b5bd6019ca1ff2993e8.jpg" alt="2b80ac6c59396b5bd6019ca1ff2993e8" width="575" height=""></a><br><span><strong>▍台湾警专消防科系二年级课程（图片来自腾讯新闻《今日话题》）</strong></span></p>
+<p>至于美国，则有消防员170万人——其中职业消防员70万人，志愿消防员100万人，此外，社区还有义务消防员。</p>
+<p>消防员队伍职业素质较高，但它面向社会开放申请：18岁的公民，经个人申请，然后经2年急救和护理教育培训、280小时灭火训练，可以成为消防员。消防队员实行考试晋升制度。现实中，青年、中年、老年消防队员同时在职，消防队伍非常稳定，而且职业素质更高，经验丰富。</p>
+<p>美国的消防投入经费非常庞大，全国50个州，合计每年投入的正常消防经费约1500亿美元（不包括新增装备、车辆、新建消防站等专项经费），全体消防员人均年收入1.3万美元，职业消防员的人均收入则可达5万美元左右。</p>
+<p>从这些比较来看，中国的消防队员培训普遍不足，而且年龄层单一，退伍制导致经验丰富的一线人才大量流失。</p>
+<h2><span><strong>另类的消防队员</strong></span></h2>
+<p>中国的情况非常复杂，消防制度也同样如此。按照目前的规定，农村地区、边远地区很难有消防站和消防队伍，而大城市不断扩张，原有的消防编制难以应对。</p>
+<p>所以，和协警、协管一样，消防部门的“合同工”出现了。2014年4月走红的武汉“抱火哥”，就是合同工。</p>
+<p>合同消防员的应征流程很简单，先通过两个月左右的培训，然后考试，通过的人就进入消防部队，只是他们没有编制，虽然考核标准类似，但是待遇普遍更低，而且肯定没有上升空间。</p>
+<p>可想而知，这样的合同工流动性有多么大。据中青报报道，2014年下半年，中部某省消防总队面向社会公开招收了1000多名合同消防员，培训结束后就走了上百名。</p>
+<p>在一些快速城镇化的城乡结合地区，人口暴增，正规的消防部门没有顾得上，都会出现居民联合雇佣的消防队伍。传统上一直极少设立消防站的农村，也有类似的尝试，他们通常以联防队的名义组建。</p>
+<p>这也是国家所提倡的。2009年修订的《中华人民共和国消防法》中，规定：</p>
+<p>“乡镇人民政府应当根据当地经济发展和消防工作的需要，建立专职消防队、志愿消防队，承担火灾扑救工作”</p>
+<p>“村民委员会、居民委员会根据需要，建立志愿消防队等多种形式的消防组织”。</p>
+<p>2011年底，中国大陆共有乡镇专职消防队3546个、志愿消防队10637个，村级专职消防队678个、志愿消防队114764个，覆盖率分别为42.6%和17.0%。</p>
+<p>但这样的队伍培训难以保证，经费依赖分摊，非常不稳定，常有搭便车等问题。</p>
+<p>吉林公主岭市范家屯的一位民办消防队曾接受采访，说过：</p>
+<p>“以前别的村不交钱我们也击救火了，但交过钱的村民看不交钱也救火，第二年也不交了，我实在是担心以后再没人交钱，所以才没去。这几年我们已亏空十多万元，连油都加不起了，不是我们见死不救，实在是无能为力。”</p>
+<p>至于更加专业的领域，如电力、煤炭、石化等，其大型企业往往筹备了自己的消防队伍。他们的经费由地方政府和企业共同负担，如果企业业绩良好，其设备、待遇都明显高出地方消防。</p>
+<p>此外，中国还有另一只庞大的消防队伍，其人数甚至超过中国正式的消防官兵总数。</p>
+<p>这就是森林消防。在“森林防火，人人有责”的口号下，中国建立了覆盖全国的森林消防。目前，约有各类队伍15.3万支，约350万人。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/63d824f0317f53b13c56fe99d2695d93.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/63d824f0317f53b13c56fe99d2695d93.jpg" alt="63d824f0317f53b13c56fe99d2695d93" width="575" height=""></a><br><span><strong>▍全国森林消防队伍情况</strong></span></p>
+<p>然而，1998年“天保工程”（天然林保护工程）实施后，森林砍伐大幅下降，各地区森工系统普遍衰落，森林消防的经费首当其冲，普遍降低。其人员培训远远不如地方消防，专业程度同样很难相比。</p>
+<p>所以，中国的消防系统，就像被捆绑在了军队、地方政府、公安、森工等部门上，想要作出任何改进，都要跨越重重阻碍。因此，在可预见的将来，经验匮乏的年轻官兵，仍要在短时间的培训后，以相对落后的设备，去应对更加复杂的城市灾难。</p>
+<p>无论如何，这种对抗并不公平。</p>
+<p><strong>微信公号：大象工会 ID:idxgh2013<br></strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.jpg" alt="大象工会" width="275" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B9%E6%98%93%E7%89%BA%E7%89%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">行政干预</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%B7%A5%E7%81%BE%E5%AE%B3%E6%88%96%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">端传媒 | 吴强：中国化工灾害或引发政治危机</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/3f5b55114a754738b44da0a0a6cee61d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/3f5b55114a754738b44da0a0a6cee61d.jpg" alt="一名消防员在事发现场附近休息" width="550" height="365"></a><p>一名消防员在事发现场附近休息</p></div>
@@ -783,45 +861,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E5%A4%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%B9%B6%E4%B8%8D%E5%A4%A7%E7%9A%84%E6%B5%B7%EF%BC%9A%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E7%BF%BB%E5%A2%99%E6%9C%89%E5%A4%9A%E9%9A%BE-%E8%80%8C%E6%98%AF%E5%B7%B2/" target="cdt-mirror">翻墙 | 重要的不是翻墙有多难 而是已经没人想要翻墙</a>
-</h2>
-<p><div dir="ltr">今天，代理又坏了。我和几个朋友又打开微信群，开始讨论如果它就此死掉，下一步我们该换什么别的方法。</div>
-<p>最近几个月，这个只聊翻墙问题的群常常被顶在微信第一页。</p>
-<p>我现在在用的这个工具一个月60块钱。乍一看，这个数字不高。可如果你从好几年前就开始尝试翻墙，一步步的为这件事花越来越多的钱，就会觉得这个价格其实不低。更为重要的是，当现在我再和人们讨论起“我一个月花在翻墙上的钱有60块”时，绝大多数人的反应都是“WOW，那真是太贵了。”</p>
-<p>其实我特别能理解这件事，因为在大多数人眼里，翻墙本来就不应该花钱。</p>
-<p>早些年，翻墙确实不需要花钱，一个在线代理就搞定了，而且是纯免费的。那时候翻墙需求非常小，不仅是因为那年大家普遍知道的少，更因为那年需要翻墙的网站特别少。偶尔碰到一个打不开的，在线代理输一下地址，看两眼，关掉网页，就算完事了。而随着六七年来多的令人费解的网站一个又一个的变成了404，翻墙，才成了一件不得已而为之的事情。</p>
-<p>很多人一听到我抱怨付费的翻墙工具又不好用了，就存在感满满的跑来跟我说自己的免费VPN还很好用。对于这样的人，我历来连回复都懒得写。还在用VPN尤其是免费VPN的人，通常还处在翻墙最最基础的阶段，根本不足以谈论这件事。时至今日，你做许多许多事都要翻墙，甚至看个外国大学官网登登人家的博物馆都要翻墙，请问你每天要连线和断线VPN多少次呢？你耐得住那个烦吗？</p>
-<p>如果你承认你其实耐不过那个烦，也就罢了。可如果有人还不知好歹的说自己很耐烦，那才叫贻笑大方。事实上，正因为VPN这种翻墙方式实在太过繁琐和不便，才导致几年以来，常翻墙，愿翻墙，能翻墙，知道翻墙的人越来越少。如果你想不通为什么会这样，你应该了解这样一句话：不要尝试对抗自己的人性。</p>
-<p>今天当代理又坏掉而大家又围在一起吐槽时，我说了一句看上去特别傻逼的话，可这句话却很残酷的是对的。</p>
-<p>我说：当我们这群想翻墙愿意为翻墙花钱的人都在一次又一次面对人性中有关失败、挫折、无效努力和麻烦的考验时，全中国常态翻墙的网民可能已经只有总人数的千分之一了，甚至更低。</p>
-<p>这不是自以为是，也不是装逼，而是一句实话。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/310599-3c9a3c091d571ec1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/q/100" alt="" width="640" height="491"></p>
-<p>几年的时间足以改变许多的事情，时至今日，绝大多数网民都已经丢失了翻墙这种习惯。一来，他们中间有很多人根本不知道翻墙能带来什么好处。二来，国内互联网尤其是移动互联网的爆炸式发展，确实在很短的时间里就创造出了足以弥补那些该页无法访问们缺口的产品。哪怕，缺口可能只是用泥巴勉强给糊上的。</p>
-<p>每当我说出诸如“连我都……可想而知有多少人会……”的句式时，总会遭受到一些精英分子的白眼。原因是，这些尊贵的精英们地位之高，所拥有之多，根本不会使他们面对与我和我的同辈们一样的问题。可是，难道仅仅因为他们的世界里什么问题都没有发生，世界就一片太平了吗？</p>
-<p>我常常想起过去我曾经举过的例子。当我放言时常读书的人仅占总人口5%的论调时，那些常读书的知识分子往往对我百般冷嘲热讽。原因只因为，他们身边都是读书人。可是如果我们真正仔细的环顾周围乃至将目光努力放的更长远一些，就会发现读书在当今本来就是一些近乎奢侈的事情，更不要提常读书了。任何一个人都绝不能因为自己身边的读书人多，就尝试否认中国全民频繁阅读率很可能低于5%的事实。换句话说，14亿的5%，就是7000万读书人口了，你觉得中国的读书人口能有7000万吗？</p>
-<p>这件事上所反应出来的东西与如今几乎已无人翻墙的本质是一模一样的。如今，需要翻墙的网站是如此之多，翻墙工具是如此脆弱，国内各功能各用处的网站和App是如此之全，在这样的情况下，翻墙还对多少人是一件“必要”的事情？当你一次又一次的连接VPN还没搜完两个关键词VPN又自动断线时，你会不会就那样屈从于百度，并从此忘记了翻墙这件事？</p>
-<p>当真正常态化的翻墙已经几乎非付费而不行时，当每个月为翻墙所做的付费越来越高时，当付费的翻墙工具一个又一个的沦陷时，当人们和我谈起翻墙这件事，我还能乐观吗？</p>
-<p>而且别忘了，当我讨论这些问题的时候，我的讨论范围仅仅局限于那些尚存一丝“想”翻墙愿望的人，而这群人在总人口中又占多少呢，这一比例，难道不又比愿意读书的人低的多吗？</p>
-<p>每当我这样谈论起翻墙时，除了几天上那么几分钟的免费VPN党，就是一些高技术高门槛高平台的不以为然党，这帮人的论调，比免费VPN党更加荒唐。在他们眼里，只要学会了技术就没有这些问题了，只要进了名校／出了国／进了世界五百强或中国五百强就没有这些问题了。也许他们真的觉得站在那个高处是一件再正常不过的事情，可放言整个中华大地，又有几个人能有机会站在那样的高处？</p>
-<p>还有一些人，每当我谈论翻墙时就会跟我解释，翻墙是政策需要，是迫不得已，翻墙有很多复杂的目的，譬如是为了提高某些信息的获取门槛……说实话，早几年，我也相信过类似的说法，理解过我党我国的某些也许存在的苦心。毕竟我们这些斯德哥尔摩症候患者们，总会有那么一些不切实际的幻想。可这么多年看过来，这些幻想我早就全都没有了，原因在于，它们没有一个站得住脚。</p>
-<p>中国大陆地区限制访问的网站，已经远远超出了任何政策和法规限制的管理范畴，几乎任何一个境外网站哪怕只有一次表达了哪怕一丁点不合某类人眼的文字或图片，就会被无情的直接抹去，永无恢复之日，甚至大学资料库和艺术类网站也无法幸免于难。随着时间逐渐流去，我甚至已经丧失掉了最先很多网站被封时内心的那种诧异，因为我知道，即使想破脑袋也想不出来禁止访问原因的网站，一样会源源不断的列入GFW的无法访问名单。</p>
-<p>而这一切的发生，究竟原因何在呢？我们不知道原因，因为从来没有任何人凭借任何理论来向我们我们解释为什么会发生这些事情。我们所能听到的倒是一些类似于“XX属于中国内政，别国无权干涉”“中国依据相关法律法规管理互联网违法行为”“中国的互联网世界最自由”等的官方辞令。更为让人百思不得其解的是，都这么多年过去了，这么多东西被夺走了，这么多片地方一块又一块的沦陷了，而我们中的任何一个人都仍然不知道是什么部门的什么人在以什么样的居心背着我们所有人替我们做出了这些“最终决定”。</p>
-<p>翻墙工具呢？翻墙工具一个又一个的被追杀。最近两三年，我用的翻墙工具甚至几乎没人知道，而他们的用户量也无一例外少得可怜。使用它们都需要付费，付费是最有效的门槛，足以把相当多数人挡在门外，也足以“确保”用户的始终有限。可这几年来，这样的翻墙工具一个又一个的被端掉，而他们被端掉以后，甚至在网上掀不起什么涟漪。不是因为用过它们的人都没有感情，而是因为大家都不知道有过它们。</p>
-<p>当这些年这些事情一而再再而三的发生的时候，我内心已不再有任何幻想，因为我知道，幻想都来源于不了解，现在网上很多的论调，曾经的我几乎都有过，而且我的态度我的言辞，比他们还要激烈的多。可随着越长越大，知道的越来越多，我实际是很幸运的把很多问题都想得越来越清楚了。然而这种幸运并不是人人都有的，也不是人人都认为它是一种幸运，每当把一个问题想的更清楚，我就更确切的感觉到，在很多问题上拒绝人云亦云，叛逆偏激或者被洗脑，是一件有些孤独的事情。</p>
-<p>如果在过去时光的某一个瞬间，我因为阴差阳错而错过了那个促使我去不断研究翻墙新办法的理由，我会如何呢？我不愿去设想这样一种可能，因为这种可能的答案实在太过清晰，我身边到处都是答案。确实，我没有出身优越，也没有天赋异禀，我从小到大并未足够努力，使得我在某个年纪突然幡然醒悟之后开始努力之后，却仍然不能快速脱离我所处的境况。可事实也是，因为运气和许许多多原因导致意识不到这些事情的人，远比我之上意识的到这些事情的人多，而且多的多。</p>
-<p>早些年，我是一个“忧国忧民”的人——这就叫年轻。等过了一个年纪，我脑袋里早已不会常常有这些没有必要的想法。可每当我一次又一次不断面对这样的问题时我不免又想，这样的状况，会持续多少年呢，难道会永远持续下去吗？难道中国人真的自信自己的14亿人能够对抗剩下将近60亿人的智慧吗？不，我不认为是这样的，我相信终归有一天，今天发生的这些事情都会改变，世界各个地方的人会分享智慧、知识、观点和创造，而不是像现在这样，我要和他们产生交流都是那么的困难。可是，当那一天到来的时候，今天这一代从这样的环境里长大出来的人又该如何面对呢？</p>
-<p>这个国家，愿意将这个炸弹一般的问题埋下，等到十几年或几十年后再去解决吗？</p>
-<p>源地址：http://www.jianshu.com/p/8c643bd4c3f4</p>
-<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html" target="_blank" rel="nofollow">订阅地址及社交帐号</a></div>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
-<hr><p><small>© 亚克蜥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%B9%B6%E4%B8%8D%E5%A4%A7%E7%9A%84%E6%B5%B7%EF%BC%9A%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E7%BF%BB%E5%A2%99%E6%9C%89%E5%A4%9A%E9%9A%BE-%E8%80%8C%E6%98%AF%E5%B7%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -833,7 +872,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -843,5 +882,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>

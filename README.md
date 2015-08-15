@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E9%80%A0%E6%88%90%E7%9A%84%E6%8D%9F%E5%A4%B1%E6%9C%89%E5%A4%9A%E5%A4%A7/" target="cdt-mirror">BBC｜天津爆炸：造成的损失有多大</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibicM3Ppthlh4KmGcJJBhaicXo70hX6YJbBZLR5gP9h3E2ibo8auhx9S37Q_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibicM3Ppthlh4KmGcJJBhaicXo70hX6YJbBZLR5gP9h3E2ibo8auhx9S37Q_0?wx_fmt=jpeg" width="550" height="366"></p>
+<p>天津爆炸造成的损失，远不止附近堆场被烧毁的汽车。</p>
+<p>发生在中国北方重镇天津的滨海新区大爆炸已过去两天，虽然目前还没有正式统计的全面损失数据，但从各方反应来看，遭受损失的群体已逐渐清楚。</p>
+<p>最大的损失应该是逝去的生命。</p>
+<p>据中国官方周五上午的最新通报数据，遇难人数已升至55人。此前，新华社报道透露，丧生者中包括17名消防员。</p>
+<p>在中国社交媒体上引发巨大争议的漫画“逆火而行”已有超过80多万转发量。</p>
+<p>中国消防部门周四公布了6名死亡消防员名单，其中最年轻的一名战士生于1997年，去年9月入伍。消防人员的巨大伤亡，已在中国社交媒体上引发了激烈争论，争论的焦点是中国消防员兵役制度和美国等国消防员终身专业制度之间的区别。</p>
+<p>除了遇难者之外，还有701人因受伤需住院治疗，其中重症伤员71人。目前有数十人无法取得联系。虽然还没有官方公布的每位遇难人员信息，但从目前公布的情况看出死伤群体的主要来源：消防员、仓库区域的工作人员以及附近居民。</p>
+<p>被严重损毁的周边建筑本不应出现在危化品仓库周围。</p>
+<p>爆炸点周围建筑损失严重。</p>
+<p>综合各家媒体报道，目前事故周围已有清水蓝湾、金域蓝湾、汇锦苑、海港城、启航家园、天滨公寓等多个小区遭受不同程度损失。</p>
+<p>天津滨海新区区长张勇在第一场新闻发布会上透露，13日晚间将完成转移安置6000人。除了居民点之外，事故发生地周围还有港务局等办公大楼。</p>
+<p>据中国媒体报道，天津滨海危险品仓库爆炸时，烈焰吞噬了周边的一切，强大的冲击波横扫半径3公里的区域，大多数房屋遭受了门窗脱落等不同程度的损失。根据地图显示，距离爆炸地点3公里的范围内，分布了至少11处住宅及公寓小区，其中至少有3处距离事发地点不足一公里。</p>
+<p>周边居民和房屋损失同样引发了争议。中国相关法规规定，大中型危险化学品仓库应与周围公共建筑物、交通干线（公路、铁路、水路）、工矿企业等距离至少保持1000米。业界人士质询：为何危险品仓储区边会有为数不少的居民区？为何多家品牌房企会扎堆在滨海仓储区开发？</p>
+<p>不应该出现在危化品仓库周围的还有市政工程，但不幸的是一条高速公路和一条轻轨线也在这次事故中受损。</p>
+<p>距离事故现场约50米的海滨高速桥梁受到影响，距离爆炸现场不足1公里的津滨轻轨东海路站被震毁。连带影响是，河北部分高速站口关闭，高峰期每小时运量达到3万人的津滨轻轨停运。</p>
+<p>事故导致数千辆汽车瞬间被焚毁。</p>
+<p>最显著的财产损失来自事故发生地附近一个堆场里存放的大量汽车。</p>
+<p>BBC中文网驻韩国记者杨虔豪称，根据韩国现代集团透露的数据，已有3950辆现代汽车和2175辆起亚汽车受到爆炸波及，初步损失可能达到1600亿韩元（约合8.64亿人民币）。</p>
+<p>东风雷诺汽车有限公司也发布声明称，雷诺有近1500辆车因过火导致受损。如果按照这款汽车起售价20.28万元估算，这批车辆的价值损失超过3亿元。</p>
+<p>社交媒体上称，受损的大众进口车超过2000辆。大众进口车发布声明称，有部分大众进口汽车的产品在此次事件中受损，主要集中在距离爆炸地点较近的其中一个仓库中。但具体数字还有待核实。</p>
+<p>可能遭受损失的还有捷豹路虎。</p>
+<p>事发地天津港是中国重要的整车进口口岸，年滚装汽车吞吐量2014年达到103.5万辆。</p>
+<p>受爆炸影响，年吞吐量高达5亿吨的天津港大宗货物运输受影响，目前已确定的通过天津港输入铁矿石和石油的国际公司，包括必合必拓和力拓。</p>
+<p>受到此次事故的直接影响，离天津只有100公里左右的北京立刻宣布停产易爆品。北京政府决定，8月17日至9月6日，市内剧毒化学品和易制爆危险化学品生产、经营单位暂停生产经营活动，对化学品实行封库储存。相关市场主体受到的影响，目前还很难估算。</p>
+<p>生态损失还很难估算，但社会影响已很明显。</p>
+<p>天津爆炸带来的生态损失最难估算。到目前为止，爆炸物和爆炸原因仍未解开。由于涉及周边居民人数众多，爆炸带来的社会影响已十分巨大。</p>
+<p>天津市政府在周五（14日）的新闻发布会上称，已封闭入海排污口，确保事故废水不会入海；封闭事故区域内管道口封堵，将废水暂存在事故区域；事故区域已增加污染处理装置防止污染物浓度增加，同时投活性炭增加生化处理能力，并临时增加处理系统确保废水处理达标。</p>
+<p>南开大学的一名环境专家在新闻发布会上也表示，17个应急监测点发现了浓度较高的有毒气体。同时，由于不能准确判断事故现场的排放物，污染气体的种类还有可能增加。</p>
+<p>中国中央电视台官方微博8月14日称：爆炸发生后，“事故区域被封堵两个排放口内地下管道检出COD（化学需氧量）、氰化物分别超标3到8倍，但它们目前都未进入周边环境造成污染。”</p>
+<p>关键词: 天津 大爆炸 损失 栏目: 时事见解 首页重点发表: Flash 热门话题追踪: 天津大爆炸 作者: 川江</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E9%80%A0%E6%88%90%E7%9A%84%E6%8D%9F%E5%A4%B1%E6%9C%89%E5%A4%9A%E5%A4%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%B0%91%E6%9B%BE%E6%B8%B8%E8%A1%8C%E6%8A%97%E8%AE%AE-%E4%BD%86%E5%AE%83%E8%BF%98%E6%98%AF%E7%88%86%E7%82%B8%E4%BA%86/" target="cdt-mirror">东方日报｜天津市民曾游行抗议 但它还是爆炸了</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B10MALE700AP0001.jpg" alt="B10MALE700AP0001" width="600" height="800"></p>
@@ -855,30 +898,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF9%E6%9C%883%E6%97%A5/" target="cdt-mirror">东网｜吳戈：為什麼是9月3日</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150813000312117-0813_05411_001_01p.jpg" alt="bkncn-20150813000312117-0813_05411_001_01p" width="551" height="393"><br>
-尽管抗戰在中國影視文藝領域早已成熱點，但以片面歌功頌德使它們喪失了基本的嚴肅性。</p>
-<p>即使你再不關心時事，全國放假和北京長達半個月的交通管制也會讓你知道9月3日政府要做什麼，更別說從一年前就開始預熱，北京郊區為閱兵仿造了天安門城樓。</p>
-<p>然而這次活動到底在紀念什麼，估計很多人還是答不準確。因為9月3日的「抗戰勝利紀念日」身份源自1946年4月中國國民黨中常會的決議，1949年底新政權政務院的相關規定先確定了「八一五抗戰勝利紀念日」，1951年改為9月3日，經過長期政治運動的荒廢，1999年又由國務院重申，但作為法定節假日由立法機關規定的程序2014年初才完成。</p>
-<p>這也與中國抗戰勝利的歷史過程有關，日本天皇公布投降詔書是1945年8月15日，但盟軍正式受降是在9月2日，因而中國國民政府以次日為勝利紀念日，但中國戰區正式受降則是9月9日。</p>
-<p>因此，作為一個人為確定的紀念日，9月3日對習慣了紀念歷史事件發生日的中國社會有些陌生。</p>
-<p>同時，不同的歷史時期，官方也需要強調不同的紀念角度。比如很長時期內，中國大陸習慣紀念「七七事變」，因為這不光日本全面侵華，中國全面抗戰的開始，也是共產黨在抗戰中得以大展宏圖的契機，同樣是1937年的淞滬會戰就近年才更多引起關注；1985年南京大屠殺紀念館建成，這一雖發生在國統區，但對提醒當代青年不忘侵略軍罪行非常重要的事件受到高度重視，到2014年更以設立國家公祭日達到頂峰；90年代初，「不忘國恥」、「落後這要挨打」的觀念勃興，「九一八」被濃墨重彩；</p>
-<p>而今，紀念9月3日倒並不為拉近兩岸關係，志得意滿的中國總不能老紀念被打被殺，而急需強調偉大功績，同時以戰勝國資歷刺激對外鬥爭的信心。</p>
-<p>然而，僅僅是9月2日日本投降儀式在東京灣的美國「密蘇里」號戰列艦上舉行，受降者有諸多盟國代表這一事實，就意味著我們紀念的不可能只是一場在自己國土上從被侵略到轉敗為勝的戰爭。中國近年對日本在歷史問題上的不斷批評，也總是引用《波茨坦公告》和《雅爾塔會議》所確立的戰後世界格局。今天中國在聯合國安理會的常任理事國席位也是來自這一過程。</p>
-<p>因而，歷史早已注定中國不可能閉門紀念抗戰。這正是9月3日的國家級活動正式名稱為「紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利70周年」的原因。可惜的是，儘管抗戰在中國影視文藝領域也早已成為熱點，但以片面歌功頌德使它們喪失了基本的嚴肅性。其實，隨著國內抗戰史研究，特別是民間關注度和參與度的活躍，圍繞抗戰史實引發一連串爭論，說明國人自有公論：對抗戰與二戰都持投機取巧的利用態度實不可取。</p>
-<p>然而，需求是如此旺盛，被侵略的記憶早已長期被當作感激執政黨功績的重要前提加以強調，而以高調紀念抗戰強化國家當前外患大於內憂，以軍事對抗轉移國內矛盾，無不是急迫需要，甚至不惜這樣的抗戰敘事造成中美和兩岸關係齟齬不斷，也不惜在對日對美關係中損失更大利益。</p>
-<p>這才有了國人抗戰史常識認知的慘不忍睹。比如人民網一篇寫江蘇某抗戰老兵的文章說「日軍屍首上有勛章，上面清晰地印著『偽滿洲國』四個字」；在大陸的原國軍抗戰老兵凡參加過內戰的就不給補助，而官媒大張旗鼓宣傳的在公交車上登廣告尋戰友的所謂國軍抗戰老兵，卻是1945年末才參加的國軍。</p>
-<p>各家大媒在夾縫中完成的抗戰紀念，有的不乏對歷史的去偽存真，但更多的卻體現出一種為生存而裝瘋賣傻的精明。比如對評述一個淞滬會戰，主題竟是「三萬國軍不敵一萬日軍」，而答案不過是日軍有艦炮轟擊；對國軍對「出雲」號的攻擊，焦點又放在炸彈炸中平民上；最後只以國軍戰車孤軍出擊，戰士致死仍握著手榴彈一點煽情結尾。而一到共軍的戰績，自然又小宇宙爆發。</p>
-<p>國內普遍的視野狹隘帶來的局限，在現實中同樣有直接的後果——海峽兩岸仍未能攜手紀念抗戰；俄羅斯這個最後幾天才參戰的伙伴驚人地高調，而太平洋戰爭的一些主角卻缺席中國的慶典；中國期待羞辱日本，日本卻以美日同盟不斷強化的現實泰然自若。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF9%E6%9C%883%E6%97%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -890,7 +909,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dc1ou9lrqt43q.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dul6j283z2b1w.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -900,5 +919,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

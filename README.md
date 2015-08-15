@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E9%80%A0%E6%88%90%E7%9A%84%E6%8D%9F%E5%A4%B1%E6%9C%89%E5%A4%9A%E5%A4%A7/" target="cdt-mirror">BBC｜天津爆炸：造成的损失有多大</a>
@@ -65,7 +65,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%B0%91%E6%9B%BE%E6%B8%B8%E8%A1%8C%E6%8A%97%E8%AE%AE-%E4%BD%86%E5%AE%83%E8%BF%98%E6%98%AF%E7%88%86%E7%82%B8%E4%BA%86/" target="cdt-mirror">东方日报｜天津市民曾游行抗议 但它还是爆炸了</a>
 </h2>
@@ -97,7 +97,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E9%A3%9E%E6%8E%A0%E5%BD%B1%EF%BC%9A%E6%88%91%E5%AF%B9%E5%A4%A9%E6%B4%A5%E5%8C%96%E5%AD%A6%E5%93%81%E7%88%86%E7%82%B8%E7%9A%84%E8%AF%B4%E6%B3%95%E5%92%8C%E4%B8%80%E4%BA%9B%E4%B8%93%E4%B8%9A/" target="cdt-mirror">风飞掠影：我对天津化学品爆炸的说法和一些专业故事</a>
 </h2>
@@ -919,5 +919,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
                 <td></td>
                 
         
-        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/></td>    </tr>
 </table>

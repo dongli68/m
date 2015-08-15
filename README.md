@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%B0%91%E6%9B%BE%E6%B8%B8%E8%A1%8C%E6%8A%97%E8%AE%AE-%E4%BD%86%E5%AE%83%E8%BF%98%E6%98%AF%E7%88%86%E7%82%B8%E4%BA%86/" target="cdt-mirror">东方日报｜天津市民曾游行抗议 但它还是爆炸了</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B10MALE700AP0001.jpg" alt="B10MALE700AP0001" width="600" height="800"></p>
+<p>人命比任何事都重要，涉及人命的悲剧，各方都会追究和查明，故天津大爆炸，任何人都不能阻止责任的追究。对于有人抱着「捉错处」的心态，暗示当局封锁消息；坦白说，以今天的资讯流通，可以隐瞒的机会有几大？如果有人真的想隐瞒，就是大错特错的「帮倒忙」。而且，一宗涉及五十七条人命（截至收笔前的数字）的悲剧，要轻描澹写，难了！</p>
+<p>在这个仍然危急的时刻，如有人想「封闭消息」也难！反而，另有网民重提早在几年前，就已经有天津的居民发起游行，反对兴建化学品仓，这是政府需要关注的，特别是仓库跟稠密的民居相距甚近，确实需要听取民意。因为，在一个社会，大部分的人民都是只求简简单单、平稳地生活，为甚么要走出来反对？就是见到有机会影响自己及家人的安全。当高高在上的官员，走出来「保证」仓库如何如何安全，而市民不信任的时候，就证明问题已经存在，政府跟市民的互信存在隔膜。</p>
+<p>今天，这宗悲剧，证明了市民当日是正确的，一个化学危险品仓，居然可引发一次二点九级地震的爆炸，这就足以证明所谓的管理出了问题、所谓的规例是未够严谨、所谓的监察是严重不足、所谓的安全是自欺欺人。</p>
+<p>国家的强大，不是单靠财经、军事来支持，在二○一○年的智利矿难中，智利政府动员最多的人力物力和决心，不惜一切地拯救国家每一个人民，视每一个国民的生命为重中之重。这种国民的向心力、国家的凝聚力，是经济发展买不来、军备竞赛争不来、生产总值制造不来的！</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%B0%91%E6%9B%BE%E6%B8%B8%E8%A1%8C%E6%8A%97%E8%AE%AE-%E4%BD%86%E5%AE%83%E8%BF%98%E6%98%AF%E7%88%86%E7%82%B8%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%96%B0%E7%9A%84%E6%81%90%E6%85%8C%EF%BC%9A%E5%A4%A7%E7%88%86%E7%82%B8%E6%AF%92%E7%83%9F%E5%90%91%E6%B8%A4%E6%B5%B7%E5%B1%B1%E4%B8%9C%E6%89%A9%E6%95%A3/" target="cdt-mirror">苹果日报｜新的恐慌：大爆炸毒烟向渤海山东扩散</a>
+</h2>
+<p><p>天津大爆炸或造成严重污染！环保组织绿色和平发声明，指担忧某些化学品泄漏会威胁天津市民健康，呼吁当局密切监测、彻底交代爆炸原因及哪些化学品泄漏。另一方面，有外国卫星昨拍摄到爆炸烟团扩散到渤海上空，正向山东扩散，但对本港应影响不大。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/532918048ae918f83ec1e6af7d6103e6.jpg" alt="532918048ae918f83ec1e6af7d6103e6" width="499" height="296"></p>
+<p>前日下午的官方记者会上，天津环保局长温武瑞曾透露，事发后他们曾于爆炸点附近设置17个空气监测点，以及五个废水监测点，初步测出事故现场的有毒物主要有甲苯、可致癌的哥罗芳和环氧乙烷。官方于昨早召开的记者会则表示，市内平日一向有监测的空气污染物都已回复正常水平，但仍未能确定现场仓库危险化学品的种类和数量，现场还有未爆炸的化学品，当局会继续检测。绿色和平东亚办公室代表则指，平常的空气监测只测量PM2.5粒子、PM10粒子、一氧化碳、二氧化硫、二氧化碳和臭氧共六种物质，但爆炸涉及的化学物质，目前的机制无法反映，因此未能知晓当地空气污染程度如何，也难判断是否足够。此外，代表又指爆炸揭露内地监管化学品的漏洞、危险化学品讯息封闭并缺少公众参与，也令消防员缺乏现场化学品资讯而造成重大伤亡。</p>
+<p>浓烟不断　弥漫刺鼻气味</p>
+<p>爆炸发生至昨日，事发现场仍可见浓烟不停冒起，空气中弥漫刺鼻气味。封锁范围一带执勤的警员，却竟未佩戴防护装备，甚至也不见他们戴上口罩。相反，离事发现场较远的灾民临时庇护中心外，很多武警和市民均戴上口罩。有居民指，担心市内空气受污染，更有父母表示打算带子女离开天津暂避。此外，有内地记者在爆炸点外100米的高速桥底下，发现一滩黑色疑似危化品残留物，向其灌水会冒气泡并发出声响，随后更会燃起火苗，冒出白烟，火屑四溅，并伴有爆炸声，跟大爆炸反应相似。据悉消防员发现多处有相似的残留物，推测是爆炸时抛洒出来的，他们已用沙土掩埋。</p>
+<p>另外，现场区域存放了约700吨氰化钠（俗称山埃）。当局指地下管道检出COD（化学需氧量，此处数值越大代表有害物质越多）超标3倍、氰化物超标8倍。当地天气预报指这几日可能会下雨，对于有指山埃会透过泥土进入水源造成污染，当局没详细说明如何有效阻止，只说现场完全封锁，所有溶解性化学物质都会留在现场，目前周边环境未受污染。现时他们只是封堵地下管道的排放口，而内里储下来的污水，将用水泵抽进污水处理厂处理。</p>
+<p>美国卫星terra和aqua，以及日本卫星Himawari-8，连日对天津一带上空拍摄彩色图像，显示爆炸后产生的黑烟团吹向渤海，现时正向山东半岛方向扩散。有澳洲专家指因这次爆炸力量巨大，污染颗粒从风向相反方向推送。另外有本港学者指，爆炸中产生的有害物质对约二千公里外的香港影响不大，但担心爆炸会对天津及附近一带造成污染，影响或长达数年。而本港环保署也指本地空气质素目前未发现异常。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%96%B0%E7%9A%84%E6%81%90%E6%85%8C%EF%BC%9A%E5%A4%A7%E7%88%86%E7%82%B8%E6%AF%92%E7%83%9F%E5%90%91%E6%B8%A4%E6%B5%B7%E5%B1%B1%E4%B8%9C%E6%89%A9%E6%95%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E9%A3%9E%E6%8E%A0%E5%BD%B1%EF%BC%9A%E6%88%91%E5%AF%B9%E5%A4%A9%E6%B4%A5%E5%8C%96%E5%AD%A6%E5%93%81%E7%88%86%E7%82%B8%E7%9A%84%E8%AF%B4%E6%B3%95%E5%92%8C%E4%B8%80%E4%BA%9B%E4%B8%93%E4%B8%9A/" target="cdt-mirror">风飞掠影：我对天津化学品爆炸的说法和一些专业故事</a>
 </h2>
 <p><p>一天前夜里的几声巨响把天津变成了热门词汇，网络上的祈福，默哀，致敬，自保技巧硬生生的把这世界级的骇人事件变得更像说资，事件过后当事人受到的伤害一点也没有减少，幸存者承受的却是残酷的 “自我认识和自我提高”，该负责的，该反省的，就这样潜移默化的自行解散了。</p>
@@ -847,54 +879,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/" target="cdt-mirror">【立此存照】别让老外帮中国人报道啊！（更正）</a>
-</h2>
-<p><p>【CNN更正说明】：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-12-at-11.07.50-PM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-12-at-11.07.50-PM.png" alt="Screen Shot 2015-08-12 at 11.07.50 PM" width="550" height=""></a></p>
-<blockquote><p><a href="https://twitter.com/CNN/status/631683570810114052">@CNN</a>：Correction: CNN Correspondent interrupted in a live report by upset friends and relatives of victims killed and injured in the China blasts.<br>
-更正：打断CNN记者直播的是爆炸遇难者亲友。</p></blockquote>
-<p>【更新】：</p>
-<blockquote><p>@花总丢了金箍棒：未经许可盗转，十分钟后删。事实就是事实，不管你喜不喜欢。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/8d79b6b1gw1ev0xi3krm9j20gh0m8ac4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/8d79b6b1gw1ev0xi3krm9j20gh0m8ac4.jpg" alt="8d79b6b1gw1ev0xi3krm9j20gh0m8ac4" width="375" height=""></a></p></blockquote>
-<p>________________________________________________</p>
-<p><a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a>发生后的第二天早晨，CNN记者<a href="http://www.cnn.com/profiles/will-ripley">Will Ripley</a>在天津某医院外与电视台进行连线报道过程中，突然有人高喊“别让老外帮中国人报道啊！”。随后有数位男性上前围住Will Ripley和摄像师，其中有人大喊“we’re so sad OK?”（我们很悲伤的好吗？），一番混乱后直播画面成了黑屏。这些上前围攻CNN记者的人中有穿着制服的疑似工作人员，也有一部分是身着便装的人士。</p>
-<p>直播连线被切断后，CNN节目主持人<a href="http://www.cnn.com/profiles/michael-holmes-profile">Michael Holmes</a>无奈地说：</p>
-<blockquote><p>悲哀的是，类似我台驻中国记者就此类事件进行报道时遭到保安人员阻挠的事情并不是第一次发生。就像你们刚才看到的，这类事情多年来已经发生很多次了。</p></blockquote>
-<p>以下为视频截图：</p>
-<p><strong>CNN记者及摄像师遭到围攻：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%811.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%811.png" alt="歪果仁1" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%812.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%812.png" alt="歪果仁2" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%813.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%813.png" alt="歪果仁3" width="550" height="304"></a></p>
-<p><strong>一番混乱后：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%814.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%814.png" alt="歪果仁4" width="550" height=""></a></p>
-<p><strong>直播画面进入黑屏：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%815.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%815.png" alt="歪果仁5" width="550" height=""></a></p>
-<p><em><a href="http://www.cnn.com/videos/world/2015/08/12/china-explosion-hospital-ripley.cnn">原始视频链接</a>：</em><br></p>
-<p><em>截至发稿时尚有效的<a href="http://video.weibo.com/show?fid=1034:0d72273719766e4dc8501f10394b0791">墙内视频链接</a></em></p>
-<p><strong>附：<a href="http://www.ettoday.net/news/20150813/549146.htm#ixzz3ievSkEiO">东森新闻｜CNN記者播報天津爆炸  激動民眾圍攻：不要老外報導！</a></strong></p>
-<blockquote><p>《CNN》記者雷普利（Will Ripley）今晨在天津市某家醫院外，與美國連線直播，報導昨晚發生的大爆炸意外，但在連線進行到近1分40秒時，一名民眾突然嗆聲「不要老外幫中國人報導！」隨後一群人就朝著雷普利一擁而上，要求「stop record！」（停止錄影！）迫使直播中斷。美國棚內的主播只能嚴肅地說，這已經不是第一次記者在中國大陸報導時被民眾阻撓打斷。</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/" target="cdt-mirror">【立此存照】别让老外帮中国人报道啊！</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a>发生后的第二天早晨，CNN记者<a href="http://www.cnn.com/profiles/will-ripley">Will Ripley</a>在天津某医院外与电视台进行连线报道过程中，突然有人高喊“别让老外帮中国人报道啊！”。随后有数位男性上前围住Will Ripley和摄像师，其中有人大喊“we’re so sad OK?”（我们很悲伤的好吗？），一番混乱后直播画面成了黑屏。这些上前围攻CNN记者的人中有穿着制服的疑似工作人员，也有一部分是身着便装的人士。</p>
-<p>直播连线被切断后，CNN节目主持人<a href="http://www.cnn.com/profiles/michael-holmes-profile">Michael Holmes</a>无奈地说：</p>
-<blockquote><p>悲哀的是，类似我台驻中国记者就此类事件进行报道时遭到保安人员阻挠的事情并不是第一次发生。就像你们刚才看到的，这类事情多年来已经发生很多次了。</p></blockquote>
-<p>以下为视频截图：</p>
-<p><strong>CNN记者及摄像师遭到围攻：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%811.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%811.png" alt="歪果仁1" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%812.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%812.png" alt="歪果仁2" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%813.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%813.png" alt="歪果仁3" width="550" height="304"></a></p>
-<p><strong>一番混乱后：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%814.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%814.png" alt="歪果仁4" width="550" height=""></a></p>
-<p><strong>直播画面进入黑屏：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%815.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AD%AA%E6%9E%9C%E4%BB%815.png" alt="歪果仁5" width="550" height=""></a></p>
-<p><em><a href="http://www.cnn.com/videos/world/2015/08/12/china-explosion-hospital-ripley.cnn">原始视频链接</a>：</em><br></p>
-<p><em>截至发稿时尚有效的<a href="http://video.weibo.com/show?fid=1034:0d72273719766e4dc8501f10394b0791">墙内视频链接</a></em></p>
-<p><strong>附：<a href="http://www.ettoday.net/news/20150813/549146.htm#ixzz3ievSkEiO">东森新闻｜CNN記者播報天津爆炸  激動民眾圍攻：不要老外報導！</a></strong></p>
-<blockquote><p>《CNN》記者雷普利（Will Ripley）今晨在天津市某家醫院外，與美國連線直播，報導昨晚發生的大爆炸意外，但在連線進行到近1分40秒時，一名民眾突然嗆聲「不要老外幫中國人報導！」隨後一群人就朝著雷普利一擁而上，要求「stop record！」（停止錄影！）迫使直播中斷。美國棚內的主播只能嚴肅地說，這已經不是第一次記者在中國大陸報導時被民眾阻撓打斷。</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -906,7 +890,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -916,5 +900,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
 </table>

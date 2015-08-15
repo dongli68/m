@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8A%E5%AE%98%E4%B9%B1%EF%BD%9C%E5%8F%B0%E6%B9%BE%EF%BC%9A%E5%A8%81%E6%9D%83%E6%97%B6%E4%BB%A3%E7%9F%BF%E9%9A%BE%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%B0%91%E9%97%B4%E8%BF%90%E5%8A%A8%E5%92%8C%E5%AA%92/" target="cdt-mirror">上官乱｜台湾：威权时代矿难带来的民间运动和媒体裂变</a>
+</h2>
+<p><p><em>作者：上官乱</em><br><em> 微信号：上官乱弹琴／ID: CDshangguanluan</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6404.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6404.jpg" alt="640" width="550" height=""></a></p>
+<p>现在在台湾，有一个著名的景点，叫猴垌猫村。这里曾经是废弃的煤矿，游客和滚圆的流浪们互动的时候，依然可以看见住在那里的十几户旷工人家，屋舍简陋，衣服晾在屋檐下，堂屋里堆着刚刚收来的青菜。沿着猫村旁曾经的煤矿专线——著名的平溪线——一直往下走，你常常可以看见这些废弃的煤矿。在侯孝贤的《恋恋风尘》里，一开篇便是这条铁路，故事主角的父亲也在煤矿里上班。这些煤矿大多是从80年代开始废弃的，尤其是在1984年的海山矿难之后。对了，《恋恋风尘》里，主角的父亲也遭遇了矿难。</p>
+<p>海山煤矿位于台湾台北县土城乡（今新北市土城区），是台湾仅次于瑞三煤矿的第二大矿。海山煤矿灾变发生于1984年6月20日，是同年台湾的三次巨大煤矿灾变之一（土城海山煤矿、三峡海山一坑、瑞芳 煤山煤矿）。1984年6月20日，海山煤矿里，由于台车第7车和第8车的插销没有插好，造成台车滑落，又因为撞击到高压电，引发的火花和漫布在空气中的煤粉接触，引发爆炸。未在撞击过程中丧命的矿工，也因为空气中布满了一氧化碳而丧命。该次灾变共造成72死，大多是阿美族矿工。</p>
+<p>海山矿难之后，郑智化以此为素材创作了一首歌，叫《老么的故事》，歌词非常写实：</p>
+<blockquote><p>“谁说宠坏的孩子不哭<br>
+就在悲剧发生的那一瞬间<br>
+泪水呐喊换不回<br>
+阿爸在淹没的矿坑里面”</p></blockquote>
+<p>但是在当时的媒体上，并没有这么写实，在当时的新闻里，我们仍然能够看见熟悉的官方腔调，比如《行政院长关切煤矿灾难》。也有反思与问责：《台湾煤矿还有开采的价值吗？》。看起来他们不仅在反思矿难，还直接追问煤矿业的存在根本。要知道，这个时候台湾还没有开放报禁。但是必须看到，这种反思已经有市场条件和官方意志做前提：当时由于开采成本日益提高且进口煤的价格甚比台湾本土的煤价还要低廉(贵上15%)，之前便开始有了主张停止开采的建言出现。于是，从这年开始，台湾煤矿大量关停，至今台湾煤矿业彻底成为历史。</p>
+<p>1950年，二二八事变以后的国民党政府在台湾实行了“限证、限张、限价、限印、限纸”五禁，是为报禁，但是并没有限制民间办报，1960年经济腾飞后，言论开始宽松，70年代末到80年代中期，台湾的民营报纸开始猛增，这也为后来国民党解严和开放报禁提供了言论基础，而1984年正是言论将开未开的时候。</p>
+<p>《老么的故事》里还唱到：“坑里的宝藏不再有，为何我们不搬走，沉淀的激动，醉人的酒，阿爸的嘴角喃喃地说，这里才有老朋友”，呈现的就是这样一个事实：矿业已经走到了尽头，但是这些挖矿的工人却无处安置，未来无处可寻。——灾变后，并不是所有问题的结束，反而是新问题的开始。矿工及其眷属们，一开始遇到的是封矿之后居住及何去何从的问题。海山煤矿封矿后，公司也曾积极赶人。据载，海山公司在1983年向法院申请强制迁移。封矿后，海山煤矿公司不淮留下来的翻修房子、不淮加盖，想藉此逼走工人。很多原住民矿工因此迁徙，其中一部分迁徙至大汉溪河滩高地，自力造屋维生，遂形成一个都市边缘的原住民部落——现在著名的三莺部落。这些回不去家乡的稻田，挖矿技能又再不能施展，进城务工又遭歧视的原住民工人，开始以打零工、种菜维生，老迈的族人大部分原为海山矿坑的原住民劳动者。 即使这样，他们仍然被学校、工作乃至于社会，所受到来自汉族各式各样种族歧视及差别待遇，政府也一直想强力取缔。</p>
+<p>自1994到1996年间，台北县政府（现已升格为新北市）进行强制拆除， 多达4次以上。但高压迫迁政策无法解决族人的居住、营生问题，就像关闭煤矿后并不能安置煤矿工人一样，于是原住民们在多次拆除后，即又协力分工原地重建。</p>
+<p>2002年，台北市规划兴建“三峡隆恩埔段原住民短期安置所”（又称三峡原住民文化部落）案，兴建原住民国宅。2007年10月完工，完工之三莺桥下有23户迁入，9户拒绝。而新店溪旁的溪洲部落只有2户入住隆恩埔国宅，40户拒绝入，并积极争取就地安家。原住民权益促进会认为，此类社会住宅的思维，忽略住宅衍生的心理与社会需求， 忽视部落居民经由“归属”与“认同”而发展的社区意识。</p>
+<p>于是，2008年，外围社运人士积极协助与加入抗争，三莺部落成立自救会与政府协商，并积极呼吁社会团体声援弱势，扩大动员网络，直到现在，仍然是原住民权益运动的样本。</p>
+<p>在郑智化的《老么的故事》唱响的同时，还有一首影响力更大的歌，叫《为什么》。</p>
+<blockquote><p>“为什么　这么多的人　离开碧绿的田园　飘荡在都市的边缘<br>
+为什么　这么多的人　涌进昏暗的矿坑　呼吸着汗水和污气<br>
+轰然　的巨响　堵住了所有的路　汹涌的瓦斯<br>
+充满了整个民族的胸膛　为什么啊　为什么<br>
+走不回自己踏出的路　找不到留在家乡的门”</p></blockquote>
+<p>唱作的人是一个卑南族，他的名字叫胡德夫，大家熟知的那个人。70年代末开始，胡德夫因为唱原住民自己的歌有了点名气，开始让台北人开始以好奇的眼光注意到这群“都市山胞”，却只注意到他们的音乐和习俗，并不知道他们的愤怒在哪里。他们的愤怒与悲伤，如《美丽的稻穗》歌唱的一般，从自己的土地上，被强拉到战场，去打一场场和他们毫无关系的仗，田园荒芜，他们却血流成河。仗打完后，他们又被迫学国语，经常有老师因为使用汉语错误被警备总部带走，再也没回来。台湾经济腾飞后，他们涌入城市，却因为语言不通和现代工业技能的缺乏，只能做矿工这种高收入却高风险的工作。海山矿难里，有74位矿工慘遭活埋，其中有38位是原住民，原住民占全台湾的总人口还不到2%啊。</p>
+<p>胡德夫在得知消息的第一时间就赶往海山矿难现场，在土城永宁巷，扛出一具具阿美族人的尸体，三天没洗澡。1982年，他就参加了党外编联会，他知道台湾的历史即将改变了，民主即将慢慢到来了，可是，这场轰轰烈烈的民主运动里却好像没有少数民族的位置——整个编联会只有他一个原住民。而矿难中牺牲的却那么多原住民。当然还有很多运好命大原住民没有牺牲，但是，他们却普遍都面临着同工不同酬、赔偿低、安全和健康保障低人一等的处境。更悲哀的是，在当时的言论管制下，媒体的焦点并不在原住民的惨烈牺牲上，而是重点报道一个叫周宗鲁的幸存者。媒体不停渲染他为了生存下去不得不喝尿和生吃死人肉的事迹，以感叹生命的珍贵和不易，因此直到现在，很多台湾人对那场矿难的记忆都是“喝尿”“生吃人肉”。于是，就在矿难发生的几个月后，他和一群原住民发起了前文提到的“原住民族权益促进会”。</p>
+<p>海山矿难还促成了台湾第一部社运纪录片。</p>
+<p>很多人认为，台湾的社运纪录片是从1984年7月，王智章拍摄海山煤矿灾变受难矿工的录影带算起，这算是台湾农工运、环保、原住民运动纪录的滥觞，也是在戒严时期一个知识青年勇敢的反叛姿态。</p>
+<p>海山矿难后，大众媒体仍为政府管控，灾难发生后，媒体也口径一致，对外宣传说所有工人都获得妥善安置与丰厚抚恤，报纸媒体都没有进入医院采访，就写到“病人情况正逐渐康复”，时任《前进》杂志社编辑的王智章和郑文堂扛着摄像机走入医院，亲自访问矿工家属，拍摄制作有别于官方版本的海山矿难报道。在采访过程中，他们发现灾情非常惨重，不但傷者尚未康復，也沒有拿到應有的撫恤金。后来在记者会上，他们播放自己剪接的纪录片时，大家看到成为植物人的矿工的画面和家属的控诉，一些记者哭了出来。王智章说：这反映出记者们可能有些想法，但是在体制内无法实现。</p>
+<p>也因为海山矿难暴露出来的原住民处境问题，后来，王智章成为胡德夫发起的原住民权益促进会里为数不多的汉族人干事之一。</p>
+<p>其后，王智章和李三冲、傅岛组成“绿色小组”，和沉富祥、江冠明等人的「第三映象」以及其他反对运动录影团队，使用业馀级器材，以低廉的成本，快速的剪接、拷贝、发行，接连推出《鹿港反杜邦运动》、《桃园机场事件》和《五二０农运》等等录影带，一举戳破了国府的谎言，颠覆了资金、人力雄厚的三家电视台「眼见为信」的神话。他们遇重大事件如「五二０农运」时，可出数机；有长期抗争如“后劲反五轻”者，可弹性进驻。这种作业模式使他们的作品同时具有新闻片的报导时效和纪录片的观察深度。另外，拍摄者多同情反对运动，甚至介入运动，拍摄时往往与群众站在一起，因而更具临场感，比起三台摄影记者佯作中立，实与军警并肩的“客观模式”往往更具说服力。所以，虽然，1990年，“绿色小组”解散了，但是他们的作品一直被广泛地采用和还原，作为研究国民党威权时期社运的非常珍贵的素材。</p>
+<p>海山矿难并没有导致国民党威权的结束，也不意味着台湾民主的开始，但是它作为一个灾难出现，却能够与民间力量的自我救济形成对接。三年后，坐在轮椅上的蒋经国宣布解严，并开放政治团体活动，开放党禁和报禁，在逝世之前顺应了积蓄已久的历史大势。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8A%E5%AE%98%E4%B9%B1%EF%BD%9C%E5%8F%B0%E6%B9%BE%EF%BC%9A%E5%A8%81%E6%9D%83%E6%97%B6%E4%BB%A3%E7%9F%BF%E9%9A%BE%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%B0%91%E9%97%B4%E8%BF%90%E5%8A%A8%E5%92%8C%E5%AA%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">公民运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E7%A6%81/?category=18271" rel="tag">报禁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">民间机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E4%BA%AC%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E7%82%B9%E4%B8%89%E5%85%AC%E9%87%8C%E5%86%85%E4%BA%BA%E5%91%98%E8%A2%AB%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3/" target="cdt-mirror">新京报｜天津港爆炸点三公里内人员被紧急疏散</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDHJ600AP0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDHJ600AP0001.jpg" alt="B12FDHJ600AP0001" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDHVE00AP0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDHVE00AP0001.jpg" alt="B12FDHVE00AP0001" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDIHL00AP0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDIHL00AP0001.jpg" alt="B12FDIHL00AP0001" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/B12GEFI600AP0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B12GEFI600AP0001.jpg" alt="B12GEFI600AP0001" width="525" height=""></a></p>
@@ -134,7 +173,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%A7%86%E9%A2%91%EF%BC%8B%E6%96%87%E5%AD%97%E7%BA%AA%E5%BD%95%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83/" target="cdt-mirror">【视频＋文字纪录】天津爆炸事故第一次新闻发布会未播出内容</a>
 </h2>
@@ -849,52 +888,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E5%B5%A9%E5%B1%B1%E6%B4%BE%E5%88%B0%E5%BA%95%E6%98%AF%E5%BC%80%E6%94%BE%E8%BF%98%E6%98%AF%E4%B8%8D%E5%BC%80%E6%94%BE/" target="cdt-mirror">六神磊磊：嵩山派到底是开放还是不开放</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6403.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6403.jpg" alt="640" width="575" height=""></a></p>
-<p><strong>文/六神磊磊</strong></p>
-<p><strong>一</strong></p>
-<p>金庸有本书，叫做《笑傲江湖》，里面有一个武林大门派，叫嵩山派。</p>
-<p>这个派很有意思。首先，它是江湖上响当当的一个门派，区域性霸主，五岳小圈子里的龙头老大，用个成语，叫“举足轻重”，派中的人都很自豪。</p>
-<p>然而，它又只是个江湖新贵，近几十年才从江湖上冒头。用书上的话说，“在武林崛起，不过是近六七十年的事”，没有少林、武当这些个老牌豪门家底厚。</p>
-<p>所以，这个新贵门派很希望受到别人尊重。它提出了很多宗旨：要开放，多搞大活动，多和外面打交道，让外面的朋友了解我们、尊重我们；要自强，把本门武功练好，先练到五岳第一，再争取练到天下第一，等等。</p>
-<p>但我们看了小说就会发现，自强、奋斗之类的都不难，难就难在开放上。嵩山派也一直很痛苦：我到底是开放，还是不开放？</p>
-<p><strong>二</strong></p>
-<p>本来，要彻底不开放也可以。魔教就不开放，去了黑木崖就是一个死，可人家照样很牛，很受人敬畏。</p>
-<p>然而嵩山派却抹不下面子——当今江湖武林，尽人皆知开放更洋气，开放是潮流。想当武林盟主，想做千年大门派，不开放怎么行呢，要被江湖武林笑话的。</p>
-<p>所以嵩山派其实很想开放，很想把自己搞得气度雍容，海纳百川，交友遍天下。</p>
-<p>你看小说里面，嵩山派组织大型活动最用心，尤其是到了本门的重大节庆日子，例如三月十五日的推举掌门人大庆典，都要发很多请帖，邀请各路豪杰来参加。</p>
-<p>他们真的很好客，很热情，准备很细致，甚至让人感动——“山道上打扫干净，每过数里，便有几名嵩山弟子备了茶水点心，迎接宾客，准备得甚是周到。”</p>
-<p>对于客人是否能到场，嵩山派也特别在乎，打心眼里盼望人家的大人物多来捧场。</p>
-<p>比如少林方丈、武当掌门来参加庆典了，嵩山派的CEO左冷禅表面上很淡定，道：“他二位老人家也来了？那可客气得很啊。这可须得下去迎接了。”一副满不在乎的模样，但实际上受宠若惊，激动不已，“衣袖微微颤动，喜悦之情难以尽掩”，心里一万只草泥马在奔腾。</p>
-<p><strong>三</strong></p>
-<p>然而，你要说嵩山派很想开放，有的时候又不太像。</p>
-<p>外人一来，他就动不动给人念叨光辉历史。“嵩山位居天下之中，在汉唐二朝邦畿之内，原是天下群山之首……历代帝王均建都于嵩山之麓……”</p>
-<p>新贵都喜欢说历史，“我家曾经阔过”，这也难免。自家光辉的历史你不介绍，别人也不明白，总之也算是一份好意，可以理解。</p>
-<p>但除了说历史，它还特别喜欢示威。嵩山的弟子们不知道怎么养成的习惯，是有组织的还是自发的，每上来一拨客人，就向山谷里丢几块大石头示威。</p>
-<p>“一名嵩山弟子拾起一块大石抛下壑去，大石和山壁相撞，初时轰然如雷”，然后觉得：好爽！好爽！那些什么华山派、泰山派的一定被吓呆了！</p>
-<p>有时候真的为这个门派感到心疼，好不容易策划一些大活动、大庆典，把朋友们各种“请进来”，各种周到细致的准备，辛辛苦苦经营出一点子开放、大气的形象，弟子们投两块石头就毁了。</p>
-<p>每一个外人来了，它还喜欢事先安排三五个人盯着，好像随时生死攸关，只要一个没盯住，就关乎门派存亡。例如天门道长来了，有玉玑子、玉音子、“青海一枭”盯着；令狐冲来了，山道上有一帮瞎子剑客盯着，仿佛是三国演义里周瑜、卞喜请客，随时要摔杯为号，刀斧手一齐杀出。</p>
-<p><strong>四</strong></p>
-<p>所以我看金庸小说时，常常被搞糊涂，觉得这个门派像是《镜花缘》里的两面国，和善的那一面热情得过分，狰狞的那一面粗鲁得可怕。</p>
-<p>这个门派，总是秉持着一种“朋友来了有好酒、豺狼来了有猎枪”的二元逻辑。其实江湖上有时候不用灌酒也不用打枪的，正常交往就行，但嵩山弟子们老是学不会。</p>
-<p>你说它不开放吧，偏偏它对人家的表扬、好话特别在乎，外面表扬几句、捧个场子，派中人就激动得发抖；你要说它开放吧，一旦三言两语稍有拂逆，就摔杯喊刀斧手，什么都不管不顾了。</p>
-<p>我也在给嵩山派分析原因。深层次的就不说了，表层次的也许是因为它还稚嫩，见得还少。你看金庸小说里，少林寺门口天天都有人来挑衅的、打架的，和尚们多少年来早见怪不怪了，罗汉堂里出来俩武僧打发了就是。</p>
-<p>嵩山派的却没见过这阵势，一有别家的武师闲汉上门，就习惯性如临大敌，看谁都像东方不败派来搞破坏的。</p>
-<p>所以它才表现得有点神经质，想不卑不亢，结果又卑又亢，一会儿放鲜花和小学生，一会儿放练家子工作人员，这边酒杯响，那边猎枪响，上午忙着发请帖，下午又咆哮着下逐客令，自己还觉得挺有原则的，外人却越看越迷糊，不知道这一家人在搞什么名堂。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/EC7unEiaL8xr3CdPaQ0urZEnhGzt6wAl9ibX5xAw4jXe1mVzK6x9XAtdaT6MI1pmvQQXlGG9iaqVKdJM0n7AKY2DA/0?wx_fmt=gif&wxfrom=5&wx_lazy=1" alt="" data-src="http://mmbiz.qpic.cn/mmbiz/EC7unEiaL8xr3CdPaQ0urZEnhGzt6wAl9ibX5xAw4jXe1mVzK6x9XAtdaT6MI1pmvQQXlGG9iaqVKdJM0n7AKY2DA/0?wx_fmt=gif" data-ratio="0.019444444444444445" data-w="360"></p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/EC7unEiaL8xpwAetL85kThmEgwcNWLbBxUN9Okic3MTrRAZ6oIDfmEJhczHnpgFD9WsZRBrH6O4PxnX6n1L1huXQ/0?wx_fmt=gif&wxfrom=5&wx_lazy=1" alt="" data-src="http://mmbiz.qpic.cn/mmbiz/EC7unEiaL8xpwAetL85kThmEgwcNWLbBxUN9Okic3MTrRAZ6oIDfmEJhczHnpgFD9WsZRBrH6O4PxnX6n1L1huXQ/0?wx_fmt=gif" data-ratio="0.4125" data-w="160"></p>
-<pre><strong><em>
-六神磊磊新书《你我皆凡人》，目前最全的精品集
-<a href="http://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00X75A9ZG">亚马逊购书链接</a></em></strong></pre>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E5%B5%A9%E5%B1%B1%E6%B4%BE%E5%88%B0%E5%BA%95%E6%98%AF%E5%BC%80%E6%94%BE%E8%BF%98%E6%98%AF%E4%B8%8D%E5%BC%80%E6%94%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/?category=18271" rel="tag">改革开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -906,7 +899,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -916,5 +909,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>

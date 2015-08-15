@@ -21,9 +21,89 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E5%AE%B6%E5%B1%9E%E6%80%92%E9%97%AF%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AF%BB%E4%BA%B2/" target="cdt-mirror">德国之声｜爆炸事故失联家属怒闯新闻发布会寻亲</a>
+</h2>
+<p><p><strong>天津爆炸事故中至今失联的消防官兵家属试图闯入周六上午举行的事故新闻发布会，导致现场一度混乱。有家属高举身份证，他们诉求的是获得家人的消息。 </strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/018648534_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/018648534_30300.jpg" alt="0,,18648534_303,00" width="575" height="324"></a></p>
+<p>（德国之声中文网）天津爆炸事故发生三天来，当局每天举行两场新闻发布会，主要向媒体介绍对爆炸事故最新的处理和调查进展。</p>
+<p>周六（8月15日），微博的认证帐号”界面”公布了一组发布会场外的照片。根据现场照片显示，一位年龄50岁左右的男子在会场外手举身份证。</p>
+<p>环球网介绍说，试图闯入会场的是天津港务消防队事故当天前往现场救援的消防员家属。因在安置点苦等多日没有任何线索，所以想直接找相关负责人询问。报道说，”情绪崩溃的家属只想知道儿子是否还活着。”</p>
+<p><b>官方确认发现氰化钠</b></p>
+<p>在8月15日上午举行的第四场新闻发布会上，天津市政府新闻办公室负责人龚建生首先否认了网上有关瑞海公司负责人只峰背景的消息。</p>
+<p>在介绍爆炸区域的监测结果时，天津安监局副局长高怀友表示，”经初步调查，事故危化品主要集中在装箱区和运抵区。”这两个区域存放了数十种危化品，可能的危化品有：”钾、钠、铝酸钠、硝酸钾、烧碱、硫化碱等，其中也包括氰化钠。”</p>
+<p><b>如何处理氰化钠？</b></p>
+<p>根据发布会直播视频显示，高怀友着重介绍了氰化钠的处置方式。他表示，”将组织氰化钠生产企业到现场处理，原因是生产厂家对氰化钠的特制及处理方法比较了解。”</p>
+<p>同时，高怀友也表示，当局会请求天津生化企业专业技术人员通过喷洒的方式减少危化品的毒性，以及封堵入海口和排污口防止污染物的扩散。</p>
+<p>周六也有现场记者报道称，爆炸核心区域三公里内的全体人员已撤离，其中包括指挥部。周六中午事故区再次起火。截至发稿前，天津市公安局在微博上的帐号”平安天津”报告火情，”火势已明显转弱，仍有浓烟”。</p>
+<p><strong>附：<a href="http://weibo.com/wowjiemian">@界面</a> 相关微博</strong></p>
+<blockquote><p><a href="http://weibo.com/5182171545/CvXlWromW">@界面</a>：【港区消防队员多人系河北打工者 甚至是第一次出勤】8月15日上午第四场新闻发布会期间，多位据称是消防队员家属欲冲进会场被拦住。事后经界面新闻调查，这些人是天津港公安局消防支队消防员家属，来自河北蔚县。他们的家人都是通过劳务公司招聘上班，有的甚至是第一次出勤。<em><a href="http://www.jiemian.com/article/354294.html">文章链接</a></em></p>
+<p><a href="http://weibo.com/5182171545/CvUOB2YUS">@界面</a>：界面新闻记者现场了解到，堵在发布会场外的家属系第一批参与救援的“编外消防队”队员的亲人，他们在安置点不知家人下落，来到发布会现场是想得到确切信息。</p>
+<p><a href="http://weibo.com/5182171545/CvUsYpwos">@界面</a>：【天津第四次发布会现场 消防员家属企图撞门入内】第四次发布会现场一度出现混乱，有情绪激动的消防员家属企图撞门入内，并在发布会门外哭闹。第四场发布会已经结束，但记者仍被堵在现场无法出门。第五场发布会将在今天17:00召开。<em><a href="http://www.jiemian.com/article/354180.html">文章链接</a></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/005EHRy1gw1ev33k4uu6qj30g40c3mz4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005EHRy1gw1ev33k4uu6qj30g40c3mz4.jpg" alt="005EHRy1gw1ev33k4uu6qj30g40c3mz4" width="440" height="330"></a></p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E5%AE%B6%E5%B1%9E%E6%80%92%E9%97%AF%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AF%BB%E4%BA%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E5%BD%93%E5%B1%80%E4%B8%8B%E4%BB%A4%E5%91%A8%E8%BE%B9%E7%BE%A4%E4%BC%97%E6%92%A4%E7%A6%BB%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E/" target="cdt-mirror">BBC｜天津爆炸：当局下令周边群众撤离消息“不实”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibQLQibxh4z67rgVqdbwdOS6orL8hhoSPQ6YstgibCy3ricjUs7B5s1mxwQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibQLQibxh4z67rgVqdbwdOS6orL8hhoSPQ6YstgibCy3ricjUs7B5s1mxwQ_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibQLQibxh4z67rgVqdbwdOS6orL8hhoSPQ6YstgibCy3ricjUs7B5s1mxwQ_0?wx_fmt=jpeg" width="550" height="366"></a><br><em>（图：和小欣）</em></p>
+<p><strong>中国媒体报道，<a href="http://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E4%BA%AC%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E7%82%B9%E4%B8%89%E5%85%AC%E9%87%8C%E5%86%85%E4%BA%BA%E5%91%98%E8%A2%AB%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3/">天津当局要求爆炸核心区域方圆两公里撤离</a>的消息不属实。</strong></p>
+<p>天津爆炸事故第五次新闻发布会于周六（8月15日）17时举行。</p>
+<p>据报，天津市公安消防局局长周天在发布会上说，关于爆炸发生地方圆两公里内群众撤离的报道不实。</p>
+<p>中国媒体引述周天表示，现场指挥部没有做出群众撤离的安排，如果有相关决定，将会第一时间发布消息。</p>
+<p>《人民日报》记者报道说，周天介绍，周六13时按照上级统一部署，根据风向调整了整个作战力量部署，参战力量及现场指挥部调整至上风方向。</p>
+<p>“请大家放心，我们不会放过任何希望，坚持生命至上，全力做好救援和处置工作。”</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E5%BD%93%E5%B1%80%E4%B8%8B%E4%BB%A4%E5%91%A8%E8%BE%B9%E7%BE%A4%E4%BC%97%E6%92%A4%E7%A6%BB%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%BB%8Ecbsn%E8%AE%B0%E8%80%85%E6%8A%A5%E9%81%93%E9%81%AD%E9%98%BB%E4%B8%AD%E5%AD%A6%E4%B9%A0%E8%BE%A8%E5%88%AB%E7%9C%9F%E5%81%87%E8%AD%A6/" target="cdt-mirror">【图说天朝】从CBSN记者报道遭阻中学习辨别真假警察</a>
+</h2>
+<p><p>美国时间2015年8月13日，<strong>一名CBSN记者在天津一家医院外进行报道<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a>时遭到疑似穿制服的警方人员阻止</strong>，并将其赶出现场。</p>
+<blockquote><p>原始视频链接：<a href="http://www.cbsnews.com/news/survivors-of-deadly-china-explosion-terrified-by-ordeal/">Survivors of deadly China explosion “terrified” by ordeal</a></p></blockquote>
+<p>CBSN 这位记者所在的医院看起来与 <a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/">CNN 记者 Will Ripley 连线直播被家属赶走</a>的医院，似乎是同一地点。</p>
+<p>某上海警察新浪认证用户曾发表一篇题为《<a href="http://weibo.com/p/230418e86ff5be0102uz7u">如何辨别警察的真伪?</a>》的教程（文末附相关内容），而下面这些CBSN记者的视频截图碰巧是非常好的练习素材。</p>
+<p>首先，下面这张截图中<strong>左边这位制服人员应该是二级警司（一杠二星），右边应为二级警督（二杠二星）</strong>：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN01.png" alt="CBSN01" width="550" height=""></a></p>
+<blockquote><p>We’re just trying to shoot in front of a hospital. （我们只是想在医院门口拍摄一下）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN02.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN02.png" alt="CBSN02" width="550" height=""></a></p>
+<blockquote><p>We’re not trying to do that much but as you can see,（正如你所见，我们并没有做什么过分的事）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN03.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN03.png" alt="CBSN03" width="550" height=""></a></p>
+<blockquote><p>the police here are trying to stop us from shooting.（这里的警察要阻止我们的拍摄）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN04.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN04.png" alt="CBSN04" width="550" height="301"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN05.png" alt="CBSN05" width="550" height=""></a></p>
+<blockquote><p>This is what it’s like covering a story here in China.（这就是在中国这里报道新闻的境遇）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN06.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN06.png" alt="CBSN06" width="550" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN07.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN07.png" alt="CBSN07" width="550" height=""></a></p>
+<blockquote><p>（被赶走了）</p></blockquote>
+<p><strong>现学现卖，细节辨认 </strong>(^ ^)<strong>：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN08-copy.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN08-copy.png" alt="CBSN08 copy" width="450" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN092.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN092.png" alt="CBSN092" width="450" height="558"></a></p>
+<p><strong>总结：还是请读者自行判断吧。</strong></p>
+<p>新浪微博用户<a href="http://weibo.com/njxlpatrol">@南西巡警言先僧</a>，认证信息为“上海市公安局静安分局南京西路派出所巡警”。该用户于2014年7月发表博文《<a href="http://weibo.com/p/230418e86ff5be0102uz7u">如何辨别警察的真伪?</a>》，部分内容如下：</p>
+<blockquote><p>首先，肩上的【警衔】<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/004fUxv8gy6KQLIsAFVb7690.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/004fUxv8gy6KQLIsAFVb7690.jpg" alt="004fUxv8gy6KQLIsAFVb7&690" width="450" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/004fUxv8gy6KQLzy8Z92f690.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/004fUxv8gy6KQLzy8Z92f690.jpg" alt="004fUxv8gy6KQLzy8Z92f&690" width="420" height="315"></a><br>
+这个是夏季执勤服<br>
+[…]</p>
+<p>位于图片男子左胸的是【警号】，右胸的是【警用胸徽】，而在臂膀上的就是【臂章】。</p>
+<p>胸徽上则印有中文字样，地方公安的胸徽是省份名称、公安部和公安部直属单位的胸徽分别是“公安部”和“公直”、行业警察的胸徽是行业名称，比如“航空”（民航公安）“铁道”（铁路公安）</p></blockquote>
+<p>【转载请注明出处，谢谢】</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%BB%8Ecbsn%E8%AE%B0%E8%80%85%E6%8A%A5%E9%81%93%E9%81%AD%E9%98%BB%E4%B8%AD%E5%AD%A6%E4%B9%A0%E8%BE%A8%E5%88%AB%E7%9C%9F%E5%81%87%E8%AD%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8A%E5%AE%98%E4%B9%B1%EF%BD%9C%E5%8F%B0%E6%B9%BE%EF%BC%9A%E5%A8%81%E6%9D%83%E6%97%B6%E4%BB%A3%E7%9F%BF%E9%9A%BE%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%B0%91%E9%97%B4%E8%BF%90%E5%8A%A8%E5%92%8C%E5%AA%92/" target="cdt-mirror">上官乱｜台湾：威权时代矿难带来的民间运动和媒体裂变</a>
 </h2>
 <p><p><em>作者：上官乱</em><br><em> 微信号：上官乱弹琴／ID: CDshangguanluan</em></p>
@@ -257,7 +337,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%B0%91%E6%9B%BE%E6%B8%B8%E8%A1%8C%E6%8A%97%E8%AE%AE-%E4%BD%86%E5%AE%83%E8%BF%98%E6%98%AF%E7%88%86%E7%82%B8%E4%BA%86/" target="cdt-mirror">东方日报｜天津市民曾游行抗议 但它还是爆炸了</a>
 </h2>
@@ -803,91 +883,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%A4%A9%E6%B4%A5%E5%A1%98%E6%B2%BD%E5%BC%80%E5%8F%91%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【真理部】天津塘沽开发区爆炸事件</a>
-</h2>
-<p><p>＊ 网信办：天津塘沽开发区爆炸事件必须规范稿源，只能使用新华社和权威部门和媒体的稿件。各网站不可私自采集事故新闻，发布新闻不可擅自添加个人理解，不要搞信息直播。</p>
-<p>＊ 天津市委宣传部：本市各电视台，广播电台，纸媒和新媒体单位，全部编辑记者包括播音员主持人，一律不可私自对爆炸事件发微博和微信朋友圈，不可参与事件传播。</p>
-<p>＊ 某省网宣办：一级：天津塘沽开发区爆炸事件撤出头条及头图推荐，清理跟帖，不要转载非新华社稿件，已转的请撤后台。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-13-at-9.12.49-AM.png" alt="Screen Shot 2015-08-13 at 9.12.49 AM" width="410" height="141"></p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%A4%A9%E6%B4%A5%E5%A1%98%E6%B2%BD%E5%BC%80%E5%8F%91%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E6%B6%88%E9%98%B2%E5%91%98%E6%9C%AA%E8%A2%AB%E5%91%8A%E7%9F%A5%E4%B8%8D%E8%83%BD%E7%94%A8%E6%B0%B4%E7%81%AD/" target="cdt-mirror">南方周末 | 天津爆炸：消防员未被告知不能用水灭火</a>
-</h2>
-<p><p>2015年8月12日，天津滨海新区港务集团瑞海物流危化品仓库发生爆炸。据公安部消防局通报：危化品堆垛发生火灾（22点50分），消防23点06抵达现场，23时30分左右，现场发生爆炸。</p>
-<p>截止发稿，爆炸已造成50人死亡。据8月13日下午新闻发布会，已有12名消防队员牺牲。</p>
-<p>据报道，爆炸威力巨大，几次爆炸当量如同24吨TNT。为何在火灾之后发生如此巨大的爆炸，而且火势绵延不绝？据此前央视报道，爆炸8个多小时后火还没有熄灭，原因之一是因为易燃物中含有电石，目前正用沙土掩埋火势。而据新京报报道，据现场消防指挥部消息，当时发生爆炸的地点存放着硝酸钾、硝酸钠等硝酸盐物质。这些固体氧化剂遇热、碰撞都容易爆炸。</p>
-<p>北京的一位消防队员学员王吉（化名）告诉南方周末记者，“不同的化学品要用不同灭火剂，我们都要学习。电石遇水反应，不能用水。”而在现场用什么灭火剂，“应该是指挥员决定的。”</p>
-<p>电石是碳化钙（CaC2）的简称，遇水立即发生激烈反应，生成乙炔（C2H2），并放出热量。乙炔在室温下是一种无色、极易燃的气体，主要作工业用途，例如烧焊金属。根据当地环保当局2014年的验收文件，事发仓库被设计用于存放电石硝酸钾、硝酸钠等化学品。</p>
-<p>消防队指挥员在到场后是否被仓库的管理人员告知危险品的情况，暂不能知晓。“指挥员到场以后应该充分了解现场情况之后才能采取行动，尤其是危险品。如果在现场了解到的情况不属实就不能归因到我们消防了。在事故发生时也应当有（相关）技术人员在场，只有通过他们我们才能了解现场情况。”王吉说。</p>
-<p>南方周末记者在泰达医院采访了一名消防队员。该消防员称自己是第一批前往火灾现场，当时还没有爆炸。据他介绍，第一批投入的消防队员人很多，“有一百多”。现场并无人告知他们有不能沾水的危险化学品。</p>
-<p>该消防员说，大家就按照正常途径用水来救火。自己是“二板车”（音），负责给前面的车供水。“开始是一个集装箱，大概喷水10多分钟，听见啪啪啪响，然后集装箱就亮了。先是一个小爆炸，后来就出事了。”虽然离爆炸点还有一点距离，但也什么都看不见，最后爬了出来。“我们队还有5个人没找到。”</p>
-<p>南方周末记者在该医院采访到另一名消防员，他也表示，“不知道有不能沾水的危险品”，现场用的都是水，还有泡沫”，后来火势太大，这些不管用，就撤到稍远的街上改用水炮，给罐体降温。爆炸前，车里的水正好用完，他去装水，得以逃过一劫。当时距离现场约几百米。</p>
-<p>8月13日上午，国务院事故调查组确定几点工作思路第一点就是“由于危化品数量内容存储方式不明，暂缓扑灭，确定好具体方案再实施”。</p>
-<p>据《危险化学品重大危险源辨识GB18218-2009》，遇水放出易燃气体的物质就包括电石，当电石的存储量达到100吨时，即可评判为危险化学品重大危险源。按照《危险化学品重大危险源监督管理暂行规定》，危险化学品单位应当在重大危险源所在场所设置明显的安全警示标志，写明紧急情况下的应急处置办法，并应当制定重大危险源事故应急预案演练计划并每年组织应急预案演练。</p>
-<p>目前暂不能确定事发仓库电石和其他危险化学品的存储量以判断其为何种重大危险源。但据瑞海公司网站消息，2013年11月8日，瑞海公司按照天津港消防支队的要求和瑞海公司应急预案的演练计划，进行了重大危险源火灾事故应急预案的演练，演练效果的评价提到：“公司全体人员和外协人员参加应急疏散演练，提高了广大员工的安全意识；提高消防灭火组人员使用消防器材、消防安全设施的操作能力和技能；主要管理人员和义务消防员参加演练，了解了一旦出现事故，每个人的消防职责。”最终，“认定本公司重大危险源事故应急预案制定合理有效，演练运行较真实。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E6%B6%88%E9%98%B2%E5%91%98%E6%9C%AA%E8%A2%AB%E5%91%8A%E7%9F%A5%E4%B8%8D%E8%83%BD%E7%94%A8%E6%B0%B4%E7%81%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%93%E5%BA%93/?category=18271" rel="tag">仓库</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%AD%A6/?category=18271" rel="tag">化学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%91%98%E4%B8%8D%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%92%AD/" target="cdt-mirror">天津官员不知危险品与居民区规定距离 发布会直播被掐</a>
-</h2>
-<p><p>北京时间2015年8月13日下午4点30分，爆炸事故首场新闻发布会在滨海新区美华大酒店召开。发布会由天津市人民政府新闻办举办。</p>
-<p>参与领导包括：<strong>市公安消防局局长周天，滨海新区区委副书记、区长张勇，市卫计委副主任王建存，市环保局局长温武瑞</strong></p>
-<blockquote><p><strong><a href="http://weibo.com/5618373408/CvE8EodDQ">@不变的糕哥</a></strong>：刚才天津政府的新闻发布会，一个记者问：危险品仓库按照规定应该离居民区多远，一圈官员面面相觑，无言以对，央视干脆直接掐断了现场直播。</p>
-<p><strong><a href="http://weibo.com/1135021013/CvE8Rnftw">@ecle</a></strong>：刚刚央视直播天津爆炸新闻发布会，有记者大声询问：“请问按环保部规定，危险品仓库与居民住宅的最小距离应是多远？”无人回答，电视信号立即切回了演播室。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-13-at-4.02.22-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-13-at-4.02.22-AM.png" alt="Screen Shot 2015-08-13 at 4.02.22 AM" width="500" height=""></a><br>
-（<a href="http://video.sina.com.cn/p/news/c/v/2015-08-13/171265053909.html">视频地址</a>）</p>
-<p>具体提问内容如下：</p>
-<p><strong>记者问：</strong></p>
-<blockquote><p>“根据咱们的规定，危险品应该距离居民有多远？”</p></blockquote>
-<p><strong>台上一片沉默</strong>，记者又将问题重新提了一遍：</p>
-<blockquote><p>“就根据环保的规定，污染物距离居民区应该有多远？”</p></blockquote>
-<p>台上<strong>依旧一片沉默</strong>，随后画面被掐。<br>
-_________</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>王亚军北京: 对，掐了就没事了。</p>
-<p>随口一说：我看的天津台，也切了，央视切的更干净</p>
-<p>little_sunny_：天津卫视直接播放歌曲了，崩溃了</p>
-<p>愤怒了的葡萄：之后换成了欢乐的我家住在松花江上。</p>
-<p>Quiet-roair：我也看了，我们要的的是事故进展和原因，不是他妈安全讲座</p>
-<p>弯腰拾节操_：我也很好奇这事 知道是危险品为什么不做好防护措施让事态如此严重</p>
-<p>Qnannan：我比较关心这个记者的安全问题啊</p>
-<p>爱爆炸的图图：我也看到了，环保局局长</p>
-<p>骚浪巨博：天津市环保局局长温武瑞，林学专业出身，记者会中说了无数遍【甲bǔn】，读完稿子后几次想溜被记者发问拦住。你不觉得他不知道危险品和居民区距离要多远太正常了吗？</p>
-<p>刘机智sod蜜：太气人了！环保局局长听到这个问题之后沉默了几秒钟之后就走了！！</p>
-<p>丶我就是徐抠抠：距离是多少？是政府和民众之间的距离。你答不上来，我也就一次次心寒，然后不想问了。</p>
-<p>西门吹疯了：看了，很尴尬，愧对失去生命的消防员和老百姓</p>
-<p>依然钟小周：现在这些化工产业不都这样，直接在码头圈地，原来的民众拆迁统一安置，隔条街全是居民区。那些气罐阿烟囱阿集装箱啊，哪个从路上经过时看不到。</p>
-<p>森女昙花一现2：估计环保局局长和规划局局长都不知道</p>
-<p>泪痣不是眼屎：天津市不只是危险品 还有天然气罐 巨型 也在居民区</p>
-<p>老头吉祥：当我看到区长说伤者和伤者家属情绪稳定后，我便放心的把电视关了，我还是相信政府的。</p>
-<p>彦庆LI又开始了：这不是新闻发布会，这是安全讲座，谢谢</p>
-<p>中天派：@作家崔成浩 崔，服不服，关键时刻拔线</p>
-<p>短发姑凉你好：粉饰太平！感动中国！！我呸，算什么国民电视台！！</p>
-<p>无痕轩: 大灾之年无答疑</p>
-<p>Blue-less：环保局那个大概是秘书临时赶的稿子，那个人念了半天甲烷什么的念都念不清楚，下次记得让秘书给你标拼音，免得露出你的小学文化</p>
-<p>赤勒汪穆：场务场务，怎么搞的？说好了要背熟台本，怎么一开机就跑偏不按套路出牌？</p>
-<p>木林森森绿：灾难发生后每次都是重要指示，为什么不在灾难发生前作重要指示，避免这些可怕的事情发生，不作为，不作为，呵呵</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%91%98%E4%B8%8D%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%92%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -899,7 +894,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -909,5 +904,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>

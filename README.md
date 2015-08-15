@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,25 @@
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E4%BA%AC%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E7%82%B9%E4%B8%89%E5%85%AC%E9%87%8C%E5%86%85%E4%BA%BA%E5%91%98%E8%A2%AB%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3/" target="cdt-mirror">新京报｜天津港爆炸点三公里内人员被紧急疏散</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDHJ600AP0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDHJ600AP0001.jpg" alt="B12FDHJ600AP0001" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDHVE00AP0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDHVE00AP0001.jpg" alt="B12FDHVE00AP0001" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDIHL00AP0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B12FDIHL00AP0001.jpg" alt="B12FDIHL00AP0001" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/B12GEFI600AP0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/B12GEFI600AP0001.jpg" alt="B12GEFI600AP0001" width="525" height=""></a></p>
+<p>新京报快讯 8月15日上午11时许，天津塘沽爆炸现场附近武警消息，要求距离爆炸核心区范围三公里内人员全部撤离。环保、交警等现场多个部门工作人员证实撤离消息属实。截至记者发稿，通往核心区域的东海路已被武警封死，相关人员正在陆续撤离现场。</p>
+<p>15日上午11时许，在天津塘沽爆炸核心区域附近，有交警队长拿着喇叭，称接上级命令，要求距离事发核心区方圆三公里内的人员迅速撤离，“东海路三公里范围内都不能停车和留人。”</p>
+<p>新京报记者在东海路公交车站遇到一名特警，对方称，“那东西可能在附近，所有人撤离，连指挥部也撤了。”这一说法从正在撤离的环保部门人员处得到证实。</p>
+<p>目前，位于前方的第九大街指挥部已经陆续撤退，设置在开发区第二小学的难民安置点也正在紧急疏散，附近多辆参与救援的车辆正撤出现场。另有拖车在第八大街的街道上执行车辆清除工作，“接到命令要把救援通道全部让出来”。该路段通往事故核心区方向。</p>
+<p>此外，记者从前方武警处得知，确实存在氰化钠，大概位置位于核心爆炸区东侧，专业人员正在对氰化钠进行专业处理，方圆三公里人全部撤离。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E4%BA%AC%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E7%82%B9%E4%B8%89%E5%85%AC%E9%87%8C%E5%86%85%E4%BA%BA%E5%91%98%E8%A2%AB%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E4%BA%8B%E6%95%85/?category=18271" rel="tag">化工事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E5%AE%89%E5%85%A8/?category=18271" rel="tag">化工安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E4%B8%80%E4%B8%AA%E5%82%85%E4%BD%9C%E4%B9%89%E8%80%81%E5%85%B5%E7%9A%84%E6%95%85%E4%BA%8B%E5%92%8C%E8%AD%A6%E7%A4%BA-%E7%BA%AA%E5%BF%B5%E6%8A%97/" target="cdt-mirror">华夏文摘｜一个傅作义老兵的故事和警示—纪念抗战胜利70周年</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/dongming.jpg" alt="dongming" width="700" height="393"></p>
@@ -879,82 +895,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A5%A5%E5%9C%BA%E5%9C%B0%E4%B9%8B%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%B0%8F%E6%B5%B7%E5%9D%A8/" target="cdt-mirror">无界新闻｜奥场地之争议：小海坨</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122270@2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122270@2x.jpg" alt="▲滑雪场施工计划（图片来源：奥组委）" width="550" height=""></a><p>▲滑雪场施工计划（图片来源：奥组委）</p></div>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%9C%BA%E5%9C%B0%E4%B8%8D%E5%9C%A8%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA%E5%86%85%E5%9B%A0%E4%B8%BA%E8%8C%83/">【网络民议】冬奥会场地不在自然保护区内因为范围改了 </a></p></blockquote>
-<p>【无界新闻记者 邝蔚丹 实习记者 汪振兴/文】</p>
-<p>刘夙一开始并没有留意到北京-张家口冬季奥运会选址小海坨的事情。这位中国科学院植物研究所毕业的年轻博士是一位科普写作者，在微博上拥有9万粉丝，在两年前离开了北京。直到2015年7月31日，他在社交网络上看到一种说法：“决战”的日期到了。当天，2022冬奥会举办地将揭晓。</p>
-<p>当晚，他得知的第二个信息是，“延庆有个高山滑雪场建在了松山保护区里面。”</p>
-<p>据公开报道，延庆小海坨山区将依托现有山体地形修建临时场地设施，分为高山滑雪场地和雪车雪橇场地。北京市体育局局长李颖川介绍，如果申办成功，一个“皇冠级别”的滑雪场地将落户于此，“不仅有800米落差，滑道长度还要达到3000米以上。”</p>
-<p>资料显示，小海坨，坐落于北京松山国家级自然保护区，位于河北大海陀国家级自然保护区与松山国家级自然保护区交界处。</p>
-<p>在微博上，刘夙的一些关注对象——他们有着植物保护相关专业背景——对此发出了疑问：保护区内怎么能建滑雪场地呢？</p>
-<p>同时，通过谷歌地图的叠加图，身份认证为果壳网科普作者的“飞雪之灵”将奥组委公布的拟建场地与北京松山国家级自然保护区核心区域相对比，发现速降赛道与保护区核心区有重合，引起自然爱好者广泛关注。</p>
-<p>随后，自然爱好者“凡虫Ecobserver”列出了详细名录证明冬奥会拟建场地将会给诸多珍稀濒危动植物造成不可挽回的影响。</p>
-<p>这时，曾经手工录入过《北京植物志》的刘夙开始意识到问题的严重性。</p>
-<p>“我虽然没有去过小海坨，但是我对北京周边的自然环境有基础性了解，对北京有什么动植物比较清楚。‘凡虫’整理的名录，绝大部分是靠谱的，我一下子理解了破坏小海坨周边植被的严重后果。”</p>
-<p>刘夙的态度由此发生变化：“如果我们宏观生物学专业人士都不站出来说话，那又怎么可能指望其他人会站出来呢？”</p>
-<p><strong>看不见的争议</strong></p>
-<p>2015年7月13日开始，小海坨封山。</p>
-<p>松山国家级自然保护区旅游咨询处的工作人员称，这是为冬奥会建址做的决定。</p>
-<p>常年去小海坨露营的网民“伊犁河谷”心中滋味万千。2009年，这个热爱户外运动的年轻人和伙伴们意外发现了这片“处女地”，那个时候小海坨知道的人不错，连进山的路都不好找。开拓进入的他们无不惊叹：“美呆了，真没有想到北京还有这么个地方。”从此以后，他每年都会到小海坨来一次。</p>
-<p>“说实话，近些来驴友越来越多，我也感觉已经超过了小海坨的承载能力。”“伊犁河谷”在多年见证小海坨的变化后，对封山的消息感到矛盾：他庆幸小海坨可以在封山的时间内得以休养生息，但又担心解封后已不复从前。</p>
-<p>同样热爱户外运动的“王小锤”对封山持反对态度，他认为绝大部分驴友都十分自律：“那些纯粹旅游的人对环境的破坏才大。”</p>
-<p>像“飞雪之灵”等有专业背景的植物爱好者态度非常鲜明：“保护区，尤其是核心区域，应该禁止旅游活动。”</p>
-<p>虽然他们的视觉各有不同，但当面对小海坨将被改造为滑雪场地时，开始站在了同样的队列。</p>
-<p>消息正式宣布之前，不少消息灵通的户外论坛组织了告别小海坨之旅；“凡虫Ecobserver”在封山后托关系进入小海坨考察。</p>
-<p>“凡虫Ecobserver”真名计云，定位自己为自由昆虫学者。从中国农业大学毕业后，他长期从事野生动植物的拍摄，几乎年年都会去海坨山。长期的实地调研经验，让他有足够自信对海坨的生态环境状况做判断。</p>
-<p>申奥成功后，他一度托关系进入已被封闭的自然保护区考察，当地多位原住民、驻守民警告诉他，横穿大海坨-松山保护区的X012公路将大幅拓宽并沿路修建各种附属设施。这令他十分担心：“附属设施的建设，肯定对生态环境是个更大的打击。”</p>
-<p>出于担心，他在社交网络上发布了一份《海坨山有什么——为了举国盛世我们有哪些不应舍弃的东西？》的声明，细数了大海坨-松山国家级自然保护区内珍惜种植物名录，其中提了四项请求：</p>
-<p>（1）冬奥会的相关建设施工需避开大海坨-松山区域所有海拔1500m以上的、完整的阔叶林-混交林-落叶松林-亚高山草甸垂直生态系统及其附属环境；</p>
-<p>（2）闫家坪垭口一带保持原貌、闫家坪垭口两侧山坡不得开发、拓路工程需与周边环境隔离进行、就地保护道路两侧30m外的所有植被；</p>
-<p>（3）松闫路（X012公路）的拓宽工程不得破坏山地溪流生境，在傍溪流路段只能向另一侧进行拓宽工程，并严格保护水资源、杜绝污染。</p>
-<p>（4）涉及上述地区及环境的施工，聘请自然保护、环境评估、动植物研究等领域的专家、组织、社会团体作为观察员。</p>
-<p>几乎与此同时，也有人在国外互联网站发布请愿书希望避免环境被破坏的事件发生。另有植物爱好者贴出2010年5月英国媒体的一篇报道，作为对比——英国政府为保护一株即将开花的杓兰，派警力24小时守护。</p>
-<p>在小圈子里，争议的声音逐渐发酵。</p>
-<p>一个大背景是，仅仅2个月前，国家环保部联合发改委、财政部等9个部门发布了《关于进一步加强涉及自然保护区开发建设活动监督管理的通知》（下称《通知》）。《通知》内明确提到地方各有关部门要严格执行《自然保护区条例》等相关法律法规，禁止在自然保护区核心区、缓冲区开展任何建设活动，建设任何生产经营设施。</p>
-<p><strong>“OUT”</strong><strong>保护区</strong></p>
-<p>其实，在小海坨兴建冬奥设施所涉及的环境问题，官方并非未有关注。</p>
-<p>北京奥组委在向国际奥组委递交的申请材料中称，延庆地区的滑雪场地建设有可能造成植被、土壤的破坏，影响一些鸟类的生存环境，产生噪音污染。提出的解决方案为：选择合适场地和路线、合理规划场所建设，对原住民予以补偿……种植合适的植被以期生态重建，若有需要，应保护动物洞穴等等。</p>
-<p>国际奥组委在2015年6月所出具的冬奥会评估报告中指出，在延庆地区修建的高山滑雪场地，毗连面积为4600公顷的松山国家级自然保护区，且为同一山系。这意味着需要将更多的环境需求因素应囊括在具体的修建计划之中。</p>
-<p>申奥结果则随即到来：2015年7月31日，在马来西亚吉隆坡举行的国际奥委会第128次全会投票决定，北京成为2022冬奥会和冬残奥会举办城市。</p>
-<p>上述两份报告都提到了环境敏感性，让自然爱好者不解的是，小海坨何时成为了“毗连”松山国家级自然保护区？</p>
-<p>事情的走向让这种不解成为现实。</p>
-<p>8月7日，延庆县常务副县长张素枝向新京报表示，小海坨松山国家级自然保护区已进行范围调整：将位于原保护区东侧的小海坨山主峰的东坡和北坡整体调入松山保护区，调入面积2655.8公顷；将原保护区北部部分区域调出，调出面积为1102.84公顷。调整后，保护区总面积为6122.96公顷，比原保护区面积增加了31%(1462.96公顷)。</p>
-<p>于是，冬奥会的比赛场地之一——小海坨从此OUT，不再在保护区范围内。</p>
-<p>这让刘夙的不解更深：“把生物多样性最丰富、珍惜濒危植物分布最集中的地方划出核心区，在别的地方划一块面积更大的核心区就可以补偿吗？”</p>
-<p>“飞雪之灵”则对比了调整范围后认为，调出的面积相当于将北部核心区域的80%划了出去：“相当于在两个保护区共同交界的核心区中间挖出了一块非保护地区用于建设，这种保护区空心了。”</p>
-<p>调整保护区范围有其标准。按照2013年印发的《国务院关于印发国家级自然保护区调整管理规定的通知》，“国家重大工程建设需要，国家重大工程包括国务院审批、核准的建设项目，列入国务院或国务院授权有关部门批准的规划且近期将开工建设的建设项目”可以申请进行调整。当然，这种调整“应确保主要保护对象得到有效保护，不破坏生态系统和生态过程的完整性，不损害生物多样性”。</p>
-<p>曾发表《北京松山国家级自然保护区野生种子植物分布及物种组成分析》论文的北京林业大学自然保护区学院教授张志翔向无界新闻记者表示：“任何工程对环境都会有所扰动，面对国家的重大需求，我们可以制定详细可行的保护方案，在工程之前进行一次周密调查，把可能出现的影响降到最低。”</p>
-<p>对自然爱好者的担心，张志翔表示非常理解，但他说，并未在小海坨拟建场地发现保护名录里的保护植物。</p>
-<p>张志翔称，小海坨的大坡向是西南坡向，横在张家口和北京之间，要使用的方向属于西南方向（北京一侧）。他实地观察后称，对刘夙和计云尤为关注的珍稀濒危植物山西杓兰和丁香叶忍冬，并未在这一侧有所发现。</p>
-<p>“自然爱好者和我调研的路线和方法可能不同，但是工程开展之前，我们还可以进行一次周密调查。”张志翔称，由于面积小，可进行细致的实地走访，可能会发现一些因为季节不同的原因（原来没有发现）的植物：“在工程进行之前，把这些植物迁到环境条件相似的地方进行保护，这是一种常见的保护植物的好方法。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122271@2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122271@2x.jpg" alt="picture_122271@2x" width="550" height="377"></a><br>
-▲2014年6月27日，小海陀（计云/摄 ）</p>
-<p>【大花杓兰Cypripediummacranthos】</p>
-<p>花大、粉红，每年6月开花。北京的亚高山草甸因为大花杓兰群落的存在而与众不同，在整个华北的草甸生境中尤其亮眼。</p>
-<p>●生存环境：海拔1500m以上的草甸、林缘，北京地区仅见于海陀山、百花山、东灵山、雾灵山等少数地方。</p>
-<p>●濒危状态：国家一级保护植物，数量不多，且因花大、具有极高的观赏价值而倍遭采摘、盗挖。由于自然繁殖力差，其种群逐年减小。（图注来源：计云）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122272@2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122272@2x.jpg" alt="picture_122272@2x" width="550" height="377"></a><br>
-▲2015年6月27日，小海陀（计云/摄）</p>
-<p>【紫点杓兰Cypripediumguttatum】</p>
-<p>花朵白色缀以或多或少的粉紫色斑点，每年6月开花。</p>
-<p>●生存环境：海拔1500m以上的草甸、林缘，北京地区见于海陀山、百花山、东灵山、雾灵山等地方。</p>
-<p>●濒危状态：国家一级保护植物，比其他两种杓兰数量多，但也常遭人采摘，由于自然繁殖力差，其种群受打击后难以恢复。（图注来源：计云）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122273@2x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/picture_122273@2x.jpg" alt="picture_122273@2x" width="550" height="367"></a><br>
-▲2014年7月9日，海陀山（王辰/摄 ）</p>
-<p>【山西杓兰Cypripediumshanxiense】</p>
-<p>花朵颜色在杓兰属中平淡无奇，却内是国内最濒危的杓兰之一。</p>
-<p>●生存环境：海拔1500m以上的草甸、林缘，北京历史分布于极少数地方。</p>
-<p>●濒危状态：北京市一级保护植物。极度濒危，多年调查无果的种类。几十年调查，仅有3-4次发现。（图注来源：计云）</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A5%A5%E5%9C%BA%E5%9C%B0%E4%B9%8B%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%B0%8F%E6%B5%B7%E5%9D%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BF%92%E5%8D%B1%E5%8A%A8%E6%A4%8D%E7%89%A9/?category=18271" rel="tag">濒危动植物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">生态环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A0%B7%E6%80%A7/?category=18271" rel="tag">生物多样性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA/?category=18271" rel="tag">自然保护区</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -976,5 +916,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>

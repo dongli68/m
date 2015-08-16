@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dul6j283z2b1w.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A8%81%E6%B4%9B%E6%AF%94%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A4%A9%E6%B4%A5%E6%B0%91%E4%BC%97%E9%A9%B1%E8%B5%B6cnn%E8%AE%B0%E8%80%85%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/" target="cdt-mirror">威洛比：关于“天津民众”驱赶CNN记者的一点感想</a>
@@ -841,7 +841,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -851,5 +851,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>

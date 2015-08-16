@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,152 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85-%E6%AD%A3%E8%83%BD%E9%87%8F%E8%AF%97%E4%BA%8C%E9%A6%96/" target="cdt-mirror">【异闻观止】天津爆炸事故 正能量诗二首</a>
+</h2>
+<p><h2>一、《天津救星习主席》</h2>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-16-at-1.59.57-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-16-at-1.59.57-AM.png" alt="Screen Shot 2015-08-16 at 1.59.57 AM" width="525" height="537"></a></p>
+<blockquote><p><strong><a href="http://weibo.com/5069880687/Cw5Yw1CzS">@中国作家刘信达</a></strong>：《天津救星习主席》 天津甫爆炸，主席即发话。死者哀且悼，伤员牵与挂。不久硝烟散，海河仍如画。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博： </strong></p>
+<p>@老石头wine：相舔时难擼亦难， 东风无力菊花残。 脑残到死屎方尽， 煞壁成灰尿始干。</p>
+<p>@佛陀的微笑：领导一放屁，五毛来抱团，作家刘信达，闻出是肠炎，不敢高声语，含笑说喜欢。</p>
+<p>@今天的雨辰一点也不萌：北朝崔成浩，华夏刘信达，奈何包皮龙，说话无大脑</p>
+<p><a href="http://weibo.com/2486854021" target="_blank">@林栩汀</a>：你不要以为我们看不懂，你在讽刺作死<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"></p>
+<p>@解放前的某一天：畜牲，帮你红。作协，作邪！</p>
+<p>@米斯特_徐：如此多娇，令人无语</p>
+<p>@周小平是同志：比三笔堂主的反诗不知道高到哪里去了</p>
+<p>@一头小活猪: 乐府新唱</p>
+<p>@不作死就不会死-: 大师 你国诗坛有救了</p>
+<p>@王海鹏Seal: 作家刘信达，讲的是实话。好比东方朔，大家喜欢他。</p>
+<p>@暗之光芒：海河虽如画，百姓已无家，信达亦无用，鹰犬放空话。空话一百年，年年高上大。长堤溃蚁穴，救星死光啦！</p>
+<h2><strong>二、《第二声是冲锋的号令》</strong></h2>
+<p><strong>以下为微博相关评论</strong>（文末附诗歌全文）：</p>
+<p><a href="http://weibo.com/1281476195" target="_blank">@科技文化郑军</a>：二十一吨梯恩梯回荡在天安门前<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"><img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"><img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"><img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"><img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/3666962210" target="_blank">@阿布斯风</a>：舔的好起劲，还自带音效<img title="[黑线]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/91/h_org.gif" alt="[黑线]"></p>
+<p><a href="http://weibo.com/tendency08" target="_blank">@未来的倾向</a><i title="微博达人"></i>：<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">党国的敌人就潜伏在党国的宣传部。。。</p>
+<p>@卢沟瞧月：回荡在天安门⋯⋯冲锋的号令⋯⋯诗文作者，你这是要以武力威胁、威震、冲击最高领导机构吗？</p>
+<p>@黑猫西班牙：两句话就解决了：“纵做鬼，也幸福～”拉拉杂杂唧唧歪歪这么久</p>
+<p>@老哭囡：好诗，入选dang诗三百首。</p>
+<p>@映朔：那是115年前八国联军从津入京→_→</p>
+<p>@现在-过去-未来c：写的这是锤子嘛，什么立意啊，你爆炸你有功啊，总结，瓜皮写的！</p>
+<p>@诚者毋自欺：无耻者无畏，只顾添菊，忘了其他</p>
+<p>@竹签可儿：这个御用段子手直接毙了吧，完全反效果。</p>
+<p>@buchus：《在延安文艺座谈会上的讲话》</p>
+<p><strong>附诗：</strong></p>
+<p><strong><a href="http://weibo.com/p/23041853783dc40102vy3n">第二声是冲锋的号令——写在天津滨海新区危化品仓库爆炸后</a></strong></p>
+<p><em>陈丽伟</em></p>
+<p>第一声从耳朵震到心里，<br>
+第二声从心灵震到魂灵……</p>
+<p>夜静更深的巨响发聩振聋，<br>
+碎裂的玻璃刺进孩子的哭声！<br>
+晃动的楼宇驱赶着慌乱的脚步，<br>
+掉落的门窗砸碎了多少人的梦境……</p>
+<p>满院子的人们惊魂未定，<br>
+满大街的人们惊魂未定，<br>
+他们刚刚还素不相识，<br>
+此刻渴望劫后余生的相拥。</p>
+<p>突如其来的灾难，<br>
+让人与人多了亲情，<br>
+短暂的惊慌之后，<br>
+他们很快就拧成一股绳！</p>
+<p>第一声是灾难无情的进攻，<br>
+第二声是奋起迎敌的号令！</p>
+<p>最先冲进火海的，<br>
+依然是可敬的消防官兵。<br>
+最危险的地方，<br>
+总少不了他们矫健的身影。</p>
+<p>逆风而行的雄鹰搏击长空，<br>
+逆水而行的帆船驾驭长风。<br>
+当人们匆忙地逃离危险的中心，<br>
+你逆行的身影成为最美的风景！</p>
+<p>滚烫的青春搏击着滚烫的火舌，<br>
+顽强的意志抵制着凶残的灾魔。<br>
+瞬间的爆炸瞬间照亮天地，<br>
+生命的哀歌恰是一曲生命的颂歌！</p>
+<p>邵俊强、尹艳荣、田宝健、<br>
+袁海、甄宇航、杨纲……<br>
+请让我们记住这些年轻的姓名，<br>
+为了我们活着的，<br>
+他们刚刚牺牲了最宝贵的生命！</p>
+<p>有人说名字就是一个符号，<br>
+你可知简单的符号其实意义无穷？<br>
+就像鲜艳的团徽庄严的党徽，<br>
+他们这些名字，叫做英雄！</p>
+<p>第一声是灾难的进攻，<br>
+第二声是冲锋的号令！</p>
+<p>已经下班的医生，<br>
+又立即全部回到岗位。<br>
+那一袭袭忙碌的白衣，<br>
+给伤者和家属天使般的安慰。</p>
+<p>有一种威胁叫死亡，<br>
+有一种战场无硝烟。<br>
+有一种迎敌叫迅速，<br>
+有一种奉献叫无言。</p>
+<p>当病魔向伤者张牙舞爪，<br>
+你严阵以待的矛戈豁然出现。<br>
+当伤者病情稳定好转，<br>
+你已疲惫如风中的叶片。</p>
+<p>没有人记得你的姓名，<br>
+没有人记得你的容颜。<br>
+人们只记得你处置熟练，<br>
+人们只记得你白衣翩翩。</p>
+<p>第一声是灾难的进攻，<br>
+第二声是冲锋的号令！</p>
+<p>一下子，<br>
+那么多志愿者涌现出来；<br>
+那么多物资堆积起来；<br>
+那么多爱心车开出来；<br>
+那么多献血者排起长队来……</p>
+<p>昨天还在顽皮嬉闹的少年，<br>
+今天正紧张有序的运送伤员。<br>
+昨天还撸串慢摇的少女，<br>
+今天正井井有条的分发盒饭……</p>
+<p>在安置点，在受灾户，在封闭路段，<br>
+在医院，在病房，在病床前，<br>
+引导行人，接送物资，护理病员，<br>
+到处有志愿者的身影出现。</p>
+<p>在电脑，在手机，在平板，<br>
+在微信，在微博，在朋友圈，<br>
+梳理信息，屏蔽谣言，传递温暖，<br>
+到处有志愿者的头像忽闪……</p>
+<p>第一声炸响在渤海湾边，<br>
+第二声回荡到天安门前。</p>
+<p>党中央，国务院，<br>
+卫计委，安监办，<br>
+舟桥旅，防化团……<br>
+一道道指示向滨海，<br>
+一句句关怀暖心田，<br>
+一队队人马到眼前……</p>
+<p>今夜的滨海不孤单，<br>
+全国人民都在关注咱。<br>
+今天的滨海请放心，<br>
+高精尖的设备上阵前！</p>
+<p>第一声从耳朵震到心里，<br>
+第二声从心里震到魂灵！</p>
+<p>灾难压不倒滨海人，<br>
+雨后的树木会更加葱茏。<br>
+心贴着心就有不灭的希望，<br>
+手拉着手就是钢铁的长城！</p>
+<p><strong>另附：陈丽伟<a href="http://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=209952763&idx=2&sn=eb78bacdd8cbb3ff9bab5e320b1dbb9b&scene=1&from=singlemessage&isappinstalled=0#rd@">接受《新京报》采访时的自辩</a>，你们感受下<br></strong></p>
+<blockquote><p><strong>新京报：常写赞扬诗吗？</strong></p>
+<p><strong>陈丽伟：</strong>说实话，在这二十年里，作为一个写现代诗的诗人，我也饱受诟病。因为有些时候，区域里有些朗诵会，叫我写首诗，我就写一首。但是我很有分寸，我歌颂外来务工青年，因为我们是兄弟；<span><strong>我歌颂白衣战士，尤其是SARS那会儿</strong></span>；我歌颂妇女同志，因为她们值得歌颂；我歌颂父亲、母亲……</p>
+<p><strong>新京报：发生了如此严重的爆炸事故，我们是不是首先应去追究事故原因、要去质疑呢？</strong></p>
+<p><strong>陈丽伟：</strong>质疑是后边的事儿。</p>
+<p><span><strong>咱都是媒体人</strong></span>，我也知道，里边一定会有一些比如说企业是怎么回事，环评是怎么通过的，救援的过程是不是科学——但是，这些事情，都是后边的事。刚跟一个朋友回了一条短信，就是说在这样慌乱、恐慌、迷惑甚至谣言、不停的诘难的时候，消防队、防化部队、医院在紧锣密鼓地应对，有时候通宵达旦，饭店老板有的不营业了，做盒饭送去。让我觉得特别感动。<br>
+这里边的正能量我看得很清楚，负能量我也知道，但是这会儿你怎么办？<span><strong>我没有别的办法，我觉得我只能是打打气，撑撑腰</strong></span>。<br>
+我以前写现代诗，也有抨击性的，<span><strong>包括我写兵马俑，就是抨击专制的</strong></span>。过后到鞭挞那些责任者的时候，我依然会有别的作品。</p>
+<p><strong>新京报：你很快就写出了《第二声是冲锋的号令》，是因为对这个地区有很深的感情？</strong></p>
+<p><strong>陈丽伟：</strong>我本身工作、生活在这儿，整整二十年了，我对滨海新区是很有感情的，我最好的青春都用在这儿了。二十年前我们来的时候，只有一条街，连红绿灯都没有，很荒凉的，别说现在满大街都是车了——二十年，发展成这么辉煌的地方。<span><strong>以前800块一平米的房子都没人买，现在18000元一平米都抢不着</strong></span>。你与它共成长，你是感到骄傲的。</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85-%E6%AD%A3%E8%83%BD%E9%87%8F%E8%AF%97%E4%BA%8C%E9%A6%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E7%88%86%E7%82%B8%E9%82%A3%E4%B8%80%E5%A4%9C%EF%BC%8C%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F/" target="cdt-mirror">南方都市报｜爆炸那一夜，“瑞海”公司到底发生了什么？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%9D%91%E6%B4%9E1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%9D%91%E6%B4%9E1.jpg" alt="坑洞" width="550" height=""></a></p>
@@ -755,40 +898,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%92%8C%E3%80%8A%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E3%80%8B%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB/" target="cdt-mirror">【图说天朝】毛泽东和《开罗宣言》到底什么关系</a>
-</h2>
-<p><p><strong><a href="http://news.mtime.com/2015/08/14/1545751.html">MT时光网｜《开罗宣言》发布人物海报 毛泽东斯大林等四位伟人亮相</a></strong></p>
-<blockquote><p>二战题材影片《开罗宣言》今日曝光了一组全新海报，<strong>斯大林、罗斯福、丘吉尔、毛泽东四位国际舞台上的重要人物悉数亮相</strong>，展现出了宏大的叙事格局，一幅伟大的历史长卷就此铺开。</p>
-<p>与影片此前曝光的几款海报不同，今日曝光的这四款海报主打历史人物，四位伟人的剪影与重大事件的画面浑然一体，这种设计也突出了历史造就伟人，伟人成就历史的关系。在人物的选取上，不同党派、不同国别的领导人以并列的姿态现身，<strong>并没有偏重一方</strong>，这也充分体现了《开罗宣言》<strong>从国际视角观察历史、以全人类的角度去尊重历史的立意和胸怀</strong>。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/091928.98821428_1280.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/091928.98821428_1280.jpg" alt="091928.98821428_1280" width="425" height="659"></a></p></blockquote>
-<p><strong>其实片方公布的首批海报上是有蒋介石的</strong>（见下图）。但不知为何，<strong>在单独宣传《开罗宣言》重要人物的时候就成了毛泽东</strong>。此片的导演之一为近期陷入争议的《嫁给大山的女人》导演胡明钢。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Cairo-Declaration_poster_goldposter_com_4-800x518.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Cairo-Declaration_poster_goldposter_com_4-800x518.jpg" alt="Cairo-Declaration_poster_goldposter_com_4-800x518" width="525" height="340"></a><br><em>（图片来源：<a href="http://www.goldposter.com/63368/">Gold Poster</a>）</em></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1179397731/CvNy0AL3B">@谌旭彬</a>：【海报太霸气！！！】作为一个历史从业者，我深深地被震惊到无话可说了！！！</p>
-<p>@董and斌:居然还有头发，都不知道考据一下吗</p>
-<p>@论人民的収视权或装锅权：蒋总统咋长成这逼样的呢？</p>
-<p>@曾健仁V3：这个老biang的还去过埃及呐~</p>
-<p><a href="http://weibo.com/5597149483" target="_blank">专业拆伙12</a>：喂喂，喂！1943年老蒋有木有芥茉胖啊？啊啊？？？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/1425282462" target="_blank">MT码头</a>：正能量！<img title="[威武]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/vw_org.gif" alt="[威武]"><img title="[good]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]"></p>
-<p><a href="http://weibo.com/n/%E5%AD%99%E8%A7%81%E5%9D%A4?from=feed&loc=at" target="_blank">@孙见坤</a>:蒋委员长在开罗使用了法老的生发秘方<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@囧纳森III: 这个演员一脸奸猾，长得一点都不像蒋介石，怎么挑的啊？</p>
-<p>@Lui__：画外音：怎么不让我去！</p>
-<p>@被解放的张哥：银桥啊，今天不吃红烧肉了，给我弄张去开罗的机票</p>
-<p>@Lanrsixcaix：百度百科需要及时提高姿势水平，以免为党国添堵，伤害中国人民的感情。</p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5a1fcf66gw1ev29k6apwbj20hs0vkaf6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5a1fcf66gw1ev29k6apwbj20hs0vkaf6.jpg" alt="5a1fcf66gw1ev29k6apwbj20hs0vkaf6" width="375" height="666"></a></p></blockquote>
-<p>@一半舞剑一半闲：毛泽东当年去和丘吉尔、斯大林在开罗会谈，阐释了三个世界的划分！对了，宋美龄做的翻译。</p>
-<p>@不沉默的大多数: 历史就是如此啊 当年击毙在战场上 今后消灭在书本里。</p>
-<p>@余戈-腾冲之围:唐国强说：要有个会！于是开罗开了个会。</p>
-<p>@icno2001：真尼玛狠啊，大家都惊呆了</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Cairo_conference_edited.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Cairo_conference_edited.jpg" alt="Cairo_conference_edited" width="500" height="381"></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%92%8C%E3%80%8A%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E3%80%8B%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E4%B8%BB%E5%8A%9B/?category=18271" rel="tag">抗日主力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E4%BB%8B%E7%9F%B3/?category=18271" rel="tag">蒋介石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -810,5 +919,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>

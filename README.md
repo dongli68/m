@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r3bu1vl2semn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%9F%8E%E9%99%90%E5%88%B6%E5%A4%96%E6%9D%A5%E4%BA%BA%E5%91%98-%E6%B9%96%E5%8C%97%E7%BB%B4%E7%A8%B3%E5%8A%9E%E6%96%87%E4%BB%B6%E5%88%97/" target="cdt-mirror">自由亚洲｜北京城限制外来人员 湖北维稳办文件列明监控对象</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/deec2be6-a75b-43c7-a24a-dd2115e28187.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/deec2be6-a75b-43c7-a24a-dd2115e28187.jpeg" alt="deec2be6-a75b-43c7-a24a-dd2115e28187" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/m0815-ql1p2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/m0815-ql1p2.jpg" alt="m0815-ql1p2" width="500" height=""></a></p>
+<p>北京纪念抗战暨世界反法西斯战争胜利70周年阅兵前夕，内部实行限制外地人京的诸多措施，包括访民、新疆籍人士、高校外地生等。湖北省潜江市维护稳定工作领导小组办公室8月初发出文件，要求各级官员稳控各类访民，加强对涉疆、涉暴信息的掌握，成为维稳工作的专家。</p>
+<p>9月3日是中国政府纪念抗战70周年阅兵日。北京及各地方政府正为此全面加强所谓的维稳工作。本台获得一份湖北省潜江市维稳办8月3日发出的文件 称，当局要求各级领导干部重点做好群体稳控工作，不要吝啬，维稳设备要舍得投入，强化硬件、软件的保障。还称，9月3日，习近平总书记将以国家元首的身 份，进行阅兵，还邀请了国外政要，国外的军队参加，举世关注。相应的维稳责任和压力是空前的。文件内容还提道,要严格加强对重点人员的管控，必须做到24 小时看牢、盯死。。。。。。。对涉疆、涉暴信息掌握清楚、准确。还有不断研究维稳工作，成为维稳工作的专家。</p>
+<p>目前，湖北大部分访民已被当地政府控制。据民间维权组织民生观察工作室星期五消息，武汉市江岸区徐州新村拆迁维权人胡国红，前一天晚上从外面回到家中时，五、六个人已守在他家门前。至此，胡国红又被“上岗”，不让外出。</p>
+<p>湖北一位访民星期六（8月15日）告诉本台，访民彭峰已突破封锁到达北京，但一路安检严密：“彭峰告诉我，他说到北京去，沿路堵截，到了河北后，还 有三、四道关口，每一个口都有安检，每一个乘客都要刷身份证，如果是访民就不让通过。到了六里桥的长途汽车站，访民也不让通过。他途中经过多次辗转，朋友 帮忙，通过争取，才出来站口（到北京）”。</p>
+<p>北京一所大学的员工告诉自己，各高校已通知外地学生，近期不要前往北京：“我就知道各高校，还有我们现在的学校通知学生9月7日才报到。之前，外地生不让进京”。</p>
+<p>目前，北京警方正在驱赶外省访民。成都六四天网周五引述辽宁沈阳维权人士李春华称，在北京，如果访民不搬家，其租用的房屋就会被查封。据房东说，北 京公安局从8月20日至9月4日，如果查到没有身份证的访民，都会带走拘留或交地方截访人员处理。在丰台区南苑直属派出所管辖地，每天都有住在出租屋的人 被驱赶。而在当地居住的都是访民。</p>
+<p>据了解，当局严控的另一个目标就是少数民族。总部在德国的世界维吾尔代表大会发言人迪里夏提对记者说：“9月3日阅兵的政治仪式导致了维吾尔人普遍 受到强制性监控，遣返等，类似情况非常严重。在北京，我们获得间接的信息，有经商的维吾尔人遭到当局控制和遣返。维吾尔人都成了反恐和压制的对象。各地还 采取举报、揭发等方式，防范维吾尔人，包括他们住酒店，购买旅行票（旅游）”。</p>
+<p>另据中国国家邮政局网站消息，国家邮政局局长马军胜表示，抗战胜利70周年纪念活动期间对进京包裹类邮件、快件实行100%实名收寄和100%过机 安检措施。马军胜说，各级邮政管理部门要充分认识到做好抗战胜利70周年纪念活动期间寄递渠道安全保障工作的重大意义。要按照中央的要求，切实加强领导， 精心组织，周密部署，进一步完善工作方案和应急预案，密切部门间协作，加大执法检查力度。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%9F%8E%E9%99%90%E5%88%B6%E5%A4%96%E6%9D%A5%E4%BA%BA%E5%91%98-%E6%B9%96%E5%8C%97%E7%BB%B4%E7%A8%B3%E5%8A%9E%E6%96%87%E4%BB%B6%E5%88%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E6%88%AA%E8%AE%BF/?category=18271" rel="tag">上访截访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E9%83%BD/?category=18271" rel="tag">帝都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85-%E6%AD%A3%E8%83%BD%E9%87%8F%E8%AF%97%E4%BA%8C%E9%A6%96/" target="cdt-mirror">【异闻观止】天津爆炸事故 正能量诗二首</a>
 </h2>
 <p><h2>一、《天津救星习主席》</h2>
@@ -251,7 +270,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E6%97%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8A%B5%E5%88%B6%E6%B5%81%E8%A8%80%E7%9A%84%E6%9C%80%E5%A5%BD%E6%AD%A6%E5%99%A8%E6%98%AF%E4%BA%8B%E5%AE%9E%E8%80%8C%E4%B8%8D%E6%98%AF%E8%B0%8B/" target="cdt-mirror">【网络民议】抵制流言的最好武器是事实而不是谋杀</a>
 </h2>
@@ -360,7 +379,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A/?category=18271" rel="tag">红十字会</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%9A%E7%BB%B4%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%94%9F%E5%8C%96%E5%9B%B4%E5%9F%8E-%E4%BA%AC%E6%B4%A5%E5%86%80%E6%88%98%E7%95%A5%E4%BC%9A%E5%90%A6%E6%96%AD%E8%B6%B3/" target="cdt-mirror">多维新闻｜天津爆炸生化围城 京津冀战略会否断足？</a>
 </h2>
@@ -876,28 +895,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E9%A3%9E%E6%8E%A0%E5%BD%B1%EF%BC%9A%E6%88%91%E5%AF%B9%E5%A4%A9%E6%B4%A5%E5%8C%96%E5%AD%A6%E5%93%81%E7%88%86%E7%82%B8%E7%9A%84%E8%AF%B4%E6%B3%95%E5%92%8C%E4%B8%80%E4%BA%9B%E4%B8%93%E4%B8%9A/" target="cdt-mirror">风飞掠影：我对天津化学品爆炸的说法和一些专业故事</a>
-</h2>
-<p><p>一天前夜里的几声巨响把天津变成了热门词汇，网络上的祈福，默哀，致敬，自保技巧硬生生的把这世界级的骇人事件变得更像说资，事件过后当事人受到的伤害一点也没有减少，幸存者承受的却是残酷的 “自我认识和自我提高”，该负责的，该反省的，就这样潜移默化的自行解散了。</p>
-<p>事情不应该是这样的逻辑，也不能是这样的逻辑，尤其是如此恶性的事件。</p>
-<p>我没有做大数据分析，也没有调查历史，其实心也已经麻木了，躲在美帝多年，以为可以自清，可每每发生此类事件，还是痛心疾首。尤其这次，对我这个在化学领域摸爬滚打13年之多的人的冲击可想而知。我想以为对化学的理解和十多年的亲身体会，以及在中国7年，美国6年的化学生涯为背景，随便谈谈我的看法，讲点故事。</p>
-<p>有 网友查到国内有法律明文规定大型化工厂需要距离居民区至少一千米以上，一点都不为过，事实上美国大多数的化学公司不止不在大城市，而且经常建在鸟不生蛋的地方，不是对自己不自信，而是对别人负责。以陶氏化学为例，实验室工作人员的安全至高无上，安全培训及其严格，安全类文书非常详尽，在业内名声震震，成为了众多美国大学实验室安全培训的模仿对象。大家也许听周围人讲过，美国人做事很拖沓，也许把事情考虑周全是需要不少的时间，可是值得。09年 刚到美国化学实验室工作的时候，第一天就劈头盖脸的压来了厚厚的安全文书，连续几日的线上培训，实体课程，每个人必须的灭火器操作，终于通过了安全考核， 才知道自己完成的只是所有大学工作人员必须通过的普通安全培训，还有更复杂具体的化学专项培训。其中一项反复强调的，化学相关的火灾种类，分A, B,C 三类，A类为普通火灾，B 为易燃化学品，C 为 遇水或空气自燃或发生反应的火灾。灭火器自然也分三种，而干粉类才适合化学反应型火灾，因为普通的二氧化碳或者消防用的水碰到活泼金属反而会生成更易燃的 气体（氢气）或助燃气体（氧气），属于火上浇油。而所有的这些都只是涉及小火灾，如果火势发展到威胁人身安全，撤离是唯一的选择，火灾必须交由专业人士 （消防）处理。火灾之下，首要的就是要充分了解情况和任何背景，熟知化学药品的种类和数目，并估量可能的反应产物和性状，才能预先作出可能的应对。比如酸雾，卤素气体，甚至氰氢酸，每一样可能的反应产物中和失活的机理都大不相同，即时知情也不一定能够安全消除，更别提事前毫无估量。微博链里盛传“Burn Down”原则，我没有细查，但我本能性不认同。A类火灾甚至B类火灾可能都问题不大，C类火灾决不能放任有害物质无限量进入大气。我个人认为可以不主动扑灭，但一定要在防止火势蔓延的同时，熟知化学品性状，并对可能的反应产物进行中和降解处理，才能把二次污染降到最低。否则，这个二次污染要比爆炸的损害更大，继续拿氰化钠为例，水溶性极好，无色无味，不尽快中和氧化降解，任何的扩散都是致命 的。</p>
-<p>化学实验室的火灾防护专业人员都必 须具有相当的处置化学品的经验，这一点我的感触很深。记得在国内的时候，有一次对面楼一个化学合成实验室着火，冷却器里的酒精在瞬间就把火势推到整个房 间，所有的学生都成功的逃出了实验室。在消防车赶到前，研究所的几个保安小伙儿操起灭火器就冲进了火场，被泄露的氯气熏至休克，幸好最后救治了过来，才没有酿成悲剧。能怪他们吗？怎么能？！一个个每天早上能见到的友好的面孔。但有没有更好的办法，当然有，那就是安全培训，安全文书，和安全规章制度。在国内 读书的时候，夏天做实验温度太高，大家就系个围裙，做什么用？怕弄脏衣服，跟防火八杆子打不着，你问我会不会用灭火器，我说会你信吗？当然不信，连我自己都不信。来加州工作后，规定多严格？安全护目镜，防火服，长裤，不露脚趾和脚面的鞋，而且衣服尽量要求穿棉质的。专门负责化学实验室消防的人员都具有一定相关知识，而且对实验室环境非常熟悉。为什么这么严格？不是他们聪明或者怕死，因为这里面有个故事。</p>
-<p>2000年初的一个夏天，洛杉矶加州大学，化学系的一位教授的实验室来了一个本科女生Intern，安排好了做化学实验。那时候化学实验室的安全培训比现在简单上100倍，所以没几天她就开始 “亲自” 做实验了。普通的一天，在实验室里只有她自己的情况下，她开始了一个需要50毫 升叔丁基锂溶液的反应，懂化学的人都知道，叔丁基锂碰到空气就会自燃，更何况有易燃助燃溶剂。硕大的注射器在她手里极不自在，在她加压注射液体时，针头脱离，叔丁基锂喷到了她的涤纶毛衣上，是的！她没有穿实验服！没有几分钟她倒下了，连呼救的时间也没有，一个满怀化学梦想的女生，就这样没了。</p>
-<p>问责？追究？立案？立法？这些加州都做了，而且一做就做了十年。美国有个联邦部门，叫做 Occupational Safetyand HealthAdministration，我们叫他们OSHA。因为上面的一个事故，OSHA重新做了安全规程，并要求所有加州的大学强制执行，现在的加州所有大学安全制度更严格了，安全文案也更复杂了，安全培训周期也是历史之最。如果现在你来加州大学的化学实验室学习的话，也许你在通过安全培训前都拿不到办公室和实验室的钥匙，也不准踏进实验室半步，因为OSHA不关心你能不能在美国学到东西回去报效祖国，他们只关心你的安全，因为你不安全了，跟你有关的所有人都脱不了干系。他们每年不定期的巡查，如果有违反规定的行为，他们可能会关掉实验室，重罚相关机构，或者甚至诉诸法律。</p>
-<p>美国发生的事故也并不少（参考@年轻的沙狐隆美尔 转 发的故事），事故发生了，后续做什么更重要，只有尊重活人，才可以避免对逝者落泪。我们是一个容易流泪和感动的民族，事情发生了，我们可以伤心难过，事情 过去了，我们可以收起眼泪继续看八卦。事情没有发生在自己身边，永远都只会是说资。可这件事也可以吗？这种只有在灾难片里发生的场景活脱脱的发生在眼前， 还能够一谈而过吗？还能够只流眼泪，只感动，只点蜡烛就而已吗，人们？！去年发生在圣塔芭芭拉的枪击事件，失去了唯一儿子的父亲，在讲台上对我们笑着讲自 己儿子生前的故事。美国人无情吗？就是这个父亲，这一年多到处奔走呼喊提出改进法案，为的是避免类似事件再次发生。我们的一个朋友酷爱骑车，年纪轻轻就永远留在了他喜欢的路上。他的爸爸妈妈在两年内从没停下自己的脚步，促成了加州修改交通法：机动车必须与非机动车保持1米以上的距离。我觉得他们的这些，才是真情，比眼泪，要贵上一万倍。</p>
-<p>有网友查了以后说，国内的安全相关规定并不是不健全。那为什么形同虚设？因为虽然部门多，却没有哪个可以严格地有权威地强制执法。即使有，某些企业也可以找“机会”过关。柴静的《穹顶之下》里左右为难的环保局就是一个例子。我在美国生活了这些年，提两个这边的例子。大家都知道美国汽车尾气标准很严格，谁监督执行呢？在加州是Department of Motor Vehicle(DMV)，所有的车辆每隔一年必须强制进行尾气检测并达标才能成功注册，没有人可以例外。另一个，为什么很多国内开车很熟的人来美国考驾照会考不过？因为在美国，即时你开车不熟练，只要你安全意识充分，就会给你驾照，而赛车手的技术，没有安全意识，也就只能和驾照相视而笑了。</p>
-<p>这次天津化学品爆炸中，如此大规模的化学品储存及转运公司，安全文件，制度规程，化学品的详细种类，储量，位置，还有每个化学品的标准操作规程（SOP）都应该可以即时获取。有网友帖子里提到可能有的化合物种类，我本人没有去核实。举个例子，700顿氰化钠是什么概念？氰化钠是剧毒神经毒性化学品，半数致死量为惊人的20毫克每千克。假设人平均体重为60千克，致死量只需要1克多。700吨可以杀死多少人？单位换算？算出来的同学不要被吓到。氰化钠遇酸会生成氰氢酸，毒性更剧烈，而且具有主动侵蚀性，极度危险。消防人员在这种情况下应该进入救火救援吗？当然应该，有人说“那是他们的职责”，没错，的确是他们的职责。可安全文书在哪里，化学品的详细资料在哪里？有没有预先估量现场的情况？有人说“搜索安全文件会耽搁救援时间，造成更大损失”，可是现在时间省下来了，损失的，是人命。中国人的命不值钱吗？我相信不管谁说这句话都会被群起而攻之，可事实呢？还有人说“这是他们的职责，他们有责任去冒险，去奋不顾身保护市民安全”，说的一点没错，我相信不管你问哪一个消防人员都会得到肯定的回答，可<strong>他们应得的是知情的冒险，而不是盲目的送命</strong>。在消防人员不知情的情况下把他们送到千吨万吨级化学药品的失火现场去救援，然后你感动的称他们是英雄，称他们在“最伟大的逆行”，他们牺牲了自己，你落泪伤心。你好意思感动吗？！你好意思伤心吗？！有人说，外国的消防员也奋不顾身。但你忘记了，他们大多都是在尊严的冒险，他们熟知自己面对的危险是什么，可能后果是什么。人基本的尊重做到了，去冒险保护市民，他们会义无反顾。</p>
-<p>人的生命都是平等的，也许不同的职业会赋予人们不同的责任，但在对事情的衡量和知情权上一定要是相同的，而且人却“无知”却“弱小”，就越应该受到保护，得到便利。<strong>希望以后的某一天，我们不再会是：无事时无忧，有事时显真情，人死了落泪点蜡烛，只尊重尸体，却不尊重活人。</strong></p>
-<p>@风飞掠影 15/08/13</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E9%A3%9E%E6%8E%A0%E5%BD%B1%EF%BC%9A%E6%88%91%E5%AF%B9%E5%A4%A9%E6%B4%A5%E5%8C%96%E5%AD%A6%E5%93%81%E7%88%86%E7%82%B8%E7%9A%84%E8%AF%B4%E6%B3%95%E5%92%8C%E4%B8%80%E4%BA%9B%E4%B8%93%E4%B8%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E5%AE%89%E5%85%A8/?category=18271" rel="tag">化工安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">安全制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%94%E6%80%A5%E9%A2%84%E6%A1%88/?category=18271" rel="tag">应急预案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -919,5 +916,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
 </table>

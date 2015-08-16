@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dul6j283z2b1w.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%8B%E7%90%B3%EF%BC%9A%E4%B8%80%E5%A3%B0%E5%B7%A8%E5%93%8D%E5%90%8E%EF%BC%8C%E6%88%91%E6%8A%B1%E8%B5%B7%E6%9C%AA%E6%BB%A1%E6%9C%88%E7%9A%84%E5%AD%A9%E5%AD%90/" target="cdt-mirror">王琳：一声巨响后，我抱起未满月的孩子</a>
+</h2>
+<p><p>作者王琳系《新金融观察》报记者，家住启航嘉园小区，距8·12爆炸中心仅800米，家中受损严重。爆炸发生时,她的小宝宝刚刚出生28天，盼望这次事件不会给宝贝带来过多的影响，也祝愿王琳能早日走出心理阴影，一家人幸福安康。</p>
+<p>做了这么多年新闻，采访过各种事件，</p>
+<p><strong>直到8月12日晚上11点钟，我才了解，所有调查、所有追问、所有哀悼、甚至当中偶发的感动，是都不足以填补哪怕一丝一毫当事人内心的恐惧和现实的残酷的。</strong></p>
+<p>首先感谢我的同事们，作为新闻人，一手资料总是最珍贵，即使这样，大家给我的也只有安慰，没有一个试探性的问题，甚至还告诉我，不要回忆！</p>
+<p>但，不要回忆，很难。</p>
+<p>这两天无数次反复出现在我脑海中的画面，巨响、红色的天空、飞溅的玻璃碎片、剧烈晃动的楼体……</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6406.jpg" alt="640" width="550" height="408"></p>
+<p>作者所居住的启航嘉园小区，距离爆炸地点约800米，仅次于受害最严重的海港城</p>
+<p>这种恐惧是出现在我们逃离现场之后。在此之前，我满脑子都是要保护我只有28天的宝贝。</p>
+<p>根据塘沽的风俗，28天是小男孩满月的日子，第二天要带孩子回姥姥家，俗称挪骚窝。</p>
+<p>晚上十点多钟，我洗了出月子的第一个澡，和老公把第二天要带的东西简单整理了一下。</p>
+<p>这时候孩子已经睡熟，我回到大屋躺到他身边，盘算着小睡一下，等孩子醒了喂奶，老公因为下班后参加了公司组织的足球比赛，一身疲惫，去小屋上网放松。</p>
+<p>很快我便和孩子一同睡着。这是这次爆炸前，我家最后的安宁。</p>
+<p>睡梦中，我被一声巨响惊醒，我“蹭”地起身。</p>
+<p>此刻的我和孩子就睡在窗边。</p>
+<p>窗外通红一片，没关严的窗子被狠狠弹开。我满心困惑，心想孩子一定吓坏了，老公马上跑过来看我俩，我们不知道，这只是个预演。</p>
+<p>大约30秒之后，所有人还没回过神来，一次更巨大的爆炸声传来，伴随的是楼梯的剧烈摇晃，此刻的窗户已经崩裂，碎玻璃和其他碎片在屋内四散，电也瞬间断掉。速度之快，让人来不及反应。</p>
+<p>我一把抱起孩子，用身体护起来。老公喊，下床来，快躲到床下（安全三角区）。</p>
+<p>我摸索到床下，老公把我们娘俩抱起来，一把拉过床垫，挡在了我们头上。</p>
+<p>此时满屋满地都是碎片，窗户被毁，儿子奇迹般地没有受伤，我的肩膀只是被飞溅的玻璃划了一个小伤口，儿子身上只是溅上了零星的很碎的玻璃片，我在床下循着玻璃的亮光逐一择了下去。</p>
+<p>孩子开始在我怀里哭，我把衣服解开把乳头送到他嘴里，他吃了几口奶便又睡了。我些许放心。</p>
+<p>老公也只是受了轻微的皮外伤，他的幸运在于，爆炸时正走在最安全的位置。晚走一步是客厅，是此次爆炸受损最严重的地方，落地窗被炸漏；前走一步是洗手间干区的室内墙，当时就有部分坍塌。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6411.jpg" alt="641" width="375" height="500"></p>
+<p>启航嘉园小区受爆炸影响，住户家中门窗被震碎</p>
+<p>我们一家三口就这样和死神擦肩而过。</p>
+<p>老公像个英雄一样护着我和孩子，短暂的躲避期间，我发现我面前的地上有血，我意识到可能是光脚下床时踩到玻璃，割破了脚。</p>
+<p>稳定过程中，我们想到是爆炸。这时候窗外除了红彤彤一片，还充满了人们的叫喊声。</p>
+<p>老公让我和孩子继续在床下等，又用床垫盖实，给我找了拖鞋（此时拖鞋已经炸离原来的地方），随手从衣柜拽了件衣服给我披上。</p>
+<p>过了一会，老公引导我出屋，来到客厅，景象令我震惊，飘窗碎在地上，已经和室外相通，家里的东西全部四散，客厅大门也全部掉落下来。</p>
+<p>我家是全阳户型，冲击波由阴面来，有墙为我家挡了一道，即使这样家中还如此，通透户型便更难以想象。之后了解到我们小区内的确有人被冲击波冲倒。</p>
+<p>抱着孩子，我没有时间伤感，来到门口，听到邻居出来说话的声音，我在屋里喊：“怎么样了，可以出去吗？”</p>
+<p>此时我老公也背包出来，邻居喊说，大家一起走一起走。</p>
+<p>此前我和邻居经常在微信说等我出了月子带小宝儿去串门，见面后心领神会地对了一个眼神——没想到会在这样情况下见这一面。</p>
+<p>逃亡的路步步惊心，因为爆炸往往会有连带反应，你不知道下一秒是怎样的。</p>
+<p>我家住九楼，走安全通道楼梯下楼。我尝试着什么也不想，只注意孩子和脚下，楼梯布满碎玻璃和窗框木条。</p>
+<p>邻居在前面引路，我抱着孩子，慢慢向下摸索着走，后面的邻居则负责打开手机照明。</p>
+<p>生死攸关，往前多走一步，就是离安全更进一步，在充满各种可能性的情况下，两位邻居依然配合着我抱孩子的慢步伐，让我感激。</p>
+<p>从九楼下来，大街上人潮汹涌，因为没带眼镜，再加上不停关注着孩子，我只记得看到捂伤口的人和只穿着内裤跑出来的人，车横七竖八交错在街上。</p>
+<p>后来老公跟我说，幸好你看不清。</p>
+<p>而这句话，也就让一切尽在不言中了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6421.jpg" alt="642" width="375" height="500"></p>
+<p>启航嘉园小区单元门被爆炸震碎</p>
+<p>一路上，邻居一直在帮我们开路，不停说，我们这里有个刚出生的小婴儿！麻烦让一让！</p>
+<p>刚出小区不久，我就感到喉咙不舒服，这让我更担心对孩子的不良影响，而当下我只能拿毯子把他的脸蒙严一点。</p>
+<p>邻居的朋友开车在会展中心轻轨站等我们，在离我家不到一公里的地方，我们步行过去。</p>
+<p>进到车里，感谢的话说到词穷，我因为担心孩子，拜托对方把我们送到最近的医院——泰达医院，想要先给孩子做个检查。</p>
+<p>一路开得万分心焦，如大家所想，路上堵得一塌糊涂。</p>
+<p>路上我不停确认孩子的体温，观察孩子的表情，他全程睡着，只是偶尔晃一晃身体，甚至露出了两个微笑，这让我放心一些。</p>
+<p>在我们到达之前，公公婆婆已经先来到急诊，下车后，我在马路对面等家长，期间有车路过询问我们是否要用车，还有车主在很远的地方叫我们到车里等，马路上不时有车主叫“有一起去xx医院的吗”。在此真的要感谢这些志愿帮忙的人们。</p>
+<p>说句老话，患难见真情。极端情况下，人性的光辉和丑恶都会显露出来。好在在这次事件中，我看到的都是光辉。</p>
+<p>我们小区物业夜班值班保安，几次冲到楼里去救被困住户，还把一位70岁老人背下楼，这是我之后了解到的。</p>
+<p>再回到现场。公婆跑来，说没有明显外伤急诊已经不收人。</p>
+<p>婆婆急切地从我手里接过孩子，在孩子交给婆婆的那一刻，我紧绷的神经第一次松了下来，眼泪夺眶而出。</p>
+<p>听从建议，我们决定去塘沽妇幼。</p>
+<p>果然，塘沽妇幼人很少（因为一般民众很少会想到这家医院），但也有受伤人员来到这里求助，这里起码能做最基本的消毒和包扎。</p>
+<p>因为夜里值班人数有限，所以只是给孩子听了心跳和呼吸，没有问题。但我依然担心隐患，所以全家决定明天一早回来给孩子复查五脏和听力。</p>
+<p>临走，医院里穿便服的不知是否医生的人帮我清理了伤口。</p>
+<p>随后，我们回到了新港婆婆家，大约凌晨3点，一切安定下来。而恐惧感也是从这时开始的。</p>
+<p>由于担心孩子健康，我陷入深深的自责，为何不第一次爆炸就抱起孩子，一个小婴儿，28天便经历这样的事，我心疼得像针扎一般。</p>
+<p>打开手机已经满是现场的视频和照片，我根本不敢点开。一段时间内我甚至不允许老公和家人聊这件事。</p>
+<p>看到满眼的报道，深感所有文字都无法描述真实的现场给人的伤害。我们一家三口平安尚且遭受如此大的心灵损伤，更何况伤亡民众。</p>
+<p>在灾难面前，没有任何安抚甚至补偿能够真正地弥补受灾人，真的，什么都不行。比如伤亡民众、还有那些受伤甚至献出生命的消防官兵。</p>
+<p><strong>但在此之外，事实和公正是对受灾人最起码的尊重。</strong></p>
+<p>因为眼镜在出逃时没戴，而配眼镜又需要几天的时间，我不得不把脸贴在手机上写下这篇纪实，顾不得文采、顾不得情感。只想做这次灾难一隅一个最真实的还原。</p>
+<p>我无数次表示，我们一家三口真的是幸运儿，内心无限感恩。关于财产，我目前没有想太多，生命安全大于一切。目前小区已经被武警封锁，在确认安全之后会让业主回来，做财产损失评估。</p>
+<p>关于这次补偿的可能性，我没有头绪，因为这次的灾难规模已经不是简单的“补偿”，而是“重建”。</p>
+<p>文章的最后，我盼我赶快走出阴霾，盼这次事件不会给宝贝潜意识留下阴影。<strong>盼人心越来越好，盼社会多点敬畏，人祸不要再有。 </strong></p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%8B%E7%90%B3%EF%BC%9A%E4%B8%80%E5%A3%B0%E5%B7%A8%E5%93%8D%E5%90%8E%EF%BC%8C%E6%88%91%E6%8A%B1%E8%B5%B7%E6%9C%AA%E6%BB%A1%E6%9C%88%E7%9A%84%E5%AD%A9%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%9F%8E%E9%99%90%E5%88%B6%E5%A4%96%E6%9D%A5%E4%BA%BA%E5%91%98-%E6%B9%96%E5%8C%97%E7%BB%B4%E7%A8%B3%E5%8A%9E%E6%96%87%E4%BB%B6%E5%88%97/" target="cdt-mirror">自由亚洲｜北京城限制外来人员 湖北维稳办文件列明监控对象</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/deec2be6-a75b-43c7-a24a-dd2115e28187.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/deec2be6-a75b-43c7-a24a-dd2115e28187.jpeg" alt="deec2be6-a75b-43c7-a24a-dd2115e28187" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/m0815-ql1p2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/m0815-ql1p2.jpg" alt="m0815-ql1p2" width="500" height=""></a></p>
@@ -878,23 +955,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%96%B0%E7%9A%84%E6%81%90%E6%85%8C%EF%BC%9A%E5%A4%A7%E7%88%86%E7%82%B8%E6%AF%92%E7%83%9F%E5%90%91%E6%B8%A4%E6%B5%B7%E5%B1%B1%E4%B8%9C%E6%89%A9%E6%95%A3/" target="cdt-mirror">苹果日报｜新的恐慌：大爆炸毒烟向渤海山东扩散</a>
-</h2>
-<p><p>天津大爆炸或造成严重污染！环保组织绿色和平发声明，指担忧某些化学品泄漏会威胁天津市民健康，呼吁当局密切监测、彻底交代爆炸原因及哪些化学品泄漏。另一方面，有外国卫星昨拍摄到爆炸烟团扩散到渤海上空，正向山东扩散，但对本港应影响不大。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/532918048ae918f83ec1e6af7d6103e6.jpg" alt="532918048ae918f83ec1e6af7d6103e6" width="499" height="296"></p>
-<p>前日下午的官方记者会上，天津环保局长温武瑞曾透露，事发后他们曾于爆炸点附近设置17个空气监测点，以及五个废水监测点，初步测出事故现场的有毒物主要有甲苯、可致癌的哥罗芳和环氧乙烷。官方于昨早召开的记者会则表示，市内平日一向有监测的空气污染物都已回复正常水平，但仍未能确定现场仓库危险化学品的种类和数量，现场还有未爆炸的化学品，当局会继续检测。绿色和平东亚办公室代表则指，平常的空气监测只测量PM2.5粒子、PM10粒子、一氧化碳、二氧化硫、二氧化碳和臭氧共六种物质，但爆炸涉及的化学物质，目前的机制无法反映，因此未能知晓当地空气污染程度如何，也难判断是否足够。此外，代表又指爆炸揭露内地监管化学品的漏洞、危险化学品讯息封闭并缺少公众参与，也令消防员缺乏现场化学品资讯而造成重大伤亡。</p>
-<p>浓烟不断　弥漫刺鼻气味</p>
-<p>爆炸发生至昨日，事发现场仍可见浓烟不停冒起，空气中弥漫刺鼻气味。封锁范围一带执勤的警员，却竟未佩戴防护装备，甚至也不见他们戴上口罩。相反，离事发现场较远的灾民临时庇护中心外，很多武警和市民均戴上口罩。有居民指，担心市内空气受污染，更有父母表示打算带子女离开天津暂避。此外，有内地记者在爆炸点外100米的高速桥底下，发现一滩黑色疑似危化品残留物，向其灌水会冒气泡并发出声响，随后更会燃起火苗，冒出白烟，火屑四溅，并伴有爆炸声，跟大爆炸反应相似。据悉消防员发现多处有相似的残留物，推测是爆炸时抛洒出来的，他们已用沙土掩埋。</p>
-<p>另外，现场区域存放了约700吨氰化钠（俗称山埃）。当局指地下管道检出COD（化学需氧量，此处数值越大代表有害物质越多）超标3倍、氰化物超标8倍。当地天气预报指这几日可能会下雨，对于有指山埃会透过泥土进入水源造成污染，当局没详细说明如何有效阻止，只说现场完全封锁，所有溶解性化学物质都会留在现场，目前周边环境未受污染。现时他们只是封堵地下管道的排放口，而内里储下来的污水，将用水泵抽进污水处理厂处理。</p>
-<p>美国卫星terra和aqua，以及日本卫星Himawari-8，连日对天津一带上空拍摄彩色图像，显示爆炸后产生的黑烟团吹向渤海，现时正向山东半岛方向扩散。有澳洲专家指因这次爆炸力量巨大，污染颗粒从风向相反方向推送。另外有本港学者指，爆炸中产生的有害物质对约二千公里外的香港影响不大，但担心爆炸会对天津及附近一带造成污染，影响或长达数年。而本港环保署也指本地空气质素目前未发现异常。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%96%B0%E7%9A%84%E6%81%90%E6%85%8C%EF%BC%9A%E5%A4%A7%E7%88%86%E7%82%B8%E6%AF%92%E7%83%9F%E5%90%91%E6%B8%A4%E6%B5%B7%E5%B1%B1%E4%B8%9C%E6%89%A9%E6%95%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -906,7 +966,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -916,5 +976,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>

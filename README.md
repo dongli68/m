@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A8%81%E6%B4%9B%E6%AF%94%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A4%A9%E6%B4%A5%E6%B0%91%E4%BC%97%E9%A9%B1%E8%B5%B6cnn%E8%AE%B0%E8%80%85%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/" target="cdt-mirror">威洛比：关于“天津民众”驱赶CNN记者的一点感想</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN05.png" alt="CBSN05" width="550" height=""></a><br><em>（ 悲催的 CBSN 记者被非群众赶出了报道现场 ）</em></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a title="【立此存照】别让老外帮中国人报道啊！（更正）" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/">【立此存照】别让老外帮中国人报道啊！（更正）</a></li>
+<li><a title="Permanent Link to 【图说天朝】从CBSN记者报道遭阻中学习辨别真假警察" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%BB%8Ecbsn%E8%AE%B0%E8%80%85%E6%8A%A5%E9%81%93%E9%81%AD%E9%98%BB%E4%B8%AD%E5%AD%A6%E4%B9%A0%E8%BE%A8%E5%88%AB%E7%9C%9F%E5%81%87%E8%AD%A6/" rel="bookmark">【图说天朝】从CBSN记者报道遭阻中学习辨别真假警察</a></li>
+</ul></blockquote>
+<p>关于“天津民众”驱赶CNN记者报导塘沽爆炸事件的前前后后，基本事实已经澄清了，这里谈一些网络舆论与新闻从业者尴尬的生存状态吧。</p>
+<p>在关于自拍杆与拍尸体之类的谣言戳穿之后，又把各种支持“正义民众”的言论看了一遍，不外乎三个说法。一，“应该是”老百姓情绪激动，外国记者的出现就是碍事，挨艹合情合理。二，CNN作为老牌敌对势力，臭名昭著，活该。三，你们无非是想借机黑政府吗，早被机智的我一眼看穿了。怎么讲，后两种言论属于卖萌，其实没有反驳的必要了。</p>
+<p>说一下第一种言论。这是一个很有趣的现象，一个职业越被打压，民众对它的观感就越不佳，对该职业相关基础知识的了解就越缺乏，对基本的职业伦理的认知就越 扭曲，就越认为你的存在本身就是错误的。比如毛时代的臭老九知识分子，由于长期打压，导致知识分子干任何事情，都带有一种“原罪”，毛时代而言，只需要一 部分人民公仆和广大淳朴的工农群众就够了，知识分子永远是腐朽的小资产阶级的象征，你居然不去种地放卫星，不去扛枪，不去赶美超英，不去当政治路线鼓吹 手，躲在象牙塔里搞什么狗屁不如的学术，那你就是在犯错。</p>
+<p>如今的记者（不仅外国记者）就处于这样的地位上，律师和记者，是目前这国家受打压最重的团体，由于审查制度，这是个新闻自由度非常非常低的国家，这个我们都懂。很多从业者受到打压，同时由于强大的的宣传攻势的配合（不然不能证明这种打压的合理性），这个群体的公众形象也越发不堪。大概多年以前，记者还是一个受人尊敬的职业，如今已经被认为是“四处煽风点火，唯恐天下不乱”的破坏你国星辰大海之路与和谐社会的潜在罪犯了。</p>
+<p>即使在知乎这种“高素质”社区，有一次，在如何评价吴晓波的文章《最后一个“看门狗”也走了》？ – 创业这个问题下，一个答案赤裸裸说到：”一般职业很少有原罪，而律师和记者是少有的有原罪的职业”，并且刷了上千赞，这种公然鼓吹职业歧视的论调大行其道，实在令人不寒而栗。记者和律师，越被打压，就越成为“人民公敌”。毕竟在营销号都能在某个话题下操纵舆论的时代，一个枪杆子在手，又掌握几乎所有社会资源的强大的国家机器，要搞臭一个群体，太容易了。</p>
+<p>这种对新闻自由与从业者的长期打压，不仅导致这一群体的公众形象日益恶化。更导致普通民众对新闻从业者应该干什么与新闻伦理缺乏最基础的认知。在一些 “爱国人士”眼里，记者等于煽动犯偷窥狂，新闻采访等于流氓骚扰，如今又发明了一个新的道德大棒叫“二次伤害”。这种被无限扩大化的诛心神论可以安在我们每一位围观者头上。一边是新闻自由受到严重打压，一边你一旦想突破一点点极权机器恩准的边界追求真相，立马有一顶二次伤害的大帽子扣到你头上，与铁拳配合起来真是相得益彰，记者如果不乖乖当官家的贴心小棉袄，还能不身败名裂吗?</p>
+<p>根据外国记者的权利和责任， 既然他并没有违反国家境内的法律法规，那他作为外国记者的合法权益应该受到尊重和保护，很多爱国人士义愤填膺地说记者如何碍事，伤害人民群众感情，可除了种种造谣，露出的只有新闻记者原罪论与帝国主义亡我之心不死的底裤。他们谈起官员与御用专家，往往说是应该尊重专业，屁民不许质疑所谓专业人士；但面对记者和律师，却一点也不欢迎专业人士了，提起记者律师，不需了解这些行业的任何相关知识，张嘴骂记者律师都是存心不良的坏人就可以了。</p>
+<p>毕竟他们希望生活在这样一个理想国，一个强力国家，没有司法独立与新闻自由，却能在文明程度上赶美超英，民众都是民粹蠢货，不需要有任何诉求与博弈能力。官府事事都无需沟通拍脑门决定，却总能保证决策的英明神武，只需对上负责无需对下负责的官员，个个都是精英。不需要尊重法律仗义执言的律师，却能保证不发生新闻中的种种冤假错案，不需要新闻自由与勇于探寻真相的记者，却总能保证上下内外信息畅通无阻，民众不被蒙蔽。这可能才是“中国梦”的真谛吧，一种大型白日梦。</p>
+<p>在一个极权郭嘉，民众行为与官府行为往往是难以切割的。如今大概就是朝阳区群众之类火眼金睛的好群众，在文革那种时代，你的父母老婆孩子学生朋友，与你一样既是受害者，也可能是极权的一只只眼睛与一双双铁拳。这次究竟是民众自发行为还是有背后力量操控，最终只能成为是割裂的社会中见仁见智的又一种，因为 这个国家的所有公众事件，永远处于政府“自证清白”（因为所有应该独立于政府的监督机构事实上都属于它）与民众“妄加猜测”（他们没有可以信任的力量去监督ZF）之间。但这次事件刚一发生，五毛们就进行铺天盖地花样翻新的造谣攻势，配合的过于及时，这节奏感也真的太好了。</p>
+<p>最后上一个彩蛋，如今大谈“你们能不能有点同情心”，体谅民众’不理性行为”的人，和过去挥舞着正义的大棒，把所有同情底层者斥为“圣母”的人，重合率太高了，一种大型精神分裂。反对者并没有能力也无意愿惩罚这些“民众”（况且也不知道是否是自发的），仅仅批评一下这种行为本身，就成了“你无情你冷酷你 无理取闹”了？</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A8%81%E6%B4%9B%E6%AF%94%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A4%A9%E6%B4%A5%E6%B0%91%E4%BC%97%E9%A9%B1%E8%B5%B6cnn%E8%AE%B0%E8%80%85%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%B1%E4%BA%86%E6%B2%A1%E4%BA%8B%E5%B9%B2%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">吃饱了没事干的外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AA%92/?category=18271" rel="tag">外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A%EF%BD%9C%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%B6%88%E9%98%B2%E5%91%98%EF%BC%8C%E5%A4%A9%E6%B4%A5%E6%B8%AF%E5%85%AC%E5%AE%89%E5%B1%80%E7%9A%84%E8%AD%A6/" target="cdt-mirror">中国新闻周刊｜不只消防员，天津港公安局的警察也并非公务员</a>
+</h2>
+<p><p><strong>《中国新闻周刊》记者|杨时旸（发自天津）</strong></p>
+<p><em>(本文首发于《中国新闻周刊》新媒体平台，转载请注明)</em></p>
+<p><em>微信公号：百万庄的小星星</em></p>
+<p>“按理说，我们天津港公安局消防支队第四大队的位置是距离出事地点最近的，其实就隔着一条马路。”天津港公安局一位不愿具名的民警对《中国新闻周刊》表示，“这么说吧，就算我们走着去，也比其他消防队开车来要快。所以，先到达出事地点的应该是我们这边的消防队。”</p>
+<p>而天津市公安消防局局长周天目前也对外证实了这一点，在介绍现场救援情况时，他表示，当晚22点50分接警后，最先到达现场的是天津港公安局消防支队。</p>
+<p>“第四支队的驻勤地点，办公地点，车库，都在一个楼里，到的肯定最早。”上述民警对《中国新闻周刊》解释，“港里接到火警电话之后，接警平台一般都会先分配给我们，如果火势比较大，可能会同时通知其他消防队。”</p>
+<p>根据天津港内部人士透露，当天晚上，天津港公安局一共出动了三个消防大队，每个大队大约25人。另外还有去现场支援的派出所以及交通指挥方面的民警。</p>
+<p><strong>“我们有一份内部统计的失联和确认牺牲的人数名单，但没办法说。”</strong>一位天津港公安局内部人士对《中国新闻周刊》表示。</p>
+<p>官方对外公布的数据显示，截止到8月14日18时，此次爆炸事故共造成85人死亡，其中消防人员21人。新华社记者曾在新闻发布会上提问：“这21人包不包括天津港公安消防局的人员？”相关人员回答：“包括。”</p>
+<p>“天津港公安局消防支队的消防员，怎么说呢，有点像农民工那一类吧。”一位天津港公安系统内部人士对《中国新闻周刊》说，“这边需要人了，就招聘。 当然，消防员是越年轻越好呗。来了都需要培训和参加训练。但是有的人来了，干两个月，觉得没意思或者太苦，就走了。他们的薪水是天津港集团对签了他们的劳 务派遣公司发放的。”</p>
+<p><strong>和中国官方语境中常说的“消防官兵”不同，天津港公安局消防支队的成员其实就是派遣合同工。更甚的是，不只是消防员，天津港公安局的民警也并不属于公务员编制，本质上讲，也同样为企业员工，薪水由天津港（集团）有限公司发放。</strong>但他们有警号，着警服，按照警察的工作规范进行要求，拥有配枪，有执法权。 这支警力队伍在业务上受交通部公安局和天津市公安局双重领导，在业务上以天津市公安局领导为主。行政和人事上却受天津港（集团）有限公司管理。但是交通部公安局在名义上也有行政和人事管理权。换句话说，天津港公安局局长需要得到天津港集团和交通部双方任命，并抄送天津市公安局。</p>
+<p>据内部资料记载，1972年9月22日，天津港务局革命委员会根据交通部计划工作会议和全国公安工作会议精神，提请成立天津港公安局。10月22日，交通部正式批准，天津港公安局为处级单位，王毅任局长，王英华、藏广祥任副局长。下设办公室、调研科、治安科，编制22人。</p>
+<p>1980年8月，增设防火科，与消防队统称消防科队。1984年5月，天津港务局进行管理体制改革，天津港务局受天津市政府和交通部双重领导。同 时，天津港公安局也实行受天津市公安局和交通部公安局双重领导，以天津市公安局领导为主的管理体制。1989年11月，天津港公安局正式纳入天津市公安局 序列，行使分局职权。2010年1月，交通部公安局以文件形式明确了天津港公安局机构设置和人员编制。机构设置分为综合管理机构、执法勤务机构和派出机 关、机构。综合管理机构共3个；执法勤务机构共15个。目前，天津港公安局在册民警为580人左右。这个人数并不包括消防人员。</p>
+<p>对于这支中国公务员系统之外的警察力量，也曾有过多次转制为公务员的呼声。据《中国新闻周刊》得到的消息，最近一次，天津港公安局上报转为公务员一 事是在2010年，原本应在2012年左右会得到回复。但由于后来中央提出编制和财政都不能增加的原则，此事又一次搁浅。据内部人员透露，天津港公安局普 通科员的待遇相比天津市公务员序列内警察普通科员的待遇，要低一些，但科级干部的待遇水平要稍高于同级别公务员系统内的警察。大家对于转为公务员一事一直十分关心，因为“转成公务员之后，工作起来会名正言顺很多。”天津港公安局一位民警对《中国新闻周刊》说。但他们并非没有顾虑。因为转为公务员后，如果按照中直机关的待遇定夺薪酬，有可能会比现在的待遇更低，但如果按照天津市地方公务员待遇定薪酬就会稍高一些，而他们自己并不知道转为公务员后到底会按照哪 种标准执行。</p>
+<p><strong>但无论怎样，是这些非公务员警察和非武警序列的消防员在爆炸的第一时间冲向事发现场，而外界并不清楚他们其实没有编制内的身份。这些第一批重进爆炸现场的人员伤亡惨重。</strong></p>
+<p>爆炸发生后，天津港公安局两位副局长失联，局长重伤。目前，局长顾育农正在港口医院住院，据悉其耳膜穿孔。《中国新闻周刊》记者8月15日上午去往 他所在的VIP病区，值班民警声称，“他现在不在，去现场了。”据《中国新闻周刊》得到的信息，天津港公安局领导层在爆炸事故中伤亡、失联人数几乎占到编制人数的一半，目前，他们的工作向政委金树成汇报，天津港公安局东疆分局局长宋江新、天津港公安局交警支队队长肖屹利也在自己需要负责的领域内主持工作。 <strong>需要强调的是，无论是爆炸现场已经牺牲的公安局领导还是普通民警，所有人无一例外都属于企业员工编制。</strong></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A%EF%BD%9C%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%B6%88%E9%98%B2%E5%91%98%EF%BC%8C%E5%A4%A9%E6%B4%A5%E6%B8%AF%E5%85%AC%E5%AE%89%E5%B1%80%E7%9A%84%E8%AD%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E6%97%B6%E5%B7%A5/?category=18271" rel="tag">临时工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%A4%96/?category=18271" rel="tag">体制外</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1%E5%91%98/?category=18271" rel="tag">公务员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E5%AE%B6%E5%B1%9E%E6%80%92%E9%97%AF%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AF%BB%E4%BA%B2/" target="cdt-mirror">德国之声｜爆炸事故失联家属怒闯新闻发布会寻亲</a>
 </h2>
 <p><p><strong>天津爆炸事故中至今失联的消防官兵家属试图闯入周六上午举行的事故新闻发布会，导致现场一度混乱。有家属高举身份证，他们诉求的是获得家人的消息。 </strong></p>
@@ -779,110 +830,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B9%E6%98%93%E7%89%BA%E7%89%B2/" target="cdt-mirror">大象公会｜中国消防员为什么容易牺牲</a>
-</h2>
-<p><p><em>新浪微博<a href="http://weibo.com/daxianggonghui">@大象工会</a></em><br><em>官网：http://www.idaxiang.org/</em></p>
-<p><strong>培训体制落后，经费来源不稳定，人员流动性强……中国的消防队员面对的不仅仅是火灾，还有复杂的制度困境。</strong></p>
-<p><em>文 | 杜修琪 齐群</em></p>
-<p>中国城市爆炸事故，总有消防员牺牲的消息，天津的爆炸也不例外，截止今天，天津8•12滨海新区爆炸事故，已有至少17名消防队员牺牲，占官方统计的全部死亡人数约1/4，另外，数名消防队员失联。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/8798db0ec823e748c8b07fbe3158c680.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/8798db0ec823e748c8b07fbe3158c680.jpg" alt="8798db0ec823e748c8b07fbe3158c680" width="600" height="230"></a><br><strong><span>▍近年城市救灾中殉职消防员信息统计</span></strong></p>
-<p>从统计中可以看出，牺牲的消防员年龄普遍偏低，很少超过25岁，最小的只有18岁，只有伤亡20人的衡阳特大火灾中，有30岁以上的消防员牺牲。此次天津爆炸，一名25岁，刚刚结婚12天的黑龙江籍消防员牺牲，尤为令人难以接受。</p>
-<p>历次事件中，消防设备的问题非常突出，如上海徐汇区大火，就暴露了高层灭火设备的不足，此次天津爆炸事件，19小时过去，爆炸的化学物质还未弄明，消防队员却没有专业防护设备的情况下，坚持救援。</p>
-<p>而 这样的程序也引发了问题。根据今天《南方周末》的报道，一名消防队员称：“第一批投入的消防队员人很多，‘有一百多’。现场并无人告知他们有不能沾水的危 险化学品。该消防员说，大家就按照正常途径用水来救火。自己是‘二板车’（音），负责给前面的车供水。‘开始是一个集装箱，大概喷水10多分钟，听见啪啪 啪响，然后集装箱就亮了。先是一个小爆炸，后来就出事了。’”</p>
-<p>今天，新闻和社交网络中对消防员的讨论非常多，其中，一张图片令所有人印象深刻：一队带着口罩，提着铁锹，列队的士兵，准备前往爆炸现场。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/c8c2fd5021b749cb69dffae4ca7ed410.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/c8c2fd5021b749cb69dffae4ca7ed410.jpg" alt="c8c2fd5021b749cb69dffae4ca7ed410" width="576" height="395"></a><br><span><strong>▍数百名武警官兵蓄势待发（图片来自网络）</strong></span></p>
-<p>不少人发出了疑问，为什么只戴了简单口罩，拎着铁锹，就准备进入现场？</p>
-<p>其实，这些官兵属于武警部队，但不是消防官兵。他们的装备看起来还不如后者。</p>
-<p>为什么总是年轻的官兵在事件中牺牲？为什么多次灾难后，消防设备水平仍然令人担忧？武警和消防官兵在编制上有什么差别？</p>
-<p>这些问题看似简单，却涉及了解放军，公安部，地方政府，林业局等部门，想要做任一改进，都要在协调复杂的制度中，不同机构的权力和利益。想要让中国消防队员减少牺牲，设备更加专业，并不是简单地推进公务员化、职业化就能解决的。</p>
-<h2><span><strong>麻烦的人与装备</strong></span></h2>
-<p>中国的消防部队是武警的一部分，除此之外，武装警察部队还有内卫、边防等各专业警种。</p>
-<p>消防部队是其中比较特殊的一种，它实际上受多重力量领导：</p>
-<p>——组织上，武警消防部队配额为国家兵役编制，执行中国人民解放军的条令条例和供给标准，其工资、服装、生活费由国防经费支出。</p>
-<p>——业务上，武警消防部队接受公安部消防局指挥，该局为正军级单位，列公安部第七局。</p>
-<p>——经费上，开支由地方财政负担，比如消防车辆及装备器材等业务经费，就由部队所在地提供。</p>
-<p>所以，虽然部队行政经费由国家统一划拨——主要是人员工薪、医疗、保险、公用经费等，但这些只能勉强维持部队日常生活。真正决定部队之间差别的是消防业务经费——消防站工程建设、装备购置、器材购置、信息网络建设及应急物资储备等，却依赖当地政府的慷慨程度。</p>
-<p>较为发达地区的消防官兵能获得的经费，会远远超出经济落后地区。如以下表格显示：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/b2d78cbd6e940aec56fd018af0a77639.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b2d78cbd6e940aec56fd018af0a77639.jpg" alt="b2d78cbd6e940aec56fd018af0a77639" width="525" height="719"></a><br><span><strong>▍2011年，财政部下发《地方消防经费管理办法》，各地区按照自身条件，制定当地标准。以上是根据公开资料整理的部分省市情况</strong></span></p>
-<p>而在地区内部，基层消防支队、大队的经费也千差万别。地方经济条件好的，业务经费有数千万甚至上亿，差的只有百余万，个别相当差的大队，年业务经费只有十余万。</p>
-<p>而且，消防部队的自由度有限，尤其是单位的编制名额，非常固定，要调整需要多方请示，而采购的设备，很少能根据当地情况定制或订购。</p>
-<p>这种条件下，不要说比拼高层灭火、化学保护设备，训练高难度灭火技能，就是基本的营房建设，一些大队都没法保证。根据学者张中有的论文《中国消防体制的困境及对策研究》，消防支队、大队的领导，核心作用之一，是找领导签字，跑财政要钱，这牵涉了大量精力。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/aa36812ddecd96cb58fe37532882ee35.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/aa36812ddecd96cb58fe37532882ee35.jpg" alt="aa36812ddecd96cb58fe37532882ee35" width="525" height="660"></a><br><span><strong>▍2005年几个省市采购的设备数和相应的设备采购经费</strong></span></p>
-<p>2008年的《中华人民共和国消防法》，除火灾扑救、常规救援任务外，又给消防部队增加地震灾害、抗洪抢险、爆炸等 18 项抢险救援任务。</p>
-<p>本 来，中国的消防官兵占国民比例就偏低——2012 年，中国消防官兵总人数13 万，约占国民总人数的万分之一，仅为美国的十分之一左右，又增加诸多职能（虽然这样令地方消防能利用消防检查，有一定的寻租空间，但这部分收入不会进入到 设备采购等环节），却总体上加重了消防负担。</p>
-<p>同时，人员上受国家兵役制度限制，是基层官兵普遍年轻的原因。消防士兵分义务兵、士官，义务兵 2 年制，兵员由武装部统一招入，异地招兵非常常见，一个新兵往往刚熟悉驻地，掌握业务，就面临退伍问题，而且选改士官比例非常有限。</p>
-<p>为什么事故中牺牲的多数是年轻官兵？因为基层的消防员几乎都很年轻。</p>
-<h2><span><strong>消防队员的职业训练</strong></span></h2>
-<p>整体而言，中国的消防队员职业训练时间较短，内容简单，与发达国家差别很大。这与消防武警所属的体制相关。</p>
-<p>消防武警的入伍训练，与军队新兵训练标准类似——队列、内务、体能。唯一不同的是，解放军的技术内容为武器装备的操作使用，消防武警则是消防器械操作和业务理论学习。</p>
-<p>新兵训练时间非常短，事实上很难掌握复杂的消防技能，其科目也和实际技能相差甚远，如下图所示：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/d7088a803c02ae35bda87b71e246d255.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/d7088a803c02ae35bda87b71e246d255.jpg" alt="d7088a803c02ae35bda87b71e246d255" width="525" height="1473"></a><br><span><strong>▍2011年某地森林消防武警新兵训练（共九周）的第二周与第六周的训练内容</strong></span></p>
-<p>真正的职业技能从何学习？复杂的现场情况如何掌握？</p>
-<p>答：从实践中来，到实践中去。</p>
-<p>目前，中国大陆的消防武警更多是在救灾实践中积累经验，但人人都知道，这是一个高危行业，所以，消防经验的积累常常要以生命为代价。</p>
-<p>很少有国家像中国这样培训消防队员。海峡对岸的台湾，消防队员有着严格的准入制度——想报考消防警察，须高中毕业后，报考2年制警察专业学校，或者4年制警察大学的消防科系。</p>
-<p>毕业之后，也要再参加警察特考中的消防警察类考试，通过才可进入消防队。而且，不同学校背景，入职等级都有差别——警专毕业生只能报考四等消防警察，警大毕业生才能报考三等消防警察。</p>
-<p>至于非警察专业的社会人员，想要加入消防员队伍，也要先参加消防警察类考试，考上后，受训一年半到两年才能任用。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2b80ac6c59396b5bd6019ca1ff2993e8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2b80ac6c59396b5bd6019ca1ff2993e8.jpg" alt="2b80ac6c59396b5bd6019ca1ff2993e8" width="575" height=""></a><br><span><strong>▍台湾警专消防科系二年级课程（图片来自腾讯新闻《今日话题》）</strong></span></p>
-<p>至于美国，则有消防员170万人——其中职业消防员70万人，志愿消防员100万人，此外，社区还有义务消防员。</p>
-<p>消防员队伍职业素质较高，但它面向社会开放申请：18岁的公民，经个人申请，然后经2年急救和护理教育培训、280小时灭火训练，可以成为消防员。消防队员实行考试晋升制度。现实中，青年、中年、老年消防队员同时在职，消防队伍非常稳定，而且职业素质更高，经验丰富。</p>
-<p>美国的消防投入经费非常庞大，全国50个州，合计每年投入的正常消防经费约1500亿美元（不包括新增装备、车辆、新建消防站等专项经费），全体消防员人均年收入1.3万美元，职业消防员的人均收入则可达5万美元左右。</p>
-<p>从这些比较来看，中国的消防队员培训普遍不足，而且年龄层单一，退伍制导致经验丰富的一线人才大量流失。</p>
-<h2><span><strong>另类的消防队员</strong></span></h2>
-<p>中国的情况非常复杂，消防制度也同样如此。按照目前的规定，农村地区、边远地区很难有消防站和消防队伍，而大城市不断扩张，原有的消防编制难以应对。</p>
-<p>所以，和协警、协管一样，消防部门的“合同工”出现了。2014年4月走红的武汉“抱火哥”，就是合同工。</p>
-<p>合同消防员的应征流程很简单，先通过两个月左右的培训，然后考试，通过的人就进入消防部队，只是他们没有编制，虽然考核标准类似，但是待遇普遍更低，而且肯定没有上升空间。</p>
-<p>可想而知，这样的合同工流动性有多么大。据中青报报道，2014年下半年，中部某省消防总队面向社会公开招收了1000多名合同消防员，培训结束后就走了上百名。</p>
-<p>在一些快速城镇化的城乡结合地区，人口暴增，正规的消防部门没有顾得上，都会出现居民联合雇佣的消防队伍。传统上一直极少设立消防站的农村，也有类似的尝试，他们通常以联防队的名义组建。</p>
-<p>这也是国家所提倡的。2009年修订的《中华人民共和国消防法》中，规定：</p>
-<p>“乡镇人民政府应当根据当地经济发展和消防工作的需要，建立专职消防队、志愿消防队，承担火灾扑救工作”</p>
-<p>“村民委员会、居民委员会根据需要，建立志愿消防队等多种形式的消防组织”。</p>
-<p>2011年底，中国大陆共有乡镇专职消防队3546个、志愿消防队10637个，村级专职消防队678个、志愿消防队114764个，覆盖率分别为42.6%和17.0%。</p>
-<p>但这样的队伍培训难以保证，经费依赖分摊，非常不稳定，常有搭便车等问题。</p>
-<p>吉林公主岭市范家屯的一位民办消防队曾接受采访，说过：</p>
-<p>“以前别的村不交钱我们也击救火了，但交过钱的村民看不交钱也救火，第二年也不交了，我实在是担心以后再没人交钱，所以才没去。这几年我们已亏空十多万元，连油都加不起了，不是我们见死不救，实在是无能为力。”</p>
-<p>至于更加专业的领域，如电力、煤炭、石化等，其大型企业往往筹备了自己的消防队伍。他们的经费由地方政府和企业共同负担，如果企业业绩良好，其设备、待遇都明显高出地方消防。</p>
-<p>此外，中国还有另一只庞大的消防队伍，其人数甚至超过中国正式的消防官兵总数。</p>
-<p>这就是森林消防。在“森林防火，人人有责”的口号下，中国建立了覆盖全国的森林消防。目前，约有各类队伍15.3万支，约350万人。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/63d824f0317f53b13c56fe99d2695d93.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/63d824f0317f53b13c56fe99d2695d93.jpg" alt="63d824f0317f53b13c56fe99d2695d93" width="575" height=""></a><br><span><strong>▍全国森林消防队伍情况</strong></span></p>
-<p>然而，1998年“天保工程”（天然林保护工程）实施后，森林砍伐大幅下降，各地区森工系统普遍衰落，森林消防的经费首当其冲，普遍降低。其人员培训远远不如地方消防，专业程度同样很难相比。</p>
-<p>所以，中国的消防系统，就像被捆绑在了军队、地方政府、公安、森工等部门上，想要作出任何改进，都要跨越重重阻碍。因此，在可预见的将来，经验匮乏的年轻官兵，仍要在短时间的培训后，以相对落后的设备，去应对更加复杂的城市灾难。</p>
-<p>无论如何，这种对抗并不公平。</p>
-<p><strong>微信公号：大象工会 ID:idxgh2013<br></strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.jpg" alt="大象工会" width="275" height=""></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B9%E6%98%93%E7%89%BA%E7%89%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">行政干预</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%B7%A5%E7%81%BE%E5%AE%B3%E6%88%96%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">端传媒 | 吴强：中国化工灾害或引发政治危机</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/3f5b55114a754738b44da0a0a6cee61d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/3f5b55114a754738b44da0a0a6cee61d.jpg" alt="一名消防员在事发现场附近休息" width="550" height="365"></a><p>一名消防员在事发现场附近休息</p></div>
-<p>在中国人长久的历史记忆中，自然灾害爆发後，总是不可避免地产生政权合法性的危机，灾民往往也成为揭竿而起的主力。这种传统的灾害政治观念，深深嵌入在董仲舒所确立的「天人合一」儒家政治模式中，自然灾害与政治合法性息息相关。</p>
-<p>在现代中国政治中，仍然相当程度上主宰着权力斗争的合法性以及民众对政权的态度，例如1959-1961年期间的所谓「三年自然灾害」、以及1976年的陨石落地、唐山地震、1988年的兴安岭大火给民众和政权造成的心理冲击。</p>
-<p>直到2008年的汶川地震，一句「多难兴邦」才算终於转换了这一传统的灾害政治负担，在「维稳政治」的框架下，丧事喜办，几乎任何自然灾害都可以免被追责，灾害成因以及次生灾害背後的人为因素，如规划失当、过度开发、盲目建设等但凡牵涉到利益集团和执政绩效的问题都可以被遮盖。维稳政治成为灾害政治的遮羞布，也将传统的灾害政治去政治化了。这大概是胡温政权的一大政治遗产，在改革开放30年後，官僚政党的现代性终於完成对儒家政治的替代。</p>
-<p>而13日天津滨海新区的化学品仓库大爆炸，似乎重新唤醒了人们对另一种灾害的记忆。在集体记忆被严密控制的坚硬外壳下，一系列工业灾害尤其是化工、化学品灾害彷佛刹那间鲜活起来。新旧媒体在抢救的同时就整理、传播了今年上半年发生的一系列化学品和化工行业灾害，独立的NGOCN网站第一时间列举了这些事故灾害：</p>
-<p><strong>4月6日福建漳州古雷PX工厂爆炸、4月21日江苏南京扬子石化爆炸、6月12日南京化工圆区德纳化工厂火灾、7月16日山东日照石大科技石化公司液态烃球罐泄露爆炸。如果再早，这个清单也许会无限延长，包括大连的数次石化大火，甚至其他行业的爆炸事故，甚至1993年深圳清水河化学品仓库大火也被刨了古坟。</strong></p>
-<blockquote><p>迄今为止，中国绝大多数的邻避运动都与化工行业有关，对化工行业和化学品管理安全性和可靠性的不信任、对背後政商关系利益和脱责的怀疑，已经成为当下中国城市中产阶级的一个普遍心态。</p></blockquote>
-<p>公众当然有充分的理由质疑生产安全、追责地方政府，也同样有理由在任何新的化工项目开建之前发起抗议、怀疑环评和规划，即近年来遍及全国的邻避运动。有趣的是，迄今为止，中国绝大多数的邻避运动都与化工行业有关，对化工行业和化学品管理安全性和可靠性的不信任、对背後政商关系利益和脱责的怀疑，已经成为当下中国城市中产阶级的一个普遍心态。</p>
-<p>这只是新的灾害政治的一面：发展原则仍然停留在一味追求GDP绩效和产业自主化，造成紧密、合作的政商关系，随时从GDP政治转向掩盖事故的维稳模式，而追求粗放、低成本的工业模式又为化工、化学品行业埋下了巨大的风险，缺乏责任政治的基本监管，哪怕现有国家和行业的化学品管理标准有多麽严格，反而刺激着新兴的中产阶级无比焦虑，随时可能爆发新的邻避运动。最近上海金山的大规模抗议既为一例，毋须社运组织或NGO，只要关系切身利益，新兴中产阶级们的自我学习和自发组织总会奏效。</p>
-<p>新灾害政治的另一面，就是这种大规模工业化时代各种利益相联结、相冲突与城市生活、城市人群密切相关，如中石化黄岛管线爆炸或大连石化大火，以及历次邻避抗议，都暴露了这种即便符合陈旧生产安全标准或规划要求也难以避免的高密度渗入，政商关系高密度渗入、工厂分布与居民空间高密度渗入、潜在灾害区域与互联网公共空间高密度渗入，都自我消解了维稳政治一贯的分隔策略。而他们所擅长的另一种渗透式控制，或许能够在汶川地震之类的自然灾害或者蓟县大火、「7.23」动车事故这样的中等规模事故後进行人盯人的控制，但是终将难以应对大规模的工业灾害。</p>
-<p>如此次天津滨海新区化学品堆垛区的爆炸发生後，地方消防指挥居然第一时间派遣大批消防官兵冲入火海，而不是修建隔离带。宣传当局对媒体的严管、网管机构对互联网的审查，也难以真正隔离公众在新媒体时代的感知能力，反而每时每刻制造着新的管控笑话，如地方维稳人员对CNN现场摄制组的暴力袭击经由直播传向世界。</p>
-<p>简言之，大规模突发性工业灾害的频发，不仅改变了传统自然灾害在被去政治化的维稳政治框架，也可能突破维稳政治的控制能力，从而直接在工业灾害与国民利益、与政治责任甚至政权合法性之间建立起一条爆炸性通道。</p>
-<blockquote><p>新的工业灾害政治将进入全新的阶段，执政者被迫面临在超复杂巨大工业体和更庞大新兴中产阶级之间的两难选择、在大规模突发工业灾害和全国性反核运动之间的两难选择，都意味着严重的执政危机。</p></blockquote>
-<p>而在这一条通道的两端，一头是深深嵌入现有粗放工业体系和粗暴资本主义模式中的追求大工业、高速发展，然而管理粗放、责任虚位、政治腐败，以至於工业灾害和次生灾害的潜在风险水平极高；另一端，则是後极权时代切尔诺贝利核电站的历史阴影，一场大规模的工业灾害随时可能导致政权崩溃，超出了任何维稳政治或者极权控制的能力。天津爆炸就发生在迎接抗战胜利70周年阅兵的京津冀联合安保时期，其本身就不能不说是一个巨大的讽刺和挑战。即使撇开近年来因为化学品和化工行业引发的地方邻避运动和雾霾、气候变暖所引发的环境政治焦虑，想想中国沿海城市在建的数十座核反应堆，就能预见，邻避运动的未来将可能是更大规模、更大范围的反核运动。</p>
-<p>届时，新的工业灾害政治将进入全新的阶段，执政者被迫面临在超复杂巨大工业体和更庞大新兴中产阶级之间的两难选择、在大规模突发工业灾害和全国性反核运动之间的两难选择，都意味着严重的执政危机，如果他们还没有及时找到一条新的民主政治道路以化解上述紧张的话。这或许是天津滨海新区化学品爆炸所带来的各种不明产物的其中之一。</p>
-<p><strong>（吴强，德国杜伊斯堡埃森大学政治学博士，社运研究者，自由撰稿人）</strong></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%B7%A5%E7%81%BE%E5%AE%B3%E6%88%96%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%AD%A6/?category=18271" rel="tag">化学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%BB%E6%94%BF%E6%B2%BB%E5%8C%96/?category=18271" rel="tag">去政治化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF/?category=18271" rel="tag">执政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">政治危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">灾害</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -904,5 +851,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>

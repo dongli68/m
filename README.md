@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dul6j283z2b1w.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,72 @@
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%80%E4%B9%88%E5%B7%A5%E4%B8%9A%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E6%B0%B0%E5%8C%96%E9%92%A0%EF%BC%9F/" target="cdt-mirror">牛博山寨｜什么工业需要用到这么多氰化钠？</a>
+</h2>
+<p><h3>中国特色的杀鸡取卵：氰化钠、黄金、泥石流</h3>
+<div>
+<div>【按：8 月 12 日天津爆炸现场有 700 吨氰化钠，这是剧毒物质，这么多氰化钠干什么用？在我国，其主要用于开采黄金。“黄金资源贫匮的中国，己连续十年全球黄金产量第一，靠的就是这玩艺儿，触目惊心”！】</div>
+<div>一、氰化钠与黄金</div>
+<div>2010 年 7 月 4 日，福建龙岩市上杭县紫金山尾矿溃坝，福建汀江受到氰化钠污染；</div>
+<div>2010 年 7 月 28 日，吉林桦甸市常山镇大河水库发生溃坝，下游 5 个村庄被冲毁，溃坝真相和具体伤亡人数至今没有公布，官方通讯只称“造成巨大人员伤亡”；</div>
+<div>2010 年 8 月 7 日，山东省招远市一金矿发生火灾，16 人遇难；</div>
+<div>2010 年 8 月 8 日，甘肃舟曲县突发特大泥石流灾害，泥石流冲进县城，并截断白龙河流形成堰塞湖，目前已致 702 人遇难 1000 多人失踪。</div>
+<div>紫金、招金，人人皆知，是全国著名黄金之乡。桦甸，有中国黄金第一乡之称，长白山下黄金国的美誉。舟曲，西部产金大县，舟曲 — 文县 — 两当的白龙河流域、西秦岭延伸带号称亚洲第一大金矿。</div>
+<div>短短两个月，中国东西南北四大黄金之乡全部遭灾，造成巨大人员伤亡。与之相对应的是，从 2009 年开始，中国超越南非、澳大利亚、俄罗斯，连续三年排名全球黄金产量第一。</div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpeg.jpg" alt="0?wx_fmt=jpeg" width="550" height="412"></div>
+<div>上图：这就是紫金山，整座大山都被剥皮</div>
+<div></div>
+<div>很多人会纳闷，较之南非、澳大利亚、俄罗斯、美国、加拿大诸国，中国不是一个黄金资源大国，而且中国的金矿品位低，开采价值低，何以能成为全球黄金产量最多的国家？而且，南非、澳大利亚、俄罗斯等黄金生产大国产量在逐步减少，中国的黄金产量却在不断增加，全球黄金产量第一的位置无人能够撼动！</div>
+<div></div>
+<div>个中的秘密，就是中国大力推行一种工艺简单、投资少、建设周期短，成本低，在中国提炼品位低至每吨矿石含 0.5 克金还能赚大钱的炼金术……氰化钠堆浸提金术。</div>
+<div></div>
+<div>是中国人聪明，发明的新工艺吗？是中国金山多，有资源优势吗？回答是 No。氰化钠堆浸提金术是美国人上世纪六十年代发明的，它源于 1900 年前美国盗采黄金的贼子们采用的提炼术：偷采金矿的盗贼将矿石碰碎后，放在桶里，一吨矿石加 1 公斤氰化钠，把黄金从矿石浸泡出来。</div>
+<div></div>
+<div>南非、澳大利亚、俄罗斯、美国、加拿大的金矿更多，为什么不推行这种艺简单、投资少、建设周期短，成本低的炼金术？原因很简单，这种炼金工艺对环境的污染和破坏达到摧毁的程序。用这种工艺从贫矿中提炼 1 克黄金，要用 100 至 300 克的剧毒化学物氰化钠。故此，美国只容许在环保部门的严密监管下建立试验场。在美国、澳大利亚、加拿大，高标准的环保要求之下，用氰化钠堆浸提炼低品位金矿发不了财，一旦发生泄漏污染，会破罚到破产，故此，他们的商人不敢轻易冒险采用这项高危工艺。</div>
+<div>但美国人把这种工艺教给中国人，现在，全球最大的氰化钠堆浸提金的工场，就在福建龙岩市上杭县紫金山，每年处理矿石高达 200 万吨。</div>
+<div></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpg.jpg" alt="0?wx_fmt=jpg" width="550" height="412"></div>
+<div>上图：天山之巅的氰化钠堆浸提金场，这个喷头，就用于喷洒氰化钠溶液。</div>
+<div>下图：氰化钠堆浸提金场，工艺简单，无须建选矿厂，把矿石粉碎成石仔后堆积起来，喷洒氰化钠溶液 30 天到 90 天，从回收的氰化钠溶液分离出黄金。</div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fjpeg.jpg" alt="0?wx_fjpeg" width="412" height="274"></div>
+<div>二、尾矿库与泥石流</div>
+<div>7 月 24 日，河南省栾川县石庙镇启源公司尾矿库溃坝，栾川县潭头镇汤营村伊河大桥垮塌，县城被淹，造成至少 50 人死亡。</div>
+<div>栾川有中国钼都之称，中国学会氰化钠堆浸提金术后，在没有严格环保标准和环保执法之下，其成本优势突出，中国的企业又将氰化钠工艺用于钼矿的浮选分离，从此，中国大力开挖低品位钼矿，超越钼资源极为丰富的美国、智利等美洲国家，成为金球第一产钼大国。</div>
+<div>不仅仅如此，近年来，氰化钠和堆浸工艺还广泛地推广到铜、镍、铅锌等有色金属贫矿的湿选分离。</div>
+<div>尾矿库就是为储蓄浸炼过的矿石、矿渣和各种废水而人工筑造的大型库池。氰化物和硫酸钠等化学物浸炼过的矿石、矿渣和废水有剧烈的毒性、重金属和污染物，尾矿库的水只能进不能出，若遇大雨，容易漫坝、溃坝，形成泥石流。栾川伊河大桥垮塌，造成至少 50 人死亡，起先报道是大雨引发的洪水造成的，后被爆是尾矿库溃坝。可怜那些上桥观洪的死难者，他们预设山洪冲不跨伊河桥，却没想到，尾矿库溃坝产生的泥石流把他们连同大桥一起埋葬。</div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0g.jpg" alt="0g" width="550" height="412"></div>
+<div>上图：往尾矿库排矿渣、废水。你估一下那条用竹席加固的尾矿坝能顶多大的雨？</div>
+<div>下图：有些尾矿坝漏水、溃坝都是故意而为，漏了、溃了，推给天灾，矿主矿企就卸下维护尾矿库的责任。</div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpe.jpg" alt="0?wx_fmt=jpe" width="505" height="335"></div>
+<div>三、杀鸡取卵</div>
+<div>几年来，资源相对贫瘠的中国，一直是全球黄金、钼、铅、锌等有色金属的最大生产国。这是中国敢于牺牲环境、敢于牺牲人命，敢于大量开采低品位贫矿，敢于大规模采用剧毒的氰化，敢于大范围采用污染严重的堆浸工艺而取得的“成就”。它在为中国“鸡的屁”(GDP) 的增长做出贡献的同时，也氰化炼出无数富翁。</div>
+<div>由于矿石品位低，炼一吨金要开采百万吨的矿石，炼一吨钼、铅、锌也要开采成千上万吨的矿石。大量矿石的剥采造成严重的水土流失。而经过氰化、硫化、碱化的尾矿和尾矿库，就是埋在山河之上的一颗颗化学炸弹。</div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmt.jpg" alt="0?wx_fmt" width="551" height="413"></div>
+<div>上、下图：生活在尾矿库周边的人们</div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/wx_fmtjpeg.jpg" alt="wx_fmt=jpeg" width="500" height="335"></div>
+<div>内蒙古包头有近百座尾矿库，其中包纲尾矿坝位于包头市区 12 公里、九原区和昆区交界处，周长 13．6 公里，占地 11 平方公里，用 GOOGLE 地图很容易就找到。包钢从白云鄂博采矿，经火车运至包头选矿厂，将矿石破碎研磨成粉，提炼后将剩余矿浆全部泵到尾矿坝，现储存尾矿１．５亿多吨、水１７００多万立方米。其中有约 7 万吨放射性金属钍。现在这座尾矿坝不断漏水，监测中发现，尾矿坝周围水源的放射性物质全部超标。</div>
+<div>包钢的这座尾矿坝，离黄河最近处仅为 10 公里，在尾矿坝西面不足 20 米的地方，便是黄河支流——当地人称为山水渠。每年 7 月至 8 月包头雨季到来之时，洪水卷席从尾矿坝渗出的水，经山水渠一起排入黄河。更为可怕的是，尾矿坝的水“只进不出”，完全靠自然蒸发，只得每年以 0.9 米的速度不断加高尾矿坝。包头处于地层断裂带，一旦出现地震或者大规模降雨致使尾矿坝决堤，后果不堪设想。这座尾矿坝设计寿命到 2025 年，黄河危在旦夕。</div>
+<div>金、钼、铅、锌全球产量第一的背后，是中国特色的杀鸡取卵。杀的鸡是九百万平方公里的山河水土，贻害的是十四亿人和他们的子孙后代；而卵的利益，只有少数人获得。这也足使少数人富得流油。</div>
+<div>问题的关键是，在中国，只要有利可谋，就存在经济学所指的政府失效。故而，贫矿开采、水土流失，氰化、硫化、重金属污染，溃坝、泥石流，成了无力治理的顽疾。</div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpeg1.jpg" alt="0?wx_fmtjpeg" width="500" height="335"></div>
+<div>上图：7 月 24 日，河南省栾川县尾矿库溃坝，伊河大桥垮塌，县城被淹，造成至少 50 人死亡。</div>
+<div>下图：栾川县的一个尾矿库</div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/x_fmtjpeg.jpg" alt="x_fmt=jpeg" width="640" height="392"></div>
+<div>命都没了，还要钱有什么用，发展才是硬道理？按这种模式，越发展污染越严重。</div>
+<div>那些个奉行金钱至上的人们该想想了，即便你家财万贯，你能保证下次爆炸不在你身边？你能保证下次路陷、桥跨、房塌、强拆、官员嫖宿幼女、警察醉酒杀人……这些统统跟你无关，不会降临到你的头上？没有一个安全的制度保障，人人都是受害者。</div>
+<div>灾难面前，你什么都不是。人在做，天在看。</div>
+</div>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%80%E4%B9%88%E5%B7%A5%E4%B8%9A%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E6%B0%B0%E5%8C%96%E9%92%A0%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">环境保护</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A8%81%E6%B4%9B%E6%AF%94%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A4%A9%E6%B4%A5%E6%B0%91%E4%BC%97%E9%A9%B1%E8%B5%B6cnn%E8%AE%B0%E8%80%85%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/" target="cdt-mirror">威洛比：关于“天津民众”驱赶CNN记者的一点感想</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN05.png" alt="CBSN05" width="550" height=""></a><br><em>（ 悲催的 CBSN 记者被非群众赶出了报道现场 ）</em></p>
@@ -47,7 +110,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%B1%E4%BA%86%E6%B2%A1%E4%BA%8B%E5%B9%B2%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">吃饱了没事干的外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AA%92/?category=18271" rel="tag">外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A%EF%BD%9C%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%B6%88%E9%98%B2%E5%91%98%EF%BC%8C%E5%A4%A9%E6%B4%A5%E6%B8%AF%E5%85%AC%E5%AE%89%E5%B1%80%E7%9A%84%E8%AD%A6/" target="cdt-mirror">中国新闻周刊｜不只消防员，天津港公安局的警察也并非公务员</a>
 </h2>
@@ -803,33 +866,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E9%9C%8D%E5%85%8B%E8%A2%AB%E5%8F%8C%E5%BC%80/" target="cdt-mirror">自由亚洲｜中国原国家旅游局副局长霍克被双开</a>
-</h2>
-<p><p>中国原国家旅游局副局长霍克被日前被中纪委开除党籍公职，指控他贪污腐败及泄露国家秘密。有评论认为，霍克长期在令计划领导下工作，他被查处与令计划落马有关。</p>
-<p>北京的《新京报》日前报道，中纪委网站8月12号宣布， 经中共中央批准，中共中央纪委对国家旅游局原副局长、党组成员霍克严重违纪问题进行了立案审查。经调查，霍克严重违反廉洁自律规定，收受礼品；利用职务上的便利在干部选拔任用、企业经营等方面为他人谋取利益，收受贿赂；为谋求个人职务升迁，向他人行贿；泄露党和国家秘密。其中，受贿、行贿、泄露党和国家秘密问题涉嫌犯罪。霍克还存在干扰、妨碍组织审查的行为，严重违反党的政治纪律、政治规矩、组织纪律和保密纪律，且中共18大后仍不收敛、不收手，性质恶劣、情节严重。</p>
-<p>报道说，依据《中国共产党纪律处分条例》等有关规定，经中央纪委审议并报中共中央批准，决定给予霍克开除党籍处分；由监察部报国务院批准，给予其行政开除处分；收缴其违纪所得；将其涉嫌犯罪问题、线索及所涉款物移送司法机关依法处理。</p>
-<p>总部在比利时的国际反腐机构透明国际亚洲部负责人廖然对此表示，中国旅游局副局长霍克被查处的重要罪名是泄露国家机密：</p>
-<p>“霍克在被降任国家旅游局副局长之前，曾经担任保密局局长，长期以来是令计划的部下。令计划被双开时罪名之一就是泄露国家机密，霍克等人肯定是协助了令计划泄密。”</p>
-<p>霍克生于1961年，河北人。公开履历显示，他曾在解放军南京政治学院新闻系学习，当过北京军区政治部战友报社记者、编辑；随后进入中央办公厅，一直在秘书局工作，后担任中央办公厅秘书局局长。<br>
-廖然指出，令计划覆亡的转折点是2012年3月他的儿子发生车祸之际：</p>
-<p>“车祸到他去年被双开之间有很长一段时间。这期间，令计划手下的一窝人肯定预计到他们将面临鱼死网破的结局，因此他们不惜泄露国际机密，以获取日后进行讨价还价的政治资本。”</p>
-<p>霍克到底泄露什么样的国家机密，美国纽约市立大学政治学教授夏明认为：</p>
-<p>“官方没有说明到底是什么秘密，我们只能猜测。在过去四年里，习近平接班之际，中共党内的权力斗争激烈，薄熙来和令计划都是习近平上台的绊脚石。”</p>
-<p>夏明教授说，薄熙来和令计划手下的人都曾经海外媒体爆料一些不利于习近平的信息，</p>
-<p>“薄熙来通过新加坡的媒体爆料了不利于习近平的信息。而美国一些媒体曾经爆料习近平家人财产的信息。这些消息的来源很可能来自令计划手下的霍克等人。”</p>
-<p>霍克的工作经历和令计划有相似之处，令计划也是从中央办公厅调研室三组负责人做起， 2007年升任中央办公厅主任，自此直到2012年，转任中共中央统战部部长。令计划在中央办公厅工作的12年间，霍克一直是其下属。霍克去年12月16日从中办调到国家旅游局一周后，中纪委12月23日通报了令计划被调查的消息。</p>
-<p>记者:高山 责编： 嘉华</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E9%9C%8D%E5%85%8B%E8%A2%AB%E5%8F%8C%E5%BC%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%8D%E5%85%8B/?category=18271" rel="tag">霍克</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -851,5 +887,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>

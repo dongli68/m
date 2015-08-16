@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1a76y84uyc9xz.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%80%E4%B9%88%E5%B7%A5%E4%B8%9A%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E6%B0%B0%E5%8C%96%E9%92%A0%EF%BC%9F/" target="cdt-mirror">牛博山寨｜什么工业需要用到这么多氰化钠？</a>
@@ -85,7 +85,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">环境保护</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A8%81%E6%B4%9B%E6%AF%94%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A4%A9%E6%B4%A5%E6%B0%91%E4%BC%97%E9%A9%B1%E8%B5%B6cnn%E8%AE%B0%E8%80%85%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/" target="cdt-mirror">威洛比：关于“天津民众”驱赶CNN记者的一点感想</a>
 </h2>
@@ -877,7 +877,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -887,5 +887,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/></td>    </tr>
 </table>

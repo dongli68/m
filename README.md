@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dul6j283z2b1w.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%80%E4%B9%88%E5%B7%A5%E4%B8%9A%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E6%B0%B0%E5%8C%96%E9%92%A0%EF%BC%9F/" target="cdt-mirror">牛博山寨｜什么工业需要用到这么多氰化钠？</a>
@@ -887,5 +887,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

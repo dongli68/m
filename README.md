@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,139 @@
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E7%88%86%E7%82%B8%E9%82%A3%E4%B8%80%E5%A4%9C%EF%BC%8C%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F/" target="cdt-mirror">南方都市报｜爆炸那一夜，“瑞海”公司到底发生了什么？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%9D%91%E6%B4%9E1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%9D%91%E6%B4%9E1.jpg" alt="坑洞" width="550" height=""></a></p>
+<blockquote><section>截止到今天上午9点，天津港“812”事故已有<strong>112人遇难，失踪人员95人，其中消防官兵85人</strong>。失踪人员包括现役13人，天津港消防员72人，其他10人。</section><p>今天上午已派出<strong>200多兵力进入核心区</strong>，进行地毯式排查。另外，又增派某舟桥团，民兵<strong>2000余人在外围展开搜寻</strong>。北京军区参谋长史鲁泽称，现场人能到的地方我们防化兵都到了，人进不去的地方也都敲过摸过了，发现生还者可能性小，可能会继续发现遇难者。</p>
+<p>关于媒体报道的“700吨”氰化钠，史鲁泽表示，氰化钠的数量和位置已经确定，“<strong>数百吨是肯定的，集中分布在两个点位，25公斤桶装</strong>”。已炸开的，集中后用双氧水中和，未炸开的装箱运走。</p></blockquote>
+<section></section><p><strong>记者_刘洋 实习生卫佳铭</strong></p>
+<p><strong>来源_南方都市报</strong></p>
+<p>爆炸核心区又救出一名幸存者，涉事的“瑞海”公司被指涉嫌走私危化品，多名公安和消防系统官兵失联……天津港“8·12”爆炸事故已发生超过90个小时——悲伤，恐惧，焦急，疑惑——各类情绪交织。纷繁复杂的信息中，一个核心问题仍旧模糊：那一夜，“瑞海”公司到底发生了什么？</p>
+<p>这里综合“瑞海”公司工人、一线消防官兵、当地居民、失联者亲属等方已有的公开讲述，试图离情绪背后的真相更近。</p>
+<p><strong>起火：远看温和的像打火机火苗</strong></p>
+<p>8月12日晚，天津港，微风，路灯点燃，车在行，住房内的电视在放，生活如常。</p>
+<p>天津港公安局北港分局副局长刘峰在家休息，当日值班的是分局政委王万强。</p>
+<p>《新金融观察》记者王琳家住启航嘉园小区，心里正盘算着给刚出生28天的儿子“挪骚窝”（当地风俗，28天是小男孩满月的日子，第二天要带孩子回姥姥家）。晚上10点多，王琳洗了出月子的第一个澡，然后跟老公一起整理次日要带的东西。</p>
+<p>家住万科海港城最南的万明（化名）这天晚上快9点才回家，打开电脑，想给老板把下午做好的东西发过去，结果儿子不断出来捣乱。</p>
+<p>工人张华（化名）结束了一天工作，准备睡觉。他是天津瑞海国际物流有限公司（以下简称“瑞海”公司）危险品仓库的一名叉车工，住在公司办公楼的第4层。张华是个“临时工”，经人介绍来这里，获取计件工资，未与公司签劳动合同。公司按惯例压两个月公司，此时他六、七月的工资还没到手。</p>
+<p>仓库起火了，宿舍楼100米外一个气罐亮了4下，张华和工友们全跑下了楼，在大门以东的跃进路观望火势。此前公司仓库也发生过小火灾，张华起初并不在意。更何况，公司与天津港公安局跃进路派出所的办公楼一路之隔，很容易引起关注。</p>
+<p>22点40分许，天津港公安局北港分局副局长刘峰接到了值班政委王万强的汇报电话。刘峰妻子回忆，当时刘峰对电话回应，“赶紧拨119，我马上来现场”。妻子说：“当时他连警服都没来得及穿，就穿了警裤和一件海军蓝的背心。”</p>
+<p>万科海港城是离“瑞海”公司最近的小区，万明看见了起火，还发了个朋友圈，“远远的看，就像远处一个打火机火苗，很温和也不凶”。</p>
+<p>22点50分，天津消防总队119指挥基地接到报警，称天津开发区第五大街邻近疑似一辆汽车起火。随后多个电话报警称，天津港内起火疑似爆破。于消防队而言，这次接警与日常差别不大——发生火情，赶紧出警。特勤队中队负责通讯的消防员王强（化名）接到消防总队传达的报警信息。他回拨电话确认，报警人是万科小区一名女士，说火挺大，让消防人员赶紧过去。</p>
+<p>天津开发区公安消防支队八大街中队已经率先到达现场，该中队最初接到的也是群众报警，所以按普通火警出警。</p>
+<p>不久，港务局下属的三支专职消防队也到场救火。</p>
+<p>“瑞海”公司工人张华称，事发后跃进路边陆续停了二十几辆消防车。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%AE%B6%E5%B1%9E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%AE%B6%E5%B1%9E.jpg" alt="家属" width="550" height=""></a></p>
+<p>一名失踪者家属在医院门口等待家人消息。失踪者李全胜57岁，在停车场值班，值班时一共四人，至今都没信息。图/澎湃新闻记者 权义</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A9%E6%B4%A5%E6%B8%AF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A9%E6%B4%A5%E6%B8%AF.jpg" alt="天津港" width="575" height=""></a></p>
+<p>天津港公安局副局长、北港分局局长、多位警员下落不明。</p>
+<p><strong>灭火：堆场工人在不同区域围观</strong></p>
+<p>最先到达的八大街消防中队找到企业负责人，被告知起火集装箱附近的罐子里有危险品，但也说不清是什么危险品。</p>
+<p>王强所在的特勤队9个中队也在不清楚火灾详情的情况下陆续赶到现场。王强回忆，到现场，停好车后，领导就说水枪架上。“那天晚上有点风，往东边吹，从我们停车的位置放水枪射不到火上，指挥部也担心我们的安全，我们消防车上有消防水炮，后来就用了消防水炮。”王强坦言，最初没有想到要用沙子，车上也没有沙子。</p>
+<p>司机开车，指挥员指挥，一号车的战斗员抱枪灭火；二号车给一号车供水；三号车找消火栓，最后面的抢险车负责疏散人群。在短暂的时间内，现场所有的消防人员各司其职。也有消防员在距离着火点不到100米的马路上疏散群众，不过围观者并没就此撤离，不少人举着手机拍摄。</p>
+<p>张华证实，消防员到来后，就在跃进路上冲着堆场内喷水，而现场除了“瑞海”公司的员工，附近其他堆场工人也在不同区域观看救火。</p>
+<p>此时，万明刚刚哄完孩子睡觉，准备再给老板发东西，回到客厅，发现远处的火大了不少，回身喊老婆也出来瞧瞧。</p>
+<p>火势越来越大，有现场消防队员发现一个集装箱“着得特别大，感觉就像烟花噼里啪啦的”。</p>
+<p>八大街中队开始后撤，一边撤一边用水炮给“危险品”罐子降温。</p>
+<p>消防员王强回忆，2到5分钟后已感觉情况有些不对，判断可能是化学品，领导也开始下令后撤。</p>
+<p>危险的信号尚未来得及在火场传达。刘斌是天津港公安局消防四大队的2号副射手，浇完一盘水后，他只是觉得火势并不好控制。转身返回取第二盘水。三号车的李立（化名）更没发现任何异常，他先后找了两个消防栓，但都没水，找到第三个消防栓是离着火点最近的，他拧开了阀门，开始灌水。特勤中队的新兵李则军（1995年出生）因为穿的抢险服并没有最前线的战斗服防火功能强，被同车的人安排在了最外面。他在路口刚刚将水带铺好。因为有个转弯，需要铺的水带特别长。他也拧开了阀门。</p>
+<p>喷水持续了约半小时。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%95%91%E6%8F%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%95%91%E6%8F%B4.jpg" alt="救援" width="550" height=""></a><br>
+14日，救援人员在事故区域进行救援。</p>
+<p><strong>回忆：那一刻整个世界都沦陷了</strong></p>
+<p>万明的老婆很好奇，突突从房里跑出来，还没站稳，火光骤然逼近，就像远处的一个足球马上飞到眼前。</p>
+<p>这是现场第一次爆炸冲击。时间为23点34分左右。</p>
+<p>爆炸声通过手机传到了天津港公安局北港分局副局长刘峰妻子的耳朵里，此前一秒，刘峰刚刚打回电话，告知“我到现场了，今晚不回去了”。手机断线，无法再接通。</p>
+<p>爆炸时，王强跟队友正往外撤，路灯突然全灭，人一下子就飞了起来。距离爆炸点50多米的刘斌被热浪击中后背，摔倒在地。李则军身上一下子全着了火，他赶紧在地上滚了几下，把火扑灭。</p>
+<p>30秒后，第二次爆炸发生。</p>
+<p>刚准备爬起来的刘斌，又被炸趴下，全身动弹不得。李则军也在第二次爆炸中受伤。李立本能地想跑，但不知被什么东西绊倒，只能一直爬，爬进了一个坑里等着爆炸结束。</p>
+<p>王强看到，绿化带里的树被连根拔起，到处都是火点。他想打电话求救，手机被炸得不见了。他眼睛只能看到一点点光，听得到燃烧的声音，于是就向相反方向走。路上，他听到司机战友在喊救命，就搀扶着一起走，后面又碰到4名战友，找了个集装箱，坐在里面。</p>
+<p>万明夫妻带着孩子逃到了卫生间，爆炸带来巨响，房屋轻微摇晃。</p>
+<p>“我当时在睡觉，听见是爆炸，以为是地震就起来了……我们家玻璃全都碎了门都炸掉了。”跟万明同一个小区的赵洋如此描述。</p>
+<p>女记者王琳的家距事发地800米，她在睡梦中被巨响震醒。第二次爆炸声传来，伴随的是楼梯的剧烈摇晃，此刻的窗户已经崩裂，碎玻璃和其他碎片在屋内四散，电也瞬间断掉。速度之快，让人来不及反应。她一把抱起孩子，用身体护住，随后跟老公一起躲到了床下的安全三角区。</p>
+<p>家住金域蓝湾小区的栾涛觉得，当时“整个世界都沦陷了”，“就在这一瞬，伴随着一阵震天的响声，厨房的门一下飞到了卧室门口，餐桌上的玻璃器皿发出叮叮当当的混响，周边一阵破碎、跌落、撕裂……种种足以震颤人心的响声充斥，外面黄色的光线加剧，——是炸弹——我此刻确信！”</p>
+<p>后来人们知道，这两次爆炸的威力相当于24吨TNT，能量接近于53个战斧巡航导弹。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%B9%B8%E5%AD%98%E8%80%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%B9%B8%E5%AD%98%E8%80%85.jpg" alt="幸存者" width="550" height=""></a><br>
+15日，现场搜救出一名幸存者。</p>
+<p><strong>逃生：身体被不明液体烫得千疮百孔</strong></p>
+<p>“瑞海”工人张华也想知道，自己服务的那些6米多高的仓库里到底发生了什么。他说，“瑞海”公司是危险品的中转站，货物运进来，装箱，再运出去，他作为叉车工，负责的就是把散货装进集装箱，“集装箱里头有什么，我都知道”。</p>
+<p>根据张华的列举，这里常见的危险货物有：甲酸、二氯甲烷、氯酸钠、硝酸铵、金属钙、金属钠、金属丝、硫化钠……他说，电石会封存在铁桶里运来，装甲酸用的是大白桶。张华表示，自己知道瑞海公司的堆场里何时收到过哪种危险品，但不清楚这些危险品何时运走，也无法推测仓库内有多少存量。</p>
+<p>一种猜测称，也许是仓库内存储的电石遇水后反应引发了爆炸。但张华认为，爆炸可能跟喷水没有关系。因为喷水的位置很远，水到达的应是没着火的集装箱。据他的观察和推测，存放电石的区域处于水喷不到的位置，而爆炸的位置应该是一个20吨的气罐所在的位置，位于公司大院的最西边，挨着护栏。</p>
+<p>爆炸当夜，张华沿着跃进路向南连滚带爬。他看到，与“瑞海”公司一路之隔的跃进路东侧，博达集装箱物流公司的护栏被炸飞，一个集装箱被炸开了一扇门，就钻进去躲了起来。张华在这个变形的集装箱里躲了一夜，直到次日早晨被救出。他身上被滚烫的玻璃碴子和不明液体烫得千疮百孔，玻璃扎进了肉里。左脚受伤尤重，他在黑暗中只摸到左脚大量流血，就脱下衣服包住，身体躺在地上，用脚蹬住箱壁。获救后，他的左脚缝了二十几针。</p>
+<p>同样躲在集装箱内的王强跟战友们后来找到了一部电话，打了119和110，通过定位系统获救。消防员李立遇到了前来支援的战友，被送往泰达医院。消防员李则军后来遇到了公安，被送往港口医院。</p>
+<p>万科海港城居民万明夫妇后来走楼梯下了33楼，找了家宾馆安顿，第二天一早才知道具体发生了什么。</p>
+<p>女记者王琳把孩子送到了塘沽妇幼医院，孩子心跳和呼吸都没问题，但她至今担心着隐患。她事后感慨：“所以调查、所以追问、所以哀悼、甚至当中偶发的感动，是都不足以填补哪怕一丝一毫当事人内心的恐惧和现实的残酷的。”</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E7%88%86%E7%82%B8%E9%82%A3%E4%B8%80%E5%A4%9C%EF%BC%8C%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E6%97%B6%E5%B7%A5/?category=18271" rel="tag">临时工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%A4%96/?category=18271" rel="tag">体制外</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1%E5%91%98/?category=18271" rel="tag">公务员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E9%97%AE%E8%B4%A3%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">官员问责制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E5%8D%B1%E9%99%A9%E5%93%81/" target="cdt-mirror">【麻辣总局】李小乖：危险品</a>
+</h2>
+<p><blockquote><p>〝请问按环保部规定，危险品仓库与居民住宅的最小距离应是多远？〞</p></blockquote>
+<p>偶觉得最少应该这么远…</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9D%8E%E5%B0%8F%E4%B9%96_%E5%8D%B1%E9%99%A9%E5%93%81.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9D%8E%E5%B0%8F%E4%B9%96_%E5%8D%B1%E9%99%A9%E5%93%81.jpg" alt="李小乖_危险品" width="575" height=""></a></p>
+<p>这里是 李小乖 的微信公共号：blogtdorg</p>
+<p>李小乖 網絡漫畫工作者,漫畫博客【blog圖黨】™ 的永遠唯一作者，網易新聞『老衲局長小李』系列漫畫的作者。</p>
+<blockquote><p>背景新闻：<a title="天津官员不知危险品与居民区规定距离 发布会直播被掐" href="http://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%91%98%E4%B8%8D%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%92%AD/">天津官员不知危险品与居民区规定距离 发布会直播被掐</a></p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E5%8D%B1%E9%99%A9%E5%93%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8A%B5%E5%88%B6%E6%B5%81%E8%A8%80%E7%9A%84%E6%9C%80%E5%A5%BD%E6%AD%A6%E5%99%A8%E6%98%AF%E4%BA%8B%E5%AE%9E%E8%80%8C%E4%B8%8D%E6%98%AF%E8%B0%8B/" target="cdt-mirror">【网络民议】抵制流言的最好武器是事实而不是谋杀</a>
+</h2>
+<p><p><strong><a href="http://www.cac.gov.cn/2015-08/15/c_1116265229.htm">国家网信办依法查处50家传播涉天津港火灾爆炸事故谣言网站</a></strong></p>
+<blockquote><p>天津港“8·12”特别重大火灾爆炸事故发生后，一些网站或随意编发 “天津大爆炸死亡人数至少1000人”、“方圆一公里无活口”、“天津已混乱无序、商场被抢”、“天津市主要领导调整”等谣言，或任由网站用户上传来自微博、微信的相关谣言，制造恐慌情绪，成为谣言的集散地，造成恶劣社会影响，受到网民的谴责和举报。国家网信办会同有关部门，视情节轻重，对车夫网、美行网、军事中国网等18家网站采取永久关闭、注销备案处罚措施，对新鲜军事网、0668论坛、艾泽拉斯国家地理论坛等32家网站采取暂行关闭1个月的处罚措施。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64021.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64021.jpg" alt="6402" width="500" height="402"></a></p>
+<blockquote><p>相关阅读：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a>专题</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>何健大侠：造谣固然可恶，但是你们也得他妈的让我们知道真相啊。</p>
+<p>炭烧盐咖_花_天天情人节：有空查谣言，却没空查来源，<a href="http://finance.sina.com.cn/china/dfjj/20150813/164022958580.shtml">关闭天津工商局网页</a>，不就是给谣言四起制造温床么，想证实都没办法了 </p>
+<p>莱戈拉斯在伊丽莎白镇：你在网上发条敏感信息，一分钟以后他们就知道；然而，仓库里有些什么危险品、有多少、谁放的、啥时候放的，炸完了好几天还是不知道。用审查言论的力度审查危险品；用搞防火墙的热情防火灾，你国的所有问题都可以迎刃而解。（转自twitter）</p>
+<p>开空调盖厚被：这事儿可特么积极了。怎么特么不报道因为啥起火，责任人怎么处置？天津领导班子，国家安全局是不是集体请辞？一天就欺负弱势群体能耐。你们的谣言少吗？</p>
+<p>陆曦_土家族：公开是消灭谣言的利器。</p>
+<p>浩然一鸣：我们的一些政府发言人，都有种牙膏的属性。不挤不冒，挤一下，冒一点。他们的发言有种习惯性，本能性的防范，能不公布的信息尽量不公布，实在敷衍不了的，才吞吞吐吐丰遮半掩，与平常在强拆现场的强悍彪威，对比显明，好像不是一个朝代的人。唉，同志们，你们有法律政府撑腰底气应该是一样一样的！</p>
+<p>童妓叫兽：这么大的事一”谣言“之火四起，瞧给官方喉舌忙活的，绞尽脑汁地”防火灭火“，要是把这份精力和能耐用在火灾预防和救援上，恐怕不止于酿成如今的惨剧吧？</p>
+<p>赵兵杰：三百六十多个“造谣”账号、五十多个“传谣”网站，他们一清二楚、迅速处理。至于死亡名单、爆炸物成分，他们又支支吾吾、面面相觑。</p>
+<p>缄言勤思：真相到底是什么？谁能判定谁在造谣？！杜绝造谣最好的方法是尽快披露事实真相，让媒体进驻现场，实事求是的直播，而不是妄图堵住谁的嘴！事实才是最好的止谣方案，举报不是！</p>
+<p>陈洪Redondo：看咱办这事的速度和效率！3天，就3天！雷厉风行，风驰电掣！虽然还有太多未知，甚至还有幸存者在搜救中。我们伟大的国家啊</p>
+<p>观普绿豆123：什么是事实，统一口口径才是事实。</p>
+<p>沙沙俄：还有几个大谣该整治整治 如 央视新闻 人民日报 等</p>
+<p>十方7274：感觉现在舆论控制太强了，好像又回到了以前的那个年代！防民之口甚于防川！ 用真相回击谣言，政府怕啥？？ 动不动就关闭，封号！！这也不自信吗？</p>
+<p>蛋蛋有杀气：看见你们封网了 我就相信他们说的是真的了</p>
+<p>北京孙子：可怕的是真相不是遥言。。。</p>
+<p>卿年已暮：这个时候居然国家的关注点还是这？真心是失望透顶。</p>
+<p>小y懿莹：就因为中国没有一个权威机构，才会使百姓去相信谣言</p>
+<p>moonie_G：请告诉我，真相是什么，报道大家都不信，那真相是什么？大概是跟你们期望值一样的就是真相吧</p>
+<p>HappyQQ：我觉得嘛，其实中国就只需要一个网站就行了，CCAV.COM</p>
+<p>大大宿敌1994：事件调查结果还没出来，谣言就先扑灭了，呵呵，真迅速</p>
+<p>多余de流星41587：要是一两家网站有谣言我估计不会信，但是50家……</p>
+<p>NMB48_渋谷凪咲：“天津市主要领导调整”这一则恐怕是 遥遥领先的预言</p>
+<p>独关风月：有你们这样管制老百姓言论的水平和能力，漳州PX就不会炸了、南京扬子石化厂就不会炸了、南京德纳化工石就不会发生火灾、日照石大石化就不会炸了，政府做为公仆，先搞好自己的事再说，主人质疑公仆是天赋之义！</p>
+<p>八斤六两9528：除了打壓威脅還有個蛋本事啊，狗操的！</p>
+<p>抚顺市公共主页：不办正事儿删帖忙</p>
+<p>LZ-_-：呵呵，政府封谣言，你说要真相，政府说 这是真相，你说 我不信。</p>
+<p>Tryit王先生：这一个个查太麻烦了，最好的办法是全国断网，别让天津朋友圈的消息传出来，那么多谣言，不妨不行，是吧？</p>
+<p>深圳刘子晗：抵制流言的最好武器是事实，而不是谋杀，能够杀他依靠的是权力而非真理。政府不愿接受批评，但总该反思为什么拥有强大宣传能力和绝对媒体控制力的官媒、党媒、央媒等却惧怕一条“流言”？为什么那么多人民容易被“流言”影响而非被官媒的主流报道引导？失信于民的政府只能掩埋事实，以免暴露更多真相。</p>
+<p>噻琪：政府英明！！！什么时候封杀新闻联播？</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8A%B5%E5%88%B6%E6%B5%81%E8%A8%80%E7%9A%84%E6%9C%80%E5%A5%BD%E6%AD%A6%E5%99%A8%E6%98%AF%E4%BA%8B%E5%AE%9E%E8%80%8C%E4%B8%8D%E6%98%AF%E8%B0%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80%E5%8F%A3%E5%BE%84/?category=18271" rel="tag">统一口径</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">网络谣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%A0%E8%B0%A3%E4%BC%A0%E8%B0%A3/?category=18271" rel="tag">造谣传谣</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%B1%E8%B5%B0%E5%81%8F%E9%94%8B%EF%BD%9C3%E5%A4%A9%E5%90%8E%EF%BC%8C3%E5%85%AC%E9%87%8C%E5%86%85/" target="cdt-mirror">贱走偏锋｜3天后，3公里内</a>
 </h2>
 <p><p><em>来源：微信公号<a href="http://mp.weixin.qq.com/s?__biz=MzA4MDIzODgyOA==&mid=211484654&idx=1&sn=bf4b5bb87027fd16d6b612f8b6968694">@美树嘉文艺志</a>的转发，原文已被微信和谐。部分图片来自<a href="http://blog.bullog.org/2015/08/duty.html#more">牛博山寨</a>。</em></p>
@@ -659,283 +789,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%92%8C%E5%B0%8F%E6%AC%A3%EF%BC%9A%E8%B5%B0%E5%A4%9A%E8%BF%9C%EF%BC%9F%E4%BD%9C%E5%A4%9A%E4%B9%85%EF%BC%9F/" target="cdt-mirror">和小欣：走多远？作多久？</a>
-</h2>
-<p><p><em>作者：小心和小欣<br>
-微信号：x-ceanido</em></p>
-<p>这场爆炸，真的像是一场电影。<br>
-躺在宾馆床上的我，看着自己的照片，这样想。</p>
-<p><strong>1.</strong><br>
-第一眼看到这样的情形时，我惊了一下，这，是电影吧！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibKFlBtZVMklscATSNbBheLiaklPtjRPNDONy0frBQsVScj6gCEPicz03w_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibKFlBtZVMklscATSNbBheLiaklPtjRPNDONy0frBQsVScj6gCEPicz03w_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibKFlBtZVMklscATSNbBheLiaklPtjRPNDONy0frBQsVScj6gCEPicz03w_0?wx_fmt=jpeg" width="575" height=""></a><br>
-好莱坞科幻大片，都没有这么震撼。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibxBSf9X8wOaDcS4aibQKTqjxkwykQ39L9lJoEibuUbcSATGZoQ80BI5Jg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibxBSf9X8wOaDcS4aibQKTqjxkwykQ39L9lJoEibuUbcSATGZoQ80BI5Jg_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibxBSf9X8wOaDcS4aibQKTqjxkwykQ39L9lJoEibuUbcSATGZoQ80BI5Jg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>这如同人间地狱的情形，我心中只有一个词——切尔诺贝利！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsYdyfgUgY7GUZ5icKFbhU2k9q4GMZfJUIMvQbU69ajpyXCsLX9kRs7A_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsYdyfgUgY7GUZ5icKFbhU2k9q4GMZfJUIMvQbU69ajpyXCsLX9kRs7A_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsYdyfgUgY7GUZ5icKFbhU2k9q4GMZfJUIMvQbU69ajpyXCsLX9kRs7A_0?wx_fmt=jpeg" width="575" height=""></a><br>
-在我喜欢的电影《康斯坦丁》里，基努里维斯进入地狱，烈火炙烤一切，跟这里的情形如此相似。这些烧成框架的车身里，像是要时刻爬出地狱的厉鬼来。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibyTYR9zpnqSWnVvUZyvNmOHTtSGhJLwBxibyiaJqMQkKIpgTDJebI429w_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibyTYR9zpnqSWnVvUZyvNmOHTtSGhJLwBxibyiaJqMQkKIpgTDJebI429w_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibyTYR9zpnqSWnVvUZyvNmOHTtSGhJLwBxibyiaJqMQkKIpgTDJebI429w_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>这时候一个消防员拖着水袋，飞快地跑过我的镜头。</p>
-<p>他淹没在这些地狱之车的海洋里，而在昨晚，这里是一片火海！</p>
-<p>一个人，在这些人造物之前，是多么渺小；在水火与自然面前，又是多么脆弱！</p>
-<p>有人称消防员为“伟大”，而我看到的，却只是柔软易碎的肉身。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsYdyfgUgY7GUZ5icKFbhU2k9q4GMZfJUIMvQbU69ajpyXCsLX9kRs7A_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsYdyfgUgY7GUZ5icKFbhU2k9q4GMZfJUIMvQbU69ajpyXCsLX9kRs7A_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsYdyfgUgY7GUZ5icKFbhU2k9q4GMZfJUIMvQbU69ajpyXCsLX9kRs7A_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>我知道，我为什么要来到这里！</p>
-<p>这，是一次考验。</p>
-<p><strong>2.</strong></p>
-<p>我要回顾一下这一切的源起——</p>
-<p>8 月 2 日深夜，睡之前，我看到了塘沽爆炸的消息，有小视频。我还转发到了一个朋友群中。但我真的没意识到这场爆炸有多严重。</p>
-<p>等第二天一早醒来，才发现朋友圈已经刷屏了。</p>
-<p>已经迟了，犹豫要不要去。突发报道本报本来就少，而且出事地点不是北京。</p>
-<p>然而，这么近，不去？会后悔。</p>
-<p>跟部门领导请缨，允。出发。</p>
-<p>打车去南站的路上买了到天津的高铁票，想直接买到塘沽，发现并没有列车。</p>
-<p>路上一直跟同去不同时的浩哥沟通行程，他比我早买了到天津的票。</p>
-<p>9:30，乘上去天津的车。</p>
-<p>坐在座位上，浩哥忽然发来短信，说十点有南站直接到达滨海的高铁。</p>
-<p>网上一搜果然！</p>
-<p>犹豫，是先去天津，还是换车直接去滨海？</p>
-<p>跟在家住天津，工作在滨海的超，一直联系。浩哥和超都不确定天津到滨海的交通畅通，轻轨已经确定关闭，出租车呢？50 多公里。。。</p>
-<p>9:36 分，高铁开车前两分钟，我跳下来，买了去滨海的票。</p>
-<p>10:10 分，再次坐上高铁。</p>
-<p>11:10 分，准时到达滨海。</p>
-<p>出站，出租车，直达泰达医院。</p>
-<p><strong>3.</strong></p>
-<p>离现场越近，我越是兴奋起来。</p>
-<p>错过第一现场，我只能先去医院看看第二现场。</p>
-<p>但我的心里，早就确定不能止步于此。</p>
-<p>11:35，进入泰达医院，第一眼看到的是这样的情形——</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib6TQHxBMTKNbDyNRFiaQbZicRrRfWnBZ0xyicBickVIpP8ZcH2RtFFaHrcA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib6TQHxBMTKNbDyNRFiaQbZicRrRfWnBZ0xyicBickVIpP8ZcH2RtFFaHrcA_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib6TQHxBMTKNbDyNRFiaQbZicRrRfWnBZ0xyicBickVIpP8ZcH2RtFFaHrcA_0?wx_fmt=jpeg" width="575" height="431"></a></p>
-<p>然后，第二眼就是这样的——</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibcMcibmWRrxoSGKwC2ZBIRnjJVn1flCFNz2Xyh07libuQaicPyEDcPZHhg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibcMcibmWRrxoSGKwC2ZBIRnjJVn1flCFNz2Xyh07libuQaicPyEDcPZHhg_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibcMcibmWRrxoSGKwC2ZBIRnjJVn1flCFNz2Xyh07libuQaicPyEDcPZHhg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>伤员在填充每一张病床，志愿者和爱心人士在填充没一寸户外空间。</p>
-<p>与志愿者／爱心人士同时出现的，还有层层的安保和管制，我在医院里转了两圈，发现拍到重伤员和救治情况比较困难。于是当即决定改去现场。</p>
-<p>我出门没有带口罩，因为虽然前方有传来空气有毒的消息，但我直觉并不会太严重，因为滨海人并没有疏散。超也告诉我，他们上午还去滨海正常上班了。</p>
-<p>来到滨海，发现空气质量还好，除了雾霾。</p>
-<p>街上有不到一半的人戴了口罩。在步行赶往火场的路上，看到很多这样的场景。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibOgEY8KdQohM61fQrXQMEanPmxkZ4cmGsmNewibnqUP06icibVNUDoOEDg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibOgEY8KdQohM61fQrXQMEanPmxkZ4cmGsmNewibnqUP06icibVNUDoOEDg_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibOgEY8KdQohM61fQrXQMEanPmxkZ4cmGsmNewibnqUP06icibVNUDoOEDg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>我默默在心里说：不要吓自己了！没那么严重！</p>
-<p><strong>4.</strong></p>
-<p>我并不知道火场附近的环境，所以选择了步行，可以在路上熟悉环境，并且随时拍摄。</p>
-<p>离火场一公里左右的一处居民楼，玻璃几乎全被震碎，窗帘随风凌乱。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibqmGricBjcB2CxUZ8GyDMHSqs7wPUXyek4q8As3g7y7TOYRJ62fK51AA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibqmGricBjcB2CxUZ8GyDMHSqs7wPUXyek4q8As3g7y7TOYRJ62fK51AA_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibqmGricBjcB2CxUZ8GyDMHSqs7wPUXyek4q8As3g7y7TOYRJ62fK51AA_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>附近的居民也像是在看电影。。。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibHJkSbNqKZx3u5tbHp5KIPkSzvf335YN4PmC7McYBpgezXiaVkFGXPmw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibHJkSbNqKZx3u5tbHp5KIPkSzvf335YN4PmC7McYBpgezXiaVkFGXPmw_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibHJkSbNqKZx3u5tbHp5KIPkSzvf335YN4PmC7McYBpgezXiaVkFGXPmw_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>路上跟凌晨就进入第一现场的新京报摄影大路联系，他还在里面，外面已经严格警戒，突破预期比较困难。</p>
-<p>走了将近半小时，我来到了警戒线外。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibrR0EPlVjF1xWvezhcUoPyLw11G2xicbSZ8iaDr6TE29uCvStyF8EINDQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibrR0EPlVjF1xWvezhcUoPyLw11G2xicbSZ8iaDr6TE29uCvStyF8EINDQ_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibrR0EPlVjF1xWvezhcUoPyLw11G2xicbSZ8iaDr6TE29uCvStyF8EINDQ_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>再跟大路联系，他说已经被武警赶出来了，不再进去了。</p>
-<p>这么说，待会儿我有可能是里面唯一的记者。。。</p>
-<p>有警戒的地方进不去，我直接顺着高架桥往里（左边）走，高架桥下是一个工程车停车场，里面人员已经撤离，无人看管。</p>
-<p>进去继续靠近火场。走了三四百米，忽然桥外的路边有保安出现，大声呵斥我：出去！你干嘛去！你这是第二次了啊！</p>
-<p>我想他们认错人了。不做对抗，转头往回走，等停放的大卡车遮住我时，我就拐进了停车场靠近警戒线内部的位置。</p>
-<p>一米高的栏杆，外面是几米宽的辅路，路对面，是防护林，夏天，郁郁葱葱。</p>
-<p>进了树林，外面是绝对看不到的。</p>
-<p>于是翻过栏杆，一秒钟飞奔过马路，冲进了防护林。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibJNDwso15UzecLS9vI6nGyIb4GfoPjzxs2f5dmlYrRdbib9LanStqOjQ_0wx_fmtjpeg-e1439542453915.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibJNDwso15UzecLS9vI6nGyIb4GfoPjzxs2f5dmlYrRdbib9LanStqOjQ_0wx_fmtjpeg-e1439542453915.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibJNDwso15UzecLS9vI6nGyIb4GfoPjzxs2f5dmlYrRdbib9LanStqOjQ_0?wx_fmt=jpeg" width="500" height="667"></a></p>
-<p>林中都是小树，有十几排，林子的另一边，是一座居民区。</p>
-<p>我穿行在林间，继续往爆炸现场的方向走。</p>
-<p>忽然林子外社区的小路上有人影晃动。我连忙俯身停下脚步。</p>
-<p>是巡逻的武警，一队五六个人。他们在路上徘徊了几分钟，我大气儿也没敢出。</p>
-<p>终于，他们原路返回。我又起身往前走。终于看到了接近现场的情况——</p>
-<p><strong>5.</strong></p>
-<p>跨过被爆炸震塌的矮墙和废墟，我就看到了这座完全被破坏掉的建筑，远处是一处三层小楼。烟雾就在更前方。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQiblMB4SougYnoL5g7D6qDCgPOEqicic7MmeW3BXUYMKTXlWwdTIRawQHRA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQiblMB4SougYnoL5g7D6qDCgPOEqicic7MmeW3BXUYMKTXlWwdTIRawQHRA_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQiblMB4SougYnoL5g7D6qDCgPOEqicic7MmeW3BXUYMKTXlWwdTIRawQHRA_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>地上躺着一只玩具熊布偶，不知道是从哪里的房间震出来的。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibdQAauDTeq0sMsLpYf9tKTw5fwDM6HppzqIeEeDVuNpXCT4xaiadtPRg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibdQAauDTeq0sMsLpYf9tKTw5fwDM6HppzqIeEeDVuNpXCT4xaiadtPRg_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibdQAauDTeq0sMsLpYf9tKTw5fwDM6HppzqIeEeDVuNpXCT4xaiadtPRg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>三层小楼内外，玻璃都碎成了渣。往里走时，一条黄狗忽然蹿了出来，惊慌失措地跑开了。</p>
-<p>现在这里，除了消防员，就剩下我和狗了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQiblicMkJ6RB1DxIx8kqqxbZB9qbW1VVQichyyDJKHttYr0R4ibCFOh7jzTQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQiblicMkJ6RB1DxIx8kqqxbZB9qbW1VVQichyyDJKHttYr0R4ibCFOh7jzTQ_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQiblicMkJ6RB1DxIx8kqqxbZB9qbW1VVQichyyDJKHttYr0R4ibCFOh7jzTQ_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>走进第一层，就看见部分墙体被震塌。想要爬到二楼三楼，太危险。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib0bEJHvPYTedvIDhCJT0V1V8k7j0CE8Hkaxx0HkY9jmMnpibfhHVlkVQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib0bEJHvPYTedvIDhCJT0V1V8k7j0CE8Hkaxx0HkY9jmMnpibfhHVlkVQ_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib0bEJHvPYTedvIDhCJT0V1V8k7j0CE8Hkaxx0HkY9jmMnpibfhHVlkVQ_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>但是高点是很重要的，于是我寻找其他的楼梯口。</p>
-<p>终于在最边上的房间，找到了基本没有损毁的楼梯。我踩着被震落的门框和水泥块，爬上了三楼。眼前，一片开阔，我要的就是这里——</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibKFlBtZVMklscATSNbBheLiaklPtjRPNDONy0frBQsVScj6gCEPicz03w_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibKFlBtZVMklscATSNbBheLiaklPtjRPNDONy0frBQsVScj6gCEPicz03w_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibKFlBtZVMklscATSNbBheLiaklPtjRPNDONy0frBQsVScj6gCEPicz03w_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>接下来，就是等待对面的举动。这时我才发现，我藏身的小楼，是离火场最近的建筑物。</p>
-<p>大路出去前告诉我，现场的消防员已经撤出了，现场空空荡荡。</p>
-<p>但我发现现场还有几队消防员有所行动。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibicM3Ppthlh4KmGcJJBhaicXo70hX6YJbBZLR5gP9h3E2ibo8auhx9S37Q_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibicM3Ppthlh4KmGcJJBhaicXo70hX6YJbBZLR5gP9h3E2ibo8auhx9S37Q_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibicM3Ppthlh4KmGcJJBhaicXo70hX6YJbBZLR5gP9h3E2ibo8auhx9S37Q_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>他们在试着灭火。但泡沫喷过去，很快废墟里就传来爆炸声。只得又停止。过几十分钟，又会再尝试灭火，然后又回引发轻微爆炸。</p>
-<p>消防拿火势毫无办法。留下的人员本就不多，又大都处在待命状态。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib1J5fBWpMJNC75MK0bxOib7t3e5nDfGzsE9Cut2Pcw4qGbniaUhRkMGxg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib1J5fBWpMJNC75MK0bxOib7t3e5nDfGzsE9Cut2Pcw4qGbniaUhRkMGxg_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib1J5fBWpMJNC75MK0bxOib7t3e5nDfGzsE9Cut2Pcw4qGbniaUhRkMGxg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>火势仍在继续。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibaeJT6dnBU1VLJHW97olfp1zqfEW81WYtBQuOez3haBdjxzicw5BZCqw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibaeJT6dnBU1VLJHW97olfp1zqfEW81WYtBQuOez3haBdjxzicw5BZCqw_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibaeJT6dnBU1VLJHW97olfp1zqfEW81WYtBQuOez3haBdjxzicw5BZCqw_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p><strong>6.</strong></p>
-<p>平静了几个小时。各种消息传来，鱼龙混杂，说有防化部队要来，说有毒气泄漏。。。而我不为所动，因为下面的消防员仍然没有撤离，而且他们不戴口罩。</p>
-<p>但等了太久，楼上能拍的已经都拍了，距离三点给微信公众号发片的时间越来越近。我不能忍，要下去拍特写。</p>
-<p>走近了，才能看清楚昨夜的惨剧又多严重，所有的汽车，全部被烧成框架。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib2Ft4eSiaZSiaacZ5xHw2KjlD2WumRcWr8RS2ehRdW33iaDvHPCgLw06MA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib2Ft4eSiaZSiaacZ5xHw2KjlD2WumRcWr8RS2ehRdW33iaDvHPCgLw06MA_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib2Ft4eSiaZSiaacZ5xHw2KjlD2WumRcWr8RS2ehRdW33iaDvHPCgLw06MA_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>金属的轮胎悬挂已经烧成粉末。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibyxJBboDyYXdawvicY4UvhXjo9NV5oIL8zOIuGZ5UFKWhxSXSGqmX8Yg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibyxJBboDyYXdawvicY4UvhXjo9NV5oIL8zOIuGZ5UFKWhxSXSGqmX8Yg_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibyxJBboDyYXdawvicY4UvhXjo9NV5oIL8zOIuGZ5UFKWhxSXSGqmX8Yg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>地面是滚烫的，透过鞋底灼烤脚下。烧化的金属在地上淌成各种液态的形状，很多，很多。让我想起终结者里的液态机器人。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibQLQibxh4z67rgVqdbwdOS6orL8hhoSPQ6YstgibCy3ricjUs7B5s1mxwQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibQLQibxh4z67rgVqdbwdOS6orL8hhoSPQ6YstgibCy3ricjUs7B5s1mxwQ_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibQLQibxh4z67rgVqdbwdOS6orL8hhoSPQ6YstgibCy3ricjUs7B5s1mxwQ_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>车体内，更是难以目睹。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibd0AvvqFSwRstsmnj7mdohrOTbJkLp7qkvWmib92KYgvu7bxT6FGkC5Q_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibd0AvvqFSwRstsmnj7mdohrOTbJkLp7qkvWmib92KYgvu7bxT6FGkC5Q_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibd0AvvqFSwRstsmnj7mdohrOTbJkLp7qkvWmib92KYgvu7bxT6FGkC5Q_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>废弃的汽车包围着我，离火势最近的地方，只有二十米不到。</p>
-<p>我真的不知道哪里来的胆子。</p>
-<p>周围是几千辆烧成框架的汽车，脚下滚烫，我如同身处地狱。</p>
-<p><strong>7.</strong></p>
-<p>刚刚拍完离现场最近的火场特写，我又回到了藏身的小楼。</p>
-<p>当我准备发片时，忽然一声闷响，又炸了！2 点 44 分，一团黄烟。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsVc1KaiaeZIKOj0Pds6y3WwQh9MvfQVQGicVFicawzl9byx1AZfl2CkHQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsVc1KaiaeZIKOj0Pds6y3WwQh9MvfQVQGicVFicawzl9byx1AZfl2CkHQ_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibsVc1KaiaeZIKOj0Pds6y3WwQh9MvfQVQGicVFicawzl9byx1AZfl2CkHQ_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>我之前看到的是黑烟和白烟，夹杂着一小部分蓝色和其他彩色的烟雾。这坨让我惊了，太醒目了。</p>
-<p>这个时候我听见火场外的消防员冲着火场内高喊：赶快出来！又爆炸了！</p>
-<p>里面的消防员一开始没有反应过来，外面的消防员接着高喊，随即打开了警报器，刺耳的声音传遍事发地点。消防员才醒悟过来，狂奔出去。</p>
-<p>我一看情况不对，迅速装起设备，飞速冲下楼，重新奔跑回小树林中。</p>
-<p>在树林的阴凉里，我一边发稿，一边惴惴不安地听着外面的情形。犹豫自己是不是要退的更远一些。但听声音，一切又都恢复了平静。头顶树叶缝隙里透出的天空是蓝色的，那坨黄烟似乎很快散去了，并没有更严重的后续。</p>
-<p>4：10，我发完稿子。准备再回到现场看看情况。</p>
-<p>离爆炸点最近的那些消防员撤了之后，就没有再回来。</p>
-<p>这次真的安静了。</p>
-<p><strong>8.</strong></p>
-<p>好像只有我一个人在等。</p>
-<p>但我又不想走，因为消息说防化部队要进来，消息还说废墟内还有两个未燃烧的危化品储存罐，有爆炸危险，准备人工引燃。</p>
-<p>跟其他媒体单位不同，我们报社只来了我一个记者，守住这第一现场，就特别重要。</p>
-<p>同事也发来了前来执行防化任务的北京卫戍区的联系人。他却还没到滨海。后来到了，却又说，现场太危险，他自己都进不来，让我“想其他办法进去”。我没告诉他自己就在里面。</p>
-<p>在我长长地等待期间，几个老朋友，冯小豪、浩哥、杨老师几乎先后脚来到滨海，并且很快向着现场靠近。</p>
-<p>我向三个哥们说现场可以偷偷进来。浩哥是最先到外围的，但不幸的是，他没能避开武警。被“两个人架出去了”，相机还被没收，闯入失败。</p>
-<p>小豪和杨老师在外围拍了不少片子，小豪甚至用手机即时发了一个图片专题。然后几经辗转，他们趟过一条小河沟，终于来到我藏身的地方。</p>
-<p>5：50，杨老师和小豪到了。</p>
-<p>杨老师帮我带了一瓶水。这瓶水是我从早上起床后喝了一袋牛奶之后，入口的第一口水。真的感觉就是救命水。</p>
-<p>我早饭就着牛奶吃了一袋奥利奥，中饭在警戒线内没有吃，虽然带着饼干，但没有水，干巴巴的也吃不下去。9 个小时在燃烧的爆炸现场滴水未进，口干舌燥，肚里又空的让人心慌。</p>
-<p><strong>9.</strong></p>
-<p>我不知道自己何德何能让你们如此关心。</p>
-<p>对于进入现场，我是几乎没有什么顾虑的。也没感受到太多的危险。但我的朋友们却有不同的反应。</p>
-<p>中午进来的时候，超给我打了一个电话，之前我们一直在联系，她把自己知道的所有信息都发给了我。听见我说自己偷偷进了现场，她马上挂断了电话。</p>
-<p>后来，我的好友小猪在微信里说，超给她打电话哭了，说我进去太危险了，但她知道“劝他出去也没有用”。</p>
-<p>下午小白给我发微信，骂我“神经病，为什么要跑到离爆炸地点这么近的地方”，让我马上退出去。我骗她自己已经出去了，她又让我在微信发送自己的位置给她。。。整个下午，她都在劝我远离现场。她说：虽然我很敬佩勇敢的记者，但我一点也不想你去担任那个角色！</p>
-<p>微信里，有无数人鼓励我，嘱咐我注意安全，把最新的他们知道的消息发给我参考，有些“危险信息”，我甚至重复收到了十几次。也有朋友把各种援助信息发给我，晚上找旅馆时，曹政童鞋还主动提供企业赞助的免费住处，可惜当时我已经找到地方了，辜负了同事一番美意。</p>
-<p>谢谢大家。</p>
-<p><strong>10.</strong></p>
-<p>18 点左右，一小队穿黄色防化服的人进入现场又出来之后，现场就没有新的情况了。外面的朋友一直提醒我们傍晚可能要人工引爆，但我没有发现任何要引爆的苗头，也一直没有撤离。</p>
-<p>18：30，实在等不下去了，引爆的消息越来越急迫。小豪和杨老师跑出去拍对面的居民区损毁情况去了。</p>
-<p>我也随即跟了过去。</p>
-<p>离爆炸地点仅仅几百米的地方，就是万科海港城的居民楼，此时已经一片狼藉，没有一处窗户是完整的，室内的杂物抛洒出来，遍地都是。</p>
-<p>我不知道昨晚这些居民室内，究竟发生了怎样的震颤，因为杂物竟然被甩出来洒在爆炸地点的方向，爆炸的冲击波不应该把物体抛到反方向去吗？</p>
-<p>我一直不得其解。</p>
-<p>居民楼下的小汽车全都车体变形，玻璃全碎了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib2EaoVl4yktAUORUwGa9WiaiaA04BIvJibfYyJFbuNPpaJk9VZSe6mdVAw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib2EaoVl4yktAUORUwGa9WiaiaA04BIvJibfYyJFbuNPpaJk9VZSe6mdVAw_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib2EaoVl4yktAUORUwGa9WiaiaA04BIvJibfYyJFbuNPpaJk9VZSe6mdVAw_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>被子被抛出来，挂在车上。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibRrpxB1c6UCu09Hw7Fzt8iafRD7gJLoGPxQnrO9djpLlZUoPTmfuD1Zg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibRrpxB1c6UCu09Hw7Fzt8iafRD7gJLoGPxQnrO9djpLlZUoPTmfuD1Zg_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibRrpxB1c6UCu09Hw7Fzt8iafRD7gJLoGPxQnrO9djpLlZUoPTmfuD1Zg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>各种衣物，杂物</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib8icjyzqsyzGgjlEIfYpT43n7XexC3k6hABuBQ9nHjx7ibSWeLfeyLiayA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib8icjyzqsyzGgjlEIfYpT43n7XexC3k6hABuBQ9nHjx7ibSWeLfeyLiayA_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQib8icjyzqsyzGgjlEIfYpT43n7XexC3k6hABuBQ9nHjx7ibSWeLfeyLiayA_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>锅碗瓢盆，和一束手捧花。</p>
-<p>美好的梦想和现实的生活，全都被震落在地。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibJdZfNy0KA1GSKT1meqCbPzFndFtCGa2jpve4LrTgicnkkgZUnMVTuug_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibJdZfNy0KA1GSKT1meqCbPzFndFtCGa2jpve4LrTgicnkkgZUnMVTuug_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibJdZfNy0KA1GSKT1meqCbPzFndFtCGa2jpve4LrTgicnkkgZUnMVTuug_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>钱，遍地的钱。</p>
-<p>我们不能捡。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibB49XolAF61thQDXYhnS4Joc1XuYmV9husHsMibuc7MbUBpSQhHxibAGQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibB49XolAF61thQDXYhnS4Joc1XuYmV9husHsMibuc7MbUBpSQhHxibAGQ_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibB49XolAF61thQDXYhnS4Joc1XuYmV9husHsMibuc7MbUBpSQhHxibAGQ_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>小朋友的玩具</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibxGrbwXqrbQEIia0gWl69iaB0257yeTKunHF1pw3jtNZZWAhYqfXUoJ2g_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibxGrbwXqrbQEIia0gWl69iaB0257yeTKunHF1pw3jtNZZWAhYqfXUoJ2g_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibxGrbwXqrbQEIia0gWl69iaB0257yeTKunHF1pw3jtNZZWAhYqfXUoJ2g_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>还有好多好多东西，冯小豪甚至看到了情趣内衣。。。</p>
-<p>这些都被瞬间抛出了正常的世界。</p>
-<p>每个人的生活都像是一个陶罐，里面藏着很多东西。但它太脆弱了，一次震撼，就碎了。</p>
-<p>我们辛辛苦苦攒的钱，买的房子，买的车，一瞬间就破碎了。</p>
-<p>我们花了无数年时间，给自己囤积的各种生活用品，一瞬间就消失了。</p>
-<p>甚至生命——不能想象生命。</p>
-<p>可是只要生命还在，上面的那些东西丢了又有什么呢？</p>
-<p>看到这些场景时，我才明白了什么，叫“身外之物”。</p>
-<p>除了生命，一切的其他，都是空。</p>
-<p><strong>11.</strong></p>
-<p>我们三个人只拍了几分钟，就被警察发现了。</p>
-<p>收了我们的身份证，盘问，搜查。</p>
-<p>因为看到很多警察市民阻止记者拍摄和报道的消息，我们没有说自己是记者，而是说是学生，因为好奇而进来。</p>
-<p>我觉得我们的谎撒得很低级，不会有人信的。我们的书包里就是相机和电脑。</p>
-<p>我的身份证还是自己在传媒大学读书时的，地址也写着学校。</p>
-<p>警察竟然没有表现出一眼识破谎言，我不知道他们是不是真的相信了我们，但他们最终也没有戳破我们，没有要看我们记者证，反而口气舒缓下来，说搜查我们是为了居民财产的安全，为市民负责，也为我们自己负责。</p>
-<p>搜查的时候，他们让我打开书包，翻出口袋，我说你们自己来搜吧，他们却不敢。我相机里的内存卡已经掏出来藏到裤子内口袋了，里面没卡，一个警察说是不是藏 在身上，双手搜了一下我身上，比较潦草，没有发现卡。又让我打开手机，把手机拍的照片一张一张删掉。之后又打开电脑，我的电脑是待机状态，开机后的桌面上 放的就是现场照片，我也逃不过去，就把电脑上照片删掉了，他们还机警地发现了我另一个放照片的文件夹。</p>
-<p>我不认为我们的“学生谎言”能骗得倒人，但警察的态度真的很复杂，并没有完全尽职尽责，表面上搜的很严，却又漏洞百出。</p>
-<p>出来后，我才发现，我是三个人里被搜得最仔细的，还删掉了手机照片，还删了电脑照片。</p>
-<p>在搜查结束后，出来之前，一个警察还大声呵斥我：“脱掉鞋子！”他怀疑我在鞋里藏了东西，真是 too young，too simple，还让我掀开鞋垫看。当然他一无所获。</p>
-<p>我们出来了。</p>
-<p><strong>12.</strong></p>
-<p>整个下午都在现场藏着，外面的医院也没有拍更多片子，消防队和防化部队也没有拍到，还是有很多遗憾。</p>
-<p>出来后我们走了几百米，然后打到了车，戴着口罩的女司机问我们是不是家属，我们说是媒体的。</p>
-<p>下车时，她不肯收钱，说“你们太辛苦了”。最后我们还是给了钱。</p>
-<p>晚上 8 点，吃上了饭，就在医院下面的志愿者那里拿的盒饭，在草坪上一坐，填饱肚子就好。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibW6gXyr3LuWnOoAicia9v9PR4cUQgcTD6CXmRWcI7clAOzD3KQv6zpS5A_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibW6gXyr3LuWnOoAicia9v9PR4cUQgcTD6CXmRWcI7clAOzD3KQv6zpS5A_0wx_fmtjpeg.jpg" alt="mmbiz_zJIL9v1Ym1XmF9VsePIVJ5NMNLJomEQibW6gXyr3LuWnOoAicia9v9PR4cUQgcTD6CXmRWcI7clAOzD3KQv6zpS5A_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>一边吃饭一边聊天时，一个记者忽然说：朝格图自杀了。</p>
-<p>朝格图，原新京报深度报道部记者，现在深度报道部已经没了。</p>
-<p>我一开始没有反应过来，听见朝格图就说：我还去过他家呢，睡过他的床。</p>
-<p>是的，三年前的事情了吧，我跟新京报的朋友去了与朝格图合租的房子里，他出差不在，晚上我睡在了他床上。</p>
-<p>他有一个大书架，有一只很大的白猫，很温顺，晚上，白猫就跟我一起睡那张柔软的双人大床。</p>
-<p>我一直想养那样的猫。。。</p>
-<p>现在白猫的主人已经不在了？那只猫又怎么样了呢？</p>
-<p>朝格图是抑郁症，跳楼去的，没有给世人抢救的机会。</p>
-<p>看了一天的地狱，又听到这个消息，我觉得这个世界，真的，又少了一点希望。</p>
-<p>一个与我有着奇妙的联系的人，我早就听说过并且心有敬意的人，与同一只猫睡过同一张床，却没有一面之缘的人，去了。我的感受是奇怪的。</p>
-<p>觉得，世间的事情，也不过如此罢。</p>
-<p><strong>13.</strong></p>
-<p>又是一个凌晨，睡之前，看到朋友圈里，有朋友在说：</p>
-<p>“零点到了，旧的一天，该删除了吧！”</p>
-<p>可是我不能删除。</p>
-<p>我看见有新京报的同仁在怀念朝格图，她写了一段歌词：</p>
-<p>“叫我怎么能不难过，</p>
-<p>你劝我灭了心中点火，</p>
-<p>我还能够怎说，</p>
-<p>怎么说都是错。”</p>
-<p>这一天，奇怪的一天，满满当当的一天。结束了。</p>
-<p>小白说，我就是作。她让我明天一早就回北京，发送实时位置给她。</p>
-<p>我的网名是“小心和小欣”，很多人以为是两个人的名字，其实我只是在说“小心这个叫和小欣的人”。而今天，有太多人跟“和小欣”说：小心！！！</p>
-<p>我承认，作，我是有一点。但我现在想的是，在看到和听到越来越多今天这样的事之后——</p>
-<p>我，还能走多远？作多久？</p>
-<p>end</p>
-<p>by 和小欣</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%92%8C%E5%B0%8F%E6%AC%A3%EF%BC%9A%E8%B5%B0%E5%A4%9A%E8%BF%9C%EF%BC%9F%E4%BD%9C%E5%A4%9A%E4%B9%85%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8/?category=18271" rel="tag">公共安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E7%BB%8F%E5%AE%9E%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8F%AA%E5%B3%B0%E6%98%AF%E8%B0%81%EF%BC%9F%EF%BC%81%E6%97%A0%E4%BA%BA%E5%9B%9E%E5%BA%94/" target="cdt-mirror">中经实时报｜只峰是谁？！无人回应</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/9ce4bf2fgw1ev2142k1w9j20c80960tl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/9ce4bf2fgw1ev2142k1w9j20c80960tl.jpg" alt="9ce4bf2fgw1ev2142k1w9j20c80960tl" width="440" height="330"></a><br>
-（网络图片）</p>
-<p><em>本报记者 郝</em>成</p>
-<p>在龚建生宣布最后一个问题时，一位国内女记者和一名外媒男记者都问了“安全评估报告何时能公布”，在得到需要和有关部门再沟通的答案后，发布会宣布结束，但现场多名记者大喊：只峰是谁？！官员们似乎没有听见，转身离开。</p>
-<p>本次发布会在上午10点整开始，大概持续40多分钟结束。其中环保方面较为侧重。据环保专家介绍，目前已经对现场采取了多项措施，且正在研判情况，计划有更 多措施被用于现场。总体思路来看，事故现场将被封锁起来，确保污水不流入大海，也不进入其他管网，同时用化学物质中和反应，再用水泵抽取出来送往污水处理 厂处理。而空气方面，专家称目前仍是西南风，即浓烟主要向大海方向扩散。</p>
-<p>对于空气检测情况，专家给出了更为严谨的表述：按照常规检测，有些物质并未在检测行列，所以仅从数据而言，是没有对群众造成影响的，但现场周边设置的17各检测点也在检测更多其他物质，这些物质的数据在事发次日既已降下来，也不会对群众有太大影响。</p>
-<p>有媒体提到如果出现降雨，是否会对现场堆放的氰化物造成影响，进而产生污染。环保部门称由于现场已经封闭，不会向外泄露。</p>
-<p>消防部门则进一步明确了最初救援情况，周天称由于港口的消防事务由港口公安部门负责，他们当时是以增援部队而非救援部队赶往的。且他说出这样一个细节：最初接到的报警电话是说有辆车在燃烧。</p>
-<p>周天还称，由于现场情况依然复杂，且尚未弄清究竟是何种物质爆炸，以及周边还有哪些物质，所以目前仍处于研判中，所以现场灭火仍未完成。而今日凌晨记者进入现场时，发现除了一辆处于启动状态的消防车外，现场再无人员。</p>
-<p>周天还介绍，今晨7点从现场救出一名消防人员。但未介绍具体情况。发布会结束时，两名记者不约而同提到安全评估报告，但官员称会向交通运输部门沟通，尽快提供。随后，龚建生宣布发布会结束，几乎同时，现场多名记者大喊：只峰是谁？！官员们匆匆离去，未有任何回应。</p>
-<p>然而，媒体已经对只峰开始“人肉式”调查，由于其姓氏罕见，这位爆炸企业的法人被认为与天津某位领导存在亲属关系。另有媒体报道，只峰目前已经苏醒，且有警员陪同，但未采取强制措施。这引发媒体圈高度质疑。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E7%BB%8F%E5%AE%9E%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8F%AA%E5%B3%B0%E6%98%AF%E8%B0%81%EF%BC%9F%EF%BC%81%E6%97%A0%E4%BA%BA%E5%9B%9E%E5%BA%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/?category=18271" rel="tag">信息公开</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E9%83%A8/?category=18271" rel="tag">环保部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E4%B8%89%E9%87%8C%E5%B1%AF%E7%8B%82%E4%BA%BA%E7%96%AF%E6%9D%80-%E4%B8%AD%E6%B3%95%E6%96%B0%E5%A9%9A%E4%BA%BA%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4/" target="cdt-mirror">法广｜北京三里屯狂人疯杀 中法新婚人一死一伤</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Clipboard19_46.jpg" alt="Clipboard19_46" width="550" height="379"></p>
-<p>北京三里屯优衣库商店前发生持刀砍杀事件，一名中国籍女性被杀害，另一名法国男子被砍伤。没有经过官方证实的消息报告，两位受害人是新婚不久的夫妇。非官方消息说，法国驻华使馆已派官员探望法国男子遇袭及伤情。</p>
-<p>据路透社报导，北京市公安局在其官方微博平安北京通报，一名男子周四在北京三里屯持刀砍伤一名法国男子和一名中国女子，受伤女子已因抢救无效死亡。</p>
-<p>嫌疑人高某某，25岁，为吉林省通化市人。平安北京未提供有关该男子的更多细节。</p>
-<p>社交媒体流传的照片和视频显示，一名男子在三里屯优衣库门店外手持日本武士刀，附近一名女子浑身是血倒在地上。路透社说，无法独立证实这些照片和视频的真实性。</p>
-<p>这起攻击事件上午发生在北京“三里屯酒吧街”，警方随后赶到现场，将这名男子制伏。目前得知这名男子姓高、现年25岁，来自吉林通化。警方持续侦讯嫌犯，设法了解他犯案动机。</p>
-<p>另据报导说，杀人犯可能患有狂想，扬言想杀美国人，但随机斩杀中法夫妇。受害的女子疑来自山东女，遇袭后倒卧路边花坛，其法籍丈夫则捂着她胸前伤口。</p>
-<p>香港东网的报导指出，北京优衣库三里屯分店外今日近中午12时发生凶杀案，一名25岁高姓凶徒，捅伤一对法国与中国籍的夫妇，女子送院抢救无效死亡。高某被到场警员制服。</p>
-<p>根据事发时现场人士拍下的照片和视频可见，一名外籍男子捂著一名倒卧花坛边、胸口溢血的女子，而地上则有大滩血渍；另外，在优衣库门前，则有一名男子手持一把日本军刀在广场上徘徊。根据市公安局通报，该名外籍男子为法国人，而受伤女子为山东人，两人为夫妇关系，后者经送院抢救无效死亡。</p>
-<p>有消息指高某的行凶动机是报复社会，想在北京制造事端，而且目标更锁定为美国人。目击者称，高某遇到法籍男子时曾问对方是不是美国人，对方说不是，但其妻却看了高某一眼，即被凶手挥刀捅伤。但另有目击者说，高某是从背后捅向女死者。据悉，该名法国男子与女死者刚新婚不久。</p>
-<p>事发后，高某没有逃离现场，反而从优衣库内拿出一具人形模特扔在广场，用刀斩玩，直到警员到场，高某弃刀主动走向警方，缓缓趴下被制服。</p>
-<p>最先的消息曾经报告，凶案由摊贩争抢地盘引起。双方为小贩，疑因抢占地盘起冲突。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Clipboard20_2.jpg" alt="Clipboard20_2" width="551" height="347"></p>
-<p>东网早前的报导还指，北京三里屯今日上午传出发生斩人事件，从网上流传的照片可见，一名男子手持日本军刀，在早前发生更衣室性爱短片的优衣库三屯里分店外逞凶，事后被赶到的警员合力制服在地。</p>
-<p>另有照片显示，一名女子被斩死躺卧血泊中，随后被白布盖上；此外，还有一张疑似事发现场照片，一名女子胸部受伤躺卧路边，一名外籍男子在旁照料。</p>
-<p>有网民称，凶徒没有特定袭击目标，持刀乱杀人。另有网民指，斩人事件最少造成一名女子被斩死：一个人拿刀在优衣库路口乱捅，死了一个，所有人都跑到星巴克了，优衣库和星巴克赶紧锁门了。死了一个人，躺在地上，都是血，三屯里全部保安都出来了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8C%97%E4%BA%AC%E4%B8%89%E9%87%8C%E5%B1%AF%E7%8B%82%E4%BA%BA%E7%96%AF%E6%9D%80-%E4%B8%AD%E6%B3%95%E6%96%B0%E5%A9%9A%E4%BA%BA%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%87%8C%E5%B1%AF/?category=18271" rel="tag">三里屯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%80%E4%BA%BA/?category=18271" rel="tag">杀人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -947,7 +800,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%87%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -957,5 +810,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%87%8C
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>

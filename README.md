@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%9F%8E%E9%99%90%E5%88%B6%E5%A4%96%E6%9D%A5%E4%BA%BA%E5%91%98-%E6%B9%96%E5%8C%97%E7%BB%B4%E7%A8%B3%E5%8A%9E%E6%96%87%E4%BB%B6%E5%88%97/" target="cdt-mirror">自由亚洲｜北京城限制外来人员 湖北维稳办文件列明监控对象</a>
@@ -906,7 +906,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -916,5 +916,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/></td>    </tr>
 </table>

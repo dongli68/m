@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,92 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8-%E6%83%8A%E9%AD%8224%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%B8%87%E7%A7%91%E6%B5%B7%E6%B8%AF%E5%9F%8E%E7%9A%84%E9%80%83%E7%94%9F%E6%97%A5%E8%AE%B0/" target="cdt-mirror">牛博山寨 | 惊魂24小时：万科海港城的逃生日记</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150814044950131.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150814044950131.jpg" alt="万科海港城" width="550" height="413"></a></p>
+<p>爆炸后第二个晚上，从开始的恐慌，到中间的冷静，到莫名其妙的充奋，到顽固的坚持，到现在，突然好累好累，累到动都不想动。</p>
+<p>但是还是想写点什么，人生不是总会遇到52颗战斧齐轰，或者一颗战术核弹在不到1000米处轰然而起。</p>
+<p>更重要的是，从小就被教导，出门要小心安全，好像家是安全的，如今，距天安门两个小时的车程的高档小区，到处都是老外和外企的高新开发区，随着两声或者几声轰鸣就变成无人区了，家，真的安全么？一路狂奔回来，看着密布在住宅区里的大型加油站，心里总是各种不安。</p>
+<p>我们住在海港城的最南，爆炸在海港城的最北，与别的楼不同的是，我们正面就是爆炸中心。</p>
+<p>晚上回家快9点了，第二天要回京给孩子打疫苗，正好看见第一个车位没车，本来马上到地库的我在老婆的鼓动下，和要拿很多东西回京的压力下，调转车头，停在了第一个车位。</p>
+<p><strong>教训：</strong></p>
+<p>第二天回家，提前一天把东西装车。要不然事后也不会爬回33层，背着60几斤的东西爬下来，要不然也不会如今腿被撕裂的疼。</p>
+<p>到了屋里，在客厅打开电脑想给老板把下午做好的东西发去，结果儿子不停的出来拍我的电脑。看见远处的火了，发了个朋友圈，远远的看，就像远处一个打火机火苗，很温和也不凶。我说别是什么化工厂吧？别有啥毒气朝过来，就把窗户都关住了。</p>
+<p><strong>经验：</strong></p>
+<p>虽然没啥卵用，但关窗户让我们提前了大概2秒逃生。</p>
+<p>然后继续劝说儿子回去睡觉。等儿子坐在床上了，自己也困了。不过想想，还是给老板把东西发了吧。回到客厅，发现火大了不少，回身喊老婆火大了，出来瞧瞧。老婆好奇，突突的跑来，还没站稳，火光骤然变近，就像远处的一个足球马上飞到眼前。提前关住的窗户一下被冲开。事后看，应该是第一个冲击波之前的小冲击波。</p>
+<p>说时迟那时快……我俩同时转身冲回卧室，抱住被声音吓到的儿子，老婆还不是很慌，问怎么办。我说去卫生间。是的，我那阵没有一点慌乱……因为我是一个从事多年工业灾难预警与控制的咨询专家。其实，也没有什么卵用，因为及应的时间只有不到10秒。</p>
+<p><strong>经验：</strong></p>
+<p>这次逃生最重要最重要的经验是，一定要按时完成老扳交代的任务，当天的事要当天完成：）这不是玩笑，这是救了我们一家人的关键。如果不是想着给老板发信，我肯定看不到火大，也喊不到老婆来看热闹，我们能全身而退是因为我俩看见火大开始躲，而大部分受伤的人是从受到第一个冲击波才躲的。</p>
+<p>到了卫生间，开始巨响了，房子也开始轻轻的晃，老婆慌了，说怎么办怎么办。我也慌了（要不说灾难预警经验没有什么卵用，是人都慌！），但是男人么，就得装。我非常冷静的说，没事没事。躲卫生间是正确的。</p>
+<p>那个时候，次卧和书房的纱窗已经被冲到对面的墙上，砸了一厘米的坑。我们的主卧的门框己经被冲掉，所有背向的窗户全部被冲开。我也不知道为什么，正面对着冲击波的厨房己经被扫荡，厨房和客厅的玻璃隔断己经冲到地上，只有卫生间没有任何事情。</p>
+<p><strong>经验：</strong></p>
+<p>1. 出事往卫生间跑，还是管用。</p>
+<p>2. 房子还是万科的好，毁灭性的冲击波冲击上万人的小区，没有楼倒，我觉得就是开发商的良心。</p>
+<p>3. 男人该装还是要装。老婆事后说在卫生间己经瘫了，听见我喊没事才能坚持住，其实我也害怕。</p>
+<p>楼晃了之后，突然安静了，老婆问我怎么办，我说走。抱着儿子就跑，发现没穿什么衣服，老婆说去拿衣服，我开始满屋乱串，在客厅的时候看见天上掉了个火球砸在旁边的高速路上。随手拿了几个衣服，两个人随便穿点，这时候女人的细腻开始起作用了，老婆喊着拿pad和手机，我又跑回去拿pad和手机。</p>
+<p><strong>经验：</strong></p>
+<p>1. 看见火球让我意识到只有开车一个选择，事后看视频，满天的火球下来，中的必完。</p>
+<p>2. 手机很重要，因为根本不知道发生了什么，跑多远，去哪里，什么都不知道。</p>
+<p>穿点衣服出门，隔壁也出门了，说别走，等电梯。我也是醉了……老婆喊等什么电梯，里面肯定全是人。我事后第二次也是醉了。那家人信了，跟我们从33楼往下冲。楼梯里没有什么光，人很多，满地的尖玻璃碴子。我最害伯的时候到了，我非常害怕路过某个窗口的时候再遇到冲击波，只能尽快走。老婆的侠义精神出现了，打开手机手电，一路喊着</p>
+<p>大家不要慌，顺着我的灯光走，事后证明是完全错误的。</p>
+<p><strong>经验：</strong></p>
+<p>1. 如果后续有爆炸，我们也出不来，事后我回去的时候，每一层逃生楼梯的墙上都密密麻麻嵌着尖刀一样的玻璃。</p>
+<p>2. 粉尘极大的情况下，不要喊，事后老婆噪子剧痛了两天，侠义精神可嘉，不过如果那天冲击波有毒气，估计……</p>
+<p>3. 人人都知道的，不能坐电梯，到了一层发现，他们苦等的电梯己经坠落在一层，门都炸开了。</p>
+<p>出了已经彻底破碎的门，人群再往开阔地跑，我喊老婆往车的方向跑，因为我看见了绝大部分人没看到的火球。但是我也犯错了，第二天回去发现我们跑的路上全是天上落下来的玻璃渣，然而另一条路上也是，没有对的路。</p>
+<p>抱着儿子上车，己经有人群冲出来了，中间夹杂的不少浑身是血的人。</p>
+<p>刚启动车，一个年轻的女人拍车窗，抱着一个孩子，身后站着两个老人一男一女。放下窗，我至今记得她的话，她说，我孩子才11个月大，你能带我们走吗？我开锁，喊上车。她身后的两个老人看她和孩子上车，明显松了一口气，那个年轻女人说，老人也受伤了，你能带上吗，老人看见只剩一个婴儿座椅和副驾了，有点犹豫。我喊着，挤上来，快走。</p>
+<p>我们车在门口，直接就冲出来了。门口全是流血的人在拦车，几乎每个车都是满满的走的。我事后一直在想，当时是不是能多拉几个？但是如果让我重来一次，我仍然会拉上这几个人直接走。因为我出来的时候，整个小区出口被一个拉伤员的车堵了大概一分钟。我记得很清楚，那个司机下来再问有几个人上，他不知道有几千人在我身后的路上，不管是车里还是步行的。非常庆幸后来没有天降火球，不然在那一分钟，有很多人可能就直接没了，就像高架桥上那些烧焦的车里的人一样。</p>
+<p><strong>经验：</strong></p>
+<p>我认为，拉上老弱病残，走的越快越好，因为你的延迟，会伤害更多的人。至于为啥拉那四个陌生的人，不是我道德多高，我一个常年混销售和管理的人没啥道德底线，但是那个女人说她的孩子才11个月，我是无论如何不会丢下她的，因为我的孩子也在车上。</p>
+<p>之后就没啥了，凭借在北京和芝加哥四处乱窜的开车经验，在一片混乱中杀出一条血路，跑了出来。</p>
+<p>把老人送到泰达医院的时候，人还不是很多。放下他俩，那个年轻女人和我说，我老公在外地明天才能回来，今天我就和你俩走了，行么？我说必须行。结果直接到了四星酒店，发现人都在外面看，酒店里黑漆漆的。那个年轻女人的孩子被吓坏了，一直在哭，她和我说，我家是是大港的，要不你们和我去我家吧，你有导航么？我说我们不去了，继续找酒店吧。她说你能帮我拦个车么？我想回大港自己家了。四星酒店门口的人听见了，迅速的拦了一个显然不知道发生了什么的出租车。上车之前，那个女人问你们是哪栋的，回头我们好好谢谢你们。我说了至今觉得挺装的一句话，都是邻居，没啥，事实上，我和北京邻居六年了，我都不知道他家姓啥。</p>
+<p>然后，就是手机时间，我开始害怕，心想离开发区越远越好，就直奔塘沽。结果发现，不是满，就是关门，路上洗浴不少，旅店真心少。找到一点多，在塘沽车站外找了一家。安顿好老婆儿子，开始联系朋友，发现很多人都找不到呢，然后喊来，对吹半天，一回屋，快凌晨四点了。</p>
+<p>七点醒了，老婆让拿的pad开始发挥作用，才知道发生了什么，一琢磨，回家拿东西，回帝都。结果武警封路，只能人过，车不能过。一路走过去，爬上33层，进屋歇一会儿，本来想收拾一下，结果爆炸现场突然火起火灭。一琢磨，保命要紧，背着一堆箱子从楼上连滚带爬的下去了，33层楼，下来用了10分钟。</p>
+<p>睡一觉，下午回帝都，晚上到北京的家。</p>
+<p>从这几天的新闻看，几声之后，一个号称小欧洲的小区瞬间变成了无人区。</p>
+<p>唉，好不容易遇到一个那么完美的住的地方，人少，离生活设施近，管理好，小区内风景好。只是，整个小区都在想着正面的修车场能搬走的时候，后面居然埋了一核战术核弹。</p>
+<p>无以为终，乱写几句吧。</p>
+<p>夜，早己深了。</p>
+<p>人，早己睡了，无声无息。</p>
+<p>两声巨响划破天际，</p>
+<p>满天火球坠入凡间。</p>
+<p>英雄男儿在苦战，</p>
+<p>妇孺老人在四处逃难。</p>
+<p>家，却没了。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8-%E6%83%8A%E9%AD%8224%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%B8%87%E7%A7%91%E6%B5%B7%E6%B8%AF%E5%9F%8E%E7%9A%84%E9%80%83%E7%94%9F%E6%97%A5%E8%AE%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91/?category=18271" rel="tag">万科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E6%B8%AF%E5%9F%8E/?category=18271" rel="tag">海港城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%83%E7%94%9F/?category=18271" rel="tag">逃生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B9%B1%E6%B5%81%E9%9D%92%E5%B9%B4%EF%BC%9A%E6%AD%A3%E5%B8%B8%E5%9B%BD%E5%AE%B6%E5%B9%BB%E8%A7%89/" target="cdt-mirror">乱流青年：正常国家幻觉</a>
+</h2>
+<p><p>灾难当前，人人都会有太多话想说，从点蜡烛祈福到讥笑蘑菇节的声音，自左而右渐次铺开。换了以前我真可能跑去找美国欧洲的安全指引看看有什么可以翻译过来教大家如何自保，这个事情嘛，从不缺席果壳网已经做了，现在也不劳我费心了。</p>
+<p>个人觉得，这次事件和之前任何一个工厂爆炸事件都不同的地方在于：击碎了中国中产阶级的“正常国家幻觉”。</p>
+<p>明明自己住滨海漂亮房子开宝马养小狗，闲了要么摩挲着包浆的手串撸串儿，要么跑步健身打卡，有意识地对任何公共事件保持高贵的沉默，表面上看和正常国家的离地中产毫无二致。</p>
+<p>然而这就是幻觉，一场爆炸之后，附近的启航嘉园和海港城业主惊奇地发现自己也成了他们以前眼角也不瞧一下的上访民众了，连指定动作：下跪打横幅，上书“相信党相信国家”也一毛一样。这种招数，以前也被无数访民使用过 (地级县出身，月薪六百元，含化肥补贴 。业主们尬尴地发觉，出事后，其实真的，自己和他们，#没什么不同# 。</p>
+<p>在你国，耐心等待，服从政府安排，得出的处理结果是6千元租房津贴，你愤怒，你抓狂，这点钱算啥，够交两个月租金吧？那房子以后能住吗？周边有污染吗？负责人找谁？仓库建设是谁批准的？你于是拉起横幅，小心谨慎地尝试闹大事情，并且在媒体关注、政府官员答应接触后瞬间翻脸称“都是媒体哗众取宠”，希望能卑微地换取政府的额外恩情。</p>
+<p>然后我们理所当然看到，真理部通稿封杀，附近业户接到通知不准制作横幅、倒是小粉红们挺古道热肠，这次真没见到多少指责业主闹事的，不过他们大都和以前的业主们一样，保持了高贵的沉默。于是事件迅速进入传统的维稳轨迹，估计后续的故事我们能听到的机会也不太高，政府既然已经把你拉进他最熟悉的套路里，那么毫不奇怪地它将会用丰富的经验打败你。</p>
+<p>所以，我想说的，千言万语，总结成这个画面：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/005N6Sg9gw1ev5pnmytyfj30am07taaf.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005N6Sg9gw1ev5pnmytyfj30am07taaf.jpg" alt="005N6Sg9gw1ev5pnmytyfj30am07taaf" width="382" height="281"></a></p>
+<p>现在你知道我是有多么不感到意外了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B9%B1%E6%B5%81%E9%9D%92%E5%B9%B4%EF%BC%9A%E6%AD%A3%E5%B8%B8%E5%9B%BD%E5%AE%B6%E5%B9%BB%E8%A7%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E5%B8%B8%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">正常国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%9F%BA%E6%9C%AC%E6%9F%A5%E6%98%8E%EF%BC%9A%E9%87%91%E5%B1%9E%E9%92%A0%E9%81%87/" target="cdt-mirror">腾讯新闻 | 天津爆炸事故原因基本查明：金属钠遇水爆炸</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1000.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1000.jpg" alt="1000" width="550" height="413"></a></p>
@@ -91,7 +174,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E5%90%8C%E5%B7%A5/?category=18271" rel="tag">合同工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E5%A4%96%E4%BA%BA%E5%91%98/?category=18271" rel="tag">编外人员</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%90%8D%E8%80%81%E6%B4%BE%E6%96%87%E8%89%BA%E9%9D%92%E5%B9%B4%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/" target="cdt-mirror">黄薄码 | 一名老派文艺青年的自我修养</a>
 </h2>
@@ -248,7 +331,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E7%89%A9/?category=18271" rel="tag">氰化物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8/?category=18271" rel="tag">爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%A2%86%E5%AF%BC%E8%A7%89%E5%BE%97%E4%BB%96%E7%A1%AE%E5%AE%9E%E5%BE%88%E5%8A%AA%E5%8A%9B%EF%BC%8C%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%99%A8%E5%BA%95/" target="cdt-mirror">【河蟹档案】领导觉得他确实很努力，国家机器底层顶上去</a>
 </h2>
@@ -315,7 +398,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E3%80%8A%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E3%80%8B%E6%B5%B7%E6%8A%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8D%B0%E8%B1%A1%E4%BB%A4%E4%BA%BA%E6%8B%85%E5%BF%83/" target="cdt-mirror">环球时报 | 《开罗宣言》海报带来的印象令人担心</a>
 </h2>
@@ -872,94 +955,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%80%E4%B9%88%E5%B7%A5%E4%B8%9A%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E6%B0%B0%E5%8C%96%E9%92%A0%EF%BC%9F/" target="cdt-mirror">牛博山寨｜什么工业需要用到这么多氰化钠？</a>
-</h2>
-<p><h3>中国特色的杀鸡取卵：氰化钠、黄金、泥石流</h3>
-<div>
-<div>【按：8 月 12 日天津爆炸现场有 700 吨氰化钠，这是剧毒物质，这么多氰化钠干什么用？在我国，其主要用于开采黄金。“黄金资源贫匮的中国，己连续十年全球黄金产量第一，靠的就是这玩艺儿，触目惊心”！】</div>
-<div>一、氰化钠与黄金</div>
-<div>2010 年 7 月 4 日，福建龙岩市上杭县紫金山尾矿溃坝，福建汀江受到氰化钠污染；</div>
-<div>2010 年 7 月 28 日，吉林桦甸市常山镇大河水库发生溃坝，下游 5 个村庄被冲毁，溃坝真相和具体伤亡人数至今没有公布，官方通讯只称“造成巨大人员伤亡”；</div>
-<div>2010 年 8 月 7 日，山东省招远市一金矿发生火灾，16 人遇难；</div>
-<div>2010 年 8 月 8 日，甘肃舟曲县突发特大泥石流灾害，泥石流冲进县城，并截断白龙河流形成堰塞湖，目前已致 702 人遇难 1000 多人失踪。</div>
-<div>紫金、招金，人人皆知，是全国著名黄金之乡。桦甸，有中国黄金第一乡之称，长白山下黄金国的美誉。舟曲，西部产金大县，舟曲 — 文县 — 两当的白龙河流域、西秦岭延伸带号称亚洲第一大金矿。</div>
-<div>短短两个月，中国东西南北四大黄金之乡全部遭灾，造成巨大人员伤亡。与之相对应的是，从 2009 年开始，中国超越南非、澳大利亚、俄罗斯，连续三年排名全球黄金产量第一。</div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpeg.jpg" alt="0?wx_fmt=jpeg" width="550" height="412"></div>
-<div>上图：这就是紫金山，整座大山都被剥皮</div>
-<div></div>
-<div>很多人会纳闷，较之南非、澳大利亚、俄罗斯、美国、加拿大诸国，中国不是一个黄金资源大国，而且中国的金矿品位低，开采价值低，何以能成为全球黄金产量最多的国家？而且，南非、澳大利亚、俄罗斯等黄金生产大国产量在逐步减少，中国的黄金产量却在不断增加，全球黄金产量第一的位置无人能够撼动！</div>
-<div></div>
-<div>个中的秘密，就是中国大力推行一种工艺简单、投资少、建设周期短，成本低，在中国提炼品位低至每吨矿石含 0.5 克金还能赚大钱的炼金术……氰化钠堆浸提金术。</div>
-<div></div>
-<div>是中国人聪明，发明的新工艺吗？是中国金山多，有资源优势吗？回答是 No。氰化钠堆浸提金术是美国人上世纪六十年代发明的，它源于 1900 年前美国盗采黄金的贼子们采用的提炼术：偷采金矿的盗贼将矿石碰碎后，放在桶里，一吨矿石加 1 公斤氰化钠，把黄金从矿石浸泡出来。</div>
-<div></div>
-<div>南非、澳大利亚、俄罗斯、美国、加拿大的金矿更多，为什么不推行这种艺简单、投资少、建设周期短，成本低的炼金术？原因很简单，这种炼金工艺对环境的污染和破坏达到摧毁的程序。用这种工艺从贫矿中提炼 1 克黄金，要用 100 至 300 克的剧毒化学物氰化钠。故此，美国只容许在环保部门的严密监管下建立试验场。在美国、澳大利亚、加拿大，高标准的环保要求之下，用氰化钠堆浸提炼低品位金矿发不了财，一旦发生泄漏污染，会破罚到破产，故此，他们的商人不敢轻易冒险采用这项高危工艺。</div>
-<div>但美国人把这种工艺教给中国人，现在，全球最大的氰化钠堆浸提金的工场，就在福建龙岩市上杭县紫金山，每年处理矿石高达 200 万吨。</div>
-<div></div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpg.jpg" alt="0?wx_fmt=jpg" width="550" height="412"></div>
-<div>上图：天山之巅的氰化钠堆浸提金场，这个喷头，就用于喷洒氰化钠溶液。</div>
-<div>下图：氰化钠堆浸提金场，工艺简单，无须建选矿厂，把矿石粉碎成石仔后堆积起来，喷洒氰化钠溶液 30 天到 90 天，从回收的氰化钠溶液分离出黄金。</div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fjpeg.jpg" alt="0?wx_fjpeg" width="412" height="274"></div>
-<div>二、尾矿库与泥石流</div>
-<div>7 月 24 日，河南省栾川县石庙镇启源公司尾矿库溃坝，栾川县潭头镇汤营村伊河大桥垮塌，县城被淹，造成至少 50 人死亡。</div>
-<div>栾川有中国钼都之称，中国学会氰化钠堆浸提金术后，在没有严格环保标准和环保执法之下，其成本优势突出，中国的企业又将氰化钠工艺用于钼矿的浮选分离，从此，中国大力开挖低品位钼矿，超越钼资源极为丰富的美国、智利等美洲国家，成为金球第一产钼大国。</div>
-<div>不仅仅如此，近年来，氰化钠和堆浸工艺还广泛地推广到铜、镍、铅锌等有色金属贫矿的湿选分离。</div>
-<div>尾矿库就是为储蓄浸炼过的矿石、矿渣和各种废水而人工筑造的大型库池。氰化物和硫酸钠等化学物浸炼过的矿石、矿渣和废水有剧烈的毒性、重金属和污染物，尾矿库的水只能进不能出，若遇大雨，容易漫坝、溃坝，形成泥石流。栾川伊河大桥垮塌，造成至少 50 人死亡，起先报道是大雨引发的洪水造成的，后被爆是尾矿库溃坝。可怜那些上桥观洪的死难者，他们预设山洪冲不跨伊河桥，却没想到，尾矿库溃坝产生的泥石流把他们连同大桥一起埋葬。</div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0g.jpg" alt="0g" width="550" height="412"></div>
-<div>上图：往尾矿库排矿渣、废水。你估一下那条用竹席加固的尾矿坝能顶多大的雨？</div>
-<div>下图：有些尾矿坝漏水、溃坝都是故意而为，漏了、溃了，推给天灾，矿主矿企就卸下维护尾矿库的责任。</div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpe.jpg" alt="0?wx_fmt=jpe" width="505" height="335"></div>
-<div>三、杀鸡取卵</div>
-<div>几年来，资源相对贫瘠的中国，一直是全球黄金、钼、铅、锌等有色金属的最大生产国。这是中国敢于牺牲环境、敢于牺牲人命，敢于大量开采低品位贫矿，敢于大规模采用剧毒的氰化，敢于大范围采用污染严重的堆浸工艺而取得的“成就”。它在为中国“鸡的屁”(GDP) 的增长做出贡献的同时，也氰化炼出无数富翁。</div>
-<div>由于矿石品位低，炼一吨金要开采百万吨的矿石，炼一吨钼、铅、锌也要开采成千上万吨的矿石。大量矿石的剥采造成严重的水土流失。而经过氰化、硫化、碱化的尾矿和尾矿库，就是埋在山河之上的一颗颗化学炸弹。</div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmt.jpg" alt="0?wx_fmt" width="551" height="413"></div>
-<div>上、下图：生活在尾矿库周边的人们</div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/wx_fmtjpeg.jpg" alt="wx_fmt=jpeg" width="500" height="335"></div>
-<div>内蒙古包头有近百座尾矿库，其中包纲尾矿坝位于包头市区 12 公里、九原区和昆区交界处，周长 13．6 公里，占地 11 平方公里，用 GOOGLE 地图很容易就找到。包钢从白云鄂博采矿，经火车运至包头选矿厂，将矿石破碎研磨成粉，提炼后将剩余矿浆全部泵到尾矿坝，现储存尾矿１．５亿多吨、水１７００多万立方米。其中有约 7 万吨放射性金属钍。现在这座尾矿坝不断漏水，监测中发现，尾矿坝周围水源的放射性物质全部超标。</div>
-<div>包钢的这座尾矿坝，离黄河最近处仅为 10 公里，在尾矿坝西面不足 20 米的地方，便是黄河支流——当地人称为山水渠。每年 7 月至 8 月包头雨季到来之时，洪水卷席从尾矿坝渗出的水，经山水渠一起排入黄河。更为可怕的是，尾矿坝的水“只进不出”，完全靠自然蒸发，只得每年以 0.9 米的速度不断加高尾矿坝。包头处于地层断裂带，一旦出现地震或者大规模降雨致使尾矿坝决堤，后果不堪设想。这座尾矿坝设计寿命到 2025 年，黄河危在旦夕。</div>
-<div>金、钼、铅、锌全球产量第一的背后，是中国特色的杀鸡取卵。杀的鸡是九百万平方公里的山河水土，贻害的是十四亿人和他们的子孙后代；而卵的利益，只有少数人获得。这也足使少数人富得流油。</div>
-<div>问题的关键是，在中国，只要有利可谋，就存在经济学所指的政府失效。故而，贫矿开采、水土流失，氰化、硫化、重金属污染，溃坝、泥石流，成了无力治理的顽疾。</div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpeg1.jpg" alt="0?wx_fmtjpeg" width="500" height="335"></div>
-<div>上图：7 月 24 日，河南省栾川县尾矿库溃坝，伊河大桥垮塌，县城被淹，造成至少 50 人死亡。</div>
-<div>下图：栾川县的一个尾矿库</div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/x_fmtjpeg.jpg" alt="x_fmt=jpeg" width="640" height="392"></div>
-<div>命都没了，还要钱有什么用，发展才是硬道理？按这种模式，越发展污染越严重。</div>
-<div>那些个奉行金钱至上的人们该想想了，即便你家财万贯，你能保证下次爆炸不在你身边？你能保证下次路陷、桥跨、房塌、强拆、官员嫖宿幼女、警察醉酒杀人……这些统统跟你无关，不会降临到你的头上？没有一个安全的制度保障，人人都是受害者。</div>
-<div>灾难面前，你什么都不是。人在做，天在看。</div>
-</div>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%80%E4%B9%88%E5%B7%A5%E4%B8%9A%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E6%B0%B0%E5%8C%96%E9%92%A0%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">环境保护</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A8%81%E6%B4%9B%E6%AF%94%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A4%A9%E6%B4%A5%E6%B0%91%E4%BC%97%E9%A9%B1%E8%B5%B6cnn%E8%AE%B0%E8%80%85%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/" target="cdt-mirror">威洛比：关于“天津民众”驱赶CNN记者的一点感想</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CBSN05.png" alt="CBSN05" width="550" height=""></a><br><em>（ 悲催的 CBSN 记者被非群众赶出了报道现场 ）</em></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a title="【立此存照】别让老外帮中国人报道啊！（更正）" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/">【立此存照】别让老外帮中国人报道啊！（更正）</a></li>
-<li><a title="Permanent Link to 【图说天朝】从CBSN记者报道遭阻中学习辨别真假警察" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%BB%8Ecbsn%E8%AE%B0%E8%80%85%E6%8A%A5%E9%81%93%E9%81%AD%E9%98%BB%E4%B8%AD%E5%AD%A6%E4%B9%A0%E8%BE%A8%E5%88%AB%E7%9C%9F%E5%81%87%E8%AD%A6/" rel="bookmark">【图说天朝】从CBSN记者报道遭阻中学习辨别真假警察</a></li>
-</ul></blockquote>
-<p>关于“天津民众”驱赶CNN记者报导塘沽爆炸事件的前前后后，基本事实已经澄清了，这里谈一些网络舆论与新闻从业者尴尬的生存状态吧。</p>
-<p>在关于自拍杆与拍尸体之类的谣言戳穿之后，又把各种支持“正义民众”的言论看了一遍，不外乎三个说法。一，“应该是”老百姓情绪激动，外国记者的出现就是碍事，挨艹合情合理。二，CNN作为老牌敌对势力，臭名昭著，活该。三，你们无非是想借机黑政府吗，早被机智的我一眼看穿了。怎么讲，后两种言论属于卖萌，其实没有反驳的必要了。</p>
-<p>说一下第一种言论。这是一个很有趣的现象，一个职业越被打压，民众对它的观感就越不佳，对该职业相关基础知识的了解就越缺乏，对基本的职业伦理的认知就越 扭曲，就越认为你的存在本身就是错误的。比如毛时代的臭老九知识分子，由于长期打压，导致知识分子干任何事情，都带有一种“原罪”，毛时代而言，只需要一 部分人民公仆和广大淳朴的工农群众就够了，知识分子永远是腐朽的小资产阶级的象征，你居然不去种地放卫星，不去扛枪，不去赶美超英，不去当政治路线鼓吹 手，躲在象牙塔里搞什么狗屁不如的学术，那你就是在犯错。</p>
-<p>如今的记者（不仅外国记者）就处于这样的地位上，律师和记者，是目前这国家受打压最重的团体，由于审查制度，这是个新闻自由度非常非常低的国家，这个我们都懂。很多从业者受到打压，同时由于强大的的宣传攻势的配合（不然不能证明这种打压的合理性），这个群体的公众形象也越发不堪。大概多年以前，记者还是一个受人尊敬的职业，如今已经被认为是“四处煽风点火，唯恐天下不乱”的破坏你国星辰大海之路与和谐社会的潜在罪犯了。</p>
-<p>即使在知乎这种“高素质”社区，有一次，在如何评价吴晓波的文章《最后一个“看门狗”也走了》？ – 创业这个问题下，一个答案赤裸裸说到：”一般职业很少有原罪，而律师和记者是少有的有原罪的职业”，并且刷了上千赞，这种公然鼓吹职业歧视的论调大行其道，实在令人不寒而栗。记者和律师，越被打压，就越成为“人民公敌”。毕竟在营销号都能在某个话题下操纵舆论的时代，一个枪杆子在手，又掌握几乎所有社会资源的强大的国家机器，要搞臭一个群体，太容易了。</p>
-<p>这种对新闻自由与从业者的长期打压，不仅导致这一群体的公众形象日益恶化。更导致普通民众对新闻从业者应该干什么与新闻伦理缺乏最基础的认知。在一些 “爱国人士”眼里，记者等于煽动犯偷窥狂，新闻采访等于流氓骚扰，如今又发明了一个新的道德大棒叫“二次伤害”。这种被无限扩大化的诛心神论可以安在我们每一位围观者头上。一边是新闻自由受到严重打压，一边你一旦想突破一点点极权机器恩准的边界追求真相，立马有一顶二次伤害的大帽子扣到你头上，与铁拳配合起来真是相得益彰，记者如果不乖乖当官家的贴心小棉袄，还能不身败名裂吗?</p>
-<p>根据外国记者的权利和责任， 既然他并没有违反国家境内的法律法规，那他作为外国记者的合法权益应该受到尊重和保护，很多爱国人士义愤填膺地说记者如何碍事，伤害人民群众感情，可除了种种造谣，露出的只有新闻记者原罪论与帝国主义亡我之心不死的底裤。他们谈起官员与御用专家，往往说是应该尊重专业，屁民不许质疑所谓专业人士；但面对记者和律师，却一点也不欢迎专业人士了，提起记者律师，不需了解这些行业的任何相关知识，张嘴骂记者律师都是存心不良的坏人就可以了。</p>
-<p>毕竟他们希望生活在这样一个理想国，一个强力国家，没有司法独立与新闻自由，却能在文明程度上赶美超英，民众都是民粹蠢货，不需要有任何诉求与博弈能力。官府事事都无需沟通拍脑门决定，却总能保证决策的英明神武，只需对上负责无需对下负责的官员，个个都是精英。不需要尊重法律仗义执言的律师，却能保证不发生新闻中的种种冤假错案，不需要新闻自由与勇于探寻真相的记者，却总能保证上下内外信息畅通无阻，民众不被蒙蔽。这可能才是“中国梦”的真谛吧，一种大型白日梦。</p>
-<p>在一个极权郭嘉，民众行为与官府行为往往是难以切割的。如今大概就是朝阳区群众之类火眼金睛的好群众，在文革那种时代，你的父母老婆孩子学生朋友，与你一样既是受害者，也可能是极权的一只只眼睛与一双双铁拳。这次究竟是民众自发行为还是有背后力量操控，最终只能成为是割裂的社会中见仁见智的又一种，因为 这个国家的所有公众事件，永远处于政府“自证清白”（因为所有应该独立于政府的监督机构事实上都属于它）与民众“妄加猜测”（他们没有可以信任的力量去监督ZF）之间。但这次事件刚一发生，五毛们就进行铺天盖地花样翻新的造谣攻势，配合的过于及时，这节奏感也真的太好了。</p>
-<p>最后上一个彩蛋，如今大谈“你们能不能有点同情心”，体谅民众’不理性行为”的人，和过去挥舞着正义的大棒，把所有同情底层者斥为“圣母”的人，重合率太高了，一种大型精神分裂。反对者并没有能力也无意愿惩罚这些“民众”（况且也不知道是否是自发的），仅仅批评一下这种行为本身，就成了“你无情你冷酷你 无理取闹”了？</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A8%81%E6%B4%9B%E6%AF%94%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A4%A9%E6%B4%A5%E6%B0%91%E4%BC%97%E9%A9%B1%E8%B5%B6cnn%E8%AE%B0%E8%80%85%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%B1%E4%BA%86%E6%B2%A1%E4%BA%8B%E5%B9%B2%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">吃饱了没事干的外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AA%92/?category=18271" rel="tag">外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -981,5 +976,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8-%E6%83%8A%E9%AD%8224%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%B8%87%E7%A7%91%E6%B5%B7%E6%B8%AF%E5%9F%8E%E7%9A%84%E9%80%83%E7%94%9F%E6%97%A5%E8%AE%B0/" target="cdt-mirror">牛博山寨 | 惊魂24小时：万科海港城的逃生日记</a>
@@ -245,7 +245,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E5%90%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-8-16/" target="cdt-mirror">奇闻录 | 周末段子荟萃 8-16</a>
 </h2>
@@ -364,7 +364,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/8-12%E7%81%AB%E7%81%BE%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85/?category=18271" rel="tag">“8.12”火灾爆炸事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/burn-down-%E5%8E%9F%E5%88%99/?category=18271" rel="tag">burn down 原则</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%91%E6%8F%B4/?category=18271" rel="tag">中国式救援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E8%8D%AF%E8%87%AA%E6%9D%80/?category=18271" rel="tag">农药自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%BB%80%E5%88%B9%E6%B5%B7%E8%8D%B7%E8%8A%B1%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">北京什刹海荷花市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%AA%E8%9C%82/?category=18271" rel="tag">只蜂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">国家机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A1%98%E6%B2%BD/?category=18271" rel="tag">塘沽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E6%B8%AF/?category=18271" rel="tag">天津港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80/?category=18271" rel="tag">开罗宣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%B0%8F%E7%87%95/?category=18271" rel="tag">张小燕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%9B%AF%E5%BF%83/?category=18271" rel="tag">张雯心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%AB%98%E4%B8%BD/?category=18271" rel="tag">张高丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BA%AE/?category=18271" rel="tag">李亮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%91%9E%E6%B5%B7/?category=18271" rel="tag">李瑞海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%91%9E%E7%8E%AF/?category=18271" rel="tag">李瑞环</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E6%88%98%E5%A3%AB/?category=18271" rel="tag">消防战士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%AE%E7%81%B0/?category=18271" rel="tag">炮灰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">瑞海公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96%E7%BE%8E%E5%AD%A6/?category=18271" rel="tag">盛世美学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A/?category=18271" rel="tag">红十字会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB/?category=18271" rel="tag">网易新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E4%BB%8B%E7%9F%B3/?category=18271" rel="tag">蒋介石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">谣言</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9D%B1%E6%AD%A5%E4%BA%AE%EF%BC%9A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E3%80%8C%E8%AC%A0%E8%A8%80%E3%80%8D%E8%83%8C%E5%BE%8C%E7%9A%84%E7%9C%9F%E7%9B%B8/" target="cdt-mirror">东网｜東步亮：天津大爆炸「謠言」背後的真相</a>
 </h2>
@@ -966,7 +966,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -976,5 +976,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>

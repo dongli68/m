@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,25 @@
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E8%90%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%99%84%E8%BF%91%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E5%86%8D%E6%AC%A1%E8%81%9A%E9%9B%86/" target="cdt-mirror">中国经营报｜天津爆炸事故附近小区居民再次聚集请愿要求政府回购危房</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1bdc7bd3c21801c.jpg" alt="1bdc7bd3c21801c" width="440" height="330"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005vnhZYgw1ev4c4uudc9j30sg0lc47c1.jpg" alt="005vnhZYgw1ev4c4uudc9j30sg0lc47c" width="440" height="330"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/968b5721ca21c5f.jpg" alt="968b5721ca21c5f" width="440" height="293"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/f569f0d0c0d948d-1024x682.jpg" alt="f569f0d0c0d948d" width="551" height="367"></p>
+<p>天津爆炸事故附近小区居民再次聚集请愿要求政府回购危房</p>
+<p>@中国经营报：【天津爆炸事故附近小区居民再次聚集请愿要求政府回购危房】今天将召开天津港爆炸事故第七次新闻发布会。此刻，就在美华酒店外，多个小区业主请求政府回购，还有业主下跪。现场有特警、武警排队站在酒店外。本报@记者郝成</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E8%90%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%99%84%E8%BF%91%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E5%86%8D%E6%AC%A1%E8%81%9A%E9%9B%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E3%80%8A%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E3%80%8B%E6%B5%B7%E6%8A%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8D%B0%E8%B1%A1%E4%BB%A4%E4%BA%BA%E6%8B%85%E5%BF%83/" target="cdt-mirror">环球时报 | 《开罗宣言》海报带来的印象令人担心</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/618oK.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/618oK.jpg" alt="开罗宣言" width="389" height="600"></a></p>
@@ -924,47 +940,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%A7%86%E9%A2%91%EF%BC%8B%E6%96%87%E5%AD%97%E7%BA%AA%E5%BD%95%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83/" target="cdt-mirror">【视频＋文字纪录】天津爆炸事故第一次新闻发布会未播出内容</a>
-</h2>
-<p><blockquote><p><strong><a title="spiritguo" href="http://weibo.com/u/3723042790?from=feed&loc=nickname" target="_blank"> @spiritguo</a></strong>：嘴脸，电视里没有的新闻发布会部分！！  <a title="秒拍视频" href="http://t.cn/RL1hAwE" target="_blank"><em>秒拍视频</em></a></p></blockquote>
-<p><strong><a href="http://video.weibo.com/show?fid=1034:68519a9c9230bcea6db5bfd8025435f9">视频地址</a>：</strong><br></p>
-<blockquote><p>相关阅读：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E6%BE%8E%E6%B9%83%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC%E4%BA%8C%E5%9C%BA%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E7%8E%AF/">【视频推荐】澎湃｜天津爆炸事故第二场新闻发布会记者提问环节</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%91%98%E4%B8%8D%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%92%AD/">天津官员不知危险品与居民区规定距离 发布会直播被掐</a></li>
-</ul></blockquote>
-<p><strong>以下发布会文字纪录由中国数字时代编辑整理。但由于环境嘈杂以及音频质量有限，个别词语可能与原始内容有一些误差，欢迎读者指正：</strong></p>
-<p><span><strong>天津市委宣传部副部长、市政府新闻办主任龚建生</strong></span>：对个别市民因为情绪激动而出现的一些不当行为啊，我们表示遗憾。我们一直坚持啊，善待媒体人，尽可能地创造条件，为媒体记者工作采访创造便利条件，保证媒体记者的合法采访权利。请各位媒体记者放心。</p>
-<p><span><strong>记者</strong></span>：那为什么我们在现场你们要给我们删照片呢？</p>
-<p><strong><span>龚</span></strong>：我不知道。。。[此处听不清]</p>
-<p><span><strong>记者</strong></span>：那这样一个问题，为什么出动<span>核生化</span>部门？</p>
-<p><span><strong>天津滨海新区区长张勇</strong></span>：我来说啊</p>
-<p><span><strong>记者</strong></span>：好</p>
-<p><span><strong>张</strong></span>：因为啊，现场的情况比较复杂，时间呢又很短，我们要避免产生更大的损失。在这里啊，在这个物质还没有明确评判的情况下，那么就是一定得要，就是最稳妥，最好的防火措施，所以基于这个啊，请部队呢给予了支持。</p>
-<p><span><strong>记者</strong></span>：危化品为什么建在居民小区边上？</p>
-<p><span><strong>张</strong></span>：它没在居民小区边上。</p>
-<p><span><strong>记者</strong></span>：那为什么会波及到周围的居民小区？</p>
-<p><span><strong>张</strong></span>：我想啊，你有机会你可以去现场看看。它离着居民小区距离啊，还是很远的。但是呢那个爆炸的强度比较大，所以它波及到了居民小区。</p>
-<p><span><strong>记者</strong></span>：但是之前不是有环评报告说不会影响到周边的居民吗？</p>
-<p><span><strong>此时众多记者质问</strong></span>：有多远呢？到底有多远？有多远啊？</p>
-<p><span><strong>一名记者大喊</strong></span>：我们就是距事故区不远啊！一点都不远啊！</p>
-<p>（记者质疑声不断）</p>
-<p><span><strong>记者</strong></span>：为什么现在。。。[此处被龚建生打断]</p>
-<p><span><strong>龚</strong></span>：各位媒体记者朋友，由于啊，出席发布会的几位领导，还要赶赴事故处置一线，那咱们今天的新闻发布会到此结束。（此处由于记者质疑声愈来愈大，龚提高了音量）我们将及时地，将事故处置的最新进展，以适当对形式，向各位发布。</p>
-<p><strong><em>（</em>台下记者一片不满</strong>，并大声询问第二次新闻发布会什么时候会举行。）</p>
-<p><span><strong>龚</strong></span>：具体情况我们会及时通知你们的。</p>
-<p><span><strong>记者</strong></span>：大概什么时候呢第二次记者发布会？</p>
-<p>（张勇离座）</p>
-<p><span><strong>龚</strong></span>：发布会到此结束, 谢谢各位。</p>
-<p>（张勇等官员在大量工作人员护送下迅速离场。）</p>
-<p><em>以上“<span>记者</span>”指当时场下所有媒体记者</em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%A7%86%E9%A2%91%EF%BC%8B%E6%96%87%E5%AD%97%E7%BA%AA%E5%BD%95%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -976,7 +951,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -986,5 +961,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

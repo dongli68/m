@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,229 @@
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%AA%92%E4%BD%93%E8%BF%BD%E9%97%AE%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%9A%84%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%88%B0%E5%BA%95/" target="cdt-mirror">中国新闻网｜媒体追问：天津爆炸的涉事企业到底什么来头？</a>
+</h2>
+<p><p>【编者按】发生爆炸事故的涉事公司瑞海国际是如何通过审批入驻天津港，是否已取得当地安监部门的危险化学品经营许可证，港区内的安全生产怎样管理……在人们从爆炸惨象转移到更多层面的深入关注后，上述疑问成为诸多问题的焦点。</p>
+<p>危险品物流仓库附近 600 米内存在居民区、轻轨设施，国家规定的 1000 米安全红线为何守不住？8 月 13 日夜，人民日报海外版微信公号“侠客岛”以此疑问展开话题，解读瑞海公司所涉及的重大危险源建设项目选址审批、监管等问题。</p>
+<p>文章指出，中国在对于危险化学品重大危险源的土地利用规划上，存在立法空白。涉事公司之所以能获得规划审批，除了监管漏洞，还有规定上有空可钻。根据国家安监总局 2012 年颁布的《危险化学品经营管理办法》规定，拥有港口经营许可证，不需要危险化学品经营许可证。而涉及到行政管理体制问题，当地安监局竟无权在天津港港航局辖区里发放危险化学品经营许可证。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/190.jpg" alt="190" width="514" height="366"></p>
+<p>8 月 12 日深夜，天津的一声巨响，震惊世界。这场发生在天津滨海新区的危险品仓库爆炸事故，已经造成四十余人死亡，数名第一时间赶赴现场救火的消防人员失踪。现在，因现场危化品数量、存储方式不明，暂缓扑灭，已经派防化人员进入现场。</p>
+<p>随着救援的继续，不少人开始讨论这次事故的追责问题，比如，为什么至今未能得到现场危化品的数量和存数的数据？消防员第一时间冲进火场时，是否知道这不是一场普通火灾不能用水灭火？如此等等，很多问题依然沉重待解。</p>
+<p>关于建筑距离</p>
+<p>此次事件中，一个为人诟病的是，为什么这个危险品堆场周围有这么多的居民楼？有些距离事故现场不足一公里。规划设计方面漏洞有多大？</p>
+<p>早在 2001 年，国家安监局就颁布了《危险化学品经营企业开业条件和技术要求》。其中，明确规定大中型危险化学品仓库应与周围公共建筑物、交通干线（公路、铁路、水路）、工矿企业等距离至少保持 1000m。</p>
+<p>瑞海国际的这块堆场占地面积 46226.8 平方米，在国家安监局上述规定中，9000 平方米即属于大型仓库范围，所以，建筑距离应执行 1000 米红线规定。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/191.jpg" alt="191" width="600" height="366"></p>
+<p>但从地图上看，距离爆炸点仓库 500 多米处，就是公路主干道海滨高速、津滨轻轨，600 多米处，则是万科海港城三期居民楼。这么近距离的结果是什么呢？据报道，当时正行驶在 S11 高速路上的一位司机被热浪冲飞，津滨轻轨在 8 月 13 日全线停运；而距离爆炸中心瑞海物流仓库仅有 600 米的万科海港城居民们，窗户玻璃全被震碎，家里一片狼藉。</p>
+<p>这个 1000 米的安全红线，为什么守不住？</p>
+<p>瑞海国际的跃进路堆场改造成危险品堆场是在 2014 年，而在这之前，周边的海滨高速路、万科海港城、津滨轻轨等项目均已竣工。因此，瑞海国际的堆场改造过程，从选址开始就违规操作，但就这样，还顺利通过了当地环保部门的环保测评。岂不是咄咄怪事？<br>
+这里面除了监管漏洞，还有规定上有空可钻。</p>
+<p>目前，我国在对于危险化学品重大危险源的土地利用规划上，存在立法空白。在危险化学品建设项目的选址规划上，《危险化学品安全管理条例》未能明确规定城乡规划部门的职责，因此很难保证从源头开始，就对危险品的土地利用进行科学规划。</p>
+<p>同时，在重大危险源建设项目选址规划阶段，安全生产监管部门和城乡规划部门都负有重要职责，但两者的职责往往缺乏联系。比如，对于重大危险源建设项目的安全性，有安监部门负责安全许可。但对于重大危险源企业周边区域的其他建设项目（如居住区），由于不需要安全许可，安监部门并不参与。如此一来，只有城乡规划部门参与规划，就难以从安全角度进行科学审查，存在安全监管的真空。</p>
+<p>《危险化学品安全管理条例》还规定，危险化学品的储存设施，与八类场所、区域要保持一定距离。但《条例》中只是笼统说“必须符合国家标准或者国家有关规定”，没有明确给出具体的距离标准，所以落实很难。</p>
+<p>目前，我国只有氯碱、化肥等少数行业制定有卫生防护距离标准。而在《消防法》中，只是提到“防火间距”，而且最大一般也只是 150ｍ。这个防火间距的意思就是，着火体的热量点燃另一个物体的距离，针对的是非爆炸性火灾事故，以火灾预防和初期扑救为目的来设定，也没有考虑危险物质泄漏后的毒性危害。所以，对于大量生产、储存液化毒气类的危险化学品企业，防火间距不足以起到安全防护的作用。同时，卫生防护距离、防火间距等标准也存在涵盖范围不够、适用性差、存在争议等、标准间相互冲突等问题。国家又一直没有出台专门针对危险化学品企业外部安全防护距离的标准，因此就使企业陷入无法可依、无标准可循的困境。也给不良企业有了钻空子的机会。</p>
+<p>所以碰上瑞海国际这样，当地安监部门管不着，又跳出城乡规划部门之外的企业，违规经营也是如入无人之境了。</p>
+<p>涉事公司</p>
+<p>神秘的是这家涉事公司。</p>
+<p>公开资料显示，这家民营企业是天津口岸危险品货物集装箱业务的大型中转、集散中心，是天津海事局指定危险货物监装场站和天津交委港口危险货物作业许可单位。</p>
+<p>但在工商注册信息中，这家公司的业务范围只是在港区内从事装卸、仓储业务经营；装卸搬运；分拨、包装、简单加工；国际货运代理（海、陆、空运）；集装箱储存、中转、拆箱；劳务服务；五金交电、日用百货、船舶配件、环保设备、橡胶制品、电子产品、机电设备、钢材、铁矿石、焦炭、照明设备的批发兼零售；货物及技术的进出口业务；商务信息咨询。</p>
+<p>其中所涉的仓储业务从严格意义上讲，只是普通货物的仓储。但在这家公司的官网上，罗列的仓储业务的商品类型却都是危险品：</p>
+<p>第二类：压缩气体和液化气体 (氩气、压缩天然气等)；第三类：易燃液体 (甲乙酮、乙酸乙酯等)；第四类：易燃固体、自燃物品和遇湿易燃物品 (硫磺、硝化纤维素、电石、硅钙合金等)；第五类：氧化剂和有机过氧化物 (硝酸钾、硝酸钠等)；第六类：毒害品 (氰化钠、甲苯二异氰酸酯等)；第八、九类：腐蚀品、杂类 (甲酸、磷酸、甲基磺酸、烧碱、硫化碱等)。</p>
+<p>在国务院颁布的《危险化学品安全管理条例》中，明确规定，设立存储危险化学品的企业，必须向省一级的经济贸易管理部门和设区的市级安监部门提出申请，由这两个单位组织专家进行审查。危险化学品经营许可证也必须由这两个部门颁发。</p>
+<p>那么，瑞海国际有没有取得当地安监部门的危险化学品经营许可证？</p>
+<p>这里有个管理上的“飞地”，让瑞海国际可以躲过这个许可证。因为根据国家安监总局 2012 年颁布的《危险化学品经营管理办法》规定，依法取得港口经营许可证的港口经营人在港区内从事危险化学品仓储经营的，不需要危险化学品经营许可证。而瑞海国际恰恰拥有港口经营许可证：（津）港经证（ZC-543-03）号。</p>
+<p>那么问题来了，为什么拥有港口经营许可证，就可以不要危险化学品经营许可证了呢？一个是在港口的业务经营许可，一个是人命关天的危险品存储经营，这两块业务并不互相涵盖，为什么就能省却最重要的一个许可证？</p>
+<p>这涉及到现实的行政管理体制问题。瑞海国际的注册地在天津东疆保税港区，面积只有 10 平方公里。也就是下图这么小的一块填海造陆出来的区域。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/192.jpg" alt="192" width="515" height="435"></p>
+<p>但这块区域归港航局管理，滨海新区的安监部门并不插手港航局辖下的安全生产等监管，这块责任划给了港航局。所以，安监局没有权力在港航局的辖区里发放危险化学品经营许可证。</p>
+<p>但港区内的安全生产怎么管理呢？</p>
+<p>岛上的一位资深港口人士告诉岛叔，企业的港口经营许可证由港航局颁发，但行政效力只限于港口。所以瑞海国际最初在工商注册的时候，注明的业务范围就是在港区内从事装卸、仓储等工作。从原始工商注册的业务看，瑞海国际就是一个典型的码头企业。装卸是码头企业的基本功能，存储是附加的。因为货物从船上卸下来后，不可能一下子都运走，所以在码头一般都会有一个仓储基地，用于临时存放货物。这里面当然会有一部分危险品的装卸和存储。所以，一般港航局都会在批复港口经营许可证的同时，附加一个危险品堆存的经营许可证，用于在码头临时存放一些危险品。</p>
+<p>但这个仓储功能仅仅限于存储，并不具备拆装、查验功能。如果要拆装、查验，就需要运到内陆堆场，由商检、国检、海关等部门专门查验。从地图上看，瑞海国际在跃进路附近的堆场明显远离港口，可以算作内陆堆场，属于当地安监局管辖范围。</p>
+<p>但为什么港航局的一个港口经营许可证，就可以管到内陆堆场，还堂而皇之地把安监部门挡在门外，这块“飞地”到底哪来的权力？</p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%AA%92%E4%BD%93%E8%BF%BD%E9%97%AE%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%9A%84%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%88%B0%E5%BA%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E8%B4%A3/?category=18271" rel="tag">问责</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%BB%A4%E5%AE%8C%E6%88%90/" target="cdt-mirror">牛博山寨｜华尔街日报：寻找令完成</a>
+</h2>
+<p><p>六月的一个下午，汤米•袁（Tommy Yuan）正准备去他位于得克萨斯州欧文市的数学辅导中心上课，两个男人夹在学生家长中走了进来，然后迅速离开。年长的男子有些胖，头顶有些秃，被两侧的头发盖住。年轻的男子矮壮敦实，头发较短，看起来“很会打架”，袁先生说。</p>
+<p>后来，这两个男人又返回来，用普通话说自己是中国政府的代表。“如果你想保护你的前妻，就把你所知道的全告诉我们，”这两位陌生人告诉袁先生。袁先生出生于中国，上世纪九十年代定居美国。据他称，这两个中国男人正在寻找一个叫做令完成的人。</p>
+<p>令完成的哥哥令计划曾经是前中国最高领导人的得力助手，不过于去年十一月起，他被党和国家正式立案调查，今年七月起正式因收受巨额贿赂、进行权色交易、非法获取党和国家大量核心机密等罪名被提出起诉。</p>
+<p>据邻居称，在 2014 年的大部分时间里，令完成都化名居住在加利福尼亚州卢米斯的某个社区的别墅中，其居住地离加州首府萨克拉门托不远。和他同住的还有袁先生的前妻，不过自从去年十月开始，这对“夫妻”就消失了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjg.jpg" alt="0?wx_fmt=jg" width="551" height="368"></p>
+<div>
+<div data-url="https://dn-yuehu.qbox.me/page/21283149acd3c20b3c12be97d9ba0272.json?1439846502" data-count="2888">
+<p>令完成美国豪宅。</p>
+<p>令完成现在是政治阴谋的焦点，甚至可能让中国领导人习近平即将于九月进行的对美访问黯然失色。据外交家和分析人士表示，令完成很可能通过他哥哥 令计划 获取到一些关于中国领导人的敏感信息。如果他寻求政治避难，那么他将成为近几十年来中国最重要、最显赫的叛逃者 55 岁的令完成为什么选择于 2013 或 2014 年移居美国，至今仍是不解之谜。据某个和令家相熟的知情人士透露，去年秋天以来，令一度和国内许多朋友都失去了联系，不过很快又发来消息说自己在美国很安全。在这之前，令完成曾经在中国国家通讯社新华社任高级职位，而后进入私企工作。在这期间他培养了一些贵族爱好，例如打高尔夫球等。知情人士称，令完成经常穿着奢华、张扬，和其他政治家庭的成员相比，他好像较少被监管。</p>
+<p>在卢米斯，令完成和袁先生的前妻化名杰森（Jason）和简•王（Jane Wang），他们几乎不会说英语，主要通过短信与邻居交流。“他非常有趣，他会发 emojis 表情符号 ，但常常会出现语言问题，” 邻居莎拉•马特森说（Sarah Matteson），“他爱生活，爱高尔夫，是一个非常有趣、随遇而安、逍遥自在的人。”马特森的丈夫雷（Ray）说，他们夫妻直到今年五月都和令完成保持电话联系，不过在那之后就再也联系不到他。三四个月前，国土安全部的特工曾经来找过他们夫妻，询问与令完成相关的问题。今年六月，国安部的特工们同样到袁先生前妻的故乡——德克萨斯州的普莱诺市寻找他们。</p>
+<p>国土安全部的官员引用不得评论个案的政策，拒绝对他们是否在寻找令完成或令是否已经向美国政府寻求政治庇护等问题作出回应。美国中央情报局、中国的外交和公共安全部门以及驻华盛顿大使馆亦均拒绝对此作出回应。</p>
+<p>去年夏天，美国高级官员接到通知，称令完成在和美国当局进行谈判。但是这些官员并未得知究竟美国政府内的哪些官员具体参与到与令的谈判中。人们同样不清楚的是，中国政府是否一直在没有得到美国官方许可的前提下，在美国追踪令完成的下落。知情人士透露，最近，由于一些中国安保人员在进入美国逮捕逃亡者的过程中不遵守美国的规章程序，两国关系正处于紧张局势中。美国官员称，秘密出现在美国土地上的中国特工和执法人员，以及他们对中国公民所使用的“具有攻击性的策略”，长期以来一直让华盛顿政府对北京政府有所关注和忧虑。但是这些官员拒绝对牵涉到令完成一案的中国特工作出评论。</p>
+<p>袁先生说，他总共三次遇到这两位神秘的中国“游客”——两次在学校，还有一次在达拉斯的一家中餐馆。他向华尔街日报记者展示了自己 7 月 9 日在中餐馆预定晚餐的短信。不过现在这个包含了华盛顿特区区号的电话号码已经停用了。袁先生说，这两人从来没有向他出示过任何身份证明，不过当他询问他们的名字时，两人只说都姓温。他们称自己不能久留，也没有解释任何原因。</p>
+<p>国土安全部某部门官员称，美国与中国警方关于逃犯的调查追捕合作中有一个 “非约束性”协议。中国有两个警方调查人员在美国，但是他们应当去协助美国官员，而不是独立行事。</p>
+<p>中国目前正加大力度打击腐败，其中重要的一块就是于去年推出的“猎狐”行动——抓捕逃离海外的嫌疑犯。美国政府在 4 月同意与中国政府展开合作。美国官员说，中国政府曾经交给美国政府一份 40 人的名单，里面是中方希望美方驱逐出境的人员，但这份名单里并没有包括令完成（或其任何使用过的化名）。</p>
+<p>据透露，中国官员目前并没有通过正常的外交渠道（包括和白宫高级官员、国务院官员进行的直接会谈等）询问关于令完成的消息。美国国务院和司法部的发言人拒绝对令完成这一个案予以置评，他们称美国正在协助中国逮捕潜逃至美国的嫌疑犯，但一切都需要在有明显犯罪证据的前提下。北京和华盛顿之间的局势本来就因“南海问题”和所谓的“中国黑客网络攻击”事件日渐紧张，而围绕令完成出现的各种阴谋论则很可能使双方关系更为复杂化。</p>
+<p>中国国家主席习近平深远的反腐败斗争已经让多名中国政界高层人士落网，包括在胡锦涛时代领导中央书记处和中央办公厅的令计划，他负责管理胡锦涛的日程安排，公文流转和人身安全。2012 年，在儿子因一次“高速法拉利车祸”意外离世后，令计划 被派至另一职位，这一职位让他不再如之前那样手握重权。他的哥哥令政策也于 2014 年 6 月被正式立案调查，目前他们被扣留在中国，情况不为人知。迄今为止，令完成尚未被正式指控犯罪，但是最近官方媒体的报道已经开始逐渐涉及到他的生意往来。</p>
+<p>袁先生称，六月见到的那两个中国“游客”告诉他令计划 在生意过程中涉嫌违法，并夹带非法收入潜逃至美国。“其中一人很严肃地说：‘如果你帮我们，也许我们可以帮你，’”袁先生说， “这时候我才意识到，他们不是来和我开玩笑的。他们问了一些关于我前妻朋友的问题，说她涉嫌和令完成虚假婚姻。”</p>
+<p>袁先生前妻的中国名字叫张丽君（音译），不过常常用简•张（Jane Zhang）这个名字。她目前 52 岁，于 2011 年和袁先生离婚。据袁先生回忆，在去年秋天，她曾提到一个自己有一个新的约会对象，说他是一个“成功的商人”。不过据邻居透露，那时她已经和令完成一起在其位于加州的豪宅生活了数个月。她没有回记者请求采访的电子邮件，袁先生提供的她的手机号也无人接听。</p>
+<p>政府公共记录显示，他们所居住的房子是由王成（音译）和李平（音译）于 2013 年用 250 万美元买下的。据令家相熟人士透露，王成是令完成曾用过的化名，李平是令完成的妻子，央视著名节目主持人。目前还不清楚他们是否已经离婚。邻居马特森说，她问国安部特工是否想要了解关于令完成的国籍问题，他们回答说：我们只想和令完成谈谈。马特森从照片中认出令完成和张丽君（音译）就是住在隔壁豪宅的夫妇，但是并不认识李平。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0x_fmtjpeg.jpg" alt="0?x_fmt=jpeg" width="293" height="220"></p>
+<p>在加利福尼亚州奥本的黑马高尔夫俱乐部，高尔夫总监格诺•伊瓦尔迪（Geno Ivaldi ）说，他认出相片中的男子叫杰森——这是令完成曾用过的化名。伊瓦尔迪说，“杰森”是一个很好的高尔夫玩家，经常与俱乐部的老板李树海（音译）一起玩。据媒体报道，在中国，李树海和令完成是生意伙伴。而据资料显示，李树海在欧文市登记的办公地址就是目前令完成所居住的别墅，目前记者亦没有任何方式可以找到他。</p>
+<p>袁先生说，在那两个神秘的中国男子到来之前，他曾经去德克萨斯州拜访过李树海。他和李树海在几年前通过前妻介绍见过几面——他们三人都是东北人。当时，李树海一直在寻找王成和张丽君，但他并不想确切知道他们在哪里，只是想向令完成传递一些重要信息，以便令能“能做出正确的决定。”袁先生称自己帮不上忙，他只是四月还是五月在当地沃尔玛看见过前妻，但当时没有上去跟她说话。自从和袁先生离婚后，张丽君就一直住在他俩婚前共有的位于普莱诺的房子里。这几个月来，她把这套房子租了出去。但当华尔街日报的记者到访时，屋里没有任何人。邻居吉姆•戈麦斯（Kim Gomez）称，两名国土安全部的特工早在六月就来过这里找张丽君。</p>
+<p>袁先生说，国土安全部的特工没有联系过他，那两个声称代表中国政府的神秘游客也再没来找过他，他也不知道前妻现在在哪里。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0wx_fmtjpeg2.jpg" alt="0?wx_fmt=jpeg" width="640" height="318"></p>
+<p>华尔街日报网站报道截图</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%BB%A4%E5%AE%8C%E6%88%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></div></div></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%AC%94%E8%AE%B0%EF%BC%9A%E9%82%A3%E4%BA%9B%E7%89%BA%E7%89%B2%E7%9A%8419%E5%B2%81/" target="cdt-mirror">端传媒｜天津笔记：那些“牺牲”的19岁</a>
+</h2>
+<p><p><strong>端传媒记者 文涛 发自天津</strong></p>
+<p>对消防员家属来说，烈士的名号太遥远，他们想知道的，是亲人究竟是死是活，是什么，把年轻的生命抛入了这样的命运。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/zhangsumei_jiashu-1024x683.jpeg" alt="zhangsumei_jiashu" width="549" height="366"></p>
+<p>死亡消防员张素梅的家属。摄: Billy H.C. Kwok/ 端传媒</p>
+<p>距离塘沽爆炸现场约5公里的逸轩风尚酒店，弥漫着难以言表的哀伤气息。这里住满了从四面八方赶来天津港寻亲的消防员家属。</p>
+<p>8月12日深夜的大爆炸之后，就再也没有人能联系上第一批入场救火的天津港公安局消防支队一大队、四大队、五大队的大部份成员。一直到8月15日的新闻发布会，不管是在官方公布的死亡或者受伤名单里，都没有他们的名字。</p>
+<p>他们大多数很年轻，20岁左右。家属们在新闻发布会外打出白布黑字的横幅：「还我儿子」，希望交代这些「失踪」了的孩子们的去处。</p>
+<p>8月16日上午，除了伤亡名单之外，官方终于首次通报了「失联」的人数：85人，其中72人来自天津港公安局消防支队。</p>
+<p>当天中午，一位当地领导来到家属们居住的酒店，对在场的警察和志愿者发布命令：一定守住宾馆出口，不许一个家属出街。他严厉地说，家属在15日冲击政府新闻发布会，并拉出横幅的行为，「严重抹黑了天津的形像」。</p>
+<p>下午，国务院总理李克强到天津滨海新区812大爆炸现场视察。随后，天津港欧亚欧国际公司书记刘军、天津港江盛公司书记张方受港务局委托，又来到酒店对家属劝导。刘军反覆承诺：「不要相信网上传的，说他们是临时工，没有合同编制，我可以承诺，外面的消防员（公安武警系统的消防员）如遇不测，他们是什么待遇，我们（天津港专职消防员）就是什么待遇，他们是烈士，我们也是烈士，他们是一等功，我们的也是。」这段话，他允许家属用手机录音作为凭证，但「不许发布在网上」。</p>
+<p>而对家属来说，烈士的名号太遥远，他们全副身心想知道的，是自己的儿子、女儿、哥哥、嫂子现在究竟是死是活，是什么，把他们抛入了这样的命运。</p>
+<p>8月16日，在与他们的相处中，端传媒记者记录下他们关于「失联」亲人的短暂回忆。</p>
+<p>逝者</p>
+<p>董泽鹏，1996年出生。天津港公安局消防支队第五大队消防员。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/dongzepeng.jpg" alt="dongzepeng" width="548" height="731"></p>
+<p>董泽鹏入队后的工作照。（家属提供）</p>
+<p>8月10日，董泽鹏在QQ上给妈妈留了三条语音信息。妈妈当时没看见，后来回了一条，问儿子有啥事儿，儿子没回。这是她和儿子最后的交流。</p>
+<p>8月12日夜晚10点50分，瑞海仓库起火，像平时一样，董泽鹏以后勤的身份跟队友一起迅速到达了现场，「没有穿作战服，也就是平时的训练迷彩服」，他的同事告诉端传媒记者，大家都以为是普通火灾。40分钟后，发生了那两次举世震惊的可怕爆炸。「那么大规模的爆炸，其实穿什么服装都一样了」，董泽鹏的叔叔后来说。</p>
+<p>董泽鹏入队才3个月。2013年，他从张家口市蔚县南留庄镇中学初中毕业，听朋友说去天津当消防员收入不错。前段时间，他告诉家里，天津港给他开了2900元的月工资。</p>
+<p>8月13日，得知了消息的至亲们从蔚县老家包车来到天津港，四处寻找他的下落。</p>
+<p>他母亲董鸿莺，40岁，父亲董永生，43岁。他们抽血，做了DNA鉴定。3天以后，在政府给他们统一安排的供家属居住的宾馆，接到了儿子的消息。8月16日晚上7点，工作人员上门告知：董泽鹏牺牲了。房间里传出母亲撕心裂肺的哭声。</p>
+<p>深夜，董泽鹏的亲戚告诉端传媒记者，孩子的死，相关企业和政府部门有极大责任，他们会继续追责。</p>
+<p>孙云飞 李文云 （夫妇）</p>
+<p>孙云飞，91年生人，天津港公安局消防支队四大队消防员，班长。李文云，91年生人，天津港医院护士，孙云飞的妻子。</p>
+<p>今年24岁的孙云飞在整个天津港消防支队里都算是「老人」，他已经当了8年的消防员。<br>
+8月12日深夜瑞海国际危化品堆场爆炸事故中，孙云飞随队出警救援，有五个月身孕的妻子李文云在与爆炸现场一街之隔的四大队家属楼里。两人均罹难。</p>
+<p>8月14日晚上，消防支队的领导向赶到了天津的孙云飞的父母、哥哥和妹妹通报了这个消息。</p>
+<p>「我们已经在天津港医院的太平间见到了嫂子的遗体，通过头发、手脚，以及隆起的腹部，认定了遗体的身份。」孙云飞的妹妹说。</p>
+<p>他们希望见到孙云飞的遗体，得到的答覆是「尽快」。</p>
+<p>在母亲眼里，孙云飞是三个儿女里「心最细」的，也最孝顺。妹妹念大学的生活费，都是哥哥用消防员的工资支撑的。</p>
+<p>「我们希望尽快可以见到。但也知道……整理哥哥的仪容需要时间。」妹妹说。</p>
+<p>孙云飞的妹妹反覆提到一个词：「体面」。他们希望这对夫妻能走得有尊严。</p>
+<p>张素梅，1991年出生，河北张家口阳原县人氏，天津港公安局消防支队四大队消防员（后勤）。</p>
+<p>她在四大队担任后勤人员已经2年多了，主要的任务是为同事做饭。四大队的营部毗邻瑞海国际危化品堆场，8月12日深夜的大爆炸中，张素梅不幸罹难。</p>
+<p>张素梅的丈夫全力是四大队的消防员，担任司机。</p>
+<p>大爆炸那天，全力随队出警，尽管人在车里，亦被巨大的气浪冲击受了重伤，现仍在港口医院接受治疗。</p>
+<p>在8月16日官方公布的天津港专职消防员牺牲英烈名单中，有张素梅的名字。</p>
+<p>应张素梅母亲芦女士要求，端传媒暂不发布张素梅照片。</p>
+<p>失联者</p>
+<p>刘治强，1996年出生，天津港公安局消防支队第五大队消防员。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/liuzhiqiang.jpg" alt="liuzhiqiang" width="549" height="732"></p>
+<p>刘治强的生活照。（家属提供）</p>
+<p>刘治强和董泽鹏是中学同学，两人都在南留庄镇长大，两家相距5里地，两家的母亲是同学，两个孩子也是同学，又前后到了天津港当消防员，都在五大队。</p>
+<p>2012年，16岁的刘治强就在天津港消防支队工作了一年，后来离开了一段时间去别的地方打工，去年底又回到五大队，失联前工作了7、8个月。</p>
+<p>刘治强的母亲赵冬梅告诉记者，跟孩子最后一次通话是在出事前十天。</p>
+<p>当时，她在电话里问孩子，要不要回老家「赶大集」。这是南留庄镇的风俗，一年一度「赶大集」，持续十来天，非常热闹。刘治强告诉母亲，队里太忙，回不来。</p>
+<p>大爆炸发生的24小时之内，刘治强的父母还并不知道这个震惊世界的事故。</p>
+<p>「我们是农村人，没有有线电视，要用『小锅』收节目，收不到中央一台，就没看到。」是刘治强的姑姑在第二天晚上，从中央电视台看到天津爆炸的新闻，想起自己的侄儿就在天津干消防，于是给刘治强的父母打了电话。</p>
+<p>接到电话后，刘的父母以及其他亲戚立即决定去往天津。</p>
+<p>8月14日清晨，刘治强的亲戚们花了1200块，包车前往。</p>
+<p>赵冬梅说，他们供孩子读了技术学校，学的专业是风力发电，但他「就是喜欢当消防员」，因为在大城市可以有一份「正规工作」，像是当兵。「他特别愿意往前冲，我们其实都不同意。」</p>
+<p>刘治强有一对双胞胎妹妹，10岁，现在还不知道哥哥失联的消息。</p>
+<p>薛宁，1996年出生，天津港公安局消防支队四大队消防员。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/xuening.jpg" alt="xuening" width="324" height="540"></p>
+<p>薛宁工作照。（家属提供）</p>
+<p>薛宁最后一次跟父母通话是在8月11日。在电话里，他向父母提出自己想学车。</p>
+<p>「孩子挺黏我们的，没多少机会回家，一打电话就是半个小时一个小时的。」父亲说。<br>
+薛宁也是张家口市蔚县南留庄镇中学初中毕业，他在港口消防队工作了3年，并凭借这个资历，当上了班长。消防队领导还安排他回到蔚县老家招新队员。</p>
+<p>「他非常喜欢自己的工作，」薛宁的一位亲戚说，「觉得自己是当人民警察嘛，特别崇高的职业。」</p>
+<p>杨伟光，1992年出生，天津港公安局消防支队四大队消防员。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-17-at-11.54.10-AM-648x1024.png" alt="Screen Shot 2015-08-17 at 11.54.10 AM" width="551" height="871"></p>
+<p>杨伟光从部队退伍时留影。（家属提供）</p>
+<p>他也来自河北蔚县，蔚州镇北凡庄。母亲甑翠英告诉端传媒，他从小就喜欢部队，高中毕业后参了军，在河北邢台当了两年兵。</p>
+<p>「我哥哥就是当兵的料，他太喜欢部队了」，杨伟光的一位表弟说，「退伍后他感觉很失落，正好有老乡说起到天津当消防员，他想回到军营生活，刚从部队回来不到半个月，他就来了天津港。」杨伟光在四大队工作了8个月。</p>
+<p>「他喜欢管理严格的生活，哪怕是收入少点也愿意。」比杨伟光小一岁的表弟说。 家人们用「善良、正直、爱国」来形容杨伟光。</p>
+<p>甑翠英是在8月13日早上6点从电视新闻上看到天津大爆炸的消息。「6点多给孩子打电话，就打不通了。」</p>
+<p>她想起自己跟儿子的最后一次通话，8月10日，「儿子在电话里说，妈妈你要吃好啊，注意身体，他还叮嘱妹妹（12岁）要听话，好好学习，还要注意安全。」他听说妈妈的手机不太好用了，还跟妈妈说，「等这个月开支了，我给您换个手机。」</p>
+<p>杨伟光的最后一个电话，是在瑞海国际危化品堆场冒出火光的时候。</p>
+<p>8月12日深夜10点50分左右，他正在跟交往了一个月的女朋友通电话。</p>
+<p>四大队是距离堆场最近的一个消防组，仅一街之隔。这时，火警甚至还没响起。「对面起火了，我得出警」，跟在蔚县老家的女友说完这句话，他挂断了电话。</p>
+<p>甑翠英跑了天津十几家医院，至今未能打听到失联儿子的消息。</p>
+<p>苑旭旭，1996年出生，天津港公安局消防支队五大队消防队员。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/fanxuxu.jpg" alt="fanxuxu" width="540" height="953"></p>
+<p>苑旭旭，天津港公安局消防支队五大队消防队员。（家属提供）</p>
+<p>8月10日，苑旭旭给妈妈王丽英打了一个电话，这是妈妈最后一次听到儿子的声音。 「这孩子很少说自己，说了也是报喜不报忧，就是让我注意身体，多保重。还特别关照他的弟弟妹妹，希望注意安全，说在新闻里拐卖孩子的案件很多。」</p>
+<p>苑旭旭准备11月份回家探亲，他告诉妈妈，队里规定半年才能休假，他刚入队3个月，还不能请假。</p>
+<p>家里人不怎么看电视，天津爆炸的消息还是苑旭旭的朋友打来的。</p>
+<p>「他的朋友在电话里说，旭旭是不是在天津上班啊，那边出事了。」</p>
+<p>妈妈这两天看儿子的QQ空间，发现他最后一张照片是在8月12日当晚7点33分发的。「他还写了一句话——生死由命、富贵在天。」 妈妈低声回忆说。</p>
+<p>柳春涛，1996年出生，天津港公安局消防支队五大队消防员。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/liuchuntao.jpg" alt="liuchuntao" width="549" height="732"></p>
+<p>柳春涛今年春节在家吃团年饭。（柳春涛朋友提供）</p>
+<p>在来天津港当消防员之前，柳春涛在蔚县老家读到初三，上完一半后，和妹妹去了北京打工，辗转于工地和工厂。3个多月前，他来到天津港做消防员，这份由用工单位上三种保险的工作，让柳春涛感觉很有成就感。</p>
+<p>他有一个姐姐和一个妹妹。亲人中接到他最后一个电话的，是曾一起在北京打工的妹妹。他在电话里跟妹妹说起半年后的春节，语气很是兴奋。「过年我给家里带回去五千！」妹妹乐了：「你怎么不带回来一万！」</p>
+<p>姐姐柳春敏和父亲柳环，大爆炸后来天津寻找亲人，妹妹柳春宁则从打工地返回老家去安抚别的老人。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%AC%94%E8%AE%B0%EF%BC%9A%E9%82%A3%E4%BA%9B%E7%89%BA%E7%89%B2%E7%9A%8419%E5%B2%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%A3%B1%E9%95%9C%E6%8A%BD%E4%B8%9D%E5%89%A5%E8%8C%A7%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E7%9A%84%E5%85%B3%E7%B3%BB%E4%B9%8B%E8%B0%9C/" target="cdt-mirror">棱镜｜抽丝剥茧瑞海国际关键人物的关系之谜</a>
+</h2>
+<p><p><strong>腾讯财经 冯军发自天津 罗飞发自北京 刘鹏发自河北 </strong></p>
+<p>随着8月12日晚23时左右的爆炸声响起，位于天津市滨海新区东疆保税区的天津瑞海国际成为了焦点。</p>
+<p>工商资料显示，瑞海国际成立于2012年11月28日，最初注册资本为5000万元，出资人是李亮、舒铮。其中李亮占股55%，认缴出资额2750万元，实缴550万元；舒铮占股45%，认缴出资额2250万元，实缴450万元。后来公司注册资本由5000万元变更为1亿元，可是并未按规定公示2013年、2014年年度报告。</p>
+<p>除了李亮、舒铮外，瑞海国际的高管还有只峰、尚庆森、曹海军、陈雅佺等。六位核心成员分别是什么身份？由他们编织的关系网中，还有哪些人深陷其中？他们和瑞海国际有着怎样的关系？这又究竟是一张怎样的关系网？</p>
+<p>在此次爆炸事故中，瑞海国际的法人代表、总经理只峰最先受到关注。</p>
+<p>熟悉只峰的一位人士向《棱镜》透露，只峰从事危化品行业多年，经验丰富，于2011年左右开始自己做公司。该人士介绍，只峰管理公司严格，平时自己也睡在公司，爆炸当晚拼命跑出来才捡了一条命。</p>
+<p>只峰受了重伤，还在医院治疗，目前已经清醒，但截至8月16日尚未接受警方讯问。</p>
+<p>作为目前被媒体报道最多的一人，只峰被传言是天津市副市长只升华之子。后来官方对此进行了澄清，称只升华只有一个女儿，没有儿子，并且强调，只峰和只升华没有任何关系。不过，官方并未解释媒体的提问：只峰是谁？</p>
+<p>《棱镜》获得的只峰身份信息显示，只峰为河东区人，户口本登记的住址为南开区西湖道义兴南里5号楼2门411.可是该地址目前住着一对70岁左右的夫妇，其表示从未听说过只峰，否认与只峰有任何关系。《棱镜》问遍了小区居民、居委会、街道办，依旧找不到只峰的任何痕迹。</p>
+<p>不过，《棱镜》获悉的一张名片显示，只峰担任过中化天津滨海物流公司货代部的副经理。据界面新闻报道，瑞海国际与央企中化集团(微博)(微博)多有交集。其中瑞海国际的董事曹海军也曾任职天津中化国际仓储运输有限公司，而监事陈雅佺也曾任职中化集团旗下的中化天津滨海物流有限公司。</p>
+<p>但问题是，没有出资的只峰，为何能担任公司的法定代表人、董事、总经理？</p>
+<p>《棱镜》通过公开资料调查获悉，瑞海国际的第二大股东舒铮出生于1983年，系某单位普通员工。</p>
+<p>8月16日下午，舒铮向《棱镜》表示，他与瑞海国际并无关联，既不认识瑞海国际法人代表、总经理只峰以及第一大股东李亮，也未参与瑞海国际日常运营，从未以股东身份签署过任何相关文件。</p>
+<p>据舒铮介绍，当年一位朋友找到自己，希望借用其身份证登记注册一家公司。舒铮称出于对朋友的信任就答应了，但并未对公司的性质做进一步了解。舒铮说，该朋友在瑞海国际任职，并非高管。但舒铮拒绝透露这位朋友的名字。</p>
+<p>如果舒铮真的是代人持股，那么幕后的那位真正掌舵者到底是谁？</p>
+<p>瑞海国际的六位核心成员中，属第一大股东李亮最为神秘，目前尚未流出任何关于他的信息。</p>
+<p>在瑞通国际的几个关联公司中，都有李亮的身影。关联公司之一的天津市山川国际贸易有限公司（下简山川国际）成立于2014年4月，经营范围包括剧毒、易燃易爆的危险化学品。公司注册资本为1000万元，其中李亮出资400万元，占股40%；另一位自然人柳桂英出资600万元，占股60%。和瑞海国际一样，未出资的杨默担任公司的法定代表人。</p>
+<p>据山川国际的官网介绍，其“拥有3、4、5、6、8类危险品经营资质。公司在天津市区及天津港港区内拥有自己的货代公司、报关行、车队及危险品堆场，其中天津山川物流、天津瑞海国际物流及天津锦绣大地报关行均在各自行业内成绩显著，为我公司的国内及国际业务做全方位的配套服务以满足客户需求。”</p>
+<p>由此可见，围绕山川国际，李亮等人编制了一张分工明确、四通八达的网络。他和上文提及的柳桂英分别出资200万元 、300万元，以分别占股40%、60%的比例成立了天津市山川物流有限公司（下称山川物流）。值得注意的是，该公司和最初的瑞通国际一样，经营范围为普通货运、货物专用运输（集装箱），甚至还特意提到是危化品除外的货物包装、仓储。</p>
+<p>而另一家关联公司天津锦绣大地报关行有限公司（下称锦绣大地报关行）主营代理报关及咨询服务。不过，李亮并未出现在该报关行的股东里，而是由一名叫李忠进的人担任法定代表人。</p>
+<p>一位对报关流程熟悉的人士解释， 报关行的作用至关重要，因为出口方的申报材料由其提交海关。或许正是由于与锦绣大地报关行的关联关系，瑞海国际比其他物流公司更具优势。</p>
+<p>作为瑞海国际的客户，河北诚信有限责任公司（下称河北诚信）告诉《棱镜》，一年多前河北诚信将自己在天津港物流合作伙伴更换为瑞海国际。河北诚信多位相关人士对《棱镜》表示，之所以更换物流合作商，是因为天津港符合资质的企业并不多，而瑞海物流具有相应的危化品运输和存放资质。同时，河北诚信办公室王主任还对《棱镜》透露，瑞海物流相较于其他企业而言，实力更大，服务较好，“最关键的是报关成功率很高”。</p>
+<p>此外，李亮还参股了天津中盛通商贸有限公司（下称中盛通商贸），主营矿石、铁精粉、煤炭、炉料、建材批发兼零售。</p>
+<p>神秘的李亮到底是谁？</p>
+<p>陈雅佺、尚庆森、曹海军是瑞海国际的另外三位核心成员，他们背后亦有一张复杂的关系网。</p>
+<p>其中陈雅佺担任鑫纳（天津）精细化工有限公司（下称鑫纳化工）的法定代表人，主营精细化工原料的制造、加工、销售。而担任该公司监事的正是山川国际的法定代表人杨默。</p>
+<p>值得注意的是，鑫纳化工的股东为企业法人天津恒绿生物制药科技有限公司（下称天津恒绿），其出资575万元。而杨默又担任天津恒绿的监事。《棱镜》多次拨打杨默的电话，皆无法接通。</p>
+<p>天津恒绿的股东为邹小毛和沈莹。工商资料显示，邹小毛持有天津恒绿55%股份，沈莹持股比例45%。邹小毛的学生许保友担任天津恒绿的董事总经理。</p>
+<p>邹小毛否认自己与瑞海国际之间的关系。在回复《棱镜》的询问短信时，邹小毛表示，许保友毕业于其所任职的南开大学化学院元素有机化学国家重点实验室，为邹小毛所带的博士学生。在许保友2010年博士毕业之后，进入中化天津滨海物流有限公司HSE部工作，后被邹小毛聘为天津恒绿与鑫纳化工总经理。邹小毛否认其与鑫纳化工法人代表陈雅佺相识。根据邹小毛的回应，鑫纳化工的监事杨默还在天津恒绿负责销售工作，不过，邹小毛同时表示，具体杨默与瑞海国际有何关系，他本人并不知情。</p>
+<p>另外，尚庆森也担任隆轩（天津）国际贸易有限公司的法定代表人，而曹海军也曾入股天津市和华世达货运代理有限公司。</p>
+<p>上述公司或多或少与瑞海国际存在各种关联。《棱镜》多次拨打瑞海国际的6位高管成员的电话，只有舒铮的成功接通，其他五人的电话皆为关机或者呼叫转移状态。对此，天津市一位公安局人士分析，他们或已被警方控制。</p>
+<p>有信源向《棱镜》透露，瑞海国际背后有前天津港公安局局长董培军之子董蒙蒙的身影。但《棱镜》未能联系到董蒙蒙对此指向做出评论，亦未能获得更多的独立信源进行佐证。《棱镜》将会继续挖掘瑞海国际的神秘背后关系。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%A3%B1%E9%95%9C%E6%8A%BD%E4%B8%9D%E5%89%A5%E8%8C%A7%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E7%9A%84%E5%85%B3%E7%B3%BB%E4%B9%8B%E8%B0%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A3%B1%E9%95%9C/?category=18271" rel="tag">棱镜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%85%90/?category=18271" rel="tag">正腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">瑞海公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF/?category=18271" rel="tag">腾讯</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8-%E6%83%8A%E9%AD%8224%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%B8%87%E7%A7%91%E6%B5%B7%E6%B8%AF%E5%9F%8E%E7%9A%84%E9%80%83%E7%94%9F%E6%97%A5%E8%AE%B0/" target="cdt-mirror">牛博山寨 | 惊魂24小时：万科海港城的逃生日记</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150814044950131.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150814044950131.jpg" alt="万科海港城" width="550" height="413"></a></p>
@@ -121,7 +341,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8%E5%8E%9F%E5%9B%A0/?category=18271" rel="tag">爆炸原因</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%B1%9E%E9%92%A0/?category=18271" rel="tag">金属钠</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E4%BA%BA%E7%89%A9%E5%91%A8%E5%88%8A-%E5%A1%98%E6%B2%BD%E6%9D%A5%E7%A8%BF%EF%BC%9A%E5%A7%90%E5%A7%90/" target="cdt-mirror">南方人物周刊 | 塘沽来稿：姐姐</a>
 </h2>
@@ -776,185 +996,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E6%97%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E5%8D%B1%E9%99%A9%E5%93%81/" target="cdt-mirror">【麻辣总局】李小乖：危险品</a>
-</h2>
-<p><blockquote><p>〝请问按环保部规定，危险品仓库与居民住宅的最小距离应是多远？〞</p></blockquote>
-<p>偶觉得最少应该这么远…</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9D%8E%E5%B0%8F%E4%B9%96_%E5%8D%B1%E9%99%A9%E5%93%81.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9D%8E%E5%B0%8F%E4%B9%96_%E5%8D%B1%E9%99%A9%E5%93%81.jpg" alt="李小乖_危险品" width="575" height=""></a></p>
-<p>这里是 李小乖 的微信公共号：blogtdorg</p>
-<p>李小乖 網絡漫畫工作者,漫畫博客【blog圖黨】™ 的永遠唯一作者，網易新聞『老衲局長小李』系列漫畫的作者。</p>
-<blockquote><p>背景新闻：<a title="天津官员不知危险品与居民区规定距离 发布会直播被掐" href="http://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%91%98%E4%B8%8D%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9B%B4%E6%92%AD/">天津官员不知危险品与居民区规定距离 发布会直播被掐</a></p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E5%8D%B1%E9%99%A9%E5%93%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">新闻发布会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8A%B5%E5%88%B6%E6%B5%81%E8%A8%80%E7%9A%84%E6%9C%80%E5%A5%BD%E6%AD%A6%E5%99%A8%E6%98%AF%E4%BA%8B%E5%AE%9E%E8%80%8C%E4%B8%8D%E6%98%AF%E8%B0%8B/" target="cdt-mirror">【网络民议】抵制流言的最好武器是事实而不是谋杀</a>
-</h2>
-<p><p><strong><a href="http://www.cac.gov.cn/2015-08/15/c_1116265229.htm">国家网信办依法查处50家传播涉天津港火灾爆炸事故谣言网站</a></strong></p>
-<blockquote><p>天津港“8·12”特别重大火灾爆炸事故发生后，一些网站或随意编发 “天津大爆炸死亡人数至少1000人”、“方圆一公里无活口”、“天津已混乱无序、商场被抢”、“天津市主要领导调整”等谣言，或任由网站用户上传来自微博、微信的相关谣言，制造恐慌情绪，成为谣言的集散地，造成恶劣社会影响，受到网民的谴责和举报。国家网信办会同有关部门，视情节轻重，对车夫网、美行网、军事中国网等18家网站采取永久关闭、注销备案处罚措施，对新鲜军事网、0668论坛、艾泽拉斯国家地理论坛等32家网站采取暂行关闭1个月的处罚措施。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64021.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64021.jpg" alt="6402" width="500" height="402"></a></p>
-<blockquote><p>相关阅读：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a>专题</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>何健大侠：造谣固然可恶，但是你们也得他妈的让我们知道真相啊。</p>
-<p>炭烧盐咖_花_天天情人节：有空查谣言，却没空查来源，<a href="http://finance.sina.com.cn/china/dfjj/20150813/164022958580.shtml">关闭天津工商局网页</a>，不就是给谣言四起制造温床么，想证实都没办法了 </p>
-<p>莱戈拉斯在伊丽莎白镇：你在网上发条敏感信息，一分钟以后他们就知道；然而，仓库里有些什么危险品、有多少、谁放的、啥时候放的，炸完了好几天还是不知道。用审查言论的力度审查危险品；用搞防火墙的热情防火灾，你国的所有问题都可以迎刃而解。（转自twitter）</p>
-<p>开空调盖厚被：这事儿可特么积极了。怎么特么不报道因为啥起火，责任人怎么处置？天津领导班子，国家安全局是不是集体请辞？一天就欺负弱势群体能耐。你们的谣言少吗？</p>
-<p>陆曦_土家族：公开是消灭谣言的利器。</p>
-<p>浩然一鸣：我们的一些政府发言人，都有种牙膏的属性。不挤不冒，挤一下，冒一点。他们的发言有种习惯性，本能性的防范，能不公布的信息尽量不公布，实在敷衍不了的，才吞吞吐吐丰遮半掩，与平常在强拆现场的强悍彪威，对比显明，好像不是一个朝代的人。唉，同志们，你们有法律政府撑腰底气应该是一样一样的！</p>
-<p>童妓叫兽：这么大的事一”谣言“之火四起，瞧给官方喉舌忙活的，绞尽脑汁地”防火灭火“，要是把这份精力和能耐用在火灾预防和救援上，恐怕不止于酿成如今的惨剧吧？</p>
-<p>赵兵杰：三百六十多个“造谣”账号、五十多个“传谣”网站，他们一清二楚、迅速处理。至于死亡名单、爆炸物成分，他们又支支吾吾、面面相觑。</p>
-<p>缄言勤思：真相到底是什么？谁能判定谁在造谣？！杜绝造谣最好的方法是尽快披露事实真相，让媒体进驻现场，实事求是的直播，而不是妄图堵住谁的嘴！事实才是最好的止谣方案，举报不是！</p>
-<p>陈洪Redondo：看咱办这事的速度和效率！3天，就3天！雷厉风行，风驰电掣！虽然还有太多未知，甚至还有幸存者在搜救中。我们伟大的国家啊</p>
-<p>观普绿豆123：什么是事实，统一口口径才是事实。</p>
-<p>沙沙俄：还有几个大谣该整治整治 如 央视新闻 人民日报 等</p>
-<p>十方7274：感觉现在舆论控制太强了，好像又回到了以前的那个年代！防民之口甚于防川！ 用真相回击谣言，政府怕啥？？ 动不动就关闭，封号！！这也不自信吗？</p>
-<p>蛋蛋有杀气：看见你们封网了 我就相信他们说的是真的了</p>
-<p>北京孙子：可怕的是真相不是遥言。。。</p>
-<p>卿年已暮：这个时候居然国家的关注点还是这？真心是失望透顶。</p>
-<p>小y懿莹：就因为中国没有一个权威机构，才会使百姓去相信谣言</p>
-<p>moonie_G：请告诉我，真相是什么，报道大家都不信，那真相是什么？大概是跟你们期望值一样的就是真相吧</p>
-<p>HappyQQ：我觉得嘛，其实中国就只需要一个网站就行了，CCAV.COM</p>
-<p>大大宿敌1994：事件调查结果还没出来，谣言就先扑灭了，呵呵，真迅速</p>
-<p>多余de流星41587：要是一两家网站有谣言我估计不会信，但是50家……</p>
-<p>NMB48_渋谷凪咲：“天津市主要领导调整”这一则恐怕是 遥遥领先的预言</p>
-<p>独关风月：有你们这样管制老百姓言论的水平和能力，漳州PX就不会炸了、南京扬子石化厂就不会炸了、南京德纳化工石就不会发生火灾、日照石大石化就不会炸了，政府做为公仆，先搞好自己的事再说，主人质疑公仆是天赋之义！</p>
-<p>八斤六两9528：除了打壓威脅還有個蛋本事啊，狗操的！</p>
-<p>抚顺市公共主页：不办正事儿删帖忙</p>
-<p>LZ-_-：呵呵，政府封谣言，你说要真相，政府说 这是真相，你说 我不信。</p>
-<p>Tryit王先生：这一个个查太麻烦了，最好的办法是全国断网，别让天津朋友圈的消息传出来，那么多谣言，不妨不行，是吧？</p>
-<p>深圳刘子晗：抵制流言的最好武器是事实，而不是谋杀，能够杀他依靠的是权力而非真理。政府不愿接受批评，但总该反思为什么拥有强大宣传能力和绝对媒体控制力的官媒、党媒、央媒等却惧怕一条“流言”？为什么那么多人民容易被“流言”影响而非被官媒的主流报道引导？失信于民的政府只能掩埋事实，以免暴露更多真相。</p>
-<p>噻琪：政府英明！！！什么时候封杀新闻联播？</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8A%B5%E5%88%B6%E6%B5%81%E8%A8%80%E7%9A%84%E6%9C%80%E5%A5%BD%E6%AD%A6%E5%99%A8%E6%98%AF%E4%BA%8B%E5%AE%9E%E8%80%8C%E4%B8%8D%E6%98%AF%E8%B0%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80%E5%8F%A3%E5%BE%84/?category=18271" rel="tag">统一口径</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">网络谣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%A0%E8%B0%A3%E4%BC%A0%E8%B0%A3/?category=18271" rel="tag">造谣传谣</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%B1%E8%B5%B0%E5%81%8F%E9%94%8B%EF%BD%9C3%E5%A4%A9%E5%90%8E%EF%BC%8C3%E5%85%AC%E9%87%8C%E5%86%85/" target="cdt-mirror">贱走偏锋｜3天后，3公里内</a>
-</h2>
-<p><p><em>来源：微信公号<a href="http://mp.weixin.qq.com/s?__biz=MzA4MDIzODgyOA==&mid=211484654&idx=1&sn=bf4b5bb87027fd16d6b612f8b6968694">@美树嘉文艺志</a>的转发，原文已被微信和谐。部分图片来自<a href="http://blog.bullog.org/2015/08/duty.html#more">牛博山寨</a>。</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSauqpMPlAZ1kj7oovj2ib6SpECf7f8KBaHIOXTxmgUvLf8Bgib1c0icy0Iw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSauqpMPlAZ1kj7oovj2ib6SpECf7f8KBaHIOXTxmgUvLf8Bgib1c0icy0Iw_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSauqpMPlAZ1kj7oovj2ib6SpECf7f8KBaHIOXTxmgUvLf8Bgib1c0icy0Iw_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>在距离天津核心爆炸区3公里范围内的一些所见所闻。</p>
-<p><strong>1、700吨“定时炸弹”氰化钠仍在核心爆炸区内</strong></p>
-<p>天津核心爆炸区内现在存放有700吨氰化钠，已被隔离。大量双氧水已到现场备用，但仍未对氰化钠进行处理。原因：氰化钠被双氧水处理后会的污水无处排放，污水如若流向渤海，则是对海洋生态的巨大污染。另外，氰化钠并不是最“厉害”的，还有对皮肤具有腐蚀性的甲酸。氰化钠即使外桶破裂，里面还有内衬保护。</p>
-<p><strong>2、爆炸区2公里范围内空气刺鼻</strong></p>
-<p>从泰达医院行走至安顿点之一“开发区第二小学”的路上，隔着口罩能感受到刺鼻难闻的味道。网上流传说，氰化钠和双氧水混合后会产生氨，非常刺鼻，但由于定时炸弹氰化钠仍在原地，所以2公里范围内的刺鼻味道应该不是氨所致。</p>
-<p><strong>海港城附近：</strong></p>
-<p>走到海港城楼下就已经彻底进不去了，刚一探头，就被武警发现，直接轰出了隔离区。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSafAArvpD7Au9qvXqUlQ4jQjeiaJzHtHa40ibPfRUkD1OQKxrKW677Sc0w_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSafAArvpD7Au9qvXqUlQ4jQjeiaJzHtHa40ibPfRUkD1OQKxrKW677Sc0w_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSafAArvpD7Au9qvXqUlQ4jQjeiaJzHtHa40ibPfRUkD1OQKxrKW677Sc0w_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaEC6Ce6zBnI9R97FxDiaGY9tX0jGMkNEibhTceDiasBHuxWTKhAXvQkUCg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaEC6Ce6zBnI9R97FxDiaGY9tX0jGMkNEibhTceDiasBHuxWTKhAXvQkUCg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaEC6Ce6zBnI9R97FxDiaGY9tX0jGMkNEibhTceDiasBHuxWTKhAXvQkUCg_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaDVh6qsSFbrlMoJHic4nDpcXGfCf3WVRiahsiaBKHTnAuiazOFZavSQWpRA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaDVh6qsSFbrlMoJHic4nDpcXGfCf3WVRiahsiaBKHTnAuiazOFZavSQWpRA_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaDVh6qsSFbrlMoJHic4nDpcXGfCf3WVRiahsiaBKHTnAuiazOFZavSQWpRA_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaiaNvWyFCCSd7niciaV24MessOHsNCUfzb7nIEStMzg7vibibpErtMVS8tRg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaiaNvWyFCCSd7niciaV24MessOHsNCUfzb7nIEStMzg7vibibpErtMVS8tRg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaiaNvWyFCCSd7niciaV24MessOHsNCUfzb7nIEStMzg7vibibpErtMVS8tRg_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSakpHO9U8z8lzMfhEhc4yXolW1b66dqrStXEqgdUibBibDbkul0INiaBjMA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSakpHO9U8z8lzMfhEhc4yXolW1b66dqrStXEqgdUibBibDbkul0INiaBjMA_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSakpHO9U8z8lzMfhEhc4yXolW1b66dqrStXEqgdUibBibDbkul0INiaBjMA_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p><strong>重点安置点——开发区第二小学（简称二小）附近：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSab9t8IeHQp9GgQ9h83ENbicRldQgYrjZsxfFOdv0FibSOTicYkpUzN1qAw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSab9t8IeHQp9GgQ9h83ENbicRldQgYrjZsxfFOdv0FibSOTicYkpUzN1qAw_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSab9t8IeHQp9GgQ9h83ENbicRldQgYrjZsxfFOdv0FibSOTicYkpUzN1qAw_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>从泰达医院向二小行进时，明显感到风是迎面吹来的（东风），空气污浊，气味刺鼻，目之所及几乎都戴着防护口罩。但还是看到背心短裤“赤手空拳”向“里”行走的人。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSa0ENHib8kRwenJp5n5XP3tX6FHwNiaYbLiaMylc8MkffpfP5PTdyGOqMmw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSa0ENHib8kRwenJp5n5XP3tX6FHwNiaYbLiaMylc8MkffpfP5PTdyGOqMmw_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSa0ENHib8kRwenJp5n5XP3tX6FHwNiaYbLiaMylc8MkffpfP5PTdyGOqMmw_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSayYeiaUR8WAUiaYQYkrjHfA6oteSM3j0fniaD5iaJiaQNcwibnMOVqDAYab4w_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSayYeiaUR8WAUiaYQYkrjHfA6oteSM3j0fniaD5iaJiaQNcwibnMOVqDAYab4w_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSayYeiaUR8WAUiaYQYkrjHfA6oteSM3j0fniaD5iaJiaQNcwibnMOVqDAYab4w_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p><strong>二小向核心爆炸区方向的路口已戒严</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSanNNNmWb6f0hQlYn0LEsLoZxhnFA1SBDLoBCib3AmXgvRB2HXFRXricvg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSanNNNmWb6f0hQlYn0LEsLoZxhnFA1SBDLoBCib3AmXgvRB2HXFRXricvg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSanNNNmWb6f0hQlYn0LEsLoZxhnFA1SBDLoBCib3AmXgvRB2HXFRXricvg_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaFQyrIRMb92lbicoI3G9sXBiaRHb2fPJwFicg8f74ia8a2icPgZibFicLZyVicQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaFQyrIRMb92lbicoI3G9sXBiaRHb2fPJwFicg8f74ia8a2icPgZibFicLZyVicQ_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaFQyrIRMb92lbicoI3G9sXBiaRHb2fPJwFicg8f74ia8a2icPgZibFicLZyVicQ_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaDk9xb5TEMCH4CFXTQc0nUg516Y5Cf5V4FPrcaTVKqRc4S97XOlFo3g_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaDk9xb5TEMCH4CFXTQc0nUg516Y5Cf5V4FPrcaTVKqRc4S97XOlFo3g_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaDk9xb5TEMCH4CFXTQc0nUg516Y5Cf5V4FPrcaTVKqRc4S97XOlFo3g_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaic73HDQcFqUgmzM9mKiburlPDAgCHXPNkvqVemCHYrVVNkn72TZ9fSdg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaic73HDQcFqUgmzM9mKiburlPDAgCHXPNkvqVemCHYrVVNkn72TZ9fSdg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaic73HDQcFqUgmzM9mKiburlPDAgCHXPNkvqVemCHYrVVNkn72TZ9fSdg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p><strong>方圆3公里内的土地</strong>全部是裂开的：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaeXcfr0Gfaliaof7W9hTVMNRES0BluO2AeHoU7fof0ytf2dgdHocAGTw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaeXcfr0Gfaliaof7W9hTVMNRES0BluO2AeHoU7fof0ytf2dgdHocAGTw_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaeXcfr0Gfaliaof7W9hTVMNRES0BluO2AeHoU7fof0ytf2dgdHocAGTw_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSapicnKZyWvnxZKwz5PvgtOzXu9y52vPFGoH4VnWr1Dq9rXrg9nbMn9Vg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSapicnKZyWvnxZKwz5PvgtOzXu9y52vPFGoH4VnWr1Dq9rXrg9nbMn9Vg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSapicnKZyWvnxZKwz5PvgtOzXu9y52vPFGoH4VnWr1Dq9rXrg9nbMn9Vg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>进入二小安置点的受难者会登记姓名电话，志愿者将姓名电话公布在广告板上，供失联家属寻找。由于手动更新信息，可能会有误差，但是有家属失联的朋友，还是可以在此寻找机会。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaytccRA6NG1ia6YEoWibs8zVb1cuAGHPQp8iadPCQ20vVIggTXzU3jx3cw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaytccRA6NG1ia6YEoWibs8zVb1cuAGHPQp8iadPCQ20vVIggTXzU3jx3cw_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaytccRA6NG1ia6YEoWibs8zVb1cuAGHPQp8iadPCQ20vVIggTXzU3jx3cw_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaCB1lTJ5s2MtKlwhHkYXe2By7GicptyVLwkRlD21dPCtrgaGcq5fa3yQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaCB1lTJ5s2MtKlwhHkYXe2By7GicptyVLwkRlD21dPCtrgaGcq5fa3yQ_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaCB1lTJ5s2MtKlwhHkYXe2By7GicptyVLwkRlD21dPCtrgaGcq5fa3yQ_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaEXJnJLcnUeY9zcSlorMb5KW2lQ1S8stcB9ibldkystB7vbtBPAmHMmA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaEXJnJLcnUeY9zcSlorMb5KW2lQ1S8stcB9ibldkystB7vbtBPAmHMmA_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaEXJnJLcnUeY9zcSlorMb5KW2lQ1S8stcB9ibldkystB7vbtBPAmHMmA_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaUvWRt63QT92NMuhczD4dcrF8ZcMaeTiaOShMq5gMcB1GrwFqHPCEibDg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaUvWRt63QT92NMuhczD4dcrF8ZcMaeTiaOShMq5gMcB1GrwFqHPCEibDg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaUvWRt63QT92NMuhczD4dcrF8ZcMaeTiaOShMq5gMcB1GrwFqHPCEibDg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p><strong>3、志愿者自发组织的物资被强占</strong></p>
-<p>在泰达医院门口看到了很多志愿者。他们都是由北京、河北和天津当地人自发形成的。他们自己出资、出力将救援物资运抵此处。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaVBsxicYNGTucFkgAyeXmDA1TqTILtEfOgrB6qt3o1nGlS6Y09fmKQeg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaVBsxicYNGTucFkgAyeXmDA1TqTILtEfOgrB6qt3o1nGlS6Y09fmKQeg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaVBsxicYNGTucFkgAyeXmDA1TqTILtEfOgrB6qt3o1nGlS6Y09fmKQeg_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaF1FTSIwwMKcwMSk9nzx3sg7LOmOPESopibn7ySsMHNFpENylyuZ7R5A_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaF1FTSIwwMKcwMSk9nzx3sg7LOmOPESopibn7ySsMHNFpENylyuZ7R5A_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaF1FTSIwwMKcwMSk9nzx3sg7LOmOPESopibn7ySsMHNFpENylyuZ7R5A_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaTOaAVp7AKqjA2PesUd7GNuerwsdGvQh58JurIaBT1JgpJdjrInjiajQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaTOaAVp7AKqjA2PesUd7GNuerwsdGvQh58JurIaBT1JgpJdjrInjiajQ_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaTOaAVp7AKqjA2PesUd7GNuerwsdGvQh58JurIaBT1JgpJdjrInjiajQ_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSarmnUNP7W2ReKDrmaG4c1cart7dfgYPoYxT4Z60MhibOHV5XoBR6BiaJg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSarmnUNP7W2ReKDrmaG4c1cart7dfgYPoYxT4Z60MhibOHV5XoBR6BiaJg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSarmnUNP7W2ReKDrmaG4c1cart7dfgYPoYxT4Z60MhibOHV5XoBR6BiaJg_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaRa1pwLoBBrmZrVHA2HN7xudBlWiaT47zhZia1XzX1UZpRXTRfskDxVvg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaRa1pwLoBBrmZrVHA2HN7xudBlWiaT47zhZia1XzX1UZpRXTRfskDxVvg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaRa1pwLoBBrmZrVHA2HN7xudBlWiaT47zhZia1XzX1UZpRXTRfskDxVvg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>现场一位爆炸后凌晨赶到天津滨海的北京志愿者说：</p>
-<p>“现场所有物资都是我们买来的，用自己的车运来的，现在红十字会和城管要联合执法，抢走我们的物资纳入红十字会名下，强行算作我们捐给红十字会的。”</p>
-<p>“我们说，用我们自己的车把东西拉去（需要的地方），他们不让，所以现在变成了他们要把我们的东西全部抄走。”</p>
-<p>“现场的志愿者已经被轰走了一部分。”</p>
-<p>“这些东西是我们的，按说我们可以把东西搬走，但是他们不让，说如果我们强行搬走，就是偷，偷物资。”</p>
-<p>“你看那边了吗？那么一大片物资，都是个人的，他们把那些人全都轰走了，罩上了塑料布，现在东西都归他们了。他们还说，这些物资早已经入账了。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSacMxTcEmNicAeLLiaLeciavibMRudkUaxzES5Dx4L8PuFa4mZSnBDjytz8Q_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSacMxTcEmNicAeLLiaLeciavibMRudkUaxzES5Dx4L8PuFa4mZSnBDjytz8Q_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSacMxTcEmNicAeLLiaLeciavibMRudkUaxzES5Dx4L8PuFa4mZSnBDjytz8Q_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>“我们所有的人都觉得很可悲。”</p>
-<p>“我们到这第一天，没有看到任何政府物资，到第三天的时候，我是上午去的第一现场，抬遇难者遗体，回来的时候，城管和警察联合说我们摆摊，要没收、查抄我们的东西。”</p>
-<p>“现在只能把东西送给附近的热心师傅和120。”</p>
-<p>“包括医用物资我们都买来了，刚才还有民警主动来找物资，问有没有防护服给他们用。昨天送进现场3000箱矿泉水，也都是我们自己开车运过去，送到门口交给战士。”</p>
-<p>“我们在这里（泰达医院），没见过任何政府方面的物资，从第一天早上8点开始，我们就把自己准备的物资开始往里送。”</p>
-<p>“我们在这里坚守3天了，都没回过家。有的人把自己公司停掉了，现在所有公司员工都在这里做志愿者。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSarP9MK45tibajJfHicanX22pjNNDgWia1MP7Vd6grePJiceEnx5hlaayKyg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSarP9MK45tibajJfHicanX22pjNNDgWia1MP7Vd6grePJiceEnx5hlaayKyg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSarP9MK45tibajJfHicanX22pjNNDgWia1MP7Vd6grePJiceEnx5hlaayKyg_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaY4fhtSU6f3Fr4Bk6oMjRj4nHrNtiaZLnSsQkUuiaQc5eB5IXVVV4icuJg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaY4fhtSU6f3Fr4Bk6oMjRj4nHrNtiaZLnSsQkUuiaQc5eB5IXVVV4icuJg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaY4fhtSU6f3Fr4Bk6oMjRj4nHrNtiaZLnSsQkUuiaQc5eB5IXVVV4icuJg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>“我们一直住在前面的楼道里，我们来的时候大厅里全是血，所有地上的血都是我们自发给擦干净的。”</p>
-<p>“人很乱的时候，大家站成人墙，一站站一天。高腐的尸体都是我们抬。”</p>
-<p>“他是海港城的，当天来爆炸现场非常近的，现在后背上还有伤。他从爆炸现场逃出来的时候身上就一个裤头，拖鞋一样一只，当天开始就一直跟我们一块，做志愿者。”</p>
-<p>“现在院方却联合城管、警察轰我们走。”</p>
-<p>“没想到，他们会这么对我们。”</p>
-<p>（死亡人数？）在这一个医院我们就抬了50多具尸体了，哦，今天又来了，快60了。别忘了还有别的医院呢。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6405.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6405.jpg" alt="640" width="500" height=""></a><br>
-↑昨晚在泰达医院门口看到的物资和这些志愿者。今天这里的物资已经被塑料布盖住，志愿者已经离开了。</p>
-<p><strong>两段搭车经历：</strong></p>
-<p>1、离开核心爆炸区时，搭乘了一位核心爆炸区内的员工的车。</p>
-<p>和司机闲聊，他的说话语气开始很正常，当他说“进去的第一批消防公安都死了”的时候，哽噎得无法继续对话。</p>
-<p>2、离开开发区第二小学时，搭乘了2位官兵的越野车。</p>
-<p>他们说：“你们是志愿者吗？好心劝你们一句，赶紧走。其他不能多说。”</p>
-<p>昨晚第一次搭乘前所见：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaBEM3GVRxFuxiaVtzeGeFiciaWkzScWwdlWB0UrgSBBYDelBDUkf41ehIQ_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaBEM3GVRxFuxiaVtzeGeFiciaWkzScWwdlWB0UrgSBBYDelBDUkf41ehIQ_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaBEM3GVRxFuxiaVtzeGeFiciaWkzScWwdlWB0UrgSBBYDelBDUkf41ehIQ_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSawZv4wRia1TLVjyWwKLkvPZadIFlzBbwpT2btsXibcaNsU2jsPFvXFXQA_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSawZv4wRia1TLVjyWwKLkvPZadIFlzBbwpT2btsXibcaNsU2jsPFvXFXQA_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSawZv4wRia1TLVjyWwKLkvPZadIFlzBbwpT2btsXibcaNsU2jsPFvXFXQA_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSauqpMPlAZ1kj7oovj2ib6SpECf7f8KBaHIOXTxmgUvLf8Bgib1c0icy0Iw_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSauqpMPlAZ1kj7oovj2ib6SpECf7f8KBaHIOXTxmgUvLf8Bgib1c0icy0Iw_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSauqpMPlAZ1kj7oovj2ib6SpECf7f8KBaHIOXTxmgUvLf8Bgib1c0icy0Iw_0?wx_fmt=jpeg" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaiboUibUiaKobtF45ZCddV9YN1iaYu2ahFpwIWf75x5xZoC9UCQ8574Zicvg_0wx_fmtjpeg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaiboUibUiaKobtF45ZCddV9YN1iaYu2ahFpwIWf75x5xZoC9UCQ8574Zicvg_0wx_fmtjpeg.jpg" alt="mmbiz_t4ocYOEpVBVRFGoLRe25dqj7FuaibIJSaiboUibUiaKobtF45ZCddV9YN1iaYu2ahFpwIWf75x5xZoC9UCQ8574Zicvg_0?wx_fmt=jpeg" width="575" height=""></a></p>
-<p>第一次遇见“突发大事”，所见所闻都是碎片，不知怎么应对，不知道拍什么、能拍什么。愤怒，遗憾，失望，百感交集。在泰达医院急诊外听20来岁的女生志愿者说，她以前连尸体都没见过，现在2天抬了50多具高腐蚀尸体时，心里被一块大石头狠狠地砸了一下。</p>
-<p>然而我并不想煽情，当没有看到真实的死亡数据时，当没有看到官方对市民通报核心爆炸区实情时，当没有得到真实的事故原因时，当没有对“活人”的安全高度负责时，一切感动都没有意义，甚至是扰乱视听。我们付出的代价已经足够惨痛，爆炸的速度已经超越了我们遗忘的速度，这不是“最帅的逆行”可以安慰的。</p>
-<p><strong>不问责，无意义。</strong></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%B1%E8%B5%B0%E5%81%8F%E9%94%8B%EF%BD%9C3%E5%A4%A9%E5%90%8E%EF%BC%8C3%E5%85%AC%E9%87%8C%E5%86%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A/?category=18271" rel="tag">红十字会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%9A%E7%BB%B4%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%94%9F%E5%8C%96%E5%9B%B4%E5%9F%8E-%E4%BA%AC%E6%B4%A5%E5%86%80%E6%88%98%E7%95%A5%E4%BC%9A%E5%90%A6%E6%96%AD%E8%B6%B3/" target="cdt-mirror">多维新闻｜天津爆炸生化围城 京津冀战略会否断足？</a>
-</h2>
-<p><div>
-<p>“这 对我们来说是惊魂的一夜，这是我经历的最恐怖的一件事”，家住在万科海港城的李可，此刻正坐在朋友的家中，向多维新闻的记者回忆着8月13日晚上发生的那 场爆炸。北京时间2015年8月12日23时30分左右，位于天津市滨海新区天津港瑞海国际物流中心，跃进路与吉运二道路口的一处货柜码头发生爆炸。发生 爆炸的是集装箱内的易燃易爆品，截至发稿时发现遗体112具，88人身份未定。目前统计失联人数为95人，85人为消防人员（现役13人；天津港72）， 这其中与身份未定的88人有交叉。</p>
-<div>
-<p><strong>惊魂夜</strong></p>
-<p>据李可讲述，发生爆炸时，烈焰吞噬了周边的一切，强大 的冲击波横扫半径3公里的区域，大多数房屋遭受了门窗脱落等不同程度的损失。根据地图显示，距离爆炸地点3公里的范围内，分布了至少11处住宅及公寓小 区，其中至少有3处距离事发地点不足一公里。李可所所在的小区就是其中之一。不过幸运的是，他只是受到了一些轻伤，他的儿子受到一些惊吓。当天夜里，他就 带着家人到了距离事发地较远的朋友家暂住。</p>
-<p>而中国网友所拍摄的现场情况似乎比李可讲述的更加令人 恐惧，视频显示爆炸现场火光冲天，冲击波巨大，爆炸的火球和冲击波掀翻了航运集装箱，焚毁了一座高速公路立交桥上的车辆，把工人宿舍炸成废墟，还震碎了周 边数英里范围的无数窗户。爆炸威力之巨大，甚至使得中国国家地震台网都清晰记录这场事故，从记录结果看，共有两次爆炸，间隔约30秒，第二次震级更高，相 当于21吨TNT炸药。威力较大的第二次爆炸相当于2.9级地震。天津塘沽、滨海以及河北河间、肃宁、晋州、藁城等地有震感。</p>
-<p><img src="http://pic9.dwnews.net/20150815/d27d92f42c9de6e298f11aedd99f7bfb_w.jpg" alt="" width="100%"><br>
-爆炸事故现场<br>
-这场爆炸最终使得天津港这个日货物吞吐量为5亿吨的世 界上最繁忙的港口被迫中断作业。而这场爆炸后的场景却更加让第二天清晨通过新闻报道得知这一事件的民众感到震惊——巨大的浓烟，被气浪掀翻在地的集装箱， 门窗支离破碎的高楼，人们在逃亡时抛弃的财物，千余辆焚毁的汽车齐刷刷的停在码头边，现场照片中甚至出现了一辆受损的消防车，这一切都构成了一副残酷的 “末日”景象。而随后的报道则更是揭示了一个残酷的真相，可能有部分消防员在爆炸中遭遇伤亡。一名消防员甚至悲痛告诉媒体，事发时，第一批进入火场的至少 有19名消防员，“一开始没爆炸，他们都进去了，结果炸了。”“刚才抬出去几个，都没了。”</p>
-<p>事故是如何发生的？为何消防人员会出现如此巨大的伤亡？从莫衷一是到各说一词，各方的报道和细节开始逐渐还原，拼凑出爆炸当晚的情况。</p>
-<p>8月12日22时50分，天津消防总队接到报警称，天 津滨海新区港务集团瑞海物流危化品堆垛发生火灾，第一批出动天津消防总队9个中队，和港务局码头3个专职队于23时06分抵达现场，发现多个集装箱起火， 属于猛烈燃烧阶段。在处理火势的过程中，因为现场并无人告知他们有不能沾水的危险化学品，因此在灭火过程中按照正常途径用水来救火。但是事发仓库中存放着 电石、硝酸钾、硝酸钠等化学品。电石即碳化钙（CaC2）遇水立即发生激烈反应，发生爆炸。这是目前专家普遍认为发生第二次爆炸的最大可能。</p>
-<p>对此天津市公安消防局局长周天在8月14日的新闻发布会上说，爆炸发生时，第一批灭火力量正在全力配合天津港公安局消防支队进行侦查检测，控制火势。后续增援力量刚刚到达现场，在此瞬间发生了爆炸。消防官兵正处于爆炸的核心区，短时间之内猝不及防，因此导致了巨大的伤亡。</p>
-</div>
-<div>
-<p>事件发生之后，2015年8月13日，中共中央总书 记、国家主席习近平和中共中央政治局常委、国务院总理李克强分别发出重要指示和批示，要求天津市组织强有力力量，全力救治伤员，搜救失踪人员;尽快控制消 除火情，查明事故原因，严肃查处事故责任人。公安部部长郭声琨率国务院工作组赴现场指导事故救援和应急处置工作。中国公安部消防局副局长、总工程师杜兰萍 在接受媒体采访时说“此次灭火救援行动的复杂和困难程度前所未有”、“这是新中国成立以来，消防官兵伤亡最为惨重的事件”。而媒体方面，包括中国中央级官 方媒体《人民日报》、中国中央电视台、新华社、中新社等，和国际媒体CNN、BBC、天空新闻台、半岛电视台、美联社、《卫报》以及香港媒体都对这次灾难 做了详细报道。</p>
-<p>截至发稿，虽然天津市政府宣布事故现场已经没有明火， 但是现场内仍浓烟滚滚，继解放军核生化部队进入爆炸现场后，有企业汇报有700吨氰化钠在这次爆炸中消失，必须用用双氧水进行处理。因为双氧水是易燃易爆 品，与氰化钠反应会产生刺激的氨气，因此目前事故现场方圆三公里内所有人员已经撤离。无论怎样，对天津来说，这注定将是惊魂的一夜。</p>
-<p><strong>“活要见人，死要见尸”</strong></p>
-<p>“儿子不是正式的(消防员)，如果出事了，希望能像正 式的一样算我们”，“我就想活要见人，死要见尸”，这是隶属非公安消防系统的港务消防中队刘春涛的母亲柳环，在接受大陆媒体采访时的哭诉。她来自河北张家 口，22岁的儿子刘春涛是非正式消防员，在事故中第一批赶赴现场救火，现失联。</p>
-<p>这次天津港“8•12”瑞海公司危险品仓库特别重大火 灾爆炸事故的惨烈程度似乎超出了媒体和民众的预想。质疑声也随之接踵而至：从事故发生直至8月15日午时，为何会出现如此严重的爆炸？现场的集装箱中究竟 储存着哪些危险化学原料？会不会继续发生爆炸？化学品究竟有没有出现严重泄漏？</p>
-<p>对于这些问题，官方一直无法给出准确的回答。民众能看到的，只是第一批进入现场的消防员大量死伤，事故现场大规模戒严，现场空气中氰化物的含量超标，解放军生化部队开始进入……这一刻被火焰炙烤的不只是那些扭曲的集装箱，还有天津这座城市和所有中国人焦躁的情绪。</p>
-<p>尽管8月15日上午10时官方举行的第四次新闻发布会 上，称初步认为事故危化品主要集中在装箱区和运抵区。装箱区的危险化学品可能有钾、钠、氯酸钠、硝酸钾、烧碱，硫化碱、硅化钙、三氯乙烯、氯碘酸等。运抵 区的危险化学品可能有环己胺、二甲基二硫、甲酸、硝酸铵、氰化钠、四六二硝基、邻仲丁基等。但是这些并不能阻止恐慌和焦躁情绪下，谣言和小道消息的肆意传 播。如“有毒气体已向北京方向扩散”，“方圆一公里无活口”，“天津爆炸死亡人数过千含400消防员”更是在微博、微信朋友圈中得到广泛流传。对此中国国 家网信办查处360多个传播天津爆炸谣言网络账号。</p>
-<p>这种对于谣言的严惩是民众乐于见到的，但是对于政府而言，真正能在这样特殊时刻安抚民众的，是真相的及时公开。目前公众的注意力集中在三个问题之上，第一，第一批抵达事故现场的消防队员究竟有多少名，伤亡及失踪情况怎样？</p>
-<p>因为根据信息显示，天津8•12爆炸事故发生时，编制 并不属于中国消防系统的天津港公安局消防支队三支队伍，先于公安消防官兵抵达现场救火。但爆炸发生后，他们的伤亡情况暂未被当地官方提及，截至发稿时，几 乎所有人都处于是失联状态。对此在8月15日的新闻发布会上，政府回避了记者提出的关于第一批抵达消防队员的问题。</p>
-</div>
-<div>
-<p>这种消极回避的态度，直接导致8月15日在中国政府举办的第四场关于天津爆炸事故发布会上，因为一直没有获得家人的消息，隶属这三只消防队伍的家属冲击发布会现场，使得发布会被临时打断。</p>
-<p>第二，为何危险品一公里内会有居民小区，在官方第一次 新闻发布会上，天津官员被问及危险品与居民区规定距离时，面面相觑。央视则直接掐断发布会直播，引发民间质疑。而在15日的官方第五次新闻发布会上，这个 问题再次被提及时，天津市卫计委主任王建存则用“不关我事”、“我很忙”等次推脱。</p>
-<p>第三，“究竟是什么引起了爆炸”，对于这个问题，官方仍然语焉不详。天津公安消防局长称依然待解，而在第五次新闻发布会上，官方的回答仍然是“不清楚”、“不回答”。</p>
-<p>这些表态，在经过媒体报道后，引起巨大的舆论反馈。中国民众再度想起2011年甬台温铁路列车追尾事故后，铁道部政治部宣传部部长、新闻发言人王勇平一句“至于你信不信，我反正信了”的重度渎职言论。与之相比，天津馆员的推诿程度过之而无不及，民心尽失。</p>
-<p><strong>京津冀“断足”</strong></p>
-<p>这不是中国第一次在大城市发生危险化学品爆炸事故。 1993年8月5日，中国广东省深圳市清水河街道，存放易燃化学物品硝酸铵的工厂发生大爆炸，并引发大火，爆炸的强度使灾场形成了一团如蘑菇云形状的烟 雾，而方圆数公里内大量建筑物的玻璃窗亦被震碎。一个小时后工厂再次发生大爆炸，此次爆炸强度比前一次更大，爆炸冲击波造成更大范围的破坏。爆炸后的带火 飞散物使火灾迅速蔓延扩大，引燃了爆炸现场附近木材堆场的木质地板块、干货仓以及山上的树木。此次爆炸导致在场扑救的消防员、武警和公安遭受严重伤亡。货 仓一直燃烧了近半个月，火势才被彻底扑灭。这宗惨剧导致18人死亡，逾873人受伤，其中约四分之一的伤者是消防员、武警和公安。由于爆炸威力十分强大， 邻近方圆百米的部分建筑物被夷为平地。</p>
-<p>相比1993年的深圳爆炸，这次天津爆炸事故的后果可能更为严重。</p>
-<p>首先对于天津这座城市而言，用“生化围城”一词或许略 显危言耸听，但85人死亡，七百余人受伤，几千户住宅受损，将其称为1949年后新中国最严重的一起化学品泄露、爆炸事故并不未过。而且在这次事故中，还 有大量的汽车被烧毁，根据韩国现代集团透露的数据，已有3950辆现代汽车和2175辆起亚汽车受到爆炸波及，初步损失可能达到1600亿韩元（约合 8.64亿人民币）。东风雷诺汽车有限公司也发布声明称，雷诺有近1500辆车因过火导致受损。如果按照这款汽车起售价20.28万元估算，这批车辆的价 值损失超过3亿元。</p>
-<p>与这些损失相比，发稿前基本得到官方和媒体证实的大量 氰化钠泄露问题可能将让天津遭到更为严重的次生灾害。8月15日上午11时许，天津塘沽爆炸现场附近武警消息，要求距离爆炸核心区范围三公里内人员全部撤 离。环保、交警等现场多个部门工作人员证实撤离消息属实。原因在于经涉事企业汇报，爆炸地点存在约700吨氰化钠，大概位置位于核心爆炸区东侧。作为剧毒 化学品，氰化钠能够强烈水解生成氰化氢，在氰化氢浓度高（0.1mg/L）的空气中，人将立即死亡，所以说泄露至自然界中的氰化钠会对生物造成严重损害。</p>
-<p>即使随后官方进行澄清，称专业人士从爆炸现场开始展开大范围搜索，查找氰化钠下落，目前已找到氰化钠的分布范围，许多氰化钠包装被炸开。专业人员正在对氰化钠以及可能含有氰化钠的土壤进行回收处理，从目前检测的数据看尚未发生氰化钠的大范围泄漏。</p>
-</div>
-<div>
-<p>虽然是澄清，同时也承认了大量氰化钠的存在，而且中国 政府不得不承认尽管作出了封堵，但氰化物还是有可能污染水体和土壤，存在从下水管道、消防或者自来水管道等输水管的破损处渗入的可能性。如果发生这种景 象，最极端的一种可能性将是拥有1500万人的天津市的地下水系统陷入瘫痪，天津这个临河靠海的城市将面临无水可用的局面。</p>
-<p>当然这只是一种极端的可能，与之相比，影响更大，已经摆在眼前的是经过近二十年苦心发展的滨海新区元气大伤，本届中央政府极力倡导的“京津冀一体化”战略遭受巨大挫折。</p>
-<p>此次发生事故的滨海新区成立于1994年，位于天津东 部沿海地区，环渤海经济圈的中心地带，总面积2,270平方公里，人口248万人。滨海新区在2005年开始被写入“十一五”规划并纳入国家发展战略，被 誉为继1980年代开发深圳特区、1990年代开发浦东新区之后，由国家推动开发的“中国经济的第三增长极”，也是中国北方新的金融改革实验田。而这次爆 炸将极有可能使得滨海新区二十年改革发展成果付之东流，短时间内难以恢复。</p>
-<p>最重要的是本届中央政府在十八大后推行的京津冀一体化 或许将因此“断了一足”。在2015年4月30日中央政治局审议通过的《京津冀协同发展规划纲要》中，将天津定位为“全国先进制造研发基地、北方国际航运 核心区、金融创新运营示范区和改革先行示范区”，而这次出事的恰恰也是码头，港口这一领域。对于这个问题的关注，或许将是在事态平稳后高层需要慎重考虑的 事情。</p>
-</div>
-</div>
-<p>(王雅 撰写)</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%9A%E7%BB%B4%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%94%9F%E5%8C%96%E5%9B%B4%E5%9F%8E-%E4%BA%AC%E6%B4%A5%E5%86%80%E6%88%98%E7%95%A5%E4%BC%9A%E5%90%A6%E6%96%AD%E8%B6%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -966,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -976,5 +1017,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>

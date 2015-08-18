@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E4%BA%AC%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%BC%80%E4%B8%83%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A-%E5%85%B3%E9%94%AE%E9%97%AE%E9%A2%98%E4%BE%9D%E7%84%B6%E6%B2%A1%E8%A7%A3%E7%AD%94/" target="cdt-mirror">新京报｜天津开七场发布会 关键问题依然没解答</a>
@@ -82,7 +82,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%A0%91%E5%B1%B1/?category=18271" rel="tag">何树山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BA%AC%E6%8A%A5/?category=18271" rel="tag">新京报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%BC%A0%E4%BC%A6%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8-%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E7%BB%88%E7%BB%93/" target="cdt-mirror">BBC｜张伦：天津爆炸—一个时代的终结</a>
 </h2>
@@ -432,7 +432,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%A3%B1%E9%95%9C%E6%8A%BD%E4%B8%9D%E5%89%A5%E8%8C%A7%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E7%9A%84%E5%85%B3%E7%B3%BB%E4%B9%8B%E8%B0%9C/" target="cdt-mirror">棱镜｜抽丝剥茧瑞海国际关键人物的关系之谜</a>
 </h2>
@@ -862,7 +862,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -872,5 +872,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>

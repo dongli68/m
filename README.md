@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,69 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E4%BA%AC%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%BC%80%E4%B8%83%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A-%E5%85%B3%E9%94%AE%E9%97%AE%E9%A2%98%E4%BE%9D%E7%84%B6%E6%B2%A1%E8%A7%A3%E7%AD%94/" target="cdt-mirror">新京报｜天津开七场发布会 关键问题依然没解答</a>
+</h2>
+<p><p>昨天，国务院总理李克强来到天津，在天津港瑞海公司危险品仓库特别重大火灾爆炸事故救援指挥部，他主持召开会议，提出“公开透明、权威充分地发布相关信息，及时回应社会关切，让群众第一时间了解实情”等6项要求。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/214522822369.jpg" alt="214522822369" width="480" height="266"></p>
+<p>“政事儿”(微信ID:gcxxjgzh)注意到，爆炸事故后，天津官方组织召开的新闻发布会，受到了不少质疑。人民网舆情监测室指称，天津发布会存在一系列问题：直播莫名中断(多场发布会未直播记者提问环节)、回应提问多成搪塞推诿、“不清楚”“不知道”“不掌握”成回应关键词、分管市领导迟迟未露面等。</p>
+<p>李克强做出“公开透明”要求后，今天上午11点，天津官方组织召开了第七场发布会。对比前六场发布会，第七场发布会有了明显变化。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/216C239D39C9.jpg" alt="216C239D39C9" width="480" height="268"></p>
+<p>第七场发布会直播了记者提问环节。是否存在700吨氰化物等公众关注的焦点问题，在第七场发布会上也有了准信。</p>
+<p>天津分管安全生产的副市长何树山也首次露面，主动解释了前六场发布会没露面的原因，“按照指挥部的安排，由我来全权负责危化品的处置”。此前在第五场发布会结束时，“政事儿”首先发声：五次发布会为何不见天津市领导？</p>
+<p>七场发布会有哪些“干货”？</p>
+<p>“政事儿”(微信ID:gcxxjgzh)梳理七场发布会发现，天津官方陆续通报了一些“干货”。</p>
+<p>干货1：23 名“编外消防员”遇难</p>
+<p>昨天，李克强明确指出，英雄没有“编外”。牺牲的现役和非现役的消防人员履行同样的职责，所以也应一视同仁对待，让他们得到同样的抚恤和荣誉。</p>
+<p>今天，天津市委宣传部副部长龚建生首次通报了“编外消防员”伤亡情况：共发现遇难者人数114人，其中天津港消防人员23人；失联者人数70人，其中天津港消防人员56人。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/211724E1031E.jpg" alt="211724E1031E" width="480" height="247"></p>
+<p>干货2：的确有700吨氰化物</p>
+<p>从第一场发布会开始，现场是否存在氰化物，一直是提问焦点。</p>
+<p>“政事儿”(微信ID:gcxxjgzh)梳理，第一场、第四场、第五场发布会上，天津官方的回复是“对此事不太了解”、“很快就有明确答复”。</p>
+<p>今天上午，何树山数次披露了氰化物的具体数量，“我们现在目前看基本上是700吨左右。大部分经过我们现在的搜寻，还集中在核心区，就是0.1平方公里的范围内”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/210C240D33A2.jpg" alt="210C240D33A2" width="480" height="316"></p>
+<p>干货3：只峰不是原副市长只升华的儿子</p>
+<p>事故发生次日，网上出现传言：瑞海法定代表人只峰和天津市原副市长只升华是“父子”关系。</p>
+<p>第二场发布会结束时，现场多名记者大声提问：只峰是谁？与会官员未做回应，离席。</p>
+<p>第四场发布会上，龚建生辟谣：“只升华只有一个女儿，没有儿子，只峰与他没有任何关系，对这种在危机时刻散布谣言者，公安机关正在依法开展调查处理工作”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2181259402EF.jpg" alt="2181259402EF" width="480" height="230"></p>
+<p>还有哪些焦点问题依然没有解答？</p>
+<p>“政事儿”(微信ID:gcxxjgzh)发现，虽然开了七场发布会，仍有一些焦点问题依然没有解答。</p>
+<p>焦点1：危险品仓库1公里内为何有居民区？</p>
+<p>“在一公里之内有很多居民区的情况下，瑞海国际从普通仓储到危险化学品仓储是否符合相关城市规划和安全生产的国家的法律规定？”今天上午，有记者提出这个问题。此前的历次发布会，记者也多次就此提问。</p>
+<p>不过，天津官方一直没有正面答复这个提问。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/21A525F222A4.jpg" alt="21A525F222A4" width="480" height="289"></p>
+<p>焦点2：瑞海公司背景强大“水很深”？</p>
+<p>事故发生后，围绕瑞海公司的背景有诸多猜测，有媒体报道其背景强大，“水很深”。</p>
+<p>“政事儿”(微信ID:gcxxjgzh)了解到，在天津港，瑞海拥有非同寻常的实力。该公司背后有“隐形股东”，而且背景特殊。</p>
+<p>天津塘沽多名官员向新京报记者交叉证实，董某某在瑞海公司持股并参与经营，他是原天津港港口公安局局长之子。其父去年因罹患癌症辞世。</p>
+<p>不过，工商资料显示，瑞海国际公司股东李亮持股55%、舒铮持股45%。并没有出现董某某的名字。</p>
+<p>舒铮在接受媒体采访时表示，他只是天津某机关普通工作人员，仅仅是替朋友代持。</p>
+<p>新京报记者电话采访到舒铮，问其代谁持股，是否认识董某某，他表示什么都不知道，“只知道有人用了我的身份证”。</p>
+<p>今天发布会结束后，记者追问，瑞海公司被曝有股东为天津港公安局原局长之子，并已被带走调查，是否属实？</p>
+<p>对此，副市长何树山回应说：股东的情况会等调查组调查。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/218A25B847E1.jpg" alt="218A25B847E1" width="480" height="271"></p>
+<p>焦点3：天津港领导为何一直没露面？</p>
+<p>“政事儿”(微信ID:gcxxjgzh)注意到，事故发生后，天津港的管理体制引发关注。</p>
+<p>有媒体报道，天津港有两个“婆婆”：在行政功能上，隶属于天津市滨海新区；在港口业务上归交通部管理；在港口安全生产监督管理方面，由交通部委托天津市安监局管理。</p>
+<p>第四场发布会上，有记者提问，天津港领导为何一直没有出现？</p>
+<p>今天，有记者再次就此发问，并点名问题提给何树山：天津港在事故处理当中做了哪些工作？为什么直到现在，天津港的领导都没有在发布会上出现？</p>
+<p>何树山回应说，“这个问题能不能请宣传部龚部长回答一下”。</p>
+<p>龚建生则表示，“关于天津港领导出席发布会事宜我们正在抓紧安排”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/214A265E09AA.jpg" alt="214A265E09AA" width="480" height="279"></p>
+<p>焦点4：用水灭火处置不当引发爆炸？</p>
+<p>用水灭火处置是否妥当，这也是公众的关注焦点。可到今天，该问题仍没有明确答案。</p>
+<p>在第二场发布会上，有记者提问，是否是用水去灭火才引起爆炸？发言人表示具体处理方法不清楚。接到报警电话时，第一个电话是说汽车燃烧，第二个报警电话说天津港起火。消防总队第一批人员抵达现场后按照规定进行火灾侦查和判断，第二批人员刚抵达就爆炸，之前是天津市港区公安局在进行处置，具体处置方法不清楚。</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E4%BA%AC%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%BC%80%E4%B8%83%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A-%E5%85%B3%E9%94%AE%E9%97%AE%E9%A2%98%E4%BE%9D%E7%84%B6%E6%B2%A1%E8%A7%A3%E7%AD%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%A0%91%E5%B1%B1/?category=18271" rel="tag">何树山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BA%AC%E6%8A%A5/?category=18271" rel="tag">新京报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%BC%A0%E4%BC%A6%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8-%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E7%BB%88%E7%BB%93/" target="cdt-mirror">BBC｜张伦：天津爆炸—一个时代的终结</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150817092457_tianjin_blast_512x288_z_nocredit.jpg" alt="150817092457_tianjin_blast_512x288_z_nocredit" width="551" height="310"></p>
@@ -153,6 +213,25 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E5%AD%A6
 <a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%AF%A1%E5%BC%82%E7%9A%84%E8%B0%8E%E8%A8%80/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%8E%E8%A8%80/?category=18271" rel="tag">谎言</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AA%92%E4%BD%93%E6%82%B2%E8%A7%82%EF%BC%9A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E7%9C%9F%E7%9B%B8%E6%81%90%E7%9F%B3%E6%B2%89%E6%B5%B7%E5%BA%95/" target="cdt-mirror">苹果日报｜媒体悲观：天津大爆炸真相恐石沉海底</a>
+</h2>
+<p><p>天津大爆炸震惊世界，在当局雷厉风行缉捕制造谣言的网民之际，舆论也锲而不捨地唿唤当局公佈爆炸真相，包括肇祸瑞海国际与中共高层的关系、爆炸的起因及救援的失误等。但是，既然爆炸进入第五天时，连中共天津市委宣传部都说不清楚救援总指挥是谁，媒体还在奢望谣言倒逼真相、真相终能大白，何异于痴人说梦？</p>
+<p>权斗只会揭开部份原因</p>
+<p>中国总理李克强前日到天津近距离视察爆炸现场后，下令国务院立即成立调查组，还宣称要彻查原因，依法严格追责、严厉问责、严肃查处。李克强的指示听起来颇令人受用，但实际上是作骚罢了。国务院早在他公开下令前两日，即于14日已成立事故调查小组，由国家安监局党委书记杨栋樑任组长。当瑞海国际的幕后靠山被指向中共政治局常委或前常委时，一个部级官员领导的调查小组还有多少威慑力？</p>
+<p>尤可笑的是，可能是被李克强的「三严」指示吓坏了，天津市抢险救援总指挥竟然被消失了。在当日举行的记者会上，天津市委宣传部副部长龚建生表示不知道谁是总指挥，要会后再「尽快详细了解」。天津在大爆炸后已循常规成立救灾指挥部，翌日上午指挥部还因现场情况不明而发出暂缓救援的指令，如今总指挥被消失，是已被问责，还是怕被问责？</p>
+<p>其实，对于中国重大天灾人祸而言，无论是追问真相也好，还是问责也罢，都是取决于权斗结果。权斗只会揭开部份肇祸人的面目、揭开部份惨剧的原因，但永远不会揭开事件真相。一旦真相涉及危害政权稳定或现任领导人权威的「政治规矩」时，调查就会由明转暗，真相就会石沉大海，李克强的「三严」就会变成「三宽」，如今表现得义愤填膺的官方报章、网站就会掩旗息鼓。</p>
+<p>远的不说，就说今年6月1日「东方之星」客船在长江沉没，造成442人死亡，当时官方报章、网站不也气势汹汹地追问沉船原因、客船公司背景等真相？去年12月31日，上海外滩跨年夜发生践踏惨剧，至少造成36人死、47人伤，当时官方报章、网站不也声色俱厉地追问死亡人数、肇事酒吧背景等真相？然而，现在还有哪家报章、网站在追查？还有多少人记得当时想知道哪些真相？</p>
+<p>一党专政是最大危险品</p>
+<p>中国重大天灾人祸，往往令外界看到的不是真相，而是制度的腐烂。中共喉舌《人民日报》昨日的评论以周永康案、令计划案一查到底为例，强调还有甚么必要对天津「安全事故」有所保留和隐瞒？又怎么可能官官相护？但是，周案、令案都只令人看到中共权斗失败者的下场，周、令的部份贪腐问题被揭开、被批臭，但涉及权斗的真相何曾公开？天津大爆炸至昨日已进入第六日，多个网民被指对爆炸原因、伤亡人数造谣而被缉捕，但何曾见到公安缉捕瑞海国际人员？当局何曾公佈瑞海公司大股东及管理层人员的背景？这不能不令人质疑，在安排好相关的替罪羊之前，当局不会采取缉捕行动，这不是官官相护是甚么？</p>
+<p>如果中国当局以审查网上言论的力度去审查瑞海国际的幕后操控者和利益享有者，以缉捕网民的力度去缉捕瑞海国际管理层及幕后股东，那么，天津大爆炸的真相还有一丝公开的机会，还可以令人对李克强的「三严」有所信任，否则，真相只会石沉大海，李克强的言行只会受到质疑。有网民指，对中共来说，真正的危险品只有三种：自由、民主和法治。但不能不察的是，对中国来说，最大的危险品，就是中共的一党专政制度。在这种制度下，人民的生命财产可能随时毁于官员的权斗，天灾人祸的真相可能永远石沉大海。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AA%92%E4%BD%93%E6%82%B2%E8%A7%82%EF%BC%9A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E7%9C%9F%E7%9B%B8%E6%81%90%E7%9F%B3%E6%B2%89%E6%B5%B7%E5%BA%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
@@ -772,74 +851,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E3%80%8A%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E3%80%8B%E6%B5%B7%E6%8A%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8D%B0%E8%B1%A1%E4%BB%A4%E4%BA%BA%E6%8B%85%E5%BF%83/" target="cdt-mirror">环球时报 | 《开罗宣言》海报带来的印象令人担心</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/618oK.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/618oK.jpg" alt="开罗宣言" width="389" height="600"></a></p>
-<p>八一电影制片厂拍摄的《开罗宣言》定于9月3日、即反法西斯胜利纪念日的当天公映，但该片的一组全新海报引发争议。这组海报共有4幅，斯大林、罗斯福、丘吉尔、毛泽东的形象分别很突出地印在上面，而参加开罗会议的蒋介石却未出现。一些网友质疑这样的海报暗示毛泽东参加了开罗会议，而蒋介石没有去。尽管片方表示还有其他突出蒋介石和宋氏三姐妹的海报，但舆论的不满声仍不绝于耳。</p>
-<p>我们相信片方不可能糊涂到公然违背历史事实，搞出“存毛去蒋”的事情。看过该片的片花和之前的一幅海报，人们自然可以去掉这个担心。</p>
-<p>1943年11月的开罗会议有丘吉尔、罗斯福、蒋介石三位国家领导人出席，那次会议确定了战后处置日本的基本原则，蒋介石关于中国收回台湾的要求得到英美领导人尊重。一些学者认为，开罗会议对中国赢回大国地位有一定意义。</p>
-<p>片方表示，蒋介石在开罗会议上获得发言权，中国被承认被认可，是中华民族共同奋斗牺牲的结果，是全民族坚持抗战的结果，而毛泽东率领的中国共产党人也是其中的重要部分。不能不说，如果电影在记述开罗会议的同时，表达这样的认识，是完全没有问题的。</p>
-<p>然而即使这样，搞出如此突出毛泽东的电影海报也是不合适的。4张一组的海报把毛泽东同斯大林、丘吉尔、罗斯福并列，对不了解该片来龙去脉的人来说，误读很难免。今天这个时代对这种海报语言未必能够接受，如果片方是想以此弘扬“正能量”的话，它的实际效果恐怕将是相反的。</p>
-<p>目前该片还未上映，它的故事全貌尚不得而知。然而片花中，毛泽东的镜头几乎同蒋介石的镜头一样多，而且毛的台词比蒋的还多，让人困惑和担心。如果整个电影对毛泽东形象的突出像片花所展示的那样，那么电影的副作用将可能出现。</p>
-<p>中共在中国抗战中发挥了中流砥柱的作用，这是历史的定论。但这不意味着我们今天对那段历史每一个具体事件的记述都要对照这个结论，同它直接挂钩。无论制片者怎样阐释情节安排，公众的理解是该片历史准确性的最终依据。如果公众不接受该片对毛的突出，那么这部电影的效果就将打折扣。</p>
-<p>现在舆论大多不接受电影海报所带来的印象，有人怀疑片方是在通过这种方式搞该片的“商业炒作”，如果那样的话倒也罢了。但如果不是的话，希望片方在最后剩下的时间里对片子做紧急调整，避免争议的扩大。</p>
-<p>一段时间以来互联网上出现大量历史虚无主义的现象，抹黑毛泽东等已故党和国家领导人的形象，质疑共和国历史上英雄人物事迹的真实性等等。在我们抨击这些现象的时候，个别文化单位切不可在尊重历史问题上搞出相反的争议，授人以柄。</p>
-<p>弘扬正能量一定要注意方式方法，说好话过头就是谁都能识别出的奉承话，其实际效果将会让人感到不舒服。正面宣传须恪守实事求是的底线，而且它不能掺入任何功利主义的目的。或许有必要树立这样一把尺子：文化作品的政治立场需要用它的实际政治效果来检验。▲(作者是环球时报评论员)</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E3%80%8A%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E3%80%8B%E6%B5%B7%E6%8A%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8D%B0%E8%B1%A1%E4%BB%A4%E4%BA%BA%E6%8B%85%E5%BF%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E4%B8%9A%E7%82%92%E4%BD%9C/?category=18271" rel="tag">商业炒作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80/?category=18271" rel="tag">开罗宣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA/?category=18271" rel="tag">舆论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E7%A2%B0%E5%88%B0%E7%A1%AC%E8%8C%AC%E5%84%BF%EF%BC%8C%E4%B9%A0%E6%9D%8E%E8%BF%98%E8%83%BD%E9%93%81/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗碰到硬茬儿，习李还能铁面无私吗？</a>
-</h2>
-<p><div>
-<p>1.【强哥开完会终于现身了】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005Nvzb8jw1ev4imgr2a7j318g0xcgwg.jpg" alt="005Nvzb8jw1ev4imgr2a7j318g0xcgwg" width="440" height="330"></p>
-<p>小编昨天就说了，习总和强哥他们去北戴河开会了，开完这两天就该露面了，今天强哥果然就出现了。据官方消息：8月16日下午，国务院总理李克强到达 天津8.12特别重大火灾爆炸事故的核心现场，看望慰问消防队员、救援官兵和伤员及受灾群众，部署下一步就援救治，善后处置和安全生产工作。还是港媒敢采 访，拦住总理就提问。李克强说，参与灭火而牺牲的消防员，一视同仁，同样抚恤，同样对待。他还说，严肃问责，一查到底，坚决追究，彻查责任！——生命的逝 去，无论是普通民众抑或消防官兵，都同样令人唏嘘。但是这次肇事公司的背景牵扯到张高丽和李瑞环的亲人们，这事儿咋整？强哥跟习总还会这么铁面无私吗？</p>
-<p>2.【瑞海公司到底归谁所有？第二大股东承认替人代持】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/676abacdjw1ev4vl6vkhvj20ku0z3wj3.jpg" alt="676abacdjw1ev4vl6vkhvj20ku0z3wj3" width="440" height="741"></p>
-<p>财经网消息：瑞海国际物流有限公司的真实股东内幕，水深不可测，谜雾重重。天津滨海爆炸过去4天，原爆料的持有涉事爆炸企业瑞海国际45%股份的舒 铮向记者确认，他并非瑞海国际真正股东。并声称，与瑞海没有关联，所谓的股东身份只是朋友利用他的身份代持股份。——//@LifeTime：瑞海公司几 乎可以绕开一切监管，天马行空。明明环评最大许可存放10吨剧毒化学品，爆炸发生后河北一家企业报告他们有700吨剧毒化学品在瑞海库房里。上面定调“安 全生产”没弄好，这些权贵的“特种”经营，如同犯罪团伙，怎么让他们安全生产？</p>
-<p>3.【救援与维稳的差别】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0066MXzDgw1ev4zf0c43ij30cs08it98.jpg" alt="0066MXzDgw1ev4zf0c43ij30cs08it98" width="440" height="293"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0066MXzDgw1ev4zf1v4hoj30b40fxjse.jpg" alt="0066MXzDgw1ev4zf1v4hoj30b40fxjse" width="400" height="573"></p>
-<p>官方公布说，截至今天上午9点，共发现遇难者遗体112具，其中已确定身份人员24人，88人正在确定身份之中。经反复统计，目前接各方报告失踪人 数95人，包括消防人员85人，其中13位现役公安消防人员，72位天津港消防人员。可是，天津大爆炸三天过去了，至今无人向国民说声“抱歉”。连安倍都 不如。。。</p>
-<p>4.【鼓动别人去送死的家伙，一定心忒黑！】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/006aj28Xjw1ev50i5gv7ij30bu0hsgn3.jpg" alt="006aj28Xjw1ev50i5gv7ij30bu0hsgn3" width="426" height="640"></p>
-<p>@戴旭：最危险的地方，总有着战士的刚强！你们站立着，中国就不会倒下！//@乌冇之乡:拿着铁锹戴着棉口罩就敢贸然闯进高危化学物质爆炸现场，这 不是刚强，这是拿生命开玩笑！博主你只顾上嘴唇碰下嘴唇胡鸡巴扯蛋，但这些战士却有可能倒下永远起不来。生化防护服呢？机械设备呢？生化部队呢？</p>
-<p>6.【标哥被殃视忽悠了，还是标哥想碰瓷儿？】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/676abacdjw1ev4whn7wauj20wd0mjn1l.jpg" alt="676abacdjw1ev4whn7wauj20wd0mjn1l" width="440" height="306"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/763fb12bjw1ev4gyihv7sj20f00qodhz.jpg" alt="763fb12bjw1ev4gyihv7sj20f00qodhz" width="440" height="782"></p>
-<p>参谋长史鲁泽强调核心区现场污染轻：很多记者都进去了，有的戴简单口罩，有的没戴，活动一两小时，出来了没事。打喷嚏也没，流眼泪也没。说明轻 嘛。。结果首善陈光标听到之后去天津碰瓷儿。才去了没多久就说自己中毒了，医院检查是中度中毒。标哥，你自己身体不好就不要恶意抹黑殃视好吧？人家都说了 污染很轻啦。。</p>
-<p>7.【氰化物位置已确认初步判断有几百吨】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/676abacdjw1ev4whnq6gxj20k00bhq40.jpg" alt="676abacdjw1ev4whnq6gxj20k00bhq40" width="440" height="252"></p>
-<p>北京军区参谋长史鲁泽称，氰化物的位置已确认分布在两个点，初步判断有几百吨。对已炸开外露的将及时清理，用化学品中和；对大面积分散的将采取分围 方法，砌墙围起来；对成桶未损坏的将其及时清运，撤离现场。——你老人家说污染很轻，可是把人家标哥给骗惨了。。不过这次标哥率先以身试毒，可以称为是个 标子雷锋了。。</p>
-<p>8.【百姓呼声：这里不是鬼城】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5ceffad7jw1ev3733fla0j20ku112wm9.jpg" alt="5ceffad7jw1ev3733fla0j20ku112wm9" width="440" height="783"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5ceffad7jw1ev3731ddnvj20f00qojwh.jpg" alt="5ceffad7jw1ev3731ddnvj20f00qojwh" width="440" height="782"></p>
-<p>@152222z：从死亡现场逃出来。死里逃生。但是我的家，已经炸飞了一半，我所认识的人，已经天人永隔。#天津塘沽大爆炸#尽管新闻只字不提， 但，我的家，万科清水蓝湾，也叫海港城，我住四号楼。离爆炸地600米。这里入住了3300多户居民。不是鬼城。是万科卖的最好的楼盘之一。</p>
-<p>9.【大地震有猪坚强，大爆炸有狗坚强】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/676abacdjw1ev4j0elvuaj20go0b575v.jpg" alt="676abacdjw1ev4j0elvuaj20go0b575v" width="440" height="294"></p>
-<p>救出一只小黑狗！8月16日，北京军区某防化团的战士们在天津8.12爆炸事故的核心区发现并救出一只可爱的小黑狗，临时取名“生化”。小黑狗仿佛 有灵性，立即认准了战士们，摇着尾巴跟在后面，寸步不离。——请不要煽情转移焦点好吗？你们咋就知道这小黑汪不是才跑进去被消防员们给捉出来的？这两天往 里跑的都给救出来…都记在救援成就里…查清原因追究责任警示他人避免类似悲剧才是正道。</p>
-<p>10.【不要站在别人的坟头，高歌你的爱国情怀】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0067DXAegw1ev4609etcrj30cs0mqt9v.jpg" alt="0067DXAegw1ev4609etcrj30cs0mqt9v" width="440" height="782"></p>
-<p>每一次灾难，都会涌现出一位“诗人”。《滨海时报》高级编辑陈丽伟同志的爆炸赞美诗：“第一声炸响在渤海湾边，第二声回荡到天安门前……”跟“纵做 鬼也幸福”有得一拼。这货是作诗还是作死呢？你要真回荡天安门前，不得吓死七个常委啊。有网友评论：不要站在别人的坟头，高歌你的爱国情怀；希望面对你儿 子的棺材，你也能这样激情澎湃。</p>
-<p>11.【爆炸事故附近小区居民聚集请愿】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005vnhZYgw1ev4c4uudc9j30sg0lc47c.jpg" alt="005vnhZYgw1ev4c4uudc9j30sg0lc47c" width="440" height="330"></p>
-<p>今天上午，天津爆炸事故新闻发布会门外，上百名爆炸附近小区居民聚集，要求政府回购受损房屋。居民称小区距离爆炸地800多米，担心爆炸产生有毒气 体和部分房屋出现裂缝，安全堪忧。请愿的居民离开前，将现场遗落的所有垃圾清理干净。——//@大鹏看天下：老百姓不希望自己家旁边有化工厂、危险品仓 库，肯定是有道理的，因为大家早已不信任。《财经》整理发现，天津8.12爆炸事故，距离爆炸中心3公里的范围之内，有多达约20个居民小区，居住着大量 市民，最近的一个居民小区仅有600米。几声爆炸，很多人从此失去了自己的房子和家，谁对此最终负责？尚无定论。</p>
-<p>12.【马云遭到网友逼捐：身为首富为何不捐】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/134521516_14396794193481n.jpg" alt="134521516_14396794193481n" width="550" height="332"></p>
-<p>天津港爆炸事故后，不少网友开始到@大自然保护协会-马云 微博下评论“逼捐”。部分网友言辞激烈，直指马云为何不捐款，甚至还有人一边喊着“爸爸”，一边指责马云。据悉 马云刚在香港买了一套超超级豪宅，每平方米136万元，总计花了15个亿。不知道还有木有钱去捐款。 ——马云遭网友逼捐，小伙伴们咋看？</p>
-</div>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E7%A2%B0%E5%88%B0%E7%A1%AC%E8%8C%AC%E5%84%BF%EF%BC%8C%E4%B9%A0%E6%9D%8E%E8%BF%98%E8%83%BD%E9%93%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%AB%98%E4%B8%BD/?category=18271" rel="tag">张高丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%91%9E%E7%8E%AF/?category=18271" rel="tag">李瑞环</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -851,7 +862,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +872,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>

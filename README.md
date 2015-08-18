@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A4%B1%E6%95%88/" target="cdt-mirror">德国之声｜德语媒体：“感动中国”的失效</a>
+</h2>
+<p><p>德语媒体周二继续关注天津爆炸。《南德意志报》刊文称，这场灾难对中国的影响深入骨髓，其中一个方面就是领导层惯用的灾难抒情无法再换取人们的感动。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/018653141_30300.jpg" alt="0,,18653141_303,00" width="551" height="310"></p>
+<p>（德国之声中文网）”两次爆炸，一首诗”，《南德意志报》8月18日一篇关于天津爆炸事故的文章以此开头。文章这里指的是《滨海时报》编辑陈丽伟赞颂爆炸事故中的消防队员和呼吁民众团结一心的诗。</p>
+<p>依据官方数字，目前已有114人在事故中丧生、70人失踪。文章随即写道，然而从天津传出的似乎也有好消息，”官媒中好消息尤其多”。”第一天，在废墟中发现生还者；第二天，《人民日报》报道，邮轮的抵达和出港没有受到影响；第三天，新华社赞颂了一名在医院产子的伤者；第四天，防化特种部队指挥官称，居民可以安心睡觉了……。”</p>
+<p>文章援引一名中国记者的话说，”中共有一种特别天赋，变灾难为喜悦–特别是对于其自身的赞赏与喜悦”。</p>
+<p>“这个有时奏效，又是不太奏效：在过去一些年，网络和社交媒体曾对中共的信息管控形成挑战。然而在过去两年里，中共展现很多管控技巧，让新媒体臣服于政治宣传之下。”</p>
+<p>“中共在以往灾难事件中的常用手法是：宣布灾难不可避免，表现技术上的高效，呼吁全国上下团结一心。”</p>
+<p>然而这一次，灾难抒情行不通了。文章表示，此次天津爆炸的情况空前，当地危机管理实在太无能，以至于《中国日报》、《环球时报》这些党的喉舌都变了语调。</p>
+<div><a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A4%B1%E6%95%88/a-18656277#" rel="nofollow"><img src="http://www.dw.com/image/0,,18651280_404,00.jpg" alt="China Tianjin Explosion in Chemie Depot" width="340" height="191" border="0"></a></div>
+<p>爆炸中表现出的问题</p>
+<p>《每日镜报》周二同样关注了天津爆炸。文章在开头称，将该事件称为”一场工业事故”似乎有粉饰太平的嫌疑。</p>
+<p>“破坏规模是一个问题，这让一些人怀疑，这是否真的只是一场工业事故。而另外造成人们深究的原因是（信息）不透明。为什么即便在5天后公众仍然对事故经过和缘由知之甚少？到底哪些物质被存放在那里，其数量是多少？为什么让第一批救援人员没戴防毒面具、没穿防护服就进入极度危险区域？”文章反问道，在以上种种信息不公开、不透明后，生活在事故发生地周边的人们自然会质疑，其呼吸的空气是否真的已经安全了。</p>
+<p>文章表示，天津这场灾难反映了”中国在拼命赶超西方工业国家时的图景，展现了放纵下的资本主义的可怕嘴脸”。”这次的不幸并非单独情况，甚至不是极端情况。采矿、汽车制造、输油管道、空气质量……，无论放眼哪个工业和生活领域，事故的频率和造成的人身伤亡都触目惊心。”</p>
+<p>[摘编自其他媒体的内容，不代表德国之声观点]</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A4%B1%E6%95%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F%E7%A7%98%E4%B9%A6%E9%95%BF%E5%88%98%E5%85%B4%E8%81%94%E8%A2%AB%E4%BB%A5%E6%B6%89%E5%AB%8C/" target="cdt-mirror">自由亚洲｜中国人权观察秘书长刘兴联被以“涉嫌煽颠罪”批捕</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b5e23b5b9ac04d0f2bdd460e7f5b1f4e.jpg" alt="b5e23b5b9ac04d0f2bdd460e7f5b1f4e" width="549" height="367"></p>
@@ -153,7 +177,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E8%A1%8C%E4%B8%BA/?category=18271" rel="tag">政府行为</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%B3%E4%BA%8E%E6%B0%B0%E5%8C%96%E9%92%A0%E7%9A%84%E4%B8%80%E5%88%87%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B0%E7%9A%84%E5%B7%A8%E9%87%8F%E5%89%A7%E6%AF%92/" target="cdt-mirror">关于氰化钠的一切：天津爆炸现场发现的巨量剧毒化学品</a>
 </h2>
@@ -893,25 +917,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B9%B1%E6%B5%81%E9%9D%92%E5%B9%B4%EF%BC%9A%E6%AD%A3%E5%B8%B8%E5%9B%BD%E5%AE%B6%E5%B9%BB%E8%A7%89/" target="cdt-mirror">乱流青年：正常国家幻觉</a>
-</h2>
-<p><p>灾难当前，人人都会有太多话想说，从点蜡烛祈福到讥笑蘑菇节的声音，自左而右渐次铺开。换了以前我真可能跑去找美国欧洲的安全指引看看有什么可以翻译过来教大家如何自保，这个事情嘛，从不缺席果壳网已经做了，现在也不劳我费心了。</p>
-<p>个人觉得，这次事件和之前任何一个工厂爆炸事件都不同的地方在于：击碎了中国中产阶级的“正常国家幻觉”。</p>
-<p>明明自己住滨海漂亮房子开宝马养小狗，闲了要么摩挲着包浆的手串撸串儿，要么跑步健身打卡，有意识地对任何公共事件保持高贵的沉默，表面上看和正常国家的离地中产毫无二致。</p>
-<p>然而这就是幻觉，一场爆炸之后，附近的启航嘉园和海港城业主惊奇地发现自己也成了他们以前眼角也不瞧一下的上访民众了，连指定动作：下跪打横幅，上书“相信党相信国家”也一毛一样。这种招数，以前也被无数访民使用过 (地级县出身，月薪六百元，含化肥补贴 。业主们尬尴地发觉，出事后，其实真的，自己和他们，#没什么不同# 。</p>
-<p>在你国，耐心等待，服从政府安排，得出的处理结果是6千元租房津贴，你愤怒，你抓狂，这点钱算啥，够交两个月租金吧？那房子以后能住吗？周边有污染吗？负责人找谁？仓库建设是谁批准的？你于是拉起横幅，小心谨慎地尝试闹大事情，并且在媒体关注、政府官员答应接触后瞬间翻脸称“都是媒体哗众取宠”，希望能卑微地换取政府的额外恩情。</p>
-<p>然后我们理所当然看到，真理部通稿封杀，附近业户接到通知不准制作横幅、倒是小粉红们挺古道热肠，这次真没见到多少指责业主闹事的，不过他们大都和以前的业主们一样，保持了高贵的沉默。于是事件迅速进入传统的维稳轨迹，估计后续的故事我们能听到的机会也不太高，政府既然已经把你拉进他最熟悉的套路里，那么毫不奇怪地它将会用丰富的经验打败你。</p>
-<p>所以，我想说的，千言万语，总结成这个画面：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/005N6Sg9gw1ev5pnmytyfj30am07taaf.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005N6Sg9gw1ev5pnmytyfj30am07taaf.jpg" alt="005N6Sg9gw1ev5pnmytyfj30am07taaf" width="382" height="281"></a></p>
-<p>现在你知道我是有多么不感到意外了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B9%B1%E6%B5%81%E9%9D%92%E5%B9%B4%EF%BC%9A%E6%AD%A3%E5%B8%B8%E5%9B%BD%E5%AE%B6%E5%B9%BB%E8%A7%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E5%B8%B8%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">正常国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -933,5 +938,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
 </table>

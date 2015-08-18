@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%B3%E4%BA%8E%E6%B0%B0%E5%8C%96%E9%92%A0%E7%9A%84%E4%B8%80%E5%88%87%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B0%E7%9A%84%E5%B7%A8%E9%87%8F%E5%89%A7%E6%AF%92/" target="cdt-mirror">关于氰化钠的一切：天津爆炸现场发现的巨量剧毒化学品</a>
+</h2>
+<p><p><em>来源：Quartz</em></p>
+<p><em>原文：<a href="http://qz.com/481851/all-about-sodium-cyanide-the-extremely-toxic-chemical-found-in-vast-quantities-at-the-tianjin-explosion-site/">All about sodium cyanide, the extremely toxic chemical found in vast quantities at the Tianjin explosion site</a></em></p>
+<h3><strong>关于氰化钠的一切：天津爆炸现场发现的巨量剧毒化学品</strong></h3>
+<p><em>作者：Benjamin Burke，英国赫尔大学分子影像学博士后研究助理</em></p>
+<p><em>编译：中国数字时代编辑</em></p>
+<p><strong>氰化钠是什么？</strong></p>
+<p>在普通大众心中，氰化物就等同于毒物。这主要是因为它在二战中被当作自杀药丸（L-pill）使用，最著名的例子是纳粹军官Erwin Rommel。L-pill中使用的氰化物是氰化钾(potassium cyanide)，但它和氰化钠的特性几乎是完全一致的。</p>
+<p>作为一个看起来非常无辜但却可以致命的白色固体无机物，氰化钠（sodium cyanide, NaCN）的最低致命剂量是5%茶匙（译者注：英制单位，约0.25毫升）。它是由同样危险的气体氰化氢（hydrogen cyanide, HCN）与氢氧化钠的简单处理制成的。</p>
+<p><strong>为什么一个公司要那么多的氰化钠？</strong></p>
+<p>氰化钠的工业使用在世界各地都存在，最常见的是在黄金开采领域。虽然我们绝大多数人对该产业的想象仍停留在那种19世纪工人淘洗金块的手法，但现今已并非如此。</p>
+<p>世界上绝大多数的黄金并不是以“金块”形式被找到的，而是来自于岩石中非常微细的黄金粉末。事实是，人们对黄金的追求迫使我们甚至在含金量低至0.005%的岩石中开采。这意味着我们需要工业提取的手法从其他物质中分离并提炼出黄金。</p>
+<p>岩石混合物经过开采和研磨变成细粉，然后将其加入氰化钠溶液。黄金与氰化物分子形成紧密结合后可以溶于水，由此可以将其从其他矿石中分离开，并与锌产生反应后变回固体。最后通过溶化将黄金隔离出并铸成金块。</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%80%E4%B9%88%E5%B7%A5%E4%B8%9A%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E6%B0%B0%E5%8C%96%E9%92%A0%EF%BC%9F/">牛博山寨｜什么工业需要用到这么多氰化钠？</a></p></blockquote>
+<p><strong>它有多危险？</strong></p>
+<p>和自杀药丸L-pill中使用的氰化钾非常相似的是，氰化钠对人有剧毒。虽然皮肤吸收是风险之一，但最大的风险其实是呼吸道摄入。吸入或吞入氰化钠会阻断氧气的运输并导致严重的健康问题甚至死亡。</p>
+<p>然而，<strong>氰化钠的安全性在爆炸中会产生改变</strong>。一般来说口腔摄入是相对容易避免的，但<strong>爆炸会导致人们通过呼吸道摄入形成细粉的氰化钠</strong>（这个危害应该已经迅速传播了－－安全面罩可以避免呼入细粉）。最让人恐惧对是<strong>氰化钠遇水或高温形成氰化氢</strong>。而氰化氢作为气体吸入是极其危险的。</p>
+<p><strong>剩余的储存如果泄漏会怎样？</strong></p>
+<p>水污染值得担心，但是较易检测。中国政府看起来正在使用双氧水来处理泄露的氰化钠，由之产生的是危险性较小的雷酸盐。对废水和其他区域，可以使用次氯酸钠（漂白剂）来去除氰离子。</p>
+<p>氰化钠泄漏是（更重要的是曾经是）非常危险的，尤其是这种程度。但氰化物的特性意味着我们可以容易地检测出并监控其清除过程。另一个让人振奋的事实是，在经过短期——尽管是极其致命——的影响后，泄漏应该不会遗留有诸如致癌物质或其他较难对付的慢性影响。</p>
+<p>曾经发生过的氰化钠泄漏均在没有长期影响的前提下得到妥善处理，所有处理手法也都广为人知，因此这次天津爆炸中的氰化钠现在也应该已经消失。固体氰化钠的传递并没有那么危险：你可以毫无压力地打开含有致命剂量3000倍的瓶子（前提是不要让它与水分接触而产生氰化氢）。<strong>对所有在附近的人的忠告是，不要饮用被污染的水，在氰化钠被天然生化途径以及环境稀释至安全浓度前远离受影响地区。</strong></p>
+<p>附：人民日报对氰化钠危害的理解</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1ev6ui4isehj20c80c842k.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1ev6ui4isehj20c80c842k.jpg" alt="a716fd45jw1ev6ui4isehj20c80c842k" width="400" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%85%B3%E4%BA%8E%E6%B0%B0%E5%8C%96%E9%92%A0%E7%9A%84%E4%B8%80%E5%88%87%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B0%E7%9A%84%E5%B7%A8%E9%87%8F%E5%89%A7%E6%AF%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%BA%E4%BD%95%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E8%AE%B0%E6%80%A7%E4%B8%8D%E9%9D%A0%E8%B0%B1/" target="cdt-mirror">大象公会 | 为何抗战老兵记性不靠谱</a>
 </h2>
 <p><p><strong>日本老兵的回忆大都准确详实，可作为史料引用，而中国抗战老兵的回忆往往像横店抗日神剧；国民党老兵常会不记得部队番号，而共产党老兵则对部队记忆准确。</strong></p>
@@ -889,61 +921,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-8-16/" target="cdt-mirror">奇闻录 | 周末段子荟萃 8-16</a>
-</h2>
-<p><p>@Stariver：在中国，每一个陌生人的死去，都是自己死的彩排。</p>
-<p>@letscorp：天津爆炸事故中，距爆炸中心3公里范围内拥有约20个居民小区。爆炸后，几千个标准中产立刻变为要求政府回购受损房产的访民，他们的确是违规批地的受害者。所以呢，中产不要觉得被打死的访民离自己太远。</p>
-<p>@buqueding：天津大爆炸以后，在周围购置了房屋的人们，房贷还要每月还银行吗…不知道他们是否会想想都抓狂…</p>
-<p>@juanli324：转：为了阅兵的空气质量，北京连羊肉串都不让烤了。津门这么大一个爆炸，反而说空气质量正常。借天津卫老少爷们的话说：介尼玛炸的丝空气清新剂吧！ 心情如此沉重的我也忍不住笑了。</p>
-<p>@Zannmuling：我国人民还是挺牛逼的，天津爆炸后，遇见富人就逼捐，遇见穷人就逼祈福，遇见外国人就打断别人你别添乱，遇见记者就是家丑不可外扬，遇见领导就集会提要求，遇见质疑就骂别人傻逼，遇见外地人就说天津惨，遇见本地人就问清楚死亡人数么，遇见CCTV就说中国人民不可战胜国家救援及时。#活该被独裁</p>
-<p>@gongminyaoyao：天津正在创造人类化工爆炸历史上最伟大的奇迹。在伟大执政党的领导下，爆炸发生以后天津一直坚守，从未撤离，但是未发生一起人员中毒事故。经科学家研究，经过几十年的锤炼，人民群众已经五毒不侵，他们谈笑风生对 CNN 说：有本事把浓度再调高十倍。</p>
-<p>@virushuo：以上是一个父母住在事发现场60公里位置人的此刻感想。谢谢谣言，谢谢所有传谣的人。我从此衷心相信，所谓谣言只是良心发现或者来不及被掩盖的真相，只是经过传播会有所夸大，俗话说的好，无风不起浪，没影的事也编不出来。</p>
-<p>@羽良：贵国还是很成功的，经过这么多家破人亡的兴邦级灾难，多数受灾群众脑子基本进不去任何外界信息，碰见有钱的反应是你捐俩呗，碰见老外的反应是你滚粗呗，碰见记者的反应是别添乱呗，整体上是砸锅卖铁也要配合祖国办下去的心思。前代总理大臣说的好哇：多好的人民啊。</p>
-<p>@MyDF：台标不一样，主播不一样，但她们口中念的稿件却是一模一样，只看一个台你或许能感受到一点点人性，看多几个台，你只能感受到彻骨的冷漠和恐惧。电视没坏，新闻已死。 #你国</p>
-<p>@ranyunfei：多年前有朋友让我形容一下中国人的生活态度，当时我便脱口而出：中国人的一生是从苟活通向枉死。其实我真不想生产这种每天都可以得到大量事实映证的警句。</p>
-<p>@hanqian：重大的事件，特别是重大的人道主义灾难特别能够说明中国模式的问题，至少是带来了一些变化和机会。如果不承认这一点，还默认政权永远胜利、政权掌控一切，那就是智力的懒惰。</p>
-<p>@天涯赵瑜：中国民众好像是从723动车事故开始明白过来：政府利用反人类的宣传模式，将一场灾难转移成一场大爱。其新闻标题类型化，从致敬消防队员，赞美献血民众，特写24小时不离手术台的白衣天使，到号召捐款，大爱倾城，最后表彰。完全将追责问题掩饰。</p>
-<p>@boy1573：新浪微博网友：天津与北京近在咫尺，发生了如此重大的灾害，努力走亲民路线的本届七大葫芦娃居然无一亲临现场，已经足以证明灾区的危险系数相当高。</p>
-<p>@狂想刘先生：鲁迅笔下的栓子爹，不过用人血馒头来治儿子的肺痨，如今的看客们却要残忍的多——他们需要人血熬制的鸡汤来慰藉自己的“感动”了，遇难者的鲜血，消防员的鲜血，熬成一碗大爱无疆，多难兴邦的心灵鸡汤，生者啜饮着这人血熬成的鸡汤，互相感情疏导然后默契的忘记——等待下一场灾难的来临。</p>
-<p>@Cloudbleu：和同事随口感慨了句天津太恐怖了，同事女回，澳洲也好不到哪去，同事男回，这事就是放在美国也得死人……中宣部不给他们发点补贴真对不住他们这时时刻刻为党辩护的心啊！</p>
-<p>@songma：在中国，即使是一个普通人，都有一个档案跟着她/他，记录所有的情况。听说公安的系统里还有更详细的记录。一个年营业几千万的公司，炸了离北京最近的大城市，然后媒体的报道都是“背景很神秘”，似乎事无巨细的管控能力突然失灵似的。</p>
-<p>@huozm：自亲历昆山粉尘爆炸，才清楚中国重大事故中的死亡人数是当场死亡的人数，重症病人进入医院后都是尽量维持生命体征，一过特定时间才宣布死亡…</p>
-<p>@hnjhj：老百姓话语体系里的危险品在土共那里根本算不上个事儿。在土共眼里，真正的危险品只有民主、自由、法治、人权。至于什么是氰化钠、啥火不能用水救、仓库的位置、填几车炮灰……，去他妈的，一概无足轻重。</p>
-<p>@pufei：为纪念世界反法西斯战争胜利70周年，日前，有关部门特将伟大领袖在开罗会议期间所做诗词第一次公开发表。《浪淘沙·开罗会议》大雨落开罗，水汽滔天，金字塔外驼队串。黄沙漫眼都不见，知向谁边？往事越千年，法老挥鞭，图坦卡蒙有遗篇。萧瑟冬风今又是，换了人间。</p>
-<p>@wkpub：这种群死群伤的恶性事故没法预防，是极权体制的衍生物，以后会越来越频繁，大型苏维埃轮盘赌这个比喻很形象，就是你注定会输，除了退出赌局或者捣毁赌场。</p>
-<p>@李小萌：天津官场有可爱的一面，没有总指挥就是没有，不方便说就是不方便说，躲避就是躲避，离场就是离场，心虚就是心虚，不留信誓旦旦让你放心的假象，以实际行动传递难言的处境。相比之下，强过铿锵有力掷地有声声泪俱下的表态，然后情况也还是那么个情况，就等你忘。</p>
-<p>@WuyouLan：看了《开罗宣言》的片花。感觉开罗会议是在毛主席部署下召开的一个重要会议。唐国强主席在影片中指出，“三巨头会议，必须做出一个决议，一个有利于中国人民，和世界人民的决议！”同时大手一挥！不知何人饰演的蒋介石畏畏缩缩，“我得去。”</p>
-<p>@夏商：开罗会议不是近代国内史，属近代世界史，稍有历史常识都知道谁参加谁没参加，这样的史实都敢篡改，不仅仅出于无知，不仅仅出于无畏，甚至不仅仅出于无耻，而是出于无所谓，向全民挑衅的同时，也向整个文明世界挑衅，我知道你们知道真相，可我偏要指鹿为马，我就是臭不要脸了，你们能拿我怎么着。</p>
-<p>@一头小活猪：打死我都不相信我党想查什么东西却查不出来的，除非出现别有用心的敌对势力（比如美帝）在中间作梗，这就是一个普通群众对党最朴素的信任。</p>
-<p>@fecable：花果山发生爆炸。唐僧：死了多少猴子？悟空：26个洞穴坍塌。唐僧：死了多少？悟空：只有5000颗桃树被毁。唐僧：到底死了多少猴子？悟空：已将活的猴子安全转移了。唐僧：死了多少？悟空：领导已经迅速成立救灾小组赶赴灾区，目前死亡猴子家属情绪稳定。唐僧：多少？悟空：今天观音姐救了一只猴。</p>
-<p>@cyndi_yaya：见许多人受不了网上拿德州化学品爆炸一事同天津作比，觉得很好笑。明明自己已被虐成狗，见自家政府被打脸啪啪啪，不问青红皂白还想以身相护，跟打脸者撕逼干架？！请问这故事同一个蠢女人与她的渣男初恋有神马两样？</p>
-<p>@williamlong：我很想知道瑞海公司、李亮、李瑞环这之间到底有什么关系？使用百度去搜索，搜了半天都没搜出条结果来。使用谷歌搜索，第一条就出结果了。这就是百度被人鄙视的一条重要原因。</p>
-<p>@zhouxx：同年来中海油的同事：“五年前入职培训，培训老师对我们认真地说，给塘沽五年时间，它将变化的你们再也认不出来，当时我这心里想老师真能吹牛，没想到老师说的是真的…”</p>
-<p>@mathwuyue：你不得不说，国内的消防意识是非常落后的。我个人经历，在英美但凡写字楼、宿舍公寓这样人口密集的楼，都有完善的防火门、消防通道、烟雾监测器、报警装置和消防设备，我们也被要求每年要学习一次防火知识。反观我当年在浙大的时候，宿舍楼啥防火装置都没，唯一的防火措施就是大爷上楼挨个没收热得快。</p>
-<p>@hnjhj：以后各种天灾人祸也不要让红十字会出面搞什么捐款了，怪丢人的，也弄不到什么钱。只要出事，相关地区四套班子一把手集体枪毙，没收全部财产。既向人民好歹有个交代，也有足够的钱分给灾民，中央应该还有的赚。</p>
-<p>@林奇视角：记者穷凶极恶地问：此次爆炸事故救援总指挥是谁？天津党组织负责人斩钉截铁的回答：不知道！</p>
-<p>@djionsio：提名大連港取代天津港地位的朋友可能不瞭解，大連港是個非洲港口，即使現在非洲也少見的那種。雖然在世界範圍內大連港都是首屈一指的天然深水良港，而且仰仗東北地區重工業出口，但他們就是能憑着自己的傲嬌、自信和被人稱作傻X的官僚氣質，當年生生地把各大船東都逼退到每年花巨資清淤的天津港。</p>
-<p>@Zannmuling：连说话的权力都没有，还在奢望房子回购。连死了的清单都没有，还在指望安检环评。连炸的是啥都不知道，还在分析各种可能。连法人代表都不说话，还在要求谁谁负责。连死亡人数都不靠谱，还在奢求按价赔偿。 #所谓的草民</p>
-<p>@hnjhj：一觉醒来那么多人都去参加开罗会议了，开罗得赶紧建个人民大会堂。</p>
-<p>@zhouyilu：我一同学暑假回国，开车被追尾，对方态度蛮横，不想赔钱而且威胁不让报警，说上面有人。我同学也不是吃素的，假装打电话把他们的话录下来，他还是加拿大公民，打个电话到加拿大驻中国大使馆，说被人身攻击，寻求保护。公安局火速赶往现场，把双方带走调查，普通的交通事故变成了刑事案件。</p>
-<p>@fecable：今天在会展中心，一个老板说自己的胶水是万能胶水，什么都能粘住。我上前问了一句：“老板，一颗破碎的心能粘住吗？”老板深深地看了我一眼，说：“小伙子，我还要做生意，别闹行吗？”</p>
-<p>@业余教父：我开着车，她坐在副驾上低头玩手机，我们彼此不发一言。最终，我还是忍不住打破了沉默，我转过头问她：“我这样挥之即来，你会不会觉得我很随便？”她愣了一下，淡淡地说：“还好吧……师傅，前面路口左转。”…“好的！”</p>
-<p>@chainkhoo：天若有情天亦老，我为长者续一秒。你一秒来我一秒，众人续命哈不老。</p>
-<p>@laoyang945：今天8月17日，智慧长者寿诞节日，续一秒成万亿倍。值此殊胜日请持清净、广大发心，依基、本、法三门广行善业、谈笑、连任、钦定、支持、怒斥。祈祷、回向世界和平、无有灾厄、众生吉祥安泰、得闻正法、具正念、闷声发财！【智慧长者佛心咒】：荼样 荼辛剖 三木坛思 柰易芜 噯唵 昂格瑞</p>
-<p>@jerrymice：老同学说她们医院除了正规护校出来的护士，还有临时护士，临护又分靠关系进来和招来的，靠关系进来的大都是莆田医院系的富二代，开着奔驰宝马来上班，临时招来的大多是周围城中村土著，但实际干起活来，富二代都能吃苦，为了积累经验回家管理家族医院，土著们大都怕脏嫌累，经常干一天就不来了。</p>
-<p>@Scswga：青年失恋了，低着头悲伤地哭泣。禅师安慰道：「你只不过失去了一个不爱你的人，他却失去了一个深爱他的人。」 女青年抬头擦干泪水：「所以我是幸运的，他才是不幸的，对吗？」禅师一脸愁容：「其实我也没什么恋爱经验，但师太抢走道长的那一晚，我在空间里看到了这句话，觉得说得挺好的。」</p>
-<p>@maylogcom：转：天堂有路你不走，学海无涯苦作舟。 #毫无违和感</p>
-<p>@KevinZL：一天经理找职员面谈。经理：“我真难以想象，我们公司如果没有你，我们的未来将会是什么样。” 职员：“经理，您太看中我了”。 经理：“嗯。不过，从下星期一开始，我想试试。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-8-16/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -955,7 +932,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -965,5 +942,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>

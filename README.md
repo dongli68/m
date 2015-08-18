@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%90%83%E9%A5%AD%E4%B9%9F%E8%A6%81%E5%AE%9E%E5%90%8D%E5%88%B6%EF%BC%9F/" target="cdt-mirror">【图说天朝】吃饭也要实名制？</a>
+</h2>
+<p><p>@谢润良：吃饭也要实名制？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/63142687jw1ev66e0notnj20go0m8754.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/63142687jw1ev66e0notnj20go0m8754.jpg" alt="63142687jw1ev66e0notnj20go0m8754" width="440" height="587"></a></p>
+<p> </p>
+<p>@空气谈：某党已经害怕成这样了。</p>
+<p>@程升亮：要是便衣警察来吃饭，岂不是穿帮啦。</p>
+<p>@食品界姜昆：饭馆自己意淫？还是上级有指示？</p>
+<p>@马晨在北京：吃饭会威胁国家安全吗难道？</p>
+<p>@痴情乐趣：说有，太不像话了；说没有，想恶搞也想不到这招啊！还真不好说是真是假。</p>
+<p>@律师侯一叟：首都北京就是比我们这些地方小城先进，吃饭都能做到实名制，太羡慕你们大城市的生活了[good]。下一步是不是走路也要实名制？</p>
+<p>@heanquan：习总批示：上厕所也必须实名，让恐怖分子无法吃饭拉屎。</p>
+<p>@atomxu：快递公司包括邮政部门都已经不收件了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%90%83%E9%A5%AD%E4%B9%9F%E8%A6%81%E5%AE%9E%E5%90%8D%E5%88%B6%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5/?category=18271" rel="tag">阅兵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E4%BA%AC%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%BC%80%E4%B8%83%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A-%E5%85%B3%E9%94%AE%E9%97%AE%E9%A2%98%E4%BE%9D%E7%84%B6%E6%B2%A1%E8%A7%A3%E7%AD%94/" target="cdt-mirror">新京报｜天津开七场发布会 关键问题依然没解答</a>
 </h2>
 <p><p>昨天，国务院总理李克强来到天津，在天津港瑞海公司危险品仓库特别重大火灾爆炸事故救援指挥部，他主持召开会议，提出“公开透明、权威充分地发布相关信息，及时回应社会关切，让群众第一时间了解实情”等6项要求。</p>
@@ -254,7 +275,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E9%97%AE%E8%B4%A3/?category=18271" rel="tag">政府问责</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E8%B4%A3/?category=18271" rel="tag">问责</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%EF%BD%9C%E5%AA%92%E4%BD%93%E8%BF%BD%E9%97%AE%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%9A%84%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%88%B0%E5%BA%95/" target="cdt-mirror">中国新闻网｜媒体追问：天津爆炸的涉事企业到底什么来头？</a>
 </h2>
@@ -835,22 +856,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E8%90%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%99%84%E8%BF%91%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E5%86%8D%E6%AC%A1%E8%81%9A%E9%9B%86/" target="cdt-mirror">中国经营报｜天津爆炸事故附近小区居民再次聚集请愿要求政府回购危房</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1bdc7bd3c21801c.jpg" alt="1bdc7bd3c21801c" width="440" height="330"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005vnhZYgw1ev4c4uudc9j30sg0lc47c1.jpg" alt="005vnhZYgw1ev4c4uudc9j30sg0lc47c" width="440" height="330"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/968b5721ca21c5f.jpg" alt="968b5721ca21c5f" width="440" height="293"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/f569f0d0c0d948d-1024x682.jpg" alt="f569f0d0c0d948d" width="551" height="367"></p>
-<p>天津爆炸事故附近小区居民再次聚集请愿要求政府回购危房</p>
-<p>@中国经营报：【天津爆炸事故附近小区居民再次聚集请愿要求政府回购危房】今天将召开天津港爆炸事故第七次新闻发布会。此刻，就在美华酒店外，多个小区业主请求政府回购，还有业主下跪。现场有特警、武警排队站在酒店外。本报@记者郝成</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E8%90%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%99%84%E8%BF%91%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E5%86%8D%E6%AC%A1%E8%81%9A%E9%9B%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -862,7 +867,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -872,5 +877,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,179 @@
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%BA%E4%BD%95%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E8%AE%B0%E6%80%A7%E4%B8%8D%E9%9D%A0%E8%B0%B1/" target="cdt-mirror">大象公会 | 为何抗战老兵记性不靠谱</a>
+</h2>
+<p><p><strong>日本老兵的回忆大都准确详实，可作为史料引用，而中国抗战老兵的回忆往往像横店抗日神剧；国民党老兵常会不记得部队番号，而共产党老兵则对部队记忆准确。</strong></p>
+<p>文 | 黄章晋</p>
+<p>今天，陷入感动疲劳的中国人，或许只有老兵能赢得最广泛的感动。但令人遗憾的是，近年被广泛传播报道的老兵水分也不少，譬如曾登上《解放军画报》封面的池炳文，就有人分析认为，他挂满前胸的各式证、章，不少应该是从淘宝买来的。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/9frZS.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/9frZS.jpg" alt="身挂41枚奖章的池炳文被《解放军画报》选为2007年某期杂志的封面人物。但经过细心人士证实，其中17枚勋章并不属于他本人" width="550" height="609"></a><p>身挂41枚奖章的池炳文被《解放军画报》选为2007年某期杂志的封面人物。但经过细心人士证实，其中17枚勋章并不属于他本人</p></div>
+<p>即使货真价实的抗战老兵，在抗战胜利70周年之际被媒体争相采访时，往往也会让人陷入两难困境：一方面，确实需要他们讲述亲身经历唤起社会关注，但令人尴尬的事实是，他们的回忆大都非常不靠谱。</p>
+<p>被称为“松山战役研究第一人”的余戈先生曾这样评价中国老兵和日本老兵回忆：“日本老兵撰述或口述，基本上时间地点准确，记不清的地方可以参考公刊战史修订，也可以在战友会的交流活动中彼此互证，因此可以做史料引用；中国老兵的口述或撰述，基本上是蒙太奇片段，其间偶有莫言笔法，因此更适合写小说或做电视剧。”</p>
+<p><strong>文化与回忆</strong></p>
+<p>除了手撕鬼子略显夸张外，横店抗日神剧并不离奇，很多抗战老兵的经历比横店还传奇：魏X楼老先生13岁参加八路，半年后就用炸药包炸毁一列军火专列，宋X才老先生16岁参加八路，第一仗就在拼刺刀时刺杀了三名日军，谭X老先生甚至在11岁参加游击队的第三天就参加伏击战救出了6名盟军飞行员。</p>
+<p>虽然老兵们真谈到日军战斗力时，都普遍认为远高于中国士兵，但幸存抗战老兵大都亲自消灭过日本兵，甚至不乏四颗子弹就打死三个日军的神枪手，而抗战八年消耗步机枪子弹18亿颗，约计每3700颗杀死一名日军。<strong>（数据来自腾讯专题短史记：多少颗子弹才能打死一名日军）</strong></p>
+<p>人们在传播某些信息时，为引起听者的注意和重视，往往会有意无意强化其数量和程度，通常灾难事故发生时，人们会不自觉倾向于采信更严重的版本。老兵今天才得社会重视，本能会为增加自己的重要性添枝加叶。</p>
+<p>对缺少文化的老人来说，离奇的夸张是常见现象。中国“长寿之乡”多在贫困偏远的少数民族地区，不是因为老寿星们的家乡环境优良生活方式健康，而是因为他们多不识字搞不清自己的年龄，并且地方官员有挖掘宣传本地老寿星的优良传统。一个120多岁的老太太却有六十来岁的儿子，这种情形只会在少数地方反复出现。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/15D5WY.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/15D5WY.jpg" alt="在广西巴马县坡月村，115岁的黄卜新老人是目前长寿村年龄最大的百岁老人，他坐在椅子上，周围摆满了销售品。图片来自腾讯新闻《图话》：广西巴马长寿村" width="550" height="359"></a><p>在广西巴马县坡月村，115岁的黄卜新老人是目前长寿村年龄最大的百岁老人，他坐在椅子上，周围摆满了销售品。图片来自腾讯新闻《图话》：广西巴马长寿村</p></div>
+<p>信息污染也让老兵们的回忆看上去特别离奇。别处听来的、看到的，甚至是脑补想象出来的，很容易会植入记忆。能清楚分清自己脑子里的东西，哪些是事实，哪些只是想象，哪些只是自己希望的“事实”，或对这种区分特别在意，是特殊文化熏陶的结果，中国似乎并无这样的传统。</p>
+<p>抗战期间的中国军队，连排以下多为文盲，他们很难区分事实、传闻、想象。不可靠的回忆，一旦反复叙述，尤其是对媒体吹嘘自己的经历，很容易快速迭代升级，上次捅死一个鬼子，下次就变成两个。说多了自己甚至都会信，并且会不断巩固。</p>
+<p>而当时的日军，士兵普遍完成小学教育，基层军官均受过中学教育，尤其是日军整体上都接受了充分的现代军事教育，不但会养成严格、准确的行为习惯，还培养出理性、缜密的思维方式。另外，日军不但多有日记习惯，很多并非参谋出身的人，也能绘制较准确的地图。</p>
+<p>战争状态下，估算相关数字难度极大。即便是理性著称的古希腊人，他们历史中的波斯侵略军也是动辄百万。缅甸人更不含糊，他们描述古代与中国的战争史中，有一次缅甸方面出动的军队数字高达7200万，中国更是一来就好多亿，光军队里割马草的人就把缅甸军队围了三层。<strong>（出自缅甸官修正史《琉璃宫史》）</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/PFrY1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/PFrY1.jpg" alt="《列奥尼达在温泉关》。温泉关战役是希波战争中的著名战役，据古希腊作家希罗多德描述，希腊城邦斯巴达的国王列奥尼达一世率领300名斯巴达人与波斯222万大军（陆军170万，海军52万）周旋了三天" width="550" height="410"></a><p>《列奥尼达在温泉关》。温泉关战役是希波战争中的著名战役，据古希腊作家希罗多德描述，希腊城邦斯巴达的国王列奥尼达一世率领300名斯巴达人与波斯222万大军（陆军170万，海军52万）周旋了三天</p></div>
+<p>中日文化教育上的巨大落差，会出现对待数字态度上的极大差别。东京审判时，曾有南京大屠杀的亲历者在法庭上证明亲眼目睹上万人被杀，被法庭认为技术上不可信，今天，更夸张的描述依然能出现在报纸上，譬如魏X楼老先生对记者回忆，他在炸毁军列、刀挑两名鬼子后，还参与攻克阳泉兵工厂，缴获日军山炮6000门，俘获3000日军技工。</p>
+<p>但是，日军老兵回忆比中国老兵更准确可信，教育水平高下并不是最决定性的因素。</p>
+<p><strong>集体与记忆</strong></p>
+<p>不少心理学实验证明，在紧张混乱环境下，几乎没人能准确判断和观察发生的事实，战争是最紧张混乱的环境，尤其是战场上的士兵，其观察和记忆必定是破碎而失真的。</p>
+<p>战场上的观察，日本兵并不比中国兵表现得更准确，但日本军队有良好的战史传统。即使日本战败，通过各式各样的战友会，组建修订了不同层级部队的战史。</p>
+<p>这种集体战史，不但完成了上下级单位战史的对接，还可让不同个体的记忆汇集勘验，以拼接方式还原可信的战场态势，一旦确定，便集结出版，形成固化的集体记忆。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/7hX1D.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7hX1D.jpg" alt="图为《战史丛书》，其修纂期间，参与的编纂官、调查官总数逾100人以上，几乎都是参与大战的军人，面谈的当事者超过15000人次，搜罗史料超过20万件，修史时间长达25年" width="440" height="506"></a><p>图为《战史丛书》，其修纂期间，参与的编纂官、调查官总数逾100人以上，几乎都是参与大战的军人，面谈的当事者超过15000人次，搜罗史料超过20万件，修史时间长达25年</p></div>
+<p>中国军队一直缺少良好的战史传统，退伍老兵有各种战友会，但组织松散，主要是联络感情，很少有固化记忆的出版物。</p>
+<p>部队修订的官方战史，往往重政治层面的宣传教育效果，少有真正战史层面的总结梳理，往往很难据以还原战场。即使是发生不久，甚至离部队驻地不远的战斗，具体情形往往也不甚了然。</p>
+<p>譬如1969年8月13日的新疆塔城裕民县铁列克提边防站的中苏武装冲突，官方长期报称的战场地点与实际地点偏离一公里，战斗经过一直模糊不清，后在大批军迷跟进研究后才有准确呈现。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/cZE1i.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/cZE1i.jpg" alt="军迷反复研究后拟出的铁列克提战场位置图" width="425" height="479"></a><p>军迷反复研究后拟出的铁列克提战场位置图</p></div>
+<p>集体记忆的有无，对抗战老兵的回忆有明显影响。共产党一方的抗战老兵，极少出现不记得自己所属部队各级番号的，只要不是嘴滑，把别人经历说成亲历，多能讲出大致的时间地点——虽然相对日军的回忆精度极差。</p>
+<p>而国民党一方的抗战老兵，则由于六十多年忘却身份，经常会有人只记得师级和基层单位番号和军官，大量中间层级的番号被遗忘。由于缺少交流，不太容易出现其他作战单位的详细战斗过程植入自己记忆的情形。</p>
+<p>社科院施爱东博士曾到贵州省习水县土城镇收集红军“四度赤水”的故事，其《口头知识的不确定性——以土城老人讲述的红色故事为例》关于历史个体记忆与集体记忆的对比颇有启发意义。</p>
+<p>当年红军什么装束？ 50岁以下的中年人描述的红军更像电影中的红军——服装整齐，都戴八角帽，上有红五星、70岁左右的老人都说红军是灰布衣服、服装不整齐，80岁以上则说红军穿的是青布衣服，有些老人说是纯粹的黑色，而不是绿色或蓝色。</p>
+<p>但当时发生在附近青杠坡的战斗，虽然土城镇人无一亲历，但描述却出奇的一致：“许多老人随时都能夹叙夹议地讲出一大串，尤其是说道红军为什么会失利时，各个都像是军事分析家，有些老人还会挪用桌上物品当沙盘进行讲解。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/p36du.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/p36du.jpg" alt="青杠坡战役是遵义会议后毛泽东指挥打的第一仗，也是共产党有史以来参战人员“级别”最高的一场战斗" width="450" height="676"></a><p>青杠坡战役是遵义会议后毛泽东指挥打的第一仗，也是共产党有史以来参战人员“级别”最高的一场战斗</p></div>
+<p>他们对这场完全不曾参与的战斗如此全能全知，是因为“只有官方才是战斗故事的权威讲述者。故事权威的单极化以及高频讲述的强化作用，决定了故事具有较强的稳定性。”</p>
+<p>不过，在抗战老兵的回忆是否可信这个问题上，未必与官方权威讲述的版本完全一致就是可信的，哪怕故事有足够多的准确细节。</p>
+<p>譬如1945年2月26日，广东东江纵队一部击毙飞机失事迫降的日本陆军少将安田利喜雄（日方资料显示，安田利喜雄同日阵亡于新加坡，追授中将）。综合各方回忆，当时参战者不过十余人，但今天在媒体上找到能至少四名亲历者，他们描述的细节高度一致，但似乎并不知道对方存在。</p>
+<p>集体记忆未必总是可靠的，张承志在《心灵史》中提到，在哲合忍耶的传说中，满清的官吏的名字都叫作“申兆林”。如果没有文字，甚至会发生最极端的情形：整个重要的历史系统都是植入的外来记忆。</p>
+<p>西藏人坚信格萨尔王是真实存在的历史人物，乃至有根据19世纪的作品将其出生年份确定为公元1027/1038年的。但格萨尔王很大可能是一个西方传入西藏的故事。格萨尔（Gesar）和古罗马皇帝的头衔凯撒(Caesar）非常相似。这个王称后来东传，不但罗马后继者拜占庭帝国使用，跟拜占庭打过交道的突厥人和蒙古人也都先后引入该词。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/XfC8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/XfC8.jpg" alt="格萨尔王的壁画" width="550" height="421"></a><p>格萨尔王的壁画</p></div>
+<p>格萨尔故事的直接来源很可能是八世纪巴克特里亚（Bactria）健陀罗地区的突厥统治者，他们使用的头衔是From Kesar，即罗马凯撒（拉丁语Roma>伊朗语言frōm-hrōm）。这个故事本是罗马凯撒打败阿拉伯军队，在藏族占据拉达克地区后流入西藏，情节不断添加，佛教化，最终藏化为格萨尔王的故事。</p>
+<p>柯尔克孜人的超长史诗《玛纳斯》情况与之相若，靠口耳相传，导致其各版本分歧严重，大多数玛纳斯说唱者能掌握的第一部玛纳斯情节还大致相似，第二第三部也还过得去，但只有极少数会唱的后面几部，个人发挥的成分明显极为浓重。最关键的是，19世纪的版本，玛纳斯还是诺盖人的领袖，20世纪才彻底变成柯尔克孜人。</p>
+<p><strong>失落者的回忆</strong></p>
+<p>抗战老兵中那些人生成功者，回忆当年时，即便添油加醋自我吹嘘，也懂得节制。甚至有些人很少会谈抗战经历，因为他们有更显赫的经历和身份，而且抗战经历对其身份和地位，并非决定性因素。</p>
+<p>回忆时大谈辉煌战绩的老兵，几乎个个生活境遇不良。晚景不佳，往往是他们忍不住自我放大的内在动力，他们更希望引起社会关注、同情，甚至援助和国家补偿。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/158ygv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/158ygv.jpg" alt="南京大学生耗时3个月拍摄的30位抗战老兵敬礼照" width="550" height="308"></a><p>南京大学生耗时3个月拍摄的30位抗战老兵敬礼照</p></div>
+<p>前文提到曾被大量媒体报道过的解放战争、朝鲜战争老兵池炳文，被军迷广泛质疑后，有媒体后续报道提及，池退休时仅为科级干部。即使保守看待他的履历，他退伍后的仕途发展也不算顺利。</p>
+<p>老兵的失落或许在中国更容易发生。</p>
+<p>从拿破仑后，欧美国家逐步形成了一套从伤残军人的抚养、安置，退伍军人的国家保障，到各种退伍军人协会的系统。而中国则对需要援助、救济的退役军人长期实行的是在地的社会化救助。</p>
+<p>虽然幸存的抗战老兵逐渐被纳入国家优抚系统，但并不算优厚，尤其是对国民党老兵来说，一切来得未免太迟。当国家记忆突然开始强调抗战的历史地位时，他们自然会唤起早已忘却的失落。</p>
+<p>那些生命即将终结的老兵，唯一值得一说的经历，就是抗战，无论是主动保家卫国，还是被抓壮丁卷入战争，无论是立过功，还是从未与敌人战场相遇。他们青春岁月离开父母，芒鞋千里转战异乡，用这个国家唯一不缺的血肉之躯来抵挡现代化的敌人，这些当年参战国中最苦难的士兵，能从枪弹中、饥饿疾病中幸存，在生命的最后时光吹吹牛，我们应该同情性地理解。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%BA%E4%BD%95%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E8%AE%B0%E6%80%A7%E4%B8%8D%E9%9D%A0%E8%B0%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BF%86/?category=18271" rel="tag">历史记忆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%99%E4%BA%8B/?category=18271" rel="tag">叙事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5/?category=18271" rel="tag">抗战老兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%85%B5/?category=18271" rel="tag">老兵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8-%E6%B6%88%E9%98%B2%E5%91%98%E4%B9%8B%E6%AE%87/" target="cdt-mirror">纽约时报 | 天津大爆炸 消防员之殇</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/18CHINA-JP-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/18CHINA-JP-articleLarge.jpg" alt="上周六，爆炸现场附近的消防员。至少39人在爆炸中遇难，仍有数十人下落不明。" width="600" height="400"></a><p>上周六，爆炸现场附近的消防员。至少39人在爆炸中遇难，仍有数十人下落不明。</p></div>
+<p>这些年轻的消防员有的刚到刮胡子的年纪，单薄的身形在穿上防护服后显得健壮了一些。上周三晚上，港口城市天津的一座仓库起火，火势不大，他们冲向现场，对等待着他们的危险一无所知。</p>
+<p>最早的报警说一辆汽车着了火。但首批大约60人——他们是天津港集团雇佣的合同制消防员，其中很多人年仅17岁——到达现场时，看到火焰已经扩散到了附近的金属海运集装箱。消防员用水龙头瞄准火焰，打开了水。</p>
+<p>事实证明，这是一个致命的错误。</p>
+<p>约15分钟后，挥发性化学物质遇水时散发出易燃气体，导致了一场席卷整个仓库的爆炸。27岁的杨克凯被震倒在地，燃烧的碎片如雨点般落下。数秒钟后发生另一次爆炸又将他震飞到三米之外。“被冲击波震飞的一刹那，我心里一抖，心想完了，怕是要永远倒在这里了，”杨克凯后来在医院的病床上说。</p>
+<p>他的大部分同事都没有他幸运。</p>
+<p>114名遇难者中至少有39名消防员。这起灾难性的爆炸导致逾700人受伤，令天津遭受重创。至少仍有70人下落不明，其中大多是管理着这座巨大港口的公司自己雇用的消防员。天津是中国最早的三个直辖市之一，也是通往中国东北工业基地的门户。</p>
+<p>这场灾难引发了一些质问：瑞海国际物流公司的这个仓库非法储存了一些极端危险的工业化学品，为什么它与数以千计的不知情居民的住所相隔如此之近？</p>
+<p>爆炸发生五天后，有毒物质在继续闷烧，偶尔发生爆炸，有毒的浓烟滚滚，而官员们仍难以确认其中究竟有哪些物质。</p>
+<p>瑞海的真正所有者也仍旧是一个谜，这让公众越发猜测官方在掩盖真相。有人怀疑，该公司不透明的所有权结构是为了保护一些有权势、有政治背景的人而有意设置的。</p>
+<p>工业事故在中国并不鲜见，每年都有数以千计的生命被它夺去。中国政府统计数据显示，2014年在工作中丧生的人超过6.8万，其中包括去年8月在上海附近的金属抛光厂爆炸事件中遇难的146名工人。</p>
+<p>但据官方新闻媒体报道，至少从1949年迄今，天津这次爆炸是消防员伤亡最惨重的一次。</p>
+<p>近日来，遇难消防员的家人公开表达了自己的悲伤和失望。他们大声进行抗议，有一次在天津一座政府大楼外与警察发生冲突，他们还拿着手写的姓名清单打断了官方新闻发布会。</p>
+<p>他们纷纷质问：为什么自己的儿子、丈夫和兄弟，作为合同制消防员，没有被列入官方的死者和失踪者名单。</p>
+<p>在《中国经营报》上周末发表的一封信中，一个失踪消防员的父亲质问政府为什么无视合同制消防员的困境。信的标题是《烈火爆炸中牺牲的生命谁贵谁贱？》</p>
+<p>这封信后来从该报的网站上删除，但在删除之前已被大量转载。</p>
+<p>上周日，中国总理李克强到达天津，在牺牲的消防员和警察照片前鞠躬致哀。他称他们是“守护者”，然后谈到了合同工的牺牲被忽略的情况。据外交部本周一晚上通过邮件发送给记者的一份讲话记录，李克强说，“他们都是英雄，值得全社会尊敬，要一视同仁给予荣誉，一视同仁做好家属抚恤。”</p>
+<p>但天津港聘请的消防员是否获得过扑灭化学火灾的适当培训，这个问题仍然存在。官员们承认，瑞海存储了至少700吨氰化钠，该公司有运储电石的许可证，这两种高挥发性物质都会在遇水时散发易燃易爆气体。</p>
+<p>在周一的电话采访中，一名合同制消防员说自己和同事们接受过培训。但他承认，他们没有被传授过扑灭不同种类化学火灾的具体方法。</p>
+<p>这名男子拒绝透露自己的名字，他说爆炸当晚他不当班，并说指责他的同事对火焰喷水是不公平的。“没有人告诉他们火灾涉及化学品，”他说。</p>
+<p>他说，他的支队当晚有25人前去扑火，他尚不知道这些人的情况。“我们整个队现在都处于瘫痪状态了，”他说。</p>
+<p>政府应对危机时手足无措，而且留下不少疑点，已经遭到了广泛批评。本周一，官员承认已经在邻近的渤海湾发现了氰化钠痕迹，但他们说，仍然散落在爆炸现场的数以吨计的化学品对周围的居民区没有任何风险。</p>
+<p>但是当地居民对此并不相信，本周一，他们举行集会，要求政府回购他们的住房。</p>
+<p>中国领导人誓言要惩罚这起灾难的责任人，并且罕见地对公众怀疑表示了认可，他们还承诺透明地开展调查。但是在中国，悲惨事故的责任人经常能逍遥法外，因此公众对政府普遍缺乏信任，很多人怀疑政府正在掩盖真相。</p>
+<p>一个公司注册信息网站在爆炸后的数天里暂停了服务。上周日晚上，这个由天津市政府维护的数据库重新上线，但是其中关于瑞海国际物流公司的信息，让人们对其不清不楚的所有权问题产生了新的质疑。</p>
+<p>该公司的条目中列出了一些在中国很少见的细节。它显示了两位股东的身份证号，相当于美国的社会安全号码。两人分别是34岁的李亮和32岁的舒铮。</p>
+<p>在这种不寻常的信息公开的同时，中国一些最强硬、最受尊敬的新闻机构正在对该公司的财务背景展开调查。《南方都市报》的一篇报道采访了舒铮，他表示自己和这家公司一点关系都没有，只是同意以自己的名字为朋友代持股份，但他拒绝透露朋友的名字。像这样的股东在中国很常见，被称为“白手套”，目的是掩盖公司的真实所有权。</p>
+<p>新闻杂志《财经》的另一篇文章报道称，舒铮和李亮并非该公司的真实股东。该杂志援引一名未具名的物流行业内行人士称，真实股东之一是一个叫董蒙蒙（音）的人，他是原天津港公安局局长的儿子。</p>
+<p>对于失踪人员的家属来说，有关该仓储公司真正老板的谜团不会影响他们的痛苦之情。近日来，张宏（音）一直在天津港口医院外举着21岁的儿子的照片。她说自己的儿子雷驰很自豪能够成为一名合同制消防员，即便这份工作的声誉和福利都不及为政府工作的消防员。</p>
+<p>她说 ，“我记得他曾自豪地对我说，‘我记得有一次，他特别自豪和我说，’妈妈，我们这儿的东西和国家消防员的都一样。’”</p>
+<p>然后，她的情绪有些激动，颤抖着说，“我就希望他能在医院里。他如果是重伤也没关系。他只要能在这儿那就行了。”</p>
+<p>杰安迪(Andrew Jacobs)是《纽约时报》驻京记者。</p>
+<p>Michael Forsythe自香港有报道贡献。Vanessa Piao、Kiki Zhao有研究贡献。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8-%E6%B6%88%E9%98%B2%E5%91%98%E4%B9%8B%E6%AE%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8D%E7%9F%A5-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E9%95%BF%E8%80%85%EF%BC%9F%E9%95%BF%E8%80%85%E9%A3%8E%E9%9D%A1%E7%BD%91%E7%BB%9C%E8%83%8C%E5%90%8E%E7%9A%84/" target="cdt-mirror">不知 | 为什么人们怀念长者？长者风靡网络背后的制度难题</a>
+</h2>
+<p><p>长者的生日，从前一天就开始在网上预热。</p>
+<p>昨儿，“长江学者”码码又写了一篇神作《一名老派文艺青年的自我修养》，文章对长者的文艺才华赞赏有加，引发社交网络的热传，此前的神作《一朝天子，一朝逼格》，对比了民国走来的长者、与文革走来的包，当然也被疯传。</p>
+<p>在知乎上，一度出现了“如何看待网上对长者的祝寿行为”的问题（虽然被秒删）。早前，更有一个名为“长者今天死了吗”的微博账号，每天更新一条微博“没有！”的奇葩行径（后被销号）。</p>
+<p>长者被网友们玩儿坏了的同时，其本人被很多人目为1949年以来“最好的leader”。而网友纷纷创作了诸如“垂死病中惊坐起，谈笑风生又一天”、“天若有情天亦老，我为长者续一秒”的诗句来为其“续命”，盼望长者不要过早的离开我们——“长者学”俨然已经成为了“神学”。</p>
+<p>不同的意见当然存在，一个朋友对此异议——“某人上台就是靠关闭World Economy导报，其在任期间固然有其可取之处，但总体来说对中国政治、法治的进步无甚助益，和任何形式的开明都沾不上关系。虽然经济改革得到推动，但主要还是基于邓路线的惯性，其间的许多不当做法给下岗工人和农民还带来了深重的伤害。别的人得十分二十分，不等于一个自己也不及格的政治投机分子就是好人。”</p>
+<p>而“长江学者”码码也曾对我说，其写长者的动机，很大的原因是不喜欢包。这个思路一直贯穿他的写作，最新的神作中也多有暗示，比如这一句：</p>
+<p>（长者）不认为在公开场合放声高歌有失体统，相反他觉得自己向世界展示了中国人性化的一面，中国的leader是一个普通人，而不是一个皇帝。一个略显可笑的leader要比一个骄傲自大、不近人情、自以为是的leader好得多。</p>
+<p>长者本身是一个好的leader吗？石扉客说到了重点，“怀念woha的热潮，是在和包的比较之中自然呈现的，所谓人比人，气死人。不过也没啥可怀念的，过去三十年就是这么一个一蟹不如一蟹的态势。H、Z比J、Z强，J、Z比H、W强，H、W比……”</p>
+<p>造成这种奇葩现象的背后，除了长者个人的多才多艺、且热衷于卖弄才华以外，其在今天竟然能受到网络上一批“自由派”人士的颂扬和怀念，最深层次的原因，我想还是因为“socialist state的接班人难题”，这个难题必然会导致领导人的“荼蘼效应”，以至于“一代不如一代”。</p>
+<p><strong>1949—1976，太祖时代的接班人更换定律</strong></p>
+<p>最高权力的更迭一般有三种模式：世袭制，禅让制，民选制。采取世袭制的国家最稳定，君主专制的前现代国家自不必说，在socialism兄弟里面，古巴的兄弟世袭，朝鲜的父子世袭都比较稳定，当然最稳定的还是父死子继，这一点朝鲜很坚定，没有出现修正主义。</p>
+<p>而一些socialism大国，采取的是禅让制，而禅让制是一种过渡制度，要么回到神授的世袭制，要么进到民选的民主制，不然不确定性极大，而成为内生动荡、最不稳定的接班制度。</p>
+<p>之所以不稳定，最大的原因，还是没有解决权力来源的问题。世袭的国家，大大方方兄终弟及，父死子继，那是因为神授给我的。民选的国家，权力来源于人民，不需多说。而禅让制，权力来源不清不白，可能来自于意识形态，可能来自于民族主义，可能来自于奇里斯玛的个人魅力，也可能因为以上几种因素全都消失，沦为权威合法性真空，而靠经济绩效来填补。</p>
+<p>在吴稼祥先生洞察力还非常敏捷的时候（斯巴达以前），他在台湾出过一本研究政治转型的著作《头对着墙：论大国的民主化》。根据该书的论述，在传统的socialist state，一直存在着“二把手更换定律”（或者叫“接班人更换定律”）——</p>
+<p>即传统socialist state，其第二号人物通常是老大的指定接班人，而作为接班人的老二，会让老大产生强烈的不安全感。<b>老二越有能力，越有权威，就越危险，越会被不断地替换。在太祖时代，二把手从卫黄、彪子替换到小华，即是如此。</b></p>
+<p>而老二的替换，不仅仅是老二本人的替换，而是老二及其集团被整体的替换，这会造成人才的系统流失，亦即逆向淘汰，顺位淘汰。吴稼祥称之为“荼蘼现象”——开到荼靡花事了。花开荼蘼，春天就完了，所以一代不如一代，这是政治治理的不断退化，政治制度的不断衰败。</p>
+<p>在太祖活着的时候，这种“禅让制”是“终身禅让制”，亦即从来没实行过。我们只看见二把手不断地被替换，直到替换到对老大完全不构成任何威胁的人，彻底成为老大的“陪衬人”（左拉语），与此同时，也没有任何权威。老大一死，他便什么也不是了，比如小华。太祖一去，尽管小华拿着“你办事，我放心”的手谕，还是很快就被搞下去了。</p>
+<p><strong>80年代，寡头体制的无规则分权</strong></p>
+<p>一个极权政体发展到极限，如果不因为毫无活力而灭亡，其社会的自由化便会启动，全权政体会变为威权政体，个人独裁政体因为权威极大的老大去世，变成数个权威稍弱“准老大”的寡头政体——八十年代就是如此。</p>
+<p>寡头是若干“寡人”分享最高政治权力的体制。在邓时代早期，至少是四大元老分享最高权力；在核心外围，是颖、真、波、震参与分享。</p>
+<p><b>吴稼祥总结，寡头政体的特征，是无规则分权。无规则，所以混乱，不稳定；而分权，则增加了政治自由和政治活力。</b>八十年代的另一个特征，即是名义最高权威（H、Z）和实际最高权威（D、C）的分离。</p>
+<p>虽然分权了，但权力来源的问题仍然没有解决。所以，所有分享权力的寡头都没有安全感，退居二线的实际最高权威更缺乏安全感，他们要防范人民要回自己的权力，也防范在第一线的名义最高领导人背叛他们。那一年的最终爆发，是元老们“双重忧虑症”（吴稼祥语）的结果。</p>
+<p>最后的结果是，人民没有得到权力，名义最高权威的赵失去了权力，元老们用镇压把权力拿回来，但用力过猛，又年事已高，终于相继去世，无法使用权力了。死神带走了掌握实际权力的元老们，而恰好此时，本来是一个过渡角色的长者（华莱士在与其谈笑风生中也提到了此事），作为本来的名义最高权威，意外捡到了最大的权力，从此实现了名义最高权力与实际最高权力的合一。</p>
+<p>15大是长者确立自己法统与道统合一的时候。在15大上，长者基本完成了组织上一统CCP的工作。外王之后，长者随后几年中则完成了内圣：<b>“三讲”让全党宣誓效忠；打击“邪教”让全民接受唯一精神领袖；“三个代表理论”成为长者“思想”，在思想上成为新任教主。</b></p>
+<p>长者就是在这时候，彻底奠定了自己的历史地位，登上了历史舞台。其后的谈笑风生，都在此后发生。</p>
+<p>而长者的“功绩”，确实更多的还是如一位好友所说，“虽然经济改革得到推动，但主要还是基于邓路线的惯性，其间的许多不当做法给下岗工人和农民还带来了深重的伤害。”而其虽然在爱好、生活方式上非常西化，也热衷于表达自己的西式才艺，但对于政治体制的现代化改革，并没有做出任何实质的努力。</p>
+<p>长者的早年受教育程度为其加分不少，其个人才华，比如一口好英语，比如对文学艺术的热爱，这些，都让他不像一个共产主义领导人，而更像一个自由世界的领导人，但也只是更像而已。</p>
+<p>本质上来说，如果没有邓临死一搏的“谁不改革谁下台”，他的路线很可能就不是继承邓的惯性了，所以好友说他是一个“政治投机者”是恰当的。</p>
+<p><strong>后长者时代，“贤人政治”还是“不断荼蘼”？</strong></p>
+<p>老人们在最高权力的夺回战中耗尽精力，终于同归于尽——死神结束了寡头僭主政体，而其后，一个每隔十年的“任期禅让制”开始了。“终身禅让制”变成了“任期禅让制”，自己主动退休，不是临死再禅让。</p>
+<p>于是长者之后，胡四来了。</p>
+<p>这个任期禅让制在形式上的首度成功实施，还是要归功于邓。除了早在八十年代就一直提的废除终身制以外，他还亲自隔代指定了小四，以保证“废除终身制”的实行。</p>
+<p><b>这样在形式上，比终身制进步多了，类似于萧功秦这样的“新权威主义”学者把其称为“贤人政治”，但在实际上，这种接班制度仍然是政治不稳定的巨大来源。</b></p>
+<p>现在回过头来看，小四的这十年，可谓掣肘甚多，长者才是真正的老大。而小四的十年，被《iSun Affairs》封面称为“胡搞十年”。</p>
+<p>这也是“任期禅让制”在胡时代的最大缺点之一——<b>国家最高领袖虽然好不容易没有被搞下去，按期接班了，但是无法组阁。无法组阁，就无法治国。</b>所以没有自己的班子，十年过去，胡四几乎毫无作为。典型的例子是，刚刚才因为一些迹象被媒体鼓吹“HW新政”，过不多久，小四就要在压力下，公开讲“学朝鲜、学古巴”。</p>
+<p>而胡四外号面瘫，缺乏长者的独特魅力与个人才华，看上去古板生硬，谨小慎微。而实际上，据罗小朋先生在斯巴达之前，写的《党天下的总理难题》一文所记载，小四在当储君之时，为了防止被指控“自由化倾向”，连一本西方的书都不敢读，所以在出访俄罗斯时，被问及读过什么俄国文学时，他想了半天只能说出《卓娅与舒拉的故事》这种惹人发笑的事迹来。</p>
+<p><b>这就是“任期禅让制”的第二大缺点，在担任储君的这五年当中，你什么都不能做，什么都不敢做，浪费时间，也没有足够权威服众。</b>很大程度上，其实这是为了避免接班人权威过大，而触碰接班人更换定律，所必然产生的逻辑结果。在形式的安排上，接班人也从太祖时代的第二号人物，通常排到第五号、第六号人物。</p>
+<p>萧功秦先生认为，“中国将来的民主不会像西方那样，而是会出现贤人政治，十年轮换制度在某种意义上已经有了贤人政治的萌芽。贤人政治加上协商民主，就是中国特色的政治。”</p>
+<p>这是萧功秦在论述包的新权威主义2.0版之后，面对秦晖先生质疑的当面回应，他非常坦诚的放弃“经由新权威主义达到宪政民主”的主张，而是强调“中国特色的社会主义民主”——亦即目前实行的十年轮换的“贤人政治加上协商民主”。</p>
+<p>如果说小四是隔代指定的产物，包是“贤人政治”下的产物，先不论是否是“贤人”，这样十年轮换的接班，真的如萧功秦所说，已经发展成长治久安的制度了吗？</p>
+<p>答案恐怕是否定的。吴思先生在2014年香港书展讲到这一点时，说这种接班制度下，五年一次小动荡，十年一次大动荡。这恐怕才是准确的观察，萧功秦先生不可能不知道，斯巴达之前的几年时间，发生在西红市的那场惊天动地的“选战”。若不是护士长的反水叛逃，如今恐怕中国又是另一番面貌了。当时的歌谣都在唱，“斯巴达，真可怕，老爷都在打群架。输的去休假，赢的当老大。”</p>
+<p>而按照“政治规矩”，包2007年就已经确定是储君了。可是人家不厚就是不服气啊，凭什么？对啊，凭什么啊？政治规矩？</p>
+<p>除却不稳定因素，这样的“贤人轮替”，真的能够选贤任能，还是只能“不断荼蘼”呢？</p>
+<p>在现在的吴稼祥先生看来，答案是肯定的。因为他觉得包简直是最好的领导人。他依然坚定地主张宪政民主，并且认为包一定会走向宪政民主——纪念毛，反宪政，七不讲，打压民间社会，那是包打着左灯向右转；打大V，打压舆论，打压媒体，抬周带鱼花主席，那是宣传部门的长者党羽在抹黑；抓记者抓律师，那也是最高法的长者党羽在抹黑——</p>
+<p>但是现在的吴稼祥先生，看不到他十几年前就已经看到的东西，以至于把一切与他想法不和的官方行为，都理解为政敌对你包的“陷害”。张博树先生认为，吴稼祥没有看到，包“上台后的权力集中化趋势，政府既打击贪腐、又打压民间声音的‘双管齐下’手法，官方掀起的反宪政逆流，迅速上升中的新国家主义和咄咄逼人的外交强势……”</p>
+<p>相比起来，荣剑先生的忧虑则更为痛切，他认为极权体制不会通过威权主义走向宪政，而只会走向法西斯主义。</p>
+<p>在长者当政的时候，吴稼祥先生在《头对着墙：论大国的民主化》一书中就暗示了长者有走向法西斯化的危险。他提到，四个因素会影响一个国家走向法西斯：</p>
+<p>一、是国家实力与威望的上升；</p>
+<p>二、是出现反民主的反动；</p>
+<p>三、国威指数越是接近世界先进水平，越进入世界前几位，对外侵略扩张的可能性越大；</p>
+<p>四、越是后来居上，在历史上受其他强国淩辱越深的大国，对外侵略扩张的可能性越大。</p>
+<p>“在当今世界，完全符合这些条件的国家是少之又少，但千万不要以为一个都没有。”以此看来，从前的吴稼祥先生是何等的睿智啊。</p>
+<p>关于包是不是“贤人”，有多少才干，有多少眼界，有什么样的理想，除了看已经做了什么以外，也推荐马勇先生的《从领导集团知识背景看未来十年中国政治走向》一文，该文提到——</p>
+<p><b>“由于这一代领导人很小就离开了校园，离开了书本，特别是那时最盛行的价值观是‘知识越多越反动’，因而不论这一批年轻人多么爱读书，他们差不多都具有严重的知识缺陷，不知道世界，不能正确地理解世界，所知道的世界是被改铸过的世界，是意识形态重塑的世界，而且具有浓厚的苏俄倾向。”</b></p>
+<p>所以，这不是什么“贤人政治”，而只是“社会主义国家接班人难题”的又一个变体而已。本质上它仍然是高度不稳定的过渡体制，而这种体制除了不稳定，也在不断地产生“荼蘼效益”，领导人注定一代不如一代，而随着国力的增长，他们还不再韬光养晦，而是要“有所作为”，是以蛮横霸道，就暴露无遗了——</p>
+<p>这就是人们为何会如此怀念长者的最大原因之一吧。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8D%E7%9F%A5-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E9%95%BF%E8%80%85%EF%BC%9F%E9%95%BF%E8%80%85%E9%A3%8E%E9%9D%A1%E7%BD%91%E7%BB%9C%E8%83%8C%E5%90%8E%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">接班人制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%90%83%E9%A5%AD%E4%B9%9F%E8%A6%81%E5%AE%9E%E5%90%8D%E5%88%B6%EF%BC%9F/" target="cdt-mirror">【图说天朝】吃饭也要实名制？</a>
 </h2>
 <p><p>@谢润良：吃饭也要实名制？</p>
@@ -774,88 +944,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E5%AE%98%E5%91%98%E6%89%BF%E8%AE%A4%E9%99%8D%E9%9B%A8%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E6%B0%B0%E5%8C%96%E7%89%A9%E9%80%B8%E6%95%A3/" target="cdt-mirror">BBC | 天津爆炸：官员承认降雨可能导致氰化物逸散</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150817030525_tianjin_blast_976x549_xinhua.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150817030525_tianjin_blast_976x549_xinhua.jpg" alt="天津市政府强调泄漏的氰化钠在可控范围内" width="550" height="309"></a></p>
-<p><strong>中国天津滨海新区爆炸事件进入第六天，各界继续聚焦700吨氰化钠流向。</strong></p>
-<p>天津市政府星期一（8月17日）召开的最新新闻发布会公布，爆炸死亡人数增加两人至114人，698人受伤住院，失踪人数降至70人。</p>
-<p>环保部门官员说，爆炸现场危险化学品核心区达0.1平方公里，目前已利用沙石和泥土封闭。有关官员强调现场环境监测数据没有造假可能。</p>
-<p>天津市副市长何树山出席了星期一的发布会，是六天以来首次有市级领导现身事故发布会。他强调危化品处置在控制范围内。</p>
-<p>据报道，上百名死者、失踪者家属与受灾群众再次来到发布会会场外请愿，表现激动。</p>
-<p>中国总理李克强星期天首次到现场视察后承诺将彻查爆炸事件，给遇难者家属和历史一个交待。中国最高检察院据报已介入调查。</p>
-<p><strong>降雨恐致新污染</strong></p>
-<p>可能通过空气和水源扩散的剧毒氰化物一直是最近两天媒体和当地市民的关注焦点。</p>
-<p>何树山表示，通过海关和工厂两种渠道对管理层和员工进行了危化品的调查，目前已基本搞清氰化物数量，可以说“90%以上准确”。</p>
-<p>他透露，事故现场氰化物数量在700吨左右，大部分还集中在核心区。</p>
-<p>天津市环保局总工程师包景岭表示，16日零点至24点期间，有一个点位出现氰化氢超标，超标幅度0.08%。废水排放检测点位中，有17个点位出现氰化物，位于警戒区内的3个点位超标，超标最高的达到27.4倍，另两个为4.37和0.96倍。</p>
-<p>何树山在答记者问时确认，星期一傍晚17点到23点天津会出现局部雷阵雨，降雨量5-8毫米。包景岭则透露，由于大量氰化物存在，降雨可能产生新的逸散。</p>
-<p>他说，核心区内还有一些地面没进行清理，降水较大的话可能会产生新的污染逸散，氰化氢溶于水。政府对于对于降雨之后的污染处置已有预案。</p>
-<p>
-</p><p><strong>什么是氰化钠？<a href="http://chinadigitaltimes.net/chinese/files/2015/08/150816041324_cn_sodium_cyanide_976x363_afp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150816041324_cn_sodium_cyanide_976x363_afp.jpg" alt="150816041324_cn_sodium_cyanide_976x363_afp" width="550" height="204"></a></strong></p>
-<p>氰化钠（sodium cyanide）俗称“山埃”，是一种白色的结晶或颗粒状粉末，人体一旦透过食道或呼吸道吸入，会造成身体无法吸收使用氧气，<a href="http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750036.html"> 可迅速致命</a>。</p>
-<p>氰化钠常见于化工生产，用于电镀熏蒸。采矿业也经常利用氰化钠来提取出矿石中的金和银。</p>
-<p>氰化钠可溶于水，也从空气中吸收水分，其粉尘容易被生物透过呼吸吸收。一旦溶于水中或被点燃，会产生剧毒气体——<a href="http://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750038.html"> 氰化氢（hydrogen cyanide）</a>。</p>
-<p>天津爆炸地点</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150813150530_china_blast_624map_chinese.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150813150530_china_blast_624map_chinese.jpg" alt="150813150530_china_blast_624map_chinese" width="550" height="335"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/08/150816031350_china_blast_before_after_624_chinese.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150816031350_china_blast_before_after_624_chinese.jpg" alt="150816031350_china_blast_before_after_624_chinese" width="550" height="699"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%9A%E5%AE%98%E5%91%98%E6%89%BF%E8%AE%A4%E9%99%8D%E9%9B%A8%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E6%B0%B0%E5%8C%96%E7%89%A9%E9%80%B8%E6%95%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E7%89%A9/?category=18271" rel="tag">氰化物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8/?category=18271" rel="tag">爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%A2%86%E5%AF%BC%E8%A7%89%E5%BE%97%E4%BB%96%E7%A1%AE%E5%AE%9E%E5%BE%88%E5%8A%AA%E5%8A%9B%EF%BC%8C%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%99%A8%E5%BA%95/" target="cdt-mirror">【河蟹档案】领导觉得他确实很努力，国家机器底层顶上去</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%9F%B3%E8%BF%B0%E6%80%9D">石述思</a>：作为一个刚刚值完夜班的媒体人，带着双重的伤痛下班，一是无辜死难同胞带来的内心伤痛和一些农民工财产尽失、求告无门的呻吟，二是政府无力的辩解、遮掩和看客丧事变成喜事的无良歌颂。天津港，104条生命，天文数字一般的财产损失，高昂的救援成本，等待着一声真挚的忏悔和道歉。竟连安倍也不如。<br><a href="https://freeweibo.com/weibo/3876291805926294" target="/weibo/387">2015年08月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%AB%A0%E6%96%87%E7%9A%84%E6%96%87%E7%AB%A0">章文的文章</a>：你在网上发条敏感信息，一分钟以后他们就知道；然而，仓库里有些什么危险品、有多少、谁放的、啥时候放的，炸完了好几天还是不知道。用审查言论的力度审查危险品；用搞防火墙的热情防火灾，你国的所有问题都可以迎刃而解。<br><a href="https://freeweibo.com/weibo/3875782478505379" target="/weibo/387">2015年08月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%8E%8B%E6%99%93%E6%B8%94">王晓渔</a>：对于盛世来说，灾难是巨大的污点。但是，盛世轻松地消解了灾难，发明了温情脉脉的灾难美学，灾难的残酷性被救灾的好人好事取代，救灾者成为主角，遇难者成为配角——灾难美学代替了灾难反思。庆典和灾难互相冲突，但是庆典美学和灾难美学并行不悖，这是盛世的美学奇观。<br><a href="https://freeweibo.com/weibo/3850518034418156" target="/weibo/385">2015年06月05日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E4%BB%98%E7%BE%A4">徐付群</a>：一位爆炸后凌晨赶到天津滨海的北京志愿者说：“现场所有物资都是我们买来的，用自己的车运来的，现在红十字会和城管要联合执法，抢走我们的物资纳入红十字会名下，强行算作我们捐给红十字会。” <a href="http://t.cn/RLrLwtP" target="_BLANK">http://t.cn/RLrLwtP</a> //*<a href="https://freeweibo.com/weibo/%40%E5%B9%B3%E6%B0%91%E5%86%85%E5%8F%82">平民内参</a>：城管这么牛逼啊，应该让天津城管去救火啊。<br><a href="https://freeweibo.com/weibo/3876332955844081" target="/weibo/387">2015年08月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40pixy-%E8%93%89%E5%84%BF">pixy-蓉儿</a>：你的帖删得够快的！[怒][怒] 相关阅读｜《<a href="http://ndapp.oeeee.com/app.php?m=News&a=show&id=41213&from=timeline&isappinstalled=0">南都｜氰化钠暂存量或严重超标 瑞海涉严重违规</a>》；《<a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%91%9E%E7%8E%AF">维基百科：李瑞环</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11137.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11137.jpg" alt="111" width="416" height="739"></a><br><a href="https://freeweibo.com/weibo/3876620601447886" target="/weibo/387">2015年08月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E5%B8%83%E4%BA%BA%E6%9D%91%E5%AF%A8">罗布人村寨</a>：最左为瑞海老板，像谁？相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E7%88%86%E7%82%B8%E9%82%A3%E4%B8%80%E5%A4%9C%EF%BC%8C%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F/">南都｜爆炸那一夜，“瑞海”公司到底发生了什么？</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11120.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11120.jpg" alt="111" width="440" height="308"></a><br><a href="https://freeweibo.com/weibo/3876192790693321" target="/weibo/387">2015年08月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B6%85%E7%B4%9A%E7%A7%91%E6%8A%80%E9%A2%A8">超級科技風</a>：<a href="https://freeweibo.com/weibo/%E5%A4%A9%E6%B4%A5%E5%A1%98%E6%B2%BD%E5%A4%A7%E7%88%86%E7%82%B8">#天津塘沽大爆炸#</a> 这次大爆炸会否也炸掉权力核心？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11121.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11121.jpg" alt="111" width="624" height="351"></a><br><a href="https://freeweibo.com/weibo/3876029749494916" target="/weibo/387">2015年08月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%94--%E5%9C%A8%E4%BC%8F%E7%BE%B2%E5%BA%99%E5%AF%B9%E8%A7%86">五–在伏羲庙对视</a>：天津 终于上街了。相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%99%84%E8%BF%91%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E5%86%8D%E6%AC%A1%E8%81%9A%E9%9B%86/">【图说天朝】天津爆炸事故附近小区居民再次聚集请愿</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11136.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11136.jpg" alt="111" width="406" height="309"></a><br><a href="https://freeweibo.com/weibo/3876527491926110" target="/weibo/387">2015年08月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%A6%8F%E5%BB%BA%E5%A4%B4%E5%8F%B7">福建头号</a>：救援与维稳装备的差距！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11124.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11124.jpg" alt="111" width="460" height="306"></a><br><a href="https://freeweibo.com/weibo/3876119999117375" target="/weibo/387">2015年08月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E4%BA%AC%E6%9D%A8%E5%8D%9A">北京杨博</a>：如果不是谣言就是最大的丑闻。天津，真想把天津变成地狱？如果对死者与生者都不想有个交待，那就是典型的恶政！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11125.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11125.jpg" alt="111" width="448" height="260"></a><br><a href="https://freeweibo.com/weibo/3875874649117271" target="/weibo/387">2015年08月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%88%98%E5%90%8C">刘同</a>：质问比感人更催泪<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11132.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11132.jpg" alt="111" width="426" height="640"></a><br><a href="https://freeweibo.com/weibo/3875490470852188" target="/weibo/387">2015年08月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%8C%AA%E5%93%A5%E8%83%A1%E4%BE%83">猪哥胡侃</a>：有关部门！果然厉害<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11119.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11119.jpg" alt="111" width="601" height="403"></a><br><a href="https://freeweibo.com/weibo/3876392871810473" target="/weibo/387">2015年08月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E5%89%91%E5%86%B0">陈剑冰</a>：一个物理博士的分析<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11123.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11123.jpg" alt="111" width="427" height="759"></a><br><a href="https://freeweibo.com/weibo/3876152022398781" target="/weibo/387">2015年08月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40J%E5%B2%9BAC%E5%A6%B9%E5%AD%90">J岛AC妹子</a>：分享图片<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11129.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11129.jpg" alt="111" width="471" height="297"></a><br><a href="https://freeweibo.com/weibo/3875363182176415" target="/weibo/387">2015年08月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B7%B1%E5%A4%9C%E4%B8%80%E5%8F%AA%E7%8C%AB">深夜一只猫</a>：原来毯星毛泽东没有挤进四巨头合照，只好发单人艺术照。相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80">维基百科：开罗宣言</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11127.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11127.jpg" alt="111" width="606" height="392"></a><br><a href="https://freeweibo.com/weibo/3875908534026900" target="/weibo/387">2015年08月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%A5%BF%E4%B9%8B%E5%A3%BA%E8%A9%8A">西之壺詊</a>：<a href="https://freeweibo.com/weibo/%E9%96%8B%E7%BE%85%E5%AE%A3%E8%A8%80">#開羅宣言#</a>[哈哈] 誰配的對話？相关阅读｜《<a href="http://news.ifeng.com/a/20150817/44445142_0.shtml">凤凰｜<开罗宣言>电影海报突出毛泽东引争议</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11139.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11139.jpg" alt="111" width="519" height="366"></a><br><a href="https://freeweibo.com/weibo/3876472391769711" target="/weibo/387">2015年08月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B2%88%E5%9D%A4%E8%90%A5%E9%94%80%E7%A0%B4%E5%B1%80">沈坤营销破局</a>：<a href="https://freeweibo.com/weibo/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8">#天津大爆炸#</a>到底死了多少人？这个消防战士发给战友的微信或许可见真实！一个连死亡人数都不敢公布的国家！我真想骂娘！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11131.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11131.jpg" alt="111" width="575" height="360"></a><br><a href="https://freeweibo.com/weibo/3875695049006172" target="/weibo/387">2015年08月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%9F%B3%E6%89%89%E5%AE%A22014">石扉客2014</a>：转一种说法，希望更多的海内外专业人士出来说说。相关阅读｜《<a href="http://www.guokr.com/post/695703/">“化学品爆炸处置的【Burn Down原则】”一个也许可行的谣言</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11135.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11135.jpg" alt="111" width="451" height="350"></a><br><a href="https://freeweibo.com/weibo/3875400322863767" target="/weibo/387">2015年08月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%9D%92%E7%BF%A03%E7%BB%BF%E7%AB%B9">青翠3绿竹</a>：不让说的秘密 还有多少？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11130.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11130.jpg" alt="111" width="440" height="782"></a><br><a href="https://freeweibo.com/weibo/3875729273563490" target="/weibo/387">2015年08月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%90%9B%E8%BE%BE%E4%B9%90%E7%9A%84%E6%85%A2%E5%85%88%E7%94%9F">君达乐的慢先生</a>：都是炮灰，都是血泪，都是废话。相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2015/08/150817_tianjin_blast_day6">BBC｜天津爆炸：官员承认降雨可能导致氰化物逸散</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11134.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11134.jpg" alt="111" width="405" height="1632"></a><br><a href="https://freeweibo.com/weibo/3875389586082089" target="/weibo/387">2015年08月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%89%E6%99%89%E5%85%AC%E6%B0%91">三晉公民</a>：【北京突发】今天傍晚，北京什刹海荷花市场门口，有数十人集体服农药自杀，现场留下十余个敌敌畏药瓶，警方随即封锁现场，救护车随后赶到将中毒人员拉走，目前原因不明。相关阅读｜《<a href="http://www.rfa.org/mandarin/Xinwen/8-08152015160219.html">RFA｜数人在北京什刹海服毒原因不明</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11122.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11122.jpg" alt="111" width="480" height="320"></a><br><a href="https://freeweibo.com/weibo/3876234456622809" target="/weibo/387">2015年08月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%91%E7%BB%B4">郑维</a>：SPAM [作揖]祝长者生快！//*<a href="https://freeweibo.com/weibo/%40%E9%AB%98%E5%9D%82%E5%B0%8F%E7%81%AB%E9%BE%8D">高坂小火龍</a>：今天是我们伟大的长者的生日，让我们祝他生日快乐。相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E6%B1%9F%E6%B3%BD%E6%B0%91">维基百科：江泽民</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11138.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11138.jpg" alt="111" width="480" height="640"></a><br><a href="https://freeweibo.com/weibo/3876603798994552" target="/weibo/387">2015年08月16日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%A2%86%E5%AF%BC%E8%A7%89%E5%BE%97%E4%BB%96%E7%A1%AE%E5%AE%9E%E5%BE%88%E5%8A%AA%E5%8A%9B%EF%BC%8C%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%99%A8%E5%BA%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/8-12%E7%81%AB%E7%81%BE%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85/?category=18271" rel="tag">“8.12”火灾爆炸事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/burn-down-%E5%8E%9F%E5%88%99/?category=18271" rel="tag">burn down 原则</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%91%E6%8F%B4/?category=18271" rel="tag">中国式救援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E8%8D%AF%E8%87%AA%E6%9D%80/?category=18271" rel="tag">农药自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%BB%80%E5%88%B9%E6%B5%B7%E8%8D%B7%E8%8A%B1%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">北京什刹海荷花市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%AA%E8%9C%82/?category=18271" rel="tag">只蜂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">国家机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A1%98%E6%B2%BD/?category=18271" rel="tag">塘沽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E6%B8%AF/?category=18271" rel="tag">天津港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80/?category=18271" rel="tag">开罗宣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%B0%8F%E7%87%95/?category=18271" rel="tag">张小燕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%9B%AF%E5%BF%83/?category=18271" rel="tag">张雯心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%AB%98%E4%B8%BD/?category=18271" rel="tag">张高丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BA%AE/?category=18271" rel="tag">李亮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%91%9E%E6%B5%B7/?category=18271" rel="tag">李瑞海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%91%9E%E7%8E%AF/?category=18271" rel="tag">李瑞环</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E6%88%98%E5%A3%AB/?category=18271" rel="tag">消防战士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%AE%E7%81%B0/?category=18271" rel="tag">炮灰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">瑞海公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96%E7%BE%8E%E5%AD%A6/?category=18271" rel="tag">盛世美学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A/?category=18271" rel="tag">红十字会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB/?category=18271" rel="tag">网易新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E4%BB%8B%E7%9F%B3/?category=18271" rel="tag">蒋介石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">谣言</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9D%B1%E6%AD%A5%E4%BA%AE%EF%BC%9A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E3%80%8C%E8%AC%A0%E8%A8%80%E3%80%8D%E8%83%8C%E5%BE%8C%E7%9A%84%E7%9C%9F%E7%9B%B8/" target="cdt-mirror">东网｜東步亮：天津大爆炸「謠言」背後的真相</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150816000313338-0816_05411_001_01p.jpg" alt="bkncn-20150816000313338-0816_05411_001_01p" width="550" height="392"></p>
-<p>天津爆炸事故發生之後，人們輕易地便將瑞海國際與各種級別的高官聯繫起來，正是來自於人們在極權體制下的生活經驗。</p>
-<p>天津港危險品倉庫爆炸事故發生之後，有關涉事企業瑞海國際公司背景深厚的傳言甚囂塵上，直指公司法定代表人兼總經理只峰是前天津副市長只升華之子。8月15日上午，天津市委宣傳部副部長在事故第四場發佈會上聲稱，前副市長只升華只有一個女兒，只峰與只升華沒有任何關係。這一有針對性的明確回應，很快讓人們對只峰係只升華之子的懷疑獲得澄清，有關謠傳立即得以止息。</p>
-<p>但是另外兩個傳言還在發酵，都是<a href="http://www.appledaily.com.tw/column/article/77/twapple/20150816/36724827">涉及前國家級領導人和現任中央高官的親友</a>。與只峰是只升華之子的傳言一樣，在真相被揭開之前，後兩個傳言也只能是傳言，未必準確。<br>
-儘管這些都只是傳言，但是它能夠產生並傳播開來，自然一定不是空穴來風，自然一定有它的發生機制和合理性。極權和專制政體下，謠言來自於信息的不透明。每當有大事發生，中共當局不停地捂蓋子、迴避問題、想盡一切辦法將各種信息屏蔽，是人們產生猜測的主要原因。</p>
-<p>爆炸事故發生之後，人們輕易地便將瑞海國際與各種級別的高官聯繫起來，也正是來自於人們在極權體制下的生活經驗。瑞海國際是一家危險品物流和倉儲企業，在天津，這樣的企業只有三家，而另兩家都是國有企業。作爲一家民營企業，瑞海國際能取得這種特種行業的經營許可，如果沒有一般的來頭，幾乎不可能。這正是人們對它產生懷疑的主要原因。</p>
-<p>更重要的是，按照危險品安全管理的規定，像瑞海國際這樣的大型危險化學品倉庫，應該與周邊建築距離至少超過1000米。瑞海國際2013年申請將物流堆場改造成危險化學品集裝箱堆場時，周邊1000米內已有3個入住總人數超過5600人的大型住宅小區，其中最近的一個住宅距離瑞海國際堆場僅600米。這個嚴重違反安監規定的倉庫，是如何通過環境評估、安全評估，得以上馬，並且獲得危化品物流和存儲資質的？它的環評報告風險分析針對起火爆炸的可能性曾做過論證，稱「不會對環境和周邊人員產生顯著影響」，它危化品經營許可疑已過期，卻依然開門迎客。如果這家企業的老闆是一般的老闆，怎麼可能做到？人們有充足的理由懷疑，這個老闆一定非常牛，或者其中一定有「高人」、「貴人」和「官人」相助，或者存在權錢交易、官商勾結等腐敗行爲。</p>
-<p>如果政府當局不對上述情況作出解釋，謠言只會越傳越兇。天津當局聲稱，公安機關正「對在危急時刻散佈謠言者依法進行調查」，「對傳謠者絕不姑息」，有網友指出，如果公權力機關不及時披露、甚至故意隱瞞上述信息，網友同樣有權利要求嚴懲公權力機關及有關官員。</p>
-<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9D%B1%E6%AD%A5%E4%BA%AE%EF%BC%9A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E3%80%8C%E8%AC%A0%E8%A8%80%E3%80%8D%E8%83%8C%E5%BE%8C%E7%9A%84%E7%9C%9F%E7%9B%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -867,7 +955,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -877,5 +965,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>

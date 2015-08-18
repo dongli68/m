@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F%E7%A7%98%E4%B9%A6%E9%95%BF%E5%88%98%E5%85%B4%E8%81%94%E8%A2%AB%E4%BB%A5%E6%B6%89%E5%AB%8C/" target="cdt-mirror">自由亚洲｜中国人权观察秘书长刘兴联被以“涉嫌煽颠罪”批捕</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b5e23b5b9ac04d0f2bdd460e7f5b1f4e.jpg" alt="b5e23b5b9ac04d0f2bdd460e7f5b1f4e" width="549" height="367"></p>
+<p>中国人权观察秘书长刘兴联今年6月19号在海口被以“涉嫌煽颠罪”批捕,他的家人直到星期二才收到当局的批捕通知书。分析人士指出，秦永敏和刘兴联的玫瑰团队一直试图和政府对话，态度温和，即使这样，仍然遭到政府的无情打击。</p>
+<p>据参与网的消息，中国人权观察秘书长、玫瑰团队成员刘兴联，其家属目前已经收到被以”涉嫌动颠覆国家政权罪“批捕的通知书。</p>
+<p>维权人士胡海波在8月18日早上发出信息说：“玫瑰团队，中国人权观察秘书长刘兴联家属已收到刘兴联涉嫌煽动颠覆国家政权罪批捕通知书。”</p>
+<p>刘兴联出生于1955年1月11日，现年60周岁，是一位虔诚的穆斯林，是海南省海口市伊斯兰宗教会会长。</p>
+<p>刘兴联曾经是一名成功的商人，但最近几年开始关注改善和推进中国大陆的基本人权现状，以及为公民的言论、结社、集会自由，少数民族的权利等公共利益奔走呼号。</p>
+<p>2013年初，刘兴联与秦永敏、潘露等人一起创建了以“人权至上、良性互动、全民和解、和平转型”为宗旨的玫瑰团队。</p>
+<p>湖南的维权人士陈女士曾经参加过玫瑰团队，她是这样描述该团队的活动的：</p>
+<p>“玫瑰团队访民较多，我参加之后，不知道他们要干什么，于是就退出了。他们态度温和，主张和政府对话来维护人权，但是这条路行不通。进行对话的前提是有一个对等的地位，没有这个条件，就无法对话。玫瑰团队的领导人现在几乎都被抓了。”</p>
+<p>今年1月9日，民运人士秦永敏和妻子赵素利被武汉国保抓捕，随后被以“最近写文章太多和接受外媒采访”的名义行政拘留十天。但被拘留期满后，秦永敏和妻子赵素利一直被国保软禁，至今没有他们的下落。</p>
+<p>在秦永敏被软禁之后，刘兴联曾代表中国人权观察发文谴责，导致他本人于2015年5月12日被武汉国保绑架，6月19日被以涉嫌“煽动颠覆国家政权罪”逮捕，关押在武汉市第二看守所。</p>
+<p>北京的维权人士胡佳说，秦永敏是中国民运人士的老前辈了，曾经入狱20多年，但是秦永敏和刘兴联领导的玫瑰团队对这个政府抱有不切实际的幻想：</p>
+<p>“秦永敏的团队试图和政府通过对话达成和解，但是奴隶和奴隶主哪里可以对话呢？政府会觉得是多么荒唐可笑！”</p>
+<p>2014年，“玫瑰中国”团队曾经发表了12封给中国国家主席习近平的公开信，呼吁他同中国民众开展政治对话，争取和平的民主转型。根据该组织的年度工作报告，到2014年底，有1900多人签署了这些公开信。</p>
+<p>胡佳说，秦永敏和刘兴联的被捕，他也不感到意外，</p>
+<p>“秦永敏和刘兴联的玫瑰团队已经是非常温和了，我们年轻的一代都会说，怎么还会对共产党抱有这样的幻想呢？即使如此，你还是被中共以煽动颠覆国家政权罪逮捕，共产党不会留给你任何空间，你怎么去和它平等对话呢？”</p>
+<p>胡佳说，目前，中国政府不能容忍任何政治异见：</p>
+<p>“尤其是政治团体和组织，怎样温和也不管用，政府都要把你一棍子打死，以此威慑他人。”</p>
+<p>（记者：高山； 责编：吴晶）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F%E7%A7%98%E4%B9%A6%E9%95%BF%E5%88%98%E5%85%B4%E8%81%94%E8%A2%AB%E4%BB%A5%E6%B6%89%E5%AB%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E5%85%B4%E8%81%94/?category=18271" rel="tag">刘兴联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%8C%E5%8D%83%E5%90%A8%E5%89%A7%E6%AF%92%E5%8D%B1%E5%8C%96%E5%93%81%E4%BD%95%E5%A4%84%E8%A7%85%EF%BC%9F/" target="cdt-mirror">美国之音｜天津爆炸，千吨剧毒危化品何处觅？</a>
+</h2>
+<p><p>天津大爆炸及其影响，揪紧了世人的心弦。爆炸头七，官方宣布遇难者114人。爆炸带来巨大伤亡同时，造成的经济损失或达天文数字，对社会特别是环境的影响、带来的生态灾难，在短期内难以评估。头七除了祭奠死者，读者和社会大众还非常关心，那7百吨氰化钠到底下落如何？更有媒体报道说，天津爆炸现场有3000吨化工危险品。</p>
+<p>天津港8月12日发生相当三级地震当量的大爆炸，到周二为止，官方宣布遇难者为114人，其中60人身份未定，其余44人为消防员/民警，10人为“其他人员”。尚有70人“失联”。</p>
+<p>至于早些时候媒体报道的引起社会广泛关注的爆炸现场存放的700吨氰化钠的下落，天津副市长何树山（在17日新闻发布会上）证实现场确有这个数量的氰化钠。就在一天前16日（周日），北京军区参谋长史鲁泽（在天津滨海爆炸事故第六场新闻发布会上）说，氰化物分布在两个点，初步判断有几百吨，报道援引史的话说：出于安全原因不便透露具体位置。</p>
+<p>氰化钠（NaCN）为剧毒白色结晶颗粒或粉末，易潮解，有微弱的苦杏仁气味。水解后生成另一种剧毒物氰化氢，曾被纳粹用于毒气室的集体大屠杀。搜狐财经（15日）报道，巨量的氰化钠，一个重要用途便是提供给黄金矿公司用于提炼黄金。</p>
+<p>紫金矿业某高管8月15日晚上对《第一财经日报》确认，该公司就使用氰化钠作为提取黄金的方式之一。他说：“这是国际通用的做法”。</p>
+<p>天津港的7百吨氰化钠是河北诚信（有限责任）公司的商品。天津大爆炸次日（13日），该公司就报告，有7百吨氰化钠可能存放在事故核心区（新华社18日）。但北京军区史鲁泽少将在爆炸发生三天后仍语焉不详地说“数百吨”氰化物位置不便相告。</p>
+<p>总理李克强在天津爆炸数天后抵达这个北方大都市直辖市。他说：权威发布跟不上，谣言就会满天飞。李克强这话不是夸大其辞危言耸听。中国网管当局（网信办）近日查封了3百多微博微信账号说他们散布有关爆炸的谣言。还有两百多账号被临时冻结。央视援引相关官员的话说，发现造谣生事者当严惩不贷。</p>
+<p>央媒安抚民心推出氰化钠下落调查报告</p>
+<p>8月18日，新华网刊登（8记者署名）长篇调查报道标题是：700吨氰化钠！—-天津危险化学品处理全追踪。报道说，爆炸后第二天，氰化钠所属公司瑞海公司仓库保管员对当局（事故处理工作组）说，装有氰化钠集装箱有30多个，每个集装箱有20多吨氰化钠。氰化钠密封在桶里，每桶重25公斤。天津副市长何树山说，这个数字90%准确。</p>
+<p>报道说，调查进一步明确，爆炸中心就是瑞海公司的堆场。爆炸发生后调查组来到事故核心区，发现堆放危化品的地方，就是爆炸点，“现在已经成了一个深坑”。爆炸两天后（14日），调查人员在距离爆炸点一公里外的轻轨站，发现白色物体散落在地上，经确认为氰化钠。</p>
+<p>那么，有多少氰化钠随着爆炸而飘洒远方或荡然无存？新华社这八名记者的联合报道最终也没有回答这个问题。报道只是援引何树山的话说：到目前为止（17日），“我们已清理出150吨到160吨的氰化钠”。至于剩下的550吨或540吨氰化钠到底下落如何，何树山以及新华社报道并没有进一步交待。</p>
+<p>报道说，当局采取了严密防范措施：划定三圈地毯排查；环保监测严密监控；突进核心防化攻坚；军地联合啃硬骨头。</p>
+<p>同一天（18日）人民网发表报道标题是：氰化物收集处理三公里全覆盖。该报道说，通过地毯式排查，17日傍晚前核心区外围散落的氰化钠基本可全收集。人民网的报道也是由7名记者联合撰写，还参考了新华网的报道。</p>
+<p>人民网的报道引用何树山（17日记者会）的话说，这7百吨氰化钠，“大部分集中在0.1平方公里的事故核心区”。大部分？是个什么概念？6百吨？650吨？如果这个数字属实，那么，剩下的50吨氰化钠到了何处？</p>
+<p>氰化钠找到，隐忧仍未排除</p>
+<p>周二（8月18日）北京青年报（微博）报道，更多疑问是：瑞海公司货场中到底存放了多少危险化学品。报道说，答案是，有3000吨左右。除了已知的700吨氰化钠，还有硝酸铵（主要用途化肥、炸药）800吨、硝酸钾（主要用途化肥、火药、玻璃、火柴）500吨。此外还有二氯甲烷、三氯甲烷、四氯化钛、甲酸、乙酸、氢典酸、甲基磺酸、电石等多种化学品。</p>
+<p>报道援引公安部消防局副局长牛跃光的话说：现场存放的危险化学品3000吨左右。</p>
+<p>报道还说，货场内还有油漆630桶、火柴10吨、硅化钙94吨。</p>
+<p>报道没有说明，这些物品在爆炸之后的位置和现状。</p>
+<p>报道说，货场危化品存放疑违规；危化品存放量和规定不符；存储位置和批复位置相悖。</p>
+<p>天津爆炸和老虎入笼</p>
+<p>同样在周二（18日），中纪委网站公布，长期在天津工作的国家安监总局长杨栋梁被查处。中新社（18日）说，18日当天的天津日报头版还报道，国务委员、公安部长郭声琨17日晚上召开天津抢险救援指挥部会议，杨栋梁还以安监总局局长身份参加。爆炸12日发生后，杨率工作组连夜赶赴现场，参与指挥抢险救灾工作。</p>
+<p>目前还没有报道谈及杨栋梁对事故发生是否负有直接或间接责任。</p>
+<p>杨栋梁河北人，长期在河北和天津工作，曾当过天津联合化学有限公司副总经理、天津经委副主任、主任、副市长。2012年到国家安监总局工作，担任局长和党组书记。杨是中共18届中央委员。</p>
+<p>杨栋梁是天津爆炸事故以来首位落马的部级干部、国务院直属单位一把手。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%EF%BC%8C%E5%8D%83%E5%90%A8%E5%89%A7%E6%AF%92%E5%8D%B1%E5%8C%96%E5%93%81%E4%BD%95%E5%A4%84%E8%A7%85%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%A0%8B%E6%A2%81/?category=18271" rel="tag">杨栋梁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E8%80%83%E9%AA%8C%E6%94%BF%E5%BA%9C%E7%9A%84%E8%83%BD%E5%8A%9B/" target="cdt-mirror">新浪微博｜任志强：考验政府的能力</a>
 </h2>
 <p><p>@任志强：几天前写的天津事件的长微博被领导要求删除了。许多人诫我说别写了。七天过去了，发现许多问题并未及时公布和解决。有些虽然有了消息，但速度太慢，效率太低。看着新闻太让人着急。忍不住又想说几句。唉。又要被人骂没出息了！</p>
@@ -843,75 +912,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%9F%BA%E6%9C%AC%E6%9F%A5%E6%98%8E%EF%BC%9A%E9%87%91%E5%B1%9E%E9%92%A0%E9%81%87/" target="cdt-mirror">腾讯新闻 | 天津爆炸事故原因基本查明：金属钠遇水爆炸</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1000.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1000.jpg" alt="1000" width="550" height="413"></a></p>
-<p>腾讯财经讯 刘利平</p>
-<p>8月17日下午 腾讯财经到达爆炸现场，一位中国核生化救援部队的士兵向腾讯财经透露，8月12日晚爆炸原因基本确认是因仓库内金属钠遇到水后引发爆炸，但截至目前， 爆炸前着火原因仍不明。</p>
-<p>这位人士同时透露，目前数百吨的氰化钠大体位置已经找到，但仍未处置，到达这一位置的道路仍未打通。</p>
-<p>他告诉腾讯财经，这些氰化钠外泄的量相对较小。对于这些氰化钠的处理方案将是转移处理，已泄露的则使用双氧水中和。</p>
-<p>腾讯财经在现场看到，目前进入爆炸核心现场的让仍以防化部队为主，消防部队在外援地带。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%9F%BA%E6%9C%AC%E6%9F%A5%E6%98%8E%EF%BC%9A%E9%87%91%E5%B1%9E%E9%92%A0%E9%81%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8%E5%8E%9F%E5%9B%A0/?category=18271" rel="tag">爆炸原因</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%B1%9E%E9%92%A0/?category=18271" rel="tag">金属钠</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E4%BA%BA%E7%89%A9%E5%91%A8%E5%88%8A-%E5%A1%98%E6%B2%BD%E6%9D%A5%E7%A8%BF%EF%BC%9A%E5%A7%90%E5%A7%90/" target="cdt-mirror">南方人物周刊 | 塘沽来稿：姐姐</a>
-</h2>
-<p><p>8 月 16 日，812 天津爆炸事故第 6 场新闻发布会，终于相对细化地公布了失踪人员的数量和组成：失踪 95 人，其中消防官兵 85 人；失踪人员包括现役 13 人，天津港消防人员 72 人，其他 10 人。一天之前，因为在公开信息中得不到承认，天津港消防人员家属在发布会门前聚集。</p>
-<p>姐姐（塘沽来稿）</p>
-<p>文|奶盖 图|格雷</p>
-<p>去年，18 岁的李长兴从技校中专毕业，但他学习的电气焊专业证书还没下来。赶巧，姐姐李延晓听说天津港要招消防员，便去打听：危不危险？我家就这一个男丁。</p>
-<p>介绍人说，这（工作）就是“幼儿园大班”，给你看孩子的，让孩子练练，干个两三年，不愿意干的时候，也给你培训出来了。大小伙子（干这个），不跟参军一样的吗？</p>
-<p>李家自是欣喜。李长兴的姐夫是土生土长的天津塘沽人，打记事起，二三十年，港口从没发生过灾难。李延晓老家在农村，来塘沽 15 年，明白这个单位有多牛：“一说在哪上班呢？‘港务局消防’！也特别有面子。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/948115083.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/948115083.jpg" alt="948115083" width="400" height="600"></a></p>
-<p>天津港消防支队四大队失联队员杨伟光的母亲在失联名单下方写下：帮我们寻找我们的儿子</p>
-<p>去年夏天，刚成年的李长兴成了“最好的单位”的成员。虽然他们这种合同工，跟队长、指导员这些港务局正式员工待遇标准并不相同，李家也觉得没啥好追究——港务局里，那么多职位都同工不同酬了，你还问啥？</p>
-<p>不过有的事，还是在李延晓心里打结。弟弟说单位有三险，但从来没见过医保卡。姐姐问，为什么呀？弟弟答，不知道，但你受伤了拿着票去能给你报销。除此，李家人也没见过合同或者其他用工证明。</p>
-<p>“他们开工资还是开现金。我说你们（怎么）还发现金呢？他说人家那么多年了都这样。给介绍进去挺不容易的，（再）去人家问工资卡，人家肯定不会给你正确的答案。”李延晓说，“我就也没多想。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4351084238.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4351084238.jpg" alt="4351084238" width="550" height="367"></a></p>
-<p>天津港消防支队四大队失联队员杨伟光</p>
-<p>在天津港公安局消防支队 5 队刚干了一个来月，李长兴开始打退堂鼓：港口离家远。过年不让回家。上网不方便。一帮大老爷们就那么呆着。</p>
-<p>面对弟弟的不情愿，李延晓说：“你怎么这么不识局？”摆出买烟送礼托关系的辛酸史，弟弟也就不反驳了。</p>
-<p>转眼就是一年。弟弟平时的训练是俯卧撑、跑步、练单杠、拎水袋、喷水。李延晓两口子问弟弟：“出过警吗？” 李长兴回答：就两回。一次是有人手机掉沟里了，一次是狗掉水里了。</p>
-<p>“根本没救过火。”李延晓说。</p>
-<p>时间按照幼儿园大班的计划老实地走着。弟弟没再提辞职的茬。上次回家，他只是试探着跟李延晓说：“姐，我看我们那摘菜做饭的挺好，我想看看过几个月转过去做那个。”姐姐应了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2429594287.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2429594287.jpg" alt="2429594287" width="550" height="367"></a></p>
-<p>得知杨伟光失联后，17 名亲友从各地赶来追踪搜寻情况，他们挤在一件客房等待消息</p>
-<p>8 月 12 日晚，李长兴和他所在的天津港公安局消防支队 5 队其他 24 名同伴一起，第一次正式出警火场，也是本次事故第一批到达现场的消防员。至今，只有一个人有了音信——死了。同时出警的还有一队和四队。事故发生第五天，官方发布明确消息称，天津港消防人员 72 人失踪。</p>
-<p>李延晓有个朋友，老公和叔叔都是天津港的消防员。叔叔死了，老公认出来了，家人才去医院把尸体讨要回来。李延晓和其他失联消防员的家属不认识消防队内部人员，不知道问谁。他们只能靠网上媒体发布的碎片消息去拼凑，要么就是挨个医院去跑。</p>
-<p>“我去的任何一个医院，哪个医院都有正规消防队的接待他们的家属，可是任何一个地方都没有接待港务局（消防队）的。”李延晓一急，跟大夫要了一张纸，上书“我想知道东疆第五支队的消息”，留了电话。接着，两位公安制服的领导出现，“满嘴酒味就把我带过去了，告诉我：你不能这样。”</p>
-<p>李晓延争辩：“领导您能给我消息吗？”领导答：“不敢确认。”她继续问：“人家开发区消防支队的为什么有人接待？我们都找不着人问啊！”</p>
-<p>那天晚上回来，李延晓接到两个电话。头个是女人，说侄子也是五队的，下午电话接通了，说他们同去的 25 个人，“一点儿有伤的都没有”，现在“出外勤了”。一会儿又来了个电话，一个男的，也这么说。</p>
-<p>“那一晚上，我们那个放心呐。”</p>
-<p>可是李延晓半夜还是把妹妹叫起来，说觉得不对劲儿。下半夜三点，妹妹又给那个男的回拨了一个电话，“那个男的正在刷牙”，“他又告诉说，你爱信不信，反正我是给你消息了。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4507910699.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4507910699.jpg" alt="4507910699" width="550" height="367"></a></p>
-<p>家属整理的失联编外消防员名单及联络信息</p>
-<p>在市里某医院的重症病房，李延晓看着一个人像弟弟，但无法进去验证，她想到了做 DNA。又是一番交涉。消防支队说，你要得到保税区的认可，否则你私自做了，人家若不给你采尸体 DNA，没用。</p>
-<p>在五队的宿舍，她去取弟弟的用品，看到队员们的手机都在床上充电。她似乎明白了些什么。队员出勤不能带手机。自天津港爆炸事件发生后，李延晓就打不通他的电话。可到了事发第二天下午，电话通了。但始终没人接起。</p>
-<p>李延晓去医院送 DNA 样本。爸爸说，总觉得孩子还活着，要跟着再看看去。李延晓就陪着他一路走到医院。“我心里都明白啊。我就让他糊涂着。”</p>
-<p>在医院，李延晓看到有人公布天津港失联人员，只说有个叫素梅的。她上前去看公布人员手里的条子，发现上面还有乔鹏的名字。乔鹏跟弟弟是一个队的。她问：“为什么不公布乔鹏的名字？”得到的回答是：“这个不太清楚。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4629222228.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4629222228.jpg" alt="4629222228" width="550" height="367"></a></p>
-<p>8 月 15 日，失联编外消防员家属在 812 事故新闻发布会会场外接收媒体采访</p>
-<p>根据《中国新闻周刊》报道，一位天津港公安局内部人士称，“我们有一份内部统计的失联和确认牺牲的人数名单，但没办法说。”</p>
-<p>“这个事已经成事实了，我们能接受。但是我们不接受的是什么呢？他否认有这些人，然后不让我们见尸首。”</p>
-<p>截至目前，乔鹏是五队唯一一个有消息的人。</p>
-<p>李延晓今年 30 岁，看起来精干，说话条理分明，面色坚毅。初见面，会误会她是来采访家属的记者。她说，上了点岁数就喜欢稳定的生活，这也是她当初阻止弟弟辞职的原因。</p>
-<p>“他太小了，可能喜欢外面的世界。”姐姐说，“唯一喜欢的就是他那手机。”在描述弟弟的工作时，她哭了。</p>
-<p>“对不住孩子。”她说。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%97%E6%96%B9%E4%BA%BA%E7%89%A9%E5%91%A8%E5%88%8A-%E5%A1%98%E6%B2%BD%E6%9D%A5%E7%A8%BF%EF%BC%9A%E5%A7%90%E5%A7%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E5%90%8C%E5%B7%A5/?category=18271" rel="tag">合同工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E5%A4%96%E4%BA%BA%E5%91%98/?category=18271" rel="tag">编外人员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -933,5 +933,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E5%90%8C
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
 </table>

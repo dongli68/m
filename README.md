@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31muvsgzi8p1g.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ap4h3iyugwjt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,69 @@
                 <td></td>
                 
         
-        <td><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%A4%BE-%E7%8B%AC%E5%AE%B6%E8%B5%B7%E5%BA%95%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E8%B0%81%E6%98%AF%E7%A5%9E%E7%A7%98%E6%8E%A7%E5%88%B6%E4%BA%BA/" target="cdt-mirror">新华社 | 独家起底瑞海公司:谁是神秘控制人?</a>
+</h2>
+<p><p>编辑注：以下内容来自官方媒体新华社“独家报道”   供多元信息参考</p>
+<p><strong>原标题:失控的“炸药包”——瑞海公司调查</strong></p>
+<p>新华社北京8月19日电（记者牛纪伟、邓中豪、付光宇、李鲲、翟永冠）8月12日，天津东疆保税港区瑞海国际物流有限公司发生火灾爆炸，造成上百人遇难的严重后果。瑞海公司究竟是一家什么样的企业？其高管层是否有所谓“神秘背景”？</p>
+<p>近日，记者独家采访、接触瑞海公司五名核心人物：瑞海公司大股东李亮、董事长于学伟、副董事长董社轩、法人代表兼总经理只峰以及副总经理曹海军。</p>
+<p>通过深入采访，瑞海公司及其管理层的真实面目在抽丝剥茧中逐渐清晰，瑞海公司由一家普通仓库变身危化品仓库的过程日渐浮出水面，而爆炸背后的诸多疑点仍有待解答。</p>
+<p><strong>神秘的股东</strong></p>
+<p>“瑞海公司的老板是谁？”天津滨海大爆炸之后的一周里，人们都在问。</p>
+<p>工商登记信息显示，瑞海公司于2012年11月28日注册成立，注册资本5000万元人民币，股东为李亮、舒铮，法定代表人为李亮。其中李亮持股55％，舒铮持股45％。2015年1月29日，瑞海公司增加注册资本至1亿元人民币，法定代表人变更为只峰。</p>
+<p>李亮、舒铮、只峰，他们三人中谁是瑞海公司的真正老板？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e.jpg" alt="20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e" width="400" height="300"></a></p>
+<p>15日下午，记者在泰达医院住院部见到瑞海公司总经理只峰。只峰12日在爆炸现场受伤，随后被警方控制，记者见到他时正呈昏迷状态。其妻告诉记者，“只峰负责公司日常管理，没有股权，一个月领一万多的工资。公司的实际负责人一个叫于学伟，一个姓董。”</p>
+<p>17日下午，记者在天津市第一看守所见到了被警方控制的瑞海公司大股东李亮。他在爆炸发生后的13日上午五时左右，在天津市市区内被警方控制。见到记者，34岁的李亮显得非常局促。据其介绍，他的家庭很普通，其父亲退休前是天津市东丽区老干部局的科员，他自己也不是瑞海公司真正的大股东。</p>
+<p>“真正的大股东叫于学伟，是我表姐的老公。55％的股份是我替于学伟代持的”。李亮表示，自己“没有开过一次会，没有签过一个字，没有拿过一分钱”。</p>
+<p>采访中，李亮透露，不仅自己的股份是代持的，公司占股45％的股东舒铮也是替人代持股份，真正的股东叫董社轩，是天津港公安局原局长之子。</p>
+<p><strong>17日下午，记者在看守所见到已被警方控制的董社轩。今年34岁的董社轩告诉记者，他是瑞海公司的二股东，通过高中同学舒铮持有公司45％的股份。</strong></p>
+<p><strong>董社轩说，其父的确是天津港公安局原局长，父亲在2013年初发现患上肝癌，2014年8月已经去世。“之所以找人代持，是因为我爸在公安局任职，让别人知道了影响不好，而且当时我父亲正在接受组织调查。”董社轩说。</strong></p>
+<p>董社轩告诉记者，“我先后投了1000多万，但并不负责任何具体事务。瑞海公司成立至今也没分过红，我每个月只拿1.5万元的固定工资。爆炸前我本来就已经打算退股了，今年春节期间公司聚会，喝完酒，我跟于学伟谈过一次，闹得很不愉快。他说，别着急，今年年底就能分红，结果还没分红就发生了爆炸。”</p>
+<p>采访中，曹海军也说：“公司真正的老板叫于学伟，董社轩偶尔来开开会，平时很少见他。”</p>
+<p><strong>谁是控制人</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e.jpg" alt="20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e" width="450" height="450"></a></p>
+<p> </p>
+<p>一场惊天动地的爆炸，将瑞海公司的“神秘控制人”从幕后推向了前台。</p>
+<p>记者在天津市第一看守所见到众人口中瑞海公司背后的“神秘控制人”、1974年出生的于学伟。据公安民警介绍，“爆炸事发时，于学伟和家人在河北旅游，接到电话后当晚赶回，未到现场即被控制，对爆炸的严重后果还不清楚。”</p>
+<p><strong>于学伟说，他是瑞海公司的实际控制人，拥有公司55％股份，由妻子的表弟李亮为自己代持。他1994年进入国企中化集团天津分公司工作，2012年9月离职，离职前任中化集团天津分公司副总经理，对危化品行业非常熟悉。</strong></p>
+<p>于学伟说：“我在酒桌上认识的董社轩。他爸是公安局长，他在港口混得开。”2012年末，从中化离职的于学伟找到董社轩，决定利用双方的资源共同创业。</p>
+<p>董社轩说，他2006年从一所军校毕业，此后卖过轮胎、承接过工程、进口过化妆品、卖过红酒。“2012年底，于学伟找到我，说想从中化拉一支队伍单干。他说中化的客户都在他手里，他能拉到中化八九成的客户。”董社轩说。</p>
+<p><strong>据于学伟介绍，2012年11月28日，瑞海公司注册成立，他和董社轩分别找亲戚李亮和同学舒铮代持股份。公司成立后，他从中化集团天津分公司挖来大量人员，瑞海公司的主要管理层：总经理只峰、主管操作部的副总经理曹海军、主管业务部的副总经理刘振国均曾就职于中化集团天津分公司。</strong></p>
+<p><strong>层层“通关”</strong></p>
+<p>从成立一家公司到获得危化品经营资质，瑞海公司用了一年半的时间。</p>
+<p>据了解，瑞海公司成立之初只有普通物流仓库，2014年4月，瑞海公司拿到危化品经营资质。在此之前，瑞海公司陆续通过了消防鉴定、规划审批、安全评价、环境评估等一系列程序，从而获得了从事危化品仓储的资格。</p>
+<p>从程序上看，瑞海公司走过了所有应走的流程，拿到了所有应有的认证。</p>
+<p>记者采访发现，在瑞海公司2013年申请建设危化品仓库时，消防部门出具的意见书显示“该工程的消防设计审核合格”，证明瑞海拿到了消防的鉴定。</p>
+<p><strong>回忆起办消防鉴定的过程，董社轩说：“我的关系主要在公安、消防方面，于学伟的关系主要在安监、港口管理局、海关、海事、环保方面。公司成立时，我去找的天津港公安消防支队负责人，说想做危化品仓储。当时我把天津市化工设计院给设计的改造方案这些材料都拿了过去，很快消防鉴定就办下来了。”</strong></p>
+<p>天津市滨海新区规划和国土资源管理局副局长朱立明说，瑞海公司建设两个危化品仓库符合规划审批依据，拿到了建设工程规划许可证。“关于安全距离，我们审批前参考了消防部门出具的建设工程消防设计审核意见书。”朱立明说。</p>
+<p>记者获得的一份2013年12月10日天津市环境工程评估中心的环评报告显示，瑞海公司拟把物流堆场改造成为一个集装箱堆场，项目建成后危险品货物年周转量2万吨左右。该报告认为，“该项目建设内容符合国家产业政策，选址符合地区总体发展规划……本项目建设具备环境可行性。”环评同样获得通过。</p>
+<p>按照《危险化学品安全管理条例》，国家对危险化学品经营实行许可制度。新建、改建、扩建储存、装卸危险化学品的港口建设项目，由港口行政管理部门按照国务院交通运输主管部门的规定进行安全条件审查。</p>
+<p>天津市安全生产监督管理局副局长高怀友说，瑞海公司取得了全国甲级安全评价机构——天津市中滨海盛安全评价监测有限公司的安全条件审查报告后，相关主管部门根据安评结果对现场及结论进行审查，认为符合相关规定。</p>
+<p><strong>疑点重重</strong></p>
+<p>瑞海公司的惊人事故，或许并非偶然。在层层通关的背后，却也步步存疑。</p>
+<p>——环评民意调查，神奇的“没有反对意见”</p>
+<p>记者获得的瑞海公司“环评报告”显示，环评期间共向周边企业及居民发放130份调查表，回收有效调查表128份，“基本支持和赞同该项目的建设，没有反对意见。”而记者采访中，没有附近居民曾看到这张调查问卷，此前也完全不知道这里是一个危化品仓库。对此，于学伟表示，环评的事他并未参与。</p>
+<p>——换了家安评公司才拿到安评报告</p>
+<p>按照国家安监部门2001年出台的《危险化学品经营企业开业条件和技术要求》，550平方米以上的大中型危险化学品仓库选址应与周围公共建筑物、交通干线（公路、铁路、水路）、工矿企业等距离至少保持1000米。</p>
+<p>记者实地脚步测量发现，万科清水港湾小区与该仓库直线最近距离约为560米，而该仓库与轻轨东海路站距离也仅约630米。</p>
+<p>董社轩表示，“当时做安评时，第一家安评公司说距离居民楼太近，不符合规定，安评做不下来。后来于学伟说别管了，他来弄，后来又换了家安评公司，结果就弄下来了。”不过于学伟却表示，安评的事并不是他具体操办，具体不清楚。</p>
+<p>记者采访发现，外界质疑颇多的安评报告，相关部门至今仍未向社会公开。</p>
+<p>——资质：爆炸前有半年多没有危化品运营资质但仍正常运营</p>
+<p>工商登记信息显示，2014年4月，瑞海公司才首次获得天津市交通部门批复的危化品经营资质，有效期至2014年10月16日。而该公司正式获得港口经营许可证是在2015年6月，也就是说，从2014年10月至2015年6月的8个月中，该公司没有经营危化品的资质。</p>
+<p>于学伟说，公司此前拿到了经营危化品的试运营资质，到2014年10月份到期。公司经营危化品的正式资质是在2015年6月拿到的，此前有大概半年多的时间没有拿到交委的资质，期间公司危化品业务正常进行没受到影响。</p>
+<p>于学伟说：“当时试运营资质到期后，公司没有办延期。一方面觉得正式资质很快就会批下来，另一方面觉得很多其他公司都没办延期，有的拖的时间比半年更长也没人管，就没当回事儿。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%A4%BE-%E7%8B%AC%E5%AE%B6%E8%B5%B7%E5%BA%95%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E8%B0%81%E6%98%AF%E7%A5%9E%E7%A7%98%E6%8E%A7%E5%88%B6%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">瑞海公司</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%85%BE%E8%AE%AF%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B0%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94%EF%BC%9A%E6%9C%AA/" target="cdt-mirror">腾讯｜天津官方回应现场“发现神经性毒气”：未听说</a>
 </h2>
 <p><p>今天上午11时，天津爆炸事故召开第九次新闻发布会。天津港（集团）有限公司总裁郑庆跃出席发布会，这也是事故发生后，天津港领导首次出席新闻发布会。</p>
@@ -49,7 +109,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/?category=18271" rel="tag">神经性毒气</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E7%8E%AF%E5%A2%83%E6%A3%80%E6%B5%8B%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">财新网｜环境检测专家：神经性毒气究竟是什么？</a>
 </h2>
@@ -753,26 +813,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%9C%B0%E8%A1%A8%E6%B0%B4%E5%A4%B1%E6%8E%A7-%E6%AF%92%E8%B4%A8%E8%B6%85%E6%A0%8727-4%E5%80%8D/" target="cdt-mirror">东方日报｜天津警戒区内地表水毒质超标27.4倍</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150817_14398454187269.jpg" alt="20150817_14398454187269" width="450" height="250"></p>
-<p>天津危险品货仓大爆炸肇因仍未查出，但自内地最高检宣布介入调查后，事件进入问责阶段。连日备受舆论压力的天津市当局，昨首派领导出席官方发布会，但表现却遭包括官媒等一众传媒质疑。至于事件死者昨增一百一十四人，失踪人数下调至七十人，仍有近七百人留医。由于当地昨晚及今日均预料降雨，外界担忧化学污染恐随雨水大规模扩散。而市环保局总工程师包景岭指，警戒区内三个地表水监测点的氰化物超标廿七点四倍。</p>
-<p>　　天津官方于爆炸后每日均举行发布会，但市政府及市委领导连日「下落不明」，由宣传部、环境部门官员出席。昨上午举行第七场发布会，分管安全生产的副市长何树山出席，是首次有市领导公开现身，并同时是首次「不删剪」直播传媒提问环节。</p>
-<p>　　何树山会上先表示「深深的自责」，指爆炸发生后，剧毒危险物必须要进行及时清理，「按照指挥部安排」由他本人全权负责，加上危化品数量、种类非常复杂，因此他「这几天未能出席发布会」。据中新社报道，何在会上一度哽咽。</p>
-<p>　　就涉事企业是否违规、仓库选址距民居不远等问题，何表示会给遇难者、受害人及人民一个交代，但当记者追问事发地天津港是否属他辖管，何却叫记者自己去看法律法规。中新社指出，经记者查询，何所说的「法律法规」是指哪一条，「目前并不清楚」。</p>
-<p>　　有传媒问及天津港管理单位「天津港集团」领导为何从未曾现身发布会，何树山将问题推给市委宣传部副部长龚建生回答，龚称正在抓紧安排后，要求「继续提问」，再度打发记者提问。</p>
-<p>　　发布会上除官员表现惹关注，污染情况亦是焦点。市环保局总工程师包景岭指，十七个空气环境检测点位中一个氰化氢超标，超标幅度0.08％，六个废水监测站位中两个氰化物超标，分别超一点二五倍及二点二倍。</p>
-<p>　　另外，警戒区内三个地表水监测点位氰化物超标，其中距爆炸点最近站点更超标廿七点四倍。包景岭又指有记者全程拍摄采样过程，强调没造假可能。国家海洋局则通报，当局昨在天津港海域两个站位检出极微量氰化物，但浓度不影响海洋生态。</p>
-<p>　　此外，内地官媒昨发表评论，称中央对周永康、徐才厚、令计划等「大老虎」都一查到底、公开处理，没必要隐瞒一宗安全事故，不可能「官官相护」，认为外界的疑虑是「多么没有根据、没有必要」。</p>
-<p>　　至于事件死者昨日增至一百一十四人，失踪人数下调至七十人，仍然有近七百人留医。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E5%9C%B0%E8%A1%A8%E6%B0%B4%E5%A4%B1%E6%8E%A7-%E6%AF%92%E8%B4%A8%E8%B6%85%E6%A0%8727-4%E5%80%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E9%97%AE%E8%B4%A3/?category=18271" rel="tag">政府问责</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E8%B4%A3/?category=18271" rel="tag">问责</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -784,7 +824,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dw0vvldd4kf67.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31muvsgzi8p1g.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -794,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/></td>    </tr>
 </table>

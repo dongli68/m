@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1b7nxcmb0xrcs.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d393y0lg1spc0n.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d1851x05i0sm75.cloudfront.net">https://d1851x05i0sm75.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d1851x05i0sm75.cloudfront.net">https://d1851x05i0sm75.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%A7%E7%94%9F%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/" target="cdt-mirror">新华网｜专家：天津港爆炸所谓“神经性毒气”之说属“重大误判”</a>
@@ -279,7 +279,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=18271" rel="tag">CCTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%BD%E5%AE%B6%E5%AE%89%E7%9B%91%E6%80%BB%E5%B1%80%E5%B1%80%E9%95%BF%E8%A2%AB%E8%B0%83%E6%9F%A5-%E6%9B%BE%E9%95%BF%E6%9C%9F%E5%9C%A8%E5%A4%A9%E6%B4%A5/" target="cdt-mirror">纽约时报 | 国家安监总局局长被调查 曾长期在天津工作</a>
 </h2>
@@ -691,7 +691,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">接班人制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%90%83%E9%A5%AD%E4%B9%9F%E8%A6%81%E5%AE%9E%E5%90%8D%E5%88%B6%EF%BC%9F/" target="cdt-mirror">【图说天朝】吃饭也要实名制？</a>
 </h2>
@@ -835,7 +835,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d220lb0e75mu65.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1851x05i0sm75.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -845,5 +845,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d1851x05i0sm75.cloudfront.net">https://d1851x05i0sm75.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1851x05i0sm75.cloudfront.net">https://d1851x05i0sm75.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d220lb0e75mu65.cloudfront.net">https://d220lb0e75mu65.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/></td>    </tr>
 </table>

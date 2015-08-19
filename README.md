@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31muvsgzi8p1g.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dw0vvldd4kf67.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%A4%BE-%E7%8B%AC%E5%AE%B6%E8%B5%B7%E5%BA%95%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E8%B0%81%E6%98%AF%E7%A5%9E%E7%A7%98%E6%8E%A7%E5%88%B6%E4%BA%BA/" target="cdt-mirror">新华社 | 独家起底瑞海公司:谁是神秘控制人?</a>
@@ -206,7 +206,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">双规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E6%80%BB%E5%B1%80/?category=18271" rel="tag">安监总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%B3%E6%B2%B9%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">石油系统</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%80%BE1-5%E4%B8%87%E4%BD%99%E4%BA%BA%E5%9B%A0%E5%8D%B1%E5%AE%B3%E4%BA%92%E8%81%94%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%A2%AB%E6%8A%93/" target="cdt-mirror">德国之声 | 逾1.5万余人因“危害互联网络安全”被抓</a>
 </h2>
@@ -824,7 +824,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dw0vvldd4kf67.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31muvsgzi8p1g.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,25 @@
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%80%BE1-5%E4%B8%87%E4%BD%99%E4%BA%BA%E5%9B%A0%E5%8D%B1%E5%AE%B3%E4%BA%92%E8%81%94%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%A2%AB%E6%8A%93/" target="cdt-mirror">德国之声 | 逾1.5万余人因“危害互联网络安全”被抓</a>
+</h2>
+<p><p>根据中国公安部网站消息，自今年7月，公安部展开为期半年的打击整治网络违法犯罪“净网行动”。截至目前，各地公安机关已侦办网络犯罪案件7400余起，抓获犯罪嫌疑人1.5万余人。</p>
+<p>该部门还表示，下一步，公安机关将继续加大对网络违法犯罪活动的侦查打击力度，集中侦破一批重大案件，摧毁一批网上违法犯罪团伙，处理一批网络违法犯罪分子。</p>
+<p>路透社指出，中国拥有全球最先进的网络审查设备–网络防火长城。</p>
+<p>习近平上台后加大了对互联网的审查力度。</p>
+<p>根据“中新网”的相关报道，各地公安机关指导互联网服务单位清理网上涉枪涉爆、淫秽色情、网络赌博等违法信息19万余条，集中查处违法网站和栏目6.6万余个。</p>
+<p>在 <a href="http://www.dw.com/zh/%E6%8B%85%E5%BF%83%E6%AF%92%E7%89%A9%E9%80%B8%E6%95%A3%E6%88%BF%E5%B1%8B%E5%8F%97%E6%8D%9F%E7%88%86%E7%82%B8%E5%90%8E%E7%9A%84%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA/a-18655936">天津爆炸事故过后</a>，已经有50家网站暂被关闭。国家互联网信息办公室公布了这个消息。这些网站“或随意编发 ‘天津大爆炸死亡人数至少1000人’等谣言，或任由网站用户上传来自微博、微信的相关谣言，制造恐慌情绪，成为谣言的集散地，造成恶劣社会影响，受到网民的谴责和举报。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%80%BE1-5%E4%B8%87%E4%BD%99%E4%BA%BA%E5%9B%A0%E5%8D%B1%E5%AE%B3%E4%BA%92%E8%81%94%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%A2%AB%E6%8A%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A4%B1%E6%95%88/" target="cdt-mirror">德国之声｜德语媒体：“感动中国”的失效</a>
 </h2>
 <p><p>德语媒体周二继续关注天津爆炸。《南德意志报》刊文称，这场灾难对中国的影响深入骨髓，其中一个方面就是领导层惯用的灾难抒情无法再换取人们的感动。</p>
@@ -853,70 +869,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8-%E6%83%8A%E9%AD%8224%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%B8%87%E7%A7%91%E6%B5%B7%E6%B8%AF%E5%9F%8E%E7%9A%84%E9%80%83%E7%94%9F%E6%97%A5%E8%AE%B0/" target="cdt-mirror">牛博山寨 | 惊魂24小时：万科海港城的逃生日记</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150814044950131.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150814044950131.jpg" alt="万科海港城" width="550" height="413"></a></p>
-<p>爆炸后第二个晚上，从开始的恐慌，到中间的冷静，到莫名其妙的充奋，到顽固的坚持，到现在，突然好累好累，累到动都不想动。</p>
-<p>但是还是想写点什么，人生不是总会遇到52颗战斧齐轰，或者一颗战术核弹在不到1000米处轰然而起。</p>
-<p>更重要的是，从小就被教导，出门要小心安全，好像家是安全的，如今，距天安门两个小时的车程的高档小区，到处都是老外和外企的高新开发区，随着两声或者几声轰鸣就变成无人区了，家，真的安全么？一路狂奔回来，看着密布在住宅区里的大型加油站，心里总是各种不安。</p>
-<p>我们住在海港城的最南，爆炸在海港城的最北，与别的楼不同的是，我们正面就是爆炸中心。</p>
-<p>晚上回家快9点了，第二天要回京给孩子打疫苗，正好看见第一个车位没车，本来马上到地库的我在老婆的鼓动下，和要拿很多东西回京的压力下，调转车头，停在了第一个车位。</p>
-<p><strong>教训：</strong></p>
-<p>第二天回家，提前一天把东西装车。要不然事后也不会爬回33层，背着60几斤的东西爬下来，要不然也不会如今腿被撕裂的疼。</p>
-<p>到了屋里，在客厅打开电脑想给老板把下午做好的东西发去，结果儿子不停的出来拍我的电脑。看见远处的火了，发了个朋友圈，远远的看，就像远处一个打火机火苗，很温和也不凶。我说别是什么化工厂吧？别有啥毒气朝过来，就把窗户都关住了。</p>
-<p><strong>经验：</strong></p>
-<p>虽然没啥卵用，但关窗户让我们提前了大概2秒逃生。</p>
-<p>然后继续劝说儿子回去睡觉。等儿子坐在床上了，自己也困了。不过想想，还是给老板把东西发了吧。回到客厅，发现火大了不少，回身喊老婆火大了，出来瞧瞧。老婆好奇，突突的跑来，还没站稳，火光骤然变近，就像远处的一个足球马上飞到眼前。提前关住的窗户一下被冲开。事后看，应该是第一个冲击波之前的小冲击波。</p>
-<p>说时迟那时快……我俩同时转身冲回卧室，抱住被声音吓到的儿子，老婆还不是很慌，问怎么办。我说去卫生间。是的，我那阵没有一点慌乱……因为我是一个从事多年工业灾难预警与控制的咨询专家。其实，也没有什么卵用，因为及应的时间只有不到10秒。</p>
-<p><strong>经验：</strong></p>
-<p>这次逃生最重要最重要的经验是，一定要按时完成老扳交代的任务，当天的事要当天完成：）这不是玩笑，这是救了我们一家人的关键。如果不是想着给老板发信，我肯定看不到火大，也喊不到老婆来看热闹，我们能全身而退是因为我俩看见火大开始躲，而大部分受伤的人是从受到第一个冲击波才躲的。</p>
-<p>到了卫生间，开始巨响了，房子也开始轻轻的晃，老婆慌了，说怎么办怎么办。我也慌了（要不说灾难预警经验没有什么卵用，是人都慌！），但是男人么，就得装。我非常冷静的说，没事没事。躲卫生间是正确的。</p>
-<p>那个时候，次卧和书房的纱窗已经被冲到对面的墙上，砸了一厘米的坑。我们的主卧的门框己经被冲掉，所有背向的窗户全部被冲开。我也不知道为什么，正面对着冲击波的厨房己经被扫荡，厨房和客厅的玻璃隔断己经冲到地上，只有卫生间没有任何事情。</p>
-<p><strong>经验：</strong></p>
-<p>1. 出事往卫生间跑，还是管用。</p>
-<p>2. 房子还是万科的好，毁灭性的冲击波冲击上万人的小区，没有楼倒，我觉得就是开发商的良心。</p>
-<p>3. 男人该装还是要装。老婆事后说在卫生间己经瘫了，听见我喊没事才能坚持住，其实我也害怕。</p>
-<p>楼晃了之后，突然安静了，老婆问我怎么办，我说走。抱着儿子就跑，发现没穿什么衣服，老婆说去拿衣服，我开始满屋乱串，在客厅的时候看见天上掉了个火球砸在旁边的高速路上。随手拿了几个衣服，两个人随便穿点，这时候女人的细腻开始起作用了，老婆喊着拿pad和手机，我又跑回去拿pad和手机。</p>
-<p><strong>经验：</strong></p>
-<p>1. 看见火球让我意识到只有开车一个选择，事后看视频，满天的火球下来，中的必完。</p>
-<p>2. 手机很重要，因为根本不知道发生了什么，跑多远，去哪里，什么都不知道。</p>
-<p>穿点衣服出门，隔壁也出门了，说别走，等电梯。我也是醉了……老婆喊等什么电梯，里面肯定全是人。我事后第二次也是醉了。那家人信了，跟我们从33楼往下冲。楼梯里没有什么光，人很多，满地的尖玻璃碴子。我最害伯的时候到了，我非常害怕路过某个窗口的时候再遇到冲击波，只能尽快走。老婆的侠义精神出现了，打开手机手电，一路喊着</p>
-<p>大家不要慌，顺着我的灯光走，事后证明是完全错误的。</p>
-<p><strong>经验：</strong></p>
-<p>1. 如果后续有爆炸，我们也出不来，事后我回去的时候，每一层逃生楼梯的墙上都密密麻麻嵌着尖刀一样的玻璃。</p>
-<p>2. 粉尘极大的情况下，不要喊，事后老婆噪子剧痛了两天，侠义精神可嘉，不过如果那天冲击波有毒气，估计……</p>
-<p>3. 人人都知道的，不能坐电梯，到了一层发现，他们苦等的电梯己经坠落在一层，门都炸开了。</p>
-<p>出了已经彻底破碎的门，人群再往开阔地跑，我喊老婆往车的方向跑，因为我看见了绝大部分人没看到的火球。但是我也犯错了，第二天回去发现我们跑的路上全是天上落下来的玻璃渣，然而另一条路上也是，没有对的路。</p>
-<p>抱着儿子上车，己经有人群冲出来了，中间夹杂的不少浑身是血的人。</p>
-<p>刚启动车，一个年轻的女人拍车窗，抱着一个孩子，身后站着两个老人一男一女。放下窗，我至今记得她的话，她说，我孩子才11个月大，你能带我们走吗？我开锁，喊上车。她身后的两个老人看她和孩子上车，明显松了一口气，那个年轻女人说，老人也受伤了，你能带上吗，老人看见只剩一个婴儿座椅和副驾了，有点犹豫。我喊着，挤上来，快走。</p>
-<p>我们车在门口，直接就冲出来了。门口全是流血的人在拦车，几乎每个车都是满满的走的。我事后一直在想，当时是不是能多拉几个？但是如果让我重来一次，我仍然会拉上这几个人直接走。因为我出来的时候，整个小区出口被一个拉伤员的车堵了大概一分钟。我记得很清楚，那个司机下来再问有几个人上，他不知道有几千人在我身后的路上，不管是车里还是步行的。非常庆幸后来没有天降火球，不然在那一分钟，有很多人可能就直接没了，就像高架桥上那些烧焦的车里的人一样。</p>
-<p><strong>经验：</strong></p>
-<p>我认为，拉上老弱病残，走的越快越好，因为你的延迟，会伤害更多的人。至于为啥拉那四个陌生的人，不是我道德多高，我一个常年混销售和管理的人没啥道德底线，但是那个女人说她的孩子才11个月，我是无论如何不会丢下她的，因为我的孩子也在车上。</p>
-<p>之后就没啥了，凭借在北京和芝加哥四处乱窜的开车经验，在一片混乱中杀出一条血路，跑了出来。</p>
-<p>把老人送到泰达医院的时候，人还不是很多。放下他俩，那个年轻女人和我说，我老公在外地明天才能回来，今天我就和你俩走了，行么？我说必须行。结果直接到了四星酒店，发现人都在外面看，酒店里黑漆漆的。那个年轻女人的孩子被吓坏了，一直在哭，她和我说，我家是是大港的，要不你们和我去我家吧，你有导航么？我说我们不去了，继续找酒店吧。她说你能帮我拦个车么？我想回大港自己家了。四星酒店门口的人听见了，迅速的拦了一个显然不知道发生了什么的出租车。上车之前，那个女人问你们是哪栋的，回头我们好好谢谢你们。我说了至今觉得挺装的一句话，都是邻居，没啥，事实上，我和北京邻居六年了，我都不知道他家姓啥。</p>
-<p>然后，就是手机时间，我开始害怕，心想离开发区越远越好，就直奔塘沽。结果发现，不是满，就是关门，路上洗浴不少，旅店真心少。找到一点多，在塘沽车站外找了一家。安顿好老婆儿子，开始联系朋友，发现很多人都找不到呢，然后喊来，对吹半天，一回屋，快凌晨四点了。</p>
-<p>七点醒了，老婆让拿的pad开始发挥作用，才知道发生了什么，一琢磨，回家拿东西，回帝都。结果武警封路，只能人过，车不能过。一路走过去，爬上33层，进屋歇一会儿，本来想收拾一下，结果爆炸现场突然火起火灭。一琢磨，保命要紧，背着一堆箱子从楼上连滚带爬的下去了，33层楼，下来用了10分钟。</p>
-<p>睡一觉，下午回帝都，晚上到北京的家。</p>
-<p>从这几天的新闻看，几声之后，一个号称小欧洲的小区瞬间变成了无人区。</p>
-<p>唉，好不容易遇到一个那么完美的住的地方，人少，离生活设施近，管理好，小区内风景好。只是，整个小区都在想着正面的修车场能搬走的时候，后面居然埋了一核战术核弹。</p>
-<p>无以为终，乱写几句吧。</p>
-<p>夜，早己深了。</p>
-<p>人，早己睡了，无声无息。</p>
-<p>两声巨响划破天际，</p>
-<p>满天火球坠入凡间。</p>
-<p>英雄男儿在苦战，</p>
-<p>妇孺老人在四处逃难。</p>
-<p>家，却没了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8-%E6%83%8A%E9%AD%8224%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%B8%87%E7%A7%91%E6%B5%B7%E6%B8%AF%E5%9F%8E%E7%9A%84%E9%80%83%E7%94%9F%E6%97%A5%E8%AE%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91/?category=18271" rel="tag">万科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E6%B8%AF%E5%9F%8E/?category=18271" rel="tag">海港城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%83%E7%94%9F/?category=18271" rel="tag">逃生</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -928,7 +880,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -938,5 +890,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

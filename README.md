@@ -58,7 +58,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=18271" rel="tag">CCTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 20分钟前</small>
+	<small> ============== 25分钟前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%BD%E5%AE%B6%E5%AE%89%E7%9B%91%E6%80%BB%E5%B1%80%E5%B1%80%E9%95%BF%E8%A2%AB%E8%B0%83%E6%9F%A5-%E6%9B%BE%E9%95%BF%E6%9C%9F%E5%9C%A8%E5%A4%A9%E6%B4%A5/" target="cdt-mirror">纽约时报 | 国家安监总局局长被调查 曾长期在天津工作</a>
 </h2>

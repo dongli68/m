@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%B5%8B%E5%87%BA%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94-%E5%8F%AF%E8%87%B4%E5%BF%83/" target="cdt-mirror">中央电视台｜天津爆炸现场测出神经性毒气 可致心脏骤停</a>
@@ -58,7 +58,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=18271" rel="tag">CCTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 30分钟前</small>
+	<small> ============== 1小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9B%BD%E5%AE%B6%E5%AE%89%E7%9B%91%E6%80%BB%E5%B1%80%E5%B1%80%E9%95%BF%E8%A2%AB%E8%B0%83%E6%9F%A5-%E6%9B%BE%E9%95%BF%E6%9C%9F%E5%9C%A8%E5%A4%A9%E6%B4%A5/" target="cdt-mirror">纽约时报 | 国家安监总局局长被调查 曾长期在天津工作</a>
 </h2>

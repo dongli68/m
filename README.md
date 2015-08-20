@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<head>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://<head>">https://<head></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://                    <p data-translate="connection_timed_out">The initial connection between CloudFlare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>">https://                    <p data-translate="connection_timed_out">The initial connection between CloudFlare's network and the origin web server timed out. As a result, the web page can not be displayed.</p></a><br/><a href="https://<div id="cf-wrapper">">https://<div id="cf-wrapper"></a><br/><a href="https://">https://</a><br/></td>    </tr>
+        <td><a href="https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">">https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source"></a><br/><a href="https://</div><!-- /.error-footer -->">https://</div><!-- /.error-footer --></a><br/><a href="https://  <span class="cf-status-label" data-translate="cloud_status_label">Working</span>">https://  <span class="cf-status-label" data-translate="cloud_status_label">Working</span></a><br/><a href="https://            </div>">https://            </div></a><br/><a href="https://<style type="text/css">body{margin:0;padding:0}</style>">https://<style type="text/css">body{margin:0;padding:0}</style></a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%EF%BC%9A%E6%AD%BB%E9%B1%BC%E6%B2%B3%E6%AE%B5%E6%9C%AA%E6%A3%80%E5%87%BA%E6%B0%B0%E5%8C%96/" target="cdt-mirror">凤凰网｜天津环境监测中心：死鱼河段未检出氰化物</a>
@@ -131,7 +131,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【网络民议】天津海河单身鱼溺水群体自杀事件</a>
 </h2>
@@ -739,7 +739,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -749,5 +749,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://">https://</a><br/><a href="https://        <div class="cf-wrapper cf-error-overview">">https://        <div class="cf-wrapper cf-error-overview"></a><br/><a href="https://        <div class="cf-section cf-wrapper">">https://        <div class="cf-section cf-wrapper"></a><br/><a href="https://        </div><!-- /.error-overview -->">https://        </div><!-- /.error-overview --></a><br/><a href="https://">https://</a><br/></td>    </tr>
+        <td><a href="https://<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">">https://<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status "></a><br/><a href="https://    <span class="cf-footer-separator">&bull;</span>">https://    <span class="cf-footer-separator">&bull;</span></a><br/><a href="https://  <div class="cf-icon-error-container">">https://  <div class="cf-icon-error-container"></a><br/><a href="https://</div><!-- /#cf-wrapper -->">https://</div><!-- /#cf-wrapper --></a><br/><a href="https://<!--[if lte IE 9]><script type="text/javascript" src="/cdn-cgi/scripts/jquery.min.js"></script><![endif]-->">https://<!--[if lte IE 9]><script type="text/javascript" src="/cdn-cgi/scripts/jquery.min.js"></script><![endif]--></a><br/></td>    </tr>
 </table>

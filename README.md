@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <i class="cf-icon cf-icon-server"></i>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://                  "
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://    <i class="cf-icon cf-icon-server"></i>">https://    <i class="cf-icon cf-icon-server"></i></a><br/><a href="https://">https://</a><br/><a href="https://<style type="text/css">body{margin:0;padding:0}</style>">https://<style type="text/css">body{margin:0;padding:0}</style></a><br/><a href="https://            <div class="cf-wrapper">">https://            <div class="cf-wrapper"></a><br/><a href="https://                </div>">https://                </div></a><br/></td>    </tr>
+        <td><a href="https://                  ">https://                  </a><br/><a href="https://              <span class="cf-error-type" data-translate="error">Error</span>">https://              <span class="cf-error-type" data-translate="error">Error</span></a><br/><a href="https://    <i class="cf-icon-status cf-icon-ok"></i>">https://    <i class="cf-icon-status cf-icon-ok"></i></a><br/><a href="https://        </div><!-- /.section -->">https://        </div><!-- /.section --></a><br/><a href="https://                </div>">https://                </div></a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【网络民议】天津海河单身鱼溺水群体自杀事件</a>
@@ -754,7 +754,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <i class="cf-icon-status cf-icon-ok"></i>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /></a><br/><a href="https://<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />">https://<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" /></a><br/><a href="https://                    <h2 data-translate="what_happened">What happened?</h2>">https://                    <h2 data-translate="what_happened">What happened?</h2></a><br/><a href="https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->">https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]--></a><br/><a href="https://  </p>">https://  </p></a><br/></td>    </tr>
+        <td><a href="https://    <i class="cf-icon-status cf-icon-ok"></i>">https://    <i class="cf-icon-status cf-icon-ok"></i></a><br/><a href="https://<meta charset="UTF-8" />">https://<meta charset="UTF-8" /></a><br/><a href="https://        <div class="cf-error-footer cf-wrapper">">https://        <div class="cf-error-footer cf-wrapper"></a><br/><a href="https://">https://</a><br/><a href="https://      <h5 data-translate="if_website_owner">If you're the owner of this website:</h5>">https://      <h5 data-translate="if_website_owner">If you're the owner of this website:</h5></a><br/></td>    </tr>
 </table>

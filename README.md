@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ldqeqxedmfj3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【网络民议】天津海河单身鱼溺水群体自杀事件</a>
@@ -300,7 +300,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E4%B8%8D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E6%B8%AF/?category=18271" rel="tag">天津港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9C%A8%E7%84%B6%EF%BC%9A%E5%86%8D%E8%AF%B4%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%AA%92%E5%BC%95%E5%8F%91%E7%9A%84%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3/" target="cdt-mirror">东网｜木然：再说天津官媒引发的次生灾害</a>
 </h2>
@@ -377,7 +377,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%85%B4%E5%9B%BD/?category=18271" rel="tag">黄兴国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E7%A5%9E%E7%BB%8F%E6%AF%92%E6%B0%94%E6%BC%AB%E5%A4%A9%E6%B4%A5/" target="cdt-mirror">东方日报｜神经毒气漫天津</a>
 </h2>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
 </table>

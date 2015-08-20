@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1yrrnty3yw3um.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://da54s5m9p2lg8.cloudfront.net">https://da54s5m9p2lg8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9D%A8%E6%97%B6%E6%97%B8%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%AD%E7%9A%84%E5%BF%97%E6%84%BF%E8%80%85%EF%BC%9F/" target="cdt-mirror">杨时旸：我为什么不喜欢天津大爆炸中的志愿者？</a>
@@ -151,7 +151,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E4%B8%8D%E5%83%8F%E5%85%88%E7%94%9F/?category=18271" rel="tag">四不像先生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">政治讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E5%96%BD%EF%BD%9C%E6%9D%8E%E6%B3%A2%EF%BC%9A%E4%B8%80%E7%AF%87%E7%9F%AD%E6%96%87%E7%9C%8B%E6%87%82%E5%A4%A9%E6%B4%A5%E6%B8%AF%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">墙外楼｜李波：一篇短文看懂天津港事件</a>
 </h2>
@@ -388,7 +388,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/?category=18271" rel="tag">神经性毒气</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%A7%E7%94%9F%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/" target="cdt-mirror">新华网｜专家：天津港爆炸所谓“神经性毒气”属“重大误判”</a>
 </h2>
@@ -407,7 +407,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/?category=18271" rel="tag">神经性毒气</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E6%B0%B4%E6%A0%B7%E6%9C%AC%E6%B0%B0%E5%8C%96%E7%89%A9%E8%B6%85%E6%A0%87277%E5%80%8D/" target="cdt-mirror">自由亚洲｜天津爆炸水样本氰化物超标277倍</a>
 </h2>
@@ -736,7 +736,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://da54s5m9p2lg8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1a76y84uyc9xz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -746,5 +746,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://da54s5m9p2lg8.cloudfront.net">https://da54s5m9p2lg8.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://da54s5m9p2lg8.cloudfront.net">https://da54s5m9p2lg8.cloudfront.net</a><br/></td>    </tr>
 </table>

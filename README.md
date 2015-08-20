@@ -46,7 +46,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8/?category=18271" rel="tag">感动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7%E6%BB%A1%E8%B6%B3/?category=18271" rel="tag">道德满足</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%90%E8%BF%85%E9%9B%B7%EF%BC%9A%E6%96%B0%E9%97%BB%E4%BA%BA%E7%9A%84%E7%AA%81%E7%A0%B4-%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E7%9A%84%E5%AA%92%E4%BD%93%E5%A4%A7%E6%88%98/" target="cdt-mirror">徐迅雷：新闻人的突破 天津大爆炸的媒体大战</a>
 </h2>
@@ -736,7 +736,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dqyjr6v5fkevy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://drttzote0avfh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -746,5 +746,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/></td>    </tr>
 </table>

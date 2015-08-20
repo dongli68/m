@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<meta name="robots" content="noindex, nofollow" />"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">">https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source"></a><br/><a href="https://</div><!-- /.error-footer -->">https://</div><!-- /.error-footer --></a><br/><a href="https://  <span class="cf-status-label" data-translate="cloud_status_label">Working</span>">https://  <span class="cf-status-label" data-translate="cloud_status_label">Working</span></a><br/><a href="https://            </div>">https://            </div></a><br/><a href="https://<style type="text/css">body{margin:0;padding:0}</style>">https://<style type="text/css">body{margin:0;padding:0}</style></a><br/></td>    </tr>
+        <td><a href="https://<meta name="robots" content="noindex, nofollow" />">https://<meta name="robots" content="noindex, nofollow" /></a><br/><a href="<meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Thu, 20-Aug-15 17:03:06 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Thu, 20-Aug-15 17:03:06 GMT; path=/"></a><br/><a href="https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->">https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]--></a><br/><a href="<meta http-equiv="set-cookie" content="cf_ob_info=522:218faa576a210968:DFW; expires=Thu, 20-Aug-15 17:03:06 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_ob_info=522:218faa576a210968:DFW; expires=Thu, 20-Aug-15 17:03:06 GMT; path=/"></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%EF%BC%9A%E6%AD%BB%E9%B1%BC%E6%B2%B3%E6%AE%B5%E6%9C%AA%E6%A3%80%E5%87%BA%E6%B0%B0%E5%8C%96/" target="cdt-mirror">凤凰网｜天津环境监测中心：死鱼河段未检出氰化物</a>
@@ -739,7 +739,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">"
+        <td>免翻墙网页版</td>        <!-- <td><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -749,5 +749,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">">https://<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status "></a><br/><a href="https://    <span class="cf-footer-separator">&bull;</span>">https://    <span class="cf-footer-separator">&bull;</span></a><br/><a href="https://  <div class="cf-icon-error-container">">https://  <div class="cf-icon-error-container"></a><br/><a href="https://</div><!-- /#cf-wrapper -->">https://</div><!-- /#cf-wrapper --></a><br/><a href="https://<!--[if lte IE 9]><script type="text/javascript" src="/cdn-cgi/scripts/jquery.min.js"></script><![endif]-->">https://<!--[if lte IE 9]><script type="text/javascript" src="/cdn-cgi/scripts/jquery.min.js"></script><![endif]--></a><br/></td>    </tr>
+        <td><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></a><br/><a href="https://    <i class="cf-icon-status cf-icon-ok"></i>">https://    <i class="cf-icon-status cf-icon-ok"></i></a><br/><a href="https://">https://</a><br/><a href="https://                    <h2 data-translate="what_happened">What happened?</h2>">https://                    <h2 data-translate="what_happened">What happened?</h2></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>

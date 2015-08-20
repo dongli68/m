@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3gv0gw4vw64rs.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3gv0gw4vw64rs.cloudfront.net">https://d3gv0gw4vw64rs.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d3gv0gw4vw64rs.cloudfront.net">https://d3gv0gw4vw64rs.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%EF%BC%9A%E6%AD%BB%E9%B1%BC%E6%B2%B3%E6%AE%B5%E6%9C%AA%E6%A3%80%E5%87%BA%E6%B0%B0%E5%8C%96/" target="cdt-mirror">凤凰网｜天津环境监测中心：死鱼河段未检出氰化物</a>
@@ -189,7 +189,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%B1%E4%BA%86%E6%B2%A1%E4%BA%8B%E5%B9%B2%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">吃饱了没事干的外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9D%A8%E6%97%B6%E6%97%B8%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%AD%E7%9A%84%E5%BF%97%E6%84%BF%E8%80%85%EF%BC%9F/" target="cdt-mirror">杨时旸：我为什么不喜欢天津大爆炸中的志愿者？</a>
 </h2>
@@ -739,7 +739,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3gv0gw4vw64rs.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -749,5 +749,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://d3gv0gw4vw64rs.cloudfront.net">https://d3gv0gw4vw64rs.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d3gv0gw4vw64rs.cloudfront.net">https://d3gv0gw4vw64rs.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/></td>    </tr>
 </table>

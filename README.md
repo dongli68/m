@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
+        <td>免翻墙网页版</td>        <!-- <td><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://">https://</a><br/><a href="https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3>">https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3></a><br/><a href="https://">https://</a><br/><a href="https://            </h1>">https://            </h1></a><br/><a href="https://            <h2 class="cf-subheadline" data-translate="error_desc">Connection timed out</h2>">https://            <h2 class="cf-subheadline" data-translate="error_desc">Connection timed out</h2></a><br/></td>    </tr>
+        <td><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></a><br/><a href="https://            <div class="cf-columns two">">https://            <div class="cf-columns two"></a><br/><a href="https://">https://</a><br/><a href="https://">https://</a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【网络民议】天津海河单身鱼溺水群体自杀事件</a>
@@ -754,7 +754,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<div id="cf-wrapper">"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->">https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]--></a><br/><a href="https://<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script>">https://<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script></a><br/><a href="https://    <span class="cf-footer-separator">&bull;</span>">https://    <span class="cf-footer-separator">&bull;</span></a><br/><a href="https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">">https://<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source"></a><br/><a href="https://">https://</a><br/></td>    </tr>
+        <td><a href="https://<div id="cf-wrapper">">https://<div id="cf-wrapper"></a><br/><a href="https://        </div><!-- /.status-display -->">https://        </div><!-- /.status-display --></a><br/><a href="https://  <span class="cf-status-desc" data-translate="browser_desc">You</span>">https://  <span class="cf-status-desc" data-translate="browser_desc">You</span></a><br/><a href="https://  <span class="cf-status-label" data-translate="cloud_status_label">Working</span>">https://  <span class="cf-status-label" data-translate="cloud_status_label">Working</span></a><br/><a href="https://<title>m999.greatfire.org | 522: Connection timed out</title>">https://<title>m999.greatfire.org | 522: Connection timed out</title></a><br/></td>    </tr>
 </table>

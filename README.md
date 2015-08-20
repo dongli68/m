@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<body>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <i class="cf-icon cf-icon-browser"></i>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://<body>">https://<body></a><br/><a href="https://">https://</a><br/><a href="<meta http-equiv="set-cookie" content="cf_ob_info=522:218f5277a7c92647:DFW; expires=Thu, 20-Aug-15 16:03:07 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_ob_info=522:218f5277a7c92647:DFW; expires=Thu, 20-Aug-15 16:03:07 GMT; path=/"></a><br/><a href="https://        <div class="cf-section cf-highlight cf-status-display">">https://        <div class="cf-section cf-highlight cf-status-display"></a><br/><a href="https://                    <h2 data-translate="what_can_i_do">What can I do?</h2>">https://                    <h2 data-translate="what_can_i_do">What can I do?</h2></a><br/></td>    </tr>
+        <td><a href="https://    <i class="cf-icon cf-icon-browser"></i>">https://    <i class="cf-icon cf-icon-browser"></i></a><br/><a href="https://    <i class="cf-icon cf-icon-cloud"></i>">https://    <i class="cf-icon cf-icon-cloud"></i></a><br/><a href="<meta http-equiv="set-cookie" content="cf_ob_info=522:218f5277a7c92647:DFW; expires=Thu, 20-Aug-15 16:03:07 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_ob_info=522:218f5277a7c92647:DFW; expires=Thu, 20-Aug-15 16:03:07 GMT; path=/"></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3>">https://  <h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【网络民议】天津海河单身鱼溺水群体自杀事件</a>
@@ -742,7 +742,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">双规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E6%80%BB%E5%B1%80/?category=18271" rel="tag">安监总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%B3%E6%B2%B9%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">石油系统</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -754,7 +754,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://  <span class="cf-status-label" data-translate="browser_status_label">Working</span>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://            <div class="cf-columns two">"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://  <span class="cf-status-label" data-translate="browser_status_label">Working</span>">https://  <span class="cf-status-label" data-translate="browser_status_label">Working</span></a><br/><a href="https://">https://</a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://            </div>">https://            </div></a><br/><a href="https://            </div>">https://            </div></a><br/></td>    </tr>
+        <td><a href="https://            <div class="cf-columns two">">https://            <div class="cf-columns two"></a><br/><a href="https://</div>">https://</div></a><br/><a href="https://</div><!-- /#cf-wrapper -->">https://</div><!-- /#cf-wrapper --></a><br/><a href="<meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Thu, 20-Aug-15 16:03:07 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Thu, 20-Aug-15 16:03:07 GMT; path=/"></a><br/><a href="https://        <div class="cf-section cf-wrapper">">https://        <div class="cf-section cf-wrapper"></a><br/></td>    </tr>
 </table>

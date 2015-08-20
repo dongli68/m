@@ -21,9 +21,181 @@
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d3hpx63hk3slfu.cloudfront.net">https://d3hpx63hk3slfu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3hpx63hk3slfu.cloudfront.net">https://d3hpx63hk3slfu.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E6%88%91%E4%B8%A4%E6%AC%A1%E8%BF%9B%E5%85%A5%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%8B%8D%E4%B8%8B/" target="cdt-mirror">微信｜我两次进入滨海爆炸事故现场拍下照片</a>
+</h2>
+<p><p>我已经不做特稿记者了，这一次的“8·12”滨海爆炸也许是我以后的记者生涯中可以参与报道的最大的一次事故了。我并不是不嫌事大，不要误解，但对于每个记者来说，这都是一个罕见的重大题材。我想尽量留下一点自己还觉得过得去的稿子，不然太过遗憾。8月16日和8月18日，我两次进入核心事故现场。拍了一些照片，有故事要讲，但我更想说的是事发后很多人的各种奇葩嘴脸，脑残都不足以形容他们的愚蠢。我真想破口大骂：傻逼！（总感觉这一篇会被举报）</p>
+<section></section><p>事故发生时我没能第一时间赶到现场，这件事我可能要抱憾终生。</p>
+<p>8月13日，领导指示我在后方接收前方信息，也正因为如此，头几天的所有信息我几乎都掌握，一个问题渐渐浮出，也是外地媒体开始慢慢聚焦的，那就是“编外消防员”和“编外公安民警”的问题。死伤人数没有任何人提及。</p>
+<p>我记得可能是第五场新闻发布会的时候，现场澎湃新闻的记者提出天津港公安局消防支队第一、四、五大队的伤亡情况一直没有通报过，天津市公安消防局局长周天表示，因为这些队伍并不属于市公安消防局管辖，所以他不掌握伤亡情况。</p>
+<p>周天说的倒是实话，第一时间前往现场救火的天津港公安局的民警和天津港公安消防局的消防人员都不属于天津市公安局和天津市公安消防局，他们没有编制，都是合同工，后来就有了“编外”这个说法。</p>
+<p>在这场发布会结束后，记者们发现出不去门了，后来才知道，是“编外”人员的家属冲撞了发布会现场。</p>
+<p>“编外”人员的家属告诉媒体，有编内消防员的失联人员家属联络点，但是编外人员的家属，无人问津。</p>
+<p>现在的新闻报道里总是鼓励年轻人跳出体制外，可是这一次事故后会有多少家长教育孩子：看见了吗？没有编制，牺牲了同命都不同价。</p>
+<p>这真的太不公平了。</p>
+<p>至少有人应该缅怀这些“编外英雄”，告诉外界，他们曾冲在第一线。我想，这是任何一个有良知的人都会想做的事，只是记者有这个条件可以完成，那就是义不容辞的。</p>
+<p>8月16日，我终于有时间可以前往事故现场，我要找的是天津港公安局跃进路派出所和天津港公安局消防支队第四大队。这两个单位是离事故现场最近的，这两个单位的人员是第一时间冲到现场的。</p>
+<p>算是一种巧合吧，8月16日李克强总理也去到了事故现场，并说出了那句瞬间成为各大媒体头条的话：英雄没有“编外”！</p>
+<p>我都替遇难者家属感到宽慰，死去的亲人终于得到正名。</p>
+<p>接下来的照片将向大家讲述，这些“编外”的英雄的生前（许多已遇难）和曾经（有人幸存）。</p>
+<p>有同行问我怎么进的现场，我是不可能有介绍信的，还好我有个内应。</p>
+<p>同事说她的同学认为外地媒体记者隐瞒身份进入了事故现场，这样的新闻不诚实，他们不需要。</p>
+<p>我想说，这一次事故中，有一些天津人的表现真让我觉得“丢人现眼”，这一号的算一类，后面有专门的部分留给他们。</p>
+<p>我搞不到那张盖了张的介绍信，所以不能光明正大地进现场，带着章进现场，腿上就有根链子了。所以我们是以各种其他途径进入现场的，细节脑补吧。</p>
+<p><strong>以下是我8月16日第一次进入现场拍的照片：</strong></p>
+<p>停车场是你们看的最多的场面了对吧。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6465.jpg" alt="6465" width="450" height="306"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6464.jpg" alt="6464" width="450" height="300"></p>
+<p>这些汽车是被爆炸的冲击波掀上去的。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6463.jpg" alt="6463" width="450" height="306"></p>
+<p>现场里的人们很友好，我的呼吸过滤嘴就是消防的小哥给我的，大家不会盘问你是哪来的，怎么进来的，也许大家都太忙了吧。</p>
+<p>这些人是民政局的，他们正在搜寻尸体。我们到达时搜救人员报告说又找到了两具，他们找到多少，官方通报死者人数就会增加多少。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6462.jpg" alt="6462" width="450" height="603"></p>
+<p>我打马赛克的地方就是一具尸体，被压住了，取不出来，右侧被炸开了，肠子裸露，整个人都碳化了，定格在一个姿势，太血腥，不要看了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64611.jpg" alt="6461" width="450" height="587"></p>
+<p>这是到达现场后的一次小爆炸冒出的白烟，我两次进入现场都遇到了小爆炸，毕竟还有易燃易爆品，倒也正常。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6460.jpg" alt="6460" width="450" height="599"></p>
+<p>我并不知道跃进路派出所在哪，第一次进来完全处于转向的状态，其实核心区很小，只是我第一次进入摸不着头脑。</p>
+<p>然后我看到了这辆烧焦的消防车，空气压缩瓶都还没来得及背上，不敢去想当时的情况。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6459.jpg" alt="6459" width="450" height="306"></p>
+<p>现场有很多这样的东西，后来看报道知道可能是检测人员在不明粉末上浇水看反应留下的。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6458.jpg" alt="6458" width="450" height="300"></p>
+<p>这是一颗桃树，就在消防车边。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6457.jpg" alt="6457" width="450" height="603"></p>
+<p>在消防车后身几十米，我不经意地一回头居然看到了它，楼梯上残缺的字还能认出来——跃进路派出所。</p>
+<p>跃进路派出所真的离现场太近了，它离那个核心爆炸点的坑直线距离也就三百来米。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6456.jpg" alt="6456" width="450" height="593"></p>
+<p>我本来想着在外面拍拍就完了，这些楼已经是危楼了，我怕再出事。结果老听楼里有响声，扭头发现同事没了，他居然上楼了，我也就坦然地跟了进去。</p>
+<p>警徽都碎了，剩余部分在地上。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6455.jpg" alt="6455" width="450" height="300"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6409.jpg" alt="640" width="450" height="300"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6419.jpg" alt="641" width="450" height="299"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64210.jpg" alt="642" width="450" height="300"></p>
+<p>这是一间卧室，不知谁住过。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64310.jpg" alt="643" width="450" height="306"></p>
+<p>这是一间办公室。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6452.jpg" alt="645" width="450" height="306"></p>
+<p>内部每一层基本都是这样的。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6466.jpg" alt="646" width="450" height="662"></p>
+<p>这是个会议室，还有荣誉墙。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6447.jpg" alt="6447" width="450" height="306"></p>
+<p>另一间办公室。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6446.jpg" alt="6446" width="450" height="323"></p>
+<p>二楼的楼梯间，落地窗全部炸没了，窗外左前方就是爆炸点的那个湖。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6445.jpg" alt="6445" width="450" height="306"></p>
+<p>二楼楼道的窗户。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6444.jpg" alt="6444" width="450" height="299"></p>
+<p>在现场我最怕看见三样东西，照片、文字和使用过的物品。这一面墙上的人，不知道还有几个活着。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6443.jpg" alt="6443" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6442.jpg" alt="6442" width="450" height="312"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64411.jpg" alt="6441" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6440.jpg" alt="6440" width="450" height="605"></p>
+<p>二楼的一间屋子，看不出是干什么的了，也许也是会议室。墙上写着“献身公安”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6439.jpg" alt="6439" width="450" height="306"></p>
+<p>现场很多地方能看到血迹。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6438.jpg" alt="6438" width="450" height="299"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6437.jpg" alt="6437" width="450" height="306"></p>
+<p>被炸飞了的资料。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6436.jpg" alt="6436" width="450" height="299"></p>
+<p>多熟悉的东西。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6435.jpg" alt="6435" width="450" height="300"></p>
+<p>找到了跃进路派出所，就还剩消防四大队了，我只知道消防四大队离现场也很近。</p>
+<p>跃进路派出所的左前方有一栋楼，我就是抱着看看的心态过去的。</p>
+<p>在楼里我看到了这些，总觉得是在消防队见过。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6434.jpg" alt="6434" width="450" height="306"></p>
+<p>接下来发现了这件衣服，确为消防队员的服装。经核实，这里就是天津港公安局消防支队第四大队的所在地。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6433.jpg" alt="6433" width="450" height="662"></p>
+<p>这是一辆烧毁的消防车。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6432.jpg" alt="6432" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6431.jpg" alt="6431" width="450" height="306"></p>
+<p>从楼外看炸飞了的衣物。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6430.jpg" alt="6430" width="450" height="306"></p>
+<p>消防队外一辆大型挖掘设备，也被炸毁了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6429.jpg" alt="6429" width="450" height="662"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6428.jpg" alt="6428" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6427.jpg" alt="6427" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6426.jpg" alt="6426" width="450" height="306"></p>
+<p>楼梯里的血迹。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6425.jpg" alt="6425" width="450" height="306"></p>
+<p>二楼应该是宿舍区，有很多衣物，蓝色的铁皮可能是炸毁的二层床。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6424.jpg" alt="6424" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6423.jpg" alt="6423" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64211.jpg" alt="6421" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6420.jpg" alt="6420" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6418.jpg" alt="6418" width="450" height="306"></p>
+<p>消防队外废墟里的制式衬衣和警服。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6416.jpg" alt="6416" width="450" height="306"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6417.jpg" alt="6417" width="450" height="306"></p>
+<p><strong>以下是我8月18日进入现场的情况：</strong></p>
+<p>8月17日晚我再次前往现场，这一次我要去找一个叫智群申的人，他是700吨氰化钠的生产企业河北诚信的负责人。</p>
+<p>17号我限号，只能晚7点以后出发。一路都在想去哪找智群申，我没有任何线索，既然媒体说他来天津向指挥部报告了情况，我就先去了位于滨海新区区政府的总指挥部，但现场处置的负责人说不认识这个人。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6415.jpg" alt="6415" width="640" height="864"></p>
+<p>我没有任何办法，只能用最笨的办法，一家一家地找附近的酒店，找到第5家的时候我意识到他可能压根不是用自己的身份证办理的入住，因为附近各个酒店都有消防的包房，负责接待各种事故相关的人。</p>
+<p>我对滨海新区实在不熟悉，幸好有个朋友大晚上12点还给我分析情况，心里非常感激。</p>
+<p>那晚上导航把我玩死了，高德和百度两个导航都在同一个地方出错，愣让我往马路牙子上右拐。</p>
+<p>那晚上有辆车，不停地掉头打转，车里坐着一个无比烦躁的女的，眉头紧锁，一触即炸。那晚有无数个时刻我想开车直奔石家庄，后来考虑明天在现场可能有突破，所以决定不去。</p>
+<p>那一刻心里有点怕，一是夜太深了，马路上几乎没什么人了，二是我不认路，但最大的害怕是我拿不着东西，回去太没脸。</p>
+<p>走之前心里就有点虚，毕竟没有在夜里独自开过高速，还是去一个陌生的地方，想过要不要带个人壮壮胆，后来想算了，大晚上的高速上大货车很多，我这些天缺觉很严重，万一出点什么事还勺上一个，我可就缺了大德了。</p>
+<p>凌晨一点半，在第六家酒店无功而返后，我决定先睡觉。</p>
+<p>8月18日，事故遇难者的头七，我再一次潜入事故现场。</p>
+<p>这一次走的更深入，一位消防的参谋长送了我一套简易防化服，我终于敢进入上一次没能到达的爆炸核心点了。看到了更多触目惊心的画面。</p>
+<p>扭曲的卡车旁边的那辆小车，走近了才发现，是一辆公安的车。</p>
+<p> </p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6414.jpg" alt="6414" width="640" height="474"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6413.jpg" alt="6413" width="640" height="474"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64121.jpg" alt="6412" width="640" height="474"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64111.jpg" alt="6411" width="640" height="474"></p>
+<p>湖边的一辆消防车和一辆卡车。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6410.jpg" alt="6410" width="640" height="474"></p>
+<p> </p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/649.jpg" alt="649" width="640" height="474"></p>
+<p>湖边还有车</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6481.jpg" alt="648" width="640" height="474"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6471.jpg" alt="647" width="640" height="474"></p>
+<p>这就是那个湖，那个炸了以后的大坑形成的湖。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1.jpg" alt="1" width="640" height="474"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6451.jpg" alt="645" width="640" height="474"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6441.jpg" alt="644" width="640" height="474"></p>
+<p> </p>
+<p>北京某防化部队在现场采样，研究现场无害化处理的方案。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/3.jpg" alt="3" width="640" height="864"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4.jpg" alt="4" width="640" height="864"></p>
+<p>这是防化部队安放在现场的空气监测仪，我在的时候一直氨气报警。</p>
+<p>关于这些天事故区域乃至天津城区的天气质量情况，简直是混乱得按下葫芦起了瓢。</p>
+<p>从事故发生后，就人说自己皮肤有异样感，呼吸有异样感，我去现场的当天，事故现场下雨了，于是网上又炸了，有媒体报道说皮肤有灼伤感。</p>
+<p>最可笑的是《焦点访谈》说现场有神经性毒气，今天已经辟谣了，但鉴于专家都已经成了贬义词，依然有人不相信。</p>
+<p>我不能说别人，因为人跟人体质不同，我只能说我自己，第一次进现场，我穿的是半袖，不是我找死，而是天太热，我怕我会中暑。</p>
+<p>第二次进入现场，我穿了防化服，但脸是裸露的，而且说实话，我的呼吸过滤器根本不过关，防化部队的领导反复提醒我，我的装备不行，但我没有能力更换。</p>
+<p>我就这么在现场呆了3个来小时，但我真的什么事都没有。从现场出来以后，我把防化服脱了，所以我也淋雨了，但没有任何问题。</p>
+<p>任何物质的毒性都要建立在剂量的基础上，业内有一句话叫“离开剂量谈毒性都是耍流氓”。</p>
+<p>至于那些离着事故现场好几公里甚至十好几公里的人，我觉得是心理作用在起主要作用，如果真有不适，应该尽快去医院，同时要搞清楚不适是不是污染物引起的。</p>
+<p>不要自己吓唬自己。</p>
+<p>至于氨气报警这事，我一个学医药化学（大概这种专业吧，又懂化学又懂医药，我记不清了）的同学说的最精辟，他说把这仪器放到农村的厕所里，直接就给累没电了。</p>
+<p>氨气有毒，但是要建立在高浓度且长时间呼吸的基础上，人体才会有反应。</p>
+<p>可能我是个活的太糙的人，总之如果现场那么毒，那几百号搜救人员还真是危险了，他们可不是随时穿着防化服的。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5.jpg" alt="5" width="640" height="864"></p>
+<p>那天的结果是我依然没有找到诚信的老总，后来从同行那里要到了他的电话，通了话，依然什么都不说。</p>
+<p>其他媒体的记者也被相同地对待，智群申越来越沉默，我想，事故中应该也有对河北诚信的调查，他可能也很不安了。</p>
+<p><strong>==请某些人闭嘴的分割线==</strong></p>
+<p>这一次事故发生后，一部分天津人的表现让我简直羞于承认我跟他们的籍贯是一个地方。</p>
+<p>最让我不解，也气愤的是，他们那种“大局意识”，那种对外地媒体莫名其妙的敌意。</p>
+<p>外人说，天津是一座没有新闻的城市，我即便想反驳也深深地觉得没有底气。</p>
+<p>在天津采访，无论是一个区及教育局的宣传人员，或者是一个市级三甲医院的宣传人员，又或者只是一个电脑配件的卖场的算不上头目的人，在面对记者采访时都会说一句话：“我觉得这种东西没必要报道，有什么价值？太不利于社会和谐。”语气里的那种傲慢，那种自信，那种没觉得任何不妥的淡定，我以前在任何一个城市采访是没有遇到过的。</p>
+<p>我在深圳采访时，遇到一个街道里的公务员，当时出了一件事，大概是当地一个很有名的民间公益组织的负责人涉嫌猥亵被该组织救助的女童，这名街道公务员对我说，他最讨厌《南方都市报》，因为每天都是负面，带给人的都是负能量，特别不利于社会和谐。</p>
+<p>我当时觉得，这个人真是白活了，怎么会有这种人存在，后来我才发现，这种人原来这么多。</p>
+<p>爆炸发生后，各地的记者蜂拥而来，《新京报》、“澎湃新闻”、《南方都市报》、《财经》、《财新》、腾讯新闻，他们都是国内最优秀的深度报道团队，在国内，这是最豪华的阵容，代表着对这件事的重视程度，他们用自己的专业能力对整件事件抽丝剥茧，让真相一点点显露，我常在想，如果没有这些记者，瑞海的底细会不会这么快被挖出来？董社轩是前天津港公安局长董培军之子的身份会不会这么快披露出来？落马高官的消息会什么时候出现？</p>
+<p>从某一场发布会有记者高喊“只峰是谁”，不用想都知道，这一定是个外地媒体的记者，到下一场发布会官方辟谣只峰不是只升华的儿子，瑞海背后站着的那个人在一轮又一轮的追问中终于浮出水面。</p>
+<p>在某一场新闻发布会上，澎湃的一位女记者提问“天津港公安局消防支队1、4、5中队的伤亡情况”，他们是“合同工”的内情开始被外界广泛知晓。</p>
+<p>李克强总理来天津，说出了那句“英雄没有编外”，瞬间成为各个媒体的头条，我想，这6个字比1万场悼念活动都更能抚慰家属的心灵，但是你知道吗？问出这句话的是一名香港记者，是他拦住了总理发问。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6-576x1024.jpg" alt="6" width="576" height="1024"></p>
+<p>从总理说参加救援的现役和非现役消防人员都受过培训这句话来看，我觉得总理是看到过关于这些编外消防员情况的报道的。在之前的报道中有提及，这些消防员要接受与正规消防员一样的科目训练。</p>
+<p>现场有700吨氰化钠的消息是外地媒体先抛出的，之后在官方那里得到证实。</p>
+<p>今天的新闻发布会上，外地媒体关注了受损房屋的回购问题。</p>
+<p>我认为，整件事件的剖析和追责其实都是由外地媒体完成的，这个外地媒体的范围，涵盖中央级媒体和有巨大影响力的地方媒体、网络媒体。</p>
+<p>所以我不明白，一部分天津人有什么资格和立场会说出“外地媒体在发布会上提尖锐问题是添乱”这种愚蠢之极的话，又是什么样的逻辑思维会说出“外地媒体抹黑天津”这种深度脑残的话。</p>
+<p>他们所有的追问将有利于天津新闻行业的进步，如果监督能多一点，也许不会有今天的局面，用这么多人命买的教训，居然还有人执迷不悟，我只能说这种人已经愚昧到无可救药。</p>
+<p>这些媒体的记者干起活来拼命的程度、采访的热情、专业的水准和思路，根本不是泛泛之辈可以比拟的，对他们不表达感谢也就算了，还冷嘲热讽，这就是狗咬吕洞宾。</p>
+<p>有时候当记者觉得特别寒心，为一群不识好歹的人的利益玩命，他们却说，你乐意，你是为了赚稿费。</p>
+<p>你可以不懂什么叫舆论监督，什么叫新闻推动时代进步，什么叫舆论倒逼，但是麻烦你用用你的脑子，老天给你这个配置不是为了让你吃涮锅的时候没有猪脑花了就打开脑盖儿自己加一道菜的。</p>
+<p>对于新闻报道过程中出现的各种不实言论，不要武断地说记者造谣，你知道他们面对的是什么样的采访环境吗？新闻行业中从来没有一项职业道德准则是要对记者非故意报出的错误信息追责的，信息不公开就没法确保信息都准确。</p>
+<p>“没有回应就不能报道”我觉得就是混蛋逻辑，这么说来只要被采访者永远不开口，记者就永远不能发稿，这公平吗？那就什么负面报道都不会有了。所以才会有“我不清楚”、“我不了解”、“我不负责”、“我很忙”，听着真耳熟。</p>
+<p>所以有些天津人，闭上你的臭嘴吧，别他妈再丢人现眼了。</p>
+<p>人终有一死，但活着的时候就蠢死了最可悲。</p>
+<p>还有，不要再跟我说“我觉得这件事情没必要报”这种话了，我已经告诉过一个人“需不需要报是我要判断的事，你只需要回答问题。”后面的也都是这种回答，只会更刻薄。</p>
+<div><img src="http://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5MDE5MjYxMw==" alt="">微信扫一扫<br>
+关注该公众号</div>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E6%88%91%E4%B8%A4%E6%AC%A1%E8%BF%9B%E5%85%A5%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%8B%8D%E4%B8%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%EF%BC%9A%E6%AD%BB%E9%B1%BC%E6%B2%B3%E6%AE%B5%E6%9C%AA%E6%A3%80%E5%87%BA%E6%B0%B0%E5%8C%96/" target="cdt-mirror">凤凰网｜天津环境监测中心：死鱼河段未检出氰化物</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/201508202103china1.jpg" alt="201508202103china1" width="547" height="729"></p>
@@ -170,7 +342,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E5%B0%B8%E5%87%B6%EF%BD%9C%E7%BA%BD%E7%BA%A6%E6%B6%88%E9%98%B2%E9%98%9F%E4%B8%BA%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E9%81%87%E9%9A%BE%E5%90%8C%E8%A1%8C%E9%99%8D%E5%8D%8A/" target="cdt-mirror">大尸凶｜纽约消防队为天津爆炸事件遇难同行降半旗致哀</a>
 </h2>
@@ -668,66 +840,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%A4%BE-%E7%8B%AC%E5%AE%B6%E8%B5%B7%E5%BA%95%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E8%B0%81%E6%98%AF%E7%A5%9E%E7%A7%98%E6%8E%A7%E5%88%B6%E4%BA%BA/" target="cdt-mirror">新华社 | 独家起底瑞海公司:谁是神秘控制人?</a>
-</h2>
-<p><p>编辑注：以下内容来自官方媒体新华社“独家报道”   供多元信息参考</p>
-<p><strong>原标题:失控的“炸药包”——瑞海公司调查</strong></p>
-<p>新华社北京8月19日电（记者牛纪伟、邓中豪、付光宇、李鲲、翟永冠）8月12日，天津东疆保税港区瑞海国际物流有限公司发生火灾爆炸，造成上百人遇难的严重后果。瑞海公司究竟是一家什么样的企业？其高管层是否有所谓“神秘背景”？</p>
-<p>近日，记者独家采访、接触瑞海公司五名核心人物：瑞海公司大股东李亮、董事长于学伟、副董事长董社轩、法人代表兼总经理只峰以及副总经理曹海军。</p>
-<p>通过深入采访，瑞海公司及其管理层的真实面目在抽丝剥茧中逐渐清晰，瑞海公司由一家普通仓库变身危化品仓库的过程日渐浮出水面，而爆炸背后的诸多疑点仍有待解答。</p>
-<p><strong>神秘的股东</strong></p>
-<p>“瑞海公司的老板是谁？”天津滨海大爆炸之后的一周里，人们都在问。</p>
-<p>工商登记信息显示，瑞海公司于2012年11月28日注册成立，注册资本5000万元人民币，股东为李亮、舒铮，法定代表人为李亮。其中李亮持股55％，舒铮持股45％。2015年1月29日，瑞海公司增加注册资本至1亿元人民币，法定代表人变更为只峰。</p>
-<p>李亮、舒铮、只峰，他们三人中谁是瑞海公司的真正老板？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e.jpg" alt="20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e" width="400" height="300"></a></p>
-<p>15日下午，记者在泰达医院住院部见到瑞海公司总经理只峰。只峰12日在爆炸现场受伤，随后被警方控制，记者见到他时正呈昏迷状态。其妻告诉记者，“只峰负责公司日常管理，没有股权，一个月领一万多的工资。公司的实际负责人一个叫于学伟，一个姓董。”</p>
-<p>17日下午，记者在天津市第一看守所见到了被警方控制的瑞海公司大股东李亮。他在爆炸发生后的13日上午五时左右，在天津市市区内被警方控制。见到记者，34岁的李亮显得非常局促。据其介绍，他的家庭很普通，其父亲退休前是天津市东丽区老干部局的科员，他自己也不是瑞海公司真正的大股东。</p>
-<p>“真正的大股东叫于学伟，是我表姐的老公。55％的股份是我替于学伟代持的”。李亮表示，自己“没有开过一次会，没有签过一个字，没有拿过一分钱”。</p>
-<p>采访中，李亮透露，不仅自己的股份是代持的，公司占股45％的股东舒铮也是替人代持股份，真正的股东叫董社轩，是天津港公安局原局长之子。</p>
-<p><strong>17日下午，记者在看守所见到已被警方控制的董社轩。今年34岁的董社轩告诉记者，他是瑞海公司的二股东，通过高中同学舒铮持有公司45％的股份。</strong></p>
-<p><strong>董社轩说，其父的确是天津港公安局原局长，父亲在2013年初发现患上肝癌，2014年8月已经去世。“之所以找人代持，是因为我爸在公安局任职，让别人知道了影响不好，而且当时我父亲正在接受组织调查。”董社轩说。</strong></p>
-<p>董社轩告诉记者，“我先后投了1000多万，但并不负责任何具体事务。瑞海公司成立至今也没分过红，我每个月只拿1.5万元的固定工资。爆炸前我本来就已经打算退股了，今年春节期间公司聚会，喝完酒，我跟于学伟谈过一次，闹得很不愉快。他说，别着急，今年年底就能分红，结果还没分红就发生了爆炸。”</p>
-<p>采访中，曹海军也说：“公司真正的老板叫于学伟，董社轩偶尔来开开会，平时很少见他。”</p>
-<p><strong>谁是控制人</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e.jpg" alt="20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e" width="450" height="450"></a></p>
-<p> </p>
-<p>一场惊天动地的爆炸，将瑞海公司的“神秘控制人”从幕后推向了前台。</p>
-<p>记者在天津市第一看守所见到众人口中瑞海公司背后的“神秘控制人”、1974年出生的于学伟。据公安民警介绍，“爆炸事发时，于学伟和家人在河北旅游，接到电话后当晚赶回，未到现场即被控制，对爆炸的严重后果还不清楚。”</p>
-<p><strong>于学伟说，他是瑞海公司的实际控制人，拥有公司55％股份，由妻子的表弟李亮为自己代持。他1994年进入国企中化集团天津分公司工作，2012年9月离职，离职前任中化集团天津分公司副总经理，对危化品行业非常熟悉。</strong></p>
-<p>于学伟说：“我在酒桌上认识的董社轩。他爸是公安局长，他在港口混得开。”2012年末，从中化离职的于学伟找到董社轩，决定利用双方的资源共同创业。</p>
-<p>董社轩说，他2006年从一所军校毕业，此后卖过轮胎、承接过工程、进口过化妆品、卖过红酒。“2012年底，于学伟找到我，说想从中化拉一支队伍单干。他说中化的客户都在他手里，他能拉到中化八九成的客户。”董社轩说。</p>
-<p><strong>据于学伟介绍，2012年11月28日，瑞海公司注册成立，他和董社轩分别找亲戚李亮和同学舒铮代持股份。公司成立后，他从中化集团天津分公司挖来大量人员，瑞海公司的主要管理层：总经理只峰、主管操作部的副总经理曹海军、主管业务部的副总经理刘振国均曾就职于中化集团天津分公司。</strong></p>
-<p><strong>层层“通关”</strong></p>
-<p>从成立一家公司到获得危化品经营资质，瑞海公司用了一年半的时间。</p>
-<p>据了解，瑞海公司成立之初只有普通物流仓库，2014年4月，瑞海公司拿到危化品经营资质。在此之前，瑞海公司陆续通过了消防鉴定、规划审批、安全评价、环境评估等一系列程序，从而获得了从事危化品仓储的资格。</p>
-<p>从程序上看，瑞海公司走过了所有应走的流程，拿到了所有应有的认证。</p>
-<p>记者采访发现，在瑞海公司2013年申请建设危化品仓库时，消防部门出具的意见书显示“该工程的消防设计审核合格”，证明瑞海拿到了消防的鉴定。</p>
-<p><strong>回忆起办消防鉴定的过程，董社轩说：“我的关系主要在公安、消防方面，于学伟的关系主要在安监、港口管理局、海关、海事、环保方面。公司成立时，我去找的天津港公安消防支队负责人，说想做危化品仓储。当时我把天津市化工设计院给设计的改造方案这些材料都拿了过去，很快消防鉴定就办下来了。”</strong></p>
-<p>天津市滨海新区规划和国土资源管理局副局长朱立明说，瑞海公司建设两个危化品仓库符合规划审批依据，拿到了建设工程规划许可证。“关于安全距离，我们审批前参考了消防部门出具的建设工程消防设计审核意见书。”朱立明说。</p>
-<p>记者获得的一份2013年12月10日天津市环境工程评估中心的环评报告显示，瑞海公司拟把物流堆场改造成为一个集装箱堆场，项目建成后危险品货物年周转量2万吨左右。该报告认为，“该项目建设内容符合国家产业政策，选址符合地区总体发展规划……本项目建设具备环境可行性。”环评同样获得通过。</p>
-<p>按照《危险化学品安全管理条例》，国家对危险化学品经营实行许可制度。新建、改建、扩建储存、装卸危险化学品的港口建设项目，由港口行政管理部门按照国务院交通运输主管部门的规定进行安全条件审查。</p>
-<p>天津市安全生产监督管理局副局长高怀友说，瑞海公司取得了全国甲级安全评价机构——天津市中滨海盛安全评价监测有限公司的安全条件审查报告后，相关主管部门根据安评结果对现场及结论进行审查，认为符合相关规定。</p>
-<p><strong>疑点重重</strong></p>
-<p>瑞海公司的惊人事故，或许并非偶然。在层层通关的背后，却也步步存疑。</p>
-<p>——环评民意调查，神奇的“没有反对意见”</p>
-<p>记者获得的瑞海公司“环评报告”显示，环评期间共向周边企业及居民发放130份调查表，回收有效调查表128份，“基本支持和赞同该项目的建设，没有反对意见。”而记者采访中，没有附近居民曾看到这张调查问卷，此前也完全不知道这里是一个危化品仓库。对此，于学伟表示，环评的事他并未参与。</p>
-<p>——换了家安评公司才拿到安评报告</p>
-<p>按照国家安监部门2001年出台的《危险化学品经营企业开业条件和技术要求》，550平方米以上的大中型危险化学品仓库选址应与周围公共建筑物、交通干线（公路、铁路、水路）、工矿企业等距离至少保持1000米。</p>
-<p>记者实地脚步测量发现，万科清水港湾小区与该仓库直线最近距离约为560米，而该仓库与轻轨东海路站距离也仅约630米。</p>
-<p>董社轩表示，“当时做安评时，第一家安评公司说距离居民楼太近，不符合规定，安评做不下来。后来于学伟说别管了，他来弄，后来又换了家安评公司，结果就弄下来了。”不过于学伟却表示，安评的事并不是他具体操办，具体不清楚。</p>
-<p>记者采访发现，外界质疑颇多的安评报告，相关部门至今仍未向社会公开。</p>
-<p>——资质：爆炸前有半年多没有危化品运营资质但仍正常运营</p>
-<p>工商登记信息显示，2014年4月，瑞海公司才首次获得天津市交通部门批复的危化品经营资质，有效期至2014年10月16日。而该公司正式获得港口经营许可证是在2015年6月，也就是说，从2014年10月至2015年6月的8个月中，该公司没有经营危化品的资质。</p>
-<p>于学伟说，公司此前拿到了经营危化品的试运营资质，到2014年10月份到期。公司经营危化品的正式资质是在2015年6月拿到的，此前有大概半年多的时间没有拿到交委的资质，期间公司危化品业务正常进行没受到影响。</p>
-<p>于学伟说：“当时试运营资质到期后，公司没有办延期。一方面觉得正式资质很快就会批下来，另一方面觉得很多其他公司都没办延期，有的拖的时间比半年更长也没人管，就没当回事儿。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%A4%BE-%E7%8B%AC%E5%AE%B6%E8%B5%B7%E5%BA%95%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E8%B0%81%E6%98%AF%E7%A5%9E%E7%A7%98%E6%8E%A7%E5%88%B6%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">瑞海公司</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -739,7 +851,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3hpx63hk3slfu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -749,5 +861,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d3hpx63hk3slfu.cloudfront.net">https://d3hpx63hk3slfu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3hpx63hk3slfu.cloudfront.net">https://d3hpx63hk3slfu.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

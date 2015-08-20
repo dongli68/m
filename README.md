@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ve6unky63mh0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://da54s5m9p2lg8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://da54s5m9p2lg8.cloudfront.net">https://da54s5m9p2lg8.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【网络民议】天津海河单身鱼溺水群体自杀事件</a>
@@ -330,7 +330,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5/?category=18271" rel="tag">天津</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84%E9%95%BF%E9%98%B5%E5%89%8D%E6%8D%A2%E4%BA%BA%E6%9C%89%E4%BD%95%E7%8E%84%E6%9C%BA/" target="cdt-mirror">东网｜东步亮：事故调查组长阵前换人有何玄机</a>
 </h2>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://da54s5m9p2lg8.cloudfront.net">https://da54s5m9p2lg8.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/></td>    </tr>
 </table>

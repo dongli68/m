@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kd4wckdxqj37.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://da54s5m9p2lg8.cloudfront.net">https://da54s5m9p2lg8.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9D%A8%E6%97%B6%E6%97%B8%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%AD%E7%9A%84%E5%BF%97%E6%84%BF%E8%80%85%EF%BC%9F/" target="cdt-mirror">杨时旸：我为什么不喜欢天津大爆炸中的志愿者？</a>
@@ -46,7 +46,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8/?category=18271" rel="tag">感动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7%E6%BB%A1%E8%B6%B3/?category=18271" rel="tag">道德满足</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%90%E8%BF%85%E9%9B%B7%EF%BC%9A%E6%96%B0%E9%97%BB%E4%BA%BA%E7%9A%84%E7%AA%81%E7%A0%B4-%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E7%9A%84%E5%AA%92%E4%BD%93%E5%A4%A7%E6%88%98/" target="cdt-mirror">徐迅雷：新闻人的突破 天津大爆炸的媒体大战</a>
 </h2>
@@ -746,5 +746,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://da54s5m9p2lg8.cloudfront.net">https://da54s5m9p2lg8.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://da54s5m9p2lg8.cloudfront.net">https://da54s5m9p2lg8.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://d24dtyg4m6t08b.cloudfront.net">https://d24dtyg4m6t08b.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d3gv0gw4vw64rs.cloudfront.net">https://d3gv0gw4vw64rs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://d3gv0gw4vw64rs.cloudfront.net">https://d3gv0gw4vw64rs.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d24dtyg4m6t08b.cloudfront.net">https://d24dtyg4m6t08b.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E6%88%91%E4%B8%A4%E6%AC%A1%E8%BF%9B%E5%85%A5%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%8B%8D%E4%B8%8B/" target="cdt-mirror">微信｜我两次进入滨海爆炸事故现场拍下照片</a>
@@ -851,7 +851,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3gv0gw4vw64rs.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +861,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://d24dtyg4m6t08b.cloudfront.net">https://d24dtyg4m6t08b.cloudfront.net</a><br/><a href="https://d3gv0gw4vw64rs.cloudfront.net">https://d3gv0gw4vw64rs.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3gv0gw4vw64rs.cloudfront.net">https://d3gv0gw4vw64rs.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://d24dtyg4m6t08b.cloudfront.net">https://d24dtyg4m6t08b.cloudfront.net</a><br/></td>    </tr>
 </table>

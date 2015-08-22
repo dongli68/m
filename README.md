@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dc1ou9lrqt43q.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1a76y84uyc9xz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E6%88%91%E4%B8%A4%E6%AC%A1%E8%BF%9B%E5%85%A5%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%8B%8D%E4%B8%8B/" target="cdt-mirror">微信｜我两次进入滨海爆炸事故现场拍下照片</a>
@@ -637,7 +637,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%A0%8B%E6%A2%81/?category=18271" rel="tag">杨栋梁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E9%9C%87%E5%A1%8C%E9%BB%84%E5%85%B4%E5%9B%BD%E4%BB%95%E9%80%94/" target="cdt-mirror">太阳报｜天津爆炸震塌黄兴国仕途</a>
 </h2>
@@ -861,5 +861,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/></td>    </tr>
 </table>

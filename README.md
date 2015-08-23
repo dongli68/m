@@ -21,9 +21,544 @@
                 <td></td>
                 
         
-        <td><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%AB%A5%E5%A4%A7%E7%84%95%EF%BC%9A%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%94%E5%81%BF%EF%BC%9F/" target="cdt-mirror">东网｜童大焕：国家为什么要赔偿？</a>
+</h2>
+<p><p>2015年8月18日，我在媒体发表文章，态度鲜明地表示《支持天津爆炸区居民房屋回购要求》，认为“任何救世主都无法救民于水火解民于倒悬，惟有专业精神和清晰严格的责任边界能够拯救我们自己！”并在其后转发这篇文章时表示：“我虽然恨其不争，反感购房者对政府画一个圈就当天上掉陷饼，但仍支持天津爆炸 区居民合理的房屋回购要求，惟独不支持跪求，因为真正应该下跪谢罪的是渎职官员而不是受害民众。”</p>
+<p>当时有不少网友认为政府根本不可能回购。但是，20日媒体报道说，19日，天津滨海新区书记明确表示：受损房需回购的一定会回购。官媒网的消息是这样说的：</p>
+<p>“在此次爆炸事故中，受损房屋是回购还是修缮，是受灾群众非常关注的问题。对此，天津滨海新区区委书记宗国英19日明确回应说，经过鉴定，受损房屋需要回购的一定回购，需要修缮的一定修缮。</p>
+<p>“宗国英说，新区政府目前已经成立了房屋修缮服务中心，拿出了详细的方案。在受损房屋修缮的过程中，政府将给这些受损、受害、受灾的居民一些过渡安置费，这项工作也已经展开。</p>
+<p>“针对一些人‘过渡安置费会从以后的房屋理赔费用中扣除’的忧虑，宗国英明确表态说：‘过渡安置费用绝对不影响后期的理赔费用。’</p>
+<p>“宗国英还表示，很多房子的受损程度不一样，需要有专业、有资质、有群众认定的评估机构鉴定以后，拿出一个理想的方案。为了保证公开透明，评审鉴定的过程中，所有居民代表要全程参与。</p>
+<p>“‘这项工作一旦评估、鉴定完成，根据鉴定的结果我们会提出一个方案。该拆掉的就彻底拆掉，该重建的就重建，该回购的回购。’宗国英说。”</p>
+<p>我认为这是一个相当专业和相当负责任的回答，虽然没有明确回购的主体是开发商还是政府，但请注意其中运用的是“理赔”二字。至于到底是政府回购还是开发商回购，我认为取决于责任在哪一方。如果开发商没有责任，则在此次爆炸中，开发商也是受害者，并不因为它比普通购房者更有钱，就改变它的受害者身份。</p>
+<p>很多网友表示反对政府回购，认为政府没有权力也没有义务拿全体纳税人的钱为少数人的损失买单，认为政府买单其实就是全民买单。今天这篇文章就专门来说说这个问题。</p>
+<p>先看几则故事：</p>
+<p>2011 年4月，美国籍华裔大学生丹尼尔‧锺遭遇“飞来横祸”，他到加州朋友家过夜，这一寓所遭毒品管制局突查。依据毒品管制局文件，执法人员在这处寓所发现 1.8万粒摇头丸、其他药品和一些武器，包括锺在内的9人遭拘。而后，锺在未被起诉的背景下，被关押在没有窗户的狭小拘留室4天半，期间，锺被遗忘，得不 到水和任何食物。锺踹门、呼救，无人理睬。他在金属凳上小便，以喝尿维持生命；试图引发头顶消防喷头警报，未能成功；出现幻觉，企图自杀，打破眼镜片，用 碎片割腕，甚至吞食镜片；想给母亲留下遗言，试图用碎玻璃片在胳膊上写下“对不起，妈妈（Sorry Mom)”，但只写完了字母“S”；最后还把鞋带从门缝塞出，以期引人注意。锺最终被人发现时，身上沾满排泄物，身体痉挛，严重脱水，食道穿孔，肾功能接 近衰竭。他被紧急送至医院抢救，体重相比4天半前减轻6.8公斤。</p>
+<p>锺的遭遇曝光后，美国毒品管制局圣迭戈办公室负责人威廉‧舍曼发表声明道歉，同时表示对这一状况的发生“深感困惑”。毒品管制局随后引入全国性拘留标准，包括每天检查和在拘留室安装摄像头。2013年7月30日，锺的律师确认，锺与美方达成和解，和解金额为410万美元。</p>
+<p>这是政府直接过失造成的公民损害引发的赔偿。接下来看看美国911事故的后续故事：</p>
+<p>2001 年9月11日，纽约世贸双子塔遭恐怖分子劫持两架飞机撞塌，改变了美国，改变了全球政治，也改变了一群普通美国人的生活。这群普通人并非当时双子塔上的遇 难者及其亲属，而是在大楼坍塌后，不顾危险前往双子塔废墟实施救援和清理的建筑工人和志愿者等。由于防护措施不足，他们中的一些人此后患上疾病，甚至死亡。于是，“9‧11”后，在布什政府发动全球反恐战争的同时，2003年，大约1万名世贸废墟作业工人将纽约政府告上法庭，理由是后者没有为其提供安全 装备，导致很多工人患病。2010年3月，在“9‧11”事件过去近9年之后，这场诉讼旷日持久的司法协商终于有了结果，纽约市政府和1万名工人达成补偿 和解协议。根据协议，赔偿方案总额为6.57亿美元，其中每一名原告的基本赔偿款为3200美元。因在废墟上工作致癌者每人将得到100万美元补偿，而因病去世者的家属则能获得200万美元。除了赔偿，国会将进一步推动救助立法。由于这场诉讼耗时太长，巨额赔偿款的1/3都将作为律师的诉讼费用。</p>
+<p>再来看日本。官媒的消息，日本政府2012年7月20日公布了对福岛第一核电站事故疏散区居民的土地和房屋等不动产，家具、电器等家庭财物以及营业和工资收入的损失进行赔偿的标准。这是一份堪称经典的赔偿标准，值得近乎全文录在这里：</p>
+<p>在福岛核事故发生一年后，从2012年4月份开始，日本政府陆续解除了福岛第一核电站周边一些市町村设立的警戒区和计划疏散区，重新划分为居民可自由出入的疏散指示解除准备区、限制居住区和返回困难区。</p>
+<p>根据2012年7月20日公布的赔偿方案，限制居住区居民的回家标准年限被设定为解除疏散指示后3年、即事故发生后4年，赔偿标准为事故前不动产价值的约50%；疏散指示解除准备区以2年为标准年限，约赔偿33%。赔偿款将一次性支付给居民。</p>
+<p>如果超过标准年限，赔偿额每年还会上浮16.6%，一旦从解除疏散指示到居民回家花费时间超过5年，居民就可获得全额赔偿。而对返回困难区居民的不动产，则从一开始就全额赔偿。</p>
+<p>日本政府听取了地方政府的要求，决定房屋赔偿额可采用3种计算方式，分别是根据事故前固定资产税和建成年数计算、建造同等新建筑的市场行情、以及不动产评估师的评估，灾民可选择其中金额最高的。</p>
+<p>家具、电器等家庭财物的赔偿额根据家庭构成来确定。在限制居住区和疏散指示解除准备区，如果是父母和子女构成的4口之家，赔偿额一律约为505万日元（约合6.4万美元）。返回困难区则增加约30%，达到675万日元（约合8.6万美元）。</p>
+<p>另外，对营业损失，从事农林业的灾民将一次性获得相当于其5年收入的赔偿，其他行业的赔偿额相当于其3年收入，工薪阶层则可一次性获得相当于其两年工资收入的赔偿。其中，因核事故失业的人如在赔偿期间已重新就业，则将从赔偿金中扣除收入部分。</p>
+<p>由上述赔偿方案可见，损害赔偿采取就高不就低的赔偿方式，居民的房屋等损失并没有任何损毁，而是因为环境污染导致几年或者长久不能居住使用，于是就给了不同 程度的高额赔偿。报道中还有一句话“东京电力公司预定在本周末公布详细的赔偿计算模式。”可见赔偿主要是由福岛核泄露的第一责任主体东京电力公司来完成 的。这是因为东京电力公司家大业大，赔得起。如果在福岛核泄露事故中，东京电力公司赔到破产，灾民却没有得到应有的赔偿，那么，日本政府在赔偿问题上将负有不可推卸的责任。</p>
+<p>为什么现代国家的公民对于国家赔偿司空见惯并且毫无疑义？国家赔偿制度的建立主要原因在于公民权利意识和政府责任意识的觉醒。它对于平衡公权力和私权利冲突，保护公民权利，维护社会稳定发挥着重要作用。</p>
+<p>首先，它是个人安定生活之需要。人类之所以要建立国家，成立政府，就是因为个人和家庭太渺小了，很多时候无力抵御来自外界的天灾人祸。国家和政府则以众人拾 柴火焰高的原理，组成强大得多的集体力量。个人和家庭通过让渡部分自由和缴纳税收的形式，购买国家的保护。但是国家和政府机构也是由人组成的，也会犯错误，有时它犯的错误甚至很大，造成的损害也不是同时对全体民众造成损害，而是对部分特定或不特定民众造成损害。这个时候就要启动国家赔偿。这时，平均每个公民付出很少，但利益和权利、自由受损者却能得到最大的精神安慰和物质补偿。而这个利益和权利、自由受损者，是随机的，今天可能是别人，明天可能就是我们自己。</p>
+<p>特别要注意的是，国家赔偿一定是以物质赔偿的形式来进行的。无论对自由、财产还是对精神损害造成的赔偿，国家赔偿都是物质赔偿。</p>
+<p>国 家赔偿是人类几千年文明进步的结晶。是人类原子化的个体抱团取暖的结果。物质特别匮乏的原始社会，个人外出采摘和狩猎获得的一切，除非当场偷偷吃掉的部分，一切都要充公，是因为匮乏的时候多，丰收的时候少，每个人都不能保证自己每次劳动都有收获，为了避免大家饿死，被迫采取公有制。现代社会，物质极大丰 富，但人们仍然会遇到各种突如其来的灾难，但这时候，只需每个人让渡税收里微不足道的一点点，就能保受害者基本的权利和尊严。如果个人遇到了天灾人祸只能 由个人来承担一切，拒绝国家给予适当的救济和赔偿，那这样的社会，比原始社会还不如。</p>
+<p>第二，国家赔偿是社会稳定的需要。国家赔偿不仅仅是一种简单的物质赔偿，也是一种“社会安全阀”，能够有效平衡社会心理的失衡，防止突然陷于灾难和赤贫的人“破罐子破摔”、“无产者无恒心”，引发社会不安和动荡。</p>
+<p>第 三，国家赔偿是约束公权力的需要。国家赔偿详细规定了国家机关的赔偿责任，使其不敢肆意运用其自由裁量权或者滥用权力，限制国家权力，保护公民权利。虽然 政府的财政都来自公民的税收，但在平时运转中，它也是个相对独立的利益主体，财政约束以及官员的行政与刑事责任约束，对他们才是真正的责权利相当同时即时兑现的硬约束。</p>
+<p>我国从1995年1月1日起施行《中华人民共和国国家赔偿法》，虽未必如发达国家详尽和到位，但毕竟是向现代文明、法治迈出的重要一步。</p>
+<p>在天津滨海大爆炸事故中，第一责任人当然是瑞海公司。但本次爆炸造成的损害显然已经远远超出了瑞海公司的赔偿能力，仅预估的保险赔偿就达60亿元以上。</p>
+<p>而在政府监管的责任中，把相关责任官员所有的家产没收、责任人都杀头，也不足以弥补受害者的损失。因此，政府赔偿也应是题中之义。此次爆炸事故共导致1.7 万户居民房屋不同程度受损，其中5600户在距离爆炸核心区半径一公里的范围内。而按照国家安监部门2001年出台的《危险化学品经营企业开业条件和技术要求》，550平方米以上的大中型危险化学品仓库选址应与周围公共建筑物、交通干线（公路、铁路、水路）、工矿企业等距离至少保持1000米。不论先规划 住宅还是先规划危险品仓库，政府在规划、环评、安评中的重大渎职都难辞其咎。当然，国家也就是政府犯错误的时候，并不是你把它推翻了它就不再犯错误了，纠正错失、防止下一个错误继续发生，最好的办法还是建立健全专业的管理和责任机制，而国家赔偿制度，就是倒逼责任的根本途径。</p>
+<p>国家的健康与成熟取决于管理的健康与成熟，取决于公民的健康与成熟。一个好社会并不是天上掉下来的，更不是你今天推翻一个政府、明天打倒一个王朝就可以建立起来的，它是通过越来越严密、越来越完善的责、权、利机制，一点一点地慢慢积累和建立起来的。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%AB%A5%E5%A4%A7%E7%84%95%EF%BC%9A%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%94%E5%81%BF%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E8%81%8C%E8%83%BD/?category=18271" rel="tag">政府职能</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A3%E4%BB%BB/?category=18271" rel="tag">责任</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%81%AB%E7%AE%AD%E5%9F%BA%E5%9C%B0%E9%A5%AD%E5%A0%82%E5%81%9C%E8%B4%AD%E5%BD%93%E5%9C%B0%E9%A3%9F%E6%9D%90/" target="cdt-mirror">自由亚洲｜天津火箭基地饭堂停购当地食材</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/959da33c-9f29-4368-a827-f848dfb3d41d.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/959da33c-9f29-4368-a827-f848dfb3d41d.jpeg" alt="2015年8月22日，中国大推力火箭天津基地211厂卫星图。（消息人士提供）" width="585" height=""></a><p>2015年8月22日，中国大推力火箭天津基地211厂卫星图。（消息人士提供）</p></div>
+<p>尽管天津官方称，大爆炸没有造成大范围的环境污染，但本台记者周六（22日）获悉，位于天津的中国航天基地的饭堂，已停止购买当地食材。（罗文山报道）</p>
+<p>天津市副市长王宏江称，截至周五（21日），当局已处理污水3000多吨，亦已收集并运走氰化钠近200吨。在空气中各类污染物的种类和浓度都呈下降趋势，爆炸核心区已受到控制，外围是安全的。</p>
+<p>不过，本台记者从消息人士获悉，今次大爆炸与天津航天基地的多个重要机构的距离，分别是17到30公里。大爆炸发生时，基地有震感。事故发生半小时内，天津 航天基地管委会立即启动应急措施，动员消防、动力保障等人员，对基地进行检查，其中包括研发中国大推力火箭长征5号的航天211厂、天津实验室等。</p>
+<p>大爆炸发生后，航天集团总部立即下达了《关于开展危险化学品专项安全检查的紧急通知》，据基地一名内部人士称，他们暂时没有受到影响。</p>
+<p>她说：就是这次爆炸吗？您是航天系统的吗？是这样，我们暂时没有受到影响。</p>
+<p>她还称，大爆炸发生后，因基地亦存放一定数量的危化品，航天集团总部下令对所有的危险仓库进行多次检查。她称，近期，基地亦做消防的培训。</p>
+<p>她说：这个安全排查啊？因为我，我们这个是轮班，他们可能做检查的时候我不在，所以我不太了解，但是应该是没有问题，然后，我们这段时间也在做那个消防的培训。因为我们这边是航天系统嘛，他们这边有专业的人员。</p>
+<p>据悉，当局原本计划今年下半年，航天集团将经天津港将长五运抵海南的发射基地，对该大推力火箭进行演练。该人士称，不方便说基地生产的物品外运，是否受到今次大爆炸的影响。</p>
+<p>她说：就是这边的那个运出吗？这个具体我就不太了解了，因为我们那个对内私密单位嘛，有些事我们也不太了解，不方便透露。</p>
+<p>对基地周边地区的损失，记者再次致电一位临近地区的商家，她称，该区域有震感，但没有遭受直接的损失。</p>
+<p>她说：没有，我们离塘沽还挺远的啦。没有问题，用的是自来水。基地生产？你是说航天那边吗？这个我不太清楚，跟他们航天没有关系。</p>
+<p>另外，据消息人士透露，为了加强食品安全管控，饭堂停止采购塘沽周边产地的蔬菜、肉类等食材，改由外地直供。基地管委会还在第一时间，发放了2000多件口罩等物资，并储备了饮用水。</p>
+<p>本台记者致电航天集团总部，想了解该集团的农产品及仓库危险品数量和总类，但电话一直无人接听。</p>
+<p>周五（21日），航天科技集团发布消息称，集团第一时间传达中共中央、国务院指示，要求对内部仓库危险品进行严格检查，杜绝事故发生。</p>
+<p>据悉，中国大火箭基地位于天津市东丽区大北街和港城大道中段之间，是研发中国新建的新一代重型运载火箭系列的基地，拥有多个危险品仓库，但数量和总类一直不为外界所知。有消息指，该基地距离最近的居民不足600公尺。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%81%AB%E7%AE%AD%E5%9F%BA%E5%9C%B0%E9%A5%AD%E5%A0%82%E5%81%9C%E8%B4%AD%E5%BD%93%E5%9C%B0%E9%A3%9F%E6%9D%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E7%89%A9/?category=18271" rel="tag">氰化物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/403693/" target="cdt-mirror">法广｜为了兵演北京名副其实“紫禁城”俨如戒严</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/chine-tiananmen-210815.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/chine-tiananmen-210815.jpg" alt="2015年8月12日 REUTERS/Stringer" width="585" height=""></a><p>2015年8月12日<br>REUTERS/Stringer</p></div>
+<p><strong>香港的南华早报形容中国首都这几天为了9.3大阅兵，指“北京已闭关”（Beijing shuts down），华尔街日报更直接，形容为了战争周年纪念，北京成为了紫禁城（Being turns into Forbidden City），市民日常的生活，很多都忽然受到影响，俨如戒严。</strong></p>
+<p>北京为了纪念二战结束70周年而举行阅兵仪式，近日军队进行多番操练，当局为此关闭了首都大部分的地区，并且部署大批街头巡逻人员。</p>
+<p>华尔街日报报导，最新成为“戒严”牺牲品的，是南非一支歌舞团的演出。Ladysmith Black Mambazo本来这个周末在北京演出，但却突然被通知取消。</p>
+<p>报导指，中国试图将9.3的二战结束周年纪念，变为类似中国的胜利日，作为向外展示军事力量的一个机会，而且还意图将日本推向一个尴尬的处境。</p>
+<p>报导指，中国社交网站的评论，很多都把当局这次的举动比喻是变相的戒严。</p>
+<p>这个星期当局发出了一连串的公告，内容基本上是首都一大部分的地区受到管制，直至两星期之后的阅兵典礼结束为止。根据国家大剧院贴出的告示显示，围绕着天安门广场一带的几条主要道路，这个周末都实施交通管制。</p>
+<p>国家大剧院除了取消上述的南非歌舞团表演之外，BBC交响乐团的节目，也同时被取消，告示同时告诉大众“请到售票的地点退票”。</p>
+<p>北京东方君悦大酒店的职员说，从8月31日到9月3日，由于政府的指令，酒店没有房间可供预订。政府还说将会在9月3日当天，关闭天安门广场附近一带的无线上网和无线电讯号的服务。</p>
+<p>在三里屯的夜生活区，商店和酒吧已被告知必须从星期六午后到星期天下午打烊，以方便演练，业余的电台、大学校园的广播以及遥控无人飞机则在全城被禁。</p>
+<p>就好像当年的民兵一样，北京政府表示它将动员85万市民巡逻每一条街道，直至纪念仪式结束为止。市政府的告示说，每一条巷子都要巡逻，如发现有危险务必向警察报告。</p>
+<p>南华早报报导，公共交通亦大受影响，地铁一号线从午夜开始将全线停止服务，二号线、四号线、九号线以及十号线部分的车站将不停车，直至中午之后。全城一共有253条公车线受到影响，其中又有69条线完全停驶。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/403693/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E9%83%BD/?category=18271" rel="tag">帝都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%92%E4%B8%A5/?category=18271" rel="tag">戒严</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%B1%B1%E4%B8%9C%E6%A1%93%E5%8F%B0%E5%8C%96%E5%B7%A5%E5%8E%82%E5%BC%80%E5%B7%A5%E8%AF%95%E4%BA%A7%E7%88%86%E7%82%B8%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B9%9D%E4%BC%A4/" target="cdt-mirror">BBC｜山东桓台化工厂“开工试产”爆炸致一死九伤</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150823040906_cn_shandong_chemical_blast_976x549_xinhua.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150823040906_cn_shandong_chemical_blast_976x549_xinhua.jpg" alt="桓台官方称大火至凌晨时分扑灭。 " width="575" height=""></a><p>桓台官方称大火至凌晨时分扑灭。</p></div>
+<p><strong>山东淄博桓台县当局证实，当地润兴化工科技公司发生的爆炸事件已造成一人死亡、九人受伤。</strong></p>
+<p>中共桓台县委宣传部称，救援人员于星期天（8月23日）凌晨将明火全部扑灭，清理时发现了死者，其身份为该厂职工；伤者已送往淄博与桓台的医院救治。</p>
+<p>爆炸发生在星期六（22日）将近21时（格林尼治标准时间13时），桓台县委称系由“分离器着火”所引发。中国官方新华社称工厂事发时属开工试产，说法与当地媒体吻合。</p>
+<p>桓台县这起事故发生之际，距离天津滨海新区爆炸事故刚满10天。事发当天早晨，中共淄博市委机关报才刚报道了山东省督查组督查当地安全生产工作的消息。</p>
+<p>《淄博日报》星期六头版报道，8月17日至21日，山东省国土资源厅厅长刘俭朴、副厅长王桂鹏带队一行六人，到淄博市督查安全生产工作，并召开了安全检查反馈会。</p>
+<p>报道还说，21日下午，中共淄博市委、淄博市政府召开安全生产工作专题会议。市委书记王浩讲话时要求“坚决克服松懈、厌战思想和侥幸心理，以铁的决心、铁的手腕抓好安全生产措施落实，确保全市安全生产形势稳定”。</p>
+<p>同样在星期六早上，淄博市政府新闻办官方微博“淄博发布”曾发布消息称，淄博市开展安全生产大检查，深化打非治违和专项整治。</p>
+<p><strong>“靠近民居”</strong></p>
+<p>中国媒体指出，发生爆炸的润兴化工厂附近不足一公里有民居，爆炸时村里多户居民的玻璃均被震碎。爆炸现场方圆5公里均有震感。</p>
+<p>北京《新京报》星期天报道，距离事发地17公里的一位市民称，其曾听到了爆炸声，“还以为是打雷了”。</p>
+<p>新华社报道称，爆炸发生后，淄博市公安消防支队排除150名消防员到场扑救，并向济南、东营等地消防人员要求增援，至星期天1时50分许扑灭明火。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150823040611_cn_shandong_chemical_blast_newspaper_976x549_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150823040611_cn_shandong_chemical_blast_newspaper_976x549_bbcchinese_nocredit.jpg" alt="150823040611_cn_shandong_chemical_blast_newspaper_976x549_bbcchinese_nocredit" width="575" height=""></a><p>淄博官方媒体在爆炸当天早上才刚报道了市领导在生产安全会议上的讲话。（BBC中文网图片）</p></div>
+<p>桓台县政府称，淄博市和桓台县两级环保部门事发后对周边环境进行环境监测，暂未检出特征污染物。</p>
+<p>有关说法在微博上引来一些网民质疑，“新华视点”等官方媒体微博上也出现了删帖迹象。</p>
+<p>新华社报道确认，发生爆炸的山东润兴化工科技有限公司系山东润兴投资集团有限公司的全资子公司，是一家民营股份制企业，成立于2012年。</p>
+<p>报道说，润兴化工厂区今年7月份施工结束，8月份开始试产，其主要产品为己二腈，年产能力10万吨。</p>
+<p>己二腈用于制造尼龙，是无色油状液体，遇明火、高热可燃，释放有毒气体氧化氮。</p>
+<p><strong>频生事故</strong></p>
+<p>淄博桓台县近年出现过多次化工厂爆炸事件，同时还有油罐车爆炸起火事件。</p>
+<p>2014年6月12日，桓台县果里镇石化南路一辆满载35吨汽油的油罐车突然爆炸起火。媒体报道并未提及是否有人员伤亡。</p>
+<p>2012年8月25日，桓台县马桥镇的山东国金化工厂发生双氧水生产装置爆燃事故，造成一人死亡，七人受伤，另有两人失踪。</p>
+<p>2011年5月28日，桓台县唐山镇山东宝源化工股份有限公司一车间发生爆燃事故，当场造成三人死亡、八人轻伤。</p>
+<p>此外，桓台县一些企业曾被山东省环保厅指出有环保违法问题。</p>
+<p>（撰稿／责编：叶靖斯）</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%B1%B1%E4%B8%9C%E6%A1%93%E5%8F%B0%E5%8C%96%E5%B7%A5%E5%8E%82%E5%BC%80%E5%B7%A5%E8%AF%95%E4%BA%A7%E7%88%86%E7%82%B8%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B9%9D%E4%BC%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E4%BA%8B%E6%95%85/?category=18271" rel="tag">化工事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E5%AE%89%E5%85%A8/?category=18271" rel="tag">化工安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E4%BA%8B%E6%95%85/?category=18271" rel="tag">安全事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E5%AE%89%E5%85%A8/?category=18271" rel="tag">生产安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%A2%99%E5%A4%B4%E6%89%93%E7%81%B0%E6%9C%BA/" target="cdt-mirror">巴丢草 | 墙头打灰机</a>
+</h2>
+<p><p>@badiucao： 惋惜翻墙软件 #Shadowsocks 的陨落，感谢@clowwindy 付出的努力！道高一尺，墙高一丈，再接再厉，翻墙不息 ；）#翻墙 #GFW</p>
+<p>编辑注：翻墙软件shadowsocks客户端图标样式为一个蓝色纸飞机</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CNBOHRDU8AEpNNT.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNBOHRDU8AEpNNT.jpg" alt="CNBOHRDU8AEpNNT" width="450" height="611"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%A2%99%E5%A4%B4%E6%89%93%E7%81%B0%E6%9C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/shadowsocks/?category=18271" rel="tag">shadowsocks</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BB%BF%E8%89%B2%E5%92%8C%E5%B9%B3%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%91%A8%E8%BE%B9%E5%B1%85%E6%B0%91%E5%8C%BA%E5%8F%8A%E6%B5%B7%E6%B2%B3%E8%A2%AB%E6%A3%80%E5%87%BA%E5%BE%AE/" target="cdt-mirror">绿色和平：爆炸核心区周边居民区及海河被检出微量氰化物</a>
+</h2>
+<p><p><em>原标题：绿色和平二赴天津独立检测水质 爆炸核心区周边居民区及海河被检出微量氰化物</em></p>
+<p><strong>天津，</strong><strong>201</strong><strong>5年8月21日</strong>——绿色和平快速反应小组于20日进入天津爆炸事故现场3公里内的爆炸核心区，对多处居民楼周边水域进行检测，并对被曝发现大量死鱼的海河河畔进行氰化物检测。结果发现，居民区某些水体及海河水中含有微量氰化物。</p>
+<p>8月20日，绿色和平快速反应小组成员在穿戴好个人防护装备后，先后进入滨海新区5公里、3公里、1公里以内的爆炸点周边区域，对共计七个地点进行了水质采集和氰化物浓度快速检测。水质检测地点包括：</p>
+<ol><li>曾在雨后出现白色泡沫的街道附近居民区——美华酒店旁边的御景园邸景观水池。</li>
+<li>距离爆炸核心区5公里的大片水域——滨海国际会议中心广场的景观湖。</li>
+<li>爆炸核心区内部三个居民区——万科金域蓝湾景观池、天滨公寓马路两侧积水滩、滨港公寓附近入海明渠南北两段水流。</li>
+<li>当日出现大量死鱼的天津海河水域——渤海石油路、闸东路交汇海滩。</li>
+</ol><p>绿色和平采用的采样试剂工具包括：</p>
+<p>试剂一：日本品牌，型号WAK-CN：检测范围 0.02以下-2mg/L。</p>
+<p>试剂二：德国品牌，型号VisocolorECO Cyanid：检测范围 0.01-0.20mg/L。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/821-2-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/821-2-1.jpg" alt="821-2-1" width="575" height=""></a><br><em>（2015年8月20日，天津塘沽。绿色和平到达媒体提到“有白色泡沫产生”的金海路美华酒店附近，御景园邸景观水池快速检测氰化物。 ©Greenpeace）</em></p>
+<p><strong>采样结果汇总：</strong></p>
+<table width="561"><tbody><tr><td width="142"><strong>取样点</strong></td>
+<td width="85"><strong>距离爆炸核心区的距离</strong></td>
+<td width="102"><strong>检测时间</strong></td>
+<td width="232"><strong>检测结果</strong></td>
+</tr><tr><td width="142"><strong>御景园邸</strong></td>
+<td width="85">4.7公里</td>
+<td width="102">05:50</td>
+<td width="232">试剂未检测出氰化物</td>
+</tr><tr><td width="142"><strong>滨海国际会议中心</strong></td>
+<td width="85">1.8公里</td>
+<td width="102">07:35</td>
+<td width="232">试剂未检测出氰化物</td>
+</tr><tr><td width="142"><strong>万科金域蓝湾</strong></td>
+<td width="85">1.3公里</td>
+<td width="102">09:40</td>
+<td width="232">试剂未检测出氰化物</td>
+</tr><tr><td width="142"><strong>天滨公寓周边</strong></td>
+<td width="85">0.9公里</td>
+<td width="102">10:50</td>
+<td width="232">试剂一：快速检测后颜色由原液的略黄色变为粉红色，与比色卡比对后，无法得出参考数据；试剂二：进一步取样检测后，比对比色卡，氰化物污染浓度约为0.01-0.02mg/L；再次在同一水滩和附近类似水滩两次复核后，结论相同。</td>
+</tr><tr><td width="142"><strong>港滨公寓附近</strong><strong>北段入海明渠</strong></td>
+<td width="85">2.2公里</td>
+<td width="102">15:00</td>
+<td width="232">水样检出氰化物污染浓度约在 0.01mg/L；</td>
+</tr><tr><td width="142"><strong>滨港公寓附近</strong><strong>南段入海明渠</strong></td>
+<td width="85">1.4公里</td>
+<td width="102">15:40</td>
+<td width="232">试剂未检测出氰化物</td>
+</tr><tr><td width="142"><strong>海河的入海口</strong></td>
+<td width="85">6.6公里</td>
+<td width="102">17:35</td>
+<td width="232">水样检出氰化物污染浓度约在0.01-0.02mg/L；</td>
+</tr></tbody></table><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/821-2-2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/821-2-2.jpg" alt="821-2-2" width="575" height=""></a><br><em>（2015年8月20日，天津塘沽。有媒体报道，距离核心爆炸点6公里处的海河闸岸附近出现大量死鱼现象。快速反应小组赶到现场采水样，现场已聚集很多记者拍摄，并有记者愿意跟踪获悉检测结果。©Greenpeace）</em></p>
+<p>绿色和平快速反应小组在漂浮着大量死鱼的海河入海口检测出微量氰化物后，已立刻对该水域进行了水体采样，并送往第三方实验室进行详细化验，结果将在下周公布。</p>
+<p>绿色和平受到仪器设备短缺的限制，此次只能对上述有限地区的氰化物进行检测，未能对其他具有潜在环境风险的污染物进行评测，因此上述检测结果不能对目前天津爆炸事故对当地的环境影响给出全面的评估。</p>
+<p><strong>绿色和平快速反应小组在采样期间所穿戴的防护设备有：</strong></p>
+<table width="568"><tbody><tr><td width="177"><strong>防护装备英文名称</strong></td>
+<td width="201"><strong>防护装备中文名称</strong></td>
+<td width="189"><strong>主要功能</strong></td>
+</tr><tr><td width="177"><strong>Gas detector</strong></td>
+<td width="201">气体个人报警检测器</td>
+<td width="189">探测SO2气体</td>
+</tr><tr><td width="177"><strong>Half-face mask with filters</strong></td>
+<td width="201">带滤芯半面罩(滤芯3M 6057)</td>
+<td width="189">6057功能：有机蒸汽、氯气、氯化氢、二氧化硫、硫化氢、氰化氢(配合全面具在低浓度中有限制使用)</td>
+</tr><tr><td width="177"><strong>Full face mask with filters</strong></td>
+<td width="201">带滤芯全面罩(滤芯3M 6057)</td>
+<td width="189">6057功能：有机蒸汽、氯气、氯化氢、二氧化硫、硫化氢、氰化氢(配合全面具在低浓度中有限制使用)</td>
+</tr><tr><td width="177"><strong>UVEX dust mask</strong></td>
+<td width="201">UVEX一次性口罩</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Protective goggles</strong></td>
+<td width="201">护目镜</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Disposable gloves</strong></td>
+<td width="201">一次性手套</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Butyl gloves</strong></td>
+<td width="201">非一次丁基合成橡胶性手套</td>
+<td width="189">防酸碱</td>
+</tr><tr><td width="177"><strong>Rubber boots</strong></td>
+<td width="201">长筒胶鞋</td>
+<td width="189">防酸碱</td>
+</tr><tr><td width="177"><strong>C1 PPE suit</strong></td>
+<td width="201">可抛弃式防化服</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Tyvek suit</strong></td>
+<td width="201">一次性防化服</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Duct tape</strong></td>
+<td width="201">灰色布基胶带</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Wind indicator</strong></td>
+<td width="201">风向仪</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Wind velocity indicator</strong></td>
+<td width="201">风速仪</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Hydrogen Peroxide Solution</strong></td>
+<td width="201">双氧水</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>Cooling jacket</strong></td>
+<td width="201">冷却工作服</td>
+<td width="189">配冰袋</td>
+</tr><tr><td width="177"><strong>disposable shoe covers</strong></td>
+<td width="201">一次性鞋套</td>
+<td width="189"></td>
+</tr><tr><td width="177"><strong>work jacket</strong></td>
+<td width="201">现场工作服</td>
+<td width="189">长衣长裤</td>
+</tr></tbody></table><p>在采样的过程中，天津滨海新区的居民为绿色和平提供了大量帮助。同时我们也发现，不仅许多滨海新区居民没有佩戴任何防护装备，即使是在现场维持秩序 的安保人员，也缺乏数量足够的防护装备。绿色和平建议所有长期停留在爆炸中心周边的人群，请务必在保证自身健康安全的前提下工作和生活。</p>
+<p>天津爆炸发生之后，绿色和平8月16日公布了第一次赴现场检测的结果。此次是爆炸后绿色和平第二次来自现场的独立检测。基于两次独立检测及现场观 察，绿色和平呼吁：政府部门尽快在居民区展开全面检测，将爆炸事故的环境危害降到最低，并及时、全面地向周边居民公开环境检测结果。同时，绿色和平建议政 府部门持续监测本次事故对环境的长期影响，将检测评估等信息及时向公众进行披露，并采取措施保护公众健康。</p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%EF%BC%9A%E6%AD%BB%E9%B1%BC%E6%B2%B3%E6%AE%B5%E6%9C%AA%E6%A3%80%E5%87%BA%E6%B0%B0%E5%8C%96/">凤凰网｜天津环境监测中心：死鱼河段未检出氰化物</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/">【网络民议】天津海河单身鱼溺水群体自杀事件</a></li>
+</ul></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BB%BF%E8%89%B2%E5%92%8C%E5%B9%B3%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%91%A8%E8%BE%B9%E5%B1%85%E6%B0%91%E5%8C%BA%E5%8F%8A%E6%B5%B7%E6%B2%B3%E8%A2%AB%E6%A3%80%E5%87%BA%E5%BE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E7%89%A9/?category=18271" rel="tag">氰化物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%BF%E8%89%B2%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">绿色和平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%91%A8%E9%94%8B%E9%94%81%E5%9B%9E%E5%BA%94%E7%8E%AF%E6%97%B6%E6%88%91%E5%B0%B1%E6%98%AF%E8%A6%81%E5%83%8F%E7%9F%B3%E5%A4%B4%E8%88%AC%E6%8B%92%E7%A7%BB/" target="cdt-mirror">美国之音｜周锋锁回应环时:我就是要像石头般拒移半步</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/FE969B55-3755-4F42-AFB6-06F80974032D_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/FE969B55-3755-4F42-AFB6-06F80974032D_w640_r1_s.jpg" alt="周锋锁接受美国之音采访" width="575" height=""></a><p>周锋锁接受美国之音采访</p></div>
+<p>在美国之音采访六四学生领袖周锋锁后，中国官媒《人民日报》旗下的《环球时报》为此发表评论员文章，题为《26年潮来潮去，他们像沉入河底的石头》。</p>
+<p>评论文章标题称周锋锁为“沉入河底的石头”，文章中更是称其为“化石”。这篇署名为单仁平的文章说，周锋锁等“美国八九一代们”不能进入“美国主流”，活得跟流亡者似的。</p>
+<p>周锋锁回应说，他愿意为中国的民主和自由作一块石头。</p>
+<p>他对美国之音说：“能够像石头一样，在中国发动的邪恶浪潮面前，‘拒绝移动半步’，这非常的好。”</p>
+<p>这篇文章虽然针对周锋锁接受美国之音采访时发表的评论，但全文没有提及任何采访内容。周锋锁说：“我想，他们是不是能敢于将采访的内容发出呢？这样我们可以有一个公开的辩论。”</p>
+<p>《环时》文章中提到，“周锋锁依然在政治上跟中国政府纠缠，发起‘人道中国’组织，担任‘中国民主教育基金会’会长的工作。“</p>
+<p>“人道中国”是周锋锁等人在2007年联合建立的为中国因社会、政治和宗教原因遭受不公义对待的人提供人道支持和援助的组织。而“中国民主教育基金会”则是组织促进中国民主法治、维护人权自由的教育活动的机构，总部在美国加州。</p>
+<p>周锋锁说，他非常感谢中国官媒提到了他在美国所做的推进民主和人权的工作，因为这些工作是无法在中国公开宣传的。</p>
+<p>他说：“我很为这些事情自豪。美国社会给我提供了自由表达的空间，我能做这些事情，非常感谢这里给我的这个机会。要说不得志的地方，我觉得是做得还不够好。“</p>
+<p>《环时》文章没有使用“六四”这个敏感词，但称周锋锁在“当时选择了逃跑”。而周锋锁告诉美国之音，他当年是被通缉并抓捕的，并不是逃跑。</p>
+<p>周锋锁说：“我是在中国监狱作了一年的牢，后来他们用流放的方式，让我在一个偏远的地方呆了一年。此后一直在国内被他们跟踪，骚扰，监视，没有办法有正常的生活。”</p>
+<p>这篇文章说，留在中国的绝大多数“八九一代”已经“刷新了对那段往事的认识”，他们在各行各业释放活力和能量，其“集体胸怀和格局”甩周锋锁好几条街，还劝周锋锁做美国人要“做的有尊严些”。</p>
+<p>对此，周锋锁说，在中国的这代人是被中共压制的奴隶，没有发出声音的机会。很多人八九年的一切还有强烈的认同，只是不敢说而已。他还说，争取民主和自由是要付出代价的。他对国内的犬儒气氛嗤之以鼻。</p>
+<p>他说：“我的尊严就在于挑战这样一个暴政。就在于维护我们的良知。在于继续关注所有中国国内在反抗的人们，去关注八九民运和六四屠杀的真相，去关注所有受害者。”</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%91%A8%E9%94%8B%E9%94%81%E5%9B%9E%E5%BA%94%E7%8E%AF%E6%97%B6%E6%88%91%E5%B0%B1%E6%98%AF%E8%A6%81%E5%83%8F%E7%9F%B3%E5%A4%B4%E8%88%AC%E6%8B%92%E7%A7%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">八九学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E4%BB%81%E5%B9%B3/?category=18271" rel="tag">单仁平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E9%94%8B%E9%94%81/?category=18271" rel="tag">周锋锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/" target="cdt-mirror">【草泥马语】法西斯蓝</a>
+</h2>
+<p><p><em>“<a href="http://chinadigitaltimes.net/space/Grass-Mud_Horse_Lexicon_%28arranged_alphabetically%29">草泥马语词典</a>” （英文版翻译为 Grass Mud Horse Lexicon）是中国数字时代的一个中英双语项目，自2010年以来持续收集了许多在网民中热传的种种时政词汇，比如“天朝”、“这是一个奇迹”、“法律不是挡箭牌”等等。我们在不断完善和补充词条内容的同时也希望能将新出炉的“草泥马语”与大家一同分享。</em></p>
+<p><strong><a href="http://chinadigitaltimes.net/space/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D">法西斯蓝</a></strong>：来源于“反法西斯蓝”，模仿“APEC蓝”的用法，以讽刺所有类似政府为特定活动而依靠行政手段获得“蓝天”的现象。</p>
+<p>2015年8月，为了保证纪念反法西斯战争胜利70周年“93大阅兵”期间的空气质量，北京当局使用行政手段采取了<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E8%BF%98%E6%98%AF%E6%B3%95%E8%A5%BF%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9/a-18661627">诸多限制措施</a>：</p>
+<blockquote><p>北京市政府还发出通告，该市机动车辆实施临时交通管理措施，单双号限行长达两周时间。</p>
+<p>为了保障阅兵前后北京的空气质量，从8月28日至9月4日，北京、天津、河北、内蒙古、山东、山西、河南等七省市，还将临时统一强化减排，停产、限产企业总数将达1万多家，主要涉及钢铁、化工、橡胶等污染企业。同时，近9000个建筑工地将暂停施工。此外，靠近山东的江苏省徐州部分钢厂、选矿厂和球团厂也接到了停限产通知。</p></blockquote>
+<p>2015年8月22日，包括中共党媒《人民日报》在内的各大媒体转发了北京出现的所谓“阅兵蓝”现象，也有媒体称之为“反法西斯蓝”。这是继“APEC蓝”、“两会蓝”后，中国官方再次对依靠行政手段得到的所谓北京“蓝天”进行正面宣传。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/005XxMYmjw1evbij9287wj30yi1pcb2a.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005XxMYmjw1evbij9287wj30yi1pcb2a.jpg" alt="005XxMYmjw1evbij9287wj30yi1pcb2a" width="400" height="711"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86.png" alt="美国国家地理" width="550" height="271"></a></p>
+<p><strong>相关民议：</strong><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%A4%A9-%E6%89%8B%E6%92%95%E9%AC%BC%E5%AD%90%E7%9A%84%E8%93%9D/"><strong>【网络民议】共产主义的天 手撕鬼子的蓝</strong> </a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/apec%E8%93%9D/?category=18271" rel="tag">apec蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%A4%A9-%E6%89%8B%E6%92%95%E9%AC%BC%E5%AD%90%E7%9A%84%E8%93%9D/" target="cdt-mirror">【网络民议】共产主义的天 手撕鬼子的蓝</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%98%85%E5%85%B5%E8%93%9D.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%98%85%E5%85%B5%E8%93%9D.png" alt="阅兵蓝" width="475" height=""></a></p>
+<blockquote><p>@人民日报：#抗战胜利#【有一种蓝，叫做“阅兵蓝”[浮云]】继“APEC蓝”之后，大家又开始晒“阅兵蓝”了。今天，你被蓝天刷屏了吗？（图自网友）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6f1045a5jw1evb9k2xiykj20k00qo783.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6f1045a5jw1evb9k2xiykj20k00qo783.jpg" alt="6f1045a5jw1evb9k2xiykj20k00qo783" width="400" height=""></a><br><em>（图片来源：新浪微博）</em></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>Jason-Kuhn：法西斯蓝</p>
+<p>呆萌她老舅：手撕鬼子蓝</p>
+<p>涂坪兄：终于相信，人定胜天了。</p>
+<p>见怪不怪20020309：悲哀至极，何炫之有！……</p>
+<p>sputnikk：不以为耻 反以为荣</p>
+<p>游动在帝都的鱼：有apec蓝，阅兵蓝，独缺老百信蓝</p>
+<p>吏科给事中-：呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵，朝廷想办什么大事就会有什么样的蓝天。</p>
+<p><a href="http://weibo.com/2130113640" target="_blank">如果能看透人心多好</a>：希望外国人一直来中国做客，他们一来我们天都是蓝的，水是清的，空气是清新的。来了就别走啊，不然又是雾霾，又是水体污染，又是空气污染，你来或不来，一切都变得不样<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/leedorf" target="_blank">Leedorf</a>：一半的车不让开，路边的商铺饭店几乎全部停业，就连郊区老百姓家里的炉灶都封了不让做饭。。。。换了哪个地方的天都特么会蓝<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/2759856165" target="_blank">乐乐de笑笑</a>：<a href="http://weibo.com/n/%E7%AC%91%E7%AC%91de%E4%B9%90%E4%B9%90?from=feed&loc=at" target="_blank">@笑笑de乐乐</a><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">原来不是做不到啊</p>
+<p><a href="http://weibo.com/airaincherry" target="_blank">海誓山萌_非程勿扰</a>：秀给歪果仁看的而已，完事还不是一个鸟样<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>小树LittleTree：天空是可以被操控的，邪恶。北京人为啥不要天天天蓝？！</p>
+<p>余料：蓝天前加的修饰语可真不是什么荣光。</p>
+<p>海涛节操不多不做毁节操事：”哪里的天空最蓝？””开会的北京。”</p>
+<p>宇航动力：转这个有意思吗……平时不治理，临时抱佛脚。不顾民生的关停临时周边省市工厂，连烧烤都不让……就为这几天，有什么意义！！！我们需要一次真正的治理，换回绿水青山。</p>
+<p>你歇歇罢：限号停产。 政府你想天蓝倒是治理啊？ 就活动那几天粗暴停产以后不过日子了？</p>
+<p>圈圈圆圆777：让我们周边的工厂都停工限电，车辆限行，请问这样为这几天的蓝天值得吗？环境治理应该做，但是这样的表面功夫真的好吗？我们只是限这几天，以后呢？还是雾霾还是灰突突的天？现在就是劳民伤财，又不能真的治理环境。</p>
+<p>双鱼兔_WISH：我们曲阳的工人停了 要歇半个月班 曲阳都很蓝了！！！</p>
+<p>叱吒牛哥：把我们河北直接推平，你们北京就天天她妈蓝了，为了蓝天就不让老百姓活了？治理污染没本事，就能欺负老百姓</p>
+<p>宝蓝Forever爱SJ萌希澈xi：一直觉得APEC蓝 是讽刺天朝政府的反语呢</p>
+<p>花虎伯拉：看来百姓的生存比不过个阅兵</p>
+<p>-杰杰杰：这叫共产主义的天…</p>
+<p>LisaTang_太阳城：要治理很简单，哪用得着20年。就是没有治理而已，一有活动停产几天，让领导有面子。</p>
+<p>Gary_Ng：有句话叫屎吃多了不知道饭味</p>
+<blockquote><p><strong>相关阅读</strong>： <a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%98%85%E5%85%B5%E5%8F%82%E9%98%85%E8%8B%B1%E6%A8%A1%E9%83%A8%E9%98%9F%E6%96%B9%E9%98%9F%E5%8C%85%E6%8B%AC-%E7%8B%BC%E7%89%99%E5%B1%B1/">【异闻观止】阅兵参阅英模部队方队包括 “狼牙山五壮士”等 </a></p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%A4%A9-%E6%89%8B%E6%92%95%E9%AC%BC%E5%AD%90%E7%9A%84%E8%93%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/apec%E8%93%9D/?category=18271" rel="tag">apec蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E9%83%BD/?category=18271" rel="tag">帝都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%85%BE%E8%AE%AF%E5%9B%BE%E7%89%87-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1%E6%A0%A1%E5%90%8D%E9%A2%98%E5%AD%97%E7%9F%B3%E8%A2%AB%E7%A7%BB%E9%99%A4/" target="cdt-mirror">腾讯图片 | 中共中央党校校名题字石被移除</a>
+</h2>
+<p><p>2015年8月21日，北京，海淀区大有庄100号中共中央党校。当日，中央党校门前题有“中共中央党校”的巨石已经被移走，大型施工机械正在现场施工，几名工人在整理裸露的地面。詹敏/东方IC （编辑注：江泽民题）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/10001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/10001.jpg" alt="1000" width="600" height="348"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1000-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1000-1.jpg" alt="1000 (1)" width="600" height="450"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%85%BE%E8%AE%AF%E5%9B%BE%E7%89%87-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1%E6%A0%A1%E5%90%8D%E9%A2%98%E5%AD%97%E7%9F%B3%E8%A2%AB%E7%A7%BB%E9%99%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1/?category=18271" rel="tag">中共中央党校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%98%E5%AD%97%E7%9F%B3/?category=18271" rel="tag">题字石</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C/" target="cdt-mirror">苹果日报｜天津爆炸放白兔試毒 網友：怎不放官員？</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/420_863040e6662f2d2370ae45cda063a506.jpg" alt="420_863040e6662f2d2370ae45cda063a506" width="420" height="235"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/640_9fea66b0aaaf931e215d737055a8af6b.jpg" alt="640_9fea66b0aaaf931e215d737055a8af6b" width="549" height="307"></p>
+<p>中國天津濱海新區大爆炸後，現場洩漏大量有害化學品，造成嚴重污染。北京軍區一支部隊按指揮部專家要求，將一些敏感動物如雞、白鴿與小白兔，放進爆炸現場核心區，測試現場是否適合生存。</p>
+<p>部份動物被暴露在充滿有害化學物質的環境下，兩小時後才回收。有網友怒斥，人類作孽，竟要動物無辜犧牲，情何以堪。另有網友反建議，讓專家、官員們在現場待半年，肯定得出結論。</p>
+<p>以下為網友意見</p>
+<p>「好原始啊，難道現在是清朝？」</p>
+<p>「小動物太可憐了，還是放領導進去觀察實驗吧。」</p>
+<p>「莫名心酸」</p>
+<p>「把當初環評簽字的人放進去」</p>
+<p>「明天新聞聯播就會有現在連線採訪這些畜生，讓牠們談談感受」</p>
+<p>「儀器都不用，直接放動物。畜牲」</p>
+<p>「估計最後是熱死的」</p>
+<p>（大陸中心／綜合外電報導）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%80%9D%E6%83%B3%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%B5%82%E7%B5%90%E6%B1%B6%E5%B7%9D%E6%A8%A1%E5%BC%8F/" target="cdt-mirror">东网｜王思想：天津爆炸終結汶川模式</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150822000318810-0822_05411_001_01p.jpg" alt="bkncn-20150822000318810-0822_05411_001_01p" width="548" height="391"><br>
+天津爆炸案後，官媒用巨量篇幅宣傳官員、軍警，但網民對此毫無興趣。</p>
+<p>天津爆炸事件發生後，我發的第一條微博是「三拒一追」：拒絕祈福，拒絕歌頌、拒絕捐款，必須追責。</p>
+<p>一周時間下來，事情的發展令人欣慰。以「祈福、歌頌、逼捐」為核心的汶川模式，曾經忽悠無數國人。在短短7年之後，這一模式徹底破產。</p>
+<p>大規模的中國式祈福，始自汶川地震。當時的互聯網上，滿屏幕都是蠟燭，都是祈福。令人厭惡卻又無可奈何。</p>
+<p>祈福本是中性詞，祈福本身並沒有錯。然而，正如其他事情在今天的中國總會被歪曲、被利用一樣，祈福也變異了。</p>
+<p>百姓用祈福表達著廉價的同情，同時在潛意識中讓自己感覺到在艱難的生活中「有人比我還慘」，中國人在表達各種同情時幾乎都有這個邪惡的潛意識。</p>
+<p>掌握公權力的人忽悠祈福，則另有用意，不僅要讓百姓暫時忘卻高房價、高稅收之痛，還要把百姓引導進入感動、歌頌的軌道。利用祈福營造溫情期待，開啟歌頌的大門。你不是乞求災民平安嗎？那麼，人家給災民送水送被子了，你們作為旁觀者，任務就是感動，然後歌頌、感恩了。黨疼國愛，縱做鬼，也幸福。</p>
+<p>在汶川地震中，官方媒體用巨量篇幅宣傳官員、軍警。在天津爆炸案中，官媒依然如此，但網民對此毫無興趣。倒是有一些網民在追問：為什麼中國消防員的裝備那麼簡陋？扛著一把鐵鍬進去救災，有什麼用？</p>
+<p>按照汶川模式，在祈福、歌頌之後，接下來就是捐款。動員大家捐款，可以節省大量的財政支出。每當官家忽悠捐款的時候，總有一些不合時宜的自由主義分子跳出來質疑說：我們納稅人養政府是幹什麼用的，用處之一難道不是在遇到災難時出來救災嗎？從汶川地震到天津爆炸，這樣的質疑逐漸引起共鳴。</p>
+<p>捐款的操辦者，動力十足。這個不奇怪。雁過拔毛，缺乏監督。中國紅十字會的奢華生活正在終結，導致其沒落的郭美美，毫無疑問是民族女英雄，她無意成為英雄，世事卻已經造就她的英雄勛章。</p>
+<p>此次天津爆炸案後，中國各紅十字會方面硬著頭皮進行募捐。結局是所有人都知道的，雖然多數人不會清楚具體數字。我查了一下，到爆炸一周的時候，天津紅十字會只捐出2000萬元。這2000萬元是用的以前的存款，還是新募集的，不詳。中國紅十字總會的捐款，不詳。</p>
+<p>有一網友發了一則微博，大意是：天津爆炸事件後，他募集了一部分物資到天津港，被紅十字會強行接管。這則消息的真實性待考證，但從微博後面的評論看，大家全都相信此事為真。想一想汶川地震的時候，紅十字會收物資收到無處堆放、拒絕接收，數錢數到手發麻，而如今需要為一點點物資而「強行接管」，令人感嘆7年時間滄海桑田。</p>
+<p>中國紅十字會的生存應該不成問題。其通過一個汶川地震所獲盈利，估計30年也用不完。但作為一個政治角色，其生命已經終結。</p>
+<p>汶川地震時期出現的可恥的「逼捐」現象，在天津爆炸案之後幾乎沒再出現。</p>
+<p>汶川地震與天津爆炸，貌似不同，一個是天災，一個是人禍。事實果真如此嗎？注意，我們所談論的，是兩次事件帶給當地民眾的具體傷害。地震當然是天災，而在地震中倒塌那麼多校舍、救災中出現那麼多不堪的事情，無疑是人禍。</p>
+<p>人禍必須追責，追責難於上青天。許多人寄希望於政治內部鬥爭能讓責任暴露。即便到了天津爆炸事件，這個依然沒什麼可說的，等待吧。</p>
+<p>汶川模式已經破產，今後中國式救災怎麼辦？官方機構必須拿出對策了。</p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%80%9D%E6%83%B3%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%B5%82%E7%B5%90%E6%B1%B6%E5%B7%9D%E6%A8%A1%E5%BC%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E8%B4%A3/?category=18271" rel="tag">问责</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BC%9A%E7%9C%8B%E7%9C%8B%E5%A4%A9%E6%9C%9D%E5%AE%98%E5%83%9A%E7%B3%BB%E7%BB%9F%E5%A4%9A%E4%B9%88%E4%BD%8E%E6%95%88%E5%92%8C%E6%97%A0%E8%83%BD-%E5%A4%A9/" target="cdt-mirror">编程随想：看看天朝官僚系统多么低效和无能—天津大爆炸随想</a>
+</h2>
+<p><p><b>文章目录</b><br><a href="http://program-think.blogspot.com/2015/08/2015-Tianjin-Explosions.html#head-1">★竟然没有“救援总指挥”</a><br><a href="http://program-think.blogspot.com/2015/08/2015-Tianjin-Explosions.html#head-2">★到底有没有“紧急疏散”？——朝廷喉舌被朝廷喉舌辟谣</a><br><a href="http://program-think.blogspot.com/2015/08/2015-Tianjin-Explosions.html#head-3">★到底有没有“神经性毒气”？——朝廷喉舌被朝廷喉舌打脸</a><br><a href="http://program-think.blogspot.com/2015/08/2015-Tianjin-Explosions.html#head-4">★愚蠢的“新闻发布会”——凸显朝廷宣传系统的低能</a><br><a href="http://program-think.blogspot.com/2015/08/2015-Tianjin-Explosions.html#head-5">★天津无新闻——凸显某些官僚的“不作为”</a><br><a href="http://program-think.blogspot.com/2015/08/2015-Tianjin-Explosions.html#head-6">★另外一些奇葩</a><br><a href="http://program-think.blogspot.com/2015/08/2015-Tianjin-Explosions.html#head-7">★简单总结一下</a></p>
+<p><a href="http://program-think.blogspot.com/2015/08/weekly-share-91.html">上一篇博文</a>刚发过《每周转载》，所以今天就不再发《每周转载》了（俺尽量避免连着发，免得有读者抱怨俺——写原创博文不积极）。<br>
+今天这篇，继续抹黑党国——主要让大伙儿见识一下：天朝各级衙门是多么的低效和无能。然后在本文结尾，俺做一下简单的分析。<a name="more"></a><a name="head-1"></a></p>
+<h2>★竟然没有“救援总指挥”</h2>
+<p>8月16日10时，召开了灾爆炸事故的“第6次新闻发布会”。此时距离事故发生，已经过去了80多个小时（超过3天）。<br>
+那天的记者提问环节，财新网记者提了一个“看似平淡实则尖锐”的问题——<q>此次爆炸事故救援总指挥是谁，如何组织指挥？</q><br>
+负责回答记者提问的龚建生（天津党委宣传部副部长）竟然回答说：<q>这个问题下来以后，我再尽快详细了解</q></p>
+<p>额滴神啊！作为“中共建政以来最严重的爆炸案”，救灾工作已经进行到第4天，各级衙门竟然没有定出一个“救灾总指挥”。难道说，这么多参与救灾的部门，都是在各自为战？<br>
+龚建生的这个回答，立即在网上引起广泛的嘲讽和质疑。按理说朝廷方面应该以最快速度确定出“总指挥”的人选，以平息各方质疑。但实际上捏，一直拖到两天之后（8月18日）的“第8次新闻发布会”，大伙儿才知道谁是总指挥。<br>
+当时的情形是：救灾工作分秒必争，网上舆论一片哗然。如此紧急的情况下，朝廷方面居然还要花两天时间才公布总指挥的人选。咱天朝官僚系统的效率也太低下了吧？<br>
+面对这个姗姗来迟的“总指挥”，某网友讽刺道：<q>头七小时确定的救援总指挥，负责指挥救援；等到“头七”才确定的总指挥，负责指挥烧纸钱。</q></p>
+<p><a name="head-2"></a></p>
+<h2>★到底有没有“紧急疏散”？——朝廷喉舌被朝廷喉舌辟谣</h2>
+<p>先来看如下报道，出自朝廷喉舌“人民网”：<br>
+《<a href="http://politics.people.com.cn/n/2015/0815/c70731-27466938.html" target="_blank" rel="nofollow">天津港爆炸点三公里内人员被要求紧急疏散 @ 人民网</a>》 （2015年08月15日 13:04）</p>
+<blockquote><p>8月15日上午11时许，天津塘沽爆炸现场附近武警消息，要求距离爆炸核心区范围三公里内人员全部撤离。环保、交警等现场多个部门工作人员证实撤离消息属实。截至发稿，通往核心区域的东海路已被武警封死，相关人员正在陆续撤离现场。</p></blockquote>
+<p>再来看另一条消息，出自“中国新闻网”（同样是朝廷喉舌）<br>
+《<a href="http://www.chinanews.com/sh/shipin/2015/08-15/news591613.shtml" target="_blank" rel="nofollow">“天津港事故发生地方圆两公里范围内群众撤离”为不实消息 @ 中新网</a>》 （2015年08月15日 20:05）</p>
+<blockquote><p>8月15日下午5时，天津市召开滨海爆炸事故第五场新闻发布会，天津市委宣传部副部长龚建生回应网上传播的“在天津港爆炸事故发生地方圆两公里范围内群众撤离”的消息时表示，经证实该情况为不实消息。</p></blockquote>
+<p>列位看官，上述两条都来自朝廷喉舌的网站——同一天发布的新闻，自相矛盾啊。如此重大的事故，中央政府旗下新闻网站，报道却如此混乱。</p>
+<p><a name="head-3"></a></p>
+<h2>★到底有没有“神经性毒气”？——朝廷喉舌被朝廷喉舌打脸</h2>
+<p>人民微博在 2015-08-19 11:52 发了一条博文，链接在“<a href="http://t.people.com.cn/527612/128788424" target="_blank" rel="nofollow">这里</a>”，原文如下：<br>
+【现场测出神经性毒气 天津环保局回应】据焦点访谈报道，在生化侦检队伍对#天津港爆炸事故#核心区空气监测时，除氰化钠，还发现了神经性毒气。专家称，“一旦人吸入，可与神经细胞作用，使酶失活，导致呼吸心脏等骤停进而致人死亡。”天津市环保局应急专家组组长包景岭称将和军方联系，看有什么物质。<br>
+（俺顺便再贴出视频截图如下）</p>
+<p></p><center><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b_527612_multi_1439956354403_1.jpg" alt="b_527612_multi_1439956354403_1" width="441" height="273"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b_527612_multi_1439956354403_2.jpg" alt="b_527612_multi_1439956354403_2" width="440" height="272"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b_527612_multi_1439956354403_3.jpg" alt="b_527612_multi_1439956354403_3" width="438" height="267"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b_527612_multi_1439956354403_4.jpg" alt="b_527612_multi_1439956354403_4" width="440" height="274"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b_527612_multi_1439956354403_5.jpg" alt="b_527612_multi_1439956354403_5" width="439" height="268"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b_527612_multi_1439956354403_6.jpg" alt="b_527612_multi_1439956354403_6" width="440" height="265"></center><br>
+就在上述博文贴出来不久，新华网发布了下面这篇，堪称“针锋相对的打脸”。<br>
+《<a href="http://news.xinhuanet.com/local/2015-08/19/c_1116306486.htm" target="_blank" rel="nofollow">专家：天津港爆炸核心区所谓“神经性毒气”之说属“重大误判” @ 新华网</a>》 2015年08月19日 15:12:18<br>
+（以下是这篇报道的摘录，粗体是俺标注的）
+<blockquote><p>军事医学科学院专家、联合国禁止化学武器组织专家丁日高认同王永安的观点：“<b>只要具备专业常识，就知道这绝不可能</b>。”<br>
+同在现场执行任务的总参谋部防化指挥学院专家王宁也持同样观点：“我们看到这则报道时都很吃惊。”<br>
+“一般的测量仪器出现误报很常见。”王永安说，从电视来看，<b>现场使用的仪器并非行业中认定的可以准确确定检测结果的“金标准”仪器</b>。</p>
+<p>军事医学科学院毒物药物研究所研究员聂志勇、全军中毒救治中心王汉斌主任医师同时介绍，到目前为止，专家组并没有听说有神经性毒剂中毒病例。王汉斌认为，危险化学品检测及判读应当依据科学程序来进行。“此次重大误判，源自于对仪器检测的结果<b>没有进行常识性分析解读</b>。”</p>
+<p>王永安介绍，一般来说，对于这种容易发生误判的一般仪器检测出的结果，应当首先进行基于专业常识的分析判断，其次应与其他仪器检测出数据进行综合比对，如果仍有疑问，就应该用质谱等高级的“金标准”仪器进行确认，特别是神经性毒剂这种毒极性大、极易引发恐慌的化学品，尤其应该谨慎确认。</p></blockquote>
+<p>你看，央视的“焦点访谈”被新华网狠狠打脸了——这也再次体现出朝廷宣传系统的混乱。<br>
+真理部老是指责个别网民造谣，那么朝廷喉舌这种自相矛盾的报道（至少有一方是错的）——这算不算“官方造谣”捏？</p>
+<p><a name="head-4"></a></p>
+<h2>★愚蠢的“新闻发布会”——凸显朝廷宣传系统的低能</h2>
+<p>《新京报》在8月17日发了一篇《<a href="http://epaper.bjnews.com.cn/html/2015-08/17/content_593615.htm" target="_blank" rel="nofollow">6场发布会的已知与未知</a>》，俺摘录其中的几个统计数字如下（粗体是俺标注的）：</p>
+<blockquote><p>从<b>发布会时长</b>来看，六场发布会最长时间约为一个小时，<b>最短时间则仅有12分33秒</b>。新京报记者梳理发现，发布会中<b>给记者提问环节大部分在8分钟以下，最短不足5分钟</b>，最长的提问环节在昨日10时，一共给出了20分钟。</p>
+<p>由于官方在发布环节提供的信息不能满足媒体记者的疑问，发布会上官员多次遭到记者诘问，发布会场面一度非常尴尬。</p>
+<p>新京报记者整理的数据显示，<b>在六场发布会中，记者提问超过60个，其中过半问题未能当场得到答案。第三场发布会中，记者共提8个问题，有5个问题被官员直接回答“不知道”，“下一场给答案”；第四场中，记者9个问题中，4个被回复称“不了解”或“没办法给答复”，1个问题被回复“下一场给答复”。</b></p>
+<p>第一场发布会上，官员被问及危险品与居民区规定距离时，面面相觑。在第五场答记者环节，甚至有两个问题直接没有回答。新京报记者梳理发现，<b>首场发布会答记者问环节中，有记者就危化品仓库建在居民小区边如何通过规划、涉事企业如何通过安评及环评提出疑问，同一问题还在第三场第四场提问环节中被多次提及，但截至昨天上午第六场发布会止，该问题未能得到详细答复。</b></p>
+<p>在央视和天津电视台对六场发布会的直播中，有五场未直播答记者问环节，仅直播了首场答记者问，但当有记者提问起火的到底是什么物品时，直播画面中止，画面被转到主持人演播室。</p></blockquote>
+<p>另有网民总结了官员回答记者提问的常用句型：“不知道、不清楚、不关我事、不予回答、我很忙”。</p>
+<p><a name="head-5"></a></p>
+<h2>★天津无新闻——凸显某些官僚的“不作为”</h2>
+<p>以前“二战史”有一个典故叫做“西线无战事”，如今天朝有一个类似的说法叫做“天津无新闻”。<br>
+（<i>本文发出后，某热心读者指出，“西线无战事”是反映一战的影片，跟二战无关。其实捏，一战和二战都有“西线无战事”的典故。二战中是指“英法奉行的【绥靖主义】”</i>）<br>
+此次大爆炸如此之严重，欧美各大媒体（电视、报刊、网站）都在最显著的位置报道了天津的大爆炸，有些媒体在显著位置持续报道超过一周。<br>
+再来看看天津本地的电视台——天津卫视至13日上午仍在播韩国偶像剧和动画片，丝毫不见事故的报道。<br>
+（以下是爆炸次日，天津卫视的节目时间表）</p>
+<p></p><center><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150813082718_timetable_of_tianjin_tv_satellite_channel_512x288_bbcchinese.jpg" alt="150813082718_timetable_of_tianjin_tv_satellite_channel_512x288_bbcchinese" width="512" height="288"></center><br>
+（以下是相关的媒体报道）<br><a href="http://news.sina.com.cn/zl/zatan/2015-08-13/10364281.shtml" target="_blank" rel="nofollow">塘沽大爆炸，天津依然是座没有新闻的城市 @ 新浪新闻</a><br><a href="http://udn.com/news/story/8489/1121791" target="_blank" rel="nofollow">世界關注天津爆炸案 天津電視台猛播韓劇 @ 聯合新聞網</a>
+<p>补充说明：<br>
+有些读者可能认为：责任不在电视台，而在电视台的上级。<br>
+其实俺本文并没有说责任在电视台，不管责任在电视台、还是电视台的上级、还是上级的上级，都属于天朝官僚系统。本文的论点是：官僚系统的低效和无能。天津电视台的表现，让全世界看笑话，已经体现出这一点。</p>
+<p><a name="head-6"></a></p>
+<h2>★另外一些奇葩</h2>
+<p>8月16日的第六次新闻发布会，北京军区参谋长史鲁泽少将一上来说了句：“很高兴和大家见面”。令在座的众人雷倒一片。<br>
+（由于时间有限，肯定还有一些奇葩的事情没被俺发现。欢迎大伙儿补充。）</p>
+<p><a name="head-7"></a></p>
+<h2>★简单总结一下</h2>
+<p>虽说天朝的官僚系统一向效率不高、能力不强。但前些年的重大事故，各级衙门犯的低级错误，好像没这次多。<br>
+这里面当然有很多原因。俺单说其中一个原因——习呆呆的反腐。自从习呆呆上台并大力反腐之后，对官僚系统产生了两个影响：<br><b>1. 权斗</b><br>
+习呆呆的反腐是“选择性反腐”，最终目的是为了巩固自己权力。如此一来，必定会引发其他权贵集团的反抗。关于这方面，俺之前写过几篇博文，比如这篇：《<a href="http://program-think.blogspot.com/2014/08/chinese-leaders-power-struggle.html">党国喉舌反遭多次封杀，朝廷高层权斗日渐激烈</a>》<br>
+顺便说一下：像习呆呆这种反腐，肯定无法根治腐败，具体分析可以看《<a href="http://program-think.blogspot.com/2014/07/corruption-and-form-of-government.html">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》</p>
+<p><b>2. 懒政</b><br>
+所谓的“懒政”，通俗地说就是“占着茅坑不拉屎”。在反腐的背景下，很多官员坚守这样一条原则——【多干多错，少干少错，不干不错】。所以他们就宁可不干事儿。就算是自己份内的事儿，他们也尽量推、尽量拖、尽量踢皮球。<br>
+关于“懒政”现象的普遍性，朝廷自己是承认的（不信你去 google 一下朝廷喉舌的网站）。</p>
+<p>在上述这两种现象中，“权斗”主要牵涉到级别比较高的官员，而“懒政”主要影响级别比较低的官员。有这两个现象的存在，整个官僚系统的“效率和能力”必定会显著下降。<br>
+不光是这次的“天津大爆炸”体现出官僚系统的低效和无能。前不久的“救市”，同样是昏招频出。如今国家队救市已经救了一个多月，效果如何，大伙儿都看见了。<br>
+另外，如果你跟俺一样，也希望天朝发生政治变革；那么，对官僚系统的“低效和无能”，你应该感到高兴——各级衙门越是低效无能，推翻朝廷的胜算就越大 :)<br>
+对政治变革感兴趣的同学，可以去看俺写的《<a href="http://program-think.blogspot.com/2011/12/revolution-0.html">谈革命</a>》系列博文。</p>
+<p><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br><a href="http://program-think.blogspot.com/2014/07/corruption-and-form-of-government.html">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a><br><a href="http://program-think.blogspot.com/2011/12/revolution-0.html">谈革命（系列）</a><br><a href="http://program-think.blogspot.com/2014/08/chinese-leaders-power-struggle.html">党国喉舌反遭多次封杀，朝廷高层权斗日渐激烈</a></p>
+<div><b>版权声明</b><br>
+本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者<a href="mailto:program.think@gmail.com">编程随想</a>和<a href="http://program-think.blogspot.com/2015/08/2015-Tianjin-Explosions.html">本文原始地址</a>.
+</div>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BC%9A%E7%9C%8B%E7%9C%8B%E5%A4%A9%E6%9C%9D%E5%AE%98%E5%83%9A%E7%B3%BB%E7%BB%9F%E5%A4%9A%E4%B9%88%E4%BD%8E%E6%95%88%E5%92%8C%E6%97%A0%E8%83%BD-%E5%A4%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3/?category=18271" rel="tag">编程随想</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E6%98%AF%E8%A2%AB%E5%A4%A7%E9%99%86%E7%BD%91%E4%B8%8A%E5%85%AC%E7%9F%A5/" target="cdt-mirror">【异闻观止】环球时报 | 马英九是被大陆网上公知耍了吗</a>
+</h2>
+<p><p>台湾地区领导人马英九8月20日出席退伍军人协会“纪念抗战胜利暨台湾光复70周年”活动时，高调指责大陆八一厂拍摄的电影《开罗宣言》，宣称“居然毛泽东出现在开罗会议，这实在是个大笑话”。</p>
+<p>马英九作为台湾的“三军统帅”，想提振一下“国军”的士气，为此揶揄“共军”两句，一般来说可以理解。但他这次显然说话没搂住，表现得就像“满嘴跑火车”的网上公知。</p>
+<p>马英九显然连事实都没搞清楚，《开罗宣言》是海报的表达方式引起争议，影片本身的史实陈述没有问题。毛泽东领导中共军队在敌后坚持抗战，与“国军”正面战场的努力共同支撑了中国的抗战局面，为蒋介石在开罗会议上赢得了话语权。电影在记录《开罗宣言》签署过程的同时展示了中国抗战的这一宽大背景，这没有错。</p>
+<p>《开罗宣言》的海报出了问题，包括环球时报在内的中国大陆舆论对此提出批评，此事已在大陆内部得到解决。马英九大概是受了台湾媒体的误导，以为电影篡改了史实，把签署《开罗宣言》的蒋介石换成了毛泽东。</p>
+<p>马英九倒像是真的闹出了“大笑话”。这些天大陆互联网上不断有人以撒气为目的，对出问题海报进一步恶搞，有的宣称八一厂让毛泽东去开罗开会，因此号召大家都去开罗开会，PS自己去开罗参会的海报。还有人嘲讽说，“唐国强这次扮演的蒋介石不太像啊”。</p>
+<p>这些起哄狂欢大概把马英九忽悠了，这不等于把整个台湾给忽悠了？“马总统”这么容易被“钓鱼”咬钩，他身边人居然也不帮他在怎么表态的问题上把把关。</p>
+<p>实事求是说，大陆搞70周年纪念，对当年“国军”是给足了面子的。八一厂拍开罗会议，而不是拍平型关大捷或百团大战，注定要把蒋介石当成正面主角之一。此外这些年大陆荧幕银屏上出现那么多正面“国军”形象，正面战场已完全恢复了它的历史荣誉。</p>
+<p>但看看台湾那边怎么说共产党主导的敌后战场？马英九20日讲话露出一副不屑的样子。或许整个台湾社会的心胸在小岛上越憋越小，“马总统”被他身处的环境绑架了。</p>
+<p>马英九想必有很多气，但他好像最敢骂大陆这边，他周围的台湾社会里有那么多比70年前汉奸还要汉奸的公开媚日族，他是经常不敢骂的。倒是那些人可以耀武扬威地骂他“亲中”，他很多时候需要陪笑脸。</p>
+<p>我们还是觉得马英九很不容易，因此有时看他窝窝囊囊，还动不动就以骂大陆的政治体制来讨好修理他的台湾激进势力，也就理解了他的处境，不与他过多计较了。</p>
+<p>在此我们也对《开罗宣言》片方和大陆文化界再做一次提醒，瞧瞧一张针对历史题材电影不恰当的海报究竟能惹来什么！实事求是必须一丝不苟，无论有什么意愿，都不能为了它去撞这根永恒的高压线。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E6%98%AF%E8%A2%AB%E5%A4%A7%E9%99%86%E7%BD%91%E4%B8%8A%E5%85%AC%E7%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80/?category=18271" rel="tag">开罗宣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%AE%A1%E9%99%90%E5%86%8D%E5%BB%B6%E9%95%BF3%E4%B8%AA%E6%9C%88/" target="cdt-mirror">自由亚洲｜浦志强案审限再延长3个月</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/3f79a379jw1evab0ovvqtj20qo0zkdlu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/3f79a379jw1evab0ovvqtj20qo0zkdlu.jpg" alt="3f79a379jw1evab0ovvqtj20qo0zkdlu" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/3f79a379jw1evab0pdurjj20qo0zktcd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/3f79a379jw1evab0pdurjj20qo0zktcd.jpg" alt="3f79a379jw1evab0pdurjj20qo0zktcd" width="500" height=""></a><br><em>（图片来源：新浪微博<a href="http://weibo.com/1064936313/CwReGgUOs">@記録者陳寳成</a>）<br></em><br>
+被羁押以达15个月的北京维权律师浦志强，案件一审审限，原定8月18日期满，北京第二中级法院近日通知律师，该案延长审限3个月。</p>
+<p>浦志强的代理律师莫少平8月20号向本台记者表示，案件两天前审限期满当天，北京第二中级人民法院通知辩护律师，已向北京巿高级法院申请批准，案件延期3个月开审。</p>
+<p>“案件一般应该在3个月内审判结束，法律上规定的标准，案件重大疑难复杂，经上级人民法院批准，可以延期3个月。北京二院按照法律程序这么做了，并得到上级法院的批准，我不能说它违法，但是浦志强案件到底是否属于复杂的疑难案件，我这里就不好说了，那是见仁见智的事情。”</p>
+<p>浦志强的案子本来应该在今年5月开庭，后来因为要补充侦查而一拖再拖，直到审限结束。莫少平律师说，目前这一案件的的审限到今年11月，但它的开庭不一定要等到11月，延期的3个月之内，什么时候都可以开庭审理并且作出判决。</p>
+<p>去 年5月3日，浦志强与十几名朋友举行”六四25周年”民间研讨会，第二天他就被警方传唤，5月6号被当局以涉嫌“寻衅滋事罪”被刑事拘留。2014年6月 13号被北京巿公安局多加一条涉嫌“非法获取公民个人信息罪”逮捕。去年11月13日多加两条罪“涉嫌煽动颠覆国家政权”及“煽动民族仇恨、民族歧视”， 移交检察院起诉。案件曾经两度退回公安机关补充侦查。案件在今年5月18日起诉到法院。</p>
+<p>莫律师说：“起诉到法院时，罪名减少了两项。”</p>
+<p>莫少平律师说，当局去掉了“非法获取公民个人信息”和“涉嫌煽动分裂国家”两项罪名。</p>
+<p>浦志强的代理律师莫少平和尚宝军在日前曾到北京巿第一看守所，会见浦志强大约1个小时。</p>
+<p>关于浦志强目前的身体状况，莫少平律师说：“浦志强说他感到胸闷气短，他不清楚是心脏有问题，还是天气太热，看守所给了他相应的药品。他的糖尿病也在打针吃药，每天上午打一次针，下午打一次，得到了应有的治疗。”</p>
+<p>莫律师说，浦志强还患有前列腺增生疾病，目前病情还算稳定。</p>
+<p>浦志强毕业于中国政法大学，在1989年学运期间参与过天安门广场绝食静坐，曾代理包括艺术家艾未未等人的案件，以及引起全国关注的重庆大学生村官任建宇劳教案和湖南唐慧因上访而被劳教案等等。</p>
+<p>浦志强2011年12月公开抨击时任中共中央政治局常委、中央政法委书记周永康及维稳模式。2013年2月6日，他再透过新浪、腾讯和搜狐三大博客实名举报周永康祸国殃民，要求当局清算周的各种罪行，并建立法治社会和宪政体制。</p>
+<p>浦志强被抓捕后，引起国际社会的广泛关注。包括欧美一些国家的政府、许多国际团体和人权组织，都呼吁中国政府释放浦志强。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%AE%A1%E9%99%90%E5%86%8D%E5%BB%B6%E9%95%BF3%E4%B8%AA%E6%9C%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E6%88%91%E4%B8%A4%E6%AC%A1%E8%BF%9B%E5%85%A5%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%8B%8D%E4%B8%8B/" target="cdt-mirror">微信｜我两次进入滨海爆炸事故现场拍下照片</a>
 </h2>
 <p><p>我已经不做特稿记者了，这一次的“8·12”滨海爆炸也许是我以后的记者生涯中可以参与报道的最大的一次事故了。我并不是不嫌事大，不要误解，但对于每个记者来说，这都是一个罕见的重大题材。我想尽量留下一点自己还觉得过得去的稿子，不然太过遗憾。8月16日和8月18日，我两次进入核心事故现场。拍了一些照片，有故事要讲，但我更想说的是事发后很多人的各种奇葩嘴脸，脑残都不足以形容他们的愚蠢。我真想破口大骂：傻逼！（总感觉这一篇会被举报）</p>
@@ -304,542 +839,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【网络民议】天津海河单身鱼溺水群体自杀事件</a>
-</h2>
-<p><p>【编者注】截至发稿时，下文提及的@Vista看天下 原微博已被和谐。各大门户网站转载尚未受到影响。（<a href="http://news.163.com/photoview/00AP0001/96529.html">图集链接</a>）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B5%B7%E6%B2%B3%E6%AD%BB%E9%B1%BC.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B5%B7%E6%B2%B3%E6%AD%BB%E9%B1%BC.png" alt="海河死鱼" width="550" height="303"></a></p>
-<blockquote><p><a href="http://weibo.com/vistastory">@Vista看天下</a>：【天津海河闸岸现大面积死鱼】8月20日下午，搜狐新闻在天津滨海新区海河闸岸边发现大面积死鱼现象。这里距离天津港爆炸中心约6公里。据附近多位居民称，此前这个位置从未出现过如此规模的死鱼状况。<a title="http://pic.news.sohu.com/detail-677860-0.shtml" href="http://t.cn/RLDJm80" target="_blank"><em>网页链接</em></a> 图文来源：搜狐</p></blockquote>
-<p><strong><a href="http://www.chinanews.com/gn/2015/08-20/7479795.shtml">中新网｜天津环境监测中心主任回应海河现死鱼：已派人调查</a></strong></p>
-<blockquote><p>天津港爆炸事故第十一场新闻发布会今日下午举行。对于日前天津海河附近出现死鱼的报道，天津市环境监测中心主任邓小文表示，他通过微博得知了出现死鱼的信息，已经派人去核查。现在要对水质和死鱼本身进行检测，进一步核实原因，一有结果会马上通报。现在可能造成的污染都在核心区内，这些都要经过检测达标后才会排放。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a title="抖森发际线守护make_up" href="http://weibo.com/u/2282498015" target="_blank">@抖森发际线守护make_up </a>：@奏耐天津 #塘沽爆炸#请问鱼是被水淹死的还是被专家气死的？？？<img src="http://img.t.sinajs.cn/t3/style/images/common/face/emimage/ee9092.png" alt="" width="20px" height="20px"></p>
-<p><a href="http://weibo.com/2624574462" target="_blank">@一枚蹦蛋</a>：回复<a href="http://weibo.com/n/%E9%97%AA%E7%94%B5%E4%BE%A0Echo?from=feed&loc=at" target="_blank">@闪电侠Echo</a>:砖家：就是就是~大多数鱼类情绪稳定，这些些集体自杀、拦不住，而且如果真的是因为…引起死亡的、过了7天才大规模死亡，也和…事件无关<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/ZRKS" target="_blank">@王航啊-</a>：我知道，这与爆炸无关，官方不用再说了<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><strong><a href="http://weibo.com/zhuangpeiyuan" target="_blank">@zhuangpeiyuan</a>：不要制造恐慌，每年这个季节天津都有死鱼的，2011《天津海河现大面积死鱼》<a title="天津海河现大面积死鱼(图)" href="http://t.cn/RLDJ2QI" target="_blank"><em>网页链接</em></a>；2012《一场暴雨海河现死鱼》<a title="http://t.cn/RLD6IdD" href="http://t.cn/RLD6IdD" target="_blank"><em>网页链接</em></a>；2013《天津市民志愿者清理湿地死鱼》<a title="http://t.cn/RLD6Ide" href="http://t.cn/RLD6Ide" target="_blank"><em>网页链接</em></a>，2014《津河突现大量死鱼 工作人员：或是“翻坑”现象》<a title="http://news.enorth.com.cn/system/2014/07/03/011991417.shtml" href="http://t.cn/Rv1beUR" target="_blank"><em>网页链接</em></a></strong></p>
-<p><strong><a href="http://weibo.com/2774892563/CwHVXDgDp">@石扉客2014</a>：海河大面积死鱼，天津爆炸自有高度嫌疑。但不等专家出面官方定性，双微发言上一片鱼是淹死的气死的自杀的调侃说法。这意味着什么？意味着已少有人愿正经出来说话与质疑了。因为对越来越严酷打压的消极抗拒，对越来越活跃五毛的极度嫌恶，越来越多的人捡起了弱者的武器，学会了正话反说与冷嘲热讽。</strong></p>
-<p>@淼城大叔：被当局关怀感动死的。</p>
-<p>@以色列创新加速器：可惜没有看到带鱼</p>
-<p>@胡弃暗二世：鱼来不及替国家说谎就挂了。</p>
-<p>@靳神病有所好转：是谁在造谣！党卫军委都说没事，请他带头生吃天津海湾新鲜死鱼片以正视听！</p>
-<p>@好切聂：这些鱼太不给专家争气了，再坚持几天啊</p>
-<p>@Pavield_：专家说这是淹死的 别不懂乱说</p>
-<p>@Vimilie：今天七夕，单身的鱼全部因寂寞而自杀</p>
-<p>@一条丢失了记忆的鱼：只是天气原因，大家不要惊慌[微笑]</p>
-<p>@这揍是luilui的微博：别吵吵，唯恐世界不乱吗？一会听专家说，专家说是淹死的，热死的，渴死的，就一定是这样的，什么？毒死的？不可能，我们检测了，天津港空气质量良好呢，什么？呛的慌？那是你上火了上呼吸道感染吧？快去吃止咳糖浆。[呵呵]</p>
-<p>@毛烦嘎不姓毛：全捞起来让哪些说环境没污染的吃啊</p>
-<p>@张文智715:抑郁症，投水自杀。跟那啥无关。鉴定完毕。</p>
-<p>@汉武文唐：这些鱼全部捞起来，给天津所有官员作为一日三餐唯一食材！</p>
-<p>@律师文摘: 死鱼是敌对势力。</p>
-<p><strong>@鸡同鸭讲2：要做好鱼类的舆论引导工作。</strong></p>
-<p>@willxm：这是技术性调整，不要慌张</p>
-<p>@小郑-buok：专家：被键盘侠喷死的！</p>
-<p>@云则_Pinky：单身鱼溺水群体自杀事件……</p>
-<p>@我若成风0：鱼：我不小心被淹死了，怪我喽？</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E5%B0%B8%E5%87%B6%EF%BD%9C%E7%BA%BD%E7%BA%A6%E6%B6%88%E9%98%B2%E9%98%9F%E4%B8%BA%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E9%81%87%E9%9A%BE%E5%90%8C%E8%A1%8C%E9%99%8D%E5%8D%8A/" target="cdt-mirror">大尸凶｜纽约消防队为天津爆炸事件遇难同行降半旗致哀</a>
-</h2>
-<p><blockquote><p><strong><a href="http://weibo.com/1987987811/CwHl5qU9A">@大尸凶的漫画</a></strong>：纽约消防队为天津爆炸事件遇难同行降半旗致哀！换个画风认不出来了吧？#大尸凶的漫画#</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/767e4963jw1ev932l55ndj21jk25sn7q.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/767e4963jw1ev932l55ndj21jk25sn7q.jpg" alt="中美消防员" width="440" height="616"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/vipxu" target="_blank">名不徐传</a>：咦，这只搜救犬有点特别<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">五毛！</p>
-<p><a href="http://weibo.com/gionlau" target="_blank">小弟震</a>：请不要侮辱狗<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@FatAssEric：狗相当传神 @环球时报</p>
-<p>@soccersmith：天朝那块红布只为领导降</p>
-<p>@Dark孟什维客：回复@天意家园:狗在叫我们不要歪果仁报道中国的事</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%BC%91%E6%96%AF%E6%95%A6c%E9%A2%91%E9%81%93%EF%BD%9C%E5%A4%B4%E4%B8%83%E7%A5%AD-%E7%BE%8E%E5%9B%BD%E6%B6%88%E9%98%B2%E9%98%9F%E4%B8%BA%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E9%81%87/">休斯敦C频道｜头七祭: 美国消防队为天津大爆炸遇难队友降半旗</a></p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%A7%E5%B0%B8%E5%87%B6%EF%BD%9C%E7%BA%BD%E7%BA%A6%E6%B6%88%E9%98%B2%E9%98%9F%E4%B8%BA%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E9%81%87%E9%9A%BE%E5%90%8C%E8%A1%8C%E9%99%8D%E5%8D%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%B1%E4%BA%86%E6%B2%A1%E4%BA%8B%E5%B9%B2%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">吃饱了没事干的外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9D%A8%E6%97%B6%E6%97%B8%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%AD%E7%9A%84%E5%BF%97%E6%84%BF%E8%80%85%EF%BC%9F/" target="cdt-mirror">杨时旸：我为什么不喜欢天津大爆炸中的志愿者？</a>
-</h2>
-<p><p>完成了第一阶段的报道，刚从滨海新区返回北京。我决定冒天下之大不韪，说一说这次大爆炸中的志愿者。</p>
-<p>相比于其他诸如泥石流、地震之类的自然灾害，这次事故全然不同。撇开它人祸的部分不提，只说发生地点，大多数自然灾害都高发于山区，地理位置崎岖，事发地点贫困，救援难度极大，但这一次的人祸事发东部沿海直辖市的开发区，最高层批准的第一个国家综合改革创新区，北方最大的综合性港口和重要的对外贸易口岸。即使大爆炸发生后，这里依旧道路通畅，物资充沛，直白点说，这次事故中，除了最初的那个混乱的夜晚和第二天稍微有些不知所措的清晨，在那之后，其实根本不需要志愿者，或者说不需要现在这个数量级的志愿者，更不需要那么多过剩的，重复的，易坏的物资。这就是为什么，到了事发第二天，已经有人发布消息称，“不要再往这里送东西，你们送的东西就是这里产的。”</p>
-<p>周五那天中午，我去往当地某医院，旁边十字路口的便道上摊满了数百个西瓜，就那样在太阳下暴晒。医院门口的志愿者在做疏导交通状，但其实根本没有什么车辆需要被疏导。由于医院还正常接诊，那些与爆炸事件无关的、来此就诊的普通患者的车辆被志愿者的指挥弄得战战兢兢，他们不知道自己该避让什么，也不知道是否还能驶进院子。而后来又陆续到达的运送物资的车辆也不知道是该停该走。站在门口的几个志愿者都是标准的学生模样，瘦瘦小小，戴着眼镜，几乎不敢抬头和陌生人的眼神直视，努力摆出坚定的表情还是盖不住怯生生的内心。他们在医院门口寻找可以从事的工作，有个年轻人还差点被一辆车撞到，迅速被年纪更大的志愿者拽回安全地带，之后，不得不又来了另一批志愿者来帮助这批志愿者，比如反复向他们强调务必注意安全一类。</p>
-<p>差不多是从2008年汶川地震开始，志愿者突然呈现出井喷的态势，在那之后的众多突发灾难中，它成为了新闻中常见的词汇。志愿者是非常重要的，非常值得尊敬的，从某个角度上说，他们的工作有时近乎伟大。所有愿意奉献和利他的人们，都是人性中努力摸高的那一端。但问题是，当很多人越来越变成“做志愿者状”，把志愿者变成身份标签和积累日后谈资的重大机会，那么他们去往灾难现场的目的就已经变得可疑起来，更不要提，他们缺乏最基本技能的事实。</p>
-<p>首先说说志愿者的概念，这到底是一群什么人？从根本上讲，志愿者是去灾难事发地为他人提供帮助的，而不是自己去往那里变成需要被帮助的人的。志愿者的最底线要求是不添乱，你不能因为自己的不专业，而变成灾难的一种次生灾害。客观地讲，除了那些经过常规训练的民间救援队，其他大多数偶然集结起来的志愿者，基本上都属于空有一腔热情，毫无专业技能的书呆子型。他们算是上帝人格和圣母人格的隐性基因携带者，中二症的另一种表征，善于在灾难到来的时刻，营造出一种把自身投入大事件的忘我感，这种自我塑造起来的悲壮氛围通常会深刻地感染自己。他们其实是一群伪志愿者。直白一点讲，这些人把灾难现场变成了一个秀场，一次与众不同的自拍背景，一个突然降临的社会实践基地，他们希望切身感受到巨灾所带来的震撼，主动寻求死亡和不幸氛围对于心灵的洗礼，对于他们来说，断瓦残壁就是可触摸的、有气味、又能置身其中，却不会真有危险的超真实、超3D的灾难大片。所以，你会看到一群绑紧头发的小姑娘，几个腰带上缀满各式户外工具的小伙子，穿着紧身的运动速干衣，套着定做的色彩亮丽的T恤，坐在路边刷手机，他们的朋友很快就会在朋友圈看到这群人以医院、救护车和破败的大楼为背景的照片，这些孩子戴着口罩露出凝重的眉头，配以“某某地加油，一切都会好起来。”之类的字样。只有他们自己清楚，到底去往事发地帮助他人是目的，还是完成那几张照片是目的。这群人想要帮助的根本不是别人，而是自己。他们只是想把平庸的、平日被人无视的自己借由灾难自我隆重化，这种伪救灾的社会活动和集体凝聚感，会让他们感到自己变得更加完整，而至于到底能为事发地点提供哪些或者多大程度的帮助，又带去了那些副作用，都没有被更详细地考量过。</p>
-<p>志愿者是那些平时不以此为业，但对于公共事务关注，愿意在业余时间内提供自己的能力与智识，以帮助他人的那群人。所以，他们必须知道自己所掌握的技能有什么，能提供的帮助包括哪些，以及自己所拥有的，是否就是此次灾难中受难者所正好急需的。任何遭遇灾难的人所需要的是专业的救助，实际的帮扶和解决切身的、因为灾难而变得不可为的事，他们最不需要的就是无用的嘘寒问暖和表演性的感同身受。</p>
-<p>从这一点出发，志愿者首先是要看对方是否需要帮助，然后再评估自己能提供什么。这是一套程序。由于特殊性，志愿者的工作其实只能是雪中送炭，不太需要锦上添花。某种程度上的锦上添花，在灾难的当口就是次生灾害式的添乱。比如，这一次天津爆炸后被重复送去的食物、水果和各种最终成为垃圾扔掉的物资，特别尴尬地反射了志愿者群体热情膨胀，技术缺失的问题。从目前的结果上看，这一次爆炸事件，除了那一批拥有专业技能的民间搜救队以及当天晚上前去疏导交通的和暂时应急的人们，后来蜂拥而至的所谓志愿者，基本都是抒情者。</p>
-<p>这引出了一个问题，为什么要做志愿者？</p>
-<p>每个人都有本能性的利己，每个人也都会不同程度的利他。真正意义上的志愿者，是人性利他取向中走相对较远的一群，很值得尊敬。但在这次事故中，有很多人奔赴那里，本质上却是利己的。他们只是想去达成自己的一桩心愿，把自己能暂时安插在一种虚妄的崇高幻觉中。全然不顾自己造成的浪费与麻烦会大于输出的帮助。这些人总让我想起那些被组织起来到敬老院，帮孤独老人们洗脚、与他们聊天的小学生。一帮孩子盘绕在耳目失聪、表情凝固的老人身边，几近强行地为他们缠绕上红领巾，对他们朗读故事，一口口喂饭，近乎逼迫地需要他们对着镜头展露舒展的微笑。但他们走后，这些老人可能会因此更加加重病痛。我记得小时候一到植树节，就被会组织起来，到附近郊区或者育苗基地，挖坑、种树、灌溉。但后来，对方坚决不允许学生们再去了，因为他们发现，学生们走后，工人们还要把树苗都挖出来重新种植一遍，劳动更加繁重。学生们把那当做了一次与日常生活异质化的体验，并且觉得自己还是有用的，可以为对方提供帮助，但实际上，有时却真的事与愿违。</p>
-<p>如果你真的想做志愿者，首先要学会的是理性，而不是在感性尚未消散的时刻，就冲向事发地，志愿者更需要脑回路而不是肾上腺素。志愿者这三个字有时确实会让年轻人误解，这个词组本身有一种天然的奉献感，但它恰恰相反，最需要的其实是比平时更加冰冷的理性。不要去前线以灾难为背景表演伤感与坚强的独角戏，如果你们不想成为年轻屌丝版陈光标的话。</p>
-<p>由于工作原因，我去过汶川地震的核心，去过日本核灾的福岛，去过伊春空难的机场……我看见过太多出没于不同种类灾难的志愿者。他们中有些无比令人感佩，有些只能令人沮丧。</p>
-<p>志愿者到底应该怎么做？某种程度上说，真正合格或者说成功的志愿者是几近隐形的，他们只会留下一片整洁的工作结果，而不是自己成为混乱环境中更混乱的那一坨漩涡。说一个日本核灾中让我记到现在的见闻。那一天，我去往一个作为临时安置点的体育馆。偌大的体育馆中躺满了人，无比安静，门口的房间里是负责对接不同人士的志愿者，对媒体发放材料的、协助衔接寻人的、为新志愿者登记的等等。里面有一个公示栏，是志愿者自己按照自己的特长分门别类做出的工作简报，有人负责为孩子补课，后面张贴着数学、英语等课程的课表；有人负责安排协调周边浴室的时间表，以供大家清洁；一群有才艺的年轻人在体育馆门前的空地上组了乐队，让那些受灾家庭的孩子一起唱歌跳舞转移他们的情绪……更重要的是，这个体育馆中，人们按照家庭为单位暂时安置在这里，每一家和每一家之间都有纸箱板作为隔断，这些隔断就像我们平时公司中的工位一样，维系了这些受难者最基本的隐私和尊严。在那个体育馆中，你几乎看不到志愿者的身影，但每一个细节几乎都是志愿者所做的结果。开始的时候，你甚至不知道为什么这大灾之后，在这个体育馆中竟然能感受到某种安宁的氛围，但仔细想想就会明白，那都是志愿者从人的最基本需求出发，按照生存、生活和尊严的不同层面悉心地提供了受灾者所需要的一切，他们只是安静有序的做了这些，然后在一旁维系着这一切的运行。这些隐匿的志愿者才是令人尊敬的。他们不是表演者，他们是实干者。千万不要在灾难现场变成表演真人秀的艺人。</p>
-<p>实话讲，中国的市民社会一直由于某些众所周知的原因被压制，自组织能力很弱，平时参与类似活动的机会很少，于灾难中当志愿者成为了很多年轻人为数不多的有参与感的活动，这部分热情必须有途径被抒发，而与此同时，我们的教育系统又把几乎所有时间耗费在了应试上，很多人连最基本的生活自理都力有不逮，这种基础上你去帮助别人，不造成混乱难道还会有别的结果吗？说志愿者中的问题，并不是希望他们消失，而是希望他们变好，变好才能壮大。好的壮大才是一种力量，不好的壮大只能是乌合。</p>
-<p>我们需要志愿者，需要真正可以有效组织起来的力量，但这些人需要有基本的技能储备，懂得团队运转，明白自己所处的位置，有清醒的理性。灾难尚未过去，包括我们在内的媒体仍在努力拷问真相，仍有一些志愿者在前方努力工作，这些都很好。但有一些问题必须在现在被直视，这并非不合时宜。但愿有心做志愿者的人能变成做事的志愿者，而不是做作的志愿者。有那么多地方都能供你自拍，请不要到灾区凹造型。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9D%A8%E6%97%B6%E6%97%B8%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%AD%E7%9A%84%E5%BF%97%E6%84%BF%E8%80%85%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8/?category=18271" rel="tag">感动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%93%E5%BE%B7%E6%BB%A1%E8%B6%B3/?category=18271" rel="tag">道德满足</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%90%E8%BF%85%E9%9B%B7%EF%BC%9A%E6%96%B0%E9%97%BB%E4%BA%BA%E7%9A%84%E7%AA%81%E7%A0%B4-%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E7%9A%84%E5%AA%92%E4%BD%93%E5%A4%A7%E6%88%98/" target="cdt-mirror">徐迅雷：新闻人的突破 天津大爆炸的媒体大战</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/tumblr_inline_ntcp7fetDc1qiqi0i_500.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/tumblr_inline_ntcp7fetDc1qiqi0i_500.jpg" alt="tumblr_inline_ntcp7fetDc1qiqi0i_500" width="440" height="660"></a></p>
-<p>这是4年多来，针对社会公共事件最大规模的媒体行动。灾难还在延续，抗争也在继续。 天津8.12大爆炸之后，中宣部照例发布了媒体禁令，并且是一天连续两道禁令，比如，禁止网络进行全程直播，对自采内容进行限制，要求只转发新华社等官媒的报道，等等。</p>
-<p>按常规，这样的禁令，似乎就能封杀住媒体。但是，他们的封杀失败了。至少在初期。因为即便是官媒记者，也出现了少有的愤怒。而被转载的愤怒，基本上可以传递一个信号，那么，我们也是可以愤怒的，自媒体一拥而上，网络删帖者再来个删帖时间差，于是，信息就长上了翅膀，在数亿人的协力下，迅速突破了封锁。</p>
-<p>榜样的力量是无穷的。</p>
-<p>网络时代最大的价值在于，新闻从业人员有了除供职媒体之外的第二个报道渠道。如新京报，南都等传统媒体，当供职的报纸被严格限制的时候，他们自己的社交圈，就成了突破封锁的第一个桥头堡。一个200人的媒体人群，大约可以在5分钟之内将公共事件的传播，变成20000+，如果是重大事件，10分钟内突破100万也是稀松平常的事情。</p>
-<p>可以肯定的是，尽管南方系已经被中宣部杀死了，但作为中国新闻专业主义群体的黄埔军校，在过去的10多年，他们至少为中国的传媒界输送了上千名具有专业素养的职业记者。哪怕其中很多的记者已经洗手上岸，转行网络，甚至投身商海，但一旦面临重大事件的时候，真正突破当局新闻封锁的，依然是南方系的老人和他们的弟子们。如南都，新京报，腾讯，网易，那些90后的年轻记者，在曾经是南方系骨干的记者们的指挥下，一次又一次地进行尝试。</p>
-<p>他们的报道都带有清晰的各自媒体的标签。</p>
-<p>如新京报的潜入禁区现场报道，后期的3D呈现，基本可以算一个快字致胜。 网易、腾讯，新浪、搜狐的图文整合直播和现场直击、互联网的空间无限=报道无限。</p>
-<p>财新、财经一再使用的资料检索，案头功夫，虽文本难看，但清晰地为别的媒体提供了更多而范围精确的调查方向。</p>
-<p>南都、南周的深度报道和他们一向具有的文本优势，准而狠。如南周的消防员采访中的水浇化工品，南方人物对编外消防员的精准白描，寥寥数笔，幽默的党国逻辑跃然纸上。</p>
-<p>媒体人骨子里有一种好胜的心理。在同题PK中获胜，是自我成就感的最大体现。这种心理上的成就感，在某种程度上，是突破萱萱禁令最好的润滑剂。</p>
-<p>比如，几大网站的传统媒体、新媒体之间的PK，90后年轻记者们对早已功成名就的大牌老记者的挑战等等，这种基于竞争而产生的动力，客观上对传播都起到了很好的作用。</p>
-<p>此外，相对于网络上漫天飞的谣言，这些具有一定专业化背景的媒体在信息的准确性上具有无可比拟的优势，尽管他们也常因此受限。</p>
-<p>在这种大背景下，中宣部的各种管控和试图虚构感动引领舆论的企图，完全破产。当局煮的那锅灾难心灵鸡汤——所谓的最美逆行，也因此成了笑谈。</p>
-<p>此次新闻大战，让4年来陷入低谷的中国新闻界，出现了一抹亮色。很多90后记者表现出来的专业能力，让人惊喜。中国从来不缺有极高天赋的记者，但很少出现能坚持10年以上不被酱缸社会改变的职业记者。</p>
-<p>需要注意的是，这次天津大爆炸新闻大战，并不代表新闻环境的好转。背后仅仅是因为，作为直接的责任主体方的交通部，并不具有对媒体进行全面封杀的能力。而有这个能力的天津市，对背黑锅极度不满的变相呈现而已。</p>
-<p>另一个原因是灾难实在太大，有人曾经说过，任何社会问题，其实都是一个成本计算的问题。民众对化工爆炸的愤怒和恐惧，已经超过了对手铐的恐惧。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%90%E8%BF%85%E9%9B%B7%EF%BC%9A%E6%96%B0%E9%97%BB%E4%BA%BA%E7%9A%84%E7%AA%81%E7%A0%B4-%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%E7%9A%84%E5%AA%92%E4%BD%93%E5%A4%A7%E6%88%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E4%BA%BA/?category=18271" rel="tag">媒体人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E7%A6%81%E4%BB%A4/?category=18271" rel="tag">媒体禁令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%86%89%E4%BA%91%E9%A3%9E-%E5%9B%9B%E4%B8%8D%E5%83%8F%E5%85%88%E7%94%9F%E8%AF%AD%E5%BD%95%E4%B8%89%E6%9C%9F/" target="cdt-mirror">冉云飞 | 四不像先生语录三期</a>
-</h2>
-<p><p><strong>第一期：我们最终活成了中国统计学</strong></p>
-<p>林语堂先生写“生活的艺术”，余华写了“活着的艺术”。太艺术我写不来，太苟活我活不来，写段子呢，又不在行。写成流沙河先生的《Y先生语录》呢，我还欠火候，力有未逮。于是写成这样不伦不类的“四不像”。能写多少，我不知道，我只知道把它写得搞笑有趣一点。生活无聊到太搞笑了，四不像先生接了话茬说，你只好拿我开涮了。</p>
-<p>一：我教孩子们学古诗文，读顾荣《与杨彦明书》：吾为齐王主簙，恒虑祸及，见刀与绳，每欲自杀，但人不知耳。</p>
-<p>一不明真相的熊孩子问道：老师，照你对课文这样的解释，当官真是件好危险的事哦。</p>
-<p>旁听的四不像先生嘲笑说，小朋友，哪那么小气啊，别把官员说得那么没骨气，好不好？不要听你老师拿古人来瞎掰。想死就死，说跳就跳，该吊就吊的，还是占了一定比例的。</p>
-<p>不明真相的熊孩子继续问道，那他们为何那么勇敢呢？</p>
-<p>四不像先生很不屑地说，话又说回来，不是特殊材料制成的，是不好去当官的。你的明白？</p>
-<p>二：多年前几位朋友严肃地讨论中国人的生活态度，唇枪舌剑，争执不下。其中一位忍不住去请教高人四不像先生。</p>
-<p>四不像先生很不耐烦地说，你们真是书生气十足，好像中国人都活得很高深的样子似的，大多数人一生不过就是从苟活通向枉死罢了。</p>
-<p>三：四不像先生很爱打麻将，老婆觉得他没人生目标，很看不起他。</p>
-<p>四不像先生说，你看我们周围，哪个不是像我这样的？活着不是活着，只好活成赌博。活着似掷骰子，尊严如同狗屁。只要霉运不沾我，就可以革命的小酒天天醉。</p>
-<p>看他老婆的神态，还在照搬苏格拉底婆娘的样子。</p>
-<p>四不像先生假装没看到，语罢又喝毕一瓶江小白，没好气地说：这深刻的道理，苏格拉底的婆娘也是不懂的。要想有思想，小白喝二两。来不来整一瓶嘛？</p>
-<p>四：一老外问我，为何中国人脸上都充满一脸的沧桑呢？</p>
-<p>寸步不离我的四不像先生很不耐烦说，就你们洋鬼子喜欢大惊小怪。从没反抗过的人，把一脸无辜装扮成沧桑，就变成了你们的博士论文题目。</p>
-<p>五：邻居王太太说，东方之星出机器翻了，陕西矿难把人埋了，天津大爆炸把人物炸了。四不像先生，你一直很有学问的样子，对此有何高见？</p>
-<p>四不像先生说，你好阴险，故意引诱我说，到时你得公开声明，这是你的意见，不是我的看法，我就说。</p>
-<p>王太太说，说几句话就那么怕，好一个牙尖胆小的男人哦。</p>
-<p>四不像憋了很久，忍不住悄悄对王太太说，你晓得就是了，不要到处乱传哈：平安活着是小概率，枉死后成了冰冷数字，我们最终活成了中国统计学。</p>
-<p>2015年8月13日</p>
-<p><strong>第二期：你精神绝经几十年了吧？</strong></p>
-<p>六：有次二娃问四不像先生，为何领导人很喜欢——比如总理就曾说“多难兴邦”呢？</p>
-<p>四不像先生说不是明摆着的嘛，说出来的是多难兴邦，没说出来的是多难兴帮。</p>
-<p>二娃又问，多难兴邦与多难兴帮有啥区别呢？</p>
-<p>四不像先生说，二娃，难道你的语文是总经理教的么？</p>
-<p>七：有位女记者在世界读书日采访大学者四不像先生，问题如下：对于大学毕业后，基本不读书的人你怎么看？</p>
-<p>四不像先生头也不抬，不看书嘛，就是绝经了噻。</p>
-<p>啥意思嘛，世界读书日找你说点高雅的问题，你尽回答些怪话。</p>
-<p>我这哪是怪话啊，不读书当然是绝经了噻，精神绝经嘛。</p>
-<p>八：有天二娃在网上看到一篇文章，叫《用毛泽东思想治疗精神病》。他不明白是怎么回事？问四不像先生，这篇文章我咋看不懂呢，它的中心思想是啥子？</p>
-<p>四不像先生说，这还不简单么？以毒攻毒嘛。</p>
-<p>二娃回家后把这话告诉他父亲，他父亲说四不像先生啊，你咋个乱回答娃儿呢，简直无厘头！</p>
-<p>二娃他爹，你家带鱼都姓周了，你老婆知道么？</p>
-<p>九：有次四不像先生与同学一起吃饭。</p>
-<p>同学为丑陋的现实辩护说“发展才是硬道理”，你说是不是四不像先生？</p>
-<p>四不像先生没好气地说，癌症也是发展的，它成了更要命的硬道理。</p>
-<p>十：看到前马里兰大学校长莫特博士说，“校长好像墓地管理员，下面人虽然多，但是没人听他的”。邻居王太太问四不像先生，这不是在骂学生么？为什么听他讲的学生还起劲鼓掌呢？</p>
-<p>四不像先生说，这有什么稀奇呢？我们开人大、政协会时，与会者大多东倒西歪地打瞌睡，像在墓地过夜。到了结束时都活过来了，全体掌声雷动，经久不息。</p>
-<p>2015年8月14日于成都</p>
-<p><strong>第三期：你有倒退着走向未来的神功么？</strong></p>
-<p>冉按：四不像先生语录，每期推出五则，前两期分别是《我们最终活成了中国统计学》、《你的精神绝经几十年了吧》。今天据说是七巧节，四不像先生愿有情人度日如年，一日长于一百年。2015年8月20日于成都</p>
-<p>十一：有很多史学家说国军是抗战主力，为何大陆官方总说自己是抗战的中流砥柱呢？二娃求教。</p>
-<p>四不像先生说，因为地道战、地雷战威力无穷嘛。</p>
-<p>二娃说，这些都被别人批评过了，说打不死几个日本人。</p>
-<p>四不像先生说，想不到二娃还是个好学的青年，1944年上半年日本人猛攻国军，意图打通粤汉铁路，你知道不？</p>
-<p>二娃说史称“一号作战”嘛，导致了洛阳、长沙、衡阳、桂林、柳州等地的失守。</p>
-<p>四不像先生，没想你还相当清楚，日本人南下追击，以上那些地方特别是长江以北的乡村由谁占领了呢？</p>
-<p>二娃说，这我就不清楚了。</p>
-<p>四不像先生说，你还是读书太少，如解放军将领廖汉生的回忆录就说，当时八路军的策略是“敌人攻到哪里，我们跟到哪里”。这下你明白了八路是抗战的中流砥柱了吧。</p>
-<p>十二：人民上饭馆为何要实名制呢？二娃实在想不通。</p>
-<p>四不像先生说，这有何想不通呢？这是为了保护餐馆，怕你吃霸王餐嘛。</p>
-<p>那为何以前人们去却不要实名制呢？</p>
-<p>四不像先生说，人家领导到包子铺，都被争相报道，等于实名制，为何你要例外呢？</p>
-<p>十三：二娃搞不明白天津被炸受害业主为何要打“爱党信政府”的横幅来讨说法。</p>
-<p>四不像先生说，怎么没关系？爱上爆炸的原因了嘛。就像有人得了癌症不去冶，却喜欢上了癌细胞一样嘛。</p>
-<p>二娃说，人们会那么蠢么？</p>
-<p>四不像先生说，你看看，你就是典型噻，分明蠢人成堆出现，你却不相信，蠢已到你家了。</p>
-<p>十四：欣闻最近有部电影《开罗宣言》，看到毛泽东、斯大林、罗斯福、丘吉尔在开罗演出大戏。</p>
-<p>记者访问历史学者四不像先生，这算不算是对历史虚无主义最猛烈的抨击呢？</p>
-<p>四不像先生说，恭喜电影主创人员，这是对狸猫换太子最有创意的模仿。</p>
-<p>记者又问，开罗宣言发生在1943年11月22至26日，可是查《毛泽东年谱》及相关资料，却显示他1943年10月起至11月底止，一直在延安搞中央政治局的整风，29日还在陕北发表了《组织起来》的讲话，这个问题你怎么看？</p>
-<p>四不像先生蛋蛋地微笑着反问道，什么叫神武英明啊？小朋友。</p>
-<p>记者问，你意思是说，毛主席可以坐时光机器，来个星际穿越？</p>
-<p>四不像先生说，那倒没有威武到这样的地步，但倒退着走向未来也是不世出的神功啊。</p>
-<p>十五：为何GDP每年都提前公布，年底也能按数乃至超额完成呢？</p>
-<p>四不像先生说，我们是个料事如神的国家，有众多事事如意的领导。</p>
-<p>你意思是是他们找神算子算出来的么？二娃问道。</p>
-<p>四不像先生：哪用费那么大的劲啊。你知道我为何打靶从不输么？那是因为我先射箭，后画靶子。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%86%89%E4%BA%91%E9%A3%9E-%E5%9B%9B%E4%B8%8D%E5%83%8F%E5%85%88%E7%94%9F%E8%AF%AD%E5%BD%95%E4%B8%89%E6%9C%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E4%B8%8D%E5%83%8F%E5%85%88%E7%94%9F/?category=18271" rel="tag">四不像先生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">政治讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E5%96%BD%EF%BD%9C%E6%9D%8E%E6%B3%A2%EF%BC%9A%E4%B8%80%E7%AF%87%E7%9F%AD%E6%96%87%E7%9C%8B%E6%87%82%E5%A4%A9%E6%B4%A5%E6%B8%AF%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">墙外楼｜李波：一篇短文看懂天津港事件</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150816193606_tianjin_blast_624x351_xinhua.jpg" alt="150816193606_tianjin_blast_624x351_xinhua" width="551" height="310"></p>
-<p>是时候写一篇东西，把天津这个爆炸讲清楚了。</p>
-<p>想了很久，我决定倒过来讲这个故事。</p>
-<p>1<br>
-天津港，是中国北方最重要的港口。</p>
-<p>一个港口有多重要？</p>
-<p>解放以前，中国最大的四个城市：上海、武汉、天津、广州，无一例外都是港口。</p>
-<p>港口这块肉有多肥？这么说吧，香港的港口贸易占GDP的25%，金融只有15%。</p>
-<p>而解放以后，天津港这块肥肉的管理权，在交通部，而不在天津市。</p>
-<p>坊间有一句经典的话可以概括整个爆炸案的根本原因：</p>
-<p>天津市管不了天津港。</p>
-<p>天津市和天津港是什么关系呢？大约就是康师傅红烧牛肉面和牛肉的关系。</p>
-<p>2</p>
-<p>灾后有很多很奇怪的事情，都可以用天津市管不了天津港来解释：</p>
-<p>为什么天津市委宣传部副部长说不知道谁管？</p>
-<p>因为炸的是天津港，不是天津市，天津市是受害者，不是责任人。</p>
-<p>为什么天津市市长不出面，但是交通部部长第一时间带着工作组过去了？</p>
-<p>为什么会有编制外消防队，编制外警察？因为这些人都是天津港管的，不是天津市管的。这些人的伤亡数字，天津市不知道，或者装作不知道。</p>
-<p>就在今天，两边还在撕逼呢：</p>
-<p>天津港说，我们没有接到参加新闻发布会的邀请</p>
-<p>天津市说，我们已经喊你了。</p>
-<p>可叹两家的消防员尸骨未寒，两家就撕上了。</p>
-<p>说啥好呢。</p>
-<p>3<br>
-天津港为什么会有独立的警察和消防队呢？</p>
-<p>这要从中共建政以来的行政逻辑讲起。</p>
-<p>建国之后，所有的东西都是国家的了，所有的港口当然也都是国家的了，那么，国家怎么管这些港口呢？是交给地方政府管呢？还是收上来自己一起管呢？</p>
-<p>当然是自己收上来一起管，比较爽嘛，中央的肉，怎么能给地方吃呢？</p>
-<p>当然， 这些心里话不能放在台上说，台上的说法是：地方那堆土鳖，怎么会管理港口？港口只能由我们这些搞交通的专业人士来管嘛。多么冠冕堂皇的理由啊。</p>
-<p>于是，港口不但有自己的警察，自己的法院，自己的消防队，自己的安监局，甚至还有自己的安全法规。其实不光是港口，原来的铁路也有。</p>
-<p>天津市的危险品仓库，按规定必须离住宅1公里。但是天津港的仓库呢？</p>
-<p>呵呵，你天津市管不着。</p>
-<p>4<br>
-当然，后续改革中，天津港变成了交通部和天津市共管。</p>
-<p>当有两个关系极其不好的狗共同抢一块肉的时候，你们可以自行脑补一下撕逼的美丽画面。</p>
-<p>这么说吧，国难当头，这么多双眼睛盯着的时候，这帮人都不是忙着救灾，而是借记者之口隔空撕逼。那没人看的时候呢？</p>
-<p>共同管理的结果就是，专业上的事情，天津市插不上嘴。实质上，天津港就是一个针插不进水泼不进的独立王国，肉归交通部天津港吃，出了事锅由天津市扛。</p>
-<p>我是天津市长，我也不陪他们玩。</p>
-<p>5</p>
-<p>我是学化学专业的，天津港的危险化学品管理，我只能用八个字形容：</p>
-<p>丧心病狂，无法无天。</p>
-<p>为什么呢？因为危险化学品仓库，比化工厂还TMD危险！</p>
-<p>一般的化工厂，生产的产品本来就很少，即使涉及到中间体，就几种。真正危险比较大的，可能也就两三种，针对这少数两三种危险品，培训工作很好做，清洁大妈都很容易知道出问题了怎么处理。</p>
-<p>而危险化学品仓库是什么概念？</p>
-<p>危险化学品仓库是几十种几百种不同种类的化学品进进出出！</p>
-<p>不同的危险化学品的，处理起来的原则决定不同。比如说，同是易燃易爆物品，电石这种东西遇水就炸，水浇得越多炸得越快，而硝酸钾如果引起火灾，可以拿大量的水扑灭。再比如说，金属钠是要放在煤油里面的，而煤油这种有机物遇到硝酸钾就极易失火，因此这些东西要尽可能分开。</p>
-<p>如果说管理一种危险化学品的难度是1，那么管理100种危险化学品的管理难度至少是500。</p>
-<p>危险化学品管理有三个原则：</p>
-<p>1，操作人员必须经过非常严密的培训。</p>
-<p>2，不同种类的危险品，有毒的，易燃易爆的，遇水爆炸的，要分开，越远越好。一堆炸药边上放一堆氰化钠，出了事你是救呢，还是不救呢？</p>
-<p>3，burndown方案：危险品就是人类还无法完全彻底保证安全的东西，所以，危险品仓库要离居民区包括工厂足够远，真的出事到不能控制的时候，只要隔得够远，大家跑了就是，不死人，不造成次生灾害，一仓库东西烧光炸掉也没几个钱。</p>
-<p>而这次，因为离居民区太近，burndown方案没法使用，这才是导致重大伤亡的最大原因。</p>
-<p>burndown不是钓鱼，是一个很正常的很容易理解而且确实无数次被实践过的火灾应对策略。实际上，事后来看，天津这次火灾就是burndown了，就是能炸的东西都炸完了。目前确认身份的54名遇难人员，44人是消防人员和公安干警，失联的70人里面，消防与干警高达66人！80%以上的遇难人员都是消防人员，平民不到20%！</p>
-<p>很多人猜测，现场储藏了大量电石，而第一波扑救的人完全不知道里面装的是电石，是不能进水的，这才导致了更大的第二次爆炸！</p>
-<p>注：最新消息，初步查明，现场爆炸是金属钠遇水。金属钠遇水反应放出氢气和大量的热量。爆炸是必然的（和电石遇水爆炸原理类似）</p>
-<p>6<br>
-我没有丝毫否认消防人员的意思，他们是真正的英雄。</p>
-<p>我要说的是，应对危险化学品火灾是科学。我们对科学要保持敬畏，电石遇到水是会爆炸的，金三胖和奥巴马来了，拿着水龙头往电石上喷水，也是要爆炸的！</p>
-<p>问题不出在消防员身上，问题出在涉事公司丧心病狂的不给员工正确的培训，不提供完善的消防应对设备，问题出在天津港监管部门无法无天的给这样一家公司发了危险品执照，而且毫无监管，不提供相应的消防对策。</p>
-<p>涉事的公司，雇佣的工人是一批没有任何危险化学品安全培训的民工，港口的消防队，雇佣的也是一批没有任何危险化学品处理经验的民工。</p>
-<p>这就等于说，天津港在天津市边上放了一颗20吨级TNT量的化学武器炸弹。700吨氰化钠啊！</p>
-<p>上一次在中国领土上放化学武器的，还是日本人吧。</p>
-<p>这帮王八蛋，已经不是玩忽职守了，甚至都不是谋杀！这帮货已经够抓到远东国际军事法庭上当战犯处置了！</p>
-<p>消防员越英勇，管港口的这帮货就越他妈的混账不是东西！</p>
-<p>7</p>
-<p>瑞海公司赚的是什么钱？</p>
-<p>是盘剥克扣安全经费的钱。</p>
-<p>每一个安全事故，背后至少有1000个安全隐患，瑞海公司开了一年，每天三个。</p>
-<p>这不是贪污腐败的问题，这是吃人不吐骨头。</p>
-<p>天津港这帮王八蛋的后台是谁？</p>
-<p>不是只升华，他级别不够。</p>
-<p>8</p>
-<p>告慰消防员英灵的唯一方法，是将犯罪分子绳之以法，是让吃人不吐骨头的这帮货，把肉吐出来。</p>
-<p>我觉得交通部管着几个主要港口吃肉的好日子要到头了。</p>
-<p>别忘了动车事故之后，铁道部就没了。铁道部那次其实还只是工作疏失，而这次天津港爆炸，是彻头彻尾的犯罪。</p>
-<p>9</p>
-<p>总理说要给历史一个交代，等总理给历史一个交代吧。</p>
-<p>10</p>
-<p>我不祈福，我不祝愿这样的灾祸永不发生。祝愿祈福都是自己骗自己，没有用的。真正有用的，是严惩责任人。打得疼了，就记得住了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E5%96%BD%EF%BD%9C%E6%9D%8E%E6%B3%A2%EF%BC%9A%E4%B8%80%E7%AF%87%E7%9F%AD%E6%96%87%E7%9C%8B%E6%87%82%E5%A4%A9%E6%B4%A5%E6%B8%AF%E4%BA%8B%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E6%B8%AF/?category=18271" rel="tag">天津港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9C%A8%E7%84%B6%EF%BC%9A%E5%86%8D%E8%AF%B4%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%AA%92%E5%BC%95%E5%8F%91%E7%9A%84%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3/" target="cdt-mirror">东网｜木然：再说天津官媒引发的次生灾害</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150820000316270-0820_05411_001_01p.jpg" alt="bkncn-20150820000316270-0820_05411_001_01p" width="549" height="392"><br>
-天津爆炸不但带来巨大物质和精神上损失，还给天津的官媒以重创，官媒名誉扫地。</p>
-<p>这次天津塘沽爆炸案，不但给天津塘沽受害者带来了巨大的物质损失和精神损失，而且还给天津的官媒以重创，天津官媒名誉扫地。如果说物质损失可以弥补，精神创伤可以救治，人死了可以有物质补偿，可官媒的信任度没了，再想重拾信任的可行性都极小。</p>
-<p>天津媒体导致的次生灾害具有模式性、典型性。每一个城市只要发生灾害，当地媒体都会选择沉默，外地媒体、外地的新媒体、外地的自媒体都会选择发声，这已经是新闻舆论次生灾害的新常态。天津媒体在这次引发的次生灾害是所有新闻舆论次生灾害的总爆发，这主要表现在以下几个方面。</p>
-<p>第一，新闻发布会瞬间导致公信力下降。人民网舆情监测室称：天津新闻发布会欠缺总体统筹，权威性行政主官缺席使得同级部门在说明资讯方面不敢发声、对可能涉及“兄弟单位”的资讯披露，小心翼翼怕踩过了线。诸事要“商量”情况要“了解”就成了发布会的常态。一问三不知，失去公信力。</p>
-<p>第二，天津官媒回应严重滞后，迫使人们转而选择相信自媒体。原来哪个地方只要出现了事故和灾难，人们会迅速打开广播电视，现在人们选择微博、微信圈。清华大学教授沈阳在新浪微博上说：“传播学界整体表态较晚，原因：当下氛围，学界持保守谨慎话语策略，有必要，才跟进；更关注事件演化过程，需让发布会、舆情演化等充分展现，评论才有的放矢。官方舆论回应（除强力打谣外，克强总视察前）遭到中间温和力量普遍质疑，判断社会主流意见学界可做重要参考。在这种传播中，官媒成为党和政府的喉舌，而没有把人民的生命财产放在第一位，回应严重滞后，人们转而选择自媒体和新媒体。</p>
-<p>第三，天津官媒素质低，官媒成为讽刺对象。沈阳说：“官员媒介素养低的原因：保护式舆论接触较多，开放式舆论接触较少，今天我们已很难看到官员主动和舆论界打交道；地方媒体监督缺失是地方治理体制健康发展的重要隐患，没有监督，难有公开；利益格局犬牙交错，舆论格局泾渭分明，两者的不兼容处必然存在无数的引爆点。”于是天津官媒成为人们嘲笑和讽刺的对象。</p>
-<p>第四，网络水军引导舆情，严重失分。天津媒体在没有正确引导舆论的同时，网络水军却在极为不恰当的时间，以不恰当的方式出现。转发正能量的帖子有这么几种类型：机器人帖，这个很好分辨，机器人帖看不懂内容；五毛帖，这个可以到其微博看看就能判断出来，内容基本雷同；吃喝帖，他们在自己的微博上经常发吃喝内容，偶尔上来一政治帖；游玩帖，他们总是谈游戏，突然发一政治帖，其实后两种类型的帖子具有网络水军的特点。</p>
-<p>这些网络水军转所谓正能量的模式就是打英雄牌、道德牌、感情牌、悲情牌。这样的模式，已经被网民们彻底抛弃。英国《金融时报》记者米强以《天津爆炸事故善后难》为题报道说“中国宣传部门使用的另一个策略——树立救灾人员的英雄形象——也遇到了难题，因为消防员自身可能是上级有问题决策的受害者。”有网民愤怒道：“不要站在别人的坟头，高歌你的爱国情怀；希望面对你儿子的棺材，你也能这样激情澎湃。”</p>
-<p>通过这种帖子引导舆论，只会适得其反，经常上网的人已经具备了识破这种帖子的能力。当这种帖子出现时，被网民很快拉黑。通过网络水军引导舆论，在天津塘沽这件事上已经宣告失败。</p>
-<p>第五，新闻引导不畅，导致新闻消息自相矛盾。英国《金融时报》记者米强说：“在此类悲剧中，中国政府通常试图通过新华社或中国中央电视台(CCTV)等少数媒体渠道来引导资讯。在‘东方之星’事故中，这一点很容易实现，因为事发地偏远、官员们可以控制外部人员进入事发地。但在中国规模最大的城市之一去封锁一个面积大得多的灾难区是不可能实现的，这导致原本铁定会跟政府保持口径一致的地方媒体报出了大量未经证实、有时还相互矛盾的报道。”</p>
-<p>第六，以爱国名义阻挡外媒，导致在全世界丢脸。美国CNN现场直播被所谓的现场人员粗暴地打断，受害者家属接受外媒采访被视为给中国人丢脸。杨杰在电话中向英国《金融时报》表示：“他们不停地告诉我们‘别给中国人丢脸’，‘我只想让他们找到我儿子。’他通话时正同其他失踪者家属一起与当地政府官员理论。”</p>
-<p>第七，打击谣言引发质疑，激发网民们强烈要求打击官谣。在引导网络舆论的同时，有关部分及时打击谣言。</p>
-<p>8月14日，天津网民康某某在QQ空间发布内容为“普通群众死亡482人，重症监护室52人没脱离生命危险、消防大队死亡11个中队400多人，两次爆炸全部阵亡总计死亡人数1300人”等谣言。16日天津警方通报，该网民发布谣言，被行政拘留五日。</p>
-<p>打击谣言也是引导舆论。人们不禁要问，官方也一直在修改数据。官方为什么可以不断修正数据，为什么就不给民间不断修改数据的机会呢？难道这是只允许州官放火、不允许百姓点灯的现代版？难道官方发布的就一定不是谣言？难道官方发布就是权威发布？权威发布就等于事实真相？</p>
-<p>对于死亡数字，如果说错了校正。官方发布开始是死35人，现在不也更新说是死114？相信死亡人数还会增多。如果按官方抓人逻辑，如果数字与事实不一致，是不是首先应该抓官方开始说的死35人的官谣？传播谣言的毕竟是极少数，在传播过程中把事情夸大的事情是客观存在，如马季相声说的，一个人吃鸡吐出了鸡毛，传到最后就可能变成了吐出了一个活鸡来。防止谣言传播的扩大化，就是在第一时间公布真相。</p>
-<p>李克强总理在8月16日下午在天津火灾爆炸事故现场强调说，要本着对人民群众生命高度负责的精神，对空气、水、土壤质量等环境指标持续准确监测，公开透明及时向公众发布，不得漏报瞒报。权威发布一旦跟不上，谣言就会满天飞。其实，类似的话，邓小平也说过，小道消息流传，是对长期以来没有民主政治的惩罚。</p>
-<p>第八，新媒体、自媒体成主流，对天津问责满天飞。通过新浪、腾讯微博、手机微信发现，谣言确实有，但真的没有发现所谓的谣言满天飞。观察到的内容发现一个共同规律，那就是指向对官员的问责。谣言满天飞，那是一个伪命题。人民日报公布的谣言，只有21条谣言，21条的谣言，能叫满天飞吗？不是谣言满天飞，而是问责满天飞。</p>
-<p>在第一时间公布真相，谣言就没有生存的空间，谣言的传播就会及时有效地得到遏制。但这次谣言之所以数量少，传播慢，恐怕还是得益于新媒体、自媒体，正是存在着这些多元的新媒体、自媒体，才使得谣言没有流行起来。</p>
-<p>相比较而言，在这方面，天津媒体却没有起好的作用，因此而引发的舆论次生灾害实在是太多了。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9C%A8%E7%84%B6%EF%BC%9A%E5%86%8D%E8%AF%B4%E5%A4%A9%E6%B4%A5%E5%AE%98%E5%AA%92%E5%BC%95%E5%8F%91%E7%9A%84%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5/?category=18271" rel="tag">天津</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84%E9%95%BF%E9%98%B5%E5%89%8D%E6%8D%A2%E4%BA%BA%E6%9C%89%E4%BD%95%E7%8E%84%E6%9C%BA/" target="cdt-mirror">东网｜东步亮：事故调查组长阵前换人有何玄机</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150820000316790-0820_05411_001_01p.jpg" alt="bkncn-20150820000316790-0820_05411_001_01p" width="551" height="395"></p>
-<p>天津大爆炸发生以来，相关新闻热点不断转移，正当大家将注意力集中于死亡和失联人数、消防人员与民警的牺牲、爆炸原因和有毒物质、受损房屋赔偿、涉事企业股东的真实身份等问题时，一个在此前类似事故中从未发生过的事件发生了：国务院事故调查组组长突然换人，主管安全生产事务的国家安监总局局长杨栋梁被中纪委宣布带走，接受调查。<br>
-这一消息引起的震荡，丝毫不亚于一次危化品仓库的“大爆炸”，至少在天津官场是如此。</p>
-<p>天津市委代理书记、市长黄兴国在新闻发布会上表示，他也是从网上得到的资讯，“具体情况我也不是太清楚”。黄兴国清不清楚，真实情况无从得知，一般来说，中共官员的话最多只能信一半。但有一点无庸置疑，即，在此关键时刻，将一个处理重大事故的重要官员突然带走，非常罕见。</p>
-<p>8月12日23时20分左右，天津发生爆炸后，杨栋梁作爲安监总局局长还率工作组连夜赶赴事故现场，协助地方处理事故。8月13日晚，国务院副总理刘延东赴天津探望爆炸受伤人员，杨栋梁曾陪同。8月14日，国务委员、公安部长郭声琨在天津主持相关会议，杨栋梁也参会。甚至在8月17日晚上，郭声琨主持国务院工作组和天津抢险救援指挥部联席会议时，杨栋梁也参加了会议。到了18日下午3点，中纪委网站即发布消息，杨栋梁因涉嫌严重违纪违法，接受组织调查。</p>
-<p>杨栋梁此刻被查，在此前几天已透露出一些迹象，不过绝大多数人没有注意到。8月13日晚，陪同刘延东探望受伤人员的部级官员，包括杨栋梁和国家卫计委主任李斌。但奇怪的是，新华社和《人民日报》的报道，只提了李斌，却没有提同一级别的杨栋梁，这在非常讲究官员的报道及排名、排序的中共官场，是不寻常的。我们无从得知杨栋梁当时是否注意到了这一点。</p>
-<p>另外一点，天津大爆炸发生后不久，内地多家媒体即已报道，国务院已成立了事故调查组，并赶赴现场开展工作，不过，事故调查组由什么人组成，报道语焉不详。8月15日，《中国企业家》杂志独家报道，调查组由国家安监总局局长、党组书记杨栋梁担任。但到了8月18日，天津市政府在上午11时举行的第八场新闻发布会上宣布，国务院调查组系由公安部牵头，公安部常务副部长杨焕宁任组长。</p>
-<p>这让媒体记者们非常诧异。不仅因爲调查组长突然换人，更因爲，过去的安全事故，都是由安监总局局长担任调查组长，公安部官员有时连组员都不是。</p>
-<p>比如，2015年6月的“东方之星”号客轮翻沉事件，2014年江苏昆山中荣金属制品有限公司“8·2”特别重大爆炸事故，2013年山东青岛“11·22”中石化东黄输油管道泄漏爆炸、吉林省德惠市吉林宝源丰禽业有限公司“6·3”特别重大燃烧事故、吉林省政府八宝煤矿“3·29”重大煤气事故，2012年四川攀枝花肖家湾煤矿“8·29”特别重大煤气爆炸事故等，都是由作爲国家安监总局局长的杨栋梁担任国务院事故调查组组长。</p>
-<p>这次，事故调查组却改爲由公安部牵头，由正部级的公安部常务副部长担任组长，这其中有何玄机？</p>
-<p>有报道说，纪检部门针对杨栋梁的秘密调查已有半年多。几个月前，中纪委曾派人去天津查国有资产流失。杨栋梁曾在天津长期担任国资委主任。他当天津副市长时，也有很多人举报他，包括一些天津老领导和老同志。此次被查可能是他在天津时犯的事。</p>
-<p>由于杨出身石油行业，长期在石油系统工作，与同在石油行业工作过、被判无期徒刑的前政治局常委周永康可能有交集，因此也有人怀疑，杨可能是周石油系时期的“馀党”，杨被查可能仍是由周永康案牵出。</p>
-<p>当然，怀疑杨被查与此次危化品仓库大爆炸有关的就更多了。最大的理由是，杨曾长期在天津工作，主管安全生产，而出任国家安监总局局长后，又马上签署了《危险化学品经营许可证管理办法》，使得瑞海物流在取得港口经营许可证后，不需危险化学品经营许可证即可合法经营，时间上具有巧合的地方。但这一点被很多人排除。因爲按照贯常的处理方式，中共不可能有这么快的效率。而且一般来说，即使他有问题，也首先应该进行行政处分，而不是党内处分，还没有到中纪委层面。</p>
-<p>如果上述原因都不是，那还会有什么可能呢？是因爲此次爆炸事故影响特别重大，还是因爲爆炸原因涉及刑事案件？作爲侦查机关的公安部门高级官员牵头来调查一起安全生产事故和责任事故，原因何在？</p>
-<p>如果真的涉及刑事案件，比如恐怖袭击，那真会令人不寒而栗。</p>
-<p>如果只是因杨被查才换人，那当然是一个最能让人舒一口气的解释了。我觉得，有关部门有必要对此作出清晰的说明。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84%E9%95%BF%E9%98%B5%E5%89%8D%E6%8D%A2%E4%BA%BA%E6%9C%89%E4%BD%95%E7%8E%84%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%A0%8B%E6%A2%81/?category=18271" rel="tag">杨栋梁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E9%9C%87%E5%A1%8C%E9%BB%84%E5%85%B4%E5%9B%BD%E4%BB%95%E9%80%94/" target="cdt-mirror">太阳报｜天津爆炸震塌黄兴国仕途</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/500px-Huang_Xingguo_2010.jpg" alt="500px-Huang_Xingguo_2010" width="500" height="667"></p>
-<p>大爆炸事件使天津政坛人人自危，尤其是代市委书记、市长黄兴国不仅升官无望，还可能背负处分，而当地官场也将进入大调整。</p>
-<p>黄兴国是习近平的「之江新军」要员</p>
-<p>发生大爆炸的天津滨海新区，是天津重点打造的经济基地，近年入驻了大飞机等重大装备企业，该区的国民经济产值为天津各区之首，正因为此，滨海新区成为天津一张金光闪闪的名片。不过，今次大爆炸也使该区的负面形象街知巷闻。</p>
-<p>手忙脚乱 惊慌失措</p>
-<p>目前主政天津的黄兴国，仕途无疑将受到波及。现年六十岁的黄兴国，早年一直在浙江从政，官至浙江省副省长，并在浙江省委常委、宁波市委书记的任上与当时的天津市委副书记夏宝龙对调，出任天津市委副书记。黄兴国任宁波市委书记时，习近平刚好担任浙江省委书记，因此外界将黄兴国归为习近平的「之江新军」。</p>
-<p>二OO 八年初，黄兴国担任天津市长，与张高丽搭班子；十八大之后，张高丽进京升任国务院常务副总理，孙春兰接任天津市委书记，黄兴国原地踏步。去年底，孙春兰调任中央统战部部长，此时黄兴国开始代理市委书记一职，至今已有八个多月。外界认为，习近平一直没有空降其他大员接任天津市委书记，目的就是等黄兴国顺利过渡之后，接任市委书记一职，进而跻身政治局，让他成为真正独掌一方的地方诸侯。</p>
-<p>但人算不如天算，一场突如其来的大爆炸，黄兴国作为天津的党政一把手，实难辞其咎，而且天津当局在处理今次事件时手忙脚乱，惊慌失措，无论是新闻发布会还是善后调查，都相当混乱，缺乏章法，整个场面闹哄哄，让外界感觉他在天津根本镇不住，缺乏一把手的魄力与决断。正因为此，大爆炸发生不久，网络就流传湖北省委书记李鸿忠调任天津，这其实也折射出民意对黄兴国的不满。</p>
-<p>原本踌躇满志，一步就可以迈入「党和国家领导人」之列的黄兴国，整个仕途被这场爆炸震塌，时也、命也？俗话说，命里有时终须有，命里无时莫强求，很多人升官贬职看似偶然，实则必然。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E9%9C%87%E5%A1%8C%E9%BB%84%E5%85%B4%E5%9B%BD%E4%BB%95%E9%80%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%85%B4%E5%9B%BD/?category=18271" rel="tag">黄兴国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E7%A5%9E%E7%BB%8F%E6%AF%92%E6%B0%94%E6%BC%AB%E5%A4%A9%E6%B4%A5/" target="cdt-mirror">东方日报｜神经毒气漫天津</a>
-</h2>
-<p><p>天津危险品仓库大爆炸引发化学污染威胁加剧！内地官方电视台昨日披露，爆炸现场测出氰化钠（俗称山埃）和可致心脏骤停猝死的神经性毒气，两项指标同样「爆表」，而在持续降雨下，当地路面昨再出现异常白泡。不过，当地官方昨否认发现毒气及白泡，并称是「某些人的猜测」，说法掀起争论，而联合国人权专家则批评天津官方透明度不足。此外，事件昨增至一百二十八人死亡。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0820-00178-001h1.jpg" alt="0820-00178-001h1" width="450" height="250"></p>
-<p>帮助灾民撤离的武警，身穿防护服及防毒面罩</p>
-<p>内地官方电视台报道，北京消防昨早在距离爆炸核心区域五百米，进行空气监测时，发现氰化钠和神经性毒气两种有毒气体，指标均达最高值。</p>
-<p>山埃亦爆表 环局卸责</p>
-<p>报道引述北京化工大学博士门宝表示，氰化钠在固体形态下触碰皮肤伤口，或吸入约几十毫克就足以致命，而人体一旦吸入神经性毒气，亦可导致呼吸系统、心脏等骤停死亡。<br>
-报道播出后引发关注，天津市环保局总工程师包景岭昨回应时，指检测神经性毒气一般由军事部门负责，承认环保局不清楚「具体是甚么物质」，但他坚称现场没发现新污染物，并称「如果是某些人的想像，我们就没办法了。」</p>
-<p>另一内地官媒则引述军方专家，指神经性毒气的毒性比氰化物高出数十倍，合成极为复杂，从爆炸现场发现的化学原料和生产条件来看，根本没可能产生，认为官方电视台所谓神经性毒气之说属「重大误判」，令事件陷入「罗生门」。</p>
-<p>雨后现场地面出现气泡。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0820-00178-001p2g4.jpg" alt="0820-00178-001p2g4" width="200" height="200"></p>
-<p>积水黏度高 气泡不破</p>
-<p>此外，继前日降雨出现大量白色泡沫后，再有内地记者在昨早下雨时，发现每当有水滴从树上滴入积水时，就会产生直径二至三厘米的大型气泡，且不易破漏，水质似乎还有一定黏度。该名记者声称，在拍摄照片时，更被水滴沾到眼皮，产生「火辣的」感觉。</p>
-<p>对此，市环境监测所大气监测部部长陈魁表示，昨早官方人员为保护监测设备都淋了雨，他强调在其身处的位置，并无看见任何白色泡沫或粉末，「身体也没有不适」。</p>
-<p>另天津官方昨公布资料显示，当地检出氰化物的水质监测点数量增加，廿五个监测点的当中八个超标，其中有管道更超标二百七十七倍。公安部消防局昨晚表示，消防人员昨在爆炸核心区搜出十四具失联人员遗体，令事件增至一百二十八人死亡。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E7%A5%9E%E7%BB%8F%E6%AF%92%E6%B0%94%E6%BC%AB%E5%A4%A9%E6%B4%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/?category=18271" rel="tag">神经性毒气</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%BB%8A%E5%A4%A9%E9%81%93-%EF%BC%9A%E6%96%B0%E9%97%BB%E6%98%AF%E5%A4%9F%E5%A4%A7%EF%BC%8C%E6%B2%A1%E4%BB%80%E4%B9%88%E5%8D%B5%E7%94%A8/" target="cdt-mirror">博谈网｜今天道 ：新闻是够大，没什么卵用</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/968b5721ca21c5f.jpg" alt="968b5721ca21c5f" width="440" height="293"></p>
-<p>刚刚过去的七天里，有无数的朋友告诉我，天津港大爆炸，你们什么时候推送？不准备写点什么吗？</p>
-<p>坦白说，我有想过，而且有太多写的理由：自己在天津混迹十年，老婆孩子此刻还在滨海新区，政府公共关系、新媒体的报道参与等正好是自己感兴趣的话题，而这次爆炸，更是让天津第一次连续上了一个礼拜的头条。按理说，确实应该写一写，说一说，论一论，骂一骂。</p>
-<p>但是每次打开电脑敲下一行字的时候，我都在告诫自己：是我自己要写呢？还是读者期待我去写呢？在大多数时候，经过长时间的编读调试，这二者是可以统一的，但有时候也会分离。我认真问了自己一遍：我真的想谈论一下近在80公里之外的天津港爆炸事故吗？</p>
-<p>答案是不想。爆炸发生第二天早上，通过这个平台我给所有关注的人报了平安。当时想法非常明确：我若安好，便是晴天，媒体撕逼，爱咋咋地。打那个时刻我就已经预料到了：不止天津的灾难到了，天津行政系统的公关灾难也到了。所有你们看到的怪现状，这些年在本地早已经见怪不怪。虽然我获得的信息与真相比大多数人多一些、快一点、近一些，在死人灾难面前，没有什么信息值得吹嘘夸耀，写下来以证明自己无比正确英明的。</p>
-<p>如你所见，这些天，全世界被爆炸信息刷屏，事件继续沿着惊叹——传播——追问——反思——感动——点蜡的传统事故路径发展，只是因为媒体应对的业余产生的次生灾害，延长了这一起公共事件的衰减周期。但是请放心，方向不变。今天是所谓‌‌“头七‌‌”，很多人又开始在微博、朋友圈点不要钱的蜡烛了。但是不用一个星期，他们的注意力很快会被新的新闻刮走，并一个月内把一切忘得一干二净，瑞海、塘沽、最美逆行、氰化钾这些热词汇会被迅速泻入传播信息垃圾堆。尤其是从上到下强调呼吁的所谓问责，它只有政治学意义，没有社会学意义，跟远远近近的看客也没毛关系：不信我问你——沉船事件发生在哪个市？是哪天发生的？问责了吗？上海踩踏事件处理的领导叫什么？处理完了贵省是不是领导干部颤抖了？呵呵。</p>
-<p>本质上，我们对于任何灾难的关注与围观马路车祸并没有本质不同，是的，全媒体时代已经到了，我们借助新技术，看得更清晰、真切、立体、形象，记者可以在爆炸第一时间冲进封锁圈发来30米的报道，新京报新媒体部用3D效果还原事故现场，澎湃、界面、中国新闻周刊、21世纪等调查记者已经把瑞海的信息挖得底朝天，在发布会上的追问扒掉了这个直辖市落后媒介素养的底裤，这些专业新闻从业者把你想要的几乎所有信息快速呈现在我们面前，依托社交网络传播完成最大的公共议题设置，形成横扫所有信息版块的舆论场：一种全民关注、举国同悲、三呼问责的情绪迅速集结。</p>
-<p>然而我他要说，除了对死难者的声援呼吁以外，这些也并没有什么卵用。</p>
-<p>是大家突然关心时事、热衷政治、家国天下了吗？不是，真正有公共情怀的人才不是单纯的跟风狗。群情激昂的关注成为舆情的底座、传播的狂欢、信息的混战，而真正带给这些点赞点蜡流泪，熬夜刷屏感动的人的实际是什么？你们在微博上坚持要的反思、问责、打老虎这些东西，究竟是什么、对你们有什么意义，我非常怀疑。</p>
-<p>我们真正得到的是什么？是不断提高的灾难新闻阈值，对于行政机构落后昏聩的进一步确认，在传谣辟谣过程中学习到此生也未必再用得上的所谓知识，以及长时间关注一件事情导致的接受倦怠。他们很难在这样快进快出的信息洪流中获得成长，培养出真正的社会关切和与公民精神。汶川地震，震出了新中国？动车事故，撞出了新世界？上海大火，烧出了新形象？总试图通过灾难来提高国民素质的国家是不是有些太变态了？</p>
-<p>鲁迅先生写了很多纪念文字，但那一句‌‌“时光永是流逝，街市依旧太平‌‌”是我看到最写实悲凉的一句，它让人对屡次重现的事件产生荒谬感，对假装动情并介入其中产生戏剧感，长此以往，则心生绝望。可能我的态度过于悲观，但是面对自己了解最深入的这起公共灾难，在没无发言的必要的情况下，我乖乖地选择闭嘴。</p>
-<p>在这一周里，真正让我觉得与这起事件关系最密切的是：早起李老师问，心壹咳嗽好了，爆炸以后，能出去活动吗？我说，没事，别慌，还远，去吧！做到这一点，我就是已经是自己的英雄。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%BB%8A%E5%A4%A9%E9%81%93-%EF%BC%9A%E6%96%B0%E9%97%BB%E6%98%AF%E5%A4%9F%E5%A4%A7%EF%BC%8C%E6%B2%A1%E4%BB%80%E4%B9%88%E5%8D%B5%E7%94%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%A7%E7%94%9F%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/" target="cdt-mirror">新华网｜专家：天津港爆炸所谓“神经性毒气”之说属“重大误判”</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1116306307_14399682585051n.jpg" alt="1116306307_14399682585051n" width="551" height="261"></p>
-<p>新华网天津８月１９日电（记者徐壮志、毛振华、李鲲）两天来，一则关于天津港爆炸核心区检测出神经性毒气的新闻受到了广泛关注。正在天津爆炸现场执行救援指导任务的军事医学科学院化武专家组指出，爆炸现场根本不可能产生神经性毒气，所谓“神经性毒气”之说属“重大误判”。</p>
-<p>１７日晚，一则媒体报道称，天津港爆炸现场检测出神经性毒气，指标达到了最高值，甚至认为爆炸区内的多种危化品都可能产生这类物质。国家神经性毒剂中毒救治标准的起草者，国际同类标准的主要参与人员之一的军事医学科学院王永安研究员说，神经性毒气的标准说法应该是神经性毒剂，是毒性极强的化学物质，其毒性比氰化物高几十倍，合成极为复杂，而从爆炸现场探明化学原料，结合神经性毒剂的核心原料和生产条件来看，事故现场根本没有产生神经性毒剂的可能。</p>
-<p>军事医学科学院专家、联合国禁止化学武器组织专家丁日高认同王永安的观点：“只要具备专业常识，就知道这绝不可能。”</p>
-<p>同在现场执行任务的总参谋部防化指挥学院专家王宁也持同样观点：“我们看到这则报道时都很吃惊。”</p>
-<p>“一般的测量仪器出现误报很常见。”王永安说，从电视来看，现场使用的仪器并非行业中认定的可以准确确定检测结果的“金标准”仪器。</p>
-<p>军事医学科学院毒物药物研究所研究员聂志勇、全军中毒救治中心王汉斌主任医师同时介绍，到目前为止，专家组并没有听说有神经性毒剂中毒病例。王汉斌认为，危险化学品检测及判读应当依据科学程序来进行。“此次重大误判，源自于对仪器检测的结果没有进行常识性分析解读。”</p>
-<p>王永安介绍，一般来说，对于这种容易发生误判的一般仪器检测出的结果，应当首先进行基于专业常识的分析判断，其次应与其他仪器检测出数据进行综合比对，如果仍有疑问，就应该用质谱等高级的“金标准”仪器进行确认，特别是神经性毒剂这种毒极性大、极易引发恐慌的化学品，尤其应该谨慎确认。</p>
-<p>“现在民众的关注点多集中在大量危化品的危害上，应强化监测数据的实时发布，让公众能动态得知环境情况和数据。”王永安说，但监测数据必须准确可靠，建议媒体在采访时，应选择真正从事该领域研究的专家，避免因为不当解读而引发不必要的恐慌。</p>
-<hr><p><small>© 走丫的路 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%A7%E7%94%9F%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/?category=18271" rel="tag">神经性毒气</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%A7%E7%94%9F%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/" target="cdt-mirror">新华网｜专家：天津港爆炸所谓“神经性毒气”属“重大误判”</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1116306307_14399682585051n.jpg" alt="1116306307_14399682585051n" width="551" height="261"></p>
-<p>新华网天津８月１９日电（记者徐壮志、毛振华、李鲲）两天来，一则关于天津港爆炸核心区检测出神经性毒气的新闻受到了广泛关注。正在天津爆炸现场执行救援指导任务的军事医学科学院化武专家组指出，爆炸现场根本不可能产生神经性毒气，所谓“神经性毒气”之说属“重大误判”。</p>
-<p>１７日晚，一则媒体报道称，天津港爆炸现场检测出神经性毒气，指标达到了最高值，甚至认为爆炸区内的多种危化品都可能产生这类物质。国家神经性毒剂中毒救治标准的起草者，国际同类标准的主要参与人员之一的军事医学科学院王永安研究员说，神经性毒气的标准说法应该是神经性毒剂，是毒性极强的化学物质，其毒性比氰化物高几十倍，合成极为复杂，而从爆炸现场探明化学原料，结合神经性毒剂的核心原料和生产条件来看，事故现场根本没有产生神经性毒剂的可能。</p>
-<p>军事医学科学院专家、联合国禁止化学武器组织专家丁日高认同王永安的观点：“只要具备专业常识，就知道这绝不可能。”</p>
-<p>同在现场执行任务的总参谋部防化指挥学院专家王宁也持同样观点：“我们看到这则报道时都很吃惊。”</p>
-<p>“一般的测量仪器出现误报很常见。”王永安说，从电视来看，现场使用的仪器并非行业中认定的可以准确确定检测结果的“金标准”仪器。</p>
-<p>军事医学科学院毒物药物研究所研究员聂志勇、全军中毒救治中心王汉斌主任医师同时介绍，到目前为止，专家组并没有听说有神经性毒剂中毒病例。王汉斌认为，危险化学品检测及判读应当依据科学程序来进行。“此次重大误判，源自于对仪器检测的结果没有进行常识性分析解读。”</p>
-<p>王永安介绍，一般来说，对于这种容易发生误判的一般仪器检测出的结果，应当首先进行基于专业常识的分析判断，其次应与其他仪器检测出数据进行综合比对，如果仍有疑问，就应该用质谱等高级的“金标准”仪器进行确认，特别是神经性毒剂这种毒极性大、极易引发恐慌的化学品，尤其应该谨慎确认。</p>
-<p>“现在民众的关注点多集中在大量危化品的危害上，应强化监测数据的实时发布，让公众能动态得知环境情况和数据。”王永安说，但监测数据必须准确可靠，建议媒体在采访时，应选择真正从事该领域研究的专家，避免因为不当解读而引发不必要的恐慌。</p>
-<hr><p><small>© 走丫的路 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%A7%E7%94%9F%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/?category=18271" rel="tag">神经性毒气</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E6%B0%B4%E6%A0%B7%E6%9C%AC%E6%B0%B0%E5%8C%96%E7%89%A9%E8%B6%85%E6%A0%87277%E5%80%8D/" target="cdt-mirror">自由亚洲｜天津爆炸水样本氰化物超标277倍</a>
-</h2>
-<p><p>至今导致114人死、逾670人住院的天津爆炸事故，当局周三（19日）公布失踪人数增至65人，亦证实在爆炸核心范围水样本验出氰化物超标277倍。同时官媒《新华社》披露，事故或与化学品积压引发爆炸。另外，涉事企业“瑞海”被扣查的高层中，证实其中一人是天津港公安局前局长的儿子，利用职便和关系获准营运危险品仓库资格。而被捕 国家安全生产监督管理总局局长杨栋梁，其儿子亦被带走。（文宇晴 报道）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150817_14398454187269.jpg" alt="20150817_14398454187269" width="450" height="250"></p>
-<p>    天津当局于周三（19日）召开记者会时，天津市环保局专家组组长包景岭否认发现神经性毒气，又指没人因此中毒。不过包景岭承认，在爆炸核心范围验出氰化物超标277倍。</p>
-<p>    包景岭说：《焦点访谈》是听谁说的？<br>
-    现场记者说：是北京公安消防总队。<br>
-    包景岭说：我们去了解一下，我们昨天没有时间看《焦点访谈》，我们昨天十二点多还在开会。累计共有25个点位的氰化物检出，其中8个点位超标，最大的一个超标点是277倍。我解释一下，这个点位是在我们前两天已经封堵的一号泵站雨水排水口。</p>
-<p>    包景岭强调，该处超277倍的污水有一点超标都不允许排放，现在正把它抽出来，拉到相应的污水处理厂去进行达标治理。</p>
-<p>    北京公安消防总队副参谋长李兴华周一（16日）晚在央视《焦点访谈》中表示﹐在距离爆炸核心区五百米监测时，侦测到氰化钠和神经性毒气，这两种有毒气体的指标都达到最高值。报道又引述化学专家指，神经性毒气影响呼吸系统及心脏，可引起死亡。</p>
-<p>    不过及后有关节目内容在央视网站上已被删除。官方新华网并发文反驳《焦点访谈》的报道是“重大误判”。文中引述执行救援指导任务的军事医学科学院化武专家组说话，表示神经性毒气的标准说法，应该是神经性毒剂，是毒性极强的化学物质，其毒性比氰化物高几十倍。由现场所见，根本没有产生神经性毒剂的可能。不过有距离爆炸核心区约2公里远的厂区员工表示担心，又形容降雨天气令周围的空气变得污浊。</p>
-<p>    员工说：我们这里下雨后，空气中弥漫著难闻的气味。</p>
-<p>    就在当局继续搜救失踪者和清理现场危险化学品残留物的同时，当局仍然在调查爆炸起因。《新华社》引述涉事的“瑞海公司”多名负责人说话，指根据当晚在现场的员工报告，他们看见存放危险化学品的油槽柜著火，怀疑可能是里面存放的物质过量，导致内部压力上升，顶开阀门后自燃，起火并产生高温及震动，继而引爆硝酸铵，导致巨大爆炸。</p>
-<p>    至于瑞海公司10名高层，在事故发后第二日已被当局扣查。《新华社》亦在周三下午发文，称记者走访看守所，采访这5名核心人物，得悉公司真正大股东是董事长于学伟，持股五成五，而二股东就是副董事长董社轩，他承认由于自己是天津港公安局前局长董培军的儿子，因怕其他人知道，所以由其他人代为持股四成五。董社轩又说，最初环评公司指危险仓距离民居太近不符规定，于学伟后来更换另一家环评公司，最终过关。令最初只是物流仓库的“瑞海”， 只用一年半时间，就通过多项审批，获准营运危险品仓库。</p>
-<p>    被中纪委调查的国家安全生产监督管理总局局长杨栋梁，其儿子杨晖亦被有关部门带走调查。《新京报》报道，中海石油气电集团思想政治部总经理杨晖，被带走时正在天津公干。中海油在天津有多项工作。报道又引述消息指，杨晖大约在2011年前后加入集团，当时他的父亲杨栋梁是天津市常务副市长，与当时任职中海油副总经理的吴振芳合作密切。 </p>
-<p>    另外，网上有指市属国有企业“天津港集团”，与涉事企业“瑞海国际物流公司”有从属关系。“天津港集团” 总裁郑庆跃于事发后第8天，周三首度会见记者否认。他表示，“天津港”和“瑞海”是两家不同企业，他们对其他企业的危险品不具备监管职能。郑庆跃又解释，因为要全身投入抢险救援工作，所以过去几天一直没有公开露面，更称若公司有任何失责，会勇于承担。</p>
-<p>    郑庆跃说：调查组查实以后确实如果，我们天津港集团，不论集团还是个人，在哪方面如果有问题，我们会勇于承担，相应的也接受任何处罚。</p>
-<p>    受爆炸影响的逾百名居民，继续在记者会场外抗议，要求当局正视，尽快处理赔偿。</p>
-<p>    居民叫口号：回购！回购！</p>
-<p>    不过官员在记者会上被问到回购问题时，官方回复不会回购，会进行维修。</p>
-<p>    天津市委代理书记兼市长黄兴国说，这么大的事故发生在天津，造成了惨重的损失，在国内外产生了很大的影响，他要承担最主要不可推卸的领导责任。</p>
-<p>    至于连日来赶赴灾区协助救援的大批志愿者，仍有不少留在多接收伤者的医院，以及收容受影响居民和失踪者家属的地方，派发物资以及参与心理辅导等工作。</p>
-<p>    不过有志愿者在网上投诉，指塘沽区民政局局长周日时曾到过区内，其中一处较大的救援点要求在场的志愿者离开，交由武警接手处理，更要求志愿者对外宣称，物资是由民政局捐助。期间双方发生争论。</p>
-<p>    志愿者薛先生证实事件，他认为在一些重大事故事件上，当局应率先做好相关的领导者工作，而非在事后强行占领邀功。</p>
-<p>    薛先生说：志愿者刚开始时都是自己去的，然后安排接收物质和派放物质，后来民政局过来接管。经历过了，我还是希望第一时间应该是政府部门，或是医院负责人出来管理这件事情。</p>
-<p>    有志愿者对本台记者说，由于赶赴当地的志愿者太多，加上目前当局开接管部分救援点，因而已选择离开。</p>
-<p>    来源：自由亚洲粤语部</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E6%B0%B4%E6%A0%B7%E6%9C%AC%E6%B0%B0%E5%8C%96%E7%89%A9%E8%B6%85%E6%A0%87277%E5%80%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E7%89%A9/?category=18271" rel="tag">氰化物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E7%BB%8F%E6%80%A7%E6%AF%92%E6%B0%94/?category=18271" rel="tag">神经性毒气</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%A4%BE-%E7%8B%AC%E5%AE%B6%E8%B5%B7%E5%BA%95%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E8%B0%81%E6%98%AF%E7%A5%9E%E7%A7%98%E6%8E%A7%E5%88%B6%E4%BA%BA/" target="cdt-mirror">新华社 | 失控的“炸药包”——瑞海公司调查</a>
-</h2>
-<p><p>新华社北京8月19日电（记者牛纪伟、邓中豪、付光宇、李鲲、翟永冠）8月12日，天津东疆保税港区瑞海国际物流有限公司发生火灾爆炸，造成上百人遇难的严重后果。瑞海公司究竟是一家什么样的企业？其高管层是否有所谓“神秘背景”？</p>
-<p>近日，记者独家采访、接触瑞海公司五名核心人物：瑞海公司大股东李亮、董事长于学伟、副董事长董社轩、法人代表兼总经理只峰以及副总经理曹海军。</p>
-<p>通过深入采访，瑞海公司及其管理层的真实面目在抽丝剥茧中逐渐清晰，瑞海公司由一家普通仓库变身危化品仓库的过程日渐浮出水面，而爆炸背后的诸多疑点仍有待解答。</p>
-<p><strong>神秘的股东</strong></p>
-<p>“瑞海公司的老板是谁？”天津滨海大爆炸之后的一周里，人们都在问。</p>
-<p>工商登记信息显示，瑞海公司于2012年11月28日注册成立，注册资本5000万元人民币，股东为李亮、舒铮，法定代表人为李亮。其中李亮持股55％，舒铮持股45％。2015年1月29日，瑞海公司增加注册资本至1亿元人民币，法定代表人变更为只峰。</p>
-<p>李亮、舒铮、只峰，他们三人中谁是瑞海公司的真正老板？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e.jpg" alt="20150819144459_4451.jpg@640w_1l_1c_0i_80q_1x_1e" width="400" height="300"></a></p>
-<p>15日下午，记者在泰达医院住院部见到瑞海公司总经理只峰。只峰12日在爆炸现场受伤，随后被警方控制，记者见到他时正呈昏迷状态。其妻告诉记者，“只峰负责公司日常管理，没有股权，一个月领一万多的工资。公司的实际负责人一个叫于学伟，一个姓董。”</p>
-<p>17日下午，记者在天津市第一看守所见到了被警方控制的瑞海公司大股东李亮。他在爆炸发生后的13日上午五时左右，在天津市市区内被警方控制。见到记者，34岁的李亮显得非常局促。据其介绍，他的家庭很普通，其父亲退休前是天津市东丽区老干部局的科员，他自己也不是瑞海公司真正的大股东。</p>
-<p>“真正的大股东叫于学伟，是我表姐的老公。55％的股份是我替于学伟代持的”。李亮表示，自己“没有开过一次会，没有签过一个字，没有拿过一分钱”。</p>
-<p>采访中，李亮透露，不仅自己的股份是代持的，公司占股45％的股东舒铮也是替人代持股份，真正的股东叫董社轩，是天津港公安局原局长之子。</p>
-<p><strong>17日下午，记者在看守所见到已被警方控制的董社轩。今年34岁的董社轩告诉记者，他是瑞海公司的二股东，通过高中同学舒铮持有公司45％的股份。</strong></p>
-<p><strong>董社轩说，其父的确是天津港公安局原局长，父亲在2013年初发现患上肝癌，2014年8月已经去世。“之所以找人代持，是因为我爸在公安局任职，让别人知道了影响不好，而且当时我父亲正在接受组织调查。”董社轩说。</strong></p>
-<p>董社轩告诉记者，“我先后投了1000多万，但并不负责任何具体事务。瑞海公司成立至今也没分过红，我每个月只拿1.5万元的固定工资。爆炸前我本来就已经打算退股了，今年春节期间公司聚会，喝完酒，我跟于学伟谈过一次，闹得很不愉快。他说，别着急，今年年底就能分红，结果还没分红就发生了爆炸。”</p>
-<p>采访中，曹海军也说：“公司真正的老板叫于学伟，董社轩偶尔来开开会，平时很少见他。”</p>
-<p><strong>谁是控制人</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e.jpg" alt="20150819143652_0983.jpg@640w_1l_1c_0i_80q_1x_1e" width="450" height="450"></a></p>
-<p> </p>
-<p>一场惊天动地的爆炸，将瑞海公司的“神秘控制人”从幕后推向了前台。</p>
-<p>记者在天津市第一看守所见到众人口中瑞海公司背后的“神秘控制人”、1974年出生的于学伟。据公安民警介绍，“爆炸事发时，于学伟和家人在河北旅游，接到电话后当晚赶回，未到现场即被控制，对爆炸的严重后果还不清楚。”</p>
-<p><strong>于学伟说，他是瑞海公司的实际控制人，拥有公司55％股份，由妻子的表弟李亮为自己代持。他1994年进入国企中化集团天津分公司工作，2012年9月离职，离职前任中化集团天津分公司副总经理，对危化品行业非常熟悉。</strong></p>
-<p>于学伟说：“我在酒桌上认识的董社轩。他爸是公安局长，他在港口混得开。”2012年末，从中化离职的于学伟找到董社轩，决定利用双方的资源共同创业。</p>
-<p>董社轩说，他2006年从一所军校毕业，此后卖过轮胎、承接过工程、进口过化妆品、卖过红酒。“2012年底，于学伟找到我，说想从中化拉一支队伍单干。他说中化的客户都在他手里，他能拉到中化八九成的客户。”董社轩说。</p>
-<p><strong>据于学伟介绍，2012年11月28日，瑞海公司注册成立，他和董社轩分别找亲戚李亮和同学舒铮代持股份。公司成立后，他从中化集团天津分公司挖来大量人员，瑞海公司的主要管理层：总经理只峰、主管操作部的副总经理曹海军、主管业务部的副总经理刘振国均曾就职于中化集团天津分公司。</strong></p>
-<p><strong>层层“通关”</strong></p>
-<p>从成立一家公司到获得危化品经营资质，瑞海公司用了一年半的时间。</p>
-<p>据了解，瑞海公司成立之初只有普通物流仓库，2014年4月，瑞海公司拿到危化品经营资质。在此之前，瑞海公司陆续通过了消防鉴定、规划审批、安全评价、环境评估等一系列程序，从而获得了从事危化品仓储的资格。</p>
-<p>从程序上看，瑞海公司走过了所有应走的流程，拿到了所有应有的认证。</p>
-<p>记者采访发现，在瑞海公司2013年申请建设危化品仓库时，消防部门出具的意见书显示“该工程的消防设计审核合格”，证明瑞海拿到了消防的鉴定。</p>
-<p><strong>回忆起办消防鉴定的过程，董社轩说：“我的关系主要在公安、消防方面，于学伟的关系主要在安监、港口管理局、海关、海事、环保方面。公司成立时，我去找的天津港公安消防支队负责人，说想做危化品仓储。当时我把天津市化工设计院给设计的改造方案这些材料都拿了过去，很快消防鉴定就办下来了。”</strong></p>
-<p>天津市滨海新区规划和国土资源管理局副局长朱立明说，瑞海公司建设两个危化品仓库符合规划审批依据，拿到了建设工程规划许可证。“关于安全距离，我们审批前参考了消防部门出具的建设工程消防设计审核意见书。”朱立明说。</p>
-<p>记者获得的一份2013年12月10日天津市环境工程评估中心的环评报告显示，瑞海公司拟把物流堆场改造成为一个集装箱堆场，项目建成后危险品货物年周转量2万吨左右。该报告认为，“该项目建设内容符合国家产业政策，选址符合地区总体发展规划……本项目建设具备环境可行性。”环评同样获得通过。</p>
-<p>按照《危险化学品安全管理条例》，国家对危险化学品经营实行许可制度。新建、改建、扩建储存、装卸危险化学品的港口建设项目，由港口行政管理部门按照国务院交通运输主管部门的规定进行安全条件审查。</p>
-<p>天津市安全生产监督管理局副局长高怀友说，瑞海公司取得了全国甲级安全评价机构——天津市中滨海盛安全评价监测有限公司的安全条件审查报告后，相关主管部门根据安评结果对现场及结论进行审查，认为符合相关规定。</p>
-<p><strong>疑点重重</strong></p>
-<p>瑞海公司的惊人事故，或许并非偶然。在层层通关的背后，却也步步存疑。</p>
-<p>——环评民意调查，神奇的“没有反对意见”</p>
-<p>记者获得的瑞海公司“环评报告”显示，环评期间共向周边企业及居民发放130份调查表，回收有效调查表128份，“基本支持和赞同该项目的建设，没有反对意见。”而记者采访中，没有附近居民曾看到这张调查问卷，此前也完全不知道这里是一个危化品仓库。对此，于学伟表示，环评的事他并未参与。</p>
-<p>——换了家安评公司才拿到安评报告</p>
-<p>按照国家安监部门2001年出台的《危险化学品经营企业开业条件和技术要求》，550平方米以上的大中型危险化学品仓库选址应与周围公共建筑物、交通干线（公路、铁路、水路）、工矿企业等距离至少保持1000米。</p>
-<p>记者实地脚步测量发现，万科清水港湾小区与该仓库直线最近距离约为560米，而该仓库与轻轨东海路站距离也仅约630米。</p>
-<p>董社轩表示，“当时做安评时，第一家安评公司说距离居民楼太近，不符合规定，安评做不下来。后来于学伟说别管了，他来弄，后来又换了家安评公司，结果就弄下来了。”不过于学伟却表示，安评的事并不是他具体操办，具体不清楚。</p>
-<p>记者采访发现，外界质疑颇多的安评报告，相关部门至今仍未向社会公开。</p>
-<p>——资质：爆炸前有半年多没有危化品运营资质但仍正常运营</p>
-<p>工商登记信息显示，2014年4月，瑞海公司才首次获得天津市交通部门批复的危化品经营资质，有效期至2014年10月16日。而该公司正式获得港口经营许可证是在2015年6月，也就是说，从2014年10月至2015年6月的8个月中，该公司没有经营危化品的资质。</p>
-<p>于学伟说，公司此前拿到了经营危化品的试运营资质，到2014年10月份到期。公司经营危化品的正式资质是在2015年6月拿到的，此前有大概半年多的时间没有拿到交委的资质，期间公司危化品业务正常进行没受到影响。</p>
-<p>于学伟说：“当时试运营资质到期后，公司没有办延期。一方面觉得正式资质很快就会批下来，另一方面觉得很多其他公司都没办延期，有的拖的时间比半年更长也没人管，就没当回事儿。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E5%8D%8E%E7%A4%BE-%E7%8B%AC%E5%AE%B6%E8%B5%B7%E5%BA%95%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8%E8%B0%81%E6%98%AF%E7%A5%9E%E7%A7%98%E6%8E%A7%E5%88%B6%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">瑞海公司</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
 </p>
 <table>
     <tr>
@@ -851,7 +850,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1bbj5vvkc28ov.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ucn5xjsop3r5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +860,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d14xjmvzur4llm.cloudfront.net">https://d14xjmvzur4llm.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/><a href="https://d14xjmvzur4llm.cloudfront.net">https://d14xjmvzur4llm.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/></td>    </tr>
 </table>

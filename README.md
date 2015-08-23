@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsorir3ufe68a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,76 @@
                 <td></td>
                 
         
-        <td><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8D%B1%E5%8C%96%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E7%9A%84%E8%87%B4%E5%91%BD%E8%B7%9D%E7%A6%BB/" target="cdt-mirror">纽约时报｜中国各地危化品与居民区的致命距离</a>
+</h2>
+<p><p><strong>经检索公开资料和卫星图片后，《纽约时报》列举了中国各地部分位于居民区约一公里范围内的危化品存储或生产地点：</strong></p>
+<p><em>原文：<a href="http://www.nytimes.com/interactive/2015/08/21/world/asia/tianjin-china-explosion-hazardous-chemical-sites.html">Tianjin Blasts Expose the Dangerous Proximity of Toxic Chemicals in China</a></em><br><em>编译：中国数字时代编辑</em></p>
+<p><strong>河北诚信有限责任公司<br>
+氰化钠生产商<br>
+河北石家庄</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B2%B3%E5%8C%97%E8%AF%9A%E4%BF%A1-e1440330345796.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B2%B3%E5%8C%97%E8%AF%9A%E4%BF%A1-e1440330345796.png" alt="" width="500" height="540"></a></p>
+<p> </p>
+<p><strong>中化天津滨海物流有限公司 & 中化天津港石化仓储有限公司<br>
+危化品存储<br>
+天津</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%AD%E5%8C%96%E5%A4%A9%E6%B4%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%9F%B3%E5%8C%96%E4%BB%93%E5%82%A8-e1440330491220.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%AD%E5%8C%96%E5%A4%A9%E6%B4%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%9F%B3%E5%8C%96%E4%BB%93%E5%82%A8-e1440330491220.png" alt="" width="600" height="351"></a></p>
+<p> </p>
+<p><strong>上海北芳储运集团<br>
+危化品存储<br>
+上海（金山）<br>
+&<br>
+武汉国际集装箱有限公司<br>
+危化品存储<br>
+湖北武汉</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E5%8C%97%E8%8A%B3-%E6%AD%A6%E6%B1%89%E5%9B%BD%E9%99%85%E9%9B%86%E8%A3%85%E7%AE%B1-e1440330449286.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E5%8C%97%E8%8A%B3-%E6%AD%A6%E6%B1%89%E5%9B%BD%E9%99%85%E9%9B%86%E8%A3%85%E7%AE%B1-e1440330449286.png" alt="" width="600" height="352"></a></p>
+<p> </p>
+<p><strong>安庆曙光化工集团<br>
+氰化钠生产商<br>
+安徽安庆<br>
+&<br>
+东莞市荣顺化工仓储有限公司<br>
+经批准可存储氰化钠<br>
+广东东莞</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9B%99%E5%85%89%E5%8C%96%E5%B7%A5-%E8%8D%A3%E9%A1%BA%E5%8C%96%E5%B7%A5%E4%BB%93%E5%82%A8-e1440330395122.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9B%99%E5%85%89%E5%8C%96%E5%B7%A5-%E8%8D%A3%E9%A1%BA%E5%8C%96%E5%B7%A5%E4%BB%93%E5%82%A8-e1440330395122.png" alt="" width="600" height="357"></a></p>
+<p> </p>
+<p><strong><span>天津瑞海国际物流有限公司</span></strong><br><strong> 存储氰化钠</strong><br><strong> 天津</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A9%E6%B4%A5%E7%91%9E%E6%B5%B7-e1440330538127.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A9%E6%B4%A5%E7%91%9E%E6%B5%B7-e1440330538127.png" alt="" width="500" height="562"></a><br><strong><br></strong></p>
+<p><strong>河南偃师天龙化工有限公司<br>
+氰化钠生产商<br>
+河南洛阳<br>
+&<br>
+潍坊天瑞化工有限公司<br>
+氰化钠生产商<br>
+河南洛阳</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%81%83%E5%B8%88%E5%A4%A9%E9%BE%99-%E6%BD%8D%E5%9D%8A%E5%A4%A9%E7%91%9E-e1440330584404.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%81%83%E5%B8%88%E5%A4%A9%E9%BE%99-%E6%BD%8D%E5%9D%8A%E5%A4%A9%E7%91%9E-e1440330584404.png" alt="" width="600" height="355"></a></p>
+<p>residential area＝居民区<br>
+production facility(site)＝生产基地（点）<br>
+storage site＝存储点<br>
+primary school＝小学<br>
+kindergarten＝幼儿园<br>
+transport terminal＝交通终点站</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8D%B1%E5%8C%96%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E7%9A%84%E8%87%B4%E5%91%BD%E8%B7%9D%E7%A6%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%AE%A9%E6%88%91%E4%BB%AC%E6%B8%A9%E6%95%85%E4%B8%80%E4%B8%8B70%E5%B9%B4%E5%89%8D%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%82%A3%E4%B8%AA%E6%B3%95%E8%A5%BF/" target="cdt-mirror">【图说天朝】让我们温故一下70年前反对的那个法西斯是啥样的</a>
+</h2>
+<p><p>【编者注】原微博已被和谐。</p>
+<p><strong><a title="松松_lausson" href="http://weibo.com/lausson">@松松_lausson</a>：让我们怀着同一个世界,同一个梦想的眼光，来温故一下70年前反对的那个法西斯是啥样的！</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg0spu42j20zk0sgadt.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg0spu42j20zk0sgadt.jpg" alt="6401cc2cjw1evcg0spu42j20zk0sgadt" width="440" height="352"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg14kc3aj20p00gtdog.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg14kc3aj20p00gtdog.jpg" alt="6401cc2cjw1evcg14kc3aj20p00gtdog" width="440" height="296"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg156mjrj20xc0l6gql.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg156mjrj20xc0l6gql.jpg" alt="6401cc2cjw1evcg156mjrj20xc0l6gql" width="440" height="279"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1ipw6ij20go0beta8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1ipw6ij20go0beta8.jpg" alt="6401cc2cjw1evcg1ipw6ij20go0beta8" width="440" height="301"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1izctej20go0b3dgt.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1izctej20go0b3dgt.jpg" alt="6401cc2cjw1evcg1izctej20go0b3dgt" width="440" height="293"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1jcuv6j20go0b3tac.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1jcuv6j20go0b3tac.jpg" alt="6401cc2cjw1evcg1jcuv6j20go0b3tac" width="440" height="293"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg25dgdwj20m80gogna.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg25dgdwj20m80gogna.jpg" alt="6401cc2cjw1evcg25dgdwj20m80gogna" width="440" height="330"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg25r84tj20vy0m7dl7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg25r84tj20vy0m7dl7.jpg" alt="6401cc2cjw1evcg25r84tj20vy0m7dl7" width="440" height="306"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg28zryhj218g0vtgyu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg28zryhj218g0vtgyu.jpg" alt="6401cc2cjw1evcg28zryhj218g0vtgyu" width="440" height="315"></a></p>
+<p>“参加“9•3”阅兵预演的官兵们。戳图<strong>↓↓</strong>感受中国军人的风采！” via <a href="http://weibo.com/2803301701/Cx9UNlKrA">@人民日报</a></p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcxsbwj20xq0l8dvo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcxsbwj20xq0l8dvo.jpg" alt="a716fd45jw1evclhcxsbwj20xq0l8dvo" width="440" height="277"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhd2aroj20z40l9nhy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhd2aroj20z40l9nhy.jpg" alt="a716fd45jw1evclhd2aroj20z40l9nhy" width="440" height="266"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcsl88j20zk0notc5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcsl88j20zk0notc5.jpg" alt="a716fd45jw1evclhcsl88j20zk0notc5" width="440" height="293"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcxtfaj20wu0l1gyw.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcxtfaj20wu0l1gyw.jpg" alt="a716fd45jw1evclhcxtfaj20wu0l1gyw" width="440" height="282"></a></p></blockquote>
+<p><em><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%A4%96%E5%88%8A%E6%89%AB%E6%8F%8F%EF%BC%9A%E9%98%85%E5%85%B5%E8%BF%99%E9%97%A8%E6%94%BF%E6%B2%BB%E8%89%BA%E6%9C%AF/">东方历史评论｜外刊扫描：阅兵这门政治艺术</a></em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%AE%A9%E6%88%91%E4%BB%AC%E6%B8%A9%E6%95%85%E4%B8%80%E4%B8%8B70%E5%B9%B4%E5%89%8D%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%82%A3%E4%B8%AA%E6%B3%95%E8%A5%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%AB%A5%E5%A4%A7%E7%84%95%EF%BC%9A%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%94%E5%81%BF%EF%BC%9F/" target="cdt-mirror">东网｜童大焕：国家为什么要赔偿？</a>
 </h2>
 <p><p>2015年8月18日，我在媒体发表文章，态度鲜明地表示《支持天津爆炸区居民房屋回购要求》，认为“任何救世主都无法救民于水火解民于倒悬，惟有专业精神和清晰严格的责任边界能够拯救我们自己！”并在其后转发这篇文章时表示：“我虽然恨其不争，反感购房者对政府画一个圈就当天上掉陷饼，但仍支持天津爆炸 区居民合理的房屋回购要求，惟独不支持跪求，因为真正应该下跪谢罪的是渎职官员而不是受害民众。”</p>
@@ -789,56 +856,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E6%8A%A5-%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%AD%A6%E6%88%92%E5%8C%BA%E5%89%A7%E6%AF%92%E6%B0%B0%E5%8C%96%E7%89%A9%E8%B6%85%E6%A0%87356%E5%80%8D/" target="cdt-mirror">明报 ｜天津爆炸警戒区剧毒氰化物超标356倍</a>
-</h2>
-<p><p>天津爆炸警戒区内水检测氰化物最大超标值356倍。这是大陆环保部官员8月20号在8.12爆炸事故第11场新闻发布会上宣布的数字。法新社说，据大陆央视报导说，天津爆炸中心区水检测发现氰化物平均超标40倍。</p>
-<p>大陆环保部应急中心主任田为勇今天表示，在警戒区内的26个检测点位中，8个点位氰化物超过容忍限度，最大值超过356倍。</p>
-<p>这位环境官员还说，截止到8月15日，环境当局在爆炸事故地点周边设置了42个监测点位，其中26个在警戒区内，16个在警戒区外。</p>
-<p>在警戒区内26个点位中有19个检出氰化物，其中8个超标，超标严重的地方是在“一号雨水泵”位置。警戒区外的16个检测点位中有6个测出氰化物，但不超标。</p>
-<p>他还说，警戒区内的水环境氰化物污染比较严重。警戒区外个别雨水管网和水渠有超标，其他都符合国家标准。</p>
-<p>田为勇还保证说，目前所有氰化物超标的污水全部被封堵在事故区内，不经处理达标不会外排。</p>
-<p>8.12大爆炸时天津瑞海国际公司仓库曾存有700吨高毒性氰化钠。法新社引述美国疾控中心指出，氰化纳平常是粉末状的晶体，但在某些条件下可能转变为氰化氢，释放出致人死命的毒气。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/0820-00178-001p2g4.jpg" alt="0820-00178-001p2g4" width="200" height="200"></p>
-<p>法新社指出，8月18日，天津降雨后，滨海新区的路面出现大量白色泡沫，不少市民担心与危化品爆炸有关。</p>
-<p>联合国人权与有害物质和废料问题特别报告员唐卡克(Baskut Tuncak)表示，让公众获取有关健康和安全信息或许可以减少或避免灾难。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E6%8A%A5-%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%AD%A6%E6%88%92%E5%8C%BA%E5%89%A7%E6%AF%92%E6%B0%B0%E5%8C%96%E7%89%A9%E8%B6%85%E6%A0%87356%E5%80%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%BB%84%E5%A4%A9%E6%B3%A2%EF%BC%9A%E5%85%B3%E4%BA%8E8%E6%9C%8819%E6%97%A5%E6%99%9A%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E6%96%B0%E9%97%BB%E8%8A%82%E7%9B%AE%E6%B6%89%E5%8F%8A%E6%9C%AC%E4%BA%BA/" target="cdt-mirror">黄天波：关于深圳卫视新闻节目涉及本人内容不实的声明</a>
-</h2>
-<p><p><strong>关于8月19日晚深圳卫视新闻节目涉及本人内容不实的声明</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/001WqHTBzy6UMn8sagfd7690.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/001WqHTBzy6UMn8sagfd7690.jpg" alt="001WqHTBzy6UMn8sagfd7&690" width="550" height="309"></a></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a title="威洛比：关于“天津民众”驱赶CNN记者的一点感想" href="http://chinadigitaltimes.net/chinese/2015/08/%E5%A8%81%E6%B4%9B%E6%AF%94%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%A4%A9%E6%B4%A5%E6%B0%91%E4%BC%97%E9%A9%B1%E8%B5%B6cnn%E8%AE%B0%E8%80%85%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/">威洛比：关于“天津民众”驱赶CNN记者的一点感想</a></li>
-<li><a title="【立此存照】别让老外帮中国人报道啊！（更正）" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%88%AB%E8%AE%A9%E8%80%81%E5%A4%96%E5%B8%AE%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%A5%E9%81%93%E5%95%8A%EF%BC%81/">【立此存照】别让老外帮中国人报道啊！（更正）</a></li>
-</ul></blockquote>
-<p>不看不知道，新闻真奇妙。深圳卫视在2015年8月19日晚《关键洞察力》新闻节目中盗用我的肖像 ，给我安上莫名其妙的头衔，引用我从未说过的话，作为节目讨论天津危险品爆炸事件媒体报导主题的一部分。深圳卫视作为上星播出、覆盖遍及全球的媒体平台，在其一档严肃新闻性节目中采用如此缺乏基本职业操守的手法，令人匪夷所思。本人郑重声明如下：</p>
-<p>1） 深圳卫视从未联系过我，也未采访过我，但我有微博，也有微信，也是百度和香港南华早报签约作家，我的联络渠道一直公开，通畅，准确。</p>
-<p>2） 本人对天津危险品爆炸事件及相关媒体报道从未公开发表评论。但人同此心，对此悲剧我和其他同胞一样，痛并思考着。</p>
-<p>3） 我2002-2006年在CNN全球总部的大部分时间里担任“编辑协调人”，从未在公开场合和媒体上对我的前雇主进行这样的评价。CNN的公信力和专业水准，世人共知，尤其在那些能看到其节目的地区。</p>
-<p>4） 本人郑重提出以下要求：</p>
-<p>a) 深圳卫视在《关键洞察力》节目中尽快更正、公开道歉</p>
-<p>b) 赔偿精神、名誉损失及肖像权损失</p>
-<p>c) 不要处理具体编辑人员，人都会犯错，年轻媒体从业者应该有宽容和严谨兼备的成长空间，希望加强培训、吸取教训，日后更严谨即可。同时，希望本期节目涉及我的内容和编辑手法只是偶发事件，不代表深圳卫视和《关键洞察力》的水准。</p>
-<p>d) 本人保留诉诸法律维护合法权益的权利。</p>
-<p>e) 桃李春风一杯酒，江湖夜雨十年灯。我近期已转型移动互联网，媒体江湖我更愿意是个旁观者。对整体媒体从业环境、新闻教育、人员素质以及行业走向，我深表忧虑，常常夜不能寐。深圳卫视8月19日关于我的报导，加剧了我的这种忧虑。</p>
-<p>f) 本人坚决拥护中国梦，支持正能量，我的多篇专栏已有体现（http://huangtianbo.baijia.baidu.com），这次来国内就是来助力中国梦。希望中国梦实现的那天，军功章啊，有祖国同胞的一半，也有海外华人尤其是传媒人的一星半点儿。“高山仰止，景行行止，虽不能至，心向往之”。</p>
-<p>愿与同胞共勉，与同行同行。</p>
-<p>黄天波</p>
-<p>2015年8月20日午，深圳卫视节目播出12小时后</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%BB%84%E5%A4%A9%E6%B3%A2%EF%BC%9A%E5%85%B3%E4%BA%8E8%E6%9C%8819%E6%97%A5%E6%99%9A%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E6%96%B0%E9%97%BB%E8%8A%82%E7%9B%AE%E6%B6%89%E5%8F%8A%E6%9C%AC%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=18271" rel="tag">cnn</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -850,7 +867,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj4loshobxwk0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kd4wckdxqj37.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -860,5 +877,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnn/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://dsorir3ufe68a.cloudfront.net">https://dsorir3ufe68a.cloudfront.net</a><br/></td>    </tr>
 </table>

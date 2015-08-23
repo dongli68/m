@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dkg2fy9u9wmch.cloudfront.net">https://dkg2fy9u9wmch.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dkg2fy9u9wmch.cloudfront.net">https://dkg2fy9u9wmch.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8D%B1%E5%8C%96%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E7%9A%84%E8%87%B4%E5%91%BD%E8%B7%9D%E7%A6%BB/" target="cdt-mirror">纽约时报｜中国各地危化品与居民区的致命距离</a>
@@ -867,7 +867,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dkg2fy9u9wmch.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -877,5 +877,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://dkg2fy9u9wmch.cloudfront.net">https://dkg2fy9u9wmch.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://dkg2fy9u9wmch.cloudfront.net">https://dkg2fy9u9wmch.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/></td>    </tr>
 </table>

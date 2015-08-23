@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfomhmmdj0vcy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://dz4txw4rsgwz2.cloudfront.net">https://dz4txw4rsgwz2.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8D%B1%E5%8C%96%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E7%9A%84%E8%87%B4%E5%91%BD%E8%B7%9D%E7%A6%BB/" target="cdt-mirror">纽约时报｜中国各地危化品与居民区的致命距离</a>
@@ -157,7 +157,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E7%89%A9/?category=18271" rel="tag">氰化物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/403693/" target="cdt-mirror">法广｜为了兵演北京名副其实“紫禁城”俨如戒严</a>
 </h2>
@@ -867,7 +867,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -877,5 +877,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dz4txw4rsgwz2.cloudfront.net">https://dz4txw4rsgwz2.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://dz4txw4rsgwz2.cloudfront.net">https://dz4txw4rsgwz2.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d2dq1bm6w1m6fv.cloudfront.net">https://d2dq1bm6w1m6fv.cloudfront.net</a><br/></td>    </tr>
 </table>

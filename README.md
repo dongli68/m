@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31muvsgzi8p1g.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgs00pbm9u9t8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%82%85%E6%A1%93%EF%BC%9A%E6%AD%BB%E9%9A%BE%E8%80%85%E7%9A%84%E5%B7%AE%E5%BA%8F%E6%A0%BC%E5%B1%80/" target="cdt-mirror">傅桓：死难者的差序格局</a>
+</h2>
+<p><p>时至今日，寻遍天津生化爆炸事件，关于死难者名单依旧存在许多重要的缺陷。其一是一个大名单依旧缺乏，这个现象延续了零八年川震的灾难特征；其二是死难者中体制内外、阶层上下严重不平衡。生前在权力体系中的差序格局，照旧反映在死亡上。</p>
+<p>曾经问过许多仅仅关注灾难进程的人，当问及有多少非消防员、非体制内死难者时，大多是回答不上来。有的带有犹豫“好像是有的吧”，然后一查资料，无非是一个含糊的数字。关键问题是，到底有多少底层死难者？他们有什么故事，统统语焉不详。</p>
+<p>而与此形成对比的是，灾难发生后至今，死难的消防员、警察都被冠之以“英烈”之名加以祭奠。编外的消防员也在为挤进官方高规格对待的名单，由其家属在场外竞争——直到李克强发话说“英雄不分编内编外”——这场关于英雄的名分之争似乎才告一段落。</p>
+<p>媒体的镁光灯也不吝啬，将焦点集中在消防员这些高能见度的死亡上。原因很简单，他们更有故事性，更容易体现灾难的严峻，更能造成歌颂的由头。而那些在爆炸中存疑的民工简易工棚、寂寂无闻的居民，则因为故事乏力，而被暧昧地冷落了。</p>
+<p>同样是赴死，有的被称之为“牺牲”，有的则什么也不是。而决定死后这一待遇落差的，无非是他们生前所占据的阶层高低。生前无名，死后无籍；生前是体制荣华，死后亦有体制加冕；生前无非是蜷缩在工棚讨口饭吃，死后也是消受被遗忘的命运。</p>
+<p>进一步的问题还在于：为什么消防员这类体制人员的死难，被反复咀嚼？而可疑的民工死亡却被冷置？一个可靠的解释是，歌颂体制内的死亡，将其神圣化，可以继续让意识形态的蒙哄作用起效；一旦查证大量民工伤亡，将从根本上动摇“救灾才是新闻”的主旋律。</p>
+<p>所以，到了这一阶段，舆论上形成了公开的角力。媒体在释放出事件发展的逻辑后，在核心事实上没有进展。与此同时，舆论释放出明确讯号，提请注意民工及底层人士的死亡。这两种看待灾难死难者的角度，实际上正处在竞争当中，决定其走向的动力，只怕已消失。</p>
+<p>为何这样讲？李克强赶赴天津之前，救灾指挥处在相互推诿的状态，相互扯皮，对于扩展救灾成果几乎没有帮助——原因就是在救灾的原则上，各路神仙打架——直到李克强四天后“来晚了”，但也只是对消防员的编内编外做了定论，对底层死难依旧不置一词。</p>
+<p>现如今，对底层死难者状况的质询，由同样的底层人士抛出来，但似乎没有哪一方面愿意接下这个烫手山芋。对于敲山震虎一般提出的“数千民工死伤”的求证资讯，官方既不肯定也不否定，甚至迟迟没有按照“谣言”处理。这中间的政府反应相当蹊跷。</p>
+<p>总之，看一场灾难所浮现的中国，仅从死亡者的身后待遇上，已然可见一斑。人生而不平等，人也死而不平等。对死难者的抑扬，代表着某种精心考量对于人群区别对待的良苦用心。所谓精英如何？权贵如何？到底还是那句话，即使在死亡上，也分“我们”与“他们”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%82%85%E6%A1%93%EF%BC%9A%E6%AD%BB%E9%9A%BE%E8%80%85%E7%9A%84%E5%B7%AE%E5%BA%8F%E6%A0%BC%E5%B1%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%AE%E5%BC%82/?category=18271" rel="tag">差异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%A0%BC%E5%B1%80/?category=18271" rel="tag">权力格局</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%91%A8%E4%B8%80%E6%97%A9%E7%9B%98%E6%9A%B4%E8%B7%8C/" target="cdt-mirror">金融时报 | 中国股市周一早盘暴跌</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/000054246_piclink.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/000054246_piclink.jpg" alt="股市暴跌" width="550" height="310"></a></p>
@@ -685,30 +707,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E7%BD%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%AE%A1%E9%99%90%E5%86%8D%E5%BB%B6%E9%95%BF3%E4%B8%AA%E6%9C%88/" target="cdt-mirror">自由亚洲｜浦志强案审限再延长3个月</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/3f79a379jw1evab0ovvqtj20qo0zkdlu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/3f79a379jw1evab0ovvqtj20qo0zkdlu.jpg" alt="3f79a379jw1evab0ovvqtj20qo0zkdlu" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/3f79a379jw1evab0pdurjj20qo0zktcd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/3f79a379jw1evab0pdurjj20qo0zktcd.jpg" alt="3f79a379jw1evab0pdurjj20qo0zktcd" width="500" height=""></a><br><em>（图片来源：新浪微博<a href="http://weibo.com/1064936313/CwReGgUOs">@記録者陳寳成</a>）<br></em><br>
-被羁押以达15个月的北京维权律师浦志强，案件一审审限，原定8月18日期满，北京第二中级法院近日通知律师，该案延长审限3个月。</p>
-<p>浦志强的代理律师莫少平8月20号向本台记者表示，案件两天前审限期满当天，北京第二中级人民法院通知辩护律师，已向北京巿高级法院申请批准，案件延期3个月开审。</p>
-<p>“案件一般应该在3个月内审判结束，法律上规定的标准，案件重大疑难复杂，经上级人民法院批准，可以延期3个月。北京二院按照法律程序这么做了，并得到上级法院的批准，我不能说它违法，但是浦志强案件到底是否属于复杂的疑难案件，我这里就不好说了，那是见仁见智的事情。”</p>
-<p>浦志强的案子本来应该在今年5月开庭，后来因为要补充侦查而一拖再拖，直到审限结束。莫少平律师说，目前这一案件的的审限到今年11月，但它的开庭不一定要等到11月，延期的3个月之内，什么时候都可以开庭审理并且作出判决。</p>
-<p>去 年5月3日，浦志强与十几名朋友举行”六四25周年”民间研讨会，第二天他就被警方传唤，5月6号被当局以涉嫌“寻衅滋事罪”被刑事拘留。2014年6月 13号被北京巿公安局多加一条涉嫌“非法获取公民个人信息罪”逮捕。去年11月13日多加两条罪“涉嫌煽动颠覆国家政权”及“煽动民族仇恨、民族歧视”， 移交检察院起诉。案件曾经两度退回公安机关补充侦查。案件在今年5月18日起诉到法院。</p>
-<p>莫律师说：“起诉到法院时，罪名减少了两项。”</p>
-<p>莫少平律师说，当局去掉了“非法获取公民个人信息”和“涉嫌煽动分裂国家”两项罪名。</p>
-<p>浦志强的代理律师莫少平和尚宝军在日前曾到北京巿第一看守所，会见浦志强大约1个小时。</p>
-<p>关于浦志强目前的身体状况，莫少平律师说：“浦志强说他感到胸闷气短，他不清楚是心脏有问题，还是天气太热，看守所给了他相应的药品。他的糖尿病也在打针吃药，每天上午打一次针，下午打一次，得到了应有的治疗。”</p>
-<p>莫律师说，浦志强还患有前列腺增生疾病，目前病情还算稳定。</p>
-<p>浦志强毕业于中国政法大学，在1989年学运期间参与过天安门广场绝食静坐，曾代理包括艺术家艾未未等人的案件，以及引起全国关注的重庆大学生村官任建宇劳教案和湖南唐慧因上访而被劳教案等等。</p>
-<p>浦志强2011年12月公开抨击时任中共中央政治局常委、中央政法委书记周永康及维稳模式。2013年2月6日，他再透过新浪、腾讯和搜狐三大博客实名举报周永康祸国殃民，要求当局清算周的各种罪行，并建立法治社会和宪政体制。</p>
-<p>浦志强被抓捕后，引起国际社会的广泛关注。包括欧美一些国家的政府、许多国际团体和人权组织，都呼吁中国政府释放浦志强。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%AE%A1%E9%99%90%E5%86%8D%E5%BB%B6%E9%95%BF3%E4%B8%AA%E6%9C%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -720,7 +718,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31muvsgzi8p1g.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -730,5 +728,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
 </table>

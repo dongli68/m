@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://drttzote0avfh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tkjo4ef3lqit.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d3tkjo4ef3lqit.cloudfront.net">https://d3tkjo4ef3lqit.cloudfront.net</a><br/><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3tkjo4ef3lqit.cloudfront.net">https://d3tkjo4ef3lqit.cloudfront.net</a><br/><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%B9%B4-%E5%A4%A7%E8%B5%A6%E5%A4%A9%E4%B8%8B/" target="cdt-mirror">新闻马赛克 | 大大三年 大赦天下</a>
@@ -877,5 +877,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d3tkjo4ef3lqit.cloudfront.net">https://d3tkjo4ef3lqit.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/><a href="https://d3tkjo4ef3lqit.cloudfront.net">https://d3tkjo4ef3lqit.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/></td>    </tr>
 </table>

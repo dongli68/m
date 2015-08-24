@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dn5vts7sirhrp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%91%A8%E4%B8%80%E6%97%A9%E7%9B%98%E6%9A%B4%E8%B7%8C/" target="cdt-mirror">金融时报 | 中国股市周一早盘暴跌</a>
@@ -85,7 +85,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%98%85%E5%85%B5/?category=18271" rel="tag">大阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%A4%A7%E9%98%85%E5%85%B5%E5%BF%85%E4%BC%9A%E6%8F%90%E5%8D%87%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B/" target="cdt-mirror">环球时报 | 大阅兵必会提升中国社会的凝聚力</a>
 </h2>
@@ -720,7 +720,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1i4ioyqx4xsel.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2t5s1e7synuzs.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -730,5 +730,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/></td>    </tr>
 </table>

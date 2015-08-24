@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d1jdjul034dy8h.cloudfront.net">https://d1jdjul034dy8h.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d1jdjul034dy8h.cloudfront.net">https://d1jdjul034dy8h.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%B9%B4-%E5%A4%A7%E8%B5%A6%E5%A4%A9%E4%B8%8B/" target="cdt-mirror">新闻马赛克 | 大大三年 大赦天下</a>
+</h2>
+<p><p>新华社刚刚发布令国人震惊的消息：国家要实施大赦！</p>
+<p>这是真的，在国庆大阅兵之际！“<strong>为纪念中国人民抗日战争暨世界反法西斯战争胜利70周年，对2015年1月1日前正在服刑、释放后不具有现实社会危险性的四类罪犯实行特赦。</strong>”</p>
+<blockquote><p><strong>一</strong>是参加过中国人民抗日战争、中国人民解放战争的服刑罪犯。</p>
+<hr><p><strong>二</strong>是中华人民共和国成立以后，参加过保卫国家主权、安全和领土完整对外作战的服刑罪犯，但几种严重犯罪的罪犯除外。</p>
+<hr><p><strong>三</strong>是年满七十五周岁、身体严重残疾且生活不能自理的服刑罪犯。</p>
+<hr><p><strong>四</strong>是犯罪的时候不满十八周岁，被判处三年以下有期徒刑或者剩余刑期在一年以下的服刑罪犯，但几种严重犯罪的罪犯除外。</p></blockquote>
+<p>哇塞！快看看有你家亲戚熟人没！….要么老要么小，估计你家二哥不在内。。。。马赛君的朋友小兰本来还以为有周大爷、薄大爷。。</p>
+<hr><hr><p>不管怎样，马赛君都觉得有一种大赦天下的<strong>感觉</strong>。</p>
+<p>马赛君读史发现，古代新皇登基必下诏大赦天下，一般作奸犯科者均获释，唯违忠孝者（比如子杀父母、妾杀夫、奴杀主）不赦。有的甚至册立皇后、皇太后、皇太子时亦大赦天下。碰上那些昏君，朝政紊乱，颠三倒四，一年内甚至大赦多次。罪犯几进几出，如同儿戏，法纪为之崩塌。所以对大赦二字并不能等闲来看。后世用之谨，不为无因。</p>
+<p>此次大赦来得骤然，难怪国人惊诧莫名！不过，今之大赦确实符合《宪法》之规定。《中华人民共和国宪法》第三章第二节第八十条规定：</p>
+<blockquote><p>中华人民共和国主席根据全国人民代表大会的决定和全国人民代表大会常务委员会的决定，公布法律，任免国务院总理、副总理、国务委员、各部部长、各委员会主任、审计长、国务院秘书长，授予国家的勋章和荣誉称号，<strong>发布特赦令，</strong>发布戒严令，宣布战争状态，发布动员令。</p></blockquote>
+<p>也就是说，国家主席有大赦天下的特权。</p>
+<hr><hr><p>我朝自太祖以来，共实行了7次特赦（改大赦为特赦岂一字之差）：</p>
+<blockquote><p>第一次是1959年在中华人民共和国成立10周年庆典前夕，对在押的确已改恶从善的蒋介石集团和伪满州国战争犯、反革命犯和普通刑事犯实行特赦。</p>
+<hr><p>第二次、第三次特赦分别于1960年、1961年实行，都是对蒋介石集团和伪满州国罪犯确有改恶从善表现的进行特赦。</p>
+<hr><p>第四次、第五次、第六次分别于1963年、1964年、1966年实行。与前两次相比，只是在特赦对象上增加了伪蒙疆自治政府的战争罪犯。其他内容完全相同。</p></blockquote>
+<p>说明一下，这几次都是刘少奇发的特赦令。</p>
+<blockquote><p>第七次是1975年，对全部在押战争罪犯实行特赦释放，给予公民权。</p></blockquote>
+<p>第7次当然不是刘少奇发的了，瞧您这话说的，这时文革还没结束哪，刘少奇已经惨死开封了，话不能说太多了。。。。</p>
+<p>这第八次特赦就是现在的消息，大大三年之特赦。。。</p>
+<hr><hr><p>对前七次特赦，马赛君梳理如下，快快收藏！</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczKOK2tcGtS7fNelezHcTtlsLJpUvQhUqMgBD9Cv1ibp03cec4bvPAtQg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>新中国成立后，从1959年至1975年对经过教育改造改恶从善的犯罪分子共实施了七次特赦。1954年毛泽东主持制定的《中华人民共和国宪法》，对“大赦”和“特赦”作出规定，赦免政策的提出由此有了明确的法律依据。 1.1959年8月24日，毛泽东在杭州致信刘少奇：“我想到，今年国庆十年纪念，是否可以赦免一批确实改恶从善的战犯及一般正在服刑的刑事罪犯。”</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczfD8kOgAJeoRE1xtoia5jV9AzZLsktKlgb4GQSBo9WRSqia3cB3R4Wnjg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>按照毛泽东的建议，1959年9月8日，刘少奇主持召开中央政治局会议，讨论并通过了《中共中央关于特赦一批确实已经改恶从善的战争罪犯、反革命犯和普通刑事罪犯的建议》。12月4日首批特赦释放33人，包括杜聿明、王耀武、溥仪、宋希濂、曾扩情等人。图为溥仪在抚顺战犯管理所接过特赦通知书。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczlSg7bn3dyl7jldKosxq0NkhSaC7AVpyLvIkpQ1WT1wEQ1zHRQibXqKg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1959年，中央决定以后每年特赦一批战犯，1960年、1961年、1963年、1964年、1966年和1975年相继实施专门针对战犯的六次特赦，共释放战犯556名，另有90名获减刑。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YcznHdCFX3HdNGRdiaLnXjOQSzDpc9PcAKJc1yChzO1KKVt67nwJbXFINA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>陈赓陪周恩来和部分特赦人员、原国民党将领杜聿明、王耀武等黄埔师生在北京颐和园介寿堂合影留念 。十天后，周恩来在中南海接见了他们，杜聿明面露愧色地对周恩来说：“学生对不起老师，没有跟着老师干革命，走到反革命道路上去了，真是有负老师的教导，对不起老师。”周恩来微微含笑，摇摇头说：“不能怪你们学生，我这个老师没有把你们引导到正确的道路上去，我也有一定的责任。往者已矣，来者可追嘛！</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczfedpKhByBdgObzpcXjFk13Seia5pR7U1bnzJCJxkVK2ltj0YpYR4ZFQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1960年11月，周恩来与黄埔校友及其家属合影。二排右三张治中、郑洞国、陈赓、周恩来，三排右三杜聿明、右六为唐生明，右八屈武。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczsWiagPicu9vZHiagkH1ibibHawscVoOnXHyKmfzUvNKnqAK7XJxObxI5YOQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>获得特赦者很多都进入政协成为文史资料研究员。1964年4月，全国政协文史资料研究委员会专员杜聿明（左二）、宋希濂（左四）、杨伯涛（右一）和他们的夫人参观新安江水电站。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczoHFBcNgwLpuwYZf9Yib9HD36CbJRokaUFcLXHRpxdNHACcbtJYldPew/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1960年11月19日，第二批特赦战犯50人，其中包括沈醉和溥杰。图为沈醉等特赦人员合照。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Yczf62EZkIcYo0mdVNibmMZstnJ7MS6UKTRH2nNF51xAYBMpj2k3SaTsKw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>爱新觉罗·溥杰于1950年被移交到中国政府，而后被关押到抚顺劳教所改造，直至1960年获得特赦。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Yczz5eibJiarRCIVDPhQhmr3a7A5kf8RPrXgdKibsicQeKFRgzA0xoWqDwc7w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>同批被特赦的还有伪满少将正珠尔扎布。图为1933年11月18日，川岛芳子（左）与前夫甘珠尔扎布的弟弟正珠尔扎布（时任第十军管区参谋长）和米山莲江。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczIKs9jWCZVWw2Y3cQmBTlJzicz34FYgiaOExibR6Hsho1JpibqBicSxfJjMA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1961年12月16日，第三批特赦人员包括国民党第九兵团中将司令官廖耀湘和伪满外交部长阮振铎等人。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczPLOv7HHBetWBb58C2IHxqvo5l4yYNPOTBIJFCSLz2BQ6yeoLdTpnVg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1963年4月9日第四批特赦人员包括伪蒙疆自治政府主席、伪蒙古军总司令德王，图为德王及其幕僚。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Yczedb8lpibicfiaobSZVQiamYHFcmPnYib8J0ZibE4tuTcWPiajicWibGhGuzUWpQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1963年4月9日德王（左一）被特赦现场旧照。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Yczj9YbuKk1ZibKJZaMWfwQNSCicDzYvFeuu1NNcnibLZW3d79yH5xiaiaKYXA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1964年12月28日第五批特赦人员包括伪蒙疆自治政府副主席、伪蒙古军上将副总司令兼第一军军长李守信，图为德王与李守信在东京。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczYWlK3RsKRHrP5VMPpYEAEuibmRuUSXj8wSmts1duiaQuPQgjOia0TGGfA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1966年3月29日第六批特赦人员包括伪满洲国第九军管区中将司令官甘珠尔扎布，图为甘珠尔扎布与川岛芳子成婚。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczicuwAa4QUUmwkdfhAWQ6Esr2tC8ibtGYKkTkpGw29qlVHnT2pa5U936A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1975年1月中旬，四届人大召开。2月25日，公安部向中央提交了《关于第七批特赦问题的报告》。2月27日，毛泽东作了长篇批示：“一个不杀”，“都放了算了，强迫人家改造也不好”。图为1975年3月19日，最高人民法院宣布特赦释放全部在押的战犯。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczBwDicWpFzwTPY0f2KrPTevKaMEVq1nXjROBeqPicbkoFYXYjXWxN6YBw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1975年被特赦的人员动身前往北京。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczatHH8dp9ebbAibZsfHgJhib6D3x6icpEmOjSlz8x1fnjAQVoxdWgVGMpg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>最高人民法院审判员向原国民党中将司令黄维发放特赦释放通知书。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczlL8XibOpGDBeVI5HXrzeHzSRWobVMx5qCGMeTwuFVA1bHiaNyzzsZvpA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1975年特赦释放人员张商海(左2)、杨南邦(左3)、赵一雪(左1)三人因台湾当局不准入境未能如愿返台，当他们返回北京后，在机场受到中央统战部负责人李金德接待。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Ycz72EqR9xAl9nlvtcEjvU49byLT08W7RwMPKs8kqRpK03gyPJCRc8CiaA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1975年3月，作为政协全国委员会委员的杜聿明(左)，在北京会见被刚刚特赦释放的原国民党第12兵团中将司令黄维(中)和原国民党第13兵团中将副司令李九思(右)。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Ycz7IHvMFItguaLGqAktL07VRVTsdG5ILyZc7biakUFCXVJQVmZTuEQ1HQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1975年3月29日，沈醉（右二）与最后一批被特赦释放的老友畅谈。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczAnqZiaRAM9giccm94mkvXUVY5298miccAibibvicRnIWIIcejSxth0NHkn7A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>1975年，毛泽东的表弟文强最后一批获特赦出狱。与周恩来见面时，周恩来怪他不肯早写悔过书。。。不是重庆那个文强，重庆文强2010年已经注射死了。。。</p>
+<hr><hr><p>而且话说看到大大这次大赦，马赛君的朋友小锣第一时间也还以为周永康、薄熙来、郭伯雄。。。。要出来，事实证明小锣太幼稚了。。。。。</p>
+<p>一位法学专家告诉马赛君：这次特赦，不是对所有罪犯都有特赦，它是有选择的，如果是有重大犯罪事实的罪犯肯定是不会特赦的。</p>
+<p>特赦要形成制度化，不能心血来潮，要法治不是人治。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%B9%B4-%E5%A4%A7%E8%B5%A6%E5%A4%A9%E4%B8%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B2%BB/?category=18271" rel="tag">人治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B5%A6/?category=18271" rel="tag">大赦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E8%B5%A6/?category=18271" rel="tag">特赦</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%A6%82%E4%BD%95%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E9%AB%98%E5%A2%99%EF%BC%9F/" target="cdt-mirror">德国之声 | 如何穿越中国的政治高墙？</a>
 </h2>
 <p><p>天津爆炸案会真相大白吗？“双城论坛”开启两岸关系新模式？互联网威权主义还能持续多久？</p>
@@ -235,6 +311,23 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 <a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%A2%E6%96%B0%E5%91%A8%E5%88%8A-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%BA%E7%A5%B8%E5%A7%8B%E6%9C%AB/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%B3%BB%E7%BD%91/?category=18271" rel="tag">关系网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BA%8B/?category=18271" rel="tag">大事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E6%B8%AF/?category=18271" rel="tag">天津港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8%E5%8E%9F%E5%9B%A0/?category=18271" rel="tag">爆炸原因</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E8%AF%84%E4%BC%B0/?category=18271" rel="tag">环境评估</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85/?category=18271" rel="tag">瑞海国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E5%A4%96%E4%BA%BA%E5%91%98/?category=18271" rel="tag">编外人员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%A6%81%E4%BB%A4%E6%89%A9%E5%A4%A7%E8%8C%83%E5%9B%B4%EF%BC%9A%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%8F%AA%E8%83%BD%E7%94%A8%E5%9B%BD%E4%BA%A7tvos1-0/" target="cdt-mirror">翻墙 | 广电总局禁令扩大范围：机顶盒只能用国产TVOS1.0</a>
+</h2>
+<p><div dir="ltr">据《人民邮电报》报道，国家新闻出版广电总局于近日发布通知，决定扩大TVOS智能电视操作系统在有线运营商中的试点范围。这意味着，日后各地有线运营商推出的OTT机顶盒等终端只能安装和使用TVOS1.0，不得安装其他操作系统。</div>
+<p>据了解，此次强推的TVOS电视操作系统，是广电总局与一些研发单位共同研发的智能电视操作系统。TVOS 1.0于去年6月初正式发布。随后，广电总局发令，要求有线电视OTT盒子须安装TVOS系统。当时，首批试点在江苏有线和上海东方有线两家有线电视运营商，分别承担了各50万套的试点推广任务。</p>
+<p>而现在，广电总局扩大了试点范围，要求各有线电视网络公司所采购或集成研发和安装的智能电视机顶盒等终端必须使用TVOS1.0，同时需要遵循NGB下一代广电电视网的相关技术规范。另外，TVOS 1.0 系统相应的增加了信息安全模块，加强了用户的信息安全保障。此外，TVOS 1.0 还兼顾了现有操作系统的技术，比如Linux、安卓等。</p>
+<p>对于智能电视究竟更适合哪种操作系统，业内一直没有明确的统一。尽管90% 的智能电视目前采用的是安卓系统，但是越来越多的电视厂商已经开始尝试其他的选择。LG 公司表示，打算在旗下70%的电视上安装其收购的Web OS 系统。三星也已经做出规划，下一步智能电视将采用自己开发的Tizen系统。在电视系统市场还没有完全稳定的情况下，广电总局这一规定也是出于抢占市场的考虑。然而有终端电视机企业表示，TVOS 1.0 全面市场化之后将会对电视机上的应用进行管控，或许会影响智能电视应用的发展速度。</p>
+<p>源地址：http://tech.sina.com.cn/t/2015-08-22/doc-ifxhehqr6181208.shtml</p>
+<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html" target="_blank" rel="nofollow">订阅地址及社交帐号</a></div>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
+<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%A6%81%E4%BB%A4%E6%89%A9%E5%A4%A7%E8%8C%83%E5%9B%B4%EF%BC%9A%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%8F%AA%E8%83%BD%E7%94%A8%E5%9B%BD%E4%BA%A7tvos1-0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%BB%A4/?category=18271" rel="tag">禁令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
@@ -763,56 +856,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C/" target="cdt-mirror">苹果日报｜天津爆炸放白兔試毒 網友：怎不放官員？</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/420_863040e6662f2d2370ae45cda063a506.jpg" alt="420_863040e6662f2d2370ae45cda063a506" width="420" height="235"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/640_9fea66b0aaaf931e215d737055a8af6b.jpg" alt="640_9fea66b0aaaf931e215d737055a8af6b" width="549" height="307"></p>
-<p>中國天津濱海新區大爆炸後，現場洩漏大量有害化學品，造成嚴重污染。北京軍區一支部隊按指揮部專家要求，將一些敏感動物如雞、白鴿與小白兔，放進爆炸現場核心區，測試現場是否適合生存。</p>
-<p>部份動物被暴露在充滿有害化學物質的環境下，兩小時後才回收。有網友怒斥，人類作孽，竟要動物無辜犧牲，情何以堪。另有網友反建議，讓專家、官員們在現場待半年，肯定得出結論。</p>
-<p>以下為網友意見</p>
-<p>「好原始啊，難道現在是清朝？」</p>
-<p>「小動物太可憐了，還是放領導進去觀察實驗吧。」</p>
-<p>「莫名心酸」</p>
-<p>「把當初環評簽字的人放進去」</p>
-<p>「明天新聞聯播就會有現在連線採訪這些畜生，讓牠們談談感受」</p>
-<p>「儀器都不用，直接放動物。畜牲」</p>
-<p>「估計最後是熱死的」</p>
-<p>（大陸中心／綜合外電報導）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%80%9D%E6%83%B3%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%B5%82%E7%B5%90%E6%B1%B6%E5%B7%9D%E6%A8%A1%E5%BC%8F/" target="cdt-mirror">东网｜王思想：天津爆炸終結汶川模式</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150822000318810-0822_05411_001_01p.jpg" alt="bkncn-20150822000318810-0822_05411_001_01p" width="548" height="391"><br>
-天津爆炸案後，官媒用巨量篇幅宣傳官員、軍警，但網民對此毫無興趣。</p>
-<p>天津爆炸事件發生後，我發的第一條微博是「三拒一追」：拒絕祈福，拒絕歌頌、拒絕捐款，必須追責。</p>
-<p>一周時間下來，事情的發展令人欣慰。以「祈福、歌頌、逼捐」為核心的汶川模式，曾經忽悠無數國人。在短短7年之後，這一模式徹底破產。</p>
-<p>大規模的中國式祈福，始自汶川地震。當時的互聯網上，滿屏幕都是蠟燭，都是祈福。令人厭惡卻又無可奈何。</p>
-<p>祈福本是中性詞，祈福本身並沒有錯。然而，正如其他事情在今天的中國總會被歪曲、被利用一樣，祈福也變異了。</p>
-<p>百姓用祈福表達著廉價的同情，同時在潛意識中讓自己感覺到在艱難的生活中「有人比我還慘」，中國人在表達各種同情時幾乎都有這個邪惡的潛意識。</p>
-<p>掌握公權力的人忽悠祈福，則另有用意，不僅要讓百姓暫時忘卻高房價、高稅收之痛，還要把百姓引導進入感動、歌頌的軌道。利用祈福營造溫情期待，開啟歌頌的大門。你不是乞求災民平安嗎？那麼，人家給災民送水送被子了，你們作為旁觀者，任務就是感動，然後歌頌、感恩了。黨疼國愛，縱做鬼，也幸福。</p>
-<p>在汶川地震中，官方媒體用巨量篇幅宣傳官員、軍警。在天津爆炸案中，官媒依然如此，但網民對此毫無興趣。倒是有一些網民在追問：為什麼中國消防員的裝備那麼簡陋？扛著一把鐵鍬進去救災，有什麼用？</p>
-<p>按照汶川模式，在祈福、歌頌之後，接下來就是捐款。動員大家捐款，可以節省大量的財政支出。每當官家忽悠捐款的時候，總有一些不合時宜的自由主義分子跳出來質疑說：我們納稅人養政府是幹什麼用的，用處之一難道不是在遇到災難時出來救災嗎？從汶川地震到天津爆炸，這樣的質疑逐漸引起共鳴。</p>
-<p>捐款的操辦者，動力十足。這個不奇怪。雁過拔毛，缺乏監督。中國紅十字會的奢華生活正在終結，導致其沒落的郭美美，毫無疑問是民族女英雄，她無意成為英雄，世事卻已經造就她的英雄勛章。</p>
-<p>此次天津爆炸案後，中國各紅十字會方面硬著頭皮進行募捐。結局是所有人都知道的，雖然多數人不會清楚具體數字。我查了一下，到爆炸一周的時候，天津紅十字會只捐出2000萬元。這2000萬元是用的以前的存款，還是新募集的，不詳。中國紅十字總會的捐款，不詳。</p>
-<p>有一網友發了一則微博，大意是：天津爆炸事件後，他募集了一部分物資到天津港，被紅十字會強行接管。這則消息的真實性待考證，但從微博後面的評論看，大家全都相信此事為真。想一想汶川地震的時候，紅十字會收物資收到無處堆放、拒絕接收，數錢數到手發麻，而如今需要為一點點物資而「強行接管」，令人感嘆7年時間滄海桑田。</p>
-<p>中國紅十字會的生存應該不成問題。其通過一個汶川地震所獲盈利，估計30年也用不完。但作為一個政治角色，其生命已經終結。</p>
-<p>汶川地震時期出現的可恥的「逼捐」現象，在天津爆炸案之後幾乎沒再出現。</p>
-<p>汶川地震與天津爆炸，貌似不同，一個是天災，一個是人禍。事實果真如此嗎？注意，我們所談論的，是兩次事件帶給當地民眾的具體傷害。地震當然是天災，而在地震中倒塌那麼多校舍、救災中出現那麼多不堪的事情，無疑是人禍。</p>
-<p>人禍必須追責，追責難於上青天。許多人寄希望於政治內部鬥爭能讓責任暴露。即便到了天津爆炸事件，這個依然沒什麼可說的，等待吧。</p>
-<p>汶川模式已經破產，今後中國式救災怎麼辦？官方機構必須拿出對策了。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%80%9D%E6%83%B3%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E7%B5%82%E7%B5%90%E6%B1%B6%E5%B7%9D%E6%A8%A1%E5%BC%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E8%B4%A3/?category=18271" rel="tag">问责</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -824,7 +867,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1b7nxcmb0xrcs.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1jdjul034dy8h.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +877,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d1jdjul034dy8h.cloudfront.net">https://d1jdjul034dy8h.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1jdjul034dy8h.cloudfront.net">https://d1jdjul034dy8h.cloudfront.net</a><br/><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/></td>    </tr>
 </table>

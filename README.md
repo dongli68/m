@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20gferc35pg6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dn5vts7sirhrp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://dz4txw4rsgwz2.cloudfront.net">https://dz4txw4rsgwz2.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://d24dtyg4m6t08b.cloudfront.net">https://d24dtyg4m6t08b.cloudfront.net</a><br/><a href="https://d1851x05i0sm75.cloudfront.net">https://d1851x05i0sm75.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%A6%82%E4%BD%95%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E9%AB%98%E5%A2%99%EF%BC%9F/" target="cdt-mirror">德国之声 | 如何穿越中国的政治高墙？</a>
@@ -47,7 +47,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 29分钟前</small>
+	<small> ============== 1小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%A2%E6%96%B0%E5%91%A8%E5%88%8A-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%BA%E7%A5%B8%E5%A7%8B%E6%9C%AB/" target="cdt-mirror">财新周刊 | 天津爆炸人祸始末</a>
 </h2>
@@ -824,7 +824,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ap4h3iyugwjt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24dtyg4m6t08b.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d20gferc35pg6.cloudfront.net">https://d20gferc35pg6.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dz4txw4rsgwz2.cloudfront.net">https://dz4txw4rsgwz2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24dtyg4m6t08b.cloudfront.net">https://d24dtyg4m6t08b.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d1851x05i0sm75.cloudfront.net">https://d1851x05i0sm75.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/></td>    </tr>
 </table>

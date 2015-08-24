@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dul6j283z2b1w.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7m1mus4h2uvq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%B9%B4-%E5%A4%A7%E8%B5%A6%E5%A4%A9%E4%B8%8B/" target="cdt-mirror">新闻马赛克 | 大大三年 大赦天下</a>
@@ -330,7 +330,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%B3%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%BB%A4/?category=18271" rel="tag">禁令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%82%85%E6%A1%93%EF%BC%9A%E6%AD%BB%E9%9A%BE%E8%80%85%E7%9A%84%E5%B7%AE%E5%BA%8F%E6%A0%BC%E5%B1%80/" target="cdt-mirror">傅桓：死难者的差序格局</a>
 </h2>
@@ -867,7 +867,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ldqeqxedmfj3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7m1mus4h2uvq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -877,5 +877,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://d1ldqeqxedmfj3.cloudfront.net">https://d1ldqeqxedmfj3.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dul6j283z2b1w.cloudfront.net">https://dul6j283z2b1w.cloudfront.net</a><br/></td>    </tr>
 </table>

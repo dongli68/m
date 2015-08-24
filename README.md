@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dc1ou9lrqt43q.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d3tkjo4ef3lqit.cloudfront.net">https://d3tkjo4ef3lqit.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d3tkjo4ef3lqit.cloudfront.net">https://d3tkjo4ef3lqit.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%82%85%E6%A1%93%EF%BC%9A%E6%AD%BB%E9%9A%BE%E8%80%85%E7%9A%84%E5%B7%AE%E5%BA%8F%E6%A0%BC%E5%B1%80/" target="cdt-mirror">傅桓：死难者的差序格局</a>
@@ -128,7 +128,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%98%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%9D%E8%81%9A%E5%8A%9B/?category=18271" rel="tag">凝聚力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%B0%E6%B0%91/?category=18271" rel="tag">扰民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5/?category=18271" rel="tag">阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8D%B1%E5%8C%96%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E7%9A%84%E8%87%B4%E5%91%BD%E8%B7%9D%E7%A6%BB/" target="cdt-mirror">纽约时报｜中国各地危化品与居民区的致命距离</a>
 </h2>
@@ -718,7 +718,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E7%BD%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dc1ou9lrqt43q.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -728,5 +728,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E7%BD%97
                 <td></td>
                 
         
-        <td><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d3tkjo4ef3lqit.cloudfront.net">https://d3tkjo4ef3lqit.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d3tkjo4ef3lqit.cloudfront.net">https://d3tkjo4ef3lqit.cloudfront.net</a><br/><a href="https://dc1ou9lrqt43q.cloudfront.net">https://dc1ou9lrqt43q.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ifsqqcac6gqy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2kpo0rnpiynb6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d25potjijdthdh.cloudfront.net">https://d25potjijdthdh.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d25potjijdthdh.cloudfront.net">https://d25potjijdthdh.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%B9%B4-%E5%A4%A7%E8%B5%A6%E5%A4%A9%E4%B8%8B/" target="cdt-mirror">新闻马赛克 | 大大三年 大赦天下</a>
@@ -313,7 +313,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%B3%BB%E7%BD%91/?category=18271" rel="tag">关系网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BA%8B/?category=18271" rel="tag">大事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E6%B8%AF/?category=18271" rel="tag">天津港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E9%92%A0/?category=18271" rel="tag">氰化钠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E9%98%B2%E5%91%98/?category=18271" rel="tag">消防员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%81%BE/?category=18271" rel="tag">火灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8%E5%8E%9F%E5%9B%A0/?category=18271" rel="tag">爆炸原因</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E8%AF%84%E4%BC%B0/?category=18271" rel="tag">环境评估</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85/?category=18271" rel="tag">瑞海国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E5%A4%96%E4%BA%BA%E5%91%98/?category=18271" rel="tag">编外人员</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%A6%81%E4%BB%A4%E6%89%A9%E5%A4%A7%E8%8C%83%E5%9B%B4%EF%BC%9A%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%8F%AA%E8%83%BD%E7%94%A8%E5%9B%BD%E4%BA%A7tvos1-0/" target="cdt-mirror">翻墙 | 广电总局禁令扩大范围：机顶盒只能用国产TVOS1.0</a>
 </h2>
@@ -877,5 +877,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d25potjijdthdh.cloudfront.net">https://d25potjijdthdh.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d25potjijdthdh.cloudfront.net">https://d25potjijdthdh.cloudfront.net</a><br/><a href="https://d1ifsqqcac6gqy.cloudfront.net">https://d1ifsqqcac6gqy.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/></td>    </tr>
 </table>

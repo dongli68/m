@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ap4h3iyugwjt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1i4ioyqx4xsel.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E8%83%9C%E5%88%A9%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9C%9F%E9%97%B4%E5%B0%86%E5%AE%89%E6%8E%92%E4%B8%80/" target="cdt-mirror">【异闻观止】总局：纪念日期间将安排一大批抗战题材影视作品</a>
@@ -697,7 +697,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-8-23/" target="cdt-mirror">奇闻录 | 周末段子荟萃 8-23</a>
 </h2>
@@ -776,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dw3lj1nhviypl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1i4ioyqx4xsel.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -786,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2t5s1e7synuzs.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28faw04g3bsqf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,77 @@
                 <td></td>
                 
         
-        <td><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A9%8B%EF%BC%9A%E3%80%8C%E4%B9%9D%E4%B8%89%E3%80%8D%E9%96%B1%E5%85%B5%E4%B8%8D%E5%8F%AF%E7%BC%BA%E4%BA%86%E6%AF%9B%E5%B0%91%E5%B0%87/" target="cdt-mirror">东网｜南橋：「九三」閱兵不可缺了毛少將</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150824000317791-0824_05411_001_01p.jpg" alt="bkncn-20150824000317791-0824_05411_001_01p" width="549" height="392"></p>
+<p>「九三」閱兵已經進入倒計時，這次閱兵和以往不同，選在國慶前將近一個月的日子，立意不再是慶祝國慶，而是紀念抗日戰爭勝利70周年，這就有了不同以往的看點。最重要的是，閱兵式怎麼來闡釋中國抗日的勝利呢？習近平為首的黨最近強調要反對歷史虛無主義，那就應該尊重歷史。抗戰的歷史，史料很多，當年的人活著的還不少，是誰打的仗，誰領導的抗戰，似乎不該有什麼異議吧？中國的事情可說不準。中國人民解放軍的一位少將，毛澤東的嫡親孫子（將軍啊，如假包換的龍門虎子）就毫不含糊地說過，是他爺爺毛澤東領導的軍隊打敗了日本。這個說法，我相信習總書記聽了是不會不同意的，否定毛澤東正是習總書記最反對的歷史虛無主義。這麼看來，習總書記這次閱兵，應該令毛少將率領，才是真正地繼承了毛的革命遺產，才符合閱兵式的加冕意義。</p>
+<p>中國的閱兵，是國家級政治生活中最為意義重大的儀式，一向就具有最高領導人加冕的神聖性內涵，閱兵和國慶同時舉行，就是要賦予這一儀式以國家神聖的意味。閱兵就是向全國人民表明，權力的最終歸屬已成定局，天子已經誕生，從此以後，反對「他」就等同「叛逆」「造反」，就必得全國共討之，全民共誅之。</p>
+<p>既然是「加冕」，閱兵就是歷屆最高領導必須有的典禮，不來那麼一次，就等於見習期還沒畢業。同樣的道理，「加冕」也不能多搞，多了就不稀奇了，加了再加就會產生加得不牢而需要鞏固的意思。鄧小平是搞過兩次閱兵的，眾所周知鄧是中共領導層中權力起伏最大的人。用如今突然熱門的術語「政治規矩」來說，鄧坐上那把第一交椅，有大可質疑的空間。鄧是用計謀廢黜了毛澤東親自選定且有書面文件保證的毫無疑義的合法接班人華國鋒之後，才成為第一把手的。可惜華國鋒沒有來得及好好搞一次閱兵。而鄧雖然上去了，卻感覺臀下不穩，搞過第二次閱兵，才算穩穩地加了冕。</p>
+<p>江澤民是「空降兵」出身，在黨內國內要服眾，沒有鄧的督戰則幾乎沒有可能。鄧在，他只要亦步亦趨就是安全的。他在鄧的保護下，把那一股子小媳婦受的氣都攢了起來，這是他日後用權特別暢快淋漓的心理原因，這和經歷過饑荒及人民公社匱乏時代的人掌了權特別貪婪是同一個道理。鄧在，他是不敢搞閱兵加冕的。鄧一走，他就一點不耽擱地搞了大閱兵。這次閱兵儀式是帶血的，江澤民用法輪功為他的加冕祭了旗。</p>
+<p>胡錦濤接班，加冕也少不了，不搞一次閱兵，冠冕表現不出分量，缺乏毋庸置疑的神聖性。那是一次相當壯觀的閱兵式，把從毛澤東開始歷屆最高領導的牌子依次抬了出來。今天如果有機會再看一遍閱兵的錄像，大家不妨再看看閱兵式上胡和江的表情。以後十幾年中國政治的微妙之處，都已經在他們兩位的表情裏預演過了。</p>
+<p>胡錦濤的閱兵是一次窩囊的表演，而胡錦濤執政時期，也是他窩窩囊囊的時期。他這位軍委主席，全國全黨最重要最有威懾力的職務，兩位副手都是江澤民給他定下的。他在徐才厚、郭伯雄的左擁右護下當軍委主席，不容易。可以說，江澤民耍權有多淋漓痛快，胡錦濤守權就有多窩囊憋氣。胡的懦弱窩囊，從他閱兵的風格就定下來了。</p>
+<p>可見閱兵儀式確實非常重要，倒不關國運民生什麼事，卻事關最高領導執政的那股子「氣」。是喜氣還是殺氣，是凶還是吉，且看閱兵式。從政治心理學的「科學」角度來說，閱兵的氣勢和場面，能向全國全黨發射一種心理暗示（現在習總書記最喜歡用的詞叫「滿滿的正能量」），把最高領導的權威在人民心中凝聚起來，鞏固下來。從神秘主義的角度來說（神秘主義雖然不科學，但是老一輩革命家其實都是有點相信的），閱兵這種儀式帶有天賦君權的神秘力量。誰搞過了閱兵，誰就真的成為正統的法定繼承者了。</p>
+<p>這次習總書記選在抗戰勝利紀念日閱兵而不是在國慶閱兵，給閱兵增加了前所未有的新看點。這和民間口頭好戰派說的南海危機、震懾日本都八杆子打不著，閱兵這種儀式從來就只有對內的意義，對外是一點沒有用的。以為踢正步就能嚇唬日本人，習總書記可沒有那麼幼稚。習總書記執政後的作為說明，他不認為他是在接胡錦濤的班，把上一任書記的工作繼續下去。相反，他是要扭轉上一任書記的被動窩囊局面。他也不是要接江澤民的班，江提拔上去的人，他多半要換下來的。他甚至於不是接鄧小平的班。習總書記是毛澤東時代成長起來的革命接班人，他要接的是毛澤東的班。他的「反對歷史虛無主義」直白點說就是肯定毛澤東的路線。這和紀念抗戰有什麼關係呢？要知道習總書記是在「中流砥柱」的前提下思考問題的，習總書記紀念抗戰決不是表彰蔣委員長，而是要把自己的合法性和「中流砥柱」聯繫起來。而這一切，邏輯上都要從毛少將的「我爺爺打敗了日本人」才能說得通。所以，這次閱兵，拼了命也得把「中流砥柱」樹起來。</p>
+<p>為此，我以為最好的做法就是讓毛少將舉著他爺爺的畫像，走在威武雄壯的士兵方陣的最前面，意味著毛少將把他爺爺的革命旗幟，親自傳遞到了今日總書記的手裏。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AF%9B%E6%96%B0%E5%AE%87%E5%9B%9E%E7%A4%BC.jpg" alt="毛新宇回礼" width="440" height="237"></p>
+<p>那將是何等壯觀的場面，相信這場面感動中國是不成問題的。</p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A9%8B%EF%BC%9A%E3%80%8C%E4%B9%9D%E4%B8%89%E3%80%8D%E9%96%B1%E5%85%B5%E4%B8%8D%E5%8F%AF%E7%BC%BA%E4%BA%86%E6%AF%9B%E5%B0%91%E5%B0%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%96%B0%E5%AE%87/?category=18271" rel="tag">毛新宇</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E5%91%A8%E6%BF%82%EF%BC%9A%E6%AD%A3%E6%AD%A5%E8%B5%B0%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%81%90%E6%80%96%E3%80%81%E4%B8%91%E9%99%8B%E7%9A%84/" target="cdt-mirror">华夏文摘｜周濂：正步走是世界上最恐怖、丑陋的权力宣言</a>
+</h2>
+<p><p>日落时分，印、巴两国举行关闭国境仪式，双方长官一声令下，军营里就会放出两群盛装卫兵，抬头挺胸，提臀摆胯，以九死而不悔的姿势直扑边境线，然后各自站定，冲着对方开始高抬腿、猛跺脚。每当此时，围观群众的情绪就会达到高潮，开始捶胸顿足，并发出《动物世界》里才会出现的啸叫声。</p>
+<p>据说这个仪式一度是印、巴旅游的必选项目，引来观光客无数，不过就在3年前，这个节目被叫停了，原因是每天举脚过头的正步走表演给卫兵的身心造成了严重伤害，为此印方与巴方协议降低挑衅程度，放弃使用这种高难度的抬腿动作。</p>
+<p>我越想越觉得这事儿充满了辛酸的喜感。记忆中的正步走可不是这样的，1984年国庆35周年阅兵仪式是我第一次领略正步走的风采，它纪律严明飘逸挺拔，让人屏息凝神，神往不已，当女兵方队走过天安门广场前，甚至还让年少的我产生了一丝心动的感觉。</p>
+<p>后来看纳粹党人在纽伦堡集会的纪录片《意志的胜利》，屏息凝神的感觉还在，但已与神往无关，而是一种近乎无法呼吸的压抑感。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/zheng3.jpg" alt="zheng3" width="487" height="329"></p>
+<p>德国是正步走的发祥地，19世纪早期普鲁士军队为了炫耀军国主义的赫赫武功，发展出这一“迄今为止人类所发明的最矫揉造作却最富表现力的肢体运动形式之一”。1920年代，希特勒在纳粹党人的冲锋队中沿用了正步走，最终成为党卫军和纳粹德国国防军的步法。正因为存在这样一层历史因缘，二战胜利后，联邦德国把正步作为法西斯主义的象征而彻底废除。崇尚个体自由的英美等国则从未采用过正步走。</p>
+<p>看《意志的胜利》，总让我想起乔治.奥威尔的这段话：“正步走是世界上最为恐怖的景象之一，甚至比俯冲轰炸机还更令人感到恐怖。这就是一个赤裸裸的权力宣言，相当明确而刻意地存在于其中的，是靴子直冲着脸而来的景象。它的丑陋，是其存在的一部分，因为它正在宣称的就是：‘是的，我很丑，但你不敢嘲笑我。’”</p>
+<p>“我很丑，但你不敢嘲笑我！”奥威尔的这个观察可谓入木三分，可是光有恐吓仍然不够，墨索里尼说：“所谓法西斯主义，首先是一种美。”由此可见，权力要想赢得敬畏，除了颟顸霸道混不吝之外，还需要懂得那么一点点的美学原理。我猜想在观看纳粹冲锋队员的正步行进时，一定有人会被整齐划一、无懈可击的力量感所震慑，同时也会被其中所蕴含的庄严肃穆的美感所魅惑。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/zheng2.jpg" alt="zheng2" width="298" height="251"></p>
+<p>事实上，我一直认为一个人的政治立场是左还是右，他对于权力的态度是喜还是恶，很大程度上就是审美趣味的问题。</p>
+<p>以前我的口味就比较的重。因为历史问题，刚入北大时，我和我的小伙伴们被发配到石家庄踢过整整一年的正步。记得发军装的那天，我没能抵挡住制服的诱惑，在穿衣镜前大呼小叫、搔首弄姿。在接下来的一年里，我积极钻研正步走、齐步走和跑步走的动作要领，努力学习政治，争当队列标兵，每次饭前合唱革命歌曲都用尽浑身力气，对于滥竽充数的同学还心存鄙夷愤怒和不满。直到多年以后，我参加91级同学入学20年的庆典，几百人的大合照，在排队等候领导入座时，有好事者提议大合唱“团结就是力量”，我环顾四周，看到身边的每一张脸都在激情洋溢地放声高歌，只有我独自站在队伍中间，一个字都唱不出来。我明白，一定是因为我的审美趣味发生了变化。</p>
+<p>谁在年轻时没有爱过几个人渣？我从不认为一句“青春无悔”就可以把所有的压抑和扭曲一笔勾销。</p>
+<p>当美学的面纱被撕破，“我很丑，但你不敢嘲笑我！”就只剩下赤裸裸的权力在做支撑，但是如果权力本身已经不招人待见，或者压根就没有权力却依旧张牙舞爪地“不许”别人笑，整件事情就会变得有些滑稽和可笑。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/zheng.jpg" alt="zheng" width="498" height="319"></p>
+<p>最近网上流传一张老照片，1936年6月13日，布洛赫姆沃斯造船厂的工人在码头集会，庆祝德国军舰的下水仪式，所有人都在向元首行纳粹礼，只有一个人双手抱胸，拒绝行礼。在放大的图片上，你甚至可以看到他脸上流露出一丝不屑的表情。此人叫做<a href="https://en.wikipedia.org/wiki/August_Landmesser">August Landmesser</a>，他因为和一名犹太女子结婚而两次入狱，最后被当成炮灰送到前线战死在沙场上。</p>
+<p>1991年，德国报纸刊发了这张照片，世人把Landmesser称作勇者，因为面对令人生畏的权力，他做到了——你很丑所以我要嘲笑你！</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E5%91%A8%E6%BF%82%EF%BC%9A%E6%AD%A3%E6%AD%A5%E8%B5%B0%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%81%90%E6%80%96%E3%80%81%E4%B8%91%E9%99%8B%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">大独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E7%B2%BE%E9%80%89/?category=18271" rel="tag">独裁精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%A8%E7%BD%91%E4%B8%80%E7%BA%A7%E7%AE%A1%E6%8E%A7%E6%89%80%E6%9C%89%E9%98%85%E5%85%B5%E7%9B%B8%E5%85%B3%E6%96%B0%E9%97%BB%E8%B7%9F%E5%B8%96%E8%AF%84/" target="cdt-mirror">【真理部】全网一级管控所有阅兵相关新闻跟帖评论</a>
+</h2>
+<p><p>国信办：各网站，落实8月23日0时至24时全网一级管控要求，请各网及客户端，严格管理涉阅兵相关新闻跟帖。具体要求如下：</p>
+<p>1，即日起至9月5日，对所有阅兵相关新闻跟帖评论一律先审后发，无比保证跟帖评论的正面、积极，不得出现抹黑、歪曲、攻击人民军队和阅兵活动内容；不得出现攻击党、国家、制度内容；不得出现攻击领导人内容。</p>
+<p>2，各网站新闻及频道文字、视频、图片等有涉阅兵、军事、历史内容的报道跟帖，务必保持正面、积极，不得出现歪曲党史、国史的评论，不得出现导向错误评论，不得出现有害信息。</p>
+<p>3，各网站要积极将正面阳光的网民跟帖置顶。</p>
+<p>4，各网严格做好审核值班管理，不得出现审核无人值守情况。23日上午10时前，请北京通知百度、新浪、搜狐、网易、凤凰、一点资讯、财经网、今日头条，广东通知腾讯、ZAKER，上海通知澎湃，上报跟帖每日审核人员名单与负责人联系方式至网评督查账号。</p>
+<p>5，网评督查账号将对违反上述要求、执行指令不坚决的网站纪录台帐，造成严重影响的，将从严处理。</p>
+<p>请各商网务必高度重视，积极配合，确保万无一失。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNKn4fxUAAA1k8t.png" alt="CNKn4fxUAAA1k8t" width="383" height="354"></p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%A8%E7%BD%91%E4%B8%80%E7%BA%A7%E7%AE%A1%E6%8E%A7%E6%89%80%E6%9C%89%E9%98%85%E5%85%B5%E7%9B%B8%E5%85%B3%E6%96%B0%E9%97%BB%E8%B7%9F%E5%B8%96%E8%AF%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%B9%B4-%E5%A4%A7%E8%B5%A6%E5%A4%A9%E4%B8%8B/" target="cdt-mirror">新闻马赛克 | 大大三年 大赦天下</a>
 </h2>
 <p><p>新华社刚刚发布令国人震惊的消息：国家要实施大赦！</p>
@@ -785,77 +853,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/" target="cdt-mirror">【草泥马语】法西斯蓝</a>
-</h2>
-<p><p><em>“<a href="http://chinadigitaltimes.net/space/Grass-Mud_Horse_Lexicon_%28arranged_alphabetically%29">草泥马语词典</a>” （英文版翻译为 Grass Mud Horse Lexicon）是中国数字时代的一个中英双语项目，自2010年以来持续收集了许多在网民中热传的种种时政词汇，比如“天朝”、“这是一个奇迹”、“法律不是挡箭牌”等等。我们在不断完善和补充词条内容的同时也希望能将新出炉的“草泥马语”与大家一同分享。</em></p>
-<p><strong><a href="http://chinadigitaltimes.net/space/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D">法西斯蓝</a></strong>：来源于“反法西斯蓝”，模仿“APEC蓝”的用法，以讽刺所有类似政府为特定活动而依靠行政手段获得“蓝天”的现象。</p>
-<p>2015年8月，为了保证纪念反法西斯战争胜利70周年“93大阅兵”期间的空气质量，北京当局使用行政手段采取了<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E8%BF%98%E6%98%AF%E6%B3%95%E8%A5%BF%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9/a-18661627">诸多限制措施</a>：</p>
-<blockquote><p>北京市政府还发出通告，该市机动车辆实施临时交通管理措施，单双号限行长达两周时间。</p>
-<p>为了保障阅兵前后北京的空气质量，从8月28日至9月4日，北京、天津、河北、内蒙古、山东、山西、河南等七省市，还将临时统一强化减排，停产、限产企业总数将达1万多家，主要涉及钢铁、化工、橡胶等污染企业。同时，近9000个建筑工地将暂停施工。此外，靠近山东的江苏省徐州部分钢厂、选矿厂和球团厂也接到了停限产通知。</p></blockquote>
-<p>2015年8月22日，包括中共党媒《人民日报》在内的各大媒体转发了北京出现的所谓“阅兵蓝”现象，也有媒体称之为“反法西斯蓝”。这是继“APEC蓝”、“两会蓝”后，中国官方再次对依靠行政手段得到的所谓北京“蓝天”进行正面宣传。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/005XxMYmjw1evbij9287wj30yi1pcb2a.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005XxMYmjw1evbij9287wj30yi1pcb2a.jpg" alt="005XxMYmjw1evbij9287wj30yi1pcb2a" width="400" height="711"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86.png" alt="美国国家地理" width="550" height="271"></a></p>
-<p><strong>相关民议：</strong><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%A4%A9-%E6%89%8B%E6%92%95%E9%AC%BC%E5%AD%90%E7%9A%84%E8%93%9D/"><strong>【网络民议】共产主义的天 手撕鬼子的蓝</strong> </a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/apec%E8%93%9D/?category=18271" rel="tag">apec蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%A4%A9-%E6%89%8B%E6%92%95%E9%AC%BC%E5%AD%90%E7%9A%84%E8%93%9D/" target="cdt-mirror">【网络民议】共产主义的天 手撕鬼子的蓝</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%98%85%E5%85%B5%E8%93%9D.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%98%85%E5%85%B5%E8%93%9D.png" alt="阅兵蓝" width="475" height=""></a></p>
-<blockquote><p>@人民日报：#抗战胜利#【有一种蓝，叫做“阅兵蓝”[浮云]】继“APEC蓝”之后，大家又开始晒“阅兵蓝”了。今天，你被蓝天刷屏了吗？（图自网友）</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6f1045a5jw1evb9k2xiykj20k00qo783.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6f1045a5jw1evb9k2xiykj20k00qo783.jpg" alt="6f1045a5jw1evb9k2xiykj20k00qo783" width="400" height=""></a><br><em>（图片来源：新浪微博）</em></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>Jason-Kuhn：法西斯蓝</p>
-<p>呆萌她老舅：手撕鬼子蓝</p>
-<p>涂坪兄：终于相信，人定胜天了。</p>
-<p>见怪不怪20020309：悲哀至极，何炫之有！……</p>
-<p>sputnikk：不以为耻 反以为荣</p>
-<p>游动在帝都的鱼：有apec蓝，阅兵蓝，独缺老百信蓝</p>
-<p>吏科给事中-：呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵，朝廷想办什么大事就会有什么样的蓝天。</p>
-<p><a href="http://weibo.com/2130113640" target="_blank">如果能看透人心多好</a>：希望外国人一直来中国做客，他们一来我们天都是蓝的，水是清的，空气是清新的。来了就别走啊，不然又是雾霾，又是水体污染，又是空气污染，你来或不来，一切都变得不样<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/leedorf" target="_blank">Leedorf</a>：一半的车不让开，路边的商铺饭店几乎全部停业，就连郊区老百姓家里的炉灶都封了不让做饭。。。。换了哪个地方的天都特么会蓝<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/2759856165" target="_blank">乐乐de笑笑</a>：<a href="http://weibo.com/n/%E7%AC%91%E7%AC%91de%E4%B9%90%E4%B9%90?from=feed&loc=at" target="_blank">@笑笑de乐乐</a><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">原来不是做不到啊</p>
-<p><a href="http://weibo.com/airaincherry" target="_blank">海誓山萌_非程勿扰</a>：秀给歪果仁看的而已，完事还不是一个鸟样<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>小树LittleTree：天空是可以被操控的，邪恶。北京人为啥不要天天天蓝？！</p>
-<p>余料：蓝天前加的修饰语可真不是什么荣光。</p>
-<p>海涛节操不多不做毁节操事：”哪里的天空最蓝？””开会的北京。”</p>
-<p>宇航动力：转这个有意思吗……平时不治理，临时抱佛脚。不顾民生的关停临时周边省市工厂，连烧烤都不让……就为这几天，有什么意义！！！我们需要一次真正的治理，换回绿水青山。</p>
-<p>你歇歇罢：限号停产。 政府你想天蓝倒是治理啊？ 就活动那几天粗暴停产以后不过日子了？</p>
-<p>圈圈圆圆777：让我们周边的工厂都停工限电，车辆限行，请问这样为这几天的蓝天值得吗？环境治理应该做，但是这样的表面功夫真的好吗？我们只是限这几天，以后呢？还是雾霾还是灰突突的天？现在就是劳民伤财，又不能真的治理环境。</p>
-<p>双鱼兔_WISH：我们曲阳的工人停了 要歇半个月班 曲阳都很蓝了！！！</p>
-<p>叱吒牛哥：把我们河北直接推平，你们北京就天天她妈蓝了，为了蓝天就不让老百姓活了？治理污染没本事，就能欺负老百姓</p>
-<p>宝蓝Forever爱SJ萌希澈xi：一直觉得APEC蓝 是讽刺天朝政府的反语呢</p>
-<p>花虎伯拉：看来百姓的生存比不过个阅兵</p>
-<p>-杰杰杰：这叫共产主义的天…</p>
-<p>LisaTang_太阳城：要治理很简单，哪用得着20年。就是没有治理而已，一有活动停产几天，让领导有面子。</p>
-<p>Gary_Ng：有句话叫屎吃多了不知道饭味</p>
-<blockquote><p><strong>相关阅读</strong>： <a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%98%85%E5%85%B5%E5%8F%82%E9%98%85%E8%8B%B1%E6%A8%A1%E9%83%A8%E9%98%9F%E6%96%B9%E9%98%9F%E5%8C%85%E6%8B%AC-%E7%8B%BC%E7%89%99%E5%B1%B1/">【异闻观止】阅兵参阅英模部队方队包括 “狼牙山五壮士”等 </a></p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%A4%A9-%E6%89%8B%E6%92%95%E9%AC%BC%E5%AD%90%E7%9A%84%E8%93%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/apec%E8%93%9D/?category=18271" rel="tag">apec蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E9%83%BD/?category=18271" rel="tag">帝都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%85%BE%E8%AE%AF%E5%9B%BE%E7%89%87-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1%E6%A0%A1%E5%90%8D%E9%A2%98%E5%AD%97%E7%9F%B3%E8%A2%AB%E7%A7%BB%E9%99%A4/" target="cdt-mirror">腾讯图片 | 中共中央党校校名题字石被移除</a>
-</h2>
-<p><p>2015年8月21日，北京，海淀区大有庄100号中共中央党校。当日，中央党校门前题有“中共中央党校”的巨石已经被移走，大型施工机械正在现场施工，几名工人在整理裸露的地面。詹敏/东方IC （编辑注：江泽民题）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/10001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/10001.jpg" alt="1000" width="600" height="348"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/1000-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/1000-1.jpg" alt="1000 (1)" width="600" height="450"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%85%BE%E8%AE%AF%E5%9B%BE%E7%89%87-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1%E6%A0%A1%E5%90%8D%E9%A2%98%E5%AD%97%E7%9F%B3%E8%A2%AB%E7%A7%BB%E9%99%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1/?category=18271" rel="tag">中共中央党校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%98%E5%AD%97%E7%9F%B3/?category=18271" rel="tag">题字石</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -867,7 +864,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2t5s1e7synuzs.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28faw04g3bsqf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -877,5 +874,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2t5s1e7synuzs.cloudfront.net">https://d2t5s1e7synuzs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/></td>    </tr>
 </table>

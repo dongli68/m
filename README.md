@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dwdmei8wi4jmv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1i4ioyqx4xsel.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/><a href="https://d2qqhdt9n0lqb7.cloudfront.net">https://d2qqhdt9n0lqb7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E8%83%9C%E5%88%A9%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9C%9F%E9%97%B4%E5%B0%86%E5%AE%89%E6%8E%92%E4%B8%80/" target="cdt-mirror">【异闻观止】总局：纪念日期间将安排一大批抗战题材影视作品</a>
@@ -90,7 +90,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=18271" rel="tag">1984</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E8%88%8D/?category=18271" rel="tag">老舍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%BB%A7%E7%BB%AD%E6%9A%B4%E8%B7%8C-%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C%E7%A0%B4%E4%B8%89%E5%8D%83%E5%A4%A7%E5%85%B3/" target="cdt-mirror">BBC | 中国股市继续暴跌 上证指数跌破三千大关</a>
 </h2>
@@ -132,7 +132,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8E%E5%8F%8D%E8%85%90%E5%8E%8B%E5%8A%9B%E8%80%83%E9%AA%8C%E4%B9%A0%E8%BF%91%E5%B9%B3/" target="cdt-mirror">纽约时报｜经济下行与反腐压力考验习近平</a>
 </h2>
@@ -177,7 +177,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A9%E5%AA%92%EF%BC%9A%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%86%E4%B8%8D%E5%87%BA%E5%B8%AD%E5%8C%97%E4%BA%AC%E9%98%85%E5%85%B5/" target="cdt-mirror">美国之音｜韩媒：金正恩将不出席北京阅兵</a>
 </h2>
@@ -776,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d80lu5nscb1bf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1i4ioyqx4xsel.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -786,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d2qqhdt9n0lqb7.cloudfront.net">https://d2qqhdt9n0lqb7.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/></td>    </tr>
 </table>

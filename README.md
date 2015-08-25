@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dhng7frv9963z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r3bu1vl2semn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/><a href="https://d5aqq7t3c4gm2.cloudfront.net">https://d5aqq7t3c4gm2.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A4%9A%E4%BA%8B%E4%B9%8B%E7%A7%8B%E4%BB%8D%E9%98%BB%E6%AD%A2%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">博谈网｜多事之秋仍阻止不了中国阅兵</a>
@@ -63,7 +63,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A9%8B%EF%BC%9A%E3%80%8C%E4%B9%9D%E4%B8%89%E3%80%8D%E9%96%B1%E5%85%B5%E4%B8%8D%E5%8F%AF%E7%BC%BA%E4%BA%86%E6%AF%9B%E5%B0%91%E5%B0%87/" target="cdt-mirror">东网｜南橋：「九三」閱兵不可缺了毛少將</a>
 </h2>
@@ -791,7 +791,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ucn5xjsop3r5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -801,5 +801,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d5aqq7t3c4gm2.cloudfront.net">https://d5aqq7t3c4gm2.cloudfront.net</a><br/><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/></td>    </tr>
 </table>

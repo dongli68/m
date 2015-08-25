@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3c82zw2x8e2t9.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E8%83%9C%E5%88%A9%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9C%9F%E9%97%B4%E5%B0%86%E5%AE%89%E6%8E%92%E4%B8%80/" target="cdt-mirror">【异闻观止】总局：纪念日期间将安排一大批抗战题材影视作品</a>
@@ -275,7 +275,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%96%B0%E5%AE%87/?category=18271" rel="tag">毛新宇</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E5%91%A8%E6%BF%82%EF%BC%9A%E6%AD%A3%E6%AD%A5%E8%B5%B0%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%81%90%E6%80%96%E3%80%81%E4%B8%91%E9%99%8B%E7%9A%84/" target="cdt-mirror">华夏文摘｜周濂：正步走是世界上最恐怖、丑陋的权力宣言</a>
 </h2>
@@ -786,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
 </table>

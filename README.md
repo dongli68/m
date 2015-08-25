@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28faw04g3bsqf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d80lu5nscb1bf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A9%8B%EF%BC%9A%E3%80%8C%E4%B9%9D%E4%B8%89%E3%80%8D%E9%96%B1%E5%85%B5%E4%B8%8D%E5%8F%AF%E7%BC%BA%E4%BA%86%E6%AF%9B%E5%B0%91%E5%B0%87/" target="cdt-mirror">东网｜南橋：「九三」閱兵不可缺了毛少將</a>
@@ -70,7 +70,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">大独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E7%B2%BE%E9%80%89/?category=18271" rel="tag">独裁精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%A8%E7%BD%91%E4%B8%80%E7%BA%A7%E7%AE%A1%E6%8E%A7%E6%89%80%E6%9C%89%E9%98%85%E5%85%B5%E7%9B%B8%E5%85%B3%E6%96%B0%E9%97%BB%E8%B7%9F%E5%B8%96%E8%AF%84/" target="cdt-mirror">【真理部】全网一级管控所有阅兵相关新闻跟帖评论</a>
 </h2>

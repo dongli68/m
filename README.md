@@ -35,7 +35,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82/?category=18271" rel="tag">基督教堂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">强拆十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%B0%E9%A1%BA%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">泰顺基督教堂事件</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A4%9A%E4%BA%8B%E4%B9%8B%E7%A7%8B%E4%BB%8D%E9%98%BB%E6%AD%A2%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">博谈网｜多事之秋仍阻止不了中国阅兵</a>
 </h2>
@@ -124,7 +124,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">大独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E7%B2%BE%E9%80%89/?category=18271" rel="tag">独裁精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2-%E6%B1%9F%E6%BE%A4%E6%B0%91%E9%A1%8C%E5%AD%97%E8%A2%AB%E7%A7%BB-%E3%80%8C%E5%8E%BB%E6%B1%9F%E5%8C%96%E3%80%8D%E7%82%B8%E4%BA%86%E9%8D%8B/" target="cdt-mirror">聯合新聞網 | 江澤民題字被移 「去江化」炸了鍋</a>
 </h2>

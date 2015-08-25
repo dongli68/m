@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3c82zw2x8e2t9.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,98 @@
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E8%83%9C%E5%88%A9%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9C%9F%E9%97%B4%E5%B0%86%E5%AE%89%E6%8E%92%E4%B8%80/" target="cdt-mirror">【异闻观止】总局：纪念日期间将安排一大批抗战题材影视作品</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/62903c47jw1ev5nw6qz60j20fe0c23zp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/62903c47jw1ev5nw6qz60j20fe0c23zp.jpg" alt="62903c47jw1ev5nw6qz60j20fe0c23zp" width="440" height="345"></a></p>
+<p><strong><a href="http://politics.caijing.com.cn/20150825/3954498.shtml">财经网｜广电总局网站刊文：抗战胜利纪念日期间电视节目丰富多彩</a></strong></p>
+<blockquote><p>一些电视台精心策划准备了<strong>抗战主题综艺晚会</strong>。除央视在9月3日直播中央纪念中国人民抗日战争暨世界反法西斯战争 胜利70周年文艺晚会外，黑龙江卫视将播出抗战交响诗会《和平的钟声》，内蒙古卫视将播出纪念抗战胜利70周年专题歌会《歌声中的回忆》，山东卫视将播出 《和平颂——山东省纪念中国人民抗日战争暨世界反法西斯战争胜利70周年文艺演出》《山东省第二届“和平颂 中国梦”群众交响合唱音乐会》，山西卫视将播出《太行回声》朗诵音乐会等。<br>
+[…]<br>
+在满足群众多样化收视需求的同时，各卫视频道重点突出安排了一大批抗战题材影视作品。<strong>电视剧方面</strong>，各主要频道集 中播出《黄河在咆哮》《南侨机工英雄传》《太行山上》等中宣部和总局推荐的新创作的抗战主题重点剧目。此外，许多上星综合频道还首轮排播《左手劈刀》《卧 底》《毕业歌》《伪装者》《铁在烧》《地雷战》《冲出月亮岛》等抗战题材电视剧，安排重播《谁是真英雄》《红色》《悬崖》《我的团长我的团》《野山鹰》 《战魂》《东北抗日联军》《战神》《铁血红安》等经典抗战题材电视剧，一些电视台还安排播出多种题材的弘扬主旋律的电视剧。<strong>纪录片方面</strong>， 中央电视台于9月1日完成《东方主战场》首播，之后湖南卫视、江苏卫视、浙江卫视、上海东方卫视、北京卫视等五家重点省级卫视频道也已安排接力播出该片。 此外，中央电视台还安排播出《日本战犯忏悔备忘录》《光明与阴霾》等抗战题材纪录片，一些地方卫视安排播出《伟大的贡献》《抗战——永远的丰碑》《大抗 战》《大后方》，以及《劳动铸就中国梦》《记住乡愁》《中国梦 中国路》《筑梦中国》《家事》等纪录片。<strong>动画片方面</strong>，“抗战三部曲”《地道战》《鸡毛信》《渊子崖保卫战》已从8月中旬开始陆续推出，9月1日—5日期间，浙江卫视、江苏卫视、湖南卫视等将分别安排播出这三部动画片。</p></blockquote>
+<p><strong><br>
+以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@同名-树：不是娱乐片禁播吗？</p>
+<p><a href="http://weibo.com/3092159777" target="_blank">江南_独行客</a>：求别放，我信你们是中流砥柱了。。。饶了我吧，没给洗脑洗傻了，给雷傻了<img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]"><img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]"><img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]"></p>
+<p><a href="http://weibo.com/3535462863" target="_blank">漂亮豌豆3</a>：开罗宣言喃？？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@任课老师：你妈，这平时安排的还少？？？？？？？？？？？？？？？？？？？？？？？？</p>
+<p>@郑鹏展andypeng：还好这个时代有网络，不必被视觉强奸。庆幸庆幸。。。。</p>
+<p>@叶小岛：你安排你的，我不看就是。</p>
+<p>@健康快乐小豌豆：电视保养一个月，节能减排</p>
+<p>@_郑皓元：非得放的话，请放，走向共和</p>
+<p>@變了好多啊：我要看土八路手榴弹打飞机！还有八路神军800里外爆头鬼子！</p>
+<p>@天生-玩家：没有手撕鬼子，差评</p>
+<p>@毛豆刷屏控：意思全国人民和你一起吃粑粑？</p>
+<p>@凯yuan5：估计又要死好多鬼子</p>
+<p>@君子有道：男女老少一个都不放过，好吧，继续抗日被日！</p>
+<p>@周东岳Tom：反复宣传“让我们牢记历史伤痛，记住日本战争的恶行。”====是不是等于==== “记住丫打过你，以后找机会干死丫挺的。”</p>
+<p>@芜湖郭金洋：够了，这几年电视全是各种抗战题材的，这不要紧，但是不要把抗战给偶像化、爱情化，一点战争意义没有，除了谈情就是说爱，要不然就是瞎扯淡</p>
+<p>@我似小尾巴：我们不要抗日，而要抗匪</p>
+<p>@午夜二锅头：广电总局，计划经济时代遗留的糟粕！什么都没管好。臭名昭著的卫星有线加密，封杀互联网电视，审核垄断，凭证条码开户限制……剥夺了广大百姓享有公共文化的基本权利。专制独裁思想的强行灌输者，更是文化强国之路上的路障。错过了铁道部关门大吉那激动人心的一刻，等广电摘牌时一定前往点上一串鞭炮！</p>
+<p>@播磨白木屋：强烈推荐：横店东磁！A股市场唯一根正苗红的抗日概念股！随着阅逼式的临近必将连续涨停！</p>
+<p>@骨子里的凉博：每次都是些游击战啊啊啊什么的，你就不能来个正面战场一点的？人数壮观的？ 哦，我懂</p>
+<p>@真实的人类：有手撕包菜吗？不对，应该是有手撕包子吗？</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E8%83%9C%E5%88%A9%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9C%9F%E9%97%B4%E5%B0%86%E5%AE%89%E6%8E%92%E4%B8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/?category=18271" rel="tag">抗日神剧</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%9C%8D%E5%90%AF%E6%98%8E%EF%BC%9A%E8%80%81%E8%88%8D%E7%9C%8B%E8%BF%87%E3%80%8A1984%E3%80%8B-%E7%84%B6%E5%90%8E%E4%B8%80%E7%AC%91%E8%80%8C%E8%BF%87/" target="cdt-mirror">霍启明：老舍看过《1984》 然后一笑而过</a>
+</h2>
+<p><p>今天是2015年8月24日，49年前的今天，老舍，这个爱吃花生米，爱听相声，爱养花，爱说笑话的北京老头儿，一步步的走进了北京的太平湖，直到淹没全身……</p>
+<p>讲老舍之死的文章太多了。我今天就在这里讲个老舍人生中的一件小事。但这个故事细想起来充满了预言性，甚至让人不寒而栗。</p>
+<p>1949年，乔治·奥威尔发表了惊世骇俗的反乌托邦小说《1984》。巧的是，这本书刚出版的时候老舍正在美国，恰巧看到了这本奇书。但是老舍看完这本书后有点不屑，觉得《1984》只是一个阴暗的架空故事。他是这样评价《1984》的：</p>
+<blockquote><p><strong>“最近一个英国人写了一本书，叫做《1958年的英国》（书名都记错了），那一本小说是描写英国共产化了以后的情形的。照那位作者说，在未来一点自由都没有，即使你在家里写日记，政府都能用无线电给探查出来。一个人要反抗，给捉去弄死了。全书就是充满了这样的惊险的幻想，充满了阴森的谣言……。”</strong></p></blockquote>
+<p>因为老舍骨子里的文化基质还是北平的那些市民文化，他对政治的理解还是有太多的幻想和一厢情愿，无法接受奥威尔那种巫师般的，窥见地狱般的高密度信息，甚至提不起一丝的忧虑。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/3r0h7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/3r0h7.jpg" alt="《1984》的1949年首印板 被老舍宿命般的看到" width="480" height="542"></a><p>《1984》的1949年首印版 被老舍宿命般的看到</p></div>
+<p>但其时代的另一些知识分子，并不像老舍一样乐观。在大翻译家巫宁坤的回忆录《一滴泪》中，他讲述了许多其他知识分子的故事。</p>
+<p>巫宁坤当年也是从美国回国的留学生，斗志昂扬，临走前李政道前去送行道别，他问李政道：“<strong>你为什么不回去为新中国工作？”</strong>李政道笑笑说：<strong>“我不愿让人洗脑子”</strong>。到了五十年代，政府规定单位里每个人都必须参加集体工间操时，巫宁坤的朋友，另一位留美学者陈梦家突然说了句：<strong>“这是1984来了， 这么快 ！”</strong>陈梦家后来在文革中自杀。而巫宁坤则在五十年代被划成右派，发配到北大荒劳动改造，眼睁睁的看着许多学者在那里饿死。历经磨难的他终于活了下来，并在文革结束后离开中国，用血与泪写下这本回忆录。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Ub0R6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Ub0R6.jpg" alt="Ub0R6" width="550" height="386"></a><p>大翻译家巫宁坤（右1）和沈从文夫妇的合影，我很爱看他翻译的《了不起的盖茨比》</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/XLr1i.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/XLr1i.jpg" alt="XLr1i" width="550" height="382"></a><p>陈梦家夫妇（前排）与亲属合影</p></div>
+<p>然而老舍对新政府和新社会是抱着极大的热情的。因此在建国后，不同于矛盾、曹禺、沈从文等建国后写不出东西的大作家，老舍创作欲望极强，紧跟共和国的各种动态。1952年，老舍因《龙须沟》获得北京市人民政府颁发的人民艺术家称号；1956年，他响应罗瑞卿的号召，根据真人真事创作了配合肃反的讽刺喜剧《西望长安》；1958年，他在大跃进的鼓舞下，创作出《全家福》和《女店员》……</p>
+<p>有的作家还记得，好多年里，每当五一、十一在天安门前举行庆祝游行时，总有两三个人作为领队，兴奋地走在文艺界的万人方阵前列。他们中间一直有老舍。在那些日子里，老舍无疑是一个典范，一面旗帜，他标志着一个旧时代的文人能够成功地行进在新时代的大军之中。这一切都显得十分欣欣向荣。</p>
+<p>可是共和国的味道和气味在一点一点起变化。1962年之后，共和国的文化领域越来越受到整肃，就算是转型最为成功的老舍，写作空间也受政治挤压，只得被迫停止小说的写作。此后老舍仍想尽办法和共和国的文艺走向紧贴。作为一个大作家，他居然想通过写竹板快书、相声等，来宣传计划生育、科学种田，但是也未获批准。1966年春季，老舍独自前往北京郊区顺义以养猪而闻名的陈各庄，跟那里的农民生活在一起，写了一篇科学养猪的快板儿《陈各庄上养猪多》，这是他公开发表的最后一篇作品。没错，老舍的最后一篇作品居然是<strong>《陈各庄上养猪多》</strong>。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/15e9to.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/15e9to.jpg" alt="15e9to" width="550" height="394"></a><p>主席和老舍的亲切会见</p></div>
+<p>但是在1966年的那个夏天，在被高干子弟红卫兵们一通羞辱之后，老舍当初的乐观彻底幻灭，他终于发现在权利和政治的面前他什么都不是。他想回到家寻找慰藉，但他的家门对他紧闭，和他断绝了关系。又恐怖的印证了《1984》中儿子告父母密的情节。</p>
+<p>而且致命的是，老舍并不是聂绀弩、牛汉那样的硬汉，能梗着脖子坐一辈子黑牢，操他们一辈子娘。老舍的骨子里是有一点忧郁和软弱的。比如在他的小说中，尽管我们看到的老舍先生总是嬉笑怒骂的，总是充满了对民间智慧的倾心，和对平淡生活的向往。但是仔细的看去，我们却发现老舍小说中的重要人物，有很多是自杀的。比如《四世同堂》中，祁天佑受日本人羞辱后就投进了护城河。《茶馆》中的王利发王掌柜全力支撑“裕泰”老店不得，上吊而死。《骆驼祥子》里面的小福子被父亲卖到窑子里不堪非人待遇，上吊自杀。这分明就是老舍的一种生命意识：<strong>与其受辱，不如结束</strong>。关于此点，他的儿子舒乙也是这么说的：<strong>“老舍的作品里有自杀倾向，他自杀是有一种美学的倾向在影响他。”</strong>所以在一连串的绝望后，他的阴郁情绪爆发了，选择和他小说人物一样的悲剧归宿。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Rzmox.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Rzmox.jpg" alt="Rzmox" width="457" height="640"></a><p>硬汉聂绀弩 他选择死扛到底</p></div>
+<p>老舍自杀的地方叫太平湖，离积水潭很近。积水潭那一带是老舍从童年到青年时居住和工作的地方，那里有他最初的回忆。其实童年的记忆是许多大作家永恒挖掘的金矿，那是他们生命和创作的根，老舍也是如此。他在《想北平》中，是这样深情的描述积水潭的：“<strong>面向积水潭，背后是城墙，坐在石上看水中的小蝌蚪或苇叶上的嫩蜻蜓，我可以快乐的坐一天，心中完全安适，无所求也无可怕，像小儿安睡在摇篮里。”</strong>那是他魂牵梦绕的安逸之地。</p>
+<p>1966年8月24的凌晨，带着对人世绝望的舒庆春，来到了离积水潭很近的太平湖，荷花在水面迎风摇曳，水边长满芦苇，时而有叫不上名字的水鸟从苇丛中飞起。在这个沉静的夜晚，他将自己一步一步沉入这个寄托着他无数童年回忆的地方。</p>
+<p>这就是那个时代知识分子宿命的缩影。《1984》里阴沉沉的预言也隐约在其间浮现了出来。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/39amT.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/39amT.jpg" alt="39amT" width="550" height="257"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%9C%8D%E5%90%AF%E6%98%8E%EF%BC%9A%E8%80%81%E8%88%8D%E7%9C%8B%E8%BF%87%E3%80%8A1984%E3%80%8B-%E7%84%B6%E5%90%8E%E4%B8%80%E7%AC%91%E8%80%8C%E8%BF%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=18271" rel="tag">1984</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E8%88%8D/?category=18271" rel="tag">老舍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%BB%A7%E7%BB%AD%E6%9A%B4%E8%B7%8C-%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C%E7%A0%B4%E4%B8%89%E5%8D%83%E5%A4%A7%E5%85%B3/" target="cdt-mirror">BBC | 中国股市继续暴跌 上证指数跌破三千大关</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150825021301_nanjing_investor_640x360_xinhua.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150825021301_nanjing_investor_640x360_xinhua.jpg" alt="中国股市" width="550" height="309"></a><p>周二早间，中国上证指数下跌6%，报3016.92点，基本延续了周一8.5%惊人跌幅。</p></div>
+<p><strong>经历了“黑色星期一”之后，尽管亚洲其他股市周二（25日）开盘跌幅低于预期，中国股市继续大幅下跌。</strong></p>
+<p>上证指数当天收盘再度暴跌7.63%，收于2964.97点，跌破3000点大关，延续了周一8.5%惊人跌幅。深证成指收盘暴跌7.04%，收于10197.94点。</p>
+<p>亚洲收市之后，欧洲和美国股市周一也出现了急剧下跌。</p>
+<p>亚洲其他国家股市周二开盘继续下跌，但相对于市场在周一大面积抛售后作出的悲观预测，当天跌幅有所收窄。</p>
+<p>日经指数开盘下跌3%，是当天早上亚洲股市中除中国外的最大跌幅。</p>
+<p>这轮股市下跌开始于中国上证指数周一（24日）的创纪录暴跌以及之后的欧洲美国股市剧烈下跌。</p>
+<p>市场正在对中国经济下滑表示忧虑。</p>
+<p>周二早上，韩国股指KOPSI开盘下跌0.5%，澳大利亚S&P ASX/200指数则下滑0.8%。</p>
+<p>投资者对依赖中国进口的国家和机构表示担忧，认为他们会受到中国经济放缓的影响，中国目前位居世界第二大经济体和第二大商品及服务进口国。</p>
+<p>中国央行两周前让人民币贬值，让市场担心中国经济形势比之前预计的更糟。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%BB%A7%E7%BB%AD%E6%9A%B4%E8%B7%8C-%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C%E7%A0%B4%E4%B8%89%E5%8D%83%E5%A4%A7%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E5%B7%B2%E8%B5%B0%E5%88%B0%E5%B0%BD%E5%A4%B4/" target="cdt-mirror">金融时报 | 中国模式已走到尽头</a>
 </h2>
 <p><p>中国今年的8月绝不是一个宁静的神话之月。当单个考察时，股市和汇市行情，甚至耸人听闻的天津爆炸事故，似乎仅仅是运气糟糕的结果。然而，对这些情况综合考察会发现，它们标志着中国经济和政治模式正慢慢走向终结。中国正在经历一场转型危机，一场自邓小平开始在中国未来与毛时代之间画出清晰界限以来的前所未有的危机。</p>
@@ -676,115 +765,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8D%B1%E5%8C%96%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E7%9A%84%E8%87%B4%E5%91%BD%E8%B7%9D%E7%A6%BB/" target="cdt-mirror">纽约时报｜中国各地危化品与居民区的致命距离</a>
-</h2>
-<p><p><strong>经检索公开资料和卫星图片后，《纽约时报》列举了中国各地部分位于居民区约一公里范围内的危化品存储或生产地点：</strong></p>
-<p><em>原文：<a href="http://www.nytimes.com/interactive/2015/08/21/world/asia/tianjin-china-explosion-hazardous-chemical-sites.html">Tianjin Blasts Expose the Dangerous Proximity of Toxic Chemicals in China</a></em><br><em>编译：中国数字时代编辑</em></p>
-<p><strong>河北诚信有限责任公司<br>
-氰化钠生产商<br>
-河北石家庄</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B2%B3%E5%8C%97%E8%AF%9A%E4%BF%A1-e1440330345796.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B2%B3%E5%8C%97%E8%AF%9A%E4%BF%A1-e1440330345796.png" alt="" width="500" height="540"></a></p>
-<p> </p>
-<p><strong>中化天津滨海物流有限公司 & 中化天津港石化仓储有限公司<br>
-危化品存储<br>
-天津</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%AD%E5%8C%96%E5%A4%A9%E6%B4%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%9F%B3%E5%8C%96%E4%BB%93%E5%82%A8-e1440330491220.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%AD%E5%8C%96%E5%A4%A9%E6%B4%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%9F%B3%E5%8C%96%E4%BB%93%E5%82%A8-e1440330491220.png" alt="" width="600" height="351"></a></p>
-<p> </p>
-<p><strong>上海北芳储运集团<br>
-危化品存储<br>
-上海（金山）<br>
-&<br>
-武汉国际集装箱有限公司<br>
-危化品存储<br>
-湖北武汉</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E5%8C%97%E8%8A%B3-%E6%AD%A6%E6%B1%89%E5%9B%BD%E9%99%85%E9%9B%86%E8%A3%85%E7%AE%B1-e1440330449286.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B8%8A%E6%B5%B7%E5%8C%97%E8%8A%B3-%E6%AD%A6%E6%B1%89%E5%9B%BD%E9%99%85%E9%9B%86%E8%A3%85%E7%AE%B1-e1440330449286.png" alt="" width="600" height="352"></a></p>
-<p> </p>
-<p><strong>安庆曙光化工集团<br>
-氰化钠生产商<br>
-安徽安庆<br>
-&<br>
-东莞市荣顺化工仓储有限公司<br>
-经批准可存储氰化钠<br>
-广东东莞</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9B%99%E5%85%89%E5%8C%96%E5%B7%A5-%E8%8D%A3%E9%A1%BA%E5%8C%96%E5%B7%A5%E4%BB%93%E5%82%A8-e1440330395122.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9B%99%E5%85%89%E5%8C%96%E5%B7%A5-%E8%8D%A3%E9%A1%BA%E5%8C%96%E5%B7%A5%E4%BB%93%E5%82%A8-e1440330395122.png" alt="" width="600" height="357"></a></p>
-<p> </p>
-<p><strong><span>天津瑞海国际物流有限公司</span></strong><br><strong> 存储氰化钠</strong><br><strong> 天津</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A9%E6%B4%A5%E7%91%9E%E6%B5%B7-e1440330538127.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%A9%E6%B4%A5%E7%91%9E%E6%B5%B7-e1440330538127.png" alt="" width="500" height="562"></a><br><strong><br></strong></p>
-<p><strong>河南偃师天龙化工有限公司<br>
-氰化钠生产商<br>
-河南洛阳<br>
-&<br>
-潍坊天瑞化工有限公司<br>
-氰化钠生产商<br>
-河南洛阳</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%81%83%E5%B8%88%E5%A4%A9%E9%BE%99-%E6%BD%8D%E5%9D%8A%E5%A4%A9%E7%91%9E-e1440330584404.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%81%83%E5%B8%88%E5%A4%A9%E9%BE%99-%E6%BD%8D%E5%9D%8A%E5%A4%A9%E7%91%9E-e1440330584404.png" alt="" width="600" height="355"></a></p>
-<p>residential area＝居民区<br>
-production facility(site)＝生产基地（点）<br>
-storage site＝存储点<br>
-primary school＝小学<br>
-kindergarten＝幼儿园<br>
-transport terminal＝交通终点站</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8D%B1%E5%8C%96%E5%93%81%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8C%BA%E7%9A%84%E8%87%B4%E5%91%BD%E8%B7%9D%E7%A6%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%AE%A9%E6%88%91%E4%BB%AC%E6%B8%A9%E6%95%85%E4%B8%80%E4%B8%8B70%E5%B9%B4%E5%89%8D%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%82%A3%E4%B8%AA%E6%B3%95%E8%A5%BF/" target="cdt-mirror">【图说天朝】让我们温故一下70年前反对的那个法西斯是啥样的</a>
-</h2>
-<p><p>【编者注】原微博已被和谐。</p>
-<p><strong><a title="松松_lausson" href="http://weibo.com/lausson">@松松_lausson</a>：让我们怀着同一个世界,同一个梦想的眼光，来温故一下70年前反对的那个法西斯是啥样的！</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg0spu42j20zk0sgadt.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg0spu42j20zk0sgadt.jpg" alt="6401cc2cjw1evcg0spu42j20zk0sgadt" width="440" height="352"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg14kc3aj20p00gtdog.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg14kc3aj20p00gtdog.jpg" alt="6401cc2cjw1evcg14kc3aj20p00gtdog" width="440" height="296"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg156mjrj20xc0l6gql.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg156mjrj20xc0l6gql.jpg" alt="6401cc2cjw1evcg156mjrj20xc0l6gql" width="440" height="279"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1ipw6ij20go0beta8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1ipw6ij20go0beta8.jpg" alt="6401cc2cjw1evcg1ipw6ij20go0beta8" width="440" height="301"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1izctej20go0b3dgt.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1izctej20go0b3dgt.jpg" alt="6401cc2cjw1evcg1izctej20go0b3dgt" width="440" height="293"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1jcuv6j20go0b3tac.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg1jcuv6j20go0b3tac.jpg" alt="6401cc2cjw1evcg1jcuv6j20go0b3tac" width="440" height="293"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg25dgdwj20m80gogna.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg25dgdwj20m80gogna.jpg" alt="6401cc2cjw1evcg25dgdwj20m80gogna" width="440" height="330"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg25r84tj20vy0m7dl7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg25r84tj20vy0m7dl7.jpg" alt="6401cc2cjw1evcg25r84tj20vy0m7dl7" width="440" height="306"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg28zryhj218g0vtgyu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6401cc2cjw1evcg28zryhj218g0vtgyu.jpg" alt="6401cc2cjw1evcg28zryhj218g0vtgyu" width="440" height="315"></a></p>
-<p>“参加“9•3”阅兵预演的官兵们。戳图<strong>↓↓</strong>感受中国军人的风采！” via <a href="http://weibo.com/2803301701/Cx9UNlKrA">@人民日报</a></p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcxsbwj20xq0l8dvo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcxsbwj20xq0l8dvo.jpg" alt="a716fd45jw1evclhcxsbwj20xq0l8dvo" width="440" height="277"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhd2aroj20z40l9nhy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhd2aroj20z40l9nhy.jpg" alt="a716fd45jw1evclhd2aroj20z40l9nhy" width="440" height="266"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcsl88j20zk0notc5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcsl88j20zk0notc5.jpg" alt="a716fd45jw1evclhcsl88j20zk0notc5" width="440" height="293"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcxtfaj20wu0l1gyw.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a716fd45jw1evclhcxtfaj20wu0l1gyw.jpg" alt="a716fd45jw1evclhcxtfaj20wu0l1gyw" width="440" height="282"></a></p></blockquote>
-<p><em><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%A4%96%E5%88%8A%E6%89%AB%E6%8F%8F%EF%BC%9A%E9%98%85%E5%85%B5%E8%BF%99%E9%97%A8%E6%94%BF%E6%B2%BB%E8%89%BA%E6%9C%AF/">东方历史评论｜外刊扫描：阅兵这门政治艺术</a></em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%AE%A9%E6%88%91%E4%BB%AC%E6%B8%A9%E6%95%85%E4%B8%80%E4%B8%8B70%E5%B9%B4%E5%89%8D%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%82%A3%E4%B8%AA%E6%B3%95%E8%A5%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%AB%A5%E5%A4%A7%E7%84%95%EF%BC%9A%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%94%E5%81%BF%EF%BC%9F/" target="cdt-mirror">东网｜童大焕：国家为什么要赔偿？</a>
-</h2>
-<p><p>2015年8月18日，我在媒体发表文章，态度鲜明地表示《支持天津爆炸区居民房屋回购要求》，认为“任何救世主都无法救民于水火解民于倒悬，惟有专业精神和清晰严格的责任边界能够拯救我们自己！”并在其后转发这篇文章时表示：“我虽然恨其不争，反感购房者对政府画一个圈就当天上掉陷饼，但仍支持天津爆炸 区居民合理的房屋回购要求，惟独不支持跪求，因为真正应该下跪谢罪的是渎职官员而不是受害民众。”</p>
-<p>当时有不少网友认为政府根本不可能回购。但是，20日媒体报道说，19日，天津滨海新区书记明确表示：受损房需回购的一定会回购。官媒网的消息是这样说的：</p>
-<p>“在此次爆炸事故中，受损房屋是回购还是修缮，是受灾群众非常关注的问题。对此，天津滨海新区区委书记宗国英19日明确回应说，经过鉴定，受损房屋需要回购的一定回购，需要修缮的一定修缮。</p>
-<p>“宗国英说，新区政府目前已经成立了房屋修缮服务中心，拿出了详细的方案。在受损房屋修缮的过程中，政府将给这些受损、受害、受灾的居民一些过渡安置费，这项工作也已经展开。</p>
-<p>“针对一些人‘过渡安置费会从以后的房屋理赔费用中扣除’的忧虑，宗国英明确表态说：‘过渡安置费用绝对不影响后期的理赔费用。’</p>
-<p>“宗国英还表示，很多房子的受损程度不一样，需要有专业、有资质、有群众认定的评估机构鉴定以后，拿出一个理想的方案。为了保证公开透明，评审鉴定的过程中，所有居民代表要全程参与。</p>
-<p>“‘这项工作一旦评估、鉴定完成，根据鉴定的结果我们会提出一个方案。该拆掉的就彻底拆掉，该重建的就重建，该回购的回购。’宗国英说。”</p>
-<p>我认为这是一个相当专业和相当负责任的回答，虽然没有明确回购的主体是开发商还是政府，但请注意其中运用的是“理赔”二字。至于到底是政府回购还是开发商回购，我认为取决于责任在哪一方。如果开发商没有责任，则在此次爆炸中，开发商也是受害者，并不因为它比普通购房者更有钱，就改变它的受害者身份。</p>
-<p>很多网友表示反对政府回购，认为政府没有权力也没有义务拿全体纳税人的钱为少数人的损失买单，认为政府买单其实就是全民买单。今天这篇文章就专门来说说这个问题。</p>
-<p>先看几则故事：</p>
-<p>2011 年4月，美国籍华裔大学生丹尼尔‧锺遭遇“飞来横祸”，他到加州朋友家过夜，这一寓所遭毒品管制局突查。依据毒品管制局文件，执法人员在这处寓所发现 1.8万粒摇头丸、其他药品和一些武器，包括锺在内的9人遭拘。而后，锺在未被起诉的背景下，被关押在没有窗户的狭小拘留室4天半，期间，锺被遗忘，得不 到水和任何食物。锺踹门、呼救，无人理睬。他在金属凳上小便，以喝尿维持生命；试图引发头顶消防喷头警报，未能成功；出现幻觉，企图自杀，打破眼镜片，用 碎片割腕，甚至吞食镜片；想给母亲留下遗言，试图用碎玻璃片在胳膊上写下“对不起，妈妈（Sorry Mom)”，但只写完了字母“S”；最后还把鞋带从门缝塞出，以期引人注意。锺最终被人发现时，身上沾满排泄物，身体痉挛，严重脱水，食道穿孔，肾功能接 近衰竭。他被紧急送至医院抢救，体重相比4天半前减轻6.8公斤。</p>
-<p>锺的遭遇曝光后，美国毒品管制局圣迭戈办公室负责人威廉‧舍曼发表声明道歉，同时表示对这一状况的发生“深感困惑”。毒品管制局随后引入全国性拘留标准，包括每天检查和在拘留室安装摄像头。2013年7月30日，锺的律师确认，锺与美方达成和解，和解金额为410万美元。</p>
-<p>这是政府直接过失造成的公民损害引发的赔偿。接下来看看美国911事故的后续故事：</p>
-<p>2001 年9月11日，纽约世贸双子塔遭恐怖分子劫持两架飞机撞塌，改变了美国，改变了全球政治，也改变了一群普通美国人的生活。这群普通人并非当时双子塔上的遇 难者及其亲属，而是在大楼坍塌后，不顾危险前往双子塔废墟实施救援和清理的建筑工人和志愿者等。由于防护措施不足，他们中的一些人此后患上疾病，甚至死亡。于是，“9‧11”后，在布什政府发动全球反恐战争的同时，2003年，大约1万名世贸废墟作业工人将纽约政府告上法庭，理由是后者没有为其提供安全 装备，导致很多工人患病。2010年3月，在“9‧11”事件过去近9年之后，这场诉讼旷日持久的司法协商终于有了结果，纽约市政府和1万名工人达成补偿 和解协议。根据协议，赔偿方案总额为6.57亿美元，其中每一名原告的基本赔偿款为3200美元。因在废墟上工作致癌者每人将得到100万美元补偿，而因病去世者的家属则能获得200万美元。除了赔偿，国会将进一步推动救助立法。由于这场诉讼耗时太长，巨额赔偿款的1/3都将作为律师的诉讼费用。</p>
-<p>再来看日本。官媒的消息，日本政府2012年7月20日公布了对福岛第一核电站事故疏散区居民的土地和房屋等不动产，家具、电器等家庭财物以及营业和工资收入的损失进行赔偿的标准。这是一份堪称经典的赔偿标准，值得近乎全文录在这里：</p>
-<p>在福岛核事故发生一年后，从2012年4月份开始，日本政府陆续解除了福岛第一核电站周边一些市町村设立的警戒区和计划疏散区，重新划分为居民可自由出入的疏散指示解除准备区、限制居住区和返回困难区。</p>
-<p>根据2012年7月20日公布的赔偿方案，限制居住区居民的回家标准年限被设定为解除疏散指示后3年、即事故发生后4年，赔偿标准为事故前不动产价值的约50%；疏散指示解除准备区以2年为标准年限，约赔偿33%。赔偿款将一次性支付给居民。</p>
-<p>如果超过标准年限，赔偿额每年还会上浮16.6%，一旦从解除疏散指示到居民回家花费时间超过5年，居民就可获得全额赔偿。而对返回困难区居民的不动产，则从一开始就全额赔偿。</p>
-<p>日本政府听取了地方政府的要求，决定房屋赔偿额可采用3种计算方式，分别是根据事故前固定资产税和建成年数计算、建造同等新建筑的市场行情、以及不动产评估师的评估，灾民可选择其中金额最高的。</p>
-<p>家具、电器等家庭财物的赔偿额根据家庭构成来确定。在限制居住区和疏散指示解除准备区，如果是父母和子女构成的4口之家，赔偿额一律约为505万日元（约合6.4万美元）。返回困难区则增加约30%，达到675万日元（约合8.6万美元）。</p>
-<p>另外，对营业损失，从事农林业的灾民将一次性获得相当于其5年收入的赔偿，其他行业的赔偿额相当于其3年收入，工薪阶层则可一次性获得相当于其两年工资收入的赔偿。其中，因核事故失业的人如在赔偿期间已重新就业，则将从赔偿金中扣除收入部分。</p>
-<p>由上述赔偿方案可见，损害赔偿采取就高不就低的赔偿方式，居民的房屋等损失并没有任何损毁，而是因为环境污染导致几年或者长久不能居住使用，于是就给了不同 程度的高额赔偿。报道中还有一句话“东京电力公司预定在本周末公布详细的赔偿计算模式。”可见赔偿主要是由福岛核泄露的第一责任主体东京电力公司来完成 的。这是因为东京电力公司家大业大，赔得起。如果在福岛核泄露事故中，东京电力公司赔到破产，灾民却没有得到应有的赔偿，那么，日本政府在赔偿问题上将负有不可推卸的责任。</p>
-<p>为什么现代国家的公民对于国家赔偿司空见惯并且毫无疑义？国家赔偿制度的建立主要原因在于公民权利意识和政府责任意识的觉醒。它对于平衡公权力和私权利冲突，保护公民权利，维护社会稳定发挥着重要作用。</p>
-<p>首先，它是个人安定生活之需要。人类之所以要建立国家，成立政府，就是因为个人和家庭太渺小了，很多时候无力抵御来自外界的天灾人祸。国家和政府则以众人拾 柴火焰高的原理，组成强大得多的集体力量。个人和家庭通过让渡部分自由和缴纳税收的形式，购买国家的保护。但是国家和政府机构也是由人组成的，也会犯错误，有时它犯的错误甚至很大，造成的损害也不是同时对全体民众造成损害，而是对部分特定或不特定民众造成损害。这个时候就要启动国家赔偿。这时，平均每个公民付出很少，但利益和权利、自由受损者却能得到最大的精神安慰和物质补偿。而这个利益和权利、自由受损者，是随机的，今天可能是别人，明天可能就是我们自己。</p>
-<p>特别要注意的是，国家赔偿一定是以物质赔偿的形式来进行的。无论对自由、财产还是对精神损害造成的赔偿，国家赔偿都是物质赔偿。</p>
-<p>国 家赔偿是人类几千年文明进步的结晶。是人类原子化的个体抱团取暖的结果。物质特别匮乏的原始社会，个人外出采摘和狩猎获得的一切，除非当场偷偷吃掉的部分，一切都要充公，是因为匮乏的时候多，丰收的时候少，每个人都不能保证自己每次劳动都有收获，为了避免大家饿死，被迫采取公有制。现代社会，物质极大丰 富，但人们仍然会遇到各种突如其来的灾难，但这时候，只需每个人让渡税收里微不足道的一点点，就能保受害者基本的权利和尊严。如果个人遇到了天灾人祸只能 由个人来承担一切，拒绝国家给予适当的救济和赔偿，那这样的社会，比原始社会还不如。</p>
-<p>第二，国家赔偿是社会稳定的需要。国家赔偿不仅仅是一种简单的物质赔偿，也是一种“社会安全阀”，能够有效平衡社会心理的失衡，防止突然陷于灾难和赤贫的人“破罐子破摔”、“无产者无恒心”，引发社会不安和动荡。</p>
-<p>第 三，国家赔偿是约束公权力的需要。国家赔偿详细规定了国家机关的赔偿责任，使其不敢肆意运用其自由裁量权或者滥用权力，限制国家权力，保护公民权利。虽然 政府的财政都来自公民的税收，但在平时运转中，它也是个相对独立的利益主体，财政约束以及官员的行政与刑事责任约束，对他们才是真正的责权利相当同时即时兑现的硬约束。</p>
-<p>我国从1995年1月1日起施行《中华人民共和国国家赔偿法》，虽未必如发达国家详尽和到位，但毕竟是向现代文明、法治迈出的重要一步。</p>
-<p>在天津滨海大爆炸事故中，第一责任人当然是瑞海公司。但本次爆炸造成的损害显然已经远远超出了瑞海公司的赔偿能力，仅预估的保险赔偿就达60亿元以上。</p>
-<p>而在政府监管的责任中，把相关责任官员所有的家产没收、责任人都杀头，也不足以弥补受害者的损失。因此，政府赔偿也应是题中之义。此次爆炸事故共导致1.7 万户居民房屋不同程度受损，其中5600户在距离爆炸核心区半径一公里的范围内。而按照国家安监部门2001年出台的《危险化学品经营企业开业条件和技术要求》，550平方米以上的大中型危险化学品仓库选址应与周围公共建筑物、交通干线（公路、铁路、水路）、工矿企业等距离至少保持1000米。不论先规划 住宅还是先规划危险品仓库，政府在规划、环评、安评中的重大渎职都难辞其咎。当然，国家也就是政府犯错误的时候，并不是你把它推翻了它就不再犯错误了，纠正错失、防止下一个错误继续发生，最好的办法还是建立健全专业的管理和责任机制，而国家赔偿制度，就是倒逼责任的根本途径。</p>
-<p>国家的健康与成熟取决于管理的健康与成熟，取决于公民的健康与成熟。一个好社会并不是天上掉下来的，更不是你今天推翻一个政府、明天打倒一个王朝就可以建立起来的，它是通过越来越严密、越来越完善的责、权、利机制，一点一点地慢慢积累和建立起来的。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%AB%A5%E5%A4%A7%E7%84%95%EF%BC%9A%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%94%E5%81%BF%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E8%81%8C%E8%83%BD/?category=18271" rel="tag">政府职能</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E5%B1%80/?category=18271" rel="tag">环保局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A3%E4%BB%BB/?category=18271" rel="tag">责任</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -796,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d12w7furh9oogn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dw3lj1nhviypl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -136,7 +136,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=18271" rel="tag">1984</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E8%88%8D/?category=18271" rel="tag">老舍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%BB%A7%E7%BB%AD%E6%9A%B4%E8%B7%8C-%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C%E7%A0%B4%E4%B8%89%E5%8D%83%E5%A4%A7%E5%85%B3/" target="cdt-mirror">BBC | 中国股市继续暴跌 上证指数跌破三千大关</a>
 </h2>
@@ -497,7 +497,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%A2%E6%96%B0%E5%91%A8%E5%88%8A-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%BA%BA%E7%A5%B8%E5%A7%8B%E6%9C%AB/" target="cdt-mirror">财新周刊 | 天津爆炸人祸始末</a>
 </h2>
@@ -755,7 +755,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfomhmmdj0vcy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2xtbzl6kartnd.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -765,5 +765,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
                 <td></td>
                 
         
-        <td><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d2xtbzl6kartnd.cloudfront.net">https://d2xtbzl6kartnd.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2xtbzl6kartnd.cloudfront.net">https://d2xtbzl6kartnd.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/></td>    </tr>
 </table>

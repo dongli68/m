@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du8icgyjx9uv4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3c82zw2x8e2t9.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E8%83%9C%E5%88%A9%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9C%9F%E9%97%B4%E5%B0%86%E5%AE%89%E6%8E%92%E4%B8%80/" target="cdt-mirror">【异闻观止】总局：纪念日期间将安排一大批抗战题材影视作品</a>
@@ -301,7 +301,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">大独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E7%B2%BE%E9%80%89/?category=18271" rel="tag">独裁精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2-%E6%B1%9F%E6%BE%A4%E6%B0%91%E9%A1%8C%E5%AD%97%E8%A2%AB%E7%A7%BB-%E3%80%8C%E5%8E%BB%E6%B1%9F%E5%8C%96%E3%80%8D%E7%82%B8%E4%BA%86%E9%8D%8B/" target="cdt-mirror">聯合新聞網 | 江澤民題字被移 「去江化」炸了鍋</a>
 </h2>
@@ -776,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dw3lj1nhviypl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgs00pbm9u9t8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -786,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgs00pbm9u9t8.cloudfront.net">https://dgs00pbm9u9t8.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dw3lj1nhviypl.cloudfront.net">https://dw3lj1nhviypl.cloudfront.net</a><br/><a href="https://du8icgyjx9uv4.cloudfront.net">https://du8icgyjx9uv4.cloudfront.net</a><br/><a href="https://d3c82zw2x8e2t9.cloudfront.net">https://d3c82zw2x8e2t9.cloudfront.net</a><br/></td>    </tr>
 </table>

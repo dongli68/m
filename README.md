@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dwdmei8wi4jmv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E5%B7%B2%E8%B5%B0%E5%88%B0%E5%B0%BD%E5%A4%B4/" target="cdt-mirror">金融时报 | 中国模式已走到尽头</a>
@@ -796,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dwdmei8wi4jmv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafneqb651r5p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>

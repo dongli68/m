@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1851x05i0sm75.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d1851x05i0sm75.cloudfront.net">https://d1851x05i0sm75.cloudfront.net</a><br/><a href="https://d5aqq7t3c4gm2.cloudfront.net">https://d5aqq7t3c4gm2.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d5aqq7t3c4gm2.cloudfront.net">https://d5aqq7t3c4gm2.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A4%9A%E4%BA%8B%E4%B9%8B%E7%A7%8B%E4%BB%8D%E9%98%BB%E6%AD%A2%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">博谈网｜多事之秋仍阻止不了中国阅兵</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11148-1024x768.jpg" alt="111" width="551" height="413"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150823143949_6429.jpg@640w_1l_1c_0i_80q_1x_1e.jpg" alt="20150823143949_6429.jpg@640w_1l_1c_0i_80q_1x_1e" width="550" height="310"></p>
+<p>为9月3日的阅兵仪式进行阅兵演练</p>
+<p>（博谈网记者苏智敏报道）天津大爆炸死伤惨重，许多问题未能解决，然而这仍无法阻止中国为阅兵的全力准备，一连串为求稳定的扰民行动，引发民众抱怨。</p>
+<p>阅兵管制像“鬼子进城”</p>
+<p>中国政府在8月22日夜间至23日上午，为9月3日的阅兵仪式在北京天安门地区及长安街沿线举行专项演练。</p>
+<p>这项全流程的演练，出动1万多名官兵、500多台装备、近200架飞机演练阅兵式和分列式；国旗护卫队，解放军联合军乐团、合唱团，礼炮分队，及负责大会报道的中央相关新闻单位也参加这次演练活动。</p>
+<p>演练结束后，《新华网》报导：“参加演练的人员精神饱满，所有演练过程顺利有序，各项演练取得预期效果，为进一步做好纪念大会的各项组织工作积累了经验。3.5万余名各界观众现场观看了演练。”</p>
+<p>中国媒体发布了一系列的演练照片及动态图片，整齐划一的画面可说是气势惊人。</p>
+<p>《新华网》还称：“为最大限度减少对市民工作生活的影响，演练活动安排在周末进行，并提前发布公告，科学安排交通运输，保障城市正常运行。广大市民对专项演练表示充分理解，并给予积极支持。”但市民显然不这么认为，已有许多民众在网上抱怨因阅兵管制，造成生活上的各种不便。</p>
+<p>北京市多个路段实施交通管制，戒严、限行、封站、查证，公共交通负荷不了庞大的上下班人潮，民众苦不堪言。加上商舖被迫歇业，沿线居民被迫备粮、备水，大叹更像“鬼子进城”。</p>
+<p>自由微博一则被新浪微博屏蔽的消息，网友称有朋友晚上出门遇到路口被管制而回不了家，另一位朋友则是在路口碰到阅兵彩排，只能步行绕远路回家：“争取天亮能到”。</p>
+<p>民众纷纷抱怨就算熬过彩排，正式阅兵还要再受罪。</p>
+<p>极权制度的写照</p>
+<p>阅兵对中国来说事关国家颜面，在阅兵训练上十分严格，光是视觉整齐上，就要求单排面达到头线、手线、枪线、腿线、胸线、帽线的六线合一，方队达到横线、竖线和斜线分明的要求。</p>
+<p>只是为了阅兵而进行的这一切，民众不以为然。有网友指出阅兵训练是精益求精，及各种防范措施的提前准备与落实，天津爆炸却是事前管理和事后处理的粗糙混乱，是极权制度最好的写照。</p>
+<p>微博认证为“中央美术学院教师”的“松松_lausson”发表数张也是极权制度的纳粹阅兵照片，对照片中整齐划一的阅兵阵容，许多网友留言说历史总是惊人地相似。但该条微博目前已被删除。</p>
+<p>多事之秋</p>
+<p>在阅兵前夕，尽管中国政府透过一连串的管制措施力保稳定，但事情仍不断发生。</p>
+<p>例如天津大爆炸，这场事故引爆出一连串的问题与民怨，而且至今真实死亡人数还是个谜。另外，有灾民在微博上说：“小区居民大家准备聘请律师进行合理合法维权谈判，但是联系了几位律师，都不愿或是不敢接这件事情，求助网上，有没有愿意帮助我们的律师朋友？”结果网友几乎都回复，敢死磕的律师都被关在牢里了。</p>
+<p>22日再传出装有己二腈的山东桓台润兴化工厂爆炸，空中漂浮着不明物体。据《新华社》报导，事故造成1死9伤，现场监测，暂未检出特征污染物。但许多民众留言表示不相信。</p>
+<p>现在南北韩又局势紧张，中国的“小老弟”朝鲜称不惜全面开战，针对中国放话表示，过去数十年都按照中方的希望保持克制，现在再说克制之类的话，都将无益于局势控制。</p>
+<p>加上已持续好一阵子的股市震荡，中国迎来多事之秋。</p>
+<p>虽然阅兵仪式能展现一个国家的军事力量，但表面强盛不见得内在强壮。苏联就是个例子，1990年11月7日苏联最后一次盛大阅兵，13个月之后，苏联解体。</p>
+<p>这次的阅兵演练，有一幕是装备方队开着数台坦克进场，在1989年也是数台坦克开进天安门，但那时是前来镇压平民。强大的武力能暂时压下民怨，维持稳定，但历史已证明，这方法不能长久。</p>
+<p>随着9月3日的逼进，中共体制从上到下的每个人想必都要绷紧神经。</p>
+<div>遍地“朝阳群众”</div>
+<div></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Clipboard41_1.jpg" alt="Clipboard41_1" width="548" height="308"></div>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 药不能停 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A4%9A%E4%BA%8B%E4%B9%8B%E7%A7%8B%E4%BB%8D%E9%98%BB%E6%AD%A2%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A9%8B%EF%BC%9A%E3%80%8C%E4%B9%9D%E4%B8%89%E3%80%8D%E9%96%B1%E5%85%B5%E4%B8%8D%E5%8F%AF%E7%BC%BA%E4%BA%86%E6%AF%9B%E5%B0%91%E5%B0%87/" target="cdt-mirror">东网｜南橋：「九三」閱兵不可缺了毛少將</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150824000317791-0824_05411_001_01p.jpg" alt="bkncn-20150824000317791-0824_05411_001_01p" width="549" height="392"></p>
@@ -71,6 +112,35 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2-%E6%B1%9F%E6%BE%A4%E6%B0%91%E9%A1%8C%E5%AD%97%E8%A2%AB%E7%A7%BB-%E3%80%8C%E5%8E%BB%E6%B1%9F%E5%8C%96%E3%80%8D%E7%82%B8%E4%BA%86%E9%8D%8B/" target="cdt-mirror">聯合新聞網 | 江澤民題字被移 「去江化」炸了鍋</a>
+</h2>
+<p><div>
+<div>
+<h3>2015-08-25 03:19:54 世界日報 中國新聞組／北京24日電</h3>
+<p> </p>
+</div>
+<div>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/photo.php_.jpg" alt="photo.php" width="551" height="419"></p>
+<h4>中共中央黨校大院南門草坪，原先安放的由江澤民題寫校名巨石，已被移走。（取材自微博） 許靜予</h4>
+<p>中共元老江澤民近日又成熱議焦點。繼本月13日網曝上海空軍政治學院一座大樓拿下江澤民的題字後，不到十天時間，中共中央黨校由江澤民題字的巨石，也被移除。</p>
+</div>
+<p>中廣網21日刊出簡短消息稱，北京海淀區大有莊100號中共中央黨校校門前題有「中共中央黨校」的巨石已經被移走，大型施工機械正在現場施工，幾名工人在整理裸露的地面。由於巨石上「中共中央黨校」六個大字，是江澤民題字，如今巨石被移除，海外輿論如炸鍋般紛紛轉發並據此揣測江澤民境遇不佳。</p>
+<p>中共官場向有去除落馬官員題詞的傳統，例如中越邊境老山將軍林的題字石碑中，原有郭伯雄和徐才厚親手種植松樹，樹旁還立有石碑記載郭、徐所植。當二人落馬之後，石碑跟著消失。政法王周永康失勢後，其在母校中國石油大學內的題字也是同樣下場。</p>
+<p>繼中央黨校搬移巨石，加上稍早上海空軍政治學院一座大樓以及301醫院大樓上江澤民題字亦遭拆除，一波波拆除動作，敏感人士嗅出不尋常氛圍，輿論出現「去江化」負面解讀，分析起來煞有介事。軍中大老虎徐才厚、郭伯雄二人都是江的愛將，而本月初澎湃新聞報導北戴河新聞時，細數曾來此避暑的中共領導人，在7000字長文裡卻不見江澤民。人民日報發表《辯證看待人走茶涼》文章，新京報接續高調評論不干政前領導人鄧小平、萬里、田紀雲、朱鎔基及胡錦濤，同樣避而不提江澤民。諸多信息似乎都指向對江不利。</p>
+<p>不過，也有分析認為拆除題字之舉，可能都是一種正常的工程操作。畢竟江澤民在任內或退休之後，巡視各地都會題詞，多年之後，出現一些改動亦屬正常；那些擴張解釋為所謂「去江化」，並沒有明確有力論據支撐。</p>
+<p>多維新聞稱，中央黨校移走巨石是該校裝修工程一部分，江澤民題詞巨石是移到校門內；並非外界盛傳的「去江化」，而是以豎立馬恩毛鄧，以及焦裕祿、谷文昌等人石像，藉以突出強調共產黨紅色傳統。</p>
+<p>中央黨校網23日刊登「夏日校園別樣美」文章，特別指出：「原來放在校門外大路邊的校名碑，現在移放在校門內，在綠草冬青烘托下，與高大的主樓建築互為映襯，自然而莊重。」藉以凸顯江題字巨石並非「拆除」，而是搬到校內，暗指外界諸多揣測均非事實。</p>
+</div>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2-%E6%B1%9F%E6%BE%A4%E6%B0%91%E9%A1%8C%E5%AD%97%E8%A2%AB%E7%A7%BB-%E3%80%8C%E5%8E%BB%E6%B1%9F%E5%8C%96%E3%80%8D%E7%82%B8%E4%BA%86%E9%8D%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1/?category=18271" rel="tag">中共中央党校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1/?category=18271" rel="tag">中央党校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%A8%E7%BD%91%E4%B8%80%E7%BA%A7%E7%AE%A1%E6%8E%A7%E6%89%80%E6%9C%89%E9%98%85%E5%85%B5%E7%9B%B8%E5%85%B3%E6%96%B0%E9%97%BB%E8%B7%9F%E5%B8%96%E8%AF%84/" target="cdt-mirror">【真理部】全网一级管控所有阅兵相关新闻跟帖评论</a>
 </h2>
@@ -710,149 +780,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BB%BF%E8%89%B2%E5%92%8C%E5%B9%B3%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%91%A8%E8%BE%B9%E5%B1%85%E6%B0%91%E5%8C%BA%E5%8F%8A%E6%B5%B7%E6%B2%B3%E8%A2%AB%E6%A3%80%E5%87%BA%E5%BE%AE/" target="cdt-mirror">绿色和平：爆炸核心区周边居民区及海河被检出微量氰化物</a>
-</h2>
-<p><p><em>原标题：绿色和平二赴天津独立检测水质 爆炸核心区周边居民区及海河被检出微量氰化物</em></p>
-<p><strong>天津，</strong><strong>201</strong><strong>5年8月21日</strong>——绿色和平快速反应小组于20日进入天津爆炸事故现场3公里内的爆炸核心区，对多处居民楼周边水域进行检测，并对被曝发现大量死鱼的海河河畔进行氰化物检测。结果发现，居民区某些水体及海河水中含有微量氰化物。</p>
-<p>8月20日，绿色和平快速反应小组成员在穿戴好个人防护装备后，先后进入滨海新区5公里、3公里、1公里以内的爆炸点周边区域，对共计七个地点进行了水质采集和氰化物浓度快速检测。水质检测地点包括：</p>
-<ol><li>曾在雨后出现白色泡沫的街道附近居民区——美华酒店旁边的御景园邸景观水池。</li>
-<li>距离爆炸核心区5公里的大片水域——滨海国际会议中心广场的景观湖。</li>
-<li>爆炸核心区内部三个居民区——万科金域蓝湾景观池、天滨公寓马路两侧积水滩、滨港公寓附近入海明渠南北两段水流。</li>
-<li>当日出现大量死鱼的天津海河水域——渤海石油路、闸东路交汇海滩。</li>
-</ol><p>绿色和平采用的采样试剂工具包括：</p>
-<p>试剂一：日本品牌，型号WAK-CN：检测范围 0.02以下-2mg/L。</p>
-<p>试剂二：德国品牌，型号VisocolorECO Cyanid：检测范围 0.01-0.20mg/L。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/821-2-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/821-2-1.jpg" alt="821-2-1" width="575" height=""></a><br><em>（2015年8月20日，天津塘沽。绿色和平到达媒体提到“有白色泡沫产生”的金海路美华酒店附近，御景园邸景观水池快速检测氰化物。 ©Greenpeace）</em></p>
-<p><strong>采样结果汇总：</strong></p>
-<table width="561"><tbody><tr><td width="142"><strong>取样点</strong></td>
-<td width="85"><strong>距离爆炸核心区的距离</strong></td>
-<td width="102"><strong>检测时间</strong></td>
-<td width="232"><strong>检测结果</strong></td>
-</tr><tr><td width="142"><strong>御景园邸</strong></td>
-<td width="85">4.7公里</td>
-<td width="102">05:50</td>
-<td width="232">试剂未检测出氰化物</td>
-</tr><tr><td width="142"><strong>滨海国际会议中心</strong></td>
-<td width="85">1.8公里</td>
-<td width="102">07:35</td>
-<td width="232">试剂未检测出氰化物</td>
-</tr><tr><td width="142"><strong>万科金域蓝湾</strong></td>
-<td width="85">1.3公里</td>
-<td width="102">09:40</td>
-<td width="232">试剂未检测出氰化物</td>
-</tr><tr><td width="142"><strong>天滨公寓周边</strong></td>
-<td width="85">0.9公里</td>
-<td width="102">10:50</td>
-<td width="232">试剂一：快速检测后颜色由原液的略黄色变为粉红色，与比色卡比对后，无法得出参考数据；试剂二：进一步取样检测后，比对比色卡，氰化物污染浓度约为0.01-0.02mg/L；再次在同一水滩和附近类似水滩两次复核后，结论相同。</td>
-</tr><tr><td width="142"><strong>港滨公寓附近</strong><strong>北段入海明渠</strong></td>
-<td width="85">2.2公里</td>
-<td width="102">15:00</td>
-<td width="232">水样检出氰化物污染浓度约在 0.01mg/L；</td>
-</tr><tr><td width="142"><strong>滨港公寓附近</strong><strong>南段入海明渠</strong></td>
-<td width="85">1.4公里</td>
-<td width="102">15:40</td>
-<td width="232">试剂未检测出氰化物</td>
-</tr><tr><td width="142"><strong>海河的入海口</strong></td>
-<td width="85">6.6公里</td>
-<td width="102">17:35</td>
-<td width="232">水样检出氰化物污染浓度约在0.01-0.02mg/L；</td>
-</tr></tbody></table><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/821-2-2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/821-2-2.jpg" alt="821-2-2" width="575" height=""></a><br><em>（2015年8月20日，天津塘沽。有媒体报道，距离核心爆炸点6公里处的海河闸岸附近出现大量死鱼现象。快速反应小组赶到现场采水样，现场已聚集很多记者拍摄，并有记者愿意跟踪获悉检测结果。©Greenpeace）</em></p>
-<p>绿色和平快速反应小组在漂浮着大量死鱼的海河入海口检测出微量氰化物后，已立刻对该水域进行了水体采样，并送往第三方实验室进行详细化验，结果将在下周公布。</p>
-<p>绿色和平受到仪器设备短缺的限制，此次只能对上述有限地区的氰化物进行检测，未能对其他具有潜在环境风险的污染物进行评测，因此上述检测结果不能对目前天津爆炸事故对当地的环境影响给出全面的评估。</p>
-<p><strong>绿色和平快速反应小组在采样期间所穿戴的防护设备有：</strong></p>
-<table width="568"><tbody><tr><td width="177"><strong>防护装备英文名称</strong></td>
-<td width="201"><strong>防护装备中文名称</strong></td>
-<td width="189"><strong>主要功能</strong></td>
-</tr><tr><td width="177"><strong>Gas detector</strong></td>
-<td width="201">气体个人报警检测器</td>
-<td width="189">探测SO2气体</td>
-</tr><tr><td width="177"><strong>Half-face mask with filters</strong></td>
-<td width="201">带滤芯半面罩(滤芯3M 6057)</td>
-<td width="189">6057功能：有机蒸汽、氯气、氯化氢、二氧化硫、硫化氢、氰化氢(配合全面具在低浓度中有限制使用)</td>
-</tr><tr><td width="177"><strong>Full face mask with filters</strong></td>
-<td width="201">带滤芯全面罩(滤芯3M 6057)</td>
-<td width="189">6057功能：有机蒸汽、氯气、氯化氢、二氧化硫、硫化氢、氰化氢(配合全面具在低浓度中有限制使用)</td>
-</tr><tr><td width="177"><strong>UVEX dust mask</strong></td>
-<td width="201">UVEX一次性口罩</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Protective goggles</strong></td>
-<td width="201">护目镜</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Disposable gloves</strong></td>
-<td width="201">一次性手套</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Butyl gloves</strong></td>
-<td width="201">非一次丁基合成橡胶性手套</td>
-<td width="189">防酸碱</td>
-</tr><tr><td width="177"><strong>Rubber boots</strong></td>
-<td width="201">长筒胶鞋</td>
-<td width="189">防酸碱</td>
-</tr><tr><td width="177"><strong>C1 PPE suit</strong></td>
-<td width="201">可抛弃式防化服</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Tyvek suit</strong></td>
-<td width="201">一次性防化服</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Duct tape</strong></td>
-<td width="201">灰色布基胶带</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Wind indicator</strong></td>
-<td width="201">风向仪</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Wind velocity indicator</strong></td>
-<td width="201">风速仪</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Hydrogen Peroxide Solution</strong></td>
-<td width="201">双氧水</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>Cooling jacket</strong></td>
-<td width="201">冷却工作服</td>
-<td width="189">配冰袋</td>
-</tr><tr><td width="177"><strong>disposable shoe covers</strong></td>
-<td width="201">一次性鞋套</td>
-<td width="189"></td>
-</tr><tr><td width="177"><strong>work jacket</strong></td>
-<td width="201">现场工作服</td>
-<td width="189">长衣长裤</td>
-</tr></tbody></table><p>在采样的过程中，天津滨海新区的居民为绿色和平提供了大量帮助。同时我们也发现，不仅许多滨海新区居民没有佩戴任何防护装备，即使是在现场维持秩序 的安保人员，也缺乏数量足够的防护装备。绿色和平建议所有长期停留在爆炸中心周边的人群，请务必在保证自身健康安全的前提下工作和生活。</p>
-<p>天津爆炸发生之后，绿色和平8月16日公布了第一次赴现场检测的结果。此次是爆炸后绿色和平第二次来自现场的独立检测。基于两次独立检测及现场观 察，绿色和平呼吁：政府部门尽快在居民区展开全面检测，将爆炸事故的环境危害降到最低，并及时、全面地向周边居民公开环境检测结果。同时，绿色和平建议政 府部门持续监测本次事故对环境的长期影响，将检测评估等信息及时向公众进行披露，并采取措施保护公众健康。</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%EF%BC%9A%E6%AD%BB%E9%B1%BC%E6%B2%B3%E6%AE%B5%E6%9C%AA%E6%A3%80%E5%87%BA%E6%B0%B0%E5%8C%96/">凤凰网｜天津环境监测中心：死鱼河段未检出氰化物</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E6%B4%A5%E6%B5%B7%E6%B2%B3%E5%8D%95%E8%BA%AB%E9%B1%BC%E6%BA%BA%E6%B0%B4%E7%BE%A4%E4%BD%93%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6/">【网络民议】天津海河单身鱼溺水群体自杀事件</a></li>
-</ul></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BB%BF%E8%89%B2%E5%92%8C%E5%B9%B3%EF%BC%9A%E7%88%86%E7%82%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%91%A8%E8%BE%B9%E5%B1%85%E6%B0%91%E5%8C%BA%E5%8F%8A%E6%B5%B7%E6%B2%B3%E8%A2%AB%E6%A3%80%E5%87%BA%E5%BE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B0%E5%8C%96%E7%89%A9/?category=18271" rel="tag">氰化物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%BF%E8%89%B2%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">绿色和平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%91%A8%E9%94%8B%E9%94%81%E5%9B%9E%E5%BA%94%E7%8E%AF%E6%97%B6%E6%88%91%E5%B0%B1%E6%98%AF%E8%A6%81%E5%83%8F%E7%9F%B3%E5%A4%B4%E8%88%AC%E6%8B%92%E7%A7%BB/" target="cdt-mirror">美国之音｜周锋锁回应环时:我就是要像石头般拒移半步</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/FE969B55-3755-4F42-AFB6-06F80974032D_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/FE969B55-3755-4F42-AFB6-06F80974032D_w640_r1_s.jpg" alt="周锋锁接受美国之音采访" width="575" height=""></a><p>周锋锁接受美国之音采访</p></div>
-<p>在美国之音采访六四学生领袖周锋锁后，中国官媒《人民日报》旗下的《环球时报》为此发表评论员文章，题为《26年潮来潮去，他们像沉入河底的石头》。</p>
-<p>评论文章标题称周锋锁为“沉入河底的石头”，文章中更是称其为“化石”。这篇署名为单仁平的文章说，周锋锁等“美国八九一代们”不能进入“美国主流”，活得跟流亡者似的。</p>
-<p>周锋锁回应说，他愿意为中国的民主和自由作一块石头。</p>
-<p>他对美国之音说：“能够像石头一样，在中国发动的邪恶浪潮面前，‘拒绝移动半步’，这非常的好。”</p>
-<p>这篇文章虽然针对周锋锁接受美国之音采访时发表的评论，但全文没有提及任何采访内容。周锋锁说：“我想，他们是不是能敢于将采访的内容发出呢？这样我们可以有一个公开的辩论。”</p>
-<p>《环时》文章中提到，“周锋锁依然在政治上跟中国政府纠缠，发起‘人道中国’组织，担任‘中国民主教育基金会’会长的工作。“</p>
-<p>“人道中国”是周锋锁等人在2007年联合建立的为中国因社会、政治和宗教原因遭受不公义对待的人提供人道支持和援助的组织。而“中国民主教育基金会”则是组织促进中国民主法治、维护人权自由的教育活动的机构，总部在美国加州。</p>
-<p>周锋锁说，他非常感谢中国官媒提到了他在美国所做的推进民主和人权的工作，因为这些工作是无法在中国公开宣传的。</p>
-<p>他说：“我很为这些事情自豪。美国社会给我提供了自由表达的空间，我能做这些事情，非常感谢这里给我的这个机会。要说不得志的地方，我觉得是做得还不够好。“</p>
-<p>《环时》文章没有使用“六四”这个敏感词，但称周锋锁在“当时选择了逃跑”。而周锋锁告诉美国之音，他当年是被通缉并抓捕的，并不是逃跑。</p>
-<p>周锋锁说：“我是在中国监狱作了一年的牢，后来他们用流放的方式，让我在一个偏远的地方呆了一年。此后一直在国内被他们跟踪，骚扰，监视，没有办法有正常的生活。”</p>
-<p>这篇文章说，留在中国的绝大多数“八九一代”已经“刷新了对那段往事的认识”，他们在各行各业释放活力和能量，其“集体胸怀和格局”甩周锋锁好几条街，还劝周锋锁做美国人要“做的有尊严些”。</p>
-<p>对此，周锋锁说，在中国的这代人是被中共压制的奴隶，没有发出声音的机会。很多人八九年的一切还有强烈的认同，只是不敢说而已。他还说，争取民主和自由是要付出代价的。他对国内的犬儒气氛嗤之以鼻。</p>
-<p>他说：“我的尊严就在于挑战这样一个暴政。就在于维护我们的良知。在于继续关注所有中国国内在反抗的人们，去关注八九民运和六四屠杀的真相，去关注所有受害者。”</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%91%A8%E9%94%8B%E9%94%81%E5%9B%9E%E5%BA%94%E7%8E%AF%E6%97%B6%E6%88%91%E5%B0%B1%E6%98%AF%E8%A6%81%E5%83%8F%E7%9F%B3%E5%A4%B4%E8%88%AC%E6%8B%92%E7%A7%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">八九学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E4%BB%81%E5%B9%B3/?category=18271" rel="tag">单仁平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E9%94%8B%E9%94%81/?category=18271" rel="tag">周锋锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -874,5 +801,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
                 <td></td>
                 
         
-        <td><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d5aqq7t3c4gm2.cloudfront.net">https://d5aqq7t3c4gm2.cloudfront.net</a><br/><a href="https://d1851x05i0sm75.cloudfront.net">https://d1851x05i0sm75.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d80lu5nscb1bf.cloudfront.net">https://d80lu5nscb1bf.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d1bbj5vvkc28ov.cloudfront.net">https://d1bbj5vvkc28ov.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
 </table>

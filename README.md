@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ap4h3iyugwjt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d12w7furh9oogn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,126 @@
                 <td></td>
                 
         
-        <td><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://daddbu85r22n2.cloudfront.net">https://daddbu85r22n2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/" target="cdt-mirror">自由亚洲｜敏感期将近 进出新疆包裹实名西藏部分地区停邮</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/29ae67ed-6996-4237-bc9e-7418758fbefc.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/29ae67ed-6996-4237-bc9e-7418758fbefc.jpeg" alt="中国邮政局等单位发岀《关于加强抗战胜利70周年纪念活动等重大活动期间寄递物品安全管理工作的通告》(网页照)" width="500" height=""></a><p>中国邮政局等单位发岀《关于加强抗战胜利70周年纪念活动等重大活动期间寄递物品安全管理工作的通告》(网页照)</p></div>
+<p>随着9月3日大阅兵的临近，及西藏自治区成立50周年和新疆自治区成立60周年将至，中国当局对少数民族地区的保安升级，西藏、新疆与北京一样，严加管控包裹邮寄，并施行实名身份证信息登记。有快递公司负责人向本台透露，西藏部分地区停止邮寄包裹。</p>
+<p>中国将于9月3日举行抗战胜利纪念阅兵，为确保届时万无一失，不仅在北京推出一系列保安措施，还加强了对少数民族地区的控制。再加上9月1日的西藏自治区成立50周年和10月1日的新疆自治区成立60周年两大重要国家级庆典，新疆和西藏也成为了重点监控区域。</p>
+<p>据官媒天山网报道，自8月23日起，新疆实施收寄包裹实名制，寄件方和收件方均要登记身份信息。</p>
+<p>近日，中国邮政局发岀《关于加强抗战胜利70周年纪念活动等重大活动期间寄递物品安全管理工作的通告》要求：在9月15日至10月3日 期间，邮件、快件实行实名身份证登记才能收寄。</p>
+<p>实际上，在新疆，快递实名制自去年就已执行，但针对的只是收件人实名，而近日出于阅兵维稳的考虑，对于寄件人也要求实名。</p>
+<p>市民普遍担心个人信息泄露。有网民表示：“快递都是临时工，想要泄露你的信息易如反掌。”</p>
+<p>也有网民对当局在北京阅兵，却加强了对新疆的严控表示不解。</p>
+<p>网民“老王司令”问到：“发往新疆的快递也执行实名制了，究竟敏感的是什么？”</p>
+<p>乌鲁木齐顺丰快递一网点的负责人刘先生周二接受本台查询时证实了事件，并透露西藏部分地区停邮。</p>
+<p>刘先生：“北京安检级别很高，包括天津，天津也已经不让进货了，北京这边想走的话，总部对我们有要求，必须要发货实名制，因为阅兵，开会三令五申强调这个事。”</p>
+<p>记者：“万一在这个过程中泄露个人隐私怎么办？”</p>
+<p>刘先生：“您的担心我理解，但是这是国家邮政局对我们的规定。而西藏（的货）我们一般不接收了，出事的几率大，所以我们不接收了。”</p>
+<p>据了解，北京最快9月5日恢复正常收寄快递，但刘先生表示，由于10月是新疆自治区成立60周年庆典，新疆快递实名制至少会持续到10月底。</p>
+<p>记者：“到什么时候？”</p>
+<p>刘先生：“具体情况的时间没有通知，反正我们签的责任书上写着保守估计两个月，阅兵的部队和武器撤离也需要时间。我们签的安全承诺协议书上也给我们说的差不多这个时间，但具体哪一天不知道，没有通知。安全承诺协议书是我们以快递公司的身份和国家邮政总局签的。”</p>
+<p>据媒体报道，阅兵前夕，邮政部门要与辖区快递公司逐一签订“抗战胜利70周年纪念活动安全保障承诺书”，企业内部也要层层签订承诺书。</p>
+<p>总部在德国的世界维吾尔代表大会发言人迪里夏提周二对本台记者说：“中国采取实名制无非加强针对维吾尔人区域的控制，进出的包裹的严格的审查，除了监控以外，甚至把发件人和收件人的信息进行汇总，利用这些措施加强防范。我认为当局患了高度恐慌症，实际上由于自身这种敌对性的宣传和煽动引发自身恐惧，而因此采取一些极端、令人无法接受的政策。实际上只能导致当地局势的恶化；另一方面也体现出，中国在当地统治的危机，甚至也印证当地的确地局势动荡和一触即发的不安现状。”</p>
+<p>记者在网络上看到，有不少在新疆售卖土特产的淘宝商贩发微博吐槽生意受到影响，但很快就被被删。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 11分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E6%B8%A9%E6%9F%94%EF%BC%8C%E8%BF%99%E6%A0%B7%E7%9A%84%E5%A5%B3%E5%85%B5%E8%B0%B7%E4%BF%8A%E5%B1%B1%E4%BB%AC/" target="cdt-mirror">【网络民议】一点也不温柔，这样的女兵谷俊山们不喜欢</a>
+</h2>
+<p><p>【编者注】游骑兵训练普遍被认为是美国军队所有军种中最艰难的，以前从未有女性完成过。而作为历史上首批撑过整期训练并成功通过测试的女性，她们在美国本土也并非没有受到质疑（大男子主义并非中国独有）。网上有一些人对她们的能力表示怀疑，认为这些女性士兵是因为区别对待（优待）而通过测试的。负责陆军游骑兵训练学校的Jim Hathaway少校最终忍无可忍，<a href="http://www.stripes.com/news/army/ranger-school-official-combats-rumors-about-how-women-passed-training-1.363823">在Facebook上作出了9点回应</a>。</p>
+<p>摘录其中最后一段：</p>
+<blockquote><p>9. The final comment I will say is this. No matter what we at Ranger School say the non-believers will still be non-believers. We could have invited each of you to guest walk the entire course, and you would still not believe, we could have video recorded every patrol and you would still say that we “gave” it away. Nothing we say will change your opinion. I and the rest of our cadre are proud of the conduct of our soldiers, NCOs and officers, they took the mission assigned and performed to the Ranger Standard. Rangers Lead the Way!!!!!</p>
+<p>（9. 我最后要说的是，无论我们游骑兵学校怎么说，那些不信的人终究是不会相信的。我们甚至可以邀请你们来参观整期课程，你们还是不会信；我们可以录下每次模拟训练的视频，你们仍然会说我们优待她们了。无论我们说什么都无法改变你们的观点。我和其他的训练官都为我们的士兵、军士、和军官们感到骄傲。他们接受了任务分配，并且按照游骑兵的标准完成。游骑兵是最棒的！——编译：中国数字时代编辑）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%99%86%E5%86%9B%E6%B8%B8%E9%AA%91%E5%85%B52.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%99%86%E5%86%9B%E6%B8%B8%E9%AA%91%E5%85%B52.png" alt="陆军游骑兵2" width="500" height="583"></a></p>
+<blockquote><p><a href="http://weibo.com/1743951792/CxCoCk1e7">@美国驻华大使馆</a>：克里斯汀·格里斯特上尉和沙耶·哈弗中尉接受了美国陆军游骑兵八个星期艰苦训练。她们成为通过这项被视作美军最严苛的领导能力训练的第一批游骑兵女队员。在被问及是否产生过放弃念头时，格里斯特说：“我的确有一些低潮的时刻…但从来没真正觉得难到了值得退出训练的程度。”</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@大尸凶的漫画：这种女兵也就会打打仗了</p>
+<p><a href="http://weibo.com/3807590591" target="_blank">情感先生丑丑</a>：敢比谁白么？敢比胸大么？敢比唱歌跳舞么？敢比阅兵走方陈么？敢比陪首长喝茅台么？敢比谁摸过首长的枪么？看吓不死你个美帝的！哼！<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"></p>
+<p><a href="http://weibo.com/guangzhoufeizhu" target="_blank">GZ陳國樑</a>：我们有每天排练队列10小时的女兵<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
+<p><a href="http://weibo.com/1075907155" target="_blank">书写际遇</a>：那年还没换届，一个韩国人问：听说你们下一任的夫人是唱歌的？我说是的。她一脸不可思议，我知道她误会成娱乐圈明星了，于是向她解释：@是部队里唱歌的，不是娱乐明星。她又问：部队里为什么要有唱歌的？——我咋解释呢？<img title="[思考]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]"><img title="[思考]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]"></p>
+<p>@玄鸟摄影：能放倒将军的女兵才是好模特！</p>
+<p>@慕道2012：脸没我军白，胸没我军的大，又不好踢正步，不会叠豆腐块，不会三陪，只会打仗，你军有什么好吹的</p>
+<p>@___wong：她是美军艺术学院的吗？是舞蹈学院艺术系的主任吗？有三八红旗手的称号吗？她是政治上的明白人吗。胸围够大吗？身高到170了吗？正步踢的齐吗？哼，这些都不是，当什么女兵。</p>
+<p>@百变金刚999一世：宋将军快出来吓吓她们！</p>
+<p><a href="http://weibo.com/2924696985" target="_blank">手上刀</a>：你们这制度太落后啊，看我们这只要唱两首歌就可以当上将军了！社会主义果然比资本主义好吧！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@循环果报：你们阅兵阅不过中国。走正步能走死你们，我们的女兵挺胸能挺死你们，@人民日报 @环球时报 说是吧。</p>
+<p>@润中老李：一点也不温柔，好像还有点强悍，这样的女兵谷俊山们不喜欢！</p>
+<p>@陶良保：叠被子估计不行，陪领导恐怕没门！</p>
+<p>@风一样的男子不是小汪：为什么不穿裙子，为什么没有傲人的胸？</p>
+<p>@肖克婶的九叔_卍解：我们唱歌~我们跳舞~我们的女兵都是大模特~</p>
+<p>@两个阳台：请祖国派出178cm的女兵参加美军考核，扬我国威。</p>
+<p>@五花的大厂：不要发这种不合时宜的微博。</p>
+<p>@zhychen1111：美帝又来寻衅滋事了。看看人家苦练在练什么，咱们苦练在练什么？</p>
+<p>@推翻长城：@军报记者 你们这些五毛啊，别总想搞个大新闻，然后把党国吹嘘一番，但你们毕竟还图样，吹嘘方式还是图森破。美国的女游骑兵，水平不知道比你们高到哪里去了，我跟她们谈笑风声！但你们有个好处，就是走起正步比谁都标准，这是谁都比不了的。</p>
+<p>@一杯咖啡就瞌睡：这个有句说句，论吃苦和训练，解放军女兵应该也有拿得出手的。中美军人的最大区别不在单兵能力，而在实战经验和政治素质（谁指挥枪）。</p>
+<p>@若存若在：我国人民在评论里充分的表达了我们的蔑视，这场不见硝烟的舆论战，让美帝深深的陷入了人民的海洋，请美帝收起你们的那一套吧，作为女兵没有女人的样子，你们就别想获得人民的肯定。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.42.34-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.42.34-AM.png" alt="Screen Shot 2015-08-25 at 1.42.34 AM" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.41.28-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.41.28-AM.png" alt="Screen Shot 2015-08-25 at 1.41.28 AM" width="500" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E6%B8%A9%E6%9F%94%EF%BC%8C%E8%BF%99%E6%A0%B7%E7%9A%84%E5%A5%B3%E5%85%B5%E8%B0%B7%E4%BF%8A%E5%B1%B1%E4%BB%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A0%E8%A2%AB%E5%AD%90/?category=18271" rel="tag">叠被子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%B7%A5%E5%9B%A2/?category=18271" rel="tag">文工团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%85%B5/?category=18271" rel="tag">文艺兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%AD%A6%E4%BC%9A%E8%BF%99%E4%BA%9B-%E4%BD%A0%E4%B9%9F%E8%83%BD%E7%BC%96%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/" target="cdt-mirror">端传媒 | 学会这些 你也能编抗日神剧</a>
+</h2>
+<p><p>采访了多位抗日神剧的新一代编剧们，我明白了剧本塑造的如下范式：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/cd866575764a4711b663e8e1749b5751.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/cd866575764a4711b663e8e1749b5751.png" alt="cd866575764a4711b663e8e1749b5751" width="600" height="600"></a></p>
+<p> </p>
+<p>【国民党军官】——弃暗投明、经受考验</p>
+<p>丧失斗志：对国军的腐化堕落绝望 /不满「攘外必先安内」消极抗日→</p>
+<p>挫败遭遇：抗日战场自己部队遭遇重创或官僚陷害→</p>
+<p>共军救星：重伤或被俘，八路军成救星→</p>
+<p>革命挫折：融入中共备受猜疑，但凭藉努力受到承认→</p>
+<p>久经考验：成为真正的「八路」将领</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/dcab31fd86a14ce791d954a30d22166a.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/dcab31fd86a14ce791d954a30d22166a.png" alt="dcab31fd86a14ce791d954a30d22166a" width="600" height="600"></a></p>
+<p>【平民百姓】——从 灭门血案中成长</p>
+<p>深仇大恨：全家/全村被日军屠戮→</p>
+<p>共军救星：杀鬼子身陷险境，受到中共/地方民兵的帮助/招募→</p>
+<p>革命挫折：「革命经验」不足，遭遇日军国民党特务/汉奸诱惑或欺骗→</p>
+<p>坚定信念：中共方面友人/爱人/家人遇害，坚定复仇之心→</p>
+<p>久经考验：经历抗战，成长为坚强的中共党员/革命战士</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/101ebe74683d46cc98f1fba44ffe1a25.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/101ebe74683d46cc98f1fba44ffe1a25.png" alt="101ebe74683d46cc98f1fba44ffe1a25" width="600" height="600"></a></p>
+<p>【江湖高手/商界奇才/知识份子】——以一当十、屡建奇功</p>
+<p>坚守中立：受到国共两党招募，但保持中立→</p>
+<p>挫折遭遇：日军拉拢/胁迫/侮辱， 奋起反抗遇挫败/打击日军阴谋，但终因寡不敌众被逼入绝路→</p>
+<p>共军救星：中共帮助脱险，受「革命精神」感召，作为周边人士参与革命→</p>
+<p>坚定信念：发现国民党抗日之不彻底，进一步信服於中共→</p>
+<p>以一当十：成为坚强的中共党员/革命战士</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/b00b30683fb2402c9434364420a9b5e1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b00b30683fb2402c9434364420a9b5e1.png" alt="b00b30683fb2402c9434364420a9b5e1" width="600" height="600"></a></p>
+<p>【八路军战士/中共党员】————革命勇士、魅力之神</p>
+<p>意志坚定：热血入党，「革命意志」坚定→</p>
+<p>忍辱卧底：隐身於民间，进入国民党/日军/土匪卧底→</p>
+<p>统一战线：一路上以强大的人格魅力/顽强革命精神收服前述的各方势力→</p>
+<p>以一敌百：壮大革命队伍，屡建奇功→</p>
+<p>革命功臣：迎来抗日胜利，革命故事在国共内战前戛然而止。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/51fa6e021e80405caf09c874aa99e92d.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/51fa6e021e80405caf09c874aa99e92d.png" alt="51fa6e021e80405caf09c874aa99e92d" width="600" height="600"></a></p>
+<p>【日本鬼子】————战争狂人、冷血变态</p>
+<p>心怀不轨：试图一口吞下中国领土/人民财富。或甄别中方卧底/侦查受挫案件等</p>
+<p>步步紧逼：或杀或抢或骗，无所不用其极地强取豪夺，同时也收服了不少「汉奸」</p>
+<p>遭遇反抗：遭遇国民党军队/平民百姓/江湖高手/商界奇才/高智商知识份子的抵抗，损失惨重；但不思悔改</p>
+<p>共党出手：抗日力量在共产党的英明领导下，逐渐取得成绩；在节节败退中逐渐感到绝望</p>
+<p>引咎自裁：当然，不是切腹就是引弹自尽，场面需要血腥、酣畅</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%AD%A6%E4%BC%9A%E8%BF%99%E4%BA%9B-%E4%BD%A0%E4%B9%9F%E8%83%BD%E7%BC%96%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5/?category=18271" rel="tag">抗日</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E6%9D%80%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">抹杀历史</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA%E9%9A%BE%E4%BB%A5%E9%81%BF%E5%85%8D/" target="cdt-mirror">纽约时报 | 经济学家警告中国金融危机难以避免</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/25sorkin-jumbo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/25sorkin-jumbo.jpg" alt="肯尼斯·罗格夫，金融危机专家。" width="497" height="283"></a></p>
@@ -191,7 +308,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF-%E5%8C%97%E4%BA%AC%E5%8F%91%E5%8A%A885%E4%B8%87%E4%BA%BA%E5%B7%A1%E9%80%BB%E4%BF%9D%E9%98%85%E5%85%B5-%E5%B0%86%E6%B7%B1%E5%85%A5%E6%AF%8F%E4%B8%AA%E8%A1%97/" target="cdt-mirror">参考消息 | 北京发动85万人巡逻保阅兵 将深入每个街巷胡同</a>
 </h2>
@@ -567,127 +684,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%A8%E7%BD%91%E4%B8%80%E7%BA%A7%E7%AE%A1%E6%8E%A7%E6%89%80%E6%9C%89%E9%98%85%E5%85%B5%E7%9B%B8%E5%85%B3%E6%96%B0%E9%97%BB%E8%B7%9F%E5%B8%96%E8%AF%84/" target="cdt-mirror">【真理部】全网一级管控所有阅兵相关新闻跟帖评论</a>
-</h2>
-<p><p>国信办：各网站，落实8月23日0时至24时全网一级管控要求，请各网及客户端，严格管理涉阅兵相关新闻跟帖。具体要求如下：</p>
-<p>1，即日起至9月5日，对所有阅兵相关新闻跟帖评论一律先审后发，无比保证跟帖评论的正面、积极，不得出现抹黑、歪曲、攻击人民军队和阅兵活动内容；不得出现攻击党、国家、制度内容；不得出现攻击领导人内容。</p>
-<p>2，各网站新闻及频道文字、视频、图片等有涉阅兵、军事、历史内容的报道跟帖，务必保持正面、积极，不得出现歪曲党史、国史的评论，不得出现导向错误评论，不得出现有害信息。</p>
-<p>3，各网站要积极将正面阳光的网民跟帖置顶。</p>
-<p>4，各网严格做好审核值班管理，不得出现审核无人值守情况。23日上午10时前，请北京通知百度、新浪、搜狐、网易、凤凰、一点资讯、财经网、今日头条，广东通知腾讯、ZAKER，上海通知澎湃，上报跟帖每日审核人员名单与负责人联系方式至网评督查账号。</p>
-<p>5，网评督查账号将对违反上述要求、执行指令不坚决的网站纪录台帐，造成严重影响的，将从严处理。</p>
-<p>请各商网务必高度重视，积极配合，确保万无一失。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNKn4fxUAAA1k8t.png" alt="CNKn4fxUAAA1k8t" width="383" height="354"></p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%A8%E7%BD%91%E4%B8%80%E7%BA%A7%E7%AE%A1%E6%8E%A7%E6%89%80%E6%9C%89%E9%98%85%E5%85%B5%E7%9B%B8%E5%85%B3%E6%96%B0%E9%97%BB%E8%B7%9F%E5%B8%96%E8%AF%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%B9%B4-%E5%A4%A7%E8%B5%A6%E5%A4%A9%E4%B8%8B/" target="cdt-mirror">新闻马赛克 | 大大三年 大赦天下</a>
-</h2>
-<p><p>新华社刚刚发布令国人震惊的消息：国家要实施大赦！</p>
-<p>这是真的，在国庆大阅兵之际！“<strong>为纪念中国人民抗日战争暨世界反法西斯战争胜利70周年，对2015年1月1日前正在服刑、释放后不具有现实社会危险性的四类罪犯实行特赦。</strong>”</p>
-<blockquote><p><strong>一</strong>是参加过中国人民抗日战争、中国人民解放战争的服刑罪犯。</p>
-<hr><p><strong>二</strong>是中华人民共和国成立以后，参加过保卫国家主权、安全和领土完整对外作战的服刑罪犯，但几种严重犯罪的罪犯除外。</p>
-<hr><p><strong>三</strong>是年满七十五周岁、身体严重残疾且生活不能自理的服刑罪犯。</p>
-<hr><p><strong>四</strong>是犯罪的时候不满十八周岁，被判处三年以下有期徒刑或者剩余刑期在一年以下的服刑罪犯，但几种严重犯罪的罪犯除外。</p></blockquote>
-<p>哇塞！快看看有你家亲戚熟人没！….要么老要么小，估计你家二哥不在内。。。。马赛君的朋友小兰本来还以为有周大爷、薄大爷。。</p>
-<hr><hr><p>不管怎样，马赛君都觉得有一种大赦天下的<strong>感觉</strong>。</p>
-<p>马赛君读史发现，古代新皇登基必下诏大赦天下，一般作奸犯科者均获释，唯违忠孝者（比如子杀父母、妾杀夫、奴杀主）不赦。有的甚至册立皇后、皇太后、皇太子时亦大赦天下。碰上那些昏君，朝政紊乱，颠三倒四，一年内甚至大赦多次。罪犯几进几出，如同儿戏，法纪为之崩塌。所以对大赦二字并不能等闲来看。后世用之谨，不为无因。</p>
-<p>此次大赦来得骤然，难怪国人惊诧莫名！不过，今之大赦确实符合《宪法》之规定。《中华人民共和国宪法》第三章第二节第八十条规定：</p>
-<blockquote><p>中华人民共和国主席根据全国人民代表大会的决定和全国人民代表大会常务委员会的决定，公布法律，任免国务院总理、副总理、国务委员、各部部长、各委员会主任、审计长、国务院秘书长，授予国家的勋章和荣誉称号，<strong>发布特赦令，</strong>发布戒严令，宣布战争状态，发布动员令。</p></blockquote>
-<p>也就是说，国家主席有大赦天下的特权。</p>
-<hr><hr><p>我朝自太祖以来，共实行了7次特赦（改大赦为特赦岂一字之差）：</p>
-<blockquote><p>第一次是1959年在中华人民共和国成立10周年庆典前夕，对在押的确已改恶从善的蒋介石集团和伪满州国战争犯、反革命犯和普通刑事犯实行特赦。</p>
-<hr><p>第二次、第三次特赦分别于1960年、1961年实行，都是对蒋介石集团和伪满州国罪犯确有改恶从善表现的进行特赦。</p>
-<hr><p>第四次、第五次、第六次分别于1963年、1964年、1966年实行。与前两次相比，只是在特赦对象上增加了伪蒙疆自治政府的战争罪犯。其他内容完全相同。</p></blockquote>
-<p>说明一下，这几次都是刘少奇发的特赦令。</p>
-<blockquote><p>第七次是1975年，对全部在押战争罪犯实行特赦释放，给予公民权。</p></blockquote>
-<p>第7次当然不是刘少奇发的了，瞧您这话说的，这时文革还没结束哪，刘少奇已经惨死开封了，话不能说太多了。。。。</p>
-<p>这第八次特赦就是现在的消息，大大三年之特赦。。。</p>
-<hr><hr><p>对前七次特赦，马赛君梳理如下，快快收藏！</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczKOK2tcGtS7fNelezHcTtlsLJpUvQhUqMgBD9Cv1ibp03cec4bvPAtQg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>新中国成立后，从1959年至1975年对经过教育改造改恶从善的犯罪分子共实施了七次特赦。1954年毛泽东主持制定的《中华人民共和国宪法》，对“大赦”和“特赦”作出规定，赦免政策的提出由此有了明确的法律依据。 1.1959年8月24日，毛泽东在杭州致信刘少奇：“我想到，今年国庆十年纪念，是否可以赦免一批确实改恶从善的战犯及一般正在服刑的刑事罪犯。”</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczfD8kOgAJeoRE1xtoia5jV9AzZLsktKlgb4GQSBo9WRSqia3cB3R4Wnjg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>按照毛泽东的建议，1959年9月8日，刘少奇主持召开中央政治局会议，讨论并通过了《中共中央关于特赦一批确实已经改恶从善的战争罪犯、反革命犯和普通刑事罪犯的建议》。12月4日首批特赦释放33人，包括杜聿明、王耀武、溥仪、宋希濂、曾扩情等人。图为溥仪在抚顺战犯管理所接过特赦通知书。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczlSg7bn3dyl7jldKosxq0NkhSaC7AVpyLvIkpQ1WT1wEQ1zHRQibXqKg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1959年，中央决定以后每年特赦一批战犯，1960年、1961年、1963年、1964年、1966年和1975年相继实施专门针对战犯的六次特赦，共释放战犯556名，另有90名获减刑。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YcznHdCFX3HdNGRdiaLnXjOQSzDpc9PcAKJc1yChzO1KKVt67nwJbXFINA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>陈赓陪周恩来和部分特赦人员、原国民党将领杜聿明、王耀武等黄埔师生在北京颐和园介寿堂合影留念 。十天后，周恩来在中南海接见了他们，杜聿明面露愧色地对周恩来说：“学生对不起老师，没有跟着老师干革命，走到反革命道路上去了，真是有负老师的教导，对不起老师。”周恩来微微含笑，摇摇头说：“不能怪你们学生，我这个老师没有把你们引导到正确的道路上去，我也有一定的责任。往者已矣，来者可追嘛！</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczfedpKhByBdgObzpcXjFk13Seia5pR7U1bnzJCJxkVK2ltj0YpYR4ZFQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1960年11月，周恩来与黄埔校友及其家属合影。二排右三张治中、郑洞国、陈赓、周恩来，三排右三杜聿明、右六为唐生明，右八屈武。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczsWiagPicu9vZHiagkH1ibibHawscVoOnXHyKmfzUvNKnqAK7XJxObxI5YOQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>获得特赦者很多都进入政协成为文史资料研究员。1964年4月，全国政协文史资料研究委员会专员杜聿明（左二）、宋希濂（左四）、杨伯涛（右一）和他们的夫人参观新安江水电站。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczoHFBcNgwLpuwYZf9Yib9HD36CbJRokaUFcLXHRpxdNHACcbtJYldPew/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1960年11月19日，第二批特赦战犯50人，其中包括沈醉和溥杰。图为沈醉等特赦人员合照。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Yczf62EZkIcYo0mdVNibmMZstnJ7MS6UKTRH2nNF51xAYBMpj2k3SaTsKw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>爱新觉罗·溥杰于1950年被移交到中国政府，而后被关押到抚顺劳教所改造，直至1960年获得特赦。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Yczz5eibJiarRCIVDPhQhmr3a7A5kf8RPrXgdKibsicQeKFRgzA0xoWqDwc7w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>同批被特赦的还有伪满少将正珠尔扎布。图为1933年11月18日，川岛芳子（左）与前夫甘珠尔扎布的弟弟正珠尔扎布（时任第十军管区参谋长）和米山莲江。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczIKs9jWCZVWw2Y3cQmBTlJzicz34FYgiaOExibR6Hsho1JpibqBicSxfJjMA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1961年12月16日，第三批特赦人员包括国民党第九兵团中将司令官廖耀湘和伪满外交部长阮振铎等人。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczPLOv7HHBetWBb58C2IHxqvo5l4yYNPOTBIJFCSLz2BQ6yeoLdTpnVg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1963年4月9日第四批特赦人员包括伪蒙疆自治政府主席、伪蒙古军总司令德王，图为德王及其幕僚。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Yczedb8lpibicfiaobSZVQiamYHFcmPnYib8J0ZibE4tuTcWPiajicWibGhGuzUWpQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1963年4月9日德王（左一）被特赦现场旧照。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Yczj9YbuKk1ZibKJZaMWfwQNSCicDzYvFeuu1NNcnibLZW3d79yH5xiaiaKYXA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1964年12月28日第五批特赦人员包括伪蒙疆自治政府副主席、伪蒙古军上将副总司令兼第一军军长李守信，图为德王与李守信在东京。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczYWlK3RsKRHrP5VMPpYEAEuibmRuUSXj8wSmts1duiaQuPQgjOia0TGGfA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1966年3月29日第六批特赦人员包括伪满洲国第九军管区中将司令官甘珠尔扎布，图为甘珠尔扎布与川岛芳子成婚。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczicuwAa4QUUmwkdfhAWQ6Esr2tC8ibtGYKkTkpGw29qlVHnT2pa5U936A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1975年1月中旬，四届人大召开。2月25日，公安部向中央提交了《关于第七批特赦问题的报告》。2月27日，毛泽东作了长篇批示：“一个不杀”，“都放了算了，强迫人家改造也不好”。图为1975年3月19日，最高人民法院宣布特赦释放全部在押的战犯。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczBwDicWpFzwTPY0f2KrPTevKaMEVq1nXjROBeqPicbkoFYXYjXWxN6YBw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1975年被特赦的人员动身前往北京。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczatHH8dp9ebbAibZsfHgJhib6D3x6icpEmOjSlz8x1fnjAQVoxdWgVGMpg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>最高人民法院审判员向原国民党中将司令黄维发放特赦释放通知书。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczlL8XibOpGDBeVI5HXrzeHzSRWobVMx5qCGMeTwuFVA1bHiaNyzzsZvpA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1975年特赦释放人员张商海(左2)、杨南邦(左3)、赵一雪(左1)三人因台湾当局不准入境未能如愿返台，当他们返回北京后，在机场受到中央统战部负责人李金德接待。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Ycz72EqR9xAl9nlvtcEjvU49byLT08W7RwMPKs8kqRpK03gyPJCRc8CiaA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1975年3月，作为政协全国委员会委员的杜聿明(左)，在北京会见被刚刚特赦释放的原国民党第12兵团中将司令黄维(中)和原国民党第13兵团中将副司令李九思(右)。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65Ycz7IHvMFItguaLGqAktL07VRVTsdG5ILyZc7biakUFCXVJQVmZTuEQ1HQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1975年3月29日，沈醉（右二）与最后一批被特赦释放的老友畅谈。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9XibJTnf7TCib9XBf7Qzp65YczAnqZiaRAM9giccm94mkvXUVY5298miccAibibvicRnIWIIcejSxth0NHkn7A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>1975年，毛泽东的表弟文强最后一批获特赦出狱。与周恩来见面时，周恩来怪他不肯早写悔过书。。。不是重庆那个文强，重庆文强2010年已经注射死了。。。</p>
-<hr><hr><p>而且话说看到大大这次大赦，马赛君的朋友小锣第一时间也还以为周永康、薄熙来、郭伯雄。。。。要出来，事实证明小锣太幼稚了。。。。。</p>
-<p>一位法学专家告诉马赛君：这次特赦，不是对所有罪犯都有特赦，它是有选择的，如果是有重大犯罪事实的罪犯肯定是不会特赦的。</p>
-<p>特赦要形成制度化，不能心血来潮，要法治不是人治。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%B9%B4-%E5%A4%A7%E8%B5%A6%E5%A4%A9%E4%B8%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B2%BB/?category=18271" rel="tag">人治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B5%A6/?category=18271" rel="tag">大赦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E8%B5%A6/?category=18271" rel="tag">特赦</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%A6%82%E4%BD%95%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E9%AB%98%E5%A2%99%EF%BC%9F/" target="cdt-mirror">德国之声 | 如何穿越中国的政治高墙？</a>
-</h2>
-<p><p>天津爆炸案会真相大白吗？“双城论坛”开启两岸关系新模式？互联网威权主义还能持续多久？</p>
-<p>评论家李怡在香港《苹果日报》发表文章说，中国大陆的监控言论与轻率管制危险品，是专权体制的一体两面。一面是储存危险品乃保护掌权者利益的一部份，或让他们敛财，或根本就是暴力政权的资产，危险品储藏的重要性绝对在对周边居民安全考虑之上；另一面监控言论也是出自维护专制政权的目的，故天津爆炸后，一口气封了三百多个网站，有网民因为透露死亡数字远超过官方公布的，被公安扣查。</p>
-<p>李怡说，至于伤亡数字、死亡名单，就也与历次天灾人祸一样，何曾有一次是真实的？大多数遭难者的家属，似乎都接受已发生的事不可挽回，故只要求赔偿，对事故责任就轻轻放过。“因为只顾活着的人而不追究灾难责任，灾难就会一再发生。爆炸后的事态展现中国更大的悲剧”。</p>
-<p><strong>两岸关系的务实模式</strong></p>
-<p>台湾《苹果日报》发表评论《柯P建立两岸互动新模式》，作者童振源认为，大陆处理双城论坛的务实模式，不再坚持台湾必须接受九二共识为政治前提，为两岸互动留下一着活棋，值得鼓励。这个两岸互动新模式既维护两岸城市交流，也维护大陆的政治底线。同时，这个新模式既为民进党的两岸政策转型创造正面力量，也为民进党可能执政后的两岸关系转型奠定基础。</p>
-<p>童振源说，双城论坛是否能举办的焦点原在于柯文哲市长是否承认九二共识与一个中国原则。但是，柯市长在两次接受大陆媒体专访时，既没有承认九二共识，也没有接受一个中国原则。童振源说，这是大陆对美国处理两岸争议的妥协模式。这次经验也说明大陆是务实的，既然希望维持两岸和平发展，便会对台湾展现适当的弹性与妥协。</p>
-<p><strong>网络威权主义的成功</strong></p>
-<p>新闻与传播学者李立峯在香港《明报》发表文章，讨论网络威权主义。他认为，互联网对威权主义国家的信息封锁带来了一定的挑战，但同时，威权主义国家自有应付和管制互联网的方法。中国大陆就是最佳例子之一。李立峯引用学者Rebecca MacKinnon的观点说，大陆政府能成功地管制互联网，重点在于它其实并没有无时无刻地和完全地压制所有人的网上言论。它禁止大部分人通过互联网接触境外媒体以至西方的社交网站，但同时容许有能力和有需要的人“翻墙”。它容许百姓就社会问题和事件发表意见甚至批评政府，但极力防范“在线言论”演变成“线下行动”。它容许网上出现新的意见领袖，但同时培养一批为意识形态护航的“网络打手”。它鼓励新闻机构迈向“全媒体”时代，但在重大突发事件中会禁止媒体进行信息直播和限制媒体与网民的互动。</p>
-<p>李立峯又引用学者徐洛文的观点，讨论香港香港互联网空间的殖民化，指出在占领中环以至雨伞运动期间，政治权力其实颇为有效地应对了新媒体科技所产生的力量。李立峯提醒说，正如近年有关香港新闻自由的讨论一样，当“个别事件”累积起来时，我们面对的就是一个不能忽视的趋势，这趋势告诉我们不要视网络言论自由为必然。</p>
-<p><strong>“渴望自由的人只需要一次”</strong></p>
-<p>作家慕容雪村在《纽约时报》专栏发表文章《十四个梯子和一个春天》，认为中国互联网防火长城不仅把中国变成了一座与世隔绝的信息监狱，还利用人们的无知，向13亿中国人灌输好战和仇恨的意识形态，假如这堵墙可以长久存在，墙后的中国必将再次变成一个封闭、保守和好战的国家。</p>
-<p>慕容雪村指出，网上网下的事情都可以证明，中国政府对自由的表达和交流越来越难以容忍，在它的统治之下，中国正在大踏步地走向封闭和保守的前互联网时代。“但我不相信这种状况会持续永久”。“近年来，我也看到了千千万万中国人的觉醒，他们对防火长城的愤怒，其实也正是对这种种限制——审查、屏蔽、阻断——的愤怒，越来越多。无知之幕之下的人们意识到自由表达和完整信息的可贵，这也是他们的战争，在这场旷日持久的对抗中，防火长城将获得无数次胜利，而渴望自由的人们只需要一次——推倒无形的高墙，看见真正的春天”。</p>
-<p>关键词: 天津爆炸 两岸关系 自由 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 张平</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%A6%82%E4%BD%95%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E9%AB%98%E5%A2%99%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -699,7 +695,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jef2bkp16tj6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -709,5 +705,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d2ap4h3iyugwjt.cloudfront.net">https://d2ap4h3iyugwjt.cloudfront.net</a><br/><a href="https://d24dtyg4m6t08b.cloudfront.net">https://d24dtyg4m6t08b.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://d1eodappbpsp9v.cloudfront.net">https://d1eodappbpsp9v.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d12w7furh9oogn.cloudfront.net">https://d12w7furh9oogn.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/></td>    </tr>
 </table>

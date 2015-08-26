@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/" target="cdt-mirror">自由亚洲｜敏感期将近 进出新疆包裹实名西藏部分地区停邮</a>
@@ -606,7 +606,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A9%8B%EF%BC%9A%E3%80%8C%E4%B9%9D%E4%B8%89%E3%80%8D%E9%96%B1%E5%85%B5%E4%B8%8D%E5%8F%AF%E7%BC%BA%E4%BA%86%E6%AF%9B%E5%B0%91%E5%B0%87/" target="cdt-mirror">东网｜南橋：「九三」閱兵不可缺了毛少將</a>
 </h2>
@@ -695,7 +695,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -705,5 +705,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d3d5jwnpi8z2rl.cloudfront.net">https://d3d5jwnpi8z2rl.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
 </table>

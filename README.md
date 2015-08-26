@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3bszoeebybl69.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1a76y84uyc9xz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/" target="cdt-mirror">自由亚洲｜敏感期将近 进出新疆包裹实名西藏部分地区停邮</a>
@@ -139,7 +139,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5/?category=18271" rel="tag">抗日</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E6%9D%80%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">抹杀历史</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA%E9%9A%BE%E4%BB%A5%E9%81%BF%E5%85%8D/" target="cdt-mirror">纽约时报 | 经济学家警告中国金融危机难以避免</a>
 </h2>
@@ -485,7 +485,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8E%E5%8F%8D%E8%85%90%E5%8E%8B%E5%8A%9B%E8%80%83%E9%AA%8C%E4%B9%A0%E8%BF%91%E5%B9%B3/" target="cdt-mirror">纽约时报｜经济下行与反腐压力考验习近平</a>
 </h2>
@@ -695,7 +695,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r3bu1vl2semn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3bszoeebybl69.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -705,5 +705,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://d1a76y84uyc9xz.cloudfront.net">https://d1a76y84uyc9xz.cloudfront.net</a><br/><a href="https://d1r3bu1vl2semn.cloudfront.net">https://d1r3bu1vl2semn.cloudfront.net</a><br/><a href="https://dwdmei8wi4jmv.cloudfront.net">https://dwdmei8wi4jmv.cloudfront.net</a><br/></td>    </tr>
 </table>

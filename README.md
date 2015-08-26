@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d25potjijdthdh.cloudfront.net">https://d25potjijdthdh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d25potjijdthdh.cloudfront.net">https://d25potjijdthdh.cloudfront.net</a><br/><a href="https://dkzy049g3i8np.cloudfront.net">https://dkzy049g3i8np.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/" target="cdt-mirror">自由亚洲｜敏感期将近 进出新疆包裹实名西藏部分地区停邮</a>
@@ -168,7 +168,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%A4%A7%E6%89%93%E5%87%BB%E5%A4%96%E5%9B%BDvpn%E6%9C%8D%E5%8A%A1/" target="cdt-mirror">反法西斯大阅兵前 中国被曝加大打击外国VPN服务</a>
 </h2>
@@ -329,7 +329,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/70%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5/?category=18271" rel="tag">70周年阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/9-3%E9%98%85%E5%85%B5/?category=18271" rel="tag">9.3阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5/?category=18271" rel="tag">阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%99%90%E8%A1%8C%E7%AE%97%E4%B8%AA%E5%B1%81%EF%BC%8C%E4%BA%BA%E5%AE%B6%E7%9B%B4%E6%8E%A5%E9%99%90%E9%A5%AD/" target="cdt-mirror">【河蟹档案】限行算个屁，人家直接“限饭”</a>
 </h2>
@@ -695,7 +695,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25potjijdthdh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31muvsgzi8p1g.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -705,5 +705,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25potjijdthdh.cloudfront.net">https://d25potjijdthdh.cloudfront.net</a><br/><a href="https://dkzy049g3i8np.cloudfront.net">https://dkzy049g3i8np.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://dj4loshobxwk0.cloudfront.net">https://dj4loshobxwk0.cloudfront.net</a><br/><a href="https://dkzy049g3i8np.cloudfront.net">https://dkzy049g3i8np.cloudfront.net</a><br/></td>    </tr>
 </table>

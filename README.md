@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d2ms0hxgukqgle.cloudfront.net">https://d2ms0hxgukqgle.cloudfront.net</a><br/><a href="https://d39omkgll2vjff.cloudfront.net">https://d39omkgll2vjff.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://daddbu85r22n2.cloudfront.net">https://daddbu85r22n2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://daddbu85r22n2.cloudfront.net">https://daddbu85r22n2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA%E9%9A%BE%E4%BB%A5%E9%81%BF%E5%85%8D/" target="cdt-mirror">纽约时报 | 经济学家警告中国金融危机难以避免</a>
@@ -699,7 +699,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ms0hxgukqgle.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3bszoeebybl69.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -709,5 +709,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2ms0hxgukqgle.cloudfront.net">https://d2ms0hxgukqgle.cloudfront.net</a><br/><a href="https://daddbu85r22n2.cloudfront.net">https://daddbu85r22n2.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://daddbu85r22n2.cloudfront.net">https://daddbu85r22n2.cloudfront.net</a><br/><a href="https://dqyjr6v5fkevy.cloudfront.net">https://dqyjr6v5fkevy.cloudfront.net</a><br/><a href="https://d1i4ioyqx4xsel.cloudfront.net">https://d1i4ioyqx4xsel.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>

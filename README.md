@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d13ouxg2qxl56u.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dzlz7hgboo5rh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d1wzob3z9di11s.cloudfront.net">https://d1wzob3z9di11s.cloudfront.net</a><br/><a href="https://d1h4mpndgjupho.cloudfront.net">https://d1h4mpndgjupho.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d1h4mpndgjupho.cloudfront.net">https://d1h4mpndgjupho.cloudfront.net</a><br/><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/><a href="https://d1wzob3z9di11s.cloudfront.net">https://d1wzob3z9di11s.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%B6%E5%B0%9A%E5%85%88%E7%94%9F-%E7%89%B9%E7%A8%BF%EF%BC%9A%E5%A4%A9%E6%89%8D%E8%90%BD%E9%AD%84%E7%9A%84%E6%9A%AE%E5%B9%B4/" target="cdt-mirror">时尚先生 | 特稿：天才落魄的暮年</a>
@@ -817,7 +817,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d13ouxg2qxl56u.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dzlz7hgboo5rh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -827,5 +827,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d1wzob3z9di11s.cloudfront.net">https://d1wzob3z9di11s.cloudfront.net</a><br/><a href="https://d1h4mpndgjupho.cloudfront.net">https://d1h4mpndgjupho.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d1h4mpndgjupho.cloudfront.net">https://d1h4mpndgjupho.cloudfront.net</a><br/><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/><a href="https://d1wzob3z9di11s.cloudfront.net">https://d1wzob3z9di11s.cloudfront.net</a><br/></td>    </tr>
 </table>

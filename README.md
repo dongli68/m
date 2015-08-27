@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ohiqbtzm38h.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2kpo0rnpiynb6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BD%8E%E6%A0%BC%E5%BF%85%E8%AF%BB-%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%9A%87%E5%B8%9D%E6%9C%80%E7%88%B1%E5%A4%A7%E8%B5%A6%EF%BC%9F/" target="cdt-mirror">低格必读 | 什么样的皇帝最爱大赦？</a>
+</h2>
+<p><p><strong>新秋气爽，吉日将至，天下大赦，举国同欢。眼看着帝都的天色与日俱蓝，街上车马愈稀，低格君不由得飘飘欲仙，感恩戴德。本期低格必读就为我党大襄胜利纪念日之盛举献上一份薄礼，更要为读者亲友们提点些姿势——在天朝古代，究竟什么样的皇帝最喜欢玩大赦？</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A6.jpg" alt="皇帝大赦" width="550" height="341"></a></p>
+<p> </p>
+<p><strong>越是明主，越爱大赦？</strong></p>
+<p>拜犹如滔滔江水绵延不绝的三俗历史剧所赐，本朝群众虽未曾亲历，却对“大赦天下”这个词儿和这件事儿都不陌生<strong>。大赦，顾名思义，就是对举国之内全部或部分犯人的刑罚加以赦免。按理说，这种赦免是凌驾于法律之外的，不符合社会契约的精神。</strong>但在帝制时代，这事儿常有，而且名目之奇葩、次数之频繁、用意之诡吊，恐怕都会超越您的想象。</p>
+<p>最早从《春秋》里，咱们就能找到诸如“<strong>春王正月，肆大眚（shěng，罪犯之意）</strong>”的记载，但那只是井田时代诸侯小国一亩三分地里的事儿，撑死也就算个“小赦”。等到大秦一统天下，“中国”概念形成，然而作为铁腕大帝之典范的秦始皇是绝不搞什么大赦的，他儿子秦二世登基时玩过一次，也只是小打小闹，减些徭役罢了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A62.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A62.jpg" alt="皇帝大赦2" width="599" height="364"></a></p>
+<p><strong>真正以帝王之尊、黄纸黑字将大赦的春风吹遍神州大地的，是汉高祖刘邦。</strong>在他当皇帝的12年里，一共大赦过9次，纵观天朝历史，这频率也算是“好赦之君”榜上的前茅了。从汉代往后，大赦之风一吹两千年。历代君主出于各种目的，争相在中华帝王大赦拉力赛中全力奔跑，一共留下了1200多条辉煌的大赦功绩，平均两三年就要搞一次。</p>
+<p>口说无凭，来点儿干货，低格君选出天朝史上最重要的五个朝代，您且看其大赦频率的槽点：（资料来自徐式圭《中国大赦考》）</p>
+<p><strong>朝代 国祚 大赦令 平均赦率</strong></p>
+<p><strong>汉朝 418年 186次 2.24年/次</strong></p>
+<p><strong>唐朝 289年 184次 1.57年/次</strong></p>
+<p><strong>宋朝 319年 203次 1.57年/次</strong></p>
+<p><strong>明朝 276年 55次 5.02年/次</strong></p>
+<p><strong>清朝 267年 19次 14.05年/次</strong></p>
+<p>看出点儿啥了没？以开大赦之风的汉代为标准值，<strong>在后世公认中华封建文明最顶峰的唐宋两代，大赦天下的频率高得吓人，一年半载就有一次。而末法时代专制严厉的明清，倒是赦得小心谨慎</strong>。这是 不是说明，世道越清平、人君越开明，就越爱大赦呢？——噫吁戏，若结论如此，本文就真成歌功颂圣之辞了。以诸位对低格君的了解，这可能吗。</p>
+<p><strong>赏罚无常，引人吐槽！</strong></p>
+<p>当然不可能。躺在数据里的大赦频率，那是糊弄后人用的；问题的关键，在于躲在圣旨下的大赦理由——这也是本文的揭发重点。然而想要探寻政令背后的帝王心术，何其难也！幸好这脏累活儿用不着低格君来干，早有前人当雷锋了。清末一位叫沈家本的法学家，把历史上的赦令分门归类，总结出以下20多种大赦理由：</p>
+<section>践祚、改元、立后、建储、后临朝、大丧、帝冠、郊祀、祀明堂、临雍、封禅、立庙、巡狩、徙宫、定都、从军、克捷、年丰、祥瑞、灾异、劭农、饮酹、遇乱<br><section></section></section><p>低格君非常佩服这位法学雷锋，这堆天花乱坠的名目，普通人光是读一遍就晕了。<strong>这么多理由，其实就等于没有理由。您想，大赦的规矩是人定的，且是天底下权力最大的人定的，那么这“规矩”，不就是他的心情吗</strong>。今年大灾，龙心不安，大赦；明年丰收，龙颜大悦，又大赦。这种比“女朋友为什么会生气”还难解的行为，把坚信法理精神的法国佬儿孟德斯鸠气得火冒三丈：</p>
+<section>中国皇帝是不讲道理的一群人，做事全无逻辑性。在帝制之下，皇帝本人就是最高法官，既然给人判了罪，怎么能又去赦免他？</section><p>这位满脑子法兰西式民主的启蒙思想家，虽有开创“三权分立”的万世之功，却不能理解古老中国重重宫闱背后天子们的南面之术。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A63.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A63.jpg" alt="皇帝大赦3" width="600" height="369"></a></p>
+<p> </p>
+<p>表面上看，皇帝们动不动就赦一赦，玩弄法律于股掌之中。但实际上，除了个别错生在帝王家的逗比昏君，大多数皇帝也不是完全脑袋一热就开赦的<strong>，每一次大赦背后都有着明确的现实目的和意图。那么问题来了，在名目繁多、花样百出的大赦意图中，哪种才是皇帝们的最强“刚需”呢？</strong></p>
+<p><strong>越虚越赦，越稳越狠！</strong></p>
+<p><strong>开门见山地说吧，一般而言，在皇帝觉得自个儿的统治不太稳定时，最爱玩大赦。</strong>口说无凭，且看实证。咱们仍以发明大赦功能的汉朝为例，一说到汉政之清明，小学生都知道“<strong>文景之治</strong>”，其“<strong>轻徭薄赋、与民休息</strong>”的施政纲领似乎与大赦天下的宽容德音不谋而合，按一般理解，文帝景帝应该是汉朝大赦次数最多的皇帝了吧？</p>
+<p>错。汉文帝在位23年，一共才大赦天下4次。汉景帝在位16年，也就搞了6次。对比汉高祖12年赦9次的数据，这两位名垂青史的贤明之君真是赦得太抠门儿了。反之，西汉末年朝政糜乱之际的几位皇帝，汉元帝在位15年赦10次，汉哀帝在位6年赦4次，汉平帝在位5年也赦了4次，这数据就有点儿奇怪了。<strong>唯一的解释是：皇权稳定系数和大赦天下的频率成反比。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A64.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A64.jpg" alt="皇帝大赦4" width="598" height="366"></a></p>
+<p> </p>
+<p>这个结论乍看突兀，其实大家也都可以理解。手中权力不牢，圣上难免心虚，就像恋爱中的姑娘一样缺乏安全感，急需男朋友…..啊不…..老百姓的爱护和兹瓷。于是，定期赦一赦，不但能往老百姓的心眼儿里灌上一锅“好支威有”牌鸡汤，更能感化那些曾经的罪犯成为顺民，从此主动放弃给国家添乱，加入到奉天承运星辰大海的征途里来。</p>
+<p>反之，在封建社会里，<strong>如果皇帝在龙椅上坐得稳，天下大权拿得准，他不但不会大赦，反而会充分发挥天子的合法加害权，对那些破坏安定团结的分子（俗称反贼）毫不留情地痛下杀手。</strong>这还需要举例子吗，君不见，绍兴和议已成而赵构斩岳飞？又不见，靖难之功既毕而朱棣诛孝孺？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A65.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A65.jpg" alt="皇帝大赦5" width="598" height="364"></a></p>
+<p>再多说一句，这种“杀法”往往带有杀鸡儆猴的意味，所以一出手就是诛三灭九。<strong>同时还要动用强大的舆论工具，把死者的名声搞烂搞臭。</strong>这样一来，皇帝的私愤就转化为大家的一致公愤，没有人会批评皇帝心狠手辣，反而会振臂呼道：杀得好！我支持！陛下威武！国家有希望了！</p>
+<p>于是乎，天子的尊严得到昭示，法律的正义得到伸张，百姓的认知得到统一，社会的矛盾得到缓和，人人只想着努力生产，闷声发财，这，就是中华历史上各大王朝走向繁荣的重要前兆。</p>
+<p><strong>悖论打脸，如何自圆？</strong></p>
+<p>话说上面那段儿的结尾的调子收得太高了，低格君自己都压力山大，接下来不好继续了。文章至此，似乎已经得出了结论：<strong>心虚的皇帝最爱大赦</strong>。不过，在帝制社会中，还有另外两种情况让皇帝不得不搞起大赦来，低格君简单给您介绍一下。</p>
+<p>一种是皇家有喜事儿时。皇帝会在娶了老婆、立了太子、改了年号、妈过生日（一般不给爸过，你懂得）等等他认为的“好日子”里大赦，表示一下与民同乐的心情。问题是，你想让民也乐，总得拿点儿实际好处出来吧？拜年还得发红包呢，不然谁上赶着陪你傻笑？可真要给，又舍不得。<strong>于是乎，御笔一挥，大赦天下，不花一两银子，就把要求大家和自己一起高兴的意思下达到全国人民中间，贤哉圣也！</strong>（话说这点儿门道，低格君也是出社会之后才渐懂的）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A66.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A66.jpg" alt="皇帝大赦6" width="599" height="364"></a></p>
+<p>另外一种情况正好相反，是有灾事时。这个大家在历史剧里看到的最多，天上飞彗星，地下蝗涝旱，说明你这皇帝作孽太盛，没有尽到“天子”的责任，你的老天爷爹爹发怒了，赶紧施一施仁政，积一积功德！说是顺应天意，倒不如说是笼络民心——<strong>毕竟，面对一个主动承认错误并甘受惩罚的人，大家多少会觉得他是条汉子。</strong>嗯，好人卡就这样得到了。</p>
+<p>总之，甭管是皇权不稳，还是逢灾遇喜，大赦天下的潜台词只有一句：你们的陛下是个大好人，快来膜他吧！然而活在今天的我们回望历史，就会发现这是个无解悖论：<strong>如果皇帝要靠法律之外的大赦来显示仁慈，不就等于变相承认自己平时对百姓是残酷的吗？</strong>就好比形容一个领导下基层视察时“平易近人”，恰恰说明该领导的一贯形象是高高在上、难以近人。</p>
+<p>其实，甭管是皇帝还是老百姓，对这个问题都心知肚明，只是大家都不说破而已。说破了，实在对大家都不好<strong>，皇帝的颜面一朝扫地，以后再也没脸搞大赦了，那么那些因为“恶了”权贵被下冤狱或者遭到无辜错判的犯人靠啥脱离水深火热？</strong>——别小看这个群体的数量，古代那种查案条件下冤假错案太多了，要不老百姓能那么喜欢小说演义中的包青天狄仁杰们吗。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A67.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E7%9A%87%E5%B8%9D%E5%A4%A7%E8%B5%A67.jpg" alt="皇帝大赦7" width="601" height="368"></a></p>
+<section><strong>我是结语君</strong></section><section><section><section></section></section><section>宇宙奇书《水浒传》里有这么一段儿：宋江杀了阎婆惜之后被发配江州，走之前他爹嘱咐他，说是我儿且去，一年半载等皇恩大赦下来，依旧回家做良民。以宋朝1.57年就赦一次的宽松政治环境，宋太公的盼望是很有科学依据的。可惜，宋江就不是做良民的料，在江州酒后写反诗，直接成“十恶不赦”之首的谋反死罪了。——甭管哪朝哪代，贤君昏君，意图颠覆政权都是杀无赦的，尽管，你判决书上的理由可能只是写了“莫须有”三个字。</section></section><p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BD%8E%E6%A0%BC%E5%BF%85%E8%AF%BB-%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%9A%87%E5%B8%9D%E6%9C%80%E7%88%B1%E5%A4%A7%E8%B5%A6%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E6%B3%95/?category=18271" rel="tag">刑法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B5%A6/?category=18271" rel="tag">大赦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%88%B6/?category=18271" rel="tag">法制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E8%89%B2/?category=18271" rel="tag">特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E8%B5%A6/?category=18271" rel="tag">特赦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9A%87%E5%B8%9D/?category=18271" rel="tag">皇帝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%88%98%E4%BA%91%E5%B1%B1%E5%AD%90%E5%88%98%E4%B9%90%E9%A3%9E%E4%BA%B2%E4%BF%A1%E7%96%91%E6%B6%89%E8%BF%9D%E6%B3%95%E4%BA%A4%E6%98%93%E8%A2%AB%E6%8D%95/" target="cdt-mirror">法广｜刘云山子刘乐飞亲信疑涉违法交易被捕</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/05/a2b6d781jw1esl5psd4w9j20ia0pltec.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/05/a2b6d781jw1esl5psd4w9j20ia0pltec.jpg" alt="共产主义接盘人" width="440" height="616"></a><br><em>（图片来自网络）</em></p>
@@ -87,7 +139,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8/?category=18271" rel="tag">公共安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E5%AE%89%E5%85%A8/?category=18271" rel="tag">生产安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D%E8%A2%AB%E5%B0%81-%E9%A9%BB%E4%BA%AC%E5%88%86%E7%A4%BE%E5%8F%91%E8%A1%A8%E5%A3%B0/" target="cdt-mirror">半岛电视台官方微博大阅兵前被封 驻京分社发表声明</a>
 </h2>
@@ -676,27 +728,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%BB%A7%E7%BB%AD%E6%9A%B4%E8%B7%8C-%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C%E7%A0%B4%E4%B8%89%E5%8D%83%E5%A4%A7%E5%85%B3/" target="cdt-mirror">BBC | 中国股市继续暴跌 上证指数跌破三千大关</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150825021301_nanjing_investor_640x360_xinhua.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150825021301_nanjing_investor_640x360_xinhua.jpg" alt="中国股市" width="550" height="309"></a><p>周二早间，中国上证指数下跌6%，报3016.92点，基本延续了周一8.5%惊人跌幅。</p></div>
-<p><strong>经历了“黑色星期一”之后，尽管亚洲其他股市周二（25日）开盘跌幅低于预期，中国股市继续大幅下跌。</strong></p>
-<p>上证指数当天收盘再度暴跌7.63%，收于2964.97点，跌破3000点大关，延续了周一8.5%惊人跌幅。深证成指收盘暴跌7.04%，收于10197.94点。</p>
-<p>亚洲收市之后，欧洲和美国股市周一也出现了急剧下跌。</p>
-<p>亚洲其他国家股市周二开盘继续下跌，但相对于市场在周一大面积抛售后作出的悲观预测，当天跌幅有所收窄。</p>
-<p>日经指数开盘下跌3%，是当天早上亚洲股市中除中国外的最大跌幅。</p>
-<p>这轮股市下跌开始于中国上证指数周一（24日）的创纪录暴跌以及之后的欧洲美国股市剧烈下跌。</p>
-<p>市场正在对中国经济下滑表示忧虑。</p>
-<p>周二早上，韩国股指KOPSI开盘下跌0.5%，澳大利亚S&P ASX/200指数则下滑0.8%。</p>
-<p>投资者对依赖中国进口的国家和机构表示担忧，认为他们会受到中国经济放缓的影响，中国目前位居世界第二大经济体和第二大商品及服务进口国。</p>
-<p>中国央行两周前让人民币贬值，让市场担心中国经济形势比之前预计的更糟。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%BB%A7%E7%BB%AD%E6%9A%B4%E8%B7%8C-%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E8%B7%8C%E7%A0%B4%E4%B8%89%E5%8D%83%E5%A4%A7%E5%85%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -708,7 +739,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31muvsgzi8p1g.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ohiqbtzm38h.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -718,5 +749,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d2ve6unky63mh0.cloudfront.net">https://d2ve6unky63mh0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/><a href="https://d2kpo0rnpiynb6.cloudfront.net">https://d2kpo0rnpiynb6.cloudfront.net</a><br/></td>    </tr>
 </table>

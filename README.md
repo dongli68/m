@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3bszoeebybl69.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t49sgxoeibzr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,108 @@
                 <td></td>
                 
         
-        <td><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9C%89%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%97%A0%E8%BF%9B%E4%BA%AC%E8%AF%81%E7%9A%84%E8%BD%A6%E8%BE%86%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8A%A0%E6%B2%B9%EF%BC%8C%E8%87%AA%E5%B7%B1%E6%8E%A8/" target="cdt-mirror">有网友称无进京证的车辆无法在北京加油，自己推车回家</a>
+</h2>
+<p><p><em>来源：Twitter</em></p>
+<blockquote><p>自曲新闻 ‏<strong><span data-aria-label-part=""><a href="https://twitter.com/freemoren/status/636703440157151233">@freemoren</a></span></strong>：有网友称无<strong>进京证</strong>的车辆无法在北京<strong>加油</strong>，自己推车回家 <a href="http://ww2.sinaimg.cn/large/4cb73116gw1evghepvry6j20g50fugnf.jpg">http://ww2.sinaimg.cn/large/4cb73116gw1evghepvry6j20g50fugnf.jpg</a><br>
+中石化北京石油分公司：北京东城区的全部加油站，和西城区距离长安街比较近的金融街、宣武门周边的加油站将于9月3日停业整修 <a href="http://www.chinanews.com/ny/2015/08-27/7491404.shtml">http://www.chinanews.com/ny/2015/08-27/7491404.shtml</a></p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CNYJLoNU8AAON6p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNYJLoNU8AAON6p.jpg" alt="CNYJLoNU8AAON6p" width="500" height="491"></a></p>
+<blockquote><p>深深的深白 ‏<strong><a href="https://twitter.com/Zannmuling/status/636723323800580096">@Zannmuling</a></strong>：没有进京证的同学们注意了。。。北京市内所有的加油站都不允许为无进京证的外地车加油了，没油真得推了。。。。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CNYYePjUsAAZGBU.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNYYePjUsAAZGBU.jpg" alt="CNYYePjUsAAZGBU" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CNYYe1kVEAAqGGd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNYYe1kVEAAqGGd.jpg" alt="CNYYe1kVEAAqGGd" width="525" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9C%89%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%97%A0%E8%BF%9B%E4%BA%AC%E8%AF%81%E7%9A%84%E8%BD%A6%E8%BE%86%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8A%A0%E6%B2%B9%EF%BC%8C%E8%87%AA%E5%B7%B1%E6%8E%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 16分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF/" target="cdt-mirror">【异闻观止】环球时报：必须理直气壮地说中国是最大民主国家</a>
+</h2>
+<p><p>原标题：究竟谁是最大的民主国家</p>
+<p>作者：韩 震</p>
+<p>西方媒体和舆论总是把印度说成是“最大的民主国家”，美国总统奥巴马和印度总理莫迪会面时，也说什么加强“两个最大的民主国家”之间的合作，等等。另外，西方媒体也把香港的反对派说成是“泛民主派”，而把维护基本法的党派说成是“建制派”，我们许多媒体也在无意中接受了这种说法。殊不知，这种说法本身就是一种价值观操作，其目的是把中国排除在“民主国家”的行列之外，使人们形成中国是非民主国家的价值判断。</p>
+<p>与“人权”“自由”等价值概念一样，“民主”是具有二元对立或定性的价值概念。一旦命名，就会形成民主或非民主、自由或不自由、尊重人权或不尊重人权的评估或判断。我们必须摆脱西方的话语操作，避免落入他们的话语陷阱之中。我们不仅要批评西方民主的虚妄性，而且一定要阐明我们国家的民主性质，要认真对待民主价值的命名权，争夺民主价值观的话语权。</p>
+<p>首先，我们要认识到西方的民主只是民主在当下历史条件下的一种历史形态。当下西方的民主形态是21世纪发达资本主义国家的制度体现，其本质仍然是维护资本利益的有效机制。另外，我们也必须认识到，西式民主在不同国家有着非常不同的表现形式。西方民主都不是一致的，凭什么要用他们的民主标准来判断世界各国民主与非民主的分野呢？</p>
+<p>其次，我们要认清西方的民主形式未必适合其他文化背景和不同历史发展条件的国家。“阿拉伯之春”和“茉莉花革命”等惨烈现实告诉我们，一个国家如果没有稳定和秩序，不仅难以享受民主成果，其结果甚至会与文明进步的目标背道而驰。</p>
+<p>再次，我们要确认我国的政治制度是属于民主制度范畴的，我们的民主制度是真实的、有效的民主。中国的人民代表大会制度就是当代中国的民主制度，在这种制度下我们的人民代表不仅按人数比例选举代表，而且让中国的各民族、各阶层都有自己的代表参与国家事务的协商和决策，实现了国家领导人依据制度设计换届，并按照选贤用能的原则把一批又一批的领导者推到各级领导岗位上。不像某些国家，尽管有着民主之名，却在资本和利益集团的运作下，只能在某几个有势力的政治世家中选择领导者。当然，我们的民主制度也在发展过程中，仍有很大改善和提升空间。</p>
+<p>最后，要论证我们的民主制度是最符合中国历史发展实际的民主，也是最有利于中国人民根本利益的民主形态。民主的目的不是为了民主的某种形态或形式，而是为了社会协商和社会善治。中国的民主不仅是政治的，而且涉及经济、文化、社会等各个领域；中国的民主不仅是投票权，而且是对经济、政治、文化、社会各领域中广泛问题的民主协商；中国的民主不仅是国家政治运作的层面，而且是在基层社会各方面的民主实践。正是有这样广泛而深厚的民主制度安排和民主实践，中国特色社会主义才得以激发全社会的活力，让我们短短几十年里就取得了快速发展的奇迹。</p>
+<p>总之，我们必须认识到，这个世界存在着各式各样的民主尝试，中国的民主也是真实的、有效的民主形态。由此，我们必须理直气壮地说，中国才是最大的民主国家，中国还是民主治理比较广泛而又有效的国家。如果我们不做此认定，就等于承认自己是不民主的国家了。▲（作者是北京外国语大学党委书记、中国文化走出去协同创新中心主任）</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>明堂辟幽：中国是最大的不要脸的国家。</p>
+<p>谢文：谁敢说我们不民主，我们就把他删贴封号，不行就抓起来，剩下一个红彤彤的民主世界。</p>
+<p>回到新闻联播里：读环球真的很丢人。</p>
+<p>亚茉莉：我们必须年年喊，天天喊：“我们是民主国家！我们是民主国家！”这样坚持不懈，我们就真成了民主国家。</p>
+<p>春风解我衣：[doge]我的妈呀，这脸皮得多厚才能说出这样的话。</p>
+<p>曾孓坤-_-：混球就是来给党拉仇恨的。</p>
+<p>Zannmuling：中国是民主国家，哈哈哈哈哈哈哈哈哈哈。</p>
+<p>公平正义立国之本：无耻之徒撒谎教授治理大学，还不把大学搞得跟假大空培训学院差不多？</p>
+<p>作家崔成浩：朝鲜才是最大的民主国家，连名字都有民主二字！</p>
+<p>天涯赵瑜：小札：这些年来，我一直有一个疑问，我们真的是世界上最大的民主国家吗？环球时报终于给了我们一个肯定的回答。这真让人欣慰。那么，我一直还有一个疑问，那就是，我们真的不是一个热爱骗人的国家吗？</p>
+<p>民爱主乐：誰不承認我天朝是民主國家，就斃了他！</p>
+<p>富敏荣律师 ：【转神评】理不直而气壮，义不正而词严！无耻近乎勇。</p>
+<p>小角色VVV：吃饭的时候看到这消息，着实伤胃。</p>
+<p>安徽农村外出务工人员：三十多岁了，选票长啥样都没见过！</p>
+<p>神之爱子LPT：指鹿为马永远是一切独裁体制的“优良传统”。</p>
+<p>青岛leicam7：哈哈，看完这个joke，大便格外通畅！</p>
+<p>没有门牙的灰洲人小丁丁：醉了，连条像样的例子都举不出来，通篇照本宣科，五毛课文背得好哇。</p>
+<p>辛亥信条：我激动得赶紧跑去广场打上【民主】【宪政】的横幅，不一会就被警察抓了，说我颠覆国家政权。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%83%BD%E5%88%AB%E5%8A%A8%EF%BC%8C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E5%8F%97%E6%8D%9F%E6%88%BF%E5%B1%8B%E8%AE%A9%E9%A2%86%E5%AF%BC%E5%85%88/" target="cdt-mirror">【网络民议】都别动，天津爆炸受损房屋让领导先住！</a>
+</h2>
+<p><p><strong><a href="http://estate.caijing.com.cn/20150827/3955831.shtml">新京报｜天津港爆炸受损房屋查勘：12栋楼房基本满足使用要求</a></strong></p>
+<blockquote><p>记者了解到，天津市房屋安全鉴定检测中心是天津市国土资源和房屋管理局下属的具有一级资质的房屋安全鉴定机构。</p>
+<p>天津市房屋安全鉴定检测中心总工程师赵亿介绍，目前已对受爆炸事故影响最严重的海港城清水蓝湾1号楼、2号楼、3号楼、4号楼、5号楼、6号楼、8号楼、10号楼，启航嘉园1号楼、2号楼、3号楼，金域蓝湾5号楼共12栋楼房进行了紧急现场查勘检测和安全鉴定。</p>
+<p>经现场查勘，该建筑地基未发现不均匀沉降，未发现不稳定而产生的滑移等损坏现象。<strong>基础未发现因老化、腐蚀、酥碎、折断等产生的结构明显倾斜、位移、裂缝扭曲等现象，基础不存在滑动趋向。</strong></p>
+<p>上部承重结构方面，仅海港城清水蓝湾1号楼1904室的卧室及走廊因过火造成楼板底部钢筋保护层大面积脱落、钢筋外露。</p>
+<p>此外，<strong>建筑倾斜观测数据满足标准要求。</strong></p>
+<p>依据中华人民共和国行业标准《危险房屋鉴定标准》JGJ125-99（2004年版），海港城清水蓝湾1号楼综合判断结果为B级，<strong>其余11栋建筑物综合判断结果为A级。</strong></p>
+<p>赵亿解释说，<strong>A级为结构承载力能满足正常使用要求，未发现危险点，房屋结构安全</strong>；B级为结构承载力基本满足正常使用要求，个别结构构件处于危险状态，但不影响主体结构，基本满足正常使用要求。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/61e04755jw1evgwt8fultj20c80gbjsd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/61e04755jw1evgwt8fultj20c80gbjsd.jpg" alt="61e04755jw1evgwt8fultj20c80gbjsd" width="440" height="587"></a></p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a title="【视频推荐】谁用了我的豆半：天津滨海爆炸受损最严重小区室内视频" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90%E3%80%91%E8%B0%81%E7%94%A8%E4%BA%86%E6%88%91%E7%9A%84%E8%B1%86%E5%8D%8A%EF%BC%9A%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E7%88%86%E7%82%B8%E5%8F%97%E6%8D%9F/">【视频推荐】谁用了我的豆半：天津滨海爆炸受损最严重小区室内视频</a></li>
+<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a>专题</li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/5452390670" target="_blank">_彳余乄G</a>：这房子不敢住，请专家入住卖给专家，你们还是自己消化吧！<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"></p>
+<p><a href="http://weibo.com/1410793175" target="_blank">宁远0812</a>：一切要先照顾到领带，还是让领导搬进去吧。<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
+<p><a href="http://weibo.com/Tscale" target="_blank">神鸟乌鸦</a>：这个“明显”用的好<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/3114385053" target="_blank">一博赟天</a>：基本<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"> 基本<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"> 基本<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@请用Y拼写我的名字：都别动，让领导先住！</p>
+<p>@北京老妪: 注意用词：基本满足！什么是基本满足？暂时塌不了呗。</p>
+<p>@bluewind1979：满足就是满足，不满足就是不满足，基本是啥，别含糊</p>
+<p>@笑尘烂柯：基本个锤子，人家买的好好的房子就该你们震来震去？你们震的，你们查勘的，当然基本没问题。</p>
+<p>@小毛拉爷：基本满足。。汉字的博大精深！</p>
+<p>@管荣君同志：总之，楼是没有给政府添乱。以后谁要再主张回购，那可就是跟政府过意不去了。</p>
+<p>@s朵啦A萌s：呵呵。就该让你们这些人去住，我们海港城业主不会就此放弃维权</p>
+<p>@马儿不吃草呀：典型的报喜不报忧，不觉得用这样的说法安抚大众情绪太牵强了吗？</p>
+<p>@金甲将倾：既当选手又当裁判，你们还要不要点脸？</p>
+<p>@斯贝尔布什-弗洛克：国家真是强大了，房子质量真过硬，炸成这B样了 都没事。。。</p>
+<p>@日耳曼之鹰：请党员干部带头先住，充分发挥先进性</p>
+<p>@摩菲儿：也就是说修修补补再用很多年呗？真是麻烦查勘单位了。</p>
+<p>@乔本莫非：作为人民的公仆，理应冲锋在前，请让领导们先行，都搬过来住在这些房子里，专家学者教授也都相伴左右。</p>
+<p><a href="http://weibo.com/2990118024" target="_blank">吴竹_Lin</a>：没问题？做成监狱把这次事故昨晚负责人都关进去把<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p><a href="http://weibo.com/zhengzhoujungang" target="_blank">丁国钧</a>：平时装修动下承重墙都可能危机整栋楼的安全，看图片炸成这样居然说没事！我信了<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"><img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"><img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p>@tairako：把基本问题避开了，1KM以内不能有居住，不能再有两个并列！这才是基本！</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%83%BD%E5%88%AB%E5%8A%A8%EF%BC%8C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E5%8F%97%E6%8D%9F%E6%88%BF%E5%B1%8B%E8%AE%A9%E9%A2%86%E5%AF%BC%E5%85%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7%E5%A4%A7%E5%8F%91/?category=18271" rel="tag">党性大发</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A9%E9%A2%86%E5%AF%BC%E5%85%88%E8%B5%B0/?category=18271" rel="tag">让领导先走</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/" target="cdt-mirror">自由亚洲｜敏感期将近 进出新疆包裹实名西藏部分地区停邮</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/29ae67ed-6996-4237-bc9e-7418758fbefc.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/29ae67ed-6996-4237-bc9e-7418758fbefc.jpeg" alt="中国邮政局等单位发岀《关于加强抗战胜利70周年纪念活动等重大活动期间寄递物品安全管理工作的通告》(网页照)" width="500" height=""></a><p>中国邮政局等单位发岀《关于加强抗战胜利70周年纪念活动等重大活动期间寄递物品安全管理工作的通告》(网页照)</p></div>
@@ -607,83 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A9%8B%EF%BC%9A%E3%80%8C%E4%B9%9D%E4%B8%89%E3%80%8D%E9%96%B1%E5%85%B5%E4%B8%8D%E5%8F%AF%E7%BC%BA%E4%BA%86%E6%AF%9B%E5%B0%91%E5%B0%87/" target="cdt-mirror">东网｜南橋：「九三」閱兵不可缺了毛少將</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/bkncn-20150824000317791-0824_05411_001_01p.jpg" alt="bkncn-20150824000317791-0824_05411_001_01p" width="549" height="392"></p>
-<p>「九三」閱兵已經進入倒計時，這次閱兵和以往不同，選在國慶前將近一個月的日子，立意不再是慶祝國慶，而是紀念抗日戰爭勝利70周年，這就有了不同以往的看點。最重要的是，閱兵式怎麼來闡釋中國抗日的勝利呢？習近平為首的黨最近強調要反對歷史虛無主義，那就應該尊重歷史。抗戰的歷史，史料很多，當年的人活著的還不少，是誰打的仗，誰領導的抗戰，似乎不該有什麼異議吧？中國的事情可說不準。中國人民解放軍的一位少將，毛澤東的嫡親孫子（將軍啊，如假包換的龍門虎子）就毫不含糊地說過，是他爺爺毛澤東領導的軍隊打敗了日本。這個說法，我相信習總書記聽了是不會不同意的，否定毛澤東正是習總書記最反對的歷史虛無主義。這麼看來，習總書記這次閱兵，應該令毛少將率領，才是真正地繼承了毛的革命遺產，才符合閱兵式的加冕意義。</p>
-<p>中國的閱兵，是國家級政治生活中最為意義重大的儀式，一向就具有最高領導人加冕的神聖性內涵，閱兵和國慶同時舉行，就是要賦予這一儀式以國家神聖的意味。閱兵就是向全國人民表明，權力的最終歸屬已成定局，天子已經誕生，從此以後，反對「他」就等同「叛逆」「造反」，就必得全國共討之，全民共誅之。</p>
-<p>既然是「加冕」，閱兵就是歷屆最高領導必須有的典禮，不來那麼一次，就等於見習期還沒畢業。同樣的道理，「加冕」也不能多搞，多了就不稀奇了，加了再加就會產生加得不牢而需要鞏固的意思。鄧小平是搞過兩次閱兵的，眾所周知鄧是中共領導層中權力起伏最大的人。用如今突然熱門的術語「政治規矩」來說，鄧坐上那把第一交椅，有大可質疑的空間。鄧是用計謀廢黜了毛澤東親自選定且有書面文件保證的毫無疑義的合法接班人華國鋒之後，才成為第一把手的。可惜華國鋒沒有來得及好好搞一次閱兵。而鄧雖然上去了，卻感覺臀下不穩，搞過第二次閱兵，才算穩穩地加了冕。</p>
-<p>江澤民是「空降兵」出身，在黨內國內要服眾，沒有鄧的督戰則幾乎沒有可能。鄧在，他只要亦步亦趨就是安全的。他在鄧的保護下，把那一股子小媳婦受的氣都攢了起來，這是他日後用權特別暢快淋漓的心理原因，這和經歷過饑荒及人民公社匱乏時代的人掌了權特別貪婪是同一個道理。鄧在，他是不敢搞閱兵加冕的。鄧一走，他就一點不耽擱地搞了大閱兵。這次閱兵儀式是帶血的，江澤民用法輪功為他的加冕祭了旗。</p>
-<p>胡錦濤接班，加冕也少不了，不搞一次閱兵，冠冕表現不出分量，缺乏毋庸置疑的神聖性。那是一次相當壯觀的閱兵式，把從毛澤東開始歷屆最高領導的牌子依次抬了出來。今天如果有機會再看一遍閱兵的錄像，大家不妨再看看閱兵式上胡和江的表情。以後十幾年中國政治的微妙之處，都已經在他們兩位的表情裏預演過了。</p>
-<p>胡錦濤的閱兵是一次窩囊的表演，而胡錦濤執政時期，也是他窩窩囊囊的時期。他這位軍委主席，全國全黨最重要最有威懾力的職務，兩位副手都是江澤民給他定下的。他在徐才厚、郭伯雄的左擁右護下當軍委主席，不容易。可以說，江澤民耍權有多淋漓痛快，胡錦濤守權就有多窩囊憋氣。胡的懦弱窩囊，從他閱兵的風格就定下來了。</p>
-<p>可見閱兵儀式確實非常重要，倒不關國運民生什麼事，卻事關最高領導執政的那股子「氣」。是喜氣還是殺氣，是凶還是吉，且看閱兵式。從政治心理學的「科學」角度來說，閱兵的氣勢和場面，能向全國全黨發射一種心理暗示（現在習總書記最喜歡用的詞叫「滿滿的正能量」），把最高領導的權威在人民心中凝聚起來，鞏固下來。從神秘主義的角度來說（神秘主義雖然不科學，但是老一輩革命家其實都是有點相信的），閱兵這種儀式帶有天賦君權的神秘力量。誰搞過了閱兵，誰就真的成為正統的法定繼承者了。</p>
-<p>這次習總書記選在抗戰勝利紀念日閱兵而不是在國慶閱兵，給閱兵增加了前所未有的新看點。這和民間口頭好戰派說的南海危機、震懾日本都八杆子打不著，閱兵這種儀式從來就只有對內的意義，對外是一點沒有用的。以為踢正步就能嚇唬日本人，習總書記可沒有那麼幼稚。習總書記執政後的作為說明，他不認為他是在接胡錦濤的班，把上一任書記的工作繼續下去。相反，他是要扭轉上一任書記的被動窩囊局面。他也不是要接江澤民的班，江提拔上去的人，他多半要換下來的。他甚至於不是接鄧小平的班。習總書記是毛澤東時代成長起來的革命接班人，他要接的是毛澤東的班。他的「反對歷史虛無主義」直白點說就是肯定毛澤東的路線。這和紀念抗戰有什麼關係呢？要知道習總書記是在「中流砥柱」的前提下思考問題的，習總書記紀念抗戰決不是表彰蔣委員長，而是要把自己的合法性和「中流砥柱」聯繫起來。而這一切，邏輯上都要從毛少將的「我爺爺打敗了日本人」才能說得通。所以，這次閱兵，拼了命也得把「中流砥柱」樹起來。</p>
-<p>為此，我以為最好的做法就是讓毛少將舉著他爺爺的畫像，走在威武雄壯的士兵方陣的最前面，意味著毛少將把他爺爺的革命旗幟，親自傳遞到了今日總書記的手裏。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%AF%9B%E6%96%B0%E5%AE%87%E5%9B%9E%E7%A4%BC.jpg" alt="毛新宇回礼" width="440" height="237"></p>
-<p>那將是何等壯觀的場面，相信這場面感動中國是不成問題的。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A9%8B%EF%BC%9A%E3%80%8C%E4%B9%9D%E4%B8%89%E3%80%8D%E9%96%B1%E5%85%B5%E4%B8%8D%E5%8F%AF%E7%BC%BA%E4%BA%86%E6%AF%9B%E5%B0%91%E5%B0%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%96%B0%E5%AE%87/?category=18271" rel="tag">毛新宇</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E5%91%A8%E6%BF%82%EF%BC%9A%E6%AD%A3%E6%AD%A5%E8%B5%B0%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%81%90%E6%80%96%E3%80%81%E4%B8%91%E9%99%8B%E7%9A%84/" target="cdt-mirror">华夏文摘｜周濂：正步走是世界上最恐怖、丑陋的权力宣言</a>
-</h2>
-<p><p>日落时分，印、巴两国举行关闭国境仪式，双方长官一声令下，军营里就会放出两群盛装卫兵，抬头挺胸，提臀摆胯，以九死而不悔的姿势直扑边境线，然后各自站定，冲着对方开始高抬腿、猛跺脚。每当此时，围观群众的情绪就会达到高潮，开始捶胸顿足，并发出《动物世界》里才会出现的啸叫声。</p>
-<p>据说这个仪式一度是印、巴旅游的必选项目，引来观光客无数，不过就在3年前，这个节目被叫停了，原因是每天举脚过头的正步走表演给卫兵的身心造成了严重伤害，为此印方与巴方协议降低挑衅程度，放弃使用这种高难度的抬腿动作。</p>
-<p>我越想越觉得这事儿充满了辛酸的喜感。记忆中的正步走可不是这样的，1984年国庆35周年阅兵仪式是我第一次领略正步走的风采，它纪律严明飘逸挺拔，让人屏息凝神，神往不已，当女兵方队走过天安门广场前，甚至还让年少的我产生了一丝心动的感觉。</p>
-<p>后来看纳粹党人在纽伦堡集会的纪录片《意志的胜利》，屏息凝神的感觉还在，但已与神往无关，而是一种近乎无法呼吸的压抑感。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/zheng3.jpg" alt="zheng3" width="487" height="329"></p>
-<p>德国是正步走的发祥地，19世纪早期普鲁士军队为了炫耀军国主义的赫赫武功，发展出这一“迄今为止人类所发明的最矫揉造作却最富表现力的肢体运动形式之一”。1920年代，希特勒在纳粹党人的冲锋队中沿用了正步走，最终成为党卫军和纳粹德国国防军的步法。正因为存在这样一层历史因缘，二战胜利后，联邦德国把正步作为法西斯主义的象征而彻底废除。崇尚个体自由的英美等国则从未采用过正步走。</p>
-<p>看《意志的胜利》，总让我想起乔治.奥威尔的这段话：“正步走是世界上最为恐怖的景象之一，甚至比俯冲轰炸机还更令人感到恐怖。这就是一个赤裸裸的权力宣言，相当明确而刻意地存在于其中的，是靴子直冲着脸而来的景象。它的丑陋，是其存在的一部分，因为它正在宣称的就是：‘是的，我很丑，但你不敢嘲笑我。’”</p>
-<p>“我很丑，但你不敢嘲笑我！”奥威尔的这个观察可谓入木三分，可是光有恐吓仍然不够，墨索里尼说：“所谓法西斯主义，首先是一种美。”由此可见，权力要想赢得敬畏，除了颟顸霸道混不吝之外，还需要懂得那么一点点的美学原理。我猜想在观看纳粹冲锋队员的正步行进时，一定有人会被整齐划一、无懈可击的力量感所震慑，同时也会被其中所蕴含的庄严肃穆的美感所魅惑。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/zheng2.jpg" alt="zheng2" width="298" height="251"></p>
-<p>事实上，我一直认为一个人的政治立场是左还是右，他对于权力的态度是喜还是恶，很大程度上就是审美趣味的问题。</p>
-<p>以前我的口味就比较的重。因为历史问题，刚入北大时，我和我的小伙伴们被发配到石家庄踢过整整一年的正步。记得发军装的那天，我没能抵挡住制服的诱惑，在穿衣镜前大呼小叫、搔首弄姿。在接下来的一年里，我积极钻研正步走、齐步走和跑步走的动作要领，努力学习政治，争当队列标兵，每次饭前合唱革命歌曲都用尽浑身力气，对于滥竽充数的同学还心存鄙夷愤怒和不满。直到多年以后，我参加91级同学入学20年的庆典，几百人的大合照，在排队等候领导入座时，有好事者提议大合唱“团结就是力量”，我环顾四周，看到身边的每一张脸都在激情洋溢地放声高歌，只有我独自站在队伍中间，一个字都唱不出来。我明白，一定是因为我的审美趣味发生了变化。</p>
-<p>谁在年轻时没有爱过几个人渣？我从不认为一句“青春无悔”就可以把所有的压抑和扭曲一笔勾销。</p>
-<p>当美学的面纱被撕破，“我很丑，但你不敢嘲笑我！”就只剩下赤裸裸的权力在做支撑，但是如果权力本身已经不招人待见，或者压根就没有权力却依旧张牙舞爪地“不许”别人笑，整件事情就会变得有些滑稽和可笑。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/zheng.jpg" alt="zheng" width="498" height="319"></p>
-<p>最近网上流传一张老照片，1936年6月13日，布洛赫姆沃斯造船厂的工人在码头集会，庆祝德国军舰的下水仪式，所有人都在向元首行纳粹礼，只有一个人双手抱胸，拒绝行礼。在放大的图片上，你甚至可以看到他脸上流露出一丝不屑的表情。此人叫做<a href="https://en.wikipedia.org/wiki/August_Landmesser">August Landmesser</a>，他因为和一名犹太女子结婚而两次入狱，最后被当成炮灰送到前线战死在沙场上。</p>
-<p>1991年，德国报纸刊发了这张照片，世人把Landmesser称作勇者，因为面对令人生畏的权力，他做到了——你很丑所以我要嘲笑你！</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E5%91%A8%E6%BF%82%EF%BC%9A%E6%AD%A3%E6%AD%A5%E8%B5%B0%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%81%90%E6%80%96%E3%80%81%E4%B8%91%E9%99%8B%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">大独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E7%B2%BE%E9%80%89/?category=18271" rel="tag">独裁精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2-%E6%B1%9F%E6%BE%A4%E6%B0%91%E9%A1%8C%E5%AD%97%E8%A2%AB%E7%A7%BB-%E3%80%8C%E5%8E%BB%E6%B1%9F%E5%8C%96%E3%80%8D%E7%82%B8%E4%BA%86%E9%8D%8B/" target="cdt-mirror">聯合新聞網 | 江澤民題字被移 「去江化」炸了鍋</a>
-</h2>
-<p><div>
-<div>
-<h3>2015-08-25 03:19:54 世界日報 中國新聞組／北京24日電</h3>
-<p> </p>
-</div>
-<div>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/photo.php_.jpg" alt="photo.php" width="551" height="419"></p>
-<h4>中共中央黨校大院南門草坪，原先安放的由江澤民題寫校名巨石，已被移走。（取材自微博） 許靜予</h4>
-<p>中共元老江澤民近日又成熱議焦點。繼本月13日網曝上海空軍政治學院一座大樓拿下江澤民的題字後，不到十天時間，中共中央黨校由江澤民題字的巨石，也被移除。</p>
-</div>
-<p>中廣網21日刊出簡短消息稱，北京海淀區大有莊100號中共中央黨校校門前題有「中共中央黨校」的巨石已經被移走，大型施工機械正在現場施工，幾名工人在整理裸露的地面。由於巨石上「中共中央黨校」六個大字，是江澤民題字，如今巨石被移除，海外輿論如炸鍋般紛紛轉發並據此揣測江澤民境遇不佳。</p>
-<p>中共官場向有去除落馬官員題詞的傳統，例如中越邊境老山將軍林的題字石碑中，原有郭伯雄和徐才厚親手種植松樹，樹旁還立有石碑記載郭、徐所植。當二人落馬之後，石碑跟著消失。政法王周永康失勢後，其在母校中國石油大學內的題字也是同樣下場。</p>
-<p>繼中央黨校搬移巨石，加上稍早上海空軍政治學院一座大樓以及301醫院大樓上江澤民題字亦遭拆除，一波波拆除動作，敏感人士嗅出不尋常氛圍，輿論出現「去江化」負面解讀，分析起來煞有介事。軍中大老虎徐才厚、郭伯雄二人都是江的愛將，而本月初澎湃新聞報導北戴河新聞時，細數曾來此避暑的中共領導人，在7000字長文裡卻不見江澤民。人民日報發表《辯證看待人走茶涼》文章，新京報接續高調評論不干政前領導人鄧小平、萬里、田紀雲、朱鎔基及胡錦濤，同樣避而不提江澤民。諸多信息似乎都指向對江不利。</p>
-<p>不過，也有分析認為拆除題字之舉，可能都是一種正常的工程操作。畢竟江澤民在任內或退休之後，巡視各地都會題詞，多年之後，出現一些改動亦屬正常；那些擴張解釋為所謂「去江化」，並沒有明確有力論據支撐。</p>
-<p>多維新聞稱，中央黨校移走巨石是該校裝修工程一部分，江澤民題詞巨石是移到校門內；並非外界盛傳的「去江化」，而是以豎立馬恩毛鄧，以及焦裕祿、谷文昌等人石像，藉以突出強調共產黨紅色傳統。</p>
-<p>中央黨校網23日刊登「夏日校園別樣美」文章，特別指出：「原來放在校門外大路邊的校名碑，現在移放在校門內，在綠草冬青烘托下，與高大的主樓建築互為映襯，自然而莊重。」藉以凸顯江題字巨石並非「拆除」，而是搬到校內，暗指外界諸多揣測均非事實。</p>
-</div>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2-%E6%B1%9F%E6%BE%A4%E6%B0%91%E9%A1%8C%E5%AD%97%E8%A2%AB%E7%A7%BB-%E3%80%8C%E5%8E%BB%E6%B1%9F%E5%8C%96%E3%80%8D%E7%82%B8%E4%BA%86%E9%8D%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1/?category=18271" rel="tag">中共中央党校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1/?category=18271" rel="tag">中央党校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -705,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t49sgxoeibzr.cloudfront.net">https://d1t49sgxoeibzr.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://dhng7frv9963z.cloudfront.net">https://dhng7frv9963z.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/></td>    </tr>
 </table>

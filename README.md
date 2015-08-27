@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dn5vts7sirhrp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28faw04g3bsqf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,124 @@
                 <td></td>
                 
         
-        <td><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://d1cjoqoqizlok9.cloudfront.net">https://d1cjoqoqizlok9.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d2ms0hxgukqgle.cloudfront.net">https://d2ms0hxgukqgle.cloudfront.net</a><br/><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d2ms0hxgukqgle.cloudfront.net">https://d2ms0hxgukqgle.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/><a href="https://d1cjoqoqizlok9.cloudfront.net">https://d1cjoqoqizlok9.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%82%A1%E5%B8%82%E4%B8%8D%E5%90%AC%E5%85%9A%E8%AF%9D%EF%BC%8C%E5%AA%92%E4%BD%93%E6%80%8E%E8%83%BD%E4%B8%8D%E5%90%AC%EF%BC%9F/" target="cdt-mirror">自由亚洲｜股市不听党话，媒体怎能不听？</a>
+</h2>
+<p><p>中国股市沪指节节告退，星期三失守3000点大关。美国《纽约时报》星期三刊登长文说，中国股市哀鸿遍野这么大的事，中国官方喉舌媒体却基本保持沉默，既不提也不报。</p>
+<p>中国股市目前的震荡波及全球股市，中国股市目前的暴跌牵动至少7000万中国活跃的股民，如此大事，像《人民日报》、新华网和中央电视台那样的中国官方喉舌媒体竟然只字不提，许多人不禁要问什么？旅居瑞典的中国问题观察人士黎原野先生星期三表示，这是中国官方媒体秉承他们一贯的做法：</p>
+<p>“因为中国官方媒体， 尤其像《人民日报》和中央电视台那样中央一级的媒体，有一个鲜明的传统是报喜不报忧。现在，中国股市已经没有希望了，从官方角度看也是如此。这样肯定是件不好的事， 是个忧， 官方媒体不报道也很正常。”</p>
+<p>《纽约时报》星期三的报道说，长达24版的《人民日报》，号称“让新闻离你更近”的华网和中央电视台都对中国股市近日的惨状没有片言只语的报道。然而，今年四月，以《人民日报》为代表的中国官方媒体却大肆报道，鼓励股民投身股市，忽悠百姓说中国股市的春天到了。</p>
+<p>中国独立作家野渡星期三表示，中国官方媒体对中国股市的惨状不报道也是没有办法的办法：</p>
+<p>“因为这波中国股市上扬并没有坚实的经济发展作为基础，今年中国经济发展并不好，恐怕甚至连7%也达不到。现在股市大跌不仅打击了中国投资者的信心，而且也摧毁了海外机构投资者的信心。中国政府的救市不仅没有有助于股市企稳，使投资者重拾信心，反而适得其反。 在这种情况下，无论官方媒体说什么， 投资者和股民都不信了，官方陷入束手无策的境地。”</p>
+<p>中国股市经历“黑色星期一”以来，中国官方媒体鸦雀无声。作家野渡认为，此时如果官方媒体继续鼓噪，可能起到逆反的效果；中国股市上涨时， 中国官方媒体为中国股市造势是听党的话；今天中国股市大跌时，中国官方媒体默不作声也是听党的话。对此，黎先生表示：</p>
+<p>“中国官方媒体对中国股市没有任何新闻报道的新闻其实已经表达了一个意思， 即国家队救市基本失败，中国政府高层也知道救市失败的结果；官方对救市已不抱任何希望。 由于目前中国股市的惨状无论从经济角度看还是从政治方面分析， 对中国政府绝对都不是什么好事，由此中国政府要淡化处理。中国官方媒体对不好的事以前也这么处理，这么做， 这次只不过体现在股市上。”</p>
+<p>《纽约时报》星期三刊登的长篇文章透露，今年六月，中国官方媒体被指示可以报道股市， 但条件是要与官方要求一致，不能引发悲观情绪和恐慌，如媒体不能对股市表现进行深度分析，不能预测或评估股市的走势，不能使用像暴跌暴涨之类充满感情色彩的词汇。虽然中国政府可以对自己控制的媒体指手画脚，让他们说就得说，让他们不说就不能说，但是现在的市场却有自己的运行规律，政府那只有形的手再怎么指挥也可能不起作用。</p>
+<p>记者:闻剑 责编:吴晶</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%82%A1%E5%B8%82%E4%B8%8D%E5%90%AC%E5%85%9A%E8%AF%9D%EF%BC%8C%E5%AA%92%E4%BD%93%E6%80%8E%E8%83%BD%E4%B8%8D%E5%90%AC%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%BF%BD%E8%B4%A3%EF%BC%9A%E4%BA%A4%E5%A7%94%E5%A4%A9%E6%B4%A5%E6%B8%AF%E4%B8%83%E5%90%8D%E5%8E%85%E5%AE%98%E8%A2%AB%E7%AB%8B%E6%A1%88/" target="cdt-mirror">BBC｜天津爆炸追责：交委天津港七名厅官被立案</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150825160339_tianjin_blast_512x288_reuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150825160339_tianjin_blast_512x288_reuters_nocredit.jpg" alt="150825160339_tianjin_blast_512x288_reuters_nocredit" width="660" height="371"></a></p>
+<p><strong>中国新华社周四（27日）公布了检方和公安部门对天津港“8•12”特别重大火灾爆炸事故的调查结果。包括7名厅级官员在内的11名公职人员被检查机关立案侦查，包括瑞海公司高管在内的12名公司人员以犯罪嫌疑人身份被刑事拘留或监视居住。</strong></p>
+<p>中国检察机关立案侦查的公职人员主要来自于天津市和天津港集团有限公司，其中包括7名厅级官员。</p>
+<p>根 据新华社的报道，检方分别以涉嫌玩忽职守罪对天津市交通运输委员会主任武岱（正厅级）、原天津市交通运输和港口管理局副局长李志刚（副厅级、已退休）、天 津市交通运输委员会港口管理处处长冯刚、天津市安全生产监督管理局副局长高怀友（副厅级）、滨海新区安全生产监督管理局局长曹春波、滨海新区规划和国土资 源管理局副局长朱立明、天津海关副关长兼新港海关关长王家鹏（副厅级）、天津港（集团）有限公司总裁郑庆跃（正厅级）、天津港（集团）有限公司总裁助理李 洪峰（副厅级）、天津港（集团）有限公司安监部副部长郑树国依法立案侦查并采取刑事强制措施，以涉嫌滥用职权罪对交通运输部水运局副巡视员王金文（副厅 级）依法立案侦查并采取刑事强制措施。</p>
+<p>中国公安部门采取刑拘或监视居住的人员主要来自事故企业瑞海物流和为其提供安全评估报告的天津中滨海盛安全评价监测有限公司。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150827033301_zhengqingyue_tianjin_port_ceo_512x288_binhainewareagovernment_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150827033301_zhengqingyue_tianjin_port_ceo_512x288_binhainewareagovernment_nocredit.jpg" alt="150827033301_zhengqingyue_tianjin_port_ceo_512x288_binhainewareagovernment_nocredit" width="624" height="351"></a><p>天津港集团公司总裁郑庆跃曾在19日出席发布会。</p></div>
+<p>根据新华社的报道，8月14日，公安部门依法对瑞海公司及相关人员以涉嫌重大责任事故罪、非法储存危险物质罪立 案侦查。8月20日，依法对提供安全评价报告的天津中滨海盛安全评价监测有限公司及相关人员以涉嫌提供虚假证明文件罪立案侦查。目前，已对瑞海公司董事长 于学伟，副董事长董社轩，副总经理曹海军、刘振国、田旺，前法定代表人李亮，安保部经理郭向滨，财务总监宋齐，操作部副经理李雅翔，天津中滨海盛安全评价 监测有限公司评价师曾凡强等12名犯罪嫌疑人依法刑事拘留；对在事故中受伤的瑞海公司总经理只峰、主管安全的副总经理尚庆森2名犯罪嫌疑人依法监视居住。</p>
+<p>新华社报道引用了最高人民检察院对事故责任进行的初步定性，透露出监管部门失职的一些细节，部分回应了此前媒体的关注焦点。</p>
+<p>检察机关认为，天津市交通运输委员会可能的问题是，违规发放经营许可证。</p>
+<p>天津市安全生产监督管理局和滨海新区安全生产监督管理局可能的问题是，对瑞海公司存在的安全隐患和违法违规经营问题未及时检查发现和依法查处。</p>
+<p>滨海新区规划和国土资源管理局可能的问题是，明知瑞海公司经营危险化学品仓储地点违反安全距离规定，未严格审查把关，违规批准该公司危险化学品仓储业务规划。</p>
+<p>天津新港海关“给不具备资质的瑞海公司开辟绿色进出关通道，放纵瑞海公司从事违法经营活动”。</p>
+<p>天津港（集团）公司“对瑞海公司存在的安全隐患和违法违规经营问题未有效督促纠正和处置”。</p>
+<p>交通运输部水运局副巡视员王金文“违法行使职权，帮助不符合安全规定的瑞海公司通过安全评审，致使不具备资质的瑞海公司通过了危险化学品经营有关资质的审批”。</p>
+<p>这份调查结果并未触及更高层级的天津市领导。在8月19日天津市政府举行的新闻发布会上，中共天津市委代理书记、市长黄兴国曾表示，自己对这次事故“负有不可推卸的责任”。</p>
+<p>天津爆炸发生后，中国国家主席习近平及总理李克强多次承诺，要彻查原因，依法严格追责、严厉问责、严肃查处、对设计玩忽职守、失职渎职、违法违规的，要一究到底，坚决处理，决不姑息。</p>
+<p>截至北京时间25日下午3时，天津爆炸共发现遇难者135人。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%BF%BD%E8%B4%A3%EF%BC%9A%E4%BA%A4%E5%A7%94%E5%A4%A9%E6%B4%A5%E6%B8%AF%E4%B8%83%E5%90%8D%E5%8E%85%E5%AE%98%E8%A2%AB%E7%AB%8B%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8/?category=18271" rel="tag">公共安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E5%AE%89%E5%85%A8/?category=18271" rel="tag">生产安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D%E8%A2%AB%E5%B0%81-%E9%A9%BB%E4%BA%AC%E5%88%86%E7%A4%BE%E5%8F%91%E8%A1%A8%E5%A3%B0/" target="cdt-mirror">半岛电视台官方微博大阅兵前被封 驻京分社发表声明</a>
+</h2>
+<p><p>注：<a href="http://weibo.com/yizhate">@伊扎特</a>在新浪微博的认证信息为“半岛电视台驻京分社社长”。</p>
+<blockquote><p>@伊扎特：半岛电视台的官方微博昨天中午左右被封，我们从今年一月份起陆续启用了中国的社交媒体账号，致力于向中国网民介绍真实的阿拉伯世界。为了长远的发展，我们甚至揣摩中国的规则并主动采取了自我审查，但依旧在阅兵前被无理由封杀。我们会尝试联系新浪微博和有关部门尽快解决问题，感谢网民的支持。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%8D%8A%E5%B2%9B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%8D%8A%E5%B2%9B.jpg" alt="半岛" width="450" height=""></a><br><em>（图片来源：Twitter @beidaijin）</em></p>
+<blockquote><p><a href="http://weibo.com/2120114755/CxLGdcVfE">@伊扎特</a>: 第一份声明被新浪设置为隐藏，这是第二份声明。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6262b439jw1evh85c1gnoj20jj0xn0zi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6262b439jw1evh85c1gnoj20jj0xn0zi.jpg" alt="6262b439jw1evh85c1gnoj20jj0xn0zi" width="550" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D%E8%A2%AB%E5%B0%81-%E9%A9%BB%E4%BA%AC%E5%88%86%E7%A4%BE%E5%8F%91%E8%A1%A8%E5%A3%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/" target="cdt-mirror">中小学生守则修订版：一年后还是得爱党</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B8%8A%E5%AD%90%E5%B4%96%E4%BF%9D%E5%8D%AB%E6%88%98.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B8%8A%E5%AD%90%E5%B4%96%E4%BF%9D%E5%8D%AB%E6%88%98.jpg" alt="渊子崖保卫战" width="575" height=""></a><br><em>（广电总局重点扶持的爱国题材动漫《渊子崖保卫战》宣传海报；网络图片）</em></p>
+<p>2014年8月，教育部发布《中小学生守则（征求意见稿）》，并<a href="http://www.gov.cn/xinwen/2014-08/01/content_2728301.htm">向社会公开征求意见</a>。这个曾被中国媒体<a href="http://news.ifeng.com/a/20140811/41524941_0.shtml">大赞</a>为最<strong>“接地气”的版本，去掉了2004年旧版守则中诸如“热爱中国共产党”、“热爱人民”、“见义勇为”等充满意识形态的内容</strong>。</p>
+<p>2015年8月27日，教育部印发了《中小学生守则(2015年修订)》。短短一年后，这个最新版本的第一条守则却竟然<strong>再度回到了2004年旧版中的“热爱中国共产党”、“热爱人民”</strong>。《意见稿》中的“了解国情历史”也在新版中随之变成了“了解党史国情”。</p>
+<p>另外值得一提的是，与近年来中共当局<a href="http://chinadigitaltimes.net/chinese/2015/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%98%A5%E6%99%9A%E4%B8%AD%E7%9A%84%E5%AD%9D%E9%81%93%E5%AE%A3%E4%BC%A0/">积极宣传孝道</a>的行为相呼应，《意见稿》中的“尊敬父母师长”在2015新版中被修改成“孝父母敬师长”。</p>
+<p><strong>附上述三个版本的《中小学生守则》内容：</strong></p>
+<h3><span><strong>使用了十年的2004年版《中小学生守则》</strong></span></h3>
+<p>1、<span><strong>热爱祖国，热爱人民，热爱中国共产党</strong>。</span><br>
+2、遵守法律法规，增强法律意识。遵守校规校纪，遵守社会公德。<br>
+3、热爱科学，努力学习，勤思好问，乐于探究，积极参加社会实践和有益的活动。<br>
+4、珍爱生命，注意安全，锻炼身体，讲究卫生。<br>
+5、自尊自爱，自信自强，生活习惯文明健康。<br>
+6、积极参加劳动，勤俭朴素，自己能做的事自己做。<br>
+7、孝敬父母，尊敬师长，礼貌待人。<br>
+8、热爱集体，团结同学，互相帮助，关心他人。<br>
+9、诚实守信，言行一致，知错就改，有责任心。<br>
+10、热爱大自然，爱护生活环境。</p>
+<h3><span><strong>2014年 《中小学生守则（征求意见稿）》</strong></span></h3>
+<p>1.<span><strong>爱祖国。尊敬国旗国徽，奏唱国歌肃立，升降国旗行礼，了解国情历史。</strong></span><br>
+2.爱学习。勤思好问，乐于探究，上课专心听讲，勇于发表见解，按时完成作业，养成阅读习惯。<br>
+3.爱劳动。自己事自己做，积极承担家务，主动清洁校园，参与社会实践，热心志愿服务，体验劳动创造。<br>
+4.讲文明。<span><strong>尊敬父母师长</strong></span>，<span><strong>平等友善待人</strong></span>，言行礼貌得体，自觉礼让排队，保持公共卫生，爱护公共财物。<br>
+5.讲诚信。守时履约，言行一致，知错就改，有责任心，不抄袭不作弊，不擅动他人物品，借东西及时归还。<br>
+6.讲法治。遵守校纪校规，<span><strong>参与班级管理</strong></span>，养成规则意识，了解法律法规，不做违法之事。<br>
+7.护安全。红灯停绿灯行，防溺水不玩火，会自护懂求救，远离毒品，珍惜生命。<br>
+8.护健康。养成卫生习惯，不吸烟不喝酒，控制上网时间，抵制不良信息，坚持锻炼身体，保持阳光心态。<br>
+9.护家园。节粮节水节电，践行垃圾分类，爱护花草树木，低碳环保生活，保护生态环境。</p>
+<h3><span><strong>《中小学生守则(2015年修订)》</strong></span></h3>
+<p>1.<span><strong>爱党爱国爱人民。了解党史国情，珍视国家荣誉，热爱祖国，热爱人民，热爱中国共产党。</strong></span><br>
+2.好学多问肯钻研。上课专心听讲，积极发表见解，乐于科学探索，养成阅读习惯。<br>
+3.勤劳笃行乐奉献。自己事自己做，主动分担家务，参与劳动实践，热心志愿服务。<br>
+4.明礼守法讲美德。遵守国法校纪，自觉礼让排队，保持公共卫生，爱护公共财物。<br>
+5.孝亲尊师善待人。<strong><span>孝父母敬师长</span></strong>，爱集体助同学，虚心接受批评，学会合作共处。<br>
+6.诚实守信有担当。保持言行一致，不说谎不作弊，借东西及时还，做到知错就改。<br>
+7.自强自律健身心。坚持锻炼身体，乐观开朗向上，不吸烟不喝酒，文明绿色上网。<br>
+8.珍爱生命保安全。红灯停绿灯行，防溺水不玩火，会自护懂求救，坚决远离毒品。<br>
+9.勤俭节约护家园。不比吃喝穿戴，爱惜花草树木，节粮节水节电，低碳环保生活。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/06/11LJIy.jpg" alt="" width="449" height="599"><br><em>（新版香港小学生教科书；网络图片）</em></p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/04/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6%EF%BD%9C%E5%86%89%E4%BA%91%E9%A3%9E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%AF%B9%E7%BB%99%E5%AD%A9%E5%AD%90%E7%81%8C%E8%BE%93%E5%AD%9D%E9%81%93%EF%BC%9F/">腾讯大家｜冉云飞：我为何反对给孩子灌输孝道？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%98%AF%E8%A2%AB%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%80%9D%E6%83%B3%E9%81%93/">【图说天朝】中国未成年人是如何被进行“思想道德建设”的</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%BB%81/">【图说天朝】当代中国二十四“仁”</a></li>
+</ul></blockquote>
+<p>【转载请注明来源于中国数字时代，谢谢】</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9C%89%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%97%A0%E8%BF%9B%E4%BA%AC%E8%AF%81%E7%9A%84%E8%BD%A6%E8%BE%86%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8A%A0%E6%B2%B9%EF%BC%8C%E8%87%AA%E5%B7%B1%E6%8E%A8/" target="cdt-mirror">有网友称无进京证的车辆无法在北京加油，自己推车回家</a>
 </h2>
 <p><p><em>来源：Twitter</em></p>
@@ -585,127 +700,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8E%E5%8F%8D%E8%85%90%E5%8E%8B%E5%8A%9B%E8%80%83%E9%AA%8C%E4%B9%A0%E8%BF%91%E5%B9%B3/" target="cdt-mirror">纽约时报｜经济下行与反腐压力考验习近平</a>
-</h2>
-<p><p>香港——对于一位高级领导人来说，身处正在努力解决经济增长放缓问题的中国，他的一天几乎都是这样开始的。7月24日上午，周本顺参加了一个会议，会议的主题是推进习近平的招牌项目之一，也就是为刺激经济增长、将北京与周边地区一体化建立一个“超级城市”的计划。</p>
-<p>但是，到那天下午6点10分时，周本顺的职业生涯已经结束，他面临的是多年的监禁。</p>
-<p>中国共产党反腐败机构宣布，周本顺因“涉嫌严重违纪违法”，目前正在接受调查，这意味着他也丢掉了河北省委书记的职位，河北是全国人口大省之一。</p>
-<p>周本顺是被习近平打掉的首位在职的省级共产党领导人，他的突然落马凸显了弥漫在共产党精英阶层的不确定性，这些精英们要对付两件超出他们控制的令人紧张的事情：一是经济发展放缓，其情况看来比官员们预期的还要糟糕，可能标志着中国快速发展时代的结束；二是针对官员的反腐败运动，它持续的时间之久、涉及的层级之高也已超出大多数人的预期。</p>
-<p>主导这两种事态发展的人是习近平。自从差不多三年前接任党的总书记以来，习近平一直致力于一种伴随着政治风险的雄心勃勃的政治议程。现在，离习近平前往华盛顿与美国总统奥巴马举行首脑会晤只有几周的时间，这些政治风险看来正在增长。而且有迹象表明，习近平以及其坚持己见的领导风格在党内面临越来越明显的阻力，这可能会牵制他实现目标的能力。</p>
-<p>习近平把自己放在经济政策总设计师的位置上，而这通常是总理的工作，他发誓要调整经济结构，但如果经济增长继续放缓的话，这会让他受到指责。同时，习近平的反腐败运动也让他给自己树了一大批敌人，反腐运动已导致中国一些最有权势的人落马，还导致国内上十万的较低级别官员靠边站。</p>
-<p>据说目前经济状况已使党内高级官员深感担忧。中国经济今年上半年的增长率是最近25年来最慢的，目前看来仍在进一步放缓。作为这种焦虑的一个标志，领导层本月让中国货币以二十多年来的最大幅度贬值，导致全球股票市场暴跌。</p>
-<p>中国股市今年夏天暴跌之后，恐慌的官方采取了救市的做法，这也让习近平的名声受损。习近平领导下的政府把股市作为好的投资渠道推荐给公众已有好几个月了。</p>
-<p>早在这些问题出现前的今年年初，党内的一些元老们就曾私下向习近平建议，让他把更多的精力放在重振经济上，据一位给党政高层官员当顾问的人，以及一份党刊的编辑说，他们两人都因为所描述的是内部讨论的事情而要求不具名。</p>
-<p>这种建议被看作是元老们对习近平管理经济的努力不满的一种表现，也被看作是他们对习近平高调反腐的间接批评，因为一些腐败案件已损坏了元老们的后世名声，并涉及到他们的门徒。那位给党政高层官员做顾问的人复述元老们的建议时说，“当前，经济情况不好，所以党的工作中心应该更多地转到经济上。”</p>
-<p>被习近平拿下的人包括，为其前任担任中共中央办公厅主任的令计划，曾经在党内掌管国家安全部队的重量级人物周永康，曾在指挥中国军队的党组织中、担任位置仅次于总书记的领导的两名将军、郭伯雄和徐才厚。令计划是前任国家主席兼党总书记胡锦涛的亲信，而周永康和那两位将军则是胡锦涛的前任、现年89岁的江泽民提拔上来的。徐才厚在等待军事法庭审理对他的受贿指控时，于今年3月去世。河北省委书记周本顺据认是周永康的亲信，曾为周永康担任助手，但两人没有亲属关系。</p>
-<p>上面提到的那位党刊编辑以及其他人说，反腐运动也激起党内一些普通成员的不满，在官僚机构中引发了一种人人自危的感觉，导致官员们在重要项目上谨小慎微。</p>
-<p>在中国，因为各领域的支持者形成的关系网，退休的党的领导人在各机构内有着很大的影响力。但和上届领导人掌权时的情况相比，习近平巩固权力的速度似乎更快，且没有迹象显示他对党的领导可能会受到挑战。</p>
-<p>然而，过去两周里，两家著名的官方新闻机构刊出了不同寻常的评论文章，暗指内部的混乱。</p>
-<p>第一篇出现在共产党的机关报《人民日报》上。8月10日刊登的那篇文章直言不讳地告诫退休领导人应该远离政治，就像“人走茶凉”一样。文章还谴责“一些领导干部”让“新领导左右为难，不便放开手脚大胆工作”，并且会“削弱党组织的凝聚力战斗力”。</p>
-<p>另一篇评论文章于周三出现在官方的中央电视台的网站上。文章描述了习近平推动的议程遭遇的激烈对抗，呼吁支持他的人加大力度，执行他的政策。在流行的中文网站上广为流传的这篇文章之所以值得关注，不仅是因为它公开承认习近平遇到了反对，还因为它措辞尖锐。</p>
-<p>“不适应改革乃至反对改革的力量之顽固凶猛复杂诡异，可能超出人们的想象，”文章说。</p>
-<p>习近平承诺要对中国经济开展以市场为导向的大规模改革，从而实现长远增长，涉及的计划包括削弱国有企业享有的垄断地位、使经济摆脱对国家引导的低效投资的依赖，以及放宽中国对金融市场的管制，进而让中国的货币人民币，在世界市场上成为美元强有力的竞争者。</p>
-<p>但目前，在面向这些目标的方向上，几乎尚未取得进展。并且随着增长开始停滞，政府采取的一些措施，与习近平允许市场力量在经济中起“决定性作用”的呼声背道而驰，包括上个月为托市而进行的大力干预，以及鼓励国有银行放贷的政策。</p>
-<p>混乱的背后，是领导层内部深层次的焦虑，担心如果中国高速增长的时代结束了，是否还有可能维持社会的稳定。在开放经济以来的37年里，中国的国内生产总值(GDP)扩张了26倍还多，这支撑了中共的威权统治，并让6亿多人口脱离了贫困。</p>
-<p>“大家都明白，当前中国政府最大的执政合法性和赢得民心的支柱，就是经济，”北京著名的政治评论员陈杰人说。“如果经济就此陷落下去，将使中共政权面临更多现实挑战，也给中国社会稳定带来巨大隐患，还使习近平执政团队遭受更多批评。”</p>
-<p>一些人怀疑，经历了几十年的经济高速增长之后，党的领导人和为他们充当顾问的技术官僚，是否有能力肩负起管理放缓的经济这项任务。此前经济的高速增长，在很大程度上是由从农村到城市的大规模人口迁移所推动的。就连持中立态度的观察人士也告诫，习近平承诺得可能太多了。</p>
-<p>“习这一代领导人，他们的雄心、决心，比之于上一届来的要大、来的要广，雄心更大、目标更大，所以他必然在具体的经济问题上不可能像以前投入这么大精力，”清华大学中国与世界经济研究中心主任、央行货币政策委员会前委员李稻葵在一次采访中说。“但是最后的效果怎么样还不清楚，牵扯的因素很多很多。”</p>
-<p>政府管理股市的方式是一个令人担心的问题。今年上半年，股市涨至新高，在一定程度上减少了中国公司的债务负担，官方新闻媒体纷纷喝彩。《人民日报》在4月21日发表文章宣称牛市“才刚刚开始”。</p>
-<p>但上海股市股价在6月12日登顶，然后在不到一个月的时间里下跌了将近三分之一，致使无数借钱投资的小投资者的收益不翼而飞。在此之前，当局没有采取举措纠正股民的错误想法，即股市上涨是政府支持的目标，在习近平的构筑“中国梦”承诺中是不可缺少的一部分。</p>
-<p>加州大学圣迭戈分校(University of California, San Diego)教授巴里·诺顿(Barry Naughton)在一篇即将发表的论文中写道，“在中国仍旧没有建立一个健康运行的股市的情况下，让这样的想法在中国投资人群中传播是极不负责任的。”</p>
-<p>诺顿接受采访时表示，习近平喜欢让自己担任政策制定委员会——中国人称之为“领导小组”——的领导者，这种倾向颠覆了中国一贯的经济政策制定方式。这还可能引发了最近的失误，导致出现更为突然的政策转变。习近平领导了至少六个这样的委员会，其中包括一个管理金融与经济发展的委员会，以及一个负责对经济进行重组的新委员会。</p>
-<p>但诺顿表示，习近平领导的这些委员会没能完全控制经济政策，导致官僚机构有时会不知所措。</p>
-<p>本月可能出现了这种情况，中国的央行改变了设定人民币交易区间的方式，使其更多地响应国内及全球货币市场。此举受到国际货币基金组织(International Monetary Fund)的欢迎，可能会帮助人民币加入该组织的全球储备货币篮子。</p>
-<p>但这也使世界各地的投资者受到惊吓，他们认为人民币贬值4.4%只是一个故作镇定的政府在孤注一掷，希望帮助中国萎靡不振的出口。中国7月份的出口量减少了超过8%。</p>
-<p>党和政府高层领导人的政策顾问表示，经济放缓可能会引发社会动荡，这种担忧促使政治局在7月30日的会议中批准了一系列促进增长的举措，其中包括使人民币贬值的决定。这名顾问表示，接下来会实施其他举措。</p>
-<p>习近平的反腐行动在中国赢得广泛支持，在中国，一小部分人通过滥用政府职位或利用政治关系致富，导致贫富差距不断加大。但一位党中央下属研究机构的退休官员表示，随着经济的衰退，习近平面临的风险倍增。</p>
-<p>“最主要是经济。只要是经济在继续下行，有人会有越来越多的意见，而且领导们的压力会越来越大，”这名官员说。“而现在，经济下行是个事实。”为了自由谈论党内政治，这名官员要求匿名。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8E%E5%8F%8D%E8%85%90%E5%8E%8B%E5%8A%9B%E8%80%83%E9%AA%8C%E4%B9%A0%E8%BF%91%E5%B9%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A9%E5%AA%92%EF%BC%9A%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%86%E4%B8%8D%E5%87%BA%E5%B8%AD%E5%8C%97%E4%BA%AC%E9%98%85%E5%85%B5/" target="cdt-mirror">美国之音｜韩媒：金正恩将不出席北京阅兵</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/7B91B463-6FFB-446C-B990-305EEA30895E_w640_r1_s.jpg" alt="7B91B463-6FFB-446C-B990-305EEA30895E_w640_r1_s" width="549" height="309"></p>
-<p>朝鲜领导人金正恩（资料图）</p>
-<p>韩联社星期一援引一位外交消息人士的话说，朝鲜领导人金正恩已经拒绝中国的邀请，将不参加下个月在北京举行的纪念抗日战争胜利70周年的阅兵。</p>
-<p>这位不愿透露姓名的消息人士对韩联社说，金正恩不在最终确定参加9月3号阅兵的外国 领导人名单上。</p>
-<p>他表示，目前尚不清楚朝鲜方面是否会派第二号人物、朝鲜最高人民议会委员长金永南出席中国的活动。</p>
-<p>这名消息人士说，金正恩拒绝中方邀请表明中朝关系因朝核问题和朝鲜反复无常的举动而出现紧张。</p>
-<p>上述消息传出之际，正值朝鲜半岛局势陷入紧张。</p>
-<p>中国官方媒体《环球时报》星期一发表社评说，中国的9·3阅兵不会因为半岛局势而受到干扰。文章说，如果半岛局势对阅兵造成实际干扰，那么中国不会无动于衷。“中国有的是办法，以自己不挑明、但能被外界识别的方式做出强有力回应。”</p>
-<p>据悉，韩朝双方于星期二凌晨达成协议：朝鲜就地雷炸伤韩国士兵表示歉意，韩国则同意停止向朝鲜广播。</p>
-<p>韩国总统朴槿惠定于9月2日到9月4日访华，但韩国方面没有宣布她是否会出席阅兵。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A9%E5%AA%92%EF%BC%9A%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%86%E4%B8%8D%E5%87%BA%E5%B8%AD%E5%8C%97%E4%BA%AC%E9%98%85%E5%85%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B3%B0%E9%A1%BA%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【河蟹档案】泰顺基督教堂事件</a>
-</h2>
-<p><p>温州当地网警申请对微博发帖网友予以“落地追查”：</p>
-<p>2015年8月23日20时29分网民 Fr_Francis_Jonathan 在新浪微博发帖称2015.8.23浙江温州泰顺后洋教会重立十字架，帖文中附一张教堂图片并配文字说明：泰顺后洋教会8月23主日再次重举，截止目前该帖转发13人，评论1人。8月23日23时26分网民 Fr_Francis_Jonathan 在新浪微博发帖称2015.8.23温州泰顺水笕坳教会重立十字架，帖文中附一张教堂图片并配文字说明：泰顺水笕坳教会第四次荣耀重举2015.8.22，截止目前该帖转发17人，评论2人。为平息网上舆情，维护地方稳定需要，特向支队请求对网民 Fr_Francis_Jonathan 给予落地，请审批！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/IMG_3233.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/IMG_3233.jpg" alt="IMG_3233" width="600" height="450"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B3%B0%E9%A1%BA%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82%E4%BA%8B%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82/?category=18271" rel="tag">基督教堂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">强拆十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%B0%E9%A1%BA%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">泰顺基督教堂事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A4%9A%E4%BA%8B%E4%B9%8B%E7%A7%8B%E4%BB%8D%E9%98%BB%E6%AD%A2%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">博谈网｜多事之秋仍阻止不了中国阅兵</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11148-1024x768.jpg" alt="111" width="551" height="413"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150823143949_6429.jpg@640w_1l_1c_0i_80q_1x_1e.jpg" alt="20150823143949_6429.jpg@640w_1l_1c_0i_80q_1x_1e" width="550" height="310"></p>
-<p>为9月3日的阅兵仪式进行阅兵演练</p>
-<p>（博谈网记者苏智敏报道）天津大爆炸死伤惨重，许多问题未能解决，然而这仍无法阻止中国为阅兵的全力准备，一连串为求稳定的扰民行动，引发民众抱怨。</p>
-<p>阅兵管制像“鬼子进城”</p>
-<p>中国政府在8月22日夜间至23日上午，为9月3日的阅兵仪式在北京天安门地区及长安街沿线举行专项演练。</p>
-<p>这项全流程的演练，出动1万多名官兵、500多台装备、近200架飞机演练阅兵式和分列式；国旗护卫队，解放军联合军乐团、合唱团，礼炮分队，及负责大会报道的中央相关新闻单位也参加这次演练活动。</p>
-<p>演练结束后，《新华网》报导：“参加演练的人员精神饱满，所有演练过程顺利有序，各项演练取得预期效果，为进一步做好纪念大会的各项组织工作积累了经验。3.5万余名各界观众现场观看了演练。”</p>
-<p>中国媒体发布了一系列的演练照片及动态图片，整齐划一的画面可说是气势惊人。</p>
-<p>《新华网》还称：“为最大限度减少对市民工作生活的影响，演练活动安排在周末进行，并提前发布公告，科学安排交通运输，保障城市正常运行。广大市民对专项演练表示充分理解，并给予积极支持。”但市民显然不这么认为，已有许多民众在网上抱怨因阅兵管制，造成生活上的各种不便。</p>
-<p>北京市多个路段实施交通管制，戒严、限行、封站、查证，公共交通负荷不了庞大的上下班人潮，民众苦不堪言。加上商舖被迫歇业，沿线居民被迫备粮、备水，大叹更像“鬼子进城”。</p>
-<p>自由微博一则被新浪微博屏蔽的消息，网友称有朋友晚上出门遇到路口被管制而回不了家，另一位朋友则是在路口碰到阅兵彩排，只能步行绕远路回家：“争取天亮能到”。</p>
-<p>民众纷纷抱怨就算熬过彩排，正式阅兵还要再受罪。</p>
-<p>极权制度的写照</p>
-<p>阅兵对中国来说事关国家颜面，在阅兵训练上十分严格，光是视觉整齐上，就要求单排面达到头线、手线、枪线、腿线、胸线、帽线的六线合一，方队达到横线、竖线和斜线分明的要求。</p>
-<p>只是为了阅兵而进行的这一切，民众不以为然。有网友指出阅兵训练是精益求精，及各种防范措施的提前准备与落实，天津爆炸却是事前管理和事后处理的粗糙混乱，是极权制度最好的写照。</p>
-<p>微博认证为“中央美术学院教师”的“松松_lausson”发表数张也是极权制度的纳粹阅兵照片，对照片中整齐划一的阅兵阵容，许多网友留言说历史总是惊人地相似。但该条微博目前已被删除。</p>
-<p>多事之秋</p>
-<p>在阅兵前夕，尽管中国政府透过一连串的管制措施力保稳定，但事情仍不断发生。</p>
-<p>例如天津大爆炸，这场事故引爆出一连串的问题与民怨，而且至今真实死亡人数还是个谜。另外，有灾民在微博上说：“小区居民大家准备聘请律师进行合理合法维权谈判，但是联系了几位律师，都不愿或是不敢接这件事情，求助网上，有没有愿意帮助我们的律师朋友？”结果网友几乎都回复，敢死磕的律师都被关在牢里了。</p>
-<p>22日再传出装有己二腈的山东桓台润兴化工厂爆炸，空中漂浮着不明物体。据《新华社》报导，事故造成1死9伤，现场监测，暂未检出特征污染物。但许多民众留言表示不相信。</p>
-<p>现在南北韩又局势紧张，中国的“小老弟”朝鲜称不惜全面开战，针对中国放话表示，过去数十年都按照中方的希望保持克制，现在再说克制之类的话，都将无益于局势控制。</p>
-<p>加上已持续好一阵子的股市震荡，中国迎来多事之秋。</p>
-<p>虽然阅兵仪式能展现一个国家的军事力量，但表面强盛不见得内在强壮。苏联就是个例子，1990年11月7日苏联最后一次盛大阅兵，13个月之后，苏联解体。</p>
-<p>这次的阅兵演练，有一幕是装备方队开着数台坦克进场，在1989年也是数台坦克开进天安门，但那时是前来镇压平民。强大的武力能暂时压下民怨，维持稳定，但历史已证明，这方法不能长久。</p>
-<p>随着9月3日的逼进，中共体制从上到下的每个人想必都要绷紧神经。</p>
-<div>遍地“朝阳群众”</div>
-<div></div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Clipboard41_1.jpg" alt="Clipboard41_1" width="548" height="308"></div>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 药不能停 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A4%9A%E4%BA%8B%E4%B9%8B%E7%A7%8B%E4%BB%8D%E9%98%BB%E6%AD%A2%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -717,7 +711,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1cjoqoqizlok9.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dw0vvldd4kf67.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +721,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1cjoqoqizlok9.cloudfront.net">https://d1cjoqoqizlok9.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://d2ms0hxgukqgle.cloudfront.net">https://d2ms0hxgukqgle.cloudfront.net</a><br/><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dw0vvldd4kf67.cloudfront.net">https://dw0vvldd4kf67.cloudfront.net</a><br/><a href="https://dn5vts7sirhrp.cloudfront.net">https://dn5vts7sirhrp.cloudfront.net</a><br/><a href="https://d2ms0hxgukqgle.cloudfront.net">https://d2ms0hxgukqgle.cloudfront.net</a><br/><a href="https://d1cjoqoqizlok9.cloudfront.net">https://d1cjoqoqizlok9.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/></td>    </tr>
 </table>

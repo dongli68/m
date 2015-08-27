@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1yrrnty3yw3um.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2u3ul0dkq96la.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d2u3ul0dkq96la.cloudfront.net">https://d2u3ul0dkq96la.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2u3ul0dkq96la.cloudfront.net">https://d2u3ul0dkq96la.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%B6%E5%B0%9A%E5%85%88%E7%94%9F-%E7%89%B9%E7%A8%BF%EF%BC%9A%E5%A4%A9%E6%89%8D%E8%90%BD%E9%AD%84%E7%9A%84%E6%9A%AE%E5%B9%B4/" target="cdt-mirror">时尚先生 | 特稿：天才落魄的暮年</a>
@@ -482,7 +482,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A0%E8%A2%AB%E5%AD%90/?category=18271" rel="tag">叠被子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%B7%A5%E5%9B%A2/?category=18271" rel="tag">文工团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%85%B5/?category=18271" rel="tag">文艺兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%AD%A6%E4%BC%9A%E8%BF%99%E4%BA%9B-%E4%BD%A0%E4%B9%9F%E8%83%BD%E7%BC%96%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/" target="cdt-mirror">端传媒 | 学会这些 你也能编抗日神剧</a>
 </h2>
@@ -817,7 +817,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2u3ul0dkq96la.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1yrrnty3yw3um.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -827,5 +827,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d2u3ul0dkq96la.cloudfront.net">https://d2u3ul0dkq96la.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d2u3ul0dkq96la.cloudfront.net">https://d2u3ul0dkq96la.cloudfront.net</a><br/></td>    </tr>
 </table>

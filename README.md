@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d393y0lg1spc0n.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ucn5xjsop3r5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d39omkgll2vjff.cloudfront.net">https://d39omkgll2vjff.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d39omkgll2vjff.cloudfront.net">https://d39omkgll2vjff.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9C%89%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%97%A0%E8%BF%9B%E4%BA%AC%E8%AF%81%E7%9A%84%E8%BD%A6%E8%BE%86%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8A%A0%E6%B2%B9%EF%BC%8C%E8%87%AA%E5%B7%B1%E6%8E%A8/" target="cdt-mirror">有网友称无进京证的车辆无法在北京加油，自己推车回家</a>
@@ -717,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3bszoeebybl69.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d39omkgll2vjff.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d39omkgll2vjff.cloudfront.net">https://d39omkgll2vjff.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/></td>    </tr>
 </table>

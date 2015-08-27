@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jef2bkp16tj6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%88%98%E4%BA%91%E5%B1%B1%E5%AD%90%E5%88%98%E4%B9%90%E9%A3%9E%E4%BA%B2%E4%BF%A1%E7%96%91%E6%B6%89%E8%BF%9D%E6%B3%95%E4%BA%A4%E6%98%93%E8%A2%AB%E6%8D%95/" target="cdt-mirror">法广｜刘云山子刘乐飞亲信疑涉违法交易被捕</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/05/a2b6d781jw1esl5psd4w9j20ia0pltec.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/05/a2b6d781jw1esl5psd4w9j20ia0pltec.jpg" alt="共产主义接盘人" width="440" height="616"></a><br><em>（图片来自网络）</em></p>
+<p>大陆股市在当局越救越跌之下，据财经网报导，北京当局日前突然宣布对三个机构的10多名有关人员进行拘查， 其中最受关注的是中信证券董事总经理徐刚等8人，当局指他们涉嫌违法从事证券交易活动。而中信证券的副董事长刘乐飞，正是中共政治局常委刘云山的儿子，据 苹果日报报导，徐刚就是刘乐飞的直接手下。</p>
+<p>另南华早报引述中国证监会一名前任高层披露，这次的拘捕行动，其实早已在好几个星期之前已经展开调查，“调查焦点并非只是有关目前的股市调整，而是涉及更广的层面，比外界想像的还要复杂”。</p>
+<p>报导指，徐刚是1998年加入中信证券，去年薪酬为502.42万元人民币，拥有中信证券股份87万股。当局没有举出徐等人涉何违法证券活动。但由于涉案人数多达8人，料非个人行为，身为中信证券副董事长的刘乐飞恐怕亦难卸责。</p>
+<p>资料显示，刘去年3月出任中信证券副董事长，也是董事会最年轻者。41岁的刘毕业于中国人民大学，曾在国家财政部任职，后在新华证券、中国人寿等公司任职。</p>
+<p>事实上，刘乐飞今年7月21日突然因工作原因辞去新华保险董事一职，已经惹起外界猜疑。新华保险的公告指出，刘乐飞确认自己与其公司董事会没有意见分歧下，辞去非执行董事、董事会战略与投资委员会、董事会提名薪酬委员会委员的职务。</p>
+<p>但当时正值当局暴力救市之际，证监会7月更发出公告，要求股东不得减持公司股份，国资委也发布央企承诺书，称不减持所控股上市公司的股票。</p>
+<p>而据每日经济新闻报道，就在中证监公布消息后的两日，中国人寿减持中信证券3000万股，套现8.2亿人民币。有分析指，在中央政府强力救市措施 下，中国人寿的减持显得不同寻常，并隐约指与刘乐飞有关，因为刘乐飞是现任中信证券董事、副董事长，中国人寿资产管理有限公司独立董事。有舆论甚至认为， 刘乐飞辞职新华保险董事或与中央政府查询股市恶意做空幕后黑手有关。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%88%98%E4%BA%91%E5%B1%B1%E5%AD%90%E5%88%98%E4%B9%90%E9%A3%9E%E4%BA%B2%E4%BF%A1%E7%96%91%E6%B6%89%E8%BF%9D%E6%B3%95%E4%BA%A4%E6%98%93%E8%A2%AB%E6%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%B9%90%E9%A3%9E/?category=18271" rel="tag">刘乐飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1/?category=18271" rel="tag">刘云山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%82%A1%E5%B8%82%E4%B8%8D%E5%90%AC%E5%85%9A%E8%AF%9D%EF%BC%8C%E5%AA%92%E4%BD%93%E6%80%8E%E8%83%BD%E4%B8%8D%E5%90%AC%EF%BC%9F/" target="cdt-mirror">自由亚洲｜股市不听党话，媒体怎能不听？</a>
 </h2>
 <p><p>中国股市沪指节节告退，星期三失守3000点大关。美国《纽约时报》星期三刊登长文说，中国股市哀鸿遍野这么大的事，中国官方喉舌媒体却基本保持沉默，既不提也不报。</p>
@@ -679,27 +697,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E5%B7%B2%E8%B5%B0%E5%88%B0%E5%B0%BD%E5%A4%B4/" target="cdt-mirror">金融时报 | 中国模式已走到尽头</a>
-</h2>
-<p><p>中国今年的8月绝不是一个宁静的神话之月。当单个考察时，股市和汇市行情，甚至耸人听闻的天津爆炸事故，似乎仅仅是运气糟糕的结果。然而，对这些情况综合考察会发现，它们标志着中国经济和政治模式正慢慢走向终结。中国正在经历一场转型危机，一场自邓小平开始在中国未来与毛时代之间画出清晰界限以来的前所未有的危机。</p>
-<p>这些迹象表明，中国转型并不顺利。再推中共的权威和主导地位、实行经常有争议的改革、推动金融自由化，以及在保持不现实增速的同时实现经济再平衡，这些是复杂并且相互冲突的目标。</p>
-<p>在未出现中产阶层和社交媒体的前工业社会，邓小平的任务在许多方面来看更容易完成。他下定决心避免把权力集中到一个人手中，所以向政府机构和各部长、尤其是向国务院和总理赋权，鼓励开放和以共识为基础的政治模式。直到21世纪之前，这种做法都很管用，但其效果在逐渐地降低。中共受到腐败侵蚀，忽略了民众对社会、环境和产品安全的关切。中国经济积累了大量债务，产能严重过剩，沉迷于信贷驱动而又配置不当的投资。</p>
-<p>为了解决这些严重问题，中国国家主席习近平让时钟倒转。他逐渐掌握了比自毛泽东以来任何一位领导人都大的权力，不断强调保持列宁主义式“党的纯洁性”的必要性，以避免苏共的命运。在他的第一批政策里，有一场延续至今的不受法律管辖的反腐运动。他通过建立党的机构——“领导小组”——取代政府机构的权威，这些小组比部委还多，对国家最重要的职能拥有决定权。</p>
-<p>在中国，一定程度上重新集中权力无疑有很强大的理由，尤其是对于实施中共雄心勃勃的改革而言。不过，尽管一些改革取得了进展，但与政府在经济中的职能以及引入市场机制有关的许多改革，遭到了既得利益势力的稀释和抵制。对公民社会、媒体、律师和非政府机构的压制于事无补。强大的中央集权反而抑制了重要改革，使负责执行这些改革的机构丧失权威和问责，还产生了彼此冲突的决策。</p>
-<p>这就是8月动态很重要的原因。对股市的鼓励本应是政府支持市场机制和资金更有效配置的风向标。但在估计逾1500亿美元的非常托市措施之后，中国股市却再度恶化。股指仍在7月初的低点徘徊。中国政府一会儿做拉拉队长，一会儿做监管者，表现出对于自己寻求引入的市场力量的不信任。</p>
-<p>本月人民币小幅贬值被官方解释为中国迈向金融自由化的一次阶段性调整，旨在推动人民币在今年晚些时候被纳入国际货币基金组织(IMF)的核算单位——特别提款权(Special Drawing Right)。不过，中国有关该举动的沟通委婉地说也很糟糕。当局再一次处于矛盾之中，在推动经济再平衡的人民币升值政策和应对增长不断放缓的人民币贬值政策之间左右为难。今年夏天的经济统计数据、特别是出口、制造业和投资方面的数据令人失望，这凸显出刺激措施对过去4年走弱的经济表现已经无能为力了。今年，这些刺激措施已经推动国内生产总值(GDP)增长超过1%。</p>
-<p>中国面临的挑战的核心部分将是其控制就业的能力，这是在政治上比GDP更为敏感的指标。官方失业率（据说多年来一直处于4%左右）是捏造出来的。投资和劳动密集型的建筑业当前的态势、无城市户口人群较低的失业补贴登记率、福利体系的缺陷、以及每年700万毕业生寻找合适工作的困难程度等诸多原因让人相信，失业率可能不仅比国际劳工组织(International Labour Organisation)估计的6.3%更高、而且还在不断上升。</p>
-<p>中国的经济转型一直很艰难，但是今年的事态表明，事情并没有按计划进展。事实正日益证明，权力集中化对改革是一把双刃剑，反腐运动正在遏制经济中的主动性和经济增长，经济无法再通过无休止的刺激来维持不切实际的扩张路线。</p>
-<p>接受长期较低增长的时刻正日益临近。它将以影响中国未来发展前景的方式，检验中国领导人的合法性及改革愿望。</p>
-<p>本文作者为牛津大学(Oxford University)中国中心研究员、瑞银(UBS)高级顾问</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E5%B7%B2%E8%B5%B0%E5%88%B0%E5%B0%BD%E5%A4%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -711,7 +708,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1iyqh7jmumg7e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -721,5 +718,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d1iyqh7jmumg7e.cloudfront.net">https://d1iyqh7jmumg7e.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/></td>    </tr>
 </table>

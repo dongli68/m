@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ucn5xjsop3r5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1yrrnty3yw3um.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/><a href="https://d39omkgll2vjff.cloudfront.net">https://d39omkgll2vjff.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://dafneqb651r5p.cloudfront.net">https://dafneqb651r5p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d3kd4wckdxqj37.cloudfront.net">https://d3kd4wckdxqj37.cloudfront.net</a><br/><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9C%89%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%97%A0%E8%BF%9B%E4%BA%AC%E8%AF%81%E7%9A%84%E8%BD%A6%E8%BE%86%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8A%A0%E6%B2%B9%EF%BC%8C%E8%87%AA%E5%B7%B1%E6%8E%A8/" target="cdt-mirror">有网友称无进京证的车辆无法在北京加油，自己推车回家</a>
@@ -121,7 +121,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7%E5%A4%A7%E5%8F%91/?category=18271" rel="tag">党性大发</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A9%E9%A2%86%E5%AF%BC%E5%85%88%E8%B5%B0/?category=18271" rel="tag">让领导先走</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/" target="cdt-mirror">自由亚洲｜敏感期将近 进出新疆包裹实名西藏部分地区停邮</a>
 </h2>
@@ -474,7 +474,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E7%90%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E8%83%9C%E5%88%A9%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9C%9F%E9%97%B4%E5%B0%86%E5%AE%89%E6%8E%92%E4%B8%80/" target="cdt-mirror">【异闻观止】总局：纪念日期间将安排一大批抗战题材影视作品</a>
 </h2>
@@ -717,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1yrrnty3yw3um.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1tus30pbdlm8g.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d3bszoeebybl69.cloudfront.net">https://d3bszoeebybl69.cloudfront.net</a><br/><a href="https://d39omkgll2vjff.cloudfront.net">https://d39omkgll2vjff.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/><a href="https://d28faw04g3bsqf.cloudfront.net">https://d28faw04g3bsqf.cloudfront.net</a><br/><a href="https://d393y0lg1spc0n.cloudfront.net">https://d393y0lg1spc0n.cloudfront.net</a><br/><a href="https://d1yrrnty3yw3um.cloudfront.net">https://d1yrrnty3yw3um.cloudfront.net</a><br/><a href="https://d3ucn5xjsop3r5.cloudfront.net">https://d3ucn5xjsop3r5.cloudfront.net</a><br/></td>    </tr>
 </table>

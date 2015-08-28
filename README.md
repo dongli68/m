@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1qd5j4le4kxh5.cloudfront.net">https://d1qd5j4le4kxh5.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d25r1obklu34ji.cloudfront.net">https://d25r1obklu34ji.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qd5j4le4kxh5.cloudfront.net">https://d1qd5j4le4kxh5.cloudfront.net</a><br/><a href="https://d25r1obklu34ji.cloudfront.net">https://d25r1obklu34ji.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E7%89%A9%EF%BD%9C%E5%BE%88%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B6%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%98%AF%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89%E8%80%85/" target="cdt-mirror">人物｜很多年轻人并不知道自己是犬儒主义者</a>
@@ -811,5 +811,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d25r1obklu34ji.cloudfront.net">https://d25r1obklu34ji.cloudfront.net</a><br/><a href="https://d1qd5j4le4kxh5.cloudfront.net">https://d1qd5j4le4kxh5.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25r1obklu34ji.cloudfront.net">https://d25r1obklu34ji.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d1qd5j4le4kxh5.cloudfront.net">https://d1qd5j4le4kxh5.cloudfront.net</a><br/></td>    </tr>
 </table>

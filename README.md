@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E-%E7%BE%8E%E5%AD%B8%E8%80%85%EF%BC%9A%E5%A4%A7%E9%99%B8%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%92%9E%E9%96%8B%E6%94%BE%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4/" target="cdt-mirror">台灣新聞 | 美學者：大陸經濟衝撞開放資本市場</a>
@@ -840,7 +840,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ohiqbtzm38h.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dzlz7hgboo5rh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -850,5 +850,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
                 <td></td>
                 
         
-        <td><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/></td>    </tr>
 </table>

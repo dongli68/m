@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2goskbumz8is6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E6%8A%A5%EF%BD%9C%E9%83%9D%E6%9F%8F%E6%9D%91%EF%B8%B0%E7%82%BA%E9%82%84%E5%8E%9F%E6%8A%97%E6%88%B0%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8-%E8%87%B4%E5%A4%A7%E9%99%B8%E7%95%B6%E5%B1%80%E7%9A%84/" target="cdt-mirror">明报｜郝柏村︰為還原抗戰歷史真相 致大陸當局的公開信</a>
@@ -613,7 +613,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/" target="cdt-mirror">中小学生守则修订版：一年后还是得爱党</a>
 </h2>
@@ -777,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2goskbumz8is6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -787,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7
                 <td></td>
                 
         
-        <td><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/></td>    </tr>
 </table>

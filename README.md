@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://dkg2fy9u9wmch.cloudfront.net">https://dkg2fy9u9wmch.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d25r1obklu34ji.cloudfront.net">https://d25r1obklu34ji.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dkg2fy9u9wmch.cloudfront.net">https://dkg2fy9u9wmch.cloudfront.net</a><br/><a href="https://d25r1obklu34ji.cloudfront.net">https://d25r1obklu34ji.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/" target="cdt-mirror">方式书简 | 习近平前妻评习：他不是一个理想主义者</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB.jpg" alt="习近平前妻" width="450" height="395"></a></p>
+<p>《英国侨报》前身为2002年开始发行的《新欧侨报》，始为半月刊，旨在为旅英华人提供信息，为华人社区服务。2009年7月，《新欧侨报》更名为《新欧华报》，并改为周报，旨在更广泛、更全面地服务随新移民不断增加而结构发生变化英国华社。</p>
+<p>文章系供学“习”转载，不代表方式书简（ID：fangshishujian）立场。</p>
+<p>1951 年出生，64岁的柯小明（柯玲玲）是原中国驻英大使柯华的小女儿，她也是习近平的前妻。受过良好教育的柯玲玲，目前她是伦敦一家私立医院的高级主任，也是伦敦大学亚非医学院的客座教授。她在近日接受了英国《侨报》的采访。</p>
+<p>1979年柯玲玲与习近平结婚，因为价值观与性格的不同，1982年，她与结婚三年的习近平离婚，移民英国。而那时的习近平正竞选正定县委书记，习近平毅然放弃了与柯玲玲一同移民英国的机会，并指责柯玲玲贪恋西方繁华。经多次劝说让习近平移民无效，两人最终分道扬镳。</p>
+<p><strong>“与习近平离婚，你觉得后悔吗？”</strong></p>
+<p>柯：“在那个年代，离婚其实是一件非常重要的事情，我和习近平的婚姻很短暂，很重要的一点就是我们几乎没有共同点，谈不上什么后悔不后悔的。他以前是一个很执着的人，想干一番大事业，反正好像我说的话他都听不进去，所以我才选择了离婚这条路。距离不可能让我们产生现实的婚姻和感情。当时我的父亲是非常反对的，他总是认为我做事很鲁莽。”<br>
+“你们之后有联系过吗？”</p>
+<p>柯：“在我去英国的前三年里，他几乎每周都打电话给我，你知道那个年代从中国打电话到英国是不方便的，中国还没有普及电话，条件不比现在，但是我一个电话都没有接听过，这让他非常伤心。我知道他也曾经试图挽回这段婚姻，我当时是铁了心了。久而久之，我们也就没有什么联系了。我知道他心里还是有这份感情的。”</p>
+<p><strong>“ 你当时会想到习近平会成为中国的领导人吗？”</strong></p>
+<p>柯：“没有，完全不会这样去想。他成为中国国家主席，我是非常替他高兴的，因为我离开他的时候，他还只是个科级干部。他是一个很有理想的人，我一直认为他很有潜能，但在当时他的潜能对我而言一无是处。”</p>
+<p><strong>“你觉得在你心里，习近平是一个怎么样的人？”</strong></p>
+<p>柯：“我还是认为他是一个正直的人。1，这是我以前非常看重他的一点。以前我认为他太过于固执，也可能是因为我们相处的时间很短暂，我对他不是很了解吧。现在回过头来看，其实他做的很多事情都是对的，只是自己当年太年轻，比较容易冲动。他不是一个理想主义者，他做事是有规划，有步骤的。我可能会更理想主义一些，毕竟女性都会喜欢懂得浪漫的男人，但是习近平不是，我很多时候觉得他过于刻板，这与我们的成长环境和教育背景有很大关系。”</p>
+<p><strong>“离婚以后的那么多年，你们都没有见过面吗？”</strong></p>
+<p>柯：“他还是国家副主席的时候，我们在深圳见过一次。那是我，我姐姐，还有我父亲回深圳扫墓，他当时来深圳考察工作，慰问了我父亲，我当时也在，他跟我们全家人握了握手，包括我。其实是很尴尬的一次会面，大概一起坐了半个小时，聊了一些东西，我只觉得他看上去老了许多。”</p>
+<p><strong>“习近平会在 10 月访英，你有什么期待？”</strong></p>
+<p>柯：“中国使馆那边已经透过一些渠道邀请我作为英国侨界的代表参加一个欢迎宴会，他上任中共总书记三年，第一次来英国访问，对中英两国都是有好处的，我作为英国的华人，感到很荣幸，也很高兴。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AF%E5%B0%8F%E6%98%8E/?category=18271" rel="tag">柯小明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AF%E7%8E%B2%E7%8E%B2/?category=18271" rel="tag">柯玲玲</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/" target="cdt-mirror">【敏感词库】“长者续命”、“刘部长” 等近日热点 2015-8-28</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2015-08-16_16-56-35.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2015-08-16_16-56-35.jpg" alt="2015-08-16_16-56-35" width="400" height=""></a><br><em>（图片作者：<a href="https://prinzeugen.net/birthday-of-jiang-haha/">Blessing Studio</a>）</em></p>
+<p>[ 测试时间：2015年8月28日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
+<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
+<p><strong>刘部长</strong>（应指中宣部长刘云山）</p>
+<p><strong>张育军</strong>（中国证监会主席助理）</p>
+<p><strong> 我为长者续一秒</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8D%E7%9F%A5-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E9%95%BF%E8%80%85%EF%BC%9F%E9%95%BF%E8%80%85%E9%A3%8E%E9%9D%A1%E7%BD%91%E7%BB%9C%E8%83%8C%E5%90%8E%E7%9A%84/"><span>不知</span><span> | </span></a><span><a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8D%E7%9F%A5-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E9%95%BF%E8%80%85%EF%BC%9F%E9%95%BF%E8%80%85%E9%A3%8E%E9%9D%A1%E7%BD%91%E7%BB%9C%E8%83%8C%E5%90%8E%E7%9A%84/">为什么人们怀念长者？长者风靡网络背后的制度难题</a>）</span><strong><br>
+长者续命</strong><br><strong> 江＋去世</strong></p>
+<p><strong> 习＋令徐郭 </strong>(指令计划、徐才厚、郭伯雄；包括周永康在内的“周令徐郭”更为常见)<br><strong> 习大大＋北戴河</strong>（有传闻称今年北戴河会议上，习近平清理了周令徐郭余党）</p>
+<p><strong> 李克强＋黑锅</strong><br><strong>水工</strong>（<a href="http://chinadigitaltimes.net/chinese/2012/03/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%EF%BD%9C%E7%AC%AC%E4%BA%8C%E6%B3%A2%E7%A6%81%E8%AF%8D%EF%BC%9A%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D%E5%A4%A7%E6%88%98%E5%BA%B7%E5%B8%88%E5%82%85%E7%B3%BB%E5%88%97-2/">水工系＝江泽民派系</a>）</p>
+<p><strong> 彭丽媛＋小三</strong><br><strong>彭麻麻</strong><br><strong> 彭妈妈</strong><br><strong>彭将军</strong><br><strong> 彭母</strong><br><strong>习氏</strong><br><strong> 习＋舅舅</strong><br><strong> 老大＋习</strong><strong><br><strong> 习泽东</strong><strong><br><strong>猪＋习</strong><br><strong> 习＋成功</strong><br><strong> 习博士</strong><br><strong> 习狗</strong></strong></strong></p>
+<p><strong> 郭声琨＋妻子</strong>（网传曾庆红是郭声琨表舅）<br><strong>郭声琨＋老婆</strong><br><strong> 投资＋温家</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2012/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%80%BB%E7%90%86%E5%AE%B6%E4%BA%BA%E9%9A%90%E7%A7%98%E7%9A%84%E8%B4%A2%E5%AF%8C/"><span>纽约时报</span><span> | </span></a><span><a href="http://chinadigitaltimes.net/chinese/2012/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%80%BB%E7%90%86%E5%AE%B6%E4%BA%BA%E9%9A%90%E7%A7%98%E7%9A%84%E8%B4%A2%E5%AF%8C/">总理家人隐秘的财富</a>）</span><br><strong> 总理＋财富</strong></p>
+<p><strong> 炸＋国务院</strong><br><strong> 无能＋公安</strong><br><strong> 家长＋教育部</strong>（今年7月有报道称北京家长怒堵教育部称高考不公平，要求扩招，引起巨大争议）</p>
+<p><em>更多：</em><br><strong>学生＋1989</strong><br><strong> 人权＋计划</strong><br><strong>左轮手枪</strong><br><strong> 铅弹</strong></p>
+<p><em>色情／赌博类：</em><br><strong>太阳城</strong><br><strong>骚浪</strong><br><strong> 鸡八</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/10996061_1070285193000126_5727879429649697895_n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/10996061_1070285193000126_5727879429649697895_n.jpg" alt="10996061_1070285193000126_5727879429649697895_n" width="450" height=""></a><br><em>（网络图片）</em></p>
+<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91%E6%AD%BB%E4%BA%A1%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">江泽民死亡传言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D%E5%AE%B6%E6%97%8F%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">温家宝家族财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA-%E5%A4%A9%E5%9B%BD%E4%B9%8B%E7%A7%8B%EF%BC%9A%E4%B8%87%E9%87%8C%E9%95%BF%E5%9F%8E%E6%B0%B8%E4%B8%8D%E5%80%92%EF%BC%9F/" target="cdt-mirror">经济学人 | 天国之秋：万里长城永不倒？</a>
+</h2>
+<p><p>原文来自 The Economist 最新一期（8月29日刊）封面文章<a href="http://www.economist.com/news/leaders/21662544-fear-about-chinas-economy-can-be-overdone-investors-are-right-be-nervous-great-fall" target="_blank"><em>Financial markets: The Great Fall of China</em></a>。我明白这里的 fall 应无”秋天”义，但还是自作主张延伸了一下。</p>
+<p><strong>翻译：越越</strong><br>
+转发随意，转载请联系微信公众平台<strong> @尔乃戎狄</strong>，二维码见文末。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/438877-a9f8b5dfb94ad43d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/438877-a9f8b5dfb94ad43d.jpg" alt="经济学人8月29日刊封面图" width="400" height="560"></a><p>经济学人8月29日刊封面图</p></div>
+<p>担忧中国经济也许是多虑了。但是投资者感到紧张是对的。</p>
+<p>曾经，交易员们会坐在交易所的地上大叫大嚷，为金融市场的崩盘装点配乐。如今，因为买卖双方都靠算法来撮合了，更有可能出现的情况是默默无言的数据中心服务器嗡嗡作响。但是，每下一笔卖空大单，那种蔓延全身、发自肺腑的恐惧是一样的。急切想要卖出的心情，完全压倒了“等待反弹”的提议。</p>
+<p>中国股市遭遇2007年以来最大单日跌幅后，投资者们又开始胃绞痛了；即使是中国的官媒也把8月24日称为“黑色星期一”。从兰特（译者注：南非货币单位）到林吉特（译者注：马来西亚货币单位），新兴市场货币纷纷跳水。期货价格跌落至99年以来都未曾见过的水平。它还像传染病一样蔓延到了欧洲市场。德国DAX指数相比于峰值回落超过20%。美股遭遇双重打击：通用电气一度跌幅超过20%。</p>
+<p>发达国家市场目前恢复了部分平静。但是仍有三件事值得忧虑：中国经济深陷泥沼；新兴市场可能遭遇一场全面危机；以及发达国家市场漫长的价格回升已经走到尽头。这些担忧有些方面夸大，有些方面错位，但即使如此，本周的恐慌还是透露了一条让人不安的信息，世界经济的痼疾是真实存在的。</p>
+<p><strong>先开溜，再问为什么</strong></p>
+<p>股价不断跳水的中国是此次传染病的源头。本月早些时候人民币贬值以来，全球股市蒸发了约5万亿美元。这一变化，加上一系列并不好看的经济数据，以及官方拙劣的救市手段，加剧了人们对全球第二大经济体经济硬着陆的担忧。出口一直在萎缩。股市相比于6月最高点已下跌逾40%，比互联网泡沫破灭时期的跌幅更大。</p>
+<p>但是末日理论的人们担心过头了。对中国经济来说，房市远比股市重要。房地产撑起了四分之一的GDP，也正是它的价值支撑着银行系统；过去几个月里，房价和交易量都很健康。中国的未来依赖于它的消费者而不是出口商，而服务、收入以及消费是富有弹性的。如果最坏的情况发生了，央行有足够的政策宽松空间。本周利率下调以后，一年期利率仍旧保持在4.6%。经济增速放缓，但即使按最保守估计，今年只增长5%，中国带给世界总产出的增长，也会比2007年中国公布的14%要多。</p>
+<p>中国并没有陷入危机。不过，它从指令型经济平稳过渡到市场经济的能力遭受到了前所未有的质疑。中国的政策制定者过去因其能力饱受赞誉，这一点曾令他们跛腿的欧洲同行万分羞愧。这一名声却在他们糟糕透顶——而且断断续续的——救市行动中受损。更糟糕的是，改革计划也许会成为政府对自由市场恐慌的受害者。中共想要提升国企的效率，却又不愿意让它们接受竞争的全面冲击。这就像既想给人民币多一点自由度，又担心走弱的人民币会引发资本外逃。它认为地方政府应该被更加严格地管束，但是又顶不住经济增长的需求，让它们肆意扩张信用。</p>
+<p>对中国的担忧也加深了我们的第二层忧虑——那就是新兴市场可能会重新上演1997-98年的亚洲金融危机。相似性是存在的：由于美国货币政策紧缩的前景，新兴市场资本显著外流。但是亚洲金融危机的教训已经被大家牢记在心了。很多货币已经不再是固定汇率了而是自由浮动，大多数亚洲国家拥有大量外汇储备和现金账户盈余。他们的银行系统不再像以前那样依赖于国外债权人了。</p>
+<p>如果这一层忧虑是杞人忧天的话，其他就未必了。一个增速放缓的中国拖累了靠挖掘铁矿石、煤和铜矿起家的新兴市场(农业出口相对还好），如巴西、印度尼西亚和赞比亚。从现在起，中国创造的需求会更偏向对服务的需求——这些需求国内商家就可以填满。过剩的供给还会因为其他原因打压期货价格。比如，原油期货价格受挫，就反映了沙特阿拉伯的增产以及美国页岩气生产的弹性。不断贬值的货币加重了新兴市场上以本国货币结算收入、以美元结算债务的企业的负担。更加根本的问题是，新兴市场的增速从2010年起就一直在放缓。从巴西和俄罗斯开始，一些国家就浪费了启动改革、提高生产率的机会，陷入泥潭。印度也是如此，并因此付出高额代价。</p>
+<p><strong>牛市已显衰态</strong></p>
+<p>发达国家是最不需要担心中国放缓增速的。美国上一年对华出口占GDP比重不到1%。但是也不能说它们就是完全免疫的。欧盟经济的发动机德国，其对华出口比欧盟任何成员国都要多。股价也是脆弱的，因为最大的企业都是全球化的：标普500指数2014年的交易中，48%都是国外企业，而且，相对于其贸易伙伴的货币，美元正在升值。除此之外，2009年以来的持续牛市造成了高于长期均衡的市盈率。股价倘若暴跌，就会影响到实体经济。</p>
+<p>如果上文说的情况真的发生了，本周发生的事件就再次向我们强调：西方的政策制定者们已经没有多少刺激经济的手段了。美联储九月的加息可能是个错误，因为它给了市场并不明智的预期。其他中央银行也负有责任。从新兴市场出逃的资金也许想流向美国的消费者，从而导致更多的家庭借贷和危险的——同时也是我们熟悉的——经济扭曲。所以欧洲和日本应当继续宽松，刺激需求。</p>
+<p>货币政策只不过是刚刚开始。西方乃至全世界面临的更加艰巨的任务，是提高生产率。足够的信贷规模和一往无前的中国速度让世界高速运转了数年。现在，能否增长取决于政府是否可以在每一件事上——从金融改革到基础建设投资——做出艰难抉择。这是我们从中国的恐慌中学到的惨痛教训。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA-%E5%A4%A9%E5%9B%BD%E4%B9%8B%E7%A7%8B%EF%BC%9A%E4%B8%87%E9%87%8C%E9%95%BF%E5%9F%8E%E6%B0%B8%E4%B8%8D%E5%80%92%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E7%89%A9%EF%BD%9C%E5%BE%88%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B6%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%98%AF%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89%E8%80%85/" target="cdt-mirror">人物｜很多年轻人并不知道自己是犬儒主义者</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64011.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64011.jpg" alt="640" width="400" height=""></a></p>
@@ -189,7 +270,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA/?category=18271" rel="tag">中国世纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/" target="cdt-mirror">虎嗅网｜步三个月前副总徐辉后尘，人民网总裁廖玒被检察机关带走调查</a>
 </h2>
@@ -685,111 +766,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%AD%A6%E4%BC%9A%E8%BF%99%E4%BA%9B-%E4%BD%A0%E4%B9%9F%E8%83%BD%E7%BC%96%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/" target="cdt-mirror">端传媒 | 学会这些 你也能编抗日神剧</a>
-</h2>
-<p><p>采访了多位抗日神剧的新一代编剧们，我明白了剧本塑造的如下范式：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/cd866575764a4711b663e8e1749b5751.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/cd866575764a4711b663e8e1749b5751.png" alt="cd866575764a4711b663e8e1749b5751" width="600" height="600"></a></p>
-<p> </p>
-<p>【国民党军官】——弃暗投明、经受考验</p>
-<p>丧失斗志：对国军的腐化堕落绝望 /不满「攘外必先安内」消极抗日→</p>
-<p>挫败遭遇：抗日战场自己部队遭遇重创或官僚陷害→</p>
-<p>共军救星：重伤或被俘，八路军成救星→</p>
-<p>革命挫折：融入中共备受猜疑，但凭藉努力受到承认→</p>
-<p>久经考验：成为真正的「八路」将领</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/dcab31fd86a14ce791d954a30d22166a.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/dcab31fd86a14ce791d954a30d22166a.png" alt="dcab31fd86a14ce791d954a30d22166a" width="600" height="600"></a></p>
-<p>【平民百姓】——从 灭门血案中成长</p>
-<p>深仇大恨：全家/全村被日军屠戮→</p>
-<p>共军救星：杀鬼子身陷险境，受到中共/地方民兵的帮助/招募→</p>
-<p>革命挫折：「革命经验」不足，遭遇日军国民党特务/汉奸诱惑或欺骗→</p>
-<p>坚定信念：中共方面友人/爱人/家人遇害，坚定复仇之心→</p>
-<p>久经考验：经历抗战，成长为坚强的中共党员/革命战士</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/101ebe74683d46cc98f1fba44ffe1a25.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/101ebe74683d46cc98f1fba44ffe1a25.png" alt="101ebe74683d46cc98f1fba44ffe1a25" width="600" height="600"></a></p>
-<p>【江湖高手/商界奇才/知识份子】——以一当十、屡建奇功</p>
-<p>坚守中立：受到国共两党招募，但保持中立→</p>
-<p>挫折遭遇：日军拉拢/胁迫/侮辱， 奋起反抗遇挫败/打击日军阴谋，但终因寡不敌众被逼入绝路→</p>
-<p>共军救星：中共帮助脱险，受「革命精神」感召，作为周边人士参与革命→</p>
-<p>坚定信念：发现国民党抗日之不彻底，进一步信服於中共→</p>
-<p>以一当十：成为坚强的中共党员/革命战士</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/b00b30683fb2402c9434364420a9b5e1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/b00b30683fb2402c9434364420a9b5e1.png" alt="b00b30683fb2402c9434364420a9b5e1" width="600" height="600"></a></p>
-<p>【八路军战士/中共党员】————革命勇士、魅力之神</p>
-<p>意志坚定：热血入党，「革命意志」坚定→</p>
-<p>忍辱卧底：隐身於民间，进入国民党/日军/土匪卧底→</p>
-<p>统一战线：一路上以强大的人格魅力/顽强革命精神收服前述的各方势力→</p>
-<p>以一敌百：壮大革命队伍，屡建奇功→</p>
-<p>革命功臣：迎来抗日胜利，革命故事在国共内战前戛然而止。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/51fa6e021e80405caf09c874aa99e92d.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/51fa6e021e80405caf09c874aa99e92d.png" alt="51fa6e021e80405caf09c874aa99e92d" width="600" height="600"></a></p>
-<p>【日本鬼子】————战争狂人、冷血变态</p>
-<p>心怀不轨：试图一口吞下中国领土/人民财富。或甄别中方卧底/侦查受挫案件等</p>
-<p>步步紧逼：或杀或抢或骗，无所不用其极地强取豪夺，同时也收服了不少「汉奸」</p>
-<p>遭遇反抗：遭遇国民党军队/平民百姓/江湖高手/商界奇才/高智商知识份子的抵抗，损失惨重；但不思悔改</p>
-<p>共党出手：抗日力量在共产党的英明领导下，逐渐取得成绩；在节节败退中逐渐感到绝望</p>
-<p>引咎自裁：当然，不是切腹就是引弹自尽，场面需要血腥、酣畅</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%AD%A6%E4%BC%9A%E8%BF%99%E4%BA%9B-%E4%BD%A0%E4%B9%9F%E8%83%BD%E7%BC%96%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5/?category=18271" rel="tag">抗日</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E6%9D%80%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">抹杀历史</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA%E9%9A%BE%E4%BB%A5%E9%81%BF%E5%85%8D/" target="cdt-mirror">纽约时报 | 经济学家警告中国金融危机难以避免</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/25sorkin-jumbo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/25sorkin-jumbo.jpg" alt="肯尼斯·罗格夫，金融危机专家。" width="497" height="283"></a></p>
-<p>肯尼思·罗格夫(Kenneth Rogoff)早就对中国潜在的金融危机发出过警告。</p>
-<p>罗格夫是哈佛大学的经济学教授，他曾准确地预测了欧元区的债务危机，多年来他也一直在对人们说，中国将给全球经济带来下一个大的威胁。这回，他又看起来是对的了。</p>
-<p>“就经济上的事情而言，其发生所需的时间比你认为的要长，但发生的速度比你认为可能的要快，”罗格夫周一在马萨诸塞州的坎布里奇，重述了德国经济学家鲁迪·多恩布什(Rudi Dornbusch)常说的一句话（罗格夫1977年曾在麻省理工学院旁听过多恩布什的课）。</p>
-<p>罗格夫还是国际象棋特级大师，他把研究金融危机当作一生的职业。2008年的金融危机之后，罗格夫与他人合著了一部具有重大意思的书《这次不同》(This Time Is Different)，书中探讨了八个世纪里发生的金融危机。</p>
-<p>他和书的共同作者卡门·M·莱因哈特(Carmen M. Reinhart)得出的结论是，每次经济危机都源于同一个简单的问题：太多的债务。</p>
-<p>要想了解最近几天美国及世界股市疯狂背后的原因，你不需要更多的知识，只要看看中国惊人的债务负担和泄气的经济就够了，再就是中国影响世界各地的能力。</p>
-<p>罗格夫说，“中国是《这次不同》的一个典型故事。”他列举了中国所有不同的、用来说服自己和许多其他人的理性解释，为什么中国可以让债务不断增长，却有某种办法能让自己不受经济学规律的限制。他列举的理由包括，政府对市场的控制、数百万农民工进城，以及高达人均可支配收入30％的国内储蓄率，据说这些都是人们认为中国经济不会严重衰退的理由。</p>
-<p>“目前的经济岌岌可危，”罗格夫补充道。“有大量的债务。”</p>
-<p>鉴于中国市场的不透明度，债务多少的问题仍然没有定论。咨询公司麦肯锡(McKinsey& Company)中国公司今年早些时候发布的一份报告称，中国的债务负担从2007年的7万亿美元增加到2014年中期的28万亿美元。“中国的债务规模是国内生产总值(<a href="http://topics.nytimes.com/top/reference/timestopics/subjects/u/united_states_economy/gross_domestic_product/index.html?inline=nyt-classifier" target="_blank">GDP</a>)的282%，这个比例虽然处于可控状态，但高于美国或德国，”麦肯锡的研究称。“有几个因素令人担忧：一半的贷款都和中国的房地产市场有直接或间接联系，不受监管的影子银行占了新增贷款的将近一半，许多地方政府的债务可能缺乏可持续性。”</p>
-<p>因此问题变为，中国经济与世界其他地区有什么样的关联。这正是投资者们在过去几周里，眼看着中国政府采取让人民币贬值、并试图稳定股市大跌但最终失败等做法时，一直试图搞明白的问题。股市的下跌进一步恶化，这部分是债务造成的，因为借钱买股票的中国投机者曾过度贷款，而现正他们被迫出售股票，形成恶性循环。</p>
-<p>“所有这些给新兴市场带来了怎样的反弹呢？”罗格夫在讨论中国经济放缓对巴西等大宗商品生产国的影响时问道，巴西的经济情况目前一片混乱。“看看俄罗斯吧。惊人的是，他们居然还没有发生金融危机。”</p>
-<p>罗格夫并不是认定中国存在潜在风险的第一人。今年早些时候，本栏目曾介绍过前财政部长、亲中国人士小亨利·M·保尔森(Henry M. Paulson Jr.)的观点，他说，“坦率地讲，中国金融体系将面临一次总清算，不得不对付一轮信贷损失和债务重组问题，这不是会不会发生、而是何时发生的问题。”而对冲基金经理詹姆斯·S·查诺斯(James S. Chanos)多年来一直在对中国的问题发出警告，他最近宣称，“不管你可能怎样认为，都只会更糟糕。”</p>
-<p>中国需要说服世界和本国公民，它能管理本国震荡的金融市场和经济增长放缓的问题，当然是有明显的政治原因的。“金融危机导致社会崩溃，从而导致政治危机，”罗格夫说。“这才是真正可怕的事情。”</p>
-<p>罗格夫指出，给中国金融制造问题的还有另一种因素。</p>
-<p>“天津的危机也助长了这个问题，”他说，他指的是8月12日发生在这个港口城市的致命爆炸，事件已造成100多人死亡。罗格夫说，爆炸摧毁了中国政府的公信力，因为许多问题至今仍没有答案，而且政府对爆炸的响应很不充分。</p>
-<p>那么说，罗格夫是否认为，中国正在走向一个可怕的“硬着陆”，并将导致全球经济衰退呢？</p>
-<p>这个嘛，尽管市场出现动荡，他也曾不断发出警告，罗格夫说他认为，过去几周已提出了重大危机的可能性问题。但考虑到中国仍有数万亿美元的外汇储备，他认为中国也许有足够的工具来防止灾难蔓延到世界各地，至少目前如此。</p>
-<p>罗格夫说，“如果必须打赌的话，还是赌他们能摆脱困境为好。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA%E9%9A%BE%E4%BB%A5%E9%81%BF%E5%85%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%A4%A7%E6%89%93%E5%87%BB%E5%A4%96%E5%9B%BDvpn%E6%9C%8D%E5%8A%A1/" target="cdt-mirror">反法西斯大阅兵前 中国被曝加大打击外国VPN服务</a>
-</h2>
-<p><p>【编者注】数天前，知名开源翻墙项目shadowsocks作者据信<a href="http://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-shadowsocks%E9%87%8D%E8%A6%81%E9%A2%86%E5%AF%BC%E8%80%85%E8%A2%AB%E5%96%9D%E8%8C%B6-%E6%94%BE%E5%BC%83%E9%A1%B9%E7%9B%AE%E7%BB%B4%E6%8A%A4/">被喝茶后放弃项目维护</a>，并在Github上删除所有源码。今日又有消息指，中国当局于9.3大阅兵前再度加大打击VPN服务的力度。早在今年1月，VPN服务商Astrill就曾一度对其用户发出公告，称中国政府开始<a href="http://chinadigitaltimes.net/chinese/2015/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%8F%E8%AE%AE%E5%B1%82%E9%9D%A2%E4%B8%8A%E5%B1%8F%E8%94%BD%E5%A4%96%E5%9B%BDvpn%E6%9C%8D%E5%8A%A1/">在协议层面屏蔽外国VPN服务</a>。</p>
-<p><strong><a href="http://www.solidot.org/story?sid=45270">来自奇客资讯的报道</a>：</strong></p>
-<blockquote><p>《南华早报》<a href="http://www.scmp.com/tech/apps-gaming/article/1852658/vpn-down-china-goes-after-astrill-other-anti-censorship-apps-run">报道</a>，在纪念二战结束70周年的大阅兵前夕，多个被用于绕过互联网限制的服务遭到关闭或干扰。VPN服务商 Astrill周三警告用户，其服务可能会遭遇中断，称防火长城正运用机器自动学习技术打击 IPSec VPN。一位Astrill北京用户Zhou Jing称，Astrill的VPN自周二晚上起就无法使用。她说，没有 Gmail 没有Facebook没有外部世界的信息让她抓狂。她担心这一情况会一直持续下去。</p></blockquote>
-<p><strong>Twitter用户的怨念：</strong></p>
-<blockquote><p>‏@keymistress: Time to gtfo. #greatfirewallofchina #china #beijing #vpn #internet #censorship #astrill</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/gtfo.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/gtfo.png" alt="gtfo" width="500" height="701"></a></p>
-<blockquote><p>Due to upcoming Beijing’s military parade next week, China is cracking down on IPSec VPNs using GFW auto-learning technique. VPN access from iOS devices may be limited at this time.</p>
-<p>Until end of parade, some of the servers will not be available on iOS application.</p>
-<p>（由于北京阅兵仪式即将于下周到来，中国正在利用GFW的自动学习技术打击IPSec VPNs（译者注：基于IPSec协议集的VPN服务）。目前，从iOS设备上接入VPN可能会受到限制。直到阅兵结束前，一部分服务器将无法在iOS应用中使用。）</p></blockquote>
-<p>截至发稿时，<strong>有新浪微博用户称Astrill的VPN服务目前已恢复</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/astrill%E6%81%A2%E5%A4%8D.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/astrill%E6%81%A2%E5%A4%8D.png" alt="astrill恢复" width="550" height=""></a></p>
-<blockquote><p>@cuddlebum：astrill基本恢复了啊。。。你支真是弱啊。。。搞个攻击搞俩小时没劲儿了吗</p></blockquote>
-<p><del>另附未证实Twitter消息一则：</del></p>
-<blockquote><p><del>@anthrax0：公安部最近给网监发了文件，要求所有国内VPN提供商记录日志60天以上并接入公安系统，日志包括登录IP/端口,充值记录，VPN出口访问flow记录，url等。最近所有vpn服务商都去喝茶了，如果拒绝就要关门，比如曲径。另外像SS这类个人产品就要消灭掉，因为没法监控。</del></p></blockquote>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%A4%A7%E6%89%93%E5%87%BB%E5%A4%96%E5%9B%BDvpn%E6%9C%8D%E5%8A%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/vpn/?category=18271" rel="tag">VPN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BDvpn%E9%81%AD%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">外国VPN遭屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -801,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dkg2fy9u9wmch.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -811,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://dkg2fy9u9wmch.cloudfront.net">https://dkg2fy9u9wmch.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d25r1obklu34ji.cloudfront.net">https://d25r1obklu34ji.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://dkg2fy9u9wmch.cloudfront.net">https://dkg2fy9u9wmch.cloudfront.net</a><br/><a href="https://d25r1obklu34ji.cloudfront.net">https://d25r1obklu34ji.cloudfront.net</a><br/></td>    </tr>
 </table>

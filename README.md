@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jef2bkp16tj6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E-%E7%BE%8E%E5%AD%B8%E8%80%85%EF%BC%9A%E5%A4%A7%E9%99%B8%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%92%9E%E9%96%8B%E6%94%BE%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4/" target="cdt-mirror">台灣新聞 | 美學者：大陸經濟衝撞開放資本市場</a>
+</h2>
+<p><div>（中央社記者廖漢原華盛頓27日專電）美國學者索爾對中國大陸經濟與股市亂象指出，西班牙、法國、德國與前蘇聯過去都有相同經驗，極權經濟與自由資本主義衝撞，最後都引發危機衝突。</div>
+<p>南加州大學歷史與會計學教授索爾（Jacob Soll）在網路媒體Politico發表「中國：新西班牙帝國」專文指出，中國大陸金融危機猶如前蘇聯與16世紀歐洲帝國的翻版，前景並不樂觀。</p>
+<p>索爾認為，中國股市震盪波及全球，是人類史上首次由非歐系國家影響國際金融穩定的例子，眼前的狀況是封閉極權社會與自由市場及資本主義的衝撞，歷史清楚說明，這種衝突令人憂心。</p>
+<p>16世紀的西班牙是船堅砲利的海上帝國，17世紀的法國國勢強大累積財富，兩國當時都是秘密的君主統治，皇室統籌經濟，但面對資訊流通開放的荷蘭與英國的競爭，最後都淪落致破產、崩潰和內戰。</p>
+<p>西班牙帝國緩慢崩解，危機頻傳；法國王室破產，被迫關閉歐洲境內的銀行，最終引發流血革命和破壞力強大的拿破崙戰爭。</p>
+<p>近代則有在資本與極權中掙扎的德國，鐵血宰相俾斯麥擴權創造強大的普魯士，最後仍陷政經危機，希特勒挑起二次大戰；前蘇聯呼風喚雨近半世紀，外界在其瓦解後才瞭解，蘇維埃政府債台高築，以極高的社會成本維持經濟數字，連中央情報局都騙過去。</p>
+<p>索爾分析，中國與前蘇聯不同，混合了資本與極權，但政府的手仍在銀行、國企與股市背後，北京雖無法控制股市，但為國家財政蒙上了面紗，極權政府在16世紀就使用相同手段。</p>
+<p>如今中國進入資訊透明的國際金融體系，但內部空有架構，卻缺乏最重要的開放精神，以極權手段維持數字表現，經濟只能成長，虛構政府數據與市場指數，眼前的混亂不過是連串政治與社會危機的開端。</p>
+<p>索爾寫到，歷史上從未有施行封閉與專斷式經濟的成功經驗，「北京共識」裡的經濟成長保8，實際難以實現，政府債務纏身，金融體系形成泡沫，中國大陸現在看來像是「極權詐騙集團」，但這在歷史上並不陌生。</p>
+<p><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" alt="" width="1" height="1" border="0"></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>Loading…</p>
+<hr><p><small>© 走丫的路 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E-%E7%BE%8E%E5%AD%B8%E8%80%85%EF%BC%9A%E5%A4%A7%E9%99%B8%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%92%9E%E9%96%8B%E6%94%BE%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E5%8A%A8%E4%BA%86%E4%BA%BA%E6%B0%91%E7%BD%91%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E6%B8%85%E6%B4%97/" target="cdt-mirror">博谈网|〖兲朝浮世绘〗动了人民网，习近平要清洗中宣部？</a>
 </h2>
 <p><p>1.【人民网总裁抓了，习近平要清洗中宣部？】</p>
@@ -92,7 +114,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA/?category=18271" rel="tag">中国世纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/" target="cdt-mirror">虎嗅网｜步三个月前副总徐辉后尘，人民网总裁廖玒被检察机关带走调查</a>
 </h2>
@@ -807,27 +829,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF-%E5%8C%97%E4%BA%AC%E5%8F%91%E5%8A%A885%E4%B8%87%E4%BA%BA%E5%B7%A1%E9%80%BB%E4%BF%9D%E9%98%85%E5%85%B5-%E5%B0%86%E6%B7%B1%E5%85%A5%E6%AF%8F%E4%B8%AA%E8%A1%97/" target="cdt-mirror">参考消息 | 北京发动85万人巡逻保阅兵 将深入每个街巷胡同</a>
-</h2>
-<p><p>参考消息网8月26日报道 外媒说，中国国家媒体报道，北京动员了85万名居民在全市各处巡逻，以确保纪念在二战中战胜日本的大阅兵之前的安全。</p>
-<p>据法新社8月20日报道，新华社19日深夜援引北京警方发言人的话报道，来自“各行各业”的“志愿者”已经接受了训练，将被派到“每个街巷胡同”以及商店和市场。他们会寻找“安全隐患”的迹象，一旦发现会马上报告给警方。</p>
-<p>报道称，中国政府经常在重大活动期间动用大量人力加强安保，例如在2008年奥运会和2009年新中国成立60周年纪念活动期间。</p>
-<p>针对9月3日的阅兵活动还采取了其他一系列措施。此次阅兵将纪念中国战胜日本军队以及更大范围内的轴心国在二战中战败70周年。</p>
-<p>报道称，一般来说，中国并不愿意举办盛大的年度阅兵来展现军队力量，这曾是苏联的标志性做法。中国通常情况下大约每10年举行一次国庆阅兵。但现在北京在地区变得越来越自信，并且经常指责日本对20世纪侵略中国的事实没有表现出足够的悔意。</p>
-<p>报道称，阅兵路线的中心部分将穿越天安门广场。天安门广场象征着中国的心脏，北侧的天安门城楼自8月初起就不再对游客开放。</p>
-<p>报道称，之前国家媒体报道，在9月3日举行阅兵时，天安门广场及附近的王府井商业区将实施宵禁。</p>
-<p>20日查询位于王府井附近的五星级东方君悦大酒店网站，发现该酒店到9月4日为止有四天“无法订房”，网站显示酒店“客房已全部订出或还未开始接受预订”。酒店发言人对法新社记者说：“我们的营业时间肯定有变化。”但他没有具体说明是什么变化，只是补充说酒店在演练期间还会受到一些限制。</p>
-<p>报道说，国家媒体稍早时候的报道称，北京首都国际机场以及小一点的南苑机场将在阅兵式当天早上关闭3小时，另外管理部门还宣布股市休市2天。</p>
-<p>报道称，政府还采取了一些措施保证这座众所周知的严重污染城市在阅兵式和世界田径锦标赛期间能够看到蓝天。世界田径锦标赛自22日起在北京举行。</p>
-<p>从20日起开始实施的措施包括私家车单双号限行、工厂停工以及禁止北京及周边地区的工地施工等。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF-%E5%8C%97%E4%BA%AC%E5%8F%91%E5%8A%A885%E4%B8%87%E4%BA%BA%E5%B7%A1%E9%80%BB%E4%BF%9D%E9%98%85%E5%85%B5-%E5%B0%86%E6%B7%B1%E5%85%A5%E6%AF%8F%E4%B8%AA%E8%A1%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/70%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5/?category=18271" rel="tag">70周年阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/9-3%E9%98%85%E5%85%B5/?category=18271" rel="tag">9.3阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5/?category=18271" rel="tag">阅兵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -839,7 +840,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/70%E5%91%A8%E5%B9%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jef2bkp16tj6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7m1mus4h2uvq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -849,5 +850,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/70%E5%91%A8%E5%B9%
                 <td></td>
                 
         
-        <td><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7m1mus4h2uvq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E-%E7%BE%8E%E5%AD%B8%E8%80%85%EF%BC%9A%E5%A4%A7%E9%99%B8%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%92%9E%E9%96%8B%E6%94%BE%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4/" target="cdt-mirror">台灣新聞 | 美學者：大陸經濟衝撞開放資本市場</a>
@@ -149,7 +149,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E7%BD%91/?category=18271" rel="tag">人民网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%81%BF%E6%96%B0%E9%97%BB/?category=18271" rel="tag">有偿新闻</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%B6%E5%B0%9A%E5%85%88%E7%94%9F-%E7%89%B9%E7%A8%BF%EF%BC%9A%E5%A4%A9%E6%89%8D%E8%90%BD%E9%AD%84%E7%9A%84%E6%9A%AE%E5%B9%B4/" target="cdt-mirror">时尚先生 | 特稿：天才落魄的暮年</a>
 </h2>
@@ -840,7 +840,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7m1mus4h2uvq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rdw5oro406s2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -850,5 +850,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
                 <td></td>
                 
         
-        <td><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d3ohiqbtzm38h.cloudfront.net">https://d3ohiqbtzm38h.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rdw5oro406s2.cloudfront.net">https://d2rdw5oro406s2.cloudfront.net</a><br/><a href="https://d7m1mus4h2uvq.cloudfront.net">https://d7m1mus4h2uvq.cloudfront.net</a><br/><a href="https://d31muvsgzi8p1g.cloudfront.net">https://d31muvsgzi8p1g.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/><a href="https://dzlz7hgboo5rh.cloudfront.net">https://dzlz7hgboo5rh.cloudfront.net</a><br/></td>    </tr>
 </table>

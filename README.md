@@ -208,7 +208,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E5%B7%B1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">利己主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">犬儒主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E-%E7%BE%8E%E5%AD%B8%E8%80%85%EF%BC%9A%E5%A4%A7%E9%99%B8%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%92%9E%E9%96%8B%E6%94%BE%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4/" target="cdt-mirror">台灣新聞 | 美學者：大陸經濟衝撞開放資本市場</a>
 </h2>

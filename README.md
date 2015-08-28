@@ -24,6 +24,36 @@
         <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E6%8A%A5%EF%BD%9C%E9%83%9D%E6%9F%8F%E6%9D%91%EF%B8%B0%E7%82%BA%E9%82%84%E5%8E%9F%E6%8A%97%E6%88%B0%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8-%E8%87%B4%E5%A4%A7%E9%99%B8%E7%95%B6%E5%B1%80%E7%9A%84/" target="cdt-mirror">明报｜郝柏村︰為還原抗戰歷史真相 致大陸當局的公開信</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150701-062325_U714_M70602_039d.jpg" alt="20150701-062325_U714_M70602_039d" width="551" height="367"></p>
+<p>中共決策領導諸君：</p>
+<p>8年抗日戰爭，在中華民族戰史上歷時最久，長達8年1個月又8天；戰場的面積最廣，達500萬平方公里；犧牲最為慘烈，軍民多達2000萬人傷亡，戰果也最悲壯輝煌，是中華民族最珍貴的精神資產，也是愛國教育最好的題材。</p>
+<p>第二次世界大戰期間，唯有中國是以貧窮落後、軍閥割據的弱國，對抗世界第一流強權的日本帝國主義，是反侵略的正義戰爭，靠全民奮戰到底的意志和精神力優勢，贏得最後勝利。其他同盟國以美英蘇為主，面對的軸心國德意日，皆屬已開發的國家。他們都能製造飛機、大炮、戰車等精良武器，交戰的本質是為了霸權，決勝的核心是物質力，與中國抗日的本質不同。</p>
+<p>精神力優勢的形成與發揮，抗戰初期的國共第二次合作，起了很大的作用，但其領導人是國民黨總裁蔣介石先生。他克服了日本誘和、汪精衛投降、國共摩擦等內憂，以及國際觀望、盟友出賣等外患，堅持抗日第一、抗戰到底的意志，才贏得最後勝利。老實說，沒有蔣先生的領導，就沒有抗戰的勝利，以及中華民族的雪恥復興，這是鐵一般的事實。</p>
+<p>第二次大戰後，日本不承認南京大屠殺，不承認侵略，在其歷史教科書中，以「進出中國」代替「侵略中國」，日本政要到靖國神社，向戰犯的牌位行禮，加上傷害並淡化慰安婦等暴行，我們都嚴重抗議，就是為了捍衛歷史真相。</p>
+<p>由於1949年國民黨失去了大陸政權，抗戰歷史的真相隨着被隱沒，甚至扭曲了。1950年代初期，內戰的餘恨正濃，基於反蔣仇蔣的意識形態，這是可以理解的，但已事隔60多年了。德法本為世仇，現為歐盟合作的主體，難道我們要把蔣毛的宿怨，世世代代流傳下去？抗戰的勝利，是中華民族全民的貢獻，非蔣先生個人的功業而已，但他是領導人，則為不爭之史實。</p>
+<p>5點建議 探討歷史真相</p>
+<p>今適逢抗戰勝利70周年，北京將舉行盛大的閱兵，我雖不便參觀，但肯定各方的紀念。既然如此，我建議大陸新世代的決策領導人，以更寬廣的胸襟，本實事求是的精神，客觀公正，實話實說，探討抗戰歷史真相。如此，盛大閱兵典禮的錦上添花，才更有意義。<br>
+我的具體建議如下：</p>
+<p>一、聯合台北、北京、日本和全球的二戰歷史學者，根據各方所提資料，公開研討抗戰歷史真相，達成共識。</p>
+<p>二、重慶為抗戰首都，應在此地建造抗戰紀念館，並恢復抗戰勝利紀功碑。</p>
+<p>三、22次重大會戰戰場的核心地點，應建造抗戰紀念館，作為地區性的愛國教育基地。<br>
+四、恢復各地已被拆除的抗戰實景。</p>
+<p>五、歡迎到台北中正紀念堂，參觀抗戰歷史真相特展，並請批評指教。</p>
+<p>4億人流淚，5000萬人流離，2000萬人流血，使得中華民族從次殖民地，升為世界四強之一，其雪恥復興的真相，已到必須大白的時候了。</p>
+<p>唯有如此，才對得起抗戰烈士的英靈，才能使後代的子孫，有正確的孝義傳承。這不僅無傷於中共在大陸的執政，更會贏得兩岸人民的掌聲，有利於兩岸在九二共識基礎上的和平發展。</p>
+<p>孫中山先生的建國理想，如果傳承無人，則中國國民黨的興衰難料，但8年抗日戰爭的真相不能消亡。因為，抗戰不是為了某一黨派，而是為了中華民族。兩岸俱屬中華民族，還原史實，取信於民，容我重申，此其時也。</p>
+<p>台灣前行政院長</p>
+<p>郝柏村</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E6%8A%A5%EF%BD%9C%E9%83%9D%E6%9F%8F%E6%9D%91%EF%B8%B0%E7%82%BA%E9%82%84%E5%8E%9F%E6%8A%97%E6%88%B0%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8-%E8%87%B4%E5%A4%A7%E9%99%B8%E7%95%B6%E5%B1%80%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9D%E4%BC%AF%E6%9D%91/?category=18271" rel="tag">郝伯村</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/" target="cdt-mirror">方式书简 | 习近平前妻评习：他不是一个理想主义者</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB.jpg" alt="习近平前妻" width="450" height="395"></a></p>
@@ -736,35 +766,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/" target="cdt-mirror">自由亚洲｜敏感期将近 进出新疆包裹实名西藏部分地区停邮</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/29ae67ed-6996-4237-bc9e-7418758fbefc.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/29ae67ed-6996-4237-bc9e-7418758fbefc.jpeg" alt="中国邮政局等单位发岀《关于加强抗战胜利70周年纪念活动等重大活动期间寄递物品安全管理工作的通告》(网页照)" width="500" height=""></a><p>中国邮政局等单位发岀《关于加强抗战胜利70周年纪念活动等重大活动期间寄递物品安全管理工作的通告》(网页照)</p></div>
-<p>随着9月3日大阅兵的临近，及西藏自治区成立50周年和新疆自治区成立60周年将至，中国当局对少数民族地区的保安升级，西藏、新疆与北京一样，严加管控包裹邮寄，并施行实名身份证信息登记。有快递公司负责人向本台透露，西藏部分地区停止邮寄包裹。</p>
-<p>中国将于9月3日举行抗战胜利纪念阅兵，为确保届时万无一失，不仅在北京推出一系列保安措施，还加强了对少数民族地区的控制。再加上9月1日的西藏自治区成立50周年和10月1日的新疆自治区成立60周年两大重要国家级庆典，新疆和西藏也成为了重点监控区域。</p>
-<p>据官媒天山网报道，自8月23日起，新疆实施收寄包裹实名制，寄件方和收件方均要登记身份信息。</p>
-<p>近日，中国邮政局发岀《关于加强抗战胜利70周年纪念活动等重大活动期间寄递物品安全管理工作的通告》要求：在9月15日至10月3日 期间，邮件、快件实行实名身份证登记才能收寄。</p>
-<p>实际上，在新疆，快递实名制自去年就已执行，但针对的只是收件人实名，而近日出于阅兵维稳的考虑，对于寄件人也要求实名。</p>
-<p>市民普遍担心个人信息泄露。有网民表示：“快递都是临时工，想要泄露你的信息易如反掌。”</p>
-<p>也有网民对当局在北京阅兵，却加强了对新疆的严控表示不解。</p>
-<p>网民“老王司令”问到：“发往新疆的快递也执行实名制了，究竟敏感的是什么？”</p>
-<p>乌鲁木齐顺丰快递一网点的负责人刘先生周二接受本台查询时证实了事件，并透露西藏部分地区停邮。</p>
-<p>刘先生：“北京安检级别很高，包括天津，天津也已经不让进货了，北京这边想走的话，总部对我们有要求，必须要发货实名制，因为阅兵，开会三令五申强调这个事。”</p>
-<p>记者：“万一在这个过程中泄露个人隐私怎么办？”</p>
-<p>刘先生：“您的担心我理解，但是这是国家邮政局对我们的规定。而西藏（的货）我们一般不接收了，出事的几率大，所以我们不接收了。”</p>
-<p>据了解，北京最快9月5日恢复正常收寄快递，但刘先生表示，由于10月是新疆自治区成立60周年庆典，新疆快递实名制至少会持续到10月底。</p>
-<p>记者：“到什么时候？”</p>
-<p>刘先生：“具体情况的时间没有通知，反正我们签的责任书上写着保守估计两个月，阅兵的部队和武器撤离也需要时间。我们签的安全承诺协议书上也给我们说的差不多这个时间，但具体哪一天不知道，没有通知。安全承诺协议书是我们以快递公司的身份和国家邮政总局签的。”</p>
-<p>据媒体报道，阅兵前夕，邮政部门要与辖区快递公司逐一签订“抗战胜利70周年纪念活动安全保障承诺书”，企业内部也要层层签订承诺书。</p>
-<p>总部在德国的世界维吾尔代表大会发言人迪里夏提周二对本台记者说：“中国采取实名制无非加强针对维吾尔人区域的控制，进出的包裹的严格的审查，除了监控以外，甚至把发件人和收件人的信息进行汇总，利用这些措施加强防范。我认为当局患了高度恐慌症，实际上由于自身这种敌对性的宣传和煽动引发自身恐惧，而因此采取一些极端、令人无法接受的政策。实际上只能导致当地局势的恶化；另一方面也体现出，中国在当地统治的危机，甚至也印证当地的确地局势动荡和一触即发的不安现状。”</p>
-<p>记者在网络上看到，有不少在新疆售卖土特产的淘宝商贩发微博吐槽生意受到影响，但很快就被被删。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%95%8F%E6%84%9F%E6%9C%9F%E5%B0%86%E8%BF%91-%E8%BF%9B%E5%87%BA%E6%96%B0%E7%96%86%E5%8C%85%E8%A3%B9%E5%AE%9E%E5%90%8D%E8%A5%BF%E8%97%8F%E9%83%A8%E5%88%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -776,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1tokwpzgi7qi6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -786,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/></td>    </tr>
 </table>

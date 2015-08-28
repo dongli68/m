@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafiii6g44kwp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d13ouxg2qxl56u.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/" target="cdt-mirror">方式书简 | 习近平前妻评习：他不是一个理想主义者</a>
@@ -178,7 +178,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E5%B7%B1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">利己主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">犬儒主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E-%E7%BE%8E%E5%AD%B8%E8%80%85%EF%BC%9A%E5%A4%A7%E9%99%B8%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%92%9E%E9%96%8B%E6%94%BE%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4/" target="cdt-mirror">台灣新聞 | 美學者：大陸經濟衝撞開放資本市場</a>
 </h2>
@@ -776,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://drol9rm450ed.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -786,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://drol9rm450ed.cloudfront.net">https://drol9rm450ed.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d1qhk0m9ydwrp1.cloudfront.net">https://d1qhk0m9ydwrp1.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/></td>    </tr>
 </table>

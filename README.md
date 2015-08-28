@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1e0jrqxhthoqv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dsq4w86hu1gs9.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://dsq4w86hu1gs9.cloudfront.net">https://dsq4w86hu1gs9.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dsq4w86hu1gs9.cloudfront.net">https://dsq4w86hu1gs9.cloudfront.net</a><br/><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/" target="cdt-mirror">方式书简 | 习近平前妻评习：他不是一个理想主义者</a>
@@ -268,6 +268,43 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D
 <a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%AF%BB%E5%AE%B6%EF%BD%9Cft%E4%B8%AD%E6%96%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA%E6%8F%90%E6%97%A9%E7%BB%93%E6%9D%9F%E4%BA%86%EF%BC%9F/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA/?category=18271" rel="tag">中国世纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/" target="cdt-mirror">虎嗅网｜步前副总徐辉后尘，人民网总裁廖玒被检察机关带走调查</a>
+</h2>
+<p><p>【更新】</p>
+<blockquote><p>#央视快讯#【<a href="http://news.sina.com.cn/c/2015-08-28/150132249344.shtml">人民网总裁廖玒、副总裁陈智霞被立案侦查</a>】日前，经最高人民检察院指定管辖，河南省人民检察院依法以涉嫌贿赂犯罪对人民网股份有限公司总裁廖玒，人民网股份有限公司董事、副总裁陈智霞立案侦查并采取强制措施。案件侦查工作正在进行中。(央视记者左力)</p></blockquote>
+<p>据财新与南方周末从多个渠道证实，昨天刚发完半年报，今天（2015年8月27日）上午，人民网副董事长、总裁廖玒和人民网董事、副总裁陈智霞，被检察机关带走调查。</p>
+<p>在此之前，人民网副总编辑徐辉亦曾被协助调查。当时徐辉被认为涉及的是“有偿不闻”的新闻腐败问题。有大型科技企业管理层人士告诉南方周末记者，徐辉任职人民网期间，其敲诈勒索、劣迹斑斑，且“吃相难看”。</p>
+<p>52岁的廖玒最后一次出现在媒体报道中是在8月20日的《人民日报》上，他到深圳参加2015媒体融合发展论坛时，就媒介融合发展发表了自己的看法。廖玒称： “我在人民网工作了19年，越来越觉得在互联网真正传得开、远、久的，还是内容。”此前，他还将当下互联网态势概括为“三少一多”。他说，“网上信口开河、好勇斗狠的少了；‘据传’等未经证实消息来源传播少了；‘草泥马’等低俗对抗语言少了；正能量多了，主流媒体微博微信客户端成传播正能量的重要方面。”</p>
+<p>公开资料显示，廖玒和陈智霞两人均为编辑出身，并在人民网的前身人民日报网络中心任职多年。廖玒曾为陈智霞的主管领导。2010年6月，两人同时进入人民网管理层，并担任正副总裁。</p>
+<p>廖玒1986年从北京工业大学机械工程系毕业，历任人民日报社总编室编辑、宣传协调组副组长。1996年，人民网前身人民日报网络版开始筹备成立，廖玒即参与其中。1997年人民日报网络版成立，后更名为网络中心，廖玒任网络中心总编室负责人、总编室主任。2004年3月，廖玒升任网络中心副主任，后又任网 络中心常务副主任，并明确为正局级。2010年6月后，廖玒任人民网副董事长、总裁，其中2010年6月至2015年4月，他还兼任人民网总编辑。</p>
+<p>据悉，廖玒先后主持了中国驻南大使馆被炸、“南丹矿难”等在中国互联网上产生重大影响的新闻报道工作，多次组织人民网全国“两会”等重大活动的宣传报道工作，被认为是“在人民网创建、发展、壮大过程中发挥了至关重要的作用。”2009年，廖玒获得中国新闻奖一等奖。</p>
+<p>现年44岁的陈智霞也长期任职于人民日报网络中心和人民网，归廖玒领导多年。简历显示，1997年8月，北京大学社会学系硕士研究生毕业的陈智霞进入人民日报社，在刚刚成立不久的网络中心任编辑，先后历任网络中心总编室副主任、主任。2007年11月，陈智霞任人民网发展公司总裁助理兼总编室主任。2010年6月，陈智霞随廖玒同期进入人民网管理层，任人民网董秘，后任董事、副总裁。</p>
+<p><strong>徐辉事件尚未有定论</strong></p>
+<p>2015年5月27日，多家媒体报道，人民网副总编辑徐辉日前被带走调查。人民日报社领导已于5月22日，在人民网内部一定范围内，通报了此事。通报内容大致为，徐辉因涉及经济问题被有关部门调查，对其正式停职。</p>
+<p>在人民网中，徐辉负责对外联系、合作等事务，并多次代表人民网出席各种论坛活动，其对外发言多围绕在金融、产业等经济领域。他最近一次的公开露面，包括2015年5月9日，在江苏无锡宜兴举行的“2015全球电线电缆年会”。</p>
+<p>有数位与徐辉有来往的人士评价，徐辉属“少年得志”，为人比较轻狂、自大。</p>
+<p>一家IT行业公司的公关负责人对媒体称，徐辉很早之前，就存在利用不刊发监督类报道来换取广告利益的事迹。“他的部下给企业的公关部门发去未刊发的新闻稿， 大意是这企业的产品存在什么问题。”这位负责人说，“然后，我们给他打电话，他就说，什么时候到他办公室去谈谈。然后我们去了，去了之后，就是要我们给多 少钱，投多少广告，或者搞什么合作。”</p>
+<p>外界普遍相信，徐辉受调查是因为涉嫌有偿新闻。</p>
+<p>但“徐辉 被调查 有偿新闻”很快成为网络敏感词，相关新闻在网络与微博上被删除。</p>
+<p>深圳现代社会观察研究所负责人刘开明曾说，</p>
+<blockquote><p>“21世纪网的事就大肆报道，而人民网的事基本上没有报道，我们感到很奇怪，之前的一些新闻腐败也是很高调报道，这次为什么没报道？是不是被抓了？如果被抓了为什么不敢报道？是不是有不同标准，这是大家很关心的。”</p></blockquote>
+<p>据了解，去年6月，审计署列出了人民日报社财政收支的十大问题，批评人民日报社以及属下《环球时报》和《中国汽车报》，违反规定自行扩大项目支出范围，涉及的金额高达5000多万元人民币。同年10月，纪检组进驻人民日报社，对其展开专项检查工作。</p>
+<p><strong>人民网利润压力颇大</strong></p>
+<p>2005年2月，人民网股份有限公司成立，人民网后被注入该公司。2012年4月27日，人民网在上交所上市，成为国内首家A股上市的新闻网站，人民日报社为其控股股东。但在上市之初，一些分析便认为，人民网等门户资讯网站的商业模式与生态并无创新之处，收入来源还只是靠传统的广告业务。</p>
+<p>人民网的历年财报显示，“广告及宣传服务”是人民网最重要的收入来源，其中，广告客户多来自金融、房地产、食品、家电、通信等行业和领域。此外，人民网拥有 “中国共产党新闻网”、“强国论坛”、“人民网舆情监测室”等品牌栏目，主办了“中国人大新闻网”、“中国政协新闻网”等多个专业性新闻网站；承办了多个党的主题教育活动官方网站；并建设了多个中央部委网站。人民网旗下拥有人民在线、人民视讯、环球网、海外网、金台创投、人民澳客、成都古羌科技有限公司等多家控股公司，并在31个省市自治区设立地方频道。</p>
+<p>上市后，人民网积极在市场上展开收购以做大收入，先后收购了看书网（网络文学）、澳客网（彩票业务）等公司。</p>
+<p>2014年，人民网营业收入15.84亿元，净利润3.30亿元，分别同比大增54.11%、21.02%。其中，“广告及宣传服务”为5.72亿元，占营业收入的36.11%；同时，这项收入的毛利率，也高达58.08%。</p>
+<p>2015年一季度，人民网营业收入3.85亿元，同比29.60%；净利润1.77亿元，同比大降60.60%。</p>
+<p>而据昨天（8月26日）晚间披露的半年报，人民网今年上半年净利下降39.42%，至5827.96万元，每股盈利为0.11元。今年前6个月，人民网营业收入为7.25亿元，同比增长17.07%。</p>
+<p>人民网表示，上半年净利下滑的主要原因是，公司在移动业务上加大投入，导致相应成本、费用显著增加；此外，由于子公司人民澳客于年初暂停互联网彩票服务业务，也对利润下降造成一定程度的影响。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E7%BD%91/?category=18271" rel="tag">人民网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%81%BF%E6%96%B0%E9%97%BB/?category=18271" rel="tag">有偿新闻</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -728,44 +765,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E6%B8%A9%E6%9F%94%EF%BC%8C%E8%BF%99%E6%A0%B7%E7%9A%84%E5%A5%B3%E5%85%B5%E8%B0%B7%E4%BF%8A%E5%B1%B1%E4%BB%AC/" target="cdt-mirror">【网络民议】一点也不温柔，这样的女兵谷俊山们不喜欢</a>
-</h2>
-<p><p>【编者注】游骑兵训练普遍被认为是美国军队所有军种中最艰难的，以前从未有女性完成过。而作为历史上首批撑过整期训练并成功通过测试的女性，她们在美国本土也并非没有受到质疑（大男子主义并非中国独有）。网上有一些人对她们的能力表示怀疑，认为这些女性士兵是因为区别对待（优待）而通过测试的。负责陆军游骑兵训练学校的Jim Hathaway少校最终忍无可忍，<a href="http://www.stripes.com/news/army/ranger-school-official-combats-rumors-about-how-women-passed-training-1.363823">在Facebook上作出了9点回应</a>。</p>
-<p>摘录其中最后一段：</p>
-<blockquote><p>9. The final comment I will say is this. No matter what we at Ranger School say the non-believers will still be non-believers. We could have invited each of you to guest walk the entire course, and you would still not believe, we could have video recorded every patrol and you would still say that we “gave” it away. Nothing we say will change your opinion. I and the rest of our cadre are proud of the conduct of our soldiers, NCOs and officers, they took the mission assigned and performed to the Ranger Standard. Rangers Lead the Way!!!!!</p>
-<p>（9. 我最后要说的是，无论我们游骑兵学校怎么说，那些不信的人终究是不会相信的。我们甚至可以邀请你们来参观整期课程，你们还是不会信；我们可以录下每次模拟训练的视频，你们仍然会说我们优待她们了。无论我们说什么都无法改变你们的观点。我和其他的训练官都为我们的士兵、军士、和军官们感到骄傲。他们接受了任务分配，并且按照游骑兵的标准完成。游骑兵是最棒的！——编译：中国数字时代编辑）</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%99%86%E5%86%9B%E6%B8%B8%E9%AA%91%E5%85%B52.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%99%86%E5%86%9B%E6%B8%B8%E9%AA%91%E5%85%B52.png" alt="陆军游骑兵2" width="500" height="583"></a></p>
-<blockquote><p><a href="http://weibo.com/1743951792/CxCoCk1e7">@美国驻华大使馆</a>：克里斯汀·格里斯特上尉和沙耶·哈弗中尉接受了美国陆军游骑兵八个星期艰苦训练。她们成为通过这项被视作美军最严苛的领导能力训练的第一批游骑兵女队员。在被问及是否产生过放弃念头时，格里斯特说：“我的确有一些低潮的时刻…但从来没真正觉得难到了值得退出训练的程度。”</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@大尸凶的漫画：这种女兵也就会打打仗了</p>
-<p><a href="http://weibo.com/3807590591" target="_blank">情感先生丑丑</a>：敢比谁白么？敢比胸大么？敢比唱歌跳舞么？敢比阅兵走方陈么？敢比陪首长喝茅台么？敢比谁摸过首长的枪么？看吓不死你个美帝的！哼！<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"></p>
-<p><a href="http://weibo.com/guangzhoufeizhu" target="_blank">GZ陳國樑</a>：我们有每天排练队列10小时的女兵<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
-<p><a href="http://weibo.com/1075907155" target="_blank">书写际遇</a>：那年还没换届，一个韩国人问：听说你们下一任的夫人是唱歌的？我说是的。她一脸不可思议，我知道她误会成娱乐圈明星了，于是向她解释：@是部队里唱歌的，不是娱乐明星。她又问：部队里为什么要有唱歌的？——我咋解释呢？<img title="[思考]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]"><img title="[思考]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]"></p>
-<p>@玄鸟摄影：能放倒将军的女兵才是好模特！</p>
-<p>@慕道2012：脸没我军白，胸没我军的大，又不好踢正步，不会叠豆腐块，不会三陪，只会打仗，你军有什么好吹的</p>
-<p>@___wong：她是美军艺术学院的吗？是舞蹈学院艺术系的主任吗？有三八红旗手的称号吗？她是政治上的明白人吗。胸围够大吗？身高到170了吗？正步踢的齐吗？哼，这些都不是，当什么女兵。</p>
-<p>@百变金刚999一世：宋将军快出来吓吓她们！</p>
-<p><a href="http://weibo.com/2924696985" target="_blank">手上刀</a>：你们这制度太落后啊，看我们这只要唱两首歌就可以当上将军了！社会主义果然比资本主义好吧！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@循环果报：你们阅兵阅不过中国。走正步能走死你们，我们的女兵挺胸能挺死你们，@人民日报 @环球时报 说是吧。</p>
-<p>@润中老李：一点也不温柔，好像还有点强悍，这样的女兵谷俊山们不喜欢！</p>
-<p>@陶良保：叠被子估计不行，陪领导恐怕没门！</p>
-<p>@风一样的男子不是小汪：为什么不穿裙子，为什么没有傲人的胸？</p>
-<p>@肖克婶的九叔_卍解：我们唱歌~我们跳舞~我们的女兵都是大模特~</p>
-<p>@两个阳台：请祖国派出178cm的女兵参加美军考核，扬我国威。</p>
-<p>@五花的大厂：不要发这种不合时宜的微博。</p>
-<p>@zhychen1111：美帝又来寻衅滋事了。看看人家苦练在练什么，咱们苦练在练什么？</p>
-<p>@推翻长城：@军报记者 你们这些五毛啊，别总想搞个大新闻，然后把党国吹嘘一番，但你们毕竟还图样，吹嘘方式还是图森破。美国的女游骑兵，水平不知道比你们高到哪里去了，我跟她们谈笑风声！但你们有个好处，就是走起正步比谁都标准，这是谁都比不了的。</p>
-<p>@一杯咖啡就瞌睡：这个有句说句，论吃苦和训练，解放军女兵应该也有拿得出手的。中美军人的最大区别不在单兵能力，而在实战经验和政治素质（谁指挥枪）。</p>
-<p>@若存若在：我国人民在评论里充分的表达了我们的蔑视，这场不见硝烟的舆论战，让美帝深深的陷入了人民的海洋，请美帝收起你们的那一套吧，作为女兵没有女人的样子，你们就别想获得人民的肯定。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.42.34-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.42.34-AM.png" alt="Screen Shot 2015-08-25 at 1.42.34 AM" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.41.28-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.41.28-AM.png" alt="Screen Shot 2015-08-25 at 1.41.28 AM" width="500" height=""></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E6%B8%A9%E6%9F%94%EF%BC%8C%E8%BF%99%E6%A0%B7%E7%9A%84%E5%A5%B3%E5%85%B5%E8%B0%B7%E4%BF%8A%E5%B1%B1%E4%BB%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A0%E8%A2%AB%E5%AD%90/?category=18271" rel="tag">叠被子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%B7%A5%E5%9B%A2/?category=18271" rel="tag">文工团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%85%B5/?category=18271" rel="tag">文艺兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -777,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1b7nxcmb0xrcs.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dafiii6g44kwp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -787,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://dsq4w86hu1gs9.cloudfront.net">https://dsq4w86hu1gs9.cloudfront.net</a><br/><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/><a href="https://d1e0jrqxhthoqv.cloudfront.net">https://d1e0jrqxhthoqv.cloudfront.net</a><br/><a href="https://d3jef2bkp16tj6.cloudfront.net">https://d3jef2bkp16tj6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dafiii6g44kwp.cloudfront.net">https://dafiii6g44kwp.cloudfront.net</a><br/><a href="https://dsq4w86hu1gs9.cloudfront.net">https://dsq4w86hu1gs9.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://drttzote0avfh.cloudfront.net">https://drttzote0avfh.cloudfront.net</a><br/><a href="https://d13ouxg2qxl56u.cloudfront.net">https://d13ouxg2qxl56u.cloudfront.net</a><br/></td>    </tr>
 </table>

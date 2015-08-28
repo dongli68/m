@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E6%8A%A5%EF%BD%9C%E9%83%9D%E6%9F%8F%E6%9D%91%EF%B8%B0%E7%82%BA%E9%82%84%E5%8E%9F%E6%8A%97%E6%88%B0%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8-%E8%87%B4%E5%A4%A7%E9%99%B8%E7%95%B6%E5%B1%80%E7%9A%84/" target="cdt-mirror">明报｜郝柏村︰為還原抗戰歷史真相 致大陸當局的公開信</a>
@@ -52,7 +52,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9D%E4%BC%AF%E6%9D%91/?category=18271" rel="tag">郝伯村</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/" target="cdt-mirror">方式书简 | 习近平前妻评习：他不是一个理想主义者</a>
 </h2>
@@ -79,7 +79,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AF%E5%B0%8F%E6%98%8E/?category=18271" rel="tag">柯小明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AF%E7%8E%B2%E7%8E%B2/?category=18271" rel="tag">柯玲玲</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/" target="cdt-mirror">【敏感词库】“长者续命”、“刘部长” 等近日热点 2015-8-28</a>
 </h2>
@@ -777,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1h4ywypi92lps.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d38rx7ld7v9bh4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -787,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7
                 <td></td>
                 
         
-        <td><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/></td>    </tr>
 </table>

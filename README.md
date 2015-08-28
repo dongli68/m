@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1tus30pbdlm8g.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BA%BA%E7%89%A9%EF%BD%9C%E5%BE%88%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B6%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%98%AF%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89%E8%80%85/" target="cdt-mirror">人物｜很多年轻人并不知道自己是犬儒主义者</a>
@@ -166,7 +166,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%AF%BB%E5%AE%B6%EF%BD%9Cft%E4%B8%AD%E6%96%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA%E6%8F%90%E6%97%A9%E7%BB%93%E6%9D%9F%E4%BA%86%EF%BC%9F/" target="cdt-mirror">读家｜FT中文：“中国世纪”提早结束了？</a>
 </h2>
@@ -801,7 +801,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t5no0wzk6377.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1tus30pbdlm8g.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -811,5 +811,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1tus30pbdlm8g.cloudfront.net">https://d1tus30pbdlm8g.cloudfront.net</a><br/><a href="https://d1t5no0wzk6377.cloudfront.net">https://d1t5no0wzk6377.cloudfront.net</a><br/></td>    </tr>
 </table>

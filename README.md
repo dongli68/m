@@ -69,7 +69,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%AF%BB%E5%AE%B6%EF%BD%9Cft%E4%B8%AD%E6%96%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA%E6%8F%90%E6%97%A9%E7%BB%93%E6%9D%9F%E4%BA%86%EF%BC%9F/" target="cdt-mirror">读家｜FT中文：“中国世纪”提早结束了？</a>
 </h2>
@@ -839,7 +839,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/70%E5%91%A8%E5%B9%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2u3ul0dkq96la.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -849,5 +849,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/70%E5%91%A8%E5%B9%
                 <td></td>
                 
         
-        <td><a href="https://d2u3ul0dkq96la.cloudfront.net">https://d2u3ul0dkq96la.cloudfront.net</a><br/><a href="https://d5aqq7t3c4gm2.cloudfront.net">https://d5aqq7t3c4gm2.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d2u3ul0dkq96la.cloudfront.net">https://d2u3ul0dkq96la.cloudfront.net</a><br/><a href="https://d5aqq7t3c4gm2.cloudfront.net">https://d5aqq7t3c4gm2.cloudfront.net</a><br/></td>    </tr>
 </table>

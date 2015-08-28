@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2bgjmz84k28oy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfomhmmdj0vcy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2bgjmz84k28oy.cloudfront.net">https://d2bgjmz84k28oy.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d1h4mpndgjupho.cloudfront.net">https://d1h4mpndgjupho.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d1h4mpndgjupho.cloudfront.net">https://d1h4mpndgjupho.cloudfront.net</a><br/><a href="https://d2bgjmz84k28oy.cloudfront.net">https://d2bgjmz84k28oy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E5%8A%A8%E4%BA%86%E4%BA%BA%E6%B0%91%E7%BD%91%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E6%B8%85%E6%B4%97/" target="cdt-mirror">博谈网|〖兲朝浮世绘〗动了人民网，习近平要清洗中宣部？</a>
@@ -92,7 +92,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA/?category=18271" rel="tag">中国世纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/" target="cdt-mirror">虎嗅网｜步三个月前副总徐辉后尘，人民网总裁廖玒被检察机关带走调查</a>
 </h2>
@@ -839,7 +839,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/70%E5%91%A8%E5%B9%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1h4mpndgjupho.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3njvlcx917r7o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -849,5 +849,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/70%E5%91%A8%E5%B9%
                 <td></td>
                 
         
-        <td><a href="https://d1h4mpndgjupho.cloudfront.net">https://d1h4mpndgjupho.cloudfront.net</a><br/><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/><a href="https://d2bgjmz84k28oy.cloudfront.net">https://d2bgjmz84k28oy.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3njvlcx917r7o.cloudfront.net">https://d3njvlcx917r7o.cloudfront.net</a><br/><a href="https://d1b7nxcmb0xrcs.cloudfront.net">https://d1b7nxcmb0xrcs.cloudfront.net</a><br/><a href="https://d1h4mpndgjupho.cloudfront.net">https://d1h4mpndgjupho.cloudfront.net</a><br/><a href="https://d2bgjmz84k28oy.cloudfront.net">https://d2bgjmz84k28oy.cloudfront.net</a><br/><a href="https://dfomhmmdj0vcy.cloudfront.net">https://dfomhmmdj0vcy.cloudfront.net</a><br/></td>    </tr>
 </table>

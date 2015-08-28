@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3y6bhloeoke4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/" target="cdt-mirror">方式书简 | 习近平前妻评习：他不是一个理想主义者</a>
@@ -652,7 +652,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF/" target="cdt-mirror">【异闻观止】环球时报：必须理直气壮地说中国是最大民主国家</a>
 </h2>
@@ -786,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d3y6bhloeoke4.cloudfront.net">https://d3y6bhloeoke4.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/></td>    </tr>
 </table>

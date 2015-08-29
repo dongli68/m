@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d331t5q0uy7z23.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d296n20o65bbgn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://d296n20o65bbgn.cloudfront.net">https://d296n20o65bbgn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d296n20o65bbgn.cloudfront.net">https://d296n20o65bbgn.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E5%BC%95%E6%80%80%E7%96%91/" target="cdt-mirror">法广｜天津爆炸一官员坠楼引怀疑</a>
+</h2>
+<p><div>
+<p>天津8.12大爆炸导致7名厅级官员落马，而上任一年的天津交通委员会行政审批处处长董永存被传在8月26 日坠楼身亡更引发关注。董永存的坠楼被怀疑遮掩天津爆炸的“幕后大佬”，有网民质疑是否还有更大的老虎。在滨海区新闻发布会上，有记者追问天津港到底由谁 监管，但一直未获答案。</p>
+</div>
+<div>
+<p>天津8.12爆炸事故确认的遇难人数升至145人，仍有28人失踪。中国官媒新华社昨天报道，23人因大爆炸而受到拘捕调查，包括11名厅级或处级官员和涉事瑞海公司正副董事长等12人。据无界网昨天透露，涉事的天津交通委 行政审批处长董永存26日从单位的8楼堕楼身亡。今天中国微信民生茶馆引述新闻马赛克的文章对董永存坠楼提出怀疑，疑问说，他为天津爆炸的幕后大佬掩饰什 么？搜狐新闻则刊文质疑有无更大的老虎。</p>
+<p>报道说，50岁的董永存2014年8月在新组建的天津市交委会行政审批处担任处长。此前他先后担任过天津市交运港口管理局的法规处处长和水运处处长。据他的同事说，董永存生前情绪稳定，人很正常，没有心理问题。</p>
+<p>报道还说，值得注意的是此前在新闻会上喊冤的天津港集团有限公司总裁郑庆跃也被拘捕调查。郑庆跃在记者会上不断强调天津港集团有限公司与出事的瑞海公司同在一个地方但没有隶属关系的两个公司。在新闻会上，有记者不断追问天津港到底由谁监管，但一直没有得到回答。而网上流传的一则消息说，天津港属于中央交通部管理。</p>
+</div>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E5%BC%95%E6%80%80%E7%96%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%80%81%E8%99%8E/?category=18271" rel="tag">大老虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80/?category=18271" rel="tag">官员自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%8A%B1%E6%97%97%E9%A6%96%E5%B8%AD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80%E4%B8%8D%E5%8F%AF/" target="cdt-mirror">美国之音｜花旗首席经济学家：中国经济衰退不可避免</a>
+</h2>
+<p><p>美国一位经济学家星期四表示，中国正滑入经济衰退，如果中国领导人采取刺激消费的大型财政措施有可能扭转局面，但受中国政治经济制度限制，他们不会做出快速反应，因此，中国的经济衰退将不可避免。</p>
+<p>花旗银行宏观经济学家和全球首席经济学家威廉·布依特尔星期四表示，除非中国推出大型消费驱动的财政刺激计划，中国经济进入衰退将不可避免。</p>
+<p>他表示，中国正滑入经济衰退，而中国领导人不会对此作出快速反应，导致衰退将不可避免，“他们现在并没有做好准备，尽管经济有这种急迫需求，中国领导人还未准备好。”</p>
+<p>大型消费导向刺激计划可避免衰退</p>
+<p>布依特尔也是美国外交关系协会的兼职高级研究员。他认为，“唯一有可能防止中国进入衰退的，是通过中央政府资助、中国人民银行货币化（monetized）的大型消费导向财政刺激计划。但是，他们反应会太迟，以至于衰退不可避免。”</p>
+<p>耶鲁大学经济学教授陈志武也间接呼应了布依特尔“中国经济衰退不可避免”的观点。他认为，中国除非从本质上改变现有的政治经济体制，否则将无法实现向着消费驱动发展模式的转变。</p>
+<p>“中国的发展模式之所以是投资驱动的，根本上是由中国的政治经济体制决定的。在这种体制里国家拥有的资产占主导地位，国有企业在中国经济中占主导地位。因此，当资产和企业主要由政府拥有时，大部分收入都由政府获得，而不是中国的家庭，从而使得私人消费的增长非常困难。除非国有资产和企业真正开始私有化，否则私人消费非常非常难以在中国经济中扮演重大角色。”</p>
+<p>体制不变发展模式难以转变</p>
+<p>陈志武说，这就是为什么中国提出由投资驱动发展模式转变成消费驱动已经有20多年而至今收效甚微的根本原因，“鉴于他们的政治基础，鉴于实际上中国的改革者和政策制定者无法改变政治经济体制的本质，他们能做的也就是这些。”</p>
+<p>布依特尔认为，中国经济衰退将会拖累世界经济增长低于2%。但是他认为“并非每个国家都会进入衰退，美国就可能避免。但每个国家都将受到负面影响。”</p>
+<p>中国总理李克强一直表示，中国有能力和信心今年实现GDP增长7%。但布依特尔说，中国实际上的增长率“可能接近4.5或者还不到。”</p>
+<p>中国经济的真实增长率一直是个谜。2007年，李克强在担任辽宁省委书记的时候曾表示，中国的GDP增长数据是“人造的不可信”。</p>
+<p>政府处理宏观经济能力被质疑</p>
+<p>布依特尔说，“中国经济的问题是企业使用金融杠杆过度，不仅国有企业，包括地方政府，以及非常脆弱的银行系统，虽然由政府支持，有强大能力，但资本支出回报率极低，投资为GDP的50%，但即便是官方数字增长率也只有7%。”</p>
+<p>六月以来中国股市出现了两次暴跌，彭博新闻说，两个月内相当于5万亿美元的市值蒸发了。</p>
+<p>布依特尔说，中国政府应对股市巨幅震荡的顺序，先是像啦啦队一样推高股市，在一年时间里让股市市值增加一倍以上，试图让企业无痛摆脱债务。但暴跌之后又乱用货币政策，以政策指导银行处理财政事务，从而“出现了对政府救市能力的质疑。重要的是政府管理宏观经济的能力确实成了问题。”</p>
+<p>中国股灾只是小事件</p>
+<p>他认为，中国股市危机只是个小事件，“消费会受影响，财富会受影响，在中国几乎没有资本支出是通过发行股票（share issuance）获得的，因此，这是政策失败，并没有经济上的重大意义。”</p>
+<p>陈志武也认为，中国股市危机并不构成对中国社会和世界经济的重要性。“中国的股市不仅对中国经济而且对中国的金融系统都不过是小问题，因为中国超过80%的金融资源在中国的银行里面，只要中国的银行系统是稳定的，股市对经济的影响不会很大。”</p>
+<p>陈志武认为，中国股市的震荡反映的是中国经济体制的问题。他预计，“在更具挑战的经济危机确实出现之前，中国政府将在未来两年里还会继续挣扎。”</p>
+<p>两位专家是在美国外交关系协会星期四为中国股市和经济前景对世界的影响的电话会议上作上述表示的。</p>
+<p>李克强总理处境困难</p>
+<p>美国之音记者就最近英国金融时报报道中国政治圈内最近盛传李克强总理要对中国股市震荡和经济减缓负责的说法提问。对此，陈志武做了如下评论：“这篇文章非常有趣，我要说击中了目标。李克强总理现在的处境非常困难。当然我要说，他在19大前下台是可能性不大，也就是说，他会继续在总理位上至少2年半。但是很显然，每一个人都知道，股市麻烦和其它问题是与李克强总理直接相关的。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%8A%B1%E6%97%97%E9%A6%96%E5%B8%AD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80%E4%B8%8D%E5%8F%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E5%8E%86%E5%8F%B2%E7%BB%88%E7%BB%93%EF%BC%8C%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E8%82%87%E5%A7%8B/" target="cdt-mirror">旧闻评论｜南方系：一种历史终结，一种现实肇始</a>
 </h2>
 <p><p>【编者注】微信公号原文已被和谐，以下内容来自 <a href="http://chuansong.me/">传送门</a>。</p>
@@ -774,74 +827,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D%E8%A2%AB%E5%B0%81-%E9%A9%BB%E4%BA%AC%E5%88%86%E7%A4%BE%E5%8F%91%E8%A1%A8%E5%A3%B0/" target="cdt-mirror">半岛电视台官方微博大阅兵前被封 驻京分社发表声明</a>
-</h2>
-<p><p>注：<a href="http://weibo.com/yizhate">@伊扎特</a>在新浪微博的认证信息为“半岛电视台驻京分社社长”。</p>
-<blockquote><p>@伊扎特：半岛电视台的官方微博昨天中午左右被封，我们从今年一月份起陆续启用了中国的社交媒体账号，致力于向中国网民介绍真实的阿拉伯世界。为了长远的发展，我们甚至揣摩中国的规则并主动采取了自我审查，但依旧在阅兵前被无理由封杀。我们会尝试联系新浪微博和有关部门尽快解决问题，感谢网民的支持。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%8D%8A%E5%B2%9B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%8D%8A%E5%B2%9B.jpg" alt="半岛" width="450" height=""></a><br><em>（图片来源：Twitter @beidaijin）</em></p>
-<blockquote><p><a href="http://weibo.com/2120114755/CxLGdcVfE">@伊扎特</a>: 第一份声明被新浪设置为隐藏，这是第二份声明。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/6262b439jw1evh85c1gnoj20jj0xn0zi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6262b439jw1evh85c1gnoj20jj0xn0zi.jpg" alt="6262b439jw1evh85c1gnoj20jj0xn0zi" width="550" height=""></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D%E8%A2%AB%E5%B0%81-%E9%A9%BB%E4%BA%AC%E5%88%86%E7%A4%BE%E5%8F%91%E8%A1%A8%E5%A3%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/" target="cdt-mirror">中小学生守则修订版：一年后还是得爱党</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B8%8A%E5%AD%90%E5%B4%96%E4%BF%9D%E5%8D%AB%E6%88%98.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B8%8A%E5%AD%90%E5%B4%96%E4%BF%9D%E5%8D%AB%E6%88%98.jpg" alt="渊子崖保卫战" width="575" height=""></a><br><em>（广电总局重点扶持的爱国题材动漫《渊子崖保卫战》宣传海报；网络图片）</em></p>
-<p>2014年8月，教育部发布《中小学生守则（征求意见稿）》，并<a href="http://www.gov.cn/xinwen/2014-08/01/content_2728301.htm">向社会公开征求意见</a>。这个曾被中国媒体<a href="http://news.ifeng.com/a/20140811/41524941_0.shtml">大赞</a>为最<strong>“接地气”的版本，去掉了2004年旧版守则中诸如“热爱中国共产党”、“热爱人民”、“见义勇为”等充满意识形态的内容</strong>。</p>
-<p>2015年8月27日，教育部印发了《中小学生守则(2015年修订)》。短短一年后，这个最新版本的第一条守则却竟然<strong>再度回到了2004年旧版中的“热爱中国共产党”、“热爱人民”</strong>。《意见稿》中的“了解国情历史”也在新版中随之变成了“了解党史国情”。</p>
-<p>另外值得一提的是，与近年来中共当局<a href="http://chinadigitaltimes.net/chinese/2015/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%98%A5%E6%99%9A%E4%B8%AD%E7%9A%84%E5%AD%9D%E9%81%93%E5%AE%A3%E4%BC%A0/">积极宣传孝道</a>的行为相呼应，《意见稿》中的“尊敬父母师长”在2015新版中被修改成“孝父母敬师长”。</p>
-<p><strong>附上述三个版本的《中小学生守则》内容：</strong></p>
-<h3><span><strong>使用了十年的2004年版《中小学生守则》</strong></span></h3>
-<p>1、<span><strong>热爱祖国，热爱人民，热爱中国共产党</strong>。</span><br>
-2、遵守法律法规，增强法律意识。遵守校规校纪，遵守社会公德。<br>
-3、热爱科学，努力学习，勤思好问，乐于探究，积极参加社会实践和有益的活动。<br>
-4、珍爱生命，注意安全，锻炼身体，讲究卫生。<br>
-5、自尊自爱，自信自强，生活习惯文明健康。<br>
-6、积极参加劳动，勤俭朴素，自己能做的事自己做。<br>
-7、孝敬父母，尊敬师长，礼貌待人。<br>
-8、热爱集体，团结同学，互相帮助，关心他人。<br>
-9、诚实守信，言行一致，知错就改，有责任心。<br>
-10、热爱大自然，爱护生活环境。</p>
-<h3><span><strong>2014年 《中小学生守则（征求意见稿）》</strong></span></h3>
-<p>1.<span><strong>爱祖国。尊敬国旗国徽，奏唱国歌肃立，升降国旗行礼，了解国情历史。</strong></span><br>
-2.爱学习。勤思好问，乐于探究，上课专心听讲，勇于发表见解，按时完成作业，养成阅读习惯。<br>
-3.爱劳动。自己事自己做，积极承担家务，主动清洁校园，参与社会实践，热心志愿服务，体验劳动创造。<br>
-4.讲文明。<span><strong>尊敬父母师长</strong></span>，<span><strong>平等友善待人</strong></span>，言行礼貌得体，自觉礼让排队，保持公共卫生，爱护公共财物。<br>
-5.讲诚信。守时履约，言行一致，知错就改，有责任心，不抄袭不作弊，不擅动他人物品，借东西及时归还。<br>
-6.讲法治。遵守校纪校规，<span><strong>参与班级管理</strong></span>，养成规则意识，了解法律法规，不做违法之事。<br>
-7.护安全。红灯停绿灯行，防溺水不玩火，会自护懂求救，远离毒品，珍惜生命。<br>
-8.护健康。养成卫生习惯，不吸烟不喝酒，控制上网时间，抵制不良信息，坚持锻炼身体，保持阳光心态。<br>
-9.护家园。节粮节水节电，践行垃圾分类，爱护花草树木，低碳环保生活，保护生态环境。</p>
-<h3><span><strong>《中小学生守则(2015年修订)》</strong></span></h3>
-<p>1.<span><strong>爱党爱国爱人民。了解党史国情，珍视国家荣誉，热爱祖国，热爱人民，热爱中国共产党。</strong></span><br>
-2.好学多问肯钻研。上课专心听讲，积极发表见解，乐于科学探索，养成阅读习惯。<br>
-3.勤劳笃行乐奉献。自己事自己做，主动分担家务，参与劳动实践，热心志愿服务。<br>
-4.明礼守法讲美德。遵守国法校纪，自觉礼让排队，保持公共卫生，爱护公共财物。<br>
-5.孝亲尊师善待人。<strong><span>孝父母敬师长</span></strong>，爱集体助同学，虚心接受批评，学会合作共处。<br>
-6.诚实守信有担当。保持言行一致，不说谎不作弊，借东西及时还，做到知错就改。<br>
-7.自强自律健身心。坚持锻炼身体，乐观开朗向上，不吸烟不喝酒，文明绿色上网。<br>
-8.珍爱生命保安全。红灯停绿灯行，防溺水不玩火，会自护懂求救，坚决远离毒品。<br>
-9.勤俭节约护家园。不比吃喝穿戴，爱惜花草树木，节粮节水节电，低碳环保生活。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/06/11LJIy.jpg" alt="" width="449" height="599"><br><em>（新版香港小学生教科书；网络图片）</em></p>
-<blockquote><p>相关阅读：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/04/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6%EF%BD%9C%E5%86%89%E4%BA%91%E9%A3%9E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%AF%B9%E7%BB%99%E5%AD%A9%E5%AD%90%E7%81%8C%E8%BE%93%E5%AD%9D%E9%81%93%EF%BC%9F/">腾讯大家｜冉云飞：我为何反对给孩子灌输孝道？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%98%AF%E8%A2%AB%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%80%9D%E6%83%B3%E9%81%93/">【图说天朝】中国未成年人是如何被进行“思想道德建设”的</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%BB%81/">【图说天朝】当代中国二十四“仁”</a></li>
-</ul></blockquote>
-<p>【转载请注明来源于中国数字时代，谢谢】</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -853,7 +838,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d331t5q0uy7z23.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d296n20o65bbgn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -863,5 +848,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d296n20o65bbgn.cloudfront.net">https://d296n20o65bbgn.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d296n20o65bbgn.cloudfront.net">https://d296n20o65bbgn.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/></td>    </tr>
 </table>

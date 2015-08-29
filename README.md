@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20g1koj9j357r.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d14s4867dt6vm0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E7%9C%9F%E5%81%87%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E9%87%87%E8%AE%BF%E7%96%91%E4%BA%91-2015-8-29/" target="cdt-mirror">【敏感词库】真假习近平前妻采访疑云 2015-8-29</a>
@@ -119,7 +119,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E5%8E%86%E5%8F%B2%E7%BB%88%E7%BB%93%EF%BC%8C%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E8%82%87%E5%A7%8B/" target="cdt-mirror">旧闻评论｜南方系：一种历史终结，一种现实肇始</a>
 </h2>
@@ -835,7 +835,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%B9%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d14s4867dt6vm0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20g1koj9j357r.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -845,5 +845,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%B9%90
                 <td></td>
                 
         
-        <td><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/></td>    </tr>
 </table>

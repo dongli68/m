@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20g1koj9j357r.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32aoep1a8v7ro.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E8%BF%9E%E6%88%98%E4%B8%8D%E5%AE%9C%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5/" target="cdt-mirror">BBC｜马英九：连战“不宜参加”北京抗战阅兵</a>
@@ -46,7 +46,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E5%BC%95%E6%80%80%E7%96%91/" target="cdt-mirror">法广｜天津爆炸一官员坠楼引怀疑</a>
 </h2>

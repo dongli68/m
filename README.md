@@ -24,6 +24,41 @@
         <td><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E5%8E%86%E5%8F%B2%E7%BB%88%E7%BB%93%EF%BC%8C%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E8%82%87%E5%A7%8B/" target="cdt-mirror">旧闻评论｜南方系：一种历史终结，一种现实肇始</a>
+</h2>
+<p><p>【编者注】微信公号原文已被和谐，以下内容来自 <a href="http://chuansong.me/">传送门</a>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/image3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/image3.jpg" alt="image" width="500" height=""></a></p>
+<p>文／宋志标</p>
+<p><span>【题图当代水墨《跑步机》，作者新浪微博：@秃头倔人】</span></p>
+<p>一份广东省纪委网站刊布的南方报业集团上报材料，引起了坊间巨大关注。截至8月28日18时，这份24日写就、名叫《<a href="http://gdjct.gd.gov.cn/xunshizhenggai2015/31829.jhtml">中共南方报业传媒集团党委关于巡视整改情况的通报</a>》，已经获得了28059次浏览量。对于省纪委官网来说，单篇点击量想必是奇高的。</p>
+<p>这么高的点击量绝大多数应该来自于社群媒体的导流，实际上，这份报告的某些章节的截屏遍布朋友圈——与转发形成对比的是，评论反倒稀少。这一方面是因为说无可说，南方报业的式微已然是业界共识，另一方面是内有亲朋，不忍外加压力，不忍评论。</p>
+<p>也就是在这个报告成文前后，听闻新闻学生谈论南方，除了缅怀历史，对其现状依旧是不明所以的多。两三年来，南方报业遭遇了密集的办报挫折，它从一家受人敬仰的报团，现在变成了什么？它的削减与增量分别是什么？这对于明辨是非，镜鉴将来，未尝没有用。</p>
+<p>回到这份报告上来，其缘起是去年发生的群众路线教育实践活动，以及相伴而生的低烈度整风。纵观南方报业的这个报告，除了针对整风要求做出了说明，其重点是为两年多来的舆论导向做了总结说明——换言之，这是南方报业对13年初事件以后的现状所做的汇报材料。</p>
+<p>在这一立意之下，可以看到党管媒体原则贯穿在报告的始终，并且按照党管干部、党管媒体、党管导向组织报告的结构，强调党委对南方报业的绝对领导，从南方报业的角度，袒露心迹，献上整改方案，设计稳定整改成果。这是南方报业为了求得信任而敬呈的投名状。</p>
+<p>在这样的行文原则下，该报告严格遵守公文书写的界限，根据整改的暗线，对应呈上整改过程的明线。尽管读上去完全没有文采，完全体现了行政文书的呆板面目，但在规定动作下，一切自选动作都不会允许存在。该报告的枯燥文本与浏览者的好奇探寻形成了对比。</p>
+<p>人们在谈论南方、南方报业、南方系这些概念的时候，所指的方面其实很不一样。有必要说明的是，“南方”指的是以南方报业集团为代表的南中国媒体势力，南方报业指的是《南方日报》及其子报系组成的报业集团，而南方系是指环绕南方报刊所形成的同人群体。</p>
+<p>也就是说，当面对南方报业这个话题时，人们要在三个层次上做出厘清与界定：一是作为“党的机关”的南方，二是作为汇集市场化先锋报刊的南方，三是作为同人群体的南方。很久以来，在谈论媒体机构时多指第二种，谈新闻理想时所指代的是第三种。</p>
+<p>这样的划分，也是理解这份巡视整改汇报的枢纽。纵览报告全文，不难看出，现时南方报业的剧变主要体现在三个方面：党的机关属性被强调并占据中心地位，成为办报的指引；市场化集群的南方面临崩解，无力回天，已然难副其实；同人群体的基础已然解体，不复存在。</p>
+<p>三个面向的“南方”，所对应的现实即使“整改”，也相当不稳定。简单说，作为“党政机关”，实力薄弱，所赖以存在的媒体影响力日薄西山，尤其是在一种重新获取信任的进程中建立机关地位，难上加难。其中涵义，可以概括为南周创始人左方的自传名：《钢铁是怎样炼不成的》。</p>
+<p>在这份报告中，作为市场化集群的南方自然不是重点，但是从零星的涉及状况看，原本支撑起南方传媒江山的市场化子报系，气数接近完结。在报告中，这些曾经为南方赢得荣誉与利益的市场媒体，处在极其边缘的位置，被排斥，甚至被暗示为乱源，这不公平却符合需求。</p>
+<p>至于同人群体的南方，已经在报告中不见踪影。但是对机关属性的强调，实际上可以看出是对同人办报氛围的围猎，是对包括但不限于编辑记者在内的同仁群体的恐惧与远离。同人群体作为建立在新闻专业主义前提下的集合，已然结束了其在南方大院的历史使命。</p>
+<p>显然，市场化媒体的子报系与同人办报的小环境，已经不合289号大院的时宜了。然而问题在于，一个巨型的南方报业，从前即依赖这两种因素构筑业界影响与市场盈利，而今以政治化的理由强行剥离，必然引发震荡，而重建喉舌机关的努力势必失去重心。</p>
+<p>十多年来，南方报业之所以被尊崇为新闻的“黄埔军校”，根本原因与其机关属性毫无关系，无非是子报系的同人办报（刊）所积蓄的同人群体使然。随着南方报业骨干核心力量的大规模跳槽离职，同人群体在南方以外的江湖重新凝聚，这是南方历史终结的浅显之意。</p>
+<p>巡视整改要将南方带到哪里？以现时的情势观之，很难有一个历史性的筹划。即使放在《南方日报》的历史上看，该整改报告也显得相当突兀，领党报改革风气之先的南方日报，自此泯然众人矣。更不要说，这份报告本无未来设想，穷尽招数在现实中萎缩。</p>
+<p>在报告中有两点值得一说，一是舆情中心，二是审读挂职。舆情中心预警社会事件，为处置赢取时机，是被写进成绩里的。这个强调向外界传达的信息相当直接，从一个铁肩挑正义的传媒集合，掉头成为压制的先导，在“喉舌”里伸出“手”来，外界对如此大的转向难免咋舌。</p>
+<p>诡异的是，以舆情监测的积极性来讲，南方是不难发现南粤清风网上自家这份报告被高密度浏览的情况，或许也有“预警”呢——可报告就那么挂着那里，不生不死。这在一定程度上对舆情生意及其常被夸大的效果，做出了某种嘲讽，当然这是另外一个话题。</p>
+<p>让领导放心，一旦成为办报所追求的压倒性目标，其“向后转”不仅令外界改变看法、改换态度，其效果已经同纸媒衰落叠加，也就是说在效率上愈是政治上往后退，在经济上愈是崩盘得越迅猛。巡视整改的报告是要断舍离，但其所断舍离的恰恰是其立足的血脉。</p>
+<p>上述南方的三个面向，本是一个中国特色的办报症候群。机关属性提供身份掩护，市场媒体供应社会盈利，同人群体赢得价值扎根。除了南方之外，现今尚能让气象苟延残喘的，莫不如是。南方的整改报告，将一时急需生造为剥除灵魂与身躯的动因，结果不难预料。</p>
+<p>很多人都在谈论一个问题：南方是否已经终结？若以市场媒体的先锋影响，以及同人群体的孔雀北飞衡量，南方作为印刷时代的现象级媒体，自然是历史的终结了。但是从整改报告的动机看，南方试图嫁接机关属性的历史刚刚开始。终结与肇始擦身而过，报告是为证据。当然，南方历史的终结，将其重要性封存；而肇始的这些，已经完全不重要了。</p>
+<p>2015/8/28</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E5%8E%86%E5%8F%B2%E7%BB%88%E7%BB%93%EF%BC%8C%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E8%82%87%E5%A7%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">南方日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BB%95%E5%9B%BE%EF%BD%9C%E9%A3%8E%E9%99%B5%E5%A4%9C%E8%AF%9D%E9%82%A3%E6%99%9A%EF%BC%8C%E9%83%AD%E8%8A%99%E6%98%AF%E5%A6%82%E4%BD%95%E7%AE%A1%E5%88%B6%E8%88%86%E8%AE%BA%E7%9A%84/" target="cdt-mirror">仕图｜风陵夜话那晚，郭芙是如何管制舆论的</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64012.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64012.jpg" alt="640" width="500" height=""></a></p>
@@ -807,22 +842,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9C%89%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%97%A0%E8%BF%9B%E4%BA%AC%E8%AF%81%E7%9A%84%E8%BD%A6%E8%BE%86%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8A%A0%E6%B2%B9%EF%BC%8C%E8%87%AA%E5%B7%B1%E6%8E%A8/" target="cdt-mirror">有网友称无进京证的车辆无法在北京加油，自己推车回家</a>
-</h2>
-<p><p><em>来源：Twitter</em></p>
-<blockquote><p>自曲新闻 ‏<strong><span data-aria-label-part=""><a href="https://twitter.com/freemoren/status/636703440157151233">@freemoren</a></span></strong>：有网友称无<strong>进京证</strong>的车辆无法在北京<strong>加油</strong>，自己推车回家 <a href="http://ww2.sinaimg.cn/large/4cb73116gw1evghepvry6j20g50fugnf.jpg">http://ww2.sinaimg.cn/large/4cb73116gw1evghepvry6j20g50fugnf.jpg</a><br>
-中石化北京石油分公司：北京东城区的全部加油站，和西城区距离长安街比较近的金融街、宣武门周边的加油站将于9月3日停业整修 <a href="http://www.chinanews.com/ny/2015/08-27/7491404.shtml">http://www.chinanews.com/ny/2015/08-27/7491404.shtml</a></p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CNYJLoNU8AAON6p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNYJLoNU8AAON6p.jpg" alt="CNYJLoNU8AAON6p" width="500" height="491"></a></p>
-<blockquote><p>深深的深白 ‏<strong><a href="https://twitter.com/Zannmuling/status/636723323800580096">@Zannmuling</a></strong>：没有进京证的同学们注意了。。。北京市内所有的加油站都不允许为无进京证的外地车加油了，没油真得推了。。。。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CNYYePjUsAAZGBU.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNYYePjUsAAZGBU.jpg" alt="CNYYePjUsAAZGBU" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/CNYYe1kVEAAqGGd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNYYe1kVEAAqGGd.jpg" alt="CNYYe1kVEAAqGGd" width="525" height=""></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%9C%89%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%97%A0%E8%BF%9B%E4%BA%AC%E8%AF%81%E7%9A%84%E8%BD%A6%E8%BE%86%E6%97%A0%E6%B3%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8A%A0%E6%B2%B9%EF%BC%8C%E8%87%AA%E5%B7%B1%E6%8E%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -834,7 +853,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ed5cdu78glmc.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -844,5 +863,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -24,6 +24,30 @@
         <td><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E8%BF%9E%E6%88%98%E4%B8%8D%E5%AE%9C%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5/" target="cdt-mirror">BBC｜马英九：连战“不宜参加”北京抗战阅兵</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/600x450_B1RQU6P700AN0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/600x450_B1RQU6P700AN0001.jpg" alt="600x450_B1RQU6P700AN0001" width="398" height="450"></a><br><em>（网络图片）</em></p>
+<p>台湾总统马英九周六（29日）重申，台湾官方的立场是，国民党前主席连战“不宜参加”出席中国大陆抗战阅兵活动。</p>
+<p>这是自连战确定将出席9月3日中国官方纪念抗战胜利70周年阅兵式以来，马英九首次就此公开发表评论。</p>
+<p>马英九周六（29日）上午到台北市议会进行国民党中常委改选投票前受访表示，关于这个问题，在过去一个星期中，陆委会、总统府的发言人都很清楚表明，“不宜参加”。</p>
+<p>他还特别强调说，“这就是我们中华民国政府的立场”。</p>
+<p><strong>各方评论</strong></p>
+<p>过去一周来，连战将参加北京阅兵式也成为台湾各方关注的一个热门话题。</p>
+<p>台湾前总统李登辉周六在出席一个论坛时也对媒体表示，连战常去中国、在中国关系很好，但是“这个问题不只是去做生意”，“（阅兵）这个问题较”，百姓的意见为何，“我不必讲，你们比我还清楚”。</p>
+<p>台湾副总统吴敦义周六接受采访时则表示，连战应邀出席大陆纪念抗战，盼望他能够坚持对史实的认定，“能够把中华民国政府主导八年抗战的史实坚定地讲出来”，才不会辜负台湾人民长期以来对政府、对连战的殷切期待。</p>
+<p>而国民党副主席郝龙斌周六也说，其父亲郝柏村和许多退役将领都讲过，“你拿中华民国的俸禄就不能去，如果你们站到中共的阅兵台上看阅兵，就应该放弃退休俸”。</p>
+<p><strong>连战回应</strong></p>
+<p>至于连战本人周六也出席了国民党中常委选举投票。不过，他到场之后只是投票，并没有接受媒体的采访，就其将参加北京阅兵式发表评论。</p>
+<p>而连战的主要幕僚之一，国民党前副秘书长张荣恭则接受采访表示，尊重和理解（台湾）政府立场。他表示，连战此行主要诉求是“两岸和平、区域稳定”，这也是全民期望。</p>
+<p>张荣恭还说，赞同副总统（吴敦义）所讲的方向。史实部分，连战会做“适当陈述”；两岸对大陆抗战史实的观点不同，若不沟通永远兜不拢，透过双边对话可以达到单边谈话达不到的目的，为两岸共同探讨史实打开新路。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E8%BF%9E%E6%88%98%E4%B8%8D%E5%AE%9C%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E5%BC%95%E6%80%80%E7%96%91/" target="cdt-mirror">法广｜天津爆炸一官员坠楼引怀疑</a>
 </h2>
 <p><div>
@@ -800,33 +824,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%BF%BD%E8%B4%A3%EF%BC%9A%E4%BA%A4%E5%A7%94%E5%A4%A9%E6%B4%A5%E6%B8%AF%E4%B8%83%E5%90%8D%E5%8E%85%E5%AE%98%E8%A2%AB%E7%AB%8B%E6%A1%88/" target="cdt-mirror">BBC｜天津爆炸追责：交委天津港七名厅官被立案</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150825160339_tianjin_blast_512x288_reuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150825160339_tianjin_blast_512x288_reuters_nocredit.jpg" alt="150825160339_tianjin_blast_512x288_reuters_nocredit" width="660" height="371"></a></p>
-<p><strong>中国新华社周四（27日）公布了检方和公安部门对天津港“8•12”特别重大火灾爆炸事故的调查结果。包括7名厅级官员在内的11名公职人员被检查机关立案侦查，包括瑞海公司高管在内的12名公司人员以犯罪嫌疑人身份被刑事拘留或监视居住。</strong></p>
-<p>中国检察机关立案侦查的公职人员主要来自于天津市和天津港集团有限公司，其中包括7名厅级官员。</p>
-<p>根 据新华社的报道，检方分别以涉嫌玩忽职守罪对天津市交通运输委员会主任武岱（正厅级）、原天津市交通运输和港口管理局副局长李志刚（副厅级、已退休）、天 津市交通运输委员会港口管理处处长冯刚、天津市安全生产监督管理局副局长高怀友（副厅级）、滨海新区安全生产监督管理局局长曹春波、滨海新区规划和国土资 源管理局副局长朱立明、天津海关副关长兼新港海关关长王家鹏（副厅级）、天津港（集团）有限公司总裁郑庆跃（正厅级）、天津港（集团）有限公司总裁助理李 洪峰（副厅级）、天津港（集团）有限公司安监部副部长郑树国依法立案侦查并采取刑事强制措施，以涉嫌滥用职权罪对交通运输部水运局副巡视员王金文（副厅 级）依法立案侦查并采取刑事强制措施。</p>
-<p>中国公安部门采取刑拘或监视居住的人员主要来自事故企业瑞海物流和为其提供安全评估报告的天津中滨海盛安全评价监测有限公司。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150827033301_zhengqingyue_tianjin_port_ceo_512x288_binhainewareagovernment_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150827033301_zhengqingyue_tianjin_port_ceo_512x288_binhainewareagovernment_nocredit.jpg" alt="150827033301_zhengqingyue_tianjin_port_ceo_512x288_binhainewareagovernment_nocredit" width="624" height="351"></a><p>天津港集团公司总裁郑庆跃曾在19日出席发布会。</p></div>
-<p>根据新华社的报道，8月14日，公安部门依法对瑞海公司及相关人员以涉嫌重大责任事故罪、非法储存危险物质罪立 案侦查。8月20日，依法对提供安全评价报告的天津中滨海盛安全评价监测有限公司及相关人员以涉嫌提供虚假证明文件罪立案侦查。目前，已对瑞海公司董事长 于学伟，副董事长董社轩，副总经理曹海军、刘振国、田旺，前法定代表人李亮，安保部经理郭向滨，财务总监宋齐，操作部副经理李雅翔，天津中滨海盛安全评价 监测有限公司评价师曾凡强等12名犯罪嫌疑人依法刑事拘留；对在事故中受伤的瑞海公司总经理只峰、主管安全的副总经理尚庆森2名犯罪嫌疑人依法监视居住。</p>
-<p>新华社报道引用了最高人民检察院对事故责任进行的初步定性，透露出监管部门失职的一些细节，部分回应了此前媒体的关注焦点。</p>
-<p>检察机关认为，天津市交通运输委员会可能的问题是，违规发放经营许可证。</p>
-<p>天津市安全生产监督管理局和滨海新区安全生产监督管理局可能的问题是，对瑞海公司存在的安全隐患和违法违规经营问题未及时检查发现和依法查处。</p>
-<p>滨海新区规划和国土资源管理局可能的问题是，明知瑞海公司经营危险化学品仓储地点违反安全距离规定，未严格审查把关，违规批准该公司危险化学品仓储业务规划。</p>
-<p>天津新港海关“给不具备资质的瑞海公司开辟绿色进出关通道，放纵瑞海公司从事违法经营活动”。</p>
-<p>天津港（集团）公司“对瑞海公司存在的安全隐患和违法违规经营问题未有效督促纠正和处置”。</p>
-<p>交通运输部水运局副巡视员王金文“违法行使职权，帮助不符合安全规定的瑞海公司通过安全评审，致使不具备资质的瑞海公司通过了危险化学品经营有关资质的审批”。</p>
-<p>这份调查结果并未触及更高层级的天津市领导。在8月19日天津市政府举行的新闻发布会上，中共天津市委代理书记、市长黄兴国曾表示，自己对这次事故“负有不可推卸的责任”。</p>
-<p>天津爆炸发生后，中国国家主席习近平及总理李克强多次承诺，要彻查原因，依法严格追责、严厉问责、严肃查处、对设计玩忽职守、失职渎职、违法违规的，要一究到底，坚决处理，决不姑息。</p>
-<p>截至北京时间25日下午3时，天津爆炸共发现遇难者135人。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E8%BF%BD%E8%B4%A3%EF%BC%9A%E4%BA%A4%E5%A7%94%E5%A4%A9%E6%B4%A5%E6%B8%AF%E4%B8%83%E5%90%8D%E5%8E%85%E5%AE%98%E8%A2%AB%E7%AB%8B%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8/?category=18271" rel="tag">公共安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E5%AE%89%E5%85%A8/?category=18271" rel="tag">生产安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -838,7 +835,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1c25hhq3jhonp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3uie65jlfp6fb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -848,5 +845,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/></td>    </tr>
 </table>

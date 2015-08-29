@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32aoep1a8v7ro.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20g1koj9j357r.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E7%9C%9F%E5%81%87%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E9%87%87%E8%AE%BF%E7%96%91%E4%BA%91-2015-8-29/" target="cdt-mirror">【敏感词库】真假习近平前妻采访疑云 2015-8-29</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E4%B8%A4%E4%BB%A3%E5%9B%BD%E6%AF%8D.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E4%B8%A4%E4%BB%A3%E5%9B%BD%E6%AF%8D.png" alt="两代国母" width="550" height=""></a><p>（1996年元宵晚会小品《打工奇遇》；演员：彭丽媛、阎维文、宋祖英）</p></div>
+<p>近日，一则题为《<a href="http://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/">习近平前妻评习：他不是一个理想主义者</a>》的报道在社交网络引来热传，文章称习近平前妻柯小明接受了《英国侨报》的采访。仅仅一天后，《明镜邮报》就发文引用“北京知情人士”断定<a href="http://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E9%8F%A1%E9%83%B5%E5%A0%B1%EF%BD%9C%E5%81%BD%E9%80%A0%E7%9A%84%E3%80%8A%E5%83%91%E5%A0%B1%E6%8E%A1%E8%A8%AA%E7%BF%92%E5%89%8D%E5%A6%BB%E6%9F%AF%E7%8E%B2%E7%8E%B2%E3%80%8B/">上述采访内容与事实不符</a>，是伪造文章。</p>
+<p>遗憾的是，由于中共领导人一直以来都存在于信息黑箱之中，许多关于他们的报道都无法通过公开渠道验证真伪。</p>
+<p>［新浪微博搜索禁词测试时间：2015年8月29日］</p>
+<p><strong>习＋前妻</strong><br><strong> 习＋前任</strong><br><strong> 习＋柯小明</strong><br><strong> 习＋离婚</strong><br><strong> 习＋二婚</strong><br><strong> 柯小明＋前妻</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E5%89%8D%E5%A6%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E5%89%8D%E5%A6%BB.png" alt="习 前妻" width="475" height="211"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E5%89%8D%E4%BB%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E5%89%8D%E4%BB%BB.png" alt="习 前任" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9F%AF%E5%B0%8F%E6%98%8E-%E4%B9%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9F%AF%E5%B0%8F%E6%98%8E-%E4%B9%A0.png" alt="柯小明 习" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E7%A6%BB%E5%A9%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E7%A6%BB%E5%A9%9A.png" alt="习 离婚" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E4%BA%8C%E5%A9%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E4%BA%8C%E5%A9%9A.png" alt="习 二婚" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9F%AF%E5%B0%8F%E6%98%8E-%E5%89%8D%E5%A6%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9F%AF%E5%B0%8F%E6%98%8E-%E5%89%8D%E5%A6%BB.png" alt="柯小明 前妻" width="475" height=""></a></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
+<p><strong>【更新】</strong></p>
+<p>《侨报》在新浪微博公开否认发表过《习近平前妻评习：他不是一个理想主义者》一文。该报社长曾出席人民日报于今年五月举办的“首届海外华文新媒体高峰论坛暨人民日报海外版创刊30周年座谈会”并发<a href="http://paper.people.com.cn/rmrbhwb/html/2015-05/29/content_1570575.htm">表演讲</a>。</p>
+<blockquote><p><a href="http://weibo.com/2045615020/Cy5jvsUGS">@英国侨报</a>：【郑重声明】：关于最近流传于网络的题为#习近平前妻评习：他不是一个理想主义者#、#习大大前妻柯玲玲预期10月份在英国与习大大见面#等采访报道不是由英国侨报报道，也没有在#英国侨报#的任何平台上发布过，请勿轻信转载！！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/79ed9bacgw1evjmvdqub2j20rk12zgr2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/79ed9bacgw1evjmvdqub2j20rk12zgr2.jpg" alt="79ed9bacgw1evjmvdqub2j20rk12zgr2" width="425" height=""></a></p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E7%9C%9F%E5%81%87%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E9%87%87%E8%AE%BF%E7%96%91%E4%BA%91-2015-8-29/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E8%BF%9E%E6%88%98%E4%B8%8D%E5%AE%9C%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5/" target="cdt-mirror">BBC｜马英九：连战“不宜参加”北京抗战阅兵</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/600x450_B1RQU6P700AN0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/600x450_B1RQU6P700AN0001.jpg" alt="600x450_B1RQU6P700AN0001" width="398" height="450"></a><br><em>（网络图片）</em></p>
@@ -801,26 +821,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 <a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%88%98%E4%BA%91%E5%B1%B1%E5%AD%90%E5%88%98%E4%B9%90%E9%A3%9E%E4%BA%B2%E4%BF%A1%E7%96%91%E6%B6%89%E8%BF%9D%E6%B3%95%E4%BA%A4%E6%98%93%E8%A2%AB%E6%8D%95/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%B9%90%E9%A3%9E/?category=18271" rel="tag">刘乐飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1/?category=18271" rel="tag">刘云山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%82%A1%E5%B8%82%E4%B8%8D%E5%90%AC%E5%85%9A%E8%AF%9D%EF%BC%8C%E5%AA%92%E4%BD%93%E6%80%8E%E8%83%BD%E4%B8%8D%E5%90%AC%EF%BC%9F/" target="cdt-mirror">自由亚洲｜股市不听党话，媒体怎能不听？</a>
-</h2>
-<p><p>中国股市沪指节节告退，星期三失守3000点大关。美国《纽约时报》星期三刊登长文说，中国股市哀鸿遍野这么大的事，中国官方喉舌媒体却基本保持沉默，既不提也不报。</p>
-<p>中国股市目前的震荡波及全球股市，中国股市目前的暴跌牵动至少7000万中国活跃的股民，如此大事，像《人民日报》、新华网和中央电视台那样的中国官方喉舌媒体竟然只字不提，许多人不禁要问什么？旅居瑞典的中国问题观察人士黎原野先生星期三表示，这是中国官方媒体秉承他们一贯的做法：</p>
-<p>“因为中国官方媒体， 尤其像《人民日报》和中央电视台那样中央一级的媒体，有一个鲜明的传统是报喜不报忧。现在，中国股市已经没有希望了，从官方角度看也是如此。这样肯定是件不好的事， 是个忧， 官方媒体不报道也很正常。”</p>
-<p>《纽约时报》星期三的报道说，长达24版的《人民日报》，号称“让新闻离你更近”的华网和中央电视台都对中国股市近日的惨状没有片言只语的报道。然而，今年四月，以《人民日报》为代表的中国官方媒体却大肆报道，鼓励股民投身股市，忽悠百姓说中国股市的春天到了。</p>
-<p>中国独立作家野渡星期三表示，中国官方媒体对中国股市的惨状不报道也是没有办法的办法：</p>
-<p>“因为这波中国股市上扬并没有坚实的经济发展作为基础，今年中国经济发展并不好，恐怕甚至连7%也达不到。现在股市大跌不仅打击了中国投资者的信心，而且也摧毁了海外机构投资者的信心。中国政府的救市不仅没有有助于股市企稳，使投资者重拾信心，反而适得其反。 在这种情况下，无论官方媒体说什么， 投资者和股民都不信了，官方陷入束手无策的境地。”</p>
-<p>中国股市经历“黑色星期一”以来，中国官方媒体鸦雀无声。作家野渡认为，此时如果官方媒体继续鼓噪，可能起到逆反的效果；中国股市上涨时， 中国官方媒体为中国股市造势是听党的话；今天中国股市大跌时，中国官方媒体默不作声也是听党的话。对此，黎先生表示：</p>
-<p>“中国官方媒体对中国股市没有任何新闻报道的新闻其实已经表达了一个意思， 即国家队救市基本失败，中国政府高层也知道救市失败的结果；官方对救市已不抱任何希望。 由于目前中国股市的惨状无论从经济角度看还是从政治方面分析， 对中国政府绝对都不是什么好事，由此中国政府要淡化处理。中国官方媒体对不好的事以前也这么处理，这么做， 这次只不过体现在股市上。”</p>
-<p>《纽约时报》星期三刊登的长篇文章透露，今年六月，中国官方媒体被指示可以报道股市， 但条件是要与官方要求一致，不能引发悲观情绪和恐慌，如媒体不能对股市表现进行深度分析，不能预测或评估股市的走势，不能使用像暴跌暴涨之类充满感情色彩的词汇。虽然中国政府可以对自己控制的媒体指手画脚，让他们说就得说，让他们不说就不能说，但是现在的市场却有自己的运行规律，政府那只有形的手再怎么指挥也可能不起作用。</p>
-<p>记者:闻剑 责编:吴晶</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%82%A1%E5%B8%82%E4%B8%8D%E5%90%AC%E5%85%9A%E8%AF%9D%EF%BC%8C%E5%AA%92%E4%BD%93%E6%80%8E%E8%83%BD%E4%B8%8D%E5%90%AC%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

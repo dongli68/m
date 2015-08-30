@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d34g5gu8c6nkio.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3akigodowrifp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d34g5gu8c6nkio.cloudfront.net">https://d34g5gu8c6nkio.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d34g5gu8c6nkio.cloudfront.net">https://d34g5gu8c6nkio.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%B1%E8%B8%AA%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%87%B4%E5%87%BD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E9%95%BF/" target="cdt-mirror">BBC｜失踪维权律师家属致函中国公安部长</a>
@@ -92,7 +92,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8D%97%E6%96%B9%E6%9C%80%E5%90%8E%E4%B8%80%E7%89%87%E6%A0%91%E5%8F%B6/" target="cdt-mirror">德国之声｜长平：南方最后一片树叶</a>
 </h2>
@@ -115,7 +115,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%91%B2%E5%BF%85%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%90%BD%E9%80%89%EF%BC%9F/" target="cdt-mirror">旧闻评论｜“呲必中国”为何落选？</a>
 </h2>
@@ -184,7 +184,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A9%BA%E6%B0%94%E5%A6%82%E6%AD%A4%E4%B9%8B%E7%B3%9F%EF%BC%8C%E4%B8%80%E4%BA%9B%E5%9C%B0%E5%8C%BA%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%AF%8F/" target="cdt-mirror">博谈网｜中国的空气如此之糟，一些地区相当于每天抽40根烟</a>
 </h2>
@@ -796,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3akigodowrifp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2f7owg17px5sg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d34g5gu8c6nkio.cloudfront.net">https://d34g5gu8c6nkio.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d34g5gu8c6nkio.cloudfront.net">https://d34g5gu8c6nkio.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/></td>    </tr>
 </table>

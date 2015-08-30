@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3e6zst9l42efx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dt24jke6iorrr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%B1%E8%B8%AA%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%87%B4%E5%87%BD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E9%95%BF/" target="cdt-mirror">BBC｜失踪维权律师家属致函中国公安部长</a>

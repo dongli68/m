@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%B1%E8%B8%AA%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%87%B4%E5%87%BD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E9%95%BF/" target="cdt-mirror">BBC｜失踪维权律师家属致函中国公安部长</a>
@@ -784,7 +784,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E5%B7%B1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">利己主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">犬儒主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -796,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3e6zst9l42efx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dt24jke6iorrr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
 </table>

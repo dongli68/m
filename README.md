@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3632g00rlcup5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1h4ywypi92lps.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3632g00rlcup5.cloudfront.net">https://d3632g00rlcup5.cloudfront.net</a><br/><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3632g00rlcup5.cloudfront.net">https://d3632g00rlcup5.cloudfront.net</a><br/><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B%E4%B9%8B%E8%99%AB-%E4%BB%8E1984%E5%88%B0%E7%BE%8E%E4%B8%BD%E6%96%B0%E4%B8%96%E7%95%8C/" target="cdt-mirror">万有引力之虫 | 从1984到美丽新世界</a>
@@ -409,7 +409,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9D%E4%BC%AF%E6%9D%91/?category=18271" rel="tag">郝伯村</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/" target="cdt-mirror">方式书简 | 习近平前妻评习：他不是一个理想主义者</a>
 </h2>
@@ -902,7 +902,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1h4ywypi92lps.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ed5cdu78glmc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -912,5 +912,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/><a href="https://d3632g00rlcup5.cloudfront.net">https://d3632g00rlcup5.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/><a href="https://d3632g00rlcup5.cloudfront.net">https://d3632g00rlcup5.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/></td>    </tr>
 </table>

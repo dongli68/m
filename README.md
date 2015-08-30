@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dceagu0fb34ko.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddb6p1dqze1i8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%91%B2%E5%BF%85%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%90%BD%E9%80%89%EF%BC%9F/" target="cdt-mirror">旧闻评论｜“呲必中国”为何落选？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64013.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64013.jpg" alt="640" width="300" height=""></a><br>
+【题图当代水墨，作者新浪微博：@秃头倔人】</p>
+<p><strong>相关阅读：</strong></p>
+<blockquote>
+<ul><li><a title="有难度 | 别人的“新闻奖” 你丫起什么哄！" href="http://chinadigitaltimes.net/chinese/2015/06/%E6%9C%89%E9%9A%BE%E5%BA%A6-%E5%88%AB%E4%BA%BA%E7%9A%84%E6%96%B0%E9%97%BB%E5%A5%96-%E4%BD%A0%E4%B8%AB%E8%B5%B7%E4%BB%80%E4%B9%88%E5%93%84%EF%BC%81/">有难度 | 别人的“新闻奖” 你丫起什么哄！</a></li>
+<li><a title="胡泳 | 记协 请不要这样评新闻奖" href="http://chinadigitaltimes.net/chinese/2015/06/%E8%83%A1%E6%B3%B3-%E8%AE%B0%E5%8D%8F-%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7%E8%AF%84%E6%96%B0%E9%97%BB%E5%A5%96/">胡泳 | 记协 请不要这样评新闻奖</a></li>
+<li><a title="《老师，请不要这样讲中国》进入中国新闻奖公示阶段" href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%8A%E8%80%81%E5%B8%88%EF%BC%8C%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7%E8%AE%B2%E4%B8%AD%E5%9B%BD%E3%80%8B%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%A5%96%E5%85%AC%E7%A4%BA/">老师，请不要这样讲中国》进入中国新闻奖公示阶段</a></li>
+<li><a title="【网络民议】带鱼效应" href="http://chinadigitaltimes.net/chinese/2014/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B8%A6%E9%B1%BC%E6%95%88%E5%BA%94/">【网络民议】带鱼效应</a></li>
+</ul></blockquote>
+<p>文／宋志标</p>
+<p>北大胡泳教授应该高兴。辽日某文参评中国新闻奖一事，经他挑头与中国记协“商榷”，终于弄黄了。辽日攫取奖项未遂，悻悻然退去。听闻石扉客讲，某新闻专业群抚额相庆，盛赞记协了得，办了一件好事。石扉客不以为然，再三提醒观众注意该奖的本质。</p>
+<p>辽日《老师，请不要这样讲中国》，其实是去年底适应舆论需要的一封公开信，它主要认为高校老师、尤其人文科目老师“呲必中国”，抹黑现实云云。在当时的气氛下，这篇檄文被认为是投降高校的“匕首”，至于谁想投、为什么投，这里就“不讲”了。</p>
+<p>胡泳反对此文中奖，主要的理据是去政治化的，列举的是别人以为的它在新闻要素上的残缺，对照新闻奖的某条标准，不合规定，应予以“取缔”。胡泳老师讲究谏言策略，火气中又拿捏火候，尽管商榷文被删了一阵子，但现在辽日也没拿到奖。</p>
+<p>没给辽日一个奖，到底是因为什么？笼统地说，当然是与此文参评引起的哗然有关。这个“哗然”之所以形成，具体包含两种张力：一是胡泳他们说的“不合规范”，记协颁奖就是自扇耳光；其二是“呲必记协”的，“就应该给辽日奖”，因其与记协本质相符。</p>
+<p>也就是说，在阻止辽日拿宣传品获奖上，无论是胡泳的“谆谆教导”，还是想要“谆谆教导”胡泳老师的，都在造势上起到了作用。辽日不应该感谢的，除了胡泳他们，还有石扉客辈。在一个立意是用新闻形式奖掖宣传品的奖项里，此等情境还真是混乱。</p>
+<p>将辽日的“呲必中国”在公示后剔除出去，在程序上一定是要给出理由的。至于理由是什么，也许有漏出，也许就此没了声响。不揣冒昧地讲，打发辽日的“理由”一定是技术方面的，比如要素不全（新闻与宣传的纠缠此时有效），甚至是写错参评类别之类。</p>
+<p>如果真要探究“呲必中国”在后半程的遭遇，或者去理解记协让它落选的行事逻辑，也许依旧要回到它作为一件宣传品的生命周期中去。表面上看，它受到了自诩的“新闻标准”的节制，实际上，更大的可能的是其宣传性质划定了它的限度，它的枯萎其来有自。</p>
+<p>“呲必中国”显然不是事实，但正如我们所知的那样，宣传讲究的关键也不是事实，而是讲究时宜性的材料。在某种情况下，需要这么一个“呲必中国”的靶子，以便宜特定在高校中的计划。即使宣传潮落，那些由靶子引导的东西，其实在高校中落了地。</p>
+<p>既然宣传是按需生炮制的，它也会按需静止。辽日在完成宣传任务后，给记协递上这件当时有战力的宣传品，举动相当自然——在记协认证下，将宣传品蒙上新闻标识，不是一直这样做的吗？辽日送评的举动太正常不过了，只是没考虑到封赏宣传品必须待其稳定。</p>
+<p>在原本生产—使用—加封的流水线上，宣传品的不稳定性就是它引起了特别的关注。辽日“呲必中国”此前一直好用，在评奖阶段引发了喧哗，将焦点重新凝聚在它之所以成为宣传品的背景上。被重新讨论的不是“靶子”，而是宣传意图成为“靶子”，这就犯了忌。</p>
+<p>总之，让“呲必中国”落选，是宣传止损的办法，是舆论导向功能在记协阶段的起效，这就是舆论守卫中的“守土有责”。只是，排除“呲必中国”，并不能抵消“呲必记协”，因为后者深谙宣传与新闻两端，靠“跨界”立足的记协逃不出已然闭环的指摘。</p>
+<p>2015/8/30</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%91%B2%E5%BF%85%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%90%BD%E9%80%89%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%8D%8F/?category=18271" rel="tag">中国记协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">政治宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">辽宁日报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BD%B1%E7%89%87%E3%80%8A%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98%E3%80%8B%E8%A2%AB%E6%8C%87%E5%81%B7%E7%A5%A8%E6%88%BF%E3%80%81%E9%9D%A0%E6%91%8A%E6%B4%BE%E5%85%85/" target="cdt-mirror">反法西斯影片《百团大战》被指偷票房、靠摊派充人数</a>
+</h2>
+<p><p>《百团大战》为广电<a href="http://www.shwenyi.com.cn/renda/2012shwl/n/wypl/u1ai6077415.html">总局确定的</a>“纪念中国人民抗日战争暨世界反法西斯战争胜利70周年重点电影”之一，于8月28日开始公映。近日将陆续亮相的重点“献礼”电影还包括：《战火中的芭蕾》、《诱狼》、《根据地》、《开罗宣言》、《穿越硝烟的歌声》、《报国忠烈之赵一曼》、《燃烧的影像》、《黄河》、《抗战中的文艺》、《犹太女孩在上海2——项链密码》、《铁血残阳》、《受降前夕》。</p>
+<p>根据腾讯娱乐<a href="http://view.inews.qq.com/a/ENT2015083002207706">报道</a>，该片28日公映当天，“以4530万（含零点场）力压《终结者5》成为单日票房冠军”，且“上映不到三天，票房轻松过亿”，成为了“近期国产电影的最大赢家”。但该片的高票房在民间引来一片质疑声，主要理由如下：</p>
+<ol><li>中宣部日前曾下发<strong>《<a href="http://www.dmcc.gov.cn/mainSite/xw/zxgz/723864/index.html">中央宣传部办公厅等关于组织观看电影故事片<百团大战>的通知</a>》</strong></li>
+<li>有网民曝光疑似“<strong>《百团大战》院线票房任务表</strong>”的文件</li>
+<li>各地网民在微博晒出了自己的电影票，指许多影院为该片<strong>“偷票房”</strong>（购买影片A，影院打出影片B的票后手动修改）</li>
+<li>该片凌晨时段场次竟也有不少场显示满座</li>
+<li>“该片用不足10%的排片换来近50%票房的奇迹”</li>
+</ol><p> <br><strong>中央宣传部办公厅等关于组织观看电影《百团大战》的通知</strong>（来源：<a href="http://www.dmcc.gov.cn/mainSite/xw/zxgz/723864/index.html">广电总局官网</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A51.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A51.jpg" alt="通知1" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A52.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A52.jpg" alt="通知2" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A53.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A53.jpg" alt="通知3" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A54.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A54.jpg" alt="通知4" width="500" height=""></a></p>
+<blockquote><p>各级宣传部门、教育部门、工青妇组织、各部队，要把组织观看影片作为纪念抗战胜利活动的一项重要内容，专人负责，逐级落实，所需费用可以从团费、工会会费等项目中支出。观看人次及其他落实情况由有关机构进行统计并上报至国家新闻出版广电总局电影局。</p></blockquote>
+<p><strong>网友曝光的《百团大战》院线票房任务表</strong>（图片来自新浪微博<a href="http://weibo.com/234194972">@微评议</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/654270efjw1evjwv9eoahj20cr0j2dg8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/654270efjw1evjwv9eoahj20cr0j2dg8.jpg" alt="654270efjw1evjwv9eoahj20cr0j2dg8" width="450" height=""></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/u/2219794733" target="_blank">第十电影 </a><i></i>：在各部门的组织指导下，【<em>百团大战</em>】周六单日票房超4000万，国产片最牛逼的<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]">，排片不多票房占比却很高，全国各地群众观影积极，很多早场甚至半夜三更的场次都座无虚席。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/michaelmjjackson" target="_blank">_何寶榮__</a>：土匪的事怎么能叫偷呢 人家那叫抢<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/niefuchen" target="_blank">独立电影评论</a> ： 人家“<em>百</em><em>团</em><em>大战</em>”，怎么会用麻雀战、地道战的手段<em>偷</em><em>票房</em>？一定是污蔑、赤果果的污蔑。<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<blockquote><p>@秀才阿哲：《百团大战》自上映来一直上演着用不足10%的排片换来近50%票房的奇迹，这是怎么做到的呢？很简单，三板斧——上面发红头，中间派任务，下面偷票房。可惜了《烈日灼心》，实际票房可能要比账面上数字高50%还多。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjcqf09j20qn18gdkd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjcqf09j20qn18gdkd.jpg" alt="4992b460jw1evkdjcqf09j20qn18gdkd" width="350" height="584"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjfr5p1j20c80gb74x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjfr5p1j20c80gb74x.jpg" alt="4992b460jw1evkdjfr5p1j20c80gb74x" width="350" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjga5bij20ci0goq3x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjga5bij20ci0goq3x.jpg" alt="4992b460jw1evkdjga5bij20ci0goq3x" width="350" height=""></a></p></blockquote>
+<p><a href="http://weibo.com/micholla" target="_blank">不吃虾</a>：上亿party members加上上亿public servants算上上亿家属至少3亿观众，目前的票房应该说已经很惨了，你还“座无虚席”！有没有同情心啊？<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p>@TianSiO：国产片保护月就算了还刷票房？</p>
+<p>@Kevin-HR：#百团大战偷票房# 作为一部弘扬“主旋律”的片子，就要扬正气，偷票房这种事？…….</p>
+<p>@共和国裁缝: 造谣！！是网络上甘岭的爱国青年刷出了百团大战的高票房。。</p>
+<p>@天创流：观影界的百团大战</p>
+<p>@MrFitcarraldo：看毛百团大战，又YY自己是中流砥柱</p>
+<p>@浪荡儿R：国企上班的都要强制看片</p>
+<p><a href="http://weibo.com/3173232345" target="_blank">虫小奇运势上升中</a>：在金逸用会员卡买烈日灼心，被强制购买了一张百团大战…<img title="[崩溃]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c7/lxhzhuakuang_org.gif" alt="[崩溃]">，就在今天晚上！</p>
+<p><a href="http://weibo.com/5209151437" target="_blank">随意点丫丫说</a>：<a href="http://weibo.com/n/%E7%94%B5%E5%BD%B1%E7%83%88%E6%97%A5%E7%81%BC%E5%BF%83?from=feed&loc=at" target="_blank">@电影烈日灼心</a><a href="http://weibo.com/n/%E7%94%B5%E5%BD%B1%E7%83%88%E6%97%A5%E7%81%BC%E5%BF%83?from=feed&loc=at" target="_blank">@电影烈日灼心</a> 不能忍 这就是<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8493.png" alt="" width="20px" height="20px">杆子里的政权<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><strong>附：<a href="http://ent.qq.com/a/20150830/022077.htm">腾讯娱乐｜《百团大战》大卖，真的有黑幕吗？</a></strong></p>
+<blockquote><p>与此同时，记者还发现，根据8月30日电影购票网站上的信息显示，在大地院线旗下某影院，凌晨三点到七点间《百团大战》的不少场次均显示满座。有网友分析，这是影院在借凌晨时间段“刷票房”。</p>
+<p>记者就此采访了多家院线负责人，证实了摊牌票房任务新闻的真实性。有知情人还分析分析，发行方大幅度让利是为了使影片在9月3日之前借由高票房形成一定的社会效应。且9月3日之后仍会有团体包场的需求，再加上延长放映，所以票房回本应该也不成问题。</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BD%B1%E7%89%87%E3%80%8A%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98%E3%80%8B%E8%A2%AB%E6%8C%87%E5%81%B7%E7%A5%A8%E6%88%BF%E3%80%81%E9%9D%A0%E6%91%8A%E6%B4%BE%E5%85%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A9%BA%E6%B0%94%E5%A6%82%E6%AD%A4%E4%B9%8B%E7%B3%9F%EF%BC%8C%E4%B8%80%E4%BA%9B%E5%9C%B0%E5%8C%BA%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%AF%8F/" target="cdt-mirror">博谈网｜中国的空气如此之糟，一些地区相当于每天抽40根烟</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5d282d77tx6Bx8CMJH1bf690.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5d282d77tx6Bx8CMJH1bf690.jpg" alt="5d282d77tx6Bx8CMJH1bf&690" width="500" height=""></a><br><em>《我爱祖国的雾霾》作者：<a href="http://blog.sina.com.cn/s/blog_5d282d770102e5qa.html">鸟衣狐</a>；改编自主旋律歌曲《我爱祖国的蓝天》／数字时代配图</em></p>
@@ -164,7 +233,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=18271" rel="tag">1984</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E9%97%AE%E9%A2%98/?category=18271" rel="tag">公共问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9%E4%B8%AD%E6%96%87%E5%9C%88/?category=18271" rel="tag">推特中文圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E7%9C%9F%E5%81%87%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E9%87%87%E8%AE%BF%E7%96%91%E4%BA%91-2015-8-29/" target="cdt-mirror">【敏感词库】真假习近平前妻采访疑云 2015-8-29</a>
 </h2>
@@ -715,78 +784,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/" target="cdt-mirror">虎嗅网｜步前副总徐辉后尘，人民网总裁廖玒被检察机关带走调查</a>
-</h2>
-<p><p>【更新】</p>
-<blockquote><p>#央视快讯#【<a href="http://news.sina.com.cn/c/2015-08-28/150132249344.shtml">人民网总裁廖玒、副总裁陈智霞被立案侦查</a>】日前，经最高人民检察院指定管辖，河南省人民检察院依法以涉嫌贿赂犯罪对人民网股份有限公司总裁廖玒，人民网股份有限公司董事、副总裁陈智霞立案侦查并采取强制措施。案件侦查工作正在进行中。(央视记者左力)</p></blockquote>
-<p>据财新与南方周末从多个渠道证实，昨天刚发完半年报，今天（2015年8月27日）上午，人民网副董事长、总裁廖玒和人民网董事、副总裁陈智霞，被检察机关带走调查。</p>
-<p>在此之前，人民网副总编辑徐辉亦曾被协助调查。当时徐辉被认为涉及的是“有偿不闻”的新闻腐败问题。有大型科技企业管理层人士告诉南方周末记者，徐辉任职人民网期间，其敲诈勒索、劣迹斑斑，且“吃相难看”。</p>
-<p>52岁的廖玒最后一次出现在媒体报道中是在8月20日的《人民日报》上，他到深圳参加2015媒体融合发展论坛时，就媒介融合发展发表了自己的看法。廖玒称： “我在人民网工作了19年，越来越觉得在互联网真正传得开、远、久的，还是内容。”此前，他还将当下互联网态势概括为“三少一多”。他说，“网上信口开河、好勇斗狠的少了；‘据传’等未经证实消息来源传播少了；‘草泥马’等低俗对抗语言少了；正能量多了，主流媒体微博微信客户端成传播正能量的重要方面。”</p>
-<p>公开资料显示，廖玒和陈智霞两人均为编辑出身，并在人民网的前身人民日报网络中心任职多年。廖玒曾为陈智霞的主管领导。2010年6月，两人同时进入人民网管理层，并担任正副总裁。</p>
-<p>廖玒1986年从北京工业大学机械工程系毕业，历任人民日报社总编室编辑、宣传协调组副组长。1996年，人民网前身人民日报网络版开始筹备成立，廖玒即参与其中。1997年人民日报网络版成立，后更名为网络中心，廖玒任网络中心总编室负责人、总编室主任。2004年3月，廖玒升任网络中心副主任，后又任网 络中心常务副主任，并明确为正局级。2010年6月后，廖玒任人民网副董事长、总裁，其中2010年6月至2015年4月，他还兼任人民网总编辑。</p>
-<p>据悉，廖玒先后主持了中国驻南大使馆被炸、“南丹矿难”等在中国互联网上产生重大影响的新闻报道工作，多次组织人民网全国“两会”等重大活动的宣传报道工作，被认为是“在人民网创建、发展、壮大过程中发挥了至关重要的作用。”2009年，廖玒获得中国新闻奖一等奖。</p>
-<p>现年44岁的陈智霞也长期任职于人民日报网络中心和人民网，归廖玒领导多年。简历显示，1997年8月，北京大学社会学系硕士研究生毕业的陈智霞进入人民日报社，在刚刚成立不久的网络中心任编辑，先后历任网络中心总编室副主任、主任。2007年11月，陈智霞任人民网发展公司总裁助理兼总编室主任。2010年6月，陈智霞随廖玒同期进入人民网管理层，任人民网董秘，后任董事、副总裁。</p>
-<p><strong>徐辉事件尚未有定论</strong></p>
-<p>2015年5月27日，多家媒体报道，人民网副总编辑徐辉日前被带走调查。人民日报社领导已于5月22日，在人民网内部一定范围内，通报了此事。通报内容大致为，徐辉因涉及经济问题被有关部门调查，对其正式停职。</p>
-<p>在人民网中，徐辉负责对外联系、合作等事务，并多次代表人民网出席各种论坛活动，其对外发言多围绕在金融、产业等经济领域。他最近一次的公开露面，包括2015年5月9日，在江苏无锡宜兴举行的“2015全球电线电缆年会”。</p>
-<p>有数位与徐辉有来往的人士评价，徐辉属“少年得志”，为人比较轻狂、自大。</p>
-<p>一家IT行业公司的公关负责人对媒体称，徐辉很早之前，就存在利用不刊发监督类报道来换取广告利益的事迹。“他的部下给企业的公关部门发去未刊发的新闻稿， 大意是这企业的产品存在什么问题。”这位负责人说，“然后，我们给他打电话，他就说，什么时候到他办公室去谈谈。然后我们去了，去了之后，就是要我们给多 少钱，投多少广告，或者搞什么合作。”</p>
-<p>外界普遍相信，徐辉受调查是因为涉嫌有偿新闻。</p>
-<p>但“徐辉 被调查 有偿新闻”很快成为网络敏感词，相关新闻在网络与微博上被删除。</p>
-<p>深圳现代社会观察研究所负责人刘开明曾说，</p>
-<blockquote><p>“21世纪网的事就大肆报道，而人民网的事基本上没有报道，我们感到很奇怪，之前的一些新闻腐败也是很高调报道，这次为什么没报道？是不是被抓了？如果被抓了为什么不敢报道？是不是有不同标准，这是大家很关心的。”</p></blockquote>
-<p>据了解，去年6月，审计署列出了人民日报社财政收支的十大问题，批评人民日报社以及属下《环球时报》和《中国汽车报》，违反规定自行扩大项目支出范围，涉及的金额高达5000多万元人民币。同年10月，纪检组进驻人民日报社，对其展开专项检查工作。</p>
-<p><strong>人民网利润压力颇大</strong></p>
-<p>2005年2月，人民网股份有限公司成立，人民网后被注入该公司。2012年4月27日，人民网在上交所上市，成为国内首家A股上市的新闻网站，人民日报社为其控股股东。但在上市之初，一些分析便认为，人民网等门户资讯网站的商业模式与生态并无创新之处，收入来源还只是靠传统的广告业务。</p>
-<p>人民网的历年财报显示，“广告及宣传服务”是人民网最重要的收入来源，其中，广告客户多来自金融、房地产、食品、家电、通信等行业和领域。此外，人民网拥有 “中国共产党新闻网”、“强国论坛”、“人民网舆情监测室”等品牌栏目，主办了“中国人大新闻网”、“中国政协新闻网”等多个专业性新闻网站；承办了多个党的主题教育活动官方网站；并建设了多个中央部委网站。人民网旗下拥有人民在线、人民视讯、环球网、海外网、金台创投、人民澳客、成都古羌科技有限公司等多家控股公司，并在31个省市自治区设立地方频道。</p>
-<p>上市后，人民网积极在市场上展开收购以做大收入，先后收购了看书网（网络文学）、澳客网（彩票业务）等公司。</p>
-<p>2014年，人民网营业收入15.84亿元，净利润3.30亿元，分别同比大增54.11%、21.02%。其中，“广告及宣传服务”为5.72亿元，占营业收入的36.11%；同时，这项收入的毛利率，也高达58.08%。</p>
-<p>2015年一季度，人民网营业收入3.85亿元，同比29.60%；净利润1.77亿元，同比大降60.60%。</p>
-<p>而据昨天（8月26日）晚间披露的半年报，人民网今年上半年净利下降39.42%，至5827.96万元，每股盈利为0.11元。今年前6个月，人民网营业收入为7.25亿元，同比增长17.07%。</p>
-<p>人民网表示，上半年净利下滑的主要原因是，公司在移动业务上加大投入，导致相应成本、费用显著增加；此外，由于子公司人民澳客于年初暂停互联网彩票服务业务，也对利润下降造成一定程度的影响。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E7%BD%91/?category=18271" rel="tag">人民网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%81%BF%E6%96%B0%E9%97%BB/?category=18271" rel="tag">有偿新闻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/" target="cdt-mirror">虎嗅网｜步三个月前副总徐辉后尘，人民网总裁廖玒被检察机关带走调查</a>
-</h2>
-<p><p>据财新与南方周末从多个渠道证实，昨天刚发完半年报，今天（2015年8月27日）上午，人民网副董事长、总裁廖玒和人民网董事、副总裁陈智霞，被检察机关带走调查。</p>
-<p>在此之前，人民网副总编辑徐辉亦曾被协助调查。当时徐辉被认为涉及的是“有偿不闻”的新闻腐败问题。有大型科技企业管理层人士告诉南方周末记者，徐辉任职人民网期间，其敲诈勒索、劣迹斑斑，且“吃相难看”。</p>
-<p>52岁的廖玒最后一次出现在媒体报道中是在8月20日的《人民日报》上，他到深圳参加2015媒体融合发展论坛时，就媒介融合发展发表了自己的看法。廖玒称： “我在人民网工作了19年，越来越觉得在互联网真正传得开、远、久的，还是内容。”此前，他还将当下互联网态势概括为“三少一多”。他说，“网上信口开河、好勇斗狠的少了；‘据传’等未经证实消息来源传播少了；‘草泥马’等低俗对抗语言少了；正能量多了，主流媒体微博微信客户端成传播正能量的重要方面。”</p>
-<p>公开资料显示，廖玒和陈智霞两人均为编辑出身，并在人民网的前身人民日报网络中心任职多年。廖玒曾为陈智霞的主管领导。2010年6月，两人同时进入人民网管理层，并担任正副总裁。</p>
-<p>廖玒1986年从北京工业大学机械工程系毕业，历任人民日报社总编室编辑、宣传协调组副组长。1996年，人民网前身人民日报网络版开始筹备成立，廖玒即参与其中。1997年人民日报网络版成立，后更名为网络中心，廖玒任网络中心总编室负责人、总编室主任。2004年3月，廖玒升任网络中心副主任，后又任网 络中心常务副主任，并明确为正局级。2010年6月后，廖玒任人民网副董事长、总裁，其中2010年6月至2015年4月，他还兼任人民网总编辑。</p>
-<p>据悉，廖玒先后主持了中国驻南大使馆被炸、“南丹矿难”等在中国互联网上产生重大影响的新闻报道工作，多次组织人民网全国“两会”等重大活动的宣传报道工作，被认为是“在人民网创建、发展、壮大过程中发挥了至关重要的作用。”2009年，廖玒获得中国新闻奖一等奖。</p>
-<p>现年44岁的陈智霞也长期任职于人民日报网络中心和人民网，归廖玒领导多年。简历显示，1997年8月，北京大学社会学系硕士研究生毕业的陈智霞进入人民日报社，在刚刚成立不久的网络中心任编辑，先后历任网络中心总编室副主任、主任。2007年11月，陈智霞任人民网发展公司总裁助理兼总编室主任。2010年6月，陈智霞随廖玒同期进入人民网管理层，任人民网董秘，后任董事、副总裁。</p>
-<p><strong>徐辉事件尚未有定论</strong></p>
-<p>2015年5月27日，多家媒体报道，人民网副总编辑徐辉日前被带走调查。人民日报社领导已于5月22日，在人民网内部一定范围内，通报了此事。通报内容大致为，徐辉因涉及经济问题被有关部门调查，对其正式停职。</p>
-<p>在人民网中，徐辉负责对外联系、合作等事务，并多次代表人民网出席各种论坛活动，其对外发言多围绕在金融、产业等经济领域。他最近一次的公开露面，包括2015年5月9日，在江苏无锡宜兴举行的“2015全球电线电缆年会”。</p>
-<p>有数位与徐辉有来往的人士评价，徐辉属“少年得志”，为人比较轻狂、自大。</p>
-<p>一家IT行业公司的公关负责人对媒体称，徐辉很早之前，就存在利用不刊发监督类报道来换取广告利益的事迹。“他的部下给企业的公关部门发去未刊发的新闻稿， 大意是这企业的产品存在什么问题。”这位负责人说，“然后，我们给他打电话，他就说，什么时候到他办公室去谈谈。然后我们去了，去了之后，就是要我们给多 少钱，投多少广告，或者搞什么合作。”</p>
-<p>外界普遍相信，徐辉受调查是因为涉嫌有偿新闻。</p>
-<p>但“徐辉 被调查 有偿新闻”很快成为网络敏感词，相关新闻在网络与微博上被删除。</p>
-<p>深圳现代社会观察研究所负责人刘开明曾说，</p>
-<blockquote><p>“21世纪网的事就大肆报道，而人民网的事基本上没有报道，我们感到很奇怪，之前的一些新闻腐败也是很高调报道，这次为什么没报道？是不是被抓了？如果被抓了为什么不敢报道？是不是有不同标准，这是大家很关心的。”</p></blockquote>
-<p>据了解，去年6月，审计署列出了人民日报社财政收支的十大问题，批评人民日报社以及属下《环球时报》和《中国汽车报》，违反规定自行扩大项目支出范围，涉及的金额高达5000多万元人民币。同年10月，纪检组进驻人民日报社，对其展开专项检查工作。</p>
-<p><strong>人民网利润压力颇大</strong></p>
-<p>2005年2月，人民网股份有限公司成立，人民网后被注入该公司。2012年4月27日，人民网在上交所上市，成为国内首家A股上市的新闻网站，人民日报社为其控股股东。但在上市之初，一些分析便认为，人民网等门户资讯网站的商业模式与生态并无创新之处，收入来源还只是靠传统的广告业务。</p>
-<p>人民网的历年财报显示，“广告及宣传服务”是人民网最重要的收入来源，其中，广告客户多来自金融、房地产、食品、家电、通信等行业和领域。此外，人民网拥有 “中国共产党新闻网”、“强国论坛”、“人民网舆情监测室”等品牌栏目，主办了“中国人大新闻网”、“中国政协新闻网”等多个专业性新闻网站；承办了多个党的主题教育活动官方网站；并建设了多个中央部委网站。人民网旗下拥有人民在线、人民视讯、环球网、海外网、金台创投、人民澳客、成都古羌科技有限公司等多家控股公司，并在31个省市自治区设立地方频道。</p>
-<p>上市后，人民网积极在市场上展开收购以做大收入，先后收购了看书网（网络文学）、澳客网（彩票业务）等公司。</p>
-<p>2014年，人民网营业收入15.84亿元，净利润3.30亿元，分别同比大增54.11%、21.02%。其中，“广告及宣传服务”为5.72亿元，占营业收入的36.11%；同时，这项收入的毛利率，也高达58.08%。</p>
-<p>2015年一季度，人民网营业收入3.85亿元，同比29.60%；净利润1.77亿元，同比大降60.60%。</p>
-<p>而据昨天（8月26日）晚间披露的半年报，人民网今年上半年净利下降39.42%，至5827.96万元，每股盈利为0.11元。今年前6个月，人民网营业收入为7.25亿元，同比增长17.07%。</p>
-<p>人民网表示，上半年净利下滑的主要原因是，公司在移动业务上加大投入，导致相应成本、费用显著增加；此外，由于子公司人民澳客于年初暂停互联网彩票服务业务，也对利润下降造成一定程度的影响。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%99%8E%E5%97%85%E7%BD%91%EF%BD%9C%E6%AD%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%89%8D%E5%89%AF%E6%80%BB%E5%BE%90%E8%BE%89%E5%90%8E%E5%B0%98%EF%BC%8C%E4%BA%BA%E6%B0%91%E7%BD%91%E6%80%BB%E8%A3%81%E5%BB%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E7%BD%91/?category=18271" rel="tag">人民网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%81%BF%E6%96%B0%E9%97%BB/?category=18271" rel="tag">有偿新闻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -798,7 +795,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dceagu0fb34ko.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddb6p1dqze1i8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -808,5 +805,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/></td>    </tr>
 </table>

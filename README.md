@@ -24,6 +24,99 @@
         <td><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%B1%E8%B8%AA%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%87%B4%E5%87%BD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E9%95%BF/" target="cdt-mirror">BBC｜失踪维权律师家属致函中国公安部长</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150830080613_china_humanright_lawyer_bangkok_976x549_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150830080613_china_humanright_lawyer_bangkok_976x549_afp_nocredit.jpg" alt="150830080613_china_humanright_lawyer_bangkok_976x549_afp_nocredit" width="585" height="329"></a><p>国际特赦组织8月6日在泰国曼谷的中国使馆前，要求中国政府释放已抓捕的维权律师及维权人士。</p></div>
+<p><strong>在联合国“强迫失踪受害者国际日”来临之际，中国13名“被强迫失踪人士”家属联名写信给中共公安部长郭声琨，要求资讯公开、依法办案。</strong></p>
+<p>这封周六（29日）刊登在中国维权律师关注组网页上的“13名被强迫失踪人士家属致中华人民共和国公安部部长郭声琨先生的公开信”，由今年7月起陆续失踪的中国维权律师、助理、维权人士及相关人员的家属共同署名。信中写到，他们的亲属都遵循同一个模式“被强迫失踪”。</p>
+<p>有关部门不愿透露失踪者的下落，也没有明确的罪名，只有一小部分家属收到官方的通知书。有些失踪者已经失联超过50天。</p>
+<p>8月30日是联合国“强迫失踪受害者国际日”，根据联合国大会2010年通过的第65/209号决议，对世界各地强迫失踪或非自愿失踪事件，及对失踪者有关的证人或亲属骚扰恐吓事件表达关切。</p>
+<p>联大在决议文中通过《保护所有人免遭强迫失踪国际公约》，从2011年开始举行活动予以纪念。</p>
+<p>家属在信中也向郭声琨表达了心中的恐惧，对家人现况不明的煎熬。信末署名的家属包括维权律师李和平的妻子、包龙军的母亲、王全璋的妻子和姐姐等13人。</p>
+<p>自从7月9日北京锋锐律师事务所的维权律师王宇被人从家里带走后，中国许多维权律师陆续失踪。</p>
+<p>根据香港“中国维权律师关注组”的资料，截至上周五（28日）傍晚，至少277名律师及相关人员被拘留、带走、软禁、限制出境、约谈、传唤对待。国际社会纷纷表态反对中国政府打压维权律师。</p>
+<p>香港在8月2日举办过“释放律师明信片签署行动”，鼓励民众自行下载已填好地址的明信片，收件人就是郭声琨。</p>
+<p><strong>全球问题</strong></p>
+<p>人权团体在强迫失踪受害者国际日前夕表示，目前世界上仍有数千人是“强迫失踪”的受害者。国际特赦组织（Amnesty International）指出，叙利亚、斯里兰卡、墨西哥、波士尼亚等国家，都有侵害人权的强制失踪案例。</p>
+<p>联合国表示，强迫失踪经常被用以在社会上散播恐惧。这是一个全球性的问题，不限于特定区域。</p>
+<p>“过去主要是军事独裁政权的产物，现在可能在内部冲突的复杂情势中实施，尤其是作为在政治上打压对手的一种手段。”</p>
+<p>亲 身遭遇亲属被强制失踪的联合国强制和非自愿失踪工作小组（UN Working Group on Enforced and Involuntary Disappearances）负责人，来自阿根廷的杜利茨基（Ariel Dulitzky）说：“现在世界上每天都还有强制失踪案件发生。我们有登记有案的国家有88个，不管是已开发还是开发中国家，不论政权是民主或专制，都 有案例发生。”</p>
+<p>他也表示，从许多案例看来，当权者对于想寻找失踪亲属的人们，也会持续骚扰或恐吓。</p>
+<p>（编译：刘子维　责编：叶靖斯）</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%B1%E8%B8%AA%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%87%B4%E5%87%BD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E9%95%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8/?category=18271" rel="tag">公安部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/" target="cdt-mirror">【网络民议】团中央启智学校招收第一批学员</a>
+</h2>
+<p><p><strong><a href="http://zqb.cyol.com/html/2015-08/28/nw.D110000zgqnb_20150828_5-01.htm">中青报｜中国青年网络智库成立</a></strong></p>
+<blockquote><p>[…]希望智库成员<strong>为共青团网络引导工作多出主意</strong>，<strong>当好导师</strong>；为培训青年网络文明志愿者多出力气，当好老师；加强对青年相关课题的研究，当好研究员，切实做好中国青年网络智库的各项工作。</p>
+<p>秦宜智指出，加强青年网络舆论引导和组织动员，关系到党和国家事业的后继有人，关系到我国互联网生态的前景未来，更关系到青年一代的精神品质和责任担当。[…]网络舆论引导工作是一项复杂的工程，既要对宣传内容有深刻理解，又要对传播规律有准确把握；既要从根本上着力解决各类重大理论问题，又要能随时应对突发舆情事件；既要看到负面舆论表面带来的社会影响，又要认清其背后隐藏的深层次原因，这就<strong>迫切需要借助网络智库的智慧与力量提升共青团网络舆论引导工作的专业化水平</strong>。</p>
+<p>[…]首期中国青年网络智库由来自政治、经济、法律、历史、文化、科技、互联网等多个领域的近40名国内著名专家组成。团中央书记处书记周长奎出席并主持会议，团中央机关及相关直属事业单位负责同志参加会议。</p></blockquote>
+<p><strong><a href="http://weibo.com/1707905652/CxYi17oQM">@文山娃</a></strong>：团中央的中国青年网络智库8月27日在京成立。据知名网友千钧客透露，该智库有包括她（或他）在内的37位创始导师。中青报未有提供37人名单。作为正能量观察者，我大胆预测必选名师：李艳艳、朱继东、叙岚、林治波、戴旭、周小平、花千芳、孤烟暮蝉等；候补名单排名靠前的有侯聚森和胡杨麟等。</p>
+<p><strong><a href="http://weibo.com/1707905652/Cy3K3c93H">@文山娃</a></strong>：證實了。祝賀社科院国家文化安全与意识形态建设研究中心秘书长暨清华大学马克思主义博士后流动站博士后朱继东老師。朱老師為青年開的第一堂課或為：我與國父不得不說的故事。</p>
+
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/65cc9274jw1evjfx50ygrj20dc0hsjsm/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/65cc9274jw1evjfx50ygrj20dc0hsjsm-150x150.jpg" alt="65cc9274jw1evjfx50ygrj20dc0hsjsm"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/65cc9274jw1evjfx95hs0j20hs0vkwj2/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/65cc9274jw1evjfx95hs0j20hs0vkwj2-150x150.jpg" alt="65cc9274jw1evjfx95hs0j20hs0vkwj2"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/65cc9274jw1evjfxa7te3j20hs0vkq8f/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/65cc9274jw1evjfxa7te3j20hs0vkq8f-150x150.jpg" alt="65cc9274jw1evjfxa7te3j20hs0vkq8f"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/65cc9274jw1evjfx4ck8sj20k00qo76j/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/65cc9274jw1evjfx4ck8sj20k00qo76j-150x150.jpg" alt="65cc9274jw1evjfx4ck8sj20k00qo76j"></a>
+
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@文山娃:給正能量同好們簡單解釋下：此智庫為中國青年網主持設立，中青網頂頭上司為團中央網絡影視中心，該中心與中國青年報行平級。中青報的官網叫中青在線，不叫中國青年網。</p>
+<p><a href="http://weibo.com/2120210477" target="_blank">yuanzj柳叶刀</a>：组织好习主席的红色卫兵（简称红卫兵），老习在舆论文化领域的‘御林军’。是团中央的重要任务！<img title="[酷]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]"><img title="[阴险]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/yx_org.gif" alt="[阴险]"></p>
+<p><a href="http://weibo.com/5239115061" target="_blank">青衫秀士</a>：哈哈哈哈 群丑毕至，要开万妖大会吗？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@朴抱一:花千芳教养鸡，周小平教养带鱼，胡杨麟教菜刀，戴大校教走正步，这个班底搞个农家乐还挺好。。</p>
+<p>@SinGeno_Jr：全称:智商着急储备库？</p>
+<p>@l8j8w8：这些人当智库我也就放心了</p>
+<p>@Original-lemon：活体网络智障类型数据库麽？</p>
+<p>@八府巡案大堂：今天是鬼节，正适合成立此等组织。</p>
+<p>@虢燚凤珝：智库，智库，请告诉我如何接受你们强大的脑电波，天线已架好</p>
+<p><a href="http://weibo.com/3518424067" target="_blank">保佑大腿时代</a>：你们不要再骂了，毕竟垃圾分类这个工作团中央还是做得很好的<img title="[good]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]"><img title="[赞]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/z2_org.gif" alt="[赞]"></p>
+<p>@terauodbiel：靠段子手维护网络舆情秩序，不是说不可，只能说 我——党宣传部门已经烂透，溃不成军。指挥不动。说严重点 如同当年国民党靠黑帮 做 工人纠察队一样、虽然性质不懂，但同样很说明问题。一个本该理直气壮维护的事业，因为执政者的无能和无为只能靠民间力量维系。</p>
+<p>@一花一带: 应该是弱智库，这37人是团中央慈善性质的启智学校招收的第一批学员</p>
+<p>@鹪鹩一枝：团中央打算成立褐衫队了？！青年是国家的未来，如此，本朝前景甚堪忧虑，难道会逐步走向法西斯化？</p>
+<p>@风调水顺：名单都没有？怎么弘扬正能量！</p>
+<p>@scott_44251：导师连名字都不泄露？地下工作？</p>
+<p>@frankyhl123：司马南于力，孔庆东，纪许光，吴法天，方舟子，张召忠，蔡小心，袁小靓必须有呀</p>
+<p>@忧郁美少年：云台37将，横扫一切牛鬼蛇神</p>
+<p>@额滴神__啊：靠群妖大小鬼也保不住阎王殿</p>
+<p>@福州郭律师：一个雷雨交加的夜晚。@花千芳 举着一把宝剑，大声喊道，“赐予我智商吧，我是导师”。激动人心的音乐声响起，上帝从云端里给花千芳披上了黄袍。@胡杨麟 也举剑大声喊，“赐予我智商吧。”咔一声雷，@胡杨麟 一阵快感，昏了过去。醒来一看，被新浪禁言了。上帝在旁边面无表情的说，“你丫往带避雷针了”</p>
+<p>@三桂枝丰：伟大领袖毛主席参加开罗会议，签署开罗宣言，规定钓鱼岛是中华人民共和国的，这一条必须编制档案纳入智库的数据库，并广为宣传。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8D%97%E6%96%B9%E6%9C%80%E5%90%8E%E4%B8%80%E7%89%87%E6%A0%91%E5%8F%B6/" target="cdt-mirror">德国之声｜长平：南方最后一片树叶</a>
+</h2>
+<p><p><strong>南方报业集团一份整改材料引起关注。时评人长平认为，对久已谢幕的“南方媒体”的怀念，体现了中国媒体的萧瑟现状。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/016509753_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/016509753_30300.jpg" alt="0,,16509753_303,00" width="585" height=""></a></p>
+<p>（德国之声中文网）一份南方报业集团的上报材料，”按照党务公开原则和巡视工作有关要求”，在广东省纪委网站公布出来。随后，包括南方集团官方网站在内的各大网站予以转发，受到舆论的高度关注。</p>
+<p>如果你熟悉南方报业集团一些子报，如《南方周末》、《南方都市报》、《南方人物周刊》等，尤其是它们若干年前的样子，而且只熟悉这些的话，会对这份报告十分惊讶。因为它告诉人们，南方集团又遭遇了一次整顿，整顿成绩斐然，而且还用如此有辱斯文、令人厌恶的文风写出来，和其他党内文件毫无二致。</p>
+<p>笔者曾先后在南方报业集团工作了十年时间，看到这份材料的感觉，首先是悲凉，为历史的倒退，也为自己和同仁们被否定的青春。多少年来，一批又一批新闻人奔向南方，满腔热血、夙兴夜寐，不仅对新闻业抱持极大的兴趣，也对国家充满了希望。他们相信，通过自己和所有人的努力，中国一定会越来越好。就媒体发展来说，言论空间会越来越大，政府也会越来越适应批评，接受批评，打压媒体的言辞会越来越显得陈腐可笑，最终让人羞于启齿，无疾而终。这份报告告诉人们，一切都在朝着相反的方向行进。</p>
+<p>而且，丑恶是不会害臊的。公开这种文件，如此理直气壮，得意洋洋，让所有对南方集团有过好感的人，都感到受辱。不过我认为，公开本身是一种好事情。有必要说明的是，有两件事情一直都存在，那就是：第一，宣传部门对南方集团的打压，须臾未曾消失；第二，集团领导无论对内讲话，还是向上级汇报，从来都用那种体制内的党八股语调。</p>
+<p><strong>不再掩饰的惩戒</strong></p>
+<p>这一次不同之处，一是将这种文件公布出来。笔者也曾在中央电视台工作过一小段时间，有一次听领导讲话，忍不住笑出声来，结果被那位赞赏过我的业务能力的领导当场厉声批评，让我颇感惊讶。在当时的南方集团，至少在中间阶层，领导也用这种口气讲话，但是讲话的间歇偶尔也会自嘲，比如加上”我就照着念了啊”之类的说明。如果有人听不下去笑出声来，领导首先会脸红，解释说”很快就读完了”。一句话，大家都明白，有人做官样文章，乃不得已而为之，但是羞耻心尚存，知道那些话是多么的可笑。甚至宣传部门，尽管从来都在戕害媒体，但对外也会遮遮掩掩，少有大张旗鼓炫耀自己的”屠技”。</p>
+<p>广东省纪委公布南方集团这份文件，以及南方集团的转发，并非为了揭示媒体的真实处境，而是报业文化已经改变，大家不以为耻，反以为荣。不仅如此，这还是一种胜利者的宣示，一种对抗争者的惩戒，一种对其他媒体杀鸡儆猴似的警示。</p>
+<p><strong>过于漫长的掌声</strong></p>
+<p>其二，这份文件显示的重要事实，不在于对一份自由主义倾向的媒体–如果说曾经存在过的话–的整顿，而是这份媒体已经不存在了。它以”办负责任的主流大报”为名，”坚持团结稳定鼓劲、正面宣传为主，紧紧围绕省委省政府中心工作”，”形成精彩的’大合唱’，发挥了党报集团引领舆论的’中流砥柱作用'”。它不再是一个言论管制的抵抗者，专制政府的批评者，新思想新文化的引荐者，而是和其他党报一样，是一份合格的喉舌，一台洗脑的机器。</p>
+<p>当然，作为洗脑机器的这部分任务，南方报业中的部分媒体从来都在做，但是另外一部分媒体从来都在抵制和消解，于是有了一个所谓”南方媒体”的总体印象。时至今日，也还有一些同仁在坚持抗争。但是，那样的总体印象早应该成为历史，犹如早已谢幕的演员得到过于漫长的掌声。南方报业之所以还成为话题，是因为在它衰落之后，并没有其他媒体后来居上，取而代之。在萧瑟的言论寒冬里，它是画在墙上那一片最后的树叶。虽然也许尚能励志，但毕竟是一种幻觉。</p>
+<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8D%97%E6%96%B9%E6%9C%80%E5%90%8E%E4%B8%80%E7%89%87%E6%A0%91%E5%8F%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%91%B2%E5%BF%85%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%90%BD%E9%80%89%EF%BC%9F/" target="cdt-mirror">旧闻评论｜“呲必中国”为何落选？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64013.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64013.jpg" alt="640" width="300" height=""></a><br>
@@ -91,7 +184,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A9%BA%E6%B0%94%E5%A6%82%E6%AD%A4%E4%B9%8B%E7%B3%9F%EF%BC%8C%E4%B8%80%E4%BA%9B%E5%9C%B0%E5%8C%BA%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%AF%8F/" target="cdt-mirror">博谈网｜中国的空气如此之糟，一些地区相当于每天抽40根烟</a>
 </h2>
@@ -692,98 +785,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E-%E7%BE%8E%E5%AD%B8%E8%80%85%EF%BC%9A%E5%A4%A7%E9%99%B8%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%92%9E%E9%96%8B%E6%94%BE%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4/" target="cdt-mirror">台灣新聞 | 美學者：大陸經濟衝撞開放資本市場</a>
-</h2>
-<p><div>（中央社記者廖漢原華盛頓27日專電）美國學者索爾對中國大陸經濟與股市亂象指出，西班牙、法國、德國與前蘇聯過去都有相同經驗，極權經濟與自由資本主義衝撞，最後都引發危機衝突。</div>
-<p>南加州大學歷史與會計學教授索爾（Jacob Soll）在網路媒體Politico發表「中國：新西班牙帝國」專文指出，中國大陸金融危機猶如前蘇聯與16世紀歐洲帝國的翻版，前景並不樂觀。</p>
-<p>索爾認為，中國股市震盪波及全球，是人類史上首次由非歐系國家影響國際金融穩定的例子，眼前的狀況是封閉極權社會與自由市場及資本主義的衝撞，歷史清楚說明，這種衝突令人憂心。</p>
-<p>16世紀的西班牙是船堅砲利的海上帝國，17世紀的法國國勢強大累積財富，兩國當時都是秘密的君主統治，皇室統籌經濟，但面對資訊流通開放的荷蘭與英國的競爭，最後都淪落致破產、崩潰和內戰。</p>
-<p>西班牙帝國緩慢崩解，危機頻傳；法國王室破產，被迫關閉歐洲境內的銀行，最終引發流血革命和破壞力強大的拿破崙戰爭。</p>
-<p>近代則有在資本與極權中掙扎的德國，鐵血宰相俾斯麥擴權創造強大的普魯士，最後仍陷政經危機，希特勒挑起二次大戰；前蘇聯呼風喚雨近半世紀，外界在其瓦解後才瞭解，蘇維埃政府債台高築，以極高的社會成本維持經濟數字，連中央情報局都騙過去。</p>
-<p>索爾分析，中國與前蘇聯不同，混合了資本與極權，但政府的手仍在銀行、國企與股市背後，北京雖無法控制股市，但為國家財政蒙上了面紗，極權政府在16世紀就使用相同手段。</p>
-<p>如今中國進入資訊透明的國際金融體系，但內部空有架構，卻缺乏最重要的開放精神，以極權手段維持數字表現，經濟只能成長，虛構政府數據與市場指數，眼前的混亂不過是連串政治與社會危機的開端。</p>
-<p>索爾寫到，歷史上從未有施行封閉與專斷式經濟的成功經驗，「北京共識」裡的經濟成長保8，實際難以實現，政府債務纏身，金融體系形成泡沫，中國大陸現在看來像是「極權詐騙集團」，但這在歷史上並不陌生。</p>
-<p><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" alt="" width="1" height="1" border="0"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>Loading…</p>
-<hr><p><small>© 走丫的路 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E-%E7%BE%8E%E5%AD%B8%E8%80%85%EF%BC%9A%E5%A4%A7%E9%99%B8%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%92%9E%E9%96%8B%E6%94%BE%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E5%8A%A8%E4%BA%86%E4%BA%BA%E6%B0%91%E7%BD%91%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E6%B8%85%E6%B4%97/" target="cdt-mirror">博谈网|〖兲朝浮世绘〗动了人民网，习近平要清洗中宣部？</a>
-</h2>
-<p><p>1.【人民网总裁抓了，习近平要清洗中宣部？】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/621d03b7jw1evhiauedq4j20hs0bvaaq.jpg" alt="621d03b7jw1evhiauedq4j20hs0bvaaq" width="440" height="294"></p>
-<p>人民网副董事长、总裁廖玒和人民网董事、副总裁陈智霞，被检察机关带走调查。消息人士称，廖玒被调查，与2015年5月，人民网副总编辑徐辉案或有关联。有大型科技企业管理层人士透露，徐辉任职人民网期间，其敲诈勒索、劣迹斑斑，且“吃相难看”。当局对人民网动手，背后是指向是人民日现任社长杨振武，陈志霞是杨振武的情人。有人认为当局对人民日报高层的动作，很可能与习近平要清洗中宣部有关，矛头直指中宣部长刘奇葆。——且不管他矛头要指向哪里吧，这要是民办的网站，问题这么严重，抓了这么多高管，估计老早查封关闭了，比如已经挂了的21世纪网。</p>
-<p>2.【两融风控员：我今天眼睁睁看着一个上亿级融资客，1亿变成300万】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/61e04755gw1evg0pt7kzbj20w30dc7bh.jpg" alt="61e04755gw1evg0pt7kzbj20w30dc7bh" width="440" height="183"></p>
-<p>@向小田：“我眼睁睁看着一个亿万富翁就此倒下，由峰值的2.8亿变成300万！”另一不愿具名中型券商融资融券风控员汪磊透露，这个客户和我们很多投顾都熟络，“他被强平后，我们都觉得心情非常不好！真的好惨。”</p>
-<p>3.【天津交通委行政审批处长从单位8楼坠亡】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/61e04755gw1evh56qvp3mj20hu0fwwg9.jpg" alt="61e04755gw1evh56qvp3mj20hu0fwwg9" width="440" height="392"></p>
-<p>天津爆炸后，市交通委处于漩涡正中。昨天上午，天津市交通委行政审批处处长董永存从单位八楼坠楼死亡。工作人员透露，“事发很突然，(坠楼原因等)还在调查。”董永存曾担任天津市交通运输和港口管理局法规处处长和水运处处长。 此前最高检调查结果明确指出，天津市交通委有关责任人员未认真履行职责，违规发放经营许可证，对瑞海公司违法违规经营活动监管不力。——看样子，这次跳楼应该不是抑郁症了。这一跳，掐断了跟上头的联系，保护好了自己的主子，应该是有人欢喜有人愁吧。。</p>
-<p>4.【天津被炸小区百名业主市府集会遭警察镇压13人被抓捕】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/201508280204china2.jpg" alt="201508280204china2" width="549" height="412"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/201508270951054-1024x768.png" alt="201508270951054" width="550" height="413"></p>
-<p>有网友曝光称：8月17日上午，天津市8.12爆炸受害小区海港城百余业主到市政府集会，要求政府回购受损房屋，遭到大量警察镇压，多人被殴打，13人被抓捕。业主上传到网络的图片以及视频显示，业主打出“拒绝隐瞒，拒绝污染”等多条横幅聚集在天津市政府附近，并齐声高喊“市长出来”等口号，期间，警察强行冲入业主的示威方阵与业主发生冲突，用暴力手段抓走了6-7名群众，抢夺了几名群众手机，多名业主遭到殴打，13名业主被抓捕。</p>
-<p>5.【醒醒吧，兲朝人】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/676abacdjw1ev7jtch2cyj20u00urdm6.jpg" alt="676abacdjw1ev7jtch2cyj20u00urdm6" width="440" height="451"></p>
-<p>著名红色爱国网站“红歌会” 8月17日发布消息：万科房地产老板 @王石 宣布：将出资回购天津8.12爆炸的海港城等受损楼房，弥补老百姓的损失。《中国青年报》中青在线核实，万科并未有此表态，这是不实消息，也就是造谣。另有消息，贷款买房尚未还清的居民，仍然需要还房贷！26日，天津警方因为这条假消息，拘捕一人。——兲朝百姓总是喜欢做梦，还做的都是中国梦，带着中国特色的。你跪着求这个流氓政府回购你的破房，可能吗？他们把地卖给了开发商，开发商卖房给你们，各自的肥肉吃进了肚子，都消化掉了还会给你们吐出来？你们以为这是民主政府啊？敢闹就抓你打你，你难道还敢跟大流氓耍小流氓不成？吃定你们了。。</p>
-<p>6.【俄罗斯首度承认对华供气将推迟两年】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6fc2c0e5gw1evh14l8oatj20nu0go763.jpg" alt="6fc2c0e5gw1evh14l8oatj20nu0go763" width="440" height="308"></p>
-<p>@华尔街见闻APP：俄罗斯最大天然气供应商周三暗示，2019年启动向中国供应天然气可能延后两年，这是该公司首度承认时间或延迟。自中俄去年达成协议框架以来，油价从100美元以上跌至如今45美元左右。分析师对俄国提振中国贸易往来的雄心表示怀疑。——上次是合伙建桥，中国这块的建好了，俄毛子还木有动静，这次给中国供气又推迟。。中国跟俄毛子打交道总是吃亏啊。怪不得俄罗斯总理说，与中国打交道，很舒服！！</p>
-<p>7.【最后一炮长不了】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/9db3b08fgw1evh9nbdglhj20fk16gqab1-375x1024.jpg" alt="9db3b08fgw1evh9nbdglhj20fk16gqab" width="375" height="1024"></p>
-<p>《最后一炮》今日开启发布会，张召忠将军高度评价现代坦克网游：认为这款游戏是“中国军事游戏第一炮”，游戏具备专业军事水准，并为《最后一炮》题字：“军事游戏翘楚，民族精神永存！”他表示选9.11为游戏测试节点选得非常好。——挺谁谁死的张召忠将军钦点中国军游第一炮啊，那《最后一炮》要惨了，张将军的嘴是我大兲朝的第一反炮，凡是他赞赏个啥，没有一个长得了的。。</p>
-<p>8.【怎么乱成这样子的】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/9dbc5e57jw1evhjvm5u60j20qe0zkjuw.jpg" alt="9dbc5e57jw1evhjvm5u60j20qe0zkjuw" width="440" height="593"></p>
-<p>兲朝人的抢劫本性不改，已经从高速公路抢到院子里了。最近三日，保定大午农产品公司三百亩梨园遭到高阳县斗洼村几百村民哄抢，砖墙被推倒，职工被打，十几万斤梨被哄抢。</p>
-<p>9.【 正向主席台走来的，是首都人民取款机方队…】</p>
-<p>奶奶的，为了个阅兵，连钱都不能取了。。习总搞的这个大阅兵，难道不是最大的扰民么？</p>
-<p>10.【哈尔滨公交站塌陷 4人瞬间被“吞噬”】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/005KQANbjw1evh2u9mb3zj30a10dcmy6.jpg" alt="005KQANbjw1evh2u9mb3zj30a10dcmy6" width="361" height="480"></p>
-<p>8月22日17时40分左右，哈尔滨市道里区顾乡大街112号门前，一处公交站台突然塌陷，4名等车市民坠入坑里。塌陷后出现一个深约2米的大坑，坠入坑中的4人被附近的好心人救起。随后，被120急救车送往医院进行救治。 走路有风险，路塌；过桥有风险，桥塌；住楼有风险，楼塌；电梯有风险，梯塌；连剁饺子馅都能把阳台震掉。。在兲朝这片奇葩的土地上，我们生得计划，死得随机。这都是这个流氓党和政府赐予我们的，我们还得对它感恩涕零。。</p>
-<p>11.【上航新规：空姐结婚要提前一个月汇报党支部 进行政审】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/6541fc49gw1evhe1zh5paj20go0b73yw.jpg" alt="6541fc49gw1evhe1zh5paj20go0b73yw" width="440" height="296"></p>
-<p>近日，一份上海航空下发的文件曝光：空勤人员在民政部门申领结婚证一个月前，必须向所属党支部书面汇报真实情况。支部接到报告后了解其对象的背景情况后酌情签署意见。对于政审不合格的人员会作相应的处理。——对领导来说，靓女出嫁要审核，这个规定很有必要，试想谁愿意将心爱的人与他人一起分享呢？</p>
-<p>12.【陕西百人误把矿粉当金子 堵路捡拾】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/620beb06jw1evh2ox589lj20c80afabb.jpg" alt="620beb06jw1evh2ox589lj20c80afabb" width="440" height="375"></p>
-<p>8月26日一大早，勉县城区新兴北路与108国道十字路口，近百人低头弯腰捡“金子”的场面甚是壮观，即便交警疏导也无用。物流公司一男子称，散落的是他们从山里拉来的硫矿粉，没有金子，但捡的人不理会，从早6点一直持续到下午2点。一老太说：“金子能卖钱，捡一点是一点。” 据悉，该矿粉如果进入人体呼吸道后会对身体造成影响。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E5%8A%A8%E4%BA%86%E4%BA%BA%E6%B0%91%E7%BD%91%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E6%B8%85%E6%B4%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%AF%BB%E5%AE%B6%EF%BD%9Cft%E4%B8%AD%E6%96%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA%E6%8F%90%E6%97%A9%E7%BB%93%E6%9D%9F%E4%BA%86%EF%BC%9F/" target="cdt-mirror">读家｜FT中文：“中国世纪”提早结束了？</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/000054280_piclink.jpg" alt="A Chinese flag flies at half mast in the Central district of Hong Kong on April 21, 2010. China observed a day of national mourning for victims of its killer quake, with newspaper front pages bathed in black and flags lowered to half-mast around the country.   AFP PHOTO / ED JONES (Photo credit should read Ed Jones/AFP/Getty Images)" width="550" height="310"></p>
-<p>就像是在开心屋里照哈哈镜，你看到的中国都是你希望看到的——历来如此。</p>
-<p>有时候，你看到的观点积极得势不可挡，认为这块土地是个永远扩张的市场——就像19世纪兰开夏郡(Lancashire)的纺织厂主乐观高估中国的布料需求量，相当于把每个中国人的长衫都加长了一英寸；或者认为中国市场可以无限饱和——就像当今的智能手机分析师在预测中国市场普及率时，从目前的40%直线外推。有时候，你看到的是固执的负面看法，就像19世纪时有人认为“黄祸”(Yellow Peril)在洗劫世界，或是上世纪60年代有人认为多米诺骨牌不断倒下，共产党在一个又一个国家夺取政权。</p>
-<p>我们刚刚告别了大家几乎一致认为是“中国世纪”的时代。赶时髦的西方家庭给自己的孩子请了中国保姆，让孩子们听中文摇篮曲，让他们在20年后更加胸有成竹地投入高盛(Goldman Sachs)的实习竞争；潮人们从纽约布鲁克林搬到北京的三里屯，以炫酷的经历妆点自己的履历；银行、经纪商、私人股本公司、咨询机构以及媒体公司纷纷扩充北京和上海的办事处，以获取看似手到擒来的财富。</p>
-<p>但是，其中有多少投资和规划是基于严谨分析、而不是基于情绪和时尚潮流呢？</p>
-<p>人们只需要稍稍看一下过去的档案就能发现，一些人基于中国的经济数据作出决策，然后写下长篇大论谴责这些统计数据的价值和准确性，然后在这些数据看似糟糕时恐慌不已，接着再次批评那些数据，最后——正如我们最近所看到的——表示，只有中国的数据出现好转时，当前的市场灾难才会结束。</p>
-<p>这一状况在很大程度上是中国自己的过错造成的，它使自己的体制和运作如此不透明。正是不透明制造了传奇，搅动了情绪。</p>
-<p>然而，情绪投资也会回归均值，就像金融投资一样。</p>
-<p>当美国一个大型新闻频道的主播声称自己从未听说过全球人口最多国家、世界第二大经济体的最高领导人的名字时，我们看到的正是这种回归；当美国一名领先的总统候选人竞争者声称中国国家主席只配汉堡快餐招待、而不配国宴礼遇时，我们看到的也是这种回归；当未来一个又一个董事会要求提交关于“我们在中国的投资是否值得”的报告（你可以肯定会出现这种局面）时，我们将看到的也是这种回归。</p>
-<p>人们只需要把日本作为对照（虽然中国领导人可能会讨厌这种对比，特别是在9月3日“抗战胜利纪念日”临近之际）。在上世纪80年代，日本是“世界第一”；其英明的政府官僚在与工业界合作引导经济时所向披靡；股市一路上涨。不可避免地，美国学生蜂拥参加日语入门课程；金融机构和媒体纷纷落户东京抢占地盘；一切都是那么美好那么生机勃勃——直到情况急转直下。如今，尽管其仍然是全球第三大经济体，但日本传奇已经结束，几乎没有什么全球企业给予日本与其经济规模相称的关注和投资。</p>
-<p>中国有很多有利条件。其庞大的人口必定会带来更多的产出、更多的消费以及更多的建设。中国的城市在数量和规模上都将得到发展，其基础设施需求和梦想也会越来越大。人民币及中国外交将会在世界上扮演更大角色。但是传奇无法制造，梦想不能强求。</p>
-<p>未来能在中国有所斩获的人将是现实主义者，而非梦想家。尽管转变痛苦，但这很可能是一件好事。</p>
-<p>译者/马柯斯</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%AF%BB%E5%AE%B6%EF%BD%9Cft%E4%B8%AD%E6%96%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA%E6%8F%90%E6%97%A9%E7%BB%93%E6%9D%9F%E4%BA%86%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA/?category=18271" rel="tag">中国世纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>

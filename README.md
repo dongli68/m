@@ -113,7 +113,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B2%BB%E7%90%86/?category=18271" rel="tag">环境治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%80%E4%B8%AA%E8%91%97%E5%90%8D%E7%9A%84%E5%AD%A6%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE%E6%92%A4%E5%9B%9E%E4%BA%86-64-%E7%AF%87%E8%AE%BA%E6%96%87/" target="cdt-mirror">知乎日报｜某知名学术出版社撤回64篇论文，一大半是中国人的</a>
 </h2>
@@ -760,7 +760,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%AF%BB%E5%AE%B6%EF%BD%9Cft%E4%B8%AD%E6%96%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%BA%AA%E6%8F%90%E6%97%A9%E7%BB%93%E6%9D%9F%E4%BA%86%EF%BC%9F/" target="cdt-mirror">读家｜FT中文：“中国世纪”提早结束了？</a>
 </h2>

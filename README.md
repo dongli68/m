@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ccxz802oubgj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d14s4867dt6vm0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B%E4%B9%8B%E8%99%AB-%E4%BB%8E1984%E5%88%B0%E7%BE%8E%E4%B8%BD%E6%96%B0%E4%B8%96%E7%95%8C/" target="cdt-mirror">万有引力之虫 | 从1984到美丽新世界</a>
@@ -902,7 +902,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ra0homwehy5l.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://djm7gv4h2c8lk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -912,5 +912,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/><a href="https://d1ccxz802oubgj.cloudfront.net">https://d1ccxz802oubgj.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/></td>    </tr>
 </table>

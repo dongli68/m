@@ -147,7 +147,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%8D%8F/?category=18271" rel="tag">中国记协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">政治宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">辽宁日报</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BD%B1%E7%89%87%E3%80%8A%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98%E3%80%8B%E8%A2%AB%E6%8C%87%E5%81%B7%E7%A5%A8%E6%88%BF%E3%80%81%E9%9D%A0%E6%91%8A%E6%B4%BE%E5%85%85/" target="cdt-mirror">反法西斯影片《百团大战》被指偷票房、靠摊派充人数</a>
 </h2>
@@ -796,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3amu7nns4r91q.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3dqtxzb16a399.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d3dqtxzb16a399.cloudfront.net">https://d3dqtxzb16a399.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3dqtxzb16a399.cloudfront.net">https://d3dqtxzb16a399.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
 </table>

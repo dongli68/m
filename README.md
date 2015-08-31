@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dceagu0fb34ko.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2f7owg17px5sg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://d1ocyz22ujumho.cloudfront.net">https://d1ocyz22ujumho.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://d1ocyz22ujumho.cloudfront.net">https://d1ocyz22ujumho.cloudfront.net</a><br/><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%82%B9%E6%80%9D%E8%81%AA%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A4%AE%E8%A7%86%E6%97%B6-%E5%A6%82%E4%BD%95%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B0%A2%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">邹思聪：没有央视时 如何向全国人民谢罪？</a>
@@ -283,7 +283,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%81%93%E8%B7%AF/?category=18271" rel="tag">中国道路</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/" target="cdt-mirror">金融时报 | 据称中国决定放弃大规模购股</a>
 </h2>
@@ -627,7 +627,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=18271" rel="tag">1984</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E9%97%AE%E9%A2%98/?category=18271" rel="tag">公共问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9%E4%B8%AD%E6%96%87%E5%9C%88/?category=18271" rel="tag">推特中文圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E7%9C%9F%E5%81%87%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E9%87%87%E8%AE%BF%E7%96%91%E4%BA%91-2015-8-29/" target="cdt-mirror">【敏感词库】真假习近平前妻采访疑云 2015-8-29</a>
 </h2>
@@ -781,5 +781,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d1ocyz22ujumho.cloudfront.net">https://d1ocyz22ujumho.cloudfront.net</a><br/><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/></td>    </tr>
 </table>

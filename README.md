@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ra0homwehy5l.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddqpgzdeqfwtr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E7%81%B5%EF%BC%9A%E4%BA%BA%E9%80%A0%E4%B8%9B%E6%9E%97%E4%B8%8E%E8%87%AA%E7%94%B1%E5%B8%82%E5%9C%BA-%E8%AF%84bbc%E3%80%8A%E4%B8%AD%E5%BC%8F%E5%AD%A6%E6%A0%A1%E3%80%8B/" target="cdt-mirror">风灵：人造丛林与自由市场——评BBC《中式学校》纪录片</a>
+</h2>
+<p><p>近来，BBC的一部关于中国老师执教英国中学的纪录片《我们的孩子足够坚强吗？中式学校》（“Are Our Kids Tough Enough? Chinese School”）引爆激烈讨论。这部纪录片讲的是五名优秀的中国中学教师，在为期一个月的教学实验中，完全以中国应试教育的方法来改造英国的孩子。迥异的文化和教学方式让影片跌宕起伏，充满了冲突和戏剧性，也让中英教育的比较成为了跨国热点。</p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90cdtv%E3%80%91-%E4%B8%AD%E5%BC%8F%E6%95%99%E8%82%B2%E5%9C%A8%E8%8B%B1%E5%9C%8B/" target="_blank">【CDTV】 中式教育在英國</a></p>
+<p>就我所见，大多数讨论都集中于两种不同的教学方式的臧否褒贬，但窃以为，这并不是重点，重点是教育方式所折射出的社会模型。手段服务于目的，而目的又取决于观念，取决于怎样看待社会。</p>
+<p>中国老师反复强调的是“社会的竞争非常激烈”，必须努力取得好成绩，不然就是死路一条。他们认为，英国学生调皮捣蛋，不肯好好学习的原因不在老师，不在课堂，而在于英国的福利制度，学生不用努力，以后也有饭吃。</p>
+<p>这些老师眼中的社会是一种丛林社会，严格地遵循优胜劣汰、适者生存的法则，survive or die。这样的社会不可能改变，个人只能适应社会，花再大的代价也必须适应。你死我活，是一场零和或者负和游戏，从来没有合作共赢的概念。他们不断地向学生强化灌输这种观念：世界是如此冷酷无情，唯一的出路就是考高分、上好大学以出人头地，如果失败，证明你没用，不值得同情，不值得被爱，甚至不值得活下去。</p>
+<p>丛林社会还不是最糟糕，丛林虽然残酷，还可以八仙过海，各显神通。虾有虾路，蟹有蟹路，可以当狮子老虎，也可以当兔子松鼠，成功的标准是多元的，不至于在一棵树上吊死。但在中国老师这里，成功的标准却当然唯一。</p>
+<p>中国老师自豪地宣称，在中国的学校里，不管学生的水平如何，都是采用统一的大纲，统一的教学，不会因人而异。这不是真实的丛林，而是人造的丛林，人造的竞争。学生所要适应的，并不是社会，而是老师或教育权威机构制定的统一标准。这种标准没有什么道理好讲，看似天经地义，实则武断颟顸。体育课的达标测试尤为明显，长跑慢了几秒，掷实心球少了几厘米，当真就那么罪不可赦，值得被剥夺上一所好中学或好大学的资格么？这种不讲理的唯一标准，虽然只是模拟，也足以让英国玻璃心的体育老师潸然泪下。</p>
+<p>不难看出，人造的丛林社会投射的是统治者掌握一切资源、掌握生杀予夺的等级社会。在这种社会中，要生存或成功，前提是适应统治者所制定的标准，无论什么样的标准都必须适应。考试排名也好、集体主义精神也好、孔夫子也好，都是为了强化这样的适应性。所以中国老师会教育学生“孔夫子说，父母永远是对的。”其实她未必不知道，父母不可能永远是对的，但这种教育的关键不是追究对错，而是训练服从。所以老师一个人在台上讲，学生记笔记就好，质疑是不被鼓励的。并且，等级社会必然存在数量控制，要搏上位必然面临残酷无情不择手段的竞争，胜者为王，而败者为寇。</p>
+<p>考试不是最可怕的，最可怕的是隐含在考试之后的那种成功或成仁的威胁，那种足以让你否定整个人生的压力。所以，因高考工厂而著称的那些学校里，高考前时有学生自杀，也就不难理解了。</p>
+<p>这便是中式教育代代相传的主旋律。纵已年少不再，但影片中的每一幕仍让我有昨日重现之感。不能不说，即使在中国，在市场化改革已进行了三十多年的今天，教育的理念也已落后于时代要求，但仍一直忠心耿耿地服务于体制。</p>
+<p>不谈中国，现代的英国已远不是某个人或某一部分人为所欲为的等级社会，因此这帮十三、四的英国熊孩子们当然很难理解中国老师的逻辑。</p>
+<p>在以契约而非等级为特征的社会中，也就是在以自由市场为特征的社会中，个人生活和职业有广泛的选择。人们通过市场进行交换，以所有换取所无，交换的双方都因此而获益。在市场中，整齐划一的标准不但是不可取的，甚至是不可行的。如果没有差异，没有多元化，每个人都具有相似的才能，生产相似的东西，交换就难以发生。差异越大，越多元化，人们就越能得到更大的满足，千差万别的个体构成丰富多彩的世界。因此，自由市场中成功的标准绝非唯一，更不由统治者随心所欲而定。</p>
+<p>竞争确实也是市场的特征，但必须注意，“适者生存”的原则在生物学层面上事关动物个体的生存和繁衍，比如，跑得太慢而被猫吃掉的兔子就不会留下后代。跑得最快的那些兔子得到繁衍的机会。但在社会演化中，“适者生存”的含义并不是指人类个体的生存，而是指人类互动形式的生存，例如风俗、制度、公司等，演化过程将对这些互动形式作出选择。一家商业公司倒闭了，它“死了”，意味着这种特定的社会合作形式“死了”，但当然不表明组成这家公司的人——投资者、老板、经理、雇员等等——同样死了。一种低效的合作方式被一种更有效率的方式所取代。市场的竞争与丛林的竞争迥然不同。丛林中，动物竞相以对方为食，或者相互取代。市场中，企业家和公司相互竞争，以争取与消费者及其他企业家和公司合作的权利。市场竞争不是竞争生存机会，而是竞争合作的机会。[i]</p>
+<p>正如亚当·斯密所说，人类社会之不同于动物，就在于人与人之间能够“交相为用”，利用他人的产品和服务，也就是利用的他人的知识与思想。这种合作，让人类社会以惊人的速度积累了巨大的财富，也为个人和社会的发展提供了无限广阔的前景。</p>
+<p>这种竞争与合作的概念，在中式教育中踪影全无。</p>
+<p>然而，另一方面，我也不想为纪录片中的英式教育唱赞歌。公立制度下的教育自由是一种伪自由。表面上，英国学校针对不同层次的学生有不同的教学大纲，学生有较多的课外时间，但是，学生仍然必须按时在校内分班学习，学习指定科目，参加指定考试，甚至也要以考试论英雄。影片中的教导主任希望的是以英国式的“自由”教育，在分数上打败中式教育。希望鱼和熊掌二者得兼，却陷入了自我矛盾之中。</p>
+<p>真正的自由教育必须打破公立教育的藩篱，摆脱权力的控制，自由办学，自由竞争，自由选择。自由或许不能保证每个人都能获得成功，但唯有自由，能提供最多的机会，最大的可能性。</p>
+<p>走出丛林，拥抱自由。</p>
+<p>[i] Tom.G.Palmer, Twenty Myths about Markets.</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E7%81%B5%EF%BC%9A%E4%BA%BA%E9%80%A0%E4%B8%9B%E6%9E%97%E4%B8%8E%E8%87%AA%E7%94%B1%E5%B8%82%E5%9C%BA-%E8%AF%84bbc%E3%80%8A%E4%B8%AD%E5%BC%8F%E5%AD%A6%E6%A0%A1%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9B%E6%9E%97%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">丛林社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2/?category=18271" rel="tag">应试教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E8%AF%95/?category=18271" rel="tag">考试</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E7%AB%9E%E4%BA%89/?category=18271" rel="tag">自由竞争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">英式教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%95%A3%E6%88%B7%E5%85%88%E8%B7%91-%E6%9C%BA%E6%9E%84%E8%A2%AB%E5%A5%97-%E4%B8%8D%E6%8A%93%E4%BD%A0%E6%8A%93%E8%B0%81/" target="cdt-mirror">【网络民议】散户先跑 机构被套 不抓你抓谁</a>
+</h2>
+<p><p>继8月25日财经杂志社王晓璐以及多人被公安机关认定“制造传播证券、期货交易虚假信息”传唤要求协助调查后，31日，王晓璐现身央视，承认并供述了其伙同他人编造并传播证券期货交易虚假信息的事实，声称“我通过私下打听获得新闻素材，主观判断，撰写报道。我不应在敏感时候发表对市场有重大负面影响的报道，给国家和股民带来这么大损失。我很后悔。”请求司法机关的从轻处理。“央视式道歉”的再度出现，让不少网友感到好笑、愤怒，王晓璐被普遍认为是有碍官方股市维稳的“杨修式人物”与免除问责波及官方的“替罪羊”，与此同时，央视媒体审判的“办案模式”也再度受到批评。</p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%A2%E7%BB%8F%E6%9D%82%E5%BF%97-%E5%85%B3%E4%BA%8E%E6%9C%AC%E5%88%8A%E8%AE%B0%E8%80%85%E7%8E%8B%E6%99%93%E7%92%90%E8%A2%AB%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E4%BC%A0%E5%94%A4%E4%BA%8B/" target="_blank">财经杂志 | 关于本刊记者王晓璐被公安机关传唤事宜的说明</a></p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/" target="_blank">金融时报 | 据称中国决定放弃大规模购股</a></p>
+<p>@新浪视频：【《财经》记者王晓璐现身 求从轻处理】王晓璐在接受调查时供述了其伙同他人编造并传播证券期货交易虚假信息的事实。“我通过私下打听获得新闻素材，主观判断，撰写报道。我不应在敏感时候发表对市场有重大负面影响的报道，给国家和股民带来这么大损失。我很后悔。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/61c99730jw1evljcssqdmj20jd11udk8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/61c99730jw1evljcssqdmj20jd11udk8.jpg" alt="61c99730jw1evljcssqdmj20jd11udk8" width="440" height="860"></a></p>
+<p>视频<a href="http://news.cntv.cn/2015/08/31/VIDE1440981721362381.shtml" target="_blank">地址</a></p>
+<p>新华社北京8月30日电记者从有关部门获悉，备受关注的中信证券、《财经》杂志社、中国证监会有关人员被公安机关要求协助调查一事又有最新进展。《财经》杂志社记者王晓璐因涉嫌伙同他人编造并传播证券、期货交易虚假信息，中国证监会工作人员刘书帆因涉嫌内幕交易、伪造公文印章、受贿等犯罪，于8月30日被依法采取刑事强制措施。</p>
+<p>据介绍，《财经》杂志社记者王晓璐供述了其伙同他人编造并传播证券、期货交易虚假信息的事实;中国证监会工作人员刘书帆供述了其实施内幕交易、伪造公文印章、受贿等犯罪事实。王晓璐、刘书帆二人均向社会公众和广大股民表达了深刻的悔意和歉意。</p>
+<p>7月20日，《财经》杂志社及财经网发布记者王晓璐撰写的报道《证监会研究维稳资金退出方案》。受该报道影响，股市出现异常波动。当日，证监会新闻发言人表示，该报道不实，并强调有关媒体对市场有重大影响的报道不与监管部门核实是不负责任的。</p>
+<p>王晓璐在接受调查时说，他根据私下听说的有关股市信息，结合个人主观判断撰写了上述报道。自己作为经过培训、从业多年的专业财经记者，对私下听说的有关股市信息没有进行核实，并且明知该信息会对证券市场产生重大影响，为了一味追求轰动效应，不负责任地编造传播不实报道，造成了市场混乱和恐慌，严重影响了市场信心，给国家和广大投资者造成巨大损失。为此，王晓璐表示深刻的悔意和歉意，希望公安机关给自己一个机会，愿意配合调查工作，如实供述有关情况，并请求对自己从轻处罚。</p>
+<p>中国证监会工作人员刘书帆在接受调查时供述，2014年下半年，他利用职务便利，帮助某上市公司定向增发事项顺利通过证监部门发审会，并帮助该公司股票价格维持稳定并增长。为此，该上市公司负责人吴某向其行贿数百万元。刘书帆利用该公司定向增发的消息，向朋友李某借款1000万元人民币，通过亲友的股票账户购买该公司股票，总共获利300余万元，刘书帆分得其中100余万元。随后，刘书帆还多次向吴某打听得知更多内幕消息，持续买入股票，非法获利数百万元。2014年底，他看到另一上市公司股票价格在配股后巨幅下跌，经向该公司一高管打探该公司股票具有上涨空间后，买入该公司股票，非法获利200余万元。</p>
+<p>另据刘书帆交代，他还在网上找人制作假的证监会保卫处公章、北京市丰台区人民法院公章、西城区民政局公章和假身份名字“刘益超”的印章，用于制作虚假离婚判决书、给其情人在上海买房时作审税证明等。</p>
+<p>刘书帆对自己的涉嫌犯罪行为表示了深刻的忏悔。他说，自己作为中国证监会工作人员，严重违反证券法和从业规定，破坏了市场秩序，损害了中国证监会的公信力，损害了政府形象;自己作为一名党员干部，突破了基本的做人准则和法律底线，知法犯法，辜负了组织的多年培养。现在自己感到后悔不已，要向广大股民致以深深的歉意。</p>
+<p>此外，记者还获悉，中信证券股份有限公司执行委员会委员、董事总经理徐刚，执行委员会委员、金融市场管理委会员主任刘威，金融业务部负责人房庆利，另类投资业务部总监陈荣杰等4名高管因涉嫌内幕交易，于8月30日被依法采取刑事强制措施。4名涉案高管也交代了相关犯罪事实。</p>
+<p>目前，案件还在进一步调查中。(完)</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>笑看风云惹人醉：终于找到了替罪羊。</p>
+<p>和风绿茶：看空有政治风险，看多有道德风险，不看有失业风险。</p>
+<p>廖晟羽要饭饱饱：央视又揽了法院的活儿……</p>
+<p>威武卜：原来机构，私募，公募想跑的，结果被他一报道，散户先跑了，机构被套，不抓他抓谁啊！</p>
+<p>倪晓军_njupt：呵呵，这帮办案的人脑子真是坏了！这么有用的人才，一篇稿子就能导致股市那么大的损失，得重用啊，让他写欧美日的股市去。</p>
+<p>摯愛达文西D：曹操要退兵，杨修看出来主公有退兵之意，于是说 主公要退兵了.. 曹操说杨修妖言惑众斩了他， 然后主公退兵了…</p>
+<p>Ror_Lau：这个王晓路就是当时发表文章说证金开始考虑退出机制导致市场大跌的人。</p>
+<p>墙外楼：有没有观众根本不重要，这是让领导好过的安心丹药。凡是天灾人祸，事无大小，中共一贯的处理方式，都是找一、两个无关痛痒的小人物出来做替罪羔羊，这样问责就不会问到中央领导头上。有效无效不重要，反正老百姓没有抗争的本钱。</p>
+<p>陈尧Adam：股市下跌是经济不景气，竟然找个凡人当政府的替罪羊。</p>
+<p>一刀一川：查案子的不是公安机关，而是央视。</p>
+<p>王甫律师：大国股市被一名记者搞塌了。</p>
+<p>盈和集团总裁蒋先生：既然一篇文章就能搞垮股市，我认为应该让此人戴罪立功。出任证监会主席，然后每天写文章，那时候股市绝对天天涨！</p>
+<p>最终范特西o：再要他发一篇文章写回来不就是了。</p>
+<p>酸石榴甜石榴：本来靠内幕消息领导先跑，你这文章一发表，群众先跑了。你让领导咋挣钱？</p>
+<p>法律人刘功武：杀鸡儆猴，当局为啥恐慌了？平时治理无方，急时抱佛脚。</p>
+<p>朱大力：背后的大虾米抓不抓…</p>
+<p>色彩徕卡：太扯蛋了！找替死鬼也不能这么幼稚嘛！这么重大消息的发布，必须有严格的编审流程的！</p>
+<p>Dogfisha：你所谓的小道消息让A股一天蒸发1万亿。</p>
+<p>朕又该纳妃了：这记者也挺牛的，造个谣就能让股市暴跌好几天。</p>
+<p>iamFA：又开始新闻审判。</p>
+<p>谣传公司：乐死我了。国家有这么不稳定吗。一个小道消息。就直接把大盘干崩了。</p>
+<p>王以超：如果一名媒体人，既不存在主观恶意，又不存在不当得利，仅仅因为一些专业上的瑕疵，就要面临刑事危险，这样的社会，距离法西斯主义并不远。坚决声援原同事、现《财经》杂志记者王晓璐，希望他和这个国家每一个人，都能得到公正的对待。并且愿意为其本人以及家属，提供力所能及的帮助。</p>
+<p>裘新：连《财经》记者都遭了……</p>
+<p>ruru20251：现在做的就是稳定人心，用谎言稳定。</p>
+<p>迎风背手l：财经杂志记者王晓璐，因为散步股市不实信息被抓。——–说A股4000点才是牛市开端的，那几个驴粪球，绝不能让逼尅的逃脱法律制裁！</p>
+<p>扑空2015：经验告诉我们，对被上电视的人，我们应该多点问号。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%95%A3%E6%88%B7%E5%85%88%E8%B7%91-%E6%9C%BA%E6%9E%84%E8%A2%AB%E5%A5%97-%E4%B8%8D%E6%8A%93%E4%BD%A0%E6%8A%93%E8%B0%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2%E7%BB%8F%E3%80%8B/?category=18271" rel="tag">《财经》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5-%E5%AF%B9%E5%B2%B8%E4%B8%BA%E4%BD%95%E4%B8%8D%E9%A2%86%E6%83%85%EF%BC%9F/" target="cdt-mirror">墙外楼｜笑蜀：北京抗战阅兵 对岸为何不领情？</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64013-458x1024.jpg" alt="640" width="458" height="1024"><br>
@@ -669,61 +750,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E8%BF%8E%E6%9D%A5%E9%98%85%E5%85%B5%E6%96%B0%E5%B8%B8%E6%80%81%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：中国政治迎来“阅兵新常态”？</a>
-</h2>
-<p><p><strong>大阅兵前夕出现的种种荒唐现象，会在9月3日之后消失吗？时评人长平认为，强化社会控制可能成为一种“新常态”。</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/018666902_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/018666902_30300.jpg" alt="8月23日，北京举行大阅兵预演" width="575" height=""></a><p>8月23日，北京举行大阅兵预演</p></div>
-<p>（德国之声中文网）尽管互联网在中国遭到前所未有的管制，但是关于阅兵的种种荒唐事，仍然不断地传出。不仅北京食客面临就餐实名制，河北居民还被要求”庄严承诺”：不仅在9月3日阅兵当天，而且在整个演练期间，”不打开临街房屋的门窗”，”不使用燃（煤）气，并切断总开关”。要知道，附近餐馆被要求大量歇业，甚至政府部门在私人灶台上贴上封条，断炊这么多天何以果腹？天安门附近的居民更被派出所要求离开自己的家，自己想办法解决临时居所，否则有可能被扔进情况不明的”集体管理宿舍”。</p>
-<p>中国经济大幅滑坡，很多企业经营艰难，中国政府不仅不设法相助，还为了制造几天”阅兵蓝”，下令周边多个省市多类企业停产，致使产生链断裂，大量工人失业。在股市几近崩溃，而且带来全球股灾的时候，中国政府不惜在金融市场上胡乱砸钱，企图换来几天”阅兵市”。</p>
-<p>凡此种种说明，以抗日战争及反法西斯战争胜利七十周年纪念为名的大阅兵，既无意于反省法西斯主义–否则不会荒唐地模仿纳粹的阅兵和洗脑，也无意于让老百姓安居乐业，甚至也无意于党媒宣传中一再声称的”国力强盛”。中共惟一在意的，就是要让习近平站在阅兵车上，对着脖子上别着别针、不得不抬头挺胸的士兵们挥手致意，找到一种君临天下的感觉。</p>
-<p>人们忍受着种种不便甚至羞辱，心里盼望着9月3日快快到来，以为就像任何平常的一天一样，它很快就会过去。然后，生活恢复常态。尽管不再有”阅兵蓝”，但至少能够住在自己的家里，给自己做饭吃；尽管不再有”阅兵市”，股市长衰不振，但至少不会被诱骗入市，在一夜之间输得精光。</p>
-<p><strong>“新话”中的政治信息</strong></p>
-<p>然而，在很大程度上，这可能只是一种幻想。正如网民找出中央电视台对一个搞阅兵仪式的中学校长的批评，”阅兵瘾是一种病，得治”。美美地吸上一次毒，不仅无法帮助瘾君子摆脱毒瘾，而且会让他们变本加厉。逆势而行，克服种种阻力成功阅兵，会让专制者觉得自己无所不能。侵害民权一路畅通，丝毫无碍，会让他们更加轻视权利的吁告。</p>
-<p>同样的局势曾经出现在2008年北京奥运会期间。为了奥运会的脸面，北京严格安检，驱赶外地人，全国媒体受到严格控制。当时人们也想，大概就是这么一段时间吧，等奥运会过去了，一切都会恢复正常。然而，奥运会结束之后，中共首先总结了社会控制经验，将所谓奥运管理模式进一步扩大。直到今天，在媒体舆论管制等方面，中国从未走出北京奥运会的阴影。</p>
-<p>习近平深知经济快速增长模式已走到尽头，把即将来到的萧条命名为”新常态”，写进党的会议文件，要求企业能够接受和适应。随后，喉舌专家们又反复解读说，中共领导人讲话中提及的新词汇、新表述，也就是党的理论家通常所称的”新话”，往往包含着重要的政治信息。</p>
-<p>政治上的”新常态”是什么？从宣称”不能以后三十年否定前三十年”开始，炮轰”西方宪政民主”，阻断香港真普选之路，出台国家安全法，到大肆抓捕人权律师，习近平政府已经给出了明确的答案，那就是重复毛泽东的脚步，强化个人独裁专制。大阅兵不仅是给习近平”加冕”，也是给这种政治”新常态”定性。</p>
-<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
-<p><em>德国之声致力于为您提供客观中立的新闻报道，以及展现多种角度的评论分析。文中评论及分析仅代表作者或专家个人立场。</em></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E8%BF%8E%E6%9D%A5%E9%98%85%E5%85%B5%E6%96%B0%E5%B8%B8%E6%80%81%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E6%8A%A5%EF%BD%9C%E9%83%9D%E6%9F%8F%E6%9D%91%EF%B8%B0%E7%82%BA%E9%82%84%E5%8E%9F%E6%8A%97%E6%88%B0%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8-%E8%87%B4%E5%A4%A7%E9%99%B8%E7%95%B6%E5%B1%80%E7%9A%84/" target="cdt-mirror">明报｜郝柏村︰為還原抗戰歷史真相 致大陸當局的公開信</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/20150701-062325_U714_M70602_039d.jpg" alt="20150701-062325_U714_M70602_039d" width="551" height="367"></p>
-<p>中共決策領導諸君：</p>
-<p>8年抗日戰爭，在中華民族戰史上歷時最久，長達8年1個月又8天；戰場的面積最廣，達500萬平方公里；犧牲最為慘烈，軍民多達2000萬人傷亡，戰果也最悲壯輝煌，是中華民族最珍貴的精神資產，也是愛國教育最好的題材。</p>
-<p>第二次世界大戰期間，唯有中國是以貧窮落後、軍閥割據的弱國，對抗世界第一流強權的日本帝國主義，是反侵略的正義戰爭，靠全民奮戰到底的意志和精神力優勢，贏得最後勝利。其他同盟國以美英蘇為主，面對的軸心國德意日，皆屬已開發的國家。他們都能製造飛機、大炮、戰車等精良武器，交戰的本質是為了霸權，決勝的核心是物質力，與中國抗日的本質不同。</p>
-<p>精神力優勢的形成與發揮，抗戰初期的國共第二次合作，起了很大的作用，但其領導人是國民黨總裁蔣介石先生。他克服了日本誘和、汪精衛投降、國共摩擦等內憂，以及國際觀望、盟友出賣等外患，堅持抗日第一、抗戰到底的意志，才贏得最後勝利。老實說，沒有蔣先生的領導，就沒有抗戰的勝利，以及中華民族的雪恥復興，這是鐵一般的事實。</p>
-<p>第二次大戰後，日本不承認南京大屠殺，不承認侵略，在其歷史教科書中，以「進出中國」代替「侵略中國」，日本政要到靖國神社，向戰犯的牌位行禮，加上傷害並淡化慰安婦等暴行，我們都嚴重抗議，就是為了捍衛歷史真相。</p>
-<p>由於1949年國民黨失去了大陸政權，抗戰歷史的真相隨着被隱沒，甚至扭曲了。1950年代初期，內戰的餘恨正濃，基於反蔣仇蔣的意識形態，這是可以理解的，但已事隔60多年了。德法本為世仇，現為歐盟合作的主體，難道我們要把蔣毛的宿怨，世世代代流傳下去？抗戰的勝利，是中華民族全民的貢獻，非蔣先生個人的功業而已，但他是領導人，則為不爭之史實。</p>
-<p>5點建議 探討歷史真相</p>
-<p>今適逢抗戰勝利70周年，北京將舉行盛大的閱兵，我雖不便參觀，但肯定各方的紀念。既然如此，我建議大陸新世代的決策領導人，以更寬廣的胸襟，本實事求是的精神，客觀公正，實話實說，探討抗戰歷史真相。如此，盛大閱兵典禮的錦上添花，才更有意義。<br>
-我的具體建議如下：</p>
-<p>一、聯合台北、北京、日本和全球的二戰歷史學者，根據各方所提資料，公開研討抗戰歷史真相，達成共識。</p>
-<p>二、重慶為抗戰首都，應在此地建造抗戰紀念館，並恢復抗戰勝利紀功碑。</p>
-<p>三、22次重大會戰戰場的核心地點，應建造抗戰紀念館，作為地區性的愛國教育基地。<br>
-四、恢復各地已被拆除的抗戰實景。</p>
-<p>五、歡迎到台北中正紀念堂，參觀抗戰歷史真相特展，並請批評指教。</p>
-<p>4億人流淚，5000萬人流離，2000萬人流血，使得中華民族從次殖民地，升為世界四強之一，其雪恥復興的真相，已到必須大白的時候了。</p>
-<p>唯有如此，才對得起抗戰烈士的英靈，才能使後代的子孫，有正確的孝義傳承。這不僅無傷於中共在大陸的執政，更會贏得兩岸人民的掌聲，有利於兩岸在九二共識基礎上的和平發展。</p>
-<p>孫中山先生的建國理想，如果傳承無人，則中國國民黨的興衰難料，但8年抗日戰爭的真相不能消亡。因為，抗戰不是為了某一黨派，而是為了中華民族。兩岸俱屬中華民族，還原史實，取信於民，容我重申，此其時也。</p>
-<p>台灣前行政院長</p>
-<p>郝柏村</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E6%8A%A5%EF%BD%9C%E9%83%9D%E6%9F%8F%E6%9D%91%EF%B8%B0%E7%82%BA%E9%82%84%E5%8E%9F%E6%8A%97%E6%88%B0%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8-%E8%87%B4%E5%A4%A7%E9%99%B8%E7%95%B6%E5%B1%80%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9D%E4%BC%AF%E6%9D%91/?category=18271" rel="tag">郝伯村</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -735,7 +761,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2nhe34jfu4tcj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1vl3bwkp23l8h.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -745,5 +771,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d1ocyz22ujumho.cloudfront.net">https://d1ocyz22ujumho.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/></td>    </tr>
 </table>

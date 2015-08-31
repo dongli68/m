@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3hgk6wuyapfl3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,134 @@
                 <td></td>
                 
         
-        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%82%B9%E6%80%9D%E8%81%AA%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A4%AE%E8%A7%86%E6%97%B6-%E5%A6%82%E4%BD%95%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B0%A2%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">邹思聪：没有央视时 如何向全国人民谢罪？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%891.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%891.jpg" alt="央视道歉1" width="550" height="389"></a></p>
+<p>从2013年以来，上央视认罪已经成为依法治国的标配。</p>
+<p>这次财经记者因为“私下打听”“这种不正常的渠道”，然后“根据自己的判断”写了报道（没有获取自己利益），而上央视认罪伏法，于是治罪记者的范围又再度扩大——导致的结果是，媒体圈哀鸿遍野，编辑记者们都感慨，“以后只能当娱乐记者了吗？”</p>
+<p>《财经》杂志作为国内最好的财经类刊物之一，对风险、尺度的把控能力、以及对财经报道的专业水准，都是业内的典范——这次挨刀，教育了广大新闻从业者，不要高估自己的判断力，认为自己看清了bottom line。真正的bottom line就是没有bottom line。</p>
+<p>或者说，重读五十年代的事情，你才能够大致明白bottom line到底在哪里。千万不要说“过去不会再来”之类的话，而要看看和过去，差着几步。</p>
+<p>以“上央视认罪”一事为例，2013年新快报事件出来时，我写道，这是本朝传统。那五十年代，没有央视的时候怎么办。没有央视可上，你让我如何向全国人民谢罪？</p>
+<p>答案是，上《人民日报》吧。</p>
+<p><strong>“彻底清算资产阶级新闻观点”</strong></p>
+<p>看过去《人民日报》的好处，是可以看出某种一以贯之的精神。所以读史早知今日事，要留在中国做新闻，首先要明白这一条：</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%892.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%892.jpg" alt="央视道歉2" width="550"></a><p>1957年7月15日 《人民日报》 张黎群：《彻底清算我的资产阶级新闻观点 学做一个坚强的共产主义新闻工作者》</p></div>
+<p>没有央视时，《中国青年报》总编辑张黎群荣登《人民日报》，发表了深刻反省。他清楚的告诉我们，只有清算自己的资产阶级新闻观，才是留在这里做新闻的正道。</p>
+<p>这篇反省告诉我们五个关键的问题：</p>
+<p><strong>（1）报纸对谁负责？——</strong></p>
+<blockquote><p>保证Party对报纸的领导，是我们无产阶级报纸的不可动摇的最重要的原则。可是在我的发言中，却明显地表现了对这个原则的动摇。在所谓“向谁负责”的说法下，我实际上是有意无意地去追求办一张不需要Party那么坚强领导的报纸。</p></blockquote>
+<p><strong>（2）如何处理批评报道？——</strong></p>
+<blockquote><p>报纸上的批评是Party领导人民群众向缺点和错误作斗争以改进工作的方式之一，而我却片面地夸大了报纸上的批评的作用。</p></blockquote>
+<blockquote><p>在批评的范围上越广越好，这是超越了青年报的身份，仿佛我们报纸的某些批评可以脱离团中央领导的约束，独立于团中央的领导之外似的。</p></blockquote>
+<p><strong>（3）能抢发报道吗？这一点对于财经的编辑记者，有重大启示作用——　　</strong></p>
+<blockquote><p>在我的发言中却夸大了新闻的时间因素，甚至把它说成是新闻的第一原则。这就错误了。</p></blockquote>
+<blockquote><p>离开了必须按照Party的政策、有利于社会主义事业的前提，来提倡抢先，这显然是一种资产阶级的口号。</p></blockquote>
+<blockquote><p>在这种口号的指导下，也就必然会制造混乱，对我们的事业制造不利。例如，我们曾在地方政府还缺乏准备的情况下，抢先透露了今年徒工要延迟转正的消息，就在上海等地一度造成混乱。</p></blockquote>
+<p>（<strong>4）记者有自由的采访权吗？</strong></p>
+<blockquote><p>记者采访也必须遵守一定的纪律，各报采访的对象也要注意分工，采访范围也应该有所区别。我却笼统地强调要“一视同仁”，否认一切界限，这当然是错误的。</p></blockquote>
+<p><strong>（5）做媒体需要考虑读者吗？　</strong></p>
+<blockquote><p>大谈所谓群众心理，说群众喜欢新鲜、刺激、差别、奇异、猜揣等等。这实际上是想把我们无产阶级报纸办成一张迎合小市民低级兴趣的报纸，做他们趣味的尾巴。在这一部分里，我完全是贩运了资产阶级的新闻学的货色。</p></blockquote>
+<p>最后，张黎群先生深刻的认识到，</p>
+<blockquote><p>从以上的各点中可以看出，我的资产阶级新闻观点，是已经发展成为十分严重的了。报纸是Party和国家引导人民进行斗争的一个重要工具，我们需要努力改进报纸工作。</p></blockquote>
+<blockquote><p>当我实际上已经掉进资产阶级新闻观点的泥坑里，还不自觉，直到最近在领导和同志们的帮助下，我才清醒过来。</p></blockquote>
+<p>这段话值得这里的新闻人深刻反省。还不反省？你看这张报纸上，那个不分青红皂白提意见的林希翎，可是“灵魂深处长了脓疮”啊——神乎其技的比喻能力。</p>
+<p>想明白这五个问题之后，如何从事实上清算？</p>
+<p><strong>首先应该追究主张“出版自由”的人：</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%893.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%893.jpg" alt="央视道歉3" width="550" height="769"></a><p>1957年7月18日《人民日报》左下 曾彦修追求“出版自由”</p></div>
+<p>追求资本主义的“出版自由”是不允许的。当然，该张报纸同时告诉我们，“肃反问题”不容置疑；章乃器土改不够坚决、“袒护地主”罪大恶极；毕鸣歧争取企业的自主权，也是同党阴谋。</p>
+<p><strong>第二步，应该清算记者编辑所属的媒体：</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%894.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%894.jpg" alt="1957年7月15日 右下 《上海新闻出版界全面展开反右派斗争揭露编辑记者中的败类》" width="550" height="773"></a><p>1957年7月15日 右下 《上海新闻出版界全面展开反右派斗争揭露编辑记者中的败类》</p></div>
+<p>所以上海新闻出版界联合起来，全面揭露“编辑记者中的败类”。其中写道了不听话的老报人怎处理，徐铸成就是典范。</p>
+<blockquote><p>新闻界座谈会上，文汇报副总编辑刘火子等揭露了徐铸成等人的一些反对共产党领导的言行。反右派斗争开始后，徐铸成别有用心地说，“凡是现在说正面话的，都是过去有问题的人；凡是现在说反话的，却都是过去的进步人物。”</p></blockquote>
+<blockquote><p>文汇报记者、右派分子吕文在中共上海市委召开的宣传会议上作了反对共产党领导的恶毒发言，文汇报编辑部认为有问题，没有全文发表，徐铸成大为不满，屡次说“应该登”。徐铸成反对文汇报宣传马克思列宁主义理论，硬说文汇报“社会大学”一栏的理论宣传是“教条主义”，并蓄意限制它的版面。</p></blockquote>
+<p>老报人要向谁学习呢？当然是主持《大公报》的王芸生了，《必须解决办报的路线问题》。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%895.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%895.jpg" alt="1957年7月14日《人民日报》。右上，王芸生《必须解决办报的路线问题》" width="550" height="761"></a><p>1957年7月14日《人民日报》。右上，王芸生《必须解决办报的路线问题》</p></div>
+<p>首先要和徐铸成切割开来——</p>
+<blockquote><p>徐铸成有多年办报经验，也有聪明才力，在解放八年之后，国家的社会主义革命和社会主义建设获得了光辉胜利和重大成就，为什么他倒加入章罗联盟一伙闹资本主义复辟呢？</p></blockquote>
+<blockquote><p>约略分析，徐铸成有三个毛病：一好名。他对于名很计较，他不满意被推为第一届政治协商会议的候补代表，自称“盛世遗民”。其实，谁若是真正为人民效了力，真正为人民做了好事，人民是不会辜负他的。</p></blockquote>
+<blockquote><p>二重利。徐铸成为了办文汇报，多方拉关系弄钱。最近他在新闻工作座谈会上交代，他有一次曾经想通过章伯钧的关系，拉一个人向文汇报投资，因条件未谈好而罢。他这次接受了章罗联盟的政治投资，自然是有所“利”的。这种作风是很危险的。</p></blockquote>
+<blockquote><p>三反对Party的领导。徐铸成不学习马克思主义，而讨厌所谓“教条八股”，排斥左派人士的文章。</p></blockquote>
+<p>其次要旗帜鲜明的表态：</p>
+<blockquote><p>大公报也犯了一些错误，性质虽与文汇报不同，我们正在认真检查大公报编辑部工作，有错误就向人民做交代，并引以为警惕。文汇报所犯的严重错误，对于我们新闻工作者具有极其重大的现实的教育意义，我个人是受了一场活生生的教育。我认为以下三点教训是有重大的现实的意义的：</p></blockquote>
+<blockquote><p>第一、新中国的报纸，尤其是非Party报纸，必须真正解决办报的路线问题。遵守毛主席指示的六项政治标准，办社会主义的报纸，丝毫不能含糊。</p></blockquote>
+<blockquote><p>第二、办社会主义的报纸，必须由CCP来领导。文汇报的经验清楚地告诉我们，哪里没有了或者削弱了CCP的领导，哪里就闹资产阶级方向。</p></blockquote>
+<blockquote><p>第三、知识分子必须继续改造。现实告诉我们，在我国，阶级斗争并没有结束，无产阶级和资产阶级之间在意识形态方面的阶级斗争还要长时期地存在，从旧社会来的知识分子是很难一下子就抛弃掉资产阶级的世界观而树立无产阶级、共产主义的世界观的。</p></blockquote>
+<p>当然啦，这一份报纸上，我们可以看到除了新闻界，电影界、戏剧界都有很多败类，所以要“粉碎右派对电影事业的进攻”，要“斩断章伯钧伸进戏剧界的魔爪”，“中国京剧院揭发右派分子的阴谋活动”……所以，要去看主旋律电影呀，“一起去看纪录片，向右派斗争吧”：</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%896.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%896.jpg" alt="央视道歉6" width="550" height="761"></a><p>右中1957年7月6日《今晚去看纪录片“向右派斗争”》</p></div>
+<p>这样一来，才算彻底清算了媒体人身上的“资产阶级新闻观”。只有这样，才能够成为Party引导人民进行斗争的重要工具。</p>
+<h3><strong>“代表人民批判你”——“向人民投降”</strong></h3>
+<p>对于坏分子要坚决反击，人民的代表要代表人民消灭你，“坚决维护人民民主制度”，“给右派分子的又一记响亮的耳光。”</p>
+<p>下面开始展示令人瞠目结舌的封面吧，值得媒体人、公知、学者、商人、官员深刻学习。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%897.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%897.jpg" alt="央视道歉7" width="550" height="780"></a><p>1957年7月5日《人民日报》头版</p></div>
+<p> </p>
+<p>毕鸣歧是章乃器反动言论的批发商、罗隆基继续狡赖反口咬人、黄绍竑杀害革命人士罪恶重重、从得意忘形到原形毕露，钱伟长的阴谋破产了……</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%898.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%898.jpg" alt="央视道歉8" width="550" height="770"></a><p>1957年7月6日《人民日报》</p></div>
+<p>7月7日，人民代表继续代表人民消灭你，绝对不能温情主义。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%899.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%899.jpg" alt="央视道歉9" width="550" height="782"></a><p>人民代表继续代表人民消灭你</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8910.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8910.jpg" alt="央视道歉10" width="550" height="755"></a><p>“反击右派不能温情主义 ”</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8911.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8911.jpg" alt="央视道歉11" width="550" height="761"></a><p>揭露储安平与罗隆基的阴谋</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8912.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8912.jpg" alt="揭露储安平与罗隆基的阴谋" width="550" height="763"></a><p>揭露储安平与罗隆基的阴谋</p></div>
+<p>排山倒海的批判斗争之下，章伯钧承认自己造谣了：</p>
+<blockquote><p>由于我站在反党反社会主义的立场，道听途说以无当有不符合事实的极端错误的污蔑党的言行，因此引起计委全体同志的极端愤怒并向我提出强烈的严正的抗议和指责。我感到万分痛悔，我现在发表这个更正声明并向他们请罪。</p></blockquote>
+<p>顾执中也不固执了：</p>
+<blockquote><p>他们在整风中反社会主义、反对党的领导的方法，就是要到处讲话，在报纸上写文章，破坏党。顾执中承认：他们企图恢复“救国会”进行反社会主义，反对社会主义是有组织、有分工、有活动的。</p></blockquote>
+<blockquote><p>群众质问顾执中，他们究竟企图在帝国主义进攻中国时想干些甚么，他们在整风运动中到处放火想达到什么目的，在他们的阴谋活动里面还有那一些人的时候，顾执中躲躲闪闪，没有交代清楚。</p></blockquote>
+<blockquote><p>顾执中在高等教育出版社还煽动一些落后分子向党的领导进攻，要他们用各种口径的炮轰，要他们收集材料，到外面去控告。</p></blockquote>
+<blockquote><p>社会主义学院对右派分子顾执中的斗争，还将继续进行，群众一致表示，不获全胜，决不罢休。</p></blockquote>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8913.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8913.jpg" alt="章伯钧承认造谣、固执中交代事实、龙云破坏民族团结" width="550" height="770"></a><p>章伯钧承认造谣、固执中交代事实、龙云破坏民族团结</p></div>
+<p>龙云意识到，虽然是人大常委，但也不能就国家预算和决算提出意见，因为这对“中苏友谊团结，社会主义的建设，Party的领导都有坏的影响”：</p>
+<blockquote><p>我最近在人大常务委员会的一次会议上，为讨论国家决算、预算草案时，曾经提出了谬误的意见，会后自己就感觉不对，我当时以为自己是人大常委，在会上向Party和政府建议是可以的，并且常委会是工作会议，即或有错误也无大碍，后来才想到，在这样重要的会议上，不应该随便说话。</p></blockquote>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8914.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8914.jpg" alt="央视道歉14" width="550" height="768"></a><p>费孝通的发言</p></div>
+<p>费孝通直接了当，“我向人民伏罪，继续揭露自己的罪行，也就是为揭露章罗联盟的阴谋作见证”，他的主要问题是邀请“对社会主义心怀不满的盟员和所联系的知识分子，畅所欲谈，一吐衷曲，并采取不记名，不批评的工作方法。”这样一来，造成的结果非常严重：</p>
+<blockquote><p>①鼓励落后和反动思想在组织里露头，不加批判，得到滋长和蔓延。</p></blockquote>
+<blockquote><p>②影响中间分子。</p></blockquote>
+<blockquote><p>③很少邀请进步分子参加，隔离和孤立了进步势力。</p></blockquote>
+<blockquote><p>④不通过正规的组织生活来进行工作而采取直接由领导同志自由挑选名单，进行座谈，给野心分子利用合法组织，串联落后分子，搞阴谋活动的机会。</p></blockquote>
+<blockquote><p>⑤搜集了落后和反动意见，作为片面估计知识分子情况的根据，在盟的领导层中造成错觉，提供野心分子所需要的宣传资料，打动了他们利用这些知识分子作为他们政治资本的企图。</p></blockquote>
+<p>费孝通说，“为什么我会犯下这样大罪？我现在还在深刻反省，主要是我自己没有放弃资产阶级的反动立场，抗拒Party的教育，没有进行应有的改造，以致跌入资产阶级右派的泥坑，参加了章罗联盟的阴谋活动。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8915.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8915.jpg" alt="央视道歉15" width="550" height="790"></a><p>费孝通、储安平向人民请罪</p></div>
+<p>费孝通在结尾写道：</p>
+<blockquote><p>我痛恨自己的过去，我必须转变立场；我痛恨章罗联盟，我一定要和他们划清界限，一刀两断。我感激党为我们犯了错误的人，跌在右派泥坑里的人，敞开着翻改的大门，而且仁至义尽地教育我们。让我勇敢地投入这个门，走上生路，彻底改造自己，创造向人民赎罪的机会。</p></blockquote>
+<blockquote><p>我清醒还不久，认识还不深，对于我的罪行和我的思想还要详细交代，深入检讨。今天只能向大会继续揭露我的罪行，为揭露章罗联盟的阴谋作证，向人民伏罪。我将继续反省，参加反右派斗争；在斗争中学习，改造自己，我决心接受党的教育，在党的领导下走社会主义道路。</p></blockquote>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8916.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8916.jpg" alt="储安平《向人民投降》" width="550" height="768"></a><p>储安平《向人民投降》</p></div>
+<p>储安平也扛不住了，“我六月一日在统战部座谈会上的发言以及我在光明日报的工作，都犯了反Party反社会主义的严重错误。经过全国人民对我的批判，我现在认识到自己的错误，真心诚意地向全国人民低头认罪。”</p>
+<p>中央电视台1958年创台，在没有央视的1957年，《人民日报》是所有坏分子向全国人民谢罪的地方。除了上面以外，还有这些重量级人物：</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8917.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8917.jpg" alt="章伯钧《向人民低头》章乃器《我的检讨》" width="550" height="764"></a><p>章伯钧《向人民低头》章乃器《我的检讨》</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8918.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8918.jpg" alt="罗隆基《我的初步交代》" width="550" height="758"></a><p>罗隆基《我的初步交代》</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8919.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8919.jpg" alt="央视道歉19" width="550" height="770"></a><p>张云川《我恨自己是一个右派分子》</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8920.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8920.jpg" alt="央视道歉20" width="550" height="748"></a><p>毕鸣歧《我是一个犯了严重错误的人》</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8921.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8921.jpg" alt="谭惕吾《我为什么犯了严重的错误》" width="550" height="772"></a><p>谭惕吾《我为什么犯了严重的错误》</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8922.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8922.jpg" alt="央视道歉22" width="550" height="748"></a><p>李伯球《我痛恨自己……》</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8923.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8923.jpg" alt="央视道歉23" width="550" height="749"></a><p>马哲民《我要重新做人》</p></div>
+<p>能够很快的找到这些过刊，是因为很早以前，我搜集过一张表。以下是一部分：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8924.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8924.jpg" alt="央视道歉24" width="530" height="925"></a></p>
+<p> </p>
+<p><strong>不要做储安平一样的媒体人</strong></p>
+<p>把储安平单独列出来，不只是因为他是未摘帽右派，也不只是他如何死的至今是个谜，也不只是他最近在老家江苏宜兴落了衣冠冢，更不只是他提出了“Party天下”这样大逆不道的观点——更是因为他办过《观察》这样的牛逼杂志，但做《光明日报》总编辑时还是遭了秧。只有从他为什么遭殃中吸取深刻教训，才能当一个好的中国媒体人。</p>
+<p>办《观察》的储安平对国民党说过这样的话：</p>
+<blockquote><p>最后，我们愿意坦白说一句话，政府虽然怕我们批评，而事实上，我们现在则连批评这个政府的兴趣也没有了。即以本刊而论，近数月来，我们已经很少刊载剧烈批评政府的文字，因为大家都已十分消沉，还有什么话说呢？说了又有什么用处？我们替政府想想，一个政府弄到人民连批评它的兴趣也没有了，这个政府也够悲哀的了！可怜政府连这一点自知之明也没有，还在那里抓头挖耳，计算如何封民间的报纸刊物，真是可怜亦复可笑！</p></blockquote>
+<p>被解放后的储安平，死性不改。在担任《光明日报》总编辑时，储安平“做了许多不利于Party和人民的事情。”</p>
+<blockquote><p>在我担任总编辑的两个多月内，光明日报刊登了许多恶意的、片面的、破坏性的报导，攻击Party的领导，损害Party的威信。我还派了好些记者到上海、南京、武汉、广州、西安、兰州、沈阳、长春、青岛等九个城市去开座谈会，专门找那些对Party不满的、勇于攻击Party的人发言，企图通过这样集中的形式来损害Party的威信。我又发表了北大学生大字报的错误报导，表面上是抢新闻，实质上是点火。</p></blockquote>
+<p>担任《光明日报》总编辑，他还不肯发表歌颂Party的社论，听到章罗联盟说，大学要去Party化的时候特别高兴，还刊登了复旦大学要取消Party committee的新闻，用资产阶级民主观点理解“百花齐放、百家争鸣”，对于错误的报导和言论和正确的报导和言论不加区别。</p>
+<p>当然，储安平还错误的理解了“长期共存、互相监督”de的含义，妄想利用报纸来监督Party，而监督的目的实质上就是要削弱Party的领导。储安平反思道：</p>
+<blockquote><p>我这些错误的言论和行为所造成的危害性是极大的。它在一些比较落后的群众中间造成了思想混乱，使有些人在一个极短的时间里不明事实的真象；它使某些对党有些不满情绪的人格外增加了他们对党的不满；它损害了党在群众中的威信，并鼓动人们向党进攻。我所犯的错误，实质上又为章罗联盟为核心的资产阶级右派分子的反党活动而服务。</p>
+<p>在国外，我的错误言论还为美蒋敌人所利用，使他们错觉地以为中国有很多知识分子反对Party、反对政府。他们以为在大陆上出现了什么为他们日夜梦想的变乱，于是兴风作浪、进行挑拨，还说要向我“遥致敬意”，实际上无非想造谣生非，挑拨离间。</p></blockquote>
+<p>储安平的落后思想渊源，和许多现在的媒体人、公知、学者的思想渊源颇为类似，“受过多年的英美资产阶级教育，盲目崇拜腐朽的资产阶级民主。”</p>
+<blockquote><p>在解放以前，我一方面反对国民党，一方面反对CCP。我在思想上宣传资产阶级的“自由主义”，在政治上标榜走中间路线。我鼓吹“自由思想分子”团结起来，实际上就是不要人们跟CCP走。由于我只看到资产阶级一个阶级很小一部分所谓“民主自由”，看不到广大劳动人民的真正的、更大的民主自由，因而便错误地认为“在国民党统治下，这个‘自由’还是一个‘多’‘少’问题，假如CCP执政了，这个‘自由’便变成‘有’‘无’问题了”。（一九四七年三月八日“观察”第六页）</p></blockquote>
+<p>或许储安平还有一大功劳，即便是在认罪投降，文笔还是那么好，把巨大压力下“以众暴寡”阶级斗争的恐惧描绘得令人胆寒。在认罪中，他说自己没有脸面去拿邮差送来的报纸和信件；看医生的时候，他不敢说自己姓储，深恐医生怀疑他就是那个右派坏分子。</p>
+<p>最后，储安平说，“我今天在这个庄严的会场上，并通过大会向全国人民真诚地承认我的错误，向人民请罪，向人民投降。我把向人民投降作为我自己决心彻底改造自己的一个标志。”</p>
+<p>尽管如此，储安平最后还是尸骨无存。所以，不要做储安平这样的中国媒体人。这就是来自五十年代的启示。什么是bottom line，这才是bottom line。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%82%B9%E6%80%9D%E8%81%AA%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A4%AE%E8%A7%86%E6%97%B6-%E5%A6%82%E4%BD%95%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B0%A2%E7%BD%AA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2%E7%BB%8F%E3%80%8B/?category=18271" rel="tag">《财经》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8F%B3/?category=18271" rel="tag">反右</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E7%81%B5%EF%BC%9A%E4%BA%BA%E9%80%A0%E4%B8%9B%E6%9E%97%E4%B8%8E%E8%87%AA%E7%94%B1%E5%B8%82%E5%9C%BA-%E8%AF%84bbc%E3%80%8A%E4%B8%AD%E5%BC%8F%E5%AD%A6%E6%A0%A1%E3%80%8B/" target="cdt-mirror">风灵：人造丛林与自由市场——评BBC《中式学校》纪录片</a>
 </h2>
 <p><p>近来，BBC的一部关于中国老师执教英国中学的纪录片《我们的孩子足够坚强吗？中式学校》（“Are Our Kids Tough Enough? Chinese School”）引爆激烈讨论。这部纪录片讲的是五名优秀的中国中学教师，在为期一个月的教学实验中，完全以中国应试教育的方法来改造英国的孩子。迥异的文化和教学方式让影片跌宕起伏，充满了冲突和戏剧性，也让中英教育的比较成为了跨国热点。</p>
@@ -635,121 +760,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BB%95%E5%9B%BE%EF%BD%9C%E9%A3%8E%E9%99%B5%E5%A4%9C%E8%AF%9D%E9%82%A3%E6%99%9A%EF%BC%8C%E9%83%AD%E8%8A%99%E6%98%AF%E5%A6%82%E4%BD%95%E7%AE%A1%E5%88%B6%E8%88%86%E8%AE%BA%E7%9A%84/" target="cdt-mirror">仕图｜风陵夜话那晚，郭芙是如何管制舆论的</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64012.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64012.jpg" alt="640" width="500" height=""></a></p>
-<p>研读《神雕侠侣》的人，最重要的场景可能就是“风陵渡口”。</p>
-<p>“一见杨过误终身”并不恰当，郭襄还没有见，只是听了杨过的事，就喜欢他了。</p>
-<p>郭襄的喜欢不是情欲，不少青春期少女，虽然也恋爱，有的也会有性，但其实还没有心灵上的性别，风陵渡口的时候，郭襄就是没有性别的状态，但是郭芙早早就是女性的了，在她操纵大小武和杨过的时候就特别明显。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64023.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64023.jpg" alt="6402" width="360" height="311"></a></p>
-<p>但是我要说的不是感情，而是郭芙在一夜奇妙的表现，她几次的攻击性。昔日那个鲁莽但多情的红衣少女，突然变得就不对了。</p>
-<blockquote><p>果然听得一个女子声音说道：“掌柜的，给备两间宽敞干净的上房。”掌柜的陪笑道： “对不起您老，小店早已住得满满的，委实腾不出地方来啦。”那女子说道：“好罢，那么便一间好了。”那掌柜道：“当真对不住，贵客光临，小店便要请也请不到，可是今儿实在是客人都住满了。”那女子挥动马鞭，“啪”的一声，在空中虚击一记，斥道：“废话！你开客店的，不备店房，又开甚么店？你叫人家让让不成么？多给你店钱便是了。”说着便向堂上闯了进来。</p></blockquote>
-<p>打尖住店时问有房没房，是各种武侠小说里常见的场景，耶律少奶奶（好吧，还是更喜欢自己郭大姑娘的身份吧）先是要房，发现客满，就开始发脾气。</p>
-<p>郭姑娘不喜欢按照市场规律办事，耶律郭芙是白富美，公公是高官，姥爷是海岛地主，娘家爸爸是大侠，其实本可以做得更体面。可以参考一下提利昂·兰尼斯特的做法，那就是喊红，希望能有人帮他让出来房间。</p>
-<blockquote><p>“老板，”一个随从的声音从她身后传来，“找个人帮我们喂马，我们家兰尼斯特大人要房间和洗热水澡。”<br>
-“诸神在上。”罗德利克道，凯特琳急忙伸手制止他，她的手指紧紧攫住他的前臂。<br>
-玛莎·海德露出那招牌式的可怖的腥红微笑，忙着打躬作揖。“大人，真对不住，可咱们真的客满了。”<br>
-凯特琳看到他们一行四人：一个穿着守夜人黑衫的老头，两个仆从……还有他，小个子好端端地站在那里。“我手下睡马厩就好，至于我嘛，你也看得出来，我不需要多大的房间。”他自我解嘲地嘻嘻一笑。“所以只要火够温暖，稻草里没太多跳蚤，我就很乐意啦。”<br>
-玛莎·海德急得不知如何是好。“大人，我们真是没办法，都是这比武大会害的，人多得不像话，喔……”<br>
-提利昂·兰尼斯特从口袋里取出一枚钱币，上抛过头，接住，又弹一遍。即使坐在房间对面的凯特琳也看得见那是闪闪发亮的黄金。<br>
-一名穿着褪色蓝斗篷的自由骑手摇晃着站起身。“大人，您若不嫌弃，就将就将就我的房间吧。”<br>
-“这家伙聪明，”兰尼斯特边说边把金币丢过来，自由骑手在空中伸手接住。“身手也不赖。”侏儒转身对玛莎·海德说，“吃的方面，我想应该没问题吧？”<br>
-“什么都行，大人，您要吃什么都行。”老板娘再三保证。吃到噎死最好，凯特琳心想，然而她眼前浮现的却是布兰浑身浴血，难以呼吸的景象。</p></blockquote>
-<p>郭芙是用鞭子在威胁，说对方“废话”，一副主管单位负责人的姿态，这就非常不好。</p>
-<blockquote><p>店伙躬身陪笑道：“奶奶，你瞧，这些客官们都是找不到店房的。你三位若是不嫌委屈，小的让大家挪个地方，就在这儿烤烤火，胡乱将就一晚，明儿冰结得实了，就不定就能过河。”那少妇心中好不耐烦，但瞧这情景却也是实情，蹙起眉头不语。坐在火堆旁的一个中年女人说道：“奶奶，你就坐在这儿，烤烤火，赶了寒气再说。”那美貌少妇道：“好，多谢你啦。”从在那中年妇人身旁的男客赶紧向旁挪移，让出老大一片地方来。</p>
-<p>三人坐下不久，店伙便送上饭菜。菜肴倒也丰盛，鸡肉俱有，另有一大壶白酒。那美貌少妇酒量甚豪，喝了一碗又是一碗，那少年和那文秀少女也陪她喝些，听他三人称呼乃是姊弟。那少年年纪似较小女为大，却叫她“姊姊”。</p></blockquote>
-<p>二十年前，好多家庭都有的吃饭时候听新闻联播的习惯，郭芙和弟弟妹妹吃饭的时候，风陵渡新闻联播开始了：</p>
-<blockquote><p>众人围坐在火堆之旁，听着门外风声呼呼，一时都无睡意。<br>
-一个山西口音的汉子说道：“这天气真是折磨人，一会儿解冻，一会儿结冰，老天爷可真不给人好日子过。”一个湖北口音的矮个子道：“你别怨天怨地啦，咱们在这儿有个热火儿烤，有口安稳饭吃，还争甚么？你只要在我们襄阳围城中住过，天下再苦的地方都变成安乐窝。”<br>
-那美貌少妇听到“襄阳围城”四字，向弟妹二人望了一眼。</p></blockquote>
-<p>头条是天气预报？不，其实是寒暄。湖北台选送的新闻上了头条：</p>
-<p>《襄阳军民苦中作乐，击退蒙古侵略者数年进攻》。</p>
-<p>郭芙对这条新闻表示了关注，因为自己的爸爸上了头条。要知道群众对谈论理想、娶了漂亮女人的实力派特别苛刻，汪老师上头条多难啊。</p>
-<p>随后是评论员文章：</p>
-<blockquote><p>那广东人道：“这十多年来，倘若不是襄阳坚守不屈，大宋半壁江山只怕早已不在了。”</p>
-<p>众人纷纷问起襄阳守城的情形，那湖北人说得有声有色，把郭靖、黄蓉夫妇夸得便如天神一般，众人赞声不绝。</p></blockquote>
-<p>然后是第二条，四川台报道。</p>
-<blockquote><p>一个四川口音的客人忽然叹道：“其实守城的好官各地都有，只是朝廷忠奸不分，往往奸臣享尽荣华富贵，忠臣却含冤而死。前朝的岳爷爷不必说了，比如我们四川，朝廷就屈杀了好几位守土的大忠臣。”那湖北人道：“那是谁啊？倒要请教。”那四川人道：“蒙古鞑子攻打四川十多年，全赖余玠余大帅守御，全川百姓都当他万家生佛一般。那知皇上听信了奸臣丁大全的话，说余大帅甚么擅权，又是甚么跋扈，赐下药酒，逼得他自杀了，换了一个懦弱无能的奸党来做元帅。后来鞑子一攻，川北当场便守不住。阵前兵将是余大帅的旧部，大家一样拼命死战。但那元帅只会奉承上司，一到打仗，调兵遣将甚么都不在行，自然抵挡不住了。丁大全、陈大方这伙奸党庇护那狗屁元帅，反冤枉力战不屈的王惟忠将军通敌，竟将他全家逮京，把王将军斩首了。”他说到这里，声音竟有些呜咽，众人同声叹息。</p></blockquote>
-<p>对了，这是一条负面报道。但是与郭芙没有直接关系，郭芙对这条消息没有任何的关注。</p>
-<blockquote><p>那四川人问道：“他叫作‘神雕侠’？”那汉子道：“是啊，这位大侠行侠仗义，好打抱不平，可是从来不肯说自己姓名，江湖上朋友见他和一头怪鸟形影不离，便送了一个外号，叫作‘神雕大侠’。他说‘大侠’两字决不敢当，旁人只好叫他作‘神雕侠’，其实凭他的所作所为，称一声‘大侠’又有甚么当不起呢？他要是当不起，谁还当得起？”<br>
-那美貌少妇突然插口道：“你是大侠，我也是大侠，哼，大侠也未免太多啦。”</p></blockquote>
-<p>郭芙在这里突然发难，倒不是因为负面报道，其实这也不是负面报道，因为后面出现了一个正面人物。</p>
-<p>她所恼怒的，是作为第二条的新闻比第一条时间要长，报道要精细，而且几乎和他的爸爸平起平坐。</p>
-<p>神雕侠是一个江湖上的二把手，报道篇幅比老大还要大，这像话吗？其实神雕侠自己是咀嚼的，一直说自己不是大侠，就是为了敬重江湖上的老同志。这句很厉害，阅评意见来了！</p>
-<blockquote><p>那四川人凛然道：“这位奶奶说那里话来？江湖上的事儿小人虽然不懂，但那位神雕大侠为了救王将军之命，从江西赶到临安，四日四夜，目不交睫，没睡上半个时辰。他和王将军素不相识，只是怜他尽忠报国，却被奸臣陷害，便这等奋不顾身的干冒大险，为王将军伸冤存孤，你说该不该称他一声大侠呢？”</p></blockquote>
-<p>四川台摆事实，讲道理，解释了自己的报道篇幅，按照今天的话，写了一个情况说明。但是最大的问题就是居然敢用反问句！</p>
-<blockquote><p>那少妇哼了一声，待要驳斥，她身旁的文秀少女说道：“姊姊，这位英雄如此作为，那也当得起称一声‘大侠’了。”她语言清脆，一入耳中，人人都觉说不出的舒服好听。</p></blockquote>
-<p>我们把郭襄这样的同志称为江湖上的开明派和健康力量，遗憾的是，这样的同志跟郭襄一样，往往当不上一把手。</p>
-<blockquote><p>那少妇道：“你懂甚么？”</p>
-<p>转头向那四川人道：“你怎能知道得这般清楚？还不是道听途说？江湖上的传闻，十成中倒有九成靠不住。”</p></blockquote>
-<p>郭芙开始质疑四川台报道失实。</p>
-<blockquote><p>那四川人沉吟半晌，正色道：“小人姓王，王惟忠将军便是先父。小人的性命是神雕大侠所救。小人身为钦犯，朝廷颁下海捕文书，要小人头上的脑袋。但既涉及救命恩人的名声，小人可不敢贪生怕死，隐瞒不说。”<br>
-众人听他这么说，都是一呆。那广东人大拇指一翘，大声道：“小王将军，你是个好汉子，有那个不要脸的胆敢去向官府出首告密，大伙儿给他个白刀子进，红刀子出。”众人轰然称是。那美妇人听他如此说，也已不能反驳。</p></blockquote>
-<p>王记者表示自己有录音！而且是卧底采访的，郭芙同志这时被打脸啪啪的。这时候观众朋友们纷纷表示了对舆论监督的支持。</p>
-<blockquote><p>小王将军叹道：“主上若不昏庸无道，奸臣便不能作恶。去了个秦桧，来个韩佗胄；去了韩佗胄，来个史弥远；去了史弥远，又来丁大全。眼见贾似道日渐得势，这又是个祸国殃民之徒。唉，奸臣一个接着一个，我大宋江山，眼见难保呢。”那大汉道：“除非请神雕侠做宰相，那才能打退鞑子，天下太平。”</p>
-<p>那美貌少妇插口道：“哼，他也配做宰相？”那大汉怒道：“他不配难道你配？”那少妇怒气上冲，喝道：“你是甚么东西，胆敢对我无礼？”眼见那大汉手中执着根拨火铁棒，她随手从地下拾起一段木柴，在拨火棒上一敲。那大汉手臂一震，只觉半身酸麻，当的一声，火棒脱手落在地下，火堆中火星溅了起来，烧焦了他数十根胡子。众人失声惊叫。</p></blockquote>
-<p>神情粗豪的大汉，没有交代单位名，套用今天的话，是个自媒体吧，郭芙对他突然就发威了，大家一交手，自媒体明白了自己量级太低。</p>
-<p>打也打不过他，岂不是事事要由他！</p>
-<blockquote><p>那大汉性子虽躁，但领教了她如此武功，吃了亏竟是不敢发作，只是咕咕哝哝的摸着胡子，连酒也不想喝了。</p></blockquote>
-<p>今天我们也常见这样的，说环境不好，转行做公关去了。</p>
-<p>健康力量要赶紧哄一哄：</p>
-<blockquote><p>那文秀少女道：“人家说那神雕侠说得好好的，你干么老是不爱听？”好转头向那大汉嫣然微笑，道：“大叔，你别见怪。”那大汉本来满腔怒气，但见她这么甜甜一笑，怒火登时消于无形，咧着大口报以一笑，想说句客气话，却不知如何措词才好。</p></blockquote>
-<p>媒体圈都是这么痴汉的，遇到温和的健康力量，就觉得改良有希望。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64033.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64033.jpg" alt="6403" width="360" height="184"></a></p>
-<blockquote><p>那少女道：“大叔，那神雕侠你是怎么认得他的？”那大汉向少妇望了一眼，迟疑着不说。那少女道：“你说好啦，只要不得罪我姊姊便成。神雕侠多大年纪啦？他的神雕好不好看？”不等大汉回答，转头向那少妇道：“姊姊，不知他那头神雕跟咱们一对白雕儿比起来又怎样？”</p></blockquote>
-<p>然后郭家二姑娘开始出题目，引导一下报道方向，你们自媒体尽量往娱乐、颜值方面发展。</p>
-<blockquote><p>那少妇道：“跟咱们的双雕比？天下那有甚么雕儿鹰儿，能比得上咱们的双雕。”那少女道：“那也不见得。爹爹常说：‘学武之人须知天外有天，人上有人，决计不可自满。’ 人既如此，比咱们的雕儿更好的禽鸟，想来也是有的。”那少妇道：“你小小年纪，懂得甚么。咱们出来之时，爹妈叫你听我的话，你不记得了么？”那少女笑道：“那也得瞧你说得对不对啊。弟弟，你说我的话对，还是姊姊的话对？”</p></blockquote>
-<p>然后你会发现老同志就连娱乐报道也要插嘴。</p>
-<blockquote><p>她身旁那少年虽然生得高大壮实，却是满脸稚气，迟疑了一会，道：“我不知道。爹爹说咱两个该听大姊姊的话，叫你别跟大姊姊顶嘴。”那少妇甚是得意，道：“可不是么？” 那少女见弟弟帮了大姊，也不生气，笑道：“你甚么也不懂的。”回头又向那粗豪汉子道： “大叔，你再说神雕侠的故事罢！”</p></blockquote>
-<p>然后代表郭家的保守老同志，总能团结到大多数。</p>
-<blockquote><p>那少女提起酒壶给他斟了一碗酒，笑道：“我怎会不信？快点儿讲罢！”又叫道：“店小二，再打十斤酒，切二十斤牛肉，我姊姊请众位伯伯叔叔喝酒，驱驱寒气。”店小二连声答应，吆喝着吩咐下去。众人笑逐颜开，齐声道谢。过不多时，三名店伙将酒肉送上来。</p>
-<p>那美貌少妇沉着脸道：“我便是要请客，也不请胡说八道之人。店小二，这酒肉的钱可不能开在我的帐上。”店小二一愣，望望少妇，又望望少女，不知如何是好。那少女从头上拔下一枚金钗，递给店小二，说道：“这是真金的钗儿，值得十几两银子罢。你拿去给我换了。再打十斤酒，切二十斤羊肉。”</p></blockquote>
-<p>老同志撤资，不让你干了。</p>
-<blockquote><p>那少妇怒道：“妹妹，你定要跟我赌气，是不是？单是钗头这颗明珠，总值百多两银子，你死赖活赖的跟朱伯伯要来，却这么随随便便的请人喝酒。瞧你回到襄阳时，妈问起来时怎么交代？”那少女伸伸舌头，笑道：“我说在道上掉了，找来找去找不到？”那少妇道： “我才不跟你圆谎呢。”那少女伸筷夹了一块牛肉，放在口中吃了。说道：“吃也吃过了，难道还能退么？各位请啊，不用客气。”<br>
-众人见她姊妹二人斗气，都觉有趣，心中均喜那少女天真潇洒，便是不会喝酒之人也都端起酒碗喝了几口，暗中帮那少女。那少妇赌气闭上眼睛，伸手塞住耳朵。</p></blockquote>
-<p>而健康开明的力量得到了资本的支持，也让大家普大喜奔。</p>
-<blockquote><p>那少女听得悠然神往，随手端起酒碗，喝了一大口，轻轻说道：“你们许多人都见过神雕侠，我却没福见过。若能见他一面，能听他说几句话，我……我又可比甚么都欢喜。”<br>
-那少妇大声道：“这人武功自然是好的，但跟爹爹相比，可又差得远啦。你小娃儿不知世事，让人家加油添酱的一说，便道这人如何如何了不起。其实这人你也见过的，他还抱过你呢。”</p></blockquote>
-<p>传绯闻。</p>
-<blockquote><p>那少女红晕双颊，啐道：“你做姊姊的，说话也这般颠三倒四，有谁信你的？”那少妇道：“你不信也由得你。这个甚么神雕侠姓杨名过，小时候在咱们桃花岛住过的。他那条手臂，便是……便道……嗯，你生下来没到一天，你就抱过你了。”</p></blockquote>
-<p>被叫破之后才加以解释。</p>
-<p>注意那句“跟爹爹相比，那可是差得远啦！”</p>
-<p>在古天乐版的《神雕侠侣》电视剧里，还有一句特别露骨的表达，说：</p>
-<p>“我们爹爹那样的，才是真正的大侠。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64041.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64041.jpg" alt="6404" width="360" height="278"></a></p>
-<p>这就是明确的报道提示了。不光要告诉你什么不能写，还得告诉你什么应该写。</p>
-<p>电视剧里，周围的一群人听了，赶紧“失敬失敬”，顶礼起郭伯伯仁波切来。</p>
-<p>这里我们可以看得出郭家管理江湖舆论的一些策略：</p>
-<p><strong>监控重要的公众场合，比如渡口的客栈。</strong></p>
-<p><strong>以粗鲁的手段为主，公开处罚一批人，让人猜尺度，猜线在哪。</strong></p>
-<p><strong>温和派的同志受到压力。</strong></p>
-<p><strong>质疑报道的真实性，必要的时候可以制造误会。</strong></p>
-<p><strong>大家都怕了郭家了，再发报道提示</strong></p>
-<p>管制的合法性建立在郭大侠独撑着国家民族的基础上，换句话说，大宋民族到了最危险的时刻了。</p>
-<p>但是管制真的有用吗？我们读完了全书，会明白这样一个逻辑：</p>
-<p>杨过不肯称大侠，是因为他认为只有郭靖是大侠。</p>
-<p>杨过能走上一条大侠的道路，老师和父亲就是郭靖。</p>
-<p>杨过做得越多，人品越好，郭靖就越值得人敬重。</p>
-<p>而这些事实，除非郭襄那样鼓励人去报道，去言说，才可能被人们知道。</p>
-<p>所以，他们真的觉得甩甩鞭子，用内力震对方一下，就能解决问题了吗？</p>
-<p>p.s</p>
-<p>在一个师妹替朋友的采访（奇怪，居然还有人采访我这样的小号，看来平台真是萧条了）中被问道：</p>
-<p>仕图最像哪个门派？</p>
-<p>嗯，仕图非门非派，要我说，我们更像是风陵渡口的那家客栈。</p>
-<p>“风陵渡口，大家坐在一起，聊一些故事，谈论某个人物。郭姑娘来呢，金钗拔下，换酒喝。不来也没关系，就聊天，聊一晚上，也挺好。”</p>
-<p>其实，大多时候，都没有郭姑娘来，耶律少奶奶这样养眼的都是妄想，套用《鹿鼎记》里苏菲亚公主的说法：</p>
-<p><strong>他们不好，都是头老子。</strong></p>
-<h2>附作者转载声明：</h2>
-<p>须注明作者微信公号及二维码：<br><strong>仕图（shi4tu2）</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" alt="仕图" width="258" height="258"></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BB%95%E5%9B%BE%EF%BD%9C%E9%A3%8E%E9%99%B5%E5%A4%9C%E8%AF%9D%E9%82%A3%E6%99%9A%EF%BC%8C%E9%83%AD%E8%8A%99%E6%98%AF%E5%A6%82%E4%BD%95%E7%AE%A1%E5%88%B6%E8%88%86%E8%AE%BA%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -761,7 +771,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d36g2avsyl1dj5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tg7mn9efvix2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -771,5 +781,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/></td>    </tr>
 </table>

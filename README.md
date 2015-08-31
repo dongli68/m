@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pqs9dzpemga8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d12yf3ck4n9fv0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d10s7bnpjt1nt5.cloudfront.net">https://d10s7bnpjt1nt5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d10s7bnpjt1nt5.cloudfront.net">https://d10s7bnpjt1nt5.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/" target="cdt-mirror">金融时报 | 据称中国决定放弃大规模购股</a>
@@ -733,7 +733,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pqs9dzpemga8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d12yf3ck4n9fv0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -743,5 +743,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d10s7bnpjt1nt5.cloudfront.net">https://d10s7bnpjt1nt5.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d10s7bnpjt1nt5.cloudfront.net">https://d10s7bnpjt1nt5.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/></td>    </tr>
 </table>

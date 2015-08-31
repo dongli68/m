@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%82%B9%E6%80%9D%E8%81%AA%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A4%AE%E8%A7%86%E6%97%B6-%E5%A6%82%E4%BD%95%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B0%A2%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">邹思聪：没有央视时 如何向全国人民谢罪？</a>
@@ -262,7 +262,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%A5%9E%E8%AF%9D%E4%B8%8D%E5%86%8D%EF%BC%8C%E5%8D%B1%E6%9C%BA%E9%87%8D%E9%87%8D/" target="cdt-mirror">信报｜中国模式神话不再，危机重重</a>
 </h2>
@@ -771,7 +771,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ra0homwehy5l.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dceagu0fb34ko.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -781,5 +781,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/></td>    </tr>
 </table>

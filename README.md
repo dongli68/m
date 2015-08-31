@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ruw1cw172uon.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1c25hhq3jhonp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%B0%91%E5%90%8C%E4%B9%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">东网 ｜南桥：不敢与民同乐的中国阅兵</a>
@@ -45,7 +45,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%B2%8D%E5%BD%A4%E4%BF%83%E8%BF%9E%E6%88%98%E9%98%90%E6%98%8E%E5%AF%B9%E6%8A%97%E6%88%98%E4%B9%8B%E7%AB%8B%E5%9C%BA/" target="cdt-mirror">自由亚洲｜鲍彤促连战阐明对抗战之立场</a>
 </h2>
@@ -503,7 +503,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%91%B2%E5%BF%85%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%90%BD%E9%80%89%EF%BC%9F/" target="cdt-mirror">旧闻评论｜“呲必中国”为何落选？</a>
 </h2>
@@ -746,7 +746,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r561vizamjcr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgzpsbzordyd7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -756,5 +756,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/></td>    </tr>
 </table>

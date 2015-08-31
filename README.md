@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1c25hhq3jhonp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r561vizamjcr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,96 @@
                 <td></td>
                 
         
-        <td><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%B0%91%E5%90%8C%E4%B9%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">东网 ｜南桥：不敢与民同乐的中国阅兵</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.41.28-AM-670x1024.png" alt="Screen Shot 2015-08-25 at 1.41.28 AM" width="551" height="842"></p>
+<p>离阅兵的日子愈来愈近，一种诡异的紧张气氛也愈来愈浓。天津爆炸、股市暴跌，丝毫不影响最高当局搞大阅兵的决心。官方媒体开始了对大阅兵的宣传，这种宣传类似于2008年奥运前歌舞升平八方来朝的渲染，只是这一次效果恐怕不如08年了，老百姓已经有点疲了，知道热闹过后百姓生活依旧艰辛，国家的宴席不一定是百姓的喜庆。</p>
+<p>阅兵前，北京人的头上终于出现了一片蓝天，官媒毫不含糊地称之为“阅兵蓝”。这是政府强令停了众多企业，限制汽车出行，甚至封了乡下农民做饭的柴灶而换来的，雾霾暂时没有了。这一切，都是为了在那一天阅兵的几十分钟里，天安门城楼的上空天是蓝的。其实，只要有点脑子就不难想到，这个阅兵蓝，和奥运蓝、APEC蓝一样，是颇为丢人的事实，只是再一次提醒国际和国人，中国的空气污染、水污染和其他环境污染，是过去几十年不顾一切发展的中国模式造成的。</p>
+<p>令阅兵当局更加紧张的是维稳。中国现在是不是世界上最大的经济体，是不是最强的国家，可能还有不同的算法，但是中国有世界上最大的维稳警力，最庞大的监控系统，最完备的网络封锁和舆论监视力量，最昂贵的国内安全保障，则显然是没有异议的。习近平曾经一度发出过让人困惑的资讯，一边七不讲，不讲宪政不讲司法独立，一边高调说依法治国依宪治国，让好多善良的人心生希望，说不定习近平有以后逐渐走向开明政治的打算，现在则没有人抱这个希望了。习总书记是一个“任性”的人，打虎任性，打维权律师上访平民更任性。他当然知道，这样一来，他的宣传部门大力营造的太平盛世表像下面，不安因素多了去了。</p>
+<p>阅兵前，皇上宣布大赦，历史上这样的时候百姓要山呼万岁的。可现在的百姓闻之表情冷漠。谁都知道你连诺贝尔和平奖的得奖人都不会放，七十多岁的女记者也不会放，一边还在强拆教堂十字架，还在连夜抓捕维权律师。</p>
+<p>于是，在不惜代价制造阅兵蓝的同时，维稳维安的压力让京城鸡飞狗跳。人们在网上出示的证据披露，边疆民族地区老百姓买一把做饭的菜刀也要申请批准，颁发购买证明。与此同时，习近平在最高规格的第六次西藏工作座谈会上发表长篇讲话，以大话空话的特征，再次证明中国政府不得不承认民族地区人民痛苦而不满，政治形势紧张而中国政府拒绝改革，拿不出一个改善的办法来。</p>
+<p>从北京来的消息说，阅兵前北京实行了大清查。当局不放心的异议人士，要么监视了起来，要么配合当局外出旅游，或者外出旅游再加警察陪同监视。北京的上访人员被围截遣送回乡，满城都是红袖箍，动不动就得出示身份证，杯弓蛇影草木皆兵。车辆进京要进京证，没有进京证连加油站都拒绝加油，于是出现了司机在公路上推着汽车一步一步走出北京的镜头。</p>
+<p>中国的阅兵，继承的是纳粹德国的美学，即法西斯美学。这种美学风格的关键词是力量、胜利、领袖意志、集体、忠诚、坚决和冷酷。实现这种美学的方法和技术其实是非常简单而笨拙的，那就是重复和整齐，用大量渺小的没有个性的个体进行简单的空间和时间重复，用重复来造成一种庞大的空间外观，所谓“震撼人心的力量”就是这样来的。法西斯美学是一种集体美学，在这种美学中是看不见个体的，更看不见个体的自由意志，看不见个体的生活和生命。中国人学法西斯美学，在08奥运的开幕式上达到了毕业交卷的水平。张艺谋凡导演这样的大场景，比如《黄金甲》，都深得法西斯美学的精髓。重复、重复、重复，就是一堆垃圾也能变成黄金甲。将来的人们会把08北京奥运开幕式和1936年柏林奥运开幕式并列，在美学上这两次奥运开幕式的立意是一致的。中国人搞奥运开幕式，不可能去学伦敦奥运或者亚特兰大奥运，那种全民同乐的风格，想学也学不像的。</p>
+<p>1933年希特勒上台，1934年就搞了一次登基加冕性质的大阅兵。中国这次大阅兵，其美学风格不会超出1934年希特勒阅兵。不过，当年希特勒阅兵的时候，军队分列式走过柏林的大街，希特勒是在街上检阅军队，大街两旁挤满人群，街道两边住宅楼的窗口，挤满了人头。希特勒至少还想到与民同乐以凝聚民心。习近平倒不是不想凝聚民心，却不敢与民同乐。北京阅兵前，阅兵队伍走过的街道两旁的单位住户都已经得到通知，阅兵期间，所有人统统得离开，更谈不上在楼上窗口围观了。</p>
+<p>中国的阅兵，将是世界上独一无二的没有现场观众的阅兵。除了习近平等领导在百米以外的天安门城楼上遥望，还有李芬斯塔尔的弟子们天上地下的摄像机以外，那雄壮的、庞大的、整齐划一的、压倒一切的、不可阻挡的、机器人一般的军队方阵，是没有几个人现场观看的。</p>
+<p>中国的阅兵，学的是法西斯，却是连法西斯都不如的阅兵。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%B0%91%E5%90%8C%E4%B9%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%B2%8D%E5%BD%A4%E4%BF%83%E8%BF%9E%E6%88%98%E9%98%90%E6%98%8E%E5%AF%B9%E6%8A%97%E6%88%98%E4%B9%8B%E7%AB%8B%E5%9C%BA/" target="cdt-mirror">自由亚洲｜鲍彤促连战阐明对抗战之立场</a>
+</h2>
+<p><p>台湾的前副总统及前国民党主席连战，不顾现任总统马英九和国民党主席的劝阻以及在野党的反对，8月30日抵达北京并将出席纪念抗战胜利的天安门阅兵。中共前总书记赵紫阳的秘书鲍彤就连战到北京参观阅兵表示，不管连战认同或不同意中共主导抗战的说法，他都应该公开阐明立场。</p>
+<p>连战本周日以私人身份，在台湾桃园机场搭机前往北京，但在机场遭到抗议。台联党“青年军”抨击连战“出卖台湾”，一名成员喊出“连战就死在中国别回来了”。据报导，台联党“青年军”到场抗议不断大喊口号，并数度打断在机场接受媒体访问的连战核心幕僚张荣恭的发言，更有抗议者拿抗议白布条覆盖张荣恭，人群中竟然还飞出一只鞋子，但并未砸到张。在国民党内，包括马英九及前行政院长郝柏村等人，也都公开反对连战出席9.3阅兵。张荣恭在台湾机场接受媒体采访时，则说台湾民众期待两岸和平趋于稳定，连战此行重点要求对等及尊严，大家应拭目以待。</p>
+<p>关心两岸政治的中共前总书记赵紫阳的秘书鲍彤，本周一接受记者专访时称：“我希望连战先生也发表一个声明，说他完全认同中国共产党的历史观。我希望他也发表一个东西，要不然含含糊糊，他跑来干什么，他跑过来要么说他赞成中国共产党对抗战的解释，要么说他同意他的本党（国民党）对抗战的解释。到底是什么观点，他应该说清楚”。</p>
+<p>鲍彤说，作为国民党的前副总统，参加共产党所描述的抗战胜利70周年阅兵，民众不得不问：“所以他阐明自己的立场、观点是很重要的。对参加阅兵式的主人是很重要的，对他自己也是重要的。我看他应该表明自己的态度。他认为中国共产党确实是抗日战争的中流砥柱，他完全同意中共中央的意见，那么他可以发表这样的声明。要不然他可以说，他到中国来，并不是同意中共中央的意见，那也要发表声明啊。他不发表声明，含含糊糊跑来，我看这不是一个政治家应该采取的方法”。</p>
+<p>就在上周四（27日）。台湾的前行政院院长郝柏村发表致中共领导人的一封公开信称，抗战初期的国共第二次合作，起了很大的作用，但其领导人是国民党总裁蒋介石先生。他克服了日本诱和、汪精卫投降、国共摩擦等内忧，以及国际观望、盟友出卖等外患，坚持抗日第一、抗战到底的意志，才赢得最后胜利。</p>
+<p>郝柏村表示，由于1949年国民党失去了大陆政权，抗战历史的真相随着被隐没，甚至扭曲了。今适逢抗战胜利70周年，北京将举行盛大的阅兵，他虽不便参观，但肯定各方的纪念。他建议大陆新领导人，以更宽广的胸襟，客观公正，实话实说，探讨抗战历史真相。</p>
+<p>鲍彤说：“郝柏村将军是抗日战争幸存的几位具有最高军阶的将军之一，他提出来的几点，中共中央应该慎重考虑。我想中共中央没有一个人比郝柏村将军更有资格谈论抗日战争，没有一个人，他们都是娃娃，甚至还没有出生。而郝柏村将军当年就是在这个战场上，在蒋委员长的领导之下，指挥作战。如果不相信亲历者经过几十年的思考以后的结论，那么应该重视什么”？</p>
+<p>现年96岁的郝柏村在1938年1月20日，由于抗战形势紧张，提前毕业后，投入抗战。郝柏村对中共的建议包括联合台北、北京、日本和全球的二战历史学者，根据各方所提资料，公开研讨抗战历史真相，达成共识。重庆为抗战首都，应在当地建造抗战纪念馆，并恢复抗战胜利纪功碑，恢复各地已被拆除的抗战实景等。他认为，唯有如此，才对得起抗战烈士的英灵，才能使后代的子孙，有正确的孝义传承。这不仅无伤于中共在大陆的执政，更会赢得两岸人民的掌声，有利于两岸在九二共识基础上的和平发展。</p>
+<p>特约记者乔龙 （责编：胡汉强/吴晶）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%B2%8D%E5%BD%A4%E4%BF%83%E8%BF%9E%E6%88%98%E9%98%90%E6%98%8E%E5%AF%B9%E6%8A%97%E6%88%98%E4%B9%8B%E7%AB%8B%E5%9C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%8D%E5%BD%A4/?category=18271" rel="tag">鲍彤</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9B%BD%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">日经中文网｜中国政府封堵“中国危机”</a>
+</h2>
+<p><p>8月31日中国央行公告显示，央行今天以利率招标方式开展了短期流动性调节工具（SLO）操作，期限为6天期，规模为1400亿元，中标利率为2.35%。</p>
+<p>《日经中文网》报道，成为全球性股价连锁下挫震源地的中国正在动用一切手段来防止经济衰退。中国人民银行（央行）在一周的时间内向市场注资5000亿元。虽然在9月3日抗日战争胜利70周年纪念日这一重大节点之前股价暴跌暂时止步，但是超乎想象的经济减速仍在继续。中国政府似乎尚未无法完全封锁住“中国引发的危机”。</p>
+<p>中国央行在8月25日宣布再次降息降准，8月24~29日又通过例行公开市场操作向短期市场注资3000亿元。从这一周的注资额来看，自2014年春节前的2014年1月20～24日注资3750亿元以来，创约1年半来的最高水平。</p>
+<p>除了例行公开市场操作外，央行还在8月26、28日实施了临时短期注资，注资额达2000亿元。一周的注资额总共达到了5000亿元。</p>
+<p>在资金需求高涨的春节和年末以外的时期，单周注资额达到5000亿元的情况实属罕见。自股价暴跌的6月下旬以来，每周的平均注资额约为900亿元，与此相比，上周的注资额达到5倍以上的巨大规模。</p>
+<p>以此前的人民币贬值为导火索，人民币贬值预期升温，中国国内资金加速流向海外。如果国内资金短缺，经济很可能进一步减速。央行实施大规模注资是为了防止国内资金短缺，从而支撑起经济。</p>
+<p>中国还在严查非法的海外汇款。公安部近期宣布，要严厉打击非法向海外汇款的“地下钱庄”。据悉，公安部和央行等机构共同查获的涉案金额高达4300亿元。</p>
+<p>中国即将迎来抗日战争胜利70周年纪念日和阅兵式，之后习近平主席将访问美国，中国似乎无论如何都要避免中国引发的新的市场混乱。</p>
+<p>8月28日，美国总统助理赖斯访华，与主管外交的国务委员杨洁篪以及决定中共经济运营方针的“中央财经领导小组”办公室主任刘鹤举行了会谈。</p>
+<p>刘鹤是习近平的经济智囊团成员。会谈内容并未对外公开，但双方就习近平访美之前的股市行情和人民币贬值交换意见的可能性很大。</p>
+<p>上海股市行情能否完全止跌，仍然是一个未知数。信用交易的整理仍在继续，经济景气也明显出现恶化。8月21日，中国的财新传媒和英国的Markit发布的8月制造业采购经理人指数（PMI）速报值降至6年零5个月来的最低水平。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9B%BD%E5%8D%B1%E6%9C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%BC%BA%E5%8C%96%E5%85%9A%E5%86%85%E6%B3%95%E8%A7%84%EF%BC%8C%E5%AE%B6%E8%A7%84%E4%BB%A3%E6%9B%BF%E5%9B%BD%E6%B3%95%EF%BC%9F/" target="cdt-mirror">美国之音｜中共强化党内法规，家规代替国法？</a>
+</h2>
+<p><p>据新华社和人民日报报道，中共中央决定建立党内法规工作联席会议制度，由中办主任栗战书主持，统筹协调党内法规制定工作，推动党内法规的贯彻实施。</p>
+<p>有评论认为，建立这个机制是为了应对党内腐败日益严重和猖獗的局面，遏制更多的老虎、苍蝇出现，从而提供中共执政之合法性。那么，党内法规与党纪有何区别，又与党章有何不同？党规与国法的关系又是怎样？靠制定更多的党内法规就能拯救中共吗？</p>
+<p>明镜集团总裁何频指出，只要围绕政权稳定，中国政府什么都做，也可以什么都不做。外界如果以传统的政治和经济标准去衡量，都可能是错的；用理性思维去预测它的未来更荒谬。</p>
+<p>历史学者章立凡说，中共最高领导人已经意识到，腐败问题会影响到中共的合法性，合法性靠经济增长和政治清廉来维系，这两项目前都失败了，所以想到靠党的法规来规范。但这是没有用的，目前的体制就是自己跟自己打仗。</p>
+<p>何频认为，习近平集权有目共睹，但是他和执政党并不是想回到文革时代，虽然他们看起来有文革倾向，脑子里就是毛的东西；他们不愿意接受政治文明，因为任何政治文明因素都会让这个体制无法维持下去。</p>
+<p>章立凡指出，习近平可能成为自毛泽东以来最有权力的领导人；但是伟人不可复制；习正朝着最高度的集权努力，是否成功，也许很快我们就会看到结果，请大家拭目以待。</p>
+<p>（美国之音 雨舟）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%BC%BA%E5%8C%96%E5%85%9A%E5%86%85%E6%B3%95%E8%A7%84%EF%BC%8C%E5%AE%B6%E8%A7%84%E4%BB%A3%E6%9B%BF%E5%9B%BD%E6%B3%95%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%82%B9%E6%80%9D%E8%81%AA%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A4%AE%E8%A7%86%E6%97%B6-%E5%A6%82%E4%BD%95%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B0%A2%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">邹思聪：没有央视时 如何向全国人民谢罪？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%891.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%891.jpg" alt="央视道歉1" width="550" height="389"></a></p>
@@ -648,118 +735,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E8%BF%9E%E6%88%98%E4%B8%8D%E5%AE%9C%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5/" target="cdt-mirror">BBC｜马英九：连战“不宜参加”北京抗战阅兵</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/600x450_B1RQU6P700AN0001.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/600x450_B1RQU6P700AN0001.jpg" alt="600x450_B1RQU6P700AN0001" width="398" height="450"></a><br><em>（网络图片）</em></p>
-<p>台湾总统马英九周六（29日）重申，台湾官方的立场是，国民党前主席连战“不宜参加”出席中国大陆抗战阅兵活动。</p>
-<p>这是自连战确定将出席9月3日中国官方纪念抗战胜利70周年阅兵式以来，马英九首次就此公开发表评论。</p>
-<p>马英九周六（29日）上午到台北市议会进行国民党中常委改选投票前受访表示，关于这个问题，在过去一个星期中，陆委会、总统府的发言人都很清楚表明，“不宜参加”。</p>
-<p>他还特别强调说，“这就是我们中华民国政府的立场”。</p>
-<p><strong>各方评论</strong></p>
-<p>过去一周来，连战将参加北京阅兵式也成为台湾各方关注的一个热门话题。</p>
-<p>台湾前总统李登辉周六在出席一个论坛时也对媒体表示，连战常去中国、在中国关系很好，但是“这个问题不只是去做生意”，“（阅兵）这个问题较”，百姓的意见为何，“我不必讲，你们比我还清楚”。</p>
-<p>台湾副总统吴敦义周六接受采访时则表示，连战应邀出席大陆纪念抗战，盼望他能够坚持对史实的认定，“能够把中华民国政府主导八年抗战的史实坚定地讲出来”，才不会辜负台湾人民长期以来对政府、对连战的殷切期待。</p>
-<p>而国民党副主席郝龙斌周六也说，其父亲郝柏村和许多退役将领都讲过，“你拿中华民国的俸禄就不能去，如果你们站到中共的阅兵台上看阅兵，就应该放弃退休俸”。</p>
-<p><strong>连战回应</strong></p>
-<p>至于连战本人周六也出席了国民党中常委选举投票。不过，他到场之后只是投票，并没有接受媒体的采访，就其将参加北京阅兵式发表评论。</p>
-<p>而连战的主要幕僚之一，国民党前副秘书长张荣恭则接受采访表示，尊重和理解（台湾）政府立场。他表示，连战此行主要诉求是“两岸和平、区域稳定”，这也是全民期望。</p>
-<p>张荣恭还说，赞同副总统（吴敦义）所讲的方向。史实部分，连战会做“适当陈述”；两岸对大陆抗战史实的观点不同，若不沟通永远兜不拢，透过双边对话可以达到单边谈话达不到的目的，为两岸共同探讨史实打开新路。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E8%BF%9E%E6%88%98%E4%B8%8D%E5%AE%9C%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E5%BC%95%E6%80%80%E7%96%91/" target="cdt-mirror">法广｜天津爆炸一官员坠楼引怀疑</a>
-</h2>
-<p><div>
-<p>天津8.12大爆炸导致7名厅级官员落马，而上任一年的天津交通委员会行政审批处处长董永存被传在8月26 日坠楼身亡更引发关注。董永存的坠楼被怀疑遮掩天津爆炸的“幕后大佬”，有网民质疑是否还有更大的老虎。在滨海区新闻发布会上，有记者追问天津港到底由谁 监管，但一直未获答案。</p>
-</div>
-<div>
-<p>天津8.12爆炸事故确认的遇难人数升至145人，仍有28人失踪。中国官媒新华社昨天报道，23人因大爆炸而受到拘捕调查，包括11名厅级或处级官员和涉事瑞海公司正副董事长等12人。据无界网昨天透露，涉事的天津交通委 行政审批处长董永存26日从单位的8楼堕楼身亡。今天中国微信民生茶馆引述新闻马赛克的文章对董永存坠楼提出怀疑，疑问说，他为天津爆炸的幕后大佬掩饰什 么？搜狐新闻则刊文质疑有无更大的老虎。</p>
-<p>报道说，50岁的董永存2014年8月在新组建的天津市交委会行政审批处担任处长。此前他先后担任过天津市交运港口管理局的法规处处长和水运处处长。据他的同事说，董永存生前情绪稳定，人很正常，没有心理问题。</p>
-<p>报道还说，值得注意的是此前在新闻会上喊冤的天津港集团有限公司总裁郑庆跃也被拘捕调查。郑庆跃在记者会上不断强调天津港集团有限公司与出事的瑞海公司同在一个地方但没有隶属关系的两个公司。在新闻会上，有记者不断追问天津港到底由谁监管，但一直没有得到回答。而网上流传的一则消息说，天津港属于中央交通部管理。</p>
-</div>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E5%BC%95%E6%80%80%E7%96%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%80%81%E8%99%8E/?category=18271" rel="tag">大老虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80/?category=18271" rel="tag">官员自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%8A%B1%E6%97%97%E9%A6%96%E5%B8%AD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80%E4%B8%8D%E5%8F%AF/" target="cdt-mirror">美国之音｜花旗首席经济学家：中国经济衰退不可避免</a>
-</h2>
-<p><p>美国一位经济学家星期四表示，中国正滑入经济衰退，如果中国领导人采取刺激消费的大型财政措施有可能扭转局面，但受中国政治经济制度限制，他们不会做出快速反应，因此，中国的经济衰退将不可避免。</p>
-<p>花旗银行宏观经济学家和全球首席经济学家威廉·布依特尔星期四表示，除非中国推出大型消费驱动的财政刺激计划，中国经济进入衰退将不可避免。</p>
-<p>他表示，中国正滑入经济衰退，而中国领导人不会对此作出快速反应，导致衰退将不可避免，“他们现在并没有做好准备，尽管经济有这种急迫需求，中国领导人还未准备好。”</p>
-<p>大型消费导向刺激计划可避免衰退</p>
-<p>布依特尔也是美国外交关系协会的兼职高级研究员。他认为，“唯一有可能防止中国进入衰退的，是通过中央政府资助、中国人民银行货币化（monetized）的大型消费导向财政刺激计划。但是，他们反应会太迟，以至于衰退不可避免。”</p>
-<p>耶鲁大学经济学教授陈志武也间接呼应了布依特尔“中国经济衰退不可避免”的观点。他认为，中国除非从本质上改变现有的政治经济体制，否则将无法实现向着消费驱动发展模式的转变。</p>
-<p>“中国的发展模式之所以是投资驱动的，根本上是由中国的政治经济体制决定的。在这种体制里国家拥有的资产占主导地位，国有企业在中国经济中占主导地位。因此，当资产和企业主要由政府拥有时，大部分收入都由政府获得，而不是中国的家庭，从而使得私人消费的增长非常困难。除非国有资产和企业真正开始私有化，否则私人消费非常非常难以在中国经济中扮演重大角色。”</p>
-<p>体制不变发展模式难以转变</p>
-<p>陈志武说，这就是为什么中国提出由投资驱动发展模式转变成消费驱动已经有20多年而至今收效甚微的根本原因，“鉴于他们的政治基础，鉴于实际上中国的改革者和政策制定者无法改变政治经济体制的本质，他们能做的也就是这些。”</p>
-<p>布依特尔认为，中国经济衰退将会拖累世界经济增长低于2%。但是他认为“并非每个国家都会进入衰退，美国就可能避免。但每个国家都将受到负面影响。”</p>
-<p>中国总理李克强一直表示，中国有能力和信心今年实现GDP增长7%。但布依特尔说，中国实际上的增长率“可能接近4.5或者还不到。”</p>
-<p>中国经济的真实增长率一直是个谜。2007年，李克强在担任辽宁省委书记的时候曾表示，中国的GDP增长数据是“人造的不可信”。</p>
-<p>政府处理宏观经济能力被质疑</p>
-<p>布依特尔说，“中国经济的问题是企业使用金融杠杆过度，不仅国有企业，包括地方政府，以及非常脆弱的银行系统，虽然由政府支持，有强大能力，但资本支出回报率极低，投资为GDP的50%，但即便是官方数字增长率也只有7%。”</p>
-<p>六月以来中国股市出现了两次暴跌，彭博新闻说，两个月内相当于5万亿美元的市值蒸发了。</p>
-<p>布依特尔说，中国政府应对股市巨幅震荡的顺序，先是像啦啦队一样推高股市，在一年时间里让股市市值增加一倍以上，试图让企业无痛摆脱债务。但暴跌之后又乱用货币政策，以政策指导银行处理财政事务，从而“出现了对政府救市能力的质疑。重要的是政府管理宏观经济的能力确实成了问题。”</p>
-<p>中国股灾只是小事件</p>
-<p>他认为，中国股市危机只是个小事件，“消费会受影响，财富会受影响，在中国几乎没有资本支出是通过发行股票（share issuance）获得的，因此，这是政策失败，并没有经济上的重大意义。”</p>
-<p>陈志武也认为，中国股市危机并不构成对中国社会和世界经济的重要性。“中国的股市不仅对中国经济而且对中国的金融系统都不过是小问题，因为中国超过80%的金融资源在中国的银行里面，只要中国的银行系统是稳定的，股市对经济的影响不会很大。”</p>
-<p>陈志武认为，中国股市的震荡反映的是中国经济体制的问题。他预计，“在更具挑战的经济危机确实出现之前，中国政府将在未来两年里还会继续挣扎。”</p>
-<p>两位专家是在美国外交关系协会星期四为中国股市和经济前景对世界的影响的电话会议上作上述表示的。</p>
-<p>李克强总理处境困难</p>
-<p>美国之音记者就最近英国金融时报报道中国政治圈内最近盛传李克强总理要对中国股市震荡和经济减缓负责的说法提问。对此，陈志武做了如下评论：“这篇文章非常有趣，我要说击中了目标。李克强总理现在的处境非常困难。当然我要说，他在19大前下台是可能性不大，也就是说，他会继续在总理位上至少2年半。但是很显然，每一个人都知道，股市麻烦和其它问题是与李克强总理直接相关的。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%8A%B1%E6%97%97%E9%A6%96%E5%B8%AD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80%E4%B8%8D%E5%8F%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E5%8E%86%E5%8F%B2%E7%BB%88%E7%BB%93%EF%BC%8C%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E8%82%87%E5%A7%8B/" target="cdt-mirror">旧闻评论｜南方系：一种历史终结，一种现实肇始</a>
-</h2>
-<p><p>【编者注】微信公号原文已被和谐，以下内容来自 <a href="http://chuansong.me/">传送门</a>。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/image3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/image3.jpg" alt="image" width="500" height=""></a></p>
-<p>文／宋志标</p>
-<p><span>【题图当代水墨《跑步机》，作者新浪微博：@秃头倔人】</span></p>
-<p>一份广东省纪委网站刊布的南方报业集团上报材料，引起了坊间巨大关注。截至8月28日18时，这份24日写就、名叫《<a href="http://gdjct.gd.gov.cn/xunshizhenggai2015/31829.jhtml">中共南方报业传媒集团党委关于巡视整改情况的通报</a>》，已经获得了28059次浏览量。对于省纪委官网来说，单篇点击量想必是奇高的。</p>
-<p>这么高的点击量绝大多数应该来自于社群媒体的导流，实际上，这份报告的某些章节的截屏遍布朋友圈——与转发形成对比的是，评论反倒稀少。这一方面是因为说无可说，南方报业的式微已然是业界共识，另一方面是内有亲朋，不忍外加压力，不忍评论。</p>
-<p>也就是在这个报告成文前后，听闻新闻学生谈论南方，除了缅怀历史，对其现状依旧是不明所以的多。两三年来，南方报业遭遇了密集的办报挫折，它从一家受人敬仰的报团，现在变成了什么？它的削减与增量分别是什么？这对于明辨是非，镜鉴将来，未尝没有用。</p>
-<p>回到这份报告上来，其缘起是去年发生的群众路线教育实践活动，以及相伴而生的低烈度整风。纵观南方报业的这个报告，除了针对整风要求做出了说明，其重点是为两年多来的舆论导向做了总结说明——换言之，这是南方报业对13年初事件以后的现状所做的汇报材料。</p>
-<p>在这一立意之下，可以看到党管媒体原则贯穿在报告的始终，并且按照党管干部、党管媒体、党管导向组织报告的结构，强调党委对南方报业的绝对领导，从南方报业的角度，袒露心迹，献上整改方案，设计稳定整改成果。这是南方报业为了求得信任而敬呈的投名状。</p>
-<p>在这样的行文原则下，该报告严格遵守公文书写的界限，根据整改的暗线，对应呈上整改过程的明线。尽管读上去完全没有文采，完全体现了行政文书的呆板面目，但在规定动作下，一切自选动作都不会允许存在。该报告的枯燥文本与浏览者的好奇探寻形成了对比。</p>
-<p>人们在谈论南方、南方报业、南方系这些概念的时候，所指的方面其实很不一样。有必要说明的是，“南方”指的是以南方报业集团为代表的南中国媒体势力，南方报业指的是《南方日报》及其子报系组成的报业集团，而南方系是指环绕南方报刊所形成的同人群体。</p>
-<p>也就是说，当面对南方报业这个话题时，人们要在三个层次上做出厘清与界定：一是作为“党的机关”的南方，二是作为汇集市场化先锋报刊的南方，三是作为同人群体的南方。很久以来，在谈论媒体机构时多指第二种，谈新闻理想时所指代的是第三种。</p>
-<p>这样的划分，也是理解这份巡视整改汇报的枢纽。纵览报告全文，不难看出，现时南方报业的剧变主要体现在三个方面：党的机关属性被强调并占据中心地位，成为办报的指引；市场化集群的南方面临崩解，无力回天，已然难副其实；同人群体的基础已然解体，不复存在。</p>
-<p>三个面向的“南方”，所对应的现实即使“整改”，也相当不稳定。简单说，作为“党政机关”，实力薄弱，所赖以存在的媒体影响力日薄西山，尤其是在一种重新获取信任的进程中建立机关地位，难上加难。其中涵义，可以概括为南周创始人左方的自传名：《钢铁是怎样炼不成的》。</p>
-<p>在这份报告中，作为市场化集群的南方自然不是重点，但是从零星的涉及状况看，原本支撑起南方传媒江山的市场化子报系，气数接近完结。在报告中，这些曾经为南方赢得荣誉与利益的市场媒体，处在极其边缘的位置，被排斥，甚至被暗示为乱源，这不公平却符合需求。</p>
-<p>至于同人群体的南方，已经在报告中不见踪影。但是对机关属性的强调，实际上可以看出是对同人办报氛围的围猎，是对包括但不限于编辑记者在内的同仁群体的恐惧与远离。同人群体作为建立在新闻专业主义前提下的集合，已然结束了其在南方大院的历史使命。</p>
-<p>显然，市场化媒体的子报系与同人办报的小环境，已经不合289号大院的时宜了。然而问题在于，一个巨型的南方报业，从前即依赖这两种因素构筑业界影响与市场盈利，而今以政治化的理由强行剥离，必然引发震荡，而重建喉舌机关的努力势必失去重心。</p>
-<p>十多年来，南方报业之所以被尊崇为新闻的“黄埔军校”，根本原因与其机关属性毫无关系，无非是子报系的同人办报（刊）所积蓄的同人群体使然。随着南方报业骨干核心力量的大规模跳槽离职，同人群体在南方以外的江湖重新凝聚，这是南方历史终结的浅显之意。</p>
-<p>巡视整改要将南方带到哪里？以现时的情势观之，很难有一个历史性的筹划。即使放在《南方日报》的历史上看，该整改报告也显得相当突兀，领党报改革风气之先的南方日报，自此泯然众人矣。更不要说，这份报告本无未来设想，穷尽招数在现实中萎缩。</p>
-<p>在报告中有两点值得一说，一是舆情中心，二是审读挂职。舆情中心预警社会事件，为处置赢取时机，是被写进成绩里的。这个强调向外界传达的信息相当直接，从一个铁肩挑正义的传媒集合，掉头成为压制的先导，在“喉舌”里伸出“手”来，外界对如此大的转向难免咋舌。</p>
-<p>诡异的是，以舆情监测的积极性来讲，南方是不难发现南粤清风网上自家这份报告被高密度浏览的情况，或许也有“预警”呢——可报告就那么挂着那里，不生不死。这在一定程度上对舆情生意及其常被夸大的效果，做出了某种嘲讽，当然这是另外一个话题。</p>
-<p>让领导放心，一旦成为办报所追求的压倒性目标，其“向后转”不仅令外界改变看法、改换态度，其效果已经同纸媒衰落叠加，也就是说在效率上愈是政治上往后退，在经济上愈是崩盘得越迅猛。巡视整改的报告是要断舍离，但其所断舍离的恰恰是其立足的血脉。</p>
-<p>上述南方的三个面向，本是一个中国特色的办报症候群。机关属性提供身份掩护，市场媒体供应社会盈利，同人群体赢得价值扎根。除了南方之外，现今尚能让气象苟延残喘的，莫不如是。南方的整改报告，将一时急需生造为剥除灵魂与身躯的动因，结果不难预料。</p>
-<p>很多人都在谈论一个问题：南方是否已经终结？若以市场媒体的先锋影响，以及同人群体的孔雀北飞衡量，南方作为印刷时代的现象级媒体，自然是历史的终结了。但是从整改报告的动机看，南方试图嫁接机关属性的历史刚刚开始。终结与肇始擦身而过，报告是为证据。当然，南方历史的终结，将其重要性封存；而肇始的这些，已经完全不重要了。</p>
-<p>2015/8/28</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E5%8E%86%E5%8F%B2%E7%BB%88%E7%BB%93%EF%BC%8C%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E8%82%87%E5%A7%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">南方日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -771,7 +746,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1c25hhq3jhonp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d359i3iwbv7kgy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -781,5 +756,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://d1c25hhq3jhonp.cloudfront.net">https://d1c25hhq3jhonp.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/></td>    </tr>
 </table>

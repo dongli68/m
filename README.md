@@ -45,7 +45,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%B2%8D%E5%BD%A4%E4%BF%83%E8%BF%9E%E6%88%98%E9%98%90%E6%98%8E%E5%AF%B9%E6%8A%97%E6%88%98%E4%B9%8B%E7%AB%8B%E5%9C%BA/" target="cdt-mirror">自由亚洲｜鲍彤促连战阐明对抗战之立场</a>
 </h2>
@@ -734,7 +734,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -746,7 +746,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32aoep1a8v7ro.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1p6rdai1j60v4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -756,5 +756,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/></td>    </tr>
 </table>

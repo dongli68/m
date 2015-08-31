@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddqpgzdeqfwtr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3hgk6wuyapfl3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E7%81%B5%EF%BC%9A%E4%BA%BA%E9%80%A0%E4%B8%9B%E6%9E%97%E4%B8%8E%E8%87%AA%E7%94%B1%E5%B8%82%E5%9C%BA-%E8%AF%84bbc%E3%80%8A%E4%B8%AD%E5%BC%8F%E5%AD%A6%E6%A0%A1%E3%80%8B/" target="cdt-mirror">风灵：人造丛林与自由市场——评BBC《中式学校》纪录片</a>
@@ -137,7 +137,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%A5%9E%E8%AF%9D%E4%B8%8D%E5%86%8D%EF%BC%8C%E5%8D%B1%E6%9C%BA%E9%87%8D%E9%87%8D/" target="cdt-mirror">信报｜中国模式神话不再，危机重重</a>
 </h2>
@@ -761,7 +761,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3hgk6wuyapfl3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddqpgzdeqfwtr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -771,5 +771,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/></td>    </tr>
 </table>

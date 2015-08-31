@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ia6yt07wp62m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/" target="cdt-mirror">金融时报 | 据称中国决定放弃大规模购股</a>
+</h2>
+<p><p>据高级官员透露，中国政府决定放弃通过大规模购股提振股市的努力，接下来将加大努力调查和惩处那些涉嫌“扰乱市场”者。</p>
+<p>在过去两个月里，由中国的国有投资基金和机构组成的一支“国家队”斥资约2000亿美元，试图提振一个自6月中旬峰值以来下跌37%的市场。</p>
+<p>但高级监管官员上周四在一个会议上发言时表示，中国领导人觉得他们对救市努力的宣传方式处理不当，让过多信息公诸于众。英国《金融时报》看到了该会议的记录。</p>
+<p>上周的股市暴跌在一定程度上归咎于有关部门不再实施今年7月以来的购股举措。上周中国股市暴跌引发了全球市场的抛售潮。</p>
+<p>在旁观一个多星期之后，中国政府在上周四收盘前最后一小时再次大举购股，帮助上证基准指数从小幅下跌，到收盘上涨逾5%。上证综指上周五进一步飙升近5%。</p>
+<p>交易员和官员们表示，最新干预的目的是在本周四（9月3日）纪念“中国人民抗日战争胜利70周年”阅兵仪式前提供一个“积极的市场环境”。</p>
+<p>高级金融监管官员们坚称，这是下不为例之举，政府将避免进一步大举购股。</p>
+<p>中国有关部门正计划将注意力转向调查和惩处据信利用国家救市努力牟利的个人和机构。</p>
+<p>上周，中国证券监管机构召集来自19家券商、交易所和政府控制的行业协会的最高官员，要求他们加大对市场的监督。</p>
+<p>中国监管机构表示，22起内幕交易、市场操纵和“散布市场谣言”案件已被移交警方。上周二，在中国股市在4个交易日里下跌22%之后，警方拘捕了11名涉嫌从事“非法市场活动”的人士。他们包括中信证券(Citic Securities)的8名经理。中信证券是中国最大的投资银行之一。</p>
+<p>一些官员强烈主张打击“外国势力”，称这些势力故意扰乱市场，这是一个让在华开展业务的全球投资者感到担忧的迹象。</p>
+<p>香港一位对冲基金经理表示：“全球投资者正在倾听这种报复性语言，并观察这种疑神疑鬼的动向，他们正在努力理解，这对自己意味着什么。”</p>
+<p>译者/邹策</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%99%E7%AB%9E%E7%9B%B8%E4%B8%80%E8%B7%AA/" target="cdt-mirror">【图说天朝】这竞相一跪</a>
 </h2>
 <p><p>@石扉客2014 ：河北警察屈膝，令人几度无语。这竞相一跪，将警队超级强大又相当脆弱的权势，媒体不应缺位又胆战心惊的监督，公众无所不在又不辨方向的愤怒，小职员的满腹委屈与本能计算，底边弱的扑倒尘埃与茫然无措，扑通几声跪成了一团乱麻一包浆糊，催生着一团团七窍生烟又无处发作的暴烈情绪。</p>
@@ -699,34 +722,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA-%E5%A4%A9%E5%9B%BD%E4%B9%8B%E7%A7%8B%EF%BC%9A%E4%B8%87%E9%87%8C%E9%95%BF%E5%9F%8E%E6%B0%B8%E4%B8%8D%E5%80%92%EF%BC%9F/" target="cdt-mirror">经济学人 | 天国之秋：万里长城永不倒？</a>
-</h2>
-<p><p>原文来自 The Economist 最新一期（8月29日刊）封面文章<a href="http://www.economist.com/news/leaders/21662544-fear-about-chinas-economy-can-be-overdone-investors-are-right-be-nervous-great-fall" target="_blank"><em>Financial markets: The Great Fall of China</em></a>。我明白这里的 fall 应无”秋天”义，但还是自作主张延伸了一下。</p>
-<p><strong>翻译：越越</strong><br>
-转发随意，转载请联系微信公众平台<strong> @尔乃戎狄</strong>，二维码见文末。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/438877-a9f8b5dfb94ad43d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/438877-a9f8b5dfb94ad43d.jpg" alt="经济学人8月29日刊封面图" width="400" height="560"></a><p>经济学人8月29日刊封面图</p></div>
-<p>担忧中国经济也许是多虑了。但是投资者感到紧张是对的。</p>
-<p>曾经，交易员们会坐在交易所的地上大叫大嚷，为金融市场的崩盘装点配乐。如今，因为买卖双方都靠算法来撮合了，更有可能出现的情况是默默无言的数据中心服务器嗡嗡作响。但是，每下一笔卖空大单，那种蔓延全身、发自肺腑的恐惧是一样的。急切想要卖出的心情，完全压倒了“等待反弹”的提议。</p>
-<p>中国股市遭遇2007年以来最大单日跌幅后，投资者们又开始胃绞痛了；即使是中国的官媒也把8月24日称为“黑色星期一”。从兰特（译者注：南非货币单位）到林吉特（译者注：马来西亚货币单位），新兴市场货币纷纷跳水。期货价格跌落至99年以来都未曾见过的水平。它还像传染病一样蔓延到了欧洲市场。德国DAX指数相比于峰值回落超过20%。美股遭遇双重打击：通用电气一度跌幅超过20%。</p>
-<p>发达国家市场目前恢复了部分平静。但是仍有三件事值得忧虑：中国经济深陷泥沼；新兴市场可能遭遇一场全面危机；以及发达国家市场漫长的价格回升已经走到尽头。这些担忧有些方面夸大，有些方面错位，但即使如此，本周的恐慌还是透露了一条让人不安的信息，世界经济的痼疾是真实存在的。</p>
-<p><strong>先开溜，再问为什么</strong></p>
-<p>股价不断跳水的中国是此次传染病的源头。本月早些时候人民币贬值以来，全球股市蒸发了约5万亿美元。这一变化，加上一系列并不好看的经济数据，以及官方拙劣的救市手段，加剧了人们对全球第二大经济体经济硬着陆的担忧。出口一直在萎缩。股市相比于6月最高点已下跌逾40%，比互联网泡沫破灭时期的跌幅更大。</p>
-<p>但是末日理论的人们担心过头了。对中国经济来说，房市远比股市重要。房地产撑起了四分之一的GDP，也正是它的价值支撑着银行系统；过去几个月里，房价和交易量都很健康。中国的未来依赖于它的消费者而不是出口商，而服务、收入以及消费是富有弹性的。如果最坏的情况发生了，央行有足够的政策宽松空间。本周利率下调以后，一年期利率仍旧保持在4.6%。经济增速放缓，但即使按最保守估计，今年只增长5%，中国带给世界总产出的增长，也会比2007年中国公布的14%要多。</p>
-<p>中国并没有陷入危机。不过，它从指令型经济平稳过渡到市场经济的能力遭受到了前所未有的质疑。中国的政策制定者过去因其能力饱受赞誉，这一点曾令他们跛腿的欧洲同行万分羞愧。这一名声却在他们糟糕透顶——而且断断续续的——救市行动中受损。更糟糕的是，改革计划也许会成为政府对自由市场恐慌的受害者。中共想要提升国企的效率，却又不愿意让它们接受竞争的全面冲击。这就像既想给人民币多一点自由度，又担心走弱的人民币会引发资本外逃。它认为地方政府应该被更加严格地管束，但是又顶不住经济增长的需求，让它们肆意扩张信用。</p>
-<p>对中国的担忧也加深了我们的第二层忧虑——那就是新兴市场可能会重新上演1997-98年的亚洲金融危机。相似性是存在的：由于美国货币政策紧缩的前景，新兴市场资本显著外流。但是亚洲金融危机的教训已经被大家牢记在心了。很多货币已经不再是固定汇率了而是自由浮动，大多数亚洲国家拥有大量外汇储备和现金账户盈余。他们的银行系统不再像以前那样依赖于国外债权人了。</p>
-<p>如果这一层忧虑是杞人忧天的话，其他就未必了。一个增速放缓的中国拖累了靠挖掘铁矿石、煤和铜矿起家的新兴市场(农业出口相对还好），如巴西、印度尼西亚和赞比亚。从现在起，中国创造的需求会更偏向对服务的需求——这些需求国内商家就可以填满。过剩的供给还会因为其他原因打压期货价格。比如，原油期货价格受挫，就反映了沙特阿拉伯的增产以及美国页岩气生产的弹性。不断贬值的货币加重了新兴市场上以本国货币结算收入、以美元结算债务的企业的负担。更加根本的问题是，新兴市场的增速从2010年起就一直在放缓。从巴西和俄罗斯开始，一些国家就浪费了启动改革、提高生产率的机会，陷入泥潭。印度也是如此，并因此付出高额代价。</p>
-<p><strong>牛市已显衰态</strong></p>
-<p>发达国家是最不需要担心中国放缓增速的。美国上一年对华出口占GDP比重不到1%。但是也不能说它们就是完全免疫的。欧盟经济的发动机德国，其对华出口比欧盟任何成员国都要多。股价也是脆弱的，因为最大的企业都是全球化的：标普500指数2014年的交易中，48%都是国外企业，而且，相对于其贸易伙伴的货币，美元正在升值。除此之外，2009年以来的持续牛市造成了高于长期均衡的市盈率。股价倘若暴跌，就会影响到实体经济。</p>
-<p>如果上文说的情况真的发生了，本周发生的事件就再次向我们强调：西方的政策制定者们已经没有多少刺激经济的手段了。美联储九月的加息可能是个错误，因为它给了市场并不明智的预期。其他中央银行也负有责任。从新兴市场出逃的资金也许想流向美国的消费者，从而导致更多的家庭借贷和危险的——同时也是我们熟悉的——经济扭曲。所以欧洲和日本应当继续宽松，刺激需求。</p>
-<p>货币政策只不过是刚刚开始。西方乃至全世界面临的更加艰巨的任务，是提高生产率。足够的信贷规模和一往无前的中国速度让世界高速运转了数年。现在，能否增长取决于政府是否可以在每一件事上——从金融改革到基础建设投资——做出艰难抉择。这是我们从中国的恐慌中学到的惨痛教训。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA-%E5%A4%A9%E5%9B%BD%E4%B9%8B%E7%A7%8B%EF%BC%9A%E4%B8%87%E9%87%8C%E9%95%BF%E5%9F%8E%E6%B0%B8%E4%B8%8D%E5%80%92%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -738,7 +733,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ia6yt07wp62m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d321gma0l2afjg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -748,5 +743,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/></td>    </tr>
 </table>

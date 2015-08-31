@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d38rx7ld7v9bh4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3hgk6wuyapfl3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d296n20o65bbgn.cloudfront.net">https://d296n20o65bbgn.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d296n20o65bbgn.cloudfront.net">https://d296n20o65bbgn.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5-%E5%AF%B9%E5%B2%B8%E4%B8%BA%E4%BD%95%E4%B8%8D%E9%A2%86%E6%83%85%EF%BC%9F/" target="cdt-mirror">墙外楼｜笑蜀：北京抗战阅兵 对岸为何不领情？</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64013-458x1024.jpg" alt="640" width="458" height="1024"><br>
+9月3日是中国法定的抗战胜利日。北京高调宣布，为纪念抗战胜利70周年，将于9月3日阅兵。北京以往十四次阅兵，均选择10月1日即中共建政日，抗战胜利日一直被冷落。就时间点的选择而言，“九三阅兵”或称亮点。北京还宣布，“九三阅兵”将邀请国军抗战老兵参加。以往纪念抗战胜利，都没国军什么事儿，所以这也算一个亮点。</p>
+<p>可惜，对岸的中华民国政府不领情。其国防部发言人6月23日声称：中华民国政府主导八年抗战的事实不容扭曲。</p>
+<p>7月4日，中华民国政府在台湾新竹举行了自己的抗战纪念阅兵，总统马英九在阅兵讲话中强调：历史真相只有一个，8年抗战是中华民国政府主导的，抗战胜利是蒋介石委员长领导全国军民奋斗的成果，不容任何人窜改和扭曲。</p>
+<p>前行政院长郝柏村，近日更断然拒绝北京阅兵观礼邀请，并借香港《明报》发表公开信，向中共高层喊话：“德法本为世仇，现为欧盟合作的主体，难道我们要把蒋毛的宿怨，世世代代流传下去？”认为唯有还原真相，北京抗战阅兵才可能锦上添花。</p>
+<p>两岸抗战争议</p>
+<p>一个抗战，两种表述。“九三阅兵”的种种亮点非但没有缓解两岸的积怨与对抗，反而激化了积怨与对抗。原因何在？</p>
+<p>两岸抗战史最大的争议，是对国共抗战功过的争议。中国官方最权威的说法出自毛泽东，即中共一直中流砥柱，国民党则躲到峨眉山上“一担水也不挑”，消极抗日，积极反共，抗战胜利才急着下山摘桃子。</p>
+<p>这说法写进了毛时代的历史教科书，家喻户晓，代代相传。但它显然不合史实。仅举一例：位于南京的中国第二历史档案馆两个月前公布的２０万份抗日阵亡将士档案，全部是国军将士的档案，中国官方迄今拿不出一份较大规模的中共抗日阵亡将士的档案。</p>
+<p>这不奇怪，抗战主力本来就是领导合法政府的国民党。八年抗战期间，国军阵亡将领二百余人，作战伤亡及病亡总计365万余人，毁机2468架；海军舰艇全部打光……。</p>
+<p>国军牺牲最大，贡献也最大：总共击毙日军48万人，包括日本将官129人。而据侵华日军总司令冈村宁次回忆，中共军队击毙日军总计不过5万人，击毙日军将官仅阿部规秀一人。</p>
+<p>即便根据中共的宣传，到抗战胜利时兵员总数占全国三分之一的中共军队，八年抗战伤亡总计也不超过60万人，仅及国军六分之一。对比国军，其牺牲和贡献都不成比例。</p>
+<p>国民党的愤怒也就不言而喻。如果北京尊重历史，九三阅兵是个机会。趁此还原真相，承认国民党主导抗战，中共处于辅助地位，无疑是对抗战最好的纪念，不仅国民党服气，日本人也不得不服气，全世界都会服气。但就北京目前的表现看，这一设想不切实际。北京回归真相，两岸在抗战史上和解，为时尚远。</p>
+<p>北京的气度</p>
+<p>可资印证的另一个信号，是北京对国军抗战老兵的态度。固然九三阅兵有国军抗战老兵参加，但北京一直刻意回避的是，大陆的国军抗战老兵几乎每人都有一本血泪账，在整个毛时代，他们都是政治贱民“地富反坏右”的一部分即“历史反革命”，不仅本人饱受迫害，而且株连九族。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNtA81IU8AAOmHH.jpg" alt="CNtA81IU8AAOmHH" width="440" height="586"></p>
+<p>但对这大规模的迫害，北京迄今没有一声道歉，遑论国家赔偿。今天因统战需要，对国军抗战老兵召之即来，无非基于政治实用主义，缺乏对历史负责任的态度和人道关怀。</p>
+<p>北京九三阅兵，不仅如通常说的那样，是向全世界尤其向日本秀肌肉，炫耀大国崛起的自豪，同时也想展示所谓软实力，才刻意安排了一些亮点。但这些亮点终究不过是技术性的，在根本问题即抗战领导权问题上，北京仍严防死守。郝柏村的国共抗战功绩论，即因为跟中共中流砥柱之说冲突，曾招来北京一位少将的痛斥。</p>
+<p>党的伟光正形象不容动摇，这是北京的底线，也是北京的自我绑架。北京纪念抗战70周年，口号之一是“珍爱和平”，但和平的前提是和解，如果不敢面对真相，没有跟历史和解的勇气，谈何和平？徒然刺激对抗而已。</p>
+<p>九三阅兵不仅无力改变这一现实，反而更烘托一党之私。本来，抗战是国家的抗战，民族的抗战，国家和民族才是第一位的。但迄今为止，北京的宣传口径，对抗战纪念及阅兵主持人习近平的介绍，仍只提中共总书记的身份，不提国家主席的身份，而国家主席才是他的最高身份，才最适合抗战纪念。</p>
+<p>政党必须忠诚于国家、服务于国家，是现代政治伦理的基本原则。但即便在抗战纪念这样的场合，也只有党没有国，党淹没国，违反起码的政治伦理。</p>
+<p>北京如此气度，如何让人服气？何来软实力可言？如果缺乏软实力，只靠拳头，九三阅兵展示的所谓大国崛起，又如何不让人惊惧？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5-%E5%AF%B9%E5%B2%B8%E4%B8%BA%E4%BD%95%E4%B8%8D%E9%A2%86%E6%83%85%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%A5%9E%E8%AF%9D%E4%B8%8D%E5%86%8D%EF%BC%8C%E5%8D%B1%E6%9C%BA%E9%87%8D%E9%87%8D/" target="cdt-mirror">信报｜中国模式神话不再，危机重重</a>
+</h2>
+<p><p>中国“暴力救市”失败，人民币“暴力贬值”后又引发亚洲货币贬值潮，所谓人民币迈向市场化的正常调整，也不足以说服欧美操控的国际货币基金组织（IMF）让人民币提前加入SDR（特别提款权），从而在国际上增加人民币的需求，有助加速人民币国际化的步伐；连习近平经济学主轴的“一带一路”国际发展战略亦可能因中国制造业日渐掏空和进出口贸易萎缩势将成为国际大白象工程而令人却步；加上南北韩局势突趋恶化，剑拔弩张，战争一触即发（编按：香港时间24日晚11时55分两韩结束马拉松式会谈，达成协议，平壤解除准战时状态）；习近平在天津大爆炸哀鸿遍野下仍然一意孤行，搞什么扰民伤财的70周年抗战惨胜大阅兵，穷兵黩武，客观效果只会增添邻近国家和地区对曾经声称“和平崛起”的中国霸权疑虑，一切负面因素骤然而至，全球金融市场又岂能不翻江倒海，跌个七零八落，四脚朝天？</p>
+<p>“黑天鹅”虽已出现，但世界还不至走向末日。可以肯定的是，“中国模式”已经破产，“中国道路”前景黯淡，荆棘满途，说明世界经济从来没有所谓de-coupling这回事。在全球一体化下，世界资本主义生产模式依然主宰一切，只是在不同时期，因着不平衡发展，各领风骚十数年而已。</p>
+<p>中国的基础工业薄弱，社会科学院的研究报告也承认落后西方先进国家至少100年，30多年来的改革开放，中国的经济神话全靠人口红利、廉价土地和（后期）国家投资，但以加工出口贸易为主的工业，并没有为中国建立自己坚实深厚的工业基础，一个国际知名的品牌如日本的新力、乐声、南韩的三星也没有，与人口只有8000万、但能诞生2300个世界品牌的德国相比，更是瞠乎其后，足令国人羞愧。</p>
+<p>去年中国经济规模超越日本成为全球第二大经济体系，不少见风驶舵只看表面的所谓经济学家，誓言中国最快可于10年内超越美国。如今看来，固然是井蛙之见，更说尽苍生，因为盲目看好中国以至鼓励资金人才内流大陆，不但教人焦头烂额，得不偿失，也有违趋吉避凶之道。</p>
+<p>30年来一直看好中国经济的张五常5年前已开始转趋悲观，看淡中国前景，主要是中国的经济体制改革停滞不前，甚至有倒退的迹象。张五常是新制度经济学派的巨擘，主张自由经济，当然认为全面开放、取消外汇管制、人民币与一篮子商品挂钩和私有产权彻底落实，可以进一步解放中国大陆的生产力，有利中国经济持续发展。</p>
+<p>不过，自认不谙政治的张五常，看不到中国经济的潜在危机，不是资本主义生产模式典型的生产过剩（Over-Production）和消费不足（Under-Consumption），而是权贵官僚资产阶级已在中国形成，根深蒂固。中共搞的既不是资本家/企业家可以自由竞争的市场经济，反而是以官商勾结、寻租活动为主的特权经济，不断扼杀私人企业的生存空间；又不是搞以保障全国普罗百姓权益的社会主义市场经济，而是任由广大人民备受垄断市场的国家官僚资本和私营企业加重剥削。</p>
+<p>如今为了“暴力救市”，还动用人民养老保命的社保基金入市，担沙塞海，完全无视客观的经济法则，数十万亿元财富大量消灭后与制造业和零售消费萎缩，势将导致失业人口暴升的中国，其反映前景的股市（上证指数）现时只值2000点左右，根本无可救药。不顾后果的连串量化宽松措施，已使广义货币M2的供应暴增至140万亿元，人民币的真实货币价值，与人为操控的官价大有距离，如不贬值，早晚也会催生黑市。最荒谬又真实的是，主掌财金政策的官僚口是心非，身体最诚实，一边说人民币仍是强势货币，一边就让资金外逃，货币供应愈多，流走的资金只会愈快愈急。</p>
+<p>在某个意义上，中国的经济危机是自己制造的。“暴力救市”失败，无关市场参与比份微不足道的外资，而是国家资金支撑的内地金融大鳄；人民币“暴力贬值”亦是滥发货币和财金官僚急欲加入IMF取得特别提款权的结果；资金外流更不用说，还不是红色官僚资本春江水暖鸭先知？</p>
+<p>要救中国不是没有办法，但要用怪招。左的方法是继续印钱，或向富裕阶层征收重税及将反贪腐充公的资金以由下至上累退比例分给全国人民，人人有份，必定可以增加消费，刺激内需和投资，撑住股市，持续经济发展。右的就是取消打贪，全国恢复黄赌毒，制造就业，刺激经济，解决势将出现的庞大失业问题。但两个办法都违反以红二代为核心的统治阶级之既得利益，即使成效显著，肯定也不会采用。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%A5%9E%E8%AF%9D%E4%B8%8D%E5%86%8D%EF%BC%8C%E5%8D%B1%E6%9C%BA%E9%87%8D%E9%87%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%81%93%E8%B7%AF/?category=18271" rel="tag">中国道路</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/" target="cdt-mirror">金融时报 | 据称中国决定放弃大规模购股</a>
 </h2>
 <p><p>据高级官员透露，中国政府决定放弃通过大规模购股提振股市的努力，接下来将加大努力调查和惩处那些涉嫌“扰乱市场”者。</p>
@@ -669,59 +724,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/" target="cdt-mirror">方式书简 | 习近平前妻评习：他不是一个理想主义者</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB.jpg" alt="习近平前妻" width="450" height="395"></a></p>
-<p>《英国侨报》前身为2002年开始发行的《新欧侨报》，始为半月刊，旨在为旅英华人提供信息，为华人社区服务。2009年7月，《新欧侨报》更名为《新欧华报》，并改为周报，旨在更广泛、更全面地服务随新移民不断增加而结构发生变化英国华社。</p>
-<p>文章系供学“习”转载，不代表方式书简（ID：fangshishujian）立场。</p>
-<p>1951 年出生，64岁的柯小明（柯玲玲）是原中国驻英大使柯华的小女儿，她也是习近平的前妻。受过良好教育的柯玲玲，目前她是伦敦一家私立医院的高级主任，也是伦敦大学亚非医学院的客座教授。她在近日接受了英国《侨报》的采访。</p>
-<p>1979年柯玲玲与习近平结婚，因为价值观与性格的不同，1982年，她与结婚三年的习近平离婚，移民英国。而那时的习近平正竞选正定县委书记，习近平毅然放弃了与柯玲玲一同移民英国的机会，并指责柯玲玲贪恋西方繁华。经多次劝说让习近平移民无效，两人最终分道扬镳。</p>
-<p><strong>“与习近平离婚，你觉得后悔吗？”</strong></p>
-<p>柯：“在那个年代，离婚其实是一件非常重要的事情，我和习近平的婚姻很短暂，很重要的一点就是我们几乎没有共同点，谈不上什么后悔不后悔的。他以前是一个很执着的人，想干一番大事业，反正好像我说的话他都听不进去，所以我才选择了离婚这条路。距离不可能让我们产生现实的婚姻和感情。当时我的父亲是非常反对的，他总是认为我做事很鲁莽。”<br>
-“你们之后有联系过吗？”</p>
-<p>柯：“在我去英国的前三年里，他几乎每周都打电话给我，你知道那个年代从中国打电话到英国是不方便的，中国还没有普及电话，条件不比现在，但是我一个电话都没有接听过，这让他非常伤心。我知道他也曾经试图挽回这段婚姻，我当时是铁了心了。久而久之，我们也就没有什么联系了。我知道他心里还是有这份感情的。”</p>
-<p><strong>“ 你当时会想到习近平会成为中国的领导人吗？”</strong></p>
-<p>柯：“没有，完全不会这样去想。他成为中国国家主席，我是非常替他高兴的，因为我离开他的时候，他还只是个科级干部。他是一个很有理想的人，我一直认为他很有潜能，但在当时他的潜能对我而言一无是处。”</p>
-<p><strong>“你觉得在你心里，习近平是一个怎么样的人？”</strong></p>
-<p>柯：“我还是认为他是一个正直的人。1，这是我以前非常看重他的一点。以前我认为他太过于固执，也可能是因为我们相处的时间很短暂，我对他不是很了解吧。现在回过头来看，其实他做的很多事情都是对的，只是自己当年太年轻，比较容易冲动。他不是一个理想主义者，他做事是有规划，有步骤的。我可能会更理想主义一些，毕竟女性都会喜欢懂得浪漫的男人，但是习近平不是，我很多时候觉得他过于刻板，这与我们的成长环境和教育背景有很大关系。”</p>
-<p><strong>“离婚以后的那么多年，你们都没有见过面吗？”</strong></p>
-<p>柯：“他还是国家副主席的时候，我们在深圳见过一次。那是我，我姐姐，还有我父亲回深圳扫墓，他当时来深圳考察工作，慰问了我父亲，我当时也在，他跟我们全家人握了握手，包括我。其实是很尴尬的一次会面，大概一起坐了半个小时，聊了一些东西，我只觉得他看上去老了许多。”</p>
-<p><strong>“习近平会在 10 月访英，你有什么期待？”</strong></p>
-<p>柯：“中国使馆那边已经透过一些渠道邀请我作为英国侨界的代表参加一个欢迎宴会，他上任中共总书记三年，第一次来英国访问，对中英两国都是有好处的，我作为英国的华人，感到很荣幸，也很高兴。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AF%E5%B0%8F%E6%98%8E/?category=18271" rel="tag">柯小明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AF%E7%8E%B2%E7%8E%B2/?category=18271" rel="tag">柯玲玲</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/" target="cdt-mirror">【敏感词库】“长者续命”、“刘部长” 等近日热点 2015-8-28</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2015-08-16_16-56-35.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2015-08-16_16-56-35.jpg" alt="2015-08-16_16-56-35" width="400" height=""></a><br><em>（图片作者：<a href="https://prinzeugen.net/birthday-of-jiang-haha/">Blessing Studio</a>）</em></p>
-<p>[ 测试时间：2015年8月28日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
-<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
-<p><strong>刘部长</strong>（应指中宣部长刘云山）</p>
-<p><strong>张育军</strong>（中国证监会主席助理）</p>
-<p><strong> 我为长者续一秒</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8D%E7%9F%A5-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E9%95%BF%E8%80%85%EF%BC%9F%E9%95%BF%E8%80%85%E9%A3%8E%E9%9D%A1%E7%BD%91%E7%BB%9C%E8%83%8C%E5%90%8E%E7%9A%84/"><span>不知</span><span> | </span></a><span><a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8D%E7%9F%A5-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E9%95%BF%E8%80%85%EF%BC%9F%E9%95%BF%E8%80%85%E9%A3%8E%E9%9D%A1%E7%BD%91%E7%BB%9C%E8%83%8C%E5%90%8E%E7%9A%84/">为什么人们怀念长者？长者风靡网络背后的制度难题</a>）</span><strong><br>
-长者续命</strong><br><strong> 江＋去世</strong></p>
-<p><strong> 习＋令徐郭 </strong>(指令计划、徐才厚、郭伯雄；包括周永康在内的“周令徐郭”更为常见)<br><strong> 习大大＋北戴河</strong>（有传闻称今年北戴河会议上，习近平清理了周令徐郭余党）</p>
-<p><strong> 李克强＋黑锅</strong><br><strong>水工</strong>（<a href="http://chinadigitaltimes.net/chinese/2012/03/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%EF%BD%9C%E7%AC%AC%E4%BA%8C%E6%B3%A2%E7%A6%81%E8%AF%8D%EF%BC%9A%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D%E5%A4%A7%E6%88%98%E5%BA%B7%E5%B8%88%E5%82%85%E7%B3%BB%E5%88%97-2/">水工系＝江泽民派系</a>）</p>
-<p><strong> 彭丽媛＋小三</strong><br><strong>彭麻麻</strong><br><strong> 彭妈妈</strong><br><strong>彭将军</strong><br><strong> 彭母</strong><br><strong>习氏</strong><br><strong> 习＋舅舅</strong><br><strong> 老大＋习</strong><strong><br><strong> 习泽东</strong><strong><br><strong>猪＋习</strong><br><strong> 习＋成功</strong><br><strong> 习博士</strong><br><strong> 习狗</strong></strong></strong></p>
-<p><strong> 郭声琨＋妻子</strong>（网传曾庆红是郭声琨表舅）<br><strong>郭声琨＋老婆</strong><br><strong> 投资＋温家</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2012/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%80%BB%E7%90%86%E5%AE%B6%E4%BA%BA%E9%9A%90%E7%A7%98%E7%9A%84%E8%B4%A2%E5%AF%8C/"><span>纽约时报</span><span> | </span></a><span><a href="http://chinadigitaltimes.net/chinese/2012/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%80%BB%E7%90%86%E5%AE%B6%E4%BA%BA%E9%9A%90%E7%A7%98%E7%9A%84%E8%B4%A2%E5%AF%8C/">总理家人隐秘的财富</a>）</span><br><strong> 总理＋财富</strong></p>
-<p><strong> 炸＋国务院</strong><br><strong> 无能＋公安</strong><br><strong> 家长＋教育部</strong>（今年7月有报道称北京家长怒堵教育部称高考不公平，要求扩招，引起巨大争议）</p>
-<p><em>更多：</em><br><strong>学生＋1989</strong><br><strong> 人权＋计划</strong><br><strong>左轮手枪</strong><br><strong> 铅弹</strong></p>
-<p><em>色情／赌博类：</em><br><strong>太阳城</strong><br><strong>骚浪</strong><br><strong> 鸡八</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/10996061_1070285193000126_5727879429649697895_n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/10996061_1070285193000126_5727879429649697895_n.jpg" alt="10996061_1070285193000126_5727879429649697895_n" width="450" height=""></a><br><em>（网络图片）</em></p>
-<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91%E6%AD%BB%E4%BA%A1%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">江泽民死亡传言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D%E5%AE%B6%E6%97%8F%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">温家宝家族财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -733,7 +735,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d296n20o65bbgn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d38rx7ld7v9bh4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -743,5 +745,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://d296n20o65bbgn.cloudfront.net">https://d296n20o65bbgn.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d296n20o65bbgn.cloudfront.net">https://d296n20o65bbgn.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3hgk6wuyapfl3.cloudfront.net">https://d3hgk6wuyapfl3.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/></td>    </tr>
 </table>

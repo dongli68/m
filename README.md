@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d38rx7ld7v9bh4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d4yvfq62i5kbh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5-%E5%AF%B9%E5%B2%B8%E4%B8%BA%E4%BD%95%E4%B8%8D%E9%A2%86%E6%83%85%EF%BC%9F/" target="cdt-mirror">墙外楼｜笑蜀：北京抗战阅兵 对岸为何不领情？</a>
@@ -56,7 +56,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%A5%9E%E8%AF%9D%E4%B8%8D%E5%86%8D%EF%BC%8C%E5%8D%B1%E6%9C%BA%E9%87%8D%E9%87%8D/" target="cdt-mirror">信报｜中国模式神话不再，危机重重</a>
 </h2>
@@ -735,7 +735,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d4yvfq62i5kbh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfl9ww3n23s4b.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -745,5 +745,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/></td>    </tr>
 </table>

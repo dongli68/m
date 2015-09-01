@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A7%E6%9C%88%E9%A5%BC%E3%80%8C%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%EF%BC%9A9%E6%9C%883%E6%97%A5%E5%8D%8F%E5%92%8C%E3%80%81%E5%90%8C%E4%BB%81/" target="cdt-mirror">【立此存照】大月饼</a>
@@ -42,7 +42,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E5%A5%B3%E5%85%B5%E6%AF%94%E8%80%81%E5%85%B5%E9%87%8D%E8%A6%81-%E6%9D%83%E5%8A%9B%E6%AF%94%E5%86%9B%E5%8A%9B%E9%87%8D%E8%A6%81/" target="cdt-mirror">苹果日报｜李平：女兵比老兵重要 权力比军力重要</a>
 </h2>
@@ -695,5 +695,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/></td>    </tr>
 </table>

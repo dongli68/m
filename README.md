@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pqs9dzpemga8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tg7mn9efvix2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%BD%91%E7%BB%9C%E5%AE%A3%E4%BC%A0%E6%80%9D%E6%83%B3%E6%95%99%E8%82%B2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81/" target="cdt-mirror">【异闻观止】全国高校网络宣传思想教育优秀作品评选活动启动</a>
@@ -230,7 +230,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E5%A5%B3%E5%85%B5%E6%AF%94%E8%80%81%E5%85%B5%E9%87%8D%E8%A6%81-%E6%9D%83%E5%8A%9B%E6%AF%94%E5%86%9B%E5%8A%9B%E9%87%8D%E8%A6%81/" target="cdt-mirror">苹果日报｜李平：女兵比老兵重要 权力比军力重要</a>
 </h2>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djwu5wm9cc9ed.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d62xnt48l219f.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,94 @@
                 <td></td>
                 
         
-        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://djy7rqcuzqc5b.cloudfront.net">https://djy7rqcuzqc5b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://djy7rqcuzqc5b.cloudfront.net">https://djy7rqcuzqc5b.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8-%E4%B8%80%E9%A2%97%E5%88%B6%E5%BA%A6%E9%80%A0%E5%B0%B1%E7%9A%84%E5%AE%9A%E6%97%B6%E7%82%B8%E5%BC%B9/" target="cdt-mirror">纽约时报 | 天津瑞海公司 一颗制度造就的定时炸弹</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20150831_TIANJIN-slide-FRO0-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20150831_TIANJIN-slide-FRO0-articleLarge.jpg" alt="20150831_TIANJIN-slide-FRO0-articleLarge" width="550" height="337"></a><p>天津港那场已致145人遇难的爆炸过去了两周多，在中国这样一个高度封闭而又腐败盛行的政治体制中，涉事企业瑞海国际物流成为了快速工业化背后高昂代价的象征。</p></div>
+<p>中国天津——这对合伙人之一是当地警察局长的儿子，另一位曾担任一家国营化工企业的高管。他们在一次宴会上见面后，在天津开了一家公司，从事中国制造的最危险的化学品的出口业务，公司的口号是“优服务、高效益”。</p>
+<p>公司成立了不到两年，瑞海国际物流就已颇有名声，希望向海外客户运送危险物品的企业纷纷找上门来。这个小众市场曾一直被懒散的国有企业主导着。</p>
+<p>瑞海国际提供的服务价格低廉，不需办繁复的手续，还能很快得到政府部门的批准。业务很火。公司似乎是滨海新区的又一个成功故事，滨海新区是执政的共产党在中国最繁忙的港口城市之一的郊外设立的一个蓬勃发展的经济开发区。</p>
+<p>而如今，瑞海国际在许多中国人眼里已成为某些其它东西的象征，成为在一个充满腐败的封闭政治体系中快速工业化的巨额代价。两周多前，公司库房发生了大爆炸，将滨海新区的大片夷为平地，导致158人死亡、700多人受伤，还导致有毒物质流失，给住在这里的数百万人留下了可怕的后患。</p>
+<p>通过对瑞海国际的十几个前客户、以及一些与公司打过交道的人的采访，加上来自中国官方控制的新闻媒体的不同寻常的批评性报道，一个画面呈现在人们眼前，这是一家钻了共产党经济示范区里监管不力的空子、利用政治关系让其业务不受审查的公司。</p>
+<p>瑞海国际在拿到了许可证之前就开始经营危险化学品，公司从至少五个地方部门获得了许可证和批准，这些部门对公司业务的审查都有问题。地方当局把发放库房许可证所需的安全审查承包给了一家瑞海自己挑选的私人机构，并由瑞海支付了有关费用。</p>
+<p>大爆炸发生的那个夜里，瑞海库房中存放着多达3000吨的危险化学品，其中包括700多吨、致命剂量小于一汤匙的氰化钠，以及1300吨硝酸盐化肥，是1995年美国俄克拉荷马城爆炸案中使用的炸药量的500倍还多。</p>
+<p>瑞海的占地面积超过4.6万平方米，但客户说，公司经常把大量易燃易爆的化学品随意地堆放在一起，而不是按照行业推荐的方法，把这类化学品分为更小的单元、远距离单独存放。</p>
+<p>“没有人愿意挡他们的道，”当天津的一名化学品出口商被问及为什么监管部门没有采取任何行动时，他这样回答。为了保护自己今后做生意时不被报复，他要求不具名。</p>
+<p>天津的灾难震惊了这个已经习惯于与世界上最糟糕的工业安全记录一起生活的国家。按照政府自己的统计，去年在这类事故中死亡的人数超过6.8万，平均每天死掉近200人，他们中的大多数是远离中国繁荣城市的无权无势的穷人。</p>
+<p>但是，8月12日瑞海的大爆炸不同，因为爆炸发生在与中国最繁华城市之一的中产阶级社区如此接近的地方，从北京乘坐耀眼的高速列车只需半个小时就能到达这座有1500万人口的现代化大都市。而且爆炸几乎是在网上实时地展现在人们眼前，令人印象深刻的录像在审查者来得及阻止之前，已在社交媒体上被广泛分享。随着经济增长放缓到25年来的最低速度，以及夏初开始的股市暴跌，对共产党管理经济的批评声已经一直在上涨。如今，大爆炸触发了更大范围的质疑：权威几乎不受监督的共产党官员们，是否能够在不威胁公众健康和安全的条件下追求发展。</p>
+<p>“从爆炸的发生，到政府的拙劣响应，与这场灾难有关的所有事情都令人难以容忍，这就是为什么人们如此愤怒的原因，”北京人民大学的政治学者张鸣说。“这是一个本来可以避免的人为灾难，它暴露出一系列的系统性问题，从缺乏对危险化学品经营的监管，到商人和腐败官员的勾结。”</p>
+<p>如果有证据浮出，表明地方官员忽视和掩盖了滨海新区中的瑞海和其他设施所带来的危险的话，对政府的信任感可能会进一步削弱。</p>
+<p>早在最近的2013年，中国学者就曾警告说，滨海新区有“许多不可接受的环境风险”，指出让危险物库房与居民区如此接近增加了发生事故的风险，并特别提到瑞海库房的所在区域。这一警告，以及其他可追溯到至少2008年的类似警告都被忽视了。</p>
+<p>“就政府漠视和管理不善而言，滨海新区发生的事情，只是中国各地发生的事情的冰山一角，”绿色和平(Greenpeace)中国项目经理武毅秀说。“地方政府把经济增长放在第一位，对居民隐瞒了这些设施所带来的危险。”</p>
+<p>中国高层领导人承诺进行透明的灾情调查，二十来名地方官员和瑞海员工已被控制或接受调查。但在关键问题上，政府迄今保持沉默，包括究竟是什么导致了爆炸。有报道称，港区消防员没有准备好应对化学火灾，并可能因为往大火喷水引发了更大的爆炸或释放了毒素。对于这些说法，政府也没有做出回应。</p>
+<p>25岁的消防员全力说，“我们根本不知道那是一个危险品仓库。”他当时身在因爆炸而倒塌的消防部门建筑物中，被埋在了废墟下。他躺在医院的病床上，通过电话接受了采访。他表示，消防部门今年拟定了一份消防应急预案，确定了港区最危险的地点。</p>
+<p>他说瑞海并未列为重点单位。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%B6%88%E9%98%B2%E5%91%98%E4%BA%B2%E6%88%9A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%B6%88%E9%98%B2%E5%91%98%E4%BA%B2%E6%88%9A.jpg" alt="消防员亲戚" width="550" height="371"></a><p>一位失踪的消防员的母亲在亲人的搀扶下痛哭不止。</p></div>
+<p><strong>追赶领先者</strong></p>
+<p>几十年来，天津一直力求脱离北京的阴影，克服这个比其强大得多、享有的特权也多得多的邻居的影响，并想追上开创了中国经济转型的其他几个港口城市。滨海新区是这些远大目标的核心。它位于距市中心约30英里的沿渤海泥泞海岸，是一片满是摩天大楼和工业园的广阔区域。</p>
+<p>滨海新区既没有上海浦东的天际线，也没有位于华南地区的深圳的出口实力。它引以为傲的是，超过半数的财富500强(Fortune Global 500)企业在这里投资。空中客车(Airbus)在此地制造A320飞机。国家主席习近平计划整合北京与周围地区，使之成为一个“超级城市圈”，从而进一步提升了滨海新区的地位。</p>
+<p>在70年代末，为了促进外国投资及以市场为导向的政策，中国领导人开始在第一批经济特区做试验。这些地区承诺税收减免，不受过度监管的制约。它们的经济增长极为迅速，中国其他地区因此也试图仿效。滨海在1994年赢得了这一特殊地位。</p>
+<p>然而，经过了几十年的快速增长，共产党一直苦于在打击官僚作风和执行保护环境、劳动者及公众健康的规定之间达成平衡。由于他们的工作没有什么公众监督，党内干部只会偶尔因为忽略了后者而受到惩罚，而且通常是在出现了事故之后。但是，他们会因为推动经济增长的极限而获得奖励，包括升官——还有贪污的机会。</p>
+<p>即使在爆炸之前，在滨海新区中心的天津港，与竞争对手相比也有着监管不严的名声。爆炸发生后，一家官方媒体报道将其比作“独立王国”。对瑞海创始人董社轩和于学伟来说，在2012年11月设立公司的时候，它是一个完美的地方。</p>
+<p>于学伟现年41岁，曾是中化集团的本地分公司的副总经理。董社轩现年34岁，曾从事轮胎、化妆品和酒类销售生意，但其父亲担任过天津港公安局局长。这显然有助于他们获得必要的消防安全、土地和环境许可。</p>
+<p>“我的关系主要在公安、消防方面，”在与合作伙伴一起被拘后，董社轩告诉官方媒体新华网。“公司成立时，我去找的天津港公安消防支队负责人，说想做危化品仓储。当时我把材料都拿了过去，很快消防鉴定就办下来了。”</p>
+<p>新华的英文报道指出，董社轩“没有详细说明当中是否涉及贿赂或官员渎职。”</p>
+<p>但是，瑞海在距离一片公寓楼和一个火车站约半英里的地方建设仓库，违反了中国要求危险化学品存放远离住宅区和交通枢纽的监管守则。</p>
+<p>在天津监管部门2013年要求进行的环境影响评价里，并没有提及这个事实。相反，天津市环境保护科学研究院出具的环评报告称，128名受访居民全部对社区周围建设这一设施持欢迎态度。</p>
+<p>瑞海的一些前客户指出，早在2014年2月就开始光顾它的生意。但直到2014年5月4日，天津市交通运输和港口管理局才发放了临时牌照，允许瑞海储存和运送危险化学品。</p>
+<p>该牌照的生效日期回溯到了4月16日，有效期为六个月。牌照下方标明，“此件不公开。”周四，检察部门宣布，当局在调查负责发证的官员，包括交通运输和港口管理局的局长。</p>
+<p>牌照过期后，瑞海在无牌的情况下继续处理危险化学品。于学伟告诉新华：“一方面觉得正式资质很快就会批下来，另一方面觉得很多其他公司都没办延期，就没当回事儿。”</p>
+<p>瑞海可能仅在2014年获批一个临时牌照，因为它尚未获得安全认证。安全认证的程序由港口管理局外包给私营公司进行。</p>
+<p>中国著名环保活动人士马军表示，这些安全咨询公司往往会扭曲他们的所见来满足企业客户的要求。“如果他们不妥协，就没有办法在这一行立足，”他说。</p>
+<p>董社轩在接受新华采访时称，瑞海接触的第一家公司拒绝与其合作，因为仓库离住宅区太近了。但瑞海继续寻找，后来找到的一家公司的企业信息显示为隶属于公安部。这样的关系引致一些中国记者把这家公司形容为“红顶中介”，也就是由官员创立的透过经商来赚钱的公司。</p>
+<p>在2015年2月发布的一份报告中，瑞海把仓库的位置与住宅区、火车站和高速公路的距离夸大了数百米，断言它符合国家标准。</p>
+<p>文中还称，公司已“建立了较为完善的安全生产管理制度。”四个月后，瑞海收到了一个有效期为三年的新牌照，得到处理危险化学品的许可。</p>
+<p><strong>无视警告</strong></p>
+<p>近十年前，邵超峰首次被地方官员聘为顾问时，他认为这是一个机会：他在节能和生态平衡型增长方面的想法，可能会在滨海经济区的烟囱和起重机之间找到一席之地。</p>
+<p>当时他在天津南开大学任教，是一名年轻的环境工程师。他撰写了数十篇论文，阐述了自己对于无霾、无毒、无水污染的产业发展的一些想法。这些污染已经让中国东部很多地方陷入困境。</p>
+<p>“最开始有人注意，”他回忆说。</p>
+<p>但是，如果说邵超峰最初是被“新滨海”的前景所鼓舞，那么在他此后开展工作的数年里，这里的状况却在日益恶化。官员们陆续上马了一个又一个工业项目，有些项目过度靠近学校和居民区。</p>
+<p>早在2008年，他和天津的其他学者就在一篇论文中对环境的压力提出了警告，特别谈到了化工行业带来的风险。他们说，如果发生事故或泄露，对该地区将是一场灾难。</p>
+<p>两年后，他和天津市环境工程评估中心的孙晓蓉发表了另一篇论文，用模型计算出滨海发生事故的风险会不断增长，有可能在2015年达到峰值。</p>
+<p>“工业的快速发展，尤其是石油、化工行业的发展，使滨海新区的重大环境风险源大幅增加，”他们写道。“而与此同时，区域的环境风险管理水平并未得到及时、有效的提高。”</p>
+<p>邵超峰说，官员对他的建议并没有持敌视态度，但建设经济区的压力似乎让很多人不堪重负，而且人事变动也相当频繁。</p>
+<p>随着大型炼油厂、乙烷厂等石化项目的上马，滨海新区很快将成为中国最大的化学工业园区。国家的政策是在化学品上实现自给自足，在此政策刺激下，化工行业正在以10%的年增长率发展，对国内生产总值的贡献多达6000亿美元。</p>
+<p>大约到2011年左右，邵教授在滨海新区的政府咨询工作就无从继续了。</p>
+<p>但他继续提出警告。在2013年的一篇论文中，他和其他四个共同作者警告说，在滨海“储运”化学品的事故风险正在增高。他们用不同颜色在地图上标出高风险区，其中一个突出的区域就是瑞海和其他设施的所在地。</p>
+<p>邵超峰和合著者并不是唯一提出警告的人。在去年底发表的一篇论文中，天津市海洋环境监测预报中心的研究人员也发出了类似的警告。他们写道，“化学品在储存、运输过程中的污染事故也不断发生，严重威胁着区域人群生命财产健康安全。”</p>
+<p>文中称，根据不完全统计，在1998年至2012年期间，天津港记录在案的污染事故共计84次，其中大部分是“操作性”事故。但他们指出，政府计划让化学品运输发展成为天津港经济增长的“重要支柱”。</p>
+<p>邵超峰得知爆炸消息时正在出差。几天之后接受电话采访时，他回忆了自己当时懊悔的心情。</p>
+<p>“我心里感觉很沉痛了，”他说。“有很多事情有可能提前可以……”他的声音渐渐低沉。</p>
+<p>他表示，他和其他人构建的风险模型预测2015年会出现问题。他们从未预料到一个距离居民区如此近的公司会储存这么多危险化学品。</p>
+<p>“危化产品那么大的量 —— 那个量太大了—— 不应该在那样一个比较核心的地方，”他说。“即使不是有一个住宅区，在城区边上，那样的也不行。这么多危险化学品，太多了，不应该放在中心场所。”</p>
+<p><strong>回避安全举措</strong></p>
+<p>每月都有数百个装有氰化钠的木箱抵达瑞海仓库，每个木箱上都印有“有毒”的标志——骷髅头和交叉骨形。这些化学品会被运往世界各地的矿山，以从岩石中提炼黄金，但它们的毒性和纳粹毒气室中使用的氰化物不相上下。</p>
+<p>储存、运输氰化钠是瑞海的专营项目之一。今年夏季，该公司收到了大量货物——700吨，可以装满35个船运集装箱。但根据2013年的环境评估，该公司只准每次储存10吨货物。</p>
+<p>前客户表示，瑞海管理层希望回避旨在减少事故风险的安全举措，经常吹嘘称能够克服官僚障碍。</p>
+<p>“无论你有什么问题，时间不够，订单太大，他们都会处理，”中国一家大型塑料公司的首席执行官刘先生说。“他们能解决所有麻烦。”为了避免遭到当局报复，刘先生要求只透露姓氏。</p>
+<p>香港化学品交易商卡利斯托·拉迪斯帕(Calisto Radithipa)多次通过瑞海向津巴布韦运送氰化钠。他表示，“最终，盈利是最重要的。”</p>
+<p>官员们表示，根据海关及运输记录，瑞海在爆炸事故发生的那一夜储存着多达3000吨的危险化学品，其中包括1300吨用于生产化肥和制造炸药的硝酸铵和硝酸钾。仓库里还有500吨镁和金属钠，前者是一种易爆粉末，后者用于提炼金属，接触空气时会自燃。</p>
+<p>还有数量不明的焊接用高度易燃化学品电石和用于采矿的剧毒化合物硫氢化钠，以及用于制造塑料制品、遇热会爆炸的化合物甲苯二异氰酸酯。</p>
+<p>一年之前的库存量甚至更大。2014年6月开展的常规安全调查发现，该仓库储存了4261吨危险化学品。但没有迹象表明监管者对这种做法提出了异议。</p>
+<p>专家表示，在一个地方储存这么多化学品非常危险，因为这加剧了爆炸反应的风险，会加重任何火灾造成的损害。</p>
+<p>“库存量大得惊人，”圣迭戈化学品安全顾问尼尔·朗格曼(Neal Langerman)说。“如果你想储存大量货物，那你真的必须通过正确的方式来做。要想正确地做，就要花钱。”</p>
+<p>中国的规定要求将危险化学品放置在通风良好的地方，远离阳光、电源线及其他热源。但负责运送仓库化学品的人员表示，众所周知，瑞海仓库建筑简陋，设备陈旧。</p>
+<p>化学品还应该单独存放在处于安全距离的地方，以减少产生反应的风险。但前客户表示，瑞海经常将装满不同危险化学品的集装箱堆在一起。</p>
+<p>胡健中（音）是天津一家物流公司的经理。他表示，瑞海将集装箱堆放在一起是因为，当局不允许仓库扩大危险物品的存放空间，而经由该港口运输的化学品的数量近几年来不断增加。在瑞海获得许可证前为该公司进行安全评估的私人公司指出，应该只能最多摆两层集装箱，但他们会摆三层。</p>
+<p>瑞海不是唯一一个存在问题的设施。环保部在2010年开展的调查发现，中国有一半的石油加工厂、炼焦厂、化工厂及制药厂都违反了相关规定，距离学校、居民区等场所不到一英里（约合1.6公里）。上海研究公司IHS化工副总裁庞雄鹰表示，中国的很多化工厂减少安全培训，忽视储存准则，以节省仓库空间。</p>
+<p>政府表示，政府已经控制了爆炸现场的化学尘降物，但天津的居民仍然担心爆炸散射的毒素的长期影响。</p>
+<p>“他们可能要花几十年才能搞清楚空气中、水中这么多化学品的影响，”29岁的律师张阳阳（音）说。“我不愿冒这种风险。”戴着防毒面罩的张阳阳正拖着一袋行李离开住所。</p>
+<p><em>杰安迪(Andrew Jacobs)、赫海威(Javier C. Hernández)、储百亮(Chris Buckley)是《纽约时报》记者。</em><br><em>翻译：Cindy Hao、赖淦梆（实习）、邓咏诗（实习）</em></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8-%E4%B8%80%E9%A2%97%E5%88%B6%E5%BA%A6%E9%80%A0%E5%B0%B1%E7%9A%84%E5%AE%9A%E6%97%B6%E7%82%B8%E5%BC%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%B8%9A%E5%8C%96/?category=18271" rel="tag">工业化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8/?category=18271" rel="tag">政府部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8%E6%A1%88/?category=18271" rel="tag">爆炸案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85/?category=18271" rel="tag">瑞海国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%82%BA%E9%96%B1%E5%85%B5%E7%A6%81%E4%BB%A4%E5%86%8D%E5%8D%87%E7%B4%9A%EF%BC%8C5%E9%9A%BB%E7%8D%BC%E7%8C%B4%E8%AD%B7%E8%88%AA%E7%A9%BA%E8%BB%8D/" target="cdt-mirror">端传媒｜為閱兵禁令再升級，5隻獼猴護航空軍</a>
 </h2>
 <p><p>即將於9月3日在北京舉行的「紀念抗日暨反法西斯勝利70週年」閱兵式日益臨近，中國政府出台的一系列限制措施「初見成效」，北京市 PM2.5濃度持續降低，甚至打破歷史記錄，首次連續9天達到「一級優」，中科院大氣物理研究所研究員王自發稱這「相當於世界發達國家大城市水平」。不 過，監管部門並不滿足於此，在正式閱兵前又出台了一系列「升級版」禁令。</p>
@@ -68,7 +153,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A7%E6%9C%88%E9%A5%BC%E3%80%8C%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%EF%BC%9A9%E6%9C%883%E6%97%A5%E5%8D%8F%E5%92%8C%E3%80%81%E5%90%8C%E4%BB%81/" target="cdt-mirror">【立此存照】大月饼</a>
 </h2>
@@ -626,43 +711,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BD%B1%E7%89%87%E3%80%8A%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98%E3%80%8B%E8%A2%AB%E6%8C%87%E5%81%B7%E7%A5%A8%E6%88%BF%E3%80%81%E9%9D%A0%E6%91%8A%E6%B4%BE%E5%85%85/" target="cdt-mirror">反法西斯影片《百团大战》被指偷票房、靠摊派充人数</a>
-</h2>
-<p><p>《百团大战》为广电<a href="http://www.shwenyi.com.cn/renda/2012shwl/n/wypl/u1ai6077415.html">总局确定的</a>“纪念中国人民抗日战争暨世界反法西斯战争胜利70周年重点电影”之一，于8月28日开始公映。近日将陆续亮相的重点“献礼”电影还包括：《战火中的芭蕾》、《诱狼》、《根据地》、《开罗宣言》、《穿越硝烟的歌声》、《报国忠烈之赵一曼》、《燃烧的影像》、《黄河》、《抗战中的文艺》、《犹太女孩在上海2——项链密码》、《铁血残阳》、《受降前夕》。</p>
-<p>根据腾讯娱乐<a href="http://view.inews.qq.com/a/ENT2015083002207706">报道</a>，该片28日公映当天，“以4530万（含零点场）力压《终结者5》成为单日票房冠军”，且“上映不到三天，票房轻松过亿”，成为了“近期国产电影的最大赢家”。但该片的高票房在民间引来一片质疑声，主要理由如下：</p>
-<ol><li>中宣部日前曾下发<strong>《<a href="http://www.dmcc.gov.cn/mainSite/xw/zxgz/723864/index.html">中央宣传部办公厅等关于组织观看电影故事片<百团大战>的通知</a>》</strong></li>
-<li>有网民曝光疑似“<strong>《百团大战》院线票房任务表</strong>”的文件</li>
-<li>各地网民在微博晒出了自己的电影票，指许多影院为该片<strong>“偷票房”</strong>（购买影片A，影院打出影片B的票后手动修改）</li>
-<li>该片凌晨时段场次竟也有不少场显示满座</li>
-<li>“该片用不足10%的排片换来近50%票房的奇迹”</li>
-</ol><p> <br><strong>中央宣传部办公厅等关于组织观看电影《百团大战》的通知</strong>（来源：<a href="http://www.dmcc.gov.cn/mainSite/xw/zxgz/723864/index.html">广电总局官网</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A51.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A51.jpg" alt="通知1" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A52.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A52.jpg" alt="通知2" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A53.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A53.jpg" alt="通知3" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A54.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E9%80%9A%E7%9F%A54.jpg" alt="通知4" width="500" height=""></a></p>
-<blockquote><p>各级宣传部门、教育部门、工青妇组织、各部队，要把组织观看影片作为纪念抗战胜利活动的一项重要内容，专人负责，逐级落实，所需费用可以从团费、工会会费等项目中支出。观看人次及其他落实情况由有关机构进行统计并上报至国家新闻出版广电总局电影局。</p></blockquote>
-<p><strong>网友曝光的《百团大战》院线票房任务表</strong>（图片来自新浪微博<a href="http://weibo.com/234194972">@微评议</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/654270efjw1evjwv9eoahj20cr0j2dg8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/654270efjw1evjwv9eoahj20cr0j2dg8.jpg" alt="654270efjw1evjwv9eoahj20cr0j2dg8" width="450" height=""></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/u/2219794733" target="_blank">第十电影 </a><i></i>：在各部门的组织指导下，【<em>百团大战</em>】周六单日票房超4000万，国产片最牛逼的<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]">，排片不多票房占比却很高，全国各地群众观影积极，很多早场甚至半夜三更的场次都座无虚席。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/michaelmjjackson" target="_blank">_何寶榮__</a>：土匪的事怎么能叫偷呢 人家那叫抢<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/niefuchen" target="_blank">独立电影评论</a> ： 人家“<em>百</em><em>团</em><em>大战</em>”，怎么会用麻雀战、地道战的手段<em>偷</em><em>票房</em>？一定是污蔑、赤果果的污蔑。<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<blockquote><p>@秀才阿哲：《百团大战》自上映来一直上演着用不足10%的排片换来近50%票房的奇迹，这是怎么做到的呢？很简单，三板斧——上面发红头，中间派任务，下面偷票房。可惜了《烈日灼心》，实际票房可能要比账面上数字高50%还多。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjcqf09j20qn18gdkd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjcqf09j20qn18gdkd.jpg" alt="4992b460jw1evkdjcqf09j20qn18gdkd" width="350" height="584"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjfr5p1j20c80gb74x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjfr5p1j20c80gb74x.jpg" alt="4992b460jw1evkdjfr5p1j20c80gb74x" width="350" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjga5bij20ci0goq3x.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/4992b460jw1evkdjga5bij20ci0goq3x.jpg" alt="4992b460jw1evkdjga5bij20ci0goq3x" width="350" height=""></a></p></blockquote>
-<p><a href="http://weibo.com/micholla" target="_blank">不吃虾</a>：上亿party members加上上亿public servants算上上亿家属至少3亿观众，目前的票房应该说已经很惨了，你还“座无虚席”！有没有同情心啊？<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
-<p>@TianSiO：国产片保护月就算了还刷票房？</p>
-<p>@Kevin-HR：#百团大战偷票房# 作为一部弘扬“主旋律”的片子，就要扬正气，偷票房这种事？…….</p>
-<p>@共和国裁缝: 造谣！！是网络上甘岭的爱国青年刷出了百团大战的高票房。。</p>
-<p>@天创流：观影界的百团大战</p>
-<p>@MrFitcarraldo：看毛百团大战，又YY自己是中流砥柱</p>
-<p>@浪荡儿R：国企上班的都要强制看片</p>
-<p><a href="http://weibo.com/3173232345" target="_blank">虫小奇运势上升中</a>：在金逸用会员卡买烈日灼心，被强制购买了一张百团大战…<img title="[崩溃]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c7/lxhzhuakuang_org.gif" alt="[崩溃]">，就在今天晚上！</p>
-<p><a href="http://weibo.com/5209151437" target="_blank">随意点丫丫说</a>：<a href="http://weibo.com/n/%E7%94%B5%E5%BD%B1%E7%83%88%E6%97%A5%E7%81%BC%E5%BF%83?from=feed&loc=at" target="_blank">@电影烈日灼心</a><a href="http://weibo.com/n/%E7%94%B5%E5%BD%B1%E7%83%88%E6%97%A5%E7%81%BC%E5%BF%83?from=feed&loc=at" target="_blank">@电影烈日灼心</a> 不能忍 这就是<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8493.png" alt="" width="20px" height="20px">杆子里的政权<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p><strong>附：<a href="http://ent.qq.com/a/20150830/022077.htm">腾讯娱乐｜《百团大战》大卖，真的有黑幕吗？</a></strong></p>
-<blockquote><p>与此同时，记者还发现，根据8月30日电影购票网站上的信息显示，在大地院线旗下某影院，凌晨三点到七点间《百团大战》的不少场次均显示满座。有网友分析，这是影院在借凌晨时间段“刷票房”。</p>
-<p>记者就此采访了多家院线负责人，证实了摊牌票房任务新闻的真实性。有知情人还分析分析，发行方大幅度让利是为了使影片在9月3日之前借由高票房形成一定的社会效应。且9月3日之后仍会有团体包场的需求，再加上延长放映，所以票房回本应该也不成问题。</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BD%B1%E7%89%87%E3%80%8A%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98%E3%80%8B%E8%A2%AB%E6%8C%87%E5%81%B7%E7%A5%A8%E6%88%BF%E3%80%81%E9%9D%A0%E6%91%8A%E6%B4%BE%E5%85%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -674,7 +722,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d62xnt48l219f.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d38rx7ld7v9bh4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -684,5 +732,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://djy7rqcuzqc5b.cloudfront.net">https://djy7rqcuzqc5b.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d38rx7ld7v9bh4.cloudfront.net">https://d38rx7ld7v9bh4.cloudfront.net</a><br/><a href="https://djy7rqcuzqc5b.cloudfront.net">https://djy7rqcuzqc5b.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/></td>    </tr>
 </table>

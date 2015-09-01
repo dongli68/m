@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djm7gv4h2c8lk.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d12yf3ck4n9fv0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%82%BA%E9%96%B1%E5%85%B5%E7%A6%81%E4%BB%A4%E5%86%8D%E5%8D%87%E7%B4%9A%EF%BC%8C5%E9%9A%BB%E7%8D%BC%E7%8C%B4%E8%AD%B7%E8%88%AA%E7%A9%BA%E8%BB%8D/" target="cdt-mirror">端传媒｜為閱兵禁令再升級，5隻獼猴護航空軍</a>
@@ -180,7 +180,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%BC%BA%E5%8C%96%E5%85%9A%E5%86%85%E6%B3%95%E8%A7%84%EF%BC%8C%E5%AE%B6%E8%A7%84%E4%BB%A3%E6%9B%BF%E5%9B%BD%E6%B3%95%EF%BC%9F/" target="cdt-mirror">美国之音｜中共强化党内法规，家规代替国法？</a>
 </h2>
@@ -199,7 +199,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%82%B9%E6%80%9D%E8%81%AA%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A4%AE%E8%A7%86%E6%97%B6-%E5%A6%82%E4%BD%95%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B0%A2%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">邹思聪：没有央视时 如何向全国人民谢罪？</a>
 </h2>
@@ -684,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
 </table>

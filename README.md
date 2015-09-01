@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d331t5q0uy7z23.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3uie65jlfp6fb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E5%A5%B3%E5%85%B5%E6%AF%94%E8%80%81%E5%85%B5%E9%87%8D%E8%A6%81-%E6%9D%83%E5%8A%9B%E6%AF%94%E5%86%9B%E5%8A%9B%E9%87%8D%E8%A6%81/" target="cdt-mirror">苹果日报｜李平：女兵比老兵重要 权力比军力重要</a>
+</h2>
+<p><p>中共大阅兵在即，中国官方媒体、网站的主旋律与国际舆论关注的焦点的偏差越来越大。充斥海内外网站的受阅女兵整齐划一的高耸胸部，让受阅老兵更形苍老；习近平的特赦令让人想起被囚禁的维权律师们，让被特赦的老兵更形稀少；受阅军人在训练基地每日六餐，但奋战在救援现场的官兵每天只能吃两顿，让人感受的是阅兵比救援重要；受阅军备有 84% 是首次亮相，但为的是向「习帝加冕」山呼万岁，让人感受的是权力比军力重要。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k99vvvvvvvvvvvvvvvvvvvvvvvvvvv.jpg" alt="k99vvvvvvvvvvvvvvvvvvvvvvvvvvv" width="591" height="845"><br>
+女兵整齐划一的高耸胸部 ( 上 ) ，湖南资兴市的九旬抗战老兵王飞黄生活困顿 ( 下 )</p>
+<p>上周日大阅兵举行彩排后，中共喉舌信誓旦旦地说：「大阅兵必会提升中国社会的凝聚力。」但是，当局为确保阅兵万无一失，肆无忌惮地扰民、虐民，从上餐馆、上公厕要登记身份证，到五大商业街停业、协和等大医院停诊，这是要提升民间怨气还是凝聚力？当局为确保受阅官兵能承受高强度训练，每日向他们提供六餐，包括三顿自助餐。让网民无语的是，官方媒体披露，今年 6 月 1,200 多名武警官兵在长江沉船现场救援时，「每天只能吃上两顿米饭加咸菜」，这是要提升军民的怨气还是凝聚力？</p>
+<p>只报道想让你看到的</p>
+<p>中共喉舌的报道，永远是只让你看到想让你看到的，而网民投诉和海外媒体报道，才能让你看到你原本应该看到、想到原本应该想到的另一面。其一，万国来朝的风光背后，是美日德加的抵制。中共官方媒体对有 49 个国家的领导人或高级代表到北京出席阅兵，洋洋得意地宣称这是相当不错的外交成绩单。对于美日等不愿为习近平的加冕或中国军备扩张背书，官方媒体只能酸溜溜地说，中国想干甚么，「可以不那么顾忌华盛顿怎么想，以及它最铁杆的盟友日本等怎么看」。</p>
+<p>其二，军备扩张的威武背后，是穷兵黩武的隐患。备受关注的中国军力增长，是在上届中央军委两个副主席贪腐无度的情况下取得的。一旦军费继续维持每年双位数的增长，而被贪污、挪用的情况又受到遏制，中共的军备扩张将更震撼世界。习近平想藉展示军力，就东海、南海问题发出威慑，但结果只会刺激军备竞赛，刺激美日同盟并向南海纷争相关国家提供更多军援。</p>
+<p>呼吁削阅兵剃习眼眉</p>
+<p>其三，人民战争的声势背后，是草木皆兵的惶恐。北京号称发动 85 万群众巡逻，确保阅兵安全，令人质疑强大的军队为甚么要靠手无寸铁的群众来保护？</p>
+<p>而当局下令三个确保，包括确保大阅兵筹备期间北京不发生任何安全事件、确保全国不再发生大的事故与民众事件、确保新疆等地不发生恐怖袭击事件，让人们想到的唯一办法就是确保相关事件不曝光，只要让报章、网站灭声，就可以当作甚么都没发生过。全国防火长城的升级，不只是预作准备，而且其祸害自然延伸到阅兵之后。</p>
+<p>其四，皇恩浩荡的加冕背后，是权力斗争的延伸。向抗战老兵发放 5,000 元津贴，超越邓小平、江泽民、胡锦涛的特赦，早过邓江胡的大阅兵，邀国民党前主席参与阅兵，习近平欲藉阅兵展示权力稳固，但是，天津大爆炸后涌现的要求撤销阅兵、缩减阅兵规模的声浪，明剃习近平眼眉，官方媒体那番「我们经常刚刚擦干眼泪就迎来国家的伟大时刻」的论断，怎么听着都像要唾面自干。</p>
+<p>而民众的怨怼和讥讽，在这首「沁园春． 93 阅兵」中表达得淋漓尽致：「帝都风光，洗澡登记，入厕签到。望京城内外，层层查验；大街小巷，制服笼罩。鸽子进笼，航模登记，欲让小鸟网里飘。过天桥，看民兵红旗，份外妖娆。安保如此多招，令街道大妈累瘦腰。怜磨刀老汉，已然失业；物流快递，生意寥寥。一代天骄，成吉思汗，只能携带指甲刀。俱往矣，数风流人物，还看习包。」</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E5%A5%B3%E5%85%B5%E6%AF%94%E8%80%81%E5%85%B5%E9%87%8D%E8%A6%81-%E6%9D%83%E5%8A%9B%E6%AF%94%E5%86%9B%E5%8A%9B%E9%87%8D%E8%A6%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">苹果日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97/?category=18271" rel="tag">诗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%B0%91%E5%90%8C%E4%B9%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">东网 ｜南桥：不敢与民同乐的中国阅兵</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.41.28-AM-670x1024.png" alt="Screen Shot 2015-08-25 at 1.41.28 AM" width="551" height="842"></p>
@@ -715,26 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E7%9C%9F%E5%81%87%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E9%87%87%E8%AE%BF%E7%96%91%E4%BA%91-2015-8-29/" target="cdt-mirror">【敏感词库】真假习近平前妻采访疑云 2015-8-29</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E4%B8%A4%E4%BB%A3%E5%9B%BD%E6%AF%8D.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E4%B8%A4%E4%BB%A3%E5%9B%BD%E6%AF%8D.png" alt="两代国母" width="550" height=""></a><p>（1996年元宵晚会小品《打工奇遇》；演员：彭丽媛、阎维文、宋祖英）</p></div>
-<p>近日，一则题为《<a href="http://chinadigitaltimes.net/chinese/2015/08/%E6%96%B9%E5%BC%8F%E4%B9%A6%E7%AE%80-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E8%AF%84%E4%B9%A0%EF%BC%9A%E4%BB%96%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/">习近平前妻评习：他不是一个理想主义者</a>》的报道在社交网络引来热传，文章称习近平前妻柯小明接受了《英国侨报》的采访。仅仅一天后，《明镜邮报》就发文引用“北京知情人士”断定<a href="http://chinadigitaltimes.net/chinese/2015/08/%E6%98%8E%E9%8F%A1%E9%83%B5%E5%A0%B1%EF%BD%9C%E5%81%BD%E9%80%A0%E7%9A%84%E3%80%8A%E5%83%91%E5%A0%B1%E6%8E%A1%E8%A8%AA%E7%BF%92%E5%89%8D%E5%A6%BB%E6%9F%AF%E7%8E%B2%E7%8E%B2%E3%80%8B/">上述采访内容与事实不符</a>，是伪造文章。</p>
-<p>遗憾的是，由于中共领导人一直以来都存在于信息黑箱之中，许多关于他们的报道都无法通过公开渠道验证真伪。</p>
-<p>［新浪微博搜索禁词测试时间：2015年8月29日］</p>
-<p><strong>习＋前妻</strong><br><strong> 习＋前任</strong><br><strong> 习＋柯小明</strong><br><strong> 习＋离婚</strong><br><strong> 习＋二婚</strong><br><strong> 柯小明＋前妻</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E5%89%8D%E5%A6%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E5%89%8D%E5%A6%BB.png" alt="习 前妻" width="475" height="211"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E5%89%8D%E4%BB%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E5%89%8D%E4%BB%BB.png" alt="习 前任" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9F%AF%E5%B0%8F%E6%98%8E-%E4%B9%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9F%AF%E5%B0%8F%E6%98%8E-%E4%B9%A0.png" alt="柯小明 习" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E7%A6%BB%E5%A9%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E7%A6%BB%E5%A9%9A.png" alt="习 离婚" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E4%BA%8C%E5%A9%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E4%B9%A0-%E4%BA%8C%E5%A9%9A.png" alt="习 二婚" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9F%AF%E5%B0%8F%E6%98%8E-%E5%89%8D%E5%A6%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%9F%AF%E5%B0%8F%E6%98%8E-%E5%89%8D%E5%A6%BB.png" alt="柯小明 前妻" width="475" height=""></a></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
-<p><strong>【更新】</strong></p>
-<p>《侨报》在新浪微博公开否认发表过《习近平前妻评习：他不是一个理想主义者》一文。该报社长曾出席人民日报于今年五月举办的“首届海外华文新媒体高峰论坛暨人民日报海外版创刊30周年座谈会”并发<a href="http://paper.people.com.cn/rmrbhwb/html/2015-05/29/content_1570575.htm">表演讲</a>。</p>
-<blockquote><p><a href="http://weibo.com/2045615020/Cy5jvsUGS">@英国侨报</a>：【郑重声明】：关于最近流传于网络的题为#习近平前妻评习：他不是一个理想主义者#、#习大大前妻柯玲玲预期10月份在英国与习大大见面#等采访报道不是由英国侨报报道，也没有在#英国侨报#的任何平台上发布过，请勿轻信转载！！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/79ed9bacgw1evjmvdqub2j20rk12zgr2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/79ed9bacgw1evjmvdqub2j20rk12zgr2.jpg" alt="79ed9bacgw1evjmvdqub2j20rk12zgr2" width="425" height=""></a></p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E7%9C%9F%E5%81%87%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%89%8D%E5%A6%BB%E9%87%87%E8%AE%BF%E7%96%91%E4%BA%91-2015-8-29/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -746,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d331t5q0uy7z23.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32aoep1a8v7ro.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -756,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
 </table>

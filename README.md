@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B%E5%91%A2%EF%BC%9F/" target="cdt-mirror">东网｜傅桓：说好的“境外敌对势力”呢？</a>
+</h2>
+<p><p>在阅兵变成“月饼”前夕，警方控制了三名说是与股灾有关的责任人，他们分别来自于证监会、中信证券及《财经》杂志的小中层及记者。其中，《财经》记者王晓璐被拉到央视未审先判，说自己搞了假消息扰乱股市，对不起股民云云，审判还是继续。</p>
+<p>对王晓璐的做法激起了大陆新闻人士的愤慨，列举的理由相当扎实。一是王晓璐所报的研究“国家队”退市的会议真实存在，腾讯财经媒体也给与了报道与证实；二是王晓璐的报道是职务作品，不追究杂志社而直接捉人；三是央视继续污名化手段，强迫认罪，未审先判。</p>
+<p>财经媒体遭遇如此粗暴的打压，在21世纪经济网及抓捕21报系领导人沈颢时，就已经展露了狰狞面貌。在一种似是而非、甚至是完全错误的基础上，捏造莫须有罪名牵制舆论，《财经》不是第一个受害者，想必也不会是最后一个。压制没有消失。</p>
+<p>对财经媒体记者肆无忌惮地予以审查、恐吓及追捕，这在前些年是不可想象的。这从一个侧面说明，原本发生在时政领域内的国内问题，已经开始向财经领域迁移。当经济问题占据内政问题的要角，财经媒体及其记者必将成为舆论控制首当其冲的牺牲品。</p>
+<p>坊间的推测是，拿几个小人物作为股灾的责任人，是因为股灾早已被定性为“恶意做空”，为了维持这个定性的权威，就需要找到“替罪羊”，以证明此前定性的“伟光正”。考虑到这几个人的身份与被指控的严重不相称，可以想见强力部分有多么迫切想造成“铁案”。</p>
+<p>财经记者被捕之后，新闻界内部流传如何防范职业风险的文章——实际上这些规范毫无帮助，谁都知道，抓人不过是先确定罪名，再按图索骥，职业操守上的完备根本不具备防御功能。新闻同行之间的相互告诫与示警，更像是掩耳盗铃般的自我欺骗。</p>
+<p>联想到股灾后期，公安部副部长带队入住证监会，誓言要揪出“幕后黑手”。在这个时候起，上述三人的命运就已经定下了。证监会趁机除掉不听话的敢言记者，并对号称股市设计者的《财经》后台给予警告，趁机收获敲山震虎之效，其行事料符合逻辑。</p>
+<p>极具讽刺意味的是，现时的抓捕，除了“证明”股灾的阴谋论外，说好的趁乱抄底中国的“境外敌对势力”却不见踪影。真正的内鬼趁乱仗权隐没了，一直告诫股民美国是股灾元凶的说法言犹在耳，可说好的“境外敌对势力”却像空气一样消失了。</p>
+<p>所以，这是一个这样的现实：活着本身就是一种罪，会被按需按上罪名，带入指定的审判场合——不只是行动上的“量刑”，伴随着是，还包括自证其罪的道德羞辱——而所有包括“境外敌对势力”在内的名义，不过是方便行事的借口，是一张预先支起的网。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 这事不能说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B%E5%91%A2%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%99%93%E7%92%90/?category=18271" rel="tag">王晓璐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E8%BF%9E%E6%88%98%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5-%E5%B9%B6%E6%B2%A1%E6%9C%89%E4%B8%AA%E4%BA%BA%E8%BA%AB%E5%88%86%E5%8F%AF%E7%94%A8/" target="cdt-mirror">联合新闻网 | 连战出席阅兵 并没有个人身分可用</a>
+</h2>
+<p><p> </p>
+<p>在郝柏村、许历农等退休将领表明不出席中共的九三阅兵之后，连战仍决定于周日前往北京，总统府劝阻无效。连战幕僚说明，连战是以「个人身分」受邀前往；对于争取我抗战历史诠释权的问题，他也将在「连习会」中对两岸「共用史料、共写史书」作出积极回应。在此敏感时机，连战必须绝对谨慎，否则除损及台湾尊严，更使自己涉入噬脐莫及的险境。</p>
+<p>这次中共九三阅兵之所以敏感，主要原因是：当年领导八年抗日的是中华民国政府，中华人民共和国尚未诞生，而今中共却反客为主，以主角之姿攫取了纪念抗战胜利的舞台，并将解放军形容为抗日「中流砥柱」，某些影艺宣传甚至将毛泽东捧成其实明明是蒋介石参加的「开罗会议」要角。正因无法接受对岸对史实的扭曲，多位具有抗日经验的退役将领均拒绝出席九三阅兵典礼；郝柏村甚至说出，如果退将出席阅兵典礼，「终身俸就不要领」的重话。原因无他，这涉及的不只是个人信念，更是国家的尊严。</p>
+<p>如果退休将领皆认为「不该去」，那么，连战又有什么非去不可的理由？就此，有三个可以讨论的重点。</p>
+<p>首先，连战能不能以「个人身分」应邀出席阅兵？答案是否定的，在这等国家大事上，他没有所谓的个人身分。理由很清楚：李登辉先前对日本「祖国」效忠的歌颂，受到外界的围剿，就因为他是卸任国家元首，具有极高的政治象征意义，不能像平民百姓一样任意发表事关国家主权或尊严的言论。连战是仍在领取礼遇的卸任副总统，当然也不能动辄躲在「个人身分」的名义下进行两岸政治活动，却不顾自己的地位象征。</p>
+<p>再说，此次阅兵前将举行的「连习会」，是承续前两次连战以国民党「前主席」身分往访的高阶会晤，这当然绝对不止是他「个人身分」上的意义可以涵盖。更进一步说，在北京众多国宾的阅兵舞台上，连战必然被视为最高「台湾代表」，只要一露脸，他恐怕不像其他企业家一样有什么「个人身分」可以稀释其政治意味。</p>
+<p>其次，如果连战在此事上不可能有「个人角色」，那么他是否应该立刻放弃此行，或有其他可行之计？答案是，他至少应放弃出席阅兵仪式，而保留「连习会」的对话机会。中共这次以「纪念中国人民抗日战争暨世界反法西斯战争胜利七十周年」为名，举行大规模阅兵，除了僭越「中华民国领导抗日」的历史外，从国际社会的眼光看，阅兵也不是纪念反侵略战争胜利的合宜方式。理由很明显：用展示军容来纪念胜利，失去了对牺牲者悼念的肃穆，也缺乏对战争残酷的深刻反省，却有炫耀武力、展示国威的黩武姿态，反而让周边国家感受到战争的不安。试想，中共展示武力，台湾人民当然会感受到其威胁；在这种情况下，连战要用什么心情参加阅兵？</p>
+<p>第三，如果连战坚持出席阅兵和连习会，他有没有可能正当化自己的作为？答案是有，这就要看他在北京如何提出具有台湾观点的论述，为中华民国抗日的历史正名；不过，若仅是被动回应习近平所提谈两岸学界「共用史料、共写史书」，当然是远远不够的。连战必须清楚表明，抗日战争是国民政府领导的，这是不容抹杀的历史事实；同时，要求北京当局采取宽容、公正及人道的态度，善待滞留大陆的国民党抗日老兵，承认他们的贡献，并洗去他们身上背负了数十年的「反革命」戳记。如此，一方面还原历史真相，二方面帮抗日老兵讨一个公道，连战的北京行才站得住立场。这点，得靠双方事先的沟通取得更多默契。</p>
+<p>政治人物的行止，总在关键时刻受到严格的检验；连战要以什么姿态出现在北京，此刻即备受考验。不可讳言，两岸历经最近的关系变化与抗日诠释权的龃龉，连战若能在其间扮演一个维持对话空间的角色，未尝不是好事。问题在，面对这个并不轻松的议题，连战有没有意识到目前两岸关系的微妙变化，能不能感受到台湾社会的反中情绪如何发酵，以及他自己的因应能不能掌握得恰到好处。无论如何，连战的北京行跟前两次的「连习会」大不相同，此次荆棘处处，要能安然往返，他得把「国家利益」放在前头，忘掉自己的「个人身分」或「个人利益」。李登辉的殷鉴不远，慎勿重蹈。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E8%BF%9E%E6%88%98%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5-%E5%B9%B6%E6%B2%A1%E6%9C%89%E4%B8%AA%E4%BA%BA%E8%BA%AB%E5%88%86%E5%8F%AF%E7%94%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E4%B9%A0%E4%BC%9A/?category=18271" rel="tag">连习会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%BD%91%E7%BB%9C%E5%AE%A3%E4%BC%A0%E6%80%9D%E6%83%B3%E6%95%99%E8%82%B2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81/" target="cdt-mirror">【异闻观止】全国高校网络宣传思想教育优秀作品评选活动启动</a>
 </h2>
 <p><p><strong><a href="http://www.cac.gov.cn/2015-08/31/c_1116426498.htm#715159-tsina-1-7862-b4627af4aa6de3e8cf9f7d8876a92f2c">中国网信网｜首届全国高校网络宣传思想教育优秀作品评选活动启动</a></strong></p>
@@ -643,76 +683,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%B1%E8%B8%AA%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%87%B4%E5%87%BD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E9%95%BF/" target="cdt-mirror">BBC｜失踪维权律师家属致函中国公安部长</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/150830080613_china_humanright_lawyer_bangkok_976x549_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/150830080613_china_humanright_lawyer_bangkok_976x549_afp_nocredit.jpg" alt="150830080613_china_humanright_lawyer_bangkok_976x549_afp_nocredit" width="585" height="329"></a><p>国际特赦组织8月6日在泰国曼谷的中国使馆前，要求中国政府释放已抓捕的维权律师及维权人士。</p></div>
-<p><strong>在联合国“强迫失踪受害者国际日”来临之际，中国13名“被强迫失踪人士”家属联名写信给中共公安部长郭声琨，要求资讯公开、依法办案。</strong></p>
-<p>这封周六（29日）刊登在中国维权律师关注组网页上的“13名被强迫失踪人士家属致中华人民共和国公安部部长郭声琨先生的公开信”，由今年7月起陆续失踪的中国维权律师、助理、维权人士及相关人员的家属共同署名。信中写到，他们的亲属都遵循同一个模式“被强迫失踪”。</p>
-<p>有关部门不愿透露失踪者的下落，也没有明确的罪名，只有一小部分家属收到官方的通知书。有些失踪者已经失联超过50天。</p>
-<p>8月30日是联合国“强迫失踪受害者国际日”，根据联合国大会2010年通过的第65/209号决议，对世界各地强迫失踪或非自愿失踪事件，及对失踪者有关的证人或亲属骚扰恐吓事件表达关切。</p>
-<p>联大在决议文中通过《保护所有人免遭强迫失踪国际公约》，从2011年开始举行活动予以纪念。</p>
-<p>家属在信中也向郭声琨表达了心中的恐惧，对家人现况不明的煎熬。信末署名的家属包括维权律师李和平的妻子、包龙军的母亲、王全璋的妻子和姐姐等13人。</p>
-<p>自从7月9日北京锋锐律师事务所的维权律师王宇被人从家里带走后，中国许多维权律师陆续失踪。</p>
-<p>根据香港“中国维权律师关注组”的资料，截至上周五（28日）傍晚，至少277名律师及相关人员被拘留、带走、软禁、限制出境、约谈、传唤对待。国际社会纷纷表态反对中国政府打压维权律师。</p>
-<p>香港在8月2日举办过“释放律师明信片签署行动”，鼓励民众自行下载已填好地址的明信片，收件人就是郭声琨。</p>
-<p><strong>全球问题</strong></p>
-<p>人权团体在强迫失踪受害者国际日前夕表示，目前世界上仍有数千人是“强迫失踪”的受害者。国际特赦组织（Amnesty International）指出，叙利亚、斯里兰卡、墨西哥、波士尼亚等国家，都有侵害人权的强制失踪案例。</p>
-<p>联合国表示，强迫失踪经常被用以在社会上散播恐惧。这是一个全球性的问题，不限于特定区域。</p>
-<p>“过去主要是军事独裁政权的产物，现在可能在内部冲突的复杂情势中实施，尤其是作为在政治上打压对手的一种手段。”</p>
-<p>亲 身遭遇亲属被强制失踪的联合国强制和非自愿失踪工作小组（UN Working Group on Enforced and Involuntary Disappearances）负责人，来自阿根廷的杜利茨基（Ariel Dulitzky）说：“现在世界上每天都还有强制失踪案件发生。我们有登记有案的国家有88个，不管是已开发还是开发中国家，不论政权是民主或专制，都 有案例发生。”</p>
-<p>他也表示，从许多案例看来，当权者对于想寻找失踪亲属的人们，也会持续骚扰或恐吓。</p>
-<p>（编译：刘子维　责编：叶靖斯）</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/bbc%EF%BD%9C%E5%A4%B1%E8%B8%AA%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%87%B4%E5%87%BD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E9%95%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8/?category=18271" rel="tag">公安部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/" target="cdt-mirror">【网络民议】团中央启智学校招收第一批学员</a>
-</h2>
-<p><p><strong><a href="http://zqb.cyol.com/html/2015-08/28/nw.D110000zgqnb_20150828_5-01.htm">中青报｜中国青年网络智库成立</a></strong></p>
-<blockquote><p>[…]希望智库成员<strong>为共青团网络引导工作多出主意</strong>，<strong>当好导师</strong>；为培训青年网络文明志愿者多出力气，当好老师；加强对青年相关课题的研究，当好研究员，切实做好中国青年网络智库的各项工作。</p>
-<p>秦宜智指出，加强青年网络舆论引导和组织动员，关系到党和国家事业的后继有人，关系到我国互联网生态的前景未来，更关系到青年一代的精神品质和责任担当。[…]网络舆论引导工作是一项复杂的工程，既要对宣传内容有深刻理解，又要对传播规律有准确把握；既要从根本上着力解决各类重大理论问题，又要能随时应对突发舆情事件；既要看到负面舆论表面带来的社会影响，又要认清其背后隐藏的深层次原因，这就<strong>迫切需要借助网络智库的智慧与力量提升共青团网络舆论引导工作的专业化水平</strong>。</p>
-<p>[…]首期中国青年网络智库由来自政治、经济、法律、历史、文化、科技、互联网等多个领域的近40名国内著名专家组成。团中央书记处书记周长奎出席并主持会议，团中央机关及相关直属事业单位负责同志参加会议。</p></blockquote>
-<p><strong><a href="http://weibo.com/1707905652/CxYi17oQM">@文山娃</a></strong>：团中央的中国青年网络智库8月27日在京成立。据知名网友千钧客透露，该智库有包括她（或他）在内的37位创始导师。中青报未有提供37人名单。作为正能量观察者，我大胆预测必选名师：李艳艳、朱继东、叙岚、林治波、戴旭、周小平、花千芳、孤烟暮蝉等；候补名单排名靠前的有侯聚森和胡杨麟等。</p>
-<p><strong><a href="http://weibo.com/1707905652/Cy3K3c93H">@文山娃</a></strong>：證實了。祝賀社科院国家文化安全与意识形态建设研究中心秘书长暨清华大学马克思主义博士后流动站博士后朱继东老師。朱老師為青年開的第一堂課或為：我與國父不得不說的故事。</p>
-
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/65cc9274jw1evjfx50ygrj20dc0hsjsm/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/65cc9274jw1evjfx50ygrj20dc0hsjsm-150x150.jpg" alt="65cc9274jw1evjfx50ygrj20dc0hsjsm"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/65cc9274jw1evjfx95hs0j20hs0vkwj2/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/65cc9274jw1evjfx95hs0j20hs0vkwj2-150x150.jpg" alt="65cc9274jw1evjfx95hs0j20hs0vkwj2"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/65cc9274jw1evjfxa7te3j20hs0vkq8f/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/65cc9274jw1evjfxa7te3j20hs0vkq8f-150x150.jpg" alt="65cc9274jw1evjfxa7te3j20hs0vkq8f"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/65cc9274jw1evjfx4ck8sj20k00qo76j/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/08/65cc9274jw1evjfx4ck8sj20k00qo76j-150x150.jpg" alt="65cc9274jw1evjfx4ck8sj20k00qo76j"></a>
-
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@文山娃:給正能量同好們簡單解釋下：此智庫為中國青年網主持設立，中青網頂頭上司為團中央網絡影視中心，該中心與中國青年報行平級。中青報的官網叫中青在線，不叫中國青年網。</p>
-<p><a href="http://weibo.com/2120210477" target="_blank">yuanzj柳叶刀</a>：组织好习主席的红色卫兵（简称红卫兵），老习在舆论文化领域的‘御林军’。是团中央的重要任务！<img title="[酷]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]"><img title="[阴险]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/yx_org.gif" alt="[阴险]"></p>
-<p><a href="http://weibo.com/5239115061" target="_blank">青衫秀士</a>：哈哈哈哈 群丑毕至，要开万妖大会吗？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@朴抱一:花千芳教养鸡，周小平教养带鱼，胡杨麟教菜刀，戴大校教走正步，这个班底搞个农家乐还挺好。。</p>
-<p>@SinGeno_Jr：全称:智商着急储备库？</p>
-<p>@l8j8w8：这些人当智库我也就放心了</p>
-<p>@Original-lemon：活体网络智障类型数据库麽？</p>
-<p>@八府巡案大堂：今天是鬼节，正适合成立此等组织。</p>
-<p>@虢燚凤珝：智库，智库，请告诉我如何接受你们强大的脑电波，天线已架好</p>
-<p><a href="http://weibo.com/3518424067" target="_blank">保佑大腿时代</a>：你们不要再骂了，毕竟垃圾分类这个工作团中央还是做得很好的<img title="[good]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]"><img title="[赞]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/z2_org.gif" alt="[赞]"></p>
-<p>@terauodbiel：靠段子手维护网络舆情秩序，不是说不可，只能说 我——党宣传部门已经烂透，溃不成军。指挥不动。说严重点 如同当年国民党靠黑帮 做 工人纠察队一样、虽然性质不懂，但同样很说明问题。一个本该理直气壮维护的事业，因为执政者的无能和无为只能靠民间力量维系。</p>
-<p>@一花一带: 应该是弱智库，这37人是团中央慈善性质的启智学校招收的第一批学员</p>
-<p>@鹪鹩一枝：团中央打算成立褐衫队了？！青年是国家的未来，如此，本朝前景甚堪忧虑，难道会逐步走向法西斯化？</p>
-<p>@风调水顺：名单都没有？怎么弘扬正能量！</p>
-<p>@scott_44251：导师连名字都不泄露？地下工作？</p>
-<p>@frankyhl123：司马南于力，孔庆东，纪许光，吴法天，方舟子，张召忠，蔡小心，袁小靓必须有呀</p>
-<p>@忧郁美少年：云台37将，横扫一切牛鬼蛇神</p>
-<p>@额滴神__啊：靠群妖大小鬼也保不住阎王殿</p>
-<p>@福州郭律师：一个雷雨交加的夜晚。@花千芳 举着一把宝剑，大声喊道，“赐予我智商吧，我是导师”。激动人心的音乐声响起，上帝从云端里给花千芳披上了黄袍。@胡杨麟 也举剑大声喊，“赐予我智商吧。”咔一声雷，@胡杨麟 一阵快感，昏了过去。醒来一看，被新浪禁言了。上帝在旁边面无表情的说，“你丫往带避雷针了”</p>
-<p>@三桂枝丰：伟大领袖毛主席参加开罗会议，签署开罗宣言，规定钓鱼岛是中华人民共和国的，这一条必须编制档案纳入智库的数据库，并广为宣传。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%8B%9B%E6%94%B6%E7%AC%AC%E4%B8%80%E6%89%B9%E5%AD%A6%E5%91%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -724,7 +694,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3rfr45zgr117k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d12yf3ck4n9fv0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -734,5 +704,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
                 <td></td>
                 
         
-        <td><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/></td>    </tr>
 </table>

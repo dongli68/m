@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d4yvfq62i5kbh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3fb2lgi70hre4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB-%E6%9C%80%E6%82%B2%E4%BC%A4%E4%BD%9C%E6%96%87%E5%B0%8F%E5%AD%A6%E5%9F%BA%E9%87%91%E4%BC%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E6%8B%98/" target="cdt-mirror">界面新闻 | “最悲伤作文”小学基金会负责人被拘传</a>
+</h2>
+<p><p><strong>早前曾因“最悲伤作文”事件引发外界关注的四川凉山索玛花小学，近日因涉嫌非法办学面临拆除，8月31日界面新闻了解到，该校捐建者已向政府提交《行政复议书》，要求撤回拆除决定。而就在8月31日晚上，网络上传出消息称，捐建该小学的基金会理事长黄红斌突然遭到警方拘传。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/14410327607270200_a580x330.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/14410327607270200_a580x330.jpg" alt="14410327607270200_a580x330" width="580" height="330"></a></p>
+<p> </p>
+<p>早前曾因“最悲伤作文”事件引发外界关注的四川凉山索玛花小学，近日因涉嫌非法办学面临拆除，8月31日界面新闻了解到，该校捐建者已向政府提交《行政复议书》，要求撤回拆除决定。而就在8月31日晚上，网络上传出消息称，捐建该小学的基金会理事长黄红斌突然遭到警方拘传。</p>
+<p>8月31日晚19时49分，认证为“四川省索玛慈善基金会理事长”的老邪哥哥（黄红斌）微博发布一个消息称，“近日来，儿童村以及基金会的命运引起了社会上的广泛关注。今天，就在刚才，索玛慈善基金会的理事长@老邪哥哥，在从儿童村下山的路上，被公安抓去，并带有手铐。警察明确说是拘捕，并拒绝出示拘捕手续。为了老邪哥哥的个人安全，请广大网友风暴扩散，救老邪哥哥于水火，顶礼感谢各位。”</p>
+<p>此微博一经发出即引发广泛关注。而到8月31日晚22时26分，该微博又发布消息称，“感谢所有朋友们对索玛花和老邪哥哥的关注，刚刚收到最新的消息，老邪哥哥的夫人去问询到的答复说目前不是拘捕，是拘传，时限48小时，理由是非法占用林地，望请有转发的朋友们更正一下，谢谢！”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/144103277718450400.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/144103277718450400.jpg" alt="144103277718450400" width="580" height="330"></a></p>
+<p>实际上，8月31日下午1点13分界面新闻还曾和黄红斌打过电话进行采访，但是在下午17时电话已经关机。原因不明。晚上传出黄红斌被拘的消息后，界面新闻继续拨打黄红斌的手机，仍然是关机。</p>
+<p>就上述微博中关于其被拘传的消息，界面新闻向四川省西昌市公安局求证，联系电话未能接通，而该地110接线员表示不清楚此事。界面新闻又联系管辖索玛花小学所在地的宁远派出所，对方表示黄红斌不是他们抓的，他们也不清楚有没有被抓和被谁抓的。所以截至发稿时此事尚未得到官方证实。</p>
+<p>《北京青年报》今晚发布的消息是，官方依据是涉嫌违法买卖和占用国有林地。而按照警方术语，拘传是指公安机关、人民检察院和人民法院对未被羁押的犯罪嫌疑人、被告人，依法强制其到案接受讯问的一种强制措施。</p>
+<p>据此前《北京青年报》等多家媒体报道，凉山州10多所公益小学将被强拆，211名即将入学的小学生读书成了问题。这些小学的捐建者索玛慈善基金会负责人黄红斌表示，兴建和扩建这些小学花费了近百万的爱心捐款，没想到最后竟等来政府的强拆通知。</p>
+<p>8月初，凉山彝族自治州越西县彝族四年级小学生木苦依伍木的作文《泪》被新华社记者刊发，小女孩父母双亡的辛酸经历，令众多网友感到揪心，称之为“最悲伤的作文”，而大凉山的社会问题再次引发外界关注。实际上，最初把《泪》上传到个人微博上的人就是黄红斌。而后，“最悲伤的作文”在外界引发争议，黄红斌也曾多次接受媒体采访进行回应。</p>
+<p>索玛慈善基金会收到的《限期拆除违建通知》显示，“四川省索玛慈善基金会由于在西昌市四合乡永定村火普组非法买卖土地、违法违规修建房屋，现依据相关法律规定，责令你基金会于2015年8月28日内自行拆除违法违规建筑物，否则，将依法进行强拆。”落款是“西昌市四合乡人民政府”。</p>
+<p>据了解，索玛花爱心小学（儿童村）位于西昌市四合乡永定村火普组，距离市区7公里，当地至今不通水电。据《北京青年报》报道，此前，基金会志愿者向喜德县送捐赠物资时，途经四合乡永定村，发现这里有大量的失学儿童。志愿者调查走访发现，整个村子只有两个人识字，包括火普组的组长都是文盲。该地原来有一个教学点，两间教室，汶川“5·12”地震后教室被定为危房而被撤销。据当时统计，学龄儿童失学的多达169人。</p>
+<p>2012年，索玛基金会买下当地村民土地，在爱心网友的支持下建成索玛花爱心小学，解决了100多个孩子的上学问题，并为他们提供免费午餐。志愿者为村民修建自来水管线，还帮村民种植了400多亩核桃树。</p>
+<p>黄红斌称，2015年8月5日，索玛工作人员和木苦依伍木在凉山州州委常委、宣传部长王阿呷及西昌市教育局、宣传部领导的陪同下接受中央电视台《新闻1+1》节目的采访。采访后，王阿呷承诺：马上成立由各部门组成的专门工作小组，帮我们解决索玛花儿童村身份的问题，把好事办好。但他没想到，等来的却是学校要被强拆的最后通牒。</p>
+<p>8月30日下午，西昌市政府新闻办举行新闻发布会，就此事向媒体进行了相关情况通报。发布会上，西昌市相关部门向记者介绍了为何要拆除索玛花爱心小学的5项依据和理由：无办学资质、涉嫌违法买卖和占用国有林地、涉嫌违法建设、涉嫌非法办学、存在地质灾害安全隐患。</p>
+<p>“学校已运作4年，不少部门都知道学校的存在，这期间学校的所有教材，也一直由教育部门提供。”在发给当地政府的报告中，基金会强调，“建设过程中，所有建设用地均是爱心人士出资与原住居民签订土地购买协议所得，且是原有土建筑拆除后的原址翻建。索玛花爱心小学急需取得合法身份，愿意全力积极配合各部门。”</p>
+<p>黄红斌8月31日下午告诉界面新闻记者，他已经向西昌市政府提起行政复议，请求撤销《限期拆除违建通知》的决定。界面新闻没能联系到当地政府就此事进行采访，所以暂时无法知晓下一步进展。</p>
+<p>“学校被拆，还是我所听说的首例。”中国建设管理与房地产法研究中心执行主任、北京市才良律师事务所律师王才亮认为，无论是从有利于促进社会稳定，还是从有利于孩子学习的角度来考虑，建造索玛花爱心小学都属于一件善事。从目前政府给出的强拆理由来看，通过行政复议，《限期拆除违建通知》的决定被纠正的可能性很大。</p>
+<p>针对学校建设违法占用林地这一原因，网络名人广州区伯在微博上评论称，“试问，有多少违法侵占农民合法土地的，有多少违法毁林占用国家林地的，但是在利益面前，当地政府不是可以将其违法行为变合法行为的吗？”</p>
+<p>“政府认为学校的建设缺乏相关手续，但并不是所有缺少相关手续的房子都一定要用拆的方法来解决。”王才亮在接受界面新闻记者采访时称，目前来看，没有手续或手续不全，的确是违法违规。但是违法违规可以用两种方法解决，一种是责令补办，另外，政府可以接办这所学校。</p>
+<p>王才亮认为，存在地质灾害安全隐患可能会是学校被拆的重要原因，但他也指出，在学校提起行政复议后，对于学校所在地是否存在地质灾害安全隐患，政府应进行专业的勘测。</p>
+<p>西昌市教科局局长罗荣在发布会上表示，将保证义务教育阶段的适龄儿童全部入学，确保火普组区域内适龄儿童每一个都不失学。这些孩子将全部分流到四合乡中心校就读。</p>
+<p>据了解，从永定村步行到山下的四合乡中心校需要2到3小时。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB-%E6%9C%80%E6%82%B2%E4%BC%A4%E4%BD%9C%E6%96%87%E5%B0%8F%E5%AD%A6%E5%9F%BA%E9%87%91%E4%BC%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E6%8B%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2/?category=18271" rel="tag">义务教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%96%87/?category=18271" rel="tag">作文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%8D%E8%B4%B9%E5%8D%88%E9%A4%90/?category=18271" rel="tag">免费午餐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3/?category=18271" rel="tag">公安机关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E9%87%91%E4%BC%9A/?category=18271" rel="tag">基金会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%87%89%E5%B1%B1/?category=18271" rel="tag">大凉山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E5%AD%A6%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">失学儿童</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%9D%E6%97%8F/?category=18271" rel="tag">彝族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%88%E5%96%84/?category=18271" rel="tag">慈善</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8D%90%E6%AC%BE/?category=18271" rel="tag">捐款</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95/?category=18271" rel="tag">违法</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E7%91%9E%E6%B5%B7%E5%85%AC%E5%8F%B8-%E4%B8%80%E9%A2%97%E5%88%B6%E5%BA%A6%E9%80%A0%E5%B0%B1%E7%9A%84%E5%AE%9A%E6%97%B6%E7%82%B8%E5%BC%B9/" target="cdt-mirror">纽约时报 | 天津瑞海公司 一颗制度造就的定时炸弹</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20150831_TIANJIN-slide-FRO0-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20150831_TIANJIN-slide-FRO0-articleLarge.jpg" alt="20150831_TIANJIN-slide-FRO0-articleLarge" width="550" height="337"></a><p>天津港那场已致145人遇难的爆炸过去了两周多，在中国这样一个高度封闭而又腐败盛行的政治体制中，涉事企业瑞海国际物流成为了快速工业化背后高昂代价的象征。</p></div>
@@ -153,7 +188,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A7%E6%9C%88%E9%A5%BC%E3%80%8C%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%EF%BC%9A9%E6%9C%883%E6%97%A5%E5%8D%8F%E5%92%8C%E3%80%81%E5%90%8C%E4%BB%81/" target="cdt-mirror">【立此存照】大月饼</a>
 </h2>
@@ -679,38 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%91%B2%E5%BF%85%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%90%BD%E9%80%89%EF%BC%9F/" target="cdt-mirror">旧闻评论｜“呲必中国”为何落选？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/64013.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64013.jpg" alt="640" width="300" height=""></a><br>
-【题图当代水墨，作者新浪微博：@秃头倔人】</p>
-<p><strong>相关阅读：</strong></p>
-<blockquote>
-<ul><li><a title="有难度 | 别人的“新闻奖” 你丫起什么哄！" href="http://chinadigitaltimes.net/chinese/2015/06/%E6%9C%89%E9%9A%BE%E5%BA%A6-%E5%88%AB%E4%BA%BA%E7%9A%84%E6%96%B0%E9%97%BB%E5%A5%96-%E4%BD%A0%E4%B8%AB%E8%B5%B7%E4%BB%80%E4%B9%88%E5%93%84%EF%BC%81/">有难度 | 别人的“新闻奖” 你丫起什么哄！</a></li>
-<li><a title="胡泳 | 记协 请不要这样评新闻奖" href="http://chinadigitaltimes.net/chinese/2015/06/%E8%83%A1%E6%B3%B3-%E8%AE%B0%E5%8D%8F-%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7%E8%AF%84%E6%96%B0%E9%97%BB%E5%A5%96/">胡泳 | 记协 请不要这样评新闻奖</a></li>
-<li><a title="《老师，请不要这样讲中国》进入中国新闻奖公示阶段" href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%8A%E8%80%81%E5%B8%88%EF%BC%8C%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7%E8%AE%B2%E4%B8%AD%E5%9B%BD%E3%80%8B%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%A5%96%E5%85%AC%E7%A4%BA/">老师，请不要这样讲中国》进入中国新闻奖公示阶段</a></li>
-<li><a title="【网络民议】带鱼效应" href="http://chinadigitaltimes.net/chinese/2014/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B8%A6%E9%B1%BC%E6%95%88%E5%BA%94/">【网络民议】带鱼效应</a></li>
-</ul></blockquote>
-<p>文／宋志标</p>
-<p>北大胡泳教授应该高兴。辽日某文参评中国新闻奖一事，经他挑头与中国记协“商榷”，终于弄黄了。辽日攫取奖项未遂，悻悻然退去。听闻石扉客讲，某新闻专业群抚额相庆，盛赞记协了得，办了一件好事。石扉客不以为然，再三提醒观众注意该奖的本质。</p>
-<p>辽日《老师，请不要这样讲中国》，其实是去年底适应舆论需要的一封公开信，它主要认为高校老师、尤其人文科目老师“呲必中国”，抹黑现实云云。在当时的气氛下，这篇檄文被认为是投降高校的“匕首”，至于谁想投、为什么投，这里就“不讲”了。</p>
-<p>胡泳反对此文中奖，主要的理据是去政治化的，列举的是别人以为的它在新闻要素上的残缺，对照新闻奖的某条标准，不合规定，应予以“取缔”。胡泳老师讲究谏言策略，火气中又拿捏火候，尽管商榷文被删了一阵子，但现在辽日也没拿到奖。</p>
-<p>没给辽日一个奖，到底是因为什么？笼统地说，当然是与此文参评引起的哗然有关。这个“哗然”之所以形成，具体包含两种张力：一是胡泳他们说的“不合规范”，记协颁奖就是自扇耳光；其二是“呲必记协”的，“就应该给辽日奖”，因其与记协本质相符。</p>
-<p>也就是说，在阻止辽日拿宣传品获奖上，无论是胡泳的“谆谆教导”，还是想要“谆谆教导”胡泳老师的，都在造势上起到了作用。辽日不应该感谢的，除了胡泳他们，还有石扉客辈。在一个立意是用新闻形式奖掖宣传品的奖项里，此等情境还真是混乱。</p>
-<p>将辽日的“呲必中国”在公示后剔除出去，在程序上一定是要给出理由的。至于理由是什么，也许有漏出，也许就此没了声响。不揣冒昧地讲，打发辽日的“理由”一定是技术方面的，比如要素不全（新闻与宣传的纠缠此时有效），甚至是写错参评类别之类。</p>
-<p>如果真要探究“呲必中国”在后半程的遭遇，或者去理解记协让它落选的行事逻辑，也许依旧要回到它作为一件宣传品的生命周期中去。表面上看，它受到了自诩的“新闻标准”的节制，实际上，更大的可能的是其宣传性质划定了它的限度，它的枯萎其来有自。</p>
-<p>“呲必中国”显然不是事实，但正如我们所知的那样，宣传讲究的关键也不是事实，而是讲究时宜性的材料。在某种情况下，需要这么一个“呲必中国”的靶子，以便宜特定在高校中的计划。即使宣传潮落，那些由靶子引导的东西，其实在高校中落了地。</p>
-<p>既然宣传是按需生炮制的，它也会按需静止。辽日在完成宣传任务后，给记协递上这件当时有战力的宣传品，举动相当自然——在记协认证下，将宣传品蒙上新闻标识，不是一直这样做的吗？辽日送评的举动太正常不过了，只是没考虑到封赏宣传品必须待其稳定。</p>
-<p>在原本生产—使用—加封的流水线上，宣传品的不稳定性就是它引起了特别的关注。辽日“呲必中国”此前一直好用，在评奖阶段引发了喧哗，将焦点重新凝聚在它之所以成为宣传品的背景上。被重新讨论的不是“靶子”，而是宣传意图成为“靶子”，这就犯了忌。</p>
-<p>总之，让“呲必中国”落选，是宣传止损的办法，是舆论导向功能在记协阶段的起效，这就是舆论守卫中的“守土有责”。只是，排除“呲必中国”，并不能抵消“呲必记协”，因为后者深谙宣传与新闻两端，靠“跨界”立足的记协逃不出已然闭环的指摘。</p>
-<p>2015/8/30</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%91%B2%E5%BF%85%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%90%BD%E9%80%89%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%8D%8F/?category=18271" rel="tag">中国记协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">政治宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">辽宁日报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -732,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/><a href="https://d3fb2lgi70hre4.cloudfront.net">https://d3fb2lgi70hre4.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d4yvfq62i5kbh.cloudfront.net">https://d4yvfq62i5kbh.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%82%BA%E9%96%B1%E5%85%B5%E7%A6%81%E4%BB%A4%E5%86%8D%E5%8D%87%E7%B4%9A%EF%BC%8C5%E9%9A%BB%E7%8D%BC%E7%8C%B4%E8%AD%B7%E8%88%AA%E7%A9%BA%E8%BB%8D/" target="cdt-mirror">端传媒｜為閱兵禁令再升級，5隻獼猴護航空軍</a>
+</h2>
+<p><p>即將於9月3日在北京舉行的「紀念抗日暨反法西斯勝利70週年」閱兵式日益臨近，中國政府出台的一系列限制措施「初見成效」，北京市 PM2.5濃度持續降低，甚至打破歷史記錄，首次連續9天達到「一級優」，中科院大氣物理研究所研究員王自發稱這「相當於世界發達國家大城市水平」。不 過，監管部門並不滿足於此，在正式閱兵前又出台了一系列「升級版」禁令。</p>
+<p>北京地區的航空管制範圍擴大到了動物界。養鴿子是北京市民的一項傳統愛好，對此，北京市重大動植物疫情辦公室近日發布《致全市養鴿愛好者的一封信》 稱，為保證閱兵式「空中方陣飛行安全」，要求「9月3日零時至12時本市行政區域內鴿子禁飛，任何單位和個人不得放飛鴿子，違禁將依法進行嚴肅處理」。對 於野生鴿子及其他鳥類，則由官方派出的專業驅鳥隊帶領經過特訓的5只獼猴，在機場附近清理鳥窩；據稱每只獼猴平均每天可拆除12個鳥窩。</p>
+<p>北京市公安局將從9月1日至3日，對天安門地區及相關道路採取更為嚴苛的交通管制措施。管制區域內的小區居民必須憑有效證件按指定路線進出；北京地 鐵1號線（即長安街沿線）將於9月2日22時至3日13時全線停止運行，管制區域內其他線路相關車站封站、列車通過這些車站時也不再停車。</p>
+<p>除道路交通外，管制範圍還「深入」到了北京市民的文化、商業甚至醫療活動。除早前已關閉的天安門城樓外，中山公園、勞動人民文化宮、故宮、國家博物 館、天安門廣場、毛主席紀念堂、正陽門城樓等也將陸續暫停對外開放。管制區域內的王府井、東單、前門、大柵欄、西單等商業步行街周邊的商業網點也將在閱兵 期間停業。中國美術館8月22日剛剛完成反法西斯勝利70週年畫展的布展，也於28日發表聲明表示為配合閱兵活動，「根據有關部門指示，2015年9月2 日至3日閉館」，被網友調侃稱「反法西斯勝利70週年畫展因慶祝反法西斯勝利70週年活動而暫停」。而位於管制區內的醫院也將於閲兵當日停止診療活動，但 急診24小時開診。相關負責人表示，針對管制範圍內的老年患者及慢性病患者，社區衞生服務機構全科醫師團隊「將提前做好健康指導，為其備足常用藥物」，並 可「通過健康熱線隨時解答居民的健康諮詢」。</p>
+<p>本次閱兵將帶給中國民眾從9月3日至5日的3天假期，而「不宜外出」的北京市民似乎只能在家看電視了。不過，根據廣電總局要求，中國各大電視台會從 9月1日起將進入為期5天的「紀念抗日暨反法西斯勝利70週年」宣傳展播周，各大衛視的娛樂節目暫停播出，取而代之的是「主旋律電視節目」。而「備受矚 目」的閲兵式則將在9月3日早上開始直播，負責直播的中央電視台也將一如既往地成為當日收視大贏家。</p>
+<blockquote><p>各級黨委宣傳部門和教育部門要把『開學第一課』活動作為紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利70週年的重要內容……把中國共產黨中流砥柱作用和中國東方主戰場作用作為一條紅線，貫穿活動始終，唱響愛黨愛國愛社會主義的時代主旋律。</p>
+<footer><cite> 中宣部、教育部給所有學校下發通知 </cite></footer></blockquote>
+<p>根據教育部門規定，北京市的中小學及部分大學要到9月7日才開學，而新生的「開學第一課」將以「抗戰」為主題。中宣部、教育部日前聯合下發通知，要 求各地學校利用新生教育的契機，以「勿忘國恥，圓夢中華」為主題，進行「抗戰歷史、抗戰精神」教育，並強調「中國共產黨中流砥柱作用」。與此同時，《明 報》報導稱，重慶知名民間演説家、父親為抗戰時國民黨軍官的韓良於近日失蹤，他過去常在街頭宣傳國軍抗戰史，曾多次被當地警方拘留。</p>
+<figure><h3>聲音</h3>
+<blockquote><p>北京市通過採取有力的減排措施，空氣質量是可以達到世界一流水平的，但需要付出很大的努力和代價，且需要一段長期的過程。據估算，此次實施的保障措施，削減污染物比例大概在50%以上，若想全年達到這個水平，那削減的力度估計得達到70%至80%。</p>
+<footer><cite> 中科院大氣物理研究所研究員王自發 </cite></footer></blockquote>
+<blockquote><p>說是紀念反法西斯，卻通過法西斯手段製造「閱兵藍」；說是慶祝勝利，卻發動幾十萬警民嚴防死守。</p>
+<footer><cite> 中國網友 </cite></footer></blockquote>
+<blockquote><p>閱兵是忠誠宣誓，首先檢閱的是三軍將士對黨中央、習主席的無比忠誠和堅決擁護。</p>
+<footer><cite> 閱兵副總指揮、北京軍區副政委王健中將 </cite></footer></blockquote>
+</figure><figure><h3>中流砥柱</h3>
+<figcaption> 該成語的原型典故是，黃河河南三門峽河段下遊河中心有一塊巨石在河道中挺立，經河水猛烈衝擊，屹立幾千年而不倒，叫做「砥柱山」，成語中流砥柱就由此而 來。《晏子春秋·內篇諫下》：「吾嘗從君濟於河，黿銜左驂，以入砥柱之中流。」意思是：我曾經和國王一起渡河時，遇到一隻黿（一種鱉），它咬住車子左邊那 匹馬的腳，拖著潛入砥柱山那段湍急的水流中。該成語用來比喻堅強獨立的人能在動盪艱難的環境中起支柱作用。（資料來自维基百科、百度百科） </figcaption></figure><p><small> 來源：<a href="http://epaper.jinghua.cn/html/2015-08/31/content_231421.htm">京華時報</a>、<a href="http://news.xinhuanet.com/local/2015-08/29/c_1116414635.htm">新華網</a>、<a href="http://news.mingpao.com/pns/%E5%AE%A3%E5%82%B3%E5%9C%8B%E8%BB%8D%E6%8A%97%E6%88%B0%20%E9%87%8D%E6%85%B6%E6%BC%94%E8%AA%AA%E5%AE%B6%E5%A4%B1%E8%B9%A4/web_tc/article/20150831/s00013/1440956406656">明報</a>、<a href="http://paper.jyb.cn/zgjyb/html/2015-08/28/content_440863.htm?div=-1">中國教育報</a>、<a href="http://www.bbc.com/zhongwen/simp/china/2015/08/150829_china_cpc">BBC中文網</a>、<a href="http://yule.sohu.com/20150830/n420091503.shtml">搜狐網</a>、<a href="http://www.namoc.org/xwzx/tzgg/gonggao2015/201508/t20150828_291995.htm">中國美術館</a>、<a href="http://env.people.com.cn/n/2015/0826/c1010-27518621.html">新京報</a>、<a href="http://military.people.com.cn/n/2015/0830/c1011-27531473.html">人民日報</a> </small></p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%82%BA%E9%96%B1%E5%85%B5%E7%A6%81%E4%BB%A4%E5%86%8D%E5%8D%87%E7%B4%9A%EF%BC%8C5%E9%9A%BB%E7%8D%BC%E7%8C%B4%E8%AD%B7%E8%88%AA%E7%A9%BA%E8%BB%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%A2%E5%B3%B0%EF%BC%9A%E8%8D%92%E8%B0%AC%E7%9A%84%E9%98%85%E5%85%B5-%E5%A5%87%E6%80%AA%E7%9A%84%E5%AE%BE%E5%AE%A2/" target="cdt-mirror">苹果日报｜卢峰：荒谬的阅兵 奇怪的宾客</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/201509010954pubvp1.jpg" alt="201509010954pubvp1" width="499" height="322"></p>
+<p>中共将在九月三日举行抗战胜利阅兵。资料图片</p>
+<p>    再过两天就是荒谬的北京抗战胜利70周年大阅兵。说荒谬是因为阅兵这回事本来就没有什么意思，操演最整齐有序的军队跟他们的战斗力毫无关系，展示的武器是否有用有效也没有什么把握。除了像花车巡游弄一个节目及要求士兵放下工作、职务反覆操演步操外实在没有什么作用。而所谓展示军力或威慑力同样没有根据，一辆辆在平整马路驶过的坦克或装甲车，一枚枚架在卡车上的飞弹像模型玩具多于武器，即使它们光亮整洁也不足以阻吓内外敌人。</p>
+<p>    同样荒谬的是抗战胜利跟中共关系极微，八年抗战大部份都是国民政府、国军在奋战，中共八路军不是躲在延安就是借机扩大自己的根据地。由中共来当胜利大阅兵的主人翁既是对历史的讽刺也是对当年抗战老兵的侮辱。规模弄得越大，派头摆得越阔只能显出暴发户嘴脸，毫不让人信服，难怪当年的盟国政府领袖包括美国总统奥巴马、英国首相卡梅伦、法国总统奥朗德都缺席，只有欠下中共一份人情的俄罗斯总统普京成为大阅兵的「贵宾」。</p>
+<p>    不过，今次阅兵最不要脸的宾客大概要数国民党前主席连战。这位老先生不管如何窝囊、如何缺乏政绩也总算是在台湾的中华民国政府前副总统，要纪念抗战胜利70周年他该做的是积极参与台北国民政府的纪念活动，又或自己办一些跟国军老兵或军眷联谊的活动，甚至到领导抗战的前总统蒋介石陵寝追思敬礼一番。偏偏这位前副总统却不甘寂寞，选择到北京看大阅兵，为窃取抗战胜利成果的中共助兴助威，吹嘘一番。对于国民党及台湾政府而言，这无异是一种出卖，一种自我矮化，连历史话语权，真相也不顾，主动把抗日战争旗帜双手奉上。真不知他还有什么脸面回到台湾。</p>
+<p>    真正有趣的阅兵宾客是南韩总统朴槿惠。抗战的时候，朝鲜半岛是日本殖民地，不少韩国人被迫参军成为日军的一部份在中国及其他地方作战。在二次大战胜利后几年韩战爆发，中共派出几十万大军渡过鸭绿江进攻美、韩联军，双方战火激烈，死伤枕藉，一些老一辈韩国人对中共军队进军朝鲜仍非常反感，认为北京是敌人。今次朴槿惠几番犹豫最后才决定出席阅兵反映的也是这样的情绪，担心会引起反弹。</p>
+<p>    南北韩位置逆转</p>
+<p>    虽然有消息说美国曾劝阻朴槿惠不要出席阅兵或以示跟盟国一致。但有关消息来自日本传媒，反映的大概是日本政府的期望而不是美国的想法，美国真正在意的是南韩政府尽快同意建设新的导弹防御系统，好让美国能更有效侦测来自北韩以至中国东北、华北地区的军事活动及飞弹部署，朴槿惠是否到北京观礼倒没有所谓。</p>
+<p>    此外，朴槿惠出席阅兵也令南北韩有点互换位置的情况，北韩是中共长期盟友，当年合作跟南韩大战。可在今次阅兵中，亲密盟友的最高领导金正恩没有到北京，倒是当年死敌的国家元首来了。中共跟南韩的关系显然正出现微妙但根本的转变。谁敌谁友谁亲谁疏在阅兵礼台上实在不易看清楚。</p>
+<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%A2%E5%B3%B0%EF%BC%9A%E8%8D%92%E8%B0%AC%E7%9A%84%E9%98%85%E5%85%B5-%E5%A5%87%E6%80%AA%E7%9A%84%E5%AE%BE%E5%AE%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A7%E6%9C%88%E9%A5%BC%E3%80%8C%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%EF%BC%9A9%E6%9C%883%E6%97%A5%E5%8D%8F%E5%92%8C%E3%80%81%E5%90%8C%E4%BB%81/" target="cdt-mirror">【立此存照】大月饼</a>
 </h2>
 <p><p>@beidaijin：大月饼「紧急通知：9月3日协和、同仁等大医院停诊」9月2日-5日，友谊医院、北京口腔医院、协和医院、北京妇产医院、北医三院、北京同仁医院等均有停诊或半天门诊安排。北京东西城核心区及警戒区范围之外的社区卫生服务机构及区属医院正常开诊。</p>
@@ -617,63 +663,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A9%BA%E6%B0%94%E5%A6%82%E6%AD%A4%E4%B9%8B%E7%B3%9F%EF%BC%8C%E4%B8%80%E4%BA%9B%E5%9C%B0%E5%8C%BA%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%AF%8F/" target="cdt-mirror">博谈网｜中国的空气如此之糟，一些地区相当于每天抽40根烟</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/5d282d77tx6Bx8CMJH1bf690.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/5d282d77tx6Bx8CMJH1bf690.jpg" alt="5d282d77tx6Bx8CMJH1bf&690" width="500" height=""></a><br><em>《我爱祖国的雾霾》作者：<a href="http://blog.sina.com.cn/s/blog_5d282d770102e5qa.html">鸟衣狐</a>；改编自主旋律歌曲《我爱祖国的蓝天》／数字时代配图</em></p>
-<p>（博谈网记者赵亮编译报道）据《商业内幕》8月29日报道，一项新的研究发现：中国一些地区的空气质量如此之糟，一天呼吸下来等同于抽了40支香烟或每天抽两包烟。</p>
-<p>因为空气里弥漫着如此多的污染物，包括PM2.5这种特别危险的污染物以及烟和灰尘。PM2.5这些微细颗粒，其直径小于2.5微米，大约比人类头发丝的1/28还小。香烟的烟雾中也含有大量的PM2.5颗粒。</p>
-<p>由于PM2.5颗粒如此之小，它们可以轻易地进入人的肺和呼吸系统，并累积下来，最终导致呼吸系统疾病，如哮喘和慢性肺病。</p>
-<p>在非营利性机构Berkely Earth最近的一份报告中，研究人员发现：在中国，普通人被暴露在每立方米空气含52微克PM2.5颗粒的环境中。为了做比较，一项对空气污染长期影响 的研究发现：每年被暴露在每立方米空气含5微克的PM2.5 颗粒中，心脏病的风险会增高13%，而中国一些地区的空气中PM2.5含量超过这个10倍。</p>
-<p>下面是《经济学人》给出的一张图，显示中国哪里的空气最致命。幸运的是，一些地区并没有那么糟糕，尤其是远离北京和上海的地区。即使这样，《经济学人》指出，中国13亿人口中，超过半数居住的地区其PM2.5 含量高于美国国家环境保护局（EPA）允许的上限。</p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/danpeiadfg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/danpeiadfg.jpg" alt="danpeiadfg" width="500" height=""></a><br><em>红色=不健康，橙色=影响敏感人群，蓝绿=中等，灰色=未调查。数据来源：Berkeley Earth。</em></p></blockquote>
-<p>看起来中国对抗污染之战还有很长的路要走。</p>
-<p><a href="http://www.businessinsider.com/chinas-air-pollution-is-in-a-bad-spot-2015-8" target="_blank">原文China’s air is so bad breathing it is like smoking 40 cigarettes a day in some areas</a></p>
-<p>编译: 赵亮 作者: Lydia Ramsey</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A9%BA%E6%B0%94%E5%A6%82%E6%AD%A4%E4%B9%8B%E7%B3%9F%EF%BC%8C%E4%B8%80%E4%BA%9B%E5%9C%B0%E5%8C%BA%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%AF%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B2%BB%E7%90%86/?category=18271" rel="tag">环境治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%80%E4%B8%AA%E8%91%97%E5%90%8D%E7%9A%84%E5%AD%A6%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE%E6%92%A4%E5%9B%9E%E4%BA%86-64-%E7%AF%87%E8%AE%BA%E6%96%87/" target="cdt-mirror">知乎日报｜某知名学术出版社撤回64篇论文，一大半是中国人的</a>
-</h2>
-<p><blockquote><p>相关新闻：<a href="http://www.ebiotrade.com/newsf/2015-8/2015819105552197.htm">Nature 关注：十大期刊 64 篇论文被撤稿</a></p></blockquote>
-<p><strong>问题</strong>：Springer Nature 宣布撤回 64 篇论文是怎么回事？为什么同行评审报告能被伪造？</p>
-<p><strong>答主</strong>：匿名用户</p>
-<p>这件事情的本质是大陆学术界这帮害虫开始影响到国际学术秩序了。</p>
-<p>这件事情其实在学术界早已经是公开的秘密了，很多国内名校都是这么干的（摊手）。</p>
-<blockquote><p>英国大型学术医疗科学出版商现代生物出版集团（BioMed Central）撤销了 43 篇生物医学论文，其中 41 篇是中国作者，单位涉及上海交通大学、同济大学、中国医科大学等多家高校附属医院，还包括中国人民解放军空军总医院、成都军区总医院、济南军区总医院等多 家部队所属机构。</p></blockquote>
-<p>Peer Review（同行评议）本身是当前为了保证学术论文质量采用最广泛的一种机制。因为往往只有长期关注某个领域的专家才能真正了解一个研究工作的含金量。</p>
-<p>在这个问题下面<a href="http://www.zhihu.com/question/20784598/answer/51868721">什么是 Peer Review？</a>简要介绍过 EECS 的同行评议机制，其他领域的情况大致相同。一般而言是杂志主编或者会议的 chair 找 3 到 5 个审稿人，让他们对同一个研究成果进行评价，同时进行打分，最后决定是否录用。</p>
-<p>虽然同行评议是当前学术界对科研成果最有效的评价方式，但是依然存在很多漏洞。</p>
-<p>主要有两种情况：</p>
-<p>首先是伪造 reviewer 并自己编造审稿意见，这次 Springer 面临的情况和之前 IEEE 某 trans 撤掉的几十篇来自大陆的论文都是这种情况。某些领域的杂志允许作者自己指定审稿人。因为很多领域比较小众，世界范围内可能只有很少的教授能够了解相关工 作，这种情况下主编可能不知道应该把论文分配给谁，所以如果作者比较了解这个领域的话可以向主编推荐这个领域的权威人物作为审稿人。</p>
-<p>西方学术界一向比较重视个人声誉，爱惜自己的羽毛，所以对于推荐审稿人也好，审文章也好不会太随意。如果太随便，甚至作假，被曝出来就没法在学术界 呆了。因此这种机制虽然有漏洞，但是大家一般都不会钻空子，彼此相安无事了好几十年。（防抬杠：虽然欧美日本也有学术造假的情况发生，但是相比大陆现在的 状况人家那是瑕不掩瑜。）</p>
-<p>但是这种机制一旦到了国内就变味了，随着大陆学术界开始推进国际化，很多院校评教授需要国际顶级期刊和国际顶级会议。自己注册邮箱伪造审稿人身份并 上传审稿意见的情况这几年开始泛滥。在国内这种学术环境，不学无术的教授就算是全文照抄被曝光、伪造审稿人被查出，也不用担心自己职位丢了，该拿项目拿项目，该招学生招学生。不说其他院校，清北那几个数据造假、抄袭的现在一个个不都当教授当的好好的？也没见谁被处分被通报批评啊。</p>
-<p>当然，我们中华是礼仪之邦，我们的研究者都是有节操讲原则滴，大部分人不会用这么 low 的手段的啦~~</p>
-<p>第二种情况就是暗箱操作了，这充分体现了中国人民的智慧是无穷的。分为三层境界。</p>
-<p>第一层境界是利用作者和审稿人的私人关系。虽然很多期刊和会议都采用了 double-blind（双盲，就是作者不知道审稿人是谁，审稿人也不知道谁的文章），然并卵。很多 paper 一看就知道是哪个组哪个教授做的，就算 title 下面没有 author list。审稿人之间通下气，你那里有我的文章，而我在审你的稿子。写审稿意见的时候相互之间就会稍微考虑考虑（你懂的）。</p>
-<p>但是即使审稿人之间相互通气，文章是否被录用还是要综合看所有审稿人的意见，一个人认识的人再多也很难 cover 所有的审稿人。所以，这种方法不能次次见效。</p>
-<p>第二层境界是作者跟 chair 或者主编沆瀣一气。会议的 chair 和期刊主编可以指定审稿人，有的 chair 会把文章分配给跟作者很熟的中国人，最后就导致这帮人自己所有的文章都在自己人手上，最后结果你懂的。有的 chair 和主编权力更大，可以直接毙掉一篇 paper，去年某领域某著名会议，竟然有文章得分 554（满分 5 分，三个审稿人给了 554）被毙掉了。这个会议是学术界曾经分量很重的一个，现在又以被中国人占领老外都不来玩而闻名。</p>
-<p>当然，光依靠这种方式是不能保证高产的，因此就催生了第三层境界。</p>
-<p>第三层境界就是自家的会议期刊自家投。很多经典期刊和顶级会议，经过很多年的运作已经把老外全都赶走自己把持了 TPC list 或者 Editoral Board。某领域著名会议某年在上海西南某高校胜利召开，从 General Chair 到 Co-Chair 再到 TPC member 中的大多数都是那一帮中国人，然后大家在国际学术界大牛面前表演了一场……<strong>里应外合的好戏</strong>。清北某大牛 发了 10 多篇，TOP5 某大牛发了 N 多篇，创下了该会有史以来的记录，各自学校在各自官网上大肆宣传“我校 XXX 教授在顶级会议 XXXXXX 上发表 XX 篇论文，这标志着我校 XX 领域达到世界顶尖水准”，好像天朝的研究水平已经可以碾压西方列强了。从那次以后，Program 放眼望去就全是中国人了，北美不少大牛宣布不再担任审稿人。很多人自己重新办了期刊和会议让圈内专心学术的人投稿。</p>
-<p>所以很多小白在评论区跟我对喷，诸如“X 大今年也发过 XXX 啊，也有很多顶级期刊文章啊，说明大陆的学校不比欧美的差”的时候，我心里其实想说：你真的都看过那些文章么？如果这些文章第二天被撤了你怎么看》》？你口中那些很牛逼的项目你确定不像 X 大某 973 项目一样是 ebay 上买的？</p>
-<p>大陆的高校国际化路线虽然起到了一些正面作用，但是有时候我觉得还不如让这帮人自己在国内自己玩。中国这么大体量，就算有 1% 的烂教授，也会造成很恶劣的影响。自己弄得不伦不类，还打扰了别人愉快的玩耍。</p>
-<p><a href="http://www.zhihu.com/question/34836751">查看知乎原文</a></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%80%E4%B8%AA%E8%91%97%E5%90%8D%E7%9A%84%E5%AD%A6%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BE%E6%92%A4%E5%9B%9E%E4%BA%86-64-%E7%AF%87%E8%AE%BA%E6%96%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87/?category=18271" rel="tag">学术造假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -685,7 +674,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3amu7nns4r91q.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgzpsbzordyd7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -695,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/></td>    </tr>
 </table>

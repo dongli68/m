@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tg7mn9efvix2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d321gma0l2afjg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%BD%91%E7%BB%9C%E5%AE%A3%E4%BC%A0%E6%80%9D%E6%83%B3%E6%95%99%E8%82%B2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81/" target="cdt-mirror">【异闻观止】全国高校网络宣传思想教育优秀作品评选活动启动</a>
+</h2>
+<p><p><strong><a href="http://www.cac.gov.cn/2015-08/31/c_1116426498.htm#715159-tsina-1-7862-b4627af4aa6de3e8cf9f7d8876a92f2c">中国网信网｜首届全国高校网络宣传思想教育优秀作品评选活动启动</a></strong></p>
+<blockquote><p>8月下旬，为进一步推进高校网络文化建设，创新网络思想政治教育，引导广大教师积极参与网络文化产品创作生产，推动社会主义核心价值观网络传播与弘扬，由教育部、国家网信办共同举办的首届全国高校网络宣传思想教育优秀作品评选活动正式启动。</p>
+<p>本次优秀作品评选主要面向高校宣传思想工作干部和从事相关领域研究和实践的专业教师，评选内容包括优秀网络文章、优秀“微作品”、优秀工作案例三类。活动由全国高校校园网站联盟、中国大学生在线承办。</p></blockquote>
+<p><strong><a href="http://www.moe.edu.cn/s78/A12/A12_gggs/s8473/201508/t20150824_202474.html">教育部思想政治工作司 国家互联网信息办公室网络社会工作局关于举办首届全国高校网络宣传思想教育优秀作品评选的通知</a></strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Picture1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Picture1-e1441102336833.png" alt="Picture1" width="500" height="615"></a></p>
+<blockquote><p>（1）优秀网络文章是指在网络上撰写发表的解读党和国家的方针政策、研究当前经济社会发展的阶段性特征、阐释师生关心关注的思想理论热点难点问题、厘清错误思潮和观点、普及网络法律法规、倡导网络文明等方面的文章，包括学术论文、时政博文、精要评论等。</p>
+<p>（2）优秀“微”作品是指在开展网络育人过程中设计、拍摄、制作并传播到网上的视频短片，包括微课堂、微视频、微电影、微公益广告等作品。</p>
+<p>（3）优秀工作案例是指各地各高校在创新网络思想政治教育、提升师生网络素养、开展网络文化建设、推进网络文明教育、营造清朗网络空间等过程中研究探索形成的好经验好做法，包括网络教育管理服务系统、手机APP、网站栏目、网络公众平台、在线课堂、网络社团等。</p></blockquote>
+<p><em>【编者附】</em></p>
+<p><strong>优秀网络文章举例</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%9D%92%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85-%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%BF%97/">青年网络文明志愿者——新时代的志愿军</a>、<a href="http://card.weibo.com/article/h5/s#cid=1001593852964803523559">周小平：为中华文明平反</a></p>
+<p><strong>优秀“微”作品举例</strong>： <a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%8A%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E3%80%8B%E4%B8%AD%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC%E7%9A%84%E9%83%A8%E5%88%86/">《你好，我是中国》中指鹿为马的部分 </a>、<a href="http://chinadigitaltimes.net/chinese/2015/05/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6110%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86logo%E5%92%8C%E5%BD%A2%E8%B1%A1%E7%89%87%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD/">复旦大学110周年校庆形象片</a></p>
+<p><strong>优秀工作案例推荐举例</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E5%BC%BA%E5%88%B6%E6%80%A7%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%AB%99-%E6%98%93%E7%8F%AD/">中国特色的强制性社交网站——易班</a>、<a href="http://chinadigitaltimes.net/chinese/2015/04/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BD%9C%E4%B8%BB%E5%B8%AD%E8%AF%AD%E5%BD%95-2-0/">全国首款习近平重要讲话APP</a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%BD%91%E7%BB%9C%E5%AE%A3%E4%BC%A0%E6%80%9D%E6%83%B3%E6%95%99%E8%82%B2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">网宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E7%BD%91%E5%AE%A3%E9%98%9F%E4%BC%8D/?category=18271" rel="tag">高校网宣队伍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB-%E6%9C%80%E6%82%B2%E4%BC%A4%E4%BD%9C%E6%96%87%E5%B0%8F%E5%AD%A6%E5%9F%BA%E9%87%91%E4%BC%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E6%8B%98/" target="cdt-mirror">界面新闻 | “最悲伤作文”小学基金会负责人被拘传</a>
 </h2>
 <p><p><strong>早前曾因“最悲伤作文”事件引发外界关注的四川凉山索玛花小学，近日因涉嫌非法办学面临拆除，8月31日界面新闻了解到，该校捐建者已向政府提交《行政复议书》，要求撤回拆除决定。而就在8月31日晚上，网络上传出消息称，捐建该小学的基金会理事长黄红斌突然遭到警方拘传。</strong></p>
@@ -188,7 +210,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A7%E6%9C%88%E9%A5%BC%E3%80%8C%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%EF%BC%9A9%E6%9C%883%E6%97%A5%E5%8D%8F%E5%92%8C%E3%80%81%E5%90%8C%E4%BB%81/" target="cdt-mirror">【立此存照】大月饼</a>
 </h2>
@@ -691,29 +713,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8D%97%E6%96%B9%E6%9C%80%E5%90%8E%E4%B8%80%E7%89%87%E6%A0%91%E5%8F%B6/" target="cdt-mirror">德国之声｜长平：南方最后一片树叶</a>
-</h2>
-<p><p><strong>南方报业集团一份整改材料引起关注。时评人长平认为，对久已谢幕的“南方媒体”的怀念，体现了中国媒体的萧瑟现状。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/016509753_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/016509753_30300.jpg" alt="0,,16509753_303,00" width="585" height=""></a></p>
-<p>（德国之声中文网）一份南方报业集团的上报材料，”按照党务公开原则和巡视工作有关要求”，在广东省纪委网站公布出来。随后，包括南方集团官方网站在内的各大网站予以转发，受到舆论的高度关注。</p>
-<p>如果你熟悉南方报业集团一些子报，如《南方周末》、《南方都市报》、《南方人物周刊》等，尤其是它们若干年前的样子，而且只熟悉这些的话，会对这份报告十分惊讶。因为它告诉人们，南方集团又遭遇了一次整顿，整顿成绩斐然，而且还用如此有辱斯文、令人厌恶的文风写出来，和其他党内文件毫无二致。</p>
-<p>笔者曾先后在南方报业集团工作了十年时间，看到这份材料的感觉，首先是悲凉，为历史的倒退，也为自己和同仁们被否定的青春。多少年来，一批又一批新闻人奔向南方，满腔热血、夙兴夜寐，不仅对新闻业抱持极大的兴趣，也对国家充满了希望。他们相信，通过自己和所有人的努力，中国一定会越来越好。就媒体发展来说，言论空间会越来越大，政府也会越来越适应批评，接受批评，打压媒体的言辞会越来越显得陈腐可笑，最终让人羞于启齿，无疾而终。这份报告告诉人们，一切都在朝着相反的方向行进。</p>
-<p>而且，丑恶是不会害臊的。公开这种文件，如此理直气壮，得意洋洋，让所有对南方集团有过好感的人，都感到受辱。不过我认为，公开本身是一种好事情。有必要说明的是，有两件事情一直都存在，那就是：第一，宣传部门对南方集团的打压，须臾未曾消失；第二，集团领导无论对内讲话，还是向上级汇报，从来都用那种体制内的党八股语调。</p>
-<p><strong>不再掩饰的惩戒</strong></p>
-<p>这一次不同之处，一是将这种文件公布出来。笔者也曾在中央电视台工作过一小段时间，有一次听领导讲话，忍不住笑出声来，结果被那位赞赏过我的业务能力的领导当场厉声批评，让我颇感惊讶。在当时的南方集团，至少在中间阶层，领导也用这种口气讲话，但是讲话的间歇偶尔也会自嘲，比如加上”我就照着念了啊”之类的说明。如果有人听不下去笑出声来，领导首先会脸红，解释说”很快就读完了”。一句话，大家都明白，有人做官样文章，乃不得已而为之，但是羞耻心尚存，知道那些话是多么的可笑。甚至宣传部门，尽管从来都在戕害媒体，但对外也会遮遮掩掩，少有大张旗鼓炫耀自己的”屠技”。</p>
-<p>广东省纪委公布南方集团这份文件，以及南方集团的转发，并非为了揭示媒体的真实处境，而是报业文化已经改变，大家不以为耻，反以为荣。不仅如此，这还是一种胜利者的宣示，一种对抗争者的惩戒，一种对其他媒体杀鸡儆猴似的警示。</p>
-<p><strong>过于漫长的掌声</strong></p>
-<p>其二，这份文件显示的重要事实，不在于对一份自由主义倾向的媒体–如果说曾经存在过的话–的整顿，而是这份媒体已经不存在了。它以”办负责任的主流大报”为名，”坚持团结稳定鼓劲、正面宣传为主，紧紧围绕省委省政府中心工作”，”形成精彩的’大合唱’，发挥了党报集团引领舆论的’中流砥柱作用'”。它不再是一个言论管制的抵抗者，专制政府的批评者，新思想新文化的引荐者，而是和其他党报一样，是一份合格的喉舌，一台洗脑的机器。</p>
-<p>当然，作为洗脑机器的这部分任务，南方报业中的部分媒体从来都在做，但是另外一部分媒体从来都在抵制和消解，于是有了一个所谓”南方媒体”的总体印象。时至今日，也还有一些同仁在坚持抗争。但是，那样的总体印象早应该成为历史，犹如早已谢幕的演员得到过于漫长的掌声。南方报业之所以还成为话题，是因为在它衰落之后，并没有其他媒体后来居上，取而代之。在萧瑟的言论寒冬里，它是画在墙上那一片最后的树叶。虽然也许尚能励志，但毕竟是一种幻觉。</p>
-<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8D%97%E6%96%B9%E6%9C%80%E5%90%8E%E4%B8%80%E7%89%87%E6%A0%91%E5%8F%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +724,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pqs9dzpemga8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d321gma0l2afjg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +734,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/></td>    </tr>
 </table>

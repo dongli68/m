@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E5%A5%B3%E5%85%B5%E6%AF%94%E8%80%81%E5%85%B5%E9%87%8D%E8%A6%81-%E6%9D%83%E5%8A%9B%E6%AF%94%E5%86%9B%E5%8A%9B%E9%87%8D%E8%A6%81/" target="cdt-mirror">苹果日报｜李平：女兵比老兵重要 权力比军力重要</a>
@@ -46,7 +46,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">苹果日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97/?category=18271" rel="tag">诗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%B0%91%E5%90%8C%E4%B9%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">东网 ｜南桥：不敢与民同乐的中国阅兵</a>
 </h2>
@@ -750,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32aoep1a8v7ro.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/></td>    </tr>
 </table>

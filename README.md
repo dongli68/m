@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3uie65jlfp6fb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32aoep1a8v7ro.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E5%A5%B3%E5%85%B5%E6%AF%94%E8%80%81%E5%85%B5%E9%87%8D%E8%A6%81-%E6%9D%83%E5%8A%9B%E6%AF%94%E5%86%9B%E5%8A%9B%E9%87%8D%E8%A6%81/" target="cdt-mirror">苹果日报｜李平：女兵比老兵重要 权力比军力重要</a>
@@ -91,7 +91,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%8D%E5%BD%A4/?category=18271" rel="tag">鲍彤</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9B%BD%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">日经中文网｜中国政府封堵“中国危机”</a>
 </h2>
@@ -750,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3uie65jlfp6fb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/></td>    </tr>
 </table>

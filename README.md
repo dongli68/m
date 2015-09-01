@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3rfr45zgr117k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wovhb18idfs2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://d3rgxb1dx2obtb.cloudfront.net">https://d3rgxb1dx2obtb.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B%E5%91%A2%EF%BC%9F/" target="cdt-mirror">东网｜傅桓：说好的“境外敌对势力”呢？</a>
@@ -62,7 +62,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E4%B9%A0%E4%BC%9A/?category=18271" rel="tag">连习会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%BD%91%E7%BB%9C%E5%AE%A3%E4%BC%A0%E6%80%9D%E6%83%B3%E6%95%99%E8%82%B2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81/" target="cdt-mirror">【异闻观止】全国高校网络宣传思想教育优秀作品评选活动启动</a>
 </h2>
@@ -84,7 +84,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">网宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E7%BD%91%E5%AE%A3%E9%98%9F%E4%BC%8D/?category=18271" rel="tag">高校网宣队伍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB-%E6%9C%80%E6%82%B2%E4%BC%A4%E4%BD%9C%E6%96%87%E5%B0%8F%E5%AD%A6%E5%9F%BA%E9%87%91%E4%BC%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E6%8B%98/" target="cdt-mirror">界面新闻 | “最悲伤作文”小学基金会负责人被拘传</a>
 </h2>
@@ -694,7 +694,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d12yf3ck4n9fv0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2c4syz42pdehe.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -704,5 +704,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%AA
                 <td></td>
                 
         
-        <td><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://d2f7owg17px5sg.cloudfront.net">https://d2f7owg17px5sg.cloudfront.net</a><br/><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://d3rgxb1dx2obtb.cloudfront.net">https://d3rgxb1dx2obtb.cloudfront.net</a><br/></td>    </tr>
 </table>

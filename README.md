@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ocyz22ujumho.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2e0bfx8x5z00r.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ocyz22ujumho.cloudfront.net">https://d1ocyz22ujumho.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d3632g00rlcup5.cloudfront.net">https://d3632g00rlcup5.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d3632g00rlcup5.cloudfront.net">https://d3632g00rlcup5.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d1ocyz22ujumho.cloudfront.net">https://d1ocyz22ujumho.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%B7%83%E8%BF%9B%E5%B7%B2%E5%AE%A3%E5%91%8A%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">罗伯特卡帕：中国新经济大跃进已宣告失败</a>
@@ -70,7 +70,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%99%93%E7%92%90/?category=18271" rel="tag">王晓璐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E8%BF%9E%E6%88%98%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5-%E5%B9%B6%E6%B2%A1%E6%9C%89%E4%B8%AA%E4%BA%BA%E8%BA%AB%E5%88%86%E5%8F%AF%E7%94%A8/" target="cdt-mirror">联合新闻网 | 连战出席阅兵 并没有个人身分可用</a>
 </h2>
@@ -714,5 +714,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E
                 <td></td>
                 
         
-        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d1ocyz22ujumho.cloudfront.net">https://d1ocyz22ujumho.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d3632g00rlcup5.cloudfront.net">https://d3632g00rlcup5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d3632g00rlcup5.cloudfront.net">https://d3632g00rlcup5.cloudfront.net</a><br/><a href="https://d1ocyz22ujumho.cloudfront.net">https://d1ocyz22ujumho.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/></td>    </tr>
 </table>

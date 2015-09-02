@@ -21,9 +21,59 @@
                 <td></td>
                 
         
-        <td><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85%E6%B6%89%E5%AB%8C%E7%BC%96%E9%80%A0%E4%BF%A1%E6%81%AF%E8%A2%AB/" target="cdt-mirror">【异闻观止】环球时报 | 财经记者涉嫌编造信息被抓刍议</a>
+</h2>
+<p><p>据新华网报道，《财经》杂志记者王晓璐因涉嫌伙同他人编造并传播证券、期货交易虚假信息，被依法采取刑事强制措施。王晓璐25日就被爆出由公安机关带走协助调查，同时出事的还有中信证券董事总经理及证监会的相关人员。</p>
+<p>8月31日早晨王晓璐现身央视《朝闻天下》，承认“通过私下打听这种不正当的渠道，获得了新闻素材，然后加上自己的主观判断”，撰写了新闻。他表示自己“给国家和股民带来这么大损失，很后悔自己的行为”，并希望得到“从轻处理”。</p>
+<p>在25日出事的那批人中，王晓璐的事情最受关注。西方一些人权组织近日相继发声，指责王晓璐被当成“替罪羊”，要求对他“无条件释放”。国内互联网上也有一些人对王晓璐受刑事调查表达不满。</p>
+<p>这起案子目前仍在调查审理中，针对各种争议，或许有必要做出一些厘清。</p>
+<p>第一，前一段时间股市暴跌，其原因的多重性和复杂性已是共识，王晓璐报道所产生的实际作用应当是有限的。让王晓璐当股市暴跌的“替罪羊”，这或是舆论的一种印象，相信官方不会有这个意思，因为他显然“替不了这个罪”。相比之下，如果认为官方想通过这个案子对传播重大不实消息的人“杀一儆百”，这种猜测至少在逻辑上更能说得通。</p>
+<p>第二，王晓璐关于证监会研究维稳资金退出方案的报道高度敏感，他未向官方核实，经《财经》系统发出后，据向该杂志内部了解，他又通过新媒体摘出其中一段单发，做了“证监会研究维稳资金退出方案”的标题。发布这样的不实消息是否构成犯罪，王晓璐应当从中承担多大的责任份额，是很专业的法律问题，需要法庭来裁定。此外，警方抓王晓璐是否就是因为这一个情节，案情还有哪些其他内容，也有待司法机关的进一步消息。</p>
+<p>第三，王晓璐上电视台“悔罪”，这是舆论层面的事。至于王晓璐是否犯罪，犯了多大罪，中国法律首先重证据，不全由王晓璐在电视上说什么来决定。换句话说，王晓璐认罪的同时，法庭还需要掌握他犯罪的证据，才能最终给他定罪。如果法庭没有证据，他本人往自己身上揽也不足以治他的罪。</p>
+<p>第四，中国舆论场目前看来对法庭审判之前犯罪嫌疑人上电视“交待罪行”的做法产生了一些意见。这种情况在最近两三年比较集中，原因之一是：过去抓了犯罪嫌疑人后，官方多数情况下不介绍情况，只等判决结果出来后再向舆论和盘托出，舆论场也出现了不少意见，认为官方办案“不透明”。官方显然在怎么处理“透明”的问题上面临两难，公众的期待在不断刷新。</p>
+<p>第五，舆论的一些看法是真实存在的，这恐怕要求官方在处理敏感案件时做更为细致、到位的信息发布工作，不断调整，追求实效。另一方面，舆论也不应先验地怀疑官方做信息沟通的动机，而应看到当前这一工作怎么做都挺难的实情。总之，中国全面推进依法治国需要官民十分漫长的互动和磨合，逐渐形成就一些关键原则和做法的共识。</p>
+<p>最重要的是，法律已经走向中国治国理政的核心位置，它也应是所有机构和公民个人维护权益的根本依靠。比如出现司法争议的时候，相关各方都应坚决通过法律途径来对话，请最好的律师，将依法申辩权使用到极致。大家都应避免将司法纠纷政治化，即使有这种怀疑和担心，也应自我克制。</p>
+<p>如果我们总是习惯于从政治和价值观的角度审视敏感案件，那么相关的认识坐标将变得一塌糊涂，依法治国的推进将步履维艰。</p>
+<p>西方舆论每到中国有敏感案件发生时，都会热衷于前来搅和。对这种搅和中国社会应整体上报以冷淡。因为几乎所有这些搅和的确都以政治为目的，只会增添复杂性，不会让案件在法律层面变得更为清晰。切不要有西方舆论干预能够直接推动中国法治建设的幻想。(作者是环球时报评论员)</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85%E6%B6%89%E5%AB%8C%E7%BC%96%E9%80%A0%E4%BF%A1%E6%81%AF%E8%A2%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2%E7%BB%8F%E3%80%8B/?category=18271" rel="tag">《财经》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8F%B3/?category=18271" rel="tag">反右</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B3%95%E8%A5%BF%E5%B0%B8%E7%9A%84%E5%A4%A7%E6%9C%88%E9%A5%BC%E6%88%91%E4%BB%AC%E5%90%83%E4%B8%8D%E8%B5%B7/" target="cdt-mirror">【河蟹档案】法西尸的大月饼我们吃不起</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%AB%A0%E8%AF%92%E5%92%8C">章诒和</a>：昨天有事去王府井，南河沿。行人要安检，车要安检。临街店铺歇业。上厕所要身份证。——啊，我们的70周年！<br><a href="https://freeweibo.com/weibo/3880726841537685" target="/weibo/388">2015年08月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E5%B1%B1%E5%A8%83">文山娃</a>：正版請柬。//*<a href="https://freeweibo.com/weibo/%40%E5%8D%81%E5%B9%B4%E7%A0%8D%E6%9F%B4">十年砍柴</a>: 你抹掉的是“刘万永同志”么？党的十八大代表，也就这些福利了。<em>相关阅读｜《<a href="http://baike.baidu.com/subview/9499578/9556313.htm">百度百科：刘万永</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2222.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2222.jpg" alt="222" width="491" height="337"></a><br><a href="https://freeweibo.com/weibo/3882429150266058" target="/weibo/388">2015年09月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%84%A6%E5%B0%A7%E4%B8%8D%E9%BB%98">焦尧不默</a>：“楼对面的楼顶有狙击手，家里必须没人”。法西尸大月饼我们吃不起<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/222.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/222.jpg" alt="222" width="489" height="647"></a><br><a href="https://freeweibo.com/weibo/3880429339416438" target="/weibo/388">2015年08月27日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%AD%E9%A1%BAguoshun">郭顺guoshun</a>：SPAM 北京，北京。<em>相关阅读｜</em>《<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A7%E6%9C%88%E9%A5%BC%E3%80%8C%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%EF%BC%9A9%E6%9C%883%E6%97%A5%E5%8D%8F%E5%92%8C%E3%80%81%E5%90%8C%E4%BB%81/">【立此存照】大月饼</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2222.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2222.jpg" alt="222" width="498" height="664"></a><br><a href="https://freeweibo.com/weibo/3880047452272887" target="/weibo/388">2015年08月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%A5%AE%E6%B0%B4%E5%B1%85%E5%A3%AB">饮水居士</a>：同学公司在国贸附近，上午JC带着警犬去拜访，两个字“服”。。。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2226.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2226.jpg" alt="222" width="402" height="496"></a><br><a href="https://freeweibo.com/weibo/3882397043124916" target="/weibo/388">2015年09月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E6%98%93%E7%8B%AC%E7%89%B9%E8%A7%86%E7%95%8C">黄易独特视界</a>：反法西斯的新式武器？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2224.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2224.jpg" alt="222" width="450" height="600"></a><br><a href="https://freeweibo.com/weibo/3882558984805982" target="/weibo/388">2015年09月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%AE%B5%E8%B4%B5%E5%8F%91V">段贵发V</a>：座个地铁都享受国家领导人的保护待遇，作为中国人你还有什么不满的呢？<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%92%8B%E4%B8%80%E7%9C%8B%E8%BF%98%E4%BB%A5%E4%B8%BA%E7%94%B7%E5%8E%95%E6%89%80/">【图说天朝】咋一看还以为男厕所</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2225.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2225.jpg" alt="222" width="440" height="477"></a><br><a href="https://freeweibo.com/weibo/3882560146704513" target="/weibo/388">2015年09月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%AD%A6%E9%9C%B8%E9%9B%AA%E6%A0%91">学霸雪树</a>：普京，习总，金正恩，三人站一起，可以组成最具诗意组合“普习金”（如果金正恩也来参加大阅兵就完美了，我P了张图）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11160.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11160.jpg" alt="111" width="493" height="228"></a><br><a href="https://freeweibo.com/weibo/3880631811231339" target="/weibo/388">2015年08月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%B6%E6%99%AF%E6%B4%B2">陶景洲</a>：不添麻烦。<em>相关阅读｜</em>《<a href="http://blog.dwnews.com/post-842277.html">江泽民和胡锦涛将双双缺席9.3阅兵式</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/11161.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/11161.jpg" alt="111" width="460" height="296"></a><br><a href="https://freeweibo.com/weibo/3880560353356792" target="/weibo/388">2015年08月27日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%A8%E5%88%A9%E5%8D%9A%E5%A3%AB">亨利博士</a>：看了这个国外阅兵方队和观摩团名单，会不会下意识捂住钱包？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2223.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2223.jpg" alt="222" width="360" height="488"></a><br><a href="https://freeweibo.com/weibo/3880010496529369" target="/weibo/388">2015年08月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A8%E9%94%A6%E9%BA%9F">杨锦麟</a>：這些參加抗战老兵方陣的老人家，70年之後才有一次被承認的機會，這措辭嚴厲的「十不准」，他們應該不會也不敢犯規吧！其實可以更客氣表達出來，看這文字，不會是朝陽區人民群眾寫的吧？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2225.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2225.jpg" alt="222" width="507" height="676"></a><br><a href="https://freeweibo.com/weibo/3880905729350296" target="/weibo/388">2015年08月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E4%BF%8A%E6%99%93">李俊晓</a>：这算什么兵种?<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/222.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/222.jpg" alt="222" width="458" height="537"></a><br><a href="https://freeweibo.com/weibo/3882616836909186" target="/weibo/388">2015年09月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%B0%8F%E8%B1%86%E5%AD%90">努力的小豆子</a>：把国际通辑儿招来了。<em>相关阅读｜</em>《<a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150901_china_sudan_us">BBC｜美不满北京邀苏丹总统阅兵 中国做出回应</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2221.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2221.jpg" alt="222" width="440" height="610"></a><br><a href="https://freeweibo.com/weibo/3882599632432005" target="/weibo/388">2015年09月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%99%BA%E5%9D%A4%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%B8%82">智坤在台北市</a>：連爺爺看閱兵。  相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E8%BF%9E%E6%88%98%E7%A7%B0%E4%B8%AD%E5%85%B1%E9%A2%86%E5%AF%BC%E6%95%8C%E5%90%8E%E6%88%98%E5%9C%BA%E3%80%80%E6%80%BB%E7%BB%9F%E5%BA%9C%E5%9B%9E%E5%BA%94%E9%A9%B3/">BBC｜连战称中共领导“敌后战场” 总统府回应驳斥</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2223.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2223.jpg" alt="222" width="578" height="417"></a></p>
+<p></p><p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B3%95%E8%A5%BF%E5%B0%B8%E7%9A%84%E5%A4%A7%E6%9C%88%E9%A5%BC%E6%88%91%E4%BB%AC%E5%90%83%E4%B8%8D%E8%B5%B7/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3882566370922240" target="/weibo/388">2015年09月02日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9E%97%E5%A5%87%E8%A7%86%E8%A7%92">林奇视角</a>：金正恩心想，那次我们阅兵，你们让周永康来，就站在我爹俩旁边，事后证明他是坏人，这不故意羞辱我们么？我要以其人之道还治其人之身，这次派崔龙海去，等他回来的……  <em>相关阅读｜《<a href="http://cn.reuters.com/article/2015/08/25/ww2-anniversary-china-leaders-idCNKCS0QU0CU20150825">路透<em>｜</em>朝鲜高官崔龙海将出席中国抗战胜利纪念活动</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2224.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2224.jpg" alt="222" width="447" height="314"></a><br><a href="https://freeweibo.com/weibo/3879971954766318" target="/weibo/387">2015年08月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BC%A0%E5%AE%8F%E6%9D%B0">张宏杰</a>：SPAM 大屏幕。<em>相关阅读｜</em>《<a href="http://site.6park.com/bolun/index.php?app=forum&act=threadview&tid=13973261">[因为有了党，天才这么蓝]是真的吗？[图]</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/08/2221.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/2221.jpg" alt="222" width="557" height="360"></a><br><a href="https://freeweibo.com/weibo/3880084941448474" target="/weibo/388">2015年08月26日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B3%95%E8%A5%BF%E5%B0%B8%E7%9A%84%E5%A4%A7%E6%9C%88%E9%A5%BC%E6%88%91%E4%BB%AC%E5%90%83%E4%B8%8D%E8%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%8D%E5%87%86/?category=18271" rel="tag">"十不准"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%B8%87%E6%B0%B8/?category=18271" rel="tag">刘万永</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90/?category=18271" rel="tag">包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%98%A5%E8%8E%B9/?category=18271" rel="tag">华春莹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E8%B4%B8/?category=18271" rel="tag">国贸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%85%E6%B0%91%E6%89%BF%E8%AF%BA%E4%B9%A6/?category=18271" rel="tag">居民承诺书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%94%E9%BE%99%E6%B5%B7/?category=18271" rel="tag">崔龙海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E9%87%91/?category=18271" rel="tag">普金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E5%B0%B8/?category=18271" rel="tag">法西尸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%99%E5%87%BB%E6%89%8B/?category=18271" rel="tag">狙击手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E8%AF%92%E5%92%8C/?category=18271" rel="tag">章诒和</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A6%E6%B6%9B/?category=18271" rel="tag">胡锦涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E4%B8%B9%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">苏丹总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9F%86/?category=18271" rel="tag">蛤蟆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5/?category=18271" rel="tag">阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A2%E7%98%AB/?category=18271" rel="tag">面瘫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%A2%91%E5%BA%97/?category=18271" rel="tag">高碑店</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%98%9F%E6%98%9F%E6%B3%95%E9%99%A2%EF%BC%8C%E6%AF%94%E5%88%AB%E7%9A%84%E6%B3%95%E9%99%A2%E9%AB%98%E5%88%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E5%93%AA/" target="cdt-mirror">【立此存照】星星法院，比别的法院高到不知道哪里去了</a>
 </h2>
 <p><p><strong><a href="http://weibo.com/1785730287/CyzDVcSjr">@dianpu_river</a></strong>：在当当上，最高法院已统一变成**法院。新广告法就这样以出人意料的方式影响了我。<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"></p>
@@ -538,48 +588,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9B%BD%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">日经中文网｜中国政府封堵“中国危机”</a>
-</h2>
-<p><p>8月31日中国央行公告显示，央行今天以利率招标方式开展了短期流动性调节工具（SLO）操作，期限为6天期，规模为1400亿元，中标利率为2.35%。</p>
-<p>《日经中文网》报道，成为全球性股价连锁下挫震源地的中国正在动用一切手段来防止经济衰退。中国人民银行（央行）在一周的时间内向市场注资5000亿元。虽然在9月3日抗日战争胜利70周年纪念日这一重大节点之前股价暴跌暂时止步，但是超乎想象的经济减速仍在继续。中国政府似乎尚未无法完全封锁住“中国引发的危机”。</p>
-<p>中国央行在8月25日宣布再次降息降准，8月24~29日又通过例行公开市场操作向短期市场注资3000亿元。从这一周的注资额来看，自2014年春节前的2014年1月20～24日注资3750亿元以来，创约1年半来的最高水平。</p>
-<p>除了例行公开市场操作外，央行还在8月26、28日实施了临时短期注资，注资额达2000亿元。一周的注资额总共达到了5000亿元。</p>
-<p>在资金需求高涨的春节和年末以外的时期，单周注资额达到5000亿元的情况实属罕见。自股价暴跌的6月下旬以来，每周的平均注资额约为900亿元，与此相比，上周的注资额达到5倍以上的巨大规模。</p>
-<p>以此前的人民币贬值为导火索，人民币贬值预期升温，中国国内资金加速流向海外。如果国内资金短缺，经济很可能进一步减速。央行实施大规模注资是为了防止国内资金短缺，从而支撑起经济。</p>
-<p>中国还在严查非法的海外汇款。公安部近期宣布，要严厉打击非法向海外汇款的“地下钱庄”。据悉，公安部和央行等机构共同查获的涉案金额高达4300亿元。</p>
-<p>中国即将迎来抗日战争胜利70周年纪念日和阅兵式，之后习近平主席将访问美国，中国似乎无论如何都要避免中国引发的新的市场混乱。</p>
-<p>8月28日，美国总统助理赖斯访华，与主管外交的国务委员杨洁篪以及决定中共经济运营方针的“中央财经领导小组”办公室主任刘鹤举行了会谈。</p>
-<p>刘鹤是习近平的经济智囊团成员。会谈内容并未对外公开，但双方就习近平访美之前的股市行情和人民币贬值交换意见的可能性很大。</p>
-<p>上海股市行情能否完全止跌，仍然是一个未知数。信用交易的整理仍在继续，经济景气也明显出现恶化。8月21日，中国的财新传媒和英国的Markit发布的8月制造业采购经理人指数（PMI）速报值降至6年零5个月来的最低水平。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9B%BD%E5%8D%B1%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%BC%BA%E5%8C%96%E5%85%9A%E5%86%85%E6%B3%95%E8%A7%84%EF%BC%8C%E5%AE%B6%E8%A7%84%E4%BB%A3%E6%9B%BF%E5%9B%BD%E6%B3%95%EF%BC%9F/" target="cdt-mirror">美国之音｜中共强化党内法规，家规代替国法？</a>
-</h2>
-<p><p>据新华社和人民日报报道，中共中央决定建立党内法规工作联席会议制度，由中办主任栗战书主持，统筹协调党内法规制定工作，推动党内法规的贯彻实施。</p>
-<p>有评论认为，建立这个机制是为了应对党内腐败日益严重和猖獗的局面，遏制更多的老虎、苍蝇出现，从而提供中共执政之合法性。那么，党内法规与党纪有何区别，又与党章有何不同？党规与国法的关系又是怎样？靠制定更多的党内法规就能拯救中共吗？</p>
-<p>明镜集团总裁何频指出，只要围绕政权稳定，中国政府什么都做，也可以什么都不做。外界如果以传统的政治和经济标准去衡量，都可能是错的；用理性思维去预测它的未来更荒谬。</p>
-<p>历史学者章立凡说，中共最高领导人已经意识到，腐败问题会影响到中共的合法性，合法性靠经济增长和政治清廉来维系，这两项目前都失败了，所以想到靠党的法规来规范。但这是没有用的，目前的体制就是自己跟自己打仗。</p>
-<p>何频认为，习近平集权有目共睹，但是他和执政党并不是想回到文革时代，虽然他们看起来有文革倾向，脑子里就是毛的东西；他们不愿意接受政治文明，因为任何政治文明因素都会让这个体制无法维持下去。</p>
-<p>章立凡指出，习近平可能成为自毛泽东以来最有权力的领导人；但是伟人不可复制；习正朝着最高度的集权努力，是否成功，也许很快我们就会看到结果，请大家拭目以待。</p>
-<p>（美国之音 雨舟）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%BC%BA%E5%8C%96%E5%85%9A%E5%86%85%E6%B3%95%E8%A7%84%EF%BC%8C%E5%AE%B6%E8%A7%84%E4%BB%A3%E6%9B%BF%E5%9B%BD%E6%B3%95%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -591,7 +599,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tg7mn9efvix2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddb6p1dqze1i8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -601,5 +609,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d331t5q0uy7z23.cloudfront.net">https://d331t5q0uy7z23.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/></td>    </tr>
 </table>

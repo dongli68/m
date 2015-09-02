@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgzpsbzordyd7.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3amu7nns4r91q.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d3dqtxzb16a399.cloudfront.net">https://d3dqtxzb16a399.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B4%A2%E6%96%B0%E6%96%87%E5%8C%96-%E5%88%98%E8%8B%8F%E9%87%8C%EF%BC%9A%E4%B8%80%E4%BB%BD%E4%BA%8C%E6%88%98%E4%B9%A6%E5%8D%95%EF%BC%88%E4%B8%8A%EF%BC%89/" target="cdt-mirror">财新文化 | 刘苏里：一份“二战”书单（上）</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B4%A2%E6%96%B0%E6%96%87%E5%8C%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B4%A2%E6%96%B0%E6%96%87%E5%8C%96.jpg" alt="财新文化" width="450" height="532"></a></p>
+<p>文|刘苏里</p>
+<p>（万圣书园创始人）</p>
+<p>开列书单，注定吃力不讨好，尤其开列“二战”书单。“二战”打上引号，并非简单出于缩写原因。</p>
+<p>关于70多年前的“那场战争”，仅起止年份和日期，便有无数说法。安东尼•比弗最离奇，在两卷本《二战史》（邵旭东 等 译，海南出版社，2015年）中，他将1939年5月发生在诺门坎的苏日冲突，定为“二战”起始，而截止日定于1945年8月8日苏联出兵中国东北。</p>
+<p>即便对战争的命名，世人耳熟能详者就有：第二次世界大战（简称“二战”）、世界反法西斯战争、抗日战争、太平洋战争、卫国战争等等。可谓一战各表。谈起战争起源，也是五花八门；追究深层原因，更是仁智互见。剑走偏锋者，当属美国年轻的古典学教授克里布斯。他的《一本最危险的书：塔西佗<日耳曼尼亚志>：从罗马帝国到第三帝国》（荆腾 译，江西人民出版社，2015年），将塔西佗写于公元98年的《日耳曼尼亚志》，解释成纳粹主义的精神源头，尽管纳粹对塔西佗原意做了曲解。</p>
+<p>凡此种种，并不表明各家在任何问题上没有共识或接近一致之处。对于那场战争结束年份，各家看法比较一致，即1945年；它被称为“第二次世界大战”，多有共识；各家对它的关注程度，各有意图，但总趋势是在加强，且以总结教训、面向和平为主。“各有意图”指的是：不仅有尚未走出战争阴影的情况存在，也有不止一家仍心存意识形态考量。这类嫌隙，我称为“人类面临的考验”。这考验，既面对着史观，也牵涉心智；既是政治的，也是文化的，乃至道德和价值的。</p>
+<p>进入正题。</p>
+<p> </p>
+<p><strong>战争的全景描写</strong></p>
+<p>这份书单，以近年出版物（尤其2015年）为主，必要时兼顾其他年份。考虑到各家分歧，特别因我也认同回顾“二战”应重在反思，总结教训，所以尽量避免容易引起争议的话题。有关战争本身的作品介绍，本着从简原则。今天是过往通向未来的必经之路，知往鉴来，不如鉴今更为重要。在此意义上，我完全赞同沃格林“掌握今天”的洞见。</p>
+<p>前面提到比弗的“离奇”，并不表明作为军事-历史两栖学者的这部厚重作品缺少价值。因其写作的两个特点，普通读者颇值一读（但并非首选）：采用专题讲述；同时照顾到主次战场间关系，包括菲律宾和缅甸这样的小战场。</p>
+<p>此类视野比较开阔的作品，以福特的《太平洋战争》（刘建波 译，北京联合出版社，2014年）更具代表性。对太平洋战争别有兴趣的读者，若只选一种，就是福特了。在照顾各战场间关系上，福特比之比弗，逻辑更为鲜明，更少偏见，写作也从容许多。举个例子，关于战争爆发原因：</p>
+<p>中日战争爆发后，日本与英美的传统关系受到挑战——日本侵华动了英美在华乃至远东奶酪。罗斯福和丘吉尔签署《大西洋宪章》，以及美国务卿赫尔1941年11月发布备忘录，最终促成日本下决心与英美决战，因为此前美英对日宣布经济制裁以及美国明确而强烈要求日本从中国撤军，已将日本推向和战绝境——哪个选择都将走向“死亡”，前者不仅丢掉利益，更可能丢掉具有战略意义的“面子”，而后者，在日本看来尚有一线生机——他们断定英美没有做好应战准备，事实也如此。但日本错估了英美在世界范围内铲除极权的决心，而日本的所有言行，都表明这个政权的性质，是《大西洋宪章》定义欲意铲除的对象。偷袭珍珠港成功，却敲响了日本帝国扩张称霸的丧钟。</p>
+<p>关于“二战”全景描写更为简洁的版本，尤其欲意详细了解西线、东线战场，当推约翰•基根的《二战史》（李雯 译，北京大学出版社，2015年）。只是，基根虽然也着墨太平洋战场，但很遗憾，只写了美日之战。时间有限但又想了解“二战”概貌的读者，诺曼•斯通的《二战简史：黑暗时代》（美同 译，中信出版社，2015年）是惟一选择。没有比这本书更为洗练而精彩的版本了。它在几个方面具有无法替代的优势：对战争爆发原因的分析，史事叙述极简却详略得体，评价汪洋恣意却不失审慎。</p>
+<p>说到战争爆发原因，A.J.P.泰勒的《第二次世界大战的起源》（潘人杰、朱立人 译，上海辞书出版社，2013年），仍不失一种选择，如果你对译品不那么挑剔的话。泰勒“二战是一战的延续”的观点，影响深远，基根开篇便引用泰勒，并以此为叙述基础。斯通的简史亦以“1914年……”开篇。西方学者，至少英国，对泰勒均有共识。上述作品的作者泰勒、基根和斯通，都是英国人。</p>
+<p>据我观察，中国出版界（当然包括学术界），对“二战”结束70年的兴趣，远超过60年、50年……这一定程度反映了国人眼界逐渐开阔的现实——出版是社会心理脉动的晴雨表。单说“二战”具体战场、战役吧，作品之多，会让饶有兴致的读者大饱眼福。</p>
+<p>仅举几例：阿特金森的“解放三部曲”——《破晓的军队：从挺进突尼斯到解放北非，1942-1943》、《战斗的日子：从攻占西西里岛到解放意大利，1943-1944》，和《黎明的炮声：从诺曼底登陆到第三帝国覆灭，1944-1945》（皆出自重庆出版社，2015年）。</p>
+<p>与阿特金森匹敌者，是安东尼·比弗《斯大林格勒，1942》、阿姆布鲁斯《诺曼底，1944》和比弗（又是比弗）《柏林，1945》（皆出自海南出版社，2015年）。</p>
+<p>更详细的作品还有诺斯《制霸太平洋：从珍珠港到东京湾》（团结出版社，2014）、尚拉《阿登森林的鏖战》（重庆大学出版社，2014），以及瑞恩“二战史诗三部曲”之《最长的一天：1944诺曼底登陆》、《遥远的桥：1944市场花园行动》和《最后一役：1945柏林战役》（中信出版社，2015）……其中，描写代号“市场花园行动”的阿纳姆战役，最动人心魄，读之久抚长卷而三叹。</p>
+<p>《黎明的炮声》全景描述了诺曼底登陆，以及随后发生持续将近一年的西线战役。广义地，我们可以将西线战场从北非，一直拉抻到西西里（皆以地中海为中心），再到诺曼底和柏林。此书部头完全配得上作者欲意描写事件的规模和性质。记者手法，以细节见长，但并未伤害这一无法想象工程的骨架——这样的“工程”，此前人类不曾有，此后何时再有不知道。正是阿特金森，让我怀疑斯大林对西方阴谋的指责——“工程”从策划到实施，花去两年多时间。作战动员350万将士，无数作战武器和战事物资，仅首批运抵法国的地图便达3000吨。即便如此，美军82、101空降师负责D-day引导性作战，损兵折将作战单位仍少则25%，多达60%。东线是被动作战，西线是主动出击。稍具军事常识，都知道这意味什么。回到与战争起源有关的“绥靖政策”，说东西方有几乎等量的教训并不为过，尽管性质非常不同——西方试图“祸水东引”，没有足够史实依据，《苏德互不侵犯条约》却是白纸黑字。</p>
+<p>尽管如此，被苏俄称为“卫国战争”的东线战场仍极其重要。罗伯茨称它为“斯大林的战争”（《斯大林的战争》，李晓江 译，社科文献出版社，2013年）。但其意蕴亦极其深刻——在西方人眼里，比之当时苏俄，纳粹更富侵略性，奉行的教义更加邪恶。</p>
+<p>罗伯茨值得读，不是因他立场，而是态度。罗氏声称没想为斯大林翻案，而是想告诉人们，作为战争领袖的斯大林，其复杂、丰富的面相。罗氏结论简单明了：没有东线胜利，战胜希特勒是可疑的。这个结论当然可疑。但东线胜利了，是事实，领导东线的主帅是斯大林，也是事实，虽然朱可夫作用可能更大（参见罗伯茨《朱可夫：斯大林的将军》，社会文献出版社，2015年）。无论出于何种原因，斯大林最后与丘吉尔、罗斯福、杜鲁门，有时包括蒋介石，结成战时同盟，是最后战胜纳粹德国的关键因素。普通读者还可通过因“二战”崛起的斯大林，是怎样步步推动战中“同盟”解体，最终“朋友”翻脸，使冷战成为现实，找到一个释读的切入口。</p>
+<p>以上简述，可一窥“二战”作品规模及深度。但往年几种“老书”，依然令人难忘。它们是：丘吉尔《第二次世界大战回忆录》（6卷），戴高乐《战争回忆录》（3卷），夏伊勒《第三帝国的兴亡》（2卷）和《第三共和国的崩溃：1940年法国沦陷之研究》（2卷），基恩斯《非常年代：罗斯福夫妇在二战岁月中》（2卷，2015年再版），都是大部头。小部头作品无计其数，个人非常喜欢安布罗斯《兄弟连》，什皮尔曼《钢琴师：二战期间华沙幸存记》，柯林斯《巴黎烧了吗？》，当然还有基尼利《辛德勒名单》，以及尽人皆知的《安妮日记》（2015年出了新版）。</p>
+<p>刊于《财新周刊》2015年第34期，原题为《人类面临的考验：一份“二战”书单》。下篇将于明日由财新文化公号发送。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B4%A2%E6%96%B0%E6%96%87%E5%8C%96-%E5%88%98%E8%8B%8F%E9%87%8C%EF%BC%9A%E4%B8%80%E4%BB%BD%E4%BA%8C%E6%88%98%E4%B9%A6%E5%8D%95%EF%BC%88%E4%B8%8A%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E6%88%98/?category=18271" rel="tag">二战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E6%92%AD/?category=18271" rel="tag">直播</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E4%B8%96%E9%81%93%E8%8B%A5%E6%95%8F%E6%84%9F-%E4%BA%BA%E5%BF%83%E4%BE%BF%E6%95%A3%E4%B9%B1/" target="cdt-mirror">王海涛：世道若敏感 人心便散乱</a>
+</h2>
+<p><p>多年之后，回忆起2015年7月20日的那个上午，晓璐或许会感慨，那是“时无英雄，使竖子成名”的岁月。</p>
+<p>那个时候，晓璐是一名财经记者。</p>
+<p>记者都有成名的冲动，但绝不会想过以晓璐这种方式成名。那天上午，他的一篇署名稿件发表。稿件中说，证监会正在研究“救市退出方案”。沪指迅速下挫，证监会随后紧急澄清，并无救市退出计划。但过了3天，救市大业，还是呈现出了溃败的模样。</p>
+<p>救市未果，责任在谁，众说纷纭。8月25日，新华社消息称，晓璐被公安机关要求协助调查。8月31日，CCTV播出晓璐被采访的画面。</p>
+<p>他说，“为了一味追求轰动效应，不负责任地编造传播不实报道，造成了市场混乱和恐慌，严重影响了市场信心，给国家和广大投资者造成巨大损失”。</p>
+<p>这句话，我是这么理解的——救市国家队被一篇报道在屁股后面打了一枪，便军心四散了，并引发市场人心散乱。于是，国家损失巨大、投资者损失巨大。</p>
+<p>这不由让人想起“一言丧邦”的典故。一篇报道为什么这么大的威力？晓璐还说了有一句话，那就是，“我不应该在敏感时期发表（有关救市计划退出的报道）”。</p>
+<p>“敏感时期”4个字，道出了国家队溃散的另一层原因：未必是报道太生猛，而是世道太敏感。</p>
+<p>晓璐作为一个新闻工作者，一定知道，这是一个敏感的敏感的时代。有些事敏感。，有些人敏感，有些时间敏感，有些公司敏感，有些新闻敏感，甚至，有些词语也是敏感的。这些敏感的东西，你如果不避开，后果就会很严重。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%8E%8B%E6%99%93%E7%92%90.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%8E%8B%E6%99%93%E7%92%90.jpg" alt="王晓璐" width="528" height="329"></a></p>
+<p>有些人质疑，一个记者可以将股市弄垮？这种质疑者显然没有理解什么是“敏感”——敏感就是汛期堤坝上的蚁穴，一触即溃。当前股市的表现，充分解释了什么叫敏感。只是，在堤坝崩溃之后，去追责“蚂蚁”，使得所谓的“敏感”，相当魔幻。</p>
+<p>你搞不清楚，这个时代是如何一步一步变得敏感的，就像你搞不清楚，2015年的股市，是如何一步一步变得敏感的。所谓敏感的时代，就是真相难以捉摸的时代——就像2015年的沪指，真相到底是5178点还是2850点？</p>
+<p>这个问题，连证监会也难以回答，证监会关注的是“人心”。</p>
+<p>8月7日，证监会新闻发言人说，“近期中国证券业协会、中国证券投资基金业协会分别组织证券公司、基金管理公司，召开维护证券市场稳定工作座谈会。证监会张育军主席助理会上继续把稳定市场、稳定人心作为当前首要工作。”</p>
+<p>翻看历史，“稳定人心”是一项极为艰难的工作，尤其是敏感时期的人心。</p>
+<p>1644年的早春，当农民军围攻北京城的时候，崇祯皇帝三次撞钟召集“国家队”应对，几无人响应。大臣们都想着私利——在他们看来，大明亡了，无关紧要，换个主子而已。李自成刚刚进城，他们便排队向“新朝廷”讨要官职去了。</p>
+<p>崇祯上吊时留下遗言，“朕非亡国之君，臣乃亡国之臣”，怀着对他豢养的“国家队”的无限愤恨，以发掩面，羞去见列祖列宗，终究还是去了。这厮至死也不承认，他的昏聩和自负，才是“人心”难以聚拢的关键。这厮至死也没明白，既然江山是你的，丢与不丢，别人是不会上心的。</p>
+<p>但股市不是某一个人的，是国家的，也是股民的。所以证监会说稳定人心是当前的首要工作，所以，晓璐的“报道”，中信证券的“猫腻”，证监会的“内鬼”，以及恒生电子的“非法经营”，都一一暴露了。这几件事，在这个“敏感时期”，似乎都有象征意义，但或许也只是起到象征性的作用。</p>
+<p>在“国家队”内部，每揭出一个内鬼，就会有人相信还有更多内鬼，没揭出一个猫腻，就会有人相信还有更多猫腻。就像你去饭馆吃饭，看到有苍蝇飞，老板打死一只苍蝇，你很难相信这个馆子就此干净了，看着苍蝇的尸体，你一定会更加确认，这个馆子，确实不卫生。</p>
+<p>最后，我想说的是，不管世道多么敏感或艰难，都要对未来保持希望和信心，并努力做一个“心不散”的人——君不见，5000点时买的银行股，3000点的时候不就解套了吗？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E4%B8%96%E9%81%93%E8%8B%A5%E6%95%8F%E6%84%9F-%E4%BA%BA%E5%BF%83%E4%BE%BF%E6%95%A3%E4%B9%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2%E7%BB%8F%E3%80%8B/?category=18271" rel="tag">《财经》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8F%B3/?category=18271" rel="tag">反右</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%A4%9A%E4%BD%8D%E5%8F%8D%E5%8D%A0%E4%B8%AD%E9%AA%A8%E5%B9%B2%E5%8F%8A%E8%AD%A6%E5%91%98%E8%B5%B4%E4%BA%AC%E9%98%85%E5%85%B5/" target="cdt-mirror">美国之音｜香港多位反占中骨干及警员赴京阅兵</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/B1436D1A-B347-4467-9E23-99287B2F6204_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/B1436D1A-B347-4467-9E23-99287B2F6204_w640_r1_s.jpg" alt="B1436D1A-B347-4467-9E23-99287B2F6204_w640_r1_s" width="548" height="337"></a><p>港媒报道香港阅兵代表团名单（美国之音图片）</p></div>
+<p>香港—港府星期二公布参加9/3阅兵的特别行政区代表团287人的名单，由特首梁振英星期三率阅兵团赴京。香港媒体报道，多名反占中运动核心人物和处理占领行动的警务人员都获邀。有学者相信，明显是这些人因反占中被论功行赏。去年积极参与反占中运动的“保普选反占中大联盟”的多名核心成员，包括发起人周融、郑赤琰、刘炳章等6人，占领期间主理禁制令的亲政府律师陈曼琪， 以及处理占领行动的前警务处长曾伟雄、现任处长卢伟聪、助理处长张德强等5人，都是成员。此外，曾为去年8/17反占中游行担任纠察的交通安全队总监崔志 仁、批评冲击升旗礼的香港升旗队总会总监许振隆，也获邀。另外，保普选反占中大联盟的其他一些核心成员，也会随人大政协团赴京。</p>
+<p>据报道，特区代表团成员来自多个界别，包括政商界、中央驻港官员、传媒、宗教、教育，以及抗日老兵及家属等。另外，各个建制党派都有代表，包括自由 党荣誉主席田北俊和主席钟国斌、民建联主席李慧琼及副主席周浩鼎等。泛民有3位温和派获邀，包括民主党的狄志远、前公民党立法会议员汤家骅和卫生服务界立 法会议员李国麟。</p>
+<p>据苹果日报报道，代表团名单由特首和中央商讨和敲定，特首梁振英的亲信和多位亲中社团的高层都有获邀。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%A4%9A%E4%BD%8D%E5%8F%8D%E5%8D%A0%E4%B8%AD%E9%AA%A8%E5%B9%B2%E5%8F%8A%E8%AD%A6%E5%91%98%E8%B5%B4%E4%BA%AC%E9%98%85%E5%85%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">反占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85%E6%B6%89%E5%AB%8C%E7%BC%96%E9%80%A0%E4%BF%A1%E6%81%AF%E8%A2%AB/" target="cdt-mirror">【异闻观止】环球时报 | 财经记者涉嫌编造信息被抓刍议</a>
 </h2>
 <p><p>据新华网报道，《财经》杂志记者王晓璐因涉嫌伙同他人编造并传播证券、期货交易虚假信息，被依法采取刑事强制措施。王晓璐25日就被爆出由公安机关带走协助调查，同时出事的还有中信证券董事总经理及证监会的相关人员。</p>
@@ -154,7 +235,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/9%C2%B73%E9%98%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F/?category=18271" rel="tag">中华民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E6%95%99%E8%82%B2/?category=18271" rel="tag">历史教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%AF%E8%92%99/?category=18271" rel="tag">启蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E4%BD%9B/?category=18271" rel="tag">哈佛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E5%88%B6/?category=18271" rel="tag">政治体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86/?category=18271" rel="tag">真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">西方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%9F%A5%E5%90%8D%E6%95%99%E8%82%B2%E5%AE%B6%E4%BF%A1%E5%8A%9B%E5%BB%BA%E5%A4%AB%E5%A6%87%E8%A2%AB%E6%8A%93/" target="cdt-mirror">自由亚洲｜知名教育家信力建夫妇被抓</a>
 </h2>
@@ -519,75 +600,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E5%A5%B3%E5%85%B5%E6%AF%94%E8%80%81%E5%85%B5%E9%87%8D%E8%A6%81-%E6%9D%83%E5%8A%9B%E6%AF%94%E5%86%9B%E5%8A%9B%E9%87%8D%E8%A6%81/" target="cdt-mirror">苹果日报｜李平：女兵比老兵重要 权力比军力重要</a>
-</h2>
-<p><p>中共大阅兵在即，中国官方媒体、网站的主旋律与国际舆论关注的焦点的偏差越来越大。充斥海内外网站的受阅女兵整齐划一的高耸胸部，让受阅老兵更形苍老；习近平的特赦令让人想起被囚禁的维权律师们，让被特赦的老兵更形稀少；受阅军人在训练基地每日六餐，但奋战在救援现场的官兵每天只能吃两顿，让人感受的是阅兵比救援重要；受阅军备有 84% 是首次亮相，但为的是向「习帝加冕」山呼万岁，让人感受的是权力比军力重要。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k99vvvvvvvvvvvvvvvvvvvvvvvvvvv.jpg" alt="k99vvvvvvvvvvvvvvvvvvvvvvvvvvv" width="591" height="845"><br>
-女兵整齐划一的高耸胸部 ( 上 ) ，湖南资兴市的九旬抗战老兵王飞黄生活困顿 ( 下 )</p>
-<p>上周日大阅兵举行彩排后，中共喉舌信誓旦旦地说：「大阅兵必会提升中国社会的凝聚力。」但是，当局为确保阅兵万无一失，肆无忌惮地扰民、虐民，从上餐馆、上公厕要登记身份证，到五大商业街停业、协和等大医院停诊，这是要提升民间怨气还是凝聚力？当局为确保受阅官兵能承受高强度训练，每日向他们提供六餐，包括三顿自助餐。让网民无语的是，官方媒体披露，今年 6 月 1,200 多名武警官兵在长江沉船现场救援时，「每天只能吃上两顿米饭加咸菜」，这是要提升军民的怨气还是凝聚力？</p>
-<p>只报道想让你看到的</p>
-<p>中共喉舌的报道，永远是只让你看到想让你看到的，而网民投诉和海外媒体报道，才能让你看到你原本应该看到、想到原本应该想到的另一面。其一，万国来朝的风光背后，是美日德加的抵制。中共官方媒体对有 49 个国家的领导人或高级代表到北京出席阅兵，洋洋得意地宣称这是相当不错的外交成绩单。对于美日等不愿为习近平的加冕或中国军备扩张背书，官方媒体只能酸溜溜地说，中国想干甚么，「可以不那么顾忌华盛顿怎么想，以及它最铁杆的盟友日本等怎么看」。</p>
-<p>其二，军备扩张的威武背后，是穷兵黩武的隐患。备受关注的中国军力增长，是在上届中央军委两个副主席贪腐无度的情况下取得的。一旦军费继续维持每年双位数的增长，而被贪污、挪用的情况又受到遏制，中共的军备扩张将更震撼世界。习近平想藉展示军力，就东海、南海问题发出威慑，但结果只会刺激军备竞赛，刺激美日同盟并向南海纷争相关国家提供更多军援。</p>
-<p>呼吁削阅兵剃习眼眉</p>
-<p>其三，人民战争的声势背后，是草木皆兵的惶恐。北京号称发动 85 万群众巡逻，确保阅兵安全，令人质疑强大的军队为甚么要靠手无寸铁的群众来保护？</p>
-<p>而当局下令三个确保，包括确保大阅兵筹备期间北京不发生任何安全事件、确保全国不再发生大的事故与民众事件、确保新疆等地不发生恐怖袭击事件，让人们想到的唯一办法就是确保相关事件不曝光，只要让报章、网站灭声，就可以当作甚么都没发生过。全国防火长城的升级，不只是预作准备，而且其祸害自然延伸到阅兵之后。</p>
-<p>其四，皇恩浩荡的加冕背后，是权力斗争的延伸。向抗战老兵发放 5,000 元津贴，超越邓小平、江泽民、胡锦涛的特赦，早过邓江胡的大阅兵，邀国民党前主席参与阅兵，习近平欲藉阅兵展示权力稳固，但是，天津大爆炸后涌现的要求撤销阅兵、缩减阅兵规模的声浪，明剃习近平眼眉，官方媒体那番「我们经常刚刚擦干眼泪就迎来国家的伟大时刻」的论断，怎么听着都像要唾面自干。</p>
-<p>而民众的怨怼和讥讽，在这首「沁园春． 93 阅兵」中表达得淋漓尽致：「帝都风光，洗澡登记，入厕签到。望京城内外，层层查验；大街小巷，制服笼罩。鸽子进笼，航模登记，欲让小鸟网里飘。过天桥，看民兵红旗，份外妖娆。安保如此多招，令街道大妈累瘦腰。怜磨刀老汉，已然失业；物流快递，生意寥寥。一代天骄，成吉思汗，只能携带指甲刀。俱往矣，数风流人物，还看习包。」</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E5%A5%B3%E5%85%B5%E6%AF%94%E8%80%81%E5%85%B5%E9%87%8D%E8%A6%81-%E6%9D%83%E5%8A%9B%E6%AF%94%E5%86%9B%E5%8A%9B%E9%87%8D%E8%A6%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">苹果日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97/?category=18271" rel="tag">诗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%B0%91%E5%90%8C%E4%B9%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">东网 ｜南桥：不敢与民同乐的中国阅兵</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/Screen-Shot-2015-08-25-at-1.41.28-AM-670x1024.png" alt="Screen Shot 2015-08-25 at 1.41.28 AM" width="551" height="842"></p>
-<p>离阅兵的日子愈来愈近，一种诡异的紧张气氛也愈来愈浓。天津爆炸、股市暴跌，丝毫不影响最高当局搞大阅兵的决心。官方媒体开始了对大阅兵的宣传，这种宣传类似于2008年奥运前歌舞升平八方来朝的渲染，只是这一次效果恐怕不如08年了，老百姓已经有点疲了，知道热闹过后百姓生活依旧艰辛，国家的宴席不一定是百姓的喜庆。</p>
-<p>阅兵前，北京人的头上终于出现了一片蓝天，官媒毫不含糊地称之为“阅兵蓝”。这是政府强令停了众多企业，限制汽车出行，甚至封了乡下农民做饭的柴灶而换来的，雾霾暂时没有了。这一切，都是为了在那一天阅兵的几十分钟里，天安门城楼的上空天是蓝的。其实，只要有点脑子就不难想到，这个阅兵蓝，和奥运蓝、APEC蓝一样，是颇为丢人的事实，只是再一次提醒国际和国人，中国的空气污染、水污染和其他环境污染，是过去几十年不顾一切发展的中国模式造成的。</p>
-<p>令阅兵当局更加紧张的是维稳。中国现在是不是世界上最大的经济体，是不是最强的国家，可能还有不同的算法，但是中国有世界上最大的维稳警力，最庞大的监控系统，最完备的网络封锁和舆论监视力量，最昂贵的国内安全保障，则显然是没有异议的。习近平曾经一度发出过让人困惑的资讯，一边七不讲，不讲宪政不讲司法独立，一边高调说依法治国依宪治国，让好多善良的人心生希望，说不定习近平有以后逐渐走向开明政治的打算，现在则没有人抱这个希望了。习总书记是一个“任性”的人，打虎任性，打维权律师上访平民更任性。他当然知道，这样一来，他的宣传部门大力营造的太平盛世表像下面，不安因素多了去了。</p>
-<p>阅兵前，皇上宣布大赦，历史上这样的时候百姓要山呼万岁的。可现在的百姓闻之表情冷漠。谁都知道你连诺贝尔和平奖的得奖人都不会放，七十多岁的女记者也不会放，一边还在强拆教堂十字架，还在连夜抓捕维权律师。</p>
-<p>于是，在不惜代价制造阅兵蓝的同时，维稳维安的压力让京城鸡飞狗跳。人们在网上出示的证据披露，边疆民族地区老百姓买一把做饭的菜刀也要申请批准，颁发购买证明。与此同时，习近平在最高规格的第六次西藏工作座谈会上发表长篇讲话，以大话空话的特征，再次证明中国政府不得不承认民族地区人民痛苦而不满，政治形势紧张而中国政府拒绝改革，拿不出一个改善的办法来。</p>
-<p>从北京来的消息说，阅兵前北京实行了大清查。当局不放心的异议人士，要么监视了起来，要么配合当局外出旅游，或者外出旅游再加警察陪同监视。北京的上访人员被围截遣送回乡，满城都是红袖箍，动不动就得出示身份证，杯弓蛇影草木皆兵。车辆进京要进京证，没有进京证连加油站都拒绝加油，于是出现了司机在公路上推着汽车一步一步走出北京的镜头。</p>
-<p>中国的阅兵，继承的是纳粹德国的美学，即法西斯美学。这种美学风格的关键词是力量、胜利、领袖意志、集体、忠诚、坚决和冷酷。实现这种美学的方法和技术其实是非常简单而笨拙的，那就是重复和整齐，用大量渺小的没有个性的个体进行简单的空间和时间重复，用重复来造成一种庞大的空间外观，所谓“震撼人心的力量”就是这样来的。法西斯美学是一种集体美学，在这种美学中是看不见个体的，更看不见个体的自由意志，看不见个体的生活和生命。中国人学法西斯美学，在08奥运的开幕式上达到了毕业交卷的水平。张艺谋凡导演这样的大场景，比如《黄金甲》，都深得法西斯美学的精髓。重复、重复、重复，就是一堆垃圾也能变成黄金甲。将来的人们会把08北京奥运开幕式和1936年柏林奥运开幕式并列，在美学上这两次奥运开幕式的立意是一致的。中国人搞奥运开幕式，不可能去学伦敦奥运或者亚特兰大奥运，那种全民同乐的风格，想学也学不像的。</p>
-<p>1933年希特勒上台，1934年就搞了一次登基加冕性质的大阅兵。中国这次大阅兵，其美学风格不会超出1934年希特勒阅兵。不过，当年希特勒阅兵的时候，军队分列式走过柏林的大街，希特勒是在街上检阅军队，大街两旁挤满人群，街道两边住宅楼的窗口，挤满了人头。希特勒至少还想到与民同乐以凝聚民心。习近平倒不是不想凝聚民心，却不敢与民同乐。北京阅兵前，阅兵队伍走过的街道两旁的单位住户都已经得到通知，阅兵期间，所有人统统得离开，更谈不上在楼上窗口围观了。</p>
-<p>中国的阅兵，将是世界上独一无二的没有现场观众的阅兵。除了习近平等领导在百米以外的天安门城楼上遥望，还有李芬斯塔尔的弟子们天上地下的摄像机以外，那雄壮的、庞大的、整齐划一的、压倒一切的、不可阻挡的、机器人一般的军队方阵，是没有几个人现场观看的。</p>
-<p>中国的阅兵，学的是法西斯，却是连法西斯都不如的阅兵。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%B0%91%E5%90%8C%E4%B9%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%B2%8D%E5%BD%A4%E4%BF%83%E8%BF%9E%E6%88%98%E9%98%90%E6%98%8E%E5%AF%B9%E6%8A%97%E6%88%98%E4%B9%8B%E7%AB%8B%E5%9C%BA/" target="cdt-mirror">自由亚洲｜鲍彤促连战阐明对抗战之立场</a>
-</h2>
-<p><p>台湾的前副总统及前国民党主席连战，不顾现任总统马英九和国民党主席的劝阻以及在野党的反对，8月30日抵达北京并将出席纪念抗战胜利的天安门阅兵。中共前总书记赵紫阳的秘书鲍彤就连战到北京参观阅兵表示，不管连战认同或不同意中共主导抗战的说法，他都应该公开阐明立场。</p>
-<p>连战本周日以私人身份，在台湾桃园机场搭机前往北京，但在机场遭到抗议。台联党“青年军”抨击连战“出卖台湾”，一名成员喊出“连战就死在中国别回来了”。据报导，台联党“青年军”到场抗议不断大喊口号，并数度打断在机场接受媒体访问的连战核心幕僚张荣恭的发言，更有抗议者拿抗议白布条覆盖张荣恭，人群中竟然还飞出一只鞋子，但并未砸到张。在国民党内，包括马英九及前行政院长郝柏村等人，也都公开反对连战出席9.3阅兵。张荣恭在台湾机场接受媒体采访时，则说台湾民众期待两岸和平趋于稳定，连战此行重点要求对等及尊严，大家应拭目以待。</p>
-<p>关心两岸政治的中共前总书记赵紫阳的秘书鲍彤，本周一接受记者专访时称：“我希望连战先生也发表一个声明，说他完全认同中国共产党的历史观。我希望他也发表一个东西，要不然含含糊糊，他跑来干什么，他跑过来要么说他赞成中国共产党对抗战的解释，要么说他同意他的本党（国民党）对抗战的解释。到底是什么观点，他应该说清楚”。</p>
-<p>鲍彤说，作为国民党的前副总统，参加共产党所描述的抗战胜利70周年阅兵，民众不得不问：“所以他阐明自己的立场、观点是很重要的。对参加阅兵式的主人是很重要的，对他自己也是重要的。我看他应该表明自己的态度。他认为中国共产党确实是抗日战争的中流砥柱，他完全同意中共中央的意见，那么他可以发表这样的声明。要不然他可以说，他到中国来，并不是同意中共中央的意见，那也要发表声明啊。他不发表声明，含含糊糊跑来，我看这不是一个政治家应该采取的方法”。</p>
-<p>就在上周四（27日）。台湾的前行政院院长郝柏村发表致中共领导人的一封公开信称，抗战初期的国共第二次合作，起了很大的作用，但其领导人是国民党总裁蒋介石先生。他克服了日本诱和、汪精卫投降、国共摩擦等内忧，以及国际观望、盟友出卖等外患，坚持抗日第一、抗战到底的意志，才赢得最后胜利。</p>
-<p>郝柏村表示，由于1949年国民党失去了大陆政权，抗战历史的真相随着被隐没，甚至扭曲了。今适逢抗战胜利70周年，北京将举行盛大的阅兵，他虽不便参观，但肯定各方的纪念。他建议大陆新领导人，以更宽广的胸襟，客观公正，实话实说，探讨抗战历史真相。</p>
-<p>鲍彤说：“郝柏村将军是抗日战争幸存的几位具有最高军阶的将军之一，他提出来的几点，中共中央应该慎重考虑。我想中共中央没有一个人比郝柏村将军更有资格谈论抗日战争，没有一个人，他们都是娃娃，甚至还没有出生。而郝柏村将军当年就是在这个战场上，在蒋委员长的领导之下，指挥作战。如果不相信亲历者经过几十年的思考以后的结论，那么应该重视什么”？</p>
-<p>现年96岁的郝柏村在1938年1月20日，由于抗战形势紧张，提前毕业后，投入抗战。郝柏村对中共的建议包括联合台北、北京、日本和全球的二战历史学者，根据各方所提资料，公开研讨抗战历史真相，达成共识。重庆为抗战首都，应在当地建造抗战纪念馆，并恢复抗战胜利纪功碑，恢复各地已被拆除的抗战实景等。他认为，唯有如此，才对得起抗战烈士的英灵，才能使后代的子孙，有正确的孝义传承。这不仅无伤于中共在大陆的执政，更会赢得两岸人民的掌声，有利于两岸在九二共识基础上的和平发展。</p>
-<p>特约记者乔龙 （责编：胡汉强/吴晶）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%B2%8D%E5%BD%A4%E4%BF%83%E8%BF%9E%E6%88%98%E9%98%90%E6%98%8E%E5%AF%B9%E6%8A%97%E6%88%98%E4%B9%8B%E7%AB%8B%E5%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%8D%E5%BD%A4/?category=18271" rel="tag">鲍彤</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -599,7 +611,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3amu7nns4r91q.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -609,5 +621,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98
                 <td></td>
                 
         
-        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3tg7mn9efvix2.cloudfront.net">https://d3tg7mn9efvix2.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/></td>    </tr>
 </table>

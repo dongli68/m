@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1tokwpzgi7qi6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d14s4867dt6vm0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,116 @@
                 <td></td>
                 
         
-        <td><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%98%9F%E6%98%9F%E6%B3%95%E9%99%A2%EF%BC%8C%E6%AF%94%E5%88%AB%E7%9A%84%E6%B3%95%E9%99%A2%E9%AB%98%E5%88%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E5%93%AA/" target="cdt-mirror">【立此存照】星星法院，比别的法院高到不知道哪里去了</a>
+</h2>
+<p><p><strong><a href="http://weibo.com/1785730287/CyzDVcSjr">@dianpu_river</a></strong>：在当当上，最高法院已统一变成**法院。新广告法就这样以出人意料的方式影响了我。<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"></p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6a7014efjw1evncrpp8n5j20xc18gq8q.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6a7014efjw1evncrpp8n5j20xc18gq8q.jpg" alt="6a7014efjw1evncrpp8n5j20xc18gq8q" width="400" height="500"></a></p></blockquote>
+<p><strong><a href="http://www.hishop.com.cn/ecschool/kdzx/show_23852.html">海商｜2015新广告法正式实施 极限用语处罚细则</a></strong></p>
+<blockquote><p>据悉，新广告法禁止的极限用语包括如下词汇：</p>
+<p>国家级、世界级、最高级、最佳、最大、第一、唯一、首个、首选、最好、最大、精确、顶级、最高、最低、最、最具、最便宜、最新、最先进、最大程度、最新技术、最先进科学、国家级产品、填补国内空白、绝对、独家、首家、最新、最先进、第一品牌、金牌、名牌、优秀、最先、顶级、独家、全网销量第一、全球首发、全国首家、全网首发、世界领先、顶级工艺、最新科学、最新技术、最先进加工工艺、最时尚、极品、顶级、顶尖、终极、最受欢迎、王牌、销量冠军、第一(NO.1\Top1)、极致、永久、王牌、掌门人、领袖品牌、独一无二、独家、绝无仅有、前无古人、史无前例、万能等。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/n/%E8%99%8E%E5%97%85%E7%BD%91?from=feed&loc=at" target="_blank">虎嗅网</a>: 比别的法院高到不知道哪里去了！<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@这谁的小号：也别最什么的了，五倍就好，比如叫，高五倍法院</p>
+<p>@刘家明SZ：还见过黄日华变成黄太阳华；二十四口交换机变成了二十四**换机</p>
+<p><a href="http://weibo.com/3295058462" target="_blank">Heaven-Xie</a>：朝鲜最高领导人→_→朝鲜××领导人～三胖哥<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/2384795005" target="_blank">WS岚仔reborn</a>：心疼“永久”牌自行车<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@柴克夫死鸡：我是我们班**的人</p>
+<p>@叶步辰：猩猩法院？</p>
+<p>@石扉客2014：哈哈哈。两高门口的牌子也要换了吧？</p>
+<p>@陶红兵: 新广告法太牛叉了。以后是不是只能说“习大大是中国**领导人……”？“**人民检察院”、第一汽车制造厂叫“**汽车制造厂”，人民日报评论员文章环球时报社评不好写了。“极端主义势力”该怎么说呢？</p>
+<p><a href="http://weibo.com/1739243733" target="_blank">静静筱姐</a>：岂止是书名，目录里面譬如第一字样、试读章节里面有极限用语的也屏蔽了，心累<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/n/%E5%BD%93%E5%BD%93%E6%9D%8E%E5%9B%BD%E5%BA%86?from=feed&loc=at" target="_blank">@当当李国庆</a>: 晕倒！当当技术都是老实人，居然把书名里的最高也自动屏蔽了！几年前当当茶叶，食品有夸大宣传确实被北京工商局罚款50万！</p>
+<p><strong>附当当网“最高法院”搜索结果截图</strong>，你们感受下：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%98%9F%E6%98%9F%E6%B3%95%E9%99%A2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%98%9F%E6%98%9F%E6%B3%95%E9%99%A2.png" alt="星星法院" width="515" height="1757"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%98%9F%E6%98%9F%E6%B3%95%E9%99%A2%EF%BC%8C%E6%AF%94%E5%88%AB%E7%9A%84%E6%B3%95%E9%99%A2%E9%AB%98%E5%88%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E5%93%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 30分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B4%AA%E6%8C%AF%E5%BF%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E5%92%8C%E6%B0%91%E9%97%B4%E5%B0%B1%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E5%BD%A2%E6%88%90%E6%96%B0%E5%AF%B9%E6%8A%97/" target="cdt-mirror">洪振快：中国官方和民间就纪念抗战形成新对抗</a>
+</h2>
+<p><p>最近，中国大陆官方投资拍摄的电影《开罗宣言》曝光了一组四张海报，罗斯福、丘吉尔、斯大林、毛泽东各自出现在一张海报上面，而参加开罗会议的蒋介石却没有出现。这组海报一经公布，立即引发中国网民铺天盖地的嘲讽和恶搞，因为海报被认为暗示毛泽东参加了开罗会议，而蒋介石没有参加，领导抗战的历史功绩属于毛泽东。这等于篡改历史，是不公正的，所以引发了网民的不满。网民在用语言嘲讽的同时，利用Photoshop技术，把毛泽东的头像换成各种各样的人物，以示没有参加开罗会议的人，都可以像海报上的毛泽东一样参加开罗会议。</p>
+<p>电影制片方的上述动作引发的负面评价，连一向站在中国官方立场上说话的《环球时报》都看不下去，刊发文章称“搞出如此突出毛泽东的电影海报也是不合适的”，“今天这个时代对这种海报语言未必能够接受，如果片方是想以此弘扬‘正能量’的话，它的实际效果恐怕将是相反的”，“如果整个电影对毛泽东形象的突出像片花所展示的那样，那么电影的副作用将可能出现”。</p>
+<p>随着9月3日抗战胜利纪念日的临近，中国官方的纪念活动和宣传工作也越来越热闹。北京的政治空气越来越紧张，外地人员进京的安全检查越来越严格，郑州、合肥、南昌、广州等地火车站要求对进京人员进行两次安检，而北京城中，发动群众强化安保措施，确保每个街巷胡同有人巡、重点部位有人守。甚至根据前日在微信、微博中广泛传播的照片，北京有一家餐馆贴出布告，告知因阅兵演练，警方要求，点餐需要登记身份证号、手机号、姓名。</p>
+<p>与之相应，中国知识界和网络上有许多人对官方的抗战胜利纪念活动不感兴趣，以冷漠和旁观的心态待之，有些人抱着冷嘲热讽的态度，有些人对花费大量金钱搞阅兵及对平民造成生活不便表示不理解和反感。《开罗宣言》电影海报遭质疑、嘲讽和恶搞，既是上述心态的一种反映，也是一种情绪的宣泄。</p>
+<p>抗日战争本来属于民族大义，而且是世界反法西斯战争的重要组成部分，因此一般人都知道抗战胜利值得纪念，理应纪念，也不反对在抗战胜利70周年之际安排较大规模的纪念活动。而知识界和普通网民对官方主导的纪念活动并不热心参与，究其缘由，在一定程度上是对抗战功绩和历史真相的不同理解造成的。</p>
+<p>中共一直宣称自己是抗战的“中流砥柱”，官方媒体连篇累牍地刊发文章宣扬这一点。但中国知识界和普通网民对此多有质疑。因为众所周知，中国的八年抗战，是以蒋介石为领袖的国民政府领导的。</p>
+<p>中共宣称，其领导的抗日军民取得辉煌战果，八路军、新四军和华南抗日游击队对敌作战12.5万次，消灭日伪军171.4万人，其中日军52.7万人，敌后战场抗击着约60%的侵华日军和95%的伪军，敌后战场及其武装力量逐渐成为世界反法西斯东方主战场的中坚力量。</p>
+<p>但是公开的官方资料显示，国民政府领导的军队在正面战场与日军进行了22次大型会战、1117次重要战斗、38931次小战斗，军人作战伤亡3227926人，其中死亡1328501人、负伤1769299人、失踪130126人，另有军人病死422479人（见中央党史研究室第一研究部、中国第二历史档案馆编：《国民政府档案中有关抗日战争时期人口伤亡和财产损失资料选编》，中共党史出版社2014年版）。而按照中共方面自己的统计，八年抗战中军人死亡162639人、负伤289953人，合计452592人（至日本投降时数字。见《抗日战争时期八路军人员伤亡和财产损失档案选编》，中共党史出版社2014年版）。仅从伤亡尤其是阵亡数字来看，国、共军队相差悬殊，说中共抗日的历史功绩超过国民政府，显然难以让人信服。</p>
+<p>另外，中共宣布消灭日军52.7万人，该数字应该是1945年12月中共延安总部做出的统计数字，具体说，包括毙伤520463人、俘虏6213人、投诚反正746人，合计527422人。若按毙伤日军52万人，毙、伤1︰3计算，击毙日军达13万人。这个数字是抗日战争中常用的算法，因战场负伤者可能重新投入战斗。</p>
+<p>而根据日本官方的统计数字，从1937年7月7日开始，侵华日军死亡总数是54万余人，其中在东北、台湾死亡约8.7万人，在中国本土死亡约45.6万人——其中在战场上被击毙的大概是23万到27万人。很显然，中共领导的军队不太可能击毙一半（即13万人）甚至更多，日军大部分应该是由国军消灭的，所以中共统计数字有夸大的嫌疑（侵华日军死亡数字来自论文转引日方资料，见胡光正：《二次世界大战时期关于日军伤亡数的一些情况》，载《历史教学》[1986年第1期]了<br>
+；估计在战场上被击毙的大概是23万到27万人，系根据蒋纬国总编的《国民革命战史·抗日御侮》[黎明文化公司印行1978年版]引用日本防卫厅战史室数字推测）。</p>
+<p>战争中统计不准确是正常情况，夸大在所难免，国、共、日三方都有战场统计夸大现象。然而，历史尘埃落实之后，以实事求是的态度对待历史，更能获得尊重。尽管抗战胜利已经70周年，但中共关于抗日的史料还是作为档案封存，普通民众到档案馆无法查阅。当然，中共官方自己会选择公开一些档案。</p>
+<p>中央档案馆几年前公开的一份档案显示，1944年3月21日，毛泽东、朱德、彭德怀、刘少奇曾致电各部队：“查我军战报，多年沿用加倍数目发表的办法，用以扩大影响，但此种办法，对群众为不忠实，对党内造成虚假作风，对敌人则引起轻视，对外界则引起怀疑。嗣后，我军公布战绩的数字一律不准扩大，均发表实数。望转令所属严格执行。”（见中共中央文献研究室、中央档案馆编：《建党以来重要文献选编（1921—1949）》，中央文献出版社2011年版，第21册）。这份档案证实，在1944年3月以前，中共军队在统计战报时，曾“多年沿用加倍数目发表的办法”，如此，则毙伤日军52万人的统计数字，恐怕也会受到影响，实际毙伤日军更让人怀疑并没有那么多。这从一些具体的战例，比如中共军队在抗战中大书特书的“平型关大捷”和“百团大战”，也存在上述情况。</p>
+<p>由此可知，中共方面宣扬的抗日战绩，恐怕与历史事实未尽相符，如果说抗战期间还有其合理性的话，时至今日仍以那些有夸大之嫌的“史料”为据，就不太合宜了；若还是以之为据论证自己的功绩，随着各方史料的披露、历史研究的深入、民智的提升，将受到越来越多的质疑，公信力将受到越来越多的损害。</p>
+<p>了解历史真相，是公众的心愿，也是公众的权利。了解了历史真相，对历史功绩也就容易做出公正的评判。而无论是哪一方，不尊重历史真相，不愿面对历史真相，都难以获得他人的认同和尊敬。目前，中国知识界和普通网民对中共的宣传有抵触情绪，对官方的说辞不信任，形成一种内在的对抗。要消除隔阂，化解对抗，重建信任，最好的办法还是尊重历史、还原真相。</p>
+<p>洪振快为历史学者、《炎黄春秋》前执行主编。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B4%AA%E6%8C%AF%E5%BF%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E5%92%8C%E6%B0%91%E9%97%B4%E5%B0%B1%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E5%BD%A2%E6%88%90%E6%96%B0%E5%AF%B9%E6%8A%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/9%C2%B73%E9%98%85%E5%85%B5/?category=18271" rel="tag">9·3阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">中共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%8C%AF%E5%BF%AB/?category=18271" rel="tag">洪振快</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E9%B9%A6%E9%B9%89%E5%AD%A6%E8%88%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/" target="cdt-mirror">纽约时报 | 鹦鹉学舌的中国式教育</a>
+</h2>
+<p><p>1999年春，我在北京一所小学读五年级。某天放学后，老师给我留了一项作业。一周前，北约在科索沃战争中轰炸了在贝尔格莱德的中国使馆，导致三名中国记者丧命。华盛顿将这次袭击称作意外，而中国民众相信这是故意挑衅。我的任务是为第二天的校会写一篇演讲稿，我的老师告诉我，“来谴责西方列强几世纪以来欺压<a href="http://topics.nytimes.com/top/news/international/countriesandterritories/china/index.html?inline=nyt-geo" target="_blank" rel="nofollow">中国</a>的霸行”。</p>
+<p>那天晚上，我埋头于一摞摞报纸之中，将头版标题中的词句串联起来，拼凑出了演讲稿。第二天，当老师看了我交给她的草稿后赞许地点了点头时，我感到我的努力有了回报。演讲稿充斥着诸如“百年国耻”和“反帝斗争”这样的短语。它们的发音令我心跳加速，但它们的含义我却不甚明了。</p>
+<p>上高中时，这些词语再次出现在了我的历史课本里，成了我们需要记住的准则。“中国建立社会主义，”我对自己重复道，“是现代历史进程的必然结果。”</p>
+<p> 然而到那时，这样的词句已经无法激起我和同学们的兴趣。它们的含义也没有深入人心。中国历史仿佛是由意识形态的套话勾勒出的一系列条约和运动，既难以琢磨又缺乏实质。</p>
+<p>但课程的简单又是一件幸事。不用学会阐述艰深复杂的论点或调和令人费解的矛盾，我们只要能一字不差地重复课本、准确地回忆年表，就可以在考试中得分。</p>
+<p>这样的理解在我去美国读大学后开始改变。西方对中国历史的论述多侧重于类似大饥荒和文化大革命这样的事件上。它让我对这些在国内舆论中被严格审查的国难话题有了更细腻的认识。然而，直到读了研究生并开始深入了解西方关于中国的学术成果时，我才逐渐明白中国教育是怎样以更为微妙的方式，塑造了我们这一代人的思想。</p>
+<p>中国课堂将对历史的叙述放置于不完整的背景中，以后世强加的逻辑贯穿，剥夺其它阐释方式的存在空间。在中国，古代史被展示为朝代之间由奥妙玄虚的“中华文明”所连接，被含义模糊的“中华民族”所统治。而如蒙古族和满族等处于统治地位的少数民族的视角则无处可寻。西方研究显示，这些信息往往揭露更加复杂的史实。以1919年的群众示威命名的“五四运动”是开启中国现代史的一个关键事件。我的高中课本将它被描述成一场“反帝反封建的爱国运动”，而对在运动中起至关重要作用的西方启蒙思想却少有论及。</p>
+<p>这套体系的另一个弊端是死记硬背的学习方法。身处其中，中国学生难以学会批判性质疑。就算他们意识到中国历史课中的偏见，鹦鹉学舌复述权威的习惯致使他们既没有思想动力也缺乏分析技巧来对这些偏见进行探究。</p>
+<p>因此，尽管很多学生承认中国历史教育背后的政治动机，在遭到不熟悉的观点挑战时，他们会本能地依赖于自童年起就熟记于心的老生常谈。而当挑战来自外国人时，民族自豪感可能会强化这种倾向。</p>
+<p>最近，我与一位刚从香港和台湾求学归来的朋友吃午餐。他解释说他外出求学是为了获取“对中国的全新认识”，然而他承认求学经历反而固化了他对香港和台湾社会的态度。他认为香港民主运动中的抗议者多是受到了“外国势力”的煽动。否则，他问道，他们“怎么可能自己看不到中国稳定高效的政治体制所带来的好处呢？”</p>
+<p>此外，当学生们为了考试而努力记忆教科书上那些自己也不相信的字句时，学习在他们眼中便成为了实现个人目的的一种手段。以追求真理为目标的西方教育理念在中国无法带来好处。在一个轻视诚信观和原创性的环境中，学生们顶着取得成功的压力，学会了使用不反映他们真实想法或脑力劳动的作品，并将其视为正当行径。</p>
+<p>我在美国念大学时，校方突然取消了一个和中国顶尖高校北京大学的学术交流项目。在各种争议声中，一名在北京的美国生物教授曾抱怨北京大学的学生中普遍的抄袭现象。我在北大读书的朋友们对这种情况的存在直言不讳，但声称这只不过是学生的务实之举。“对于马克思主义政治哲学之类的课，我们交换试题答案并分享论文，是为了有更多时间来学习那些真正重要的科目，”其中一人告诉我。</p>
+<p>上个冬天，我在北京的家中打开电视，收看由国家电视台组织的一场颇受欢迎的演讲比赛。我高中时代的一个朋友站在台上。他表情严肃，在演讲中控诉西方媒体通过向中国发动“文化战争”来“攻击中国人的自信和自尊”。下一轮比赛中，他身披一件蒙古袍，表达了对中国领土永远完整的衷心祝愿。</p>
+<p>最终我的朋友赢得了比赛。在社交媒体上，同学们纷纷向他表示祝贺。我回想起高中时代，我们课后一同抱怨课程单调乏味，嘲笑试题毫无意义的时光。那些记忆和他在电视上的表演实在格格不入。</p>
+<p>几周前，我在一次同学聚会上遇到了他。我走近他，想提起那次比赛，问问他关于政治的真实想法：他真的相信自己在电视上所说的话吗？我停住了。不知为何，我突然想起五年级时，北约轰炸贝尔格莱德的中国使馆后我写的那篇演讲稿。我咽下了要说的话。</p>
+<p>高雨莘生于北京，是哈佛大学东亚研究系硕士研究生。<br>
+翻译：Vera Chen（实习）、张欣（实习）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E9%B9%A6%E9%B9%89%E5%AD%A6%E8%88%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F/?category=18271" rel="tag">中华民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E6%95%99%E8%82%B2/?category=18271" rel="tag">历史教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%AF%E8%92%99/?category=18271" rel="tag">启蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E4%BD%9B/?category=18271" rel="tag">哈佛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E5%88%B6/?category=18271" rel="tag">政治体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86/?category=18271" rel="tag">真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">西方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%9F%A5%E5%90%8D%E6%95%99%E8%82%B2%E5%AE%B6%E4%BF%A1%E5%8A%9B%E5%BB%BA%E5%A4%AB%E5%A6%87%E8%A2%AB%E6%8A%93/" target="cdt-mirror">自由亚洲｜知名教育家信力建夫妇被抓</a>
+</h2>
+<p><p>被称为中国温和改良派代表人士之一的广东教育界人士、信孚教育集团董事长信力建夫妇日前被当局抓捕，其资产亦遭冻结。同时被带走的还有其助手和数名下属。有消息称抓捕信力建属北京方面的统一行动，但原因迄今不明。 （卡帕/何山 报道）</p>
+<p>据悉，信力建于上月21日在广州家中被捕，同时被带走的还有信力建的贴身助手和司机、以及公司的财务人员。</p>
+<p>北京一不愿具名的学者对本台表示，大约在2天前，信力建的妻子吴静也被抓走，家里还有一岁多的孩子去年在美国出生，是美国公民，目前处境堪忧。信力建除了兴办教育，还是凤凰知名博客写作者，因宣扬普世价值，一直是保守派的眼中钉。</p>
+<p>他说：信力建是8月21号被突然的拘留，说的是来自北京的统一行动。完全是他们一步一步地打击律师、知识份子、甚至像信力建这样的教育家，因为他经常写一些宣传普世价值，反对独裁。所以司马南，还有中国的那几个保守派，他们一直对他进行围攻。前两天，他的太太吴静，她是信孚教育集团的总经理也被抓了，她的孩子才一岁。律师是陈有西，但是呢，上个星期去见信力建没有见到，所以呢，很多的情况都不是很清楚。</p>
+<p>该学者还称，信力建除了是教育家和独立思想者，还是南粤知名的慈善人士，除了办班为孤寡孩子提供教育，自己还收养多名孩子，并将他们送到美国求学。他认为，当局抓捕信力建是政治迫害。</p>
+<p>他说：他的学校有一千多名学生也面临著开学，我感觉他们不仅仅是在打击知识分子或在打击这些公益人士，他们甚至是在制造动乱。这些公安系统的人到底是想达到他们怎样的一个目的？另外信力建先生在广州有很好的口碑，也是当地的政协委员。不仅办了幼儿园，还免费地资助孤寡儿童。信力建大概有5、6个收养的孩子，现在都在美国生活和学习。他不仅是一个教育家，还是一个慈善家，我想这是一次政治迫害。</p>
+<p>据信孚教育集团属下的中学招生办人士称，信力建被当局抓捕后，信孚教育集团的很多人依然不知情。他们甚至连自己的老板为何被抓也不清楚。但目前学校还在正常运营，但此后的情况如何，他们也不清楚。</p>
+<p>他说：学校肯定要开学的嘛，学生肯定要读书的嘛。反正我们也没有通报这个事情。不会通报这个事情的，学校，我们现在都不知道这个情况。</p>
+<p>本台记者致电广州市公安局，试图了解信力建被抓的原因，但广州警方人士称他查不到信力建的信息，直接挂断了电话。</p>
+<p>记者：您刑警支队吗？<br>
+广州市公安局：对。<br>
+记者：广州信孚教育集团董事长信力建是被谁抓走的？<br>
+广州市公安局：我这里查不到，我不清楚这个情况。</p>
+<p>周二傍晚6时许，推特有消息称信力建已经获释，但处于有限自由状态，但本台记者向其朋友核对，没能得到准确的消息。</p>
+<p>信力建毕业于中山大学，1989年创办信孚教育集团，现拥有20多个教育实体，是内地民办教育专家。同时，他是知名网络大V，以提倡温和改良著称的公共知识分子，他也因此备受保守派和激进派的非议。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%9F%A5%E5%90%8D%E6%95%99%E8%82%B2%E5%AE%B6%E4%BF%A1%E5%8A%9B%E5%BB%BA%E5%A4%AB%E5%A6%87%E8%A2%AB%E6%8A%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B%E5%BB%BA/?category=18271" rel="tag">信力建</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E6%88%91%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%AC%A1%E9%98%85%E5%85%B5%E6%98%AF%E7%BA%AA%E5%BF%B5%E6%8A%97/" target="cdt-mirror">博谈网｜〖微博谈〗我一直以为这次阅兵是纪念抗战胜利呢</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1.jpg" alt="1" width="606" height="321"></a></p>
@@ -473,246 +580,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%82%B9%E6%80%9D%E8%81%AA%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A4%AE%E8%A7%86%E6%97%B6-%E5%A6%82%E4%BD%95%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B0%A2%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">邹思聪：没有央视时 如何向全国人民谢罪？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%891.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%891.jpg" alt="央视道歉1" width="550" height="389"></a></p>
-<p>从2013年以来，上央视认罪已经成为依法治国的标配。</p>
-<p>这次财经记者因为“私下打听”“这种不正常的渠道”，然后“根据自己的判断”写了报道（没有获取自己利益），而上央视认罪伏法，于是治罪记者的范围又再度扩大——导致的结果是，媒体圈哀鸿遍野，编辑记者们都感慨，“以后只能当娱乐记者了吗？”</p>
-<p>《财经》杂志作为国内最好的财经类刊物之一，对风险、尺度的把控能力、以及对财经报道的专业水准，都是业内的典范——这次挨刀，教育了广大新闻从业者，不要高估自己的判断力，认为自己看清了bottom line。真正的bottom line就是没有bottom line。</p>
-<p>或者说，重读五十年代的事情，你才能够大致明白bottom line到底在哪里。千万不要说“过去不会再来”之类的话，而要看看和过去，差着几步。</p>
-<p>以“上央视认罪”一事为例，2013年新快报事件出来时，我写道，这是本朝传统。那五十年代，没有央视的时候怎么办。没有央视可上，你让我如何向全国人民谢罪？</p>
-<p>答案是，上《人民日报》吧。</p>
-<p><strong>“彻底清算资产阶级新闻观点”</strong></p>
-<p>看过去《人民日报》的好处，是可以看出某种一以贯之的精神。所以读史早知今日事，要留在中国做新闻，首先要明白这一条：</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%892.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%892.jpg" alt="央视道歉2" width="550"></a><p>1957年7月15日 《人民日报》 张黎群：《彻底清算我的资产阶级新闻观点 学做一个坚强的共产主义新闻工作者》</p></div>
-<p>没有央视时，《中国青年报》总编辑张黎群荣登《人民日报》，发表了深刻反省。他清楚的告诉我们，只有清算自己的资产阶级新闻观，才是留在这里做新闻的正道。</p>
-<p>这篇反省告诉我们五个关键的问题：</p>
-<p><strong>（1）报纸对谁负责？——</strong></p>
-<blockquote><p>保证Party对报纸的领导，是我们无产阶级报纸的不可动摇的最重要的原则。可是在我的发言中，却明显地表现了对这个原则的动摇。在所谓“向谁负责”的说法下，我实际上是有意无意地去追求办一张不需要Party那么坚强领导的报纸。</p></blockquote>
-<p><strong>（2）如何处理批评报道？——</strong></p>
-<blockquote><p>报纸上的批评是Party领导人民群众向缺点和错误作斗争以改进工作的方式之一，而我却片面地夸大了报纸上的批评的作用。</p></blockquote>
-<blockquote><p>在批评的范围上越广越好，这是超越了青年报的身份，仿佛我们报纸的某些批评可以脱离团中央领导的约束，独立于团中央的领导之外似的。</p></blockquote>
-<p><strong>（3）能抢发报道吗？这一点对于财经的编辑记者，有重大启示作用——　　</strong></p>
-<blockquote><p>在我的发言中却夸大了新闻的时间因素，甚至把它说成是新闻的第一原则。这就错误了。</p></blockquote>
-<blockquote><p>离开了必须按照Party的政策、有利于社会主义事业的前提，来提倡抢先，这显然是一种资产阶级的口号。</p></blockquote>
-<blockquote><p>在这种口号的指导下，也就必然会制造混乱，对我们的事业制造不利。例如，我们曾在地方政府还缺乏准备的情况下，抢先透露了今年徒工要延迟转正的消息，就在上海等地一度造成混乱。</p></blockquote>
-<p>（<strong>4）记者有自由的采访权吗？</strong></p>
-<blockquote><p>记者采访也必须遵守一定的纪律，各报采访的对象也要注意分工，采访范围也应该有所区别。我却笼统地强调要“一视同仁”，否认一切界限，这当然是错误的。</p></blockquote>
-<p><strong>（5）做媒体需要考虑读者吗？　</strong></p>
-<blockquote><p>大谈所谓群众心理，说群众喜欢新鲜、刺激、差别、奇异、猜揣等等。这实际上是想把我们无产阶级报纸办成一张迎合小市民低级兴趣的报纸，做他们趣味的尾巴。在这一部分里，我完全是贩运了资产阶级的新闻学的货色。</p></blockquote>
-<p>最后，张黎群先生深刻的认识到，</p>
-<blockquote><p>从以上的各点中可以看出，我的资产阶级新闻观点，是已经发展成为十分严重的了。报纸是Party和国家引导人民进行斗争的一个重要工具，我们需要努力改进报纸工作。</p></blockquote>
-<blockquote><p>当我实际上已经掉进资产阶级新闻观点的泥坑里，还不自觉，直到最近在领导和同志们的帮助下，我才清醒过来。</p></blockquote>
-<p>这段话值得这里的新闻人深刻反省。还不反省？你看这张报纸上，那个不分青红皂白提意见的林希翎，可是“灵魂深处长了脓疮”啊——神乎其技的比喻能力。</p>
-<p>想明白这五个问题之后，如何从事实上清算？</p>
-<p><strong>首先应该追究主张“出版自由”的人：</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%893.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%893.jpg" alt="央视道歉3" width="550" height="769"></a><p>1957年7月18日《人民日报》左下 曾彦修追求“出版自由”</p></div>
-<p>追求资本主义的“出版自由”是不允许的。当然，该张报纸同时告诉我们，“肃反问题”不容置疑；章乃器土改不够坚决、“袒护地主”罪大恶极；毕鸣歧争取企业的自主权，也是同党阴谋。</p>
-<p><strong>第二步，应该清算记者编辑所属的媒体：</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%894.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%894.jpg" alt="1957年7月15日 右下 《上海新闻出版界全面展开反右派斗争揭露编辑记者中的败类》" width="550" height="773"></a><p>1957年7月15日 右下 《上海新闻出版界全面展开反右派斗争揭露编辑记者中的败类》</p></div>
-<p>所以上海新闻出版界联合起来，全面揭露“编辑记者中的败类”。其中写道了不听话的老报人怎处理，徐铸成就是典范。</p>
-<blockquote><p>新闻界座谈会上，文汇报副总编辑刘火子等揭露了徐铸成等人的一些反对共产党领导的言行。反右派斗争开始后，徐铸成别有用心地说，“凡是现在说正面话的，都是过去有问题的人；凡是现在说反话的，却都是过去的进步人物。”</p></blockquote>
-<blockquote><p>文汇报记者、右派分子吕文在中共上海市委召开的宣传会议上作了反对共产党领导的恶毒发言，文汇报编辑部认为有问题，没有全文发表，徐铸成大为不满，屡次说“应该登”。徐铸成反对文汇报宣传马克思列宁主义理论，硬说文汇报“社会大学”一栏的理论宣传是“教条主义”，并蓄意限制它的版面。</p></blockquote>
-<p>老报人要向谁学习呢？当然是主持《大公报》的王芸生了，《必须解决办报的路线问题》。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%895.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%895.jpg" alt="1957年7月14日《人民日报》。右上，王芸生《必须解决办报的路线问题》" width="550" height="761"></a><p>1957年7月14日《人民日报》。右上，王芸生《必须解决办报的路线问题》</p></div>
-<p>首先要和徐铸成切割开来——</p>
-<blockquote><p>徐铸成有多年办报经验，也有聪明才力，在解放八年之后，国家的社会主义革命和社会主义建设获得了光辉胜利和重大成就，为什么他倒加入章罗联盟一伙闹资本主义复辟呢？</p></blockquote>
-<blockquote><p>约略分析，徐铸成有三个毛病：一好名。他对于名很计较，他不满意被推为第一届政治协商会议的候补代表，自称“盛世遗民”。其实，谁若是真正为人民效了力，真正为人民做了好事，人民是不会辜负他的。</p></blockquote>
-<blockquote><p>二重利。徐铸成为了办文汇报，多方拉关系弄钱。最近他在新闻工作座谈会上交代，他有一次曾经想通过章伯钧的关系，拉一个人向文汇报投资，因条件未谈好而罢。他这次接受了章罗联盟的政治投资，自然是有所“利”的。这种作风是很危险的。</p></blockquote>
-<blockquote><p>三反对Party的领导。徐铸成不学习马克思主义，而讨厌所谓“教条八股”，排斥左派人士的文章。</p></blockquote>
-<p>其次要旗帜鲜明的表态：</p>
-<blockquote><p>大公报也犯了一些错误，性质虽与文汇报不同，我们正在认真检查大公报编辑部工作，有错误就向人民做交代，并引以为警惕。文汇报所犯的严重错误，对于我们新闻工作者具有极其重大的现实的教育意义，我个人是受了一场活生生的教育。我认为以下三点教训是有重大的现实的意义的：</p></blockquote>
-<blockquote><p>第一、新中国的报纸，尤其是非Party报纸，必须真正解决办报的路线问题。遵守毛主席指示的六项政治标准，办社会主义的报纸，丝毫不能含糊。</p></blockquote>
-<blockquote><p>第二、办社会主义的报纸，必须由CCP来领导。文汇报的经验清楚地告诉我们，哪里没有了或者削弱了CCP的领导，哪里就闹资产阶级方向。</p></blockquote>
-<blockquote><p>第三、知识分子必须继续改造。现实告诉我们，在我国，阶级斗争并没有结束，无产阶级和资产阶级之间在意识形态方面的阶级斗争还要长时期地存在，从旧社会来的知识分子是很难一下子就抛弃掉资产阶级的世界观而树立无产阶级、共产主义的世界观的。</p></blockquote>
-<p>当然啦，这一份报纸上，我们可以看到除了新闻界，电影界、戏剧界都有很多败类，所以要“粉碎右派对电影事业的进攻”，要“斩断章伯钧伸进戏剧界的魔爪”，“中国京剧院揭发右派分子的阴谋活动”……所以，要去看主旋律电影呀，“一起去看纪录片，向右派斗争吧”：</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%896.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%896.jpg" alt="央视道歉6" width="550" height="761"></a><p>右中1957年7月6日《今晚去看纪录片“向右派斗争”》</p></div>
-<p>这样一来，才算彻底清算了媒体人身上的“资产阶级新闻观”。只有这样，才能够成为Party引导人民进行斗争的重要工具。</p>
-<h3><strong>“代表人民批判你”——“向人民投降”</strong></h3>
-<p>对于坏分子要坚决反击，人民的代表要代表人民消灭你，“坚决维护人民民主制度”，“给右派分子的又一记响亮的耳光。”</p>
-<p>下面开始展示令人瞠目结舌的封面吧，值得媒体人、公知、学者、商人、官员深刻学习。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%897.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%897.jpg" alt="央视道歉7" width="550" height="780"></a><p>1957年7月5日《人民日报》头版</p></div>
-<p> </p>
-<p>毕鸣歧是章乃器反动言论的批发商、罗隆基继续狡赖反口咬人、黄绍竑杀害革命人士罪恶重重、从得意忘形到原形毕露，钱伟长的阴谋破产了……</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%898.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%898.jpg" alt="央视道歉8" width="550" height="770"></a><p>1957年7月6日《人民日报》</p></div>
-<p>7月7日，人民代表继续代表人民消灭你，绝对不能温情主义。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%899.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%899.jpg" alt="央视道歉9" width="550" height="782"></a><p>人民代表继续代表人民消灭你</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8910.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8910.jpg" alt="央视道歉10" width="550" height="755"></a><p>“反击右派不能温情主义 ”</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8911.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8911.jpg" alt="央视道歉11" width="550" height="761"></a><p>揭露储安平与罗隆基的阴谋</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8912.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8912.jpg" alt="揭露储安平与罗隆基的阴谋" width="550" height="763"></a><p>揭露储安平与罗隆基的阴谋</p></div>
-<p>排山倒海的批判斗争之下，章伯钧承认自己造谣了：</p>
-<blockquote><p>由于我站在反党反社会主义的立场，道听途说以无当有不符合事实的极端错误的污蔑党的言行，因此引起计委全体同志的极端愤怒并向我提出强烈的严正的抗议和指责。我感到万分痛悔，我现在发表这个更正声明并向他们请罪。</p></blockquote>
-<p>顾执中也不固执了：</p>
-<blockquote><p>他们在整风中反社会主义、反对党的领导的方法，就是要到处讲话，在报纸上写文章，破坏党。顾执中承认：他们企图恢复“救国会”进行反社会主义，反对社会主义是有组织、有分工、有活动的。</p></blockquote>
-<blockquote><p>群众质问顾执中，他们究竟企图在帝国主义进攻中国时想干些甚么，他们在整风运动中到处放火想达到什么目的，在他们的阴谋活动里面还有那一些人的时候，顾执中躲躲闪闪，没有交代清楚。</p></blockquote>
-<blockquote><p>顾执中在高等教育出版社还煽动一些落后分子向党的领导进攻，要他们用各种口径的炮轰，要他们收集材料，到外面去控告。</p></blockquote>
-<blockquote><p>社会主义学院对右派分子顾执中的斗争，还将继续进行，群众一致表示，不获全胜，决不罢休。</p></blockquote>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8913.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8913.jpg" alt="章伯钧承认造谣、固执中交代事实、龙云破坏民族团结" width="550" height="770"></a><p>章伯钧承认造谣、固执中交代事实、龙云破坏民族团结</p></div>
-<p>龙云意识到，虽然是人大常委，但也不能就国家预算和决算提出意见，因为这对“中苏友谊团结，社会主义的建设，Party的领导都有坏的影响”：</p>
-<blockquote><p>我最近在人大常务委员会的一次会议上，为讨论国家决算、预算草案时，曾经提出了谬误的意见，会后自己就感觉不对，我当时以为自己是人大常委，在会上向Party和政府建议是可以的，并且常委会是工作会议，即或有错误也无大碍，后来才想到，在这样重要的会议上，不应该随便说话。</p></blockquote>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8914.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8914.jpg" alt="央视道歉14" width="550" height="768"></a><p>费孝通的发言</p></div>
-<p>费孝通直接了当，“我向人民伏罪，继续揭露自己的罪行，也就是为揭露章罗联盟的阴谋作见证”，他的主要问题是邀请“对社会主义心怀不满的盟员和所联系的知识分子，畅所欲谈，一吐衷曲，并采取不记名，不批评的工作方法。”这样一来，造成的结果非常严重：</p>
-<blockquote><p>①鼓励落后和反动思想在组织里露头，不加批判，得到滋长和蔓延。</p></blockquote>
-<blockquote><p>②影响中间分子。</p></blockquote>
-<blockquote><p>③很少邀请进步分子参加，隔离和孤立了进步势力。</p></blockquote>
-<blockquote><p>④不通过正规的组织生活来进行工作而采取直接由领导同志自由挑选名单，进行座谈，给野心分子利用合法组织，串联落后分子，搞阴谋活动的机会。</p></blockquote>
-<blockquote><p>⑤搜集了落后和反动意见，作为片面估计知识分子情况的根据，在盟的领导层中造成错觉，提供野心分子所需要的宣传资料，打动了他们利用这些知识分子作为他们政治资本的企图。</p></blockquote>
-<p>费孝通说，“为什么我会犯下这样大罪？我现在还在深刻反省，主要是我自己没有放弃资产阶级的反动立场，抗拒Party的教育，没有进行应有的改造，以致跌入资产阶级右派的泥坑，参加了章罗联盟的阴谋活动。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8915.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8915.jpg" alt="央视道歉15" width="550" height="790"></a><p>费孝通、储安平向人民请罪</p></div>
-<p>费孝通在结尾写道：</p>
-<blockquote><p>我痛恨自己的过去，我必须转变立场；我痛恨章罗联盟，我一定要和他们划清界限，一刀两断。我感激党为我们犯了错误的人，跌在右派泥坑里的人，敞开着翻改的大门，而且仁至义尽地教育我们。让我勇敢地投入这个门，走上生路，彻底改造自己，创造向人民赎罪的机会。</p></blockquote>
-<blockquote><p>我清醒还不久，认识还不深，对于我的罪行和我的思想还要详细交代，深入检讨。今天只能向大会继续揭露我的罪行，为揭露章罗联盟的阴谋作证，向人民伏罪。我将继续反省，参加反右派斗争；在斗争中学习，改造自己，我决心接受党的教育，在党的领导下走社会主义道路。</p></blockquote>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8916.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8916.jpg" alt="储安平《向人民投降》" width="550" height="768"></a><p>储安平《向人民投降》</p></div>
-<p>储安平也扛不住了，“我六月一日在统战部座谈会上的发言以及我在光明日报的工作，都犯了反Party反社会主义的严重错误。经过全国人民对我的批判，我现在认识到自己的错误，真心诚意地向全国人民低头认罪。”</p>
-<p>中央电视台1958年创台，在没有央视的1957年，《人民日报》是所有坏分子向全国人民谢罪的地方。除了上面以外，还有这些重量级人物：</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8917.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8917.jpg" alt="章伯钧《向人民低头》章乃器《我的检讨》" width="550" height="764"></a><p>章伯钧《向人民低头》章乃器《我的检讨》</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8918.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8918.jpg" alt="罗隆基《我的初步交代》" width="550" height="758"></a><p>罗隆基《我的初步交代》</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8919.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8919.jpg" alt="央视道歉19" width="550" height="770"></a><p>张云川《我恨自己是一个右派分子》</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8920.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8920.jpg" alt="央视道歉20" width="550" height="748"></a><p>毕鸣歧《我是一个犯了严重错误的人》</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8921.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8921.jpg" alt="谭惕吾《我为什么犯了严重的错误》" width="550" height="772"></a><p>谭惕吾《我为什么犯了严重的错误》</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8922.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8922.jpg" alt="央视道歉22" width="550" height="748"></a><p>李伯球《我痛恨自己……》</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8923.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8923.jpg" alt="央视道歉23" width="550" height="749"></a><p>马哲民《我要重新做人》</p></div>
-<p>能够很快的找到这些过刊，是因为很早以前，我搜集过一张表。以下是一部分：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8924.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E5%A4%AE%E8%A7%86%E9%81%93%E6%AD%8924.jpg" alt="央视道歉24" width="530" height="925"></a></p>
-<p> </p>
-<p><strong>不要做储安平一样的媒体人</strong></p>
-<p>把储安平单独列出来，不只是因为他是未摘帽右派，也不只是他如何死的至今是个谜，也不只是他最近在老家江苏宜兴落了衣冠冢，更不只是他提出了“Party天下”这样大逆不道的观点——更是因为他办过《观察》这样的牛逼杂志，但做《光明日报》总编辑时还是遭了秧。只有从他为什么遭殃中吸取深刻教训，才能当一个好的中国媒体人。</p>
-<p>办《观察》的储安平对国民党说过这样的话：</p>
-<blockquote><p>最后，我们愿意坦白说一句话，政府虽然怕我们批评，而事实上，我们现在则连批评这个政府的兴趣也没有了。即以本刊而论，近数月来，我们已经很少刊载剧烈批评政府的文字，因为大家都已十分消沉，还有什么话说呢？说了又有什么用处？我们替政府想想，一个政府弄到人民连批评它的兴趣也没有了，这个政府也够悲哀的了！可怜政府连这一点自知之明也没有，还在那里抓头挖耳，计算如何封民间的报纸刊物，真是可怜亦复可笑！</p></blockquote>
-<p>被解放后的储安平，死性不改。在担任《光明日报》总编辑时，储安平“做了许多不利于Party和人民的事情。”</p>
-<blockquote><p>在我担任总编辑的两个多月内，光明日报刊登了许多恶意的、片面的、破坏性的报导，攻击Party的领导，损害Party的威信。我还派了好些记者到上海、南京、武汉、广州、西安、兰州、沈阳、长春、青岛等九个城市去开座谈会，专门找那些对Party不满的、勇于攻击Party的人发言，企图通过这样集中的形式来损害Party的威信。我又发表了北大学生大字报的错误报导，表面上是抢新闻，实质上是点火。</p></blockquote>
-<p>担任《光明日报》总编辑，他还不肯发表歌颂Party的社论，听到章罗联盟说，大学要去Party化的时候特别高兴，还刊登了复旦大学要取消Party committee的新闻，用资产阶级民主观点理解“百花齐放、百家争鸣”，对于错误的报导和言论和正确的报导和言论不加区别。</p>
-<p>当然，储安平还错误的理解了“长期共存、互相监督”de的含义，妄想利用报纸来监督Party，而监督的目的实质上就是要削弱Party的领导。储安平反思道：</p>
-<blockquote><p>我这些错误的言论和行为所造成的危害性是极大的。它在一些比较落后的群众中间造成了思想混乱，使有些人在一个极短的时间里不明事实的真象；它使某些对党有些不满情绪的人格外增加了他们对党的不满；它损害了党在群众中的威信，并鼓动人们向党进攻。我所犯的错误，实质上又为章罗联盟为核心的资产阶级右派分子的反党活动而服务。</p>
-<p>在国外，我的错误言论还为美蒋敌人所利用，使他们错觉地以为中国有很多知识分子反对Party、反对政府。他们以为在大陆上出现了什么为他们日夜梦想的变乱，于是兴风作浪、进行挑拨，还说要向我“遥致敬意”，实际上无非想造谣生非，挑拨离间。</p></blockquote>
-<p>储安平的落后思想渊源，和许多现在的媒体人、公知、学者的思想渊源颇为类似，“受过多年的英美资产阶级教育，盲目崇拜腐朽的资产阶级民主。”</p>
-<blockquote><p>在解放以前，我一方面反对国民党，一方面反对CCP。我在思想上宣传资产阶级的“自由主义”，在政治上标榜走中间路线。我鼓吹“自由思想分子”团结起来，实际上就是不要人们跟CCP走。由于我只看到资产阶级一个阶级很小一部分所谓“民主自由”，看不到广大劳动人民的真正的、更大的民主自由，因而便错误地认为“在国民党统治下，这个‘自由’还是一个‘多’‘少’问题，假如CCP执政了，这个‘自由’便变成‘有’‘无’问题了”。（一九四七年三月八日“观察”第六页）</p></blockquote>
-<p>或许储安平还有一大功劳，即便是在认罪投降，文笔还是那么好，把巨大压力下“以众暴寡”阶级斗争的恐惧描绘得令人胆寒。在认罪中，他说自己没有脸面去拿邮差送来的报纸和信件；看医生的时候，他不敢说自己姓储，深恐医生怀疑他就是那个右派坏分子。</p>
-<p>最后，储安平说，“我今天在这个庄严的会场上，并通过大会向全国人民真诚地承认我的错误，向人民请罪，向人民投降。我把向人民投降作为我自己决心彻底改造自己的一个标志。”</p>
-<p>尽管如此，储安平最后还是尸骨无存。所以，不要做储安平这样的中国媒体人。这就是来自五十年代的启示。什么是bottom line，这才是bottom line。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%82%B9%E6%80%9D%E8%81%AA%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A4%AE%E8%A7%86%E6%97%B6-%E5%A6%82%E4%BD%95%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B0%A2%E7%BD%AA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2%E7%BB%8F%E3%80%8B/?category=18271" rel="tag">《财经》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8F%B3/?category=18271" rel="tag">反右</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E7%81%B5%EF%BC%9A%E4%BA%BA%E9%80%A0%E4%B8%9B%E6%9E%97%E4%B8%8E%E8%87%AA%E7%94%B1%E5%B8%82%E5%9C%BA-%E8%AF%84bbc%E3%80%8A%E4%B8%AD%E5%BC%8F%E5%AD%A6%E6%A0%A1%E3%80%8B/" target="cdt-mirror">风灵：人造丛林与自由市场——评BBC《中式学校》纪录片</a>
-</h2>
-<p><p>近来，BBC的一部关于中国老师执教英国中学的纪录片《我们的孩子足够坚强吗？中式学校》（“Are Our Kids Tough Enough? Chinese School”）引爆激烈讨论。这部纪录片讲的是五名优秀的中国中学教师，在为期一个月的教学实验中，完全以中国应试教育的方法来改造英国的孩子。迥异的文化和教学方式让影片跌宕起伏，充满了冲突和戏剧性，也让中英教育的比较成为了跨国热点。</p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90cdtv%E3%80%91-%E4%B8%AD%E5%BC%8F%E6%95%99%E8%82%B2%E5%9C%A8%E8%8B%B1%E5%9C%8B/" target="_blank">【CDTV】 中式教育在英國</a></p>
-<p>就我所见，大多数讨论都集中于两种不同的教学方式的臧否褒贬，但窃以为，这并不是重点，重点是教育方式所折射出的社会模型。手段服务于目的，而目的又取决于观念，取决于怎样看待社会。</p>
-<p>中国老师反复强调的是“社会的竞争非常激烈”，必须努力取得好成绩，不然就是死路一条。他们认为，英国学生调皮捣蛋，不肯好好学习的原因不在老师，不在课堂，而在于英国的福利制度，学生不用努力，以后也有饭吃。</p>
-<p>这些老师眼中的社会是一种丛林社会，严格地遵循优胜劣汰、适者生存的法则，survive or die。这样的社会不可能改变，个人只能适应社会，花再大的代价也必须适应。你死我活，是一场零和或者负和游戏，从来没有合作共赢的概念。他们不断地向学生强化灌输这种观念：世界是如此冷酷无情，唯一的出路就是考高分、上好大学以出人头地，如果失败，证明你没用，不值得同情，不值得被爱，甚至不值得活下去。</p>
-<p>丛林社会还不是最糟糕，丛林虽然残酷，还可以八仙过海，各显神通。虾有虾路，蟹有蟹路，可以当狮子老虎，也可以当兔子松鼠，成功的标准是多元的，不至于在一棵树上吊死。但在中国老师这里，成功的标准却当然唯一。</p>
-<p>中国老师自豪地宣称，在中国的学校里，不管学生的水平如何，都是采用统一的大纲，统一的教学，不会因人而异。这不是真实的丛林，而是人造的丛林，人造的竞争。学生所要适应的，并不是社会，而是老师或教育权威机构制定的统一标准。这种标准没有什么道理好讲，看似天经地义，实则武断颟顸。体育课的达标测试尤为明显，长跑慢了几秒，掷实心球少了几厘米，当真就那么罪不可赦，值得被剥夺上一所好中学或好大学的资格么？这种不讲理的唯一标准，虽然只是模拟，也足以让英国玻璃心的体育老师潸然泪下。</p>
-<p>不难看出，人造的丛林社会投射的是统治者掌握一切资源、掌握生杀予夺的等级社会。在这种社会中，要生存或成功，前提是适应统治者所制定的标准，无论什么样的标准都必须适应。考试排名也好、集体主义精神也好、孔夫子也好，都是为了强化这样的适应性。所以中国老师会教育学生“孔夫子说，父母永远是对的。”其实她未必不知道，父母不可能永远是对的，但这种教育的关键不是追究对错，而是训练服从。所以老师一个人在台上讲，学生记笔记就好，质疑是不被鼓励的。并且，等级社会必然存在数量控制，要搏上位必然面临残酷无情不择手段的竞争，胜者为王，而败者为寇。</p>
-<p>考试不是最可怕的，最可怕的是隐含在考试之后的那种成功或成仁的威胁，那种足以让你否定整个人生的压力。所以，因高考工厂而著称的那些学校里，高考前时有学生自杀，也就不难理解了。</p>
-<p>这便是中式教育代代相传的主旋律。纵已年少不再，但影片中的每一幕仍让我有昨日重现之感。不能不说，即使在中国，在市场化改革已进行了三十多年的今天，教育的理念也已落后于时代要求，但仍一直忠心耿耿地服务于体制。</p>
-<p>不谈中国，现代的英国已远不是某个人或某一部分人为所欲为的等级社会，因此这帮十三、四的英国熊孩子们当然很难理解中国老师的逻辑。</p>
-<p>在以契约而非等级为特征的社会中，也就是在以自由市场为特征的社会中，个人生活和职业有广泛的选择。人们通过市场进行交换，以所有换取所无，交换的双方都因此而获益。在市场中，整齐划一的标准不但是不可取的，甚至是不可行的。如果没有差异，没有多元化，每个人都具有相似的才能，生产相似的东西，交换就难以发生。差异越大，越多元化，人们就越能得到更大的满足，千差万别的个体构成丰富多彩的世界。因此，自由市场中成功的标准绝非唯一，更不由统治者随心所欲而定。</p>
-<p>竞争确实也是市场的特征，但必须注意，“适者生存”的原则在生物学层面上事关动物个体的生存和繁衍，比如，跑得太慢而被猫吃掉的兔子就不会留下后代。跑得最快的那些兔子得到繁衍的机会。但在社会演化中，“适者生存”的含义并不是指人类个体的生存，而是指人类互动形式的生存，例如风俗、制度、公司等，演化过程将对这些互动形式作出选择。一家商业公司倒闭了，它“死了”，意味着这种特定的社会合作形式“死了”，但当然不表明组成这家公司的人——投资者、老板、经理、雇员等等——同样死了。一种低效的合作方式被一种更有效率的方式所取代。市场的竞争与丛林的竞争迥然不同。丛林中，动物竞相以对方为食，或者相互取代。市场中，企业家和公司相互竞争，以争取与消费者及其他企业家和公司合作的权利。市场竞争不是竞争生存机会，而是竞争合作的机会。[i]</p>
-<p>正如亚当·斯密所说，人类社会之不同于动物，就在于人与人之间能够“交相为用”，利用他人的产品和服务，也就是利用的他人的知识与思想。这种合作，让人类社会以惊人的速度积累了巨大的财富，也为个人和社会的发展提供了无限广阔的前景。</p>
-<p>这种竞争与合作的概念，在中式教育中踪影全无。</p>
-<p>然而，另一方面，我也不想为纪录片中的英式教育唱赞歌。公立制度下的教育自由是一种伪自由。表面上，英国学校针对不同层次的学生有不同的教学大纲，学生有较多的课外时间，但是，学生仍然必须按时在校内分班学习，学习指定科目，参加指定考试，甚至也要以考试论英雄。影片中的教导主任希望的是以英国式的“自由”教育，在分数上打败中式教育。希望鱼和熊掌二者得兼，却陷入了自我矛盾之中。</p>
-<p>真正的自由教育必须打破公立教育的藩篱，摆脱权力的控制，自由办学，自由竞争，自由选择。自由或许不能保证每个人都能获得成功，但唯有自由，能提供最多的机会，最大的可能性。</p>
-<p>走出丛林，拥抱自由。</p>
-<p>[i] Tom.G.Palmer, Twenty Myths about Markets.</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%A3%8E%E7%81%B5%EF%BC%9A%E4%BA%BA%E9%80%A0%E4%B8%9B%E6%9E%97%E4%B8%8E%E8%87%AA%E7%94%B1%E5%B8%82%E5%9C%BA-%E8%AF%84bbc%E3%80%8A%E4%B8%AD%E5%BC%8F%E5%AD%A6%E6%A0%A1%E3%80%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9B%E6%9E%97%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">丛林社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2/?category=18271" rel="tag">应试教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E8%AF%95/?category=18271" rel="tag">考试</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E7%AB%9E%E4%BA%89/?category=18271" rel="tag">自由竞争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">英式教育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%95%A3%E6%88%B7%E5%85%88%E8%B7%91-%E6%9C%BA%E6%9E%84%E8%A2%AB%E5%A5%97-%E4%B8%8D%E6%8A%93%E4%BD%A0%E6%8A%93%E8%B0%81/" target="cdt-mirror">【网络民议】散户先跑 机构被套 不抓你抓谁</a>
-</h2>
-<p><p>继8月25日财经杂志社王晓璐以及多人被公安机关认定“制造传播证券、期货交易虚假信息”传唤要求协助调查后，31日，王晓璐现身央视，承认并供述了其伙同他人编造并传播证券期货交易虚假信息的事实，声称“我通过私下打听获得新闻素材，主观判断，撰写报道。我不应在敏感时候发表对市场有重大负面影响的报道，给国家和股民带来这么大损失。我很后悔。”请求司法机关的从轻处理。“央视式道歉”的再度出现，让不少网友感到好笑、愤怒，王晓璐被普遍认为是有碍官方股市维稳的“杨修式人物”与免除问责波及官方的“替罪羊”，与此同时，央视媒体审判的“办案模式”也再度受到批评。</p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/08/%E8%B4%A2%E7%BB%8F%E6%9D%82%E5%BF%97-%E5%85%B3%E4%BA%8E%E6%9C%AC%E5%88%8A%E8%AE%B0%E8%80%85%E7%8E%8B%E6%99%93%E7%92%90%E8%A2%AB%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E4%BC%A0%E5%94%A4%E4%BA%8B/" target="_blank">财经杂志 | 关于本刊记者王晓璐被公安机关传唤事宜的说明</a></p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/" target="_blank">金融时报 | 据称中国决定放弃大规模购股</a></p>
-<p>@新浪视频：【《财经》记者王晓璐现身 求从轻处理】王晓璐在接受调查时供述了其伙同他人编造并传播证券期货交易虚假信息的事实。“我通过私下打听获得新闻素材，主观判断，撰写报道。我不应在敏感时候发表对市场有重大负面影响的报道，给国家和股民带来这么大损失。我很后悔。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/61c99730jw1evljcssqdmj20jd11udk8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/61c99730jw1evljcssqdmj20jd11udk8.jpg" alt="61c99730jw1evljcssqdmj20jd11udk8" width="440" height="860"></a></p>
-<p>视频<a href="http://news.cntv.cn/2015/08/31/VIDE1440981721362381.shtml" target="_blank">地址</a></p>
-<p>新华社北京8月30日电记者从有关部门获悉，备受关注的中信证券、《财经》杂志社、中国证监会有关人员被公安机关要求协助调查一事又有最新进展。《财经》杂志社记者王晓璐因涉嫌伙同他人编造并传播证券、期货交易虚假信息，中国证监会工作人员刘书帆因涉嫌内幕交易、伪造公文印章、受贿等犯罪，于8月30日被依法采取刑事强制措施。</p>
-<p>据介绍，《财经》杂志社记者王晓璐供述了其伙同他人编造并传播证券、期货交易虚假信息的事实;中国证监会工作人员刘书帆供述了其实施内幕交易、伪造公文印章、受贿等犯罪事实。王晓璐、刘书帆二人均向社会公众和广大股民表达了深刻的悔意和歉意。</p>
-<p>7月20日，《财经》杂志社及财经网发布记者王晓璐撰写的报道《证监会研究维稳资金退出方案》。受该报道影响，股市出现异常波动。当日，证监会新闻发言人表示，该报道不实，并强调有关媒体对市场有重大影响的报道不与监管部门核实是不负责任的。</p>
-<p>王晓璐在接受调查时说，他根据私下听说的有关股市信息，结合个人主观判断撰写了上述报道。自己作为经过培训、从业多年的专业财经记者，对私下听说的有关股市信息没有进行核实，并且明知该信息会对证券市场产生重大影响，为了一味追求轰动效应，不负责任地编造传播不实报道，造成了市场混乱和恐慌，严重影响了市场信心，给国家和广大投资者造成巨大损失。为此，王晓璐表示深刻的悔意和歉意，希望公安机关给自己一个机会，愿意配合调查工作，如实供述有关情况，并请求对自己从轻处罚。</p>
-<p>中国证监会工作人员刘书帆在接受调查时供述，2014年下半年，他利用职务便利，帮助某上市公司定向增发事项顺利通过证监部门发审会，并帮助该公司股票价格维持稳定并增长。为此，该上市公司负责人吴某向其行贿数百万元。刘书帆利用该公司定向增发的消息，向朋友李某借款1000万元人民币，通过亲友的股票账户购买该公司股票，总共获利300余万元，刘书帆分得其中100余万元。随后，刘书帆还多次向吴某打听得知更多内幕消息，持续买入股票，非法获利数百万元。2014年底，他看到另一上市公司股票价格在配股后巨幅下跌，经向该公司一高管打探该公司股票具有上涨空间后，买入该公司股票，非法获利200余万元。</p>
-<p>另据刘书帆交代，他还在网上找人制作假的证监会保卫处公章、北京市丰台区人民法院公章、西城区民政局公章和假身份名字“刘益超”的印章，用于制作虚假离婚判决书、给其情人在上海买房时作审税证明等。</p>
-<p>刘书帆对自己的涉嫌犯罪行为表示了深刻的忏悔。他说，自己作为中国证监会工作人员，严重违反证券法和从业规定，破坏了市场秩序，损害了中国证监会的公信力，损害了政府形象;自己作为一名党员干部，突破了基本的做人准则和法律底线，知法犯法，辜负了组织的多年培养。现在自己感到后悔不已，要向广大股民致以深深的歉意。</p>
-<p>此外，记者还获悉，中信证券股份有限公司执行委员会委员、董事总经理徐刚，执行委员会委员、金融市场管理委会员主任刘威，金融业务部负责人房庆利，另类投资业务部总监陈荣杰等4名高管因涉嫌内幕交易，于8月30日被依法采取刑事强制措施。4名涉案高管也交代了相关犯罪事实。</p>
-<p>目前，案件还在进一步调查中。(完)</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>笑看风云惹人醉：终于找到了替罪羊。</p>
-<p>和风绿茶：看空有政治风险，看多有道德风险，不看有失业风险。</p>
-<p>廖晟羽要饭饱饱：央视又揽了法院的活儿……</p>
-<p>威武卜：原来机构，私募，公募想跑的，结果被他一报道，散户先跑了，机构被套，不抓他抓谁啊！</p>
-<p>倪晓军_njupt：呵呵，这帮办案的人脑子真是坏了！这么有用的人才，一篇稿子就能导致股市那么大的损失，得重用啊，让他写欧美日的股市去。</p>
-<p>摯愛达文西D：曹操要退兵，杨修看出来主公有退兵之意，于是说 主公要退兵了.. 曹操说杨修妖言惑众斩了他， 然后主公退兵了…</p>
-<p>Ror_Lau：这个王晓路就是当时发表文章说证金开始考虑退出机制导致市场大跌的人。</p>
-<p>墙外楼：有没有观众根本不重要，这是让领导好过的安心丹药。凡是天灾人祸，事无大小，中共一贯的处理方式，都是找一、两个无关痛痒的小人物出来做替罪羔羊，这样问责就不会问到中央领导头上。有效无效不重要，反正老百姓没有抗争的本钱。</p>
-<p>陈尧Adam：股市下跌是经济不景气，竟然找个凡人当政府的替罪羊。</p>
-<p>一刀一川：查案子的不是公安机关，而是央视。</p>
-<p>王甫律师：大国股市被一名记者搞塌了。</p>
-<p>盈和集团总裁蒋先生：既然一篇文章就能搞垮股市，我认为应该让此人戴罪立功。出任证监会主席，然后每天写文章，那时候股市绝对天天涨！</p>
-<p>最终范特西o：再要他发一篇文章写回来不就是了。</p>
-<p>酸石榴甜石榴：本来靠内幕消息领导先跑，你这文章一发表，群众先跑了。你让领导咋挣钱？</p>
-<p>法律人刘功武：杀鸡儆猴，当局为啥恐慌了？平时治理无方，急时抱佛脚。</p>
-<p>朱大力：背后的大虾米抓不抓…</p>
-<p>色彩徕卡：太扯蛋了！找替死鬼也不能这么幼稚嘛！这么重大消息的发布，必须有严格的编审流程的！</p>
-<p>Dogfisha：你所谓的小道消息让A股一天蒸发1万亿。</p>
-<p>朕又该纳妃了：这记者也挺牛的，造个谣就能让股市暴跌好几天。</p>
-<p>iamFA：又开始新闻审判。</p>
-<p>谣传公司：乐死我了。国家有这么不稳定吗。一个小道消息。就直接把大盘干崩了。</p>
-<p>王以超：如果一名媒体人，既不存在主观恶意，又不存在不当得利，仅仅因为一些专业上的瑕疵，就要面临刑事危险，这样的社会，距离法西斯主义并不远。坚决声援原同事、现《财经》杂志记者王晓璐，希望他和这个国家每一个人，都能得到公正的对待。并且愿意为其本人以及家属，提供力所能及的帮助。</p>
-<p>裘新：连《财经》记者都遭了……</p>
-<p>ruru20251：现在做的就是稳定人心，用谎言稳定。</p>
-<p>迎风背手l：财经杂志记者王晓璐，因为散步股市不实信息被抓。——–说A股4000点才是牛市开端的，那几个驴粪球，绝不能让逼尅的逃脱法律制裁！</p>
-<p>扑空2015：经验告诉我们，对被上电视的人，我们应该多点问号。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%95%A3%E6%88%B7%E5%85%88%E8%B7%91-%E6%9C%BA%E6%9E%84%E8%A2%AB%E5%A5%97-%E4%B8%8D%E6%8A%93%E4%BD%A0%E6%8A%93%E8%B0%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2%E7%BB%8F%E3%80%8B/?category=18271" rel="tag">《财经》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5-%E5%AF%B9%E5%B2%B8%E4%B8%BA%E4%BD%95%E4%B8%8D%E9%A2%86%E6%83%85%EF%BC%9F/" target="cdt-mirror">墙外楼｜笑蜀：北京抗战阅兵 对岸为何不领情？</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/64013-458x1024.jpg" alt="640" width="458" height="1024"><br>
-9月3日是中国法定的抗战胜利日。北京高调宣布，为纪念抗战胜利70周年，将于9月3日阅兵。北京以往十四次阅兵，均选择10月1日即中共建政日，抗战胜利日一直被冷落。就时间点的选择而言，“九三阅兵”或称亮点。北京还宣布，“九三阅兵”将邀请国军抗战老兵参加。以往纪念抗战胜利，都没国军什么事儿，所以这也算一个亮点。</p>
-<p>可惜，对岸的中华民国政府不领情。其国防部发言人6月23日声称：中华民国政府主导八年抗战的事实不容扭曲。</p>
-<p>7月4日，中华民国政府在台湾新竹举行了自己的抗战纪念阅兵，总统马英九在阅兵讲话中强调：历史真相只有一个，8年抗战是中华民国政府主导的，抗战胜利是蒋介石委员长领导全国军民奋斗的成果，不容任何人窜改和扭曲。</p>
-<p>前行政院长郝柏村，近日更断然拒绝北京阅兵观礼邀请，并借香港《明报》发表公开信，向中共高层喊话：“德法本为世仇，现为欧盟合作的主体，难道我们要把蒋毛的宿怨，世世代代流传下去？”认为唯有还原真相，北京抗战阅兵才可能锦上添花。</p>
-<p>两岸抗战争议</p>
-<p>一个抗战，两种表述。“九三阅兵”的种种亮点非但没有缓解两岸的积怨与对抗，反而激化了积怨与对抗。原因何在？</p>
-<p>两岸抗战史最大的争议，是对国共抗战功过的争议。中国官方最权威的说法出自毛泽东，即中共一直中流砥柱，国民党则躲到峨眉山上“一担水也不挑”，消极抗日，积极反共，抗战胜利才急着下山摘桃子。</p>
-<p>这说法写进了毛时代的历史教科书，家喻户晓，代代相传。但它显然不合史实。仅举一例：位于南京的中国第二历史档案馆两个月前公布的２０万份抗日阵亡将士档案，全部是国军将士的档案，中国官方迄今拿不出一份较大规模的中共抗日阵亡将士的档案。</p>
-<p>这不奇怪，抗战主力本来就是领导合法政府的国民党。八年抗战期间，国军阵亡将领二百余人，作战伤亡及病亡总计365万余人，毁机2468架；海军舰艇全部打光……。</p>
-<p>国军牺牲最大，贡献也最大：总共击毙日军48万人，包括日本将官129人。而据侵华日军总司令冈村宁次回忆，中共军队击毙日军总计不过5万人，击毙日军将官仅阿部规秀一人。</p>
-<p>即便根据中共的宣传，到抗战胜利时兵员总数占全国三分之一的中共军队，八年抗战伤亡总计也不超过60万人，仅及国军六分之一。对比国军，其牺牲和贡献都不成比例。</p>
-<p>国民党的愤怒也就不言而喻。如果北京尊重历史，九三阅兵是个机会。趁此还原真相，承认国民党主导抗战，中共处于辅助地位，无疑是对抗战最好的纪念，不仅国民党服气，日本人也不得不服气，全世界都会服气。但就北京目前的表现看，这一设想不切实际。北京回归真相，两岸在抗战史上和解，为时尚远。</p>
-<p>北京的气度</p>
-<p>可资印证的另一个信号，是北京对国军抗战老兵的态度。固然九三阅兵有国军抗战老兵参加，但北京一直刻意回避的是，大陆的国军抗战老兵几乎每人都有一本血泪账，在整个毛时代，他们都是政治贱民“地富反坏右”的一部分即“历史反革命”，不仅本人饱受迫害，而且株连九族。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/CNtA81IU8AAOmHH.jpg" alt="CNtA81IU8AAOmHH" width="440" height="586"></p>
-<p>但对这大规模的迫害，北京迄今没有一声道歉，遑论国家赔偿。今天因统战需要，对国军抗战老兵召之即来，无非基于政治实用主义，缺乏对历史负责任的态度和人道关怀。</p>
-<p>北京九三阅兵，不仅如通常说的那样，是向全世界尤其向日本秀肌肉，炫耀大国崛起的自豪，同时也想展示所谓软实力，才刻意安排了一些亮点。但这些亮点终究不过是技术性的，在根本问题即抗战领导权问题上，北京仍严防死守。郝柏村的国共抗战功绩论，即因为跟中共中流砥柱之说冲突，曾招来北京一位少将的痛斥。</p>
-<p>党的伟光正形象不容动摇，这是北京的底线，也是北京的自我绑架。北京纪念抗战70周年，口号之一是“珍爱和平”，但和平的前提是和解，如果不敢面对真相，没有跟历史和解的勇气，谈何和平？徒然刺激对抗而已。</p>
-<p>九三阅兵不仅无力改变这一现实，反而更烘托一党之私。本来，抗战是国家的抗战，民族的抗战，国家和民族才是第一位的。但迄今为止，北京的宣传口径，对抗战纪念及阅兵主持人习近平的介绍，仍只提中共总书记的身份，不提国家主席的身份，而国家主席才是他的最高身份，才最适合抗战纪念。</p>
-<p>政党必须忠诚于国家、服务于国家，是现代政治伦理的基本原则。但即便在抗战纪念这样的场合，也只有党没有国，党淹没国，违反起码的政治伦理。</p>
-<p>北京如此气度，如何让人服气？何来软实力可言？如果缺乏软实力，只靠拳头，九三阅兵展示的所谓大国崛起，又如何不让人惊惧？</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5-%E5%AF%B9%E5%B2%B8%E4%B8%BA%E4%BD%95%E4%B8%8D%E9%A2%86%E6%83%85%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -724,7 +591,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d12yf3ck4n9fv0.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ia6yt07wp62m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -734,5 +601,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d14s4867dt6vm0.cloudfront.net">https://d14s4867dt6vm0.cloudfront.net</a><br/></td>    </tr>
 </table>

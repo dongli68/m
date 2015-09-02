@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1tokwpzgi7qi6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d20g1koj9j357r.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85%E6%B6%89%E5%AB%8C%E7%BC%96%E9%80%A0%E4%BF%A1%E6%81%AF%E8%A2%AB/" target="cdt-mirror">【异闻观止】环球时报 | 财经记者涉嫌编造信息被抓刍议</a>
@@ -101,7 +101,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%8D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">河蟹社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B4%AA%E6%8C%AF%E5%BF%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E5%92%8C%E6%B0%91%E9%97%B4%E5%B0%B1%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E5%BD%A2%E6%88%90%E6%96%B0%E5%AF%B9%E6%8A%97/" target="cdt-mirror">洪振快：中国官方和民间就纪念抗战形成新对抗</a>
 </h2>
@@ -542,7 +542,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">苹果日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97/?category=18271" rel="tag">诗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%B0%91%E5%90%8C%E4%B9%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5/" target="cdt-mirror">东网 ｜南桥：不敢与民同乐的中国阅兵</a>
 </h2>
@@ -599,7 +599,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ruw1cw172uon.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dnl2exo99l6zb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -609,5 +609,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98
                 <td></td>
                 
         
-        <td><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d20g1koj9j357r.cloudfront.net">https://d20g1koj9j357r.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/></td>    </tr>
 </table>

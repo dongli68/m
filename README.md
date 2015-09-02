@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ruw1cw172uon.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wovhb18idfs2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E6%88%91%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%AC%A1%E9%98%85%E5%85%B5%E6%98%AF%E7%BA%AA%E5%BF%B5%E6%8A%97/" target="cdt-mirror">博谈网｜〖微博谈〗我一直以为这次阅兵是纪念抗战胜利呢</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1.jpg" alt="1" width="606" height="321"></a></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2.jpg" alt="A man takes a photo ahead of upcoming opening sessions of the Chinese People's Political Consultative Conference (CPPCC) and the National People's Congress (NPC) at the Great Hall of the People in Beijing on March 2, 2015. Thousands of delegates from across China and the Chinese leadership will gather for its annual legislature meetings from March 3 in Beijing. AFP PHOTO / WANG ZHAO" width="606" height="481"></a><p>A man takes a photo ahead of upcoming opening sessions of the Chinese People’s Political Consultative Conference (CPPCC) and the National People’s Congress (NPC) at the Great Hall of the People in Beijing on March 2, 2015. Thousands of delegates from across China and the Chinese leadership will gather for its annual legislature meetings from March 3 in Beijing. AFP PHOTO / WANG ZHAO</p></div>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3.jpg" alt="3" width="606" height="482"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/4.jpg" alt="4" width="606" height="507"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/5.jpg" alt="5" width="606" height="578"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6.jpg" alt="6" width="606" height="534"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7.jpg" alt="7" width="606" height="560"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/8.jpg" alt="8" width="606" height="445"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/9.jpg" alt="9" width="606" height="471"></a></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/10.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/10.jpg" alt="People hold placards and shout slogans as they protest against Japan's Prime Minister Shinzo Abe's security bill outside parliament in Tokyo August 30, 2015. REUTERS/Thomas Peter" width="606" height="567"></a><p>People hold placards and shout slogans as they protest against Japan’s Prime Minister Shinzo Abe’s security bill outside parliament in Tokyo August 30, 2015. REUTERS/Thomas Peter</p></div>
+<p>（所有图片均来自网络）</p>
+<p>1. @mranti：煽动颠覆罪其实就是鼓吹革命的罪，有意思的是，该罪原名是反革命罪。</p>
+<p>2. @szstupidcool：正常国家的新闻特点是：因为没发生，所以不报道。你国的新闻特点是：因为不报道，所以没发生。</p>
+<p>3. @辛子IN日本：“抗战70周年，中国搞阅兵，日本闹反战”——FB上看来的神评论。</p>
+<p>4. @shifeike：“阅兵首先检阅的就是三军将士对党中央和习主席的无比忠诚与坚决拥护”——要不是北京军区王健中将昨天在人民日报说这句话，我一直以为这次阅兵是纪念抗战胜利呢。</p>
+<p>5. 南桥：中国的阅兵，将是世界上独一无二的没有现场观众的阅兵。除了习近平等领导在百米以外的天安门城楼上遥望，还有李芬斯塔尔的弟子们天上地下的摄像机以外，那雄壮的、庞大的、整齐划一的、压倒一切的、不可阻挡的、机器人一般的军队方阵，是没有几个人现场观看的。中国的阅兵，学的是法西斯，却是连法西斯都不如的阅兵。</p>
+<p>6. @丐帮大掌门：【今日网摘】在猴子面前放一根香蕉和一根金条，猴子会拿香蕉，猴子不知道一根金条可以换很多根香蕉。今天同样道理，在愚民面前放一根金条和一个民主的国家体制，愚民会拿金条，因为愚民不知道民主的价值！</p>
+<p>7. @shifeike ：去年对我震动最大的，是浦志强案和沈颢及21报系案。今年才过半，就已经有让人同样震动的周世峰及锋锐案和财经及中信案了。身为媒体人，在这个危机四伏的时代，真有坐过山车般惊心动魄目眩头晕的感觉。</p>
+<p>8. @hu_jia ：这个9月，你能把坦克车再次开上长安街，但我却无法在长安街跑一场马拉松。专制玷污着体育。（北京马拉松赛组委会由于政审原因拒绝胡佳北京马拉松赛的资格）</p>
+<p>9. @HeQinglian：经央视认罪之后，我更加相信王晓璐报道的消息确有其事，只是正好戳到了“党与政府”拉抬股市的痛脚：自有中国股市以来，从来只见散户被套牢，国家队总是造势赚钱，这次响应政府召唤爱了一回国，却成了被套牢一族。</p>
+<p>10. @徐昕：日本12万人包围首相官邸，要求安倍下台，中国官媒和网民有些高潮了。亮点不是包围，而是12万人包围要求安倍下台，安倍却没有下台。这就是民主：既有抗议，也有充分的言论和示威自由，更有选举。没有这些，你们只能装高潮，啊啊，呵呵。日本，示威随处可见，这只是一种生活方式。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E6%88%91%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%AC%A1%E9%98%85%E5%85%B5%E6%98%AF%E7%BA%AA%E5%BF%B5%E6%8A%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E8%B0%88/?category=18271" rel="tag">微博谈</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E6%97%B6%EF%BD%9C%E5%B7%B4%E5%B8%8C%E5%B0%94%E9%A1%B6%E7%9D%80%E5%9B%BD%E9%99%85%E9%80%9A%E7%BC%89%E4%BB%A4%E7%BB%A7%E7%BB%AD%E6%89%A7%E6%94%BF%E5%A4%9A%E5%B9%B4%EF%BC%8C%E6%88%90%E4%B8%BA/" target="cdt-mirror">环时｜巴希尔顶着国际通缉令继续执政多年，成为一种象征</a>
 </h2>
 <p><p>【编者注】2015年9月1日，外交部发言人称中方邀请被控战争罪和危害人类罪的苏丹总统巴希尔出席阅兵纪念活动<strong><a href="http://news.163.com/15/0901/19/B2EU6IBC00014JB6.html">“合情合理”</a>。</strong>同日，习近平于人民大会堂会见巴希尔时称两国“<a href="http://www.fmprc.gov.cn/mfa_chn/zyxw_602251/t1292905.shtml">将发表建立战略伙伴关系的联合声明</a>”，中方“珍视中苏传统友谊”。</p>
@@ -686,27 +713,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%A5%9E%E8%AF%9D%E4%B8%8D%E5%86%8D%EF%BC%8C%E5%8D%B1%E6%9C%BA%E9%87%8D%E9%87%8D/" target="cdt-mirror">信报｜中国模式神话不再，危机重重</a>
-</h2>
-<p><p>中国“暴力救市”失败，人民币“暴力贬值”后又引发亚洲货币贬值潮，所谓人民币迈向市场化的正常调整，也不足以说服欧美操控的国际货币基金组织（IMF）让人民币提前加入SDR（特别提款权），从而在国际上增加人民币的需求，有助加速人民币国际化的步伐；连习近平经济学主轴的“一带一路”国际发展战略亦可能因中国制造业日渐掏空和进出口贸易萎缩势将成为国际大白象工程而令人却步；加上南北韩局势突趋恶化，剑拔弩张，战争一触即发（编按：香港时间24日晚11时55分两韩结束马拉松式会谈，达成协议，平壤解除准战时状态）；习近平在天津大爆炸哀鸿遍野下仍然一意孤行，搞什么扰民伤财的70周年抗战惨胜大阅兵，穷兵黩武，客观效果只会增添邻近国家和地区对曾经声称“和平崛起”的中国霸权疑虑，一切负面因素骤然而至，全球金融市场又岂能不翻江倒海，跌个七零八落，四脚朝天？</p>
-<p>“黑天鹅”虽已出现，但世界还不至走向末日。可以肯定的是，“中国模式”已经破产，“中国道路”前景黯淡，荆棘满途，说明世界经济从来没有所谓de-coupling这回事。在全球一体化下，世界资本主义生产模式依然主宰一切，只是在不同时期，因着不平衡发展，各领风骚十数年而已。</p>
-<p>中国的基础工业薄弱，社会科学院的研究报告也承认落后西方先进国家至少100年，30多年来的改革开放，中国的经济神话全靠人口红利、廉价土地和（后期）国家投资，但以加工出口贸易为主的工业，并没有为中国建立自己坚实深厚的工业基础，一个国际知名的品牌如日本的新力、乐声、南韩的三星也没有，与人口只有8000万、但能诞生2300个世界品牌的德国相比，更是瞠乎其后，足令国人羞愧。</p>
-<p>去年中国经济规模超越日本成为全球第二大经济体系，不少见风驶舵只看表面的所谓经济学家，誓言中国最快可于10年内超越美国。如今看来，固然是井蛙之见，更说尽苍生，因为盲目看好中国以至鼓励资金人才内流大陆，不但教人焦头烂额，得不偿失，也有违趋吉避凶之道。</p>
-<p>30年来一直看好中国经济的张五常5年前已开始转趋悲观，看淡中国前景，主要是中国的经济体制改革停滞不前，甚至有倒退的迹象。张五常是新制度经济学派的巨擘，主张自由经济，当然认为全面开放、取消外汇管制、人民币与一篮子商品挂钩和私有产权彻底落实，可以进一步解放中国大陆的生产力，有利中国经济持续发展。</p>
-<p>不过，自认不谙政治的张五常，看不到中国经济的潜在危机，不是资本主义生产模式典型的生产过剩（Over-Production）和消费不足（Under-Consumption），而是权贵官僚资产阶级已在中国形成，根深蒂固。中共搞的既不是资本家/企业家可以自由竞争的市场经济，反而是以官商勾结、寻租活动为主的特权经济，不断扼杀私人企业的生存空间；又不是搞以保障全国普罗百姓权益的社会主义市场经济，而是任由广大人民备受垄断市场的国家官僚资本和私营企业加重剥削。</p>
-<p>如今为了“暴力救市”，还动用人民养老保命的社保基金入市，担沙塞海，完全无视客观的经济法则，数十万亿元财富大量消灭后与制造业和零售消费萎缩，势将导致失业人口暴升的中国，其反映前景的股市（上证指数）现时只值2000点左右，根本无可救药。不顾后果的连串量化宽松措施，已使广义货币M2的供应暴增至140万亿元，人民币的真实货币价值，与人为操控的官价大有距离，如不贬值，早晚也会催生黑市。最荒谬又真实的是，主掌财金政策的官僚口是心非，身体最诚实，一边说人民币仍是强势货币，一边就让资金外逃，货币供应愈多，流走的资金只会愈快愈急。</p>
-<p>在某个意义上，中国的经济危机是自己制造的。“暴力救市”失败，无关市场参与比份微不足道的外资，而是国家资金支撑的内地金融大鳄；人民币“暴力贬值”亦是滥发货币和财金官僚急欲加入IMF取得特别提款权的结果；资金外流更不用说，还不是红色官僚资本春江水暖鸭先知？</p>
-<p>要救中国不是没有办法，但要用怪招。左的方法是继续印钱，或向富裕阶层征收重税及将反贪腐充公的资金以由下至上累退比例分给全国人民，人人有份，必定可以增加消费，刺激内需和投资，撑住股市，持续经济发展。右的就是取消打贪，全国恢复黄赌毒，制造就业，刺激经济，解决势将出现的庞大失业问题。但两个办法都违反以红二代为核心的统治阶级之既得利益，即使成效显著，肯定也不会采用。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%A5%9E%E8%AF%9D%E4%B8%8D%E5%86%8D%EF%BC%8C%E5%8D%B1%E6%9C%BA%E9%87%8D%E9%87%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%81%93%E8%B7%AF/?category=18271" rel="tag">中国道路</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -728,5 +734,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d1qw7yv5nkvfbw.cloudfront.net">https://d1qw7yv5nkvfbw.cloudfront.net</a><br/></td>    </tr>
 </table>

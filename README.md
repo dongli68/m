@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E6%97%B6%EF%BD%9C%E5%B7%B4%E5%B8%8C%E5%B0%94%E9%A1%B6%E7%9D%80%E5%9B%BD%E9%99%85%E9%80%9A%E7%BC%89%E4%BB%A4%E7%BB%A7%E7%BB%AD%E6%89%A7%E6%94%BF%E5%A4%9A%E5%B9%B4%EF%BC%8C%E6%88%90%E4%B8%BA/" target="cdt-mirror">环时｜巴希尔顶着国际通缉令继续执政多年，成为一种象征</a>
+</h2>
+<p><p>【编者注】2015年9月1日，外交部发言人称中方邀请被控战争罪和危害人类罪的苏丹总统巴希尔出席阅兵纪念活动<strong><a href="http://news.163.com/15/0901/19/B2EU6IBC00014JB6.html">“合情合理”</a>。</strong>同日，习近平于人民大会堂会见巴希尔时称两国“<a href="http://www.fmprc.gov.cn/mfa_chn/zyxw_602251/t1292905.shtml">将发表建立战略伙伴关系的联合声明</a>”，中方“珍视中苏传统友谊”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%81%94%E5%90%88%E5%9B%BD-%E5%B7%B4%E5%B8%8C%E5%B0%94.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%81%94%E5%90%88%E5%9B%BD-%E5%B7%B4%E5%B8%8C%E5%B0%94.png" alt="联合国 巴希尔" width="525" height="543"></a></p>
+<p><strong><a href="http://opinion.huanqiu.com/editorial/2015-09/7402642.html">环球时报：巴希尔被指战争罪，中国无义务理睬</a></strong></p>
+<blockquote><p>[…]由于国际刑事法院2009年以巴希尔在苏丹达尔富尔纷争上犯下“战争罪”等为由发出对他的逮捕令，巴希尔此次访华引起西方舆论的关注。美国国务院发言人8月31日表示了对于“邀请国际刑事法院签发逮捕令的人或为其旅行提供便利和支持”的反对，并宣称中国作为联合国安理会常任理事国，“应该顾及国际社会的担忧”。</p>
+<p>然而众所周知，<strong>中国并非《国际刑事法院罗马规约》缔约国，美国也不是。这意味着中国没有协助该法院落实逮捕令的义务</strong>。[…]</p>
+<p>国际刑事法院这些年针对几名非西方国家的现任或去职的领导人采取了行动，<strong>西方主导的色彩非常浓厚</strong>。美国一方面支持国际刑事法院的原则，一方面又不签署罗马规约，就是为了防止有一天该法院的判决涉及美国人或美国盟友，华盛顿不好办。美国的做法是支持国际法院抓美国的敌人，但用不签约来防着它损害美国利益。[…]</p>
+<p><strong>非洲的事情最终要非洲人来决定</strong>，外部态度所能产生的影响呈下降趋势，<strong>巴希尔顶着国际刑事法院的通缉令继续执政多年，成为一种象征。</strong>华盛顿应当尊重现实，并认真审视中国表现出这种尊重的积极意义。美国人应当致力于发现新的世界，而不是坚信自己是世界的中心，地球的其余部分都是边缘。</p></blockquote>
+<p><strong>涉及到日本时，《环球时报》母报《人民日报》对“战争罪”的一些看法：</strong></p>
+<p><strong><a href="http://world.people.com.cn/n/2015/0707/c1002-27262928.html">人民日报｜东京审判是严肃公正的国际审判</a></strong></p>
+<blockquote><p>在法律上，东京审判对国际法的发展特别是国际刑法的发展作出了重大贡献。东京审判适用的“侵略战争罪”“反人道罪”“个人为战争罪行负责”等概念，无论在国际法的理论上还是实践上都具有重大意义，在国际法特别是国际刑法上具有重要地位。<strong>东京审判结束后，国际法的发展历程充分证明了这一点：1950年联合国国际法委员会通过的《纽伦堡国际军事法庭宪章及该法庭的判决书中所包含的各项国际法原则》、1968年联合国大会通过的《战争罪和危害人类罪不适用法定时效公约》、1970年联合国大会通过的《关于各国依联合国宪章建立友好关系及合作之国际法原则之宣言》、1998年罗马外交大会通过的《国际刑事法院规约》等一系列国际法文件，以及卢旺达国际刑事法庭等的审判实践，都明确肯定了远东国际军事法庭对战争罪概念的管辖权。东京审判及纽伦堡审判的审判原则奠定了现代国际刑法的基础。</strong></p></blockquote>
+<p><strong><a href="http://news.xinhuanet.com/world/2014-04/12/c_1110212271.htm">人民日报｜日本右翼歪理邪说站不住脚</a></strong></p>
+<blockquote><p>安倍新年感言声称，“夺回强大日本”的战斗才刚开始，试图在任内修改和平宪法，谋求国家“正常化”。其实说白了，就是想推翻二战后的政治安排。<strong>安倍参拜靖国神社明显违反联合国《战争罪及危害人类罪不适用法定时效公约》，该公约指出，“战争罪”是“国际法上情节最重大之罪”，不会因时间的推移而被减轻或被推翻</strong>。<strong>安倍的倒行逆施，违反了联合国通过的《关于侦察、逮捕、引渡和惩治战争罪犯和危害人类罪犯的国际合作原则》，该原则指出，“对有重大理由可认为犯有危害和平罪、战争罪或危害人类罪的人，各国不应给予庇护”。</strong>安倍为被远东国际军事法庭宣判为甲级战犯的刽子手招魂，就是一种政治和精神上的庇护。这叫不叫违法？</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2682613041" target="_blank">传说中的章鱼帝</a>：卡扎菲、金正日、本拉登在世，估计也会被邀请！<img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"></p>
+<p>@小说技巧辞典yrx主编：物以类聚，人以群分。龙找龙，虾找虾，乌龟找王八。什么样的人喜欢什么样的人。狼狈为奸。妖魔鬼怪一家亲。</p>
+<p>@铭义孝友：看看中国的朋友都是些什么狐朋狗友啊。</p>
+<p>@进三摩地：嗯，法外之地 //@法律案例-文史典故: 中國不是《國際刑事法院羅馬規約》的締約國</p>
+<p>@钟殿舟：流氓集散地。</p>
+<p>@我就是那只蟋蟀：还差三胖没来。独裁大联盟</p>
+<p>@松兹夫：穷的只剩杀人犯朋友了</p>
+<p>@秦观天下：照她说法奥巴马在白宫与大陆潜逃贪官一起喝下午茶了，反正没跟你签订引渡条约。</p>
+<p>@八分钟后的黑暗：要不要邀请另一边的老朋友们来参加啊？放两个牌位什么的，例如卡扎菲和金正日。</p>
+<p>@毛保诠_hbu：终于找了这么一位来捧臭脚。老大好口味。</p>
+<p><strong>附：</strong></p>
+<ul><li><a href="http://www.un.org/chinese/work/law/Roma1997.htm">国际刑事法院罗马规约</a>（<a href="http://www.icc-cpi.int/en_menus/asp/states%20parties/Pages/the%20states%20parties%20to%20the%20rome%20statute.aspx">成员国名单</a>）</li>
+<li><a href="http://www.un.org/chinese/hr/issue/docs/87.PDF">关于侦察、逮捕、引渡和惩治战争罪犯和危害人类罪犯的国际合作原则</a></li>
+<li><a href="http://www.un.org/chinese/hr/issue/docs/86.PDF">战争罪及危害人类罪不适用法定时效公约</a>（<a href="https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-6&chapter=4&lang=en">签署国名单</a>）</li>
+</ul><hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E6%97%B6%EF%BD%9C%E5%B7%B4%E5%B8%8C%E5%B0%94%E9%A1%B6%E7%9D%80%E5%9B%BD%E9%99%85%E9%80%9A%E7%BC%89%E4%BB%A4%E7%BB%A7%E7%BB%AD%E6%89%A7%E6%94%BF%E5%A4%9A%E5%B9%B4%EF%BC%8C%E6%88%90%E4%B8%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">中国外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E5%B8%8C%E5%B0%94/?category=18271" rel="tag">巴希尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E6%B6%89%E5%86%85%E6%94%BF/?category=18271" rel="tag">干涉内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E4%B8%B9/?category=18271" rel="tag">苏丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%B7%83%E8%BF%9B%E5%B7%B2%E5%AE%A3%E5%91%8A%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">罗伯特卡帕：中国新经济大跃进已宣告失败</a>
 </h2>
 <p><p>谁违背了经济规律，谁将受到经济规律的严惩，这是铁律，任何人都不会例外，在经济规律面前，不会有中国特例。</p>
@@ -670,29 +707,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/" target="cdt-mirror">金融时报 | 据称中国决定放弃大规模购股</a>
-</h2>
-<p><p>据高级官员透露，中国政府决定放弃通过大规模购股提振股市的努力，接下来将加大努力调查和惩处那些涉嫌“扰乱市场”者。</p>
-<p>在过去两个月里，由中国的国有投资基金和机构组成的一支“国家队”斥资约2000亿美元，试图提振一个自6月中旬峰值以来下跌37%的市场。</p>
-<p>但高级监管官员上周四在一个会议上发言时表示，中国领导人觉得他们对救市努力的宣传方式处理不当，让过多信息公诸于众。英国《金融时报》看到了该会议的记录。</p>
-<p>上周的股市暴跌在一定程度上归咎于有关部门不再实施今年7月以来的购股举措。上周中国股市暴跌引发了全球市场的抛售潮。</p>
-<p>在旁观一个多星期之后，中国政府在上周四收盘前最后一小时再次大举购股，帮助上证基准指数从小幅下跌，到收盘上涨逾5%。上证综指上周五进一步飙升近5%。</p>
-<p>交易员和官员们表示，最新干预的目的是在本周四（9月3日）纪念“中国人民抗日战争胜利70周年”阅兵仪式前提供一个“积极的市场环境”。</p>
-<p>高级金融监管官员们坚称，这是下不为例之举，政府将避免进一步大举购股。</p>
-<p>中国有关部门正计划将注意力转向调查和惩处据信利用国家救市努力牟利的个人和机构。</p>
-<p>上周，中国证券监管机构召集来自19家券商、交易所和政府控制的行业协会的最高官员，要求他们加大对市场的监督。</p>
-<p>中国监管机构表示，22起内幕交易、市场操纵和“散布市场谣言”案件已被移交警方。上周二，在中国股市在4个交易日里下跌22%之后，警方拘捕了11名涉嫌从事“非法市场活动”的人士。他们包括中信证券(Citic Securities)的8名经理。中信证券是中国最大的投资银行之一。</p>
-<p>一些官员强烈主张打击“外国势力”，称这些势力故意扰乱市场，这是一个让在华开展业务的全球投资者感到担忧的迹象。</p>
-<p>香港一位对冲基金经理表示：“全球投资者正在倾听这种报复性语言，并观察这种疑神疑鬼的动向，他们正在努力理解，这对自己意味着什么。”</p>
-<p>译者/邹策</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E6%94%BE%E5%BC%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B4%AD%E8%82%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98/?category=18271" rel="tag">股市崩盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -704,7 +718,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d29gy44sr21vpl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1vl3bwkp23l8h.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -714,5 +728,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E
                 <td></td>
                 
         
-        <td><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://djm7gv4h2c8lk.cloudfront.net">https://djm7gv4h2c8lk.cloudfront.net</a><br/><a href="https://d2e0bfx8x5z00r.cloudfront.net">https://d2e0bfx8x5z00r.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3akigodowrifp.cloudfront.net">https://d3akigodowrifp.cloudfront.net</a><br/></td>    </tr>
 </table>

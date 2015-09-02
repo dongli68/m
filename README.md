@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1v55fyopkjhox.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ra0homwehy5l.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%B7%83%E8%BF%9B%E5%B7%B2%E5%AE%A3%E5%91%8A%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">罗伯特卡帕：中国新经济大跃进已宣告失败</a>
+</h2>
+<p><p>谁违背了经济规律，谁将受到经济规律的严惩，这是铁律，任何人都不会例外，在经济规律面前，不会有中国特例。</p>
+<p>中国上世纪50年代末期，曾有过大跃进运动，结果饿死3000万人；在二十一世纪的今天，中国最近几年又开始了新的经济大跃进运动，与50年代的大跃进相比，共同特点都是违背经济规律。</p>
+<p>50年代大跃进的口号是“赶英超美”，如今新大跃进的口号不再是“赶英”，而是“超美”，要在短期超越美国，成为世界第一强国，实现中国梦。</p>
+<p>在这一口号激励下，同时也是在经济危机来临之际，妄图通过人为的举措而不是深化改革来摆脱危机，在最近几年，发动了如下经济大跃进：</p>
+<p>1.高铁大跃进。高铁不仅要遍布全国，而且要走出世界，南穿越东南亚，与新加坡接通；北穿过西伯利亚，与莫斯科连接；西穿越诸斯坦国家，与西欧相连。</p>
+<p>事实证明，这是一个错误的抉择，高铁成本高效率低。实践证明，短途交通来说，自家车比铁路更方便，长途交通而言，飞机比铁路更快捷。国内的高铁大部分亏损，如何能走出国内？</p>
+<p>2.地铁大跃进。本来受到严格管控的城市地铁，在经济危机面前，被彻底放开，成了拉动国家GDP的利器。地铁也成了各个城市首长拉动GDP，提高政绩，带动房价上涨的工具。至于地铁建成后，收益如何，是否严重亏损，无人考虑。</p>
+<p>3. 一带一路大跃进。所谓的一带一路，不过是赔本赚吆喝的买卖，为了能把国内滞销的基建出口，为了出口高铁，也是拼了，不惜一切代价。一带一路，所经过的地区 大多为经济落后政治极不稳定地区，一带一路投资效益低，资金回收周期长，风险却极大，搞这样的项目，真是崽卖爷田不心疼。</p>
+<p>4.人 民币国际化大跃进。一个国家的货币国际化，是有条件的，而不是无条件的。货币国际化的第一个条件是该国货币发行体制能独立于政府，而且发行与监管体制透明 化；第二个条件是独立的司法体制与健全的金融体制；第三个条件是强大的经济实力，这个实力不是靠出卖血汗与污染环境，而是靠高科技与发达的教育体制。</p>
+<p>中国的人民币国际化条件根本就不成熟，属于一厢情愿的中国梦，除了在国际上被人当成凯子耍，收获不了什么，因为世界上没人是傻子。</p>
+<p>5. 新京津冀一体化大跃进。北京的最大问题是，这么一个靠近沙漠的干旱地区，根本不适合作为中国的首都。而中国的政治体制又决定了，作为首都的北京掌握着最多 的资源。结果，最多只能承载1000万人口的北京，承载了超过2000万的人口。造成的恶果是交通拥堵，空气污染严重，生存环境恶化。</p>
+<p>最 好的解决方案是迁都，这是顺应自然规律与经济规律的最佳选择。然而，肉食者们却搞出一个新京津冀一体化大跃进方案，妄图通过该地区经济发展的均等化，来分 散北京的人口压力。最终结果将是，不但北京的人口没有疏散，整个新京津冀地区将吸引全国更多的人口加入，加剧严重干旱的该地区人与自然的紧张关系。</p>
+<p>6.股市大跃进。在经济基本面每况愈下的情况下，居然想通过人为制造股市牛市来为经济贴金，就像一个丑极了的老女人，通过化浓妆抹重粉来掩饰自己的老丑，结果只能是，一笑就掉粉。</p>
+<p>在经济危机面前，有人妄图另辟捷径，妄想通过人为的经济大跃进，来扭转颓势，并且顺势超越美国。结果，汇率贬值，宣告人民币国际化的梦想破灭；股市泡沫破灭，股市牛市大跃进也宣告失败；一带一路，新京津冀一体化，都成了纸上谈兵；国外出口高铁，也遇到严重挫折。</p>
+<p>总之，中国的新经济大跃进已宣告彻底失败，没人能逆经济规律而行。中国除了政治体制改革以外，经济已经是别无出路。任何脱离实际违背经济规律的幻想，各种梦，最终都将破灭。</p>
+<p>大潮退去，方知谁在裸泳。</p>
+<div></div>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%B7%83%E8%BF%9B%E5%B7%B2%E5%AE%A3%E5%91%8A%E5%A4%B1%E8%B4%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">大跃进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E6%B0%91%E5%B8%81/?category=18271" rel="tag">软民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%93%81%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">高铁大跃进</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B%E5%91%A2%EF%BC%9F/" target="cdt-mirror">东网｜傅桓：说好的“境外敌对势力”呢？</a>
 </h2>
 <p><p>在阅兵变成“月饼”前夕，警方控制了三名说是与股灾有关的责任人，他们分别来自于证监会、中信证券及《财经》杂志的小中层及记者。其中，《财经》记者王晓璐被拉到央视未审先判，说自己搞了假消息扰乱股市，对不起股民云云，审判还是继续。</p>
@@ -666,23 +693,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%99%E7%AB%9E%E7%9B%B8%E4%B8%80%E8%B7%AA/" target="cdt-mirror">【图说天朝】这竞相一跪</a>
-</h2>
-<p><p>@石扉客2014 ：河北警察屈膝，令人几度无语。这竞相一跪，将警队超级强大又相当脆弱的权势，媒体不应缺位又胆战心惊的监督，公众无所不在又不辨方向的愤怒，小职员的满腹委屈与本能计算，底边弱的扑倒尘埃与茫然无措，扑通几声跪成了一团乱麻一包浆糊，催生着一团团七窍生烟又无处发作的暴烈情绪。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/08/a5658013gw1eviphnnxpzj20hl0fwjvc.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/08/a5658013gw1eviphnnxpzj20hl0fwjvc.jpg" alt="a5658013gw1eviphnnxpzj20hl0fwjvc" width="440" height="398"></a></p>
-<p>新闻背景：<strong>母亲为酒驾儿子下跪求情 交警下跪解释酒驾危害</strong></p>
-<p>昨日，“邯郸交警与市民街头对跪”的图片在网上疯传，这到底是怎么回事呢？原来系一车辆驾驶人涉嫌酒驾被交警查获后，他的老母亲跪地为儿子求情所致，交警也跪地耐心解释。</p>
-<p>当日上午11时许，这张“交警与市民街头对跪”的图片通过朋友圈等网络被广泛转发，从网图中可以看到，一男一女与两名交警对跪交谈，另有两名交警分别持执法记录仪和手机拍摄现场，现场有多名市民围观。</p>
-<p>下午1时49分，河北邯郸交警官微@邯郸交警在线发布通告称，经初步了解，28日是邯郸市机动车限行第一天，交警三大队民警在人民西路邯武大桥东口执勤时，发现一车辆驾驶人涉嫌酒驾，当民警进行酒精测试时，该驾驶人的母亲跪在道路中间为儿子求情，要求民警对其儿子免于处罚。当时正值上班高峰，路上来往车辆较多，车速较快，为保障该车驾驶人及其母的安全，尽量避免围观群众产生误解，民警也跪下来向其母耐心解释酒驾行为对驾驶人和其他交通参与者的危害。目前详细情况正在进一步了解，将会及时向公众公布。</p>
-<p>此事一经发布，立即引发众多网友热议。不少网友纷纷发表点评称“老百姓就是警察的衣食父母，为交警的人性化下跪，为他们的执法态度点赞！”也有网友认为“这名母亲如此溺爱儿子不对，做错了就要承担，毕竟酒驾是违法的，一旦出事就不是这一跪能解决的。”还有少数网友表示，“交警不应该下跪，不能怜惜违法者母亲的下跪而失去法律的尊严”。（新闻晨报）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%99%E7%AB%9E%E7%9B%B8%E4%B8%80%E8%B7%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%AA/?category=18271" rel="tag">下跪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6/?category=18271" rel="tag">交警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95/?category=18271" rel="tag">执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%92%E9%A9%BE/?category=18271" rel="tag">酒驾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -694,7 +704,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2j46hvfeznfk4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d17l46umzobcod.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -704,5 +714,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%AA
                 <td></td>
                 
         
-        <td><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/></td>    </tr>
 </table>

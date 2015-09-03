@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1h4ywypi92lps.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d17l46umzobcod.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%98%85%E5%85%B5%E5%BC%8F%E5%BA%86%E5%85%B8%E5%AE%A3%E5%B8%83%E8%A3%81%E5%86%9B30%E4%B8%87/" target="cdt-mirror">纽约时报 | 习近平阅兵式庆典宣布裁军30万</a>
+</h2>
+<p><p>北京——周四，中国国家主席习近平利用在二战结束70周年庆典发言的机会宣布中国将裁军30万，以此展示中国人民解放军是维护和平与地区稳定的力量。</p>
+<p>中国军队目前有200多万人，习近平开始加快军队现代化的步伐，将支出从传统的地面部队转向更为先进的海军及空军，它们需要较少但受过更好训练的人员。但习近平称裁军是为了维护和平。目前中国的邻国愈发担心中国的领土主张和军队力量。</p>
+<p>阅兵式在北京市中心举行。习近平在阅兵式开始时表示，中国军队“忠实履行保卫祖国安全和人民和平生活的神圣职责，忠实执行维护世界和平的神圣使命。</p>
+<p>他说，“我宣布，中国将裁减军队员额30万。”</p>
+<p>昨天，警察和武警部队出现在北京市中心的各条街道，关闭了这个世界大都市的中心地区，他们在为约有1.2万名中国官兵参加的阅兵式做准备，此次大阅兵是国家主席习近平为在全球观众面前展示中华民族不断崛起的力量而举行的。</p>
+<p>共产党为举行阅兵已经<a title="Link: http://cn.nytimes.com/china/20150901/c01sino-parade/" href="http://cn.nytimes.com/china/20150901/c01sino-parade/" target="_blank" rel="nofollow">筹备</a>了好几个月，称之为纪念二战结束70周年的阅兵式定于周四上午开始。但对许多外部观察家来说，阅兵式更多地是中国在东亚地区做出自信姿态的一种象征，这个区域的<a title="Link: http://cn.nytimes.com/china/20150416/c16china/" href="http://cn.nytimes.com/china/20150416/c16china/" target="_blank" rel="nofollow">领土争端问题加剧</a>，促使美国强调其在亚洲海域的<a href="http://cn.nytimes.com/world/20150525/c25military/" target="_blank" rel="nofollow">军事主导地位</a>。</p>
+<p>阅兵在蔚蓝的天空下开始。此前北京数日阴雨，中国北方的工厂被迫关停了几个星期，以防形成臭名昭著的雾霾（评论者讽刺其为“法西斯蓝”）。地上行进着部队方阵，坦克和导弹，天上飞过喷气式战斗机。游行开始之前，习近平及夫人彭丽媛对包括30位国家领导人在内的外国官员表示了欢迎。</p>
+<p>少数外国领导人将来北京观看阅兵，其中包括一名被国际刑事法院起诉的人，他们与中国官员见面，在高档酒店下榻。</p>
+<p>阅兵的时间对习近平来说是颇为关键。虽然这一计划是在1月份宣布的，但阅兵的时间是在国内危机不断的夏季之后，最引人注目的是<a href="http://cn.nytimes.com/china/20150710/c10chinaleaders/" target="_blank" rel="nofollow">目前的股市大跌</a>，加上人民币出人意料的贬值，这些都增加了人们对<a href="http://cn.nytimes.com/china/20150830/c30chinaeconomy/" target="_blank" rel="nofollow">中国经济增长放缓的深度和广度</a>的不安疑问。天津一个化学品仓库8月发生的致命大爆炸也动摇了人们对领导人的信心。</p>
+<p>因此，阅兵给习近平带来一个机会，至少能在一个上午，驱散一些纠缠着他的问题，同时他也在准备本月前往美国作首次国事访。</p>
+<p>阅兵的日子定在日本正式投降70周年的第二天，阅兵的设想是为了强调日本的战争罪行，同时颂扬中国共产党在抗战中起的作用。许多目前与日本结盟的西方国家认为，这种羞辱东京的做法是一种冒犯，他们也难以接受共产党宣称的、是共产党打败了占领日军的说法。历史学家将抗战的大多数功劳归于国民党，国民党在1949年结束的内战中败给了共产党。</p>
+<p>“这次阅兵体现了习近平反复强调的自上而下的民族主义，”康奈尔大学政府学院副教授白洁曦(<a href="http://www.jessicachenweiss.com/" target="_blank" rel="nofollow">Jessica Chen Weiss</a>)说，她专门研究中国的民族主义。“阅兵正好发生在公众对政府的信心，受糟糕的经济新闻和<a href="http://cn.nytimes.com/topic/20150820/tianjin-topic/" target="_blank" rel="nofollow">天津大爆炸</a>的影响，发生动摇的时候，这种壮观场面可以将公众的注意力集中到中国不断增长的军事实力、以及第二次世界大战的胜利上来。”</p>
+<p>前来参加的外国领导人人数预计将远低于共产党所希望的，部分原因是，许多国家唯恐被人视为支持不断增长的中国军事力量。近年来，中国在其<a href="http://www.nytimes.com/2009/09/04/world/asia/04chinaindia.html" target="_blank" rel="nofollow">喜马拉雅山边境</a>及其所在地区有争议海域的行动，包括部分出于军事用途<a href="http://cn.nytimes.com/asia-pacific/20140617/c17islands/" target="_blank" rel="nofollow">建设人工岛</a>，已让邻国十分紧张。</p>
+<p>俄罗斯总统弗拉基米尔·V·普京(Vladimir V. Putin)预计将是前来参加的外国人中的首要人物。苏丹总统奥马尔·巴希尔(Omar al-Bashir)将是站在看台上的最显要的非洲领导人，国际刑事法院已以种族灭绝罪对巴希尔提出起诉。习近平周二在北京欢迎了这位“中国人民的老朋友”。</p>
+<p>虽然北京向西方国家施加压力，让他们派高级官员前来参加，但几乎没有国家答应这样做。美国计划派驻华大使马克斯· 鲍卡斯(Max Baucus)参加。</p>
+<p>韩国总统朴槿惠在最后时刻决定参加，为前来观看阅兵的亚洲政要名单增添了光彩，中国是韩国最重要的贸易伙伴，韩国也希望能在中国和朝鲜之间挑起不和。越南虽与中国有领土争端，但也是一个共产党国家，越南表示其总统将会参加。但是，包括对中国友好的新加坡在内的、一些在二战期间被日本占领的亚洲国家表示，他们将只派较低级别的官员参加。日本拒绝参加阅兵，并表示，曾担任总理的社会党人村山富市只是以私人身份参加。</p>
+<p>在举行阅兵式前的一段时间里，中国的官方新闻媒体加强了对日本现任首相安倍晋三的抨击，这位保守派人士在习近平上台后的三年多来，由于日本对战争记录的道歉不够，一直是魔鬼的代名词。国家通讯社新华社周二在其英文Twitter帐号上发帖，称安倍晋三是“战争贩子的崇拜者”。</p>
+<p>香港岭南大学政治学系国际关系教授<a href="http://www.ln.edu.hk/polsci/staff-zhang.php" target="_blank" rel="nofollow">张泊汇</a>表示，阅兵所反映的中国担忧针对的是安倍晋三为解除对日本军队的限制所做的动作，以及奥巴马总统让美国在亚洲起更积极作用的努力，美国是日本的主要军事盟友。</p>
+<p>“日本的重振军力以及美国的战略再平衡的确让北京担忧，”张泊汇说。“历史的痛苦记忆只会增添中国对日本修正主义的恐惧感。阅兵的主要目的是战略威慑。”</p>
+<p>周三，警方开始采取广泛的限制措施，不让中国老百姓亲身前来观看庆祝活动。城市居民已被告知要在国家电视台上观看阅兵。自8月22日起，天安门广场就不对公众开放，故宫也关了门，这让不少游客沮丧。</p>
+<p>通往天安门广场的宽阔大道两边的公寓楼的房管们已通知居民，不要留客，不要打开窗户，不要站在阳台，不要拍照。整个城市里关闭的地方之多，已让很多家医院表示，他们将停止提供非急诊服务。</p>
+<p>对于中国的军事爱好者和海外的许多军事观察家来说，武器的展示是阅兵最令人期待的部分。前美国驻华武官卜思高(Dennis J. Blasko)写过几本有关中国军队的书，他表示，解放军把阅兵作为“显示军事能力、表明有使用这种能力的意志”的战略平台。据官方数字，人民解放军的预算今年<a href="http://cn.nytimes.com/china/20150305/c05military/" target="_blank" rel="nofollow">增长了10％</a>。</p>
+<p>卜思高说，他认为阅兵式上不会有多少超出意料的东西，虽然中国军方很可能会展示一些美国已经知道、但还没有看到过的武器，包括YJ-18远程超音速反舰导弹。</p>
+<p>中国军方已宣布，阅兵所展示的武器中将有84％是新的，但卜思高说，那主要指的是更新换代。他提到将在阅兵式上出现的、许多西方国家还没有看到过的、中国2009年投入使用的DF-16中程弹道导弹。新华社在Twitter上宣布，有七种类型的导弹将在周四展现给公众。</p>
+<p>“肯定会有一些新的东西，也有一些水平一般的东西，”卜思高说。“会有特别好的东西吗？我不敢说。”</p>
+<p>对习近平来说，与展示硬件同样重要的是，要给人以这种军事实力是在他个人指挥之下的印象。他作为一位强有力的领导人的名声，在很大程度上建立在他2012年上台后迅速巩固权力、尤其是控制军队的事实之上。习近平马上从前任胡锦涛身上接任了中央军事委员会主席的职位，中央军委是军队的主管，然后习近平迅速采取行动，用一个大范围的反腐运动<a href="http://cn.nytimes.com/china/20140701/c01xu/" target="_blank" rel="nofollow">清洗了一批高级将领</a>。</p>
+<p>习近平把自己塑造成挽救军队的人，他说，军队必须根除腐败，才能做好能打胜仗的准备，他还通过给总参等部门的<a href="http://news.xinhuanet.com/politics/2015-07/31/c_1116108424.htm" target="_blank" rel="nofollow">军官晋升军衔</a>来加强他在军队中的基础。</p>
+<p>“习近平很想为自己树立一种他是继毛泽东和邓小平之后最权威的军事指挥官的形象，”历史学者章立凡说，章的父亲曾在共产党建国初期担任部长。“我觉得，阅兵主要是为了国内政治，因为他希望对军队进一步加强控制。”</p>
+<p>但对于至少某些中国人来说，阅兵可能是对中国在抗击日本侵略中所起作用的一次真正的庆祝活动，70年来，这些人常回忆起中国在战争中遭受的巨大苦难，比如战争导致1400万人死亡，让8000万人沦为难民。抗战老兵将乘坐机动车组成的方队出现在天安门广场，据官方报道，他们平均年龄90岁。阅兵之前刊登的照片显示，他们胸前挂着奖章，对着相机露出了自豪的笑容。</p>
+<div>
+<p>黄安伟(Edward Wong)是《纽约时报》北京分社社长。<br>
+翻译：Cindy Hao</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%98%85%E5%85%B5%E5%BC%8F%E5%BA%86%E5%85%B8%E5%AE%A3%E5%B8%83%E8%A3%81%E5%86%9B30%E4%B8%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">抗战历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81/?category=18271" rel="tag">权威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5/?category=18271" rel="tag">阅兵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%89%E9%B8%A3%EF%BD%9C%E7%8E%A9%E7%81%AB%E8%87%AA%E7%84%9A%EF%BC%8C%E9%80%9E%E5%BC%BA%E8%87%AA%E8%B4%A5-%E5%85%B3%E4%BA%8E%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%8E%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">争鸣｜玩火自焚，逞强自败–关于大爆炸与大阅兵</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/56a.jpg" alt="56a" width="551" height="379"><br>
@@ -207,7 +250,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%94%BF%E7%BB%8F%E5%86%85%E5%8F%82%EF%BD%9C9%E6%9C%883%E6%97%A5%E9%98%85%E5%85%B5%EF%BC%8C%E8%80%81%E9%A2%86%E5%AF%BC%E4%BC%9A%E7%99%BB%E4%B8%8A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%90%97%EF%BC%9F/" target="cdt-mirror">政经内参｜9月3日阅兵，老领导会登上天安门吗？</a>
 </h2>
@@ -624,27 +667,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B%E5%91%A2%EF%BC%9F/" target="cdt-mirror">东网｜傅桓：说好的“境外敌对势力”呢？</a>
-</h2>
-<p><p>在阅兵变成“月饼”前夕，警方控制了三名说是与股灾有关的责任人，他们分别来自于证监会、中信证券及《财经》杂志的小中层及记者。其中，《财经》记者王晓璐被拉到央视未审先判，说自己搞了假消息扰乱股市，对不起股民云云，审判还是继续。</p>
-<p>对王晓璐的做法激起了大陆新闻人士的愤慨，列举的理由相当扎实。一是王晓璐所报的研究“国家队”退市的会议真实存在，腾讯财经媒体也给与了报道与证实；二是王晓璐的报道是职务作品，不追究杂志社而直接捉人；三是央视继续污名化手段，强迫认罪，未审先判。</p>
-<p>财经媒体遭遇如此粗暴的打压，在21世纪经济网及抓捕21报系领导人沈颢时，就已经展露了狰狞面貌。在一种似是而非、甚至是完全错误的基础上，捏造莫须有罪名牵制舆论，《财经》不是第一个受害者，想必也不会是最后一个。压制没有消失。</p>
-<p>对财经媒体记者肆无忌惮地予以审查、恐吓及追捕，这在前些年是不可想象的。这从一个侧面说明，原本发生在时政领域内的国内问题，已经开始向财经领域迁移。当经济问题占据内政问题的要角，财经媒体及其记者必将成为舆论控制首当其冲的牺牲品。</p>
-<p>坊间的推测是，拿几个小人物作为股灾的责任人，是因为股灾早已被定性为“恶意做空”，为了维持这个定性的权威，就需要找到“替罪羊”，以证明此前定性的“伟光正”。考虑到这几个人的身份与被指控的严重不相称，可以想见强力部分有多么迫切想造成“铁案”。</p>
-<p>财经记者被捕之后，新闻界内部流传如何防范职业风险的文章——实际上这些规范毫无帮助，谁都知道，抓人不过是先确定罪名，再按图索骥，职业操守上的完备根本不具备防御功能。新闻同行之间的相互告诫与示警，更像是掩耳盗铃般的自我欺骗。</p>
-<p>联想到股灾后期，公安部副部长带队入住证监会，誓言要揪出“幕后黑手”。在这个时候起，上述三人的命运就已经定下了。证监会趁机除掉不听话的敢言记者，并对号称股市设计者的《财经》后台给予警告，趁机收获敲山震虎之效，其行事料符合逻辑。</p>
-<p>极具讽刺意味的是，现时的抓捕，除了“证明”股灾的阴谋论外，说好的趁乱抄底中国的“境外敌对势力”却不见踪影。真正的内鬼趁乱仗权隐没了，一直告诫股民美国是股灾元凶的说法言犹在耳，可说好的“境外敌对势力”却像空气一样消失了。</p>
-<p>所以，这是一个这样的现实：活着本身就是一种罪，会被按需按上罪名，带入指定的审判场合——不只是行动上的“量刑”，伴随着是，还包括自证其罪的道德羞辱——而所有包括“境外敌对势力”在内的名义，不过是方便行事的借口，是一张预先支起的网。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 这事不能说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B%E5%91%A2%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%99%93%E7%92%90/?category=18271" rel="tag">王晓璐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -666,5 +688,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9
                 <td></td>
                 
         
-        <td><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/></td>    </tr>
 </table>

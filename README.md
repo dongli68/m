@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3rfr45zgr117k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s9y89x9ctmf8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%98%85%E5%85%B5%E5%BC%8F%E5%BA%86%E5%85%B8%E5%AE%A3%E5%B8%83%E8%A3%81%E5%86%9B30%E4%B8%87/" target="cdt-mirror">纽约时报 | 习近平阅兵式庆典宣布裁军30万</a>
@@ -202,7 +202,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A9-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D/" target="cdt-mirror">联合新闻网 | 纪念抗战胜利 马英九总统发表谈话</a>
 </h2>
@@ -688,5 +688,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/></td>    </tr>
 </table>

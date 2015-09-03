@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3rfr45zgr117k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1na8m52edc826.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%919-3%E5%A4%A7%E9%98%85%E5%85%B5%E4%B9%8B%E8%9B%A4%E4%B8%9D%E7%9A%84%E7%8B%82%E6%AC%A2/" target="cdt-mirror">【敏感词库】9.3大阅兵之蛤丝的狂欢</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262387086.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262387086.jpg" alt="mmexport1441262387086" width="400" height=""></a><br><em>（网络图片）</em></p>
+<blockquote><p>你会不会忽然的出现，在天安门楼上面。你会带着笑脸，挥手寒暄，把我再批判一番；我多么想和你见一面，看看你最近改变。你仍戴着眼镜，裤带高悬，听你讲一点，哪怕只一点，人生经验～ <a href="http://lvv2.com/t/277710/title-%E4%BD%A0%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BF%BD%E7%84%B6%E7%9A%84%E5%87%BA%E7%8E%B0%EF%BC%8C%E5%9C%A8%E5%A4%A9%E5%AE%89%E9%97%A8%E6%A5%BC%E4%B8%8A%E9%9D%A2%E3%80%82%E4%BD%A0%E4%BC%9A%E5%B8%A6%E7%9D%80%E7%AC%91%E8%84%B8%EF%BC%8C%E6%8C%A5%E6%89%8B%E5%AF%92%E6%9A%84%EF%BC%8C%E6%8A%8A%E6%88%91%E5%86%8D%E6%89%B9%E5%88%A4%E4%B8%80%E7%95%AA%EF%BC%9B%E6%88%91%E5%A4%9A%E4%B9%88%E6%83%B3%E5%92%8C%E4%BD%A0%E8%A7%81%E4%B8%80%E9%9D%A2%EF%BC%8C%E7%9C%8B%E7%9C%8B%E4%BD%A0%E6%9C%80%E8%BF%91%E6%94%B9%E5%8F%98%E3%80%82%E4%BD%A0%E4%BB%8D%E6%88%B4%E7%9D%80">via @eleven_K</a></p></blockquote>
+<p>中国9.3大阅兵，江泽民在众多蛤丝的翘首期盼中终于现身，“<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/">为长者续命</a>”活动再一次掀起了高潮。</p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BB%E4%BA%BA%E7%9A%84%E9%9E%AD%E5%AD%90%E5%A5%BD%E6%BC%82%E4%BA%AE%E5%95%8A/">【网络民议】主人的鞭子好漂亮啊 </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-%E6%BC%AB%E7%94%BB%E5%90%90%E6%A7%BD%E7%9B%B4%E6%92%AD%E5%A4%A7%E9%98%85%E5%85%B5/">变态辣椒 | 漫画吐槽直播大阅兵</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/">【敏感词库】“长者续命”、“刘部长” 等近日热点 2015-8-28</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8D%E7%9F%A5-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E9%95%BF%E8%80%85%EF%BC%9F%E9%95%BF%E8%80%85%E9%A3%8E%E9%9D%A1%E7%BD%91%E7%BB%9C%E8%83%8C%E5%90%8E%E7%9A%84/">不知 | 为什么人们怀念长者？长者风靡网络背后的制度难题</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%90%8D%E8%80%81%E6%B4%BE%E6%96%87%E8%89%BA%E9%9D%92%E5%B9%B4%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/">黄薄码 | 一名老派文艺青年的自我修养</a></li>
+</ul></blockquote>
+<p>［新浪微博搜索禁词测试时间：2015年9月3日］</p>
+<p><strong>蛤</strong><br><strong> 长者</strong><br><strong> 续命</strong><br><strong> excited</strong><br><strong> 胡＋帕金森</strong>（有网民在阅兵视频中发现胡锦涛左手不可控制地抖动，疑患帕金森症）</p>
+<p><em>复测：</em><br><strong>江泽民</strong><br><strong> JZM</strong><br><strong> 习＋江</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%9B%A4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%9B%A4.png" alt="蛤" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%95%BF%E8%80%85.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%95%BF%E8%80%85.png" alt="长者" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%BB%AD%E5%91%BD.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%BB%AD%E5%91%BD.png" alt="续命" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/excited2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/excited2.png" alt="excited2" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%83%A1-%E5%B8%95%E9%87%91%E6%A3%AE.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%83%A1-%E5%B8%95%E9%87%91%E6%A3%AE.png" alt="胡 帕金森" width="475" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg" alt="mmexport1441262564551" width="525" height="347"></a><br><em>（网络图片）</em></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%919-3%E5%A4%A7%E9%98%85%E5%85%B5%E4%B9%8B%E8%9B%A4%E4%B8%9D%E7%9A%84%E7%8B%82%E6%AC%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A6%E6%B6%9B/?category=18271" rel="tag">胡锦涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%98%85%E5%85%B5%E5%BC%8F%E5%BA%86%E5%85%B8%E5%AE%A3%E5%B8%83%E8%A3%81%E5%86%9B30%E4%B8%87/" target="cdt-mirror">纽约时报 | 习近平阅兵式庆典宣布裁军30万</a>
 </h2>
 <p><p>北京——周四，中国国家主席习近平利用在二战结束70周年庆典发言的机会宣布中国将裁军30万，以此展示中国人民解放军是维护和平与地区稳定的力量。</p>
@@ -250,7 +276,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%94%BF%E7%BB%8F%E5%86%85%E5%8F%82%EF%BD%9C9%E6%9C%883%E6%97%A5%E9%98%85%E5%85%B5%EF%BC%8C%E8%80%81%E9%A2%86%E5%AF%BC%E4%BC%9A%E7%99%BB%E4%B8%8A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%90%97%EF%BC%9F/" target="cdt-mirror">政经内参｜9月3日阅兵，老领导会登上天安门吗？</a>
 </h2>
@@ -640,33 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%B7%83%E8%BF%9B%E5%B7%B2%E5%AE%A3%E5%91%8A%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">罗伯特卡帕：中国新经济大跃进已宣告失败</a>
-</h2>
-<p><p>谁违背了经济规律，谁将受到经济规律的严惩，这是铁律，任何人都不会例外，在经济规律面前，不会有中国特例。</p>
-<p>中国上世纪50年代末期，曾有过大跃进运动，结果饿死3000万人；在二十一世纪的今天，中国最近几年又开始了新的经济大跃进运动，与50年代的大跃进相比，共同特点都是违背经济规律。</p>
-<p>50年代大跃进的口号是“赶英超美”，如今新大跃进的口号不再是“赶英”，而是“超美”，要在短期超越美国，成为世界第一强国，实现中国梦。</p>
-<p>在这一口号激励下，同时也是在经济危机来临之际，妄图通过人为的举措而不是深化改革来摆脱危机，在最近几年，发动了如下经济大跃进：</p>
-<p>1.高铁大跃进。高铁不仅要遍布全国，而且要走出世界，南穿越东南亚，与新加坡接通；北穿过西伯利亚，与莫斯科连接；西穿越诸斯坦国家，与西欧相连。</p>
-<p>事实证明，这是一个错误的抉择，高铁成本高效率低。实践证明，短途交通来说，自家车比铁路更方便，长途交通而言，飞机比铁路更快捷。国内的高铁大部分亏损，如何能走出国内？</p>
-<p>2.地铁大跃进。本来受到严格管控的城市地铁，在经济危机面前，被彻底放开，成了拉动国家GDP的利器。地铁也成了各个城市首长拉动GDP，提高政绩，带动房价上涨的工具。至于地铁建成后，收益如何，是否严重亏损，无人考虑。</p>
-<p>3. 一带一路大跃进。所谓的一带一路，不过是赔本赚吆喝的买卖，为了能把国内滞销的基建出口，为了出口高铁，也是拼了，不惜一切代价。一带一路，所经过的地区 大多为经济落后政治极不稳定地区，一带一路投资效益低，资金回收周期长，风险却极大，搞这样的项目，真是崽卖爷田不心疼。</p>
-<p>4.人 民币国际化大跃进。一个国家的货币国际化，是有条件的，而不是无条件的。货币国际化的第一个条件是该国货币发行体制能独立于政府，而且发行与监管体制透明 化；第二个条件是独立的司法体制与健全的金融体制；第三个条件是强大的经济实力，这个实力不是靠出卖血汗与污染环境，而是靠高科技与发达的教育体制。</p>
-<p>中国的人民币国际化条件根本就不成熟，属于一厢情愿的中国梦，除了在国际上被人当成凯子耍，收获不了什么，因为世界上没人是傻子。</p>
-<p>5. 新京津冀一体化大跃进。北京的最大问题是，这么一个靠近沙漠的干旱地区，根本不适合作为中国的首都。而中国的政治体制又决定了，作为首都的北京掌握着最多 的资源。结果，最多只能承载1000万人口的北京，承载了超过2000万的人口。造成的恶果是交通拥堵，空气污染严重，生存环境恶化。</p>
-<p>最 好的解决方案是迁都，这是顺应自然规律与经济规律的最佳选择。然而，肉食者们却搞出一个新京津冀一体化大跃进方案，妄图通过该地区经济发展的均等化，来分 散北京的人口压力。最终结果将是，不但北京的人口没有疏散，整个新京津冀地区将吸引全国更多的人口加入，加剧严重干旱的该地区人与自然的紧张关系。</p>
-<p>6.股市大跃进。在经济基本面每况愈下的情况下，居然想通过人为制造股市牛市来为经济贴金，就像一个丑极了的老女人，通过化浓妆抹重粉来掩饰自己的老丑，结果只能是，一笑就掉粉。</p>
-<p>在经济危机面前，有人妄图另辟捷径，妄想通过人为的经济大跃进，来扭转颓势，并且顺势超越美国。结果，汇率贬值，宣告人民币国际化的梦想破灭；股市泡沫破灭，股市牛市大跃进也宣告失败；一带一路，新京津冀一体化，都成了纸上谈兵；国外出口高铁，也遇到严重挫折。</p>
-<p>总之，中国的新经济大跃进已宣告彻底失败，没人能逆经济规律而行。中国除了政治体制改革以外，经济已经是别无出路。任何脱离实际违背经济规律的幻想，各种梦，最终都将破灭。</p>
-<p>大潮退去，方知谁在裸泳。</p>
-<div></div>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%B7%83%E8%BF%9B%E5%B7%B2%E5%AE%A3%E5%91%8A%E5%A4%B1%E8%B4%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">大跃进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E4%BC%AF%E7%89%B9%E5%8D%A1%E5%B8%95/?category=18271" rel="tag">罗伯特卡帕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E6%B0%91%E5%B8%81/?category=18271" rel="tag">软民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%93%81%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">高铁大跃进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -678,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1na8m52edc826.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3amu7nns4r91q.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -688,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d36g2avsyl1dj5.cloudfront.net">https://d36g2avsyl1dj5.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/></td>    </tr>
 </table>

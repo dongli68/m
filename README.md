@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2fdtucska1pl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d17l46umzobcod.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%89%E9%B8%A3%EF%BD%9C%E7%8E%A9%E7%81%AB%E8%87%AA%E7%84%9A%EF%BC%8C%E9%80%9E%E5%BC%BA%E8%87%AA%E8%B4%A5-%E5%85%B3%E4%BA%8E%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%8E%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">争鸣｜玩火自焚，逞强自败–关于大爆炸与大阅兵</a>
@@ -294,7 +294,7 @@ http://book.douban.com/review/5057459/</p>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8F%B2/?category=18271" rel="tag">抗战史</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B4%A2%E6%96%B0%E6%96%87%E5%8C%96-%E5%88%98%E8%8B%8F%E9%87%8C%EF%BC%9A%E4%B8%80%E4%BB%BD%E4%BA%8C%E6%88%98%E4%B9%A6%E5%8D%95%EF%BC%88%E4%B8%8A%EF%BC%89/" target="cdt-mirror">财新文化 | 刘苏里：一份“二战”书单（上）</a>
 </h2>
@@ -656,7 +656,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d17l46umzobcod.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pqs9dzpemga8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -666,5 +666,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9
                 <td></td>
                 
         
-        <td><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/></td>    </tr>
 </table>

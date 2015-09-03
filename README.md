@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djy7rqcuzqc5b.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d359i3iwbv7kgy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://djy7rqcuzqc5b.cloudfront.net">https://djy7rqcuzqc5b.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://djy7rqcuzqc5b.cloudfront.net">https://djy7rqcuzqc5b.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%9D%83%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E5%85%A8%E6%96%B0%E7%9A%84%E9%98%B6%E6%AE%B5/" target="cdt-mirror">自由亚洲｜余英时：中国政权进入一个全新的阶段</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg" alt="mmexport1441262564551" width="550" height="363"></p>
+<p>习近平上台以后，就是2012年以后已经把共产党的极权制度推到了一个新的阶段，这个新的阶段一直都是我们看得到的。抓了许多人，不准任何人说话，言论自由也没有，思想自由也没有，新闻自由也没有，而且还强迫各种大学有名的学者表态，表示支持中共和一切党的决定。</p>
+<p>换句话说，习近平上台以后一个重大的目标就是要把用共产党的话说就是要舆论统一，只有一种声音，这个声音就是代表党的声音。任何跟党的声音相反的或者不合拍的都要加以镇压，甚至于抓人。当然这个东西一直在进行中。我们还看不出来。但最近，特别是7月初，共产党通过了它的国家安全法。这个国家安全法给警察很大的权力，随时可以抓人。换句话说，习近平对于社会的稳定是完全没有信心的，唯一的办法是用强制的力量把它封闭起来，让人不敢说一句与官方与党不相容的话，这就是我说的他一个倾向。但这个倾向表现最清楚的是在上个月的尾巴上。大陆突然发生一个很大规模的逮捕维权律师甚至于妇女抗议性骚扰也被认为是寻衅滋事，有5个当时的领袖在广州的常州的北京的都被抓起来了，最后虽然不得不放，可是也是警告。</p>
+<p>换句话说，中共对于自己的统治实在是一点信心都没有。我们现在不是拿美国的标准、西方的标准，我们是拿中国原来的标准。中国最早你要读《史记》《左传》，你就知道在前秦时代就有一个说法，老百姓的抱怨我们是应该知道的。所以就要有采风，官方要派人到各地去听老百姓反映政府的话，然后收集起来，根据种种不满，我们加以改进、改良。所以言论自由在某种意义上在中国也是存在的，虽然跟西方的方式不一样。可见对政府部门有不同的意见，政府是希望你说出来的。</p>
+<p>所以，中共这个做法不但是违背了20世纪全球化的新的价值系统，而且也根本违背了中国原有的文化和基本精神，这是很可悲的事情。但是这个发展是非常不幸的，这个新的发展是习近平有意造成的。之所以造成就是要通过一个新的方式，提供一个法律根据。它唱的口号是依法治国，但它这个法不是老百姓接受的法，是一个党片面加给中国老百姓的一个法。其实还不依据自己的法来执行，对它不利的时候它可以违反它自己的法。所以法治在中国是离题万里，这是非常可怕的现象。所以从这里可以看出来这是现代文化的一个新趋势，也是中国历史文化历史的一种结晶，但是习近平采取的方式就是通过他的国安法，在加上后来还要发表的公安法，让警察可以随时抓人，任何人只要稍微不满意就可以抓起来。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-02-at-10.47.45-PM-856x1024.png" alt="Screen Shot 2015-09-02 at 10.47.45 PM" width="550" height="658"></p>
+<p>我们知道中国律师行业人并不是很多，只有27万人左右，维权律师在其中更是占很小的数目，这些人都是或者在外国受过教育或者受到传统法律的尊严的影响，要说出正义来，不能说假话，因此就是愿意为人民说话。共产党现在说他们的维权律师只是为赚钱，实际上大家都知道，维权律师都是非常可怜的人哪里出得起钱，甚至还要贴钱。但是人是很奇怪的，并不是说有利益所在就都去，任何道义可以不顾。人最后还是总该有点道义，这就是最基本的人性。这个基本的人性是一时改不了的，就是再专制的社会，虽然习近平把中共的专制极权推到一个完全新的阶段，可是这个新的阶段中也会有新的力量出现。这个新的力量出现，是在社会各方面的力量来的，防不胜防，没有地方可以把它完全封闭起来。</p>
+<p>所以，我们虽然认为在习近平统治之下中国的政治是越来越糟，可是也不必因此就悲观，认为中国完全没有希望了。其中被访问的中国律师中间有人就认为，甚至是高级人员，甚至做过人民代表的人都表示迟早中国应该走上一个合理的法治的社会，所以我想这点值得提出来让大家注意。</p>
+<p>（根据作者录音整理，未经本人审校）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%9D%83%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E5%85%A8%E6%96%B0%E7%9A%84%E9%98%B6%E6%AE%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E8%8B%B1%E6%97%B6/?category=18271" rel="tag">余英时</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E5%9D%A6%E5%85%8B%E9%87%8D%E8%BF%94%E5%B9%BF%E5%9C%BA/" target="cdt-mirror">自由亚洲 | 变态辣椒：坦克重返广场</a>
 </h2>
 <p><p>为了准备这次所谓的反法西斯战争胜利70周年的大阅兵，中共最近的各种维稳手段一再升级，扰民的程度一再突破想象。坦克的履带再次重返天安门广场，让人不能不联想到那年的“六四”。用子弹和履带夺去学生们生命的，和今天接受习近平检阅的，是同一支军队。“人民军队跟党走”，中共在炫耀暴力的时候完全不理会这句话在逻辑上的荒谬之处。看着中共媒体大肆宣扬阅兵部队如机器人般的训练细节，想到中共统治下的这支军队，强调的是“螺丝钉”精神，强调的是“党指挥枪”，消灭了人性，把士兵们都变成没有感情的杀戮机器，让“人民子弟兵”随时准备消灭“敌人”，因此感悟，画下了这辆习近平指挥的由人体组成履带的坦克。</p>
@@ -614,33 +635,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E6%88%91%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%AC%A1%E9%98%85%E5%85%B5%E6%98%AF%E7%BA%AA%E5%BF%B5%E6%8A%97/" target="cdt-mirror">博谈网｜〖微博谈〗我一直以为这次阅兵是纪念抗战胜利呢</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1.jpg" alt="1" width="606" height="321"></a></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2.jpg" alt="A man takes a photo ahead of upcoming opening sessions of the Chinese People's Political Consultative Conference (CPPCC) and the National People's Congress (NPC) at the Great Hall of the People in Beijing on March 2, 2015. Thousands of delegates from across China and the Chinese leadership will gather for its annual legislature meetings from March 3 in Beijing. AFP PHOTO / WANG ZHAO" width="606" height="481"></a><p>A man takes a photo ahead of upcoming opening sessions of the Chinese People’s Political Consultative Conference (CPPCC) and the National People’s Congress (NPC) at the Great Hall of the People in Beijing on March 2, 2015. Thousands of delegates from across China and the Chinese leadership will gather for its annual legislature meetings from March 3 in Beijing. AFP PHOTO / WANG ZHAO</p></div>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3.jpg" alt="3" width="606" height="482"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/4.jpg" alt="4" width="606" height="507"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/5.jpg" alt="5" width="606" height="578"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6.jpg" alt="6" width="606" height="534"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7.jpg" alt="7" width="606" height="560"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/8.jpg" alt="8" width="606" height="445"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/09/9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/9.jpg" alt="9" width="606" height="471"></a></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/10.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/10.jpg" alt="People hold placards and shout slogans as they protest against Japan's Prime Minister Shinzo Abe's security bill outside parliament in Tokyo August 30, 2015. REUTERS/Thomas Peter" width="606" height="567"></a><p>People hold placards and shout slogans as they protest against Japan’s Prime Minister Shinzo Abe’s security bill outside parliament in Tokyo August 30, 2015. REUTERS/Thomas Peter</p></div>
-<p>（所有图片均来自网络）</p>
-<p>1. @mranti：煽动颠覆罪其实就是鼓吹革命的罪，有意思的是，该罪原名是反革命罪。</p>
-<p>2. @szstupidcool：正常国家的新闻特点是：因为没发生，所以不报道。你国的新闻特点是：因为不报道，所以没发生。</p>
-<p>3. @辛子IN日本：“抗战70周年，中国搞阅兵，日本闹反战”——FB上看来的神评论。</p>
-<p>4. @shifeike：“阅兵首先检阅的就是三军将士对党中央和习主席的无比忠诚与坚决拥护”——要不是北京军区王健中将昨天在人民日报说这句话，我一直以为这次阅兵是纪念抗战胜利呢。</p>
-<p>5. 南桥：中国的阅兵，将是世界上独一无二的没有现场观众的阅兵。除了习近平等领导在百米以外的天安门城楼上遥望，还有李芬斯塔尔的弟子们天上地下的摄像机以外，那雄壮的、庞大的、整齐划一的、压倒一切的、不可阻挡的、机器人一般的军队方阵，是没有几个人现场观看的。中国的阅兵，学的是法西斯，却是连法西斯都不如的阅兵。</p>
-<p>6. @丐帮大掌门：【今日网摘】在猴子面前放一根香蕉和一根金条，猴子会拿香蕉，猴子不知道一根金条可以换很多根香蕉。今天同样道理，在愚民面前放一根金条和一个民主的国家体制，愚民会拿金条，因为愚民不知道民主的价值！</p>
-<p>7. @shifeike ：去年对我震动最大的，是浦志强案和沈颢及21报系案。今年才过半，就已经有让人同样震动的周世峰及锋锐案和财经及中信案了。身为媒体人，在这个危机四伏的时代，真有坐过山车般惊心动魄目眩头晕的感觉。</p>
-<p>8. @hu_jia ：这个9月，你能把坦克车再次开上长安街，但我却无法在长安街跑一场马拉松。专制玷污着体育。（北京马拉松赛组委会由于政审原因拒绝胡佳北京马拉松赛的资格）</p>
-<p>9. @HeQinglian：经央视认罪之后，我更加相信王晓璐报道的消息确有其事，只是正好戳到了“党与政府”拉抬股市的痛脚：自有中国股市以来，从来只见散户被套牢，国家队总是造势赚钱，这次响应政府召唤爱了一回国，却成了被套牢一族。</p>
-<p>10. @徐昕：日本12万人包围首相官邸，要求安倍下台，中国官媒和网民有些高潮了。亮点不是包围，而是12万人包围要求安倍下台，安倍却没有下台。这就是民主：既有抗议，也有充分的言论和示威自由，更有选举。没有这些，你们只能装高潮，啊啊，呵呵。日本，示威随处可见，这只是一种生活方式。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=27E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CMK7SV6NOMUT435JUXCOV3L3RTWYZXWN4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E6%88%91%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%AC%A1%E9%98%85%E5%85%B5%E6%98%AF%E7%BA%AA%E5%BF%B5%E6%8A%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E8%B0%88/?category=18271" rel="tag">微博谈</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -652,7 +646,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2fdtucska1pl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3uie65jlfp6fb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -662,5 +656,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A
                 <td></td>
                 
         
-        <td><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://djy7rqcuzqc5b.cloudfront.net">https://djy7rqcuzqc5b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d359i3iwbv7kgy.cloudfront.net">https://d359i3iwbv7kgy.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d1tokwpzgi7qi6.cloudfront.net">https://d1tokwpzgi7qi6.cloudfront.net</a><br/><a href="https://djy7rqcuzqc5b.cloudfront.net">https://djy7rqcuzqc5b.cloudfront.net</a><br/></td>    </tr>
 </table>

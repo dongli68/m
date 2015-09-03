@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3rfr45zgr117k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d18aznhrcru07m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%98%85%E5%85%B5%E5%BC%8F%E5%BA%86%E5%85%B8%E5%AE%A3%E5%B8%83%E8%A3%81%E5%86%9B30%E4%B8%87/" target="cdt-mirror">纽约时报 | 习近平阅兵式庆典宣布裁军30万</a>
@@ -250,7 +250,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%94%BF%E7%BB%8F%E5%86%85%E5%8F%82%EF%BD%9C9%E6%9C%883%E6%97%A5%E9%98%85%E5%85%B5%EF%BC%8C%E8%80%81%E9%A2%86%E5%AF%BC%E4%BC%9A%E7%99%BB%E4%B8%8A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%90%97%EF%BC%9F/" target="cdt-mirror">政经内参｜9月3日阅兵，老领导会登上天安门吗？</a>
 </h2>
@@ -678,7 +678,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d17l46umzobcod.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d18aznhrcru07m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -688,5 +688,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dnl2exo99l6zb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wovhb18idfs2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,118 @@
                 <td></td>
                 
         
-        <td><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%89%E9%B8%A3%EF%BD%9C%E7%8E%A9%E7%81%AB%E8%87%AA%E7%84%9A%EF%BC%8C%E9%80%9E%E5%BC%BA%E8%87%AA%E8%B4%A5-%E5%85%B3%E4%BA%8E%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%8E%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">争鸣｜玩火自焚，逞强自败–关于大爆炸与大阅兵</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/56a.jpg" alt="56a" width="551" height="379"><br>
+八月十二日天津港瑞海公司危险化学品仓库发生惊天大爆炸，火光冲天，声闻数里，数百人死于非命，亿兆财产灰飞烟灭。</p>
+<p>许多年轻的消防员一去不复返，中共官方称他们为「英雄」，试图以煽情换真相，拿高帽子堵人嘴。但自古英雄之死，都是道之所在，慷慨赴死，或杀身成仁，或舍生取义，哪有这样稀里糊涂去送死的？牺牲于天津港的消防员们和那些被飞来横祸夺去生命的普通群众一样，他们不仅死得惨，也死得冤、死得不明不白、死得心不甘情不愿！</p>
+<p>和汶川大地震、东方之星沉船事故不同，这是一场彻头彻尾、不折不扣的人祸。死难者们死于管理失效，死于怠政惰治，死于失职渎职，死于官商勾结，死于政治腐败，死于一党专制，因此，这是一场彻头彻尾、不折不扣的大悲剧，只有牺牲、没有英雄，只有悲伤、没有温情，只有愤懑、没有感动。这场灾祸，套用习近平的话说，就是「满满的负能量」。</p>
+<p>天津大爆炸让人联想起一九八六年四月发生于前苏联乌克兰境内的切尔诺贝尔核电站大爆炸。正是那场放射性相当于广岛原爆四百倍、核污染波及大半个欧洲的大爆炸掀翻了苏联「制度优越性」的盖子，多国救灾的实际需要又倒逼出对苏联以及整个世界影响深远的「公开性」政治改革。戈尔巴乔夫认为，国际社会理应了解核爆炸的真实信息，而苏联政府也无权欺骗本国人民，他说：「应该对人民说真话，不要害怕自己的人民，公开性是社会主义的本质属性。」后来有人总结说，正是切尔诺贝尔大爆炸开启了苏共亡党、苏联亡国的倒计时，可见多难未必兴邦。</p>
+<p>对于屡屡制造人为灾难并把灾难真相隐藏于制度黑箱之中的共产专制国家，「公开性」、「透明度」的确是一剂苦药，足以颠覆建立在制度性谎言基础上的一党统治合法性。灾难是一面放大镜、照妖镜，会把人们平时不甚关注的制度丑恶加倍显现，一旦打开了人祸的黑箱，人们将会一目了然地发现，制造人祸的专制政体远比灾难本身更加丑陋，也更加恐怖。</p>
+<p>然而，天津大爆炸不会产生切尔诺贝尔大爆炸那样的政治冲击波，因为习近平自封「男儿」，不愿做顺应潮流、从善如流的中国戈尔巴乔夫。而虽说中共满朝是「男儿」，在大爆炸惊魂未定的最初四天里，包括习近平在内的中共高层却全都神隐不现，只派出区区女流刘延东孤身犯险。涉事的中共中层「男儿」们更加不堪，为逃避问责乱作一团：天津市和天津港互相推诿，安监局和交通部撕破脸皮。中共的「男儿」气慨不过如此，比之前苏联，他们唯一的优越之处在于，即使人命关天，也不必考虑对人民说真话，只需护住头上的乌纱帽，守住本团伙、本派系以及本党权贵的最高利益。</p>
+<p>江、胡时代从九八抗洪到零八抗震，已经形成了一套化悲痛为感恩、变灾害为政绩的中共救灾模式。救灾成了「感动中国」的政治秀、「只有社会主义才能抢险救灾」的制度秀。在互联网高度发达的今天，这套「坏事变好事」的救灾模式已经没有票房价值。但是，习近平似乎技高一筹，他看到了灾害背后更大的政治商机：权斗正酣，民愤可用。</p>
+<p>在大爆炸之后的一个星期里，习近平的表态越来越严厉，以习的性格看，「彻查」、「严办」必不是空话。等待着天津官场的，或是一场危险程度不亚于危化品爆炸的政坛大爆炸。杨栋梁已经落网，戴相龙只待揭盅，张高丽悬在空中，站队站错了的官员固然危险，即便是靠习近平宠信才当上天津代理书记的「之江新军」成员黄兴国也难免受到误伤而仕途中落。人祸是政治斗争的加速器，正当选择性打虎步入困境，天津大爆炸的发生及时给习近平送来了清洗政敌的新炮弹。</p>
+<p>习近平政治挂帅，运动开路，「三个自信」、「四个全面」，对内好斗，对外逞强，「治国理政」风格越来越酷肖毛泽东。「一带一路」是对外大跃进，「京津冀一体化」是对内公社化。如其所愿，如今的中国真是大事不断，只不过大则大矣，只有大斗争，没有大改革，只见大祸，未见大功。这两个月，大股灾接着大爆炸，大爆炸连着大阅兵，但习当局暴力救市未果，却套牢了「国家队」，大爆炸又炸翻了天津卫。大悲之后欲大喜，习近平秀个人权力、挣党国面子的机会，也就只能指望大阅兵了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k99yyyyyyyyy.jpg" alt="k99yyyyyyyyy" width="549" height="338"></p>
+<p>「十一」阅兵，有章可循，「九三」阅兵，史无前例，完全是习近平一时兴起。这又是毛泽东式执政风格之一例。当然，抗战胜利弥足珍贵，值得高调纪念，但是，抗战是前朝往事，是国民政府、蒋委员长领导之功，抗战牺牲了近三百位战将，只有一人是共军（左权）。即使后人不再追究当年毛共先闹摩擦、后摘桃子的假抗日、真叛乱旧事，共产党所谓「中流砥柱」充其量也只是战场上的配角。所以，若习近平果真是为了纪念抗战胜利七十周年，最恰当的纪念方式诚然不是中俄并肩阅兵，而是两岸合开纪念会，马英九为主，习近平为副，二人共同褒扬当年国府、追祭抗日将士、感谢盟国支持，那才称得上是大仪典、大器量、大格局。</p>
+<p>其实，习近平阅兵，抗战胜利只是个幌子。他的用意是一箭三雕：一是三军统帅的加冕礼：中共历任军委主席都曾大阅兵，唯独华国锋没办成，结果早早地垮台了（一九七八年五月华国锋曾想突然袭击「顺路」在海军阅兵，被邓小平愤怒阻止，连带邓的二野老部下、时任海军第一政委苏振华也被邓当作「叛徒」一脚踢开，惊吓之下抑郁而终），有此先例，习近平自然是非阅兵不可，二O 一九太久，他已经迫不及待了。二是中俄准军事同盟的确认仪式：今年五月习近平赴莫斯科给红场落寞阅兵的孤家寡人普京雪中送炭，同时中俄海军在黑海举行面向北约的联合军演，九月普京赴北京给习近平高调捧场，同时中俄海军在日本海举行针对美日的联合军演，你来我往，投桃报李，你替我撑腰，我给你壮胆，这种关系「不是同盟、胜似同盟」。三是向国际社会发出「大国崛起」的强硬信号：习近平上台以来，中日关系持续僵化，中美关系加速后退，东海、南海纷争不断，借「九三」大阅兵机会，他要把不宜用外交语言生硬表达的意思，用军体语言和行为艺术淋漓尽致地表达出来。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8uPRcUwAA9srF1.jpg" alt="CN8uPRcUwAA9srF" width="549" height="378"></p>
+<p>《老子》说，「兵者，不祥之器，非君子之器，不得已而用之。」中国古代拜将出征，「君避正殿」，仪式选在偏殿举行，乃表示用兵迫不得已，绝无耀武扬威之意。以炫耀武力为特征的近代阅兵式起源于普鲁士，由希特勒、斯大林发扬光大，北朝鲜金家王朝更将此一仪式发挥到了极致 — 这个穷凶极恶、民不聊生的小国几乎年年举办大阅兵，而和平年代的宪政民主国家从来也没有劳民伤财大办阅兵式的传统。</p>
+<p>天津大爆炸已经向官商勾结的贪官和奸商们昭示，玩火者必自焚；「九三」大阅兵也必然对中共、中国、中华民族徒劳无功，因为逞强者必自败。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%89%E9%B8%A3%EF%BD%9C%E7%8E%A9%E7%81%AB%E8%87%AA%E7%84%9A%EF%BC%8C%E9%80%9E%E5%BC%BA%E8%87%AA%E8%B4%A5-%E5%85%B3%E4%BA%8E%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%8E%E5%A4%A7%E9%98%85%E5%85%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 16分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BB%E4%BA%BA%E7%9A%84%E9%9E%AD%E5%AD%90%E5%A5%BD%E6%BC%82%E4%BA%AE%E5%95%8A/" target="cdt-mirror">【网络民议】主人的鞭子好漂亮啊</a>
+</h2>
+<p><p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>choicky：国军打败了法西斯，然后被共军打败。现在共军开Party庆祝打败法西斯……</p>
+<p>alicedreamss：【小明滚出去 新篇】老师：小明，请用‘竟然’这词造句。小明：一个1949年成立的国家，竟然在1945年成为了战胜国。这国在国庆66周年之時，竟然阅兵庆祝勝利70周年。老师：滚出去！</p>
+<p>Zannmuling：阅兵从歌曲，到央视直播穿插的影视片段，没一个是正面战场的，很符合历史。</p>
+<p>laoyang945： “习主席，你那么早看到普京就露出笑容，会不会给人一种亲腚的感觉？”</p>
+<p>remonwangxt：#漫画吐槽直播大阅兵 包子贤伉俪<a href="http://chinadigitaltimes.net/chinese/files/2015/09/CN8R6-rVEAAlMIH.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8R6-rVEAAlMIH.jpg" alt="CN8R6-rVEAAlMIH" width="550" height="421"></a></p>
+<p>remonwangxt：#漫画吐槽直播大阅兵 Tankman will be back ”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CN8qsMmUwAAX2YD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8qsMmUwAAX2YD.jpg" alt="CN8qsMmUwAAX2YD" width="550" height="305"></a></p>
+<p>iamsolame：【动物庄园】只有在一致对外敌时，动物们才能团结起来。不打仗的时候动物们就修建风车（大工程），让它们一直有活儿干，避免胡思乱想。</p>
+<p>Eitelkit：今天阅兵不仅检阅了三军，最重要的还是向世界展示了我国的续命成就。</p>
+<p>eleven_K：你会不会忽然的出现，在天安门楼上面。你会带着笑脸，挥手寒暄，把我再批判一番；我多么想和你见一面，看看你最近改变。你仍戴着眼镜，裤带高悬，听你讲一点，哪怕只一点，人生经验～</p>
+<p>charliechou：各位蛤丝辛苦了。作为对大家为长者续命这微小的工作，长者已经研究决定了，不仅要出席反法西斯80周年庆，还要出席反法西斯100周年庆。长者表示，大家阅兵期间给他续的命，一颗赛艇。长者最后告诫各位蛤丝，人的命运当然要靠自己奋斗，也要考虑历史的进程。最后祝你身体健康，再见。</p>
+<p>charliechou：长者依旧那么young，蛤丝们辛苦了 你们在长者背后默默续命长者都收到了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CN8ja-VU8AAUKNw.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8ja-VU8AAUKNw.png" alt="CN8ja-VU8AAUKNw" width="550" height="396"></a></p>
+<p>jason5ng32：封路、封楼、停止娱乐节目、关闭公园、医院停诊半天、禁止出行、关闭工厂、限制车辆、关停大批翻墙服务、强制媒体歌颂阅兵……请告诉我什么是法西斯。</p>
+<p>zuola：如果没有军队国家化，习近平阅兵和希特勒阅兵没有差别，人家阅兵是阅党卫军呢，不是中共党员你得瑟个屁啊。</p>
+<p>zhaoEvil：阅兵小结：1彭丽媛同款包包。2普京来了，国民CP党欢乐。3暴力膜蛤，向世界展示续命成就。4交通法规普及。接下来分列式轮到处女座们爽死了。</p>
+<p>StarKnight：邓小平在1985年宣布裁减兵员100万。江泽民在1997年裁军50万。2003年裁军20万。现在还剩230万。</p>
+<p>hnjhj：习近平智力真是堪忧，阅兵时宣布裁军，你就不怕军队当场哗变？我都替他捏一把汗。</p>
+<p>calon：裁军三十万，要是在古罗马，估计军团当场就造反了。</p>
+<p>SnHine：把跟郭伯雄徐才厚有关系的一层一层撸下来，上上下下正好三十万。</p>
+<p>szshu：举报长安街上小车，乘客探出天窗，而且还遮挡车牌还逆行压双黄线，到底有没有人管了。</p>
+<p>ranxiangmm：交警同志，向你反映一个情况，2015年9月3日上午10时许，一辆牌号为京V2015的红旗牌小轿车，从天安门中华门开出，压双实线，违规掉头，沿长安街逆向行驶，车内人员还将半身探出车外，并在公共场合大声喧哗。希望严肃处理。</p>
+<p>nofoghu：不敢管，他有飞机坦克。</p>
+<p>MyDF：传播正能量，ID很重要。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CN8BCHZUwAAGlS-.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8BCHZUwAAGlS-.png" alt="CN8BCHZUwAAGlS-" width="500" height="481"></a></p>
+<p>WoodenHarp：芦笛芦老当年评价09年阅兵：整个给人一种小人骤然僭位的拘谨心虚感，……所有的人都彷佛在上演一出他们相当生疏的剧本，生怕哪儿出了错。斯大林同志教导我们：尽管戏子有时很像英雄，但毕竟不是英雄……——自我定位为二代正主的习阅兵是一定要确保不给人这种印象的，但左手敬礼，还是有点破功。</p>
+<p>rocsveta：一觉醒来朋友圈里一片猩红，看得无比心塞。除了原先红色高棉的国歌无比变态的歌颂血，真找不出第二个国家对象征暴力和血腥的红色如此热衷。</p>
+<p>eleven_K：胡锡进发微博：来过很多次天安门，今天最特别。最右转发：看来真正特别的那年你没在。这个黑的太到位了。</p>
+<p>zuola：看到朋友圈很多昔日故友和同学换国旗头像，复制些豪言状语“壮我国威示我中华民族魂”云云，实在不忍直视，也不好说人家傻逼，只好统统加入“待智”标签。穷人待富，蠢人待智。以后涉及党、政府、国家概念区分的朋友圈分享统统只允许待智标签的朋友看到。</p>
+<p>brianzhang2417：穿的是中山装，庆的是国民革命军的伟大胜利，阅的是自己的兵，喊的是听D指挥，唱的是游击之歌，……我百结的不是愁肠，而是笑得打结了。怎么会如此气势恢宏，要有多不要脸？</p>
+<p>布小什大师：横店方队还没上线。</p>
+<p>T_TKane：皇太孙这是怎么了？</p>
+<p>pufei：颓唐的坐在台阶上，少将眼角留下了泪水：吃你妈的蛋炒饭，祸害几代人！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CN8jKBZVAAAB90l.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8jKBZVAAAB90l.jpg" alt="CN8jKBZVAAAB90l" width="450" height="600"></a></p>
+<p>jiajia：屁民坐在猪圈里议论：啊，主人的鞭子好漂亮啊。</p>
+<p>maylogcom: #转：雄伟的天安门广场上，走在最后一个阅兵方阵压轴亮相的是我国的绝密级战争王牌、人形自走因果律武器…张召忠少将…</p>
+<p>huozm：小区一位老奶奶死了，今天出殡，派出所希望家属出殡时不能演奏哀乐，并建议他们下午出殡…… #法西斯70周年</p>
+<p>szstupidcool：压缩一下，最简单一句话就是：“屁民们，滚远点！”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CN6FHGuUcAA4JWD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN6FHGuUcAA4JWD.jpg" alt="CN6FHGuUcAA4JWD" width="450" height="600"></a></p>
+<p>hengdm：99年国庆阅兵时我高三，在天安门广场十万人翻花背景中。国旗在身旁升起战车从眼前开过战机掠过头顶，那天我18岁，觉得很自豪。09年国庆阅兵没兴趣更没印象，只记得那天在一起5年的女友含泪坐上出租车没有再见。这次阅兵名义莫名其妙姿势更是风声鹤唳得可笑。这样的党国这样的社会只等洪水滔天。</p>
+<p>gongyaobin：【阅兵是独裁者操控力的展示】腐女看到了绵延不绝的小鲜肉，屌丝看到了雪白的大腿和高耸颤动的胸部，不明真相的群众脑补了国威军威和战斗力。为什么越独裁越痴迷分毫不差到变态级别的阅兵呢？其实，阅兵展示的是独裁者对人民的操控能力。看独裁者阅兵，逻辑上与看马戏团驯兽没有差别。</p>
+<p>rbttt：阅兵，安倍没来，佳能来了，索尼来了，尼康来了。没他们你直播个毛拍个毛(σ￣▽￣)σ</p>
+<p>WoodenHarp：二战“五大国”之一“中流砥柱”最拿得出手、排第一位的“二战”事迹是“狼牙山五壮士”。不知道普京什么心情。</p>
+<p>foguliang：这个时候只想打开推特看，微信朋友圈里全部都是赞美党国，还有好多人说自己好激动，激动的快哭了……还是推特上的朋友们保持着自己的思想和独立。</p>
+<p>XiangYibei：推特微博简直两个世界，一个是“感动致敬❤️❤️❤️❤️”，一个是“看到我蛤了续续续”………</p>
+<p>SCTongYe：纪念反法西斯抗战胜利的仪式，除了70响“礼炮”，居然，居然，居然，居然，居然，居然，居然没有向人民英雄纪念碑献花圈仪式，而只是得瑟了一下肌肉，数典忘祖……视无数先辈血肉于不顾……真是无语了。前阵子俄罗斯阅兵最打动我的是普京带领各国政要为烈士纪念碑献花圈，中国人没做。还他妈不忘历…</p>
+<p>eachgo：习近平一脸好想回家吹空调的表情…</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CN9Bm5CWsAAk4SK.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN9Bm5CWsAAk4SK.jpg" alt="CN9Bm5CWsAAk4SK" width="412" height="412"></a></p>
+<p>ranxiangmm：今天阅兵总结下来就是，最开始空军出场，然后人民群众艰苦做反弹，接着国外做空势力出场，紧接着国家队救市，最后空军大规模出动，国家队放鸽子（转）</p>
+<p>xyz98：对于许多人来说，看阅兵就跟看春晚似的，看是为了吐。这算不算是一种自虐行为？</p>
+<p>charliechou：连战主席，请问我们给你展示以后用来打你的武器，好不好啊？</p>
+<p>CorryHsieh：连战回台湾后见马英九：共军托我给您带个话……</p>
+<p>FifthDimen：历史会记住这一天：一支二战中的准汉奸队伍、以保卫法西斯政党为使命的党卫军，在他们当年大规模屠杀本国民众的犯罪现场炫耀武力。从世界各个角落赶来的人权恶棍、国际法庭通缉犯、过气政客以及少量暂时受蒙骗的要人前来捧场。人们期待党国最著名的国际通缉犯到场助威。</p>
+<p>MyDF：大月饼是属于中国人民的，但归根结底也是属于处女座的，一样的步伐，一样的身高，一样的罩杯。</p>
+<p>chinaminbao：这次阅兵我军还是有所保留的，最能打的城管方队和最耐打的股民方队都没有出现，消灭敌人最多的横店方队和救治伤员最多的老中医方队也不见踪影……</p>
+<p>sunrrrr：裁军三十万，共产党不与别国交战，他们需要武装警察，来对付国内的反对力量，或任何不听话的人，他们的武力都是用来对付国民的，三十万变成武警，警察，城管，五毛，猖狂打击国民，维护独裁帝国对国民的绝对统治。</p>
+<p>damyata：朋友说，他家老保姆的女儿以前谈了个男朋友是军人，后来忍无可忍分了，女孩说：有人欺负我他就打别人，没人欺负我他就打我。 #这么说来还是比隔壁老赵家那个强点呢</p>
+<p>EnochLu：今天犯罪分子集体重返作案现场。关键词与历史 #螳臂 #稍有常识的人 #缓缓驶向 #歹徒</p>
+<p>WeipingQin：从今日起，习近平算是正式加冕登基了，二号李克强虽然距离不远， 一个是首长，一个是司仪，天地之别，中共集体领导制算是彻底费了。</p>
+<p>EnochLu：习近平阅兵时情绪低落的原因或许在此：长者向主席致敬，两只手扶栏杆时都是仨指头，这是提醒我们时刻不要忘记三个代表呀，用心良苦 #长者有智慧 抖威风时发现网路上全民膜蛤，不忧伤都不行啊。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CN86ojXUkAAus2j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN86ojXUkAAus2j.jpg" alt="CN86ojXUkAAus2j" width="440" height="630"></a></p>
+<p> </p>
+<p>shangguanluan：打开电视正好碰见外国军队方阵 ，笑死我了，出来一个名字拗口的国家劳资就笑一次。好多小国家成立还不到70年也就罢了，还有好多方阵甚至还是小国家里的地方武装 。</p>
+<p>tatamama：一群猪在猪圈里兴奋的议论：“听说主人又搞到一把很牛的杀猪刀…”“威武！”“牛逼！”“看谁还敢欺负我们…” #阅兵</p>
+<p>夏商：民族自尊心离民粹主义一步之遥，民粹主义离纳粹主义一步之遥。人都有自尊心，但正常人的自尊心不会依托于民族，不会依托于国家，更不会依托于党派，而是建立在自由之上。当你的劳动果实被权贵阶级掠夺，一生被医疗、教育、房价、养老等重负所绑架，何来自尊心可言，那些虚妄的狂欢又与你何干？</p>
+<p>49laihong：现在向我们走来的是中国人民解放军坦克方队。他们精神抖擞，气宇轩昂。虽然没能赶上抗击日本帝国主义，但是几乎每一个岁数稍大点的北京市民都见识过他们的厉害。</p>
+<p>lijiansion：犯罪心理学上经常会提及一种现象，就是罪犯常常会回到犯罪现场。</p>
+<p>zhangyongpan：一群被禁吃禁喝禁住的肉猪，举着红旗，对着在屠宰场磨刀霍霍的屠夫高喊：好威武啊！好壮观啊！好伟大啊！那场面，竟毫无违和感。</p>
+<p>lijiansion：看到一句话：脚步轻点，不要惊扰了广场上长眠的年轻人。泪奔……</p>
+<p>huajack：平时觉得社会不公，政府腐败的，看阅兵让他们什么都忘了，一下子全体都姓赵了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BB%E4%BA%BA%E7%9A%84%E9%9E%AD%E5%AD%90%E5%A5%BD%E6%BC%82%E4%BA%AE%E5%95%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/1984/?category=18271" rel="tag">1984</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E5%9B%BD%E5%AE%B6%E5%8C%96/?category=18271" rel="tag">军队国家化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90/?category=18271" rel="tag">包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%98%85%E5%85%B5/?category=18271" rel="tag">大阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA/?category=18271" rel="tag">天安门广场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%B8%8E%E5%8E%86%E5%8F%B2%E5%9B%9E%E9%A1%BE-%EF%BC%88%E7%9B%B4%E6%92%AD%E9%98%85%E5%85%B5%E8%A7%86%E9%A2%91%EF%BC%89/" target="cdt-mirror">BBC｜北京抗战阅兵与历史回顾 （直播阅兵视频）</a>
 </h2>
 <p><p></p>
@@ -536,47 +645,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E8%BF%9E%E6%88%98%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5-%E5%B9%B6%E6%B2%A1%E6%9C%89%E4%B8%AA%E4%BA%BA%E8%BA%AB%E5%88%86%E5%8F%AF%E7%94%A8/" target="cdt-mirror">联合新闻网 | 连战出席阅兵 并没有个人身分可用</a>
-</h2>
-<p><p> </p>
-<p>在郝柏村、许历农等退休将领表明不出席中共的九三阅兵之后，连战仍决定于周日前往北京，总统府劝阻无效。连战幕僚说明，连战是以「个人身分」受邀前往；对于争取我抗战历史诠释权的问题，他也将在「连习会」中对两岸「共用史料、共写史书」作出积极回应。在此敏感时机，连战必须绝对谨慎，否则除损及台湾尊严，更使自己涉入噬脐莫及的险境。</p>
-<p>这次中共九三阅兵之所以敏感，主要原因是：当年领导八年抗日的是中华民国政府，中华人民共和国尚未诞生，而今中共却反客为主，以主角之姿攫取了纪念抗战胜利的舞台，并将解放军形容为抗日「中流砥柱」，某些影艺宣传甚至将毛泽东捧成其实明明是蒋介石参加的「开罗会议」要角。正因无法接受对岸对史实的扭曲，多位具有抗日经验的退役将领均拒绝出席九三阅兵典礼；郝柏村甚至说出，如果退将出席阅兵典礼，「终身俸就不要领」的重话。原因无他，这涉及的不只是个人信念，更是国家的尊严。</p>
-<p>如果退休将领皆认为「不该去」，那么，连战又有什么非去不可的理由？就此，有三个可以讨论的重点。</p>
-<p>首先，连战能不能以「个人身分」应邀出席阅兵？答案是否定的，在这等国家大事上，他没有所谓的个人身分。理由很清楚：李登辉先前对日本「祖国」效忠的歌颂，受到外界的围剿，就因为他是卸任国家元首，具有极高的政治象征意义，不能像平民百姓一样任意发表事关国家主权或尊严的言论。连战是仍在领取礼遇的卸任副总统，当然也不能动辄躲在「个人身分」的名义下进行两岸政治活动，却不顾自己的地位象征。</p>
-<p>再说，此次阅兵前将举行的「连习会」，是承续前两次连战以国民党「前主席」身分往访的高阶会晤，这当然绝对不止是他「个人身分」上的意义可以涵盖。更进一步说，在北京众多国宾的阅兵舞台上，连战必然被视为最高「台湾代表」，只要一露脸，他恐怕不像其他企业家一样有什么「个人身分」可以稀释其政治意味。</p>
-<p>其次，如果连战在此事上不可能有「个人角色」，那么他是否应该立刻放弃此行，或有其他可行之计？答案是，他至少应放弃出席阅兵仪式，而保留「连习会」的对话机会。中共这次以「纪念中国人民抗日战争暨世界反法西斯战争胜利七十周年」为名，举行大规模阅兵，除了僭越「中华民国领导抗日」的历史外，从国际社会的眼光看，阅兵也不是纪念反侵略战争胜利的合宜方式。理由很明显：用展示军容来纪念胜利，失去了对牺牲者悼念的肃穆，也缺乏对战争残酷的深刻反省，却有炫耀武力、展示国威的黩武姿态，反而让周边国家感受到战争的不安。试想，中共展示武力，台湾人民当然会感受到其威胁；在这种情况下，连战要用什么心情参加阅兵？</p>
-<p>第三，如果连战坚持出席阅兵和连习会，他有没有可能正当化自己的作为？答案是有，这就要看他在北京如何提出具有台湾观点的论述，为中华民国抗日的历史正名；不过，若仅是被动回应习近平所提谈两岸学界「共用史料、共写史书」，当然是远远不够的。连战必须清楚表明，抗日战争是国民政府领导的，这是不容抹杀的历史事实；同时，要求北京当局采取宽容、公正及人道的态度，善待滞留大陆的国民党抗日老兵，承认他们的贡献，并洗去他们身上背负了数十年的「反革命」戳记。如此，一方面还原历史真相，二方面帮抗日老兵讨一个公道，连战的北京行才站得住立场。这点，得靠双方事先的沟通取得更多默契。</p>
-<p>政治人物的行止，总在关键时刻受到严格的检验；连战要以什么姿态出现在北京，此刻即备受考验。不可讳言，两岸历经最近的关系变化与抗日诠释权的龃龉，连战若能在其间扮演一个维持对话空间的角色，未尝不是好事。问题在，面对这个并不轻松的议题，连战有没有意识到目前两岸关系的微妙变化，能不能感受到台湾社会的反中情绪如何发酵，以及他自己的因应能不能掌握得恰到好处。无论如何，连战的北京行跟前两次的「连习会」大不相同，此次荆棘处处，要能安然往返，他得把「国家利益」放在前头，忘掉自己的「个人身分」或「个人利益」。李登辉的殷鉴不远，慎勿重蹈。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E8%BF%9E%E6%88%98%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5-%E5%B9%B6%E6%B2%A1%E6%9C%89%E4%B8%AA%E4%BA%BA%E8%BA%AB%E5%88%86%E5%8F%AF%E7%94%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E4%B9%A0%E4%BC%9A/?category=18271" rel="tag">连习会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%BD%91%E7%BB%9C%E5%AE%A3%E4%BC%A0%E6%80%9D%E6%83%B3%E6%95%99%E8%82%B2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81/" target="cdt-mirror">【异闻观止】全国高校网络宣传思想教育优秀作品评选活动启动</a>
-</h2>
-<p><p><strong><a href="http://www.cac.gov.cn/2015-08/31/c_1116426498.htm#715159-tsina-1-7862-b4627af4aa6de3e8cf9f7d8876a92f2c">中国网信网｜首届全国高校网络宣传思想教育优秀作品评选活动启动</a></strong></p>
-<blockquote><p>8月下旬，为进一步推进高校网络文化建设，创新网络思想政治教育，引导广大教师积极参与网络文化产品创作生产，推动社会主义核心价值观网络传播与弘扬，由教育部、国家网信办共同举办的首届全国高校网络宣传思想教育优秀作品评选活动正式启动。</p>
-<p>本次优秀作品评选主要面向高校宣传思想工作干部和从事相关领域研究和实践的专业教师，评选内容包括优秀网络文章、优秀“微作品”、优秀工作案例三类。活动由全国高校校园网站联盟、中国大学生在线承办。</p></blockquote>
-<p><strong><a href="http://www.moe.edu.cn/s78/A12/A12_gggs/s8473/201508/t20150824_202474.html">教育部思想政治工作司 国家互联网信息办公室网络社会工作局关于举办首届全国高校网络宣传思想教育优秀作品评选的通知</a></strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Picture1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Picture1-e1441102336833.png" alt="Picture1" width="500" height="615"></a></p>
-<blockquote><p>（1）优秀网络文章是指在网络上撰写发表的解读党和国家的方针政策、研究当前经济社会发展的阶段性特征、阐释师生关心关注的思想理论热点难点问题、厘清错误思潮和观点、普及网络法律法规、倡导网络文明等方面的文章，包括学术论文、时政博文、精要评论等。</p>
-<p>（2）优秀“微”作品是指在开展网络育人过程中设计、拍摄、制作并传播到网上的视频短片，包括微课堂、微视频、微电影、微公益广告等作品。</p>
-<p>（3）优秀工作案例是指各地各高校在创新网络思想政治教育、提升师生网络素养、开展网络文化建设、推进网络文明教育、营造清朗网络空间等过程中研究探索形成的好经验好做法，包括网络教育管理服务系统、手机APP、网站栏目、网络公众平台、在线课堂、网络社团等。</p></blockquote>
-<p><em>【编者附】</em></p>
-<p><strong>优秀网络文章举例</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%9D%92%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85-%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%BF%97/">青年网络文明志愿者——新时代的志愿军</a>、<a href="http://card.weibo.com/article/h5/s#cid=1001593852964803523559">周小平：为中华文明平反</a></p>
-<p><strong>优秀“微”作品举例</strong>： <a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%8A%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E3%80%8B%E4%B8%AD%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC%E7%9A%84%E9%83%A8%E5%88%86/">《你好，我是中国》中指鹿为马的部分 </a>、<a href="http://chinadigitaltimes.net/chinese/2015/05/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6110%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86logo%E5%92%8C%E5%BD%A2%E8%B1%A1%E7%89%87%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD/">复旦大学110周年校庆形象片</a></p>
-<p><strong>优秀工作案例推荐举例</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E5%BC%BA%E5%88%B6%E6%80%A7%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%AB%99-%E6%98%93%E7%8F%AD/">中国特色的强制性社交网站——易班</a>、<a href="http://chinadigitaltimes.net/chinese/2015/04/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BD%9C%E4%B8%BB%E5%B8%AD%E8%AF%AD%E5%BD%95-2-0/">全国首款习近平重要讲话APP</a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%BD%91%E7%BB%9C%E5%AE%A3%E4%BC%A0%E6%80%9D%E6%83%B3%E6%95%99%E8%82%B2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">网宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E7%BD%91%E5%AE%A3%E9%98%9F%E4%BC%8D/?category=18271" rel="tag">高校网宣队伍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -588,7 +656,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1p6rdai1j60v4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wovhb18idfs2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -598,5 +666,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2
                 <td></td>
                 
         
-        <td><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wovhb18idfs2.cloudfront.net">https://d2wovhb18idfs2.cloudfront.net</a><br/><a href="https://d1v55fyopkjhox.cloudfront.net">https://d1v55fyopkjhox.cloudfront.net</a><br/><a href="https://ddqpgzdeqfwtr.cloudfront.net">https://ddqpgzdeqfwtr.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/></td>    </tr>
 </table>

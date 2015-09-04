@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3amu7nns4r91q.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9C%9F%E5%BF%83%E4%B8%8D%E8%83%BD%E7%9B%B4%E8%A7%86%EF%BC%8C%E5%BD%AD%E9%BA%BB%E9%BA%BB%E7%9C%8B%E9%80%8F%E4%BA%86%E4%B8%80%E5%88%87/" target="cdt-mirror">【河蟹档案】真心不能直视，彭麻麻看透了一切</a>
@@ -633,7 +633,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%EF%BD%9C%E5%88%98%E4%BB%B2%E6%95%AC%EF%BC%9A%E6%8A%97%E6%88%98%E6%97%B6%E6%9C%9F%E5%BB%B6%E5%AE%89%E4%B8%8E%E6%97%A5%E6%9C%AC%E7%9A%84%E8%B0%88%E5%88%A4/" target="cdt-mirror">百度贴吧｜刘仲敬：抗战时期延安与日本的谈判</a>
 </h2>
@@ -726,7 +726,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d62xnt48l219f.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -736,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d62xnt48l219f.cloudfront.net">https://d62xnt48l219f.cloudfront.net</a><br/></td>    </tr>
 </table>

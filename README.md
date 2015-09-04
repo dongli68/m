@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3uie65jlfp6fb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/><a href="https://d3uie65jlfp6fb.cloudfront.net">https://d3uie65jlfp6fb.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%94%E4%B8%BB%E5%B8%AD%EF%BC%9A%E6%8A%97%E6%88%9870%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5%E5%BC%8F%E8%A7%82%E6%84%9F/" target="cdt-mirror">兔主席：抗战70周年阅兵式观感</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k99yyyyyyyyy.jpg" alt="k99yyyyyyyyy" width="551" height="339"><br>
+抗战70周年阅兵式简评。总体来说，从国内角度看应该达到了预期效果，虽然经济不好确实蒙上了一些阴影。从国际角度看，很遗憾达不到预期效果。具体点评如下。</p>
+<p>1）什么是成功的抗战纪念活动？我觉得要参考前同盟国以及战败国的参与情况。最终的基调不是强调苦难，而是强调和解和和平。传播正能量。</p>
+<p>2)如果要对标一个比较成功的阅兵活动的化解就是2010年莫斯科的欧战胜利日阅兵。2015年阅兵不能参考，因为乌克兰和克里米亚问题俄罗斯遭到西方严重抵制。但尽管俄国和细分一直以来的这种不咋地的关系，2010年莫斯科抗战65周年活动是很成功的。从同盟国和战败国角度看。</p>
+<p>3)2010年莫斯科阅兵，同盟国方面英法美都派部队参加了检阅。考虑到这几国和俄国的关系，可以看出这个阅兵还是超越了当下地缘政治，历史盟友的认同占了上风。战败国方面，德国总理默克尔参加。这非常重要，苏联的战争主要是和德国进行的。这使得这个活动更具有和解、前瞻的意味。</p>
+<p>4)本次中国的抗战阅兵部分程度是被俄罗斯蒙上阴影，但也折射中国崛起与西方及周边国家的复杂关系。仅从结果来看，日本没有参加是个重大遗憾。而且我注意到整个电视演讲词中反日的特征还是比较明显的。“日寇”至少出现了一次。经常提及抗日而非反法西斯战争。这和苏俄是有区别的：</p>
+<p>5) 苏俄的措辞几乎肯定是“反法西斯”、“反纳粹”，最多反对德国法西斯。但不叫“反德”，“德寇”（当然历史上和现在的私下里有这种表述）。这个表述使得抗战是针对意识形态的，而非民族的。中国目前的表述更多是民族战争。当然会使日本很难受。看完后他们应该庆幸自己没来</p>
+<p>6）另外村山富市来了么？没看见。7) 除了前苏联外，重要同盟国基本没参加，这种被冷遇只能用悲惨来形容。英美在哪里呢。布莱尔呢？他们的大使露面了么？反正没看到镜头，这种由于地缘政治原因带来的抵制使得反法西斯基调进一步摊薄，进一步使基调化减成了中国纪念自己的民族战争。</p>
+<p>8）对抗战历史的表述，国共各自的作用和角色。这个比较让人失望。相信大家都看到了。台湾官方没有代表。使中华民族反法西斯的基调化简到了共产党抗日。9） 因此阅兵客观上展现了地缘政治的巨大分裂，历史的种种不和解和隔阂，当下的各种矛盾。这肯定是主办者不愿看见的</p>
+<p>10）最后我认为强调二战的国际秩序现在已经不能对外提供和平力量和正能量了。这个国际秩序70年了，已具有很大的不合理性，成为当下国际社会及秩序矛盾、分裂的因素。只有强调和解，跨越民族、国家、意识形态的反战，面向未来，才可能赢得更广泛人类群体的尊重和认可。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8uPRcUwAA9srF1.jpg" alt="CN8uPRcUwAA9srF" width="551" height="379"></p>
+<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%94%E4%B8%BB%E5%B8%AD%EF%BC%9A%E6%8A%97%E6%88%9870%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5%E5%BC%8F%E8%A7%82%E6%84%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%9D%83%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E5%85%A8%E6%96%B0%E7%9A%84%E9%98%B6%E6%AE%B5/" target="cdt-mirror">自由亚洲｜余英时：中国政权进入一个全新的阶段</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg" alt="mmexport1441262564551" width="550" height="363"></p>
@@ -610,31 +631,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%9F%A5%E5%90%8D%E6%95%99%E8%82%B2%E5%AE%B6%E4%BF%A1%E5%8A%9B%E5%BB%BA%E5%A4%AB%E5%A6%87%E8%A2%AB%E6%8A%93/" target="cdt-mirror">自由亚洲｜知名教育家信力建夫妇被抓</a>
-</h2>
-<p><p>被称为中国温和改良派代表人士之一的广东教育界人士、信孚教育集团董事长信力建夫妇日前被当局抓捕，其资产亦遭冻结。同时被带走的还有其助手和数名下属。有消息称抓捕信力建属北京方面的统一行动，但原因迄今不明。 （卡帕/何山 报道）</p>
-<p>据悉，信力建于上月21日在广州家中被捕，同时被带走的还有信力建的贴身助手和司机、以及公司的财务人员。</p>
-<p>北京一不愿具名的学者对本台表示，大约在2天前，信力建的妻子吴静也被抓走，家里还有一岁多的孩子去年在美国出生，是美国公民，目前处境堪忧。信力建除了兴办教育，还是凤凰知名博客写作者，因宣扬普世价值，一直是保守派的眼中钉。</p>
-<p>他说：信力建是8月21号被突然的拘留，说的是来自北京的统一行动。完全是他们一步一步地打击律师、知识份子、甚至像信力建这样的教育家，因为他经常写一些宣传普世价值，反对独裁。所以司马南，还有中国的那几个保守派，他们一直对他进行围攻。前两天，他的太太吴静，她是信孚教育集团的总经理也被抓了，她的孩子才一岁。律师是陈有西，但是呢，上个星期去见信力建没有见到，所以呢，很多的情况都不是很清楚。</p>
-<p>该学者还称，信力建除了是教育家和独立思想者，还是南粤知名的慈善人士，除了办班为孤寡孩子提供教育，自己还收养多名孩子，并将他们送到美国求学。他认为，当局抓捕信力建是政治迫害。</p>
-<p>他说：他的学校有一千多名学生也面临著开学，我感觉他们不仅仅是在打击知识分子或在打击这些公益人士，他们甚至是在制造动乱。这些公安系统的人到底是想达到他们怎样的一个目的？另外信力建先生在广州有很好的口碑，也是当地的政协委员。不仅办了幼儿园，还免费地资助孤寡儿童。信力建大概有5、6个收养的孩子，现在都在美国生活和学习。他不仅是一个教育家，还是一个慈善家，我想这是一次政治迫害。</p>
-<p>据信孚教育集团属下的中学招生办人士称，信力建被当局抓捕后，信孚教育集团的很多人依然不知情。他们甚至连自己的老板为何被抓也不清楚。但目前学校还在正常运营，但此后的情况如何，他们也不清楚。</p>
-<p>他说：学校肯定要开学的嘛，学生肯定要读书的嘛。反正我们也没有通报这个事情。不会通报这个事情的，学校，我们现在都不知道这个情况。</p>
-<p>本台记者致电广州市公安局，试图了解信力建被抓的原因，但广州警方人士称他查不到信力建的信息，直接挂断了电话。</p>
-<p>记者：您刑警支队吗？<br>
-广州市公安局：对。<br>
-记者：广州信孚教育集团董事长信力建是被谁抓走的？<br>
-广州市公安局：我这里查不到，我不清楚这个情况。</p>
-<p>周二傍晚6时许，推特有消息称信力建已经获释，但处于有限自由状态，但本台记者向其朋友核对，没能得到准确的消息。</p>
-<p>信力建毕业于中山大学，1989年创办信孚教育集团，现拥有20多个教育实体，是内地民办教育专家。同时，他是知名网络大V，以提倡温和改良著称的公共知识分子，他也因此备受保守派和激进派的非议。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%9F%A5%E5%90%8D%E6%95%99%E8%82%B2%E5%AE%B6%E4%BF%A1%E5%8A%9B%E5%BB%BA%E5%A4%AB%E5%A6%87%E8%A2%AB%E6%8A%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B%E5%BB%BA/?category=18271" rel="tag">信力建</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -646,7 +642,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3r7fcqm8dgzwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d321gma0l2afjg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -656,5 +652,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
                 <td></td>
                 
         
-        <td><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d321gma0l2afjg.cloudfront.net">https://d321gma0l2afjg.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://dt24jke6iorrr.cloudfront.net">https://dt24jke6iorrr.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d2ruw1cw172uon.cloudfront.net">https://d2ruw1cw172uon.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3v9c9p9zsbfz6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddb6p1dqze1i8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,106 @@
                 <td></td>
                 
         
-        <td><a href="https://d3v9c9p9zsbfz6.cloudfront.net">https://d3v9c9p9zsbfz6.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3v9c9p9zsbfz6.cloudfront.net">https://d3v9c9p9zsbfz6.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9C%9F%E5%BF%83%E4%B8%8D%E8%83%BD%E7%9B%B4%E8%A7%86%EF%BC%8C%E5%BD%AD%E9%BA%BB%E9%BA%BB%E7%9C%8B%E9%80%8F%E4%BA%86%E4%B8%80%E5%88%87/" target="cdt-mirror">【河蟹档案】真心不能直视，彭麻麻看透了一切</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%87%E4%B8%8A%E4%B8%80%E5%93%A5">陇上一哥</a>：阅兵还是有所保留的，最能打的城管方队和最耐打的股民方队都没有出现。。。<br><a href="https://freeweibo.com/weibo/3882978071754198" target="/weibo/388">2015年09月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%8B%B1%E5%BC%8F%E6%B2%A1%E5%93%81%E7%AC%91%E8%AF%9D%E7%99%BE%E7%A7%91">英式没品笑话百科</a>：大月饼是属于中国人民的，但归根结底也是属于处女座的，一样的步伐，一样的身高，一样的罩杯。<br><a href="https://freeweibo.com/weibo/3882897313910600" target="/weibo/388">2015年09月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BA%A2%E6%A5%BC%E6%A2%A6%E6%96%AD%E4%B8%89%E7%99%BE%E5%B9%B4">红楼梦断三百年</a>：习大大最后挥拳头说：“人民币胜！”看来美元彻底没戏了！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/333.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/333.jpg" alt="333" width="295" height="297"></a><br><a href="https://freeweibo.com/weibo/3882932965937647" target="/weibo/388">2015年09月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BA%BA%E5%95%8A">全世界最美丽的人啊</a>：看评论才注意到手在抖<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/222.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/222.gif" alt="222" width="304" height="448"></a><br><a href="https://freeweibo.com/weibo/3882991568911125" target="/weibo/388">2015年09月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40Monster_%E5%B8%86%E6%9D%A5%E5%B8%86%E5%8E%BB">Monster_帆来帆去</a>：真心不能直视惹<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A8%B1%E4%B9%90%E8%B5%84%E6%9C%AC%E8%AE%BA%EF%B8%B1%E5%A4%AE%E8%A7%86%E5%AF%BC%E6%92%AD%E5%90%90%E6%A7%BD%E9%98%85%E5%85%B5%EF%BC%9A%E5%85%A8%E7%A8%8B%E6%9C%89%E4%B8%89%E5%A4%A7%E6%A7%BD%E7%82%B9/" target="cdt-mirror">娱乐资本论︱央视导播吐槽阅兵：全程有三大槽点</a>
+</h2>
+<p><p>【编者注】微信原文已被和谐。</p>
+<p><em>原文标题：央视导播吐槽阅兵：全程有三大槽点，但我们可能是央视最後的导播人才</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpg" alt="01" width="525" height=""></a></p>
+<p><strong>作者：娱乐资本论【微信号ID：yulezibenlun】</strong></p>
+<p>每当有大事需直播发生时，就最能体现一家电视台的人才深度。</p>
+<p>比如说08年奥运会，NBC就把央视秒成了渣。比如说8月份的 天津事件，就把天津台的媒体环境暴露了出来。比如说每年的好声音总决赛，也暴露出了灿星的短板。</p>
+<p>而今天暴露的最明显的，就是央视直播的导播。尤其是对於没有看到女兵真容的军迷们来说，你让我们怎麽舔屏！</p>
+<p>还有对比84年那次阅兵，邓公每次说完「同志们辛苦了」，镜头特写会立刻对准排头的方阵士兵脸部，体现对士兵极大敬意。这次官媒的特写几乎全程对准习，给到的士兵特写镜头只有五次。</p>
+<p>那麽啥是导播？他们是整场直播的核心。所有观众能看到的画面，都由他们指挥「摄像师」进行拍摄，并进行现场切换。（比如说下面这位在导播TFboys的表演时，非常魔性）</p>
+<p>下面，娱乐资本论也通过采访了几位央视的导播，从专业的角度，解析了今天的三大槽点！</p>
+<p>似乎从08年奥运会开始，再到09年的阅兵，再到今年的阅兵，央视的导播就一直没逃过中国老百姓的口诛笔伐。不过，虽然槽点很大，但也有老央视导播莫不黯然神伤的表示：「这些可能是央视最後的导播人才。」</p>
+<p>确实，连郎永淳这种门脸上的老央视人都已经离开央视，那些曾经经历过08奥运丶09国庆的老导演，其实已经走了不少。而这些人即使再被吐槽，也是全中国最後的导播人才。如果连央视导播流失都这麽严重，整个中国的导播环境，又能好到哪去呢？</p>
+<p>槽点①：经常切飞，女兵都不给特写！</p>
+<p>在导播届，有个术语叫切飞了，啥意思？就是导播切过来一个机位，但发现镜头没有拍到主体，只好马上切走了。</p>
+<p>哪里有？当大大开着红旗车从天安门城楼里出来，和阅兵总指挥交接时，那个阅兵总指挥就切飞了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpg" alt="01" width="525" height=""></a></p>
+<p>90多个机位拍成这个熊样，女兵不给特写镜头。最重要的是，别的方队经过时，挥手致意的DD的镜头不是特别多；一到女兵方阵时，就猛给DD微笑着的镜头（细思恐极）。</p>
+<p>你看刘猛导演就在猛地吐槽：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/02.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/02.jpg" alt="02" width="550" height=""></a></p>
+<p>分镜头脚本的主要任务，是根据解说词和电视文学脚本来设计相应画面，配置音乐音响，把握片子的节奏和风格等。</p>
+<p>说白了，就是建造蓝图。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/03.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/03.jpg" alt="03" width="440" height="330"></a></p>
+<p>据某央视前导播介绍，理论上来讲，前期预演当中应该经过详细的推敲，现场直播的切换，应该严丝合缝的来切换，「对於导播来讲，所有的进场部队、检阅的官兵们，因为他们是0误差，所以导播应该能做到详细的分镜头的工作。」</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/04.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/04.gif" alt="04" width="293" height="149"></a></p>
+<p>再在设定好一些套用镜头组，比如说「先是一个少将喊号的中景，然後右侧前方机位的固定镜头，再是全景的摇，」类似这种镜头组，就能保证摄像不是乱找镜头，而是等着导播的呼唤。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/05.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/05.gif" alt="05" width="366" height="186"></a></p>
+<p>据另一个央视导播介绍，「国外切换的话，相对是比较确定的，包括综艺节目都有分镜头脚本，哪一个镜头是一定要切到你的，这个时候摄像师一定不能动，不然就切飞了。」</p>
+<p>槽点②：碎镜头太多，只记得炫耀gopro和「天鹰」！</p>
+<p>大家都知道这一次央视派出了90多个机位，除了传统的机位和gopro，还有两台二维索道摄像机。</p>
+<p>第一台：横跨长安街，用於正面拍摄阅兵方阵。这台设备名为「天鹰」，它的亮点在於，是中央电视台自主智慧财产权的创新产品，也是首次在重大活动中亮相。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/06.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/06.jpg" alt="06" width="525" height=""></a></p>
+<p>第二台：「飞猫」，位於长安街沿线，获得500多米的移动范围。用於拍摄领袖坐车阅兵瞬间和侧面拍摄阅兵方阵。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/07.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/07.jpg" alt="07" width="525" height=""></a></p>
+<p>还有航拍陀螺仪，6轴陀螺仪稳定摄影平台具有零震感的稳定性，一大特点是可俯视拍摄—当运动物体逆向行驶或者需要倒置拍摄时，省掉了直升机转向掉头或者跟丢的麻烦。</p>
+<p>但好像整个过程，一直在炫耀这些牛逼的机器和tank底部、飞行员舱等gopro小机位，忘了为什麽镜头在这个位置是否恰当。</p>
+<p>比如说像斐济这样的小方阵出场，竟然动用了「天鹰」，那个角度真心很伤人啊，前後对比那麽大，感觉到了啥叫小国寡民。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/08.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/08.jpg" alt="08" width="525" height=""></a></p>
+<p>还有国外阅兵方队，全是全景。。尼玛啊，他们走路本来就难看，看的小娱我一直笑。。</p>
+<p>还有时不时插入一点群众镜头，这个色彩处理上，我也蛮想吐槽的。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/09.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/09.jpg" alt="09" width="525" height=""></a></p>
+<p>下面是全景的飞行编队，大全景…确定不是沙尘暴来了吗…说好的帅帅的飞机呢！！！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/101.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/101.jpg" alt="10" width="525" height=""></a></p>
+<p>横扫各国领导人的镜头，机位明显设置有问题，显示半张脸和无脸，虽然没必要过度解读，但起码画面不好看啊。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/11.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/11.jpg" alt="11" width="525" height=""></a></p>
+<p>槽点③：手抖的厉害！你是有多怕！</p>
+<p>对於导播团队来说，最可怕的莫过於手抖了。</p>
+<p>比如说，大大上车的环节，机位明显晃动，导播没注意就切过去了</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/12.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/12.gif" alt="12" width="366" height="186"></a></p>
+<p>国旗升完，这个镜头连拉加抖，抖的我的心都慌了，偷偷哭了5分钟</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/14.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/14.png" alt="14" width="525" height=""></a></p>
+<p>这麽麽重要的场合，你看看摄像大哥在手抖，抖得看台上的朋友都手抖了。</p>
+<p>据说，手抖分为生理性手抖和心理性手抖。心理性手抖，有点象预期焦虑症。这种问题常常制造了一个使病人感觉到恐惧的情境。比如，你非常担心在做一件事时有别人在场时手会发抖，结果别人来到你面前时，你的手真的在抖动了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/15.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/15.jpg" alt="15" width="440" height="273"></a></p>
+<p>再说说声音，阅兵式的声音直播设计可谓煞费苦心，人力物力无所不尽其能。但是效果很不理想，语言，士兵喊声，脚步声，发动机等声音的清晰度很好，但是缺乏群感，完全没有表现出气势。话筒的摆放存在极大的问题，话筒的选择存在极大的问题。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/16.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/16.jpg" alt="16" width="500" height="439"></a></p>
+<p>还 有网友表示：不知道有木有注意到护旗手走向旗杆时满地乱糟糟的话筒线？派话筒员跟随可以，可为什麽不可以用个无线手雷接吊杆话筒呢？虽然据说森海是主赞 助，但森海的无线手雷不给力你们都不能为大局着想借用下人家莱克或者ZAXCOM的麽？！人家央视的摄影组技术已经被吐槽死了，音频组还尽给人家添乱！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/17.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/17.jpg" alt="17" width="475" height="656"></a></p>
+<p>客观原因：今年由新闻频道主控，没有央视三套厉害！</p>
+<p>其实说了这麽多槽点，但大家都知道，中国最好的直播技术，就是三大台的人员：央视、湖南卫视、北京卫视。</p>
+<p>其中湖南卫视是长期做直播节目练习出来的，北京卫视是长期在北京接私活培训出来的。。至於央视，则是最好的设备+最好的培训系统+最好的锻炼机会，因此央视的团队也一直是国内最顶级的导播团队。</p>
+<p>那为什麽这一次被吐槽呢？</p>
+<p>据悉，有三个原因，</p>
+<p>1.只有一次彩排+0延时</p>
+<p>大家都知道阅兵礼，完完整整的彩排只有一次，导播的压力非常大，而且今天这个直播是没有延时的直播（一般春晚啥的都有30秒延时）。。。虽然看上去30秒没有特别大的差别，但对於导播来讲心理压力小很多，所以切镜头时会紧张是正常的。</p>
+<p>2.机位太多</p>
+<p>今年用了90多台机位，听起来很棒，其实在操作上来讲增加了很多风险，「我们平常都是一级切换，我一个人搞定全部。现在就必须用到多级切换。上面有总的导播来控制，小导播则负责小模块，总导播总控切出。」</p>
+<p>一般分级切换的情况，不是特别好掌控，需要上面的导播思路要非常清楚，而且要善於和下面的导播沟通，两者的节奏丶气口丶审美都要一致，才不至於互相打架。</p>
+<p>3.换了团队</p>
+<p>因为长期做晚会的关系，大家都知道央视最厉害的大型直播团队，是三套的大型活动中心。</p>
+<p>但今年这一次阅兵礼，却改由新闻中心主控的（央三辅助），和三套相比，对镜头的组接的能力应该是不如的，</p>
+<p>当然，可能普通的小型现场新闻直播，确实是新闻中心厉害，但这可是90多个机位，几十种摄影器材，堪比一场需要营造恢弘、大气、敞亮的真人秀节目啊。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/18.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/18.gif" alt="18" width="274" height="169"></a></p>
+<p>话说回来，现在中国的整体新闻环境，只可能是央视这样的大平台才能够养得起这样的一只新闻团队：让几百人，花费好几个月的时间，动用一切配合力量，就准备一场浩大的直播。</p>
+<p>如果在地面卫视，只可能买一本节目圣经和下载一些节目，然後让几个导播照猫画虎的背下来，这是快速而廉价的学习方式，但永远也做不了大型新闻直播。</p>
+<p>可惜，现在不少央视老导播，也走的走，躲的躲，外面接活的接活。</p>
+<p>采访完之後，有一个导播语重心长的告诉娱乐资本论：「他们今天是有些纰漏，但有可能几年後，中国大型新闻活动的导播，都会绝种了。」</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A8%B1%E4%B9%90%E8%B5%84%E6%9C%AC%E8%AE%BA%EF%B8%B1%E5%A4%AE%E8%A7%86%E5%AF%BC%E6%92%AD%E5%90%90%E6%A7%BD%E9%98%85%E5%85%B5%EF%BC%9A%E5%85%A8%E7%A8%8B%E6%9C%89%E4%B8%89%E5%A4%A7%E6%A7%BD%E7%82%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%9F%8E%E6%A5%BC%E4%B8%8A%E5%A6%82%E4%BD%95%E7%AB%99%E4%BD%8D%EF%BC%9F/" target="cdt-mirror">元淦恭：天安门城楼上如何站位？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262509438.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262509438.jpg" alt="mmexport1441262509438" width="550" height=""></a><br><em>（网络图片）</em></p>
@@ -53,7 +150,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%BC%A0%E5%87%AF%E6%B6%89%E4%B8%BA%E5%A2%83%E5%A4%96%E7%AA%83%E5%8F%96%E3%80%81%E9%9D%9E%E6%B3%95%E6%8F%90%E4%BE%9B%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/" target="cdt-mirror">自由亚洲｜张凯涉为境外窃取、非法提供国家秘密罪</a>
 </h2>
@@ -118,7 +215,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%BC%A0%E4%B9%8B%E6%B4%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A4%E4%B8%BA%E6%9C%89%E5%85%B5%E5%9C%A8%E6%98%AF%E4%BA%A1%E5%9B%BD%E4%B9%8B%E8%A8%80%EF%BC%9F/" target="cdt-mirror">羽戈：张之洞为什么认为“有兵在”是亡国之言？</a>
 </h2>
@@ -208,7 +305,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%9D%83%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E5%85%A8%E6%96%B0%E7%9A%84%E9%98%B6%E6%AE%B5/" target="cdt-mirror">自由亚洲｜余英时：中国政权进入一个全新的阶段</a>
 </h2>
@@ -618,52 +715,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E4%B8%96%E9%81%93%E8%8B%A5%E6%95%8F%E6%84%9F-%E4%BA%BA%E5%BF%83%E4%BE%BF%E6%95%A3%E4%B9%B1/" target="cdt-mirror">王海涛：世道若敏感 人心便散乱</a>
-</h2>
-<p><p>多年之后，回忆起2015年7月20日的那个上午，晓璐或许会感慨，那是“时无英雄，使竖子成名”的岁月。</p>
-<p>那个时候，晓璐是一名财经记者。</p>
-<p>记者都有成名的冲动，但绝不会想过以晓璐这种方式成名。那天上午，他的一篇署名稿件发表。稿件中说，证监会正在研究“救市退出方案”。沪指迅速下挫，证监会随后紧急澄清，并无救市退出计划。但过了3天，救市大业，还是呈现出了溃败的模样。</p>
-<p>救市未果，责任在谁，众说纷纭。8月25日，新华社消息称，晓璐被公安机关要求协助调查。8月31日，CCTV播出晓璐被采访的画面。</p>
-<p>他说，“为了一味追求轰动效应，不负责任地编造传播不实报道，造成了市场混乱和恐慌，严重影响了市场信心，给国家和广大投资者造成巨大损失”。</p>
-<p>这句话，我是这么理解的——救市国家队被一篇报道在屁股后面打了一枪，便军心四散了，并引发市场人心散乱。于是，国家损失巨大、投资者损失巨大。</p>
-<p>这不由让人想起“一言丧邦”的典故。一篇报道为什么这么大的威力？晓璐还说了有一句话，那就是，“我不应该在敏感时期发表（有关救市计划退出的报道）”。</p>
-<p>“敏感时期”4个字，道出了国家队溃散的另一层原因：未必是报道太生猛，而是世道太敏感。</p>
-<p>晓璐作为一个新闻工作者，一定知道，这是一个敏感的敏感的时代。有些事敏感。，有些人敏感，有些时间敏感，有些公司敏感，有些新闻敏感，甚至，有些词语也是敏感的。这些敏感的东西，你如果不避开，后果就会很严重。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%8E%8B%E6%99%93%E7%92%90.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%8E%8B%E6%99%93%E7%92%90.jpg" alt="王晓璐" width="528" height="329"></a></p>
-<p>有些人质疑，一个记者可以将股市弄垮？这种质疑者显然没有理解什么是“敏感”——敏感就是汛期堤坝上的蚁穴，一触即溃。当前股市的表现，充分解释了什么叫敏感。只是，在堤坝崩溃之后，去追责“蚂蚁”，使得所谓的“敏感”，相当魔幻。</p>
-<p>你搞不清楚，这个时代是如何一步一步变得敏感的，就像你搞不清楚，2015年的股市，是如何一步一步变得敏感的。所谓敏感的时代，就是真相难以捉摸的时代——就像2015年的沪指，真相到底是5178点还是2850点？</p>
-<p>这个问题，连证监会也难以回答，证监会关注的是“人心”。</p>
-<p>8月7日，证监会新闻发言人说，“近期中国证券业协会、中国证券投资基金业协会分别组织证券公司、基金管理公司，召开维护证券市场稳定工作座谈会。证监会张育军主席助理会上继续把稳定市场、稳定人心作为当前首要工作。”</p>
-<p>翻看历史，“稳定人心”是一项极为艰难的工作，尤其是敏感时期的人心。</p>
-<p>1644年的早春，当农民军围攻北京城的时候，崇祯皇帝三次撞钟召集“国家队”应对，几无人响应。大臣们都想着私利——在他们看来，大明亡了，无关紧要，换个主子而已。李自成刚刚进城，他们便排队向“新朝廷”讨要官职去了。</p>
-<p>崇祯上吊时留下遗言，“朕非亡国之君，臣乃亡国之臣”，怀着对他豢养的“国家队”的无限愤恨，以发掩面，羞去见列祖列宗，终究还是去了。这厮至死也不承认，他的昏聩和自负，才是“人心”难以聚拢的关键。这厮至死也没明白，既然江山是你的，丢与不丢，别人是不会上心的。</p>
-<p>但股市不是某一个人的，是国家的，也是股民的。所以证监会说稳定人心是当前的首要工作，所以，晓璐的“报道”，中信证券的“猫腻”，证监会的“内鬼”，以及恒生电子的“非法经营”，都一一暴露了。这几件事，在这个“敏感时期”，似乎都有象征意义，但或许也只是起到象征性的作用。</p>
-<p>在“国家队”内部，每揭出一个内鬼，就会有人相信还有更多内鬼，没揭出一个猫腻，就会有人相信还有更多猫腻。就像你去饭馆吃饭，看到有苍蝇飞，老板打死一只苍蝇，你很难相信这个馆子就此干净了，看着苍蝇的尸体，你一定会更加确认，这个馆子，确实不卫生。</p>
-<p>最后，我想说的是，不管世道多么敏感或艰难，都要对未来保持希望和信心，并努力做一个“心不散”的人——君不见，5000点时买的银行股，3000点的时候不就解套了吗？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E4%B8%96%E9%81%93%E8%8B%A5%E6%95%8F%E6%84%9F-%E4%BA%BA%E5%BF%83%E4%BE%BF%E6%95%A3%E4%B9%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B4%A2%E7%BB%8F%E3%80%8B/?category=18271" rel="tag">《财经》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8F%B3/?category=18271" rel="tag">反右</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%A4%9A%E4%BD%8D%E5%8F%8D%E5%8D%A0%E4%B8%AD%E9%AA%A8%E5%B9%B2%E5%8F%8A%E8%AD%A6%E5%91%98%E8%B5%B4%E4%BA%AC%E9%98%85%E5%85%B5/" target="cdt-mirror">美国之音｜香港多位反占中骨干及警员赴京阅兵</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/B1436D1A-B347-4467-9E23-99287B2F6204_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/B1436D1A-B347-4467-9E23-99287B2F6204_w640_r1_s.jpg" alt="B1436D1A-B347-4467-9E23-99287B2F6204_w640_r1_s" width="548" height="337"></a><p>港媒报道香港阅兵代表团名单（美国之音图片）</p></div>
-<p>香港—港府星期二公布参加9/3阅兵的特别行政区代表团287人的名单，由特首梁振英星期三率阅兵团赴京。香港媒体报道，多名反占中运动核心人物和处理占领行动的警务人员都获邀。有学者相信，明显是这些人因反占中被论功行赏。去年积极参与反占中运动的“保普选反占中大联盟”的多名核心成员，包括发起人周融、郑赤琰、刘炳章等6人，占领期间主理禁制令的亲政府律师陈曼琪， 以及处理占领行动的前警务处长曾伟雄、现任处长卢伟聪、助理处长张德强等5人，都是成员。此外，曾为去年8/17反占中游行担任纠察的交通安全队总监崔志 仁、批评冲击升旗礼的香港升旗队总会总监许振隆，也获邀。另外，保普选反占中大联盟的其他一些核心成员，也会随人大政协团赴京。</p>
-<p>据报道，特区代表团成员来自多个界别，包括政商界、中央驻港官员、传媒、宗教、教育，以及抗日老兵及家属等。另外，各个建制党派都有代表，包括自由 党荣誉主席田北俊和主席钟国斌、民建联主席李慧琼及副主席周浩鼎等。泛民有3位温和派获邀，包括民主党的狄志远、前公民党立法会议员汤家骅和卫生服务界立 法会议员李国麟。</p>
-<p>据苹果日报报道，代表团名单由特首和中央商讨和敲定，特首梁振英的亲信和多位亲中社团的高层都有获邀。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%A4%9A%E4%BD%8D%E5%8F%8D%E5%8D%A0%E4%B8%AD%E9%AA%A8%E5%B9%B2%E5%8F%8A%E8%AD%A6%E5%91%98%E8%B5%B4%E4%BA%AC%E9%98%85%E5%85%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">反占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -685,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3v9c9p9zsbfz6.cloudfront.net">https://d3v9c9p9zsbfz6.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3v9c9p9zsbfz6.cloudfront.net">https://d3v9c9p9zsbfz6.cloudfront.net</a><br/><a href="https://d29gy44sr21vpl.cloudfront.net">https://d29gy44sr21vpl.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/></td>    </tr>
 </table>

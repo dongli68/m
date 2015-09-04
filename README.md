@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfl9ww3n23s4b.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9C%9F%E5%BF%83%E4%B8%8D%E8%83%BD%E7%9B%B4%E8%A7%86%EF%BC%8C%E5%BD%AD%E9%BA%BB%E9%BA%BB%E7%9C%8B%E9%80%8F%E4%BA%86%E4%B8%80%E5%88%87/" target="cdt-mirror">【河蟹档案】真心不能直视，彭麻麻看透了一切</a>
@@ -284,7 +284,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E9%95%BF%E8%80%81/?category=18271" rel="tag">九长老</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E6%97%A5%E8%B4%A7/?category=18271" rel="tag">抵制日货</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%95%BF%E6%98%A5/?category=18271" rel="tag">李长春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%94%E4%B8%BB%E5%B8%AD%EF%BC%9A%E6%8A%97%E6%88%9870%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5%E5%BC%8F%E8%A7%82%E6%84%9F/" target="cdt-mirror">兔主席：抗战70周年阅兵式观感</a>
 </h2>
@@ -736,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1r561vizamjcr.cloudfront.net">https://d1r561vizamjcr.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://ddb6p1dqze1i8.cloudfront.net">https://ddb6p1dqze1i8.cloudfront.net</a><br/><a href="https://d3amu7nns4r91q.cloudfront.net">https://d3amu7nns4r91q.cloudfront.net</a><br/></td>    </tr>
 </table>

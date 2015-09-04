@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://d130m6t8o94iwz.cloudfront.net">https://d130m6t8o94iwz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/><a href="https://d130m6t8o94iwz.cloudfront.net">https://d130m6t8o94iwz.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%9D%83%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E5%85%A8%E6%96%B0%E7%9A%84%E9%98%B6%E6%AE%B5/" target="cdt-mirror">自由亚洲｜余英时：中国政权进入一个全新的阶段</a>
@@ -646,7 +646,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2fdtucska1pl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d130m6t8o94iwz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -656,5 +656,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
                 <td></td>
                 
         
-        <td><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/><a href="https://d130m6t8o94iwz.cloudfront.net">https://d130m6t8o94iwz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d130m6t8o94iwz.cloudfront.net">https://d130m6t8o94iwz.cloudfront.net</a><br/><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/></td>    </tr>
 </table>

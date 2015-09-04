@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djwu5wm9cc9ed.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d3j18k7akbnqko.cloudfront.net">https://d3j18k7akbnqko.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3j18k7akbnqko.cloudfront.net">https://d3j18k7akbnqko.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%A6%96%E9%95%BF%E5%90%8C%E6%AC%BE%EF%BC%88%E6%97%A5%E6%9C%AC%EF%BC%89%E7%9B%B8%E6%9C%BA-%E4%BD%A0%E5%80%BC%E5%BE%97%E6%8B%A5%E6%9C%89/" target="cdt-mirror">【图说天朝】首长同款（日本）相机 你值得拥有</a>
+</h2>
+<p><p>【编者注】<a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%95%BF%E6%98%A5">李长春</a>，前中共主要领导人之一，曾任中央精神文明建设指导委员会主任、中央宣传思想工作领导小组组长，主管意识形态工作。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/">9.3大阅兵</a>当日，前中共主要领导人所在的天安门城楼上，手举相机专心摄影的李长春显得特别引人注目：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1441252538860.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1441252538860.jpg" alt="1441252538860" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1441252814104.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1441252814104.jpg" alt="1441252814104" width="550" height=""></a><br><em>（上图来自美国侨报网）</em></p>
+<p>网络知名鉴表达人@花总丢了金箍棒 <a href="http://weibo.com/1853332115/CyQX3F9iI">在新浪微博评论</a>，认为李长春使用的是佳能5D3相机，适马50-500mm OS镜头。</p>
+<p>就是下面这两款：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-03-at-7.54.46-PM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-03-at-7.54.46-PM.png" alt="canon eos 5d" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/canon_eos_5d_origin.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/canon_eos_5d_origin.png" alt="canon_eos_5d_origin" width="550" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-03-at-7.53.34-PM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-03-at-7.53.34-PM.png" alt="sigma 50-500" width="550" height=""></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@花总丢了金箍棒:佳能5D3，适马50-500 OS，首长腕力真棒！</p>
+<p>@嘉影乐行：机身不贵，镜头更便宜，确实非常想不到，ZG管宣传的最高领导啊……</p>
+<p><a href="http://weibo.com/678809007" target="_blank">特别调查员</a>：他用日货，爱国青年肿么破？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/1610855312" target="_blank">9390v</a>：没有枪，没有炮，敌人给我们造<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/2090525155" target="_blank">平淡之太无奇</a>：我党领导带头喜欢日货，这是爱好和平！只有国民党蒋介石那些人才恨日本。<img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"><img title="[闭嘴]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]"></p>
+<p>@张渝生：如果换了一个公知大V，不被五毛普天盖地骂绝了？</p>
+<p>@张洲：唉，别让西安砸车那位监狱里的爷瞧见，那孙子做事邪行。</p>
+<p>@小桥流水晴天：在这雄起的时刻，为什么不用国产货？</p>
+<p>@水草—时光：把5D看成我党，都微博语境定式害的，罪过。</p>
+<p>@一条大路新家：五毛快来骂长春啊 上~</p>
+<p>@建筑师在德国: 前五毛总头子用日货，这飞盘有点难度。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%A6%96%E9%95%BF%E5%90%8C%E6%AC%BE%EF%BC%88%E6%97%A5%E6%9C%AC%EF%BC%89%E7%9B%B8%E6%9C%BA-%E4%BD%A0%E5%80%BC%E5%BE%97%E6%8B%A5%E6%9C%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E9%95%BF%E8%80%81/?category=18271" rel="tag">九长老</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E6%97%A5%E8%B4%A7/?category=18271" rel="tag">抵制日货</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%95%BF%E6%98%A5/?category=18271" rel="tag">李长春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%94%E4%B8%BB%E5%B8%AD%EF%BC%9A%E6%8A%97%E6%88%9870%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5%E5%BC%8F%E8%A7%82%E6%84%9F/" target="cdt-mirror">兔主席：抗战70周年阅兵式观感</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k99yyyyyyyyy.jpg" alt="k99yyyyyyyyy" width="551" height="339"><br>
@@ -604,33 +633,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/9%C2%B73%E9%98%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E9%B9%A6%E9%B9%89%E5%AD%A6%E8%88%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/" target="cdt-mirror">纽约时报 | 鹦鹉学舌的中国式教育</a>
-</h2>
-<p><p>1999年春，我在北京一所小学读五年级。某天放学后，老师给我留了一项作业。一周前，北约在科索沃战争中轰炸了在贝尔格莱德的中国使馆，导致三名中国记者丧命。华盛顿将这次袭击称作意外，而中国民众相信这是故意挑衅。我的任务是为第二天的校会写一篇演讲稿，我的老师告诉我，“来谴责西方列强几世纪以来欺压<a href="http://topics.nytimes.com/top/news/international/countriesandterritories/china/index.html?inline=nyt-geo" target="_blank" rel="nofollow">中国</a>的霸行”。</p>
-<p>那天晚上，我埋头于一摞摞报纸之中，将头版标题中的词句串联起来，拼凑出了演讲稿。第二天，当老师看了我交给她的草稿后赞许地点了点头时，我感到我的努力有了回报。演讲稿充斥着诸如“百年国耻”和“反帝斗争”这样的短语。它们的发音令我心跳加速，但它们的含义我却不甚明了。</p>
-<p>上高中时，这些词语再次出现在了我的历史课本里，成了我们需要记住的准则。“中国建立社会主义，”我对自己重复道，“是现代历史进程的必然结果。”</p>
-<p> 然而到那时，这样的词句已经无法激起我和同学们的兴趣。它们的含义也没有深入人心。中国历史仿佛是由意识形态的套话勾勒出的一系列条约和运动，既难以琢磨又缺乏实质。</p>
-<p>但课程的简单又是一件幸事。不用学会阐述艰深复杂的论点或调和令人费解的矛盾，我们只要能一字不差地重复课本、准确地回忆年表，就可以在考试中得分。</p>
-<p>这样的理解在我去美国读大学后开始改变。西方对中国历史的论述多侧重于类似大饥荒和文化大革命这样的事件上。它让我对这些在国内舆论中被严格审查的国难话题有了更细腻的认识。然而，直到读了研究生并开始深入了解西方关于中国的学术成果时，我才逐渐明白中国教育是怎样以更为微妙的方式，塑造了我们这一代人的思想。</p>
-<p>中国课堂将对历史的叙述放置于不完整的背景中，以后世强加的逻辑贯穿，剥夺其它阐释方式的存在空间。在中国，古代史被展示为朝代之间由奥妙玄虚的“中华文明”所连接，被含义模糊的“中华民族”所统治。而如蒙古族和满族等处于统治地位的少数民族的视角则无处可寻。西方研究显示，这些信息往往揭露更加复杂的史实。以1919年的群众示威命名的“五四运动”是开启中国现代史的一个关键事件。我的高中课本将它被描述成一场“反帝反封建的爱国运动”，而对在运动中起至关重要作用的西方启蒙思想却少有论及。</p>
-<p>这套体系的另一个弊端是死记硬背的学习方法。身处其中，中国学生难以学会批判性质疑。就算他们意识到中国历史课中的偏见，鹦鹉学舌复述权威的习惯致使他们既没有思想动力也缺乏分析技巧来对这些偏见进行探究。</p>
-<p>因此，尽管很多学生承认中国历史教育背后的政治动机，在遭到不熟悉的观点挑战时，他们会本能地依赖于自童年起就熟记于心的老生常谈。而当挑战来自外国人时，民族自豪感可能会强化这种倾向。</p>
-<p>最近，我与一位刚从香港和台湾求学归来的朋友吃午餐。他解释说他外出求学是为了获取“对中国的全新认识”，然而他承认求学经历反而固化了他对香港和台湾社会的态度。他认为香港民主运动中的抗议者多是受到了“外国势力”的煽动。否则，他问道，他们“怎么可能自己看不到中国稳定高效的政治体制所带来的好处呢？”</p>
-<p>此外，当学生们为了考试而努力记忆教科书上那些自己也不相信的字句时，学习在他们眼中便成为了实现个人目的的一种手段。以追求真理为目标的西方教育理念在中国无法带来好处。在一个轻视诚信观和原创性的环境中，学生们顶着取得成功的压力，学会了使用不反映他们真实想法或脑力劳动的作品，并将其视为正当行径。</p>
-<p>我在美国念大学时，校方突然取消了一个和中国顶尖高校北京大学的学术交流项目。在各种争议声中，一名在北京的美国生物教授曾抱怨北京大学的学生中普遍的抄袭现象。我在北大读书的朋友们对这种情况的存在直言不讳，但声称这只不过是学生的务实之举。“对于马克思主义政治哲学之类的课，我们交换试题答案并分享论文，是为了有更多时间来学习那些真正重要的科目，”其中一人告诉我。</p>
-<p>上个冬天，我在北京的家中打开电视，收看由国家电视台组织的一场颇受欢迎的演讲比赛。我高中时代的一个朋友站在台上。他表情严肃，在演讲中控诉西方媒体通过向中国发动“文化战争”来“攻击中国人的自信和自尊”。下一轮比赛中，他身披一件蒙古袍，表达了对中国领土永远完整的衷心祝愿。</p>
-<p>最终我的朋友赢得了比赛。在社交媒体上，同学们纷纷向他表示祝贺。我回想起高中时代，我们课后一同抱怨课程单调乏味，嘲笑试题毫无意义的时光。那些记忆和他在电视上的表演实在格格不入。</p>
-<p>几周前，我在一次同学聚会上遇到了他。我走近他，想提起那次比赛，问问他关于政治的真实想法：他真的相信自己在电视上所说的话吗？我停住了。不知为何，我突然想起五年级时，北约轰炸贝尔格莱德的中国使馆后我写的那篇演讲稿。我咽下了要说的话。</p>
-<p>高雨莘生于北京，是哈佛大学东亚研究系硕士研究生。<br>
-翻译：Vera Chen（实习）、张欣（实习）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E9%B9%A6%E9%B9%89%E5%AD%A6%E8%88%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F/?category=18271" rel="tag">中华民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E6%95%99%E8%82%B2/?category=18271" rel="tag">历史教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%AF%E8%92%99/?category=18271" rel="tag">启蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E4%BD%9B/?category=18271" rel="tag">哈佛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E5%88%B6/?category=18271" rel="tag">政治体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86/?category=18271" rel="tag">真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">西方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -642,7 +644,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djwu5wm9cc9ed.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3j18k7akbnqko.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -652,5 +654,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3j18k7akbnqko.cloudfront.net">https://d3j18k7akbnqko.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3j18k7akbnqko.cloudfront.net">https://d3j18k7akbnqko.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d17l46umzobcod.cloudfront.net">https://d17l46umzobcod.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/></td>    </tr>
 </table>

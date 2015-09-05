@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2nhe34jfu4tcj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,131 @@
                 <td></td>
                 
         
-        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BB%95%E5%9B%BE%EF%BD%9C%E5%94%90%E4%B8%89%E8%97%8F%E4%B8%8D%E6%84%A7%E4%B8%BA%E6%8A%97%E5%A6%96%E6%88%98%E4%BA%89%E7%9A%84%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/" target="cdt-mirror">仕图｜唐三藏不愧为抗妖战争的中流砥柱</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/48a7d0c360f4b3270af55553948d6067.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/48a7d0c360f4b3270af55553948d6067.jpg" alt="48a7d0c360f4b3270af55553948d6067" width="550" height=""></a></p>
+<p>公元629年到643年，玄奘法师去西天取经，走了十四年。</p>
+<p>《西游记》的记载中写作十五年，人都喜欢凑整，算头算尾的。其实是第十五年回来了。</p>
+<p>一个真相往往被西游记的八十一难所掩盖，事实上，这十四年也是一场轰轰烈烈的反妖魔怪战争进行的十四年。</p>
+<p>近年来国内有些人在纪念取经时却出现了一种奇怪现象，即极力拔高孙悟空正面作战的地位，渲染七十二变筋斗云的作用，贬低唐三藏领导的敌后战场的重要性。</p>
+<p>有人认为，反妖魔怪战争，是由孙悟空领导的，理论是孙悟空的抬头是“斗战胜佛”。</p>
+<p>我们分析一个团队里谁掌权谁主事，名，是最最次要的。比如昨天看见有人招聘美女CEO，要求是海归。</p>
+<p>“抬头是CEO，实际工作是董事长助理。”</p>
+<p>懂了？那就是董事长助理。叫CEO。</p>
+<p>孙悟空也是如此，“斗战胜佛”，其实是一种美化，翻开历史，我们发现孙悟空在正面战场抗击妖魔怪的时候，基本上都在溃败，而唐僧和他的朋友们参与的战役，则是大获全胜。</p>
+<p>从孙悟空和唐僧合作之后，双方的分工就特别明确，孙悟空负责正面抗战，战士属性，输出高，扛打，唐僧的是僧侣属性，负责后方支援。但这样的组合往往就弱在孙悟空上。</p>
+<p>另外一个事实是，孙悟空一直在偷偷希望和妖精媾和，他在狮驼国曾经接受妖怪降服，在借芭蕉扇时则希望用哥们义气说服牛魔王，红孩儿用火烧他，他都不曾和牛魔王宣战。</p>
+<p>我们就来盘点一下《西游记》当中孙悟空被美化的战绩好了。</p>
+<p><strong>收白龙马</strong></p>
+<p>孙悟空没有看好唐僧的马，致使唐僧的机动能力受损，孙悟空也没有水水战能力，最后靠请菩萨解决。黑熊怪向观音菩萨投降。</p>
+<p><strong>夜被火烧</strong></p>
+<p>孙悟空炫耀大唐的富饶，谈论经济发展速度，导致了观音禅院老和尚对他们起了加害之心。导致唐僧的重要物资被偷走，延缓了反妖魔怪战争的胜利。</p>
+<p><strong>收降八戒</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/f1be2b3a2f74c6b1e23b36739b007ba6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/f1be2b3a2f74c6b1e23b36739b007ba6.jpg" alt="f1be2b3a2f74c6b1e23b36739b007ba6" width="360" height="239"></a><br>
+一个吃手，一个脸红</p>
+<p>孙悟空俘虏了已经接受观音菩萨劝说，投奔事业洪流的热血青年猪八戒，并对其进行了殴打，严重违背了统一战线政策，暴露了孙悟空敌视人民害怕人民的本质。</p>
+<p><strong>黄风怪</strong></p>
+<p>孙悟空怯战，对化学武器黄色烟雾败下阵来，史称空气质量大溃败。</p>
+<p><strong>流沙河</strong></p>
+<p>孙悟空怯战，在友军八戒引出敌手的时候又抢功出击，造成战役失败，后来发现是答应接受观音菩萨改编的沙和尚部。</p>
+<p><strong>四圣显化</strong></p>
+<p>孙悟空长于内部政治斗争，放任唐僧的几位师兄师姐一起测试唐僧。</p>
+<p><strong>五庄观</strong></p>
+<p>孙悟空盗窃开明地主物资，造成恶劣的社会影响。</p>
+<p><strong>贬退心猿</strong></p>
+<p>打死白骨精是孙悟空的战绩，但根据《大妖怪帝国西牛贺洲战史》记载，孙悟空出击三次，头部负伤的情况下，仅仅打死涉嫌诈骗的低级妖怪一人。</p>
+<p><strong>黑松林失散、宝象国捎书、金銮殿变虎</strong></p>
+<p>在孙悟空严重违纪退出战役期间，唐僧率领八戒、沙僧一起，进行了可歌可泣的斗争，他们力敌黄袍怪的军队，解救被逼为慰安妇的百花公主，为此还遭到百般谣诼，最后甚至白马都坚持上前线、拼刺刀，没有辜负大唐人民和如来佛祖的期望，孙悟空仅仅在最后时刻加入了战役，成为摘桃派，而其实这个时候天庭的部队已经决定干涉了。</p>
+<p>在这场战役之后，孙悟空部分攫取了战争的指挥权。</p>
+<p>此外，孙悟空爱杀人全家的本性再次暴露，摔死了公主的两个孩子。</p>
+<p><strong>平顶山</strong></p>
+<p>在不敌强敌的情况下，孙悟空打死了金角银角两个妖怪的母亲。</p>
+<p><strong>乌鸡国</strong></p>
+<p>孙悟空对敌军伪装完全没有防范，中计，最终文殊菩萨来击溃了敌人。</p>
+<p>文殊菩萨是唐僧的师兄。</p>
+<p><strong>号山逢怪</strong></p>
+<p>作为一个反正的妖怪，孙悟空一直和敌军有勾连，试图说服红孩儿投诚，结果失败，孙悟空也惨遭火烧，几乎死亡。</p>
+<p>最终战役以观音菩萨增援解决，红孩儿被俘虏。</p>
+<p>注意这里的一句台词，这是明白谁是抗妖战争中流砥柱的关键。</p>
+<p>“你是猴子请来的救兵吗？”</p>
+<p>菩萨笑而不语。</p>
+<p>她不是猴子请来的救兵，她是唐僧的引路人、唐朝人民的老朋友。也就是说，每个观音菩萨，文殊菩萨，普贤菩萨，毗蓝婆菩萨，灵吉菩萨收服妖怪的战绩，都应该算在唐僧头上。</p>
+<p><strong>黑水河沉没</strong></p>
+<p>龙宫确实是孙大圣的关系，这次降服的就是龙宫叛军，一支实力平平的地方武装。上次在号山，孙悟空用龙王的区小队袭击红孩儿据点，损失惨重，可见龙王部队的战斗力一般，反倒是前海军陆战队军官猪悟能和沙悟净表现出众。</p>
+<p><strong>搬运车迟</strong></p>
+<p>孙悟空利用欺诈手段，打死老虎、鹿和羊各一支，期间当众洗澡，暴露了孙悟空的会道门背景和江湖习气。而虎力大仙死亡，主要是和长老比赛坐禅失败摔下台阶，受了内伤。</p>
+<p><strong>路逢大水</strong></p>
+<p>通天河，又是观音菩萨。</p>
+<p><strong>金兜逢怪</strong></p>
+<p>太上老君出难题，最后如来让罗汉拿了“金刚砂”，也就是钱，买路放行。唐僧是如来的大弟子。</p>
+<p><strong>击破怀孕河水</strong></p>
+<p>确实是孙悟空的功劳，战绩是打伤老道一人，打掉胎儿两个。</p>
+<p><strong>西梁国留婚、琵琶洞受苦</strong></p>
+<p>表现了圣僧对抗妖战争的忠诚。</p>
+<p>孙悟空长期忽视核化生武器的防护，导致一败涂地，最后是大公鸡星官帮忙解决，大公鸡星官是毗蓝婆菩萨的儿子，论着管唐僧叫大舅。</p>
+<p><strong>难辨猕猴</strong></p>
+<p>悟空是内战内行，外战外行，他这次变身六耳猕猴，打伤了师父，还让如来承认了自己抗妖事业的领导权。</p>
+<p>沙悟净将军对花果山进行了报复性打击，打死化妆间谍的猴子三猴。</p>
+<p><strong>火焰山、芭蕉扇</strong></p>
+<p>这里可以的看得出孙悟空所谓的国际盟友根本就是一群恶棍，战前孙悟空长期与牛魔王叫好，形成了猴-牛-鹏等七国联盟，但是在开战之后，各国宣布中立，事实上孤立了孙悟空。其中牛魔王更是悍然对孙悟空宣战。此外孙悟空这期间对铁扇公主进行了猥亵，国际影响非常恶劣。</p>
+<p><strong>知赛城扫塔</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/09/decd72954cafcab94e5941155ac1d780.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/decd72954cafcab94e5941155ac1d780.jpg" alt="decd72954cafcab94e5941155ac1d780" width="360" height="245"></a><br></strong></p>
+<p>这是一场唐僧发动和指挥的战役，我们经常误认为唐僧没有力量，其实他有一支防卫性的部队，比如六丁六甲、揭谛、四值功曹等等。师徒扫塔的时候，其实这支部队足以应付奔波儿灞和灞波儿奔两个妖怪，但是孙悟空抢功，虐待俘虏，割下了他们的嘴唇和耳朵。此战之后，投降的妖怪越来越少，大多要死战到底。</p>
+<p>之后孙悟空蹭了二郎神的队伍，攻打碧波潭龙宫，猪八戒次帅剿灭了龙宫。</p>
+<p><strong>棘林吟咏</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/09/865632700e255bd7bad498b40864e136.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/865632700e255bd7bad498b40864e136.jpg" alt="865632700e255bd7bad498b40864e136" width="360" height="238"></a><br></strong></p>
+<p>孙悟空命令猪八戒，对劲节公等几位知识分子进行了残忍的屠杀。劲节公绝命诗曰：“千古奇冤，棘林一夜，同室操戈，相煎何急……”</p>
+<p>杏仙则悲哀地说：“我不过比别人生得好些……”</p>
+<p><strong>小雷音遇难</strong></p>
+<p>弥勒佛对孙悟空和天庭系进行了有理有利有节的制裁，部分恢复了唐长老的领导权。</p>
+<p><strong>稀柿疼</strong></p>
+<p>孙悟空和猪八戒联手打垮一个聋哑妖怪，猪八戒帮老乡修路。</p>
+<p><strong>朱紫国</strong></p>
+<p>观音菩萨解决被拐卖妇女。</p>
+<p><strong>盘丝洞</strong></p>
+<p>孙悟空打死指控猪八戒性骚扰七名妇女，他们的哥哥蜈蚣精很厉害，打不过，毗蓝婆菩萨出手制裁。</p>
+<p><strong>狮驼国</strong></p>
+<p>三个妖怪把持的国家，其中狮子怪曾经代表十万八千妖怪向唐僧投降，而唐僧也确实受降了。所以，唐僧是俘虏妖怪最多的力量，这是不争的事实。</p>
+<p><strong>失落兵器</strong></p>
+<p>孙悟空私下招募地方部队，和本地土匪发生冲突，本来保持中立的自保武装发生决战。狮子王被迪士尼老祖收走了。</p>
+<p><strong>沙粒娃沙粒娃</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/09/fef0dc6bd8df622bfe35d8fba9c47879.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/fef0dc6bd8df622bfe35d8fba9c47879.jpg" alt="fef0dc6bd8df622bfe35d8fba9c47879" width="360" height="476"></a><br></strong></p>
+<p>天竺兔子精逼婚，好多人都认为这是大圣厉害，其实第一责任人嫦娥姐姐早已经在赶来的路上了。那是猪悟能次帅的关系。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/60ee89eab5408816481a66e8198b62cf.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/60ee89eab5408816481a66e8198b62cf.jpg" alt="60ee89eab5408816481a66e8198b62cf" width="360" height="256"></a></p>
+<p>个人觉得兔子比她的铲屎官好看。</p>
+<p>剩下的不再一一列举，我们可以总结出抗妖战争的一些规律：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1279ccadc30ef5ae43747ec9e7593f3c.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1279ccadc30ef5ae43747ec9e7593f3c.jpg" alt="1279ccadc30ef5ae43747ec9e7593f3c" width="360" height="202"></a></p>
+<p>妖魔怪的邪恶轴心被人，佛，仙的正义同盟击败。</p>
+<p>盟军是消灭妖怪最多的。</p>
+<p>天界和西方之间有矛盾。</p>
+<p>唐僧的战绩，如果算上他师父、师兄、师弟的战绩，全宇宙第一。</p>
+<p>悟空的战绩，算上龙王、天庭和二郎神的战绩，远远低于唐僧的数字。</p>
+<p>以受降人数来算，唐僧俘虏了十万多妖怪。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/f537cbac4f6100cb311cc00b391ec969.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/f537cbac4f6100cb311cc00b391ec969.jpg" alt="f537cbac4f6100cb311cc00b391ec969" width="360" height="243"></a><br>
+《开锣宣言》</p>
+<p>唐僧被俘次数比悟空多得多，捆绑时间也长得多，牺牲大得多。</p>
+<p>唐僧是抗妖战争的中流砥柱，不过他高风亮节，长期以来宁愿把斗战胜佛的尊号让给悟空。</p>
+<p>在抗妖战争胜利1472年之际，有必要重提唐三藏才是抗妖的中流砥柱，总是强调孙悟空七十二变，这就是历史虚无主义的错误。</p>
+<p>回顾抗妖不仅要看“妖怪，哪里淘！”，还要看谁代表社会进步。</p>
+<p>抗妖结束1400多年后，中华大地上便出现了“天翻地覆慨而慷”的历史巨变，中国少年儿童的选择是对抗妖史的最好诠释。</p>
+<p>向唐三藏学习的孩子们，好好读书，出国留学，回来成了帝国的主流力量，外语非常好。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/35bb84d138a3898dcfab024211cb1bf0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/35bb84d138a3898dcfab024211cb1bf0.jpg" alt="35bb84d138a3898dcfab024211cb1bf0" width="360" height="252"></a></p>
+<p>向孙悟空学习的孩子们，转棍子一脱手就砸人家一块玻璃，每天在家咚咚懂东咚咚懂东，痘痘，痘痘，笑起来就是咦嘻嘻嘻，扰民无限。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/9b7301389f0fa8bc268e42502abda4ac.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/9b7301389f0fa8bc268e42502abda4ac.jpg" alt="9b7301389f0fa8bc268e42502abda4ac" width="360" height="241"></a></p>
+<h2>附作者转载声明：</h2>
+<p>须注明作者微信公号及二维码：<br><strong>仕图（shi4tu2）</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" data-slb-active="1" data-slb-asset="1872853473" data-slb-internal="0" data-slb-group="404420"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/258x258x8.jpg.pagespeed.ic.FhQRQoY5RX.jpg" alt="仕图" width="215" height="215"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BB%95%E5%9B%BE%EF%BD%9C%E5%94%90%E4%B8%89%E8%97%8F%E4%B8%8D%E6%84%A7%E4%B8%BA%E6%8A%97%E5%A6%96%E6%88%98%E4%BA%89%E7%9A%84%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">历史虚无主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BA%A2%E8%89%B2%E7%9A%84%E9%98%85%E5%85%B5%E5%BC%8F%EF%BC%8C%E8%93%9D%E8%89%B2%E7%9A%84%E6%8A%97%E6%88%98%E5%8F%B2%EF%BC%9F/" target="cdt-mirror">纽约时报｜红色的阅兵式，蓝色的抗战史？</a>
 </h2>
 <p><p>2015年9月3日将是第二次世界大战胜利70周年纪念日，此前未曾大规模庆祝这一日子的中国，在将其列为全国节假日后，更决定此次不仅要庆祝，还要打破惯例，在国庆之外的日子里进行阅兵。</p>
@@ -85,7 +207,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗战历史真相</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B9%A0%E7%9A%84%E8%83%9C%E5%88%A9%E5%92%8C%E5%8C%97%E4%BA%AC%E7%9A%84%E7%AE%97%E7%9B%98/" target="cdt-mirror">德国之声｜“习的胜利”和“北京的算盘”</a>
 </h2>
@@ -110,7 +232,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E4%BA%AC%E3%80%8C%E9%98%85%E5%85%B5%E8%93%9D%E3%80%8D%E5%AE%8C%E4%BA%86%E3%80%8C%E5%B8%B8%E6%80%81%E7%81%B0%E3%80%8D%E5%A4%8D%E6%B4%BB/" target="cdt-mirror">东方日报｜北京「阅兵蓝」完了「常态灰」复活</a>
 </h2>
@@ -611,34 +733,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%89%E9%B8%A3%EF%BD%9C%E7%8E%A9%E7%81%AB%E8%87%AA%E7%84%9A%EF%BC%8C%E9%80%9E%E5%BC%BA%E8%87%AA%E8%B4%A5-%E5%85%B3%E4%BA%8E%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%8E%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">争鸣｜玩火自焚，逞强自败–关于大爆炸与大阅兵</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/56a.jpg" alt="56a" width="551" height="379"><br>
-八月十二日天津港瑞海公司危险化学品仓库发生惊天大爆炸，火光冲天，声闻数里，数百人死于非命，亿兆财产灰飞烟灭。</p>
-<p>许多年轻的消防员一去不复返，中共官方称他们为「英雄」，试图以煽情换真相，拿高帽子堵人嘴。但自古英雄之死，都是道之所在，慷慨赴死，或杀身成仁，或舍生取义，哪有这样稀里糊涂去送死的？牺牲于天津港的消防员们和那些被飞来横祸夺去生命的普通群众一样，他们不仅死得惨，也死得冤、死得不明不白、死得心不甘情不愿！</p>
-<p>和汶川大地震、东方之星沉船事故不同，这是一场彻头彻尾、不折不扣的人祸。死难者们死于管理失效，死于怠政惰治，死于失职渎职，死于官商勾结，死于政治腐败，死于一党专制，因此，这是一场彻头彻尾、不折不扣的大悲剧，只有牺牲、没有英雄，只有悲伤、没有温情，只有愤懑、没有感动。这场灾祸，套用习近平的话说，就是「满满的负能量」。</p>
-<p>天津大爆炸让人联想起一九八六年四月发生于前苏联乌克兰境内的切尔诺贝尔核电站大爆炸。正是那场放射性相当于广岛原爆四百倍、核污染波及大半个欧洲的大爆炸掀翻了苏联「制度优越性」的盖子，多国救灾的实际需要又倒逼出对苏联以及整个世界影响深远的「公开性」政治改革。戈尔巴乔夫认为，国际社会理应了解核爆炸的真实信息，而苏联政府也无权欺骗本国人民，他说：「应该对人民说真话，不要害怕自己的人民，公开性是社会主义的本质属性。」后来有人总结说，正是切尔诺贝尔大爆炸开启了苏共亡党、苏联亡国的倒计时，可见多难未必兴邦。</p>
-<p>对于屡屡制造人为灾难并把灾难真相隐藏于制度黑箱之中的共产专制国家，「公开性」、「透明度」的确是一剂苦药，足以颠覆建立在制度性谎言基础上的一党统治合法性。灾难是一面放大镜、照妖镜，会把人们平时不甚关注的制度丑恶加倍显现，一旦打开了人祸的黑箱，人们将会一目了然地发现，制造人祸的专制政体远比灾难本身更加丑陋，也更加恐怖。</p>
-<p>然而，天津大爆炸不会产生切尔诺贝尔大爆炸那样的政治冲击波，因为习近平自封「男儿」，不愿做顺应潮流、从善如流的中国戈尔巴乔夫。而虽说中共满朝是「男儿」，在大爆炸惊魂未定的最初四天里，包括习近平在内的中共高层却全都神隐不现，只派出区区女流刘延东孤身犯险。涉事的中共中层「男儿」们更加不堪，为逃避问责乱作一团：天津市和天津港互相推诿，安监局和交通部撕破脸皮。中共的「男儿」气慨不过如此，比之前苏联，他们唯一的优越之处在于，即使人命关天，也不必考虑对人民说真话，只需护住头上的乌纱帽，守住本团伙、本派系以及本党权贵的最高利益。</p>
-<p>江、胡时代从九八抗洪到零八抗震，已经形成了一套化悲痛为感恩、变灾害为政绩的中共救灾模式。救灾成了「感动中国」的政治秀、「只有社会主义才能抢险救灾」的制度秀。在互联网高度发达的今天，这套「坏事变好事」的救灾模式已经没有票房价值。但是，习近平似乎技高一筹，他看到了灾害背后更大的政治商机：权斗正酣，民愤可用。</p>
-<p>在大爆炸之后的一个星期里，习近平的表态越来越严厉，以习的性格看，「彻查」、「严办」必不是空话。等待着天津官场的，或是一场危险程度不亚于危化品爆炸的政坛大爆炸。杨栋梁已经落网，戴相龙只待揭盅，张高丽悬在空中，站队站错了的官员固然危险，即便是靠习近平宠信才当上天津代理书记的「之江新军」成员黄兴国也难免受到误伤而仕途中落。人祸是政治斗争的加速器，正当选择性打虎步入困境，天津大爆炸的发生及时给习近平送来了清洗政敌的新炮弹。</p>
-<p>习近平政治挂帅，运动开路，「三个自信」、「四个全面」，对内好斗，对外逞强，「治国理政」风格越来越酷肖毛泽东。「一带一路」是对外大跃进，「京津冀一体化」是对内公社化。如其所愿，如今的中国真是大事不断，只不过大则大矣，只有大斗争，没有大改革，只见大祸，未见大功。这两个月，大股灾接着大爆炸，大爆炸连着大阅兵，但习当局暴力救市未果，却套牢了「国家队」，大爆炸又炸翻了天津卫。大悲之后欲大喜，习近平秀个人权力、挣党国面子的机会，也就只能指望大阅兵了。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k99yyyyyyyyy.jpg" alt="k99yyyyyyyyy" width="549" height="338"></p>
-<p>「十一」阅兵，有章可循，「九三」阅兵，史无前例，完全是习近平一时兴起。这又是毛泽东式执政风格之一例。当然，抗战胜利弥足珍贵，值得高调纪念，但是，抗战是前朝往事，是国民政府、蒋委员长领导之功，抗战牺牲了近三百位战将，只有一人是共军（左权）。即使后人不再追究当年毛共先闹摩擦、后摘桃子的假抗日、真叛乱旧事，共产党所谓「中流砥柱」充其量也只是战场上的配角。所以，若习近平果真是为了纪念抗战胜利七十周年，最恰当的纪念方式诚然不是中俄并肩阅兵，而是两岸合开纪念会，马英九为主，习近平为副，二人共同褒扬当年国府、追祭抗日将士、感谢盟国支持，那才称得上是大仪典、大器量、大格局。</p>
-<p>其实，习近平阅兵，抗战胜利只是个幌子。他的用意是一箭三雕：一是三军统帅的加冕礼：中共历任军委主席都曾大阅兵，唯独华国锋没办成，结果早早地垮台了（一九七八年五月华国锋曾想突然袭击「顺路」在海军阅兵，被邓小平愤怒阻止，连带邓的二野老部下、时任海军第一政委苏振华也被邓当作「叛徒」一脚踢开，惊吓之下抑郁而终），有此先例，习近平自然是非阅兵不可，二O 一九太久，他已经迫不及待了。二是中俄准军事同盟的确认仪式：今年五月习近平赴莫斯科给红场落寞阅兵的孤家寡人普京雪中送炭，同时中俄海军在黑海举行面向北约的联合军演，九月普京赴北京给习近平高调捧场，同时中俄海军在日本海举行针对美日的联合军演，你来我往，投桃报李，你替我撑腰，我给你壮胆，这种关系「不是同盟、胜似同盟」。三是向国际社会发出「大国崛起」的强硬信号：习近平上台以来，中日关系持续僵化，中美关系加速后退，东海、南海纷争不断，借「九三」大阅兵机会，他要把不宜用外交语言生硬表达的意思，用军体语言和行为艺术淋漓尽致地表达出来。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8uPRcUwAA9srF1.jpg" alt="CN8uPRcUwAA9srF" width="549" height="378"></p>
-<p>《老子》说，「兵者，不祥之器，非君子之器，不得已而用之。」中国古代拜将出征，「君避正殿」，仪式选在偏殿举行，乃表示用兵迫不得已，绝无耀武扬威之意。以炫耀武力为特征的近代阅兵式起源于普鲁士，由希特勒、斯大林发扬光大，北朝鲜金家王朝更将此一仪式发挥到了极致 — 这个穷凶极恶、民不聊生的小国几乎年年举办大阅兵，而和平年代的宪政民主国家从来也没有劳民伤财大办阅兵式的传统。</p>
-<p>天津大爆炸已经向官商勾结的贪官和奸商们昭示，玩火者必自焚；「九三」大阅兵也必然对中共、中国、中华民族徒劳无功，因为逞强者必自败。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%89%E9%B8%A3%EF%BD%9C%E7%8E%A9%E7%81%AB%E8%87%AA%E7%84%9A%EF%BC%8C%E9%80%9E%E5%BC%BA%E8%87%AA%E8%B4%A5-%E5%85%B3%E4%BA%8E%E5%A4%A7%E7%88%86%E7%82%B8%E4%B8%8E%E5%A4%A7%E9%98%85%E5%85%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -660,5 +754,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://d18aznhrcru07m.cloudfront.net">https://d18aznhrcru07m.cloudfront.net</a><br/></td>    </tr>
 </table>

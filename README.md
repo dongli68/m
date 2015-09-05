@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djwu5wm9cc9ed.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ab9tz3lnj07w.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,110 @@
                 <td></td>
                 
         
-        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/" target="cdt-mirror">【立此存照】天津逼签</a>
+</h2>
+<p><p><a href="http://weibo.com/bhfbt">滨海新区政府官方微博</a>连日来发布的天津爆炸事故受损住宅处置协议签约住户数量：</p>
+<blockquote><p>截止至 <strong>9月2日，4381户</strong><br><strong>9月3日 18时，7135户</strong> (＋2754户)<br><strong>9月3日 24时，9420户</strong> (＋2285户)</p></blockquote>
+<p><span><strong>细思极恐。</strong></span></p>
+<p><strong>以下内容由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/656ad908jw1evqlqokwjzj20f00qoju9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/656ad908jw1evqlqokwjzj20f00qoju9.jpg" alt="656ad908jw1evqlqokwjzj20f00qoju9" width="400" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/62064c71jw1evhivpzjbxj20qo0zkq6z.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/62064c71jw1evhivpzjbxj20qo0zkq6z.jpg" alt="62064c71jw1evhivpzjbxj20qo0zkq6z" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/62064c71jw1evhivqa1i2j20qo0zk42h.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/62064c71jw1evhivqa1i2j20qo0zk42h.jpg" alt="62064c71jw1evhivqa1i2j20qo0zk42h" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/62064c71jw1evhivqkv4fj20qo0zkn1o.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/62064c71jw1evhivqkv4fj20qo0zkn1o.jpg" alt="62064c71jw1evhivqkv4fj20qo0zkn1o" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/62064c71jw1evhivqum9lj20qo0zkjve.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/62064c71jw1evhivqum9lj20qo0zkjve.jpg" alt="62064c71jw1evhivqum9lj20qo0zkjve" width="475" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6f688e63jw1evo4xapejxj20ez0qo0vg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6f688e63jw1evo4xapejxj20ez0qo0vg.jpg" alt="6f688e63jw1evo4xapejxj20ez0qo0vg" width="400" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6ca0a725jw1evppq17hd6j20k00zk77y.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6ca0a725jw1evppq17hd6j20k00zk77y.jpg" alt="6ca0a725jw1evppq17hd6j20k00zk77y" width="400" height=""></a></p>
+<p>泉玲007：我想说对不住那些坚持的邻居，昨天公职人员被逼签，想到今天会轮到事业单位，果不其然，上午公安系统被逼迫签了，据说几个哥们签完抱头痛哭，中午本打算还信用卡，结果接到电话，孩子爸爸那边顶不住了，前几天就是一轮一轮的谈话，每次都回绝了，今天说了院长和书记都等着呢，必须签，强制</p>
+<p>飛飛茜：#天津塘沽大爆炸# 事故第二十二天下午，马上就放假了！已经没有人关注了，三号之后就更没有人关注了，媒体应该是被封口了，国家的大喜日子啊，现在政府在逼签，给单位施压，不签工作就没了，灾民从愤怒变成无奈，任人摆布！</p>
+<p>张亦夫：#天津塘沽大爆炸#看到好多被逼签的消息，我能把这理解为非武力镇压吗？</p>
+<p>bluephoenix的围脖：#天津塘沽大爆炸#十二点的钟声敲过了，逼签的工作组成员你们可以休息了吗？不会再延期了吧？大家辛苦了，都睡个好觉吧。</p>
+<p>郎乐乐：经过一夜的逼签我真的觉得很失望，经历了爆炸，救助了无助的邻居，所有人唯一的安慰是得到希望，然而我们得到的是无情的冷漠，朗朗乾坤那些坐在庙堂的关心的只有面子和乌沙，心中悠然升起悲凉至骨，失望，无奈，那类类伤痛抚平后就没有伤痕吗？</p>
+<p><strong><br><a href="http://mp.weixin.qq.com/s?__biz=MzIzNzA0OTM0NA==&mid=216982067&idx=1&sn=9ee451b9e8fac8d3b87f201e5e03910a&scene=1&srcid=09021lid8DufwZJe8ngmaw2k">海港城互助会｜逼~签~！——你们这么无耻，你家大大知道吗？ </a><br></strong></p>
+<blockquote><p>连下了两天的雨终于停了。太阳出来了。也不知哪一脚没踩住，港物局、忠海油、公物猿正斧部门等突然全部冒了出来，像打了鸡血一般，对其内部职工和人员进行全面逼签。不签就降职！不签就减薪！！不签就开除!!</p>
+<p>某企业会议通知：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/640.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/640.jpg" alt="640" width="550" height="361"></a><br>
+被迫签协议，协议上无奈手写注明了其他条款：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6402.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6402.jpg" alt="6402" width="400" height="520"></a><br>
+留了个后手，可无条件反悔：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6403.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6403.jpg" alt="6403" width="550" height="309"></a></p>
+<hr><hr><p><strong>强奸，还要你说好有快感呀……</strong></p>
+<hr><hr><p>爆炸已经21天了，直到现在，还没有任何部门或人员对受灾居民们说声对不起，也没有任何解释，没有任何关怀，没有任何诚意。</p>
+<p><strong>拿灾民当刁民，防灾民像防贼，弃灾民如敝履，收房子像强拆，逼灾民要逼命。</strong></p>
+<hr><hr><p><strong>你们这么无耻，咱家习大大知道吗？</strong></p>
+<hr><hr><p>明天是93阅兵，也是ZF给灾民签协议的93大限。没有具体比例数字的公文文件，也没有评估价格的公布，明天会怎样？看吧。</p>
+<hr><hr><p>心中又一万只草泥马奔腾而过……</p></blockquote>
+<p><strong>附：情绪稳定的微博截图</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%BB%A8%E6%B5%B7%E5%8F%91%E5%B8%83.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%BB%A8%E6%B5%B7%E5%8F%91%E5%B8%83.png" alt="滨海发布" width="500" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/screenshot-weibo-com-2015-09-05-03-19-42.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/screenshot-weibo-com-2015-09-05-03-19-42.png" alt="screenshot-weibo com 2015-09-05 03-19-42" width="500" height=""></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%A7%91%E6%99%AE%E9%9B%84%E6%96%87%E3%80%91%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8C%9C%E6%83%B3/" target="cdt-mirror">【科普雄文】花千芳：人类起源于中国的猜想</a>
+</h2>
+<p><p>【编者注】必须指出的是，“<a href="https://zh.wikipedia.org/wiki/%E9%9C%B2%E8%A5%BF_%28%E5%8D%97%E6%96%B9%E5%8F%A4%E7%8C%BF%29">露西</a>”是三百多万年前的南方古猿化石标本；“<a href="https://en.wikipedia.org/wiki/Mitochondrial_Eve">线粒体夏娃</a>”则是科学家根据线粒体DNA推算出的所有现存人类的母系最近共同祖先，非实体化石。花千芳在此文一开头就将两者混为一谈。</p>
+<p><strong>雄文选摘：</strong></p>
+<blockquote><p>听说人类的老祖宗，是一个非洲的老太太，是“夏娃”。</p>
+<p>西方的人类起源学说，认为人类的共同祖先，是一个基因突变的古代类人猿，她成功的进化为智人。而我们现在的所有人类，都是这位“夏娃”（也有人叫她露西）的女人的后代，她是整个人类的母亲。</p>
+<p>古气候学家把距今最近的一次冰川期，命名<strong>第四纪冰川期，它就发生在距今160万年到1.3万年之间</strong>。</p>
+<p>然后，我们就不能不面对一个非常尴尬的问题：基因学家证明，<strong>非洲老太太“夏娃”（其实正式的名称是露西）</strong>来自两百万年以前。等于说，现代人类（智人）的进化，要比最后一次冰川期早了起码40万年。而更加早期出现的猿人（能人）更是要推到距今七八百万年以前就出现了……说了这么多，其实我就想问一个问题：人类的老祖宗是如何躲过最后一次冰川期的？</p>
+<p>别看我们现在一个个打扮的花枝招展，实际上<strong>仅仅在五千年以前，我们都只能穿兽皮裹树叶，拎着大棒子满世界找兔子</strong>。想猎杀老虎嘛？抱歉别做梦了，老虎那东西牙尖爪利的，还那么大的劲儿，跑的又快……狭路相逢的话，还是赶紧爬树比较稳妥。不幸遇到的不是老虎而是棕熊，那你可倒霉了，爬树都没用。</p>
+<p>下一个问题就是：什么东西能够挡住冰川？[…]改变环境的不可能是峡谷，而应该是高山。[…]我们实际上可以给人类的起源划出一个固定的区域，那就是南温带到北温带之间，学术语叫做北纬30度到南纬30度之间的区域。然后我们现在随便找来一张世界地图，从东到西仔细看，我们会发现在这个区域之内，正好有一座高山，而且还是世界最高的山：<strong>青藏高原</strong>。</p>
+<p>当然，我们现在还不能确定其它地区的古代猿人和智人都冻死在了第四纪冰川期里，可是严酷的环境所带来的巨变，我们还是能从已知的历史之中略见端倪。首先就是，<strong>古埃及、古巴比伦、包括古印度和古代中国，这些创造出灿烂文化的文明古国里，主体人种都是黄种人。</strong>而这一点，再次被西方人类起源学家们刻意的忽略了。<strong>我们不是种族主义者，所以不讨论哪种肤色更高贵，可是四大文明古国都是由黄种人建立起来的</strong>，这本身就说明黄种人出现的时间更久远。<br><strong>而非洲，是不会出现黄种人的。</strong></p>
+<p>也就是说，作为一种假说，我们完全可以认为：尽管人类（猿人）在1300万年以前的时候就有可能进化出来了，可是在将近一百六十万年之久的末代冰川期里，大部分种群都没能存活下来。<strong>天堂一般的人类家园——滇藏地区的“伊甸园”成为最理想的避难所，这么一块小小的区域，延续了人类一百六十万年之久的传承</strong>。当冰川期结束，这里的人们开始追逐水草，向世界各地扩散，<strong>这使得中国成为整个人类的跟源地</strong>。</p>
+<p>值得注意的是，“伊甸园”的位置不南也不北，这样的纬度只能出现一种土著肤色：黄色。而末代冰川期的结束时间，大约是距今12500年前，中国这边因为区域地形的横向山脉作用，会提前的更早，有科学家认为末代冰川期在中国的结束时间是距今13000年前。</p>
+<p>更有意思的是，古埃及文明，诞生于大约6000到8000年前。13000年减去8000年等于5000年，这5000年的时光里，人类的祖先完成了从中国迁徙到埃及的过程，并成功的适应了当地的环境，最终创造出人类最古老的文明。是的，古埃及文明要早于古中国文明，这点没什么好避讳的，<strong>因为本来大家就是一伙儿人</strong>。埃及的文明脱颖而出，得益于尼罗河谷天然的农业条件，说白了，还是环境造就人，造就文明。</p>
+<p>再稍晚一点出现的古巴比伦文明，也就是俗称的两河文明，她的出现，只要看一眼地图就知道为什么了：距离埃及好近啊！</p>
+<p><span><strong>现在，我跟你说，我上面的这些话全是胡说八道，你信吗？</strong></span></p>
+<p>恶劣的环境催生技术的进步，过度的严寒，<strong>强迫着古代华夏智人发现了火的秘密</strong>，从最开始的自然取火，最终发展到了更为高级的人工取火。</p>
+<p>而且因为火能取暖的关系，在冰川衰退的时间段里，人类就完全有可能挺进寒冷的区域，向北进发。</p>
+<p>[…]一部分人留在了中国北方，一部分人继续向世界各地迁徙。最终，在大约六万年前，这些人来到了欧洲，并且由欧洲扩散到非洲和美洲。此后人类的发展阶段基本定型，所区别的，无非就是到了欧洲的古人逐渐变白，<strong>到了非洲的古人逐渐变黑而已</strong>。也就是说，<strong>现如今遍布全球的智人，是华夏智人的后代，人类的根，在亚洲，更具体点说，就在中国</strong>。</p>
+<p>从黑变白很困难，从白变黑当然也不容易，<strong>可是如果作为中间色的黄色，向黑白发展，就容易的多，又一个常识</strong>。</p>
+<p>距今13000年前，<strong>第四纪冰川期结束</strong>，全球气温急速升高，温暖湿润的大环境留给了人类太多的发展空间。地质学家把这段时期命名为“全新世”，不是没有道理的。</p>
+<p>从古猿进化为人猿，从已知的考古发现上来看，已经排除了非洲起源的唯一性。<br>
+从人猿进化为猿人，从已知的考古发现上来看，已经排除了非洲起源的唯一性<br><strong>从猿人进化为智人，你跟我说这事儿非洲起源有唯一性，我信吗</strong>？</p>
+<p>一条鱼爬上了海岸，说明一群鱼因为生存压力都有这个想法，所区别的无非是谁早谁晚而已。而一群鱼有了相同的想法之后，我们硬性规定这些鱼只能从非洲海岸爬上来，从别的海岸爬上来的统统不算数，这可能吗？</p>
+<p><strong>尼安德特人为什么灭亡了？我觉得这恰恰是人类中国起源学说的证据之一。</strong>尼安德特人身材高大，远比智人孔武有力，物竞天择的竞争下去，反而是尼安德特人灭绝了。这个反常的现象，只能说明一个问题，那就是尼安德特人根本不是智人，在智力上与已经进化的智人比起来，还处于猿人（能人）阶段的尼安德特人，是不可能竞争过智人的。其结果要么是被征服，要么是被灭绝，两者必存其一。</p>
+<p>那么，<strong>华夏智人凭什么胜出呢？</strong><br><strong> 很简单，因为华夏智人是青藏高原的大环境逼迫着进化出来的。</strong><br><strong>非洲猿人没有这个硬性条件的逼迫，所以停留在了猿人（能人）的阶段。</strong></p>
+<p>目前全世界的人类基因之间，有99.999%是相同的，可是相同的基因结构，只能表明人类的进化史是一样的，并不能证明人类只有唯一的一个祖先。而且即便是人类只有一对（抱歉我实在不能同意一个的说法）祖先，那么经过我们前面的推演，我们也会知道那个地点绝对不会是非洲。<strong>科学是没有国界的，可是科学家是有国界的。同理，古人类学虽然没有国界，可是古人类学家却是有国界的。</strong></p>
+<p>从研究埃及文明、两河文明开始，西方的学者们其实就已经知道了人类起源的秘密。<strong>可是“欧洲中心论”又必须维持，如果哪个西方的科学家敢公然宣称人类起源于中国，那他的各种学术研究都会被严重打压。</strong>可是不巧的是，欧洲属于极北苦寒荒芜之地，每次冰川疯长，都要把整个欧洲包裹的严严实实，这样的条件下，就算睁眼说瞎话，那也不能说人类起源于欧洲。不起源于欧洲，又不能起源于亚洲，<strong>那就只能起源于非洲了，对不对？</strong></p>
+<p>[…]在青藏高原的庇护下，中国大西南，特别是泛长江上游地区，是新出现的人猿的最佳发展和壮大的乐园，成为了人猿进化成猿人再进化成智人的<span><strong>唯一场所</strong></span>。</p>
+<p><span><strong>井底之蛙，不足以语天下</strong></span>。最高海拔八千八百四十多米的青藏高原，不是一些<strong>钻故纸堆看显微镜的所谓学者</strong>能够理解的。站在大山脚下，你的目光止于山顶；站在大山之巅，你的目光可以远达星空。虽然以上的学说缺乏有效实证，仅仅是做了<strong>常识性理论探讨</strong>，或者有所不足，也欢迎后来者指正……其实，我挺希望有人能反驳这些观点的，<strong>可惜的是，不会有人能拿出证据来</strong>。起码，先总要把爹妈的问题搞明白吧！</p>
+<p>科普文章，<strong>不求甚解</strong>，有意在这个领域深入研究的同学，可以像俺一样，去读黄饮冰先生的系列学术著作。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：<br></strong><br>
+@美国大兵净多: 【人类起源于八千八百四十多米的青藏高原】——若真如此，我们必须信上帝，这是个神迹啊。还有文中这句：【首先就是，古埃及、古巴比伦、包括古印度和古代中国，这些创造出灿烂文化的文明古国里，主体人种都是黄种人。】——本论文真是天雷滚滚，劈死人不偿命啊。</p>
+<p><a title="Lee_Kylin" href="http://weibo.com/u/2730128665"> Lee_Kylin</a>：您还是写您的星辰大海去吧，这篇文章证明了写作还是需要智商的。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/3629453593" target="_blank">FuZhenYu163</a>：对于掌握了宇宙真理的那一群人来说，这不算事！<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a title="神经质的zyc" href="http://weibo.com/u/2672232652"> 神经质的zyc</a>：看到西方的起源学说这里我又从头看了两遍，差点怀疑人生。<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p>@chinanoiser：每一个了论据都精确的写错了，真不容易。</p>
+<p>@yangcosmo：这科普简直是高大上！我竟无言以对！</p>
+<p>@四不想：花公公最新巨作：人类起源于青藏高原…..学术界评论：带老重新定义了爱国，花老重新定义了人类….</p>
+<p>@城市布足：我分享了@花千芳 的文章 O人类起源于中国的猜想能把一些屁话引经据典堆起来，还弄得跟喜玛拉雅山似的也真的不容易，对这种明知道自己不能留芳千古也一定要遗臭万年的坚持喝声采是必须的，—-好呕！</p>
+<p>@路德维希1985：麻麻。。。这人是煞笔么。。。</p>
+<p>@福泽谕吉_：花相写文章有一个好，一篇文章能钓出十几篇气急败坏的科普文章</p>
+<p>@哆嘎叽：山海经</p>
+<p>@己所欲不施于人：当年太祖连基本数理化知识都不懂也敢忽悠哲学</p>
+<p>@WILLYCHENWILLY：花公公，青龙山精神病院只有一张床位了，你需要的话，哥可以开个后门给你留着，哥上面有人，不谢</p>
+<p>@Ars阿荣：花是不是党的文化先锋？大家猜想一下！</p>
+<p>@梵高在BOE：他为啥不去当编剧</p>
+<p>@你不知道我叫阿莱：谁教你地球是圆的⊙▽⊙</p>
+<p>@赵作家：据说白鳍豚也起源于中国……PO主其心可诛啊……</p>
+<p>@客栈店小八：个人觉得是大大在下一坨巨大的棋:看，只要听话，傻逼也能上位！</p>
+<p>@触碰这世界：花总第七节说“现在我说是胡说八道，你信么”当时我就懵了，难道不是么…</p>
+<p>@黑夜漫漫__：上知天文，下知地理，左说考古，右说现代，前侃文明，后证脑残。</p>
+<p>@顾天羽此昵称太受欢迎：花副主席所在的作协全名可能叫作死协会。</p>
+<p>@育才老殷：只看评论，就知道各路五毛也崩溃了</p>
+<p>@王小峰_带三个表：错别字病句比以前少多了，部分用词也比以前准确，再努力一下，可开创“政治幻想论文”先河。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%A7%91%E6%99%AE%E9%9B%84%E6%96%87%E3%80%91%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8C%9C%E6%83%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%99%BA%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">反智主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8D%83%E8%8A%B3/?category=18271" rel="tag">花千芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8F%B8%E9%A9%AC/?category=18271" rel="tag">花司马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%A7%91%E6%99%AE%E9%9B%84%E6%96%87%E3%80%91%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8C%9C%E6%83%B3/" target="cdt-mirror">【科普雄文】人类起源于中国的猜想</a>
 </h2>
 <p><p>【编者注】必须指出的是，“<a href="https://zh.wikipedia.org/wiki/%E9%9C%B2%E8%A5%BF_%28%E5%8D%97%E6%96%B9%E5%8F%A4%E7%8C%BF%29">露西</a>”是三百多万年前的南方古猿化石标本；“<a href="https://en.wikipedia.org/wiki/Mitochondrial_Eve">线粒体夏娃</a>”则是科学家根据线粒体DNA推算出的所有现存人类的母系最近共同祖先，非实体化石。花千芳在此文一开头就将两者混为一谈。</p>
@@ -85,7 +186,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%99%BA%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">反智主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8D%83%E8%8A%B3/?category=18271" rel="tag">花千芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8F%B8%E9%A9%AC/?category=18271" rel="tag">花司马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BB%95%E5%9B%BE%EF%BD%9C%E5%94%90%E4%B8%89%E8%97%8F%E4%B8%8D%E6%84%A7%E4%B8%BA%E6%8A%97%E5%A6%96%E6%88%98%E4%BA%89%E7%9A%84%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/" target="cdt-mirror">仕图｜唐三藏不愧为抗妖战争的中流砥柱</a>
 </h2>
@@ -410,7 +511,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">南周新年献辞事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD%E5%91%A8%E5%88%8A/?category=18271" rel="tag">南都周刊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9C%9F%E5%BF%83%E4%B8%8D%E8%83%BD%E7%9B%B4%E8%A7%86%EF%BC%8C%E5%BD%AD%E9%BA%BB%E9%BA%BB%E7%9C%8B%E9%80%8F%E4%BA%86%E4%B8%80%E5%88%87/" target="cdt-mirror">【河蟹档案】真心不能直视，彭麻麻看透了一切</a>
 </h2>
@@ -715,44 +816,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E5%9D%A6%E5%85%8B%E9%87%8D%E8%BF%94%E5%B9%BF%E5%9C%BA/" target="cdt-mirror">自由亚洲 | 变态辣椒：坦克重返广场</a>
-</h2>
-<p><p>为了准备这次所谓的反法西斯战争胜利70周年的大阅兵，中共最近的各种维稳手段一再升级，扰民的程度一再突破想象。坦克的履带再次重返天安门广场，让人不能不联想到那年的“六四”。用子弹和履带夺去学生们生命的，和今天接受习近平检阅的，是同一支军队。“人民军队跟党走”，中共在炫耀暴力的时候完全不理会这句话在逻辑上的荒谬之处。看着中共媒体大肆宣扬阅兵部队如机器人般的训练细节，想到中共统治下的这支军队，强调的是“螺丝钉”精神，强调的是“党指挥枪”，消灭了人性，把士兵们都变成没有感情的杀戮机器，让“人民子弟兵”随时准备消灭“敌人”，因此感悟，画下了这辆习近平指挥的由人体组成履带的坦克。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/b069b0ee-3898-4f0c-894b-6a64fc8af66a.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/b069b0ee-3898-4f0c-894b-6a64fc8af66a.jpeg" alt="变态辣椒: 坦克重返广场" width="622" height="475"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E5%9D%A6%E5%85%8B%E9%87%8D%E8%BF%94%E5%B9%BF%E5%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9D%A6%E5%85%8B%E4%BA%BA/?category=18271" rel="tag">坦克人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%98%85%E5%85%B5/?category=18271" rel="tag">大阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA/?category=18271" rel="tag">天安门广场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%919-3%E5%A4%A7%E9%98%85%E5%85%B5%E4%B9%8B%E8%9B%A4%E4%B8%9D%E7%9A%84%E7%8B%82%E6%AC%A2/" target="cdt-mirror">【敏感词库】9.3大阅兵之蛤丝的狂欢</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262387086.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262387086.jpg" alt="mmexport1441262387086" width="400" height=""></a><br><em>（网络图片）</em></p>
-<blockquote><p>你会不会忽然的出现，在天安门楼上面。你会带着笑脸，挥手寒暄，把我再批判一番；我多么想和你见一面，看看你最近改变。你仍戴着眼镜，裤带高悬，听你讲一点，哪怕只一点，人生经验～ <a href="http://lvv2.com/t/277710/title-%E4%BD%A0%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BF%BD%E7%84%B6%E7%9A%84%E5%87%BA%E7%8E%B0%EF%BC%8C%E5%9C%A8%E5%A4%A9%E5%AE%89%E9%97%A8%E6%A5%BC%E4%B8%8A%E9%9D%A2%E3%80%82%E4%BD%A0%E4%BC%9A%E5%B8%A6%E7%9D%80%E7%AC%91%E8%84%B8%EF%BC%8C%E6%8C%A5%E6%89%8B%E5%AF%92%E6%9A%84%EF%BC%8C%E6%8A%8A%E6%88%91%E5%86%8D%E6%89%B9%E5%88%A4%E4%B8%80%E7%95%AA%EF%BC%9B%E6%88%91%E5%A4%9A%E4%B9%88%E6%83%B3%E5%92%8C%E4%BD%A0%E8%A7%81%E4%B8%80%E9%9D%A2%EF%BC%8C%E7%9C%8B%E7%9C%8B%E4%BD%A0%E6%9C%80%E8%BF%91%E6%94%B9%E5%8F%98%E3%80%82%E4%BD%A0%E4%BB%8D%E6%88%B4%E7%9D%80">via @eleven_K</a></p></blockquote>
-<p>中国9.3大阅兵，江泽民在众多蛤丝的翘首期盼中终于现身，“<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/">为长者续命</a>”活动再一次掀起了高潮。</p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BB%E4%BA%BA%E7%9A%84%E9%9E%AD%E5%AD%90%E5%A5%BD%E6%BC%82%E4%BA%AE%E5%95%8A/">【网络民议】主人的鞭子好漂亮啊 </a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-%E6%BC%AB%E7%94%BB%E5%90%90%E6%A7%BD%E7%9B%B4%E6%92%AD%E5%A4%A7%E9%98%85%E5%85%B5/">变态辣椒 | 漫画吐槽直播大阅兵</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E6%B3%BD%E4%B8%9C%E3%80%81%E4%BB%A4%E5%BE%90%E9%83%AD-%E7%AD%89%E7%83%AD%E7%82%B9-2015-8-25/">【敏感词库】“长者续命”、“刘部长” 等近日热点 2015-8-28</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2015/08/%E4%B8%8D%E7%9F%A5-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E9%95%BF%E8%80%85%EF%BC%9F%E9%95%BF%E8%80%85%E9%A3%8E%E9%9D%A1%E7%BD%91%E7%BB%9C%E8%83%8C%E5%90%8E%E7%9A%84/">不知 | 为什么人们怀念长者？长者风靡网络背后的制度难题</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%90%8D%E8%80%81%E6%B4%BE%E6%96%87%E8%89%BA%E9%9D%92%E5%B9%B4%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/">黄薄码 | 一名老派文艺青年的自我修养</a></li>
-</ul></blockquote>
-<p>［新浪微博搜索禁词测试时间：2015年9月3日］</p>
-<p><strong>蛤</strong><br><strong> 长者</strong><br><strong> 续命</strong><br><strong> excited</strong><br><strong> 胡＋帕金森</strong>（有网民在阅兵视频中发现胡锦涛左手不可控制地抖动，疑患帕金森症）</p>
-<p><em>复测：</em><br><strong>江泽民</strong><br><strong> JZM</strong><br><strong> 习＋江</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%9B%A4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%9B%A4.png" alt="蛤" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%95%BF%E8%80%85.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%95%BF%E8%80%85.png" alt="长者" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%BB%AD%E5%91%BD.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%BB%AD%E5%91%BD.png" alt="续命" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/excited2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/excited2.png" alt="excited2" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%83%A1-%E5%B8%95%E9%87%91%E6%A3%AE.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%83%A1-%E5%B8%95%E9%87%91%E6%A3%AE.png" alt="胡 帕金森" width="475" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg" alt="mmexport1441262564551" width="525" height="347"></a><br><em>（网络图片）</em></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%919-3%E5%A4%A7%E9%98%85%E5%85%B5%E4%B9%8B%E8%9B%A4%E4%B8%9D%E7%9A%84%E7%8B%82%E6%AC%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A6%E6%B6%9B/?category=18271" rel="tag">胡锦涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -764,7 +827,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2c4syz42pdehe.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ab9tz3lnj07w.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -774,5 +837,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/></td>    </tr>
 </table>

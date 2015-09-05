@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dnl2exo99l6zb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dceagu0fb34ko.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/" target="cdt-mirror">【立此存照】天津逼签</a>
@@ -522,7 +522,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 <p>*<a href="https://freeweibo.com/weibo/%40%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BA%BA%E5%95%8A">全世界最美丽的人啊</a>：看评论才注意到手在抖<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/222.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/222.gif" alt="222" width="304" height="448"></a><br><a href="https://freeweibo.com/weibo/3882991568911125" target="/weibo/388">2015年09月03日</a></p>
 <p>*<a href="https://freeweibo.com/weibo/%40Monster_%E5%B8%86%E6%9D%A5%E5%B8%86%E5%8E%BB">Monster_帆来帆去</a>：真心不能直视惹<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A8%B1%E4%B9%90%E8%B5%84%E6%9C%AC%E8%AE%BA%EF%B8%B1%E5%A4%AE%E8%A7%86%E5%AF%BC%E6%92%AD%E5%90%90%E6%A7%BD%E9%98%85%E5%85%B5%EF%BC%9A%E5%85%A8%E7%A8%8B%E6%9C%89%E4%B8%89%E5%A4%A7%E6%A7%BD%E7%82%B9/" target="cdt-mirror">娱乐资本论︱央视导播吐槽阅兵：全程有三大槽点</a>
 </h2>
@@ -827,7 +827,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2385x5n2n6k78.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -837,5 +837,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/><a href="https://dceagu0fb34ko.cloudfront.net">https://dceagu0fb34ko.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/><a href="https://d3d8eyhbg0kfq2.cloudfront.net">https://d3d8eyhbg0kfq2.cloudfront.net</a><br/></td>    </tr>
 </table>

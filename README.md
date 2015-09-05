@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1p6rdai1j60v4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32aoep1a8v7ro.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%A7%91%E6%99%AE%E9%9B%84%E6%96%87%E3%80%91%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8C%9C%E6%83%B3/" target="cdt-mirror">【科普雄文】人类起源于中国的猜想</a>
@@ -774,5 +774,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://d3ab9tz3lnj07w.cloudfront.net">https://d3ab9tz3lnj07w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d32aoep1a8v7ro.cloudfront.net">https://d32aoep1a8v7ro.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://d1p6rdai1j60v4.cloudfront.net">https://d1p6rdai1j60v4.cloudfront.net</a><br/><a href="https://d2c4syz42pdehe.cloudfront.net">https://d2c4syz42pdehe.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/></td>    </tr>
 </table>

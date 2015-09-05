@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djwu5wm9cc9ed.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ia6yt07wp62m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E4%BA%AC%E3%80%8C%E9%98%85%E5%85%B5%E8%93%9D%E3%80%8D%E5%AE%8C%E4%BA%86%E3%80%8C%E5%B8%B8%E6%80%81%E7%81%B0%E3%80%8D%E5%A4%8D%E6%B4%BB/" target="cdt-mirror">东方日报｜北京「阅兵蓝」完了「常态灰」复活</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k8a.jpg" alt="k8a" width="550" height="511"></p>
+<p>为确保抗战胜利七十周年阅兵顺利举行，北京当局在上月底推出一系列强硬减排措施，在周边省市倾力配合下，继去年「 APEC 蓝」后成功再次打造出「阅兵蓝」。然而，纪念活动曲终人散的第一天，「常态灰」旋即进驻北京城，一切「打回原形」，不少网民纷纷慨叹，蓝天白云就像变魔术一样消失。</p>
+<p>有网民在微博上发布照片，对比九月三日及四日两天北京天空的情况。照片中，九月三日的北京天空一片蔚蓝，更可清晰看到空中梯队的彩烟，惟同一地方，在四日就截然不同，画面又灰又蒙，建筑物被雾霾笼罩。</p>
+<p>网民叹快如变魔术</p>
+<p>不少网民都不能接受「阅兵蓝」瞬间变成「常态灰」，称「阅兵蓝一下就没了，感觉好神奇，和变魔术一样，习惯了美好的蓝天，突然有一种不安感」；有网民笑言「雾霾真懂事！」亦有网民笑指没有雾霾反而浑身不自在：「打开车窗，深深吸了一口雾霾，这才是北京啊。」</p>
+<p>据了解，北京当局在八月廿日，即阅兵两星期前，推出一系列减排政策，誓要打造「阅兵蓝」，当中要求北京周边六个省市区，包括河北省、天津市、山西省、内蒙古自治区、山东省及河南省统一实施临时减排措施，目标将主要污染物排放量同比减掉三成，北京更要大减四成，造就了九月三日阅兵期间的大片蓝天，也创下了自八月廿日以来连续十五天微细悬浮粒子 PM2.5 监测一级优良的纪录。</p>
+<p>雨天水浸 交通挤塞</p>
+<p>根据北京美国驻华大使馆空气质量数据显示，抗战七十周年纪念活动结束后，北京空气质素变差，至四日凌晨已达到中度污染水平，在中午最高更达到一百五十八，属四级中度污染。</p>
+<p>另外，北京当地在昨日起一连三日取消车辆限行，加上天雨致水浸，使北京主要行车道车满为患，甚至有人怀念阅兵前，行车道畅通无阻的情景。</p>
+<p>北京美国驻华大使馆监测空气质量指数<br>
+8 月 3 日： 153 （四级中度污染） 9 月 3 日： 46 （一级优良） 9 月 4 日： 158 （四级中度污染）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E4%BA%AC%E3%80%8C%E9%98%85%E5%85%B5%E8%93%9D%E3%80%8D%E5%AE%8C%E4%BA%86%E3%80%8C%E5%B8%B8%E6%80%81%E7%81%B0%E3%80%8D%E5%A4%8D%E6%B4%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/?category=18271" rel="tag">法西斯蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D%E7%B2%BE%E9%80%89/?category=18271" rel="tag">法西斯蓝精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C9-3%E5%A4%A7%E9%96%B1%E5%85%B5%E7%87%92%E9%8C%A2%E6%96%99%E9%81%94215%E5%84%84%E5%85%83/" target="cdt-mirror">苹果日报｜9.3大閱兵燒錢料達215億元</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201509040720china1.jpg" alt="201509040720china1" width="396" height="218"></p>
+<p>9.3大阅兵盛况空前，但北京究竟花多少钱，内地媒体对此噤若寒蝉。有内地学者指，今次仅阅兵一项花费比6年前阅兵的6亿元（人民币．下同）多。《苹果》记者以筹备阅兵至今，官方所做的一切工作粗略计算，其花费高达215亿元。</p>
+<p>    台湾知名财经专家蔡明彰在当地电视台《新台湾加油》节目表示，北京9.3大阅兵应比京奥（不含场馆建设）花的钱更多，至少花费700亿台币（约167亿港币），包括上千家企业停产停工等。</p>
+<p>    《苹果》记者以阅兵具体项目计算，为确保阅兵蓝，北京市内1,927家厂房自8月中停产，若每家厂商日损失50万元计，停产20日经济损失达192亿元；85万名北京市民上街站岗14日，每人每日100元车马费，合共12亿元；参加阅兵的1.2万名解放军训练一个月，以及867名外国军人训练两星期，每日伙食费以50元计，合共需1,900万元；当局勒令王府井、前门、大栅栏、西单、东单五大商区停业2日，商家损失约10亿元。以上粗计，尚未算各地因阅兵而维稳的费用，花费就超过215亿元。</p>
+<p>    北京知名经济学家茅于轼接受《苹果》记者电话查询时指，此次阅兵具体花费多少「很难估计」，但他认为只会比2009年10月1日那次多不会少。</p>
+<p>    2009年那次阅兵，解放军退役少将徐光裕透露，仅阅兵一项估计总开支为6亿元，较1999年国庆阅兵花费要少很多。中共党媒《人民日报》网昨刊文驳阅兵是「劳民伤财」，称「普通人办喜事也花钱，何况乎国家」</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C9-3%E5%A4%A7%E9%96%B1%E5%85%B5%E7%87%92%E9%8C%A2%E6%96%99%E9%81%94215%E5%84%84%E5%85%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E9%BB%91%E5%B9%95%E6%94%BF%E6%B2%BB%E5%A6%82%E4%BD%95%E5%85%AC%E5%BC%80%E6%89%93%E5%90%AC%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：黑幕政治如何“公开打听”？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/08/BuKujooCAAEQXTn.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/08/BuKujooCAAEQXTn.jpg" alt="小乖 央视 郭美美" width="575" height=""></a><br><em>（漫画作者：李小乖）<br></em><br>
@@ -621,54 +660,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A9-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D/" target="cdt-mirror">联合新闻网 | 纪念抗战胜利 马英九总统发表谈话</a>
-</h2>
-<p><p>马英九总统今前往国防部主持「纪念抗战胜利七十周年暨民国104年军人节」庆祝活动，以世界、中华民国及台湾等三个层面，论述政府纪念「对日抗战胜利与台湾光复」的意义，并重申我国举办纪念抗战相关活动系基于「侵略的错误或可原谅，历史的真相不能遗忘」的信念，「不是要挑起仇恨，而是要谴责侵略；不是要炫耀胜利，而是要追求和平」。</p>
-<p><strong>马总统致词全文：</strong></p>
-<p>今年是抗战胜利七十周年，七十年前的今天，日本代表在东京湾美国战舰密苏里号上签署降书、向同盟国无条件投降，正式结束第二次世界大战。刚才我也颁赠了8位曾经参与抗战的前辈们「抗战胜利纪念章」。为了感谢国内外的抗战前辈，从今年7月起，我们开始颁发「抗战胜利纪念章」，到目前为止，已经发送了6,653枚，其中大陆地区有705位申请，已经发放了402枚。</p>
-<p>我在这里要代表政府与全国同胞，向所有抗战的前辈们表达最高的敬意与最深的感激，各位的牺牲与奉献，换来了国家的生存与民族的尊严，这段历史，中华民国永远不会忘记！全世界爱好和平的人士也永远不会忘记！</p>
-<p>现在，我要从世界、中华民国以及台湾三个层面，来谈谈纪念对日抗战胜利与台湾光复的意义。</p>
-<p>首先，八年抗战不但挽救了中华民国、光复了台湾，也帮助同盟国赢得第二次世界大战。</p>
-<p>八年抗战是中华民族历史上规模最大、死伤最多、影响最深的民族保卫战。国军以落后的装备与训练，对抗先进精良的日军，历经重大会战22次，大型作战1,100多次、小型作战3万8千多次；官兵伤亡322万人，共有268位将领殉国，百姓死伤更在2,000万人以上。但是国军不妥协、不投降，坚持到底，终于获得最后胜利。</p>
-<p>民国30年12月珍珠港事变后，我国对日宣战，与英、美结盟抗日。国军也承担责任，到境外作战，其中最着名的就是民国31年4月，国军新38师所属的113团刘放吾团长率领全团八百官兵，在缅甸击溃数倍兵力的日军，解救了7,000多位英军、记者及传教士，轰动中外，史称「仁安羌大捷」，这更是国军境外作战的首次大捷。参加这场战役的英国前陆军上尉费兹派翠克先生今天也在现场，他曾经出版三本书记录这段历史，强调中华民国当年身陷苦战，仍然援助友邦，力克强敌的故事。</p>
-<p>抗战期间，美国总统罗斯福曾经在军事及外交上大力协助我国。 他说过：「二次大战胜利的一个关键，就是中国全力坚持对日作战，避免了日本与德国会师，将战场连成一线」。英国牛津大学教授芮纳．米德（Rana Mitter）在他2014年专书《被遗忘的盟友》序言中也强调：「中国的抗战是在毫无胜算之下，坚忍不拔、不顾一切、奋战到底的英勇故事。证明外国记者和外交官一再唱衰中国，认为中国必将灭亡的预言完全错了。 这个贫穷、低度开发的国家，孤军奋斗，力抗日本4年，牵制了80万全球最现代化的雄师劲旅；同盟国能在欧、亚战场同时作战，节节胜利，多靠中国与日本缠斗不休」。这些都说明了我国抗战的艰辛与血泪，以及对二战胜利的卓越贡献。</p>
-<p>从第二次世界大战结束到现在的70年间，国共内战、韩战与东西方的冷战相继登场，国际情势发生巨变，使得中华民国对日抗战的英勇奋斗以及对二战的贡献往往被国际社会所忽略。随着时代变迁，档案开放，史观也日趋多元，这段历史在70年后的今天终于逐渐得到应有的重视，不再「被遗忘」了。</p>
-<p>接下来，我想和各位谈谈抗战对中华民族的意义。近年来，关于「谁领导抗战」的议题，成为国内外关注的焦点。长期以来，中共自称领导抗战，共军是「中流砥柱」，忽视当年国民政府领导全国军民八年抗战的历史与贡献，我们感到非常遗憾。</p>
-<p>中共曾参与抗战，这一点我们从不否认；但中共并非居于主导地位，而是辅助地位，也是事实。民国26年7月7日「卢沟桥事变」后，蒋中正委员长在7月17日发表「庐山谈话」，号召全国军民：「地无分南北，年无分老幼，无论何人，皆有守土抗战之责任」。9月22日公布的「共赴国难宣言」，中共响应政府号召投入抗战，经军事委员会收编为第八路军与新四军，之后八路军改为第十八集团军。但几乎同一时间，中共就确定了「七分壮大、二分应付、一分抗日」的发展策略。</p>
-<p>十年前，抗战胜利60周年的时候，中共曾经把抗战划分为「正面战场」及「敌后战场」，肯定国民政府领导正面战场，但强调共军在敌后战场的贡献。事实上，随着大量史料公开，很清楚的可以看到，抗战期间不论正面或敌后，国民政府始终居于领导地位。</p>
-<p>在抗战期间的22次重大会战当中，中共唯一参与的所谓「正面作战」，是民国26年9月太原会战当中的一场「平型关战斗」，动员了第115师1个团兵力歼灭日军500余人的补给部队。此后，中共就转往敌后从事游击战，如所谓「百团大战」，采取尽量避免与日军正面作战策略，保存实力，并吞地方部队，甚至攻击国军，扩大地盘。</p>
-<p>抗战8年268位殉国的将领中，仅有1位前八路军的少将副参谋长左权属共产党籍，这与国军其他267位将领的惨重牺牲两相对照，抗战是谁领导的，已经十分清楚。更何况所有的重大会战与大型作战都是国军主导，抗战胜利后，东京湾盟军受降典礼由国军参加、中国战区国内外受降典礼也全部由国军主持。</p>
-<p>历史真相只有一个，抗战是国民政府蒋中正委员长领导全国军民艰苦奋斗的成果。没有抗战胜利，就没有台湾光复；没有国军牺牲奋斗，也不会有今天中华民国自由、民主、繁荣的生活。我身为中华民国总统，有责任将这段国家重要历史清楚的交代，并传承给后代，不容抹煞。</p>
-<p>最近，我一再呼吁，面对第二次世界大战的历史，日本政府应该正视史实，就事论事。七年多来，海峡两岸在「九二共识、一中各表」的基础上，开始了历史性的和解与合作，我们深切盼望，在两岸交流空前频繁的此刻，大陆当局能够以同样的原则，看待抗战。对日抗战将永远铭刻在中华民族历史上，前人「留取丹心照汗青」，后人更应「不容青史尽成灰」。两岸人民同属中华民族，都是炎黄子孙，都应该忠于抗战历史，永志不忘。大陆当局如果能主动以「面对历史，实事求是；面对老兵，将心比心」的态度，公开表示「八年抗战由国民政府领导、中共参与辅助」，既符合历史，也展现高度，这样才能获得海内外华人的肯定。</p>
-<p>第三，我想与各位谈谈台湾人民的抗日与抗战。历史上，台湾人民的抗日与抗战，要比大陆人民至少早30年。我们先从抗日谈起。1894年甲午战争清廷战败，次年被迫签订《马关条约》，割让台湾给日本，消息传出，举国震惊，全台悲愤。当年进京赶考的全国举人「不畏斧钺之诛」，以「公车上书」提出「弃台民即散天下」的警告。台籍进士丘逢甲的着名诗句「宰相有权能割地，孤臣无力可回天」，以及次年又写下的「四百万人同一哭，去年今日割台湾」，充分反映了当时台湾人的痛心与无奈。台湾反侵略、反殖民的武装抗日行动，从1895年5月，日军在北台湾澳底登陆就开始，到1915年台南爆发的「噍吧哖（西来庵）事件」，已长达20年之久，之后再转为非武装抗日。这在世界殖民史上，是相当罕见的抗争实例。</p>
-<p>抗日先烈先贤中，包括成立「台湾民主国」的丘逢甲、刘永福；组织新竹义勇军的吴汤兴、徐骧、姜绍祖；台中的林朝栋；彰化的吴彭年、云林的李品三、屏东的萧光明；领导游击战的「抗日三猛」林少猫、简大狮、柯铁虎；发动台南「噍吧哖事件」的余清芳、罗俊、江定；主导「雾社事件」的原住民莫那鲁道；在民国成立后返台参与或协助起义的罗福星、林祖密等，这些先烈先贤的抗日行动，我们永远不会忘记。在日军据台的第一年，各地激战连连，日军费时6月、多次增兵才结束「乙未战争」。日本的近卫师团长北白川宫能久亲王（中将）以及近卫步兵第2旅团长山根信成少将都在战争中死亡，战斗情况激烈得无法想像，根据学者估计，台湾军民死亡人数超过十万人。日本总督府民政长官后藤新平在1921年所写的《日本殖民政策一斑》一书中也曾坦承，光是1898年到1902年，就利用总督府颁布的「匪徒刑罚令」诱杀了台湾抗日志士达11,950人。</p>
-<p>日本开始殖民统治后，台湾抗日行动一直持续，除了武装抗日外，还有以新闻、教育、文化等方式，推动非武装抗日、争取自治民主、设立议会的先进，包括林献堂、蒋渭水、廖进平、翁俊明、连雅堂、蔡培火、简吉等以及后期的蔡忠恕、李建兴等的地下运动。台湾的抗日运动，不但持久，而且波澜壮阔，令人动容。</p>
-<p>再谈抗战。抗战时期，李友邦将军组编「台湾义勇队」在闽浙沿海游击抗日；翁俊明领导「台湾革命同盟会」；李万居等台籍人士参与「国际问题研究所」；丘念台组织广东「东区服务队」；林正亨加入缅甸远征军；谢东闵、黄朝琴、连震东等先贤也贡献心力，他们志在光复台湾，同样令人感动不已。</p>
-<p>先烈先贤的做法虽各有不同，但都志在追求自由与民主。更重要的是，他们都证明：台湾当时虽然是日本殖民地，但他们效忠的祖国并不是日本。台湾同胞抗日决心非常坚定，充分展现了台湾的主体性。</p>
-<p>最近，国内关于台湾人的抗日与抗战有一些讨论。对此，我必须表达我的态度：我绝对尊重不同族群的历史记忆，也明白在历史格局当中，人民面对时代与命运，有许多无奈与感伤。但是，台湾多少前辈，前仆后继，为了反侵略与反殖民付出心血、甚至生命，史实俱在，不容选择性遗忘，更不能让子孙不知道这一段重要的历史。如同于右任先生的诗句：「不容青史尽成灰」，这就是我的基本态度，也是中华民国面对国史应有的态度。而我们讲述这段历史，是为先烈先贤发声，也让当代社会对这段重要历史留下见证，这是我无可回避的职责。</p>
-<p>8月14日，日本安倍晋三首相发表战后七十周年谈话，提及日本「侵略」与「殖民」的错误，以及日本「对妇女尊严与荣誉的严重侵害」。中华民国政府相信日本愿意反省检讨，但更希望日本未来能够做得更多、更好。</p>
-<p>我要再次重申，我们纪念抗战胜利暨台湾光复七十周年，是基于「侵略的错误或可原谅，历史的真相不能遗忘」的信念。我们不是要挑起仇恨，而是要谴责侵略；不是要炫耀胜利，而是要追求和平。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A9-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%B5%B4%E5%9B%BD%E9%9A%BE%E5%AE%A3%E8%A8%80/?category=18271" rel="tag">共赴国难宣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BF%86/?category=18271" rel="tag">历史记忆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E8%83%9C%E5%88%A9/?category=18271" rel="tag">反法西斯胜利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">反法西斯胜利70周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗战历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A9/?category=18271" rel="tag">抗战胜利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%A5%BF%E6%96%B9%E4%B8%BB%E8%A6%81%E5%9B%BD%E5%AE%B6%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%8D%E5%8F%82%E5%8A%A0%E6%8A%97%E6%88%9870%E5%91%A8/" target="cdt-mirror">【真理部】西方主要国家最高领导人不参加抗战70周年大阅兵</a>
-</h2>
-<p><p>关于西方主要国家最高领导人不参加9月3日抗战70周年大阅兵一事，不评论，不炒作。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%A5%BF%E6%96%B9%E4%B8%BB%E8%A6%81%E5%9B%BD%E5%AE%B6%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%8D%E5%8F%82%E5%8A%A0%E6%8A%97%E6%88%9870%E5%91%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -680,7 +671,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djwu5wm9cc9ed.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2nhe34jfu4tcj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -690,5 +681,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://djwu5wm9cc9ed.cloudfront.net">https://djwu5wm9cc9ed.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/><a href="https://d2fdtucska1pl4.cloudfront.net">https://d2fdtucska1pl4.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/><a href="https://d12yf3ck4n9fv0.cloudfront.net">https://d12yf3ck4n9fv0.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/><a href="https://d1ra0homwehy5l.cloudfront.net">https://d1ra0homwehy5l.cloudfront.net</a><br/></td>    </tr>
 </table>

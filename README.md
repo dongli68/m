@@ -123,7 +123,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%99%BA%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">反智主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8D%83%E8%8A%B3/?category=18271" rel="tag">花千芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8F%B8%E9%A9%AC/?category=18271" rel="tag">花司马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%A7%91%E6%99%AE%E9%9B%84%E6%96%87%E3%80%91%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8C%9C%E6%83%B3/" target="cdt-mirror">【科普雄文】人类起源于中国的猜想</a>
 </h2>
@@ -186,7 +186,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%99%BA%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">反智主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8D%83%E8%8A%B3/?category=18271" rel="tag">花千芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8F%B8%E9%A9%AC/?category=18271" rel="tag">花司马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BB%95%E5%9B%BE%EF%BD%9C%E5%94%90%E4%B8%89%E8%97%8F%E4%B8%8D%E6%84%A7%E4%B8%BA%E6%8A%97%E5%A6%96%E6%88%98%E4%BA%89%E7%9A%84%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/" target="cdt-mirror">仕图｜唐三藏不愧为抗妖战争的中流砥柱</a>
 </h2>
@@ -668,7 +668,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">强拆十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%99%92%E5%AD%A9%E5%AD%90%E6%99%92%E6%88%90%E5%8F%B0%E7%8B%AC/" target="cdt-mirror">【立此存照】晒孩子晒成台独</a>
 </h2>

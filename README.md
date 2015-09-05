@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1na8m52edc826.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dnl2exo99l6zb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/" target="cdt-mirror">【立此存照】天津逼签</a>
@@ -639,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%BC%A0%E5%87%AF%E6%B6%89%E4%B8%BA%E5%A2%83%E5%A4%96%E7%AA%83%E5%8F%96%E3%80%81%E9%9D%9E%E6%B3%95%E6%8F%90%E4%BE%9B%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/" target="cdt-mirror">自由亚洲｜张凯涉为境外窃取、非法提供国家秘密罪</a>
 </h2>
@@ -827,7 +827,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1na8m52edc826.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1npmotnr58n1s.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -837,5 +837,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1npmotnr58n1s.cloudfront.net">https://d1npmotnr58n1s.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d2nhe34jfu4tcj.cloudfront.net">https://d2nhe34jfu4tcj.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ohwx3tqmh35j.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2j46hvfeznfk4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,72 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/" target="cdt-mirror">【网络民议】今天我都是小粉红</a>
+</h2>
+<p><p>9月3日，纪念中反法西斯战争胜利70周年阅兵在天安门广场举行。台湾女星范玮琪因为3日上午继续晒双胞胎儿子照片，遭到了不少“爱国网友”抨击，指其不爱国，对“人人都看”的大阅兵不加关注。9月4日晚，范玮琪发文谈及此事，范玮琪写道：“真是对不起，因为分享了一张儿子的照片，让大家不高兴了！”并在微博上进行了道歉。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/61e7f4aajw1evrdjoshswj20c80lqq4n1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/61e7f4aajw1evrdjoshswj20c80lqq4n1.jpg" alt="61e7f4aajw1evrdjoshswj20c80lqq4n" width="440" height="782"></a></p>
+<p> </p>
+<p>部分典型的“爱国网友”评论：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7BD0A7A7E3E9C79C94AF656E362326F4.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7BD0A7A7E3E9C79C94AF656E362326F4.jpeg" alt="7BD0A7A7E3E9C79C94AF656E362326F4" width="440" height="466"></a></p>
+<blockquote><p>氧气_yy：你的那个道歉的微博未免有点太虚伪了些吧，并不是发微博就说明你爱国了，也部是在道德绑架，你说你平时没用的微博没少发发，一会更新一个，70周年这么重要的日子你就吝啬发个微博祝福？ 不管你是不是美国国籍，你要记得你家老祖宗是中国人，枉我那么喜欢你。</p>
+<p>emmylk：身为艺人就该做好任何准备，只能接受赞美不能接受舆论那怎么行，范玮琪晒孩子的事来说确实挺视觉疲劳的甚至反感的，那么重要的日子但凡是个中国人看到祖国那么庄严神圣的阅兵都会内心激动，如果说阅兵和她没有关系那她更没必要来中国发展甚至得到中国公民的支持，我觉得这件事情不算是道德绑架！</p>
+<p>小辣椒刘钰懿明星同款：你儿子不要叫熊猫了，别侮辱了我们中国的大熊猫。你不配！</p>
+<p>逗逼李易峰：真是对不起，因为阅兵耽误你晒孩子了，让你不高兴了。</p></blockquote>
+<p> </p>
+<p>范玮琪的道歉发出后，有网友对此专门发声，认为不允许一部分人不欢庆阅兵的社会才是真正的法西斯，这些“爱国网友”的此番作为已经可以称作“道德强奸”而不仅仅是“道德绑架”。</p>
+<p><strong>相关阅读：</strong></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%91%9B%E5%A3%B0%E8%8C%83%E8%8C%83%E5%8F%8D%E6%98%A0%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A/" target="_blank">唐映红：大陆网民呛声“范范”反映了怎样的社会心理？</a></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%AA%81%E9%81%A5%EF%BC%9A%E8%A6%81%E5%85%81%E8%AE%B8%E4%B8%80%E9%83%A8%E5%88%86%E4%BA%BA%E4%B8%8D%E6%AC%A2%E5%BA%86%E9%98%85%E5%85%B5/" target="_blank">骁遥：要允许一部分人不欢庆阅兵</a></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BE%AF%E8%99%B9%E6%96%8C%EF%BC%9A%E9%82%A3%E4%B8%AA%E4%B8%8D%E6%84%9F%E5%8A%A8%E5%B0%B1%E6%9D%80%E4%BA%86%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3/" target="_blank">侯虹斌：那个不感动就杀了你的时代</a></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%94%E7%9A%84%E5%88%80%E6%B3%95%EF%BC%9A%E8%8C%83%E7%8E%AE%E7%90%AA%E9%81%93%E4%B8%AAp%E6%AD%89-%E5%96%B7%E5%AD%90%E4%BB%AC%E7%BD%91%E4%B8%AAp%E5%8F%8B/" target="_blank">叔的刀法：范玮琪道个P歉 喷子们网个P友</a></p>
+<p>9月4日之后，范玮琪继续在微博发出生活照片，亦再度受到不少“爱国网友”的攻击，不过范玮琪的新微博下及泰国机场国歌事件评论中也出现了不少模仿“爱国网友”过度解读微博内容的“伪爱国网友”的身影。</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>假行僧老巩：这位歌手先是在胜利日因为晒自己宝宝照片被数万“爱国者”辱骂不爱国，被迫删帖道歉。昨日又因为晒了一张史努比吃西瓜的照片，被爱国者指鹿为马为侮辱国旗。不要以为民生时政话题跟你无关，不要以为每天晒自拍就是安全的。可以学着@袁立 一样，敢爱敢恨，奋起反击，勇敢捍卫自己的权利。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/575769adjw1evsdso58wfj20k00h3765.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/575769adjw1evsdso58wfj20k00h3765.jpg" alt="575769adjw1evsdso58wfj20k00h3765" width="440" height="376"></a></p>
+<p> </p>
+<p>谭人玮： “我都吃屎了，范范竟然不吃屎，怎么可以这样？”——有些人真不觉得自己吃的是屎，还以为是芝麻酱抹红糖呢。</p>
+<p>April_不是四月天：鲁迅先生说过:“一看到白胳膊，就想到是全裸体；一想到全裸体，就想到生殖器；一想到生殖器，就想到性交；一想到性交，就想到杂交；一想到杂交，就想到私生子。中国人的想象力唯在这一层上可以跃进。”实在无法理解现代人的脑回路。</p>
+<p>绿海龙心：骂她晒娃的人好奇怪，受不了就取关好了，不取关还嫌人家晒娃多，有人强迫你看咋滴！？</p>
+<p>温柔点会死星人：这踏马跟文字狱有区别？</p>
+<p>royxy：我擦，范玮琪还真为阅兵日晒娃道歉了？这世界果然是属于傻逼的……</p>
+<p>MyDF：包子阅兵不过一天，而范玮琪检阅红卫兵已经好几天了。 #你国</p>
+<p>押沙龙：虽然我完全不知道范玮琪是拍电视的还是唱歌的，但刚才还是跑去加了个关注。没有别的，就是多少想表示一下：在中国还是有很多正常人，不全是疯狗。</p>
+<p>匡岩峰：有看阅兵的自由，也有晒孩子的自由，活的失去了自我，你们还剩什么？</p>
+<p>糖蛋灰灰：是不是要把那天没有发阅兵的都骂一遍才过瘾啊，网暴真可怕，把自己的思想强加别人身上，竟然还有说范本身风评就很差，和你有毛线关系么？你都不一定了解你爸妈爱吃什么、更不要说一个我们不曾深接触的人了，算是知道文ge有多可怕了，你们继承的是这种DNA嘛？</p>
+<p>williamlong：台湾歌手范玮琪因在中国大陆“9·3”阅兵当天没发表任何跟阅兵有关的言论与照片，却分享双胞胎儿子的照片，遭到许多大陆网民抨击“不爱国”，9月4日晚，范玮琪发文道歉：“真是对不起，让大家不高兴了！”除了范玮琪，许多没有在微博上发阅兵图文的明星都引来了成千上万条辱骂。</p>
+<p>孙戡 ：天津爆炸了去马云微博下面逼骂他捐款的，阅兵当天去喷范玮琪晒孩子的，一百年前参加义和团的，五十年前挂红袖章参加武斗的，几年前钓鱼岛抗议上街打砸抢的，都是同一类人。说好听点叫他们一声“爱国贼”，其实就是智障。他们自己说的“民智未开”大概就是这个意思：国民智商太低，没救。</p>
+<p>ifww：范玮琪一早的道歉是这个意思：“实在是对不起，给你们添堵了”现在关闭评论继续晒娃是这个意思：“但老娘就是这么拽，不服来咬我啊”！</p>
+<p>shangguanluan：举国看阅兵的昨天，范玮琪在微博晒孩子，被爱国青年们骂得死去活来，恨不得马上武力登岛。然而另外有台湾段子手跪舔阅兵的，说武器好帅，然后下面也有爱国青年说“然而台湾还没有统一”。所以，还是马英九英明，知道反正都会被骂，还不如主动发声明给傻叉们扫盲。</p>
+<p>牵犬总裁：范范得这篇微博的蓝绿两碗指台湾国民党和民进党。这是两个党给她饭碗，而不是你红色共产党。意思是我不是吃你共产党迷糊长大的，没有义务看你阅兵。小粉红附体啦！</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%8C%83%E7%8E%AE%E7%90%AA%E5%BE%AE%E5%8D%9A.jpg" alt="范玮琪微博" width="440" height="438"></p>
+<p>英俊的胃：不！根本就是暗讽“红色政权是搅屎棍，搅的蓝绿不得安宁”的意思！抵制！！今天我们都是小粉红。</p>
+<p>跪下来叫我麻麻：国人的阅读理解真是走在世界前列腺。</p>
+<p>牵犬总裁：范范的这篇微博的蓝绿两碗指台湾国民党和民进党。这是两个党给她饭碗，而不是你红色共产党。意思是我不是吃你共产党迷糊长大的，没有义务看你阅兵。</p>
+<p>牵犬总裁：阅兵后多少有点吓着了。不是因为正步踢的齐，导弹能快递。而是看了范玮琪和蔡康永微博下的评论。红小兵比法西斯可怕多了。</p>
+<p>幸福生活靠手撸：竟然在阅兵当天看范玮琪微博，他们应该道歉！</p>
+<p>Myxomatosis21：沙文主义是法西斯最典型的特征，那些评论里的高呼爱国喷子的往往没意识到自己就是个法西斯主义者。</p>
+<p>新泽西有雨：不对，这其实是两碗热翔，范范意思就是天朝就是搅屎棍。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/taiguoyouke.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/taiguoyouke.jpg" alt="taiguoyouke" width="584" height="307"></a></p>
+<p>猪蹄蹄小朋友：自己不爱国！还凭什么指望泰国尊重中国人！你们港是不是这个道理！你们4号回国！3号你们在哪里！泰国！所以是不是没看阅兵！活该！3号你们欠祖国的眼泪！4号要加倍还回来！藕黑！</p>
+<p>大馍流浪者：这些人要不受到国内舆论谴责我都替范玮琪咽不下这口气啊……</p>
+<p>磨雨白：绝不能放过他们！！必须在机场看完月饼式录像后才能登机！</p>
+<p>谁占了我的御用名：对，尽然敢在阅兵的时候出国简直与卖国贼同罪！</p>
+<p>我是圆圆蛋：放大假是让你在家泪流满面手举国旗看我大中华的阅兵，不是让你去拉动泰国GDP的你们这群汉奸！</p>
+<p>娇姨家的旺财：竟然没去看阅兵，范范表示不服。</p>
+<p>鸠摩小虾米：就是！阅兵竟然不在家看电视跑去旅游！活该！</p>
+<p>搬砖养家的王奶爸：给你们三天假不是让你们出国丢人的。——习大大</p>
+<p>—–Yumiko：感受一把你国正能量！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97/?category=18271" rel="tag">乌合之众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%98%85%E5%85%B5/?category=18271" rel="tag">大阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%91%E6%AE%8B/?category=18271" rel="tag">脑残</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E7%8E%AE%E7%90%AA%E9%81%93%E6%AD%89/?category=18271" rel="tag">范玮琪道歉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/" target="cdt-mirror">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a>
 </h2>
 <p><p>近两个月来，各地教育局根据《<a href="http://www.gqt.org.cn/documents/zqf/201504/P020150407552437894393.pdf">共青团中央在青少年中广泛开展纪念中国人民抗日战争暨世界反法西斯战争胜利70周年群众性主题宣传教育活动的通知</a>》要求，制定了相应的实施方案，甚至连幼儿园也<a href="http://site.conac.cn/www/101700695/41435243/2015-08-14/402d3cae8be44490b42885af4269b092.html">被要求</a>开展系列主题教育活动。</p>
@@ -863,46 +926,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%E5%B7%B2%E7%BF%BB%E5%BC%80%E6%96%B0%E4%B8%80%E9%A1%B5/" target="cdt-mirror">【异闻观止】新华网｜南方系“已翻开新一页”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1116460987_14413533505741n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1116460987_14413533505741n.jpg" alt="1116460987_14413533505741n" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1116460987_14413532853301n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1116460987_14413532853301n.jpg" alt="1116460987_14413532853301n" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1116460987_14413533839251n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1116460987_14413533839251n.jpg" alt="1116460987_14413533839251n" width="425" height=""></a></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a title="德国之声｜长平：南方最后一片树叶" href="http://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8D%97%E6%96%B9%E6%9C%80%E5%90%8E%E4%B8%80%E7%89%87%E6%A0%91%E5%8F%B6/">德国之声｜长平：南方最后一片树叶</a></li>
-<li><a title="旧闻评论｜南方系：一种历史终结，一种现实肇始" href="http://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E5%8E%86%E5%8F%B2%E7%BB%88%E7%BB%93%EF%BC%8C%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E8%82%87%E5%A7%8B/">旧闻评论｜南方系：一种历史终结，一种现实肇始</a></li>
-</ul></blockquote>
-<p>万众瞩目的国家大阅兵，作为时代记录者的媒体人而言，无疑是另一场争相竞逐的大阅兵。这一刻，是对传媒业一场全素质的考验与较量。</p>
-<p>翻开今天各大报纸，可谓精彩纷呈。而最令人注目的，莫过于南方报系。三份报纸在传承创新风格的同时，又前所未有地展现出大格局、高站位的新元素新气象。用图之大气，版式之大胆，笔力之磅礴，令人眼前一亮。</p>
-<p>且不说作为广东省委机关报的《南方日报》，大家闺秀风采依然。特别是头版整版以半版图片、半版文章的大胆表现手法，端庄大气，开合有度，彰显了 南粤第一党报的领军格调与风范。其实，南方系中最受人留意的就是《南方周末》。一打开今天此报，其头版竟以近整版特大篇幅刊发了习主席检阅三军的图片，图 片元素丰富，不仅展现了大国领袖气宇轩昂的气概，也显示了中国军队的飒爽英姿。还有一个看点是，《南方周末》还发挥其重要时刻以评论发声的传统风格，在大 图下方配以《纪念胜利日 悦圆中国梦》的南方周末编辑部评论，围绕阅兵的重要历史时刻，阐释和平发展的大义，将落脚点放在凝心聚力实现中国梦上。行文主题鲜明，文笔洒脱，才情四 射。读罢此文，回看标题，更觉意味深长！</p>
-<p>作为国内都市类媒体第一阵营的主力之一，《南方都市报》的表现同样不俗。“正义必胜！和平必胜！人民必胜！”《南方都市报》紧紧抓住习主席讲话 中与人民的强烈共鸣之处，发挥了其都市报一贯锐气，头版以整版习主席发表讲话的大幅图片上配以此言，极富视觉和思想的冲击力。其整版用图的方式达到了“此 处无声胜有声”的传播效果。</p>
-<p>南都还同时推出《大国点兵》特刊和《胜利日阅兵》新媒体号外，以强有力的视觉冲击和丰富的资料、鲜明的点评、多形式的呈现，形成独到的南都新风格。中午看到，其新媒体号外的点击量已经有300多万了。</p>
-<p>通览今日的南方系报纸，虽各成一体、各有风格，但又不失统一整体的精心策划， 错位体现，互为补充，相得益彰。不仅传承了南国报业的一贯风采，还抓住了关键要素传递激情，这是一次有高度、有思想、有温度的新闻传播与历史记载，不失为此次媒体大阅兵中的精彩答卷。</p>
-<p>由南方报系的阅兵报道，联想到南方报系近来发生的一系列新动作，的确值得关注。以短短半月时间连续播发的一系列评论为例。南方日报评论员文章 《改革要在解决突出问题上下功夫》被《人民日报》首次转发地方党报评论员文章，加上《打赢“转方式调结构”这场攻坚战》《时代呼唤更多的好干部》等评论， 均为第一时间解读习总书记的重要讲话精神，并紧密结合广东的实际，立意高又接地气，往往一发表就被新媒体舆论场乃至境外媒体广泛传播。</p>
-<p>这种悄然变化的后面，让人明显感到，南方报系已经翻开了新的一页。走正道，大发展。南方报系正在赶路！</p>
-<p>笔者觉得，当年中国报业改革领风气之先的南方报系，在新媒体融合发展等方面，其实已有些落后了。相信不久的未来，经历了凤凰涅槃、浴火重生的南方媒体将重新成为中国媒体改革发展的标杆。（陈冀）</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@悟空在东北：多了几台复印机。</p>
-<p>@良品世界：新华系接管了，当然不一样了</p>
-<p>@小狗ta爸：需要那么多一样的传声筒吗？ 日人民报多印几份把别的报纸都关了省下钱吃喝嫖赌不好吗？</p>
-<p><a href="http://weibo.com/sniperking" target="_blank">SHUTTHEMALLDOWN</a>：新华社副社长慎海雄当了广东宣传部长 南方系变新华社小弟了<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
-<p><a title="艹仓井空老师2" href="http://weibo.com/u/1633897905" target="_blank">艹仓井空老师2</a> ：南方系沦为和人日环球一起抢屎吃，新华有危机感啊<img src="http://img.t.sinajs.cn/t3/style/images/common/face/emimage/ee8192.png" alt="" width="20px" height="20px"></p>
-<p><a href="http://weibo.com/1909972995" target="_blank">-狗狗狗狗狗-</a>：哈哈哈哈哈哈哈哈<img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"><img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"><img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
-<p><a href="http://weibo.com/3917254589" target="_blank">广东台DV现场深圳站</a>：媒体战线已统一~<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@金身弗里曼：大家一起齊心協力做夢</p>
-<p>@珠水微帆：南方系是中国改革的推手，从邓小平南巡至现在都没有改变，如果改变了那就证明中国改革死了！全球化是历史的发展趋势，别梦想改变这个进程。</p>
-<p>@晴川街伯伯:翻篇了。</p>
-<p>@李玩:正能量满满。</p>
-<p>@咕咕窝：只能说，又复制了一个新闻联播，传统媒体死的更快。</p>
-<p>@大道至简ABC：把纸媒送上死路的不是互联网，而是婆婆。</p>
-<p>@泡菜谭:改造成功！</p>
-<p>@特李独行:一起谱写，一同高唱。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%E5%B7%B2%E7%BF%BB%E5%BC%80%E6%96%B0%E4%B8%80%E9%A1%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">南周新年献辞事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD%E5%91%A8%E5%88%8A/?category=18271" rel="tag">南都周刊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/?category=18271" rel="tag">庹震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -914,7 +937,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ohwx3tqmh35j.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -924,5 +947,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/></td>    </tr>
 </table>

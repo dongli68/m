@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37fd8i8b6xurr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jtp6bn9jfg14.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d37fd8i8b6xurr.cloudfront.net">https://d37fd8i8b6xurr.cloudfront.net</a><br/><a href="https://d3jtp6bn9jfg14.cloudfront.net">https://d3jtp6bn9jfg14.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jtp6bn9jfg14.cloudfront.net">https://d3jtp6bn9jfg14.cloudfront.net</a><br/><a href="https://d37fd8i8b6xurr.cloudfront.net">https://d37fd8i8b6xurr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/" target="cdt-mirror">【网络民议】今天我都是小粉红</a>
@@ -825,7 +825,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗战历史真相</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B9%A0%E7%9A%84%E8%83%9C%E5%88%A9%E5%92%8C%E5%8C%97%E4%BA%AC%E7%9A%84%E7%AE%97%E7%9B%98/" target="cdt-mirror">德国之声｜“习的胜利”和“北京的算盘”</a>
 </h2>
@@ -850,7 +850,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E4%BA%AC%E3%80%8C%E9%98%85%E5%85%B5%E8%93%9D%E3%80%8D%E5%AE%8C%E4%BA%86%E3%80%8C%E5%B8%B8%E6%80%81%E7%81%B0%E3%80%8D%E5%A4%8D%E6%B4%BB/" target="cdt-mirror">东方日报｜北京「阅兵蓝」完了「常态灰」复活</a>
 </h2>
@@ -937,7 +937,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37fd8i8b6xurr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jtp6bn9jfg14.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -947,5 +947,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
                 <td></td>
                 
         
-        <td><a href="https://d37fd8i8b6xurr.cloudfront.net">https://d37fd8i8b6xurr.cloudfront.net</a><br/><a href="https://d3jtp6bn9jfg14.cloudfront.net">https://d3jtp6bn9jfg14.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jtp6bn9jfg14.cloudfront.net">https://d3jtp6bn9jfg14.cloudfront.net</a><br/><a href="https://d37fd8i8b6xurr.cloudfront.net">https://d37fd8i8b6xurr.cloudfront.net</a><br/></td>    </tr>
 </table>

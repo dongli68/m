@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ixqafv8bd6rz.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ohwx3tqmh35j.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,224 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ixqafv8bd6rz.cloudfront.net">https://d1ixqafv8bd6rz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://db34ntcej7riq.cloudfront.net">https://db34ntcej7riq.cloudfront.net</a><br/><a href="https://d1ixqafv8bd6rz.cloudfront.net">https://d1ixqafv8bd6rz.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/" target="cdt-mirror">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a>
+</h2>
+<p><p>近两个月来，各地教育局根据《<a href="http://www.gqt.org.cn/documents/zqf/201504/P020150407552437894393.pdf">共青团中央在青少年中广泛开展纪念中国人民抗日战争暨世界反法西斯战争胜利70周年群众性主题宣传教育活动的通知</a>》要求，制定了相应的实施方案，甚至连幼儿园也<a href="http://site.conac.cn/www/101700695/41435243/2015-08-14/402d3cae8be44490b42885af4269b092.html">被要求</a>开展系列主题教育活动。</p>
+<p><strong>从下面这些例子中大概可以看出，<strong>中国幼儿所接受的到底是什么样的“爱国主义教育”</strong>。</strong></p>
+<p>（以下内容由中国数字时代编辑搜集自网络）</p>
+<h3><span><strong>山东济南：</strong></span><strong><a href="http://sd.people.com.cn/n/2015/0903/c166188-26224455.html">铭记抗战历史从娃娃抓起 幼儿园组织参观抗日主题展</a></strong></h3>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/LOCAL201509030806000205088095914.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/LOCAL201509030806000205088095914.jpg" alt="LOCAL201509030806000205088095914" width="525" height=""></a></p>
+<p>“老师，他们为什么要来欺负我们”“这些人太坏了”“我们可真厉害，把这些坏蛋都打跑了”……孩子们愤慨的声音回荡在展厅，虽然稚气，但是爱国主义教育已在不知不觉中浸润了孩子们的心田，民族自豪感悄然扎进孩子们的内心。</p></blockquote>
+<h3><strong><span>安徽长丰：</span></strong><strong><a href="http://www.cfjy.net/DocHtml/1/Article_20159257660.html">县直幼儿园开展纪念抗战胜利70周年主题系列教育活动</a></strong></h3>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20150902095251975197.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20150902095251975197.jpg" alt="20150902095251975197" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20150902095269776977.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20150902095269776977.jpg" alt="20150902095269776977" width="525" height=""></a></p>
+<p>各班级老师通过给孩子们讲过去那些可歌可泣的故事，弘扬抗战精神，让孩子们从小牢记历史，警钟长鸣，长大后学会居安思危，勇于担当。中、大班孩子还和老师们一起观看了《地道战》、《铁道游击队》、《小小新四军》、《啊 摇篮》和《小兵张嘎》等经典抗战题材影片，通过荧幕生动再现波澜壮阔的抗战历史画面</p></blockquote>
+<h3><span><strong>江苏盐城：</strong></span><strong><a href="http://www.yce.cn/ArticleShow.asp?ArticleID=56856">铭记历史  珍爱和平—-盐城市幼儿园举行“纪念中国人民抗日战争暨世界反法西斯战争胜利70周年”专题升旗仪式</a></strong></h3>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/201592161726533.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201592161726533.jpg" alt="201592161726533" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/201592161733835.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201592161733835.jpg" alt="201592161733835" width="525" height=""></a></p>
+<p>每个班级的主题墙都围绕“纪念中国人民抗日战争暨世界反法西斯战争胜利70周年”呈现，老师们个个精心设计，给孩子们准备了一张张抗战图片，讲述了一个个浅显易懂的抗战故事，还一起观看了一部抗战视频，孩子们看着、听着、想着、不由自主地说：“解放军叔叔真伟大！长大，我要当解放军！”</p></blockquote>
+<h3><span><strong>福建邵武：</strong></span><strong><a href="http://www.swjyj.com/show.aspx?id=13240&cid=12">我市学校开展抗日战争暨世界反法西斯战争胜利70周年主题教育活动</a></strong></h3>
+<blockquote><p>9月3日，第一幼儿园开展形式多样的抗日战争暨世界反法西斯胜利纪念日”主题教育活动。活动中，一幼教师们通过图片展示、观看视频、翻阅小人书、讲述抗战故事、学唱革命童谣、歌曲等方式，让幼儿了解历史，珍惜革命先烈用生命和鲜血换来今天来之不易的幸福生活；懂得贫穷落后遭受侵略屈辱，只有国富民强，科技进步国家才能强大，鼓励孩子从小学好本领，立志报国。</p></blockquote>
+<h3><span><strong>吉林延边：</strong></span><strong><a href="http://www.eduhc.org/Article/ShowArticle.asp?ArticleID=16647">三幼开展“纪念中国人民抗日战争胜利70周年”活动</a></strong></h3>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2015090211405765.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2015090211405765.jpg" alt="2015090211405765" width="480" height="360"></a></p>
+<p>看影片后，孩子们纷纷激动地分享自己的感受，表达了自己对解放军叔叔的崇敬和感激之情，珍惜今天的幸福生活。此次活动增强了孩子们对祖国的热爱，让孩子们小小的心灵中埋下了一颗火热的爱国种子。</p></blockquote>
+<h3><span><strong>福建福清：</strong></span><strong><a href="http://www.fqedu.gov.cn/html/view/2015/9/view-7780.html">康辉幼儿园举行纪念抗战胜利70周年暨开学典礼活动</a></strong></h3>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20150902084641320.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20150902084641320.jpg" alt="20150902084641320" width="500" height="375"></a></p>
+<p>康辉幼儿园本次纪念抗日战争暨世界反法西斯战争胜利七十周年主题升旗仪式的举办，让全体师、幼深刻感受到国富民强的自豪感，更加珍惜并感恩于今天这来之不易的幸福生活，也在孩子们幼小的心灵植下了崭新的童年梦——努力学习，长大后保家护国，强大中国贡献力量！</p></blockquote>
+<h3><span><strong>四川宜宾：</strong></span><strong><a href="http://edu.ybxww.com/content/2015-9/4/201594956549234278.htm">留耕镇幼儿园开展“纪念抗战胜利70周年”主题系列教育活动</a></strong></h3>
+<blockquote><p>开学后，各班级老师通过给孩子们讲过去那些可歌可泣的故事，弘扬抗战精神，让孩子们从小牢记历史，警钟长鸣，长大后学会居安思危，勇于担当。中、大班孩子还和老师们一起观看了《地道战》、《铁道游击队》、《王二小的故事》和《小兵张嘎》等经典抗战题材影片，通过荧幕生动再现波澜壮阔的抗战历史画面，深刻认识中国人民在抗日战争中万众一心，众志成城，用鲜血和生命铸就的伟大抗战实践。</p></blockquote>
+<h3><span><strong>甘肃平凉：</strong></span><strong><a href="http://www.pljyw.net/article-5442-1.html">华亭县幼儿园开展纪念抗日战争胜利暨世界反法西斯战争胜利70周年主题教育系列活动</a></strong></h3>
+<blockquote><p>给孩子们印象最深刻的是《鸡毛信》。该片讲述的是抗日战争时期的一位著名小英雄海娃，他机智、勇敢地给八路军送鸡毛信的故事。整个观看过程中，孩子们入情入境，沉浸于影片中一幅幅感人的画面之中，尽心品味，用心感悟。看完影片，孩子们感慨地说道：海娃那么小，就有着强烈的爱国精神，我们一定要向小海娃学习，把祖国建设的更加强大。</p></blockquote>
+<p><strong>附《共青团中央在青少年中广泛开展纪念中国人民抗日战争暨世界反法西斯战争胜利70周年群众性主题宣传教育活动的通知》中对活动内容的规定：</strong></p>
+<blockquote><p>三、主要内容</p>
+<p><strong>1．深入开展中国人民抗日战争胜利伟大意义的宣传教育。</strong>要引导青少年深刻认识到，抗日战争的伟大胜利彻底粉碎了日本军国主义殖民奴役中国的图谋，重新确立了中国在世界上的大国地位，开辟了中华民族伟大复兴的光明前景；深刻认识到，中国人民抗日战争的伟大胜利，显示了中华民族有同侵略者血战到底的气概、有在自力更生的基础上光复旧物的决心、有自立于世界民族之林的能力，全面提升民族自信心和自豪感。</p>
+<p><strong>2．深入开展中国共产党中流砥柱作用的宣传教育。</strong>要引导青少年深刻认识到，中国共产党捍卫民族独立最坚定、维护民族利益最坚决、反抗外来侵略最勇敢，是领导中国人民争取民族独立和人民解放的坚强核心；深刻认识到，只有中国共产党才能领导中国人民取得民族独立、人民解放和社会主义的胜利，才能开创中国特色社会主义道路，实现国家富强、民族振兴和人民幸福，不断增强中国特色社会主义的道路自信、理论自信和制度自信。</p>
+<p><strong>3．深入开展中国人民抗日战争是东方主战场的宣传教育。</strong>要引导青少年深刻认识到，中国人民抗日战争是世界反法西斯战争的东方主战场，中国主权、安全、发展利益和民族尊严绝不允许任何势力侵犯，同时任何力量也不能动摇我们坚持和平发展的信念；深刻认识到，中国人民是维护世界和平的坚定力量，同世界各国人民一道坚决捍卫中国人民抗日战争和世界反法西斯战争胜利成果，坚决维护战后国际秩序，始终不渝走和平发展道路，为建设持久和平、共同繁荣的和谐世界而不懈努力。</p>
+<p><strong>4．深入开展民族精神和抗战精神的宣传教育。</strong>要引导青少年深刻认识到，天下兴亡、匹夫有责的爱国情怀，视死如归、宁死不屈的民族气节，不畏强暴、血战到底的英雄气概，百折不挠、坚忍不拔的必胜信念共同构成了抗战精神的核心内容；深刻认识到，伟大的抗战精神丰富和升华了以爱国主义为核心的民族精神，是中国人民弥足珍贵的精神财富；深刻认识到，在实现中华民族伟大复兴中国梦的历史征程上，必须始终高扬爱国主义的伟大旗帜，大力弘扬民族精神和抗战精神，激励全体人民克服一切艰难险阻，沿着中国特色社会主义道路奋勇前进。</p></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗日真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%81%93%E9%AB%98%E4%B8%80%E5%B0%BA-%E5%A2%99%E9%AB%98%E4%B8%80%E4%B8%88%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E5%B0%81%E9%94%81%E6%98%AF%E5%A6%82%E4%BD%95%E5%8D%87/" target="cdt-mirror">端传媒 | 道高一尺 墙高一丈：互联网封锁是如何升级的</a>
+</h2>
+<p><p><strong>新时代的防火墙像手术刀，精准迅速，直击命门。而“翻墙”未来可能变成一门手艺，如何传承，任重道远。</strong></p>
+<p>1987年，中国第一封电子邮件由中国兵器工业计算机应用研究所发往德国，标志中国成功接入互联网。邮件内容是：“Across the Great Wall we can reach every corner in the world”——穿越“巨墙”（长城），我们无处不及。与这封邮件几乎同龄的我，没想到生活中竟总离不开“墙”。在物理世界和虚拟世界中多次穿墙，也去过世界各处，看“墙”越筑越高，有时义愤填膺，有时啼笑皆非。仅以此文，记录“墙”边的一些见闻。</p>
+<blockquote><p>国家公共网络监控系统</p>
+<p>国家公共网络监控系统，俗称中国网络防火墙（The Great Fire Wall of China，常用简称“GFW”或“墙”）。一般意义所説的GFW，主要指中国官方对境外涉及敏感内容的网站、IP地址、关键词、网址等的过滤。随着使用的拓广，中文“墙”和英文“GFW”有时也被用作动词，网友所説的“被墙”即指被防火长城所屏蔽。</p></blockquote>
+<p><strong>2008年校园网：“连坐”惩罚</strong></p>
+<p>2007年，我进入这所XX理工大学。它特别吊诡的设定是，大一不能带电脑，大二考过国家英语四级的人才可以带电脑。就这样，2008年秋天，我终于正大光明地连上校园网。千兆比特级别以太网直入国家主干网，中国电信、中国教育网双通道。这个规格，算是极高的。网速之快，前所未见；可是，总有一些网站访问不了。但这些小细节，终究不影响同学们DotA（一款基于Warcraft的对战地图）的热情。</p>
+<p>那个时候，我们愉快地上Google，查Wikipedia，学习西方先进科技。不时有好事者，会键入诸如“六四”、“胡萝卜”、“温度计”（网民用来形容胡锦涛与温家宝的指代用词）这样的神奇词汇，于是全校与Google失联十数分钟。每当到这个时候，室友们相视一笑，“哦，谁又撞墙了！”但打壶开水，泡一杯面，还不等吃完，就又可以Google了。</p>
+<p>那个时候的“墙”就好像霰弹枪，火力充足，但瞄不太准。一枪下去，打一大片，总是搞得“城门失火，殃及池鱼”。</p>
+<p><strong>墙如何运作？</strong></p>
+<p>一台机器要与互联网上的其他机器对话，需要一个IP地址，好比一个人需要身份证（ID），才能唯一标识一样。否则，你喊一句话，对方不知应该回话给谁。而IP地址的总量是有限的，就好比一个大小固定的蛋糕。美国入场早，切走一大块。接着列强瓜分。等到中国的时候，还剩下点面皮。而该理工大学在这轮“圈地运动”中，只得到2个IP地址，给全校数万师生共用。这下好了，一个IP后面几万人，究竟谁在干什么，从校外是看不清的了。早期的防火墙，只能粗糙地在IP级别上执行封锁，要管束，只能全盘封了整个学校的网络。但毕竟一所国家重点高校，不可能用这种方式来管理，但不封锁，又无法向监管部门交代。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/74b8efe101d3415bb60935151b8b0887.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/74b8efe101d3415bb60935151b8b0887.png" alt="74b8efe101d3415bb60935151b8b0887" width="600" height="400"></a><p>墙早期对用户的“连坐”惩罚策略。制图：金秋枫</p></div>
+<p>说到底，监管当局不乏能工巧匠，他们很快想出一个办法：封杀大约4千个连续的端口（Port）。如果我们把IP地址比作一栋房子 ，那么端口就是出入这间房子的门。不同于真正的房子只有几个门，一个IP地址的端口可以有65536（即2的16次方）个之多。端口在一定时期内是被内网的一个用户独占，于是数据包可以准确地回到始发地。不过，封一个端口不过瘾，只是撞墙者自己倒霉而已。试想，你好不容易把野马制服了，又会有一些原本安顺的良马变野，效果不佳。最好的办法就是让它成为害群之马，以做警示。所以，一旦内网某个用户登陆Google检索“敏感信息”，这意味着一个端口“撞墙”，“墙”就把接连着的约四千多个端口都封掉，令无辜群众也无法上网。这种断网的“连坐惩罚”短则几分钟，长则十几分钟，才能恢复服务。</p>
+<p><strong>2010年北京：合租服务器翻墙</strong></p>
+<p>3月，Google位于北京中关村的办公室楼下堆满了鲜花，网友以这种方式纪念因“遭受中国骇客攻击”和“网络审查”而决定退出中国市场的Google。</p>
+<p>“墙”这个概念越来越清晰，也进入了更多人的视野。2009年，Facebook和Twitter相继被封，昭示着中国政府通过防火墙阻隔国际互联网，建立“局域网”的决心——“局域网”是中国网民对墙内状况的戏称。</p>
+<p>“咱们合租一个VPS（Virtual Private Server）吧”，这是技术青年们见面经常谈到的话题，仅次于买房和买车。VPS即虚拟主机，向服务商租取一段时间使用权即可。以前，大家合租VPS，多是为了搭个博客，赶赶时髦。而现在，合租VPS，多是为了翻墙。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/8be9bbedfcbd412ea188bd35a2070cd9.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/8be9bbedfcbd412ea188bd35a2070cd9.png" alt="墙外丰富多彩的世界吸引着年轻人。制图：金秋枫" width="600" height="400"></a><p>墙外丰富多彩的世界吸引着年轻人。制图：金秋枫</p></div>
+<p>对这些年轻人来说，“翻墙”用Google检索最新资讯，使用垃圾邮件最少的Gmail，随时查询在线百科全书Wikipedia，通过Facebook、Twitter与同行保持密切的技术资讯沟通，就像呼吸一样自然。也有更多人翻墙是要选择不同服务器进行联网游戏，或下载最新的影视内容，“翻墙”就像玩猫和老鼠的游戏。</p>
+<p><strong>VPS如何帮你翻墙？</strong></p>
+<p>当你发一个数据包到Google或者Facebook时，防火墙可以直接识别目的IP地址而自动拦截。而前面提到的VPS，是虚拟主机，自己也有IP地址，但无公开记录其归属，难以确认是否是敌军。既然如此，我们把数据包先发到VPS，再由它中转到目的地，就成功绕开“墙”了。由于VPS的这种特性，它也被称作“跳板”。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a64a8439d45b40d4b0f3f312fef3c38f.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a64a8439d45b40d4b0f3f312fef3c38f.png" alt="“跳板”是所有“翻墙”技术的共通原理。制图：金秋枫" width="600" height="447"></a><p>“跳板”是所有“翻墙”技术的共通原理。制图：金秋枫</p></div>
+<p>利用一个“跳板”绕过“墙”，正是许多翻墙软件的基本原理。曾经繁荣的翻墙软件“无界”、“自由门”，还有众多的“代理服务器”，包括后来更广泛应用的VPN（Virtual Private Network），都是借用跳板原理。VPN最早是用来帮助一个企业多地的办公室间互联，也可以让员工在异地进入公司内网，方便执行一些高权限的作业。这样一来，跨国公司天然就拥有了穿墙的隧道：数据包先发到海外办公室，再去向世界各地。所以，VPN也成了跨国公司员工翻墙的主流手段。</p>
+<p>这年，我第一次用“ssh -D”（一行命令）翻墙。SSH可以让系统管理员连接上主机，进行远程操作。同时它相当于在客户端与服务器之间建立了一个隧道，所以也能传输其他的数据，包括“翻墙”流量。只要这台机器的IP不在墙的“黑名单”中，也就可以成功绕过墙的封锁了。对技术人员来说，买VPS是最简单且低成本的翻墙方法。即便一台VPS被墙，再买一台即可。一年几十美元的价格，合租下来非常便宜。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6c77e59aad43456fb0b3076c6908e991.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6c77e59aad43456fb0b3076c6908e991.png" alt="SSH协议可以建立“隧道”，成为技术人员“翻墙”的最爱。制图：金秋枫" width="600" height="365"></a><p>SSH协议可以建立“隧道”，成为技术人员“翻墙”的最爱。制图：金秋枫</p></div>
+<p><strong>2011-14年香港：“墙”成为一门显学</strong></p>
+<p>在Google、Wikipedia中文、Facebook、Twitter等全球流行网络应用被阻隔在防火墙之外后，中国大兴土木建设的“局域网”，这几年也初现雏形。</p>
+<p>搜索用百度，邮箱有163/QQ，社交有微博/人人，购物用淘宝/京东，即时聊天用微信——各种互联网服务，墙内应有尽有。对大部分网民来说，翻墙成了越来越不必要的需求。而剩下的一小拨执着于翻墙的用户，以及全世界致力于研究“墙”的学者，他们见证了“墙”的升级，与之斗智斗勇，也从一些滑稽的表象，捕捉到“墙”发展的各种蛛丝马迹。</p>
+<p>因“墙”不同的工作原理，越来越多的翻墙工具被开发出来。对“翻墙”这个行当来说，这是个百花齐放的时代。</p>
+<p><strong>解析邮件</strong></p>
+<p>2011年初，Gmail大规模延迟，这可能是生活在中国的很多“良民”第一次看到墙的影子。他们并不是Twitter、Facebook的忠实用户，对自由世界的“危险信息”也并不感兴趣，只是日常收发邮件，竟也撞墙。实测显示，Gmail与大陆服务商之间的邮件有不同程度的延迟，少则几个小时，多则几个星期。人们纷纷猜测，“墙”已经进化到开始解析邮件。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/9603504e5b3c4977a56cd5a0e57e9d03.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/9603504e5b3c4977a56cd5a0e57e9d03.png" alt="“墙”开始尝试解析墙内外邮件，终因负载太高，造成大规模延迟。制图：金秋枫" width="600" height="376"></a><p>“墙”开始尝试解析墙内外邮件，终因负载太高，造成大规模延迟。制图：金秋枫</p></div>
+<p><strong>敏感词触发RST，偶尔需要“向内翻墙”</strong></p>
+<p>这几年，我在香港求学，当时因为研究需要，我要下载大陆某公司的中文词库，奇怪的是，无论使用何种工具，进度条总是停在70%的地方。后来分析发现，每次下载到这个位置的时候，系统就会收到一个“RST”包──“RST”是“Reset”（重置）的意思。这是一种特殊的数据包，当计算机收到这种包的时候，会重置一条网络链接。这个特点被“墙”广泛用来掐掉“不和谐”的网络链接。好比A和B正在打电话，“墙”想要掐断电话，和以前粗暴地摔电话机不同，“墙”对A说：“B挂你电话了”，同时又对B说，“A挂你电话了”，不明真相的两人就真的自己把电话挂掉了。敏感词触发RST，这种“墙”的工作机制，如今已是衆所周知。而这种监控与阻断是双向的，出入都可能撞墙。有时候在墙内需要翻出来，有时候在墙外需要翻进去。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/9c573f60533445618eddca602a2fd50e.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/9c573f60533445618eddca602a2fd50e.png" alt="通过“RST”欺骗通信双方，以阻断链接。制图：金秋枫" width="600" height="401"></a><p>通过“RST”欺骗通信双方，以阻断链接。制图：金秋枫</p></div>
+<p><strong>走出国门的DNS污染</strong></p>
+<p>DNS（Domain Name Service）即“域名解析服务”，功能好比是互联网上的电话簿。早期，仅通过IP来封锁服务的话，“墙”需要查看每个数据包，判断是否放行。但使用“DNS污染”技术，相当于直接给用户一个错误的“电话号码”，从源头就遏制了“不良通信”。值得注意的是，“DNS污染”这种强力武器，不仅能有效封锁国内网民对敏感内容的访问，还会连带影响其他国家。2012年，世界顶级网络通讯会议SigComm上，出现一篇匿名论文。论文发现，中国发动的“DNS污染”已经超越了国界。在测试了全球4万多个域名解析服务器后，他们发现其中26.41%的服务器受到了这种污染的影响，覆盖109个国家。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7f15c3bfab8d4283b4b711219cf324a1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7f15c3bfab8d4283b4b711219cf324a1.png" alt="DNS污染。制图：金秋枫" width="600" height="401"></a><p>DNS污染。制图：金秋枫</p></div>
+<p><strong>近500个实体“哨所”</strong></p>
+<p>2012年，一组来自Michigan大学的研究者，对“墙”的位置进行了探测。他们发现，就像真实的长城并非连绵不断的，防火墙也并不是密不透风地“堵”在我们的“网络”上，而是一组散落各处的“哨所”，只有当发现威胁的时候，它们才用“RST”或“DNS污染”这样的方式进行干扰。截止2012年底，研究者总共探测到了近500个这样的“哨所”，在中国南方，部署数量头三位的省份为：广东（84个）、福建（29个）、湖南（28个）。</p>
+<p>小插曲是，研究者把探测“哨所”的工具在GitHub（世界最大的开源代码托管服务）上开源发布后，引起了激烈的争论。一些人认为，此举会激怒“墙”的管理者，导致GitHub被封锁，影响墙内程序员学习交流，所以应该删除这样的代码仓库，“保持技术社区的纯粹”。另一些人，则认为翻墙是程序员的基本技能，表示不受影响，所以力挺该项目，并极力反对技术社区加入“自我审查”的行列。</p>
+<p><strong>深度数据包检测</strong></p>
+<p>2012年底，“墙”的总设计师、北京邮电大学时任校长方滨兴的研究团队曾发表论文“网络流量分类，研究进展与展望”，文章提到了多种使用机器学习进行“深度数据包检测”（Deep Packet Inspection，DPI）的技术。随后几年，这些先进的技术逐渐在“墙”上部署开来。</p>
+<p>要理解“深度数据包检测”的威力，我们可以把数据包想像成一封信。“浅度”的数据包检测，就好像是看看信封上的发件人和收件人，即决定是否放行。这给“跳板法”留下可乘之机：我们先将信送到中间站（如虚拟主机VPS），再转发到目的地，就绕过检查了。“深度”的数据包检测，可以理解成对信件内容的探查──相比起暴力打开信封，这种基于机器学习的技术更具有艺术性。它并不实际解读数据包的内容，而是搜集周边信息，对数据流进行“肖像刻划”（Profiling）。举个例子，你用Google搜索时，网络上只会有文本和少量图片经过，数据量很小，并且是突发的；但用YouTube看视频时，就会有持续一段时间的大量数据流过。“墙”的监控也是基于这样的抽象指标，比如它监控到到间歇而细小的流量，便推断你不太可能是在用YouTube。将诸如此类的可参考指标放在一起，就组成当前数据流的一副“肖像”。把这个“肖像”与数据库里面已经存放的巨量“翻墙流量肖像”和“非翻墙流量肖像”做个比对，就可以相应归类了。如所有的机器学习算法一样，这种归类会误杀一些非翻墙流量，也会错放一些翻墙流量。但日积月累，“墙”观察的样本越多，准确率也就越高。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/c06ca84cd5d3414cbf0ffa8f102c0c84.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/c06ca84cd5d3414cbf0ffa8f102c0c84.png" alt="浅度与深度数据包检测。制图：金秋枫" width="600" height="328"></a><p>浅度与深度数据包检测。制图：金秋枫</p></div>
+<p><strong>2015年深圳：“墙”的疯狂进化</strong></p>
+<p>新时代的墙，像是手术刀，精准迅速，直击命门。</p>
+<p>在深圳小住半年，我深刻感受到“数字围剿”的压力。随着2014年底，Gmail全面被封禁，墙进化迅速、部署增强，还配合行政措施打击翻墙势力。深度包检测的大规模部署、DNS污染的扩大、转守为攻的国家防火墙策略、ISP的深度合作——“墙”俨然是正规军，而翻墙的社区只能打一场场的游击战，越打越疲惫。</p>
+<p>首先，是香港的学校专用VPN开始不好使了。据传，几种主流的VPN协议已经被“墙”破解，手段十分细腻：有时候连上VPN，可以使用Google搜索和Google Drive办公，但一旦链接YouTube或者Facebook，网络链接就立马被掐掉了。</p>
+<p>紧接着，一系列政策出台：境外VPN需要备案。像Astrill等常用的商业VPN服务，迅速被封。</p>
+<p>同时，“DNS污染”的范围与频度都扩大了。为了抵御“DNS污染”，我曾一度使用“DNSCrypt”——这个开源项目会加密客户端和服务器之间的通信内容，不被墙查探到。然而好景不常在，很快，“墙”将已知的DNSCrypt的服务器IP计入黑名单，这样连访问DNSCrypt的服务器也是需要“翻墙”了……有段时间，我依赖SSH+DNSCrypt翻墙。但这套组合拳，最终打在墙上只是手疼，而墙还是泰然自若。</p>
+<p>更有甚者，一些二级ISP（不自建主干网，但提供社区宽带接入到主干网服务的ISP）参与了合作，封禁“非常用”的DNS地址。家庭宽带用户，只能选择ISP默认分配的DNS，或者一些“广为人知”的DNS服务器，如Google多年前提供的8.8.8.8（该服务器的IP地址）就是其中之一。“4个8”曾经是大陆网民用来抵御“DNS污染”的缓冲剂，但它使用普通DNS协议，很容易被攻击。社区很快发现，“墙”会选择性地污染8.8.8.8返回的结果。</p>
+<p>“DNS污染”、“RST攻击”、“深度数据包检测”——“防火长城”的一套立体防御体系已经建成。从左到右，精准度逐渐加大，防御成本也逐渐加大。这个时候，不管使用什么VPN，最常见的现象是，翻墙几分钟后，网络延迟加大，进而链接被阻断，导致日常工作都不能正常进行。</p>
+<p>“进攻是最好的防守”——2015年3月，国家防火墙突然转守为攻。这是一种与“防火长城”（Great Fire Wall，GFW）部署在一起的设备，网友戏称其为“大加农炮”（Great Cannon，GC）。经过3月初的一系列测试，“大炮”从3月中旬开始发动疯狂攻击，其首轮攻击的重点目标之一是GitHub上“greatfire”这个代码仓库。“greatfire”上集结了大量的翻墙工具与资讯，俨然一个巨大的“翻墙军火库”。“大炮”攻击目标的原理简单而有效：它会劫持跨越中国边境的流量，注入恶意脚本，向指定目标发动“DDoS攻击”。</p>
+<p><strong>DDoS</strong></p>
+<p>DDoS（Distributed Denial of Service，分布式拒绝服务），是一种通过巨大流量导致目标服务器不堪重负而下线的攻击手法。DDoS是一系列方法的统称，他们使用不同的技术，“大炮”所使用的流量劫持并注入恶意脚本的技术是一种比较新的形式。衡量一场DDoS攻击的能量，可以使用“峰值速率”。如2014年6月，香港的公民投票网站“PopVote”受到超过“300Gbps”的攻击，连提供网络支持服务的Google和Amazon都抵挡不住，宣布退出，最终服务商靠着全球网络服务业者联手，才维持“占中”公民投票持续进行。2015年7月，支持加密功能的即时通信软件Telegram受到超过“200Gbps”的攻击，受影响区域很快从东南亚蔓延到全球，导致大量用户无法通信。要知道100Gbps的流量有多大，可以想像同时在线点播两万部高清（720p）视频。也可以参考的一个数据，据CNNIC报告显示，截至2014年底，中国大陆的所有国际出口带宽总和为4100Gbps。</p>
+<p>“墙”转守为攻的这一异常举动，是一个明显的信号，希望GitHub删除“有威胁”的代码仓库。最终，在巨大的舆论压力下，“大炮”停止了攻击。在墙的攻防体系中，“大炮”虽然不直接设防，但它对墙外的“反动势力”是一种威慑的的存在——必要的时候，随时可以出击。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/b5926d9f44da4a2aae45c40a75839767.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/b5926d9f44da4a2aae45c40a75839767.png" alt="b5926d9f44da4a2aae45c40a75839767" width="600" height="381"></a><p>墙的招式列表。大炮作为一种威慑的存在，以攻为守。制图：金秋枫</p></div>
+<p>在“墙”的拼命围剿之下，传统翻墙手段逐一失效。原因很简单：主流方法都有特定的模式，逃不过基于机器学习的“深度包检测”技术。机器学习的准确性是随着样本增加而提升的，所以要逃离“墙”的围剿，就得把自己的流量伪装得不一样。海外专业VPN服务Astrill，以及国内的“曲径”、“红杏”等后起之秀，都是通过打造私有协议，来绕过检测。</p>
+<p>在这种形势下，开源翻墙利器ShadowSocks被更多的人注意到，基于SS搭建的翻墙服务如雨后春笋一样出现。它的中文名为“影梭”，社区昵称为“SS”——这是一个由中国程序员发起的开源项目，主要开发者在墙内。</p>
+<p>2012年4月，SS第一份代码提交；</p>
+<p>2013年，SS完成主要开发；</p>
+<p>2014年夏开始，由于墙的升级，SS受到社区更多的关注，进入高频升级的阶段；</p>
+<p>……</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/78bf84b08b664dd6bd43ac91345f8c13.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/78bf84b08b664dd6bd43ac91345f8c13.png" alt="ShadowSocks开发记录。" width="600" height="129"></a><p>ShadowSocks开发记录。</p></div>
+<p>ShadowSocks提供的其实是一套框架，支持多种加密方式，可以监听不同的端口，只需要很简单的配置，就可以在客户端和跳板机之间建立一条隧道。这些特点，让SS成为“游击队员”们最喜爱的工具。作为一款“非主流”的工具，SS曾经是非常有效的翻墙手段。但从15年初开始，深圳的部分ISP已经部署针对SS的阻断系统——推测是基于同一套“深度包检测”技术。好在SS的参数衆多，随便调整一下，即可生成不同的“肖像”，令“墙”在观测不足的情况下，无法迅速动手。但随着时间推移，“墙”总会搜集到足够的样本。刚开始的时候，选一套SS的参数可以坚持几个星期，到后来，就只有几个小时了。但墙一天不倒，游击战就一天不停。换密码、换加密协议、换端口，如每天吃饭一样，逐渐变得规律。实在不行，就只有换IP了，即再买一个VPS。SS的高级玩家，会加入自己定制的加密模块，使得流量更隐蔽。总之，SS是一个开源项目，玩法多种多样，打游击的优势巨大。</p>
+<p><strong>2015年香港：遥看墙内围剿“造梯人”</strong></p>
+<p>还有太多重要的事情要做，不能将时间浪费在与“墙”无休止的游击战中——我决定搬回香港。</p>
+<p>而墙内，一场密谋已久的围剿，终于显露。</p>
+<p>8月20日，ShadowSocks作者在GitHub上关闭了相关项目的Issue面板并清空所有帮助信息，同时GitHub上“shadowsocks”组织的成员信息被隐藏。</p>
+<p>8月21日，GoAgent（一款曾经主流的翻墙软件，托管在Google Code）的论坛上传出SS作者“被喝茶”的消息。</p>
+<p>8月22日，ShadowSocks作者现身GitHub，证实“喝茶”，并删除了代码库。</p>
+<p>8月25日，Google Code转为只读状态，GoAgent论坛散落。</p>
+<p>8月25日，GoAgent托管在GitHub上的仓库被删。</p>
+<p>8月25日，GitHub受到超过两个小时的DDoS攻击，攻击源目前不明。</p>
+<p>8月26日，多处消息源显示，曲径、红杏等大陆多家VPN服务商受到直接或间接的压力，停止服务。</p>
+<p>……</p>
+<p>以前干掉的是制造和售卖梯子的人，现在连设计梯子的人也要干掉。</p>
+<p>未来会如何呢？可以想像，大规模的VPN服务会消失；一些小规模的地下服务，继续运行。另一方面，翻墙工具链，势必会持续升级。公开的成熟项目被封后，社区会衍生出不同变种，以适应“墙”的改变。特别是像SS这样的开放框架，稍作修改，又是一种玩法，无穷无尽。但没了牵头的人，没了集中的论坛，知识传递的形式将会反古。原本，互联网让知识可以扁平传递，现在“屠梯”行动恐将人们逼回“口耳相传”的模式。未来，“翻墙”可能是一种手艺，如何传承，任重道远。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%81%93%E9%AB%98%E4%B8%80%E5%B0%BA-%E5%A2%99%E9%AB%98%E4%B8%80%E4%B8%88%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E5%B0%81%E9%94%81%E6%98%AF%E5%A6%82%E4%BD%95%E5%8D%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/vpn/?category=18271" rel="tag">VPN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">不明真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">北京邮电大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8A%A8%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">反动势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">国家防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91/?category=18271" rel="tag">大陆网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E8%B4%A2%E7%9F%A5%E9%81%93-%E7%9B%AE%E5%89%8D%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E5%B3%BB%EF%BC%9F/" target="cdt-mirror">凤凰财知道 | 目前中国的经济形势到底有多严峻？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%961.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%961.jpg" alt="中国经济恶化1" width="600" height="340"></a></p>
+<p><strong>Q：在当前改革深化，内需不足，外需大减的情况下，请问中国经济到底有多糟糕？病症在哪里？</strong></p>
+<p>A1：</p>
+<p>提供点素材让大家感受下我国的宏观经济形势。</p>
+<p>数据来源：国家统计局国家数据网（http://data.stats.gov.cn/index.htm）<br>
+——————————————————————————————————————————–</p>
+<p><strong>1、PMI</strong></p>
+<blockquote><p>制造业采购经理指数（PMI），是通过对企业采购经理的月度调查结果统计汇总、编制而成的指数，是国际上通用的监测宏观经济走势的先行性指数之一，具有较强的预测、预警作用。PMI是一个综合指数，由5个扩散指数（分类指数）加权计算而成。PMI通常以50%作为经济强弱的分界点，PMI高于50%时，反映制造业经济扩张；低于50%，则反映制造业经济收缩。</p></blockquote>
+<p>1.1、制造业PMI指数</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%962.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%962.jpg" alt="中国经济恶化2" width="577" height="305"></a></p>
+<p>1.2、非制造业PMI指数</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%963.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%963.jpg" alt="中国经济恶化3" width="594" height="301"></a></p>
+<p> </p>
+<p>1.3、中美欧制造业PMI指数对比</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%964.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%964.jpg" alt="注：对比图中的PMI指数为汇丰银行版中国PMI，与官方版略有不同" width="597" height="426"></a><p>注：对比图中的PMI指数为汇丰银行版中国PMI，与官方版略有不同</p></div>
+<p><strong>2、克强指数</strong></p>
+<blockquote><p>克强指数（Li keqiang index），是英国著名政经杂志《经济学人》创造的用于</p>
+<p>评估中国GDP增长量的指标，以中国国务院总理李克强的名字命名。<br>
+克强指数是三种经济指标：耗电量、铁路货运量和银行贷款发放量的结合。该杂志认为，克强指数比官方GDP数字更能反映中国经济的现实状况。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%965.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%965.jpg" alt="中国经济恶化5" width="600" height="308"></a></p>
+<p>
+</p><p>2.1.发电量</p>
+<p>2.2.铁路货运量</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%966.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%966.jpg" alt="中国经济恶化6" width="572" height="323"></a></p>
+<p>2.3克强指数</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%967.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%967.jpg" alt="中国经济恶化7" width="600" height="455"></a></p>
+<p>——————————————————————————————————————————–</p>
+<p>3、工业</p>
+<p>3.1工业增加值</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%968.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%968.jpg" alt="中国经济恶化8" width="600" height="446"></a></p>
+<p> </p>
+<p>3.2.工业企业利润总额</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9610.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9610.jpg" alt="中国经济恶化10" width="600" height="439"></a></p>
+<p>
+</p><p>———————————————————————————————————————————-</p>
+<p>4、行业</p>
+<p>选取一些比较有代表性的行业数据</p>
+<p>4.1、汽车</p>
+<p>半个汽车人表示，如果铺开说，我能给你倒一晚上苦水。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9611.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9611.jpg" alt="中国经济恶化11" width="585" height="314"></a></p>
+<p>4.2、手游</p>
+<p>其他答案里提到的口红效应，付费用户中，包括我</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9612.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9612.jpg" alt="中国经济恶化12" width="600" height="447"></a></p>
+<p> </p>
+<p>———————————————————————————————————————————-</p>
+<p><strong>5、三驾马车</strong></p>
+<p>传统意义上拉动中国经济增长的三驾马车，出口，内需，投资</p>
+<p>5.1、出口总量</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9613.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9613.jpg" alt="中国经济恶化13" width="572" height="313"></a></p>
+<p>5.2、社会消费零售</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9614.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9614.jpg" alt="中国经济恶化14" width="582" height="325"></a></p>
+<p>5.3、固定资产投资额</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9615.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9615.jpg" alt="中国经济恶化15" width="585" height="310"></a></p>
+<p>——————————————————————————————————————————–</p>
+<p><strong>6、房地产</strong><br>
+唯一触底反弹的，恩，是房地产行业<br>
+因为它的冬天来得早了那么一点</p>
+<p>6.1、房地产销售</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9616.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9616.jpg" alt="中国经济恶化16" width="561" height="322"></a></p>
+<p>6.2、房地产开、竣工面积</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9617.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9617.jpg" alt="中国经济恶化17" width="555" height="305"></a></p>
+<p>6.3、房价</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9618.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9618.jpg" alt="中国经济恶化18" width="612" height="466"></a></p>
+<p>————————————————————————————————————————————</p>
+<p><strong>7、景气指数</strong></p>
+<blockquote><p>经济景气指数来源于企业景气调查，它是西方市场经济国家建立的一项统计调查制度。它是通过对企业家进行定期的问卷调查，并根据企业家对企业经营情况及宏观经济状况的判断和预期来编制的，由此反映企业的生产经营状况、经济运行状况，预测未来经济的发展变化趋势。<br>
+宏观经济景气指数包括：预警指数、一致指数(1996年=100)、先行指数,(1996年=100)、滞后指数,(1996年=100)</p></blockquote>
+<p>7.1、宏观经济景气指数</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9619.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9619.jpg" alt="中国经济恶化19" width="600" height="454"></a></p>
+<p> </p>
+<p>————————————————————————————————————————————-</p>
+<p><strong>8、股市</strong></p>
+<p>熊市来得太快就像龙卷风~</p>
+<p><strong>A2：</strong></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/NRlyD84xy2sRbkibexujrctx5z660TcBf3oa46DUI6CrrypecjcdZiblH2gCgbgTVAkVv7F3QnFUIToj3ZMzeaeA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E8%B4%A2%E7%9F%A5%E9%81%93-%E7%9B%AE%E5%89%8D%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E5%B3%BB%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%A9%BE%E9%A9%AC%E8%BD%A6/?category=18271" rel="tag">三驾马车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E9%9C%80/?category=18271" rel="tag">内需</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A4%A9/?category=18271" rel="tag">冬天</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">宏观经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF/?category=18271" rel="tag">经济形势</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%BD%93%E6%8A%97%E6%88%98%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1%E7%9A%84%E6%9C%BA/" target="cdt-mirror">【网络民议】每个人都有当抗战“中流砥柱”的机会</a>
 </h2>
 <p><p><strong><a href="http://politics.caijing.com.cn/20150906/3961669.shtml">长江新闻｜浙江横店影视城推活动：喊勿忘国耻优惠门票</a></strong></p>
@@ -688,134 +903,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9C%9F%E5%BF%83%E4%B8%8D%E8%83%BD%E7%9B%B4%E8%A7%86%EF%BC%8C%E5%BD%AD%E9%BA%BB%E9%BA%BB%E7%9C%8B%E9%80%8F%E4%BA%86%E4%B8%80%E5%88%87/" target="cdt-mirror">【河蟹档案】真心不能直视，彭麻麻看透了一切</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%87%E4%B8%8A%E4%B8%80%E5%93%A5">陇上一哥</a>：阅兵还是有所保留的，最能打的城管方队和最耐打的股民方队都没有出现。。。<br><a href="https://freeweibo.com/weibo/3882978071754198" target="/weibo/388">2015年09月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8B%B1%E5%BC%8F%E6%B2%A1%E5%93%81%E7%AC%91%E8%AF%9D%E7%99%BE%E7%A7%91">英式没品笑话百科</a>：大月饼是属于中国人民的，但归根结底也是属于处女座的，一样的步伐，一样的身高，一样的罩杯。<br><a href="https://freeweibo.com/weibo/3882897313910600" target="/weibo/388">2015年09月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BA%A2%E6%A5%BC%E6%A2%A6%E6%96%AD%E4%B8%89%E7%99%BE%E5%B9%B4">红楼梦断三百年</a>：习大大最后挥拳头说：“人民币胜！”看来美元彻底没戏了！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/333.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/333.jpg" alt="333" width="295" height="297"></a><br><a href="https://freeweibo.com/weibo/3882932965937647" target="/weibo/388">2015年09月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BA%BA%E5%95%8A">全世界最美丽的人啊</a>：看评论才注意到手在抖<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/222.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/222.gif" alt="222" width="304" height="448"></a><br><a href="https://freeweibo.com/weibo/3882991568911125" target="/weibo/388">2015年09月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40Monster_%E5%B8%86%E6%9D%A5%E5%B8%86%E5%8E%BB">Monster_帆来帆去</a>：真心不能直视惹<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A8%B1%E4%B9%90%E8%B5%84%E6%9C%AC%E8%AE%BA%EF%B8%B1%E5%A4%AE%E8%A7%86%E5%AF%BC%E6%92%AD%E5%90%90%E6%A7%BD%E9%98%85%E5%85%B5%EF%BC%9A%E5%85%A8%E7%A8%8B%E6%9C%89%E4%B8%89%E5%A4%A7%E6%A7%BD%E7%82%B9/" target="cdt-mirror">娱乐资本论︱央视导播吐槽阅兵：全程有三大槽点</a>
-</h2>
-<p><p>【编者注】微信原文已被和谐。</p>
-<p><em>原文标题：央视导播吐槽阅兵：全程有三大槽点，但我们可能是央视最後的导播人才</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpg" alt="01" width="525" height=""></a></p>
-<p><strong>作者：娱乐资本论【微信号ID：yulezibenlun】</strong></p>
-<p>每当有大事需直播发生时，就最能体现一家电视台的人才深度。</p>
-<p>比如说08年奥运会，NBC就把央视秒成了渣。比如说8月份的 天津事件，就把天津台的媒体环境暴露了出来。比如说每年的好声音总决赛，也暴露出了灿星的短板。</p>
-<p>而今天暴露的最明显的，就是央视直播的导播。尤其是对於没有看到女兵真容的军迷们来说，你让我们怎麽舔屏！</p>
-<p>还有对比84年那次阅兵，邓公每次说完「同志们辛苦了」，镜头特写会立刻对准排头的方阵士兵脸部，体现对士兵极大敬意。这次官媒的特写几乎全程对准习，给到的士兵特写镜头只有五次。</p>
-<p>那麽啥是导播？他们是整场直播的核心。所有观众能看到的画面，都由他们指挥「摄像师」进行拍摄，并进行现场切换。（比如说下面这位在导播TFboys的表演时，非常魔性）</p>
-<p>下面，娱乐资本论也通过采访了几位央视的导播，从专业的角度，解析了今天的三大槽点！</p>
-<p>似乎从08年奥运会开始，再到09年的阅兵，再到今年的阅兵，央视的导播就一直没逃过中国老百姓的口诛笔伐。不过，虽然槽点很大，但也有老央视导播莫不黯然神伤的表示：「这些可能是央视最後的导播人才。」</p>
-<p>确实，连郎永淳这种门脸上的老央视人都已经离开央视，那些曾经经历过08奥运丶09国庆的老导演，其实已经走了不少。而这些人即使再被吐槽，也是全中国最後的导播人才。如果连央视导播流失都这麽严重，整个中国的导播环境，又能好到哪去呢？</p>
-<p>槽点①：经常切飞，女兵都不给特写！</p>
-<p>在导播届，有个术语叫切飞了，啥意思？就是导播切过来一个机位，但发现镜头没有拍到主体，只好马上切走了。</p>
-<p>哪里有？当大大开着红旗车从天安门城楼里出来，和阅兵总指挥交接时，那个阅兵总指挥就切飞了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpg" alt="01" width="525" height=""></a></p>
-<p>90多个机位拍成这个熊样，女兵不给特写镜头。最重要的是，别的方队经过时，挥手致意的DD的镜头不是特别多；一到女兵方阵时，就猛给DD微笑着的镜头（细思恐极）。</p>
-<p>你看刘猛导演就在猛地吐槽：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/02.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/02.jpg" alt="02" width="550" height=""></a></p>
-<p>分镜头脚本的主要任务，是根据解说词和电视文学脚本来设计相应画面，配置音乐音响，把握片子的节奏和风格等。</p>
-<p>说白了，就是建造蓝图。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/03.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/03.jpg" alt="03" width="440" height="330"></a></p>
-<p>据某央视前导播介绍，理论上来讲，前期预演当中应该经过详细的推敲，现场直播的切换，应该严丝合缝的来切换，「对於导播来讲，所有的进场部队、检阅的官兵们，因为他们是0误差，所以导播应该能做到详细的分镜头的工作。」</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/04.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/04.gif" alt="04" width="293" height="149"></a></p>
-<p>再在设定好一些套用镜头组，比如说「先是一个少将喊号的中景，然後右侧前方机位的固定镜头，再是全景的摇，」类似这种镜头组，就能保证摄像不是乱找镜头，而是等着导播的呼唤。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/05.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/05.gif" alt="05" width="366" height="186"></a></p>
-<p>据另一个央视导播介绍，「国外切换的话，相对是比较确定的，包括综艺节目都有分镜头脚本，哪一个镜头是一定要切到你的，这个时候摄像师一定不能动，不然就切飞了。」</p>
-<p>槽点②：碎镜头太多，只记得炫耀gopro和「天鹰」！</p>
-<p>大家都知道这一次央视派出了90多个机位，除了传统的机位和gopro，还有两台二维索道摄像机。</p>
-<p>第一台：横跨长安街，用於正面拍摄阅兵方阵。这台设备名为「天鹰」，它的亮点在於，是中央电视台自主智慧财产权的创新产品，也是首次在重大活动中亮相。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/06.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/06.jpg" alt="06" width="525" height=""></a></p>
-<p>第二台：「飞猫」，位於长安街沿线，获得500多米的移动范围。用於拍摄领袖坐车阅兵瞬间和侧面拍摄阅兵方阵。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/07.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/07.jpg" alt="07" width="525" height=""></a></p>
-<p>还有航拍陀螺仪，6轴陀螺仪稳定摄影平台具有零震感的稳定性，一大特点是可俯视拍摄—当运动物体逆向行驶或者需要倒置拍摄时，省掉了直升机转向掉头或者跟丢的麻烦。</p>
-<p>但好像整个过程，一直在炫耀这些牛逼的机器和tank底部、飞行员舱等gopro小机位，忘了为什麽镜头在这个位置是否恰当。</p>
-<p>比如说像斐济这样的小方阵出场，竟然动用了「天鹰」，那个角度真心很伤人啊，前後对比那麽大，感觉到了啥叫小国寡民。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/08.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/08.jpg" alt="08" width="525" height=""></a></p>
-<p>还有国外阅兵方队，全是全景。。尼玛啊，他们走路本来就难看，看的小娱我一直笑。。</p>
-<p>还有时不时插入一点群众镜头，这个色彩处理上，我也蛮想吐槽的。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/09.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/09.jpg" alt="09" width="525" height=""></a></p>
-<p>下面是全景的飞行编队，大全景…确定不是沙尘暴来了吗…说好的帅帅的飞机呢！！！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/101.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/101.jpg" alt="10" width="525" height=""></a></p>
-<p>横扫各国领导人的镜头，机位明显设置有问题，显示半张脸和无脸，虽然没必要过度解读，但起码画面不好看啊。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/11.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/11.jpg" alt="11" width="525" height=""></a></p>
-<p>槽点③：手抖的厉害！你是有多怕！</p>
-<p>对於导播团队来说，最可怕的莫过於手抖了。</p>
-<p>比如说，大大上车的环节，机位明显晃动，导播没注意就切过去了</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/12.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/12.gif" alt="12" width="366" height="186"></a></p>
-<p>国旗升完，这个镜头连拉加抖，抖的我的心都慌了，偷偷哭了5分钟</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/14.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/14.png" alt="14" width="525" height=""></a></p>
-<p>这麽麽重要的场合，你看看摄像大哥在手抖，抖得看台上的朋友都手抖了。</p>
-<p>据说，手抖分为生理性手抖和心理性手抖。心理性手抖，有点象预期焦虑症。这种问题常常制造了一个使病人感觉到恐惧的情境。比如，你非常担心在做一件事时有别人在场时手会发抖，结果别人来到你面前时，你的手真的在抖动了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/15.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/15.jpg" alt="15" width="440" height="273"></a></p>
-<p>再说说声音，阅兵式的声音直播设计可谓煞费苦心，人力物力无所不尽其能。但是效果很不理想，语言，士兵喊声，脚步声，发动机等声音的清晰度很好，但是缺乏群感，完全没有表现出气势。话筒的摆放存在极大的问题，话筒的选择存在极大的问题。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/16.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/16.jpg" alt="16" width="500" height="439"></a></p>
-<p>还 有网友表示：不知道有木有注意到护旗手走向旗杆时满地乱糟糟的话筒线？派话筒员跟随可以，可为什麽不可以用个无线手雷接吊杆话筒呢？虽然据说森海是主赞 助，但森海的无线手雷不给力你们都不能为大局着想借用下人家莱克或者ZAXCOM的麽？！人家央视的摄影组技术已经被吐槽死了，音频组还尽给人家添乱！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/17.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/17.jpg" alt="17" width="475" height="656"></a></p>
-<p>客观原因：今年由新闻频道主控，没有央视三套厉害！</p>
-<p>其实说了这麽多槽点，但大家都知道，中国最好的直播技术，就是三大台的人员：央视、湖南卫视、北京卫视。</p>
-<p>其中湖南卫视是长期做直播节目练习出来的，北京卫视是长期在北京接私活培训出来的。。至於央视，则是最好的设备+最好的培训系统+最好的锻炼机会，因此央视的团队也一直是国内最顶级的导播团队。</p>
-<p>那为什麽这一次被吐槽呢？</p>
-<p>据悉，有三个原因，</p>
-<p>1.只有一次彩排+0延时</p>
-<p>大家都知道阅兵礼，完完整整的彩排只有一次，导播的压力非常大，而且今天这个直播是没有延时的直播（一般春晚啥的都有30秒延时）。。。虽然看上去30秒没有特别大的差别，但对於导播来讲心理压力小很多，所以切镜头时会紧张是正常的。</p>
-<p>2.机位太多</p>
-<p>今年用了90多台机位，听起来很棒，其实在操作上来讲增加了很多风险，「我们平常都是一级切换，我一个人搞定全部。现在就必须用到多级切换。上面有总的导播来控制，小导播则负责小模块，总导播总控切出。」</p>
-<p>一般分级切换的情况，不是特别好掌控，需要上面的导播思路要非常清楚，而且要善於和下面的导播沟通，两者的节奏丶气口丶审美都要一致，才不至於互相打架。</p>
-<p>3.换了团队</p>
-<p>因为长期做晚会的关系，大家都知道央视最厉害的大型直播团队，是三套的大型活动中心。</p>
-<p>但今年这一次阅兵礼，却改由新闻中心主控的（央三辅助），和三套相比，对镜头的组接的能力应该是不如的，</p>
-<p>当然，可能普通的小型现场新闻直播，确实是新闻中心厉害，但这可是90多个机位，几十种摄影器材，堪比一场需要营造恢弘、大气、敞亮的真人秀节目啊。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/18.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/18.gif" alt="18" width="274" height="169"></a></p>
-<p>话说回来，现在中国的整体新闻环境，只可能是央视这样的大平台才能够养得起这样的一只新闻团队：让几百人，花费好几个月的时间，动用一切配合力量，就准备一场浩大的直播。</p>
-<p>如果在地面卫视，只可能买一本节目圣经和下载一些节目，然後让几个导播照猫画虎的背下来，这是快速而廉价的学习方式，但永远也做不了大型新闻直播。</p>
-<p>可惜，现在不少央视老导播，也走的走，躲的躲，外面接活的接活。</p>
-<p>采访完之後，有一个导播语重心长的告诉娱乐资本论：「他们今天是有些纰漏，但有可能几年後，中国大型新闻活动的导播，都会绝种了。」</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A8%B1%E4%B9%90%E8%B5%84%E6%9C%AC%E8%AE%BA%EF%B8%B1%E5%A4%AE%E8%A7%86%E5%AF%BC%E6%92%AD%E5%90%90%E6%A7%BD%E9%98%85%E5%85%B5%EF%BC%9A%E5%85%A8%E7%A8%8B%E6%9C%89%E4%B8%89%E5%A4%A7%E6%A7%BD%E7%82%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%9F%8E%E6%A5%BC%E4%B8%8A%E5%A6%82%E4%BD%95%E7%AB%99%E4%BD%8D%EF%BC%9F/" target="cdt-mirror">元淦恭：天安门城楼上如何站位？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262509438.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262509438.jpg" alt="mmexport1441262509438" width="550" height=""></a><br><em>（网络图片）</em></p>
-<p>9月3日的抗战胜利阅兵式，是自中苏交恶之后中共首次大规模邀请外国领导人出席的阅兵式。阅兵式城楼上采取了此前从未有过的站位形式，即习近平居中，江泽民、胡锦涛及其他中方领导人站在习近平左侧，一字排开，普京、朴槿惠等外方领导人站在习近平右侧，一字排开。</p>
-<p>外方领导人没有什么好解读的，我们主要来看中共领导人站位的方式。</p>
-<p>习近平上任以来，这是第三次有前任领导人出席的重要活动，前两次是国庆65周年文艺晚会和招待会。</p>
-<p>今天庆祝大会，领导人的站位顺序是</p>
-<p>习近平、江泽民、胡锦涛和其他现任政治局常委在最前，然后依次是李鹏、朱镕基、李瑞环、吴邦国、温家宝、贾庆林、宋平、李岚清、曾庆红、吴官正、李长春、罗干、贺国强。这和去年的国庆招待会上的座位安排完全相同。</p>
-<p>这样的座次安排是基于什么原则呢？</p>
-<p>简单概括有两点，第一，政治局常委也是分层的；第二，在同一层中，主要按照“代际”和“时任排序”确定站位顺序。</p>
-<p>虽然所有政治局常委都是“正国级”，但其中根据其担任的具体职务，地位有所不同。中华人民共和国有六个正国级的党和国家机构（中共中央、国家主席、全国人大 常委会、国务院、全国政协、中央军委），其负责人是担任“正国级国家机构正职”的正国级领导人；没有在上述机构担任过正职的政治局常委，是“没有担任过正 国级国家机构正职”的正国级领导人。这两句话看起来很拗口，但对于理解领导人站位顺序非常有意义。</p>
-<p>今年6月到8月， 乔石、万里、尉健行三位正国级老同志先后谢世。乔石和万里去世时天安门下半旗，而尉健行没有下半旗。其中，万里没有担任过政治局常委，下半旗；而尉健行当 过政治局常委，反而没有下半旗。这其中的道理就在于，乔石、万里都是担任过“正国级国家机构正职”（全国人大常委会委员长）的领导人，而尉健行没有担任过 “正国级国家机构正职”，他曾以政治局常委身份兼任的是中纪委书记（副国级机构）。</p>
-<p>除江泽民、胡锦涛外，李鹏（1987年到1998年任代总理、总理，九届全国人大常委会委员长）、朱镕基（1998年到2003年任总理）、李瑞环（八届、九届全国政协主席）、吴邦国（十届、十一届全国人大常委会委员长）、温家宝（2003年到2013年任总理）、贾庆林（十届、十一届全国政协主席）是“担任正国级国家机构正职”的，因此他们的站位在那些没有担任过正国级国家机构正职的领导人之前。</p>
-<p>第二个原则，是在每一个级别内部的排位顺序，主要依靠“代际”和“时任排位”两个原则。什么意思呢？当前中共健在的“老同志”，都是第三代中央领导集体成员 和“以胡锦涛同志为总书记的党中央的成员”（中共至今仍未使用过“第四代”这一词汇，但为了方便，后文中提及这一概念时统一用第四代）。第三代领导人，不 论当时的排位高低，都排在第四代领导人之前。“时任排位”原则是，不论一领导人的最高排位如何，在同一届中央委员会担任政治局常委的排位顺序都符合当时的 排位。</p>
-<p>下面来依次解释这些领导人为啥排在相应位置：</p>
-<p>李鹏、朱镕基、李瑞环三人，都是中共第三代的主要成员。这一排位是按照他们卸任前（2002年中共十六大）的排位顺序。</p>
-<p>吴邦国、温家宝、贾庆林，是中共第四代的主要成员，全部排在第三代之后。这一排位是2002年到2012年间的二号位到四号位排位。</p>
-<p>宋平、李岚清是“没有担任过正国级国家机构正职”的领导人中仅有的两位健在的第三代中央领导集体成员（第三代中央领导集体主要成员指十三届、十四届、十五届中央政治局常委，不包括十三届四中全会上被撤职、免职者，不包括主要在八十年代任副总理在1992年 即退休的姚依林，一共有江泽民、李鹏、乔石、宋平、李瑞环、朱镕基、刘华清、胡锦涛、尉健行、李岚清十人）。因此他们作为第三代，站位居于第四代领导人之 前，宋平是十三届政治局常委，李岚清是十五届政治局常委，且宋平最高排位第五位，李岚清第七位，因此宋平自然在李岚清之前。</p>
-<p>第四代即中共十六届、十七届政治局常委中当时不是正国级国家机构正职的，除习近平、李克强目前在任领导人，黄菊在任上逝世，周永康被查办外，其他的都以老同志身份登上了天安门城楼，其排位顺序是曾庆红、吴官正、李长春、罗干、贺国强。</p>
-<p>这个排位是怎么来的呢？在小的代际中再细分，把这五人分为十六届政治局常委和十七届政治局常委。先排十六届政治局常委（曾庆红、吴官正、李长春、罗干），贺国强没有进入十六届政治局常委会，2007年在中共十七大上才进入常委会，因此排在前述四人的后面。</p>
-<p>曾庆红、吴官正、李长春、罗干四人的排位，是严格按照中共十六届政治局常委会当时的排位。虽然李长春和曾庆红、吴官正、罗干不同，担任过两届政治局常委，并且在十七届政治局常委会中排在5号位，但为了符合十六届政治局常委会的排位，仍在吴官正之后（李长春在十六届政治局常委会排在8号位）。</p>
-<p>简而言之，领导人的排位顺序，首先看担任职务的级别，第二看担任职务的先后，第三看同期任职的领导人的时任排序，和领导人本身担任政治局常委的长短没有关系。</p>
-<p><strong>本文来源于微信公众账号“元淦恭“（微信号：yuangangong）</strong></p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%9F%8E%E6%A5%BC%E4%B8%8A%E5%A6%82%E4%BD%95%E7%AB%99%E4%BD%8D%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -827,7 +914,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ixqafv8bd6rz.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ohwx3tqmh35j.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -837,5 +924,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1ixqafv8bd6rz.cloudfront.net">https://d1ixqafv8bd6rz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d1ixqafv8bd6rz.cloudfront.net">https://d1ixqafv8bd6rz.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://db34ntcej7riq.cloudfront.net">https://db34ntcej7riq.cloudfront.net</a><br/></td>    </tr>
 </table>

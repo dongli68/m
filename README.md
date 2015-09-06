@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d167tecby79m5o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3qd7rgamsoz9w.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d167tecby79m5o.cloudfront.net">https://d167tecby79m5o.cloudfront.net</a><br/><a href="https://d3j18k7akbnqko.cloudfront.net">https://d3j18k7akbnqko.cloudfront.net</a><br/><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://d3j18k7akbnqko.cloudfront.net">https://d3j18k7akbnqko.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d167tecby79m5o.cloudfront.net">https://d167tecby79m5o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%91%9B%E5%A3%B0%E8%8C%83%E8%8C%83%E5%8F%8D%E6%98%A0%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A/" target="cdt-mirror">唐映红：大陆网民呛声“范范”反映了怎样的社会心理？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/61e7f4aajw1evrdjoshswj20c80lqq4n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/61e7f4aajw1evrdjoshswj20c80lqq4n.jpg" alt="61e7f4aajw1evrdjoshswj20c80lqq4n" width="440" height="782"></a></p>
+<p><strong>问：大陆网民呛声“范范”反映了怎样的社会心理？</strong></p>
+<p>答：前天，美籍台湾歌手范玮琪（Fan Fan）因在微博晒儿子照片，<strong>被大陆部分网民质疑不关心月饼而遭到呛声和谩骂。</strong>范范在<strong>莫名其妙的群体舆论压力</strong>下，不得不发表道歉声明，说道：“真是对不起，因为分享了一张儿子的照片，让大家不高兴了！”</p>
+<p>这不是大陆网民第一次呛声公众人物，半个多月前在天津大爆炸后，同样是大陆部分网民在大陆富豪马云微博下呛声要求马云捐款。<strong>近年来，大陆网民在重大事件发生后，对明星等公众人物动辄得咎，无理谩骂成为风尚。</strong></p>
+<p>那么，类似对公众人物动辄得咎、仅仅因为没做什么而破口大骂的现象事实上反映了怎样的社会心理呢？</p>
+<p>首先，这种现象<strong>反映了社会意识形态近年来越来越失范的迹象。</strong>近年来，随着传统的革命意识形态式微和破产，对西方意识形态的高调抵制，以及一知半解地蛊惑所谓的传统意识形态，导致<strong>整个社会意识形态紊乱。</strong>实际上，尽管互联网被钳制得越来越厉害，但仍然不能阻挡讯息的传播和交流，这就造成<strong>整个社会在态度上的对立和撕裂，并越来越使撕裂的对立态度趋于极端。</strong>因此，<strong>这种对公众人物动辄得咎，公然质疑和谩骂的现象不过是这种社会态度极端化的一种体现。</strong>特别是在越来越浅薄的具有反智特征地权力集团的舆论引导和灌输，<strong>整个舆论风气使简单粗暴无法理解复杂社会现象的那部分人群如鱼得水，四处炫耀。</strong></p>
+<p>其次，<strong>近年以CCAV为代表的权力集团喉舌媒体对公众人物的游街式抹黑和批判给社会公众提供了极为不良的示范。</strong>这就给那些对社会仇富、反社会的情绪提供了一个“合法”的宣泄通道，一些仇视富人、将自身恶劣处境归咎于明星、富人的富裕的人群，可以通过网络肆无忌惮地表达他们的愤懑。同时，对公众人物的谩骂和斥责也能将他们在社会中积累的挫败感转移宣泄。一个在家庭、社会中处处受挫的年轻人，他不敢质疑强权，也无法问责压迫者，他积蓄的愤怒和焦虑在谩骂拷问公众人物的过程中得到释放和宣泄。从某种意义上，<strong>正如CCAV总是将某些公众人物当作“替罪羊”来转移公众质疑，那些对公众人物动辄得咎的网民也不过是将某些公众人物当作“痰盂”来释放现实生活中无处宣泄的坏情绪。</strong></p>
+<p><strong>至于那些网民以一种反现代文明的方式来质疑、批评和谩骂公众人物，则与中国大陆官办教育本身具有的反现代文明同出一辙。</strong>虽然联合国教科文组织早在20年前就确定了“<strong>学会共处</strong>”（Learning to live together）为面向21世纪世界教育的四大支柱之一，其要义就是要引导和教育学生如何同与自己不同的他人相处、协作。但<strong>中国大陆官办教育不仅没有启发和引导学生善待与自己不同的人，反而还不断抹黑和妖魔化那些与主流态度不同的“一小撮”。</strong>这就使得中国教育出来的学生不仅不能善待“非主流”，而且还会本能地对“非主流”报以敌意和排斥。在主流人群都在品尝月饼的同时，有“一小撮”明星竟然没有与大家同乐，<strong>对这“一小撮”明星报以敌意和谩骂诋毁不过是大陆教育结出的硕果之一二。</strong></p>
+<p>同时，<strong>由于近年来所谓的社会主流越来越具有不容质疑的强制色彩，那些不得不违心接受主流的部分人群在合理化自己的态度和行为选择过程中，更容易表现为对尚未接受主流人群的指控和挑剔</strong>。其情形就好比“<strong>我都吃屎了，范范竟然不吃屎，怎么可以这样！”</strong>在一个自由选择的社会情境下，人们更可能宽容对待他人的不同选择；而在强制的社会情境下，那些与主流保持距离的人群就更容易被接受强制的人群指控和挑剔。</p>
+<p>无论如何，<strong>在宽容、尊重和多元化为普世价值核心的现时代，大陆仍然充斥着对公众人物党同伐异的舆论打压，客气地说是那些呛声的蛆众之耻，更客观地说是这个社会之耻。</strong></p>
+<p>2015-09-05</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%91%9B%E5%A3%B0%E8%8C%83%E8%8C%83%E5%8F%8D%E6%98%A0%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81/?category=18271" rel="tag">主流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E5%85%83%E5%8C%96/?category=18271" rel="tag">多元化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%96%E9%AD%94%E5%8C%96/?category=18271" rel="tag">妖魔化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%8C%E8%BE%93/?category=18271" rel="tag">灌输</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86/?category=18271" rel="tag">社会心理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E7%8E%AE%E7%90%AA/?category=18271" rel="tag">范玮琪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E7%8E%AE%E7%90%AA%E9%81%93%E6%AD%89/?category=18271" rel="tag">范玮琪道歉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8A%9D%E9%85%92%E6%96%87%E5%8C%96%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">墙外楼 | 中国的劝酒文化背后的逻辑是什么？</a>
 </h2>
 <p><p>中国的劝酒文化背后的逻辑是什么？</p>
@@ -83,7 +104,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A4%BC/?category=18271" rel="tag">左手敬礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/cnd%EF%BD%9C%E4%B8%81%E5%AD%A6%E8%89%AF%EF%BC%9A%E5%8C%97%E4%BA%AC%E9%98%85%E5%85%B5%E8%83%8C%E5%90%8E%E7%9A%84%E5%9B%9B%E5%9B%BD%E6%BC%94%E4%B9%89/" target="cdt-mirror">CND｜丁学良：北京阅兵背后的“四国演义”</a>
 </h2>
@@ -808,46 +829,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%BC%A0%E4%B9%8B%E6%B4%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A4%E4%B8%BA%E6%9C%89%E5%85%B5%E5%9C%A8%E6%98%AF%E4%BA%A1%E5%9B%BD%E4%B9%8B%E8%A8%80%EF%BC%9F/" target="cdt-mirror">羽戈：张之洞为什么认为“有兵在”是亡国之言？</a>
-</h2>
-<p><p><strong>“怕什么，有兵在”考</strong></p>
-<p>若非姓氏为爱新觉罗，生在了帝王家，载沣这一生，恐怕难以为史册铭记。他的性情，与黎元洪相似，其弟载涛说：“他遇事优柔寡断，人都说他忠厚，实则忠厚即无用之别名。他日常生活很有规律，内廷当差谨慎小心，这是他的长处。他做一个承平时代的王爵尚可，若仰仗他来主持国政，应付事变，则决难胜任。”难堪大用，却被赋予重任，在历史转型的关节点上，被突如其来的一脚踢到了纷乱的前台，统领一省或一国，这构成了二人共同的悲剧（相比黎菩萨，载沣更可悲，连婚姻都不由自主）。不过，他们虽秉性懦弱，却不甘于被人支配的傀儡命运，都曾奋臂而起，说过一些狠话，做过一些狠事。载沣最著名的一言，便是对张之洞说“怕什么，有兵在”。</p>
-<p>此言于今十分流行，引述者大都醉翁之意不在酒，而是以历史之酒浇自我心中郁积的块垒。除了今人块垒的内容，我更关心载沣此言的出处。他到底有没有说过这句话，抑或原话并非此形状，那么所改变的成色，多少是时光的摧折，多少是史家的演义。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%BD%BD%E6%B2%A3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%BD%BD%E6%B2%A3.jpg" alt="载沣" width="400" height=""></a><br>
-（载沣）</p>
-<p>“怕什么，有兵在”之风行天下，应该归功于高阳先生的历史小说《瀛台落日》，这是慈禧系列传记的最后一部。高阳写晚清史，不管是小说还是历史随笔，都可作信史来读。然而，小说家言终究是一种演义，且高阳说史，多刊于媒体，为稻粱谋，故要迎合读者的口味，将一些历史细节世俗化、八卦化。譬如这一节。话说在1909年，直隶士绅认为督办津浦铁路大臣吕海寰非去不可，庆亲王奕劻有意保举徐世昌兼办，张之洞闻听此事，带病入宫，请摄政王载沣召见，直言相询，有无其事：</p>
-<p>“有的。庆亲王保他‘才堪继任’。”</p>
-<p>“虽然才堪继任，无奈舆情不属。”</p>
-<p>“舆情不属？”载沣笑笑：“是直隶绅士的意思。”</p>
-<p>绅士跟小民的利害是不同的，张之洞不便细陈，只说：</p>
-<p>“不然！舆情不属，而且会激出变故。”</p>
-<p>“怕什么！”载沣淡淡地说：“有兵在！”</p>
-<p>张之洞像是脑前被捣了一拳，顿觉喉间有什么东西上涌，而且自己微微闻见腥气，口一张，一口鲜血吐在摄政王载沣面前……</p>
-<p>这段对话并非高阳凭空臆造，而有其确凿出处。张之洞的年谱有两本，我未尝见许同莘版，且以胡钧版为例：吕海寰革职一节，恰如高阳所述；然而，高阳说庆亲王荐徐世昌接任此职，胡钧撰《张文襄公年谱》（台湾文海出版社，第282页）却说是载涛、载洵二贝勒荐唐绍仪（该版作“怡”）。考二人生平，徐世昌兼办过京浦铁路，唐绍仪曾担任全国铁路总公司督办，应以前者为是。年谱出错了。</p>
-<p>接下来，年谱记载了监国即摄政王载沣与张之洞的对话：</p>
-<blockquote><p>监国（载沣）以问公（张之洞），公曰：不可，舆情不属。</p>
-<p>（载沣）曰：中堂，直隶绅士也，绅士以为可，则无不可者。</p>
-<p>（张之洞）曰：岂可以一人之见而反舆情，舆情不属，必激变。</p>
-<p>（载沣）曰：有兵在。</p>
-<p>公（张之洞）退而叹曰：不意闻此亡国之言。</p></blockquote>
-<p>此后张之洞吐血的情节，当是高阳的虚构。按年谱，张之洞的病在右肋和肝，经此重大变故，其病加剧，此后连续请假。再过三月，他的生命便宣告终结。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BC%A0%E4%B9%8B%E6%B4%9E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BC%A0%E4%B9%8B%E6%B4%9E.jpg" alt="张之洞" width="400" height=""></a><br>
-（张之洞）</p>
-<p>话说回来，一句“有兵在”，为什么令张之洞痛彻心扉，为之魂变？为什么称之为“亡国之言”？</p>
-<p>张之洞临终前夕，自我论定：“吾生平学术行十之四五，政术行十之五六，心术则大中至正。”随后，命家人将“政术”改为“治术”。由此可见他最看重什么。郑孝胥说过：端方有学有术，岑春煊不学无术，袁世凯不学有术，张之洞有学无术。“无术”之说，倒小觑了张之洞。他有“巧宦热中”的定评，从年轻之时狂言经营八表，到最终官居大学士，入值军机，位极人臣，如果无术，焉能走到这一步？而将“政术”改成“治术”，连一个字眼都这般慎之又慎，可知张之洞还是有一颗敬畏之心。</p>
-<p>这正可以解释，为什么张之洞与载沣对话，把“舆情”看得那么重。他终究是一个讲究治术的政治家，而非“和尚打伞，无法无天”的独夫民贼。能重视舆情，足见他对舆论与民意的尊重或顾忌；载沣则弃舆论与民意若敝屣，一句“有兵在”，诉诸枪杆子，拥兵自重，则属军政思想。如你所知，所有政治制度当中，军政永远都是最坏的那一种。一个王朝，一个国家，倘以军政自恃，不是妄自尊大，就是黔驴技穷，无论哪一种，离灭亡都不远了。</p>
-<p>“有兵在”不仅暴露了载沣的骄狂，还从侧面折射了他的颟顸：他可能并不清楚当时的军事力量之分布，满人早已不是铁马冰河悍然入关的满人，八旗腐化如泥，绿营不堪大用，军队已经完全落在了袁世凯等汉人手中；而且，这些军人里面，保大清者有多少，革命党与立宪党人的追随者有多少，二年后，武昌城的枪声一响，便见分晓。</p>
-<p>可悲的不是狂言“有兵在”的载沣，他和他的同党自绝于民，不亡何待；而是感慨“君民末世自乖离”，却甘作孤臣孽子的张之洞。他病逝前夕，与载沣还有一段故事。年谱记曰：</p>
-<blockquote><p>王（载沣）至，谓公（张之洞）曰：“中堂公忠体国，有名望，好好保养。”公曰：“公忠体国所不敢当，廉正无私不敢不勉。”王出，陈太傅（陈宝琛）入问曰：“监国之意若何？”公无他言，惟叹曰：“国运尽矣！”盖冀一悟，而未能也。（《张文襄公年谱》，第286-287页）</p></blockquote>
-<p>2011年5月9日</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%BC%A0%E4%B9%8B%E6%B4%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A4%E4%B8%BA%E6%9C%89%E5%85%B5%E5%9C%A8%E6%98%AF%E4%BA%A1%E5%9B%BD%E4%B9%8B%E8%A8%80%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -859,7 +840,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3e6zst9l42efx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d167tecby79m5o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -869,5 +850,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
                 <td></td>
                 
         
-        <td><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d167tecby79m5o.cloudfront.net">https://d167tecby79m5o.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d3j18k7akbnqko.cloudfront.net">https://d3j18k7akbnqko.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d167tecby79m5o.cloudfront.net">https://d167tecby79m5o.cloudfront.net</a><br/><a href="https://d3j18k7akbnqko.cloudfront.net">https://d3j18k7akbnqko.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d3e6zst9l42efx.cloudfront.net">https://d3e6zst9l42efx.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/></td>    </tr>
 </table>

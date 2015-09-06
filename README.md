@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgzpsbzordyd7.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1vl3bwkp23l8h.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%91%9B%E5%A3%B0%E8%8C%83%E8%8C%83%E5%8F%8D%E6%98%A0%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A/" target="cdt-mirror">唐映红：大陆网民呛声“范范”反映了怎样的社会心理？</a>
@@ -43,7 +43,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81/?category=18271" rel="tag">主流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E5%85%83%E5%8C%96/?category=18271" rel="tag">多元化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%96%E9%AD%94%E5%8C%96/?category=18271" rel="tag">妖魔化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%8C%E8%BE%93/?category=18271" rel="tag">灌输</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86/?category=18271" rel="tag">社会心理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E7%8E%AE%E7%90%AA/?category=18271" rel="tag">范玮琪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E7%8E%AE%E7%90%AA%E9%81%93%E6%AD%89/?category=18271" rel="tag">范玮琪道歉</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8A%9D%E9%85%92%E6%96%87%E5%8C%96%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">墙外楼 | 中国的劝酒文化背后的逻辑是什么？</a>
 </h2>
@@ -146,7 +146,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%A6%E8%89%AF/?category=18271" rel="tag">丁学良</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/" target="cdt-mirror">【立此存照】天津逼签</a>
 </h2>
@@ -840,7 +840,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3rfr45zgr117k.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mn6agp4qpdha.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -850,5 +850,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2mn6agp4qpdha.cloudfront.net">https://d2mn6agp4qpdha.cloudfront.net</a><br/><a href="https://d3rfr45zgr117k.cloudfront.net">https://d3rfr45zgr117k.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d1vl3bwkp23l8h.cloudfront.net">https://d1vl3bwkp23l8h.cloudfront.net</a><br/></td>    </tr>
 </table>

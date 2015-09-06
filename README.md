@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d130m6t8o94iwz.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db34ntcej7riq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d130m6t8o94iwz.cloudfront.net">https://d130m6t8o94iwz.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://db34ntcej7riq.cloudfront.net">https://db34ntcej7riq.cloudfront.net</a><br/><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db34ntcej7riq.cloudfront.net">https://db34ntcej7riq.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d130m6t8o94iwz.cloudfront.net">https://d130m6t8o94iwz.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%91%9B%E5%A3%B0%E8%8C%83%E8%8C%83%E5%8F%8D%E6%98%A0%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A/" target="cdt-mirror">唐映红：大陆网民呛声“范范”反映了怎样的社会心理？</a>
@@ -840,7 +840,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3pqs9dzpemga8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1na8m52edc826.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -850,5 +850,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://db34ntcej7riq.cloudfront.net">https://db34ntcej7riq.cloudfront.net</a><br/><a href="https://d130m6t8o94iwz.cloudfront.net">https://d130m6t8o94iwz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d3pqs9dzpemga8.cloudfront.net">https://d3pqs9dzpemga8.cloudfront.net</a><br/><a href="https://d130m6t8o94iwz.cloudfront.net">https://d130m6t8o94iwz.cloudfront.net</a><br/><a href="https://d29jg8s74oan03.cloudfront.net">https://d29jg8s74oan03.cloudfront.net</a><br/><a href="https://db34ntcej7riq.cloudfront.net">https://db34ntcej7riq.cloudfront.net</a><br/></td>    </tr>
 </table>

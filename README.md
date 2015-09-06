@@ -937,7 +937,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2j46hvfeznfk4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -947,5 +947,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
                 <td></td>
                 
         
-        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
 </table>

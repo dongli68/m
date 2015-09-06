@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3jtp6bn9jfg14.cloudfront.net">https://d3jtp6bn9jfg14.cloudfront.net</a><br/><a href="https://d3k3kp6nwh4ba4.cloudfront.net">https://d3k3kp6nwh4ba4.cloudfront.net</a><br/><a href="https://d37fd8i8b6xurr.cloudfront.net">https://d37fd8i8b6xurr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jtp6bn9jfg14.cloudfront.net">https://d3jtp6bn9jfg14.cloudfront.net</a><br/><a href="https://d37fd8i8b6xurr.cloudfront.net">https://d37fd8i8b6xurr.cloudfront.net</a><br/><a href="https://d3k3kp6nwh4ba4.cloudfront.net">https://d3k3kp6nwh4ba4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/" target="cdt-mirror">【网络民议】今天我都是小粉红</a>
@@ -762,7 +762,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">历史虚无主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BA%A2%E8%89%B2%E7%9A%84%E9%98%85%E5%85%B5%E5%BC%8F%EF%BC%8C%E8%93%9D%E8%89%B2%E7%9A%84%E6%8A%97%E6%88%98%E5%8F%B2%EF%BC%9F/" target="cdt-mirror">纽约时报｜红色的阅兵式，蓝色的抗战史？</a>
 </h2>

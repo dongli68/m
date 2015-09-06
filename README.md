@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/" target="cdt-mirror">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a>
@@ -914,7 +914,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d21xijst27763p.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -924,5 +924,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/></td>    </tr>
 </table>

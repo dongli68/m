@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dp9we7rmaoc37.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://djcll8liphtt5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dp9we7rmaoc37.cloudfront.net">https://dp9we7rmaoc37.cloudfront.net</a><br/><a href="https://djcll8liphtt5.cloudfront.net">https://djcll8liphtt5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://djcll8liphtt5.cloudfront.net">https://djcll8liphtt5.cloudfront.net</a><br/><a href="https://dp9we7rmaoc37.cloudfront.net">https://dp9we7rmaoc37.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/" target="cdt-mirror">【网络民议】今天我都是小粉红</a>
@@ -300,7 +300,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%A9%BE%E9%A9%AC%E8%BD%A6/?category=18271" rel="tag">三驾马车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E9%9C%80/?category=18271" rel="tag">内需</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A4%A9/?category=18271" rel="tag">冬天</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">宏观经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF/?category=18271" rel="tag">经济形势</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%BD%93%E6%8A%97%E6%88%98%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1%E7%9A%84%E6%9C%BA/" target="cdt-mirror">【网络民议】每个人都有当抗战“中流砥柱”的机会</a>
 </h2>
@@ -937,7 +937,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djcll8liphtt5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dp9we7rmaoc37.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -947,5 +947,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=1
                 <td></td>
                 
         
-        <td><a href="https://djcll8liphtt5.cloudfront.net">https://djcll8liphtt5.cloudfront.net</a><br/><a href="https://dp9we7rmaoc37.cloudfront.net">https://dp9we7rmaoc37.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dp9we7rmaoc37.cloudfront.net">https://dp9we7rmaoc37.cloudfront.net</a><br/><a href="https://djcll8liphtt5.cloudfront.net">https://djcll8liphtt5.cloudfront.net</a><br/></td>    </tr>
 </table>

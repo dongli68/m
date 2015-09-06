@@ -407,7 +407,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86%E5%AD%A6/?category=18271" rel="tag">心理学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%95%88%E5%BF%A0/?category=18271" rel="tag">权力效忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%92%E6%96%87%E5%8C%96/?category=18271" rel="tag">酒文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%92%E6%A1%8C/?category=18271" rel="tag">酒桌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E5%A4%A7%E9%96%B1%E5%85%B5%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%BB%80%E9%BA%BC%EF%BC%88%E4%B8%8A%EF%BC%89/" target="cdt-mirror">东网｜吳戈：大閱兵暴露了什麼（上）</a>
 </h2>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1v3cu8jz6phcx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s9y89x9ctmf8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8A%9D%E9%85%92%E6%96%87%E5%8C%96%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">墙外楼 | 中国的劝酒文化背后的逻辑是什么？</a>
+</h2>
+<p><p>中国的劝酒文化背后的逻辑是什么？</p>
+<p>饭桌上一定要让人喝酒、一定要让人喝醉的逻辑是什么？为什么强行让人喝酒或者喝醉是中国宴请当中的普遍行为？心理学上有什么依据呢？另外我在饭桌上听到很多的说法是“都知道醉酒伤身，但这酒必须喝”，对于劝酒与被劝酒的双方来说，在近似于多次重复博弈的情况下，为什么不能选择（不醉，不醉）的最优解？</p>
+<p>中国政界和商界的劝酒文化绝不仅仅只是个礼仪性的东西，而是有非常明确的实际功能的，具体而言，要实现两个目的：</p>
+<p>1. 服从性测试</p>
+<p>2. 诚意测试。</p>
+<p>1. 服从性测试，指的是劝酒者通过观察你是否服从他要你继续饮酒的指令， 观察你能不能为了“场面”伤害自己身体，来判断你对其的服从程度。听着好像很扭曲，但其实这是一种最典型的权力的彰显方式。</p>
+<p>尤其在掌权者自感权力并不稳固的时候，他往往需要周围人反复以各种“确权”的仪式让他确信自己权力在握，对方被逼喝酒的窘态，是权力持有者在酒桌上最佳的享受。</p>
+<p>有些劝酒者喜欢把利诱包装成威胁，“你不喝可不够朋友啊”，言下之意是喝了就是朋友；</p>
+<p>有些劝酒者喜欢把威胁包装成利诱，“这杯干了，这个合同就是你的了”，言下之意是不喝你就出局了。</p>
+<p>有些人觉得这个逻辑很荒谬，但服从性测试恰恰必须荒谬。就比如“指鹿为马”就是典型的服从性测试：上级其实心里知道这不是马，下级也知道这不是马，上级知道下级知道这不是马，下级也知道上级知道自己知道这不是马，但是你还得说这是马。双方心知肚明，互飚演技给外人看罢了。</p>
+<p>对显而易见的荒谬依然表示服从，才是服从性测试的核心意义。</p>
+<p>同样，在酒桌上，你以为他真的不知道喝下去你会难受？不知道对身体有害？不知道你第二天会头疼欲裂？ 劝酒者完全知道，太知道了。但这种伤害和痛苦恰恰是意义所在。如果没有后果，则无法测出“服从”的程度。就像帮会入会需要在手上划一刀，是在以最微量的自我伤害的形式，来展示服从的姿态。</p>
+<p>在政界，这种测试是往往是一场宣誓效忠的仪式，提醒你上下关系要怎么摆；在商界，这种测试是给大家明确“到底是谁有求于谁”，看似平等互利的合作关系其实从来都不是平等的。</p>
+<p>2. 诚意测试，指的是劝酒者时刻在观察被劝者是否能够放下心防和体面，向劝酒者及旁观者展现丑态。维系一段关系是需要付出代价的，醉酒就是这种代价。醉酒后的丑态是一种小剂量的抵押物，在人和人之间还不能完全信任，但又需要建立合作关系的时候，是某种意义上的credit enhancement。</p>
+<p>所谓“喝到位”就是在说这个。如果一顿筵席散尽，你仍然表达清晰，步履稳健，会被认为“今天小王没喝到位”，言下之意你没有向我交付丑态作为抵押物，你仍然将你自己的体面、形象、自尊看得比我对你的信任更重要。</p>
+<p>直到喝的疯言胡语，脱了上衣跳舞，吐完躺倒，劝酒者心目中的抵押品才算足额交付完毕。这期间观众越多越好，洋相越大越好，起哄者和围观者实质上都是抵押交付的见证人。</p>
+<p>美国大学的兄弟会也是这样，入会的时候需要经历羞辱性的仪式，比如骷髅会据说需要当众手淫，其道理是一致的：一个时刻体面的人一定是抱着戒心的人，不值得信赖。只有抵押物给的“到位了”，咱们的合作关系和信赖程度才可能再上一个台阶。</p>
+<p>这种酒桌文化是地地道道的中国特色，世界上嗜酒如命的国家有的是，比中国人贪杯的民族多了去了，但人家大多都是自己喝自己的，绝不会管到别人杯子里去。自己躲着不喝却想尽办法让别人多喝的，惟中国独此一家。这种酒桌文化也并不是什么“中国的古老传统”，而是最近几十年才兴起的东西。</p>
+<p>至于这个传统的来源，评论里有人说是土共带来的下层军队文化的杂交物，理由是中国酒局对于高度蒸馏烧酒的偏好，和中国传统士大夫阶层偏好黄酒完全不同，我觉得有一定道理。中国的“商”许多是从“官”变来的，而中国的“官”又是从“军”脱胎而来的。而权力等级体系体现的最淋漓尽致的，必是军队无疑。</p>
+<p>我们从熟人社会转为陌生人社会才几十年而已，而缺乏成熟的互信机制，才是这套看似荒谬的酒桌文化背后的真正逻辑。个人观察，喝软饮料长大的80，90后一代人现在已经沦陷。这套酒桌仪式是如此普及和具有感染力，以至于渗透到了这个国家的每一寸土地。这证明了其具有深厚的民众土壤和现实基础。</p>
+<p>来源：知乎</p>
+<p>————————</p>
+<p>劝酒不是文化，而是你鳖主政后破坏原有酒文化的文化缺失现象。</p>
+<p>古代的酒文化是要每唱一曲或者作一诗才能喝一小杯，文明得很，现在的连话都说不连贯的劝酒爱好者，你说他们有文化？太糟蹋文化这个词了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8A%9D%E9%85%92%E6%96%87%E5%8C%96%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86%E5%AD%A6/?category=18271" rel="tag">心理学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%95%88%E5%BF%A0/?category=18271" rel="tag">权力效忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%92%E6%96%87%E5%8C%96/?category=18271" rel="tag">酒文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%92%E6%A1%8C/?category=18271" rel="tag">酒桌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E5%A4%A7%E9%96%B1%E5%85%B5%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%BB%80%E9%BA%BC%EF%BC%88%E4%B8%8A%EF%BC%89/" target="cdt-mirror">东网｜吳戈：大閱兵暴露了什麼（上）</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/bkncn-20150906000312841-0906_05411_001_01p.jpg" alt="习大大左手礼" width="551" height="393"></p>
@@ -814,35 +848,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%A6%96%E9%95%BF%E5%90%8C%E6%AC%BE%EF%BC%88%E6%97%A5%E6%9C%AC%EF%BC%89%E7%9B%B8%E6%9C%BA-%E4%BD%A0%E5%80%BC%E5%BE%97%E6%8B%A5%E6%9C%89/" target="cdt-mirror">【图说天朝】首长同款（日本）相机 你值得拥有</a>
-</h2>
-<p><p>【编者注】<a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%95%BF%E6%98%A5">李长春</a>，前中共主要领导人之一，曾任中央精神文明建设指导委员会主任、中央宣传思想工作领导小组组长，主管意识形态工作。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/">9.3大阅兵</a>当日，前中共主要领导人所在的天安门城楼上，手举相机专心摄影的李长春显得特别引人注目：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1441252538860.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1441252538860.jpg" alt="1441252538860" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/1441252814104.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/1441252814104.jpg" alt="1441252814104" width="550" height=""></a><br><em>（上图来自美国侨报网）</em></p>
-<p>网络知名鉴表达人@花总丢了金箍棒 <a href="http://weibo.com/1853332115/CyQX3F9iI">在新浪微博评论</a>，认为李长春使用的是佳能5D3相机，适马50-500mm OS镜头。</p>
-<p>就是下面这两款：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-03-at-7.54.46-PM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-03-at-7.54.46-PM.png" alt="canon eos 5d" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/canon_eos_5d_origin.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/canon_eos_5d_origin.png" alt="canon_eos_5d_origin" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-03-at-7.53.34-PM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-03-at-7.53.34-PM.png" alt="sigma 50-500" width="550" height=""></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@花总丢了金箍棒:佳能5D3，适马50-500 OS，首长腕力真棒！</p>
-<p>@嘉影乐行：机身不贵，镜头更便宜，确实非常想不到，ZG管宣传的最高领导啊……</p>
-<p><a href="http://weibo.com/678809007" target="_blank">特别调查员</a>：他用日货，爱国青年肿么破？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/1610855312" target="_blank">9390v</a>：没有枪，没有炮，敌人给我们造<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/2090525155" target="_blank">平淡之太无奇</a>：我党领导带头喜欢日货，这是爱好和平！只有国民党蒋介石那些人才恨日本。<img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"><img title="[闭嘴]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]"></p>
-<p>@张渝生：如果换了一个公知大V，不被五毛普天盖地骂绝了？</p>
-<p>@张洲：唉，别让西安砸车那位监狱里的爷瞧见，那孙子做事邪行。</p>
-<p>@小桥流水晴天：在这雄起的时刻，为什么不用国产货？</p>
-<p>@水草—时光：把5D看成我党，都微博语境定式害的，罪过。</p>
-<p>@一条大路新家：五毛快来骂长春啊 上~</p>
-<p>@建筑师在德国: 前五毛总头子用日货，这飞盘有点难度。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%A6%96%E9%95%BF%E5%90%8C%E6%AC%BE%EF%BC%88%E6%97%A5%E6%9C%AC%EF%BC%89%E7%9B%B8%E6%9C%BA-%E4%BD%A0%E5%80%BC%E5%BE%97%E6%8B%A5%E6%9C%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E9%95%BF%E8%80%81/?category=18271" rel="tag">九长老</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E6%97%A5%E8%B4%A7/?category=18271" rel="tag">抵制日货</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%95%BF%E6%98%A5/?category=18271" rel="tag">李长春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -854,7 +859,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ia6yt07wp62m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3s9y89x9ctmf8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -864,5 +869,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3s9y89x9ctmf8.cloudfront.net">https://d3s9y89x9ctmf8.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d1ia6yt07wp62m.cloudfront.net">https://d1ia6yt07wp62m.cloudfront.net</a><br/><a href="https://d2goskbumz8is6.cloudfront.net">https://d2goskbumz8is6.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d21xijst27763p.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/" target="cdt-mirror">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a>
@@ -344,7 +344,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86%E5%AD%A6/?category=18271" rel="tag">心理学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%95%88%E5%BF%A0/?category=18271" rel="tag">权力效忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%92%E6%96%87%E5%8C%96/?category=18271" rel="tag">酒文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%92%E6%A1%8C/?category=18271" rel="tag">酒桌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B3%E6%88%88%EF%BC%9A%E5%A4%A7%E9%96%B1%E5%85%B5%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%BB%80%E9%BA%BC%EF%BC%88%E4%B8%8A%EF%BC%89/" target="cdt-mirror">东网｜吳戈：大閱兵暴露了什麼（上）</a>
 </h2>
@@ -924,5 +924,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/></td>    </tr>
 </table>

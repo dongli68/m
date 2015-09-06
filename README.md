@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ohwx3tqmh35j.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/" target="cdt-mirror">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a>
@@ -862,7 +862,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=18271" rel="tag">Google</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">谷歌事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%E5%B7%B2%E7%BF%BB%E5%BC%80%E6%96%B0%E4%B8%80%E9%A1%B5/" target="cdt-mirror">【异闻观止】新华网｜南方系“已翻开新一页”</a>
 </h2>
@@ -914,7 +914,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jh47eehm29pj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ohwx3tqmh35j.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -924,5 +924,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1ohwx3tqmh35j.cloudfront.net">https://d1ohwx3tqmh35j.cloudfront.net</a><br/><a href="https://d3jh47eehm29pj.cloudfront.net">https://d3jh47eehm29pj.cloudfront.net</a><br/><a href="https://d21xijst27763p.cloudfront.net">https://d21xijst27763p.cloudfront.net</a><br/></td>    </tr>
 </table>

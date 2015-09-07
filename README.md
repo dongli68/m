@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1v3cu8jz6phcx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgqzgchloex6z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://dgqzgchloex6z.cloudfront.net">https://dgqzgchloex6z.cloudfront.net</a><br/><a href="https://d3kgtszsdniuh3.cloudfront.net">https://d3kgtszsdniuh3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgqzgchloex6z.cloudfront.net">https://dgqzgchloex6z.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d3kgtszsdniuh3.cloudfront.net">https://d3kgtszsdniuh3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%80%E5%9C%BA%E6%9C%AC%E5%8F%AF%E4%BB%A5%E6%97%A0%E5%85%B3%E6%94%BF%E6%B2%BB%E5%92%8C%E5%8E%86%E5%8F%B2%E7%9A%84%E8%AF%89%E8%AE%BC/" target="cdt-mirror">金融时报 | 一场本可以无关政治和历史的诉讼</a>
@@ -955,7 +955,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1v3cu8jz6phcx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgqzgchloex6z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -965,5 +965,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://dgqzgchloex6z.cloudfront.net">https://dgqzgchloex6z.cloudfront.net</a><br/><a href="https://d3kgtszsdniuh3.cloudfront.net">https://d3kgtszsdniuh3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgqzgchloex6z.cloudfront.net">https://dgqzgchloex6z.cloudfront.net</a><br/><a href="https://d3kgtszsdniuh3.cloudfront.net">https://d3kgtszsdniuh3.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/></td>    </tr>
 </table>

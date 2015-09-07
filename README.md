@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d34u2lafe4r3tx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3dqtxzb16a399.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d34u2lafe4r3tx.cloudfront.net">https://d34u2lafe4r3tx.cloudfront.net</a><br/><a href="https://d3dqtxzb16a399.cloudfront.net">https://d3dqtxzb16a399.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3dqtxzb16a399.cloudfront.net">https://d3dqtxzb16a399.cloudfront.net</a><br/><a href="https://d34u2lafe4r3tx.cloudfront.net">https://d34u2lafe4r3tx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E9%A6%99%E6%B8%AF%E7%A9%B7%E4%BA%BA%E6%AF%94%E5%86%85%E5%9C%B0%E7%A9%B7%E4%BA%BA%E6%83%A810%E5%80%8D%EF%BC%9F%E5%88%AB%E9%97%B9%EF%BC%81/" target="cdt-mirror">网易另一面 | 香港穷人比内地穷人惨10倍？别闹！</a>

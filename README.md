@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1na8m52edc826.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3cg4bilf2bka6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d3cg4bilf2bka6.cloudfront.net">https://d3cg4bilf2bka6.cloudfront.net</a><br/><a href="https://d3rgxb1dx2obtb.cloudfront.net">https://d3rgxb1dx2obtb.cloudfront.net</a><br/><a href="https://d1k5bpws7lpbnz.cloudfront.net">https://d1k5bpws7lpbnz.cloudfront.net</a><br/><a href="https://dvr4sdz8ec7h1.cloudfront.net">https://dvr4sdz8ec7h1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3cg4bilf2bka6.cloudfront.net">https://d3cg4bilf2bka6.cloudfront.net</a><br/><a href="https://dvr4sdz8ec7h1.cloudfront.net">https://dvr4sdz8ec7h1.cloudfront.net</a><br/><a href="https://d378irfxlboxel.cloudfront.net">https://d378irfxlboxel.cloudfront.net</a><br/><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d1k5bpws7lpbnz.cloudfront.net">https://d1k5bpws7lpbnz.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E6%8B%92%E6%8F%90%E9%98%85%E5%85%B5%E8%B4%B9%E7%94%A8-%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5%E5%9B%BD%E5%AE%B6%E8%8E%B7%E5%9B%9E%E6%8A%A5/" target="cdt-mirror">美国之音 | 中国拒提阅兵费用 出席阅兵国家获回报</a>
@@ -225,7 +225,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2/?category=18271" rel="tag">义务教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E6%94%B6%E5%85%A5/?category=18271" rel="tag">低收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%88%E5%96%84%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">慈善机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%B6%E8%B4%AB/?category=18271" rel="tag">扶贫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C/?category=18271" rel="tag">社会保障</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9/?category=18271" rel="tag">社会福利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%B7%E4%BA%BA/?category=18271" rel="tag">穷人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0/?category=18271" rel="tag">贫困</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E4%BA%BA%E5%8F%A3/?category=18271" rel="tag">贫困人口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E7%BA%BF/?category=18271" rel="tag">贫困线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E6%82%AC%E6%AE%8A/?category=18271" rel="tag">贫富悬殊</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%80%E5%9C%BA%E6%9C%AC%E5%8F%AF%E4%BB%A5%E6%97%A0%E5%85%B3%E6%94%BF%E6%B2%BB%E5%92%8C%E5%8E%86%E5%8F%B2%E7%9A%84%E8%AF%89%E8%AE%BC/" target="cdt-mirror">金融时报 | 一场本可以无关政治和历史的诉讼</a>
 </h2>
@@ -897,5 +897,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
                 <td></td>
                 
         
-        <td><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://d378irfxlboxel.cloudfront.net">https://d378irfxlboxel.cloudfront.net</a><br/><a href="https://d3cg4bilf2bka6.cloudfront.net">https://d3cg4bilf2bka6.cloudfront.net</a><br/><a href="https://d1k5bpws7lpbnz.cloudfront.net">https://d1k5bpws7lpbnz.cloudfront.net</a><br/><a href="https://dvr4sdz8ec7h1.cloudfront.net">https://dvr4sdz8ec7h1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1na8m52edc826.cloudfront.net">https://d1na8m52edc826.cloudfront.net</a><br/><a href="https://dvr4sdz8ec7h1.cloudfront.net">https://dvr4sdz8ec7h1.cloudfront.net</a><br/><a href="https://d3cg4bilf2bka6.cloudfront.net">https://d3cg4bilf2bka6.cloudfront.net</a><br/><a href="https://d378irfxlboxel.cloudfront.net">https://d378irfxlboxel.cloudfront.net</a><br/><a href="https://d1k5bpws7lpbnz.cloudfront.net">https://d1k5bpws7lpbnz.cloudfront.net</a><br/></td>    </tr>
 </table>

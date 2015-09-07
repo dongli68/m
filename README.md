@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dnl2exo99l6zb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://djqt2czky66u5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://dnl2exo99l6zb.cloudfront.net">https://dnl2exo99l6zb.cloudfront.net</a><br/><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E6%8B%92%E6%8F%90%E9%98%85%E5%85%B5%E8%B4%B9%E7%94%A8-%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5%E5%9B%BD%E5%AE%B6%E8%8E%B7%E5%9B%9E%E6%8A%A5/" target="cdt-mirror">美国之音 | 中国拒提阅兵费用 出席阅兵国家获回报</a>
@@ -148,7 +148,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">领导小组</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E5%BC%A0%E6%81%A9%E9%93%AD%EF%BC%9A%E7%82%AE%E6%89%93%E5%8F%B8%E4%BB%A4%E9%83%A8%EF%BC%81-%E5%A3%B0%E8%AE%A8%E4%BF%A1%E5%8A%9B%E5%BB%BA-%E6%88%91/" target="cdt-mirror">张恩铭：炮打司令部！ 声讨信力建 — 我的一张大字报</a>
 </h2>

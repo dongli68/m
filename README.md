@@ -24,6 +24,90 @@
         <td><a href="https://d2385x5n2n6k78.cloudfront.net">https://d2385x5n2n6k78.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8841%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E7%94%9F%E8%AE%BF%E6%97%A5/" target="cdt-mirror">成田机场日记（41）：欢迎习近平先生访日</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/01/11130.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/01/11130.jpg" alt="冯正虎" width="349" height="209"></a></p>
+<p>五年前，中国发生一个荒唐的故事，一个震惊世界的事件。中国公民冯正虎被上海当局八次拒绝回国，于2009年11月4日起露宿于日本东京成田国际机场92天。每天睡在长椅子上，没有洗澡，最初几天没有食品，只能以自来水维持生命，后来依靠入境日本的中国大陆、香港、台湾民众及海外华人、外国友人的食 品空运援助。他成了一个不能回到自己国家的中国公民，一个上演了好莱坞电影《幸福终点站》真人版的悲剧人物。</p>
+<p>2010年2月12日，冯正虎在中国驻日大使馆的帮助下回到自己的祖国。中国政府依法让冯正虎回国，已在政治大局上纠正上海违法官员的错误，赢得民心与挽回国家的尊严。冯正虎的成田机场日记记载了这一段历史，现在连载公开，与读者分享。</p>
+<p>——————</p>
+<p><strong>成田机场日记（41）：欢迎习近平先生访日 / 12月13日</strong></p>
+<p>今天12月13日，是我在日本国门外露宿的第40天。</p>
+<p>12：30，今天当班的首席审查官又来向我提交第11份官方文件，内容与昨天一样，日期是新的，并与他合影一张。我也将《冯正虎向中国政府转呈12月13日的日本官方文件（总第11份）》一文送网络媒体发表，并附上日本官方文件的照相件。</p>
+<p>上午至现在除了接听几个问候电话之外，我在写作。</p>
+<p>谢谢大家的关心。明天晚上有朋友会带一个USB接口的小键盘。现在，用屏幕键盘打字速度很慢，偶尔用还可以，用它来写作太痛苦了。</p>
+<p>下午16:20许，日本共同社记者从北京回日本顺道来看望我，我们聊了一会。</p>
+<p>晚上，《欢迎习近平先生访日》一文完稿，托人用日本邮政快件寄送中国驻日大使馆转呈。</p>
+<p><em><strong>附录：欢迎习近平先生访日</strong></em></p>
+<blockquote><p><strong> </strong>尊敬的习近平先生：</p>
+<p>欢迎您访问日本。</p>
+<p>虽然我被中国官员无法无情地剥夺回国权，已露宿日本国门外40天，但仍以平常的心态祝愿你访问日本顺利愉快。如果您觉得我的事件让您尴尬，是我们中国人的国耻，这表明中国有希望，知耻者近乎勇。</p>
+<p>我今年4月1日合法出国，6月7日回上海就被禁止入境回国。上海当局连续八次拒绝中国公民回国，甚至最后还用暴力手段将中国公民绑架至日本，真是世界奇闻，怎么不引起全世界媒体及民众的兴趣呢？当然，中国人闻之，只是悲哀与愤慨。我抗议非法绑架，拒绝入境日本，坚守一个中国人的尊严，至今已露宿日本国门外。我处于有家不可归的困境中，得到中国民众的直接关怀与帮助，还有众多的外国民众的援助，但是应该履行保护自己国民的中国政府却漠不关心，至今驻日中国大使馆也没有派一个工作人员去关心或沟通。</p>
+<p>在拒绝我回国的事件中，日本政府的表现或许令中国政府满意，但肯定使中国人民不满意，日本官员为了对中国官员的友爱，可以对一个中国平民不友爱，也可以放弃自己国家的立国原则及法统。因为刚刚上台的日本政府太需要中国政府的支持，近几年指望不了美国的经济复苏，就需要中国的市场来打气，与美国叫板，必须要有个东亚共同体压台。世界政治就是互相利用，谁都懂这个道理。所以，您这次访日一定很风光、很顺利，至于签订的协议是否兑现这是以后的事。</p>
+<p>日本政治家很清楚他们在与一个连自己法律都无法完全兑现的国家签约，但他们需要现在的面子。您作为中国的最高领导人肯定也清楚，当您受到日本天皇隆重接见时，您的同胞仍在日本的国门外忍受精神上的羞辱与身体上的折磨，这些日本政治家为什么要这样讨好您呢？而且这个露宿在日本国门外的人还是15年前将当年在野党、现在最强势的日本政治家小泽一郎的理想《日本改造计划》介绍给中国的中国人（中译本由上海远东出版社出版，1995年，译者：冯正虎、王少普）。</p>
+<p>您12月14日访问日本，正巧是我被中国绑架到日本、露宿日本国门外41天。无独有偶。今年2月15日我被上海政府工作人员从北京绑架到上海，非法拘禁在海军东湖招待所508室，3月25日被释放，也是41天。同样是无法无理，只是上级领导的一句话。我已经向上海市人民检察院提出控诉、也像上海第二中级人民法院提出行政诉讼，但至今未立案。握有公权的地方政府官员都敢无法无天，这个国家失控了，人人都会没有安全感，包括您。我是不赞成绝食的，但是在上一次被非法绑架拘禁中也进行二天绝食抗议，为中国的宪法法律遭受践踏、担忧胡锦涛等中央领导人将来也会在北京遭受地方权贵绑架而绝食警世。</p>
+<p>今天您来日本访问，您可以换位体验一下。如果您回到北京机场时，几十个警察围住您，其中一个向您宣布：习近平先生，您这次不能入境回国了，这是上级领导的决定。然后什么法律依据、什么理由也没有，就强制遣送回日本。如果您抗拒，就用暴力手段把您绑架至日本。如果您不屈服，坚守中国人的尊严，就会露宿日本国门外，挨饿抗争，向全世界、中国政府表达一个中国公民回国回家的基本诉求。这个遭遇发生在我身上，也会发生在任何中国公民的身上，包括您。因为当您碰到这个遭遇时，这些警察指的上级领导，肯定不是您，也不会认可您的职位，只服从发给他们工资的直接领导。我们的国家已经发生这些荒唐的事情，而且做这样违法的事已经成为习惯，您不觉得可怕吗?</p>
+<p>您是从上海调入北京工作的，虽然在上海的工作时间很短，但也应该了解上海官民矛盾紧张的情况。您来上海工作时，上海市民对您的期望很大。在寄送给您的第2期《督察简报》上就发表我的文章《习近平应当关注的上海问题——-司法不公正是上海社会不和谐的祸根》（2007年7月15日）。这份《督察简报》现在已出版到第30期，大部分文章都是揭露与批评上海政府的问题。上海的领导人怕民众，总是草木皆兵、无事生非，一有会议或敏感时期就指使警察随心所欲地非法限制上海市民的人身自由，某些警察还会唆使雇用的社会闲散人员去执行他们的违法指示，居然让一些没有任何执法权的公民去强行剥夺另一些个公民的人身自由权利，大搞文化大革命的恐怖主义，利用群众斗群众，搞得上海乌烟瘴气、人心惶惶。我在第14期《督察简报》（2008年10月31日）的一篇报告《誓死捍卫中国宪法与公民权利》已指出：</p>
+<p>“潘多拉魔盒的打开，上海人民的灾难就开始了。一小撮便衣警察与一大批游手好闲的社会保安人员无法无天、随心所欲，想绑架谁就绑架谁，想拘禁谁就拘禁谁，想堵谁家的门就堵谁家门，不需要执法证件，不需要任何法律依据。他们公然叫嚣：“不懂法，是领导叫我们来做的。”当受害者要求他们出具限制公民人身自由的法律凭证时，他们都会摆出一付地痞流氓恶霸的架势，甚至还会反问受害者：“为什么我要管你，不管别人？”如果这个侵犯的理由成立，那么这个社会就不需要法律，就没有公正与安全，公检法也就名存实亡。杀人犯也可以说：为什么我杀你，不杀别人。抢劫犯也可以说：为什么我抢劫你，不抢劫别人。小偷也可以说：为什么我偷你，不偷别人。按照这个强盗逻辑，杀人抢劫盗窃都是正当的，而受害人是活该受罪。过去我耳闻目睹成千上海市民遭受这种迫害，今天我自己也亲身经历了，明天其他市民，包括警察、检察官、法官、更多的公务员及其亲属也会遭遇这种苦难，不久的将来俞正声、韩正、刘云耕、吴志明的家门口也会遭受这些“红卫兵老将”的骚扰。现在这些躲在暗处指挥这些“红卫兵老将”的大小权贵很得意，欣赏受害者的痛苦挣扎，但是他们最后也会遭到报应，而同样惨死于他们放出的魔鬼手中。难道中国人民忘了文化大革命的惨痛教训了吗？难道我们都忘了国家主席刘少奇死得多么凄惨吗？胡锦涛先生应该记住，俞正声先生更应该记住，你们的亲属也有过苦难的经历。”</p>
+<p>您们现在没有碰到我的厄运，但不能保证不久的将来不会遭受这些厄运，因为我们生活在同样一个国家。我爱自己的祖国、坚守中国宪法法律、支持中共“以人为本、执政为民、依法治国”的政治路线，这些基本点上我与您、胡锦涛主席以及中共党内许多干部是一致的。我们不同的是，您们是中共党员、我不是，您们是中国的高级领导人，我是一介平民。当然，我不是1989年凭良心反对武力镇压学生民主运动，或许今天的仕途也是中共中央委员。所以，党员、官位都会变化的，不是人身安全的保护伞。当年您们的父辈都是赫赫有名的中国大官，但同样无法逃脱文化大革命的遭遇。一个国家的治理不是依据人人平等的法律，而是依据领导的权势喜怒，这个国家怎么会不乱呢？你抢我夺，人人没有安全。中国上千万个大小领导个个都是诸侯，都可以随意动用警察等国家机器，在外国人眼里他们的行为都是代表中国政府的，中国政府是“子不教，父之过”。</p>
+<p>关于中国公民被上海警察用暴力绑架至日本、露宿日本国门外40天的事件，全世界主要媒体都在不断报道，中国民众、海外华人都在谴责与声援，但是中国政府至今未反应。外界批评中国政府是无赖，死猪不怕烫。我认为这个判断是错误的。在国际社会，中国不是超强国家，没有无赖的实力，而且它是联合国常务理事国，还没有落魄到朝鲜的地步。它不是无赖，而是无能，面对突发的国际事件不知所措、无可奈何，只好自毁声誉。体制僵化、官员素质低下，使中国政府预知、应付、处理突发危机事件的能力极差。把一个仅是帮助几个访民依法维权、根本不构成威胁国家政权的人，逼出国门，制造出一个轰动世界的国际事件，一个荒唐的国耻，这就是上海官员的愚蠢、霸道、无能的杰作。现在，中国政府已经明白，中国公民捍卫回国回家权利的决心与毅力，世界舆论、中国民众及海外华人的态度。</p>
+<p>不让本国公民回国回家，不仅违反联合国宪章、国际人权条约，也违反中国宪法法律，还违背中国的道德伦理人之常情。中国政府应当废除剥夺中国公民回国权的违法措施。中国共产党已执政60年，宪法法律是共产党主导下制定的，立法、司法、政府部门绝大部分工作人员是共产党员，作为执政党应该有点底气，有点自信，没有必要整天草木皆兵，更不可以把公民权利异化为惩罚或恩赐的工具，毁坏了国家的根本大法。让所有的中国人，包括海外华人，都可以自由往来自己的祖国，消除每一个中国人回国出国的恐惧，让祖国变得更美好、更亲切。</p>
+<p>现在，日本国门外的入境审查大厅是我的暂住地，一个有国难回的中国流浪汉已适应这里的生活，就慢慢等您们这些领导人好好商定吧。但是，日本官员没有耐心了。从12月3日起，每天发一个中日文的文件给我，内容一样，仅是日期更改一下，提交仪式规范，，还拍照为证。他们知道，这个文件发给我没有什么用处，或许是让我转交给中国政府。中国政府让我回国，就不会在这里麻烦他们了。现在很滑稽，日本的政府没有向中国政府或中国驻日大使馆提出抗议，而将日本官方的文件直接发给一个在日本国门外的中国公民，或许这是中日外交的新形式。我也每天通过媒体转呈中国政府，现在已第11份。天天持续发文下去，又是世界奇闻了。希望您能关注，不要让日本政府为难了。</p>
+<p> </p>
+<p>此致</p>
+<p>敬意</p>
+<p>中国公民：冯正虎</p>
+<p>2009年12月13日</p></blockquote>
+<p>注：本信用日本邮政快件(编号：9975-5400-1124)寄送中国驻日大使馆转呈。</p>
+<p>——————</p>
+<blockquote><p>相关阅读：</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%881%EF%BC%89%EF%BC%9A%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD/">成田机场日记（1）：禁止中国公民冯正虎回国</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%882%EF%BC%89%EF%BC%9A%E5%BC%BA%E8%A1%8C%E6%8A%BC%E9%80%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%86%AF%E6%AD%A3%E8%99%8E%E5%8E%BB%E6%97%A5/">成田机场日记（2）：强行押送中国公民冯正虎去日本</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%883%EF%BC%89%EF%BC%9A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E8%A2%AB%E8%BF%AB%E7%BB%9D%E9%A3%9F/">成田机场日记（3）：在东京成田机场被迫绝食</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%884%EF%BC%89%EF%BC%9A%E5%9D%9A%E5%AE%88%E5%81%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%B0%8A%E4%B8%A5/">成田机场日记（4）：坚守做中国人的尊严</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%885%EF%BC%89%EF%BC%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%EF%BC%8C%E8%AA%93%E6%AD%BB%E5%9B%9E%E5%9B%BD/">成田机场日记（5）：破釜沉舟，誓死回国</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%886%EF%BC%89%EF%BC%9A-%E4%B8%8E%E7%8E%8B%E5%AE%B6%E7%91%9E%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%85%A5%E5%A2%83%E5%8F%A3%E7%9B%B8%E9%81%87/">成田机场日记（6）： 与王家瑞在日本入境口相遇</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%887%EF%BC%89%EF%BC%9A%E5%90%91%E5%86%AF%E6%AD%A3%E8%99%8E%E6%8F%B4%E5%8A%A9%E4%B8%80%E5%8C%85%E9%A5%BC%E5%B9%B2/">成田机场日记（7）：向冯正虎援助一包饼干</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%888%EF%BC%89%EF%BC%9A-%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E5%8F%8B%E7%88%B1/">成田机场日记（8）： 日本人的友爱</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%889%EF%BC%89%EF%BC%9A%E7%BD%91%E7%BB%9C%E4%B8%93%E5%AE%B6%E6%AF%9B%E5%90%91%E6%99%96%E7%9A%84%E6%8F%B4%E5%8A%A9/">成田机场日记（9）：网络专家毛向晖的援助</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8810%EF%BC%89%EF%BC%9A%E4%B8%8D%E7%A7%BB%E5%8A%A8/">成田机场日记（10）：不移动</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8811%EF%BC%89%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E9%99%88%E5%B7%A7%E6%96%87%E9%80%81%E9%A3%9F%E5%93%81/">成田机场日记（11）：香港大学学生陈巧文送食品</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8812%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%AE%BF%E9%97%AE%E4%B8%AD%E6%97%A5/">成田机场日记（12）：欢迎美国总统奥巴马访问中日</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8813%EF%BC%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E8%83%BD%E5%9B%9E%E5%9B%BD%EF%BC%8C%E8%B0%81%E8%83%BD%E7%9B%B8%E4%BF%A1/">成田机场日记（13）：中国公民不能回国，谁能相信？</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8814%EF%BC%89%EF%BC%9A%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8A%A9%E6%89%8B%E9%AB%98%E8%8A%9C%E4%B8%8E%E8%8B%B1%E5%9B%BD%E9%87%91%E8%9E%8D%E6%97%B6/">成田机场日记（14）: 艾未未助手高芜与英金融时报记者的现场采访</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8815%EF%BC%89%EF%BC%9A%E4%B8%8D%E8%AE%A9%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%9B%BD%E8%80%BB/">成田机场日记（15）：不让冯正虎回国是我们的国耻！</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8816%EF%BC%89%EF%BC%9A%E8%B0%A2%E7%BB%9D%E4%BA%86%E8%81%94%E5%90%88%E5%9B%BD%E9%9A%BE%E6%B0%91%E7%94%B3%E8%AF%B7/">成田机场日记（16）：谢绝了联合国难民申请</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8817%EF%BC%89%EF%BC%9A-%E8%B5%A2%E5%BE%97%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E7%9A%84%E4%BF%A1%E4%BB%BB%E4%B8%8E%E5%B0%8A%E9%87%8D/">成田机场日记（17）： 赢得日本官员的信任与尊重</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8818%EF%BC%89%EF%BC%9A-%E8%89%BE%E6%9C%AA%E6%9C%AA%E7%AD%89%E5%8F%8B%E4%BA%BA%E7%9A%84%E7%9C%9F%E6%83%85%E4%B8%8E%E6%B8%A9%E6%9A%96/">成田机场日记（18）： 艾未未等友人的真情与温暖</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8819%EF%BC%89%EF%BC%9A%E6%9D%A5%E8%87%AA%E5%9B%BD%E5%86%85%E4%B8%80%E4%BD%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%9F%AD%E4%BF%A1/">成田机场日记（19）：来自国内一位大学生的短信</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8820%EF%BC%89%EF%BC%9A-%E5%85%AD%E5%9B%9B%E5%AD%A6%E7%94%9F%E9%A2%86%E8%A2%96%E7%8E%8B%E4%B8%B9%E7%9A%84%E7%94%B5%E8%AF%9D%E9%97%AE/">成田机场日记（20）： 六四学生领袖王丹的电话问候</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8821%EF%BC%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%B4%BB%E5%8A%A8%E5%AE%B6%E5%86%AF%E6%AD%A3%E8%99%8E/">成田机场日记（21）：中国人权活动家冯正虎</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8822%EF%BC%89%EF%BC%9A-%E5%85%A8%E7%90%83%E7%9F%A5%E6%99%93%E7%9A%84%E6%96%B0%E9%97%BB%E4%BA%BA%E7%89%A9/">成田机场日记（22）： 全球知晓的新闻人物</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8823%EF%BC%89%EF%BC%9A%E5%91%8A%E7%A4%BA%E6%9D%BF%E7%9A%84%E4%BA%89%E8%AE%AE/">成田机场日记（23）：告示板的争议</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8824%EF%BC%89%EF%BC%9A-%E4%B8%AD%E5%9B%BD%E6%B0%91%E9%98%B5%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%8E%B0%E5%9C%BA%E6%85%B0%E9%97%AE/">成田机场日记（24）： 中国民阵领导人现场慰问</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8825%EF%BC%89%EF%BC%9A-%E5%90%84%E5%9B%BD%E6%B0%91%E4%BC%97%E5%85%B3%E7%88%B1%E7%9A%84%E5%B0%8F%E5%AD%A9/">成田机场日记（25）： 各国民众关爱的“小孩”</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8826%EF%BC%89%EF%BC%9A-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE/">成田机场日记（26）： 中国外交部发言人答记者问</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8827%EF%BC%89%EF%BC%9A-%E7%BB%88%E4%BA%8E%E7%9C%8B%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8E%A8%E7%89%B9/">成田机场日记（27）： 终于看到自己的推特</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8828%EF%BC%89%EF%BC%9A-%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/">成田机场日记（28）： 美国芝加哥的中国留学生</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8829%EF%BC%89%EF%BC%9A%E7%BE%8E%E5%9B%BDcnn%E9%87%87%E8%AE%BF%E5%86%AF%E6%AD%A3%E8%99%8E/">成田机场日记（29）：美国CNN采访冯正虎</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8830%EF%BC%89%EF%BC%9A%E5%A4%A9%E4%B8%8B%E6%B2%A1%E6%9C%89%E7%99%BD%E5%90%83%E7%9A%84%E5%8D%88%E9%A4%90/">成田机场日记（30）：天下没有白吃的午餐</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8831%EF%BC%89%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%8F%B8%E5%BE%92%E5%8D%8E%E9%A2%86%E9%98%9F%E8%B5%B4/">成田机场日记（31）：香港支联会主席司徒华领队赴现场慰问</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8832%EF%BC%89%EF%BC%9A%E5%AE%B6%E4%B9%A1%E4%BA%BA%E8%A7%81%E9%9D%A2%E6%A0%BC%E5%A4%96%E4%BA%B2/">成田机场日记（32）：家乡人见面格外亲</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8833%EF%BC%89%EF%BC%9A-%E5%90%91%E8%83%A1%E9%94%A6%E6%B6%9B%E8%BD%AC%E5%91%88%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E7%9A%84/">成田机场日记（33）： 向胡锦涛转呈日本政府的“劝告书”</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8834%EF%BC%89%EF%BC%9A-%E4%B8%8A%E6%B5%B7%E7%A9%BA%E5%A7%90%E7%9A%84%E4%BF%9D%E6%B8%A9%E6%9D%AF/">成田机场日记（34）： 上海空姐的保温杯</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8835%EF%BC%89%EF%BC%9A%E8%AF%89%E9%98%BB%E6%AD%A2%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD%E7%9A%84%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%AE%B6/">成田机场日记（35）：诉阻止冯正虎回国的中美两家航空公司</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8836%EF%BC%89%EF%BC%9Anhk%E5%B0%8F%E6%9E%97%E5%90%9B%E7%9A%84%E9%87%87%E8%AE%BF/">成田机场日记（36）：NHK小林君的采访</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8837%EF%BC%89%EF%BC%9A-%E3%80%8A%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0%E3%80%8B%E5%8F%91%E8%A1%A8%E4%B8%80%E5%91%A8%E5%B9%B4/">成田机场日记（37）： <零八宪章>发表一周年</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8838%EF%BC%89%EF%BC%9A-%E4%BA%BA%E6%9D%83%E6%97%A5%E6%88%91%E4%BC%91%E6%81%AF/">成田机场日记（38）： 人权日我休息</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8839%EF%BC%89%EF%BC%9A-%E8%8D%A3%E8%8E%B7%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5%E8%87%AA%E7%94%B1%E5%85%88%E9%94%8B%E5%A5%96/">成田机场日记（39）： 荣获北京之春自由先锋奖</a>》</p>
+<p>《<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8840%EF%BC%89%EF%BC%9A%E5%91%A8%E5%85%AD%E3%80%81%E5%91%A8%E6%97%A5%E4%B8%8D%E6%8E%A5%E5%BE%85%E7%8E%B0%E5%9C%BA%E9%87%87%E8%AE%BF/">成田机场日记（40）：周六、周日不接待现场采访</a>》</p></blockquote>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8841%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E7%94%9F%E8%AE%BF%E6%97%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E6%AD%A3%E8%99%8E/?category=18271" rel="tag">冯正虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA/?category=18271" rel="tag">成田机场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%90/?category=18271" rel="tag">民运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">海外华人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E6%8B%92%E6%8F%90%E9%98%85%E5%85%B5%E8%B4%B9%E7%94%A8-%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5%E5%9B%BD%E5%AE%B6%E8%8E%B7%E5%9B%9E%E6%8A%A5/" target="cdt-mirror">美国之音 | 中国拒提阅兵费用 出席阅兵国家获回报</a>
 </h2>
 <p><p>北京—尽管在9.3 大阅兵的新闻发布会和中国国防部举行的例行新闻发布会上，有记者反复追问这次举行阅兵花了多少钱，但是相关发言人一直没有公布阅兵花费的具体数字。</p>
@@ -97,7 +181,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9F%E5%88%A9/?category=18271" rel="tag">功利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%81%B5/?category=18271" rel="tag">心灵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%81%E5%BA%A6/?category=18271" rel="tag">态度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E6%80%80/?category=18271" rel="tag">情怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA/?category=18271" rel="tag">文艺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%91%A8%E5%88%8A/?category=18271" rel="tag">新周刊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%BA%E8%89%BA%E6%9C%AF/?category=18271" rel="tag">行为艺术</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97%E6%AD%8C/?category=18271" rel="tag">诗歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">青年</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E7%8E%AF%E4%BF%9D%E9%83%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A9%BA%E6%B0%94%E6%B8%85%E6%B4%81%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%8F%AF%E5%A4%AA%E7%90%86%E6%83%B3%E5%8C%96/" target="cdt-mirror">BBC | 环保部：中国空气清洁立法不可太理想化</a>
 </h2>
@@ -752,69 +836,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
 	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%A7%91%E6%99%AE%E9%9B%84%E6%96%87%E3%80%91%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8C%9C%E6%83%B3/" target="cdt-mirror">【科普雄文】花千芳：人类起源于中国的猜想</a>
-</h2>
-<p><p>【编者注】必须指出的是，“<a href="https://zh.wikipedia.org/wiki/%E9%9C%B2%E8%A5%BF_%28%E5%8D%97%E6%96%B9%E5%8F%A4%E7%8C%BF%29">露西</a>”是三百多万年前的南方古猿化石标本；“<a href="https://en.wikipedia.org/wiki/Mitochondrial_Eve">线粒体夏娃</a>”则是科学家根据线粒体DNA推算出的所有现存人类的母系最近共同祖先，非实体化石。花千芳在此文一开头就将两者混为一谈。</p>
-<p><strong>雄文选摘：</strong></p>
-<blockquote><p>听说人类的老祖宗，是一个非洲的老太太，是“夏娃”。</p>
-<p>西方的人类起源学说，认为人类的共同祖先，是一个基因突变的古代类人猿，她成功的进化为智人。而我们现在的所有人类，都是这位“夏娃”（也有人叫她露西）的女人的后代，她是整个人类的母亲。</p>
-<p>古气候学家把距今最近的一次冰川期，命名<strong>第四纪冰川期，它就发生在距今160万年到1.3万年之间</strong>。</p>
-<p>然后，我们就不能不面对一个非常尴尬的问题：基因学家证明，<strong>非洲老太太“夏娃”（其实正式的名称是露西）</strong>来自两百万年以前。等于说，现代人类（智人）的进化，要比最后一次冰川期早了起码40万年。而更加早期出现的猿人（能人）更是要推到距今七八百万年以前就出现了……说了这么多，其实我就想问一个问题：人类的老祖宗是如何躲过最后一次冰川期的？</p>
-<p>别看我们现在一个个打扮的花枝招展，实际上<strong>仅仅在五千年以前，我们都只能穿兽皮裹树叶，拎着大棒子满世界找兔子</strong>。想猎杀老虎嘛？抱歉别做梦了，老虎那东西牙尖爪利的，还那么大的劲儿，跑的又快……狭路相逢的话，还是赶紧爬树比较稳妥。不幸遇到的不是老虎而是棕熊，那你可倒霉了，爬树都没用。</p>
-<p>下一个问题就是：什么东西能够挡住冰川？[…]改变环境的不可能是峡谷，而应该是高山。[…]我们实际上可以给人类的起源划出一个固定的区域，那就是南温带到北温带之间，学术语叫做北纬30度到南纬30度之间的区域。然后我们现在随便找来一张世界地图，从东到西仔细看，我们会发现在这个区域之内，正好有一座高山，而且还是世界最高的山：<strong>青藏高原</strong>。</p>
-<p>当然，我们现在还不能确定其它地区的古代猿人和智人都冻死在了第四纪冰川期里，可是严酷的环境所带来的巨变，我们还是能从已知的历史之中略见端倪。首先就是，<strong>古埃及、古巴比伦、包括古印度和古代中国，这些创造出灿烂文化的文明古国里，主体人种都是黄种人。</strong>而这一点，再次被西方人类起源学家们刻意的忽略了。<strong>我们不是种族主义者，所以不讨论哪种肤色更高贵，可是四大文明古国都是由黄种人建立起来的</strong>，这本身就说明黄种人出现的时间更久远。<br><strong>而非洲，是不会出现黄种人的。</strong></p>
-<p>也就是说，作为一种假说，我们完全可以认为：尽管人类（猿人）在1300万年以前的时候就有可能进化出来了，可是在将近一百六十万年之久的末代冰川期里，大部分种群都没能存活下来。<strong>天堂一般的人类家园——滇藏地区的“伊甸园”成为最理想的避难所，这么一块小小的区域，延续了人类一百六十万年之久的传承</strong>。当冰川期结束，这里的人们开始追逐水草，向世界各地扩散，<strong>这使得中国成为整个人类的跟源地</strong>。</p>
-<p>值得注意的是，“伊甸园”的位置不南也不北，这样的纬度只能出现一种土著肤色：黄色。而末代冰川期的结束时间，大约是距今12500年前，中国这边因为区域地形的横向山脉作用，会提前的更早，有科学家认为末代冰川期在中国的结束时间是距今13000年前。</p>
-<p>更有意思的是，古埃及文明，诞生于大约6000到8000年前。13000年减去8000年等于5000年，这5000年的时光里，人类的祖先完成了从中国迁徙到埃及的过程，并成功的适应了当地的环境，最终创造出人类最古老的文明。是的，古埃及文明要早于古中国文明，这点没什么好避讳的，<strong>因为本来大家就是一伙儿人</strong>。埃及的文明脱颖而出，得益于尼罗河谷天然的农业条件，说白了，还是环境造就人，造就文明。</p>
-<p>再稍晚一点出现的古巴比伦文明，也就是俗称的两河文明，她的出现，只要看一眼地图就知道为什么了：距离埃及好近啊！</p>
-<p><span><strong>现在，我跟你说，我上面的这些话全是胡说八道，你信吗？</strong></span></p>
-<p>恶劣的环境催生技术的进步，过度的严寒，<strong>强迫着古代华夏智人发现了火的秘密</strong>，从最开始的自然取火，最终发展到了更为高级的人工取火。</p>
-<p>而且因为火能取暖的关系，在冰川衰退的时间段里，人类就完全有可能挺进寒冷的区域，向北进发。</p>
-<p>[…]一部分人留在了中国北方，一部分人继续向世界各地迁徙。最终，在大约六万年前，这些人来到了欧洲，并且由欧洲扩散到非洲和美洲。此后人类的发展阶段基本定型，所区别的，无非就是到了欧洲的古人逐渐变白，<strong>到了非洲的古人逐渐变黑而已</strong>。也就是说，<strong>现如今遍布全球的智人，是华夏智人的后代，人类的根，在亚洲，更具体点说，就在中国</strong>。</p>
-<p>从黑变白很困难，从白变黑当然也不容易，<strong>可是如果作为中间色的黄色，向黑白发展，就容易的多，又一个常识</strong>。</p>
-<p>距今13000年前，<strong>第四纪冰川期结束</strong>，全球气温急速升高，温暖湿润的大环境留给了人类太多的发展空间。地质学家把这段时期命名为“全新世”，不是没有道理的。</p>
-<p>从古猿进化为人猿，从已知的考古发现上来看，已经排除了非洲起源的唯一性。<br>
-从人猿进化为猿人，从已知的考古发现上来看，已经排除了非洲起源的唯一性<br><strong>从猿人进化为智人，你跟我说这事儿非洲起源有唯一性，我信吗</strong>？</p>
-<p>一条鱼爬上了海岸，说明一群鱼因为生存压力都有这个想法，所区别的无非是谁早谁晚而已。而一群鱼有了相同的想法之后，我们硬性规定这些鱼只能从非洲海岸爬上来，从别的海岸爬上来的统统不算数，这可能吗？</p>
-<p><strong>尼安德特人为什么灭亡了？我觉得这恰恰是人类中国起源学说的证据之一。</strong>尼安德特人身材高大，远比智人孔武有力，物竞天择的竞争下去，反而是尼安德特人灭绝了。这个反常的现象，只能说明一个问题，那就是尼安德特人根本不是智人，在智力上与已经进化的智人比起来，还处于猿人（能人）阶段的尼安德特人，是不可能竞争过智人的。其结果要么是被征服，要么是被灭绝，两者必存其一。</p>
-<p>那么，<strong>华夏智人凭什么胜出呢？</strong><br><strong> 很简单，因为华夏智人是青藏高原的大环境逼迫着进化出来的。</strong><br><strong>非洲猿人没有这个硬性条件的逼迫，所以停留在了猿人（能人）的阶段。</strong></p>
-<p>目前全世界的人类基因之间，有99.999%是相同的，可是相同的基因结构，只能表明人类的进化史是一样的，并不能证明人类只有唯一的一个祖先。而且即便是人类只有一对（抱歉我实在不能同意一个的说法）祖先，那么经过我们前面的推演，我们也会知道那个地点绝对不会是非洲。<strong>科学是没有国界的，可是科学家是有国界的。同理，古人类学虽然没有国界，可是古人类学家却是有国界的。</strong></p>
-<p>从研究埃及文明、两河文明开始，西方的学者们其实就已经知道了人类起源的秘密。<strong>可是“欧洲中心论”又必须维持，如果哪个西方的科学家敢公然宣称人类起源于中国，那他的各种学术研究都会被严重打压。</strong>可是不巧的是，欧洲属于极北苦寒荒芜之地，每次冰川疯长，都要把整个欧洲包裹的严严实实，这样的条件下，就算睁眼说瞎话，那也不能说人类起源于欧洲。不起源于欧洲，又不能起源于亚洲，<strong>那就只能起源于非洲了，对不对？</strong></p>
-<p>[…]在青藏高原的庇护下，中国大西南，特别是泛长江上游地区，是新出现的人猿的最佳发展和壮大的乐园，成为了人猿进化成猿人再进化成智人的<span><strong>唯一场所</strong></span>。</p>
-<p><span><strong>井底之蛙，不足以语天下</strong></span>。最高海拔八千八百四十多米的青藏高原，不是一些<strong>钻故纸堆看显微镜的所谓学者</strong>能够理解的。站在大山脚下，你的目光止于山顶；站在大山之巅，你的目光可以远达星空。虽然以上的学说缺乏有效实证，仅仅是做了<strong>常识性理论探讨</strong>，或者有所不足，也欢迎后来者指正……其实，我挺希望有人能反驳这些观点的，<strong>可惜的是，不会有人能拿出证据来</strong>。起码，先总要把爹妈的问题搞明白吧！</p>
-<p>科普文章，<strong>不求甚解</strong>，有意在这个领域深入研究的同学，可以像俺一样，去读黄饮冰先生的系列学术著作。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：<br></strong><br>
-@美国大兵净多: 【人类起源于八千八百四十多米的青藏高原】——若真如此，我们必须信上帝，这是个神迹啊。还有文中这句：【首先就是，古埃及、古巴比伦、包括古印度和古代中国，这些创造出灿烂文化的文明古国里，主体人种都是黄种人。】——本论文真是天雷滚滚，劈死人不偿命啊。</p>
-<p><a title="Lee_Kylin" href="http://weibo.com/u/2730128665"> Lee_Kylin</a>：您还是写您的星辰大海去吧，这篇文章证明了写作还是需要智商的。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/3629453593" target="_blank">FuZhenYu163</a>：对于掌握了宇宙真理的那一群人来说，这不算事！<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a title="神经质的zyc" href="http://weibo.com/u/2672232652"> 神经质的zyc</a>：看到西方的起源学说这里我又从头看了两遍，差点怀疑人生。<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
-<p>@chinanoiser：每一个了论据都精确的写错了，真不容易。</p>
-<p>@yangcosmo：这科普简直是高大上！我竟无言以对！</p>
-<p>@四不想：花公公最新巨作：人类起源于青藏高原…..学术界评论：带老重新定义了爱国，花老重新定义了人类….</p>
-<p>@城市布足：我分享了@花千芳 的文章 O人类起源于中国的猜想能把一些屁话引经据典堆起来，还弄得跟喜玛拉雅山似的也真的不容易，对这种明知道自己不能留芳千古也一定要遗臭万年的坚持喝声采是必须的，—-好呕！</p>
-<p>@路德维希1985：麻麻。。。这人是煞笔么。。。</p>
-<p>@福泽谕吉_：花相写文章有一个好，一篇文章能钓出十几篇气急败坏的科普文章</p>
-<p>@哆嘎叽：山海经</p>
-<p>@己所欲不施于人：当年太祖连基本数理化知识都不懂也敢忽悠哲学</p>
-<p>@WILLYCHENWILLY：花公公，青龙山精神病院只有一张床位了，你需要的话，哥可以开个后门给你留着，哥上面有人，不谢</p>
-<p>@Ars阿荣：花是不是党的文化先锋？大家猜想一下！</p>
-<p>@梵高在BOE：他为啥不去当编剧</p>
-<p>@你不知道我叫阿莱：谁教你地球是圆的⊙▽⊙</p>
-<p>@赵作家：据说白鳍豚也起源于中国……PO主其心可诛啊……</p>
-<p>@客栈店小八：个人觉得是大大在下一坨巨大的棋:看，只要听话，傻逼也能上位！</p>
-<p>@触碰这世界：花总第七节说“现在我说是胡说八道，你信么”当时我就懵了，难道不是么…</p>
-<p>@黑夜漫漫__：上知天文，下知地理，左说考古，右说现代，前侃文明，后证脑残。</p>
-<p>@顾天羽此昵称太受欢迎：花副主席所在的作协全名可能叫作死协会。</p>
-<p>@育才老殷：只看评论，就知道各路五毛也崩溃了</p>
-<p>@王小峰_带三个表：错别字病句比以前少多了，部分用词也比以前准确，再努力一下，可开创“政治幻想论文”先河。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%A7%91%E6%99%AE%E9%9B%84%E6%96%87%E3%80%91%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8C%9C%E6%83%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1%E4%B8%80%E5%B8%A6/?category=18271" rel="tag">一花一带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%99%BA%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">反智主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8D%83%E8%8A%B3/?category=18271" rel="tag">花千芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8F%B8%E9%A9%AC/?category=18271" rel="tag">花司马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%A7%91%E6%99%AE%E9%9B%84%E6%96%87%E3%80%91%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8C%9C%E6%83%B3/" target="cdt-mirror">【科普雄文】人类起源于中国的猜想</a>
 </h2>
 <p><p>【编者注】必须指出的是，“<a href="https://zh.wikipedia.org/wiki/%E9%9C%B2%E8%A5%BF_%28%E5%8D%97%E6%96%B9%E5%8F%A4%E7%8C%BF%29">露西</a>”是三百多万年前的南方古猿化石标本；“<a href="https://en.wikipedia.org/wiki/Mitochondrial_Eve">线粒体夏娃</a>”则是科学家根据线粒体DNA推算出的所有现存人类的母系最近共同祖先，非实体化石。花千芳在此文一开头就将两者混为一谈。</p>
 <p><strong>雄文选摘：</strong></p>

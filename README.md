@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dv0b9qqbhtk4z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r2f4p1ujehl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dv0b9qqbhtk4z.cloudfront.net">https://dv0b9qqbhtk4z.cloudfront.net</a><br/><a href="https://d1r2f4p1ujehl.cloudfront.net">https://d1r2f4p1ujehl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1r2f4p1ujehl.cloudfront.net">https://d1r2f4p1ujehl.cloudfront.net</a><br/><a href="https://dv0b9qqbhtk4z.cloudfront.net">https://dv0b9qqbhtk4z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E6%8B%92%E6%8F%90%E9%98%85%E5%85%B5%E8%B4%B9%E7%94%A8-%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5%E5%9B%BD%E5%AE%B6%E8%8E%B7%E5%9B%9E%E6%8A%A5/" target="cdt-mirror">美国之音 | 中国拒提阅兵费用 出席阅兵国家获回报</a>
@@ -120,7 +120,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9F%E5%88%A9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%8F%E6%8E%92/?category=18271" rel="tag">减排</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BC%E5%90%B8/?category=18271" rel="tag">呼吸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">大气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">环保立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E5%8C%96/?category=18271" rel="tag">理想化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B8%85%E6%B4%81/?category=18271" rel="tag">空气清洁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BC%BA%E4%BA%BA%E6%A2%A6/" target="cdt-mirror">端传媒 | 吴强：中国阅兵背后的政治强人梦</a>
 </h2>
@@ -887,7 +887,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1r2f4p1ujehl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dv0b9qqbhtk4z.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -897,5 +897,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%8A%B1
                 <td></td>
                 
         
-        <td><a href="https://d1r2f4p1ujehl.cloudfront.net">https://d1r2f4p1ujehl.cloudfront.net</a><br/><a href="https://dv0b9qqbhtk4z.cloudfront.net">https://dv0b9qqbhtk4z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dv0b9qqbhtk4z.cloudfront.net">https://dv0b9qqbhtk4z.cloudfront.net</a><br/><a href="https://d1r2f4p1ujehl.cloudfront.net">https://d1r2f4p1ujehl.cloudfront.net</a><br/></td>    </tr>
 </table>

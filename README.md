@@ -140,7 +140,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">中国外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E8%83%9C%E5%88%A9/?category=18271" rel="tag">反法西斯胜利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%BA%86%E9%98%85%E5%85%B5/?category=18271" rel="tag">国庆阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A9/?category=18271" rel="tag">抗战胜利</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%91%A8%E5%88%8A-%E8%BF%9F%E5%AE%87%E5%AE%99%EF%BC%9A%E6%88%91%E5%B0%8A%E6%95%AC%E9%82%A3%E4%BA%9B%E5%8F%91%E5%91%86%E7%9A%84%E4%BA%BA/" target="cdt-mirror">新周刊 | 迟宇宙：我尊敬那些发呆的人</a>
 </h2>
@@ -204,7 +204,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9F%E5%88%A9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%8F%E6%8E%92/?category=18271" rel="tag">减排</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BC%E5%90%B8/?category=18271" rel="tag">呼吸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">大气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">环保立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E5%8C%96/?category=18271" rel="tag">理想化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B8%85%E6%B4%81/?category=18271" rel="tag">空气清洁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BC%BA%E4%BA%BA%E6%A2%A6/" target="cdt-mirror">端传媒 | 吴强：中国阅兵背后的政治强人梦</a>
 </h2>

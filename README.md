@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgqzgchloex6z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1v3cu8jz6phcx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://dgqzgchloex6z.cloudfront.net">https://dgqzgchloex6z.cloudfront.net</a><br/><a href="https://d3kgtszsdniuh3.cloudfront.net">https://d3kgtszsdniuh3.cloudfront.net</a><br/><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1v3cu8jz6phcx.cloudfront.net">https://d1v3cu8jz6phcx.cloudfront.net</a><br/><a href="https://d3kgtszsdniuh3.cloudfront.net">https://d3kgtszsdniuh3.cloudfront.net</a><br/><a href="https://dgqzgchloex6z.cloudfront.net">https://dgqzgchloex6z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%80%E5%9C%BA%E6%9C%AC%E5%8F%AF%E4%BB%A5%E6%97%A0%E5%85%B3%E6%94%BF%E6%B2%BB%E5%92%8C%E5%8E%86%E5%8F%B2%E7%9A%84%E8%AF%89%E8%AE%BC/" target="cdt-mirror">金融时报 | 一场本可以无关政治和历史的诉讼</a>
+</h2>
+<p><p>翁一 为英国《金融时报》中文网撰稿</p>
+<p>洪振快、黄钟诉梅新育、郭松民案即由《“狼牙山五壮士”的细节分歧》一文引发的名誉侵权案尚未判决，被告方又有了新动作。</p>
+<p><strong>被告方提出诉讼的合理与不合理</strong></p>
+<p>7月下旬，“维护狼牙山五壮士名誉授权仪式”在北京举行。“狼牙山五壮士”后人授权北京赵晓鲁律师事务所赵晓鲁代理诉讼对洪振快诽谤损害父辈名誉的行为。众多八路军高级将领后代、“狼牙山五壮士”所在部队老领导、解放军老将军及郭松民等知名左翼人士参加了“授权仪式”，声势不可谓不浩大。</p>
+<p>在“授权仪式”上，与会者抛出了《国家英烈名誉保护法》，提请全国人大设立此法或在现行相关法律中增设相应条款，使得属于国家和人民的英雄先烈的名誉一旦被人诋毁玷污时，国家能够依法负责任地委托有关部门对肇事者提起公诉。</p>
+<p>国家英烈属于死者的范畴。而名誉权乃人格权利之一。死者是否有人格权利，学界一直存争议。有学者主张“没有权利，就没有救济”。依据是《民法通则》第9条规定：“公民从出生时起到死亡时止，具有民事权利能力，依法享有民事权利，承担民事义务。” 根据这一规定，公民死亡后就丧失了民事主体资格，故不再享有人格权。</p>
+<p>而中国最高人民法院《关于审理名誉权案件若干问题的意见》第五项规定：“死者名誉受到侵害的，其近亲属有权向人民法院起诉。近亲属包括：配偶、父母、子女、兄弟姐妹，祖父母、外祖父母、孙子女、外孙子女。”这一规定不仅明确了有权提起侵害死者名誉权、隐私权诉讼的原告人范围，同时也间接明确了对死者名誉、隐私的保护期限，即不超过三代人的时间。</p>
+<p>尽管死者不具备人格权利，但是，出于对死者名誉权的保护，同时，也是对社会公序良俗的维护，可由死者的近亲属代为实施，换句话说，死者近亲属行使法律救济权利是依附于死者的人格权的，死者近亲属实施法律救济权的最终目的也是为了保护死者的人格权。</p>
+<p>另外，中国历来有“为逝者讳”的文化传统。因此，于情于法，“狼牙山五壮士”后人行使法律救济权利以维护父辈的名誉，是可以理解的。</p>
+<p>然而，要求全国人大立法来保护国家英烈的名誉，恐怕不妥。这极有可能开启以维护国家英烈名誉为由进而窒息学术研究之潘多拉盒子。</p>
+<p><strong>借“历史虚无主义”之名的批判戕害学术研究</strong></p>
+<p>“狼牙山五壮士”后人称将诉洪振快毁谤损害其父辈，出自洪振快刊发在《炎黄春秋》杂志2013年第11期《“狼牙山五壮士”的细节分歧》一文。洪振快自称利用官方公开发布的材料，提出了“狼牙山五壮士”的一些细节分歧，他认为各种公开材料之间存在自相矛盾之处。</p>
+<p>人文社会科学研究，不存在绝对真理。历史研究，更是无法全方位还原历史。所以，洪振快的研究只是其一孔之见，无法掌握“狼牙山五壮士”事件的全部史实。同理，梅新育、郭松民包括“狼牙山五壮士”后人，亦不可能洞悉此事件的每一个细节。</p>
+<p>在此，后者将前者的历史研究上升到名誉侵权的高度，进而打击前者探索性的学术研究行为。可见，后者秉持的历史观念先于历史真相，于他们而言，历史真相的探究应让位于历史观念的塑造。</p>
+<p>当下中国，以后者为代表的人群，自恃持有主流意见。他们持有的意见，某种程度上已与真理或者谬误无关，仅仅因为他们处于强势地位，便不允许持不同意见者对其进行经常、充分、无畏的讨论。事实上，关于“狼牙山五壮士”事件，梅新育、郭松民等持有主流意见者，从来就没有过开诚布公的讨论，他们以保护国家英烈名誉为由，在“论战”中，情绪上表现出偏执、不宽容，没有冷静和坦诚地看待、陈述并回应对方意见。就辩论者而言，他们是不合格的。</p>
+<p>“历史虚无主义”通常是他们对持不同意见者的批判。中国社会科学院龚云《起底<炎黄春秋>》一文中称“历史虚无主义思潮假借客观公正、还原历史真相之名，对普通民众具有较大的迷惑性和欺骗性。他们的观点在社会上被不少人认可。这表明我们这些年来在意识形态管理问题上不敢‘亮剑’，存在一些漏洞，值得我们深思。”</p>
+<p>从龚云的表述中不难发现，持有主流意见者，他们所信仰的除了一些口号、公式和章句汇编之外，几乎丧失了一切生动的内容，他们只是要求人们麻木、迟钝地接受，好像出于信赖和忠诚的接受就没有必要将其体现在意识中，或没有必要在个人经历中对其加以检验，而对于持有不同意见者，满是充斥着一股杀伐之气。</p>
+<p>如此看来，反对历史虚无主义的信念已游离于人的精神之外，其作用就在于把人性中的高级部分凝结和僵化起来，以抵挡其他观念的影响；这种信念只能通过抵制任何新的观念的进入，来展现自己的力量。这种呵护极为脆弱，最后只能将自己的信念掏空。换言之，当下持有主流意见者，他们的主张，到头来只能是死的教条，而非活的真理。</p>
+<p>回到洪振快、黄钟诉梅新育、郭松民案，这本是一个非常简单的案子，与网络上群起反对历史虚无主义维护烈士名誉无关，与“狼牙山五壮士”具体史实亦无瓜葛。</p>
+<p>洪、黄起诉梅、郭原因是后者在微博上的公开侮辱。原告认为，被告在新浪微博这样影响巨大的媒体上公然辱骂、肆意侮辱原告人格，其行为已严重侵犯了原告的人格尊严和名誉权利。涉及侮辱的微博言论如下：“《炎黄春秋》的这些编辑和作者是些什么心肠啊？打仗的时候都不能拔个萝卜吃？说这样的作者和编辑属狗娘养的是不是太客气了？” 和“反对历史虚无主义，不动这帮狗娘养的就是笑话！”此案的关键是“狗娘养的”是否构成侮辱，相信法院会做出公正的裁决。</p>
+<p>笔者不禁想起前不久尘埃落定的崔永元、方舟子互诉案，崔方双方均因有侮辱对方言论而被判败诉，表明自由表达意见与侮辱他人人格是有明确法律界限的。判决书中还有这样一段话：“为避免窒息对有关公共议题的讨论，并在争论中求得真理、达成共识，法院认为人人可以就此发表自己的观点，一方可以不同意对方的意见，但即使一方观点并不完全符合科学真理，也不能剥夺对方就此发表意见的权利。”</p>
+<p>围绕着“狼牙山五壮士”文章引发的纷纷扰扰，最终若能有崔方案的结果，就是这个国家的进步。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E4%B8%80%E5%9C%BA%E6%9C%AC%E5%8F%AF%E4%BB%A5%E6%97%A0%E5%85%B3%E6%94%BF%E6%B2%BB%E5%92%8C%E5%8E%86%E5%8F%B2%E7%9A%84%E8%AF%89%E8%AE%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0/?category=18271" rel="tag">信仰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">历史虚无主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E8%8B%B1%E7%83%88/?category=18271" rel="tag">国家英烈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB/?category=18271" rel="tag">狼牙山五壮士</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/" target="cdt-mirror">【网络民议】今天我都是小粉红</a>
 </h2>
 <p><p>9月3日，纪念中反法西斯战争胜利70周年阅兵在天安门广场举行。台湾女星范玮琪因为3日上午继续晒双胞胎儿子照片，遭到了不少“爱国网友”抨击，指其不爱国，对“人人都看”的大阅兵不加关注。9月4日晚，范玮琪发文谈及此事，范玮琪写道：“真是对不起，因为分享了一张儿子的照片，让大家不高兴了！”并在微博上进行了道歉。</p>
@@ -909,20 +941,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 <a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E9%BB%91%E5%B9%95%E6%94%BF%E6%B2%BB%E5%A6%82%E4%BD%95%E5%85%AC%E5%BC%80%E6%89%93%E5%90%AC%EF%BC%9F/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%99%93%E7%92%90/?category=18271" rel="tag">王晓璐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E5%B1%80/?category=18271" rel="tag">证监局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%B0%B7%E6%AD%8C%E6%88%96%E9%87%8D%E8%BF%94%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">美国之音｜谷歌或重返中国</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/11/2010032417151424739.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/11/2010032417151424739.jpg" alt="Google Stopped Censoring Its Chinese-language Search Engine Google.cn" width="575" height="383"></a><br><em>（2010年，谷歌宣布退出中国后有大量网民前去献花；网络图片）</em></p>
-<p>美国互联网巨擘谷歌公司或最早于今年秋季重返阔别5年之久的中国市场。</p>
-<p>路透社消息援引技术资讯网站theinformation.com周五（9月4日）的一则消息说，该网站从相关人士处得悉，谷歌还希望扩大为中国市场用于可穿戴电子设备的安卓操作系统提供的支持。</p>
-<p>熟悉谷歌此项运作的消息来源说，谷歌已经对中国当局保证，将遵守当地法律，并屏蔽Play软件中被中国当局视为不可接受的软件。该网站报道说，谷歌还将为手机制造商升级操作系统提供激励措施。路透社报道说，谷歌尚未就此消息置评。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%B0%B7%E6%AD%8C%E6%88%96%E9%87%8D%E8%BF%94%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google/?category=18271" rel="tag">Google</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">谷歌事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

@@ -42,7 +42,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF/?category=18271" rel="tag">国家赔偿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%88%E9%AA%97%E6%A1%88/?category=18271" rel="tag">诈骗案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%94%E5%81%BF%E9%87%91/?category=18271" rel="tag">赔偿金</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%97%E9%83%BD%E5%91%A8%E5%88%8A-x%E5%9B%BD%E9%9A%90%E5%BD%A2%E7%A8%8E%E6%94%B6%E4%B8%80%E8%A7%88/" target="cdt-mirror">南都周刊 | X国隐形税收一览</a>
 </h2>
@@ -395,6 +395,43 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?catego
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 11小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E6%84%8F%E3%80%91%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%EF%BC%8C%E4%BB%80%E4%B9%88%E7%89%8C%E5%AD%90%E6%9C%89%E5%8F%88%E5%AE%BD%E5%8F%88%E6%89%81%E7%9A%84%E5%86%B0/" target="cdt-mirror">【网络民议】祖国万岁 什么牌子有又宽又扁的冰箱？</a>
+</h2>
+<p><p>9月3日，<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/">台湾女星范玮琪因在阅兵日当天晒出儿子照片</a>，被“爱国网友”围攻，并于次日晚发文道歉。不过，微博上也出现了不少讽刺“爱国网友”的内容。例如作家<a href="http://weibo.com/lihaipeng">@李海鹏</a>发微博时吸取了范玮琪的“经验教训”，套用文革语录风：<a href="http://weibo.com/1210071525/Czc3lrD3W?type=comment">“祖国万岁，谁知道，什么牌子有又宽又扁的冰箱？”</a></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-08-at-%E4%B8%8A%E5%8D%889.59.231.png" alt="lihaipeng1" width="607" height="613"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-08-at-%E4%B8%8A%E5%8D%8810.00.481.png" alt="lihaipeng2" width="594" height="299"></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>朴坊生活：钓鱼岛是中国的。你房子很矮么？</p>
+<p>一翔云烟：知识青年到农村去，接受贫下中农再教育，很有必要。海信的冰箱就挺好，支持国货。</p>
+<p>太阳你是sb吗：中国人民万岁。三星绝对值得你拥有。</p>
+<p>水墨Helen：一切反动派都是纸老虎！我家用的海尔卡萨帝系列，不错！</p>
+<p>天下为公之2012：事不关己、高高挂起，买冰箱选牌子由你、还是日产较合理，国产厂商家属情绪稳定！</p>
+<p>失眠者熟睡中：天要下雨娘要嫁人，您是要装腊肉的那种么？</p>
+<p>梁山县令：忙时吃干，闲时吃稀，勒紧腰带闹革命， 冰箱不要买，节约用电。</p>
+<p>王乔at沈阳：支持国货抵制日货，全民一起看阅兵！冰箱我觉得还是松下的好……</p>
+<p>电饭锅超人：共产党最好！ 海尔 BCD-521WDPW 大概65公分厚的对开门冰箱，基本是最薄了。</p>
+<p>李海鹏:回复@电饭锅超人：国运昌盛，我需要60公分厚度以内的，进口牌子有吗？</p>
+<p>微笑karasu：评论笑死了。笑完又觉得苦涩，瞬间回到几十年前。</p>
+<p>混捏节ing：扬我国威！评论里都是文革风格，我的这句还是满先进的。</p>
+<p>都是主力：政策和策略是党的绳命。报告！贴里发现五毛游走痕迹，但他们一时也方寸大乱，不知道如何打击这类帖子了。如今已经全部潜心研究应对之策，期待过会儿有统一行动。</p>
+<p>陈梓语是舞不动的伪文青：革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。[doge]我是来看评论的。</p>
+<p>峡山嘟嘟衣橱：中华民族大团结万岁，我党万税！我是来看评论的。</p>
+<p>四眼带鱼：打到美帝，请选美的。</p>
+<p>我与neko的日常：只生一个好政府来养老中日关系比较紧张还是买德国货吧</p>
+<p>采菊东篱下1797：在战略上藐视敌人，在战术上重视敌人！打倒小日本！家用电器还是小日本的耐用！</p>
+<p>ULTRAFINE：这盛世如你所愿，没买过。</p>
+<p>学不会高等数学我就是狗：无产阶级大革命万岁。我就随便转一下。</p>
+<p>大卫库克：爹亲娘亲不如习大大亲，转发微博。</p>
+<p>来来化化：为中华民族崛起而读书。如果有钱的话，还是日本的好！</p>
+<p>_我是一嗰尐奇跡：我们是共产主义接班人。笑的停不下来怎么办？</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E6%84%8F%E3%80%91%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%EF%BC%8C%E4%BB%80%E4%B9%88%E7%89%8C%E5%AD%90%E6%9C%89%E5%8F%88%E5%AE%BD%E5%8F%88%E6%89%81%E7%9A%84%E5%86%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">反法西斯胜利70周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E8%AF%AD%E5%BD%95/?category=18271" rel="tag">文革语录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E9%9D%A9/?category=18271" rel="tag">网络"文革"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%91%E6%AE%8B/?category=18271" rel="tag">脑残</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E7%8E%AE%E7%90%AA%E9%81%93%E6%AD%89/?category=18271" rel="tag">范玮琪道歉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AD%E5%BD%95%E4%BD%93/?category=18271" rel="tag">语录体</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%82%E8%BE%89%E5%8D%8E%E3%80%81%E9%A1%BE%E4%B8%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E7%BA%A7%E5%88%AB%E7%9A%84%E6%94%BF%E6%B2%BB%E9%80%BB%E8%BE%91/" target="cdt-mirror">聂辉华、顾严：中国官员级别的政治逻辑</a>
 </h2>
@@ -1104,41 +1141,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 <a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E8%B4%A2%E7%9F%A5%E9%81%93-%E7%9B%AE%E5%89%8D%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E5%B3%BB%EF%BC%9F/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%A9%BE%E9%A9%AC%E8%BD%A6/?category=18271" rel="tag">三驾马车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E9%9C%80/?category=18271" rel="tag">内需</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A4%A9/?category=18271" rel="tag">冬天</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">宏观经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF/?category=18271" rel="tag">经济形势</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%BD%93%E6%8A%97%E6%88%98%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1%E7%9A%84%E6%9C%BA/" target="cdt-mirror">【网络民议】每个人都有当抗战“中流砥柱”的机会</a>
-</h2>
-<p><p><strong><a href="http://politics.caijing.com.cn/20150906/3961669.shtml">长江新闻｜浙江横店影视城推活动：喊勿忘国耻优惠门票</a></strong></p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/61e04755jw1evsunqa63pj20fa0bgq40.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/61e04755jw1evsunqa63pj20fa0bgq40.jpg" alt="61e04755jw1evsunqa63pj20fa0bgq40" width="440" height="330"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/61e04755jw1evsunqmn0sj20fa0fawfw.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/61e04755jw1evsunqmn0sj20fa0fawfw.jpg" alt="61e04755jw1evsunqmn0sj20fa0fawfw" width="440" height="440"></a></p>
-<p>位于浙江东阳市的横店影视城，因拍抗日剧之多，盛传“一年杀死7亿鬼子”，一度被戏称为“抗日根据地”。</p>
-<p>[…]长江新闻记者注意到，“横店影视城”的公众号上，“梦幻谷”景区推出了一项活动：</p>
-<p>为庆祝抗战胜利70周年，游客只要高喊“勿忘国耻，振兴中华”的口号，并且经监测达到110分贝后，就可在3日到5日享受门票优惠。</p>
-<p>这一天是9月3日，抗战胜利纪念日。</p>
-<p>上午10时45分，在北京天安门广场，300名抗战老兵行进在受阅方队的最前面。</p>
-<p>[…]在广州街教堂，正在拍一场抗日剧场景，教堂外站着几个正在休息的“日本兵”，有的在玩手机，有的在玩牌。听起来这里正在进行“枪战”，不时有爆炸声从教堂内传出。</p>
-<p>一名“日本军官”昨夜和剧组聚餐，一起纪念抗战胜利七十周年。刚刚，他被一名“八路”“打死”了。这是他一天中多次“死亡”的第一次。[…]</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/3082149175" target="_blank">兔币-南博丸</a>：哈哈哈 ， 在门口表演一个日军切腹自杀免费入场，假如能被路过人吐口水的话，景点不仅免费门票还倒贴！ <img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/1619659385" target="_blank">僮–伈</a>：<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"> 勿忘国耻，振兴中华！<img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/sunxd7811" target="_blank">Mark大白话</a>：抗日救国，就靠你了，为横店影视城点赞<img title="[赞]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/z2_org.gif" alt="[赞]"><img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
-<p>COLABEAR：中国梦开始的地方</p>
-<p>且宽怀：艹！感觉阅兵式选错地方了！</p>
-<p>richard0show：一年杀死7亿多鬼子，可绕地球两圈！</p>
-<p>ZhouYu-onTrain：一个大型反讽魔幻剧</p>
-<p>看雨江南：精神胜利法，能不能真真正正的拍一部</p>
-<p>我要法网：每个人都有当抗战“中流砥柱”的机会啊。。。。。。。。。。。</p>
-<p>伤心云雨云雨雨云：我党之所以是抗日中流砥柱，主要有两大原因：一，抗战时间长，从1949年抗到今天还没抗完，其跨度远非美欧苏能比；二，集中力量打大歼灭战，在横店一地每天不停屠杀日军，累计数量已无法统计，使日军始终无法抽身与德国法西斯回合，从而拯救了苏联和欧洲诸国。</p>
-<p>黑7先生：哈哈哈，连节操和原则都没了，口号还有什么意义呢</p>
-<p>青果两支：勿忘国耻！做一个大写的你国木！</p>
-<p>kairYUdono：羞耻play中国春梦</p>
-<p>夏湖篮：“我们是害虫，我们是害虫”、“正义的横店兵，正义的横店兵，一定要把害虫杀死杀死”.</p>
-<p>右-切克闹：一直在意淫，从未被超越、</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%BD%93%E6%8A%97%E6%88%98%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1%E7%9A%84%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%92%95%E9%AC%BC%E5%AD%90/?category=18271" rel="tag">手撕鬼子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/?category=18271" rel="tag">抗日神剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A8%AA%E5%BA%97%E6%88%98%E5%BD%B9/?category=18271" rel="tag">横店战役</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

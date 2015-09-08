@@ -68,7 +68,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0/?category=18271" rel="tag">媒体札记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%BE%BE%E5%86%85/?category=18271" rel="tag">徐达内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7/?category=18271" rel="tag">微信公号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E5%AE%89%E5%BE%BD%E9%AB%98%E9%99%A2%E7%99%BB%E6%8A%A5%E5%90%91%E5%8D%81%E4%B9%9D%E5%90%8D%E8%92%99%E5%86%A4%E8%80%85%E9%81%93%E6%AD%89/" target="cdt-mirror">BBC | 安徽高院登报向十九名蒙冤者道歉</a>
 </h2>
@@ -88,7 +88,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF/?category=18271" rel="tag">国家赔偿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%88%E9%AA%97%E6%A1%88/?category=18271" rel="tag">诈骗案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%94%E5%81%BF%E9%87%91/?category=18271" rel="tag">赔偿金</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%97%E9%83%BD%E5%91%A8%E5%88%8A-x%E5%9B%BD%E9%9A%90%E5%BD%A2%E7%A8%8E%E6%94%B6%E4%B8%80%E8%A7%88/" target="cdt-mirror">南都周刊 | X国隐形税收一览</a>
 </h2>

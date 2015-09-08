@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dotseog07i0j8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1imvz68ntq57o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dotseog07i0j8.cloudfront.net">https://dotseog07i0j8.cloudfront.net</a><br/><a href="https://d1imvz68ntq57o.cloudfront.net">https://d1imvz68ntq57o.cloudfront.net</a><br/><a href="https://d3p7p70qo7dxuk.cloudfront.net">https://d3p7p70qo7dxuk.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1imvz68ntq57o.cloudfront.net">https://d1imvz68ntq57o.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://dotseog07i0j8.cloudfront.net">https://dotseog07i0j8.cloudfront.net</a><br/><a href="https://d3p7p70qo7dxuk.cloudfront.net">https://d3p7p70qo7dxuk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%8D%E5%A0%AA%E4%B8%80%E5%87%BB%E4%B8%AD%E4%BA%A7%E6%A2%A6-%E7%88%86%E7%82%B8%E6%8A%8A%E4%B8%9A%E4%B8%BB%E5%8F%98%E6%88%90%E8%AE%BF%E6%B0%91/" target="cdt-mirror">端传媒 | 不堪一击中产梦 爆炸把业主变成访民</a>
@@ -176,7 +176,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E6%94%B9/?category=18271" rel="tag">人民币汇改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E6%9C%BA/?category=18271" rel="tag">投机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%87%E7%8E%87/?category=18271" rel="tag">汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">经济政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%81%82%E8%BE%89%E5%8D%8E%E3%80%81%E9%A1%BE%E4%B8%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E7%BA%A7%E5%88%AB%E7%9A%84%E6%94%BF%E6%B2%BB%E9%80%BB%E8%BE%91/" target="cdt-mirror">聂辉华、顾严：中国官员级别的政治逻辑</a>
 </h2>
@@ -973,7 +973,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3p7p70qo7dxuk.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1imvz68ntq57o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -983,5 +983,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d3p7p70qo7dxuk.cloudfront.net">https://d3p7p70qo7dxuk.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://dotseog07i0j8.cloudfront.net">https://dotseog07i0j8.cloudfront.net</a><br/><a href="https://d1imvz68ntq57o.cloudfront.net">https://d1imvz68ntq57o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1imvz68ntq57o.cloudfront.net">https://d1imvz68ntq57o.cloudfront.net</a><br/><a href="https://dotseog07i0j8.cloudfront.net">https://dotseog07i0j8.cloudfront.net</a><br/><a href="https://d3r7fcqm8dgzwl.cloudfront.net">https://d3r7fcqm8dgzwl.cloudfront.net</a><br/><a href="https://d3p7p70qo7dxuk.cloudfront.net">https://d3p7p70qo7dxuk.cloudfront.net</a><br/></td>    </tr>
 </table>

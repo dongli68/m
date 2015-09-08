@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1znhla5q8ct2n.cloudfront.net">https://d1znhla5q8ct2n.cloudfront.net</a><br/><a href="https://d1poq4tdtiif2q.cloudfront.net">https://d1poq4tdtiif2q.cloudfront.net</a><br/><a href="https://dwjsg7riule11.cloudfront.net">https://dwjsg7riule11.cloudfront.net</a><br/><a href="https://d2wfe5u0pb0cy.cloudfront.net">https://d2wfe5u0pb0cy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1znhla5q8ct2n.cloudfront.net">https://d1znhla5q8ct2n.cloudfront.net</a><br/><a href="https://d2wfe5u0pb0cy.cloudfront.net">https://d2wfe5u0pb0cy.cloudfront.net</a><br/><a href="https://dwjsg7riule11.cloudfront.net">https://dwjsg7riule11.cloudfront.net</a><br/><a href="https://d1poq4tdtiif2q.cloudfront.net">https://d1poq4tdtiif2q.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%8C%E5%B7%A6%E6%89%8B%E7%A4%BC%E7%9A%84%E5%A4%A7%E4%BA%8B%E6%95%85/" target="cdt-mirror">明镜｜习近平行“左手礼”的大事故</a>
@@ -925,5 +925,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d1poq4tdtiif2q.cloudfront.net">https://d1poq4tdtiif2q.cloudfront.net</a><br/><a href="https://dwjsg7riule11.cloudfront.net">https://dwjsg7riule11.cloudfront.net</a><br/><a href="https://d1znhla5q8ct2n.cloudfront.net">https://d1znhla5q8ct2n.cloudfront.net</a><br/><a href="https://d2wfe5u0pb0cy.cloudfront.net">https://d2wfe5u0pb0cy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1poq4tdtiif2q.cloudfront.net">https://d1poq4tdtiif2q.cloudfront.net</a><br/><a href="https://d2wfe5u0pb0cy.cloudfront.net">https://d2wfe5u0pb0cy.cloudfront.net</a><br/><a href="https://d1znhla5q8ct2n.cloudfront.net">https://d1znhla5q8ct2n.cloudfront.net</a><br/><a href="https://dwjsg7riule11.cloudfront.net">https://dwjsg7riule11.cloudfront.net</a><br/></td>    </tr>
 </table>

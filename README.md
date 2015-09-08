@@ -24,6 +24,52 @@
         <td><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0%EF%BD%9C%E8%A9%B9%E4%B8%87%E6%89%BF%EF%BC%9A%E5%BE%90%E5%BE%90%E8%BE%BE%E5%86%85/" target="cdt-mirror">媒体札记｜詹万承：徐徐达内</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/xudanei.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/xudanei.jpg" alt="xudanei" width="258" height="182"></a><br>
+记者徐达内</p>
+<p><strong>媒体札记 詹万承</strong></p>
+<p>2014年，十一，我和徐达内在广州见面。</p>
+<p>彼时，他正从香港大学参加完研讨会回来，风尘仆仆，难掩倦容，中午约在海珠广场附近吃饭，落座脱下背包，气场又回来了，他恪守着老年人一般的早睡早起定律，每天十点睡六点起，每周固定踢三场球，冲锋起来像不要命一样，精力旺盛到可以为FT中文网持续写作媒体札记专栏达6年之久。</p>
+<p>他先说了一会儿香港见闻，有街头抗议的现场画面，也有媒体人创业的思考，当时我印象最深刻的一句话，是他转述的一则会场玩笑——“我有特殊的盈利技巧”。媒体人转战新媒体创业，2014年最是如火如荼之际，只是苦于业内叫好不叫座，影响囿于媒体圈之内，一谈到所谓盈利模式，要么做讳莫如深状，要么顾左右而言他，所以才有了这层心照不宣的饰词。</p>
+<p>席间谈论最多的，还是新榜，那时新媒体排行榜成立不到三个月，外界不知为何物，他一个个城市全国跑，与一家家微信号谈，听他们谈论运营心得，听他们叙说困惑不满，探讨作为中介商的新榜，可以做些什么服务工作，可以朝哪些方向去改进。从一开始，徐达内的构想就很长远，思路也非常清晰，先做榜单，再做平台，通过公开公正客观的数据吸引新媒体主与广告主，然后搭建了一个类似淘宝的交易平台，让广告主和新媒体主，可以自由安全愉快地在上面勾搭。</p>
+<p>那天，从香港来广州途中，他还不忘缝插针，在深圳也见了一拨，晚间我又随他参加了一次广州本地微信运营者聚会。</p>
+<p>与会者媒体人不少，免不了要纵论一番。被警方带走调查没几日，即在央视自陈其罪的沈颢，自然成了热议话题，媒体札记所写的那篇《偶像沈颢》，也一度传播甚广。在小饭馆幽暗的灯光下，徐达内被追问如何看待此人此事？打了几轮太极后，依旧被逼着表态。我清楚，徐达内与沈颢是旧相识，2003年东方早报创立伊始，北上上海办报的沈颢，正是徐达内同事，但是，在涌动着陌生气息的场所，流露太多的私人情感，终归是不宜且不妥。</p>
+<p>今年看到央视主持人毕福剑说唱视频引起轩然大波时，我又想到了这一晚，以及那个被搪塞的问题，因为晚饭时所说的，后来一五一十都被写进了文章，虽然说的都是新媒体。</p>
+<p>一段小视频，一则截屏图，可以在舆论场上掀起惊天骇浪，从渠道角度来看，这自然是拜移动互联网所赐。兴起于2012年的微信，正是这一片疆域上当之无愧的王者，它使创业门槛迅速变低，不再需要架构复杂的App，也不再需要看得着摸得见的实体店，网罗住一批忠实用户，运营好一家微信号，就有变现可能。</p>
+<p>传播介质所发生的变化，也深刻影响着媒体，最新鲜最热辣最劲爆的料，往往都是网络早于白纸黑字出现。媒体札记也跟着转换，素材来源从注重门户依赖报纸，到逐渐发现，每逢大事报纸头版越来越千人一面；2013年大V渐次凋零之后，微博也不复当年勇，微信公众号里屡屡被刷屏的文章，成为媒体札记最重要的引用素材。从传播效果的角度而言，一篇阅读数斩获10万+的微信文章，一个乏人问津的地方报纸头版，谁更具有价值，相信不言自明。</p>
+<p>但是，那触目惊心的“此内容因违规无法查看”，以及频繁出现的“该微博已被删除”，常使人倍感无奈，我依托印象笔记几乎在与所有屏蔽赛跑，就像是沙滩上的那个小男孩，把搁浅于泥沙的小鱼，一条条扔回大海，让这些几乎在互联网上绝迹的内容，通过嫁接在媒体札记里重新复活。</p>
+<p>2015年8月28日，综合人民网总裁被带走调查，以及南方报业被巡视整改，我在凌晨3点写完《同在穹顶之下》，可是回头一看却发现，前一晚的所有报道，几乎都消失了，那种瘆得慌的感觉，像是一群人在暗夜里走路，越走越寂静，越走人越少，到最后发现身边空无一人，前方隐约可见的是一面悬崖。</p>
+<p>最终决定还是不发了吧。</p>
+<p>第二天，周六，我又在广州见到了徐达内。</p>
+<p>南方的街道，依旧是郁郁葱葱，看不到树叶凋零，四季流转的自然规律在这打了一个盹，可是媒体内部的变革，却如岩浆一样喷涌欲出。</p>
+<p>那一天，新榜正联合南都周刊举办《开启新媒体掘金时代》，上台的分享嘉宾，很多确实掘到了金，动辄上百万的广告月收入，软文随便就几万块一条，强者愈强的丛林法则，也在微信生态圈上演。我最明显的感受是，与去年见面时微信运营者们那种瞻前顾后的心态不同，这一次的与会者要么是底气足很乐观，要么是遗憾错失良机正想方设法在复制。几乎没有谁还在怀疑，感叹的都是风口在哪。</p>
+<p>我甚至有一阵恍惚，这气氛或许与多年前同样发生在广州大道289号大院里的传奇一模一样，一样的风华正茂，一样的先声夺人。区别在于，那些往事，是在新闻真相的红色小药丸之外，裹着一层理想、公平、以及正义混合而成的糖衣，现在，红色小药丸被换成了蓝色，盈利模式这根神奇的指挥棒舞动后，软文广告、粉丝运营、社群经济等等词汇，都在商业变现的旋律之下翩跹起舞。</p>
+<p>那舞姿很动人，而过去好遥远。这些看上去或许并不令人意外，去年媒体札记就写过类似句子：“是啊，这是一个崇拜张小龙甚于程益中的时代，这也是一个喜欢马云甚于沈颢的年代…”</p>
+<p>可是，当坐在会场收到徐达内发来的微信“晚上约了程益中吃饭，你一块？”时，我的内心又有点兴奋起来。传说的南方双子星之一，风云往事的缔造者之一。于是，当晚，跟着徐达内这个安徽宣城人，我在饭桌上，见到了那个的安徽安庆人——程益中。</p>
+<p>在地下车库上楼前，我和徐达内小声交谈着，几乎花了不到一分钟的时间，我们就讨论定下来了，先让媒体札记无限期冬眠吧。</p>
+<p>我有点累了，用户是碎片化阅读，我是碎片化写作，一点一点积攒材料，大把大把时间付出，这近两年来，周一到周五，每天如此，但是，可能还刚发十分钟，码了一天的字，就被卷入黑洞，消失不见了。</p>
+<p>他其实更累，劳力兼劳心，作为常年的空中飞人，日程每每要精准到天；我见过他使用手机，微信里那些密密麻麻的小红点，像一颗颗蠕动的小虫子。有一次，我们在长沙杜甫江阁上喝茶，我喝了一个多小时，他忙了一个多小时，处理各种来电，回复各种微信，仿佛像是一枚永不知疲倦的陀螺。</p>
+<p>鞭子是什么？我有思考过…</p>
+<p>与程益中的见面吃饭，比我想象的轻松自然。这位年过五十的传媒风云人物，容貌与网络流传照片并无二致，白羊座的他，笑起来酒窝深沉帅气依然。与会者总共七人，我基本是在听他们交谈。程益中说起自己的家庭，谈对眼下时局的看法，回忆遥远的南方往事。气氛很亲切，久违的熟悉。碰杯敬酒时，我没顾忌其他，主动要求合影，他也欣然应允了。</p>
+<p>吃完晚饭之后，又赶了另一场，继续说新媒体，继续听他们谈。</p>
+<p>回到宾馆时，已经11点多了。我去徐达内房间，接着聊未完的事。</p>
+<p>2007年，而立之年的徐达内从东方早报辞职，说是激流勇退毫不为过。在微信群里，我看到有前同事称这位年轻的副总编为少帅，关于前媒体生涯，2014年在武汉光谷的星巴克，他简略和我谈起过，后来在《侈谈体面》一文里，他也有提及。</p>
+<p>体面，或许就是根持续在挥舞的鞭子，猎猎作响的风声便是由它而起。</p>
+<p>那些媒体札记无法抵达的彼岸，新榜可以做到一些，请允许我用媒体札记的方式，安利一下徐达内所写的一段话——今年7月，在北京日报报业集团旗下的《新闻与写作》杂志上，新榜创始人、CEO徐达内曾写下过自己的创业心路历程：“从勉力支撑一叶扁舟，到有机会站在高处俯瞰百舸争流，从做一个产业链上的因子到构筑中国移动互联网渠道价值标准，眼界大开，也就能将此前点滴体会汇聚成流，形成一些有关移动端新媒体的理解。”</p>
+<p>看上去不艰难，从2014年8月看着榜单出现，到有榜妹、榜哥之称谓，再到如今也不过一年多一点而已。</p>
+<p>可是，创业的历程，如果要从2004年投资设立EG365公司算起，其实已经整整过去11年了，哪怕把起点画到离开东方早报的2007年，也是8载光阴早已悄然而逝。</p>
+<p>出现于2008年的媒体札记，作为一叶扁舟，她的使命或许早就已经完成了。</p>
+<p>那一夜，我们有一搭没一搭聊着，我想起，这家广州大道旁的宾馆，离虎门应在百公里之内，那个唤醒徐达内体面赚钱之念的东莞姑娘红菱，在历经岁月风尘碾压后也该早已为人妻为人母了吧。</p>
+<p>夜阑人静，谈性渐淡，他还要早起赶高铁，从广州去武汉，再从武汉飞上海，我起身告别离开，关门时清晰看到，徐达内所穿的黑色T恤上写着：The best is yet to come。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0%EF%BD%9C%E8%A9%B9%E4%B8%87%E6%89%BF%EF%BC%9A%E5%BE%90%E5%BE%90%E8%BE%BE%E5%86%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0/?category=18271" rel="tag">媒体札记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%BE%BE%E5%86%85/?category=18271" rel="tag">徐达内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7/?category=18271" rel="tag">微信公号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E5%AE%89%E5%BE%BD%E9%AB%98%E9%99%A2%E7%99%BB%E6%8A%A5%E5%90%91%E5%8D%81%E4%B9%9D%E5%90%8D%E8%92%99%E5%86%A4%E8%80%85%E9%81%93%E6%AD%89/" target="cdt-mirror">BBC | 安徽高院登报向十九名蒙冤者道歉</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150720115154_cn_china_jinan_court_976x549_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150720115154_cn_china_jinan_court_976x549_afp_nocredit.jpg" alt="150720115154_cn_china_jinan_court_976x549_afp_nocredit" width="600" height="337"></a><p>中国安徽省高级人民法院周二在报纸刊登广告，向19名蒙冤者道歉，据报是中国首例。</p></div>
@@ -42,7 +88,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF/?category=18271" rel="tag">国家赔偿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%88%E9%AA%97%E6%A1%88/?category=18271" rel="tag">诈骗案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%94%E5%81%BF%E9%87%91/?category=18271" rel="tag">赔偿金</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%97%E9%83%BD%E5%91%A8%E5%88%8A-x%E5%9B%BD%E9%9A%90%E5%BD%A2%E7%A8%8E%E6%94%B6%E4%B8%80%E8%A7%88/" target="cdt-mirror">南都周刊 | X国隐形税收一览</a>
 </h2>
@@ -1055,92 +1101,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%81%93%E9%AB%98%E4%B8%80%E5%B0%BA-%E5%A2%99%E9%AB%98%E4%B8%80%E4%B8%88%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E5%B0%81%E9%94%81%E6%98%AF%E5%A6%82%E4%BD%95%E5%8D%87/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/vpn/?category=18271" rel="tag">VPN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">不明真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">北京邮电大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8A%A8%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">反动势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">国家防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91/?category=18271" rel="tag">大陆网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E8%B4%A2%E7%9F%A5%E9%81%93-%E7%9B%AE%E5%89%8D%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E5%B3%BB%EF%BC%9F/" target="cdt-mirror">凤凰财知道 | 目前中国的经济形势到底有多严峻？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%961.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%961.jpg" alt="中国经济恶化1" width="600" height="340"></a></p>
-<p><strong>Q：在当前改革深化，内需不足，外需大减的情况下，请问中国经济到底有多糟糕？病症在哪里？</strong></p>
-<p>A1：</p>
-<p>提供点素材让大家感受下我国的宏观经济形势。</p>
-<p>数据来源：国家统计局国家数据网（http://data.stats.gov.cn/index.htm）<br>
-——————————————————————————————————————————–</p>
-<p><strong>1、PMI</strong></p>
-<blockquote><p>制造业采购经理指数（PMI），是通过对企业采购经理的月度调查结果统计汇总、编制而成的指数，是国际上通用的监测宏观经济走势的先行性指数之一，具有较强的预测、预警作用。PMI是一个综合指数，由5个扩散指数（分类指数）加权计算而成。PMI通常以50%作为经济强弱的分界点，PMI高于50%时，反映制造业经济扩张；低于50%，则反映制造业经济收缩。</p></blockquote>
-<p>1.1、制造业PMI指数</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%962.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%962.jpg" alt="中国经济恶化2" width="577" height="305"></a></p>
-<p>1.2、非制造业PMI指数</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%963.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%963.jpg" alt="中国经济恶化3" width="594" height="301"></a></p>
-<p> </p>
-<p>1.3、中美欧制造业PMI指数对比</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%964.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%964.jpg" alt="注：对比图中的PMI指数为汇丰银行版中国PMI，与官方版略有不同" width="597" height="426"></a><p>注：对比图中的PMI指数为汇丰银行版中国PMI，与官方版略有不同</p></div>
-<p><strong>2、克强指数</strong></p>
-<blockquote><p>克强指数（Li keqiang index），是英国著名政经杂志《经济学人》创造的用于</p>
-<p>评估中国GDP增长量的指标，以中国国务院总理李克强的名字命名。<br>
-克强指数是三种经济指标：耗电量、铁路货运量和银行贷款发放量的结合。该杂志认为，克强指数比官方GDP数字更能反映中国经济的现实状况。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%965.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%965.jpg" alt="中国经济恶化5" width="600" height="308"></a></p>
-<p>
-</p><p>2.1.发电量</p>
-<p>2.2.铁路货运量</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%966.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%966.jpg" alt="中国经济恶化6" width="572" height="323"></a></p>
-<p>2.3克强指数</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%967.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%967.jpg" alt="中国经济恶化7" width="600" height="455"></a></p>
-<p>——————————————————————————————————————————–</p>
-<p>3、工业</p>
-<p>3.1工业增加值</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%968.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%968.jpg" alt="中国经济恶化8" width="600" height="446"></a></p>
-<p> </p>
-<p>3.2.工业企业利润总额</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9610.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9610.jpg" alt="中国经济恶化10" width="600" height="439"></a></p>
-<p>
-</p><p>———————————————————————————————————————————-</p>
-<p>4、行业</p>
-<p>选取一些比较有代表性的行业数据</p>
-<p>4.1、汽车</p>
-<p>半个汽车人表示，如果铺开说，我能给你倒一晚上苦水。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9611.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9611.jpg" alt="中国经济恶化11" width="585" height="314"></a></p>
-<p>4.2、手游</p>
-<p>其他答案里提到的口红效应，付费用户中，包括我</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9612.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9612.jpg" alt="中国经济恶化12" width="600" height="447"></a></p>
-<p> </p>
-<p>———————————————————————————————————————————-</p>
-<p><strong>5、三驾马车</strong></p>
-<p>传统意义上拉动中国经济增长的三驾马车，出口，内需，投资</p>
-<p>5.1、出口总量</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9613.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9613.jpg" alt="中国经济恶化13" width="572" height="313"></a></p>
-<p>5.2、社会消费零售</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9614.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9614.jpg" alt="中国经济恶化14" width="582" height="325"></a></p>
-<p>5.3、固定资产投资额</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9615.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9615.jpg" alt="中国经济恶化15" width="585" height="310"></a></p>
-<p>——————————————————————————————————————————–</p>
-<p><strong>6、房地产</strong><br>
-唯一触底反弹的，恩，是房地产行业<br>
-因为它的冬天来得早了那么一点</p>
-<p>6.1、房地产销售</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9616.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9616.jpg" alt="中国经济恶化16" width="561" height="322"></a></p>
-<p>6.2、房地产开、竣工面积</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9617.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9617.jpg" alt="中国经济恶化17" width="555" height="305"></a></p>
-<p>6.3、房价</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9618.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9618.jpg" alt="中国经济恶化18" width="612" height="466"></a></p>
-<p>————————————————————————————————————————————</p>
-<p><strong>7、景气指数</strong></p>
-<blockquote><p>经济景气指数来源于企业景气调查，它是西方市场经济国家建立的一项统计调查制度。它是通过对企业家进行定期的问卷调查，并根据企业家对企业经营情况及宏观经济状况的判断和预期来编制的，由此反映企业的生产经营状况、经济运行状况，预测未来经济的发展变化趋势。<br>
-宏观经济景气指数包括：预警指数、一致指数(1996年=100)、先行指数,(1996年=100)、滞后指数,(1996年=100)</p></blockquote>
-<p>7.1、宏观经济景气指数</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9619.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%B6%E5%8C%9619.jpg" alt="中国经济恶化19" width="600" height="454"></a></p>
-<p> </p>
-<p>————————————————————————————————————————————-</p>
-<p><strong>8、股市</strong></p>
-<p>熊市来得太快就像龙卷风~</p>
-<p><strong>A2：</strong></p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/NRlyD84xy2sRbkibexujrctx5z660TcBf3oa46DUI6CrrypecjcdZiblH2gCgbgTVAkVv7F3QnFUIToj3ZMzeaeA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E8%B4%A2%E7%9F%A5%E9%81%93-%E7%9B%AE%E5%89%8D%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E5%B3%BB%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E9%A9%BE%E9%A9%AC%E8%BD%A6/?category=18271" rel="tag">三驾马车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E9%9C%80/?category=18271" rel="tag">内需</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A4%A9/?category=18271" rel="tag">冬天</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">宏观经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF/?category=18271" rel="tag">经济形势</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

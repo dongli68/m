@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d18n2jlfe2ulhe.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dotseog07i0j8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d18n2jlfe2ulhe.cloudfront.net">https://d18n2jlfe2ulhe.cloudfront.net</a><br/><a href="https://d2bpo9ktffqone.cloudfront.net">https://d2bpo9ktffqone.cloudfront.net</a><br/><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/><a href="https://dotseog07i0j8.cloudfront.net">https://dotseog07i0j8.cloudfront.net</a><br/><a href="https://d1ixqafv8bd6rz.cloudfront.net">https://d1ixqafv8bd6rz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dotseog07i0j8.cloudfront.net">https://dotseog07i0j8.cloudfront.net</a><br/><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/><a href="https://d18n2jlfe2ulhe.cloudfront.net">https://d18n2jlfe2ulhe.cloudfront.net</a><br/><a href="https://d1ixqafv8bd6rz.cloudfront.net">https://d1ixqafv8bd6rz.cloudfront.net</a><br/><a href="https://d2bpo9ktffqone.cloudfront.net">https://d2bpo9ktffqone.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%8C%E5%B7%A6%E6%89%8B%E7%A4%BC%E7%9A%84%E5%A4%A7%E4%BA%8B%E6%95%85/" target="cdt-mirror">明镜｜习近平行“左手礼”的大事故</a>
@@ -92,7 +92,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A4%BC/?category=18271" rel="tag">左手敬礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8841%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E7%94%9F%E8%AE%BF%E6%97%A5/" target="cdt-mirror">成田机场日记（41）：欢迎习近平先生访日</a>
 </h2>
@@ -915,7 +915,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2j46hvfeznfk4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2bpo9ktffqone.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -925,5 +925,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/><a href="https://dotseog07i0j8.cloudfront.net">https://dotseog07i0j8.cloudfront.net</a><br/><a href="https://d18n2jlfe2ulhe.cloudfront.net">https://d18n2jlfe2ulhe.cloudfront.net</a><br/><a href="https://d2bpo9ktffqone.cloudfront.net">https://d2bpo9ktffqone.cloudfront.net</a><br/><a href="https://d1ixqafv8bd6rz.cloudfront.net">https://d1ixqafv8bd6rz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2bpo9ktffqone.cloudfront.net">https://d2bpo9ktffqone.cloudfront.net</a><br/><a href="https://d2j46hvfeznfk4.cloudfront.net">https://d2j46hvfeznfk4.cloudfront.net</a><br/><a href="https://d18n2jlfe2ulhe.cloudfront.net">https://d18n2jlfe2ulhe.cloudfront.net</a><br/><a href="https://dotseog07i0j8.cloudfront.net">https://dotseog07i0j8.cloudfront.net</a><br/><a href="https://d1ixqafv8bd6rz.cloudfront.net">https://d1ixqafv8bd6rz.cloudfront.net</a><br/></td>    </tr>
 </table>

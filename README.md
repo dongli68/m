@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfl9ww3n23s4b.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37xe0unxgmoki.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d37xe0unxgmoki.cloudfront.net">https://d37xe0unxgmoki.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0%EF%BD%9C%E8%A9%B9%E4%B8%87%E6%89%BF%EF%BC%9A%E5%BE%90%E5%BE%90%E8%BE%BE%E5%86%85/" target="cdt-mirror">媒体札记｜詹万承：徐徐达内</a>
@@ -1115,7 +1115,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfl9ww3n23s4b.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37xe0unxgmoki.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1125,5 +1125,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d37xe0unxgmoki.cloudfront.net">https://d37xe0unxgmoki.cloudfront.net</a><br/></td>    </tr>
 </table>

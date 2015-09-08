@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3p7p70qo7dxuk.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfl9ww3n23s4b.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3p7p70qo7dxuk.cloudfront.net">https://d3p7p70qo7dxuk.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d1imvz68ntq57o.cloudfront.net">https://d1imvz68ntq57o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/><a href="https://d1imvz68ntq57o.cloudfront.net">https://d1imvz68ntq57o.cloudfront.net</a><br/><a href="https://d3p7p70qo7dxuk.cloudfront.net">https://d3p7p70qo7dxuk.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%8D%E5%A0%AA%E4%B8%80%E5%87%BB%E4%B8%AD%E4%BA%A7%E6%A2%A6-%E7%88%86%E7%82%B8%E6%8A%8A%E4%B8%9A%E4%B8%BB%E5%8F%98%E6%88%90%E8%AE%BF%E6%B0%91/" target="cdt-mirror">端传媒 | 不堪一击中产梦 爆炸把业主变成访民</a>
@@ -155,7 +155,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">中国游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%BB%E9%80%BC/?category=18271" rel="tag">傻逼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%95%E5%B1%82/?category=18271" rel="tag">底层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">新闻管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89-%E7%8B%82%E7%83%AD/?category=18271" rel="tag">爱国主义.狂热</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB/?category=18271" rel="tag">职业素养</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BC%9A%E5%B8%82%E5%9C%BA%E6%B3%A1%E6%B2%AB%E5%9F%BA%E6%9C%AC%E6%8C%A4%E5%AE%8C-%E4%B8%BA%E6%94%B9%E9%9D%A9%E5%88%9B/" target="cdt-mirror">【异闻观止】新华网：市场泡沫基本挤完 为改革创造了机会</a>
 </h2>
@@ -291,7 +291,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A4%BC/?category=18271" rel="tag">左手敬礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8841%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E7%94%9F%E8%AE%BF%E6%97%A5/" target="cdt-mirror">成田机场日记（41）：欢迎习近平先生访日</a>
 </h2>
@@ -973,7 +973,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1imvz68ntq57o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3p7p70qo7dxuk.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -983,5 +983,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1imvz68ntq57o.cloudfront.net">https://d1imvz68ntq57o.cloudfront.net</a><br/><a href="https://d3p7p70qo7dxuk.cloudfront.net">https://d3p7p70qo7dxuk.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3p7p70qo7dxuk.cloudfront.net">https://d3p7p70qo7dxuk.cloudfront.net</a><br/><a href="https://d1imvz68ntq57o.cloudfront.net">https://d1imvz68ntq57o.cloudfront.net</a><br/><a href="https://dfl9ww3n23s4b.cloudfront.net">https://dfl9ww3n23s4b.cloudfront.net</a><br/></td>    </tr>
 </table>

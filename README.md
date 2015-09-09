@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d29wlidzsw9r6w.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28z5gm9lmnqs5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,92 @@
                 <td></td>
                 
         
-        <td><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d1deat5ajsbr8j.cloudfront.net">https://d1deat5ajsbr8j.cloudfront.net</a><br/><a href="https://d3awi5iwpz9nq4.cloudfront.net">https://d3awi5iwpz9nq4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d3awi5iwpz9nq4.cloudfront.net">https://d3awi5iwpz9nq4.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d1deat5ajsbr8j.cloudfront.net">https://d1deat5ajsbr8j.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%8C%85%E4%BA%8E%E8%BD%BC%E5%8A%A0%E5%85%A5%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E8%AE%BA%E6%88%98%E5%BC%95%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 中国学者茅于轼加入抗战历史论战引热议</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%8C%85%E4%BA%8E%E8%BD%BC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%8C%85%E4%BA%8E%E8%BD%BC.jpg" alt="茅于轼" width="600" height="531"></a></p>
+<p><strong>中国二战抗日战争胜利70周年纪念活动尾声之际，知名经济学家茅于轼在微博上发帖质疑中共对抗战的领导地位，引起网民热议。</strong></p>
+<p>86岁的茅于轼连发三条微博谈论其对抗战纪念与阅兵的看法，当中批评了年轻人不了解历史，至今合共吸引超过1.5万人次转发，网民留言1.8万条。</p>
+<p>茅于轼强调，收回东三省等是国民政府军事委员会委员长蒋介石的功劳，他接受BBC中文网采访时还强调，中共领导人毛泽东自己的文选即能证明中共只在抗战初期主力抗日。</p>
+<p>就在纪念活动结束之际，中共中央思想理论刊物《求是》旗下的《红旗文稿》半月刊星期三（9月9日）发表文章，再次重申中共是抗战“中流砥柱”之论述。</p>
+<p>这篇由中共中央组织部原部长张全景署名的讲话整理稿题为〈毛泽东是抗战胜利的伟大领袖〉。文章说，“毛泽东最早提出抗击日本侵略者，并促成全民族抗战局面的形成”。</p>
+<p>文章说：“历史就是历史。无数英烈用鲜血写就的历史雄辩地证明：正是因为有了毛泽东，中国共产党才能成为抗日战争的中流砥柱；正是因为有了毛泽东确立的正确的思想、政治、军事路线，才有了巩固的抗日民族统一战线，才使得抗战取得胜利。正因如此，我们可以理直气壮地说，毛泽东是领导中国人民取得抗战胜利的伟大领袖！”</p>
+<p><strong>蒋介石“消灭国耻”</strong></p>
+<p>茅于轼星期二（8日）发出的其中一条微博说：“收回东三省和台湾，收回外国人在中国的租界，成为联合国的发起国和安理会的常任理事国，消灭百年国耻，是蒋介石做的，是中国人民艰苦抗战八年的成果。”</p>
+<p>“不过‘中国人民站起来了’确实是毛泽东在天安门城楼上宣布的。这是两回事，不要混为一谈。现在的青年人太不了解历史了。”</p>
+<p>这条微博引来了最多网民评论，至星期三下午已超过1.5万笔留言。当中有不少人质疑茅于轼的言论。</p>
+<p>茅于轼星期三对BBC中文网记者说，这是要回应另一名网友对其言论的评语。该名网友称，哪怕蒋介石的力量没有收回东三省与台湾，共产党“早晚会收回”。</p>
+<p>山东德州的“小狮子飞屋环游”对茅于轼的微博评论说：“指出茅于轼这个论断的两点错误。（1）东三省和台湾的收回跟蒋介石关系不大，是苏俄和美国的作用。但东三省却是蒋介石不抵抗命令下沦陷的。（2）‘中国人民站起来’的意思不是指国土全部收回，而是指摆脱了半殖民地半封建社会的命运。在蒋介石时代中国仍然只是美国的附庸而已。”</p>
+<p>宁夏银川的“清清荷花香”指责说，“茅于轼们希望复辟”；云南的“初时模样”质疑说：“最近几年洗白蒋的公知越来越多，但说回来蒋和毛都有公都有过，毛让中国倒退发展，蒋让中国丢失土地，你认为哪个的错更大点呢？”</p>
+<p><strong>茅于轼采访录音</strong></p>
+<p>茅于轼向BBC中文网记者回应说，蒋介石与美国“有好多意见不一致的”，而且“蒋介石丢失土地不错，但是他坚持了抗战”。</p>
+<p>“而毛泽东在抗战中间贡献很少。他自己说过嘛：一分抗战，两分应付，七分要扩大它（中共）的势力范围。就他自己说的。而且他还感谢日本人打了二次大战，要不然共产党没有机会打败国民党的。”</p>
+<p>茅于轼说，共产党并未深入参与抗战，是《毛泽东选集》能证明的事情。</p>
+<p>“《毛选》的第一、第二卷里头，在1939年以前是讲抗战的，39年以后就不讲抗战了。都是讲怎么扩大根据地。这个是从《毛泽东选集》里头可以得到证明。”</p>
+<p><strong>阅兵矛盾</strong></p>
+<p>中国在9月3日举行了大规模阅兵纪念抗战胜利，茅于轼也对此提出了批评。</p>
+<p>茅于轼星期二发表的微博说：“纪念二战结束，但愿世界各国的政治家发誓永远不再打仗，保卫和平，反对一切迈向战争的行动，包括阅兵、征兵、军事演习、武器买卖。各国百姓更应认清保卫和平的重要性，不要再次上战争贩子的当。”</p>
+<p>“头号强国美国应该带头削减军备，其他各国应该积极响应，将军费用于民生，以此造福人类。”</p>
+<p>他对BBC中文网说：“作为一个老百姓，我们要的是和平，不管是胜利还是失败。”</p>
+<p>“所以我主张纪念二战结束，世界上所有的政治家都要发誓永远不打仗，而且要抵制一切与和平相反的活动，包括阅兵，包括军事演习，包括武器扩展、武器展销。”</p>
+<p>网民留言中除了批评茅于轼之外，也有一些是支持其观点。</p>
+<p>辽宁鞍山网民“徐硕sss”说：“不是青年人不了解历史，是因为青年人不能了解到真正的历史。”</p>
+<p>湖南长沙的“夏天吹暖气”说：“被洗脑的人，总是不愿接受真相，甚至发现真相事实的勇气，都不敢有……奴才当久了吧……”</p>
+<p>浙江杭州的“江浩_Rocky”说：“不了解真相其实并不可怕。可怕的是还在不断篡改历史，继续掩盖真相；面对不同声音，反对者不是有理有据的反驳，而是咄咄逼人简单粗暴的咒骂！”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%8C%85%E4%BA%8E%E8%BD%BC%E5%8A%A0%E5%85%A5%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E8%AE%BA%E6%88%98%E5%BC%95%E7%83%AD%E8%AE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗战历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%85%E4%BA%8E%E8%BD%BC/?category=18271" rel="tag">茅于轼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%95%91%E7%81%BE%E6%8A%A5%E9%81%93%E6%A0%87%E5%87%86%E6%B5%81%E7%A8%8B%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B%EF%BC%9A%E5%8F%B0%E9%A3%8E/" target="cdt-mirror">【立此存照】救灾报道标准流程操作实例：台风“苏迪罗”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%B8%A9%E5%B7%9E%E5%AE%A3%E4%BC%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%B8%A9%E5%B7%9E%E5%AE%A3%E4%BC%A0.png" alt="温州宣传" width="550" height=""></a><br><em>（网页截图）</em></p>
+<blockquote><p>背景新闻：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E6%96%B0%E7%BD%91%EF%BD%9C%E5%8F%B0%E9%A3%8E%E8%8B%8F%E8%BF%AA%E7%BD%97%E8%87%B4%E6%B5%99%E6%B1%9F14%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E7%99%BE%E4%B8%87%E4%BA%BA%E5%8F%97/">中新网｜台风“苏迪罗”致浙江14人死亡 百万人受灾</a></p></blockquote>
+<p><strong>以下内容来自<a href="http://www.wzxc.gov.cn/system/2015/09/01/012118586.shtml">温州市委宣传部网站</a></strong>：</p>
+<h2><span><strong>乐清市众志成城打好抢险救灾宣传战</strong></span></h2>
+<p> <br>
+受今年13号台风“苏迪罗”影响，乐清市北部山区雨量较大，部分地区出现山体滑坡和泥石流等险情，全市农作物被淹较为严重，给全市人民带来了巨大的经济损失。乐清市宣传系统主动出击，大力营造广大干部群众抢险救灾的良好舆论氛围，全力打好抗台救灾宣传战。</p>
+<p>一、全面开展新闻报道，<span><strong>展现众志成城的抗台决心</strong></span>。<span><strong>充分发挥新闻舆论引导作用</strong></span>，<span><strong>及时报道市领导</strong></span>对大荆、仙溪、芙蓉等地质灾害点进行的<span><strong>灾后救灾部署工作</strong></span>，<span><strong>不断传递党委政府的关心和帮助</strong></span>。针对台风过境所带来的强风暴雨给该市农业、交通等造成的影响，组织新闻工作者深入田间地头、电力抢修、江堤道路抢险等抗台一线，<span><strong>抓取细节和镜头，全面展现干群一心、众志成城的动人场景</strong></span>。该市媒体主动对接相关部门，通过乐清电视台、RM99.5等对救灾进展情况进行滚动报道，让群众能及时了解项目进展情况。</p>
+<p>二、突出报道抢险救灾，<span><strong>营造灾后重建良好氛围</strong></span>。<span><strong>积极组织全市媒体记者开展灾后重建鲜活事例发掘工作</strong></span>，推出了“大荆石门潭4人获救”等<span><strong>抢险救灾工作的典型人物事迹</strong></span>。同时，报道采取报、网、APP、微博、微信公共号集群传播、推送等方式进行。面对台风造成的巨大破坏，乐成、大荆等镇(街)及时组织党员突击队、服务队，会同有关部门积极做好安置受灾群众、帮扶困难群众、开展生产自救等工作。目前，城北社区松罗村危房倒塌、大荆葡萄被毁等事件在当地党员先锋的共同努力下，都开展了生产、生活自救。</p>
+<p>三、重点加强新媒体宣传，<span><strong>切实做好网上舆论引导</strong></span>。以“乐清发布”微信公众平台为信息发布主体，联合17个镇(街)以及属地重点社会组织微信公众号，形成<span><strong>行为规范、口径统一的抗台救灾信息发布联盟</strong></span>。如乐清发布、中国乐清网<strong><span>推送典型人物、事件等</span></strong>被分享到微信30多次，评论跟帖5万条，总点赞数1万多个，<span><strong>充分展示了网络上的正能量</strong></span>。针对市民反映的灾后用电、交通等安全问题，@乐清交警支队、@乐清交通运输等相关部门政务微博密切互动，及时回应网友反馈 的相关信息，为市民了解最新情况，顺畅出行、确保安全提供参考。<span><strong>建立24小时舆情监测机制，及时疏导灾后可能出现的不良情绪或负面信息，在引导正确舆论方面起到积极作用</strong></span>。</p>
+<p>〔乐清市委宣传部供稿〕</p>
+<h2><span><strong>文成县全力做好抢险救灾宣传工作</strong></span></h2>
+<p> <br>
+文成县积极组织县属新闻媒体做好抢险救灾相关宣传工作，并加强舆论引导，多方举措，全力打好抢险救灾“<strong>宣传战</strong>”。</p>
+<p>一、多方合力，全面宣传。一是加强新闻宣传。在文成新闻综合频道全天实时播报“抗击‘苏迪罗’特别报道”，在文成新闻网开设“文成抢险救灾在行动”专题。通过采访报道、视频图片、观点评论等各种形式，第一时间报道抢险救灾工作动态新闻，<span><strong>实时刊播各级领导赶赴现场指挥防汛抗台救灾</strong>，<strong>刊播交通、电力、通信、消防、各乡镇齐心协力开展防汛抗台的动态新闻，营造全县上下齐心抗灾的浓厚氛围</strong></span>。二是<span><strong>宣传最美事迹</strong></span>。深入一线，<span><strong>宣传报道全县党员干部冲在抢险救灾第一线的生动事迹，宣传报道广大干部群众众志成城、团结互助、防汛救灾的生动场面</strong></span>，刊播了《从湍急的洪水中他们救出了14个人》《村干部刚拽出村民房屋就倒塌了》等新闻。</p>
+<p>二、多网联动，<span><strong>强化引导</strong></span>。一是发挥新媒体优势做好报道。在@文成发布推出“文成抗台在行动”专题，集中宣传，第一时间发布转载防汛救灾有关新闻报道，实时发布权威气象信息、预警灾害信息等，及时报道气象、水利等部门抗台防汛救灾抢险的最新动态，并提醒广大市民注意水灾和内涝影响，切实做好安全防范工作。在“文成发布”、各大乡镇政务微信公众平台推出抢险救灾专题报道以及抗台在行动系列报道。二是发挥主阵地优势加强引导。<span><strong>加强网络值守，全面收集防汛救灾舆情信息，认真研判网络舆情，澄清不实言论，发布权威信息。已编发信息《网传文成珊溪山洪暴发致好多老人死亡，是谣言！》进行辟谣，确保网上舆论成 为推动防汛救灾的“正能量”</strong>。</span></p>
+<p>三、多措并举，保障民生。一是重视防汛救灾抢险安全提示的宣传。通过电视新闻画面、电视滚动字幕、广播电台、农村广播、大型LED显示屏、银行网点等多个 宣传阵地，滚动播发提醒公众注意事项，加强行车、饮水、用电、防疫、食品、危房等各类安全信息的宣传和提醒，进一步加强社会公众防汛防台和生产自救知识的宣传。二是重视搭建桥梁帮助群众保障民生。立即开展“一线党旗抗台抢险”活动，组织抢修交通、电力等设施，重点做好灾民安置，<span><strong>稳定情绪</strong></span>。各级党组织和全体党员干部发动群众，有力有序组织好灾区一线群众积极开展自救、互救、互助活动，特别是帮助老弱病残人员共渡难关，尽最大努力把灾区人民群众生命财产损失降到最低程度。</p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/">真理部指令</a>系列</li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E8%88%B9%E9%9A%BE%E5%AE%A3%E4%BC%A0%E5%8F%A3%E5%BE%84%E7%AD%89/">【真理部】“东方之星”船难，昂山素季访华和《穹顶之下》</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2010/11/%E5%85%9A%E5%9B%BD%E5%BA%94%E5%AF%B9%E7%81%BE%E9%9A%BE%E7%9A%84%E6%A0%87%E5%87%86%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B-%E4%BB%A5%E4%B8%8A%E6%B5%B7%E5%A4%A7%E7%81%AB%E4%B8%BA%E4%BE%8B/">党国应对灾难的标准操作流程——以上海大火为例</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2010/04/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E9%9A%BE%E6%96%B0%E9%97%BB%E4%B8%87%E8%83%BD%E6%A8%A1%E6%9D%BF/">中国矿难新闻万能模板</a></li>
+</ul></blockquote>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%95%91%E7%81%BE%E6%8A%A5%E9%81%93%E6%A0%87%E5%87%86%E6%B5%81%E7%A8%8B%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B%EF%BC%9A%E5%8F%B0%E9%A3%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">事故通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B8%8D%E6%AD%BB%E7%9A%84%E6%AF%9B/" target="cdt-mirror">巴丢草 | 不死的毛</a>
+</h2>
+<p><p>@badiucao：今天是独裁者毛泽东的死日，这本该是中国的节日。然而，如科幻小说《弗兰肯斯坦》，天朝总有人收集这腊肉的尸块，以图借尸还魂。对于强人崇拜魔咒，正在一声声肉麻的习大大和阅兵的铁蹄中蒸腾。#腊肉</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/COdAYe6VAAAIud7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/COdAYe6VAAAIud7.jpg" alt="COdAYe6VAAAIud7" width="600" height="865"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B8%8D%E6%AD%BB%E7%9A%84%E6%AF%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%8A%E8%82%89/?category=18271" rel="tag">腊肉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B1%B1%E4%B8%9C%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%EF%BC%8C%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%89%B9%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E6%8E%AA-2/" target="cdt-mirror">纽约时报 | 山东化工厂爆炸，新华社批地方政府措辞“冷血”</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/07sino-blast01-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/07sino-blast01-articleLarge.jpg" alt="07sino-blast01-articleLarge" width="575" height=""></a></p>
@@ -903,98 +986,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%91%A8%E5%88%8A-%E8%BF%9F%E5%AE%87%E5%AE%99%EF%BC%9A%E6%88%91%E5%B0%8A%E6%95%AC%E9%82%A3%E4%BA%9B%E5%8F%91%E5%91%86%E7%9A%84%E4%BA%BA/" target="cdt-mirror">新周刊 | 迟宇宙：我尊敬那些发呆的人</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/wenyi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/wenyi.jpg" alt="图/Jasper James" width="515" height="344"></a><p>图/Jasper James</p></div>
-<p><strong>我尊敬那些发呆的人，他们拥有生活的意境，他们可以看到风的形状、听到蚂蚁的足音、感受到草的生长、拥有花朵绽放的秘密。即使以“成功”作为标准，“文艺青年”也不比他们的同类更不堪。</strong></p>
-<p><strong>文/迟宇宙（作家、果仁App出品人）</strong></p>
-<p>我有一个忘年交，我叫她杜老师。杜老师年轻时是个“文艺青年”，如今年纪大了，变成了“文艺中年”。</p>
-<p>因为我理了光头，杜老师就喊我“一休”。她说：“一休，我最喜欢辛弃疾了，你什么时候写写辛弃疾吧。”她还说：“一休，你帮我看看，这篇散文写得怎么样？”</p>
-<p>杜老师从容不迫地走过了自己的半生，丰富、饱满、精彩，虽然甘苦自知，却并未因“文艺”而变成不切实际的疯婆子，反而因之未成为那种变老的坏人或变坏的老人。</p>
-<p>她的内心里有纯净、浪漫、柔软，有一片小小的栖息地。无论多老，她都不会变坏，因为她无法成为那种坏人。</p>
-<p>我跟杜老师一样，也“文艺”。在“文艺”变成一个骂人词汇之前，我就是一个“文艺青年”了。确切地说，我是“文艺青年”中细分出的“文学青年”。我花掉我的整个大学时代，读书、写诗、做美和浪漫的梦，憧憬残酷的人的世界，设想一种并不存在的未来。</p>
-<p>美梦终究是要碎裂的，未来也并不值得设想和憧憬。残酷的世界，信仰财神比信仰上帝的人更能获得尊敬；权力是比智慧更有效的通行证。</p>
-<p>世道就是如此。</p>
-<p>世道越是如此，内心就越需要一道微光。</p>
-<p>不是吗？</p>
-<p>也许一篇文章就会使你安宁，一首歌就会使你感动。朗诵一首诗、啜饮一杯咖啡、对着花语、夜半听雨打梧桐……</p>
-<p>这样的细节，有什么不好呢？</p>
-<p>只有“文艺”的人才会因之感动，因为它们太值得去感动了。“文艺”不是病，更不是癌。文艺是一种生活方式。</p>
-<p>多年来我已形成一种习惯，外出的时候背包里放一本书。背得最多的，是博尔赫斯、奈保尔、安妮·普鲁。更年轻的时候，我也背过胡安·鲁尔福、马尔克斯、艾略特、里尔克。我的背包里也会放一个简易的咖啡滤杯和一小包咖啡粉，以确保自己可以随时喝上85℃的手冲咖啡。我也会带几支笔和一个牛皮封面的本子，用来记录零散的诗句……</p>
-<p>我确切地拥有一个“文艺青年”的标准配置，是“文艺癌”的晚期患者。</p>
-<p>我从来没觉得有什么不妥。我觉得把碎片时间用来阅读最好的书，享受生活片刻的静谧，在审美中完成一次精神的旅途，是最美好的事。还有比这更美好的事吗？</p>
-<p>多年来我没有因为“文艺”伤害过谁。我只记得大学刚毕业的时候，因为在单位宿舍里朗诵一首诗，而被人形容为“不合群”。除此之外，我一直生活在被包容和关爱当中。我身边的人觉得，如果一个人有纯净的内心、有一丝赤子情怀，应当被小心呵护。他们是这么对我的，我也这么对别人。</p>
-<p>或许我过于幸福，生活在一个拥有自由空气的小环境里。但我相信，一个有“文艺范儿”的人，在其周遭，包裹着的大都是友善与宽厚，视之为“癌”的，若非处于嫉妒，就是自惭形秽。</p>
-<p>一个不“文艺”的人是无法理解“文艺”的。“文艺”是一种生活态度，它意味着你不与世俗生活苟且，保留着内心的锡安，努力避免心尖儿上沾惹了尘垢。它还意味着你拥有独特的审美能力，能够觉察到生命中美和有价值的细节。</p>
-<p>我一直相信，生活中最值得珍贵的东西，是意境。生活本身是需要意境的，跟诗歌一样。我尊敬那些发呆的人，因为他们可以看到风的形状、听到蚂蚁的足音、感受到草的生长、拥有花朵绽放的秘密。他们拥有生活的意境，即或并不掌握足够的财富和权力，他们也活得自由、丰富、饱满。在通往幸福的道路上，显然他们比那些画地为牢者、提心吊胆者、行尸走肉者，走得更远、更快。</p>
-<p>我们生活在一个多元的时代，财富、权力已经不再是通行的“幸福准则”，恬淡的生活、闲适的自由，对于很多人来说，比财富与权力重要得多。</p>
-<p>罗素说：“成功只能成为造成幸福的一分子，倘使牺牲了一切其余的分子而去赢取这一分子，代价就太高了。”“文艺”就是把生命放在不功利的目的上，不以“成功”为终极目标，不限于人、不限于物、不限于事，享受心灵的自由从容。这比成就丰功伟业更有意义。</p>
-<p>“把更多生命注入没有边界的时间”。做更多无用的事、更多无用功，我们将会形成丰富的自我，拥有完整的人格，享受内心的自由，距我们所期待成为的那种人会越来越近。</p>
-<p>即使以“成功”作为标准，“文艺青年”也不比他们的同类更不堪。他们大都有正常的工作，有着常规的社会属性和标签。他们不过是把别人觥筹交错的时间，用来阅读、写作、手工、旅行、冥想。他们只是收获了更多的自我，并未因之而成为社会的反动力量。他们只是“不合时宜”、“不合群”、没有成为“你们”而已。他们中的一部分，成为了菲茨杰拉德、乔布斯、鲍勃·迪伦、塔伦蒂诺，也有一部分成为街头艺术家和行为艺术家，跟“你们”一样。</p>
-<p>在中国历史上，曾经有几个文艺青年，他们叫庄周、范蠡、张良、司马迁、孔融、嵇康、葛洪、崔颢、李白、杜甫、韦应物、苏轼、柳永、辛弃疾、李清照、元好问、王阳明、徐霞客、纳兰性德……</p>
-<p>倘使历史中没了他们，只剩下“鸟生鱼汤”和“十八摸”，该是多么无趣的一段黑暗漫长啊。</p>
-<p>一个容不下“文艺青年”的时代是可耻的；将“文艺青年”作为一个侮辱性的词汇，只能展示一个人人格中的卑污、行为的下作。一个没有生命态度、没有生活意境的群体嘲讽“文艺青年”、“文艺癌”，恰如圈中猪嘲笑野狗的自由、笼中鸟嫉妒苍鹰的飞翔。</p>
-<p>没几个人知道陈子昂做过什么官，但人们都记得“念天地之悠悠”。</p>
-<p>“文艺”，就这么点儿价值。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%91%A8%E5%88%8A-%E8%BF%9F%E5%AE%87%E5%AE%99%EF%BC%9A%E6%88%91%E5%B0%8A%E6%95%AC%E9%82%A3%E4%BA%9B%E5%8F%91%E5%91%86%E7%9A%84%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9F%E5%88%A9/?category=18271" rel="tag">功利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%81%B5/?category=18271" rel="tag">心灵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%81%E5%BA%A6/?category=18271" rel="tag">态度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E6%80%80/?category=18271" rel="tag">情怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA/?category=18271" rel="tag">文艺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%91%A8%E5%88%8A/?category=18271" rel="tag">新周刊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%BA%E8%89%BA%E6%9C%AF/?category=18271" rel="tag">行为艺术</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97%E6%AD%8C/?category=18271" rel="tag">诗歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">青年</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E7%8E%AF%E4%BF%9D%E9%83%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A9%BA%E6%B0%94%E6%B8%85%E6%B4%81%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%8F%AF%E5%A4%AA%E7%90%86%E6%83%B3%E5%8C%96/" target="cdt-mirror">BBC | 环保部：中国空气清洁立法不可太理想化</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150820021521_cn_china_energy_power_plant_976x549_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150820021521_cn_china_energy_power_plant_976x549_afp_nocredit.jpg" alt="中国环保部副部长潘岳说，饭要一口一口吃，路要一步一步走。" width="550" height="309"></a><p>中国环保部副部长潘岳说，饭要一口一口吃，路要一步一步走。</p></div>
-<p><strong>中国官媒新华社援引中国环保部副部长潘岳称，从长远的角度看，制定中国特色的“清洁空气法”是未来的发展方向。他还说：“但饭要一口一口吃，路要一步一步走。在现阶段立法还要考虑实际需要和现实可操作性，不能过于理想化。”</strong></p>
-<p>8月下旬，中国全国人大常委会审议通过了新修订的大气污染防治法。针对新大气法修订过程中一些专家学者关于在中国制定“清洁空气法”的讨论，潘岳提出了以上观点。</p>
-<p>谈到具体改进大气环境质量的措施，潘岳认为，一是既要抓重点污染物，也要抓其他污染物。</p>
-<p>二是既要抓区域总量减排，更要抓点源排放达标。目前企业排放超标相当普遍，强化企业排放必须达标是基本要求，假如企业排放达标而区域环境质量仍然超标，那就应当实行总量控制。</p>
-<p>三是既要抓固定源，也要抓非固定源。除了控制工业企业等固定源外，对于机动车船等流动源和农业面源也要严格控制其污染物减排。</p>
-<p><strong>网民：中国特色？</strong></p>
-<p>在中国的社交网站微博上，微博用户们似乎抓住了新华社报道中的关键词“中国特色”。</p>
-<p>一位微博网友评论道：“哦，这次不跟国际接轨了。想接轨就接轨，想有特色就有特色。这词（中国特色）真好。万用法宝。”</p>
-<p>另一位网友评论说：“停产限行封炉灶呗，太中国特色了，全世界哪个国家能做到？”</p>
-<p>另一位则批评到：“滥用‘中国特色’到了无耻无畏的地步，就像人被炸成碎片‘死者家属情绪稳定’一样！”</p>
-<p>还有网友调侃称：“以后呼吸清洁空气也要交税了！”</p>
-<p>当然也有对此事报以乐观态度的网友希望“一切都会好吧。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E7%8E%AF%E4%BF%9D%E9%83%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A9%BA%E6%B0%94%E6%B8%85%E6%B4%81%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%8F%AF%E5%A4%AA%E7%90%86%E6%83%B3%E5%8C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%8F%E6%8E%92/?category=18271" rel="tag">减排</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BC%E5%90%B8/?category=18271" rel="tag">呼吸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">大气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">环保立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E5%8C%96/?category=18271" rel="tag">理想化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B8%85%E6%B4%81/?category=18271" rel="tag">空气清洁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BC%BA%E4%BA%BA%E6%A2%A6/" target="cdt-mirror">端传媒 | 吴强：中国阅兵背后的政治强人梦</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3f344809afa34609b29e10cd557806cb.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3f344809afa34609b29e10cd557806cb.jpg" alt="习近平联同多国领袖阅兵。摄:Wang Zhao - Pool /GETTY" width="600" height="400"></a><p>习近平联同多国领袖阅兵。摄:Wang Zhao – Pool /GETTY</p></div>
-<blockquote><p>在今天，个人权威和个人神化的背后，是举国安全体制和过时的民族主义，它们正在装甲洪流中重新导向一个领袖、一个政党、一个民族的中国梦。</p></blockquote>
-<p>个人效忠成为此次阅兵的主要任务。这是习近平对他执政三年来的一次大检阅，也是未来权力巩固的一大阶梯。如此情形，像极了1979年邓小平发动对越战争的政治需要。</p>
-<p>纷扰数月、耗资无数的抗战胜利阅兵终于结束。北京的街面虽然解除了戒严，旅游者和市民仍然稀袅得很，完全没有平常的热闹。但是，阅兵以及相关民族主义话题却在大陆微信圈激起前所未有的分裂，一场撕裂社会关系的战争从军队踏上长安街那一刻就仿佛开始了。</p>
-<p>而阅兵过后，一场声势浩大、准备良久的武装游行，却只有寥寥数位国家元首观礼、国际反应冷漠，不能不问，为什么要阅兵？抗战胜利70年后，是否有必要以阅兵的方式凝聚民族，抑或只是黩武恫吓周边？还只是政治强人为了一己私欲，为登天安门而凌天下？</p>
-<p>早在三年前习近平初成主席，我已对诸多外媒谈到，种种迹象表明一个新的超级政治强人正在诞生，也在深刻改造着中国的政治格局乃至世界的政治秩序。这或许才是今天我们思考为什么中国要阅兵的基础。</p>
-<p>这一位政治强人，还未上台时，就以国家副主席之身，亲自抓了三件事：第一，足球打黑。从此开始介入公安，掌握公安力量，既是上台后反腐运动的热身，也是后来从小学推广足球、改革从足协开始——个人爱好深刻潜入政治改革的重要指标。第二件事，负责2008奥运会总指挥，第一次提出“护城河”安保概念，这是今天京津冀一体化的滥觞，也是为保证阅兵无限扩大“护城河”到七省一市乃至全国的雏形。第三件事，访美与美国副总统拜登会面，创下中美间即兴外交的模式，这种随意风格至今仍常常插入在日常的讲话中，甚至严肃的战略举措中如不经意间提出“一路一带”，以及为回应国际压力而主动废止劳教制度等等，当然其深远意义仍待继续观察。</p>
-<p>更重要的，执政三年来，习近平多管齐下，集权一身，超出了1976年以后各任领袖，等于一场进行中的“柔性政变”，事实上颠覆了毛身后的政治局常委负责的集体领导制。</p>
-<p>首先，上台伊始，习以建立各种领导小组的方式、亲任各小组组长，小组总数超过18个，横跨政经、政法、安全、网络、意识形态各领域，以这种非正式制度的方式取代了传统的政治局常委分工各管一片的寡头模式。一般认为，这种集体领导的寡头制也是过去二十年中国政坛利益集团形成并集中的主要机制。</p>
-<p>而随后开展的反腐运动，重点便在对这一旧利益集团－政治寡头格局的打击。毕竟，集体领导制下的分权，往往让最高领袖难以掌握实权，政令难出中南海。<br>
-其三，才是制度化的建设，成立国安委，修订《国安法》，真正将各方情报、安全力量甚至意识形态部门的协调都纳入到该委员会中，也就是向最高元首负责，甚至可说是49年来最可观的一次安全力量整合，不仅意味着元首制实权化、政党个人化的关键一步，也意味着大安全体制的开始，和同时胡温时代疲于应付的维稳体制的终结。</p>
-<p>在这个基础上，才能理解一个新极权政治的形成，它非常依赖重建一个小规模的红色精英集团，以期控制旧有的、庞大的、腐败的、且政治效忠可疑的官僚集团；也才能理解一个已经以“三个代表”和去政治化的市场经济抛弃意识形态的官僚政权如何飞速地转向传统儒家，寻求意识形态支持，并且重建毛前三十年和邓后三十年的理论联系——如9月开学前，中央党校重立的两尊毛像和邓像以及马恩像。</p>
-<p>只有极权主义才高度重视意识形态，而非过去20年的市场－威权时代。而新常态下的意识形态可以全无新意，甚至不求甚解，习在9月3诶阅兵式上的讲话也充满了陈旧的战后国际秩序观和强烈的民族主义，只要周小平之流为其鼓吹即可，全然只有一个目的：正如阅兵副总指挥王健8月31日在《人民日报》的解释一样，就是为了体现全军对习总的忠诚。</p>
-<p>也就是说，个人效忠成为此次阅兵的主要任务。这是习近平对他执政三年来的一次大检阅，也是未来权力巩固的一大阶梯。如此情形，像极了1979年邓小平发动对越战争的政治需要。17天的战争巩固了邓对军队的掌握、对政局的掌握。对习来说，几乎利用了从钓鱼岛到南海等一切战争题材。可是今非昔比，在美“再平衡”战略重压下，在俄乌危机后遭受国际制裁背景下，战端难以轻启。于是以阅兵代替战争就成为成本较低、风险较低的效忠总动员。这次动员，在执政三年之际急忙推出，循前述个人集权化趋势来看，便容易得出阅兵实为加速新极权政治、奠定元首制效忠基础的一次隆重表演。</p>
-<p>为此，习近平的“护城河”安保工程不惜延伸到对公民社会的全民清剿，实行全面的内部筑垒化，推行严格的网格化社会控制，试图消灭一切可能引发类似茉莉花革命颠覆效应的公民社会萌芽。在去年先后消除了传知行、益仁平等北京知名独立NGO之后，今年以来，继“三八”妇女节前夕抓捕女权行动分子，又从5月起在全国抓捕、刑拘、监居了近300名人权律师和人权活动分子，并开展持续的“清网行动”，打击所谓网络谣言和翻墙代理软件，试图牢牢控制一切潜在的不安全力量。尤其是这些身陷囹圄的人权律师和人权活动分子，成了阅兵式前的祭品。</p>
-<p>不仅如此，极权甚至波及股市和环境，当局抓捕所谓“恶意做空”机构和新闻记者，清理数十万北京外来人口，关停北京城区农贸市场、服装市场，还为驱赶雾霾关停北京周边七省市的工矿企业、建筑工地、餐馆、街头烧烤、食摊、乃至农家柴火灶。更甚者，在阅兵前夕，北京阅兵沿线办公场所、居民小区更被严格检查、限制出入，公司机关停业、WI-FI手机信号也被覆盖。</p>
-<p>如此种种登峰造极的安全措施，与习近平上任伊始的“轻装简行”形成巨大反差，犹如阅兵的巨大投入与国际社会、或者哪怕国内人民的冷漠反应之间的强烈反差，也如阅兵结束第二天北京重新而至的雾霾与阅兵蓝的鲜明对比。连城楼上那些观礼的外国元首和党内长老们也各怀心事。天安门上与他并列阅兵的普京，或许是最为熟悉这一切场景、了解习个人梦想的人，用半天站台换来下午在大会堂的大笔经济协议，这或许是国际社会最为积极的反应了。</p>
-<p>毕竟，对天安门，人们有着各种各样对记忆。对习来说，在天安门城楼上阅兵，无论是习近平的一个长久梦想，还是为凝聚效忠而进行的武装宣示，也许都源自毛泽东几次接见红卫兵的盛大场面和记忆。那是一个神化的时代。在今天，个人权威和个人神化的背后，是举国安全体制和过时的民族主义，它们正在装甲洪流中重新导向一个领袖、一个政党、一个民族的中国梦。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BC%BA%E4%BA%BA%E6%A2%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">领导小组</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1006,7 +997,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d29wlidzsw9r6w.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1deat5ajsbr8j.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1016,5 +1007,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d3awi5iwpz9nq4.cloudfront.net">https://d3awi5iwpz9nq4.cloudfront.net</a><br/><a href="https://d1deat5ajsbr8j.cloudfront.net">https://d1deat5ajsbr8j.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1deat5ajsbr8j.cloudfront.net">https://d1deat5ajsbr8j.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d3awi5iwpz9nq4.cloudfront.net">https://d3awi5iwpz9nq4.cloudfront.net</a><br/></td>    </tr>
 </table>

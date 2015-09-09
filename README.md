@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2378une6gz7jd.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d18stcdued5fi6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2378une6gz7jd.cloudfront.net">https://d2378une6gz7jd.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d1oaecm1jmpcx2.cloudfront.net">https://d1oaecm1jmpcx2.cloudfront.net</a><br/><a href="https://d29yjvecmqfstd.cloudfront.net">https://d29yjvecmqfstd.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d29yjvecmqfstd.cloudfront.net">https://d29yjvecmqfstd.cloudfront.net</a><br/><a href="https://d2378une6gz7jd.cloudfront.net">https://d2378une6gz7jd.cloudfront.net</a><br/><a href="https://d1oaecm1jmpcx2.cloudfront.net">https://d1oaecm1jmpcx2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E5%85%AD%E4%B8%AA%E5%A4%A7%E6%8B%9B%EF%BC%8C%E7%BB%88%E4%BA%8E%E8%AE%A9%E5%8D%97%E6%96%B9%E7%B3%BB%E8%B5%B0%E4%B8%8A/" target="cdt-mirror">呦呦鹿鸣｜达文西：六个大招，终于让南方系走上正道</a>
@@ -1042,5 +1042,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
                 <td></td>
                 
         
-        <td><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d1oaecm1jmpcx2.cloudfront.net">https://d1oaecm1jmpcx2.cloudfront.net</a><br/><a href="https://d29yjvecmqfstd.cloudfront.net">https://d29yjvecmqfstd.cloudfront.net</a><br/><a href="https://d2378une6gz7jd.cloudfront.net">https://d2378une6gz7jd.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d29yjvecmqfstd.cloudfront.net">https://d29yjvecmqfstd.cloudfront.net</a><br/><a href="https://d2378une6gz7jd.cloudfront.net">https://d2378une6gz7jd.cloudfront.net</a><br/><a href="https://d1oaecm1jmpcx2.cloudfront.net">https://d1oaecm1jmpcx2.cloudfront.net</a><br/></td>    </tr>
 </table>

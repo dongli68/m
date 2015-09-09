@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/" target="cdt-mirror">【CDTV】中国的秘密：惊人的贫富差距</a>
+</h2>
+<p><p>@阿尔法字幕组：【BBC中国的秘密第三集：惊人的贫富差距】钱就是软实力，壕不壕都在拼爹。爹不给力的，都沉默地任劳任怨。亲爹给力的，抱上大腿，就在灯红酒绿中挥金如土。吃够生猛海鲜也好，吃腻包子馒头也罢。这就是一个钱决定命运的国度。</p>
+
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwaws9ok7j30zk0k0jui/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwaws9ok7j30zk0k0jui-150x150.jpg" alt="005Qmyiojw1evwaws9ok7j30zk0k0jui"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwawtz9l3j30zk0k0adp/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwawtz9l3j30zk0k0adp-150x150.jpg" alt="005Qmyiojw1evwawtz9l3j30zk0k0adp"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwawwg78oj30zk0k0q7y/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwawwg78oj30zk0k0q7y-150x150.jpg" alt="005Qmyiojw1evwawwg78oj30zk0k0q7y"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwawz3ioej30zk0k0af4/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwawz3ioej30zk0k0af4-150x150.jpg" alt="005Qmyiojw1evwawz3ioej30zk0k0af4"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwax5d763j30zk0k041m/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwax5d763j30zk0k041m-150x150.jpg" alt="005Qmyiojw1evwax5d763j30zk0k041m"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwax98vrbj30zk0k0n38/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwax98vrbj30zk0k0n38-150x150.jpg" alt="005Qmyiojw1evwax98vrbj30zk0k0n38"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwaxcvdy9j30zk0k0wiy/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwaxcvdy9j30zk0k0wiy-150x150.jpg" alt="005Qmyiojw1evwaxcvdy9j30zk0k0wiy"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwaxetxp6j30zk0k0djb/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwaxetxp6j30zk0k0djb-150x150.jpg" alt="005Qmyiojw1evwaxetxp6j30zk0k0djb"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwaxnexfbj30zk0k0tcs/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwaxnexfbj30zk0k0tcs-150x150.jpg" alt="005Qmyiojw1evwaxnexfbj30zk0k0tcs"></a>
+
+<p>下载<a href="http://pan.baidu.com/s/1eQwbFH4?qq-pf-to=pcqq.discussion" target="_blank">地址</a></p>
+<p>在线播放<a href="http://qianmo.com/howww/296" target="_blank">地址</a></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">中国式婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86/?category=18271" rel="tag">中国的秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6/?category=18271" rel="tag">买房买车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%A9%E5%A5%B3/?category=18271" rel="tag">剩女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E4%BA%B2/?category=18271" rel="tag">相亲</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%8C%85%E4%BA%8E%E8%BD%BC%E5%8A%A0%E5%85%A5%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E8%AE%BA%E6%88%98%E5%BC%95%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 中国学者茅于轼加入抗战历史论战引热议</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%8C%85%E4%BA%8E%E8%BD%BC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%8C%85%E4%BA%8E%E8%BD%BC.jpg" alt="茅于轼" width="600" height="531"></a></p>
@@ -952,40 +977,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E6%8B%92%E6%8F%90%E9%98%85%E5%85%B5%E8%B4%B9%E7%94%A8-%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5%E5%9B%BD%E5%AE%B6%E8%8E%B7%E5%9B%9E%E6%8A%A5/" target="cdt-mirror">美国之音 | 中国拒提阅兵费用 出席阅兵国家获回报</a>
-</h2>
-<p><p>北京—尽管在9.3 大阅兵的新闻发布会和中国国防部举行的例行新闻发布会上，有记者反复追问这次举行阅兵花了多少钱，但是相关发言人一直没有公布阅兵花费的具体数字。</p>
-<p>有香港媒体估计称，这次阅兵总花费可能高达215亿美元。这个数字是香港记者根据2009年中国60大庆阅兵的花费进行的粗略估计，没有得到中国官方证实。</p>
-<p>台湾财经专家蔡明彰在一个电视节目上表示，北京9.3大阅兵应比2008年举办奥运（不含场馆建设）花的钱更多，至少花费700亿台币（约167亿港币），包括上千家企业停产停工的损失。</p>
-<p>香港《苹果》记者以阅兵具体项目计算，为确保阅兵蓝，北京市内1,927家厂房自8月中停产；85万名北京市民上街站岗14日，每人每日100元车马费；参加阅兵的1.2万名解放军的训练补助；王府井、前门、大栅栏、西单、东单五大商区停业2日，商家损失约10亿元。以上粗计，没有算北京周边的河北、山东等地停工停产、车辆限行、维稳等费用，花费就超过215亿元。</p>
-<p>香港《苹果》援引中国人民解放军退役少将徐光裕的话称，2009年国庆60周年庆典活动中，阅兵一项总开支估计为6亿元人民币，较1999年国庆阅兵花费要少很多。</p>
-<p><strong>劳民伤财说</strong></p>
-<p>中国社交媒体上关于这次阅兵“劳民伤财”的议论也是不绝于耳，以致中国共产党机关报《人民日报》专门刊出一篇文章，驳斥阅兵“劳民伤财”说。文章称：“普通人办喜事也花钱，何况乎国家！”</p>
-<p>不过，《人民日报》文章承认，国际国内舆论对今年中国在不逢五不逢十的时候举行大阅兵的“猜测和议论一直不曾停歇”。质疑的重点在这次阅兵的目的：是为了炫武力、秀肌肉，还是为了警告、震慑日本，还是说其实没啥实际用处、就是个劳民伤财的面子工程？</p>
-<p>中国国际问题研究院副院长阮宗泽此前在记协的一场活动上表示，中国对二战的意义深重，包括3500万人员伤亡，历时14年，但是西方对此的描述总是一笔带过，因此中国办阅兵不是为了显示强硬，也不是显示咄咄逼人的状态，更多的是还原东方主战场的意义。</p>
-<p>《人民日报》称，一些人看来，搞什么阅兵嘛，劳民伤财，就是个面子工程，华而不实。这些说阅兵劳民伤财的人，大致有两种观点。一种观点是，贫困人口那么多、农村还那么穷，为什么还要搞大阅兵？</p>
-<p>《人民日报》重提当年中国办奥运时的类似观点：“贫困人口那么多，为何还要拿那么多钱援外？”“大凉山都穷成这个样子了，为什么还要办奥运？”</p>
-<p>《人民日报》说，说大阅兵劳民伤财的人，一定是没算透阅兵的这本账。普通人家办个喜事都要花点钱、用点人，别说一个国家隆重纪念抗战胜利70周年了，而且理性看，这个投入，值！</p>
-<p>《人民日报》在这篇文章的后面，发表了经过审查后的读者评论。一位读者称：“说（阅兵劳民伤财）这些话的，多是汉奸奴才的后人或新汉奸，他们看不得中国强大人民富强，在当今这个弱肉强食的世界，强大的国防就是人民幸福安居的保障。”</p>
-<p><strong>不差钱</strong></p>
-<p>据报道，这次阅兵请来的一些国家趁机向中国要钱也引发关注。媒体报道称，中国将向委内瑞拉再提供50亿美元的贷款，帮助该国提高石油产量。委内瑞拉总统马杜罗（Nicolas Maduro） 说，这显示出中国继续支持拉丁美洲经济发展的意愿。</p>
-<p>英国《金融时报》报道，中国在查韦斯当政期间向委内瑞拉提供了500亿美元的贷款，委内瑞拉通过石油进行偿还。但是由于世界油价下滑，2014年10月，委内瑞拉单方面违约，宣布不再每天向中国出口偿还贷款的石油，并且无限期延长贷款偿还期限。中国商务部对此消息予以证实。</p>
-<p>这次中国举行大阅兵，委内瑞拉总统马杜罗亲前来出席，受到中方的隆重接待。</p>
-<p><strong>眼光放宽</strong></p>
-<p>在9月2日的中国外交部例行记者会上，有记者问：在中国经济增速下滑的背景下，中国向委内瑞拉提供贷款是否合适？对此，外交部发言人华春莹表示，关于贷款的具体问题请向主管部门了解。华春莹说：“我们愿在互利互惠基础上，充分发挥现有融资机制作用，探讨开展金融等领域合作。除了金融领域，中国同包括委内瑞拉在内的拉美和非洲国家在基础设施建设、产能合作等广泛领域都开展合作。建议你将眼光放宽一些，看到中国与有关国家在广泛领域开展的全面合作。”</p>
-<p>中国官方媒体报道说，据粗略统计显示，很多来参观阅兵式的国家都借这次访问的机会签署了商贸大单，俄罗斯和中国达成了二十多项协议。韩国总统朴槿惠率128个韩国企业，156人组成的经济代表团随行，阵仗之大为历史之最。代表团名单包括大韩商工会议所会长孙京植、LG集团会长具本茂、乐天集团会长辛东彬、现代集团会长玄贞恩等。韩国代表团这次的目标是西安，将和中方谈判多个项目。</p>
-<p>另外，据媒体报道，埃及总统塞西在下榻的中国大饭店举行了埃中企业家代表见面会。在见面会上，塞西称埃及为中国的企业和伙伴提供良好的投资环境，“希望与你们开展投资项目”。埃及驻华使馆商务参赞称，此次埃及总统访华期间，中国国家开发银行将向埃及国民银行(NBE)提供1亿美元贷款用以资助中小企业，中国商务部将向埃及捐赠价值3000万元的远程卫星遥感设备。所有这些协定将通过软贷款(低于市场利率的贷款)来进行。</p>
-<p>河南省对接塔吉克斯坦的一个州。阅兵期间，河南人民政府与塔吉克斯坦哈特隆州政府、中国国家开发银行在京共同签署《关于融资推动农业产业项目合作谅解备忘录》，向塔吉克斯坦提供援助。</p>
-<p>埃塞俄比亚驻中国大使馆新闻官说，埃塞俄比亚总理海尔马里亚姆参观阅兵后，出席了由中国国家开发银行主办的埃塞俄比亚投资论坛，但没有透露中方投资的具体金额。</p>
-<p>《华尔街日报》注意到，很多出席中国抗战胜利70周年阅兵的世界领导人都有一个共同点：他们代表日益疲弱的资源生产国，渴望利用中国的需求。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E6%8B%92%E6%8F%90%E9%98%85%E5%85%B5%E8%B4%B9%E7%94%A8-%E5%87%BA%E5%B8%AD%E9%98%85%E5%85%B5%E5%9B%BD%E5%AE%B6%E8%8E%B7%E5%9B%9E%E6%8A%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">中国外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E8%83%9C%E5%88%A9/?category=18271" rel="tag">反法西斯胜利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%BA%86%E9%98%85%E5%85%B5/?category=18271" rel="tag">国庆阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A9/?category=18271" rel="tag">抗战胜利</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1007,5 +998,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/></td>    </tr>
 </table>

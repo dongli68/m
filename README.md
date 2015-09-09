@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3m4v1fchpy0o9.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d29wlidzsw9r6w.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d22i9hr2g0nknt.cloudfront.net">https://d22i9hr2g0nknt.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d377qjc58ebd4.cloudfront.net">https://d377qjc58ebd4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d377qjc58ebd4.cloudfront.net">https://d377qjc58ebd4.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d22i9hr2g0nknt.cloudfront.net">https://d22i9hr2g0nknt.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B1%B1%E4%B8%9C%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%EF%BC%8C%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%89%B9%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E6%8E%AA-2/" target="cdt-mirror">纽约时报 | 山东化工厂爆炸，新华社批地方政府措辞“冷血”</a>
@@ -50,7 +50,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E5%88%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">山东利津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E5%85%AD%E4%B8%AA%E5%A4%A7%E6%8B%9B%EF%BC%8C%E7%BB%88%E4%BA%8E%E8%AE%A9%E5%8D%97%E6%96%B9%E7%B3%BB%E8%B5%B0%E4%B8%8A/" target="cdt-mirror">呦呦鹿鸣｜达文西：六个大招，终于让南方系走上正道</a>
 </h2>
@@ -1016,5 +1016,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d22i9hr2g0nknt.cloudfront.net">https://d22i9hr2g0nknt.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d377qjc58ebd4.cloudfront.net">https://d377qjc58ebd4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d22i9hr2g0nknt.cloudfront.net">https://d22i9hr2g0nknt.cloudfront.net</a><br/><a href="https://d377qjc58ebd4.cloudfront.net">https://d377qjc58ebd4.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/></td>    </tr>
 </table>

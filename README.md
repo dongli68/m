@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2378une6gz7jd.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1oaecm1jmpcx2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2378une6gz7jd.cloudfront.net">https://d2378une6gz7jd.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d1oaecm1jmpcx2.cloudfront.net">https://d1oaecm1jmpcx2.cloudfront.net</a><br/><a href="https://d29yjvecmqfstd.cloudfront.net">https://d29yjvecmqfstd.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1oaecm1jmpcx2.cloudfront.net">https://d1oaecm1jmpcx2.cloudfront.net</a><br/><a href="https://d29yjvecmqfstd.cloudfront.net">https://d29yjvecmqfstd.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d2378une6gz7jd.cloudfront.net">https://d2378une6gz7jd.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E5%85%AD%E4%B8%AA%E5%A4%A7%E6%8B%9B%EF%BC%8C%E7%BB%88%E4%BA%8E%E8%AE%A9%E5%8D%97%E6%96%B9%E7%B3%BB%E8%B5%B0%E4%B8%8A/" target="cdt-mirror">呦呦鹿鸣｜达文西：六个大招，终于让南方系走上正道</a>
@@ -126,7 +126,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B%EF%BC%9A%E6%94%80%E6%88%90%E9%92%A2%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%B2%97/" target="cdt-mirror">墙外楼｜中国经济转型阵痛：攀成钢万人下岗</a>
 </h2>
@@ -232,7 +232,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0/?category=18271" rel="tag">媒体札记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%BE%BE%E5%86%85/?category=18271" rel="tag">徐达内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7/?category=18271" rel="tag">微信公号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E5%AE%89%E5%BE%BD%E9%AB%98%E9%99%A2%E7%99%BB%E6%8A%A5%E5%90%91%E5%8D%81%E4%B9%9D%E5%90%8D%E8%92%99%E5%86%A4%E8%80%85%E9%81%93%E6%AD%89/" target="cdt-mirror">BBC | 安徽高院登报向十九名蒙冤者道歉</a>
 </h2>
@@ -1042,5 +1042,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
                 <td></td>
                 
         
-        <td><a href="https://d29yjvecmqfstd.cloudfront.net">https://d29yjvecmqfstd.cloudfront.net</a><br/><a href="https://d2378une6gz7jd.cloudfront.net">https://d2378une6gz7jd.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d1oaecm1jmpcx2.cloudfront.net">https://d1oaecm1jmpcx2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d29yjvecmqfstd.cloudfront.net">https://d29yjvecmqfstd.cloudfront.net</a><br/><a href="https://d1oaecm1jmpcx2.cloudfront.net">https://d1oaecm1jmpcx2.cloudfront.net</a><br/><a href="https://d2378une6gz7jd.cloudfront.net">https://d2378une6gz7jd.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/></td>    </tr>
 </table>

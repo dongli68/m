@@ -96,7 +96,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0/?category=18271" rel="tag">媒体札记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%BE%BE%E5%86%85/?category=18271" rel="tag">徐达内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7/?category=18271" rel="tag">微信公号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E5%AE%89%E5%BE%BD%E9%AB%98%E9%99%A2%E7%99%BB%E6%8A%A5%E5%90%91%E5%8D%81%E4%B9%9D%E5%90%8D%E8%92%99%E5%86%A4%E8%80%85%E9%81%93%E6%AD%89/" target="cdt-mirror">BBC | 安徽高院登报向十九名蒙冤者道歉</a>
 </h2>
@@ -1054,7 +1054,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37cmfjdhe123l.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1xvnvnzgmgzzt.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1064,5 +1064,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d37cmfjdhe123l.cloudfront.net">https://d37cmfjdhe123l.cloudfront.net</a><br/><a href="https://d1xvnvnzgmgzzt.cloudfront.net">https://d1xvnvnzgmgzzt.cloudfront.net</a><br/><a href="https://d1ma5alfn7y020.cloudfront.net">https://d1ma5alfn7y020.cloudfront.net</a><br/><a href="https://d2yo12oljucyr5.cloudfront.net">https://d2yo12oljucyr5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1xvnvnzgmgzzt.cloudfront.net">https://d1xvnvnzgmgzzt.cloudfront.net</a><br/><a href="https://d2yo12oljucyr5.cloudfront.net">https://d2yo12oljucyr5.cloudfront.net</a><br/><a href="https://d37cmfjdhe123l.cloudfront.net">https://d37cmfjdhe123l.cloudfront.net</a><br/><a href="https://d1ma5alfn7y020.cloudfront.net">https://d1ma5alfn7y020.cloudfront.net</a><br/></td>    </tr>
 </table>

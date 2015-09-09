@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37xe0unxgmoki.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ncpmijgtbb00.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d37xe0unxgmoki.cloudfront.net">https://d37xe0unxgmoki.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ncpmijgtbb00.cloudfront.net">https://d3ncpmijgtbb00.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%94%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/" target="cdt-mirror">【真理部】进一步唱响中国经济光明论</a>
@@ -1054,7 +1054,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37xe0unxgmoki.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ncpmijgtbb00.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1064,5 +1064,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d37xe0unxgmoki.cloudfront.net">https://d37xe0unxgmoki.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ncpmijgtbb00.cloudfront.net">https://d3ncpmijgtbb00.cloudfront.net</a><br/></td>    </tr>
 </table>

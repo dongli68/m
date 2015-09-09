@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1h4ywypi92lps.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d16mn3mrh1ahq2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d25a5rgbf7bote.cloudfront.net">https://d25a5rgbf7bote.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d16mn3mrh1ahq2.cloudfront.net">https://d16mn3mrh1ahq2.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d16mn3mrh1ahq2.cloudfront.net">https://d16mn3mrh1ahq2.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d25a5rgbf7bote.cloudfront.net">https://d25a5rgbf7bote.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E5%BD%93%E4%BB%96%E4%B8%8D%E5%90%AC%E8%AF%9D%E6%97%B6%E5%B0%B1%E6%89%BE%E4%BB%96%E7%9A%84%E5%AE%B6%E4%BA%BA/" target="cdt-mirror">王五四：当他不听话时就找他的家人</a>
@@ -78,7 +78,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%88%E6%AF%8D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">中国式婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86/?category=18271" rel="tag">中国的秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6/?category=18271" rel="tag">买房买车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%A9%E5%A5%B3/?category=18271" rel="tag">剩女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E4%BA%B2/?category=18271" rel="tag">相亲</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%8C%85%E4%BA%8E%E8%BD%BC%E5%8A%A0%E5%85%A5%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E8%AE%BA%E6%88%98%E5%BC%95%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 中国学者茅于轼加入抗战历史论战引热议</a>
 </h2>
@@ -935,7 +935,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25a5rgbf7bote.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d16mn3mrh1ahq2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -945,5 +945,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d25a5rgbf7bote.cloudfront.net">https://d25a5rgbf7bote.cloudfront.net</a><br/><a href="https://d16mn3mrh1ahq2.cloudfront.net">https://d16mn3mrh1ahq2.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d16mn3mrh1ahq2.cloudfront.net">https://d16mn3mrh1ahq2.cloudfront.net</a><br/><a href="https://d3qd7rgamsoz9w.cloudfront.net">https://d3qd7rgamsoz9w.cloudfront.net</a><br/><a href="https://d25a5rgbf7bote.cloudfront.net">https://d25a5rgbf7bote.cloudfront.net</a><br/><a href="https://dgzpsbzordyd7.cloudfront.net">https://dgzpsbzordyd7.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/></td>    </tr>
 </table>

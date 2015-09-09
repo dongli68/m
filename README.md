@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ma5alfn7y020.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj3ls9836jqb6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ma5alfn7y020.cloudfront.net">https://d1ma5alfn7y020.cloudfront.net</a><br/><a href="https://d2k1cw9w1f8vlf.cloudfront.net">https://d2k1cw9w1f8vlf.cloudfront.net</a><br/><a href="https://dj3ls9836jqb6.cloudfront.net">https://dj3ls9836jqb6.cloudfront.net</a><br/><a href="https://dclk0jekw5jtq.cloudfront.net">https://dclk0jekw5jtq.cloudfront.net</a><br/><a href="https://d1nax1airjs470.cloudfront.net">https://d1nax1airjs470.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj3ls9836jqb6.cloudfront.net">https://dj3ls9836jqb6.cloudfront.net</a><br/><a href="https://dclk0jekw5jtq.cloudfront.net">https://dclk0jekw5jtq.cloudfront.net</a><br/><a href="https://d15tfcamnodrgy.cloudfront.net">https://d15tfcamnodrgy.cloudfront.net</a><br/><a href="https://d1ma5alfn7y020.cloudfront.net">https://d1ma5alfn7y020.cloudfront.net</a><br/><a href="https://d1nax1airjs470.cloudfront.net">https://d1nax1airjs470.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/" target="cdt-mirror">明镜｜大阅兵：为专制与冷战加冕</a>
@@ -1032,7 +1032,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2k1cw9w1f8vlf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nax1airjs470.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1042,5 +1042,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0
                 <td></td>
                 
         
-        <td><a href="https://d2k1cw9w1f8vlf.cloudfront.net">https://d2k1cw9w1f8vlf.cloudfront.net</a><br/><a href="https://d1ma5alfn7y020.cloudfront.net">https://d1ma5alfn7y020.cloudfront.net</a><br/><a href="https://dclk0jekw5jtq.cloudfront.net">https://dclk0jekw5jtq.cloudfront.net</a><br/><a href="https://dj3ls9836jqb6.cloudfront.net">https://dj3ls9836jqb6.cloudfront.net</a><br/><a href="https://d1nax1airjs470.cloudfront.net">https://d1nax1airjs470.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nax1airjs470.cloudfront.net">https://d1nax1airjs470.cloudfront.net</a><br/><a href="https://d15tfcamnodrgy.cloudfront.net">https://d15tfcamnodrgy.cloudfront.net</a><br/><a href="https://d2k1cw9w1f8vlf.cloudfront.net">https://d2k1cw9w1f8vlf.cloudfront.net</a><br/><a href="https://dj3ls9836jqb6.cloudfront.net">https://dj3ls9836jqb6.cloudfront.net</a><br/><a href="https://dclk0jekw5jtq.cloudfront.net">https://dclk0jekw5jtq.cloudfront.net</a><br/></td>    </tr>
 </table>

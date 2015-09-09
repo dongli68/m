@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3vxsa57e1hhfv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2gtt9twkvojbz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d209xdgfxs9yv8.cloudfront.net">https://d209xdgfxs9yv8.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d209xdgfxs9yv8.cloudfront.net">https://d209xdgfxs9yv8.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/" target="cdt-mirror">【CDTV】中国的秘密：惊人的贫富差距</a>
@@ -213,7 +213,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/" target="cdt-mirror">明镜｜大阅兵：为专制与冷战加冕</a>
 </h2>
@@ -988,7 +988,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t3vd9m4zwuw4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2gtt9twkvojbz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -998,5 +998,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d209xdgfxs9yv8.cloudfront.net">https://d209xdgfxs9yv8.cloudfront.net</a><br/><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d209xdgfxs9yv8.cloudfront.net">https://d209xdgfxs9yv8.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/></td>    </tr>
 </table>

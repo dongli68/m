@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ma5alfn7y020.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dj3ls9836jqb6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ma5alfn7y020.cloudfront.net">https://d1ma5alfn7y020.cloudfront.net</a><br/><a href="https://dj3ls9836jqb6.cloudfront.net">https://dj3ls9836jqb6.cloudfront.net</a><br/><a href="https://d15tfcamnodrgy.cloudfront.net">https://d15tfcamnodrgy.cloudfront.net</a><br/><a href="https://dclk0jekw5jtq.cloudfront.net">https://dclk0jekw5jtq.cloudfront.net</a><br/><a href="https://d1nax1airjs470.cloudfront.net">https://d1nax1airjs470.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dj3ls9836jqb6.cloudfront.net">https://dj3ls9836jqb6.cloudfront.net</a><br/><a href="https://d2k1cw9w1f8vlf.cloudfront.net">https://d2k1cw9w1f8vlf.cloudfront.net</a><br/><a href="https://d15tfcamnodrgy.cloudfront.net">https://d15tfcamnodrgy.cloudfront.net</a><br/><a href="https://dclk0jekw5jtq.cloudfront.net">https://dclk0jekw5jtq.cloudfront.net</a><br/><a href="https://d37cmfjdhe123l.cloudfront.net">https://d37cmfjdhe123l.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/" target="cdt-mirror">明镜｜大阅兵：为专制与冷战加冕</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k4eeeeeeeeeeee.jpg" alt="k4eeeeeeeeeeee" width="516" height="335"><br>
+（一）</p>
+<p>大阅兵落幕，讥评如潮。花这么多钱，扰这么多民，达到了什么目的？既没有震慑敌胆，也没有振奋民心──民心都被关在家里，一边看电视台的解说员、主持人、军事专家吹嘘忽悠、一惊一乍地替大家热血激昂，一边众口喧腾，在微信上赛着抖机灵。你让大家都出不了门、开不了窗，还庆什么祝？还能有什么好话？再傻的老百姓也知道，这些武器没一件是你发明的吧，你有的人家早就有了，还比你的好。人家有你没有的，你也拿不出来不是？就是人傻钱多瞎 _ 瑟。</p>
+<p>普京心里也是这话，你丫才打了几个日本鬼子啊？瞎摆谱，我就弄个细细一溜的仪仗队恶心恶心你──与你对反法西斯战争的贡献相称，也表明我们俄罗斯战斗民族的优越，看不上没打赢过对外战争的军队。</p>
+<p>（二）</p>
+<p>这李克强也是，一共没三句话，还借机“自黑黑人”了一把：“下面请（一堆头衔的）习近平同志发表重要讲话”──讲话就讲话呗，干嘛还要“发表”？重要不重要，得讲完了才知道，得听众来评判。北大博士，中国总理，干嘛不能潇洒点？那种八股语言真就半步不能逾越、否则就是对今上的不敬吗？这样僵化颟顸、上下糊弄的班子，还能指望任何创新、任何复兴吗？</p>
+<p>那篇讲稿写得更是邋遢，一句和一句都不挨着。抗战的伟大意义，不是 70 年后才有的，不是共产党建政后才有的。 1945 年中国人民就在蒋委员长领导下站起来了， 1949 年老毛又站一次，结果 70 年后中华民族还在“复兴”。</p>
+<p>抗战和五千年文明有半点关系吗？不算“五胡乱华”，也不管李唐王朝算不算外来政权，咱们中国亡于蒙古，亡于满清，总赖不掉吧，五千年文明完了吗？以色列亡国 1000 多年，朝鲜也因为中国的甲午之败亡国 50 多年，他们的文明完了吗？文明总是新的旧的一层层叠加的。破坏力最大的“马克思列宁主义、毛泽东思想” 不是也叠加进来了吗。你还要全国人民坚持，那就继续出产“中华牌”文革余孽五毛怪胎呗。</p>
+<p>话题一掉到中共意识形态的套子里，再想扭回到抗战、和平和民族复兴就难了，只能糊里糊涂地说一句谁也不知道具体何指的“既定目标”（令人想起“各自表述”的老毛垂死时的遗诏“按既定方针办”），然后喊口号 这倒像是 40~50 年都不长进的初一红卫兵习近平的文章。如果不是，那中办、书记处的“五毛化”太惊人了。</p>
+<p>（三）</p>
+<p>本来大家都说这是习组长的军事统帅加冕礼，可你看他一脸的落寞一脸的挫败，精神萎靡，心情低落，左手敬礼，脑筋短路，甚至有瞬间横路敬二式的迷惘、不知所措。检阅车天窗将习组长紧紧夹住，也像是怕他腿肚子转筋，出溜下去。僵硬地挥拳喊口号，也完全没有统帅风度，像是又回到了梁家河生产大队“农业学大寨”的工地。看来他内心还不习惯这个新角色。习的失态，是因为天安门城楼上那各怀鬼胎的济济一堂吗？“梁山好汉全伙在此”，俨然又是三代同堂，“使我不得开心颜”。</p>
+<p>到了晚上的文艺演出，只剩当权一代，习组长恢复常态。可见还是不适应白天那个阵仗，怕出事，紧张，虽说可能使坏的家伙都让他们上了天安门，要使坏谁都跑不了，可检阅车开出来后，就习组长一个人哦。</p>
+<p>（四）</p>
+<p>江胡上天安门，有２种解读。一是说，股市崩，津港炸，经济下行，中美摩擦，证明习揽权有术、治国无方，他的强势被抑制，权威被削弱，被迫向分享权力的集体领导回归。二是说，老家伙们已无害，一切尽在习组长掌握之中，让他们来点缀党的团结，见证习时代的到来，挺好，这一点都不妨碍习将来再收拾他们。从现场气氛来看，至少还有第三种可能：停火了，不斗了，维持现行利益格局，共同对付亡我之心不死的美帝，和心中永远藏着颜色革命蠢动、渴望结束专制的亿万人民。中共统治者也是有理性的，没有理由假定他们非要斗到你死我活，政权崩溃。</p>
+<p>（五）</p>
+<p>大家最终也没听明白：中国究竟是坚持和平发展呢，还是要建立（中俄主导的）新型国际关系？当年小日本的“大东亚共荣圈”，希特勒为德意志民族争取生存空间的《我的奋斗》，也都是口口声声要建立新型国际关系。世界不太平，因为还有人敢歧视专制制度，所以我要穷兵黩武，拿“人类命运共同体”当人质，“保卫和平”。是，专制制度少数人统治多数人，没有合法性，但架不住我们人口最多的中国人喜欢，架不住它可以集中资源办大事、争霸权，架不住它蔑视自由、践踏人权、视万民如刍狗，更容易压倒民主决策过程，取得实质性的话语权，所以我们以“正义、和平、人民”的名义，必胜。</p>
+<p>（六）</p>
+<p>很多人谈到冷战，我想有一点应该澄清，这不是传统意义上的冷战，是在全球经济一体化，中美之间每年 5-6000 亿美元贸易总额基础上的冷战，是单方面的、暗中进行的非典型冷战。</p>
+<p>为什么说单方面的？因为只有中国政府在向他的人民灌输冷战思维，在扩充军备，在与俄国同谋。美国人像是被点了穴，不觉得正在发生的事有什么不妥，他们不相信中国有挑战美国的军事实力， 50 年后都没有。相反，他们看中国就是一个全世界都离不开的财主、生意伙伴，尽管它有邪恶的意识形态，可耻的人权记录，可既然这些是我们改变不了的，是中国人自己的事情，我们和不和它做生意都不会有什么两样。</p>
+<p>为什么说是暗中进行的冷战？习近平来了你若问他，他准是一脸的无辜：没有啊，我们一直渴望与美国建立新型大国关系。可如果美国人都能听得懂中国官方半官方电视台的主持人、嘉宾，在向亿万中国人说什么，那他们一定会得出结论，冷战，在对方国家中已经在进行动员。考虑到中国的专制体制和人口规模，这种洗脑和动员对未来世界的影响，不应被低估。</p>
+<p>（七）</p>
+<p>中美之间的经贸往来是互利的。但美国方面赚钱的是公司和个人，中国方面赚的钱大部分归了政府（陈志武说中国最大的分配不公在政府与私人部门之间），而中国政府又反过来用这个钱发展针对美国的武器系统，这就是当前“准冷战”的荒唐之处。</p>
+<p>如果美国解了点穴，准备应战，第一件要做的事，就是壮士断腕，与中国这个泥足巨人在经济上切割，逐步强化经济制裁， 5~6000 亿美元的贸易不要了，用 TPP 重起炉灶，重建朋友圈，让中国去搞它的“一带一路”，让它在非市场经济的无效资源配置中，与美国及周边国家进行军备竞赛，重蹈前苏联的覆辙。这才是真正的冷战，中国 can ’ t afford （无法承受）的冷战，回归胜利的里根模式的冷战。</p>
+<p>美国是民主国家，除非中国在台海、南海大打出手，或在西藏、新疆建集中营实行种族灭绝，很难实行全面对华经济制裁。但完全可以实行现在奥巴马政府的办法，对中国的网络入侵、网络窃密受益公司实行制裁，定点清除。将来可以通过某种“爱国者法案”，对中国制造“ XX 快递”、“航母杀手”的公司，对鼓吹战争、煽动反美仇美的官员、军头、太子党、官二代、主持人及他们持股的公司实行制裁，不跟他们做生意，不许他们进入美国，调查他们在美国藏匿的资产 . 用一句中国式夸张“有犯强美者，虽远必诛”。中国也必会报复，由此完成美中经济的切割，开始双向的公平的冷战。</p>
+<p>白丁一再申述过一个观点，中国的经济比俄罗斯的更经不起制裁，它已大得不能倒。</p>
+<p>（八）</p>
+<p>很多人会认为，冷战不过是中共统治者忽悠老百姓，以延续他的一党专政，不必当真。但习近平上台以来的扩充军备、南海造岛、中俄勾结、舰机骚扰日本、演练斩首台湾，甚至让舰队前出至美国阿拉斯加领海，都是真刀真枪的进逼。</p>
+<p>在习组长心中有一个不战而屈人之兵，将美国逼退到太平洋中线的时间表，此后日本必被孤立，台湾必被以一国两制统一，再以朝鲜半岛统一换取与韩国结盟，让菲越东盟低头，控制中亚，实现欧盟的芬兰化，中国将成为半个地球的霸主。</p>
+<p>如果我们回想二战之前的欧洲，英法为什么对希特勒德国实行绥靖政策，终至战争爆发？不是糊涂，是大萧条中的英法政府没钱整军经武，遏制希特勒的崛起。美国现在的全球维稳，也已到了捉襟见肘，难以为继的地步。奥巴马的战略再平衡为什么没有实质性进展？因为政府债务过线的预算自动削减机制。</p>
+<p>宋鸿兵在他的脱口秀中列举了下面这组数字，即按目前的趋势、目前的超低利率，将来每一美元税收中用来支付债务利息的比例： 2014 年 0.12 ； 2020 年 0.20 ； 2030 年 0.36 ； 2040 年 0.58 。到那时美国还有钱来扩充军备，进行海外布署吗？习近平要美国让出半个太平洋的底气，可能就来自这个误导。</p>
+<p>但是，美国有纠错机制，两党可能达成某种增税减支的财政安排。移民改革和新技术革命也会扩大美国的税基。以美国发达的金融体系，美国财政再糟糕，也不会糟到建国之初汉密尔顿面临的债台高筑。别忘了，美国毕竟是世界上最富的国家（尽管不是最富的政府），政府以挫败中国冷战后的未来收益融资，应该不会太难。美国民众也不会看着自己的政府瘫痪，而让军国主义的中国独步天下。再说，受到威胁的不只是美国，全球还有那么多盟友，那么多不甘屈服于中国的国家，大家的资源可以一起整合。</p>
+<p>（九）</p>
+<p>2020 、 2030 、 2040 时的中国是何等光景呢？是章家墩说的崩溃？还是沈大伟说的终局？还是在习式催眠术下渐入“梦”境，踏上军国主义的不归路？还是退回到经济停滞、政治反动、半闭关锁国的勃列日涅夫时代？我们不知道。但不可否认的是： 1 ）中国的高速经济增长已是“此情可待成追忆”； 2 ）中国的债务问题，比美国严重得多，美国只是联邦政府束手束脚周转不灵，中国的债务问题渗透到经济金融的所有层面。 3 ）中国未来所有的经济转型，都面临着产权结构、法律体系和政治体制的重大调整，但是专制体制没有内生的纠错机制，不到崩溃前夕，不到“明主”上位，只能因循地往下混，而且还要标榜为“靡不有始，鲜克有终”，要“风雨无阻”地走下去。</p>
+<p>中共统治者唯一可以依恃的是对本国人民的监视、镇压和欺骗的精密化，即所谓治理体系现代化，以及中国人 2000 多年凝缩积淀的对专制统治的耐受性。这只能使中共不倒，不会使中国强大，经济影响力减退后，中国仍然无法用它的军力影响和改变世界──除非美国退缩。</p>
+<p>在未来 25 年中，假定美国仍处于被点穴的状态，对中国的单方面冷战不作为，中国以现在的速率扩充军备，但也引而不发，那你是赌美国财政先破产，不得不战略收缩呢？还是赌中国经济崩盘，不得不进行某种程度的政改，不得不放弃军国主义呢？哪一件事情会先发生？</p>
+<p>不管中国军国主义最终如何收场， 25 年后，人们拨开迷雾，寻找历史的分水岭，一定还会注意到 9 月 3 号的这个加冕礼。</p>
+<p>明镜 / 白丁</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B%EF%BC%9A%E6%94%80%E6%88%90%E9%92%A2%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%B2%97/" target="cdt-mirror">墙外楼｜中国经济转型阵痛：攀成钢万人下岗</a>
+</h2>
+<p><p>从邓万银（音译）记事儿起，这座位于成都市郊的钢厂就一直是他生活中的一部分。和父亲一样，42岁的他在这里锻造过钢管，他在这个国有钢厂的家属院与妻子相识，而他的女儿也是在厂里的学校念的书。</p>
+<p>今年3月末的一天，上级部门下达了关停钢厂的通知。</p>
+<p>攀钢集团成都钢钒有限公司(Pangang Chengdu Steel & Vanadium Co.)的停业将邓万银推向了中国经济放缓的风口浪尖。在运营了57年之后，被当地人称之为攀成钢的这家企业大约有1.6万名职工面临下岗分流，这些人以钢厂为中心的生活也一夕之间天翻地覆。</p>
+<p>攀成钢厂区被连根拔起是中国经济痛苦转型的产物之一。在需求滑坡和过度投资的影响下，曾经为中国崛起充当动力的重工业已经成为明日黄花。中国政府正在努力推动经济转型，试图打造一条依赖消费支出、服务业和科技驱动型制造业的新经济发展轨道。</p>
+<p>对于转型难度超出中国政府应对能力的担忧打击了全球投资者的信心，他们原本认为，中国很快就会重新成为推动全球经济增长的引擎。</p>
+<p>7月份中国工业增加值增速继续回落，降至6%，而10年前经济全盛时期的增速在23%以上。今年国内生产总值(GDP)增长7%的目标将成为25年来中国的最慢增速。</p>
+<p>中国城镇正在失去一些最大的雇主企业，这一过程与几十年前从底特律至巴尔的摩的“铁锈地带”(Rust Belt America)工厂关闭的情景相似。</p>
+<p>在东莞，造纸厂被迫退出，因政府试图促使制造商提升价值链。在靠水泥致富的河北鹿泉，许多污染严重的生产企业关停，地方政府希望推动旅游业发展，在该市市郊矗立着一座仿建的“狮身人面像”。</p>
+<p>随着社区开始空心化，政府和工人之间的一项社会契约也面临着失效的压力。该契约一直是共产党的执政特色之一，即哪怕在困难时期国有企业也会照顾产业工人。这一社会契约是一种讨价还价后的产物，旨在阻止工人举行罢工，或者成为反政府动乱的源头（例如波兰造船厂工人帮助推翻该国的共产党政府）。</p>
+<p>攀成钢位于成都市北部的青白江区工业区，数以千计的当地居民已经去其他地方寻找工作。曾经繁华的社区街道上，到处都是“招租”广告。小偷小摸也多了起来。</p>
+<p>攀成钢是60年来即将停业的规模最大的国有钢厂。政府官员称，该钢厂200万吨年产能的绝大部分会被封存。</p>
+<p>在具有政治影响力和工业实力象征意义的行业里，这种大规模的收缩非常罕见。中国政府上世纪90年代开始解散中小型国有企业之后，钢铁巨头的规模却越来越大，最终雇佣了400万工人。保留国家对金属、能源、水资源和交通等关键领域的控制权是政府计划的一部分。目前中国钢铁年产量约为8亿吨。</p>
+<p>中国钢铁行业高歌猛进的同时，大规模产能过剩却已令全球钢铁市场陷入困境，并最终令该行业失去了盈利能力。受建筑行业疲软打击，中国的钢材价格已较2012年1月下跌60%。尽管如此，当去年钢铁市场的下滑开始产生负面冲击时，一些钢铁厂和依靠它们创造就业和收入的地方政府仍对关闭产能持抵制态度。</p>
+<p>攀成钢的国有母公司鞍山钢铁集团公司(Anshan Iron & Steel Group Co.)在公开声明中称，关闭该工厂意在削减过剩产能。攀成钢网站4月份发表的一份公告也称赞，关闭工厂是对国家环保治理政策的积极响应和贡献。</p>
+<p>Macquarie Commodities分析师特雷恩(Graeme Train)称，作为一家生产低价值产品并且亏损的非核心子公司，攀成钢成了一个合适的目标。该厂位于内陆的地理位置意味着运输成本较高，这导致其产品价格要高于竞争对手。</p>
+<p>去年市政府官员指责攀成钢厂区排放过度和危险废物储存不当。今年4月份时，该厂被处以罚款40万元。工人们说，未能达到环境标准加速了工厂的关闭。</p>
+<p>由政府支持的钢铁协会说，此次关闭该厂是为关闭其他非必须工厂作出的表率。鞍山钢铁集团的一位发言人证实了攀成钢已被关闭，但未予进一步置评。</p>
+<p>政府官员们设想，未来可依靠旅游业和更多住宅开发来致富。去年10月，成都市官员提出了一个构想，重组青白江区的重工业，转而打造科技园区和智能制造系统。</p>
+<p>到目前为止，上述构想均未实现。政府正在提供转岗培训以软化这场事业风波带来的影响，在此基础上失业人员每月可领取约1,500元的补助金，期限为两年。还有一家求职机构为该人群提供就业机会，但工人们说，这是最后的办法，而且通常没什么用。</p>
+<p>《华尔街日报》</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B%EF%BC%9A%E6%94%80%E6%88%90%E9%92%A2%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%B2%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97%E5%B7%A5%E4%BA%BA/?category=18271" rel="tag">下岗工人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BD/?category=18271" rel="tag">成都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%80%E9%92%A2/?category=18271" rel="tag">攀钢</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%94%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/" target="cdt-mirror">【真理部】进一步唱响中国经济光明论</a>
 </h2>
 <p><p><strong>新华社总编辑室 通知：</strong></p>
@@ -940,109 +1021,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/" target="cdt-mirror">【网络民议】今天我都是小粉红</a>
-</h2>
-<p><p>9月3日，纪念中反法西斯战争胜利70周年阅兵在天安门广场举行。台湾女星范玮琪因为3日上午继续晒双胞胎儿子照片，遭到了不少“爱国网友”抨击，指其不爱国，对“人人都看”的大阅兵不加关注。9月4日晚，范玮琪发文谈及此事，范玮琪写道：“真是对不起，因为分享了一张儿子的照片，让大家不高兴了！”并在微博上进行了道歉。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/61e7f4aajw1evrdjoshswj20c80lqq4n1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/61e7f4aajw1evrdjoshswj20c80lqq4n1.jpg" alt="61e7f4aajw1evrdjoshswj20c80lqq4n" width="440" height="782"></a></p>
-<p> </p>
-<p>部分典型的“爱国网友”评论：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7BD0A7A7E3E9C79C94AF656E362326F4.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7BD0A7A7E3E9C79C94AF656E362326F4.jpeg" alt="7BD0A7A7E3E9C79C94AF656E362326F4" width="440" height="466"></a></p>
-<blockquote><p>氧气_yy：你的那个道歉的微博未免有点太虚伪了些吧，并不是发微博就说明你爱国了，也部是在道德绑架，你说你平时没用的微博没少发发，一会更新一个，70周年这么重要的日子你就吝啬发个微博祝福？ 不管你是不是美国国籍，你要记得你家老祖宗是中国人，枉我那么喜欢你。</p>
-<p>emmylk：身为艺人就该做好任何准备，只能接受赞美不能接受舆论那怎么行，范玮琪晒孩子的事来说确实挺视觉疲劳的甚至反感的，那么重要的日子但凡是个中国人看到祖国那么庄严神圣的阅兵都会内心激动，如果说阅兵和她没有关系那她更没必要来中国发展甚至得到中国公民的支持，我觉得这件事情不算是道德绑架！</p>
-<p>小辣椒刘钰懿明星同款：你儿子不要叫熊猫了，别侮辱了我们中国的大熊猫。你不配！</p>
-<p>逗逼李易峰：真是对不起，因为阅兵耽误你晒孩子了，让你不高兴了。</p></blockquote>
-<p> </p>
-<p>范玮琪的道歉发出后，有网友对此专门发声，认为不允许一部分人不欢庆阅兵的社会才是真正的法西斯，这些“爱国网友”的此番作为已经可以称作“道德强奸”而不仅仅是“道德绑架”。</p>
-<p><strong>相关阅读：</strong></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%91%9B%E5%A3%B0%E8%8C%83%E8%8C%83%E5%8F%8D%E6%98%A0%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A/" target="_blank">唐映红：大陆网民呛声“范范”反映了怎样的社会心理？</a></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%AA%81%E9%81%A5%EF%BC%9A%E8%A6%81%E5%85%81%E8%AE%B8%E4%B8%80%E9%83%A8%E5%88%86%E4%BA%BA%E4%B8%8D%E6%AC%A2%E5%BA%86%E9%98%85%E5%85%B5/" target="_blank">骁遥：要允许一部分人不欢庆阅兵</a></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BE%AF%E8%99%B9%E6%96%8C%EF%BC%9A%E9%82%A3%E4%B8%AA%E4%B8%8D%E6%84%9F%E5%8A%A8%E5%B0%B1%E6%9D%80%E4%BA%86%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3/" target="_blank">侯虹斌：那个不感动就杀了你的时代</a></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%94%E7%9A%84%E5%88%80%E6%B3%95%EF%BC%9A%E8%8C%83%E7%8E%AE%E7%90%AA%E9%81%93%E4%B8%AAp%E6%AD%89-%E5%96%B7%E5%AD%90%E4%BB%AC%E7%BD%91%E4%B8%AAp%E5%8F%8B/" target="_blank">叔的刀法：范玮琪道个P歉 喷子们网个P友</a></p>
-<p>9月4日之后，范玮琪继续在微博发出生活照片，亦再度受到不少“爱国网友”的攻击，不过范玮琪的新微博下及泰国机场国歌事件评论中也出现了不少模仿“爱国网友”过度解读微博内容的“伪爱国网友”的身影。</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>假行僧老巩：这位歌手先是在胜利日因为晒自己宝宝照片被数万“爱国者”辱骂不爱国，被迫删帖道歉。昨日又因为晒了一张史努比吃西瓜的照片，被爱国者指鹿为马为侮辱国旗。不要以为民生时政话题跟你无关，不要以为每天晒自拍就是安全的。可以学着@袁立 一样，敢爱敢恨，奋起反击，勇敢捍卫自己的权利。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/575769adjw1evsdso58wfj20k00h3765.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/575769adjw1evsdso58wfj20k00h3765.jpg" alt="575769adjw1evsdso58wfj20k00h3765" width="440" height="376"></a></p>
-<p> </p>
-<p>谭人玮： “我都吃屎了，范范竟然不吃屎，怎么可以这样？”——有些人真不觉得自己吃的是屎，还以为是芝麻酱抹红糖呢。</p>
-<p>April_不是四月天：鲁迅先生说过:“一看到白胳膊，就想到是全裸体；一想到全裸体，就想到生殖器；一想到生殖器，就想到性交；一想到性交，就想到杂交；一想到杂交，就想到私生子。中国人的想象力唯在这一层上可以跃进。”实在无法理解现代人的脑回路。</p>
-<p>绿海龙心：骂她晒娃的人好奇怪，受不了就取关好了，不取关还嫌人家晒娃多，有人强迫你看咋滴！？</p>
-<p>温柔点会死星人：这踏马跟文字狱有区别？</p>
-<p>royxy：我擦，范玮琪还真为阅兵日晒娃道歉了？这世界果然是属于傻逼的……</p>
-<p>MyDF：包子阅兵不过一天，而范玮琪检阅红卫兵已经好几天了。 #你国</p>
-<p>押沙龙：虽然我完全不知道范玮琪是拍电视的还是唱歌的，但刚才还是跑去加了个关注。没有别的，就是多少想表示一下：在中国还是有很多正常人，不全是疯狗。</p>
-<p>匡岩峰：有看阅兵的自由，也有晒孩子的自由，活的失去了自我，你们还剩什么？</p>
-<p>糖蛋灰灰：是不是要把那天没有发阅兵的都骂一遍才过瘾啊，网暴真可怕，把自己的思想强加别人身上，竟然还有说范本身风评就很差，和你有毛线关系么？你都不一定了解你爸妈爱吃什么、更不要说一个我们不曾深接触的人了，算是知道文ge有多可怕了，你们继承的是这种DNA嘛？</p>
-<p>williamlong：台湾歌手范玮琪因在中国大陆“9·3”阅兵当天没发表任何跟阅兵有关的言论与照片，却分享双胞胎儿子的照片，遭到许多大陆网民抨击“不爱国”，9月4日晚，范玮琪发文道歉：“真是对不起，让大家不高兴了！”除了范玮琪，许多没有在微博上发阅兵图文的明星都引来了成千上万条辱骂。</p>
-<p>孙戡 ：天津爆炸了去马云微博下面逼骂他捐款的，阅兵当天去喷范玮琪晒孩子的，一百年前参加义和团的，五十年前挂红袖章参加武斗的，几年前钓鱼岛抗议上街打砸抢的，都是同一类人。说好听点叫他们一声“爱国贼”，其实就是智障。他们自己说的“民智未开”大概就是这个意思：国民智商太低，没救。</p>
-<p>ifww：范玮琪一早的道歉是这个意思：“实在是对不起，给你们添堵了”现在关闭评论继续晒娃是这个意思：“但老娘就是这么拽，不服来咬我啊”！</p>
-<p>shangguanluan：举国看阅兵的昨天，范玮琪在微博晒孩子，被爱国青年们骂得死去活来，恨不得马上武力登岛。然而另外有台湾段子手跪舔阅兵的，说武器好帅，然后下面也有爱国青年说“然而台湾还没有统一”。所以，还是马英九英明，知道反正都会被骂，还不如主动发声明给傻叉们扫盲。</p>
-<p>牵犬总裁：范范得这篇微博的蓝绿两碗指台湾国民党和民进党。这是两个党给她饭碗，而不是你红色共产党。意思是我不是吃你共产党迷糊长大的，没有义务看你阅兵。小粉红附体啦！</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%8C%83%E7%8E%AE%E7%90%AA%E5%BE%AE%E5%8D%9A.jpg" alt="范玮琪微博" width="440" height="438"></p>
-<p>英俊的胃：不！根本就是暗讽“红色政权是搅屎棍，搅的蓝绿不得安宁”的意思！抵制！！今天我们都是小粉红。</p>
-<p>跪下来叫我麻麻：国人的阅读理解真是走在世界前列腺。</p>
-<p>牵犬总裁：范范的这篇微博的蓝绿两碗指台湾国民党和民进党。这是两个党给她饭碗，而不是你红色共产党。意思是我不是吃你共产党迷糊长大的，没有义务看你阅兵。</p>
-<p>牵犬总裁：阅兵后多少有点吓着了。不是因为正步踢的齐，导弹能快递。而是看了范玮琪和蔡康永微博下的评论。红小兵比法西斯可怕多了。</p>
-<p>幸福生活靠手撸：竟然在阅兵当天看范玮琪微博，他们应该道歉！</p>
-<p>Myxomatosis21：沙文主义是法西斯最典型的特征，那些评论里的高呼爱国喷子的往往没意识到自己就是个法西斯主义者。</p>
-<p>新泽西有雨：不对，这其实是两碗热翔，范范意思就是天朝就是搅屎棍。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/taiguoyouke.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/taiguoyouke.jpg" alt="taiguoyouke" width="584" height="307"></a></p>
-<p>猪蹄蹄小朋友：自己不爱国！还凭什么指望泰国尊重中国人！你们港是不是这个道理！你们4号回国！3号你们在哪里！泰国！所以是不是没看阅兵！活该！3号你们欠祖国的眼泪！4号要加倍还回来！藕黑！</p>
-<p>大馍流浪者：这些人要不受到国内舆论谴责我都替范玮琪咽不下这口气啊……</p>
-<p>磨雨白：绝不能放过他们！！必须在机场看完月饼式录像后才能登机！</p>
-<p>谁占了我的御用名：对，尽然敢在阅兵的时候出国简直与卖国贼同罪！</p>
-<p>我是圆圆蛋：放大假是让你在家泪流满面手举国旗看我大中华的阅兵，不是让你去拉动泰国GDP的你们这群汉奸！</p>
-<p>娇姨家的旺财：竟然没去看阅兵，范范表示不服。</p>
-<p>鸠摩小虾米：就是！阅兵竟然不在家看电视跑去旅游！活该！</p>
-<p>搬砖养家的王奶爸：给你们三天假不是让你们出国丢人的。——习大大</p>
-<p>—–Yumiko：感受一把你国正能量！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97/?category=18271" rel="tag">乌合之众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%98%85%E5%85%B5/?category=18271" rel="tag">大阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%91%E6%AE%8B/?category=18271" rel="tag">脑残</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E7%8E%AE%E7%90%AA%E9%81%93%E6%AD%89/?category=18271" rel="tag">范玮琪道歉</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/" target="cdt-mirror">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a>
-</h2>
-<p><p>近两个月来，各地教育局根据《<a href="http://www.gqt.org.cn/documents/zqf/201504/P020150407552437894393.pdf">共青团中央在青少年中广泛开展纪念中国人民抗日战争暨世界反法西斯战争胜利70周年群众性主题宣传教育活动的通知</a>》要求，制定了相应的实施方案，甚至连幼儿园也<a href="http://site.conac.cn/www/101700695/41435243/2015-08-14/402d3cae8be44490b42885af4269b092.html">被要求</a>开展系列主题教育活动。</p>
-<p><strong>从下面这些例子中大概可以看出，<strong>中国幼儿所接受的到底是什么样的“爱国主义教育”</strong>。</strong></p>
-<p>（以下内容由中国数字时代编辑搜集自网络）</p>
-<h3><span><strong>山东济南：</strong></span><strong><a href="http://sd.people.com.cn/n/2015/0903/c166188-26224455.html">铭记抗战历史从娃娃抓起 幼儿园组织参观抗日主题展</a></strong></h3>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/LOCAL201509030806000205088095914.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/LOCAL201509030806000205088095914.jpg" alt="LOCAL201509030806000205088095914" width="525" height=""></a></p>
-<p>“老师，他们为什么要来欺负我们”“这些人太坏了”“我们可真厉害，把这些坏蛋都打跑了”……孩子们愤慨的声音回荡在展厅，虽然稚气，但是爱国主义教育已在不知不觉中浸润了孩子们的心田，民族自豪感悄然扎进孩子们的内心。</p></blockquote>
-<h3><strong><span>安徽长丰：</span></strong><strong><a href="http://www.cfjy.net/DocHtml/1/Article_20159257660.html">县直幼儿园开展纪念抗战胜利70周年主题系列教育活动</a></strong></h3>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20150902095251975197.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20150902095251975197.jpg" alt="20150902095251975197" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20150902095269776977.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20150902095269776977.jpg" alt="20150902095269776977" width="525" height=""></a></p>
-<p>各班级老师通过给孩子们讲过去那些可歌可泣的故事，弘扬抗战精神，让孩子们从小牢记历史，警钟长鸣，长大后学会居安思危，勇于担当。中、大班孩子还和老师们一起观看了《地道战》、《铁道游击队》、《小小新四军》、《啊 摇篮》和《小兵张嘎》等经典抗战题材影片，通过荧幕生动再现波澜壮阔的抗战历史画面</p></blockquote>
-<h3><span><strong>江苏盐城：</strong></span><strong><a href="http://www.yce.cn/ArticleShow.asp?ArticleID=56856">铭记历史  珍爱和平—-盐城市幼儿园举行“纪念中国人民抗日战争暨世界反法西斯战争胜利70周年”专题升旗仪式</a></strong></h3>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/201592161726533.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201592161726533.jpg" alt="201592161726533" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/201592161733835.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201592161733835.jpg" alt="201592161733835" width="525" height=""></a></p>
-<p>每个班级的主题墙都围绕“纪念中国人民抗日战争暨世界反法西斯战争胜利70周年”呈现，老师们个个精心设计，给孩子们准备了一张张抗战图片，讲述了一个个浅显易懂的抗战故事，还一起观看了一部抗战视频，孩子们看着、听着、想着、不由自主地说：“解放军叔叔真伟大！长大，我要当解放军！”</p></blockquote>
-<h3><span><strong>福建邵武：</strong></span><strong><a href="http://www.swjyj.com/show.aspx?id=13240&cid=12">我市学校开展抗日战争暨世界反法西斯战争胜利70周年主题教育活动</a></strong></h3>
-<blockquote><p>9月3日，第一幼儿园开展形式多样的抗日战争暨世界反法西斯胜利纪念日”主题教育活动。活动中，一幼教师们通过图片展示、观看视频、翻阅小人书、讲述抗战故事、学唱革命童谣、歌曲等方式，让幼儿了解历史，珍惜革命先烈用生命和鲜血换来今天来之不易的幸福生活；懂得贫穷落后遭受侵略屈辱，只有国富民强，科技进步国家才能强大，鼓励孩子从小学好本领，立志报国。</p></blockquote>
-<h3><span><strong>吉林延边：</strong></span><strong><a href="http://www.eduhc.org/Article/ShowArticle.asp?ArticleID=16647">三幼开展“纪念中国人民抗日战争胜利70周年”活动</a></strong></h3>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2015090211405765.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2015090211405765.jpg" alt="2015090211405765" width="480" height="360"></a></p>
-<p>看影片后，孩子们纷纷激动地分享自己的感受，表达了自己对解放军叔叔的崇敬和感激之情，珍惜今天的幸福生活。此次活动增强了孩子们对祖国的热爱，让孩子们小小的心灵中埋下了一颗火热的爱国种子。</p></blockquote>
-<h3><span><strong>福建福清：</strong></span><strong><a href="http://www.fqedu.gov.cn/html/view/2015/9/view-7780.html">康辉幼儿园举行纪念抗战胜利70周年暨开学典礼活动</a></strong></h3>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20150902084641320.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20150902084641320.jpg" alt="20150902084641320" width="500" height="375"></a></p>
-<p>康辉幼儿园本次纪念抗日战争暨世界反法西斯战争胜利七十周年主题升旗仪式的举办，让全体师、幼深刻感受到国富民强的自豪感，更加珍惜并感恩于今天这来之不易的幸福生活，也在孩子们幼小的心灵植下了崭新的童年梦——努力学习，长大后保家护国，强大中国贡献力量！</p></blockquote>
-<h3><span><strong>四川宜宾：</strong></span><strong><a href="http://edu.ybxww.com/content/2015-9/4/201594956549234278.htm">留耕镇幼儿园开展“纪念抗战胜利70周年”主题系列教育活动</a></strong></h3>
-<blockquote><p>开学后，各班级老师通过给孩子们讲过去那些可歌可泣的故事，弘扬抗战精神，让孩子们从小牢记历史，警钟长鸣，长大后学会居安思危，勇于担当。中、大班孩子还和老师们一起观看了《地道战》、《铁道游击队》、《王二小的故事》和《小兵张嘎》等经典抗战题材影片，通过荧幕生动再现波澜壮阔的抗战历史画面，深刻认识中国人民在抗日战争中万众一心，众志成城，用鲜血和生命铸就的伟大抗战实践。</p></blockquote>
-<h3><span><strong>甘肃平凉：</strong></span><strong><a href="http://www.pljyw.net/article-5442-1.html">华亭县幼儿园开展纪念抗日战争胜利暨世界反法西斯战争胜利70周年主题教育系列活动</a></strong></h3>
-<blockquote><p>给孩子们印象最深刻的是《鸡毛信》。该片讲述的是抗日战争时期的一位著名小英雄海娃，他机智、勇敢地给八路军送鸡毛信的故事。整个观看过程中，孩子们入情入境，沉浸于影片中一幅幅感人的画面之中，尽心品味，用心感悟。看完影片，孩子们感慨地说道：海娃那么小，就有着强烈的爱国精神，我们一定要向小海娃学习，把祖国建设的更加强大。</p></blockquote>
-<p><strong>附《共青团中央在青少年中广泛开展纪念中国人民抗日战争暨世界反法西斯战争胜利70周年群众性主题宣传教育活动的通知》中对活动内容的规定：</strong></p>
-<blockquote><p>三、主要内容</p>
-<p><strong>1．深入开展中国人民抗日战争胜利伟大意义的宣传教育。</strong>要引导青少年深刻认识到，抗日战争的伟大胜利彻底粉碎了日本军国主义殖民奴役中国的图谋，重新确立了中国在世界上的大国地位，开辟了中华民族伟大复兴的光明前景；深刻认识到，中国人民抗日战争的伟大胜利，显示了中华民族有同侵略者血战到底的气概、有在自力更生的基础上光复旧物的决心、有自立于世界民族之林的能力，全面提升民族自信心和自豪感。</p>
-<p><strong>2．深入开展中国共产党中流砥柱作用的宣传教育。</strong>要引导青少年深刻认识到，中国共产党捍卫民族独立最坚定、维护民族利益最坚决、反抗外来侵略最勇敢，是领导中国人民争取民族独立和人民解放的坚强核心；深刻认识到，只有中国共产党才能领导中国人民取得民族独立、人民解放和社会主义的胜利，才能开创中国特色社会主义道路，实现国家富强、民族振兴和人民幸福，不断增强中国特色社会主义的道路自信、理论自信和制度自信。</p>
-<p><strong>3．深入开展中国人民抗日战争是东方主战场的宣传教育。</strong>要引导青少年深刻认识到，中国人民抗日战争是世界反法西斯战争的东方主战场，中国主权、安全、发展利益和民族尊严绝不允许任何势力侵犯，同时任何力量也不能动摇我们坚持和平发展的信念；深刻认识到，中国人民是维护世界和平的坚定力量，同世界各国人民一道坚决捍卫中国人民抗日战争和世界反法西斯战争胜利成果，坚决维护战后国际秩序，始终不渝走和平发展道路，为建设持久和平、共同繁荣的和谐世界而不懈努力。</p>
-<p><strong>4．深入开展民族精神和抗战精神的宣传教育。</strong>要引导青少年深刻认识到，天下兴亡、匹夫有责的爱国情怀，视死如归、宁死不屈的民族气节，不畏强暴、血战到底的英雄气概，百折不挠、坚忍不拔的必胜信念共同构成了抗战精神的核心内容；深刻认识到，伟大的抗战精神丰富和升华了以爱国主义为核心的民族精神，是中国人民弥足珍贵的精神财富；深刻认识到，在实现中华民族伟大复兴中国梦的历史征程上，必须始终高扬爱国主义的伟大旗帜，大力弘扬民族精神和抗战精神，激励全体人民克服一切艰难险阻，沿着中国特色社会主义道路奋勇前进。</p></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗日真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1054,7 +1032,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d37cmfjdhe123l.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dclk0jekw5jtq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1064,5 +1042,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d37cmfjdhe123l.cloudfront.net">https://d37cmfjdhe123l.cloudfront.net</a><br/><a href="https://d1nax1airjs470.cloudfront.net">https://d1nax1airjs470.cloudfront.net</a><br/><a href="https://d1xvnvnzgmgzzt.cloudfront.net">https://d1xvnvnzgmgzzt.cloudfront.net</a><br/><a href="https://dj3ls9836jqb6.cloudfront.net">https://dj3ls9836jqb6.cloudfront.net</a><br/><a href="https://d2k1cw9w1f8vlf.cloudfront.net">https://d2k1cw9w1f8vlf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dclk0jekw5jtq.cloudfront.net">https://dclk0jekw5jtq.cloudfront.net</a><br/><a href="https://d1ma5alfn7y020.cloudfront.net">https://d1ma5alfn7y020.cloudfront.net</a><br/><a href="https://d2k1cw9w1f8vlf.cloudfront.net">https://d2k1cw9w1f8vlf.cloudfront.net</a><br/><a href="https://dj3ls9836jqb6.cloudfront.net">https://dj3ls9836jqb6.cloudfront.net</a><br/><a href="https://d1xvnvnzgmgzzt.cloudfront.net">https://d1xvnvnzgmgzzt.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d17xkgricyb7f2.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1k0etv8ojr9d3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d17xkgricyb7f2.cloudfront.net">https://d17xkgricyb7f2.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d1k0etv8ojr9d3.cloudfront.net">https://d1k0etv8ojr9d3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1k0etv8ojr9d3.cloudfront.net">https://d1k0etv8ojr9d3.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d17xkgricyb7f2.cloudfront.net">https://d17xkgricyb7f2.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/" target="cdt-mirror">明镜｜大阅兵：为专制与冷战加冕</a>
@@ -71,7 +71,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B%EF%BC%9A%E6%94%80%E6%88%90%E9%92%A2%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%B2%97/" target="cdt-mirror">墙外楼｜中国经济转型阵痛：攀成钢万人下岗</a>
 </h2>
@@ -1032,7 +1032,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1k0etv8ojr9d3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d17xkgricyb7f2.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1042,5 +1042,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0
                 <td></td>
                 
         
-        <td><a href="https://d1k0etv8ojr9d3.cloudfront.net">https://d1k0etv8ojr9d3.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d17xkgricyb7f2.cloudfront.net">https://d17xkgricyb7f2.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d17xkgricyb7f2.cloudfront.net">https://d17xkgricyb7f2.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d1k0etv8ojr9d3.cloudfront.net">https://d1k0etv8ojr9d3.cloudfront.net</a><br/></td>    </tr>
 </table>

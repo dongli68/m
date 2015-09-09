@@ -24,6 +24,37 @@
         <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E5%BD%93%E4%BB%96%E4%B8%8D%E5%90%AC%E8%AF%9D%E6%97%B6%E5%B0%B1%E6%89%BE%E4%BB%96%E7%9A%84%E5%AE%B6%E4%BA%BA/" target="cdt-mirror">王五四：当他不听话时就找他的家人</a>
+</h2>
+<p><p>本来打算有些事放到几年以后再说，不过现在就想说说，说说也无妨。你们看了这么久的文章，也该了解下作者“鲜为人知”的一面了。</p>
+<p>虽然我的文章都与时政相关，但私下里跟朋友跟同事跟家人我从来不谈这些，不但不主动谈甚至避谈，没有别的原因，我只是想把更多的时间用来享受生活和陪伴家人，我不愿意更多地介入到那些肮脏地事情里，但即便如此，我也不得不承认，我根本无法逃避，也无法视而不见，它们无处不在。我所做所写，只是基于内心基本而朴素的正义感，并没有什么值得称赞的，相反，我还会主动回避很多所谓的敏感话题，遇到褒奖时，我内心是不安的，因为我总会想起我那些因言获罪的朋友，他们至今依然不自由。</p>
+<p>今天，杭州国保找到我丈母娘家里了，在我举办婚礼的前夕，老人家自然担惊受怕，怕女儿嫁给坏人。他们第一次找到我老婆家里是几个月前，跟她父母进行了深入交流，后来也去找了我老婆和她单位，这当然令我很生气，但作为准家属我“情绪稳定”，因为除非你变成绿巨人，否则再有情绪也没用。那时我和媳妇还没领证，不过因为这件事，我老婆决定跟我领证了，我挺感谢她的。其实我并不觉得自己做错过什么，也没有什么违法犯罪的行为，相反我觉得自己是一个不正常社会下的正常人，当然你也可以把我看作正常社会下的不正常人，我很感谢我的父母，他们没有教给我很多知识，但教会了我做人的基本道理。</p>
+<p>对于普通人来说，当警察找上门要跟你谈谈你孩子“鲜为人知”的一面时，这当然不是什么好事，即便没有任何实质问题，亲人自然也会担惊受怕，当警察上门时，那种大国下小民的恐慌可见一斑。曾经，警察以我练某功为名上门找过家人，我当然没有练；以我去北京上访为名找过我家人，我当然没有上访；以了解我个人近况为名找过我单位，我当然是个优秀员工……,然并卵。这么多年，我并不害怕这些，我没有做错过什么，我只是瞧不上这种蛮横的行为，有些时候还会感觉恶心，不过我一次一次变得越来越“乖”，但那种感受……,你懂的。</p>
+<p>我身边的朋友、同事自然不知道我这些“鲜为人知”的一面，我也不愿提起，因为我知道你们都是正常人，此次说明，只是感觉“丑媳妇总要见公婆”。程益中老师今天发了篇文章叫《中国最大的糟粕，就是所谓的做人学问》，他说“中国人缺乏的是率真和纯粹。中国到处充斥着各式各样、似是而非的做人做官的学问、庸俗管理的学问，其祖师爷都是厚黑学和潜规则。从这些学问那里，我看到的都是争先恐后的、创造性的无耻。我经常会觉得有点不可思议，怎么那么多教人做人的学问里边，都不教人怎样做一个正直、正派和有道义的人，反过来都教人怎么做一个圆滑、世故和不吃亏的人。”，我很认同程老师的话，但也理解那些普通人的世故和圆滑，每当有人问我自己该做些什么时，我一直说的是，过好自己的生活，照顾好自己的家人。凯尔泰斯在《船夫日记》里说过这样一句话：生存即屈从。有人是这样理解屈从的，“屈从不是投降，只是不去做那种身体的或者强硬的抗争，因为那样做没有意义，那样做肉体和精神都会被消灭，屈从应该是这样，低头沉默，不与极权为伍，不做同谋，在存活的过程中保持独立”，实际上，这非常难，但好像也别无选择。</p>
+<p>今天有个朋友是这么评价程益中老师的文章的，“因着这做人的学问，尽管我极认同本文，却不能分享到朋友圈，可悲。”，我能理解她的心情，但我比她做的多了一点，分享了这篇文章，现在做的更多了一点，讲述了一些与自己有关的故事，故事总是要故去，我还是那个简单的人，有自己的爱好和专长，凭良心活着，屈从也好，反抗也罢，有恐慌而没有惧怕，顶多有点被恶心到了，一直记着我朋友昆仑风的母亲面对文革中殴打她的人说的那句话：我瞧不上您。我爹知道他们找我的事情后说，尽量少写，这些人很坏的。</p>
+<p>看到这篇文章的朋友们不必惊奇,我不是坏人，也不必问候，我一切都好，用《中国好声音》里选手们傲娇的口号说就是：我一定会勇敢的唱下去的。唱个歌而且还唱那么好，需要什么勇敢？又不会有警察找你爹妈。</p>
+<p>我写过一篇《我爹和我的婚事》，写得很隐晦，但其实那是杭州警察第一次找到我媳妇她家时写的，我爹当时正在杭州，和丈母娘商讨婚事。贴出来再看下：</p>
+<p>我爹关了灯躺在小房间，我关了灯坐在客厅，黑暗中我听到我爹在抽烟，也听到了自己的眼泪撞击地板的声音，啪啪啪，我想，哭得再厉害点，这就是在给楼上的男女配音了。</p>
+<p>晚饭我炒了一个菜，我爹做了两个菜，他喝了两个瓶子里的残酒，我吃了一大碗剩饭，我们一句话都没说，但都知道对方心里很难过。我爹肯定在想，这么好的儿子怎么就娶不到媳妇，我也在想，这么好的自己怎么就娶不到媳妇。</p>
+<p>我知道我爹又上火了，打我二十八岁起，他就为我操碎了心，准确地说是为了我的婚事。为了能让一个女人跟我结婚，他几乎付出了全部的物质和诚心，几近讨好。而我也用尽全力配合着，用力讨好一个女人，用力爱一个女人，用力睡一个女人，可生活却总是用力给我一个耳光，而且是当着我爹的面打的，弄得我们俩都很心碎。</p>
+<p>记得我爹有一次喝多了酒，打电话训我：你就整天在外面胡搞吧，连个媳妇都没有。当时我委屈的差点哭了，心里大喊：你儿子是有条件胡搞的人吗？爱得很深沉，睡得很专一。</p>
+<p>从小到大我爹跟我说话不多，我跟我爹也没什么交流的，最多就是饭桌上一举杯：喝。我娘说我爹脾气很差，其实我觉得我爹脾气很好，跟我一样，我们基本不在清醒的时候骂人，只是喝多了才会怒斥。三十多年了，我爹只骂过我两次，第一次是在初中，他喝了酒：怎么才考了全县六十多名！第二次就是上一段。</p>
+<p>我跟我爹都不太会表达感情，但我们都属于爱得深沉地那种，我比我爹好点，不愿说但能写出来，他写也不会，只有在喝多的时候跟我说：不是不让你妈打麻将，她一输就上火。就像现在，他一句话不跟我说就进屋了，我知道他心里知道我心里难受，而我心里，也是这样知道他的。</p>
+<p>外面的工地还在施工，但我依然能听到我爹的呼吸声渐渐沉重起来，他终于睡着了，带着满身的疲倦。明早七点他就要踏上返乡的列车，我却不知道自己何时能踏上归途，我很羡慕我爹，有我这样一个好儿子。</p>
+<p>我爹把家里所有的钱都带给我了，但我如何跟我爹解释，这不是花钱日下的事，而是世风日下的事。</p>
+<p>我很想跟我爹讲讲前几天疯转的小伙泡女神的事：“一个小伙A用2000元其中的1500元给女神买了三星手机，留500元吃饭开房，骑着电瓶车去找妹子，女神说:你是一个好人，可是我们真的不合适。一个小伙B也有2000元，用700元租了一辆BMW,然后去批发市场300元买了99朵玫瑰，告诉女神，他喜欢手牵手去那些浪漫的小吃店100元，还剩900元，找了五星级酒店的海景房，当晚妹子就跟他睡了，而且说是因为爱情。。。。”。我很想告诉我爹，我只能当A型男啊，因为B很傻逼，要是当了B，完事后女神肯定很感动地跟小姐们说：这暖男对我真好，明明可以花五百块包宿不限次数，他却非要花心思，明明可以花钱日下，他却非要花前月下。</p>
+<p>我爹不懂互联网思维，我还是不跟他讲了。</p>
+<p>我爹说，他再也不来我这个城市了，我知道，他已经年岁很大了。再也不会有人坐二十四个小时的硬座来看我了。</p>
+<p>钱还是要收，硬广还是要插的，点击阅读原文是卖海参的，品质没问题，懂行的人知道性价比挺好，入秋了，有需要可买点。 <a href="http://weidian.com/?userid=281827955&src=shop&from=singlemessage&isappinstalled=0#rd">阅读原文</a></p>
+<p><img src="https://chinadigitaltimes.net/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" alt=""><img src="http://mmbiz.qpic.cn/mmbiz/s0oo4J3NZhYibwNdFwWcb2PedEVxQCqwcIeZgD3OLqnibticnOH9k7kMVibOLicicNibEjmR0EvnZSNbj67JXpHZgbgUg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E5%BD%93%E4%BB%96%E4%B8%8D%E5%90%AC%E8%AF%9D%E6%97%B6%E5%B0%B1%E6%89%BE%E4%BB%96%E7%9A%84%E5%AE%B6%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%88%E6%AF%8D%E5%A8%98/?category=18271" rel="tag">丈母娘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E6%87%82%E7%9A%84/?category=18271" rel="tag">你懂的</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%BB%E9%80%BC/?category=18271" rel="tag">傻逼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AD%E8%89%AF%E5%BF%83/?category=18271" rel="tag">凭良心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E4%BA%89/?category=18271" rel="tag">抗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83/?category=18271" rel="tag">极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%9A%97/?category=18271" rel="tag">黑暗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/" target="cdt-mirror">【CDTV】中国的秘密：惊人的贫富差距</a>
 </h2>
 <p><p>@阿尔法字幕组：【BBC中国的秘密第三集：惊人的贫富差距】钱就是软实力，壕不壕都在拼爹。爹不给力的，都沉默地任劳任怨。亲爹给力的，抱上大腿，就在灯红酒绿中挥金如土。吃够生猛海鲜也好，吃腻包子馒头也罢。这就是一个钱决定命运的国度。</p>
@@ -86,7 +117,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗战历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%85%E4%BA%8E%E8%BD%BC/?category=18271" rel="tag">茅于轼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%95%91%E7%81%BE%E6%8A%A5%E9%81%93%E6%A0%87%E5%87%86%E6%B5%81%E7%A8%8B%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B%EF%BC%9A%E5%8F%B0%E9%A3%8E/" target="cdt-mirror">【立此存照】救灾报道标准流程操作实例：台风“苏迪罗”</a>
 </h2>
@@ -893,90 +924,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8841%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E7%94%9F%E8%AE%BF%E6%97%A5/" target="cdt-mirror">成田机场日记（41）：欢迎习近平先生访日</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/01/11130.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/01/11130.jpg" alt="冯正虎" width="349" height="209"></a></p>
-<p>五年前，中国发生一个荒唐的故事，一个震惊世界的事件。中国公民冯正虎被上海当局八次拒绝回国，于2009年11月4日起露宿于日本东京成田国际机场92天。每天睡在长椅子上，没有洗澡，最初几天没有食品，只能以自来水维持生命，后来依靠入境日本的中国大陆、香港、台湾民众及海外华人、外国友人的食 品空运援助。他成了一个不能回到自己国家的中国公民，一个上演了好莱坞电影《幸福终点站》真人版的悲剧人物。</p>
-<p>2010年2月12日，冯正虎在中国驻日大使馆的帮助下回到自己的祖国。中国政府依法让冯正虎回国，已在政治大局上纠正上海违法官员的错误，赢得民心与挽回国家的尊严。冯正虎的成田机场日记记载了这一段历史，现在连载公开，与读者分享。</p>
-<p>——————</p>
-<p><strong>成田机场日记（41）：欢迎习近平先生访日 / 12月13日</strong></p>
-<p>今天12月13日，是我在日本国门外露宿的第40天。</p>
-<p>12：30，今天当班的首席审查官又来向我提交第11份官方文件，内容与昨天一样，日期是新的，并与他合影一张。我也将《冯正虎向中国政府转呈12月13日的日本官方文件（总第11份）》一文送网络媒体发表，并附上日本官方文件的照相件。</p>
-<p>上午至现在除了接听几个问候电话之外，我在写作。</p>
-<p>谢谢大家的关心。明天晚上有朋友会带一个USB接口的小键盘。现在，用屏幕键盘打字速度很慢，偶尔用还可以，用它来写作太痛苦了。</p>
-<p>下午16:20许，日本共同社记者从北京回日本顺道来看望我，我们聊了一会。</p>
-<p>晚上，《欢迎习近平先生访日》一文完稿，托人用日本邮政快件寄送中国驻日大使馆转呈。</p>
-<p><em><strong>附录：欢迎习近平先生访日</strong></em></p>
-<blockquote><p><strong> </strong>尊敬的习近平先生：</p>
-<p>欢迎您访问日本。</p>
-<p>虽然我被中国官员无法无情地剥夺回国权，已露宿日本国门外40天，但仍以平常的心态祝愿你访问日本顺利愉快。如果您觉得我的事件让您尴尬，是我们中国人的国耻，这表明中国有希望，知耻者近乎勇。</p>
-<p>我今年4月1日合法出国，6月7日回上海就被禁止入境回国。上海当局连续八次拒绝中国公民回国，甚至最后还用暴力手段将中国公民绑架至日本，真是世界奇闻，怎么不引起全世界媒体及民众的兴趣呢？当然，中国人闻之，只是悲哀与愤慨。我抗议非法绑架，拒绝入境日本，坚守一个中国人的尊严，至今已露宿日本国门外。我处于有家不可归的困境中，得到中国民众的直接关怀与帮助，还有众多的外国民众的援助，但是应该履行保护自己国民的中国政府却漠不关心，至今驻日中国大使馆也没有派一个工作人员去关心或沟通。</p>
-<p>在拒绝我回国的事件中，日本政府的表现或许令中国政府满意，但肯定使中国人民不满意，日本官员为了对中国官员的友爱，可以对一个中国平民不友爱，也可以放弃自己国家的立国原则及法统。因为刚刚上台的日本政府太需要中国政府的支持，近几年指望不了美国的经济复苏，就需要中国的市场来打气，与美国叫板，必须要有个东亚共同体压台。世界政治就是互相利用，谁都懂这个道理。所以，您这次访日一定很风光、很顺利，至于签订的协议是否兑现这是以后的事。</p>
-<p>日本政治家很清楚他们在与一个连自己法律都无法完全兑现的国家签约，但他们需要现在的面子。您作为中国的最高领导人肯定也清楚，当您受到日本天皇隆重接见时，您的同胞仍在日本的国门外忍受精神上的羞辱与身体上的折磨，这些日本政治家为什么要这样讨好您呢？而且这个露宿在日本国门外的人还是15年前将当年在野党、现在最强势的日本政治家小泽一郎的理想《日本改造计划》介绍给中国的中国人（中译本由上海远东出版社出版，1995年，译者：冯正虎、王少普）。</p>
-<p>您12月14日访问日本，正巧是我被中国绑架到日本、露宿日本国门外41天。无独有偶。今年2月15日我被上海政府工作人员从北京绑架到上海，非法拘禁在海军东湖招待所508室，3月25日被释放，也是41天。同样是无法无理，只是上级领导的一句话。我已经向上海市人民检察院提出控诉、也像上海第二中级人民法院提出行政诉讼，但至今未立案。握有公权的地方政府官员都敢无法无天，这个国家失控了，人人都会没有安全感，包括您。我是不赞成绝食的，但是在上一次被非法绑架拘禁中也进行二天绝食抗议，为中国的宪法法律遭受践踏、担忧胡锦涛等中央领导人将来也会在北京遭受地方权贵绑架而绝食警世。</p>
-<p>今天您来日本访问，您可以换位体验一下。如果您回到北京机场时，几十个警察围住您，其中一个向您宣布：习近平先生，您这次不能入境回国了，这是上级领导的决定。然后什么法律依据、什么理由也没有，就强制遣送回日本。如果您抗拒，就用暴力手段把您绑架至日本。如果您不屈服，坚守中国人的尊严，就会露宿日本国门外，挨饿抗争，向全世界、中国政府表达一个中国公民回国回家的基本诉求。这个遭遇发生在我身上，也会发生在任何中国公民的身上，包括您。因为当您碰到这个遭遇时，这些警察指的上级领导，肯定不是您，也不会认可您的职位，只服从发给他们工资的直接领导。我们的国家已经发生这些荒唐的事情，而且做这样违法的事已经成为习惯，您不觉得可怕吗?</p>
-<p>您是从上海调入北京工作的，虽然在上海的工作时间很短，但也应该了解上海官民矛盾紧张的情况。您来上海工作时，上海市民对您的期望很大。在寄送给您的第2期《督察简报》上就发表我的文章《习近平应当关注的上海问题——-司法不公正是上海社会不和谐的祸根》（2007年7月15日）。这份《督察简报》现在已出版到第30期，大部分文章都是揭露与批评上海政府的问题。上海的领导人怕民众，总是草木皆兵、无事生非，一有会议或敏感时期就指使警察随心所欲地非法限制上海市民的人身自由，某些警察还会唆使雇用的社会闲散人员去执行他们的违法指示，居然让一些没有任何执法权的公民去强行剥夺另一些个公民的人身自由权利，大搞文化大革命的恐怖主义，利用群众斗群众，搞得上海乌烟瘴气、人心惶惶。我在第14期《督察简报》（2008年10月31日）的一篇报告《誓死捍卫中国宪法与公民权利》已指出：</p>
-<p>“潘多拉魔盒的打开，上海人民的灾难就开始了。一小撮便衣警察与一大批游手好闲的社会保安人员无法无天、随心所欲，想绑架谁就绑架谁，想拘禁谁就拘禁谁，想堵谁家的门就堵谁家门，不需要执法证件，不需要任何法律依据。他们公然叫嚣：“不懂法，是领导叫我们来做的。”当受害者要求他们出具限制公民人身自由的法律凭证时，他们都会摆出一付地痞流氓恶霸的架势，甚至还会反问受害者：“为什么我要管你，不管别人？”如果这个侵犯的理由成立，那么这个社会就不需要法律，就没有公正与安全，公检法也就名存实亡。杀人犯也可以说：为什么我杀你，不杀别人。抢劫犯也可以说：为什么我抢劫你，不抢劫别人。小偷也可以说：为什么我偷你，不偷别人。按照这个强盗逻辑，杀人抢劫盗窃都是正当的，而受害人是活该受罪。过去我耳闻目睹成千上海市民遭受这种迫害，今天我自己也亲身经历了，明天其他市民，包括警察、检察官、法官、更多的公务员及其亲属也会遭遇这种苦难，不久的将来俞正声、韩正、刘云耕、吴志明的家门口也会遭受这些“红卫兵老将”的骚扰。现在这些躲在暗处指挥这些“红卫兵老将”的大小权贵很得意，欣赏受害者的痛苦挣扎，但是他们最后也会遭到报应，而同样惨死于他们放出的魔鬼手中。难道中国人民忘了文化大革命的惨痛教训了吗？难道我们都忘了国家主席刘少奇死得多么凄惨吗？胡锦涛先生应该记住，俞正声先生更应该记住，你们的亲属也有过苦难的经历。”</p>
-<p>您们现在没有碰到我的厄运，但不能保证不久的将来不会遭受这些厄运，因为我们生活在同样一个国家。我爱自己的祖国、坚守中国宪法法律、支持中共“以人为本、执政为民、依法治国”的政治路线，这些基本点上我与您、胡锦涛主席以及中共党内许多干部是一致的。我们不同的是，您们是中共党员、我不是，您们是中国的高级领导人，我是一介平民。当然，我不是1989年凭良心反对武力镇压学生民主运动，或许今天的仕途也是中共中央委员。所以，党员、官位都会变化的，不是人身安全的保护伞。当年您们的父辈都是赫赫有名的中国大官，但同样无法逃脱文化大革命的遭遇。一个国家的治理不是依据人人平等的法律，而是依据领导的权势喜怒，这个国家怎么会不乱呢？你抢我夺，人人没有安全。中国上千万个大小领导个个都是诸侯，都可以随意动用警察等国家机器，在外国人眼里他们的行为都是代表中国政府的，中国政府是“子不教，父之过”。</p>
-<p>关于中国公民被上海警察用暴力绑架至日本、露宿日本国门外40天的事件，全世界主要媒体都在不断报道，中国民众、海外华人都在谴责与声援，但是中国政府至今未反应。外界批评中国政府是无赖，死猪不怕烫。我认为这个判断是错误的。在国际社会，中国不是超强国家，没有无赖的实力，而且它是联合国常务理事国，还没有落魄到朝鲜的地步。它不是无赖，而是无能，面对突发的国际事件不知所措、无可奈何，只好自毁声誉。体制僵化、官员素质低下，使中国政府预知、应付、处理突发危机事件的能力极差。把一个仅是帮助几个访民依法维权、根本不构成威胁国家政权的人，逼出国门，制造出一个轰动世界的国际事件，一个荒唐的国耻，这就是上海官员的愚蠢、霸道、无能的杰作。现在，中国政府已经明白，中国公民捍卫回国回家权利的决心与毅力，世界舆论、中国民众及海外华人的态度。</p>
-<p>不让本国公民回国回家，不仅违反联合国宪章、国际人权条约，也违反中国宪法法律，还违背中国的道德伦理人之常情。中国政府应当废除剥夺中国公民回国权的违法措施。中国共产党已执政60年，宪法法律是共产党主导下制定的，立法、司法、政府部门绝大部分工作人员是共产党员，作为执政党应该有点底气，有点自信，没有必要整天草木皆兵，更不可以把公民权利异化为惩罚或恩赐的工具，毁坏了国家的根本大法。让所有的中国人，包括海外华人，都可以自由往来自己的祖国，消除每一个中国人回国出国的恐惧，让祖国变得更美好、更亲切。</p>
-<p>现在，日本国门外的入境审查大厅是我的暂住地，一个有国难回的中国流浪汉已适应这里的生活，就慢慢等您们这些领导人好好商定吧。但是，日本官员没有耐心了。从12月3日起，每天发一个中日文的文件给我，内容一样，仅是日期更改一下，提交仪式规范，，还拍照为证。他们知道，这个文件发给我没有什么用处，或许是让我转交给中国政府。中国政府让我回国，就不会在这里麻烦他们了。现在很滑稽，日本的政府没有向中国政府或中国驻日大使馆提出抗议，而将日本官方的文件直接发给一个在日本国门外的中国公民，或许这是中日外交的新形式。我也每天通过媒体转呈中国政府，现在已第11份。天天持续发文下去，又是世界奇闻了。希望您能关注，不要让日本政府为难了。</p>
-<p> </p>
-<p>此致</p>
-<p>敬意</p>
-<p>中国公民：冯正虎</p>
-<p>2009年12月13日</p></blockquote>
-<p>注：本信用日本邮政快件(编号：9975-5400-1124)寄送中国驻日大使馆转呈。</p>
-<p>——————</p>
-<blockquote><p>相关阅读：</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%881%EF%BC%89%EF%BC%9A%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD/">成田机场日记（1）：禁止中国公民冯正虎回国</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%882%EF%BC%89%EF%BC%9A%E5%BC%BA%E8%A1%8C%E6%8A%BC%E9%80%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%86%AF%E6%AD%A3%E8%99%8E%E5%8E%BB%E6%97%A5/">成田机场日记（2）：强行押送中国公民冯正虎去日本</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%883%EF%BC%89%EF%BC%9A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E8%A2%AB%E8%BF%AB%E7%BB%9D%E9%A3%9F/">成田机场日记（3）：在东京成田机场被迫绝食</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%884%EF%BC%89%EF%BC%9A%E5%9D%9A%E5%AE%88%E5%81%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%B0%8A%E4%B8%A5/">成田机场日记（4）：坚守做中国人的尊严</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%885%EF%BC%89%EF%BC%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%EF%BC%8C%E8%AA%93%E6%AD%BB%E5%9B%9E%E5%9B%BD/">成田机场日记（5）：破釜沉舟，誓死回国</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%886%EF%BC%89%EF%BC%9A-%E4%B8%8E%E7%8E%8B%E5%AE%B6%E7%91%9E%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%85%A5%E5%A2%83%E5%8F%A3%E7%9B%B8%E9%81%87/">成田机场日记（6）： 与王家瑞在日本入境口相遇</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%887%EF%BC%89%EF%BC%9A%E5%90%91%E5%86%AF%E6%AD%A3%E8%99%8E%E6%8F%B4%E5%8A%A9%E4%B8%80%E5%8C%85%E9%A5%BC%E5%B9%B2/">成田机场日记（7）：向冯正虎援助一包饼干</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%888%EF%BC%89%EF%BC%9A-%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E5%8F%8B%E7%88%B1/">成田机场日记（8）： 日本人的友爱</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%889%EF%BC%89%EF%BC%9A%E7%BD%91%E7%BB%9C%E4%B8%93%E5%AE%B6%E6%AF%9B%E5%90%91%E6%99%96%E7%9A%84%E6%8F%B4%E5%8A%A9/">成田机场日记（9）：网络专家毛向晖的援助</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8810%EF%BC%89%EF%BC%9A%E4%B8%8D%E7%A7%BB%E5%8A%A8/">成田机场日记（10）：不移动</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8811%EF%BC%89%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E9%99%88%E5%B7%A7%E6%96%87%E9%80%81%E9%A3%9F%E5%93%81/">成田机场日记（11）：香港大学学生陈巧文送食品</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8812%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%AE%BF%E9%97%AE%E4%B8%AD%E6%97%A5/">成田机场日记（12）：欢迎美国总统奥巴马访问中日</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8813%EF%BC%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E8%83%BD%E5%9B%9E%E5%9B%BD%EF%BC%8C%E8%B0%81%E8%83%BD%E7%9B%B8%E4%BF%A1/">成田机场日记（13）：中国公民不能回国，谁能相信？</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/01/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8814%EF%BC%89%EF%BC%9A%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8A%A9%E6%89%8B%E9%AB%98%E8%8A%9C%E4%B8%8E%E8%8B%B1%E5%9B%BD%E9%87%91%E8%9E%8D%E6%97%B6/">成田机场日记（14）: 艾未未助手高芜与英金融时报记者的现场采访</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8815%EF%BC%89%EF%BC%9A%E4%B8%8D%E8%AE%A9%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%9B%BD%E8%80%BB/">成田机场日记（15）：不让冯正虎回国是我们的国耻！</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8816%EF%BC%89%EF%BC%9A%E8%B0%A2%E7%BB%9D%E4%BA%86%E8%81%94%E5%90%88%E5%9B%BD%E9%9A%BE%E6%B0%91%E7%94%B3%E8%AF%B7/">成田机场日记（16）：谢绝了联合国难民申请</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8817%EF%BC%89%EF%BC%9A-%E8%B5%A2%E5%BE%97%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E7%9A%84%E4%BF%A1%E4%BB%BB%E4%B8%8E%E5%B0%8A%E9%87%8D/">成田机场日记（17）： 赢得日本官员的信任与尊重</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8818%EF%BC%89%EF%BC%9A-%E8%89%BE%E6%9C%AA%E6%9C%AA%E7%AD%89%E5%8F%8B%E4%BA%BA%E7%9A%84%E7%9C%9F%E6%83%85%E4%B8%8E%E6%B8%A9%E6%9A%96/">成田机场日记（18）： 艾未未等友人的真情与温暖</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8819%EF%BC%89%EF%BC%9A%E6%9D%A5%E8%87%AA%E5%9B%BD%E5%86%85%E4%B8%80%E4%BD%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%9F%AD%E4%BF%A1/">成田机场日记（19）：来自国内一位大学生的短信</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8820%EF%BC%89%EF%BC%9A-%E5%85%AD%E5%9B%9B%E5%AD%A6%E7%94%9F%E9%A2%86%E8%A2%96%E7%8E%8B%E4%B8%B9%E7%9A%84%E7%94%B5%E8%AF%9D%E9%97%AE/">成田机场日记（20）： 六四学生领袖王丹的电话问候</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8821%EF%BC%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%B4%BB%E5%8A%A8%E5%AE%B6%E5%86%AF%E6%AD%A3%E8%99%8E/">成田机场日记（21）：中国人权活动家冯正虎</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8822%EF%BC%89%EF%BC%9A-%E5%85%A8%E7%90%83%E7%9F%A5%E6%99%93%E7%9A%84%E6%96%B0%E9%97%BB%E4%BA%BA%E7%89%A9/">成田机场日记（22）： 全球知晓的新闻人物</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/02/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8823%EF%BC%89%EF%BC%9A%E5%91%8A%E7%A4%BA%E6%9D%BF%E7%9A%84%E4%BA%89%E8%AE%AE/">成田机场日记（23）：告示板的争议</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8824%EF%BC%89%EF%BC%9A-%E4%B8%AD%E5%9B%BD%E6%B0%91%E9%98%B5%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%8E%B0%E5%9C%BA%E6%85%B0%E9%97%AE/">成田机场日记（24）： 中国民阵领导人现场慰问</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8825%EF%BC%89%EF%BC%9A-%E5%90%84%E5%9B%BD%E6%B0%91%E4%BC%97%E5%85%B3%E7%88%B1%E7%9A%84%E5%B0%8F%E5%AD%A9/">成田机场日记（25）： 各国民众关爱的“小孩”</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8826%EF%BC%89%EF%BC%9A-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE/">成田机场日记（26）： 中国外交部发言人答记者问</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8827%EF%BC%89%EF%BC%9A-%E7%BB%88%E4%BA%8E%E7%9C%8B%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8E%A8%E7%89%B9/">成田机场日记（27）： 终于看到自己的推特</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8828%EF%BC%89%EF%BC%9A-%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/">成田机场日记（28）： 美国芝加哥的中国留学生</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8829%EF%BC%89%EF%BC%9A%E7%BE%8E%E5%9B%BDcnn%E9%87%87%E8%AE%BF%E5%86%AF%E6%AD%A3%E8%99%8E/">成田机场日记（29）：美国CNN采访冯正虎</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8830%EF%BC%89%EF%BC%9A%E5%A4%A9%E4%B8%8B%E6%B2%A1%E6%9C%89%E7%99%BD%E5%90%83%E7%9A%84%E5%8D%88%E9%A4%90/">成田机场日记（30）：天下没有白吃的午餐</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/03/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8831%EF%BC%89%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%8F%B8%E5%BE%92%E5%8D%8E%E9%A2%86%E9%98%9F%E8%B5%B4/">成田机场日记（31）：香港支联会主席司徒华领队赴现场慰问</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8832%EF%BC%89%EF%BC%9A%E5%AE%B6%E4%B9%A1%E4%BA%BA%E8%A7%81%E9%9D%A2%E6%A0%BC%E5%A4%96%E4%BA%B2/">成田机场日记（32）：家乡人见面格外亲</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8833%EF%BC%89%EF%BC%9A-%E5%90%91%E8%83%A1%E9%94%A6%E6%B6%9B%E8%BD%AC%E5%91%88%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E7%9A%84/">成田机场日记（33）： 向胡锦涛转呈日本政府的“劝告书”</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8834%EF%BC%89%EF%BC%9A-%E4%B8%8A%E6%B5%B7%E7%A9%BA%E5%A7%90%E7%9A%84%E4%BF%9D%E6%B8%A9%E6%9D%AF/">成田机场日记（34）： 上海空姐的保温杯</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/04/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8835%EF%BC%89%EF%BC%9A%E8%AF%89%E9%98%BB%E6%AD%A2%E5%86%AF%E6%AD%A3%E8%99%8E%E5%9B%9E%E5%9B%BD%E7%9A%84%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%AE%B6/">成田机场日记（35）：诉阻止冯正虎回国的中美两家航空公司</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8836%EF%BC%89%EF%BC%9Anhk%E5%B0%8F%E6%9E%97%E5%90%9B%E7%9A%84%E9%87%87%E8%AE%BF/">成田机场日记（36）：NHK小林君的采访</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8837%EF%BC%89%EF%BC%9A-%E3%80%8A%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0%E3%80%8B%E5%8F%91%E8%A1%A8%E4%B8%80%E5%91%A8%E5%B9%B4/">成田机场日记（37）： <零八宪章>发表一周年</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/06/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8838%EF%BC%89%EF%BC%9A-%E4%BA%BA%E6%9D%83%E6%97%A5%E6%88%91%E4%BC%91%E6%81%AF/">成田机场日记（38）： 人权日我休息</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8839%EF%BC%89%EF%BC%9A-%E8%8D%A3%E8%8E%B7%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5%E8%87%AA%E7%94%B1%E5%85%88%E9%94%8B%E5%A5%96/">成田机场日记（39）： 荣获北京之春自由先锋奖</a>》</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/07/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8840%EF%BC%89%EF%BC%9A%E5%91%A8%E5%85%AD%E3%80%81%E5%91%A8%E6%97%A5%E4%B8%8D%E6%8E%A5%E5%BE%85%E7%8E%B0%E5%9C%BA%E9%87%87%E8%AE%BF/">成田机场日记（40）：周六、周日不接待现场采访</a>》</p></blockquote>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA%E6%97%A5%E8%AE%B0%EF%BC%8841%EF%BC%89%EF%BC%9A%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E7%94%9F%E8%AE%BF%E6%97%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E6%AD%A3%E8%99%8E/?category=18271" rel="tag">冯正虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E7%94%B0%E6%9C%BA%E5%9C%BA/?category=18271" rel="tag">成田机场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%90/?category=18271" rel="tag">民运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">海外华人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -988,7 +935,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3ed5cdu78glmc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -998,5 +945,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ed5cdu78glmc.cloudfront.net">https://d3ed5cdu78glmc.cloudfront.net</a><br/><a href="https://ddew3m2izdhgz.cloudfront.net">https://ddew3m2izdhgz.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d1h4ywypi92lps.cloudfront.net">https://d1h4ywypi92lps.cloudfront.net</a><br/><a href="https://d1g0x2m6y3vrlt.cloudfront.net">https://d1g0x2m6y3vrlt.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d29wlidzsw9r6w.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4e6ggv342r6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d34czd3bso0uud.cloudfront.net">https://d34czd3bso0uud.cloudfront.net</a><br/><a href="https://d2h5gjz8t4szjo.cloudfront.net">https://d2h5gjz8t4szjo.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://db4e6ggv342r6.cloudfront.net">https://db4e6ggv342r6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4e6ggv342r6.cloudfront.net">https://db4e6ggv342r6.cloudfront.net</a><br/><a href="https://d34czd3bso0uud.cloudfront.net">https://d34czd3bso0uud.cloudfront.net</a><br/><a href="https://d2h5gjz8t4szjo.cloudfront.net">https://d2h5gjz8t4szjo.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%8C%85%E4%BA%8E%E8%BD%BC%E5%8A%A0%E5%85%A5%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E8%AE%BA%E6%88%98%E5%BC%95%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 中国学者茅于轼加入抗战历史论战引热议</a>
@@ -61,7 +61,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗战历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%85%E4%BA%8E%E8%BD%BC/?category=18271" rel="tag">茅于轼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%95%91%E7%81%BE%E6%8A%A5%E9%81%93%E6%A0%87%E5%87%86%E6%B5%81%E7%A8%8B%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B%EF%BC%9A%E5%8F%B0%E9%A3%8E/" target="cdt-mirror">【立此存照】救灾报道标准流程操作实例：台风“苏迪罗”</a>
 </h2>
@@ -1007,5 +1007,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://db4e6ggv342r6.cloudfront.net">https://db4e6ggv342r6.cloudfront.net</a><br/><a href="https://d34czd3bso0uud.cloudfront.net">https://d34czd3bso0uud.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/><a href="https://d2h5gjz8t4szjo.cloudfront.net">https://d2h5gjz8t4szjo.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4e6ggv342r6.cloudfront.net">https://db4e6ggv342r6.cloudfront.net</a><br/><a href="https://d2h5gjz8t4szjo.cloudfront.net">https://d2h5gjz8t4szjo.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d34czd3bso0uud.cloudfront.net">https://d34czd3bso0uud.cloudfront.net</a><br/><a href="https://d18stcdued5fi6.cloudfront.net">https://d18stcdued5fi6.cloudfront.net</a><br/></td>    </tr>
 </table>

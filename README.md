@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1t3vd9m4zwuw4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3vxsa57e1hhfv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%8C%85%E4%BA%8E%E8%BD%BC%E5%8A%A0%E5%85%A5%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E8%AE%BA%E6%88%98%E5%BC%95%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 中国学者茅于轼加入抗战历史论战引热议</a>
@@ -237,7 +237,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B%EF%BC%9A%E6%94%80%E6%88%90%E9%92%A2%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%B2%97/" target="cdt-mirror">墙外楼｜中国经济转型阵痛：攀成钢万人下岗</a>
 </h2>
@@ -997,7 +997,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2rb0pp492fvlr.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2gtt9twkvojbz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1007,5 +1007,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2gtt9twkvojbz.cloudfront.net">https://d2gtt9twkvojbz.cloudfront.net</a><br/><a href="https://d1t3vd9m4zwuw4.cloudfront.net">https://d1t3vd9m4zwuw4.cloudfront.net</a><br/><a href="https://d3vxsa57e1hhfv.cloudfront.net">https://d3vxsa57e1hhfv.cloudfront.net</a><br/><a href="https://d2rb0pp492fvlr.cloudfront.net">https://d2rb0pp492fvlr.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1z2yyj2x19v6b.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dvewpswql1hhu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1z2yyj2x19v6b.cloudfront.net">https://d1z2yyj2x19v6b.cloudfront.net</a><br/><a href="https://dvewpswql1hhu.cloudfront.net">https://dvewpswql1hhu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dvewpswql1hhu.cloudfront.net">https://dvewpswql1hhu.cloudfront.net</a><br/><a href="https://d1z2yyj2x19v6b.cloudfront.net">https://d1z2yyj2x19v6b.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E5%85%AD%E4%B8%AA%E5%A4%A7%E6%8B%9B%EF%BC%8C%E7%BB%88%E4%BA%8E%E8%AE%A9%E5%8D%97%E6%96%B9%E7%B3%BB%E8%B5%B0%E4%B8%8A/" target="cdt-mirror">呦呦鹿鸣｜达文西：六个大招，终于让南方系走上正道</a>
@@ -232,7 +232,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0/?category=18271" rel="tag">媒体札记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%BE%BE%E5%86%85/?category=18271" rel="tag">徐达内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7/?category=18271" rel="tag">微信公号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E5%AE%89%E5%BE%BD%E9%AB%98%E9%99%A2%E7%99%BB%E6%8A%A5%E5%90%91%E5%8D%81%E4%B9%9D%E5%90%8D%E8%92%99%E5%86%A4%E8%80%85%E9%81%93%E6%AD%89/" target="cdt-mirror">BBC | 安徽高院登报向十九名蒙冤者道歉</a>
 </h2>
@@ -1032,7 +1032,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1z2yyj2x19v6b.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dvewpswql1hhu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1042,5 +1042,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
                 <td></td>
                 
         
-        <td><a href="https://d1z2yyj2x19v6b.cloudfront.net">https://d1z2yyj2x19v6b.cloudfront.net</a><br/><a href="https://dvewpswql1hhu.cloudfront.net">https://dvewpswql1hhu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dvewpswql1hhu.cloudfront.net">https://dvewpswql1hhu.cloudfront.net</a><br/><a href="https://d1z2yyj2x19v6b.cloudfront.net">https://d1z2yyj2x19v6b.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -105,7 +105,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/" target="cdt-mirror">明镜｜大阅兵：为专制与冷战加冕</a>
 </h2>

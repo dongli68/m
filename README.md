@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d377qjc58ebd4.cloudfront.net">https://d377qjc58ebd4.cloudfront.net</a><br/><a href="https://d22i9hr2g0nknt.cloudfront.net">https://d22i9hr2g0nknt.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d377qjc58ebd4.cloudfront.net">https://d377qjc58ebd4.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d22i9hr2g0nknt.cloudfront.net">https://d22i9hr2g0nknt.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B1%B1%E4%B8%9C%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%EF%BC%8C%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%89%B9%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E6%8E%AA-2/" target="cdt-mirror">纽约时报 | 山东化工厂爆炸，新华社批地方政府措辞“冷血”</a>
@@ -1006,7 +1006,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28z5gm9lmnqs5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d29wlidzsw9r6w.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1016,5 +1016,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d377qjc58ebd4.cloudfront.net">https://d377qjc58ebd4.cloudfront.net</a><br/><a href="https://d22i9hr2g0nknt.cloudfront.net">https://d22i9hr2g0nknt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d29wlidzsw9r6w.cloudfront.net">https://d29wlidzsw9r6w.cloudfront.net</a><br/><a href="https://d28z5gm9lmnqs5.cloudfront.net">https://d28z5gm9lmnqs5.cloudfront.net</a><br/><a href="https://d377qjc58ebd4.cloudfront.net">https://d377qjc58ebd4.cloudfront.net</a><br/><a href="https://d3m4v1fchpy0o9.cloudfront.net">https://d3m4v1fchpy0o9.cloudfront.net</a><br/><a href="https://d22i9hr2g0nknt.cloudfront.net">https://d22i9hr2g0nknt.cloudfront.net</a><br/></td>    </tr>
 </table>

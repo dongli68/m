@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1m6vxw8mo9h1s.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d357ka9hpt6sfg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1m6vxw8mo9h1s.cloudfront.net">https://d1m6vxw8mo9h1s.cloudfront.net</a><br/><a href="https://d357ka9hpt6sfg.cloudfront.net">https://d357ka9hpt6sfg.cloudfront.net</a><br/><a href="https://d11zyhmnavjso3.cloudfront.net">https://d11zyhmnavjso3.cloudfront.net</a><br/><a href="https://d3n6ciwhybr66v.cloudfront.net">https://d3n6ciwhybr66v.cloudfront.net</a><br/><a href="https://d1t19newrha2kr.cloudfront.net">https://d1t19newrha2kr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d357ka9hpt6sfg.cloudfront.net">https://d357ka9hpt6sfg.cloudfront.net</a><br/><a href="https://d11zyhmnavjso3.cloudfront.net">https://d11zyhmnavjso3.cloudfront.net</a><br/><a href="https://d3n6ciwhybr66v.cloudfront.net">https://d3n6ciwhybr66v.cloudfront.net</a><br/><a href="https://d1m6vxw8mo9h1s.cloudfront.net">https://d1m6vxw8mo9h1s.cloudfront.net</a><br/><a href="https://d1t19newrha2kr.cloudfront.net">https://d1t19newrha2kr.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/" target="cdt-mirror">【CDTV】中国的秘密：惊人的贫富差距</a>
@@ -86,7 +86,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗战历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%85%E4%BA%8E%E8%BD%BC/?category=18271" rel="tag">茅于轼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%95%91%E7%81%BE%E6%8A%A5%E9%81%93%E6%A0%87%E5%87%86%E6%B5%81%E7%A8%8B%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B%EF%BC%9A%E5%8F%B0%E9%A3%8E/" target="cdt-mirror">【立此存照】救灾报道标准流程操作实例：台风“苏迪罗”</a>
 </h2>
@@ -998,5 +998,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d3n6ciwhybr66v.cloudfront.net">https://d3n6ciwhybr66v.cloudfront.net</a><br/><a href="https://d1t19newrha2kr.cloudfront.net">https://d1t19newrha2kr.cloudfront.net</a><br/><a href="https://d1m6vxw8mo9h1s.cloudfront.net">https://d1m6vxw8mo9h1s.cloudfront.net</a><br/><a href="https://d11zyhmnavjso3.cloudfront.net">https://d11zyhmnavjso3.cloudfront.net</a><br/><a href="https://d357ka9hpt6sfg.cloudfront.net">https://d357ka9hpt6sfg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3n6ciwhybr66v.cloudfront.net">https://d3n6ciwhybr66v.cloudfront.net</a><br/><a href="https://d1t19newrha2kr.cloudfront.net">https://d1t19newrha2kr.cloudfront.net</a><br/><a href="https://d11zyhmnavjso3.cloudfront.net">https://d11zyhmnavjso3.cloudfront.net</a><br/><a href="https://d357ka9hpt6sfg.cloudfront.net">https://d357ka9hpt6sfg.cloudfront.net</a><br/><a href="https://d1m6vxw8mo9h1s.cloudfront.net">https://d1m6vxw8mo9h1s.cloudfront.net</a><br/></td>    </tr>
 </table>

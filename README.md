@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3k49tn6643mmn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7431cpx12lug.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%88%E6%94%BF%E6%B2%BB%EF%BC%9F/" target="cdt-mirror">羽戈：我为什么要在朋友圈谈政治？</a>
@@ -190,7 +190,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E8%8B%B1%E6%97%B6/?category=18271" rel="tag">余英时</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%BE%BE%E8%B5%96%E5%AE%9E%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%8D%A7%E5%87%BA%E6%9D%A5%E7%9A%84/" target="cdt-mirror">【异闻观止】环球时报｜达赖实为西方捧出来的“国际王林”</a>
 </h2>
@@ -878,7 +878,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgh7yrh8pdvef.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3k49tn6643mmn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -888,5 +888,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/></td>    </tr>
 </table>

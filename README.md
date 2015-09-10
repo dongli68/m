@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1okb1tzwrkjlv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgtfsskive4pg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1okb1tzwrkjlv.cloudfront.net">https://d1okb1tzwrkjlv.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://dgtfsskive4pg.cloudfront.net">https://dgtfsskive4pg.cloudfront.net</a><br/><a href="https://d27dt2gl7ksji4.cloudfront.net">https://d27dt2gl7ksji4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgtfsskive4pg.cloudfront.net">https://dgtfsskive4pg.cloudfront.net</a><br/><a href="https://d27dt2gl7ksji4.cloudfront.net">https://d27dt2gl7ksji4.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://d1okb1tzwrkjlv.cloudfront.net">https://d1okb1tzwrkjlv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%EF%BD%9C%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E8%A2%AB%E5%85%8D%E4%BA%8E%E8%B5%B7%E8%AF%89-%E6%A3%80%E6%96%B9%E7%A7%B0%E4%B8%8D%E7%AC%A6%E5%90%88%E5%85%AC%E8%AF%89/" target="cdt-mirror">中青在线 ｜记者刘虎被免于起诉 检方称不符合公诉条件</a>
@@ -64,7 +64,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E8%85%8A%E8%82%89/?category=18271" rel="tag">毛腊肉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%88%E6%94%BF%E6%B2%BB%EF%BC%9F/" target="cdt-mirror">羽戈：我为什么要在朋友圈谈政治？</a>
 </h2>
@@ -702,7 +702,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d39a5hevzebgwj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgtfsskive4pg.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -712,5 +712,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93
                 <td></td>
                 
         
-        <td><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1okb1tzwrkjlv.cloudfront.net">https://d1okb1tzwrkjlv.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://dgtfsskive4pg.cloudfront.net">https://dgtfsskive4pg.cloudfront.net</a><br/><a href="https://d27dt2gl7ksji4.cloudfront.net">https://d27dt2gl7ksji4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgtfsskive4pg.cloudfront.net">https://dgtfsskive4pg.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1okb1tzwrkjlv.cloudfront.net">https://d1okb1tzwrkjlv.cloudfront.net</a><br/><a href="https://d27dt2gl7ksji4.cloudfront.net">https://d27dt2gl7ksji4.cloudfront.net</a><br/></td>    </tr>
 </table>

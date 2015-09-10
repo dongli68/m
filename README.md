@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d39a5hevzebgwj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7431cpx12lug.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://dmj6jjs2y5o4p.cloudfront.net">https://dmj6jjs2y5o4p.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://dmj6jjs2y5o4p.cloudfront.net">https://dmj6jjs2y5o4p.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">自由亚洲｜余英时：评北京大阅兵</a>
@@ -43,7 +43,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E8%8B%B1%E6%97%B6/?category=18271" rel="tag">余英时</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%BE%BE%E8%B5%96%E5%AE%9E%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%8D%A7%E5%87%BA%E6%9D%A5%E7%9A%84/" target="cdt-mirror">【异闻观止】环球时报｜达赖实为西方捧出来的“国际王林”</a>
 </h2>
@@ -124,7 +124,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8A%9E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%B2%BB%E7%90%86/?category=18271" rel="tag">互联网治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%88%98/?category=18271" rel="tag">网战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E5%BD%93%E4%BB%96%E4%B8%8D%E5%90%AC%E8%AF%9D%E6%97%B6%E5%B0%B1%E6%89%BE%E4%BB%96%E7%9A%84%E5%AE%B6%E4%BA%BA/" target="cdt-mirror">王五四：当他不听话时就找他的家人</a>
 </h2>
@@ -864,7 +864,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7431cpx12lug.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmj6jjs2y5o4p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -874,5 +874,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://dmj6jjs2y5o4p.cloudfront.net">https://dmj6jjs2y5o4p.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dmj6jjs2y5o4p.cloudfront.net">https://dmj6jjs2y5o4p.cloudfront.net</a><br/><a href="https://djqt2czky66u5.cloudfront.net">https://djqt2czky66u5.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/></td>    </tr>
 </table>

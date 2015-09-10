@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ne14om5ap0fg.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d107rmdsuv6tza.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://dpvpvwyuwbecp.cloudfront.net">https://dpvpvwyuwbecp.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://dpvpvwyuwbecp.cloudfront.net">https://dpvpvwyuwbecp.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E5%A5%87%E5%A5%B3%E5%AD%90-%E9%83%AD%E7%BE%8E%E7%BE%8E/" target="cdt-mirror">李承鹏：奇女子——郭美美</a>
@@ -579,7 +579,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E5%88%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">山东利津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E5%85%AD%E4%B8%AA%E5%A4%A7%E6%8B%9B%EF%BC%8C%E7%BB%88%E4%BA%8E%E8%AE%A9%E5%8D%97%E6%96%B9%E7%B3%BB%E8%B5%B0%E4%B8%8A/" target="cdt-mirror">呦呦鹿鸣｜达文西：六个大招，终于让南方系走上正道</a>
 </h2>
@@ -737,5 +737,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97
                 <td></td>
                 
         
-        <td><a href="https://dpvpvwyuwbecp.cloudfront.net">https://dpvpvwyuwbecp.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dpvpvwyuwbecp.cloudfront.net">https://dpvpvwyuwbecp.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d21qim0gsgtf07.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1okb1tzwrkjlv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d1okb1tzwrkjlv.cloudfront.net">https://d1okb1tzwrkjlv.cloudfront.net</a><br/><a href="https://d27dt2gl7ksji4.cloudfront.net">https://d27dt2gl7ksji4.cloudfront.net</a><br/><a href="https://dgtfsskive4pg.cloudfront.net">https://dgtfsskive4pg.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1okb1tzwrkjlv.cloudfront.net">https://d1okb1tzwrkjlv.cloudfront.net</a><br/><a href="https://dgtfsskive4pg.cloudfront.net">https://dgtfsskive4pg.cloudfront.net</a><br/><a href="https://d27dt2gl7ksji4.cloudfront.net">https://d27dt2gl7ksji4.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%EF%BD%9C%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E8%A2%AB%E5%85%8D%E4%BA%8E%E8%B5%B7%E8%AF%89-%E6%A3%80%E6%96%B9%E7%A7%B0%E4%B8%8D%E7%AC%A6%E5%90%88%E5%85%AC%E8%AF%89/" target="cdt-mirror">中青在线 ｜记者刘虎被免于起诉 检方称不符合公诉条件</a>
@@ -64,7 +64,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E8%85%8A%E8%82%89/?category=18271" rel="tag">毛腊肉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%88%E6%94%BF%E6%B2%BB%EF%BC%9F/" target="cdt-mirror">羽戈：我为什么要在朋友圈谈政治？</a>
 </h2>
@@ -293,7 +293,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8A%9E/?category=18271" rel="tag">中办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%A5%A5%E9%94%8B/?category=18271" rel="tag">孟祥锋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%8C%91%E6%88%98%E8%A5%BF%E6%96%B9%E4%BA%92%E8%81%94%E7%BD%91%E9%9C%B8%E6%9D%83-%E6%AC%B2%E9%87%8D%E5%88%92%E7%BD%91/" target="cdt-mirror">参考消息 | 美媒：中国挑战西方互联网霸权 欲重划网络版图</a>
 </h2>
@@ -702,7 +702,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d21qim0gsgtf07.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1okb1tzwrkjlv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -712,5 +712,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93
                 <td></td>
                 
         
-        <td><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://dgtfsskive4pg.cloudfront.net">https://dgtfsskive4pg.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://d1okb1tzwrkjlv.cloudfront.net">https://d1okb1tzwrkjlv.cloudfront.net</a><br/><a href="https://d27dt2gl7ksji4.cloudfront.net">https://d27dt2gl7ksji4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1okb1tzwrkjlv.cloudfront.net">https://d1okb1tzwrkjlv.cloudfront.net</a><br/><a href="https://dgtfsskive4pg.cloudfront.net">https://dgtfsskive4pg.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://d27dt2gl7ksji4.cloudfront.net">https://d27dt2gl7ksji4.cloudfront.net</a><br/></td>    </tr>
 </table>

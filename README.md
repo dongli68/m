@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d39a5hevzebgwj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3fzs14y9gwqjb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d1jnuraiflled0.cloudfront.net">https://d1jnuraiflled0.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1jnuraiflled0.cloudfront.net">https://d1jnuraiflled0.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">自由亚洲｜余英时：评北京大阅兵</a>
@@ -104,7 +104,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8A%9E/?category=18271" rel="tag">中办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%A5%A5%E9%94%8B/?category=18271" rel="tag">孟祥锋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%8C%91%E6%88%98%E8%A5%BF%E6%96%B9%E4%BA%92%E8%81%94%E7%BD%91%E9%9C%B8%E6%9D%83-%E6%AC%B2%E9%87%8D%E5%88%92%E7%BD%91/" target="cdt-mirror">参考消息 | 美媒：中国挑战西方互联网霸权 欲重划网络版图</a>
 </h2>
@@ -864,7 +864,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d39a5hevzebgwj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1jnuraiflled0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -874,5 +874,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d1jnuraiflled0.cloudfront.net">https://d1jnuraiflled0.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1jnuraiflled0.cloudfront.net">https://d1jnuraiflled0.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/></td>    </tr>
 </table>

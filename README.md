@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E5%A5%87%E5%A5%B3%E5%AD%90-%E9%83%AD%E7%BE%8E%E7%BE%8E/" target="cdt-mirror">李承鹏：奇女子——郭美美</a>
+</h2>
+<p><p>有人问我怎么看郭美美。我说，历史将证明这是一个传奇女子。这双拎过爱玛仕坤包的小嫩手开启了一道门，这辆玛莎拉蒂带我们驶向真相的高速路。我觉得郭美美身上具备着《建党伟业》里小凤仙、“拉链门”里莱温斯基、《潜伏》里翠萍的综合素质，以及上述三位不具备的IT素质，在一个技术决定一切的时代，她学会了用微博。且果真决定了一切。</p>
+<p>你看，键盘前的哪一位凭一条微博就让泰山崩于前亦面不改色的红十字连开两次发布会，让千万微博用户成了福尔摩斯，让我们忽然知道百达翡丽这么昂贵生僻的字符，以及红十字那些神秘的裙带……这季节，官员干了黑社会的工作，情妇干了反贪局的工作。</p>
+<p>我不会道德谴责郭美美，我只是想讲些故事。红十字会到底是怎样一个会？我认为，这个会就是你需要它时根本找不到它，不需要时它却忽然出现的一个会。前一种可以参考河北农民孙文辉的故事：为治疗儿子的重症再生障碍性贫血，他已欠了三十多万。那天上午儿子又开始发烧，医生说只有花四十万换骨髓，不换就死。年收入才几千的孙文辉已借无可借，卖掉屋子也凑不齐钱。于是飞奔一百多公里来到首都，他听说红十字会下面有家天使基金会。在这里他碰到很多天使，可天使说，这里只治白血病，不治再生障碍性贫血，即使白血病也不是人人有资格被救。孙文辉跪下，天使不救，他磕头，还是不救。后来他就拿出一把菜刀架在一个天使脖颈上。再后来，他被赶来的特警一举制服，菜刀飞得老远。</p>
+<p>这个故事有个感人的结尾，报纸泄露消息后很多好心人捐来了款。孙文辉也保外就医。可这些跟红十字没关系，这个会一直没有出现，它天天有太多的会。</p>
+<p>至于后一种情况大家已很熟悉——每当出现大灾大难，这家会就会变幻成各种庄严宝相，一会儿是红总会，一会儿是红基会，一会儿是红博会，这么多会，因为它要收税。</p>
+<p>我尝试给它一个准确定位：它是不干事的，却要垄断经营，全靠别人干活，每回还要提取固定回扣。它对下面态度恶劣，对豪客阿谀奉承，迎来送往，背景神秘。倘你敢说不字，它便告诉你别惹老娘，老娘上面有人……大家知道，这其实就是妈咪，这会其实就是夜总会。这样说对小姐有些不公，因为小姐比他们高尚，小姐只卖自己不卖国有资产。想必很多朋友看过一个帖子，说汶川地震那年深圳有一些小姐捐了一百万，央视晚会上那十几个亿就有她们的一份，可是没报纸敢登她们的名字，因为这钱来得不干净。可谁说小姐就不干净呢？又有人说这是谣言，这是一个永远证不了真也证不了伪的事情，不妨认为这属于反抗不了妈咪的情况下，大家寄托的一种哀思。</p>
+<p>红十字会也不要怪我用妈咪、小姐这样庸俗的字眼，我也是一个庸俗的人，有一个庸俗的故事：今年年初，修女吴丽莎在玉树发帖说，那里有几十个老人没奶喝也没保暖设备。作家李西闽和陈岚联络我一起弄点钱，大家很热血的样子，徐小平一下就捐了六个月的奶钱，演员陈坤也捐了不少，一两天下来就有二十多万……我忽觉恐惧，因为我们没通过红十字会，这是可以算作非法集资的，是“法网恢恢，疏而不漏”的标准普法版。这件事的尾巴挺尴尬，我们希望老人能喝上奶过了冬，又不甘心把这钱通过红十字会，那样的话老人们不仅喝不到牛奶，还可能成为红十字会的奶牛。至今还有一笔钱是以私人借款名义挂在账面上的，等到明年再给老人买牛奶。</p>
+<p>别怪我庸俗，这样一个慈善体系下，你们是有牌照的妈咪，下面是坐台的小姐，而私下募捐的我们是站街打游击的暗娼。我们三位一体了。满意了吧。</p>
+<p>凡有人群之处必有爱心，这是人性。可现在大家找不到释放爱心的渠道，偶尔做点好事也做贼心虚的样子。前段时间参加了一个活动，挣了点钱想捐给杀死城管的沈阳小贩夏俊峰的儿子学画画。可这笔钱怎么交付变成很有难度的一件事——分期付款，有占利息之嫌，交给中间机构，怕这机构忽然不见了，直接交给夏妻张晶，她又得交不少的个人所得税。纠结很久，最后代交了税再拿给她。可这很不合理，交给红十字会可以免税，交给其他的就不可以免税。本就垄断的红十字会，连免税权都垄断，就是说只有从了这个妈咪才能省下茶水钱。</p>
+<p>我只是讲点故事。其实郭美美并不是一个炫富女的故事，而是一个国家信用破产的故事。这里的底线一直在退，从高房价退到中石油退到铁道部，现在连慈善机构的底线都守不住。我刚知道红十字会是拿国家财政拨款的，相当于一个妈咪拿着文工团工资，还让演员出去当小姐收取管理费。我又知道红会是享受部级待遇的，有些像国企，可国企破产是可以的，国家信用破产不可以。</p>
+<p>这个躺着挣钱的机构居然说出“红十字会任务繁重，人员和资金又明显不足”。我觉得这是个病句。早年写足球时，常写世界上有两种足球：足球，和中国足球。其实世界上也有两种红十字会，红十字会，中国红十字会。小时候老在电影里看到红十字救护队在炮火中向两方士兵大喊“这里是红十字救护队”，炮火便会停止。但哪天开战，谁要打一杆猎猎的“中国红十字会”大旗，肯定会成为炮靶子，“中国红十字”等于在说：这旗下有政府官员，部级的。一炮过来，就端了我军司令部。</p>
+<p>表面看红十字会是一家民间慈善协会，其实是央属赢利单位。表面看郭美美只是一个夜总会的外围，其实她是一传奇女子，小宇宙如此强大，轻轻一点微博发送键，就点曝了一个国家慈善的马甲。</p>
+<p>综上所述，她，其实是一个功臣。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E5%A5%87%E5%A5%B3%E5%AD%90-%E9%83%AD%E7%BE%8E%E7%BE%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E/?category=18271" rel="tag">个人所得税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">国有资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E9%87%91%E4%BC%9A/?category=18271" rel="tag">基金会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E5%AD%90/?category=18271" rel="tag">女子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E5%A7%90/?category=18271" rel="tag">小姐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E5%85%9A%E4%BC%9F%E4%B8%9A/?category=18271" rel="tag">建党伟业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%89%BF%E9%B9%8F/?category=18271" rel="tag">李承鹏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97/?category=18271" rel="tag">红十字</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A/?category=18271" rel="tag">红十字会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AD%A6%E6%9C%AF%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%8D%9A%E5%AF%BC%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/" target="cdt-mirror">学术中国｜博导调查报告：千疮百孔的中国农村</a>
 </h2>
 <p><p><strong>作者：蒋高明</strong></p>
@@ -140,7 +163,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E8%85%8A%E8%82%89/?category=18271" rel="tag">毛腊肉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%88%E6%94%BF%E6%B2%BB%EF%BC%9F/" target="cdt-mirror">羽戈：我为什么要在朋友圈谈政治？</a>
 </h2>
@@ -693,34 +716,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%94%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/" target="cdt-mirror">【真理部】进一步唱响中国经济光明论</a>
-</h2>
-<p><p><strong>新华社总编辑室 通知：</strong></p>
-<p>国内部（央采中心）、国际部、对外部、摄影部、参编部、音视频部、CNC、新华网、新媒体中心、全媒报道平台、评论部：<br>
-根据上级机关通知精神和社领导要求，9月份集中加强经济宣传和舆论引导工作（有关通知附后），进一步唱响中国经济光明论、中国制度优越论，更好地稳定预期，提振信心，请你部门抓紧策划有关报道安排，明确部门负责人，确定报道选题、选题责任人和发稿时间。</p>
-<p>请将相关报道策划，有部门负责同志签字后，于9月9日17时前通过0A传总编室——创意策划中心，领导签字页传真63071200.<br>
-选题格式如下：</p>
-<p>1、选题（责任人：XX部XXX；发稿时间：X月X日）</p>
-<p>联系人：王晓顺 51366 13661390548</p>
-<p>总编室</p>
-<p>2015-9-7</p>
-<p><strong>中共中央宣传部 通知【2015】320号</strong></p>
-<p>关于加强近期经济宣传引导的通知</p>
-<p>人民日报、新华社、光明日报、经济日报、中国日报、中央人民广播电台、中央电视台、中国国际广播电台、中国新闻社及所属新兴媒体：</p>
-<p>根据中央领导同志指示精神，各新闻媒体要继续深入学习宣传习近平总书记系列重要讲话精神，围绕贯彻落实“四个全面”战略布局，结合舆论关切，9月份集中加强经济宣传和舆论引导，统筹安排对内对外宣传和网络宣传，进一步唱响中国经济光明论、中国制度优越论，更好地稳定预期、提振信心。</p>
-<p>1.做好有关经济数据解读。9月，国家统计局将陆续发布流通领域重要生产资料市场价格变动情况、居民消费价格指数月度报告、工业生产者价格指数月度报告、规模以上工业生产月度报告、社会消费品零售总额月度报告等情况。近期，上市银行将陆续公布上半年年报。各新闻媒体要采访国家统计局、银监会等部门有关负责人和专家，做好统计数据解读，准确报道经济运行新变化和有关行业经营状况。</p>
-<p>2. 加强经济亮点成效宣传。密切跟踪经济运行情况，大力…</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/screen_shot_2015-09-08_at_1.54.41_pm.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/screen_shot_2015-09-08_at_1.54.41_pm.png" alt="screen_shot_2015-09-08_at_1.54.41_pm" width="602" height="777"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/screen_shot_2015-09-08_at_1.58.06_pm.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/screen_shot_2015-09-08_at_1.58.06_pm.png" alt="screen_shot_2015-09-08_at_1.58.06_pm" width="595" height="676"></a></p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%94%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -732,7 +727,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1ne14om5ap0fg.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d107rmdsuv6tza.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -742,5 +737,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/></td>    </tr>
 </table>

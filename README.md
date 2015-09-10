@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dpvpvwyuwbecp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1yvmkodujz0z6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dpvpvwyuwbecp.cloudfront.net">https://dpvpvwyuwbecp.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d2zdvxl2lonhds.cloudfront.net">https://d2zdvxl2lonhds.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://dpvpvwyuwbecp.cloudfront.net">https://dpvpvwyuwbecp.cloudfront.net</a><br/><a href="https://d2zdvxl2lonhds.cloudfront.net">https://d2zdvxl2lonhds.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%8A%9E%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80-%E4%B8%80%E6%9C%9D%E5%A4%A9%E5%AD%90%E4%B8%80%E6%9C%9D%E8%87%A3/" target="cdt-mirror">东方日报｜中办人事大换血 一朝天子一朝臣</a>
@@ -43,7 +43,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8A%9E/?category=18271" rel="tag">中办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%A5%A5%E9%94%8B/?category=18271" rel="tag">孟祥锋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%8C%91%E6%88%98%E8%A5%BF%E6%96%B9%E4%BA%92%E8%81%94%E7%BD%91%E9%9C%B8%E6%9D%83-%E6%AC%B2%E9%87%8D%E5%88%92%E7%BD%91/" target="cdt-mirror">参考消息 | 美媒：中国挑战西方互联网霸权 欲重划网络版图</a>
 </h2>
@@ -861,7 +861,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dpvpvwyuwbecp.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1yvmkodujz0z6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -871,5 +871,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://dpvpvwyuwbecp.cloudfront.net">https://dpvpvwyuwbecp.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d2zdvxl2lonhds.cloudfront.net">https://d2zdvxl2lonhds.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d2zdvxl2lonhds.cloudfront.net">https://d2zdvxl2lonhds.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://dpvpvwyuwbecp.cloudfront.net">https://dpvpvwyuwbecp.cloudfront.net</a><br/></td>    </tr>
 </table>

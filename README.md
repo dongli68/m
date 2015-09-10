@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7431cpx12lug.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3fzs14y9gwqjb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://dmj6jjs2y5o4p.cloudfront.net">https://dmj6jjs2y5o4p.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://dmj6jjs2y5o4p.cloudfront.net">https://dmj6jjs2y5o4p.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">自由亚洲｜余英时：评北京大阅兵</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-05-at-10.12.05-PM.png" alt="左手敬礼" width="491" height="579">2015年9月3日在天安门举行了阅兵示威庆祝所谓二战结束70周年，基本上是一种反日的活动。我觉得这件事情本身是很奇怪的，因为既不是日本投降的日子也不是什么任何正式承认的一天。为什么这个时候忽然庆祝70周年胜利？</p>
+<p>严格地讲抗战是从1931年沈阳被占到1937年卢沟桥事变一直到8年抗战前后有十几年，从31年到45年差不多14年，这14年中间跟日本人对抗的是国民党。国民党虽然当时力量不足，可是在不断地对抗，在上海就打了3个月，把主要的精华部队都打光了，还有后来的台儿庄等种种胜利，所以拖住日本兵至少有100万在中国，不能到别的地方去打仗。所以，就凭这一点国民党抗战的功劳是无法否认的。</p>
+<p>我们知道在抗战开始的时候，差不多1937年的时候共产党就剩了一两万人，林彪所说的红旗能打多久都不知道，那时候还在延安。国民党是要靠抗日才能起来的，所以才全力以赴地抗日。同时，苏联怕日本的兵攻击它，也希望日本兵侵略中国，在中国被挡住，所以它也鼓励中国抗战。在这个情况之下，西安事变以后蒋介石是毛泽东要杀害他，蒋介石被苏联斯大林要求非放不可，这样子国民党才能抗日，国民党能抗日才能减轻苏联的负担，所以这种种复杂的因素都说明我们要庆祝打倒日本，我们都知道日本的投降是因为美国的原子弹，但是国民党在这个十几年中拖住日本使日本不能全力以赴地在太平洋作战也还是有很大的贡献的。无论如何，这件事情严格地说跟共产党没有关系，所以今天这个庆祝70年的胜利是很荒谬的。</p>
+<p>无论如何这是一个共产党的表演，这个表演有它的意义，就是习近平现在号称要富国强兵，中国共产党现在已经富起来了，除了美国以外它就是最大的经济力量了。富国已经做到了现在它要看到强兵，强兵就是对日本的示威。所以这次在天安门一万多解放军雪亮的刺刀、耀眼的军靴都可以让老百姓看到，也可以镇压老百姓也可以吓唬老百姓，使老百姓不敢动任何意念，只有跟随共产党走，同时也借这个机会发展它的民族主义。</p>
+<p>共产党对发展民族主义已经到了相当可怕的程度了，但是这股力量是危险的；其次我要讲另外一个危险的力量，这股危险力量最近受到国外很大的注意，纽约时报甚至都有专门的社论批评。这个批评是什么？就是共产党现在忽然之间利用各种力量以造谣为名抓捕所有说话跟共产党调子不合的人。</p>
+<p>这里面有好几个问题。第一个问题就是关于股票，股票最近下跌，当然许多中国投资者很担心这件事情，在网络上有所批评，有所指责甚至有所推测。这些推测和指责当然对共产党都不利，所以他们认为这个就是造谣，这个会危害到整个共产党的政权，而且损害整个社会的利益，跟维稳是相反的，所以它要制止，所以以造谣为名就要把所有说话跟自己不合的人都要抓起来，就连共产党所说的依法治国也完全是做不到，不要说我们一般所说的法治这两个字了。所以就是现在所谓说的造谣，光造谣就抓了197个人，数目可以说是越来越多。这个力量就是共产党用它的暴力，公安局特务等没问任何理由就可以把你抓起来。现在抓人很奇怪的。从前抓人还会说在多少小时之内让律师知道可以保出来或者正式逮捕，但现在不需要，好像可以以造谣的名义抓人观察六个月。</p>
+<p>在这样的情况下可以说是人人自危，所以这是另外一个非常可怕的力量。这个可怕的力量是想造成什么呢？想造成没有公开的舆论，任何舆论都必须和共产党做的是一样的，比奥威尔的小说《一九八四》还要厉害，一切听党的，没有任何意见，这是习近平有意如此做的，所以大家以为习近平可能有一些政治改革，现在完全失望了。他事实上是新时代的毛泽东，跟过去的毛泽东又不一样。他利用两种力量一种是民族主义力量抬高自己，说明自己的伟大，说他可以富国强兵把中国带到两大强国之一的位置上，这样他就可以永远执政了。另外一个就是他用暴力特务力量把所有跟自己意见不合的人全部送到监牢里面去，或者禁止他们不敢说话。这是习近平跟他部下的一个共同的好梦，这就是他所谓的中国梦。</p>
+<p>这个中国梦表面上说是富国强兵。实际上是老百姓变成了完全没有大脑，被共产党支配的动物，但是习近平不顾这一切，他为了他个人的地位，为了党的一党专政不会动摇，会这样坚持下去，中国的前途我想是不乐观的。</p>
+<p> </p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%98%85%E5%85%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E8%8B%B1%E6%97%B6/?category=18271" rel="tag">余英时</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%BE%BE%E8%B5%96%E5%AE%9E%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%8D%A7%E5%87%BA%E6%9D%A5%E7%9A%84/" target="cdt-mirror">【异闻观止】环球时报｜达赖实为西方捧出来的“国际王林”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/471fb3a8jw1evv6tpsgokj21jk15onjs.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/471fb3a8jw1evv6tpsgokj21jk15onjs.jpg" alt="471fb3a8jw1evv6tpsgokj21jk15onjs" width="550" height=""></a><br><em>（图片来源：新浪微博 @黑板报的水晶）</em></p>
+<p>今年是西藏自治区成立50周年，各族群众欢欣鼓舞，喜迎大庆，跟西藏有关的话题也在世界上走热，很多并不太了解西藏的人，也会在这个时候插几句嘴。</p>
+<p>这些年一直有两个西藏，一个是真实存在的西藏，还有一个是外界想象中的、由达赖集团和西方舆论联合烘托的西藏。</p>
+<p>后一个西藏由两个画面组成，一个是西藏原本应该是什么样子，一个是西藏被共产党“折腾”成了什么样子。</p>
+<p>想象中的西藏虽不存在，但经西方媒体经年累月的打造，又有达赖做代言人，得以在国际舆论场上以假乱真，有不小的影响力。这大概是现代世界持续时间最久、舆论力量卷入最多的一个谎言。</p>
+<p>这个谎言甚至在西方世界形成了道德及政治正确，这样的“正确性”压制了西方人认识真实西藏的勇气和积极性。很多人相信，戳破围绕西藏的谎言已经不是认识论层面的问题，只有中西力量格局和政治关系的变化才可能推动它。</p>
+<p>今天在有关西藏的大事小情上，西方的确像是“叫不醒的装睡者”。十四世达赖喇嘛被西方舆论捧为“圣人”，他的公众形象总是被打造成笑眯眯、充满睿智的长者。但随便扒扒他的过去，他统治西藏时不光彩的记录一定会让西方公众倒胃。</p>
+<p>达赖喇嘛是从来不提那段往事的。这位政治流亡者后来在西方力量的联合助推下一举收获诺贝尔和平奖，数次成为西方领导人的座上宾，可谓风光无限。然而，一旦有一天西方舆论站出来揭露他，<strong>他就是国际上一个超大号的“王林”</strong>。</p>
+<p>西藏应该是什么样的呢？西方舆论围绕这个问题充分调动了浪漫的想象力。那里不仅自然是原生态的，社会同样应与现代无缘，保持时间停摆的原汁原味。在这种近乎变态的心理作用下，西藏只是他们对现代文明厌倦的消费对象，任何进步与现代化，都是“破坏”。</p>
+<p>这是一种不平等、且蛮不讲理的态度。评价西藏社会成就的坐标首先要由西藏公众以及<strong>全体中国人民</strong>来确定，我们最了解西藏需要什么，我们对西藏实现高质量进步的关切比任何外部力量都更加真实，我们为此所做的付出也是外界不可能做到的。</p>
+<p>西藏实现了跨时代的政治进步，也实现了前所未有的现代基础设施建设。而这一切是在保持西藏文化基本形态、也全面保护西藏生态环境的情况下展开的。对比一下美国的印第安人“更像印第安人”，还是西藏的藏族人“更像藏族人”，我们就会一目了然。坐一次青藏铁路，所有人都会对沿途的生态系统保护竖大拇指。</p>
+<p>西方助推的谎言传播再广，最终也是过眼云烟。真实的西藏就屹立在青藏高原上，随着中国向世界中心舞台的不断移动，各国人民会通过各种机会与西藏的真实信息相遇。西方舆论推送的虚假画面将面临挑战，西藏将越来越成为中国形象的一个闪光点，而不是一项负值。<strong>一直帮助外部力量给西藏发展捣乱的达赖集团注定是这个时代的loser</strong>。</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@陈有西：《环球时报》又闹国际笑话了。未审先定，王林并未定性，是谣言包装的被害人。你们作为已经定性的坏人推向国际舆论，评论严肃的国际政治问题，缺乏基本的认知常识。釆、编、评都已经不是一般的堕落。</p>
+<p>@小楼一夜听春雨33：@环球时报 可以刊登一篇批判西方无良媒体抹黑中国的文章，标题就叫《反华媒体CNN就是混迹于西方世界的环球时报》@胡锡进 是否可以依样采纳？</p>
+<p>@寒凝大地太冷了：如果法庭最后判决王林无罪，环球不是要被骂宣传达赖无罪吗？</p>
+<p><a href="http://weibo.com/1009315755" target="_blank">妙手空空儿2011</a>：环球屎报这是啥意思，王林可是案子还没审呢，万一无罪释放，你这篇文章可就变成为大和尚洗地，政治错误可犯大了<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
+<p>@宦卿世界：#宦卿微评#西方尊达赖喇嘛为世界宗教领袖，不存在什么”一旦”西方揭露达赖喇嘛。现任高层应以极大勇气乘达赖喇嘛健在妥善解决分歧问题。总以文革式大批判手段只能于事无补。达赖喇嘛问题在大陆已成禁区，无人敢进言善言，否则假以罪名，实为误国误民误事误时机。</p>
+<p>@冕之王：专业扣帽子@@环球时报</p>
+<p>@三年z组imba老师：哈哈哈哈简直是小学班上喜欢给别人起外号的同学</p>
+<p>@鹅城恶少_991：哪段往事？说说嘛</p>
+<p>@我是一红：倒是扒点来听听啊</p>
+<p>@最新鲜百科：王林是谁捧出来的？不是我们党 的干部吗</p>
+<p>@二十6年明月夜：58年之前是谁捧？班禅是谁捧？</p>
+<p>@涛之夭夭1：恩，这比喻真当是。王林是前后几代领导人参与捧出来的，你看过那些照片么？</p>
+<p>@呆巾：呵呵，敢让大和尚回来吗？敢说没走的十世班禅的悲惨一生吗？</p>
+<p>@痒的一逼：好吧，把西方各国元首比作天朝各个高官包括江，天朝高官你们投票投出来的吗？</p>
+<p>@一刀流神火不知火：你说的是全体中国人共同决定的，全体中国人决定了那么多的贪官吗，决定了强拆和暴力的警匪吗，别再说全体中国人决定这屁话，我们决定了要让自己买不起房子吗，我真想说，我去你妈的</p>
+<p>@正黄旗下：作为主流媒体，拿达赖比王林，极不严肃，会伤害众多藏族同胞和藏传佛教信徒的感情。强烈建议《环球时报》收回此评论。</p>
+<p>@高希恆：感觉这几百字写下来什么都没说</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%BE%BE%E8%B5%96%E5%AE%9E%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%8D%A7%E5%87%BA%E6%9D%A5%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96/?category=18271" rel="tag">达赖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%8A%9E%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80-%E4%B8%80%E6%9C%9D%E5%A4%A9%E5%AD%90%E4%B8%80%E6%9C%9D%E8%87%A3/" target="cdt-mirror">东方日报｜中办人事大换血 一朝天子一朝臣</a>
 </h2>
 <p><p>内地媒体近日披露，中央办公厅人事已大幅调整，除了原胡锦涛办公室主任陈世炬升任中办副主任，习近平办公室主任丁薛祥以及中办调研室主任孟祥锋也已升任中办副主任。一朝天子一朝臣，掌握大内中枢的中央办公厅更是如此。</p>
@@ -792,64 +853,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BC%9A%E5%B8%82%E5%9C%BA%E6%B3%A1%E6%B2%AB%E5%9F%BA%E6%9C%AC%E6%8C%A4%E5%AE%8C-%E4%B8%BA%E6%94%B9%E9%9D%A9%E5%88%9B/" target="cdt-mirror">【异闻观止】新华网：市场泡沫基本挤完 为改革创造了机会</a>
-</h2>
-<p><p>新华网发表署名为方烨的<a href="http://news.xinhuanet.com/2015-09/07/c_1116486855.htm">文章</a>称，经过2个多月的去杠杆，沪指大盘在3000点上下显露出较强的企稳迹象。纵观这七八十天的政府“救市”表现，可以看到其工作重心明显有一条从稳定市场向修复市场，最终到建设市场的移动轨迹。之所以出现这种变化，是因为资本市场要想健康发展，最终还是要靠改革的持续推进。</p>
-<p>文章还称，沪指再下台阶带来的一大好处，是市场泡沫被基本挤完，这就为加速推进资本市场改革创造了机会。于是，近日来证监会举动频频。</p>
-<p>华尔街见闻此前<a href="http://wallstreetcn.com/node/223212">文章</a>称，开盘前证监会连夜表态，采取多措施稳定股市，研究指数熔断机制，抑制股指期货过度投机。更早之前，证监会、财政部、国资委、银监会等<a href="http://wallstreetcn.com/node/222979">四部委联合发文</a>，通过多种方式进一步深化改革、简政放权，大力推进上市公司并购重组，积极鼓励上市公司现金分红，支持上市公司回购股份，提升资本市场效率和活力。</p>
-<p>在G20财长和央行行长会议上，中国央行行长<a href="http://wallstreetcn.com/node/223201">周小川也力挺A股</a>。他称，目前人民币兑美元汇率已经趋于稳定，股市调整已大致到位，金融市场可望更为稳定。出席会议的财政部部长楼继伟指出，中国政府不会特别在意季度性的短期经济波动，将保持宏观经济政策的“定力”，并按照既定部署，坚定不移地推进改革和开放。</p>
-<p>下面为新华网文章全文：</p>
-<blockquote><p>6日，中国证监会有关负责人答新华社记者问，强调要“把稳定市场、修复市场和建设市场有机结合起来”。我国A股市场自6月起开始调整，期间，为稳定资本市场，政府采取了诸如“双降”、加强对融资融券管理、打击违法犯罪、抑制股指期货过度投机等多项手段整顿市场秩序。<strong>经过2个多月的去杠杆，沪指大盘在3000点上下显露出较强的企稳迹象。纵观这七八十天的政府“救市”表现，可以看到其工作重心明显有一条从稳定市场向修复市场，最终到建设市场的移动轨迹。之所以出现这种变化，是因为资本市场要想健康发展，最终还是要靠改革的持续推进。</strong></p>
-<p>客观的说，在本轮市场调整中，政府出手是非常快的。沪指6月12日达到本轮高点5178.19，徘徊数日后掉头向下。到26日，创业板跌9%，创下历史最大跌幅，调整趋势基本确立。随即央行宣布，28日起降息、定向降准。7月8日，央行、财政部、国资委、保监会、中央汇金公开表态，支持维护股票市场稳定。第二天，股市开始阶段性企稳。然而，受到人民币汇改带来的短期冲击，政府随之采取的一系列积极修复市场举措未能稳住大盘。8月20日起，沪指五连阴，最低下探至2850.71。</p>
-<p><strong>沪指再下台阶带来的一大好处，是市场泡沫被基本挤完，这就为加速推进资本市场改革创造了机会。</strong>于是，近日来证监会举动频频，先是在8月31日联合财政部、国资委、银监会发布《关于鼓励上市公司兼并重组、现金分红及回购股份的通知》，大力推进上市公司并购重组，鼓励上市公司现金分红和回购股份；此次答新华社记者问又表示：这轮股市异常波动，进一步暴露了我国股票市场不成熟、制度不健全、监管不适应，以及上市公司和投资者结构不合理，短期投机炒作过多等问题。解决这些问题，根本上要靠深化改革，健全法制，完善监管。</p>
-<p>尤其是提出了要“研究制定实施指数熔断机制方案”。所谓熔断机制，是美国证券交易委员会设立的一种保护机制，即在交易过程中，当价格波动幅度达到某一限定目标时，交易将暂停一段时间。中国股票市场没有熔断机制，但是在期权市场已经采用。这种机制被认为可以对股指期货市场的交易风险提供预警，进而防止风险的突发性和风险发生的严重性。此外，还为控制交易风险赢得思考时间和操作时间。有利于消除陈旧价格导致期货市场流动性下降，可以消除交易系统的指令堵塞现象，消除陈旧性价格，保证交易的畅通。</p>
-<p><strong>央行行长周小川也在9月4日至5日举行的G20财长和央行行长会议上力挺A股。</strong>他表示，中国政府采取了一系列政策措施避免了股市断崖式下滑和系统性风险发生，股市调整以来，杠杆率已明显下降，目前人民币兑美元汇率已经趋于稳定，股市调整已大致到位，金融市场可望更为稳定。这也是个可喜的变化。如果说本轮稳定资本市场有什么值得总结的话，各监管部门需要更高层统一“救市”步调应该算一个。此次周行长、证监会相继表态，也许说明内部协调机制已经理顺。</p>
-<p>“建设市场”并不是孤立的，还需要和稳定市场、修复市场有机结合起来。于是此次证监会答问，除了谈到要加强改革，亦同时释放向好预期，称：“目前，股市泡沫和风险已得到相当程度的释放，市场交易基本正常，流动性较为充裕，市场内在稳定性增强。”证监会还强调：“今后，当市场剧烈异常波动、可能引发系统性风险时，中国证券金融股份有限公司仍将继续以多种形式发挥维稳作用。”</p></blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BC%9A%E5%B8%82%E5%9C%BA%E6%B3%A1%E6%B2%AB%E5%9F%BA%E6%9C%AC%E6%8C%A4%E5%AE%8C-%E4%B8%BA%E6%94%B9%E9%9D%A9%E5%88%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E6%94%B9/?category=18271" rel="tag">人民币汇改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E6%9C%BA/?category=18271" rel="tag">投机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%87%E7%8E%87/?category=18271" rel="tag">汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">经济政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">股市泡沫</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E6%84%8F%E3%80%91%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%EF%BC%8C%E4%BB%80%E4%B9%88%E7%89%8C%E5%AD%90%E6%9C%89%E5%8F%88%E5%AE%BD%E5%8F%88%E6%89%81%E7%9A%84%E5%86%B0/" target="cdt-mirror">【网络民议】祖国万岁 什么牌子有又宽又扁的冰箱？</a>
-</h2>
-<p><p>9月3日，<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8A%E5%A4%A9%E6%88%91%E9%83%BD%E6%98%AF%E5%B0%8F%E7%B2%89%E7%BA%A2/">台湾女星范玮琪因在阅兵日当天晒出儿子照片</a>，被“爱国网友”围攻，并于次日晚发文道歉。不过，微博上也出现了不少讽刺“爱国网友”的内容。例如作家<a href="http://weibo.com/lihaipeng">@李海鹏</a>发微博时吸取了范玮琪的“经验教训”，套用文革语录风：<a href="http://weibo.com/1210071525/Czc3lrD3W?type=comment">“祖国万岁，谁知道，什么牌子有又宽又扁的冰箱？”</a></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-08-at-%E4%B8%8A%E5%8D%889.59.231.png" alt="lihaipeng1" width="607" height="613"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-08-at-%E4%B8%8A%E5%8D%8810.00.481.png" alt="lihaipeng2" width="594" height="299"></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>朴坊生活：钓鱼岛是中国的。你房子很矮么？</p>
-<p>一翔云烟：知识青年到农村去，接受贫下中农再教育，很有必要。海信的冰箱就挺好，支持国货。</p>
-<p>太阳你是sb吗：中国人民万岁。三星绝对值得你拥有。</p>
-<p>水墨Helen：一切反动派都是纸老虎！我家用的海尔卡萨帝系列，不错！</p>
-<p>天下为公之2012：事不关己、高高挂起，买冰箱选牌子由你、还是日产较合理，国产厂商家属情绪稳定！</p>
-<p>失眠者熟睡中：天要下雨娘要嫁人，您是要装腊肉的那种么？</p>
-<p>梁山县令：忙时吃干，闲时吃稀，勒紧腰带闹革命， 冰箱不要买，节约用电。</p>
-<p>王乔at沈阳：支持国货抵制日货，全民一起看阅兵！冰箱我觉得还是松下的好……</p>
-<p>电饭锅超人：共产党最好！ 海尔 BCD-521WDPW 大概65公分厚的对开门冰箱，基本是最薄了。</p>
-<p>李海鹏:回复@电饭锅超人：国运昌盛，我需要60公分厚度以内的，进口牌子有吗？</p>
-<p>微笑karasu：评论笑死了。笑完又觉得苦涩，瞬间回到几十年前。</p>
-<p>混捏节ing：扬我国威！评论里都是文革风格，我的这句还是满先进的。</p>
-<p>都是主力：政策和策略是党的绳命。报告！贴里发现五毛游走痕迹，但他们一时也方寸大乱，不知道如何打击这类帖子了。如今已经全部潜心研究应对之策，期待过会儿有统一行动。</p>
-<p>陈梓语是舞不动的伪文青：革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。[doge]我是来看评论的。</p>
-<p>峡山嘟嘟衣橱：中华民族大团结万岁，我党万税！我是来看评论的。</p>
-<p>四眼带鱼：打到美帝，请选美的。</p>
-<p>我与neko的日常：只生一个好政府来养老中日关系比较紧张还是买德国货吧</p>
-<p>采菊东篱下1797：在战略上藐视敌人，在战术上重视敌人！打倒小日本！家用电器还是小日本的耐用！</p>
-<p>ULTRAFINE：这盛世如你所愿，没买过。</p>
-<p>学不会高等数学我就是狗：无产阶级大革命万岁。我就随便转一下。</p>
-<p>大卫库克：爹亲娘亲不如习大大亲，转发微博。</p>
-<p>来来化化：为中华民族崛起而读书。如果有钱的话，还是日本的好！</p>
-<p>_我是一嗰尐奇跡：我们是共产主义接班人。笑的停不下来怎么办？</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E6%84%8F%E3%80%91%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%EF%BC%8C%E4%BB%80%E4%B9%88%E7%89%8C%E5%AD%90%E6%9C%89%E5%8F%88%E5%AE%BD%E5%8F%88%E6%89%81%E7%9A%84%E5%86%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">反法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">反法西斯胜利70周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E8%AF%AD%E5%BD%95/?category=18271" rel="tag">文革语录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E9%9D%A9/?category=18271" rel="tag">网络"文革"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%91%E6%AE%8B/?category=18271" rel="tag">脑残</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E7%8E%AE%E7%90%AA%E9%81%93%E6%AD%89/?category=18271" rel="tag">范玮琪道歉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AD%E5%BD%95%E4%BD%93/?category=18271" rel="tag">语录体</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -861,7 +864,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3fzs14y9gwqjb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d7431cpx12lug.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -871,5 +874,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://dmj6jjs2y5o4p.cloudfront.net">https://dmj6jjs2y5o4p.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d7431cpx12lug.cloudfront.net">https://d7431cpx12lug.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://dmj6jjs2y5o4p.cloudfront.net">https://dmj6jjs2y5o4p.cloudfront.net</a><br/></td>    </tr>
 </table>

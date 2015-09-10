@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1fmvuh5s21cav.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3v99jlshvdydl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E5%A5%87%E5%A5%B3%E5%AD%90-%E9%83%AD%E7%BE%8E%E7%BE%8E/" target="cdt-mirror">李承鹏：奇女子——郭美美</a>
@@ -310,7 +310,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">民族歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">自由亚洲｜余英时：评北京大阅兵</a>
 </h2>
@@ -737,5 +737,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97
                 <td></td>
                 
         
-        <td><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d38zoz2goz0myt.cloudfront.net">https://d38zoz2goz0myt.cloudfront.net</a><br/><a href="https://d107rmdsuv6tza.cloudfront.net">https://d107rmdsuv6tza.cloudfront.net</a><br/><a href="https://d1fmvuh5s21cav.cloudfront.net">https://d1fmvuh5s21cav.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d1ne14om5ap0fg.cloudfront.net">https://d1ne14om5ap0fg.cloudfront.net</a><br/></td>    </tr>
 </table>

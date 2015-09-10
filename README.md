@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d1uddprl7sjss7.cloudfront.net">https://d1uddprl7sjss7.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d2ddctdleqh2l7.cloudfront.net">https://d2ddctdleqh2l7.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d1uddprl7sjss7.cloudfront.net">https://d1uddprl7sjss7.cloudfront.net</a><br/><a href="https://d2ddctdleqh2l7.cloudfront.net">https://d2ddctdleqh2l7.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AD%A6%E6%9C%AF%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%8D%9A%E5%AF%BC%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/" target="cdt-mirror">学术中国｜博导调查报告：千疮百孔的中国农村</a>
@@ -115,7 +115,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E/?category=18271" rel="tag">刘虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%83%BD%E8%AF%9D%E4%B8%8D%E8%BF%9E%E7%AF%87%EF%BD%9C%E4%B9%9D%E6%9C%88%E4%B9%9D%EF%BC%8C%E4%BD%A0%E7%9A%84%E4%BD%9B%E8%AF%9E%E6%97%A5%E6%88%91%E7%9A%84%E4%B8%AD%E5%85%83%E8%8A%82/" target="cdt-mirror">烽话不连篇｜九月九，你的佛诞日我的中元节</a>
 </h2>
@@ -732,7 +732,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgi698eqxuykz.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3v99jlshvdydl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -742,5 +742,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d1uddprl7sjss7.cloudfront.net">https://d1uddprl7sjss7.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d2ddctdleqh2l7.cloudfront.net">https://d2ddctdleqh2l7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d1uddprl7sjss7.cloudfront.net">https://d1uddprl7sjss7.cloudfront.net</a><br/><a href="https://d2ddctdleqh2l7.cloudfront.net">https://d2ddctdleqh2l7.cloudfront.net</a><br/></td>    </tr>
 </table>

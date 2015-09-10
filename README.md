@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3v99jlshvdydl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3fzs14y9gwqjb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d1uddprl7sjss7.cloudfront.net">https://d1uddprl7sjss7.cloudfront.net</a><br/><a href="https://d2ddctdleqh2l7.cloudfront.net">https://d2ddctdleqh2l7.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d2ddctdleqh2l7.cloudfront.net">https://d2ddctdleqh2l7.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d1uddprl7sjss7.cloudfront.net">https://d1uddprl7sjss7.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AD%A6%E6%9C%AF%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%8D%9A%E5%AF%BC%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/" target="cdt-mirror">学术中国｜博导调查报告：千疮百孔的中国农村</a>
@@ -611,7 +611,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/" target="cdt-mirror">明镜｜大阅兵：为专制与冷战加冕</a>
 </h2>
@@ -732,7 +732,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3v99jlshvdydl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ddctdleqh2l7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -742,5 +742,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d1uddprl7sjss7.cloudfront.net">https://d1uddprl7sjss7.cloudfront.net</a><br/><a href="https://d2ddctdleqh2l7.cloudfront.net">https://d2ddctdleqh2l7.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2ddctdleqh2l7.cloudfront.net">https://d2ddctdleqh2l7.cloudfront.net</a><br/><a href="https://d3v99jlshvdydl.cloudfront.net">https://d3v99jlshvdydl.cloudfront.net</a><br/><a href="https://d3fzs14y9gwqjb.cloudfront.net">https://d3fzs14y9gwqjb.cloudfront.net</a><br/><a href="https://d1uddprl7sjss7.cloudfront.net">https://d1uddprl7sjss7.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/></td>    </tr>
 </table>

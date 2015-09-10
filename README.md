@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zw0job7tsmhb.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3k49tn6643mmn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%88%E6%94%BF%E6%B2%BB%EF%BC%9F/" target="cdt-mirror">羽戈：我为什么要在朋友圈谈政治？</a>
@@ -602,7 +602,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0%EF%BD%9C%E8%A9%B9%E4%B8%87%E6%89%BF%EF%BC%9A%E5%BE%90%E5%BE%90%E8%BE%BE%E5%86%85/" target="cdt-mirror">媒体札记｜詹万承：徐徐达内</a>
 </h2>
@@ -888,5 +888,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/></td>    </tr>
 </table>

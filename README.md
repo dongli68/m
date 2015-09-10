@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%88%E6%94%BF%E6%B2%BB%EF%BC%9F/" target="cdt-mirror">羽戈：我为什么要在朋友圈谈政治？</a>
@@ -878,7 +878,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgh7yrh8pdvef.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zw0job7tsmhb.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -888,5 +888,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zw0job7tsmhb.cloudfront.net">https://d1zw0job7tsmhb.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d3k49tn6643mmn.cloudfront.net">https://d3k49tn6643mmn.cloudfront.net</a><br/><a href="https://d13w7bms85pmhf.cloudfront.net">https://d13w7bms85pmhf.cloudfront.net</a><br/><a href="https://dgh7yrh8pdvef.cloudfront.net">https://dgh7yrh8pdvef.cloudfront.net</a><br/></td>    </tr>
 </table>

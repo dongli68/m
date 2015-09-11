@@ -21,9 +21,75 @@
                 <td></td>
                 
         
-        <td><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d2jgmllmhoh7zy.cloudfront.net">https://d2jgmllmhoh7zy.cloudfront.net</a><br/><a href="https://dc7s95b0ds979.cloudfront.net">https://dc7s95b0ds979.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://d1whe7ue4n4p59.cloudfront.net">https://d1whe7ue4n4p59.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://dc7s95b0ds979.cloudfront.net">https://dc7s95b0ds979.cloudfront.net</a><br/><a href="https://d1whe7ue4n4p59.cloudfront.net">https://d1whe7ue4n4p59.cloudfront.net</a><br/><a href="https://d2jgmllmhoh7zy.cloudfront.net">https://d2jgmllmhoh7zy.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BD%A0%E8%80%81%E5%AE%B6%E7%9A%84%E5%85%AC%E5%AE%89%E5%B1%80%E4%B9%9F%E8%AE%B8%E6%98%AF%E8%BF%99%E6%A0%B7%E7%AE%A1%E7%90%86/" target="cdt-mirror">【立此存照】你老家的公安局也许是这样“管理”舆情的</a>
+</h2>
+<p><p>【编者注】景晓军是任子行网络技术股份有限公司的创始人、法人及绝对控股股东。根据福布斯中文网<a href="http://3g.forbeschina.com/review/201506/0043208.shtml">报道</a>，2015年6月的牛市催生了大量<strong>新亿万富豪</strong>，<strong>其中一名就是景晓军</strong>：</p>
+<blockquote><p>科技界的另一名新富豪是47岁的景晓军，网络安全企业任子行网络技术股份有限公司董事长。他拥有公司56.4%的股权，以6月3日收盘价62.19元计算，对抵押股份进行折价后，价值73亿元，合12亿美元。任子行最近将业务拓展至在线游戏领域。景晓军拥有哈尔滨工业大学博士学位。</p></blockquote>
+<p><strong>北邮信息与通信工程学院</strong>官方网站上对景晓军的<a href="http://sice.bupt.edu.cn/master/tutors/duomeiti.htm">介绍</a>：</p>
+<blockquote><p>景晓军，男，教授，博士生导师，北京邮电大学军事通信学学科带头人、生物识别及多媒体通信实验室主任，全国模范军队转业干部，科学中国人2008年度人物，中国电子学会高级会员，国家863项目评审专家。本科毕业于北京师范大学；1995年、1999年于国防科技大学分别获学士和博士学位。2000年至2002年在北京邮电大学做博士后。</p></blockquote>
+<p>巧合的是，<strong>前北邮校长方滨兴</strong>拥有<strong>哈尔滨工业大学博士学位</strong>并曾在该校<strong>任教</strong>，他在<strong>国防科技大学</strong>担任过<strong>博士后</strong>。这三所高校果然人才辈出。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%A0%A1%E9%95%BF%E5%8D%83%E5%8F%A4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%A0%A1%E9%95%BF%E5%8D%83%E5%8F%A4.jpg" alt="校长千古" width="365" height="500"></a><br><em>（“校长千古” by 巴丢草）</em></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E6%B3%A1%E6%B3%A1%E7%BD%91-%E4%BA%92%E8%81%94%E7%BD%91%E7%BB%B4%E7%A8%B3%EF%BC%9A%E8%88%86%E6%83%85%E7%9B%91%E6%8E%A7%E5%85%AC%E5%8F%B8%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A5/">泡泡网 | “互联网+”维稳：舆情监控公司去年收入大幅增长</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/08/%E6%B3%A1%E6%B3%A1%E7%BD%91%EF%BD%9C%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%9B%BD%E8%88%86%E6%83%85%E7%9B%91%E6%B5%8B%E8%BD%AF%E4%BB%B6%EF%BC%88%E5%9B%BE%E8%A7%A3%EF%BC%89/">泡泡网｜详解中国舆情监测软件（图解）</a></li>
+</ul></blockquote>
+<p><strong>以下为任子行某款互联网舆情综合管理系统产品介绍的部分内容：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.png" alt="产品功能介绍" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B1.png" alt="产品案例1" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B2.png" alt="产品案例2" width="500" height=""></a></p>
+<p><strong>核心价值：</strong></p>
+<blockquote><p><strong>CASE3：舆情导控统一指挥平台（天鹰系统〈—〉宣传部门）</strong><br>
+问题：舆情导控工作作为政府宣传部门的主要职责之一，负责所辖区域各党政单位相关舆论事件和关注事件的发现、预警、分析及管理，涉及到维稳、民生、维权、环境、自然灾害、突发事件等多领域。宣传部与多数党政机关单位级别一样，职责分工各有侧重，但在舆论导控上起统领作用，由于缺乏科学化管理手段，在舆论发生后短时间内无发有效组织各党政单位的全部网评员针对性引导，导控力量不集中，部分舆情事件导控成效不显著。</p>
+<p><strong>方案</strong>：可通过建设天鹰系统，以系统为统一指挥平台，树立舆情管控职能的宣传部门为舆情导控的龙头地位，以各党政机关为导控小组成员，统一思想、达成共识，结合系统的采集、预警、研判及分析等模块关联动作，发现舆情并通过系统实时报送，针对需要导控的舆情统一下发导控任务，集中力量提升导控成效，以系统为发现工具及思想统一载体，提升宣传部门的舆情发现效率及处置能力。</p></blockquote>
+<p><strong>产品功能介绍：</strong></p>
+<blockquote><p><strong>»任务下达</strong></p>
+<p>基于省、市、县三级应用的业务流程，上级机构可对重要舆情信处置作出指示并通知给相关分支或相关人员处理时，可通过系统的任务下发模块，向下级部门或全体“网评员”发布引导指令和引导内容，发布引导任务的同时可进行短信提醒，确保所有网评员第一时间内接收到导控任务。</p>
+<p><strong>»考核统计</strong></p>
+<p>舆情处置的方式通常分为“删帖”、“引导”两种方式。针对已经处于被动局面的舆情事件，通常采用组织网评员队伍进行正向引导。网评员是否确实参与了对重大舆情引导以及引导产生的贡献，需要根据系统提供的按引导员发贴、引导员在线率、信息报送、任务下达去量化考核，量化的结果可导出EXCEL报表，作为引导绩效的考核依据；</p>
+<p><strong>»重点网名</strong></p>
+<p><strong>1）重点人监控</strong><br>
+舆情的产生一般来自于某个特定的网民或某个组织，这些网民或组织往往是网络舆情的发源地、高危虚拟人群，需要持续重点关注；系统可挖掘指定网名涉及的所有虚拟人身份发布的全部帖文，持续关注发帖动态并确保及时发现，为及时处置提供了时间缓冲；支持手工增加关心的微博博主、博客博主，且敏感帖子的论坛虚拟账号可加入重点关注。</p>
+<p><strong>2）重点人动态</strong><br>
+重点网名管理内设置的重点网名监控对象，可在重点人动态中按是时间段、网站来源、关键字、排序方式查询重点对象发出的所有信息，以及返回的查询信息可按论坛、博客、微博、聊天群、新闻类型进行二次检索。</p></blockquote>
+<p><strong>产品案例：</strong></p>
+<ul><li>黑龙江省公安厅网安总队</li>
+<li>江汉石油管理局人民武装部</li>
+<li>松原市公安局</li>
+<li>湖北恩施供电局</li>
+<li>梧州市公安局</li>
+<li>甘肃庆城县政府</li>
+<li>国务院新闻办公室</li>
+<li>河北武安市委</li>
+<li>嘉峪关市人民政府办公室</li>
+<li>辽宁省社会发展研究中心</li>
+<li>深圳市龙岗电子政务管理办公室</li>
+<li>塔里木油田</li>
+<li>保定市委宣传部</li>
+<li>商洛山阳县政府</li>
+<li>庆阳市西峰区政府</li>
+<li>广州空军政治部</li>
+<li>廊坊武警学院</li>
+<li>攀枝花市公安局</li>
+<li>阳江市公安局</li>
+<li>广元市公安局</li>
+<li>河北省委党校</li>
+<li>天津市图书馆</li>
+<li>米易县公安局</li>
+<li>盐边县公安局</li>
+<li>新疆建设兵团</li>
+<li>滦平县政府</li>
+<li>望城县公安局</li>
+<li>横山县委宣传部</li>
+<li>湛江市公安局</li>
+</ul><hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BD%A0%E8%80%81%E5%AE%B6%E7%9A%84%E5%85%AC%E5%AE%89%E5%B1%80%E4%B9%9F%E8%AE%B8%E6%98%AF%E8%BF%99%E6%A0%B7%E7%AE%A1%E7%90%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%A0%A1%E9%95%BF/?category=18271" rel="tag">方校长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E6%83%85%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">舆情监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%9E%E6%8A%95%E7%A5%A8%E6%9D%83%E9%83%BD%E6%B2%A1%E6%9C%89%E8%BF%98%E8%AF%B4%E5%95%A5%E5%91%A2%EF%BC%8C%E8%B4%B5%E5%85%9A%E5%BC%80%E5%BF%83/" target="cdt-mirror">【网络民议】连投票权都没有还说啥呢，贵党开心就好</a>
 </h2>
 <p><p><strong><a href="http://news.sina.com.cn/c/2015-09-10/232332296609.shtml">学习大国｜王岐山：中共合法性源自于历史 是人民的选择</a></strong></p>
@@ -678,34 +744,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B1%B1%E4%B8%9C%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%EF%BC%8C%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%89%B9%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E6%8E%AA-2/" target="cdt-mirror">纽约时报 | 山东化工厂爆炸，新华社批地方政府措辞“冷血”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/07sino-blast01-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/07sino-blast01-articleLarge.jpg" alt="07sino-blast01-articleLarge" width="575" height=""></a></p>
-<p>中国东部的山东省一家化工厂发生爆炸所导致的死亡人数周末增加了数倍之后，国家通讯社批评当地政府公布处理情况的通报冷酷无情。</p>
-<p>在利津县的爆炸发生之前，两周时间内中国里发生了两次爆炸。先是发生在港口城市天津的化学品爆炸，该事故已造成160人死亡，再就是一周前山东发生的、另一起造成一人死亡的爆炸 。虽然这类事故并不罕见，但天津爆炸的死亡人数加剧了人们对在住宅区附近生产、存放有毒和易燃易爆化学品所带来的危险的担忧。</p>
-<p>最初的报道称，山东滨源化工厂8月31日发生的爆炸导致一人死亡。几天后，死亡人数增加到5人。然后，这一人数在周六上升到13 人。</p>
-<p>东营市政府宣布新死亡人数的通报称，有些遗体“爆炸时形成碎片”，但遇难者家属“情绪稳定”。利津县下属东营市。</p>
-<p>对遇难者的冷漠，以及对被中国官员视为优先事务的维稳的重视，在网上引发了愤怒的批评，也引起国家通讯社新华社的责难。</p>
-<p>“冷血的措辞，更像是给上级领导的情况说明，讲的是‘官话’，不是‘人话’，是典型的维稳思维，”新华社评论说。</p>
-<p>新华社说，东营市政府网站上的帖子后来被删除。</p>
-<p>重大灾难的死亡人数在中国可以是一个敏感话题。2012年，北京部分道路被大水淹后，一些人曾怀疑市政府统计的死亡人数过低，于是他们开始网上搜集自己的数字。几天之内，市政府宣布了新的死亡人数，比原来的人数增加了一倍还多。</p>
-<p>官方淡化灾难的冲动在国内有重大活动期间尤为强烈。许多批评人士说，2008年婴幼儿配方奶粉受污染的丑闻被掩盖了好几个月，以避免给那年在北京举行的奥运会带来不利影响，该事件造成至少6名儿童死亡，还造成大约30万人患病。</p>
-<p>新华社的评论没提一些人在中文微博的帖子中注意到事情，那就是，新的死亡人数是在北京庆祝日本二战投降70周年举行大阅兵过后几天发布的。中国领导人高度重视这次阅兵，国家主席习近平，及其前任胡锦涛、江泽民，还有包括俄罗斯总统弗拉基米尔·V·普京(Vladimir V. Putin)、韩国总统朴槿惠等主要邻国的领导人观看了阅兵。</p>
-<div>
-<p>王霜舟(Austin Ramzy)是《纽约时报》记者。</p>
-<p>欢迎在Twitter上关注王霜舟 <em><a href="https://twitter.com/austinramzy" target="_blank" rel="nofollow">@austinramzy</a>。</em></p>
-<p>翻译：Cindy Hao</p>
-</div>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B1%B1%E4%B8%9C%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%EF%BC%8C%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%89%B9%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E6%8E%AA-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E5%88%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">山东利津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -717,7 +755,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dc7s95b0ds979.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d39a5hevzebgwj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +765,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
                 <td></td>
                 
         
-        <td><a href="https://dc7s95b0ds979.cloudfront.net">https://dc7s95b0ds979.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1whe7ue4n4p59.cloudfront.net">https://d1whe7ue4n4p59.cloudfront.net</a><br/><a href="https://d2jgmllmhoh7zy.cloudfront.net">https://d2jgmllmhoh7zy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d2jgmllmhoh7zy.cloudfront.net">https://d2jgmllmhoh7zy.cloudfront.net</a><br/><a href="https://dc7s95b0ds979.cloudfront.net">https://dc7s95b0ds979.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://d1whe7ue4n4p59.cloudfront.net">https://d1whe7ue4n4p59.cloudfront.net</a><br/></td>    </tr>
 </table>

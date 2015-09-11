@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dc7s95b0ds979.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dp7q455yqbv2r.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dc7s95b0ds979.cloudfront.net">https://dc7s95b0ds979.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://d2jgmllmhoh7zy.cloudfront.net">https://d2jgmllmhoh7zy.cloudfront.net</a><br/><a href="https://d1whe7ue4n4p59.cloudfront.net">https://d1whe7ue4n4p59.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://dc7s95b0ds979.cloudfront.net">https://dc7s95b0ds979.cloudfront.net</a><br/><a href="https://d2jgmllmhoh7zy.cloudfront.net">https://d2jgmllmhoh7zy.cloudfront.net</a><br/><a href="https://d1whe7ue4n4p59.cloudfront.net">https://d1whe7ue4n4p59.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%9E%E6%8A%95%E7%A5%A8%E6%9D%83%E9%83%BD%E6%B2%A1%E6%9C%89%E8%BF%98%E8%AF%B4%E5%95%A5%E5%91%A2%EF%BC%8C%E8%B4%B5%E5%85%9A%E5%BC%80%E5%BF%83/" target="cdt-mirror">【网络民议】连投票权都没有还说啥呢，贵党开心就好</a>
@@ -71,7 +71,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/?category=18271" rel="tag">抗日神剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%97%A0%E9%94%A1%E9%BB%91%E7%9B%91%E7%8B%B1%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83%E5%87%BA%E5%85%A5%E6%88%B4%E9%BB%91%E5%A4%B4%E5%A5%97/" target="cdt-mirror">自由亚洲｜无锡黑监狱死灰复燃出入戴黑头套</a>
 </h2>
@@ -518,7 +518,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8A%9E/?category=18271" rel="tag">中办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%A5%A5%E9%94%8B/?category=18271" rel="tag">孟祥锋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%8C%91%E6%88%98%E8%A5%BF%E6%96%B9%E4%BA%92%E8%81%94%E7%BD%91%E9%9C%B8%E6%9D%83-%E6%AC%B2%E9%87%8D%E5%88%92%E7%BD%91/" target="cdt-mirror">参考消息 | 美媒：中国挑战西方互联网霸权 欲重划网络版图</a>
 </h2>
@@ -717,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dp7q455yqbv2r.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dc7s95b0ds979.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
                 <td></td>
                 
         
-        <td><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1whe7ue4n4p59.cloudfront.net">https://d1whe7ue4n4p59.cloudfront.net</a><br/><a href="https://dc7s95b0ds979.cloudfront.net">https://dc7s95b0ds979.cloudfront.net</a><br/><a href="https://d2jgmllmhoh7zy.cloudfront.net">https://d2jgmllmhoh7zy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dc7s95b0ds979.cloudfront.net">https://dc7s95b0ds979.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://d39a5hevzebgwj.cloudfront.net">https://d39a5hevzebgwj.cloudfront.net</a><br/><a href="https://d1whe7ue4n4p59.cloudfront.net">https://d1whe7ue4n4p59.cloudfront.net</a><br/><a href="https://d2jgmllmhoh7zy.cloudfront.net">https://d2jgmllmhoh7zy.cloudfront.net</a><br/></td>    </tr>
 </table>

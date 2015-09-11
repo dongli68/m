@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1hjdln2eqx5xu.cloudfront.net">https://d1hjdln2eqx5xu.cloudfront.net</a><br/><a href="https://d1781sn950v8j3.cloudfront.net">https://d1781sn950v8j3.cloudfront.net</a><br/><a href="https://d14xgdfdh4j4sm.cloudfront.net">https://d14xgdfdh4j4sm.cloudfront.net</a><br/><a href="https://dqljaj7q4039f.cloudfront.net">https://dqljaj7q4039f.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1hjdln2eqx5xu.cloudfront.net">https://d1hjdln2eqx5xu.cloudfront.net</a><br/><a href="https://dqljaj7q4039f.cloudfront.net">https://dqljaj7q4039f.cloudfront.net</a><br/><a href="https://d14xgdfdh4j4sm.cloudfront.net">https://d14xgdfdh4j4sm.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d1781sn950v8j3.cloudfront.net">https://d1781sn950v8j3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BD%A0%E8%80%81%E5%AE%B6%E7%9A%84%E5%85%AC%E5%AE%89%E5%B1%80%E4%B9%9F%E8%AE%B8%E6%98%AF%E8%BF%99%E6%A0%B7%E7%AE%A1%E7%90%86/" target="cdt-mirror">【立此存照】你老家的公安局也许是这样“管理”舆情的</a>
@@ -755,7 +755,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1781sn950v8j3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dqljaj7q4039f.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -765,5 +765,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2
                 <td></td>
                 
         
-        <td><a href="https://d1781sn950v8j3.cloudfront.net">https://d1781sn950v8j3.cloudfront.net</a><br/><a href="https://dqljaj7q4039f.cloudfront.net">https://dqljaj7q4039f.cloudfront.net</a><br/><a href="https://d14xgdfdh4j4sm.cloudfront.net">https://d14xgdfdh4j4sm.cloudfront.net</a><br/><a href="https://d1hjdln2eqx5xu.cloudfront.net">https://d1hjdln2eqx5xu.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dqljaj7q4039f.cloudfront.net">https://dqljaj7q4039f.cloudfront.net</a><br/><a href="https://d1781sn950v8j3.cloudfront.net">https://d1781sn950v8j3.cloudfront.net</a><br/><a href="https://dgi698eqxuykz.cloudfront.net">https://dgi698eqxuykz.cloudfront.net</a><br/><a href="https://d1hjdln2eqx5xu.cloudfront.net">https://d1hjdln2eqx5xu.cloudfront.net</a><br/><a href="https://d14xgdfdh4j4sm.cloudfront.net">https://d14xgdfdh4j4sm.cloudfront.net</a><br/></td>    </tr>
 </table>

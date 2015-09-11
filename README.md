@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d334m1o5ljsj75.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%EF%BD%9C%E5%94%90%E4%B8%B9%E9%B8%BF%EF%BC%9A%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98%EF%BC%9A%E8%A2%AB%E6%B6%82%E6%8A%B9%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%92%8C%E8%A2%AB/" target="cdt-mirror">民主中国 ｜唐丹鸿：西藏问题：被涂抹的身份和被肢解的地理</a>
@@ -174,7 +174,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%BF%B0
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%A0%A1%E9%95%BF/?category=18271" rel="tag">方校长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E6%83%85%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">舆情监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%9E%E6%8A%95%E7%A5%A8%E6%9D%83%E9%83%BD%E6%B2%A1%E6%9C%89%E8%BF%98%E8%AF%B4%E5%95%A5%E5%91%A2%EF%BC%8C%E8%B4%B5%E5%85%9A%E5%BC%80%E5%BF%83/" target="cdt-mirror">【网络民议】连投票权都没有还说啥呢，贵党开心就好</a>
 </h2>
@@ -829,7 +829,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -839,5 +839,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d334m1o5ljsj75.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%EF%BD%9C%E5%94%90%E4%B8%B9%E9%B8%BF%EF%BC%9A%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98%EF%BC%9A%E8%A2%AB%E6%B6%82%E6%8A%B9%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%92%8C%E8%A2%AB/" target="cdt-mirror">民主中国 ｜唐丹鸿：西藏问题：被涂抹的身份和被肢解的地理</a>
@@ -108,7 +108,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%BF%B0%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">口述历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E4%B8%B9%E9%B8%BF/?category=18271" rel="tag">唐丹鸿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BD%A0%E8%80%81%E5%AE%B6%E7%9A%84%E5%85%AC%E5%AE%89%E5%B1%80%E4%B9%9F%E8%AE%B8%E6%98%AF%E8%BF%99%E6%A0%B7%E7%AE%A1%E7%90%86/" target="cdt-mirror">【立此存照】你老家的公安局也许是这样“管理”舆情的</a>
 </h2>
@@ -829,7 +829,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dzfeym8wykjz8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -839,5 +839,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/></td>    </tr>
 </table>

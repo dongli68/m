@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mvi556e3jv75.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">BBC｜中纪委就华润原董事长宋林涉贪案立案审查</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/130718070317_cn_song_lin_640x360_xinhua.jpg" alt="130718070317_cn_song_lin_640x360_xinhua" width="660" height="371"><br>
+宋林在被一名记者在网上实名举报“巨额贪腐”之后于去年月开始接受调查</p>
+<p>中共反腐机构中共中央纪委宣布对华润集团原党委书记、董事长宋林进行“双开”，并对其严重违纪违法问题进行立案审查。</p>
+<p>中纪委监察部网站在9月11日发布消息称，宋林利用职务便利为他人谋取利益、收受贿赂，将公款作个人用途，以及与他人通奸等，其中贪污、受贿问题涉嫌犯罪中，中纪委已正式立案审查，并将其涉嫌犯罪问题、线索和所涉款物移送司法机关处理。</p>
+<p>同一天，中纪委还宣布了对香港中旅（集团）有限公司原党委副书记、副董事长、总经理王帅廷在华润任职期间的严重违纪问题进行立案审查。</p>
+<p>两人均被开除了中共党籍，并被监察部给予行政开除处分，即所谓“双开”。</p>
+<p>华润（集团）有限公司在《财富》杂志评选的2014年世界500强企业中排名第115，直接拥有5家在香港交易所上市的子公司，其公开资料显示该公司至2014年总资产为12517亿港元。</p>
+<p>宋林在被一名记者在网上实名举报“巨额贪腐”之后于去年月开始接受调查。</p>
+<p>法新社指，中纪委宣关相关消息的举动通常意味着宋林将被定罪。</p>
+<p>路透社报道则指，在中国国家主席习近平上任后展开“老虎苍蝇一起打”的大规模反腐行动后，中国的最高反腐机构已经对华润集团进行了多个月的调查。</p>
+<p>（编写：列尔 责编：萧尔）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E6%9E%97/?category=18271" rel="tag">宋林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B8%85%E5%BB%B7/?category=18271" rel="tag">王帅廷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E8%85%90/?category=18271" rel="tag">贪腐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%EF%BD%9C%E5%94%90%E4%B8%B9%E9%B8%BF%EF%BC%9A%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98%EF%BC%9A%E8%A2%AB%E6%B6%82%E6%8A%B9%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%92%8C%E8%A2%AB/" target="cdt-mirror">民主中国 ｜唐丹鸿：西藏问题：被涂抹的身份和被肢解的地理</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2014/07/G0214221-1.jpg" alt="图为中国政府去年设立的“清政府驻藏大臣衙门”，一个改写历史的所谓展览馆。" width="496" height="317"><p>图为中国政府去年设立的“清政府驻藏大臣衙门”，一个改写历史的所谓展览馆。</p></div>
@@ -786,38 +809,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%95%91%E7%81%BE%E6%8A%A5%E9%81%93%E6%A0%87%E5%87%86%E6%B5%81%E7%A8%8B%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B%EF%BC%9A%E5%8F%B0%E9%A3%8E/" target="cdt-mirror">【立此存照】救灾报道标准流程操作实例：台风“苏迪罗”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%B8%A9%E5%B7%9E%E5%AE%A3%E4%BC%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%B8%A9%E5%B7%9E%E5%AE%A3%E4%BC%A0.png" alt="温州宣传" width="550" height=""></a><br><em>（网页截图）</em></p>
-<blockquote><p>背景新闻：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E6%96%B0%E7%BD%91%EF%BD%9C%E5%8F%B0%E9%A3%8E%E8%8B%8F%E8%BF%AA%E7%BD%97%E8%87%B4%E6%B5%99%E6%B1%9F14%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E7%99%BE%E4%B8%87%E4%BA%BA%E5%8F%97/">中新网｜台风“苏迪罗”致浙江14人死亡 百万人受灾</a></p></blockquote>
-<p><strong>以下内容来自<a href="http://www.wzxc.gov.cn/system/2015/09/01/012118586.shtml">温州市委宣传部网站</a></strong>：</p>
-<h2><span><strong>乐清市众志成城打好抢险救灾宣传战</strong></span></h2>
-<p> <br>
-受今年13号台风“苏迪罗”影响，乐清市北部山区雨量较大，部分地区出现山体滑坡和泥石流等险情，全市农作物被淹较为严重，给全市人民带来了巨大的经济损失。乐清市宣传系统主动出击，大力营造广大干部群众抢险救灾的良好舆论氛围，全力打好抗台救灾宣传战。</p>
-<p>一、全面开展新闻报道，<span><strong>展现众志成城的抗台决心</strong></span>。<span><strong>充分发挥新闻舆论引导作用</strong></span>，<span><strong>及时报道市领导</strong></span>对大荆、仙溪、芙蓉等地质灾害点进行的<span><strong>灾后救灾部署工作</strong></span>，<span><strong>不断传递党委政府的关心和帮助</strong></span>。针对台风过境所带来的强风暴雨给该市农业、交通等造成的影响，组织新闻工作者深入田间地头、电力抢修、江堤道路抢险等抗台一线，<span><strong>抓取细节和镜头，全面展现干群一心、众志成城的动人场景</strong></span>。该市媒体主动对接相关部门，通过乐清电视台、RM99.5等对救灾进展情况进行滚动报道，让群众能及时了解项目进展情况。</p>
-<p>二、突出报道抢险救灾，<span><strong>营造灾后重建良好氛围</strong></span>。<span><strong>积极组织全市媒体记者开展灾后重建鲜活事例发掘工作</strong></span>，推出了“大荆石门潭4人获救”等<span><strong>抢险救灾工作的典型人物事迹</strong></span>。同时，报道采取报、网、APP、微博、微信公共号集群传播、推送等方式进行。面对台风造成的巨大破坏，乐成、大荆等镇(街)及时组织党员突击队、服务队，会同有关部门积极做好安置受灾群众、帮扶困难群众、开展生产自救等工作。目前，城北社区松罗村危房倒塌、大荆葡萄被毁等事件在当地党员先锋的共同努力下，都开展了生产、生活自救。</p>
-<p>三、重点加强新媒体宣传，<span><strong>切实做好网上舆论引导</strong></span>。以“乐清发布”微信公众平台为信息发布主体，联合17个镇(街)以及属地重点社会组织微信公众号，形成<span><strong>行为规范、口径统一的抗台救灾信息发布联盟</strong></span>。如乐清发布、中国乐清网<strong><span>推送典型人物、事件等</span></strong>被分享到微信30多次，评论跟帖5万条，总点赞数1万多个，<span><strong>充分展示了网络上的正能量</strong></span>。针对市民反映的灾后用电、交通等安全问题，@乐清交警支队、@乐清交通运输等相关部门政务微博密切互动，及时回应网友反馈 的相关信息，为市民了解最新情况，顺畅出行、确保安全提供参考。<span><strong>建立24小时舆情监测机制，及时疏导灾后可能出现的不良情绪或负面信息，在引导正确舆论方面起到积极作用</strong></span>。</p>
-<p>〔乐清市委宣传部供稿〕</p>
-<h2><span><strong>文成县全力做好抢险救灾宣传工作</strong></span></h2>
-<p> <br>
-文成县积极组织县属新闻媒体做好抢险救灾相关宣传工作，并加强舆论引导，多方举措，全力打好抢险救灾“<strong>宣传战</strong>”。</p>
-<p>一、多方合力，全面宣传。一是加强新闻宣传。在文成新闻综合频道全天实时播报“抗击‘苏迪罗’特别报道”，在文成新闻网开设“文成抢险救灾在行动”专题。通过采访报道、视频图片、观点评论等各种形式，第一时间报道抢险救灾工作动态新闻，<span><strong>实时刊播各级领导赶赴现场指挥防汛抗台救灾</strong>，<strong>刊播交通、电力、通信、消防、各乡镇齐心协力开展防汛抗台的动态新闻，营造全县上下齐心抗灾的浓厚氛围</strong></span>。二是<span><strong>宣传最美事迹</strong></span>。深入一线，<span><strong>宣传报道全县党员干部冲在抢险救灾第一线的生动事迹，宣传报道广大干部群众众志成城、团结互助、防汛救灾的生动场面</strong></span>，刊播了《从湍急的洪水中他们救出了14个人》《村干部刚拽出村民房屋就倒塌了》等新闻。</p>
-<p>二、多网联动，<span><strong>强化引导</strong></span>。一是发挥新媒体优势做好报道。在@文成发布推出“文成抗台在行动”专题，集中宣传，第一时间发布转载防汛救灾有关新闻报道，实时发布权威气象信息、预警灾害信息等，及时报道气象、水利等部门抗台防汛救灾抢险的最新动态，并提醒广大市民注意水灾和内涝影响，切实做好安全防范工作。在“文成发布”、各大乡镇政务微信公众平台推出抢险救灾专题报道以及抗台在行动系列报道。二是发挥主阵地优势加强引导。<span><strong>加强网络值守，全面收集防汛救灾舆情信息，认真研判网络舆情，澄清不实言论，发布权威信息。已编发信息《网传文成珊溪山洪暴发致好多老人死亡，是谣言！》进行辟谣，确保网上舆论成 为推动防汛救灾的“正能量”</strong>。</span></p>
-<p>三、多措并举，保障民生。一是重视防汛救灾抢险安全提示的宣传。通过电视新闻画面、电视滚动字幕、广播电台、农村广播、大型LED显示屏、银行网点等多个 宣传阵地，滚动播发提醒公众注意事项，加强行车、饮水、用电、防疫、食品、危房等各类安全信息的宣传和提醒，进一步加强社会公众防汛防台和生产自救知识的宣传。二是重视搭建桥梁帮助群众保障民生。立即开展“一线党旗抗台抢险”活动，组织抢修交通、电力等设施，重点做好灾民安置，<span><strong>稳定情绪</strong></span>。各级党组织和全体党员干部发动群众，有力有序组织好灾区一线群众积极开展自救、互救、互助活动，特别是帮助老弱病残人员共渡难关，尽最大努力把灾区人民群众生命财产损失降到最低程度。</p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/">真理部指令</a>系列</li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E8%88%B9%E9%9A%BE%E5%AE%A3%E4%BC%A0%E5%8F%A3%E5%BE%84%E7%AD%89/">【真理部】“东方之星”船难，昂山素季访华和《穹顶之下》</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2010/11/%E5%85%9A%E5%9B%BD%E5%BA%94%E5%AF%B9%E7%81%BE%E9%9A%BE%E7%9A%84%E6%A0%87%E5%87%86%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B-%E4%BB%A5%E4%B8%8A%E6%B5%B7%E5%A4%A7%E7%81%AB%E4%B8%BA%E4%BE%8B/">党国应对灾难的标准操作流程——以上海大火为例</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2010/04/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E9%9A%BE%E6%96%B0%E9%97%BB%E4%B8%87%E8%83%BD%E6%A8%A1%E6%9D%BF/">中国矿难新闻万能模板</a></li>
-</ul></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%95%91%E7%81%BE%E6%8A%A5%E9%81%93%E6%A0%87%E5%87%86%E6%B5%81%E7%A8%8B%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B%EF%BC%9A%E5%8F%B0%E9%A3%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">事故通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -829,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2mvi556e3jv75.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -839,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2mvi556e3jv75.cloudfront.net">https://d2mvi556e3jv75.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d334m1o5ljsj75.cloudfront.net">https://d334m1o5ljsj75.cloudfront.net</a><br/><a href="https://dzfeym8wykjz8.cloudfront.net">https://dzfeym8wykjz8.cloudfront.net</a><br/></td>    </tr>
 </table>

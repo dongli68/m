@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddcf2off3kj5d.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31o2vkpez5uym.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ddcf2off3kj5d.cloudfront.net">https://ddcf2off3kj5d.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d3ve2msqjbm44f.cloudfront.net">https://d3ve2msqjbm44f.cloudfront.net</a><br/><a href="https://d3lqwmarwg5b21.cloudfront.net">https://d3lqwmarwg5b21.cloudfront.net</a><br/><a href="https://d31o2vkpez5uym.cloudfront.net">https://d31o2vkpez5uym.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d31o2vkpez5uym.cloudfront.net">https://d31o2vkpez5uym.cloudfront.net</a><br/><a href="https://d3ve2msqjbm44f.cloudfront.net">https://d3ve2msqjbm44f.cloudfront.net</a><br/><a href="https://ddcf2off3kj5d.cloudfront.net">https://ddcf2off3kj5d.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d3lqwmarwg5b21.cloudfront.net">https://d3lqwmarwg5b21.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B5%99%E6%B1%9F%E5%90%84%E5%9C%B0%E5%88%86%E4%BA%AB%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6%E7%9A%84%E6%88%90%E5%8A%9F%E7%BB%8F%E9%AA%8C/" target="cdt-mirror">浙江各地分享强拆十字架的成功经验</a>
@@ -55,7 +55,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">强拆十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E5%A5%87%E5%A5%B3%E5%AD%90-%E9%83%AD%E7%BE%8E%E7%BE%8E/" target="cdt-mirror">李承鹏：奇女子——郭美美</a>
 </h2>
@@ -728,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d21qim0gsgtf07.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31o2vkpez5uym.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -738,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d3lqwmarwg5b21.cloudfront.net">https://d3lqwmarwg5b21.cloudfront.net</a><br/><a href="https://d3ve2msqjbm44f.cloudfront.net">https://d3ve2msqjbm44f.cloudfront.net</a><br/><a href="https://ddcf2off3kj5d.cloudfront.net">https://ddcf2off3kj5d.cloudfront.net</a><br/><a href="https://d31o2vkpez5uym.cloudfront.net">https://d31o2vkpez5uym.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d31o2vkpez5uym.cloudfront.net">https://d31o2vkpez5uym.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d3lqwmarwg5b21.cloudfront.net">https://d3lqwmarwg5b21.cloudfront.net</a><br/><a href="https://d3ve2msqjbm44f.cloudfront.net">https://d3ve2msqjbm44f.cloudfront.net</a><br/><a href="https://ddcf2off3kj5d.cloudfront.net">https://ddcf2off3kj5d.cloudfront.net</a><br/></td>    </tr>
 </table>

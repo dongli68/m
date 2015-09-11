@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dkixqk3iysstl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dp7q455yqbv2r.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://dkixqk3iysstl.cloudfront.net">https://dkixqk3iysstl.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://dv5nf53sr8cni.cloudfront.net">https://dv5nf53sr8cni.cloudfront.net</a><br/><a href="https://d2wcdppykh5fct.cloudfront.net">https://d2wcdppykh5fct.cloudfront.net</a><br/><a href="https://d1hllci6ba8q4s.cloudfront.net">https://d1hllci6ba8q4s.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://d2wcdppykh5fct.cloudfront.net">https://d2wcdppykh5fct.cloudfront.net</a><br/><a href="https://dkixqk3iysstl.cloudfront.net">https://dkixqk3iysstl.cloudfront.net</a><br/><a href="https://d1hllci6ba8q4s.cloudfront.net">https://d1hllci6ba8q4s.cloudfront.net</a><br/><a href="https://dv5nf53sr8cni.cloudfront.net">https://dv5nf53sr8cni.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%9E%E6%8A%95%E7%A5%A8%E6%9D%83%E9%83%BD%E6%B2%A1%E6%9C%89%E8%BF%98%E8%AF%B4%E5%95%A5%E5%91%A2%EF%BC%8C%E8%B4%B5%E5%85%9A%E5%BC%80%E5%BF%83/" target="cdt-mirror">【网络民议】连投票权都没有还说啥呢，贵党开心就好</a>
+</h2>
+<p><p><strong><a href="http://news.sina.com.cn/c/2015-09-10/232332296609.shtml">学习大国｜王岐山：中共合法性源自于历史 是人民的选择</a></strong></p>
+<blockquote><p>王岐山指出，执政党的使命决定了必须从严治党，执政党对人民的承诺就是它的使命。要兑现承诺，执政党必须对自身严格要求。中国共产党的合法性源自于历史，是人心向背决定的，是人民的选择。办好中国的事情，就要看人民高兴不高兴、满意不满意、答应不答应。执政党代表人民、服务人民，就要确立核心价值观，坚守在行动上。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg" alt="老百姓的钱包是共产党的牵挂" width="500" height=""></a><br><em>（网络图片）</em></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2014/05/%E3%80%90%E4%B9%A6%E8%AF%84%E3%80%91%E9%99%88%E8%8A%9D%EF%BD%9C%E6%80%8E%E6%A0%B7%E8%AE%BA%E8%AF%81%E6%88%91%E5%85%9A%E6%B0%B8%E8%BF%9C%E6%AD%A3%E7%A1%AE%EF%BC%9A%E4%B8%A4%E7%A7%8D%E5%85%9A%E4%B9%89/">陈芝｜怎样论证我党永远正确：两种党义论与四种党正论</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/06/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%90%88%E6%B3%95%E6%80%A7%E5%8D%B1%E6%9C%BA/">宋志标：合法性危机</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E7%BE%BD%E6%88%88%EF%BD%9C%E6%A8%8A%E5%BC%93%EF%BC%9A%E8%BE%A9%E8%AF%81%E6%B3%95%E4%B8%8E%E6%94%BE%E5%B1%81/">羽戈｜樊弓：辩证法与放屁</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@上海老顽童吴德余：因为我承诺“全心全意为人民服务”，所以我就有了执政合法性，这样的逻辑实在令人笑掉下巴。这句话作为团队的宗旨，将“立党为公执政为民”作为团队的理念，无疑都是正确的，但这仅仅是标语式的宣传，需要用实质性的内涵来填充，否则纯属空洞无物的口号，更不是承诺。承诺是有确切目标的、可检验的。</p>
+<p>@只配抬杠杠杠：按这套说法，金家王朝也可以说它有合法性。以前北京长期以经济发展作为统治合法性基础，现在经济不行了，而且在可见将来都看不到尽头，所以需要重新捡起“历史来源”，就这么回事。</p>
+<p><a href="http://weibo.com/5696620335" target="_blank">清华郭29于华</a>：“人民高兴不高兴、满意不满意、答应不答应。”<img title="[阴险]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/yx_org.gif" alt="[阴险]"></p>
+<p>@华务先驱卡梅伦：越是没什么越是爱说什么。中共的合法性不需要证明。你觉得不合法，井冈山就在那里，南湖的破船就在那里，雪山草地就在那里，延安西柏坡就在那里，你为何不去？</p>
+<p>@斗牛之牛：源自历史？所以天天在横店抗日了，历史可以任意打扮</p>
+<p><a href="http://weibo.com/jakobs" target="_blank">Mr_Vers</a><i title="微博达人"></i>：所以这些日子的反腐，不仅仅要反你们对立派的腐败，还要反你们自己派系的腐败….<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>@汤小港：满不满意，答不答应，选下试试看喽。党内能真正选一下也算你们有种。</p>
+<p>@brainwasher红笼梦：人民连选票都没有，用什么选择？另外，即使当初选择了，也不代表现在仍然选择你，也不代表我永生永世都要选择你。</p>
+<p>@小懋讲来：连投票权都没有，还说啥呢，贵党开心就好</p>
+<p>@杨李的围脖：嗯。历史的选择人民的选择。那就再选一次嘛</p>
+<p>@wyj866：被高兴，被满意，被答应吧</p>
+<p>@沈老师瞎扯淡：你有枪有军队，你说了算，你高兴就好</p>
+<p>@无意轻尝：我只记得某人说过“枪杆子里面出政权”。</p>
+<p>@汤未誓：不高兴，不满意，不答应。我会被销号么？</p>
+<p>@吃饭高手杨老爷子：没说让你们满意，你们不满意没卵用。人民满意，你们不满意你们就不是人民！</p>
+<p>@昵称起起来真麻烦：吹牛很厉害，办事一般也赶不上吹牛的脚步了。</p>
+<p>@水军克星：把这份心思真的用在为人民服务的话，你他妈即使不合法又咋滴？但是。。。。。你懂的</p>
+<p>@我是真的ASD：脸皮厚到了一定境界。。</p>
+<p>@呆胖的小鱼：绝对横者，堵着耳朵，做着睁眼瞎，拿着枪，谁敢说不好，什么都好，那就无需进步，大同不是独断，包容不同的社会才是真正的大同，别最后自己杀了自己</p>
+<p>@西西鱼2010：我是人民，请问能说话吗？</p>
+<p>@陈志伦：人民敢不高兴、敢不满意、敢不答应吗？或者说人民不高兴、不满意、不答应又有什么办法呢？毕竟人民已经被不是人民的代表了！</p>
+<p>@青海寒江飞雪：选一次要管多少年呢?周朝八百年;秦朝十五年;唐朝二百八十多年;明朝二百七十多年;清朝二百六十多年;民国不足百年…王朝的寿命,越往后越短命!万恶的西方更绝:选一次,只管四年!</p>
+<p>@深蓝老头-13：嬴政统一六国是历史的选择人民的选择，秦二世而亡也是历史的选择人民的选择。</p>
+<p>@只配抬杠杠杠:按这套说法，金家王朝也可以说它有合法性。以前北京长期以经济发展作为统治合法性基础，现在经济不行了，而且在可见将来都看不到尽头，所以需要重新捡起“历史来源”，就这么回事。</p>
+<p>@MrJing小布：究竟是一个党好，还是几个党好？如今看来，恐怕是几个党好。不但过去如此，而且将来也可以如此，就是长期共存，互相监督——毛泽东《论十大关系》</p>
+<p>@家有扁扁：这个“人民”就跟“相关部门”一样神秘</p>
+<p>@二十四桥月光亦难留：赶紧删评论</p>
+<p><a href="http://weibo.com/3088600250" target="_blank">小罗伯特_蒜泥</a>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">小编你确定不把评论关掉？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">还要不要饭碗了<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@vdd08：谁叫‘人民’，出来我保证不打死他</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2014/12/%E9%87%91%E4%B8%89%E8%83%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/12/%E9%87%91%E4%B8%89%E8%83%96.jpg" alt="金三胖" width="261" height="300"></a></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%9E%E6%8A%95%E7%A5%A8%E6%9D%83%E9%83%BD%E6%B2%A1%E6%9C%89%E8%BF%98%E8%AF%B4%E5%95%A5%E5%91%A2%EF%BC%8C%E8%B4%B5%E5%85%9A%E5%BC%80%E5%BF%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/?category=18271" rel="tag">抗日神剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%97%A0%E9%94%A1%E9%BB%91%E7%9B%91%E7%8B%B1%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83%E5%87%BA%E5%85%A5%E6%88%B4%E9%BB%91%E5%A4%B4%E5%A5%97/" target="cdt-mirror">自由亚洲｜无锡黑监狱死灰复燃出入戴黑头套</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/m0910-ql1p1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/m0910-ql1p1.jpg" alt="m0910-ql1p1" width="475" height=""></a><p>图片：无锡和平商务宾馆，被用作羁押访民的黑监狱。（听众独家提供/记者乔龙）</p></div>
@@ -657,48 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E5%85%AD%E4%B8%AA%E5%A4%A7%E6%8B%9B%EF%BC%8C%E7%BB%88%E4%BA%8E%E8%AE%A9%E5%8D%97%E6%96%B9%E7%B3%BB%E8%B5%B0%E4%B8%8A/" target="cdt-mirror">呦呦鹿鸣｜达文西：六个大招，终于让南方系走上正道</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64031.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64031.jpg" alt="6403" width="500" height=""></a></p>
-<p><em><strong>来源：微信公号 呦呦鹿鸣(youyouluming99)</strong></em></p>
-<blockquote><p>分享一位署名“达文西”的朋友给呦呦呦鹿鸣的一篇投稿，后台显示来自广东：</p></blockquote>
-<p>据说，南方报系最近受到新华社的表扬了，有一篇《南方报系新起点上再发力》说到：</p>
-<blockquote><p><strong>这种悄然变化的后面，让人明显感到，南方报系已经翻开了新的一页。走正道，大发展。南方报系正在赶路！</strong></p></blockquote>
-<p>那么，南方报系是怎样走上正道的呢？前几天，广东省纪委发布了《中.共南方报业传媒集团党委关于巡视整改情况的通报》，通报很长，几万字，精简下来，其实就是6个意思：</p>
-<p><strong>1，全面加强党建工作。</strong></p>
-<blockquote><p>针对集团个别单位党员比例过低问题，集团党委<strong>在管理层和一线采编骨干中大力发展党员</strong>，着力提高核心部位、关键岗位的党员比例，改变子报子刊党员人数较少、比例较低局面。</p></blockquote>
-<p><strong>2，狠抓思想政治教育。</strong><br><strong>3，严格导向管理。</strong></p>
-<blockquote><p>集团制定颁发了《强化导向管理责任制十项制度》，明确了选题、采写、编辑、审读、终审、刊播等内容生产流程各个环节、每个岗位的责任清单和工作标准，成为南方报业<strong>迄今为止最系统、最完整的一套导向管理责任制度</strong>。集团将贯彻落实全媒体全流程导向管理责任制确定为今年采编管理工作的重中之重。集团各媒体根据“十项制度”的要求，制定各自的实施细则和责任清单，已于今年4月1日起统一发布实施。<br>
-4月以来，集团对各媒体2013年以来的15起导向事故严格追溯执罚，目前相关责任人的行政处分和经济处罚都已落实备案。<br>
-集团从各媒体抽调精干人员组成全媒体全流程导向把关制度落实督查小组，对各媒体进行专项督查。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64021.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64021.jpg" alt="6402" width="480" height="300"></a></p></blockquote>
-<p><strong>4，加强采编管理。</strong></p>
-<blockquote><p>“集团党委部署对各媒体旗下新媒体产品进行全面调查，提出对集团116个官方微博、143个微信公众号的清理整顿意见。各媒体党委（编委会）严格控制“两微”账号数量，原则上只保留一级和二级账号，<strong>三级以下（包括三级）账号均实行关停措施。”</strong></p></blockquote>
-<p><strong>5，唱响主旋律，传播正能量。</strong></p>
-<blockquote><p>在“1+X”机制的带动下，南方周末、南方都市报、21世纪经济报道等媒体积极转型，致力于办负责任的主流大报，投入大量人力物力和版面介入重大主题、中心工作、重大活动等主旋律报道，一般性社会新闻尤其是<strong>“负面新闻”明显减少。</strong></p></blockquote>
-<p><strong>6，为领导处理舆情。</strong></p>
-<blockquote><p>集团去年成立“南方舆情”事业部，作为党报集团围绕中心、服务大局的新型服务项目，助推政府治理体系和治理能力现代化建设。今年4月以来，南方舆情已提供舆情服务百余次，产品质量、服务水平受到高度评价。7月初，南方舆情通过独家信源大数据系统，成功预警“广州出租车司机龟速行驶抗议专车事件”，<strong>为相关部门处理舆情危机赢得了先机</strong>。依托南方舆情监控和分析资源，南方日报内参第5期《理性维*权为何一步步滑向违法深渊》、第6期《敏*感项目为何频遭暴*力*抗议》深入解剖当前群*体*性事件的组织动员方式，检讨政府处置事件的时机策略，反省基层政府工作中需要改革的环节，以应对社会发展的新变化新要求，获得省委省政府主要领导重要批示。</p></blockquote>
-<p>我觉得，虽然走上了正道，但现在恰恰是南方报系最危险的时刻。</p>
-<p>因为，越来越没有人理它了呀。百万大报时代一去不复返了。</p>
-<p>就连表扬文章《南方报系新起点上再发力》也不得不承认：</p>
-<blockquote><p>当年中国报业改革领风气之先的南方报系，在新媒体融合发展等方面，其实已有些落后了。</p></blockquote>
-<p>对于党来说，媒体是喉舌，可是，如果“喉舌”发声没人听，那么，它还要你干嘛呢？你是长得帅还是有大长腿呢？</p>
-<p>组织有组织的逻辑。在组织里，每个单位都有它的工具属性，如果一个单位失去了它的功用，组织就不再需要它了。</p>
-<p>在我眼中，世界上最大的悲剧，莫过于此了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6401.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6401.jpg" alt="640" width="400" height="251"></a></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a title="【异闻观止】新华网｜南方系“已翻开新一页”" href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%E5%B7%B2%E7%BF%BB%E5%BC%80%E6%96%B0%E4%B8%80%E9%A1%B5/">【异闻观止】新华网｜南方系“已翻开新一页”</a></li>
-<li> <a title="德国之声｜长平：南方最后一片树叶" href="http://chinadigitaltimes.net/chinese/2015/08/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8D%97%E6%96%B9%E6%9C%80%E5%90%8E%E4%B8%80%E7%89%87%E6%A0%91%E5%8F%B6/">德国之声｜长平：南方最后一片树叶</a></li>
-<li> <a title="旧闻评论｜南方系：一种历史终结，一种现实肇始" href="http://chinadigitaltimes.net/chinese/2015/08/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%8D%97%E6%96%B9%E7%B3%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E5%8E%86%E5%8F%B2%E7%BB%88%E7%BB%93%EF%BC%8C%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E8%82%87%E5%A7%8B/">旧闻评论｜南方系：一种历史终结，一种现实肇始</a></li>
-</ul></blockquote>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E5%85%AD%E4%B8%AA%E5%A4%A7%E6%8B%9B%EF%BC%8C%E7%BB%88%E4%BA%8E%E8%AE%A9%E5%8D%97%E6%96%B9%E7%B3%BB%E8%B5%B0%E4%B8%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E7%B3%BB/?category=18271" rel="tag">南方报系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -710,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dv5nf53sr8cni.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1hllci6ba8q4s.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -720,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://dv5nf53sr8cni.cloudfront.net">https://dv5nf53sr8cni.cloudfront.net</a><br/><a href="https://dkixqk3iysstl.cloudfront.net">https://dkixqk3iysstl.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://d1hllci6ba8q4s.cloudfront.net">https://d1hllci6ba8q4s.cloudfront.net</a><br/><a href="https://d2wcdppykh5fct.cloudfront.net">https://d2wcdppykh5fct.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1hllci6ba8q4s.cloudfront.net">https://d1hllci6ba8q4s.cloudfront.net</a><br/><a href="https://d2wcdppykh5fct.cloudfront.net">https://d2wcdppykh5fct.cloudfront.net</a><br/><a href="https://dkixqk3iysstl.cloudfront.net">https://dkixqk3iysstl.cloudfront.net</a><br/><a href="https://dp7q455yqbv2r.cloudfront.net">https://dp7q455yqbv2r.cloudfront.net</a><br/><a href="https://dv5nf53sr8cni.cloudfront.net">https://dv5nf53sr8cni.cloudfront.net</a><br/></td>    </tr>
 </table>

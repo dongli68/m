@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d3lqwmarwg5b21.cloudfront.net">https://d3lqwmarwg5b21.cloudfront.net</a><br/><a href="https://ddcf2off3kj5d.cloudfront.net">https://ddcf2off3kj5d.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d31o2vkpez5uym.cloudfront.net">https://d31o2vkpez5uym.cloudfront.net</a><br/><a href="https://d3ve2msqjbm44f.cloudfront.net">https://d3ve2msqjbm44f.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3lqwmarwg5b21.cloudfront.net">https://d3lqwmarwg5b21.cloudfront.net</a><br/><a href="https://d3ve2msqjbm44f.cloudfront.net">https://d3ve2msqjbm44f.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://ddcf2off3kj5d.cloudfront.net">https://ddcf2off3kj5d.cloudfront.net</a><br/><a href="https://d31o2vkpez5uym.cloudfront.net">https://d31o2vkpez5uym.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B5%99%E6%B1%9F%E5%90%84%E5%9C%B0%E5%88%86%E4%BA%AB%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6%E7%9A%84%E6%88%90%E5%8A%9F%E7%BB%8F%E9%AA%8C/" target="cdt-mirror">浙江各地分享强拆十字架的成功经验</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B8%A9%E5%B7%9E%E5%8D%81%E5%AD%97%E6%9E%B6.jpg" alt="" width="" height="525"></p>
+<blockquote><p>相关阅读：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6/">强拆十字架</a>专题</p></blockquote>
+<p><strong><a href="http://www.wzxc.gov.cn/system/2015/02/15/011916332.shtml">温州宣传｜2014年各地宣传思想文化亮点工作</a></strong></p>
+<blockquote><p><strong>永嘉县</strong></p>
+<p>3. 抓重点舆情攻坚助推永嘉科学发展。<strong>针对三江宗教违法建筑拆除事件，启动重大舆情一级响应，构建中央、省、市、县、乡五级联动整体作战方式</strong>，第一时间行动、第一时间发声，采取联席会议研判、主要领导坐镇指挥、<strong>24小时网上网下不间断监控和<span>骨干网评员集中作战</span></strong>、<strong>一般网评员分散办公</strong>等有力举措，<strong>紧紧把握舆论引导的主动权和话语权，为三江违法宗教建筑的平稳、顺利拆除营造了良好的舆论环境</strong>。<br>
+〔永嘉县委宣传部供稿〕</p>
+<p><strong>乐清市</strong></p>
+<p>7. 加强和改进网上舆论引导工作更加有力。开设“乐清发布”官方微博、微信，官方微博在新浪评选的2014年度政务微博排行榜中，居全省发布类政务微博首位，官方微信影响力多次居温州市发布类政务微信首位。开展乐清网络问效平台建设并在乐清日报推出《问效》专版，开展“党政一把手对话网民”活动10期。深化<strong>网军“510”工程建设</strong>，组织开展市民监督团活动36次，推出曝光专栏“今日聚焦”，播出30期69条报道，<strong>全年共处置各类舆情300多起，重点做好龙岗山宗教违法建筑处置舆情应对</strong>。<br>
+〔乐清市委宣传部供稿〕</p></blockquote>
+<p><strong><a href="http://www.chinalaw.org.cn/Column/Column_View.aspx?ColumnID=954&InfoID=14033">浙江省法学会2014年度综合工作报告</a></strong></p>
+<blockquote><p>二、法学研究显成效</p>
+<p>[…]舆情导控保障中心。以围绕中心、服务中心、保障中心为宗旨，<strong>针对重大社会舆情，发挥法学专业人才优势，<span>组织专家</span>就拆除违法宗教建筑接受浙江日报采访，并发表《依法处置涉宗教违法建筑彰显法治自信》、《法治精神是舆论场的基本尺度》等署名文章， 从法律角度对“三改一拆”尤其是对拆除违法宗教建筑开展舆论斗争，为推进“三改一拆”提供法理和舆论支持</strong>。文章发表后引起热烈反响，据不完全统计，人民网、新华网、凤凰网等59家境内外网站转载，<strong>产生了良好的法律效果和社会效果</strong>。</p></blockquote>
+<p><strong><a href="http://www.zhoushan.cn/zdzt/6thrdwc/gonggao/201502/t20150203_687300.htm">舟山市民宗局2014年工作回顾和2015年主要工作安排</a></strong></p>
+<blockquote><p>（一）以“三改一拆”为契机，大力推进全市宗教领域违法建筑的拆违整治工作。</p>
+<p>[…]特别在<strong>定海白泉基督教堂</strong>的整改过程中，在领导重视、各部门的协助下，我局<strong>逐个约谈了市基督教“两会”的主要成员，积极发挥爱国宗教团体的作用，做好相关教堂负责人及信徒的解释说服工作，确保了信众情绪稳定，并保证了整改工作得以依法、顺利实施</strong>。 其中，定海白泉基督教堂的整改在全省具有标杆性意义，为全省宗教领域三改一拆专项整治工作的顺利推进开了好头，并为其他市的顺利推进增添了信心。10月 27日至31日，省专项工作检查验收组对我市进行了检查验收并对照省里有关要求和验收标准，舟山市专项整治工作的成效明显，已经全面完成宗教活动场所和民 间信仰场所违法建筑“三改一拆”工作。</p></blockquote>
+<p><strong><a href="http://www.wzswsj.gov.cn/site/wzwsj/sjjs/info/2014/19258.html">厉志海同志在全市党的群众路线教育实践活动推进会上的讲话</a></strong>（温州市）</p>
+<blockquote><p>六、加大对中心工作、重点问题的督促检查力度</p>
+<p>加大对稳经济增长、“五水共治”、“三改一拆”等重点工作推进的督导力度，督促并支持依法打好<strong>宗教违法建筑拆除的“收官战”、网络舆情的“管控战”、党员干部教育引导的“持久战”</strong>。同时，对群众反映比较集中的、与群众生产生活密切相关的问题要进行跟踪检查。</p></blockquote>
+<p><strong><a href="http://www.ratz.org.cn/NationalityShow.aspx?id=1648&cla=122">我市召开“三改一拆”涉及宗教和民间信仰活动场所违法建筑依法处置工作紧急会议</a></strong>（瑞安市）</p>
+<blockquote><p>四要加强领导，落实责任。镇（街道）主要领导要负总责，党群副书记、分管城建负责人、统战委员直接负责，“三改一拆”、民宗、国土、住建等有关部门根据各自工作职责开展工作。我市组织成立由市考绩办、纪委、“三改一拆”办、民宗局等有关部门组成的督查组，及时对镇街调查甄别及依法处置工作开展督查，确保各项工作落到实处。同时，要做深做细工作，<strong>确保不发生人员伤亡事件，确保不发生重大群体性事件，确保不发生大规模越级上访，确保不发生网上重大舆情</strong>。（民宗局）</p></blockquote>
+<p><strong><a href="http://yuqing.people.com.cn/n/2014/0820/c210107-25501342.html">浙江回应拆除宗教违法建筑:基督教违建占2.3%</a></strong></p>
+<blockquote><p>在涉及宗教违法建筑处置过程中，我们严格按照“保护合法、制止违法”的方针。<strong>我省绝大多数宗教界人士和信教群众，都是坚决拥护并积极配合各级政府开展“三改一拆”涉及宗教违法建筑处置工作的</strong>。</p></blockquote>
+<p><em>延伸阅读：<a href="http://wzchurch.blogspot.com/2014/05/email-wzchurchgmail.html">浙江、温州教堂及十架教案涉拆清单（2015年4月23日更新） </a></em></p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B5%99%E6%B1%9F%E5%90%84%E5%9C%B0%E5%88%86%E4%BA%AB%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6%E7%9A%84%E6%88%90%E5%8A%9F%E7%BB%8F%E9%AA%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">强拆十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E5%A5%87%E5%A5%B3%E5%AD%90-%E9%83%AD%E7%BE%8E%E7%BE%8E/" target="cdt-mirror">李承鹏：奇女子——郭美美</a>
 </h2>
 <p><p>有人问我怎么看郭美美。我说，历史将证明这是一个传奇女子。这双拎过爱玛仕坤包的小嫩手开启了一道门，这辆玛莎拉蒂带我们驶向真相的高速路。我觉得郭美美身上具备着《建党伟业》里小凤仙、“拉链门”里莱温斯基、《潜伏》里翠萍的综合素质，以及上述三位不具备的IT素质，在一个技术决定一切的时代，她学会了用微博。且果真决定了一切。</p>
@@ -684,38 +717,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B%EF%BC%9A%E6%94%80%E6%88%90%E9%92%A2%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%B2%97/" target="cdt-mirror">墙外楼｜中国经济转型阵痛：攀成钢万人下岗</a>
-</h2>
-<p><p>从邓万银（音译）记事儿起，这座位于成都市郊的钢厂就一直是他生活中的一部分。和父亲一样，42岁的他在这里锻造过钢管，他在这个国有钢厂的家属院与妻子相识，而他的女儿也是在厂里的学校念的书。</p>
-<p>今年3月末的一天，上级部门下达了关停钢厂的通知。</p>
-<p>攀钢集团成都钢钒有限公司(Pangang Chengdu Steel & Vanadium Co.)的停业将邓万银推向了中国经济放缓的风口浪尖。在运营了57年之后，被当地人称之为攀成钢的这家企业大约有1.6万名职工面临下岗分流，这些人以钢厂为中心的生活也一夕之间天翻地覆。</p>
-<p>攀成钢厂区被连根拔起是中国经济痛苦转型的产物之一。在需求滑坡和过度投资的影响下，曾经为中国崛起充当动力的重工业已经成为明日黄花。中国政府正在努力推动经济转型，试图打造一条依赖消费支出、服务业和科技驱动型制造业的新经济发展轨道。</p>
-<p>对于转型难度超出中国政府应对能力的担忧打击了全球投资者的信心，他们原本认为，中国很快就会重新成为推动全球经济增长的引擎。</p>
-<p>7月份中国工业增加值增速继续回落，降至6%，而10年前经济全盛时期的增速在23%以上。今年国内生产总值(GDP)增长7%的目标将成为25年来中国的最慢增速。</p>
-<p>中国城镇正在失去一些最大的雇主企业，这一过程与几十年前从底特律至巴尔的摩的“铁锈地带”(Rust Belt America)工厂关闭的情景相似。</p>
-<p>在东莞，造纸厂被迫退出，因政府试图促使制造商提升价值链。在靠水泥致富的河北鹿泉，许多污染严重的生产企业关停，地方政府希望推动旅游业发展，在该市市郊矗立着一座仿建的“狮身人面像”。</p>
-<p>随着社区开始空心化，政府和工人之间的一项社会契约也面临着失效的压力。该契约一直是共产党的执政特色之一，即哪怕在困难时期国有企业也会照顾产业工人。这一社会契约是一种讨价还价后的产物，旨在阻止工人举行罢工，或者成为反政府动乱的源头（例如波兰造船厂工人帮助推翻该国的共产党政府）。</p>
-<p>攀成钢位于成都市北部的青白江区工业区，数以千计的当地居民已经去其他地方寻找工作。曾经繁华的社区街道上，到处都是“招租”广告。小偷小摸也多了起来。</p>
-<p>攀成钢是60年来即将停业的规模最大的国有钢厂。政府官员称，该钢厂200万吨年产能的绝大部分会被封存。</p>
-<p>在具有政治影响力和工业实力象征意义的行业里，这种大规模的收缩非常罕见。中国政府上世纪90年代开始解散中小型国有企业之后，钢铁巨头的规模却越来越大，最终雇佣了400万工人。保留国家对金属、能源、水资源和交通等关键领域的控制权是政府计划的一部分。目前中国钢铁年产量约为8亿吨。</p>
-<p>中国钢铁行业高歌猛进的同时，大规模产能过剩却已令全球钢铁市场陷入困境，并最终令该行业失去了盈利能力。受建筑行业疲软打击，中国的钢材价格已较2012年1月下跌60%。尽管如此，当去年钢铁市场的下滑开始产生负面冲击时，一些钢铁厂和依靠它们创造就业和收入的地方政府仍对关闭产能持抵制态度。</p>
-<p>攀成钢的国有母公司鞍山钢铁集团公司(Anshan Iron & Steel Group Co.)在公开声明中称，关闭该工厂意在削减过剩产能。攀成钢网站4月份发表的一份公告也称赞，关闭工厂是对国家环保治理政策的积极响应和贡献。</p>
-<p>Macquarie Commodities分析师特雷恩(Graeme Train)称，作为一家生产低价值产品并且亏损的非核心子公司，攀成钢成了一个合适的目标。该厂位于内陆的地理位置意味着运输成本较高，这导致其产品价格要高于竞争对手。</p>
-<p>去年市政府官员指责攀成钢厂区排放过度和危险废物储存不当。今年4月份时，该厂被处以罚款40万元。工人们说，未能达到环境标准加速了工厂的关闭。</p>
-<p>由政府支持的钢铁协会说，此次关闭该厂是为关闭其他非必须工厂作出的表率。鞍山钢铁集团的一位发言人证实了攀成钢已被关闭，但未予进一步置评。</p>
-<p>政府官员们设想，未来可依靠旅游业和更多住宅开发来致富。去年10月，成都市官员提出了一个构想，重组青白江区的重工业，转而打造科技园区和智能制造系统。</p>
-<p>到目前为止，上述构想均未实现。政府正在提供转岗培训以软化这场事业风波带来的影响，在此基础上失业人员每月可领取约1,500元的补助金，期限为两年。还有一家求职机构为该人群提供就业机会，但工人们说，这是最后的办法，而且通常没什么用。</p>
-<p>《华尔街日报》</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B%EF%BC%9A%E6%94%80%E6%88%90%E9%92%A2%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%B2%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97%E5%B7%A5%E4%BA%BA/?category=18271" rel="tag">下岗工人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BD/?category=18271" rel="tag">成都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%80%E9%92%A2/?category=18271" rel="tag">攀钢</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -727,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddcf2off3kj5d.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d31o2vkpez5uym.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -737,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97
                 <td></td>
                 
         
-        <td><a href="https://ddcf2off3kj5d.cloudfront.net">https://ddcf2off3kj5d.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/><a href="https://d3lqwmarwg5b21.cloudfront.net">https://d3lqwmarwg5b21.cloudfront.net</a><br/><a href="https://d3ve2msqjbm44f.cloudfront.net">https://d3ve2msqjbm44f.cloudfront.net</a><br/><a href="https://d31o2vkpez5uym.cloudfront.net">https://d31o2vkpez5uym.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d31o2vkpez5uym.cloudfront.net">https://d31o2vkpez5uym.cloudfront.net</a><br/><a href="https://ddcf2off3kj5d.cloudfront.net">https://ddcf2off3kj5d.cloudfront.net</a><br/><a href="https://d3ve2msqjbm44f.cloudfront.net">https://d3ve2msqjbm44f.cloudfront.net</a><br/><a href="https://d3lqwmarwg5b21.cloudfront.net">https://d3lqwmarwg5b21.cloudfront.net</a><br/><a href="https://d21qim0gsgtf07.cloudfront.net">https://d21qim0gsgtf07.cloudfront.net</a><br/></td>    </tr>
 </table>

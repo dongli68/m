@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1yvmkodujz0z6.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2w0s3z3fws8dq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d2w0s3z3fws8dq.cloudfront.net">https://d2w0s3z3fws8dq.cloudfront.net</a><br/><a href="https://d2qfdiu9g75yxu.cloudfront.net">https://d2qfdiu9g75yxu.cloudfront.net</a><br/><a href="https://d2zdvxl2lonhds.cloudfront.net">https://d2zdvxl2lonhds.cloudfront.net</a><br/><a href="https://d7pxbt82bhvxt.cloudfront.net">https://d7pxbt82bhvxt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2w0s3z3fws8dq.cloudfront.net">https://d2w0s3z3fws8dq.cloudfront.net</a><br/><a href="https://d2qfdiu9g75yxu.cloudfront.net">https://d2qfdiu9g75yxu.cloudfront.net</a><br/><a href="https://d1yvmkodujz0z6.cloudfront.net">https://d1yvmkodujz0z6.cloudfront.net</a><br/><a href="https://d7pxbt82bhvxt.cloudfront.net">https://d7pxbt82bhvxt.cloudfront.net</a><br/><a href="https://d2zdvxl2lonhds.cloudfront.net">https://d2zdvxl2lonhds.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%97%A0%E9%94%A1%E9%BB%91%E7%9B%91%E7%8B%B1%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83%E5%87%BA%E5%85%A5%E6%88%B4%E9%BB%91%E5%A4%B4%E5%A5%97/" target="cdt-mirror">自由亚洲｜无锡黑监狱死灰复燃出入戴黑头套</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/m0910-ql1p1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/m0910-ql1p1.jpg" alt="m0910-ql1p1" width="475" height=""></a><p>图片：无锡和平商务宾馆，被用作羁押访民的黑监狱。（听众独家提供/记者乔龙）</p></div>
+<p>黑监狱近期在江苏省无锡市死灰复燃。该市维稳人员为了防止黑监狱位置曝光，所有送入者，均需戴上黑头套。无锡市滨湖区访民丁永金，沈果冬，许海凤，周静娟等人，在北京阅兵日前夕被抓后，关入黑监狱，本周三获释。</p>
+<p>广为社会诟病的黑监狱最近在江苏无锡死灰复燃。该市滨湖区多位访民因到北京上访，8月28日中午由截访人员遣返原籍，抵达无锡后，程盛欧、周晓凤及程茂娟等人被行政拘留5至10天。另外，太湖街道的丁永金、沈果冬、朱丙泉、王敏菊、许海凤及84岁的周静娟等人被关黑监狱，本周三获释。</p>
+<p>沈果冬的妻子丁红芬周四告诉本台，前一天，她的父亲和丈夫刚被释放。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/m0910-ql1p3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/m0910-ql1p3.jpg" alt="图片：无锡访民沈果冬从黑监狱获释，公安发的是“取保候审”通知。（听众提供/记者乔龙）" width="475" height=""></a><p>图片：无锡访民沈果冬从黑监狱获释，公安发的是“取保候审”通知。（听众提供/记者乔龙）</p></div>
+<p>“放出来的有我的父亲、老公，还有许海凤，是在昨天晚上，三个人同时放出来的。关押在我们东桥的和平商务宾馆里面。那是一个老黑监狱。许海凤和我的父亲被关进 去的时候，是用黑头套。这次关进去的所有人都每人一个（黑头套）。在里面恐吓我的父亲，说你女儿被抓起来了，还把我的照片给我父亲看。他说你老老实实做笔 录，你不做笔录的话，害了你的女儿。沈果冬被做6份笔录，我父亲被逼做了12份笔录。”</p>
+<p>丁红芬说，被羁押者，每天三次遭到自称是警察的男子审问，她曾15次报警求助，但无人出警。</p>
+<p>她说：“在里面的时候，我父亲丁永金说，把我关在里面是非法拘禁，他们说有手续，已经送到你家里去了。我父亲现在回家了，什么手续都没有。”</p>
+<p>记者：他们一共被关多久？</p>
+<p>回答：我老公被关了7天，我的父亲被关14天。徐海凤被关12天。每一次都要戴头套，进去以后，他们全部控制，身上的包和手机，全部抢走。</p>
+<p>周三从黑监狱获释的何凤珠告诉记者，她的84岁奶奶周静娟，上周曾到北京的英国大使馆求助，后被截访人员带回。</p>
+<p>“我的母亲昨天从黑监狱里面出来，还有丁红芬的父亲丁永金，爱人沈果冬。他们被关十多天，昨天全部放出来了。我母亲从北京被他们带回了以后，套着黑头套，绑架 到黑监狱里。轮番进行逼供。我奶奶8月27日在英国大使馆放了礼炮，又撒传单，当时眼睛受伤。北京朝阳分局昨晚笔录后交给我们当地，把她硬拖上车，手都淤 青了。绑架二十多小时，昨天到无锡。一路上不给吃饭，不给上厕所。到无锡东桥派出所，黑保安的车又来了，把她用黑头套一套，就送到黑监狱里面。”</p>
+<p>何凤珠母亲许海凤对记者讲述遭到保安殴打的过程，她说：“直接绑架到无锡一个黑监狱，下面包车的时候，他们就给我套黑头套。不让我知道黑监狱在哪里。到黑监狱后，每天由我们滨湖公安分局的人，轮番逼供，就说我婆婆到北京上访，到英国大使馆、法国大使馆放炮是我教的。连续八天问同样的内容。我没有让她去，我当然不承认。”</p>
+<p>中国各地政府私设“黑监狱”及虐待访民的情况，在2009年到2012年期间，十分猖獗，自北京安元鼎黑监狱事件曝光后， 各地当局有所收敛。由半公开改为秘密设立黑监狱。丁红芬说：“无锡的黑监狱我初步登记了，有108处，115所。关押的人数有两百多，关押的次数有一千余 次。这些我都有统计，他们签署了名，有电话号码。”</p>
+<p>丁红芬表示，她保留了所有在当地被关过黑监狱的受害者资料，包括名字和联络方式，需要时可以作为证据。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%97%A0%E9%94%A1%E9%BB%91%E7%9B%91%E7%8B%B1%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83%E5%87%BA%E5%85%A5%E6%88%B4%E9%BB%91%E5%A4%B4%E5%A5%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E6%88%AA%E8%AE%BF/?category=18271" rel="tag">上访截访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E7%9B%91%E7%8B%B1/?category=18271" rel="tag">黑监狱</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%83%AD%E9%A3%9E%E9%9B%84%E8%8E%B7%E7%88%B1%E5%B0%94%E5%85%B02015%E5%B9%B4%E5%89%8D%E7%BA%BF%E4%BA%BA%E6%9D%83%E5%8D%AB%E5%A3%AB%E5%A5%96/" target="cdt-mirror">法广｜郭飞雄获爱尔兰2015年前线人权卫士奖</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2014/11/90ed98de96c450cf-5973513f676859295a07601d5ff572364eb2800c4f5c.png"><img src="http://chinadigitaltimes.net/chinese/files/2014/11/90ed98de96c450cf-5973513f676859295a07601d5ff572364eb2800c4f5c.png" alt="郭飞雄画像。郭飞雄女儿作品" width="450" height=""></a><p>郭飞雄画像。郭飞雄女儿作品</p></div>
+<p>总部设在爱尔兰首都的前线卫士捍卫者组织将2015年人权卫士奖颁发给了中国知名维权人士郭飞雄。颁奖仪式9月11日在都柏林举行。鉴于郭飞雄目前仍被关押在广州天河看守所，他的妻子张青携女儿杨天娇前往都柏林，代表郭飞雄，从爱尔兰著名作家塞巴斯蒂安•巴里(Sebastian Barry)手中接过奖章。</p>
+<p>张青母女接受法广电话采访，谈了她们母女对郭飞雄获奖的感受，张青表示：</p>
+<div>
+<div><a href="http://telechargement.rfi.fr/rfi/chinois/audio/modules/actu/201509/Zhang_Qing.mp3" data-stream="em-61CE05EA-F6BB-44EA-8E46-C8AB9E94A855-0" data-title="Zhang Qing"> (<span>音频)</span> </a></div>
+</div>
+<p>郭飞雄的女儿杨天娇也为父亲骄傲，认为这也是对所有中国维权人士的极大鼓励和支持。</p>
+<p>郭飞雄常年参与维权活动，被看作是中国新公民运动，尤其是南方街头运动的重要参与者和领导人物。2013年初的《南方周末》新年特刊事件中，郭飞雄因为积极参与组织公民群体声援南周编辑，呼吁新闻自由，而于当年8月以“聚众扰乱公共场所秩序”被刑拘。但司法当局至今没有就此指控做出最后判决。</p>
+<p>“前线卫士捍卫者“组织在颁奖公报中指出，将2015年的人权卫士奖颁发给郭飞雄，是为了表彰他坚持不懈地在中国通过调查、报道与抗争，反对侵犯人权的行为。无论是作为作家、维权人士，还是律师，他都始终拒绝因肢体以及心理迫害而放弃抗争。</p>
+<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%83%AD%E9%A3%9E%E9%9B%84%E8%8E%B7%E7%88%B1%E5%B0%94%E5%85%B02015%E5%B9%B4%E5%89%8D%E7%BA%BF%E4%BA%BA%E6%9D%83%E5%8D%AB%E5%A3%AB%E5%A5%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">新公民运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B5%99%E6%B1%9F%E5%90%84%E5%9C%B0%E5%88%86%E4%BA%AB%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6%E7%9A%84%E6%88%90%E5%8A%9F%E7%BB%8F%E9%AA%8C/" target="cdt-mirror">浙江各地分享强拆十字架的成功经验</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/08/%E6%B8%A9%E5%B7%9E%E5%8D%81%E5%AD%97%E6%9E%B6.jpg" alt="" width="" height="525"></p>
@@ -652,68 +696,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
 <a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E5%85%AD%E4%B8%AA%E5%A4%A7%E6%8B%9B%EF%BC%8C%E7%BB%88%E4%BA%8E%E8%AE%A9%E5%8D%97%E6%96%B9%E7%B3%BB%E8%B5%B0%E4%B8%8A/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E7%B3%BB/?category=18271" rel="tag">南方报系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%A5%BF%E8%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B50%E5%91%A8%E5%B9%B4%E6%8A%A5%E9%81%93/" target="cdt-mirror">【真理部】西藏自治区成立50周年报道</a>
-</h2>
-<p><p>各网站可跟进纪念西藏自治区成立50周年报道。请注意清理相关新闻下的负面有害信息，重大新闻下可关闭网民评论。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a> </p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%A5%BF%E8%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B50%E5%91%A8%E5%B9%B4%E6%8A%A5%E9%81%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/" target="cdt-mirror">明镜｜大阅兵：为专制与冷战加冕</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k4eeeeeeeeeeee.jpg" alt="k4eeeeeeeeeeee" width="516" height="335"><br>
-（一）</p>
-<p>大阅兵落幕，讥评如潮。花这么多钱，扰这么多民，达到了什么目的？既没有震慑敌胆，也没有振奋民心──民心都被关在家里，一边看电视台的解说员、主持人、军事专家吹嘘忽悠、一惊一乍地替大家热血激昂，一边众口喧腾，在微信上赛着抖机灵。你让大家都出不了门、开不了窗，还庆什么祝？还能有什么好话？再傻的老百姓也知道，这些武器没一件是你发明的吧，你有的人家早就有了，还比你的好。人家有你没有的，你也拿不出来不是？就是人傻钱多瞎 _ 瑟。</p>
-<p>普京心里也是这话，你丫才打了几个日本鬼子啊？瞎摆谱，我就弄个细细一溜的仪仗队恶心恶心你──与你对反法西斯战争的贡献相称，也表明我们俄罗斯战斗民族的优越，看不上没打赢过对外战争的军队。</p>
-<p>（二）</p>
-<p>这李克强也是，一共没三句话，还借机“自黑黑人”了一把：“下面请（一堆头衔的）习近平同志发表重要讲话”──讲话就讲话呗，干嘛还要“发表”？重要不重要，得讲完了才知道，得听众来评判。北大博士，中国总理，干嘛不能潇洒点？那种八股语言真就半步不能逾越、否则就是对今上的不敬吗？这样僵化颟顸、上下糊弄的班子，还能指望任何创新、任何复兴吗？</p>
-<p>那篇讲稿写得更是邋遢，一句和一句都不挨着。抗战的伟大意义，不是 70 年后才有的，不是共产党建政后才有的。 1945 年中国人民就在蒋委员长领导下站起来了， 1949 年老毛又站一次，结果 70 年后中华民族还在“复兴”。</p>
-<p>抗战和五千年文明有半点关系吗？不算“五胡乱华”，也不管李唐王朝算不算外来政权，咱们中国亡于蒙古，亡于满清，总赖不掉吧，五千年文明完了吗？以色列亡国 1000 多年，朝鲜也因为中国的甲午之败亡国 50 多年，他们的文明完了吗？文明总是新的旧的一层层叠加的。破坏力最大的“马克思列宁主义、毛泽东思想” 不是也叠加进来了吗。你还要全国人民坚持，那就继续出产“中华牌”文革余孽五毛怪胎呗。</p>
-<p>话题一掉到中共意识形态的套子里，再想扭回到抗战、和平和民族复兴就难了，只能糊里糊涂地说一句谁也不知道具体何指的“既定目标”（令人想起“各自表述”的老毛垂死时的遗诏“按既定方针办”），然后喊口号 这倒像是 40~50 年都不长进的初一红卫兵习近平的文章。如果不是，那中办、书记处的“五毛化”太惊人了。</p>
-<p>（三）</p>
-<p>本来大家都说这是习组长的军事统帅加冕礼，可你看他一脸的落寞一脸的挫败，精神萎靡，心情低落，左手敬礼，脑筋短路，甚至有瞬间横路敬二式的迷惘、不知所措。检阅车天窗将习组长紧紧夹住，也像是怕他腿肚子转筋，出溜下去。僵硬地挥拳喊口号，也完全没有统帅风度，像是又回到了梁家河生产大队“农业学大寨”的工地。看来他内心还不习惯这个新角色。习的失态，是因为天安门城楼上那各怀鬼胎的济济一堂吗？“梁山好汉全伙在此”，俨然又是三代同堂，“使我不得开心颜”。</p>
-<p>到了晚上的文艺演出，只剩当权一代，习组长恢复常态。可见还是不适应白天那个阵仗，怕出事，紧张，虽说可能使坏的家伙都让他们上了天安门，要使坏谁都跑不了，可检阅车开出来后，就习组长一个人哦。</p>
-<p>（四）</p>
-<p>江胡上天安门，有２种解读。一是说，股市崩，津港炸，经济下行，中美摩擦，证明习揽权有术、治国无方，他的强势被抑制，权威被削弱，被迫向分享权力的集体领导回归。二是说，老家伙们已无害，一切尽在习组长掌握之中，让他们来点缀党的团结，见证习时代的到来，挺好，这一点都不妨碍习将来再收拾他们。从现场气氛来看，至少还有第三种可能：停火了，不斗了，维持现行利益格局，共同对付亡我之心不死的美帝，和心中永远藏着颜色革命蠢动、渴望结束专制的亿万人民。中共统治者也是有理性的，没有理由假定他们非要斗到你死我活，政权崩溃。</p>
-<p>（五）</p>
-<p>大家最终也没听明白：中国究竟是坚持和平发展呢，还是要建立（中俄主导的）新型国际关系？当年小日本的“大东亚共荣圈”，希特勒为德意志民族争取生存空间的《我的奋斗》，也都是口口声声要建立新型国际关系。世界不太平，因为还有人敢歧视专制制度，所以我要穷兵黩武，拿“人类命运共同体”当人质，“保卫和平”。是，专制制度少数人统治多数人，没有合法性，但架不住我们人口最多的中国人喜欢，架不住它可以集中资源办大事、争霸权，架不住它蔑视自由、践踏人权、视万民如刍狗，更容易压倒民主决策过程，取得实质性的话语权，所以我们以“正义、和平、人民”的名义，必胜。</p>
-<p>（六）</p>
-<p>很多人谈到冷战，我想有一点应该澄清，这不是传统意义上的冷战，是在全球经济一体化，中美之间每年 5-6000 亿美元贸易总额基础上的冷战，是单方面的、暗中进行的非典型冷战。</p>
-<p>为什么说单方面的？因为只有中国政府在向他的人民灌输冷战思维，在扩充军备，在与俄国同谋。美国人像是被点了穴，不觉得正在发生的事有什么不妥，他们不相信中国有挑战美国的军事实力， 50 年后都没有。相反，他们看中国就是一个全世界都离不开的财主、生意伙伴，尽管它有邪恶的意识形态，可耻的人权记录，可既然这些是我们改变不了的，是中国人自己的事情，我们和不和它做生意都不会有什么两样。</p>
-<p>为什么说是暗中进行的冷战？习近平来了你若问他，他准是一脸的无辜：没有啊，我们一直渴望与美国建立新型大国关系。可如果美国人都能听得懂中国官方半官方电视台的主持人、嘉宾，在向亿万中国人说什么，那他们一定会得出结论，冷战，在对方国家中已经在进行动员。考虑到中国的专制体制和人口规模，这种洗脑和动员对未来世界的影响，不应被低估。</p>
-<p>（七）</p>
-<p>中美之间的经贸往来是互利的。但美国方面赚钱的是公司和个人，中国方面赚的钱大部分归了政府（陈志武说中国最大的分配不公在政府与私人部门之间），而中国政府又反过来用这个钱发展针对美国的武器系统，这就是当前“准冷战”的荒唐之处。</p>
-<p>如果美国解了点穴，准备应战，第一件要做的事，就是壮士断腕，与中国这个泥足巨人在经济上切割，逐步强化经济制裁， 5~6000 亿美元的贸易不要了，用 TPP 重起炉灶，重建朋友圈，让中国去搞它的“一带一路”，让它在非市场经济的无效资源配置中，与美国及周边国家进行军备竞赛，重蹈前苏联的覆辙。这才是真正的冷战，中国 can ’ t afford （无法承受）的冷战，回归胜利的里根模式的冷战。</p>
-<p>美国是民主国家，除非中国在台海、南海大打出手，或在西藏、新疆建集中营实行种族灭绝，很难实行全面对华经济制裁。但完全可以实行现在奥巴马政府的办法，对中国的网络入侵、网络窃密受益公司实行制裁，定点清除。将来可以通过某种“爱国者法案”，对中国制造“ XX 快递”、“航母杀手”的公司，对鼓吹战争、煽动反美仇美的官员、军头、太子党、官二代、主持人及他们持股的公司实行制裁，不跟他们做生意，不许他们进入美国，调查他们在美国藏匿的资产 . 用一句中国式夸张“有犯强美者，虽远必诛”。中国也必会报复，由此完成美中经济的切割，开始双向的公平的冷战。</p>
-<p>白丁一再申述过一个观点，中国的经济比俄罗斯的更经不起制裁，它已大得不能倒。</p>
-<p>（八）</p>
-<p>很多人会认为，冷战不过是中共统治者忽悠老百姓，以延续他的一党专政，不必当真。但习近平上台以来的扩充军备、南海造岛、中俄勾结、舰机骚扰日本、演练斩首台湾，甚至让舰队前出至美国阿拉斯加领海，都是真刀真枪的进逼。</p>
-<p>在习组长心中有一个不战而屈人之兵，将美国逼退到太平洋中线的时间表，此后日本必被孤立，台湾必被以一国两制统一，再以朝鲜半岛统一换取与韩国结盟，让菲越东盟低头，控制中亚，实现欧盟的芬兰化，中国将成为半个地球的霸主。</p>
-<p>如果我们回想二战之前的欧洲，英法为什么对希特勒德国实行绥靖政策，终至战争爆发？不是糊涂，是大萧条中的英法政府没钱整军经武，遏制希特勒的崛起。美国现在的全球维稳，也已到了捉襟见肘，难以为继的地步。奥巴马的战略再平衡为什么没有实质性进展？因为政府债务过线的预算自动削减机制。</p>
-<p>宋鸿兵在他的脱口秀中列举了下面这组数字，即按目前的趋势、目前的超低利率，将来每一美元税收中用来支付债务利息的比例： 2014 年 0.12 ； 2020 年 0.20 ； 2030 年 0.36 ； 2040 年 0.58 。到那时美国还有钱来扩充军备，进行海外布署吗？习近平要美国让出半个太平洋的底气，可能就来自这个误导。</p>
-<p>但是，美国有纠错机制，两党可能达成某种增税减支的财政安排。移民改革和新技术革命也会扩大美国的税基。以美国发达的金融体系，美国财政再糟糕，也不会糟到建国之初汉密尔顿面临的债台高筑。别忘了，美国毕竟是世界上最富的国家（尽管不是最富的政府），政府以挫败中国冷战后的未来收益融资，应该不会太难。美国民众也不会看着自己的政府瘫痪，而让军国主义的中国独步天下。再说，受到威胁的不只是美国，全球还有那么多盟友，那么多不甘屈服于中国的国家，大家的资源可以一起整合。</p>
-<p>（九）</p>
-<p>2020 、 2030 、 2040 时的中国是何等光景呢？是章家墩说的崩溃？还是沈大伟说的终局？还是在习式催眠术下渐入“梦”境，踏上军国主义的不归路？还是退回到经济停滞、政治反动、半闭关锁国的勃列日涅夫时代？我们不知道。但不可否认的是： 1 ）中国的高速经济增长已是“此情可待成追忆”； 2 ）中国的债务问题，比美国严重得多，美国只是联邦政府束手束脚周转不灵，中国的债务问题渗透到经济金融的所有层面。 3 ）中国未来所有的经济转型，都面临着产权结构、法律体系和政治体制的重大调整，但是专制体制没有内生的纠错机制，不到崩溃前夕，不到“明主”上位，只能因循地往下混，而且还要标榜为“靡不有始，鲜克有终”，要“风雨无阻”地走下去。</p>
-<p>中共统治者唯一可以依恃的是对本国人民的监视、镇压和欺骗的精密化，即所谓治理体系现代化，以及中国人 2000 多年凝缩积淀的对专制统治的耐受性。这只能使中共不倒，不会使中国强大，经济影响力减退后，中国仍然无法用它的军力影响和改变世界──除非美国退缩。</p>
-<p>在未来 25 年中，假定美国仍处于被点穴的状态，对中国的单方面冷战不作为，中国以现在的速率扩充军备，但也引而不发，那你是赌美国财政先破产，不得不战略收缩呢？还是赌中国经济崩盘，不得不进行某种程度的政改，不得不放弃军国主义呢？哪一件事情会先发生？</p>
-<p>不管中国军国主义最终如何收场， 25 年后，人们拨开迷雾，寻找历史的分水岭，一定还会注意到 9 月 3 号的这个加冕礼。</p>
-<p>明镜 / 白丁</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E9%95%9C%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%EF%BC%9A%E4%B8%BA%E4%B8%93%E5%88%B6%E4%B8%8E%E5%86%B7%E6%88%98%E5%8A%A0%E5%86%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>

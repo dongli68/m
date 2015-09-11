@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ds4ie33bylew.cloudfront.net">https://ds4ie33bylew.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d244d9p4owby6b.cloudfront.net">https://d244d9p4owby6b.cloudfront.net</a><br/><a href="https://dkvto0r3bxbgv.cloudfront.net">https://dkvto0r3bxbgv.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ds4ie33bylew.cloudfront.net">https://ds4ie33bylew.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d244d9p4owby6b.cloudfront.net">https://d244d9p4owby6b.cloudfront.net</a><br/><a href="https://dkvto0r3bxbgv.cloudfront.net">https://dkvto0r3bxbgv.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">BBC｜中纪委就华润原董事长宋林涉贪案立案审查</a>
@@ -45,7 +45,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E6%9E%97/?category=18271" rel="tag">宋林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B8%85%E5%BB%B7/?category=18271" rel="tag">王帅廷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E8%85%90/?category=18271" rel="tag">贪腐</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%EF%BD%9C%E5%94%90%E4%B8%B9%E9%B8%BF%EF%BC%9A%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98%EF%BC%9A%E8%A2%AB%E6%B6%82%E6%8A%B9%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%92%8C%E8%A2%AB/" target="cdt-mirror">民主中国 ｜唐丹鸿：西藏问题：被涂抹的身份和被肢解的地理</a>
 </h2>
@@ -246,7 +246,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%A0%A1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/?category=18271" rel="tag">抗日神剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%97%A0%E9%94%A1%E9%BB%91%E7%9B%91%E7%8B%B1%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83%E5%87%BA%E5%85%A5%E6%88%B4%E9%BB%91%E5%A4%B4%E5%A5%97/" target="cdt-mirror">自由亚洲｜无锡黑监狱死灰复燃出入戴黑头套</a>
 </h2>
@@ -820,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d244d9p4owby6b.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -830,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://dkvto0r3bxbgv.cloudfront.net">https://dkvto0r3bxbgv.cloudfront.net</a><br/><a href="https://ds4ie33bylew.cloudfront.net">https://ds4ie33bylew.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d244d9p4owby6b.cloudfront.net">https://d244d9p4owby6b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d244d9p4owby6b.cloudfront.net">https://d244d9p4owby6b.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://dkvto0r3bxbgv.cloudfront.net">https://dkvto0r3bxbgv.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://ds4ie33bylew.cloudfront.net">https://ds4ie33bylew.cloudfront.net</a><br/></td>    </tr>
 </table>

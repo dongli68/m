@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d16oihfum89sqh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d16oihfum89sqh.cloudfront.net">https://d16oihfum89sqh.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d7horw39h8d09.cloudfront.net">https://d7horw39h8d09.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d7horw39h8d09.cloudfront.net">https://d7horw39h8d09.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d16oihfum89sqh.cloudfront.net">https://d16oihfum89sqh.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/" target="cdt-mirror">自由亚洲｜北京律师案多位辩护人天津欲见当事人不果</a>
@@ -621,7 +621,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">新公民运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B5%99%E6%B1%9F%E5%90%84%E5%9C%B0%E5%88%86%E4%BA%AB%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6%E7%9A%84%E6%88%90%E5%8A%9F%E7%BB%8F%E9%AA%8C/" target="cdt-mirror">浙江各地分享强拆十字架的成功经验</a>
 </h2>
@@ -807,7 +807,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -817,5 +817,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d7horw39h8d09.cloudfront.net">https://d7horw39h8d09.cloudfront.net</a><br/><a href="https://d16oihfum89sqh.cloudfront.net">https://d16oihfum89sqh.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d7horw39h8d09.cloudfront.net">https://d7horw39h8d09.cloudfront.net</a><br/><a href="https://d16oihfum89sqh.cloudfront.net">https://d16oihfum89sqh.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du0gexfbvdudd.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1s3cloi7jae3b.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du0gexfbvdudd.cloudfront.net">https://du0gexfbvdudd.cloudfront.net</a><br/><a href="https://d24ih76pqoj2zn.cloudfront.net">https://d24ih76pqoj2zn.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1s3cloi7jae3b.cloudfront.net">https://d1s3cloi7jae3b.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1s3cloi7jae3b.cloudfront.net">https://d1s3cloi7jae3b.cloudfront.net</a><br/><a href="https://d24ih76pqoj2zn.cloudfront.net">https://d24ih76pqoj2zn.cloudfront.net</a><br/><a href="https://du0gexfbvdudd.cloudfront.net">https://du0gexfbvdudd.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/" target="cdt-mirror">自由亚洲｜北京律师案多位辩护人天津欲见当事人不果</a>
@@ -129,7 +129,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">官僚主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%88%E6%9D%83/?category=18271" rel="tag">版权</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/" target="cdt-mirror">【立此存照】央视在网络的公信力如何？</a>
 </h2>
@@ -807,7 +807,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du0gexfbvdudd.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -817,5 +817,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6
                 <td></td>
                 
         
-        <td><a href="https://du0gexfbvdudd.cloudfront.net">https://du0gexfbvdudd.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1s3cloi7jae3b.cloudfront.net">https://d1s3cloi7jae3b.cloudfront.net</a><br/><a href="https://d24ih76pqoj2zn.cloudfront.net">https://d24ih76pqoj2zn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d24ih76pqoj2zn.cloudfront.net">https://d24ih76pqoj2zn.cloudfront.net</a><br/><a href="https://d1s3cloi7jae3b.cloudfront.net">https://d1s3cloi7jae3b.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://du0gexfbvdudd.cloudfront.net">https://du0gexfbvdudd.cloudfront.net</a><br/></td>    </tr>
 </table>

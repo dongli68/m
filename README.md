@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3gw9di8sieys8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d3gw9di8sieys8.cloudfront.net">https://d3gw9di8sieys8.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1pu3qd7gowr4c.cloudfront.net">https://d1pu3qd7gowr4c.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3gw9di8sieys8.cloudfront.net">https://d3gw9di8sieys8.cloudfront.net</a><br/><a href="https://d1pu3qd7gowr4c.cloudfront.net">https://d1pu3qd7gowr4c.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018709501_30300.jpg" alt="0,,18709501_303,00" width="498" height="280"></p>
+<p>（德国之声中文网）2015年达沃斯世界经济论坛周四在大连召开。《法兰克福评论报》在经济栏目发表文章指出，几年前中国还是这场经济论坛的璀璨明星，如今中国国务院总理李克强却必须在论坛上安抚企业领袖无需担忧中国经济会崩溃。</p>
+<p>文章开头描述道，李克强在夏季达沃斯期间努力消除中国经济陷入危机的印象。他在开幕式致辞时强调，中国经济不会硬着陆，而且有能力实现今年主要经济发展目标。他还指出，中国今年上半年对世界经济增长的贡献率约30%。</p>
+<p>《法兰克福评论报》写道：”自中国股市在夏季大跌后，对中国经济前景的担忧不断加剧。李克强希望将股市扩展成经济体中现代化的融资渠道，然而，投资者在股市一路飚涨后带走了利润，让股盘再次回到原点。7%的经济增长率也远低于期望。中国的外贸、工业产值和其它指标都在下滑。”</p>
+<p>李克强建议各界，不要过分在意数据，重要的是朝可持续发展、创新、更多的服务业和扩大内需迈进。</p>
+<p>文章写道：”经济学家也同意李克强对当前情势的基本正面态度，但仍对接下来的困难形势发出警告。《新萧条》一书的作者邓肯（Richard Duncan）表示：’大规模放贷长期以来遮掩了结构性问题。过去几年的大型经济项目如同给中国打了鸡血一般。’如今中国经济却面临产能过剩、缺乏效益以及低收益等问题。长期的低增速正等待着中国。”</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018702890_40400.jpg" alt="0,,18702890_404,00" width="340" height="191"><br>
+中国国家发改委主任徐绍史
+</div>
+<p>文章最后指出：”四年之前，在华举行的’夏季达沃斯’中还洋溢着对中国增长潜能及其体制优势的兴奋之情：当时美国和欧盟的危机皆无法影响中国。”</p>
+<p>“这一次，中国的高层官员和经济学家在会场内四处奔走，试图安抚全球民众的担忧。中国国家发改委主任徐绍史从会议的第一天开始便不断重复官方立场：中国将会达到自订目标，而且经济基础稳固。知名经济学者李稻葵甚至表示，股市下跌是好事：’调整的结果超过了预期。'”</p>
+<p>瑞士《新苏黎世报》周五也针对中国经济发表署名文章，题为”玩火的中国”。文章指出，中国经济疲弱有各种原因。”各省份进行经济改革并且赋予经济新动力的意愿有限……人口结构的变迁也造成劳动力减少，中央政府也没有展现出真正的改革热情。此外，中国试图稳定股市时不完善的做法导致各种猜测甚嚣尘上，认为中国国家主席习近平并不是对市场真正的友好。中国对改革的怠惰是在玩火自焚。”</p>
+<p>文章接着指出：”中国对股市的干预机制也被证明失效，不仅无法阻止股市暴跌，还加剧了投资者的不安全感。以中国人民银行决定重新设定汇率为例，政府在采取行动时缺乏敏锐性以及将出手干涉的原因更透明化的智慧。中国政府曾长期被认为是绝对可靠的，此类粗糙的做法却让其失去光芒。”</p>
+<p>作者最后总结，中国股市的失利反映出国家的整体情况：”中国并不像许多人一直以为的那么好。不过也没有许多人如今认为的那么差。”</p>
+<p>[本文摘自其它媒体，不代表德国之声观点。]</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">BBC｜中纪委就华润原董事长宋林涉贪案立案审查</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/130718070317_cn_song_lin_640x360_xinhua.jpg" alt="130718070317_cn_song_lin_640x360_xinhua" width="660" height="371"><br>
@@ -770,45 +795,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%8C%85%E4%BA%8E%E8%BD%BC%E5%8A%A0%E5%85%A5%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E8%AE%BA%E6%88%98%E5%BC%95%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 中国学者茅于轼加入抗战历史论战引热议</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%8C%85%E4%BA%8E%E8%BD%BC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%8C%85%E4%BA%8E%E8%BD%BC.jpg" alt="茅于轼" width="600" height="531"></a></p>
-<p><strong>中国二战抗日战争胜利70周年纪念活动尾声之际，知名经济学家茅于轼在微博上发帖质疑中共对抗战的领导地位，引起网民热议。</strong></p>
-<p>86岁的茅于轼连发三条微博谈论其对抗战纪念与阅兵的看法，当中批评了年轻人不了解历史，至今合共吸引超过1.5万人次转发，网民留言1.8万条。</p>
-<p>茅于轼强调，收回东三省等是国民政府军事委员会委员长蒋介石的功劳，他接受BBC中文网采访时还强调，中共领导人毛泽东自己的文选即能证明中共只在抗战初期主力抗日。</p>
-<p>就在纪念活动结束之际，中共中央思想理论刊物《求是》旗下的《红旗文稿》半月刊星期三（9月9日）发表文章，再次重申中共是抗战“中流砥柱”之论述。</p>
-<p>这篇由中共中央组织部原部长张全景署名的讲话整理稿题为〈毛泽东是抗战胜利的伟大领袖〉。文章说，“毛泽东最早提出抗击日本侵略者，并促成全民族抗战局面的形成”。</p>
-<p>文章说：“历史就是历史。无数英烈用鲜血写就的历史雄辩地证明：正是因为有了毛泽东，中国共产党才能成为抗日战争的中流砥柱；正是因为有了毛泽东确立的正确的思想、政治、军事路线，才有了巩固的抗日民族统一战线，才使得抗战取得胜利。正因如此，我们可以理直气壮地说，毛泽东是领导中国人民取得抗战胜利的伟大领袖！”</p>
-<p><strong>蒋介石“消灭国耻”</strong></p>
-<p>茅于轼星期二（8日）发出的其中一条微博说：“收回东三省和台湾，收回外国人在中国的租界，成为联合国的发起国和安理会的常任理事国，消灭百年国耻，是蒋介石做的，是中国人民艰苦抗战八年的成果。”</p>
-<p>“不过‘中国人民站起来了’确实是毛泽东在天安门城楼上宣布的。这是两回事，不要混为一谈。现在的青年人太不了解历史了。”</p>
-<p>这条微博引来了最多网民评论，至星期三下午已超过1.5万笔留言。当中有不少人质疑茅于轼的言论。</p>
-<p>茅于轼星期三对BBC中文网记者说，这是要回应另一名网友对其言论的评语。该名网友称，哪怕蒋介石的力量没有收回东三省与台湾，共产党“早晚会收回”。</p>
-<p>山东德州的“小狮子飞屋环游”对茅于轼的微博评论说：“指出茅于轼这个论断的两点错误。（1）东三省和台湾的收回跟蒋介石关系不大，是苏俄和美国的作用。但东三省却是蒋介石不抵抗命令下沦陷的。（2）‘中国人民站起来’的意思不是指国土全部收回，而是指摆脱了半殖民地半封建社会的命运。在蒋介石时代中国仍然只是美国的附庸而已。”</p>
-<p>宁夏银川的“清清荷花香”指责说，“茅于轼们希望复辟”；云南的“初时模样”质疑说：“最近几年洗白蒋的公知越来越多，但说回来蒋和毛都有公都有过，毛让中国倒退发展，蒋让中国丢失土地，你认为哪个的错更大点呢？”</p>
-<p><strong>茅于轼采访录音</strong></p>
-<p>茅于轼向BBC中文网记者回应说，蒋介石与美国“有好多意见不一致的”，而且“蒋介石丢失土地不错，但是他坚持了抗战”。</p>
-<p>“而毛泽东在抗战中间贡献很少。他自己说过嘛：一分抗战，两分应付，七分要扩大它（中共）的势力范围。就他自己说的。而且他还感谢日本人打了二次大战，要不然共产党没有机会打败国民党的。”</p>
-<p>茅于轼说，共产党并未深入参与抗战，是《毛泽东选集》能证明的事情。</p>
-<p>“《毛选》的第一、第二卷里头，在1939年以前是讲抗战的，39年以后就不讲抗战了。都是讲怎么扩大根据地。这个是从《毛泽东选集》里头可以得到证明。”</p>
-<p><strong>阅兵矛盾</strong></p>
-<p>中国在9月3日举行了大规模阅兵纪念抗战胜利，茅于轼也对此提出了批评。</p>
-<p>茅于轼星期二发表的微博说：“纪念二战结束，但愿世界各国的政治家发誓永远不再打仗，保卫和平，反对一切迈向战争的行动，包括阅兵、征兵、军事演习、武器买卖。各国百姓更应认清保卫和平的重要性，不要再次上战争贩子的当。”</p>
-<p>“头号强国美国应该带头削减军备，其他各国应该积极响应，将军费用于民生，以此造福人类。”</p>
-<p>他对BBC中文网说：“作为一个老百姓，我们要的是和平，不管是胜利还是失败。”</p>
-<p>“所以我主张纪念二战结束，世界上所有的政治家都要发誓永远不打仗，而且要抵制一切与和平相反的活动，包括阅兵，包括军事演习，包括武器扩展、武器展销。”</p>
-<p>网民留言中除了批评茅于轼之外，也有一些是支持其观点。</p>
-<p>辽宁鞍山网民“徐硕sss”说：“不是青年人不了解历史，是因为青年人不能了解到真正的历史。”</p>
-<p>湖南长沙的“夏天吹暖气”说：“被洗脑的人，总是不愿接受真相，甚至发现真相事实的勇气，都不敢有……奴才当久了吧……”</p>
-<p>浙江杭州的“江浩_Rocky”说：“不了解真相其实并不可怕。可怕的是还在不断篡改历史，继续掩盖真相；面对不同声音，反对者不是有理有据的反驳，而是咄咄逼人简单粗暴的咒骂！”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%8C%85%E4%BA%8E%E8%BD%BC%E5%8A%A0%E5%85%A5%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E8%AE%BA%E6%88%98%E5%BC%95%E7%83%AD%E8%AE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">抗战历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%85%E4%BA%8E%E8%BD%BC/?category=18271" rel="tag">茅于轼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -820,7 +806,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3gw9di8sieys8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -830,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1pu3qd7gowr4c.cloudfront.net">https://d1pu3qd7gowr4c.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d3gw9di8sieys8.cloudfront.net">https://d3gw9di8sieys8.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3gw9di8sieys8.cloudfront.net">https://d3gw9di8sieys8.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1pu3qd7gowr4c.cloudfront.net">https://d1pu3qd7gowr4c.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>

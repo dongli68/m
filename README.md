@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dwamzazzjr4xc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://dctujipv3ugwq.cloudfront.net">https://dctujipv3ugwq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/><a href="https://dctujipv3ugwq.cloudfront.net">https://dctujipv3ugwq.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/" target="cdt-mirror">【立此存照】央视在网络的公信力如何？</a>
+</h2>
+<p><p><strong>【事件背景】</strong></p>
+<p>自由摄影师<a href="http://weibo.com/bboyzong">@王源宗Bboy</a> 指CCTV-7台盗用其延时摄影素材，致电沟通时却被语气傲慢、自称“实习生”的接线人员告知：“央视用你素材又怎么了？”</p>
+<p>王源宗随后在新浪微博<a href="http://weibo.com/p/1001603885541329366022">将此事公之于众</a>。央视公开回应称涉事素材<a href="http://mt.sohu.com/20150911/n420932394.shtml">网购自淘宝</a>。</p>
+<p>央视同时在回应中称“在此对广大网友对我们的关心支持表示真诚的谢意”。对此，大量微博用户纷纷表示不认识这名“网友”，这个锅他们不背。</p>
+<blockquote><p><strong><a href="http://weibo.com/5290188864/CAa7Shb2p">@萌安安ann</a></strong>：啥时候相信央视了⋯⋯<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/005M15MQgw1evzfk5o1sfj30ku112jw8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/005M15MQgw1evzfk5o1sfj30ku112jw8.jpg" alt="005M15MQgw1evzfk5o1sfj30ku112jw8" width="375" height=""></a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/n/%E5%A4%A7%E6%9C%99%E7%8C%A2?from=feed&loc=at" target="_blank">大朙猢</a>: 郜艳敏也是她老公花钱买的<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p>镜渊翎：厄……评论我看不懂了，为什么我理解的就是“相信”央视啊，相信央视拍个节目网购素材啊，这种讽刺都看没看出来吗？</p>
+<p>加油猪77童装：花几块钱买的素材包，有脑子的都知道是卖家自己收集来的。央视的都没脑子</p>
+<p>羊皮猪 ： 我相信啊，央视就是网上买来的，包括他们用的windows可能也都是楼下大妈那3块买的盘#央视盗用素材#</p>
+<p><a title="血与枪火" href="http://weibo.com/u/5232698859" target="_blank">血与枪火</a>：讲个笑话，我相信央视。<a title="血与枪火" href="http://weibo.com/u/5232698859" target="_blank"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></a></p>
+<p><a href="http://weibo.com/2942708957" target="_blank">鹿圈-LUQUAN</a><i title="微博个人认证 "></i><i></i>：央视回应盗用素材：是。 花钱网购来的网友：相信央视。【正确的断句方式<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">】</p>
+<p><a title="一片猫儿" href="http://weibo.com/jingxuexinyu" target="_blank">一片猫儿 </a>：央视脸就是大<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/2821311837" target="_blank">WellthatNotfair</a><i></i>：又让我们背黑锅<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/5694525972" target="_blank">兔崽子loli-</a>：<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">补药碧莲，谁他妈相信过央视啊</p>
+<p><a href="http://weibo.com/5023720754" target="_blank">长腿六</a><i></i>：后来被查证，是一位叫网友的临时工说的<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"></p>
+<div><a href="http://weibo.com/5366629311" target="_blank">仭奛無</a><i></i>：网友：唉唉唉！ 你们要相信央视啊！毕竟是国家级的电视节目组就算犯错抄袭了也是可以的！是对的！看我就是很相信央视的（转发一条五毛钱括号里删掉）<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></div>
+<p>子竹QAQ：毕竟从小看新闻联播长大，我还是相信央视不会做出这种事(这条五毛，去掉括号里的)</p>
+<p><a href="http://weibo.com/1921001187" target="_blank">薛定猫饿了</a>：先甩锅给马云，又甩锅给网友，央视真会玩儿<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>Vetrax嚣张卫视：一个小小的版权纠纷，是如何演变成一家电视频道的全民信任危机的，居然还封了当事人的微博，够可以的啊？本来是一个第三方制作单位的外包节目带来的形象，现在活生生变成整个电视台形象的丑闻。央视，看看你现在自己的优秀员工离职潮和公信力的崩塌，都是你自己作的。</p>
+<p>只有一个鼻子的人：：“央視你一定又偷了人家的素材！”央视睁大眼睛说，“你怎么这样凭空污人清白…”“什么清白？我前天亲眼见你偷了王源宗的素材，被网友吊着打。”央视涨红了脸，争辩道，“借鉴素材不能算偷…！媒体人的事，能算偷么？”接连便是难懂的话，什么“法制社会”，什么“实习生”之类，引得众人都哄笑起来</p>
+<p>吴可爱是小萌萌_：相（bu）信（yao）央（bi）视（lian）</p>
+<p>荷花捞仔：你们不要这样子，那位姓网名友的告诉我，他是他妈逼的……</p>
+<p>KALING2：谁他妈叫网友！喊他出来 一人喂一口屎 叫你一本正经地说瞎话</p>
+<p>鸡汁盖浇饭：对啊，我相信央视绝对是不要脸盗用了别人的素材</p>
+<p>娟影冰魄：央视大帝多少年来，翻手为云覆手为雨，这次偏偏盖错了地方。</p>
+<p>云已过：得。 以后都不能自称网民了。 我怕被打</p>
+<p><strong>附微博截图：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/screenshot-weibo-com-2015-09-12-00-32-09.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/screenshot-weibo-com-2015-09-12-00-32-09.png" alt="screenshot-weibo com 2015-09-12 00-32-09" width="500" height=""></a></p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B6%81%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A2%AB%E9%81%97%E5%BF%98-%E8%AE%B2%E4%B8%80%E8%AE%B2%E6%88%91%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%848-12%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/" target="cdt-mirror">趁还没有被遗忘 讲一讲我所经历的8. 12塘沽爆炸</a>
 </h2>
 <p><p><strong>【编者注】新浪用户 <a href="http://weibo.com/earlinde">@哈士奇耳朵_请叫我手残帝</a>的这条长微博，在被删之前已有400多万的阅读量，并收到了3万多次“赞”。《外交政策》近日将全文<a href="https://foreignpolicy.com/2015/09/10/censored-china-young-survivor-tianjin-explosion-viral-post/">翻译成英语</a>。该文被删后，有许多网友对作者的处境表示担心，希望她能出现报个平安。<br></strong></p>
@@ -817,46 +857,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%BE%BE%E8%B5%96%E5%AE%9E%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%8D%A7%E5%87%BA%E6%9D%A5%E7%9A%84/" target="cdt-mirror">【异闻观止】环球时报｜达赖实为西方捧出来的“国际王林”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/471fb3a8jw1evv6tpsgokj21jk15onjs.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/471fb3a8jw1evv6tpsgokj21jk15onjs.jpg" alt="471fb3a8jw1evv6tpsgokj21jk15onjs" width="550" height=""></a><br><em>（图片来源：新浪微博 @黑板报的水晶）</em></p>
-<p>今年是西藏自治区成立50周年，各族群众欢欣鼓舞，喜迎大庆，跟西藏有关的话题也在世界上走热，很多并不太了解西藏的人，也会在这个时候插几句嘴。</p>
-<p>这些年一直有两个西藏，一个是真实存在的西藏，还有一个是外界想象中的、由达赖集团和西方舆论联合烘托的西藏。</p>
-<p>后一个西藏由两个画面组成，一个是西藏原本应该是什么样子，一个是西藏被共产党“折腾”成了什么样子。</p>
-<p>想象中的西藏虽不存在，但经西方媒体经年累月的打造，又有达赖做代言人，得以在国际舆论场上以假乱真，有不小的影响力。这大概是现代世界持续时间最久、舆论力量卷入最多的一个谎言。</p>
-<p>这个谎言甚至在西方世界形成了道德及政治正确，这样的“正确性”压制了西方人认识真实西藏的勇气和积极性。很多人相信，戳破围绕西藏的谎言已经不是认识论层面的问题，只有中西力量格局和政治关系的变化才可能推动它。</p>
-<p>今天在有关西藏的大事小情上，西方的确像是“叫不醒的装睡者”。十四世达赖喇嘛被西方舆论捧为“圣人”，他的公众形象总是被打造成笑眯眯、充满睿智的长者。但随便扒扒他的过去，他统治西藏时不光彩的记录一定会让西方公众倒胃。</p>
-<p>达赖喇嘛是从来不提那段往事的。这位政治流亡者后来在西方力量的联合助推下一举收获诺贝尔和平奖，数次成为西方领导人的座上宾，可谓风光无限。然而，一旦有一天西方舆论站出来揭露他，<strong>他就是国际上一个超大号的“王林”</strong>。</p>
-<p>西藏应该是什么样的呢？西方舆论围绕这个问题充分调动了浪漫的想象力。那里不仅自然是原生态的，社会同样应与现代无缘，保持时间停摆的原汁原味。在这种近乎变态的心理作用下，西藏只是他们对现代文明厌倦的消费对象，任何进步与现代化，都是“破坏”。</p>
-<p>这是一种不平等、且蛮不讲理的态度。评价西藏社会成就的坐标首先要由西藏公众以及<strong>全体中国人民</strong>来确定，我们最了解西藏需要什么，我们对西藏实现高质量进步的关切比任何外部力量都更加真实，我们为此所做的付出也是外界不可能做到的。</p>
-<p>西藏实现了跨时代的政治进步，也实现了前所未有的现代基础设施建设。而这一切是在保持西藏文化基本形态、也全面保护西藏生态环境的情况下展开的。对比一下美国的印第安人“更像印第安人”，还是西藏的藏族人“更像藏族人”，我们就会一目了然。坐一次青藏铁路，所有人都会对沿途的生态系统保护竖大拇指。</p>
-<p>西方助推的谎言传播再广，最终也是过眼云烟。真实的西藏就屹立在青藏高原上，随着中国向世界中心舞台的不断移动，各国人民会通过各种机会与西藏的真实信息相遇。西方舆论推送的虚假画面将面临挑战，西藏将越来越成为中国形象的一个闪光点，而不是一项负值。<strong>一直帮助外部力量给西藏发展捣乱的达赖集团注定是这个时代的loser</strong>。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@陈有西：《环球时报》又闹国际笑话了。未审先定，王林并未定性，是谣言包装的被害人。你们作为已经定性的坏人推向国际舆论，评论严肃的国际政治问题，缺乏基本的认知常识。釆、编、评都已经不是一般的堕落。</p>
-<p>@小楼一夜听春雨33：@环球时报 可以刊登一篇批判西方无良媒体抹黑中国的文章，标题就叫《反华媒体CNN就是混迹于西方世界的环球时报》@胡锡进 是否可以依样采纳？</p>
-<p>@寒凝大地太冷了：如果法庭最后判决王林无罪，环球不是要被骂宣传达赖无罪吗？</p>
-<p><a href="http://weibo.com/1009315755" target="_blank">妙手空空儿2011</a>：环球屎报这是啥意思，王林可是案子还没审呢，万一无罪释放，你这篇文章可就变成为大和尚洗地，政治错误可犯大了<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
-<p>@宦卿世界：#宦卿微评#西方尊达赖喇嘛为世界宗教领袖，不存在什么”一旦”西方揭露达赖喇嘛。现任高层应以极大勇气乘达赖喇嘛健在妥善解决分歧问题。总以文革式大批判手段只能于事无补。达赖喇嘛问题在大陆已成禁区，无人敢进言善言，否则假以罪名，实为误国误民误事误时机。</p>
-<p>@冕之王：专业扣帽子@@环球时报</p>
-<p>@三年z组imba老师：哈哈哈哈简直是小学班上喜欢给别人起外号的同学</p>
-<p>@鹅城恶少_991：哪段往事？说说嘛</p>
-<p>@我是一红：倒是扒点来听听啊</p>
-<p>@最新鲜百科：王林是谁捧出来的？不是我们党 的干部吗</p>
-<p>@二十6年明月夜：58年之前是谁捧？班禅是谁捧？</p>
-<p>@涛之夭夭1：恩，这比喻真当是。王林是前后几代领导人参与捧出来的，你看过那些照片么？</p>
-<p>@呆巾：呵呵，敢让大和尚回来吗？敢说没走的十世班禅的悲惨一生吗？</p>
-<p>@痒的一逼：好吧，把西方各国元首比作天朝各个高官包括江，天朝高官你们投票投出来的吗？</p>
-<p>@一刀流神火不知火：你说的是全体中国人共同决定的，全体中国人决定了那么多的贪官吗，决定了强拆和暴力的警匪吗，别再说全体中国人决定这屁话，我们决定了要让自己买不起房子吗，我真想说，我去你妈的</p>
-<p>@正黄旗下：作为主流媒体，拿达赖比王林，极不严肃，会伤害众多藏族同胞和藏传佛教信徒的感情。强烈建议《环球时报》收回此评论。</p>
-<p>@高希恆：感觉这几百字写下来什么都没说</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%BE%BE%E8%B5%96%E5%AE%9E%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%8D%A7%E5%87%BA%E6%9D%A5%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96/?category=18271" rel="tag">达赖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -868,7 +868,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -878,5 +878,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dctujipv3ugwq.cloudfront.net">https://dctujipv3ugwq.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://dctujipv3ugwq.cloudfront.net">https://dctujipv3ugwq.cloudfront.net</a><br/><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/></td>    </tr>
 </table>

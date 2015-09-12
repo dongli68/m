@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3dy2pf0rubwlq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
@@ -806,7 +806,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3dy2pf0rubwlq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>

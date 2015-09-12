@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1bsroagy3pf0e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d36x7eoi19vwvp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1bsroagy3pf0e.cloudfront.net">https://d1bsroagy3pf0e.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d36x7eoi19vwvp.cloudfront.net">https://d36x7eoi19vwvp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d36x7eoi19vwvp.cloudfront.net">https://d36x7eoi19vwvp.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1bsroagy3pf0e.cloudfront.net">https://d1bsroagy3pf0e.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/" target="cdt-mirror">【立此存照】央视在网络的公信力如何？</a>
@@ -62,7 +62,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B6%81%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A2%AB%E9%81%97%E5%BF%98-%E8%AE%B2%E4%B8%80%E8%AE%B2%E6%88%91%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%848-12%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/" target="cdt-mirror">趁还没有被遗忘 讲一讲我所经历的8. 12塘沽爆炸</a>
 </h2>
@@ -868,7 +868,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d36x7eoi19vwvp.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -878,5 +878,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d1bsroagy3pf0e.cloudfront.net">https://d1bsroagy3pf0e.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d36x7eoi19vwvp.cloudfront.net">https://d36x7eoi19vwvp.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d36x7eoi19vwvp.cloudfront.net">https://d36x7eoi19vwvp.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1bsroagy3pf0e.cloudfront.net">https://d1bsroagy3pf0e.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>

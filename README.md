@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d33y7aeycsw95j.cloudfront.net">https://d33y7aeycsw95j.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d172y6mzha8y49.cloudfront.net">https://d172y6mzha8y49.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d33y7aeycsw95j.cloudfront.net">https://d33y7aeycsw95j.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d172y6mzha8y49.cloudfront.net">https://d172y6mzha8y49.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/" target="cdt-mirror">自由亚洲｜北京律师案多位辩护人天津欲见当事人不果</a>
@@ -74,6 +74,62 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E6%91%84%E5%BD%B1%E5%B8%88%E6%8A%95%E8%AF%89%E5%A4%AE%E8%A7%86%E7%9B%97%E7%94%A8%E5%85%B6%E7%B4%A0%E6%9D%90%E5%8D%B4%E8%A2%AB/" target="cdt-mirror">知乎｜如何看待「投诉央视盗用素材被告知：用了又怎样」？</a>
+</h2>
+<p><p><strong>问题：如何看待「摄影师投诉央视盗用其素材却被告知：用了又怎样」事件？</strong></p>
+<p>链接在这里，<a href="http://weibo.com/p/1001603885541329366022" target="_blank" rel="nofollow noreferrer">我被央视CCTV-7台盗用延时摄影素材，却被告知：“央视用你素材又怎么了？” （内附录音）<i></i></a></p>
+<p>9月11日作者追加说明：<br><a href="http://weibo.com/p/1001603885955378471271" target="_blank" rel="nofollow noreferrer">为什么我这次这么气愤要坚持到底？因为这一个月已经发现四起素材盗用事件了。<i></i></a></p>
+<p>相关问题：<a href="http://www.zhihu.com/question/35523744">如何看待摄影师王源宗指 CCTV-7 盗用其作品《西藏星空》一事？ – 法律</a></p>
+<p>相关问题：<a href="http://www.zhihu.com/question/35539700">如何从“央视盗用王源宗素材事件”看事件营销手法？ – 市场营销</a></p>
+<h2><a href="http://www.zhihu.com/people/zhang-zi-zheng">张子正：</a></h2>
+<p> <br>
+很怀疑央视还有多少这样的拿着国家的钱，乘着国家车去各个地方拍照取景，最后却上淘宝买素材的人。</p>
+<h2><strong>匿名用户：</strong></h2>
+<p> <br>
+老子在城里下馆子都不要钱，别说吃你几个烂西瓜。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/41404146a23538d275983a3ace290c42_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/41404146a23538d275983a3ace290c42_b.jpg" alt="41404146a23538d275983a3ace290c42_b" width="450" height=""></a></p>
+<h2><strong><a href="http://www.zhihu.com/people/gu-che-dan" data-tip="p$t$gu-che-dan">顾扯淡：</a></strong></h2>
+<p> <br>
+音频听得各种机关办事的既视感，首先人家肯定故意的，说实习生不懂法没文化的还是太善良。真以为谁都能进央视？</p>
+<p>这种就是套路，一听是没背景来找碴的，不管谁上来就先盘问你一遍，问东问西全问清楚了，然后再告诉你这事他解决不了，换一个人又重复这步骤，如此反复。你说我是XX企业有广告业务要找谁谁看他还这么说不。</p>
+<p>你在那边干着急生气，他反正是工作时间有钱拿不怕你耗，不管结果如何先把你耐心磨光。你一生气，万一憋不住发火了，人家就挑到错了，诸如你怎么不讲道理，我们这是按照正规流程，一吵的话你有理变没理，就算不吵时间精力也被耗光，只想快点把事情了结。</p>
+<p>目的是等大点领导出来态度稍微好些你就觉得到底是领导怎么人品这么好，下面零时工素质真差劲，本来要赔偿的，没准变成只要道歉就觉得自己赚到了。</p>
+<p>老实说个人对后续摄影师要求十万的赔偿不是特别看好，毕竟我国版权意识比较淡薄，央视这种事情干的太多，尤其配乐插曲部分是重灾区，央视不在乎这十万块，可万一开了口子，以后形成判例一堆外国公司找上门对央视而言就麻烦大了。</p>
+<p>弄得不好央视会扯《中华人民共和国著作权法》，重点是二十二条的一和七</p>
+<blockquote><p>第二十二条　在下列情况下使用作品，<b>可以不经著作权人许可，不向其支付报酬</b>，但应当指明作者姓名、作品名称，并且不得侵犯著作权人依照本法享有的其他权利：</p>
+<p>（一）为个人学习、研究或者欣赏，使用他人已经发表的作品；<br>
+（二）为介绍、评论某一作品或者说明某一问题，在作品中适当引用他人已经发表的作品；<br>
+（三）为报道时事新闻，在报纸、期刊、广播电台、电视台等媒体中不可避免地再现或者引用已经发表的作品；<br>
+（四）报纸、期刊、广播电台、电视台等媒体刊登或者播放其他报纸、期刊、广播电台、电视台等媒体已经发表的关于政治、经济、宗教问题的时事性文章，但作者声明不许刊登、播放的除外；<br>
+（五）报纸、期刊、广播电台、电视台等媒体刊登或者播放在公众集会上发表的讲话，但作者声明不许刊登、播放的除外；<br>
+（六）为学校课堂教学或者科学研究，翻译或者少量复制已经发表的作品，供教学或者科研人员使用，但不得出版发行；<br>
+（七）国家机关为执行公务在合理范围内使用已经发表的作品；<br>
+（八）图书馆、档案馆、纪念馆、博物馆、美术馆等为陈列或者保存版本的需要，复制本馆收藏的作品；<br>
+（九）免费表演已经发表的作品，该表演未向公众收取费用，也未向表演者支付报酬；<br>
+（十）对设置或者陈列在室外公共场所的艺术作品进行临摹、绘画、摄影、录像；<br>
+（十一）将中国公民、法人或者其他组织已经发表的以汉语言文字创作的作品翻译成少数民族语言文字作品在国内出版发行；<br>
+（十二）将已经发表的作品改成盲文出版。<br>
+前款规定适用于对出版者、表演者、录音录像制作者、广播电台、电视台的权利的限制。</p></blockquote>
+<p>目前看到央视扯这是他们淘宝上面的「付费」买的素材，强调了「付费」</p>
+<blockquote><p>关于王源宗反映《美丽中国乡村行》栏目使用其延时摄影素材的相关情况，我们在第一时间组成调查小组，进行了认真核实。经了解，我们在一期节目中使用的15 秒延时摄影视频，系栏目编辑在淘宝网付费购得。对该素材涉及的版权问题，我们正在进一步调查核实。同时我们对接听电话人员的不妥言语进行了严肃批评教育， 并向王源宗表示歉意！</p></blockquote>
+<p>搜了一下淘宝的卖素材的，以销量排序差点喷了<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3f3d3173dd4d472c4bda593c3a65838e_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3f3d3173dd4d472c4bda593c3a65838e_b.jpg" alt="3f3d3173dd4d472c4bda593c3a65838e_b" width="525" height=""></a><br>
+淘宝：怪我咯？</p>
+<p>*****果然更新了*****</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/ee26cc1c702c1a559c9d82a9b7397b2b_r.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/ee26cc1c702c1a559c9d82a9b7397b2b_r.jpg" alt="ee26cc1c702c1a559c9d82a9b7397b2b_r" width="500" height=""></a></p>
+<p>艹</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/32b2ec2babe103f0c053cb614a4eca74_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/32b2ec2babe103f0c053cb614a4eca74_b.jpg" alt="32b2ec2babe103f0c053cb614a4eca74_b" width="500" height=""></a></p>
+<p>*****下午三点再更新******</p>
+<p>当事人的微博已经无法转发和评论<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/07523472f79fde0d18e6d1e4010a685d_r.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/07523472f79fde0d18e6d1e4010a685d_r.jpg" alt="07523472f79fde0d18e6d1e4010a685d_r" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/279dd5e7088bbf1ffb806de9dee3cb4e_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/279dd5e7088bbf1ffb806de9dee3cb4e_b.jpg" alt="279dd5e7088bbf1ffb806de9dee3cb4e_b" width="474" height="454"></a></p>
+<p>照着这个节奏我很担心过几天摄影师微博被删号，甚至整个事件被反转。。。</p>
+<p><strong>编者附：淘宝“延时摄影素材”搜索结果</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E7%B4%A0%E6%9D%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E7%B4%A0%E6%9D%90.png" alt="延时摄影素材" width="525" height=""></a></p>
+<p>［更多网友回答请移步知乎原帖］</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E6%91%84%E5%BD%B1%E5%B8%88%E6%8A%95%E8%AF%89%E5%A4%AE%E8%A7%86%E7%9B%97%E7%94%A8%E5%85%B6%E7%B4%A0%E6%9D%90%E5%8D%B4%E8%A2%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">官僚主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%88%E6%9D%83/?category=18271" rel="tag">版权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/" target="cdt-mirror">【立此存照】央视在网络的公信力如何？</a>
 </h2>
@@ -248,7 +304,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
 </h2>
@@ -740,32 +796,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%88%E6%94%BF%E6%B2%BB%EF%BC%9F/" target="cdt-mirror">羽戈：我为什么要在朋友圈谈政治？</a>
-</h2>
-<p><p>“撕裂”作为中国的关键词，绝非始于今日。孙立平曾将“20世纪90年代以来的中国社会”定性为“断裂社会”，他的专著《断裂》与《失衡》，当年读来，便觉触目惊心，现在看去，愈发佩服他的先见之明。这两本书，不止写实，兼具预言色彩。如今，中国社会正处于断裂与失衡的阴影之下，愈陷愈深，无以自拔。</p>
-<p>明确了这一点，再来说朋友圈的撕裂，可知这不过是断裂现实的一种投影，只是表象，而非本原。被撕裂的友谊背后，隐藏了断裂的观念、断裂的利益、断裂的阶级、断裂的体制与断裂的社会，后者才是病源。由此而论，朋友圈的撕裂不是一个社交问题，而是一个社会问题，不是一个审美问题，而是一个政治问题。关于阅兵、范玮琪晒孩子等所激起的纷争，当作如是观。</p>
-<p>针对惨痛的现状，有人提出对策：千万别和朋友谈政治，千万别在朋友圈谈政治。按照他们一厢情愿的想法，只谈家事，不谈国事，只谈风月，不谈政治，便可换来朋友圈的安宁与友谊的长青。事实上，这是典型的鸵鸟主义，以回避政治的方式，来应付政治问题。问题非但没有化解，反而加剧。朋友圈风平浪静之下，则是人心渐渐隔阂，友情渐渐淡漠，其撕裂的本质，并未改变分毫。</p>
-<p>这里可分作两种情形。</p>
-<p><strong>第一种：</strong>你的朋友喜欢谈政治，你也喜欢谈政治，然而你们的政治观针锋相对，势不两立，为了避免冲突，你选择退让，归于缄默。</p>
-<p><strong>第二种：</strong>你的朋友圈都不关心政治，唯独你喜欢谈政治，你的议论打碎了他们的美梦，令他们不胜其烦，为了朋友圈的和谐，你选择退让，归于缄默。</p>
-<p>先说第二种情形。拒绝关心政治，在一些人眼里，是一种自由，不过，既为自由，则当发生在自由的语境之下，在一个泛政治化的国度，自由被严重压缩、摧残，几无立锥之地，不去关心政治，哪里还是自由呢，分明是犬儒。所谓政治冷漠，正是犬儒主义的一大症状。退一步讲，即使“我不关心政治是一种自由”勉强能够成立，别忘了这后面还有一句：<strong>关心政治则是一种责任</strong>。</p>
-<p>这么说，并非要强迫朋友圈都去关心政治，只是善意提醒：也许你不关心政治，政治却在关心你；政治是少数人的职业，却应该成为每个人的副业。</p>
-<p>这就是为什么，在政治冷漠如寒冰一般的朋友圈，我们要坚持谈论政治。如你所见，从生到死，我们都无法摆脱政治的桎梏，无法漠视政治的存在（在中国，甚至出生之前，便要接受政治约束：准生证）。我们不去关心政治，政治就会消逝么，不去议论政治，政治就会安详么？非但不会，它对我们的限制与压迫，反而变本加厉。须知，对权力者来讲，无疑更希望其治下的子民都不关心政治，温良恭俭让如沉默的羔羊，而非希望子民都来过问政治，你一言我一语，你一手我一脚，那样它将如芒在背，寸步难行。</p>
-<p>关心政治的目的，不在权力，而在自由。这一点必须弄清楚。我喜欢约瑟夫·布罗茨基那句话：“文学必须干预政治，直到政治不再干预文学为止。”同理，我们必须关心政治，直到政治不再关心我们为止。</p>
-<p>再说第一种情形。相比第二种，这不存在政治冷漠的问题。你和你的朋友，恰因热爱政治，才会发生争执：你是右派，他是左派，你反毛，他崇毛，你认为爱国主义是流氓最后的避难所，他认为爱国高于一切，感谢国家先于感谢爸妈……当你退出争论，绝口不谈政治，这能改变什么呢？朋友圈安宁了，你的朋友自觉胜利了，然而扪心自问，你并不能认同他的政治观，你担心伤害对方的感情而放弃争论，当你放弃争论，却发现伤害了自己的感情，你们的友谊，不会因此而增进，却有可能受损，因为你的心底已经生出了芥蒂。</p>
-<p>其实政治争论并不可怕，只要双方能够恪守规则，如《罗伯特议事规则》与哈维尔制定的八条《对话守则》；只要双方能够坚守求同存异的底线：反对的目的不在立异而在求同，争执的目的不在打败对方而在寻求共识。这样的争论，以规则与共识为保障，有百利而无一害，怎么会伤感情、坏和气？</p>
-<p>所以说，第一种情形的症结，不在谈不谈政治，而在怎样谈政治。介于公共与私人之间的朋友圈，与我们的公共生活一样，迫在眉睫的任务是塑造议事规则。就当下而言，规则比观点更重要。</p>
-<p>古往今来，不乏政见分歧而私交至笃的朋友。他们何以如此呢，我以为答案正隐藏梁启超致杨度的信中：“吾人政见不同，今后不妨各行其是，既不敢以私废公，但亦不必以公害私。”公私分明，恰是议事规则之一。</p>
-<p>说到这里，再谈两句友道。我以为朋友之间，第一贵在直，第二贵在恕。所谓直，即直言：对于朋友所陷入的误区，如政治冷漠，不能吝于批评、沉默到底，那样就成了“损者三友”；所谓恕，即包容，朋友圈正适用那句名言：容忍比自由更重要。你要容忍朋友不谈政治，正如朋友要容忍你谈政治，你要容忍朋友爱国，正如朋友要容忍你不爱国（当然容忍精神有其底线，毫无底线的容忍则成纵容、绥靖、姑息养奸，我的底线在于，可以接受朋友的政治冷漠，却无法接受对义和团、法西斯与文革的颂扬）。倘能做到这两点，不管朋友圈怎么争论，争到天昏地暗，斗转星移，终将免于撕裂。反之，若不能直，朋友圈将充满违心之言甚至谎言，若不能恕，朋友圈将只剩下一种立场、一种观点、一种声音，这样单调的朋友圈，注定是一个虚伪、单调而封闭的空间。</p>
-<p>2015年9月8日</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%88%E6%94%BF%E6%B2%BB%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E7%94%9F%E6%B4%BB/?category=18271" rel="tag">公共生活</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9/?category=18271" rel="tag">反对</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%8C%96/?category=18271" rel="tag">政治化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%AC%E5%84%92/?category=18271" rel="tag">犬儒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">犬儒主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -777,7 +807,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33y7aeycsw95j.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -787,5 +817,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d33y7aeycsw95j.cloudfront.net">https://d33y7aeycsw95j.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d172y6mzha8y49.cloudfront.net">https://d172y6mzha8y49.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d33y7aeycsw95j.cloudfront.net">https://d33y7aeycsw95j.cloudfront.net</a><br/><a href="https://d172y6mzha8y49.cloudfront.net">https://d172y6mzha8y49.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3dy2pf0rubwlq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
@@ -70,7 +70,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E6%9E%97/?category=18271" rel="tag">宋林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B8%85%E5%BB%B7/?category=18271" rel="tag">王帅廷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E8%85%90/?category=18271" rel="tag">贪腐</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%EF%BD%9C%E5%94%90%E4%B8%B9%E9%B8%BF%EF%BC%9A%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98%EF%BC%9A%E8%A2%AB%E6%B6%82%E6%8A%B9%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%92%8C%E8%A2%AB/" target="cdt-mirror">民主中国 ｜唐丹鸿：西藏问题：被涂抹的身份和被肢解的地理</a>
 </h2>
@@ -806,7 +806,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>

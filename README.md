@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d35fo3h5hskriq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3dy2pf0rubwlq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%B5%B0%E6%94%BF%E5%AE%A1%E8%80%81%E8%B7%AF-%E7%8E%A9%E6%96%87%E9%9D%A9%E5%A4%8D%E8%BE%9F/" target="cdt-mirror">【网络民议】走政审老路 玩文革复辟</a>
+</h2>
+<p><p><strong><a href="http://news.sina.com.cn/c/nd/2015-09-11/doc-ifxhupir7054806.shtml">教育部：招研究生将面谈了解考生思想政治情况</a></strong></p>
+<blockquote><p>新华网北京9月11日电 根据教育部网站11日发布的《2016年全国硕士研究生招生工作管理规定》，硕士研究生招生应坚持按需招生、德智体全面衡量、择优录取和宁缺毋滥的原则。</p>
+<p>规定强调，招生单位要强化对考生诚信的要求，充分利用《国家教育考试考生诚信档案》记录，对考生在报考时填写的考试作弊受处罚情况进行认真核查，将考生诚信 状况作为思想品德考核的重要内容和录取的重要依据。凡有违反国家教育考试规定、情节严重受到停考处罚，在处罚结束后继续报名参加研究生招生考试的，由学校决定是否予以录取。<strong>招生单位在复试的同时应组织思想政治工作部门、招生工作部门、导师与考生面谈，直接了解考生思想政治情况。招生单位还可采取“函调”或 “派人外调”的方式对考生的思想政治素质和品德考核。</strong></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/5161438159" target="_blank">活在清朝末年代</a>：<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@法埃廷：能不能把思想政治改成“思想道德”。凭什么必须向共产党看齐</p>
+<p>@我的那个小酱油呀：问考生，你爱国吗？这时候考生讲诚信就砸锅了。政治思想考试，就是考你不要脸到什么程度，</p>
+<p>@土豆不削-皮：问：爱不爱吃包子？答：爱吃！问：那臭豆腐馅儿做的呢？答：最爱吃！… …恭喜你，录取了！</p>
+<p>@聚贤亭侯：考官：你热爱××吗？考生摇头。考官：出去吧，你政治不正确。下一个考生。考官：你热爱××吗？考生点头。考官：出去吧，你不诚信。</p>
+<p><a href="http://weibo.com/3054031081" target="_blank">纯英文用户名</a>：中国共产党万岁，人民万岁<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">这样嘛</p>
+<p><a href="http://weibo.com/3259688155" target="_blank">转身之后-离开之前</a>：<img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"><img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"><img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]">各种迹象越来越左了，本来还以为…却没想到会…</p>
+<p>@北京空气污染播报：风雨欲来楼欲倒，一夜回到文革前</p>
+<p>@比比谁无耻：招生单位在复试的同时应组织思想政治工作部门、招生工作部门、导师与考生面谈，直接了解考生思想政治情况。招生单位还可采取“函调”或 “派人外调”的方式对考生的思想政治素质和品德考核。——政审！</p>
+<p>@部长会议大臣：又强调政治审查了,唉,估计这个国家前途将一片黑暗,想起了工农兵大学生的时代了,可是最挑乱的,恰恰是那些根正苗红的”大学生”</p>
+<p>@華聯-海参崴：请问教育部；是要恢复“红专”政策吗？花钱搞外调，不如再划下地富反坏右成份，今后就是政治思想不合格，就不能在中国读研深造是吗？你是想把有才的学子都逼出国？我看你们是不把这个民族祸害死是绝不甘心！</p>
+<p><a href="http://weibo.com/sparky0915" target="_blank">Lawrence_Jing</a><i title="微博达人"></i><i></i>：本来考研考政治就已经足够奇葩足够恶心，现在还要考生违心说一堆屁话鬼话。你们开心就好咯。<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>@四一居士T：接下来就该轮到查出身了。</p>
+<p><a href="http://weibo.com/3178659325" target="_blank">我叫弋飞</a>：玩文革复辟，向希特勒看齐<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p><a href="http://weibo.com/PhillyGarfield" target="_blank">费城加菲猫</a>：呵呵，学校不能培养砸锅党哈！就字面上的理解，“倒退”就是“反动”的意思吧？<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
+<p>@MasterKo：到底是了解诚信，还是摸底思想政治？？？ 不信党国就不让读了？？ 那真好，直接出国读。</p>
+<p>@中盛天成：金正恩万岁！</p>
+<p>@谷冈：面谈是为了更好的收贿费，降低公平性</p>
+<p>@dirty_apple：我相信共产主义必将实现，请问面试能加分不？</p>
+<p>@李需要：教育部，从根里铲除异己！</p>
+<p>@Gaileung：被洗脑的研究生能在学术创新上带来什么？</p>
+<p>@游曳05：奇葩的决策者啊！！何来学术自由啊！</p>
+<p>@jxman365：怕成这样了？统一只研究马列拉倒！</p>
+<p>@_南山：回复@四一居士T:为了吃饭，大家都分分刷政治背景，刷刷更健康.什么?能力，能力能吃饭?</p>
+<p>@方小星Gooo：这种教育就是教大家口是心非，心里明明都在骂，但你不得不装作很喜欢的样子。</p>
+<p>@C证屁民：以后看谁能说假话才能取得高学历</p>
+<p>@缓慢与平凡：得，又得多送一份礼了。</p>
+<p>@进2011：中国越来越可怕了！刚回国的知识份子又准备出国逃难了！</p>
+<p>@紫萝兰时尚：都别办大学了，统一按党校模式搞，毁人不倦啊！可恶的卑劣的政治，还不够么？？？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%B5%B0%E6%94%BF%E5%AE%A1%E8%80%81%E8%B7%AF-%E7%8E%A9%E6%96%87%E9%9D%A9%E5%A4%8D%E8%BE%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018709501_30300.jpg" alt="0,,18709501_303,00" width="498" height="280"></p>
@@ -47,7 +90,31 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜德语媒体：玩火的中国</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018709501_30300.jpg" alt="0,,18709501_303,00" width="498" height="280"></p>
+<p>（德国之声中文网）2015年达沃斯世界经济论坛周四在大连召开。《法兰克福评论报》在经济栏目发表文章指出，几年前中国还是这场经济论坛的璀璨明星，如今中国国务院总理李克强却必须在论坛上安抚企业领袖无需担忧中国经济会崩溃。</p>
+<p>文章开头描述道，李克强在夏季达沃斯期间努力消除中国经济陷入危机的印象。他在开幕式致辞时强调，中国经济不会硬着陆，而且有能力实现今年主要经济发展目标。他还指出，中国今年上半年对世界经济增长的贡献率约30%。</p>
+<p>《法兰克福评论报》写道：”自中国股市在夏季大跌后，对中国经济前景的担忧不断加剧。李克强希望将股市扩展成经济体中现代化的融资渠道，然而，投资者在股市一路飚涨后带走了利润，让股盘再次回到原点。7%的经济增长率也远低于期望。中国的外贸、工业产值和其它指标都在下滑。”</p>
+<p>李克强建议各界，不要过分在意数据，重要的是朝可持续发展、创新、更多的服务业和扩大内需迈进。</p>
+<p>文章写道：”经济学家也同意李克强对当前情势的基本正面态度，但仍对接下来的困难形势发出警告。《新萧条》一书的作者邓肯（Richard Duncan）表示：’大规模放贷长期以来遮掩了结构性问题。过去几年的大型经济项目如同给中国打了鸡血一般。’如今中国经济却面临产能过剩、缺乏效益以及低收益等问题。长期的低增速正等待着中国。”</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018702890_40400.jpg" alt="0,,18702890_404,00" width="340" height="191"><br>
+中国国家发改委主任徐绍史</div>
+<p>文章最后指出：”四年之前，在华举行的’夏季达沃斯’中还洋溢着对中国增长潜能及其体制优势的兴奋之情：当时美国和欧盟的危机皆无法影响中国。”</p>
+<p>“这一次，中国的高层官员和经济学家在会场内四处奔走，试图安抚全球民众的担忧。中国国家发改委主任徐绍史从会议的第一天开始便不断重复官方立场：中国将会达到自订目标，而且经济基础稳固。知名经济学者李稻葵甚至表示，股市下跌是好事：’调整的结果超过了预期。'”</p>
+<p>瑞士《新苏黎世报》周五也针对中国经济发表署名文章，题为”玩火的中国”。文章指出，中国经济疲弱有各种原因。”各省份进行经济改革并且赋予经济新动力的意愿有限……人口结构的变迁也造成劳动力减少，中央政府也没有展现出真正的改革热情。此外，中国试图稳定股市时不完善的做法导致各种猜测甚嚣尘上，认为中国国家主席习近平并不是对市场真正的友好。中国对改革的怠惰是在玩火自焚。”</p>
+<p>文章接着指出：”中国对股市的干预机制也被证明失效，不仅无法阻止股市暴跌，还加剧了投资者的不安全感。以中国人民银行决定重新设定汇率为例，政府在采取行动时缺乏敏锐性以及将出手干涉的原因更透明化的智慧。中国政府曾长期被认为是绝对可靠的，此类粗糙的做法却让其失去光芒。”</p>
+<p>作者最后总结，中国股市的失利反映出国家的整体情况：”中国并不像许多人一直以为的那么好。不过也没有许多人如今认为的那么差。”</p>
+<p>[本文摘自其它媒体，不代表德国之声观点。]</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">BBC｜中纪委就华润原董事长宋林涉贪案立案审查</a>
 </h2>
@@ -739,62 +806,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E5%BD%93%E4%BB%96%E4%B8%8D%E5%90%AC%E8%AF%9D%E6%97%B6%E5%B0%B1%E6%89%BE%E4%BB%96%E7%9A%84%E5%AE%B6%E4%BA%BA/" target="cdt-mirror">王五四：当他不听话时就找他的家人</a>
-</h2>
-<p><p>本来打算有些事放到几年以后再说，不过现在就想说说，说说也无妨。你们看了这么久的文章，也该了解下作者“鲜为人知”的一面了。</p>
-<p>虽然我的文章都与时政相关，但私下里跟朋友跟同事跟家人我从来不谈这些，不但不主动谈甚至避谈，没有别的原因，我只是想把更多的时间用来享受生活和陪伴家人，我不愿意更多地介入到那些肮脏地事情里，但即便如此，我也不得不承认，我根本无法逃避，也无法视而不见，它们无处不在。我所做所写，只是基于内心基本而朴素的正义感，并没有什么值得称赞的，相反，我还会主动回避很多所谓的敏感话题，遇到褒奖时，我内心是不安的，因为我总会想起我那些因言获罪的朋友，他们至今依然不自由。</p>
-<p>今天，杭州国保找到我丈母娘家里了，在我举办婚礼的前夕，老人家自然担惊受怕，怕女儿嫁给坏人。他们第一次找到我老婆家里是几个月前，跟她父母进行了深入交流，后来也去找了我老婆和她单位，这当然令我很生气，但作为准家属我“情绪稳定”，因为除非你变成绿巨人，否则再有情绪也没用。那时我和媳妇还没领证，不过因为这件事，我老婆决定跟我领证了，我挺感谢她的。其实我并不觉得自己做错过什么，也没有什么违法犯罪的行为，相反我觉得自己是一个不正常社会下的正常人，当然你也可以把我看作正常社会下的不正常人，我很感谢我的父母，他们没有教给我很多知识，但教会了我做人的基本道理。</p>
-<p>对于普通人来说，当警察找上门要跟你谈谈你孩子“鲜为人知”的一面时，这当然不是什么好事，即便没有任何实质问题，亲人自然也会担惊受怕，当警察上门时，那种大国下小民的恐慌可见一斑。曾经，警察以我练某功为名上门找过家人，我当然没有练；以我去北京上访为名找过我家人，我当然没有上访；以了解我个人近况为名找过我单位，我当然是个优秀员工……,然并卵。这么多年，我并不害怕这些，我没有做错过什么，我只是瞧不上这种蛮横的行为，有些时候还会感觉恶心，不过我一次一次变得越来越“乖”，但那种感受……,你懂的。</p>
-<p>我身边的朋友、同事自然不知道我这些“鲜为人知”的一面，我也不愿提起，因为我知道你们都是正常人，此次说明，只是感觉“丑媳妇总要见公婆”。程益中老师今天发了篇文章叫《中国最大的糟粕，就是所谓的做人学问》，他说“中国人缺乏的是率真和纯粹。中国到处充斥着各式各样、似是而非的做人做官的学问、庸俗管理的学问，其祖师爷都是厚黑学和潜规则。从这些学问那里，我看到的都是争先恐后的、创造性的无耻。我经常会觉得有点不可思议，怎么那么多教人做人的学问里边，都不教人怎样做一个正直、正派和有道义的人，反过来都教人怎么做一个圆滑、世故和不吃亏的人。”，我很认同程老师的话，但也理解那些普通人的世故和圆滑，每当有人问我自己该做些什么时，我一直说的是，过好自己的生活，照顾好自己的家人。凯尔泰斯在《船夫日记》里说过这样一句话：生存即屈从。有人是这样理解屈从的，“屈从不是投降，只是不去做那种身体的或者强硬的抗争，因为那样做没有意义，那样做肉体和精神都会被消灭，屈从应该是这样，低头沉默，不与极权为伍，不做同谋，在存活的过程中保持独立”，实际上，这非常难，但好像也别无选择。</p>
-<p>今天有个朋友是这么评价程益中老师的文章的，“因着这做人的学问，尽管我极认同本文，却不能分享到朋友圈，可悲。”，我能理解她的心情，但我比她做的多了一点，分享了这篇文章，现在做的更多了一点，讲述了一些与自己有关的故事，故事总是要故去，我还是那个简单的人，有自己的爱好和专长，凭良心活着，屈从也好，反抗也罢，有恐慌而没有惧怕，顶多有点被恶心到了，一直记着我朋友昆仑风的母亲面对文革中殴打她的人说的那句话：我瞧不上您。我爹知道他们找我的事情后说，尽量少写，这些人很坏的。</p>
-<p>看到这篇文章的朋友们不必惊奇,我不是坏人，也不必问候，我一切都好，用《中国好声音》里选手们傲娇的口号说就是：我一定会勇敢的唱下去的。唱个歌而且还唱那么好，需要什么勇敢？又不会有警察找你爹妈。</p>
-<p>我写过一篇《我爹和我的婚事》，写得很隐晦，但其实那是杭州警察第一次找到我媳妇她家时写的，我爹当时正在杭州，和丈母娘商讨婚事。贴出来再看下：</p>
-<p>我爹关了灯躺在小房间，我关了灯坐在客厅，黑暗中我听到我爹在抽烟，也听到了自己的眼泪撞击地板的声音，啪啪啪，我想，哭得再厉害点，这就是在给楼上的男女配音了。</p>
-<p>晚饭我炒了一个菜，我爹做了两个菜，他喝了两个瓶子里的残酒，我吃了一大碗剩饭，我们一句话都没说，但都知道对方心里很难过。我爹肯定在想，这么好的儿子怎么就娶不到媳妇，我也在想，这么好的自己怎么就娶不到媳妇。</p>
-<p>我知道我爹又上火了，打我二十八岁起，他就为我操碎了心，准确地说是为了我的婚事。为了能让一个女人跟我结婚，他几乎付出了全部的物质和诚心，几近讨好。而我也用尽全力配合着，用力讨好一个女人，用力爱一个女人，用力睡一个女人，可生活却总是用力给我一个耳光，而且是当着我爹的面打的，弄得我们俩都很心碎。</p>
-<p>记得我爹有一次喝多了酒，打电话训我：你就整天在外面胡搞吧，连个媳妇都没有。当时我委屈的差点哭了，心里大喊：你儿子是有条件胡搞的人吗？爱得很深沉，睡得很专一。</p>
-<p>从小到大我爹跟我说话不多，我跟我爹也没什么交流的，最多就是饭桌上一举杯：喝。我娘说我爹脾气很差，其实我觉得我爹脾气很好，跟我一样，我们基本不在清醒的时候骂人，只是喝多了才会怒斥。三十多年了，我爹只骂过我两次，第一次是在初中，他喝了酒：怎么才考了全县六十多名！第二次就是上一段。</p>
-<p>我跟我爹都不太会表达感情，但我们都属于爱得深沉地那种，我比我爹好点，不愿说但能写出来，他写也不会，只有在喝多的时候跟我说：不是不让你妈打麻将，她一输就上火。就像现在，他一句话不跟我说就进屋了，我知道他心里知道我心里难受，而我心里，也是这样知道他的。</p>
-<p>外面的工地还在施工，但我依然能听到我爹的呼吸声渐渐沉重起来，他终于睡着了，带着满身的疲倦。明早七点他就要踏上返乡的列车，我却不知道自己何时能踏上归途，我很羡慕我爹，有我这样一个好儿子。</p>
-<p>我爹把家里所有的钱都带给我了，但我如何跟我爹解释，这不是花钱日下的事，而是世风日下的事。</p>
-<p>我很想跟我爹讲讲前几天疯转的小伙泡女神的事：“一个小伙A用2000元其中的1500元给女神买了三星手机，留500元吃饭开房，骑着电瓶车去找妹子，女神说:你是一个好人，可是我们真的不合适。一个小伙B也有2000元，用700元租了一辆BMW,然后去批发市场300元买了99朵玫瑰，告诉女神，他喜欢手牵手去那些浪漫的小吃店100元，还剩900元，找了五星级酒店的海景房，当晚妹子就跟他睡了，而且说是因为爱情。。。。”。我很想告诉我爹，我只能当A型男啊，因为B很傻逼，要是当了B，完事后女神肯定很感动地跟小姐们说：这暖男对我真好，明明可以花五百块包宿不限次数，他却非要花心思，明明可以花钱日下，他却非要花前月下。</p>
-<p>我爹不懂互联网思维，我还是不跟他讲了。</p>
-<p>我爹说，他再也不来我这个城市了，我知道，他已经年岁很大了。再也不会有人坐二十四个小时的硬座来看我了。</p>
-<p>钱还是要收，硬广还是要插的，点击阅读原文是卖海参的，品质没问题，懂行的人知道性价比挺好，入秋了，有需要可买点。 <a href="http://weidian.com/?userid=281827955&src=shop&from=singlemessage&isappinstalled=0#rd">阅读原文</a></p>
-<p><img src="https://chinadigitaltimes.net/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" alt=""><img src="http://mmbiz.qpic.cn/mmbiz/s0oo4J3NZhYibwNdFwWcb2PedEVxQCqwcIeZgD3OLqnibticnOH9k7kMVibOLicicNibEjmR0EvnZSNbj67JXpHZgbgUg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E5%BD%93%E4%BB%96%E4%B8%8D%E5%90%AC%E8%AF%9D%E6%97%B6%E5%B0%B1%E6%89%BE%E4%BB%96%E7%9A%84%E5%AE%B6%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%88%E6%AF%8D%E5%A8%98/?category=18271" rel="tag">丈母娘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E6%87%82%E7%9A%84/?category=18271" rel="tag">你懂的</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%BB%E9%80%BC/?category=18271" rel="tag">傻逼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AD%E8%89%AF%E5%BF%83/?category=18271" rel="tag">凭良心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E4%BA%89/?category=18271" rel="tag">抗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83/?category=18271" rel="tag">极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%9A%97/?category=18271" rel="tag">黑暗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/" target="cdt-mirror">【CDTV】中国的秘密：惊人的贫富差距</a>
-</h2>
-<p><p>@阿尔法字幕组：【BBC中国的秘密第三集：惊人的贫富差距】钱就是软实力，壕不壕都在拼爹。爹不给力的，都沉默地任劳任怨。亲爹给力的，抱上大腿，就在灯红酒绿中挥金如土。吃够生猛海鲜也好，吃腻包子馒头也罢。这就是一个钱决定命运的国度。</p>
-
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwaws9ok7j30zk0k0jui/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwaws9ok7j30zk0k0jui-150x150.jpg" alt="005Qmyiojw1evwaws9ok7j30zk0k0jui"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwawtz9l3j30zk0k0adp/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwawtz9l3j30zk0k0adp-150x150.jpg" alt="005Qmyiojw1evwawtz9l3j30zk0k0adp"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwawwg78oj30zk0k0q7y/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwawwg78oj30zk0k0q7y-150x150.jpg" alt="005Qmyiojw1evwawwg78oj30zk0k0q7y"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwawz3ioej30zk0k0af4/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwawz3ioej30zk0k0af4-150x150.jpg" alt="005Qmyiojw1evwawz3ioej30zk0k0af4"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwax5d763j30zk0k041m/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwax5d763j30zk0k041m-150x150.jpg" alt="005Qmyiojw1evwax5d763j30zk0k041m"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwax98vrbj30zk0k0n38/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwax98vrbj30zk0k0n38-150x150.jpg" alt="005Qmyiojw1evwax98vrbj30zk0k0n38"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwaxcvdy9j30zk0k0wiy/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwaxcvdy9j30zk0k0wiy-150x150.jpg" alt="005Qmyiojw1evwaxcvdy9j30zk0k0wiy"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwaxetxp6j30zk0k0djb/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwaxetxp6j30zk0k0djb-150x150.jpg" alt="005Qmyiojw1evwaxetxp6j30zk0k0djb"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/005qmyiojw1evwaxnexfbj30zk0k0tcs/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/09/005Qmyiojw1evwaxnexfbj30zk0k0tcs-150x150.jpg" alt="005Qmyiojw1evwaxnexfbj30zk0k0tcs"></a>
-
-<p>下载<a href="http://pan.baidu.com/s/1eQwbFH4?qq-pf-to=pcqq.discussion" target="_blank">地址</a></p>
-<p>在线播放<a href="http://qianmo.com/howww/296" target="_blank">地址</a></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">中国式婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86/?category=18271" rel="tag">中国的秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6/?category=18271" rel="tag">买房买车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%A9%E5%A5%B3/?category=18271" rel="tag">剩女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E4%BA%B2/?category=18271" rel="tag">相亲</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -806,7 +817,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d35fo3h5hskriq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +827,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d15ep58bcln0ps.cloudfront.net">https://d15ep58bcln0ps.cloudfront.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/></td>    </tr>
 </table>

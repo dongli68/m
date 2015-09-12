@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du0gexfbvdudd.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://dthf9t8xc9ly7.cloudfront.net">https://dthf9t8xc9ly7.cloudfront.net</a><br/><a href="https://d32ateyn3huhgg.cloudfront.net">https://d32ateyn3huhgg.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://du0gexfbvdudd.cloudfront.net">https://du0gexfbvdudd.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du0gexfbvdudd.cloudfront.net">https://du0gexfbvdudd.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d32ateyn3huhgg.cloudfront.net">https://d32ateyn3huhgg.cloudfront.net</a><br/><a href="https://dthf9t8xc9ly7.cloudfront.net">https://dthf9t8xc9ly7.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/" target="cdt-mirror">自由亚洲｜北京律师案多位辩护人天津欲见当事人不果</a>
@@ -807,7 +807,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dthf9t8xc9ly7.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -817,5 +817,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://dthf9t8xc9ly7.cloudfront.net">https://dthf9t8xc9ly7.cloudfront.net</a><br/><a href="https://du0gexfbvdudd.cloudfront.net">https://du0gexfbvdudd.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d32ateyn3huhgg.cloudfront.net">https://d32ateyn3huhgg.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dthf9t8xc9ly7.cloudfront.net">https://dthf9t8xc9ly7.cloudfront.net</a><br/><a href="https://d32ateyn3huhgg.cloudfront.net">https://d32ateyn3huhgg.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://du0gexfbvdudd.cloudfront.net">https://du0gexfbvdudd.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wizc0s12zpz5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gjecf0ec0lhv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2wizc0s12zpz5.cloudfront.net">https://d2wizc0s12zpz5.cloudfront.net</a><br/><a href="https://d1gjecf0ec0lhv.cloudfront.net">https://d1gjecf0ec0lhv.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1gjecf0ec0lhv.cloudfront.net">https://d1gjecf0ec0lhv.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d2wizc0s12zpz5.cloudfront.net">https://d2wizc0s12zpz5.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/" target="cdt-mirror">自由亚洲｜北京律师案多位辩护人天津欲见当事人不果</a>
@@ -248,7 +248,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
 </h2>
@@ -777,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -787,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2wizc0s12zpz5.cloudfront.net">https://d2wizc0s12zpz5.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1gjecf0ec0lhv.cloudfront.net">https://d1gjecf0ec0lhv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1gjecf0ec0lhv.cloudfront.net">https://d1gjecf0ec0lhv.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2wizc0s12zpz5.cloudfront.net">https://d2wizc0s12zpz5.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
 </table>

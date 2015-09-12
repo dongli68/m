@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1z32zyvndka4i.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1z32zyvndka4i.cloudfront.net">https://d1z32zyvndka4i.cloudfront.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://d1z32zyvndka4i.cloudfront.net">https://d1z32zyvndka4i.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B6%81%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A2%AB%E9%81%97%E5%BF%98-%E8%AE%B2%E4%B8%80%E8%AE%B2%E6%88%91%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%848-12%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/" target="cdt-mirror">趁还没有被遗忘 讲一讲我所经历的8. 12塘沽爆炸</a>
@@ -114,7 +114,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0/?category=18271" rel="tag">媒体札记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%B5%B0%E6%94%BF%E5%AE%A1%E8%80%81%E8%B7%AF-%E7%8E%A9%E6%96%87%E9%9D%A9%E5%A4%8D%E8%BE%9F/" target="cdt-mirror">【网络民议】走政审老路 玩文革复辟</a>
 </h2>
@@ -868,7 +868,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dwamzazzjr4xc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -878,5 +878,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://d1z32zyvndka4i.cloudfront.net">https://d1z32zyvndka4i.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1z32zyvndka4i.cloudfront.net">https://d1z32zyvndka4i.cloudfront.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>

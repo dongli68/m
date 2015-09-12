@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2wizc0s12zpz5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2wizc0s12zpz5.cloudfront.net">https://d2wizc0s12zpz5.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1gjecf0ec0lhv.cloudfront.net">https://d1gjecf0ec0lhv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2wizc0s12zpz5.cloudfront.net">https://d2wizc0s12zpz5.cloudfront.net</a><br/><a href="https://d1gjecf0ec0lhv.cloudfront.net">https://d1gjecf0ec0lhv.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/" target="cdt-mirror">自由亚洲｜北京律师案多位辩护人天津欲见当事人不果</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/fba819d8-6bcc-4bda-9931-1ad8cfda18e9.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/fba819d8-6bcc-4bda-9931-1ad8cfda18e9.jpeg" alt="fba819d8-6bcc-4bda-9931-1ad8cfda18e9" width="550" height="423"></a><p>图片：多位被捕律师的辩护人，在天津河西公安分局外。（听众提供/记者乔龙）</p></div>
+<p>北京警方于今年7月连续抓捕十多位律师，目前由公安部指定天津市公安局河西分局管辖。本周五（9月11日），被羁押超过两个月的维权律师李和平、谢远东、 王全璋及勾洪国的辩护人到河西分局预审支队，要求见当事人及了解案情，均没有成功。当局的理由是案件涉及危害国家利益。有律师感叹道，河西分局只是公安部 的一个“托”，案件“水太深”。</p>
+<p>今年7月9日及10日，被北京警方抓捕及失踪的多位北京律师至今不准与辩护律师见面。</p>
+<p>本周五，李和平、谢远东、王全璋及勾洪国的代理律师不约而同的前往天津市河西公安分局预审支队，向队长赵旭查询他们当事人的情况，但接待人员以赵旭开会为由，婉拒律师的请求。</p>
+<p>谢远东的辩护律师李永恒当天在公安局外对记者说：“我们都到了河西分局以后，他们负责接待的赵队长，赵旭，他们说赵旭队长没有在。他们一个姓王的警官就说， 原来出具过法律手续，就说凡是涉及煽动颠覆国家政权，不允许会见。他现在仍然按照原来的理由执行，还是不允许会见。他让我们写了书面材料，说他会向领导反 映”。</p>
+<p>李永恒说，其当事人已被羁押两个多月，依照法律的相关规定，当局也应该准许律师会见。</p>
+<p>“律师会见（当事人）应该是常态，你如果认为（会见）妨碍侦查或涉及秘密，过一段时间，你还是要让律师会见的。你不能以拒绝律师会见为理由，永远不让律师会见，这是不可以的”。</p>
+<p>7月10日，北京锋锐律师事务所谢远东律师被警方以涉嫌“寻衅滋事罪”为由抓走，几天后，其家属接到“指定监视居住通知书”。8月3日，家属委托的辩护人李永恒律师、杜青波律师到河西分局，要求会见当事人，被警方拒绝。</p>
+<p>勾洪国案的代理律师纪中久对记者说，办案的警察也在回避律师。</p>
+<p>“今天，因为他们也预料到，这几天去的律师人数不少。（负责人）昨天不在，今天又不在。这件事因为时间长了，他们觉得还不让律师见当事人，也不太好说。他们所 采取的羁押措施都是指定居所监视居住。我们跟他们讲，天气冷了，他们被捕时穿的衣服，跟现在的季节都不适应了，家属要送衣服是人之常情。另外，我们也讲了，人都抓了两个月了，你开始不让见人，说是涉秘。过了两个月都不让见，不合情理吧”。</p>
+<p>李和平案的代理律师马连顺周五表示，他就此到天津市公安局信访窗口查询。</p>
+<p>“因为，7月27日，我和蔡瑛律师，还有王峭岭女士（李和平妻子），我们一起去过一次，他们说，五个工作日给答复。今天又去了以后，他们又说不知道，电脑里查不到。11点15分到的，他们已经下班了。对我们很不耐烦，就想往外赶人”。</p>
+<p>马律师说，河西分局未必是真正的办案单位。</p>
+<p>“现在我们怀疑河西分局是公安部的一个托，具体谁办案，他们可能真的不知道。背后有一只手在操控这个案件。上级要他们接待，他们就接待。看不到边啊，这个水太深”。</p>
+<p>王 权璋律师的姐姐周四发出寻人启事称：“今天，我和李律师又一次来到河西看守所，我们多么地渴望能够见你一面，哪怕只有一分钟！可希望又一次破灭了！他们派 了一个不管事的警员来应付我们，我们辗转几十个小时，坐了一整晚的火车，他们几分钟就把我们打发了，悲！痛！在公权力面前，我们是那么的无助，犹如任由宰 割的羔羊！”</p>
+<p>（特约记者：乔龙 责编：吴晶）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">李和平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%85%A8%E7%92%8B/?category=18271" rel="tag">王全璋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%81%94%E5%8A%9E%E5%BC%A0%E6%99%93%E6%98%8E%EF%BC%9A%E7%89%B9%E9%A6%96%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6%E4%BA%8E%E4%B8%89%E6%9D%83/" target="cdt-mirror">BBC｜香港中联办张晓明：特首地位超然于三权</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BC%A0%E6%99%93%E6%98%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BC%A0%E6%99%93%E6%98%8E.jpg" alt="张晓明" width="575" height="323"></a><p>香港中联办主任张晓明指行政长官拥有行政、立法、司法之上的特殊地位（资料照片）。</p></div>
+<p><strong>香港中联办主任张晓明周六（9月12日）出席一个基本法研讨会，会上致词指行政长官拥有行政、立法、司法之上的特殊地位，而且香港不实行三权分立。</strong></p>
+<p>张晓明说：“行政长官具有超然于行政、立法、司法三个机关之上的特殊法律地位，处于特别行政区全力运行的核心位置，在中央政府之下，特别行政区的三权之上，启着连接的枢纽的作用，这是行政长官履行对中央人民政府负的责任所必需的，也是中央对特别行政区管治所必需的。”</p>
+<p>张晓明指特首具有双首长身分，双负责制的责任，所以在三权之上。另外，他指三权分立只建立在主权国家，而香港不是主权国家，所以最多只能用作参考，不能完全适用。</p>
+<p>公民党法律界议员郭荣铿对BBC中文网说，他对张晓明的言论感到十分失望。郭荣铿说：“我从来没有听过特首在三权之上的说法。明显地，张晓明不了解他的工作、不理解香港的制度……我认为他应该回去读书，学习基本法及一国两制。”</p>
+<p>有份撰写《一国两制白皮书》的北京大学港澳研究中心执行主任强世功，在同一场合，质疑一国两制是否不合时宜。</p>
+<p>时事评论员、前公务员事务局局长王永平接受BBC中文网访问说，不理解张晓明的言论。“香港所谓三权的权责，在基本法列明，我们就按照基本法办事。”</p>
+<p>王永平指出，以基本法第七十三条（九）为例，立法会有权力弹劾特首，假如成功的话，可建议中央政府处理。所以，基本法之下，特首受到立法会的制衡。</p>
+<p>郭荣铿说：“香港法院一再指明，香港实行三权分立，香港的行政、立法、司法机关运行分立及平等的权力。”他指，立法制衡行政机关的权力；司法机关确保行政机关的决定合法，所以才有司法复核。</p>
+<p>张晓明并非首个提及香港并非实行三权分立言论的内地官员。2008年，习近平担任国家副主席访港，与特区主要官员、当时的立法会主席范徐丽泰及终审法院首席法官李国能会面时，曾发表“三权合作论”，指出行政、立法、司法机关要“互相理解，互相支持”。</p>
+<p>2013年，中联办宣传文体部部长郝铁川亦曾撰文，指香港政治体制不是三权分立。</p>
+<p>（撰稿：蔡晓颖　责编：萧尔）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%81%94%E5%8A%9E%E5%BC%A0%E6%99%93%E6%98%8E%EF%BC%9A%E7%89%B9%E9%A6%96%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6%E4%BA%8E%E4%B8%89%E6%9D%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%81%94%E5%8A%9E/?category=18271" rel="tag">中联办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%99%93%E6%98%8E/?category=18271" rel="tag">张晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96/?category=18271" rel="tag">香港特首</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/" target="cdt-mirror">【立此存照】央视在网络的公信力如何？</a>
 </h2>
 <p><p><strong>【事件背景】</strong></p>
@@ -715,148 +766,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F%E5%A4%96%E9%80%83%E4%B8%8E%E5%8A%A0%E5%85%A5%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E5%A4%A7%E8%B5%B7%E5%BA%95/" target="cdt-mirror">端传媒｜维吾尔族外逃与加入伊斯兰国大起底</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/37cafdbfb7534ab2badf8e6b786e544f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/37cafdbfb7534ab2badf8e6b786e544f.jpg" alt="2015年7月16日 維吾爾族難民在土耳其伊斯坦堡生活的情況。攝: Osman Orsal /REUTERSIstanbul,Turkey, July 16, 2015. Thousands of members of China's Turkic language-speaking Muslim ethnic minority have reached Turkey, mostly since last year, infuriating Beijing, which accuses Ankara of helping its citizens flee unlawfully. Turkish officials deny playing any direct role in assisting the flight. Picture taken July 16, 2015. To match Insight TURKEY-CHINA/UIGHURS REUTERS/Osman Orsal - RTX1LYMR" width="550" height="367"></a><p>2015年7月16日 維吾爾族難民在土耳其伊斯坦堡生活的情況。攝: Osman Orsal /REUTERS</p></div>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2014/09/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%EF%BC%9A%E5%BD%93%E5%89%8D%E6%96%B0%E7%96%86%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98%E7%9A%84%E7%8E%B0%E7%8A%B6%E5%8F%8A%E5%BB%BA%E8%AE%AE%EF%BC%88%E5%85%A8%E6%96%87/">伊力哈木：当前新疆民族问题的现状及建议（全文）</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%88%91%E7%9A%84%E7%BB%B4%E5%90%BE%E5%B0%94%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89%E6%98%AF%E6%80%8E%E6%A0%B7%E5%BD%A2%E6%88%90%E7%9A%84/">纽约时报 | 我的维吾尔“民族主义”是怎样形成的</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/03/%E7%8E%8B%E8%8C%9C-%E6%8A%8A%E6%88%91%E7%9F%A5%E9%81%93%E7%9A%84%E6%96%B0%E7%96%86%E8%AF%B4%E7%BB%99%E4%BD%A0%E5%90%AC/">王茜 | 把我知道的新疆说给你听</a></li>
-<li>中国数字时<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/">代伊力哈木</a>专题</li>
-</ul></blockquote>
-<p><strong>进入伊斯兰国，他后悔了</strong></p>
-<p>维吾尔人艾力普（化名）决定逃离家乡──新疆哈密。</p>
-<p>2013年的一天，他告别妻儿，直奔云南，四处寻找蛇头，而后取道东南亚，徒步穿越泰国，辗转抵达土耳其。在伊斯坦布尔生活一段时间后，又被一个“机缘巧合”下认识的维吾尔人带至“生活会更好”的伊拉克境内，艾力普就这样踏进了伊斯兰国（The Islamic State, 下文简称IS）。</p>
-<p>不久，他后悔了。</p>
-<p>不愿透露更多在IS生活的细节，艾力普只告诉端传媒，他很快发现那里战事炙热，一不小心就会性命不保。他觉得自己并不是个能够“完全奉献”的穆斯林，那样恪守伊斯兰教法的社会也不适合他。于是不到半年，他再次选择逃离，趁当时土耳其边境管理尚不严格，从IS逃回伊斯坦布尔。</p>
-<p>如今，艾力普和追随他偷渡出新疆的妻儿住在伊斯坦布尔，经商为生。</p>
-<p>世界维吾尔代表大会（World Uyghur Congress）常驻土耳其开色利（Kayseri）的副主席萨伊特（Seyit Tumturk）称，近两年，如艾力普这样从中国逃出，进入土耳其的维吾尔人大约有8000–10000人左右。</p>
-<p>这些“外逃的维吾尔”中，有一些被安置在土耳其中部安纳托利亚地区的开色利城，另一些留在伊斯坦布尔，主要生活在靠近城西国际机场的区域，如Zeytinburnu和Sefaköy。</p>
-<blockquote><p><strong>世界维吾尔代表大会</strong></p>
-<p>简称“世维会”，总部设在德国，主席为热比娅．卡德尔。世维会称新疆为东突厥斯坦，他们强调秉持联合国宪章“民族自决”的原则，提倡以非暴力形式进行抗争，不支持、不鼓励、不行使武装战争形式争取独立。世维会被中国政府视为进行国家分裂活动的组织。 （资料来自维基百科）</p></blockquote>
-<p>艾力普毫不讳言他初到土耳其时的失望。在这个失业率常年停留在10％以上的国家，偷渡者谋生绝不容易。原本对土耳其的美好愿景很快被拮据的生活打破，这是促成艾力普愿意去伊拉克”寻找更好生活”的主要原因。</p>
-<p>54岁的维吾尔人阿布都拉罕（Abdulahim）出逃则是为了“更有尊严的生活”。 由于在家乡伊犁（新疆北部城市）“没办法有尊严地生活，更没法正常地过伊斯兰宗教生活”，阿布都拉罕逃至土耳其，现居开色利。</p>
-<p>与他一起住在开色利的，还有1000名左右维吾尔人，他们逃至这里后，被安置在几栋五层高的公寓中。毫无特征的方形楼宇外，是宽阔的马路和异常笔直的白杨树，这景色与几千公里外新疆城市中寻常小区的景致颇为相似。</p>
-<p>不止气候与城市特征有相似之处，由于同属突厥民族，语言相近，新疆维吾尔人对于土耳其一直存有亲近感甚至归属感。因此，近年维吾尔人出逃的目的地多选择土耳其。</p>
-<p>“外逃维吾尔人”在土耳其的生存方式大致可分为三类。第一类是少数，这些维吾尔人在土耳其有亲戚朋友，可以通过关系寻得工作，生存下去。第二类也是少数，他们性格较为独立，有经商头脑，可以很快适应土耳其当地社会生活。第三类“外逃维吾尔”则是大多数，由于受教育程度不高，人生地不熟，他们到达土耳其后大多没有工作，靠偶尔打打零工和社会救济维持生活。</p>
-<p>值得注意的是，在开色利，妇女与孩童占有非常高的比例。穿着遮盖全身、只露眼睛的黑色罩袍，开色利的维吾尔女性称，逃到土耳其是“为了小孩的教育”。她们解释，在新疆，没有能够学习传统伊斯兰教义与维吾尔民族文化的环境。在开色利的安置区，他们成立了自己的学校，教孩子读《古兰经》。</p>
-<p>但外逃者很快发现，土耳其远比他们想像的世俗，满目的西方现代化特征冲击着他们追求伊斯兰宗教保守生活的心。</p>
-<p>新加坡南洋理工大学一名反恐学者向端传媒透露，或许是利用了这种失望心态，不少组织对这些初到土耳其的维吾尔人，进行有针对性的宣传。拍摄音视频档，展示穆斯林正在叙利亚过着更为宗教正统的、平静幸福的生活，最终目的是吸引观者加入IS。</p>
-<p>中国政府与国内学界的普遍观点是，对维吾尔人“外逃”的鼓动，实际上从新疆境内就已经开始，而IS及其宣传网络更可能是真正的鼓动者。</p>
-<p>如艾力普这样，受到鼓动进入IS又逃出来的人只是极少数。在土耳其首都安卡拉研究维吾尔问题的学者透露，现在进入IS和叙利亚的维吾尔战士总计可能超过4000名，已经战死的超过500名。这个数字远远超过中国官方此前提及的数目，但尚没有其他信源能够交叉验证这一说法。</p>
-<p>中国官方只有两次直接或间接地提及参加IS的维吾尔人数目。2014年，中国政府中东问题特使吴思科援引国外媒体消息称, 大约有100名中国籍公民在中东作战或接受训练，其中主要为“东突分子”。2015年初，马来西亚内政部长在与中国公安部副部长见面后，透露中方提及”有300多名中国人以马来西亚作为中转站，前往第三国，再加入IS。”</p>
-<p>据这个土耳其讯息源称，这4000多名维吾尔人分属不同军事组织；大部分加入IS，也有颇多人加入叙利亚反抗军的行列，甚至也有少量加入叙利亚政府军。不论为谁而战，共同点是他们同时接受了战场武装训练。</p>
-<p>世维会副主席萨伊特对端传媒说，他和工作伙伴正在尽力说服迁入开色利的维吾尔人不要前往叙利亚或IS，而是留在土耳其过“正常的生活，让小孩受正常的教育”。</p>
-<p>但只靠救济并非长久之计。未来何去何从，被安置在开色利的维吾尔人尚无定论。</p>
-<p>现在，定居伊斯坦布尔的艾力普一边帮人做房屋买卖仲介，一边与人合伙开办馕饼（一种新疆食品）工厂，批发分销到伊斯坦布尔的零售杂货店。他同时还前往中东其他国家，将土耳其的货品出口贸易到沙特阿拉伯与卡塔尔。他的妻子也十分勤奋，两年前开始在家中做手工。如今一家人已经筹到钱在伊斯坦布尔买房子。</p>
-<p>相对其他“维吾尔外逃人士”，艾力普一家人的境遇算是十分幸运。</p>
-<p><strong>逃亡之路 命运不在自己手中</strong></p>
-<p>与艾力普相似，在土耳其寻找“正常宗教生活”的阿不都拉罕也是取道东南亚最终抵达土耳其的。他与一个朋友于2014年持有效中国护照，从广州申办马来西亚旅游签证，后出走至土耳其。</p>
-<p>据前文提到的新加坡学者介绍，911恐怖袭击以前，维吾尔人非法出境，主要是跨越新疆西部边境，抵达中亚、阿富汗、巴基斯坦等国。但随着中国与西边邻国反恐合作升级，从西线“外逃”变得困难。</p>
-<p>此后，维吾尔偷渡者转向中国南部边境省份，像是云南、广西、广东。有鉴于西线严酷的反恐氛围，南线成为偷渡的另一个选择。于是，东南亚成为维吾尔人“外逃”的必经之路。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/ebd0bca9f1d74704870d5248bf6f1890.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/ebd0bca9f1d74704870d5248bf6f1890.png" alt="ebd0bca9f1d74704870d5248bf6f1890" width="550" height="367"></a><p>新疆維吾爾人偷渡路線圖。圖：端傳媒設計部</p></div>
-<p>准备出逃的维吾尔人常常变卖农田财产，倾其所有交付蛇头，但他们接下来的命运则已经不在自己的掌握之中。</p>
-<blockquote><p><span><strong>这一家17人手中所持护照上“国籍”一栏，全部填写的是“Turkish”（土耳其人），而出生地一栏则为“XinJiang”（新疆）或“Kashgar” （喀什，新疆南部地区）。</strong></span></p></blockquote>
-<p>2014年，泰国政府在国境南部丛林中发现了约400名维吾尔人，当时他们正在逃往土耳其途中。除100多人逃走外，其余300多人被关进泰国南部的数个难民营。</p>
-<p>联合国难民署亚太地区发言人Vivian Tan接受端传媒采访时介绍，这批难民当时自称是土耳其人，并表示希望回到土耳其。</p>
-<p>这些偷渡客中，Tekmakan Ashan一家17人在2015年3月的偷渡审判进程备受关注。这家人的代表律师Worasit Piriyawiboon接受端媒体采访时表示，案件审理期间，泰国一直收到中国政府的压力：“中国方面每周会给泰政府发送很厚的政府间档案，以证明这些偷渡客来自新疆，但土耳其政府方面则对此保持沉默。”</p>
-<p>端传媒记者看到这一家17人手中所持护照上“国籍”一栏，全部填写的是“Turkish”（土耳其人），而出生地一栏则为“XinJiang”（新疆）或“Kashgar” （喀什，新疆南部地区）。</p>
-<p>事后，中国官方公开指责土耳其驻东南亚地区的使馆人员协助“维吾尔人外逃”，为他们提供旅行证件与其他便利。</p>
-<p>在两国政府漫长的举证过程中，这些前途未卜的维吾尔人，居住在曼谷非法移民拘留所中三幢三层高的楼内。这里共关押着约1500多个来自世界各地的偷渡者。每间房内约有60到80个人，有的牢房甚至关押上百人，每人平均的活动空间只有一平方米。闷热的房间里只有简单的风扇设备，被关押者洗澡、睡觉、吃饭、祈祷、看书读报都在这里。室内没有电话，但允许探视、送钱，以供关押者在拘留所内购买简单的食物用品。</p>
-<p>经过数月的审理，这家人及170多名偷渡的妇女和儿童于5月至7月先后被送至土耳其。而另外的109名维吾尔偷渡者（主要为男性）则于7月被遣返中国。至本报道撰写时，他们仍被拘留在新疆首府乌鲁木齐等待处理。</p>
-<p>另一群在马来西亚被发现的维吾尔人命运则完全不同。</p>
-<blockquote><p><span><strong>马来西亚人权组织人民之声前执行长叶瑞生向端传媒分析，这次马来西亚反常行为很可能与马来西亚面临的人口贩卖评级相关。</strong></span></p></blockquote>
-<p>2014年10月，马来西亚警方在首都吉隆坡郊外两个公寓里，分别拘捕了90名与65名来自中国的维吾尔人，其中有79名个成年人与76个儿童。</p>
-<p>目前仍居住在其中一处公寓的住户向端传媒回忆，这些维吾尔人挤在这个公寓中的一个房间里长达一年多。他们曾在夜里听见那房间里传出炒菜的声音，有时会看到阳台上有孩子睡觉，或是女人祈祷。但大部份时间，维吾尔人都把自己关在挂着巨大黑色窗帘的屋里，即使房东来收房租，也只是将门打开一点，把钱递出去。“完全无法想像这么多的人在一个屋子里住了那么久！”</p>
-<p>端传媒记者目测，这个小区比较大的房间是三室一厅，面积大约六、七十平方米，那些维吾尔人可能就是挤在这种房型，或者更小的房间中。</p>
-<p>蜷缩一年多后，马来西亚最终同意将他们送往土耳其。端传媒从不同消息来源了解到，这些人没有跟当地中国大使馆联系的意图，而是要求跟联合国难民署官员见面。难民署展开调查后认为值得保护他们。马来西亚政府接受报告后，决定将他们送到土耳其。 这一处理方式与此前马来西亚处理相似案例的方式颇不相同，令外界意外。</p>
-<p>2011年至2012年期间，先后有数十名维吾尔人偷渡到马来西亚后被捕，他们都被悉数遣返中国。一名接近联合国难民署的人士向端传媒证实，2011年马来西亚将11名维吾尔人送回中国，是因为中国向马来西亚政府施压。</p>
-<p>马来西亚人权组织“人民之声（Suaram）”前执行长叶瑞生向端传媒分析，这次马来西亚的“反常行为”，很可能与马来西亚面临的人口贩卖情况评估相关。</p>
-<p>叶瑞生说，此前，马来西亚被美国列入“人口贩卖中心”名单，马方对此表示不满，要求美方能重新评级。美国为了能与马来西亚达成由美国主导的跨太平洋伙伴关系协议（跨太平洋伙伴关系协议，The Trans-Pacific Partnership，是指由新加坡等四国启动的自由贸易协定，美国、马来西亚等国先后加入谈判）。“马来西亚需要在提升后适当表现一下，对待这155名维吾尔人的方式就是表现。”</p>
-<p>除了公开出来的案例之外，据传马来西亚政府还曾低调地将更多维吾尔人送到土耳其。</p>
-<p>“人民之声”一名协调员接触马来西亚移民局之后了解到，从2012年至2014年，马来西亚当局将约3000名维吾尔人送到土耳其。</p>
-<p>他还向端传媒表示，作为穆斯林国家，马来西亚与土耳其数年前曾达成一项内部协议：不将维吾尔人送返中国或第三国。为了避免引起中国愤怒，双方尚未公开这项协议。</p>
-<p>他称，时任土耳其总理、现任总统热杰甫·埃尔多安（Recep Erdoğan）主导这项协议。马来西亚方面则由内政部长扎希德（Ahmad Zahid bin Hamidi）和在野党政治家赛夫丁·伊斯梅尔（Saifuddin Ismail）处理。截至发稿前，土耳其驻吉隆坡大使馆、赛夫丁以及马来西亚移民局都未对端传媒相关采访要求作出回应。</p>
-<blockquote><p><span><strong>每人的外逃的花费大约是2千-1.5万美元（约合1.5万至10万人民币）不等。有些人中途被人口贩子欺骗，可能花费更多。</strong></span></p></blockquote>
-<p>在前途未卜的偷渡旅程中，决意出逃的维吾尔人唯一能做的，就是准备足够的金钱。据英国《金融时报》采访的一名偷渡者称，他花了三万人民币穿越中国边境，之后在越南先付给人口贩子9000人民币，在柬埔寨又付了23000人民币。</p>
-<p>世维会副主席萨伊特说，依据实际情况不同，“每人的外逃花费大约是2千-1.5万美元（约合15000至100000人民币）不等。有些人中途被人口贩子欺骗，可能花费更多。</p>
-<p>路透社曾援引知情人士称，蛇头听闻是越南人偷渡会收取1000美元（约6000多人民币），若是维吾尔人则会上涨五到十倍。</p>
-<p><strong>选择出逃 偷渡者还是恐怖分子</strong></p>
-<p>虽然同为逃亡者，艾力普与阿布都拉罕无论是出逃原因，还是对土耳其失望的原因都并不相同。</p>
-<p>曾进出IS的艾力普，当年出走家乡是因为猎杀了珍稀动物。2013年，艾力普因为在新疆戈壁滩非法猎捕中国“一级保护野生动物”黄羚羊遭到政府通缉。他知道朋友在新疆坐牢所受的痛苦：生病不能就医，甚至病死狱中。他怕一旦坐牢就不能活着出来，于是决心出逃。</p>
-<p>在经历了“不习惯IS的极端信仰方式”、在土耳其找不到好的谋生方式一系列挫折后，艾力普现在常常想，过去在哈密，就算坐牢，生活在政府管制下，有诸多限制，但是出狱后还可能做点小生意，安度余生。而现在只能浪迹异乡，别无他法。</p>
-<p>与艾力普追求更好生活的世俗要求不同，阿布都拉罕的出逃与不满源自对于伊斯兰宗教生活的向往。</p>
-<blockquote><p><span><strong>维吾尔社会一方面要面对经济发展、社会转型中无法融入主流社会的社会现状，另一方面则无力消化2009年乌鲁木齐“七五”暴力袭击之后的民族关系撕裂与官方有针对的打压，宗教保守主义成为维吾尔人寻找寄托的方式之一。</strong></span></p></blockquote>
-<p>出逃者中，与阿布杜拉罕持同样观点的占多数。但很难确定最终走入IS的维吾尔人当初出逃时抱着怎样的心态，而追求保守宗教生活的目标又是在何时何地转化为“依靠暴力行为寻求解决”的行动。</p>
-<p>中国官方对于这一问题的表态及用词也愈加小心谨慎。全国人大常委会委员傅莹在今年7月于新加坡举行的讲座中表示，要将恐怖分子与某个民族、某种宗教区分开来。在今年7月10日召开的外交部例行发布会上，外交部发言人华春莹称在泰国被遣返的维吾尔人为“非法偷渡者”，而非“恐怖分子”。</p>
-<p>卡塔尔半岛电视台曾采访了数名维吾尔出逃者，其中一人表示，自己出逃是因为不能在新疆进行正常的宗教活动，“妻子不能穿戴蒙面罩袍”；另一人表示出逃是因为私下开办古兰经学校。</p>
-<p>实际上，穿戴蒙面罩袍和开办地下古兰经学校在新疆既非传统，也非常态。它们是伊斯兰教中保守的瓦哈比教派在1980年代左右传入新疆后逐渐发展出的事物。</p>
-<p>与土耳其类似，属于伊斯兰教逊尼派分支的维吾尔人，传统上是穆斯林中较为世俗化的一群。女性很少穿戴蒙面罩袍，传统服饰是艾迪莱斯丝绸所制的花色裙装。处于亚欧大陆通商要道的地理位置，赋予维吾尔人经商的传统，他们通常心态开放，善于接受新事物。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/c8eddc87e46c42839bd32897e617d0f4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/c8eddc87e46c42839bd32897e617d0f4.jpg" alt="KASHGAR, CHINA - JULY 29: Uyghur men leave the Id Kah Mosque following the Eid prayers on July 29, 2014 in old Kashgar, Xinjiang Province, China. Nearly 100 people have been killed in unrest in the restive Xinjiang Province in the last week in what authorities say is terrorism but advocacy groups claim is a result of a government crackdown to silence opposition to its policies. China's Muslim Uyghur ethnic group faces cultural and religious restrictions by the Chinese government. Beijing says it is investing heavily in the Xinjiang region but Uyghurs are increasingly dissatisfied with the influx of Han Chinese and uneven economic development. (Photo by Kevin Frayer/Getty Images)" width="550" height="367"></a><p>2014年7月29日 维吾尔族男人从新疆喀什艾提尕尔清真寺前走过。摄: Kevin Frayer/GETTY</p></div>
-<p>进入新世纪后，随着全球伊斯兰主义思潮兴起，倡导严格遵从教义的瓦哈比教派在维吾尔人中，影响力日益增大。维吾尔社会一方面要面对经济发展、社会转型中无法融入主流社会的现状，另一方面则无力消化2009年乌鲁木齐“七五”暴力袭击之后的民族关系撕裂，以及官方政策有针对性的“打压”。于是，宗教保守主义成为维吾尔人寻找寄托的方式之一。</p>
-<p>宗教保守主义的具体表现包括：南疆地区穿戴蒙面罩袍的女性数量明显增多，维吾尔男性抽烟喝酒的人数减少，留大胡子的人数增多等等。</p>
-<p>维吾尔人反世俗化的走向引起新疆地方政府与中央的不安。随之而来的是一系列的限制政策：穿戴罩袍与蓄胡者禁止出入公共场所，公务员与学生不允许进入清真寺礼拜，政府还对斋月封斋做出很多限制性规定等等。</p>
-<p>这些“一刀切”政策不但为宗教保守主义者添加了“勇于反抗”的英雄色彩，更影响了普通穆斯林的正常宗教生活。</p>
-<p>曾赴新疆南疆调研的新疆社科院副研究员吐尔文江·吐尔逊曾撰文强调，必须对现今的新疆穆斯林进行区分，他认为根据宗教态度，大致可将维吾尔人分为四类：</p>
-<p>一是“文化穆斯林”，通常是党政官员、企业白领或大学生，很少参与宗教活动，也不忌烟酒，但依然存有宗教情感并遵守传统风俗。</p>
-<p>二是“世俗穆斯林”，主要是农民、普通市民和商贩，会进行封斋（斋戒）、做礼拜、去清真寺等宗教活动，不排斥烟酒，怀着朴素的宗教情感。</p>
-<p>三是“保守穆斯林”，也称伊斯兰复古主义或原教旨主义。这个群体要求严格按照《古兰经》规范个人社会行为，行为方式类似清教徒，但不主张暴力，也没有政治诉求。</p>
-<p>四是“极端穆斯林”，指具有强烈政治色彩的维吾尔群体，在宗教价值上有激进、极端的倾向。</p>
-<p>需要注意的是，“保守穆斯林”比较容易被动员为“极端穆斯林”，而其他类别的穆斯林之间也可能因为各种时空因素，发生转换。</p>
-<blockquote><p><span><strong>但“保守”与“极端”的转换并不是一个容易辨认与预防的过程，令人担忧的是，中国政府，特别是新疆地方政府，不加分辨一律打压的政策很可能正在加剧这一恶化转变趋势。</strong></span></p></blockquote>
-<p>按照这一标准，艾力普最初应属“世俗穆斯林”，而阿布都拉罕则接近“保守穆斯林”。大部份逃离新疆，在土耳其居住，穿戴蒙面罩袍、严格履行《古兰经》教义的维吾尔群体都可大致划为“保守穆斯林”范围。而赴IS有意识参加战斗的维吾尔人则可看做有政治诉求的“极端穆斯林”。</p>
-<p>曾在新疆制造多起暴力恐怖事件、追求独立的数个维吾尔极端组织，毫无疑问也属于“极端穆斯林”行列。</p>
-<p>即使是“极端穆斯林”，他们在加入IS时，也可能参杂家庭亲情、经济利益、民族怨怼等各式原因。例如被IS用作“宣传”典型，在网络上广泛传播，名叫穆罕默德·阿敏（Muhammad Amin） 的八十岁维吾尔老人。根据土耳其当地维吾尔社群的消息，老人前往IS，纯粹是为寻亲。因为他的儿子携家带眷加入IS，他想念儿孙，只好前往叙利亚。至于他自己有多么相信IS宣扬的理想，值得质疑。</p>
-<p>但“保守”与“极端”的转换并不是一个容易辨认与预防的过程。令人担忧的是，中国政府，特别是新疆地方政府，不加分辨一律打压的政策，很可能正在加剧这一转变趋势 。</p>
-<p><strong>恶性循环 “严打﹣反抗”循环链条</strong></p>
-<p>很明显，从十数年前的全球反恐战争开始，暴力与恐怖的“标签”开始与新疆维吾尔人如影相随。颇多加强管控的措施开始实行，有的变本加厉。走访海外的维吾尔社群，近年来，从禁止公务员去清真寺、限制中学生戴花帽，到新疆“便民联系卡”的限制住居迁徙（自2014年5月起，所有离开户籍所在地的新疆籍流动人口都须办理“便民联系卡”，登记去向。），激发怨气的实例不胜枚举，怨怼声浪直线攀升。</p>
-<p>阿布都拉罕说：“新疆协警或警员常常没有道理地在街头阻停维吾尔人，随意查验身分、搜身。但是他们不会阻停汉人。如果维吾尔人询问理由或反抗，马上就会被逮捕，甚至被当场殴打，被说是思想有问题，受到极端伊斯兰思想影响。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7395673bce414f6e800a653afc406d51.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7395673bce414f6e800a653afc406d51.jpg" alt="Riots Continue In China's Ethnic Region Of Urumqi" width="550" height="367"></a><p>2009年7月9日 警察在新疆乌鲁木齐市面巡逻。摄: Guang Niu /GETTY</p></div>
-<p>不加区分的管制不但针对整个维吾尔群体，甚至扩展到在新疆居住的其他民族。</p>
-<p>一名居住在海外的新疆回族女性曾回忆自己入境新疆探亲的情景：他们让我把头巾拿下来，脱掉鞋子，把裤腰带也解下来。然后从头深浅软硬地摸到脚。执法人员的态度也很不好，“我感到作为穆斯林的尊严被赤裸裸剥光，感到自己受到了极大的侮辱”。</p>
-<p>这名回族女性的丈夫称，去南疆时，执法人员在海关准备了剃须用具，看到某人留了大胡子，就会说“是你自己来，还是要我们帮你剃。”</p>
-<p>新疆汉族同样受到牵连。有新疆汉人反映，由于自己的身份证号码以65开头（新疆的身份证开头号码）而在内地被拒绝入住酒店。</p>
-<p>此外，新疆官方对于伊斯兰宗教人士采取了异常严格的管理。于2005年出版的《新时期阿訇实用手册》详细罗列了阿訇（伊斯兰教神职人员）的日常行为规范，宣讲国家政策成为阿訇的日常工作。阿訇的任免与级别需要政府批准。 一些地方甚至组织阿訇伴着网络流行歌曲《小苹果》跳舞，视频在网络上传播后，新疆穆斯林民众啼笑皆非。</p>
-<p>清真寺阿訇因此逐渐失去当地维吾尔人的信任，地下私办的古兰经学院随之兴起，成为宗教保守主义思潮的主要传播方式。</p>
-<p>中国官方在过去十数年公布的三份恐怖组织与恐怖份子通缉名单，都是维吾尔人，并指控他们为“东突势力”。此外，几份官方出版的新疆白皮书也不断指出，“东突势力”在新疆与中国境内不断制造暴力与恐怖攻击行动，进行分裂活动。所以，面对近年新疆多发的暴力事件，中国官方处理的策略总是倡导要防微杜渐，“严厉打击暴力恐怖袭击犯罪，并尽可能地，将这类犯罪消灭在萌芽状态”。</p>
-<p>相对地，海外维吾尔异议组织，如世维会，又总是指责中国滥用反恐名义，打压维吾尔人。中国政府声称发生在新疆的暴力事件是由恐怖主义、分裂主义和宗教极端主义“三股势力”推动、策划和发动的。但世维会发言人迪里夏提却认为：“极端的压迫会带来极端的反抗。”</p>
-<p>于是，一个循环论证（circular argument）发展出来。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a3d3bfefa2974f1fbf9bc53f107b5398.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a3d3bfefa2974f1fbf9bc53f107b5398.png" alt="a3d3bfefa2974f1fbf9bc53f107b5398" width="550" height="367"></a><p>新疆问题循环论证链条。圖：端传媒设计部。</p></div>
-<p>中国官方认定“暴恐”需要“被严打”。但是，到了海外维吾尔异议团体的话语中，“严打”就变成“压迫”，而既然“被压迫”，当然就要“反抗”。</p>
-<p>在新疆，其实很难分辨究竟是“暴恐”先出现，还是“打压”先出现，抑或二者同时并存。“暴恐”与“反抗”，“严打”与“压迫”成了两组同义词，构成封闭的“循环论证”，根本无益于说明问题的实质。</p>
-<p>更令人担心的是，这样的“循环论证”可能已经衍生成为实际政策，一种自我预言式的（self-fulfilling）政策实现。近年的维吾尔非法偷渡移民不绝，很清楚可以观察到 “循环论证”的现实后果。“循环论证”成为一个铜板的两面，被中国政府与海外维吾尔异议组织各取所需地进行话语描述。</p>
-<p>严格的管控策略其实更加凸显中国政府当前无法善治新疆的长期焦虑。也让政府的治理塌陷掉入自己设下的陷阱——“暴恐 – 严打 – 压迫 – 反抗”的循环论证。引入更全面严密的管控策略，只会带来更令人不安的后果。</p>
-<p>但是，无可讳言，无论被称作“暴恐”还是“反抗”，越来越多的维吾尔人正在逃离新疆，而且其中一部分人更参与到暴力活动中。未来新疆要面对的威胁，或许不仅仅是拿大砍刀的几个无知青年团伙，更可能是有着实战经验，能操作现代化自动武器的战士。</p>
-<p>（侍建宇，学者，现任教于香港珠海学院新闻系）</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F%E5%A4%96%E9%80%83%E4%B8%8E%E5%8A%A0%E5%85%A5%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E5%A4%A7%E8%B5%B7%E5%BA%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">民族歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%98%85%E5%85%B5/" target="cdt-mirror">自由亚洲｜余英时：评北京大阅兵</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-05-at-10.12.05-PM.png" alt="左手敬礼" width="491" height="579">2015年9月3日在天安门举行了阅兵示威庆祝所谓二战结束70周年，基本上是一种反日的活动。我觉得这件事情本身是很奇怪的，因为既不是日本投降的日子也不是什么任何正式承认的一天。为什么这个时候忽然庆祝70周年胜利？</p>
-<p>严格地讲抗战是从1931年沈阳被占到1937年卢沟桥事变一直到8年抗战前后有十几年，从31年到45年差不多14年，这14年中间跟日本人对抗的是国民党。国民党虽然当时力量不足，可是在不断地对抗，在上海就打了3个月，把主要的精华部队都打光了，还有后来的台儿庄等种种胜利，所以拖住日本兵至少有100万在中国，不能到别的地方去打仗。所以，就凭这一点国民党抗战的功劳是无法否认的。</p>
-<p>我们知道在抗战开始的时候，差不多1937年的时候共产党就剩了一两万人，林彪所说的红旗能打多久都不知道，那时候还在延安。国民党是要靠抗日才能起来的，所以才全力以赴地抗日。同时，苏联怕日本的兵攻击它，也希望日本兵侵略中国，在中国被挡住，所以它也鼓励中国抗战。在这个情况之下，西安事变以后蒋介石是毛泽东要杀害他，蒋介石被苏联斯大林要求非放不可，这样子国民党才能抗日，国民党能抗日才能减轻苏联的负担，所以这种种复杂的因素都说明我们要庆祝打倒日本，我们都知道日本的投降是因为美国的原子弹，但是国民党在这个十几年中拖住日本使日本不能全力以赴地在太平洋作战也还是有很大的贡献的。无论如何，这件事情严格地说跟共产党没有关系，所以今天这个庆祝70年的胜利是很荒谬的。</p>
-<p>无论如何这是一个共产党的表演，这个表演有它的意义，就是习近平现在号称要富国强兵，中国共产党现在已经富起来了，除了美国以外它就是最大的经济力量了。富国已经做到了现在它要看到强兵，强兵就是对日本的示威。所以这次在天安门一万多解放军雪亮的刺刀、耀眼的军靴都可以让老百姓看到，也可以镇压老百姓也可以吓唬老百姓，使老百姓不敢动任何意念，只有跟随共产党走，同时也借这个机会发展它的民族主义。</p>
-<p>共产党对发展民族主义已经到了相当可怕的程度了，但是这股力量是危险的；其次我要讲另外一个危险的力量，这股危险力量最近受到国外很大的注意，纽约时报甚至都有专门的社论批评。这个批评是什么？就是共产党现在忽然之间利用各种力量以造谣为名抓捕所有说话跟共产党调子不合的人。</p>
-<p>这里面有好几个问题。第一个问题就是关于股票，股票最近下跌，当然许多中国投资者很担心这件事情，在网络上有所批评，有所指责甚至有所推测。这些推测和指责当然对共产党都不利，所以他们认为这个就是造谣，这个会危害到整个共产党的政权，而且损害整个社会的利益，跟维稳是相反的，所以它要制止，所以以造谣为名就要把所有说话跟自己不合的人都要抓起来，就连共产党所说的依法治国也完全是做不到，不要说我们一般所说的法治这两个字了。所以就是现在所谓说的造谣，光造谣就抓了197个人，数目可以说是越来越多。这个力量就是共产党用它的暴力，公安局特务等没问任何理由就可以把你抓起来。现在抓人很奇怪的。从前抓人还会说在多少小时之内让律师知道可以保出来或者正式逮捕，但现在不需要，好像可以以造谣的名义抓人观察六个月。</p>
-<p>在这样的情况下可以说是人人自危，所以这是另外一个非常可怕的力量。这个可怕的力量是想造成什么呢？想造成没有公开的舆论，任何舆论都必须和共产党做的是一样的，比奥威尔的小说《一九八四》还要厉害，一切听党的，没有任何意见，这是习近平有意如此做的，所以大家以为习近平可能有一些政治改革，现在完全失望了。他事实上是新时代的毛泽东，跟过去的毛泽东又不一样。他利用两种力量一种是民族主义力量抬高自己，说明自己的伟大，说他可以富国强兵把中国带到两大强国之一的位置上，这样他就可以永远执政了。另外一个就是他用暴力特务力量把所有跟自己意见不合的人全部送到监牢里面去，或者禁止他们不敢说话。这是习近平跟他部下的一个共同的好梦，这就是他所谓的中国梦。</p>
-<p>这个中国梦表面上说是富国强兵。实际上是老百姓变成了完全没有大脑，被共产党支配的动物，但是习近平不顾这一切，他为了他个人的地位，为了党的一党专政不会动摇，会这样坚持下去，中国的前途我想是不乐观的。</p>
-<p> </p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%98%85%E5%85%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E8%8B%B1%E6%97%B6/?category=18271" rel="tag">余英时</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -868,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1gjecf0ec0lhv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -878,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1gjecf0ec0lhv.cloudfront.net">https://d1gjecf0ec0lhv.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d2wizc0s12zpz5.cloudfront.net">https://d2wizc0s12zpz5.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2wizc0s12zpz5.cloudfront.net">https://d2wizc0s12zpz5.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1gjecf0ec0lhv.cloudfront.net">https://d1gjecf0ec0lhv.cloudfront.net</a><br/></td>    </tr>
 </table>

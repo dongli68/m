@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d6cpqn33auwbt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dwamzazzjr4xc.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d6cpqn33auwbt.cloudfront.net">https://d6cpqn33auwbt.cloudfront.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1z32zyvndka4i.cloudfront.net">https://d1z32zyvndka4i.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%B5%B0%E6%94%BF%E5%AE%A1%E8%80%81%E8%B7%AF-%E7%8E%A9%E6%96%87%E9%9D%A9%E5%A4%8D%E8%BE%9F/" target="cdt-mirror">【网络民议】走政审老路 玩文革复辟</a>
@@ -817,7 +817,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8lua8n1w8aj.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -827,5 +827,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
                 <td></td>
                 
         
-        <td><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d6cpqn33auwbt.cloudfront.net">https://d6cpqn33auwbt.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://d1z32zyvndka4i.cloudfront.net">https://d1z32zyvndka4i.cloudfront.net</a><br/><a href="https://dwamzazzjr4xc.cloudfront.net">https://dwamzazzjr4xc.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d35fo3h5hskriq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
@@ -47,7 +47,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">BBC｜中纪委就华润原董事长宋林涉贪案立案审查</a>
 </h2>
@@ -816,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d3dy2pf0rubwlq.cloudfront.net">https://d3dy2pf0rubwlq.cloudfront.net</a><br/></td>    </tr>
 </table>

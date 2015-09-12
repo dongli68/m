@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d6cpqn33auwbt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d6cpqn33auwbt.cloudfront.net">https://d6cpqn33auwbt.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://d6cpqn33auwbt.cloudfront.net">https://d6cpqn33auwbt.cloudfront.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%B5%B0%E6%94%BF%E5%AE%A1%E8%80%81%E8%B7%AF-%E7%8E%A9%E6%96%87%E9%9D%A9%E5%A4%8D%E8%BE%9F/" target="cdt-mirror">【网络民议】走政审老路 玩文革复辟</a>
@@ -65,7 +65,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
 </h2>
@@ -223,7 +223,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%BF%B0%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">口述历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E4%B8%B9%E9%B8%BF/?category=18271" rel="tag">唐丹鸿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BD%A0%E8%80%81%E5%AE%B6%E7%9A%84%E5%85%AC%E5%AE%89%E5%B1%80%E4%B9%9F%E8%AE%B8%E6%98%AF%E8%BF%99%E6%A0%B7%E7%AE%A1%E7%90%86/" target="cdt-mirror">【立此存照】你老家的公安局也许是这样“管理”舆情的</a>
 </h2>
@@ -817,7 +817,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3d8lua8n1w8aj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -827,5 +827,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
                 <td></td>
                 
         
-        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d6cpqn33auwbt.cloudfront.net">https://d6cpqn33auwbt.cloudfront.net</a><br/><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3d8lua8n1w8aj.cloudfront.net">https://d3d8lua8n1w8aj.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d6cpqn33auwbt.cloudfront.net">https://d6cpqn33auwbt.cloudfront.net</a><br/><a href="https://d35fo3h5hskriq.cloudfront.net">https://d35fo3h5hskriq.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d1vm5jzs6p039v.cloudfront.net">https://d1vm5jzs6p039v.cloudfront.net</a><br/><a href="https://d3aovydudxh5bx.cloudfront.net">https://d3aovydudxh5bx.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3aovydudxh5bx.cloudfront.net">https://d3aovydudxh5bx.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1vm5jzs6p039v.cloudfront.net">https://d1vm5jzs6p039v.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9D%9A%E5%86%B3%E5%B9%B2%E3%80%81%E5%8A%A0%E6%B2%B9%E5%B9%B2%E3%80%81%E4%B8%80%E5%88%BB%E4%B8%8D%E5%81%9C%E6%AD%87%E5%9C%B0%E5%B9%B2/" target="cdt-mirror">【网络民议】坚决干、加油干、一刻不停歇地干</a>
@@ -88,7 +88,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E4%BA%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E9%9F%A6%E5%A4%A7%E6%9E%97-%E7%88%B1%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E8%B4%BC%E7%9A%84/" target="cdt-mirror">爱思想｜韦大林: “爱国”是如何成为“贼”的</a>
 </h2>
@@ -943,7 +943,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1vm5jzs6p039v.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -953,5 +953,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1vm5jzs6p039v.cloudfront.net">https://d1vm5jzs6p039v.cloudfront.net</a><br/><a href="https://d3aovydudxh5bx.cloudfront.net">https://d3aovydudxh5bx.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1vm5jzs6p039v.cloudfront.net">https://d1vm5jzs6p039v.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3aovydudxh5bx.cloudfront.net">https://d3aovydudxh5bx.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
 </table>

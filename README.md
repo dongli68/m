@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d335r4g1vct1qt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d188pa1m9z5i7a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d335r4g1vct1qt.cloudfront.net">https://d335r4g1vct1qt.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3vcmdcuj1nmlq.cloudfront.net">https://d3vcmdcuj1nmlq.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d188pa1m9z5i7a.cloudfront.net">https://d188pa1m9z5i7a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d188pa1m9z5i7a.cloudfront.net">https://d188pa1m9z5i7a.cloudfront.net</a><br/><a href="https://d3vcmdcuj1nmlq.cloudfront.net">https://d3vcmdcuj1nmlq.cloudfront.net</a><br/><a href="https://d335r4g1vct1qt.cloudfront.net">https://d335r4g1vct1qt.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E9%9F%A6%E5%A4%A7%E6%9E%97-%E7%88%B1%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E8%B4%BC%E7%9A%84/" target="cdt-mirror">爱思想｜韦大林: “爱国”是如何成为“贼”的</a>
@@ -921,7 +921,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d335r4g1vct1qt.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d188pa1m9z5i7a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -931,5 +931,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d335r4g1vct1qt.cloudfront.net">https://d335r4g1vct1qt.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3vcmdcuj1nmlq.cloudfront.net">https://d3vcmdcuj1nmlq.cloudfront.net</a><br/><a href="https://d188pa1m9z5i7a.cloudfront.net">https://d188pa1m9z5i7a.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d188pa1m9z5i7a.cloudfront.net">https://d188pa1m9z5i7a.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d335r4g1vct1qt.cloudfront.net">https://d335r4g1vct1qt.cloudfront.net</a><br/><a href="https://d3vcmdcuj1nmlq.cloudfront.net">https://d3vcmdcuj1nmlq.cloudfront.net</a><br/></td>    </tr>
 </table>

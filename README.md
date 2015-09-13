@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1u1ieypoonhfl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d3grrqeb2wl12z.cloudfront.net">https://d3grrqeb2wl12z.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d6t9anww2ff3z.cloudfront.net">https://d6t9anww2ff3z.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d6t9anww2ff3z.cloudfront.net">https://d6t9anww2ff3z.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://d3grrqeb2wl12z.cloudfront.net">https://d3grrqeb2wl12z.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E9%9F%A6%E5%A4%A7%E6%9E%97-%E7%88%B1%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E8%B4%BC%E7%9A%84/" target="cdt-mirror">爱思想｜韦大林: “爱国”是如何成为“贼”的</a>
@@ -166,7 +166,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F%E5%8C%97/?category=18271" rel="tag">束星北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E7%90%86%E7%BE%A4/?category=18271" rel="tag">钱理群</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BC%B9%E5%BC%93%E5%AD%90%E6%AE%B5%E5%AD%90%E6%BC%AB%E7%94%BB/" target="cdt-mirror">【麻辣总局】拉磨，毒奶粉和正能量</a>
 </h2>
@@ -847,7 +847,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3grrqeb2wl12z.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -857,5 +857,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d3grrqeb2wl12z.cloudfront.net">https://d3grrqeb2wl12z.cloudfront.net</a><br/><a href="https://d6t9anww2ff3z.cloudfront.net">https://d6t9anww2ff3z.cloudfront.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d6t9anww2ff3z.cloudfront.net">https://d6t9anww2ff3z.cloudfront.net</a><br/><a href="https://d3grrqeb2wl12z.cloudfront.net">https://d3grrqeb2wl12z.cloudfront.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>

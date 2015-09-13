@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,89 @@
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d4wdmazowlhbt.cloudfront.net">https://d4wdmazowlhbt.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3entost4bxy9h.cloudfront.net">https://d3entost4bxy9h.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3entost4bxy9h.cloudfront.net">https://d3entost4bxy9h.cloudfront.net</a><br/><a href="https://d4wdmazowlhbt.cloudfront.net">https://d4wdmazowlhbt.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%85%AC%E6%98%8E-%E6%8A%8A%E5%85%89%E6%89%93%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%EF%BC%9A%E8%83%A1%E6%9D%B0%E7%89%88%E7%94%BB%E5%B1%95/" target="cdt-mirror">李公明 | 把光打在大地上：胡杰版画展</a>
+</h2>
+<p><p><strong>来自微信公号：中国油画在线（opchina）</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/011.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/011.jpg" alt="01" width="450" height=""></a></p>
+<p>【这个版画展很特别，画幅虽小，却很有份量，它沉甸甸的重量在于它思想的穿透力。很久没有看到这样精彩的画作，它的源头或可承接当年鲁迅先生介绍的德国版画大家柯勒惠支，还有上世纪三、四十年代一批中国进步青年的木刻作品。可惜，这种深刻批判的精神己逐渐离我们远去。</p>
+<p>2015年9月13日下午3时，由中国岭南油画研究馆主办，著名学者李公明教授策展的《铭刻：胡杰版画展》将在广州大学城岭南印象园内的中国岭南油画研究馆开幕；相信热爱木刻艺术的鲁迅先生在天之灵知道他以满腔的热情推介的木刻能有今天，还能有人发挥出它既是匕首与投枪的作用，又充满艺术魅力及感染力到时候，会发出由衷的喝采，并辅以热烈的掌声的。</p>
+<p>这是大半世纪后，曾经深深影响中国的木刻艺术在神州大地的回响……】</p>
+<p>这是胡杰的第一次版画展。</p>
+<p>作为策展人，我对此次《铭刻—胡杰版画展》倾注了全部心力，是因为我和我妻子都深深地被胡杰这批作品所打动。</p>
+<p>胡杰在去年写成的《绘画何为？——关于伊娃这木书的插图》一文中，特意为本次展览做了修订。他说：“绘画，是心灵的草图。所有的绘画都是心灵的未完成时。这组木刻版画我对自己提出的美学方向是现场的深刻性。”</p>
+<p>如果一切顺利，对于那些有幸站在胡杰版画作品面前的观众，我想起了林昭的这段话：</p>
+<p>“先生们，人性——这就是人心啊！为什么我要怀抱着，乃至对你们怀抱着一份人性，这么一份人心呢？……我仍然察见到，还不完全忽略你们身上，偶然有机会显露出的人性闪光，从而察见到你们的心灵深处，还多少保有未尽泯灭的人性。在那个时候，我更加悲痛地哭了……”</p>
+<p>我相信，这就是《铭刻—胡杰版画展》所带 来的“思想与铭刻”合成的一种力量！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/021.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/021.jpg" alt="02" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/031.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/031.jpg" alt="03" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/04.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/04.jpg" alt="04" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/05.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/05.jpg" alt="05" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/061.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/061.jpg" alt="06" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/071.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/071.jpg" alt="07" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/081.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/081.jpg" alt="08" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/091.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/091.jpg" alt="09" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/102.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/102.jpg" alt="10" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/111.jpg" alt="11" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/12.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/12.jpg" alt="12" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/13.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/13.jpg" alt="13" width="500" height=""></a></p>
+<p>展览中有一组作品叫《要有光》，胡杰说，“不光你自己的心里要有光，还要把它打在大地上。”</p>
+<p>在中国独立记录片的圈子里，“胡杰”这个名字掷地有声。</p>
+<p>他拍摄的记录片是中国独立记录片运动的里程碑。较少人知道的是，胡杰是从圆明园画家村走出来的。</p>
+<p>他一手提着摄影机，一手拿着画笔，拍记录片和画画在他而言，只是工作的方式不同而已；相同的是，关注历史、贴近现实，传播爱心与希望。</p>
+<p>胡杰曾经是军人，一直保持着正义与勇敢的精神。他的诚实、坚定和勇气，使他创作出有时代意义的作品，鼓舞了很多人。胡杰近年才开始搞版画创作，一出手就不凡。饥荒、劳改，书的故事，我们与祖国，还有什么会比这些题材更能牵动我们的心？</p>
+<p>黑白对比，线条排列，刀法劲利。</p>
+<p>就这样，让思想与历史被铭刻，让它们合成一种鼓舞人们的力量。</p>
+<p>大家一起，把光打在大地上吧！</p>
+<p>李公明</p>
+<p>2015，9，11</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/14.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/14.jpg" alt="14" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/151.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/151.jpg" alt="15" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/161.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/161.jpg" alt="16" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/171.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/171.jpg" alt="17" width="500" height=""></a></p>
+<p>胡杰：绘画何为？</p>
+<p>——关于伊娃这本书的插图</p>
+<p>到目前为止，我只是在照片上见过伊娃。</p>
+<p>2012年，伊娃给我寄来了她的散文集《我的乡村》，把她生长的黄土高原那沟沟坎坎写的很有质感，像是在田埂上抬起一块土坷拉，用手随性随心刻凿一下，就呈现出一个黄土色的人。后来知道她从美国又回到了家乡的沟沟坎坎里，写她母亲那辈子人的故事。</p>
+<p>当我听她说，她母亲是个乞丐的时候我心里一震，我在拍摄《星火》的时候知道，在大跃进的后期，甘肃陇西地区有很多妇女逃荒去了陕西省，在那里只要嫁个人都可以活下来。而伊娃的妈妈就是逃亡中的一位。也许，正是这个缘故，她触摸到了1959年到1961年中国当代史上沉默的大饥饿。然而，伊娃与众不同的是，她没有就此而止，而是勇敢独自前行，她沿着母亲还是大姑娘时的逃荒路线去实地采访。可以想象，一个生活在美国并有了基本人权意识的她，再次融入那片传说着神秘故事的黄土地时，她的不同情感。</p>
+<p>伊娃在2013年底的一次来信中说，她要出一部关于大饥荒的书了。问我可不可以为此画插图，我回信说可以试试。我这样的回答是因为，在此之前我也接触到了大饥荒。那是我在1999年拍摄《寻找林阳》这部纪录片，在采访时，我逐渐知道了“三年自然灾害”不是来自“自然”，而是一场惨烈的人祸。来自那场总路线、人民公社、大跃进的运动。后来我拍摄了河南光山县一位农民老伯吴永宽的纪录片，他为全村74位在1959年冬饿死的村民修建了纪念碑。而当时他的村庄130多人，饿死了一半多人。需要强调的是，这块纪念碑至今仍是中国大地上，为三年人为灾祸而饿死上千万同胞所修建的唯一一块纪念碑。</p>
+<p>后来，我走访了安徽、云南、甘肃、四川、辽宁等地。随着采访的深入，在我眼前展现的不仅是文字资料，听到的不仅是被釆访者的述说，还有在脑子中出现的一幅幅惨烈场景。</p>
+<p>作为一个职业的画家，我不断在本子上画着一些草图。当时我找到了用纪录片的表达方式，但面对这些草图，我却没有找到如何用绘画语言表达这样思维。</p>
+<p>后来伊娃给我发来了15段插图的文字，这成了这组绘画的出发点。</p>
+<p>我想到用木刻版画的形式进行了表达。尽管这些绘画无法抵达伊娃的疼痛和这些具体人的饥饿与恐怖，我也常怀疑绘画这样的局限性和表达公共记忆可能性，甚至怀疑绘画本身。</p>
+<p>但我相信个人绘画审美和公共记忆之间一定有一条通道。</p>
+<p>绘画已经和人类共同走过上万年，近代各种流派又缤纷而过，但绘画本身的美学力量是什么？那震颤我们心灵的现实怎样才能表达？我在采访中，有很多右派知识分子，他们面对身边的暴力和对他们自身的暴力，而对难友的一个个死亡似乎已经麻木。他们劳作在改造思想的工地上，有思想的人已经被暴力、劳累、饥饿所消灭。</p>
+<p>绘画何为？这是我不止一次听过的故事：当走过一个已经饿死的母亲时，看到孩子还趴在母亲的尸体上吮吸着母亲的乳头。那个心里的疼痛怎样表达？</p>
+<p>伊娃的那个小亲戚魏连福，身体悬挂在列车的车厢外，为了不使自己掉下去，他咬着自己的手指，这是人类求生的极限。绘画可以画出魏连福的生存极限吗？那些死去的，从农村的孩子到劳教的知识分子的底色画得出来吗？那是一个什么样的底色？饥饿、恐惧、精神沉沦是什么底色？</p>
+<p>绘画，是心灵的草图。</p>
+<p>所有的绘画都是心灵的未完成时……</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/18.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/18.jpg" alt="18" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/19.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/19.jpg" alt="19" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20.jpg" alt="20" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/21.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/21.jpg" alt="21" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/22.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/22.jpg" alt="22" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/23.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/23.jpg" alt="23" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/24.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/24.jpg" alt="24" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/25.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/25.jpg" alt="25" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/26.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/26.jpg" alt="26" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/27.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/27.jpg" alt="27" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/28.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/28.jpg" alt="28" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/29.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/29.jpg" alt="29" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/30.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/30.jpg" alt="30" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/31.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/31.jpg" alt="31" width="500" height=""></a></p>
+<p>启之：胡杰和他的版画</p>
+<p>不管他多么低调，却还是名满天下——中外知识界视他为“中国的良心”。</p>
+<p>人们只知道他是独立制片人，知道他拍了32部纪录片，知道《寻找林昭的灵魂》、《我虽死去》、《粮食关纪念碑》等著名作品都出自他手，却很少有人知道他还是一位画家。</p>
+<p>他的画展的主题是“要有光”。而展出的系列版画的名字就是要有光系列。</p>
+<p>这次胡杰展出的版画有两个系列，一个是“祖国”，一个是“大饥荒”。“大饥荒”是对“三年困难”时期中国农民生活的具体展示,“祖国”是对中国之命运的哲理性思考。</p>
+<p>胡杰不善言辞，但他那平实的阐释，却令人深思。央视的《舌尖上的中国》得到了表彰，《寻找林昭的灵魂》被视为“负能量”，舌尖与心灵的差异，量出了主流与支流之间的距离。这是一个光怪陆离的地带。绝大多数人都在这里讨生活。他们在有意无意中变幻着面孔,  在或真或假中服从与纠结。主流与支流的冲突,中心与边缘的对峙，庙堂与民间的分歧，为怪现状增加了一大观景：混乱与浑沌。</p>
+<p>栗宪庭为胡杰的画做策展吋，提了三个字：“要有光”。</p>
+<p>光是昼，暗是夜。</p>
+<p>光，区分了混乱与秩序，浑沌与清明。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64018.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64018.jpg" alt="640" width="475" height=""></a></p>
+<p>胡杰：国际知名的独立纪录片工作者和画家。1958年生于山东济南。15岁 开始习画。1977年参军，1986年毕业于上海空军政治学院。1989年入解放军艺术学院油画班进修。1995年拍摄第一部纪录片《圆明园的画家生活》。从1999年辞去公职，至今一直从事“用镜头记史，以影像思想”的纪录片创作。</p>
+<p>其主要记录片作品有：《远山》、《迁 徙》、《媒婆》、《在海边》、《平原上的山歌》、《寻找林昭的灵魂》、《我虽死去》、《国营东风农场》、《我的母亲王佩英》等。其作品在国内外产生了巨大的影响，获得了广泛好评。</p>
+<p>2001年6月，北京大学举办胡杰纪录片展映。</p>
+<p>2002年3月，《严震的婚事》获“中华青年影像大展”最佳编辑奖。</p>
+<p>2003年3月，在北京参选“中国独立纪录片展映”。同年8月，在法国巴黎参选中国纪录片展映。</p>
+<p>2004年2月， 在德国波恩参选“东西方艺术与个人身份”展映。</p>
+<p>2004年6月在广东美术馆展映。影片《我虽死去》2008年获第一届华语纪录片影展（长片组）冠军，在第四届REEL CHINA当代中国纪录片双年展获评委会奖，并参加2008年新加坡国家博物馆“1949年 以来中国电影展”。</p>
+<p>2009年参加德国法兰克福书展。其作品DVD（《平原上的山歌》、《在海边》）已由中国国际广播音像出版社出版。<br><strong><br>
+《铭刻：胡杰版画展》</strong></p>
+<p>主办：中国岭南油画研究馆</p>
+<p>策展人：李公明</p>
+<p>画展开幕：2015年9月13日（星期天）下午四时<br>
+画展地点：广州大学城 外环西路 岭南印象园24栋 中国岭南油画研究馆<br>
+画展日期：2015年9月13日—9月20日</p>
+<p>温馨提示：</p>
+<p>1，大学城南B出口，往南步行12分钟可到岭南印象园；<br>
+2，大学城南B出口坐384路公交车到岭南印象园下车；<br>
+3，大学城南C出口坐86路公交车到广工总站下车，步行200米到岭南印象园</p>
+<p>预约品鉴及购藏联系：020-39349936<br>
+中国油画在线: www.opchina.net</p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%85%AC%E6%98%8E-%E6%8A%8A%E5%85%89%E6%89%93%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%EF%BC%9A%E8%83%A1%E6%9D%B0%E7%89%88%E7%94%BB%E5%B1%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">三年大饥荒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E6%98%AD/?category=18271" rel="tag">林昭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E5%9B%BD/?category=18271" rel="tag">祖国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E8%83%BD%E9%87%8F/?category=18271" rel="tag">负能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%A4%95%EF%BC%8C%E6%B4%BE%E7%89%B9%E4%BD%BF%E5%AD%9F%E5%BB%BA%E6%9F%B1%E5%89%8D%E6%9D%A5%E7%81%AD/" target="cdt-mirror">美国之音｜习近平访美前夕，派特使孟建柱前来灭火？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg" alt="mmexport1441262564551" width="550" height=""></a><br><em>（网络图片）</em></p>
@@ -865,29 +945,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">BBC｜中纪委就华润原董事长宋林涉贪案立案审查</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/130718070317_cn_song_lin_640x360_xinhua.jpg" alt="130718070317_cn_song_lin_640x360_xinhua" width="660" height="371"><br>
-宋林在被一名记者在网上实名举报“巨额贪腐”之后于去年月开始接受调查</p>
-<p>中共反腐机构中共中央纪委宣布对华润集团原党委书记、董事长宋林进行“双开”，并对其严重违纪违法问题进行立案审查。</p>
-<p>中纪委监察部网站在9月11日发布消息称，宋林利用职务便利为他人谋取利益、收受贿赂，将公款作个人用途，以及与他人通奸等，其中贪污、受贿问题涉嫌犯罪中，中纪委已正式立案审查，并将其涉嫌犯罪问题、线索和所涉款物移送司法机关处理。</p>
-<p>同一天，中纪委还宣布了对香港中旅（集团）有限公司原党委副书记、副董事长、总经理王帅廷在华润任职期间的严重违纪问题进行立案审查。</p>
-<p>两人均被开除了中共党籍，并被监察部给予行政开除处分，即所谓“双开”。</p>
-<p>华润（集团）有限公司在《财富》杂志评选的2014年世界500强企业中排名第115，直接拥有5家在香港交易所上市的子公司，其公开资料显示该公司至2014年总资产为12517亿港元。</p>
-<p>宋林在被一名记者在网上实名举报“巨额贪腐”之后于去年月开始接受调查。</p>
-<p>法新社指，中纪委宣关相关消息的举动通常意味着宋林将被定罪。</p>
-<p>路透社报道则指，在中国国家主席习近平上任后展开“老虎苍蝇一起打”的大规模反腐行动后，中国的最高反腐机构已经对华润集团进行了多个月的调查。</p>
-<p>（编写：列尔 责编：萧尔）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E6%9E%97/?category=18271" rel="tag">宋林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B8%85%E5%BB%B7/?category=18271" rel="tag">王帅廷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E8%85%90/?category=18271" rel="tag">贪腐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -909,5 +966,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
                 <td></td>
                 
         
-        <td><a href="https://d3entost4bxy9h.cloudfront.net">https://d3entost4bxy9h.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d4wdmazowlhbt.cloudfront.net">https://d4wdmazowlhbt.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3entost4bxy9h.cloudfront.net">https://d3entost4bxy9h.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d4wdmazowlhbt.cloudfront.net">https://d4wdmazowlhbt.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1zm5jawjo4hz4.cloudfront.net">https://d1zm5jawjo4hz4.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1zm5jawjo4hz4.cloudfront.net">https://d1zm5jawjo4hz4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%9D%A2%E5%AF%B9%E5%8D%B1%E6%9C%BA%EF%BC%8C%E4%B8%BA%E4%BA%86%E6%95%91%E5%85%9A%E7%8E%8B%E5%B2%90%E5%B1%B1%E9%A6%96%E6%8F%90%E4%B8%AD%E5%85%B1/" target="cdt-mirror">法广｜面对危机，为了“救党”王岐山首提中共“合法性”</a>
+</h2>
+<p><p>中共最高层首次谈本党合法性，到底发出了什么信号？有看法指这或许打开了潘多拉的匣子；即使接近官方的信息也以为“此举为中共话语体系的一次重大突破”。并不否认有“危机意识”云云。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9d.jpg" alt="k9d" width="640" height="361"><br>
+9 月 9 日，中共政治局常委、中纪委书记王岐山在北京与出席“ 2015 中国共产党与世界对话会”的代表会面，谈到中共执政合法性问题。</p>
+<p>这是被视为与习近平联手反腐的中共常委王岐山发出的言论。王岐山9月9日在一个名称古怪的“2015中国共产党与世界对话会”上，会见 60 多位外国前政要及知名学者时谈到了中共作为执政党的合法性问题。</p>
+<p>接近官方的公众号“学习大国”认为，此举为中共话语体系的一次重大突破，因为这是中国最高层亦即政治局常委以上首次论述中共的合法性问题。该文同时表示，王岐山谈话中不再回避“合法性”这一概念，所释放的信号彰显中共执政自信，蕴含着深刻的危机意识、忧患意识、切不可沉湎于打天下就能坐天下的陈旧观念。</p>
+<p>其实，王岐山所谈“中共合法性”概念，本意仍在“救党”。</p>
+<p>王岐山提出“合法性”选择了这样一个角度：“中国共产党的合法性源自于历史，是人心向背决定的，是人民的选择”。使用“合法性”一词固然新颖，正如有些政治观察人士所指出的，中共领导人开始使用“合法性”这个词汇本身是一件比较新鲜的事物，王岐山在国际场合使用这个中国一些社会学者从海外引入中国政治语汇的词，也需要一定的政治勇气，但是其后对这种意思的表达并没有多少新意。难道合法性来源于历史，就可以一成不变，就等于说只要成功一次就永远不会不合法了？</p>
+<p>另外关于所谓中共合法性来源于历史，是人民的选择的说法，不少网民在微博发表的言论就颇有微词。有网民质疑：“人民怎么选择？可以重选吗” ? 还有人问：“人民连选票都没有，用什么选择？另外，即使当初选择了，也不代表现在仍然选择你”。</p>
+<p>这些言语点出了王岐山有关论述的矛盾所在。但也透露出中共的合法性受到严重怀疑，这一点从习近平对民间越来越严厉的打压可以感觉到。另一方面，有学者认为这也说明中共党内外围绕执政合法性的议论越来越多，中共高层不得不面对这个问题。中国政治问题专家张炜分析，以王岐山与习近平的紧密关系来看，他们私下应该会讨论“执政合法性”这样的问题。他们应该在讨论这个问题时深刻意识到腐败的中共高层官员正对共产党执政的合法性造成特别大的伤害。</p>
+<p>合法性问题由与习近平关系密切的王岐山这样的政治人物提出，是否打开了潘多拉的匣子，最终与其护党的初衷相去甚远？都很难说。反正，这是一个迫切的问题，即使嘴上不说，人们心里也明白。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%9D%A2%E5%AF%B9%E5%8D%B1%E6%9C%BA%EF%BC%8C%E4%B8%BA%E4%BA%86%E6%95%91%E5%85%9A%E7%8E%8B%E5%B2%90%E5%B1%B1%E9%A6%96%E6%8F%90%E4%B8%AD%E5%85%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 16分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E9%9F%A6%E5%A4%A7%E6%9E%97-%E7%88%B1%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E8%B4%BC%E7%9A%84/" target="cdt-mirror">爱思想｜韦大林: “爱国”是如何成为“贼”的</a>
 </h2>
 <p><p>这几年，有个名称流行起来，叫做“爱国贼”。以前只听说有“卖国贼”，如明朝的洪承畴、吴三桂，清朝的李鸿章，“抗战”时期的汪精卫等等。“爱国贼”显然是从“卖国贼”反用过来的。一说起“爱国”，人们就会想到屈原、岳飞、文天祥等崇高形象，以及高举“德先生和赛先生”大旗的“五四运动”等等。“爱国”这样“高大上”的事怎么会与下三滥的“贼”联系在一起呢？</p>
@@ -891,25 +913,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%83%AD%E9%A3%9E%E9%9B%84%E8%8E%B7%E7%88%B1%E5%B0%94%E5%85%B02015%E5%B9%B4%E5%89%8D%E7%BA%BF%E4%BA%BA%E6%9D%83%E5%8D%AB%E5%A3%AB%E5%A5%96/" target="cdt-mirror">法广｜郭飞雄获爱尔兰2015年前线人权卫士奖</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2014/11/90ed98de96c450cf-5973513f676859295a07601d5ff572364eb2800c4f5c.png"><img src="http://chinadigitaltimes.net/chinese/files/2014/11/90ed98de96c450cf-5973513f676859295a07601d5ff572364eb2800c4f5c.png" alt="郭飞雄画像。郭飞雄女儿作品" width="450" height=""></a><p>郭飞雄画像。郭飞雄女儿作品</p></div>
-<p>总部设在爱尔兰首都的前线卫士捍卫者组织将2015年人权卫士奖颁发给了中国知名维权人士郭飞雄。颁奖仪式9月11日在都柏林举行。鉴于郭飞雄目前仍被关押在广州天河看守所，他的妻子张青携女儿杨天娇前往都柏林，代表郭飞雄，从爱尔兰著名作家塞巴斯蒂安•巴里(Sebastian Barry)手中接过奖章。</p>
-<p>张青母女接受法广电话采访，谈了她们母女对郭飞雄获奖的感受，张青表示：</p>
-<div>
-<div><a href="http://telechargement.rfi.fr/rfi/chinois/audio/modules/actu/201509/Zhang_Qing.mp3" data-stream="em-61CE05EA-F6BB-44EA-8E46-C8AB9E94A855-0" data-title="Zhang Qing"> (<span>音频)</span> </a></div>
-</div>
-<p>郭飞雄的女儿杨天娇也为父亲骄傲，认为这也是对所有中国维权人士的极大鼓励和支持。</p>
-<p>郭飞雄常年参与维权活动，被看作是中国新公民运动，尤其是南方街头运动的重要参与者和领导人物。2013年初的《南方周末》新年特刊事件中，郭飞雄因为积极参与组织公民群体声援南周编辑，呼吁新闻自由，而于当年8月以“聚众扰乱公共场所秩序”被刑拘。但司法当局至今没有就此指控做出最后判决。</p>
-<p>“前线卫士捍卫者“组织在颁奖公报中指出，将2015年的人权卫士奖颁发给郭飞雄，是为了表彰他坚持不懈地在中国通过调查、报道与抗争，反对侵犯人权的行为。无论是作为作家、维权人士，还是律师，他都始终拒绝因肢体以及心理迫害而放弃抗争。</p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%83%AD%E9%A3%9E%E9%9B%84%E8%8E%B7%E7%88%B1%E5%B0%94%E5%85%B02015%E5%B9%B4%E5%89%8D%E7%BA%BF%E4%BA%BA%E6%9D%83%E5%8D%AB%E5%A3%AB%E5%A5%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">新公民运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -921,7 +924,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -931,5 +934,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1zm5jawjo4hz4.cloudfront.net">https://d1zm5jawjo4hz4.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1zm5jawjo4hz4.cloudfront.net">https://d1zm5jawjo4hz4.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>

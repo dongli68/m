@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://d3gqwf0hz4llzy.cloudfront.net">https://d3gqwf0hz4llzy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/><a href="https://d3gqwf0hz4llzy.cloudfront.net">https://d3gqwf0hz4llzy.cloudfront.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%A4%95%EF%BC%8C%E6%B4%BE%E7%89%B9%E4%BD%BF%E5%AD%9F%E5%BB%BA%E6%9F%B1%E5%89%8D%E6%9D%A5%E7%81%AD/" target="cdt-mirror">美国之音｜习近平访美前夕，派特使孟建柱前来灭火？</a>
@@ -117,7 +117,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B6%E5%89%91%E8%8B%B1/?category=18271" rel="tag">叶剑英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E5%BE%B7%E6%80%80/?category=18271" rel="tag">彭德怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%B9%E6%96%97/?category=18271" rel="tag">批斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%BD%AA/?category=18271" rel="tag">林彪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%AB%8B%E6%9E%9C/?category=18271" rel="tag">林立果</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E4%B8%AD%E5%8D%97%E6%B5%B7%E7%82%92%E9%92%A2%E8%80%83%E8%AF%81/" target="cdt-mirror">呦呦鹿鸣｜达文西：中南海“炒钢”考证</a>
 </h2>
@@ -909,5 +909,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3gqwf0hz4llzy.cloudfront.net">https://d3gqwf0hz4llzy.cloudfront.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://d3gqwf0hz4llzy.cloudfront.net">https://d3gqwf0hz4llzy.cloudfront.net</a><br/><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/></td>    </tr>
 </table>

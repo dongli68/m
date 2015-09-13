@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1vm5jzs6p039v.cloudfront.net">https://d1vm5jzs6p039v.cloudfront.net</a><br/><a href="https://d3aovydudxh5bx.cloudfront.net">https://d3aovydudxh5bx.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d3aovydudxh5bx.cloudfront.net">https://d3aovydudxh5bx.cloudfront.net</a><br/><a href="https://d1vm5jzs6p039v.cloudfront.net">https://d1vm5jzs6p039v.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%9D%A2%E5%AF%B9%E5%8D%B1%E6%9C%BA%EF%BC%8C%E4%B8%BA%E4%BA%86%E6%95%91%E5%85%9A%E7%8E%8B%E5%B2%90%E5%B1%B1%E9%A6%96%E6%8F%90%E4%B8%AD%E5%85%B1/" target="cdt-mirror">法广｜面对危机，为了“救党”王岐山首提中共“合法性”</a>
@@ -195,7 +195,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8F%B3/?category=18271" rel="tag">反右</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F%E5%8C%97/?category=18271" rel="tag">束星北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E7%90%86%E7%BE%A4/?category=18271" rel="tag">钱理群</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%92%B1%E7%90%86%E7%BE%A4%EF%BC%9A%E4%B8%80%E4%B8%AA%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%9A%84%E6%94%B9%E9%80%A0/" target="cdt-mirror">钱理群：一个物理学家的“改造”</a>
 </h2>
@@ -304,7 +304,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F%E5%8C%97/?category=18271" rel="tag">束星北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E7%90%86%E7%BE%A4/?category=18271" rel="tag">钱理群</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BC%B9%E5%BC%93%E5%AD%90%E6%AE%B5%E5%AD%90%E6%BC%AB%E7%94%BB/" target="cdt-mirror">【麻辣总局】天津大火，毒奶粉和正能量</a>
 </h2>
@@ -924,7 +924,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1vm5jzs6p039v.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3aovydudxh5bx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -934,5 +934,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
                 <td></td>
                 
         
-        <td><a href="https://d1vm5jzs6p039v.cloudfront.net">https://d1vm5jzs6p039v.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d3aovydudxh5bx.cloudfront.net">https://d3aovydudxh5bx.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3aovydudxh5bx.cloudfront.net">https://d3aovydudxh5bx.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1vm5jzs6p039v.cloudfront.net">https://d1vm5jzs6p039v.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mvmioj0x2eg3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1mvmioj0x2eg3.cloudfront.net">https://d1mvmioj0x2eg3.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://dii1jdeu8j16i.cloudfront.net">https://dii1jdeu8j16i.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1mvmioj0x2eg3.cloudfront.net">https://d1mvmioj0x2eg3.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dii1jdeu8j16i.cloudfront.net">https://dii1jdeu8j16i.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%85%AC%E6%98%8E-%E6%8A%8A%E5%85%89%E6%89%93%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%EF%BC%9A%E8%83%A1%E6%9D%B0%E7%89%88%E7%94%BB%E5%B1%95/" target="cdt-mirror">李公明 | 把光打在大地上：胡杰版画展</a>
@@ -118,7 +118,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E5%BB%BA%E6%9F%B1/?category=18271" rel="tag">孟建柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">黑客</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BD%8E%E6%A0%BC%E5%91%A8%E5%88%8A%EF%BD%9C9-13%E6%9E%97%E5%BD%AA%E5%9D%A0%E6%9C%BA%E5%90%8E%EF%BC%8C%E6%BB%A1%E6%9C%9D%E6%96%87%E6%AD%A6%E8%B0%81%E7%9A%84%E5%8F%8D%E5%BA%94%E6%9C%80%E4%BA%AE/" target="cdt-mirror">低格周刊｜9.13林彪坠机后，满朝文武谁的反应最亮？</a>
 </h2>
@@ -966,5 +966,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1mvmioj0x2eg3.cloudfront.net">https://d1mvmioj0x2eg3.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://dii1jdeu8j16i.cloudfront.net">https://dii1jdeu8j16i.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1mvmioj0x2eg3.cloudfront.net">https://d1mvmioj0x2eg3.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://dii1jdeu8j16i.cloudfront.net">https://dii1jdeu8j16i.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>

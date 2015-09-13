@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3gqwf0hz4llzy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3gqwf0hz4llzy.cloudfront.net">https://d3gqwf0hz4llzy.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://d3gqwf0hz4llzy.cloudfront.net">https://d3gqwf0hz4llzy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%A4%95%EF%BC%8C%E6%B4%BE%E7%89%B9%E4%BD%BF%E5%AD%9F%E5%BB%BA%E6%9F%B1%E5%89%8D%E6%9D%A5%E7%81%AD/" target="cdt-mirror">美国之音｜习近平访美前夕，派特使孟建柱前来灭火？</a>
@@ -840,7 +840,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜德语媒体：玩火的中国</a>
 </h2>
@@ -864,7 +864,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B0%B1%E5%8D%8E%E6%B6%A6%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AE%8B%E6%9E%97%E6%B6%89%E8%B4%AA%E6%A1%88%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">BBC｜中纪委就华润原董事长宋林涉贪案立案审查</a>
 </h2>
@@ -909,5 +909,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://d3gqwf0hz4llzy.cloudfront.net">https://d3gqwf0hz4llzy.cloudfront.net</a><br/><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/><a href="https://d3gqwf0hz4llzy.cloudfront.net">https://d3gqwf0hz4llzy.cloudfront.net</a><br/></td>    </tr>
 </table>

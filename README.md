@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dii1jdeu8j16i.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://dii1jdeu8j16i.cloudfront.net">https://dii1jdeu8j16i.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1dhfoliyqpnyu.cloudfront.net">https://d1dhfoliyqpnyu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dii1jdeu8j16i.cloudfront.net">https://dii1jdeu8j16i.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1mvmioj0x2eg3.cloudfront.net">https://d1mvmioj0x2eg3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%85%AC%E6%98%8E-%E6%8A%8A%E5%85%89%E6%89%93%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%EF%BC%9A%E8%83%A1%E6%9D%B0%E7%89%88%E7%94%BB%E5%B1%95/" target="cdt-mirror">李公明 | 把光打在大地上：胡杰版画展</a>
@@ -852,7 +852,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0/?category=18271" rel="tag">媒体札记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%B5%B0%E6%94%BF%E5%AE%A1%E8%80%81%E8%B7%AF-%E7%8E%A9%E6%96%87%E9%9D%A9%E5%A4%8D%E8%BE%9F/" target="cdt-mirror">【网络民议】走政审老路 玩文革复辟</a>
 </h2>
@@ -956,7 +956,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1dhfoliyqpnyu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mvmioj0x2eg3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -966,5 +966,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1dhfoliyqpnyu.cloudfront.net">https://d1dhfoliyqpnyu.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://dii1jdeu8j16i.cloudfront.net">https://dii1jdeu8j16i.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1mvmioj0x2eg3.cloudfront.net">https://d1mvmioj0x2eg3.cloudfront.net</a><br/><a href="https://dii1jdeu8j16i.cloudfront.net">https://dii1jdeu8j16i.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>

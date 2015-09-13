@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,71 @@
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d14pm53528nxdt.cloudfront.net">https://d14pm53528nxdt.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dbn80low1yh5e.cloudfront.net">https://dbn80low1yh5e.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://dbn80low1yh5e.cloudfront.net">https://dbn80low1yh5e.cloudfront.net</a><br/><a href="https://d14pm53528nxdt.cloudfront.net">https://d14pm53528nxdt.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E4%B8%AD%E5%8D%97%E6%B5%B7%E7%82%92%E9%92%A2%E8%80%83%E8%AF%81/" target="cdt-mirror">呦呦鹿鸣｜达文西：中南海“炒钢”考证</a>
+</h2>
+<p><p>今天，意外地看到了这张照片，整个人立马醒了：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64017.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64017.jpg" alt="640" width="400" height="388"></a></p>
+<p>这张照片的背后，有这样的故事。</p>
+<p>话说，在1958年8月的北戴河会议上，窗外清爽宜人，窗内的大佬们，以热烈的掌声通过了《中共中央政治局扩大会议号召全党全民为生产1070万吨钢而奋斗》的决议。</p>
+<p>这个1070万吨的目标是怎么来的呢？据说，在对《联共党史》学习中，有这么个说法：炼钢水平达到一千万吨后，即表示这个国家进入了工业化。</p>
+<p>哇哦。“工业化”的背后还有“合法性”有没有？当然，更重要的是：政治家掰手腕的霸气！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64023.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64023.jpg" alt="6402" width="500" height="368"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64032.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64032.jpg" alt="6403" width="500" height="366"></a></p>
+<p>当年前8个月里，生产了450万吨钢，还剩下不足4个月，却要生产620万吨钢，怎么办呢？各地党委制订了全党全民大办钢铁工业的指导方针，由第一书记挂帅。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64041.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64041.jpg" alt="6404" width="440" height="274"></a><br>
+▲当时难得的土法炼钢彩照。</p>
+<p>土法炼钢时代开启了。中南海也炼起来了。</p>
+<p>中央办公厅成立了炼钢指挥部，直接设在中直党委。中办各单位，都有一名干部任炼钢负责人。</p>
+<p>中南海来福堂东、居仁堂西的甬道边，是秘书室的土炼钢炉；中南海西楼西墙外，是机要室的土炉子；警卫局霸气一些，在万善殿、东八所等好几个地方都建了土炉子。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64051.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64051.jpg" alt="6405" width="525" height="436"></a></p>
+<p>在作家出版社《红墙童话———我家住在中南海》（作者王凡 东平）中，有详细的记录：</p>
+<blockquote><p>炼钢需要原料铁，开始的时候，都靠各单位自己想办法搜扒，许多人把自家的一些金属器具捐了出来。但这不够，就到处搜寻，简直到了看见什么和金属沾边的东西都想往回拣的地步了。秘书室的炼钢负责人，<strong>带着人把游泳池附近的一扇铁门给卸了。门边的岗哨开始不让卸</strong>，秘书室的人说：“你们知道现在是什么时候啦，大炼钢铁被摆在什么高度啦，你还不支持我们？”哨兵不好再说什么，让他们抬走了门，当了炼钢的原料。</p>
+<p>所有的人都有很高的热情，但对炼钢实在是一窍不通。首先是不会建炼钢炉，所有的炉子，中心就是一个坩埚，放入焦炭和碎铁，外面用耐火砖包上，在里面点火冶炼。坩埚很贵，因为叶子龙（机要室主任，兼任毛主席办公室负责人）方方面面的人都熟悉，是他通过关系搞来的。焦炭点着后，火力不够，烧不红铁块，人们就轮流抱着铁管子用嘴吹火，根本无济于事；又请木工做了木风箱装上，由几个人轮流拉风箱。总算把废铁烧红了，但还是达不到熔化的温度，炼不成钢。后来，秘书室的人，在静谷的旧院落寻找废铁时，翻出了一台8马力的旧鼓风机，搬到了土炼钢炉前，接上电源，呜呜一吹，焦炭和废铁块渐渐被烧得白亮亮的了。人们仿佛看到了成钢的希望，所有的单位都设法找来鼓风机，几处有土炼钢炉的地方，昼夜呜呜鸣响。<strong>一些住在中南海里的首长，被吵得难以工作和休息，</strong>但为了大局，首长也只好自己克服克服了。火一烧起来就不能灭了，要直到一炉钢炼出来，24小时不能离开人。为了方便炼钢，秘书室的人在怀仁堂前，用苫布搭了个大棚子，刚从土炼钢炉倒班下来的人，就在这里休息，家都顾不上回了。秘书室的干部就这么炼了10多天，中办炼钢指挥部一个劲儿打电话问，可<strong>一斤合格钢也没炼出来。请来懂行的人指导，来人看了看，说这样根本炼不出钢，只能炒钢。</strong></p>
+<p>炒钢是把砸碎的铁料和焦炭按一定比例放入炉中，达到一定的温度后，人们就手持钢钎来回翻搅，使炭渗到铁里，实现铁到钢的转化。后来中南海里各单位大都是变炼钢为炒钢。“我们炒出钢来了。”中南海里的各单位纷纷向中办炼钢指挥部报捷。指挥部通知各单位，合格的钢由国家收购。秘书室的成绩不小，炼出的小钢锭卖了500多元钱。就在炒钢出了一些成品后，毛泽东到中南海内中办系统的几个炼钢点视察了炼钢的情况。<strong>他看到了合格的小钢锭，虽然没说太多的话，但人们看见他脸上洋溢着满意和兴奋</strong><strong>。</strong>在机要室的炼炉前，他还和全体炼钢的干部们合影留念。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6406.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6406.jpg" alt="6406" width="525" height="469"></a></p>
+<p>哇哦，终于到了毛主席出场了。 但是，毛泽东真的如这本书所说，“洋溢着满意和兴奋”吗？</p>
+<p>不一定。原中办国办信访局副局长、政务专员郑道中曾经在《世纪》杂志中撰文回忆了这段往事：</p>
+<blockquote><p>某一天晚上，说是中直系统要搞“突击”，要把产量猛抬上去，我被指令学习和操作“炒钢”技术。第二天下午我就在一位来自河北的农民师傅(是中直机关专门请来的)指导下，用普通砖头和石灰搭建了一个十分简陋的炒钢炉(应该说是小灶台)，安上一个比较大的鼓风机。晚上操作时，农民师傅把大块的木柴同铁块放在一起，启动鼓风机把炉火烧得特别旺，叫我不断地用铁棒搅动木柴和铁块，使铁块熔化后凝结成钢。令农民师傅大为失望的是，城里的木柴十分干燥，不像农村新砍下的树木，干木柴点火后在鼓风机鼓吹之下，不到五六分钟就烧完了，铁块还来不及熔化。取出的成品是“半生半熟”，即有的铁块熔化，有的没有熔化。此后这个“炒钢炉”再也没有引起人们的兴趣。</p></blockquote>
+<p>炒钢失败。</p>
+<p>对于毛泽东的反应，郑道中是这样回忆的：</p>
+<blockquote><p>毛主席十分关心正在“后院”进行的炼钢，在机要秘书罗光禄陪同下，亲自来查看。下车时他十分高兴，与我们一一握手，听着叶子龙汇报，迈步进入“后院”。<strong>他看到了这个脏乱的现场，看到了这些衣着凌乱不堪的“炼钢工人”，看到这些“工人”笨拙的操作，还观看了熔炼出来的产品，他的神态似乎失去了来时的兴奋。</strong>停留了一会，他离开了现场。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6407.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6407.jpg" alt="6407" width="550" height=""></a><br>
+▲画家的画很写实，洋溢着浪漫。</p>
+<p>毛主席在内部检讨时说，他搞大炼钢铁运动，事先并不知道炼钢要运输，要焦碳和合适的砂。</p>
+<p>《机械工人》1958年第12期发表一篇文章《为土铁土鋼鸣鑼开道》（当时还是繁体），战天斗地，甚是犀利：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6408.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6408.jpg" alt="6408" width="500" height=""></a><br>
+▲花了钱才找来这本期刊复印，各位看官勉强看看。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6409.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6409.jpg" alt="6409" width="450" height="400"></a><br>
+▲眼熟不？</p>
+<p>困惑在于，中南海有没有必要这么从零开始摸索“炒钢”呢？我从《发明与革新》2000年第四期找到这样一篇介绍《西汉已有炒钢技术》：</p>
+<blockquote><p>徐州狮子山楚王陵考古 ,日前又有重大发现：迄今世界上年代最早的炒钢冶金技术 ,我国在西汉早期就已发明和广泛应用了。楚王陵保存着一处完整的西汉楚王武库 ,库中堆满各式成捆的实战楚汉兵器 ,兵器虽历时 2000多年 ,依然锋利无比 ,轻轻一划刃锋力透十余层厚纸。 北京科技大学冶金与材料史研究所对武库铁器的研究分析表明: 当时的钢铁技术正处于发展时期 ,淬火工艺、冷锻技术、炒钢制作均已使用。 炒钢是生铁半熔后加热渗碳,锻打成钢。 公元 18世纪欧洲才开始使用炒钢技术 ,而楚王陵的年代下限为公元前 154年 ,这表明<strong>我国在西汉早期 (公元前 2世纪中叶 )已发明并使用了炒钢技术。</strong></p></blockquote>
+<p><strong>搞了半天，我们竟然不如西汉时代？</strong>现实太骨感。</p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64010.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64010.jpg" alt="64010" width="500" height="368"></a><br></strong></p>
+<p>具体到北京，《中国科技史杂志》2014年第2期发表了一篇论文：《北京昌平马刨泉长城戍所遗址出土铁器的实验研究——兼论炒钢工艺的一种判据》，标题很长，但要说的其实就是一句话：在北京，北朝时期已经普遍使用炒钢制造兵器和工具。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64011.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64011.jpg" alt="64011" width="525" height="460"></a></p>
+<p><strong>搞了半天，我们竟然不如北朝？</strong>哦，不，我们还有理想丰满。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64012.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64012.jpg" alt="64012" width="545" height="371"></a><br>
+▲北京的妇女同胞将家中铁制用具送去土法炼钢，最后它们光荣地成了废物。</p>
+<p>关于“炒钢”，《中国古代冶铁技术发展史》有这样源自《太平经》的表述：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64013.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64013.jpg" alt="64013" width="525" height="230"></a></p>
+<p>好像找到了好多祖上很牛的证据，然而并没有什么用，在《中国古代金属技术——钢和铁造就的文明》一书中，作者指出该应正名为“炒铁”而非“炒钢”：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64014.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64014.jpg" alt="64014" width="550" height=""></a></p>
+<p>所以，这也就是一篇“然并卵”的文章。</p>
+<p>最后，我们要说的是，此“炒钢”非彼“炒钢”，而现在的中南海，也不是过去的中南海，至少土炉子冒烟是绝对不可能了。</p>
+<p>当年，中南海以及全国所炼300多万吨土钢、416万吨土铁根本不能用。不过，毫无意外，最终我们伟大的人民还是胜利了！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64015.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64015.jpg" alt="64015" width="450" height="538"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64016.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64016.jpg" alt="64016" width="525" height="291"></a></p>
+<p>向大家普及一个常识，1890年由张之洞在武汉筹办的汉阳钢铁厂，至辛亥革命前，有炼铁炉3座，炼钢炉6座，约年产生铁8万吨，钢近4万吨，钢轨2万余吨。</p>
+<p>那个时候，是清朝。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E4%B8%AD%E5%8D%97%E6%B5%B7%E7%82%92%E9%92%A2%E8%80%83%E8%AF%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%82%BC%E9%92%A2%E9%93%81/?category=18271" rel="tag">大炼钢铁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">大跃进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BE%E5%8D%AB%E6%98%9F/?category=18271" rel="tag">放卫星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9D%9A%E5%86%B3%E5%B9%B2%E3%80%81%E5%8A%A0%E6%B2%B9%E5%B9%B2%E3%80%81%E4%B8%80%E5%88%BB%E4%B8%8D%E5%81%9C%E6%AD%87%E5%9C%B0%E5%B9%B2/" target="cdt-mirror">【网络民议】坚决干、加油干、一刻不停歇地干</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%A8%E5%85%B82.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%A8%E5%85%B82.png" alt="习近平用典2" width="500" height="341"></a><br><em>（<span><a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%B7%AE%E8%AF%84%EF%BC%9A%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%A8%E5%85%B8%E3%80%8B/">豆瓣截图</a></span>）</em></p>
@@ -883,55 +945,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%A0%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%9E%E6%8A%95%E7%A5%A8%E6%9D%83%E9%83%BD%E6%B2%A1%E6%9C%89%E8%BF%98%E8%AF%B4%E5%95%A5%E5%91%A2%EF%BC%8C%E8%B4%B5%E5%85%9A%E5%BC%80%E5%BF%83/" target="cdt-mirror">【网络民议】连投票权都没有还说啥呢，贵党开心就好</a>
-</h2>
-<p><p><strong><a href="http://news.sina.com.cn/c/2015-09-10/232332296609.shtml">学习大国｜王岐山：中共合法性源自于历史 是人民的选择</a></strong></p>
-<blockquote><p>王岐山指出，执政党的使命决定了必须从严治党，执政党对人民的承诺就是它的使命。要兑现承诺，执政党必须对自身严格要求。中国共产党的合法性源自于历史，是人心向背决定的，是人民的选择。办好中国的事情，就要看人民高兴不高兴、满意不满意、答应不答应。执政党代表人民、服务人民，就要确立核心价值观，坚守在行动上。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg" alt="老百姓的钱包是共产党的牵挂" width="500" height=""></a><br><em>（网络图片）</em></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2014/05/%E3%80%90%E4%B9%A6%E8%AF%84%E3%80%91%E9%99%88%E8%8A%9D%EF%BD%9C%E6%80%8E%E6%A0%B7%E8%AE%BA%E8%AF%81%E6%88%91%E5%85%9A%E6%B0%B8%E8%BF%9C%E6%AD%A3%E7%A1%AE%EF%BC%9A%E4%B8%A4%E7%A7%8D%E5%85%9A%E4%B9%89/">陈芝｜怎样论证我党永远正确：两种党义论与四种党正论</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/06/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%90%88%E6%B3%95%E6%80%A7%E5%8D%B1%E6%9C%BA/">宋志标：合法性危机</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E7%BE%BD%E6%88%88%EF%BD%9C%E6%A8%8A%E5%BC%93%EF%BC%9A%E8%BE%A9%E8%AF%81%E6%B3%95%E4%B8%8E%E6%94%BE%E5%B1%81/">羽戈｜樊弓：辩证法与放屁</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@上海老顽童吴德余：因为我承诺“全心全意为人民服务”，所以我就有了执政合法性，这样的逻辑实在令人笑掉下巴。这句话作为团队的宗旨，将“立党为公执政为民”作为团队的理念，无疑都是正确的，但这仅仅是标语式的宣传，需要用实质性的内涵来填充，否则纯属空洞无物的口号，更不是承诺。承诺是有确切目标的、可检验的。</p>
-<p>@只配抬杠杠杠：按这套说法，金家王朝也可以说它有合法性。以前北京长期以经济发展作为统治合法性基础，现在经济不行了，而且在可见将来都看不到尽头，所以需要重新捡起“历史来源”，就这么回事。</p>
-<p><a href="http://weibo.com/5696620335" target="_blank">清华郭29于华</a>：“人民高兴不高兴、满意不满意、答应不答应。”<img title="[阴险]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/yx_org.gif" alt="[阴险]"></p>
-<p>@华务先驱卡梅伦：越是没什么越是爱说什么。中共的合法性不需要证明。你觉得不合法，井冈山就在那里，南湖的破船就在那里，雪山草地就在那里，延安西柏坡就在那里，你为何不去？</p>
-<p>@斗牛之牛：源自历史？所以天天在横店抗日了，历史可以任意打扮</p>
-<p><a href="http://weibo.com/jakobs" target="_blank">Mr_Vers</a><i title="微博达人"></i>：所以这些日子的反腐，不仅仅要反你们对立派的腐败，还要反你们自己派系的腐败….<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p>@汤小港：满不满意，答不答应，选下试试看喽。党内能真正选一下也算你们有种。</p>
-<p>@brainwasher红笼梦：人民连选票都没有，用什么选择？另外，即使当初选择了，也不代表现在仍然选择你，也不代表我永生永世都要选择你。</p>
-<p>@小懋讲来：连投票权都没有，还说啥呢，贵党开心就好</p>
-<p>@杨李的围脖：嗯。历史的选择人民的选择。那就再选一次嘛</p>
-<p>@wyj866：被高兴，被满意，被答应吧</p>
-<p>@沈老师瞎扯淡：你有枪有军队，你说了算，你高兴就好</p>
-<p>@无意轻尝：我只记得某人说过“枪杆子里面出政权”。</p>
-<p>@汤未誓：不高兴，不满意，不答应。我会被销号么？</p>
-<p>@吃饭高手杨老爷子：没说让你们满意，你们不满意没卵用。人民满意，你们不满意你们就不是人民！</p>
-<p>@昵称起起来真麻烦：吹牛很厉害，办事一般也赶不上吹牛的脚步了。</p>
-<p>@水军克星：把这份心思真的用在为人民服务的话，你他妈即使不合法又咋滴？但是。。。。。你懂的</p>
-<p>@我是真的ASD：脸皮厚到了一定境界。。</p>
-<p>@呆胖的小鱼：绝对横者，堵着耳朵，做着睁眼瞎，拿着枪，谁敢说不好，什么都好，那就无需进步，大同不是独断，包容不同的社会才是真正的大同，别最后自己杀了自己</p>
-<p>@西西鱼2010：我是人民，请问能说话吗？</p>
-<p>@陈志伦：人民敢不高兴、敢不满意、敢不答应吗？或者说人民不高兴、不满意、不答应又有什么办法呢？毕竟人民已经被不是人民的代表了！</p>
-<p>@青海寒江飞雪：选一次要管多少年呢?周朝八百年;秦朝十五年;唐朝二百八十多年;明朝二百七十多年;清朝二百六十多年;民国不足百年…王朝的寿命,越往后越短命!万恶的西方更绝:选一次,只管四年!</p>
-<p>@深蓝老头-13：嬴政统一六国是历史的选择人民的选择，秦二世而亡也是历史的选择人民的选择。</p>
-<p>@只配抬杠杠杠:按这套说法，金家王朝也可以说它有合法性。以前北京长期以经济发展作为统治合法性基础，现在经济不行了，而且在可见将来都看不到尽头，所以需要重新捡起“历史来源”，就这么回事。</p>
-<p>@MrJing小布：究竟是一个党好，还是几个党好？如今看来，恐怕是几个党好。不但过去如此，而且将来也可以如此，就是长期共存，互相监督——毛泽东《论十大关系》</p>
-<p>@家有扁扁：这个“人民”就跟“相关部门”一样神秘</p>
-<p>@二十四桥月光亦难留：赶紧删评论</p>
-<p><a href="http://weibo.com/3088600250" target="_blank">小罗伯特_蒜泥</a>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">小编你确定不把评论关掉？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">还要不要饭碗了<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p>@vdd08：谁叫‘人民’，出来我保证不打死他</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2014/12/%E9%87%91%E4%B8%89%E8%83%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/12/%E9%87%91%E4%B8%89%E8%83%96.jpg" alt="金三胖" width="261" height="300"></a></p>
-<hr><p><small>© Sandra F. for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%9E%E6%8A%95%E7%A5%A8%E6%9D%83%E9%83%BD%E6%B2%A1%E6%9C%89%E8%BF%98%E8%AF%B4%E5%95%A5%E5%91%A2%EF%BC%8C%E8%B4%B5%E5%85%9A%E5%BC%80%E5%BF%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1/?category=18271" rel="tag">中流砥柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7/?category=18271" rel="tag">抗日神剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E9%9D%A2%E6%88%98%E5%9C%BA/?category=18271" rel="tag">正面战场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -943,7 +956,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dbn80low1yh5e.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -953,5 +966,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://dbn80low1yh5e.cloudfront.net">https://dbn80low1yh5e.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d14pm53528nxdt.cloudfront.net">https://d14pm53528nxdt.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dbn80low1yh5e.cloudfront.net">https://dbn80low1yh5e.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d14pm53528nxdt.cloudfront.net">https://d14pm53528nxdt.cloudfront.net</a><br/></td>    </tr>
 </table>

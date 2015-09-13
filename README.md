@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1j1568tbq9f4n.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1j1568tbq9f4n.cloudfront.net">https://d1j1568tbq9f4n.cloudfront.net</a><br/><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1j1568tbq9f4n.cloudfront.net">https://d1j1568tbq9f4n.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d1ez5ko4losxx9.cloudfront.net">https://d1ez5ko4losxx9.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d254421lfz4qiq.cloudfront.net">https://d254421lfz4qiq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E4%B8%AD%E5%8D%97%E6%B5%B7%E7%82%92%E9%92%A2%E8%80%83%E8%AF%81/" target="cdt-mirror">呦呦鹿鸣｜达文西：中南海“炒钢”考证</a>

@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/" target="cdt-mirror">BBC | 中国反腐败：“近亲繁殖”成国企巡视高频词</a>
@@ -160,7 +160,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%B0%B7/?category=18271" rel="tag">令谷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%BB%BA/?category=18271" rel="tag">马建</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%E5%87%BA%E5%A4%A7%E4%BA%8B%E6%95%85-%E5%A4%A7%E8%A3%81%E5%86%9B%E9%85%BF%E5%A4%A7%E9%BA%BB%E7%83%A6/" target="cdt-mirror">法广｜大阅兵出大事故 大裁军酿大麻烦</a>
 </h2>
@@ -1007,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddevddo7pm4an.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1017,5 +1017,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/></td>    </tr>
 </table>

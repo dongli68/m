@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2bcxc7b2ftxoa.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2bcxc7b2ftxoa.cloudfront.net">https://d2bcxc7b2ftxoa.cloudfront.net</a><br/><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d5rinv59d7m5y.cloudfront.net">https://d5rinv59d7m5y.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2bcxc7b2ftxoa.cloudfront.net">https://d2bcxc7b2ftxoa.cloudfront.net</a><br/><a href="https://d5rinv59d7m5y.cloudfront.net">https://d5rinv59d7m5y.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%EF%BD%9C%E9%A6%96%E9%96%B1%E5%85%B5%E7%BF%92%E8%BF%91%E5%B9%B3%E3%80%8C%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A6%AE%E3%80%8D%E7%B6%B2%E5%8F%8B/" target="cdt-mirror">【CDTV】中天新聞｜首閱兵習近平「左手敬禮」網友熱議</a>
@@ -568,7 +568,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B6%E5%89%91%E8%8B%B1/?category=18271" rel="tag">叶剑英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E5%BE%B7%E6%80%80/?category=18271" rel="tag">彭德怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%B9%E6%96%97/?category=18271" rel="tag">批斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%BD%AA/?category=18271" rel="tag">林彪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%AB%8B%E6%9E%9C/?category=18271" rel="tag">林立果</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E4%B8%AD%E5%8D%97%E6%B5%B7%E7%82%92%E9%92%A2%E8%80%83%E8%AF%81/" target="cdt-mirror">呦呦鹿鸣｜达文西：中南海“炒钢”考证</a>
 </h2>
@@ -1006,5 +1006,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
                 <td></td>
                 
         
-        <td><a href="https://d5rinv59d7m5y.cloudfront.net">https://d5rinv59d7m5y.cloudfront.net</a><br/><a href="https://d2bcxc7b2ftxoa.cloudfront.net">https://d2bcxc7b2ftxoa.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d5rinv59d7m5y.cloudfront.net">https://d5rinv59d7m5y.cloudfront.net</a><br/><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2bcxc7b2ftxoa.cloudfront.net">https://d2bcxc7b2ftxoa.cloudfront.net</a><br/></td>    </tr>
 </table>

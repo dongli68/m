@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1f2ktiuclqba1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1f2ktiuclqba1.cloudfront.net">https://d1f2ktiuclqba1.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d22cxxgwafs4ny.cloudfront.net">https://d22cxxgwafs4ny.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d22cxxgwafs4ny.cloudfront.net">https://d22cxxgwafs4ny.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1f2ktiuclqba1.cloudfront.net">https://d1f2ktiuclqba1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%8C%AA%E7%A7%BB-2/" target="cdt-mirror">温克坚：解读李嘉诚资产大挪移</a>
@@ -46,7 +46,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1/?category=18271" rel="tag">刻板印象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E7%95%8C/?category=18271" rel="tag">商界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%AF%8C%E8%B1%AA/?category=18271" rel="tag">大陆富豪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">香港经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF-%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E7%9A%84346%E5%A4%A9%E7%89%A2%E7%8B%B1%E7%94%9F%E6%B4%BB/" target="cdt-mirror">法广 | 记者刘虎的346天牢狱生活</a>
 </h2>
@@ -940,7 +940,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -950,5 +950,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d22cxxgwafs4ny.cloudfront.net">https://d22cxxgwafs4ny.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1f2ktiuclqba1.cloudfront.net">https://d1f2ktiuclqba1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d22cxxgwafs4ny.cloudfront.net">https://d22cxxgwafs4ny.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d1f2ktiuclqba1.cloudfront.net">https://d1f2ktiuclqba1.cloudfront.net</a><br/></td>    </tr>
 </table>

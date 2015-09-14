@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddevddo7pm4an.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/" target="cdt-mirror">BBC | 中国反腐败：“近亲繁殖”成国企巡视高频词</a>
@@ -131,7 +131,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BA%AD/?category=18271" rel="tag">中国家庭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%89%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">冉云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%91%E7%BA%A6/?category=18271" rel="tag">契约</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98/?category=18271" rel="tag">家庭成员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2/?category=18271" rel="tag">家庭教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/?category=18271" rel="tag">政治经济学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E8%BD%A6%E7%A5%B8%E5%90%8E%E4%BB%A4%E8%AE%A1%E5%88%92%E5%8F%8D%E5%B8%B8%E4%B8%BE%E5%8A%A8%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%88%86/" target="cdt-mirror">中国茉莉花革命｜车祸后令计划反常举动的深度分析</a>
 </h2>
@@ -1007,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ddevddo7pm4an.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1u1ieypoonhfl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1017,5 +1017,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1u1ieypoonhfl.cloudfront.net">https://d1u1ieypoonhfl.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>

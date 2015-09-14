@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d249fzq2lf5pt8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tu0qknuf06pa.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/><a href="https://d2kvii0ja5ccrs.cloudfront.net">https://d2kvii0ja5ccrs.cloudfront.net</a><br/><a href="https://d3tu0qknuf06pa.cloudfront.net">https://d3tu0qknuf06pa.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3tu0qknuf06pa.cloudfront.net">https://d3tu0qknuf06pa.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/><a href="https://d2kvii0ja5ccrs.cloudfront.net">https://d2kvii0ja5ccrs.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/" target="cdt-mirror">BBC | 中国反腐败：“近亲繁殖”成国企巡视高频词</a>
+</h2>
+<p><p><strong>中共中央纪委监察部网站周日（9月13日）至周一（14日）连续发布中国三家大型国有企业中国海洋石油总公司（中海油）、中国石油天然气集团公司（中石油）中国东方电气集团（东方电气）的专项巡视整改报告。</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150720080259_cn_wang_yongchun_trial_xiangyangipc_cr624.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150720080259_cn_wang_yongchun_trial_xiangyangipc_cr624.jpg" alt="因腐败落马的中石油高官王永春。国企腐败是中共整肃重点之一。" width="600" height="337"></a><p>因腐败落马的中石油高官王永春。国企腐败是中共整肃重点之一。</p></div>
+<p>专项巡视和联动审计、纪检体制改革一道被视为中国国企反腐的三项主要举措。</p>
+<p>三家企业发布的整改报告中，近亲繁殖、违反“八项规定”、关联交易、利益输送等成为描述中国国企腐败的高频词汇。</p>
+<p><strong>案件查处</strong></p>
+<p>东方电气透露， 截止8月上旬，已办结违规违纪案件105件，处理95人，移交司法处理7人，其中：党纪处分18人，涉及撤销党内职务和开除党籍9人；政纪处分7人，涉及降级和撤职6人；解除劳动合同7人；组织处理70人，涉及通报批评20人，降职1人，诫勉谈话32人。</p>
+<p>中海油透露，该集团查处公款吃喝娱乐等违纪问题，已对三家下属单位89名违纪人员，分别给予开除党籍、留党察看、党内严重警告和警告以及开除、免职降级、解除劳动合同等党纪政纪处分和组织处理；对负有领导责任的8名党组直管干部进行严肃问责，给予党内严重警告、警告和行政警告等党纪政纪处分；对2013年以来公款打高尔夫球问题，对已经查实的49人，分别给予开除党籍、党内严重警告和警告以及行政降级等党纪政纪处分和组织处理。</p>
+<p>中央专项巡视以来，中海油共有156人因违反中央八项规定精神、顶风违纪等问题受到党纪政纪处分和组织处理，其中被问责的处级以上干部30人。</p>
+<p>中石油将其违纪问题总结为，小金库屡禁不止、处罚偏轻；办事处、酒店数量众多，管理混乱，问题多发；公款旅游、购买购物卡、违规发放津补贴；公车数量多、开支大、管理混乱，超标购车、违规用车。</p>
+<p>中石油透露，今年1-7月该集团查处各级“一把手”案件112件，处分和拟处分129人。</p>
+<p><strong>近亲繁殖</strong></p>
+<p>中海油在报告中指出，该集团存在违反回避原则“近亲繁殖”现象普遍的问题。根据举报线索，2015年7月，中海油已对财务资产部、资金部、审计部等总部机关部门，以及南海西部石油管理局、东海石油管理局、海油工程公司正职等重要部门和关键岗位的25名领导人员进行了轮岗交流。</p>
+<p>中石油同样承认，“近亲繁殖”现象比较突出。</p>
+<p>该集团做出的反应是，对3起领导人员违规提拔使用子女亲属的问题进行立案调查，处分和拟处分3人，其中包括对违规提拔亲属的某销售公司原总经理给予党内严重警告、行政记大过处分。</p>
+<p>中石油要求，在干部选拔任用、人员调入、工作入职时，组织填写配偶、直系血亲、三代以内旁系血亲及近姻亲关系人信息，防止出现违反任职回避制度情况。</p>
+<p>中石油查处了一些领导人员帮助亲友承揽项目谋取暴利的问题，已查实17件，处分和拟处分22人，包括5名局级干部。</p>
+<p><strong>“靠油吃油”</strong></p>
+<p>中海油回应了中央巡视组提出的“2003年以来40名科级以上干部离职办公司、贴着海油做生意”的问题。</p>
+<p>该公司认为，这反应了依托公司资源谋取私利现象比较普遍的问题。</p>
+<p>中海油表示，针对此案件核查对象共涉及七家单位41名人员，调查内容包括，离职后所办公司或任职公司是否在公司的供应商库；是否与公司所属单位存在同业竞争；2010年至2014年间与公司业务往来的内容及金额等。中海油认为调查发现的问题包括：有的干部离职后所任职的公司，与原单位发生业务往来较多，且多数合同采取议标而非公开招投标。有的干部离职后所任职的公司，与中海油发生大量业务往来。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中央纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%9F%B3%E6%B2%B9/?category=18271" rel="tag">中石油</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">党纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%AC%BE%E5%90%83%E5%96%9D/?category=18271" rel="tag">公款吃喝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E8%BE%93%E9%80%81/?category=18271" rel="tag">利益输送</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">政纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 21分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%86%89%E4%BA%91%E9%A3%9E%EF%BC%9A%E5%9D%91%E7%88%B9%E7%9A%84%E5%AD%A9%E5%AD%90%E6%97%A9%E5%B7%B2%E8%A2%AB%E7%88%B9%E5%9D%91-%E8%AE%B2%E8%AE%B2%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BA%AD/" target="cdt-mirror">冉云飞：坑爹的孩子早已被爹坑——讲讲中国家庭的互坑模式</a>
 </h2>
 <p><p><strong>一锅土豆泥是什么状态呢？就是没有界线，没有自我成长空间，父母强力控制子女，而子女又十分依赖父母，前者控制而使后者不独立。</strong></p>
@@ -966,32 +996,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E3%80%8A%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0%E3%80%8B%E6%B2%A1%E4%BA%86%EF%BC%8C%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%96%A7%E5%9A%A3%E9%99%8D%E4%B8%B4/" target="cdt-mirror">宋志标：《媒体札记》没了，孤独的喧嚣降临</a>
-</h2>
-<p><p><strong>来自微信公号：旧闻评论（jiuwenpinglun）</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%8E%E7%8C%AB%E4%B8%BA%E8%88%9E_%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%8E%E7%8C%AB%E4%B8%BA%E8%88%9E_%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA.jpg" alt="与猫为舞_秃头倔人" width="450" height=""></a><br>
-【题图当代水墨《与猫为舞》，作者新浪微博：@秃头倔人】<br><strong><br>
-文／宋志标</strong></p>
-<p>媒体札记的主事人经过小阵子耳语，决定让它停下来。在主笔那里，原因又不多讲。此国媒体事宜，无论好坏都不能明说，一说就有人着急。在此之前，FT中文网负责人去职，紧接着东洋人买了金融时报，这些变动大概也能联系上《媒体札记》的风紧扯呼吧。</p>
-<p>对于一般读者来说，往往是知媒体札记而不知FT中文网。后者在金融政治读者那里，广受欢迎，但是对贩夫走卒还是清高了些。以至于长平在FT中文网上写了那篇给他带来极大麻烦的专栏，一直被爱国者当成是发表在南都上，世间愚钝又搞事的读者不过如此。</p>
-<p>所以也可以这么看，媒体札记的倒掉是继长平之后，FT中文网献给中文媒体世界的又一个“礼物”。在现实的境况下，成全一家媒体清誉与声望的，往往伴随着许多献祭与牺牲。直到有一天，献祭成为非法，而媒体拒绝了牺牲，它们终于无聊致死。</p>
-<p>媒体札记搜罗媒体的材料与声音，冶炼出杂陈的自我形态，而又在众家之说中纠结出自主的线索，以婉约音量放送或暗示给大众。媒体札记是媒体的“榨汁机”，做的是声音的买卖，通过铺陈与对照，让谬论清谈、正声诳语示众，利用声优讲述中国故事。</p>
-<p>显然，媒体札记的生命力，扎根在媒体的多样性中。一个正常的媒体生态方能成全一个永续的媒体札记。没有媒体，也就没有札记。然而到了后来，媒体札记难以为继，除了揣测中的微观上的资本变动，大致也可以讲它体现了日益困窘的媒体生态。</p>
-<p>这些年来来，媒体的困窘是逐步到来的，看得出媒体札记的写作愈发艰难。声音的多元化消失，众议论的规模削减，媒体札记尚能在自媒体中攫取材料；等到声音中一花开来百花残，仅靠在媒体类型的缝隙中腾挪已然不足取，札记迎来死水源头的困顿。</p>
-<p>这么多年，媒体札记立足媒体，而又放眼政治与社会图景，坚持显幽烛隐的固有立场，看似以周全材料养成柔软身段，实际上坚持专有的暗线不动摇。一般读者可以靠札记通览舆情，再有进一步要求的，则可以在它着意保存的声音中做一点政治索隐，实现会心一笑。</p>
-<p>依照个人习惯，一直觉得媒体札记的材料过于繁复，为了表明不偏不倚，会罗列更多的官媒意见，这是札记立场的必须。可是到了后来，随着官媒做大，其官样文章及八股文风入侵札记也多，讲求基本立场而又导致必然的污染，这是媒体札记神农氏般的“中国命运”。</p>
-<p>先不说媒体札记的历史功勋了，要知道新闻史累卵，早已不堪重负了。只说没了媒体札记之后，众声喧哗的文本就此不见，对于那些吸纳信息能力不够周全的读者来说，他们将面临甄别信息品质及解读索隐的困境。他们将在看似热闹但暗藏祸心的舆论中，体会孤独的喧嚣。</p>
-<p>媒体及社会政治的变化，无非是加法与减法。就媒体而言，它遭遇的减法往往涉及真正媒体的属性，而所遇到的加法，越来越将媒体拖向一个不知所以然的“无我之境”。加法的原理与减法的宗旨并非此消彼长，反而令昨是而今非。札记的退场是这个大历史的见证。</p>
-<p>所以，如果不谈这些局面上的趋势，没了媒体札记，最可怜的还是芸芸读者。这种说法少不得为媒体平民主义立场所不屑，此一立场以为媒体乱局迎来的一个解放的时代，但沟通中外舆情、惠及一般人等的媒体札记，却用离场展现了壮美中的诡谲，以及比复杂更直接的损坏。</p>
-<p>2015/9/11</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E3%80%8A%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0%E3%80%8B%E6%B2%A1%E4%BA%86%EF%BC%8C%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%96%A7%E5%9A%A3%E9%99%8D%E4%B8%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0/?category=18271" rel="tag">媒体札记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%BA%BA%E6%B0%91%E4%B8%80%E4%B8%AA%E8%83%B6%E5%B8%A6/?category=18271" rel="tag">给人民一个胶带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1003,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1013,5 +1017,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3tu0qknuf06pa.cloudfront.net">https://d3tu0qknuf06pa.cloudfront.net</a><br/><a href="https://d2kvii0ja5ccrs.cloudfront.net">https://d2kvii0ja5ccrs.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d2kvii0ja5ccrs.cloudfront.net">https://d2kvii0ja5ccrs.cloudfront.net</a><br/><a href="https://d3tu0qknuf06pa.cloudfront.net">https://d3tu0qknuf06pa.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/></td>    </tr>
 </table>

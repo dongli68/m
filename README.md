@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://di36khek18loy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3cqa4d5rpn1rj.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://di36khek18loy.cloudfront.net">https://di36khek18loy.cloudfront.net</a><br/><a href="https://d3cqa4d5rpn1rj.cloudfront.net">https://d3cqa4d5rpn1rj.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3cqa4d5rpn1rj.cloudfront.net">https://d3cqa4d5rpn1rj.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://di36khek18loy.cloudfront.net">https://di36khek18loy.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%90%9E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%98%AF%E4%B8%BA%E4%BA%86%E5%AE%9E%E7%8E%B0%E5%85%B1/" target="cdt-mirror">【网络民议】搞中国特色的社会主义是为了实现共产主义</a>
+</h2>
+<p><p>习近平首次做出重大理论表态：搞中国特色的社会主义是为了实现共产主义</p>
+<p>很高兴同大家座谈。我很关注县一级工作。中组部报告说，你们正在中央党校学习，希望我能见见大家。我说，要见面，还要坐下来谈谈，听听大家的学习心得和想法。大家来自改革发展稳定第一线，对真实情况比较了解，谈谈肯定有好处。</p>
+<p>元旦刚刚过去，我先祝大家新年好，也祝全国县委书记和在县里工作的广大党员、干部新年好!大家辛苦了!</p>
+<p>党中央决定举办县委书记研修班，用三年多时间在中央党校把全国二千八百多名县(市、区、旗)委书记轮训一遍。这是一项着眼长远的战略举措。主要目的是帮助县委书记深入学习贯彻党的十八大和十八届三中、四中全会精神，学习中国特色社会主义理论体系，研究县域经济社会发展和党的建设方面的理论和现实问题，用党的理论创新最新成果武装头脑、指导实践、推动工作，培养造就一支高素质县委书记队伍。</p>
+<p>我对县一级职能、运转和县委书记的角色有亲身感悟，刚才听了六位同志的发言，很有感触，脑海里不断浮现我当县委书记时的画面，仿佛回到了三十多年前。我同大家的感受是一样的，就是县委书记这个岗位很重要，官不大，责任不小、压力不小，这个官不好当。</p>
+<p>在我们党的组织结构和国家政权结构中，县一级处在承上启下的关键环节，是发展经济、保障民生、维护稳定、促进国家长治久安的重要基础。古人讲，郡县治，天下安。我国县的建制始于春秋时期，因秦代推进郡县制而得到巩固和发展。两千多年来，县一直是我国国家结构的基本单元，稳定存在至今。</p>
+<p>历朝历代都高度重视县级官员选拔任用。古人早就总结出“宰相起于州部，猛将发于卒伍”这一历史现象。历史上，许多名人志士为官从政是从县一级起步的。北宋政治家王安石，二十七岁担任浙江鄞县(今宁波市鄞州区)知县，任职三年，“治绩大举，民称其德”，为以后革新变法打下了基础。清代郑板桥长期在河南范县、山东潍县担任知县，其诗句“衙斋卧听萧萧竹，疑是民间疾苦声。些小吾曹州县吏，一枝一叶总关情”千古流传。陶渊明、狄仁杰、包拯、海瑞等很多人都当过县令、知县。</p>
+<p>一个县就是一个基本完整的社会，“麻雀虽小，五脏俱全”。现在，县级政权所承担的责任越来越大，需要办的事情越来越多，尤其是在全面建成小康社会、全面深化改革、全面依法治国、全面从严治党进程中起着重要作用。县委书记在干部序列中说起来级别不高，但地位特殊。邓小平同志曾经说：“当好一个县委书记并不容易，要有全面的领导经验，对东西南北中、党政军民学各方面的工作都能抓得起来。”“特别要抓好县委一级，建立一个强有力的县委可是重要啊!军队是团，地方是县，为什么总讲县、团级呀，就是这个道理。”海瑞说：“官之至难者，令也。”说的就是县官难做。</p>
+<p>怎样才能当好县委书记?有的同志在发言中谈到了，要做政治坚定的明白人、绿色发展的铺路石、体察民情的大脚掌、地方团队的领头雁、作风建设的打铁匠，归纳得很好。我一直认为，焦裕禄同志为县委书记树立了榜样。我多次去过兰考县，去年第二批党的群众路线教育实践活动中又去了两次。每每踏上兰考的土地，我的心情都很激动。焦裕禄同志以自己的实际行动塑造了一个优秀共产党员和优秀县委书记的光辉形象。做县委书记，就要做焦裕禄式的县委书记。</p>
+<p>怎样做焦裕禄式的县委书记?有很多角度可以谈，今天，我想从心中有党、心中有民、心中有责、心中有戒四个方面来谈谈这个问题。</p>
+<p>一、当好县委书记，必须始终做到心中有党</p>
+<p>县委是我们党执政兴国的“一线指挥部”，县委书记就是“一线总指挥”。对党忠诚，是县委书记的重要标准。衡量一个县委书记当得怎么样，可以讲很多条，但主要看这一条。“善莫大于作忠。”</p>
+<p>我们县委书记队伍总体是好的，绝大多数同志是值得信赖的。这一点必须明确。同时，也要看到，在县委书记这个岗位上，面临的考验很多很严峻，有改革发展稳定繁重工作的考验，有保障和改善民生突出问题的考验，有形形色色错误思潮的考验，有权力、金钱、美色的考验，有庸俗风气、潜规则的考验，如此等等。特别值得注意的是，县委书记手中掌握着很大权力，所以各种诱惑、算计都冲着你来，各种讨好、捧杀都对着你去，往往会成为“围猎”的对象。很多县远离中心城市，容易让人有“山高皇帝远”的念头，上级监督鞭长莫及。在这样的环境下工作，如果没有对党忠诚作政治上的“定海神针”，就很可能在各种考验面前败下阵来。</p>
+<p>县一级阵地，必须由心中有党、对党忠诚的人坚守。当县委书记，要记住自己是中国共产党的县委书记，是党派你在这里当县委书记的。这个道理很简单，但要时刻牢记于心就不那么简单了。要把牢政治方向，强化组织意识，时刻想到自己是党的人，时刻不忘自己对党应尽的义务和责任，相信组织、依靠组织、服从组织，自觉维护党的团结统一。</p>
+<p>只有理想信念坚定，心中有党、对党忠诚才能有牢固思想基础。理想信念动摇了，那是不可能心中有党的。大家要把学习掌握马克思主义理论作为看家本领，深入学习马克思列宁主义、毛泽东思想，深入学习邓小平理论、“三个代表”重要思想、科学发展观，深入学习十八大以来党的理论创新成果，不断领悟，不断参透，做到学有所得、思有所悟，注重解决好世界观、人生观、价值观这个“总开关”问题，真正做到对马克思主义虔诚而执着、至信而深厚。</p>
+<p>共产主义决不是“土豆烧牛肉”那么简单，不可能唾手可得、一蹴而就，但我们不能因为实现共产主义理想是一个漫长的过程，就认为那是虚无缥缈的海市蜃楼，就不去做一个忠诚的共产党员。革命理想高于天。实现共产主义是我们共产党人的最高理想，而这个最高理想是需要一代又一代人接力奋斗的。如果大家都觉得这是看不见摸不着的东西，没有必要为之奋斗和牺牲，那共产主义就真的永远实现不了了。我们现在坚持和发展中国特色社会主义，就是向着最高理想所进行的实实在在努力。</p>
+<p>更多内容请<a href="http://www.wyzxwk.com/Article/shidai/2015/09/351247.html" target="_blank">点击</a></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/COwv_15U8AAbq89.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/COwv_15U8AAbq89.jpg" alt="巴丢草：包子的共产主义" width="450" height="603"></a><p>巴丢草：包子的共产主义</p></div>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>MerlotN：习包子在未来几年内就是成立个共产党情报局，第四国际，第五国际之类的组织大搞输出革命我也不会太惊讶。</p>
+<p>lijiansion：2000年，南街村党支部书记王宏斌宣布了一个震惊世界的消息:制造永动机！村里买来了三台新的奥迪轿车用于实验，还在村委大院安装上了81盏灯，“恭迎八仙下凡”，保佑研制成功。不幸的是，经过数年研制，投资2000多万，项目最终失败了。#共产主义理想</p>
+<p>lijiansion：2000年，南街村党支部书记王宏斌宣布了一个震惊世界的消息:制造永动机！村里买来了三台新的奥迪轿车用于实验，还在村委大院安装上了81盏灯，“恭迎八仙下凡”，保佑研制成功。不幸的是，经过数年研制，投资2000多万，项目最终失败了。#共产主义理想</p>
+<p>ByhpJerry：你国都要实现共产主义了，股市暴跌没关系，股市是违背共产主义的。把你们赚得钱都给政府才能实现共产主义。</p>
+<p>cnyaoying：包子重要理论，要实现共产主义，还是李嘉诚跑得快，不然都被共产了。</p>
+<p>hnjhj：王岐山说中共合法性来源于历史，是人民的选择，这是完全正确的。但他没有说全，中共丧失合法性亦来源于历史，也是人民的选择。水能载舟亦能覆舟。人民授予统治者合法性，也可以随时随地剥夺。无论如何，讨论合法性的问题是正确方向。</p>
+<p>禹徐山人：【神论：搞中国特色社会主义是为了实现共产主义】你爬树上，大家都知道你是摸鸟蛋，可你非说是逮鱼，有意思吗？</p>
+<p>柳如老巢009：搞中国特色的社会主义是为了实现共产主义，社会主义已经这样了，共产主义能是什么样？别再提什么主义了。来点实实在在的吧，让百姓看得起病、养得起老、买得起房，穷人孩子上得起学，人民活得有尊严。咱只要天赋人权！</p>
+<p>你们呐naive：连教育免费都做不到谈共产主义？党内是共产了物质极大丰富，是建立在剥削13亿人基础上。</p>
+<p>我的名字叫经常改：习总的意思是让那些想着中国真的要成资本主义了的鸟们死心吧！</p>
+<p>ByhpJerry：你国都要实现共产主义了，股市暴跌没关系，股市是违背共产主义的。把你们赚得钱都给政府才能实现共产主义。</p>
+<p>L5d：不是傻瓜，就是骗子。</p>
+<p>laoyang945：那还有多少年能实现呢，实现前是不是习大大就不下来了？</p>
+<p>laoyang945：习大大搞共产主义，那是不是还要加上末世审判啥的？</p>
+<p>mranti：有生之年能在中国看到共产主义实现吗？ #实现之前我肯定逃</p>
+<p>lucyisnice：史上最成功众筹项目：A轮，打下榆林城，一人一个女学生； B轮，打土豪分土地，打江山坐江山； C轮，农村土地合作社，实现共产主义；D轮，人民代表代表人民按需分配……</p>
+<p>yihong9：搞中国特色的社会主义是为了实现共产主义——我想起了一句话：一个人，如果极力宣扬他自己都不相信的东西，那他就是做好了干任何坏事的准备。</p>
+<p>哥本华1：实现共产主义我不敢奢望，能实现县委书记直选我就觉得共产党伟大了，也比实现共产主义更有意义。</p>
+<p>网易微博关闭了：共产主义，原始部族实践过了，不科学，人家已经抛弃了。</p>
+<p>szeyan1220：彭博社的调查说，中共八老子孙103人掠夺1.6万亿美元，每个家族均占2000亿美元，每个成员均占160亿美元。难怪他们念念不忘共产主义！他们总算解释了什么叫共产主义！</p>
+<p>lijiansion：一个苏联人家中总是被偷，于是很郁闷的问邻居：“什么时候我们家的东西才能不被偷？” 邻居：“等到了共产主义社会就不被偷了。” “为什么？” “因为在社会主义阶段就已经被偷光了。</p>
+<p>majunlive：共产主义又来了，恐怖级别已经调到最大值，这已经足够吓人，特别是在共产主义国家待过的人。下一波难民潮不是来自中东叙利亚，一定是中国大陆</p>
+<p>songma：希望别人相信共产主义，是心肠太坏；自己相信共产主义，是智商太低。</p>
+<p>wenyunchao：习包子的集权果然是为了启动政改—-不过是相反方向：共产主义。</p>
+<p>hnjhj：得赶紧移民了，上次搞共产主义死了好几千万呢。</p>
+<p>yudashi1：【前苏联段子】 列宁有一次发表演讲：“共产主义已经出现在地平线上。”台下有个工人问身边的教授：“什么是地平线？” 教授说：“地平线是一条假想的线，天和地在那里相接，但是当你走近它时，你就会发现它会离开你，然后又出现在远方。”</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%90%9E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%98%AF%E4%B8%BA%E4%BA%86%E5%AE%9E%E7%8E%B0%E5%85%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">三个代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%8C%AA%E7%A7%BB-2/" target="cdt-mirror">温克坚：解读李嘉诚资产大挪移</a>
 </h2>
 <p><p>在香港政经敏感时刻，李嘉诚频繁的资产挪移自然引起各种猜测，有论者认为李嘉诚正在“卖空中国”“脱亚入欧”，因为李嘉诚看到香港政治气氛的变化，也看到了大陆政治和政策的不确定性，因此把资产转移到更安全区域，为最终的财富交棒做准备。也有论者认为这只是李嘉诚展示其全球配置资源的商业才能。大陆和香港资产泡沫化程度严重，而相比较来说，欧洲资产价格处于低位，通过高卖低买，李嘉诚正在实现其财富帝国的再一次跃升。</p>
@@ -905,30 +961,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%81%94%E5%8A%9E%E5%BC%A0%E6%99%93%E6%98%8E%EF%BC%9A%E7%89%B9%E9%A6%96%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6%E4%BA%8E%E4%B8%89%E6%9D%83/" target="cdt-mirror">BBC｜香港中联办张晓明：特首地位超然于三权</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BC%A0%E6%99%93%E6%98%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BC%A0%E6%99%93%E6%98%8E.jpg" alt="张晓明" width="575" height="323"></a><p>香港中联办主任张晓明指行政长官拥有行政、立法、司法之上的特殊地位（资料照片）。</p></div>
-<p><strong>香港中联办主任张晓明周六（9月12日）出席一个基本法研讨会，会上致词指行政长官拥有行政、立法、司法之上的特殊地位，而且香港不实行三权分立。</strong></p>
-<p>张晓明说：“行政长官具有超然于行政、立法、司法三个机关之上的特殊法律地位，处于特别行政区全力运行的核心位置，在中央政府之下，特别行政区的三权之上，启着连接的枢纽的作用，这是行政长官履行对中央人民政府负的责任所必需的，也是中央对特别行政区管治所必需的。”</p>
-<p>张晓明指特首具有双首长身分，双负责制的责任，所以在三权之上。另外，他指三权分立只建立在主权国家，而香港不是主权国家，所以最多只能用作参考，不能完全适用。</p>
-<p>公民党法律界议员郭荣铿对BBC中文网说，他对张晓明的言论感到十分失望。郭荣铿说：“我从来没有听过特首在三权之上的说法。明显地，张晓明不了解他的工作、不理解香港的制度……我认为他应该回去读书，学习基本法及一国两制。”</p>
-<p>有份撰写《一国两制白皮书》的北京大学港澳研究中心执行主任强世功，在同一场合，质疑一国两制是否不合时宜。</p>
-<p>时事评论员、前公务员事务局局长王永平接受BBC中文网访问说，不理解张晓明的言论。“香港所谓三权的权责，在基本法列明，我们就按照基本法办事。”</p>
-<p>王永平指出，以基本法第七十三条（九）为例，立法会有权力弹劾特首，假如成功的话，可建议中央政府处理。所以，基本法之下，特首受到立法会的制衡。</p>
-<p>郭荣铿说：“香港法院一再指明，香港实行三权分立，香港的行政、立法、司法机关运行分立及平等的权力。”他指，立法制衡行政机关的权力；司法机关确保行政机关的决定合法，所以才有司法复核。</p>
-<p>张晓明并非首个提及香港并非实行三权分立言论的内地官员。2008年，习近平担任国家副主席访港，与特区主要官员、当时的立法会主席范徐丽泰及终审法院首席法官李国能会面时，曾发表“三权合作论”，指出行政、立法、司法机关要“互相理解，互相支持”。</p>
-<p>2013年，中联办宣传文体部部长郝铁川亦曾撰文，指香港政治体制不是三权分立。</p>
-<p>（撰稿：蔡晓颖　责编：萧尔）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%81%94%E5%8A%9E%E5%BC%A0%E6%99%93%E6%98%8E%EF%BC%9A%E7%89%B9%E9%A6%96%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6%E4%BA%8E%E4%B8%89%E6%9D%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%81%94%E5%8A%9E/?category=18271" rel="tag">中联办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%99%93%E6%98%8E/?category=18271" rel="tag">张晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96/?category=18271" rel="tag">香港特首</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -940,7 +972,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://di36khek18loy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -950,5 +982,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://di36khek18loy.cloudfront.net">https://di36khek18loy.cloudfront.net</a><br/><a href="https://d3cqa4d5rpn1rj.cloudfront.net">https://d3cqa4d5rpn1rj.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://di36khek18loy.cloudfront.net">https://di36khek18loy.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d3cqa4d5rpn1rj.cloudfront.net">https://d3cqa4d5rpn1rj.cloudfront.net</a><br/></td>    </tr>
 </table>

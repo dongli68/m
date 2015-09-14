@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zlltu0xedgvr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d3nliir3niep29.cloudfront.net">https://d3nliir3niep29.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d2zlltu0xedgvr.cloudfront.net">https://d2zlltu0xedgvr.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2zlltu0xedgvr.cloudfront.net">https://d2zlltu0xedgvr.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d3nliir3niep29.cloudfront.net">https://d3nliir3niep29.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E8%BD%A6%E7%A5%B8%E5%90%8E%E4%BB%A4%E8%AE%A1%E5%88%92%E5%8F%8D%E5%B8%B8%E4%B8%BE%E5%8A%A8%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%88%86/" target="cdt-mirror">中国茉莉花革命｜车祸后令计划反常举动的深度分析</a>
@@ -51,7 +51,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%B0%B7/?category=18271" rel="tag">令谷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%BB%BA/?category=18271" rel="tag">马建</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%E5%87%BA%E5%A4%A7%E4%BA%8B%E6%95%85-%E5%A4%A7%E8%A3%81%E5%86%9B%E9%85%BF%E5%A4%A7%E9%BA%BB%E7%83%A6/" target="cdt-mirror">法广｜大阅兵出大事故 大裁军酿大麻烦</a>
 </h2>
@@ -967,7 +967,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2zlltu0xedgvr.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -977,5 +977,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d2zlltu0xedgvr.cloudfront.net">https://d2zlltu0xedgvr.cloudfront.net</a><br/><a href="https://d3nliir3niep29.cloudfront.net">https://d3nliir3niep29.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d2zlltu0xedgvr.cloudfront.net">https://d2zlltu0xedgvr.cloudfront.net</a><br/><a href="https://d3nliir3niep29.cloudfront.net">https://d3nliir3niep29.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
 </table>

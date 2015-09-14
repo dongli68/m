@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2m242v9wv4xvy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d5rinv59d7m5y.cloudfront.net">https://d5rinv59d7m5y.cloudfront.net</a><br/><a href="https://d2bcxc7b2ftxoa.cloudfront.net">https://d2bcxc7b2ftxoa.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://d5rinv59d7m5y.cloudfront.net">https://d5rinv59d7m5y.cloudfront.net</a><br/><a href="https://d2bcxc7b2ftxoa.cloudfront.net">https://d2bcxc7b2ftxoa.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%EF%BD%9C%E9%A6%96%E9%96%B1%E5%85%B5%E7%BF%92%E8%BF%91%E5%B9%B3%E3%80%8C%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A6%AE%E3%80%8D%E7%B6%B2%E5%8F%8B/" target="cdt-mirror">【CDTV】中天新聞｜首閱兵習近平「左手敬禮」網友熱議</a>
@@ -996,7 +996,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2m242v9wv4xvy.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1006,5 +1006,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
                 <td></td>
                 
         
-        <td><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d5rinv59d7m5y.cloudfront.net">https://d5rinv59d7m5y.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2bcxc7b2ftxoa.cloudfront.net">https://d2bcxc7b2ftxoa.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d5rinv59d7m5y.cloudfront.net">https://d5rinv59d7m5y.cloudfront.net</a><br/><a href="https://d2bcxc7b2ftxoa.cloudfront.net">https://d2bcxc7b2ftxoa.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/></td>    </tr>
 </table>

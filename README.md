@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d249fzq2lf5pt8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2kvii0ja5ccrs.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/><a href="https://d3tu0qknuf06pa.cloudfront.net">https://d3tu0qknuf06pa.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2kvii0ja5ccrs.cloudfront.net">https://d2kvii0ja5ccrs.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2kvii0ja5ccrs.cloudfront.net">https://d2kvii0ja5ccrs.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/><a href="https://d3tu0qknuf06pa.cloudfront.net">https://d3tu0qknuf06pa.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/" target="cdt-mirror">BBC | 中国反腐败：“近亲繁殖”成国企巡视高频词</a>
@@ -52,7 +52,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中央纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%9F%B3%E6%B2%B9/?category=18271" rel="tag">中石油</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">党纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%AC%BE%E5%90%83%E5%96%9D/?category=18271" rel="tag">公款吃喝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E8%BE%93%E9%80%81/?category=18271" rel="tag">利益输送</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">政纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 26分钟前</small>
+	<small> ============== 1小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%86%89%E4%BA%91%E9%A3%9E%EF%BC%9A%E5%9D%91%E7%88%B9%E7%9A%84%E5%AD%A9%E5%AD%90%E6%97%A9%E5%B7%B2%E8%A2%AB%E7%88%B9%E5%9D%91-%E8%AE%B2%E8%AE%B2%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BA%AD/" target="cdt-mirror">冉云飞：坑爹的孩子早已被爹坑——讲讲中国家庭的互坑模式</a>
 </h2>
@@ -1007,7 +1007,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tu0qknuf06pa.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1017,5 +1017,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d3tu0qknuf06pa.cloudfront.net">https://d3tu0qknuf06pa.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d2kvii0ja5ccrs.cloudfront.net">https://d2kvii0ja5ccrs.cloudfront.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/><a href="https://d2kvii0ja5ccrs.cloudfront.net">https://d2kvii0ja5ccrs.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3tu0qknuf06pa.cloudfront.net">https://d3tu0qknuf06pa.cloudfront.net</a><br/></td>    </tr>
 </table>

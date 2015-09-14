@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgz9reebm7pvf.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,104 @@
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dgz9reebm7pvf.cloudfront.net">https://dgz9reebm7pvf.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgz9reebm7pvf.cloudfront.net">https://dgz9reebm7pvf.cloudfront.net</a><br/><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%8C%AA%E7%A7%BB-2/" target="cdt-mirror">温克坚：解读李嘉诚资产大挪移</a>
+</h2>
+<p><p>在香港政经敏感时刻，李嘉诚频繁的资产挪移自然引起各种猜测，有论者认为李嘉诚正在“卖空中国”“脱亚入欧”，因为李嘉诚看到香港政治气氛的变化，也看到了大陆政治和政策的不确定性，因此把资产转移到更安全区域，为最终的财富交棒做准备。也有论者认为这只是李嘉诚展示其全球配置资源的商业才能。大陆和香港资产泡沫化程度严重，而相比较来说，欧洲资产价格处于低位，通过高卖低买，李嘉诚正在实现其财富帝国的再一次跃升。</p>
+<p>这两种解释各有其道理，但真正准确的动因，恐怕只有李嘉诚身边核心圈子才能知晓，外人只是猜测和附会。不过种种猜测本身反映了流行的社会认知，因此有其独立存在的价值。</p>
+<p>笔者留意过李嘉诚的言行轨迹（但谈不上有任何研究），一个比较中庸的猜测是，李嘉诚让人眼花缭乱的商业运作，不会只遵循一个逻辑。作为一个商业帝国的掌舵者，看到有商业机会，就像猎人见猎心喜一样，他自然是要下手的，因此商业逻辑自然是重要的驱动力。但以李氏掌握的庞大商业帝国，他在华人政治圈举足轻重的地位（他多次被政经类杂志评为亚洲最有影响力的人物），政治逻辑肯定也是李的重要考量。李嘉诚不可能像某些小商人那样逃避政治，也不可能像某些小商人那样把赌注压在某个政治人物身上，他多层次跨区域的商业利益需要他分析社会和国家风险，观望政治气候，评估政治走势，在不同的政治罗盘中安全下注，做好风险对冲机制，引导政治规则为商业服务，确保他的商业帝国不会撞上政治冰山。正是这种非同一般的商业才能和政治智慧的结合，才使得李嘉诚逢凶化吉，笑傲江湖，成就华人商界传奇。</p>
+<p>李嘉诚的商业和政治运作才能已经不需要赘述，但如果把李嘉诚的成功仅仅归因于他的个人能力，显然也是片面的，香港公平稳定的法治体系、高效廉洁的行政系统、高度自由的经济体、独特的区位优势都是成就李超人的基础。这些因素是李嘉诚商业帝国的底盘，是香港经济繁荣的制度基础。这种制度基础孕育了一个以李嘉诚为代表的富豪阶层，同李嘉诚家族相类似，位列2013 年香港富豪榜单前十位香港富豪群体，包括李兆基、郭炳江、郭炳联家族、郑裕彤家族、吴光正家族、刘銮雄、冯国经冯国纶兄弟都保持着财富长期而稳定的增长，总体来说，这些富豪群体保持着适度、积极的公共形象。</p>
+<p>基于这种制度背景，李嘉诚的资产转移过程自然具有可供人们猜测的多种特征。李嘉诚可以利用香港国际化的资本市场，发达的中介服务，自由而及时的媒体资讯，从容地展现他的财技，高效率的组合拆分资产，在大陆、香港和欧洲之间来回腾挪旗下资产。这些操作不必经过任何行政许可，不必受制于任何官僚机构的脸色。即使李嘉诚真正的动机是不满香港政制前景，因而用脚投票脱亚入欧，这个过程也可以优雅从容，游刃有余，表面看起来就像一个完全正常的商业行为。</p>
+<p>作为对比，李嘉诚的大陆同行们的境遇显然不可同日而语。</p>
+<p>大陆30多年的经济发展同样造就了很多超级富豪，各种版本的财富榜单颇为夺人眼球。不过社会大众形成的刻板印象是，这个财富积聚过程充满了各种灰色交易，富豪们不得不承受“原罪”的道德压力。而另一方面，在和权力的勾兑和碰撞过程中，富豪们的财富和人身自由往往处在危险当中，当他们不得不通过用脚投票来规避风险的时候，也往往是一个慌不择路狼狈不堪的过程。</p>
+<p>今日公众已经不甚知晓的牟其中，是第一个获得首富桂冠的企业家，他的视野，格局和想象力，貌似不在任何人之下，了解牟其中的很多论者都会感慨，如果经济环境更加规范和友好一些，以牟其中的才华，未必就不能成为大陆版的李嘉诚。但牟其中最终命运是锒铛入狱，至今还在武汉某监狱服刑，江湖上留下的只有他的零星传说。</p>
+<p>像牟其中这样，经历辉煌而又快速湮灭的富豪名单随便就可以列出一长串，杨斌、仰融、唐万新、黄光裕、周正毅、张荣坤、徐明等等就是其中最具知名度的，这些富豪坠落的轨迹，是畸形而凶险的市场环境最好的注解。这其中，仰融的故事尤其有几分悲情色彩，他曾经位列福布斯富豪榜第三名，是当年汽车界响当当的人物，不过很快陷入和辽宁政府的产权冲突中，面对地方政府的强势，各种公关和司法救济最终都归于失败，仰融最终选择用脚投票，出走美国。如今身陷囹圄的薄熙来就曾经是仰融的主要对手之一。</p>
+<p>李嘉诚的行为对大陆富豪无疑有重要的风向标作用，王石先生就曾经通过微博警示大陆同行注意这种信号，但很多企业家在理解李嘉诚的行为时，往往会犯情境混淆的错误，忘记了大陆和香港其实处在两个完全不同的情境。</p>
+<p>宗馥莉是大陆前首富宗庆后的女儿和娃哈哈集团的接班人，大概厌烦于和政府机构的交道，宗馥莉在某个场合回应记者时，本能的反应是，“李嘉诚都已经搬出去了，为什么我以后不可能搬出去呢？”</p>
+<p>宗小姐的直率和自信让人欣赏。仅从财富数字比较，宗氏家族的财富已经和李嘉诚相差不远，但宗小姐显然没有充分意识到两个商业环境的巨大差异。事实上，像娃哈哈这样的优质企业，当年想要上市都不得其门。真要把庞大的娃哈哈集团搬出中国，谈何容易？如果娃哈哈准备撤离中国，那么父爱主义面孔的政府快速变脸将是可以预见的，现有的各种税收优惠政策照应很快能变成不可逾越的鸿沟。宗氏父女即使通过出售股权来套现，也会面临很多不确定性。当年可口可乐收购汇源果汁，就因为商务部的干预，节外生枝而功败垂成。江苏徐工集团出售过程也表明民族情绪和竞争对手随时能构建各种暗礁。</p>
+<p>因此，对那些选择移民的普通中产阶级，“用脚投票”也许还只是程序繁琐的问题，而对超级富豪们来说，“用脚投票”过程如同穿越地雷阵，民族情绪和各种政治拷问会如影随影折磨着资产转移的过程。写到这里，想起柳传志“在商言商”的告诫引发的商人和政治关系的各种讨论，如果对照现实情景，这种告诫要么是别有用心，要么是自欺欺人。在目前局促的政治空间中，“在商言商”这种奢侈物件，是大陆富豪们消费不起的。在这个意义上，李嘉诚比他的大陆同行们多了一张不可替代的大牌，这张牌让他可以把商业逻辑和政治考虑完美地桥接起来。</p>
+<p>不过历史因缘际会，香港政制正在往前走，而大陆的体制性张力也在积累中，未来香港和大陆的命运会更多地交织在一起，李嘉诚和大陆富豪们都得面对越来越趋同的情境，商业逻辑和政治逻辑各自如何展开，彼此如何相互塑造，将是更为精彩的故事。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%8C%AA%E7%A7%BB-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1/?category=18271" rel="tag">刻板印象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E7%95%8C/?category=18271" rel="tag">商界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%AF%8C%E8%B1%AA/?category=18271" rel="tag">大陆富豪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">香港经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF-%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E7%9A%84346%E5%A4%A9%E7%89%A2%E7%8B%B1%E7%94%9F%E6%B4%BB/" target="cdt-mirror">法广 | 记者刘虎的346天牢狱生活</a>
+</h2>
+<p><p><strong>昨天（9月10日），记者刘虎从北京市东城区检察院一名检察官手里拿到了《不起诉决定书》。根据刘虎的转述，宣读完不起诉决定书后，检察官个人表示，希望刘虎还能在本职工作中对社会做出贡献。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%98%E8%99%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%98%E8%99%8E.jpg" alt="刘虎" width="550" height="388"></a></p>
+<p>作为重度网络使用者的他，很快将它拍照贴到微博和微信朋友圈里，他也很快收获了来自四面八方的祝贺。</p>
+<p>这距离刘虎在2013年8月23日，被从重庆家中带走带往北京关押已经有两年；从第二天8月24日凌晨被刑事拘留，到2014年8月3日，以取保候审身份暂时走出牢狱大门，刘虎被警方关押了346天。</p>
+<p>虽然有同行“真金不怕火炼”的赞扬，但只因为发帖就被投入牢狱失去自由一年，仍令人深感心有余悸。</p>
+<p>刘虎对记者回忆，“2013年8月23日中午11点多，当时有人敲我家门，说楼上有漏水，要检查一下。我开了门，他们来了14、15人，进来后，就把我控制了，出示了强制传唤的文件。我当时是戴着手铐走的，直接到了重庆市北部新区相关部门的审讯室。”</p>
+<p>“到了公安局后，他们开始审讯我，主要是关于我对官员的举报，提到了马正其、宋林、杜航伟、崔亚东等。问我为什么发微博，我的信息从哪来的。我就如实讲了，他们让我认罪认错。不然就要带我回去（北京）。”</p>
+<p>刘虎自认无罪可认，审讯一直持续到凌晨。</p>
+<p>8月24日凌晨1点，北京来的警员宣布，对刘虎的强制传唤转为了刑事拘留，更换预审警官后，审讯一直持续到凌晨。</p>
+<p>刘虎疲惫不已，但警员用矿泉水瓶把他捅醒，继续审讯。刘虎被带走时，穿着短袖的家居服，警员把空调调成最低的21度，他在审讯室勉强睡了一个小时就被冻醒，警察继续审问。</p>
+<p>第二天，刘虎被以火车押解前往北京，警方包租了一间软卧车厢。办案警员准备了笔记本电脑和便携式打印机，一路上多次讯问刘虎。</p>
+<p>后面来看，北京警方目的应该是在会见律师前突破，获得刘虎的认罪口供，但并不顺利。</p>
+<p>抵达北京后，刘虎送往北京市第一看守所，这是一家市属看守所，主要用于羁押重犯。<br>
+刘虎所在的监室是警方提前选定的一看的“文明号”，这一监室有两名警方安排的犯人，他们虽然已经进入法院判决阶段，但没有按惯例更换监室，被监所要求协助对刘虎的管制。</p>
+<p>监室很拥挤，少的时候也有十二三个人，多的时候有十八人，所有人睡一个大通铺，人多的时候，有人就得睡地上。</p>
+<p>刘虎回忆，虽然同监室的许多都是犯有命案的重犯，但他们对刘虎颇为尊重———两位“牢头”可以睡最好的位置———靠近门口的一二号位，刘虎可以睡三号位，他倒是从来没有睡过地上，也没有挨打。</p>
+<p>为了给刘虎施加压力，也阻断他的信息来源，刘虎在一看羁押几个月内，他所在监室里停止了每天组织收看央视《新闻联播》的惯例，原本每个监仓都有的《北京日报》也不见踪影。</p>
+<p>这同监室的嫌犯们叫苦不迭，纷纷表示希望他赶紧离开。</p>
+<p>刘虎入监所之后，外界展开了声势不小的声援运动，许多热心人来到北京一看，给他的账号存钱，让他可以在里面买点零食加餐。根据监所常规，他每次都会收到通知。<br>
+知道有他不认识的人存钱，令他斗志更加坚定，但监所方面觉得压力不小，后来临时改变规则，不允许非直系亲属之外的人给他存钱，甚至连刘虎的律师周泽给他存钱也不被许可。</p>
+<p>北京一看伙食很糟糕，一天标准只有八元，因此，几乎每天都是没有油水的素菜和大米或者馒头。</p>
+<p>北京一看里也有穆斯林，但监所懒得专门开清真伙食，于是所有人饮食被迫清真化，伙食中不提供猪肉，将近十天才会有一些土豆烧牛肉一类的荤菜。</p>
+<p>刘虎被关押346多天后出狱，他的体重从145减到了115，足足减了30斤。</p>
+<p>刘虎一年牢狱生活的最主要经历就是漫长的审问。</p>
+<p>刘虎进入一看后，被警方密集提审，次数高达七十多次，最长的时间长达十一个小时，许多突审被安排在夜间，他多次提出抗议后，审讯才被安排到白天。</p>
+<p>北京警方从他重庆家中取走了他从业十几年积累下来的采访本，组成了据说有上百人的专案组，分赴各地，找到他历年来采访过的当事人，主要问是否给过刘虎金钱等，希望以此作为突破口，将其入罪。</p>
+<p>警方提供给检察院的起诉监狱书称，刘虎涉嫌“诽谤罪”、“敲诈勒索罪”和“寻衅滋事罪”三项罪名。</p>
+<p>刘虎回忆，办案警员“为了跟我聊，专门去补习了记者的知识，了解新闻业的情况，还跟我讲魏巍、穆青这类人，希望我学习他们。”<br>
+警员让刘虎，“做一些对人民有意义的事情，但不应该以这种方式来发布这些信息。”</p>
+<p>刘虎回忆，警方讯问者极力对他许诺，认罪即可缓刑、轻判，甚至不起诉，但他都没有松口认罪。</p>
+<p>每次讯问时，甚至包括警方闯入他家时，都有摄像机全程录像。现在来看，如果他一旦认罪，这些视频将很快被剪辑成新闻片段，在央视播出。</p>
+<p>当然，警方告诉他的说法是，只要他认罪，这些视频将交给“领导”审阅，他很快就可以“从轻发落”。</p>
+<p>刘虎回忆说，当警察警告他，如果他不肯认罪，将会被重判数年，他出狱之后也将一无所有，他的家人也会“离他而去。</p>
+<p>刘虎告诉记者，这是“我觉得最软弱无助的时候。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF-%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E7%9A%84346%E5%A4%A9%E7%89%A2%E7%8B%B1%E7%94%9F%E6%B4%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC/?category=18271" rel="tag">关押</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99/?category=18271" rel="tag">刑事拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E/?category=18271" rel="tag">刘虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BD%E8%B0%A4%E7%BD%AA/?category=18271" rel="tag">诽谤罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B3%95%E5%AE%9A%E5%B8%A6%E8%96%AA%E5%81%87%E5%93%AA%E5%84%BF%E5%8E%BB%E4%BA%86%EF%BC%9F/" target="cdt-mirror">纽约时报 | 中国人的法定带薪假哪儿去了？</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%B8%A6%E8%96%AA%E5%81%87%E6%9C%9F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%B8%A6%E8%96%AA%E5%81%87%E6%9C%9F.jpg" alt="广东中山的一家工厂，工人在制作罩布和帘子。" width="597" height="397"></a><p>广东中山的一家工厂，工人在制作罩布和帘子。</p></div>
+<p>上周六，<a href="http://www.worldleisure.org/" target="_blank" rel="nofollow">世界休闲体育大会(World Leisure Games)</a>在中国港口城市青岛召开，2400名市民载歌载舞，展现中国的<a href="http://cn.nytimes.com/china/20150325/c25dancing/" target="_blank" rel="nofollow">广场舞风俗</a>。但实际上在这个国家，大多数人没有或者无法享受带薪年假——尽管他们拥有这样的权利。</p>
+<p>虽然宪法规定所有劳动者都拥有“休息”的权利，而且《劳动法》也规定了带薪休假的权利，但新华网<a href="http://news.xinhuanet.com/politics/2015-08/17/c_128136614.htm" target="_blank" rel="nofollow">近日刊文称</a>，中国逾72%的人在过去三年里没有休过带薪年假。</p>
+<p>在过去的三年里，只有不到14%的中国工人休过一次带薪假期，而休过三次假的人数略低于8%。</p>
+<p>新华网的这篇文章总结了一项在线调查的结果。它显示，不休假的原因包括：“不敢”(22%)、“没有时间”(22%)，或者“会影响自己未来的发展”（近10%）。</p>
+<p>最有可能休带薪假的是政府官员、国有企业员工，以及外企员工。而中国的私营公司，尤其是规模较小的企业，为员工提供带薪假的状况是最差的，新华网的文章称。</p>
+<p>中国宪法第一条写道，中国是“工人阶级领导的”社会主义国家。但是，自70年代末以市场为导向的改革全面铺开以来，工人一直很难维护自己的权利，法律保护薄弱也是一个原因。</p>
+<p>上周三，在中国东北城市沈阳，一家火锅店的工人在<a href="http://politics.caijing.com.cn/20150910/3965151.shtml" target="_blank" rel="nofollow">向老板磕头</a>，高喊：“感谢老总，给我工作!”</p>
+<p>官员们看似在担心员工的工作时间太长——但是，从国务院上月发布的<a href="http://www.gov.cn/zhengce/content/2015-08/11/content_10075.htm" target="_blank" rel="nofollow">公告</a>来看，他们主要是希望更多的休息时间，可以转化为旅游消费，在中国经济增长放缓之际发挥刺激作用。</p>
+<p>这份公告名为《国务院办公厅关于进一步促进旅游投资和消费的若干意见》，提倡<a href="http://www.gov.cn/zhengce/content/2015-08/11/content_10075.htm" target="_blank" rel="nofollow">每个周末休两天半</a>。</p>
+<p>根据2008年生效的一项<a href="http://www.ilo.org/dyn/travail/docs/372/Regulations%20on%20Paid%20Annual%20Leave%20for%20Employees%20-%20www.junhe.com.pdf" target="_blank" rel="nofollow">国务院条例</a>，中国所有职工工龄满10年后，有权享有5天带薪年假。10到20年工龄可以休10天，工龄达到20年可以休15天。</p>
+<p>该条例的第1条也明确表示，政府认为，为了让工人更加努力地工作，休息是必要的。条例中写道，之所以制定条例，是“为了维护职工休息休假权利，调动职工工作积极性”。</p>
+<p>如果你了解<a href="http://www.cddc.vt.edu/sionline/si/leisure.html" target="_blank" rel="nofollow">“情境主义者”</a>(Situationists)，可能会觉得这种逻辑很熟悉。那是1960年代，欧洲在马克思主义的影响下兴起的一场运动。其成员认为，休闲的概念意在催生“强制消费”，它是资本主义体制的一部分，意图是将工人的空闲时间也转变为商品，作为对其丧失真正自由的“补偿”，销售给工人。“休闲就是工作，”该运动声称。</p>
+<p>世界休闲体育大会每五年举行一次，由世界休闲组织(World Leisure Organization)主办。该组织1952年在纽约创立，初衷是担心工业化和城市化让人们无法在安全、干净的场所开展休闲活动。今年的大会获得了中国国家旅游局和中国旅游协会的支持，共举行了17项比赛，包括钓鱼、高尔夫、海游、自行车骑行和武术等。</p>
+<div>
+<p>狄雨霏(Didi Kirsten Tatlow)是《纽约时报》驻京记者。</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B3%95%E5%AE%9A%E5%B8%A6%E8%96%AA%E5%81%87%E5%93%AA%E5%84%BF%E5%8E%BB%E4%BA%86%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA/?category=18271" rel="tag">中国工人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%91%E5%81%87/?category=18271" rel="tag">休假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">劳工权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87/?category=18271" rel="tag">带薪休假</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/" target="cdt-mirror">BBC | 中国反腐败：“近亲繁殖”成国企巡视高频词</a>
 </h2>
 <p><p><strong>中共中央纪委监察部网站周日（9月13日）至周一（14日）连续发布中国三家大型国有企业中国海洋石油总公司（中海油）、中国石油天然气集团公司（中石油）中国东方电气集团（东方电气）的专项巡视整改报告。</strong></p>
@@ -160,7 +255,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%B0%B7/?category=18271" rel="tag">令谷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%BB%BA/?category=18271" rel="tag">马建</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%E5%87%BA%E5%A4%A7%E4%BA%8B%E6%95%85-%E5%A4%A7%E8%A3%81%E5%86%9B%E9%85%BF%E5%A4%A7%E9%BA%BB%E7%83%A6/" target="cdt-mirror">法广｜大阅兵出大事故 大裁军酿大麻烦</a>
 </h2>
@@ -834,168 +929,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E6%91%84%E5%BD%B1%E5%B8%88%E6%8A%95%E8%AF%89%E5%A4%AE%E8%A7%86%E7%9B%97%E7%94%A8%E5%85%B6%E7%B4%A0%E6%9D%90%E5%8D%B4%E8%A2%AB/" target="cdt-mirror">知乎｜如何看待「投诉央视盗用素材被告知：用了又怎样」？</a>
-</h2>
-<p><p><strong>问题：如何看待「摄影师投诉央视盗用其素材却被告知：用了又怎样」事件？</strong></p>
-<p>链接在这里，<a href="http://weibo.com/p/1001603885541329366022" target="_blank" rel="nofollow noreferrer">我被央视CCTV-7台盗用延时摄影素材，却被告知：“央视用你素材又怎么了？” （内附录音）<i></i></a></p>
-<p>9月11日作者追加说明：<br><a href="http://weibo.com/p/1001603885955378471271" target="_blank" rel="nofollow noreferrer">为什么我这次这么气愤要坚持到底？因为这一个月已经发现四起素材盗用事件了。<i></i></a></p>
-<p>相关问题：<a href="http://www.zhihu.com/question/35523744">如何看待摄影师王源宗指 CCTV-7 盗用其作品《西藏星空》一事？ – 法律</a></p>
-<p>相关问题：<a href="http://www.zhihu.com/question/35539700">如何从“央视盗用王源宗素材事件”看事件营销手法？ – 市场营销</a></p>
-<h2><a href="http://www.zhihu.com/people/zhang-zi-zheng">张子正：</a></h2>
-<p> <br>
-很怀疑央视还有多少这样的拿着国家的钱，乘着国家车去各个地方拍照取景，最后却上淘宝买素材的人。</p>
-<h2><strong>匿名用户：</strong></h2>
-<p> <br>
-老子在城里下馆子都不要钱，别说吃你几个烂西瓜。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/41404146a23538d275983a3ace290c42_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/41404146a23538d275983a3ace290c42_b.jpg" alt="41404146a23538d275983a3ace290c42_b" width="450" height=""></a></p>
-<h2><strong><a href="http://www.zhihu.com/people/gu-che-dan" data-tip="p$t$gu-che-dan">顾扯淡：</a></strong></h2>
-<p> <br>
-音频听得各种机关办事的既视感，首先人家肯定故意的，说实习生不懂法没文化的还是太善良。真以为谁都能进央视？</p>
-<p>这种就是套路，一听是没背景来找碴的，不管谁上来就先盘问你一遍，问东问西全问清楚了，然后再告诉你这事他解决不了，换一个人又重复这步骤，如此反复。你说我是XX企业有广告业务要找谁谁看他还这么说不。</p>
-<p>你在那边干着急生气，他反正是工作时间有钱拿不怕你耗，不管结果如何先把你耐心磨光。你一生气，万一憋不住发火了，人家就挑到错了，诸如你怎么不讲道理，我们这是按照正规流程，一吵的话你有理变没理，就算不吵时间精力也被耗光，只想快点把事情了结。</p>
-<p>目的是等大点领导出来态度稍微好些你就觉得到底是领导怎么人品这么好，下面零时工素质真差劲，本来要赔偿的，没准变成只要道歉就觉得自己赚到了。</p>
-<p>老实说个人对后续摄影师要求十万的赔偿不是特别看好，毕竟我国版权意识比较淡薄，央视这种事情干的太多，尤其配乐插曲部分是重灾区，央视不在乎这十万块，可万一开了口子，以后形成判例一堆外国公司找上门对央视而言就麻烦大了。</p>
-<p>弄得不好央视会扯《中华人民共和国著作权法》，重点是二十二条的一和七</p>
-<blockquote><p>第二十二条　在下列情况下使用作品，<b>可以不经著作权人许可，不向其支付报酬</b>，但应当指明作者姓名、作品名称，并且不得侵犯著作权人依照本法享有的其他权利：</p>
-<p>（一）为个人学习、研究或者欣赏，使用他人已经发表的作品；<br>
-（二）为介绍、评论某一作品或者说明某一问题，在作品中适当引用他人已经发表的作品；<br>
-（三）为报道时事新闻，在报纸、期刊、广播电台、电视台等媒体中不可避免地再现或者引用已经发表的作品；<br>
-（四）报纸、期刊、广播电台、电视台等媒体刊登或者播放其他报纸、期刊、广播电台、电视台等媒体已经发表的关于政治、经济、宗教问题的时事性文章，但作者声明不许刊登、播放的除外；<br>
-（五）报纸、期刊、广播电台、电视台等媒体刊登或者播放在公众集会上发表的讲话，但作者声明不许刊登、播放的除外；<br>
-（六）为学校课堂教学或者科学研究，翻译或者少量复制已经发表的作品，供教学或者科研人员使用，但不得出版发行；<br>
-（七）国家机关为执行公务在合理范围内使用已经发表的作品；<br>
-（八）图书馆、档案馆、纪念馆、博物馆、美术馆等为陈列或者保存版本的需要，复制本馆收藏的作品；<br>
-（九）免费表演已经发表的作品，该表演未向公众收取费用，也未向表演者支付报酬；<br>
-（十）对设置或者陈列在室外公共场所的艺术作品进行临摹、绘画、摄影、录像；<br>
-（十一）将中国公民、法人或者其他组织已经发表的以汉语言文字创作的作品翻译成少数民族语言文字作品在国内出版发行；<br>
-（十二）将已经发表的作品改成盲文出版。<br>
-前款规定适用于对出版者、表演者、录音录像制作者、广播电台、电视台的权利的限制。</p></blockquote>
-<p>目前看到央视扯这是他们淘宝上面的「付费」买的素材，强调了「付费」</p>
-<blockquote><p>关于王源宗反映《美丽中国乡村行》栏目使用其延时摄影素材的相关情况，我们在第一时间组成调查小组，进行了认真核实。经了解，我们在一期节目中使用的15 秒延时摄影视频，系栏目编辑在淘宝网付费购得。对该素材涉及的版权问题，我们正在进一步调查核实。同时我们对接听电话人员的不妥言语进行了严肃批评教育， 并向王源宗表示歉意！</p></blockquote>
-<p>搜了一下淘宝的卖素材的，以销量排序差点喷了<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3f3d3173dd4d472c4bda593c3a65838e_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3f3d3173dd4d472c4bda593c3a65838e_b.jpg" alt="3f3d3173dd4d472c4bda593c3a65838e_b" width="525" height=""></a><br>
-淘宝：怪我咯？</p>
-<p>*****果然更新了*****</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/ee26cc1c702c1a559c9d82a9b7397b2b_r.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/ee26cc1c702c1a559c9d82a9b7397b2b_r.jpg" alt="ee26cc1c702c1a559c9d82a9b7397b2b_r" width="500" height=""></a></p>
-<p>艹</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/32b2ec2babe103f0c053cb614a4eca74_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/32b2ec2babe103f0c053cb614a4eca74_b.jpg" alt="32b2ec2babe103f0c053cb614a4eca74_b" width="500" height=""></a></p>
-<p>*****下午三点再更新******</p>
-<p>当事人的微博已经无法转发和评论<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/07523472f79fde0d18e6d1e4010a685d_r.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/07523472f79fde0d18e6d1e4010a685d_r.jpg" alt="07523472f79fde0d18e6d1e4010a685d_r" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/279dd5e7088bbf1ffb806de9dee3cb4e_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/279dd5e7088bbf1ffb806de9dee3cb4e_b.jpg" alt="279dd5e7088bbf1ffb806de9dee3cb4e_b" width="474" height="454"></a></p>
-<p>照着这个节奏我很担心过几天摄影师微博被删号，甚至整个事件被反转。。。</p>
-<p><strong>编者附：淘宝“延时摄影素材”搜索结果</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E7%B4%A0%E6%9D%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E7%B4%A0%E6%9D%90.png" alt="延时摄影素材" width="525" height=""></a></p>
-<p>［更多网友回答请移步知乎原帖］</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E6%91%84%E5%BD%B1%E5%B8%88%E6%8A%95%E8%AF%89%E5%A4%AE%E8%A7%86%E7%9B%97%E7%94%A8%E5%85%B6%E7%B4%A0%E6%9D%90%E5%8D%B4%E8%A2%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">官僚主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%88%E6%9D%83/?category=18271" rel="tag">版权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/" target="cdt-mirror">【立此存照】央视在网络的公信力如何？</a>
-</h2>
-<p><p><strong>【事件背景】</strong></p>
-<p>自由摄影师<a href="http://weibo.com/bboyzong">@王源宗Bboy</a> 指CCTV-7台盗用其延时摄影素材，致电沟通时却被语气傲慢、自称“实习生”的接线人员告知：“央视用你素材又怎么了？”</p>
-<p>王源宗随后在新浪微博<a href="http://weibo.com/p/1001603885541329366022">将此事公之于众</a>。央视公开回应称涉事素材<a href="http://mt.sohu.com/20150911/n420932394.shtml">网购自淘宝</a>。</p>
-<p>央视同时在回应中称“在此对广大网友对我们的关心支持表示真诚的谢意”。对此，大量微博用户纷纷表示不认识这名“网友”，这个锅他们不背。</p>
-<blockquote><p><strong><a href="http://weibo.com/5290188864/CAa7Shb2p">@萌安安ann</a></strong>：啥时候相信央视了⋯⋯<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/005M15MQgw1evzfk5o1sfj30ku112jw8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/005M15MQgw1evzfk5o1sfj30ku112jw8.jpg" alt="005M15MQgw1evzfk5o1sfj30ku112jw8" width="375" height=""></a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/%E5%A4%A7%E6%9C%99%E7%8C%A2?from=feed&loc=at" target="_blank">大朙猢</a>: 郜艳敏也是她老公花钱买的<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p>镜渊翎：厄……评论我看不懂了，为什么我理解的就是“相信”央视啊，相信央视拍个节目网购素材啊，这种讽刺都看没看出来吗？</p>
-<p>加油猪77童装：花几块钱买的素材包，有脑子的都知道是卖家自己收集来的。央视的都没脑子</p>
-<p>羊皮猪 ： 我相信啊，央视就是网上买来的，包括他们用的windows可能也都是楼下大妈那3块买的盘#央视盗用素材#</p>
-<p><a title="血与枪火" href="http://weibo.com/u/5232698859" target="_blank">血与枪火</a>：讲个笑话，我相信央视。<a title="血与枪火" href="http://weibo.com/u/5232698859" target="_blank"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></a></p>
-<p><a href="http://weibo.com/2942708957" target="_blank">鹿圈-LUQUAN</a><i title="微博个人认证 "></i><i></i>：央视回应盗用素材：是。 花钱网购来的网友：相信央视。【正确的断句方式<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">】</p>
-<p><a title="一片猫儿" href="http://weibo.com/jingxuexinyu" target="_blank">一片猫儿 </a>：央视脸就是大<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/2821311837" target="_blank">WellthatNotfair</a><i></i>：又让我们背黑锅<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/5694525972" target="_blank">兔崽子loli-</a>：<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">补药碧莲，谁他妈相信过央视啊</p>
-<p><a href="http://weibo.com/5023720754" target="_blank">长腿六</a><i></i>：后来被查证，是一位叫网友的临时工说的<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png" alt="" width="20px" height="20px"></p>
-<div><a href="http://weibo.com/5366629311" target="_blank">仭奛無</a><i></i>：网友：唉唉唉！ 你们要相信央视啊！毕竟是国家级的电视节目组就算犯错抄袭了也是可以的！是对的！看我就是很相信央视的（转发一条五毛钱括号里删掉）<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></div>
-<p>子竹QAQ：毕竟从小看新闻联播长大，我还是相信央视不会做出这种事(这条五毛，去掉括号里的)</p>
-<p><a href="http://weibo.com/1921001187" target="_blank">薛定猫饿了</a>：先甩锅给马云，又甩锅给网友，央视真会玩儿<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p>Vetrax嚣张卫视：一个小小的版权纠纷，是如何演变成一家电视频道的全民信任危机的，居然还封了当事人的微博，够可以的啊？本来是一个第三方制作单位的外包节目带来的形象，现在活生生变成整个电视台形象的丑闻。央视，看看你现在自己的优秀员工离职潮和公信力的崩塌，都是你自己作的。</p>
-<p>只有一个鼻子的人：：“央視你一定又偷了人家的素材！”央视睁大眼睛说，“你怎么这样凭空污人清白…”“什么清白？我前天亲眼见你偷了王源宗的素材，被网友吊着打。”央视涨红了脸，争辩道，“借鉴素材不能算偷…！媒体人的事，能算偷么？”接连便是难懂的话，什么“法制社会”，什么“实习生”之类，引得众人都哄笑起来</p>
-<p>吴可爱是小萌萌_：相（bu）信（yao）央（bi）视（lian）</p>
-<p>荷花捞仔：你们不要这样子，那位姓网名友的告诉我，他是他妈逼的……</p>
-<p>KALING2：谁他妈叫网友！喊他出来 一人喂一口屎 叫你一本正经地说瞎话</p>
-<p>鸡汁盖浇饭：对啊，我相信央视绝对是不要脸盗用了别人的素材</p>
-<p>娟影冰魄：央视大帝多少年来，翻手为云覆手为雨，这次偏偏盖错了地方。</p>
-<p>云已过：得。 以后都不能自称网民了。 我怕被打</p>
-<p><strong>附微博截图：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/screenshot-weibo-com-2015-09-12-00-32-09.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/screenshot-weibo-com-2015-09-12-00-32-09.png" alt="screenshot-weibo com 2015-09-12 00-32-09" width="500" height=""></a></p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B6%81%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A2%AB%E9%81%97%E5%BF%98-%E8%AE%B2%E4%B8%80%E8%AE%B2%E6%88%91%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%848-12%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/" target="cdt-mirror">趁还没有被遗忘 讲一讲我所经历的8. 12塘沽爆炸</a>
-</h2>
-<p><p><strong>【编者注】新浪用户 <a href="http://weibo.com/earlinde">@哈士奇耳朵_请叫我手残帝</a>的这条长微博，在被删之前已有400多万的阅读量，并收到了3万多次“赞”。《外交政策》近日将全文<a href="https://foreignpolicy.com/2015/09/10/censored-china-young-survivor-tianjin-explosion-viral-post/">翻译成英语</a>。该文被删后，有许多网友对作者的处境表示担心，希望她能出现报个平安。<br></strong></p>
-<p>附作者微博截图<strong>：<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BE%AE%E5%8D%9A2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BE%AE%E5%8D%9A2.png" alt="微博2" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BE%AE%E5%8D%9A1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BE%AE%E5%8D%9A1.png" alt="微博1" width="525" height=""></a></strong></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1585626631" target="_blank">leihang333</a>：没有捐款给你<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">，只是觉得那个文章值这个价</p>
-<p><a href="http://weibo.com/5077141262" target="_blank">Max_LLLLL</a>：我在那当了三天志愿者 <img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9083.png" alt="" width="20px" height="20px"> 看到那场景回家跟妈妈就说了一句话 我从来没听过天津发生过这么大事情 <img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9091.png" alt="" width="20px" height="20px"></p>
-<p><a href="http://weibo.com/1957119230" target="_blank">丸子要做一只放养的猹</a>：你还好么？不是被查水表了吧<img title="[感冒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/gm_org.gif" alt="[感冒]"><img title="[感冒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/gm_org.gif" alt="[感冒]"><img title="[感冒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/gm_org.gif" alt="[感冒]"><img title="[感冒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/gm_org.gif" alt="[感冒]"></p>
-<p>@Adam永：争取留在美帝，不要回来，把父母也接过去，不是我不爱国，是这个政府太让人心寒……</p>
-<p>@吐一朵泡泡去看海：虽不是直接受害的人，l但作为一个天津人与你感同身受，这文章看的我泪奔。没有为别人开罪的意思，我是觉得咱现在能活着就是天大的恩赐，如果我们有事父母后半生也活不了了。所以去他妈的，就先保养身体好好生活，别因为别的影响自己和家人的心情，如果有什么需要你也可以联系我，我在市区，可以帮你。</p>
-<p>@加油七：文章已经被删了，不知道是不是博主被请喝茶了，所以那钱你还是留着吧，就当是大家看一篇真实文章的稿费，因为现在想看真实的话不多了，看新闻联播还要交有线电视费呢。</p>
-<p>@海绵宝宝我们去抓水母吧呦吼：阅兵完就不提了，这么大的事感觉不了了之，国家的交代呐</p>
-<p>@MB放开那只烤鸭：真不要脸啊微博连这种文章也删</p>
-<p>@ooh_xxt：博主！！人呢！！！长微博删了知道伐！</p>
-<p>@athousandtimes：妹纸还在吗？身体恢复地怎么样？文章被删了，你要快快上来报个平安</p>
-<p>@应霏日記：你快更新微博吧，你发表的那个已经被删了，我们现在很担心你很担心你！！</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/">【立此存照】天津逼签 </a></p></blockquote>
-<p><strong>下文内容来自<a href="http://webcache.googleusercontent.com/search?q=cache:yB2mYtZvdhwJ:weibo.com/p/1001603884568619963302+&cd=1&hl=en&ct=clnk&gl=us">谷歌缓存</a></strong>（<a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B6%81%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A2%AB%E9%81%97%E5%BF%98%E8%AE%B2%E4%B8%80%E8%AE%B2%E6%88%91%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%84812%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8.png">点此查看</a>页面截图）<strong>：</strong></p>
-<p>天津塘沽大爆炸过后已经快一个月了，在爆炸当中受伤的我也终于得以出院。虽然身体现在仍然比较虚弱，伤口也还在恢复，但人总算是可以大概回到正常生活了——如果这样一番大变之后的生活还能算得上正常的话[苦笑]。其实在住院期间我就一直想要写下来自己和家庭所经历下的这场灾祸，只是一直苦于各种条件的不允许，只能等到出院后才能付诸纸上。不知道这件事过了这么久到底还会有多少人记得，但写下这篇也是希望能让自己铭记发生的这一切，铭记活着到底是一件多么美好的事情。</p>
-<p>先自我介绍一下吧。本人天津塘沽本地人一只，除高中三年在北京读书之外一直生活在塘沽/开发区，事故前居住于万科海港城清水蓝湾——也就是离爆炸中心最近的那个小区。我的家庭属于小康水平，只有这一套房子（还是期房，之前的房子卖了准备供我出国读书），刚刚入住大约3个月。我父母均为国企或事业单位人员，但都真的只属于基层人员（要不我家还用卖房供我嘛[笑]）。我本人呢，本应于今年8月20日入读美国的SwarthmoreCollege（实际上这个学期的学费我都交完了[笑]），现已延期入学。</p>
-<p>基本情况就是这样。请原谅我的废话，但这些信息之后都会在叙述中有或多或少的作用。好啦，让我们开始讲故事吧。</p>
-<p>事故发生于当天11点40左右。当时家里只有我和母上，父上那边是因为被公司 外派到了深圳常驻，所以没有在家。事发当时我母上已经睡觉了（她休息得比较早），而我则是躺在床上和已经出去了的小伙伴聊微信。因为我的床正对着我屋里的 那扇大窗户，所以可以清楚地看到窗外的天空。当时我摁着摁着手机，突然发现窗外天空亮了一点，我就放下手机看了一眼。就那么一瞬间突然整片天空都变成了亮 橙色，紧接着是一声我这辈子听到过的最响最恐怖的一声巨响。具体有多响？响到我以为是原子弹爆炸了或是世界末日来了。可能听起来有些可笑，但这也真是因为 我当时没什么时间多想，因为巨响发生的同时我就看到窗户炸成了碎片朝我飞了过来——具体没有看清，因为我当时自卫性地侧过了身用手臂挡住了头部要害。之后 完全是出于自我防卫的本能，我抓过旁边的垫子挡在了身上，防备有下一个余波（当然现在想想真是有点没必要，因为第一下该炸的都炸没了……）。然后又是一声 没有那么强烈的爆炸声。</p>
-<p>我能感受到左肩附近有点温热，用手一摸发现全是血。之后我就听到了母上喊我快点出去。这时我已经有点受惊了，整个 人处于一个僵直的状态，也没有意识到自己伤情的严重性。后来我母上踏着满地的玻璃碴子把我从床上拽了起来，跑到了过道里面，那时候我才发现我有点头晕发 冷，低头一看整个左半边胸口的衣服都已经红了。那时候母上正拽着我往她房间里跑，我脚底开始发软，叫了她两声她也没有听见，就这么被半拖着进了她的房间。 我进去就垮在了床上，她没发现我的异样就跑出去关电闸了——我妈以为是我家被雷劈了。</p>
-<p>我一个人躺在床上，用手摸索着左边肩膀，发现锁骨那附近在冒血。真的是在冒。像趵突泉那样冒。一直停不下来。那时候我突然意识到，可能是主动脉受伤，我要完蛋了。真的，特别简单的两个想法。连害怕都没来得及，就是一个特别清醒，特别绝望的认识：我要死了。</p>
-<p>然后我把我母上叫了过来，声音还打着战。那时候她也意识到我不对劲了，跑过来以后我告诉我妈，妈，我受伤了，可能 是动脉，有点不太妙，需要伤口按压。那时候我妈算是镇静，一边拿开我软绵绵地摁在伤口附近的手，一边扒开我领口找伤口。找到了之后立刻摁上了还问我使不使 劲疼不疼。说实话，我当时一点痛感都没有，而且身为一个生物狗的天性告诉我，越使劲越好。虽然如果真的是主动脉出血，多使劲估计再有几分钟也完蛋了。</p>
-<p>当时满脑子都是，这出血量，我可能真的要死了。</p>
-<p>然后，我就特没出息地崩溃了。真是特别没出息。我一边安慰我妈没事儿一定要按住伤口别让我睡着一边哭着说我还这么 小我连大学都没上啊我不想死啊，在两个极端来回换，虽然我特别清楚地知道现在说这些只会让情况对我俩都更难受。我妈也已经濒临崩溃的边缘，有时摁着摁着就 没劲了，我还要伸手帮她一把一起摁，一会儿跟我说没事儿别害怕会没事儿的一会儿冲我嚷别说那些有的没的的。就这么过了最开始的几分钟之后我母上当机立断要 开始联系救援，但是又要摁住伤口，于是她就想帮我先包扎上然后去拿手机。然而我家也没急救包，于是我母上就近拿了条裤子想帮我捆上。捆的时候也是各种问 题，因为伤口在的地方大概是左侧锁骨中央偏下，所以外行人特别难找到合适的角度把绷带（裤子）扎得足够紧来止血。我妈努力了十分多钟之后算是找了个差不多 的角度给我捆了一下，我自己拿手摁着，然后她就去找手机了。</p>
-<p>之后我自己在屋子里躺着的时候才发现，外面的声音比刚才爆炸还要恐怖。各式各样的警笛声也盖不过楼下的尖叫和嚎叫声。各种鬼哭狼嚎的声音，感觉简直和地狱一样。这时候距爆炸发生已经大概二十分钟了。</p>
-<p>我妈赶回来的时候我才发现她也满脸都是血，浑身都是血。然而虽然听起来很差劲，但当时我看到我妈还能活动自如就真 的没有再多想了。当时我只想找人来救救我。这时我妈接到了一个亲戚打来的问平安的电话，但因为太远以及各种原因我妈也只是匆匆讲了几句，也没有让他们过来 接我们。之后，我们第一反应是打120，在打了十几次都占线之后终于打通了。我妈（以当时的标准来看真的是）极为冷静地报告了我伤情的严重性和我家的地址，我在旁边哭着拜托他们快点来真的快不行了（然而其实当时我应该意识到过了二十分钟我还没失血而死还能说话就说明应该不是主动脉受损）。可是120那边表示最近的泰达医院已经没有车了，让我们打电话联系大港医院。我和母上还很死心眼儿地给大港医院打电话，但一直都是占线根本打不通。然后我提出找警察叔叔，但是母上手机不知为何打110说是空号。</p>
-<p>那时我们两个真的已经绝望了，手机也快没电了。我妈想过去地库开车带我去医院，但首先我家是14楼， 电梯这种情况下已经不能用了，而我妈一是不可能一个人把我弄到楼下，二是她也不确定这时候车还能不能开，地库（需要刷卡才能出去）还出不出得去。这时我妈 想起来可以联系同在开发区的我小姨。那时候她的手机也快没电了，而我也因为失血没有力气说话了，整个状况压得她精神处在一个极度紧张的状态，手不听使唤， 再加上手机满屏幕的血，导致她基本没法顺利拨出号来。光是打出这个电话我妈就花了得有三四分钟。但幸亏这通电话打出去了，我姨家里那边也都没有情况，所以 他们（小姨和姨夫）接完电话就赶向了我家这边。</p>
-<p>虽然是立刻就赶了过来，但因为他们家在第三大街，我家处于第五大街延长线，之间的距离平时开车也要十来分钟，出事后各种交通混乱（都急着跑路or送医 院）导致他们花了差不多半个小时才赶到我家。当然这是我后来才知道的。当时那半个小时对于我和我母上来说真的跟一辈子一样那么长。期间我和她探讨了我家的 内部问题（你跟我爸爱我吗系列），她找了一整瓶云南白药洒在了我的伤口上，找来了充电宝以保证手机通畅，收拾了一个拿重要物品（钱，手机，还有什么我记不 得了……）的包（我真是要给我母上的机智冷静点32个赞……去医院多亏她这个包了）。</p>
-<p>等了快半个小时的时候我们实在等不下去了，决定先出去能下几层是几层跟他们会合。她给我俩都找了双鞋（要不脚就真 成马蜂窝了）然后逐渐往楼道里走（虽说不应该轻易移动伤员但当时哪顾得了这么多），我伤口的失血虽然好了一点但还是在不断往外流，我也因为失血头晕目眩腿 脚无力。幸好走到门口发现门没被炸坏，还能开（这个真的是谢天谢地了，要不真是完蛋了），我和我妈就一瘸一拐地走进了楼梯间。</p>
-<p>然后我实在走不动了。要是再走着下楼我真的就要失血而死了。此时我母上虽然有想要把我背到1楼的 决心，但说实话突破人的体力极限什么的，真是太难了。她本身身体也不好，有腰椎间盘突出，把我大概背了半层楼就走不下去了。当时在她背上的我满脑子都是， 这要是摔下去我俩就都玩儿完了，于是我让母上把我放在了楼梯上，让她也休息一下。但其实当时那么一折腾我又失了好多血，躺在楼梯上已经快要失去意识了。</p>
-<p>就在这时候我妈在楼梯间里大吼了一声（当时我并没听见上来的脚步声），然后我就听见了我小姨和姨夫的声音。当时多 亏了他们及时赶到我才没休克，因为可能能得救了的希望真的是能给人很大力量。那时候一起来的还有万科的保安大哥，在这里也真的要好好地道一下谢。他和我小 姨夫各抱我下了6楼左右（可能保安大哥走的层数还比较多一点），我当时虽然没戴眼镜也能看清楚他俩真的是特别，特别辛苦。本身一口气爬上14楼就已经是很大的活动量了，下楼还要抱着一个50多公斤的人，真的是他俩每个人都累得额头青筋暴起。刚开始我还口齿不清地道了几句歉（我似乎说的是不好意思我真的很沉吧），后来气也接不上来就闭嘴了。那时候距爆炸发生已经快一个小时了。</p>
-<p>之后我的记忆就不太清楚了。模模糊糊记得被抬上了小姨的车，在车上我妈一直跟我说话让我保持清醒，走走停停了快半 个小时还是没到医院（太堵了当时……）。最后在离泰达医院还有几百米的路口发现前面停了一辆救护车似乎在接伤员准备往医院开，我姨夫特别果断地下车冲向那 辆救护车大叫我们这里有个重伤伤员。救护车旁边的警车里两个姐姐立刻就赶了过来，让救护车等一下带上我一起走。……但因为是两个姐姐，所以我是被半架着走 过去的，各种头晕目眩眼前发黑。不过当时幸好一是血已经大致止住了，二是我的求生意志比较强烈（真·怕死星人），算是成功地挪进了救护车里。当时另外一个 爆炸伤的伤员已经躺在了担架上，所以我只能坐在一边的座椅上。因为车里已经满员了（或是其他原因？）我的家人都没能跟着一起上车，但我的母上特别机智地把 她的手机留给了我，以防之后找不到人。当时真的是累得+失血得大脑一片空白想不了什么了，就瘫坐在那里有一搭没一搭地用手捂着伤口，就这么一路到了医院门口。</p>
-<p>到了医院我迷迷糊糊地就躺上了担架进了急诊室，那时候我才发现医院里都是血刺呼啦的人。脸上都是的，胸口全是大道子还在冒血的，腿上皮开肉绽的……我本来是被拉到手术台前排队的，但那个送我去的护士/大夫姐姐问了我一句是不是那个大动脉破裂的，看着不像（……）我特别没走脑子地来了一句，对我觉得应该也不是大动脉啊，应该也就是个副动脉要不我早死了。</p>
-<p>然后就没有然后了……我在那儿跟一群轻伤伤员一起等（我也不知道在等什么），那时候虽然躺着但我也真的实在没有什 么力气继续捂着伤口了。当时我看到旁边的一个阿姨看起来没有什么大碍，就拜托她帮忙帮我按着伤口。最开始阿姨有点犹豫，可能也是不知道怎么按压，但旁边一 个腿部受伤的姐姐（后来我才知道她是这个阿姨的女儿）说这个一定要帮忙按着后她就过来帮忙了，一直到后来我被推到一个小房间里等待手术她都在帮我按着伤口 （那时候她女儿还在外面），还和我说话让我保持意识……真的十分，十分感激。在急诊室躺了大概20分钟无人问津之后，我接到了我妈的电话，他们总算到了医院，但在急诊室找不到我。我大概给他们说了一下我的位置，然后又过了五分多钟他们才找了过来——因为外面的人，实在太多了。</p>
-<p>不过也多亏了我家人及时赶到，他们跑去拽了一个急诊大夫过来我才终于被送上了临时手术台。当时急诊的大夫看了我的伤势之后立刻断定是创伤性血气胸，然而因为本身医院已经受损加上伤员过量，他们无法处理我的情况，建议转到其他医院进行救治。他们只能在这里做最基本的创伤处理aka缝 合。然而，当时的泰达医院，已经连麻药都找不到了。连消毒的碘酒棉签都是东拼西凑弄来的。大夫好不容易找到一个手术包后告诉我们，现在要在没有麻药的情况 下进行缝合，只能忍着点。虽然我因为失血过多已经接近麻木，但真的还是很痛。很痛很痛。我记得每一针下去我都会紧紧地抓住我母上的手，因为根本叫不出来， 顶多有气无力地哼几声。缝了大概四五针之后，算是把伤口闭合了。讽刺的是，刚缝合完就找到麻药了……不过也没办法了。</p>
-<p>之后我就被推出了医院，准备去天津市里的医院接受治疗。但我因为太过虚弱已经根本没法自己走回车上，多亏当时在医 院门口的志愿者把我从担架上抬到了车里，还有热心人询问我们有没有车，需不需要帮忙送到其他医院（现在想来当时事故刚发生不久就能有那么多既热心又有秩序 的志愿者真的太不容易了，也特别感动……我相信很多人都因此获救了，谢谢你们。）……</p>
-<p>在问过医生和其他热心人之后我们决定去到三中心，因为这家是相对来讲最近的一家三甲医院。但就算是最近的，我们也 开了大概一个小时的车才到（开发区和市里还是很远的）。虽然可能那阵睡着也没什么危险了但我还是撑了一路没有睡觉。路上也是各种打着双闪飞驰在高速上的 车，估计都是去向市里的伤员……我们到三中心的时候大概已经快四点了。因为市里这边的医院当时也都接到了通知，所以这次完全没有耽搁直接就把我弄上了急诊 手术台。大夫的诊断也是创伤性血气胸，需要胸腔引流。在插了两根管之后（一根气管一根液管）我就被送进了胸外的重症监护。那阵已经是凌晨五点左右了。</p>
-<p>之后我就真的什么都不知道了。因为疲劳和失血我几乎是进了病房之后就睡/晕了过去。再醒来就是第二天早上了。我那时候才发现我母上也受了比较重的伤，左侧腋下有个10cm+的划伤和一系列小的割伤，左手中指肌腱断裂，总共缝了有二十多针……她是过去叫我的时候被第二波爆炸震起的玻璃碴划伤的L。</p>
-<p>从这之后就是一段漫长的恢复期。最开始的一周我下管（积液+积血）大概有1500ml+的引 流量，输了两个单位的血（血色素实在上不去了），平均每天三袋消炎药三袋止痛药，但有时还需要止痛针，还有各种营养液。这里真的也要感谢三中心的医护人员 们，大家都非常尽职尽责，知道是伤员之后就开了绿色通道，然后各种科室会诊去排除其它爆炸伤，各种检查来确保病情恢复稳定，偶尔还各种跟我逗闷子哈哈哈=w=真的是各种照顾，非常感谢。</p>
-<p>但是我比较不争气，一周后气胸虽然已经基本恢复，但是因为腔内血块已经凝结，用胸管已经导不出来了。医生本来希望 保守治疗，让血块自行吸收，但我最后还是因为吸收缓慢和炎症反应只能做手术人工清理。手术虽然是微创但是也是全麻，刚刚能下地活动和吃点东西的我就这样又 一次变成了无法自理的半残……术后恢复真心特别痛苦。刚出手术室的时候我因为神志不清和麻药失效各种闹腾，直到第二天早上才稍微安静一点。尿管也很痛， 嗯。大概又过了两三天我才能摄入半流食和下地活动。不过幸运的是术后恢复很不错，全麻也没有留下后遗症，只是因为手术肋间神经有些受损，导致我现在左侧身 体部分皮肤没有知觉，但有按压痛。</p>
-<p>受伤和恢复的部分大概就是这样了。可能这么多内容里废话也不少，但这一个月真的对于我和我的家庭都太艰难了，太多感觉都没法一一写下来。那种对于死亡的恐惧，家破人伤的痛苦，看着父母因为自己焦虑难过几天就白了头的内疚，恢复期间那种永远都回复不了正常的感觉…… 我们都还需要很长时间去缓解。直到现在我母亲的手指还不能活动，腋下的伤口不仅活动受限，在阴雨天也会十分不适。 我本人胸部伤口和手术的瘢痕导致我现在不能长时间直立，肩部肌肉活动不便，深呼吸也会有刺痛感。我还有焦虑和中度躁郁的病史，现有复发倾向。现在的我比任 何时候都要恐惧死亡。玻璃，雷声，大的响动都能让我想起爆炸。我失去了所有安全感。</p>
-<p>然而在这个过程中，that power that be的所作所为真的让我特别心寒。是的，我很感谢教育局在爆炸后没有让我母亲返回工作，也很感谢上面在医疗方面为我们灾民开通了绿色通道。但其他的呢？</p>
-<p>灾后磨磨蹭蹭一个多礼拜说是要给灾民安置补贴，一家每个月2000块钱，一共给三个月……2000块钱什么概念？我们海港城之前的房子两室一厅租下来也要个3000-3500（我们还属于开发区外围。不在繁华区域），然而tptb还声称这价格已经高于当地租房标准。恩……这真的不是在打发叫花子？</p>
-<p>灾后一周多以后，丝毫没有通知业主，也没有警方监督，就以清理/搜救 之名就把我们小区几乎所有住户的门都暴力撬开，派民工入户“打扫”。财产受损、失窃的情况数不胜数。我们邻居有丢上万块钱现金的。当时连灾民自己回去取东 西都是武警社会人员一起陪着进去（虽然肯定有保护的因素在里面），然而清扫人员就这么毫无监管的放进去真的大丈夫？而且我父母直到今天回去房间里仍是满地 狼藉，碎玻璃完全没有得到清理。家里别说清理干净了，现在的情况反而比受灾后还要惨。而且退一万步说，就算是搜救，都一周多了真有伤员在里面估计也是凶多吉少了吧？</p>
-<p>然后是赔偿问题。因为这事儿我们灾民已经不知道被骂了多少次了，说我们不知轻重的，发国难财的，各种指责的都有。 说实话，真的是站着说话不腰疼。先不说被这么一炸多少人死的死伤的伤，也不说别的小区，就说海港城的住民，很多住户都是刚需群体，花了多年积蓄就购置了这 么一套房，尤其是很多年轻人是花了很大心血把它当做婚房的。而且我们购房的时候（2012年）完全没有了解到周围有危险品仓库这种东西——那时候那个仓库根本就都不存在。然后现在房子炸了，旁边危化品还都没收集齐，灾民都没缓过劲儿来呢，tptb就急着息事宁人，而且合同也是漏洞百出含糊其辞，先不说1.3倍的回购系数合不合理，合同上连什么时候支付赔偿，具体价格，如果回购会给多少时间搬迁，如果选择修缮，修缮到何种程度这种重要信息都没有，总共条款加起来不到15条，让我们怎么签？怎么敢签？而且回购标准为评估价或合同价取高后的1.3倍真的只是看起来很美好，事实上给了那么些钱我们也买不起另外一套房。说是灾后房价不让涨，可是这几天我父母看房，开发区塘沽区甚至是津南东丽生态城那边的房子价格都在往上涨。别说1.3了，1.5倍就算给了我们也买不起跟原先房子质量相近的新房。</p>
-<p>然而据新闻报道，仍有超过七成的居民签署了处置合同。是的，我家也签了。具体怎么签的？某局领导在灾后一个多月毫 无音讯却在阅兵当天连仪式都没看就跑到医院先是和我谈了半天心，然后待我父母赶来后又“谈话”了一个多小时，然后我父母就签了。嗯。还有多少公职人员是这么签下来的我就不知道了。</p>
-<p>更可笑的是，新闻没写tptb还出台了一个“早签有奖”政策，说是于9月3日签署协议的灾民能得到两万块钱的奖励，逾期没有。对此我已经不知道是可气还是可笑了。我们被炸我们光荣。</p>
-<p>现在伤情评估45cm+的伤口（轻伤伤员）给3000块钱完事。我妈缝了20多针给了2000块钱。</p>
-<p>房屋损失评估现在还在进行中，我爸妈这几天也在忙这个。具体什么情况，回头再说。不过现在大多数人的反响是，各种不给赔。</p>
-<p>误工费，误学费，精神损失费什么的，根本不用想了。</p>
-<p>有人说我们贪得无厌，差不多就行了，人在钱还不好挣？而且凭什么我们要从纳税人的钱里获利，这事儿不应该是问责的公司赔偿吗？</p>
-<p>你问我，我他妈也不知道啊。市zf那边追责追半天，到现在也不知道到底是谁的错，是上面监管不力，还是 公司钻了空子，什么都一问三不知呢。我们这帮小老百姓不只能现在谁乐意背这个锅就跟谁谈？以及我们说实话要是能避开这场灾祸，肉体精神都能跟原来一样毫发 无损谁他妈乐意要那些钱？现在都已经成这样了我们只能追求最合理的赔偿，然而这都不行？谈都不谈就得签？然后还好意思在新闻上大书特书超七成居民已签协 议？现在还在提把受灾地区规划成公园小学一系列的？现在手头的事儿都没弄完您能别展望那么远就要化灾为福行不行啊你们！！！</p>
-<p>现在灾后不到一个月，爆炸这件事儿基本已经淡出公众视线了。其实就连最开始的那段时间灾民的真实情况也鲜有人知，大家似乎都以为多数居民只受了轻伤。可重伤员真的一点都不少。只是因为当时真正受重灾的这帮人还都半死不活呢，哪有上社交网站大书特书的功夫？报纸也不会告诉你2岁的 孩子被炸得满脸花，光缝针就缝了几个小时，或是已经出了海关的儿子被告知母亲在爆炸中大动脉被割伤不治去世。是的，我们应当歌颂那些为了救灾失去生命的消防员们，对那些无辜丧命的民众致以哀悼，但作为活下来的幸存者们，我们的生活也需要继续下去。我们仍需要外界的帮助和关注去重新让生活步入正轨。就算无法帮助，也请试图理解我们的难处吧……我们也只是一群试图让生活重回正轨的小老百姓而已啊。</p>
-<p>最后，真的想说，没有什么比活着更好了。多陪一陪身边的家人和所爱的人，珍惜现在所拥有的一切。因为我们习惯了的，已经理所应当了的，所谓的“常态”其实真的脆弱得不堪一击。</p>
-<p>此篇情绪激动下的胡言乱语，若有过失冒犯，还请多包涵。祝一切安好。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B6%81%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A2%AB%E9%81%97%E5%BF%98-%E8%AE%B2%E4%B8%80%E8%AE%B2%E6%88%91%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%848-12%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1007,7 +940,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1017,5 +950,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dgz9reebm7pvf.cloudfront.net">https://dgz9reebm7pvf.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dgz9reebm7pvf.cloudfront.net">https://dgz9reebm7pvf.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://ddevddo7pm4an.cloudfront.net">https://ddevddo7pm4an.cloudfront.net</a><br/></td>    </tr>
 </table>

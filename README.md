@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,69 @@
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1qa7hxglux51y.cloudfront.net">https://d1qa7hxglux51y.cloudfront.net</a><br/><a href="https://d1kpjmaq1bdc8v.cloudfront.net">https://d1kpjmaq1bdc8v.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1kpjmaq1bdc8v.cloudfront.net">https://d1kpjmaq1bdc8v.cloudfront.net</a><br/><a href="https://d1qa7hxglux51y.cloudfront.net">https://d1qa7hxglux51y.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E8%BD%A6%E7%A5%B8%E5%90%8E%E4%BB%A4%E8%AE%A1%E5%88%92%E5%8F%8D%E5%B8%B8%E4%B8%BE%E5%8A%A8%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%88%86/" target="cdt-mirror">中国茉莉花革命｜车祸后令计划反常举动的深度分析</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k4.jpg" alt="k4" width="640" height="458"></p>
+<p>令计划在第一时间得知儿子的噩耗。正在“盘古大观”等待藏族美女的人中，国家安全部副部长马建正是令计划的密友。他接到车祸报告后，觉得事态不仅严重，而且诡异，很可能不是交通意外，而是一起谋杀事件，于是他立即向令计划报告，并建议立即封锁现场。</p>
+<p>我们尚未得知马建具体从哪些蛛丝马迹发现情况诡异，但他的推断显然与令计划此时精神状态高度合拍，让令觉得此事绝不简单，必有背景。</p>
+<p>三年多来，人们一直为令计划在儿子死后的表现异常而不解，但是如果我们知道，令计划相信儿子被暗杀的可能性很大，谁会对一个 23 岁的研究生有这样的深仇大恨呢，在这个中共十八大将在半年后举行、“太子党”、“共青团派”等党内各方势力正在紧张布局互动的特殊时刻，合乎逻辑的推测必然是：凶手的目标更有可能就是指向自己，从而整垮胡锦涛的“共青团派”势力。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k4f.jpg" alt="k4f" width="546" height="737"></p>
+<p>令谷驾法拉利跑车从中央民族大学经保福寺辅路前往盘古大观的行车路线</p>
+<p>考虑到这些因素，我们就不难理解他的表现：第一，他要抢在藏在暗处的对手之前，控制儿子的尸体，亲自部署调查，进而顺藤摸瓜，查个水落石出；第二，他要表现得冷静、坚强，昭示自己在精神上是打不垮的，绝不能让对手自以为得逞。</p>
+<p>人们后来获知的，正是这样一系列看来反常、却符合他的判断逻辑之事：</p>
+<p>● 令计划超出常规、超越职权，下令动用中央警卫部队，立即前往封锁车祸现场──他不会不知道，这触犯了中共不得擅自动用禁卫军的大忌，但千钧一发时刻“两害取其轻”，控制局面是当务之急；</p>
+<p>● 令计划下令各媒体包括网络不得透露关于法拉利车祸的一点风声，对外不披露，对上也不呈报，他不是不知道“纸保不住火”的古训，也明白这必会引起种种臆测，但他别无选择，一定要在关键时段钳制住信息的流通，防止事态扩大；</p>
+<p>● 令计划对儿子猝逝，既不举丧，又不火化，据说对妻子也瞒了一段时间，一直将令谷的遗体冷冻在太平间；</p>
+<p>● 令计划第二天跟随胡锦涛参加公务活动，神态若无其事，谈笑风生，被蒙在鼓里的胡锦涛，压根儿不知道令计划家里遭了这么大的变故。</p>
+<p>还有更神秘的事：</p>
+<p>法拉利车祸过去三个月后，北京大学教育学院的师生们还在为令谷活不见人、死不见尸而疑窦丛生， 6 月初，海外中文媒体披露法拉利车祸死者是令计划儿子，引起轩然大波。 6 月 4 日，中国一个社交网站人人网上，有网民向王子云查证车祸的传闻，王子云回复：“谢谢，安好，勿念。”简短的六个字，似乎否定了他死于非命的传言。这个帖子，确实在某种程度上起到了平息传言的作用。</p>
+<p>几天后， 6 月 7 日，香港出版的《亚洲周刊》又发表了一篇文章，引用人人网上这个帖子来为令计划父子“辟谣”。《亚洲周刊》这篇文章第一次披露了令计划儿子的真名和化名，就读的中学和大学，一时彷佛相当可信。</p>
+<p>但半年后， 2012 年 12 月 5 日，《纽约时报》发表驻京记者安思乔（ Jonathan Ansfield ）的报导披露：这则帖子，事后来看是假的：是他人用“令谷”的化名发布的。而《亚洲周刊》那篇辟谣文章呢，安思乔援引一位知情记者说： “消息来源是中央办公厅的令计划办公室。”</p>
+<p><img alt="">《新史记》</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E8%BD%A6%E7%A5%B8%E5%90%8E%E4%BB%A4%E8%AE%A1%E5%88%92%E5%8F%8D%E5%B8%B8%E4%B8%BE%E5%8A%A8%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%88%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%B0%B7/?category=18271" rel="tag">令谷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%BB%BA/?category=18271" rel="tag">马建</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%E5%87%BA%E5%A4%A7%E4%BA%8B%E6%95%85-%E5%A4%A7%E8%A3%81%E5%86%9B%E9%85%BF%E5%A4%A7%E9%BA%BB%E7%83%A6/" target="cdt-mirror">法广｜大阅兵出大事故 大裁军酿大麻烦</a>
+</h2>
+<p><p>中国政府举全国之力，斥巨资搞的所谓“纪念中国人民抗日战争暨世界反法西斯战争胜利 70 周年”大阅兵，不但没有吸引来任何西方发达国家捧场，更在 9 月 3 日当天爆出“大事故”。而一直为外界所关注的中国军改方案则非但达不到强军目的，更会给中国带来“大麻烦”。最新一期《外参》援引独家分析人士观点：大阅兵出大事故，大裁军酿大麻烦。今天的“明镜书刊”节目，我们请来《外参》杂志主编贺兰若女士给大家详细介绍《外参》第 65 期的内容。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k3.jpg" alt="k3" width="565" height="326"></p>
+<p>法广：本期《外参》杂志称，“纪念中国人民抗日战争暨世界反法西斯战争胜利 70 周年”大阅兵出了一个大事故，请问这个大事故指的是什么呢？</p>
+<p>贺兰若：这个大事故指的就是习近平在乘车检阅三军时，一反常规， 11 次抬起左手行军礼。按照胡锦涛在 2010 年 6 月 3 日签署的《中国人民解放军队列条令》第 49 条的规定，行军礼时要“上体正直，右手取捷径迅速抬起”。众所周知，以习近平为首的中国政府对此次大阅兵十分重视，外界甚至普遍认为这是习给自己搞的“加冕礼”；因此，不是左撇子的习近平为什么会在重要时刻犯这样一个大错误，是很值得思考的。</p>
+<p>法广：中国官方对习近平左手行礼是怎样解释的呢？</p>
+<p>贺兰若：中国官方对此的解释主要有两个版本，一个是《人民日报》的版本，称习近平抬起左手并不是行军礼，而是在招手致意，是摄像机镜头角度问题导致了人们的误解。但是只要看过阅兵录像的人都知道，这个解释纯属生拉硬扯，牵强附会。第二个版本是官方通过舆论引导，在网络上散播的说法，称中央军委主席习近平并非现役军人，因此不需要遵守《中国人民解放军队列条令》，用左手或右手敬礼并没有严格规定。但是这种说法显然更讲不通，因为历任中央军委主席，从毛泽东到邓小平，在检阅军队时都曾身着军装，行标准军礼。</p>
+<p>法广：那么习近平在检阅三军时，左手行礼的真正原因到底是什么呢？</p>
+<p>贺兰若：真正原因其实很简单，那就是习近平可能是由于之前彩排不够，或是没有得到恰当的指导，导致其临场犯糊涂，出了错。独裁者因为志大才疏，不懂装懂闹出乌龙的事情并不少见，习也不第一人。 2011 年 2 月，韩国媒体就曾经爆出金正恩视察军队，手拿望远镜了望远方时，望远镜是上下颠倒的。</p>
+<p>法广：为什么说习近平左手行军礼不是件小事，值得引起人们关注呢？</p>
+<p>贺兰若：习近平作为一个集权国家的军队领导人，无论是出于无知还是疏忽，竟然连军礼都敬错了；那么我们又如何能放心他手中掌控的核武器以及洲际导弹等诸多大规模杀伤性武器呢？这样一个人领导的中国军队又会不会给亚洲地区，甚至是世界其它国家带来威胁和灾难呢？</p>
+<p>法广：习近平在阅兵仪式上宣布中国军队裁军 30 万人，由此引发了世界对于中国军改的关注，请问此次中国军改都有哪些应当关注的方面呢？</p>
+<p>贺兰若：传闻中的此次军改的主要看点有以下几个，一是撤销总政治部、总后勤部、总装备部，将三部职能分别转入国防部、总参谋部和各军种总部。二是撤销现有七大军区，将全国划分为东北、西北、东南、西南四大战区。各战区设军队联合司令部，对战区所辖陆、海、空军和国民警卫队统─行使作战指挥权。三是军改的重点是海军，下设北方舰队、东海舰队、南海舰队三大舰队和一个陆战师。</p>
+<p>简而言之，此次军改方案就是把目前的陆、海、空和战略导弹部队置于同一个军事指挥系统之下；将现有的七大军区整合为四个；削减传统的地面部队，加强海、空军──尤其是海军。但《外参》判断，这个方案内部争议很大，最后公布时会大打折扣。</p>
+<p>法广：习近平大力推行此次军改的目的是什么呢？</p>
+<p>贺兰若：此次军改最大的变革就是将传统的前苏联模式指挥结构改成美式指挥结构。军改中有一项提纲挈领的规定：“中华人民共和国武装力量的主体由中国陆军、中国海军、中国空军和中国国民警卫队组成，统称中国军队。中央军事委员会是军队的最高统帅机关。在中央军委之下设总参谋部和陆军总部、海军总部、空军总部及国民警卫队总部。总参谋部是军队最高军令机关”。</p>
+<p>这也就是说，从今之后，中国军队建立起了由中央军委直接领导的军事垂直体系，军区只是执行系统而非指挥系统；总参谋部协调各兵种，军权进一步集中到中央军委──也就是集中到了习近平的手中。</p>
+<p>法广：为什么说这次军改可能会给中国带来大麻烦？</p>
+<p>贺兰若：此次军改目标是要使中国军队更加机动化，更具灵活性，能更好地应对突发事件。中国大肆强军，威胁区域安全，或将引发中美两国──甚至是中国与整个西方世界之间的军备竞争，从而使丧失掉有利于经济发展的外部环境。</p>
+<p>另外，此次军改会对中国整个军事指挥系统的人事进行颠覆性调整，使将军们脱离原来熟悉的体系。将军不认识士兵，士兵也不认识将军，这样的军队毫无威慑力，是不可能打仗保卫国家的。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%E5%87%BA%E5%A4%A7%E4%BA%8B%E6%95%85-%E5%A4%A7%E8%A3%81%E5%86%9B%E9%85%BF%E5%A4%A7%E9%BA%BB%E7%83%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%85%AC%E6%98%8E-%E6%8A%8A%E5%85%89%E6%89%93%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%EF%BC%9A%E8%83%A1%E6%9D%B0%E7%89%88%E7%94%BB%E5%B1%95/" target="cdt-mirror">李公明 | 把光打在大地上：胡杰版画展</a>
 </h2>
 <p><p><strong>来自微信公号：中国油画在线（opchina）</strong></p>
@@ -896,55 +956,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018709501_30300.jpg" alt="0,,18709501_303,00" width="498" height="280"></p>
-<p>（德国之声中文网）2015年达沃斯世界经济论坛周四在大连召开。《法兰克福评论报》在经济栏目发表文章指出，几年前中国还是这场经济论坛的璀璨明星，如今中国国务院总理李克强却必须在论坛上安抚企业领袖无需担忧中国经济会崩溃。</p>
-<p>文章开头描述道，李克强在夏季达沃斯期间努力消除中国经济陷入危机的印象。他在开幕式致辞时强调，中国经济不会硬着陆，而且有能力实现今年主要经济发展目标。他还指出，中国今年上半年对世界经济增长的贡献率约30%。</p>
-<p>《法兰克福评论报》写道：”自中国股市在夏季大跌后，对中国经济前景的担忧不断加剧。李克强希望将股市扩展成经济体中现代化的融资渠道，然而，投资者在股市一路飚涨后带走了利润，让股盘再次回到原点。7%的经济增长率也远低于期望。中国的外贸、工业产值和其它指标都在下滑。”</p>
-<p>李克强建议各界，不要过分在意数据，重要的是朝可持续发展、创新、更多的服务业和扩大内需迈进。</p>
-<p>文章写道：”经济学家也同意李克强对当前情势的基本正面态度，但仍对接下来的困难形势发出警告。《新萧条》一书的作者邓肯（Richard Duncan）表示：’大规模放贷长期以来遮掩了结构性问题。过去几年的大型经济项目如同给中国打了鸡血一般。’如今中国经济却面临产能过剩、缺乏效益以及低收益等问题。长期的低增速正等待着中国。”</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018702890_40400.jpg" alt="0,,18702890_404,00" width="340" height="191"><br>
-中国国家发改委主任徐绍史
-</div>
-<p>文章最后指出：”四年之前，在华举行的’夏季达沃斯’中还洋溢着对中国增长潜能及其体制优势的兴奋之情：当时美国和欧盟的危机皆无法影响中国。”</p>
-<p>“这一次，中国的高层官员和经济学家在会场内四处奔走，试图安抚全球民众的担忧。中国国家发改委主任徐绍史从会议的第一天开始便不断重复官方立场：中国将会达到自订目标，而且经济基础稳固。知名经济学者李稻葵甚至表示，股市下跌是好事：’调整的结果超过了预期。'”</p>
-<p>瑞士《新苏黎世报》周五也针对中国经济发表署名文章，题为”玩火的中国”。文章指出，中国经济疲弱有各种原因。”各省份进行经济改革并且赋予经济新动力的意愿有限……人口结构的变迁也造成劳动力减少，中央政府也没有展现出真正的改革热情。此外，中国试图稳定股市时不完善的做法导致各种猜测甚嚣尘上，认为中国国家主席习近平并不是对市场真正的友好。中国对改革的怠惰是在玩火自焚。”</p>
-<p>文章接着指出：”中国对股市的干预机制也被证明失效，不仅无法阻止股市暴跌，还加剧了投资者的不安全感。以中国人民银行决定重新设定汇率为例，政府在采取行动时缺乏敏锐性以及将出手干涉的原因更透明化的智慧。中国政府曾长期被认为是绝对可靠的，此类粗糙的做法却让其失去光芒。”</p>
-<p>作者最后总结，中国股市的失利反映出国家的整体情况：”中国并不像许多人一直以为的那么好。不过也没有许多人如今认为的那么差。”</p>
-<p>[本文摘自其它媒体，不代表德国之声观点。]</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/" target="cdt-mirror">德国之声｜德语媒体：玩火的中国</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018709501_30300.jpg" alt="0,,18709501_303,00" width="498" height="280"></p>
-<p>（德国之声中文网）2015年达沃斯世界经济论坛周四在大连召开。《法兰克福评论报》在经济栏目发表文章指出，几年前中国还是这场经济论坛的璀璨明星，如今中国国务院总理李克强却必须在论坛上安抚企业领袖无需担忧中国经济会崩溃。</p>
-<p>文章开头描述道，李克强在夏季达沃斯期间努力消除中国经济陷入危机的印象。他在开幕式致辞时强调，中国经济不会硬着陆，而且有能力实现今年主要经济发展目标。他还指出，中国今年上半年对世界经济增长的贡献率约30%。</p>
-<p>《法兰克福评论报》写道：”自中国股市在夏季大跌后，对中国经济前景的担忧不断加剧。李克强希望将股市扩展成经济体中现代化的融资渠道，然而，投资者在股市一路飚涨后带走了利润，让股盘再次回到原点。7%的经济增长率也远低于期望。中国的外贸、工业产值和其它指标都在下滑。”</p>
-<p>李克强建议各界，不要过分在意数据，重要的是朝可持续发展、创新、更多的服务业和扩大内需迈进。</p>
-<p>文章写道：”经济学家也同意李克强对当前情势的基本正面态度，但仍对接下来的困难形势发出警告。《新萧条》一书的作者邓肯（Richard Duncan）表示：’大规模放贷长期以来遮掩了结构性问题。过去几年的大型经济项目如同给中国打了鸡血一般。’如今中国经济却面临产能过剩、缺乏效益以及低收益等问题。长期的低增速正等待着中国。”</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018702890_40400.jpg" alt="0,,18702890_404,00" width="340" height="191"><br>
-中国国家发改委主任徐绍史</div>
-<p>文章最后指出：”四年之前，在华举行的’夏季达沃斯’中还洋溢着对中国增长潜能及其体制优势的兴奋之情：当时美国和欧盟的危机皆无法影响中国。”</p>
-<p>“这一次，中国的高层官员和经济学家在会场内四处奔走，试图安抚全球民众的担忧。中国国家发改委主任徐绍史从会议的第一天开始便不断重复官方立场：中国将会达到自订目标，而且经济基础稳固。知名经济学者李稻葵甚至表示，股市下跌是好事：’调整的结果超过了预期。'”</p>
-<p>瑞士《新苏黎世报》周五也针对中国经济发表署名文章，题为”玩火的中国”。文章指出，中国经济疲弱有各种原因。”各省份进行经济改革并且赋予经济新动力的意愿有限……人口结构的变迁也造成劳动力减少，中央政府也没有展现出真正的改革热情。此外，中国试图稳定股市时不完善的做法导致各种猜测甚嚣尘上，认为中国国家主席习近平并不是对市场真正的友好。中国对改革的怠惰是在玩火自焚。”</p>
-<p>文章接着指出：”中国对股市的干预机制也被证明失效，不仅无法阻止股市暴跌，还加剧了投资者的不安全感。以中国人民银行决定重新设定汇率为例，政府在采取行动时缺乏敏锐性以及将出手干涉的原因更透明化的智慧。中国政府曾长期被认为是绝对可靠的，此类粗糙的做法却让其失去光芒。”</p>
-<p>作者最后总结，中国股市的失利反映出国家的整体情况：”中国并不像许多人一直以为的那么好。不过也没有许多人如今认为的那么差。”</p>
-<p>[本文摘自其它媒体，不代表德国之声观点。]</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -956,7 +967,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1kpjmaq1bdc8v.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -966,5 +977,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1kpjmaq1bdc8v.cloudfront.net">https://d1kpjmaq1bdc8v.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1qa7hxglux51y.cloudfront.net">https://d1qa7hxglux51y.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1kpjmaq1bdc8v.cloudfront.net">https://d1kpjmaq1bdc8v.cloudfront.net</a><br/><a href="https://d1qa7hxglux51y.cloudfront.net">https://d1qa7hxglux51y.cloudfront.net</a><br/></td>    </tr>
 </table>

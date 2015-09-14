@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://un3tiqe.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d2x27fumhja19o.cloudfront.net">https://d2x27fumhja19o.cloudfront.net</a><br/><a href="https://d3kaz9puoi3tfs.cloudfront.net">https://d3kaz9puoi3tfs.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d10jwpc65dabv1.cloudfront.net">https://d10jwpc65dabv1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d10jwpc65dabv1.cloudfront.net">https://d10jwpc65dabv1.cloudfront.net</a><br/><a href="https://d2x27fumhja19o.cloudfront.net">https://d2x27fumhja19o.cloudfront.net</a><br/><a href="https://d3kaz9puoi3tfs.cloudfront.net">https://d3kaz9puoi3tfs.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%EF%BD%9C%E9%A6%96%E9%96%B1%E5%85%B5%E7%BF%92%E8%BF%91%E5%B9%B3%E3%80%8C%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A6%AE%E3%80%8D%E7%B6%B2%E5%8F%8B/" target="cdt-mirror">【CDTV】中天新聞｜首閱兵習近平「左手敬禮」網友熱議</a>
+</h2>
+<p><p></p>
+<p><strong>以下评论由数字时代编辑选自网络：</strong></p>
+<p>@<a title="本阿里郎" href="http://weibo.com/a7749" target="_blank">本阿里郎</a><a title="本阿里郎" href="http://weibo.com/a7749" target="_blank"> </a>： <span>左手</span><span>军礼</span>,才是古今中外第一次.<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"> //<a href="http://weibo.com/n/%E7%9F%A5%E5%BF%83%E5%BF%83%E8%AF%AD" target="_blank">@知心心语</a>:<img title="[心]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" alt="[心]"><img title="[赞]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/z2_org.gif" alt="[赞]"> //<a href="http://weibo.com/n/%E7%99%BD%E9%9B%AA%E5%AE%9D%E8%B4%9D%E5%85%90" target="_blank">@白雪宝贝児</a>: <img title="[国旗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/dc/flag_org.gif" alt="[国旗]"></p>
+<p>@<a title="讨个说法_" href="http://weibo.com/u/3237433674" target="_blank">讨个说法_</a><a title="讨个说法_" href="http://weibo.com/u/3237433674" target="_blank"> </a>： 不好意思：再好的练兵值吗？领导人一个<span>左手</span><span>军礼</span>全都玩完！<img title="[失望]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0c/sw_org.gif" alt="[失望]"><img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p>‏@cyxhorse：总觉得好怪，习大大一副不高兴的样子，还用左手敬礼。</p>
+<p>‏@魚腩：主席你这左手敬礼是闹哪样？？？？主席你公然在全国人民面前恶意遮挡车牌又是闹哪样？？？？</p>
+<p>‏@nonozone：竟然左手敬礼…真是服了…你让印度人怎么想！</p>
+<p>‏@afloatingbottle：主席牛啊，左手敬礼，你丫内务条例没学吗？</p>
+<p>@一段榆木：怎么讲，一群人引经据典的找台阶解释左手礼，结果官方解释是角度问题，其实是在招手。大意了，妹想到。</p>
+<p>@深邃-回眸：看看往年不就知道了吗。</p>
+<p>@车正风后: N种说法：先礼后兵说, 军队礼仪说, 中国礼仪说, 最后出来个：伟大招手说那是啊 按其他说法感情就是之前的伟大领袖们都举错了!</p>
+<p>@断羽飞绣：皇帝的新衣。</p>
+<p>@<a title="上海杨卫华律师" href="http://weibo.com/yanglawyer" target="_blank">上海杨卫华律师</a>：<a href="http://huati.weibo.com/k/%E5%A5%B4%E6%89%8D%E7%9A%84%E5%AD%A6%E9%97%AE?from=526" target="_blank">#奴才的学问#</a> 老大阅兵，举<span>左手</span>挥了挥，立马就有学问家出来微言大义，《道德经》啦、制式<span>军礼</span>啦，解释的头头是道。结果，人日说只是挥手致意，并无深意。由此可见，满腹经纶、逮空就舔，这够得上真正的“奴”而且“才”。相较之下，我们只是奴隶而已。</p>
+<p>@皇帝未死：通过“群众”自发为习“左手敬礼”引经据典地解释其中深刻含义，而且还得到了很多人的附和，我终于深刻了指鹿为马和为虎作伥这两个成语的现实含义。很多国人不管是出于献媚圣上的政治动机，还是一贯皇上圣明的朴素思维习惯，都说明我们从来不缺文革的群众基础。我真实地看到了常识是如何被权力扭曲的。</p>
+<p>‏@uponsnow：微博上有人解释受阅部队在左侧所以左手敬礼。底下神回复：那么部队两侧都有呢</p>
+<p>@猪猡懦夫：忽然想明白了，用左手敬礼是怕把飞机打下来。</p>
+<p><a href="http://twitter.com/linyueyang">@linyueyang</a>：习近平阅兵行左手礼 真的是个大纰漏  <a href="https://t.co/9cLvE2dkms">shar.es/1v8xOa</a> 来自中共军队传统上认为行军礼用左手是不可饶恕的错误。官方的《环球时报》旗下的环球网甚至转述官方新华网早年的一篇报道，说是前海军司令员刘华清因为在电视上看到一个军人用左手行军礼而“震怒“。</p>
+<p>@阿里巴巴古德三世：实在忍不住对群里给左手敬礼洗地的娃发了一句人丑就要多读书不要瞎用道德经。</p>
+<p>@三木匠 :刁参谋长放个屁也是香的—没出息的民族！ </p>
+<p>@許梅邨：最大的笑话：左手敬礼！之后网上大批的奴才这一顿解读啊，又是国学又是道德经的，后来“日人民报”辟谣了，说仅仅是打招呼…把那些舔腚的嘴巴子扇的山响！其实本质上就是个最低级的错误，不然前两任都是……</p>
+<p>@不言有罪 :那位“空军上将”再解释解释，习大大的头发为什么大部分向右边梳而不是向左边？ 中国坏就坏在那帮毫无独立人格的酸腐文人，整天就会揣摩圣意，编造圣上的屁故事，愚弄百姓。 </p>
+<p>@scbean :如果两个手都举起来，就更有说法了。 </p>
+<p>@biglow :整个阅兵仪式，今上表现最差。左手行军礼，有这么干的吗？没穿军装，能行军礼吗？就算是行所谓左手礼，阅兵的时候能和平时一样招手打招呼吗？一点威严都没有。城楼观礼，站一个小时能累死啊，坐坐站站的，站着的时候也是歪个脑袋。一点儿都没有堂堂天朝的威严气概。知青出身真的没人教吗？ </p>
+<p>@x潇潇 :没有人敢训练他，自然就好。 </p>
+<p>@ult :这个敬礼不像敬礼， 挥手不像挥手的姿势，加上一脸无奈的表情，确实看不懂. </p>
+<p>@随便说说280 :感觉无精打采，会不会是替身？ </p>
+<p>@乐国乐国爰得我直：瞧习皇帝出手的神态，跟刚断了鸦片似的，能把手举起来就不错了，还分什么左手右手的。</p>
+<p>@brokerbro :近平好像压力太大了。应该注射兴奋剂。 </p>
+<p>@fdny : 顶习大大！带病检阅，还是蛮拼的。 </p>
+<p>@<a title="右倾保守" href="http://weibo.com/u/2080669351" target="_blank">右倾保守</a>：经济全面下滑，反腐骑虎难下，想通过阅兵以壮声势，给全国人民打打气。结果自己就很泄气，全程表情凝重，<span>左手</span>敬<span>军礼</span>。这反映了他内心的某种惶恐，知道以后的日子不好过。</p>
+<p>@无烦无恼 :他后来用右手向观众台的人挥手。 不知道这左手是个啥礼.</p>
+<p>@北极村姑 :就是太紧张造成的。这么大的场面一个人撑着，且全世界都在看着他的表演。表情一直紧张，直到快进门了，放松下来了，才想起挥右手。 </p>
+<p>@相当冷静 :左手敬礼小事一桩。 习总当兵是后门兵，直接当了官。就算新兵营训练谁都知道走过场，哪儿敢真训练。 再说，谁说三军统帅一定要敬礼标准？ 可偏偏吧，立刻一帮拍马的人出来了，啥左手敬礼也符合条例，啥左手是为了和平等等等等。不要急嘛。今天找出更好的解释了，是镜头角度的问题。天啊，终于找出阶级敌人了。 昨天一的马屁拍错了？ 没事，接着拍。 林总对老毛有救命之恩，离毛太近，才会出现拍马屁被驴踢死的闹剧。大家离着很远，暂时没有生命危险，多练练，说不定哪天正好用上。</p>
+<p>@samliu99 :拿习和毛邓阅兵相比没必要。毕竟天下是毛邓打出来的，那种豪情和自信深入骨髓，自然流露。  </p>
+<p>@蓝天翔 :正式的检阅车应当是敞篷车。 检阅者从轿车的天窗中钻出来，算个什么？ 好像一场豪华的婚礼， 新娘穿了一身旧的连衣裙。 </p>
+<p>@鸭梨山大：关于左手礼的帖子全部扎口或者删除了,可以确定是皇帝的新衣了!</p>
+<p>@MMCFX：我的回复居然给吃了，看来天涯也是宣传部的管辖范围。楼上的网友还记得我的发言吧？ </p>
+<p>@ttzz1963 :依我看习大大就以为应该用左手敬礼因为从他的角度来看别人都像从左边向他敬礼.毛泽东和邓小平都是用右手敬礼. 活了这么大从未见过任何人这样做过. 可悲的是无人敢向他指出其错误. 皇帝的新装! </p>
+<p>@京V-02009 :左手礼就是要告诉你们，中国还是要走左倾路线合适。 </p>
+<p>@西门桥 :勇敢一点嘛，站起来向中国人民认个错：马克思列宁主义那条路走错了，那是一条死胡同！别躲躲闪闪的，不像一个男人！ </p>
+<p>@wenyunchao: 习近平行“左手礼”，原因很简单，其他参与阅兵的人都训练了无数次，惟独习没有参加训练，没人敢请他参加，也没人有意识到习会用左手敬礼，没有事先提醒。至于不是左撇子的习为何用左手敬礼，最大的可能显然是压力之下大脑短路了。这个事情，就是皇帝新衣的翻版。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%EF%BD%9C%E9%A6%96%E9%96%B1%E5%85%B5%E7%BF%92%E8%BF%91%E5%B9%B3%E3%80%8C%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A6%AE%E3%80%8D%E7%B6%B2%E5%8F%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%90%9E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%98%AF%E4%B8%BA%E4%BA%86%E5%AE%9E%E7%8E%B0%E5%85%B1/" target="cdt-mirror">【网络民议】搞中国特色的社会主义是为了实现共产主义</a>
 </h2>
 <p><p>习近平首次做出重大理论表态：搞中国特色的社会主义是为了实现共产主义</p>
@@ -934,33 +985,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/" target="cdt-mirror">自由亚洲｜北京律师案多位辩护人天津欲见当事人不果</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/fba819d8-6bcc-4bda-9931-1ad8cfda18e9.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/fba819d8-6bcc-4bda-9931-1ad8cfda18e9.jpeg" alt="fba819d8-6bcc-4bda-9931-1ad8cfda18e9" width="550" height="423"></a><p>图片：多位被捕律师的辩护人，在天津河西公安分局外。（听众提供/记者乔龙）</p></div>
-<p>北京警方于今年7月连续抓捕十多位律师，目前由公安部指定天津市公安局河西分局管辖。本周五（9月11日），被羁押超过两个月的维权律师李和平、谢远东、 王全璋及勾洪国的辩护人到河西分局预审支队，要求见当事人及了解案情，均没有成功。当局的理由是案件涉及危害国家利益。有律师感叹道，河西分局只是公安部 的一个“托”，案件“水太深”。</p>
-<p>今年7月9日及10日，被北京警方抓捕及失踪的多位北京律师至今不准与辩护律师见面。</p>
-<p>本周五，李和平、谢远东、王全璋及勾洪国的代理律师不约而同的前往天津市河西公安分局预审支队，向队长赵旭查询他们当事人的情况，但接待人员以赵旭开会为由，婉拒律师的请求。</p>
-<p>谢远东的辩护律师李永恒当天在公安局外对记者说：“我们都到了河西分局以后，他们负责接待的赵队长，赵旭，他们说赵旭队长没有在。他们一个姓王的警官就说， 原来出具过法律手续，就说凡是涉及煽动颠覆国家政权，不允许会见。他现在仍然按照原来的理由执行，还是不允许会见。他让我们写了书面材料，说他会向领导反 映”。</p>
-<p>李永恒说，其当事人已被羁押两个多月，依照法律的相关规定，当局也应该准许律师会见。</p>
-<p>“律师会见（当事人）应该是常态，你如果认为（会见）妨碍侦查或涉及秘密，过一段时间，你还是要让律师会见的。你不能以拒绝律师会见为理由，永远不让律师会见，这是不可以的”。</p>
-<p>7月10日，北京锋锐律师事务所谢远东律师被警方以涉嫌“寻衅滋事罪”为由抓走，几天后，其家属接到“指定监视居住通知书”。8月3日，家属委托的辩护人李永恒律师、杜青波律师到河西分局，要求会见当事人，被警方拒绝。</p>
-<p>勾洪国案的代理律师纪中久对记者说，办案的警察也在回避律师。</p>
-<p>“今天，因为他们也预料到，这几天去的律师人数不少。（负责人）昨天不在，今天又不在。这件事因为时间长了，他们觉得还不让律师见当事人，也不太好说。他们所 采取的羁押措施都是指定居所监视居住。我们跟他们讲，天气冷了，他们被捕时穿的衣服，跟现在的季节都不适应了，家属要送衣服是人之常情。另外，我们也讲了，人都抓了两个月了，你开始不让见人，说是涉秘。过了两个月都不让见，不合情理吧”。</p>
-<p>李和平案的代理律师马连顺周五表示，他就此到天津市公安局信访窗口查询。</p>
-<p>“因为，7月27日，我和蔡瑛律师，还有王峭岭女士（李和平妻子），我们一起去过一次，他们说，五个工作日给答复。今天又去了以后，他们又说不知道，电脑里查不到。11点15分到的，他们已经下班了。对我们很不耐烦，就想往外赶人”。</p>
-<p>马律师说，河西分局未必是真正的办案单位。</p>
-<p>“现在我们怀疑河西分局是公安部的一个托，具体谁办案，他们可能真的不知道。背后有一只手在操控这个案件。上级要他们接待，他们就接待。看不到边啊，这个水太深”。</p>
-<p>王 权璋律师的姐姐周四发出寻人启事称：“今天，我和李律师又一次来到河西看守所，我们多么地渴望能够见你一面，哪怕只有一分钟！可希望又一次破灭了！他们派 了一个不管事的警员来应付我们，我们辗转几十个小时，坐了一整晚的火车，他们几分钟就把我们打发了，悲！痛！在公权力面前，我们是那么的无助，犹如任由宰 割的羔羊！”</p>
-<p>（特约记者：乔龙 责编：吴晶）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E6%A1%88%E5%A4%9A%E4%BD%8D%E8%BE%A9%E6%8A%A4%E4%BA%BA%E5%A4%A9%E6%B4%A5%E6%AC%B2%E8%A7%81%E5%BD%93%E4%BA%8B%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">李和平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%85%A8%E7%92%8B/?category=18271" rel="tag">王全璋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -972,7 +996,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d10jwpc65dabv1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://un3tiqe.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -982,5 +1006,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d10jwpc65dabv1.cloudfront.net">https://d10jwpc65dabv1.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3kaz9puoi3tfs.cloudfront.net">https://d3kaz9puoi3tfs.cloudfront.net</a><br/><a href="https://d2x27fumhja19o.cloudfront.net">https://d2x27fumhja19o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3kaz9puoi3tfs.cloudfront.net">https://d3kaz9puoi3tfs.cloudfront.net</a><br/><a href="https://d10jwpc65dabv1.cloudfront.net">https://d10jwpc65dabv1.cloudfront.net</a><br/><a href="https://d2x27fumhja19o.cloudfront.net">https://d2x27fumhja19o.cloudfront.net</a><br/></td>    </tr>
 </table>

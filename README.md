@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d139f5e8rim565.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d10jwpc65dabv1.cloudfront.net">https://d10jwpc65dabv1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d10jwpc65dabv1.cloudfront.net">https://d10jwpc65dabv1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%90%9E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%98%AF%E4%B8%BA%E4%BA%86%E5%AE%9E%E7%8E%B0%E5%85%B1/" target="cdt-mirror">【网络民议】搞中国特色的社会主义是为了实现共产主义</a>
@@ -579,7 +579,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%82%BC%E9%92%A2%E9%93%81/?category=18271" rel="tag">大炼钢铁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">大跃进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BE%E5%8D%AB%E6%98%9F/?category=18271" rel="tag">放卫星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9D%9A%E5%86%B3%E5%B9%B2%E3%80%81%E5%8A%A0%E6%B2%B9%E5%B9%B2%E3%80%81%E4%B8%80%E5%88%BB%E4%B8%8D%E5%81%9C%E6%AD%87%E5%9C%B0%E5%B9%B2/" target="cdt-mirror">【网络民议】坚决干、加油干、一刻不停歇地干</a>
 </h2>
@@ -972,7 +972,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d10jwpc65dabv1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -982,5 +982,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d10jwpc65dabv1.cloudfront.net">https://d10jwpc65dabv1.cloudfront.net</a><br/><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d10jwpc65dabv1.cloudfront.net">https://d10jwpc65dabv1.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://djv0pv8b3tvv1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://djv0pv8b3tvv1.cloudfront.net">https://djv0pv8b3tvv1.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/><a href="https://dlqgmfajyy6qw.cloudfront.net">https://dlqgmfajyy6qw.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://djv0pv8b3tvv1.cloudfront.net">https://djv0pv8b3tvv1.cloudfront.net</a><br/><a href="https://dlqgmfajyy6qw.cloudfront.net">https://dlqgmfajyy6qw.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%86%89%E4%BA%91%E9%A3%9E%EF%BC%9A%E5%9D%91%E7%88%B9%E7%9A%84%E5%AD%A9%E5%AD%90%E6%97%A9%E5%B7%B2%E8%A2%AB%E7%88%B9%E5%9D%91-%E8%AE%B2%E8%AE%B2%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BA%AD/" target="cdt-mirror">冉云飞：坑爹的孩子早已被爹坑——讲讲中国家庭的互坑模式</a>
@@ -161,7 +161,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%85%AC%E6%98%8E-%E6%8A%8A%E5%85%89%E6%89%93%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%EF%BC%9A%E8%83%A1%E6%9D%B0%E7%89%88%E7%94%BB%E5%B1%95/" target="cdt-mirror">李公明 | 把光打在大地上：胡杰版画展</a>
 </h2>
@@ -1003,7 +1003,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://djv0pv8b3tvv1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1013,5 +1013,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://djv0pv8b3tvv1.cloudfront.net">https://djv0pv8b3tvv1.cloudfront.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dlqgmfajyy6qw.cloudfront.net">https://dlqgmfajyy6qw.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dlqgmfajyy6qw.cloudfront.net">https://dlqgmfajyy6qw.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d249fzq2lf5pt8.cloudfront.net">https://d249fzq2lf5pt8.cloudfront.net</a><br/><a href="https://djv0pv8b3tvv1.cloudfront.net">https://djv0pv8b3tvv1.cloudfront.net</a><br/></td>    </tr>
 </table>

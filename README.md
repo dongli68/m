@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3kaz9puoi3tfs.cloudfront.net">https://d3kaz9puoi3tfs.cloudfront.net</a><br/><a href="https://d162chwovu2j8p.cloudfront.net">https://d162chwovu2j8p.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3kaz9puoi3tfs.cloudfront.net">https://d3kaz9puoi3tfs.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d162chwovu2j8p.cloudfront.net">https://d162chwovu2j8p.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%EF%BD%9C%E9%A6%96%E9%96%B1%E5%85%B5%E7%BF%92%E8%BF%91%E5%B9%B3%E3%80%8C%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A6%AE%E3%80%8D%E7%B6%B2%E5%8F%8B/" target="cdt-mirror">【CDTV】中天新聞｜首閱兵習近平「左手敬禮」網友熱議</a>
@@ -153,7 +153,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1/?category=18271" rel="tag">刻板印象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E7%95%8C/?category=18271" rel="tag">商界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%AF%8C%E8%B1%AA/?category=18271" rel="tag">大陆富豪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">香港经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF-%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E7%9A%84346%E5%A4%A9%E7%89%A2%E7%8B%B1%E7%94%9F%E6%B4%BB/" target="cdt-mirror">法广 | 记者刘虎的346天牢狱生活</a>
 </h2>
@@ -996,7 +996,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d162chwovu2j8p.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1006,5 +1006,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
                 <td></td>
                 
         
-        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d162chwovu2j8p.cloudfront.net">https://d162chwovu2j8p.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d3kaz9puoi3tfs.cloudfront.net">https://d3kaz9puoi3tfs.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d162chwovu2j8p.cloudfront.net">https://d162chwovu2j8p.cloudfront.net</a><br/><a href="https://d3kaz9puoi3tfs.cloudfront.net">https://d3kaz9puoi3tfs.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>

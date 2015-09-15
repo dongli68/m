@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1by17x7r61cp5.cloudfront.net">https://d1by17x7r61cp5.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://d1by17x7r61cp5.cloudfront.net">https://d1by17x7r61cp5.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6-%E5%88%AB%E8%AE%A9%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86/" target="cdt-mirror">【异闻观止】中国企业家 | 别让李嘉诚跑了</a>
@@ -1060,7 +1060,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://un3tiqe.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1070,5 +1070,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F
                 <td></td>
                 
         
-        <td><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d1by17x7r61cp5.cloudfront.net">https://d1by17x7r61cp5.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://d1by17x7r61cp5.cloudfront.net">https://d1by17x7r61cp5.cloudfront.net</a><br/></td>    </tr>
 </table>

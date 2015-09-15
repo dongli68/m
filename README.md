@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dmteonbfa0laa.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d28zm1sjabp9uh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dmteonbfa0laa.cloudfront.net">https://dmteonbfa0laa.cloudfront.net</a><br/><a href="https://d28zm1sjabp9uh.cloudfront.net">https://d28zm1sjabp9uh.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://de6lcz2c1ylnu.cloudfront.net">https://de6lcz2c1ylnu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d28zm1sjabp9uh.cloudfront.net">https://d28zm1sjabp9uh.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://dmteonbfa0laa.cloudfront.net">https://dmteonbfa0laa.cloudfront.net</a><br/><a href="https://de6lcz2c1ylnu.cloudfront.net">https://de6lcz2c1ylnu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/" target="cdt-mirror">BBC | 梁振英：张晓明“香港特首超然”论遭曲解</a>
@@ -170,7 +170,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E6%80%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%85%B4%E7%BB%8F%E6%B5%8E%E4%BD%93/?category=18271" rel="tag">新兴经济体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">金融机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E4%B8%9A/?category=18271" rel="tag">银行业</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%A7%8B%E8%9A%82%E8%9A%B1%EF%BC%9A%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%A4%96%E4%B8%80%E7%AF%87%EF%BC%89/" target="cdt-mirror">秋蚂蚱：车上的故事（外一篇）</a>
 </h2>
@@ -948,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
                 <td></td>
                 
         
-        <td><a href="https://dmteonbfa0laa.cloudfront.net">https://dmteonbfa0laa.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d28zm1sjabp9uh.cloudfront.net">https://d28zm1sjabp9uh.cloudfront.net</a><br/><a href="https://de6lcz2c1ylnu.cloudfront.net">https://de6lcz2c1ylnu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dmteonbfa0laa.cloudfront.net">https://dmteonbfa0laa.cloudfront.net</a><br/><a href="https://d28zm1sjabp9uh.cloudfront.net">https://d28zm1sjabp9uh.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://de6lcz2c1ylnu.cloudfront.net">https://de6lcz2c1ylnu.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>

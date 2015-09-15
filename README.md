@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1si8fewy04b85.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1si8fewy04b85.cloudfront.net">https://d1si8fewy04b85.cloudfront.net</a><br/><a href="https://d2lfr56qb2zga5.cloudfront.net">https://d2lfr56qb2zga5.cloudfront.net</a><br/><a href="https://d1va6q8ql7wh0b.cloudfront.net">https://d1va6q8ql7wh0b.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1si8fewy04b85.cloudfront.net">https://d1si8fewy04b85.cloudfront.net</a><br/><a href="https://d1va6q8ql7wh0b.cloudfront.net">https://d1va6q8ql7wh0b.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d2lfr56qb2zga5.cloudfront.net">https://d2lfr56qb2zga5.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/" target="cdt-mirror">BBC | 梁振英：张晓明“香港特首超然”论遭曲解</a>
@@ -208,7 +208,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9E%E8%AE%A8/?category=18271" rel="tag">乞讨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E6%97%8F/?category=18271" rel="tag">汉族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E6%97%8F/?category=18271" rel="tag">藏族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6-%E5%88%AB%E8%AE%A9%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86/" target="cdt-mirror">【异闻观止】中国企业家 | 别让李嘉诚跑了</a>
 </h2>
@@ -269,7 +269,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9E%E8%AE%A8
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E5%95%86/?category=18271" rel="tag">富商</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">既得利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E4%BA%BA%E6%B2%BB%E6%B8%AF/?category=18271" rel="tag">港人治港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82/?category=18271" rel="tag">社会阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92/?category=18271" rel="tag">香港回归</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E5%A5%87%E8%99%8E360%E5%85%AC%E5%8F%B8%E5%9C%A8%E9%98%85%E5%85%B5%E5%AE%89%E4%BF%9D%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%8F%91%E6%8C%A5%E9%87%8D%E8%A6%81%E4%BD%9C%E7%94%A8/" target="cdt-mirror">翻墙 | 奇虎360公司在阅兵安保工作中发挥重要作用</a>
 </h2>
@@ -938,7 +938,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1va6q8ql7wh0b.cloudfront.net">https://d1va6q8ql7wh0b.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d2lfr56qb2zga5.cloudfront.net">https://d2lfr56qb2zga5.cloudfront.net</a><br/><a href="https://d1si8fewy04b85.cloudfront.net">https://d1si8fewy04b85.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d2lfr56qb2zga5.cloudfront.net">https://d2lfr56qb2zga5.cloudfront.net</a><br/><a href="https://d1va6q8ql7wh0b.cloudfront.net">https://d1va6q8ql7wh0b.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1si8fewy04b85.cloudfront.net">https://d1si8fewy04b85.cloudfront.net</a><br/></td>    </tr>
 </table>

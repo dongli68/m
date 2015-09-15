@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d139f5e8rim565.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1by17x7r61cp5.cloudfront.net">https://d1by17x7r61cp5.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d1by17x7r61cp5.cloudfront.net">https://d1by17x7r61cp5.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6-%E5%88%AB%E8%AE%A9%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86/" target="cdt-mirror">【异闻观止】中国企业家 | 别让李嘉诚跑了</a>
@@ -83,7 +83,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E5%95%86/?category=18271" rel="tag">富商</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">既得利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E4%BA%BA%E6%B2%BB%E6%B8%AF/?category=18271" rel="tag">港人治港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82/?category=18271" rel="tag">社会阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92/?category=18271" rel="tag">香港回归</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 25分钟前</small>
+	<small> ============== 1小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9B%B8%E4%BF%A1%E5%8C%85%E5%AD%90%E7%9A%84%E5%98%B4%E4%B8%8D%E5%A6%82%E7%9B%B8%E4%BF%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E7%9A%84%E8%85%BF/" target="cdt-mirror">【河蟹档案】相信包子的嘴不如相信李嘉诚的腿</a>
 </h2>
@@ -1060,7 +1060,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1by17x7r61cp5.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1070,5 +1070,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F
                 <td></td>
                 
         
-        <td><a href="https://d1by17x7r61cp5.cloudfront.net">https://d1by17x7r61cp5.cloudfront.net</a><br/><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d1by17x7r61cp5.cloudfront.net">https://d1by17x7r61cp5.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d139f5e8rim565.cloudfront.net">https://d139f5e8rim565.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
 </table>

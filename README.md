@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3b5oxcp4ka4ov.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3b5oxcp4ka4ov.cloudfront.net">https://d3b5oxcp4ka4ov.cloudfront.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3b5oxcp4ka4ov.cloudfront.net">https://d3b5oxcp4ka4ov.cloudfront.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9B%BE%E6%BB%A1%E6%8B%A6%E6%B1%9F%EF%BC%9A%E8%B0%81%E6%AF%81%E7%81%AD%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%88%B1%E4%B8%8E%E5%A9%9A%E5%A7%BB%EF%BC%9F/" target="cdt-mirror">雾满拦江：谁毁灭了中国人的爱与婚姻？</a>
@@ -288,7 +288,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/360/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E6%9D%83%E5%88%86%E7%AB%8B/?category=18271" rel="tag">三权分立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%A7%90/?category=18271" rel="tag">凤姐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E/?category=18271" rel="tag">刘虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90/?category=18271" rel="tag">包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%A1%98%E6%B2%BD/?category=18271" rel="tag">天津塘沽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E4%B8%9C%E9%99%86%E4%B8%B0/?category=18271" rel="tag">广东陆丰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%99%93%E6%98%8E/?category=18271" rel="tag">张晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%92%A4%E8%B5%84/?category=18271" rel="tag">撤资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5%E7%AB%99/?category=18271" rel="tag">核电站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E7%BA%AA%E5%85%B0/?category=18271" rel="tag">申纪兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E7%8E%89%E5%87%A4/?category=18271" rel="tag">罗玉凤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%8A%E8%82%89/?category=18271" rel="tag">腊肉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E6%9D%83/?category=18271" rel="tag">行政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">谣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%BC%E7%AD%BE/?category=18271" rel="tag">逼签</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%87%E5%8E%8B/?category=18271" rel="tag">镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5/?category=18271" rel="tag">阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%EF%BD%9C%E9%A6%96%E9%96%B1%E5%85%B5%E7%BF%92%E8%BF%91%E5%B9%B3%E3%80%8C%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A6%AE%E3%80%8D%E7%B6%B2%E5%8F%8B/" target="cdt-mirror">【CDTV】中天新聞｜首閱兵習近平「左手敬禮」網友熱議</a>
 </h2>
@@ -952,7 +952,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3b5oxcp4ka4ov.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -962,5 +962,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3b5oxcp4ka4ov.cloudfront.net">https://d3b5oxcp4ka4ov.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3b5oxcp4ka4ov.cloudfront.net">https://d3b5oxcp4ka4ov.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>

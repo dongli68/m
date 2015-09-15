@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1va6q8ql7wh0b.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d5qvbayfp0two.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1va6q8ql7wh0b.cloudfront.net">https://d1va6q8ql7wh0b.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d1si8fewy04b85.cloudfront.net">https://d1si8fewy04b85.cloudfront.net</a><br/><a href="https://d2lfr56qb2zga5.cloudfront.net">https://d2lfr56qb2zga5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d5qvbayfp0two.cloudfront.net">https://d5qvbayfp0two.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d11wtjmaf4e5jl.cloudfront.net">https://d11wtjmaf4e5jl.cloudfront.net</a><br/><a href="https://d29v9ogmfvdy6c.cloudfront.net">https://d29v9ogmfvdy6c.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/" target="cdt-mirror">BBC | 梁振英：张晓明“香港特首超然”论遭曲解</a>
@@ -938,7 +938,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1si8fewy04b85.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
                 <td></td>
                 
         
-        <td><a href="https://d1si8fewy04b85.cloudfront.net">https://d1si8fewy04b85.cloudfront.net</a><br/><a href="https://d1va6q8ql7wh0b.cloudfront.net">https://d1va6q8ql7wh0b.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d2lfr56qb2zga5.cloudfront.net">https://d2lfr56qb2zga5.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d11wtjmaf4e5jl.cloudfront.net">https://d11wtjmaf4e5jl.cloudfront.net</a><br/><a href="https://d5qvbayfp0two.cloudfront.net">https://d5qvbayfp0two.cloudfront.net</a><br/><a href="https://d29v9ogmfvdy6c.cloudfront.net">https://d29v9ogmfvdy6c.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>

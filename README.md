@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dq6l19f25837q.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2m242v9wv4xvy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dq6l19f25837q.cloudfront.net">https://dq6l19f25837q.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dd0deilyo6nda.cloudfront.net">https://dd0deilyo6nda.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://dd0deilyo6nda.cloudfront.net">https://dd0deilyo6nda.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dq6l19f25837q.cloudfront.net">https://dq6l19f25837q.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9B%B8%E4%BF%A1%E5%8C%85%E5%AD%90%E7%9A%84%E5%98%B4%E4%B8%8D%E5%A6%82%E7%9B%B8%E4%BF%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E7%9A%84%E8%85%BF/" target="cdt-mirror">【河蟹档案】相信包子的嘴不如相信李嘉诚的腿</a>
@@ -1013,7 +1013,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://un3tiqe.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2m242v9wv4xvy.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1023,5 +1023,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
                 <td></td>
                 
         
-        <td><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://dd0deilyo6nda.cloudfront.net">https://dd0deilyo6nda.cloudfront.net</a><br/><a href="https://dq6l19f25837q.cloudfront.net">https://dq6l19f25837q.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2m242v9wv4xvy.cloudfront.net">https://d2m242v9wv4xvy.cloudfront.net</a><br/><a href="https://dq6l19f25837q.cloudfront.net">https://dq6l19f25837q.cloudfront.net</a><br/><a href="https://dd0deilyo6nda.cloudfront.net">https://dd0deilyo6nda.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
 </table>

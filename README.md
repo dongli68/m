@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dzay7ualxgxfh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://dcdsqekv29ffv.cloudfront.net">https://dcdsqekv29ffv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://dcdsqekv29ffv.cloudfront.net">https://dcdsqekv29ffv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/" target="cdt-mirror">BBC | 梁振英：张晓明“香港特首超然”论遭曲解</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150915043534_cn_hongkong_cy_leung_976x549_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150915043534_cn_hongkong_cy_leung_976x549_afp_nocredit.jpg" alt="梁振英当天在研讨会现场聆听了张晓明的讲话。" width="600" height="337"></a><p>梁振英当天在研讨会现场聆听了张晓明的讲话。</p></div>
+<p><strong>香港行政长官梁振英首次回应北京政府驻香港最高官员张晓明所提出的“特首地位超然于三权之上”言论，指责有人对其言论“断章取义，甚至误导”。</strong></p>
+<p>中国中央政府驻香港联络办公室主任张晓明上星期六（9月12日）演讲说，“行政长官具有超然于行政、立法和司法三个机关之上的特殊法律地位，处于特别行政区权力运行的核心位置，在中央政府之下、特别行政区三权之上”。</p>
+<p>这番言论在香港政界引起争议。梁振英星期二（15日）表态说，张晓明是针对香港的政治和法律制度作出解释，且其发言稿也有提到香港实行司法独立。批评者既误导，“甚至是不负责任”。<br>
+香港大律师公会也回应张晓明的言论说，张晓明的描述难免被解读为行政长官“凌驾于三权之上”，引起香港民主焦虑。大律师公会对张晓明的言论感到遗憾。</p>
+<p>大律师公会星期一（14日）晚间发表声明说：“行政长官行使他的权力而作出的行为，受香港特别行政区以司法复核制衡。总之，无论行政长官在香港特别行政区的政治体制中的角色被如何表述，在《基本法》下亦不能被理解为凌驾于法律之上。”</p>
+<p>“如张先生的原意只为总结行政长官依照《基本法》的有关规定所享有的宪法责任和义务……本会促请张先生及律政司司长早日作出澄清，以正视听，务求消除香港市民以及国际社会对香港在一国两制下秉行法治的疑虑。”</p>
+<p><strong>“不搞三权分立”</strong></p>
+<p>张晓明在香港“基本法颁布二十五周年”研讨会上发表的这篇题为《正确认识香港特别行政区政治体制的特点》的演说，开首先引述了已故中共领导人邓小平的讲话，继而说：“可见，不搞‘三权分立’是基本法起草有关规定时的一个重要指导思想。”</p>
+<p>张晓明续说：“行政长官不仅仅是行政机关的组成成员，行政长官的权力也不仅仅限于领导特区政府，‘双首长’身份和‘双负责制’使行政长官具有超然于行政、立法和司法三个机关之上的特殊法律地位，处于特别行政区权力运行的核心位置，在中央政府之下、特别行政区三权之上起着联结枢纽作用。”</p>
+<p>梁振英星期二在政府总部会见记者时说：“张晓明主任讲的是制度，包括香港的政治制度，以及法律制度，不是讲个人。”</p>
+<p>“大家能多些讨论是好事，但讨论这个问题的前提必须是根据事实，讲法律、讲制度。我注意到张晓明主任星期六发言后，在他发言稿未公布前，有人亦没有在现场听，已经有人作出相当严厉的批评，所以出现断章取义，甚至误导情况。”</p>
+<p>“这对我们就这些如此严肃的问题做讨论来讲，是不健康的，甚至说，有关人士是不负责任的。”</p>
+<p>“（张晓明）在他的演词当中至少有两处地方提到了司法独立，也有引述《基本法》的有关条文，这一点我十分支持。我们香港一直奉行司法独立，而司法独立是我们香港的法治精神、法治传统里面的一个关键部分。”</p>
+<p>《文汇报》的社评说：“有人为了攻击张晓明的解读阐释，说‘香港回归前就是三权分立’，实在是睁眼说瞎话。”</p>
+<p>“回归前，香港长期实行的是独裁式的彻头彻尾的行政主导。港英时代，港督集大权于一身，行政局和立法局都只是咨询性质，港督对这两个机构有完全的控制权，在立法局部分议席开放由选举产生之前，所有官守和非官守议员均由港督委任，很长时间内，港督更兼任立法局主席。”</p>
+<p>“当然，基本法所规定的行政主导，废弃了港英管治的糟粕，增添了民主和高度自治的新内容，与港英时期的行政主导有质的区别。”</p>
+<p>“反对派以‘特首等于皇帝’、‘特首凌驾三权’等胡言乱语攻击张晓明的论述，是罔顾历史和事实，刻意编造谎言误导市民，应该予以澄清和谴责。”</p>
+<p>即将离任香港立法会议员的“民主思路”政团召集人汤家骅星期三说，香港有“三权分立”之实，而这并非说一两句话就会消失。然而，张晓明的说法让人有“特首不用受法律制裁”的感觉。</p>
+<p>香港商业电台引述汤家骅说，梁振英的讲话并未回应特首的地位是否“超然于三权之上”，目前指责谁误导别人或是不负责任也是“无谓”之举，只会让香港民众之间的对立加深。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E6%9D%83%E5%88%86%E7%AB%8B/?category=18271" rel="tag">三权分立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">政治制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E9%A6%96/?category=18271" rel="tag">特首</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9B%BE%E6%BB%A1%E6%8B%A6%E6%B1%9F%EF%BC%9A%E8%B0%81%E6%AF%81%E7%81%AD%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%88%B1%E4%B8%8E%E5%A9%9A%E5%A7%BB%EF%BC%9F/" target="cdt-mirror">雾满拦江：谁毁灭了中国人的爱与婚姻？</a>
 </h2>
 <p><p>（01）</p>
@@ -897,50 +927,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9D%9A%E5%86%B3%E5%B9%B2%E3%80%81%E5%8A%A0%E6%B2%B9%E5%B9%B2%E3%80%81%E4%B8%80%E5%88%BB%E4%B8%8D%E5%81%9C%E6%AD%87%E5%9C%B0%E5%B9%B2/" target="cdt-mirror">【网络民议】坚决干、加油干、一刻不停歇地干</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%A8%E5%85%B82.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%A8%E5%85%B82.png" alt="习近平用典2" width="500" height="341"></a><br><em>（<span><a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%B7%AE%E8%AF%84%EF%BC%9A%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%A8%E5%85%B8%E3%80%8B/">豆瓣截图</a></span>）</em></p>
-<p><strong><a href="http://news.163.com/15/0912/20/B3BCLCBS00014SE1.html">习近平在中央政治局第二十六次学习时强调工作</a></strong></p>
-<blockquote><p>中共中央政治局9月11日下午就践行“三严三实”进行第二十六次集体学习。中共中央总书记习近平在主持学习时强调，党中央在部署这次专题教育时明确提出要以上率下，中央政治局这次集体学习以“三严三实”为题，就是落实这一要求的行动。中央政治局每位同志都要以身作则，为全党做好示范。“三严三实”是我们天天要面对的要求，大家要时时铭记、事事坚持、处处上心，<em><strong>随时准备坚持真理、随时准备修正错误，凡是有利于党和人民事业的，就坚决干、加油干、一刻不停歇地干；凡是不利于党和人民事业的，就坚决改、彻底改、一刻不耽误地改</strong></em>。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2672693853" target="_blank">临海-听风-</a>：不能把我们的公仆累死，作为群众建议他们歇息着干。<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
-<p>@管荣君同志：老师：“对党和人民有利的事坚决干。谁能讲一讲对这句话的体会？“小明：”就是如果仅对人民有利而对党不利的事，就坚决不能干。“老师：”小明，你给我滚粗去……”</p>
-<p><a href="http://weibo.com/n/%E6%9D%AF%E4%B8%AD-%E7%BA%A2%E9%85%92?from=feed&loc=at" target="_blank">杯中-红酒</a>:小明扒着门缝：”仅对党有利的事，就坚决往死里干，总可以了啵<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]">。“老师：”滚远 ~”</p>
-<p>@LoveForever哩: 不利于自己的就不是真理，对自己有利的就是真理？是不是这个意思？ //@LifeTime:每个人坚持的是不是真理，他怎么知道？如果一个人事先能判断真理，何来错误？</p>
-<p><a href="http://weibo.com/1303564301" target="_blank">哪是真相</a>：党与人民的利益不一致了，听党了；一致了就听人民的<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/5681878485" target="_blank">宇宙真理007</a>：“我们监守自盗，行贿受贿，无论在报纸、新闻还是讲台上，都谎话连篇，我们一面沉溺于自己的谎言，一面为彼此佩戴奖章。”<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@毛豆爱你们：汉语言博大精深，奈何天天用这些灯草和尚的词语，搞得看报告跟看黄书一样，不停地干，加油干，两手都要抓，两手都要硬</p>
-<p>@嗨玛莎: 读过辣么多世界名著 语言贫瘠到如此。</p>
-<p>@没绑定手机号：干他妈个蛋</p>
-<p>@断网改命：夙夜匪懈 一心一德 贯彻始终</p>
-<p>@万水千山仍旧在：【凡是有利于党和人民事业的，就坚决干、加油干、一刻不停歇地干；凡是不利于党和人民事业的，就坚决改、彻底改、一刻不耽误地改。】————官员公布财产喊了有二十多年了，到今天也没有实行，不知道这件事对于“党和人民的事业”是有利还是不利？</p>
-<p>@山水幽燕:我记得一个那时造反派的名句：“活着干，死了算！”</p>
-<p>@载哥载吾：翻开文革的报纸，你更热血沸腾。。。</p>
-<p>@上大夫之刑：王國福説：小車不倒只管推！ 王進喜説：寧可少火二十年，拼命也要拿下大油田。</p>
-<p>@grace啪啪：没文化所以才喊破嗓子说自己读过很多书。你见过哪个肚子里真有货的天天急赤白脸强调自己读过书？</p>
-<p>@大卫水滴石穿：要是党的利益与人民的利益有冲突那怎么干呢？</p>
-<p><a href="http://weibo.com/5687813411" target="_blank">陈年老酸菜小窝</a>：看见了吗，先党后民<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"></p>
-<p>@laohanzibj1963：党为啥永远在“人民”（公众）和国家前面。连大阅兵发言的头衔都是先党后国的哈</p>
-<p>@zcyang911：党和民是两个群体啊</p>
-<p>@天蝎鹏程万里2013：强拆有利于党，马上干，全国都给拆过两三长次。</p>
-<p>@直言而不悔：【凡是有利于党和人民事业的，就坚决干、加油干、一刻不停歇地干】- 还嫌贪的，捞的，抢的不够？还要快马加鞭坚决，加油，一刻不停歇的收刮百姓？</p>
-<p>@人形小萝卜：加油干坚决干，把人民榨干</p>
-<p>@我的现任是极品coco：互联网、电视盒子、滴滴打车、互联网金融、燃油税、房价、电信网速网费、垄断垄断垄断</p>
-<p>@人筏：路走错了，越干越完蛋。</p>
-<p>@幸福木目的一些事情：时下流行的话:然并卵</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%9E%E6%8A%95%E7%A5%A8%E6%9D%83%E9%83%BD%E6%B2%A1%E6%9C%89%E8%BF%98%E8%AF%B4%E5%95%A5%E5%91%A2%EF%BC%8C%E8%B4%B5%E5%85%9A%E5%BC%80%E5%BF%83/">【网络民议】连投票权都没有还说啥呢，贵党开心就好</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/" rel="bookmark">中小学生守则修订版：一年后还是得爱党 </a></li>
-<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/">伟光正</a>专题</li>
-</ul></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9D%9A%E5%86%B3%E5%B9%B2%E3%80%81%E5%8A%A0%E6%B2%B9%E5%B9%B2%E3%80%81%E4%B8%80%E5%88%BB%E4%B8%8D%E5%81%9C%E6%AD%87%E5%9C%B0%E5%B9%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E4%BA%BA%E6%B0%91%E5%B8%81%E6%9C%8D%E5%8A%A1/?category=18271" rel="tag">"为人民币服务"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -952,7 +938,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ukej62in4lpz.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dcdsqekv29ffv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -962,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://dcdsqekv29ffv.cloudfront.net">https://dcdsqekv29ffv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dcdsqekv29ffv.cloudfront.net">https://dcdsqekv29ffv.cloudfront.net</a><br/><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
 </table>

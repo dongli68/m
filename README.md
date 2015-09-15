@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://dcdsqekv29ffv.cloudfront.net">https://dcdsqekv29ffv.cloudfront.net</a><br/><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://dcdsqekv29ffv.cloudfront.net">https://dcdsqekv29ffv.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/" target="cdt-mirror">BBC | 梁振英：张晓明“香港特首超然”论遭曲解</a>
@@ -287,7 +287,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/360/?category=18271" rel="tag">360</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9B%B8%E4%BF%A1%E5%8C%85%E5%AD%90%E7%9A%84%E5%98%B4%E4%B8%8D%E5%A6%82%E7%9B%B8%E4%BF%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E7%9A%84%E8%85%BF/" target="cdt-mirror">【河蟹档案】相信包子的嘴不如相信李嘉诚的腿</a>
 </h2>
@@ -938,7 +938,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2ukej62in4lpz.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://dcdsqekv29ffv.cloudfront.net">https://dcdsqekv29ffv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://dzay7ualxgxfh.cloudfront.net">https://dzay7ualxgxfh.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://dcdsqekv29ffv.cloudfront.net">https://dcdsqekv29ffv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://ddgsy52guliy9.cloudfront.net">https://ddgsy52guliy9.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d3oc4xghywoxg0.cloudfront.net">https://d3oc4xghywoxg0.cloudfront.net</a><br/><a href="https://d2v6ndg24da4ym.cloudfront.net">https://d2v6ndg24da4ym.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ddgsy52guliy9.cloudfront.net">https://ddgsy52guliy9.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d3oc4xghywoxg0.cloudfront.net">https://d3oc4xghywoxg0.cloudfront.net</a><br/><a href="https://d2v6ndg24da4ym.cloudfront.net">https://d2v6ndg24da4ym.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9B%B8%E4%BF%A1%E5%8C%85%E5%AD%90%E7%9A%84%E5%98%B4%E4%B8%8D%E5%A6%82%E7%9B%B8%E4%BF%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E7%9A%84%E8%85%BF/" target="cdt-mirror">【河蟹档案】相信包子的嘴不如相信李嘉诚的腿</a>
@@ -504,7 +504,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">三年大饥荒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E6%98%AD/?category=18271" rel="tag">林昭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E5%9B%BD/?category=18271" rel="tag">祖国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E8%83%BD%E9%87%8F/?category=18271" rel="tag">负能量</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%A4%95%EF%BC%8C%E6%B4%BE%E7%89%B9%E4%BD%BF%E5%AD%9F%E5%BB%BA%E6%9F%B1%E5%89%8D%E6%9D%A5%E7%81%AD/" target="cdt-mirror">美国之音｜习近平访美前夕，派特使孟建柱前来灭火？</a>
 </h2>
@@ -1013,7 +1013,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2v6ndg24da4ym.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3oc4xghywoxg0.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1023,5 +1023,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93
                 <td></td>
                 
         
-        <td><a href="https://d2v6ndg24da4ym.cloudfront.net">https://d2v6ndg24da4ym.cloudfront.net</a><br/><a href="https://d3oc4xghywoxg0.cloudfront.net">https://d3oc4xghywoxg0.cloudfront.net</a><br/><a href="https://ddgsy52guliy9.cloudfront.net">https://ddgsy52guliy9.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3oc4xghywoxg0.cloudfront.net">https://d3oc4xghywoxg0.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d2v6ndg24da4ym.cloudfront.net">https://d2v6ndg24da4ym.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://ddgsy52guliy9.cloudfront.net">https://ddgsy52guliy9.cloudfront.net</a><br/></td>    </tr>
 </table>

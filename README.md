@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d11wtjmaf4e5jl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d11wtjmaf4e5jl.cloudfront.net">https://d11wtjmaf4e5jl.cloudfront.net</a><br/><a href="https://d5qvbayfp0two.cloudfront.net">https://d5qvbayfp0two.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d29v9ogmfvdy6c.cloudfront.net">https://d29v9ogmfvdy6c.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d29v9ogmfvdy6c.cloudfront.net">https://d29v9ogmfvdy6c.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d5qvbayfp0two.cloudfront.net">https://d5qvbayfp0two.cloudfront.net</a><br/><a href="https://d11wtjmaf4e5jl.cloudfront.net">https://d11wtjmaf4e5jl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/" target="cdt-mirror">BBC | 梁振英：张晓明“香港特首超然”论遭曲解</a>
@@ -139,7 +139,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E6%80%A7/?category=18271" rel="tag">两性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">中国历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%80%A7/?category=18271" rel="tag">人性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E7%89%A9/?category=18271" rel="tag">人物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E4%BA%BA/?category=18271" rel="tag">女人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E6%81%8B/?category=18271" rel="tag">婚恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E6%81%8B%E8%A7%82/?category=18271" rel="tag">婚恋观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2/?category=18271" rel="tag">家庭教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E8%A7%82%E5%BF%B5/?category=18271" rel="tag">性观念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%8B%E7%88%B1/?category=18271" rel="tag">恋爱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E6%84%9F/?category=18271" rel="tag">情感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E6%83%85/?category=18271" rel="tag">爱情</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%9B%BD%E9%99%85%E6%B8%85%E7%AE%97%E9%93%B6%E8%A1%8C%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%B9%B4%E5%86%85%E6%88%96%E5%B0%86%E5%87%BA%E7%8E%B0/" target="cdt-mirror">端传媒 | 国际清算银行：中国未来三年内或将出现银行业危机</a>
 </h2>
@@ -170,7 +170,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E6%80%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%85%B4%E7%BB%8F%E6%B5%8E%E4%BD%93/?category=18271" rel="tag">新兴经济体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">金融机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E4%B8%9A/?category=18271" rel="tag">银行业</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%A7%8B%E8%9A%82%E8%9A%B1%EF%BC%9A%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%A4%96%E4%B8%80%E7%AF%87%EF%BC%89/" target="cdt-mirror">秋蚂蚱：车上的故事（外一篇）</a>
 </h2>

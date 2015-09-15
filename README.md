@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://dkonx61fv0z1t.cloudfront.net">https://dkonx61fv0z1t.cloudfront.net</a><br/><a href="https://d1egequjlkj3mn.cloudfront.net">https://d1egequjlkj3mn.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1egequjlkj3mn.cloudfront.net">https://d1egequjlkj3mn.cloudfront.net</a><br/><a href="https://dkonx61fv0z1t.cloudfront.net">https://dkonx61fv0z1t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/" target="cdt-mirror">BBC | 梁振英：张晓明“香港特首超然”论遭曲解</a>
@@ -785,7 +785,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E5%BB%BA%E6%9F%B1/?category=18271" rel="tag">孟建柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">黑客</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BD%8E%E6%A0%BC%E5%91%A8%E5%88%8A%EF%BD%9C9-13%E6%9E%97%E5%BD%AA%E5%9D%A0%E6%9C%BA%E5%90%8E%EF%BC%8C%E6%BB%A1%E6%9C%9D%E6%96%87%E6%AD%A6%E8%B0%81%E7%9A%84%E5%8F%8D%E5%BA%94%E6%9C%80%E4%BA%AE/" target="cdt-mirror">低格周刊｜9.13林彪坠机后，满朝文武谁的反应最亮？</a>
 </h2>
@@ -938,7 +938,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dkonx61fv0z1t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
                 <td></td>
                 
         
-        <td><a href="https://dkonx61fv0z1t.cloudfront.net">https://dkonx61fv0z1t.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1egequjlkj3mn.cloudfront.net">https://d1egequjlkj3mn.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1egequjlkj3mn.cloudfront.net">https://d1egequjlkj3mn.cloudfront.net</a><br/><a href="https://dkonx61fv0z1t.cloudfront.net">https://dkonx61fv0z1t.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>

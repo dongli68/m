@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ke8rz51.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1h8lvfoihmcg6.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1wjnxnzvc8dcz.cloudfront.net">https://d1wjnxnzvc8dcz.cloudfront.net</a><br/><a href="https://d1h8lvfoihmcg6.cloudfront.net">https://d1h8lvfoihmcg6.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1h8lvfoihmcg6.cloudfront.net">https://d1h8lvfoihmcg6.cloudfront.net</a><br/><a href="https://d1wjnxnzvc8dcz.cloudfront.net">https://d1wjnxnzvc8dcz.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%B9%B418%E4%B8%875%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1-%E5%A4%9A%E6%95%B0%E5%9C%A8%E5%86%9C%E6%9D%91/" target="cdt-mirror">网易数读 | 中国每年18万5岁以下儿童死亡 多数在农村</a>
+</h2>
+<p><p>近日，联合国儿童基金会，世界卫生组织，世界银行，联合国经济与社会事务部人口司发布了《2015年儿童死亡率水平和趋势报告》。尽管1990—2015年间5岁儿童死亡率下降了53%，但与联合国千年发展目标要求的三分之二跌幅依然有不小差距。现在 全世界每天依然有 16000名5岁以下儿童死亡。</p>
+<p>在中国，1990年，5岁以下儿童死亡率为54‰，这一数据在2015年下降到11‰，年均降幅为6.5%，超过了联合国2015年18‰的千年发展目标。同样，1990年，中国有160余万名5岁以下儿童死亡，2015年这一数据为18万人，男女之间并未发现明显差异。婴儿死亡率在1990年为42‰，死亡人数为130万，这一数字在2015年分别降至9‰和16万人。而新生儿死亡率在1990年为30‰，死亡人数93万，2015年死亡率为6‰，死亡人数9万人。</p>
+<p>与中国情况相似的是，在世界范围内，最大的挑战同样在于婴儿出生时期。45%的死亡发生在新生儿阶段，即生命的前28天。早产、肺炎、劳动和分娩期间的并发症、腹泻、败血症和疟疾是新生儿的几大杀手。此外，还有接近一半的5岁以下儿童死于营养不良。</p>
+<p>虽然中国儿童死亡率的降幅超过目标，然而问题却不容忽视：根据国家统计局发布的2013年《中国儿童发展纲要（2 011-2020 年）》实施情况统计报告，2013年，中国城市5岁以下儿童死亡率为6.00‰，农村为14.5‰，农村是城市的2.4倍；城市婴儿死亡率为5.2‰，农村为11.30‰；城市新生儿死亡率为3.70‰，农村数据为7.3‰。5岁以下儿童死亡率和婴儿死亡率的区域间差距同样突出，西部地区是东部地区的一倍多。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2015091605040539fef.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2015091605040539fef.png" alt="2015091605040539fef" width="550" height="706"></a></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%B9%B418%E4%B8%875%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1-%E5%A4%9A%E6%95%B0%E5%9C%A8%E5%86%9C%E6%9D%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">中国儿童</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1%E7%8E%87/?category=18271" rel="tag">儿童死亡率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%B4%E5%84%BF/?category=18271" rel="tag">婴儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%B4%E5%84%BF%E6%AD%BB%E4%BA%A1%E7%8E%87/?category=18271" rel="tag">婴儿死亡率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0/?category=18271" rel="tag">死亡人数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E5%91%BD/?category=18271" rel="tag">生命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98/?category=18271" rel="tag">社会问题</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9D%A2%E4%B8%B4%E5%A4%B1%E8%B4%A5%EF%BC%9F/" target="cdt-mirror">德国之声 | 德语媒体：“一带一路”面临失败？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/018060356_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018060356_30300.jpg" alt="0,,18060356_303,00" width="600" height="338"></a></p>
@@ -131,7 +148,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/?category=18271" rel="tag">改革开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%AE%B8%E8%B7%91%E4%B8%8E%E8%B7%91%E4%B8%8D%E4%BA%86/" target="cdt-mirror">旧闻评论 | 宋志标：“不许跑”与“跑不了”</a>
 </h2>
@@ -843,35 +860,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E8%BD%A6%E7%A5%B8%E5%90%8E%E4%BB%A4%E8%AE%A1%E5%88%92%E5%8F%8D%E5%B8%B8%E4%B8%BE%E5%8A%A8%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%88%86/" target="cdt-mirror">中国茉莉花革命｜车祸后令计划反常举动的深度分析</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k4.jpg" alt="k4" width="640" height="458"></p>
-<p>令计划在第一时间得知儿子的噩耗。正在“盘古大观”等待藏族美女的人中，国家安全部副部长马建正是令计划的密友。他接到车祸报告后，觉得事态不仅严重，而且诡异，很可能不是交通意外，而是一起谋杀事件，于是他立即向令计划报告，并建议立即封锁现场。</p>
-<p>我们尚未得知马建具体从哪些蛛丝马迹发现情况诡异，但他的推断显然与令计划此时精神状态高度合拍，让令觉得此事绝不简单，必有背景。</p>
-<p>三年多来，人们一直为令计划在儿子死后的表现异常而不解，但是如果我们知道，令计划相信儿子被暗杀的可能性很大，谁会对一个 23 岁的研究生有这样的深仇大恨呢，在这个中共十八大将在半年后举行、“太子党”、“共青团派”等党内各方势力正在紧张布局互动的特殊时刻，合乎逻辑的推测必然是：凶手的目标更有可能就是指向自己，从而整垮胡锦涛的“共青团派”势力。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k4f.jpg" alt="k4f" width="546" height="737"></p>
-<p>令谷驾法拉利跑车从中央民族大学经保福寺辅路前往盘古大观的行车路线</p>
-<p>考虑到这些因素，我们就不难理解他的表现：第一，他要抢在藏在暗处的对手之前，控制儿子的尸体，亲自部署调查，进而顺藤摸瓜，查个水落石出；第二，他要表现得冷静、坚强，昭示自己在精神上是打不垮的，绝不能让对手自以为得逞。</p>
-<p>人们后来获知的，正是这样一系列看来反常、却符合他的判断逻辑之事：</p>
-<p>● 令计划超出常规、超越职权，下令动用中央警卫部队，立即前往封锁车祸现场──他不会不知道，这触犯了中共不得擅自动用禁卫军的大忌，但千钧一发时刻“两害取其轻”，控制局面是当务之急；</p>
-<p>● 令计划下令各媒体包括网络不得透露关于法拉利车祸的一点风声，对外不披露，对上也不呈报，他不是不知道“纸保不住火”的古训，也明白这必会引起种种臆测，但他别无选择，一定要在关键时段钳制住信息的流通，防止事态扩大；</p>
-<p>● 令计划对儿子猝逝，既不举丧，又不火化，据说对妻子也瞒了一段时间，一直将令谷的遗体冷冻在太平间；</p>
-<p>● 令计划第二天跟随胡锦涛参加公务活动，神态若无其事，谈笑风生，被蒙在鼓里的胡锦涛，压根儿不知道令计划家里遭了这么大的变故。</p>
-<p>还有更神秘的事：</p>
-<p>法拉利车祸过去三个月后，北京大学教育学院的师生们还在为令谷活不见人、死不见尸而疑窦丛生， 6 月初，海外中文媒体披露法拉利车祸死者是令计划儿子，引起轩然大波。 6 月 4 日，中国一个社交网站人人网上，有网民向王子云查证车祸的传闻，王子云回复：“谢谢，安好，勿念。”简短的六个字，似乎否定了他死于非命的传言。这个帖子，确实在某种程度上起到了平息传言的作用。</p>
-<p>几天后， 6 月 7 日，香港出版的《亚洲周刊》又发表了一篇文章，引用人人网上这个帖子来为令计划父子“辟谣”。《亚洲周刊》这篇文章第一次披露了令计划儿子的真名和化名，就读的中学和大学，一时彷佛相当可信。</p>
-<p>但半年后， 2012 年 12 月 5 日，《纽约时报》发表驻京记者安思乔（ Jonathan Ansfield ）的报导披露：这则帖子，事后来看是假的：是他人用“令谷”的化名发布的。而《亚洲周刊》那篇辟谣文章呢，安思乔援引一位知情记者说： “消息来源是中央办公厅的令计划办公室。”</p>
-<p><img alt="">《新史记》</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E8%BD%A6%E7%A5%B8%E5%90%8E%E4%BB%A4%E8%AE%A1%E5%88%92%E5%8F%8D%E5%B8%B8%E4%B8%BE%E5%8A%A8%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%88%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%B0%B7/?category=18271" rel="tag">令谷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%BB%BA/?category=18271" rel="tag">马建</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -893,5 +881,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1h8lvfoihmcg6.cloudfront.net">https://d1h8lvfoihmcg6.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d1wjnxnzvc8dcz.cloudfront.net">https://d1wjnxnzvc8dcz.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d1wjnxnzvc8dcz.cloudfront.net">https://d1wjnxnzvc8dcz.cloudfront.net</a><br/><a href="https://d1h8lvfoihmcg6.cloudfront.net">https://d1h8lvfoihmcg6.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/></td>    </tr>
 </table>

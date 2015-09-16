@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24b1vv734ehww.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://8moskvu7d0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,72 @@
                 <td></td>
                 
         
-        <td><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E6%8A%A5%E5%85%A8%E9%BB%91%E5%B9%BF%E5%91%8A%E4%B8%80%E9%BB%91%E6%83%8A%E4%BA%BA%E6%BF%80%E5%8F%91%E7%BD%91%E5%8F%8B%E6%B0%91%E4%B8%BB/" target="cdt-mirror">美国之音｜南都报全黑广告一黑惊人激发网友民主联想</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6E1886C6-421F-47BD-B7ED-362F7D6D6C04_w640_r1_s_cx0_cy8_cw0.jpg" alt="6E1886C6-421F-47BD-B7ED-362F7D6D6C04_w640_r1_s_cx0_cy8_cw0" width="549" height="309"></p>
+<p>南方都市报9月15日整版全黑无字广告（网络图片）</p>
+<p>在遭官方多次整肃前被认为是最敢言媒体的广州南方都市报，9月15日的报纸底版出现整版全黑无字的广告，而当天恰好是联合国“国际民主日”。此举引发中国网民的热议，许多人发挥联想力，猜测广告商故意花钱作出无声抗议，甚至是要讽刺“中国民主还在黑暗中”，也有人认为这是该报有人要表达“你懂的”的控诉。</p>
+<p>拥有近28万粉丝的自媒体 “传媒大观察”的微博，星期二早上发出“谁黑了报纸一把” 消息，配以一张南方都市报的头版连底版的报纸图片，称“今天南方都市报是出了印刷事故？整版全黑，给广告主看到是要疯，怎么出街的？有没有知道的媒体人来透露下内情” ？</p>
+<p>南方都市报9月15日整版全黑无字广告（网络图片）</p>
+<p>南都广告版全黑立即引爆网友疯狂的猜想，许多媒体人、网络大V也加入猜测的行列。尽管有消息称，报社负责人员已被上级叫去谈话，负责人辩解这确实广告，还有人指是印刷事故，但更多的人还是借题发挥，玩足了充分想象。</p>
+<p>有网络大V调侃称，“真黑”、“好黑”、“够黑” 、“从上到下一般黑” 、“敢黑就有故事”。有网友猜测是广告商借广告名义，花钱对中宣部作出无声抗议，还有网民解释是暗讽“中国民主，暗无天日”，“共产主义前途一片黑”，“9月15日是国际民主日，通过庆祝和纪念这一国际日来提高公众对民主的认识。南都的意思是：中国（底层）的民主还在黑暗之中” 。</p>
+<p>还有网民调侃说，这表示“还在梦里呢，天没有亮”、“到处都是黑暗的新闻”、“谁黑了报纸还是报纸黑了谁？好黑！”、“比比谁更黑？”</p>
+<p>传媒大观察的这条微博甚至引起了拥有3500万粉丝的中国知名演员李晨的转发，并配上评论说，“这样黑就算牛？”</p>
+<p>著名杂文家、时评家鄢烈山在微博上表示，“南方都市报的小伙伴们在玩乜把戏？封底平时的广告页全黑！标名是广告，网络时代为油墨做营销？让我们拭目以待，明天揭盅吗？且看谁付广告费加倍的！”</p>
+<p>不过，南方都市报全黑版面的谜底，24小时后便被“揭黑”，原来，南都是在为“黑营养饮品”做广告，用全版“黑”广告吊足网民的胃口。</p>
+<p>传媒大观察星期三早上再发微博称，“一天沸沸扬扬的讨论终于尘埃落定，昨天全黑广告的幕后黑手就是TA。这个揭黑大家认为够不够水平”？</p>
+<p>有近108万粉丝的资深媒体人范炜表示，“还以为是规避新广告法才出此下策，原来商家早就有预谋。虽然玩得有点狠，但传播效果出来了，‘黑黑乳’真是一夜爆红，不，一夜爆黑……”</p>
+<p>不过，不少网友还是称赞南都“黑”的有水平。有人说，“你猜有多少人因此知道了9.15国际民主日？接到一个广告案子，结合9.15，即得名又普及了官爷不让说的”！“哈哈，顺道让很多人知道了9.15。做为一个媒体，一箭双雕？即赚钱赚名，关键还表达自己的良心”！</p>
+<p>原南方报业集团资深编辑鄢烈山星期三对美国之音表示，南都的“黑广告”原本就是一个巧妙的广告策划，但却意外给网友提供的联想和想象的空间。</p>
+<p>他说：“就一个营销策略而已，这是有过度的解读了，他们（网友）联想太丰富了。而且，现在的南都领导，他也会大致地看一看，不觉得有什么问题，大家都没想这么多，他要想到这么多，他就不做了，不会惹这么多麻烦了。”</p>
+<p>退休前任职南方周末的鄢烈山表示，南都人员的这次策划，可以说是一“黑”惊人，满盘皆赢，从南都本身、广告商、厂家，到想象丰富、借题宣泄和借机宣扬国际民主日的网友，都获得了轰动的效果。</p>
+<p>他说：“意料之外的，效果肯定是好的，厂商肯定很开心。广告商他肯定希望影响越打越好，作为厂商他没什么责任的。”</p>
+<p>包括南方都市报、南方周末和南方人物周刊等媒体的外界所称的南方报系，改革开放以后，在广东相对宽松的环境下，曾有过多年敢言的辉煌时期，曾被毛左派据点乌有之乡称为“汉奸媒体”。但是，近年来，南方报业集团频频遭到当局整肃，尤其是在2013年南方周末新年特刊被篡改，迫使采编人员罢工抗议，受到全球媒体关注的事件之后，南方报系的骨气更是被基本铲灭。</p>
+<p>不过，有网民借这次南都“黑版”广告，回忆南方系报纸以前“开天窗”表达无声抗议的特例。2009年11月，美国总统奥巴马在访华期间接受南方周末的独家专访，但因没有获得当局审核通过，南周临时抽掉稿件，仅刊登了十分简短的专访。但是，在原定刊登专访的11月19日的报纸上，头版和二版各以“开天窗”的形式出版。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E6%8A%A5%E5%85%A8%E9%BB%91%E5%B9%BF%E5%91%8A%E4%B8%80%E9%BB%91%E6%83%8A%E4%BA%BA%E6%BF%80%E5%8F%91%E7%BD%91%E5%8F%8B%E6%B0%91%E4%B8%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB/?category=18271" rel="tag">南方周末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%B0%91%E4%B8%BB%E6%97%A5/?category=18271" rel="tag">国际民主日</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8A%A8%E5%90%91%EF%BD%9C%E7%8E%8B%E5%86%9B%E6%B6%9B%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%81%AD%E9%81%87%E6%89%A7%E6%94%BF%E5%9B%B0%E5%A2%83-%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3/" target="cdt-mirror">动向｜王军涛：习近平遭遇执政困境—解读习近平大阅兵失态</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/basdfasd.jpg" alt="basdfasd" width="549" height="308"></p>
+<p>九月三日，习近平开始期待已久的大阅兵！资料显示，这是创造了中国人民解放军阅兵史上几个之最的一次阅兵。坊间传闻，习近平想通过此次阅兵展示大权在握的威势，震慑国际国内的反对者。但是，阅兵中的习近平神情凝重，没有那种君临天下的气势和踌躇满志的洒脱，而是显得心事重重。若不是有深重忧愁，如此重大场合，以习近平这样的个性，不会在期待和准备已久的重大庆典中如此失态。习近平所忧何事？专制政治的封闭特性使得人们无法完整准确及时洞悉实情，但这个实情又对中国局势研判太重要了。笔者只能根据多方知识和线索冒昧揣摩一番。虽然难以确信解读了习近平的愁虑，但可以作为理解习近平困境的一些线索。</p>
+<p>习近平作为催化高层权力斗争</p>
+<p>阅兵式上习近平的反常神色表明习近平的反常心情：烦恼、气愤和忧虑。结合最近发生的一系列事件，可以找到理解他的反常心态的线索，这些反常心态来自于他执政面对的三个挑战：执政绩效、权力斗争和国际冲突。</p>
+<p>作为立志有为的共产党领导人，习近平就位中共掌门以来，其主要作为在三个方面：一是通过权力斗争争取建立名副其实的绝对掌控党国机器的领袖地位；二是推进全面改革方案（二○一三年的六十条）；三是反腐败重建人们对共产党执政的正当性认同。这三条的哪一条都会为他树立不少政敌，让他面临难以驾驭的挑战。</p>
+<p>反腐败和整顿政风是习近平执政的最大亮点，然而，这个亮点也为他招致最大的麻烦，这就是各级干部不作为。现在不仅说不作为，而且许多当官的要退出官场。中共与自由民主国家不同，那些国家政府权力很小，政党更是对社会日常管理没权力也不承担责任。中共政党和政府几乎要控制社会生活的各个方面，如果这个机器运转缓慢，会导致许多灾难性问题。</p>
+<p>权力斗争对习近平更是没完没了的挑战。他的权力斗争要完成的任务和日程表很硬：必须在十九大之前拿下多数代表和中央委员，否则他会在权争中失败，他的改革和建设也会前功尽弃。就目前情形看，他通过太子党血脉关系暂时建立的强势仍可保障政治地位安全，反腐也艰难地进行拿掉一些政敌，震慑低层官员抵抗，一些工作小组至少形式上控制着重要决策和党国机器的日常运转。但这些都是权宜之计，只要不能在十九大上对政敌取得多数优势，就可能会被合法程序干掉。按照目前的时间表，习近平很难实现自己的人事布局计划，尽管有反腐败、连坐制和干部选任程序破格提拔作为手段，照目前进度，习近平无法在十九大召开前两年或一年拿下十九大中央委员多数，届时，如果没有几乎政变式的动作或各派大妥协，习近平可能会一败涂地。权力斗争不仅导致官场不少人消极不作为，而且可能进行一些破坏活动。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/h1.jpg" alt="h1" width="549" height="308"></p>
+<p>日常管理事故变成执政灾难</p>
+<p>党政官僚的抵制对中共这样的党国具有如此大权力承担如此多责任的国家绝非小事。由此导致的一般绩效下降，虽不足为近虑，但肯定是远忧。更多的近虑是必然产生的大事故、大灾难，这会严重影响人们对执政者的信心和好感，导致社会政治危机，在局部地区引发大规模骚乱甚至叛乱，进而有发展成大规模政治风潮的可能。这大概就是胆大包天但又世故老到的毛泽东在林彪垮台后不敢全面任用四人帮而是启用被文革打倒的老干部的原因。他害怕他的忠诚的追随者缺乏管理经验和能力导致日常管理事故变成执政灾难。</p>
+<p>最近发生的股市风波和天津港危险化工品爆炸案就集中暴露出这样的致命弱点。股市或金融市场的管理即使对于老牌的资本主义经济也是难度很大的工作，经常有管理不当导致的各种牵动全球经济的灾难甚至牵动政局不稳。中国发生股市风波以及政府超常规救市失败，立即引发各种政治谣言，表明中国政局脆弱到股市波动与政局不稳之间已经有直通快车。如果股市的谣言还不是针对习近平，那天津港爆炸案引发的舆论简直到了哗变的程度，直接质疑习近平的治理能力至少说危机处理能力。</p>
+<p>这类灾难对习近平的挑战在于灾难的善后，善后工作主要是问责，谁承担责任和如何改善以后工作。政治谣言中的权力斗争导致灾难也许不是事实，但在权力斗争白热化时易于打动双方，至少会使得权争卷入者利用谣言打击政敌。追究责任，在中国这样权力交错没有人可以全权决策的制度中很难做到，这就使得追究责任其实是谁做替罪羊冤大头的问题。如果灾难善后不当，不论灾难因谁而生，习近平的执政能力都会被质疑，为其政敌向其被问责提供口实和机会。总之，大灾难善后是权力斗争激化到不可调和的催化剂。</p>
+<p>循此思路思考，也许阅兵前习近平、江泽民和胡锦涛及多位在任离任核心官员间发生过一次激烈的争吵。胡锦涛手打哆嗦可能是病或争吵导致的情绪不稳定。</p>
+<p>危机深化会导致习执政基础不稳</p>
+<p>股市危机的灾难性后果还引发习近平在国际威信的下降。为了防范股灾对政局的冲击性影响，坊间盛传习近平逼迫国务院强力救市，在遭遇更大灾难后就动用公安机关抓人镇压的方式救市。这样明目张胆地破坏市场规则的做法，引起全世界怀疑习近平是个为了执政不择手段的人，心黑手狠。这种对经济管制的不满，加上习近平执政以来在周边国家的强硬态度和与俄国结盟的战略姿态，使得西方在政治上也对习近平不信任，这大概是大阅兵中主要自由民主国家缺席的原因。这还会影响习近平即将进行的访美之行，不少美国人已经严阵以待，准备质问习近平的各种做法。加上美国两党政治总是在选举期间提出挑衅话题，这不是白宫弱势总统奥巴马能控制的。</p>
+<p>那些当年反法西斯战争中中国战场的主要盟友缺席中国纪念反法西斯战争的纪念庆典，不仅打击习近平的国际威信，也严重削弱他的国内威信特别是官场中威信。许多人不了解的事实是：自邓小平决策开放国门以来，对外关系特别说对美关系的好坏已经是中共执政的重要因素和主要评价标准。</p>
+<p>虽然习近平因反腐、亲民秀和民族主义的姿态在民间为他建立一定的声望，但牢牢把握民间独立舆论话语权的知识界和公共讨论空间，对习近平钳制人口镇压异议人士早就深恶痛绝。那些空洞虚幻的民望正如人们所说的民意如流水，一个事件就可以导致戏剧性急剧转变。一旦遭遇经济滑坡、重大灾变世故和外交，股灾、政府践踏规则暴力救市和即将发生汇率危机和房市危机，会导致人们对中国市场经济不信任，中国会出现资金外逃，那时经济肯定会滑坡。人们的不满就会爆发。</p>
+<p>也许这是习近平大阅兵愁绪的另一个来源。</p>
+<p>《动向》2015年9月号</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8A%A8%E5%90%91%EF%BD%9C%E7%8E%8B%E5%86%9B%E6%B6%9B%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%81%AD%E9%81%87%E6%89%A7%E6%94%BF%E5%9B%B0%E5%A2%83-%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 21分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/" target="cdt-mirror">纽约时报 | 习近平访美前维权人士郭玉闪获释</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%83%AD%E7%8E%89%E9%97%AA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%83%AD%E7%8E%89%E9%97%AA-222x300.jpg" alt="郭玉闪" width="222" height="300"></a>中国当局周二释放了一家研究所的创始人。三年前，这名创始人在法律活动人士陈光诚逃离住所后，帮助他在美国获得<a title="Link: http://www.nytimes.com/2012/05/20/world/asia/china-dissident-chen-guangcheng-united-states.html" href="http://www.nytimes.com/2012/05/20/world/asia/china-dissident-chen-guangcheng-united-states.html" target="_blank" rel="nofollow">庇护</a>。</p>
@@ -750,63 +813,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B3%95%E5%AE%9A%E5%B8%A6%E8%96%AA%E5%81%87%E5%93%AA%E5%84%BF%E5%8E%BB%E4%BA%86%EF%BC%9F/" target="cdt-mirror">纽约时报 | 中国人的法定带薪假哪儿去了？</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%B8%A6%E8%96%AA%E5%81%87%E6%9C%9F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%B8%A6%E8%96%AA%E5%81%87%E6%9C%9F.jpg" alt="广东中山的一家工厂，工人在制作罩布和帘子。" width="597" height="397"></a><p>广东中山的一家工厂，工人在制作罩布和帘子。</p></div>
-<p>上周六，<a href="http://www.worldleisure.org/" target="_blank" rel="nofollow">世界休闲体育大会(World Leisure Games)</a>在中国港口城市青岛召开，2400名市民载歌载舞，展现中国的<a href="http://cn.nytimes.com/china/20150325/c25dancing/" target="_blank" rel="nofollow">广场舞风俗</a>。但实际上在这个国家，大多数人没有或者无法享受带薪年假——尽管他们拥有这样的权利。</p>
-<p>虽然宪法规定所有劳动者都拥有“休息”的权利，而且《劳动法》也规定了带薪休假的权利，但新华网<a href="http://news.xinhuanet.com/politics/2015-08/17/c_128136614.htm" target="_blank" rel="nofollow">近日刊文称</a>，中国逾72%的人在过去三年里没有休过带薪年假。</p>
-<p>在过去的三年里，只有不到14%的中国工人休过一次带薪假期，而休过三次假的人数略低于8%。</p>
-<p>新华网的这篇文章总结了一项在线调查的结果。它显示，不休假的原因包括：“不敢”(22%)、“没有时间”(22%)，或者“会影响自己未来的发展”（近10%）。</p>
-<p>最有可能休带薪假的是政府官员、国有企业员工，以及外企员工。而中国的私营公司，尤其是规模较小的企业，为员工提供带薪假的状况是最差的，新华网的文章称。</p>
-<p>中国宪法第一条写道，中国是“工人阶级领导的”社会主义国家。但是，自70年代末以市场为导向的改革全面铺开以来，工人一直很难维护自己的权利，法律保护薄弱也是一个原因。</p>
-<p>上周三，在中国东北城市沈阳，一家火锅店的工人在<a href="http://politics.caijing.com.cn/20150910/3965151.shtml" target="_blank" rel="nofollow">向老板磕头</a>，高喊：“感谢老总，给我工作!”</p>
-<p>官员们看似在担心员工的工作时间太长——但是，从国务院上月发布的<a href="http://www.gov.cn/zhengce/content/2015-08/11/content_10075.htm" target="_blank" rel="nofollow">公告</a>来看，他们主要是希望更多的休息时间，可以转化为旅游消费，在中国经济增长放缓之际发挥刺激作用。</p>
-<p>这份公告名为《国务院办公厅关于进一步促进旅游投资和消费的若干意见》，提倡<a href="http://www.gov.cn/zhengce/content/2015-08/11/content_10075.htm" target="_blank" rel="nofollow">每个周末休两天半</a>。</p>
-<p>根据2008年生效的一项<a href="http://www.ilo.org/dyn/travail/docs/372/Regulations%20on%20Paid%20Annual%20Leave%20for%20Employees%20-%20www.junhe.com.pdf" target="_blank" rel="nofollow">国务院条例</a>，中国所有职工工龄满10年后，有权享有5天带薪年假。10到20年工龄可以休10天，工龄达到20年可以休15天。</p>
-<p>该条例的第1条也明确表示，政府认为，为了让工人更加努力地工作，休息是必要的。条例中写道，之所以制定条例，是“为了维护职工休息休假权利，调动职工工作积极性”。</p>
-<p>如果你了解<a href="http://www.cddc.vt.edu/sionline/si/leisure.html" target="_blank" rel="nofollow">“情境主义者”</a>(Situationists)，可能会觉得这种逻辑很熟悉。那是1960年代，欧洲在马克思主义的影响下兴起的一场运动。其成员认为，休闲的概念意在催生“强制消费”，它是资本主义体制的一部分，意图是将工人的空闲时间也转变为商品，作为对其丧失真正自由的“补偿”，销售给工人。“休闲就是工作，”该运动声称。</p>
-<p>世界休闲体育大会每五年举行一次，由世界休闲组织(World Leisure Organization)主办。该组织1952年在纽约创立，初衷是担心工业化和城市化让人们无法在安全、干净的场所开展休闲活动。今年的大会获得了中国国家旅游局和中国旅游协会的支持，共举行了17项比赛，包括钓鱼、高尔夫、海游、自行车骑行和武术等。</p>
-<div>
-<p>狄雨霏(Didi Kirsten Tatlow)是《纽约时报》驻京记者。</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B3%95%E5%AE%9A%E5%B8%A6%E8%96%AA%E5%81%87%E5%93%AA%E5%84%BF%E5%8E%BB%E4%BA%86%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA/?category=18271" rel="tag">中国工人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%91%E5%81%87/?category=18271" rel="tag">休假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">劳工权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87/?category=18271" rel="tag">带薪休假</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/" target="cdt-mirror">BBC | 中国反腐败：“近亲繁殖”成国企巡视高频词</a>
-</h2>
-<p><p><strong>中共中央纪委监察部网站周日（9月13日）至周一（14日）连续发布中国三家大型国有企业中国海洋石油总公司（中海油）、中国石油天然气集团公司（中石油）中国东方电气集团（东方电气）的专项巡视整改报告。</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150720080259_cn_wang_yongchun_trial_xiangyangipc_cr624.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150720080259_cn_wang_yongchun_trial_xiangyangipc_cr624.jpg" alt="因腐败落马的中石油高官王永春。国企腐败是中共整肃重点之一。" width="600" height="337"></a><p>因腐败落马的中石油高官王永春。国企腐败是中共整肃重点之一。</p></div>
-<p>专项巡视和联动审计、纪检体制改革一道被视为中国国企反腐的三项主要举措。</p>
-<p>三家企业发布的整改报告中，近亲繁殖、违反“八项规定”、关联交易、利益输送等成为描述中国国企腐败的高频词汇。</p>
-<p><strong>案件查处</strong></p>
-<p>东方电气透露， 截止8月上旬，已办结违规违纪案件105件，处理95人，移交司法处理7人，其中：党纪处分18人，涉及撤销党内职务和开除党籍9人；政纪处分7人，涉及降级和撤职6人；解除劳动合同7人；组织处理70人，涉及通报批评20人，降职1人，诫勉谈话32人。</p>
-<p>中海油透露，该集团查处公款吃喝娱乐等违纪问题，已对三家下属单位89名违纪人员，分别给予开除党籍、留党察看、党内严重警告和警告以及开除、免职降级、解除劳动合同等党纪政纪处分和组织处理；对负有领导责任的8名党组直管干部进行严肃问责，给予党内严重警告、警告和行政警告等党纪政纪处分；对2013年以来公款打高尔夫球问题，对已经查实的49人，分别给予开除党籍、党内严重警告和警告以及行政降级等党纪政纪处分和组织处理。</p>
-<p>中央专项巡视以来，中海油共有156人因违反中央八项规定精神、顶风违纪等问题受到党纪政纪处分和组织处理，其中被问责的处级以上干部30人。</p>
-<p>中石油将其违纪问题总结为，小金库屡禁不止、处罚偏轻；办事处、酒店数量众多，管理混乱，问题多发；公款旅游、购买购物卡、违规发放津补贴；公车数量多、开支大、管理混乱，超标购车、违规用车。</p>
-<p>中石油透露，今年1-7月该集团查处各级“一把手”案件112件，处分和拟处分129人。</p>
-<p><strong>近亲繁殖</strong></p>
-<p>中海油在报告中指出，该集团存在违反回避原则“近亲繁殖”现象普遍的问题。根据举报线索，2015年7月，中海油已对财务资产部、资金部、审计部等总部机关部门，以及南海西部石油管理局、东海石油管理局、海油工程公司正职等重要部门和关键岗位的25名领导人员进行了轮岗交流。</p>
-<p>中石油同样承认，“近亲繁殖”现象比较突出。</p>
-<p>该集团做出的反应是，对3起领导人员违规提拔使用子女亲属的问题进行立案调查，处分和拟处分3人，其中包括对违规提拔亲属的某销售公司原总经理给予党内严重警告、行政记大过处分。</p>
-<p>中石油要求，在干部选拔任用、人员调入、工作入职时，组织填写配偶、直系血亲、三代以内旁系血亲及近姻亲关系人信息，防止出现违反任职回避制度情况。</p>
-<p>中石油查处了一些领导人员帮助亲友承揽项目谋取暴利的问题，已查实17件，处分和拟处分22人，包括5名局级干部。</p>
-<p><strong>“靠油吃油”</strong></p>
-<p>中海油回应了中央巡视组提出的“2003年以来40名科级以上干部离职办公司、贴着海油做生意”的问题。</p>
-<p>该公司认为，这反应了依托公司资源谋取私利现象比较普遍的问题。</p>
-<p>中海油表示，针对此案件核查对象共涉及七家单位41名人员，调查内容包括，离职后所办公司或任职公司是否在公司的供应商库；是否与公司所属单位存在同业竞争；2010年至2014年间与公司业务往来的内容及金额等。中海油认为调查发现的问题包括：有的干部离职后所任职的公司，与原单位发生业务往来较多，且多数合同采取议标而非公开招投标。有的干部离职后所任职的公司，与中海油发生大量业务往来。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中央纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%9F%B3%E6%B2%B9/?category=18271" rel="tag">中石油</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">党纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%AC%BE%E5%90%83%E5%96%9D/?category=18271" rel="tag">公款吃喝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E8%BE%93%E9%80%81/?category=18271" rel="tag">利益输送</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">政纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -828,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/></td>    </tr>
 </table>

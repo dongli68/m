@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://un3tiqe.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d11u72h00b3uma.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,179 @@
                 <td></td>
                 
         
-        <td><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d32ed8i1dqa6h1.cloudfront.net">https://d32ed8i1dqa6h1.cloudfront.net</a><br/><a href="https://d11u72h00b3uma.cloudfront.net">https://d11u72h00b3uma.cloudfront.net</a><br/><a href="https://d3hql6rbemfaz3.cloudfront.net">https://d3hql6rbemfaz3.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d11u72h00b3uma.cloudfront.net">https://d11u72h00b3uma.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d3hql6rbemfaz3.cloudfront.net">https://d3hql6rbemfaz3.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d32ed8i1dqa6h1.cloudfront.net">https://d32ed8i1dqa6h1.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%BE%E7%AB%8B%E7%9A%84%E6%99%BA%E5%BA%93%E6%89%80%E5%8F%91%E7%9A%84%E3%80%8E%E5%88%AB%E8%AE%A9%E6%9D%8E/" target="cdt-mirror">知乎｜如何看待新华社设立的智库所发的『别让李嘉诚跑了』？</a>
+</h2>
+<p><h2>问题：</h2>
+<p>如何看待新华社设立的智库所发的『<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6-%E5%88%AB%E8%AE%A9%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86/">别让李嘉诚跑了</a>』？</p>
+<blockquote><p>近日，李嘉诚拟将长实地产在上海的地盘，以200亿元出卖。这是李嘉诚撤离中国，财富转移欧洲战略部署的继续。</p>
+<p>本来，商业如水流，逐利是资本的本性。李嘉诚想去哪里就去哪里。但是，鉴于李嘉诚最近二十年在中国获取财富的性质，似乎不仅仅是商业那么简单。众所周知，在中国，地产行业与权力走的很近，没有权力资源，是无法做地产生意的。由此，<b>地产的财富，并非完全来自彻底的市场经济</b>。恐怕不宜想走就走。</p>
+<p>别让李嘉诚跑了。</p>
+<p>敏感如李嘉诚，绝不会感觉不到。在中国，经济周期与政治周期密切相关，由此，一撤资，二撤资，三撤资，其商业帝国，在大陆欲上演金蝉脱壳之法。</p>
+<p>前年是李嘉诚最不平凡的一年，先是工人罢工浪潮，风起云涌，后是在大陆的抛售，受到了巨大的非议。就民间形象而言，李嘉诚从此前的商界领袖，教父级人物，转变为长着獠牙的怪物。令人遗憾，李嘉诚本人应也比较伤心。</p>
+<p>就官方感受而言，李嘉诚<b>不顾念</b>官方此前对其在基础设施，港口、地产等领域的大力扶持，<b>在中国经济遭遇危机的敏感时刻，不停抛售</b>，造成悲观情绪在部分群体中蔓延，<b>其道义的高点，已经失守</b>。低买高卖，确实是市场经济，但是，<b>地产、港口等产业，恰恰是中国最不市场化的产业，没有权力的扶助，哪里来的机会？合作时借权力，卖出时说市场，似乎双重标准，让人难以淡定。</b></p>
+<p>香港富豪榜的前几名竟然全部为地产商，显示了香港产业的畸形。而这种畸形产业的背后，隐藏着香港社会结构的畸形，而豪族的出现，以及贫富分化的眼中，则严重危害了香港社会的活力。</p>
+<p>其实，李嘉诚只不过是一介小商人，有何能量影响香江?能操控香港万民福祉与未来者，国家此前的治港思路滞后于现实发展，方才导致香港困局。未来需要改变思路，进一步造福香港万民。</p></blockquote>
+<h2><strong>部分回答：</strong></h2>
+<p> </p>
+<h3><a href="http://www.zhihu.com/people/king-lee-62">king lee</a>：</h3>
+<p>我怎么觉得是打TG和ZF的脸呢？</p>
+<p>“但是，鉴于李嘉诚最近二十年在中国获取财富的性质，似乎不仅仅是商业那么简单。众所周知，在中国，地产行业与权力走的很近，没有权力资源，是无法做地产生意的。由此，地产的财富，并非完全来自彻底的市场经济，那就不能想走就走。”<br>
+“低买高卖，确实是市场经济，但是，他的地产、港口等产业，恰恰是中国最不市场化的产业，没有权力的扶助和勾兑，哪里来的机会？合作时借权力，卖出时说市场，似乎双重标准，唯我是利。”</p>
+<p>嘿嘿，这位作者知道的太多了！</p>
+<h3>匿名用户：</h3>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7f36d47f3e46295fa47cbd6d90136638_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7f36d47f3e46295fa47cbd6d90136638_b.jpg" alt="7f36d47f3e46295fa47cbd6d90136638_b" width="475" height="723"></a></p>
+<h3><a href="http://www.zhihu.com/people/chester911">苏谨深</a>：</h3>
+<p>这位来自“瞭望智库”的发表了“别让李嘉诚跑了”一文的罗天昊，是一个什么样的智库作者呢？<br>
+就说一点，此人曾经还发表过“国家应善待美女资源”“中国应劝朝鲜主动割让出海口”“鲁迅头像应上人民币”等论述。</p>
+<p>至于这篇文章，我第一个想法就是这人借着声讨超人李的旗号，把权贵集团依托改革开放的“东风”，如何跑马圈地，如何强取豪夺，如何搜刮民脂民膏的行径全部抖了个干干净净。<br>
+这不就是打着红旗反红旗嘛！</p>
+<h3><a href="http://www.zhihu.com/people/cao-da-shen-19">黄林茂</a>：</h3>
+<p>估计李嘉诚看完蛤蛤一笑“我太tm机智了”。</p>
+<h3>匿名用户：</h3>
+<p>如果这代表官方意志的话，起码有以下几点重大突破：</p>
+<p>1，彻底承认了社会主义市场经济尝试的失败。我们就是有权才能做大，站队才能赚钱。管你首富什么鬼，只是我的棋子，所谓原罪非罪，罪非显罪，欲加其罪，万事皆罪。<br>
+2，彻底断绝了服务型政府的推进努力，明目张胆的回归革命性政党。让你经营让你做大，就是养兵千日用兵一时。什么，你说守法经营，市场经济？没我哪有你，管你私产党产，你的就是我的，我的还是我的！<br>
+3，公然为泛道德化的文革思维招魂，彻底击穿今上所说依法治国理念。法无禁止，道德审判；道德合理，政治挂帅；政治可靠，原罪难免。总之一句话，别拿法律当挡箭牌，什么市场行为，边去吧!</p>
+<p>希望这只是一个新的庸俗部门中新进的某位舔痈舐痔的无耻文人的投名状吧。从郭沫若到何祚庥，好似不拿点挑战常识的东西来做做目标，就真的难以表现足这投名状的拳拳热诚。</p>
+<p>有上面好多知友说到了决策层新老之间的某些更迭，和所带来的矛盾。众所周知的原因你我均无从得知详情，或讨论已知。</p>
+<p>但是有一点是肯定的，今上，博士不是没有辨别力的傻瓜。被泼脏水，往左掰不是一天两天了。</p>
+<p>续貂<a href="http://www.zhihu.com/people/82b1d7c2841d2ed80f5ad7fd0beffd01" data-hash="82b1d7c2841d2ed80f5ad7fd0beffd01" data-tip="p$b$82b1d7c2841d2ed80f5ad7fd0beffd01">@栾汝元</a>童鞋的段子，感觉无限悲伤：<br>
+老乡，别跑，跟着我们分土地！<br>
+老乡，请自觉支持大公社，上交土地！<br>
+老乡，别跑，我们保护民族工商业！<br>
+老乡，社会主义改造是对资本家的最后机会！<br>
+老乡，别跑，我们改革开放了！<br>
+老乡，书记找你谈话！<br>
+老乡，别跑，我们转型升级呢！<br>
+老乡，别和国资抢啊！<br>
+老乡，别跑，我们要提振信心啊！<br>
+老乡，说你呢，别跑！<br>
+老乡，吃完了就跑能行么！<br>
+老乡，别跑，我开枪了哈！</p>
+<p>怕了你们这些帝国蛀虫，匿名吧。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a851e065371980fba7664d1513210937_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a851e065371980fba7664d1513210937_b.jpg" alt="a851e065371980fba7664d1513210937_b" width="121" height="138"></a></p>
+<p>板砖党，以下为原文，再次感叹一遍语言暴力的精髓。。。李超人傲立亚太商界的时候貌似还没回归吧。。。然而。。。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a17a6eaf0180fedcb494af474eac6268_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a17a6eaf0180fedcb494af474eac6268_b.jpg" alt="a17a6eaf0180fedcb494af474eac6268_b" width="250" height="176"></a></p>
+<h3><a href="http://www.zhihu.com/people/shisu">石苏</a>：</h3>
+<p>30年改革开放成果既将毁于一旦。<br>
+如果下一届还是这俩，记得要抱篮球渡海逃难。</p>
+<h3><a href="http://www.zhihu.com/people/liuhuoliunian">流火流年</a>：</h3>
+<p>原来五毛们常说的“看中国不爽你移民啊”的意思是你人可以走，钱得留下。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/45028A71F96E6606A3649B7FC12B4F85.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/45028A71F96E6606A3649B7FC12B4F85.jpeg" alt="既然做不成朋友" width="500" height="390"></a><br><em>配图与本文内容无关／来源：暴走漫画<br></em><br><strong>［更多网友回答请移步知乎原帖］</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%BE%E7%AB%8B%E7%9A%84%E6%99%BA%E5%BA%93%E6%89%80%E5%8F%91%E7%9A%84%E3%80%8E%E5%88%AB%E8%AE%A9%E6%9D%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/?category=18271" rel="tag">改革开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 15分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%AE%B8%E8%B7%91%E4%B8%8E%E8%B7%91%E4%B8%8D%E4%BA%86/" target="cdt-mirror">旧闻评论 | 宋志标：“不许跑”与“跑不了”</a>
+</h2>
+<p><p>北方爆炸事件中，最小的遇难者姓卢，乳名涛涛，男婴，享年七个月。搜狐网报道说，要不是孩子父母奋力争取，涛涛一定会被遗忘，进不了遇难者名单。年轻父母为涛涛做过的最勇敢的事情，可能就是把他送进了死亡名录，似乎这是唯一的告慰。</p>
+<p>对于丧子之痛，年轻夫妻只有独饮痛苦。在与政府打交道的过程中，他们需要反复自证：证明儿子已经死了，证明是爆炸致死，证明他是他们的儿子，证明名单是不全的。这番折腾下来，父母想要什么，已经降到最低，复仇遥不可及，只有乞怜政府有眼。</p>
+<p>按照常见的做法去理解，涛涛是在错误的时间、错误的地点遇上了错误的事情。总结起来，就是跑不了而已。就像长江沉船，几百号人登上了死亡之轮，被倒扣在江底跑不了。也像股灾中的散户，国家队无论进场退场，总是要割肉，究竟也还是跑不了。</p>
+<p>有手有脚，为何总是跑不了，这是强国人百思不得其解的谜团。其实考察过各种死亡，见过各种悲剧之后，你会发现答案很简单，许多跑不了是因为“不许跑”。如果是跑了，就没有英雄可供敬仰，就没有祭祀所需的新血，甚至不给死亡签发证明，就是白死。</p>
+<p>跑不了，就此成为一种命运。命运之意就在于两端，要么必须去证明没有白活，要么必须去证明确已死掉。能够如此操纵的，就是够胆喊出了“不许跑”的那个人。这个人曾对野百合王实味喊过，对公私合营的小资产阶级喊过，最近也对李嘉诚喊过。</p>
+<p>如果人家已经喊了“不许跑”，却还是跑的，甚至往反方向跑的，那一定是要追究的。过于这叫：宁要社会主义的草，不要资本主义的苗。现在修辞上已经懒得再动脑筋，只是喊“别让xxx跑了”。多少年来，两下都是同一拨人，无非是不让跑，无非是跑不了。</p>
+<p>两下也都在参悟这跑不了的命运。不许跑的那边，心生欢喜，喊一嗓子可保江山永不变色，也就将“不许跑”作为宝贝了，刻上了三个字：鹤发行。既然历史上都一直是不许跑，那自然是天赋“不许跑”。建立在“不许跑”基础上的国家，就叫做强国。</p>
+<p>而在另外一头，更精雕细刻了“跑不了”，显示了命运所驾驭下的鬼斧神工。总结起来，技法主要有二：一曰爱死这“跑不了”，二曰恨死别人想要跑。为了通俗易懂，民间把这两种技法统称为“爱国者”。这些人也在跑不了的迷幻状态下，像帮凶那样吆喝“不许跑”。</p>
+<p>卢涛涛作为一个婴孩，他的死是生命悲剧中最沉重那种。可堪同情的，是年轻父母计划将来送他去国外读书，铁了心要让孩子“跑的了”。跑不了的平民父母，在后代身上苦心经营一个“跑的成”的计划。而一个扭转命运的机会被爆炸粉碎，这才是更浓重的悲凉。</p>
+<p>三岁幼童库尔迪伏尸土耳其海滩，魂断逃国的海路上，揭开了“跑不了”的叙利亚一角，震惊了世界上很大一部分人。可世界上还有“很大一部分人”并没有被惊动，也都是跑不了的，不由得在主义的“应许之地”上终身役役，平静而又激烈，平常而又不同寻常。</p>
+<p>2015/9/16</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%AE%B8%E8%B7%91%E4%B8%8E%E8%B7%91%E4%B8%8D%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B8%E8%B7%91/?category=18271" rel="tag">不许跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%96%B9%E7%88%86%E7%82%B8/?category=18271" rel="tag">北方爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B4%E9%9A%B6/?category=18271" rel="tag">奴隶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%BF%97%E6%A0%87/?category=18271" rel="tag">宋志标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%91%E4%B8%8D%E6%8E%89/?category=18271" rel="tag">跑不掉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%BE%E6%B0%91/?category=18271" rel="tag">难民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%99%8E%E5%97%85%E7%BD%91-%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E5%A4%8D%E6%97%A6%E4%BA%A4%E5%A4%A7%E7%9A%84%E8%8A%82%E6%93%8D%E5%80%BC%E5%A4%9A%E5%B0%91%E9%92%B1%EF%BC%9F/" target="cdt-mirror">虎嗅网 | 北大清华复旦交大的节操值多少钱？</a>
+</h2>
+<p><p>今天为大家介绍一位新朋友，如果你本科时代没有就读过北大清华复旦上交大的法学系，可能还不太熟悉这个名字：廖凯原，英文名Leo Koguan，一位出生在印尼的美籍华裔。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F.jpg" alt="廖凯原" width="309" height="286"></a></p>
+<p>你很快就会对他感兴趣的。毕竟，他在北京大学、清华大学、复旦大学和上海交通大学砸下了至少6.3个亿的人民币，如同邵逸夫和田家炳们曾经做过的那样，盖起了一堆以他为名的大楼。这位长着一张副处级干部面孔的华裔富豪，是SHI（国际软件屋公司）的创始人兼董事长，这家不出名的IT服务外包公司在全球范围内有60亿美元的销售额，2014年时SHI位列福布斯评选的“美国最大私营企业排行”第78位。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F2.jpg" alt="廖凯原2" width="502" height="502"></a></p>
+<p>盖起这些楼之后，廖先生的头衔产生了戏剧性的变化——“北京大学名誉校董、清华大学名誉校董、复旦大学校董、上海交通大学名誉校董、清华大学客座教授、上海交通大学凯原法学院名誉教授、复旦大学法学院名誉教授、北京大学法学院廖凯原法治与礼治研究中心主任、清华大学法学院凯原中国法治与义理研究中心主任、上海交通大学凯原法学院凯原国际法治与义理研究中心主任。”</p>
+<p>那么问题来了，廖教授图啥呢？就是要这些虚名？</p>
+<p><strong>“轩辕4712年”</strong></p>
+<p>当然不是，看看廖教授最近的一条新闻吧。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%BD%A9%E8%BE%954712.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%BD%A9%E8%BE%954712.jpg" alt="轩辕4712" width="641" height="527"></a></p>
+<p>北大清华的官网被当成会议发稿渠道就不说啥了，这个“轩辕4712年”是什么鬼？</p>
+<p>打开廖教授的演讲PDF，你会遗憾地发现“虽然都是汉字，我竟然可耻地读不懂”，有微信公号给起了这样一个标题：《99%的法律人看不懂的法学论文》。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F3.jpg" alt="廖凯原3" width="600" height="483"></a></p>
+<p><strong>以下为廖教授近年部分研究成果：</strong></p>
+<blockquote><p>《云中的天命人》</p>
+<p>《轩辕召唤：轩辕4712中华共识》</p>
+<p>《中国梦就是轩辕大同》</p>
+<p>《轩辕反熵运行体系2.0》</p>
+<p>《黄帝范例：轩辕反熵运行体系》</p>
+<p>《关于时间和“我”的沉思》</p>
+<p>《比特是万物，万物是比特》</p>
+<p>《天命人及万物创造和分配原则》</p>
+<p>《中国法治与义理科学观的反熵运行体系》</p></blockquote>
+<p>略读几篇，就可以发现廖教授的研究论文均横跨以下几个领域：量子物理、相对论、基因工程、云计算、宇宙学、信息技术、黄帝内经、杨朱哲学、老庄诸贤、阴阳八卦、拉普拉斯、莎士比亚、马列经典、三个代表、科学发展观、一带一路、中国梦……毕竟，廖教授说自己“从四岁就开始试图理解生命的意义”，思考范围深一些广一些是可以理解的。</p>
+<p>比如，其自创的名词KQID，即“凯原量子信息力学”的定义，是这样的——比特是万物，万物是比特，认为万物皆为Ψ这一复杂的四向量坐标。KQID源自伏羲-轩辕的数字八卦（☰☱☲☳☴☵☶☷）、毕达哥拉斯之“一切皆数字”、信息做功的麦克斯韦思想的实验、还有兰道尔所说的信息（比特）是物理（万物）的原理，其中一个比特≥k⊙ln2=mc2（平方），k是玻尔兹曼常量，⊙是温度，ln2是0.693147181，m是质量，c是真空中的光速。因此，根据爱因斯坦的理论，比特是能量，能量是物质（万物）。弗郎克·韦尔切克在《存在之轻》一书中证实：“夸克和胶子……体现了思想……是数学上完整和完美的物体……这些物体遵循胶子方程。万物就是比特。”KQID规定了比特范式，在如哺乳动物大脑般运作的万物范式之上，如大脑皮层般运作。“自从发现了凯原量子信息力学（KQID）后，我们如今已经知道了我们是谁、由何组成、如何被创造和分配、以及为何存在。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%87%8F%E5%AD%90%E4%BD%9B%E5%AD%A6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%87%8F%E5%AD%90%E4%BD%9B%E5%AD%A6.jpg" alt="量子佛学" width="479" height="421"></a></p>
+<p>看不懂？没关系，我看了很多廖教授的论文后，已经大致归纳了他研究的中心思想：</p>
+<blockquote><p>1、轩辕黄帝是人类的首位领袖、科学家，也是法治的缔造者。轩辕之道应成为治国之道。</p>
+<p>2、设立新的全国仪式：</p>
+<ul><li>任何新任的中国国家主席必须在选出后8日内前往圣城（河南新郑），身着汉服，祭拜轩辕；</li>
+<li>每一位有能力的华人毕生应至少于农业三月三前往圣城新郑朝拜一次；</li>
+<li>男婴应随父姓，女婴应随母姓；</li>
+<li>轩辕是宇宙中所有华人之父，应设立父亲节，定于农历三月三；</li>
+<li>嫘祖是所有华人之母，应设立母亲节，定于农历六月六；</li>
+<li>最后也是最重要的一点：重新设立轩辕纪年，公元2015年应称为轩辕4712年。</li>
+</ul><p>3、不要迷信西方的自由民主，因为它们“带着痴迷于个人权利的刺刀在古文化的遗体上阔步前进”。一党制比多党制更具凝聚力，因此，一党包含更多的反熵比特，能被释放出来做更多的好事。</p>
+<p>4、中国共产党的领导人都是物理学家和轩辕学家：</p>
+<ul><li>毛泽东提出了一个与量子物理学类似的伟大理念，即通过辩证唯主义理论，一个人可以从一无所有创造出无限的知识；</li>
+<li>在物质、文化和精神（或称为江泽民的三个代表）方面不断提升我们的生产力，以超凡、抽象、象征性的工具包战略性能力应用胡锦涛的法治和德治科学观，获得各种类型的反熵组织的力量；</li>
+<li>轩辕思想已经采纳体现并发扬了中国共产党所有价值观和美德，从毛泽东到邓小平、江泽民、胡锦涛和习近平的中国梦。同样地，中国共产党已经将轩辕思想吸收、遵循并整合为一体：轩辕-王阳明-毛泽东的知行合一……</li>
+</ul></blockquote>
+<p>这很难让人不想起何祚庥先生在名著《量子力学的建立与科技创新的评价体系》中的名言：通过量子力学的发现，论证了江泽民同志关于“三个代表”的理论是科技创新评价体系的根本性标准。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%89%E4%B8%AA%E4%BB%A3%E8%A1%A8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%89%E4%B8%AA%E4%BB%A3%E8%A1%A8.jpg" alt="三个代表" width="456" height="355"></a></p>
+<p><strong>“民科只有掌握经济实力才有话语权”</strong></p>
+<p>插播一段故事吧。</p>
+<p>2013年时，资和信集团总裁、亿万富翁、号称全国八大经济学人之一的王吉绯先生，差一点点就登陆北大展开“全国大学巡讲”了。如果不是北京大学青年天文学会的成员奋力反对的话。</p>
+<p>这位王先生要讲的是什么呢？讲他的作品《万有能量的哲学原理》。</p>
+<blockquote><p>“该书的理论贡献在于，使用同一个原理（能量）解决了多个领域的疑难问题。从老子到阿基米德，从相对论到宇宙大爆炸，从微观粒子到宇宙天体，从光波到黑洞，从哈勃红移到宇宙微波背景辐射，从太阳黑子到地球地震……”</p></blockquote>
+<p>结果北京大学青年天文学会的成员一眼就发现，在书中第一章，王先生就批判了400年前的牛顿万有引力，并得出太阳活动造成地震的推论——</p>
+<blockquote><p>“主讲人大量的沉浸在自己的世界中，而对最近4个世纪以来的物理和天文学知识缺乏深入、透彻的学习和了解。”</p></blockquote>
+<p>活动的主办方、北京大学学生会也赶紧取消了此次演讲，并承诺今后“以制度化、规范化的方式确定学术性讲座必经专业学者教授审评的基本流程与规则”。</p>
+<p>受到北大这一出的影响，北航、清华及北师大纷纷对王先生的“万有能量说”关上了门。</p>
+<p>然而千万别以为王先生进不了高校，曾经他讲经济话题的时候，可是中国顶级高校的座上宾——</p>
+<p> </p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%8E%8B%E5%90%89%E7%BB%AF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E7%8E%8B%E5%90%89%E7%BB%AF.jpg" alt="王吉绯" width="574" height="377"></a></p>
+<p>事实上，就在王先生筹划万有能量演讲之时，百度贴吧民科吧也有人呼应“真理必将胜利！王吉绯先生将在中国官科司令部北大举行演讲”，贴中还有人回复“民科只有掌握经济实力才有话语权，这是颠扑不破的真理！”</p>
+<p>所以说，王先生与廖教授的区别，就在于王先生还只是体制外的“民科”，而廖教授则通过不懈努力（投入），当上了国内顶级法学院的教授，就此可以名正言顺地推广自己的理论。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F4.jpg" alt="廖凯原4" width="600" height="395"></a></p>
+<p>美国数学物理学家John Baez曾在1998年时搞过一个测试，叫“你是不是科学妄想家”，得分越高则民科指数越厉害。其中有这样两道判断题：</p>
+<blockquote><p>1、如果你把科幻小说或者神话故事当作事实来引用，每一次＋20分。</p>
+<p>2、如果你把你的理论中的一些东西用你自己的名字来命名，＋20分。</p></blockquote>
+<p>那个“凯原量子信息力学KQID”就不说了，廖先生一口一个的“轩辕、黄帝”，更是不着边的玄幻文学，纯属中国特色的神话。</p>
+<p>中国目前被公认的信史仅仅到了商朝，之前的夏朝、上古帝王，除了口口相传的传说以外，没有任何史料可以作证。甲骨文里并没有关于黄帝的记载，各类确证写作时间在春秋时代之前的文献，如《尚书》周初八诰、《诗经》等也没有黄帝的踪迹。“黄帝”之名最早出现于战国齐威王时代的陈侯因齐（即齐威王）敦铭文中，即所谓“战国前无私家著作说”。据北京语言文化大学文学博士方铭论证，《黄帝四经》不是传说中的黄帝所著，其成书大约在战国中期，约公元前四世纪左右。《黄帝四经》是战国时托名黄帝的众多著作之一。</p>
+<p>什么“轩辕召唤”什么“黄帝共识”，这不是民科是什么？</p>
+<p><strong>“我没有钱，我不要脸”</strong></p>
+<blockquote><p>“我一直认为廖凯原先生能够以一人之力，扒下国内四家法学院的底裤，一定可以载入中国法律教育的史册。”</p>
+<p>——知乎网友姜源</p></blockquote>
+<p>北大把廖教授请来，不仅对外讲还对内分享，设立一门《法治和天命科学观框架下的天命人》做选修课，还宣称：课程前五名可获得廖凯原奖学金（当然，清华也开过这门课）。</p>
+<p>清华给廖教授设立了一个“凯原中心”，2014年底时，这个中心聘任了“国学家、养生专家”张其成当研究员，转年2015年3月，张其成便借其身份之便在全国政协第十二届三次会议上提了案，要求设立轩辕纪年，一时被媒体嘲讽。更不要提复旦，为了廖教授的千万美元，该校哲学系和法学系撕破了脸，就为起一座新楼，万言书也上了御状也告了，哲学系声称“如果这一问题不能得到妥善解决，中国基础教育学科地位将受影响。”</p>
+<p>我知道，在这个时代，如果还抱着梅贻琦那句“所谓大学者，非谓有大楼之谓也，有大师之谓也”是多少有些冥顽不化了。用廖教授的理论，大学非要爱面子不搞钱，是反熵行为，费力不讨好嘛。</p>
+<p>比如李嘉诚基金会向香港大学捐资10亿港元，要求香港大学医学院命名为“香港大学李嘉诚医学院”，清华当年还搞过真维斯楼，暨南大学也搞过富力教学楼，都被质疑过，最后也都不了了之了。</p>
+<p>何况有的时候，大学拜的也不止是大楼，清华下边有个搞国学的“正心正举研究中心”，人家就堂而皇之的把周小平请进清华园座谈了。复旦大学新闻学院还组织了个“新闻大讲堂”，请崔永元发表一个名为“班门弄斧转基因”的演讲。中国顶级高校在学术尊严上的表现，正应了那句歌词：“我没有钱，我不要脸。”</p>
+<p>最后，请大家一起欣赏北大名誉校董廖教授为前北大校长周其凤写的诗《你和我》，真不知道北大校友看完心里是什么滋味——</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%BB%96%E5%87%AF%E5%8E%9F5.jpg" alt="廖凯原5" width="621" height="744"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%99%8E%E5%97%85%E7%BD%91-%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E5%A4%8D%E6%97%A6%E4%BA%A4%E5%A4%A7%E7%9A%84%E8%8A%82%E6%93%8D%E5%80%BC%E5%A4%9A%E5%B0%91%E9%92%B1%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">三个代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E5%8E%9F%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">凯原中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2/?category=18271" rel="tag">大学教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E4%B8%91%E9%97%BB/?category=18271" rel="tag">学术丑闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%96%E5%87%AF%E5%8E%9F/?category=18271" rel="tag">廖凯原</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95/?category=18271" rel="tag">科学发展</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95%E8%A7%82/?category=18271" rel="tag">科学发展观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E6%A2%81%E6%8C%AF%E8%8B%B1%EF%BC%9A%E5%BC%A0%E6%99%93%E6%98%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E8%B6%85%E7%84%B6%E8%AE%BA%E9%81%AD%E6%9B%B2%E8%A7%A3/" target="cdt-mirror">BBC | 梁振英：张晓明“香港特首超然”论遭曲解</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150915043534_cn_hongkong_cy_leung_976x549_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150915043534_cn_hongkong_cy_leung_976x549_afp_nocredit.jpg" alt="梁振英当天在研讨会现场聆听了张晓明的讲话。" width="600" height="337"></a><p>梁振英当天在研讨会现场聆听了张晓明的讲话。</p></div>
@@ -770,163 +940,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%A4%95%EF%BC%8C%E6%B4%BE%E7%89%B9%E4%BD%BF%E5%AD%9F%E5%BB%BA%E6%9F%B1%E5%89%8D%E6%9D%A5%E7%81%AD/" target="cdt-mirror">美国之音｜习近平访美前夕，派特使孟建柱前来灭火？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/mmexport1441262564551.jpg" alt="mmexport1441262564551" width="550" height=""></a><br><em>（网络图片）</em></p>
-<p>华盛顿— 中国国家主席习近平即将从9月22日起对美国进行国事访问。最近一段时期，美国各界对是否应该报复反击来自中国的网络攻击发生激烈争论。在此背景下，中共政法委书记孟建柱对美国的访问就显得引人关注。</p>
-<p>对于孟建柱访美，两国的消息宣布时间和内容有所不同。白宫晚于中国官媒新华社，在9月12日美东时间下午5点07分由白宫新闻秘书办公室发表了简报，简报说，“从9月9日至12日，美国政府高级官员与中共政法委书记孟建柱在华盛顿举行了一系列会晤。孟建柱是作为习近平主席的特使前来华盛顿，在习近平主席对美国展开国事访问之前，就网络安全和其它议题进行磋商。美国国土安全部部长约翰逊在孟建柱访美期间负责接待。基于此，约翰逊部长召集了中国代表团成员和来自美国国务院、财政部、司法部、联邦调查局以及情报界的代表的一次会议。此外，联邦调查局局长科米在联调局总部会晤了孟建柱，并与之进行磋商。美国国家安全顾问苏珊·赖斯在白宫接待并会晤孟建柱，她与孟建柱就网络议题开诚布公地交换了意见。”</p>
-<p>中国官媒新华社早于美国方面，在中国时间9月12日晚间10点21分就习近平特使孟建柱访美发出通稿。这篇通稿只强调了网络安全议题，表示在共同打击网络犯罪等执法安全领域的突出问题与美方达成了共识。通稿同时透露孟建柱率领中国公安、安全、司法、网信等部门有关负责人一同访问美国，访美期间还会晤了美国国务卿克里。但是对孟建柱和美国方面还磋商了哪些其它议题，则没有提及。</p>
-<p>通稿引用孟建柱的话说，“中方反对网络攻击和网络商业窃密的立场是坚定的，不管什么人，在我境内实施网络攻击和网络商业窃密都是违反国家法律的，都应受到法律的追究。中美两国开展对话合作、共同打击网络犯罪，符合双方和国际社会的共同利益。”</p>
-<p>从白宫新闻秘书办公室的简报和新华社的通稿透露的信息进行对比可以看出，美国方面虽然强调了网络问题，但同时也对孟建柱为习近平访美打前站，做准备的作用进行了通报，中国方面则只突出网络问题。由此似乎可以感到，中国对美国方面针对来自中国的网络攻击和间谍行为已经越来越无法容忍，开始考虑反击的态度有了清晰的认识，在习近平访美前夕，有派特使孟建柱前来美国灭火的考虑。另外，孟建柱的表态，也似乎透露出中国至少知道有来自中国境内的，针对美国的网络攻击行为。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%A4%95%EF%BC%8C%E6%B4%BE%E7%89%B9%E4%BD%BF%E5%AD%9F%E5%BB%BA%E6%9F%B1%E5%89%8D%E6%9D%A5%E7%81%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E5%BB%BA%E6%9F%B1/?category=18271" rel="tag">孟建柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">黑客</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BD%8E%E6%A0%BC%E5%91%A8%E5%88%8A%EF%BD%9C9-13%E6%9E%97%E5%BD%AA%E5%9D%A0%E6%9C%BA%E5%90%8E%EF%BC%8C%E6%BB%A1%E6%9C%9D%E6%96%87%E6%AD%A6%E8%B0%81%E7%9A%84%E5%8F%8D%E5%BA%94%E6%9C%80%E4%BA%AE/" target="cdt-mirror">低格周刊｜9.13林彪坠机后，满朝文武谁的反应最亮？</a>
-</h2>
-<p><p><strong>【编者注】微信公号低格Digger（Best-DiGGER）原文已被和谐。<br></strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/0.png" alt="0" width="475" height="469"></a></p>
-<h3><span><strong>我是导语君</strong></span></h3>
-<p> </p>
-<blockquote><p>“九一三事件”这个名词，如今年轻人已不甚知晓。1971年9月13日，发生了共和国史上最为惊心动魄、神秘诡谲的一件大事——全国二号人物林彪驾机出逃，摔死在蒙古大漠。写进党章里的接班人一夜之间成了反革命，百姓们震惊不已，高层将帅们却反应各不相同。从他们的或拍手称快、或直言质疑、或老泪纵横中，我们又能读出些什么亮点呢？</p></blockquote>
-<h3><span><strong>1. 欢乐的大多数</strong></span></h3>
-<p> <br>
-和发生在这个国度上的所有大事一样，中央对于“九一三”事件公布也采取了“内外有别、有步骤”的逐级传达方式。据目前可查阅的史料所载，国内最先知道这一事件的高层领导，是时任外交部长<strong>姬鹏飞</strong>。</p>
-<p>当中国驻蒙古大使的手抄特急电报送至外交部时，<strong>姬鹏飞的反应可以用四个字形容：惊喜交集。他用异常的语调将电文念成一首短诗，是为“机毁人亡，绝妙下场”，</strong>随即通报已经五十多个小时没合眼的<strong>周恩来</strong>。对于周恩来的反应，各种回忆录中流传着许多绘声绘色的传说，什么先大喜后大哭，含泪说你不懂云云。但几乎每一个版本中，都记载了总理的第一反应是拍手大笑：</p>
-<blockquote><p>好！好！摔死了，摔死了！</p></blockquote>
-<p>接下来的情节就是周恩来亲自禀告毛泽东，至于毛的反应本文就不引述了，低格君还想多活几天。我们要重点说的是在9月14日上午，被周恩来的一纸急令喊来人民大会堂议事的党政军要员们。这些人的反应就很有趣了。</p>
-<p>▼插播一张周恩来和林彪双双臂戴红袖章，学习交流的画面<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/012.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/012.jpg" alt="01" width="525" height=""></a></p>
-<p>最普遍的情绪当然是欢庆，其中最开心的群体莫过于林彪曾经的军界同僚们。听说林彪摔死，将军们沉寂了片刻，随后爆发出巨大的欢腾。只见久经考验的“老总”们像庆祝一场胜利似的，手舞足蹈，大喊大叫。<strong>其中最引人注目的莫过于朱德的大嗓门</strong>：</p>
-<blockquote><p>老天爷有眼！老天爷有眼！</p></blockquote>
-<p>另一位脾气不小的老总<strong>陈毅</strong>此时正卧病在三O一医院，虽然未能在第一时间分享这种快乐，但得知消息后同样欣喜若狂，甚至在病榻上高举茅台酒，欢呼胜利。我们来看看亲眼目睹这一幕的驻法大使黄镇是如何描述胖帅之喜的：</p>
-<blockquote><p>我永远忘不了老总脸上突现的红光，和那细眯的眼睛里一半含着轻蔑，一半含着微笑。</p></blockquote>
-<p>要知道胖帅此时已是病入膏肓（四个月后就去见马克思了），<strong>但在不久之后批判林彪的大会上，他硬是带着癌症之身义愤填膺地连续做了几个小时的“揭林报告”，把四五十年前南昌起义时的陈谷子烂芝麻都拎出来鞭了一番尸，足见恨之深责之切。</strong></p>
-<p>▼插播开国大典上的陈毅和林彪，昔日并肩战友，如今互对枪口<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/022.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/022.jpg" alt="02" width="525" height=""></a></p>
-<p>与胖帅心情相似的还有<strong>罗瑞卿</strong>。不但高兴得好几个晚上睡不着觉，还一口气写了13万字揭发林彪罪行的材料。这还不够解恨，又在《答友人》诗中极尽怨毒地骂道：</p>
-<blockquote><p>林贼蛇蝎心，蔽空犹乌云。篡权之狠毒，远超狗彘行。</p></blockquote>
-<p>从将军们的“幸灾乐祸”来看，对林彪简直是诛心之恨。可说起来，这三位和林彪都是并肩战斗几十年的老友——朱陈二位老总从井冈山起就是林的上级，特别是朱老总堪称林的伯乐，而罗瑞卿一直是林最信赖的部下。<strong>可惜，半辈子的亲密合作被一场运动催化成不共戴天之仇，彼此恨不得早日下地狱。如今害人精终于身败名裂，受难者们怎能不额手相庆、兴高采烈呢。</strong></p>
-<p>▼插播1962年，“老总”们的合影，观站位，知内幕<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/032.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/032.jpg" alt="03" width="488" height="354"></a></p>
-<p>不同于将军们的复仇快感，还有一部分朝中大员，虽然没受过林彪集团的直接迫害，也对此拍手称快。譬如前面说过的那位“出口成诗”的外交部长姬鹏飞，其实他手下还有两个同样“才思敏捷”的大将——<strong>外交部副部长乔冠华和办公厅主任符浩</strong>。</p>
-<p>这俩的级别低一些，14号晚上才得到消息，当下俱怀逸兴壮思飞，直接在外交部大院里开了一瓶茅台开怀畅饮。喝着喝着，符浩情不自禁地吟出了唐朝诗人卢纶的《出塞曲》：</p>
-<blockquote><p>月黑雁飞高，单于夜遁逃。欲将轻骑逐，大雪满弓刀！</p></blockquote>
-<p>乔冠华听后意上心来，将手中的酒一饮而尽：“述旧不如编新，我把这首诗略加改动，且看如何？”于是朗声念道：</p>
-<blockquote><p>月黑雁飞高，林彪夜遁逃。无需轻骑逐，大火自焚烧！</p></blockquote>
-<p>这四句诗想来乔老爷自己是很满意的，<strong>因为之后此诗不胫而走，疯传京城高干圈。就连郭沫若大才子也对此赞不绝口，还欣然命笔，将这四句诗挥毫写成条幅，馈赠众多好友，逢人就夸乔老爷改得好。</strong>由此可见，当时大多数领导名流对于林彪之死的态度，都是幸灾乐祸的。</p>
-<p>▼插播“九一三”一个月后，联合国代表大会上大笑狂喜的乔老爷<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/041.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/041.jpg" alt="04" width="500" height="340"></a></p>
-<h3><span><strong>2. 清醒的少数</strong></span></h3>
-<p> <br>
-所谓“清醒”，是低格君的一种概括，其实指的是一部分没有过度欢庆的人。之所以不盲目欢庆，是因为他们从事件里看到了比旁人更多的东西。这里集中说两个知名度最高的人——邓小平和叶剑英。</p>
-<p>先说叶剑英。<strong>说起来，叶帅是最早得知消息的“老灵通”之一，13日当晚周恩来得到报信后，当即就指定了叶帅作为林彪事件善后和战备事项的负责人。</strong></p>
-<p>大家若是对红史稍有了解，就会知道叶剑英是党内为数不多的著名“聪明人”，双Q和政治经验完爆其他九大元帅，直追周恩来。叶帅对于林彪事件的反应，集中体现在他在事发后不久写下的《斥林彪》一诗中：</p>
-<blockquote><p>铁鸟南飞叛未成，庐山终古显威灵。仓皇北窜埋沙碛，地下应惭汉李陵。</p></blockquote>
-<p>说来叶帅倒底是党内数一数二的诗家，区区二十八个字中，至少包含了三层意思。<strong>第一，批判林彪“叛党叛国”罪行，跟中央统一口径统一立场；第二，用含蓄的手笔赞扬了毛泽东，同时表明自己的忠心；第三，用李陵降匈奴的典故反衬林彪之贰心，高瞻远瞩又不失旧体诗的古雅凝炼。</strong>其作品深度与个人韬略完美匹配，远不是什么“林贼蛇蝎心”之类的大脏话能比的。</p>
-<p>▼插播抗战年代老图，林彪、叶剑英、林伯渠同美军观察组成员在延安交谈<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/051.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/051.jpg" alt="05" width="525" height=""></a></p>
-<p>然而，这首诗虽然高明，却没有完全反映出叶帅对林彪之死的真实态度。欲知真相如何，请看接下来这段经典对话——</p>
-<p>在讨论林彪死讯的政治局会议后，张春桥拿来一瓶茅台与诸人碰杯（本文第三次出现茅台了），一向锋芒不露的叶帅对此颇为不满，直言“这并没有什么值得高兴的”。姚文元反问：“难道这不是好事吗？”叶帅提高嗓门回应道:</p>
-<blockquote><p>是好事，也是丑事。一个党中央副主席、中央军委副主席、国防部长叛国逃跑，在国内国外将产生什么影响？</p></blockquote>
-<p>事实证明，叶帅的焦虑完全有理，林副主席的“叛党叛国、自取灭亡”极大冲击了当时中国人民的心灵。叶帅作为一个成熟政治家，的确比同僚更善于观察形势，看得更深更远。</p>
-<p>▼插播1959年军委扩大会议期间，林彪和叶剑英在谈话<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/062.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/062.jpg" alt="06" width="525" height=""></a></p>
-<p>还有一个看得远的是<strong>邓小平</strong>。小平同志算是文革里最倒霉的几个人之一，早早儿就被拉下马踩上一万只脚了。“九一三事件”发生时，他正在江西乡下一个拖拉机厂里劳改。劳改犯的知情权是当然不能跟朝中大员们相提并论了，小平同志得知林彪死讯时已经是两个多月后的事儿。</p>
-<p>当时，小平夫妇和全厂80多名工人一起收听中央文件，因为监视人在场，小平同志全程一声没吭。回家之后，夫人特意倒了一小杯酒，小平同志接过酒杯，只说了一句话：</p>
-<blockquote><p>林彪不死，天理难容！</p></blockquote>
-<p>小平同志的感慨虽然惜墨如金，接下来的行动却势如风雷。虽然远在千里之外，小平同志却敏锐地闻到了中南海畔的气候变化，于是他接连给毛泽东和中央写了两封长信，大谈到自己对林彪的看法，一方面坚决拥护中央对于林彪反党集团的决议，一方面揭发批判了林彪过去几十年内的各种反革命阴谋诡计。</p>
-<p>▼插播1938年林彪和邓小平在西安八路军办事处门口的合影<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/072.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/072.jpg" alt="07" width="525" height=""></a></p>
-<p>这两封信的结果和后来的历史，活在今天的你我都很清楚了。<strong>可以说，林彪的死事实上给小平同志的政治生涯带来了转机。而懂得把握机会的小平，在对于林彪的评价上也并非只顾发泄私愤，而是寄托了更长远的政治策略。</strong>林彪死后不到一年，小平同志已重拾中央的橄榄枝，在井冈山下乡视察时，他是这么和当地的老红军说的：</p>
-<blockquote><p>林彪这个人不能说没本事，就是伪君子，利用毛主席抬高自己。</p></blockquote>
-<h3><span><strong>3. 悲伤的异数</strong></span></h3>
-<p> <br>
-在说这个类别之前，低格君再多嘴讲讲两句当时的形势——真是“墙倒众人推”。上一期《低格必读》领导人讣告专题中，低格君没有提到林彪的讣告，其实那根本不能叫做讣告，正式名称是《关于林彪叛国出逃的通知》：</p>
-<blockquote><p>中共中央正式通知：林彪于1971年9月13日仓皇出逃，狼狈投敌，叛党叛国，自取灭亡。</p></blockquote>
-<p>从这份一锤定音的最高指示，和接下来轰轰烈烈的“批林”运动中，可以看出当时的舆论走向，就是要把对于国家现状的所有愤怒统统撒在死去的林彪身上。一时间，林彪被妖魔化到万劫不复的境地，战争年代的一切功绩亦化为乌有，他的死俨然成为中国历史的一大幸事。不少利益相关者，更是争着抢着在这件“幸事”中添砖加瓦。</p>
-<p>▼插播1971年底开启的浩浩荡荡“批林”运动宣传画<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/082.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/082.jpg" alt="08" width="550" height="372"></a></p>
-<p>但有一个人没有这么做，你们也猜到了，就是<strong>彭德怀</strong>。彭老总作为比小平同志更惨、更倒霉的牛鬼蛇神，直到“批林”运动开始后才得知林彪的死讯，而得知的方式是专案组直接把笔递到他面前，让其揭发交代林彪反党的各种问题。</p>
-<p>对此，身在缧绁的彭老总是这样回应的：</p>
-<blockquote><p>不要着急。四五十年的事，一下子想不起来，要慢慢地回忆回忆。</p>
-<p>脑子受了刺激、思想总感到不痛快。（1972.1.8）</p>
-<p>他们要我写林彪和高岗的材料，我不清楚。（1972.6.9）</p></blockquote>
-<p>其实彭老总的记性好着呢，同样是在狱中，他在没有任何参考资料情况下写了《我的自述》，遍叙数十年间大小人生事。这里之所以“不清楚”，多少是有些物伤其类，所以“思想总感到不痛快”，不愿落井下石。低格君妄自揣测，彭老总应该也还惦念着当年庐山上，当自己也被众人落井下石时，反而是林彪为他洗清了一桩几十年的黑锅。</p>
-<p>▼插播一张著名的截图<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/092.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/092.jpg" alt="09" width="493" height="284"></a></p>
-<p>于是彭老总的材料磨磨唧唧写了半年多，直到1972年8月，他再次收到专案组正式传达的中发(1971)57号文件，要求继续批林。当晚，彭老总向看守人员说出了一番在今天听来都石破天惊的言论：</p>
-<blockquote><p>打电话给周总理，我相信他是革命的。这样把林彪杀了我有意见，他死我不同意。叫周恩来总理来亲自参加这个审查。请打电话给周恩来总理、董副主席，叫他们来亲自审我，我不活了！</p></blockquote>
-<p>这段话收录于中共中央文献研究室主编的《彭德怀年谱》，其真实性无需置疑。说实话，当时（直到今天）觉得林彪死得不清不楚的都大有人在，但恐怕除了惯于直言犯谏的彭老总，再没有人敢这样公开质疑中央文件。自己都是百罪莫赎泥菩萨过江了，还要为一个死人叫撞天屈。这样的态度，这样的人，在任何一个时代之下，都绝对算得上的“异数”了。</p>
-<p>然而，正是这些“异数”，让活在今天的你我回首过去时，不至于陷入完全绝望——在那段黑河一般的历史中，重重天威之下，总有一两个男儿，是站着的。</p>
-<p>▼插播共和国十大元帅的油画。他们鲜衣怒马，谈笑风生，就像什么都没有发生过一样。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/103.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/103.jpg" alt="10" width="550" height=""></a></p>
-<h3><span><strong>我是结语君</strong></span></h3>
-<p> </p>
-<blockquote><p>其实对于林彪之死，还有一个人感到悲从中来，那就是我们最熟悉的陌生人——曾经“剿匪不力”的蒋委员长、如今台湾岛上的蒋总统。许多本回忆录中都提到，林彪之死甚至让老蒋流下了枭雄泪。由于关键信息缺乏，我们无从得知这份悲伤是来自黄埔师生之谊，还是另有隐情。那么，就只好“天要下雨，娘要嫁人，随他去吧”。</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BD%8E%E6%A0%BC%E5%91%A8%E5%88%8A%EF%BD%9C9-13%E6%9E%97%E5%BD%AA%E5%9D%A0%E6%9C%BA%E5%90%8E%EF%BC%8C%E6%BB%A1%E6%9C%9D%E6%96%87%E6%AD%A6%E8%B0%81%E7%9A%84%E5%8F%8D%E5%BA%94%E6%9C%80%E4%BA%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B6%E5%89%91%E8%8B%B1/?category=18271" rel="tag">叶剑英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E5%BE%B7%E6%80%80/?category=18271" rel="tag">彭德怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%B9%E6%96%97/?category=18271" rel="tag">批斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%BD%AA/?category=18271" rel="tag">林彪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%AB%8B%E6%9E%9C/?category=18271" rel="tag">林立果</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E4%B8%AD%E5%8D%97%E6%B5%B7%E7%82%92%E9%92%A2%E8%80%83%E8%AF%81/" target="cdt-mirror">呦呦鹿鸣｜达文西：中南海“炒钢”考证</a>
-</h2>
-<p><p>今天，意外地看到了这张照片，整个人立马醒了：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64017.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64017.jpg" alt="640" width="400" height="388"></a></p>
-<p>这张照片的背后，有这样的故事。</p>
-<p>话说，在1958年8月的北戴河会议上，窗外清爽宜人，窗内的大佬们，以热烈的掌声通过了《中共中央政治局扩大会议号召全党全民为生产1070万吨钢而奋斗》的决议。</p>
-<p>这个1070万吨的目标是怎么来的呢？据说，在对《联共党史》学习中，有这么个说法：炼钢水平达到一千万吨后，即表示这个国家进入了工业化。</p>
-<p>哇哦。“工业化”的背后还有“合法性”有没有？当然，更重要的是：政治家掰手腕的霸气！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64023.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64023.jpg" alt="6402" width="500" height="368"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64032.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64032.jpg" alt="6403" width="500" height="366"></a></p>
-<p>当年前8个月里，生产了450万吨钢，还剩下不足4个月，却要生产620万吨钢，怎么办呢？各地党委制订了全党全民大办钢铁工业的指导方针，由第一书记挂帅。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64041.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64041.jpg" alt="6404" width="440" height="274"></a><br>
-▲当时难得的土法炼钢彩照。</p>
-<p>土法炼钢时代开启了。中南海也炼起来了。</p>
-<p>中央办公厅成立了炼钢指挥部，直接设在中直党委。中办各单位，都有一名干部任炼钢负责人。</p>
-<p>中南海来福堂东、居仁堂西的甬道边，是秘书室的土炼钢炉；中南海西楼西墙外，是机要室的土炉子；警卫局霸气一些，在万善殿、东八所等好几个地方都建了土炉子。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64051.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64051.jpg" alt="6405" width="525" height="436"></a></p>
-<p>在作家出版社《红墙童话———我家住在中南海》（作者王凡 东平）中，有详细的记录：</p>
-<blockquote><p>炼钢需要原料铁，开始的时候，都靠各单位自己想办法搜扒，许多人把自家的一些金属器具捐了出来。但这不够，就到处搜寻，简直到了看见什么和金属沾边的东西都想往回拣的地步了。秘书室的炼钢负责人，<strong>带着人把游泳池附近的一扇铁门给卸了。门边的岗哨开始不让卸</strong>，秘书室的人说：“你们知道现在是什么时候啦，大炼钢铁被摆在什么高度啦，你还不支持我们？”哨兵不好再说什么，让他们抬走了门，当了炼钢的原料。</p>
-<p>所有的人都有很高的热情，但对炼钢实在是一窍不通。首先是不会建炼钢炉，所有的炉子，中心就是一个坩埚，放入焦炭和碎铁，外面用耐火砖包上，在里面点火冶炼。坩埚很贵，因为叶子龙（机要室主任，兼任毛主席办公室负责人）方方面面的人都熟悉，是他通过关系搞来的。焦炭点着后，火力不够，烧不红铁块，人们就轮流抱着铁管子用嘴吹火，根本无济于事；又请木工做了木风箱装上，由几个人轮流拉风箱。总算把废铁烧红了，但还是达不到熔化的温度，炼不成钢。后来，秘书室的人，在静谷的旧院落寻找废铁时，翻出了一台8马力的旧鼓风机，搬到了土炼钢炉前，接上电源，呜呜一吹，焦炭和废铁块渐渐被烧得白亮亮的了。人们仿佛看到了成钢的希望，所有的单位都设法找来鼓风机，几处有土炼钢炉的地方，昼夜呜呜鸣响。<strong>一些住在中南海里的首长，被吵得难以工作和休息，</strong>但为了大局，首长也只好自己克服克服了。火一烧起来就不能灭了，要直到一炉钢炼出来，24小时不能离开人。为了方便炼钢，秘书室的人在怀仁堂前，用苫布搭了个大棚子，刚从土炼钢炉倒班下来的人，就在这里休息，家都顾不上回了。秘书室的干部就这么炼了10多天，中办炼钢指挥部一个劲儿打电话问，可<strong>一斤合格钢也没炼出来。请来懂行的人指导，来人看了看，说这样根本炼不出钢，只能炒钢。</strong></p>
-<p>炒钢是把砸碎的铁料和焦炭按一定比例放入炉中，达到一定的温度后，人们就手持钢钎来回翻搅，使炭渗到铁里，实现铁到钢的转化。后来中南海里各单位大都是变炼钢为炒钢。“我们炒出钢来了。”中南海里的各单位纷纷向中办炼钢指挥部报捷。指挥部通知各单位，合格的钢由国家收购。秘书室的成绩不小，炼出的小钢锭卖了500多元钱。就在炒钢出了一些成品后，毛泽东到中南海内中办系统的几个炼钢点视察了炼钢的情况。<strong>他看到了合格的小钢锭，虽然没说太多的话，但人们看见他脸上洋溢着满意和兴奋</strong><strong>。</strong>在机要室的炼炉前，他还和全体炼钢的干部们合影留念。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6406.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6406.jpg" alt="6406" width="525" height="469"></a></p>
-<p>哇哦，终于到了毛主席出场了。 但是，毛泽东真的如这本书所说，“洋溢着满意和兴奋”吗？</p>
-<p>不一定。原中办国办信访局副局长、政务专员郑道中曾经在《世纪》杂志中撰文回忆了这段往事：</p>
-<blockquote><p>某一天晚上，说是中直系统要搞“突击”，要把产量猛抬上去，我被指令学习和操作“炒钢”技术。第二天下午我就在一位来自河北的农民师傅(是中直机关专门请来的)指导下，用普通砖头和石灰搭建了一个十分简陋的炒钢炉(应该说是小灶台)，安上一个比较大的鼓风机。晚上操作时，农民师傅把大块的木柴同铁块放在一起，启动鼓风机把炉火烧得特别旺，叫我不断地用铁棒搅动木柴和铁块，使铁块熔化后凝结成钢。令农民师傅大为失望的是，城里的木柴十分干燥，不像农村新砍下的树木，干木柴点火后在鼓风机鼓吹之下，不到五六分钟就烧完了，铁块还来不及熔化。取出的成品是“半生半熟”，即有的铁块熔化，有的没有熔化。此后这个“炒钢炉”再也没有引起人们的兴趣。</p></blockquote>
-<p>炒钢失败。</p>
-<p>对于毛泽东的反应，郑道中是这样回忆的：</p>
-<blockquote><p>毛主席十分关心正在“后院”进行的炼钢，在机要秘书罗光禄陪同下，亲自来查看。下车时他十分高兴，与我们一一握手，听着叶子龙汇报，迈步进入“后院”。<strong>他看到了这个脏乱的现场，看到了这些衣着凌乱不堪的“炼钢工人”，看到这些“工人”笨拙的操作，还观看了熔炼出来的产品，他的神态似乎失去了来时的兴奋。</strong>停留了一会，他离开了现场。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6407.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6407.jpg" alt="6407" width="550" height=""></a><br>
-▲画家的画很写实，洋溢着浪漫。</p>
-<p>毛主席在内部检讨时说，他搞大炼钢铁运动，事先并不知道炼钢要运输，要焦碳和合适的砂。</p>
-<p>《机械工人》1958年第12期发表一篇文章《为土铁土鋼鸣鑼开道》（当时还是繁体），战天斗地，甚是犀利：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6408.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6408.jpg" alt="6408" width="500" height=""></a><br>
-▲花了钱才找来这本期刊复印，各位看官勉强看看。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6409.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6409.jpg" alt="6409" width="450" height="400"></a><br>
-▲眼熟不？</p>
-<p>困惑在于，中南海有没有必要这么从零开始摸索“炒钢”呢？我从《发明与革新》2000年第四期找到这样一篇介绍《西汉已有炒钢技术》：</p>
-<blockquote><p>徐州狮子山楚王陵考古 ,日前又有重大发现：迄今世界上年代最早的炒钢冶金技术 ,我国在西汉早期就已发明和广泛应用了。楚王陵保存着一处完整的西汉楚王武库 ,库中堆满各式成捆的实战楚汉兵器 ,兵器虽历时 2000多年 ,依然锋利无比 ,轻轻一划刃锋力透十余层厚纸。 北京科技大学冶金与材料史研究所对武库铁器的研究分析表明: 当时的钢铁技术正处于发展时期 ,淬火工艺、冷锻技术、炒钢制作均已使用。 炒钢是生铁半熔后加热渗碳,锻打成钢。 公元 18世纪欧洲才开始使用炒钢技术 ,而楚王陵的年代下限为公元前 154年 ,这表明<strong>我国在西汉早期 (公元前 2世纪中叶 )已发明并使用了炒钢技术。</strong></p></blockquote>
-<p><strong>搞了半天，我们竟然不如西汉时代？</strong>现实太骨感。</p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64010.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64010.jpg" alt="64010" width="500" height="368"></a><br></strong></p>
-<p>具体到北京，《中国科技史杂志》2014年第2期发表了一篇论文：《北京昌平马刨泉长城戍所遗址出土铁器的实验研究——兼论炒钢工艺的一种判据》，标题很长，但要说的其实就是一句话：在北京，北朝时期已经普遍使用炒钢制造兵器和工具。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64011.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64011.jpg" alt="64011" width="525" height="460"></a></p>
-<p><strong>搞了半天，我们竟然不如北朝？</strong>哦，不，我们还有理想丰满。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64012.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64012.jpg" alt="64012" width="545" height="371"></a><br>
-▲北京的妇女同胞将家中铁制用具送去土法炼钢，最后它们光荣地成了废物。</p>
-<p>关于“炒钢”，《中国古代冶铁技术发展史》有这样源自《太平经》的表述：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64013.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64013.jpg" alt="64013" width="525" height="230"></a></p>
-<p>好像找到了好多祖上很牛的证据，然而并没有什么用，在《中国古代金属技术——钢和铁造就的文明》一书中，作者指出该应正名为“炒铁”而非“炒钢”：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64014.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64014.jpg" alt="64014" width="550" height=""></a></p>
-<p>所以，这也就是一篇“然并卵”的文章。</p>
-<p>最后，我们要说的是，此“炒钢”非彼“炒钢”，而现在的中南海，也不是过去的中南海，至少土炉子冒烟是绝对不可能了。</p>
-<p>当年，中南海以及全国所炼300多万吨土钢、416万吨土铁根本不能用。不过，毫无意外，最终我们伟大的人民还是胜利了！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64015.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64015.jpg" alt="64015" width="450" height="538"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/64016.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/64016.jpg" alt="64016" width="525" height="291"></a></p>
-<p>向大家普及一个常识，1890年由张之洞在武汉筹办的汉阳钢铁厂，至辛亥革命前，有炼铁炉3座，炼钢炉6座，约年产生铁8万吨，钢近4万吨，钢轨2万余吨。</p>
-<p>那个时候，是清朝。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BD%9C%E8%BE%BE%E6%96%87%E8%A5%BF%EF%BC%9A%E4%B8%AD%E5%8D%97%E6%B5%B7%E7%82%92%E9%92%A2%E8%80%83%E8%AF%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%82%BC%E9%92%A2%E9%93%81/?category=18271" rel="tag">大炼钢铁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">大跃进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BE%E5%8D%AB%E6%98%9F/?category=18271" rel="tag">放卫星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -938,7 +951,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d32ed8i1dqa6h1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +961,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d3hql6rbemfaz3.cloudfront.net">https://d3hql6rbemfaz3.cloudfront.net</a><br/><a href="https://d32ed8i1dqa6h1.cloudfront.net">https://d32ed8i1dqa6h1.cloudfront.net</a><br/><a href="https://d11u72h00b3uma.cloudfront.net">https://d11u72h00b3uma.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d32ed8i1dqa6h1.cloudfront.net">https://d32ed8i1dqa6h1.cloudfront.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://d11u72h00b3uma.cloudfront.net">https://d11u72h00b3uma.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d3hql6rbemfaz3.cloudfront.net">https://d3hql6rbemfaz3.cloudfront.net</a><br/></td>    </tr>
 </table>

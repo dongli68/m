@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://un3tiqe.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3jax6aalk1cea.cloudfront.net">https://d3jax6aalk1cea.cloudfront.net</a><br/><a href="https://d2sxcqww3a5fbn.cloudfront.net">https://d2sxcqww3a5fbn.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3jax6aalk1cea.cloudfront.net">https://d3jax6aalk1cea.cloudfront.net</a><br/><a href="https://d2sxcqww3a5fbn.cloudfront.net">https://d2sxcqww3a5fbn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%9B%BD%E6%9C%89/" target="cdt-mirror">【异闻观止】新华网 | 理直气壮做强做优做大国有企业</a>
@@ -886,7 +886,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://tugs.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -896,5 +896,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3jax6aalk1cea.cloudfront.net">https://d3jax6aalk1cea.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d2sxcqww3a5fbn.cloudfront.net">https://d2sxcqww3a5fbn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d2sxcqww3a5fbn.cloudfront.net">https://d2sxcqww3a5fbn.cloudfront.net</a><br/><a href="https://d3jax6aalk1cea.cloudfront.net">https://d3jax6aalk1cea.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>

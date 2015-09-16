@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1x7jwioe73ge.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://dur9tbqb732uy.cloudfront.net">https://dur9tbqb732uy.cloudfront.net</a><br/><a href="https://d1x7jwioe73ge.cloudfront.net">https://d1x7jwioe73ge.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1x7jwioe73ge.cloudfront.net">https://d1x7jwioe73ge.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://dur9tbqb732uy.cloudfront.net">https://dur9tbqb732uy.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/" target="cdt-mirror">纽约时报 | 习近平访美前维权人士郭玉闪获释</a>
@@ -108,7 +108,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6/?category=18271" rel="tag">公有制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">公有制经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD/?category=18271" rel="tag">垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E6%9C%89%E5%8C%96/?category=18271" rel="tag">私有化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%BA%90%E9%85%8D%E7%BD%AE/?category=18271" rel="tag">资源配置</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%BE%E7%AB%8B%E7%9A%84%E6%99%BA%E5%BA%93%E6%89%80%E5%8F%91%E7%9A%84%E3%80%8E%E5%88%AB%E8%AE%A9%E6%9D%8E/" target="cdt-mirror">知乎｜如何看待新华社设立的智库所发的『别让李嘉诚跑了』？</a>
 </h2>
@@ -776,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA/?category=18271" rel="tag">中国工人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%91%E5%81%87/?category=18271" rel="tag">休假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">劳工权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87/?category=18271" rel="tag">带薪休假</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%EF%BC%9A%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E6%88%90%E5%9B%BD%E4%BC%81%E5%B7%A1%E8%A7%86%E9%AB%98%E9%A2%91%E8%AF%8D/" target="cdt-mirror">BBC | 中国反腐败：“近亲繁殖”成国企巡视高频词</a>
 </h2>
@@ -818,7 +818,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://8moskvu7d0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -828,5 +828,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://dur9tbqb732uy.cloudfront.net">https://dur9tbqb732uy.cloudfront.net</a><br/><a href="https://d1x7jwioe73ge.cloudfront.net">https://d1x7jwioe73ge.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dur9tbqb732uy.cloudfront.net">https://dur9tbqb732uy.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d1x7jwioe73ge.cloudfront.net">https://d1x7jwioe73ge.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/></td>    </tr>
 </table>

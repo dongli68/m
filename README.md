@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/" target="cdt-mirror">纽约时报 | 习近平访美前维权人士郭玉闪获释</a>
@@ -48,7 +48,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E7%BA%AA%E5%BD%95/?category=18271" rel="tag">人权纪录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98/?category=18271" rel="tag">人权问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%9F%A5%E8%A1%8C/?category=18271" rel="tag">传知行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E7%8E%89%E9%97%AA/?category=18271" rel="tag">郭玉闪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%B9%B418%E4%B8%875%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1-%E5%A4%9A%E6%95%B0%E5%9C%A8%E5%86%9C%E6%9D%91/" target="cdt-mirror">网易数读 | 中国每年18万5岁以下儿童死亡 多数在农村</a>
 </h2>
@@ -818,7 +818,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kj86k42bt5hd.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dplp176bkcyr5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -828,5 +828,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>

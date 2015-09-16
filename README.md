@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d4xcag8lz0e9j.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1e7vkgsjt7az5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d4xcag8lz0e9j.cloudfront.net">https://d4xcag8lz0e9j.cloudfront.net</a><br/><a href="https://d602dm86tmtyh.cloudfront.net">https://d602dm86tmtyh.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d1e7vkgsjt7az5.cloudfront.net">https://d1e7vkgsjt7az5.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d1e7vkgsjt7az5.cloudfront.net">https://d1e7vkgsjt7az5.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d4xcag8lz0e9j.cloudfront.net">https://d4xcag8lz0e9j.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d602dm86tmtyh.cloudfront.net">https://d602dm86tmtyh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%B9%B418%E4%B8%875%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1-%E5%A4%9A%E6%95%B0%E5%9C%A8%E5%86%9C%E6%9D%91/" target="cdt-mirror">网易数读 | 中国每年18万5岁以下儿童死亡 多数在农村</a>
@@ -82,7 +82,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6/?category=18271" rel="tag">公有制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">公有制经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD/?category=18271" rel="tag">垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E6%9C%89%E5%8C%96/?category=18271" rel="tag">私有化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%BA%90%E9%85%8D%E7%BD%AE/?category=18271" rel="tag">资源配置</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%BE%E7%AB%8B%E7%9A%84%E6%99%BA%E5%BA%93%E6%89%80%E5%8F%91%E7%9A%84%E3%80%8E%E5%88%AB%E8%AE%A9%E6%9D%8E/" target="cdt-mirror">知乎｜如何看待新华社设立的智库所发的『别让李嘉诚跑了』？</a>
 </h2>
@@ -881,5 +881,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d602dm86tmtyh.cloudfront.net">https://d602dm86tmtyh.cloudfront.net</a><br/><a href="https://d4xcag8lz0e9j.cloudfront.net">https://d4xcag8lz0e9j.cloudfront.net</a><br/><a href="https://d1e7vkgsjt7az5.cloudfront.net">https://d1e7vkgsjt7az5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d1e7vkgsjt7az5.cloudfront.net">https://d1e7vkgsjt7az5.cloudfront.net</a><br/><a href="https://d4xcag8lz0e9j.cloudfront.net">https://d4xcag8lz0e9j.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://d602dm86tmtyh.cloudfront.net">https://d602dm86tmtyh.cloudfront.net</a><br/></td>    </tr>
 </table>

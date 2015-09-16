@@ -948,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d23hniawce4l6x.cloudfront.net">https://d23hniawce4l6x.cloudfront.net</a><br/><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/><a href="https://dxpm1a8m7ul8x.cloudfront.net">https://dxpm1a8m7ul8x.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dxpm1a8m7ul8x.cloudfront.net">https://dxpm1a8m7ul8x.cloudfront.net</a><br/><a href="https://d23hniawce4l6x.cloudfront.net">https://d23hniawce4l6x.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2ukej62in4lpz.cloudfront.net">https://d2ukej62in4lpz.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kj86k42bt5hd.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dplp176bkcyr5.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/" target="cdt-mirror">纽约时报 | 习近平访美前维权人士郭玉闪获释</a>
@@ -818,7 +818,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://sxdrc0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -828,5 +828,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/></td>    </tr>
 </table>

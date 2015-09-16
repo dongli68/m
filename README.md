@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9D%A2%E4%B8%B4%E5%A4%B1%E8%B4%A5%EF%BC%9F/" target="cdt-mirror">德国之声 | 德语媒体：“一带一路”面临失败？</a>
@@ -152,7 +152,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B8%E8%B7%91/?category=18271" rel="tag">不许跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%96%B9%E7%88%86%E7%82%B8/?category=18271" rel="tag">北方爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B4%E9%9A%B6/?category=18271" rel="tag">奴隶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%BF%97%E6%A0%87/?category=18271" rel="tag">宋志标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%91%E4%B8%8D%E6%8E%89/?category=18271" rel="tag">跑不掉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%BE%E6%B0%91/?category=18271" rel="tag">难民</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%99%8E%E5%97%85%E7%BD%91-%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E5%A4%8D%E6%97%A6%E4%BA%A4%E5%A4%A7%E7%9A%84%E8%8A%82%E6%93%8D%E5%80%BC%E5%A4%9A%E5%B0%91%E9%92%B1%EF%BC%9F/" target="cdt-mirror">虎嗅网 | 北大清华复旦交大的节操值多少钱？</a>
 </h2>
@@ -883,7 +883,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://eqla.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -893,5 +893,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
                 <td></td>
                 
         
-        <td><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://eqla.azurewebsites.net">https://eqla.azurewebsites.net</a><br/></td>    </tr>
 </table>

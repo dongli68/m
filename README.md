@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kj86k42bt5hd.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://r7.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/" target="cdt-mirror">纽约时报 | 习近平访美前维权人士郭玉闪获释</a>
@@ -426,7 +426,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E6%80%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%85%B4%E7%BB%8F%E6%B5%8E%E4%BD%93/?category=18271" rel="tag">新兴经济体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">金融机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E4%B8%9A/?category=18271" rel="tag">银行业</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%A7%8B%E8%9A%82%E8%9A%B1%EF%BC%9A%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%A4%96%E4%B8%80%E7%AF%87%EF%BC%89/" target="cdt-mirror">秋蚂蚱：车上的故事（外一篇）</a>
 </h2>
@@ -818,7 +818,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3kj86k42bt5hd.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://zh1f.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -828,5 +828,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://zh1f.azurewebsites.net">https://zh1f.azurewebsites.net</a><br/><a href="https://dplp176bkcyr5.cloudfront.net">https://dplp176bkcyr5.cloudfront.net</a><br/><a href="https://r7.azurewebsites.net">https://r7.azurewebsites.net</a><br/><a href="https://d3kj86k42bt5hd.cloudfront.net">https://d3kj86k42bt5hd.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/></td>    </tr>
 </table>

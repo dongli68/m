@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://un3tiqe.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2sxcqww3a5fbn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://d3jax6aalk1cea.cloudfront.net">https://d3jax6aalk1cea.cloudfront.net</a><br/><a href="https://d2sxcqww3a5fbn.cloudfront.net">https://d2sxcqww3a5fbn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2sxcqww3a5fbn.cloudfront.net">https://d2sxcqww3a5fbn.cloudfront.net</a><br/><a href="https://d3jax6aalk1cea.cloudfront.net">https://d3jax6aalk1cea.cloudfront.net</a><br/><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9D%A2%E4%B8%B4%E5%A4%B1%E8%B4%A5%EF%BC%9F/" target="cdt-mirror">德国之声 | 德语媒体：“一带一路”面临失败？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/018060356_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018060356_30300.jpg" alt="0,,18060356_303,00" width="600" height="338"></a></p>
+<p>在中国经济发展降温的大背景下，《商报》周二发表特约评论称，中国雄心勃勃的新丝绸之路项目有失败的危险；而《新苏黎世报》则关注了中国大型国有银行当前所面临的问题。</p>
+<p>“在习近平每次出国进行国事访问时，他总会宣传其’一带一路’的想法。北京想建立以中国为中心的基础设施网络，以加强中国在欧亚大陆的经济、政治影响”，《商报》9月15日的一篇特约评论在开头这样写道。</p>
+<p>作者随后写道，然而中国出于政治原因而做赔钱买卖的时代已经过去了。中国原本想要在欧亚经济圈投资高达9000亿美元，”然而现在需要这笔钱来稳定跛脚的经济和紧张的金融市场，中国外汇储备在8月份大幅回落。”</p>
+<p>“金融困难让很多基础设施项目被束之高阁。……此外，’一带一路’体现出经济政策上的一种倒退：北京没有更加着眼内需，而将赌注放在像巴基斯坦这些不稳定地区的新出口市场，中国国企过剩的产能被出口到国外。克服中国发展模式的结构危机以这种方式’绑架’了（中国）领导层。’一带一路’目前成了投机泡沫。”</p>
+<p>文章提到，”一带一路”倡议提出建立20个特别经济区。例如，在毗邻哈萨克斯坦的霍尔果斯市建立购物中心，然而在工程竣工两年后，毫无顾客的踪影。</p>
+<p>“同时，新丝绸之路倡议也缺乏合作伙伴。……习近平想要推动一个’命运共同体’，然而他没能成功传达这个讯息，这个倡议对其他国家有什么吸引力。习近平许诺下了双赢的局面，然而最大的获益者显然是中国。因为北京是建筑师、出资人和建筑工三合一。而北京在外交上越来越强势的表现，也助长了对’一带一路’的不信任感。”</p>
+<p>“此外，习近平的宏伟计划也可能因为时间点不佳而失败：鉴于乌克兰危机，目前一个中、俄、欧合作项目的前景非常不妙。此外，’伊斯兰国’也在例如中亚这些对于’一带一路’的成功具有核心意义的地区扩张其势力。”</p>
+<p><strong>大型国有银行的”枯槁岁月”</strong></p>
+<p>《新苏黎世报》周二经济版发表题为”中国大银行的枯槁岁月”的文章，其中写道：”伴随着中国经济景气逐渐走弱，中国大型国有银行也开始上气不接下气”。</p>
+<p>“中国大型国有银行正面临这个隐性嫌疑：仍被危险的遗留问题所纠缠–在金融危机过后的经济繁荣岁月过量发放贷款。虽然距离真正雪崩一般的亏损这样的恐怖场景还很遥远，然而金融机构领头羊们在目前的景气下滑中，已经开始面临越来越棘手的挑战。这可能严重影响其收益能力。”</p>
+<p>“在上半财年，直接由中央政府控制的四大银行利润增加1%，已经是最好成绩了。在第二季度，这些银行实际上就是原地踏步。”</p>
+<p>文章写道，尽管采取了大量货币和国家财政刺激措施，然而中国的景气趋势仍呈现下行，银行业也必须开始适应利润微薄的日子。</p>
+<p>文章也提到了”暗藏的信用风险”–所有大型银行的信贷亏缺在应收帐款总额中所占的比例都明显增加。其中工行、建行和中行的信贷亏缺比例从多年来的低于1%上升至1.4%，而农行更是达到了1.8%。</p>
+<p>这些大型国有银行的”风险覆盖面也在减少”。”在过去几年里，中国的银行主动大幅提升信贷拨备（风险准备金），并强制核销不良贷款。”</p>
+<p>中国大型银行已经降低了拨备覆盖率。文章表示，”如果仍维持以前的拨备覆盖率水平，据专家们计算，这些银行在上半年的利润就已经缩水了30%。这样酸涩的损失自然会被当作震惊市场的消息。”而如果未来对拨备覆盖率提出更严格的要求，那么这些银行的利润趋势可能将继续大幅下行。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9D%A2%E4%B8%B4%E5%A4%B1%E8%B4%A5%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">发展模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">国有银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD/?category=18271" rel="tag">垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">经济政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B7%E6%AC%BE/?category=18271" rel="tag">贷款</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%9B%BD%E6%9C%89/" target="cdt-mirror">【异闻观止】新华网 | 理直气壮做强做优做大国有企业</a>
 </h2>
 <p><p>新华网北京9月15日电（记者 华晔迪）中共中央、国务院近日印发《关于深化国有企业改革的指导意见》。作为新时期指导和推进国有企业改革的纲领性文件，《指导意见》明确提出要坚持和完善基本经济制度，做强做优做大国有企业，为促进经济社会持续健康发展、实现中华民族伟大复兴中国梦作出积极贡献。</p>
@@ -103,7 +131,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/?category=18271" rel="tag">改革开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%AE%B8%E8%B7%91%E4%B8%8E%E8%B7%91%E4%B8%8D%E4%BA%86/" target="cdt-mirror">旧闻评论 | 宋志标：“不许跑”与“跑不了”</a>
 </h2>
@@ -844,37 +872,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%E5%87%BA%E5%A4%A7%E4%BA%8B%E6%95%85-%E5%A4%A7%E8%A3%81%E5%86%9B%E9%85%BF%E5%A4%A7%E9%BA%BB%E7%83%A6/" target="cdt-mirror">法广｜大阅兵出大事故 大裁军酿大麻烦</a>
-</h2>
-<p><p>中国政府举全国之力，斥巨资搞的所谓“纪念中国人民抗日战争暨世界反法西斯战争胜利 70 周年”大阅兵，不但没有吸引来任何西方发达国家捧场，更在 9 月 3 日当天爆出“大事故”。而一直为外界所关注的中国军改方案则非但达不到强军目的，更会给中国带来“大麻烦”。最新一期《外参》援引独家分析人士观点：大阅兵出大事故，大裁军酿大麻烦。今天的“明镜书刊”节目，我们请来《外参》杂志主编贺兰若女士给大家详细介绍《外参》第 65 期的内容。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k3.jpg" alt="k3" width="565" height="326"></p>
-<p>法广：本期《外参》杂志称，“纪念中国人民抗日战争暨世界反法西斯战争胜利 70 周年”大阅兵出了一个大事故，请问这个大事故指的是什么呢？</p>
-<p>贺兰若：这个大事故指的就是习近平在乘车检阅三军时，一反常规， 11 次抬起左手行军礼。按照胡锦涛在 2010 年 6 月 3 日签署的《中国人民解放军队列条令》第 49 条的规定，行军礼时要“上体正直，右手取捷径迅速抬起”。众所周知，以习近平为首的中国政府对此次大阅兵十分重视，外界甚至普遍认为这是习给自己搞的“加冕礼”；因此，不是左撇子的习近平为什么会在重要时刻犯这样一个大错误，是很值得思考的。</p>
-<p>法广：中国官方对习近平左手行礼是怎样解释的呢？</p>
-<p>贺兰若：中国官方对此的解释主要有两个版本，一个是《人民日报》的版本，称习近平抬起左手并不是行军礼，而是在招手致意，是摄像机镜头角度问题导致了人们的误解。但是只要看过阅兵录像的人都知道，这个解释纯属生拉硬扯，牵强附会。第二个版本是官方通过舆论引导，在网络上散播的说法，称中央军委主席习近平并非现役军人，因此不需要遵守《中国人民解放军队列条令》，用左手或右手敬礼并没有严格规定。但是这种说法显然更讲不通，因为历任中央军委主席，从毛泽东到邓小平，在检阅军队时都曾身着军装，行标准军礼。</p>
-<p>法广：那么习近平在检阅三军时，左手行礼的真正原因到底是什么呢？</p>
-<p>贺兰若：真正原因其实很简单，那就是习近平可能是由于之前彩排不够，或是没有得到恰当的指导，导致其临场犯糊涂，出了错。独裁者因为志大才疏，不懂装懂闹出乌龙的事情并不少见，习也不第一人。 2011 年 2 月，韩国媒体就曾经爆出金正恩视察军队，手拿望远镜了望远方时，望远镜是上下颠倒的。</p>
-<p>法广：为什么说习近平左手行军礼不是件小事，值得引起人们关注呢？</p>
-<p>贺兰若：习近平作为一个集权国家的军队领导人，无论是出于无知还是疏忽，竟然连军礼都敬错了；那么我们又如何能放心他手中掌控的核武器以及洲际导弹等诸多大规模杀伤性武器呢？这样一个人领导的中国军队又会不会给亚洲地区，甚至是世界其它国家带来威胁和灾难呢？</p>
-<p>法广：习近平在阅兵仪式上宣布中国军队裁军 30 万人，由此引发了世界对于中国军改的关注，请问此次中国军改都有哪些应当关注的方面呢？</p>
-<p>贺兰若：传闻中的此次军改的主要看点有以下几个，一是撤销总政治部、总后勤部、总装备部，将三部职能分别转入国防部、总参谋部和各军种总部。二是撤销现有七大军区，将全国划分为东北、西北、东南、西南四大战区。各战区设军队联合司令部，对战区所辖陆、海、空军和国民警卫队统─行使作战指挥权。三是军改的重点是海军，下设北方舰队、东海舰队、南海舰队三大舰队和一个陆战师。</p>
-<p>简而言之，此次军改方案就是把目前的陆、海、空和战略导弹部队置于同一个军事指挥系统之下；将现有的七大军区整合为四个；削减传统的地面部队，加强海、空军──尤其是海军。但《外参》判断，这个方案内部争议很大，最后公布时会大打折扣。</p>
-<p>法广：习近平大力推行此次军改的目的是什么呢？</p>
-<p>贺兰若：此次军改最大的变革就是将传统的前苏联模式指挥结构改成美式指挥结构。军改中有一项提纲挈领的规定：“中华人民共和国武装力量的主体由中国陆军、中国海军、中国空军和中国国民警卫队组成，统称中国军队。中央军事委员会是军队的最高统帅机关。在中央军委之下设总参谋部和陆军总部、海军总部、空军总部及国民警卫队总部。总参谋部是军队最高军令机关”。</p>
-<p>这也就是说，从今之后，中国军队建立起了由中央军委直接领导的军事垂直体系，军区只是执行系统而非指挥系统；总参谋部协调各兵种，军权进一步集中到中央军委──也就是集中到了习近平的手中。</p>
-<p>法广：为什么说这次军改可能会给中国带来大麻烦？</p>
-<p>贺兰若：此次军改目标是要使中国军队更加机动化，更具灵活性，能更好地应对突发事件。中国大肆强军，威胁区域安全，或将引发中美两国──甚至是中国与整个西方世界之间的军备竞争，从而使丧失掉有利于经济发展的外部环境。</p>
-<p>另外，此次军改会对中国整个军事指挥系统的人事进行颠覆性调整，使将军们脱离原来熟悉的体系。将军不认识士兵，士兵也不认识将军，这样的军队毫无威慑力，是不可能打仗保卫国家的。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%A7%E9%98%85%E5%85%B5%E5%87%BA%E5%A4%A7%E4%BA%8B%E6%95%85-%E5%A4%A7%E8%A3%81%E5%86%9B%E9%85%BF%E5%A4%A7%E9%BA%BB%E7%83%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">大月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -896,5 +893,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d2sxcqww3a5fbn.cloudfront.net">https://d2sxcqww3a5fbn.cloudfront.net</a><br/><a href="https://d3jax6aalk1cea.cloudfront.net">https://d3jax6aalk1cea.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://sxdrc0.azurewebsites.net">https://sxdrc0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d3jax6aalk1cea.cloudfront.net">https://d3jax6aalk1cea.cloudfront.net</a><br/><a href="https://tugs.azurewebsites.net">https://tugs.azurewebsites.net</a><br/><a href="https://d2sxcqww3a5fbn.cloudfront.net">https://d2sxcqww3a5fbn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tp4ul7r4lg12.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24b1vv734ehww.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8%E5%8F%88%E5%A4%9A%E4%B8%89%E4%B8%AA%E9%AB%98%E7%AE%A1%E8%A2%AB%E6%9F%A5-%E5%8C%85%E6%8B%AC%E6%80%BB%E7%BB%8F%E7%90%86%E7%A8%8B%E5%8D%9A/" target="cdt-mirror">法广｜中信证券又多三个高管被查 包括总经理程博明</a>
+</h2>
+<p><p>中信证券15日晚向香港证交所发表声明，公司三名高层目前因涉及内幕交易而被警察带走调查。新华社报导，该三人分别是中信证券股份有限公司总经理程博明、运营管理部负责人于新力、信息技术中心副经理汪锦岭。</p>
+<p>中信证券是大陆最大的证券商之一，华尔街日报更形容是“中共血统最纯”的证券商，深得政府信赖。但大陆股市过去几个月的高幅动荡，中信却屡次传出有多个高管涉嫌内幕交易而被查。</p>
+<p>据悉，大陆当局从今年6月股市开始出现波动以来，即对大陆的金融机构和企业就违规及恶意买卖而展开调查。</p>
+<p>除了程博明和于新力和汪锦岭之外，中信证券执行委员会委员、董事总经理徐刚以及其余多个高管亦在上个月遭到当局调查，他们包括中信证券执行委员会委员葛小波和刘威，中信证券权益投资部行政负责人许骏、证券金融业务线行政负责人房庆利、中信证券金融业务线的姚杰、中信另类投资部的汪定国以及董事会办公室副主任梁钧。</p>
+<p>新华社8月30日的报导指他们部分人“承认犯罪事实”。</p>
+<p>自6月中旬之后上海综合指数在数个星期内下跌25%，之后指数又出现持续滑坡，中央政府即对股市的融资活动、“恶意沽空”以及证券商与客户之间的非法借贷平台展开调查。</p>
+<p>有不少分析指出，由于中信证券深得政府的信赖，在这次“国家队”救市的任务中，负起异常吃重的角色，现在却被怀疑利用内幕消息而牟取暴利。</p>
+<p>中信证券在上海的A股股价，从4月最高峰时到现在，已经下跌了60%，从上月底到现在，也跌了14.75%。</p>
+<p>另据南华早报报导，中国证监会最近处罚了三个证券交易平台，罚款总共达到4.53亿元（人民币，下同），当中包括股东有阿里巴巴创办人马云的恒生电子中标证通公司，公司被指向客户提供高额的融资。</p>
+<p>证监会同时又处罚多家证券商或充公部分财产，他们包括华泰证券、广发证券、方正证券以及浙商期货，这些公司被指“对客户的身份查证工作不足”。</p>
+<p>美国投行高盛估计，中央政府为了救市，在过去三个月内花了1.5万亿元，但据大陆证券商消息指出，光从账面计算，损失已达10至15%。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8%E5%8F%88%E5%A4%9A%E4%B8%89%E4%B8%AA%E9%AB%98%E7%AE%A1%E8%A2%AB%E6%9F%A5-%E5%8C%85%E6%8B%AC%E6%80%BB%E7%BB%8F%E7%90%86%E7%A8%8B%E5%8D%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8/?category=18271" rel="tag">中信证券</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%8D%9A%E6%98%8E/?category=18271" rel="tag">程博明</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E6%8A%A5%E5%85%A8%E9%BB%91%E5%B9%BF%E5%91%8A%E4%B8%80%E9%BB%91%E6%83%8A%E4%BA%BA%E6%BF%80%E5%8F%91%E7%BD%91%E5%8F%8B%E6%B0%91%E4%B8%BB/" target="cdt-mirror">美国之音｜南都报全黑广告一黑惊人激发网友民主联想</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6E1886C6-421F-47BD-B7ED-362F7D6D6C04_w640_r1_s_cx0_cy8_cw0.jpg" alt="6E1886C6-421F-47BD-B7ED-362F7D6D6C04_w640_r1_s_cx0_cy8_cw0" width="549" height="309"></p>
@@ -156,7 +179,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">发展模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">国有银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD/?category=18271" rel="tag">垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">经济政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B7%E6%AC%BE/?category=18271" rel="tag">贷款</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%9B%BD%E6%9C%89/" target="cdt-mirror">【异闻观止】新华网 | 理直气壮做强做优做大国有企业</a>
 </h2>
@@ -769,50 +792,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF-%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E7%9A%84346%E5%A4%A9%E7%89%A2%E7%8B%B1%E7%94%9F%E6%B4%BB/" target="cdt-mirror">法广 | 记者刘虎的346天牢狱生活</a>
-</h2>
-<p><p><strong>昨天（9月10日），记者刘虎从北京市东城区检察院一名检察官手里拿到了《不起诉决定书》。根据刘虎的转述，宣读完不起诉决定书后，检察官个人表示，希望刘虎还能在本职工作中对社会做出贡献。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%98%E8%99%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%98%E8%99%8E.jpg" alt="刘虎" width="550" height="388"></a></p>
-<p>作为重度网络使用者的他，很快将它拍照贴到微博和微信朋友圈里，他也很快收获了来自四面八方的祝贺。</p>
-<p>这距离刘虎在2013年8月23日，被从重庆家中带走带往北京关押已经有两年；从第二天8月24日凌晨被刑事拘留，到2014年8月3日，以取保候审身份暂时走出牢狱大门，刘虎被警方关押了346天。</p>
-<p>虽然有同行“真金不怕火炼”的赞扬，但只因为发帖就被投入牢狱失去自由一年，仍令人深感心有余悸。</p>
-<p>刘虎对记者回忆，“2013年8月23日中午11点多，当时有人敲我家门，说楼上有漏水，要检查一下。我开了门，他们来了14、15人，进来后，就把我控制了，出示了强制传唤的文件。我当时是戴着手铐走的，直接到了重庆市北部新区相关部门的审讯室。”</p>
-<p>“到了公安局后，他们开始审讯我，主要是关于我对官员的举报，提到了马正其、宋林、杜航伟、崔亚东等。问我为什么发微博，我的信息从哪来的。我就如实讲了，他们让我认罪认错。不然就要带我回去（北京）。”</p>
-<p>刘虎自认无罪可认，审讯一直持续到凌晨。</p>
-<p>8月24日凌晨1点，北京来的警员宣布，对刘虎的强制传唤转为了刑事拘留，更换预审警官后，审讯一直持续到凌晨。</p>
-<p>刘虎疲惫不已，但警员用矿泉水瓶把他捅醒，继续审讯。刘虎被带走时，穿着短袖的家居服，警员把空调调成最低的21度，他在审讯室勉强睡了一个小时就被冻醒，警察继续审问。</p>
-<p>第二天，刘虎被以火车押解前往北京，警方包租了一间软卧车厢。办案警员准备了笔记本电脑和便携式打印机，一路上多次讯问刘虎。</p>
-<p>后面来看，北京警方目的应该是在会见律师前突破，获得刘虎的认罪口供，但并不顺利。</p>
-<p>抵达北京后，刘虎送往北京市第一看守所，这是一家市属看守所，主要用于羁押重犯。<br>
-刘虎所在的监室是警方提前选定的一看的“文明号”，这一监室有两名警方安排的犯人，他们虽然已经进入法院判决阶段，但没有按惯例更换监室，被监所要求协助对刘虎的管制。</p>
-<p>监室很拥挤，少的时候也有十二三个人，多的时候有十八人，所有人睡一个大通铺，人多的时候，有人就得睡地上。</p>
-<p>刘虎回忆，虽然同监室的许多都是犯有命案的重犯，但他们对刘虎颇为尊重———两位“牢头”可以睡最好的位置———靠近门口的一二号位，刘虎可以睡三号位，他倒是从来没有睡过地上，也没有挨打。</p>
-<p>为了给刘虎施加压力，也阻断他的信息来源，刘虎在一看羁押几个月内，他所在监室里停止了每天组织收看央视《新闻联播》的惯例，原本每个监仓都有的《北京日报》也不见踪影。</p>
-<p>这同监室的嫌犯们叫苦不迭，纷纷表示希望他赶紧离开。</p>
-<p>刘虎入监所之后，外界展开了声势不小的声援运动，许多热心人来到北京一看，给他的账号存钱，让他可以在里面买点零食加餐。根据监所常规，他每次都会收到通知。<br>
-知道有他不认识的人存钱，令他斗志更加坚定，但监所方面觉得压力不小，后来临时改变规则，不允许非直系亲属之外的人给他存钱，甚至连刘虎的律师周泽给他存钱也不被许可。</p>
-<p>北京一看伙食很糟糕，一天标准只有八元，因此，几乎每天都是没有油水的素菜和大米或者馒头。</p>
-<p>北京一看里也有穆斯林，但监所懒得专门开清真伙食，于是所有人饮食被迫清真化，伙食中不提供猪肉，将近十天才会有一些土豆烧牛肉一类的荤菜。</p>
-<p>刘虎被关押346多天后出狱，他的体重从145减到了115，足足减了30斤。</p>
-<p>刘虎一年牢狱生活的最主要经历就是漫长的审问。</p>
-<p>刘虎进入一看后，被警方密集提审，次数高达七十多次，最长的时间长达十一个小时，许多突审被安排在夜间，他多次提出抗议后，审讯才被安排到白天。</p>
-<p>北京警方从他重庆家中取走了他从业十几年积累下来的采访本，组成了据说有上百人的专案组，分赴各地，找到他历年来采访过的当事人，主要问是否给过刘虎金钱等，希望以此作为突破口，将其入罪。</p>
-<p>警方提供给检察院的起诉监狱书称，刘虎涉嫌“诽谤罪”、“敲诈勒索罪”和“寻衅滋事罪”三项罪名。</p>
-<p>刘虎回忆，办案警员“为了跟我聊，专门去补习了记者的知识，了解新闻业的情况，还跟我讲魏巍、穆青这类人，希望我学习他们。”<br>
-警员让刘虎，“做一些对人民有意义的事情，但不应该以这种方式来发布这些信息。”</p>
-<p>刘虎回忆，警方讯问者极力对他许诺，认罪即可缓刑、轻判，甚至不起诉，但他都没有松口认罪。</p>
-<p>每次讯问时，甚至包括警方闯入他家时，都有摄像机全程录像。现在来看，如果他一旦认罪，这些视频将很快被剪辑成新闻片段，在央视播出。</p>
-<p>当然，警方告诉他的说法是，只要他认罪，这些视频将交给“领导”审阅，他很快就可以“从轻发落”。</p>
-<p>刘虎回忆说，当警察警告他，如果他不肯认罪，将会被重判数年，他出狱之后也将一无所有，他的家人也会“离他而去。</p>
-<p>刘虎告诉记者，这是“我觉得最软弱无助的时候。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF-%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E7%9A%84346%E5%A4%A9%E7%89%A2%E7%8B%B1%E7%94%9F%E6%B4%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC/?category=18271" rel="tag">关押</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99/?category=18271" rel="tag">刑事拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E/?category=18271" rel="tag">刘虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BD%E8%B0%A4%E7%BD%AA/?category=18271" rel="tag">诽谤罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -824,7 +803,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ke8rz51.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://8moskvu7d0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +813,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC
                 <td></td>
                 
         
-        <td><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/></td>    </tr>
 </table>

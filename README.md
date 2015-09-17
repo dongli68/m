@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ke8rz51.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://8moskvu7d0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,25 @@
                 <td></td>
                 
         
-        <td><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E8%B7%91/" target="cdt-mirror">李小乖：跑</a>
+</h2>
+<p><p><strong>微信公号：李小乖（blogtdorg）</strong></p>
+<blockquote><p>相关阅读：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/">李嘉诚</a>专题</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B7%91_%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B7%91_%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg" alt="跑_李小乖" width="550" height=""></a></p>
+<p><em>这里是 李小乖 的微信公共号<br>
+李小乖 網絡漫畫工作者,漫畫博客【blog圖黨】™ 的永遠唯一作者，網易新聞『老衲局長小李』系列漫畫的作者。</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/06/%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/06/%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg" alt="李小乖" width="250" height="250"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E8%B7%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E4%B9%96/?category=18271" rel="tag">李小乖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 20分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8%E5%8F%88%E5%A4%9A%E4%B8%89%E4%B8%AA%E9%AB%98%E7%AE%A1%E8%A2%AB%E6%9F%A5-%E5%8C%85%E6%8B%AC%E6%80%BB%E7%BB%8F%E7%90%86%E7%A8%8B%E5%8D%9A/" target="cdt-mirror">法广｜中信证券又多三个高管被查 包括总经理程博明</a>
 </h2>
 <p><p>中信证券15日晚向香港证交所发表声明，公司三名高层目前因涉及内幕交易而被警察带走调查。新华社报导，该三人分别是中信证券股份有限公司总经理程博明、运营管理部负责人于新力、信息技术中心副经理汪锦岭。</p>
@@ -108,7 +124,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/" target="cdt-mirror">纽约时报 | 习近平访美前维权人士郭玉闪获释</a>
 </h2>
@@ -768,30 +784,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%8C%AA%E7%A7%BB-2/" target="cdt-mirror">温克坚：解读李嘉诚资产大挪移</a>
-</h2>
-<p><p>在香港政经敏感时刻，李嘉诚频繁的资产挪移自然引起各种猜测，有论者认为李嘉诚正在“卖空中国”“脱亚入欧”，因为李嘉诚看到香港政治气氛的变化，也看到了大陆政治和政策的不确定性，因此把资产转移到更安全区域，为最终的财富交棒做准备。也有论者认为这只是李嘉诚展示其全球配置资源的商业才能。大陆和香港资产泡沫化程度严重，而相比较来说，欧洲资产价格处于低位，通过高卖低买，李嘉诚正在实现其财富帝国的再一次跃升。</p>
-<p>这两种解释各有其道理，但真正准确的动因，恐怕只有李嘉诚身边核心圈子才能知晓，外人只是猜测和附会。不过种种猜测本身反映了流行的社会认知，因此有其独立存在的价值。</p>
-<p>笔者留意过李嘉诚的言行轨迹（但谈不上有任何研究），一个比较中庸的猜测是，李嘉诚让人眼花缭乱的商业运作，不会只遵循一个逻辑。作为一个商业帝国的掌舵者，看到有商业机会，就像猎人见猎心喜一样，他自然是要下手的，因此商业逻辑自然是重要的驱动力。但以李氏掌握的庞大商业帝国，他在华人政治圈举足轻重的地位（他多次被政经类杂志评为亚洲最有影响力的人物），政治逻辑肯定也是李的重要考量。李嘉诚不可能像某些小商人那样逃避政治，也不可能像某些小商人那样把赌注压在某个政治人物身上，他多层次跨区域的商业利益需要他分析社会和国家风险，观望政治气候，评估政治走势，在不同的政治罗盘中安全下注，做好风险对冲机制，引导政治规则为商业服务，确保他的商业帝国不会撞上政治冰山。正是这种非同一般的商业才能和政治智慧的结合，才使得李嘉诚逢凶化吉，笑傲江湖，成就华人商界传奇。</p>
-<p>李嘉诚的商业和政治运作才能已经不需要赘述，但如果把李嘉诚的成功仅仅归因于他的个人能力，显然也是片面的，香港公平稳定的法治体系、高效廉洁的行政系统、高度自由的经济体、独特的区位优势都是成就李超人的基础。这些因素是李嘉诚商业帝国的底盘，是香港经济繁荣的制度基础。这种制度基础孕育了一个以李嘉诚为代表的富豪阶层，同李嘉诚家族相类似，位列2013 年香港富豪榜单前十位香港富豪群体，包括李兆基、郭炳江、郭炳联家族、郑裕彤家族、吴光正家族、刘銮雄、冯国经冯国纶兄弟都保持着财富长期而稳定的增长，总体来说，这些富豪群体保持着适度、积极的公共形象。</p>
-<p>基于这种制度背景，李嘉诚的资产转移过程自然具有可供人们猜测的多种特征。李嘉诚可以利用香港国际化的资本市场，发达的中介服务，自由而及时的媒体资讯，从容地展现他的财技，高效率的组合拆分资产，在大陆、香港和欧洲之间来回腾挪旗下资产。这些操作不必经过任何行政许可，不必受制于任何官僚机构的脸色。即使李嘉诚真正的动机是不满香港政制前景，因而用脚投票脱亚入欧，这个过程也可以优雅从容，游刃有余，表面看起来就像一个完全正常的商业行为。</p>
-<p>作为对比，李嘉诚的大陆同行们的境遇显然不可同日而语。</p>
-<p>大陆30多年的经济发展同样造就了很多超级富豪，各种版本的财富榜单颇为夺人眼球。不过社会大众形成的刻板印象是，这个财富积聚过程充满了各种灰色交易，富豪们不得不承受“原罪”的道德压力。而另一方面，在和权力的勾兑和碰撞过程中，富豪们的财富和人身自由往往处在危险当中，当他们不得不通过用脚投票来规避风险的时候，也往往是一个慌不择路狼狈不堪的过程。</p>
-<p>今日公众已经不甚知晓的牟其中，是第一个获得首富桂冠的企业家，他的视野，格局和想象力，貌似不在任何人之下，了解牟其中的很多论者都会感慨，如果经济环境更加规范和友好一些，以牟其中的才华，未必就不能成为大陆版的李嘉诚。但牟其中最终命运是锒铛入狱，至今还在武汉某监狱服刑，江湖上留下的只有他的零星传说。</p>
-<p>像牟其中这样，经历辉煌而又快速湮灭的富豪名单随便就可以列出一长串，杨斌、仰融、唐万新、黄光裕、周正毅、张荣坤、徐明等等就是其中最具知名度的，这些富豪坠落的轨迹，是畸形而凶险的市场环境最好的注解。这其中，仰融的故事尤其有几分悲情色彩，他曾经位列福布斯富豪榜第三名，是当年汽车界响当当的人物，不过很快陷入和辽宁政府的产权冲突中，面对地方政府的强势，各种公关和司法救济最终都归于失败，仰融最终选择用脚投票，出走美国。如今身陷囹圄的薄熙来就曾经是仰融的主要对手之一。</p>
-<p>李嘉诚的行为对大陆富豪无疑有重要的风向标作用，王石先生就曾经通过微博警示大陆同行注意这种信号，但很多企业家在理解李嘉诚的行为时，往往会犯情境混淆的错误，忘记了大陆和香港其实处在两个完全不同的情境。</p>
-<p>宗馥莉是大陆前首富宗庆后的女儿和娃哈哈集团的接班人，大概厌烦于和政府机构的交道，宗馥莉在某个场合回应记者时，本能的反应是，“李嘉诚都已经搬出去了，为什么我以后不可能搬出去呢？”</p>
-<p>宗小姐的直率和自信让人欣赏。仅从财富数字比较，宗氏家族的财富已经和李嘉诚相差不远，但宗小姐显然没有充分意识到两个商业环境的巨大差异。事实上，像娃哈哈这样的优质企业，当年想要上市都不得其门。真要把庞大的娃哈哈集团搬出中国，谈何容易？如果娃哈哈准备撤离中国，那么父爱主义面孔的政府快速变脸将是可以预见的，现有的各种税收优惠政策照应很快能变成不可逾越的鸿沟。宗氏父女即使通过出售股权来套现，也会面临很多不确定性。当年可口可乐收购汇源果汁，就因为商务部的干预，节外生枝而功败垂成。江苏徐工集团出售过程也表明民族情绪和竞争对手随时能构建各种暗礁。</p>
-<p>因此，对那些选择移民的普通中产阶级，“用脚投票”也许还只是程序繁琐的问题，而对超级富豪们来说，“用脚投票”过程如同穿越地雷阵，民族情绪和各种政治拷问会如影随影折磨着资产转移的过程。写到这里，想起柳传志“在商言商”的告诫引发的商人和政治关系的各种讨论，如果对照现实情景，这种告诫要么是别有用心，要么是自欺欺人。在目前局促的政治空间中，“在商言商”这种奢侈物件，是大陆富豪们消费不起的。在这个意义上，李嘉诚比他的大陆同行们多了一张不可替代的大牌，这张牌让他可以把商业逻辑和政治考虑完美地桥接起来。</p>
-<p>不过历史因缘际会，香港政制正在往前走，而大陆的体制性张力也在积累中，未来香港和大陆的命运会更多地交织在一起，李嘉诚和大陆富豪们都得面对越来越趋同的情境，商业逻辑和政治逻辑各自如何展开，彼此如何相互塑造，将是更为精彩的故事。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%8C%AA%E7%A7%BB-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1/?category=18271" rel="tag">刻板印象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E7%95%8C/?category=18271" rel="tag">商界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%AF%8C%E8%B1%AA/?category=18271" rel="tag">大陆富豪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">香港经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -803,7 +795,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2yvx9x70dour.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://8moskvu7d0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -813,5 +805,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/></td>    </tr>
 </table>

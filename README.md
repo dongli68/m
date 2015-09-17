@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://8moskvu7d0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ke8rz51.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%B1%E8%AF%86%E7%BD%91-%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%EF%BC%9F/" target="cdt-mirror">共识网 | 中国最严厉的电影审查出现在什么时候？</a>
+</h2>
+<p><p><strong>民国时期的电检制度以三年为期，超过之后还要重检。对外国影片主要分苏俄和西方两大类，苏俄主要防止政治煽动，西方主要针对「肉感」的蛊惑。对电影附带广告也有审查，一经审定，不得变动，在这一点上似乎比今天更严格一点。</strong></p>
+<p>中国自有电影以来，它就没有摆脱过审查的控制。第一部关于电影的法规《取缔影戏条例》是清朝时候颁布的，规定了男女观众不得同席。</p>
+<p>曾遇到有人问，中国历史上最严苛的电影审查出现在什么时候?我认为是文革时期，尤其是前期。当时的电影创作受到最高层统治者的直接指示和干预，可以拍摄的内容非常有限，如果创作者「犯错」，受到的处罚也极为严厉，不仅没有创作自由，连人身安全也无法保障。所以文革最严，当无怀疑。</p>
+<p>八十年代后，电影审查的缰绳稍有松弛，于是又有人把当代的审查尺度和民国时期的审查相比较，发现了许多共同之处。</p>
+<p>这篇文章就来介绍一下民国时期的电影审查制度，最后和当下略作比较。</p>
+<p><img src="http://www.21ccom.net/uploads/allimg/150917/128795_150917091121_1.jpg" alt=""></p>
+<p><strong>田壮壮的《蓝风筝》</strong></p>
+<p>电影在民国时代是初生不久的新事物，所以对电影该不该审查，要如何审查，没有清晰、完整的概念，一开始是摸索着来的，政策也反复变化，这种情况在欧美都差不多。</p>
+<p>按照今天世界上的主流认识，电影审查是不应该有的，分级是一种可以接受的替代调控方式。但在一百年前，大部分民众并不这么认为，电影被认为要承载道德和教化的任务，所以政府进行内容审查有坚实的民意基础。如果有「伤风败俗」的电影上映，民众或宗教团体会向政府投诉，这种现象当时在全世界都一样。</p>
+<p>最早时候的电影审查，在没有形成严格的体系之前，有一定滞后性，是事后追究式的审查，比如媒体和民间对某部影片有负面反应，政府再出面来禁片，这和今天多轮严格的预先审查不同。</p>
+<p>在大一统的中央政府建立前，民国电影审查最初是按地方进行，比如江苏、浙江都有自己的审查委员会。有的委员会执行力度较松，只有建议权，并无执法权，有的委员会力度很大，若不依令删减，恐怕就无法上映了。另外除了查禁坏的影片，有的地方电检机构还有表彰好影片的职能(主要从教育角度衡量，艺术为辅)。</p>
+<p><img src="http://www.21ccom.net/uploads/allimg/150917/128795_150917091155_1.jpg" alt=""></p>
+<p><strong>张艺谋的《活着》</strong></p>
+<p>二十年代末，统一的中央政府权威开始树立，国民党通过了《电影检查法》，这时候的电检开始变得系统和严格。之前盛行的武侠神怪片，和稍后的左翼电影，都是审查的重点。同时对进口影片也实行审查，主要检查内容是看有否伤及风化和辱华。</p>
+<p>当时的中国对好莱坞来说，也算一块较为重要的市场，好莱坞明显感受到了中国电检的压力，于是迅速调整应对，电影中负面表现华人的元素少了，当然这也和后来二战时期两国关系友好有一定关系。</p>
+<p>国内电影方面，三十年代中期是电检制度最为严格的时期，政治题材电影陷入低谷，左翼电影被严厉打击。</p>
+<p>抗战后，大一统的电影审查制度被打断，又兴各地割据之局。抗战胜利后内战时期，国统区又重新建立起统一的电检制度，所有反映时局的影片都无法上映。</p>
+<p><img src="http://www.21ccom.net/uploads/allimg/150917/128795_150917091221_1.jpg" alt=""></p>
+<p><strong>姜文的《鬼子来了》</strong></p>
+<p>和今天的电影检查制度比较的话，我认为，民国时期的电影检查执行力度有所不及。</p>
+<p>第一，民国政府的管制能力和信息技术发展程度不及今日。</p>
+<p>第二，对意识形态重要性的认识与控制欲不及今日。</p>
+<p>第三，昔日时局不稳，制度不易贯彻执行。</p>
+<p><img src="http://www.21ccom.net/uploads/allimg/150917/128795_150917091250_1.jpg" alt=""></p>
+<p><strong>王小帅的《十七岁的单车》</strong></p>
+<p>另外，民国时期的电检制度以三年为期，超过之后还要重检。对外国影片主要分苏俄和西方两大类，苏俄主要防止政治煽动，西方主要针对「肉感」的蛊惑。对电影附带广告也有审查，一经审定，不得变动，在这一点上似乎比今天更严格一点。</p>
+<p>民国时期上海民营电影经济远比今天发达，偷拍、抢拍、打擦边球的现象普遍，这在今天难以实现。</p>
+<p>但两个时代也有颇多共通之处，在审查内容方面，同样以政治、性和暴力为主要筛检对象，当然年代不同，对道德风化的理解肯定也有很大区别，当今银幕上的性感尺度无疑宽松了。审查程序也基本相同，有针对剧本的审查，也有针对成片的审查。最根本的，无论国民政府时期还是当前，电影审查都属于执政党的政治和意识形态体制的一部分。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%B1%E8%AF%86%E7%BD%91-%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">审查控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">电影审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">电影审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E7%89%87/?category=18271" rel="tag">禁片</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%BC%80%E5%A7%8B%E8%A6%81%E5%AF%B9%E8%8A%9D%E5%A3%AB%E5%88%86%E5%AD%90%E5%8A%A8%E6%89%8B%E4%BA%86/" target="cdt-mirror">【网络民议】又开始要对芝士分子动手了</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/06/mmexport1435465481880.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/06/mmexport1435465481880.jpg" alt="顶_邝飚" width="450" height="593"></a><br><em>（“顶” by 邝飚）</em></p>
@@ -80,7 +120,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%8D%8F/?category=18271" rel="tag">中国律协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E7%A3%95%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">死磕律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86%EF%BC%8C%E6%88%91%E4%BB%AC%E8%BF%98%E5%BE%97%E6%85%A2%E6%85%A2%E7%86%AC/" target="cdt-mirror">羽戈：李嘉诚跑了，我们还得慢慢熬</a>
 </h2>
@@ -745,44 +785,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%A7%8B%E8%9A%82%E8%9A%B1%EF%BC%9A%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%A4%96%E4%B8%80%E7%AF%87%EF%BC%89/" target="cdt-mirror">秋蚂蚱：车上的故事（外一篇）</a>
-</h2>
-<p><p>公交车上，一名游客因为高原反应跌坐在后门台阶上，嘴唇乌紫，豆大的汗珠顺着脸颊滚落。近傍座位上两个穿着拉萨某中校服的女孩用藏语对话。”给她让个座吧？””别，她是汉狗。不知为什么，我一看到汉狗流汗流血我就有说不出的快感。”</p>
-<p>朋友叙说道：”接着他们俩那女版周星驰的怪笑让我毛骨悚然。”</p>
-<p>大巴上由于坐一位户籍是昌都的藏人而在检查站不予放行。理由是没有户籍地证明不能进拉萨。老太太哭诉道：我不是尼姑更不是捣乱分子，我是一个老党员了。我退休后在拉萨置业，和昌都早就没有联系了，找谁开证明啊？</p>
-<p>那个显然刚刚从警校毕业的小警察一副公事公办的模样：”对不起，这是上边的政策，我也帮不了你。”四十分钟后来了一个老藏警，和老太太用藏语交谈几分钟后，通融。</p>
-<p>开车后老人还在逢人叫屈，这时，车上有一人冷冷说道：谁让你们自焚？</p>
-<p>众人缄默。</p>
-<p>有一种长途车座位与座位逼仄异常。他和一个同座的四川姑娘闲聊。突然，背后的椅子靠背”咚咚咚”被重捶三下。他回头，一个年轻男子怒目。”你干什么？”他问。”你的椅背挤着我了！””首先，这不是我的椅背。我和你一样，是花钱坐车的；其次，这车的设计是出了名的挤，我和你一样恼火。你要投诉，也应该跟客运公司而不是冲着我。”他用几乎没有地方口音的普通话温和但坚定地和对方理论。”阿掰弱！”（意即诅咒父母死亡）对方冒出这句藏语。</p>
-<p>他冲对方笑笑，没有任何表示，坐下。</p>
-<p>这个年轻男子和他的女朋友继续再用藏语对话，其间不断恶语。其女友在用藏话不断劝他：”哟学。”（意即”算了”）他非但不听，反而更起劲。</p>
-<p>车到拉萨柳梧检查站查验完毕后，司机刚要发动，他用藏话对司机说：请等一下。接着，他回身对那个小伙子也用藏话说：”你下车！我们把刚才那事解决了。”流利的拉萨口音的藏话显然把那小子一下子懵住了，小子有些结巴地说：”什么事啊？”他厉声喝道：”下车！”</p>
-<p>三人下了车后，他先跟司机打个招呼，让车子先走。转身，他把眼镜下掉，对小伙子用汉话说：”你把刚才用藏话诅咒的话再用汉话对我说一遍。”小伙子用心打量着站在他面前的脱掉眼镜的四十来岁的中年人：眼里闪着凶狠的光死死地盯住他，眉骨上有一道深深地刀疤，一只手插在腰后皮带的位置，仿佛腰后有什么东西，另一只手攥紧拳头，中指上一个大大的带有金属凸起的戒指有些古怪——看起来更像是一种武器的寒光逼人而非饰品富贵逼人。小伙子继续用有些结巴的藏话说：”对不起，我不知道你是藏人。自己人。””谁他妈和你是自己人？你是汉族，是吧？””是。””你以为我是汉族，是吧？””是。””你以为你冒充藏族就可以对自己同胞犯浑而汉族就怕你，是吧？”他嗓门里饱含着愤怒。”大哥，我错了。其实那个椅背上有一个像钉子一样的东西刺着我的膝盖，我一直很难受。””少废话。你是在拉萨长大的吧？你们通常都会用冒充藏人来对付汉人，而这一套屡屡见效，于是你们就越来越肆无忌惮。你们钻维稳和所谓民族政策的空子来宣泄自己的淫威，你们他妈的不觉得无耻吗？”这时，在一旁的女子用藏话对他说：”大叔，实在对不起，算了吧？””你是藏族，我给你看我的身份证。”他掏出身份证，用手指拦住姓名一栏。身份证的民族一栏写着”藏族”。”知道我为什么要不依不饶吗？他作为一个汉族，没有胆量像个男人一样明刀明枪地发泄愤怒，却用另一个民族的语言去辱骂他的同宗。他这样做首先是辱没了他的祖宗，这样的人不但懦弱而且很下作。如果我用汉话去对付一个藏族，而我又是藏族，你回去问问你的父母，这种行为会被我们这个民族认可吗？””大叔，他这样做是很过分，我在车上就已经说过他了。我向你再次道歉。作为我们俩是同胞，原谅他吧。他也知道自己错了。””他的藏话非常蹩脚，是才学的吧？””是的，跟我在一起才学的。””教教他怎么做人，别光是教他骂人。””骂人的话真不是我教的。”</p>
-<p>在和姑娘对话中，他们之间的语速都非常快，小伙子显然只能听个大概。在再次得到小伙子的致歉后，他招收拦下一辆出租车。</p>
-<p>他也是汉族，一个生在西藏长在西藏工作在西藏的纯粹的汉族。这是一个我在西藏见过的少有的没有藏汉民族偏见、头脑异常清醒的汉族。至于他的身份证为什么会是藏族，那是另一个故事。有空下回细说。</p>
-<p><b>乞讨</b><b></b></p>
-<p>“萨嘎达瓦”期间，林廓转经道上满是乞丐。其间不乏很多汉族混迹其中。这些人中甚至有不少是有正式职业的。因为这期间要钱极易，在藏历四月十五这天尤其如此。有个我认识的人，在这天就讨要近七百元。我问你为什么要这么做，他的回答很道貌也很无耻：体验生活。无耻在于他把索要钱款私藏而不是捐寺庙。</p>
-<p>有个汉族女子，每天推着的儿童车经过我弟弟店面的门前。她的儿童车车把挂着两个大大的塑料袋，有时满满当当有时瘪瘪囔囔装有饮料瓶等可以变现的废弃物。车里的男孩大约只有二岁左右，白白净净很好看，一点都不像他的母亲–愁容和疲态像个不讲理的不干胶一样硬是贴在有些肥胖但仔细看还是很年轻的脸上。我今天把我弟弟店里装潢剩下的钢筋送到她车前。她连声说谢谢。我对她说，以后路过孩子饿的话，说一声。</p>
-<p>我真的不是行善，我是在心里祈求–祈求我们能给孩子一个温暖的世界。这样，我未来的孙子孙女也会因此而感到希望和暖意。</p>
-<p>我是在给自己行善。</p>
-<p>还有一个藏族母亲，也是每天都带着两个孩子在这条商业街挨家挨户乞讨。七岁左右的女孩进店门就像进自己家的厨房，见着顾客就下跪，客人欲脱身她就用有些肮脏的双臂去抱客人大腿。</p>
-<p>就在前两天，一个模样看起来像生意人和一个风姿绰约的女人一同在对面茶楼门口等人，母亲先上前，那个人掏出十元钱。两分钟后，母亲和在我们这边乞讨的小女孩嘀咕了几句，小女孩从我们这边快步向那商人奔去，二话不说就抱住那女人的腿。那商人显然被这种行为激怒了。他用四川话对着十米远处的母亲喊道：”我不是给过你钱了吗？你们一家子不能这么样子干。”母亲快步离去，孩子依旧不撒手。最后以商人的再次出手十元了结。</p>
-<p>今天小女孩又大步流星地走进来。我忍无可忍，将孩子拎了出去。女孩到门口嘟着嘴筹集了唾液冲我重重地”呸”了一声，扬长而去。</p>
-<p>我不是行恶，我是行善：孩子，人活着不能还没有一条野狗的德行好。</p>
-<p>拉萨以多野狗出名。我每天七点都会在固定地点看到一个蔚为壮观的场景：一条狗母亲的身边，有六条毛色两种的四月左右大的狗孩儿们姿态各异。母亲安详，狗孩儿满眼好奇。偶尔高大狗父路过，三两孩儿有些小激动地上前认亲，高傲狗父加急四蹄，像个将军路过家门而不入。母亲看在眼里，安详依旧。联想到人类，狗不讲道德，所以狗爸爸不会被绑架，狗妈妈不会做怨妇。在一个道德如霾的语境里，一定是因为社会无德，所谓缺什么嚷什么，嚷什么不来什么。</p>
-<p>很奇怪为什么这家子总是固定准时在这片场地。这是一条售卖和出租大型建筑机械以及发电机组的街。再打听才得知，狗母亲在今年冬天的某个时辰躲在淡季停放已久的一台大型挖掘机下生下了六个孩子。被在这里行商的人发现后，纷纷自发地提供肉食和牛奶。六个孩子在狗母亲的全意照料和众人的悲悯之心下，个个长得憨态喜人。</p>
-<p>每夜，全家狗都会在这里巡游。”他们真有灵性，从来不进店堂里。有一次，一个小家伙好奇，想进我店里看一看，我还没有任何表示，狗母亲就冲了上来，一口咬住小家伙的颈项，把它叼了回原地。放下后，母亲还呲着牙咧着嘴，向这个不懂规矩的冒失鬼低吼。吓得小家伙一下就翻身肚皮朝上了。”–一个女店主如是说。</p>
-<p>“我们现在根本不担心有人敢对我们放在露天的设备动手脚。”另一个店主有些得意地说道：”早晨我们开门，他们总是在这里。我们家家几乎都有一个习惯，就是每晚餐桌上有肉。第二天早晨家家都会拿出昨晚的剩菜，要么肉汤泡饭，要么是有意不啃干净的骨头。它们吃完后就走，晚上再来。”</p>
-<p>“这么可爱的狗狗，你们为什么不领养一条？”我问。</p>
-<p>“没有拆散人家一家人的道理嘛。”一个陕西口音的商人回答道。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%A7%8B%E8%9A%82%E8%9A%B1%EF%BC%9A%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%A4%96%E4%B8%80%E7%AF%87%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9E%E8%AE%A8/?category=18271" rel="tag">乞讨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E6%97%8F/?category=18271" rel="tag">汉族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E6%97%8F/?category=18271" rel="tag">藏族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -794,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9E%E8%AE%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2yvx9x70dour.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tp4ul7r4lg12.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -804,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9E%E8%AE%A8
                 <td></td>
                 
         
-        <td><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/></td>    </tr>
 </table>

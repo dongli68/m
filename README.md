@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24b1vv734ehww.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ke8rz51.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%B1%E8%AF%86%E7%BD%91-%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%EF%BC%9F/" target="cdt-mirror">共识网 | 中国最严厉的电影审查出现在什么时候？</a>
@@ -796,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2yvx9x70dour.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://8moskvu7d0.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://un3tiqe.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tp4ul7r4lg12.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,88 @@
                 <td></td>
                 
         
-        <td><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%BC%80%E5%A7%8B%E8%A6%81%E5%AF%B9%E8%8A%9D%E5%A3%AB%E5%88%86%E5%AD%90%E5%8A%A8%E6%89%8B%E4%BA%86/" target="cdt-mirror">【网络民议】又开始要对芝士分子动手了</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/06/mmexport1435465481880.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/06/mmexport1435465481880.jpg" alt="顶_邝飚" width="450" height="593"></a><br><em>（“顶” by 邝飚）</em></p>
+<p>近日，庆丰管理学院暨包子文化研究中心<a href="http://news.163.com/15/0917/01/B3M71PMJ00014AED.html">宣布成立</a>，庆丰包子铺相关负责人同时表示将推出包括芝士、咖喱鸡肉等馅料在内的新包子口味：</p>
+<blockquote><p>芝士馅、咖喱鸡肉馅……这些深受年轻人喜爱的口味将出现在庆丰包子铺里。昨天，庆丰包子铺成立了庆丰管理学院暨包子文化研究中心，庆丰管理学院主要是为了培养值班经理、店长等中高级管理人才，而包子文化研究中心则是承担包子的技艺、传承和创新。庆丰包子铺相关负责人表示，目前各庆丰门店在售的基本都是猪肉大葱等传统馅料，现预备了20余种口味，包括从未在“包子家族”出现的芝士、咖喱鸡肉等馅料。</p></blockquote>
+<p>今年8月初，庆丰包子铺曾<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E8%A2%AB%E5%AE%A0%E5%B9%B8%E4%BA%86%E7%9A%84%E5%8C%85%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B/">宣布</a>将成立包子研究中心，并计划“通过借壳上市的方式登陆新三板”。</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E8%A2%AB%E5%AE%A0%E5%B9%B8%E4%BA%86%E7%9A%84%E5%8C%85%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B/">【网络民议】一个被宠幸了的包子的故事</a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@单从者：腊肉馅才是王道，上承法统，下迎傻逼。</p>
+<p>@云在天涯：【庆丰包子铺成立包子研究中心 将推芝士馅包子】昨天，庆丰包子铺成立了庆丰管理学院暨包子文化研究中心，培养值班经理、店长等中高级管理人才，承担包子技艺、传承和创新。相关负责人表 示，现预备了20余种口味，包括从未在“包子家族”出现的芝士、咖喱鸡肉等。[哈哈]又开始要对芝士分子动手了。</p>
+<p>@君封嗷的一声：芝士就是力量，法国就是培根，看来很快还会有培根馅儿的。</p>
+<p>@鸥先生-：说好的带鱼馅呢</p>
+<p><a href="http://weibo.com/kesinstudio" target="_blank">Mr-Blahblah</a>：西学为用，庆丰为体！还是那层子熟悉的老面皮！<img title="[xkl转圈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/xklzhuanquan_org.gif" alt="[xkl转圈]"><img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p><a href="http://weibo.com/1748330400" target="_blank">K1BA</a>：<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]">怎么能用芝士这种西方世界的反动食材？坚持中国特色，换成猪食，反正听起来差不多。</p>
+<p>@碳烤闲鱼:芝士不是西方邪恶势力吗？</p>
+<p>@虫子_A:超市有卖速冻的“御品庆丰”，跟狗不理摆在一起。</p>
+<p><a href="http://weibo.com/1747206730" target="_blank">铁妙tiemiao</a>：是金子，迟早会发光；是包子，早晚得露馅～··<img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"><img title="[微风]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/wind_org.gif" alt="[微风]"></p>
+<p>@史蒂夫-鑫：猪鼻子开始插葱了！</p>
+<p>@中洲遗民:呵呵，如果武大有幸登基，全国将弥漫着一股烧饼味。</p>
+<p>@杨东东_80412：与其成立包子文化研究中心，不如干脆成立庆丰包子纪念馆，涵盖包子文化研究………..</p>
+<p>@易水寒凌82：将难吃推向一个新高度，一朝得道，鸡犬飞升！</p>
+<p>@下北24: 他们忘了党校前面那块石头 总有一天这些沾上包子的唯恐弃之而不及…</p>
+<p>@搜狐小娱乐：你们都不知道吧，我今年报名了这里的研究生，就等12月的考试了。。。。。</p>
+<p>@邵明波：这家铺子的文宣确实太低档了，不会往弘扬共产主义饮食文化观上靠靠吗？</p>
+<p>@岳阳吐槽帝：坐等板蓝根口味的方便面馅</p>
+<p>@无名之无名氏：这种东西国外有个名字，叫汉堡包</p>
+<p><a href="http://weibo.com/remort" target="_blank">任大喜喜喜欢的喜</a>：等下去买袋<a href="http://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E6%8A%A5%E5%85%A8%E9%BB%91%E5%B9%BF%E5%91%8A%E4%B8%80%E9%BB%91%E6%83%8A%E4%BA%BA%E6%BF%80%E5%8F%91%E7%BD%91%E5%8F%8B%E6%B0%91%E4%B8%BB/">黑芝麻糊</a>压压惊。<img title="[色]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/20/huanglianse_org.gif" alt="[色]"></p>
+<p><a href="http://weibo.com/1747206730" target="_blank">eihh</a>：人家台湾花莲【小杜包子】早就有咖喱味芝士味的包子了<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">庆丰要是也能做出那么好吃的芝士包子我就去北京吃包子<img title="[抓狂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/62/crazya_org.gif" alt="[抓狂]"></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%BC%80%E5%A7%8B%E8%A6%81%E5%AF%B9%E8%8A%9D%E5%A3%AB%E5%88%86%E5%AD%90%E5%8A%A8%E6%89%8B%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90%E5%B8%9D/?category=18271" rel="tag">包子帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%BE%8E%E6%B9%83%EF%BD%9C%E9%99%95%E8%A5%BF%E5%BE%8B%E5%8D%8F%E6%96%B0%E8%A7%84%E8%A2%AB%E6%8C%87%E7%BA%A6%E6%9D%9F%E6%AD%BB%E7%A3%95%E6%B4%BE%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%8F%91%E5%85%AC%E5%BC%80/" target="cdt-mirror">澎湃｜陕西律协新规被指约束死磕派：不得发公开信、不得围观声援</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/11/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA%EF%BC%9A%E8%83%B6%E5%B8%A6%E5%98%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/11/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA%EF%BC%9A%E8%83%B6%E5%B8%A6%E5%98%B4.jpg" alt="秃头倔人：胶带嘴" width="425" height=""></a><br><em>（当代水墨画 “胶带嘴” by 秃头倔人）</em></p>
+<p>陕西省律师协会出台的一份关于律师办理重大、敏感案件的新规，被认为是约束“死磕派”律师。</p>
+<p>9月15日，该协会在官网发出《关于律师参与办理重大、敏感及群体性案件的指导意见》（下称《意见》，原文链 接：http://www.sxlawyer.org/newstyle/pub_newsshow.asp?id=29005248& chid=100180），规定律师在办理重大、敏感及群体性案件时，不得以发表公开信、鼓动助推舆论炒作、组织网上狙击、围观、声援等方式制造舆论压力和社会影响；未参与办理该案件的其他律师，不得组织、参与、支持任何形式的声援团或以在网上聚集、围观、声援等方式制造舆论压力和社会影响。</p>
+<p>9月16日，陕西省律协宣传部相关负责人在接受澎湃新闻采访时则表示，该《意见》只是对该省律师在办理重大、敏感案件给予业务上指导，并不是对律师执业的一种惩罚性、禁止性制度规定。</p>
+<p>陕西律协在介绍制定《意见》的背景时称，“有个别律师在参与办理重大、敏感及群体性案件过程中也存在着一些问题。如有的律师打着“维权”旗号，频繁参与、插手重大敏感案件或社会热点问题；有的律师打着维护宪法的幌子，采用抱团、串联、签名、发布公开信，利用网络、微信、微博等大肆炒作，发表歪曲、误导、煽动 性言论，向办案机关施压，干扰案件依法处理等。”</p>
+<p>《意见》规定，律师参与办理重大、敏感及群体性案件，如有2家以上律师事务所的律师共同担任同一案件当事人代理人或辩护人的，不同律师事务所的律师应当以各自律师事务所的名义与当事人形成委托关系，同时严格遵守法律关于律师代理人、辩护人人数及有关利益冲突的限制性规定，不得以律师个人之间自发组织、抱团等方式与当事人形成委托关系，不得以此类方式招揽业务或对外进行宣传、推介。</p>
+<p>《意见》还规定，律师在办理重大、敏感及群体性案件时，不得以发表公开信、鼓动助推舆论炒作、组织网上狙击、围观、声援等方式制造舆论压力和社会影响；还不得鼓动、发起、参与案件当事人或其他人员以非法串联、集会、游行、示威、聚众扰乱公共秩序等方式表达诉求，以舆论炒作、造谣生事、攻击诋毁等方式干扰案件依法办理。</p>
+<p>对于那些未参与办理重大、敏感及群体性案件的其他律师，《意见》要求：不得以干扰案件办理结果为目的，对正在审理的案件公开发表意见和评论，不得组织、参与、支持任何形式的声援团或以在网上聚集、围观、声援等方式制造舆论压力和社会影响。</p>
+<p>除了针对律师的规定，《意见》还要求：律师事务所对重大、敏感及群体性案件应于3个工作日内向所属司法行政机关和律师协会备案。</p>
+<p>据澎湃新闻梳理发现，河南、广西、山西等省市部分地区的司法机关也曾出台过律师办理重大、疑难敏感案件的备案规定。</p>
+<p>根据《意见》的释义，重大、敏感及群体性案件是指涉及国家政治、经济安全，或者容易引发社会关注、影响社会稳定的案件。主要包括危害国家安全的案件；涉及恐 怖活动、黑社会性质、邪教性质、非法集资、拆迁安置、特别重大贿赂等案件；重大涉外案件；可能引发群体性上访的案件；当事人一方或双方人数众多的群体性、集团性诉讼案件或非诉讼事件；涉及社会敏感问题，可能造成重大社会影响或严重扰乱社会秩序的案件等。</p>
+<p>据悉，该《意见》由陕西省律协六届七次常务理事会于8月24日审议通过，并印发给陕西省各市律师协会、省直律师事务所等执行。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%BE%8E%E6%B9%83%EF%BD%9C%E9%99%95%E8%A5%BF%E5%BE%8B%E5%8D%8F%E6%96%B0%E8%A7%84%E8%A2%AB%E6%8C%87%E7%BA%A6%E6%9D%9F%E6%AD%BB%E7%A3%95%E6%B4%BE%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%8F%91%E5%85%AC%E5%BC%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%8D%8F/?category=18271" rel="tag">中国律协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E7%A3%95%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">死磕律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86%EF%BC%8C%E6%88%91%E4%BB%AC%E8%BF%98%E5%BE%97%E6%85%A2%E6%85%A2%E7%86%AC/" target="cdt-mirror">羽戈：李嘉诚跑了，我们还得慢慢熬</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20120924220620990.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20120924220620990.jpg" alt="打土豪分田地" width="550" height=""></a><br><em>（网络图片）</em></p>
+<p>李嘉诚从内地撤资，早已逐步实行，并非始自今日。不想罗天昊凭《别让李嘉诚跑了》一篇檄文，致使波澜再起，枝节横生。如果说一文可抵百万兵，显然抬举了罗天昊。其文无论从观点还是文风上看，皆色厉内荏，不堪入目，然而它恰恰挠中了这个社会的痒处，击中了这个国家的痛点。于是乎，李嘉诚缘何撤资，为举国所热议；李嘉诚的跑路效应，为举国所瞩目。</p>
+<p>就我所观察的社会反应（舆情）来讲，经济问题，毋庸再议：经济下行，无（暴）利可图，这是李嘉诚撤资最直接的原因；有待分说的则是政治问题：李嘉诚撤资之风波，为什么偏偏在这个时候，被这样一篇杀气腾腾的文章所激荡开来；罗天昊此文，发布于博客的时间为2015年8月7日，迟至一个月后，才被新华社旗下的瞭望智库选中并发扬光大，为什么会延宕一月，绝非无关紧要；此外，罗天昊隶属民间智库，结合其生平来看，他写此文，只是投人所好，应无官方授意，为官媒所采用，则印证了其投机之准确，这所释放的信号，比由官媒直接生产、发布《别让李嘉诚跑了》更加耐人寻味。</p>
+<p>从八月到九月，短短一月之间，中国风云变幻，隐伏的势力逐渐抬头，模糊的气象逐渐明朗。值得注意其中两点，一是纪念世界反法西斯战争胜利七十周年的种种活动，方式与精神背道而驰，名目与效果南辕北辙，不由令一些敏感者不寒而栗，雷颐先生作于十五年前的旧文《警惕法西斯》被翻出并风靡，可为注脚；二是“共产主义”重新成为官方话语的关键词，随之，《别让李嘉诚跑了》流行于国人的视野，以至论者解读此事，便以“共产主义还没来，李嘉诚已经跑了”为题，戏谑之余，不无忧惧，一朝被蛇咬，十年怕井绳。</p>
+<p>《别让李嘉诚跑了》的文风与观点，恰与这两点相呼应。这个粗暴的标题，简直如捉贼一般。如其文所言，李嘉诚到内地投资，享受政策优惠，从事地产生意，必须与政府结盟，他的财富积累，并非完全来自市场经济，与权力的交易使其资本充满原罪，因此不能说走就走，必须赎罪，才能离开。为此，罗天昊划出了两条道，要求李嘉诚回报穷人、回报社会。这大抵便是俗称的“杀富济贫”。作者的民粹气质与义和团情结，呼之欲出。以史为鉴，可知义和团与民粹主义的结果，往往都是专政，仇外与仇富，最易为专制者所利用。</p>
+<p>我不敢断言，这三点政治因素（它们都以肆意侵犯私有财产为特色）与李嘉诚从内地撤资有什么直接关系，是否加速其跑路。我关注的只是舆情，诸如“共产主义还没来，李嘉诚已经跑了”“《别让李嘉诚跑了》是民粹主义者的借尸还魂”“‘别让李嘉诚跑了’几乎击中了中国人所有的历史痛点”所表达的情绪。换言之，相比李嘉诚跑路的原由，我更关注其跑路的效应。因为说到底，李嘉诚跑了，我们跑不了，还得在他遗弃的土地之上日拱一卒，还得在阴霾与危机之下庄敬自强。</p>
+<p>所谓效应，就我们所谈论的主题而言，可以归结为一个问题，即今日中国是否适合做生意。这并无唯一答案，因为对生意的理解不同，思路便不同。我想起多年以前，与两位来浙江投资的台湾商人聊天，谈及这个话题。这一对投资伙伴，答案完全相反。其一说，来大陆做生意最容易，只要有关系，即可一本万利；其二说，来大陆做生意最难，因为毫无规则与安全感可言。细细想来，二人说法并不矛盾，而是一体两面。我们的市场经济，一直为政治阴影所笼罩，对企业而言，政府随时可能破门而入。有人说改革开放以来的中国，属于瘸一条腿的自由主义，只有经济自由，而无政治自由，现在来看，所谓经济自由主义，都瘸了一条腿。在中国做生意，有时不是取决于市场，而是取决于权力。这样的现状，令一些商人退避三舍，一些商人趋之若鹜，后者甘愿冒险，则是为了追逐更高的利润，等赚到盘满钵满，他们便溜之大吉（如那两位台湾商人，他们大概在2012年前后离开大陆）；甚至不待丰收，眼见情势不妙，便壮士断腕，迅速撤资（如以危机感强烈著称的李嘉诚）。</p>
+<p>不管你怎么感慨，却不得不承认商人的优势，他们至少可以用脚投票。老话说，婊子无情，戏子无义，商人无德。西哲则云，有商业的地方，便有美德。结合中西，我以为商人的德行，正体现在他的脚上。从理论上讲，商业最发达的地方，往往拥有充足的自由与公正，反之，当商人纷纷跑路，则叫人怀疑，这个地方究竟还剩余多少自由与公正；叫人担心，这个地方是否还适宜正常人生存。</p>
+<p>不能用手投票，尚可用脚投票；倘连用脚投票犹不可得，才是最大的悲剧。用手投票是一种权利，用脚投票则是一种资本。所谓“贫贱不能移（民）”，大资本家李嘉诚跑了，贫贱如我等，还得慢慢熬。</p>
+<p>2015年9月16日</p>
+<p>供智合（zhihedongfang）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86%EF%BC%8C%E6%88%91%E4%BB%AC%E8%BF%98%E5%BE%97%E6%85%A2%E6%85%A2%E7%86%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%99%BA%E5%BA%93/?category=18271" rel="tag">中国智库</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E6%B0%91%E6%BD%AE/?category=18271" rel="tag">中国移民潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A4%A7%E5%9B%BD%E5%B0%8F%E6%B0%91%EF%BD%9C%E5%8E%A8%E5%A8%98%E3%80%81%E5%A5%B3%E8%81%8C%E5%91%98%E5%92%8C%E8%80%81%E6%9D%BF%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E5%90%8E%E6%8C%A3%E4%B8%8D/" target="cdt-mirror">大国小民｜厨娘、女职员和老板：天津爆炸后挣不开的网</a>
 </h2>
 <p><p><strong>当他们试图回归熟悉的生活秩序时，却发现灾难并不曾随着火球熄灭而结束，一场更加漫长的折磨在等着这群流离失所的灾民。无论是认命，还是抗争，亦或是合作，他们都像被困在一张蛛网之中，不得动弹。</strong></p>
@@ -141,6 +220,22 @@
 <a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A4%A7%E5%9B%BD%E5%B0%8F%E6%B0%91%EF%BD%9C%E5%8E%A8%E5%A8%98%E3%80%81%E5%A5%B3%E8%81%8C%E5%91%98%E5%92%8C%E8%80%81%E6%9D%BF%EF%BC%9A%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E5%90%8E%E6%8C%A3%E4%B8%8D/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E8%B7%91/" target="cdt-mirror">【麻辣总局】李小乖：跑</a>
+</h2>
+<p><p><strong>微信公号：李小乖（blogtdorg）</strong></p>
+<blockquote><p>相关阅读：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/">李嘉诚</a>专题</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B7%91_%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B7%91_%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg" alt="跑_李小乖" width="550" height=""></a></p>
+<p><em>这里是 李小乖 的微信公共号<br>
+李小乖 網絡漫畫工作者,漫畫博客【blog圖黨】™ 的永遠唯一作者，網易新聞『老衲局長小李』系列漫畫的作者。</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/06/%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/06/%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg" alt="李小乖" width="250" height="250"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E8%B7%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E4%B9%96/?category=18271" rel="tag">李小乖</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
@@ -688,167 +783,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9E%E8%AE%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6-%E5%88%AB%E8%AE%A9%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86/" target="cdt-mirror">【异闻观止】中国企业家 | 别让李嘉诚跑了</a>
-</h2>
-<p><p>罗天昊 智石经济研究院副秘书长、中国城市战略中心执行主任</p>
-<p><strong>念念不忘，必有回响。</strong></p>
-<p>近日，李嘉诚拟将长实地产在上海的地盘，以200元出卖。这是李嘉诚撤离中国，财富转移欧洲战略部署的继续。</p>
-<p>本来，商业如水流，逐利是资本的本性。李嘉诚想去哪里就去哪里。但是，鉴于李嘉诚最近二十年在中国获取财富的性质，似乎不仅仅是商业那么简单。众所周知，在中国，地产行业与权力走的很近，没有权力资源，是无法做地产生意的。由此，地产的财富，并非完全来自彻底的市场经济，那就不能想走就走。</p>
-<p><strong>别让李嘉诚跑了。</strong></p>
-<p>敏感如李嘉诚，绝不会感觉不到。在中国，经济周期与政治周期密切相关，一朝天子一朝商友，不是所有人都跟你熟。由此，一撤资，二撤资，三撤资，其商业帝国，在大陆欲上演金蝉脱壳之法。</p>
-<p>前年是李嘉诚最不平凡的一年，先是工人罢工浪潮，风起云涌，后是在大陆的抛售，受到了巨大的非议。就民间形象而言，李嘉诚从此前的商界领袖，教父级人物，沦落为长着獠牙的怪物。 就官方感受而言，在中国经济紧张时刻，李嘉诚不顾中央此前对其在基础设施，港口、地产等领域的大力扶持，抛中国于不顾，不停抛售，严重影响大陆信心，造成悲观情绪蔓延，可谓已失道义。低买高卖，确实是市场经济，但是，他的地产、港口等产业，恰恰是中国最不市场化的产业，没有权力的扶助和勾兑，哪里来的机会？合作时借权力，卖出时说市场，似乎双重标准，唯我是利。</p>
-<p>香港富豪榜的前几名竟然全部为地产商，显示了香港产业的畸形。而这种畸形产业的背后，隐藏着香港社会结构的畸形，而豪族的出现，以及贫富分化的眼中，则严重危害了香港社会的活力。</p>
-<p>其实，李嘉诚只不过是一介小商人，有何能量影响香江？能操控香港万民福祉与未来者，国家此前的治港思路滞后于现实发展，方才导致香港困局。未来需要改变思路，进一步造福香港万民。</p>
-<p><strong>“招安精英”致使李嘉诚等豪族坐大</strong></p>
-<p>香港社会结构的失衡，虽然发作于回归之后，病根却早在80年代即已种下。在英治时代，虽然港英政府亦喜欢借助华商领袖的势力，来维系社会平衡，但是，总体而言，香港还算是一个健康均衡的社会，从香港的流行文化，即可知香港是一个市民化，平民化和多元化的社会。在经济领域，香港虽然是全球知名的自由港，贸易发达，但是，实业亦非常发达，其精工制造，一度全球闻名。</p>
-<p>但是，到了80年代，《中英联合声明》签署之后，香港社会即发生了重大变化。中央政府的未来设想是实现“港人治港”，但是，这个“港人治港”的潜台词，很多香港人当时不太明白。</p>
-<p>事实上，大陆精英治国的理念，亦被移植到香港。成为北京重点倚重对象的不是香港的升斗小民，而是香港的华商领袖。实际意义上，这形成了一种对于香港上层人士的“招安”政策。香港和澳门回归之后，第一任特首，都出自此类豪族。甚至是有黑社会背景的向氏势力，只要他们在政治方面不成为反对势力，亦成为被容忍的对象，可以继续在香港地下秩序中称王称霸。</p>
-<p>在此情况下，香港腾飞过程中崛起的一些新商人，意外地获得了固化其社会经济地位的机会。三十年来，香港的头面人物不断受到各种“关照”。香港逐步形成了真正意义上的豪族，这些大族因为与大陆的关系，在拓展商业势力方面，获得了越来越多的方便，他们不仅到大陆投资受到照顾，同时，在某些与权力联系紧密的领域，亦获得了特殊的放行。</p>
-<p>地产行业的畸形发展就是表现之一。作为与权力关系最为亲近的行业，香港地产行业的繁荣，发蒙于60年代，但是，在60至80年代之中，并没有产生特别庞大的地产企业，诸多地产大亨的最终修成正果，普遍在80年代以后。</p>
-<p>李嘉诚虽然在1958年即进军地产，但是一直以实业为主，直到他收购和黄之后，才开始大规模扩张，而李嘉诚在1978年受到邓公接见之后，在香港可谓通行无阻。政治地位的提高，亦使其商业扩张顺风顺水，特别是在地产领域，此后，李嘉诚的财富大部来自地产行业。</p>
-<p>在大陆，很多基础设施建设，亦有李嘉诚的身影，如深圳的盐田港，大陆方面即交给了李嘉诚。“一哥”李嘉诚如此，“二哥”李兆基和“四哥”郑裕彤，也是如此，李拿下世界专栏会旧址项目，郑兴建“香港国际会议展览中心”，无政府人脉，是绝对办不到的。从老大到老二老三，都是早年打基础，80年代爆发为巨头级华商，那就绝非偶然了。</p>
-<p>目前，香港前十名的商业大家族，过半从事地产行业，可见，其财富的来源，并非为香港创造了真实的财富，而是建立在权力经济，土地经济之上。</p>
-<p>香港与新加坡同为港口城市，但是，80年代之后的香港和新加坡，却渐行渐远。</p>
-<p>香港和新加坡，都以制造业和贸易起家，后来发展服务业，不同的是，到今天，新加坡与香港的支柱产业，却完全不一样。目前，新加坡的支柱产业，是贸易、制造业、航运业与旅游业。而香港的支柱产业，是零售业、旅游业、地产业、银行及金融服务业。特别是对于地产行业的依赖，达到了不可理喻的地步。</p>
-<p>同为海港城市，新加坡土地资源更为紧张，人口密度更大，但是新加坡却没有房产危机，新加坡建立了很多廉租房，地产行业的富豪，远没有香港多。但是，香港迟迟无法建立这种住房制度。香港的地产行业异常发达，富豪云集。而香港90年代以后资产过十亿美元的大富豪，几乎90%以上都涉足地产行业。</p>
-<p>在市场经济完善的国家和地区，来自地产行业的富豪非常少，而这个方面，香港却颇似大陆，表现了政治权力对于香港的经济结构的同化。</p>
-<p>对于富商阶层的畸形扶持，使香港的社会结构失去了平衡，贫富分化日益严重，中产阶层日益弱小。而在一个中产阶级弱小的社会中，生产与消费都是畸形的。</p>
-<p>在产出领域，有什么行业比做地产更赚钱?在消费领域，有什么比奢侈品更让人着迷?</p>
-<p>如此，则实业逐步被人遗忘。做塑料的李嘉诚去做地产了，甚至连做珠宝的郑裕彤，亦放着金碗不要，也去做地产。回归后的10年来，香港制造业占本地生产总值的比重，已从1997年的8.3%减至目前的不到4%，服务业的比重，接近90%，而实际上，如果从80年代算起，香港制造业的下降幅度更猛。香港制造业的衰亡，不仅是其向珠三角转移的结果，亦是畸形的社会结构导致的恶果。</p>
-<p><strong>畸形社会结构的危害</strong></p>
-<p>同为小经济体，香港与新加坡，乃至日本的财富分布结构，亦大为不同。</p>
-<p>香港四十大家族占据全港三分之二的财富，集中程度非常吓人。而新加坡则并没有产生特别大的富豪，亦无此集中财富。日本更是如此，甚至日本的富豪密度，都不及中国大陆。</p>
-<p>以日本为例，一度财阀和门阀制度流行的日本，50年代在美国的帮助下，进行了社会改革，以天皇走下神坛为标志，日本以立法的形式，限制豪强大族，同时，对于财阀进行了限制，一些大财阀被迫拆分。扫除社会和经济领域的垄断势力之后，日本正式进入大众时代，迸发出强大的创造力。任何人，只有有足够的才智和努力，都可以成为社会的中坚力量。</p>
-<p>在同时起步的国家和地区队列中，香港貌似原地踏步了十余年，当人们期待它起步走的时候，结果，它却最后变成向后转了。</p>
-<p>中英谈判到回归前的十余年，香港的富豪阶层也许并非主观上希望成为豪族，但是，“港人治港”的政策，客观上造就了豪族，而在回归之后，这种势力则更是有增无减，甚至，成为豪族，已经开始成为很多香港上层社会人士主动的追求。</p>
-<p>2003年，时任政协副主席霍英东率领82人的“商界知名人士访京团”来到中南海。在这82人中，富豪有40人，其余42人是家眷，比富豪还多，而在这42人中，很多是这些富豪的公子。如李嘉诚就带他的两个儿子李泽钜和李泽楷，李兆基带着长子李家杰，曾宪梓带着小儿子曾智明。</p>
-<p>荣及己身还不够，还希望把自己的声望与社会地位传给家族继承人，不仅实现财富的世袭，更实现社会地位的世袭，而这种变相世袭，恰恰阻隔了大众在财富和社会地位方面的上升渠道，造成了香港社会的不平衡。</p>
-<p>正是这种社会领域的失衡，导致香港经济结构出现不平衡。而这种不平衡，不仅造成今日香港经济低迷，更造成了香港社会生活和精神文化的整体退化。表现得最明显的，就是香港电影产业，自从九七之后，香港的电影就乏善可陈了，变得严格的管制，使很多电影失去了风韵，而香港社会的崩溃，使香港电影失去了根基与活力，那种草根性的情怀，大众性的娱乐，兼容并包的气度，是建立在平民文化和多元文化的根基之上的，失去了这两点，也就是去了活力之源。</p>
-<p>在未来，香港经济要走出困局，其根本道路，亦在于再造大众社会，重塑平民精神，而非仅仅是经济领域的努力。</p>
-<p><strong>逐步改变治港思路</strong></p>
-<p>为今之计，香港回归日久，人心归附，一国两制，生根发芽，不客气地说，大商人已经不再是社会稳压器，失去了其利用价值。而最近几年，中国各种矛盾开始凸显，改革形势严峻，十八大提出，改革是未来最大的红利，而改革的最大阻力，即是各种既得利益集团，这种既得利益者，不仅存在大陆，香港亦有。</p>
-<p>同时，在香港的改革，比在大陆更为容易推行，香港是一个有草根传统的地方，纵使是豪族，亦只有商业地位，而无政治背景，不似大陆，要收拾一个贪官，涉及千丝万缕的社会关系，有的甚至是世家，父子高官，树大根深，难以撼动。香港豪族虽从经济上富甲一方，却并无显赫政治地位。纵使是曾经受到过领导人关照，也不过此一时彼一时。时势变，政治地位亦变。有权力之利剑，踏平香港各个山头，可谓易如反掌。</p>
-<p>从国家对于香港的倚重程度的变化来说，亦需逐步削弱香港豪族地位，当下中国已经成为世界第二经济大国，经济地位非同昔比，上海，天津，深圳，广州等沿海城市亦兴起，香港作为自由港虽然仍然重要，但是已不再有不可替代的作用。对于国家来说，整个香港的利用价值大大下降。</p>
-<p>为今之计，为争取民心，推动改革，以继续平稳政权，提高执政合法性，获取大众对于未来改革的支持，中央政府应权衡利弊，果断抛弃不再有利用价值的香港豪族，平抑豪族，扶持农工，在政治上，推动社会阶层的扁平化，在经济上，发展多元产业，防止一业独大。</p>
-<p>在全国范围内，随着中国增速的下降，从前的以增量改革为主的改革模式，将逐步过渡到增量改革与存量改革并重的模式。存量怎么改？说白了，经济上，加大开放，权力逐步退出，政治和社会领域，即打压富豪，收买底层，扩大政权根基。</p>
-<p>在此大势之下，此前的香港豪族，从被关照的对象，逐步沦落为被整肃的对象，李嘉诚人中之精，已经看到这种苗头，故想脚底开溜，也算识相。</p>
-<p><strong>李嘉诚等商人还有两大未竞使命</strong></p>
-<p>对于李嘉诚为代表的香港富豪来说，不管走与不走，作为曾经的获利者，其在大陆，在中国，未来还有两大使命需要完成，不能轻易一走了之。</p>
-<p>其一是，兼顾民生，回报穷人</p>
-<p>毋庸讳言，八九十年代之后，香港富豪靠的就是卖地修港口等大生意，靠的就是与权力的结盟，获得了财富，做的都是一本万利的生意。未来，随着香港贫富分化的加大，香港富豪需要实现平安着陆，通过投资不是太赚钱的民生领域，担负起社会责任，扶持穷人的责任。在大陆，实体经济凋敝，也需要大量资本的进入，未来，香港富豪不能仅仅投资地产等赚钱行业，也需要投资赚钱一般般的行业，赚点苦钱，为全国经济复兴贡献力量，而不是没大钱就撤。</p>
-<p>李嘉诚曾言，他的习惯，是“不赚尽最后一个铜板”，不仅如此，未来可能还不能光想赚“最大的铜板”。</p>
-<p>其二是，必须要做更多善事，经营“社会事业。</p>
-<p>经营企业，为商人本职，但是，在中国，尤其需要“经营社会“，这种经营社会，不是简单的勾搭官府，搞好政商关系，而是切实对于社会广泛领域的事务，做出贡献。如教育，社会保障，扶贫，科研等等。</p>
-<p>香港富豪陈宗启一下就捐款3.5亿美元给哈佛大学，虽然捐款自由，但是，对比邵逸夫先生，可以看出一些奥妙，邵逸夫先生一生的财富，相对香港顶尖富豪来说，其实并不多，但是其名望高，地位尊崇，无它，舍得付出。国内遍布的逸夫楼，体现了其对于大陆教育的拳拳赤子之心。</p>
-<p>虽然中国官方的钱财使用方法和过程，确实存在一些弊端，但是，这不能成为将“宁与友邦，不与家乡”的借口。未来香港富豪，需要加大在中国的社会事业投入，不仅做一个经营商业出色的企业家，还要做经营社会出色的社会贤达。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6-%E5%88%AB%E8%AE%A9%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E5%95%86/?category=18271" rel="tag">富商</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">既得利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E4%BA%BA%E6%B2%BB%E6%B8%AF/?category=18271" rel="tag">港人治港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82/?category=18271" rel="tag">社会阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92/?category=18271" rel="tag">香港回归</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E5%A5%87%E8%99%8E360%E5%85%AC%E5%8F%B8%E5%9C%A8%E9%98%85%E5%85%B5%E5%AE%89%E4%BF%9D%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%8F%91%E6%8C%A5%E9%87%8D%E8%A6%81%E4%BD%9C%E7%94%A8/" target="cdt-mirror">翻墙 | 奇虎360公司在阅兵安保工作中发挥重要作用</a>
-</h2>
-<p><div dir="ltr">
-<p>@zwwwa外套：居然删了如此的荣光，就知道你会搞丢@360安全卫士 还好我特意存了，我来帮你们发，自己记得存好可别再丢了，请叫我雷锋。</p>
-<div><a href="http://2.bp.blogspot.com/-L404LYJjLeo/VfeL_ifR4MI/AAAAAAAACfw/wy-TLWY6kR4/s1600/3ef82c33gw1ew2eyo3t0ij20c80vomzu.jpg" target="_blank" rel="nofollow"><img src="http://2.bp.blogspot.com/-L404LYJjLeo/VfeL_ifR4MI/AAAAAAAACfw/wy-TLWY6kR4/s1600/3ef82c33gw1ew2eyo3t0ij20c80vomzu.jpg" alt="" border="0"></a></div>
-<div></div>
-<p> </p>
-</div>
-<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html" target="_blank" rel="nofollow">订阅地址及社交帐号</a></div>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
-<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E5%A5%87%E8%99%8E360%E5%85%AC%E5%8F%B8%E5%9C%A8%E9%98%85%E5%85%B5%E5%AE%89%E4%BF%9D%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%8F%91%E6%8C%A5%E9%87%8D%E8%A6%81%E4%BD%9C%E7%94%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/360/?category=18271" rel="tag">360</a>, <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9B%B8%E4%BF%A1%E5%8C%85%E5%AD%90%E7%9A%84%E5%98%B4%E4%B8%8D%E5%A6%82%E7%9B%B8%E4%BF%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E7%9A%84%E8%85%BF/" target="cdt-mirror">【河蟹档案】相信包子的嘴不如相信李嘉诚的腿</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%98%BF%E5%BD%AA%E5%BE%AE%E5%8D%9AZ">阿彪微博Z</a>：今天我作为一个长者,我有必要告诉你们一点人生的经验：相信包子的嘴不如相信我李嘉诚的腿！//*<a href="https://freeweibo.com/weibo/%40%E5%8D%83%E5%B1%B1%E4%B8%87%E6%B0%B4%E4%BE%9D%E6%97%A7%E5%9C%A8">@千山万水依旧在</a>: 高，实在是高！[哈哈][good]</p>
-<blockquote><p>相关阅读：《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%8C%AA%E7%A7%BB-2/">温克坚：解读李嘉诚资产大挪移</a>》</p>
-<p>《<a href="http://finance.sina.com.cn/leadership/crz/20150913/154323232955.shtml">新浪财经｜别让李嘉诚跑了：地产财富与权利走得近不宜想走就走</a>》</p>
-<p>《<a href="http://finance.ifeng.com/a/20150914/13972236_0.shtml">凤凰｜内地专家吁“别让李嘉诚跑了” 长和：有买有卖很正常</a>》</p>
-<p>《<a href="http://pit.ifeng.com/a/20150913/44642921_0.shtml">和讯｜李嘉诚撤离中国为何撤的如此干净</a>》</p>
-<p>《<a href="http://culture.dwnews.com/news/2015-01-12/59629381.html">多维｜李嘉诚“跑路”效应持续发酵 谁能挽救</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33316.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33316.jpg" alt="333" width="522" height="345"></a><br><a href="https://freeweibo.com/weibo/3886999960443014" target="/weibo/388">2015年09月14日</a></p></blockquote>
-<p> </p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%9C%89%E8%A5%BF">陈有西</a>：香港政制50年不变，是邓小平当年决策和承诺。香港司法终审权，体现了三权分立实质上不可动摇，除非修改基本法。妄议行政中心论，是一种盲目自信和蛮干。有人可能想参照殖民地总督制。但不知道英联邦的总督制恰植根于三权分立，而非英国皇室。<em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%81%94%E5%8A%9E%E5%BC%A0%E6%99%93%E6%98%8E%EF%BC%9A%E7%89%B9%E9%A6%96%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6%E4%BA%8E%E4%B8%89%E6%9D%83/">BBC｜香港中联办张晓明：特首地位超然于三权</a>》</em></em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33315.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33315.jpg" alt="333" width="375" height="668"></a><br><a href="https://freeweibo.com/weibo/3886608279538201" target="/weibo/388">2015年09月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%AE%A1%E6%B1%9D%E4%BD%B3_%E5%AE%88%E4%BD%8F%E8%89%AF%E7%9F%A5">管汝佳_守住良知</a>：三十九年前的今天，伟大领袖毛主席他老人家以大无畏的革命勇气，用实际行动一举粉碎了“毛主席万岁”的谣言！享年八十三岁！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33311.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33311.jpg" alt="333" width="329" height="371"></a><br><a href="https://freeweibo.com/weibo/3884956730720780" target="/weibo/388">2015年09月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%AD%90%E5%8D%88%E4%BE%A0%E5%A3%AB">子午侠士</a>：<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">@贺卫方</a> ，你记着，2015年9月9日，开国领袖毛泽东逝世39周年这一天，你说过这样一段话。今天是个特殊的日子，你记着，我们也都记着。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3338.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3338.jpg" alt="333" width="393" height="626"></a><br><a href="https://freeweibo.com/weibo/3885113676529041" target="/weibo/388">2015年09月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%82%B1%E6%96%B0%E4%BD%9C">邱新作</a>：某部门举行的新闻发布会上，有记者问这次阅兵花了多少钱？发言人：这次阅兵非常成功。记者：到底花了多少钱？发言人：有30位国家元首出席。记者：到底花了多少钱啊？发言人：此次阅兵向世界显示中国有能力承担大国责任。记者急了：说清楚到底花了多少钱？发言人：全世界华人都为此次阅兵感到自豪…..<br><a href="https://freeweibo.com/weibo/3884189613156059" target="/weibo/388">2015年09月06日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%99%93%E9%9B%A8%E9%97%BB%E9%93%83">晓雨闻铃</a>：看完阅兵直播，部长让网评员谈体会。老李兴奋地说：东风SB导弹太强大了，射程1.5万公里，覆盖美国本地，可随时把纽约炸沉海底。话音刚落，部长冲过来，抽了他一耳光：是东风5B，不是东风SB，你才傻逼呢。老李捂着脸，无地自容。邻座的小声说：你活该，他的老婆孩子就在曼哈顿。<br><a href="https://freeweibo.com/weibo/3883728830675860" target="/weibo/388">2015年09月05日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E7%85%A7%E6%97%8B">黄照旋</a>：这么多奖牌，那一枚与抗战有关[疑问]？//*<a href="https://freeweibo.com/weibo/%40%E8%BE%9F%E8%B0%A3%E4%B8%8E%E7%9C%9F%E7%9B%B8">@辟谣与真相</a>:申纪兰15岁就响应抗日政府号召，组织妇女纺花织布做军鞋，并担任组长。积极支援抗日前线。//*<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E7%85%A7%E6%97%8B">@黄照旋</a>：15岁组织支抗日？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3335.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3335.jpg" alt="333" width="440" height="491"></a><br><a href="https://freeweibo.com/weibo/3883877124861711" target="/weibo/388">2015年09月06日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%92%A2%E9%93%81%E4%BE%A0">钢铁侠</a>：凤姐这是再不打算回来了啊<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3336.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3336.jpg" alt="333" width="395" height="593"></a><br><a href="https://freeweibo.com/weibo/3883834988391749" target="/weibo/388">2015年09月05日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%AE%B5%E4%B8%87%E9%87%91%E5%BE%8B%E5%B8%88">段万金律师</a>：昨晚临睡前发了这组网络照片，因为有人发出来是阅兵观礼台阅兵之后的场景，我不由感慨，说中国文明素质目前和日本差距与清末中国日本差距一样，结果早晨醒来醒来被网友爆骂，于是删帖，我坚持我的观点，我只是想求证下，这是不是观礼台阅兵后现场照片？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/3337.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/3337.jpg" alt="333" width="456" height="327"></a><br><a href="https://freeweibo.com/weibo/3883646597558290" target="/weibo/388">2015年09月05日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E6%B3%BD%E5%BE%8B%E5%B8%88">周泽律师</a>：【威胁见效？】刘虎被不起诉后,表示将申请国家赔偿。正义网、法制网随后同时发表评论,说刘虎没罪不等于没错，若干官微默契转发。还有若干官微转发一题为“刘虎,你几斤几两自己不清楚吗?”的评论。另有人放话：不要以为不起诉决定是不可改变的。虎妻今天电我:“周律师，要不我们就不要国家赔偿了吧?” <em><em><em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E5%88%98%E8%99%8E_(%E8%AE%B0%E8%80%85)">维基百科<em><em><em>｜</em></em></em>刘虎 (记者)</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%EF%BD%9C%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E8%A2%AB%E5%85%8D%E4%BA%8E%E8%B5%B7%E8%AF%89-%E6%A3%80%E6%96%B9%E7%A7%B0%E4%B8%8D%E7%AC%A6%E5%90%88%E5%85%AC%E8%AF%89/">中青在线 ｜记者刘虎被免于起诉 检方称不符合公诉条件</a>》</em></em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33310.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33310.jpg" alt="333" width="386" height="687"></a><br><a href="https://freeweibo.com/weibo/3885792772044840" target="/weibo/388">2015年09月11日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E5%85%89%E4%BC%9F">何光伟</a>：听说《刘虎，你几斤几两自己不清楚吗》在一些地方的宣管系统内热传。果然赤膊上阵了。<em><em><em>相关阅读｜</em></em></em>《<em><a href="http://www.rfa.org/cantonese/news/reporter-09132015093537.html">自由亚洲｜记者刘虎遭抹黑 王五四家人被骚扰</a></em>》；《<a href="http://bbs.tianya.cn/post-free-5247851-1.shtml">刘虎，你几斤几两自己不清楚吗？</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33312.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33312.jpg" alt="333" width="409" height="727"></a><br><a href="https://freeweibo.com/weibo/3886571482761447" target="/weibo/388">2015年09月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%BB%8E%E5%8B%8701">黎勇01</a>：刘虎被作出不起诉决定后，今晚法制网和正义网相隔两分钟分别发表两篇内容不同、但意思相近的文章（见 <a href="http://t.cn/RyqAgIl" target="_BLANK">http://t.cn/RyqAgIl</a> 和 <a href="http://t.cn/RyqAusa" target="_BLANK">http://t.cn/RyqAusa</a>），特别强调刘虎是“存疑不起诉”，不代表刘虎没有过错。最高检微博紧跟着转发两文。显然，这是有部署的统一安排。整刘虎的人贼心不死，这事不简单。<em><em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF-%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E%E7%9A%84346%E5%A4%A9%E7%89%A2%E7%8B%B1%E7%94%9F%E6%B4%BB/">法广 | 记者刘虎的346天牢狱生活</a>》</em></em></em><br><a href="https://freeweibo.com/weibo/3886402598760561" target="/weibo/388">2015年09月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8C%89%E5%B0%9B%E6%A5%A0">茉尛楠</a>：<a href="https://freeweibo.com/weibo/%E5%A4%A9%E6%B4%A5%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8">#天津塘沽爆炸#</a> 良心记者的第一篇长微博。<em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/">【立此存照】天津逼签</a>》</em></em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33313.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33313.jpg" alt="333" width="419" height="745"></a><br><a href="https://freeweibo.com/weibo/3886300588951459" target="/weibo/388">2015年09月12日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%81%8F%E6%98%AF%E6%97%A0%E4%B8%9A%E5%88%98%E6%B0%91">偏是无业刘民</a>：BBC：“ 村内通讯全部被切断，外界无法联系。” <em><em><em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2015/09/150913_china_nuclear_protest">BBC<em><em><em>｜</em></em></em>广东陆丰村民抗议核电站遭两千警察镇压</a>》</em></em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/333.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/333.png" alt="333" width="379" height="674"></a><br><a href="https://freeweibo.com/weibo/3886777410242553" target="/weibo/388">2015年09月14日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%9B%B8%E4%BF%A1%E5%8C%85%E5%AD%90%E7%9A%84%E5%98%B4%E4%B8%8D%E5%A6%82%E7%9B%B8%E4%BF%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E7%9A%84%E8%85%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E6%9D%83%E5%88%86%E7%AB%8B/?category=18271" rel="tag">三权分立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%A7%90/?category=18271" rel="tag">凤姐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E/?category=18271" rel="tag">刘虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90/?category=18271" rel="tag">包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%A1%98%E6%B2%BD/?category=18271" rel="tag">天津塘沽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E4%B8%9C%E9%99%86%E4%B8%B0/?category=18271" rel="tag">广东陆丰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%99%93%E6%98%8E/?category=18271" rel="tag">张晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%92%A4%E8%B5%84/?category=18271" rel="tag">撤资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%88%E9%A5%BC/?category=18271" rel="tag">月饼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5%E7%AB%99/?category=18271" rel="tag">核电站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E7%BA%AA%E5%85%B0/?category=18271" rel="tag">申纪兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E7%8E%89%E5%87%A4/?category=18271" rel="tag">罗玉凤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%8A%E8%82%89/?category=18271" rel="tag">腊肉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E6%9D%83/?category=18271" rel="tag">行政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">谣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%BC%E7%AD%BE/?category=18271" rel="tag">逼签</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%87%E5%8E%8B/?category=18271" rel="tag">镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5/?category=18271" rel="tag">阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%EF%BD%9C%E9%A6%96%E9%96%B1%E5%85%B5%E7%BF%92%E8%BF%91%E5%B9%B3%E3%80%8C%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A6%AE%E3%80%8D%E7%B6%B2%E5%8F%8B/" target="cdt-mirror">【CDTV】中天新聞｜首閱兵習近平「左手敬禮」網友熱議</a>
-</h2>
-<p><p></p>
-<p><strong>以下评论由数字时代编辑选自网络：</strong></p>
-<p>@<a title="本阿里郎" href="http://weibo.com/a7749" target="_blank">本阿里郎</a><a title="本阿里郎" href="http://weibo.com/a7749" target="_blank"> </a>： <span>左手</span><span>军礼</span>,才是古今中外第一次.<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"> //<a href="http://weibo.com/n/%E7%9F%A5%E5%BF%83%E5%BF%83%E8%AF%AD" target="_blank">@知心心语</a>:<img title="[心]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" alt="[心]"><img title="[赞]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/z2_org.gif" alt="[赞]"> //<a href="http://weibo.com/n/%E7%99%BD%E9%9B%AA%E5%AE%9D%E8%B4%9D%E5%85%90" target="_blank">@白雪宝贝児</a>: <img title="[国旗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/dc/flag_org.gif" alt="[国旗]"></p>
-<p>@<a title="讨个说法_" href="http://weibo.com/u/3237433674" target="_blank">讨个说法_</a><a title="讨个说法_" href="http://weibo.com/u/3237433674" target="_blank"> </a>： 不好意思：再好的练兵值吗？领导人一个<span>左手</span><span>军礼</span>全都玩完！<img title="[失望]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0c/sw_org.gif" alt="[失望]"><img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p>‏@cyxhorse：总觉得好怪，习大大一副不高兴的样子，还用左手敬礼。</p>
-<p>‏@魚腩：主席你这左手敬礼是闹哪样？？？？主席你公然在全国人民面前恶意遮挡车牌又是闹哪样？？？？</p>
-<p>‏@nonozone：竟然左手敬礼…真是服了…你让印度人怎么想！</p>
-<p>‏@afloatingbottle：主席牛啊，左手敬礼，你丫内务条例没学吗？</p>
-<p>@一段榆木：怎么讲，一群人引经据典的找台阶解释左手礼，结果官方解释是角度问题，其实是在招手。大意了，妹想到。</p>
-<p>@深邃-回眸：看看往年不就知道了吗。</p>
-<p>@车正风后: N种说法：先礼后兵说, 军队礼仪说, 中国礼仪说, 最后出来个：伟大招手说那是啊 按其他说法感情就是之前的伟大领袖们都举错了!</p>
-<p>@断羽飞绣：皇帝的新衣。</p>
-<p>@<a title="上海杨卫华律师" href="http://weibo.com/yanglawyer" target="_blank">上海杨卫华律师</a>：<a href="http://huati.weibo.com/k/%E5%A5%B4%E6%89%8D%E7%9A%84%E5%AD%A6%E9%97%AE?from=526" target="_blank">#奴才的学问#</a> 老大阅兵，举<span>左手</span>挥了挥，立马就有学问家出来微言大义，《道德经》啦、制式<span>军礼</span>啦，解释的头头是道。结果，人日说只是挥手致意，并无深意。由此可见，满腹经纶、逮空就舔，这够得上真正的“奴”而且“才”。相较之下，我们只是奴隶而已。</p>
-<p>@皇帝未死：通过“群众”自发为习“左手敬礼”引经据典地解释其中深刻含义，而且还得到了很多人的附和，我终于深刻了指鹿为马和为虎作伥这两个成语的现实含义。很多国人不管是出于献媚圣上的政治动机，还是一贯皇上圣明的朴素思维习惯，都说明我们从来不缺文革的群众基础。我真实地看到了常识是如何被权力扭曲的。</p>
-<p>‏@uponsnow：微博上有人解释受阅部队在左侧所以左手敬礼。底下神回复：那么部队两侧都有呢</p>
-<p>@猪猡懦夫：忽然想明白了，用左手敬礼是怕把飞机打下来。</p>
-<p><a href="http://twitter.com/linyueyang">@linyueyang</a>：习近平阅兵行左手礼 真的是个大纰漏  <a href="https://t.co/9cLvE2dkms">shar.es/1v8xOa</a> 来自中共军队传统上认为行军礼用左手是不可饶恕的错误。官方的《环球时报》旗下的环球网甚至转述官方新华网早年的一篇报道，说是前海军司令员刘华清因为在电视上看到一个军人用左手行军礼而“震怒“。</p>
-<p>@阿里巴巴古德三世：实在忍不住对群里给左手敬礼洗地的娃发了一句人丑就要多读书不要瞎用道德经。</p>
-<p>@三木匠 :刁参谋长放个屁也是香的—没出息的民族！ </p>
-<p>@許梅邨：最大的笑话：左手敬礼！之后网上大批的奴才这一顿解读啊，又是国学又是道德经的，后来“日人民报”辟谣了，说仅仅是打招呼…把那些舔腚的嘴巴子扇的山响！其实本质上就是个最低级的错误，不然前两任都是……</p>
-<p>@不言有罪 :那位“空军上将”再解释解释，习大大的头发为什么大部分向右边梳而不是向左边？ 中国坏就坏在那帮毫无独立人格的酸腐文人，整天就会揣摩圣意，编造圣上的屁故事，愚弄百姓。 </p>
-<p>@scbean :如果两个手都举起来，就更有说法了。 </p>
-<p>@biglow :整个阅兵仪式，今上表现最差。左手行军礼，有这么干的吗？没穿军装，能行军礼吗？就算是行所谓左手礼，阅兵的时候能和平时一样招手打招呼吗？一点威严都没有。城楼观礼，站一个小时能累死啊，坐坐站站的，站着的时候也是歪个脑袋。一点儿都没有堂堂天朝的威严气概。知青出身真的没人教吗？ </p>
-<p>@x潇潇 :没有人敢训练他，自然就好。 </p>
-<p>@ult :这个敬礼不像敬礼， 挥手不像挥手的姿势，加上一脸无奈的表情，确实看不懂. </p>
-<p>@随便说说280 :感觉无精打采，会不会是替身？ </p>
-<p>@乐国乐国爰得我直：瞧习皇帝出手的神态，跟刚断了鸦片似的，能把手举起来就不错了，还分什么左手右手的。</p>
-<p>@brokerbro :近平好像压力太大了。应该注射兴奋剂。 </p>
-<p>@fdny : 顶习大大！带病检阅，还是蛮拼的。 </p>
-<p>@<a title="右倾保守" href="http://weibo.com/u/2080669351" target="_blank">右倾保守</a>：经济全面下滑，反腐骑虎难下，想通过阅兵以壮声势，给全国人民打打气。结果自己就很泄气，全程表情凝重，<span>左手</span>敬<span>军礼</span>。这反映了他内心的某种惶恐，知道以后的日子不好过。</p>
-<p>@无烦无恼 :他后来用右手向观众台的人挥手。 不知道这左手是个啥礼.</p>
-<p>@北极村姑 :就是太紧张造成的。这么大的场面一个人撑着，且全世界都在看着他的表演。表情一直紧张，直到快进门了，放松下来了，才想起挥右手。 </p>
-<p>@相当冷静 :左手敬礼小事一桩。 习总当兵是后门兵，直接当了官。就算新兵营训练谁都知道走过场，哪儿敢真训练。 再说，谁说三军统帅一定要敬礼标准？ 可偏偏吧，立刻一帮拍马的人出来了，啥左手敬礼也符合条例，啥左手是为了和平等等等等。不要急嘛。今天找出更好的解释了，是镜头角度的问题。天啊，终于找出阶级敌人了。 昨天一的马屁拍错了？ 没事，接着拍。 林总对老毛有救命之恩，离毛太近，才会出现拍马屁被驴踢死的闹剧。大家离着很远，暂时没有生命危险，多练练，说不定哪天正好用上。</p>
-<p>@samliu99 :拿习和毛邓阅兵相比没必要。毕竟天下是毛邓打出来的，那种豪情和自信深入骨髓，自然流露。  </p>
-<p>@蓝天翔 :正式的检阅车应当是敞篷车。 检阅者从轿车的天窗中钻出来，算个什么？ 好像一场豪华的婚礼， 新娘穿了一身旧的连衣裙。 </p>
-<p>@鸭梨山大：关于左手礼的帖子全部扎口或者删除了,可以确定是皇帝的新衣了!</p>
-<p>@MMCFX：我的回复居然给吃了，看来天涯也是宣传部的管辖范围。楼上的网友还记得我的发言吧？ </p>
-<p>@ttzz1963 :依我看习大大就以为应该用左手敬礼因为从他的角度来看别人都像从左边向他敬礼.毛泽东和邓小平都是用右手敬礼. 活了这么大从未见过任何人这样做过. 可悲的是无人敢向他指出其错误. 皇帝的新装! </p>
-<p>@京V-02009 :左手礼就是要告诉你们，中国还是要走左倾路线合适。 </p>
-<p>@西门桥 :勇敢一点嘛，站起来向中国人民认个错：马克思列宁主义那条路走错了，那是一条死胡同！别躲躲闪闪的，不像一个男人！ </p>
-<p>@wenyunchao: 习近平行“左手礼”，原因很简单，其他参与阅兵的人都训练了无数次，惟独习没有参加训练，没人敢请他参加，也没人有意识到习会用左手敬礼，没有事先提醒。至于不是左撇子的习为何用左手敬礼，最大的可能显然是压力之下大脑短路了。这个事情，就是皇帝新衣的翻版。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%EF%BD%9C%E9%A6%96%E9%96%B1%E5%85%B5%E7%BF%92%E8%BF%91%E5%B9%B3%E3%80%8C%E5%B7%A6%E6%89%8B%E6%95%AC%E7%A6%AE%E3%80%8D%E7%B6%B2%E5%8F%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -860,7 +794,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ke8rz51.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24b1vv734ehww.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -870,5 +804,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://un3tiqe.azurewebsites.net">https://un3tiqe.azurewebsites.net</a><br/></td>    </tr>
 </table>

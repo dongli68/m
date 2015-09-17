@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8%E5%8F%88%E5%A4%9A%E4%B8%89%E4%B8%AA%E9%AB%98%E7%AE%A1%E8%A2%AB%E6%9F%A5-%E5%8C%85%E6%8B%AC%E6%80%BB%E7%BB%8F%E7%90%86%E7%A8%8B%E5%8D%9A/" target="cdt-mirror">法广｜中信证券又多三个高管被查 包括总经理程博明</a>
@@ -108,7 +108,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/" target="cdt-mirror">纽约时报 | 习近平访美前维权人士郭玉闪获释</a>
 </h2>
@@ -803,7 +803,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2yvx9x70dour.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://ke8rz51.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -813,5 +813,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/></td>    </tr>
 </table>

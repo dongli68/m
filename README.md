@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://8moskvu7d0.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d24b1vv734ehww.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8%E5%8F%88%E5%A4%9A%E4%B8%89%E4%B8%AA%E9%AB%98%E7%AE%A1%E8%A2%AB%E6%9F%A5-%E5%8C%85%E6%8B%AC%E6%80%BB%E7%BB%8F%E7%90%86%E7%A8%8B%E5%8D%9A/" target="cdt-mirror">法广｜中信证券又多三个高管被查 包括总经理程博明</a>
@@ -151,7 +151,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">中国儿童</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1%E7%8E%87/?category=18271" rel="tag">儿童死亡率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%B4%E5%84%BF/?category=18271" rel="tag">婴儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%B4%E5%84%BF%E6%AD%BB%E4%BA%A1%E7%8E%87/?category=18271" rel="tag">婴儿死亡率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0/?category=18271" rel="tag">死亡人数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E5%91%BD/?category=18271" rel="tag">生命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98/?category=18271" rel="tag">社会问题</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9D%A2%E4%B8%B4%E5%A4%B1%E8%B4%A5%EF%BC%9F/" target="cdt-mirror">德国之声 | 德语媒体：“一带一路”面临失败？</a>
 </h2>
@@ -803,7 +803,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3tp4ul7r4lg12.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2yvx9x70dour.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -813,5 +813,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d2yvx9x70dour.cloudfront.net">https://d2yvx9x70dour.cloudfront.net</a><br/><a href="https://ke8rz51.azurewebsites.net">https://ke8rz51.azurewebsites.net</a><br/><a href="https://d24b1vv734ehww.cloudfront.net">https://d24b1vv734ehww.cloudfront.net</a><br/><a href="https://8moskvu7d0.azurewebsites.net">https://8moskvu7d0.azurewebsites.net</a><br/><a href="https://d3tp4ul7r4lg12.cloudfront.net">https://d3tp4ul7r4lg12.cloudfront.net</a><br/></td>    </tr>
 </table>

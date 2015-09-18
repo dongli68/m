@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d309683nawggq1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mxzovgtwt92a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-2/" target="cdt-mirror">【麻辣总局】“记住，我们是正义的化身”</a>
@@ -484,7 +484,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%BE%8E%E6%B9%83%EF%BD%9C%E9%99%95%E8%A5%BF%E5%BE%8B%E5%8D%8F%E6%96%B0%E8%A7%84%E8%A2%AB%E6%8C%87%E7%BA%A6%E6%9D%9F%E6%AD%BB%E7%A3%95%E6%B4%BE%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%8F%91%E5%85%AC%E5%BC%80/" target="cdt-mirror">澎湃｜陕西律协新规被指约束死磕派：不得发公开信、不得围观声援</a>
 </h2>
@@ -769,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://khw7y.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d309683nawggq1.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -779,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/></td>    </tr>
 </table>

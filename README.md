@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mxzovgtwt92a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-2/" target="cdt-mirror">【麻辣总局】“记住，我们是正义的化身”</a>
@@ -98,7 +98,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%95%E5%9B%BE/?category=18271" rel="tag">仕图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%AE%A3/?category=18271" rel="tag">文宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E7%A7%B0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B7%B2%E6%88%90%E4%B8%BA%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8%E7%9A%84/" target="cdt-mirror">奇客资讯 | 最高法院称网络安全已成为公共安全的重要部分</a>
 </h2>
@@ -769,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d309683nawggq1.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2o2nuahxmmb0j.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -779,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>

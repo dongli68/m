@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mxzovgtwt92a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%BF%99%E5%B0%B1%E5%AF%B9%E4%BA%86/" target="cdt-mirror">奇闻录 | 这就对了</a>
+</h2>
+<p><p>9月17日，陕西日报一则报道讲述称，陕西一副厅长邓雄飞(化名)开自己买的迈腾车回老家探望父母，父亲看到后说：“开自己车回来，这就对了”。去县城吃饭自己掏钱，父亲说，“这就对了”。自己花钱买月饼，父亲又感叹，“这就对了”。</p>
+<p>——————————</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6541fc49gw1ew6iuqp00fj20at0go0vv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6541fc49gw1ew6iuqp00fj20at0go0vv.jpg" alt="6541fc49gw1ew6iuqp00fj20at0go0vv" width="389" height="600"></a></p>
+<p>9月15日，记者与在省政府部门履职的副厅长邓雄飞（化名）交谈，他无意中给记者原汁原味地讲述了几天前回老家探望父母的故事……</p>
+<p>父亲说：“开自己的车回来，这就对了”</p>
+<p>9月12日（双休日）上午，邓雄飞开着自己才买的灰色迈腾车，拉着妻子和正在上高三的儿子，一同回到乾县老家，看望父母。</p>
+<p>车刚停好，70多岁的母亲和年近八旬的父亲就迎了上来。母亲拉着儿媳的手问这问那，父亲摸着孙子的头一脸笑容。看着身边停着的灰色轿车，老父亲看了一圈又一圈，摸了一遍又一遍，“这辆车是你刚买的？”父亲问。“是我刚买的。”邓雄飞答。“多少钱？”父亲又问。“二十几万。”邓雄飞说。</p>
+<p>这时母亲走过来，摸着车说：“你咋没坐原来那辆黑颜色车回来，你原来的司机小马干啥去了？”邓雄飞说：“中央实行八项规定，省上搞车改，我这样的副厅级干部就没有专车坐了，原来那辆凯美瑞上交了。司机小马是临时工，也走了。”父亲走上来说：“我在报上、电视上看了，官员大部分都没专车了，但给你们发补贴了，你开自己的车回来，这就对了。村里人也不再说咱开着公家车扎势了。”父亲一席话，让邓雄飞没想到，中央的政策和规定这样深入人心。</p>
+<p>父亲说：“自己掏钱吃饭，这就对了”</p>
+<p>邓雄飞的家离县城不远。快到中午了，怕父母劳累，邓雄飞提议去县城吃饭。一家人高高兴兴来到县城一家饭店，要了个包间，点了一桌菜。一家老小，有说有笑，亲情洋溢。饭毕，服务员结账，546元。母亲瞪大眼睛：“这么贵！”邓雄飞说：“提前跟你们二老过中秋节了，不贵。”</p>
+<p>邓雄飞对服务员说：“把发票开上。”父亲忽一下站起来：“私人吃饭，还开啥发票。”邓雄飞说：“开发票，是给国家缴税哩。”父亲说：“你可别拿回去，让公家报销。”邓雄飞说：“不会的，现在对公款吃喝管得严得很！”父亲听后长出一口气说：“自己掏钱吃饭，这就对了。”</p>
+<p>父亲说：“自己花钱买月饼，这就对了”</p>
+<p>这次回家探亲，邓雄飞一次买了10盒月饼，每盒98元。从车上往父母家提月饼的时候，父亲一脸不高兴。“你提这么多月饼回来，得是别人送的。”邓雄飞忙解释说：“现在谁给送月饼，我两三年都没收过一盒月饼。这些月饼，除了你们吃，再送给亲戚一些，中秋节我就不回来了。”父亲问：“这都是你自己掏钱买的？”邓雄飞一脸苦笑说：“是自己掏钱买的。现在，从中央到地方，对公款买月饼，管得死得很，谁还敢拿公款买月饼！”</p>
+<p>临走时，父亲拉着邓雄飞的手语重心长地说：“你从一个农村娃，能成为咱村里最大的官，不容易，我成天在报纸电视上看，这个官被抓了，那个官被判了，我总为你捏把汗。公家给你开着工资，发着补贴，一月收入万儿八千，够了。你自己花钱给老人买月饼，这就对了。记住，不要占公家便宜！”</p>
+<p>来源：陕西日报</p>
+<p>猜你喜欢 九件珍贵礼 一件无价宝 这是一场诗意的发布会 翻墙的寒冬 盛世一景 9-13 最悲伤的不止作文</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%BF%99%E5%B0%B1%E5%AF%B9%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%A7%8B%E8%8A%82/?category=18271" rel="tag">中秋节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E6%97%B6%E5%B7%A5/?category=18271" rel="tag">临时工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%AC%BE/?category=18271" rel="tag">公款</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%AC%BE%E5%90%83%E5%96%9D/?category=18271" rel="tag">公款吃喝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8/?category=18271" rel="tag">政府部门</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%866400%E4%B8%87%E4%BA%BA%E5%90%83%E8%B4%A2%E6%94%BF%E9%A5%AD/" target="cdt-mirror">自由亚洲｜中国大陆6400万人吃“财政饭”</a>
 </h2>
 <p><p>中国媒体报道说，目前中国吃“财政饭”的公务员、事业单位人员及其离退休员工已远超过6400万，比英国的人口总量还多。有评论认为，中国近期可能仍难以精简政府冗员。</p>
@@ -740,27 +768,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%AE%B8%E8%B7%91%E4%B8%8E%E8%B7%91%E4%B8%8D%E4%BA%86/" target="cdt-mirror">旧闻评论 | 宋志标：“不许跑”与“跑不了”</a>
-</h2>
-<p><p>北方爆炸事件中，最小的遇难者姓卢，乳名涛涛，男婴，享年七个月。搜狐网报道说，要不是孩子父母奋力争取，涛涛一定会被遗忘，进不了遇难者名单。年轻父母为涛涛做过的最勇敢的事情，可能就是把他送进了死亡名录，似乎这是唯一的告慰。</p>
-<p>对于丧子之痛，年轻夫妻只有独饮痛苦。在与政府打交道的过程中，他们需要反复自证：证明儿子已经死了，证明是爆炸致死，证明他是他们的儿子，证明名单是不全的。这番折腾下来，父母想要什么，已经降到最低，复仇遥不可及，只有乞怜政府有眼。</p>
-<p>按照常见的做法去理解，涛涛是在错误的时间、错误的地点遇上了错误的事情。总结起来，就是跑不了而已。就像长江沉船，几百号人登上了死亡之轮，被倒扣在江底跑不了。也像股灾中的散户，国家队无论进场退场，总是要割肉，究竟也还是跑不了。</p>
-<p>有手有脚，为何总是跑不了，这是强国人百思不得其解的谜团。其实考察过各种死亡，见过各种悲剧之后，你会发现答案很简单，许多跑不了是因为“不许跑”。如果是跑了，就没有英雄可供敬仰，就没有祭祀所需的新血，甚至不给死亡签发证明，就是白死。</p>
-<p>跑不了，就此成为一种命运。命运之意就在于两端，要么必须去证明没有白活，要么必须去证明确已死掉。能够如此操纵的，就是够胆喊出了“不许跑”的那个人。这个人曾对野百合王实味喊过，对公私合营的小资产阶级喊过，最近也对李嘉诚喊过。</p>
-<p>如果人家已经喊了“不许跑”，却还是跑的，甚至往反方向跑的，那一定是要追究的。过于这叫：宁要社会主义的草，不要资本主义的苗。现在修辞上已经懒得再动脑筋，只是喊“别让xxx跑了”。多少年来，两下都是同一拨人，无非是不让跑，无非是跑不了。</p>
-<p>两下也都在参悟这跑不了的命运。不许跑的那边，心生欢喜，喊一嗓子可保江山永不变色，也就将“不许跑”作为宝贝了，刻上了三个字：鹤发行。既然历史上都一直是不许跑，那自然是天赋“不许跑”。建立在“不许跑”基础上的国家，就叫做强国。</p>
-<p>而在另外一头，更精雕细刻了“跑不了”，显示了命运所驾驭下的鬼斧神工。总结起来，技法主要有二：一曰爱死这“跑不了”，二曰恨死别人想要跑。为了通俗易懂，民间把这两种技法统称为“爱国者”。这些人也在跑不了的迷幻状态下，像帮凶那样吆喝“不许跑”。</p>
-<p>卢涛涛作为一个婴孩，他的死是生命悲剧中最沉重那种。可堪同情的，是年轻父母计划将来送他去国外读书，铁了心要让孩子“跑的了”。跑不了的平民父母，在后代身上苦心经营一个“跑的成”的计划。而一个扭转命运的机会被爆炸粉碎，这才是更浓重的悲凉。</p>
-<p>三岁幼童库尔迪伏尸土耳其海滩，魂断逃国的海路上，揭开了“跑不了”的叙利亚一角，震惊了世界上很大一部分人。可世界上还有“很大一部分人”并没有被惊动，也都是跑不了的，不由得在主义的“应许之地”上终身役役，平静而又激烈，平常而又不同寻常。</p>
-<p>2015/9/16</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%AE%B8%E8%B7%91%E4%B8%8E%E8%B7%91%E4%B8%8D%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B8%E8%B7%91/?category=18271" rel="tag">不许跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%96%B9%E7%88%86%E7%82%B8/?category=18271" rel="tag">北方爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B4%E9%9A%B6/?category=18271" rel="tag">奴隶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%BF%97%E6%A0%87/?category=18271" rel="tag">宋志标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%91%E4%B8%8D%E6%8E%89/?category=18271" rel="tag">跑不掉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%BE%E6%B0%91/?category=18271" rel="tag">难民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -772,7 +779,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mxzovgtwt92a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -782,5 +789,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%AE%B8
                 <td></td>
                 
         
-        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/></td>    </tr>
 </table>

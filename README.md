@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1mxzovgtwt92a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jvlzqs9b1vap.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,21 @@
                 <td></td>
                 
         
-        <td><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E7%A7%B0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B7%B2%E6%88%90%E4%B8%BA%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8%E7%9A%84/" target="cdt-mirror">奇客资讯 | 最高法院称网络安全已成为公共安全的重要部分</a>
+</h2>
+<p><p>最高法院发布了《<a href="http://www.court.gov.cn/fabu-xiangqing-15478.html" target="_blank">最高人民法院关于充分发挥审判职能作用切实维护公共安全的若干意见</a>》，《意见》 将网络安全列入公共安全的重要部分，</p>
+<blockquote><p>13.依法惩治利用网络实施的各类犯罪。网络空间是现实社会的延伸，网络秩序是公共秩序的有机组成部分。要针对近年来利用信息网络实施的各类违法犯罪活动日益突出，危害十分严重的实际，坚决依法打击网上造谣、传谣行为，惩治利用网络实施的盗窃、诈骗、敲诈勒索、寻衅滋事、贩卖毒品、传播淫秽信息等犯罪，切实维护网络秩序，净化网络空间，决不允许网络成为法外之地。 14.依法惩治网络攻击破坏犯罪。信息时代，网络已深度融入经济社会的各个方面，网络安全已成为公共安全的重要组成部分，与广大人民群众的信息安全、财产安全乃至人身安全密切相关。要依法打击非法侵入、破坏计算机信息系统以及制作、销售、使用“伪基站”设备等犯罪活动，从严惩治针对基础信息网络、重要行业和领域的重要信息系统、军事网络、重要政务网络、用户数量众多的商业网络的攻击破坏活动，从严惩治利用攻击破坏非法获取国家秘密、商业秘密、公民个人信息等犯罪活动。</p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E7%A7%B0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B7%B2%E6%88%90%E4%B8%BA%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2/?category=18271" rel="tag">人民法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/?category=18271" rel="tag">信息安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8/?category=18271" rel="tag">公共安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%A4%96%E4%B9%8B%E5%9C%B0/?category=18271" rel="tag">法外之地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%BF%99%E5%B0%B1%E5%AF%B9%E4%BA%86/" target="cdt-mirror">奇闻录 | 这就对了</a>
 </h2>
 <p><p>9月17日，陕西日报一则报道讲述称，陕西一副厅长邓雄飞(化名)开自己买的迈腾车回老家探望父母，父亲看到后说：“开自己车回来，这就对了”。去县城吃饭自己掏钱，父亲说，“这就对了”。自己花钱买月饼，父亲又感叹，“这就对了”。</p>
@@ -101,7 +113,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%A6%86%E5%B7%A2%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9D%83%E5%88%A9ngo%E7%94%9F%E6%AD%BB%E5%8A%AB/" target="cdt-mirror">端传媒 | 覆巢：中国权利NGO生死劫</a>
 </h2>
@@ -702,72 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%BE%E7%AB%8B%E7%9A%84%E6%99%BA%E5%BA%93%E6%89%80%E5%8F%91%E7%9A%84%E3%80%8E%E5%88%AB%E8%AE%A9%E6%9D%8E/" target="cdt-mirror">知乎｜如何看待新华社设立的智库所发的『别让李嘉诚跑了』？</a>
-</h2>
-<p><h2>问题：</h2>
-<p>如何看待新华社设立的智库所发的『<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6-%E5%88%AB%E8%AE%A9%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86/">别让李嘉诚跑了</a>』？</p>
-<blockquote><p>近日，李嘉诚拟将长实地产在上海的地盘，以200亿元出卖。这是李嘉诚撤离中国，财富转移欧洲战略部署的继续。</p>
-<p>本来，商业如水流，逐利是资本的本性。李嘉诚想去哪里就去哪里。但是，鉴于李嘉诚最近二十年在中国获取财富的性质，似乎不仅仅是商业那么简单。众所周知，在中国，地产行业与权力走的很近，没有权力资源，是无法做地产生意的。由此，<b>地产的财富，并非完全来自彻底的市场经济</b>。恐怕不宜想走就走。</p>
-<p>别让李嘉诚跑了。</p>
-<p>敏感如李嘉诚，绝不会感觉不到。在中国，经济周期与政治周期密切相关，由此，一撤资，二撤资，三撤资，其商业帝国，在大陆欲上演金蝉脱壳之法。</p>
-<p>前年是李嘉诚最不平凡的一年，先是工人罢工浪潮，风起云涌，后是在大陆的抛售，受到了巨大的非议。就民间形象而言，李嘉诚从此前的商界领袖，教父级人物，转变为长着獠牙的怪物。令人遗憾，李嘉诚本人应也比较伤心。</p>
-<p>就官方感受而言，李嘉诚<b>不顾念</b>官方此前对其在基础设施，港口、地产等领域的大力扶持，<b>在中国经济遭遇危机的敏感时刻，不停抛售</b>，造成悲观情绪在部分群体中蔓延，<b>其道义的高点，已经失守</b>。低买高卖，确实是市场经济，但是，<b>地产、港口等产业，恰恰是中国最不市场化的产业，没有权力的扶助，哪里来的机会？合作时借权力，卖出时说市场，似乎双重标准，让人难以淡定。</b></p>
-<p>香港富豪榜的前几名竟然全部为地产商，显示了香港产业的畸形。而这种畸形产业的背后，隐藏着香港社会结构的畸形，而豪族的出现，以及贫富分化的眼中，则严重危害了香港社会的活力。</p>
-<p>其实，李嘉诚只不过是一介小商人，有何能量影响香江?能操控香港万民福祉与未来者，国家此前的治港思路滞后于现实发展，方才导致香港困局。未来需要改变思路，进一步造福香港万民。</p></blockquote>
-<h2><strong>部分回答：</strong></h2>
-<p> </p>
-<h3><a href="http://www.zhihu.com/people/king-lee-62">king lee</a>：</h3>
-<p>我怎么觉得是打TG和ZF的脸呢？</p>
-<p>“但是，鉴于李嘉诚最近二十年在中国获取财富的性质，似乎不仅仅是商业那么简单。众所周知，在中国，地产行业与权力走的很近，没有权力资源，是无法做地产生意的。由此，地产的财富，并非完全来自彻底的市场经济，那就不能想走就走。”<br>
-“低买高卖，确实是市场经济，但是，他的地产、港口等产业，恰恰是中国最不市场化的产业，没有权力的扶助和勾兑，哪里来的机会？合作时借权力，卖出时说市场，似乎双重标准，唯我是利。”</p>
-<p>嘿嘿，这位作者知道的太多了！</p>
-<h3>匿名用户：</h3>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7f36d47f3e46295fa47cbd6d90136638_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7f36d47f3e46295fa47cbd6d90136638_b.jpg" alt="7f36d47f3e46295fa47cbd6d90136638_b" width="475" height="723"></a></p>
-<h3><a href="http://www.zhihu.com/people/chester911">苏谨深</a>：</h3>
-<p>这位来自“瞭望智库”的发表了“别让李嘉诚跑了”一文的罗天昊，是一个什么样的智库作者呢？<br>
-就说一点，此人曾经还发表过“国家应善待美女资源”“中国应劝朝鲜主动割让出海口”“鲁迅头像应上人民币”等论述。</p>
-<p>至于这篇文章，我第一个想法就是这人借着声讨超人李的旗号，把权贵集团依托改革开放的“东风”，如何跑马圈地，如何强取豪夺，如何搜刮民脂民膏的行径全部抖了个干干净净。<br>
-这不就是打着红旗反红旗嘛！</p>
-<h3><a href="http://www.zhihu.com/people/cao-da-shen-19">黄林茂</a>：</h3>
-<p>估计李嘉诚看完蛤蛤一笑“我太tm机智了”。</p>
-<h3>匿名用户：</h3>
-<p>如果这代表官方意志的话，起码有以下几点重大突破：</p>
-<p>1，彻底承认了社会主义市场经济尝试的失败。我们就是有权才能做大，站队才能赚钱。管你首富什么鬼，只是我的棋子，所谓原罪非罪，罪非显罪，欲加其罪，万事皆罪。<br>
-2，彻底断绝了服务型政府的推进努力，明目张胆的回归革命性政党。让你经营让你做大，就是养兵千日用兵一时。什么，你说守法经营，市场经济？没我哪有你，管你私产党产，你的就是我的，我的还是我的！<br>
-3，公然为泛道德化的文革思维招魂，彻底击穿今上所说依法治国理念。法无禁止，道德审判；道德合理，政治挂帅；政治可靠，原罪难免。总之一句话，别拿法律当挡箭牌，什么市场行为，边去吧!</p>
-<p>希望这只是一个新的庸俗部门中新进的某位舔痈舐痔的无耻文人的投名状吧。从郭沫若到何祚庥，好似不拿点挑战常识的东西来做做目标，就真的难以表现足这投名状的拳拳热诚。</p>
-<p>有上面好多知友说到了决策层新老之间的某些更迭，和所带来的矛盾。众所周知的原因你我均无从得知详情，或讨论已知。</p>
-<p>但是有一点是肯定的，今上，博士不是没有辨别力的傻瓜。被泼脏水，往左掰不是一天两天了。</p>
-<p>续貂<a href="http://www.zhihu.com/people/82b1d7c2841d2ed80f5ad7fd0beffd01" data-hash="82b1d7c2841d2ed80f5ad7fd0beffd01" data-tip="p$b$82b1d7c2841d2ed80f5ad7fd0beffd01">@栾汝元</a>童鞋的段子，感觉无限悲伤：<br>
-老乡，别跑，跟着我们分土地！<br>
-老乡，请自觉支持大公社，上交土地！<br>
-老乡，别跑，我们保护民族工商业！<br>
-老乡，社会主义改造是对资本家的最后机会！<br>
-老乡，别跑，我们改革开放了！<br>
-老乡，书记找你谈话！<br>
-老乡，别跑，我们转型升级呢！<br>
-老乡，别和国资抢啊！<br>
-老乡，别跑，我们要提振信心啊！<br>
-老乡，说你呢，别跑！<br>
-老乡，吃完了就跑能行么！<br>
-老乡，别跑，我开枪了哈！</p>
-<p>怕了你们这些帝国蛀虫，匿名吧。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a851e065371980fba7664d1513210937_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a851e065371980fba7664d1513210937_b.jpg" alt="a851e065371980fba7664d1513210937_b" width="121" height="138"></a></p>
-<p>板砖党，以下为原文，再次感叹一遍语言暴力的精髓。。。李超人傲立亚太商界的时候貌似还没回归吧。。。然而。。。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a17a6eaf0180fedcb494af474eac6268_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a17a6eaf0180fedcb494af474eac6268_b.jpg" alt="a17a6eaf0180fedcb494af474eac6268_b" width="250" height="176"></a></p>
-<h3><a href="http://www.zhihu.com/people/shisu">石苏</a>：</h3>
-<p>30年改革开放成果既将毁于一旦。<br>
-如果下一届还是这俩，记得要抱篮球渡海逃难。</p>
-<h3><a href="http://www.zhihu.com/people/liuhuoliunian">流火流年</a>：</h3>
-<p>原来五毛们常说的“看中国不爽你移民啊”的意思是你人可以走，钱得留下。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/45028A71F96E6606A3649B7FC12B4F85.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/45028A71F96E6606A3649B7FC12B4F85.jpeg" alt="既然做不成朋友" width="500" height="390"></a><br><em>配图与本文内容无关／来源：暴走漫画<br></em><br><strong>［更多网友回答请移步知乎原帖］</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%BE%E7%AB%8B%E7%9A%84%E6%99%BA%E5%BA%93%E6%89%80%E5%8F%91%E7%9A%84%E3%80%8E%E5%88%AB%E8%AE%A9%E6%9D%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/?category=18271" rel="tag">改革开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -789,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/></td>    </tr>
 </table>

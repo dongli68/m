@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://t6us7zxm.azurewebsites.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-2/" target="cdt-mirror">【麻辣总局】“记住，我们是正义的化身”</a>
+</h2>
+<p><p>@弹弓子段子漫画：东德领导人昂纳克从苏联访问回来，在电视台上说：苏联依旧是我们社会主义阵营的领路者。主持人问：那么苏联的领路者是谁？昂纳克：伟大的苏联共产党。主持人：我是问苏共的领路者是谁？昂纳克：仍然是勃列日涅夫同志。主持人：他现在健康状况怎么样？昂纳克：很不幸他得了老年痴呆症，目前瘫痪在床上。（<a href="http://weibo.com/2094473151/BtaGPg6YU?type=comment#_rnd1442103252185">微博原文</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1eln975h0kcj20si0si4a6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1eln975h0kcj20si0si4a6.jpg" alt="7cd71fbfgw1eln975h0kcj20si0si4a6" width="550" height="500"></a></p>
+<p>@弹弓子段子漫画：纪委书记疲惫不堪地回到家中，一下瘫坐在沙发上。太太问：怎么那么累？书记：现在贪官太狡猾了，脏款都不知弄到哪里去了。太太：这还不好找？第一，藏地洞里了。第二，藏在群众中了～就是七大姑八大姨。第三，转移到根据地了～就是国外。第四，支援其它同志了～就是二奶、小蜜。抗日剧天天不都放这个？（<a href="http://weibo.com/2094473151/Bu7bHaImS?type=comment#_rnd1442103567512">微博原文</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1elufgcfqpej20si0si44h.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1elufgcfqpej20si0si44h.jpg" alt="7cd71fbfgw1elufgcfqpej20si0si44h" width="550" height="500"></a></p>
+<p>@弹弓子段子漫画：@米添醋 【这个真没有！】一领导接受纪检检查，纪检问：你有贪污受贿吗？领导答：没有！纪检又问：你有作风问题吗？领导答：没有！纪检再问：你有为人民服务吗？领导答：没有！纪检说：这个可以有！领导答：这个真没有！（<a href="http://weibo.com/2094473151/BxUMIb8HY?type=comment#_rnd1442103773225">微博原文</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1emnbk8ctjdj20i3141jvy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1emnbk8ctjdj20i3141jvy-463x1024.jpg" alt="7cd71fbfgw1emnbk8ctjdj20i3141jvy" width="550" height="1024"></a></p>
+<p>@弹弓子段子漫画：幼狼问老狼：”咱的同类落马的时候，贪腐罪名足可以治其罪了?何必再加上通奸罪名?”老狼：”大面积腐败，公权力是要被问责的，所以要把落马的同类搞成道德上的垃圾，让猪认为，那些落马的本身是个烂人，是道德丧失让他腐败的与制度无关。记住，我们是正义的化身。【段子来自@应天澜 】（<a href="http://weibo.com/2094473151/BAmqmvFN3?type=comment#_rnd1442103883492">微博原文</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1en5x0lfdv1j20i30l4tco.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1en5x0lfdv1j20i30l4tco.jpg" alt="7cd71fbfgw1en5x0lfdv1j20i30l4tco" width="550" height="584"></a></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1/?category=18271" rel="tag">为人民服务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8B%83%E5%88%97%E6%97%A5%E6%B6%85%E5%A4%AB/?category=18271" rel="tag">勃列日涅夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93%E5%AD%90/?category=18271" rel="tag">弹弓子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93%E5%AD%90%E6%AE%B5%E5%AD%90%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">弹弓子段子漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">政治漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E5%85%B1/?category=18271" rel="tag">苏共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94/?category=18271" rel="tag">苏联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BB%95%E5%9B%BE%EF%BD%9C%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E5%88%AB%E8%AE%A9xxx%E8%B7%91%E4%BA%86/" target="cdt-mirror">仕图｜如何正确使用“别让XXX跑了”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%86.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%86.jpg" alt="别让他跑了" width="550" height=""></a><br><em>题图为“别让他跑了”的最彻底办法</em></p>
+<p>瞭望智库的神文《别让李嘉诚跑了》，其实不是骂李嘉诚没心没肺的。</p>
+<p>要表达的意思是“老九不能走”“老土豪带带我”，“你们真是的，怎么把客户给弄走了呢”。谈论的也是富人的社会责任，没什么太大的问题。</p>
+<p>最冒犯的其实是那句“别让李嘉诚跑了”的语态。</p>
+<p>中老年国师不太可能为了微信公号而标题党，那写这种语句就是因为年轻时候受的教育问题了。</p>
+<p>我特地去搜索引擎搜了一下“别让他跑了”</p>
+<p>结果适用范围如下：</p>
+<p>有抢车的酒鬼</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%862.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%862.jpg" alt="别让他跑了2" width="360" height="81"></a></p>
+<p>有恐怖分子</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%863.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%863.jpg" alt="别让他跑了3" width="360" height="76"></a></p>
+<p>毒贩子</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%864.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%864.jpg" alt="别让他跑了4" width="360" height="95"></a></p>
+<p>有自家人</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%865.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%865.jpg" alt="别让他跑了5" width="535" height=""></a></p>
+<p>有的是听不懂汉语的外国人</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%866.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%866.jpg" alt="别让他跑了6" width="360" height="135"></a></p>
+<p>有的根本就不是人，而是球。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%867.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%88%AB%E8%AE%A9%E4%BB%96%E8%B7%91%E4%BA%867.jpg" alt="别让他跑了7" width="360" height="211"></a></p>
+<p>大家可以看得出：</p>
+<p>“别让他跑了”这样的句式，基本上有三层意思。</p>
+<p>1.“他”在身份、气势、文化上是弱势的，不少都是贼。</p>
+<p>2.被人面对面说这句话的人，被提出了要求，而且富有责任。</p>
+<p>试着比较一下这两句话</p>
+<p>“拦住他。”（我没拦住不好意思）</p>
+<p>“别让他跑了！”（我让他跑了，我跟他是一伙儿的）</p>
+<p>让，代表着责任，跑了有你的过错。这句话里其实有三个角色。</p>
+<p>3.还可能有一种用法，就是金龟婿那种，有一种狎昵的意味。</p>
+<p>比如：</p>
+<p>“主人，那家伙又来电话啦。”（真的是很LOW的铃声）</p>
+<p>相声演员爱用这个句式，确实是有喜剧效果，比如侯跃文、石富宽的《杂谈地方戏》：</p>
+<p>“了不得啦,晚香玉跑这儿现眼了,别让他跑了啊,哗。”</p>
+<p>比如郭德纲、张文顺的《大审》</p>
+<p>“合字儿的，把着点儿啊，别让他马了。”（哥们，看着点，别让他跑了）</p>
+<p>看了这么多，大家应该也发现了，“别让谁谁谁跑了”真的是一个很无礼的句式，被说跑了的也被冒犯，阅读的人也被冒犯。</p>
+<p>李嘉诚是一个港英和特区都认可的太平绅士，英国时期还当过爵士，虽然不是全国政协委员，但是全国政协常委的爸爸，用这样冒犯性的语言，可以说是非常不妥的，国师哪有那么好当的，就会念弥陀佛，会给水里下毒，会用引魂幡就行了。那是评书。</p>
+<p>同样的效果，说得艺术一点，就要好得多。</p>
+<p>《笑傲江湖》里，岳灵珊跟林平之吵翻了，她要自己回嵩山找父母，令狐冲怕她出事，但是不好跟任盈盈说，反倒是任盈盈反过来劝他：“别让岳灵珊跑了。”</p>
+<blockquote><p>令狐冲点了点头，伸出手去握住她左手，只觉她手掌甚凉，柔声道：“盈盈，在这世上，我只有你一人，倘若你我之间也生了甚么嫌隙，那做人还有甚么意味？”盈盈缓缓将头倚了过去，靠在他肩头上，说道：“你心中既这样想，你我之间，又怎会生甚么嫌隙？事不宜迟，咱们就追赶前去，别要为了避甚么嫌疑，致贻终生之恨。”令狐冲矍然而惊：“致贻终身之恨，致贻终生之恨！”</p></blockquote>
+<p>“别要为了避甚么嫌疑，致贻终生之恨。”不谈岳灵珊的善恶，只说令狐冲的利害。对两者都没有冒犯。</p>
+<p>学习一下，就觉得好得多，也像个智库了。“别为了面子，不去追李嘉诚，致贻终生之恨。”</p>
+<p>我们再看一个小门户的小姐怎么表达类似的意思：</p>
+<blockquote><p>岳灵珊道：“大师哥，我的丈夫……平弟……他……他……瞎了眼睛……很是可怜……你知道么？”令狐冲道：“是，我知道。”岳灵珊道：“他在这世上，孤苦伶仃，大家都欺侮……欺侮他。大师哥……我死了之后，请你尽力照顾他，别……别让人欺侮了他……”</p></blockquote>
+<p>岳灵珊挨了一剑，也没有口出恶语，同样是别让林平之跑了，说的是，“尽力照顾他”。</p>
+<p>“首长……我们的地厂商……嘉诚……他……他……失了信心……很是可怜……你知道么”</p>
+<p>“他跑到外国……孤苦伶仃，大家都……欺侮他……老首长，我写完这篇文章以后，请你尽量把他留在国内……别让人欺负了他……”</p>
+<p>虽然有点怪，但是好像舒服多了，也是表达的同样的诉求对吧。</p>
+<p>这就是大家闺秀（虽然也是黑涩会）和草根国师的区别。草根国师接受的是一种过分防备、胜利者通吃、你敢怎样、必有阴谋的世界观。</p>
+<p>所以他落笔的时候，言辞会特别粗鲁，特别粗鲁，特别的粗鲁鲁。</p>
+<p>国歌告诉我们，重要的事情说三遍，还要多一个尾音儿。</p>
+<h2>附作者转载声明：</h2>
+<p>须注明作者微信公号及二维码：<br><strong>仕图（shi4tu2）</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" alt="仕图" width="240" height="240"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BB%95%E5%9B%BE%EF%BD%9C%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E5%88%AB%E8%AE%A9xxx%E8%B7%91%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%95%E5%9B%BE/?category=18271" rel="tag">仕图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%AE%A3/?category=18271" rel="tag">文宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E7%A7%B0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B7%B2%E6%88%90%E4%B8%BA%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8%E7%9A%84/" target="cdt-mirror">奇客资讯 | 最高法院称网络安全已成为公共安全的重要部分</a>
 </h2>
 <p><p>最高法院发布了《<a href="http://www.court.gov.cn/fabu-xiangqing-15478.html" target="_blank">最高人民法院关于充分发挥审判职能作用切实维护公共安全的若干意见</a>》，《意见》 将网络安全列入公共安全的重要部分，</p>
@@ -87,6 +163,36 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%A7%8B
 <a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%866400%E4%B8%87%E4%BA%BA%E5%90%83%E8%B4%A2%E6%94%BF%E9%A5%AD/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98/?category=18271" rel="tag">中国官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98/?category=18271" rel="tag">官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98/?category=18271" rel="tag">政府官员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93%EF%BD%9C%E5%8B%95%E7%9B%AA%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F/" target="cdt-mirror">香港独立媒体｜動盪中的中國經濟</a>
+</h2>
+<p><p>文／Idealgas</p>
+<p>【破土編者按】最近，中國股市反复無常，而政府為了阻止股價下跌，禁止大投資者賣出股票，亦停止首次公開募股（IPO），限制炒家做空的機會。然而，種種跡象都顯示，中國經濟已經進入一波新的危機：瘋狂的炒賣投機，社會越趨不平等，經濟內需不足；這些都是中國經濟面臨的課題，若果處理不善，很可能會引發新一波的政治危機。</p>
+<p>儘管政府發出了一系列聲明以消除投資者的疑慮並穩定股票價格，中國股市仍然反复無常。即使中國人民銀行行長周小川在上週末的G20峰會上說股市的調整已經接近尾聲，週一上證指數還是下降了2.5%。</p>
+<p>在中國政府調整了股息稅來鼓勵長期投資者，並提議為股票交易建立熔斷機制以限制近幾個月的劇烈波動之後，股市於週二回升2.9%，週三繼續回升。週三中國財政部長宣布，政府將繼續加強財政政策，提高基礎設施支出，加快稅制改革，以回應對經濟減速的擔憂。週四，股價又下降1.4%。這些措施都反映了中國執政者的掙扎程度。自從六月份上證指數達到最高點，如今它已經下跌了40%，5萬億美元在大陸股市中蒸發。</p>
+<p>政府試圖阻止股價下跌，它禁止大投資者賣出股票，停止首次公開募股（IPO），限制做空。中國證監會作為監管全國股票市場的機構，也精心組織了股票購買——使用中央銀行提供的現金。實際的買入主要由「國家隊」執行——包括代表政府進行操作的投資者、中間人和基金。</p>
+<p>高盛估計中國政府從六月中旬以來投入股市的金額達到1.5萬億元或2360億美元，其中單單八月份就投入了6000億元人民幣。全部支出達到了中國所有股票價值的3.5%。</p>
+<p>北京還發動了警察力量，熟諳經濟犯罪的官員，監視著投資基金以及與國家證券監管部門的人員相串通的經紀人。在八月下旬，作為中國最大的經紀人公司和投資銀行的中信集團的八個高管被抓，他們被懷疑從事內部交易。毫無疑問，政府將利用這些抓捕來轉移注意力，因為它曾鼓勵瘋狂的股票投機，使股市在12個月內上漲了150%。領導人拋棄了社會主義，信誓旦旦地聲稱依靠他們可以增加就業、提高生活水平。股市崩盤了，同時實體經濟頹勢明顯，這將在政治上削弱其統治。</p>
+<p>政府還面對著另一種經濟圍剿——資本從中國流出，國家外匯儲備大量減少。花旗集團估計外匯儲備自去年升至4萬億美元之後，如今已經降至不到3.7萬億，今年年​​底將下降到3.3萬億。七月份貨幣外流創造了480億美元的記錄。將來美國利率的提高將加速中國的資本外逃。</p>
+<p>政府要求加強對個人和商業外匯兌換的控制，但他們常常可以通過非法途徑兌換貨幣。自八月十一日人民幣貶值之後，中央銀行支出了大約2000億美元來支撐匯率。</p>
+<p>雖然中國的外匯儲備按國際標準來看還是相當龐大，但其全球影響還是不容低估。德國銀行的貨幣戰略分析員George Saravelos告訴金融時報：「中國股市的下跌或人民幣的走弱，影響不是最大的。影響最大的是中國外匯儲備的減少，以及它對全球流動性的影響。中國人民銀行的行動等同於量化緊縮。」</p>
+<p>在一篇名為「中國經濟面臨難以為繼的危險」的評論文章中，金融時報專欄作家Martin Wolf反擊了那些認為中國實體經濟雖然增速放緩但依然強壯，從而低估股市動盪影響的分析：</p>
+<p>「股市動盪不是無關緊要的。北京2000億美元的救市行動失敗了，截至2015年7月，今年中國的外匯儲備減少了3150億美元。北京需要找到一個替罪羊。有跡象表明資本外逃以及政策制定者的恐慌。這些都說明他們缺乏信心。」</p>
+<p>除此之外，Wolf關注更廣泛的問題。他說：「潛在的危機可能是巨大的。至少有三個原因可以說明為什麼中國經濟增長可能難以為繼：當前模式不可持續；債務積累過多；處理這些挑戰會造成需求銳減。」</p>
+<p>最近的經濟數據都顯示出了衰退，尤其是製造業和出口。貿易數據表明，以美元計，上個月出口同比下降5.5%，今年前8個月的出口整體下降1.4%。</p>
+<p>中國仍然保持著可觀的貿易順差，這是因為進口減少了14%——連續10個月的下降。儘管商品價格持續下跌，煤、鐵礦石、銅、鋁等商品的進口量依然在減少，這表明製造業和建築業的萎縮。上周官方發布了八月份製造業經理採購指數，僅為49.7。該數據低於50就表明緊縮。</p>
+<p>本週，中國修正了2014年的經濟增長率，從7.4%改為7.3%。但很多分析者質疑這些數據，包括2015年官方的7%增長目標，他們認為實際增速遠低於7%。由於2008年全球金融危機，中國政府發放了大量廉價信貸，並花費在經濟刺激措施上。但這些措施沒能刺激生產活動。它們鼓勵了房地產和後期股市的瘋狂投機。如今這些泡沫正在破裂，帶來了經濟增長可持續性的問題以及地方政府債務積累過多的問題。</p>
+<p>中國執政者、國際貨幣基金組織、世界銀行和許多經濟評論員為中國提供的診斷是，中國正在經歷從出口導向型經濟轉向內需經濟的自然陣痛。然而，這種分析錯誤地將中國抽離全球經濟的脈絡：中國經濟增長的決定性因素，是它成為了世界上主要的廉價勞動平台。任何使中國經濟重新聚焦於國內消費的嘗試都將導致更高的工資，從而削弱其作為製造業中心的競爭力。其他工資水平更低的亞洲國家，比如越南和孟加拉，正在吸引更多的投資份額。</p>
+<p>中國經濟難以為繼，這將產生更深遠的影響，不僅僅是經濟的，而且是政治的。官方經濟增長率已經低於被認為是維持就業和社會穩定的底線的8%。在不斷擴大的社會不平等的背景下，更嚴重的下跌將產生社會動盪，並危及整個體制。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93%EF%BD%9C%E5%8B%95%E7%9B%AA%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -321,6 +427,61 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
 <a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%BC%80%E5%A7%8B%E8%A6%81%E5%AF%B9%E8%8A%9D%E5%A3%AB%E5%88%86%E5%AD%90%E5%8A%A8%E6%89%8B%E4%BA%86/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90%E5%B8%9D/?category=18271" rel="tag">包子帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B7%AF%E9%80%8F%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6%E9%99%90%E5%88%B6ps4%E5%9C%A8%E5%8D%8E%E9%94%80%E5%94%AE%EF%BC%88%E6%9B%B4%E6%96%B0%E7%89%88%EF%BC%89/" target="cdt-mirror">路透｜中国的审查制度限制PS4在华销售（更新版）</a>
+</h2>
+<p><p>路透东京9月17日 – 索尼电脑娱乐执行长Andrew House表示，尽管中国去年取消了禁止外国游戏机销售的禁令，但严格的审查制度依然限制了索尼PS4的销售。</p>
+<p>“我们多少面临挑战，必须应对审查机制。这可能旷日费时，”Andrew House在周四接受路透专访时表示。“挑战在于要和它们的审查限制周璇。”</p>
+<p>索尼于3月在中国开卖PlayStation 4，希望能把握14年禁令结束的机会。但中国严苛的审查制度使得游戏数量受限。</p>
+<p>“我觉得PS4开卖的情况不是很火爆，”不过他称仍然认为“作为娱乐媒介，游戏在中国拥有巨大潜力。”</p>
+<p>House在东京电玩展的间隙做出上述讲话。一天之前，索尼称调降PS4在亚洲的售价，以刺激销售。</p>
+<p>PS和镜头帮助索尼抵消了智能手机和电视等传统电子产品销售的下滑。该公司预计本财年营业利润增长逾三倍。</p>
+<p>市场研究公司VGChartz的数据显示，PS4自2013年底上市以来，已经卖出约2,500万部，几乎是微软XBox One的两倍。</p>
+<p>7月索尼将本财年PS4的销售预估从1,600万部上调至1,650万部。House表示，对这个销售预估感到满意，并期望能超出这个目标。</p>
+<p>“我们希望还能增长，尤其是欧洲，那里的市场似乎特别强劲，这可能是预估上调的原因。”他说。(完)</p>
+<p>(编译 李春喜 审校 王洋)</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B7%AF%E9%80%8F%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6%E9%99%90%E5%88%B6ps4%E5%9C%A8%E5%8D%8E%E9%94%80%E5%94%AE%EF%BC%88%E6%9B%B4%E6%96%B0%E7%89%88%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E5%B0%BC/?category=18271" rel="tag">索尼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%9C%8D%E4%BB%8E%E6%94%BF%E5%BA%9C%E7%AE%A1%E6%8E%A7/" target="cdt-mirror">翻墙 | 中国要求美国科技公司服从政府管控</a>
+</h2>
+<p><p>
+</p><div dir="ltr">长期以来，中国政府都把该国巨大的市场当作与美国科技公司博弈的筹码，现在它要求一些美国公司直接承诺遵守一些有争议的政策。这些政策可能会要求公司向政府提交用户数据和知识产权。
+<p>三位了解内情的人说，今年夏天早些时候，中国政府向一些美国科技企业发送了一份文件，要求它们承诺不会危害中国的国家安全，并且会在中国境内保存中国用户的数据。这三位人士要求匿名。</p>
+<p>信中还要求美国公司确保其产品“安全可控”。这是该领域的一句行话，行业团体称，可以借此迫使企业建立允许第三方访问系统的“后门”，提供加密密钥，甚至交出源代码。</p>
+<p>该文件突显了中国对美国高科技产业施加影响力的方式。北京方面计划下周在西雅图举办一场科技论坛，让掌管中国互联网的鲁炜与苹果(Apple)、Facebook、IBM、谷歌(Google)和Uber等科技企业会面。这场论坛显示出，中国可以让一些世界领先的科技公司参会，尽管奥巴马总统表示，中国反竞争的行为正在损害美国公司的利益。这个论坛的时间安排配合了习近平首次对美进行国事访问的安排。</p>
+<p>对于美国科技企业来说，这种情况颇为棘手。许多公司希望能赶在本地竞争对手占据市场之前，抓住中国的商机。但它们必须谨慎行事，因为中国政府对一些问题相当敏感，比如内容审查和安全问题。中国是世界上最大的互联网市场，但Facebook和谷歌都遭到了中国网络过滤系统的屏蔽，无法在该国提供核心业务。</p>
+<p>目前还不清楚是否有哪家被邀请参加西雅图科技论坛的公司收到了承诺书。一名知情人士说，该文件的发送方是“中国信息安全测评中心”，很可能是在中国互联网主要监管机构的压力下发送的。</p>
+<p>目前还不清楚中国官员希望这些公司何时对这份承诺书做出回应，但他们可能希望在下周的科技论坛上，或者是中国互联网监管部门在今年晚些时候举办的互联网大会上看到一些迹象，知情人士表示。</p>
+<p>中国国家互联网信息办公室没有回应对这份承诺书发表置评的传真请求。</p>
+<p>Uber、苹果、谷歌、IBM、微软和Facebook尚未回应记者的置评请求。</p>
+<p>该承诺书使用的措辞与最近颁布的《国家安全法》相似。该文件的开头是：“本公司严格遵守‘不损害国家安全，不损害消费者利益’两条底线”。它还要求该公司作出六项承诺，其中一些看似无害，如保证产品的安全性等，有些则不然，比如配合外界“产品的安全可控”进行检查。这可能是在暗示，同意中国对产品进行监控。</p>
+<p>在过去一年中，中国官员曾试图说服美国公司支持一些不同类型的声明。在中国互联网监管机构去年主办的一场会议上，他们让与会者对一份声明提供反馈，但只留出了很短时间。该声明称，各国应当有权制定自己的互联网法律，即使这些法律授权对互联网进行审查和监控。因为遭到反对，这份声明最终遭到放弃。</p>
+<p>签署新的承诺书，将会开创美国公司公开与北京方面合作，使其能够窥探用户的先例。相反，拒绝签署会给进军中国广阔市场的公司带来新的限制或处罚。</p>
+<p>在大多数情况下，美国公司会设法在中国按照北京方面的意愿行事，同时在美国开展游说，呼吁就中国的一些法律表达反对。它们称，这些法律限制市场准入，迫使企业进行技术转让。</p>
+<p>为了保护在中国的业务，一些公司已经转让了知识产权，并与潜在的中国竞争对手开展合作。一些公司承诺做出大规模的新投资，并使用中国共产党领导层喜欢的说辞。</p>
+<p>叫车服务公司Uber的首席执行官特拉维斯·卡兰尼克(Travis Kalanick)最近发表讲话时表示，该公司带来的进步“必须与稳定性相和谐”，中国官员经常使用类似说法来显示社会及政治动荡的危险。IBM在中国的营销材料使用了“构建和谐社会”、“中国梦”等说法，后者是由习近平创造的短语，象征着中华民族的复兴。</p>
+<p>本月早些时候，戴尔(Dell)承诺未来10年在中国投资1250亿美元，这一金额大约是该公司在2013年私有化时市值的五倍。思科公司(Cisco)在6月份承诺，未来几年在中国投资100亿美元。高通(Qualcomm)今年早些时候表示，该公司将帮助一家中国芯片制造商研发先进的半导体材料，IBM将某一系列服务器的知识产权转让给了一家中国公司。</p>
+<p>高通拒绝置评。思科和戴尔未即回应置评请求。</p>
+<p>“大家都认为，如果被视为中国的朋友，那进军中国市场就要容易一些，”对外关系委员会(Council on Foreign Relations)的高级研究员亚当·谢加尔(Adam Segal)说。“由于压力急剧增加，大家都在加倍努力地运用这个策略。”</p>
+<p>源地址：http://cn.nytimes.com/technology/20150917/c17pledge/</p></div>
+<div>翻墙技术博客<a rel="nofollow" target="_blank" href="http://www.chinagfw.org/2013/09/blog-post.html">订阅地址及社交帐号</a></div>
+
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
+<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%9C%8D%E4%BB%8E%E6%94%BF%E5%BA%9C%E7%AE%A1%E6%8E%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -597,123 +758,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8A%A8%E5%90%91%EF%BD%9C%E7%8E%8B%E5%86%9B%E6%B6%9B%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%81%AD%E9%81%87%E6%89%A7%E6%94%BF%E5%9B%B0%E5%A2%83-%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3/" target="cdt-mirror">动向｜王军涛：习近平遭遇执政困境—解读习近平大阅兵失态</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/basdfasd.jpg" alt="basdfasd" width="549" height="308"></p>
-<p>九月三日，习近平开始期待已久的大阅兵！资料显示，这是创造了中国人民解放军阅兵史上几个之最的一次阅兵。坊间传闻，习近平想通过此次阅兵展示大权在握的威势，震慑国际国内的反对者。但是，阅兵中的习近平神情凝重，没有那种君临天下的气势和踌躇满志的洒脱，而是显得心事重重。若不是有深重忧愁，如此重大场合，以习近平这样的个性，不会在期待和准备已久的重大庆典中如此失态。习近平所忧何事？专制政治的封闭特性使得人们无法完整准确及时洞悉实情，但这个实情又对中国局势研判太重要了。笔者只能根据多方知识和线索冒昧揣摩一番。虽然难以确信解读了习近平的愁虑，但可以作为理解习近平困境的一些线索。</p>
-<p>习近平作为催化高层权力斗争</p>
-<p>阅兵式上习近平的反常神色表明习近平的反常心情：烦恼、气愤和忧虑。结合最近发生的一系列事件，可以找到理解他的反常心态的线索，这些反常心态来自于他执政面对的三个挑战：执政绩效、权力斗争和国际冲突。</p>
-<p>作为立志有为的共产党领导人，习近平就位中共掌门以来，其主要作为在三个方面：一是通过权力斗争争取建立名副其实的绝对掌控党国机器的领袖地位；二是推进全面改革方案（二○一三年的六十条）；三是反腐败重建人们对共产党执政的正当性认同。这三条的哪一条都会为他树立不少政敌，让他面临难以驾驭的挑战。</p>
-<p>反腐败和整顿政风是习近平执政的最大亮点，然而，这个亮点也为他招致最大的麻烦，这就是各级干部不作为。现在不仅说不作为，而且许多当官的要退出官场。中共与自由民主国家不同，那些国家政府权力很小，政党更是对社会日常管理没权力也不承担责任。中共政党和政府几乎要控制社会生活的各个方面，如果这个机器运转缓慢，会导致许多灾难性问题。</p>
-<p>权力斗争对习近平更是没完没了的挑战。他的权力斗争要完成的任务和日程表很硬：必须在十九大之前拿下多数代表和中央委员，否则他会在权争中失败，他的改革和建设也会前功尽弃。就目前情形看，他通过太子党血脉关系暂时建立的强势仍可保障政治地位安全，反腐也艰难地进行拿掉一些政敌，震慑低层官员抵抗，一些工作小组至少形式上控制着重要决策和党国机器的日常运转。但这些都是权宜之计，只要不能在十九大上对政敌取得多数优势，就可能会被合法程序干掉。按照目前的时间表，习近平很难实现自己的人事布局计划，尽管有反腐败、连坐制和干部选任程序破格提拔作为手段，照目前进度，习近平无法在十九大召开前两年或一年拿下十九大中央委员多数，届时，如果没有几乎政变式的动作或各派大妥协，习近平可能会一败涂地。权力斗争不仅导致官场不少人消极不作为，而且可能进行一些破坏活动。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/h1.jpg" alt="h1" width="549" height="308"></p>
-<p>日常管理事故变成执政灾难</p>
-<p>党政官僚的抵制对中共这样的党国具有如此大权力承担如此多责任的国家绝非小事。由此导致的一般绩效下降，虽不足为近虑，但肯定是远忧。更多的近虑是必然产生的大事故、大灾难，这会严重影响人们对执政者的信心和好感，导致社会政治危机，在局部地区引发大规模骚乱甚至叛乱，进而有发展成大规模政治风潮的可能。这大概就是胆大包天但又世故老到的毛泽东在林彪垮台后不敢全面任用四人帮而是启用被文革打倒的老干部的原因。他害怕他的忠诚的追随者缺乏管理经验和能力导致日常管理事故变成执政灾难。</p>
-<p>最近发生的股市风波和天津港危险化工品爆炸案就集中暴露出这样的致命弱点。股市或金融市场的管理即使对于老牌的资本主义经济也是难度很大的工作，经常有管理不当导致的各种牵动全球经济的灾难甚至牵动政局不稳。中国发生股市风波以及政府超常规救市失败，立即引发各种政治谣言，表明中国政局脆弱到股市波动与政局不稳之间已经有直通快车。如果股市的谣言还不是针对习近平，那天津港爆炸案引发的舆论简直到了哗变的程度，直接质疑习近平的治理能力至少说危机处理能力。</p>
-<p>这类灾难对习近平的挑战在于灾难的善后，善后工作主要是问责，谁承担责任和如何改善以后工作。政治谣言中的权力斗争导致灾难也许不是事实，但在权力斗争白热化时易于打动双方，至少会使得权争卷入者利用谣言打击政敌。追究责任，在中国这样权力交错没有人可以全权决策的制度中很难做到，这就使得追究责任其实是谁做替罪羊冤大头的问题。如果灾难善后不当，不论灾难因谁而生，习近平的执政能力都会被质疑，为其政敌向其被问责提供口实和机会。总之，大灾难善后是权力斗争激化到不可调和的催化剂。</p>
-<p>循此思路思考，也许阅兵前习近平、江泽民和胡锦涛及多位在任离任核心官员间发生过一次激烈的争吵。胡锦涛手打哆嗦可能是病或争吵导致的情绪不稳定。</p>
-<p>危机深化会导致习执政基础不稳</p>
-<p>股市危机的灾难性后果还引发习近平在国际威信的下降。为了防范股灾对政局的冲击性影响，坊间盛传习近平逼迫国务院强力救市，在遭遇更大灾难后就动用公安机关抓人镇压的方式救市。这样明目张胆地破坏市场规则的做法，引起全世界怀疑习近平是个为了执政不择手段的人，心黑手狠。这种对经济管制的不满，加上习近平执政以来在周边国家的强硬态度和与俄国结盟的战略姿态，使得西方在政治上也对习近平不信任，这大概是大阅兵中主要自由民主国家缺席的原因。这还会影响习近平即将进行的访美之行，不少美国人已经严阵以待，准备质问习近平的各种做法。加上美国两党政治总是在选举期间提出挑衅话题，这不是白宫弱势总统奥巴马能控制的。</p>
-<p>那些当年反法西斯战争中中国战场的主要盟友缺席中国纪念反法西斯战争的纪念庆典，不仅打击习近平的国际威信，也严重削弱他的国内威信特别是官场中威信。许多人不了解的事实是：自邓小平决策开放国门以来，对外关系特别说对美关系的好坏已经是中共执政的重要因素和主要评价标准。</p>
-<p>虽然习近平因反腐、亲民秀和民族主义的姿态在民间为他建立一定的声望，但牢牢把握民间独立舆论话语权的知识界和公共讨论空间，对习近平钳制人口镇压异议人士早就深恶痛绝。那些空洞虚幻的民望正如人们所说的民意如流水，一个事件就可以导致戏剧性急剧转变。一旦遭遇经济滑坡、重大灾变世故和外交，股灾、政府践踏规则暴力救市和即将发生汇率危机和房市危机，会导致人们对中国市场经济不信任，中国会出现资金外逃，那时经济肯定会滑坡。人们的不满就会爆发。</p>
-<p>也许这是习近平大阅兵愁绪的另一个来源。</p>
-<p>《动向》2015年9月号</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8A%A8%E5%90%91%EF%BD%9C%E7%8E%8B%E5%86%9B%E6%B6%9B%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%81%AD%E9%81%87%E6%89%A7%E6%94%BF%E5%9B%B0%E5%A2%83-%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E6%89%8B%E7%A4%BC/?category=18271" rel="tag">左手礼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/" target="cdt-mirror">纽约时报 | 习近平访美前维权人士郭玉闪获释</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%83%AD%E7%8E%89%E9%97%AA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%83%AD%E7%8E%89%E9%97%AA-222x300.jpg" alt="郭玉闪" width="222" height="300"></a>中国当局周二释放了一家研究所的创始人。三年前，这名创始人在法律活动人士陈光诚逃离住所后，帮助他在美国获得<a title="Link: http://www.nytimes.com/2012/05/20/world/asia/china-dissident-chen-guangcheng-united-states.html" href="http://www.nytimes.com/2012/05/20/world/asia/china-dissident-chen-guangcheng-united-states.html" target="_blank" rel="nofollow">庇护</a>。</p>
-<p>据家属及律师透露，传知行社会经济研究所创始人、学者郭玉闪和研究所的行政主管何正军都已获释。传知行研究所现已关闭。</p>
-<p>两人被控<a title="Link: http://cn.nytimes.com/china/20150428/c29civil/" href="http://cn.nytimes.com/china/20150428/c29civil/" target="_blank" rel="nofollow">非法印制图书及其他出版物</a>，虽然他们获得保释，但这些指控仍然有效。</p>
-<p>他们被获释前已被羁押将近一年。就在下周，中国国家主席习近平将前往美国，进行首次国事访问。一些分析人士认为，北京方面选择此时释放两人，是为了减轻华盛顿可能对中国人权记录提出的批评。</p>
-<p>今年38岁的郭玉闪并不符合煽动者的典型特征。他在2007年参与建立的研究所，利用专业知识和详实的数据，证明应该对出租车行业进行改革，并废除户籍制度，这种制度给来到大城市的农村移民的生活增添了麻烦。</p>
-<p>他避开了比较激进的改革诉求，比如同事许志永组织的一场持续时间短暂的运动：通过街头抗议活动突显官员腐败及教育不平等问题。当局迅速打压了那场“<a title="Link: http://cn.nytimes.com/china/20140116/c16citizen/" href="http://cn.nytimes.com/china/20140116/c16citizen/" target="_blank" rel="nofollow">新公民运动</a>”，并监禁了包括许志永在内的运动领袖。</p>
-<p>虽然传知行研究所的工作并不是特别激进，但他们的大部分资金，来自西方的自由派基金会。这一度引起了当局的警觉，当时北京方面担心，中东的“阿拉伯之春”革命会在中国产生影响力。</p>
-<p>但导致该研究所关闭，并使郭玉闪最终被捕的原因，极有可能是他帮助盲人律师陈光诚逃入美国驻北京大使馆的举动。该事件吸引了全世界的关注，让中国政府十分难堪。</p>
-<p>郭玉闪在2013年接受<a href="http://cn.nytimes.com/china/20141013/c13dissident/" target="_blank" rel="nofollow">采访</a>时表示，警方警告称，他帮助陈光诚从山东农村逃到560公里外的首都，这个举动会带来更为严重的后果。接受采访时，他刚刚结束长达81天的软禁。</p>
-<p>一年之后，警方在一天深夜突袭他在北京的住所，并将他带走。33岁的何正军在一个月后也被警方带走，两人<a title="Link: http://cn.nytimes.com/china/20150107/c07guo/" href="http://cn.nytimes.com/china/20150107/c07guo/" target="_blank" rel="nofollow">随后被控</a>犯有“非法经营罪”，警方称该研究所在未经官方许可的情况下印制了1.9万份出版物。</p>
-<p>在周二发送的信息中，郭玉闪的妻子潘海霞表示，他在周二午夜过后回到家中，潘海霞表示自己现在充当郭玉闪的律师，称他“精神还不错”，但拒绝让他接受采访。</p>
-<p>何正军的一名律师通过电话表示，得知自己的当事人获释时，他感到很惊讶。这名律师要求匿名，因为他不想引起当局的关注。这位律师表示，警方的指控缺少证据支持。</p>
-<p>“你会把杀了人的人放出来吗？”他问道。“他们被放出来就是因为他们根本没有犯罪。”</p>
-<p>中国知名异见人士、郭玉闪的朋友胡佳称，他获释是政府打出的一张“外交牌”，政府希望这能缓和北京方面因为打压独立记者、维权律师及政治改革倡导者，而受到的外界批评。他在电话中表示，“他们释放了1%的政治犯，就缓解了80%的压力。”</p>
-<p>但国际特赦组织(Amnesty International)中国问题研究员倪伟平(William Nee)表示，中国政府做出了一系列滥用权力、令人不安的举动，而郭玉闪的获释，应该不会分散白宫对这些问题的关切。比如，沿海省份浙江省开展了<a title="Link: http://cn.nytimes.com/china/20150811/c11china/" href="http://cn.nytimes.com/china/20150811/c11china/" target="_blank" rel="nofollow">针对基督教会的运动</a>，数百个安装在教堂建筑上的十字架因此被拆除。</p>
-<p>“虽然释放郭玉闪毫无疑问是积极的，但这并没有改变中国人权状况总体走向消极的基本情况，”倪伟平在电子邮件中写道。“这恰好符合我们在过去几十年里看到的常规模式，即在重要的国际盛会之前，中国会象征性地释放一两名异见人士。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E7%8E%89%E9%97%AA%E8%8E%B7%E9%87%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E7%BA%AA%E5%BD%95/?category=18271" rel="tag">人权纪录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98/?category=18271" rel="tag">人权问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%9F%A5%E8%A1%8C/?category=18271" rel="tag">传知行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E7%8E%89%E9%97%AA/?category=18271" rel="tag">郭玉闪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%B9%B418%E4%B8%875%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1-%E5%A4%9A%E6%95%B0%E5%9C%A8%E5%86%9C%E6%9D%91/" target="cdt-mirror">网易数读 | 中国每年18万5岁以下儿童死亡 多数在农村</a>
-</h2>
-<p><p>近日，联合国儿童基金会，世界卫生组织，世界银行，联合国经济与社会事务部人口司发布了《2015年儿童死亡率水平和趋势报告》。尽管1990—2015年间5岁儿童死亡率下降了53%，但与联合国千年发展目标要求的三分之二跌幅依然有不小差距。现在 全世界每天依然有 16000名5岁以下儿童死亡。</p>
-<p>在中国，1990年，5岁以下儿童死亡率为54‰，这一数据在2015年下降到11‰，年均降幅为6.5%，超过了联合国2015年18‰的千年发展目标。同样，1990年，中国有160余万名5岁以下儿童死亡，2015年这一数据为18万人，男女之间并未发现明显差异。婴儿死亡率在1990年为42‰，死亡人数为130万，这一数字在2015年分别降至9‰和16万人。而新生儿死亡率在1990年为30‰，死亡人数93万，2015年死亡率为6‰，死亡人数9万人。</p>
-<p>与中国情况相似的是，在世界范围内，最大的挑战同样在于婴儿出生时期。45%的死亡发生在新生儿阶段，即生命的前28天。早产、肺炎、劳动和分娩期间的并发症、腹泻、败血症和疟疾是新生儿的几大杀手。此外，还有接近一半的5岁以下儿童死于营养不良。</p>
-<p>虽然中国儿童死亡率的降幅超过目标，然而问题却不容忽视：根据国家统计局发布的2013年《中国儿童发展纲要（2 011-2020 年）》实施情况统计报告，2013年，中国城市5岁以下儿童死亡率为6.00‰，农村为14.5‰，农村是城市的2.4倍；城市婴儿死亡率为5.2‰，农村为11.30‰；城市新生儿死亡率为3.70‰，农村数据为7.3‰。5岁以下儿童死亡率和婴儿死亡率的区域间差距同样突出，西部地区是东部地区的一倍多。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2015091605040539fef.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2015091605040539fef.png" alt="2015091605040539fef" width="550" height="706"></a></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%B9%B418%E4%B8%875%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1-%E5%A4%9A%E6%95%B0%E5%9C%A8%E5%86%9C%E6%9D%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">中国儿童</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1%E7%8E%87/?category=18271" rel="tag">儿童死亡率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%B4%E5%84%BF/?category=18271" rel="tag">婴儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%B4%E5%84%BF%E6%AD%BB%E4%BA%A1%E7%8E%87/?category=18271" rel="tag">婴儿死亡率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0/?category=18271" rel="tag">死亡人数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E5%91%BD/?category=18271" rel="tag">生命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98/?category=18271" rel="tag">社会问题</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9D%A2%E4%B8%B4%E5%A4%B1%E8%B4%A5%EF%BC%9F/" target="cdt-mirror">德国之声 | 德语媒体：“一带一路”面临失败？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/018060356_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018060356_30300.jpg" alt="0,,18060356_303,00" width="600" height="338"></a></p>
-<p>在中国经济发展降温的大背景下，《商报》周二发表特约评论称，中国雄心勃勃的新丝绸之路项目有失败的危险；而《新苏黎世报》则关注了中国大型国有银行当前所面临的问题。</p>
-<p>“在习近平每次出国进行国事访问时，他总会宣传其’一带一路’的想法。北京想建立以中国为中心的基础设施网络，以加强中国在欧亚大陆的经济、政治影响”，《商报》9月15日的一篇特约评论在开头这样写道。</p>
-<p>作者随后写道，然而中国出于政治原因而做赔钱买卖的时代已经过去了。中国原本想要在欧亚经济圈投资高达9000亿美元，”然而现在需要这笔钱来稳定跛脚的经济和紧张的金融市场，中国外汇储备在8月份大幅回落。”</p>
-<p>“金融困难让很多基础设施项目被束之高阁。……此外，’一带一路’体现出经济政策上的一种倒退：北京没有更加着眼内需，而将赌注放在像巴基斯坦这些不稳定地区的新出口市场，中国国企过剩的产能被出口到国外。克服中国发展模式的结构危机以这种方式’绑架’了（中国）领导层。’一带一路’目前成了投机泡沫。”</p>
-<p>文章提到，”一带一路”倡议提出建立20个特别经济区。例如，在毗邻哈萨克斯坦的霍尔果斯市建立购物中心，然而在工程竣工两年后，毫无顾客的踪影。</p>
-<p>“同时，新丝绸之路倡议也缺乏合作伙伴。……习近平想要推动一个’命运共同体’，然而他没能成功传达这个讯息，这个倡议对其他国家有什么吸引力。习近平许诺下了双赢的局面，然而最大的获益者显然是中国。因为北京是建筑师、出资人和建筑工三合一。而北京在外交上越来越强势的表现，也助长了对’一带一路’的不信任感。”</p>
-<p>“此外，习近平的宏伟计划也可能因为时间点不佳而失败：鉴于乌克兰危机，目前一个中、俄、欧合作项目的前景非常不妙。此外，’伊斯兰国’也在例如中亚这些对于’一带一路’的成功具有核心意义的地区扩张其势力。”</p>
-<p><strong>大型国有银行的”枯槁岁月”</strong></p>
-<p>《新苏黎世报》周二经济版发表题为”中国大银行的枯槁岁月”的文章，其中写道：”伴随着中国经济景气逐渐走弱，中国大型国有银行也开始上气不接下气”。</p>
-<p>“中国大型国有银行正面临这个隐性嫌疑：仍被危险的遗留问题所纠缠–在金融危机过后的经济繁荣岁月过量发放贷款。虽然距离真正雪崩一般的亏损这样的恐怖场景还很遥远，然而金融机构领头羊们在目前的景气下滑中，已经开始面临越来越棘手的挑战。这可能严重影响其收益能力。”</p>
-<p>“在上半财年，直接由中央政府控制的四大银行利润增加1%，已经是最好成绩了。在第二季度，这些银行实际上就是原地踏步。”</p>
-<p>文章写道，尽管采取了大量货币和国家财政刺激措施，然而中国的景气趋势仍呈现下行，银行业也必须开始适应利润微薄的日子。</p>
-<p>文章也提到了”暗藏的信用风险”–所有大型银行的信贷亏缺在应收帐款总额中所占的比例都明显增加。其中工行、建行和中行的信贷亏缺比例从多年来的低于1%上升至1.4%，而农行更是达到了1.8%。</p>
-<p>这些大型国有银行的”风险覆盖面也在减少”。”在过去几年里，中国的银行主动大幅提升信贷拨备（风险准备金），并强制核销不良贷款。”</p>
-<p>中国大型银行已经降低了拨备覆盖率。文章表示，”如果仍维持以前的拨备覆盖率水平，据专家们计算，这些银行在上半年的利润就已经缩水了30%。这样酸涩的损失自然会被当作震惊市场的消息。”而如果未来对拨备覆盖率提出更严格的要求，那么这些银行的利润趋势可能将继续大幅下行。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9D%A2%E4%B8%B4%E5%A4%B1%E8%B4%A5%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">发展模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">国有银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD/?category=18271" rel="tag">垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">经济政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B7%E6%AC%BE/?category=18271" rel="tag">贷款</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%9B%BD%E6%9C%89/" target="cdt-mirror">【异闻观止】新华网 | 理直气壮做强做优做大国有企业</a>
-</h2>
-<p><p>新华网北京9月15日电（记者 华晔迪）中共中央、国务院近日印发《关于深化国有企业改革的指导意见》。作为新时期指导和推进国有企业改革的纲领性文件，《指导意见》明确提出要坚持和完善基本经济制度，做强做优做大国有企业，为促进经济社会持续健康发展、实现中华民族伟大复兴中国梦作出积极贡献。</p>
-<p>基本经济制度是中国特色社会主义制度的重要支柱，也是社会主义市场经济体制的根基。坚持和完善基本经济制度，发展壮大国有经济，是中央一贯方针，是国家的坚强意志，必须坚决贯彻，不能有丝毫含糊和动摇。习近平总书记多次强调，要坚定不移把国企做强做优做大，不断增强国有经济活力、控制力、影响力、抗风险能力，这既是对国有企业改革发展成绩的充分肯定，又是对进一步搞好国有企业提出的新的更高要求。</p>
-<p>国有企业是国有经济的核心载体，是实现国有经济功能的重要支撑。没有国有企业，就没有国有经济，就没有我国现代化建设取得的重大成就，就没有中国特色社会主义制度，就没有人民的共同富裕。对于我们这样一个发展中的大国来讲，没有强大的国有企业，就没有强大的国有经济，推进“四个全面”战略布局、实现“两个一百年”奋斗目标和中华民族伟大复兴中国梦就失去了深厚根基和有力支撑。</p>
-<p>因此，改革决不能把国有企业改没了、改垮了，而是要更好体现和坚持公有制主体地位，发挥国有经济的主导作用。当前，必须增强做强做优做大国有企业的思想自觉、行动自觉，必须要把思想和行动高度统一到中央精神和要求上来，旗帜鲜明地反对各种私有化、“去国有企业”等错误观点，坚持和完善基本经济制度，努力做强做优做大国有企业。</p>
-<p>把国有企业做强，就是要让国有企业成为市场竞争的强者，集中表现为企业的自主创新能力强、资源配置能力强、市场开拓能力强、风险管控能力强；把国有企业做优，就是要让国有企业成为经营管理的佼佼者，集中表现为企业的公司治理优、内部控制优、品牌形象优、经营业绩优；把国有企业做大，就是要让国有企业成为行业发展的领跑者，集中表现为国有企业在保证必要的规模、体量和比重的同时，要有大战略、大思维，以市场为导向，推进企业并购重组，推进优势资产资源集中集聚，努力实现大市场、大资源、大联合、大配置，努力把国有企业打造成具有国际竞争力、影响力的“国之栋梁”。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%9B%BD%E6%9C%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6/?category=18271" rel="tag">公有制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">公有制经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD/?category=18271" rel="tag">垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E6%9C%89%E5%8C%96/?category=18271" rel="tag">私有化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%BA%90%E9%85%8D%E7%BD%AE/?category=18271" rel="tag">资源配置</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3jvlzqs9b1vap.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://6yvfy5.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d3jvlzqs9b1vap.cloudfront.net">https://d3jvlzqs9b1vap.cloudfront.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/></td>    </tr>
 </table>

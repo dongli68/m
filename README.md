@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/></td>    </tr>
+        <td><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-2/" target="cdt-mirror">【麻辣总局】“记住，我们是正义的化身”</a>
@@ -451,7 +451,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E5%B0%BC/?category=18271" rel="tag">索尼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%9C%8D%E4%BB%8E%E6%94%BF%E5%BA%9C%E7%AE%A1%E6%8E%A7/" target="cdt-mirror">翻墙 | 中国要求美国科技公司服从政府管控</a>
 </h2>
@@ -769,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2o2nuahxmmb0j.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://khw7y.azurewebsites.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -779,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/><a href="https://t6us7zxm.azurewebsites.net">https://t6us7zxm.azurewebsites.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://khw7y.azurewebsites.net">https://khw7y.azurewebsites.net</a><br/><a href="https://d1mxzovgtwt92a.cloudfront.net">https://d1mxzovgtwt92a.cloudfront.net</a><br/><a href="https://6yvfy5.azurewebsites.net">https://6yvfy5.azurewebsites.net</a><br/><a href="https://d309683nawggq1.cloudfront.net">https://d309683nawggq1.cloudfront.net</a><br/><a href="https://d2o2nuahxmmb0j.cloudfront.net">https://d2o2nuahxmmb0j.cloudfront.net</a><br/></td>    </tr>
 </table>

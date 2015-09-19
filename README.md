@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,91 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%98%89%E8%AF%9A%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%95%86%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89/" target="cdt-mirror">凤凰网｜李嘉诚：我就是一个商人，没有更好的选择</a>
+</h2>
+<p><p>上帝的归上帝，凯撒的归凯撒，商业的归商业，政治的归政治。</p>
+<p> </p>
+<p>我是一个商人，希望大家不要给我戴上什么帽子，无论高的，还是矮的，我都不想有。因为我不是道德家、教育家、更不是什么阴谋家、政治家，我仅仅就是一个商人而已。了解这一点，你就很容易读懂我的自我辩护。很多时候，我的选择，是因为我没有其他更好的选择，不是因为我想进行这样的艰难选择。</p>
+<p> </p>
+<p><img src="http://y2.ifengimg.com/a/2015_38/f3147f2f7170c88.jpeg" alt="" width="261" height="353"></p>
+<p> </p>
+<p>1928年我出生在中国广东潮州，出生时没有什么特殊的异象，预示我以后成为一个伟大的企业家，或者是一名出色的奸商。目前各种关于我的各种传记，绝大多数是基于文学演绎的穿凿附会，你们都不要信。如果我可以选择我的出生，我宁愿出生在富庶和平的国家。</p>
+<p> </p>
+<p>和多数普通潮汕人一样，父亲安排我祭拜孔子儒学，进入观海寺小学念书，读的是一些传统爱国爱家的思想书籍。我成绩既不优秀，也不很差，我就是一个普通的孩子，放在街头，站在村口，和其他人没有什么异样。</p>
+<p> </p>
+<p>如果没有战争，或者我就留在潮州，不会来香港，那么我可能度过平庸的一生，也或者过早死于战火，或者过早死于饥荒和疾病。当然，也可能侥幸度过这些劫难，现在潮州的某一个街道或村庄，悠闲地踱着步伐，没有被批判，也没有鲜花和掌声。当然，很可能比现在贫穷很多，但不一定就不如现在幸福。</p>
+<p> </p>
+<p>因为日本侵华，我逃到了香港。同时因为后来的中国内战，我留在了香港没有返回潮州，我的故事因此开启，人生被彻底改变。请注意这个关键点，这些并不是我想要的，不是我主动选择的，我也被时代的大潮裹挟到了香港，不是荣耀的移民，而是逃离的难民。我到世界其他地方可能是为了经商和学习，但是我回到潮州故里访亲，纯粹是寻找一份家的感觉。</p>
+<p> </p>
+<p>有一些东西不是我想要的，也不是我主动能选择的，这一点很重要。这就是我的命运，我的人生。但是我在最艰难的被动选择里，选择了相对较好的结果，这是我的成功之处。如果人生可以重来，我宁愿不要这些艰难的选择。我希望我的孩子们、我的同事们、甚至每一个中国人，都能有主动选择的余地，从容安排他们的人生，不像我李嘉诚。</p>
+<p> </p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/8ebccb3f33d6d99.jpg" alt="8ebccb3f33d6d99" width="551" height="367"></p>
+<p> </p>
+<p>我从普通的学徒、店员、街头推销员一步一步做起来的，直到塑料花厂的总经理。在其中我积累了不少经验，那段时间虽然过得非常辛苦，但是非常充实而快乐。我早早失学，没有读过太多的书，但是社会就是最好的学堂，我一直在学习，没有停止过，直到现在。我充分理解失学的痛苦，所以后来援建了汕头大学。如果我能选择，我愿意坐在汕头大学的课堂，而不是香港的写字楼里。</p>
+<p> </p>
+<p>我也不是白手起家，我创业的时候得到妻子家族的帮助，这一点我从不讳言。不要把我打扮成白手起家的商业之神，我感谢在我创业之初支持和帮助我的所有人。不过我并不是什么富二代、也没有去吃软饭，我最终靠的是自己的能力，还有天时和运气。网上流传的白手起家和完全靠朋友支持的两个极端，都非事实。</p>
+<p> </p>
+<p>上个世纪五六十年代，香港的来料加工业兴起，欧美的生产转移到香港，这是我的机会。现在回头看来，我成为所谓的“塑胶花大王”，并不是因为我多厉害，只是顺应了时势而已。即使没有我，也有其他人能够享有此名。事实上，我只是“塑胶花大王之一”，擅自称王，是对其他成功同行的不敬。</p>
+<p>真正困难的第一次抉择，来自1967年香港的左派闹事，导致香港的房地产一落千丈，那时候我的损失也很大。这时候有一些人卖掉了房子和土地，离开了香港。而我认为香港终将度过这些风波，于是买进了不少土地。很多人认为我有眼光、低价收购土地储备。其实没有人关心我暗地里的担忧，私底下的恐慌。如果左派闹事成功，我将一文不名，甚至成为资本家的反面典型，在香港跳楼的名单中，就有我的名字，而不是在福布斯富豪榜上。</p>
+<p> </p>
+<p>在这个过程中，风险和利益都是巨大的，也是均沾的，我不认为这有什么道德准则和商业原则的错误，它就是一桩生意而已，可能赚，也可能亏，而且是如履薄冰、如临深渊的高风险生意。任何过度的解读都是阴谋论，都是事后诸葛亮。</p>
+<p> </p>
+<p>其后从我们长江实业的上市，到购入老牌英资商行“和记黄埔”的部分股权，都是地地道道的生意。有钱赚是生意人的根本价值，做生意要遵从双方互惠互利的基本原则，当年购买我们股票的股民们也都有丰厚的利润。虽然因为缘分我心怀感恩，但本质上是合法、合理的，相互都不需介怀什么。</p>
+<p> </p>
+<p>说得比较远了，我说一下现在网上各种对我的指责，说我忘恩负义，唯我是利，占了便宜之后转移资产到欧洲，面对经济危机不是承担责任而是全面撤资、影响到中国的面子和信心，并高呼“别让李嘉诚跑了”。甚至说香港目前的经济停滞困难，是我们这些“豪族”畸形的经济手法导致的。</p>
+<p> </p>
+<p>我想写这类文章和赞成这些观点的，也是抱持善意，他们爱国爱民的心我能理解。但是他们不懂起码的商业原则，以及市场经济的运作真相，甚至于，他们不懂真正的人性。</p>
+<p> </p>
+<p>让我们回到上个世纪70年代末文革结束、90年代初重启改革、97年香港回归之际，香港的社会波诡云谲，各种传言甚嚣尘上，对是否改革开放、是否会回到文革、是否会全面实现市场经济、是否保持一国两制等重大问题，抱有疑虑的非常多。在每一个政治关键的节点，都有大量的动摇者裹足不前，甚至逃之夭夭。每一个人都面对这些艰难的选择。</p>
+<p>我只是一个商人，在每一个关键节点的选择上，我认为风险与利益同在，和很多人判断不同。于是我在大陆遍地投资，港口、地产、金融、科技等领域都有涉及。指责我的文章说我与官方走的很近，利用了权力资源。这是典型的事后判断。</p>
+<p> </p>
+<p>回到当年，我选择与官方进行合作，官方在政治上同样获得了巨大的回报，这本质上依旧是一门生意，尤其是风险和利益同在且巨大的生意。我感谢当时的官方和政府，我也帮助了他们，带来了急需的资金、技术和人才，让香港乃至全球商界对中国更有信心。在本质上，我们可以相互感恩，但是互不相欠，这就是生意。</p>
+<p> </p>
+<p>中国经济整体依旧是向好的，这个我肯定。13亿的人口和960万平方公里的土地，机会肯定是无限的。但是经过了这么多年的高速增长，以及信贷过度，已经来到了一个峰值，下一步会怎么样，我也不会贸然下结论，但具有较大的不确定性。商人的首要目标是让资本更安全，其次才是增值更快。我当年大举投资大陆和现在全球布局，时间点不一样，考虑的自然不一样，但都是基于这样的考虑。除此以外，没有其他原因。就是现在，我在大陆依旧还有不少投资。</p>
+<p> </p>
+<p>如《别让李嘉诚跑了》一文所说，1967年、70年代末、90年代初、97年香港回归这些重要的节点，我的选择正确，因而获得了巨大的利益。但事实上，正常的商业是不需要经过这种政治选择的，而是相对纯粹的经济考量。有正常的政治氛围和良好的商业环境，就不会存在谁跑不跑的问题。存在这个问题，恰恰就是问题的根源所在。</p>
+<p>在职业上，我是一个纯粹的商人，不要用那些空洞的道德来衡量我。如果不能做一个成功的商人，那我的职业是失败的，人生也是残缺的。不赚钱的商人不是好商人，也没有资本利润去做善事。很多人认为，商业赚了钱之后，应该回报社会。这个我是认同的。但是如何回报社会，这个分歧巨大。难道商人应该亏本，去补贴国家和政府吗？这显然是荒谬的。</p>
+<p> </p>
+<p>我们回报社会，首要条件就是赢利、赚钱，这样才能回报人民。企业没有教导人民的责任和义务，宗教和教育才是。我们通过守法经营以身作则，同时用资本捐助学校来达到教育的目的，通过捐助贫民来达到扶助的目的。如果我们亏钱，那什么都不可能去做。如果我直接去搞教育，一定比专业的大专院校来的差。这就是最好的商业，最好的教育。</p>
+<p> </p>
+<p>香港需要寻找未来，大陆需要寻找未来，大中华区需要寻找未来，全世界都需要寻找未来，但是我需要寻找的只是利润。地产、金融可以，教育、科技也可以，对我来说，谁是趋势、谁利润更大才是我要考虑的，而不是空洞的政治考量和虚假的道德说教。不要试图让商人去承担国家的政治责任，也不要试图用政治去影响商人的经营理念。上帝的归上帝，凯撒的归凯撒，商业的归商业，政治的归政治。我就是一个商人，会去努力理解政治，但是我绝不僭越政治，那是政治家们的事情。</p>
+<p> </p>
+<p><img src="http://y1.ifengimg.com/a/2015_38/e67ed231c35050c.jpeg" alt="" width="300" height="379"></p>
+<p>我今年87岁了，已经是古稀之年，安全比利润对我来说更重要。我从来就不是大家说的是什么超人，我可能算是一个成功的商人，但我其实更是一个普通的人，甚至是一个老人。我希望我的人生能画上一个完美的句号，而不想在晚年再横生枝节。我也希望我的家人和我的商业在我故去之后，正常运转，得到良好的继承。</p>
+<p> </p>
+<p>我最后反复强调一点，我是一个商人，也是一个慈善人士，但绝不是政治家、教育家等。我参与兴建汕头大学、汕头大学附属医院、潮州的安居工程等，前后达到150亿港元，且绝大多数都花在大中华区。这都是纯粹捐献，没有任何利益可图。这是我最引以为骄傲的所在。能为家乡人做事，能为祖国尽一份力量，是我的荣幸。我只是可能用的钱多一点，但是和其他人的捐献一样，同是一份心意而已，不高什么，也不低什么。汕头大学的毕业典礼，我风雨无阻地前去参加，力所能及地以过来人说说一些人生经验，但绝没有任何姿态，那里纯粹是老师们的课堂。</p>
+<p> </p>
+<p><img src="http://y0.ifengimg.com/a/2015_38/4c54e91703f74da.jpeg" alt="" width="320" height="220"></p>
+<p>我希望大家不要把我神化，也不要把我妖魔化，其实我像你们现在的同事，也像你邻居的老头而已。我和他们一样犯过错误，也和他们一样慈祥友爱。我承担了我的错误，也获得了我的荣耀，我的人生由我自己负责，你们每一个人同样也是。不要给我过多的褒扬，也没有必要泼给我很多脏水，虽然我不在意自己的感受，但是我在意你对你自己心灵的灼伤，以及毒化中国人脆弱的舆论环境。</p>
+<p> </p>
+<p>我的生意或许部分不在中国，但是我的心一直在这里，根依旧扎在这里。我是潮汕人，也是香港人，还是中国人，也是加拿大籍，最终我们都是地球村的居民。我爱我的家乡，我爱我的故乡，我爱我的祖国，我也爱我们共同居住的地球，我的爱真挚而深沉，和你一样。</p>
+<p> </p>
+<p>李嘉诚不会跑，也不愿跑，更跑不了。这是我的真心话，也是我的誓言。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%98%89%E8%AF%9A%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%95%86%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%B1%E5%90%8C%E7%A4%BE%EF%BD%9C3%E8%89%98%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E9%A9%B6%E5%85%A5%E5%B0%96%E9%98%81%E9%99%84%E8%BF%91%E6%97%A5%E6%9C%AC%E9%A2%86%E6%B5%B7/" target="cdt-mirror">共同社｜3艘中国海警船驶入尖阁附近日本领海</a>
+</h2>
+<p><p>　　【共同社9月19日电】19日上午10点后，3艘中国海警船相继驶入了尖阁诸岛（中国称钓鱼岛)附近的日本领海，约两小时后退出领海。今年以来中国公务船驶入尖阁附近日本领海的天数由此增至26天。</p>
+<p>　　据第11管区海上保安总部(那霸）称，这3艘中国海警船分别为“海警2113”、“海警2151”和“海警2305”。日本巡逻船向中国海警船发出了警告，要求对方退出日本领海。中国海警船用中文和日本回应称“贵方船只驶入了中国的领海，请立即退出”。</p>
+<p>　　中国公务船已连续25天出现在尖阁附近，上次驶入日本领海是在本月10日。</p>
+<p>　　此外，海上保安厅巡逻船19日发现中国海洋调查船“海大号”驶入了尖阁诸岛大正岛附近的日本专属经济区，并从船尾向海中投入了缆线状物体。日本巡逻船要求“海大号”停止调查。（完）</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%B1%E5%90%8C%E7%A4%BE%EF%BD%9C3%E8%89%98%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E9%A9%B6%E5%85%A5%E5%B0%96%E9%98%81%E9%99%84%E8%BF%91%E6%97%A5%E6%9C%AC%E9%A2%86%E6%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%81%E6%B0%B8%E6%9B%A6%EF%BC%9A%E5%A4%A7%E9%81%93%E6%B2%BB%E5%9B%BD-%E8%B7%AF%E5%9C%A8%E8%84%9A%E4%B8%8B/" target="cdt-mirror">新浪博客｜翁永曦：大道治国 路在脚下</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/13592_140521104129_1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/13592_140521104129_1-300x240.jpg" alt="13592_140521104129_1" width="300" height="240"></a></p>
@@ -669,49 +751,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%BE%8E%E6%B9%83%EF%BD%9C%E9%99%95%E8%A5%BF%E5%BE%8B%E5%8D%8F%E6%96%B0%E8%A7%84%E8%A2%AB%E6%8C%87%E7%BA%A6%E6%9D%9F%E6%AD%BB%E7%A3%95%E6%B4%BE%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%8F%91%E5%85%AC%E5%BC%80/" target="cdt-mirror">澎湃｜陕西律协新规约束死磕派：不得发公开信不得围观声援</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/11/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA%EF%BC%9A%E8%83%B6%E5%B8%A6%E5%98%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/11/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA%EF%BC%9A%E8%83%B6%E5%B8%A6%E5%98%B4.jpg" alt="秃头倔人：胶带嘴" width="425" height=""></a><br><em>（当代水墨画 “胶带嘴” by 秃头倔人）</em></p>
-<p>陕西省律师协会出台的一份关于律师办理重大、敏感案件的新规，被认为是约束“死磕派”律师。</p>
-<p>9月15日，该协会在官网发出《关于律师参与办理重大、敏感及群体性案件的指导意见》（下称《意见》，原文链 接：http://www.sxlawyer.org/newstyle/pub_newsshow.asp?id=29005248& chid=100180），规定律师在办理重大、敏感及群体性案件时，不得以发表公开信、鼓动助推舆论炒作、组织网上狙击、围观、声援等方式制造舆论压力和社会影响；未参与办理该案件的其他律师，不得组织、参与、支持任何形式的声援团或以在网上聚集、围观、声援等方式制造舆论压力和社会影响。</p>
-<p>9月16日，陕西省律协宣传部相关负责人在接受澎湃新闻采访时则表示，该《意见》只是对该省律师在办理重大、敏感案件给予业务上指导，并不是对律师执业的一种惩罚性、禁止性制度规定。</p>
-<p>陕西律协在介绍制定《意见》的背景时称，“有个别律师在参与办理重大、敏感及群体性案件过程中也存在着一些问题。如有的律师打着“维权”旗号，频繁参与、插手重大敏感案件或社会热点问题；有的律师打着维护宪法的幌子，采用抱团、串联、签名、发布公开信，利用网络、微信、微博等大肆炒作，发表歪曲、误导、煽动 性言论，向办案机关施压，干扰案件依法处理等。”</p>
-<p>《意见》规定，律师参与办理重大、敏感及群体性案件，如有2家以上律师事务所的律师共同担任同一案件当事人代理人或辩护人的，不同律师事务所的律师应当以各自律师事务所的名义与当事人形成委托关系，同时严格遵守法律关于律师代理人、辩护人人数及有关利益冲突的限制性规定，不得以律师个人之间自发组织、抱团等方式与当事人形成委托关系，不得以此类方式招揽业务或对外进行宣传、推介。</p>
-<p>《意见》还规定，律师在办理重大、敏感及群体性案件时，不得以发表公开信、鼓动助推舆论炒作、组织网上狙击、围观、声援等方式制造舆论压力和社会影响；还不得鼓动、发起、参与案件当事人或其他人员以非法串联、集会、游行、示威、聚众扰乱公共秩序等方式表达诉求，以舆论炒作、造谣生事、攻击诋毁等方式干扰案件依法办理。</p>
-<p>对于那些未参与办理重大、敏感及群体性案件的其他律师，《意见》要求：不得以干扰案件办理结果为目的，对正在审理的案件公开发表意见和评论，不得组织、参与、支持任何形式的声援团或以在网上聚集、围观、声援等方式制造舆论压力和社会影响。</p>
-<p>除了针对律师的规定，《意见》还要求：律师事务所对重大、敏感及群体性案件应于3个工作日内向所属司法行政机关和律师协会备案。</p>
-<p>据澎湃新闻梳理发现，河南、广西、山西等省市部分地区的司法机关也曾出台过律师办理重大、疑难敏感案件的备案规定。</p>
-<p>根据《意见》的释义，重大、敏感及群体性案件是指涉及国家政治、经济安全，或者容易引发社会关注、影响社会稳定的案件。主要包括危害国家安全的案件；涉及恐 怖活动、黑社会性质、邪教性质、非法集资、拆迁安置、特别重大贿赂等案件；重大涉外案件；可能引发群体性上访的案件；当事人一方或双方人数众多的群体性、集团性诉讼案件或非诉讼事件；涉及社会敏感问题，可能造成重大社会影响或严重扰乱社会秩序的案件等。</p>
-<p>据悉，该《意见》由陕西省律协六届七次常务理事会于8月24日审议通过，并印发给陕西省各市律师协会、省直律师事务所等执行。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%BE%8E%E6%B9%83%EF%BD%9C%E9%99%95%E8%A5%BF%E5%BE%8B%E5%8D%8F%E6%96%B0%E8%A7%84%E8%A2%AB%E6%8C%87%E7%BA%A6%E6%9D%9F%E6%AD%BB%E7%A3%95%E6%B4%BE%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%8F%91%E5%85%AC%E5%BC%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%8D%8F/?category=18271" rel="tag">中国律协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E7%A3%95%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">死磕律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86%EF%BC%8C%E6%88%91%E4%BB%AC%E8%BF%98%E5%BE%97%E6%85%A2%E6%85%A2%E7%86%AC/" target="cdt-mirror">羽戈：李嘉诚跑了，我们还得慢慢熬</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/20120924220620990.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/20120924220620990.jpg" alt="打土豪分田地" width="550" height=""></a><br><em>（网络图片）</em></p>
-<p>李嘉诚从内地撤资，早已逐步实行，并非始自今日。不想罗天昊凭《别让李嘉诚跑了》一篇檄文，致使波澜再起，枝节横生。如果说一文可抵百万兵，显然抬举了罗天昊。其文无论从观点还是文风上看，皆色厉内荏，不堪入目，然而它恰恰挠中了这个社会的痒处，击中了这个国家的痛点。于是乎，李嘉诚缘何撤资，为举国所热议；李嘉诚的跑路效应，为举国所瞩目。</p>
-<p>就我所观察的社会反应（舆情）来讲，经济问题，毋庸再议：经济下行，无（暴）利可图，这是李嘉诚撤资最直接的原因；有待分说的则是政治问题：李嘉诚撤资之风波，为什么偏偏在这个时候，被这样一篇杀气腾腾的文章所激荡开来；罗天昊此文，发布于博客的时间为2015年8月7日，迟至一个月后，才被新华社旗下的瞭望智库选中并发扬光大，为什么会延宕一月，绝非无关紧要；此外，罗天昊隶属民间智库，结合其生平来看，他写此文，只是投人所好，应无官方授意，为官媒所采用，则印证了其投机之准确，这所释放的信号，比由官媒直接生产、发布《别让李嘉诚跑了》更加耐人寻味。</p>
-<p>从八月到九月，短短一月之间，中国风云变幻，隐伏的势力逐渐抬头，模糊的气象逐渐明朗。值得注意其中两点，一是纪念世界反法西斯战争胜利七十周年的种种活动，方式与精神背道而驰，名目与效果南辕北辙，不由令一些敏感者不寒而栗，雷颐先生作于十五年前的旧文《警惕法西斯》被翻出并风靡，可为注脚；二是“共产主义”重新成为官方话语的关键词，随之，《别让李嘉诚跑了》流行于国人的视野，以至论者解读此事，便以“共产主义还没来，李嘉诚已经跑了”为题，戏谑之余，不无忧惧，一朝被蛇咬，十年怕井绳。</p>
-<p>《别让李嘉诚跑了》的文风与观点，恰与这两点相呼应。这个粗暴的标题，简直如捉贼一般。如其文所言，李嘉诚到内地投资，享受政策优惠，从事地产生意，必须与政府结盟，他的财富积累，并非完全来自市场经济，与权力的交易使其资本充满原罪，因此不能说走就走，必须赎罪，才能离开。为此，罗天昊划出了两条道，要求李嘉诚回报穷人、回报社会。这大抵便是俗称的“杀富济贫”。作者的民粹气质与义和团情结，呼之欲出。以史为鉴，可知义和团与民粹主义的结果，往往都是专政，仇外与仇富，最易为专制者所利用。</p>
-<p>我不敢断言，这三点政治因素（它们都以肆意侵犯私有财产为特色）与李嘉诚从内地撤资有什么直接关系，是否加速其跑路。我关注的只是舆情，诸如“共产主义还没来，李嘉诚已经跑了”“《别让李嘉诚跑了》是民粹主义者的借尸还魂”“‘别让李嘉诚跑了’几乎击中了中国人所有的历史痛点”所表达的情绪。换言之，相比李嘉诚跑路的原由，我更关注其跑路的效应。因为说到底，李嘉诚跑了，我们跑不了，还得在他遗弃的土地之上日拱一卒，还得在阴霾与危机之下庄敬自强。</p>
-<p>所谓效应，就我们所谈论的主题而言，可以归结为一个问题，即今日中国是否适合做生意。这并无唯一答案，因为对生意的理解不同，思路便不同。我想起多年以前，与两位来浙江投资的台湾商人聊天，谈及这个话题。这一对投资伙伴，答案完全相反。其一说，来大陆做生意最容易，只要有关系，即可一本万利；其二说，来大陆做生意最难，因为毫无规则与安全感可言。细细想来，二人说法并不矛盾，而是一体两面。我们的市场经济，一直为政治阴影所笼罩，对企业而言，政府随时可能破门而入。有人说改革开放以来的中国，属于瘸一条腿的自由主义，只有经济自由，而无政治自由，现在来看，所谓经济自由主义，都瘸了一条腿。在中国做生意，有时不是取决于市场，而是取决于权力。这样的现状，令一些商人退避三舍，一些商人趋之若鹜，后者甘愿冒险，则是为了追逐更高的利润，等赚到盘满钵满，他们便溜之大吉（如那两位台湾商人，他们大概在2012年前后离开大陆）；甚至不待丰收，眼见情势不妙，便壮士断腕，迅速撤资（如以危机感强烈著称的李嘉诚）。</p>
-<p>不管你怎么感慨，却不得不承认商人的优势，他们至少可以用脚投票。老话说，婊子无情，戏子无义，商人无德。西哲则云，有商业的地方，便有美德。结合中西，我以为商人的德行，正体现在他的脚上。从理论上讲，商业最发达的地方，往往拥有充足的自由与公正，反之，当商人纷纷跑路，则叫人怀疑，这个地方究竟还剩余多少自由与公正；叫人担心，这个地方是否还适宜正常人生存。</p>
-<p>不能用手投票，尚可用脚投票；倘连用脚投票犹不可得，才是最大的悲剧。用手投票是一种权利，用脚投票则是一种资本。所谓“贫贱不能移（民）”，大资本家李嘉诚跑了，贫贱如我等，还得慢慢熬。</p>
-<p>2015年9月16日</p>
-<p>供智合（zhihedongfang）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E8%B7%91%E4%BA%86%EF%BC%8C%E6%88%91%E4%BB%AC%E8%BF%98%E5%BE%97%E6%85%A2%E6%85%A2%E7%86%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%99%BA%E5%BA%93/?category=18271" rel="tag">中国智库</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E6%B0%91%E6%BD%AE/?category=18271" rel="tag">中国移民潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">官商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -723,7 +762,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -733,5 +772,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,21 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E7%BE%8E%E6%B0%91%E6%84%8F%E4%BA%92%E4%B8%8D%E7%9C%8B%E5%A5%BD%E4%B8%8B%E7%9A%84%E4%B9%A0%E5%A5%A5%E4%BC%9A/" target="cdt-mirror">法广｜中美民意互不看好下的习奥会</a>
+</h2>
+<p><p>中国国家主席习近平正式访问美国的行程尚没有开始，但评论已经铺天盖地。不少媒体指出，习近平访美对中美两国都是考验。</p>
+<p>今天出版的英国《经济学人》（The Economist）刊登大篇幅文章，预测和分析下个星期二开始的习近平访美行程，指出习近平因与美国关系有分歧希望影响美国经济界加以平衡同美国总统奥巴马的交锋。但由于习近平访美，同天主教教皇方济各访美撞车，美国总统，副总统等一干最高领导人全体到机场迎接，给予方济各超级礼遇，而习近平抵达美国前往华盛顿时有可能显现被冷落。</p>
+<p>法新社发自北京的评论认为，习近平尽管上任已经有3年，未来还有7年的执政，但访问美国与在位已经8年即将卸任的奥巴马会见，奥巴马没有任何失去的担心，习近平却有可能因此会面对奥巴马多方位的质疑甚至批评。</p>
+<p>习近平访问美国之际，美国舆论针对中国普遍好感下降，新的民意调查说，百分之54的美国人可能不看好中国。专家分析，对美国人来说，越是强大的中国，问题似乎就越多。</p>
+<p>同样，中国青年对美国的好感度也在下降，不到百分之40。官方的英文报纸中国日报今天在官网上发布一项调查，表明仅有36.5%的中国青年受访者明确表示对美国人有好感。美国人认为与中国分歧的议题包括南海争议、人民币国际化、中国的言论自由等。</p>
+<p>中国官方9月16日正式宣布，习近平将于22日至25日对美国进行国事访问。按美国白宫宣布，奥巴马25日将于白宫接待习近平，当晚设国宴款待习近平与彭丽媛夫妇。</p>
+</p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%98%89%E8%AF%9A%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%95%86%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89/" target="cdt-mirror">凤凰网｜李嘉诚：我就是一个商人，没有更好的选择</a>
 </h2>
 <p><p>上帝的归上帝，凯撒的归凯撒，商业的归商业，政治的归政治。</p>
@@ -695,7 +707,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E5%B0%BC/?category=18271" rel="tag">索尼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%9C%8D%E4%BB%8E%E6%94%BF%E5%BA%9C%E7%AE%A1%E6%8E%A7/" target="cdt-mirror">翻墙 | 中国要求美国科技公司服从政府管控</a>
 </h2>
@@ -729,28 +741,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%BE%8E%E6%B9%83%EF%BD%9C%E9%99%95%E8%A5%BF%E5%BE%8B%E5%8D%8F%E6%96%B0%E8%A7%84%E8%A2%AB%E6%8C%87%E7%BA%A6%E6%9D%9F%E6%AD%BB%E7%A3%95%E6%B4%BE%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%8F%91%E5%85%AC%E5%BC%80/" target="cdt-mirror">澎湃｜陕西律协新规被指约束死磕派：不得发公开信、不得围观声援</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/11/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA%EF%BC%9A%E8%83%B6%E5%B8%A6%E5%98%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/11/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA%EF%BC%9A%E8%83%B6%E5%B8%A6%E5%98%B4.jpg" alt="秃头倔人：胶带嘴" width="425" height=""></a><br><em>（当代水墨画 “胶带嘴” by 秃头倔人）</em></p>
-<p>陕西省律师协会出台的一份关于律师办理重大、敏感案件的新规，被认为是约束“死磕派”律师。</p>
-<p>9月15日，该协会在官网发出《关于律师参与办理重大、敏感及群体性案件的指导意见》（下称《意见》，原文链 接：http://www.sxlawyer.org/newstyle/pub_newsshow.asp?id=29005248& chid=100180），规定律师在办理重大、敏感及群体性案件时，不得以发表公开信、鼓动助推舆论炒作、组织网上狙击、围观、声援等方式制造舆论压力和社会影响；未参与办理该案件的其他律师，不得组织、参与、支持任何形式的声援团或以在网上聚集、围观、声援等方式制造舆论压力和社会影响。</p>
-<p>9月16日，陕西省律协宣传部相关负责人在接受澎湃新闻采访时则表示，该《意见》只是对该省律师在办理重大、敏感案件给予业务上指导，并不是对律师执业的一种惩罚性、禁止性制度规定。</p>
-<p>陕西律协在介绍制定《意见》的背景时称，“有个别律师在参与办理重大、敏感及群体性案件过程中也存在着一些问题。如有的律师打着“维权”旗号，频繁参与、插手重大敏感案件或社会热点问题；有的律师打着维护宪法的幌子，采用抱团、串联、签名、发布公开信，利用网络、微信、微博等大肆炒作，发表歪曲、误导、煽动 性言论，向办案机关施压，干扰案件依法处理等。”</p>
-<p>《意见》规定，律师参与办理重大、敏感及群体性案件，如有2家以上律师事务所的律师共同担任同一案件当事人代理人或辩护人的，不同律师事务所的律师应当以各自律师事务所的名义与当事人形成委托关系，同时严格遵守法律关于律师代理人、辩护人人数及有关利益冲突的限制性规定，不得以律师个人之间自发组织、抱团等方式与当事人形成委托关系，不得以此类方式招揽业务或对外进行宣传、推介。</p>
-<p>《意见》还规定，律师在办理重大、敏感及群体性案件时，不得以发表公开信、鼓动助推舆论炒作、组织网上狙击、围观、声援等方式制造舆论压力和社会影响；还不得鼓动、发起、参与案件当事人或其他人员以非法串联、集会、游行、示威、聚众扰乱公共秩序等方式表达诉求，以舆论炒作、造谣生事、攻击诋毁等方式干扰案件依法办理。</p>
-<p>对于那些未参与办理重大、敏感及群体性案件的其他律师，《意见》要求：不得以干扰案件办理结果为目的，对正在审理的案件公开发表意见和评论，不得组织、参与、支持任何形式的声援团或以在网上聚集、围观、声援等方式制造舆论压力和社会影响。</p>
-<p>除了针对律师的规定，《意见》还要求：律师事务所对重大、敏感及群体性案件应于3个工作日内向所属司法行政机关和律师协会备案。</p>
-<p>据澎湃新闻梳理发现，河南、广西、山西等省市部分地区的司法机关也曾出台过律师办理重大、疑难敏感案件的备案规定。</p>
-<p>根据《意见》的释义，重大、敏感及群体性案件是指涉及国家政治、经济安全，或者容易引发社会关注、影响社会稳定的案件。主要包括危害国家安全的案件；涉及恐 怖活动、黑社会性质、邪教性质、非法集资、拆迁安置、特别重大贿赂等案件；重大涉外案件；可能引发群体性上访的案件；当事人一方或双方人数众多的群体性、集团性诉讼案件或非诉讼事件；涉及社会敏感问题，可能造成重大社会影响或严重扰乱社会秩序的案件等。</p>
-<p>据悉，该《意见》由陕西省律协六届七次常务理事会于8月24日审议通过，并印发给陕西省各市律师协会、省直律师事务所等执行。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%BE%8E%E6%B9%83%EF%BD%9C%E9%99%95%E8%A5%BF%E5%BE%8B%E5%8D%8F%E6%96%B0%E8%A7%84%E8%A2%AB%E6%8C%87%E7%BA%A6%E6%9D%9F%E6%AD%BB%E7%A3%95%E6%B4%BE%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%8F%91%E5%85%AC%E5%BC%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%8D%8F/?category=18271" rel="tag">中国律协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E7%A3%95%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">死磕律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -772,5 +762,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,57 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8E%9F%E6%9D%A5%E5%B9%B3%E9%82%91%E5%BC%BA%E6%8B%86%E9%98%9F%E6%98%AF%E5%8E%BB%E6%95%91%E7%81%AB%E7%9A%84%EF%BC%8C%E5%A4%AA%E8%AE%A9%E4%BA%BA/" target="cdt-mirror">【网络民议】原来平邑强拆队是去救火的，太让人感动了</a>
+</h2>
+<p><p><strong><a href="http://weibo.com/p/1001603889185877573369">平邑新闻中心｜平邑“9.14”强拆事件火因查明</a></strong></p>
+<blockquote><p>9月20日，经市、县两级公安机关、消防部门连续五天不间断调查，走访现场群众及知情者130余人，在省刑侦和消防专家组具体指导下，提取有关物证送权威部门鉴定，综合勘查检验、尸体检验、物证检验、审查讯问、走访调查等工作，“9.14”事件由平邑县地方镇东崮社区强拆引发，排除他人人为纵火，火灾系张纪民自身行为所致。<br>
+[…]<br>
+综合勘查检验、尸体检验、物证检验、审查讯问、走访调查等工作，“9.14”事件由平邑县地方镇东崮社区强拆引发，排除他人人为纵火，火灾系张纪民自身行为所致。</p>
+<p>在本次强拆事件中，涉嫌违法犯罪的15名主要嫌疑人全部抓捕归案，相关处置工作正在进行之中。</p>
+<p>临沂市“平邑9.14”事件调查处置工作组<br>
+9月20日</p></blockquote>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6204ece1gw1ew90b27basj20c80gbjts.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6204ece1gw1ew90b27basj20c80gbjts.jpg" alt="6204ece1gw1ew90b27basj20c80gbjts" width="440" height="587"></a><p>（图片来源：新浪微博 @南方都市报）</p></div>
+<blockquote><p><strong>背景阅读</strong>：<a href="http://www.thepaper.cn/newsDetail_forward_1375510">澎湃新闻｜山东村民被曝因强拆被烧死，其妻称被数人抓住以死威胁</a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2797032823" target="_blank">Q李蜻缺根筋</a><i title="微博达人"></i>：政府是不是还想烧死130名的目击证人<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>Zoe-170：推得真干净</p>
+<p>那里就是金银岛：原来你们是去救火的，太让人感动了。</p>
+<p>花似季丶五百：自己纵火？自己纵火？？自己纵火？？？！ 难道他冷吗？？</p>
+<p>封龍劍客：杀人犯查杀人案，真是笑话。</p>
+<p>自由逆风飞扬：拆迁队是来送温暖的</p>
+<p><a href="http://weibo.com/5654856834" target="_blank">荤素者777</a>：死无对证，都推死者身上吧。我大天朝本来英文名字就叫：拆那-China。<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]">。为死者默哀<img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"><img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"><img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
+<p><a href="http://weibo.com/1708257823" target="_blank">普京总统俄罗斯</a><i title="微博达人"></i><i></i>：<img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]">，这盛世如你所愿</p>
+<p><a title="沧海一苏_" href="http://weibo.com/sukejlu">沧海一苏_</a>：经当地官员号脉之后断定：15名主要嫌疑人都有短暂的临时性间歇性精神病….</p>
+<p><a title="阿铃君" href="http://weibo.com/yunmitang">阿铃君</a>：回复<a href="http://weibo.com/n/%E6%B2%A7%E6%B5%B7%E4%B8%80%E8%8B%8F_?from=feed&loc=at" target="_blank">@沧海一苏_</a>:自己纵火，火烧建筑及杂物，燃烧所释放的有毒气体把人熏死，故衣服完好。外面的人系临时工，且患有众所周知的某某疾病，且在应聘时他们同时隐瞒病史。。。所以，那15人负有责任；其他人，依然与人民群众在一起。还有。。。谁能帮忙继续编下去，赏他五毛钱<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee84af.png" alt="" width="20px" height="20px">！</p>
+<blockquote><p>哒哒_哒哒哒哒_哒哒：这就是你们所谓的调查目击证人的结果？是耳朵和眼睛不好使还是良心的问题，别丢人了行么<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/b74f97fejw1ew9150txd5j20k00l241h.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/b74f97fejw1ew9150txd5j20k00l241h.jpg" alt="b74f97fejw1ew9150txd5j20k00l241h" width="400" height=""></a></p></blockquote>
+<p>进击的风间Z：杀人变救人，呵呵卧槽</p>
+<p>阿尔皮山的雪狼：新闻1+1呢，汽油哪来的？</p>
+<p>郭二是一只努力攒旅费的锅儿：呵呵，都能有人拿刀子自己捅着自己玩儿，这个为什么不能是自杀</p>
+<p>唯du恋梅：你们这些刁民，党说了自杀就是自杀了，速度放了那些官员，还有一些地方没拆迁完呢？真是个操蛋的社会一角</p>
+<p>風_力：有时真的怀疑xx功是不是被强行黑锅的= =</p>
+<p>关注陆丰事态：不强拆会自杀不？有地方申诉会自杀不？官员有为百姓考虑会引发强拆跟自杀不？你现在通报的意思是此事与当地政府无关，全是自杀者自找的对吗？</p>
+<p>派大星点灯：城镇化建设是国家项目，不能因为这事停了，我只能说到这儿了⋯⋯</p>
+<p>最北萨满：不得不说九品芝麻官是部好电影@山东平邑</p>
+<p><a href="http://weibo.com/3322405800" target="_blank">博克图温</a>：奥斯卡影帝啊，山东平邑政府<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>萝白炖排骨：不管是不是他人放火，逼他的那些人有不可逃避的主要责任</p>
+<p>李郎高兴：哦！呵呵。不知道下一个“死者自身行为所致”的死者是谁了。</p>
+<p>贰月叁拾一：山东到处都是强拆，我们那边都是一个村子一个村子的直接拆，很多人没见过强拆吧？一句话总结：“鬼子进村，现实版的。”</p>
+<p>尘帛：只有法轮功才逼人自焚，只有共产党才能救中国。</p>
+<p>节操鸡：问题来了，以前有人因为法XX自火灭了整个法XX，现在有人因为GXD自火…</p>
+<p>流氓兔的岁月：自己自杀，也会有犯罪嫌疑人，我逻辑不好，望科普</p>
+<p>成都周某：政府像这样搞，当之裤裆着火时，可能大家都要奋力踩哦。</p>
+<p>泰山球迷8：赵高：是鹿是马？山东官方：赵丞相，是马，是马。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8E%9F%E6%9D%A5%E5%B9%B3%E9%82%91%E5%BC%BA%E6%8B%86%E9%98%9F%E6%98%AF%E5%8E%BB%E6%95%91%E7%81%AB%E7%9A%84%EF%BC%8C%E5%A4%AA%E8%AE%A9%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E9%95%87%E5%8C%96%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">城镇化运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%86%E5%93%AA/?category=18271" rel="tag">拆哪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">暴力强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%80%E6%8B%86/?category=18271" rel="tag">血拆</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%91%A8%E5%B0%8F%E5%B9%B3%E6%95%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%97%B6%E4%BB%A3%E7%9A%84%E7%8B%AC%E7%AB%8B/" target="cdt-mirror">【异闻观止】周小平教大学生“互联网时代的独立思考”</a>
 </h2>
 <p><p><strong><a href="http://www.cumt.edu.cn/1b/4c/c1178a269132/page.htm">中国矿业大学｜学术公告：互联网时代的独立思考</a></strong></p>
@@ -611,33 +659,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%A7%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%866400%E4%B8%87%E4%BA%BA%E5%90%83%E8%B4%A2%E6%94%BF%E9%A5%AD/" target="cdt-mirror">自由亚洲｜中国大陆6400万人吃“财政饭”</a>
-</h2>
-<p><p>中国媒体报道说，目前中国吃“财政饭”的公务员、事业单位人员及其离退休员工已远超过6400万，比英国的人口总量还多。有评论认为，中国近期可能仍难以精简政府冗员。</p>
-<p>中国官媒新华社主办的《经济参考报》9月17号刊登了对中国经济体制改革研究会副会长、北京改革和发展研究会会长陈剑的专访。针对当下中国经济和社会发展中的问题，陈剑建议，中国政府应该加大推进四项改革，包括：1、精简政府行政层级和机构设置，2、发展混合所有制经济，3、进一步破解“审批难”，4、改革出租车行业。</p>
-<p>报道说，世界绝大多数国家的政府层级只有三级，即中央政府、地方政府和基层政府，而中国大陆的政府架构目前是五个层级，即中央、省市区、地市、县市区、乡镇和街道。中国政府层级多、人员多，行政成本很高。目前中国大陆大约是23个纳税人供养1个政府财政负担的人员，远高于改革开放初期的67:1和1995年的40:1。中国财政供养人员主要包括：党政群机关工作人员、各类事业单位人员、党政群机关和事业单位的离退休人员。</p>
-<p>除了这些有公务员编制或者事业单位编制的体制内人员，中国还存在大量的准财政供养人员。到2014年年底，中国财政实际供养人数远超过6400万，高于英国的人口总量。陈剑认为，如果让中国五级政府削减到三级，在短期并不现实。而削减一个层级，改为四级政府设置，通过努力是有可能实现的。现有的国务院机构设置，一些部委仍有调整的余地和空间。中共中央所属系列的机构也应当精简。</p>
-<p>美国托莱多大学政治系荣誉退休教授冉伯恭认为，中国经济体制改革研究会副会长陈剑的建议，在一定程度上反映了中共官方的改革意图。</p>
-<p>“中国很多所谓的民间组织、半官方组织，实际上负责人都不是纯粹的民间的领袖，多半跟政府有密切关系。所以我认为，中国经济体制改革改革研究会副会长的建议，或多或少反映了中国政府现在的政策导向。”</p>
-<p>不过，现在美国的经济社会学者程晓农对此持不同看法：</p>
-<p>“谈不上反映了官方的态度。这个研究会只是一批退休的原国家体改委干部的活动场所，只有准官方身份。这个研究会本身就属于事业单位，就是他批评的要裁掉的事业单位，是财政养的。他自己就属于那种多余的人。”</p>
-<p>冉伯恭认为，精简政府行政层级的改革建议，恐怕短期内难以在中国实现。</p>
-<p>“根据我的观察，中国当局知道这些问题，也想改。例如，李克强一直在强调中央要简政放权。但做的情形怎么样呢？效果并不佳。原因在于，中国的政治体制对人民各方面的生活、各方面的活动管理过多，导致它需要更多的政府机构、更多的政府工作人员，结果使官僚政治尾大不掉。”</p>
-<p>报道说，陈剑认为，发展混合所有制经济，必须制定政策细节，包括：调整优化国资布局，优化国资监管方式，完善职业经理人制度，并合理分配国资收益。现在美国的经济社会学者程晓农对此评论说：</p>
-<p>“现在讲的混合所有制经济，早在2000年左右就已经实现了，就是国企的部分私有化。中国通过国企上市，允许国企高管私人持股，用公款给他们个人购买股票，装入个人的腰包，已经完成了国企的私有化，很多国企的高管已经成股东了。国企的这种半私有化状态导致国企成了这批高管们的取款机。现在他并没有提这个问题，仍维持这种状态，只是想约束一下这些高管。”</p>
-<p>报道还说，陈剑还建议，应加快政府向公共服务型政府转变，各部门应向全社会公布政府的“权力清单”，提高政府的透明度和办事效率，以破解“审批难”的问题。他还指出，凭借准入门槛和经营资格的垄断，出租车行业一直把自己隔绝在真正的租车市场之外。在司机叫苦叫穷、市民难以打车过程中，出租车公司坐收巨利。主管部门应在进一步研究出租汽车行业定位、经营权管理、运价形成机制等各种因素后，加快推进行业法规制度建设，尽快出台出租车行业改革方案。</p>
-<p>（记者：林坪 编辑：嘉华）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%866400%E4%B8%87%E4%BA%BA%E5%90%83%E8%B4%A2%E6%94%BF%E9%A5%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98/?category=18271" rel="tag">中国官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98/?category=18271" rel="tag">官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98/?category=18271" rel="tag">政府官员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -649,7 +670,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -659,5 +680,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

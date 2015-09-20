@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%91%A8%E5%B0%8F%E5%B9%B3%E6%95%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%97%B6%E4%BB%A3%E7%9A%84%E7%8B%AC%E7%AB%8B/" target="cdt-mirror">【异闻观止】周小平教大学生“互联网时代的独立思考”</a>
+</h2>
+<p><p><strong><a href="http://www.cumt.edu.cn/1b/4c/c1178a269132/page.htm">中国矿业大学｜学术公告：互联网时代的独立思考</a></strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%91%A8%E5%B0%8F%E5%B9%B3%E8%AE%B2%E5%BA%A7%E5%85%AC%E5%91%8A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%91%A8%E5%B0%8F%E5%B9%B3%E8%AE%B2%E5%BA%A7%E5%85%AC%E5%91%8A.png" alt="周小平讲座公告" width="550" height="407"></a></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%AE%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%AF%E8%A2%AB%E8%BF%99byd%E5%AE%B3%E8%8B%A6%E4%BA%86/">【网络民议】安大学生可被这BYD害苦了</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%81%BF%E5%B8%A6%E9%B1%BC%E8%AE%B3%E7%9A%84%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%9D%A5%E4%B8%B4/">【立此存照】避带鱼讳的时代已来临</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%8A%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E3%80%8B%E4%B8%AD%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC%E7%9A%84%E9%83%A8%E5%88%86/">《你好，我是中国》中指鹿为马的部分</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/01/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%91%A8%E5%B0%8F%E5%B9%B3%E6%98%86%E6%98%8E%E6%8A%A5%E5%91%8A%E4%BC%9A%E8%A2%AB%E7%BD%91%E5%8F%8B%E7%8E%B0%E5%9C%BA%E9%80%81%E5%B8%A6%E9%B1%BC/">【图说天朝】周小平昆明报告会被网友现场送带鱼</a></li>
+<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/">周带鱼</a>专题</li>
+</ul></blockquote>
+<p><a href="http://weibo.com/2114368904/CBorP2hMP">@中国矿业大学学生会</a>：#讲座预告#【互联网的独立思考】我们身处在一个网络时代，一个信息爆炸的大数据时代，我们获得大量的互联网信息却往往不知如何自处。为此我们邀请到资深互联网人、新锐网络作家周小平老师，9月22日下午14:30让我们相约镜湖大讲堂，一起分享周小平老师在互联网时代的独立思考， 定会让我们受益匪浅。</p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7e06b588gw1ew8siage6ij22pg3ttkjo.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7e06b588gw1ew8siage6ij22pg3ttkjo.jpg" alt="7e06b588gw1ew8siage6ij22pg3ttkjo" width="375" height="530"></a></p></blockquote>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B5%84%E6%B7%B1%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%BA%E5%91%A8%E5%B0%8F%E5%B9%B3%E8%80%81%E5%B8%88.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B5%84%E6%B7%B1%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%BA%E5%91%A8%E5%B0%8F%E5%B9%B3%E8%80%81%E5%B8%88.png" alt="资深互联网人周小平老师" width="550" height="95"></a><p>（@中国矿业大学学生会 在上条微博中对网民调侃的回复）</p></div>
+<blockquote><p>@中国矿业大学学生会：资深互联网人、新锐网络作家周小平老师 /鼓掌周小平老师不仅获评了央视网络春节联欢晚会的“年度最佳文章作者”，更是在人民大会堂受到习近平总书记的亲切接见和鼓励，相信他的阅历与感悟定会让我们受益匪浅。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@崔小平律师: 哈哈，独立思考？思考带鱼人工养殖吗？</p>
+<p>@光华村的铢圈：教我们如何做一个合格的五毛？</p>
+<p><a href="http://weibo.com/2153785220" target="_blank">苏格兰风笛三世</a>：各院系分配名额，入党积极分子强制参加，这路子我熟<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/3698965950" target="_blank">快速连线</a>：<img title="[便便]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/s_org.gif" alt="[便便]"><img title="[便便]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/s_org.gif" alt="[便便]"><img title="[便便]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/s_org.gif" alt="[便便]"><img title="[便便]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/s_org.gif" alt="[便便]"><img title="[便便]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/s_org.gif" alt="[便便]"><img title="[便便]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/s_org.gif" alt="[便便]"></p>
+<p><a href="http://weibo.com/jianyyang" target="_blank">jianyyang</a>：回复<a href="http://weibo.com/n/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E4%BC%9A?from=feed&loc=at" target="_blank">@中国矿业大学学生会</a>:你们也就是在中国教育史的道路上增加一点点耻辱而已，其实也没什么<img title="[爱你]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif" alt="[爱你]"></p>
+<p><a href="http://weibo.com/5681878485" target="_blank">宇宙真理007</a>：臭带鱼梦游美利坚！<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/gzlbx" target="_blank">刘言直语</a>：矿大学生有福了，挖矿兼营带鱼<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@水印师傅: 别提了，我们单位还组织看他视频，惨啊</p>
+<p>@vingofang：镜湖大讲堂下面的logo是一条带鱼吗</p>
+<p>@八月雪哥：可惜了矿大！与蛆为伍！</p>
+<p>@梦醒马赛港：你们不怕不好招生吗</p>
+<p>@我爱流星999：学习红军在解放战争打日本的历史？奉劝一句，已经臭不可闻，贻笑大方了。别再把屎当成史了。</p>
+<blockquote><p>@西娃葫芦：图片评论<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/df231da3gw1ew8uy0lkwjj20k00vlwhd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/df231da3gw1ew8uy0lkwjj20k00vlwhd.jpg" alt="df231da3gw1ew8uy0lkwjj20k00vlwhd" width="350" height="553"></a></p></blockquote>
+<p>@审计师理查德：不去旁听不是中国人！最低限度不能靠水产养殖创业</p>
+<p>@S-T-Oldman：矿大准备改名海洋大学吗</p>
+<p>@年轻时缺过钙：矿大有海洋生物养殖专业啦？</p>
+<p>@阿劲劲：这可是钦赐皇带鱼，中国矿业大学的朋友们，你们挖到金矿了</p>
+<p>@反清复明爱黎明：此次讲座将成为贵校之耻，永远记载于校史当中。</p>
+<p><strong>附微博截图：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%B8%A6%E9%B1%BC%E8%AE%B2%E5%BA%A71.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%B8%A6%E9%B1%BC%E8%AE%B2%E5%BA%A71.png" alt="带鱼讲座1" width="500" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%91%A8%E5%B0%8F%E5%B9%B3%E6%95%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%97%B6%E4%BB%A3%E7%9A%84%E7%8B%AC%E7%AB%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E7%BD%91%E5%AE%A3%E9%98%9F%E4%BC%8D/?category=18271" rel="tag">高校网宣队伍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%BC%80%E4%B8%A4%E6%9D%A1%E4%BB%B6%E4%BA%A4%E6%8D%A2%E4%BB%A4%E5%AE%8C%E6%88%90/" target="cdt-mirror">世界日报｜中方开两条件交换令完成</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9y8.jpg" alt="k9y8" width="551" height="394"></p>
@@ -206,7 +250,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E
 <p>中国官方9月16日正式宣布，习近平将于22日至25日对美国进行国事访问。按美国白宫宣布，奥巴马25日将于白宫接待习近平，当晚设国宴款待习近平与彭丽媛夫妇。</p>
 </p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%98%89%E8%AF%9A%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%95%86%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89/" target="cdt-mirror">凤凰网｜李嘉诚：我就是一个商人，没有更好的选择</a>
 </h2>
@@ -594,36 +638,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93%EF%BD%9C%E5%8B%95%E7%9B%AA%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F/" target="cdt-mirror">香港独立媒体｜動盪中的中國經濟</a>
-</h2>
-<p><p>文／Idealgas</p>
-<p>【破土編者按】最近，中國股市反复無常，而政府為了阻止股價下跌，禁止大投資者賣出股票，亦停止首次公開募股（IPO），限制炒家做空的機會。然而，種種跡象都顯示，中國經濟已經進入一波新的危機：瘋狂的炒賣投機，社會越趨不平等，經濟內需不足；這些都是中國經濟面臨的課題，若果處理不善，很可能會引發新一波的政治危機。</p>
-<p>儘管政府發出了一系列聲明以消除投資者的疑慮並穩定股票價格，中國股市仍然反复無常。即使中國人民銀行行長周小川在上週末的G20峰會上說股市的調整已經接近尾聲，週一上證指數還是下降了2.5%。</p>
-<p>在中國政府調整了股息稅來鼓勵長期投資者，並提議為股票交易建立熔斷機制以限制近幾個月的劇烈波動之後，股市於週二回升2.9%，週三繼續回升。週三中國財政部長宣布，政府將繼續加強財政政策，提高基礎設施支出，加快稅制改革，以回應對經濟減速的擔憂。週四，股價又下降1.4%。這些措施都反映了中國執政者的掙扎程度。自從六月份上證指數達到最高點，如今它已經下跌了40%，5萬億美元在大陸股市中蒸發。</p>
-<p>政府試圖阻止股價下跌，它禁止大投資者賣出股票，停止首次公開募股（IPO），限制做空。中國證監會作為監管全國股票市場的機構，也精心組織了股票購買——使用中央銀行提供的現金。實際的買入主要由「國家隊」執行——包括代表政府進行操作的投資者、中間人和基金。</p>
-<p>高盛估計中國政府從六月中旬以來投入股市的金額達到1.5萬億元或2360億美元，其中單單八月份就投入了6000億元人民幣。全部支出達到了中國所有股票價值的3.5%。</p>
-<p>北京還發動了警察力量，熟諳經濟犯罪的官員，監視著投資基金以及與國家證券監管部門的人員相串通的經紀人。在八月下旬，作為中國最大的經紀人公司和投資銀行的中信集團的八個高管被抓，他們被懷疑從事內部交易。毫無疑問，政府將利用這些抓捕來轉移注意力，因為它曾鼓勵瘋狂的股票投機，使股市在12個月內上漲了150%。領導人拋棄了社會主義，信誓旦旦地聲稱依靠他們可以增加就業、提高生活水平。股市崩盤了，同時實體經濟頹勢明顯，這將在政治上削弱其統治。</p>
-<p>政府還面對著另一種經濟圍剿——資本從中國流出，國家外匯儲備大量減少。花旗集團估計外匯儲備自去年升至4萬億美元之後，如今已經降至不到3.7萬億，今年年​​底將下降到3.3萬億。七月份貨幣外流創造了480億美元的記錄。將來美國利率的提高將加速中國的資本外逃。</p>
-<p>政府要求加強對個人和商業外匯兌換的控制，但他們常常可以通過非法途徑兌換貨幣。自八月十一日人民幣貶值之後，中央銀行支出了大約2000億美元來支撐匯率。</p>
-<p>雖然中國的外匯儲備按國際標準來看還是相當龐大，但其全球影響還是不容低估。德國銀行的貨幣戰略分析員George Saravelos告訴金融時報：「中國股市的下跌或人民幣的走弱，影響不是最大的。影響最大的是中國外匯儲備的減少，以及它對全球流動性的影響。中國人民銀行的行動等同於量化緊縮。」</p>
-<p>在一篇名為「中國經濟面臨難以為繼的危險」的評論文章中，金融時報專欄作家Martin Wolf反擊了那些認為中國實體經濟雖然增速放緩但依然強壯，從而低估股市動盪影響的分析：</p>
-<p>「股市動盪不是無關緊要的。北京2000億美元的救市行動失敗了，截至2015年7月，今年中國的外匯儲備減少了3150億美元。北京需要找到一個替罪羊。有跡象表明資本外逃以及政策制定者的恐慌。這些都說明他們缺乏信心。」</p>
-<p>除此之外，Wolf關注更廣泛的問題。他說：「潛在的危機可能是巨大的。至少有三個原因可以說明為什麼中國經濟增長可能難以為繼：當前模式不可持續；債務積累過多；處理這些挑戰會造成需求銳減。」</p>
-<p>最近的經濟數據都顯示出了衰退，尤其是製造業和出口。貿易數據表明，以美元計，上個月出口同比下降5.5%，今年前8個月的出口整體下降1.4%。</p>
-<p>中國仍然保持著可觀的貿易順差，這是因為進口減少了14%——連續10個月的下降。儘管商品價格持續下跌，煤、鐵礦石、銅、鋁等商品的進口量依然在減少，這表明製造業和建築業的萎縮。上周官方發布了八月份製造業經理採購指數，僅為49.7。該數據低於50就表明緊縮。</p>
-<p>本週，中國修正了2014年的經濟增長率，從7.4%改為7.3%。但很多分析者質疑這些數據，包括2015年官方的7%增長目標，他們認為實際增速遠低於7%。由於2008年全球金融危機，中國政府發放了大量廉價信貸，並花費在經濟刺激措施上。但這些措施沒能刺激生產活動。它們鼓勵了房地產和後期股市的瘋狂投機。如今這些泡沫正在破裂，帶來了經濟增長可持續性的問題以及地方政府債務積累過多的問題。</p>
-<p>中國執政者、國際貨幣基金組織、世界銀行和許多經濟評論員為中國提供的診斷是，中國正在經歷從出口導向型經濟轉向內需經濟的自然陣痛。然而，這種分析錯誤地將中國抽離全球經濟的脈絡：中國經濟增長的決定性因素，是它成為了世界上主要的廉價勞動平台。任何使中國經濟重新聚焦於國內消費的嘗試都將導致更高的工資，從而削弱其作為製造業中心的競爭力。其他工資水平更低的亞洲國家，比如越南和孟加拉，正在吸引更多的投資份額。</p>
-<p>中國經濟難以為繼，這將產生更深遠的影響，不僅僅是經濟的，而且是政治的。官方經濟增長率已經低於被認為是維持就業和社會穩定的底線的8%。在不斷擴大的社會不平等的背景下，更嚴重的下跌將產生社會動盪，並危及整個體制。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93%EF%BD%9C%E5%8B%95%E7%9B%AA%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -635,7 +649,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -645,5 +659,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

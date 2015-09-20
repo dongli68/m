@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9D%9E%E6%96%B0%E9%97%BB%EF%BD%9C%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A%E9%87%91%E5%B1%9E%E4%BA%A4%E6%98%93%E6%89%80%E8%AF%88%E9%AA%97%E6%A1%88-%E4%B8%8A%E6%B5%B7%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81/" target="cdt-mirror">非新闻｜昆明泛亚金属交易所诈骗案 上海千人示威追讨欠款</a>
+</h2>
+<p><p>2015 年 9 月 19 日，上千泛亚有色金属交易所的投资人到上海市静安寺集会追讨投资款。泛亚有色金属交易所因资金链断裂不能兑付，已引发各地投资人近期多次维权，事件涉及 20 省 22 万投资人 400 亿元。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v.jpg" alt="k9v" width="551" height="349"></p>
+<p>网友“ 浙江泛亚维权 ”：今天上海静安寺投资者散步！ 4 年多的时间，就在云南省委、政府的眼皮底下，发生建国以来涉及金额最大的影响局部金融稳定的恶性事件，造成全国近百万人受难，面临生计没有着落、家破人亡，这是什么样的恶劣社会影响？</p>
+<p>8 月 22 日上午，泛亚有色金属交易所董事长单九良在上海浦东被受害投资人擒获并送往浦东公安局，约 400 投资人随后到浦东公安局要求政府给个说法但无人理睬，当天下午，大量警察、特警出动强行将带走单九良带走，并抓走数名投资人。泛亚有色金属交易所因资金链断裂不能兑付，已引发各地投资人近期多次维权，事件涉及 20 省 22 万投资人 400 亿元。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v1.jpg" alt="k9v1" width="550" height="412"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v2.jpg" alt="k9v2" width="550" height="309"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v3.jpg" alt="k9v3" width="549" height="412"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v4.jpg" alt="k9v4" width="551" height="413"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v5.jpg" alt="k9v5" width="551" height="413"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v6.jpg" alt="k9v6" width="551" height="413"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v7.jpg" alt="k9v7" width="480" height="640"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v8.jpg" alt="k9v8" width="480" height="640"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v9.jpg" alt="k9v9" width="480" height="640"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v10.jpg" alt="k9v10" width="480" height="640"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v11.jpg" alt="k9v11" width="551" height="413"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9v12.jpg" alt="k9v12" width="551" height="413"></p>
+<p>转自：中国茉莉花革命网站</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9D%9E%E6%96%B0%E9%97%BB%EF%BD%9C%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A%E9%87%91%E5%B1%9E%E4%BA%A4%E6%98%93%E6%89%80%E8%AF%88%E9%AA%97%E6%A1%88-%E4%B8%8A%E6%B5%B7%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E%E4%BA%A4%E6%98%93%E6%89%80/?category=18271" rel="tag">昆明泛亚有色金属交易所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E7%BE%8E%E6%B0%91%E6%84%8F%E4%BA%92%E4%B8%8D%E7%9C%8B%E5%A5%BD%E4%B8%8B%E7%9A%84%E4%B9%A0%E5%A5%A5%E4%BC%9A/" target="cdt-mirror">法广｜中美民意互不看好下的习奥会</a>
 </h2>
 <p><p>中国国家主席习近平正式访问美国的行程尚没有开始，但评论已经铺天盖地。不少媒体指出，习近平访美对中美两国都是考验。</p>
@@ -708,39 +737,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%9C%8D%E4%BB%8E%E6%94%BF%E5%BA%9C%E7%AE%A1%E6%8E%A7/" target="cdt-mirror">翻墙 | 中国要求美国科技公司服从政府管控</a>
-</h2>
-<p><p>
-</p><div dir="ltr">长期以来，中国政府都把该国巨大的市场当作与美国科技公司博弈的筹码，现在它要求一些美国公司直接承诺遵守一些有争议的政策。这些政策可能会要求公司向政府提交用户数据和知识产权。
-<p>三位了解内情的人说，今年夏天早些时候，中国政府向一些美国科技企业发送了一份文件，要求它们承诺不会危害中国的国家安全，并且会在中国境内保存中国用户的数据。这三位人士要求匿名。</p>
-<p>信中还要求美国公司确保其产品“安全可控”。这是该领域的一句行话，行业团体称，可以借此迫使企业建立允许第三方访问系统的“后门”，提供加密密钥，甚至交出源代码。</p>
-<p>该文件突显了中国对美国高科技产业施加影响力的方式。北京方面计划下周在西雅图举办一场科技论坛，让掌管中国互联网的鲁炜与苹果(Apple)、Facebook、IBM、谷歌(Google)和Uber等科技企业会面。这场论坛显示出，中国可以让一些世界领先的科技公司参会，尽管奥巴马总统表示，中国反竞争的行为正在损害美国公司的利益。这个论坛的时间安排配合了习近平首次对美进行国事访问的安排。</p>
-<p>对于美国科技企业来说，这种情况颇为棘手。许多公司希望能赶在本地竞争对手占据市场之前，抓住中国的商机。但它们必须谨慎行事，因为中国政府对一些问题相当敏感，比如内容审查和安全问题。中国是世界上最大的互联网市场，但Facebook和谷歌都遭到了中国网络过滤系统的屏蔽，无法在该国提供核心业务。</p>
-<p>目前还不清楚是否有哪家被邀请参加西雅图科技论坛的公司收到了承诺书。一名知情人士说，该文件的发送方是“中国信息安全测评中心”，很可能是在中国互联网主要监管机构的压力下发送的。</p>
-<p>目前还不清楚中国官员希望这些公司何时对这份承诺书做出回应，但他们可能希望在下周的科技论坛上，或者是中国互联网监管部门在今年晚些时候举办的互联网大会上看到一些迹象，知情人士表示。</p>
-<p>中国国家互联网信息办公室没有回应对这份承诺书发表置评的传真请求。</p>
-<p>Uber、苹果、谷歌、IBM、微软和Facebook尚未回应记者的置评请求。</p>
-<p>该承诺书使用的措辞与最近颁布的《国家安全法》相似。该文件的开头是：“本公司严格遵守‘不损害国家安全，不损害消费者利益’两条底线”。它还要求该公司作出六项承诺，其中一些看似无害，如保证产品的安全性等，有些则不然，比如配合外界“产品的安全可控”进行检查。这可能是在暗示，同意中国对产品进行监控。</p>
-<p>在过去一年中，中国官员曾试图说服美国公司支持一些不同类型的声明。在中国互联网监管机构去年主办的一场会议上，他们让与会者对一份声明提供反馈，但只留出了很短时间。该声明称，各国应当有权制定自己的互联网法律，即使这些法律授权对互联网进行审查和监控。因为遭到反对，这份声明最终遭到放弃。</p>
-<p>签署新的承诺书，将会开创美国公司公开与北京方面合作，使其能够窥探用户的先例。相反，拒绝签署会给进军中国广阔市场的公司带来新的限制或处罚。</p>
-<p>在大多数情况下，美国公司会设法在中国按照北京方面的意愿行事，同时在美国开展游说，呼吁就中国的一些法律表达反对。它们称，这些法律限制市场准入，迫使企业进行技术转让。</p>
-<p>为了保护在中国的业务，一些公司已经转让了知识产权，并与潜在的中国竞争对手开展合作。一些公司承诺做出大规模的新投资，并使用中国共产党领导层喜欢的说辞。</p>
-<p>叫车服务公司Uber的首席执行官特拉维斯·卡兰尼克(Travis Kalanick)最近发表讲话时表示，该公司带来的进步“必须与稳定性相和谐”，中国官员经常使用类似说法来显示社会及政治动荡的危险。IBM在中国的营销材料使用了“构建和谐社会”、“中国梦”等说法，后者是由习近平创造的短语，象征着中华民族的复兴。</p>
-<p>本月早些时候，戴尔(Dell)承诺未来10年在中国投资1250亿美元，这一金额大约是该公司在2013年私有化时市值的五倍。思科公司(Cisco)在6月份承诺，未来几年在中国投资100亿美元。高通(Qualcomm)今年早些时候表示，该公司将帮助一家中国芯片制造商研发先进的半导体材料，IBM将某一系列服务器的知识产权转让给了一家中国公司。</p>
-<p>高通拒绝置评。思科和戴尔未即回应置评请求。</p>
-<p>“大家都认为，如果被视为中国的朋友，那进军中国市场就要容易一些，”对外关系委员会(Council on Foreign Relations)的高级研究员亚当·谢加尔(Adam Segal)说。“由于压力急剧增加，大家都在加倍努力地运用这个策略。”</p>
-<p>源地址：http://cn.nytimes.com/technology/20150917/c17pledge/</p></div>
-<div>翻墙技术博客<a rel="nofollow" target="_blank" href="http://www.chinagfw.org/2013/09/blog-post.html">订阅地址及社交帐号</a></div>
-
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>使用P2P分享利器Sync，可以穿墙订阅数字时代每日电邮版。</p>
-<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%BB%E5%A2%99-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%9C%8D%E4%BB%8E%E6%94%BF%E5%BA%9C%E7%AE%A1%E6%8E%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -752,7 +748,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -762,5 +758,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

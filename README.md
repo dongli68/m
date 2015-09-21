@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-pcb%E5%8D%B0%E5%88%B6%E7%94%B5%E8%B7%AF%E5%88%B6%E9%80%A0%E5%95%86%E8%A2%AB%E8%A6%81%E6%B1%82%E5%8A%9E%E7%90%86%E3%80%8A%E5%8D%B0%E5%88%B7%E7%BB%8F%E8%90%A5/" target="cdt-mirror">奇客资讯 | PCB印制电路制造商被要求办理《印刷经营许可证》</a>
@@ -556,7 +556,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%B2%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A1984%E3%80%8B/?category=18271" rel="tag">《1984》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%A8%81%E5%B0%94/?category=18271" rel="tag">奥威尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E8%AF%91/?category=18271" rel="tag">翻译</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%91%A3%E4%B9%90%E5%B1%B1/?category=18271" rel="tag">董乐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%80%85/?category=18271" rel="tag">译者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%80%85%E7%B3%BB%E5%88%97/?category=18271" rel="tag">译者系列</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9D%9E%E6%96%B0%E9%97%BB%EF%BD%9C%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A%E9%87%91%E5%B1%9E%E4%BA%A4%E6%98%93%E6%89%80%E8%AF%88%E9%AA%97%E6%A1%88-%E4%B8%8A%E6%B5%B7%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81/" target="cdt-mirror">非新闻｜昆明泛亚金属交易所诈骗案 上海千人示威追讨欠款</a>
 </h2>
@@ -777,5 +777,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

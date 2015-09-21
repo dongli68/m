@@ -21,9 +21,237 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%8A%E6%B5%B7%E9%97%B8%E5%8C%97%E8%AE%BF%E6%B0%91%E6%9D%A8%E5%B7%9D%E8%81%AA%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%9C%8D%E6%AF%92%E8%87%AA/" target="cdt-mirror">自由亚洲｜上海闸北访民杨川聪天安门广场服毒自杀身亡</a>
+</h2>
+<p><p>上海闸北访民杨川聪日前天安门广场服毒自杀身亡，原因是其在上海的拆迁安置房产权不清，他多年上访无果。</p>
+<p>据海外的博讯网报道，9月17日在天安门广场喝农药自杀的上海市闸北区天目西街道访民杨川聪，因抢救无效于9月18日死亡。</p>
+<p>有知情者说：死者生前住中兴路地犁港，因闸北区振沪动拆迁公司，违反国家规定，安置他的房子只有大产权没有小产权，其销售价格在市场上比同类房屋价值低5O万元人民币，杨川聪为此上访，要求调换有产权的房子，遭拒绝。</p>
+<p>四川成都的维权人士黄琦在接受本台记者采访时说，安置房的房主只有大产权，没有小产权的现象在全国各地都有：</p>
+<p>“在中国各地类似的产权不清的安置房有上千万套，地方政府违反国家有关拆迁规定，导致被拆迁户经济上蒙受巨大损失。”</p>
+<p>报道说，本案中振沪动拆迁公司在动拆迁过程序违法，给杨川聪的安置房是没有产权的，这在法律上叫权属关系不清，为此杨上访，但天目西街道不受理他的合法诉求。过去几年，杨川聪每个星期三都到街道综治办去请求解决问题，当时街道办书记推诿责任，说房子不是他拆的，无能为力。</p>
+<p>黄琦对此表示，拆迁房产权不清，以及政府赔偿不足是各地访民上访的主要原因之一：</p>
+<p>“很多拆迁户上访，并通过堵塞交通和示威等方式进行抗争。安置房产权不清会造成业主财产大幅度缩水，在市场上不能销售其房子。”</p>
+<p>访民朋友在网上发帖说：2015年9月18日在天安门广场服农药自杀的上海访民杨川聪，原住在中兴路地犁港，死前几个月没有生活来源，每天到街道要低保。死者杨在天安门广场喝农药时，包里连熟泡面都没有了，对未来彻底绝望，最后选择了到天安门前自杀这条路，杨川聪的死是天目西街道逼死的。假如，街道及时为他办理低保，再给他适当的临时补助，杨川聪绝不会选择自杀。街道政府三个月办不好一个低保，这不是个笑话吗！</p>
+<p>黄琦对此表示，拆迁户上访往往受到当地政府的各种打压，他们的诉求根本无人过问，打官司法院也不立案：</p>
+<p>“上访民众到天安门广场抗议或者服毒自杀都是因为地方政府根本不解决问题所造成的。如果各地政府不从根本上解决失地农民和拆迁户的经济赔偿问题，类似的悲剧还会继续发生。”</p>
+<p>（记者: 高山/责编： 陈平）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%8A%E6%B5%B7%E9%97%B8%E5%8C%97%E8%AE%BF%E6%B0%91%E6%9D%A8%E5%B7%9D%E8%81%AA%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%9C%8D%E6%AF%92%E8%87%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E8%80%85/?category=18271" rel="tag">上访者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA/?category=18271" rel="tag">天安门广场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A030%E5%B9%B4%E5%89%8D%E8%AE%BF%E7%BE%8E%EF%BC%8C%E5%90%8D%E7%89%87%E7%AB%9F%E7%84%B6%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90/" target="cdt-mirror">【网络民议】习30年前访美，名片竟然是这样子</a>
+</h2>
+<p><p>9月21日，@央视新闻在微博上公布了<a href="http://weibo.com/2656274875/CBy9Q6xTS?type=comment#_rnd1442866191158">30年前习近平首次访美时的名片</a>，上面印有“河北省石家庄地区食品协会主席”字样。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-21-at-%E4%B8%8B%E5%8D%881.11.24.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-21-at-%E4%B8%8B%E5%8D%881.11.24.png" alt="Screen Shot 2015-09-21 at 下午1.11.24" width="600" height="569"></a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：<br></strong></p>
+<p><a href="http://weibo.com/5643814194" target="_blank">丰满的吃小货</a>：真年轻</p>
+<p><a href="http://weibo.com/2880585481" target="_blank">韩先森呢</a>：习大大帅！<img title="[心]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" alt="[心]"></p>
+<p><a href="http://weibo.com/sh1000" target="_blank">昆汀Quentins</a>：好，支持，威武，有希望了！（在哪领会员）</p>
+<p><a href="http://weibo.com/multiversemao" target="_blank">平行宇宙猫_</a>：那时候还不胖</p>
+<p><a href="http://weibo.com/5655299183" target="_blank">英雄甫</a>：唉 岁月是把杀猪刀<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"><img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p><a href="http://weibo.com/5667958228" target="_blank">大王派我来巡山了了</a>：不是正定县委书记吗？</p>
+<p>财富密钥：比正定县委书记官大。那个时候出国不容易，县长应该都没有出国名额吧？</p>
+<p>naihe2005：说白了就是变相公款出国旅游。</p>
+<p>叔本善：原来也曾经骗吃骗喝</p>
+<p>一骑绝尘行千里：回复@杭州的Shirley:庆丰包子只是职业习惯而已。并不见得爱吃</p>
+<p>五竹_40911：然后就爆发了三聚氰氨。</p>
+<p>桃李不言2007：果然是个吃货</p>
+<p>卢瑟可：食品协会果然是大吃帝国！最高领导人已开始就是管吃的。[偷笑]炊事班长先提干!</p>
+<p>南行北往：回复@卢瑟可:管了几十年的吃的，还遍地地沟油。</p>
+<p> </p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A030%E5%B9%B4%E5%89%8D%E8%AE%BF%E7%BE%8E%EF%BC%8C%E5%90%8D%E7%89%87%E7%AB%9F%E7%84%B6%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90/?category=18271" rel="tag">包子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8D%89%E8%89%B2%E8%BF%9E%E4%BA%91-%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F%E9%95%9C%E5%A4%B4%E4%B8%AD%E7%9A%84%E5%B8%83%E6%8B%89%E6%A0%BC/" target="cdt-mirror">草色连云 | 秘密警察镜头中的布拉格</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-1.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-1.jpeg" alt="link (1)" width="500" height="355"></a><br>
+金斯堡（左）和年轻的捷克诗人Pavel Beran。1965.5，布拉格。</p>
+<p>上面这张照片拍摄于1965年5月1日的布拉格街头。当时风头正健的金斯堡受邀来到布拉格查尔斯大学朗诵他的诗歌。就在捷克青年学生为金斯堡的到来欢呼雀跃的时候，另一拨人的神经却也因此而开始绷紧。</p>
+<p>这些神经兮兮的家伙就是今天内容的猪脚，也就是题图拍摄者，日夜不停地奋战在布拉格街头第一线的“摄影大师”们——布拉格秘密警察。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-2.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-2.jpeg" alt="link (2)" width="302" height="301"></a><br>
+在布拉格，金斯堡被布拉格市民和学生拥护为“五月之王”（King of May）</p>
+<p>正当金斯堡头戴花冠，在学生们的欢呼声中朗诵着”And I am the King of May, which is the power of sexual youth,/…/and I am the King of May which is Kral Majales in the Czechoslovakian tongue…”（诗句中的“ Kral Majales ”一词是捷克语“五月之王”的意思。五月一日是捷克传统节日，二战中因被纳粹德国占领而中断。1965年，由于学生的呼吁，捷克恢复了给“五月之王”和“五月之后”戴上花冠的传统仪式。）之时，在布拉格Wencislas广场，秘密警察用间谍相机拍下了金斯堡的照片，并在几天后没收了与诗歌朗诵会相关的杂志、海报以及金斯堡的私人笔记本，以阴谋颠覆为由将其驱逐出境。</p>
+<p>嗯，金爷当年的拉风事暂时先聊到这里。要说起“秘密警察”，其实不光是在社会主义阵营，这个星球上几乎所有的国家都豢养着这类物种。虽然前苏联解体后，已经很少听到“秘密警察”这样的字眼，但就像“王老吉”换成“加多宝”一样，如今它们都摇身一变，成了“XX安全局”、“XX调查局”、“XX保卫部”这样的地方。感兴趣的朋友不妨去查一下维基百科对这一物种的解释。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-3.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-3.jpeg" alt="link (3)" width="500" height="509"></a><br>
+东德“史塔西”在检查信件后使用的重新糊口机</p>
+<p>不过，维基上的相关条目也有疏漏之处，比如秘密警察们炉火纯青的偷拍技能就没能得到展现。2009年起，这一缺憾开始被逐渐地弥补，一个名为“秘密警察镜头中的布拉格”（Prague Through the Lens of the Secret Police）的摄影巡展使当年这些“摄影大师”们的“作品”出现在人们的视线中。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-4.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-4.jpeg" alt="link (4)" width="500" height="375"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-5.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-5.jpeg" alt="link (5)" width="500" height="375"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-7.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-7.jpeg" alt="link (7)" width="500" height="375"></a><br>
+以上为哈佛大学“政府与国际研究中心”的展览现场。美国剑桥，2009年11月15日。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-9.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-9.jpeg" alt="link (9)" width="500" height="331"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-10.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-10.jpeg" alt="link (10)" width="500" height="331"></a><br>
+以上为莫斯科“安德烈·萨哈罗夫中心”的展览现场。俄罗斯，2011年3月18日。此次展览曾被视为对俄罗斯政治禁忌的突破。</p>
+<p>展览陈列了前捷克斯洛伐克秘密警察在首都布拉格偷拍的持不同政见者的照片。从照片中可以看到，异议人士的活动，其中包括个人生活，同外国友人的接触等等完全处在秘密警察的监控之下。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-11.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-11.jpeg" alt="link (11)" width="500" height="229"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-13.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-13.jpeg" alt="link (13)" width="500" height="473"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-14.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-14.jpeg" alt="link (14)" width="500" height="281"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-15.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-15.jpeg" alt="link (15)" width="500" height="541"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-16.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-16.jpeg" alt="link (16)" width="500" height="527"></a></p>
+<p>1968年，著名的“布拉格之春”民主运动之后，“Jack,slow fuck”的秘密警察们加大了对异议人士以及普通民众的监视范围，直到1989年xxx倒台前夕才告结束。资料显示，当年总共有近800名秘密警察活跃在偷拍事业的第一线，重点监视对象达500多人，主要的偷拍工具就是下面这些经过伪装的间谍相机、摄录机。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-17.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-17.jpeg" alt="link (17)" width="405" height="289"></a><br>
+经过各种伪装的间谍相机、摄录机，有的甚至被伪装成了婴儿车。</p>
+<p>提供展览照片的捷克国家安全局挡案馆说，当时每个监视行动至少部署两组特工，每组至少3到5人。监视小组通常都配备了通讯器材和交通工具。照相机一般隐藏在大衣、香烟盒、文件箱里。这些监视行动每一个都拥有相应代号，比如1985-1988年代号为“宫廷-1”的行动，监视对象是一些宗教人士。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-18.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-18.jpeg" alt="link (18)" width="500" height="319"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-19.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-19.jpeg" alt="link (19)" width="500" height="231"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-20.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-20.jpeg" alt="link (20)" width="500" height="355"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-21.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-21.jpeg" alt="link (21)" width="500" height="173"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-24.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-24.jpeg" alt="link (24)" width="500" height="523"></a></p>
+<p>谁能说这些秘密偷拍下来的照片不是专业摄影因而就没有艺术性呢？在这些被后世小文青们称作“LOMO”风的照片中，我们看到了布拉格当年空旷的街道，没有霓虹灯，没有广告，过往的行人脸色忧郁，没有笑容。</p>
+<p>这些照片如此形象而真实地再现了当时捷克人生活的那个政治压抑和物资贫乏的年代，从另一个侧面反映了这个前社会主义国家的灰色和乏味，以及沉闷的城市生活。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-25.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-25.jpeg" alt="link (25)" width="500" height="280"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-26.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-26.jpeg" alt="link (26)" width="363" height="139"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-27.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-27.jpeg" alt="link (27)" width="500" height="177"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-28.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-28.jpeg" alt="link (28)" width="500" height="542"></a></p>
+<p>这样的场景我们在电影《窃听风暴》或者昆德拉《生命中不能承受之轻》、奥威尔《1984》等作品中不止一次地看到，当时秘密警察遍布的布拉格乃至整个苏东集团可谓人心惶惶。</p>
+<p>关于秘密警察，且看一下昆德拉老师是怎么解释的：秘密警察有几种职能，第一种是旧式的，他们只是听听人们说些什么，向上司汇报。第二种职能就是威吓人。他们要人们明白我们都在他们的股掌之中，要让我们害怕。第三种职能就是不断制造假象，陷害、栽赃来损害我们的名声。他们需要不断设陷阱，强迫人们与他们合作，给另一些人设陷阱。这样，他们就能慢慢把整个民族变成一个纯粹的告密者组织。</p>
+<p>这次“秘密警察镜头中的布拉格”所展出的监视照片拍摄于上世纪的70、80年代，说起来它不过是整个秘密警察活动的一个极小部分，运用的也只是上述第一种最基础的职能。然而，这也是秘密警察们的工作首次堂而皇之暴露在民众的视线中，惯常的逻辑第一次被颠覆。透过监视者们的视角，这座灰色的、没有生气的城市，仿佛每一个角落都隐藏着无穷的罪恶和被掀开的欲望。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-31.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-31.jpeg" alt="link (31)" width="500" height="231"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-32.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-32.jpeg" alt="link (32)" width="500" height="361"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-33.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-33.jpeg" alt="link (33)" width="500" height="450"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-34.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-34.jpeg" alt="link (34)" width="500" height="334"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-35.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-35.jpeg" alt="link (35)" width="500" height="268"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-37.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-37.jpeg" alt="link (37)" width="500" height="272"></a></p>
+<p>我无法得知当那些在前东欧生活过的人们从这些照片中发现自己的生活时，会是一种什么样的心情。他们很感到惊奇吗？或者只是很蛋定地、带着某种“老子当时就知道周围尽是这些龟孙”的神情重新审视那个希望和恐惧交织的年代：那个在路上和熟人打招呼、推车去超市购物、上班途中或者去公园游玩的年轻的自己；而在周围某些看不见的角落，一只只像空气或影子一样看不见的手，正在一次次按下快门。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-40.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-40.jpeg" alt="link (40)" width="500" height="299"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-41.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-41.jpeg" alt="link (41)" width="500" height="334"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-42.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-42.jpeg" alt="link (42)" width="400" height="268"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-43.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-43.jpeg" alt="link (43)" width="500" height="334"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-44.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-44.jpeg" alt="link (44)" width="500" height="281"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-45.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-45.jpeg" alt="link (45)" width="235" height="214"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-46.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-46.jpeg" alt="link (46)" width="500" height="298"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-47.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-47.jpeg" alt="link (47)" width="500" height="271"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-48.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-48.jpeg" alt="link (48)" width="500" height="214"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-49.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-49.jpeg" alt="link (49)" width="500" height="337"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-52.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-52.jpeg" alt="link (52)" width="500" height="528"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-53.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-53.jpeg" alt="link (53)" width="500" height="554"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-54.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-54.jpeg" alt="link (54)" width="500" height="345"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-56.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-56.jpeg" alt="link (56)" width="500" height="259"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-57.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-57.jpeg" alt="link (57)" width="500" height="521"></a></p>
+<p>同样的，我也无法得知，当这些照片的拍摄者多年之后再一次面对自己“作品”的时候，会怎样审视自己当年的这份工作，是否也能感受到其中的可笑和荒谬？</p>
+<p>“洪水越向四周扩大水就越浅，越浑。革命蒸发了，只留下新官僚体制的泥浆。束缚人类使其受苦的镣铐是办公纸做的。”生活在布拉格的作家卡夫卡如是说。我想，对于生活在那个年代的捷克民众而言，这副束缚他们“使其受苦的镣铐”大概不仅仅是办公纸做的，其中还有无数双监视者的眼睛以及他们正在按动快门的手。</p>
+<p>卡夫卡另外还说过这么一句话——“我们清醒地穿过梦境：我们自己只不过是过去岁月的一个幽灵。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8D%89%E8%89%B2%E8%BF%9E%E4%BA%91-%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F%E9%95%9C%E5%A4%B4%E4%B8%AD%E7%9A%84%E5%B8%83%E6%8B%89%E6%A0%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%83%E6%8B%89%E6%A0%BC%E4%B9%8B%E6%98%A5/?category=18271" rel="tag">布拉格之春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%91%84%E5%BD%B1%E5%B1%95/?category=18271" rel="tag">摄影展</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">秘密警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">间谍</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A4%A7%E5%B8%88%E5%85%84%EF%BC%8C%E5%B8%88%E5%82%85%E6%8A%8A%E5%A6%96%E6%80%AA%E6%8A%93%E8%B5%B0%E4%BA%86/" target="cdt-mirror">雾满拦江｜大师兄，师傅把妖怪抓走了</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/allpaper-disney-desktop-wallpaper-artoon-isney-cartoon-characters-widescreen-photo-vector.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/allpaper-disney-desktop-wallpaper-artoon-isney-cartoon-characters-widescreen-photo-vector-1024x640.jpg" alt="allpaper-disney-desktop-wallpaper-artoon-isney-cartoon-characters-widescreen-photo-vector" width="500" height="312"></a></p>
+<p><strong>雾满拦江 | IPO案例库</strong></p>
+<p>（01）</p>
+<p>人类社会，有妖吗？</p>
+<p>古人说：事物反常则为妖。</p>
+<p>那就应该有。</p>
+<p>（02）</p>
+<p>1863年夜，曾国藩于安庆军营中，绕柱徘徊，积泪涨江。</p>
+<p>他刚刚接到邸报，报说皖南人肉市场，价格出现大幅飙涨。</p>
+<p>人肉市场，就是杀了人，卖肉赚钱那种。</p>
+<p>皖南本是鱼米之乡，但自从洪秀全的太平天国，落脚于南京城。周边地区就沦为战场，这仗一打就快十个年头。百姓无以生存，只能是相互吞食。当初洪秀全占据南京时，一斤人肉不过是30文，现在翻了两番，一斤人肉卖到120文。句容、二溧两地的人肉市场很稳定，始终维持在80文一斤左右。</p>
+<p>曾国藩哭啊，兴，百姓苦，亡，百姓苦。中国的老百姓，真是太惨了。现在战争眼看快要结束，有什么办法，能让老百姓别再这么惨呢？</p>
+<p>正苦思无计，忽然有人来报：报，涂宗瀛涂大人来了。</p>
+<p>涂宗瀛？曾国藩大喜：快请，他一定有办法帮帮这些可怜的百姓。</p>
+<p>（03）</p>
+<p>涂宗瀛，安徽六安人氏，他好学，爱交友，赴京考试落榜，但包括曾国藩在内的朋友们，都替他在朝廷鸣屈，说他有才干。于是涂宗瀛以落榜生的资格，获得了个知县职位。此后他来到曾国藩幕府，替曾国藩度支军粮马料。</p>
+<p>他是曾国藩幕府中有名的道学家，传说曾氏幕府有三圣七贤，这涂宗瀛是三圣中的头一名。</p>
+<p>这都是圣人了，肯定会有办法拯救黎民于水火了吧？</p>
+<p>曾国藩心里想着，立即叫涂宗瀛进来，说道：小涂，你来得正好，现在皖南的经济环境，越来越差了，百姓易子而食，人肉卖到120文一斤，你可有补救时局的良策？</p>
+<p>就见涂宗瀛一挥手：曾大人，此乃小事。</p>
+<p>曾国藩：小事？那什么是大事？</p>
+<p>涂宗瀛大声回答：扫黄！</p>
+<p>扫黄，重拳出击，打击沉渣泛起的卖淫嫖娼业，才是大事！</p>
+<p>涂宗瀛站起来，慷慨激昂的道：曾大人，不是我这个做下属的批评你，你太官僚了，太脱离人民群众了，没有发现秦淮河一带，卖淫业又死灰复燃了吗？年纪轻轻的小姑娘，不说干点正经营生，整天涂脂抹粉，靠了和男人睡觉挣钱。也不怪她们好吃懒坐，这钱赚得容易啊，两腿一撇银子就来了，连许多大妈大婶，看得眼红也都干上了这个。</p>
+<p>曾国藩拿手在涂宗瀛眼前晃了晃：小涂，你没发高烧吧？这边老百姓……都活不下去了，你还盯着这事……</p>
+<p>涂宗瀛大怒：曾大人，你虽然是我的领导，但这话我不能同意。战争糜烂经济，这只是常态而已，而卖淫业死灰复燃，却会彻底败坏社会风气，这风气一败坏，人心浇漓，道德滑坡，那后果可太严重了。曾大人啊，你说咱们是啥人呀？咱们是读书人！读书的目的是干什么呀？为天地立心，卖淫是天地之心吗？为生民立命，嫖娼是为生民立命吗？为往圣继绝学，请问哪个圣人的绝学是说卖淫这事？为万世开太平，请问，一个卖淫成风人心崩坏的世道，能开得了万世的太平吗？</p>
+<p>气势雄浑的说罢，涂宗瀛追问道：曾大人，你回答我呀。</p>
+<p>回答……曾国藩把头扭过去：你说得好有道理，我竟无辞以对。</p>
+<p>（04）</p>
+<p>涂宗瀛走后，曾国藩悄悄的调查了一下他，这一调查，曾国藩的鼻子，就有点歪。</p>
+<p>这个涂宗瀛，不唯是正义凛然，还极有创意——在贪腐方面，大胆且极具时代精神。</p>
+<p>当时官场的潜规则，下级要隔三岔五给上司送礼，不送就说明你对领导缺乏感情。送归送，但这是见不得光的事儿。但涂宗瀛，却是大鸣大放的收礼。他外放做江宁知府，头一桩事，就是往自己的办公台案上，摆放了只天平。逢到要求下属送礼，他就用天平一一过秤，如果有谁敢缺斤短两，他就仰天长恸，人心浇漓，世道崩坏，还让不让人好好的收贿了？</p>
+<p>他就是这么个人，对自己无限宽容，对别人无限苛刻。自己收个贿赂，都理直气壮生恐斤两不足。而当地百姓到了人肉都没得吃，不得不靠皮肉生涯维持最后的生存了，他还要求扫黄，要断绝百姓的最后一线存活机会。</p>
+<p>可麻烦的是，除非你以收授贿赂罪追究他本人，就他那满口的仁义道德冠冕堂皇，纵然是曾国藩，也无从驳辨。</p>
+<p>现在的曾国藩，要考虑的已经不是如何恢复经济，让走投无路的百姓活下去，而是避免他们再遭受到如涂宗瀛这类人的当头一击。</p>
+<p>唉，这可咋个办呢？</p>
+<p>（05）</p>
+<p>曾国藩终于想出一招，他带了几个人，亲自去秦淮河玩了一趟，叫了几个小萌妹，着实享受了一下人生。</p>
+<p>曾国藩回来，就见涂宗瀛堵在门口：大人，扫黄这事咱们得抓紧……</p>
+<p>曾国藩劈口打断他：扫黄这事就不要提了。本官今日亲自视察了秦淮河，歌舞升平呀，不滋事不扰民，一条船能养活几十上百人，起码她们不必被人家剥皮剔骨拿到市场上卖肉了。</p>
+<p>涂宗瀛面有不悦：大人，你我读书之辈，这世道人心……</p>
+<p>曾国藩：好了好了，先把经济搞上去，让老百姓活下去，其它的事儿，就不要争论了。</p>
+<p>涂宗瀛：大人，下官坚决反对……</p>
+<p>曾国藩眼睛一立：日你娘，老子不是说了不争论的吗，你听不见吗？</p>
+<p>你……涂宗瀛讪讪而退。</p>
+<p>这段故事，说的就是曾国藩不扫黄，以慈悲心肠，活秦淮河两岸生民无数。所以后人称誉他才是真正的圣者。</p>
+<p>（06）</p>
+<p>眨眼间曾国藩的时代，就过去了，历史到了1948年。</p>
+<p>1948年，大家都晓得，这一年正是国民党在战场上连吃败仗，而国统区的经济，尤其是上海的经济，面临着岌岌可危的局面。这时候正应该放开活路，多想办法，刺激消费，就算不能把经济搞上去，多少也得维持现状才行。</p>
+<p>要如何做，才能刺激经济增长呢？</p>
+<p>危难之际，国民政府的全国经济委员会，向蒋介石递交了一份拯救时局，挽回颓势的神奇策划。</p>
+<p>焦头烂额的蒋介石大喜，急忙打开报告书，仔细一看：……啥玩艺儿？禁舞令？</p>
+<p>对，全国经济委员会告诉蒋介石：就是不允许舞女们，再靠跳舞谋生了。你说挺漂亮的小姑娘，干啥营生不好？非得跳舞？也不嫌丢人！</p>
+<p>不让小姑娘跳舞……就能打败共军？</p>
+<p>蒋介石对此，有点吃不准。</p>
+<p>禁舞，肯定能打败共军，全国经济委员会告诉他：委员长，你想过没有，为什么我军连吃败仗呢？就是因为世道浇漓，人心败坏。为啥人心败坏呢？全是跳舞惹的祸。男人跳舞就劈腿，女人跳舞就出轨。你说大家都忙着劈腿出轨了，谁还有心思打共军呀？</p>
+<p>这实际上是考验蒋介石智商的时候，他生平奉曾国藩为楷模，还曾颁发曾胡治兵语录。但他的性子太浮，是否听说过曾国藩游秦淮河事，极为可疑。</p>
+<p>你说得好有道理，我竟无辞以对。蒋介石当时脑子一抽，智力飙降，竟然批准了这条政令。</p>
+<p>这就差不多等于在战败书上签字了。</p>
+<p>当时上海广州，失业率奇高，往往一个舞女，要养一家几口人。这条政令就等于一下子将数万人，推到了濒亡边缘。当时上海和广州的舞女就怒了，</p>
+<p>于是就爆发了民国史上最轰动的舞潮案。</p>
+<p>上海舞女愤怒的上了街，宪兵拎着警棍，亢奋不已的冲上来弹压，双方于上海街头大战。当时的情形就是，战场上共军哐哐哐狠削国军，后方则是舞女们哐哐哐死揍宪兵，战场上的事不说，上海砸警察署的舞女，就被抓了数百人。</p>
+<p>估计后来到台湾的蒋介石，想起这事来铁定也是纳闷不已，哎哟妈，你说我当时咋就脑抽了，批准了这么个自杀式政令呢？</p>
+<p>不是他脑抽，是闹妖了。</p>
+<p>涂宗瀛式的妖人出现，必兴风浪。</p>
+<p>（07）</p>
+<p>历史上，每逢战乱，或是经济危机时，总会有涂宗瀛这类怪人出现，满腔正义满口正气，但起到的作用，却是将生民向死亡推进一步，甚至几步。</p>
+<p>这类人，行反常之事，就是妖。</p>
+<p>妖有妖法，谁都看得明明白白，但却无法抵御。</p>
+<p>他们总是在时局最艰难的时候出现，一旦出现，就会遵循这样的模式：</p>
+<p>第一步叫道德杀，高擎道德战旗，以最高尚的道德，苛求于处于最艰难时段的人。纵然是智圣曾国藩，也不敢说人在困窘时就可以放任自流，或说在饿死前可以卖身，你不敢说，就已经中招了。</p>
+<p>第二步叫经济死，以廊清乾坤，重整道理，振奋人心为口号，在经济疲软、最应该推行扩张政策，刺激消费时，强迫你实施紧缩政策，抑制本已半死的经济。由于你不敢明确出言反对他的正义口号，就只能被一步步推进陷阱之中。纵然是蒋介石，在这招面前也得乖乖入套，连还手的余地都没有。</p>
+<p>第三招叫死光光，经济疲软时还紧缩，还抑制，甚至驱逐资本，这时候大家就坐以待毙了。</p>
+<p>如果在经济疲软之时，有人不说抓紧时间解决民生，而是突然亮出正义堂堂的口号，高叫资本不要跑，你就知道有妖怪下山了。</p>
+<p>中国历史上，陷入妖域的次数极多，曾国藩是智圣之辈，他破局了。而如蒋介石那般，却是个常态。</p>
+<p>但如果你扫视一下历史，就会发现，这种妖异现象，在正常国家根本不会出现，而是只出现在特定的国家里，这又是什么原因呢？</p>
+<p>这种国家，往往是中了权力的魔咒，从权力的羽翼下，释放出妖异的冲动。</p>
+<p>（08）</p>
+<p>想当年唐僧取经，沿途原本是风光秀丽，山水如画，溜溜挞挞就到西天，把经取了。但沿途总会有从天庭上跑来的神仙，化形为妖，全部的目的只是为了给唐僧添堵，恶心唐僧，羞辱唐僧——他所经历的苦难，九成九都是人为的。</p>
+<p>之所以多灾多难，只是为了凸显高高在上的权力意志。</p>
+<p>之所以多灾多难，只是权力在寻找存在感。如果你自由发展，幸福快乐，权力它找谁玩去？</p>
+<p>涂宗瀛形迹虽近于妖，但他却地地道道是朝廷任命的神仙。他甚至是曾国藩力荐的妖仙之一。曾国藩之所以能逃过这系列妖法，就是因为涂宗瀛是自己家的妖，不好过份跟他顶牛。如果他不养几只这样的小妖，万一朝廷派来几只公事公办公乱公添的陌生妖，那才叫惨。</p>
+<p>蒋介石中招，是因为他早年就是只大妖，通过新生活运动的妖法，坐瓷实了江山。可这妖法施展出来容易，收回去难。全国经济委员会的仙妖们，正是拿着蒋氏的套，让他自己往里钻，他又怎么好意思不钻？</p>
+<p>如何摆脱这操蛋的妖法呢？</p>
+<p>其实也不难。</p>
+<p>首先，你必须要明白，人类是经济人，共有经济属性，而非政治人，更非道德人。如果有人擎起后二者的大旗，你就冲他脸上呸一口。他被人连呸两次，就不好意思变妖，兴风作浪了。</p>
+<p>其次，你要明白，最底层人的苦难，远超我们的想象，他们就是我们自己。如果有人伤害了他们，一并受到伤害的，就是我们。我们每个人都是海洋中孤岛上的泥土，被海水冲走一块，我们都会自身难保。伤害别人，实际上是在伤害自己。关爱或保护别人，同样也是关爱保护我们自己。</p>
+<p>再次，他人与公众，适用的永远是常轨道德，高标道德不是用来苛人的，而是用来律已的。一旦苛求于人，我们就离垃圾不远了。</p>
+<p>最后一点，一个时代变好，需要极复杂的推动力量。而一个时代变坏，需要的只是恐惧与内心深处的怨毒。西天取经是一个最好不过的隐寓，我们都是唐三藏，行走在艰难的取经之路，唯有求助于智慧，才能够帮助我们解脱困境。在这个过程中，任何一个小妖，都很容易的伤害到我们——但，除非你自己因为恐惧而放弃，那我们所处的这个时代，就不会输掉。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A4%A7%E5%B8%88%E5%85%84%EF%BC%8C%E5%B8%88%E5%82%85%E6%8A%8A%E5%A6%96%E6%80%AA%E6%8A%93%E8%B5%B0%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%9F%E5%8F%A4%E8%AE%BD%E4%BB%8A/?category=18271" rel="tag">借古讽今</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%BE%E5%9B%BD%E8%97%A9/?category=18271" rel="tag">曾国藩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%82%E5%AE%97%E7%80%9B/?category=18271" rel="tag">涂宗瀛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%B8%B8%E8%AE%B0/?category=18271" rel="tag">西游记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-pcb%E5%8D%B0%E5%88%B6%E7%94%B5%E8%B7%AF%E5%88%B6%E9%80%A0%E5%95%86%E8%A2%AB%E8%A6%81%E6%B1%82%E5%8A%9E%E7%90%86%E3%80%8A%E5%8D%B0%E5%88%B7%E7%BB%8F%E8%90%A5/" target="cdt-mirror">奇客资讯 | PCB印制电路制造商被要求办理《印刷经营许可证》</a>
 </h2>
 <p><p>据中国印制电路行业协会（CPCA）官网文章，上海的一家印制电路PCB企业收到上海市新闻出版局〔2014〕905号文，文中表述“在生产电子线路板过程中采用丝网印刷是一种新技术、新工艺，类似现象在生产企业中一定范围内存在。在生产电子线路板过程中采用丝网印刷的行为属于《印刷业管理条例》的规范对象，应予以引导规范，纳入印刷业行政管理范畴。”该公司被要求办理《印刷经营许可证》。</p>
@@ -598,164 +826,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E
 </p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%98%89%E8%AF%9A%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%95%86%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89/" target="cdt-mirror">凤凰智库｜李嘉诚的自我辩护：我就是一个商人，没有更好的选择</a>
-</h2>
-<p><p>上帝的归上帝，凯撒的归凯撒，商业的归商业，政治的归政治。</p>
-<p>我是一个商人，希望大家不要给我戴上什么帽子，无论高的，还是矮的，我都不想有。因为我不是道德家、教育家、更不是什么阴谋家、政治家，我仅仅就是一个商人而已。了解这一点，你就很容易读懂我的自我辩护。很多时候，我的选择，是因为我没有其他更好的选择，不是因为我想进行这样的艰难选择。</p>
-<p><img src="http://y2.ifengimg.com/a/2015_38/f3147f2f7170c88.jpeg" alt="" width="261" height="353"></p>
-<p>1928年我出生在中国广东潮州，出生时没有什么特殊的异象，预示我以后成为一个伟大的企业家，或者是一名出色的奸商。目前各种关于我的各种传记，绝大多数是基于文学演绎的穿凿附会，你们都不要信。如果我可以选择我的出生，我宁愿出生在富庶和平的国家。</p>
-<p>和多数普通潮汕人一样，父亲安排我祭拜孔子儒学，进入观海寺小学念书，读的是一些传统爱国爱家的思想书籍。我成绩既不优秀，也不很差，我就是一个普通的孩子，放在街头，站在村口，和其他人没有什么异样。</p>
-<p>如果没有战争，或者我就留在潮州，不会来香港，那么我可能度过平庸的一生，也或者过早死于战火，或者过早死于饥荒和疾病。当然，也可能侥幸度过这些劫难，现在潮州的某一个街道或村庄，悠闲地踱着步伐，没有被批判，也没有鲜花和掌声。当然，很可能比现在贫穷很多，但不一定就不如现在幸福。</p>
-<p>因为日本侵华，我逃到了香港。同时因为后来的中国内战，我留在了香港没有返回潮州，我的故事因此开启，人生被彻底改变。请注意这个关键点，这些并不是我想要的，不是我主动选择的，我也被时代的大潮裹挟到了香港，不是荣耀的移民，而是逃离的难民。我到世界其他地方可能是为了经商和学习，但是我回到潮州故里访亲，纯粹是寻找一份家的感觉。</p>
-<p>有一些东西不是我想要的，也不是我主动能选择的，这一点很重要。这就是我的命运，我的人生。但是我在最艰难的被动选择里，选择了相对较好的结果，这是我的成功之处。如果人生可以重来，我宁愿不要这些艰难的选择。我希望我的孩子们、我的同事们、甚至每一个中国人，都能有主动选择的余地，从容安排他们的人生，不像我李嘉诚。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/8ebccb3f33d6d99.jpg" alt="8ebccb3f33d6d99" width="551" height="367"></p>
-<p>我从普通的学徒、店员、街头推销员一步一步做起来的，直到塑料花厂的总经理。在其中我积累了不少经验，那段时间虽然过得非常辛苦，但是非常充实而快乐。我早早失学，没有读过太多的书，但是社会就是最好的学堂，我一直在学习，没有停止过，直到现在。我充分理解失学的痛苦，所以后来援建了汕头大学。如果我能选择，我愿意坐在汕头大学的课堂，而不是香港的写字楼里。</p>
-<p>我也不是白手起家，我创业的时候得到妻子家族的帮助，这一点我从不讳言。不要把我打扮成白手起家的商业之神，我感谢在我创业之初支持和帮助我的所有人。不过我并不是什么富二代、也没有去吃软饭，我最终靠的是自己的能力，还有天时和运气。网上流传的白手起家和完全靠朋友支持的两个极端，都非事实。</p>
-<p>上个世纪五六十年代，香港的来料加工业兴起，欧美的生产转移到香港，这是我的机会。现在回头看来，我成为所谓的“塑胶花大王”，并不是因为我多厉害，只是顺应了时势而已。即使没有我，也有其他人能够享有此名。事实上，我只是“塑胶花大王之一”，擅自称王，是对其他成功同行的不敬。</p>
-<p>真正困难的第一次抉择，来自1967年香港的左派闹事，导致香港的房地产一落千丈，那时候我的损失也很大。这时候有一些人卖掉了房子和土地，离开了香港。而我认为香港终将度过这些风波，于是买进了不少土地。很多人认为我有眼光、低价收购土地储备。其实没有人关心我暗地里的担忧，私底下的恐慌。如果左派闹事成功，我将一文不名，甚至成为资本家的反面典型，在香港跳楼的名单中，就有我的名字，而不是在福布斯富豪榜上。</p>
-<p>在这个过程中，风险和利益都是巨大的，也是均沾的，我不认为这有什么道德准则和商业原则的错误，它就是一桩生意而已，可能赚，也可能亏，而且是如履薄冰、如临深渊的高风险生意。任何过度的解读都是阴谋论，都是事后诸葛亮。</p>
-<p>其后从我们长江实业的上市，到购入老牌英资商行“和记黄埔”的部分股权，都是地地道道的生意。有钱赚是生意人的根本价值，做生意要遵从双方互惠互利的基本原则，当年购买我们股票的股民们也都有丰厚的利润。虽然因为缘分我心怀感恩，但本质上是合法、合理的，相互都不需介怀什么。</p>
-<p>说得比较远了，我说一下现在网上各种对我的指责，说我忘恩负义，唯我是利，占了便宜之后转移资产到欧洲，面对经济危机不是承担责任而是全面撤资、影响到中国的面子和信心，并高呼“别让李嘉诚跑了”。甚至说香港目前的经济停滞困难，是我们这些“豪族”畸形的经济手法导致的。</p>
-<p>我想写这类文章和赞成这些观点的，也是抱持善意，他们爱国爱民的心我能理解。但是他们不懂起码的商业原则，以及市场经济的运作真相，甚至于，他们不懂真正的人性。</p>
-<p>让我们回到上个世纪70年代末文革结束、90年代初重启改革、97年香港回归之际，香港的社会波诡云谲，各种传言甚嚣尘上，对是否改革开放、是否会回到文革、是否会全面实现市场经济、是否保持一国两制等重大问题，抱有疑虑的非常多。在每一个政治关键的节点，都有大量的动摇者裹足不前，甚至逃之夭夭。每一个人都面对这些艰难的选择。</p>
-<p>我只是一个商人，在每一个关键节点的选择上，我认为风险与利益同在，和很多人判断不同。于是我在大陆遍地投资，港口、地产、金融、科技等领域都有涉及。指责我的文章说我与官方走的很近，利用了权力资源。这是典型的事后判断。</p>
-<p>回到当年，我选择与官方进行合作，官方在政治上同样获得了巨大的回报，这本质上依旧是一门生意，尤其是风险和利益同在且巨大的生意。我感谢当时的官方和政府，我也帮助了他们，带来了急需的资金、技术和人才，让香港乃至全球商界对中国更有信心。在本质上，我们可以相互感恩，但是互不相欠，这就是生意。</p>
-<p>中国经济整体依旧是向好的，这个我肯定。13亿的人口和960万平方公里的土地，机会肯定是无限的。但是经过了这么多年的高速增长，以及信贷过度，已经来到了一个峰值，下一步会怎么样，我也不会贸然下结论，但具有较大的不确定性。商人的首要目标是让资本更安全，其次才是增值更快。我当年大举投资大陆和现在全球布局，时间点不一样，考虑的自然不一样，但都是基于这样的考虑。除此以外，没有其他原因。就是现在，我在大陆依旧还有不少投资。</p>
-<p>如《别让李嘉诚跑了》一文所说，1967年、70年代末、90年代初、97年香港回归这些重要的节点，我的选择正确，因而获得了巨大的利益。但事实上，正常的商业是不需要经过这种政治选择的，而是相对纯粹的经济考量。有正常的政治氛围和良好的商业环境，就不会存在谁跑不跑的问题。存在这个问题，恰恰就是问题的根源所在。</p>
-<p>在职业上，我是一个纯粹的商人，不要用那些空洞的道德来衡量我。如果不能做一个成功的商人，那我的职业是失败的，人生也是残缺的。不赚钱的商人不是好商人，也没有资本利润去做善事。很多人认为，商业赚了钱之后，应该回报社会。这个我是认同的。但是如何回报社会，这个分歧巨大。难道商人应该亏本，去补贴国家和政府吗？这显然是荒谬的。</p>
-<p>我们回报社会，首要条件就是赢利、赚钱，这样才能回报人民。企业没有教导人民的责任和义务，宗教和教育才是。我们通过守法经营以身作则，同时用资本捐助学校来达到教育的目的，通过捐助贫民来达到扶助的目的。如果我们亏钱，那什么都不可能去做。如果我直接去搞教育，一定比专业的大专院校来的差。这就是最好的商业，最好的教育。</p>
-<p>香港需要寻找未来，大陆需要寻找未来，大中华区需要寻找未来，全世界都需要寻找未来，但是我需要寻找的只是利润。地产、金融可以，教育、科技也可以，对我来说，谁是趋势、谁利润更大才是我要考虑的，而不是空洞的政治考量和虚假的道德说教。不要试图让商人去承担国家的政治责任，也不要试图用政治去影响商人的经营理念。上帝的归上帝，凯撒的归凯撒，商业的归商业，政治的归政治。我就是一个商人，会去努力理解政治，但是我绝不僭越政治，那是政治家们的事情。</p>
-<p><img src="http://y1.ifengimg.com/a/2015_38/e67ed231c35050c.jpeg" alt="" width="300" height="379"></p>
-<p>我今年87岁了，已经是古稀之年，安全比利润对我来说更重要。我从来就不是大家说的是什么超人，我可能算是一个成功的商人，但我其实更是一个普通的人，甚至是一个老人。我希望我的人生能画上一个完美的句号，而不想在晚年再横生枝节。我也希望我的家人和我的商业在我故去之后，正常运转，得到良好的继承。</p>
-<p>我最后反复强调一点，我是一个商人，也是一个慈善人士，但绝不是政治家、教育家等。我参与兴建汕头大学、汕头大学附属医院、潮州的安居工程等，前后达到150亿港元，且绝大多数都花在大中华区。这都是纯粹捐献，没有任何利益可图。这是我最引以为骄傲的所在。能为家乡人做事，能为祖国尽一份力量，是我的荣幸。我只是可能用的钱多一点，但是和其他人的捐献一样，同是一份心意而已，不高什么，也不低什么。汕头大学的毕业典礼，我风雨无阻地前去参加，力所能及地以过来人说说一些人生经验，但绝没有任何姿态，那里纯粹是老师们的课堂。</p>
-<p><img src="http://y0.ifengimg.com/a/2015_38/4c54e91703f74da.jpeg" alt="" width="320" height="220"></p>
-<p>我希望大家不要把我神化，也不要把我妖魔化，其实我像你们现在的同事，也像你邻居的老头而已。我和他们一样犯过错误，也和他们一样慈祥友爱。我承担了我的错误，也获得了我的荣耀，我的人生由我自己负责，你们每一个人同样也是。不要给我过多的褒扬，也没有必要泼给我很多脏水，虽然我不在意自己的感受，但是我在意你对你自己心灵的灼伤，以及毒化中国人脆弱的舆论环境。</p>
-<p>我的生意或许部分不在中国，但是我的心一直在这里，根依旧扎在这里。我是潮汕人，也是香港人，还是中国人，也是加拿大籍，最终我们都是地球村的居民。我爱我的家乡，我爱我的故乡，我爱我的祖国，我也爱我们共同居住的地球，我的爱真挚而深沉，和你一样。</p>
-<p>李嘉诚不会跑，也不愿跑，更跑不了。这是我的真心话，也是我的誓言。</p>
-<p>（原文署名作者：胡马胡川徽）</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%98%89%E8%AF%9A%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%95%86%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%98%89%E8%AF%9A%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%95%86%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89/" target="cdt-mirror">凤凰网｜李嘉诚：我就是一个商人，没有更好的选择</a>
-</h2>
-<p><p>上帝的归上帝，凯撒的归凯撒，商业的归商业，政治的归政治。</p>
-<p> </p>
-<p>我是一个商人，希望大家不要给我戴上什么帽子，无论高的，还是矮的，我都不想有。因为我不是道德家、教育家、更不是什么阴谋家、政治家，我仅仅就是一个商人而已。了解这一点，你就很容易读懂我的自我辩护。很多时候，我的选择，是因为我没有其他更好的选择，不是因为我想进行这样的艰难选择。</p>
-<p> </p>
-<p><img src="http://y2.ifengimg.com/a/2015_38/f3147f2f7170c88.jpeg" alt="" width="261" height="353"></p>
-<p> </p>
-<p>1928年我出生在中国广东潮州，出生时没有什么特殊的异象，预示我以后成为一个伟大的企业家，或者是一名出色的奸商。目前各种关于我的各种传记，绝大多数是基于文学演绎的穿凿附会，你们都不要信。如果我可以选择我的出生，我宁愿出生在富庶和平的国家。</p>
-<p> </p>
-<p>和多数普通潮汕人一样，父亲安排我祭拜孔子儒学，进入观海寺小学念书，读的是一些传统爱国爱家的思想书籍。我成绩既不优秀，也不很差，我就是一个普通的孩子，放在街头，站在村口，和其他人没有什么异样。</p>
-<p> </p>
-<p>如果没有战争，或者我就留在潮州，不会来香港，那么我可能度过平庸的一生，也或者过早死于战火，或者过早死于饥荒和疾病。当然，也可能侥幸度过这些劫难，现在潮州的某一个街道或村庄，悠闲地踱着步伐，没有被批判，也没有鲜花和掌声。当然，很可能比现在贫穷很多，但不一定就不如现在幸福。</p>
-<p> </p>
-<p>因为日本侵华，我逃到了香港。同时因为后来的中国内战，我留在了香港没有返回潮州，我的故事因此开启，人生被彻底改变。请注意这个关键点，这些并不是我想要的，不是我主动选择的，我也被时代的大潮裹挟到了香港，不是荣耀的移民，而是逃离的难民。我到世界其他地方可能是为了经商和学习，但是我回到潮州故里访亲，纯粹是寻找一份家的感觉。</p>
-<p> </p>
-<p>有一些东西不是我想要的，也不是我主动能选择的，这一点很重要。这就是我的命运，我的人生。但是我在最艰难的被动选择里，选择了相对较好的结果，这是我的成功之处。如果人生可以重来，我宁愿不要这些艰难的选择。我希望我的孩子们、我的同事们、甚至每一个中国人，都能有主动选择的余地，从容安排他们的人生，不像我李嘉诚。</p>
-<p> </p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/8ebccb3f33d6d99.jpg" alt="8ebccb3f33d6d99" width="551" height="367"></p>
-<p> </p>
-<p>我从普通的学徒、店员、街头推销员一步一步做起来的，直到塑料花厂的总经理。在其中我积累了不少经验，那段时间虽然过得非常辛苦，但是非常充实而快乐。我早早失学，没有读过太多的书，但是社会就是最好的学堂，我一直在学习，没有停止过，直到现在。我充分理解失学的痛苦，所以后来援建了汕头大学。如果我能选择，我愿意坐在汕头大学的课堂，而不是香港的写字楼里。</p>
-<p> </p>
-<p>我也不是白手起家，我创业的时候得到妻子家族的帮助，这一点我从不讳言。不要把我打扮成白手起家的商业之神，我感谢在我创业之初支持和帮助我的所有人。不过我并不是什么富二代、也没有去吃软饭，我最终靠的是自己的能力，还有天时和运气。网上流传的白手起家和完全靠朋友支持的两个极端，都非事实。</p>
-<p> </p>
-<p>上个世纪五六十年代，香港的来料加工业兴起，欧美的生产转移到香港，这是我的机会。现在回头看来，我成为所谓的“塑胶花大王”，并不是因为我多厉害，只是顺应了时势而已。即使没有我，也有其他人能够享有此名。事实上，我只是“塑胶花大王之一”，擅自称王，是对其他成功同行的不敬。</p>
-<p>真正困难的第一次抉择，来自1967年香港的左派闹事，导致香港的房地产一落千丈，那时候我的损失也很大。这时候有一些人卖掉了房子和土地，离开了香港。而我认为香港终将度过这些风波，于是买进了不少土地。很多人认为我有眼光、低价收购土地储备。其实没有人关心我暗地里的担忧，私底下的恐慌。如果左派闹事成功，我将一文不名，甚至成为资本家的反面典型，在香港跳楼的名单中，就有我的名字，而不是在福布斯富豪榜上。</p>
-<p> </p>
-<p>在这个过程中，风险和利益都是巨大的，也是均沾的，我不认为这有什么道德准则和商业原则的错误，它就是一桩生意而已，可能赚，也可能亏，而且是如履薄冰、如临深渊的高风险生意。任何过度的解读都是阴谋论，都是事后诸葛亮。</p>
-<p> </p>
-<p>其后从我们长江实业的上市，到购入老牌英资商行“和记黄埔”的部分股权，都是地地道道的生意。有钱赚是生意人的根本价值，做生意要遵从双方互惠互利的基本原则，当年购买我们股票的股民们也都有丰厚的利润。虽然因为缘分我心怀感恩，但本质上是合法、合理的，相互都不需介怀什么。</p>
-<p> </p>
-<p>说得比较远了，我说一下现在网上各种对我的指责，说我忘恩负义，唯我是利，占了便宜之后转移资产到欧洲，面对经济危机不是承担责任而是全面撤资、影响到中国的面子和信心，并高呼“别让李嘉诚跑了”。甚至说香港目前的经济停滞困难，是我们这些“豪族”畸形的经济手法导致的。</p>
-<p> </p>
-<p>我想写这类文章和赞成这些观点的，也是抱持善意，他们爱国爱民的心我能理解。但是他们不懂起码的商业原则，以及市场经济的运作真相，甚至于，他们不懂真正的人性。</p>
-<p> </p>
-<p>让我们回到上个世纪70年代末文革结束、90年代初重启改革、97年香港回归之际，香港的社会波诡云谲，各种传言甚嚣尘上，对是否改革开放、是否会回到文革、是否会全面实现市场经济、是否保持一国两制等重大问题，抱有疑虑的非常多。在每一个政治关键的节点，都有大量的动摇者裹足不前，甚至逃之夭夭。每一个人都面对这些艰难的选择。</p>
-<p>我只是一个商人，在每一个关键节点的选择上，我认为风险与利益同在，和很多人判断不同。于是我在大陆遍地投资，港口、地产、金融、科技等领域都有涉及。指责我的文章说我与官方走的很近，利用了权力资源。这是典型的事后判断。</p>
-<p> </p>
-<p>回到当年，我选择与官方进行合作，官方在政治上同样获得了巨大的回报，这本质上依旧是一门生意，尤其是风险和利益同在且巨大的生意。我感谢当时的官方和政府，我也帮助了他们，带来了急需的资金、技术和人才，让香港乃至全球商界对中国更有信心。在本质上，我们可以相互感恩，但是互不相欠，这就是生意。</p>
-<p> </p>
-<p>中国经济整体依旧是向好的，这个我肯定。13亿的人口和960万平方公里的土地，机会肯定是无限的。但是经过了这么多年的高速增长，以及信贷过度，已经来到了一个峰值，下一步会怎么样，我也不会贸然下结论，但具有较大的不确定性。商人的首要目标是让资本更安全，其次才是增值更快。我当年大举投资大陆和现在全球布局，时间点不一样，考虑的自然不一样，但都是基于这样的考虑。除此以外，没有其他原因。就是现在，我在大陆依旧还有不少投资。</p>
-<p> </p>
-<p>如《别让李嘉诚跑了》一文所说，1967年、70年代末、90年代初、97年香港回归这些重要的节点，我的选择正确，因而获得了巨大的利益。但事实上，正常的商业是不需要经过这种政治选择的，而是相对纯粹的经济考量。有正常的政治氛围和良好的商业环境，就不会存在谁跑不跑的问题。存在这个问题，恰恰就是问题的根源所在。</p>
-<p>在职业上，我是一个纯粹的商人，不要用那些空洞的道德来衡量我。如果不能做一个成功的商人，那我的职业是失败的，人生也是残缺的。不赚钱的商人不是好商人，也没有资本利润去做善事。很多人认为，商业赚了钱之后，应该回报社会。这个我是认同的。但是如何回报社会，这个分歧巨大。难道商人应该亏本，去补贴国家和政府吗？这显然是荒谬的。</p>
-<p> </p>
-<p>我们回报社会，首要条件就是赢利、赚钱，这样才能回报人民。企业没有教导人民的责任和义务，宗教和教育才是。我们通过守法经营以身作则，同时用资本捐助学校来达到教育的目的，通过捐助贫民来达到扶助的目的。如果我们亏钱，那什么都不可能去做。如果我直接去搞教育，一定比专业的大专院校来的差。这就是最好的商业，最好的教育。</p>
-<p> </p>
-<p>香港需要寻找未来，大陆需要寻找未来，大中华区需要寻找未来，全世界都需要寻找未来，但是我需要寻找的只是利润。地产、金融可以，教育、科技也可以，对我来说，谁是趋势、谁利润更大才是我要考虑的，而不是空洞的政治考量和虚假的道德说教。不要试图让商人去承担国家的政治责任，也不要试图用政治去影响商人的经营理念。上帝的归上帝，凯撒的归凯撒，商业的归商业，政治的归政治。我就是一个商人，会去努力理解政治，但是我绝不僭越政治，那是政治家们的事情。</p>
-<p> </p>
-<p><img src="http://y1.ifengimg.com/a/2015_38/e67ed231c35050c.jpeg" alt="" width="300" height="379"></p>
-<p>我今年87岁了，已经是古稀之年，安全比利润对我来说更重要。我从来就不是大家说的是什么超人，我可能算是一个成功的商人，但我其实更是一个普通的人，甚至是一个老人。我希望我的人生能画上一个完美的句号，而不想在晚年再横生枝节。我也希望我的家人和我的商业在我故去之后，正常运转，得到良好的继承。</p>
-<p> </p>
-<p>我最后反复强调一点，我是一个商人，也是一个慈善人士，但绝不是政治家、教育家等。我参与兴建汕头大学、汕头大学附属医院、潮州的安居工程等，前后达到150亿港元，且绝大多数都花在大中华区。这都是纯粹捐献，没有任何利益可图。这是我最引以为骄傲的所在。能为家乡人做事，能为祖国尽一份力量，是我的荣幸。我只是可能用的钱多一点，但是和其他人的捐献一样，同是一份心意而已，不高什么，也不低什么。汕头大学的毕业典礼，我风雨无阻地前去参加，力所能及地以过来人说说一些人生经验，但绝没有任何姿态，那里纯粹是老师们的课堂。</p>
-<p> </p>
-<p><img src="http://y0.ifengimg.com/a/2015_38/4c54e91703f74da.jpeg" alt="" width="320" height="220"></p>
-<p>我希望大家不要把我神化，也不要把我妖魔化，其实我像你们现在的同事，也像你邻居的老头而已。我和他们一样犯过错误，也和他们一样慈祥友爱。我承担了我的错误，也获得了我的荣耀，我的人生由我自己负责，你们每一个人同样也是。不要给我过多的褒扬，也没有必要泼给我很多脏水，虽然我不在意自己的感受，但是我在意你对你自己心灵的灼伤，以及毒化中国人脆弱的舆论环境。</p>
-<p> </p>
-<p>我的生意或许部分不在中国，但是我的心一直在这里，根依旧扎在这里。我是潮汕人，也是香港人，还是中国人，也是加拿大籍，最终我们都是地球村的居民。我爱我的家乡，我爱我的故乡，我爱我的祖国，我也爱我们共同居住的地球，我的爱真挚而深沉，和你一样。</p>
-<p> </p>
-<p>李嘉诚不会跑，也不愿跑，更跑不了。这是我的真心话，也是我的誓言。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%98%89%E8%AF%9A%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%95%86%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%B1%E5%90%8C%E7%A4%BE%EF%BD%9C3%E8%89%98%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E9%A9%B6%E5%85%A5%E5%B0%96%E9%98%81%E9%99%84%E8%BF%91%E6%97%A5%E6%9C%AC%E9%A2%86%E6%B5%B7/" target="cdt-mirror">共同社｜3艘中国海警船驶入尖阁附近日本领海</a>
-</h2>
-<p><p>　　【共同社9月19日电】19日上午10点后，3艘中国海警船相继驶入了尖阁诸岛（中国称钓鱼岛)附近的日本领海，约两小时后退出领海。今年以来中国公务船驶入尖阁附近日本领海的天数由此增至26天。</p>
-<p>　　据第11管区海上保安总部(那霸）称，这3艘中国海警船分别为“海警2113”、“海警2151”和“海警2305”。日本巡逻船向中国海警船发出了警告，要求对方退出日本领海。中国海警船用中文和日本回应称“贵方船只驶入了中国的领海，请立即退出”。</p>
-<p>　　中国公务船已连续25天出现在尖阁附近，上次驶入日本领海是在本月10日。</p>
-<p>　　此外，海上保安厅巡逻船19日发现中国海洋调查船“海大号”驶入了尖阁诸岛大正岛附近的日本专属经济区，并从船尾向海中投入了缆线状物体。日本巡逻船要求“海大号”停止调查。（完）</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%B1%E5%90%8C%E7%A4%BE%EF%BD%9C3%E8%89%98%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E9%A9%B6%E5%85%A5%E5%B0%96%E9%98%81%E9%99%84%E8%BF%91%E6%97%A5%E6%9C%AC%E9%A2%86%E6%B5%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%81%E6%B0%B8%E6%9B%A6%EF%BC%9A%E5%A4%A7%E9%81%93%E6%B2%BB%E5%9B%BD-%E8%B7%AF%E5%9C%A8%E8%84%9A%E4%B8%8B/" target="cdt-mirror">新浪博客｜翁永曦：大道治国 路在脚下</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/13592_140521104129_1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/13592_140521104129_1-300x240.jpg" alt="13592_140521104129_1" width="300" height="240"></a></p>
-<p>作者翁永曦系原中共中央农村政策研究室副主任，现为企业家，兼任农村发展研究专项基金管理委员会副主任委员，北京大学国际关系学院客座研究员。上世纪八十年代，翁永曦与王岐山、朱嘉明、黄江南一起被称为“改革四君子”。</p>
-<p>蔡晓鹏是三十多年的朋友，有从庙堂登高到江湖沉浮的共同境遇。《大变革——走向有产者公民社会》这本书中，有他多年经商的切肤之痛，也有他对全面深化改革的中肯建议，约我写序。</p>
-<p>长夜抚卷，思绪万千，竟不知从何下笔。迁延数日，找到门径：把读这本书的感悟写出来。由此成文。</p>
-<p>当反右、大跃进和文革使中国特色社会主义道路1.0版的探索走到尽头时，社会的上层、中层和下层形成了寻求改变的共识。但是，走出来有共识，往哪去却茫然。</p>
-<p>共和国的创立者们、知识分子们、黎民百姓们的多数还只是要求不折腾了，搞建设、过日子，对制度和结构调整的方向并不明确。</p>
-<p>上个世纪七十年代后期发生的两件不大不小的事件，使中国开启了新的纪元，这就是广东农民的逃港潮和安徽农民的包产到户。对外开放和农村责任制的应然而生，不管是否是中南海的英明决策，还是事实上的情势倒逼，改革开始了。中国特色社会主义道路2.0版的探索开始了。</p>
-<p>经济领域中的活跃使共和国的经济关系悄然改变，直接导致农村人民公社制度和城市单位人身依附制度的解体。在许多地区，来自私营企业（民营、外资）的税收和就业已居于主导地位；而社会领域的渐进式开放，也深刻地不可逆地改变着人们的思想方式、行为方式和生活方式。打开国门的人也许并不清楚开放是专制的坟墓。</p>
-<p>当时，决定国家事务的管理者们并未意识到，对应原公有制的上层建筑也必须做出相应的调整，一些人曾经动过这个念头，但原教旨主义信奉者的洪水浇灭了最初的火星。</p>
-<p>于是，原公有制下权力对人和物的支配关系，在市场经济浪潮中无可避免地被替代为权力对钱的主导关系，蔓延迄今，权力与货币的结合，产生出大大小小的权贵集团和寻租组合，不仅出现了官僚队伍的塌方式腐败，而且几乎在一切领域（教师、医生、记者、律师），都发生了社会肌体的深度溃烂。</p>
-<p>新一代领导人提出了国家治理体系和治理能力的现代化，这触及到了“现代化”的本质，似乎开启了新一轮的中国特色社会主义道路3.0版的探索。</p>
-<p>当国者都有维护秩序和寻求发展的基本职责。秩序和发展是一对矛盾，当现实变化速度超出原有结构的调节能力，就有危险。怎么办？不准变化，遏制发展是自杀行为，出路是只能对制度和结构及时作出相应的调整。这个世界上的事，不在于想要干什么，而在于只能干什么；不在于想要怎么干，而在于只能怎么干。</p>
-<p>如果一个国家，创造物质财富的企业家用脚投票，创造精神财富的知识分子无所适从，从事社会管理的官员怠懈行政，这种状况，说明政策出了问题，出了大问题。</p>
-<p>当国者要取得成功，一要把握准潮流，二要守得住常识。这个世界上，不同文明是有共同追求的，“自由、民主、宪政、法治”是世界潮流，“保护私权，限制公权”是基本常识，任何“特色”的自诩也绕不过去这道坎儿。开车要看方向，拉磨则不需要方向。十四亿人关心的是载着他们的船驶往哪个方向。</p>
-<p>无数次看到中国特色被强调，这成了国家治理体系和治理能力现代化的一道无形的高压线。其实中国特色就是党的领导。</p>
-<p>推翻、破坏党的领导的人或势力，境内外都有，但做不成。党的领导的存在并不虚幻地来自于三个自信，从表层看，眼下无人能取代共产党；从深层看，农民居多数的社会是共产党存在的基石。这才是自信所在！但是信用不可透支，不能滥用。真正值得关注的是：党的错误政策催生了党的对立面和反对派。当前的危险不在国外而在国内；不在党外而在党内；不在下层而在上层。所谓“境外敌对势力”不排除有，但不是主要矛盾的主要方面。</p>
-<p>要害不在于是共产党当政，还是实行多党制，而在于该依据什么样的制度来治理这个国家。如果没有好的制度，今天哪个党上来也不见得比共产党干得更好，可能更差。即便把体制外老百姓最敬仰的人推上去，他也会因先天不足的软肋：没有执政经历的磨砺，没有社会治理的经验，可能搞得一团糟。</p>
-<p>中国步入了市场经济时代，也同时步入了移动互联时代。当国者好像愿意接受不触动党国体制前提下的所有改变，但必然面临不改变现行体制就解决不了本源性、体制性弊病和问题的困境。“特色”论有道理，理论上确实存在一个“中国模式”，但走到“特殊”论就十分危险，因为会将中国的进步有别于或者说自外于人类文明进步的共同结晶。</p>
-<p>在新时代，党也必须与时俱进地作出改变。党的历史上的许多深刻教训，可以汇集成一个“天问”：每一代领导人都要求党员绝对与中央保持思想一致和行动一致，要求绝对服从党的领导，要求媒体、舆论绝对成为党的喉舌，要求老百姓只能知道党允许他们知道的事情。但是，如果党犯了全局性错误怎么办？！</p>
-<p>新领导人能担当、敢作为且有定力，给人们以希望。一代人只能做一代人的事情。新领导人这一代只能做他能做的事，如果他捅破了窗户纸会成就更多的事，即使捅不破，后人早晚会捅破，中国肯定会进步，这层窗户纸不难捅破。</p>
-<p>《大变革——走向有产者公民社会》的锐角，就是力图捅破这层窗户纸：一边是无产者专政社会，另一边则是有产者公民社会。如何选边？这是转型期中国共产党新一代领导中枢，正面临的最艰难历史方向选择。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8xQ69UYAAzPpE.jpg" alt="解放军" width="551" height="367"></p>
-<p>2015年8月11日夜北京</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BF%81%E6%B0%B8%E6%9B%A6%EF%BC%9A%E5%A4%A7%E9%81%93%E6%B2%BB%E5%9B%BD-%E8%B7%AF%E5%9C%A8%E8%84%9A%E4%B8%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%81%E6%B0%B8%E6%9B%A6/?category=18271" rel="tag">翁永曦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E6%99%93%E9%B9%8F/?category=18271" rel="tag">蔡晓鹏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -777,5 +847,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

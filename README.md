@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-pcb%E5%8D%B0%E5%88%B6%E7%94%B5%E8%B7%AF%E5%88%B6%E9%80%A0%E5%95%86%E8%A2%AB%E8%A6%81%E6%B1%82%E5%8A%9E%E7%90%86%E3%80%8A%E5%8D%B0%E5%88%B7%E7%BB%8F%E8%90%A5/" target="cdt-mirror">奇客资讯 | PCB印制电路制造商被要求办理《印刷经营许可证》</a>
+</h2>
+<p><p>据中国印制电路行业协会（CPCA）官网文章，上海的一家印制电路PCB企业收到上海市新闻出版局〔2014〕905号文，文中表述“在生产电子线路板过程中采用丝网印刷是一种新技术、新工艺，类似现象在生产企业中一定范围内存在。在生产电子线路板过程中采用丝网印刷的行为属于《印刷业管理条例》的规范对象，应予以引导规范，纳入印刷业行政管理范畴。”该公司被要求办理《印刷经营许可证》。</p>
+<blockquote><p>文中描述的“丝网印刷”即SSP（Silk Screen Printing），主要应用于PCB表面阻焊层、PCB 图形转移过程和抗蚀抗电镀层以及作为PCB表面标记符号，自上世纪40年代起便已应用于电路板印制，绝非什么“新技术、新工艺”。且根据《印刷业管理条例》规定，印刷行业适用于“出版物、包装装潢印刷品和其他印刷品的印刷经营活动”，印制电路板明显不是其中之一。而相关企业与政府部门解释沟通时被告知“如不在期内进行印刷行业的申请登记，将被罚款或处罚。”</p></blockquote>
+<p><strong>以下为官网全文：</strong></p>
+<p>“无知无畏”，不行！</p>
+<p>中国有句成语 “无知无畏”，意思是形容一个人无知而对其事物产生轻视、不计后果的想法和行为。也就是我们常说的“无知者无畏”，意思是什么都不懂的人也就什么都不害怕，什么都不顾及，什么都敢干。我们在日常生活中，或者在自己的工作中要谨言慎行，切不可“无知无畏”，一定要虚心多学点、多听点、多想点，切不可随心所欲。作为国家的官员更应当如此。</p>
+<p>最近我们上海的印制电路PCB企业收到上海市新闻出版局〔2014〕905号文，文中表述“在生产电子线路板过程中采用丝网印刷是一种新技术、新工艺，类似现象在生产企业中一定范围内存在。在生产电子线路板过程中采用丝网印刷的行为属于《印刷业管理条例》的规范对象，应予以引导规范，纳入印刷业行政管理范畴。”该公司被要求办理《印刷经营许可证》。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E5%B1%802014%E3%80%90905%E3%80%91%E5%8F%B7%E6%96%87-13202688122.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E5%B1%802014%E3%80%90905%E3%80%91%E5%8F%B7%E6%96%87-13202688122.png" alt="上海新闻出版局2014【905】号文-13202688122" width="461" height="613"></a></p>
+<p>这真是一件咄咄怪事！“丝网印刷”，在生产印制电路板过程中，何时成了“一种新技术、新工艺”？我们国家早从上个世纪五十年代开始，研制印刷线路板时就采用了丝网印刷工艺。时至今日，已使用了近七十余年，这算“一种新技术、新工艺”吗？！所以说，在我们行业丝网印刷绝不是什么“新技术、新工艺”，而是老技术、老工艺。以这个理由把我们纳入印刷行业，不行！</p>
+<p>如果因有丝网印刷就要被纳入印刷行业范围，那么请问：丝绸行业、纺织行业、毛巾行业、印染行业等，都会用到丝网印刷技术，是否也都要被纳入印刷行业范围？再举例，请问圆珠笔、钢笔、铅笔等物体表面用丝网印刷标记或纹饰是否也应该纳入印刷行业范围呢？另外我们电子信息产业中，还有许多行业和产品会应用到丝网印刷工艺，按照凡是用到丝网印刷工艺的便要纳入印刷行业，那么是否电子信息产业也要纳入印刷行业？按照常识，那是错误的，也是不可能的！！！</p>
+<p>我们再看看印刷行业的范围是什么？根据《印刷业管理条例》规定，印刷行业适用于“出版物、包装装潢印刷品和其他印刷品的印刷经营活动”。</p>
+<p>什么是出版物？根据《印刷业管理条例》规定所称出版物，包括“报纸、期刊、书籍、地图、年画、图片、挂历、画册及音像制品、电子出版物的装帧封面等”。</p>
+<p>什么是包装装潢印刷品？根据《印刷业管理条例》规定所称包装装潢印刷品，“包括商标标识、广告宣传品及作为产品包装装潢的纸、金属、塑料等的印刷品。”</p>
+<p>什么是其他印刷品？根据《印刷业管理条例》规定所称其他印刷品，“包括文件、资料、图表、票证、证件、名片等。”</p>
+<p>以上的所有范围均和我们印制电路板的生产没有丝毫关系。我很希望相关的官员能够“下凡到人间”，看一眼印制电路板是什么样子的，是如何生产的，生产过程中所印刷专供电子产品组装和以后维修用的元件符号，是否符合《印刷业管理条例》所包括的哪一项内容条款？</p>
+<p>经我们与国际同行的协会联系（如美国的IPC、欧洲的EIPC、日本的JPCA、韩国的KPCA、印度的IPCA等），至今没有任何国家要求PCB企业办理印刷经营许可证，更没有任何国家有将PCB划归印刷行业的想法，他们对我们的提问都表示出极大的惊讶。上海新闻出版局要求印制电路生产企业办理印刷经营许可证，可谓是创“世界之奇”，绝对是“无知无畏”的“经典”！</p>
+<p>如果硬要将印制电路板PCB的企业纳入印刷行业，那么也将会涉及各国在中国的PCB企业，这将会造成极大的国际笑话，尤其作为中国最开放和管理水平最高的地方，还是第一个办“自贸区”的上海，将会造成极大的负面影响。</p>
+<p>所以，无论从哪个方面都不应该错误的把我们印制电路行业（国外称电子电路行业）划入印刷行业。现在上海市新闻出版局用文件的形式强行将我们行业划入印刷行业的行为，只能被认作是“无知无畏”！这是行不通的！</p>
+<p>更让人费解的是，在有关方面正在进行反映和沟通，还未有最终结果的时候，据悉，政府的某个门就表示：如果我们的企业不在期内进行印刷行业的申请登记，要被罚款或处罚。我们认为，这视为“乱作为”！</p>
+<p>感谢上海市工业经济联合（简称“工经联”）和上海印制电行业协会为此事件的奔波，为企业正当权益呐喊。</p>
+<p>我们深信，这个行为一定会正！我们坚信，这个错误必须得改正！！</p>
+<p>无知无畏，不行！！！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-pcb%E5%8D%B0%E5%88%B6%E7%94%B5%E8%B7%AF%E5%88%B6%E9%80%A0%E5%95%86%E8%A2%AB%E8%A6%81%E6%B1%82%E5%8A%9E%E7%90%86%E3%80%8A%E5%8D%B0%E5%88%B7%E7%BB%8F%E8%90%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%88%B7%E4%B8%9A/?category=18271" rel="tag">印刷业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%88%B7%E8%AE%B8%E5%8F%AF%E8%AF%81/?category=18271" rel="tag">印刷许可证</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8/?category=18271" rel="tag">政府部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%8A%80%E6%9C%AF/?category=18271" rel="tag">新技术</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%B7%AF%E6%9D%BF/?category=18271" rel="tag">电路板</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86/?category=18271" rel="tag">行政管理</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8A%9E%E5%85%AC%E5%8E%85%EF%BC%9A%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9%E4%B8%AD%E5%85%9A%E7%9A%84%E9%A2%86/" target="cdt-mirror">【异闻观止】国企改革中党的领导只能加强不能削弱</a>
 </h2>
 <p><p>新华网北京9月20日电 近日，中共中央办公厅印发了《关于在深化国有企业改革中坚持党的领导加强党的建设的若干意见》（以下简称《若干意见》），对在深化国有企业改革中坚持党的领导、加强党的建设提出要求、作出部署。</p>
@@ -725,44 +756,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%A8%E7%90%83%E7%BA%BA%E8%B0%88%EF%BD%9C%E7%BA%BA%E7%BB%87%E6%9C%8D%E8%A3%85%E4%B8%9A%E7%8E%B0%E5%80%92%E9%97%AD%E6%BD%AE%EF%BC%8C%E5%8D%83%E4%B8%87%E4%BA%BA%E6%88%96%E5%A4%B1%E4%B8%9A/" target="cdt-mirror">全球纺谈｜2015纺服业现“倒闭潮” 产业内部调整的阵痛将继续</a>
-</h2>
-<p><p>近日，大型纺织服装企业频现倒闭潮，令这一上下游产业链就业人口高达1.7亿，曾经占据中国出口半壁江山的支柱行业再次触动国人焦灼的神经。</p>
-<p>　　2015年破产倒闭知名纺织服装企业</p>
-<p>　　9月6日，拥有6家分公司的温州市庄吉集团正式宣告破产。据庄吉一位高层透露，该事件或致银行产生300多亿坏账。目前，集团5000名员工正在静静地等待破产处理结果。</p>
-<p>　　8月22日，曾经中国民营企业500强，总资产超20亿的浙江红剑集团有限公司正式停产。1000多名员工上街讨要被拖欠三个月的工资。</p>
-<p>　　8月19日，拥有400名员工的广东省惠州市的福绩（惠州）纺织综合厂老板跑路，员工聚集于工厂门口，希望能拿到自己的血汗钱。</p>
-<p>　　7月31日，华东纺织大厂宝利嘉老板跑路，5000名员工突然失去赖以谋生的工作。</p>
-<p>　　2015年5月底，亚洲最大的牛仔布工厂，鼎盛时期员工高达10000人的山东兰雁集团因负债25亿元破产。</p>
-<p>　　2015年5月22日，曝出曾获联想注资、范冰冰代言的维斯凯服装倒闭，老板卷款跑路，5000名员工失业。</p>
-<p>　　5月18日，2002年全国民营企业500强，总资产10亿元的绍兴印染大佬五洋印染破产。据悉，该公司下属7家子公司，拥有员工2000余人。 </p>
-<p>　　5月1日，曾经员工数量逾10000人的东莞厚宏制衣厂老板跑路。员工上街讨要两月工资和经济补偿金，当地ZF出动1500警力维护秩序。</p>
-<p>　　4月20日，拥有2000多名员工，李宁、特步核心供应商雅纶制衣因逆市扩张而资金链断裂，老板至今不知去向。</p>
-<p>　　而在纺织聚集的绍兴、汕头、长乐、东莞等地，破产倒闭的中小纺织服装企业更是不计其数。</p>
-<p>　　中国纺织服装业死于内忧外患</p>
-<p>　　作为吸纳就业人口最多，对中国改革开放实现资本积累贡献最大的纺织服装业竟然落到这步田地，的确是令人不甚唏嘘。但“冰冻三尺，非一日之寒”，中国纺织服装业的倒下是多种不利因素累积的结果。</p>
-<p>　　应该说，这一波危机肇始于08年的4万亿。据一些纺织企业老板回忆，本来2008年纺织服装行业已经出现经济危机，多数企业准备收缩产能并裁减员工。但由于“4万亿”的经济刺激计划出台，从2009年下半年开始，纺织服装行业的生意异常火爆，2010年棉花价格从1万/吨涨到3万/吨，无数行业企业一夜暴富。在市场的短暂繁荣和银行的推动之下，行业掀起了一波疯狂的产能扩张。</p>
-<p>　　一些地方ZF顺势打造纺织服装产业聚焦区，怂恿纺织服装企业扩建新厂购置新机。不料，到2012年“4万亿”经济刺激药力消退，很多企业订单大幅下滑，花费上千万一台购置的天价进口设备处于闲置状态。加上库存棉花价格剧降，很多纺织企业前两年赚的钱瞬间归零。</p>
-<p>　　与此同时，08年新劳动法出台后，中国的人工成本在短短五年内翻了一倍多。由于纺织服装业是典型的劳动密集型企业，人工成本上涨给企业经营带来了无法想象的压力。</p>
-<p>　　特别是近两年，由于国内各项成本激增，许多外资企业已经大规模的转移到南亚和东南亚地区。 最为著名的包括阿迪达斯、耐克、优衣库、无印良品、青山商事、利丰、东京STYLE、Honeys等，这些公司正加速把订单转移到东南亚。</p>
-<p>　　此外，由于中国纺纱行业设备落后，运营成本高昴，目前50支以下的低端市场份额已经被东南亚、印度、孟加拉等国蚕食。而100支以上的高端产品市场则被日本、德国、意大利把持。前后夹击之下，纺织服装行业早已溃不成军。</p>
-<p>　　中国忽视劳动密集型的纺织服装业恐酿下大祸</p>
-<p>　　1978年改革开放伊始，中国十亿人口，城镇人口仅占1亿，但城镇就业形势极为严峻。当时的邓小平ZF高瞻远瞩，将纺织服装业列为中国发展经济的支柱产业，大力支持纺织服装出口创汇企业。为了支持纺织服装业的发展，中国ZF甚至宁愿忍受美国瞪鼻子上脸地指责中国人权状态，也要争取更多的出口配额。</p>
-<p>　　为何ZF如此重视纺织服装行业？这是因为这个行业在吸纳就业人口方面具有无与伦比的优势。据统计，每亿元固定资产投资，纺织业可吸纳1876人，而服装业则可吸纳4464人。而全国工业每亿元投资吸纳就业的平均数仅为903人。2007年，中国纺织服装业上下游产业链吸纳的就业总人口高达1.7亿，当之无愧地成为稳定就业的定海神针。</p>
-<p>　　在解放前，上海纺织厂一名工人的工资大概是15－30大洋，而当时民国县长的工资也才20大洋。 可见解放前纺织工人的地位有多高！</p>
-<p>　　此外，从长远看，纺织服装是人类最基本的需求之一，是一个永恒的行业，绝非媒体误导的夕阳产业。近些年来，中国ZF过度重视金融、互联网等虚拟行业，而对纺织服装这一关乎1.7亿人生计的纺织服装行业颇为冷淡。</p>
-<p>　　近年来，中国的纺织服装企业在人工成本、土地成本、环保成本及税负等越来越高，甚至已经超过了美国，大有将纺织服装等劳动密集型企业赶尽杀绝之势。</p>
-<p>　　中国15亿人口，对纺织服装的需求极为巨大，将如此在的消费市场拱手让出，实在是令人百思不解。</p>
-<p>　　如今，在东南亚和欧美等竞争对手的前后阻击下，中国的纺织服装业在2015年上半年首次出现了负增长。随着纺织服装产业加速撤离中国和大量企业破产倒闭，下半年的数据肯定会更差。</p>
-<p>　　对于中国的纺织服装行业和企业老板而言，未来两年的行业洗牌和人生跌宕将很惨烈。至于这1.7亿的就业人口，究竟有几千万人将提前数月回家过年，这种产业内部调整的阵痛将恐怕还将继续！</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%A8%E7%90%83%E7%BA%BA%E8%B0%88%EF%BD%9C%E7%BA%BA%E7%BB%87%E6%9C%8D%E8%A3%85%E4%B8%9A%E7%8E%B0%E5%80%92%E9%97%AD%E6%BD%AE%EF%BC%8C%E5%8D%83%E4%B8%87%E4%BA%BA%E6%88%96%E5%A4%B1%E4%B8%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BA%E7%BB%87%E4%B8%9A/?category=18271" rel="tag">纺织业</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -774,7 +767,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -784,5 +777,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E7%9A%84%E4%B8%BB%E5%8A%A8%E6%8E%A2%E6%B5%8B%E7%B3%BB%E7%BB%9F/" target="cdt-mirror">奇客资讯 | 防火长城的主动探测系统</a>
+</h2>
+<p><p>2010年到2011年，瑞典林雪平大学超级计算机中心的系统管理员Leif Nixon在SSH日志中发现了大量奇怪的登录失败信息，这些刺探性的连接使用了看起来随机的字符串。他最后从IP地址分布中找到了规律：每一次刺探都紧跟在一次源自中国的合法有效登录5到20秒后。他得出结论，这是防火长城干的。他注意到刺探的频率在增加，推测是beta测试结束了，该功能开始广泛部署了。这是有关防火长城主动探测系统的<a href="https://www.nsc.liu.se/~nixon/sshprobes.html" target="_blank"><u>第一份公开报告</u></a>。</p>
+<p>2011年10月4日，一位用户向Tor递交了bug报告，称网桥在中国使用了几分钟后就停止工作。网桥是没有公开的Tor中继，是为了躲避审查系统对公开Tor中继IP地址的封锁。Karlstad大学的研究人员<a href="https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf" target="_blank"><u>发现</u></a>，防火长城会在中国Tor用户连上一个网桥的15分钟内尝试与该网桥建立连接，确认是否属于Tor中继，确认之后就将服务器IP屏蔽。</p>
+<p>主动探测系统是因应新的翻墙技术而诞生的，新的翻墙技术能抵抗传统的封锁，如将翻墙流量嵌入到TLS流中使得审查系统难以区分翻墙TLS和合法TLS，而<a href="http://www.icir.org/vern/papers/meek-PETS-2015.pdf" target="_blank"><u>域名伪装技术</u></a>则用看起来无害的域名去隐藏被审查的目标域名，它一般利用的是CDN的域名。</p>
+<p>为了避开深度包检测系统的指纹识别，Tor项目在2012年开发了第一个<a href="https://www.torproject.org/docs/pluggable-transports.html.en" target="_blank"><u>可插传输协议</u></a>obfs2，它将整个Tor TLS流量封装在一个轻量级混淆层中。但obfs2在设计上有一个重大缺陷，它首先发送一个密钥，然后发送可用密钥解密的密文。审查者可以读取TCP连接首部的前几个字节，将其作为密钥去解密后续字节，如果解密后的字节是有意义的，obfs2也就被识别出来了。2013年3月，Tor用户<a href="https://trac.torproject.org/projects/tor/ticket/8591" target="_blank"><u>报告</u></a>obfs2私有网桥在主动探测后遭到屏蔽。2014年6月，Tor项目宣布淘汰obfs2，转向obfs3，开发obfs4。</p>
+<p>obfs3修复了obfs2的设计缺陷，使用Diffie-Hellman密钥交换算法确认通信双方身份再决定用密钥加密后续数据。要识别obfs3连接，审查者要么使用中间人攻击去获知交换的密钥，要么对看似随机的数据进行启发式探测。目前obfs3是Tor匿名网络最流行的传输协议，虽然遭到了主动探测，obfs3的网桥很少遭到屏蔽。</p>
+<p>SoftEther是另一个受欢迎的分布式VPN服务，它也使用了一个类似Tor的公共VPN中继服务器列表，列表中的IP很容易被防火长城加入到黑名单中。SoftEther开发者采用的一个应对之策是在列表中加入混淆IP，这些IP地址是重要服务的IP，比如根域名服务器和Windows更新服务器使用的IP，所以防火长城不再采用自动方法屏蔽SoftEther，它必须加入一个手动验证环节，这就为蜜罐创造了条件，<a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-nobori.pdf" target="_blank"><u>开发者发现了一个审查者使用的IP: 210.72.128.200</u></a>，该IP地址被屏蔽之后审查者开始使用云了，如亚马逊的EC2。审查者最新使用的主动探测方法是模仿SoftEther的客户端握手去识别有效的SoftEther的 IP，类似“POST /vpnsvc/connect.cgi HTTP/1.1”，所以现在SoftEther的VPN已很难连上了。</p>
+<p>GoAgent曾是另一个受欢迎的翻墙服务，搭建在Google App Engine上，使用Google的未屏蔽IP提供代理服务。我们都知道结果，Google的IP被大规模的屏蔽。审查者使用了主动探测方法去识别可用的Google的IP，它使用了一个特定的主机头文件：Host: webncsproxyXX.appspot.com，xx的值位于1到100之间。它有多个变种，但User-Agent一直保持不变：Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E7%9A%84%E4%B8%BB%E5%8A%A8%E6%8E%A2%E6%B5%8B%E7%B3%BB%E7%BB%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1/?category=18271" rel="tag">翻墙服务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%8A%E6%B5%B7%E9%97%B8%E5%8C%97%E8%AE%BF%E6%B0%91%E6%9D%A8%E5%B7%9D%E8%81%AA%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%9C%8D%E6%AF%92%E8%87%AA/" target="cdt-mirror">自由亚洲｜上海闸北访民杨川聪天安门广场服毒自杀身亡</a>
 </h2>
 <p><p>上海闸北访民杨川聪日前天安门广场服毒自杀身亡，原因是其在上海的拆迁安置房产权不清，他多年上访无果。</p>
@@ -151,7 +169,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%83%E6%8B%89%E6%A0%BC%E4%B9%8B%E6%98%A5/?category=18271" rel="tag">布拉格之春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%91%84%E5%BD%B1%E5%B1%95/?category=18271" rel="tag">摄影展</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">秘密警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">间谍</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A4%A7%E5%B8%88%E5%85%84%EF%BC%8C%E5%B8%88%E5%82%85%E6%8A%8A%E5%A6%96%E6%80%AA%E6%8A%93%E8%B5%B0%E4%BA%86/" target="cdt-mirror">雾满拦江｜大师兄，师傅把妖怪抓走了</a>
 </h2>
@@ -814,18 +832,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E7%BE%8E%E6%B0%91%E6%84%8F%E4%BA%92%E4%B8%8D%E7%9C%8B%E5%A5%BD%E4%B8%8B%E7%9A%84%E4%B9%A0%E5%A5%A5%E4%BC%9A/" target="cdt-mirror">法广｜中美民意互不看好下的习奥会</a>
-</h2>
-<p><p>中国国家主席习近平正式访问美国的行程尚没有开始，但评论已经铺天盖地。不少媒体指出，习近平访美对中美两国都是考验。</p>
-<p>今天出版的英国《经济学人》（The Economist）刊登大篇幅文章，预测和分析下个星期二开始的习近平访美行程，指出习近平因与美国关系有分歧希望影响美国经济界加以平衡同美国总统奥巴马的交锋。但由于习近平访美，同天主教教皇方济各访美撞车，美国总统，副总统等一干最高领导人全体到机场迎接，给予方济各超级礼遇，而习近平抵达美国前往华盛顿时有可能显现被冷落。</p>
-<p>法新社发自北京的评论认为，习近平尽管上任已经有3年，未来还有7年的执政，但访问美国与在位已经8年即将卸任的奥巴马会见，奥巴马没有任何失去的担心，习近平却有可能因此会面对奥巴马多方位的质疑甚至批评。</p>
-<p>习近平访问美国之际，美国舆论针对中国普遍好感下降，新的民意调查说，百分之54的美国人可能不看好中国。专家分析，对美国人来说，越是强大的中国，问题似乎就越多。</p>
-<p>同样，中国青年对美国的好感度也在下降，不到百分之40。官方的英文报纸中国日报今天在官网上发布一项调查，表明仅有36.5%的中国青年受访者明确表示对美国人有好感。美国人认为与中国分歧的议题包括南海争议、人民币国际化、中国的言论自由等。</p>
-<p>中国官方9月16日正式宣布，习近平将于22日至25日对美国进行国事访问。按美国白宫宣布，奥巴马25日将于白宫接待习近平，当晚设国宴款待习近平与彭丽媛夫妇。</p>
-</p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -837,7 +843,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -847,5 +853,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

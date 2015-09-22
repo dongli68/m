@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E4%BA%9A%E6%97%81%E6%B0%8F%E9%AA%97%E5%B1%80%EF%BC%9A22%E4%B8%87%E6%8A%95%E8%B5%84%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%BD%93%E6%9C%89/" target="cdt-mirror">美国之音 | 泛亚“旁氏骗局”：22万投资人的家当有望讨回吗？</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard10_114.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard10_114.jpg" alt="Clipboard10_114" width="600" height="338"></a><p>千余人围堵在北京市金融街的证监会门口</p></div>
+<p>周一（9月21日），位于北京市金融街上的证监会门口聚集了一千余人。他们统一身穿背后写有“泛亚诈骗，血本无归，还我血汗钱”的白体恤，手举“请中央审查云南，清算泛亚”的标语。在现场的投资者称，近三个小时的维权活动为他们赢得了同政府方面对话的权利。他还透露，这些赔了钱的投资者明天还会有进一步行动。</p>
+<p>“泛亚”是昆明泛亚有色金属交易所的简称。这家号称世界最大的稀有金属交易所，自2011年4月开盘以来，短时间内吸引了中国几十万投资者的目光。然而最终由于资金链断裂，22万投资者的430亿元资金难以兑付。据报道，泛亚的老板娘兼副总裁张子诺和财务总监已经辞职。泛亚高层也被限制出境。</p>
+<p>据了解，让这几十万投资者赔上家当的是一款名叫“日金宝”的理财产品，它宣称年化收益13%，如此高收益是其他贵金属交易所的数倍。有分析人士认为，“日金宝”的模式类似于庞氏骗局：用新投资者的钱来向老投资者支付短期回报，以制造赚钱的假象，以骗取更多投资。这种骗术是一位名叫查尔斯·庞兹的投机商人发明的，用中国的话讲又叫“空手套白狼”。庞兹用许诺40%利润回报率的方式吸引投资者向一个子虚乌有的企业投资，曾成功的在七个月内骗到了三万名投资者。</p>
+<p><strong>证监会：会督促云南有关部门解决问题</strong></p>
+<p>金融街的维权活动结束后，全国泛亚受害人协会发布一篇声明称，在抗议人群撤离期间，受害人代表与证监会打非局陈姓局长和北京市公安局内保科长及另外三个工作人员进行了会谈。陈姓局长表示，“他们会尽力督促云南相关部门解决问题，同时将情况通知公安部，是否立案由公安部确定。”</p>
+<p>一位投资者在采访中对记者表示，他们已经在全国各地报案多次了，但是从来没有被受理过。而未予立案的原因，一份投资者提供的录音文件似乎给出了答案。这份音频的录制时间是6月份，在昆明。</p>
+<p>在录音中，一位自称是姚副支队长的人说，“因为省里有明确的要求给我们，所以我们也是没办法的……现在有个特殊情况……因为省里告诉我们，他们正在对这块东西做清理整顿。因为呢，省里也不想它死，你们也不想它死，如果交到我们这儿来，我们就是要把它弄死。很简单嘛。不用调查，我们调查就要抓人，抓人就要停业。（录音者说：现在也关门了）现在关门和我们去抓人关门是两码事情。”音频文件的最后，这位姚副支队长表示，现在他们无法给出解决办法，“只能等”。</p>
+<p><strong>投资者：泛亚骗局与政府不无关系</strong></p>
+<p>据投资者提供的一份昆明市人民政府文件显示，泛亚2010年成立之初，其领导小组组长是中共昆明市委常委、副市长黄云波，组员包括市财政局副局长左晖、市地税局副局长马磊、市工商局副局长常晋云、市政府金融办副主任李松等。</p>
+<p>一位投资者也对记者说，他平时极少理财，这次投资“日金宝”是因为看到中央台、银行、机场等正规渠道的宣传。</p>
+<p>他说，“那个时候他们到处做广告，包括飞机、地铁座椅上面、银行里面那个理财的小单子都有宣传，包括银行的电子屏都有宣传……然后包括我们的中央台都宣传了那些视频，泛亚都挂在它的网站上面，你都看得到。所以说看到这种，还有包括我们国内的专家、电视台的名人这些东西。当时我考虑到种种原因吧，就相信了这个东西。说老实话，作为中国的老百姓，像我就是比较保守的，从来没有理过什么财，钱从来都是存银行的，利息少一点就少一点。怎么突然就被它骗进去了，我感觉这个真的是。”</p>
+<p>然而中国官媒新华网9月18日刊发一篇标题为《泛亚400亿产品深陷兑付危机 监管：有责任但缺依据》的文章，似乎在为云南的省市政府开脱。文章引述昆明市金融办负责人的回应说：“委托受托业务的停止是企业的行为，不是政府的要求。”而昆明市公安经济犯罪侦查支队报案处负责人说：“由于情况复杂特殊，有关部门已经成立调查小组，对于报案者先暂做登记的处理。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard11117.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard11117.jpg" alt="千余人围堵在北京市金融街的证监会门口" width="600" height="450"></a><p>千余人围堵在北京市金融街的证监会门口</p></div>
+<p><strong>泛亚准备怎么办？</strong></p>
+<p>据投资者说，泛亚方面对于投资者的抗议是有过回应的。但每一次都是派代表来谈判，只听不说，并没有给出解决方案。</p>
+<p>据中国媒体9月21日报道，一份泛亚交易所内部文件显示，“泛亚交易所拟向监管部门备案，采取两项措施，化解目前流动性危机，其中包括退市了结6种交易商品和进行债务重组。”</p>
+<p>泛亚提出的新的重组方案是：将代持货物注入信托公司的信托计划，然后由上市公司定向发行股票置换信托计划，最终通过股票转让回收资金。</p>
+<p>此外，泛亚拟与交易商企业或产业相关企业协商，收购盘面货物，尽快了结钴、铑、五氧化二钒、白银、氧化镝、氧化铽相关委托受托业务和回购货物，之后安排此六个交易商品退市。同时，拟将铟、APT、锗、铋、锑锭和镓六品种原委托受托业务中委托方无法按时还款收货构成实质性债权债务关系进行债务重组。</p>
+<p>对于债务重组，泛亚提供三种解决方案：1. 委托方将代持货物在交易所新系统现货盘面挂牌卖出，所得收益归资金受托方；2. 解除原委托受托协议关系，资金受托方将代持货物变为自有仓单，留存或提货3. 将代持货物注入信托公司的信托计划，由上市公司定向发行股票置换信托计划的货物，由委托方代持上市公司股票，指定受托方为股票唯一受益人，由受托方事先确定股票转让的条件，通过资本市场预期升值回收资金。</p>
+<p>据报道，目前上述方案正在面向交易所会员、授权服务机构、相关单位和社会征求意见中。泛亚初定于9月28日召开委托受托业务债务重组委员会工作会议，将邀请监管部门参加。</p>
+<p>关键词: 骗局 投资人 栏目: 时事见解 栏目重点发表: 栏目头条 作者: 慕小易</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E4%BA%9A%E6%97%81%E6%B0%8F%E9%AA%97%E5%B1%80%EF%BC%9A22%E4%B8%87%E6%8A%95%E8%B5%84%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%BD%93%E6%9C%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E9%A2%84%E6%9C%9F/?category=18271" rel="tag">市场预期</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/?category=18271" rel="tag">庞氏骗局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E4%BA%BA/?category=18271" rel="tag">投资人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E%E4%BA%A4%E6%98%93%E6%89%80/?category=18271" rel="tag">昆明泛亚有色金属交易所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%9B%E4%BA%9A/?category=18271" rel="tag">泛亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%AE%97/?category=18271" rel="tag">清算</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D/?category=18271" rel="tag">金融</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E9%AB%98%E6%89%AC%E5%85%B1%E4%BA%A7%E4%B8%BB/" target="cdt-mirror">【异闻观止】中国青年报：理直气壮地高扬共产主义伟大旗帜</a>
 </h2>
 <p><p>作者：王向明，中国人民大学马克思主义学院教授，全国马克思主义理论研究与建设工程课题组主要成员，中国青年网络智库成员，博士生导师。</p>
@@ -775,44 +809,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E6%96%B9%E6%81%A8%E5%B0%91%EF%BC%9A%E6%99%9A%E5%AE%89%EF%BC%8C%E6%88%91%E4%BB%AC%E7%9A%84%E5%A5%BD%E8%BF%90/" target="cdt-mirror">旧闻｜方恨少：晚安，我们的好运</a>
-</h2>
-<p><p>可能是年纪大了，越来越不喜欢网络流行语，因其粗鄙，也无需在人前使用来表示没有与时代脱节。虽然不喜欢，我也常用强国、贵国、我匪、包子、总组长、庆丰年间等等这些词，不是为了增加戏虐的成分，而是这些词所替代的那些敏感词会导致整篇发不出去。我甚至自己生造了一些词，比如对“共产主义”这个词，就有些担心，要找一个“共义”这样的词来代替比较安稳。我们的审查制度已经到了考验悟性的境界了，而且审查工作执行的越来越细致，前几天收到系统通知，七月末的一篇因为举报被删除了，难为有心人一个月后还翻检举报，辛苦了。</p>
-<p>契科夫说：我们在卑屈和伪善之下，非常疲倦了。我倒是谈不上有多伪善，卑屈的疲倦是有的。<br>
-严厉的审查曾在不同的时代都出现过，有过之而无不及，比如20世纪40年代末到50年代初美国的麦卡锡横行的时代，为了清除共义意识，曾进行了堪称恐怖的高压审查。清除共义的意义且不论，麦卡锡所采取的手段及所审查的对象极为严苛，诸多可怕的事例一检索便知，令他时隔多年仍为人所憎恨。仅1953年一年，麦卡锡的委员会就举行了大小600多次“调查”活动，还举行了17次电视实况转播的公开听证会。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Picture-391.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Picture-391-300x210.png" alt="Picture-391" width="300" height="210"></a></p>
-<p>在无数杰出的人也怯懦、卑屈的时候，爱德华·默罗（Edward R·Murrow）挺身而出，53年10月在自己主持的CBS的电视新闻节目See It Now中向麦卡锡宣战，他像“在平坦大地上赫然耸立”的英雄一样，顶住了所有的压力，与志同道合的同事们一起，在连续的报导中重创麦卡锡。其中54年3月的那期题为“自参议员约瑟夫麦卡锡的一份报告”的See It Now成为电视新闻节目史上最经典的节目之一，默罗在节目的最后说道：</p>
-<p>“我们不是心怀恐惧的人的后裔，不是来自于不敢写，不敢说，不敢交往，不敢保卫尚不普及的事业的人的后裔，我们不能让恐惧驱赶理性，一面在国外捍卫自由，一面却在国内抛弃自由。这位威斯康星州的后辈参议员的行动已引起我们盟国的惊愕和沮丧，却颇使我们的敌人感到欣慰。这是谁的过错呢？并不真正是他的。他并没有制造这个担惊受怕的局面，他只不过是利用了这个局面，而且相当成功地利用了。凯西厄斯说得好：’布鲁托，命运没错，是我们的错’。晚安，祝你好运。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/large_lV7C9j2FjHp8mjQeP3bqtdCj9JF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/large_lV7C9j2FjHp8mjQeP3bqtdCj9JF-200x300.jpg" alt="large_lV7C9j2FjHp8mjQeP3bqtdCj9JF" width="200" height="300"></a></p>
-<p>2005年电影《晚安，好运》（Good Night, and Good Luck.）重现了这段历史，这部电影是乔治克鲁尼编剧、执导、参演，成为87届奥斯卡热门，不过那一届的赢家是李安的《断背山》。</p>
-<p>爱德华·默罗生于1908年，在大学期间被推举为全国学生联主席，27岁加入哥伦比亚广播公司，29岁只身前往欧洲，主管CBS欧洲记者站。38年3月德国入侵奥地利，第一时间得知消息后，正在华沙的莫罗用一千美金包下一架27座的客机，独自直飞维也纳。1938年3月12日，30岁的默罗在德军进占维也纳的同时，向美国听众广播了他的第一篇战争报道：我是爱德华·默罗，此刻正从维也纳报道。现在是凌晨2点30分，希特勒本人还未到市内……</p>
-<p>这次报道被视为广播史上的第一次“现场直播”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/EdwardRMurrowWWII.2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/EdwardRMurrowWWII.2.jpg" alt="EdwardRMurrowWWII.2" width="200" height="270"></a></p>
-<p>1940年不列颠空战时期This is London的广播报道非常成功，他不顾危险站在楼顶，让听众能身临其境的听到空袭警报声、飞机声、爆炸声，平静沉稳的说：你好，这里是伦敦……<br>
-默罗和他建立起的才华横溢的欧洲工作组创立了战地现场广播、连续广播报道等口语广播形式，现场直播这种形式就是他开创的，对后世影响极为深远。二战结束，他回国后辞去了CBS副总裁的职务，继续做广播节目，当电视在五十年代进入黄金期的时候，他和佛瑞德.佛林德利合作制作了电视系列节目See It Now，开创了电视新闻时代。1961年，肯尼迪总统邀请他出任美国新闻署(USIA)署长，64年因病辞职，65年4月，57岁的默罗与世长辞。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/good_luck_good_night17.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/good_luck_good_night17-300x200.jpg" alt="good_luck_good_night17" width="300" height="200"></a></p>
-<p>乔治克鲁尼视默罗为偶像，自编自导了这部电影，并在其中扮演默罗的搭档佛瑞德.佛林德利，拍摄过程中，因为惧怕克鲁尼的脊椎病会导致影片“流产”，为影片投保的保险公司曾经一度紧缩政策。为了让保险公司放心，克鲁尼抵押了自己价值700万美元的豪宅。作为一部投资750万美元的独立电影，得到了2500万美元的票房回报，在奥斯卡提名，在威尼斯电影节获奖。我觉得这部电影只用了一个摄影棚几个场景就完成了拍摄，还拍的那么好看。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/good_night_and_good_luck.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/good_night_and_good_luck-300x102.jpg" alt="good_night_and_good_luck" width="300" height="102"></a></p>
-<p>影片讲述了默罗和他的同事们做麦卡锡相关内容节目的过程，他们如何准备，默罗如何播出，麦卡锡如何反驳，夹杂着节目所关注的案例的进展。片中的很多镜头是直接采用真实影像资料，包括麦卡锡的镜头以及案件的影像。我在youtube看了一点默罗本人的影像资料，《晚安好运》中的默罗和真人形似神似，片中默罗的很多对白是他曾经说过的，所以就表演而言，大卫·斯特雷泽恩确实演的很好。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/good-night-and-good-luck-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/good-night-and-good-luck-1-300x200.jpg" alt="good-night-and-good-luck (1)" width="300" height="200"></a></p>
-<p>乔治克鲁尼演了一个近乎完美的形象，有才华，幽默，有担当的成熟男人。《晚安好运》的故事确实好，既有写实的部分，又有诗歌那样华美的章节，穿插得当，把一个群戏安排的妥妥贴贴。但是片子里有些许流动着的情绪是我不喜欢的，乔治克鲁尼不可避免的把他对电视行业的看法带了进去。默罗是一个伟大的新闻评论员，他不仅仅是警告谴责了电视被娱乐业把控的局面，他还有很多正面的建树，但是片中零零碎碎传递的都是那种谴责电视节目娱乐化泛滥的情绪，这并不好，狭隘了。再一个，把默罗的镜头拍的太好看了，是不是可以再收着一点拍，当然，这个尺度已经把握得很好了，我只是有一点点感觉应该再压低一点。</p>
-<p>小罗伯特唐尼扮演的角色提出了一个问题，我们这样做是不是正确的。在当时挑战麦卡锡，和现在站在我匪的对面，这个问题的答案都是不用思索的，但是，这个问题的实质是，当我们面对重大问题而站在众人的对面或者一起的时候，需要经常问自己这个问题，这样做是正确的吗？这样问可以让自己保持清醒。特别是在朋友们面前依然坚持自己的观点，需要的不仅仅是勇气，还要有足够的清醒。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/4_Good_night_a_good_luck.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/4_Good_night_a_good_luck-300x181.jpg" alt="4_Good_night_a_good_luck" width="300" height="181"></a></p>
-<p>片中唯一的共义分子是另一档节目的主持人唐，从对他的刻画，可以看出人们对待共义的态度。默罗不喜欢唐，其他人也不喜欢，他们反对共义，也同样反对对共义的清洗式迫害。唐是个不招人喜欢的人，他不知趣的搅和了庆功的气氛，他没有分寸地向默罗求援。没有人喜欢共义，有谁会喜欢斯大林和那些与他名字并列在一起的人呢？共义带来了麦卡锡，麦卡锡这样的无赖之所以能被容忍甚至是猖獗了一段时间，因为美国人更痛恨共义。</p>
-<p>培利是cbs的总裁。作为电视台的boss，培利虽然对默罗表示过不满，但是他尽最大的可能让默罗完成了节目，起到了非常重要的作用。就像片中的另一位电视台经理Sig Mickelson说的，美国铝业不会付钱，我们公司也不会付钱，但是你们不会受到干涉。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/goodnight_goodluck_38.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/goodnight_goodluck_38-300x200.jpg" alt="goodnight_goodluck_38" width="300" height="200"></a></p>
-<p>我很喜欢这部电影，内容是我喜欢的，表现的方式也是我喜欢，故事表面显得松散内里却丝丝入扣。它展示了才华，理想，正义，新闻媒体的力量，一个才华横溢的团队，一个英雄，迎头痛击不义与黑暗，在黑暗中守护火焰，在迷茫中保持清醒。</p>
-<p>Sig Mickelson的扮演者杰夫·丹尼尔斯在2012年出演了HBO的电视剧《新闻编辑室》中的主持人威尔，他在第一季第一集中的一段独白是我非常喜欢的，不是因为辞藻华丽和戏剧化，而是传达了应该对所谓的主流保持警惕，有所思考，有自己的原则。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/01.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/01-300x225.jpeg" alt="0" width="300" height="225"></a></p>
-<p>除了这个全国最大的新闻媒体公共微信号之外，我这辈子都不可能参与任何与新闻媒体有关的工作当中去了，因为我没那个能力，而我国也不存在任何新闻和新闻媒体，都是些翻新的旧闻、低劣的故事和谎言，在我国谈论“不能把异见当成不忠不能把指控当作证据”也是个笑话。但是这个世界上曾经有过像默罗那样伟大的人走过。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E6%96%B9%E6%81%A8%E5%B0%91%EF%BC%9A%E6%99%9A%E5%AE%89%EF%BC%8C%E6%88%91%E4%BB%AC%E7%9A%84%E5%A5%BD%E8%BF%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%B2%BB%E5%85%8B%E9%B2%81%E5%B0%BC/?category=18271" rel="tag">乔治克鲁尼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%A7%81%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异见人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E9%BB%98%E7%BD%97/?category=18271" rel="tag">爱德华·默罗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%A6%E5%8D%A1%E9%94%A1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">麦卡锡主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -824,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%B2%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%B2%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

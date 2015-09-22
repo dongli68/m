@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E4%BA%9A%E6%97%81%E6%B0%8F%E9%AA%97%E5%B1%80%EF%BC%9A22%E4%B8%87%E6%8A%95%E8%B5%84%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%BD%93%E6%9C%89/" target="cdt-mirror">美国之音 | 泛亚“旁氏骗局”：22万投资人的家当有望讨回吗？</a>
@@ -56,7 +56,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E9%A2%84%E6%9C%9F/?category=18271" rel="tag">市场预期</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/?category=18271" rel="tag">庞氏骗局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E4%BA%BA/?category=18271" rel="tag">投资人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E%E4%BA%A4%E6%98%93%E6%89%80/?category=18271" rel="tag">昆明泛亚有色金属交易所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%9B%E4%BA%9A/?category=18271" rel="tag">泛亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%AE%97/?category=18271" rel="tag">清算</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D/?category=18271" rel="tag">金融</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E9%AB%98%E6%89%AC%E5%85%B1%E4%BA%A7%E4%B8%BB/" target="cdt-mirror">【异闻观止】中国青年报：理直气壮地高扬共产主义伟大旗帜</a>
 </h2>
@@ -118,7 +118,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1/?category=18271" rel="tag">翻墙服务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%8A%E6%B5%B7%E9%97%B8%E5%8C%97%E8%AE%BF%E6%B0%91%E6%9D%A8%E5%B7%9D%E8%81%AA%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%9C%8D%E6%AF%92%E8%87%AA/" target="cdt-mirror">自由亚洲｜上海闸北访民杨川聪天安门广场服毒自杀身亡</a>
 </h2>
@@ -820,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -830,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

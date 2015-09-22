@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,96 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/aucssa-%E5%85%B3%E4%BA%8E%E4%B9%A0%E8%AE%BF%E7%BE%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/" target="cdt-mirror">AUCSSA | 关于习访美欢迎仪式的注意事项</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150922172749_xi_peng_seattle_512x288_ap_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150922172749_xi_peng_seattle_512x288_ap_nocredit.jpg" alt="150922172749_xi_peng_seattle_512x288_ap_nocredit" width="550" height="309"></a></p>
+<p><em><strong>中国数字时代编辑注：</strong> 以下内容转载自AUCSSA（美利坚大学学生学者联谊会）微信公号</em></p>
+<p>想必大家都为习近平总书记来美非常激动了！今天AUCSSA得到了进一步的消息关于当天迎接仪式的注意事项，请大家注意！</p>
+<p>几个主要的内容请大家牢记：</p>
+<p>1. 活动的具体位置尚不确定，但大体在酒店，白宫，华盛顿纪念碑和机场四个地方。<br>
+2. 活动时间会有有细微变化，尚未彻底确定。<br>
+3. 活动的场地是在本地的华侨负责确认和预定的，AUCSSA会尽快和他们去取得联系，稍后和同学们确认联系方式。<br>
+4. 欢迎仪式的时候各个学校的位置会不同，我们AU的位置也没有被确定，因此请同学们听从AUCSSA成员的指挥。<br>
+5. 活动期间会有大使馆分派的律师和工作人员，AUCSSA会与他们直接联系，所以有紧急情况的话一定要和我们AUCSSA的成员沟通。<br>
+6. 请同学们准时集合，准时出发。<br>
+7. 请同学们牢记使馆的联系方式：202-495-2266是使馆的一般联系方式。202-669-8024是使馆的紧急联系方式</p>
+<p>这五项是主要的内容，请同学们注意。</p>
+<p>规范性的内容：<br>
+1. 活动期间同学们不要背双肩包。<br>
+2. 活动期间AUCSSA的成员会发相关的物品和器材，如国旗，衬衫等。请妥善保管，不要损坏或者遗失。<br>
+3. 如果被分到国旗的同学，尤其是大国旗的同学请注意：国旗不能倒置，不能触地（拆装国旗时除外），不能拖地。更不能破损。<br>
+4. AUCSSA的横幅会有习近平主席和夫人彭丽媛的画像，被分配到的同学千万注意：画像不能破损，玷污。如果上述情况出现请立即将画像妥善收存且不要再度展示。并与AUCSSA带队成员沟通。<br>
+5. 如果相关器材，如国旗，横幅画像等被某些人或组织夺取或刻意损坏。千万不要组队抢回或者组队反击。请第一时间与警察和AUCSSA的成员沟通，说明情况后在采取下一步行动。<br>
+6. 服从大使馆工作人员，华侨，警察等官方的调遣。<br>
+7. 不要乱丢垃圾。</p>
+<p>欢迎仪式的细节：<br>
+1. 欢迎仪式中可以喊口号，大使馆官方指定的口号是：“中国加油”和“China Strong”。AU已经为大家准备了一首原创歌曲《远洋赤子心》，请同学们点击“阅读原文”来学习。<br>
+2. 其次，大使馆推荐大唱《我的中国心》和《红旗飘飘》两首曲子。</p>
+<p>同时，大使馆考虑到此次同学们会遭遇反对派的示威人员，已经委托律师撰写了一份相关的行为指导，AUCSSA为大家翻译后标记了一些关键内容，请大家一定要仔细阅读！（大图请在WI-FI环境下点击！）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9598.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9598-791x1024.png" alt="IMG_9598" width="600" height="777"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9599.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9599-791x1024.png" alt="IMG_9599" width="600" height="777"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9600.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9600-791x1024.png" alt="IMG_9600" width="600" height="777"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9601.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9601-791x1024.png" alt="IMG_9601" width="600" height="777"></a></p>
+<p>以下为翻译内容：<br>
+1. 严格遵守法律以及社会常识，尽力避免任何形式的冲突。</p>
+<p>2.确保在人行道上行走且遵守交通规则。同时在人行道行走的过程中尽量预留足够的空间，以确保其他行人可以通过，不要发生与他人冲突或阻拦道路等情况。</p>
+<p>3.当发现有人与你宣扬的观点截然相反之时（常指反对派），他们有宣扬自己的理念和声音的权力，他们的行为不能被我们直接的打断或阻扰。<br>
+（此条特指反对派和分裂势力分子，前往欢迎仪式的同学请不要直接与他们发生争吵，或者有意地阻挠他们的行动。）<br>
+警察会将有敌意的两组人分开，但有些情况下部分区域会接壤。</p>
+<p>4.保持冷静和专业，不要过度激进。不要被他人的嘲笑，挑衅所激怒，也不要试着去激怒他们。毕竟双方都是来宣扬自己的政治理念和政治思想，这里是欢迎仪式，不是教室。</p>
+<p>5.请大家待在自己团队所在区域，不要进入他人的区域，尤其单人行动一定要避免。</p>
+<p>6.如果发现有其他人混入我们所在的区域，不要试着自己驱逐他们，一定要向警察寻求帮助。<br>
+一定不能先动手，也不要试着碰他或者抓他手里的东西，也不要试着威胁他。<br>
+（这些行为都会让警察误以为是冲突的前兆，容易产生误会。）<br>
+如果发现斗殴的情况，最好的方法是叫同伴朋友进行录像，收集证据</p>
+<p>7.如果你被警察拦住盘问，第一件事情是保持冷静镇定和礼貌。<br>
+不要试图与警察争吵或者抵抗警察或者阻挠警察执法，哪怕你认为你是无辜的或者你认为警察有侵犯你的权益。在某些地区，警察会问你的姓名，但你不需要提供自己的身份证件或其他文件。同时，请将手放在警察能看的见的地方。<br>
+如果他询问欢迎仪式的问题（一般都是这个情况）请同学们牢记美国宪法第一修正案，我们有言论自由的权利。<br>
+在离开的时候一定要确保自己先行询问，如果可以离开，就礼貌地慢慢地离开。</p>
+<p>8.如果警察试图逮捕你，一定不要拒捕，哪怕你认为这是不公正的。如果你被捕你可以询问原因。但一般情况下一定要说自己使用保持沉默的权利，并且要求见自己的律师。除此之外不要给警察任何解释或者借口。你在被拘留期间可以拨打本地电话，且警察无权监听。</p>
+<p>（这条极为重要，请同学们牢记美国宪法第五修正案，任何人不得被强迫说出任何事情。也就是同学们常在电影或电视剧中见到的：“You have the right to remain silent when questioned.Anything you say or do may be used against you ina court of law. You have the right to consult an attorney before speaking tothe police and to have an attorney present during questioning now or inthe future.”如果同学们真的被逮捕而带去警察局，除了见律师的要求之外，其他的任何事情都不要随便向警察透露。虽然我们是留学生而非美国公民，但我们也有保持沉默的权利。同时，同学们请牢记中国大使馆的联系方式。202-495-2266是使馆的一般联系方式。202-669-8024是使馆的紧急联系方式。如果AUCSSA得知了使馆律师的联系方式也会第一时间通知大家。）</p>
+<p>9.同学们不要把对你的任何搜查当做理所应当。警察可能对你进行搜身，以检查你是否有武器，或者把你逮捕之后对你进行搜查。最好的方式是不要抵抗。但是进一步的搜查都是可以拒绝的。如果你明确同意了搜查，在法庭上可能对你不利。<br>
+请同学们牢记，街道上不是指控警察错误行为的地方。一定不要抵抗或者威胁说投诉。一旦找到机会，将发生的事情原原本本地记录下来，包括警察的警官号码，车辆车牌号码，警察所属的单位和其他一切细节信息。寻找证人和其他证据。如果有同学受伤，一定要及时送医处理，但确保送医之前拍照取证。一旦有机会，你就可以利用这些信息来投诉。这些投诉都是匿名的，而且所有的同学都可以寻找律师的帮助。<br>
+（同学们请注意，警察的搜查只有在他有搜捕令的时候才是合法的，其他时间的任何搜查都没有正当理由。所以同学们被拦下搜身的时候一定要牢记，如果真的被强行拦下搜查书包或者被无端要求检查证件，请问清楚是否有搜捕令，如果没有，便明确声明拒绝搜查，但被强行搜查时也千万不要抵抗。如果真的发生，请保持镇定和冷静，若被带走就保持沉默，若安全返回就寻求律师和使馆的帮助。）</p>
+<p>10.如果你在公共场合合法出现，你是有权拍照录像的，包括联邦建筑，交通工具，乃至警察。但如果你在私人的地区里，私人地产的拥有人有权设立关于摄像的规定，所以请看清一些相关的指示牌。警察在没有搜捕令的情况下无权浏览你所拍的照片或者录像，也无权没收你的器材。但在私人地区，他们有权要求你停止拍摄或让你停止一些侵犯他们合法权利的行为。<br>
+（这条遇上一条相似，同学们应明确区分公共场合和私人空间。在私人地区一些业主有权阻止你摄像。）</p>
+<p>11. 在某些情况下，非移民身份的人会携带他们的护照。同学们若是被捕，请一定不要与警察讨论或者透露自己的身份。只有律师是你能找的。在被拘留期间，除了律师有直接指示之外，千万不要回答任何问题或者签署任何东西。<br>
+（考虑到大部分同学不是美国公民，而且所属的签证和身份都不同，这方面的信息是不能随便透露的，尤其在被捕期间。所以如果携带护照的同学们参加欢迎仪式被逮捕或者遇上盘问，这些信息是要与律师沟通之后才能与警察交流的。）</p>
+<p>12.请同学们避免与反对派的任何肢体接触或冲突。</p>
+<p>以下是殴伤罪(Assault and Battery)的法律构成要素（翻译仅供参考）<br>
+动手打人或者举手吓唬都可以构成殴伤罪（视情节而定，可以使民事或者刑事）<br>
+初步情况为：<br>
+1.有害或冒犯性的行为（直接或者非直接，设个套也算）<br>
+2.与原告方的接触（包括衣服钱包，任何与他连接的东西，哪怕他牵着栓狗的绳子）<br>
+    冒犯性的接触可以不是即时的<br>
+    可以使持续性的</p>
+<p>侵犯（Assault）<br>
+初步情况为：<br>
+1.被告方将原告方置于“忧虑”中<br>
+2.即时的攻击<br>
+    “忧虑”不代表威胁，紧张或惧怕等心理情况<br>
+    弱者也可将强者至于此种情况<br>
+    “忧虑”具体指：<br>
+    被告方的攻击会构成明显的“忧虑”<br>
+    原告方认为被告方的行为是迫害性的或者威胁性的<br>
+    原告方被被告方用未上膛的武器指着<br>
+“威胁”的定义：<br>
+    任何迅速的威胁<br>
+    言语中的字面意思模糊不清<br>
+    言语与行为共同发生<br>
+    言语暗指未来将发生的事情<br>
+在国内，争吵的时候推搡是正常的，但是在美国便不同，即便吵架也不能动手推搡对方。退了便是殴伤。也不能举起东西威胁对方，威胁就构成assault。当然，自我防卫不属于这个范围。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/aucssa-%E5%85%B3%E4%BA%8E%E4%B9%A0%E8%AE%BF%E7%BE%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">中国留学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">留学生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E7%9F%B3%E6%89%89%E5%AE%A2%E8%A7%A6%E5%8A%A8%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">旧闻评论 | 宋志标：石扉客触动了什么？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%83%A1%E9%80%82%E5%83%8F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%83%A1%E9%80%82%E5%83%8F-245x300.jpg" alt="胡适像" width="362" height="467"></a></p>
@@ -826,27 +913,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%BC%80%E4%B8%A4%E6%9D%A1%E4%BB%B6%E4%BA%A4%E6%8D%A2%E4%BB%A4%E5%AE%8C%E6%88%90/" target="cdt-mirror">世界日报｜中方开两条件交换令完成</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9y8.jpg" alt="k9y8" width="551" height="394"></p>
-<p>令完成要泄密 令计划必死无疑</p>
-<p>香港媒体报导中共中央政法委书记孟建柱日前访美时，点名要求美方遣返滞留美国的前中共中央办公厅主任令计划的弟弟令完成，据信他握有中共高层的重要机密。分析人士指出，解决令完成问题可能成为下周中国国家主席习近平访美的焦点之一。由于令计划落马后身陷囹圄，因此假若令完成把他手中的机密提供给 美方，则令计划将必死无疑。</p>
-<p>日前令完成的姐夫、山西运城市副市长王健康已被免职。去年 6 月令计划二哥令政策落马后，其家族成员相继被查。令完成则于去年秋天「失踪」。今年 8 月 3 日，「纽约时报」证实令完成藏身美国。</p>
-<p>令计划与徐才厚、薄熙来和周永康并称「新四人帮」。有关这个集团当年密谋政变的报导已越来越多。</p>
-<p>据「调查」杂志披露，北京当局急于追回潜藏美国的令完成，在与美方的秘密谈判中，开出两个条件：如果美国能把令完成交回中国，第一，中方放弃对令在美国的全部资产的权利，约 6 亿美元 ; 第二，中共愿意接收美国遣返中国 2 万 5000 名非法移民。</p>
-<p>据北京参与调查令完成案件的人士透露，中共高层推测令完成手上拥有从他哥哥令计划及其党羽那里得来的绝密资料，因此派出大批人员通过各种途径寻找令完成。当局更加紧与美国当局交涉，希望通过美国将令完成弄回国。</p>
-<p>「外参」杂志 9 月号指出，中国外逃人员众多，若论中共政府目前最想引渡回国的，非令计划的弟弟令完成莫属。自 2014 年年底以来，各种关于令完成藏身美国的消息传出，但一直都没有其确切行踪的报导，直到「纽约时报」于今年 8 月 3 日刊登报导，才详细勾勒出令完成逃到美国一年来的具体生活轨迹。</p>
-<p>虽然中共目前不断施压，但是美国政府目前并没有同意将令完成遣返，而中共政府最担心的是令完成叛变。有报导说，令计划在落马前有目的地盗取中办机密文件 2700 多份，涉及中共政治、军事、经济、文化等方面，相信部分已被令计划的弟弟令完成带到美国，成为要胁中南海的筹码。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%BC%80%E4%B8%A4%E6%9D%A1%E4%BB%B6%E4%BA%A4%E6%8D%A2%E4%BB%A4%E5%AE%8C%E6%88%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -858,7 +924,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -868,5 +934,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

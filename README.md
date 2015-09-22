@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,59 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%86%85%E5%BF%A7%E5%A4%96%E6%89%B0%E5%B9%B6%E4%B8%8D%E5%A6%A8%E7%A2%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E8%AE%BF%E7%BE%8E/" target="cdt-mirror">纽约时报 | 内忧外扰并不妨碍习近平强势访美</a>
+</h2>
+<p><p> </p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/22xijinping-web-articleLarge-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/22xijinping-web-articleLarge-1.jpg" alt="9月，中国国家主席习近平在北京天安门广场上举行的阅兵式上。他将于周二抵达美国进行访问。" width="400" height="287"></a><p>9月，中国国家主席习近平在北京天安门广场上举行的阅兵式上。他将于周二抵达美国进行访问。</p></div>
+<p>北京——这个月，中国国家主席习近平站在豪华轿车里驶过天安门广场时，看起来气度威严，他穿着毛泽东青睐的那种传统样式的服装，朝着挺拔站立的受阅部队的队列挥手致意。不过近来，习近平主席<a href="http://cn.nytimes.com/china/20131116/c16leader/" target="_blank" rel="nofollow">帝王般的光芒</a>却黯淡了下来。</p>
+<p>中国<a title="Link: http://cn.nytimes.com/china/20150824/c24china/" href="http://cn.nytimes.com/china/20150824/c24china/" target="_blank" rel="nofollow">经济的放缓相当突然</a>，似乎超出了政策制定者的预料，这引发了全球投资者的警觉。政府<a href="http://cn.nytimes.com/china/20150710/c10chinaleaders/" target="_blank" rel="nofollow">高估了自己提振股价的能力</a>，花费了数十亿美元试图支撑中国股市。习近平雄心勃勃的改革计划，包括重振<a href="http://news.xinhuanet.com/english/2015-09/13/c_134620039.htm" target="_blank" rel="nofollow">膨胀的国有企业</a>的目标，尚未产生什么切实的收效。</p>
+<p>习近平经常被形容为共产党数代领导人中，权力最大的一位。周二他抵达美国时，将会面临经济领域吹来的逆风，以及他的执政方式受到的日益严重的质疑——这与他去年接待奥巴马总统时，所表现出的胸有成竹的形象大相径庭。</p>
+<p>然而在困扰奥巴马政府的一系列争端之中，他却没有表现出退让的迹象。这些争端包括，中国在南海争议海域<a href="http://cn.nytimes.com/china/20150731/c31southchinasea-interactive/" target="_blank" rel="nofollow">加速人工岛屿建设</a>的做法，以及美国企业和政府机构遭受的、据说来自中国的<a href="http://cn.nytimes.com/usa/20150605/c05hack/" target="_blank" rel="nofollow">网络攻击</a>。中国则曾反复否认与这些攻击有关。</p>
+<p>这两个国家一直在就网络空间的第一份<a title="Link: http://cn.nytimes.com/world/20150920/c20cyber/" href="http://cn.nytimes.com/world/20150920/c20cyber/" target="_blank" rel="nofollow">军控协议开展谈判</a>，双方的目标是在习近平访美期间公布协议。这项协议将在和平时期确保关键基础设施的安全，但根据预期并不会涵盖知识产权和数据的窃取等争议性议题。</p>
+<p>分析人士表示，习近平最近遭遇的挫败只会让他更不愿意在美国的压力下作出让步。</p>
+<p>“习近平对和美国的战略竞争念念不忘，”北京的中国人民大学国际关系学教授时殷弘表示。“峰会上不会就战略问题产生进展。”</p>
+<p>在当政近三年后，习近平已经聚敛了令人生畏的权力，他控制了党内最重要的一些政策小组。他严厉的反腐行动压制了潜在的反对者，他的总理和其他同僚只得退而扮演类似啦啦队的角色。</p>
+<p>习近平猛烈而有力的执政手法，意在打造一个果断敏捷的政府，改变他的前任执政时懒散僵硬的情形。然而因为有这么多的权力集中在他手中，他在各个领域的雄心又如此之大，官僚体系内部产生混乱、负担过重的风险越来越明显，尤其是在管理中国这个全球第二大经济体的经济情况之时。</p>
+<p>“很多人现在都停下来想，这场行动或许并没有我们原本以为的那样安排周密，”<a href="http://www.stimson.org/experts/robert-l-suettinger/" target="_blank" rel="nofollow">华盛顿史汀生中心(Stimson Center)高级顾问苏葆立</a><a title="Link: http://www.stimson.org/experts/robert-l-suettinger/" href="http://www.stimson.org/experts/robert-l-suettinger/" target="_blank" rel="nofollow">(Robert.L.Suettinger)</a>表示。苏葆立曾是国家安全委员会(National Security Council)前亚洲问题主管。</p>
+<p>习近平“似乎大权在握，因为他把自己放在了很多关键的位置上，”苏葆立接着说。“但问题是，做出的决策是否符合他期望的方向？整个体制是不是也开始朝他期望的方向演变了？这部分问题，我想还没有定论。”</p>
+<p>没什么人认为习近平的领导可能会受到严峻挑战，但如果这样的决策性问题加剧、经济持续乏力，他的权威或许就会受到影响。</p>
+<p>“习近平在短期内巩固了权力，这令人折服，但也提出了长期性的问题。他揽在自己身上的事情是不是太多了？”约翰·霍普金斯大学高级国际研究学院教授戴维·M·兰普顿(David M. Lampton)说。兰普顿研究中国领导人多年。</p>
+<p>习近平面临的一个“首要威胁”是，经济放缓会影响公众对一党执政的支持，兰普顿补充道。“似乎是为了作出弥补，习近平主席开始强调中国在世界上的角色提升了。”</p>
+<p>尽管习近平强调他希望建立良好的关系，但是中国对美国构成的日益加大的挑战，在习近平<a href="http://cn.nytimes.com/china/20150918/c18xitrip/" target="_blank" rel="nofollow">七天的访美行程</a>中将会受到特别关注。他首先会在西雅图对企业高管发表讲话，并参观波音(Boeing)和微软(Microsoft)，之后前往华盛顿开展他担任国家主席以来的首次正式访问。最后前往纽约，首次在联合国发表讲话。</p>
+<p>尽管中国经济走软，但是对于周四与奥巴马的会晤，习近平仍然保持着强硬的姿态。</p>
+<p>预计习近平还会再掌权七年，除非在共产党最高层有出人意料的事情发生，而奥巴马距离卸任只有16个月了。由于存在这样的差距，一些中国学者表示，这让习近平认为，奥巴马是“跛脚鸭”。</p>
+<p>62岁的习近平在党内高层没有真正可以发起挑战的对手，他在中国民众中依然广受欢迎。他的公众形象因最近<a href="http://cn.nytimes.com/china/20150907/c07china/" target="_blank" rel="nofollow">在天安门广场举行的阅兵式</a>而被强化，而当他在白宫接受21发礼炮礼遇和国宴招待时，这一形象会得到进一步巩固。对于此前访美的中国领导人而言，礼炮和国宴都是访美时所受礼遇的高潮部分。</p>
+<p>上海复旦大学的<a href="http://www.cas.fudan.edu.cn/viewprofile.php?id=66" target="_blank" rel="nofollow">国际关系教授</a>、中美关系专家沈丁立表示，美国政策制定者比较难理解习近平，因为“他是一个主动出击的人，而中国领导人历来多是等待做出反应的人。”</p>
+<p>“他认为我们是个大国，也更愿意与美国相对抗，”沈丁立接着说道。</p>
+<p>习近平和奥巴马有望就他们存在分歧的很多问题进行磋商，这包括网络安全、南海紧张局势、被控贪污的中国官员的遣返，以及中国政府严酷对待异见者和律师的做法。</p>
+<p>自2012年11月取得中国共产党的最高领导权以来，习近平已经在所有上述议题上留下自己的印记，大多数情况下他都采取了比几位前任更加强硬的立场。</p>
+<p>上周在北京<a href="http://news.xinhuanet.com/english/photo/2015-09/18/c_134635354.htm" target="_blank" rel="nofollow">会见美国商界领袖</a>时，习近平看似胸有成竹，他流露出一种尽管中国最近出现了经济动荡但他领导的政府依然处于支配地位的自信，一位知情人士不具名地谈论这一闭门会议时讲道。</p>
+<p>美国企业的高管们表达了他们的一些不满——中国新颁布的《国家安全法》以及针对网络安全和反恐的一些法律提案，将使他们受到权力越来越大的中国安全机构的不必要审查，进而限制他们在中国的运营。据这位美国知情人士透露，习近平在会上坚定地维护了这些立法的必要性。</p>
+<p>“所有这些迹象似乎都在显示，作为一个国家领导人，习近平将注意力主要放在集中权力和显示中国的强大上，”长期分析中国经济政策的研究机构龙洲经讯(Gavekal Dragonomics)总经理<a title="Link: http://research.gavekal.com/content.php/328-Arthur-Kroeber" href="http://research.gavekal.com/content.php/328-Arthur-Kroeber" target="_blank" rel="nofollow">葛艺豪</a>(Arthur Kroeber)说。“当他被迫要在以效率和可持续增长的名义给予市场力量更大发挥空间，和以牺牲长期经济发展的代价重申政府首要地位这两个选项之间做出选择时，”习近平似乎更有可能选择后者，他接着说道。</p>
+<p>尽管习近平准备在西雅图会见<a href="http://cn.nytimes.com/china/20150909/c09techsummit/" target="_blank" rel="nofollow">美国科技界领袖</a>，但中国政府最近却要求美国公司<a href="http://cn.nytimes.com/technology/20150917/c17pledge/" target="_blank" rel="nofollow">许诺支持一些有争议性的政策</a>，这些政策可能会要求他们给中国当局提供用户数据和知识产权。</p>
+<p>在外交政策方面也是如此。与其前任相比，习近平“似乎对达成协议相对不那么感兴趣，”兰普顿说。“与前任相比，他表现得更愿意与外界产生摩擦。”</p>
+<p>奥巴马政府尤其关切的议题是，有关中国对美国企业和政府机构<a title="Link: http://www.nytimes.com/2015/09/16/world/asia/cyberthreat-posed-by-china-and-iran-confounds-white-house.html" href="http://www.nytimes.com/2015/09/16/world/asia/cyberthreat-posed-by-china-and-iran-confounds-white-house.html" target="_blank" rel="nofollow">实施网络袭击的指控</a>，包括窃取商业秘密并将其转交给中国竞争对手，以及窃取数百万美国政府职员的个人信息。</p>
+<p>“在这个方面，我们还没有看到任何进展，也没有看到他们的行为有任何改观，”一位美国政府高级官员说道。</p>
+<p>前新加坡外交部常任秘书比拉哈里·考西坎(BilahariKausikan)表示，中国可能会继续对美国目标实施网络袭击，因为习近平几乎没什么理由叫停。他们之所敢这么做，“我目前的猜测是，中国的联网程度没有美国那么高，相对而言没那么容易受到损害，”他说。</p>
+<p>外界推测，在奥巴马政府的另一要求上，习近平也不会让步，即要求中国停止在<a href="http://topics.nytimes.com/top/news/international/countriesandterritories/southchinasea/index.html" target="_blank" rel="nofollow">南海</a>争议水域<a href="http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea-cn.html" target="_blank" rel="nofollow">建造人工岛屿和军事设施</a>——世界上最繁忙的一些航运路线会经过这一海域。中国声称自己对南海80%的海域拥有管辖权，而且一直在距离中国大陆800多英里远的地方建造人工岛屿。</p>
+<p>最近发布的<a title="Link: http://cn.nytimes.com/china/20150916/c16chinasea/" href="http://cn.nytimes.com/china/20150916/c16chinasea/" target="_blank" rel="nofollow">卫星图像显示</a>，中国已经开始在两座新建的人工岛上修建可以军用的飞机跑道。此前中国通过在有争议的斯普拉特利群岛（Spratly archipelago，中国称南沙群岛）的岛礁上堆沙，建成了这两座岛屿。这些人工岛靠近菲律宾，菲律宾已经向美国求助，并在考虑允许美国使用该国的<a href="http://cn.nytimes.com/asia-pacific/20150921/c21philippines/" target="_blank" rel="nofollow">海军和空军基地</a>。</p>
+<p>上周，中国外交部长王毅发表了一番讲话，意在预告习近平在中美关系中一些重要议题上的立场，他的语气听起来有些挑衅。“我愿在此重申，南沙群岛是中国的领土，”他用中国对斯普拉特利群岛的称谓说道。“这一立场不仅现在如此，今后也不会改变。”</p>
+<div>
+<p>储百亮(Chris Buckley)是《纽约时报》记者。</p>
+</div>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%86%85%E5%BF%A7%E5%A4%96%E6%89%B0%E5%B9%B6%E4%B8%8D%E5%A6%A8%E7%A2%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E8%AE%BF%E7%BE%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/?category=18271" rel="tag">一党专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E4%BA%9A%E6%97%81%E6%B0%8F%E9%AA%97%E5%B1%80%EF%BC%9A22%E4%B8%87%E6%8A%95%E8%B5%84%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%BD%93%E6%9C%89/" target="cdt-mirror">美国之音 | 泛亚“旁氏骗局”：22万投资人的家当有望讨回吗？</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard10_114.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard10_114.jpg" alt="Clipboard10_114" width="600" height="338"></a><p>千余人围堵在北京市金融街的证监会门口</p></div>
@@ -796,19 +846,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%8A%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%A2%AB%E5%8F%AB%E5%B8%A6%E8%B7%AF%E5%85%9A%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F/" target="cdt-mirror">【麻辣总局】被叫带路党怎么办？</a>
-</h2>
-<p><p>@弹弓子段子漫画：如果有人诬称你为“带路党”，怎么办？您可以这样回答：“莫非你是发带路党党证的，知道谁是带路党？”于是他就成了“带路党组织部”的人了。【段子来自@王占阳 】画外音：国家战略一带一路原来是这回事啊！（<a href="http://weibo.com/2094473151/BB0vu5495?type=comment#_rnd1442104662124">微博原文</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1enatyry55hj20rs0rs48a.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1enatyry55hj20rs0rs48a.jpg" alt="7cd71fbfgw1enatyry55hj20rs0rs48a" width="550" height="500"></a></p>
-<p>@弹弓子段子漫画：市委市纪委上午通知全体干部下午开会，研究本市反腐工作重大举措，并将在会议上宣布撤消腐败分子党内外一切职务，直接移交司法机关。下午到了开会时间，俩书记发现一个人都没来。两人研究后补发通知：将被开除党内外一切职务并移交司法机关的，指的是已被双规的同志，还没被双规的同志应及时到场开会。（<a href="http://weibo.com/2094473151/BsSV8ccB4?type=comment#_rnd1442076846491">微博原文</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1ell2r3t0m6j20si0siagq.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1ell2r3t0m6j20si0siagq.jpg" alt="7cd71fbfgw1ell2r3t0m6j20si0siagq" width="550" height="500"></a></p>
-<p>@弹弓子漫画：革命尚未成功，从头再来一次（<a href="http://weibo.com/2094473151/CvLBL4YAE?type=comment#_rnd1442104844228">微博原文</a>）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1ev20g4sn6sj20hs9fhb29.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/7cd71fbfgw1ev20g4sn6sj20hs9fhb29.jpg" alt="7cd71fbfgw1ev20g4sn6sj20hs9fhb29" width="550" height="9547"></a></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%A2%AB%E5%8F%AB%E5%B8%A6%E8%B7%AF%E5%85%9A%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%B7%AF%E5%85%9A/?category=18271" rel="tag">带路党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93%E5%AD%90/?category=18271" rel="tag">弹弓子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B9%E5%BC%93%E5%AD%90%E6%AE%B5%E5%AD%90%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">弹弓子段子漫画</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -820,7 +857,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -830,5 +867,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

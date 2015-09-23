@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">【立此存照】任志强：“我们是共产主义接班人？”</a>
+</h2>
+<p><p>9月21日，团中央微博撰文号召<a href="http://zqb.cyol.com/html/2015-09/21/nw.D110000zgqnb_20150921_7-01.htm">“理直气壮地高扬共产主义旗帜”</a>，并发起“#我们是共产主义接班人#”微博话题。任志强转发并评论：“曾经被这个口号骗了十几年！”，引来五毛围攻：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8810.54.35.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8810.54.35.png" alt="Screen Shot 2015-09-23 at 上午10.54.35" width="596" height="494"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8810.56.58.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8810.56.58.png" alt="Screen Shot 2015-09-23 at 上午10.56.58" width="595" height="553"></a></p>
+<p>任志强随后<a href="http://weibo.com/p/1001603889623095997939">写长微博回应</a>，称：“当我在#我们是共产主义接班人#的微博上评论这个口号骗了我十几年时，引来了无数的漫骂。那就写个长篇大论，讨论一下这个口号的荒唐。你可以努力为实现共产主义理想去奋斗，但你绝不是共产主义接班人！下辈子也不是。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.26.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.26.png" alt="Screen Shot 2015-09-23 at 上午11.09.26" width="588" height="497"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.37.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.37.png" alt="Screen Shot 2015-09-23 at 上午11.09.37" width="585" height="390"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.48.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.48.png" alt="Screen Shot 2015-09-23 at 上午11.09.48" width="583" height="487"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.59.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.59.png" alt="Screen Shot 2015-09-23 at 上午11.09.59" width="582" height="407"></a>   </p>
+<p>9月23日，团中央宣传部长景临发长微博<a href="http://weibo.com/3937348351/CBPtUdeD6?type=repost#_rnd1443029738650">《与任志强先生榷》</a>，指任志强“公开鲜明、郑重其事地反对共产党员的共产主义理想”。同日，<a href="http://weibo.com/1989660417/CBS1mDzCi?type=comment">《环球时报》主编胡锡进发自拍视频</a>，称：“<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E6%AC%BA%E9%AA%97%E4%B8%AD/">共产主义没有辜负我们这个民族</a>。我们不能只谈共产主义理想而漠视当前的尖锐问题，也不能因为买到了假货或是遇到个腐败的坏领导，就认定共产主义理想是‘扯淡’。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/eaaf2affjw1ewc3urjcukj20c81rotev.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/eaaf2affjw1ewc3urjcukj20c81rotev.jpg" alt="eaaf2affjw1ewc3urjcukj20c81rotev" width="440" height="2292"></a></p>
+<p>9月23日晚，任志强再发长微博<a href="http://weibo.com/1182389073/CBUA10gqH?type=comment">《全世界无产者联合起来》</a>，提出五条改革建议，并称：“千万别让团中央用愚昧再去欺骗年轻的一代。千万别让改革开放退回到改革之前。我不在乎别人骂我，但团中央不能用无知欺骗社会！”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.25.58.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.25.58.png" alt="Screen Shot 2015-09-23 at 上午11.25.58" width="550" height="539"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.23.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.23.png" alt="Screen Shot 2015-09-23 at 上午11.26.23" width="548" height="568"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.35.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.35.png" alt="Screen Shot 2015-09-23 at 上午11.26.35" width="553" height="545"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.54.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.54.png" alt="Screen Shot 2015-09-23 at 上午11.26.54" width="550" height="570"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.27.11.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.27.11.png" alt="Screen Shot 2015-09-23 at 上午11.27.11" width="549" height="361"></a></p>
+<p><strong>以下为中国数字时代编辑摘自网友评论：</strong></p>
+<p>柔玫瑰575：从我还没学会说话时就听到这种声音，六十年后还是这个老调，可现实呢？看到的是; 贪官遍地，强拆滥捕，民不聊生，怨声载道！人心涣散，道德下降。某些人却还在那里枉谈什么共产主义！！！</p>
+<p>吴大头大头吴：看了您与任先生的文章，您的文章全篇在谈理想，而任则关注现实中存在的诸多问题。您的观点是：只要理想正确，任何问题都不是问题，都能解决。而任的出发点：不解决实际问题，理想都是虚的，所谓“空谈误国，实干兴邦”。我们从小到大听惯了口号理想，但现实中的问题是我们最关注的，这一轮较量，任胜了</p>
+<p>抗压王1：从头到尾看了一遍，其实就一句话:接班指的是继续奋斗，而不是坐享其成，这点我深深赞同，您跟任志强对接班人的理解不一样，这样吵并没有什么用。我关心的是，如果这样的文章就是公务员考试申论的范文，那跟八股文有什么区别？</p>
+<p>北极地瓜：共产主义，首先从环球时报不删评论做起。</p>
+<p>一品菜刀侍卫xs5：既然你们的主义这么伟大又手握宇宙真理，怎么还有那么多久经考验的共产主义战士前仆后继的通奸腐败，别说西方也有腐败哈，他们是腐朽没落的资本主义社会，没有腐败才是怪事</p>
+<p>月球G：活在连自己都不相信的谎言中，还要伪装的道貌岸然去教育别人，那要怎么样的厚颜无耻才行？！</p>
+<p>拿望远镜眺望未来：任总的理论水平已经达到相当的高度，和团中央的枪手都不在一个等量级！改革开放几十年了，还用文革的思维和理论，这样的人长期占据国家理论思想阵地，真是贻笑大方了！</p>
+<p>挺讨厌这种文革余孽的思想。即不搞经济建设提高大家生活水平，又特喜欢窝里斗，你给我戴帽子我给你戴帽子。幼稚的可笑。都过去30年了，怎么还能死剩下一些。</p>
+<p>新辩证唯物主义：任志强同志果然有理论基础，这个党员不是混的!</p>
+<p>超级令狐聪：呵呵优秀党员任志强 年薪七百多万并且由党委一致通过</p>
+<p>初心怡然-坚守：把房子平均分分把，我们不要别墅，90一下就行。</p>
+<p>大漠孤烟xj：您退党了吗@任志强</p>
+<p>郭少林：前段时间还听这个老共产党员说“我信仰共产主义，我觉得这是最好的社会”，这就开始打自己脸了，要挣钱也别昨是今非，晚节不保。通过你在微博上的言论发现以前大家觉得是你是最黑心的地产商，一点都不冤枉你啊。</p>
+<p>贫僧法号祥林嫂：老是有人在老任微博下谩骂，何必呢。有人说他是靠着父母的荫蔽发达的，中国比他爹妈官大的多了去了，还不是有那么多败家子弟。至于说他吃了D饭又骂D，正因为是D员内部人才更了解，更有批评的资格。鲁迅拿着国民政府的高薪骂国民党，马克思生在资本主义社会却是社会主义开拓者。怎么就被捧为圣人了呢？</p>
+<p>追寻梦想Kris：谁人不知道/那个是谎言/只是都不去揭穿/演员（官员）和观众（普通百姓）都很明白，拿钱养着共青团的一大票人，所以你们就为主子背书，说谎话——典型的一帮有奶就是娘，根本不用良知去分辨对错！</p>
+<hr><p><small>© 喜闻乐见 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">共产主义接班人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AF%E4%B8%B4/?category=18271" rel="tag">景临</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E5%BE%B7%E9%82%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%A1%BD%E5%9B%BA%E8%B4%AA%E8%85%90%E5%8A%BF%E5%8A%9B%E4%BD%95%E4%BB%A5%E5%85%85%E6%BB%A1%E5%BF%85%E8%83%9C%E4%BF%A1%E5%BF%83%EF%BC%9F/" target="cdt-mirror">王德邦：中国顽固贪腐势力何以充满必胜信心？</a>
 </h2>
 <p><p>日前，我因偶然机会在一次朋友的宴请上碰到了一名经商的旧识。该经商者已列身于当地数一数二的大商家，进而经常成为官员的座上客。记得当日在酒桌上脸红耳热之时，该商人对大家热议的反腐一事大泼冷水，让我闻之心惊。</p>
@@ -728,82 +769,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8D%89%E8%89%B2%E8%BF%9E%E4%BA%91-%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F%E9%95%9C%E5%A4%B4%E4%B8%AD%E7%9A%84%E5%B8%83%E6%8B%89%E6%A0%BC/" target="cdt-mirror">草色连云 | 秘密警察镜头中的布拉格</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-1.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-1.jpeg" alt="link (1)" width="500" height="355"></a><br>
-金斯堡（左）和年轻的捷克诗人Pavel Beran。1965.5，布拉格。</p>
-<p>上面这张照片拍摄于1965年5月1日的布拉格街头。当时风头正健的金斯堡受邀来到布拉格查尔斯大学朗诵他的诗歌。就在捷克青年学生为金斯堡的到来欢呼雀跃的时候，另一拨人的神经却也因此而开始绷紧。</p>
-<p>这些神经兮兮的家伙就是今天内容的猪脚，也就是题图拍摄者，日夜不停地奋战在布拉格街头第一线的“摄影大师”们——布拉格秘密警察。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-2.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-2.jpeg" alt="link (2)" width="302" height="301"></a><br>
-在布拉格，金斯堡被布拉格市民和学生拥护为“五月之王”（King of May）</p>
-<p>正当金斯堡头戴花冠，在学生们的欢呼声中朗诵着”And I am the King of May, which is the power of sexual youth,/…/and I am the King of May which is Kral Majales in the Czechoslovakian tongue…”（诗句中的“ Kral Majales ”一词是捷克语“五月之王”的意思。五月一日是捷克传统节日，二战中因被纳粹德国占领而中断。1965年，由于学生的呼吁，捷克恢复了给“五月之王”和“五月之后”戴上花冠的传统仪式。）之时，在布拉格Wencislas广场，秘密警察用间谍相机拍下了金斯堡的照片，并在几天后没收了与诗歌朗诵会相关的杂志、海报以及金斯堡的私人笔记本，以阴谋颠覆为由将其驱逐出境。</p>
-<p>嗯，金爷当年的拉风事暂时先聊到这里。要说起“秘密警察”，其实不光是在社会主义阵营，这个星球上几乎所有的国家都豢养着这类物种。虽然前苏联解体后，已经很少听到“秘密警察”这样的字眼，但就像“王老吉”换成“加多宝”一样，如今它们都摇身一变，成了“XX安全局”、“XX调查局”、“XX保卫部”这样的地方。感兴趣的朋友不妨去查一下维基百科对这一物种的解释。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-3.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-3.jpeg" alt="link (3)" width="500" height="509"></a><br>
-东德“史塔西”在检查信件后使用的重新糊口机</p>
-<p>不过，维基上的相关条目也有疏漏之处，比如秘密警察们炉火纯青的偷拍技能就没能得到展现。2009年起，这一缺憾开始被逐渐地弥补，一个名为“秘密警察镜头中的布拉格”（Prague Through the Lens of the Secret Police）的摄影巡展使当年这些“摄影大师”们的“作品”出现在人们的视线中。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-4.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-4.jpeg" alt="link (4)" width="500" height="375"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-5.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-5.jpeg" alt="link (5)" width="500" height="375"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-7.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-7.jpeg" alt="link (7)" width="500" height="375"></a><br>
-以上为哈佛大学“政府与国际研究中心”的展览现场。美国剑桥，2009年11月15日。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-9.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-9.jpeg" alt="link (9)" width="500" height="331"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-10.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-10.jpeg" alt="link (10)" width="500" height="331"></a><br>
-以上为莫斯科“安德烈·萨哈罗夫中心”的展览现场。俄罗斯，2011年3月18日。此次展览曾被视为对俄罗斯政治禁忌的突破。</p>
-<p>展览陈列了前捷克斯洛伐克秘密警察在首都布拉格偷拍的持不同政见者的照片。从照片中可以看到，异议人士的活动，其中包括个人生活，同外国友人的接触等等完全处在秘密警察的监控之下。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-11.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-11.jpeg" alt="link (11)" width="500" height="229"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-13.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-13.jpeg" alt="link (13)" width="500" height="473"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-14.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-14.jpeg" alt="link (14)" width="500" height="281"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-15.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-15.jpeg" alt="link (15)" width="500" height="541"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-16.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-16.jpeg" alt="link (16)" width="500" height="527"></a></p>
-<p>1968年，著名的“布拉格之春”民主运动之后，“Jack,slow fuck”的秘密警察们加大了对异议人士以及普通民众的监视范围，直到1989年xxx倒台前夕才告结束。资料显示，当年总共有近800名秘密警察活跃在偷拍事业的第一线，重点监视对象达500多人，主要的偷拍工具就是下面这些经过伪装的间谍相机、摄录机。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-17.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-17.jpeg" alt="link (17)" width="405" height="289"></a><br>
-经过各种伪装的间谍相机、摄录机，有的甚至被伪装成了婴儿车。</p>
-<p>提供展览照片的捷克国家安全局挡案馆说，当时每个监视行动至少部署两组特工，每组至少3到5人。监视小组通常都配备了通讯器材和交通工具。照相机一般隐藏在大衣、香烟盒、文件箱里。这些监视行动每一个都拥有相应代号，比如1985-1988年代号为“宫廷-1”的行动，监视对象是一些宗教人士。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-18.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-18.jpeg" alt="link (18)" width="500" height="319"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-19.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-19.jpeg" alt="link (19)" width="500" height="231"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-20.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-20.jpeg" alt="link (20)" width="500" height="355"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-21.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-21.jpeg" alt="link (21)" width="500" height="173"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-24.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-24.jpeg" alt="link (24)" width="500" height="523"></a></p>
-<p>谁能说这些秘密偷拍下来的照片不是专业摄影因而就没有艺术性呢？在这些被后世小文青们称作“LOMO”风的照片中，我们看到了布拉格当年空旷的街道，没有霓虹灯，没有广告，过往的行人脸色忧郁，没有笑容。</p>
-<p>这些照片如此形象而真实地再现了当时捷克人生活的那个政治压抑和物资贫乏的年代，从另一个侧面反映了这个前社会主义国家的灰色和乏味，以及沉闷的城市生活。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-25.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-25.jpeg" alt="link (25)" width="500" height="280"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-26.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-26.jpeg" alt="link (26)" width="363" height="139"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-27.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-27.jpeg" alt="link (27)" width="500" height="177"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-28.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-28.jpeg" alt="link (28)" width="500" height="542"></a></p>
-<p>这样的场景我们在电影《窃听风暴》或者昆德拉《生命中不能承受之轻》、奥威尔《1984》等作品中不止一次地看到，当时秘密警察遍布的布拉格乃至整个苏东集团可谓人心惶惶。</p>
-<p>关于秘密警察，且看一下昆德拉老师是怎么解释的：秘密警察有几种职能，第一种是旧式的，他们只是听听人们说些什么，向上司汇报。第二种职能就是威吓人。他们要人们明白我们都在他们的股掌之中，要让我们害怕。第三种职能就是不断制造假象，陷害、栽赃来损害我们的名声。他们需要不断设陷阱，强迫人们与他们合作，给另一些人设陷阱。这样，他们就能慢慢把整个民族变成一个纯粹的告密者组织。</p>
-<p>这次“秘密警察镜头中的布拉格”所展出的监视照片拍摄于上世纪的70、80年代，说起来它不过是整个秘密警察活动的一个极小部分，运用的也只是上述第一种最基础的职能。然而，这也是秘密警察们的工作首次堂而皇之暴露在民众的视线中，惯常的逻辑第一次被颠覆。透过监视者们的视角，这座灰色的、没有生气的城市，仿佛每一个角落都隐藏着无穷的罪恶和被掀开的欲望。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-31.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-31.jpeg" alt="link (31)" width="500" height="231"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-32.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-32.jpeg" alt="link (32)" width="500" height="361"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-33.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-33.jpeg" alt="link (33)" width="500" height="450"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-34.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-34.jpeg" alt="link (34)" width="500" height="334"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-35.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-35.jpeg" alt="link (35)" width="500" height="268"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-37.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-37.jpeg" alt="link (37)" width="500" height="272"></a></p>
-<p>我无法得知当那些在前东欧生活过的人们从这些照片中发现自己的生活时，会是一种什么样的心情。他们很感到惊奇吗？或者只是很蛋定地、带着某种“老子当时就知道周围尽是这些龟孙”的神情重新审视那个希望和恐惧交织的年代：那个在路上和熟人打招呼、推车去超市购物、上班途中或者去公园游玩的年轻的自己；而在周围某些看不见的角落，一只只像空气或影子一样看不见的手，正在一次次按下快门。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-40.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-40.jpeg" alt="link (40)" width="500" height="299"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-41.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-41.jpeg" alt="link (41)" width="500" height="334"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-42.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-42.jpeg" alt="link (42)" width="400" height="268"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-43.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-43.jpeg" alt="link (43)" width="500" height="334"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-44.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-44.jpeg" alt="link (44)" width="500" height="281"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-45.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-45.jpeg" alt="link (45)" width="235" height="214"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-46.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-46.jpeg" alt="link (46)" width="500" height="298"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-47.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-47.jpeg" alt="link (47)" width="500" height="271"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-48.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-48.jpeg" alt="link (48)" width="500" height="214"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-49.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-49.jpeg" alt="link (49)" width="500" height="337"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-52.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-52.jpeg" alt="link (52)" width="500" height="528"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-53.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-53.jpeg" alt="link (53)" width="500" height="554"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-54.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-54.jpeg" alt="link (54)" width="500" height="345"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-56.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-56.jpeg" alt="link (56)" width="500" height="259"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/link-57.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/link-57.jpeg" alt="link (57)" width="500" height="521"></a></p>
-<p>同样的，我也无法得知，当这些照片的拍摄者多年之后再一次面对自己“作品”的时候，会怎样审视自己当年的这份工作，是否也能感受到其中的可笑和荒谬？</p>
-<p>“洪水越向四周扩大水就越浅，越浑。革命蒸发了，只留下新官僚体制的泥浆。束缚人类使其受苦的镣铐是办公纸做的。”生活在布拉格的作家卡夫卡如是说。我想，对于生活在那个年代的捷克民众而言，这副束缚他们“使其受苦的镣铐”大概不仅仅是办公纸做的，其中还有无数双监视者的眼睛以及他们正在按动快门的手。</p>
-<p>卡夫卡另外还说过这么一句话——“我们清醒地穿过梦境：我们自己只不过是过去岁月的一个幽灵。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8D%89%E8%89%B2%E8%BF%9E%E4%BA%91-%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F%E9%95%9C%E5%A4%B4%E4%B8%AD%E7%9A%84%E5%B8%83%E6%8B%89%E6%A0%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%83%E6%8B%89%E6%A0%BC%E4%B9%8B%E6%98%A5/?category=18271" rel="tag">布拉格之春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%91%84%E5%BD%B1%E5%B1%95/?category=18271" rel="tag">摄影展</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">秘密警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">间谍</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -815,7 +780,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%83%E6%8B%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -825,5 +790,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%83%E6%8B%89
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

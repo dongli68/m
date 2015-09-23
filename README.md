@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B2%A1%E6%9C%89%E7%BA%B8%E7%89%8C%E5%B1%8B-%E5%8F%AA%E6%9C%89%E7%94%84%E5%AC%9B%E4%BC%A0/" target="cdt-mirror">【网络民议】没有纸牌屋 只有甄嬛传</a>
+</h2>
+<p><p>习近平：中国反腐没有权力斗争 没有“纸牌屋”</p>
+<p><strong>核心提示：</strong>22日习近平在西雅图出席欢迎晚宴。他指出：我们大力查处腐败案件，坚持老虎苍蝇一起打，是要顺应人民要求。其中没有什么权力斗争，没有什么“纸牌屋”。愿同国际社会积极开展反腐追逃合作，让腐败分子在海外永无“避罪天堂”。</p>
+<blockquote><p>中国继续推进反腐败斗争。我说过，打铁还需自身硬。这里说的打铁的人，就是中国共产党。中国共产党的根本宗旨是全心全意为人民服务。中国共产党有8700多万名党员，党内也必然存在这样那样的问题。如果我们不能解决存在的问题，任其发展下去，人民就不会信任和支持我们。所以，我们强调治国必先治党、治党务必从严。一段时间以来，我们大力查处腐败案件，坚持“老虎”、“苍蝇”一起打，就是要顺应人民要求。这其中没有什么权力斗争，没有什么“纸牌屋”。中国愿同国际社会积极开展反腐追逃合作。中国人民希望在这方面得到美国支持和配合，让腐败分子在海外永无“避罪天堂”。</p></blockquote>
+<p>全文<a href="http://dailynews.sina.com/gb/chn/chnpolitics/phoenixtv/20150922/22446929468.html" target="_blank">内容</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CPkDpKuUAAAyXVA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CPkDpKuUAAAyXVA.jpg" alt="习近平：中国反腐没有“纸牌屋”" width="599" height="409"></a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>letscorp：习近平访美首站西雅图，刚刚参加欢迎晚宴时演讲称，中国的反腐不是政治斗争，没有“纸牌屋”。 #纸牌屋和你国政斗大戏比起来只能算是家庭伦理剧。</p>
+<p>9527_小马哥：中国没有纸牌屋，只有甄嬛传。</p>
+<p>肖锋：中国没有纸牌屋，只有四世同堂。</p>
+<p>郑维：美国人一贯着眼于外交的实质成果，中国人则注重象征意义多于一切，把外交高峰会作为提升在国内合法性和领导人在国内的个人形象的机会。所以，问题来了：老板在美国讲反腐没有纸牌屋，要求美国配合反腐追逃的时候，求台下陪坐的衮衮诸公内心的阴影面积。</p>
+<p>fallensin：习说没有纸牌屋，我是同意的，因为咱的剧情精彩多了。酱油瓶，法拉利，一场奋不顾身的爱情，一场说走就走的旅行，谁比得上？</p>
+<p>catsinrain：习近平：中国的反腐没有权力斗争，没有“纸牌屋” // 谁说刁大犬不懂幽默的？高阶多层次魔幻现实主义后现代荒诞黑色幽默信手拈来呀</p>
+<p>madao_chris：“一段时间以来我们坚持老虎苍蝇一起打，是及时顺应人民的要求，其中没有什么权力斗争、没有什么纸牌屋。”说到这里，现场对习近平抱以笑声和掌声。——所以，大大是怎么看的美剧？</p>
+<p>Y先生的眼：真的没有“纸牌屋”？成天被硬拉作各种背书，又不能大吼一声震破屋子，这到底算什么屋？</p>
+<p>小津DAIJIN ：木有纸牌屋，只有麻将馆。</p>
+<p>11号地铁南：政治有纸牌屋也很正常，只要有利于清除腐败恢复社会秩序，有利于国家利益和人民福祉，就要坚决的斗争。</p>
+<p>mmjiushimm：还纸牌屋，真好意思往自己脸上贴金。</p>
+<p>杭州老丁丁：就鸡毛国这样的体制，有资格有纸牌屋吗？烤！</p>
+<p>阿瑞摄影：纸牌屋 ：House of cards是一个固定习语，字面意思是“用纸牌砌成的房子”，含脆弱，一击即破之意。也有人指出，美国众议院叫做House of Representatives，而House ofcards(纸牌屋)里的House即是指国会，指代整个美国政坛；其次，Cards本义牌技，政客们的手腕正如“列王纷争、权力游戏”。</p>
+<p>燕归空：这盛世，如你所愿。</p>
+<p>AMIN-A：Are you sure？自己都笑了吧</p>
+<p>不告诉你：我给大家讲个笑话：</p>
+<p>文山娃：中國沒有權力爭鬥的紙牌屋，但有送你駕鶴西去的醬油壺。</p>
+<p>rocketsdavid：还去国外普及太平盛世？</p>
+<p>Robert见贤思齐：说完以后笑了。</p>
+<p>汉娜之眼：习大大的演讲稿里提到我们没有什么纸牌屋，可是我们有生活大爆炸啊！</p>
+<p>事袅拂衣去：纸牌屋没有，恐怕是黄金屋！</p>
+<p>太阳炒土豆丝：习特勒家有多少财产啊，公布一下呗。</p>
+<p>黄金峰：我觉得中国这些事儿拍个纸牌屋比美国的精彩一万倍。</p>
+<p>Shinoowriter：还有政治规矩的帮规呢。</p>
+<p>ByhpJerry：中共的权斗岂是纸牌屋能形容的？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B2%A1%E6%9C%89%E7%BA%B8%E7%89%8C%E5%B1%8B-%E5%8F%AA%E6%9C%89%E7%94%84%E5%AC%9B%E4%BC%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B8%E7%89%8C%E5%B1%8B/?category=18271" rel="tag">纸牌屋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E6%AC%BA%E9%AA%97%E4%B8%AD/" target="cdt-mirror">【异闻观止】环球时报：共产主义理想没有欺骗中国</a>
 </h2>
 <p><p>“共产主义”近来成了舆论场的热词。一些报章响应党的正式论述，发表了关于为共产主义长远目标奋斗的文章。网上有些大V则对“共产主义的说教”冷嘲热讽，有的甚至宣称自己被共产主义口号“骗了十几年”。这样的争论在中国社会泛起，并不在意料之外。</p>
@@ -812,25 +853,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%96%B0%E5%8D%8E%E6%97%B6%E8%AF%84%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%9B%BD%E6%9C%89/" target="cdt-mirror">【真理部】新华时评：理直气壮做强做优做大国有企业</a>
-</h2>
-<p><p>《新华时评：理直气壮做强做优做大国有企业》一文请勿炒作，不准在擅自转载时将其更改为“必须旗帜鲜明反对各种私有化”等耸动视听的标题。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<p>附：新华时评：理直气壮做强做优做大国有企业 </p>
-<p>新华网北京９月１５日电（记者 华晔迪）中共中央、国务院近日印发《关于深化国有企业改革的指导意见》。作为新时期指导和推进国有企业改革的纲领性文件，《指导意见》明确提出要坚持和完善基本经济制度，做强做优做大国有企业，为促进经济社会持续健康发展、实现中华民族伟大复兴中国梦作出积极贡献。</p>
-<p>　　基本经济制度是中国特色社会主义制度的重要支柱，也是社会主义市场经济体制的根基。坚持和完善基本经济制度，发展壮大国有经济，是中央一贯方针，是国家的坚强意志，必须坚决贯彻，不能有丝毫含糊和动摇。习近平总书记多次强调，要坚定不移把国企做强做优做大，不断增强国有经济活力、控制力、影响力、抗风险能力，这既是对国有企业改革发展成绩的充分肯定，又是对进一步搞好国有企业提出的新的更高要求。</p>
-<p>　　国有企业是国有经济的核心载体，是实现国有经济功能的重要支撑。没有国有企业，就没有国有经济，就没有我国现代化建设取得的重大成就，就没有中国特色社会主义制度，就没有人民的共同富裕。对于我们这样一个发展中的大国来讲，没有强大的国有企业，就没有强大的国有经济，推进“四个全面”战略布局、实现“两个一百年”奋斗目标和中华民族伟大复兴中国梦就失去了深厚根基和有力支撑。</p>
-<p>　　因此，改革决不能把国有企业改没了、改垮了，而是要更好体现和坚持公有制主体地位，发挥国有经济的主导作用。当前，必须增强做强做优做大国有企业的思想自觉、行动自觉，必须要把思想和行动高度统一到中央精神和要求上来，旗帜鲜明地反对各种私有化、“去国有企业”等错误观点，坚持和完善基本经济制度，努力做强做优做大国有企业。</p>
-<p>　　把国有企业做强，就是要让国有企业成为市场竞争的强者，集中表现为企业的自主创新能力强、资源配置能力强、市场开拓能力强、风险管控能力强；把国有企业做优，就是要让国有企业成为经营管理的佼佼者，集中表现为企业的公司治理优、内部控制优、品牌形象优、经营业绩优；把国有企业做大，就是要让国有企业成为行业发展的领跑者，集中表现为国有企业在保证必要的规模、体量和比重的同时，要有大战略、大思维，以市场为导向，推进企业并购重组，推进优势资产资源集中集聚，努力实现大市场、大资源、大联合、大配置，努力把国有企业打造成具有国际竞争力、影响力的“国之栋梁”。</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%96%B0%E5%8D%8E%E6%97%B6%E8%AF%84%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%9B%BD%E6%9C%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -842,7 +864,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -852,5 +874,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

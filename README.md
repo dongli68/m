@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E4%B8%8D%E6%98%AF%E7%BA%B8%E7%89%8C%E5%B1%8B/" target="cdt-mirror">德国之声 | 习近平：中国反腐不是“纸牌屋”</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/018731153_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018731153_30300.jpg" alt="习近平在西雅图的晚宴上强调：没有什么纸牌屋" width="600" height="338"></a><p>习近平在西雅图的晚宴上强调：没有什么纸牌屋</p></div>
+<p><strong>周二开始访美之行的中国国家主席习近平在西雅图再次呼吁美国对中国的海外反腐行动提供支持。同时他强调中国也是黑客袭击的受害者，并许诺进一步开放和改革中国经济。</strong></p>
+<p>（德国之声中文网）据路透社报道，周二，刚刚开始其对美国的首次国事访问的习近平强调，中国打击贪污腐败的行动不是像美剧《纸牌屋》那样的权力争斗。</p>
+<p>习近平此前警告，腐败可能会威胁到执政党共产党的生存。在他发起反腐运动的这三年里，大批党内、政府、军队和国企的高层官员落马。</p>
+<p>对于这一局面，不管在中国国内还是在国际上，都不断有人猜测，这场反腐运动更像是习近平清除异己的手段，而非真正的对党内干部队伍进行清洗。</p>
+<p><b>“打老虎”不是上演《纸牌屋》</b></p>
+<p>周二抵达美国西海岸大都市西雅图之后，习近平在出席当地举办的欢迎晚宴时说：”一段时间以来我们坚持老虎苍蝇一起打，是及时顺应人民的要求，其中没有什么权力斗争、没有什么纸牌屋。”此语一出，现场宾客报以笑声。</p>
+<p>美国人改编翻拍自英国原作的政治题材电视剧《纸牌屋》（House of Cards）在中国颇受欢迎，不少人通过非法下载和盗版DVD观看。</p>
+<p>“如果我们不解决目前存在的问题，那么人民既不会信任我们，也不会支持我们”，习近平在讲话中强调，”所以要想治国，先要治党；对党的治理也要严格。”</p>
+<p>中国当局曾经多次要求美国对其”猎狐”行动提供支持，包括将逃亡美国的中国贪污分子遣返回国，中方也多次抱怨其反腐行动因为西方国家拒绝与华签署引渡条约而受到阻碍。</p>
+<p>中国和美国、加拿大没有签署引渡条约。对于中国经济犯罪嫌疑人来说，这两个国家是他们潜逃的最受欢迎目的地。</p>
+<p>习近平于周二开始其为期近一周的美国访问之旅。他此次出访的第一站是西岸的西雅图，并在那里出席一系列商界活动；周四，这位中国领导人才前往华盛顿，并于周五出席美国总统奥巴马在白宫为他准备的国宴。之后他还将在周六前往纽约，并于下周一在联合国成立70周年峰会上发表讲话。</p>
+<p>据分析人士猜测，习近平与奥巴马之间的会谈可能会提及要求美国协助中国反腐”猎狐”行动。周二，他在西雅图表示：”中国人民希望，在这个问题上我们能够得到美国的支持和协调，让贪污腐败分子在海外也没有藏身之地。”</p>
+<p>中国不能保证从美国引渡的嫌疑人的安全一直都是引起双方不快的问题。美国方面强调，并不反对与中国在这个领域合作，但是中国常常不能提供足够的犯罪证据，以满足美国法律所要求的引渡标准。</p>
+<p><b>人权等敏感话题</b></p>
+<p>另据报道，周二早些时候，大约有100人聚集在西雅图市中心，抗议中国对人权的侵害。这应该是习近平访美期间可能会举行的一系列示威活动中的第一个。</p>
+<p>美联社周三分析称，尽管美国方面已经警告，北京当局对中国人权活动人士采取的严厉打压行动可能会给习近平此次高调的访美之行蒙上阴影，但是在周五的白宫”奥习”会谈中，人权议题可能不会成为两位国家元首讨论的主要议题。</p>
+<p>在这场高调的美中高峰对话开始之前，10名美国参议员对于习近平领导的中国当局对公民社会的”极度暴力侵犯”表示担忧。</p>
+<p>面对另一个引起两国摩擦的话题–黑客袭击，习近平周二在西雅图强调，中国也是数字攻击的受害者。”中国政府不会以任何的形式去参与经济间谍行为，或者去鼓励或支持任何人的这种企图。”</p>
+<p>习近平还强调，中国经济目前正在快速发展的道路上继续前进，北京将致力于推进金融改革，进一步开放中国经济。他在第三届中美省州长论坛上表示，在开放经济的进程中，中国不会走回头路。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E4%B8%8D%E6%98%AF%E7%BA%B8%E7%89%8C%E5%B1%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B8%E7%89%8C%E5%B1%8B/?category=18271" rel="tag">纸牌屋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B2%A1%E6%9C%89%E7%BA%B8%E7%89%8C%E5%B1%8B-%E5%8F%AA%E6%9C%89%E7%94%84%E5%AC%9B%E4%BC%A0/" target="cdt-mirror">【网络民议】没有纸牌屋 只有甄嬛传</a>
 </h2>
 <p><p>习近平：中国反腐没有权力斗争 没有“纸牌屋”</p>
@@ -156,7 +186,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/nhk/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C%E9%83%AD%E5%A4%A7%E7%9C%BC%EF%BC%9A%E8%B1%AA%E6%97%8F%E6%88%90%E3%80%8C%E6%94%B9%E9%9D%A9%E9%98%BB%E5%8A%9B%E3%80%8D%E7%BC%BA%E6%B3%95%E6%B2%BB%E5%95%86%E4%BA%BA%E6%92%A4/" target="cdt-mirror">东网｜郭大眼：豪族成「改革阻力」缺法治商人撤離</a>
 </h2>
@@ -839,20 +869,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8A%9E%E5%85%AC%E5%8E%85%EF%BC%9A%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9%E4%B8%AD%E5%85%9A%E7%9A%84%E9%A2%86/" target="cdt-mirror">【异闻观止】国企改革中党的领导只能加强不能削弱</a>
-</h2>
-<p><p>新华网北京9月20日电 近日，中共中央办公厅印发了《关于在深化国有企业改革中坚持党的领导加强党的建设的若干意见》（以下简称《若干意见》），对在深化国有企业改革中坚持党的领导、加强党的建设提出要求、作出部署。</p>
-<p>坚持党的领导，是中国特色社会主义最本质的特征，也是国有企业的独特优势。在协调推进“四个全面”战略布局的伟大进程中，必须毫不动摇坚持党对国有企业的领导，毫不动摇加强国有企业党的建设。出台《若干意见》，对于加强国有企业党的建设，保证国有企业改革发展的社会主义方向，提升国有企业的制度优势和竞争优势，促进国有企业做强做优做大，具有十分重要的战略意义和现实意义。</p>
-<p>《若干意见》指出，坚持党的建设与国有企业改革同步谋划，充分发挥党组领导核心作用、党委政治核心作用、基层党组织战斗堡垒作用和党员先锋模范作用；坚持党管干部原则，从严选拔国有企业领导人员，建立适应现代企业制度要求和市场竞争需要的选人用人机制；严格落实国有企业党建工作责任制，切实履行党风廉政建设主体责任和监督责任；把加强党的领导和完善公司治理统一起来，明确国有企业党组织在公司法人治理结构中的法定地位；坚持从严教育管理国有企业领导人员，强化对国有企业领导人员特别是主要领导履职行权的监督；适应国有资本授权经营体制改革需要，加强对国有资本投资、运营公司的领导；把建立党的组织、开展党的工作，作为国有企业推进混合所有制改革的必要前提。</p>
-<p>当前，国有企业改革正处于攻坚期和深水区，党的领导只能加强，不能削弱。《若干意见》强调，各地区各有关部门党委（党组）和各国有企业党组（党委）要切实加强对国有企业党建工作的领导和指导，不断完善党委（党组）抓、书记抓、各有关部门抓，一级抓一级、层层抓落实的党建工作格局，确保党的领导、党的建设在国有企业改革中得到充分体现和切实加强。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8A%9E%E5%85%AC%E5%8E%85%EF%BC%9A%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9%E4%B8%AD%E5%85%9A%E7%9A%84%E9%A2%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">党的领导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">党组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">国有企业</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -864,7 +880,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -874,5 +890,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

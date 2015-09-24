@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E9%95%BF%E5%B9%B3%EF%BC%9A%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%85%B1-%E7%BB%A5%E9%9D%96%E5%AE%B3%E4%BA%BA%E5%AE%B3%E5%B7%B1/" target="cdt-mirror">苹果日报 | 长平：面对中共 绥靖害人害己</a>
+</h2>
+<p><p>有位美国资深记者在 Twitter 这样描述习近平访美：一位诺贝尔和平奖获得者，正在招待监禁另一位诺贝尔和平奖获得者的国家领导人。不仅如此，这位获奖人可能还得装着甚麽都没有发生，和这位监禁者畅谈友谊。</p>
+<p>在习近平访美的过程中，虚伪的场景远远不止这一幕。在访问首日的演讲中，习近平声称「愿意和美国就打击网络犯罪建立高水准的联合对话机制」。在场的大多是中美商界精英，一个比一个聪明，难道他们不明白，中国政府就是世界上最大的网络犯罪者？该政权公开组织的网络防火长城（ GFW ）、对异议人士电脑的攻击和大量的网络五毛党，难道不是应该打击的犯罪？</p>
+<p>这类「皇帝的新衣」似的伪术还体现在中国使领馆组织的欢迎习近平访美的策略上。中国使领馆给美国留学生组织等下发文件，详细布置「热烈欢迎」的任务，包括标语、照片和服装，以及如何阻止抗议者。不仅如此，他们还派遣大批人员以「清华大学校友」等名义，在习近平车队并不经过的地方「夹道欢迎」，误导法轮功等抗议者。参与者得意洋洋地在社交媒体上宣称，「以声东击西的策略」，「光荣地完成了领馆／组织交给的任务」，让习近平的车队「从一条安静的小路安全离开机场」。为了躲避抗议者，竟然在美国打起了游击战——这个偷偷摸摸从机场溜走的人，真的是白宫将要款待的贵宾吗？</p>
+<p>习比前几任领导人更强硬</p>
+<p>习近平上台以来，不仅社会矛盾蜂起，当局以空前未有的强硬手段维稳，而且一直被宣传为中共执政合法性的经济指标，也亮起了红灯。自以为无所不能的中共集团，派出公安部副部长带队维稳股市。然而，股市毫不留情地对「枪杆子里出证券」的做法进行了戏弄和报复。它比俯首听命呈现 APEC 蓝、阅兵蓝的天空还难以驯服，并没有出现中共高层期待的阅兵市和访美市，而是照样大幅下跌。然而，找到「三个自信（道路自信、理论自信、制度自信）」的习近平似乎不再需要「经济自信」，比前几任领导人都更加鄙视市场经济，重拾「实现共产主义」牙慧，也比前几任领导人都更加强硬地对待曾被视作必须学习的市场经济鼻祖西方民主国家。</p>
+<p>《纽约时报》引述专家分析称，不同於前两任领导人的被动守成，习近平「表现得更愿意与外界产生摩擦」，「似乎对达成协定相对不那麽感兴趣」。中国外交部长王毅在习近平访美前夕发表的讲话，意在预告习近平在中美关系中一些重要议题上的立场，「他的语气听起来有些挑衅」。</p>
+<p>毫无疑问，西方民主国家在传播民主自由理念、声援独裁国家的抗议运动以及庇护政治受难者等方面，承担了一些人类文明基本的政治责任。然而，面对一个治国无能而态度强硬的独裁领导人，西方政客们再一次表现出软弱无能。聪明的奥巴马总统总能在不需要勇气和担当的一些议题上，表现出超前的勇气和担当。而在直接影响世界政治和经济格局、最需要白宫明确表达态度的中国领导人来访之际，白宫外面的传统抗议地点拉法耶特广场是否开放，竟然会成为话题。</p>
+<p>据深受中共迫害的人权律师高智晟的妻子耿和披露，就在习近平访美当日，高智晟发信劝阻她赴华盛顿会见美国副国务卿。高智晟在信中说：「在那貌似文明的举觥相庆中，人类正义、人类尊严及良知都有了具体的卖价。反人类罪犯们愈发昂首挺肚，早忘了他们脸上永不能褪去的血污，成为事实帮凶的那群政客们为此搭上的则是人本当有的良知与廉耻。」信中言辞之激烈，有人怀疑其真实性。但是高先生几年前就曾痛斥过西方政客对中国政府迫害人权人士的冷漠。</p>
+<p>人权要靠自己争取。要求西方政客更加强硬地对待中共，似乎有些不合情理。然而，历史教训一再告诉人们，人类是一个不可分割的整体，邪恶想要吞噬的是全人类的良知。西方政客不仅需要帮助中国人，更需要面对自己的良知，帮助自己国家的人民免受独裁政权侵蚀。不要问丧钟为谁而鸣，绥靖政策最终害人害己。</p>
+<p>长平 《南都周刊》前主笔</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E9%95%BF%E5%B9%B3%EF%BC%9A%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%85%B1-%E7%BB%A5%E9%9D%96%E5%AE%B3%E4%BA%BA%E5%AE%B3%E5%B7%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%B4%A3%E4%BB%BB/?category=18271" rel="tag">政治责任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">自由民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/k%E5%8D%9A%EF%BC%9A%E5%85%83%E9%A6%96%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90/" target="cdt-mirror">K博：元首的政治心理分析</a>
+</h2>
+<p><p>(按，此文系两年前旧文，一篇书评，不过，以书评代时评，也算个人的一大发明)</p>
+<p>当碌碌无为的一代技术官僚退出，闪耀着光环的政客们登上政治舞台，一年之后，做出了一些象征性让步，其余的都被锁死，我们知道，对这样的体制做任何有关民主转型、或者政党宪政的分析都无异与虎谋皮，还是谈谈首脑们的政治心理或者政治性格吧。</p>
+<p>就像中国政治学界现在的主流研究之一是做治理或者协商，他们总觉得无论民主或非民主、转型前或后，总是需要治理的、总是要协商的；当威权体制开始固化，总统制俨然成形，那么，从西方对政客特别是总统的政治心理学研究来观察中国政治，便再顺理成章不过了，也是剩下几乎唯一有趣的问题。</p>
+<p>以富兰克林·罗斯福为例，这位美国20世纪最伟大的总统，他能够充分利用广播和收音机的传播效果，以娓娓道来的“炉边谈话”，给处在大萧条的美国社会注入了温馨的暖意；也能发挥他的高超平衡技巧，没有规划、近乎随意却行云流水地领导了“百日新政”的立法工作。但是，由于成长期深受母亲严格管理的影响，形成了感性思维强而抽象思维弱的性格，也就是情商较高，常常凭着直觉而不是分析决定问题，缺乏政治原则的把握，缺乏政治远见，常常在大杂烩一般的政策箩筐里充斥原则性相互矛盾问题而毫无识别能力，尽管这样做也被誉为善于平衡，尽管他在关键时期决定了新政和开战这两件历史性的决定。</p>
+<p>类似的美国总统不乏其人，比尔·克林顿算一个，巴拉克·奥巴马也算，他们都在单亲家庭长大，受母亲或者女性的性格影响远远大于父亲，以至于到克林顿的性丑闻事件，这种性格养成所特有的“选择性撒谎”或者“选择性坦白”表现得尤为突出。显然，这种基于母系影响的政治心理分析能够解释克林顿在任期间本应取得更高成就却没有，也能解释奥巴马如何因为从小不属于白人和黑人两个群体产生的认同障碍演变为他毕生鲜明的政治平衡风格。奥巴马1995年出版了《父亲的梦想》一书，把自己的社会工作和政治理想巧妙地从缺失父爱投射到种族政治，赢得了美国公众的注意。他在法学院求学期间，就微妙地与两个对立学术派别保持距离，才获得了《哈佛法律评论》第一位黑人主编的位置，即使在他执教芝加哥大学法学院期间，他也一开始就与追求终身教职的学术生涯有意保持着距离，继续他的社运工作。成为美国总统后，这种包容多元的风格更为明显，他在外交领域更善于运用灵活、平衡的“巧实力”，而非金刀快马硬上弓。</p>
+<p>有趣的是，中国的新领袖似乎也有许多相似之处，与奥巴马一样都从基层做起，有着强烈的改革情怀，同时具备高超的政治平衡技巧。最为关键的，他在成长期同样忍受着父爱的缺失，毕生都在严厉母亲的阴影下，而毛主席几乎成为一代红卫兵心目中的父亲。所以，我们可以推定在他内心浓厚的毛主义情结，对他身为“红二代”而产生的强烈使命感，都在驱动当下的“红卫兵”内阁以如何巩固和加强共产主义政权为首要任务，有着相对保守技术官僚而言更为强烈的改革欲望。同时，母系因素以及作为“工农兵学员”对抽象思维训练的缺陷，可能导致他的认知与情感障碍，从不理解甚至害怕“大词”和“公众”发展到执政路线的大幅变化：一方面难以察觉一揽子政策，比如六十条的新自由主义市场化，作为一种经济让步与政治压缩即经右政左之间的潜在紧张；另一方面，更习惯于小圈子政治，害怕来自公众甚至对立面的潜在挑战与威胁，其结果之一便是因为乐于红二代内部的交往，而不是僵硬的制度化的集体领导体制，竟然可能因此革命性地建立了某种意义的“安全小内阁”。</p>
+<p>当然，政治心理不只是关于政客的政治性格，还包括如何对待或者引导公众的问题，这也是民主政治围绕党派竞选的关键，即领袖和党派如何影响、操纵公众的心理。按照美国政治心理学家韦斯特的解释，美国共和党和民主党俨然分别是一个长期打情感牌、联结大资本和民粹公众，另一个则是重视理性、数据和事实的中产阶级政党。里根和小布什是共和党中善于与公众交流、竞选中成功进行情感诉求的行家，而民主党的戈尔则属天然呆，只会谈数据和路线。</p>
+<p>毕竟，有关研究一再证实，在面对意识形态、价值观、候选人形象等选项，大多数选民往往最后才考虑跟自身利益相关的问题，而情感作为一种价值判断的快捷机制，在政治中发挥着可能是最为重要的作用。对民主的选举政治如此，对我研究的社会运动也如此，对一个被动转型的非民主体制来说，情感可能同样是公众最容易被操纵和说服的机制。那么，以家国、孝悌、祥和、满足为主题的中国梦，比如，便不失为一种消解他们拥有的愤怒作为唯一的反抗手段的终极方案。反正，即使知识分子或者意识形态部门提出什么新旧理论或者概念，大概都很难被新领导人所理解，远不如“梦”这样的通俗易懂，容易联结起人民和领袖，无论是新一代不知道“爸爸去哪儿”、在过度情感浇灌下成长起来的一代青年，还是“红太阳”照耀下的上一代红卫兵们。他们之间似乎更乐于使用鞑靼人的“大大”相互称呼。</p>
+<p>简言之，政治心理学是一个更为科学、普遍的研究方法，既是有关领袖性格和执政路线的，也是有关大众心理和政治传播的。在其他分析工具阙如、政治竞争实践滞后的情况下，传统的揣摩上意和小道消息的政治算命方式或许可以休矣，标志着一个政治心理时代的到来。</p>
+<p>作者系自由撰稿人，欢迎打赏，金额随意。叩谢！</p>
+<p><img src="https://dn-zine-media.qbox.me/f_attachments/article/14923/4114923/2015-09-24-13-34-40sml.jpg" alt=""></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/k%E5%8D%9A%EF%BC%9A%E5%85%83%E9%A6%96%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">中国政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%83%E9%A6%96/?category=18271" rel="tag">元首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A/?category=18271" rel="tag">官僚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%80%E6%9C%AF%E5%AE%98%E5%83%9A/?category=18271" rel="tag">技术官僚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">民主政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96/?category=18271" rel="tag">领袖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88%E4%BC%9A%E8%A7%81%E5%B1%A0%E5%A4%AB%E6%97%A0%E6%9E%9C%EF%BC%8C%E6%89%B9%E6%8D%95%E5%90%8E%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%90%91/" target="cdt-mirror">博讯｜李方平律师会见屠夫无果，批捕后转移去向不明</a>
 </h2>
 <p><p>博讯报道（9月22日）李方平律师今天到福建省永泰县看守所要求会见屠夫吴淦无果，后经驻所检察官初步核实吴淦被以煽动颠覆国家政权罪批捕不久后就已被带走，但去向不明。以下是李方平律师所记录：9月22日要求会见屠夫吴淦小记 </p>
@@ -95,7 +138,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E6%8A%97%E4%BA%89/?category=18271" rel="tag">民间抗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%A0%B9%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">草根维权</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">【立此存照】任志强：“我们是共产主义接班人？”</a>
 </h2>
@@ -727,50 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E9%AB%98%E6%89%AC%E5%85%B1%E4%BA%A7%E4%B8%BB/" target="cdt-mirror">【异闻观止】中国青年报：理直气壮地高扬共产主义伟大旗帜</a>
-</h2>
-<p><p>作者：王向明，中国人民大学马克思主义学院教授，全国马克思主义理论研究与建设工程课题组主要成员，中国青年网络智库成员，博士生导师。</p>
-<p>党的十八大以来，习近平总书记在他的系列重要讲话中，一再强调必须坚定共产党人的理想信念，树立共产主义远大理想。今年9月7日《学习时报》全文发表了习近平同志在与中央党校第一期县委书记研修班学员座谈时的讲话，他强调，不能认为共产主义虚无缥缈，我们发展中国特色社会主义就是要朝着共产主义的方向努力。习近平讲话的本意，是重申中国特色社会主义的共产主义方向，要求广大共产党员确立共产主义信仰。作为党的总书记，习近平的这个讲话，完全是从党的基本性质和宗旨出发的，更充分体现了他作为党的领袖高度的政治担当和政治自觉。</p>
-<p>但近期在网络上，却出现了一些很不协调的声音，一些人肆意地攻击和歪曲习近平总书记关于共产主义的一系列论述。说什么这是“向‘左’转”、是要再刮“共产风”、“向后退”、“说空话”，等等。这些说法，如果不是恶意的诋毁，就只能是浅薄幼稚的无知了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/igP7-fxhytwp5470874.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/igP7-fxhytwp5470874.jpg" alt="igP7-fxhytwp5470874" width="358" height="496"></a></p>
-<p><strong>事实上，“共产党”这个名字本身就是一面鲜明的旗帜，它向世人公开地宣示了共产主义的理想。</strong>1848年，欧洲第一个无产阶级革命政党——欧洲共产主义者同盟召开第一次代表大会。受大会委托，由马克思和恩格斯为大会起草了后来被列宁称之为“全世界第一个无产阶级政党的周详而完备的党纲”——《共产党宣言》， 也由此宣告了马克思主义的诞生。当时，《共产党宣言》是以英文版面世的。“Communist Party”成为了党的庄严名称，直译过来，就是“共产主义的政党”。以这个名称来命名，就是要让每一个志愿加入这一组织的成员时刻牢记：共产主义是我们的信仰！</p>
-<p>但需要特别指出的是，共产主义理想，绝不是马克思或恩格斯拍拍脑袋提出的主观臆想。共产主义的理念和实践，一定意义上可以说是古已有之。恩格斯曾经说过一段意味深长的话：“共产主义不是学说，而是运动。它不是从原则出发，而是从事实出发。”值得我们认真思考和领会。这段话的关键，就是要理解共产主义为什么是“事实”和“运动”。</p>
-<p>第一个存在的事实，就是共产主义作为一种价值追求，实际上是古已有之。在人类文明的发展进程中，一直存在着两种根本对立的价值观，一种是“只要当下荣华富贵，哪管身后洪水滔天”那样极为自私的价值观。不能不说，今天那些反对共产主义的人，大体也是这种价值观的拥趸者。而与之完全不同的是追求“天下大同”、“先天下人之忧而忧，后天下人之乐而乐”的价值观。</p>
-<p>马克思后来把这种心系天下的价值追求概括为“为人类的福利而劳动”。毛泽东同志则以中国人更易理解、更深入人心的语言——“为人民服务”为共产主义价值观作了最精辟的概括。这样说来，共产主义丝毫不是什么虚无缥缈的东西，只要存在着为人民服务的价值追求，只要存在着为人民服务的伟大事业，共产主义就是一个客观存在的事实。每一个共产党员只要心存为人民服务的信念，能够立足岗位投身到为人民服务的事业中，你就是在为共产主义奋斗。相反，某些党员干部正是因为背弃了共产主义理想和价值追求，转而信奉个人主义、新自由主义等，结果在政治上迷失了方向、在立场上混淆了是非、在道德上失去了底线，最终出了大问题。所以说，“理想信念是共产党人精神上的钙”。</p>
-<p>第二个存在的事实，就是共产主义理想所概括的生产力的极大发展，社会创造物质财富的源泉充分涌流；社会的文明程度极大提高；每一个人获得自由而全面发展这三大预设条件，不仅是我们对未来理想社会的追求，仔细考量，难道不也是几千年来人类一直在追求、一直在努力的客观实践吗？问不同的人信不信共产主义，答案可能大不相同，若问想不想发财，答案却可能高度统一。殊不知，“发财”也是共产主义的题中之义。我们党的基本路线把发展生产力、不断提高和改善人民生活水平作为社会主义的根本任务，就是按照共产主义的基本理论进行的实践，就是为共产主义创造物质基础。当然，这里的“发财”必须和共产主义的价值观联系起来，用邓小平的话说就是“共同富裕”。</p>
-<p>我们并不否认，人类要完全达到共产主义社会所规定的程度，确实是一个相当长的历史过程。但只要人类朝着发展生产力、推动文明进步和人的全面发展的方向不懈努力，总有一天我们能够到达理想的彼岸。更重要的是，实现共产主义作为一个历史的过程，在每一个历史时期都有其特定的现实的历史任务，并根据具体的历史条件实施符合实际的路线方针和政策。恩格斯将其称为“现实的共产主义运动”。对于中国共产党人来说，中国特色社会主义事业的最终发展方向必然是共产主义。现阶段就是要为实现中华民族伟大复兴、建设富强民主文明和谐的社会主义现代化国家而奋斗。 这一伟大实践它既不虚无，更不缥缈，共产主义就在我们身边。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E9%AB%98%E6%89%AC%E5%85%B1%E4%BA%A7%E4%B8%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F/?category=18271" rel="tag">中华民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0/?category=18271" rel="tag">信仰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98/?category=18271" rel="tag">共产党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A4%95%E5%B2%B8%EF%BC%9A%E9%9D%99%E6%82%84%E6%82%84%E7%9A%84%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">夕岸：静悄悄的审查</a>
-</h2>
-<p><p>某种程度上说，有效的审查都是静悄悄的，能被感知到的禁区，都不是真正的禁区。这个事实多少让人感到无奈：我们一边清醒地反抗，一边却清醒地被愚弄。</p>
-<section>经典抗争政治的学者，一直试图去解决威权统治下镇压与反抗的不稳定关系。镇压不足无法扑灭社会抗议，镇压过度又会反向激化抗议和不满。而一国对反抗者的收买能力，又会对反抗的形式和镇压的结果造成截然不同的影响。所以，威权政体总在找寻一个最优的平衡点，使其容忍一部分抗议的同时，能保持核心的利益不受到挑战。更重要的是，通过故意释放一部分社会不满，威权国家用一种巧妙的方式解决了信息流通的困境。民主国家靠选举，媒体和公民社会等勾连国家与社会，威权政权在缺乏透明信息管道的情况下，则是通过低度的社会不满和抗议，收集民间的信息，以进行更直接高效的管控。
-<p>这个镇压与反抗的基本逻辑，在数字时代迅速延伸到了审查与反审查领域。低度的审查起不到阻断和威慑效果，而过度的审查则可能激发大规模的不满。比如完全不封杀谷歌，境外势力的影响就过大了，但是全面封杀，又会打击面过大，牺牲一部分政权支持者的利益。当政权和民众均将数字技术视为至关重要的沟通与动员工具时，对其控制权的争夺之战也就白热化了。这种激烈的互动反馈，从各国精细化的网络控制，多元化的网络反抗，就可以反映出来。</p>
-<p>那么威权国家对数字技术的控制成效如何呢？在大规模抗议出现或即将出现的敏感时期，国家常常采取干扰通讯或屏蔽关键页面的方式，来阻止人们在线上互联。不幸的是除中国外，大部分国家的审查机制太过初级，无法做到选择性屏蔽，所以一些政权在情急之下，就会选择全面断网。然而已有的研究显示，断网作为最极端的信息阻断行为，其噤声效果常常适得其反。2011年初埃及抗议持续不断，穆巴拉克政权被迫断网断通讯，就让更多人走上了街头。</p>
-<p>相比之下，中国可以采用的审查手段就高明了许多。正是因为审查技巧的高明，目前的研究往往局限在官方对信息内容的控制上，即检测什么样的网站、内容容易被屏蔽和封杀。两年前，哈佛大学加里·金老师领衔的团队通过实验发现，微博主要审查集体行动的动员，而非抽象的政治批评。这个重要的发现一定程度上带动了对信息内容的抓取和研究，却让更多人忽视了更宏观的信息环境问题。官方的策略当然重要，但人们如何回应这些策略，以及这些策略造成的长期现实影响，似乎极少人关注。</p>
-<p>倒是民间的观察者们经常思考审查策略的可能影响，不过乐观派和悲观派的结论截然相反。乐观派认为，审查是一场作茧自缚的慢性自杀，关闭评论功能后，众人纷纷采用转发；封杀一条新闻，更多的搜索行为和谣言出现；关闭了一个字幕组，十个字幕组生长出来。悲观派则看到审查机制对普通大众的压制性影响，逼迫人们进行自我审查。自我审查一直是个相当有说服力的论点：威权国家最根本的解决之道，在于培养出一批在信息素养上具有“威权人格”的用户。在铁丝网拦截面前，网民们乖乖掉头，哪怕墙塌都不会向前迈出一步。</p>
-<p>中国大到几乎所有的论断都能找到部分证据。其实对于非常明确的压制信息，人们的反应可以千差万别，一部分大众会妥协，也有一部分会采取激进化的信息模式加以反叛。乐观和悲观派所争论的核心，其实是面对审查采取妥协和反叛策略的比例。但双方同时忽略的一点是，并不是所有人在任何情况下都能认识到审查的存在。很多时候我们只是自然地浏览着网络，我们受制于网络空间的网速，代码和交流对象，而不是那盏时刻亮着的审查红灯。如果审查可以被看做一种数字镇压，其与反审查之间的互动关系，比实体空间的镇压与反抗还要复杂许多。镇压是一种明确的权力信号释放，审查却既可以大张旗鼓，又可以“润物无声”。</p>
-<p>新任教于加州大学圣地亚哥分校的助理教授玛格瑞特·罗伯茨，选择了中国审查策略的有效性作为自己的博士论文课题，第一次考察了网络审查对信息流动的双重影响机制。为了更精确揭示审查与反审查的动力学，她将“人们是否感知到审查”这一点纳入了考量范围。</p>
-<p>在官方的审查行为能被明确感知的情况下，在线数据与实验的结果更符合乐观派的预期。对于普通读者而言，明确的信息删除只会激发更多的好奇心，引发对同一个话题的进一步搜索，并形成更坚定的反审查态度。而对内容生产者而言，被删帖删文基本无法阻止他们继续创作。平均每一百个博客主，只有一个人会因为审查，而不再评论政治话题。所以，基于明确威慑色彩的审查，常常达不到其期待的效果。</p>
-<p>但是除了直接噤声外，网络审查在信息操控上却颇为有效。相比直截了当的该页无法显示，各种更为隐蔽的审查行为，比如减慢网速，填塞垃圾信息，对信息的流通有着非常明显的抑制作用。事实上，官方从来没有封死所有的信息流通途径，而只是给不同的信息内容加设了不同的获取成本。罗伯茨也发现，只要对信息获取稍加门槛，传播速度和规模就会显著降低，而整个过程中，很多用户压根不会意识到网络审查的存在。这个发现和之前无数的消费者调查一致，通过调整不同信息的易接受性，用户的购买行为会随之改变。最近随着墙的加高，翻墙也愈发成为类似的行为经济学问题：你是否有足够的时间和资金，你是否付得起浏览自由信息的成本。也就是说，如今的审查从“完全不让看敏感内容”，演进到了“你更可能看到非敏感信息”。</p>
-<p>现实可能比罗伯茨的研究更灰暗。纵使国家的审查威慑力无法阻止用户表达，也不表示威慑不会客观上阻碍信息流通。从用户对审查的短期反应，来推断信息流动可能受到的影响，可能的误差非常大。因为传播时机和传播网络往往是至关重要的，同样的内容被删除后又再次发出，同样的内容由不同的人发出，传播效果的差异究竟有多大，是罗伯茨的数据所无法揭示的问题。即使是前文提到的断网，是不是一定会对非民主政权存续造成直接的威胁呢？断网的时机，线下的动员网络同样是两个可以改变最终结果的核心因素。加之世界范围内的断网与审查案例还都太少，国家间差异又太大，往往一个新案例的引入，就会刷新我们之前的认识。比如最新对叙利亚的个案分析又显示，时不时的断网和信息干预，不仅未激化集体行动，还成了当权者对反对派大开杀戒的好时机。所以，不管我们如何自我安慰，断网与审查的绝对负面影响，一定大于其带来的意外正面效果。</p>
-<p>我们并不知道从长远来看，一个压迫性的网络环境如何在各个方面入侵社会的肌理。这种侵蚀可能已经发生，只不过像潜伏的疾病般隐匿。至少在当下的国度，信息控制对社会的主要影响，并非通过审查让人们噤声，而在于通过提升信息获取的成本，潜移默化地操控用户的整个信息获取模式。即使用户的思维方式并未因国家的触手而发生改变，信息的流通也已经受到影响。某种程度上说，有效的审查都是静悄悄的，能被感知到的禁区，都不是真正的禁区。这个事实多少让人感到无奈：我们一边清醒地反抗，一边却清醒地被愚弄。</p>
-</section><section></section><section></section><section><section>参考文献：</section><section></section><section>Gohdes, A. R. (2015). Pulling the Plug: Network Disruptions and Violence in the Syrian Conflict. Journal of Peace Research, forthcoming.</section><section></section><section>Hassanpour, N. (2014). Media Disruption and Revolutionary Unrest: Evidence From Mubarak’s Quasi-Experiment. Political Communication, 31(1), 1-24.</section><section></section><section>Lorentzen, P. L. (2013). Regularizing rioting: permitting public protest in an authoritarian regime. International Quarterly Journal of Political Science, 8(2), 127-158.</section><section></section><p>Roberts, M. E. (2014).Fear or Friction? How Censorship Slows the Spread of Information in the Digital Age.</p>
-<p><em>本文原载于作者博客“万有引力之虫”</em></p>
-</section><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A4%95%E5%B2%B8%EF%BC%9A%E9%9D%99%E6%82%84%E6%82%84%E7%9A%84%E5%AE%A1%E6%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">信息控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E6%94%BF%E6%9D%83/?category=18271" rel="tag">威权政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E4%BA%89/?category=18271" rel="tag">抗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE/?category=18271" rel="tag">抗议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">网络控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -792,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

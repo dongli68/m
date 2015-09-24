@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,25 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88%E4%BC%9A%E8%A7%81%E5%B1%A0%E5%A4%AB%E6%97%A0%E6%9E%9C%EF%BC%8C%E6%89%B9%E6%8D%95%E5%90%8E%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%90%91/" target="cdt-mirror">博讯｜李方平律师会见屠夫无果，批捕后转移去向不明</a>
+</h2>
+<p><p>博讯报道（9月22日）李方平律师今天到福建省永泰县看守所要求会见屠夫吴淦无果，后经驻所检察官初步核实吴淦被以煽动颠覆国家政权罪批捕不久后就已被带走，但去向不明。以下是李方平律师所记录：9月22日要求会见屠夫吴淦小记 </p>
+<p>李方平律师：自六月下旬厦门思明公安通知吴淦被以“寻衅滋事罪、煽动颠覆国家政权罪”批捕后，办案单位以“危害国家安全犯罪”为由不同意燕薪律师会见。逮捕后又已侦查三个月之久，2015年9月22日我到福建省永泰县看守所要求会见。只有一位长者在门卫室值班，看见我过来有些惊讶，赶紧向所长报告。所长通过门卫告知没有接到办案单位通知，律师不能进来。门卫以此为由拒绝我进门，僵持中我趁他人办事也进了大门。门卫非常惊慌，我安抚他说先在门卫室等等。质疑中，门卫略表歉意的解释：”我也搞不清楚，事情为什么会搞成这样”。我说你继续跟负责人联系，我再等半小时，没有回复的话，我还是要上去。门卫脸露难色，我说这不是为难你，我是履行律师职责。我多次与所长通电但无人接听，大约半小时后所长回电坚持说没有接到办案单位通知，不能接待我。我告知律师是通过看守所窗口要求会见并递交手续，办案单位同不同意会见是另外的问题。你们怎不能把律师拒之门外吧？所长考虑了一下说，那你进来窗口递交手续吧！</p>
+<p>进到接待窗口，没有警察，公勤人员也是松松垮垮的，以前那种明显紧张已悄然消失。寸步不离目盯跟踪的警察没有了，佩戴微型摄像机过来接收手续的警官也没有了。我随便问问吴淦身体情况怎么样？立秋了，想送长袖衣服怎么办？一个工作人员说：这么年轻，应该没什么问题吧？衣服？我不清楚。给人的感觉好像支支吾吾。正好所长进来，我又问送衣服的事，所长略有所思，说还是等通知了再送吧！考虑到吴淦是寄押在永泰看守所，我追问所长，是不是办案单位又提走了？所长好像跟没听到一样不置可否，径直离去。</p>
+<p>递交完会见手续，我到驻所检察官跟踪上次情况反映的回复问题。同时向检察官了解厦门思明公安是不是不在永泰异地寄押了？检察官说家属没有收到手续吗？我说没有通知家属，请他核实一下。我们也会同时向厦门思明检察院核实。检察官非常认真负责，初步核实吴淦被以煽动颠覆国家政权罪批捕不久后就已被带走。但去向不明，请我们向办案单位和检察院进一步核实。</p>
+<p>17时许接到永泰县看守所电话，告知办案单位不同意律师会见吴淦。我要求代为转告请办案单位把书面决定邮寄我所。</p>
+<p>仰天长叹，屠夫何在？脑子里突然像快门一样弹出好多关键词：厦门？福州？天津？看守所？指定监居？</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88%E4%BC%9A%E8%A7%81%E5%B1%A0%E5%A4%AB%E6%97%A0%E6%9E%9C%EF%BC%8C%E6%89%B9%E6%8D%95%E5%90%8E%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%90%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%A4%AB%E5%90%B4%E6%B7%A6/?category=18271" rel="tag">屠夫吴淦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%96%B9%E5%B9%B3/?category=18271" rel="tag">李方平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%83%AD%E4%BA%8E%E5%8D%8E%EF%BC%9A%E6%9D%83%E5%8A%9B%E5%A6%82%E4%BD%95%E9%98%89%E5%89%B2%E6%88%91%E4%BB%AC%E7%9A%84%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BF%86/" target="cdt-mirror">郭于华：权力如何阉割我们的历史记忆</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/p2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/p2.jpg" alt="p2" width="550" height=""></a></p>
@@ -185,7 +201,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/?category=18271" rel="tag">一党专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">中共历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">党的领导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E5%9B%BD%E5%AE%B6%E5%8C%96/?category=18271" rel="tag">军队国家化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0/?category=18271" rel="tag">历史的先声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">历史虚无主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%91%BD/?category=18271" rel="tag">天命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">政治合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">无产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">民主政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E4%B8%8D%E6%98%AF%E7%BA%B8%E7%89%8C%E5%B1%8B/" target="cdt-mirror">德国之声 | 习近平：中国反腐不是“纸牌屋”</a>
 </h2>
@@ -755,24 +771,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E7%9A%84%E4%B8%BB%E5%8A%A8%E6%8E%A2%E6%B5%8B%E7%B3%BB%E7%BB%9F/" target="cdt-mirror">奇客资讯 | 防火长城的主动探测系统</a>
-</h2>
-<p><p>2010年到2011年，瑞典林雪平大学超级计算机中心的系统管理员Leif Nixon在SSH日志中发现了大量奇怪的登录失败信息，这些刺探性的连接使用了看起来随机的字符串。他最后从IP地址分布中找到了规律：每一次刺探都紧跟在一次源自中国的合法有效登录5到20秒后。他得出结论，这是防火长城干的。他注意到刺探的频率在增加，推测是beta测试结束了，该功能开始广泛部署了。这是有关防火长城主动探测系统的<a href="https://www.nsc.liu.se/~nixon/sshprobes.html" target="_blank"><u>第一份公开报告</u></a>。</p>
-<p>2011年10月4日，一位用户向Tor递交了bug报告，称网桥在中国使用了几分钟后就停止工作。网桥是没有公开的Tor中继，是为了躲避审查系统对公开Tor中继IP地址的封锁。Karlstad大学的研究人员<a href="https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf" target="_blank"><u>发现</u></a>，防火长城会在中国Tor用户连上一个网桥的15分钟内尝试与该网桥建立连接，确认是否属于Tor中继，确认之后就将服务器IP屏蔽。</p>
-<p>主动探测系统是因应新的翻墙技术而诞生的，新的翻墙技术能抵抗传统的封锁，如将翻墙流量嵌入到TLS流中使得审查系统难以区分翻墙TLS和合法TLS，而<a href="http://www.icir.org/vern/papers/meek-PETS-2015.pdf" target="_blank"><u>域名伪装技术</u></a>则用看起来无害的域名去隐藏被审查的目标域名，它一般利用的是CDN的域名。</p>
-<p>为了避开深度包检测系统的指纹识别，Tor项目在2012年开发了第一个<a href="https://www.torproject.org/docs/pluggable-transports.html.en" target="_blank"><u>可插传输协议</u></a>obfs2，它将整个Tor TLS流量封装在一个轻量级混淆层中。但obfs2在设计上有一个重大缺陷，它首先发送一个密钥，然后发送可用密钥解密的密文。审查者可以读取TCP连接首部的前几个字节，将其作为密钥去解密后续字节，如果解密后的字节是有意义的，obfs2也就被识别出来了。2013年3月，Tor用户<a href="https://trac.torproject.org/projects/tor/ticket/8591" target="_blank"><u>报告</u></a>obfs2私有网桥在主动探测后遭到屏蔽。2014年6月，Tor项目宣布淘汰obfs2，转向obfs3，开发obfs4。</p>
-<p>obfs3修复了obfs2的设计缺陷，使用Diffie-Hellman密钥交换算法确认通信双方身份再决定用密钥加密后续数据。要识别obfs3连接，审查者要么使用中间人攻击去获知交换的密钥，要么对看似随机的数据进行启发式探测。目前obfs3是Tor匿名网络最流行的传输协议，虽然遭到了主动探测，obfs3的网桥很少遭到屏蔽。</p>
-<p>SoftEther是另一个受欢迎的分布式VPN服务，它也使用了一个类似Tor的公共VPN中继服务器列表，列表中的IP很容易被防火长城加入到黑名单中。SoftEther开发者采用的一个应对之策是在列表中加入混淆IP，这些IP地址是重要服务的IP，比如根域名服务器和Windows更新服务器使用的IP，所以防火长城不再采用自动方法屏蔽SoftEther，它必须加入一个手动验证环节，这就为蜜罐创造了条件，<a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-nobori.pdf" target="_blank"><u>开发者发现了一个审查者使用的IP: 210.72.128.200</u></a>，该IP地址被屏蔽之后审查者开始使用云了，如亚马逊的EC2。审查者最新使用的主动探测方法是模仿SoftEther的客户端握手去识别有效的SoftEther的 IP，类似“POST /vpnsvc/connect.cgi HTTP/1.1”，所以现在SoftEther的VPN已很难连上了。</p>
-<p>GoAgent曾是另一个受欢迎的翻墙服务，搭建在Google App Engine上，使用Google的未屏蔽IP提供代理服务。我们都知道结果，Google的IP被大规模的屏蔽。审查者使用了主动探测方法去识别可用的Google的IP，它使用了一个特定的主机头文件：Host: webncsproxyXX.appspot.com，xx的值位于1到100之间。它有多个变种，但User-Agent一直保持不变：Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E7%9A%84%E4%B8%BB%E5%8A%A8%E6%8E%A2%E6%B5%8B%E7%B3%BB%E7%BB%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1/?category=18271" rel="tag">翻墙服务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -784,7 +782,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -794,5 +792,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%B8%9D%E7%9A%84%E6%96%B0%E9%97%BB%E5%B0%81%E9%94%81%EF%BC%8C%E6%88%91%E4%BB%AC%E6%80%8E%E4%B9%88%E7%A0%B4%EF%BC%9F/" target="cdt-mirror">【河蟹档案】面对美帝的新闻封锁，我们怎么破？</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%AE%89%E6%99%AE%E8%8B%A5-%E5%A4%96%E5%8F%B7%E5%AE%89%E6%A0%A1%E9%95%BF">安普若-外号安校长</a>：谣传美国宣传部昨天电话通知美国各大媒体，对习主席到访西雅图采取冷处理，不报道，或者在报纸不显著位置简短报道，不上头条，不推荐热门，各社交自媒体应该密切监控舆情动态，及时删帖。通知指令美国各大媒体今日报道的重点和头条是教皇到访华盛顿。对美帝国主义的新闻封锁，我们怎么破？<em>相关阅读｜</em>《<em><a href="http://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/">真理部指令</a></em>》<br><a href="https://freeweibo.com/weibo/3890277091395835" target="/weibo/389">2015年09月23日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BA%AA%E7%AD%B1%E8%96%87">纪筱薇</a>：因领导人访美，央视腔调为之一变，这几天多个栏目都在谈美国，把美国夸的跟花一样，把中美关系说的比穿一条裤子还嫌肥般亲密。与过往凡事都指责美国、把中国的种种不幸都推到美国黑手上的说法，有着天壤之别。这种用人朝前不用人朝后的市侩、功利主义做法，让人作呕，露出官媒猥琐的嘴脸。<br><a href="https://freeweibo.com/weibo/3889929497504138" target="/weibo/388">2015年09月22日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%A8%E5%86%9C%E8%B0%88%E8%82%A1">雨农谈股</a>：以前我一直有一个错觉，感觉美国佬处处与中国为难。今天看了央视新闻联播，才知道中美两国友谊牢不可破！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33323.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33323.jpg" alt="333" width="475" height="267"></a><br><a href="https://freeweibo.com/weibo/3889592144860129" target="/weibo/388">2015年09月21日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E5%86%9B%E6%9E%97%E5%AF%BC%E6%BC%94">李军林导演</a>：习近平会晤境外最大的反动网站负责人。//*<a href="https://freeweibo.com/weibo/%40%E7%94%A8%E6%84%9B%E5%81%9A%E4%BA%8B%E6%A5%AD">用愛做事業</a>：网友评：主席说:“小伙子，不简单，网站都打不开还能上市，真能忽悠啊，学习学习！ ”小伙谦虚地说:“贵国财产都不用公开，就实现了反腐，佩服佩服！” <em>相关阅读｜</em>《<em><a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%C2%B7%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC">维基百科｜马克·扎克伯格</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33326.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33326.jpg" alt="333" width="424" height="755"></a><br><a href="https://freeweibo.com/weibo/3890585285343836" target="/weibo/389">2015年09月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%83%A1%E9%80%820922">胡适0922</a>：胡说习就一初中生水平[嘻嘻]  <em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E8%83%A1%E5%BE%B7%E5%8D%8E_(%E8%83%A1%E8%80%80%E9%82%A6%E4%B8%89%E5%AD%90)">维基百科｜胡德华（胡耀邦三子）</a>》；《<a href="https://zh.wikipedia.org/wiki/%E8%B4%BA%E5%8D%AB%E6%96%B9">维基百科<em>｜贺卫方</em></a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33325.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33325.jpg" alt="333" width="411" height="731"></a><br><a href="https://freeweibo.com/weibo/3890620353422666" target="/weibo/389">2015年09月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B7%B1%E5%A4%9C%E8%B5%B0%E8%BF%87%E9%95%BF%E5%AE%89%E8%A1%97001">深夜走过长安街001</a>：“除了……习近平还给林肯高中送去图书，有《红楼梦》，莫言、冰心，余光中的作品，以及袁腾飞的《这个历史挺靠谱》……”<em>相关阅读｜</em>《<em><a href="http://chinadigitaltimes.net/chinese/2015/09/%E6%9C%B1%E5%AD%A6%E4%B8%9C%EF%BC%9A%E5%AF%B9%E7%85%A7%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B9%A6%E5%8D%95%EF%BC%88%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E7%89%88%EF%BC%89%EF%BC%8C/">朱学东：对照习近平总书记书单（史上最全版），愧煞</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33324.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33324.jpg" alt="333" width="360" height="640"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33329.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33329.jpg" alt="333" width="629" height="367"></a><br><a href="https://freeweibo.com/weibo/3890710241368054" target="/weibo/389">2015年09月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E6%98%95">徐昕</a>：看到<a href="https://freeweibo.com/weibo/%40%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97">@共青湖南</a> 带<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">@任志强</a> 重温入党誓词，想知道8000万党员中有多少能做到宣誓的这些？<em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">【立此存照】任志强：“我们是共产主义接班人？”</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33327.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33327.jpg" alt="333" width="445" height="420"></a><br><a href="https://freeweibo.com/weibo/3890727900139022" target="/weibo/389">2015年09月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B0%B4%E5%85%B5%E6%9D%8E%E9%93%AD">水兵李铭</a>：看图//*<a href="https://freeweibo.com/weibo/%40%E6%84%9A%E5%B7%B7">愚巷</a>：这钱真好赚 //*<a href="https://freeweibo.com/weibo/%40%E5%A4%A9%E6%B6%AF%E7%83%9F%E7%81%AB">@天涯烟火</a>:这个比五毛贵啊，两小时三百。相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E6%8A%A5-%E7%95%99%E5%AD%A6%E7%94%9F%E5%BC%95%E5%BC%80%E7%A4%BA%E5%A8%81%E8%80%85-%E6%8E%A9%E6%8A%A4%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%B0%8F%E8%B7%AF%E7%A6%BB%E5%BC%80/">明报 | 留学生引开示威者 “掩护习大大小路离开”</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33328.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33328.jpg" alt="333" width="436" height="206"></a><br><a href="https://freeweibo.com/weibo/3890524668749623" target="/weibo/389">2015年09月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8D%97%E6%96%B9HiboyHo">南方HiboyHo</a>：旅美华人热烈欢迎习近平访美，央视怎么不报道一下？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33322.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33322.jpg" alt="333" width="340" height="454"></a><br><a href="https://freeweibo.com/weibo/3890276701400553" target="/weibo/389">2015年09月23日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%402%E5%8F%AF%E5%99%A8">2可器</a>：分享图片<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33321.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33321.jpg" alt="333" width="453" height="805"></a><br><a href="https://freeweibo.com/weibo/3888161308798152" target="/weibo/388">2015年09月17日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%98%85%E8%AF%BB%E7%A4%BE%E4%BC%9A">阅读社会</a>：SPAM <a href="https://freeweibo.com/weibo/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%8E%A9%E8%89%BE%E7%89%B9">#人民日报玩艾特#</a>如果说世界上最霸气的言语是“开机画面必须是我”，那么最会玩的便是在人民日报上只刊登了一个大写的@ 了！所以人民日报才是真正的会玩大boss？已经迫不及待想一探究竟了呢[doge]<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33317.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33317.jpg" alt="333" width="450" height="5377"></a><br><a href="https://freeweibo.com/weibo/3887657941877194" target="/weibo/388">2015年09月16日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%B8%9D%E7%9A%84%E6%96%B0%E9%97%BB%E5%B0%81%E9%94%81%EF%BC%8C%E6%88%91%E4%BB%AC%E6%80%8E%E4%B9%88%E7%A0%B4%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">中国日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E8%90%8C/?category=18271" rel="tag">卖萌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%98%E5%84%BF/?category=18271" rel="tag">托儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">接班人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E7%9A%87/?category=18271" rel="tag">教皇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD/?category=18271" rel="tag">新闻联播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%AE%A3%E5%B8%83/?category=18271" rel="tag">美宣布</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%BE%B7%E5%8D%8E/?category=18271" rel="tag">胡德华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E7%89%B9/?category=18271" rel="tag">艾特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%85%BE%E9%A3%9E/?category=18271" rel="tag">袁腾飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%BB%E4%B8%8D%E5%8F%AF/?category=18271" rel="tag">非死不可</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E6%8A%A5-%E7%95%99%E5%AD%A6%E7%94%9F%E5%BC%95%E5%BC%80%E7%A4%BA%E5%A8%81%E8%80%85-%E6%8E%A9%E6%8A%A4%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%B0%8F%E8%B7%AF%E7%A6%BB%E5%BC%80/" target="cdt-mirror">明报 | 留学生引开示威者 “掩护习大大小路离开”</a>
 </h2>
 <p><p>中国国家主席习近平与夫人彭丽媛一行乘坐的国航747飞机，当地时间周二降落在毗邻波音公司大规模厂房、位于西雅图市以北40公里的佩因机场，华盛顿州州长英斯利（Jay Inslee）等到机场迎接。此前，号称将如影随行抗议的法轮功成员及海外民运等异议人士，在西雅图拉横额抗议习近平到访。为保证习近平车队不受影响，受中国领事馆指派的留学生欢迎队伍，故意在路边大造声势吸引抗议人士，以“声东击西”方式让习近平车队避开抗议人群，驶出机场。而位于华盛顿的新闻博物馆（Newseum），昨日亦挂出条幅，抗议中国人权问题。</p>
@@ -795,93 +817,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/aucssa-%E5%85%B3%E4%BA%8E%E4%B9%A0%E8%AE%BF%E7%BE%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/" target="cdt-mirror">AUCSSA | 关于习访美欢迎仪式的注意事项</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150922172749_xi_peng_seattle_512x288_ap_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150922172749_xi_peng_seattle_512x288_ap_nocredit.jpg" alt="150922172749_xi_peng_seattle_512x288_ap_nocredit" width="550" height="309"></a></p>
-<p><em><strong>中国数字时代编辑注：</strong> 以下内容转载自AUCSSA（美利坚大学学生学者联谊会）微信公号</em></p>
-<p>想必大家都为习近平总书记来美非常激动了！今天AUCSSA得到了进一步的消息关于当天迎接仪式的注意事项，请大家注意！</p>
-<p>几个主要的内容请大家牢记：</p>
-<p>1. 活动的具体位置尚不确定，但大体在酒店，白宫，华盛顿纪念碑和机场四个地方。<br>
-2. 活动时间会有有细微变化，尚未彻底确定。<br>
-3. 活动的场地是在本地的华侨负责确认和预定的，AUCSSA会尽快和他们去取得联系，稍后和同学们确认联系方式。<br>
-4. 欢迎仪式的时候各个学校的位置会不同，我们AU的位置也没有被确定，因此请同学们听从AUCSSA成员的指挥。<br>
-5. 活动期间会有大使馆分派的律师和工作人员，AUCSSA会与他们直接联系，所以有紧急情况的话一定要和我们AUCSSA的成员沟通。<br>
-6. 请同学们准时集合，准时出发。<br>
-7. 请同学们牢记使馆的联系方式：202-495-2266是使馆的一般联系方式。202-669-8024是使馆的紧急联系方式</p>
-<p>这五项是主要的内容，请同学们注意。</p>
-<p>规范性的内容：<br>
-1. 活动期间同学们不要背双肩包。<br>
-2. 活动期间AUCSSA的成员会发相关的物品和器材，如国旗，衬衫等。请妥善保管，不要损坏或者遗失。<br>
-3. 如果被分到国旗的同学，尤其是大国旗的同学请注意：国旗不能倒置，不能触地（拆装国旗时除外），不能拖地。更不能破损。<br>
-4. AUCSSA的横幅会有习近平主席和夫人彭丽媛的画像，被分配到的同学千万注意：画像不能破损，玷污。如果上述情况出现请立即将画像妥善收存且不要再度展示。并与AUCSSA带队成员沟通。<br>
-5. 如果相关器材，如国旗，横幅画像等被某些人或组织夺取或刻意损坏。千万不要组队抢回或者组队反击。请第一时间与警察和AUCSSA的成员沟通，说明情况后在采取下一步行动。<br>
-6. 服从大使馆工作人员，华侨，警察等官方的调遣。<br>
-7. 不要乱丢垃圾。</p>
-<p>欢迎仪式的细节：<br>
-1. 欢迎仪式中可以喊口号，大使馆官方指定的口号是：“中国加油”和“China Strong”。AU已经为大家准备了一首原创歌曲《远洋赤子心》，请同学们点击“阅读原文”来学习。<br>
-2. 其次，大使馆推荐大唱《我的中国心》和《红旗飘飘》两首曲子。</p>
-<p>同时，大使馆考虑到此次同学们会遭遇反对派的示威人员，已经委托律师撰写了一份相关的行为指导，AUCSSA为大家翻译后标记了一些关键内容，请大家一定要仔细阅读！（大图请在WI-FI环境下点击！）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9598.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9598-791x1024.png" alt="IMG_9598" width="600" height="777"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9599.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9599-791x1024.png" alt="IMG_9599" width="600" height="777"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9600.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9600-791x1024.png" alt="IMG_9600" width="600" height="777"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9601.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9601-791x1024.png" alt="IMG_9601" width="600" height="777"></a></p>
-<p>以下为翻译内容：<br>
-1. 严格遵守法律以及社会常识，尽力避免任何形式的冲突。</p>
-<p>2.确保在人行道上行走且遵守交通规则。同时在人行道行走的过程中尽量预留足够的空间，以确保其他行人可以通过，不要发生与他人冲突或阻拦道路等情况。</p>
-<p>3.当发现有人与你宣扬的观点截然相反之时（常指反对派），他们有宣扬自己的理念和声音的权力，他们的行为不能被我们直接的打断或阻扰。<br>
-（此条特指反对派和分裂势力分子，前往欢迎仪式的同学请不要直接与他们发生争吵，或者有意地阻挠他们的行动。）<br>
-警察会将有敌意的两组人分开，但有些情况下部分区域会接壤。</p>
-<p>4.保持冷静和专业，不要过度激进。不要被他人的嘲笑，挑衅所激怒，也不要试着去激怒他们。毕竟双方都是来宣扬自己的政治理念和政治思想，这里是欢迎仪式，不是教室。</p>
-<p>5.请大家待在自己团队所在区域，不要进入他人的区域，尤其单人行动一定要避免。</p>
-<p>6.如果发现有其他人混入我们所在的区域，不要试着自己驱逐他们，一定要向警察寻求帮助。<br>
-一定不能先动手，也不要试着碰他或者抓他手里的东西，也不要试着威胁他。<br>
-（这些行为都会让警察误以为是冲突的前兆，容易产生误会。）<br>
-如果发现斗殴的情况，最好的方法是叫同伴朋友进行录像，收集证据</p>
-<p>7.如果你被警察拦住盘问，第一件事情是保持冷静镇定和礼貌。<br>
-不要试图与警察争吵或者抵抗警察或者阻挠警察执法，哪怕你认为你是无辜的或者你认为警察有侵犯你的权益。在某些地区，警察会问你的姓名，但你不需要提供自己的身份证件或其他文件。同时，请将手放在警察能看的见的地方。<br>
-如果他询问欢迎仪式的问题（一般都是这个情况）请同学们牢记美国宪法第一修正案，我们有言论自由的权利。<br>
-在离开的时候一定要确保自己先行询问，如果可以离开，就礼貌地慢慢地离开。</p>
-<p>8.如果警察试图逮捕你，一定不要拒捕，哪怕你认为这是不公正的。如果你被捕你可以询问原因。但一般情况下一定要说自己使用保持沉默的权利，并且要求见自己的律师。除此之外不要给警察任何解释或者借口。你在被拘留期间可以拨打本地电话，且警察无权监听。</p>
-<p>（这条极为重要，请同学们牢记美国宪法第五修正案，任何人不得被强迫说出任何事情。也就是同学们常在电影或电视剧中见到的：“You have the right to remain silent when questioned.Anything you say or do may be used against you ina court of law. You have the right to consult an attorney before speaking tothe police and to have an attorney present during questioning now or inthe future.”如果同学们真的被逮捕而带去警察局，除了见律师的要求之外，其他的任何事情都不要随便向警察透露。虽然我们是留学生而非美国公民，但我们也有保持沉默的权利。同时，同学们请牢记中国大使馆的联系方式。202-495-2266是使馆的一般联系方式。202-669-8024是使馆的紧急联系方式。如果AUCSSA得知了使馆律师的联系方式也会第一时间通知大家。）</p>
-<p>9.同学们不要把对你的任何搜查当做理所应当。警察可能对你进行搜身，以检查你是否有武器，或者把你逮捕之后对你进行搜查。最好的方式是不要抵抗。但是进一步的搜查都是可以拒绝的。如果你明确同意了搜查，在法庭上可能对你不利。<br>
-请同学们牢记，街道上不是指控警察错误行为的地方。一定不要抵抗或者威胁说投诉。一旦找到机会，将发生的事情原原本本地记录下来，包括警察的警官号码，车辆车牌号码，警察所属的单位和其他一切细节信息。寻找证人和其他证据。如果有同学受伤，一定要及时送医处理，但确保送医之前拍照取证。一旦有机会，你就可以利用这些信息来投诉。这些投诉都是匿名的，而且所有的同学都可以寻找律师的帮助。<br>
-（同学们请注意，警察的搜查只有在他有搜捕令的时候才是合法的，其他时间的任何搜查都没有正当理由。所以同学们被拦下搜身的时候一定要牢记，如果真的被强行拦下搜查书包或者被无端要求检查证件，请问清楚是否有搜捕令，如果没有，便明确声明拒绝搜查，但被强行搜查时也千万不要抵抗。如果真的发生，请保持镇定和冷静，若被带走就保持沉默，若安全返回就寻求律师和使馆的帮助。）</p>
-<p>10.如果你在公共场合合法出现，你是有权拍照录像的，包括联邦建筑，交通工具，乃至警察。但如果你在私人的地区里，私人地产的拥有人有权设立关于摄像的规定，所以请看清一些相关的指示牌。警察在没有搜捕令的情况下无权浏览你所拍的照片或者录像，也无权没收你的器材。但在私人地区，他们有权要求你停止拍摄或让你停止一些侵犯他们合法权利的行为。<br>
-（这条遇上一条相似，同学们应明确区分公共场合和私人空间。在私人地区一些业主有权阻止你摄像。）</p>
-<p>11. 在某些情况下，非移民身份的人会携带他们的护照。同学们若是被捕，请一定不要与警察讨论或者透露自己的身份。只有律师是你能找的。在被拘留期间，除了律师有直接指示之外，千万不要回答任何问题或者签署任何东西。<br>
-（考虑到大部分同学不是美国公民，而且所属的签证和身份都不同，这方面的信息是不能随便透露的，尤其在被捕期间。所以如果携带护照的同学们参加欢迎仪式被逮捕或者遇上盘问，这些信息是要与律师沟通之后才能与警察交流的。）</p>
-<p>12.请同学们避免与反对派的任何肢体接触或冲突。</p>
-<p>以下是殴伤罪(Assault and Battery)的法律构成要素（翻译仅供参考）<br>
-动手打人或者举手吓唬都可以构成殴伤罪（视情节而定，可以使民事或者刑事）<br>
-初步情况为：<br>
-1.有害或冒犯性的行为（直接或者非直接，设个套也算）<br>
-2.与原告方的接触（包括衣服钱包，任何与他连接的东西，哪怕他牵着栓狗的绳子）<br>
-    冒犯性的接触可以不是即时的<br>
-    可以使持续性的</p>
-<p>侵犯（Assault）<br>
-初步情况为：<br>
-1.被告方将原告方置于“忧虑”中<br>
-2.即时的攻击<br>
-    “忧虑”不代表威胁，紧张或惧怕等心理情况<br>
-    弱者也可将强者至于此种情况<br>
-    “忧虑”具体指：<br>
-    被告方的攻击会构成明显的“忧虑”<br>
-    原告方认为被告方的行为是迫害性的或者威胁性的<br>
-    原告方被被告方用未上膛的武器指着<br>
-“威胁”的定义：<br>
-    任何迅速的威胁<br>
-    言语中的字面意思模糊不清<br>
-    言语与行为共同发生<br>
-    言语暗指未来将发生的事情<br>
-在国内，争吵的时候推搡是正常的，但是在美国便不同，即便吵架也不能动手推搡对方。退了便是殴伤。也不能举起东西威胁对方，威胁就构成assault。当然，自我防卫不属于这个范围。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/aucssa-%E5%85%B3%E4%BA%8E%E4%B9%A0%E8%AE%BF%E7%BE%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">中国留学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">留学生</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -893,7 +828,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -903,5 +838,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

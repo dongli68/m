@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E9%95%BF%E5%B9%B3%EF%BC%9A%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%85%B1-%E7%BB%A5%E9%9D%96%E5%AE%B3%E4%BA%BA%E5%AE%B3%E5%B7%B1/" target="cdt-mirror">苹果日报 | 长平：面对中共 绥靖害人害己</a>
@@ -66,6 +66,36 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E8%94%A1%E9%9C%9E%EF%BC%9A%E5%B7%A6%E8%BD%AC%E5%80%92%E9%80%80%E6%AD%A3%E6%98%AF%E6%AD%AA%E6%9B%B2%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3/" target="cdt-mirror">博客中国｜蔡霞：左转倒退正是歪曲共产主义理想</a>
+</h2>
+<p><p>左转倒退正是歪曲共产主义理想</p>
+<p>中央党校  蔡霞</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/p3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/p3.jpg" alt="p3" width="304" height="400"></a></p>
+<p>习近平总书记谈共产主义理想信念引起社会各界的强烈反响，各种解读都有，各种行为反应也都随之发生。一方面有些民间企业家产生深深疑虑，加快资产出逃；另一方面，有些地方开始制定“向共产主义努力”的政策措施，似乎又要取消商品经济。这些解读真那么合适吗？有必要做些思考。</p>
+<p>首先，共产主义作为中共的最高理想写在中共党章里，从1921年来从来没有改变过，作为现在的中共中央总书记，对党内领导干部强调这点，没有什么不合适的。政党的理想信念是凝聚党心的精神支柱，理想信念倒了，党心必然就散，组织上的分崩离析也就不远了，那别说有8000万党员，哪怕是一亿党员也没用，遇到重大冲击就散就垮，几乎是必然的。就此而言，前苏联党的轰然垮塌，并非是“竟无一人是男儿”，那是苏共党内没有可以凝聚党心的共同政治信念的必然结果。此为其一。</p>
+<p>其二，马克思恩格斯所说的共产主义含义究竟是什么？多年来，中共和中国社会的解说含混不清，就可能字面理解，以己之见解释马克思恩格斯。关于共产主义，中国人最普遍的说法是：社会财富极大丰富，各尽所能各取所需。所有这些理解有很大的肤浅片面和扭曲。</p>
+<p>马克思恩格斯说的共产主义，本质内涵究竟是什么？请读《共产党宣言》的第二章最后，说的是“”自由人的联合体”，“在那里，每个人的自由而全面的发展是一切人自由发展的条件”。多年以后，恩格斯还说到，有人问他如何用一句话概括共产主义？他认为，最准确的还是共产党宣言中的“自由人的联合体”。</p>
+<p>请看，马克思恩格斯所说的共产主义，有2个根本含义：一是所谓自由人的联合体，就是人作为具有独立性的主体而联合起来而相互合作，而不应是依附于任何人或物的被控制被奴役的对象。二是每个人的自由全面发展是前提性条件。马恩强调的是“每个人”，抛开“每个人”这个前提，回避“自由而全面发展”去讲共产主义理想，不仅曲解背离马恩的共产主义本意，而且已经带来党内思想混乱。因此，不真正讲清楚共产主义的本质含义，就不可能使全党真正确立坚定的理想信念。</p>
+<p>如何实现共产主义？有人简单地抓住一句话，说就是“剥夺剥夺者”，搞“共产”。按中国文化思维的理解，就是穷人瓜分富人的财产，就像水泊梁山好汉“劫富济贫”。五十年代初期的生产资料所有制社会主义改造，就是因打着实现共产主义的旗号而获得正当性。现在富人一听中共再讲共产主义，自然生出恐惧心理，自然加快资本外逃。</p>
+<p>也许是中国人长期深陷贫困之中，所以特别关注物质财富，而恰恰把人的自由而全面发展这个实质含义丢置不论了。其实，马克思恩格斯在共产党宣言中说第一步是工人阶级争得民主。暴力革命是为了争得民主权利，使工人阶级成为国家的主人，即国家权力归社会民众所有，每个人首先实现和维护好作为公民应该有的民主权利，而后利用国家的力量建设新社会，为每个人的“自由而全面发展”创造条件。</p>
+<p>人类政治文明是个逐步进步的历史过程。1840年代的欧洲，民主还没有发展到社会公众无分贫富贵贱都享有公民权利的程度，工人阶级还没有制度性渠道来表达和维护自己的权益，所以在当时的历史条件下，马克思恩格斯提出暴力革命观点。而当经过40年的变迁，民主政治在欧洲有了长足的进步，恩格斯根据1870年代到1880年代德国工人斗争的胜利，指出工人阶级应该把合法斗争和不合法斗争结合起来，开展议会斗争，来争取改变法律和政府政策。恩格斯当时对暴力革命剥夺剥夺者的观点，事实上在思想上已经有所改变。今天，我们再把共产主义简单化理解成“共产”，实际是给抢劫别人财富寻找正当性借口。尤其是当今中国需要极大地调动一切积极因素推进国家改革建设，如果还以各种貌似政治正确的理由，侵犯公民合法私有财产，搞强拆强行没收以及并吞民企资产，无疑是在毁坏中国市场经济和社会道德底线。</p>
+<p>第三，马克思恩格斯一再阐述过，实现共产主义是一个漫长的历史自然发展的过程。但是，中国在上世纪五十年代刮起跑步进入共产主义，浮夸冒进风，给中国经济社会带来毁灭性的灾难。</p>
+<p>与经济上的急躁冒进相关联，政治上强调阶级斗争，搞一大二公，消灭一切私有财产，直到文革十年内乱……。当时有多少中共党人多少热血青年，以为是在为神圣理想奋斗，却没想到这是在走向深渊。</p>
+<p>邓小平在八十年代初反复强调要汲取教训，清醒认识最大的国情是中国处在社会主义初级阶段。这个阶段至少要有100年，建设有中国特色社会主义需要几代人十几代人甚至几十代人的努力。因此，要毫不动摇地坚持社会主义初级阶段基本路线，党的一切方针政策都必须从这个实际出发，都不能超越这个阶段。邓小平还深刻指出，我们要有右反右有左反左，但主要是反左。</p>
+<p>而现在一说要坚持共产主义理想信念，有些地方开始研究如何进行新的“公私合营”，有些甚至酝酿提出一些限制民企参股国企的政策措施，等等。这些向计划经济、阶级斗争回归的所谓举措，正在滑向背离党的社会主义初级阶段基本路线、否定邓小平理论，否定改革开放的危险倾向。照此下去，不仅会引发更多的资本外逃，加剧“用脚投票”趋势，而且会使各方面关系全面紧张，这将很容易毁掉30多年改革开放的经济社会成果，我们不能不对此高度警惕。这种明显违背党的政治纪律的倾向，必须要严肃对待。遵守党的政治纪律，就必须坚持党在社会主义初级阶段基本路线，就必须自觉遏制否定改革开放的左的思潮，坚持解放思想探索创新，在锐意深化改革上下大力气。</p>
+<p>第四，每个人自由而全面发展的共产主义，作为一种社会价值追求，应该肯定。但针对现实，不能不思考究竟什么样的制度条件，能够保障和支撑中共党推动社会进步，向共产主义迈进？</p>
+<p>不可否认的是，中国在1949年以后所建立的制度是苏联模式的体制。实践证明，这样的体制下国家权力高度集中，执政党内有些人特权享受。随着时间推移，权力贪腐侵害社会利益，阻碍历史进步，最终导致苏共党解体、政权垮塌。实践证明，即便共产主义理想再好，如果所建立起来的制度名义上是“社会主义”，实际制度运转的价值取向和人民群众利益背道而驰，并且严酷地打压人民群众的不同意见，那么这个制度迟早会成为虚假谎言，而每个人都无法摆脱被奴役，甚至被剥夺生命安全的正当利益的命运。</p>
+<p>中国50年代末的那场历时三年全国范围的大饥荒，中国60年代中期长达10年的文革内乱，中国这些年来党内大面积的严重贪腐，无一不说明，国家体制和党的理想信念关联极为紧密。如果现实体制有严重弊端而又长期不改的话，那么共产主义理想再好，也可能只是镜中花水中月。真正坚持共产主义理想信念，就必须真正遵循马恩一再阐述的经济和政治作用与反作用的基本原理，推进改革，坚持进步，反对倒退。</p>
+<p>第五，共产主义是中国共产党的最高理想，按党章规定，要求全党8000多万党员坚持这个理想是完全应该的。但党和国家不能等同，不能把党的意识形态等同于国家意识形态，而要求全体国民必须坚守。国家意识形态是全体国民最普遍的基本价值追求的表达，应该是获得全社会最广泛的认同和接受。但开放环境中的社会、市场竞争中的社会意识形态，因为利益的多元分化，因为开放社会的思想活跃，社会意识形态的多元化是必然的。作为中国唯一的执政党，党的理想信念在国家生活中应该起主导作用，但决不能强制全社会都与党保持一致。</p>
+<p>就此，这个问题还要认真探讨。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E8%94%A1%E9%9C%9E%EF%BC%9A%E5%B7%A6%E8%BD%AC%E5%80%92%E9%80%80%E6%AD%A3%E6%98%AF%E6%AD%AA%E6%9B%B2%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E9%9C%9E/?category=18271" rel="tag">蔡霞</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88%E4%BC%9A%E8%A7%81%E5%B1%A0%E5%A4%AB%E6%97%A0%E6%9E%9C%EF%BC%8C%E6%89%B9%E6%8D%95%E5%90%8E%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%90%91/" target="cdt-mirror">博讯｜李方平律师会见屠夫无果，批捕后转移去向不明</a>
 </h2>
@@ -736,40 +766,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E4%BA%9A%E6%97%81%E6%B0%8F%E9%AA%97%E5%B1%80%EF%BC%9A22%E4%B8%87%E6%8A%95%E8%B5%84%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%BD%93%E6%9C%89/" target="cdt-mirror">美国之音 | 泛亚“旁氏骗局”：22万投资人的家当有望讨回吗？</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard10_114.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard10_114.jpg" alt="Clipboard10_114" width="600" height="338"></a><p>千余人围堵在北京市金融街的证监会门口</p></div>
-<p>周一（9月21日），位于北京市金融街上的证监会门口聚集了一千余人。他们统一身穿背后写有“泛亚诈骗，血本无归，还我血汗钱”的白体恤，手举“请中央审查云南，清算泛亚”的标语。在现场的投资者称，近三个小时的维权活动为他们赢得了同政府方面对话的权利。他还透露，这些赔了钱的投资者明天还会有进一步行动。</p>
-<p>“泛亚”是昆明泛亚有色金属交易所的简称。这家号称世界最大的稀有金属交易所，自2011年4月开盘以来，短时间内吸引了中国几十万投资者的目光。然而最终由于资金链断裂，22万投资者的430亿元资金难以兑付。据报道，泛亚的老板娘兼副总裁张子诺和财务总监已经辞职。泛亚高层也被限制出境。</p>
-<p>据了解，让这几十万投资者赔上家当的是一款名叫“日金宝”的理财产品，它宣称年化收益13%，如此高收益是其他贵金属交易所的数倍。有分析人士认为，“日金宝”的模式类似于庞氏骗局：用新投资者的钱来向老投资者支付短期回报，以制造赚钱的假象，以骗取更多投资。这种骗术是一位名叫查尔斯·庞兹的投机商人发明的，用中国的话讲又叫“空手套白狼”。庞兹用许诺40%利润回报率的方式吸引投资者向一个子虚乌有的企业投资，曾成功的在七个月内骗到了三万名投资者。</p>
-<p><strong>证监会：会督促云南有关部门解决问题</strong></p>
-<p>金融街的维权活动结束后，全国泛亚受害人协会发布一篇声明称，在抗议人群撤离期间，受害人代表与证监会打非局陈姓局长和北京市公安局内保科长及另外三个工作人员进行了会谈。陈姓局长表示，“他们会尽力督促云南相关部门解决问题，同时将情况通知公安部，是否立案由公安部确定。”</p>
-<p>一位投资者在采访中对记者表示，他们已经在全国各地报案多次了，但是从来没有被受理过。而未予立案的原因，一份投资者提供的录音文件似乎给出了答案。这份音频的录制时间是6月份，在昆明。</p>
-<p>在录音中，一位自称是姚副支队长的人说，“因为省里有明确的要求给我们，所以我们也是没办法的……现在有个特殊情况……因为省里告诉我们，他们正在对这块东西做清理整顿。因为呢，省里也不想它死，你们也不想它死，如果交到我们这儿来，我们就是要把它弄死。很简单嘛。不用调查，我们调查就要抓人，抓人就要停业。（录音者说：现在也关门了）现在关门和我们去抓人关门是两码事情。”音频文件的最后，这位姚副支队长表示，现在他们无法给出解决办法，“只能等”。</p>
-<p><strong>投资者：泛亚骗局与政府不无关系</strong></p>
-<p>据投资者提供的一份昆明市人民政府文件显示，泛亚2010年成立之初，其领导小组组长是中共昆明市委常委、副市长黄云波，组员包括市财政局副局长左晖、市地税局副局长马磊、市工商局副局长常晋云、市政府金融办副主任李松等。</p>
-<p>一位投资者也对记者说，他平时极少理财，这次投资“日金宝”是因为看到中央台、银行、机场等正规渠道的宣传。</p>
-<p>他说，“那个时候他们到处做广告，包括飞机、地铁座椅上面、银行里面那个理财的小单子都有宣传，包括银行的电子屏都有宣传……然后包括我们的中央台都宣传了那些视频，泛亚都挂在它的网站上面，你都看得到。所以说看到这种，还有包括我们国内的专家、电视台的名人这些东西。当时我考虑到种种原因吧，就相信了这个东西。说老实话，作为中国的老百姓，像我就是比较保守的，从来没有理过什么财，钱从来都是存银行的，利息少一点就少一点。怎么突然就被它骗进去了，我感觉这个真的是。”</p>
-<p>然而中国官媒新华网9月18日刊发一篇标题为《泛亚400亿产品深陷兑付危机 监管：有责任但缺依据》的文章，似乎在为云南的省市政府开脱。文章引述昆明市金融办负责人的回应说：“委托受托业务的停止是企业的行为，不是政府的要求。”而昆明市公安经济犯罪侦查支队报案处负责人说：“由于情况复杂特殊，有关部门已经成立调查小组，对于报案者先暂做登记的处理。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard11117.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard11117.jpg" alt="千余人围堵在北京市金融街的证监会门口" width="600" height="450"></a><p>千余人围堵在北京市金融街的证监会门口</p></div>
-<p><strong>泛亚准备怎么办？</strong></p>
-<p>据投资者说，泛亚方面对于投资者的抗议是有过回应的。但每一次都是派代表来谈判，只听不说，并没有给出解决方案。</p>
-<p>据中国媒体9月21日报道，一份泛亚交易所内部文件显示，“泛亚交易所拟向监管部门备案，采取两项措施，化解目前流动性危机，其中包括退市了结6种交易商品和进行债务重组。”</p>
-<p>泛亚提出的新的重组方案是：将代持货物注入信托公司的信托计划，然后由上市公司定向发行股票置换信托计划，最终通过股票转让回收资金。</p>
-<p>此外，泛亚拟与交易商企业或产业相关企业协商，收购盘面货物，尽快了结钴、铑、五氧化二钒、白银、氧化镝、氧化铽相关委托受托业务和回购货物，之后安排此六个交易商品退市。同时，拟将铟、APT、锗、铋、锑锭和镓六品种原委托受托业务中委托方无法按时还款收货构成实质性债权债务关系进行债务重组。</p>
-<p>对于债务重组，泛亚提供三种解决方案：1. 委托方将代持货物在交易所新系统现货盘面挂牌卖出，所得收益归资金受托方；2. 解除原委托受托协议关系，资金受托方将代持货物变为自有仓单，留存或提货3. 将代持货物注入信托公司的信托计划，由上市公司定向发行股票置换信托计划的货物，由委托方代持上市公司股票，指定受托方为股票唯一受益人，由受托方事先确定股票转让的条件，通过资本市场预期升值回收资金。</p>
-<p>据报道，目前上述方案正在面向交易所会员、授权服务机构、相关单位和社会征求意见中。泛亚初定于9月28日召开委托受托业务债务重组委员会工作会议，将邀请监管部门参加。</p>
-<p>关键词: 骗局 投资人 栏目: 时事见解 栏目重点发表: 栏目头条 作者: 慕小易</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E4%BA%9A%E6%97%81%E6%B0%8F%E9%AA%97%E5%B1%80%EF%BC%9A22%E4%B8%87%E6%8A%95%E8%B5%84%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%BD%93%E6%9C%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E9%A2%84%E6%9C%9F/?category=18271" rel="tag">市场预期</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/?category=18271" rel="tag">庞氏骗局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E4%BA%BA/?category=18271" rel="tag">投资人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E%E4%BA%A4%E6%98%93%E6%89%80/?category=18271" rel="tag">昆明泛亚有色金属交易所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%9B%E4%BA%9A/?category=18271" rel="tag">泛亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%AE%97/?category=18271" rel="tag">清算</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D/?category=18271" rel="tag">金融</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -781,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -791,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

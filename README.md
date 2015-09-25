@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%88%96%E5%B0%86%E4%BD%9C%E5%87%BA%E6%B0%94%E5%80%99%E6%94%BF%E7%AD%96%E6%89%BF%E8%AF%BA/" target="cdt-mirror">BBC | 习近平访美：中国或将作出气候政策承诺</a>
@@ -79,7 +79,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99/?category=18271" rel="tag">宗教;</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E6%9C%8D%E9%A5%B0/?category=18271" rel="tag">宗教服饰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E7%AB%AF%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极端主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B4%B9%E8%AF%B4%E6%96%B0%E8%AF%AD%E2%94%82%E7%BA%A2%E6%9C%9D%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%88%E4%B8%89%EF%BC%89/" target="cdt-mirror">费说新语│红朝见闻录（三）</a>
 </h2>
@@ -847,7 +847,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -857,5 +857,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

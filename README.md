@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E8%A3%85%E6%89%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E5%BD%A2%E8%B1%A1%EF%BC%9F-2/" target="cdt-mirror">端传媒 | 谁在装扮习近平的海外形象？</a>
+</h2>
+<p><p>端传媒记者 宋宁宇 发自香港</p>
+<p>“他好英俊”、“可爱的脸”，这些说的是谁？习近平访美期间，中国官方媒体忙着树立习的海外形象，但效果如何呢？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/06bc7fe7890c48eba54eb2231ad6919f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/06bc7fe7890c48eba54eb2231ad6919f.jpg" alt="China Watching Xi's Trip" width="550" height="366"></a><br>
+（习近平访问期间，白宫的前行政办大楼挂着美国和中国国旗。摄 : Andrew Harnik/AP）</p>
+<p>中国国家主席习近平还在美国展开任内第一次国是访问，中国官方宣传机构也马不停蹄的“造势”，塑造习近平的国际形象。不论是技术手段，还是宣传内容，跟以往相比都有相当的进步，但宣传效果如何仍是见仁见智。2008年开始，中国政府在对外宣传上投入数十亿美元的巨额经费，力图打造中国”软实力”。</p>
+<p>人民日报：做视频，赶图表，玩亲民</p>
+<p>就在习近平外访行程的第一天，中共党报人民日报海外版网页放出了第一个”大招”：A-Z: 26 keywords tell you who Xi Jinping is（A至Z：26个字母告诉你谁是习近平）。</p>
+<p>报导卡通图文结合，采取英文首字母解读关键词模式，从A-Annenberg Retreat（指习近平在2013年在安纳伯格庄园与美国总统奥巴马的庄园会），到Z-XIN（指习近平任浙江省委书记时曾在浙江日报旗下”之江新语”专栏发表短评232篇），用26个事实，向海外受众介绍“究竟谁是习近平”。</p>
+<p>惟报导文配漫画呆板，宣传内容也未必是海外观众所想了解的，传播效果并不理想。</p>
+<p>一招未完，续招又至。图文似乎并不过瘾，同一天，人民日报海外版再放出一段视频。</p>
+<p>视频中来自日本、韩国、喀麦隆、美国等国的在中国留学生，表达了对中国国家主席习近平的喜爱之情，片中他们采用了中国民间的叫法，将习近平称为“习大大”（Uncle Xi）。片中多次出现“他好英俊”、“可爱的脸（cute face）”、“睿智的领袖”等正面赞美的评论，并且有留学生说“似乎人人都喜爱他”、“太有魅力了”。一名韩国留学生甚至说，“如果我未来丈夫也像他一样的话，我会幸福”。</p>
+<p>不过这段官方宣传视频的宣传效果同样“惨不忍睹”，在被放上海外视频网站YOUTUBE三天后，视频获得近九万次点击，只有134人点赞（I like this），786人都表示不喜欢（I dislike this）。</p>
+<p>视频下的评论区更是负评如潮，评论的焦点是这些学生的表态究竟是否具有代表性。有人将这些学生称为“洋五毛”，也有人责问“这些人究竟收了多少钱才拍的这个视频”。</p>
+<p>获得赞赏最多的一条评论说，“这是我见过最愚蠢的视频”。</p>
+<p>而在对内宣传上，人民日报同样不遗余力，在习近平访美伊始，便在大陆微博上创立“跟着习大大去美国”的话题热门标签（hashtag），全称转载习近平的行程、书单等等内容。</p>
+<p>每条推文下的回复不算多，但不少人表示“对习大大充满信心”、“相信这次访问是两国元首的历史性会面”，更有人评论“大大是中国最帅美男子”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/39a0a4d8e2914099b849ab39e32e9307.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/39a0a4d8e2914099b849ab39e32e9307.jpg" alt="39a0a4d8e2914099b849ab39e32e9307" width="550" height="366"></a><br>
+（人民日报制作外国留学生看习近平影片《Who is Xi Dada》截图。）</p>
+<p>新华社：404 not found平台上的外宣</p>
+<p>作为喉舌的新华社同样不遑多让。在本次习近平外访行程内，专门创建NEW CHINA账号，在Twitter（推特）、Facebook（脸书）及Youtube上，全平台直播习近平的一举一动。这三个网站中国大陆均无法访问，点击后只会出现404 not found报错页面。</p>
+<p>习近平的所有公开活动，包括美国总统奥巴马为其举行的欢迎仪式，都可以在Youtube上的New China TV账号内观看视频直播。<br>
+账号内获得观看次数最多的一段视频，是习近平在西雅图的演讲，浏览量接近两万次，但评论数仅为“5”。一段来自外国观众的留言为，“我怀疑是不是部份美国人会睡”。两条来自同一个用户的中文评论则为“我们爱我们的主席！”、“中国牛”。</p>
+<p>国新办联手CNN，推广中国</p>
+<p>相比央媒的行动，国务院新闻办所采取的是更直接的方式：联合美国有线新闻网（CNN），配合习近平访美行程，在CNN各大平台上播放《中国，与你同行》（China：connecting with you）系列节目。</p>
+<p>在CNN中文微信公众号“特纳国际”发布的公开文章中，表示“该片的不同长度版本将在CNN美国本土频道、头条新闻频道、空港新闻频道、CNN欧洲频道和CNN亚洲频道以及纽约时代广场等平台高频次播出，让全球受众更直观感受到中国稳步发展对全球的不可或缺的贡献”。</p>
+<p>但在CNN官网上并未发现相关节目的链接，仅在不显眼处有一个关于节目的广告。点击广告，便会进入中国网的海外网址http://www.china.org.cn/。在这个网站上，同样可以找到外国留学生喜爱“习大大”等中国官方宣传视频。</p>
+<p>在Youtube网站上，包括新华社旗下NEW CHINA TV、人民日报等官媒账户均有上传这部节目，但最多也只浏览量破百，评论数为零。</p>
+<p>除了CNN这样的正牌“西方媒体”开始播放中国宣传片外，受年轻人喜爱的社交媒体平台Facebook上，也创建了一个叫做XI’S US VISIT（习近平访美）的主页，内容包括来自中国国际广播电台、新华社等央媒的照片、视频及文字，以及外媒对本次习近平访美的报导图片。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a06e1f26493041d587e1055b0fd3795c.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a06e1f26493041d587e1055b0fd3795c.jpg" alt="a06e1f26493041d587e1055b0fd3795c" width="550" height="237"></a></p>
+<p>（习近平访美面书专页截图。）</p>
+<p>这一平台为人所知，其实是得益于Facebook创始人扎克伯格的转发。他在个人主页上发布了与习近平握手的照片，并写到“你可以关注XI’S US VISIT这个主页，了解习主席访美的动态”。与习近平会面时，扎克伯格罕见的打上领带，并用中文向习近平问好。扎克伯格积极的举动，令外界推测与Facebook酝酿多年想要进入中国大陆市场有关。</p>
+<p>创建至今，XI’S US VISIT主页已经获得超过五十八万的点赞，超过二十八万的谈论人数。但同样，每条讯息的评论数不算多，但绝大多数属正面评论。在一张习近平与奥巴马的合照下，至今只有45条评论。将习近平比作维尼熊、奥巴马则为跳跳虎的“典故”再次被网友使用，一名网友留言，“维尼熊和跳跳虎，哈哈哈”（Winnie the Pooh and Tigger，lol！）。</p>
+<p>不止官方宣传机构借习外访的机会树立习近平个人以及中国的正面国际形象，来自中国大陆的企业也把握时机，包括知名饮料和白酒企业在内的五个中国品牌，联合斥资买下《纽约时报》24日的五个整版，刊登欢迎习近平访美的广告。广告上中美两国国旗飘扬，内文却使用了简体字，更像是给大陆中文阅读者看的。</p>
+<p>官方媒体《环球时报》评论此举为“中国品牌在全球顶尖媒体上的强势发声”、“已成为‘中国风’热潮的强有力体现”。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E8%A3%85%E6%89%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E5%BD%A2%E8%B1%A1%EF%BC%9F-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/youtube/?category=18271" rel="tag">youtube</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">对外宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%EF%BD%A5%E5%9C%9F%E8%B1%AA%E3%80%91%E3%80%8A%E7%BA%BD%E6%97%B6%E3%80%8B%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B9%BF%E5%91%8A%E8%8A%B1%E8%B4%B9%E6%88%96%E5%B0%86%E8%BF%91%E7%99%BE/" target="cdt-mirror">【真･土豪】《纽时》迎习近平访美广告花费或达百万美元(组图)</a>
 </h2>
 <p><p><strong>【编者注】<a href="http://qz.com/510874/chinese-companies-welcomed-xi-jinping-to-the-us-with-some-very-expensive-new-york-times-spreads/">根据Quartz推测</a>，在《纽约时报》上刊登类似下文这种整版广告的费用大约是$175,204／次</strong>（工作日全国版）<strong>。如果算上本月中旬<a href="http://news.qq.com/a/20150913/002648.htm">某中国书商砸下</a>的$75,600，中国<del>土豪</del>商人仅在《纽时》刊登欢迎习近平访美的广告费用就可能达到了$951,620。这近一百万美金换来的是5家企业<span>整齐划一</span>的欢迎辞：</strong></p>
@@ -771,49 +815,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%85%B1%E9%9C%80%E8%A6%81%E9%87%8D%E5%BB%BA%E5%90%88%E6%B3%95%E6%80%A7/" target="cdt-mirror">BBC | 吴祚来：中共需要重建合法性</a>
-</h2>
-<p><p><strong>当政党的合法性，其来源被认为是历史与人民的选择，与传统王朝被认为是天意的选择本质是一样的，就是一次被选择，永远可当政。历史的选择不等于现实的选择，人民的选择，不等于公民（通过选票） 的选择。</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150923091745_chinese_leaders_624x351_reuters.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150923091745_chinese_leaders_624x351_reuters.jpg" alt="当政党的合法性，其来源被认为是历史与人民的选择，与传统王朝被认为是天意的选择本质是一样的，就是一次被选择，永远可当政" width="624" height="351"></a><p>当政党的合法性，其来源被认为是历史与人民的选择，与传统王朝被认为是天意的选择本质是一样的，就是一次被选择，永远可当政</p></div>
-<p>中共的历史合法性，是被毛泽东一步步破坏的，邓小平只是在生活与生产领域有一定的修复，人民一日没有享有宪法保障的自由权，公民一日没有真正的选票，当政党就没有一日的合法性。</p>
-<p><strong>王岐山让中共合法性问题脱敏</strong></p>
-<p>为期3天的“2015中国共产党与世界对话会”9月9日开始在北京人民大会堂举行，在多达60位中国国（境）外的前政要及知名学者面前，王岐山提到了一个对中共而言堪称敏感的话题——中共执政合法性。</p>
-<p>王岐山指出，执政党的使命决定了必须从严治党，执政党对人民的承诺就是它的使命。要兑现承诺，执政党必须对自身严格要求。中国共产党的合法性源自于历史，是人心向背决定的，是人民的选择。办好中国的事情，就要看人民高兴不高兴、满意不满意、答应不答应。执政党代表人民、服务人民，就要确立核心价值观，坚守在行动上。</p>
-<p>尽管官方背景的“学习大国”对王岐山讲话作了独家解读，譬如，解读之时不忘提醒读者，王岐山所言的执政党的合法性，是指政治层面，与法律层面上的合法性是不同的。政治层面上的合法性，更多的是指当政者的正当性，中共是历史与人民的选择，中共打下了江山，因此有了正当性，也就是合法性。</p>
-<p>王岐山的讲话，除了让“中共合法性”这一话题脱敏，主体内容并无新意，仍然停留在中共打天下坐天下的逻辑里，这样的逻辑在党内或其控制的官场也许可以自圆其说，却与当代政治常识与社会逻辑相悖反。</p>
-<p><strong>王岐山没有触及问题的本质</strong></p>
-<p><strong>其一</strong>，这次会议名之为“2015中国共产党与世界对话会”，官方背景的微博“学习大国”的解释是，这样的对话意味着中共的开放性。</p>
-<p>在我看来，如果中共与世界有代表性的其它国家的当政党公开对话，并公开会议发言或对话内容，我相信这会是中共开放性的第一步，但中共纪委书记与有关中共部门物色的一些国际友人，假装成中共与世界对话，这样的会议是对话不如说是在演戏。</p>
-<p>中共领导人或王岐山书记也许不懂得什么叫开会，什么叫对话，什么叫做报告。记得上次王岐山书记在清华与福山等知名学者对话，实则是王岐山先生在做报告或讲演，其它人象征性的针对他的讲演发表一点看法，因为王岐山先生还有一份当年的学者情怀，所以愿意与学者进行所谓的“对话”，但由于王岐山位居中常委之位，所以参会者实则是听了王岐山书记的一场报告；这次所谓的对话还是一样，王岐山书记继续演绎一遍中共自说自话的党国逻辑，完全见不到其它人与之对话的内容，参会人员只是扮演了代表“全世界”的对话嘉宾，集体合作表演了一次中共与世界的对话的行为艺术。</p>
-<p><strong>其二</strong>：中共创造了一个概念，叫历史与人民的选择。我们知道，中国古代皇权创造了一个概念，叫天意：“天命玄鸟，降而生商”、“苍天已死、黄天当立”，与此“天命论”相对应的还有天谴论，以及皇帝的罪已诏。无形的天，被赋予人格神的力量，不仅主管着人间生老病死，而会操持朝代更替。</p>
-<p>共产党是无神论者，不再相信天意或老天爷对朝代更替的主宰，于是创造了历史与人民的选择这样一个宏大的概念。按照历史与人民的选择这一理论，我们要问的是：历史与人民的主体性如何体现？按照中共历史唯物主义解释，历史与人民选择了大秦，还选择了唐宋元明清，这种朝代兴亡的周期律，在延安时代毛泽东与黄炎培就谈到过，毛泽东当时的说法是，要摆脱这种朝代兴亡的周期律，只有通过民主的方式（中共在延安还有过用黄豆当选票，选举地方政府官员的民主实践），而对民主自由人权与宪政的认同与倡导，延安时代就有车载斗量的文章发表，笑蜀主编的《历史的先声》里，可以较完整地看到（有趣的是，中共中宣部却封杀了这本自己当年的声音，历史的承诺因此可以通过历史虚无主义方式，让公众忘却）。</p>
-<p>人民的民主，通过选票或普选方式，产生领导人，这是普世民主，后来，中共通过所谓的民主集中制，通过党领导一切，通过中组部选拔领导干部，将民主转变为党主，党领导民主，本质是党主导一切。党管干部，党管经济，党管文化教育，党管社会，中共承诺的民主联合政府、人民共和国的政治模式被一步步转换成一党极权政制，中共通过枪杆子，使历史与人民不可能进行现实的政治选择，党领导一切，连历史与人民都改由中共来主导。</p>
-<p><strong>其三</strong>：毛泽东有计划地破坏了中共应有或可以有的合法性，即便在传统皇权时代，皇帝打下天下之后，就由天道合法性，转入人道合法性，天道合法性，就是丛林法则，靠实力打出自己的天下，而人道的合法性，就是顺从民意，让民休养生息，尊重民意以顺应天意。</p>
-<p>而当代政治的合法性，则是通过战争夺取政权之后，实现宪政，还权于民。 1945年4月22日延安中共发表的《论联合政府》（毛泽东在中国共产党第七次全国代表大会上的政治报告）说得非常清楚，中共不搞一党专政：</p>
-<p>日本侵略者被打倒之后，在全部国土上进行自由的无拘束的选举，产生民主的国民大会，成立统一的正式的联合政府。没有人民的自由，就没有真正民选的国民大会，就没有真正民选的政府。－－－人民的言论、出版、集会、结社、思想、信仰和身体这几项自由，是最重要的自由。在中国只有解放区是彻底地实现了。 关于军队的国家化，毛泽东在《论联合政府》中也有具体论述：</p>
-<p>“军队是国家的”，非常之正确，世界上没有一个军队不是属于国家的。</p>
-<p>而关于人民的统一，毛泽东并没有强调当政党的领导，而是强调“自由”、“政治民主”对统一人民的价值基础：</p>
-<p>没有人民的自由，没有人民的民主政治，能够统一吗？有了这些，立刻就统一了。</p>
-<p>我们看到，毛泽东的中共在延安时代的价值追求，与当代公共知识分子的普世价值追求如出一辙。有人说，这是毛氏骗局，用欺骗的方式，谋取当时知识分子与国际社会的支持。如果视其为政治欺骗，整个中国知识界或中国人民只能自认上当，并承受相应的灾难。</p>
-<p>但我们如果将其看成历史的承诺呢？王岐山说，执政党的历史承诺是其政治使命，人心向背决定执政党的合法性。当时人心向背，是根据中共的政治价值追求，就像中国有权要求日本侵略者道歉一样，中国人民有权要求中共兑现历史的承诺。这历史的承诺，在毛泽东《论联合政府》里写得清楚明白。</p>
-<p>从上世纪五十年代开始，毛泽东的中央政府，背弃了自己庄严承诺，先是将联合政府变成党的政府，然后就是打击各民主党派与知识分子，没收或国有化各种商业资本，将农民土地公社化集体化，变相成为国有土地，将联合政府变成党的政府之后，又将党的天下，变成毛的天下，全国人民与军队，只热爱与效忠毛泽东。毛泽东一步步破坏了中共的历史合法性。</p>
-<p>如果毛泽东按自己的延安承诺，建政后实现军队国家化，土地私有化，言论结社信仰自由化，以及联合政府与真正的人大代表制度（政治宪政化），中国在当时就已然进入准宪政社会主义制度。</p>
-<p><strong>中共需要重建合法性</strong></p>
-<p>秦以降的中国史，没有很好重建合法性的，一是秦朝，得天下之后，没有还民以休养生息，其治不过二世；其次就是元朝，将汉人、南人贬为三四等国民，打天下统治天下者一直将自己视同征服者，国族和解与文化精神统一性，一直没有完成；与秦相对应的是汉朝，尽管汉初统治集团内也是刀光剑影血色宫廷，但黄老之治、与民休息，使其统治具备历史的合法性，与元对应的是清，大清尽管也有八旗制度，但对汉传统文化的尊崇，追求道义之治，包括族群和解，仍然有其可称道之处。</p>
-<p>中共政权在毛泽东治下，继承的是秦、元之治，打天下之后坐天下，坐天下，乱天下。通过无产阶级专政下继续革命，进行无休止的迫害与专政镇压，天道的合法性，没有在和平时代转化到人道的合法性，毛泽东之乱，直到邓小平时代才重建了生活与生产、市场领域的秩序，但邓小平一直到江泽民、胡锦涛时代，一直没有重建中共的政治合法性（当代政治意义上的合法性）。</p>
-<p>王岐山等中共精英们应该清楚，当代政治的合法性与传统统治的合法性不可同日而语，中共政权建政至今，甚至连传统社会的政治合法性标准都没有达到。传统王朝打天下符合天道，治天下，却转型到人道，当官为民做主，即为民主持正义，统治者与百姓共同遵守共同的道德标准，即仁义礼智信，当天下出现大的灾难（主要是自然灾难或异像），最高统治者会下罪已诏，反省自己的罪责。</p>
-<p>中共从毛泽东当政以来，一直超越于法律与道德之上，以伟大光荣正确自居，毛泽东走下了神坛，但中共没有走下神坛，一个没有走下神坛的当政党，怎么可能会有当代政治意义上的合法性？</p>
-<p>人民与历史的选择，代替不了现实与公民的选择，人民是一个宏大概念，人民只有手持选票，成为国家公民，选举自己的人大代表或议员，通过真正的民意代表，选举各级领导人，将历史的选择，转化为每四年或五年一次的现实的选择，中共才有可能重建自己的合法性，台湾国民党现在拥有执政党地位，不是历史与人民的选择结果，而是公民与现实选择的结果，国民党在台湾的执政，是重建合法性的结果。</p>
-<p>在谈到中共合法性之时，王岐山点到了历史与政治承诺这样的话题，无论是个人还是政党，在社会生活领域与政治舞台上，都要面对自己的历史承诺，兑现或追求实现自己的曾经的政治承诺，也体现其政治合法性。中共一时无法兑现实现共产主义的远大目标，但完全可以兑现延安承诺，追求延安价值。</p>
-<p>中共的政治合法性重建，必须要做到，天道的合法性，转型到人道的合法性，历史的选择，要转型为现实的选择（每四年或五年有一次大选），人民的选择，转型到公民的选择，专政之治，要转型到宪政之治，即党主社会要转型到民主社会。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%85%B1%E9%9C%80%E8%A6%81%E9%87%8D%E5%BB%BA%E5%90%88%E6%B3%95%E6%80%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/?category=18271" rel="tag">一党专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">中共历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">党的领导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E5%9B%BD%E5%AE%B6%E5%8C%96/?category=18271" rel="tag">军队国家化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0/?category=18271" rel="tag">历史的先声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">历史虚无主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%91%BD/?category=18271" rel="tag">天命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">政治合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">无产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">民主政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -825,7 +826,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -835,5 +836,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

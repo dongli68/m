@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B2%88%E5%A4%A7%E4%BC%9F%EF%BC%9A%E4%BB%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E8%A7%82%E5%AF%9F%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%9A%84%E5%8D%81%E5%A4%A7%E6%8C%87%E6%A0%87/" target="cdt-mirror">沈大伟：从习近平访美观察中美关系的十大指标</a>
@@ -788,5 +788,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

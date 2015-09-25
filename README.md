@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,98 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%88%96%E5%B0%86%E4%BD%9C%E5%87%BA%E6%B0%94%E5%80%99%E6%94%BF%E7%AD%96%E6%89%BF%E8%AF%BA/" target="cdt-mirror">BBC | 习近平访美：中国或将作出气候政策承诺</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150925074255_xi_zuckerberg_640x360_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150925074255_xi_zuckerberg_640x360_afp_nocredit.jpg" alt="习近平与中国大陆封禁的Facebook网站创始人马克·扎克伯格会面。" width="450" height="253"></a><p>习近平与中国大陆封禁的Facebook网站创始人马克·扎克伯格会面。</p></div>
+<p><strong>据白宫官员透露，中国国家主席习近平将会就气候变化和有害气体减排等问题作出里程碑式的承诺。</strong></p>
+<p>这一举动发生在习近平抵达华盛顿开始一周访美行程第二站之后。</p>
+<p>周四（9月24日）晚上，习近平与美国总统奥巴马在白宫进行了非正式会谈，他们在那里讨论了伊朗核问题。</p>
+<p>习近平此次对美国的国事访问，被两国网络安全问题上的分歧所笼罩。</p>
+<p>周五（9月25日），第一次国事访问美国的习近平将在白宫受到国宴招待，东道主将为他鸣放21响礼炮。</p>
+<p>一名白宫官员告诉记者，习近平会在周五宣布计划，将在2017年启动全国碳排放交易方案。</p>
+<p>这个“限制与交易”（cap-and-trade）方案将会对污染物排放超过某个等级的中国企业进行处罚。</p>
+<p>美联社引述该名官员指，中国还会作出一个“非常巨额的财政承诺”，帮助发展中国家进行向低污染技术的转移。</p>
+<p>中美两国在2014年就已经就气候问题提出了一个联合方案。</p>
+<p>当时，奥巴马定下新目标，至2025年要让美国的碳排放量比2005年降低26%－28%，中国虽然没有定下具体目标，但表示其碳排放量会在2030年达到峰值。</p>
+<p>两国的碳排放量合共占全世界总量的45%。</p>
+<p>今年稍后，联合国将在巴黎举行一次重要的气候会议；在该会议前作出这样的宣布，是习近平访美之行期望中的少数突破性进展之一。</p>
+<p>在一些双方有争议的问题上，比如网络安全，中国东海和南海区域的领土主张等，可期待的进展则并不多。</p>
+<ul><li><a href="http://www.bbc.com/zhongwen/simp/china/2015/09/150925_china_xi_washington_diplomacy_summit">迎接习近平的三位旗手</a>：BBC中文网驻华盛顿特约记者雷旋采访了在华盛顿欢迎习近平车队的其中三位高举大旗的旗手，他们举的分别是北京大学的旗帜，中国国旗和美国国旗。</li>
+<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150924_us_xi_banquest_leixuan">习奥会国宴细节</a>：BBC中文网驻华盛顿特约记者雷旋披露习奥会国宴细节。他说国宴布置的粉色色调来自美国第一夫人米歇尔·奥巴马的概念。</li>
+<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150925_ana_china_xi_us">政治挑战</a>：BBC中文网记者蒙克分析习近平访美经贸之旅及政治挑战。</li>
+<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150924_ana_china_us_cyber-suspicion">黑客攻击疑云</a>：BBC安全事务记者戈登·科雷拉（Gordon Corera）分析说，网络安全曾经是个晦涩模糊的问题，但现在它已经处在中美关系的核心位置。</li>
+<li><strong><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150923_us_china_temsel">谁主浮沉</a>：</strong>BBC中文网记者蒙克观察习近平出席西雅图商界领袖峰会。</li>
+<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150923_letter_liuxiaobo">联署信</a>：包括南非的图图大主教、流亡西藏精神领袖达赖喇嘛在内的12名诺贝尔和平奖得主联署公开信，要求中国释放刘晓波。</li>
+<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150923_gal_china_usa_visit_history">牛仔帽与吉他</a>：盘点历届中国领导人访美。</li>
+<li><a href="http://www.bbc.com/zhongwen/simp/indepth/2015/09/150922_blog_china_us_new_model">新模式</a>：BBC中国总编辑凯瑞（Carrie Gracie）看习近平要建立的中美“新兴大国关系”会是什么模样。</li>
+<li><a href="http://www.bbc.com/zhongwen/simp/uk_study/2015/09/150917_trailer_google_hangout">专家讨论</a>：BBC中文网邀请嘉宾一同谷歌环聊，前瞻习近平访美能否缓和中美关系。</li>
+</ul><p>在抵达华盛顿之前，习近平已经访问了西雅图。他在那里与一众商界和科技界领袖会面，并承诺将加强知识产权保护，为外商在中国投资扫清障碍。</p>
+<p>最近，美国指控中国政府在幕后对美国政府数据库进行了资料盗窃，并且对私人企业进行了攻击，而奥巴马也表示，这些问题有可能“极大地束缚”两国重要关系发展。</p>
+<p>在西雅图，习近平表示中国“坚决捍卫网络安全”，并且是“网络攻击的受害者”，他承诺愿与美国合作应对这一问题。</p>
+<p>白宫发言人乔什·欧内斯特（John Earnest）在周四告诉记者说：“我们更着眼于他们的行动，而不是言语。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%88%96%E5%B0%86%E4%BD%9C%E5%87%BA%E6%B0%94%E5%80%99%E6%94%BF%E7%AD%96%E6%89%BF%E8%AF%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B8%E7%89%8C%E5%B1%8B/?category=18271" rel="tag">纸牌屋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 21分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E7%96%86%E7%99%BD%E7%9A%AE%E4%B9%A6-%E4%B8%A5%E6%83%A9%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E7%8A%AF%E7%BD%AA/" target="cdt-mirror">美国之音 | 国新办新疆白皮书 严惩暴力恐怖犯罪</a>
+</h2>
+<p><p>北京—中国新疆将从9月25日开始举行各种活动，庆祝自治区成立六十周年。国务院新闻办在北京举行新闻发布会，公布了《新疆各民族平等团结发展的历史见证》的白皮书。新疆自治区主席雪克来提·扎克尔在发布会上称，今天的新疆“是经济社会发展最好最快的时期之一。然而，新疆的暴恐事件以及民族宗教矛盾，仍然引发了与会记者的关注。</p>
+<p>新疆自治区政府雪克来提·扎克尔眼中的新疆，是一个稳定，团结，和谐，人民安居乐业的天堂。</p>
+<p>雪克来提·扎克尔在发布会上说：“新疆尊重和保护新疆宗教信仰自由，信教和不信教的公民以及信仰不同宗教公民相互尊重和理解，新疆各宗教迎来和谐共处的新的历史阶段。”</p>
+<p>不过，新疆地区时有发生的暴力恐怖事件仍然提醒人们，这里暗流汹涌，暴恐事件活跃多发，宗教、文化、和民族问题，以及南疆和北疆的地区差距和贫富差距，仍然是新疆面临的严峻挑战。</p>
+<p>极端服饰</p>
+<p>新疆维吾尔自治区党委常委肖开提·依明在9月24号举行的新闻发布会上，回答了记者提出的有关新疆自治区政府禁止党员干部和教师学生信仰宗教，禁止少数民族穿蒙面罩袍，留大胡须是否干涉了公民的宗教信仰自由问题。肖开提·依明称，蒙面罩袍是极端分子的服饰，只有落后民族才穿这种只能露出两个眼睛的服装。</p>
+<p>肖开提·依明说：“蒙面罩袍不是少数民族的传统服饰，也不是穆斯林或者其他阿拉伯国家的服装，它是地地道道的一个极端的服饰。穿这个服饰的背后多少都有这样那样的一些问题，甚至于把女人的蒙面罩袍男人穿，拐卖小孩的问题等等，把自己伪装，穿着蒙面罩袍就看不出来，我认为作为一个民族，两个眼睛全部蒙上以后，我觉得这个民族的的确确是一个落后的，我们维吾尔族人也不愿意看到妇女同志穿这种服饰，比如有好多妇女还要工作，有好多妇女还要与社会进行接触，在这个问题上我们坚决是不会答应的。”</p>
+<p>由政府出面规定少数民族穿什么服装、留什么胡须的做法，说明中国的少数民族政策仍然需要检讨和审视。有媒体报道说，由于新疆人和西藏人的面孔和汉人不一样，他们在安全检查时会受到特别关注，有的旅店甚至禁止新疆人住宿。伦敦《金融时报》援引暨南大学教授姚新勇的文章说，维吾尔人是有信仰且家族关系紧密的民族，所以他们更富于团结和反抗性。而政府及相关部门在宣传教育、执法检查、办理有关事项时，方式方法上的简单、粗暴，也会让少数民族同胞的自尊深受伤害。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E7%96%86%E7%99%BD%E7%9A%AE%E4%B9%A6-%E4%B8%A5%E6%83%A9%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E7%8A%AF%E7%BD%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99/?category=18271" rel="tag">宗教;</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E6%9C%8D%E9%A5%B0/?category=18271" rel="tag">宗教服饰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E7%AB%AF%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极端主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B4%B9%E8%AF%B4%E6%96%B0%E8%AF%AD%E2%94%82%E7%BA%A2%E6%9C%9D%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%88%E4%B8%89%EF%BC%89/" target="cdt-mirror">费说新语│红朝见闻录（三）</a>
+</h2>
+<p><p><strong>【众鸟欣有托】</strong></p>
+<p>1.己卯初夏，侍大丰朱先生杖履游阳羡，适为大水所阻，雨飞花谢，杜门而居，百无聊赖，竟至勾留旬日。其间幸得程姓老板诣门，力邀去其新开桑拿馆以遣羁旅闷烦。沐浴罢，程老板导之入一净室，居中一大案，八尺红星宣平展展铺开，笔墨妥妥地准备停当。大丰真解人，援笔力书“众鸟欣有托”五个大字付之。</p>
+<p><strong>【南方女孩水灵】</strong></p>
+<p>2.得过市委宣传部“五个一工程奖”的某女作家，出差北京归来。茶馆中听她讲北京见闻，说在北京认识一位中国作协驻会老作家（男的），拉着她的手说：“南方的女孩啊，就是不一样，看这皮肤多嫩，多水灵。”我不禁好奇地问了句：“你今年几岁?”她说：“还有三个月五十二。”我看了眼坐在一边的肖老师，发现他正低着头在笑。</p>
+<p><strong>【我们文化人】</strong></p>
+<p>3.与友人坐茶馆一角喝茶闲聊，突然店中老板老板娘迎宾小姐急哄哄窜将出去，迎进七八个貌似兰亭诸贤，轻裾白祫，飘忽暇逸，迥乎不凡者。老板连声不停地说：“贵客光临，荣幸！荣幸！”迎到中间大桌坐定。认出贵客乃本地文联主席和一干文人，主席说：“你们这家茶馆很好，装修高雅，非常适合我们这些文化人来坐坐。”</p>
+<p>老板老板娘正欣喜不已，我一朋友听了触气，走过去对主席说：“文化人岂可自称？我是生意人，如果我说这个茶馆装修豪华，非常适合我们有钱人常来坐坐，大家会作何看?”主席大窘，老板急打圆场，我劝道：“此为霜钟一杵，禅榻一棒，以申儆惕罢了，是帮他。”可叹这帮酸人，七八年过去也没见丝毫警醒。</p>
+<p><strong>【一轮明月照姑苏】</strong></p>
+<p>4.一村妇见城里人隆胸，仿效之，结果把相好的男人吓得半死，乃此妇不是隆大乳房，而是隆大了乳头。</p>
+<p>八十年代初一保定大爷去北京看儿子，上公交车，因为人多，车门夹了大爷的屁股，大爷狂呼：“夹住腚了，夹住腚了！”一车人哄笑。儿子对爹说：“城里人管腚不叫腚，叫屁股。”售票员过来卖票，问大爷：“去哪？”大爷马上答：“安屁股门。”</p>
+<p>一官员见某秀才诗中有句曰“一轮明月照姑苏”，大呼不通，遂援笔加“等地”二字。</p>
+<p>多年来观地方官员主政，大致上不脱这三种范畴。</p>
+<p><strong>【没人要我的命】</strong></p>
+<p>5.女性一文艺，往往兼修丁玲之乱和三毛之作。每天在朋友圈展示二三十遍爱情，去趟欧洲，祖籍便搬到了西班牙；去趟北美，邻居都在曼哈顿。终于有一天，梦醒发了条微信：“我要为爱而死，却没有人要我的命。”卧槽！也太悲惨了。</p>
+<p><strong>【鹅主席】</strong></p>
+<p>6.攀附之风，书画圈尤烈。王伯敏一生攀附黄宾虹。“一粟山房”父子攀附徐邦达。写书法的，攀附启功先生者成群结串。窃以为，下届中国书协改选，鹅是最合适的主席禽选。鹅的祖上，深得书圣王右军激赏。论渊源，鹅家学有自，当主席，没有人比它更有资格的了。</p>
+<p><strong>【有酒当饮 无孔不入】</strong></p>
+<p>7.友人庄上明瓒上人，俗姓张，名永强。少时秉性不羁，楚馆秦楼，一路挥霍，号称“有酒当饮，无孔不入”。八桂陈先生为加二字曰：“有酒当永饮，无孔不强入。”浑然天成一副嵌名联。</p>
+<p><strong>【末技毁三观】</strong></p>
+<p>8.在众多的技艺里，学了以后会让人表现得三观尽毁，好恶不分，迂腐莫名，甚至不懂礼貌，没有家教，并且产生奇怪的优越感，书法是最典型的。更有趣的是，这些优越感爆棚的人基本上没有人通过书法这种末技对社会有任何贡献，但这不妨碍他们仍表现得好像他们才是拯救传统文化的唯一希望。</p>
+<p>人类社会的发展史不外乎一部美学史。无论生活，志趣，乃至制度。书法创作是一个不断提高的审美过程，精深可以超超独先，平淡使得人人领解，此中消息，似乎口不能言。</p>
+<p>前人论诗：“诗题洁，用韵响，便是半个诗人。”书法也一样，内心干净，堂正，即便信手任心，也能形端容洁。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B4%B9%E8%AF%B4%E6%96%B0%E8%AF%AD%E2%94%82%E7%BA%A2%E6%9C%9D%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%88%E4%B8%89%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9D%E8%8C%B6/?category=18271" rel="tag">喝茶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E5%AE%98%E5%91%98/?category=18271" rel="tag">地方官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%9C%9D%E8%A7%81%E9%97%BB%E5%BD%95/?category=18271" rel="tag">红朝见闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B9%E8%AF%B4%E6%96%B0%E8%AF%AD/?category=18271" rel="tag">费说新语</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%9F%B3%E6%89%89%E5%AE%A2%EF%BC%9A%E6%88%91%E5%9C%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%A9%B6%E7%AB%9F%E8%AF%B4%E4%BA%86%E5%95%A5%EF%BC%9F/" target="cdt-mirror">石扉客：我在人大会上究竟说了啥？</a>
 </h2>
 <p><p><strong>原标题：自甘抛砖引玉，自当无怨无悔——我在人大会上究竟说了啥？</strong></p>
@@ -747,99 +836,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E6%AC%BA%E9%AA%97%E4%B8%AD/" target="cdt-mirror">【异闻观止】环球时报：共产主义理想没有欺骗中国</a>
-</h2>
-<p><p>“共产主义”近来成了舆论场的热词。一些报章响应党的正式论述，发表了关于为共产主义长远目标奋斗的文章。网上有些大V则对“共产主义的说教”冷嘲热讽，有的甚至宣称自己被共产主义口号“骗了十几年”。这样的争论在中国社会泛起，并不在意料之外。</p>
-<p>改革开放以来，共产主义不再是中国报章和人们口中的热门口号。中共强调国家将长期处于“社会主义初级阶段”，制定了以经济建设为中心的国家路线，为实现社会进步开展了脚踏实地的工作。但党的长远目标没有变，中国实际上进入用积累社会主义初级阶段成果向长远发展目标慢慢靠近的可持续模式。</p>
-<p>共产主义不再是口头禅，但它作为高远追求，仍在社会的前方。我们低头拉车，但也要抬头看路，巩固全社会的政治信念，否则社会就缺少凝聚力，也会迷路。实际上中国的民生越做越好，但恰恰是思想上比较乱，西方的那套要改变中国方向的激进主张回流进我们的社会，被一些人指称为中国应有的国家理想。</p>
-<p>客观说，这是社会不同选择和不同道路的根本探讨，这种探讨正逐渐积累深远的影响。</p>
-<p>中国没有经历发达的资本主义社会阶段，资本主义的表象因此对一些人有吸引力，是可以理解的。但是资本主义不是人类社会的终结阶段，马克思早就论述了共产主义的远景，这代表了人类的长远追求和胸怀。尽管苏联式社会主义运动在创造成就的同时也曾出现偏差，但如果人类因苏联和东欧的挫折就此放弃追求，相信资本主义就是历史的终结，那将是莫大悲哀。</p>
-<p>当年在中国跌到谷底、试尽各种出路而不成的情况下，人们受到共产主义理想的召唤。这一理想先是鼓舞了无数中华儿女抛头颅、洒热血，建立了新中国。然后它又作为社会理想经受了考验。中国人民在西方列强面前站起来，中国成为世界第二大经济体，都是中国勇敢面对复杂实践的收获。</p>
-<p>因此可以毫无愧色地说，共产主义带给中国社会的正面精神力量事实上远大于我们对它不成熟认识导致的那些后果。十月革命一声炮响给中国送来了共产主义学说，近一个世纪后回首，它没有辜负我们这个民族。</p>
-<p>共产主义当然不是应当无限消费的口号，我们有很多现实而迫切的任务，然而完成这些任务与实现共产主义长远目标的辩证关系却是牢固的。我们不能只谈共产主义理想而漠视当前的尖锐问题，也不能因为买到了假货或是遇到个腐败的坏领导，就认定共产主义理想是“扯淡”。</p>
-<p>中国需要弘扬共产主义理想，并且不断根据社会的实际情况开展工作，以普通民众能够理解的方式谈论全人类的这一美好愿景。不能不说，在西方政治观念的渗透有所扩散的时候，坚持在中国社会这样做并收获实效，是一项长期的挑战。如果各级思想政治工作者以为只要他们呼喊了共产主义口号，就完成了他们的使命，那将是极大的误解。</p>
-<p>有共产主义理想的中国社会，肯定更有凝聚力，也更加积极向上。然而让这一远大理想真正扎根于社会，成为中国参与国际竞争的一大坚实条件，又是不那么容易的事。对此我们要有客观、求是的认识。</p>
-<p>社会名人以国家的现实问题为噱头攻击共产主义理想，是非常无聊的行为。中国要解决问题，致力于实现阶段性目标，但与此同时，这个国家决不可成为面对大历史的精神流浪儿。共产主义是中国社会的集体信念，信念的含义就是它不会因为一时的困难和挫折动摇。而已经度过了最困难时期的中国，尤其应在基础信念上坚定不移。脚踏实地就是向理想的迈进。</p>
-<p>——————————————————————————</p>
-<p>环球时报总编辑胡锡进今天首次用自拍微视频，解读由他本人执笔的环球时报社评“共产主义理想没有欺骗中国”。胡锡进既是环球时报总编辑，也是环球时报社评和署名“单仁平”时政评论的作者。</p>
-<p>视频<a href="http://t.cn/Ry67ju1" target="_blank">地址</a></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E6%AC%BA%E9%AA%97%E4%B8%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E4%BB%81%E5%B9%B3/?category=18271" rel="tag">单仁平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2-2/?category=18271" rel="tag">异闻观止</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%90%E9%9D%99%E6%B3%A2-%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%8B%8D%E6%91%84%E7%9A%84%E4%B8%AD%E6%97%A5%E6%8A%97%E6%88%98%E7%89%87%E4%BB%A4%E4%BA%BA%E6%83%8A%E8%AE%B6/" target="cdt-mirror">徐静波: 日本人拍摄的中日抗战片令人惊讶</a>
-</h2>
-<p><p>这几天，日本有一部电视剧让许多人流了眼泪，它的剧名叫《レッドクロス～女たちの赤紙～》，译成中文的话，便是“红十字～女人们的红纸信～”。</p>
-<p>这是一部描写日本年轻女性参加红十字会，作为护士来到中国的东北地区（满洲国），从一名日本陆军医院护士，变成中国人民解放军战士的电视剧，期间，穿插了感天动地的家族的爱和人性的爱，更描绘了战争的残酷与悲惨。</p>
-<p>因为TBS电视台是将它作为台庆60周年的特别作品推出，更因为故事发生在中国，又巧遇战后70周年这一重要时期，因此，我早早地守候在电视机旁，连看了2夜——上集2小时，下集2小时。除了故事情节，我更关心的是，日本人如何拍摄这一部“抗战片”？</p>
-<p>先让我来给大家介绍一下故事情节：</p>
-<p>1931年，日本佐贺县的一户农家，有一位漂亮的女儿，名叫“天野希代”（松岛菜菜子饰演）。母亲住院时，希代看到悉心照顾母亲的护士，发誓也要当护士。于是主动向政府提出了成为从军护士的要求。很快，她收到了一张红纸信，那是一份“战时召集状”。于是，希代告别了爷爷和母亲，坐火车离开了家乡。临别时，爷爷跟她说了一句话：“无论是日本人，还是中国人，大家都是人。”</p>
-<p>经过短暂的训练后，希代和护士们坐船来到了中国黑龙江，成为日军“佳木斯陆军医院”的护士。在那里，她遇到了医术高超为人善良的军医大竹英世（由日本著名影人笑福亭鹤瓶饰演）和残暴蛮狠的“帝国军人”——医院部队长，目睹了部队长殴打军医，凶残对待日军伤员的暴行，她觉得这种暴行有违红十字的“博爱”的基本精神，因此与部队长进行抗争，也遭到了殴打。</p>
-<p>有一天，日本满洲开拓团青年中川亘（西岛秀俊饰演）开着卡车送来一位男子，要求医院给他治疗枪伤。当大竹军医得知这名男子是中国人时，开始犹豫。</p>
-<p>但是希代觉得救死扶伤应不分国籍，最终说服了大竹军医和护士们保密，秘密让这位中国男子冒充日本人住院接受了治疗。但是这名中国男子出院后又参与袭击日本人的行动，最终被日本兵打伤在医院门口，结果其秘密住院的事情被部队长发现。这名部队长召集众人，挥刀砍死了这名抗日联军队员。</p>
-<p>虽然经历了诸多的苦难，但是希代爱上了正直的中川。</p>
-<p>不久，希代和姐妹们结束了战地医院的工作，被送回日本。佐贺县政府为她们举行了隆重的欢迎仪式，但是，希代心情很沉重，她忘不了那痛苦的一幕幕，也忘不了中川。</p>
-<p>于是，希代说服了爷爷和母亲，独身一人坐船坐火车再次回到佳木斯，决定嫁给中川，一起种田持家。</p>
-<p>一年后，希代与中川有了自己的儿子——中川博人，看着孩子一天天长大，希代满心欢喜。但是有一天，儿子突然高烧，希代急忙把他送到了陆军医院，并见到了以往的同事。大竹军医发现孩子感染了病毒，必须注射青霉素，而这种药只有哈尔滨陆军总医院才有。女护士马渕春（高梨临饰演）自告奋勇连夜赶往哈尔滨取药，终于救回了小孩一命。</p>
-<p>因为儿子获救，因为“九一八事变”后伤员也出现了大增，希代在丈夫的理解和支持下，与儿子别离，一人赶到佳木斯，重新穿上了白大褂。</p>
-<p>临别时，希代把自己做的一只老虎香囊送给了儿子，没有想到儿子在中国人长工的帮助下也做了同样一个老虎香囊回赠给妈妈，香囊成了母子俩的“信物”。</p>
-<p>日军在东北的战况越来越吃紧。终于有一天，中川也接到了参军出征命令。中川在无可奈何之下，只好将儿子交给了自己的兄弟中川光（赤井英和饰演）和嫂子，也来不及通知妻子就赶往前线。</p>
-<p>没过几天，佳木斯陆军医院送来一批伤员，希代和护士们把伤员们一一抬下车，送进医院。但是发现车上还有一位两腿和一只胳膊被砸断的伤员。押车的日本兵说这个人没救了，准备把他扔到野外去。但是希代觉得不能这样做，于是坚持把他抬下来。当希代把这名严重伤残的士兵抬进医院后，忽然听到背后有人轻声地呼唤着自己的名字。希代一惊，发现这声音来自于自己抬着的伤员，于是连忙把他放下，发现居然是自己的丈夫中川。中川在说出最后几句话后闭上了眼睛。</p>
-<p>苏联红军已经开始进攻佳木斯。希代惦记着孩子，于是背上丈夫的骨灰，匆匆忙忙赶回家。没想到刚好遇上苏联红军进村抓女人。她在中国人管家的帮助下躲过了苏联红军，并把儿子和侄子一起送上前往哈尔滨的逃难火车，母子从此别离。在火车开动后，苏联红军炮击了车站，中国人管家为了救希代而遇难。</p>
-<p>当希代重新回到医院后，发现医院里不仅挤满了伤员，还有各地逃难来的日本妇女和孩子。正当他们为如何安置这么多人发愁时，听到了苏联红军的坦克声。希代带着护士和妇女孩子们躲入地下室。大胡子苏联军官宣布接管医院，并要求日本军医沟口少佐交出护士。但是沟口坚称医院里没有女人。</p>
-<p>正当苏联军官折磨沟口时，躲在地下室的一名女孩吐血，而且必须动手术。希代于是爬出地下室，准备潜入手术室拿药物器具时，被大胡子军官发现，于是地下室的秘密被曝光，漂亮的女护士马渕春被大胡子抓走，遭受了强暴。第二天，马渕春被扔到医院门口时，已经奄奄一息，躺在希代的怀里痛苦，而周边的苏联坦克兵在一起哄笑。</p>
-<p>苏联红军突然撤了，正当大家感到终于自由时，一支解放军部队接管了医院。一部分伤员和妇女以为解放军也会蹂躏他（她）们，纷纷剖腹自尽。当最后一批护士和妇女孩子躲在地下室内准备自杀时，解放军接管干部王江明制止了她们，并告诉她们：“共产党是解救人类的部队，不会伤害你们，因为你们也是战争的受害者。”但是，王江明同时要求：“我们已经是同志，要一起参加解放全人类的战斗。所以，其他人可以离开，但医护人员要参加解放军，这是条件。”</p>
-<p>“为了能够活下去”，希代带头穿上了解放军军服。于是医院里的所有军医和护士都变成了解放军战士。</p>
-<p>当他们跟随解放军转战了半个中国，重新回到佳木斯后，毛主席宣布打败了国民党军队，中华人民共和国诞生。正当她们感觉到终于可以脱下解放军军装回日本时，朝鲜战争（抗美援朝）爆发了。于是她们又变成了延吉志愿军野战医院的护士。</p>
-<p>妈妈成了解放军战士，但是儿子和他的堂哥却被日本人人贩子诱拐，拉到了市场上拍卖。正当命运处于危机关头，一位姓杨的中国人财主出4百大洋把兄弟俩买下。这位财主原来是博人父亲的好朋友。为了避免因为日本人而遭到伤害，杨财主给两个孩子取了中国名，博人改名“杨希邦”。但是不久，土改开始了，杨财主遭到镇压。为了避免孩子受到牵累，管家叫杨希邦和堂哥逃跑。所以，当希代好不容易找到杨家时，儿子已经不见了踪影。</p>
-<p>当兄弟俩再度流落街头时，遇到了一名中国妇女，说到她家可以管吃管住。没想到去了那里竟然被下到煤矿挖煤。而这位老板娘因为自己的儿子被日本人杀害，因此对这两个“小日本鬼子”充满仇恨，经常殴打他们。最后，堂哥挥起镰刀奋起反抗，并叫弟弟快跑。于是只有杨希邦一人逃出了煤矿。</p>
-<p>杨希邦相信母亲一定爱着他，于是一家一家地找解放军医院。结果找到一家大医院时，被一名解放军军官吕建军（旅日中国人影星黄实饰演）逮住。见孩子3天没有吃东西，吕建军把他带到厨房，给他吃了一个饱饭，并希望他参加解放军当少年兵。于是，无处可去的杨希邦就成了解放军少年兵，而且因为会包扎伤口，成了一名卫生兵。但是他从此也认为，母亲抛弃了他。</p>
-<p>不久，15岁的杨希邦跟随志愿军部队参加了朝鲜战争。在一次战斗中，阵地上只剩下吕建军和杨希邦等3人，而美军又发动攻击时，吕建军叫杨希邦先撤离阵地，自己和另一名战士为他掩护。可是，杨希邦在撤离途中被美军炸弹炸伤，成了俘虏。</p>
-<p>1953年，解放军军官王江明突然召集日本人护士和军医，宣布他们可以立即回国。希代在寻找儿子无望的情况下选择了回国。而坚信毛泽东思想的马渕春，宣布留在中国，并与王江明结了婚。</p>
-<p>希代回到佐贺县老家时，警察认为她当过中国共产党部队的兵，因此把她带到警察局进行了审讯。不久，因为从朝鲜战场上运下来的伤员太多，急需要护士，希代又再次成了佐贺红十字医院的护士。</p>
-<p>有一天，美国军官告诉她，将会有一批中国人俘虏前来治伤。希代遇到了一名18岁的少年俘虏，怎么感觉到有一种莫名其妙的亲近感。终于在这名少年俘虏被决定遣送回中国时，看到了他脖子上挂着的一只老虎香囊。</p>
-<p>别离这么多年，在自己的祖国母子终于相聚，但是，却又是别离时。泪水中挥手，从此又隔天涯。</p>
-<p>电视剧在这里戛然而止。</p>
-<p>（注：因为只看了一遍，个别故事情节可能记忆有误，请网友们谅解。）</p>
-<p>这一部电视剧先后拍摄了3个月，其中一个月是在中国黑龙江省拍摄的。演员阵容是一流的，演技十分出色。担任这部电视剧的导演是福泽克雄（52岁），许多人可能并不了解他。去年，他导演的电视剧《半泽直树》曾轰动海内外，是日本当今最新锐的导演之一。</p>
-<p>这一部电视剧想告诉人们什么？福泽说，他只想告诉大家，战争是残酷的，它会剥夺许多人的爱。但是，红十字的博爱精神却又是无国界的，救死扶伤不分国籍。他希望这一部电视剧能够成为继《大地之子》之后，又一部描述中日两国人性之美的电视剧。</p>
-<p>电视剧中扮演解放军军官吕建军的黄实先生，是我的好朋友。在电视剧播完后，我和他聊了拍摄感受。</p>
-<p>黄实先生是宋代诗人、大书法家黄庭坚的第32代直系。1974年，11岁的黄实就参加了解放军，是解放军艺术学院的“少年兵”。1979年对越自卫反击战时，他上了前线，经历了残酷是实战。1990赴日留学，参加过NHK的《大地之子》的拍摄。曾与王祖贤联袂主演《北京原人》、与成龙、范冰冰一起主演《新宿事件》等电影，是旅日华人中最为出色的影人和艺术家。</p>
-<p>导演福泽找到黄实时，只对他说了一句话：“你演过《大地之子》，这次请再演一次。”</p>
-<p>谈到《红十字～女人们的红纸信～》这一部电视剧时，黄实先生说，有些细节从我们中国人的视角来看，认识可能会有些不同。但是，这一部电视剧最为感人的是，它宣扬了一种爱——家人的爱，人性的爱，跨越国界的一种博爱，还有一种人道主义的精神。中国人救过日本人，而日本军医和护士也救过不少解放军。这一段历史是中日两国人民爱的佳话。当我们在感受这一种爱的同时，对于战争又会有一种深刻的反思，会觉得，拥有和平生活比什么都重要。</p>
-<p>这一篇博客从凌晨1时，一直写到清晨5时半。我只想告诉大家：中日抗战片，从爱的角度展开描述，也是一种不错的手法。有机会的话，请大家看一看。你不一定会流泪，但是一定会感动。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%90%E9%9D%99%E6%B3%A2-%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%8B%8D%E6%91%84%E7%9A%84%E4%B8%AD%E6%97%A5%E6%8A%97%E6%88%98%E7%89%87%E4%BB%A4%E4%BA%BA%E6%83%8A%E8%AE%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/nhk/?category=18271" rel="tag">NHK</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98/?category=18271" rel="tag">抗战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5/?category=18271" rel="tag">抗日</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC%E9%AC%BC%E5%AD%90/?category=18271" rel="tag">日本鬼子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A/?category=18271" rel="tag">红十字会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E6%96%B0%E5%B8%B8%E6%80%81%E5%BB%BA%E8%AE%AE%EF%BC%881%EF%BC%89%E4%B8%8D%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%95%99%E4%B8%8B%E7%A5%B8%E6%A0%B9/" target="cdt-mirror">日经中文网｜新常态建议（1）不给未来留下祸根</a>
-</h2>
-<p><p>中国经济的减速感进一步增强。虽然显示消费动向的社会消费品零售总额保持了10%左右的增长率，但是在设备严重过剩的制造业，减产的动向出现扩大，就业也开始受到影响。中国经济告别过去2位数增长，向“新常态”转移，力争实现经济的稳定增长。能否实现这一目标取决于习近平领导层能否在抑制经济减速引发混乱的同时，推进将伴随着阵痛的结构改革。</p>
-<p>“7～8月放假20多天，这种情况以前从来没有过”，在位于四川成都的德国大众与中国一汽的合资工厂，一位员工接受当地媒体采访时表示突然接到放假通知。</p>
-<p>汽车销售情况在去年之前一直表现坚挺，但是从今年春季开始踩下了急刹车。库存迅速膨胀，4S店打起了降价大战，甚至有声音指出“9成的汽车销售店都陷入亏损”（汽车销售店的业界团体）。</p>
-<p>中国国家统计局发布的统计数据显示，69种主要工业产品中，2014年发电用锅炉和冰箱等16个品目的产量低于上一年。而2015年1～7月，建材用粗钢、玻璃板、水泥和机床等产品出现减产，产量低于上一年同期的品目增加至31个。同时期汽车产量增长0.2%，但7月单月则大幅减产11.2%，最近生产停滞的态势愈发明显。</p>
-<p>此外，减产现象还对就业形势投下阴影。以拥有近1万名员工的日资电子零部件厂商旗下的福建工厂为例，此前每月都有约10％的工员离职，由于人员短缺，补充人员经常遇到难题。而到6月以后，离职率减少为5％，进行新招聘时，每天都有数百人参加。该工厂的高管表示，“这样的情况还是第一次”，难掩惊讶之情。</p>
-<p>8月底，中型造船企业山东华海船业陷入破产。在效率低下的国有企业没有被淘汰的造船、钢铁和水泥等行业，产能过剩进一步加剧，企业破产也正在浮出水面。</p>
-<p>中国2015年4～6月实际国内生产总值（GDP）增长率与1～3月相同，比上年同期增长7.0％，但很多经济学家认为实际上低于7％。由于6月中旬以后的股价泡沫崩溃和出口低迷等相继叠加，认为2015年增长率将低于7％左右这一政府目标的观点正在增加。</p>
-<p>中国总理李克强在9月10日的演讲中，表示不会推出大规模经济刺激举措，而是将优先推进改革，另一方面，表示将对眼前问题采取各种手段，这也是对悲观看法正在扩大感到担忧的体现。</p>
-<p>“今后5年将是结构转型的阵痛期”，在5日在土耳其闭幕的二十国集团（G20）财长和央行行长会议上，中国财政部长楼继伟如此表示。如果难以承受阵痛，放慢改革的步伐，将给未来留下祸根。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E6%96%B0%E5%B8%B8%E6%80%81%E5%BB%BA%E8%AE%AE%EF%BC%881%EF%BC%89%E4%B8%8D%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%95%99%E4%B8%8B%E7%A5%B8%E6%A0%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -861,5 +857,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

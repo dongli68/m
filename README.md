@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%AF%B9%E7%90%86%E7%A7%91%E5%A5%B3%E7%94%9F%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%98%AF/" target="cdt-mirror">【图说天朝】对理科女生来说，在清华大学学习是怎样的体验？</a>
+</h2>
+<p><p>【编者注】除了女生受到的“特殊照顾”外，这半份公约值得注意的部分还包括：特别强调尤其不能无故旷“思想政治理论课和文化素质课”、“家长随机拨号”监督课间手机使用、严格的集体自习制度等。</p>
+<blockquote><p><strong><a href="http://weibo.com/1459358890/CCalpn3NQ">@破破的桥</a></strong>： 隔壁自黑得实在太努力了。。。。。（清华电51班级公约上半部分）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/56fc0caagw1ewenxw6ie2j20go0m8792.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/56fc0caagw1ewenxw6ie2j20go0m8792.jpg" alt="56fc0caagw1ewenxw6ie2j20go0m8792" width="600" height="800"></a></p>
+<blockquote>
+<h3><span><strong>第三部分 女生特殊政策</strong></span></h3>
+<p><strong>第9条</strong> 自习期间及课下，女生可向任意男生援疑质理。<strong>被提问者应立即予以解答</strong>；不能解答的，可以请他人解答。</p>
+<p><strong>第10条</strong> 成立班级内的一对一辅导小组，鼓励相互答疑解惑和互帮互助。</p>
+<p><strong>第11条</strong> 若女生的成绩在<strong>班级排名后20%</strong>，将成立<strong>专门的3-5人辅导小组</strong>对其进行指导。</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%AF%B9%E7%90%86%E7%A7%91%E5%A5%B3%E7%94%9F%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%98%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E7%94%B7%E7%99%8C/?category=18271" rel="tag">直男癌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%88%96%E5%B0%86%E4%BD%9C%E5%87%BA%E6%B0%94%E5%80%99%E6%94%BF%E7%AD%96%E6%89%BF%E8%AF%BA/" target="cdt-mirror">BBC | 习近平访美：中国或将作出气候政策承诺</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150925074255_xi_zuckerberg_640x360_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150925074255_xi_zuckerberg_640x360_afp_nocredit.jpg" alt="习近平与中国大陆封禁的Facebook网站创始人马克·扎克伯格会面。" width="450" height="253"></a><p>习近平与中国大陆封禁的Facebook网站创始人马克·扎克伯格会面。</p></div>
@@ -795,47 +813,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B2%A1%E6%9C%89%E7%BA%B8%E7%89%8C%E5%B1%8B-%E5%8F%AA%E6%9C%89%E7%94%84%E5%AC%9B%E4%BC%A0/" target="cdt-mirror">【网络民议】没有纸牌屋 只有甄嬛传</a>
-</h2>
-<p><p>习近平：中国反腐没有权力斗争 没有“纸牌屋”</p>
-<p><strong>核心提示：</strong>22日习近平在西雅图出席欢迎晚宴。他指出：我们大力查处腐败案件，坚持老虎苍蝇一起打，是要顺应人民要求。其中没有什么权力斗争，没有什么“纸牌屋”。愿同国际社会积极开展反腐追逃合作，让腐败分子在海外永无“避罪天堂”。</p>
-<blockquote><p>中国继续推进反腐败斗争。我说过，打铁还需自身硬。这里说的打铁的人，就是中国共产党。中国共产党的根本宗旨是全心全意为人民服务。中国共产党有8700多万名党员，党内也必然存在这样那样的问题。如果我们不能解决存在的问题，任其发展下去，人民就不会信任和支持我们。所以，我们强调治国必先治党、治党务必从严。一段时间以来，我们大力查处腐败案件，坚持“老虎”、“苍蝇”一起打，就是要顺应人民要求。这其中没有什么权力斗争，没有什么“纸牌屋”。中国愿同国际社会积极开展反腐追逃合作。中国人民希望在这方面得到美国支持和配合，让腐败分子在海外永无“避罪天堂”。</p></blockquote>
-<p>全文<a href="http://dailynews.sina.com/gb/chn/chnpolitics/phoenixtv/20150922/22446929468.html" target="_blank">内容</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CPkDpKuUAAAyXVA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CPkDpKuUAAAyXVA.jpg" alt="习近平：中国反腐没有“纸牌屋”" width="599" height="409"></a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>letscorp：习近平访美首站西雅图，刚刚参加欢迎晚宴时演讲称，中国的反腐不是政治斗争，没有“纸牌屋”。 #纸牌屋和你国政斗大戏比起来只能算是家庭伦理剧。</p>
-<p>9527_小马哥：中国没有纸牌屋，只有甄嬛传。</p>
-<p>肖锋：中国没有纸牌屋，只有四世同堂。</p>
-<p>郑维：美国人一贯着眼于外交的实质成果，中国人则注重象征意义多于一切，把外交高峰会作为提升在国内合法性和领导人在国内的个人形象的机会。所以，问题来了：老板在美国讲反腐没有纸牌屋，要求美国配合反腐追逃的时候，求台下陪坐的衮衮诸公内心的阴影面积。</p>
-<p>fallensin：习说没有纸牌屋，我是同意的，因为咱的剧情精彩多了。酱油瓶，法拉利，一场奋不顾身的爱情，一场说走就走的旅行，谁比得上？</p>
-<p>catsinrain：习近平：中国的反腐没有权力斗争，没有“纸牌屋” // 谁说刁大犬不懂幽默的？高阶多层次魔幻现实主义后现代荒诞黑色幽默信手拈来呀</p>
-<p>madao_chris：“一段时间以来我们坚持老虎苍蝇一起打，是及时顺应人民的要求，其中没有什么权力斗争、没有什么纸牌屋。”说到这里，现场对习近平抱以笑声和掌声。——所以，大大是怎么看的美剧？</p>
-<p>Y先生的眼：真的没有“纸牌屋”？成天被硬拉作各种背书，又不能大吼一声震破屋子，这到底算什么屋？</p>
-<p>小津DAIJIN ：木有纸牌屋，只有麻将馆。</p>
-<p>11号地铁南：政治有纸牌屋也很正常，只要有利于清除腐败恢复社会秩序，有利于国家利益和人民福祉，就要坚决的斗争。</p>
-<p>mmjiushimm：还纸牌屋，真好意思往自己脸上贴金。</p>
-<p>杭州老丁丁：就鸡毛国这样的体制，有资格有纸牌屋吗？烤！</p>
-<p>阿瑞摄影：纸牌屋 ：House of cards是一个固定习语，字面意思是“用纸牌砌成的房子”，含脆弱，一击即破之意。也有人指出，美国众议院叫做House of Representatives，而House ofcards(纸牌屋)里的House即是指国会，指代整个美国政坛；其次，Cards本义牌技，政客们的手腕正如“列王纷争、权力游戏”。</p>
-<p>燕归空：这盛世，如你所愿。</p>
-<p>AMIN-A：Are you sure？自己都笑了吧</p>
-<p>不告诉你：我给大家讲个笑话：</p>
-<p>文山娃：中國沒有權力爭鬥的紙牌屋，但有送你駕鶴西去的醬油壺。</p>
-<p>rocketsdavid：还去国外普及太平盛世？</p>
-<p>Robert见贤思齐：说完以后笑了。</p>
-<p>汉娜之眼：习大大的演讲稿里提到我们没有什么纸牌屋，可是我们有生活大爆炸啊！</p>
-<p>事袅拂衣去：纸牌屋没有，恐怕是黄金屋！</p>
-<p>太阳炒土豆丝：习特勒家有多少财产啊，公布一下呗。</p>
-<p>黄金峰：我觉得中国这些事儿拍个纸牌屋比美国的精彩一万倍。</p>
-<p>Shinoowriter：还有政治规矩的帮规呢。</p>
-<p>ByhpJerry：中共的权斗岂是纸牌屋能形容的？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B2%A1%E6%9C%89%E7%BA%B8%E7%89%8C%E5%B1%8B-%E5%8F%AA%E6%9C%89%E7%94%84%E5%AC%9B%E4%BC%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B8%E7%89%8C%E5%B1%8B/?category=18271" rel="tag">纸牌屋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -847,7 +824,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -857,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

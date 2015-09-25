@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,120 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E6%B4%BE%E5%A0%95%E8%90%BD%E5%A6%82%E6%96%AF%EF%BC%8C%E9%9D%92%E5%B9%B4%E5%9B%A2%E9%87%8C%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BE%AF%E8%81%9A/" target="cdt-mirror">【网络民议】团派堕落如斯，青年团里只剩下侯聚森们了</a>
+</h2>
+<p><p>@荣剑：任志强的微博删了，景临的微博还没删，还置顶着，许多人在说博主不讲信用，我看还是保留着好，可以让每一个看到的人拿这条微博来对照现实，对照身边的人和事。此条微博现在已经转发四万多，评论两万多，估计阅读量上千万了，这真是一个很好的启蒙教材，看看评论就知道了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-25-at-2.39.01-PM-1024x612.png" alt="Screen Shot 2015-09-25 at 2.39.01 PM" width="550" height="329"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-25-at-2.38.54-PM-912x1024.png" alt="Screen Shot 2015-09-25 at 2.38.54 PM" width="549" height="617"></p>
+<p>景临全文和任志强已被删的帖子见：<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">【立此存照】任志强：“我们是共产主义接班人？”</a></p>
+<p><strong>以下评论由数字时代编辑搜集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/decodeman" target="_blank">或此或彼</a>：删帖，共产主义者真自信哪</p>
+<p><a href="http://weibo.com/1781018847" target="_blank">平淡的理性</a>：共青团拿着不切实际的话来欺骗中国人，应该被唾弃。</p>
+<p><a href="http://weibo.com/5361937081" target="_blank">度天下难容之事</a>：共青团好像就是一个有组织，有刚领，有固定成员，有下手目标的一个民间传销机构吧。只可惜连个专业的传销知识都没掌握好。太可惜拉。</p>
+<p><a href="http://weibo.com/panhao" target="_blank">耶路撒冷</a>：能全民公决需要共产党执政吗？</p>
+<p><a href="http://weibo.com/1144011432" target="_blank">M的微尘</a>：每一个中国人都在奋斗，这也分三六九等还非得你们来扛大旗？也别谈遥远的共产主义了，先轻赋税重教育医疗还富于民吧！</p>
+<p><a href="http://weibo.com/1285153040" target="_blank">欲醉红尘A</a>：请将五毛赶紧提为六毛吧，形势逼人啊，同志！</p>
+<p><a href="http://weibo.com/hello4" target="_blank">刘卫杭凌</a>：哎哟。。我去。。你们这帮跳梁小丑。。我真是醉了。。哈哈哈哈哈。。所以说，一分钱一分货。。你们这帮月薪4500的跟年薪七百万的一较量。。真是高下立判。。贻笑大方了。。哈哈哈哈</p>
+<p><a href="http://weibo.com/n/lxdtelecombj?from=feed&loc=at" target="_blank">@lxdtelecombj</a>:建议你们和任志强先生就所谓共产主义搞一次公开的辩论，让全国人民观赏。敢不敢？</p>
+<p><a href="http://weibo.com/5209559387" target="_blank">起个名这么费事caocaocao</a>：先把老江干掉再谈接班的事吧</p>
+<p><a href="http://weibo.com/2121159242" target="_blank">KirkLiu2012</a>：团中央这回儿真的是露脸漏大了</p>
+<p><a href="http://weibo.com/1117511995" target="_blank">正义的Tom</a>：看了几百个回复，实在没有力气再看了，反正结果已经很明显了，团中央输了，输的内裤都没了</p>
+<p><a href="http://weibo.com/power2u" target="_blank">千与千寻一粒沙</a>：官微，记住，这是官微！一个超级庞大的吃财政税收的组织来倾轧一个个人，得多卑鄙啊？</p>
+<p><a href="http://weibo.com/1114059652" target="_blank">野焚的世界</a>：你们先公布贵组织的收支情况和各位领导的个人财产配偶子女情况，这样我才相信你们真的要为共产主义奋斗</p>
+<p><a href="http://weibo.com/2215267222" target="_blank">枫亦仔</a>：任志强与团中央互掐说明什么？说明他们的阶级不再满足于马克思的主义在私底下其实已经是一个笑话了，而是要求官方也承认这的确是个笑话，我只能说他很诚实。</p>
+<p><a href="http://weibo.com/2920690723" target="_blank">楚水昭阳9999</a>：为实现共产主义春秋大梦而奋斗！</p>
+<p><a href="http://weibo.com/1694860782" target="_blank">张展zero</a>：看了好几篇支持共青团中央的文章，发现那些作者其实都是高级黑……到最后觉得一句评论说的好：这些文章连任志强的秘书那一关都过不了。悲剧啊。</p>
+<p><a href="http://weibo.com/3186614192" target="_blank">南海的沙子</a>：五千年来连一个信仰都产生不出来，还需要向德国借一个信仰的民族，可悲啊</p>
+<p><a href="http://weibo.com/n/%E7%9B%98%E5%AD%90%E5%BE%AE%E8%B0%88?from=feed&loc=at" target="_blank">盘子微谈</a>：从小就知道自己是共产主义的接班人，到现在都特么过去三十年了，也没人来跟我谈接班的事……<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]"></p>
+<p><a href="http://weibo.com/3186614192" target="_blank">南海的沙子</a>：马克思不是中国人，信他是崇洋媚外，中国人信孔夫子和孙中山。</p>
+<p><a href="http://weibo.com/5709780835" target="_blank">众里寻她1100</a>：如果高度集中的权力、财富仅仅属于某一特定人群世袭和专利，并且还不用受人民监督；如果国家金融，国土开发，大型工程、外贸，通信等领域的“一哥”“一姐”依然几乎是某一特定人群的子女控制；一个以“解放全人类”为最高理想，搞了十几年的官员财产公开依然成老大难问题，这样的共产主义不搞也罢！</p>
+<p><a href="http://weibo.com/2783237861" target="_blank">连名字被人抢了都被抢了</a>：说的你妈逼这么伟大，看上老百姓一块地，放火烧死人还能说成是自焚，还扯你妈逼什么共产主义呢！！！任志强作为一个要财富有财富、要地位有地位的人，客观公正的指出现代中国社会存在的问题，这你妈逼还需要你们来扣个大帽子，来辩论一遍？？？？？不敢正视问题的组织，谈毛线信仰，你们自己信么？</p>
+<p><a href="http://weibo.com/2745878145" target="_blank">福财汇聚</a>：跟大家讲讲我的经历啊：我读大二的时候是团支书，也真心想入党，但名额有限被一个成绩等都不好的市委常委的女儿占去了；大三的时候我不想入党，但辅导员坚持要我入（当然他是对我好），在组织集体谈话的时候我问共产主义要十年还是100年实现，被批评，但在周遭系里各同学的劝阻下我违心的检讨就入党了</p>
+<p><a href="http://weibo.com/5310355958" target="_blank">坎坷足迹</a>：在中国，共产主义总有一天会和法西斯主义一样，被冠以臭名昭著</p>
+<p><a href="http://weibo.com/2745878145" target="_blank">福财汇聚</a>：想当年毛主席的《沁园春.雪》当年在重庆得到广泛流传，将政府雇佣一帮奴才文人想写一篇比这更厉害的文章来压制、嘲讽；结果成为一大笑柄。现在的情形很想啊，是不是历史要重演了<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/1731774555" target="_blank">润永青</a>：任大炮这个资本家反党，其实并不意外。</p>
+<p><a href="http://weibo.com/2745878145" target="_blank">福财汇聚</a>：我想问：一、政府有没有水军？二，敢不敢真心做个全国范围内的大调查—-大家对共产党，对共产主义是否信任；三，难道一个共产党就不能批评和怀疑党吗？四，敢不敢别一碰到敏感文章见解就删微博或者文章。试问一个连批评，反对的话语都不能发表的党是有多么大量，是有多么的正常？</p>
+<p><a href="http://weibo.com/1948537873" target="_blank">文雷108</a>：在共产主义这面大红旗下，好多人混得风生水起，譬如康师傅、徐东北虎、西红柿之流，金钱、美女、权势一个都不能少。想混进这个队伍的人还真如过江之鲫，前腐后继。团团加油，你也有戏</p>
+<p><a href="http://weibo.com/veveyswiss" target="_blank">悠悠客03</a>：那共产主义忽悠人的，不是土匪就是流氓。</p>
+<p><a href="http://weibo.com/1829099580" target="_blank">陆式迟鱼-陆志华</a>：文章的语气好像团中央是什么权威宗教组织似得。。各种恐吓和不着边际的所谓理论能说服谁呢？？？除了幼稚园的小孩子，你们一无是处</p>
+<p><a href="http://weibo.com/1948537873" target="_blank">文雷108</a>：假共产主义之名，行毒菜之实；假全民所有之名，行国有之实；假国有之名，行官有之实；假为民服务之名，行结党营私之实；假行政之名，行寻租之实；假共和之名，行专政之实。够了！以前民众被骗傻了，还高呼万岁感恩涕零，现在还想忽悠屁民，你以为还是文革呀</p>
+<p><a href="http://weibo.com/5205185458" target="_blank">生活爱美丽的家</a>：共产主义是舶来品 把中国社会千百年来治理模式颠覆了 让人们时刻恐惧着，</p>
+<p><a href="http://weibo.com/1497199192" target="_blank">独孤一方</a>：团派堕落如斯，青年团里只剩下侯聚森们了。</p>
+<p><a href="http://weibo.com/veveyswiss" target="_blank">悠悠客03</a>：共产主义就是全世界人类历史上天大的笑话。</p>
+<p><a href="http://weibo.com/3102854581" target="_blank">爱凤大梅699</a>：全中国的共青团以及共产党起来一起打倒假共产党任志强</p>
+<p><a href="http://weibo.com/5449319986" target="_blank">秦砖汉瓦89580</a>：能实现共产主义，也许只有身在其中拿皇粮的人吧。这个主义，现在连鬼也不会相信的，况且是人。</p>
+<p><a href="http://weibo.com/1669190770" target="_blank">核桃的uijx</a>：共产主义的产生是为了解决当时资本主义制度不健全，工人农民等无产者利益得不到保护的一种尝试。现在资本主义制度在各方利益竞争中，已经逐步完善。反观尝试用共产主义解决问题的国家，一个个都垮了，没夸的都倒退到成了封建社会，说明什么？法治、民主才是正道！</p>
+<p><a href="http://weibo.com/1878693564" target="_blank">心闲313</a>：请共产主义接班人带头公示一下财产，要不怎么共产。</p>
+<p><a href="http://weibo.com/1928139965" target="_blank">w随便转转w</a>：呵呵，就两个字。呵呵</p>
+<p><a href="http://weibo.com/style1st" target="_blank">千愚</a>：共产党滚出中国。凭什么中华民族必须受两德国逗比的思想奴役？谁都知道这是赤裸裸文化入侵和傀儡政权。你们TMD快点滚好吗？</p>
+<p><a href="http://weibo.com/2688385475" target="_blank">佛语甘露</a>：支持任的人多</p>
+<p><a href="http://weibo.com/1859322500" target="_blank">jim_huang2010</a>：共产主义？扯JB淡<img title="[弱]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]"></p>
+<p><a href="http://weibo.com/130181zzq" target="_blank">张志权</a>：回复<a href="http://weibo.com/n/%E8%BE%9B%E8%BE%A3%E5%B0%8F%E5%AD%90?from=feed&loc=at" target="_blank">@辛辣小子</a>:哈哈！无耻共青。</p>
+<p><a href="http://weibo.com/5385755226" target="_blank">ok田间农夫</a>：从令计划倒台后你们就开始闹腾！<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"></p>
+<p><a href="http://weibo.com/3812370016" target="_blank">霸气的北京小妞20125</a>：请问景临宣传部部长:共产主义主张彻底消除私有制,而本届中央政府却主张大力扶植民营企业,这个如何解释呢?你们能不能消停点儿,别老吃党饭砸党锅呢?!<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/2045182092" target="_blank">米城赫的blog</a>：滚你妈逼共青团 什么东西 批评人家说实话的！早晚历史的车轮把你们这群狗逼压的死死的！</p>
+<p><a href="http://weibo.com/1052469504" target="_blank">B0_B00</a>：你们不是要接共产主义的班，你们是要当独裁主义的官。宣誓时满嘴道德理想，心里都在算计怎么捞个一官半职。这种政治投机者大学里那些入党积极分子各个都是。</p>
+<p><a href="http://weibo.com/2063579105" target="_blank">红彤彤的小跨栏</a>：从这个话题的争论看，共青团太low了，怎么接班？真是一代不如一代。</p>
+<p><a href="http://weibo.com/1955283772" target="_blank">能小猫12</a>：我就很奇怪 党组织怎么不处理任志强呢 让他这么耍猴。</p>
+<p><a href="http://weibo.com/2737755300" target="_blank">墨香刀魂</a>：支持团中央！如果你不是党员，你说这个话大家可一笑置之。既然你是党员，又是国企负责人。守着集体国有财产，吃着党和国家的饭，却干着和说着砸锅沉船的事。里外不一，心口不一，人格分裂。</p>
+<p><a href="http://weibo.com/2745878145" target="_blank">福财汇聚</a>：有人会说任总既然不信任党为什么还赖在这个组织呢？这样问的人显然不知道在现实生活里你自动退党是很忌讳的，特别是名人如果公开退党估计会受到很多人的诟病或者劝阻，特别是一些水军的攻击。</p>
+<p><a href="http://weibo.com/1435419292" target="_blank">那时民国</a>：共青团坚持共产主义理想为什么拿我们纳税人的钱养活？你们应该自己养活自己，不要做共产主义寄生虫。</p>
+<p><a href="http://weibo.com/3064839587" target="_blank">森-大</a>：我年幼无知被骗进这个垃圾团，我已经退出来了，请问团费能退一半吗？</p>
+<p><a href="http://weibo.com/yingxiaoxuan" target="_blank">站小妍</a>：跟自己不一致就删评论，我朋友公务员被要求上微博灌水，真实腐败到了极点。</p>
+<div><a href="http://weibo.com/3064839587" target="_blank"><img src="http://tp4.sinaimg.cn/3064839587/50/5705158338/1" alt="森-大" width="30" height="30"></a></div>
+<div>
+<div><a href="http://weibo.com/3064839587" target="_blank">森-大</a>： 《继续删啊，我在发》一个沾满血债的组织，你谈什么理想，真是笑死人了，你们这六十多年来，你们的伟大领袖，特别是毛邓江，杀人狂魔，特别喜欢杀自己同 胞，这血债累累，你们心安理得？畜生领导，你们谈理想，吃屎吧你，还一代接一代，荭二代正在实现中，一代接一代的内定领袖，快步走进共产伟大理想。</div>
+</div>
+<div></div>
+<div><a href="http://weibo.com/2257655735" target="_blank">08_县长</a>：能不能实现你们心里比谁都清楚。好了，你的回答完全正确，100分，敢紧邀功请赏去吧。</div>
+<div></div>
+<div><a href="http://weibo.com/fungkin" target="_blank">Kin_馮健</a>：回复<a href="http://weibo.com/n/%E9%9B%A8%E5%B1%B1%E4%BF%8A%E7%94%B7?from=feed&loc=at" target="_blank">@雨山俊男</a>:新華門，天安門總會被光復的，你們把每年六月三日的第二天變成敏感詞，就體現出你們的恐懼！</div>
+<div></div>
+<div><a href="http://weibo.com/1708441777" target="_blank">Q将大人</a>：回复<a href="http://weibo.com/n/%E6%88%91%E4%B9%83%E9%B4%BB%E9%B5%A0?from=feed&loc=at" target="_blank">@我乃鴻鵠</a>:反对你的就是汉奸，反对GCD的就是汉奸，对国家指手画脚的也是汉奸。说实话共产党也就一个政党而已，作为一个政党，有人反对有人支持再正常过了，只能支持不能反对的那种叫法西斯叫纳粹党，共产党也执政几十年了，从来也不懂什么言论自由，或者是装作不懂。</div>
+<div></div>
+<div><a href="http://weibo.com/1708441777" target="_blank">Q将大人</a>：听说的贪污的百分之90都是共产党员，为什么呢。</div>
+<div></div>
+<div><a href="http://weibo.com/1290275744" target="_blank">短线为王价值至上</a><i title="微博达人"></i>：删吧，一群令计划的党羽。删我五个评论。</div>
+<div></div>
+<div>
+<div><a href="http://weibo.com/kilorocky" target="_blank">演导安全王</a>：特大喜讯，特大喜讯！共产主义生活在你国早就已经实现了！这个理想大致分为：科级，副处级，县处级，厅局级，省部级等等。。。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></div>
+</div>
+<div></div>
+<div><a href="http://weibo.com/3858820305" target="_blank">东方503</a>： 看着这些评论的感慨万千啊，我是70后，也是唱着（共产主义接班人）成长的！日本右翼修改历史教科书，修改安保法，日本人一百万多游行示威，某些国人就认 为日本很乱，看了人家美国人自己拍的纸牌屋就认为美国充满了权力斗争，不说了！准确近代史50年后再说吧！历史会证明一切的！同意的点赞吧！</div>
+<div></div>
+<div><a href="http://weibo.com/2943655602" target="_blank">坐等瓜儿熟</a>：特别是景临，既然你这么大义凛然，你的财产是否干净，是否想人民大众交代下？</div>
+<div></div>
+<div>
+<div><a href="http://weibo.com/5489941248" target="_blank">夜色深山星满天</a>：任你口吐莲花、巧舌如簧，也不敢公开财产。任你大饼连连，也无法掩盖你们全是蛀虫……<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></div>
+<div></div>
+</div>
+<div>
+<div><a href="http://weibo.com/1958412715" target="_blank">sina_tomlan62</a>：<a href="http://weibo.com/n/%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90?from=feed&loc=at" target="_blank">@凌虚铺子</a> 看了某组织声讨任大炮的檄文，觉得文革时的大字报也不那么讨厌了，至少，大字报还是文从字顺的；看了横店的抗日神剧，竟然怀念起八个样板戏来了，至少，样板戏还是讲逻辑的，台词也很有感染力；看了所谓的专家学者跪舔的嘴脸，甚至觉得//<a href="http://weibo.com/n/%E4%BD%8E%E5%A4%B4_%E8%AA%93%E4%B8%8D?from=feed&loc=at" target="_blank">@低头_誓不</a></div>
+</div>
+<div></div>
+<div><a href="http://weibo.com/1406167890" target="_blank">汉家长剑</a>：找五毛这样的货色去接班，共青团也是够拼的。<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"> //<a href="http://weibo.com/n/%E5%9C%A8%E8%B7%AF%E4%B8%8A%E7%9A%84%E5%B0%8F%E6%B3%89?from=feed&loc=at" target="_blank">@在路上的小泉</a>:呵呵//<a href="http://weibo.com/n/chuanbb2?from=feed&loc=at" target="_blank">@chuanbb2</a>:<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]">小编你就尽情删评论吧，连不同看法的评论都不允许存在的话，还好意思说榷？你回家关门慢慢榷吧</div>
+<div></div>
+<div><a href="http://weibo.com/3223545050" target="_blank">小犀牛5</a>： 党的创始人，一至五大书记陈独秀晚年对共产主义也有新的认识，很多思想在今天的理论中已经被肯定，比如“社会主义是很长的历史阶段，不能马上废除私有 制”，这比邓小平理论早了50年，但他被批判，被开除。可他没当叛徒，没做汉奸，没作出有损于国家和民族的事，只是说了点被后来历史检验是正确的实话。</div>
+<div></div>
+<div><a href="http://weibo.com/haooah123" target="_blank">h__hao</a>： 任志强的父亲叫任泉生，1918年7月生于山东省掖县，2007年8月1日病逝于北京，享年89岁，当时新华网还就此发了通稿。据新华网介绍，任泉生 1937年参加革命，曾是新四军干部，解放前担任过中原局税务局局长，解放后担任过商业部副部长。任泉生病重期间和去世后，胡、曾、贺、王刚和谷牧</div>
+<div></div>
+<div><a href="http://weibo.com/1908805691" target="_blank">婧婧翠竹</a>：所谓团组织就是管2代，和有钱人的升职器。你们懂什么是共产主义吗？你们才是背离的人民，背离了共产主义理想。</div>
+<div></div>
+<div>
+<div><a href="http://weibo.com/5513916460" target="_blank">卧槽土麻他</a>：共青团中央挺住<img title="[可怜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/kl_org.gif" alt="[可怜]">共青团中央坚强！<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]">共青团中央不哭<img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]">为共青团中央祈祷<img title="[困]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/kunv2_org.gif" alt="[困]">我们都是共青团中央！<img title="[威武]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/vw_org.gif" alt="[威武]"></div>
+<div></div>
+</div>
+<p><a href="http://weibo.com/2110392524" target="_blank">自由的俊勇</a>：评论好看，就是太多了。还不包括被删除的。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E6%B4%BE%E5%A0%95%E8%90%BD%E5%A6%82%E6%96%AF%EF%BC%8C%E9%9D%92%E5%B9%B4%E5%9B%A2%E9%87%8C%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BE%AF%E8%81%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%AF%E8%81%9A%E6%A3%AE/?category=18271" rel="tag">侯聚森</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AF%E4%B8%B4/?category=18271" rel="tag">景临</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E8%A3%85%E6%89%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E5%BD%A2%E8%B1%A1%EF%BC%9F-2/" target="cdt-mirror">端传媒 | 谁在装扮习近平的海外形象？</a>
 </h2>
 <p><p>端传媒记者 宋宁宇 发自香港</p>
@@ -793,28 +904,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E5%BE%B7%E9%82%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%A1%BD%E5%9B%BA%E8%B4%AA%E8%85%90%E5%8A%BF%E5%8A%9B%E4%BD%95%E4%BB%A5%E5%85%85%E6%BB%A1%E5%BF%85%E8%83%9C%E4%BF%A1%E5%BF%83%EF%BC%9F/" target="cdt-mirror">王德邦：中国顽固贪腐势力何以充满必胜信心？</a>
-</h2>
-<p><p>日前，我因偶然机会在一次朋友的宴请上碰到了一名经商的旧识。该经商者已列身于当地数一数二的大商家，进而经常成为官员的座上客。记得当日在酒桌上脸红耳热之时，该商人对大家热议的反腐一事大泼冷水，让我闻之心惊。</p>
-<p>那商人说，反腐是一场必败的战争！原因在于：</p>
-<p>其一、资源上，中国绝大部分资源已经牢牢掌握于这些被称为腐败者手上，天皇老子来也无法将这些换掉，或改变，甚至可以说这些反腐者也必须依靠这些掌握资源的贪腐者，否则寸步难行；</p>
-<p>其二、队伍上，中国现在官僚体制内，经过这几十年的市场化，身上乾净的能找出几个？就算有几个，靠这几个人能改变中国？所以干部队伍不管挖出来谁，也很难脱得开过往那些权力与金钱的千丝万缕联系。这么个队伍，这么批人，就不要担心会出现与过去彻底割断。相信这世界没有真能将自己脑袋割下而重新换个的；</p>
-<p>其三、理念上，这个社会依然信奉打江山坐江山，无论是官二代还是红二代，不管有多少分歧，但都有一个共识：国家是权力集团的国家，贪腐与否是权力集团内部事务，与天下百姓无关，而权力绝对不能与天下百姓分享；</p>
-<p>其四、社会风气上，权贵虽让百姓仇视，但也让民众羡慕。社会普遍还是以权贵为能人，以成为权贵为追求。所以，延续权贵统治依然有深厚的社会基础。</p>
-<p>在这些原因下，中国今日反腐根本不可能长久，也不可能深入，更不可能改变这个体制。</p>
-<p>所以，中国反腐只能是治标，不可能走向治本。因此，不管今天反腐多猛烈，那都是暂时的，一阵风似的，过后一切照旧。</p>
-<p>该商人之所以能发出如此宏论，皆因他经常混迹于北京与省府的一些官员中，经常听他们私下谈论时局。如此一来，该商人事实是表达出了他身后一大批官僚与官商的共同立场与见解。</p>
-<p>反腐走到今天，从种种迹象可见，官僚队伍已经由起初的惊惶失措，进入了淡定面对。现在官员谈论谁被查了时，再无早前那种忧虑之情。这就说明，反腐对官员的震慑力已经过去，大家对这种反腐风暴已经麻木或者习惯了。由此证明，中国反腐的风暴显然已经在这种体制性强力的消化磨损下，变得日益衰竭、乏力。</p>
-<p>所以现在恐惧的不是贪腐集团，而恰恰是反腐集团。腐败势力在强大的同一色的体制性团体力量下，有绝对的把握确保任何涉及根本性改革的政策不可能出得来。其一决不启动任何真正落实公民权利的政治改革；其二决不吸收体制外那些没有污泥的人士入体制内，或将那些人打入冷宫，彻底压死；其三坚决阻止权力集团中个别理想主义者的异想天开式“妄动”，保证国家不出现大的突发性变动，使政策与法律反映统治团体意志。</p>
-<p>这样一来，那些权力与资本通吃的势力依然是中国的主导，就算每过二十年来一次反腐风暴，那也只是为挽民心、救权力而采取的应景之术，而中国代表权贵集团统治的政体与国体则将千秋永固。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%8B%E5%BE%B7%E9%82%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%A1%BD%E5%9B%BA%E8%B4%AA%E8%85%90%E5%8A%BF%E5%8A%9B%E4%BD%95%E4%BB%A5%E5%85%85%E6%BB%A1%E5%BF%85%E8%83%9C%E4%BF%A1%E5%BF%83%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E9%A3%8E%E6%9A%B4/?category=18271" rel="tag">反腐风暴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5/?category=18271" rel="tag">权贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E5%BF%83/?category=18271" rel="tag">民心</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -826,7 +915,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -836,5 +925,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

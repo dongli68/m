@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%9A%E5%9B%BD%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/" target="cdt-mirror">纽约时报 | 解读习近平的党国民族主义</a>
+</h2>
+<p><p>国家主席习近平<a href="http://cn.nytimes.com/china/20150923/c23xijinping/" target="_blank" rel="nofollow">对美国进行首次国事访问</a>之际，正是中国自1949年共产党夺取政权以来，在世界上发挥比任何时候都大的影响力的时刻。在某些西方人眼里，最近几周有越来越多的有关经济增长放缓及<a title="Link: http://cn.nytimes.com/china/20150710/c10chinaleaders/" href="http://cn.nytimes.com/china/20150710/c10chinaleaders/" target="_blank" rel="nofollow">政府应对股市危机</a>的疑问，习近平作为一位精明、有效的领导人的形象<a href="http://cn.nytimes.com/china/20150921/c21xijinping/" target="_blank" rel="nofollow">已经失去了一些光泽</a>。但对许多中国人来说，习近平仍是一个民族主义情绪高涨的新时代的无疑象征。正如习近平自己所说的，他在寻求人民“中国梦”的实现，正带领国家在“复兴之路”上大步迈进。民族复兴的一部分涉及到<a href="http://cn.nytimes.com/china/20150617/17china-islands/" target="_blank" rel="nofollow">扩大中国在南海的领土覆盖</a>，这让美国和东南亚国家震惊，也涉及到<a href="http://cn.nytimes.com/china/20150903/c03parade-update/" target="_blank" rel="nofollow">强调中国的抗日战争</a>。康奈尔大学政府学院副教授白洁曦(<a title="Link: http://www.jessicachenweiss.com/" href="http://www.jessicachenweiss.com/" target="_blank" rel="nofollow">Jessica Chen Weiss</a>)研究中国的草根民族主义、以及民粹主义抗议与中国党天下的相互作用。她去年出版的名为《强大的爱国者：中国外交中的民族主义抗议》(<a title="Link: http://ukcatalogue.oup.com/product/9780199387564.do" href="http://ukcatalogue.oup.com/product/9780199387564.do" target="_blank" rel="nofollow">Powerful Patriots: Nationalist Protest in China’s Foreign Relations</a>)一书，就是基于这项研究。在一次采访中，她讨论了习近平风格的民族主义、以及这种民族主义在中国如何表现。</p>
+<p><b>问：本月早些时候，你曾说中国共产党</b><b>纪念</b><b>抗日战争胜利的阅兵式，体现了“</b><b>习近平反复强调的自上而下的民族主义</b><b>”。这在习近平上台的头三年里是如何表现的？与习近平之前的时代有什么不同？</b></p>
+<p><b>答：</b>无论习近平的“中国梦”辞藻怎样华丽，中国领导层其实对民族主义运动非常担心，怕这种运动会导致更大范围的不稳定，也怕运动给中国的外交政策施加不必要的压力。</p>
+<p>自从三年前习近平上台以来，草根行动已在很大程度上被压制了。在习近平领导下，中国为纪念抗战胜利法定了<a href="http://cn.nytimes.com/china/20140930/c30martyr/" target="_blank" rel="nofollow">三个新节日</a>，还搞了一次壮观的阅兵，以充分展示中国不断增长的军事实力。但公众对纪念活动的参与却一直受到严格控制。就连在百度贴吧检索“九·一八”，都会得到这样的结果：“抱歉，根据相关法律法规和政策，本吧暂不开放。”9月18日是纪念日本1931年入侵东北三省的日子。</p>
+<p><b>问：一些分析人士将习近平与毛泽东作比较，说他们在试图利用草根民族主义上有相似之处。你怎么看？</b></p>
+<p><b>答：</b>自毛泽东以来的所有领导人都试图在一定程度上利用草根民族主义，正如我在《强大的爱国者》一书中所写的。在毛泽东时代，经常有反对美国和苏联的大型游行。就连重新让中国向世界开放的邓小平，也曾用学生的抗议活动，来警告日本领导人缓和其行为。在江泽民时代，美国飞机1999年意外轰炸了中国驻贝尔格莱德大使馆之后，曾爆发大规模的反北约及反美示威。胡锦涛在台上时，爆发过两轮针对日本的抗议活动：一轮在2012年，针对的是日本购买东海中的三个岛屿；另一轮在2005年，针对的是日本申请成为联合国安理会常任理事国。</p>
+<p>至于习近平，把他与毛泽东相比，主要针对的是他把权力集中在自己手中、为自己打造出“习大大”这一魅力形象的努力。但是，与毛泽东不同的是，习近平并没有呼吁群众站起来，对外国列强挥动集体的拳头。到目前为止，习近平对世界展现的是强硬但温和的面孔，依靠中国的物质力量来坚持和捍卫中国的利益，没有受互联网上极端声音的影响。但是，这种自我抑制也许不可持续。由于中国媒体最近对中国领土主张的关注，一次致命的碰撞或挑衅事件，特别是与美国或日本有关的，很可能会引发一种让中国政府难以控制的公众反应。</p>
+<p><b>问：在你的文章中，你描述了中国的党天下与草根示威者之间的复杂关系，以及街头抗议活动如何为</b><b>官员</b><b>提供机会，使他们能够把信号发送给国内外的</b><b>不同</b><b>受众。同时，这些抗议活动也给领导人带来风险。在习近平时代，你看到过这种相互作用吗？</b></p>
+<p><b>答：</b>在过去的三十年里，中国领导人对草根抗议活动有选择地容忍，为了加强强硬的外交立场，允许一些民族主义示威活动发生，为了对外界表现出灵活性、让其放心，也抑制这类抗议活动。但是，这种政府台后导演的抗议活动往往被人怀疑是木偶戏，而不是真正的群众运动。因此，中国官员在管理民间民族主义上，面临一种困难境地。要让“中国人民的感情”在外界观察者眼里可信的话，人民就必须拥有在网上和街头表达他们意见的自由。</p>
+<p>习近平2012年上台前不久发生的反日抗议，凸显了试图在台后导演民族主义示威所带来的国内及外交风险。在中国200多个城市爆发的示威展示了这种危险：针对日本的抗议活动可能会改变方向，<a href="http://www.scmp.com/news/china/article/1038664/anti-japan-protests-turn-violent-shenzhen-guangzhou-and-qingdao" target="_blank" rel="nofollow">比如在南方城市深圳发生的那样</a>，人们开始在政府总部外边聚集。但是，这些与政府导向的偏离，在外国怀疑论者眼里表明了一个证据，那就是，国家支持民族主义，只不过是为国内的不满情绪提供一个方便的出气口而已。</p>
+<p>习近平继承了中国在东海与日本的对峙。防止事态意外升级为战争，以及加倍打击可能让公众产生不满情绪的源头，解释了为什么想成为民间积极分子的人已被告知，目前“不便”组织活动。</p>
+<p><strong>问：习近平将会是自1949年来的第四位受白宫正式邀请，进行国事访问的中国领导人。这对中国的草根民族主义起到什么作用呢？</strong></p>
+<p><strong>答：</strong>不管峰会能否产生任何实质性成果，习近平此次访美都可能在其国内得到正面的描绘。中国对国际尊重的渴望在赋予中国共产党合法性的民族主义叙事中占据中心位置。习近平一直特别强调要达成“<a href="http://cn.nytimes.com/china/20150918/c18xitrip/" target="_blank" rel="nofollow">新型大国关系</a>”，这种关系意味着中美的地位会变得更平等。除非在礼仪上出现了意想不到的疏忽或错失，习近平的国事访问和在联合国的演讲会明确提醒人们，中国是国际社会重要且强大的成员。</p>
+<p>习近平这次访美的外交利益远大于其国内利益。目前，美国商界越来越担心中国的经济政策，共和党候选人也一直批评奥巴马对中国太过软弱，习近平访美行程的积极成果会表明中国仍然致力于国际合作，并驱散当下越发激烈的互相批评的声音。</p>
+<p><strong>问：习近平的阅兵式试图利用中国抗击日本的自豪感。现在中国这种情绪有多广泛呢？</strong></p>
+<p><strong>答：</strong>在中国内地，针对日本的负面态度很普遍。皮尤(Pew)近期的<a title="Link: http://www.pewglobal.org/2014/07/14/chapter-4-how-asians-view-each-other/" href="http://www.pewglobal.org/2014/07/14/chapter-4-how-asians-view-each-other/" target="_blank" rel="nofollow">一份调查显示</a>，信任日本的中国人不到10%——而日本人也不信任中国。没有亲身经历过中日战争的中国年轻人，对日本也有强烈的反感，很多观察人士对此感到惊讶。学校里的国家宣传和爱国主义教育，也倾向于把批评日本变为是正确的政治立场，所以我们很难知道这种负面态度，在中国人心中有多根深蒂固。</p>
+<p>分析民族主义抗议的地理分布，是看待中国民族主义的内部差异的另一个方法。在最近一份与<a title="Link: http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9760278&fileId=S0305741015000417" href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9760278&fileId=S0305741015000417" target="_blank" rel="nofollow">万家瑞(Jeremy Wallace)</a>合作开展的研究里，我们发现在2012年的反日示威浪潮初期，有较多大学生和外来工人的城市，更有可能发生反日抗议活动。</p>
+<p><strong>问：日本首相安倍晋三继续尝试转变日本军队的角色，预期在中国基层会发生什么呢？</strong></p>
+<p><strong>答：</strong>随着安保法案的通过，日本可在海外使用武力，以及在遭遇攻击时援助美国部队。法案得到通过之时，安倍首相也成功绕开了一个更难也更具象征意义的障碍，那就是修改日本宪法。中国官方应该不会鼓励或容忍基层做出强烈反应，有两个原因：其一，日本扩大自身角色受到了华盛顿的支持；其二，中日两国因东海争端而产生的紧张关系，虽然仍不友好但已趋于缓和，而且中方承认安倍在短期内不太可能下台。鉴于中国十分重视经营中美关系，中国对日本扩大军队的角色，以及安倍首相对于日本战时历史那种“不负责任的”态度，除了口头谴责之外，应该就不会采取其他行动了。</p>
+<p><strong>问：我们至今都没有在中国街头看到，有关南海争议的值得关注的抗议活动，即使在去年一个特别紧张的时期，中国工人在越南被抗议者杀害，也没有出现抗议活动。这是为什么？</strong></p>
+<p><strong>答：</strong>压制关于南海争端的街头抗议与中国更广泛的策略一致，那就是扩大中国在区域内实实在在的影响力，同时尝试缓和区域内的强烈反弹。在南海，中国面对越南和菲律宾，毫不犹豫地推动现实中的优势，因此中国在南海争议上的决心是毋庸置疑的。中国人对东南亚国家的民族主义情绪，也比针对日本或美国的情绪更轻，所以中国民间激进活动的“供应”相对较少，也较容易被中国政府压制。的确，是中国对争议岛礁越来越强的控制，引发了越南和菲律宾的民族主义抗议活动。尽管越南暴乱<a title="Link: http://cn.nytimes.com/asia-pacific/20140516/c16vietnam/" href="http://cn.nytimes.com/asia-pacific/20140516/c16vietnam/" target="_blank" rel="nofollow">导致数名中国工人丧生</a>，但中国避免了报复性的抗议活动，并向公众展示了越南方面打击所谓的闹事者的努力。</p>
+<p><strong>问：越南与中国之间有着动荡的历史，但越南共产党却时常研究中国的治理模式，你的研究有多大程度能适用于越南？</strong></p>
+<p><strong>答：</strong>中国不是唯一一个会在外交关系中利用民众情绪的国家。越南政府也容许民间出现抗议活动，藉此向北京表达越南人的愤怒和决心。在关于东南亚的民族主义抗议活动及领土争端的<a href="http://www.jessicachenweiss.com/uploads/3/0/6/3/30636001/ciorciari_weiss_forthcoming_ss_-_nationalist_protests_in_seasia.pdf" target="_blank" rel="nofollow">一篇新论文</a>中，我和约翰·西奥西阿利(John Ciorciari)注意到，在2007年、2011年和2014年，越南政府暂时容忍了反华抗议活动，但是在2009年、2012年和2013年，政府却压制了抗议活动。这个模式可以如此解释：越南希望努力对抗中国在南海的行动，政府却害怕民族主义抗议活动一发不可收拾，于是寻求在两者间取得平衡。“星星之火可以燎原”的风险在去年成真，当时原本和平的反华抗议活动，升级为针对外国工厂的暴乱，其中受影响的许多工厂甚至不是中国工厂。</p>
+<p>威权体制的领袖想要对抗来自外国的压力时，往往会把目光放在街头民众的情绪上。对中国、越南和其他国家的威权领袖而言，他们面对的挑战是如何让那些说法显得可信。即使是在民族主义抗议活动失控时，由于抗议的动机很复杂，如工资过低或工作环境恶劣等，外国仍然可以指责，抗议者并不是真正关心国际争端。</p>
+<div>
+<p>黄安伟(Edward Wong)是《纽约时报》北京分社社长。<br>
+翻译：Cindy Hao、Tang Wing Sze（实习）、 Lee Wing Yan（实习）</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%9A%E5%9B%BD%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民粹主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B8%E7%89%8C%E5%B1%8B/?category=18271" rel="tag">纸牌屋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E6%B4%BE%E5%A0%95%E8%90%BD%E5%A6%82%E6%96%AF%EF%BC%8C%E9%9D%92%E5%B9%B4%E5%9B%A2%E9%87%8C%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BE%AF%E8%81%9A/" target="cdt-mirror">【网络民议】团派堕落如斯，青年团里只剩下侯聚森们了</a>
 </h2>
 <p><p>@荣剑：任志强的微博删了，景临的微博还没删，还置顶着，许多人在说博主不讲信用，我看还是保留着好，可以让每一个看到的人拿这条微博来对照现实，对照身边的人和事。此条微博现在已经转发四万多，评论两万多，估计阅读量上千万了，这真是一个很好的启蒙教材，看看评论就知道了。</p>
@@ -863,47 +901,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">【立此存照】任志强：“我们是共产主义接班人？”</a>
-</h2>
-<p><p>9月21日，团中央微博撰文号召<a href="http://zqb.cyol.com/html/2015-09/21/nw.D110000zgqnb_20150921_7-01.htm">“理直气壮地高扬共产主义旗帜”</a>，并发起“#我们是共产主义接班人#”微博话题。任志强转发并评论：“曾经被这个口号骗了十几年！”，引来五毛围攻：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8810.54.35.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8810.54.35.png" alt="Screen Shot 2015-09-23 at 上午10.54.35" width="596" height="494"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8810.56.58.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8810.56.58.png" alt="Screen Shot 2015-09-23 at 上午10.56.58" width="595" height="553"></a></p>
-<p>任志强随后<a href="http://weibo.com/p/1001603889623095997939">写长微博回应</a>，称：“当我在#我们是共产主义接班人#的微博上评论这个口号骗了我十几年时，引来了无数的漫骂。那就写个长篇大论，讨论一下这个口号的荒唐。你可以努力为实现共产主义理想去奋斗，但你绝不是共产主义接班人！下辈子也不是。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.26.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.26.png" alt="Screen Shot 2015-09-23 at 上午11.09.26" width="588" height="497"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.37.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.37.png" alt="Screen Shot 2015-09-23 at 上午11.09.37" width="585" height="390"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.48.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.48.png" alt="Screen Shot 2015-09-23 at 上午11.09.48" width="583" height="487"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.59.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.09.59.png" alt="Screen Shot 2015-09-23 at 上午11.09.59" width="582" height="407"></a>   </p>
-<p>9月23日，团中央宣传部长景临发长微博<a href="http://weibo.com/3937348351/CBPtUdeD6?type=repost#_rnd1443029738650">《与任志强先生榷》</a>，指任志强“公开鲜明、郑重其事地反对共产党员的共产主义理想”。同日，<a href="http://weibo.com/1989660417/CBS1mDzCi?type=comment">《环球时报》主编胡锡进发自拍视频</a>，称：“<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E6%AC%BA%E9%AA%97%E4%B8%AD/">共产主义没有辜负我们这个民族</a>。我们不能只谈共产主义理想而漠视当前的尖锐问题，也不能因为买到了假货或是遇到个腐败的坏领导，就认定共产主义理想是‘扯淡’。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/eaaf2affjw1ewc3urjcukj20c81rotev.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/eaaf2affjw1ewc3urjcukj20c81rotev.jpg" alt="eaaf2affjw1ewc3urjcukj20c81rotev" width="440" height="2292"></a></p>
-<p>9月23日晚，任志强再发长微博<a href="http://weibo.com/1182389073/CBUA10gqH?type=comment">《全世界无产者联合起来》</a>，提出五条改革建议，并称：“千万别让团中央用愚昧再去欺骗年轻的一代。千万别让改革开放退回到改革之前。我不在乎别人骂我，但团中央不能用无知欺骗社会！”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.25.58.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.25.58.png" alt="Screen Shot 2015-09-23 at 上午11.25.58" width="550" height="539"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.23.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.23.png" alt="Screen Shot 2015-09-23 at 上午11.26.23" width="548" height="568"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.35.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.35.png" alt="Screen Shot 2015-09-23 at 上午11.26.35" width="553" height="545"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.54.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.26.54.png" alt="Screen Shot 2015-09-23 at 上午11.26.54" width="550" height="570"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.27.11.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-23-at-%E4%B8%8A%E5%8D%8811.27.11.png" alt="Screen Shot 2015-09-23 at 上午11.27.11" width="549" height="361"></a></p>
-<p><strong>以下为中国数字时代编辑摘自网友评论：</strong></p>
-<p>柔玫瑰575：从我还没学会说话时就听到这种声音，六十年后还是这个老调，可现实呢？看到的是; 贪官遍地，强拆滥捕，民不聊生，怨声载道！人心涣散，道德下降。某些人却还在那里枉谈什么共产主义！！！</p>
-<p>吴大头大头吴：看了您与任先生的文章，您的文章全篇在谈理想，而任则关注现实中存在的诸多问题。您的观点是：只要理想正确，任何问题都不是问题，都能解决。而任的出发点：不解决实际问题，理想都是虚的，所谓“空谈误国，实干兴邦”。我们从小到大听惯了口号理想，但现实中的问题是我们最关注的，这一轮较量，任胜了</p>
-<p>抗压王1：从头到尾看了一遍，其实就一句话:接班指的是继续奋斗，而不是坐享其成，这点我深深赞同，您跟任志强对接班人的理解不一样，这样吵并没有什么用。我关心的是，如果这样的文章就是公务员考试申论的范文，那跟八股文有什么区别？</p>
-<p>北极地瓜：共产主义，首先从环球时报不删评论做起。</p>
-<p>一品菜刀侍卫xs5：既然你们的主义这么伟大又手握宇宙真理，怎么还有那么多久经考验的共产主义战士前仆后继的通奸腐败，别说西方也有腐败哈，他们是腐朽没落的资本主义社会，没有腐败才是怪事</p>
-<p>月球G：活在连自己都不相信的谎言中，还要伪装的道貌岸然去教育别人，那要怎么样的厚颜无耻才行？！</p>
-<p>拿望远镜眺望未来：任总的理论水平已经达到相当的高度，和团中央的枪手都不在一个等量级！改革开放几十年了，还用文革的思维和理论，这样的人长期占据国家理论思想阵地，真是贻笑大方了！</p>
-<p>挺讨厌这种文革余孽的思想。即不搞经济建设提高大家生活水平，又特喜欢窝里斗，你给我戴帽子我给你戴帽子。幼稚的可笑。都过去30年了，怎么还能死剩下一些。</p>
-<p>新辩证唯物主义：任志强同志果然有理论基础，这个党员不是混的!</p>
-<p>超级令狐聪：呵呵优秀党员任志强 年薪七百多万并且由党委一致通过</p>
-<p>初心怡然-坚守：把房子平均分分把，我们不要别墅，90一下就行。</p>
-<p>大漠孤烟xj：您退党了吗@任志强</p>
-<p>郭少林：前段时间还听这个老共产党员说“我信仰共产主义，我觉得这是最好的社会”，这就开始打自己脸了，要挣钱也别昨是今非，晚节不保。通过你在微博上的言论发现以前大家觉得是你是最黑心的地产商，一点都不冤枉你啊。</p>
-<p>贫僧法号祥林嫂：老是有人在老任微博下谩骂，何必呢。有人说他是靠着父母的荫蔽发达的，中国比他爹妈官大的多了去了，还不是有那么多败家子弟。至于说他吃了D饭又骂D，正因为是D员内部人才更了解，更有批评的资格。鲁迅拿着国民政府的高薪骂国民党，马克思生在资本主义社会却是社会主义开拓者。怎么就被捧为圣人了呢？</p>
-<p>追寻梦想Kris：谁人不知道/那个是谎言/只是都不去揭穿/演员（官员）和观众（普通百姓）都很明白，拿钱养着共青团的一大票人，所以你们就为主子背书，说谎话——典型的一帮有奶就是娘，根本不用良知去分辨对错！</p>
-<hr><p><small>© 喜闻乐见 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">共产主义接班人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AF%E4%B8%B4/?category=18271" rel="tag">景临</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -915,7 +912,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -925,5 +922,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

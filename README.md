@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/x%E5%8D%9A%E5%A3%AB%EF%BD%9C%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A6%E6%98%AF%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%99%A9%E6%A2%A6%EF%BC%81/" target="cdt-mirror">X博士｜魔方大厦是怎样成为你的童年噩梦！</a>
+</h2>
+<p><blockquote><p><strong>微信号：X博士（doctorx666）</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/x%E5%8D%9A%E5%A3%AB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/x%E5%8D%9A%E5%A3%AB.jpg" alt="x博士" width="250" height="250"></a></p></blockquote>
+<p><strong><em>文／耿庆喔、霍启明</em></strong></p>
+<p>1996年的某个傍晚，那时候香港还没回归，我把频道调到上海教育电视台，在弘扬主旋律的垃圾纪录片播出之后，《魔方大厦》来了，片头强势的爆炸声，以及九十年代特有的立体光晕背景一下子勾住了我，在接下来的日子里，我被下列东西充实着<strong>：白脸腮红、截肢的玻璃人、水晶棺材、鬼魅司机，以及各种怪诞图案与迷幻音效</strong>，画面如此阴森魔幻，让我惊吓之余又欲罢不能，来克那张死人脸妥妥地陪我走过了每一个夜晚。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A601.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A601.jpg" alt="魔方大厦01" width="525" height=""></a><br><span><strong>九十年代流行的三维立体图</strong></span></p>
+<p>据说《魔方大厦》一共是26集，然而一切的恐惧、阴郁、猎奇在第十集戛然而止，离正式完结还差整整十六集。该片停播的官方理由是资金不足人才流失。从此之后，《魔方大厦》成了江湖上一个传说，人人知其恐怖，却不知为何恐怖，今天我决定仔细这个迷之诡异神剧。</p>
+<p><strong>一《魔方大厦》表现的是一个无序而陌生化的世界</strong></p>
+<p>恐怖一般分两种：<strong>恐怖形式与恐怖本身</strong>。而这部剧对恐怖形式的运用真的是得心应手，它的音乐诡迷，色调偏阴暗，里面的人设个个都是按照入殓尸标准来画的，吊稍眼，眼白多于眼仁，大红腮，以及一张张面无血色的脸，在这种人设的烘托下，想象力丰富的儿童会在潜意识里觉得片中是一个完全非正常的诡异世界，或者说是地狱。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A602.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A602.jpg" alt="魔方大厦02" width="525" height=""></a><br><span><strong>如尸体一般的妆容</strong></span></p>
+<p>作者为了向我们展示这个陌生化的世界，将该片的整体画风设定得非常抽象原始，所有的器物、建筑、汽车都被作者分解重构为<strong>圆锥体、圆柱体以及球体</strong>。这些东西被缩减到一块二维平面上，构成了物象与空间的新秩序。<strong>这很容易让人联想到毕加索的画，假设让一个小孩去看《格尔尼卡》这样的立体主义画作，他肯定是压抑痛苦的，因为看似简单的直线勾勒往往承载着很多符号与意象，它会把一个涉世未深儿童的精神彻底压垮</strong>，这就是我们心理上无法接受《魔方大厦》的内在原因。而魔方大厦的画风注定要这样，如果把画风变了，那它的魂就没了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A603.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A603.jpg" alt="魔方大厦03" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A604.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A604.jpg" alt="魔方大厦04" width="500" height="297"></a><br><span><strong>格尔尼卡—毕加索</strong></span></p>
+<p><strong>生活中我们常讲“黄配紫，不如死，红配绿，臭狗屁”，因为冷暖色并搭是大忌</strong>。而在这部神剧中，来克是黄配紫，乐乐乐是红配绿，色彩的差异化并存，刷新观众审美观的同时，也造成了一种奇异的陌生感，而恐惧往往来自陌生。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A605.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A605.jpg" alt="魔方大厦05" width="480" height="360"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A606.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A606.jpg" alt="魔方大厦06" width="420" height="315"></a><br><span><strong>剧中人物的神情、动作非常抽离诡异</strong></span></p>
+<p>同样陌生的还有片中出现的各种恐怖意象，来克房间里的齿轮挂钟，墙上挂着的黑白照片，水晶棺，以及悬崖边缘。值得一提的是，眼睛在片中出现的频率极高，长颈鹿幼儿园的门上布满了眼瞳，酒厂的瓦罐上印着的也是眼睛，因为眼睛是恐惧之源，一个人害怕的时候，闪烁的眼神往往比发抖的身躯更具感染力。莫名在幽暗出现的眼睛往往能激起人类内心最暗处的恐惧，比如我觉得有一部欧洲的黑色老电影叫做《一千只眼睛》是我看过的最恐怖的电影之一，无他，就因为片中的主人公一直被众多黑暗中的眼睛所窥视，你不知道哪些眼睛背后藏着怎样幽暗的灵魂。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A607.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A607.jpg" alt="魔方大厦07" width="525" height=""></a><br><span><strong>自带攻击属性的摆钟，非常表现主义，冰冷机械</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A608.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A608.jpg" alt="魔方大厦08" width="525" height=""></a><br><span><strong>墙上的黑白遗照</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A609.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A609.jpg" alt="魔方大厦09" width="525" height=""></a><br><span><strong>水晶棺中的狰狞来克</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A610.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A610.jpg" alt="魔方大厦10" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A611.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A611.jpg" alt="魔方大厦11" width="446" height="293"></a><br><span><strong>哪些毫无感情的黑眼睛</strong></span></p>
+<p><strong>怪异的画风总是为诡异的情节准备的，《魔方大厦》里充满了突入其来的诡异情节</strong>。如当来克掉进水晶棺中时，一个长得像伟大领袖的医生莫名其妙地大笑；同样大笑的还有一个鬼魅司机，他笑完之后就无故消失了；头盔城中的居民明明在用力卸头盔，却发出了做爱的娇喘声；而科洛城中的老虎居然发出猪的拱叫声，这几个超现实主义画面都是我童年不能承受之重。这些不合逻辑的剧情设置就像梦境中跳跃的思维片段，司空见惯的东西被当做反常的东西来对待，以致于让人感到极端的不安全感。《魔方大厦》的走红，并不是它塑造的形象有多完美，而是因为它的反传统，它轻易的击碎了我们庸常幼稚的世界观，我们突然这个世界有可能是无序的、无道理的。</p>
+<p><strong>二 《魔方大厦》里的情节是对残酷、恐怖历史的投射</strong></p>
+<p>《魔方大厦》作为一部优秀的现实主义动画，里面充满了对现实残酷历史的影射。</p>
+<p>在《装在罐头里的爸爸妈妈》一集中，来克当选市长后做的第一件事，就是将家长被关进象征集中营的罐头，并附上其人罪状与特点的纸牌，好让别人认清这些人的真面目，离开家庭约束的孩子正好借此玩个够。这项深得民心的措施让来克的支持率快速增长，在市政府大楼接受全城最高礼遇，并向市民们挥手致意。伴随着“打打打，打个稀巴烂”的呼喊声，孩子们在街上为非作歹，恣意妄为，很快危机就出现了，由于商场免费供应，货币无法正常回笼，而医生被关在罐头里，又使手术无法进行，来克被迫实施改革，取消之前的激进政策。<strong>这些情节无疑让我们想到了十年浩劫，革命小将砸烂公检法，狂热的偶像崇拜，而知识分子与工程师则被关进牛棚，挂着纸牌游街，以致国计民生则完全陷入混乱的境地。作者只不过借儿童的毁灭天性重新还原了这段历史</strong>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A612.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A612.jpg" alt="魔方大厦12" width="525" height=""></a><br><span><strong>开往集中营的死亡列车</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A613.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A613.jpg" alt="魔方大厦13" width="525" height=""></a><br><span><strong>真实历史中，纳粹和苏联都有大把这种死亡列车</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A614.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A614.jpg" alt="魔方大厦14" width="525" height=""></a><br><span><strong>领袖接见全市儿童</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A615.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A615.jpg" alt="魔方大厦15" width="525" height=""></a><br><span><strong>穿蓝灰布，带红袖章的金三胖</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A616.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A616.jpg" alt="魔方大厦16" width="525" height=""></a><br><span><strong>打打打，打个稀巴烂。这在中国叫砸烂旧社会。在德国叫“水晶之夜”</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A617.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A617.jpg" alt="魔方大厦17" width="525" height=""></a><br><span><strong>悉数罪状的大字报</strong></span></p>
+<p>此外，文中还有俩个隐喻，如下图所示，但我在本文中不能讲。请去我的微博<strong>爱克斯博士</strong>查看</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A618.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A618.jpg" alt="魔方大厦18" width="525" height=""></a></p>
+<blockquote><p><strong>（编者附）<a href="http://weibo.com/u/5573708715">@爱克斯博士</a>：来克在背诵乘法口诀的时候，八八得六十五。而在“神奇的日历”一集中，镜头反复停留在512这一天，而魔方大厦拍摄于1990年，当年的农历512是个特殊的日子。</strong></p></blockquote>
+<p>在《黑蝉乐队》这集中，这支具有250年历史的乐队每天只会演奏一个曲子，乐队的创造力几乎等于零，这是多么万马齐喑的社会才能孕育这种畸形文化现象啊。而作品审查的机构竟然不是广电总局或者文化部，而是八竿子打不着的卫生部，这不是在暗指外行领导内行嘛。城市的场景除了高楼，烟囱，就是光溜溜的石头，一点生命气息也没有，与文化上的单一也算是相辅相成。最后，当来克在城市上空播撒种子后，城市重新焕发生机，长的神似汪峰的乐队主唱在花草绿叶的簇拥下，终于灵感大涌，蹦擦擦的写了首《春天里》，之后春满大地！这个情节影射的是八十年代文艺界解除禁锢之后，那短暂的黄金年代，那个年代的文艺界充满了松弛的鸟语花香，郑渊洁也是在那个年代成名的，他很怀念那个开满鲜花的年代。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A619.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A619.jpg" alt="魔方大厦19" width="525" height=""></a><br><span><strong>汪峰在花草簇拥下，终于写出了《春天里》，大地复兴，文化充满生机</strong></span></p>
+<p>在《夏河银行》这集中，每个人的脸上只有满满的正能量，所有的负面情绪都被抽取干净，存到夏河银行中，因为国家不允许任何人有负面情绪。不管是在新闻报道，还是公共场合，甚至私人生活中，你都见不到任何哭泣，愤怒，忧郁，每个人都在一片莺歌燕舞中安享太平。怪里怪气是其中唯一一个头脑清醒的，可惜的是，在与体制的激烈对抗中他还是被降服了。另外怪里怪气的造型是按姜文设计的，在那个年代，姜文是叛逆者最好的形象代言人。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A620.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A620.jpg" alt="魔方大厦20" width="525" height=""></a><br><span><strong>负面情绪储藏室</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A621.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A621.jpg" alt="魔方大厦21" width="400" height="279"></a><br><span><strong>旧日的画面中永远充满欢声笑语</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A622.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A622.jpg" alt="魔方大厦22" width="575" height=""></a><br><span><strong>怪里怪气和姜大导演</strong></span></p>
+<p>《头盔城》为我们展示了失去个性的千人一面，作者借来克之口，指责这是<strong>“禁锢的头脑，可笑的规矩”</strong>，并鼓励人们用真诚脱去头盔。除了对大脑的解放，片中还提到了嘴巴，“三探樱桃塔”中，作者又借苗族小孩之口，说出了“<strong>不能说真话不如当哑巴”</strong>的真相，<strong>毕竟独立思考与言论自由是生而为人最宝贵的俩个权利</strong>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A623.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A623.jpg" alt="魔方大厦23" width="525" height=""></a><br><span><strong>失去思考能力后就是千人一面，只能发出切除脑前额叶般的笑声，宛如行尸</strong></span></p>
+<p>郑渊洁如此鼓励个性，强调独立思考，强调勇敢说不，与他本人的亲身经历是密切相关的。还是小学生的郑渊洁就是桀骜不驯的，他自己说：“<strong>我</strong><strong>将学校布置的作文题《早起的鸟有虫子吃》写成了《早起的虫子被鸟吃》，老师不从，羞辱我，我就引爆了身上的拉炮</strong>”，于是他的求学之路止步于四年级。他声称学校教育是最保险的，但未必是最适合的，日后他对儿子郑亚旗的家庭教育就是他一贯理念的延伸。<strong>这种叛逆精神也折射到他的童话里，兔子成了平庸的象征，狼和老鼠则被赋予智慧与勇敢，像来克这种传统意义上的坏孩子却心地善良，想象力丰富，而《皮皮鲁奇遇记》里的好学生，个个都怀揣着希望别人考试失利的龌龊心理</strong>。正因为郑渊洁看穿了人性，所以在他的动画里总是充满了悲壮和不屈。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A624.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A624.jpg" alt="魔方大厦24" width="400" height=""></a><br><span><strong>老郑，一个大写的不服</strong></span></p>
+<p>魔方大厦是一部夹杂着魔幻与现实的优秀动画，与同时期的其他国产一起（比如疯狂的兔子，输入“<strong>我兔要疯</strong>”查看），形成了中国动画独特的风格，你应该庆幸自己成长在这个年代，那个年代的所有大师，都在暗暗教你如何成为一个独立而不屈的人。<strong>旧日已逝，未来在前，脚踏着大地的你，该带着怎样的灵魂走向远方，自己决定。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A625.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A625.jpg" alt="魔方大厦25" width="500" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/x%E5%8D%9A%E5%A3%AB%EF%BD%9C%E9%AD%94%E6%96%B9%E5%A4%A7%E5%8E%A6%E6%98%AF%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%99%A9%E6%A2%A6%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E8%87%AA%E7%94%B1/?category=18271" rel="tag">思想自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/?category=18271" rel="tag">独立思考</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%91%E6%B8%8A%E6%B4%81/?category=18271" rel="tag">郑渊洁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%A6%87%E5%A5%B3%E6%9D%83%E5%88%A9%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%A2%A6%E7%9A%84%E9%A5%B0%E5%93%81%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：妇女权利，中国梦的饰品？</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/018378867_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/018378867_30300.jpg" alt="0,,18378867_303,00" width="575" height="324"></a><p>中国”女权五姐妹”曾遭拘捕</p></div>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/">五女权人士被拘</a>专题</p></blockquote>
+<p>（德国之声中文网）习近平访美最后一出重头戏，是登上纽约联合国总部讲坛，主持全球妇女峰会。作为近年来中国最具父权家长气质的领导人，他这一举动无疑给全球性别平等运动带来挑战。</p>
+<p>习近平就妇女发展最著名的论述是”要注重发挥妇女在弘扬中华民族家庭美德、树立良好家风方面的独特作用”。相比较于胡锦涛等前任照本宣科地重复”不 断开创妇女工作和妇女事业新局面”等政治正确的废话，他这些讲话更具有实际意义，也是他的”中国梦”蓝图中的一部分。正因为如此，妇女发展的前景令人担 忧。</p>
+<p>“中国梦”的官方定义，是要”实现中华民族伟大复兴”。中共在将颠覆传统发展成毁灭社会的”文革”、改革开放迎来”八九”民主运动之后，视经济高速发展作 为领导权的合法性根本。习近平上台以来，经济大幅下滑，面临衰退”新常态”，便将自上世纪九十年代开始挥舞的传统文化大旗高高祭起。从妇女权利的立场，看 不出这种”伟大复兴”的希望何在。</p>
+<p>在”复兴儒学”的名义下，一些早已经被抛弃的贬损妇女的主张沉渣泛起，登上主流媒体。它们和消费主义相结合，在中国政治言论被打压、娱乐八卦唱主角的舆论环境中，成为妇女发展的严重障碍。</p>
+<p><b>女性人权活动家遭受迫害</b></p>
+<p>习近平在将前”政法沙皇”周永康作为”大老虎”代表扔进监牢之后，非但没有放弃、反而强化了周永康参与创设的维稳体制，令中国社会的言论自由度大幅下 降，NGO和社会运动遭受重创。今年3月，倡导反对公共场合性骚扰的”女权五姐妹”被拘捕，引发全球妇女的抗议。她们被释放之后，至今仍面临威胁和骚扰。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/017504026_40300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/017504026_40300.jpg" alt="曹顺利" width="525" height="295"></a><p>女性人权活动家曹顺利死于狱中（资料图片）</p></div>
+<p>中国有很多优秀的女性人权活动家，应该由她们代替习近平主持全球妇女峰会，比如曾获马丁•恩纳尔斯人权奖的曹顺利女士。然而，曹女士于2013年9月因计划前往参加联合国人权会议而被中国警方拘捕，并于次年2月被折磨致死。</p>
+<p>曾独立竞选人大代表、参与多项权利运动的人权活动家刘萍，因主张官员财产公开而被判处有期徒刑6年零6个月。获得包括联合国教科文组织颁发的吉耶尔莫•卡 诺新闻自由奖在内的多项国际新闻奖的独立记者高瑜，二十多年来三次获刑，今年4月被判处有期徒刑7年，在狱中患病未得治疗。为底层妇女及儿童权利抗争的苏 昌兰，已被未经审判地关押了11个月，健康状况恶化，被拒绝和家属见面。遭受政治迫害的中国妇女名单还很长很长。如果习近平主持联合国妇女峰会时能把她们的名字念一遍，必将用完所有的时间。</p>
+<p><b>联合国的人民大会堂？</b></p>
+<p>乐观人士认为，无论如何，习近平主持这样的会议，将会使得联合国性别平等及妇女发展的主张，以正面的形象出现在中国主流媒体。中国国务院新闻办公室也于本 周发表了《中国性别平等与妇女发展》白皮书，尽管内容空洞，回避问题，但是聊胜于无。曾经感慨苏共”竟无一人是男儿”的习近平，在西雅图致辞时提到美国作 家海明威，也避免了使用”男子汉气概”等评语，而是表示对狂风和暴雨、巨浪和小船、老人和鲨鱼的描写留下了深刻印象。</p>
+<p>早已习惯了领导讲话大话连篇的中国主流媒体，不会在意习近平讲了什么，而是他主导联合国讲坛的形象。那一刻，纽约联合国总部大楼将幻化为北京的人民大会堂，全球妇女权利运动成为”中国梦”大厦上一个美丽的饰品。</p>
+<p>长平是中国资深媒体人、时事评论作家，现居德国。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%A6%87%E5%A5%B3%E6%9D%83%E5%88%A9%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%A2%A6%E7%9A%84%E9%A5%B0%E5%93%81%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E9%A1%BA%E5%88%A9/?category=18271" rel="tag">曹顺利</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%AF%81%E4%B8%AD%E5%85%B1%E7%BD%91%E7%BB%9C%E7%AA%83%E5%AF%86-%E7%BE%8E%E5%AA%92%E7%88%86%E6%88%90%E9%83%BD%E5%86%9B%E5%8C%BA%E9%BB%91%E5%AE%A2%E8%BA%AB/" target="cdt-mirror">苹果日报｜证中共网络窃密 美媒爆成都军区黑客身份</a>
 </h2>
 <p><p>中国国家主席习近平与美国总统奥巴马在白宫举行「习奥会」前夕，美国《华尔街日报》踢爆中国军方一支代号78020的网络黑客部队，通过起底该部一名黑客军官，再爆中共军方参与网络黑客活动证据。习近平此前在西雅图信誓旦旦，保证中国政府不以任何形式参与网络窃密，《华尔街日报》的报道无疑等于掌掴习近平，令中方难堪。</p>
@@ -856,52 +933,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E8%94%A1%E9%9C%9E%EF%BC%9A%E5%B7%A6%E8%BD%AC%E5%80%92%E9%80%80%E6%AD%A3%E6%98%AF%E6%AD%AA%E6%9B%B2%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3/" target="cdt-mirror">博客中国｜蔡霞：左转倒退正是歪曲共产主义理想</a>
-</h2>
-<p><p>左转倒退正是歪曲共产主义理想</p>
-<p>中央党校  蔡霞</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/p3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/p3.jpg" alt="p3" width="304" height="400"></a></p>
-<p>习近平总书记谈共产主义理想信念引起社会各界的强烈反响，各种解读都有，各种行为反应也都随之发生。一方面有些民间企业家产生深深疑虑，加快资产出逃；另一方面，有些地方开始制定“向共产主义努力”的政策措施，似乎又要取消商品经济。这些解读真那么合适吗？有必要做些思考。</p>
-<p>首先，共产主义作为中共的最高理想写在中共党章里，从1921年来从来没有改变过，作为现在的中共中央总书记，对党内领导干部强调这点，没有什么不合适的。政党的理想信念是凝聚党心的精神支柱，理想信念倒了，党心必然就散，组织上的分崩离析也就不远了，那别说有8000万党员，哪怕是一亿党员也没用，遇到重大冲击就散就垮，几乎是必然的。就此而言，前苏联党的轰然垮塌，并非是“竟无一人是男儿”，那是苏共党内没有可以凝聚党心的共同政治信念的必然结果。此为其一。</p>
-<p>其二，马克思恩格斯所说的共产主义含义究竟是什么？多年来，中共和中国社会的解说含混不清，就可能字面理解，以己之见解释马克思恩格斯。关于共产主义，中国人最普遍的说法是：社会财富极大丰富，各尽所能各取所需。所有这些理解有很大的肤浅片面和扭曲。</p>
-<p>马克思恩格斯说的共产主义，本质内涵究竟是什么？请读《共产党宣言》的第二章最后，说的是“”自由人的联合体”，“在那里，每个人的自由而全面的发展是一切人自由发展的条件”。多年以后，恩格斯还说到，有人问他如何用一句话概括共产主义？他认为，最准确的还是共产党宣言中的“自由人的联合体”。</p>
-<p>请看，马克思恩格斯所说的共产主义，有2个根本含义：一是所谓自由人的联合体，就是人作为具有独立性的主体而联合起来而相互合作，而不应是依附于任何人或物的被控制被奴役的对象。二是每个人的自由全面发展是前提性条件。马恩强调的是“每个人”，抛开“每个人”这个前提，回避“自由而全面发展”去讲共产主义理想，不仅曲解背离马恩的共产主义本意，而且已经带来党内思想混乱。因此，不真正讲清楚共产主义的本质含义，就不可能使全党真正确立坚定的理想信念。</p>
-<p>如何实现共产主义？有人简单地抓住一句话，说就是“剥夺剥夺者”，搞“共产”。按中国文化思维的理解，就是穷人瓜分富人的财产，就像水泊梁山好汉“劫富济贫”。五十年代初期的生产资料所有制社会主义改造，就是因打着实现共产主义的旗号而获得正当性。现在富人一听中共再讲共产主义，自然生出恐惧心理，自然加快资本外逃。</p>
-<p>也许是中国人长期深陷贫困之中，所以特别关注物质财富，而恰恰把人的自由而全面发展这个实质含义丢置不论了。其实，马克思恩格斯在共产党宣言中说第一步是工人阶级争得民主。暴力革命是为了争得民主权利，使工人阶级成为国家的主人，即国家权力归社会民众所有，每个人首先实现和维护好作为公民应该有的民主权利，而后利用国家的力量建设新社会，为每个人的“自由而全面发展”创造条件。</p>
-<p>人类政治文明是个逐步进步的历史过程。1840年代的欧洲，民主还没有发展到社会公众无分贫富贵贱都享有公民权利的程度，工人阶级还没有制度性渠道来表达和维护自己的权益，所以在当时的历史条件下，马克思恩格斯提出暴力革命观点。而当经过40年的变迁，民主政治在欧洲有了长足的进步，恩格斯根据1870年代到1880年代德国工人斗争的胜利，指出工人阶级应该把合法斗争和不合法斗争结合起来，开展议会斗争，来争取改变法律和政府政策。恩格斯当时对暴力革命剥夺剥夺者的观点，事实上在思想上已经有所改变。今天，我们再把共产主义简单化理解成“共产”，实际是给抢劫别人财富寻找正当性借口。尤其是当今中国需要极大地调动一切积极因素推进国家改革建设，如果还以各种貌似政治正确的理由，侵犯公民合法私有财产，搞强拆强行没收以及并吞民企资产，无疑是在毁坏中国市场经济和社会道德底线。</p>
-<p>第三，马克思恩格斯一再阐述过，实现共产主义是一个漫长的历史自然发展的过程。但是，中国在上世纪五十年代刮起跑步进入共产主义，浮夸冒进风，给中国经济社会带来毁灭性的灾难。</p>
-<p>与经济上的急躁冒进相关联，政治上强调阶级斗争，搞一大二公，消灭一切私有财产，直到文革十年内乱……。当时有多少中共党人多少热血青年，以为是在为神圣理想奋斗，却没想到这是在走向深渊。</p>
-<p>邓小平在八十年代初反复强调要汲取教训，清醒认识最大的国情是中国处在社会主义初级阶段。这个阶段至少要有100年，建设有中国特色社会主义需要几代人十几代人甚至几十代人的努力。因此，要毫不动摇地坚持社会主义初级阶段基本路线，党的一切方针政策都必须从这个实际出发，都不能超越这个阶段。邓小平还深刻指出，我们要有右反右有左反左，但主要是反左。</p>
-<p>而现在一说要坚持共产主义理想信念，有些地方开始研究如何进行新的“公私合营”，有些甚至酝酿提出一些限制民企参股国企的政策措施，等等。这些向计划经济、阶级斗争回归的所谓举措，正在滑向背离党的社会主义初级阶段基本路线、否定邓小平理论，否定改革开放的危险倾向。照此下去，不仅会引发更多的资本外逃，加剧“用脚投票”趋势，而且会使各方面关系全面紧张，这将很容易毁掉30多年改革开放的经济社会成果，我们不能不对此高度警惕。这种明显违背党的政治纪律的倾向，必须要严肃对待。遵守党的政治纪律，就必须坚持党在社会主义初级阶段基本路线，就必须自觉遏制否定改革开放的左的思潮，坚持解放思想探索创新，在锐意深化改革上下大力气。</p>
-<p>第四，每个人自由而全面发展的共产主义，作为一种社会价值追求，应该肯定。但针对现实，不能不思考究竟什么样的制度条件，能够保障和支撑中共党推动社会进步，向共产主义迈进？</p>
-<p>不可否认的是，中国在1949年以后所建立的制度是苏联模式的体制。实践证明，这样的体制下国家权力高度集中，执政党内有些人特权享受。随着时间推移，权力贪腐侵害社会利益，阻碍历史进步，最终导致苏共党解体、政权垮塌。实践证明，即便共产主义理想再好，如果所建立起来的制度名义上是“社会主义”，实际制度运转的价值取向和人民群众利益背道而驰，并且严酷地打压人民群众的不同意见，那么这个制度迟早会成为虚假谎言，而每个人都无法摆脱被奴役，甚至被剥夺生命安全的正当利益的命运。</p>
-<p>中国50年代末的那场历时三年全国范围的大饥荒，中国60年代中期长达10年的文革内乱，中国这些年来党内大面积的严重贪腐，无一不说明，国家体制和党的理想信念关联极为紧密。如果现实体制有严重弊端而又长期不改的话，那么共产主义理想再好，也可能只是镜中花水中月。真正坚持共产主义理想信念，就必须真正遵循马恩一再阐述的经济和政治作用与反作用的基本原理，推进改革，坚持进步，反对倒退。</p>
-<p>第五，共产主义是中国共产党的最高理想，按党章规定，要求全党8000多万党员坚持这个理想是完全应该的。但党和国家不能等同，不能把党的意识形态等同于国家意识形态，而要求全体国民必须坚守。国家意识形态是全体国民最普遍的基本价值追求的表达，应该是获得全社会最广泛的认同和接受。但开放环境中的社会、市场竞争中的社会意识形态，因为利益的多元分化，因为开放社会的思想活跃，社会意识形态的多元化是必然的。作为中国唯一的执政党，党的理想信念在国家生活中应该起主导作用，但决不能强制全社会都与党保持一致。</p>
-<p>就此，这个问题还要认真探讨。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E8%94%A1%E9%9C%9E%EF%BC%9A%E5%B7%A6%E8%BD%AC%E5%80%92%E9%80%80%E6%AD%A3%E6%98%AF%E6%AD%AA%E6%9B%B2%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E9%9C%9E/?category=18271" rel="tag">蔡霞</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88%E4%BC%9A%E8%A7%81%E5%B1%A0%E5%A4%AB%E6%97%A0%E6%9E%9C%EF%BC%8C%E6%89%B9%E6%8D%95%E5%90%8E%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%90%91/" target="cdt-mirror">博讯｜李方平律师会见屠夫无果，批捕后转移去向不明</a>
-</h2>
-<p><p>博讯报道（9月22日）李方平律师今天到福建省永泰县看守所要求会见屠夫吴淦无果，后经驻所检察官初步核实吴淦被以煽动颠覆国家政权罪批捕不久后就已被带走，但去向不明。以下是李方平律师所记录：9月22日要求会见屠夫吴淦小记 </p>
-<p>李方平律师：自六月下旬厦门思明公安通知吴淦被以“寻衅滋事罪、煽动颠覆国家政权罪”批捕后，办案单位以“危害国家安全犯罪”为由不同意燕薪律师会见。逮捕后又已侦查三个月之久，2015年9月22日我到福建省永泰县看守所要求会见。只有一位长者在门卫室值班，看见我过来有些惊讶，赶紧向所长报告。所长通过门卫告知没有接到办案单位通知，律师不能进来。门卫以此为由拒绝我进门，僵持中我趁他人办事也进了大门。门卫非常惊慌，我安抚他说先在门卫室等等。质疑中，门卫略表歉意的解释：”我也搞不清楚，事情为什么会搞成这样”。我说你继续跟负责人联系，我再等半小时，没有回复的话，我还是要上去。门卫脸露难色，我说这不是为难你，我是履行律师职责。我多次与所长通电但无人接听，大约半小时后所长回电坚持说没有接到办案单位通知，不能接待我。我告知律师是通过看守所窗口要求会见并递交手续，办案单位同不同意会见是另外的问题。你们怎不能把律师拒之门外吧？所长考虑了一下说，那你进来窗口递交手续吧！</p>
-<p>进到接待窗口，没有警察，公勤人员也是松松垮垮的，以前那种明显紧张已悄然消失。寸步不离目盯跟踪的警察没有了，佩戴微型摄像机过来接收手续的警官也没有了。我随便问问吴淦身体情况怎么样？立秋了，想送长袖衣服怎么办？一个工作人员说：这么年轻，应该没什么问题吧？衣服？我不清楚。给人的感觉好像支支吾吾。正好所长进来，我又问送衣服的事，所长略有所思，说还是等通知了再送吧！考虑到吴淦是寄押在永泰看守所，我追问所长，是不是办案单位又提走了？所长好像跟没听到一样不置可否，径直离去。</p>
-<p>递交完会见手续，我到驻所检察官跟踪上次情况反映的回复问题。同时向检察官了解厦门思明公安是不是不在永泰异地寄押了？检察官说家属没有收到手续吗？我说没有通知家属，请他核实一下。我们也会同时向厦门思明检察院核实。检察官非常认真负责，初步核实吴淦被以煽动颠覆国家政权罪批捕不久后就已被带走。但去向不明，请我们向办案单位和检察院进一步核实。</p>
-<p>17时许接到永泰县看守所电话，告知办案单位不同意律师会见吴淦。我要求代为转告请办案单位把书面决定邮寄我所。</p>
-<p>仰天长叹，屠夫何在？脑子里突然像快门一样弹出好多关键词：厦门？福州？天津？看守所？指定监居？</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88%E4%BC%9A%E8%A7%81%E5%B1%A0%E5%A4%AB%E6%97%A0%E6%9E%9C%EF%BC%8C%E6%89%B9%E6%8D%95%E5%90%8E%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%90%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%A4%AB%E5%90%B4%E6%B7%A6/?category=18271" rel="tag">屠夫吴淦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%96%B9%E5%B9%B3/?category=18271" rel="tag">李方平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -913,7 +944,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%A4%AB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -923,5 +954,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%A4%AB
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

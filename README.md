@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%8D%95/" target="cdt-mirror">羽戈：报书单</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B0%81%E6%98%AF%E4%B9%A0%E5%A4%A7%E5%A4%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B0%81%E6%98%AF%E4%B9%A0%E5%A4%A7%E5%A4%A7.png" alt="谁是习大大" width="550" height="377"></a><p>Youtube 页面截图 ／ 配图与文章无关</p></div>
+<p><strong>以下内容来自微信公号：羽戈(yuge830)</strong></p>
+<p><em>他那么喜欢报书单<br>
+只是为了掩饰自己的浅陋<br>
+就像他惯于用狂妄掩饰自己的自卑？</em></p>
+<p><strong>文 <strong>| 羽戈（青年学者）</strong></strong></p>
+<p>蛋总的初恋，是九班的李若彤。此女与蛋总同乡，高中同班，大学同系，渊源不可谓不深，以至蛋总常常叹为千年之缘、天作之合。情人眼里出西施，在蛋总看来，她有七分神似我们那代人的女神李若彤（尽管我们认为只有三分相像，不过为了给蛋总面子，便一直称其为“李若彤”，时至今日，竟而忘记了本名），可惜个头矮了点，显得过于丰腴。蛋总那时还是处男，为叶子楣的表演所蛊惑，最爱这一款肉弹，朝思暮想，夜不能寐，跑到卫生间打手枪，最后关头高喊李若彤的名字，如一道性感的闪电划破了躁动的长夜。</p>
+<p>李若彤好读书，酷爱西方文学，听说我有加缪的文集，打电话托蛋总来借。蛋总思得一计，问我：你这一床书，哪本最难读？我答：黑格尔《精神现象学》。蛋总找出这两卷书，看了看定价，掏出五十块钱，说这书归我了。我骂了一声，把钱还他，道：反正这书我也不会再读，你拿去耍好了。他乐不可支，开始用功，在书中四处批注，如“深刻”“偏见”“令我想起了柏拉图《斐多篇》”云云。<strong>这厮虽不学无术，却写了一手好字。不出半日，《精神现象学》上卷便布满蛋总的墨宝，花团锦簇</strong>。我警告他适可而止，过犹不及，以免露出马脚。他嗯嗯点头，把黑格尔与加缪包成一团，到十二舍找李若彤。</p>
+<p>晚上回寝室，见蛋总高卧床上，一脸落寞。我知战况不佳，故意不去理他，片刻之后，他主动过来搭话。原来他把《精神现象学》和《加缪文集》一并拿给李若彤，告诉人家：最近我正读黑格尔，建议你也看看，对理解加缪有些帮助。李若彤接过《精神现象学》，翻了两页，突然骂道：脑壳有包！</p>
+<p>这段恋情，就此不了了之。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/640110.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/640110.jpg" alt="6401" width="525" height="330"></a></p>
+<p>蛋总之后，隔壁寝室的小马开始追李若彤。</p>
+<p>小马是江西人，面黄肌瘦，其貌不扬，然而志在千里，心雄万夫，日常说话，口气大，术语多。<strong>我们刚入大学，尚且在法律门外徘徊，他便一口一个“自然法”，一口一个“王泽鉴”，三句话后，全场鸦雀无声。</strong></p>
+<p>陈独秀有两句诗“沧溟何辽阔，龙性岂易驯”，我非常喜欢，请一友题字，悬于壁上，日夜揣摩。小马见后，狂笑不止，拉我到他寝室，但见其床头高悬一副狂草，如鬼画符，端详半晌，我只识得两个字，只好老老实实请他指点。他一字一顿，缓缓念道：大泽龙方蛰，中原鹿正肥。我大惊失色，自愧不如。数年后读中国近代史，才知这是袁世凯少年之作。</p>
+<p>和小马交往久了，渐渐窥破他的底细。<strong>这厮志大才疏，腹中的墨水堪比食堂的稀饭，看似浩浩汤汤，搅动两筷子便见了底</strong>。可惜了那一流的天资和记忆力，偏偏不愿吃苦，性喜投机取巧，尤好卖弄，于读书治学只能浅尝辄止。最要命的是，他自视甚高，友朋的忠言，统统被当作耳旁风。我曾劝他用心读经典，反遭奚落，自此在他面前只说三分话。</p>
+<p>有一天小马忽然来找我，请教西方文学读书之法。问其缘故，他直言：要追李若彤。我说李若彤最喜欢法国文学，其次俄罗斯文学，这两块的书籍，浩如烟海，你先从加缪读起，再读萨特……他不耐烦，打断了我的话：这样读，书没读完呢，人都老了，有没有速成法？我强压怒气，冷冷道：没有！</p>
+<p>我以为他会知难而退，不料还是低估了他的决心和智商。这厮面壁数日，硬是摸出了一些门道。大约半年过后，他追求李若彤失败，找我喝酒消愁，席间倾吐伤心事，言及读书速成之术，不由令我刮目相看。</p>
+<p><strong> </strong></p>
+<p><strong>小马的第一招，学自许知远</strong>。彼时许知远任《经济观察报》主笔，他写文章有一习惯，外国人必称全名，如伯林要称“以赛亚·伯林”、乔姆斯基要称“诺姆·乔姆斯基”、曼彻斯特要称“威廉·曼彻斯特”。小马读过两篇许知远之后，认为如此表达，最显学问，于是熟记西方作家的全名与本名。当他说到加缪，则曰“阿尔贝·加缪”，说到萨特，则曰“让-保罗·萨特”，说到波伏娃，则曰“西蒙娜·德·波伏娃”。好玩的是，有些作家，以笔名传世，本名反而湮没，小马煞费苦心，钩沉索隐，翻出这些人的家底，与人言谈，不称高尔基，而曰“阿列克塞·马克西莫维奇·彼什科夫”，不称乔治·奥威尔，而曰“埃里克·阿瑟·布莱尔”，不称宇文所安，而曰“斯蒂芬·欧文”。你若一脸茫然，他便得意非凡。</p>
+<p><strong>第二招属于版本学</strong>。小马泡了一月图书馆，用电脑检索加缪、萨特等人的中译本，抄在笔记本上，回头铭记于心。他的聪明之处在于，不单记版本，而且按图索骥，查明这些书在图书馆的具体位置，譬如说到加缪《鼠疫》，他会告诉你，此书藏在三楼文学书架哪一排，说到萨特《存在与虚无》，他会告诉你，此书藏在二楼哲学书架哪一排。于是江湖传言，小马把图书馆的书都读光了，小马听后，愈发得意。</p>
+<p><strong>意犹未尽，小马构思了第三招：借阅名著，专记开头</strong>。他曾假设这样的场景。当我们与李若彤一起吃饭，他故意问我：你最近在读什么书？</p>
+<blockquote><p>我答：陀思妥耶夫斯基《卡拉马佐夫兄弟》。</p>
+<p>他问：你知道这本书开头怎么写吗？</p>
+<p>我张口结舌。</p>
+<p>他洋洋自得，朗声背道：“阿历克赛·费多罗维奇·卡拉马佐夫是我县地主费多尔·巴夫洛维奇·卡拉马佐夫的第三个儿子……”</p>
+<p>李若彤定睛看他，满眼钦佩与爱慕。</p></blockquote>
+<p>遗憾的是，这一幕只存在于小马的想象之中。</p>
+<p>除了开头，小马还能背诵一些书中的经典段落。他最擅长的一段，出自李若彤挚爱的加缪《反与正》序言:“贫穷对我来说，从来就不是一种不幸：光明在其中播撒着它的财富。甚至我的反抗也被照亮了。我认为我可以真诚地说，我的反抗几乎是为了所有人的反抗，为了所有人的生活在光明中提高。我不能肯定我的心自然地适应于这种爱。但是环境帮助了我。为了打破一种自然的冷漠，我被置身于苦难和阳光之间。苦难不能使我认为阳光下和历史中一切都是好的；阳光告诉我历史并不就是一切。改变生活，是的，但请不要改变赋予我神性的世界。”</p>
+<p>写到这里，<strong>我得感谢小马，因为我曾偷师于他</strong>。大四那年，我参加一场文学活动，谈及加缪与萨特之争，当场背诵加缪的这段话，震惊四座，使我的虚荣心得到了大大的满足。</p>
+<p>与蛋总一样，小马追求李若彤以失败告终，否则我也不会听来这些故事。不过，恋情虽然终结，故事还在继续。</p>
+<p>记人名，记版本，背开头，背格言，不得不承认，都是硬功夫。<strong>这一番艰苦磨砺，使得小马的内心急剧膨胀，从此以读书人自命，以博览群书自诩</strong>。平时闲谈，提到一个作家，他马上报出一份书单，并指出这本书藏于图书馆哪个位置，那本书的开头怎么写。假如蛋总在侧，必定会问他：马哥，这些书你都读过吗？小马满脸鄙夷：废话！</p>
+<p>有一晚，小马到我寝室玩，恰巧我与一帮朋友正在交流阅读列奥·施特劳斯的感受。他翻了翻桌上的《自然权利与历史》，说道：这个人还写过《野性的思维》、《忧郁的热带》、《结构人类学》等……<strong>我心想：小马把列维·施特劳斯和列奥·施特劳斯搞混了。正寻思要不要点破</strong>，对面一位老兄性急，开口道：你说的是列维·施特劳斯，我们谈的是列奥·施特劳斯，一个是人类学家，一个是政治哲学家……小马下巴一抬，大声说：列奥列维，就是一个人！我读书那么多，你还想骗我！</p>
+<p>小马扬长而去，朋友议论纷纷。我呆若木鸡，不知该怎么向他们解释，因为我无法揣测小马此时的心理：<strong>难道他过于入戏，以为读人名，读版本，读开头，便如读过一本书么；或者，他那么喜欢报书单，只是为了掩饰自己的浅陋，就像他惯于用狂妄掩饰自己的自卑？</strong></p>
+<p>转眼便是毕业季。小马考进了家乡的检察院，未入公门，已经是一副官爷的气派，成天用下巴看人，笑起来一脸深沉。他的人缘原本不佳，此刻更被孤立。生日那天，他在“蒙古人”摆酒，能坐十二人的包厢，陆陆续续只到了六个人，我见小马的脸色越来越难看，赶忙打电话喊蛋总等人下楼喝酒。</p>
+<p>小马酒量平平，三瓶啤酒，便一脸醉态，开始指点江山，大放厥词。听见我与一位朋友谈论一本新书，他拍桌感慨：你们这些他妈的读书人……</p>
+<p><strong>酒后真言，小马终于把自己划出了读书人之列</strong>。</p>
+<p>2015年9月25日</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/jHsupwDgZzCSTwkO76rp1lwcwLMaQyIb7vYH34AGktfocjo2GEjvSeqAfWdnLicZqic49BSl8KYCkHbD4xnnUAvA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" alt="" width="300" height="240" data-src="http://mmbiz.qpic.cn/mmbiz/jHsupwDgZzCSTwkO76rp1lwcwLMaQyIb7vYH34AGktfocjo2GEjvSeqAfWdnLicZqic49BSl8KYCkHbD4xnnUAvA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-type="jpeg" data-w="400" data-ratio="0.8" data-s="300,640"></p>
+<blockquote><p><strong>羽戈</strong> 青年学者<br>
+念念不忘，必有回响。微信公众号：羽戈(yuge830)</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97-%E7%8C%AA%E9%98%9F%E5%8F%8B%E8%BF%98%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F/" target="cdt-mirror">【立此存照】@共青湖南——猪队友还是高级黑？</a>
+</h2>
+<p><p>认证信息为“共青团湖南省委员会官方微博”的<a href="http://weibo.com/u/2178873290">@共青湖南</a> 紧跟团中央的步伐，加入了<a href="http://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/">“声讨”任志强</a>的队伍。该账号近日在微博分享批判任志强的长文《警惕任志强的诡辩术》，发表了诸如“<strong>正是任志强传销的私有制加市场经济导致了贫富悬殊</strong>”等让人哭笑不得的言论。</p>
+<p>值得一提的是，该文章作者为“知名”毛左尹国明，<strong>他曾在《全世界人民都知道》新书签售会上<a href="http://chinadigitaltimes.net/chinese/2013/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%9D%8E%E6%89%BF%E9%B9%8F%E5%8C%97%E4%BA%AC%E7%AD%BE%E4%B9%A6%E7%81%AB%E7%88%86-%E9%81%AD%E9%81%87%E6%AF%9B%E5%B7%A6%E6%8B%B3%E6%89%93%E5%8F%88%E6%89%94/">掴掌李承鹏</a></strong>。这种行为很难不让人联想到同样获得团组织青睐的<strong><a href="http://chinadigitaltimes.net/chinese/tag/%E4%BE%AF%E8%81%9A%E6%A3%AE/">爱国青年侯聚森</a></strong>。</p>
+<p>原微博目前已被删除（<a href="https://freeweibo.com/weibo/3890594008871216">自由微博传送门</a>）。</p>
+<blockquote><p><strong>@共青湖南</strong>：【警惕任志强的诡辩术】潘任美透支了房奴们的钱包，还要接着透支房奴们的智商。正是任志强传销的私有制加市场经济导致了贫富悬殊，但他却告诉我们公有制加计划经济已经失败，通过私有制加市场经济实现共同富裕。他跟所有的公知一样，把造成问题的原因说成是解决问题的出路。@共青团中央</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6f47298bjw1ewe95b4x6rj20f00qowhm.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6f47298bjw1ewe95b4x6rj20f00qowhm.jpg" alt="6f47298bjw1ewe95b4x6rj20f00qowhm" width="400" height=""></a></p>
+<p><strong>@共青湖南向任志强喊话，要其重温入党誓词的微博评论已被关闭：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97.png" alt="共青湖南" width="475" height="498"></a></p>
+<p><strong>另附花絮一则:</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/71f91a53jw1ewf82ugzx4j20c80dgmyw.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/71f91a53jw1ewf82ugzx4j20c80dgmyw.jpg" alt="71f91a53jw1ewf82ugzx4j20c80dgmyw" width="440" height="484"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@任志强:领导说：你大人大量。别跟流氓一般见识。</p>
+<p>@五岳散人: 华远地产是国企。您的意思是政府加上国企洗劫了老百姓？</p>
+<p><a href="http://weibo.com/u/1367611323" target="_blank">沈鸿伟律师</a>：共青团为了批任志强不惜犯政治错误。我们现行的经济体制是邓小平以来的党中央定下来的，写进宪法和党章。团干部们这个批法，还想接班<img title="[疑问]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/yw_org.gif" alt="[疑问]"></p>
+<p><a title="王痞爷" href="http://weibo.com/u/2619711941">@王痞爷</a>：从小就知道自己是共产主义的接班人，到现在都特么过去三十年了，也没人来跟我谈接班的事……<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]"></p>
+<p>@国勿怨小李: 任总准备好接招，团中央一声令下，各地的小篓篓准备发起猛攻了！</p>
+<p>@米家那个山:什么都不懂，阵脚全乱的，可悲！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97-%E7%8C%AA%E9%98%9F%E5%8F%8B%E8%BF%98%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6/?category=18271" rel="tag">公有制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E6%9C%89%E5%8C%96/?category=18271" rel="tag">私有化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B2%88%E9%B8%BF%E4%BC%9F%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%85%88%E6%95%91%E5%A6%88%E6%98%AF%E5%AF%B9%E7%9A%84%EF%BC%9F%EF%BC%81/" target="cdt-mirror">沈鸿伟律师：先救妈是对的？！</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/05/%E5%AD%9D%E9%81%931.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/05/%E5%AD%9D%E9%81%931.jpeg" alt="孝道1" width="440" height="587"></a><br><em>（网络图片）</em></p>
@@ -680,58 +756,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E7%96%86%E7%99%BD%E7%9A%AE%E4%B9%A6-%E4%B8%A5%E6%83%A9%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E7%8A%AF%E7%BD%AA/" target="cdt-mirror">美国之音 | 国新办新疆白皮书 严惩暴力恐怖犯罪</a>
-</h2>
-<p><p>北京—中国新疆将从9月25日开始举行各种活动，庆祝自治区成立六十周年。国务院新闻办在北京举行新闻发布会，公布了《新疆各民族平等团结发展的历史见证》的白皮书。新疆自治区主席雪克来提·扎克尔在发布会上称，今天的新疆“是经济社会发展最好最快的时期之一。然而，新疆的暴恐事件以及民族宗教矛盾，仍然引发了与会记者的关注。</p>
-<p>新疆自治区政府雪克来提·扎克尔眼中的新疆，是一个稳定，团结，和谐，人民安居乐业的天堂。</p>
-<p>雪克来提·扎克尔在发布会上说：“新疆尊重和保护新疆宗教信仰自由，信教和不信教的公民以及信仰不同宗教公民相互尊重和理解，新疆各宗教迎来和谐共处的新的历史阶段。”</p>
-<p>不过，新疆地区时有发生的暴力恐怖事件仍然提醒人们，这里暗流汹涌，暴恐事件活跃多发，宗教、文化、和民族问题，以及南疆和北疆的地区差距和贫富差距，仍然是新疆面临的严峻挑战。</p>
-<p>极端服饰</p>
-<p>新疆维吾尔自治区党委常委肖开提·依明在9月24号举行的新闻发布会上，回答了记者提出的有关新疆自治区政府禁止党员干部和教师学生信仰宗教，禁止少数民族穿蒙面罩袍，留大胡须是否干涉了公民的宗教信仰自由问题。肖开提·依明称，蒙面罩袍是极端分子的服饰，只有落后民族才穿这种只能露出两个眼睛的服装。</p>
-<p>肖开提·依明说：“蒙面罩袍不是少数民族的传统服饰，也不是穆斯林或者其他阿拉伯国家的服装，它是地地道道的一个极端的服饰。穿这个服饰的背后多少都有这样那样的一些问题，甚至于把女人的蒙面罩袍男人穿，拐卖小孩的问题等等，把自己伪装，穿着蒙面罩袍就看不出来，我认为作为一个民族，两个眼睛全部蒙上以后，我觉得这个民族的的确确是一个落后的，我们维吾尔族人也不愿意看到妇女同志穿这种服饰，比如有好多妇女还要工作，有好多妇女还要与社会进行接触，在这个问题上我们坚决是不会答应的。”</p>
-<p>由政府出面规定少数民族穿什么服装、留什么胡须的做法，说明中国的少数民族政策仍然需要检讨和审视。有媒体报道说，由于新疆人和西藏人的面孔和汉人不一样，他们在安全检查时会受到特别关注，有的旅店甚至禁止新疆人住宿。伦敦《金融时报》援引暨南大学教授姚新勇的文章说，维吾尔人是有信仰且家族关系紧密的民族，所以他们更富于团结和反抗性。而政府及相关部门在宣传教育、执法检查、办理有关事项时，方式方法上的简单、粗暴，也会让少数民族同胞的自尊深受伤害。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E7%96%86%E7%99%BD%E7%9A%AE%E4%B9%A6-%E4%B8%A5%E6%83%A9%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E7%8A%AF%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99/?category=18271" rel="tag">宗教;</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E6%9C%8D%E9%A5%B0/?category=18271" rel="tag">宗教服饰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E7%AB%AF%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极端主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B4%B9%E8%AF%B4%E6%96%B0%E8%AF%AD%E2%94%82%E7%BA%A2%E6%9C%9D%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%88%E4%B8%89%EF%BC%89/" target="cdt-mirror">费说新语│红朝见闻录（三）</a>
-</h2>
-<p><p><strong>【众鸟欣有托】</strong></p>
-<p>1.己卯初夏，侍大丰朱先生杖履游阳羡，适为大水所阻，雨飞花谢，杜门而居，百无聊赖，竟至勾留旬日。其间幸得程姓老板诣门，力邀去其新开桑拿馆以遣羁旅闷烦。沐浴罢，程老板导之入一净室，居中一大案，八尺红星宣平展展铺开，笔墨妥妥地准备停当。大丰真解人，援笔力书“众鸟欣有托”五个大字付之。</p>
-<p><strong>【南方女孩水灵】</strong></p>
-<p>2.得过市委宣传部“五个一工程奖”的某女作家，出差北京归来。茶馆中听她讲北京见闻，说在北京认识一位中国作协驻会老作家（男的），拉着她的手说：“南方的女孩啊，就是不一样，看这皮肤多嫩，多水灵。”我不禁好奇地问了句：“你今年几岁?”她说：“还有三个月五十二。”我看了眼坐在一边的肖老师，发现他正低着头在笑。</p>
-<p><strong>【我们文化人】</strong></p>
-<p>3.与友人坐茶馆一角喝茶闲聊，突然店中老板老板娘迎宾小姐急哄哄窜将出去，迎进七八个貌似兰亭诸贤，轻裾白祫，飘忽暇逸，迥乎不凡者。老板连声不停地说：“贵客光临，荣幸！荣幸！”迎到中间大桌坐定。认出贵客乃本地文联主席和一干文人，主席说：“你们这家茶馆很好，装修高雅，非常适合我们这些文化人来坐坐。”</p>
-<p>老板老板娘正欣喜不已，我一朋友听了触气，走过去对主席说：“文化人岂可自称？我是生意人，如果我说这个茶馆装修豪华，非常适合我们有钱人常来坐坐，大家会作何看?”主席大窘，老板急打圆场，我劝道：“此为霜钟一杵，禅榻一棒，以申儆惕罢了，是帮他。”可叹这帮酸人，七八年过去也没见丝毫警醒。</p>
-<p><strong>【一轮明月照姑苏】</strong></p>
-<p>4.一村妇见城里人隆胸，仿效之，结果把相好的男人吓得半死，乃此妇不是隆大乳房，而是隆大了乳头。</p>
-<p>八十年代初一保定大爷去北京看儿子，上公交车，因为人多，车门夹了大爷的屁股，大爷狂呼：“夹住腚了，夹住腚了！”一车人哄笑。儿子对爹说：“城里人管腚不叫腚，叫屁股。”售票员过来卖票，问大爷：“去哪？”大爷马上答：“安屁股门。”</p>
-<p>一官员见某秀才诗中有句曰“一轮明月照姑苏”，大呼不通，遂援笔加“等地”二字。</p>
-<p>多年来观地方官员主政，大致上不脱这三种范畴。</p>
-<p><strong>【没人要我的命】</strong></p>
-<p>5.女性一文艺，往往兼修丁玲之乱和三毛之作。每天在朋友圈展示二三十遍爱情，去趟欧洲，祖籍便搬到了西班牙；去趟北美，邻居都在曼哈顿。终于有一天，梦醒发了条微信：“我要为爱而死，却没有人要我的命。”卧槽！也太悲惨了。</p>
-<p><strong>【鹅主席】</strong></p>
-<p>6.攀附之风，书画圈尤烈。王伯敏一生攀附黄宾虹。“一粟山房”父子攀附徐邦达。写书法的，攀附启功先生者成群结串。窃以为，下届中国书协改选，鹅是最合适的主席禽选。鹅的祖上，深得书圣王右军激赏。论渊源，鹅家学有自，当主席，没有人比它更有资格的了。</p>
-<p><strong>【有酒当饮 无孔不入】</strong></p>
-<p>7.友人庄上明瓒上人，俗姓张，名永强。少时秉性不羁，楚馆秦楼，一路挥霍，号称“有酒当饮，无孔不入”。八桂陈先生为加二字曰：“有酒当永饮，无孔不强入。”浑然天成一副嵌名联。</p>
-<p><strong>【末技毁三观】</strong></p>
-<p>8.在众多的技艺里，学了以后会让人表现得三观尽毁，好恶不分，迂腐莫名，甚至不懂礼貌，没有家教，并且产生奇怪的优越感，书法是最典型的。更有趣的是，这些优越感爆棚的人基本上没有人通过书法这种末技对社会有任何贡献，但这不妨碍他们仍表现得好像他们才是拯救传统文化的唯一希望。</p>
-<p>人类社会的发展史不外乎一部美学史。无论生活，志趣，乃至制度。书法创作是一个不断提高的审美过程，精深可以超超独先，平淡使得人人领解，此中消息，似乎口不能言。</p>
-<p>前人论诗：“诗题洁，用韵响，便是半个诗人。”书法也一样，内心干净，堂正，即便信手任心，也能形端容洁。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%B4%B9%E8%AF%B4%E6%96%B0%E8%AF%AD%E2%94%82%E7%BA%A2%E6%9C%9D%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%88%E4%B8%89%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9D%E8%8C%B6/?category=18271" rel="tag">喝茶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E5%AE%98%E5%91%98/?category=18271" rel="tag">地方官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%9C%9D%E8%A7%81%E9%97%BB%E5%BD%95/?category=18271" rel="tag">红朝见闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B9%E8%AF%B4%E6%96%B0%E8%AF%AD/?category=18271" rel="tag">费说新语</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -743,7 +767,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9D%E8%8C%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -753,5 +777,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9D%E8%8C%B6
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E9%87%8D%E5%9B%9E%E5%8D%A0%E4%B8%AD%E7%A4%BA%E5%A8%81%E5%8C%BA%E8%AE%BA%E6%94%BF%E6%B2%BB%E3%80%81%E7%A4%BE%E8%BF%90/" target="cdt-mirror">德国之声 ｜香港学生重回占中示威区论政治、社运</a>
+</h2>
+<p><p>香港去年的全民运动“雨伞运动”即将踏入一周年，学生组织学联和学民思潮星期六晚上在香港立法会举办雨伞运动一周年研讨会，讨论香港未来社运方向。</p>
+<p>学联和学民思潮9月26日晚上7点在香港立法会示威区联合举办“公民退修”研讨会，几十名香港市民到场参加。</p>
+<p>研讨会嘉宾包括前香港大学学刊《学苑》总编辑梁继平、占中发起人之一陈健民和香港政治学者方志恒。</p>
+<p>这次研讨会上，演讲者谈及中港矛盾和香港未来政治发展等问题，并对去年的占领行动进行反思。</p>
+<p>占中发起人之一陈健民：“所谓中国崩溃的前提底下，用80年代去作对比，我自己是看不到香港市民是有一个实力去到一个点，要中国共产党跟我们去谈建国的问题，甚至是民族自决的问题。另外一方面，有一些人只是希望香港有自治权，而自治权最重要的是真真正正的民主，我们才能看到香港的高度自治。”</p>
+<p>香港政治学者方志恒：“为什么近年有本土意识，甚至民主主义的论述出现呢？就是因为北京的对港政策越来越强硬，越来越介入香港的管治……慢慢成为了直接的管治，是透过（中国驻港机构）中联办为首的第二支管治队伍，甚至凌驾于特区政府之上，介入香港的自治。这种直接管治的状态，一定会刺激起香港本地人的一种抵抗。”</p>
+<p>虽然参加研讨会的人数不多，研讨会场地附近依然摆放着多个铁马，并有不少警员在附近巡视。</p>
+<p>关键词: 香港 占中 栏目: 要闻 作者: 谭嘉琪</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E9%87%8D%E5%9B%9E%E5%8D%A0%E4%B8%AD%E7%A4%BA%E5%A8%81%E5%8C%BA%E8%AE%BA%E6%94%BF%E6%B2%BB%E3%80%81%E7%A4%BE%E8%BF%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">占中</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A%E5%88%B0%E7%BE%8E%E5%9B%BD%E5%8E%BB%E4%B8%8A%E8%AE%BF/" target="cdt-mirror">东网 ｜东步亮：到美国去上访</a>
+</h2>
+<p><p>习近平访美，最触动中国普通民众内心的新闻，不是习奥会有多大的排场，不是中美达成什么协议，不是双方增进了哪些共识，更不是两国第一夫人在动物园里灿烂的笑容，而是——在浩浩荡荡的习近平车队行进过程中，来自中国国内多个省市的访民，拦住了习和习夫人的车，钻到了习的车底下。</p>
+<p>在我看到中国访民们在美国街头呐喊、示威、拦截车队视频的那一刻，我的心情真可以用一个词来形容：悲欣交集。悲的是，吾国如此多小民，竟然需要万里迢迢，跑到他国去上访，去拦截自己国家的领导人，这是有怎样的冤屈，这是在吾国怎样地陈情渠道不畅，才需要如此去曲线喊冤？欣的是，这事儿终于曝露在社交媒体的聚光灯下，让全世界人民都知道了，访民们冤情解决有望了，而更多的访民可能受此启发，找到了新的上访渠道，他们绝望的生活里又产生了一线希望。</p>
+<p>据说，钻到习近平车底下的北京访民李焕君，家被强拆，四处喊冤，大阅兵时曾想接近习未成，这次成功“拦轿喊冤”之后，习的随行人员已接受了她的相关材料，而且很快就已经有领导找到其在北京的家人谈话，事情解决有了希望——速度何其之快。</p>
+<p>我不知道习近平和他的中国随行官员们见到这些访民时，是何等感受。美国之音的报道说，李焕君和上海访民葛丽芳钻到加长版凯迪拉克的车底，将车拦截下来时，习近平正坐在那辆车里，葛丽芳和李焕君看到了习近平，习近平与访民对视了几秒钟。我们好奇的是，在那一刻，习近平想到了什么？在那之后，习近平又会怎么做？也许这件事对他根本没有丝毫触动，因为他原本就是这样的铁石心肠；也许在他看到她们激烈举动的一刹那间，也有那么一丝的震惊，从而开始反思和警醒自己——假如他还是一个有一点正常良心的人的话。</p>
+<p>访民们在现场一直高喊着一个口号：“习近平，见访民”。这些访民之所以不远万里，耗费巨资，克服重重困难，来到异地他乡拦截习近平的车队，无非因为他们在中国正常的上访途径走不通，不要说见习近平，连一个能面对面解决问题的小官员都见不着，很可能上访着上访着，还被送到了久敬庄或安元鼎的黑监狱里，或者被扭送到了精神病院。他们能跑到美国来，已算是他们的幸运。有这样的经济基础能够去美国的访民，本就不多；而能想到这个渠道的，已是相当有智慧的访民。</p>
+<p>通过视频，我们看到了美国警察是如何对待这些上访的群众：他们不打，不骂，拦阻也没有中国警察那么野蛮；虽然也把人从车底下拖出来，但带到警戒线外就释放；虽然也把人戴上手铐带走，但一个多小时后就让人离开。更重要的是，他们没有像中国警察和特务那样，在“贵宾”到来之前，就先把人在家中给控制起来，不让你离开家，带你去“旅游”，打得你半死。在中国，即便你混到了现场，也会被层层隔离开，根本不可能近距离接触到目标人物。如果“有幸”钻到了领导人的车底下，则一定会有寻衅滋事罪和煽动颠覆国家罪的罪名等着你，让你去坐牢。</p>
+<p>在美国，“上访”的还一个好处是，法律途径也是走得通的。这次参与的长春访民马永田，就在美国起诉了习近平，并且被法院受理。</p>
+<p>这次访民对习近平的拦截势必产生示范效应。接下来，每有中国领导人外访，全国各地的维稳官员们的好差事就会来了：他们今后将要到美国、德国、英国等西方“敌对势力”国家，去拦阻本省市出去告洋状的访民。维稳的经费又要增加了。各地出国出境的海关、机场里拦截访民的故事，又要多起来了。</p>
+<p>把中国国内的事情解决好，真的那么难吗？贵党不行，就让别人上嘛！</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A%E5%88%B0%E7%BE%8E%E5%9B%BD%E5%8E%BB%E4%B8%8A%E8%AE%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%9B%BD%E5%AE%B4%E8%90%BD%E5%B9%95-%E4%B9%A0%E5%A5%A5%E4%BC%9A%E6%88%90%E6%9E%9C%E4%BA%AE%E7%9B%B8/" target="cdt-mirror">德国之声｜“中国风”国宴落幕 习奥会成果亮相</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard12110.jpg" alt="Clipboard12(110)" width="550" height="310"></p>
@@ -767,64 +808,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%B8%9D%E7%9A%84%E6%96%B0%E9%97%BB%E5%B0%81%E9%94%81%EF%BC%8C%E6%88%91%E4%BB%AC%E6%80%8E%E4%B9%88%E7%A0%B4%EF%BC%9F/" target="cdt-mirror">【河蟹档案】面对美帝的新闻封锁，我们怎么破？</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%AE%89%E6%99%AE%E8%8B%A5-%E5%A4%96%E5%8F%B7%E5%AE%89%E6%A0%A1%E9%95%BF">安普若-外号安校长</a>：谣传美国宣传部昨天电话通知美国各大媒体，对习主席到访西雅图采取冷处理，不报道，或者在报纸不显著位置简短报道，不上头条，不推荐热门，各社交自媒体应该密切监控舆情动态，及时删帖。通知指令美国各大媒体今日报道的重点和头条是教皇到访华盛顿。对美帝国主义的新闻封锁，我们怎么破？<em>相关阅读｜</em>《<em><a href="http://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/">真理部指令</a></em>》<br><a href="https://freeweibo.com/weibo/3890277091395835" target="/weibo/389">2015年09月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BA%AA%E7%AD%B1%E8%96%87">纪筱薇</a>：因领导人访美，央视腔调为之一变，这几天多个栏目都在谈美国，把美国夸的跟花一样，把中美关系说的比穿一条裤子还嫌肥般亲密。与过往凡事都指责美国、把中国的种种不幸都推到美国黑手上的说法，有着天壤之别。这种用人朝前不用人朝后的市侩、功利主义做法，让人作呕，露出官媒猥琐的嘴脸。<br><a href="https://freeweibo.com/weibo/3889929497504138" target="/weibo/388">2015年09月22日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%A8%E5%86%9C%E8%B0%88%E8%82%A1">雨农谈股</a>：以前我一直有一个错觉，感觉美国佬处处与中国为难。今天看了央视新闻联播，才知道中美两国友谊牢不可破！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33323.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33323.jpg" alt="333" width="475" height="267"></a><br><a href="https://freeweibo.com/weibo/3889592144860129" target="/weibo/388">2015年09月21日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E5%86%9B%E6%9E%97%E5%AF%BC%E6%BC%94">李军林导演</a>：习近平会晤境外最大的反动网站负责人。//*<a href="https://freeweibo.com/weibo/%40%E7%94%A8%E6%84%9B%E5%81%9A%E4%BA%8B%E6%A5%AD">用愛做事業</a>：网友评：主席说:“小伙子，不简单，网站都打不开还能上市，真能忽悠啊，学习学习！ ”小伙谦虚地说:“贵国财产都不用公开，就实现了反腐，佩服佩服！” <em>相关阅读｜</em>《<em><a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%C2%B7%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC">维基百科｜马克·扎克伯格</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33326.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33326.jpg" alt="333" width="424" height="755"></a><br><a href="https://freeweibo.com/weibo/3890585285343836" target="/weibo/389">2015年09月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%83%A1%E9%80%820922">胡适0922</a>：胡说习就一初中生水平[嘻嘻]  <em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E8%83%A1%E5%BE%B7%E5%8D%8E_(%E8%83%A1%E8%80%80%E9%82%A6%E4%B8%89%E5%AD%90)">维基百科｜胡德华（胡耀邦三子）</a>》；《<a href="https://zh.wikipedia.org/wiki/%E8%B4%BA%E5%8D%AB%E6%96%B9">维基百科<em>｜贺卫方</em></a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33325.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33325.jpg" alt="333" width="411" height="731"></a><br><a href="https://freeweibo.com/weibo/3890620353422666" target="/weibo/389">2015年09月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B7%B1%E5%A4%9C%E8%B5%B0%E8%BF%87%E9%95%BF%E5%AE%89%E8%A1%97001">深夜走过长安街001</a>：“除了……习近平还给林肯高中送去图书，有《红楼梦》，莫言、冰心，余光中的作品，以及袁腾飞的《这个历史挺靠谱》……”<em>相关阅读｜</em>《<em><a href="http://chinadigitaltimes.net/chinese/2015/09/%E6%9C%B1%E5%AD%A6%E4%B8%9C%EF%BC%9A%E5%AF%B9%E7%85%A7%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B9%A6%E5%8D%95%EF%BC%88%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E7%89%88%EF%BC%89%EF%BC%8C/">朱学东：对照习近平总书记书单（史上最全版），愧煞</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33324.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33324.jpg" alt="333" width="360" height="640"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33329.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33329.jpg" alt="333" width="629" height="367"></a><br><a href="https://freeweibo.com/weibo/3890710241368054" target="/weibo/389">2015年09月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E6%98%95">徐昕</a>：看到<a href="https://freeweibo.com/weibo/%40%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97">@共青湖南</a> 带<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">@任志强</a> 重温入党誓词，想知道8000万党员中有多少能做到宣誓的这些？<em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">【立此存照】任志强：“我们是共产主义接班人？”</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33327.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33327.jpg" alt="333" width="445" height="420"></a><br><a href="https://freeweibo.com/weibo/3890727900139022" target="/weibo/389">2015年09月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B0%B4%E5%85%B5%E6%9D%8E%E9%93%AD">水兵李铭</a>：看图//*<a href="https://freeweibo.com/weibo/%40%E6%84%9A%E5%B7%B7">愚巷</a>：这钱真好赚 //*<a href="https://freeweibo.com/weibo/%40%E5%A4%A9%E6%B6%AF%E7%83%9F%E7%81%AB">@天涯烟火</a>:这个比五毛贵啊，两小时三百。相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E6%8A%A5-%E7%95%99%E5%AD%A6%E7%94%9F%E5%BC%95%E5%BC%80%E7%A4%BA%E5%A8%81%E8%80%85-%E6%8E%A9%E6%8A%A4%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%B0%8F%E8%B7%AF%E7%A6%BB%E5%BC%80/">明报 | 留学生引开示威者 “掩护习大大小路离开”</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33328.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33328.jpg" alt="333" width="436" height="206"></a><br><a href="https://freeweibo.com/weibo/3890524668749623" target="/weibo/389">2015年09月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8D%97%E6%96%B9HiboyHo">南方HiboyHo</a>：旅美华人热烈欢迎习近平访美，央视怎么不报道一下？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33322.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33322.jpg" alt="333" width="340" height="454"></a><br><a href="https://freeweibo.com/weibo/3890276701400553" target="/weibo/389">2015年09月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%402%E5%8F%AF%E5%99%A8">2可器</a>：分享图片<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33321.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33321.jpg" alt="333" width="453" height="805"></a><br><a href="https://freeweibo.com/weibo/3888161308798152" target="/weibo/388">2015年09月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%98%85%E8%AF%BB%E7%A4%BE%E4%BC%9A">阅读社会</a>：SPAM <a href="https://freeweibo.com/weibo/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%8E%A9%E8%89%BE%E7%89%B9">#人民日报玩艾特#</a>如果说世界上最霸气的言语是“开机画面必须是我”，那么最会玩的便是在人民日报上只刊登了一个大写的@ 了！所以人民日报才是真正的会玩大boss？已经迫不及待想一探究竟了呢[doge]<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33317.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33317.jpg" alt="333" width="450" height="5377"></a><br><a href="https://freeweibo.com/weibo/3887657941877194" target="/weibo/388">2015年09月16日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%B8%9D%E7%9A%84%E6%96%B0%E9%97%BB%E5%B0%81%E9%94%81%EF%BC%8C%E6%88%91%E4%BB%AC%E6%80%8E%E4%B9%88%E7%A0%B4%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">中国日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E8%90%8C/?category=18271" rel="tag">卖萌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%98%E5%84%BF/?category=18271" rel="tag">托儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">接班人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E7%9A%87/?category=18271" rel="tag">教皇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD/?category=18271" rel="tag">新闻联播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%AE%A3%E5%B8%83/?category=18271" rel="tag">美宣布</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%BE%B7%E5%8D%8E/?category=18271" rel="tag">胡德华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E7%89%B9/?category=18271" rel="tag">艾特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%85%BE%E9%A3%9E/?category=18271" rel="tag">袁腾飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%BB%E4%B8%8D%E5%8F%AF/?category=18271" rel="tag">非死不可</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E6%8A%A5-%E7%95%99%E5%AD%A6%E7%94%9F%E5%BC%95%E5%BC%80%E7%A4%BA%E5%A8%81%E8%80%85-%E6%8E%A9%E6%8A%A4%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%B0%8F%E8%B7%AF%E7%A6%BB%E5%BC%80/" target="cdt-mirror">明报 | 留学生引开示威者 “掩护习大大小路离开”</a>
-</h2>
-<p><p>中国国家主席习近平与夫人彭丽媛一行乘坐的国航747飞机，当地时间周二降落在毗邻波音公司大规模厂房、位于西雅图市以北40公里的佩因机场，华盛顿州州长英斯利（Jay Inslee）等到机场迎接。此前，号称将如影随行抗议的法轮功成员及海外民运等异议人士，在西雅图拉横额抗议习近平到访。为保证习近平车队不受影响，受中国领事馆指派的留学生欢迎队伍，故意在路边大造声势吸引抗议人士，以“声东击西”方式让习近平车队避开抗议人群，驶出机场。而位于华盛顿的新闻博物馆（Newseum），昨日亦挂出条幅，抗议中国人权问题。</p>
-<p>中方安排 “声东击西”</p>
-<p>在通往西雅图市中心的道路两旁，由中方领事馆组织的留美学生及当地华人华侨的欢迎队伍，手持中国国旗及如“习主席您好”、“清华校友欢迎习近平学长”等标语，与抗议人士打对台。据悉，这是中方事先安排的“声东击西”策略，其中一名欢迎人士在WeChat承认，“我们好大的迎接声势，成功地迷惑了来自世界各地的众多法轮功抗议者们，成功掩护了习大大的车队从安静的小路安全离开机场”。</p>
-<p>在市中心，包括法轮功、海外民运人士等数百名示威者，在习近平即将发表演说的威斯汀酒店（Westin Hotel）外挥舞标语、擂鼓抗议。习近平车队驶过时，示威者拉起“释放所有在押政治犯”、“释放维权律师”等横额，亦有人挥舞藏独的雪山狮子旗。与此同时，位于华盛顿的新闻博物馆醒目地挂出大大的条幅，写着“开放报禁，新闻自由”及“请中国政府尊重人权”，敦促中国政府正视人权、自由与民主的问题。</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/slack_for_ios_upload-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/slack_for_ios_upload-1.jpg" alt="slack_for_ios_upload (1)" width="550" height="825"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-24-at-%E4%B8%8A%E5%8D%8811.44.54.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-24-at-%E4%B8%8A%E5%8D%8811.44.54.png" alt="Screen Shot 2015-09-24 at 上午11.44.54" width="550" height="530"></a></p>
-<p>深套中的小散：几百一天？</p>
-<p>心中那抹橙：以前是120刀还管盒饭</p>
-<p>dearoutsider：一边爱国一边移民</p>
-<p>Miss土豆Kimi：这么爱国怎么不回国生活</p>
-<p>站出来的勇气：爱国同胞们快回来吧，中国要实现共产主义，请将你们存在长美国的资产带回来！</p>
-<p>田园犬领养：真的，这么爱国，快回国啊，祖国越来越强大了，越来越有希望，近来又提共产主义了，难道你们要错过跟祖国共同成长的机会吗？</p>
-<p>zhengwei1502：希望是“无组织无纪律”发自内心的行为。</p>
-<p>湖南曾冬：又得花不少钱了。很多华人专赚这种钱</p>
-<p>三妹de天空：雇了几个人啊，这次学生不多啊（孔老二那种鸡贼学校不算），貌似都是唐人街天天晒太阳打牌一句英文不会讲的傻老头老太举着丑哭的大标语</p>
-<p>石磊磊之夜半三更盼天明：周围还站的 法轮功 藏独 疆独 南越余孽 等，国内外反动势力非常猖獗，不能粉饰太平！应该放照片出来给祖国的同志看看！</p>
-<p>敢说皇帝没穿衣的孩子：不看标题，以为金正恩出访</p>
-<p>lnavy570：敢换个角度拍吗？你懂的</p>
-<p>A-M先生：社会底层的中国移民，只为享受美国的福利而已</p>
-<p>中庸主义：反正是天朝百姓的钱，花呗。</p>
-<p>老关回来了：其实海外华人还有更多表现，只是“粉团”选择性刊载。</p>
-<p>谢润良：好，都是好看信息，真给面子。阿弥陀佛！</p>
-<p>Alex快跑：看到拉横幅练功的吗</p>
-<p>烟花现三月：爱国人群中咋没看到令完成和薄瓜瓜他们?</p>
-<p>Onitsukato：给我美国green card 我也可以保证热情高涨！</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%98%8E%E6%8A%A5-%E7%95%99%E5%AD%A6%E7%94%9F%E5%BC%95%E5%BC%80%E7%A4%BA%E5%A8%81%E8%80%85-%E6%8E%A9%E6%8A%A4%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%B0%8F%E8%B7%AF%E7%A6%BB%E5%BC%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">中国留学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%8A%A5/?category=18271" rel="tag">明报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">海外华人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -836,7 +819,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -846,5 +829,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

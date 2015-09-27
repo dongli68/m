@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E6%96%B0%E9%97%BB-%E5%B7%B4%E5%85%8B%E8%8E%B1%EF%BC%9A%E5%A4%96%E6%B5%81%E8%B5%84%E9%87%91%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95-%E4%B8%AD%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">凤凰新闻 | 巴克莱：外流资金刷新历史纪录 中国家底还剩多少</a>
+</h2>
+<p><p>彭博跟踪资本流动的指数显示，资金正在以前所未有的速度离开中国。8月份估计有1,416.6亿美元资金流出中国，刷新了7月份创下的1246.2亿美元的纪录。</p>
+<p>上周，我们对中国资本外流的评估做了更新，并指出根据现有资料，从7月上旬到9月中旬，资金外流量已超过3000亿美元。这一数据来自我们对7月国际资本流动报告(TIC)数据、高盛对基础货币需求(包括现货市场和新发行的远期合约)、野村证券对人民银行九月干预措施的分析。</p>
+<p>去年，石油价格下跌，对全球能源出口国的巨额石油美元储蓄造成压力。在中国于8月中旬开启汇率改革之后，外汇储备大幅下降让全球流动性收紧，对发达国家量化宽松政策也造成不同程度影响。这种局面让美联储进退维谷，因为加息政策只会加速资本从新兴市场流出，并对已经出现下滑的美元储备造成进一步下行压力。换言之，基础利率哪怕只提高25个基点(0.25%)，其效果都会被显著放大，并对全球金融系统形成震撼。</p>
+<p>弄清楚中国的最终累计资本外流规模有多大至关重要，因为它代表了外界对全球流动性干涸的预估。此前，我们据美林美银全球研究部对人民币套利交易的评估判断认为，中国的资本外流量可能达到1.1万亿美元。</p>
+<p>毋庸讳言，外界普遍认准人民币还会经历一轮更大规模贬值，远不止8月11日的“一次性”重设。这让外汇储备进一步承受下行压力。当然，每一轮干预措施都会吸走流动性，这意味着北京必须通过降准和释放流动性来抵消紧缩。但是，在市场看来，降准和放水就意味着宽松政策。因此，人民币不得不承受更多压力，并进入恶性循环。</p>
+<p>巴克莱银行表示，中国的外汇储备水平可能会下降至1.2万亿美元。</p>
+<p>巴克莱银行的报告首先解释了调整什么时候才能达到均衡水平，以及如果中国人民银行不允许市场进行足够的深度调整，起决定性作用的因素又是什么。</p>
+<p>充分了解中国资本外流的规模，以及新的经济增长趋势，对理解人民币贬值以及市场干预/管制可持续性而言至关重要。如果政策制定者真心想让市场来决定汇率体系，当资本外流大多能被经常账户顺差或者资本账户(对外直接投资和证券投资)抵消，这种实际汇率的调整就足够了。另一面，如果政策制定者改变最近的政策灵活性，加强市场干预并实施资本管控，那么资本外流规模以及新的经济增长趋势的决定性因素，则是这种干预政策的可持续性。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/fc66fb03d334821.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/fc66fb03d334821.jpg" alt="图注：用世界银行剩余方法得出的非对外直接投资类资本外流估值" width="604" height="302"></a><p>图注：用世界银行剩余方法得出的非对外直接投资类资本外流估值</p></div>
+<p>中国经济放缓，加之中国经济向消费和服务驱动型的发展模式转型，让资本外流的部分难以被经常账户顺差冲抵：</p>
+<p>当中国经常账户存在显著顺差时，资本外流相对来说可以被直接对冲。尽管资本外流在加剧，经常账户占GDP水平仍然很低(约为5%，包括贸易进出口伪报)，而2011年中期经常账户对GDP的占比便已低于8%。全球需求不振、竞争性压力，以及实现经济增长从出口依赖型向消费依赖型转变的再平衡压力，都让近年的经常账户赤字受到削弱。</p>
+<p>巴克莱银行的分析报告还提到了人民币套利交易：</p>
+<p>中国可以通过增加海外市场贷款来冲抵资本外流。现在，中国从外部不同渠道融通到的贷款已达到1万亿美元。我们认为，这部分贷款是中国套利交易的一部分——通过在岸债权人(企业、银行以及非银行金融机构)借短期美元，来投资人民币资产。这部分新增贷款规模很大，中国不仅可以用它来冲抵资本外流，还实现了2011年到2014年期间的外汇储备积累。而现在，不论是对外直接投资形式的资本流入，还是证券投资，都不如国际贷款的规模。</p>
+<p>如果没有这些资金流入，过去几年中，中国的外汇储备还会下降。近期的融资大多来自私人部门跨境贷款。我们估计，过去5年间，这些流入资金已接近达到外流资金的30%，而2008年的这一水平为0％。此外，这些资金本质上都是以美元计价为主的短期贷款，大多流向服务和房地产部门，并增加了对其可持续性的担忧。目前，通过中国私人部门债权人实现的跨境贷款规模达到1.4万亿美元，其中约75%的贷款期限不足一年。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/36b89e15920ad28.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/36b89e15920ad28.jpg" alt="图注：外部贷款上升趋势与美联储宽松政策和美国低利率相吻合" width="450" height="433"></a><p>图注：外部贷款上升趋势与美联储宽松政策和美国低利率相吻合</p></div>
+<p>巴克莱银行还谈到了“下行情景”：</p>
+<p>根据我们的测量，非对外直接投资资本外流占GDP的8%到10%，能通过经常账户得到的融资占GDP的5%到6%(包括贸易进出口伪报)，二者相差约3%到4%。这是在假定资本外流不会进一步加速的情况下。而汇率有更大灵活性可以帮助中国减少套利交易，增加国际贷款的赔付。短期贷款占GDP比重的历史水平为4%，而目前为10%且可能出现进一步下滑。这意味着还会有资本外流发生，约占GDP的5%。</p>
+<p>目前，净外国直接投资和证券投资加起来占GDP的2.5%。一旦经济增长遭遇大震荡，它们也可能出现干涸甚至逆转。这种情况可能类似2007年的状况，资本外流会占到GDP的2%。</p>
+<p>上述数字表明，在这种下行情景中，央行要为市场提供GDP的约10-12%，来冲抵资本外流以及对冲需求(可能通过在远期市场的干预实现)，将面临很大压力。这大约是1到1.2万亿美元，相当于现有储备资产组合的约30%。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2ae730a1a3bdbef.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2ae730a1a3bdbef.jpg" alt="图注：在下行情景中，按年计算储备量降幅可以超过GDP的10%" width="450" height="435"></a><p>图注：在下行情景中，按年计算储备量降幅可以超过GDP的10%</p></div>
+<p>巴克莱银行报告中最经典的一句话是：“随着中国央行清算储备，在岸市场流动性会收紧。这意味着，央行要下调存款准备金率500个基点(5%)以保持流动性。”</p>
+<p>这并不是什么新东西，事实上，我们之前就对此做过讨论，但它的重要性却值得重申。显然，将政策利率下调500个基点，意味着大规模宽松。而大规模宽松有必然常常与货币贬值相关联。简言之，中国对抵消人民币贬值压力所做出的努力，必然超过下调低政策利率。而这只会给人民币下行带来更多压力。</p>
+<p>正如我们前面提到的，如果中国最终清算了1.2万亿美元的外汇储备，这将抵消掉美联储第三轮量化宽松政策的60%以上的效果，并对10年期美国债券收益率造成200个基点的上行压力。</p>
+<p>本文译自ZeroHedge(克克/编译)</p>
+<p><strong>风险提示：</strong>本文仅作为一般财经信息供读者参考，不代表凤凰iMarkets立场。本文或其任何部分不应被视为任何买卖的邀请或诱导。凤凰iMarkets不能保证文中信息的准确性、完整性和及时性，文中的任何错误都不能成为向凤凰iMarkets提起任何申诉的基础。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E6%96%B0%E9%97%BB-%E5%B7%B4%E5%85%8B%E8%8E%B1%EF%BC%9A%E5%A4%96%E6%B5%81%E8%B5%84%E9%87%91%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95-%E4%B8%AD%E5%9B%BD%E5%AE%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C/?category=18271" rel="tag">下跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">世界银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国人民银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%8E%87/?category=18271" rel="tag">利率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87/?category=18271" rel="tag">存款准备金率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E5%85%8B%E8%8E%B1%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">巴克莱银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%8D%95/" target="cdt-mirror">羽戈：报书单</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B0%81%E6%98%AF%E4%B9%A0%E5%A4%A7%E5%A4%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B0%81%E6%98%AF%E4%B9%A0%E5%A4%A7%E5%A4%A7.png" alt="谁是习大大" width="550" height="377"></a><p>Youtube 页面截图 ／ 配图与文章无关</p></div>
@@ -719,43 +754,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%88%96%E5%B0%86%E4%BD%9C%E5%87%BA%E6%B0%94%E5%80%99%E6%94%BF%E7%AD%96%E6%89%BF%E8%AF%BA/" target="cdt-mirror">BBC | 习近平访美：中国或将作出气候政策承诺</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150925074255_xi_zuckerberg_640x360_afp_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150925074255_xi_zuckerberg_640x360_afp_nocredit.jpg" alt="习近平与中国大陆封禁的Facebook网站创始人马克·扎克伯格会面。" width="450" height="253"></a><p>习近平与中国大陆封禁的Facebook网站创始人马克·扎克伯格会面。</p></div>
-<p><strong>据白宫官员透露，中国国家主席习近平将会就气候变化和有害气体减排等问题作出里程碑式的承诺。</strong></p>
-<p>这一举动发生在习近平抵达华盛顿开始一周访美行程第二站之后。</p>
-<p>周四（9月24日）晚上，习近平与美国总统奥巴马在白宫进行了非正式会谈，他们在那里讨论了伊朗核问题。</p>
-<p>习近平此次对美国的国事访问，被两国网络安全问题上的分歧所笼罩。</p>
-<p>周五（9月25日），第一次国事访问美国的习近平将在白宫受到国宴招待，东道主将为他鸣放21响礼炮。</p>
-<p>一名白宫官员告诉记者，习近平会在周五宣布计划，将在2017年启动全国碳排放交易方案。</p>
-<p>这个“限制与交易”（cap-and-trade）方案将会对污染物排放超过某个等级的中国企业进行处罚。</p>
-<p>美联社引述该名官员指，中国还会作出一个“非常巨额的财政承诺”，帮助发展中国家进行向低污染技术的转移。</p>
-<p>中美两国在2014年就已经就气候问题提出了一个联合方案。</p>
-<p>当时，奥巴马定下新目标，至2025年要让美国的碳排放量比2005年降低26%－28%，中国虽然没有定下具体目标，但表示其碳排放量会在2030年达到峰值。</p>
-<p>两国的碳排放量合共占全世界总量的45%。</p>
-<p>今年稍后，联合国将在巴黎举行一次重要的气候会议；在该会议前作出这样的宣布，是习近平访美之行期望中的少数突破性进展之一。</p>
-<p>在一些双方有争议的问题上，比如网络安全，中国东海和南海区域的领土主张等，可期待的进展则并不多。</p>
-<ul><li><a href="http://www.bbc.com/zhongwen/simp/china/2015/09/150925_china_xi_washington_diplomacy_summit">迎接习近平的三位旗手</a>：BBC中文网驻华盛顿特约记者雷旋采访了在华盛顿欢迎习近平车队的其中三位高举大旗的旗手，他们举的分别是北京大学的旗帜，中国国旗和美国国旗。</li>
-<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150924_us_xi_banquest_leixuan">习奥会国宴细节</a>：BBC中文网驻华盛顿特约记者雷旋披露习奥会国宴细节。他说国宴布置的粉色色调来自美国第一夫人米歇尔·奥巴马的概念。</li>
-<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150925_ana_china_xi_us">政治挑战</a>：BBC中文网记者蒙克分析习近平访美经贸之旅及政治挑战。</li>
-<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150924_ana_china_us_cyber-suspicion">黑客攻击疑云</a>：BBC安全事务记者戈登·科雷拉（Gordon Corera）分析说，网络安全曾经是个晦涩模糊的问题，但现在它已经处在中美关系的核心位置。</li>
-<li><strong><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150923_us_china_temsel">谁主浮沉</a>：</strong>BBC中文网记者蒙克观察习近平出席西雅图商界领袖峰会。</li>
-<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150923_letter_liuxiaobo">联署信</a>：包括南非的图图大主教、流亡西藏精神领袖达赖喇嘛在内的12名诺贝尔和平奖得主联署公开信，要求中国释放刘晓波。</li>
-<li><a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150923_gal_china_usa_visit_history">牛仔帽与吉他</a>：盘点历届中国领导人访美。</li>
-<li><a href="http://www.bbc.com/zhongwen/simp/indepth/2015/09/150922_blog_china_us_new_model">新模式</a>：BBC中国总编辑凯瑞（Carrie Gracie）看习近平要建立的中美“新兴大国关系”会是什么模样。</li>
-<li><a href="http://www.bbc.com/zhongwen/simp/uk_study/2015/09/150917_trailer_google_hangout">专家讨论</a>：BBC中文网邀请嘉宾一同谷歌环聊，前瞻习近平访美能否缓和中美关系。</li>
-</ul><p>在抵达华盛顿之前，习近平已经访问了西雅图。他在那里与一众商界和科技界领袖会面，并承诺将加强知识产权保护，为外商在中国投资扫清障碍。</p>
-<p>最近，美国指控中国政府在幕后对美国政府数据库进行了资料盗窃，并且对私人企业进行了攻击，而奥巴马也表示，这些问题有可能“极大地束缚”两国重要关系发展。</p>
-<p>在西雅图，习近平表示中国“坚决捍卫网络安全”，并且是“网络攻击的受害者”，他承诺愿与美国合作应对这一问题。</p>
-<p>白宫发言人乔什·欧内斯特（John Earnest）在周四告诉记者说：“我们更着眼于他们的行动，而不是言语。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%88%96%E5%B0%86%E4%BD%9C%E5%87%BA%E6%B0%94%E5%80%99%E6%94%BF%E7%AD%96%E6%89%BF%E8%AF%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B8%E7%89%8C%E5%B1%8B/?category=18271" rel="tag">纸牌屋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -767,7 +765,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -777,5 +775,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

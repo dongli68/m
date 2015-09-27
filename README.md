@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,87 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B2%88%E9%B8%BF%E4%BC%9F%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%85%88%E6%95%91%E5%A6%88%E6%98%AF%E5%AF%B9%E7%9A%84%EF%BC%9F%EF%BC%81/" target="cdt-mirror">沈鸿伟律师：先救妈是对的？！</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/05/%E5%AD%9D%E9%81%931.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/05/%E5%AD%9D%E9%81%931.jpeg" alt="孝道1" width="440" height="587"></a><br><em>（网络图片）</em></p>
+<p>女友和妈同时遇险，一道刑法司考题引起了广泛的争论。标准答案是什么？24日晚上8时，司法部网站公布了今年国家司法考试的参考答案：先救妈是对的！也就是说，国家要你先救妈妈！</p>
+<p>对这个答案题目，参加司考的人大多不会答错。只要看一下《刑法的私塾》，便可以发现张明楷教授有很多奇怪的观点。</p>
+<p>如果这是个伦理题，哪怕真有想先救女友的，想必他也不敢大声说出来。遗憾的是，这不是一道伦理题，而是一道刑法题，是罪与非罪，生杀予夺的问题。</p>
+<p>幸亏我不是考生，否则在大是大非面前真是左右为难。说先救女友不救妈无罪，批卷的给个叉的命运是逃不掉的。说有罪，真的说服不了自己。</p>
+<p>记得刚出道的时候，刑法学界的非罪化、非刑罚化等刑法谦抑思想盛行，但是书生的东西总归是嘴巴上的，现实还是蛮残酷的，君不见已是刑法修正案九了，罪是越 来越多，连寻衅滋事、非法经营这种从口袋罪中剥离出来的又陷入新口袋罪的也快差不多要撑破了。先救女友不救妈入罪也就见怪不怪了。</p>
+<p>刑法教授们的思维是不是这样的：子女对妈，当然这里主要还是亲妈，肯定不包括干妈、义母，但继母（好像限于有扶养关系）、养母，在教授们眼里肯定和亲妈一 样的，具有救助义务，而对女是没有救助义务的，救女友不救妈违反了救助义务，所以你妈死了，你就犯了故意杀人罪。当然，是不作为的故意杀人罪。</p>
+<p>我不知道，这是形式思维的结论，还是实质思维的结论。但这个结论肯定是教授们通过逻辑推导出来的。逻辑真有那么强大吗？不见得。</p>
+<p>先救妈是对的，我也认为是对的。但因为先救女友而妈因此死了便说成是犯罪，就觉得难以接受。古代讲忠孝不能两全，先救皇帝不救妈，肯定受表彰。当然，教授 们可以说那年代是普天之下莫非王土、率土之滨莫非王臣，老百姓对皇上有救助义务，所以不救妈没问题。那么，我们换个年代，现在没有皇上了，但我们还有领 袖，遇此我看哪个法院敢判有罪？想必是铺天盖地的宣传、表彰，信不信由教授。</p>
+<p>如果从救助义务角度而言，父母对未成年子女是有救助义务的。洪水滔天时，父母先救别家小孩而自家孩子因来不及救助溺亡，是表彰还是判刑？依照教授们的说法，不判刑是不对的，可百姓不见得答应，信不信由教授。</p>
+<p>先救女友不救妈有罪，等于说先救他人不救妈有罪。是否可以看到有这么一种景象：一座大楼起火，某人妈在楼中，其进入大楼救人，看见楼层中有很多人等待救 援，因他妈在里面，考虑到不救妈是吃官司的，所以他便放弃了救援他人而找他妈去了（当然找妈是对的，这是人性使然，不可苛求，问题在于逻辑）。教授们想告 诉大家这样一种逻辑，这样一种价值取向？</p>
+<p>我总在想，人的生命是平等的，救谁都是救，救一个是一个。怕的是，有能力救而袖手旁观。人家选择救妈，那是人性使然，人家选择救女友，那也是人性使然。我们陷于救助义务继而讨论罪否，无异议说女友的命不如妈，不该救，换言之别人的命与你无关。</p>
+<p>选择是痛苦的。我们没有必要让自己陷入“洞穴奇案”中，不要让人们困于“电车难题”中，还是把这些问题留给哲学家吧。我们要的是生活中的常情、常理、常识。让法律的归于法律，让伦理的归于伦理，先救女友者，自会有亲朋好友的异样眼光，也许会生活在自责之中。这已经够了。</p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B2%88%E9%B8%BF%E4%BC%9F%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%85%88%E6%95%91%E5%A6%88%E6%98%AF%E5%AF%B9%E7%9A%84%EF%BC%9F%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88/?category=18271" rel="tag">党妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E9%83%A8/?category=18271" rel="tag">司法部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/" target="cdt-mirror">【网络民议】共产主义理想没有辜负胡总编</a>
+</h2>
+<p><p><a href="http://weibo.com/poetjustice" target="_blank"><img src="http://tp1.sinaimg.cn/1701401324/50/5703338318/1" alt="徐昕" width="50" height="50"></a><a href="http://weibo.com/poetjustice" target="_blank">徐昕</a> ：鉴于<a href="http://weibo.com/n/%E8%83%A1%E9%94%A1%E8%BF%9B?from=feed&loc=at" target="_blank">@胡锡进</a> 总编请过我们一批人吃饭，若需依法维权、申诉、上访，我愿竭诚提供法律帮助</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/656952ecgw1ewgsdalgazj20c813vdlb-314x1024.jpg" alt="656952ecgw1ewgsdalgazj20c813vdlb" width="420" height="1370"></p>
+<p>以下网民评论由数字时代编辑选自新浪微博：</p>
+<p><a href="http://weibo.com/2940931215" target="_blank">山高水长s</a>：报应到了。</p>
+<p><a href="http://weibo.com/u/3967316260">双墩张其青</a>：寒心,像混球屎报的胡乱编这样忠心耿耿的太监都被处分,还有天理不?</p>
+<p><a href="http://weibo.com/5012665310" target="_blank">WeLoveKoKoFoever</a>：我想说的只有一个字 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>
+<p><a href="http://weibo.com/1802601603" target="_blank">邸文考</a>：原来胡编<a href="http://weibo.com/n/%E8%83%A1%E9%94%A1%E8%BF%9B?from=feed&loc=at" target="_blank">@胡锡进</a> 就是“适度腐败”的腐败分子啊，所以他自己亲自撰文“应当允许中国适度腐败，民众要理解”，看来他是在为自己的“适度腐败”行为开脱罪责啊！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/1958431095" target="_blank">秀色苍穹2011</a>：叼盘也没用。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p><a href="http://weibo.com/liva" target="_blank">窝洛克</a>：《主编受处分彰显自我监督完备》，《内部处分轮不着敌对势力幸灾乐祸者》，《适度贪腐不被一棍子打死是一种理性治理》</p>
+<p><a href="http://weibo.com/1605652472" target="_blank">普罗美修士</a>：//<a href="http://weibo.com/n/i-want-it-that-way?from=feed&loc=at" target="_blank">@i-want-it-that-way</a>: //<a href="http://weibo.com/n/%E6%B2%A1%E5%88%B0%E8%BF%87%E6%A9%98%E5%AD%90%E6%B4%B2%E5%A4%B4?from=feed&loc=at" target="_blank">@没到过橘子洲头</a>: //<a href="http://weibo.com/n/LifeTime?from=feed&loc=at" target="_blank">@LifeTime</a>:试着用环球体来几篇狡辩的社评：《主编受处分彰显自我监督完备》，《内部处分轮不着敌对势力幸灾乐祸者》，《适度贪腐不被一棍子打死是一种理性治理》。<img title="[偷乐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif" alt="[偷乐]"></p>
+<p><a href="http://weibo.com/2795894310" target="_blank">张世影</a>：肯定是境外敌对势力从中捣鬼，欲图谋害我党忠良斗士，再一次雄辩地证明，腐朽的资本主义价值观是穿肠毒药，一定要旗帜鲜明地反对和批判。</p>
+<p><a href="http://weibo.com/2401247845" target="_blank">最新鲜百科</a>：警惕国外敌对势力炒作<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/1741809655" target="_blank">蜀翘</a>：这是中秋一乐！！！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/u/1908414004">leyecn乐也</a>：堂堂胡大总编也和我等小官一样，喜欢贪点小便宜，“有权不用过期作废”的道理还是懂的，就别再装逼了。</p>
+<p><a href="http://weibo.com/2675844833" target="_blank">草席一张的春天</a>：看来，那段搔首弄姿，阴阳怪气的歌颂共产主义的视频，最终让高层也看呕吐了，这不是打着护法的旗号暗地抹黑我党么，实在是要治一下这小子了。</p>
+<p><a href="http://weibo.com/2802149512" target="_blank">真地太累</a>：胡总，咋办？好像昨前天还在高唱共产主义主旋律嘛，可你这做法符合哪章哪条呢？是不是马克思特许的？以前只看到你的“言”，这次看到你的“行”，OK，一致了。劝你莫辩解，越辩越黑，周一上班直接辞了算。可惜了的，这不，不刚刚才春风得意地出了视频吗！</p>
+<p><a href="http://weibo.com/1718281293" target="_blank">blue蓝青天</a><i></i>：坐等视频<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">//<a href="http://weibo.com/n/%E8%80%81%E9%A9%AC_%E5%9C%A8%E9%80%94?from=feed&loc=at" target="_blank">@老马_在途</a>: 胡总编，再出个视频，发表点评论呗！</p>
+<p><a href="http://weibo.com/3058643605" target="_blank">An313058643605</a>：自从瞻仰了胡编猥琐的视频后，终于知道胡编单仁平是什么货色了。</p>
+<p><a href="http://weibo.com/2311431354" target="_blank">红梅赞赞</a>：胡锡进得罪谁了？像文强那样偷偷操了主子的女人被主子发现了？舔痔吸痈狗舔错地方被主子一脚踢开了？哈哈哈哈哈哈哈，拿胡锡进这条狗开刀，看来派系斗争很激烈，继续看大戏，它们互相砍死就是对人类最大贡献，哈哈哈哈哈哈哈</p>
+<p><a href="http://weibo.com/1423243510" target="_blank">天下平2012</a>： 胡锡进同志曾几何时不顾吃相难看，生吞一块共产主义的肥肉，不幸东窗事发，被逼吐出来。从某个层面上说共产主义确实没有辜负中国人民，她居然不理解胡锡进 和他的同志们搞点适当的腐败，真是对不起胡锡进同志长期以来施展各种叼功的苦劳，酱紫的共产主义与胡同志的共产主义差距怎么这样大呢？呵呵!</p>
+<p><a href="http://weibo.com/1366567550" target="_blank">漫随流云</a>：请教胡总，波兰红灯区提供发票吗？</p>
+<p><a href="http://weibo.com/2016345601" target="_blank">网上闲闲人</a>：我说吗，有头有脸的你当什么“五毛”？“五毛”只能让没房，没车，没钱方便面当饭吃的干呀。何必抢别人饭碗呢？<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
+<p><a href="http://weibo.com/2059763875" target="_blank">要求注册很恶心</a>：共产主义理想没有辜负胡总编</p>
+<p><a href="http://weibo.com/2735357831" target="_blank">Edmeston</a>：多吃几口狗粮都不行，这让其他五毛狗爱国狗看了是何等的不是滋味啊</p>
+<p><a href="http://weibo.com/1829154344" target="_blank">曾经我的眼印过你的笑</a>：花带上路，胡总就到这地步了？//<a href="http://weibo.com/n/%E9%93%81%E5%93%A5%E6%97%A5%E8%AE%B0718?from=feed&loc=at" target="_blank">@铁哥日记718</a>: 叼一次盘子就足以抵消！//<a href="http://weibo.com/n/%E4%B8%80%E5%93%81%E6%B3%A5%E4%BA%BAV?from=feed&loc=at" target="_blank">@一品泥人V</a>: //<a href="http://weibo.com/n/%E5%B9%BF%E4%B8%9C%E7%B2%A4%E5%B9%BF%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80?from=feed&loc=at" target="_blank">@广东粤广律师事务所</a>:叼盘子的也不容易，幸好狗多是实诚的。<img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"></p>
+<p><a href="http://weibo.com/5019018575" target="_blank">一花一世界ii往事并不如烟</a>：奴才大都如此，口里说得堂皇，私下干的是肮脏事~</p>
+<p><a href="http://weibo.com/1917347883" target="_blank">折腾的skyracer</a><i title="微博达人"></i>：在89年毕业能分配进人民日报，啧啧。。。</p>
+<p><a href="http://weibo.com/binwang4463" target="_blank">王彬</a>：胡编89年毕业进入了“好单位”，很好奇在那场学运中他扮演了什么角色？</p>
+<p><a href="http://weibo.com/kangqiaowang" target="_blank">王春生律师</a>：向编委会申辩：可以适度腐败嘛。<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/3921892823" target="_blank">用户szbkbyl9q9</a>：前两天不还在谈共产主义吗?<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/3169227990" target="_blank">站住大和尚</a>：<a href="http://weibo.com/n/%E8%83%A1%E9%94%A1%E8%BF%9B?from=feed&loc=at" target="_blank">@胡锡进</a> 摇尾巴叼飞盘那么敬业，老子吃几顿饭，出去玩玩有什么了不起！！</p>
+<p><a href="http://weibo.com/gywb1newsroom" target="_blank">ecstacyeah</a>：胡编特别有古代某种职业的气质，特妖冶。</p>
+<p><a href="http://weibo.com/forbenq" target="_blank">宽客老魏</a>：胡锡进属于心眼极坏的那类人，将来一定会被写进史书，遗臭万年。//<a href="http://weibo.com/n/%E7%8C%AB%E8%B4%A2%E7%BB%8F?from=feed&loc=at" target="_blank">@猫财经</a>: 转发微博</p>
+<p><a title="方悄悄诺娃" href="http://weibo.com/fangqiaoqiao" target="_blank">方悄悄诺娃</a>:  我感觉如果有地狱，可能得给<span>胡锡进</span>总编辑专设一层。</p>
+<p><a href="http://weibo.com/zangyunchuan">拈花三藏</a>：九层妖塔吧⋯⋯</p>
+<p><a href="http://weibo.com/5634050789" target="_blank">李颖_201508</a>：和方滨狗谁上谁下，需要好好研究</p>
+<p><a href="http://weibo.com/5591506984" target="_blank">宋石男41</a>：空叼飞盘三十年，到头翻似烂柯人。<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
+<p><a href="http://weibo.com/liaobaohua" target="_blank">baohuaa</a>：中国最权威的五毛连这点小便宜都贪，建议中宣部给五毛们涨涨工资，改善一下生活条件。</p>
+<p><a href="http://weibo.com/1490211551" target="_blank">_菩提树枝</a>：做狗奴才的下场。犬得好，主人扔根骨头；犬得不好，主人大棒伺候。坚决支持周_带_鱼接任环球屎报总编辑的职务。</p>
+<p><a title="听剑那美妙的绽放" href="http://weibo.com/u/5696197332" target="_blank">听剑那美妙的绽放</a>:（转）北京的哥：网上流传消息：环球时报主编<span>胡锡进</span>到国外开会擅自变更路线去波兰旅游三天，公款报销，被人民日报给予警告处分。感受：1 这就是胡锡进这两天宣称的共产主义？2 处分太轻了吧？3 为什么网上对胡的嘘声骂声铺天盖地？人活到这份上还有脸活下去？家人作何感想？4 毛左为什么都这么不要脸？</p>
+<p><a href="http://weibo.com/2904943437" target="_blank">王Wangcao</a><i title="微博达人"></i>：胡编啊，出差时溜去周边玩耍在中国是很普遍的现象，被抓住一般也就批评两句和不报销相关费用而已，像你这样受处分算是很严厉了，现在还被暴光，弄不好要被卸磨杀驴了！领导关系没有处理好吧？该考虑后路了，要不学<a href="http://weibo.com/n/%E5%8F%B8%E9%A9%AC%E5%8D%97?from=feed&loc=at" target="_blank">@司马南</a> 一样赶快逃跑去美帝吧，到了那儿也是可以近距离反美爱国的。</p>
+<p><a href="http://weibo.com/1583636441" target="_blank">西瓜脸哥哥</a>：辛辛苦苦叼飞盘这么多年，说踹就踹……</p>
+<p><a href="http://weibo.com/ebododo" target="_blank">大道有信</a>：当一个人遭到大多数民众唾弃时，任何一个集团都不可能再收留他。</p>
+<p><a href="http://weibo.com/1405206872" target="_blank">曾经年少追梦</a>：夜壶的下场</p>
+<p><a href="http://weibo.com/2041266845" target="_blank">晴风_路上</a>：该下去了吧，五毛很多，在上个新的。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%A2%AB%E5%A4%84%E5%88%86/?category=18271" rel="tag">胡锡进被处分</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E9%87%8D%E5%9B%9E%E5%8D%A0%E4%B8%AD%E7%A4%BA%E5%A8%81%E5%8C%BA%E8%AE%BA%E6%94%BF%E6%B2%BB%E3%80%81%E7%A4%BE%E8%BF%90/" target="cdt-mirror">德国之声 ｜香港学生重回占中示威区论政治、社运</a>
 </h2>
 <p><p>香港去年的全民运动“雨伞运动”即将踏入一周年，学生组织学联和学民思潮星期六晚上在香港立法会举办雨伞运动一周年研讨会，讨论香港未来社运方向。</p>
@@ -725,89 +803,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B2%88%E5%A4%A7%E4%BC%9F%EF%BC%9A%E4%BB%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E8%A7%82%E5%AF%9F%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%9A%84%E5%8D%81%E5%A4%A7%E6%8C%87%E6%A0%87/" target="cdt-mirror">沈大伟：从习近平访美观察中美关系的十大指标</a>
-</h2>
-<p><p>中国国家主席习近平赴美进行国事访问。这是习近平第7次访美，不过这是他首次以国家元首身份赴美进行国事访问。对于此次行程，应该抱持什么期待？对全球各地的中美关系专家来说，在习近平访美期间，我们应该留意什么地方呢？华盛顿布鲁金斯学会非驻所高级研究员沈大伟（David Shambaugh）列出了此次中美互动中的10个值得关注的指标。这篇文章具有一定参考意义。</p>
-<p>1.峰会的整体气氛如何？<br>
-有一点似乎很明显：两国对峰会的期望截然不同。美国政府将以公事公办的态度召开峰会，试图为峰会严肃定调，并就美国忧虑的问题及关乎己方利益的事务表达关注。美国将会提出许多要求。然而，美国却宁愿直接与中国领导人传达这些关注和解释因由，也不通过次级官员来传话。<br>
-中国对这次峰会的期望也相当不同。美国人着眼于实质成果。对中国来说，最重要的目标是打造得体的外交形象。中国身为全球另一个大国，自然希望受到相应的礼待。习近平将在白宫南草坪接受仪仗队鸣响21下礼炮欢迎，晚上则将在白宫享用国宴。</p>
-<p>2.美国公众会否留意习近平此次访问？</p>
-<p>3.两国元首将花多少时间会面？<br>
-周四晚在白宫会举行私人晚宴，可能历时两小时，两国元首还将就”世界现况”（state of the world）举行话题广泛的战略讨论。次晨，在白宫南草坪举行欢迎仪式后，两国元首在白宫总统办公室独处的时间将不到一小时（由传译陪同），然后两人将由各自的幕僚人员陪同，在内阁会议室召开历时一小时的会议（场内将有摄影师）。之后，两人将召开联合记者会（美方坚持安排这个环节）。当晚，两人将在国宴上再度交流。</p>
-<p>4.习近平还有哪些活动？<br>
-习近平将在华盛顿州逗留两天，然后启程前往首都华盛顿。他将参观西雅图的波音工厂及塔科马的一家高中，并会与美国企业高管一同出席一场会议，还受邀出席宴会及发表重要政策讲话──这场宴会的其中一些赞助方，是参与中美关系工作的顶尖非政府组织（可留意习近平发言期间有多少次提到耳熟能详的”构建新型大国关系”）。在白宫与奥巴马会面后，习近平将前往美国国务院，与一众高级官员和中国事务专家一起，出席由国务卿克里和副总统拜登主持的午餐会。当天下午，习近平将往国会山，与国会领袖召开两党会议。</p>
-<p>6.可以期望高峰会取得什么成果？<br>
-这可分为两个部份：峰会后的公告，以及峰会期间的讨论内容。<br>
-会后公告方面，两国或会宣布中美将在气候变化问题上的进一步合作，为12月在巴黎举行的联合国气候大会做准备。此外还可能宣布新的措施以建立军事互信，并就网络安全问题、双边投资协定谈判进展、维持全球经济稳定及全球安全事务等内容发表声明。<br>
-目前中美关系面对多重挑战，双方将在闭门会议上讨论相关挑战。美国的议题主要包括：中国网络攻击（针对企业及政府）、美国在华企业面对越来越多的障碍，以及朝鲜问题。<br>
-此外，经历过今夏的经济动荡之后，美国还将审视对中国经济的评估及推动市场自由化的承诺。<br>
-至于中国的议题则可能包括：美国针对中国的网络间谍活动、要求美方进一步对华开放投资、放宽对华转移技术的限制、停止对台售武、引渡在美的经济罪犯。</p>
-<p>7.会有什么预料之外的结果？<br>
-应注意预期中的紧张气氛和闭门会议期间使用的率直措辞会否也见于公开场合。奥巴马在欢迎仪式及国宴上应会保持风度，但须留意其神情举止及在联合记者会上的讲话内容，例如致开幕辞时神情和语气是否严肃；也须留意习近平发表回应辞时有否偏离常用的措辞。然后──这是峰会未经事先安排的一环──留意习近平如何回应美国媒体的尖锐提问：他会否照稿宣科，抑或即席回答<br>
-他会否像去年11月在北京的记者会结末时那样严正自辩，还是会轻松自信地应对？他会否承认中国在对内及对外政策方面出现失误（正如前主席胡锦涛2011年在同一个场合作出的暗示）？<br>
-此外，还应注意两位元首是否像1997年江泽民与克林顿会面时那样针锋相对。简而言之，既要留意两人的讲话内容，也要注意他们的身体语言，因为这可以反映闭门会议的气氛和两国关系的紧张程度。</p>
-<p>8.峰会会被如何解读？<br>
-应留意两国政府在峰会后如何形容会议情况，尤其是中国。预料美方应会贯彻做法，让媒体和中国事务观察家自行解读。但中国将一如意料地使用”新型大国关系”一词，并强调两国之间的合作关系。如果中国媒体以直截了当的方式报道美方的忧虑、双方的分歧和中美关系纠纷不断的本质，这将是极不寻常之举，但也将十分可喜。<br>
-另外，也需要留意其他亚洲国家如何解读是次峰会。大多数区内国家对中国的行径都愈发不安，但同时又不愿卷入中美纷争。大国相争，总会殃及小国。若中美关系不稳，亚洲就无法维持稳定。</p>
-<p>9.这次会议会否成为中美关系的转捩点？<br>
-不会。中美关系仍将持续发展，两国元首将继续于每年进行几次会晤，双方政府也会保持对话。即使这次峰会未能解决双方的磨擦，中美关系也不会因而破裂。这就是外交：在讨论和缩窄分歧的同时，寻求扩大合作领域。中美关系对两国以至全球都至关重要，双方政府都不会任由两国陷入敌对关系，否则两国的领导人必然要为此下台。然而，中美关系需要有更坚实的基础，不能光依靠短期协议或领导层维持关系的意愿去支撑，而是需要在棘手的重大问题上寻求实质进展。<br>
-但由于中美分歧既深且广，而且涉及实质的国家利益，要在重大问题上寻求进展并不容易。在这种情况下，最乐观的预期是双方能够达致”竞争共存”（competitive coexistence）的关系：两国既能有效管理分歧、防止情况失控，也能够针对彼此的重大关注议题，作出相应的让步。</p>
-<p>10.这次峰会如何才算得上成功？<br>
-若双方能够坦诚相对，公开承认分歧与问题的存在，峰会就算是成功。<br>
-要建立稳固的关系，相关国家必须坦诚以待、开诚布公，而非掩饰分歧以挽回颜面。稳固的关系也关乎聆听对方的忧虑和作出适当的回应。因此，这次峰会是否成功，只有待六个月后才能评定：判断的准则在于两国会否采取切实的跟进行动。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B2%88%E5%A4%A7%E4%BC%9F%EF%BC%9A%E4%BB%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E8%A7%82%E5%AF%9F%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%9A%84%E5%8D%81%E5%A4%A7%E6%8C%87%E6%A0%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1%EF%BC%9A%E6%B0%91%E4%B8%BB%E4%BE%9D%E7%84%B6%E6%8C%BA%E7%AB%8B%E5%9C%A8%E5%8E%86%E5%8F%B2%E7%9A%84%E7%BB%88%E7%BB%93/" target="cdt-mirror">弗朗西斯·福山：民主依然挺立在“历史的终结”处</a>
-</h2>
-<p><p>二十五年前，我为《国家利益》这个小杂志撰写了”历史的终结？”一文。那是1989年春，对于我们这些陷在冷战的政治和意识形态大论争中的人而言，是一个令人难以置信的时刻。这篇文章恰好发表在柏林墙倒塌前几个月，那时，民主转型的浪潮正在东欧、拉美、亚洲和撒哈拉以南的非洲进行得如火如荼。</p>
-<p>当时我认为，历史（从宏大的哲学意义上来说）展现出了完全不同于左派思想家所设想的结局。经济现代化和政治现代化的过程，并没有像马克思主义者断言和苏联宣称的那样，通向共产主义，而是走向了各种形式的自由民主和市场经济。我写道，历史在自由中达到顶峰：民选政府、个人权利，以及劳资流通只需适度政府监管的经济体制。</p>
-<p>现在回头再来看这篇文章，首先很明确的一点是：2014年的情形与1989年完全不同。</p>
-<p>俄罗斯是一个以石油美元支撑的险恶的选举型威权政体，对邻国咄咄逼人，试图收回1991年苏联解体时失去的领土。中国仍是个威权政体，如今更是世界上第二大经济体，并对南海和东海的领土高度关注。正如外交政策分析家沃尔特·拉塞尔·米德（Walter Russell Mead）最近写道的那样，老式的地缘政治重又兴起，全球稳定在欧亚两端都面临着威胁。</p>
-<p>当今世界的问题不仅在于威权政府在发展，还在于许多现存的民主国家运转不良。以泰国为例，其不稳定的政治结构在上个月（2014年5月）导致了军事政变，再来看孟加拉，其体制仍受到两股腐败政治力量的控制。许多看似成功完成民主转型的国家—土耳其、斯里兰卡、尼加拉瓜—已退回到威权体制。其他还有一些国家，包括最近加入欧盟的罗马尼亚和保加利亚，仍受腐败困扰。</p>
-<p>然后就是发达民主国家的情形。在过去十年里，美国和欧盟都遭受了严重的金融危机，这意味着增长乏力和高失业率，尤其是年轻人的失业。尽管美国经济现在重又开始发展，但是利益没有得到共享，而且，美国派性明显的两极化政治体制也很难说是其他民主国家的卓越典范。</p>
-<p>那么，我的历史终结论因此就被证明是错了吗？或者退一步说，即使不是错的，也需要进行重大修正吗？我认为，我的根本思想仍然是基本正确的，不过，在1989年那段令人兴奋的日子里，我对政治发展的本性尚是雾里看花，如今则有了更多的理解。</p>
-<p>当我们去观察广泛的历史潮流时，重要的是不要被短期的发展牵着鼻子走。持久的政治体制的标志是它的长期稳定性，而不是它在特定十年里的表现。</p>
-<p>首先，让我们来看一看过去两代人的时间里，经济体制和政治体制发生的剧烈变化。在经济方面，世界经济在产出上有了大幅度提升，1970年代早期与2007—2008年金融危机之间大概有四倍的差距。尽管危机是个大挫折，但整个世界的繁荣水平在各大洲仍有大幅度增长。之所以会出现这种情形，是因为世界通过一种自由的贸易和投资体系牢牢地连在一起。甚至在中国和越南等共产党领导的国家，也是市场法则和市场竞争占支配地位。</p>
-<p>政治领域也发生了巨大变化。根据斯坦福大学民主问题专家拉里·戴蒙德（Larry Diamond）的数据，1974年整个世界只有35个选举式民主国家，不到整个世界国家数量的30%。到2013年，选举式民主国家已增加到近120个，占世界国家总数的60%还要多。1989年只是那股突然加速的广泛潮流的一个标志而已，哈佛大学的政治学家塞缪尔·亨廷顿把这股潮流标记为民主化的”第三波”，它始于大约十五年前南欧和拉美的民主转型，后来又波及撒哈拉以南的非洲和亚洲。</p>
-<p>以市场为基础的全球经济秩序的出现与民主的传播有着显然的联系。民主向来依赖于广泛的中产阶级，而在过去的三十年中，各行各业富裕的、拥有财产的公民在各处猛增。无疑，更加富裕、受过更好教育的人对他们的政府要求更多—而且由于他们纳税，他们觉得自己有权利对公职人员问责。世界上最顽固的威权主义堡垒，许多都是盛产石油的国家，比如俄罗斯、委内瑞拉或者波斯湾的政权，在这些地方，所谓的”资源诅咒”可以让政府从资源中而不是从人民那里获得巨额税收。</p>
-<p>即使认可盛产石油的独裁者有抵制变化的能力，我们还是从2005年起见证了戴蒙德博士所谓的全球性”民主衰退”。根据自由之家（其发布的政治自由和公民自由指标被广泛采用）的统计，在过去的八年里，民主国家无论是在数量上还是在质量上（选举的完整性、新闻自由等等）都有所下降。</p>
-<p>不过，还是让我们来透视一下这个民主衰退：我们虽然可能对俄罗斯、泰国或尼加拉瓜的威权趋势感到担忧，但我们也清楚，所有这些国家在1970年代都毫不含糊是独裁政体。尽管也有2011年开罗解放广场那些令人兴奋的革命日子，但是除了在其发源地突尼斯之外，”阿拉伯之春”似乎在别的地方尚不会产生真正的民主。然而，这可能意味着阿拉伯政治在很长一段时间里会变得更具回应性。因此，以为民主会很快实现是极其不现实的。我们不要忘记，在1848年革命—欧洲的”人民之春”—之后，民主制度又花了七十年的时间才得以巩固。</p>
-<p>此外，在观念领域，自由民主仍没有真正的对手。比如，普京领导下的俄罗斯和阿亚图拉领导下的伊朗尽管在实践中无视自由民主，但也重视民主理想。为什么还要费心在乌克兰东部就”民族自决”举行假公投？中东的一些极端分子可能梦想恢复一个伊斯兰教政权，但是，这不是生活在穆斯林国家的绝大多数人的选择。唯一确实可与自由民主制度进行竞争的体制是所谓的”中国模式”，它是威权政府、不完全市场经济以及高水平技术官僚和科技能力的混合体。</p>
-<p>可是，如果要我猜测一下，五十年后，是美国和欧洲在政治上更像中国，还是中国在政治上更像美国和欧洲，我会毫不犹豫地选择后者。有很多理由表明，中国模式是难以持续的。它依赖于经济的持续高速增长，然而，随着中国设法从中等收入国家向高收入国家转型，这样一种高速增长不会再出现。中国因土地污染和空气污染而积累了大量的隐性负担，虽然政府仍比绝大多数威权体制更具有回应性，但是，一旦日子变得艰难，中国日益增多的中产阶级不可能会接受现行的家长主义体制。中国不再像毛泽东所处的革命时期那样，展现一种超出自己边界的普遍主义理想。……</p>
-<p>然而，这绝不是说我们可以满足于过去二十年取得的民主成就。我的历史终结论从来不是一种决定论，或者只是简单地预测自由民主制度势必在全世界取得胜利。民主国家还继续存在并获得成功，只是因为人民愿意为法治、人权和政治问责制奋斗。这样的社会既取决于领袖、组织能力，也取决于纯粹的好运。</p>
-<p>那些渴望民主化的社会，唯一的大问题就是，它们未能提供人民想从政府得到的实质性内容：个人安全、共享的经济增长以及获得个人机遇所必需的基本公共服务（尤其是教育、卫生保健和基础设施）。由于可理解的原因，民主的支持者关注的是如何限制专制国家或掠夺型国家的权力。但是，他们并没有花多少时间去思考如何有效地进行统治。用伍德罗·威尔逊（Woodrow Wilson）的话说，他们更感兴趣的是”控制政府，而不是使政府充满活力”。</p>
-<p>这就是2004年乌克兰”橙色革命”失败的原因所在。这次革命第一次推翻了维克托·亚努科维奇（Viktor Yanukovych），可是那些通过抵抗上台掌权的领导人—维克托·尤先科（Viktor Yushchenko）和尤利娅·季莫申科（Yulia Tymoshenko）—却把经历浪费在内斗和黑幕交易上。要是有一个有效的民主政府掌权，整顿基辅的腐败、让国家机构更值得信任，政府就能够在整个乌克兰确立它的合法性，包括在说俄语的乌克兰东部，而不会等着普京有足够的强力来进行干预。相反，民主力量自己败坏了自己的信誉，从而为亚努科维奇在2010年重掌政权大开方便之门，进而导致了最近几个月紧张的、流血的僵局。</p>
-<p>与威权体制的中国相比，印度也因类似的差距而受阻。印度在1947年建国之际，就团结在一起确立了民主制度，这一点令人印象深刻。但是，印度的民主就像香肠的制作，只可远观，不可近赏。在这个体制里，腐败和寻租盛行；根据印度民主改革协会的统计，印度近来选举34%的胜选者，有针对着他们的刑事起诉，其中还包括一些严重的指控，比如谋杀、绑架和性侵犯。</p>
-<p>印度也有法治，但是非常迟缓和低效，甚至许多情形是被告都死了，案件还没有开庭。根据《印度斯坦时报》的报道，印度最高法院积压了6万多个案件。与威权的中国相比，这个世界上最大的民主国家在提供现代基础设施或基本服务方面，显得完全无能为力，比如为居民提供干净用水、电或基本教育。</p>
-<p>根据经济学家和社会活动家让·德雷兹（JeanDrèze）统计，在印度的一些邦，有50%的教师不会上班。纳伦德拉·莫迪（Narendra Modi）是一位印度民族主义者，他过去曾因纵容反穆斯林暴力而麻烦缠身，却以绝大多数的选票当选为总理，人们希望他会一扫印度政治中充斥着的废话，做些实事。</p>
-<p>与其他国家相比，美国人常常更加不能理解有效政府的必要性，而只是集中于限制当权者。在2003年，布什政府似乎相信，只要剪除萨达姆的独裁统治，民主政府和市场经济就会自然地出现在伊拉克。它不明白，民主政府和市场经济源于复杂机构—包括政党、法庭、财产权、共有的民族认同—的相互作用，这些机构就是在发达的民主国家，也是经历数十年甚至数百年演进的结果。</p>
-<p>不幸的是，有效统治能力的缺乏扩展到了美国自身。我们的麦迪逊宪法，有意通过各级政府的大量制衡来阻止暴政，如今却成了一种否决政治（vetocracy）。在今天华盛顿两极化—实际上是有害的—政治氛围中，政府实际上既不能有效地前进，也不能有效地后退。</p>
-<p>与双方那些狂热分子的想法不同，美国所面临的极其严重的、长期的财政问题，是可以通过合理的政治妥协来解决的。但是，国会根据自己的规则，好几年没有通过一项预算，而且在去年秋天，共和党关闭了整个政府，因为它不同意支付过去欠下的债务。因此，尽管美国经济仍是不可思议的创新之源，但美国政府很难再说是当前世界的灵感之源。</p>
-<p>二十五年之后，历史终结论最严重的威胁，不在于出现了一个更高级、更好的模式，有一天将取代自由民主制度；无论是伊斯兰的神权政治，还是中国模式，都无法对它造成损害。无论什么样的社会，只要登上了工业化这部上升的电梯，它们的社会结构就会发生变化，政治参与的要求就会增加。如果政治精英接纳这些要求，那我们就获得了某种民主。</p>
-<p>问题在于，是否所有国家都必然会登上这部电梯。政治与经济相互缠绕在一起。经济增长在起飞之前，需要一些最低限度的制度，比如可强制执行的合同和可靠的公共服务，但是，这些基本制度很难在极度贫穷和政治分裂的处境下创建起来。历史地来看，社会通常是通过历史事件摆脱这一”陷阱”，借此，坏事（如战争）常常造就了好事（如现代政府）。然而，是否每个人都必然有这样的好运，目前尚不清楚。</p>
-<p>第二个问题我在二十五年前确实没有阐述，即政治衰退问题，它是一部下降的电梯。长期来看，一切制度都会衰退。它们常常会变得僵化和保守；那些与某一段历史时期的需要相符的规则，在外部境况发生改变之际，不一定还是正确的。</p>
-<p>此外，现代制度的非人格性是设计出来的，随着时间的流逝，它们常常被强势的政治行动者把持。回报亲友是人的自然倾向，这一点在任何政治体制中都起作用，从而导致自由退化为特权。无论是在威权体制的国家还是在民主国家（看看当前美国的税法），这种情形都一样。在这种环境下，并非像法国经济学家托马斯·皮凯蒂（Thomas Piketty）认为的那样，富人越富是因为资本的高收益，而是因为他们能更好地进入政治体制，从而运用他们的关系去提升自己的利益。</p>
-<p>至于技术的进步，它在利益的分配上并无定数。比如，信息技术的革新分散了权力，因为它们让信息变得又便宜又易于接近，但是，它们也损害了低技能的工作，对一个广泛的中产阶级的存在造成了威胁。</p>
-<p>那些生活在稳固的民主国家的人，不应对自己国家幸好是民主体制而自鸣得意。但是，尽管世界政治有短期的起伏兴衰，民主理想仍具有巨大无比的力量。我们看到，大众抵抗运动仍继续在突尼斯、基辅和伊斯坦布尔意外爆发，在这些地方，普通民众要求政府承认自己作为人的平等尊严。我们也看到，每年有数百万的穷人不顾一切地从危地马拉或卡拉奇这样的地方流向洛杉矶或伦敦。</p>
-<p>纵然我们会质疑要多久之后全人类才能抵达那个终点，但我们不应怀疑某种社会形态就挺立在历史的终结处。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1%EF%BC%9A%E6%B0%91%E4%B8%BB%E4%BE%9D%E7%84%B6%E6%8C%BA%E7%AB%8B%E5%9C%A8%E5%8E%86%E5%8F%B2%E7%9A%84%E7%BB%88%E7%BB%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%8C%96/?category=18271" rel="tag">民主化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%8F%E5%B1%B1/?category=18271" rel="tag">福山</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -819,7 +814,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -829,5 +824,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

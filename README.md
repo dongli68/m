@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,77 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%81%94%E5%A4%A7%E6%BC%94%E8%AE%B2%E5%9C%BA%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%AE%98%E5%AA%92%E5%90%B9%E5%98%98%EF%BC%9A%E5%85%A8%E5%9C%BA%E7%83%AD/" target="cdt-mirror">苹果日报｜习联大演讲场面冷清 官媒吹嘘：全场热烈掌声</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9uuuu.jpg" alt="k9uuuu" width="551" height="366"><br>
+中共假大空作风再次在习近平访美期间表露无遗。官方报道习在联合国大会演讲时，使用「全场多次热烈掌声」、「几十国家元首排队等握手」等溢美之辞，岂料当日会场多是空椅，央视都不敢多播现场全景镜头，与教宗方济各早前同场演讲时座无虚席相比，堪令北京尴尬。</p>
+<p>习近平前日发言时台下有不少空位</p>
+<p>当地时间 26 日，习近平结束访美国是访问，赴纽约参加联合国成立 70 周年纪念活动，是其美国行又一重要外交活动，有 154 位国家元首政府首脑与会。习特地在纽约停三天，比在华盛顿还久，借机竖立习近平「世界级领导人」的形象。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9uuuuuuu.jpg" alt="k9uuuuuuu" width="549" height="355"></p>
+<p>纽约时代广场有欢迎习访美的广告。</p>
+<p>为达宣传目的，中共宣传机器绞尽脑汁，习在联大演讲无疑是机会。于是，内地民众看到的报道充溢「皇上驾到」色彩；央视、新华社、中新社等国家级喉舌在报道时拚命笃数，使用「全场多次响起热烈掌声」、「本次大会获掌声最多」等字句。</p>
+<p>与教宗演讲大相径庭</p>
+<p>报道还引述中国外交官出身的联合国副秘书长吴红波形容，争与习握手的人「实在太多了，我被人群挡住都挤不进去」，「看到这个场景我感到非常意外」，给读者君临天下、万邦来朝印象，但旋即被在美华人踢爆。现居纽约的中国前媒体人北风转贴演讲会场照，显示习面对大部分空座，「至少一大半人缺席」。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9uuuuuu.jpg" alt="k9uuuuuu" width="550" height="357"><br>
+联合国副秘书长吴红波</p>
+<p>央视播出习演讲全长 10 分钟，画面主要是习近平的近镜，仅有两镜中景：一是拍摄中国代表团，另一是非洲某国代表团。有传媒人戏称「大概是人太少，央视都不好意思给个全景」。联大国际会议厅可容纳 1,500 人，今次与会有 154 国元首首脑，按每家最少 5 个随从计算，至少应有近千人，但习演讲时大厅至少三分之二空椅。早前，教宗方济各也在同一场地演讲，座无虚席，两者相比令北京尴尬。</p>
+<p>习近平全场获三次掌声，一次是他宣布出 20 亿美元（约 155 亿港元）助穷国灭贫，一次提到免除穷国今年底以前到期未还债务，最后一次是演讲结束。有评论指「如果这也算最多掌声，大概是联大从没有过掌声」。内地网民则对习如此慷慨大表不满。会后与习握手者约 20 人，主要是习宣布要免除债务的穷国领导人。</p>
+<p>中共吹捧彰显访美成效</p>
+<p>有评论指中共不顾颜面吹捧习在美活动，或与当局要把这次访美成效拔高，超过前朝江泽民及胡锦涛。《洛杉矶时报》更一语中的指出，美方与中方磋商中失望地发现，中方对「习奥会」能否深入取得进展毫无兴趣，只着重礼仪要一丝不苟，显然是为对内宣传。</p>
+<p>网民有话说</p>
+<p>．丢人现眼啊！这回知道自己在别人眼中甚么形象了吧？ ．央视怕穿帮，就不敢给一个全景，让我们看看隆重热烈的场面。 ．越来越毒菜（独裁）了，谁给他权力送出 20 亿美元？钱是 13 亿人的！ ．看见这败家子，真想吐他两口口水！中国还有多少人饭都吃不饱！</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%81%94%E5%A4%A7%E6%BC%94%E8%AE%B2%E5%9C%BA%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%AE%98%E5%AA%92%E5%90%B9%E5%98%98%EF%BC%9A%E5%85%A8%E5%9C%BA%E7%83%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%82%96%E4%BB%B2%E5%8D%8E%EF%BC%9A%E8%AF%B7%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E4%B8%8D%E8%A6%81%E6%81%90%E5%90%93%E5%92%8C%E7%BB%91%E6%9E%B6%E5%85%9A/" target="cdt-mirror">博客中国｜肖仲华：请罗援将军不要恐吓和绑架党</a>
+</h2>
+<p><p><em>中国数字时代编辑注：作者肖仲华，经济学博士，博士后，副教授，独立经济学者，独立时评人。</em></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9qqqqqqqqqqqqqqqqqqqqqqqqqq.jpg" alt="k9qqqqqqqqqqqqqqqqqqqqqqqqqq" width="551" height="413"></p>
+<p>请罗援将军不要恐吓和绑架党</p>
+<p>罗援将军说，“自由民主派”若得势，共产党人骨灰难留。罗将军是在参观原罗马尼亚革命领导人乔治乌·德治的纪念塔后，作出这样的论断的。</p>
+<p>罗将军还说，他是一种长着鹰眼，却具有鸽心的那种鹰派，既尚武，又爱好和平。可是，无论是看其长相还是听其言论，我怎么看都感觉不出将军算什么鹰派或者鸽派，反倒觉得更像是做贼心虚的恐怖分子。</p>
+<p>我必须毫不客气地警告和规劝罗将军，你那些危言耸听的恐怖言论，黑不到也吓不倒你所谓的“自由民主派”，反倒是赤裸裸地恐吓和绑架了共产党。</p>
+<p>1, 你到底把党和人民的关系置于何种境地</p>
+<p>党是为人民服务的党，且不管他有多少问题和错误，你总不能总是把党放在与人民敌对的关系中吧？</p>
+<p>无论是“自由民主派”还是别的什么派，他们到底是不是中国共产党领导下的中华人民共和国的公民？是不是人民中的一部分？</p>
+<p>你口口声声谁得势谁就如何如何，难道共产党就那么不得人心，犯下了滔天罪恶，以至于人民中有人得势就骨灰难留？</p>
+<p>没有做贼，就不必心虚。你这样讲话，到底是要恐吓共产党呢，还是要抹黑共产党？或者是要制造党与人民的对立与分裂？</p>
+<p>我不知道将军所谓的“自由民主派”到底指什么样的人，到底是党内的还是党外的。若是党外的，枪杆子和刀把子都在党的手中，你担心什么？若是党内的，又何来共产党人将骨灰难留之说，难道他们自己不给自己留骨灰？</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9qqqqqqqqqqqqqqqqqqqqqqqqqqq.jpg" alt="k9qqqqqqqqqqqqqqqqqqqqqqqqqqq" width="542" height="361"></p>
+<p>2, 难道共产党就是自由民主的敌人么</p>
+<p>无论你所谓“自由民主派”指谁，我倒是想问问将军，自由民主历来是共产党的奋斗目标和执政理念之一，在你口中怎么就变成了共产党的死敌呢？</p>
+<p>无论是十八届四中全会决议及其精神，还是业已出台的社会主义核心价值观，都把自由民主作为共产党执政的基本政治理念和诉求之一，你公然与党和政府唱反调，到底意欲何为？</p>
+<p>不管是“自由民主派”还是别的什么派，比如你自诩的“鹰眼鸽心”的鹰派，追求自由民主难道不是响应中央的号召？难道不是一个正常人的正常追求？</p>
+<p>难道你罗将军眼中的共产党就不能容许自由民主的字眼存在？不能容许人民追求自由和民主的权力?</p>
+<p>3, 你到底想留谁的骨灰</p>
+<p>你所参观的罗马尼亚纪念塔，我也看过。那曾经是一个人的纪念塔，后来是罗马尼亚少数几个共产党人的纪念塔，民主改革后又变成了无名烈士纪念塔。变迁的实质，是从纪念一个人变为纪念少数人，再从纪念少数人变为纪念所有为民族解放和独立事业奉献生命的人们。</p>
+<p>这样的变迁难道不好么？难道一个国家的纪念塔只能纪念一个人或少数人，而不应该纪念民族国家的无数英烈？按你这种观念和逻辑，我们的人民英雄纪念碑应该改成纪念某一个人或某几个人的纪念碑？如果这样是正确的，那是不是要在中国建无数个毛主席纪念堂一样的建筑来停放革命领导人们的遗体？</p>
+<p>听说将军的父亲也是革命先辈，这么说，你的父亲也该拥有一个纪念堂才对？</p>
+<p>4, 难道所有共产党人全都是骨灰难留的坏人么</p>
+<p>将军口口声声说共产党人将骨灰难留，到底谁代表全部的共产党人？如果罗马尼亚那几个人的纪念塔改成了无名烈士纪念塔就是共产党人骨灰难留，那么，罗马尼亚的共产党人中，除了那几个人之外，其余的都不是共产党人了？他们全做了共产党的叛徒了吗？</p>
+<p>中国共产党的队伍中出了不少贪官是事实，但我们能说八千万共产党员全是坏人或者全是人民的敌人吗？如果是，那你的共产党人将骨灰难留的论断才可能成立。</p>
+<p>但无论如何，我都不相信中国共产党人全是坏人，更不可能全是人民或者人民中的某个派别的敌人。即便是坏人，也可以放下屠刀立地成佛不是吗？</p>
+<p>你所谓共产党人骨灰难留的论断是不是在绑架全体共产党人？也许你是想恐吓谁，但恐吓也不至于绑架全体吧？</p>
+<p>你虽然是党领导下的将军，但我必需提醒你，不要动不动代表党，没有谁授权你这么做。你更不能动不动恐吓和绑架党，你不应该也无权这么做。连我这个党外的人都看不下去，你真的认为你的言论就是党的声音么？</p>
+<p>最后，我还得再劝你一句，讲话还是要动动脑子。你父亲或你本人将骨灰难留这样的话可以讲，全体共产党人都骨灰难留的话不要讲，因为你只能代表你自己，不能代表党，也不能代表人民或人民中的某个派。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%82%96%E4%BB%B2%E5%8D%8E%EF%BC%9A%E8%AF%B7%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E4%B8%8D%E8%A6%81%E6%81%90%E5%90%93%E5%92%8C%E7%BB%91%E6%9E%B6%E5%85%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A/?category=18271" rel="tag">罗马尼亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E4%BB%B2%E5%8D%8E/?category=18271" rel="tag">肖仲华</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E6%96%B0%E9%97%BB-%E5%B7%B4%E5%85%8B%E8%8E%B1%EF%BC%9A%E5%A4%96%E6%B5%81%E8%B5%84%E9%87%91%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95-%E4%B8%AD%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">凤凰新闻 | 巴克莱：外流资金刷新历史纪录 中国家底还剩多少</a>
 </h2>
 <p><p>彭博跟踪资本流动的指数显示，资金正在以前所未有的速度离开中国。8月份估计有1,416.6亿美元资金流出中国，刷新了7月份创下的1246.2亿美元的纪录。</p>
@@ -705,55 +773,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/youtube/?category=
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%EF%BD%A5%E5%9C%9F%E8%B1%AA%E3%80%91%E3%80%8A%E7%BA%BD%E6%97%B6%E3%80%8B%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B9%BF%E5%91%8A%E8%8A%B1%E8%B4%B9%E6%88%96%E5%B0%86%E8%BF%91%E7%99%BE/" target="cdt-mirror">【真･土豪】《纽时》迎习近平访美广告花费或达百万美元(组图)</a>
-</h2>
-<p><p><strong>【编者注】<a href="http://qz.com/510874/chinese-companies-welcomed-xi-jinping-to-the-us-with-some-very-expensive-new-york-times-spreads/">根据Quartz推测</a>，在《纽约时报》上刊登类似下文这种整版广告的费用大约是$175,204／次</strong>（工作日全国版）<strong>。如果算上本月中旬<a href="http://news.qq.com/a/20150913/002648.htm">某中国书商砸下</a>的$75,600，中国<del>土豪</del>商人仅在《纽时》刊登欢迎习近平访美的广告费用就可能达到了$951,620。这近一百万美金换来的是5家企业<span>整齐划一</span>的欢迎辞：</strong></p>
-<blockquote><p><strong>A warm welcome to President Xi Jinping of China on his visit to the United States</strong></p></blockquote>
-<p><em>图片来源：新浪微博 <a href="http://weibo.com/u/1707905652">@文山娃</a> & Twitter <a href="https://twitter.com/imagethief">@imagethief</a> (William Moss)</em></p>
-<blockquote><p><strong><a href="http://weibo.com/1707905652/CC9t6fbVw">@文山娃</a></strong>：紐約時報9月24日的頭版……和廣告版。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek0z00vcj20go0m80wk.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek0z00vcj20go0m80wk.jpg" alt="65cc9274jw1ewek0z00vcj20go0m80wk" width="450" height="600"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek10nkj5j20zk0k041b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek10nkj5j20zk0k041b.jpg" alt="65cc9274jw1ewek10nkj5j20zk0k041b" width="550" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek11wobcj20qo0zk0vj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek11wobcj20qo0zk0vj.jpg" alt="65cc9274jw1ewek11wobcj20qo0zk0vj" width="450" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek3d3qanj20qo0zktbh.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek3d3qanj20qo0zktbh.jpg" alt="65cc9274jw1ewek3d3qanj20qo0zktbh" width="450" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek13y4zzj20qo0zkwhl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek13y4zzj20qo0zkwhl.jpg" alt="65cc9274jw1ewek13y4zzj20qo0zkwhl" width="450" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek0py272j20qo0zk41j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewek0py272j20qo0zk41j.jpg" alt="65cc9274jw1ewek0py272j20qo0zk41j" width="450" height=""></a></p>
-<blockquote><p><strong><a href="http://weibo.com/1707905652" target="_blank">@文山娃</a></strong>：為五大愛國企業點讚！#指尖護衛習大大訪美#</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewenxwmxbkj20hs0vktck.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/65cc9274jw1ewenxwmxbkj20hs0vktck.jpg" alt="65cc9274jw1ewenxwmxbkj20hs0vktck" width="400" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CPrakcOUAAAXCu9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CPrakcOUAAAXCu9.jpg" alt="CPrakcOUAAAXCu9" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CPrUA3IVAAA8cMU.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CPrUA3IVAAA8cMU.jpg" alt="CPrUA3IVAAA8cMU" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CPrZvafUAAE8Ku-.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CPrZvafUAAE8Ku-.jpg" alt="CPrZvafUAAE8Ku-" width="500" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/CPraKBTUAAA8DUJ.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CPraKBTUAAA8DUJ.jpg" alt="CPraKBTUAAA8DUJ" width="500" height=""></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/%E6%9D%8E%E5%86%9B%E6%9E%97%E5%AF%BC%E6%BC%94?from=feed&loc=at" target="_blank">李军林导演</a>: 五毛会说：看，是财团在操控美国总统<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@风暴之家19961022：哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>
-<p>@aeo000000：和某只鹰到国外歌剧院开演唱会一样，自娱自乐</p>
-<p>@dleric：都在拍马屁，有茅台、格力、保利、加多宝和凯迪生态。</p>
-<p>@金鱼在看我：搞到自己的总部在纽约似的。</p>
-<p>@千文妖：庆丰包子也不做广告回报一下</p>
-<p>@金牙成：我觉得没有问题呀，我们社会主义的优越性的确就像现在的广告一样。</p>
-<p>@珠理奈：这也算是输出价值观了</p>
-<p>@冬日晨曦fhm：客人跑到主人家里欢迎自己，什么节奏？</p>
-<p>@Zodiac1981：说明：美国纸媒的头版规格并不是有钱就行的</p>
-<p>@赚钱交老婆：前两天美帝头版全是教皇，习总看到今天的报纸心理应舒服多了。</p>
-<p>@玄衣渡江南：我应该在纸里，不应该在这里，看到你们有多甜蜜</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%EF%BD%A5%E5%9C%9F%E8%B1%AA%E3%80%91%E3%80%8A%E7%BA%BD%E6%97%B6%E3%80%8B%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B9%BF%E5%91%8A%E8%8A%B1%E8%B4%B9%E6%88%96%E5%B0%86%E8%BF%91%E7%99%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%AF%B9%E7%90%86%E7%A7%91%E5%A5%B3%E7%94%9F%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%98%AF/" target="cdt-mirror">【图说天朝】对理科女生来说，在清华大学学习是怎样的体验？</a>
-</h2>
-<p><p>【编者注】除了女生受到的“特殊照顾”外，这半份公约值得注意的部分还包括：特别强调尤其不能无故旷“思想政治理论课和文化素质课”、“家长随机拨号”监督课间手机使用、严格的集体自习制度等。</p>
-<blockquote><p><strong><a href="http://weibo.com/1459358890/CCalpn3NQ">@破破的桥</a></strong>： 隔壁自黑得实在太努力了。。。。。（清华电51班级公约上半部分）</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/56fc0caagw1ewenxw6ie2j20go0m8792.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/56fc0caagw1ewenxw6ie2j20go0m8792.jpg" alt="56fc0caagw1ewenxw6ie2j20go0m8792" width="600" height="800"></a></p>
-<blockquote>
-<h3><span><strong>第三部分 女生特殊政策</strong></span></h3>
-<p><strong>第9条</strong> 自习期间及课下，女生可向任意男生援疑质理。<strong>被提问者应立即予以解答</strong>；不能解答的，可以请他人解答。</p>
-<p><strong>第10条</strong> 成立班级内的一对一辅导小组，鼓励相互答疑解惑和互帮互助。</p>
-<p><strong>第11条</strong> 若女生的成绩在<strong>班级排名后20%</strong>，将成立<strong>专门的3-5人辅导小组</strong>对其进行指导。</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%AF%B9%E7%90%86%E7%A7%91%E5%A5%B3%E7%94%9F%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%98%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E7%94%B7%E7%99%8C/?category=18271" rel="tag">直男癌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -775,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

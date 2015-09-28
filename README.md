@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8A%E8%AE%BF%E8%88%AC%E6%B3%A1%E6%B2%AB%E5%B9%B2%E6%89%B0%E4%B8%8D%E4%BA%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/" target="cdt-mirror">环球时报 | “上访”般泡沫干扰不了习近平访美</a>
+</h2>
+<p><p>美国防部22日披露本月早些时候一架美军侦察机在黄海上空遭到中国战斗机拦截，双方一度发生“危险接近”。五角大楼发布这一消息正值习近平主席抵达西雅图开始对美国事访问，美国防部像是加入“上访”行列一样，要求中国领导人帮着“解决问题”。</p>
+<p>位于华盛顿的新闻博物馆22日挂上大条幅，要求“释放中国人权捍卫者”。一家设在旧金山不知名的涉华基金会则给了高瑜、浦志强等“中国杰出民主人士奖”，但被“美国之音”报道。另有44名大多居住在美国的作家也来凑习近平访问这一时间点，在美国笔会中心草拟的一封请愿信上签名，向中国提人权要求。</p>
+<p>中国的闹事者都喜欢挑重要日子制造事端，以引起领导人和舆论的关注。美国社会里的这一套同中国太像了。发出上述声音的人和组织主要目的恐怕还是吸引注意力，他们不会幼稚到以为施加这点压力北京就会做让步，但五角大楼可能想出口气，那些平时难得被人想起来的“人权斗士”则想证明自己的存在。</p>
+<p>中国有少数“上访专业户”会一遍又一遍重复他们的行为，美国有些专门对华喊人权的组织看来也要一直耗下去了。</p>
+<p>这些人制造了一些毫无价值的注意力，如果有人要根据他们的表现来对习近平访美的成果做评估，这实在是开了国际大玩笑。</p>
+<p>习近平美国行将促成中美两大国深入对话。中国主席在西雅图已经触及了中美之间几乎全部真正的敏感问题，他介绍了中国经济现状以及中国的人民币汇率政策，谈了中国股市波动，这是美国社会所能听到的对中国经济最权威的描述。</p>
+<p>习近平还明确无误地重申了中国坚定维护网络安全，表示中国将保障境外非营利组织在华的合法活动和权益。他强调中国开放的大门永不会关上，依法治国、反腐败将继续推进。美国社会期待中国领导人对这些重要立场的再确认，习近平的讲话赢得了美国具有影响力那批听众的真诚掌声。</p>
+<p>中美关系目前被不少人相信遇到困难，这一困难很大程度上来自感觉和预期。很多人忍不住担心中美掉入“修昔底德陷阱”，这种担心的事实依据并不充分，但糟糕的历史经验不断在人们心中徘徊。</p>
+<p>习近平没有回避这个问题，中国主席可谓打开天窗说亮话了，他强调，世界上本无“修昔底德陷阱”，但大国之间一再发生战略误判，就可能自己给自己造成“修昔底德陷阱”。</p>
+<p>由于习奥还未见面，美方低级别官员和舆论界传出的那些声音真是太小气了。那些趁机“上访”、发出尖叫以博眼球的人和组织实际上都是群自私自利者，把自己那点事当成天下事。这让很多中国人看着直摇头。</p>
+<p>但实际上美国精英社会不可能会被他们牵着鼻子走。西雅图社交圈与中国领导人的交流热情认真，富有成果。必将影响21世纪国际关系走向的习奥会将在华盛顿举行，中美领导人将代表两个国家就解决战略互疑和误判问题做出决定性努力。</p>
+<p>中美两大国的最高级别交流是不能以看热闹心态进行观察的，如果要看热闹，那应去看教皇访美。但是习近平访美注定是今年全球国际关系舞台上的最重大事件，习近平在西雅图已经回应了让美国焦虑的各项关切，即将到来的习奥会将让人们看到美方对中方回应的回应。这是中美对人类21世纪最核心问题的一次求解。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8A%E8%AE%BF%E8%88%AC%E6%B3%A1%E6%B2%AB%E5%B9%B2%E6%89%B0%E4%B8%8D%E4%BA%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98/?category=18271" rel="tag">人权问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">敏感问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%8D%8E%E7%BD%91-15%E5%AE%B6%E5%AA%92%E4%BD%93%E5%88%8A%E5%8F%91%E5%81%87%E6%96%B0%E9%97%BB%E8%A2%AB%E9%80%9A%E6%8A%A5/" target="cdt-mirror">新华网 | 15家媒体刊发假新闻被通报</a>
+</h2>
+<p><p>新华网电：9月28日，国家新闻出版广电总局公开通报《扬子晚报》等15家媒体刊登虚假失实报道的查办情况。这是自2014年中宣部等九部门深入开展打击新闻敲诈和假新 闻专项行动以来，国家新闻出版广电总局第七次公开通报违法违规案件的查处情况，共有15家媒体和17名采编人员被处罚和处理。</p>
+<p>一、《扬子晚报》违规案件查处情况。2014年12月19日，某网站刊发《成都男20张火车票送女友丈母娘一开心聘礼只要50万》的报道。 2014年12月21日，江苏《扬子晚报》未经核实，将上述报道改编，以《男子抢20张火车票送女友岳母大悦聘礼减半》为题刊发。经查，此条消息是某抢票 软件企业炮制的虚假新闻。对此，江苏省新闻出版广电局依法对《扬子晚报》作出警告、罚款1万元的行政处罚。</p>
+<p>二、《武汉晚报》等违规案件查处情况。“李玉刚在台北出家了”——这起由某微博首发的虚假消息被互联网传播后，2014年12月2日，湖北《武 汉晚报》、《荆州日报》，江西《赣州晚报》，内蒙古《包头晚报》、《内蒙古晨报》、《北方新报》、《红山晚报》未经核实予以转载。对此，新闻出版广电行政 部门依法对《武汉晚报》、《荆州日报》、《赣州晚报》、《包头晚报》、《内蒙古晨报》、《北方新报》、《红山晚报》分别作出警告、罚款等行政处罚和处理。</p>
+<p>三、《南方都市报》原记者王星违规案件查处情况。2014年12月，王星在担任《南方都市报》记者期间，在未采访当事人家属、单位和医院的情况 下，根据河南当地有传闻，编写了《河南平顶山女官员3个月前自杀官方至今未通报》一文，在微信公众号 “深℃”发布。经查实，该报道关于女官员自杀内容与事实严重不符，导致虚假新闻传播，王星被报社劝退。对此，新闻出版广电总局依法将王星列入新闻采编不良 从业行为记录，5年内禁止从事新闻采编工作。</p>
+<p>四、华夏网违规案件查处情况。2015年1月9日，《华夏时报》所办华夏网刊发《退休机务副总落马南航三大重要部门全部沦陷》。经核实，该报道 内容与事实严重不符，导致虚假新闻传播。对此，新闻出版广电总局依法给予华夏时报社警告、罚款2万的行政处罚；给予王潇雨警告、罚款2000元的行政处罚。</p>
+<p>五、南都网等违规案件查处情况。2015年1月13日，《南方都市报》所办南都网、新闻客户端及法人微博发布《裸女跳河，救人者遭冷遇》的新 闻。2015年1月14日，海南《南国都市报》、江苏《靖江日报》、山东《生活日报》未经核实，分别转载了该新闻。经核实，这是一起将不同时间发生在两地 的两起事件拼接而成的虚假新闻。对此，新闻出版广电行政部门依法分别对《南方都市报》、《南国都市报》、《靖江日报》、《生活日报》作出警告、罚款等行政 处罚，并责令南方都市报社将相关采编人员调离采编岗位。</p>
+<p>六、湖南广播电视台都市频道、《潇湘晨报》违规案件查处情况。2015年6月12日，湖南广播电视台都市频道《都市1时间》栏目播出题为《长沙 股民170万四倍融资全仓一股两跌停赔光跳楼》的新闻。6月13日，《潇湘晨报》未经核实，以《男子22楼坠亡 平时爱炒股警方排除他杀嫌疑，知情人称其重仓一只股票亏了170万》为题进行了转载。经核，该报道既没有采访到死者家属，也没有警方的最终结论。湖南广播 电视台和《潇湘晨报》在没有充分事实证据，缺乏完整证据支撑的情况下刊播，导致报道失实。对此，湖南省新闻出版广电局责令湖南广播电视台对都市频道总监、 相关栏目制片人进行通报批评，对相关采编人员作出调离岗位和全台通报批评的处理；对《潇湘晨报》下达警示通知书，责令该报对相关采编人员、部门主任和值班 总编进行批评并进行经济处罚。</p>
+<p>国家新闻出版广电总局新闻报刊司负责人介绍，这些虚假新闻和不实报道，有的是新闻单位转载未经核实的互联网信息，有的是新闻记者根据未经核实的 社会传闻编写，反映出当前一些新闻单位和新闻记者作风浮躁、制度虚置、管理松懈。一些新闻单位为吸引“眼球”，无视新闻报道必须履行的审核程序，一些新闻 记者为“抢发”新闻，无视新闻采访必须遵循的基本规则，导致虚假新闻传播，严重破坏了新闻采访秩序，严重损害了新闻媒体公信，严重败坏了新闻队伍形象，也 严重侵害了群众利益。</p>
+<p>该负责人要求，各新闻单位要认真吸取教训，引以为戒，举一反三。要全面规范新闻记者采编行为，要求新闻记者必须坚持实地采访，多方求证，掌握真 相，不得依靠单一信息来源采写新闻报道；要全面加强新闻稿件的审核把关，要求责任编辑必须逐一审核采访证据，对转载的新闻必须履行重新审核程序；要全面加 强新闻采编人员管理，对采访不深入、编辑不认真、把关不严格、管理不到位导致虚假新闻的，要严格追究责任，严肃处理；要全面开展业务培训、岗位培训，教育 广大新闻采编人员提高专业素养、增强法纪观念、遵守职业道德，自觉履行社会责任，抵制虚假新闻。</p>
+<p>该负责人强调，各级新闻出版广电行政部门要认真履行监管责任，全面加强对虚假失实报道的监督管理，加大案件查办力度，坚决遏制假新闻蔓延的势 头。对编造虚假新闻造成恶劣影响的，要对相关媒体依法做出处罚，并要坚决吊销相关采编人员的新闻记者证，列入不良记录，5年内不得从事新闻采编工作；构成 犯罪的要依法追究刑事责任，终身不得从事新闻采编工作。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%8D%8E%E7%BD%91-15%E5%AE%B6%E5%AA%92%E4%BD%93%E5%88%8A%E5%8F%91%E5%81%87%E6%96%B0%E9%97%BB%E8%A2%AB%E9%80%9A%E6%8A%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A/?category=18271" rel="tag">处罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E8%87%AA%E7%94%B1/?category=18271" rel="tag">媒体自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E8%A7%84%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">违规案件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%81%94%E5%A4%A7%E6%BC%94%E8%AE%B2%E5%9C%BA%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%AE%98%E5%AA%92%E5%90%B9%E5%98%98%EF%BC%9A%E5%85%A8%E5%9C%BA%E7%83%AD/" target="cdt-mirror">苹果日报｜习联大演讲场面冷清 官媒吹嘘：全场热烈掌声</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9uuuu.jpg" alt="k9uuuu" width="551" height="366"><br>
@@ -618,161 +660,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E6%B4%BE%E5%A0%95%E8%90%BD%E5%A6%82%E6%96%AF%EF%BC%8C%E9%9D%92%E5%B9%B4%E5%9B%A2%E9%87%8C%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BE%AF%E8%81%9A/" target="cdt-mirror">【网络民议】团派堕落如斯，青年团里只剩下侯聚森们了</a>
-</h2>
-<p><p>@荣剑：任志强的微博删了，景临的微博还没删，还置顶着，许多人在说博主不讲信用，我看还是保留着好，可以让每一个看到的人拿这条微博来对照现实，对照身边的人和事。此条微博现在已经转发四万多，评论两万多，估计阅读量上千万了，这真是一个很好的启蒙教材，看看评论就知道了。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-25-at-2.39.01-PM-1024x612.png" alt="Screen Shot 2015-09-25 at 2.39.01 PM" width="550" height="329"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-25-at-2.38.54-PM-912x1024.png" alt="Screen Shot 2015-09-25 at 2.38.54 PM" width="549" height="617"></p>
-<p>景临全文和任志强已被删的帖子见：<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">【立此存照】任志强：“我们是共产主义接班人？”</a></p>
-<p><strong>以下评论由数字时代编辑搜集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/decodeman" target="_blank">或此或彼</a>：删帖，共产主义者真自信哪</p>
-<p><a href="http://weibo.com/1781018847" target="_blank">平淡的理性</a>：共青团拿着不切实际的话来欺骗中国人，应该被唾弃。</p>
-<p><a href="http://weibo.com/5361937081" target="_blank">度天下难容之事</a>：共青团好像就是一个有组织，有刚领，有固定成员，有下手目标的一个民间传销机构吧。只可惜连个专业的传销知识都没掌握好。太可惜拉。</p>
-<p><a href="http://weibo.com/panhao" target="_blank">耶路撒冷</a>：能全民公决需要共产党执政吗？</p>
-<p><a href="http://weibo.com/1144011432" target="_blank">M的微尘</a>：每一个中国人都在奋斗，这也分三六九等还非得你们来扛大旗？也别谈遥远的共产主义了，先轻赋税重教育医疗还富于民吧！</p>
-<p><a href="http://weibo.com/1285153040" target="_blank">欲醉红尘A</a>：请将五毛赶紧提为六毛吧，形势逼人啊，同志！</p>
-<p><a href="http://weibo.com/hello4" target="_blank">刘卫杭凌</a>：哎哟。。我去。。你们这帮跳梁小丑。。我真是醉了。。哈哈哈哈哈。。所以说，一分钱一分货。。你们这帮月薪4500的跟年薪七百万的一较量。。真是高下立判。。贻笑大方了。。哈哈哈哈</p>
-<p><a href="http://weibo.com/n/lxdtelecombj?from=feed&loc=at" target="_blank">@lxdtelecombj</a>:建议你们和任志强先生就所谓共产主义搞一次公开的辩论，让全国人民观赏。敢不敢？</p>
-<p><a href="http://weibo.com/5209559387" target="_blank">起个名这么费事caocaocao</a>：先把老江干掉再谈接班的事吧</p>
-<p><a href="http://weibo.com/2121159242" target="_blank">KirkLiu2012</a>：团中央这回儿真的是露脸漏大了</p>
-<p><a href="http://weibo.com/1117511995" target="_blank">正义的Tom</a>：看了几百个回复，实在没有力气再看了，反正结果已经很明显了，团中央输了，输的内裤都没了</p>
-<p><a href="http://weibo.com/power2u" target="_blank">千与千寻一粒沙</a>：官微，记住，这是官微！一个超级庞大的吃财政税收的组织来倾轧一个个人，得多卑鄙啊？</p>
-<p><a href="http://weibo.com/1114059652" target="_blank">野焚的世界</a>：你们先公布贵组织的收支情况和各位领导的个人财产配偶子女情况，这样我才相信你们真的要为共产主义奋斗</p>
-<p><a href="http://weibo.com/2215267222" target="_blank">枫亦仔</a>：任志强与团中央互掐说明什么？说明他们的阶级不再满足于马克思的主义在私底下其实已经是一个笑话了，而是要求官方也承认这的确是个笑话，我只能说他很诚实。</p>
-<p><a href="http://weibo.com/2920690723" target="_blank">楚水昭阳9999</a>：为实现共产主义春秋大梦而奋斗！</p>
-<p><a href="http://weibo.com/1694860782" target="_blank">张展zero</a>：看了好几篇支持共青团中央的文章，发现那些作者其实都是高级黑……到最后觉得一句评论说的好：这些文章连任志强的秘书那一关都过不了。悲剧啊。</p>
-<p><a href="http://weibo.com/3186614192" target="_blank">南海的沙子</a>：五千年来连一个信仰都产生不出来，还需要向德国借一个信仰的民族，可悲啊</p>
-<p><a href="http://weibo.com/n/%E7%9B%98%E5%AD%90%E5%BE%AE%E8%B0%88?from=feed&loc=at" target="_blank">盘子微谈</a>：从小就知道自己是共产主义的接班人，到现在都特么过去三十年了，也没人来跟我谈接班的事……<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]"></p>
-<p><a href="http://weibo.com/3186614192" target="_blank">南海的沙子</a>：马克思不是中国人，信他是崇洋媚外，中国人信孔夫子和孙中山。</p>
-<p><a href="http://weibo.com/5709780835" target="_blank">众里寻她1100</a>：如果高度集中的权力、财富仅仅属于某一特定人群世袭和专利，并且还不用受人民监督；如果国家金融，国土开发，大型工程、外贸，通信等领域的“一哥”“一姐”依然几乎是某一特定人群的子女控制；一个以“解放全人类”为最高理想，搞了十几年的官员财产公开依然成老大难问题，这样的共产主义不搞也罢！</p>
-<p><a href="http://weibo.com/2783237861" target="_blank">连名字被人抢了都被抢了</a>：说的你妈逼这么伟大，看上老百姓一块地，放火烧死人还能说成是自焚，还扯你妈逼什么共产主义呢！！！任志强作为一个要财富有财富、要地位有地位的人，客观公正的指出现代中国社会存在的问题，这你妈逼还需要你们来扣个大帽子，来辩论一遍？？？？？不敢正视问题的组织，谈毛线信仰，你们自己信么？</p>
-<p><a href="http://weibo.com/2745878145" target="_blank">福财汇聚</a>：跟大家讲讲我的经历啊：我读大二的时候是团支书，也真心想入党，但名额有限被一个成绩等都不好的市委常委的女儿占去了；大三的时候我不想入党，但辅导员坚持要我入（当然他是对我好），在组织集体谈话的时候我问共产主义要十年还是100年实现，被批评，但在周遭系里各同学的劝阻下我违心的检讨就入党了</p>
-<p><a href="http://weibo.com/5310355958" target="_blank">坎坷足迹</a>：在中国，共产主义总有一天会和法西斯主义一样，被冠以臭名昭著</p>
-<p><a href="http://weibo.com/2745878145" target="_blank">福财汇聚</a>：想当年毛主席的《沁园春.雪》当年在重庆得到广泛流传，将政府雇佣一帮奴才文人想写一篇比这更厉害的文章来压制、嘲讽；结果成为一大笑柄。现在的情形很想啊，是不是历史要重演了<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/1731774555" target="_blank">润永青</a>：任大炮这个资本家反党，其实并不意外。</p>
-<p><a href="http://weibo.com/2745878145" target="_blank">福财汇聚</a>：我想问：一、政府有没有水军？二，敢不敢真心做个全国范围内的大调查—-大家对共产党，对共产主义是否信任；三，难道一个共产党就不能批评和怀疑党吗？四，敢不敢别一碰到敏感文章见解就删微博或者文章。试问一个连批评，反对的话语都不能发表的党是有多么大量，是有多么的正常？</p>
-<p><a href="http://weibo.com/1948537873" target="_blank">文雷108</a>：在共产主义这面大红旗下，好多人混得风生水起，譬如康师傅、徐东北虎、西红柿之流，金钱、美女、权势一个都不能少。想混进这个队伍的人还真如过江之鲫，前腐后继。团团加油，你也有戏</p>
-<p><a href="http://weibo.com/veveyswiss" target="_blank">悠悠客03</a>：那共产主义忽悠人的，不是土匪就是流氓。</p>
-<p><a href="http://weibo.com/1829099580" target="_blank">陆式迟鱼-陆志华</a>：文章的语气好像团中央是什么权威宗教组织似得。。各种恐吓和不着边际的所谓理论能说服谁呢？？？除了幼稚园的小孩子，你们一无是处</p>
-<p><a href="http://weibo.com/1948537873" target="_blank">文雷108</a>：假共产主义之名，行毒菜之实；假全民所有之名，行国有之实；假国有之名，行官有之实；假为民服务之名，行结党营私之实；假行政之名，行寻租之实；假共和之名，行专政之实。够了！以前民众被骗傻了，还高呼万岁感恩涕零，现在还想忽悠屁民，你以为还是文革呀</p>
-<p><a href="http://weibo.com/5205185458" target="_blank">生活爱美丽的家</a>：共产主义是舶来品 把中国社会千百年来治理模式颠覆了 让人们时刻恐惧着，</p>
-<p><a href="http://weibo.com/1497199192" target="_blank">独孤一方</a>：团派堕落如斯，青年团里只剩下侯聚森们了。</p>
-<p><a href="http://weibo.com/veveyswiss" target="_blank">悠悠客03</a>：共产主义就是全世界人类历史上天大的笑话。</p>
-<p><a href="http://weibo.com/3102854581" target="_blank">爱凤大梅699</a>：全中国的共青团以及共产党起来一起打倒假共产党任志强</p>
-<p><a href="http://weibo.com/5449319986" target="_blank">秦砖汉瓦89580</a>：能实现共产主义，也许只有身在其中拿皇粮的人吧。这个主义，现在连鬼也不会相信的，况且是人。</p>
-<p><a href="http://weibo.com/1669190770" target="_blank">核桃的uijx</a>：共产主义的产生是为了解决当时资本主义制度不健全，工人农民等无产者利益得不到保护的一种尝试。现在资本主义制度在各方利益竞争中，已经逐步完善。反观尝试用共产主义解决问题的国家，一个个都垮了，没夸的都倒退到成了封建社会，说明什么？法治、民主才是正道！</p>
-<p><a href="http://weibo.com/1878693564" target="_blank">心闲313</a>：请共产主义接班人带头公示一下财产，要不怎么共产。</p>
-<p><a href="http://weibo.com/1928139965" target="_blank">w随便转转w</a>：呵呵，就两个字。呵呵</p>
-<p><a href="http://weibo.com/style1st" target="_blank">千愚</a>：共产党滚出中国。凭什么中华民族必须受两德国逗比的思想奴役？谁都知道这是赤裸裸文化入侵和傀儡政权。你们TMD快点滚好吗？</p>
-<p><a href="http://weibo.com/2688385475" target="_blank">佛语甘露</a>：支持任的人多</p>
-<p><a href="http://weibo.com/1859322500" target="_blank">jim_huang2010</a>：共产主义？扯JB淡<img title="[弱]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]"></p>
-<p><a href="http://weibo.com/130181zzq" target="_blank">张志权</a>：回复<a href="http://weibo.com/n/%E8%BE%9B%E8%BE%A3%E5%B0%8F%E5%AD%90?from=feed&loc=at" target="_blank">@辛辣小子</a>:哈哈！无耻共青。</p>
-<p><a href="http://weibo.com/5385755226" target="_blank">ok田间农夫</a>：从令计划倒台后你们就开始闹腾！<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"></p>
-<p><a href="http://weibo.com/3812370016" target="_blank">霸气的北京小妞20125</a>：请问景临宣传部部长:共产主义主张彻底消除私有制,而本届中央政府却主张大力扶植民营企业,这个如何解释呢?你们能不能消停点儿,别老吃党饭砸党锅呢?!<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/2045182092" target="_blank">米城赫的blog</a>：滚你妈逼共青团 什么东西 批评人家说实话的！早晚历史的车轮把你们这群狗逼压的死死的！</p>
-<p><a href="http://weibo.com/1052469504" target="_blank">B0_B00</a>：你们不是要接共产主义的班，你们是要当独裁主义的官。宣誓时满嘴道德理想，心里都在算计怎么捞个一官半职。这种政治投机者大学里那些入党积极分子各个都是。</p>
-<p><a href="http://weibo.com/2063579105" target="_blank">红彤彤的小跨栏</a>：从这个话题的争论看，共青团太low了，怎么接班？真是一代不如一代。</p>
-<p><a href="http://weibo.com/1955283772" target="_blank">能小猫12</a>：我就很奇怪 党组织怎么不处理任志强呢 让他这么耍猴。</p>
-<p><a href="http://weibo.com/2737755300" target="_blank">墨香刀魂</a>：支持团中央！如果你不是党员，你说这个话大家可一笑置之。既然你是党员，又是国企负责人。守着集体国有财产，吃着党和国家的饭，却干着和说着砸锅沉船的事。里外不一，心口不一，人格分裂。</p>
-<p><a href="http://weibo.com/2745878145" target="_blank">福财汇聚</a>：有人会说任总既然不信任党为什么还赖在这个组织呢？这样问的人显然不知道在现实生活里你自动退党是很忌讳的，特别是名人如果公开退党估计会受到很多人的诟病或者劝阻，特别是一些水军的攻击。</p>
-<p><a href="http://weibo.com/1435419292" target="_blank">那时民国</a>：共青团坚持共产主义理想为什么拿我们纳税人的钱养活？你们应该自己养活自己，不要做共产主义寄生虫。</p>
-<p><a href="http://weibo.com/3064839587" target="_blank">森-大</a>：我年幼无知被骗进这个垃圾团，我已经退出来了，请问团费能退一半吗？</p>
-<p><a href="http://weibo.com/yingxiaoxuan" target="_blank">站小妍</a>：跟自己不一致就删评论，我朋友公务员被要求上微博灌水，真实腐败到了极点。</p>
-<div><a href="http://weibo.com/3064839587" target="_blank"><img src="http://tp4.sinaimg.cn/3064839587/50/5705158338/1" alt="森-大" width="30" height="30"></a></div>
-<div>
-<div><a href="http://weibo.com/3064839587" target="_blank">森-大</a>： 《继续删啊，我在发》一个沾满血债的组织，你谈什么理想，真是笑死人了，你们这六十多年来，你们的伟大领袖，特别是毛邓江，杀人狂魔，特别喜欢杀自己同 胞，这血债累累，你们心安理得？畜生领导，你们谈理想，吃屎吧你，还一代接一代，荭二代正在实现中，一代接一代的内定领袖，快步走进共产伟大理想。</div>
-</div>
-<div></div>
-<div><a href="http://weibo.com/2257655735" target="_blank">08_县长</a>：能不能实现你们心里比谁都清楚。好了，你的回答完全正确，100分，敢紧邀功请赏去吧。</div>
-<div></div>
-<div><a href="http://weibo.com/fungkin" target="_blank">Kin_馮健</a>：回复<a href="http://weibo.com/n/%E9%9B%A8%E5%B1%B1%E4%BF%8A%E7%94%B7?from=feed&loc=at" target="_blank">@雨山俊男</a>:新華門，天安門總會被光復的，你們把每年六月三日的第二天變成敏感詞，就體現出你們的恐懼！</div>
-<div></div>
-<div><a href="http://weibo.com/1708441777" target="_blank">Q将大人</a>：回复<a href="http://weibo.com/n/%E6%88%91%E4%B9%83%E9%B4%BB%E9%B5%A0?from=feed&loc=at" target="_blank">@我乃鴻鵠</a>:反对你的就是汉奸，反对GCD的就是汉奸，对国家指手画脚的也是汉奸。说实话共产党也就一个政党而已，作为一个政党，有人反对有人支持再正常过了，只能支持不能反对的那种叫法西斯叫纳粹党，共产党也执政几十年了，从来也不懂什么言论自由，或者是装作不懂。</div>
-<div></div>
-<div><a href="http://weibo.com/1708441777" target="_blank">Q将大人</a>：听说的贪污的百分之90都是共产党员，为什么呢。</div>
-<div></div>
-<div><a href="http://weibo.com/1290275744" target="_blank">短线为王价值至上</a><i title="微博达人"></i>：删吧，一群令计划的党羽。删我五个评论。</div>
-<div></div>
-<div>
-<div><a href="http://weibo.com/kilorocky" target="_blank">演导安全王</a>：特大喜讯，特大喜讯！共产主义生活在你国早就已经实现了！这个理想大致分为：科级，副处级，县处级，厅局级，省部级等等。。。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></div>
-</div>
-<div></div>
-<div><a href="http://weibo.com/3858820305" target="_blank">东方503</a>： 看着这些评论的感慨万千啊，我是70后，也是唱着（共产主义接班人）成长的！日本右翼修改历史教科书，修改安保法，日本人一百万多游行示威，某些国人就认 为日本很乱，看了人家美国人自己拍的纸牌屋就认为美国充满了权力斗争，不说了！准确近代史50年后再说吧！历史会证明一切的！同意的点赞吧！</div>
-<div></div>
-<div><a href="http://weibo.com/2943655602" target="_blank">坐等瓜儿熟</a>：特别是景临，既然你这么大义凛然，你的财产是否干净，是否想人民大众交代下？</div>
-<div></div>
-<div>
-<div><a href="http://weibo.com/5489941248" target="_blank">夜色深山星满天</a>：任你口吐莲花、巧舌如簧，也不敢公开财产。任你大饼连连，也无法掩盖你们全是蛀虫……<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></div>
-<div></div>
-</div>
-<div>
-<div><a href="http://weibo.com/1958412715" target="_blank">sina_tomlan62</a>：<a href="http://weibo.com/n/%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90?from=feed&loc=at" target="_blank">@凌虚铺子</a> 看了某组织声讨任大炮的檄文，觉得文革时的大字报也不那么讨厌了，至少，大字报还是文从字顺的；看了横店的抗日神剧，竟然怀念起八个样板戏来了，至少，样板戏还是讲逻辑的，台词也很有感染力；看了所谓的专家学者跪舔的嘴脸，甚至觉得//<a href="http://weibo.com/n/%E4%BD%8E%E5%A4%B4_%E8%AA%93%E4%B8%8D?from=feed&loc=at" target="_blank">@低头_誓不</a></div>
-</div>
-<div></div>
-<div><a href="http://weibo.com/1406167890" target="_blank">汉家长剑</a>：找五毛这样的货色去接班，共青团也是够拼的。<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"> //<a href="http://weibo.com/n/%E5%9C%A8%E8%B7%AF%E4%B8%8A%E7%9A%84%E5%B0%8F%E6%B3%89?from=feed&loc=at" target="_blank">@在路上的小泉</a>:呵呵//<a href="http://weibo.com/n/chuanbb2?from=feed&loc=at" target="_blank">@chuanbb2</a>:<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]">小编你就尽情删评论吧，连不同看法的评论都不允许存在的话，还好意思说榷？你回家关门慢慢榷吧</div>
-<div></div>
-<div><a href="http://weibo.com/3223545050" target="_blank">小犀牛5</a>： 党的创始人，一至五大书记陈独秀晚年对共产主义也有新的认识，很多思想在今天的理论中已经被肯定，比如“社会主义是很长的历史阶段，不能马上废除私有 制”，这比邓小平理论早了50年，但他被批判，被开除。可他没当叛徒，没做汉奸，没作出有损于国家和民族的事，只是说了点被后来历史检验是正确的实话。</div>
-<div></div>
-<div><a href="http://weibo.com/haooah123" target="_blank">h__hao</a>： 任志强的父亲叫任泉生，1918年7月生于山东省掖县，2007年8月1日病逝于北京，享年89岁，当时新华网还就此发了通稿。据新华网介绍，任泉生 1937年参加革命，曾是新四军干部，解放前担任过中原局税务局局长，解放后担任过商业部副部长。任泉生病重期间和去世后，胡、曾、贺、王刚和谷牧</div>
-<div></div>
-<div><a href="http://weibo.com/1908805691" target="_blank">婧婧翠竹</a>：所谓团组织就是管2代，和有钱人的升职器。你们懂什么是共产主义吗？你们才是背离的人民，背离了共产主义理想。</div>
-<div></div>
-<div>
-<div><a href="http://weibo.com/5513916460" target="_blank">卧槽土麻他</a>：共青团中央挺住<img title="[可怜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/kl_org.gif" alt="[可怜]">共青团中央坚强！<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]">共青团中央不哭<img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]">为共青团中央祈祷<img title="[困]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/kunv2_org.gif" alt="[困]">我们都是共青团中央！<img title="[威武]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/vw_org.gif" alt="[威武]"></div>
-<div></div>
-</div>
-<p><a href="http://weibo.com/2110392524" target="_blank">自由的俊勇</a>：评论好看，就是太多了。还不包括被删除的。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%A2%E6%B4%BE%E5%A0%95%E8%90%BD%E5%A6%82%E6%96%AF%EF%BC%8C%E9%9D%92%E5%B9%B4%E5%9B%A2%E9%87%8C%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BE%AF%E8%81%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%AF%E8%81%9A%E6%A3%AE/?category=18271" rel="tag">侯聚森</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AF%E4%B8%B4/?category=18271" rel="tag">景临</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E8%A3%85%E6%89%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E5%BD%A2%E8%B1%A1%EF%BC%9F-2/" target="cdt-mirror">端传媒 | 谁在装扮习近平的海外形象？</a>
-</h2>
-<p><p>端传媒记者 宋宁宇 发自香港</p>
-<p>“他好英俊”、“可爱的脸”，这些说的是谁？习近平访美期间，中国官方媒体忙着树立习的海外形象，但效果如何呢？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/06bc7fe7890c48eba54eb2231ad6919f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/06bc7fe7890c48eba54eb2231ad6919f.jpg" alt="China Watching Xi's Trip" width="550" height="366"></a><br>
-（习近平访问期间，白宫的前行政办大楼挂着美国和中国国旗。摄 : Andrew Harnik/AP）</p>
-<p>中国国家主席习近平还在美国展开任内第一次国是访问，中国官方宣传机构也马不停蹄的“造势”，塑造习近平的国际形象。不论是技术手段，还是宣传内容，跟以往相比都有相当的进步，但宣传效果如何仍是见仁见智。2008年开始，中国政府在对外宣传上投入数十亿美元的巨额经费，力图打造中国”软实力”。</p>
-<p>人民日报：做视频，赶图表，玩亲民</p>
-<p>就在习近平外访行程的第一天，中共党报人民日报海外版网页放出了第一个”大招”：A-Z: 26 keywords tell you who Xi Jinping is（A至Z：26个字母告诉你谁是习近平）。</p>
-<p>报导卡通图文结合，采取英文首字母解读关键词模式，从A-Annenberg Retreat（指习近平在2013年在安纳伯格庄园与美国总统奥巴马的庄园会），到Z-XIN（指习近平任浙江省委书记时曾在浙江日报旗下”之江新语”专栏发表短评232篇），用26个事实，向海外受众介绍“究竟谁是习近平”。</p>
-<p>惟报导文配漫画呆板，宣传内容也未必是海外观众所想了解的，传播效果并不理想。</p>
-<p>一招未完，续招又至。图文似乎并不过瘾，同一天，人民日报海外版再放出一段视频。</p>
-<p>视频中来自日本、韩国、喀麦隆、美国等国的在中国留学生，表达了对中国国家主席习近平的喜爱之情，片中他们采用了中国民间的叫法，将习近平称为“习大大”（Uncle Xi）。片中多次出现“他好英俊”、“可爱的脸（cute face）”、“睿智的领袖”等正面赞美的评论，并且有留学生说“似乎人人都喜爱他”、“太有魅力了”。一名韩国留学生甚至说，“如果我未来丈夫也像他一样的话，我会幸福”。</p>
-<p>不过这段官方宣传视频的宣传效果同样“惨不忍睹”，在被放上海外视频网站YOUTUBE三天后，视频获得近九万次点击，只有134人点赞（I like this），786人都表示不喜欢（I dislike this）。</p>
-<p>视频下的评论区更是负评如潮，评论的焦点是这些学生的表态究竟是否具有代表性。有人将这些学生称为“洋五毛”，也有人责问“这些人究竟收了多少钱才拍的这个视频”。</p>
-<p>获得赞赏最多的一条评论说，“这是我见过最愚蠢的视频”。</p>
-<p>而在对内宣传上，人民日报同样不遗余力，在习近平访美伊始，便在大陆微博上创立“跟着习大大去美国”的话题热门标签（hashtag），全称转载习近平的行程、书单等等内容。</p>
-<p>每条推文下的回复不算多，但不少人表示“对习大大充满信心”、“相信这次访问是两国元首的历史性会面”，更有人评论“大大是中国最帅美男子”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/39a0a4d8e2914099b849ab39e32e9307.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/39a0a4d8e2914099b849ab39e32e9307.jpg" alt="39a0a4d8e2914099b849ab39e32e9307" width="550" height="366"></a><br>
-（人民日报制作外国留学生看习近平影片《Who is Xi Dada》截图。）</p>
-<p>新华社：404 not found平台上的外宣</p>
-<p>作为喉舌的新华社同样不遑多让。在本次习近平外访行程内，专门创建NEW CHINA账号，在Twitter（推特）、Facebook（脸书）及Youtube上，全平台直播习近平的一举一动。这三个网站中国大陆均无法访问，点击后只会出现404 not found报错页面。</p>
-<p>习近平的所有公开活动，包括美国总统奥巴马为其举行的欢迎仪式，都可以在Youtube上的New China TV账号内观看视频直播。<br>
-账号内获得观看次数最多的一段视频，是习近平在西雅图的演讲，浏览量接近两万次，但评论数仅为“5”。一段来自外国观众的留言为，“我怀疑是不是部份美国人会睡”。两条来自同一个用户的中文评论则为“我们爱我们的主席！”、“中国牛”。</p>
-<p>国新办联手CNN，推广中国</p>
-<p>相比央媒的行动，国务院新闻办所采取的是更直接的方式：联合美国有线新闻网（CNN），配合习近平访美行程，在CNN各大平台上播放《中国，与你同行》（China：connecting with you）系列节目。</p>
-<p>在CNN中文微信公众号“特纳国际”发布的公开文章中，表示“该片的不同长度版本将在CNN美国本土频道、头条新闻频道、空港新闻频道、CNN欧洲频道和CNN亚洲频道以及纽约时代广场等平台高频次播出，让全球受众更直观感受到中国稳步发展对全球的不可或缺的贡献”。</p>
-<p>但在CNN官网上并未发现相关节目的链接，仅在不显眼处有一个关于节目的广告。点击广告，便会进入中国网的海外网址http://www.china.org.cn/。在这个网站上，同样可以找到外国留学生喜爱“习大大”等中国官方宣传视频。</p>
-<p>在Youtube网站上，包括新华社旗下NEW CHINA TV、人民日报等官媒账户均有上传这部节目，但最多也只浏览量破百，评论数为零。</p>
-<p>除了CNN这样的正牌“西方媒体”开始播放中国宣传片外，受年轻人喜爱的社交媒体平台Facebook上，也创建了一个叫做XI’S US VISIT（习近平访美）的主页，内容包括来自中国国际广播电台、新华社等央媒的照片、视频及文字，以及外媒对本次习近平访美的报导图片。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a06e1f26493041d587e1055b0fd3795c.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a06e1f26493041d587e1055b0fd3795c.jpg" alt="a06e1f26493041d587e1055b0fd3795c" width="550" height="237"></a></p>
-<p>（习近平访美面书专页截图。）</p>
-<p>这一平台为人所知，其实是得益于Facebook创始人扎克伯格的转发。他在个人主页上发布了与习近平握手的照片，并写到“你可以关注XI’S US VISIT这个主页，了解习主席访美的动态”。与习近平会面时，扎克伯格罕见的打上领带，并用中文向习近平问好。扎克伯格积极的举动，令外界推测与Facebook酝酿多年想要进入中国大陆市场有关。</p>
-<p>创建至今，XI’S US VISIT主页已经获得超过五十八万的点赞，超过二十八万的谈论人数。但同样，每条讯息的评论数不算多，但绝大多数属正面评论。在一张习近平与奥巴马的合照下，至今只有45条评论。将习近平比作维尼熊、奥巴马则为跳跳虎的“典故”再次被网友使用，一名网友留言，“维尼熊和跳跳虎，哈哈哈”（Winnie the Pooh and Tigger，lol！）。</p>
-<p>不止官方宣传机构借习外访的机会树立习近平个人以及中国的正面国际形象，来自中国大陆的企业也把握时机，包括知名饮料和白酒企业在内的五个中国品牌，联合斥资买下《纽约时报》24日的五个整版，刊登欢迎习近平访美的广告。广告上中美两国国旗飘扬，内文却使用了简体字，更像是给大陆中文阅读者看的。</p>
-<p>官方媒体《环球时报》评论此举为“中国品牌在全球顶尖媒体上的强势发声”、“已成为‘中国风’热潮的强有力体现”。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E8%A3%85%E6%89%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E5%BD%A2%E8%B1%A1%EF%BC%9F-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/youtube/?category=18271" rel="tag">youtube</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">对外宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -794,5 +681,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/youtube/?category=
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

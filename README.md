@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,81 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%A4%9A%E4%B8%AA%E5%9B%A2%E4%BD%93%E4%B8%BE%E8%A1%8C%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8/" target="cdt-mirror">BBC | 香港“占中”一周年 多个团体举行纪念活动</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150928100840_hk1_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150928100840_hk1_624x351__nocredit.jpg" alt="150928100840_hk1_624x351__nocredit" width="600" height="337"></a><p>9月28日是香港“占中”抗议行动一周年, 当地多个团体在金钟政府总部外举行纪念集会</p></div>
+<p>9月28日是香港“占中”抗议行动一周年，当地多个团体在金钟政府总部外举行纪念集会，而大批警员也在场戒备。</p>
+<p>据由18个政党及民间组织组成的“全民反政治打压”运动发言人黄洁莹表示，“占中”行动发起人戴耀廷、香港学联及学民思潮的代表以及支持占中团体代表到台上发言。</p>
+<p>此外，参加者将会在下午5时58分左右默站15分钟，希望市民反思及回顾雨伞运动，思考将来如何争取民主，这也是去年香港警方向“占中”示威者释放87枚催泪弹的时间。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150928100909_hk2_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150928100909_hk2_624x351__nocredit.jpg" alt="150928100909_hk2_624x351__nocredit" width="600" height="338"></a></p>
+<p><strong>黄伞重现</strong></p>
+<p>据身在现场的BBC中文网记者蔡晓颖表示，集会现场已经聚集了超过一千人，而且不同年纪的人都有，其中不少人手持象征“占中”运动的黄色雨伞及黄色横幅，也有人打出“我要真普选”的标语。</p>
+<p>不过，香港民主派组织“人民力量”成员谭得志则表示，如傍晚时分有1000人响应，就会冲岀马路占领87分钟，纪念去年警方施放的87枚催泪弹。</p>
+<p>对此，黄洁莹评论说，如有其他行动，市民可自行选择是否参与，至于参与大会活动的团体，将于晚上7时陆续散去。</p>
+<p>据BBC中文网记者蔡晓颖报道，有不少军装和便衣警员出现在集会附近地区戒备，而金钟附近两条行车线已经关闭，但集会现场气氛平静。</p>
+<p>香港媒体也报道说，为了防止有人冲岀马路，警方在中环夏悫道两旁也架起铁马，并有人站岗，密切监视人民力量成员的行动。此外，也有警员在现场检查市民手持的横额。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150928101010_hk4_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150928101010_hk4_624x351__nocredit.jpg" alt="150928101010_hk4_624x351__nocredit" width="600" height="338"></a></p>
+<p><strong>反“占中”游行</strong></p>
+<p>与此同时，反对“占中”团体包括“忠义民团”、“占中不代表我”等，也在28日下午2时半举行游行。游行从中环出发至金钟添马公园，并在公园内举行集会。</p>
+<p>而另一个反“占中”组织“保卫香港运动”则在铜锣湾百德新街游行至湾仔鹅颈桥，要求香港政府尽快起诉“占中”发起人。</p>
+<p>反“占中”游行发起人邓德成说，“占中”行动打击香港经济，希望以游行表达“占中”不值得纪念。他还呼吁市民在下一届区议会、立法会选举不要投泛民主派政党候选人的票。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%A4%9A%E4%B8%AA%E5%9B%A2%E4%BD%93%E4%B8%BE%E8%A1%8C%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">占中一周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%B0%91%E6%80%9D%E6%BD%AE/?category=18271" rel="tag">学民思潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">抗议行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E8%A1%8C%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">游行示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">香港占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%AD%A6%E8%81%94/?category=18271" rel="tag">香港学联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 13分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%B0%8F%E8%80%81%E9%BC%A0%E8%8D%90%E6%AD%8C%E7%A4%BE-%E8%86%9C%E8%9B%A4%EF%BC%9A%E4%B8%80%E7%A7%8D%E9%9D%92%E5%B9%B4%E4%BA%9A%E6%96%87%E5%8C%96%E7%9A%84%E5%85%B4%E8%B5%B7/" target="cdt-mirror">小老鼠荐歌社 | 膜蛤：一种青年亚文化的兴起</a>
+</h2>
+<p><p><strong>一、引子</strong></p>
+<p><strong>希特勒的童年照</strong></p>
+<p>米兰·昆德拉在一篇文章中说到，有次他看到一张希特勒的童年照，照片中的小男孩纯真、无邪，旧日时光的温暖色泽，让希特勒也褪去了魔头的身份。昆德拉在那一刻居然可以跟希特勒都达成某种和解，把希特勒看成一个人，这让他震惊不已，不知该如何对待这种感受。</p>
+<p>在这里，我当然不是拿希特勒来类比长者。而是想说，总有一些时刻，我们即使对最极端的人和事，也能穿越其制度身份，窥见某种生活的本真。这种本真可能转瞬即逝，更掩盖不了历史之恶。但在荒谬的人生旅程中，这种本真又总能成为隐秘的生活基石，微小而弥足珍贵。</p>
+<p>这种本真，也恰恰是膜蛤文化的精神根基。它让我们在被大时代和大叙事裹挟的洪流中，可以回到某个开始的地方，“看到那个刚刚展开人生长卷的，意气风发的自己”。在那儿，我们可以找回那些童真。“就像很多年前，在太阳底下疯玩一圈回到家打开冰箱，看到光明冰砖的我。或许还有你。”（<em>参见</em><em>《中冰砖和背后的男人》</em>）</p>
+<section><strong>二、缘起</strong>
+</section><section><strong>江选研讨会</strong>
+<p>尽管膜蛤文化的心理根基早已潜藏于时代文化的土壤，但直接促使膜蛤之火呈成燎原之势的，必然是微信公号“江选研讨会”的横空出世。我印象中，应该距今也就不到两年时间吧。该公号的唯一撰稿人先后更换过“板板”、“黄薄码”等笔名，以划时代的生花妙笔写下了天马行空、风趣幽默的“蛤三篇”和感情充沛、资料详实、笔力遒劲的《一朝天子一朝逼格》、《长者的爱情故事》等文，一举成为经典文献，广大蛤丝反复温习、顶礼膜拜。这些文章以详实的考证作根基，很有史家的严谨风范，但又能从中提取出一个个妙趣横生的切入点，把长者从政治语态的云端请下，还原为一个你家隔壁的老大爷，你大爷又承载着大时代的炮火隆隆，让人追怀一个消逝的美好往昔。这种美好往昔与其说是一种历史现实的真实，不如把其看成我们心理上的某种寄托。“消逝的美好时代”，永远是我们成长道路上的精神故园。只不过这次，故园的中央，站着一位引领时尚戴黑框眼镜、穿高腰抹胸裤、会用无数国外语谈笑风生、精通多种乐器、具备极高数理化水平、书法造诣登峰造极、深谙电影艺术、运动能力极强、还会造冰砖的全方位无敌男神。（<em>参见《长者会几国语言》、《长者的时髦经》、《长者会多少乐器》、《长者的数学水平》、《长者擅长的运动》、《长者一生看过多少电影》等一系列由各领域顶尖学者针对各自擅长门类研究得出的成果展示</em>）</p>
+<section><strong>三、复兴</strong>
+</section><section><strong>词与物</strong>
+<p>在“江选研讨会”经典文献的传播和推动下，广大蛤丝迅速结盟，交换各自的膜蛤心得，在网络和生活中创建了各种膜蛤阵地。在任何一种文化中，相关语言都是极重要的承载，近代结构主义文化理论，就由索绪尔的结构语言学生发。一种文化是否成型壮大，考察其独特的语言是一个重要途径，嘻哈文化，毒品文化，黑帮文化，乃至我们熟悉的各种网络文化，都有其各自成体系的黑话和切口。（一般你不浸润其中的话，根本就听不懂，比如《The Wire》这部美剧，就因为黑帮、毒贩和警察、政客各自的行业黑话太多，很多美国人一开始都看得一头雾水，听不懂人物在说什么。）那么我们反观膜蛤文化，很容易发现其一系列的黑话和切口，它们主要来自长者教育香港女记者的经典讲话、“搞的这个东西excited”讲话、“弄水最苦和鸭嘴笔”讲话中的各类语句词汇，以及“研讨会”经典文献中的一些语句词汇。对于蛤丝来说，naive、excited、angry、too young too simple等自然是必备英语单词，笑声不能打“哈哈”，要打“蛤蛤”，好不能说好，要说“吼啊”，教训人一定要带一句“识得唔识得啊”，写文章需要引用“世道变坏是从人们嘲笑文艺青年开始的”、“它们都到生活里去了，那里人口众多”，等等等等太多，我就不一一列举了。想要掌握这些语词使用方法，成为一个合格蛤丝，最好的途径还是多混迹蛤丝阵营，学系蛤丝交谈的基本姿势。（入门级蛤丝也看得出来，“学系”和“姿势”也都是蛤语。）如果想要速成学系，可以去看下王叫兽出的“人生经验分享会”入会试题，王叫兽在精神上承袭了板板，但板板在姿势水平和才华能力上比王叫兽是不知要高到哪里去了。</p>
+<p>正如福柯在其经典著作《词与物》中所说，语言特点可以反映出相关文化的很多特征，这个下文再论及。这里我想先重点说一下我为什么把膜蛤界定为一种“青年亚文化”，我的理论依据来源于两本学术著作，一本是人类学家罗伯特·雷德菲尔德的《农民社会与文化》，另一本是文化研究伯明翰学派代表性学者迪克·赫伯迪格的《亚文化》。在《农民社会与文化》一书中，雷德菲尔德把文化区分为大传统和小传统，大传统指庙堂的，制度的，高层的，书面自觉的，小传统则指民间的，草根的，自发的，前者高大上严肃死板，后者则贴近生活活泼灵动。大传统接近高层话语，小传统则接近草根话语，草根话语倒不一定在影响范围和层次上就低于高层话语，但在整体文化氛围和感觉上，更类似的是赫伯迪格通过分析摇滚文化、嬉皮士、光头党总结出的“亚文化”，而不是死气沉沉的“主流文化”。所以我们如果从文化的特质和感觉，以及其中核心人群的年龄层次来判断，很容易发现，膜蛤文化虽然有一个官方高层吉祥物性质的核心人物，但却是经过民间解构和发酵之后，不折不扣的“青年亚文化”。这个矛盾和吊诡之处的成因，连通着一整代人的精神成长图景，揭示出这种图景，是我写作本文的原因。</p>
+<p>当然，如果对膜蛤文化进行系统的研究，那可以得出的成果和结论肯定涉及各个层面。膜蛤文化与政治气候，膜蛤文化当中的转世轮回学说，作为子文化的续命文化，续命文化与道教巫术传统，现代传播中的网络膜蛤文化等等。各种题目，都值得跨领域的文化学者好好书写。本文限于我自身的兴趣点和知识面，将在下半部分逐层推进，主要只写三个方面：</p>
+<p>1，长者的哪些特质造就了膜蛤文化，这些特质跟膜蛤文化的同构性；</p>
+<p>2，蛤丝膜蛤的精神气质和情感认同中最大的特点；</p>
+<p>3，膜蛤精神反映出的一整代人生活精神的变迁。</p>
+<section><strong>四、出走</strong>
+</section><section><strong>红旗下的蛋</strong>
+<p>长者位列庙堂至尊，却在膜蛤文化中担负起幽默精神、文艺范和生活气，这自然得益于长者自身的独特气质和言行。比较下就立刻看出来，比如萧规曹随的面瘫暖男胡四，是绝无可能成为这样一种象征的。看过胡四唱歌，拘谨地不知所以，完全没有长者的天然灵动。所以长者一方面是制度的化身，另一方面又以自身的活泼多样化解了制度的森严，及至今天在膜蛤文化中完全消解官方形象，甚至成了亚文化乃至反文化的代言人。想想真是不可思议。不管长者治下政治制度的走向如何（这个我真是完全不懂），个性和个体身份的彰显，就是身体和精神生活中的民主。</p>
+<p>在膜蛤文化中，蛤丝津津乐道的是长者穿白色西装的热带男孩造型，暴走狂飙英语的傲人文彩，弹奏夏威夷吉他的呆萌姿态，在重大场合拿梳子梳头旁若无人般的自在，等等这些，都跟官方形象截然相反。所以，膜蛤文化中的长者，就是一个反叛而特立独行的形象。这个红旗下的蛋，因为在官方话语中曾是红旗的至高象征，一到膜蛤文化却一转身就戳破了旗帜，滚动的身姿愈发撩人。如果说反文化，那没有比这样的形象更反体制、反主流了。这个道理其实很简单，领导人官方形象消解的破坏力，那可比反叛者声嘶力竭的呐喊大多了。</p>
+<p>我们可以再重点看下语言这个载体，膜蛤文化中的黑话，当然绝对迥异于代表大会上的讲稿。所以长者怒斥女记者的讲话，一举奠定了膜蛤文化的基础词汇系统，那个完全不是四平八稳的官方词汇，而是个性男孩的真情发作。那是人的语言和说话方式，而不是官的语言和说话方式。</p>
+<p>有一件事情可以为长者自身特质触发膜蛤文化这个逻辑作一个绝佳的注脚。著名文化评论家朱大可先生在《流氓的盛宴》一书中说到，梁思成心心念念复原的北京城中轴线对称建筑格局，根本就是皇权的象征。长者不顾众人反对，属意要搞国家大剧院这个破坏了北京城整严建筑布局的<strong>蛋形</strong>建筑，精神气质上很“流氓”。这种叛逆和一意孤行出走的“流氓”气，居然通过一个极权国家领导人的自身气质，对极权文化象征造成了破坏！传说长者是为了辣妹子才一心建国家歌剧院，此事若当真就更好玩、更人性、更“流氓”了！</p>
+<p>膜蛤文化中的长者形象，当然不可能完全是长者的真实形象，但如果没有精神气质上如此接近的一些幽默流氓特点以及由此造就的一些事件和言行，那就根本不会有膜蛤文化了。</p>
+<section><section><strong>五、征途</strong>
+</section><section><strong>在相对性中沉醉</strong>
+</section></section><p>蛤丝经常被人问一个问题，就是你们这么搞，到底是粉是黑？其实在最初，多数人的心态肯定是黑，正如前文所说，是对官方形象的消解啊，不黑怎么消解？包括我自己，最初看“江选研讨会”的文章时，都完全是当搞笑文看的，以为板板也完全是一心在黑长者呢。但这事情到了后面就越发不明朗了，因为在黑的过程中，偶尔会有丝丝粉的心态。最后就自己都不知道到底是黑是粉，是续命还是催命了。我想不同的蛤丝，肯定有不同的看法。大家共同分享的，其实是在相对性中沉醉的幽默精神，这才是膜蛤文化中最动人的地方。</p>
+<p>我们在非黑即白的教育话语中长大，臧否历史人物更向来是中华文化的一大传统，所以辨别时代正负走向和人物红白属性在我们的生活环境中经常有人念叨。这种环境有时会压得人喘不过气来，一点都不好玩，也不接近事物的真相。所以当我在膜蛤文化中发现在相对性中沉醉的幽默精神时，真是大喜过望，这才是我之所以成为一个蛤丝的根本原因。</p>
+<p>也正是因为这个原因，蛤丝阵营也吸纳了很多纯粹图个好玩的妹子，她们才没兴趣分析经济形势、历史事件和时代走向呢，说说搞个大新闻和无可奉告，根本就是：好玩！所以是粉是黑完全不重要，甚至多数蛤丝想都没想过这个问题，模棱两可、似是而非的幽默精神才是膜蛤文化的核心精神。那类指点江山的政治青年在膜蛤文化中可能完全找不到北，我们有时也分析几句时局，但是否确实完全不在意，时局于我，能出多少个段子才最有生活的价值和意义。</p>
+<section><section><strong>六、回归</strong>
+</section><section><strong>只不过，是一场生活</strong>
+</section></section><p>但在这样消解和玩闹的膜蛤气氛中，并不是完全没有方向，尽管没有明晰的康庄大道，但在其中，还是有一条氤氲的雾中之路的。这个方向，简单说，就是对生活的回归。</p>
+<p>膜蛤文化的主力始终是八零后人群，所以说其为“青年”亚文化最准确不过了。对于这群人来说，长者伴随了我们从年幼无知到青春懵懂再到找到各自归属的整个过程。最初，长者象征的是制度，世界对我们来说规矩森严、难以捉摸、不可更改；随后，长者化身为社会文化，在时代风气和民间小段的弥漫中，成了更微妙但依然庞大的文化隐喻；最终，在膜蛤文化这里，我们终于抵达了生活的彼岸。这三种状态，分别对应着我们启程求学、寻找迷失、成家立业找到归宿三个阶段，长者也逐步褪去起制度政治身份，在膜蛤文化这里成了生活精神的象征。</p>
+<p>我们可以看到，在所有的膜蛤文中，除了幽默，最大的关注点都落在长者的生活细节和感受上，从“爱情故事”中如邻家大爷大妈的点滴到中冰砖甜味中飞舞的童年惊喜。制度规约，文化熏习，但最终，我们最逃不开，也最在意的，是说不尽的生活。长者对历史，对时代，到底做了多少正确又多少错误的事，在膜蛤文化中是完全找不到答案的。在膜蛤文化中，蛤丝恶搞，玩闹，但总不经意把长者还原为一个人，就像昆德拉在那张希特勒的童年照中看到的一样。我们不是要对他作一个辨别和判定，而是通过这样的方式对待一个象征性人物，可以让我们在某种程度上更亲近自己的生活。</p>
+<p>鲍勃·迪伦在自传中说，他最终洞悉奥妙的一刻，就是把肯尼迪和马丁·路德·金看成一个丈夫和父亲的时刻。把任何人都还原为人，把握永远在相对性中的温暖，是最后的众妙之门。</p>
+<p>时代历史，江山社稷，千古功业。最终，只不过，是一场命运；只不过，是一场游戏；只不过，是一场生活。</p>
+<p>摘要中引托洛茨基的话：“我可以预测到革命的走向，却无法预测到我会在冬天打野鸭的时候冻伤脚。”生活，不是革命的走向，是你有可能会在冬天的时候冻伤脚。</p>
+</section></section></section><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%B0%8F%E8%80%81%E9%BC%A0%E8%8D%90%E6%AD%8C%E7%A4%BE-%E8%86%9C%E8%9B%A4%EF%BC%9A%E4%B8%80%E7%A7%8D%E9%9D%92%E5%B9%B4%E4%BA%9A%E6%96%87%E5%8C%96%E7%9A%84%E5%85%B4%E8%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E6%A0%B7%E5%9B%BE%E6%A3%AE%E7%A0%B4/?category=18271" rel="tag">图样图森破</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/?category=18271" rel="tag">江选研讨会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/?category=18271" rel="tag">膜蛤文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F/?category=18271" rel="tag">谈笑风生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8A%E8%AE%BF%E8%88%AC%E6%B3%A1%E6%B2%AB%E5%B9%B2%E6%89%B0%E4%B8%8D%E4%BA%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/" target="cdt-mirror">环球时报 | “上访”般泡沫干扰不了习近平访美</a>
 </h2>
 <p><p>美国防部22日披露本月早些时候一架美军侦察机在黄海上空遭到中国战斗机拦截，双方一度发生“危险接近”。五角大楼发布这一消息正值习近平主席抵达西雅图开始对美国事访问，美国防部像是加入“上访”行列一样，要求中国领导人帮着“解决问题”。</p>
@@ -93,7 +165,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%82%96%E4%BB%B2%E5%8D%8E%EF%BC%9A%E8%AF%B7%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E4%B8%8D%E8%A6%81%E6%81%90%E5%90%93%E5%92%8C%E7%BB%91%E6%9E%B6%E5%85%9A/" target="cdt-mirror">博客中国｜肖仲华：请罗援将军不要恐吓和绑架党</a>
 </h2>
@@ -593,73 +665,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/61398%E9%83%A8%E9%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%A2%85%E6%98%A5%E6%9D%A5%EF%BC%9A%E4%BC%A0%E8%AE%AF%E4%BA%8B%E4%BB%B6%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E6%88%91%E7%9A%84%E7%AB%8B%E5%9C%BA/" target="cdt-mirror">梅春来：传讯事件我的声明和我的立场</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/001oRpaRgy6VHucyW155b690.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/001oRpaRgy6VHucyW155b690.jpg" alt="001oRpaRgy6VHucyW155b&690" width="420" height=""></a></p>
-<p>昨晚11时30分深圳市公安局新城派出所奉命传唤，惊扰了妻儿，作为男人，我深感歉疚，尽管我安慰她不会有大事，但走出大门时，即便我作为长期从事行政诉讼的律师仍无法预知第二天是否能安全回到家中，悲愤和苍凉不言自喻。</p>
-<p>回来后昨夜无眠，深思后仍决定发布此项声明，以重申我的立场。</p>
-<p>1、《集体性维权如何避开警方设置的执法陷井》一文，系本人多年从事行政诉讼后办案经验的总结，作为对普通公众维权行为的告诫或指引而撰写，并非对事实的描述，因此，谈不上谣言，况且一篇隐含法律论述性质的文章是无法定性为谣言。</p>
-<p>2、 毫无疑问警察属于这个社会构架中最重要的组成部分，我们无法想像这个社会如果没有警察，那我们的生命、财产、自由会不会有任何的保障？但是警察同样也会有 因扩张法律之外的权力而构成违法，如果没有公众的批评和司法的制约，我们的生命、财产、自由同样都不会有任何的保障。警察既可以成为我们的守护神，制约不 了的时候也同样会变成魔鬼，重庆王立军事件足以引起我们的警惕。</p>
-<p>3、 每个警察都会很自然的将自己的职业视为神圣，并努力悍卫它的荣誉，我们尊重他们的这种荣誉感，但是警察荣誉感的悍卫是靠警队中的每一个成员努力的奉公守法 而得来的，换句话讲，当警察在悍卫每个公民的生命、财产、自由的时候，他就是在悍卫自己的职业尊严，当警察冲在危险的前列时，他就赢得身后普通公众发自内 心的信任和赞赏。</p>
-<p>4、 当司法对普通公众保障不足时，当警察的执法存在偏离的可能性时，律师作为法治社会中的一员，自然应当肩负起承担指引普通公众避免非法伤害的责任，律师只有 起到填补法治缺陷的责任时，我们才会改变我们律师原有的社会形象，当我们有意识的这样去做的时候，我们开始赢得公众的信任和支持。</p>
-<p>5、警察群体在社会公众中的形象，绝非一篇文章就能抵毁，警察群体要赢得公众的信赖，就必须在具体执法上让社会普通公众感受到公正无私，这种公正无私的评价是来自于普通公众的长久公认，而非一时的宣传。</p>
-<p>6、 律师的形象从来不佳，正因为如此我们已开始认识公众评价的重要性，当我们有这种意识的时候我们开始学会了讲究专业技能，我们开始注重职业伦理，我们开始关 注制度建设，我们开始倾听普通公众的利益诉求，凡你们放弃的，我们在坚守，凡你们忽视的，我们在争取，凡你们破坏的，我们在建设，如果警方真正在意自己的 职业荣誉感，那么就请试着和我们一起竞争，共同垒起法治的基石。</p>
-<p>7、《集体性维权如何避开警方设置的执法陷井》一文你们认为我没有尊重你们的职业，但是你们对一名执业律师深夜上门传唤，让他坐在审讯桌后居高临下的讯问时，你们又何尝对律师这个职业有那么一点敬意？</p>
-<p>8、 如果你们对律师职业这个职业有着基本的尊重，即便你们认为《集体性维权如何避开警方设置的执法陷井》一文误解或伤害了你们，你们也会以一种体面的礼遇方式 与律师进行沟通并达成解决的共识，这完全是一个行政机关应有的气度和修养的问题，我们实在看不出对撰写这篇文章的律师理应作出强制传唤或讯问的必要性，当 一项行政权力的行使超出一定的合理性时，我们就有理由认定它是在做违法的事情。</p>
-<p>9、 深圳的法制环境虽然超越了内地，但仍需要我们各方共同维持，我代理金洲花园当事人对深圳市公安局罗湖分局提起行政诉讼是履行职责所在，无论该案中深圳供电 局的输变电工程如何重要，又无论律师在法庭上如何指责警方的违法，我们均在法律范围内行使各自的职责，如果在司法审理过程中可以随意对律师进行传讯，我相 信这绝对不是我们深圳所要的结果。</p>
-<p>10、 在深圳被我起诉过的行政机关很多，胜诉和败诉都有，无论结果如何大家都本着有则改之，无则加勉的态度共同提高深圳行政机关的执法质量，但昨晚深圳警方的行 为破坏了这种平衡，我为深圳警方不值，同时更深切感受到警方的权力实在太大，一名律师尚无法根据法律预测自己当晚能不能回来，更何况且对法律并不熟知的普 通公众，因此，对警权的有效制约一定是我们国家法律界需要共同关注并重点调整的法治课题。</p>
-<p>11、此事值得各方检讨，你们认为我的想法过于激进，其实是你们的思想过于保守，改革开放30年后，深圳的警察团队连接受批评的勇气都没有了，遥想邓公80年代就喊出解放思想，如今我们仍然需要再次大声呐喊，这种寂落的心境与我在你们羁押室别无二致。</p>
-<p>12、你们发出的深公龙行传字【2015】00175号传唤证，我会用心保留，它会随时提醒我，让这个国家走向法治化不能只做中国梦，还需要有人像苦行僧一样默默的信奉前行，也需要有人像鲁讯一样呐喊唤醒。</p>
-<p>13、无论深圳警方会不会再次对我采取执法上的行动，我的初心已不太会改变，对法治的前景一旦产生了信仰，就很难再回到被司法部批判的那种唯是试图的商人律师，人到中年，请原谅我无法更改，对行政执法上的违法我已做不到委婉的批评。</p>
-<p>再次谢谢昨晚相识或不相识的网友留言慰问，我们只要遏制不倒退，相信20年后中国的法治环境一定会再次改变。</p>
-<p>梅春来</p>
-<p>2015年9月25日</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%A2%85%E6%98%A5%E6%9D%A5%EF%BC%9A%E4%BC%A0%E8%AE%AF%E4%BA%8B%E4%BB%B6%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E6%88%91%E7%9A%84%E7%AB%8B%E5%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%9A%E5%9B%BD%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/" target="cdt-mirror">纽约时报 | 解读习近平的党国民族主义</a>
-</h2>
-<p><p>国家主席习近平<a href="http://cn.nytimes.com/china/20150923/c23xijinping/" target="_blank" rel="nofollow">对美国进行首次国事访问</a>之际，正是中国自1949年共产党夺取政权以来，在世界上发挥比任何时候都大的影响力的时刻。在某些西方人眼里，最近几周有越来越多的有关经济增长放缓及<a title="Link: http://cn.nytimes.com/china/20150710/c10chinaleaders/" href="http://cn.nytimes.com/china/20150710/c10chinaleaders/" target="_blank" rel="nofollow">政府应对股市危机</a>的疑问，习近平作为一位精明、有效的领导人的形象<a href="http://cn.nytimes.com/china/20150921/c21xijinping/" target="_blank" rel="nofollow">已经失去了一些光泽</a>。但对许多中国人来说，习近平仍是一个民族主义情绪高涨的新时代的无疑象征。正如习近平自己所说的，他在寻求人民“中国梦”的实现，正带领国家在“复兴之路”上大步迈进。民族复兴的一部分涉及到<a href="http://cn.nytimes.com/china/20150617/17china-islands/" target="_blank" rel="nofollow">扩大中国在南海的领土覆盖</a>，这让美国和东南亚国家震惊，也涉及到<a href="http://cn.nytimes.com/china/20150903/c03parade-update/" target="_blank" rel="nofollow">强调中国的抗日战争</a>。康奈尔大学政府学院副教授白洁曦(<a title="Link: http://www.jessicachenweiss.com/" href="http://www.jessicachenweiss.com/" target="_blank" rel="nofollow">Jessica Chen Weiss</a>)研究中国的草根民族主义、以及民粹主义抗议与中国党天下的相互作用。她去年出版的名为《强大的爱国者：中国外交中的民族主义抗议》(<a title="Link: http://ukcatalogue.oup.com/product/9780199387564.do" href="http://ukcatalogue.oup.com/product/9780199387564.do" target="_blank" rel="nofollow">Powerful Patriots: Nationalist Protest in China’s Foreign Relations</a>)一书，就是基于这项研究。在一次采访中，她讨论了习近平风格的民族主义、以及这种民族主义在中国如何表现。</p>
-<p><b>问：本月早些时候，你曾说中国共产党</b><b>纪念</b><b>抗日战争胜利的阅兵式，体现了“</b><b>习近平反复强调的自上而下的民族主义</b><b>”。这在习近平上台的头三年里是如何表现的？与习近平之前的时代有什么不同？</b></p>
-<p><b>答：</b>无论习近平的“中国梦”辞藻怎样华丽，中国领导层其实对民族主义运动非常担心，怕这种运动会导致更大范围的不稳定，也怕运动给中国的外交政策施加不必要的压力。</p>
-<p>自从三年前习近平上台以来，草根行动已在很大程度上被压制了。在习近平领导下，中国为纪念抗战胜利法定了<a href="http://cn.nytimes.com/china/20140930/c30martyr/" target="_blank" rel="nofollow">三个新节日</a>，还搞了一次壮观的阅兵，以充分展示中国不断增长的军事实力。但公众对纪念活动的参与却一直受到严格控制。就连在百度贴吧检索“九·一八”，都会得到这样的结果：“抱歉，根据相关法律法规和政策，本吧暂不开放。”9月18日是纪念日本1931年入侵东北三省的日子。</p>
-<p><b>问：一些分析人士将习近平与毛泽东作比较，说他们在试图利用草根民族主义上有相似之处。你怎么看？</b></p>
-<p><b>答：</b>自毛泽东以来的所有领导人都试图在一定程度上利用草根民族主义，正如我在《强大的爱国者》一书中所写的。在毛泽东时代，经常有反对美国和苏联的大型游行。就连重新让中国向世界开放的邓小平，也曾用学生的抗议活动，来警告日本领导人缓和其行为。在江泽民时代，美国飞机1999年意外轰炸了中国驻贝尔格莱德大使馆之后，曾爆发大规模的反北约及反美示威。胡锦涛在台上时，爆发过两轮针对日本的抗议活动：一轮在2012年，针对的是日本购买东海中的三个岛屿；另一轮在2005年，针对的是日本申请成为联合国安理会常任理事国。</p>
-<p>至于习近平，把他与毛泽东相比，主要针对的是他把权力集中在自己手中、为自己打造出“习大大”这一魅力形象的努力。但是，与毛泽东不同的是，习近平并没有呼吁群众站起来，对外国列强挥动集体的拳头。到目前为止，习近平对世界展现的是强硬但温和的面孔，依靠中国的物质力量来坚持和捍卫中国的利益，没有受互联网上极端声音的影响。但是，这种自我抑制也许不可持续。由于中国媒体最近对中国领土主张的关注，一次致命的碰撞或挑衅事件，特别是与美国或日本有关的，很可能会引发一种让中国政府难以控制的公众反应。</p>
-<p><b>问：在你的文章中，你描述了中国的党天下与草根示威者之间的复杂关系，以及街头抗议活动如何为</b><b>官员</b><b>提供机会，使他们能够把信号发送给国内外的</b><b>不同</b><b>受众。同时，这些抗议活动也给领导人带来风险。在习近平时代，你看到过这种相互作用吗？</b></p>
-<p><b>答：</b>在过去的三十年里，中国领导人对草根抗议活动有选择地容忍，为了加强强硬的外交立场，允许一些民族主义示威活动发生，为了对外界表现出灵活性、让其放心，也抑制这类抗议活动。但是，这种政府台后导演的抗议活动往往被人怀疑是木偶戏，而不是真正的群众运动。因此，中国官员在管理民间民族主义上，面临一种困难境地。要让“中国人民的感情”在外界观察者眼里可信的话，人民就必须拥有在网上和街头表达他们意见的自由。</p>
-<p>习近平2012年上台前不久发生的反日抗议，凸显了试图在台后导演民族主义示威所带来的国内及外交风险。在中国200多个城市爆发的示威展示了这种危险：针对日本的抗议活动可能会改变方向，<a href="http://www.scmp.com/news/china/article/1038664/anti-japan-protests-turn-violent-shenzhen-guangzhou-and-qingdao" target="_blank" rel="nofollow">比如在南方城市深圳发生的那样</a>，人们开始在政府总部外边聚集。但是，这些与政府导向的偏离，在外国怀疑论者眼里表明了一个证据，那就是，国家支持民族主义，只不过是为国内的不满情绪提供一个方便的出气口而已。</p>
-<p>习近平继承了中国在东海与日本的对峙。防止事态意外升级为战争，以及加倍打击可能让公众产生不满情绪的源头，解释了为什么想成为民间积极分子的人已被告知，目前“不便”组织活动。</p>
-<p><strong>问：习近平将会是自1949年来的第四位受白宫正式邀请，进行国事访问的中国领导人。这对中国的草根民族主义起到什么作用呢？</strong></p>
-<p><strong>答：</strong>不管峰会能否产生任何实质性成果，习近平此次访美都可能在其国内得到正面的描绘。中国对国际尊重的渴望在赋予中国共产党合法性的民族主义叙事中占据中心位置。习近平一直特别强调要达成“<a href="http://cn.nytimes.com/china/20150918/c18xitrip/" target="_blank" rel="nofollow">新型大国关系</a>”，这种关系意味着中美的地位会变得更平等。除非在礼仪上出现了意想不到的疏忽或错失，习近平的国事访问和在联合国的演讲会明确提醒人们，中国是国际社会重要且强大的成员。</p>
-<p>习近平这次访美的外交利益远大于其国内利益。目前，美国商界越来越担心中国的经济政策，共和党候选人也一直批评奥巴马对中国太过软弱，习近平访美行程的积极成果会表明中国仍然致力于国际合作，并驱散当下越发激烈的互相批评的声音。</p>
-<p><strong>问：习近平的阅兵式试图利用中国抗击日本的自豪感。现在中国这种情绪有多广泛呢？</strong></p>
-<p><strong>答：</strong>在中国内地，针对日本的负面态度很普遍。皮尤(Pew)近期的<a title="Link: http://www.pewglobal.org/2014/07/14/chapter-4-how-asians-view-each-other/" href="http://www.pewglobal.org/2014/07/14/chapter-4-how-asians-view-each-other/" target="_blank" rel="nofollow">一份调查显示</a>，信任日本的中国人不到10%——而日本人也不信任中国。没有亲身经历过中日战争的中国年轻人，对日本也有强烈的反感，很多观察人士对此感到惊讶。学校里的国家宣传和爱国主义教育，也倾向于把批评日本变为是正确的政治立场，所以我们很难知道这种负面态度，在中国人心中有多根深蒂固。</p>
-<p>分析民族主义抗议的地理分布，是看待中国民族主义的内部差异的另一个方法。在最近一份与<a title="Link: http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9760278&fileId=S0305741015000417" href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9760278&fileId=S0305741015000417" target="_blank" rel="nofollow">万家瑞(Jeremy Wallace)</a>合作开展的研究里，我们发现在2012年的反日示威浪潮初期，有较多大学生和外来工人的城市，更有可能发生反日抗议活动。</p>
-<p><strong>问：日本首相安倍晋三继续尝试转变日本军队的角色，预期在中国基层会发生什么呢？</strong></p>
-<p><strong>答：</strong>随着安保法案的通过，日本可在海外使用武力，以及在遭遇攻击时援助美国部队。法案得到通过之时，安倍首相也成功绕开了一个更难也更具象征意义的障碍，那就是修改日本宪法。中国官方应该不会鼓励或容忍基层做出强烈反应，有两个原因：其一，日本扩大自身角色受到了华盛顿的支持；其二，中日两国因东海争端而产生的紧张关系，虽然仍不友好但已趋于缓和，而且中方承认安倍在短期内不太可能下台。鉴于中国十分重视经营中美关系，中国对日本扩大军队的角色，以及安倍首相对于日本战时历史那种“不负责任的”态度，除了口头谴责之外，应该就不会采取其他行动了。</p>
-<p><strong>问：我们至今都没有在中国街头看到，有关南海争议的值得关注的抗议活动，即使在去年一个特别紧张的时期，中国工人在越南被抗议者杀害，也没有出现抗议活动。这是为什么？</strong></p>
-<p><strong>答：</strong>压制关于南海争端的街头抗议与中国更广泛的策略一致，那就是扩大中国在区域内实实在在的影响力，同时尝试缓和区域内的强烈反弹。在南海，中国面对越南和菲律宾，毫不犹豫地推动现实中的优势，因此中国在南海争议上的决心是毋庸置疑的。中国人对东南亚国家的民族主义情绪，也比针对日本或美国的情绪更轻，所以中国民间激进活动的“供应”相对较少，也较容易被中国政府压制。的确，是中国对争议岛礁越来越强的控制，引发了越南和菲律宾的民族主义抗议活动。尽管越南暴乱<a title="Link: http://cn.nytimes.com/asia-pacific/20140516/c16vietnam/" href="http://cn.nytimes.com/asia-pacific/20140516/c16vietnam/" target="_blank" rel="nofollow">导致数名中国工人丧生</a>，但中国避免了报复性的抗议活动，并向公众展示了越南方面打击所谓的闹事者的努力。</p>
-<p><strong>问：越南与中国之间有着动荡的历史，但越南共产党却时常研究中国的治理模式，你的研究有多大程度能适用于越南？</strong></p>
-<p><strong>答：</strong>中国不是唯一一个会在外交关系中利用民众情绪的国家。越南政府也容许民间出现抗议活动，藉此向北京表达越南人的愤怒和决心。在关于东南亚的民族主义抗议活动及领土争端的<a href="http://www.jessicachenweiss.com/uploads/3/0/6/3/30636001/ciorciari_weiss_forthcoming_ss_-_nationalist_protests_in_seasia.pdf" target="_blank" rel="nofollow">一篇新论文</a>中，我和约翰·西奥西阿利(John Ciorciari)注意到，在2007年、2011年和2014年，越南政府暂时容忍了反华抗议活动，但是在2009年、2012年和2013年，政府却压制了抗议活动。这个模式可以如此解释：越南希望努力对抗中国在南海的行动，政府却害怕民族主义抗议活动一发不可收拾，于是寻求在两者间取得平衡。“星星之火可以燎原”的风险在去年成真，当时原本和平的反华抗议活动，升级为针对外国工厂的暴乱，其中受影响的许多工厂甚至不是中国工厂。</p>
-<p>威权体制的领袖想要对抗来自外国的压力时，往往会把目光放在街头民众的情绪上。对中国、越南和其他国家的威权领袖而言，他们面对的挑战是如何让那些说法显得可信。即使是在民族主义抗议活动失控时，由于抗议的动机很复杂，如工资过低或工作环境恶劣等，外国仍然可以指责，抗议者并不是真正关心国际争端。</p>
-<div>
-<p>黄安伟(Edward Wong)是《纽约时报》北京分社社长。<br>
-翻译：Cindy Hao、Tang Wing Sze（实习）、 Lee Wing Yan（实习）</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%9A%E5%9B%BD%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%B5/?category=18271" rel="tag">93阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民粹主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B8%E7%89%8C%E5%B1%8B/?category=18271" rel="tag">纸牌屋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -671,7 +676,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -681,5 +686,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/93%E9%98%85%E5%85%
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

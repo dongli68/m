@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%9B%AE%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%8F%88%E8%A6%81%E8%A2%AB%E4%BB%A3%E8%A1%A8%E4%BA%86/" target="cdt-mirror">【网络民议】目测中国妇女又要被代表了</a>
+</h2>
+<p><p>当地时间9月26日，习近平在纽约联合国总部与潘基文共同主持了<a href="http://www.un.org/chinese/News/story.asp?newsID=24782">全球妇女峰会</a>。美国民主党总统候选人希拉里·克林顿在社交媒体推特上发言：“一面迫害女权主义者，一面却在联合国主持妇女权益的峰会？可耻。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-28-at-%E4%B8%8A%E5%8D%8811.04.53.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-28-at-%E4%B8%8A%E5%8D%8811.04.53.png" alt="Screen Shot 2015-09-28 at 上午11.04.53" width="591" height="169"></a></p>
+<p>对此，外交部官员回应，中国妇女事业取得的成就是有目共睹的，<a href="http://mil.news.sina.com.cn/2015-09-28/1432840030.html">几名女权人士被拘捕是因为她们违反法律而非促进女权</a>。据彭博社28日消息，李军华说，“一些组织和个人发表无中生有的评论，或显示出对现实缺乏理解。几名女权人士被捕并非因为她们保护妇女权益，而是因为她们违犯了法律。”</p>
+<p>2015年3月6日曾被警方带走的女权主义者郑楚然（新浪微博<a href="http://weibo.com/u/1693478447?topnav=1&wvr=6&topsug=1">@大兔纸啦啦啦</a>）发微博回应外交部的指控：“不知道‘被抓的女权人士’是不是指在下……如果是的话，检察院不是说证据不足才放我么 外交部和检察院两个部门的话小女子应该听谁的挠墙ing。”</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9635.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9635.jpg" alt="IMG_9635" width="550" height="976"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9636.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9636.jpg" alt="IMG_9636" width="550" height="976"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9637.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9637.jpg" alt="IMG_9637" width="550" height="976"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9638.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9638.jpg" alt="IMG_9638" width="550" height="976"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9639.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9639.jpg" alt="IMG_9639" width="550" height="976"></a></p>
+<p>纯粹：有个毛的发言权，各种删帖，各种五毛混淆视听。这意思是你有发言权，我有删帖权吗？</p>
+<p>风中清扬的树：我上网搜索下到底犯了什么法—“404 not found”</p>
+<p>Jack1973：如果你继续问，那些人违反了哪些法律，能否得到公开公平公正的审判？回应就早已准备好了：不要干涉中国内政</p>
+<p>金剛級戰艦雾岛_天弱求大和：回复@游僧西门月:事实就是抓完了开始研究用什么罪迫害她们，结果研究了一个月，一个罪名都套不上，还超时关押。只好给放了！</p>
+<p>黎明-之前：[赞]可耻[闭嘴] 要是在兲朝，希拉利一定也进监狱了</p>
+<p>wbxxxhhh：希拉里不是批评女权人士被抓，而是批评女权女士被随意罗织罪名抓捕。中国发言人回应称抓人是因为违法。但是法院并没有判决女权人士有违法，可是为了继续关押甚至拖延不判无罪。</p>
+<p>阿毛看电影：哪来的脸皮在联合国输出妇女运动啊，是号召大家把搞运动的都关起来吗？</p>
+<p>天使脸着陆：回复@第七个英雄:所以最美乡村女教师和家暴打死判七年，强奸案曝光受害者，强奸犯屡次轻判出狱再犯，这都不算事儿。 垫底还有阿拉伯和印度呢。</p>
+<p>香妃熊_lx：看这条的热门评论，确实觉得民智已开。除了一些直男癌搞不清状况，还在说中国女权够好的了。绝大部分都认为抓女权五姐妹是不对的。且不论个人观点是否支持女权活动，但这件事从法律的角度就是不对的。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%9B%AE%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%8F%88%E8%A6%81%E8%A2%AB%E4%BB%A3%E8%A1%A8%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%A4%9A%E4%B8%AA%E5%9B%A2%E4%BD%93%E4%B8%BE%E8%A1%8C%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8/" target="cdt-mirror">BBC | 香港“占中”一周年 多个团体举行纪念活动</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150928100840_hk1_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150928100840_hk1_624x351__nocredit.jpg" alt="150928100840_hk1_624x351__nocredit" width="600" height="337"></a><p>9月28日是香港“占中”抗议行动一周年, 当地多个团体在金钟政府总部外举行纪念集会</p></div>
@@ -636,35 +665,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%AF%81%E4%B8%AD%E5%85%B1%E7%BD%91%E7%BB%9C%E7%AA%83%E5%AF%86-%E7%BE%8E%E5%AA%92%E7%88%86%E6%88%90%E9%83%BD%E5%86%9B%E5%8C%BA%E9%BB%91%E5%AE%A2%E8%BA%AB/" target="cdt-mirror">苹果日报｜证中共网络窃密 美媒爆成都军区黑客身份</a>
-</h2>
-<p><p>中国国家主席习近平与美国总统奥巴马在白宫举行「习奥会」前夕，美国《华尔街日报》踢爆中国军方一支代号78020的网络黑客部队，通过起底该部一名黑客军官，再爆中共军方参与网络黑客活动证据。习近平此前在西雅图信誓旦旦，保证中国政府不以任何形式参与网络窃密，《华尔街日报》的报道无疑等于掌掴习近平，令中方难堪。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/26ck1pnew.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/26ck1pnew.jpg" alt="葛星" width="450" height="449"></a><p>葛星的网上举动被美国情报机构追踪，最终确认他是解放军黑客。</p></div>
-<p>中国网络间谍窃密是此次中美会 美方关注焦点，美方多次表示要当面向习交涉。为此中方曾派政法总管孟建柱访美解释；习近平又接受《华尔街日报》书面专访，称中国政府「不会以任何形式参 与、鼓励或支持网络窃密」，「不论是网络商业窃密，还是对政府网络发起黑客攻击，都是违法犯罪」。但话音未落，前天《纽约时报》踢爆560万美国联邦雇员指纹讯息被中方窃取。《华尔街日报》昨日的报道，对中方无疑雪上加霜。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/26ck7p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/26ck7p.jpg" alt="消防演练" width="500" height="334"></a><p>保存部队搞消防演练的照片，证实了其所在部队。</p></div>
-<p><strong>相同网名活跃于社交网</strong></p>
-<p>《华尔街日报》对一名叫葛星的军官起底，揭露这支代号78020的黑客部队。报道指，美国两家网络安全公司ThreatConnect和DGI通过长达5年跟踪，抓住葛的黑客尾巴。葛表面是研究泰国的情报官，曾在杂志发表多篇有关泰国政治的学术文章，但他以「greensky27」网名与一个名叫「Naikon」的军方黑客组织直接关联，「Naikon」惯以钓鱼方式进行网络攻击；葛又以相同网名活跃于多个社交网。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/26ck5p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/26ck5p.jpg" alt="祭祖" width="500" height="334"></a><p>自贴回乡祭祖照片，披露祖籍等个人资料。</p></div>
-<p>美方用技术手段，取得「greensky27」在社交网的登陆密码，获得大量葛的活动、社交网络纪录和照片，包括他与朋友交流时，透露自己毕业于南京解放军国际关系学院（该学院专门培养军事间谍），还贴出学校照片；以及留下他所在办公地区的照片（记者透过这些照片证实他是为78020部队工作）；还有反映其兴趣爱好的生活照、当父亲后抱儿子的照片等。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/26ck6p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/26ck6p.jpg" alt="山地单车照" width="450" height="300"></a><p>贴出放售山地单车照，透露其爱好、姓名及电话等。</p></div>
-<p><strong>敏感日子访东南亚网域</strong></p>
-<p>「greensky27」频繁访问北京的伺服器，并于敏感日子访问东南亚国家网域，例如南海局势紧张时，「greensky27」频频登陆相关国家域名；菲律宾与美展开军事合作，他又在菲国网站十分活跃，其活动时间与内地黑客活动时间_合。但去年5月美国起诉五名中共黑客军官后，其活跃度下降。</p>
-<p>在取得大量证据后，《华尔街日报》记者直接致电葛星，他证实「greensky27」确为自己网名，但得知记者意图后改口，威胁记者称如果见报他就报警。此后不再接电话，网上有关「greensky27」账户的资料被删除。去年遭美国司法部起诉的五名中国军方黑客，也是美方情报机构通过长时间网络跟踪，获得他们的身份资料。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/a2001a.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/a2001a.gif" alt="a2001a" width="550" height="405"></a></p>
-<p><strong>学者：中国网战技不如人</strong></p>
-<p>2013年2月，美国一家网络安全公司发布长篇报告，揭露位于上海浦东新区高桥镇的<a href="http://chinadigitaltimes.net/chinese/tag/61398%E9%83%A8%E9%98%9F/">解放军61398部队</a>，指该部队即军方总参谋部三部（技术侦察部）大本营，是一支黑客部队，专事对欧美网络战；这也是中共首支被曝光的黑客部队。</p>
-<p><strong>网络公司曾揭上海网军</strong></p>
-<p>与今次美方揭发成都军区78020黑客部队的手法相似，美国网安公司也是通过数以百计美国机构遭黑客攻击的反跟踪分析，找出61398部队与这些攻击有密切关连，最后认定该部队就是对美方机构进行攻击的黑客。但中方否认有关指控。</p>
-<p>去年10月，美国网络安全联盟报告称，被视为洪水猛兽的61398黑客部队已不再先进，如今代表中国黑客顶尖水平的是一个名为「Axiom」的小组；该小组渗透美国，受害者包括世界500强公司、支持中国民主团体等，背后是中国情报机构。</p>
-<p>内地军事专家杜文龙指，美国渲染炒作中国对网络安全的威胁，其实美国才是世界最大黑客国，网军逾10万之众，且掌握互联网核心技术。美国不时说抓到中国黑客，中国却抓不到美国的证据，只能说中国技不如人。</p>
-<hr><p><small>© 喜闻乐见 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%AF%81%E4%B8%AD%E5%85%B1%E7%BD%91%E7%BB%9C%E7%AA%83%E5%AF%86-%E7%BE%8E%E5%AA%92%E7%88%86%E6%88%90%E9%83%BD%E5%86%9B%E5%8C%BA%E9%BB%91%E5%AE%A2%E8%BA%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/61398%E9%83%A8%E9%98%9F/?category=18271" rel="tag">61398部队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/78020%E9%83%A8%E9%98%9F/?category=18271" rel="tag">78020部队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%86%9B/?category=18271" rel="tag">中国网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%98/?category=18271" rel="tag">网络战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">网络间谍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -676,7 +676,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/61398%E9%83%A8%E9%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -686,5 +686,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/61398%E9%83%A8%E9%
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

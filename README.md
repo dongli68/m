@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%A4%9A%E4%B8%AA%E5%9B%A2%E4%BD%93%E4%B8%BE%E8%A1%8C%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8/" target="cdt-mirror">BBC | 香港“占中”一周年 多个团体举行纪念活动</a>
@@ -48,7 +48,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">占中一周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%B0%91%E6%80%9D%E6%BD%AE/?category=18271" rel="tag">学民思潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">抗议行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E8%A1%8C%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">游行示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">香港占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%AD%A6%E8%81%94/?category=18271" rel="tag">香港学联</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 13分钟前</small>
+	<small> ============== 18分钟前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%B0%8F%E8%80%81%E9%BC%A0%E8%8D%90%E6%AD%8C%E7%A4%BE-%E8%86%9C%E8%9B%A4%EF%BC%9A%E4%B8%80%E7%A7%8D%E9%9D%92%E5%B9%B4%E4%BA%9A%E6%96%87%E5%8C%96%E7%9A%84%E5%85%B4%E8%B5%B7/" target="cdt-mirror">小老鼠荐歌社 | 膜蛤：一种青年亚文化的兴起</a>
 </h2>
@@ -676,7 +676,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/61398%E9%83%A8%E9%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -686,5 +686,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/61398%E9%83%A8%E9%
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

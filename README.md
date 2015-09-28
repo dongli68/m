@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BB%8F%E6%B5%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%94%A3%E5%9F%B9%E5%9D%A4%E7%97%85%E9%80%9D/" target="cdt-mirror">经济日报｜丁子霖丈夫蔣培坤病逝</a>
@@ -38,7 +38,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E5%9F%B9%E5%9D%A4/?category=18271" rel="tag">蒋培坤</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 29分钟前</small>
+	<small> ============== 1小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E9%A9%AC%E6%B0%B8%E7%94%B0%E6%8B%A6%E6%88%AA%E4%B9%A0%E8%BF%91%E5%B9%B3%E3%80%81%E5%BD%AD%E4%B8%BD%E5%AA%9B%E7%9A%84%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89/" target="cdt-mirror">【CDTV】博讯｜马永田拦截习近平、彭丽媛的视频曝光</a>
 </h2>
@@ -93,7 +93,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%A4%9A%E4%B8%AA%E5%9B%A2%E4%BD%93%E4%B8%BE%E8%A1%8C%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8/" target="cdt-mirror">BBC | 香港“占中”一周年 多个团体举行纪念活动</a>
 </h2>
@@ -165,7 +165,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E6%A0%B7%E5%9B%BE%E6%A3%AE%E7%A0%B4/?category=18271" rel="tag">图样图森破</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/?category=18271" rel="tag">江选研讨会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/?category=18271" rel="tag">膜蛤文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F/?category=18271" rel="tag">谈笑风生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8A%E8%AE%BF%E8%88%AC%E6%B3%A1%E6%B2%AB%E5%B9%B2%E6%89%B0%E4%B8%8D%E4%BA%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/" target="cdt-mirror">环球时报 | “上访”般泡沫干扰不了习近平访美</a>
 </h2>
@@ -641,7 +641,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -651,5 +651,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

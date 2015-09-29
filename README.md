@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E6%97%A0%E8%AE%BA%E6%95%99%E7%A7%91%E4%B9%A6%E8%BF%98%E6%98%AF%E8%80%83%E8%AF%95%EF%BC%8C%E9%83%BD%E5%BA%94%E6%8A%8A%E6%94%BF%E6%B2%BB%E5%AF%BC%E5%90%91/" target="cdt-mirror">人民日报：无论教科书还是考试，都应把政治导向置于首位</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/09/BySFdniCYAAJWHY.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/09/BySFdniCYAAJWHY.jpg" alt="孔子入党" width="525" height="403"></a><br><em>（“孔子入党” by 变态辣椒）</em></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a title="知乎政见专栏｜在美国大学里学「马克思主义原理」，他们是这么教的" href="http://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%E6%94%BF%E8%A7%81%E4%B8%93%E6%A0%8F%EF%BD%9C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E9%87%8C%E5%AD%A6%E3%80%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86/">知乎政见专栏｜在美国大学里学「马克思主义原理」，他们是这么教的</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/05/%E3%80%90%E4%B9%A6%E8%AF%84%E3%80%91%E9%99%88%E8%8A%9D%EF%BD%9C%E6%80%8E%E6%A0%B7%E8%AE%BA%E8%AF%81%E6%88%91%E5%85%9A%E6%B0%B8%E8%BF%9C%E6%AD%A3%E7%A1%AE%EF%BC%9A%E4%B8%A4%E7%A7%8D%E5%85%9A%E4%B9%89/">陈芝｜怎样论证我党永远正确：两种党义论与四种党正论</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E7%BE%BD%E6%88%88%EF%BD%9C%E6%A8%8A%E5%BC%93%EF%BC%9A%E8%BE%A9%E8%AF%81%E6%B3%95%E4%B8%8E%E6%94%BE%E5%B1%81/">羽戈｜樊弓：辩证法与放屁</a></li>
+</ul></blockquote>
+<p>最近，在某高校一次考试中有这样一个题目：结合材料分析马克思主义与儒家思想的关系。其考查重点是对马克思主义中国化的认识。题目有现实意义，也有知识含量，<strong>然而评分标准却误将马克思主义与儒家思想简单地平行论述，没有突出马克思主义的指导地位</strong>。这或许是出题人的疏忽，但这种疏忽恰恰反映了社会上有些人包括部分理论工作者<strong>对如何把握马克思主义与儒家思想的关系、如何坚持马克思主义的指导地位还存在模糊甚至错误认识</strong>。这样的问题应引起足够重视。</p>
+<p>在高校考试中，考查学生对马克思主义基本原理和基本立场的掌握情况十分重要。材料分析这种开放性问题，不仅考查学生对知识点的掌握情况，而且考查学生用马克思主义基本原理分析问题、解决问题的能力。但<strong>无论教科书还是考试，都应把政治导向置于首位</strong>，把马克思主义指导思想的地位和基本方法论的价值取向切实体现出来，更好地<strong>培养和武装青年学生</strong>。前述考题评分标准没能体现这一点，就有可能误导学生，使其认为马克思主义与其他一些思想体系的地位是等同的。而这是一种必须加以纠正的误区。</p>
+<p>[…]唯物史观告诉我们，思想意识是一定生产方式和社会存在的产物，而<strong>儒家思想是小农经济生产方式、封建专制社会的产物</strong>。[…]应该清楚，马克思主义中国化不是把马克思主义糅进儒家思想中，而是用马克思主义批判地吸收儒家思想，这里面的主次关系不能颠倒。</p>
+<p>[…]青年学生面临的选择较多，树立正确的世界观、人生观和价值观尤为重要。马克思主义既是科学的世界观，也是正确的方法论，应成为大学生成长的根本引领和素质养成的核心内容。高校思想政治教育是社会主义核心价值观建设的重要阵地，应采取有效措施防止和消除弱化马克思主义指导地位的现象，牢固树立和坚持马克思主义的指导地位。</p>
+<p><em>（作者为南京政治学院上海校区教授）</em></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/zhuxuedong" target="_blank">朱学东</a><i title="微博个人认证 "></i><i></i>：读下来，我所受的唯物史观教育告诉我，这完全是一篇非唯物史观的强词夺理的批判文章<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@烧柴柴柴柴柴：是啊是啊，然而你们的马克思也不是百分百原装货啊</p>
+<p><a href="http://weibo.com/n/%E7%BD%97%E4%BA%9A%E8%92%99?from=feed&loc=at" target="_blank">罗亚蒙</a>: 也可以是“拍马批儒”，<img title="[酷]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]"> //<a href="http://weibo.com/n/%E8%90%A7%E5%90%AB?from=feed&loc=at" target="_blank">@萧含</a>:应该是：扬马批儒。//<a href="http://weibo.com/n/%E7%BD%97%E4%BA%9A%E8%92%99?from=feed&loc=at" target="_blank">@罗亚蒙</a>: 【再来一次“评马批儒”？】<img title="[疑问]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/yw_org.gif" alt="[疑问]"></p>
+<p><a href="http://weibo.com/2202464023" target="_blank">网易玻璃天花</a>：汉奸还是卖国贼的行为？<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@sparkling0902：马克思同意了么</p>
+<p>@和平鸡：难道马克思主义没有糟粕？如果没有是不是违反了辩证法？</p>
+<p>@泉州伍少杰: 现代“儒者”幻想重弹“中学为体，西学为用”的老调就能实现世界大同。奈何 旧时王谢堂前燕，此巢已无产权证。</p>
+<p>@北辰慢慢跑：你国到处输出孔子学院，改个名字叫马克思学院如何？</p>
+<p><a href="http://weibo.com/2979399240" target="_blank">精神漫游者_亦然V</a>：而且我国啥时要变成政教合一的国家了吗？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@封龙君:21世纪的宗教国家你好</p>
+<p>@薛习园地_303：一篇满嘴喷粪的文章，建议作者重新学习一下马克思的成长和资本论。写一篇伦理和论据更加充分，更加具体，更加能让人信服的文章，用真 诚的真正的炎黄子孙的态度发表出来。当我认识到曾经坚信的信仰就是一个弥天大谎的时候，我曾经奔溃。作者你居然能卖着良心写出如此无耻的文章，真佩服你的厚颜无耻！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E6%97%A0%E8%AE%BA%E6%95%99%E7%A7%91%E4%B9%A6%E8%BF%98%E6%98%AF%E8%80%83%E8%AF%95%EF%BC%8C%E9%83%BD%E5%BA%94%E6%8A%8A%E6%94%BF%E6%B2%BB%E5%AF%BC%E5%90%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6/?category=18271" rel="tag">儒家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6%E6%80%9D%E6%83%B3/?category=18271" rel="tag">儒家思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C-%E5%8D%97%E6%A9%8B-%E6%97%85%E7%BE%8E%E5%AD%B8%E8%80%85-%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B5%82%E6%96%BC%E8%A6%8B%E5%88%B0%E4%BA%86%E8%A8%AA%E6%B0%91/" target="cdt-mirror">东网｜ 南橋 旅美學者 習近平終於見到了訪民</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201509260816intl51.jpg" alt="201509260816intl5" width="545" height="307"><br>
@@ -598,27 +631,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A%E5%88%B0%E7%BE%8E%E5%9B%BD%E5%8E%BB%E4%B8%8A%E8%AE%BF/" target="cdt-mirror">东网 ｜东步亮：到美国去上访</a>
-</h2>
-<p><p>习近平访美，最触动中国普通民众内心的新闻，不是习奥会有多大的排场，不是中美达成什么协议，不是双方增进了哪些共识，更不是两国第一夫人在动物园里灿烂的笑容，而是——在浩浩荡荡的习近平车队行进过程中，来自中国国内多个省市的访民，拦住了习和习夫人的车，钻到了习的车底下。</p>
-<p>在我看到中国访民们在美国街头呐喊、示威、拦截车队视频的那一刻，我的心情真可以用一个词来形容：悲欣交集。悲的是，吾国如此多小民，竟然需要万里迢迢，跑到他国去上访，去拦截自己国家的领导人，这是有怎样的冤屈，这是在吾国怎样地陈情渠道不畅，才需要如此去曲线喊冤？欣的是，这事儿终于曝露在社交媒体的聚光灯下，让全世界人民都知道了，访民们冤情解决有望了，而更多的访民可能受此启发，找到了新的上访渠道，他们绝望的生活里又产生了一线希望。</p>
-<p>据说，钻到习近平车底下的北京访民李焕君，家被强拆，四处喊冤，大阅兵时曾想接近习未成，这次成功“拦轿喊冤”之后，习的随行人员已接受了她的相关材料，而且很快就已经有领导找到其在北京的家人谈话，事情解决有了希望——速度何其之快。</p>
-<p>我不知道习近平和他的中国随行官员们见到这些访民时，是何等感受。美国之音的报道说，李焕君和上海访民葛丽芳钻到加长版凯迪拉克的车底，将车拦截下来时，习近平正坐在那辆车里，葛丽芳和李焕君看到了习近平，习近平与访民对视了几秒钟。我们好奇的是，在那一刻，习近平想到了什么？在那之后，习近平又会怎么做？也许这件事对他根本没有丝毫触动，因为他原本就是这样的铁石心肠；也许在他看到她们激烈举动的一刹那间，也有那么一丝的震惊，从而开始反思和警醒自己——假如他还是一个有一点正常良心的人的话。</p>
-<p>访民们在现场一直高喊着一个口号：“习近平，见访民”。这些访民之所以不远万里，耗费巨资，克服重重困难，来到异地他乡拦截习近平的车队，无非因为他们在中国正常的上访途径走不通，不要说见习近平，连一个能面对面解决问题的小官员都见不着，很可能上访着上访着，还被送到了久敬庄或安元鼎的黑监狱里，或者被扭送到了精神病院。他们能跑到美国来，已算是他们的幸运。有这样的经济基础能够去美国的访民，本就不多；而能想到这个渠道的，已是相当有智慧的访民。</p>
-<p>通过视频，我们看到了美国警察是如何对待这些上访的群众：他们不打，不骂，拦阻也没有中国警察那么野蛮；虽然也把人从车底下拖出来，但带到警戒线外就释放；虽然也把人戴上手铐带走，但一个多小时后就让人离开。更重要的是，他们没有像中国警察和特务那样，在“贵宾”到来之前，就先把人在家中给控制起来，不让你离开家，带你去“旅游”，打得你半死。在中国，即便你混到了现场，也会被层层隔离开，根本不可能近距离接触到目标人物。如果“有幸”钻到了领导人的车底下，则一定会有寻衅滋事罪和煽动颠覆国家罪的罪名等着你，让你去坐牢。</p>
-<p>在美国，“上访”的还一个好处是，法律途径也是走得通的。这次参与的长春访民马永田，就在美国起诉了习近平，并且被法院受理。</p>
-<p>这次访民对习近平的拦截势必产生示范效应。接下来，每有中国领导人外访，全国各地的维稳官员们的好差事就会来了：他们今后将要到美国、德国、英国等西方“敌对势力”国家，去拦阻本省市出去告洋状的访民。维稳的经费又要增加了。各地出国出境的海关、机场里拦截访民的故事，又要多起来了。</p>
-<p>把中国国内的事情解决好，真的那么难吗？贵党不行，就让别人上嘛！</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A%E5%88%B0%E7%BE%8E%E5%9B%BD%E5%8E%BB%E4%B8%8A%E8%AE%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -630,7 +642,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -640,5 +652,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

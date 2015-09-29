@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,101 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C-%E5%8D%97%E6%A9%8B-%E6%97%85%E7%BE%8E%E5%AD%B8%E8%80%85-%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B5%82%E6%96%BC%E8%A6%8B%E5%88%B0%E4%BA%86%E8%A8%AA%E6%B0%91/" target="cdt-mirror">东网｜ 南橋 旅美學者 習近平終於見到了訪民</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201509260816intl51.jpg" alt="201509260816intl5" width="545" height="307"><br>
+中國人期待已久的習近平訪美，有諸多看點，實質性內容卻不甚了了。從電視上看，習近平雖然還顯得精神不足，但比半個多月前在天安門城樓上強多了，我相信他站在奧巴馬身邊感覺比站在江澤民身邊舒服，因爲奧巴馬的一切言行都是可以預料的，而江澤民和習近平的關係，風雲莫測，不可能輕鬆自在。習近平這次訪美，和奧巴馬談出什麼成就暫且不說，他個人應該是有收穫的，那就是，他終於見到了傳說中的中國訪民。</p>
+<p>9月25日晚上的白宮國宴是這次習近平訪美期間最爲隆重的儀式，是美國總統能夠給習主席的最大面子。當習近平的車隊駛近白宮的時候，幾位中國訪民突然衝向車隊，訪民李煥君臥倒在地，截停車隊；訪民馬永田攔截的汽車不得不急轉而衝上馬路牙子。據在場者說，習近平隔着車窗，和訪民們對視了幾秒鐘。</p>
+<p>不平常的是，事後習近平的兩位助理前來和李煥君等短暫交談詢問冤情，李煥君乘機將她們的冤情訴狀遞交給他們。網上出現了訪民和習近平助理的合影，從照片上看，助理彬彬有禮，頗通情達理的樣子，而李煥君神情愉快，笑容滿面。這是可以理解的，畢竟，全中國的訪民，有幾個能承蒙國家主席助理的接見聆聽。</p>
+<p>訪民馬永田因攔截車隊而被警察逮捕。在美國，因爲政治抗議而違反街頭安全規則被捕，一般都會在最短時間內獲釋。馬永田在一個半小時後獲釋。有意思的是，在她被釋前，她家鄉的地方政府已經找到她的家人，一改以往的粗暴蠻橫態度，表示要談談，設法解決問題，這辦事效率可謂高矣。</p>
+<p>顯然，習主席在白宮和奧巴馬舉杯祝酒的百忙之際，對訪民事件作出了指示。畢竟，這也是第一次，習主席和訪民，他的人民，面對面了一次。這次面對面發生在美國白宮門外，和慶豐包子店裏面對一群媚笑的感受是不一樣的。</p>
+<p>訪民是中國的特產，其他國家是沒有的，因爲在中國的政府結構中，有一種叫做信訪制度的東西，國務院專門設立國家信訪局，各級地方政府和人大、政協也有信訪辦公室。它的起源據說可以追溯到舊時代百姓冒死到衙門擊鼓鳴冤或者攔轎告狀。信訪的目的是給老百姓提供一個從地方官員控制中突圍，向上一級政府訴說冤情的機會。秋菊的丈夫給幹部踢了一腳，她要到上面討個說法，就是走的訪民之路。</p>
+<p>最近二三十年，全國各地訪民數量劇增，而且紛紛湧向北京。中央要求地方把矛盾解決在當地，就像老虎要黃鼠狼不吃雞。地方政府爲了達到中央的要求，發明的辦法叫「截訪」，於是出現了歷朝歷代都沒有過的事情，地方衙門派出的便衣捕快橫行京城，把本地訪民強行綁架，強行拘禁在秘密地點，強行押解回鄉，訪民的冤屈就這樣一層一層地累積起來。</p>
+<p>對世界上其他任何國家來說，信訪制度和訪民的存在是完全不可理解的。國家有司法制度，有各級法庭和既定司法程序，爲什麼一個現代國家不動用司法制度來解決民事衝突和行政不作爲等問題呢？</p>
+<p>答案只能是，中國的司法體系解決不了訪民們的問題。中共執政六十多年，從來沒有想到要把司法建設成能夠保障民衆權益和社會公正的制度，而是把司法視爲黨的一種政治工具。黨始終要領導司法，領導法庭，領導法官，甚至領導律師。所以，黨最不願意聽的一句話就是全世界法治國家的最基本原則：司法獨立。習近平也是如此，而且明確肯定，司法獨立不僅不搞，而且連說都不讓說。</p>
+<p>司法不獨立，法庭就成爲地方政府尤其是地方黨的一把手的馴服工具，司法權力必然會腐敗。當地方政府和利益集團結成一體，強拆、掠奪、貪污腐敗甚至欺男霸女的時候，受傷害的百姓找到當地法庭卻有其門而不得入，那就只能上訪。如果沒有上訪這條路，恐怕早晚只能造反了。官逼民反，民不得不反，歷史上這樣的事情還少嗎？</p>
+<p>所以，信訪制度是作爲一個洩氣閥而存在的。信訪制度的原意是讓老百姓有機會下情上達，解決問題則依靠上級政府從上往下的干預。中國傳統文化相信清官，在心理上認定，沒有什麼比高層的清官更快更爽地解決民間冤屈。歷朝歷代的統治者都在利用這種文化心理，只要老百姓還盼着清官，整個制度就還不會崩潰。盼望清官的心理是統治的文化基礎。</p>
+<p>信訪制度的致命點和司法體系是一樣的，都在黨的領導之下，都把黨的利益放在首位。在過去一段時間裏，援助訪民的維權律師和公益志願者受到了政府的最無理打壓。在習近平訪美之前的一段日子裏，有訪民在中國大使館門口申冤，忍凍捱餓，數次昏倒在人行道上，連美國警察都看不過去，主動進大使館交涉，卻碰了個釘子。顯然大使館是不會理會這樣的訪民請願的。</p>
+<p>中國各級政府對訪民的打壓，已經使得信訪制度成爲一個人權問題。洩氣閥和下情上達的功能正在消退，漸趨消失。習近平執政後，已經越來越顯露出他脫離社會、脫離民間、脫離民衆疾苦而成爲孤家寡人的跡象。閱兵式上的孤獨感，習近平自己不會感覺不到吧？在這樣的時候，在美國白宮門外和訪民們對視幾秒鐘，無疑對習近平起到了棒喝的作用。到慶豐包子鋪去吃炒肝，讀環球時報聽紅歌，是了解不到民情的。民情在訪民中間，就看你去不去了。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%9C%E7%BD%91%EF%BD%9C-%E5%8D%97%E6%A9%8B-%E6%97%85%E7%BE%8E%E5%AD%B8%E8%80%85-%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B5%82%E6%96%BC%E8%A6%8B%E5%88%B0%E4%BA%86%E8%A8%AA%E6%B0%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 15分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%BB%96%E7%9A%84%E6%A0%B8%E5%BF%83%E9%9B%86%E5%9B%A2/" target="cdt-mirror">纽约时报 | 习近平和他的核心集团</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/25advisors-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/25advisors-articleLarge.jpg" alt="周三，习近平在华盛顿州埃弗雷特的波音工厂出席活动，他的两位主要幕僚王沪宁（右三）和栗战书（右四）一同出席。" width="550" height="409"></a><p>周三，习近平在华盛顿州埃弗雷特的波音工厂出席活动，他的两位主要幕僚王沪宁（右三）和栗战书（右四）一同出席。</p></div>
+<p>中国国家主席的政策顾问王沪宁曾于1988年在美国作了一次六个月的旅行，他为一部400页的回忆录带回来不少笔记。</p>
+<p>“美国人在乎实力，”他在美国海军学院观看了一场橄榄球赛后写道。“橄榄球虽然有战术，但严格地说没有什么精致的战术，赛的主要是力量。”</p>
+<p>他继续写道：“这反映了美国人的精神，那就是，在短时间里靠力量实现一个目标。美国人在诸如军事、政治、经济等许多方面都坚持这种精神。”</p>
+<p>习近平正在对美国进行首次<a href="http://cn.nytimes.com/china/20150921/c21xijinping" target="_blank" rel="nofollow">国事访问</a>，白宫周五的一整天里排满了隆重的仪式和外交活动，陪同习近平来访的一小群顾问中就有王沪宁。</p>
+<p>现年59岁的王沪宁是共产党精英层的政治局成员，他曾是上海的一位政治学教授，专门研究美国社会，给习近平的两位前任当过顾问。他在做研究的过程中结识了美国的学者和官员。</p>
+<p>然而，那些过去认识王沪宁的人说，他已经变得难以接近，对发给他的对话邀请置之不理。美国官员发现，开国际论坛时，很难在场外找他随便聊聊。</p>
+<p>美国和其他西方官员说，不仅是王沪宁保持这种冰冷的距离，其他与习近平同行的顾问也是如此，包括职位相当于白宫幕僚长的<a href="http://www.chinavitae.com/biography/Li_Zhanshu%257C365" target="_blank" rel="nofollow">栗战书</a>，以及习近平的首席经济顾问<a href="http://www.chinavitae.com/biography/Liu_He%7C1291" target="_blank" rel="nofollow">刘鹤</a>。</p>
+<p>这个问题给美国和其他国家提出了一个巨大的挑战。从某种标准来看，习近平的政府是共产党统治的66年中最不外露的。</p>
+<p>在过去的几十年里，外国官员曾与中国高级官员或助手说得上话，并相信那些人能代表他们的领导人。最著名的例子就是毛泽东时代的中国总理周恩来，基辛格与周恩来曾就中美和解进行过<a href="http://www.nytimes.com/2002/03/03/weekinreview/word-for-word-kissinger-in-china-beijing-1971-oh-to-be-a-fly-on-the-great-wall.html" target="_blank" rel="nofollow">秘密谈判</a>。</p>
+<p>而在习近平时代，那些通道已不复存在。</p>
+<p>“目前在中美关系上我们面临的一个问题是，我们基本上不了解这些人，”约翰·霍普金斯大学(Johns Hopkins University)高级国际问题研究院(School of Advanced International Studies)中国部主任戴维·M·兰普顿(<a href="http://www.sais-jhu.edu/david-lampton" target="_blank" rel="nofollow">David M. Lampton</a>)说。“我觉得，我们对习近平下面的人中，谁能代表他讲话，没有很好的了解。”</p>
+<p>习近平核心集团的成员拒绝与西方官员发展关系的事实，与北京的一个基本信念相符，那就是认为西方思想和西方影响将削弱共产党，并将导致“颜色革命”。</p>
+<p>“共产党如果认为自己处在外部和内部力量的包围之下的话，人的本能反应就是，让自己的组织变得更加严密，以减少流到外部的信息，”兰普顿说。“另外，共产党也有那种从事秘密阴谋活动的列宁主义背景。”</p>
+<p>人们对习近平还有一个普遍的共识，那就是他与同事和顾问、尤其是那些国家部委的技术官僚们保持着更远的距离，比其他中国领导人保持的距离都远，他作决策主要依靠自己的知识和直觉。当习近平想听别人的意见时，他更常见的做法是开党小组会。</p>
+<p>习近平是22个“领导小组”中七个的组长，这些小组是在从经济到网络安全等一系列事务上发挥作用的不透明的政策委员会。习近平还设立了国家安全委员会，这又是一个秘密小组，其作用是协调针对内外威胁的安全策略，以捍卫共产党的江山。</p>
+<p>“我相信都是习近平主席在做主，”北京的中国外交学院教授苏浩说。“他是最高领导人，主要的政策只能来自他。其他人只能在这个过程中给予他帮助。”</p>
+<p>“在习近平身上我们看到一些新东西，”有关中国近代史的《富强》(<a href="http://cn.nytstyle.com/culture/20130722/c22kahn/" target="_blank" rel="nofollow">Wealth and Power</a>)一书的作者之一鲁乐汉(John Delury)说。“头号人物与其他人之间的距离从来没有这么大过。”</p>
+<p>习近平严格坚持其权威地位、不放弃任何权力的做法，可能是他文革期间经历的结果。鲁乐汉提到那代人时说，“信任是他们所缺少的东西。”</p>
+<p>还有人说，习近平从前任胡锦涛的经历中习得了有关掌权重要性的一课：江泽民退休之后仍然在幕后操纵权力，令胡锦涛工作起来束手束脚。</p>
+<p>“这教会了他不要怎么做：不要让人在底下发展势力，要让每个人都有点不安稳的感觉，”克里斯托弗·K·约翰逊(Christopher K. Johnson)说。他曾是中央情报局(Central Intelligence Agency)的中国问题分析师，现在供职于华盛顿国际战略研究中心(Center for Strategic and International Studies)。</p>
+<p>因此，习近平政府中没有戴秉国那样的角色。戴秉国在胡锦涛执政期间担任中国外交政策方面的最高官员，与白宫官员保持着联系。这个职位现在由<a href="http://www.chinavitae.com/biography/Yang_Jiechi%257C1885" target="_blank" rel="nofollow">杨洁篪</a>担任，但权力已被削弱。</p>
+<p>“国家安全顾问汤姆·多尼隆(Tom Donilon)和戴秉国之间建立了一条有趣的通道，”前白宫官员埃文·E·梅代罗斯(Evan S. Medeiros)说。“我们知道戴秉国与胡锦涛有很密切的个人关系。”</p>
+<p>国际战略研究中心的亚洲问题高级顾问葛来仪(Bonnie S. Glaser)表示，让她感慨的是，美国官员在与中国同行打交道时“并不知道这些讯息是否会传达到习近平那里”。</p>
+<p>了解中国政治内情的人士称，习近平只信任极少数人。最明显的一个是中央纪律检查委员会书记、67岁的<a href="http://www.economist.com/news/china/21647295-chinas-second-most-powerful-leader-admired-and-feared-devil-or-mr-wang" target="_blank" rel="nofollow">王岐山</a>。习近平雄心勃勃的反腐运动就是由他主持的。王岐山是政治局的七名常委之一，喜欢看美国电视剧《纸牌屋》(House of Cards)。从很多方面而言，他比国务院总理<a title="Link: http://www.gov.cn/guowuyuan/lkq.htm" href="http://www.gov.cn/guowuyuan/lkq.htm" target="_blank" rel="nofollow">李克强</a>的实权更大。</p>
+<p>知情人士称，经济政策虽然理应由李克强负责，但习近平坚持当最后的拍板人。部分因为在于，习近平可以向刘鹤咨询意见。63岁的刘鹤是一位经济学家，有西东大学(Seton Hall University)和哈佛大学的硕士学位。</p>
+<p>刘鹤是中央财经领导小组办公室主任。他写过一些文章，称中国需要转向消费主导型增长模式，并拥抱市场的力量。美国官员表示，他在一些会晤中也是这么说的。</p>
+<p>与习近平关系最近的人，也许是65岁的中央办公厅主任栗战书。中国官员经常把在地方任职时结识的官员带入自己的小圈子。1983年到1985年间，栗战书在河北省无极县担任县委书记，而旁边正定县的<a href="http://cn.nytimes.com/china/20121001/c01xi/" target="_blank" rel="nofollow">县委书记就是习近平</a>。</p>
+<p>一名知情人士称，这两个人当时“意气相投”，“经常一起喝酒”。两人的父辈都曾在中共成立早期为之效力，栗战书还写过文章，深情地谈到在1949年为共产党战死的一名叔父。</p>
+<p>栗战书在地方逐步升迁，从西安市委书记、黑龙江省长，当到贵州省委书记。2012年，当时担任中央办公厅主任的<a href="http://cn.nytimes.com/china/20121205/c05crash" target="_blank" rel="nofollow">令计划</a>因丑闻下台后，栗战书接任。当年11月，栗战书入选中央政治局。</p>
+<p>作为中央办公厅主任，栗战书负责处理习近平的各种事务。但是，他也在政策和外交方面发挥了核心作用。今年3月，栗战书为习近平访俄做准备，在<a title="Link: http://en.kremlin.ru/events/president/news/47887" href="http://en.kremlin.ru/events/president/news/47887" target="_blank" rel="nofollow">莫斯科会见了俄罗斯总统弗拉基米尔·V·普京(Vladimir V. Putin)</a>。通常这种事情是由国务委员来处理的。</p>
+<p>更重要的是，习近平将中央国家安全委员会的执行机构放在了办公厅之下，也就是隶属栗战书管辖。59岁的蔡奇是该委员会办公室专职副主任，曾在福建和浙江两省与习近平共事。</p>
+<p>习近平还会听取“太子党”成员的非正式意见；“太子党”指的是第一代党内领导人的子女。其中一人是64岁的解放军政委刘源上将。刘源是一名<a title="Link: http://www.nytimes.com/1987/05/09/world/tanzichong-journal-comrades-in-death-mao-and-a-victim.html" href="http://www.nytimes.com/1987/05/09/world/tanzichong-journal-comrades-in-death-mao-and-a-victim.html" target="_blank" rel="nofollow">前国家主席</a>之子，在习近平的支持下，他在军中推动了<a title="Link: http://cn.nytimes.com/china/20140401/c01military/" href="http://cn.nytimes.com/china/20140401/c01military/" target="_blank" rel="nofollow">反腐运动</a>。</p>
+<p>“刘源在这里扮演了非常重要的角色，”约翰逊说。“他对美国意见很大，而这些意见并不友好。刘源和习近平的其他一些亲信一起在推动‘颜色革命’式的思维。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%BB%96%E7%9A%84%E6%A0%B8%E5%BF%83%E9%9B%86%E5%9B%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中央纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E5%B1%82/?category=18271" rel="tag">领导层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">颜色革命</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E6%9C%89%E4%B8%80%E7%A7%8D%E8%AE%B0%E8%80%85%E7%9A%84%E8%81%8C%E4%B8%9A%E9%A3%8E%E9%99%A9%E5%8F%AB%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB/" target="cdt-mirror">旧闻评论 | 有一种记者的职业风险叫“虚假新闻”</a>
+</h2>
+<p><p>旧版署近日发布十五条虚假新闻及其处理结果，其中认定前南都记者王星采写的某官员身故报道为虚假新闻，并且按照“凭空捏造”、“无中生有”的判定标准，处以禁业五年的处罚。王星发表个人声明，否定“虚假新闻”的指控及惩罚，得到业内同行附议。</p>
+<p>根据王星的声明内容，对该名官员属于自杀身亡还是急病过世，属于操作上的疏漏，是新闻生产过程中产生的问题。这与主观故意地制造假新闻，存在根本的区别。旧版署的处罚依据，无法回应新闻生产过程中的现实障碍，似乎也不打算检讨相关条规。</p>
+<p>这件事令人想起《新闻记者》杂志2012年十大虚假新闻评选，将经济观察报关于“分拆铁道部”的报道认定为假新闻，同样引发执行记者的愤懑。后来的事实发展证明“分拆”为真，只是在尚未明朗时，报道走在了前头，而且引起权力恼怒及反弹。</p>
+<p>为经观报道是否属于假新闻，评委与新闻记者之间有过激烈的争论。评委僵化地认为，因为有经观的道歉声明，有铁道部的否认声明，有记者被处罚的事实，因此假新闻的判定成立。记者抗议的，是这种否认新闻生产过程、无视处罚所依据的强权逻辑。</p>
+<p>两相对比，可以看到这些年过去，关于虚假新闻的认定，依旧没有一个公认的标准，缺乏一个公平、公正、公开的认定程序，以致于在结果出来后，难以服众，除了展现部门傲慢与颟顸，对虚假新闻“一锅端”的自由裁量，已经背离了它所宣称的正当目的。</p>
+<p>现有的对所谓“虚假新闻”的认定，其致命缺陷是：无视新闻生产的规律，否认存在着一个不断求证、真相逐渐还原的报道过程。而是将某个未完成的报道从生产流程中孤立出来、强行摘取出来，一叶障目不见森林。对虚假新闻的认定背离了“新闻”，这是最令人寒心的。</p>
+<p>不否认有故意捏造的报道，纯粹出于恶意，但这种东西已经与真正的新闻没有关系。而且，这种类型的假新闻，判断起来并不困难。问题在于，现有的评判标准毫无检讨的自觉，反而是将各种虚假新闻的成因混淆到一起，客观上在维持一种滥用的、无节制的评判权。</p>
+<p>在另一方面，随着新闻环境越来越严峻，掌握一手材料的部门变得越来越强势，也越来越倾向于放弃澄清事实的责任，令真相湮没在封锁中。这种严重的信息不对称，对正常的新闻求证程序造成了挑战，频繁伤害事实与真相。虚假新闻的评定，对此采取了冷酷的态度。</p>
+<p>无论是不加甄别地对待虚假新闻的生成原因，还是不尊重新闻生产规律，抑或将虚假新闻与未完成的新闻搅和在一起惩罚，看似是偷懒，也有人善意地理解是评判者的能力不足，但实际上确立了对新闻生产予取予夺的杀威棒，这近似于故意追求某种强权震慑。</p>
+<p>回到王星的报道上，官员身亡的原因处在黑匣子里，只要部门不发声，它就一直处于盲区。一旦记者遵循新闻规律去报道，就会因信息不对称掉进“陷阱”，而且无处申冤，直到被“虚假新闻”盖棺定论。过宽的自由裁定，以及部门对真相的垄断，构成了记者严酷的职业风险。</p>
+<p>一边是新闻报道异常艰难的求证过程，一边是与羸弱的、覆盖范围极广的评定依据不对称的行业行政惩罚，记者要如何选？王星这样的记者选择前者，那就很可能遭遇后者。更多的记者会放弃报道，避开风险。虚假新闻的评定，建立起劣币驱赶良币的扭曲逻辑。</p>
+<p>虚假新闻当然要治理，但在治理前需要做好多工作，比如解决虚假新闻的准确定义，分清楚虚假“结果”的成因，让贫瘠的认定依据变得扎实，尤其在松散的行业依据与严厉的行政处罚之间建立合法性基础，如果没有这些检讨作为起点，虚假新闻的认定本身也会变得虚假。</p>
+<p>2015/9/28</p>
+<p><strong>相关阅读：</strong><a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%8D%8E%E7%BD%91-15%E5%AE%B6%E5%AA%92%E4%BD%93%E5%88%8A%E5%8F%91%E5%81%87%E6%96%B0%E9%97%BB%E8%A2%AB%E9%80%9A%E6%8A%A5/" target="_blank">新华网 | 15家媒体刊发假新闻被通报</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E6%9C%89%E4%B8%80%E7%A7%8D%E8%AE%B0%E8%80%85%E7%9A%84%E8%81%8C%E4%B8%9A%E9%A3%8E%E9%99%A9%E5%8F%AB%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A/?category=18271" rel="tag">处罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E8%87%AA%E7%94%B1/?category=18271" rel="tag">媒体自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%BF%97%E6%A0%87/?category=18271" rel="tag">宋志标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">旧闻评论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E8%A7%84%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">违规案件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BB%8F%E6%B5%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%94%A3%E5%9F%B9%E5%9D%A4%E7%97%85%E9%80%9D/" target="cdt-mirror">经济日报｜丁子霖丈夫蔣培坤病逝</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/03GC003_.jpg" alt="_03GC003_" width="549" height="436"></p>
@@ -527,109 +619,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%9B%BD%E5%AE%B4%E8%90%BD%E5%B9%95-%E4%B9%A0%E5%A5%A5%E4%BC%9A%E6%88%90%E6%9E%9C%E4%BA%AE%E7%9B%B8/" target="cdt-mirror">德国之声｜“中国风”国宴落幕 习奥会成果亮相</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard12110.jpg" alt="Clipboard12(110)" width="550" height="310"></p>
-<p>周五的习奥会结束后，两位领导人携夫人参加晚宴。次日，中国外交部发布习近平访美成果清单，其中双方同意推进“共同确定的重大腐败案件的办理”、“打击遣返逃犯”受到关注。</p>
-<p>中国国家主席习近平和美国总统奥巴马周五举行峰会后，中国外交部周六（9月25日）发表声明表示，双方决定继续以中美执法合作联合联络小组（JLG）为主渠道，进一步落实好两国领导人达成的有关共识，采取切实措施，推进双方共同确定的重大腐败案件的办理。</p>
-<p>声明还指出，双方同意加强在预防腐败、查找腐败犯罪资产、交换证据、打击跨国贿赂、遣返逃犯和非法移民、禁毒和反恐等领域的务实合作。“在追赃领域，双方同意商谈相互承认与执行没收判决事宜。”声明中没有提及具体案件。</p>
-<p>习近平访美前不久，美国先后将贪污贿赂犯罪嫌疑人杨进军和邝婉芳遣返回中国。两人均已在美国潜逃14年。今年4月，中国发布红色通缉令缉拿百名外逃人员名单。杨进军是美国首次向中国遣返的一位受“红色通缉”的人员。</p>
-<p>会谈后，奥巴马和习近平在白宫玫瑰花园共同出席新闻发布会</p>
-<p>中国外交部发言人洪磊在9月24日的例行记者会上就邝婉芳被遣返回应说，这是继美方强制遣返杨进军后，中美反腐败司法执法合作的又一重要行动。他同时指出，中方愿同国际社会积极开展反腐追逃合作，希望在这方面进一步得到美国的支持和配合，让腐败分子在海外永无容身之所，希望双方进一步加强互动，开拓各种有效的新途径，把潜逃至美国的中国贪污贿赂犯罪嫌疑人遣返回中国。</p>
-<p>中国与美国和加拿大之间尚未签署引渡协议，而这两个国家是中国经济犯罪嫌疑人外逃的首选目的地。路透社指出，西方国家对是否和中国签订引渡协议犹豫不决，部分是出于对中国司法体系独立性和其处理囚犯方式的担忧。人权组织指出，中国当局会向囚犯使用酷刑，而且涉贪人员经常会被判处死刑。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard11_109.jpg" alt="Clipboard11_109" width="550" height="310"></p>
-<p>国宴：不乏中国风味汇聚精英名流</p>
-<p>习奥会结束后，周五晚上，习近平携夫人彭丽媛与美国总统奥巴马夫妇一同出席在华盛顿白宫举办的国宴。浓郁的亚洲元素贯穿整个国宴菜单，包括甜点中的荔枝冰沙。华裔厨师罗慕娟（Anita Lo）被邀请当作客座主厨。</p>
-<p>与习近平和奥巴马同坐一席的贵宾包括苹果公司首席执行官蒂姆•库克（Tim Cook）、Facebook创始人马克•扎克伯格（Mark Zuckerberg）、微软首席执行官萨蒂亚•纳德拉(Satya Nadella)和云计算领军企业Salesforce的创始人兼首席执行官马克•贝尼奥夫（Marc Benioff）。</p>
-<p>其他受邀的嘉宾还包括美国甲骨文公司的联合创始人拉里•埃里森（Larry Ellison）、领英的创始人雷德•霍夫曼(Reid Hoffman)，以及美国前国务卿马德琳∙奥尔布赖特（Madeleine Albright）和亨利•基辛格（Henry Kessinger）。</p>
-<p>另外，媒体和金融行业均有名人代表出席。米歇尔•奥巴马在国宴上以一席华裔美籍设计师王薇薇（Vera Wang）设计的黑色晚礼服示人。习近平和彭丽媛则身穿中式礼服亮相。</p>
-<p>总统奥巴马和客人们一起举杯祝酒时表示，尽管两国之间存在不可避免的分歧，他仍然希望两国人民在“友爱与和平的事业中情同手足”。</p>
-<p>习近平则称此次访美是一次“难忘的旅程”，从西岸到东岸他一路感受到当地人民的友好，为此他表示感谢。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard14_6.jpg" alt="Clipboard14_6" width="499" height="403"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%9B%BD%E5%AE%B4%E8%90%BD%E5%B9%95-%E4%B9%A0%E5%A5%A5%E4%BC%9A%E6%88%90%E6%9E%9C%E4%BA%AE%E7%9B%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%86%A4%E6%B0%91%E5%86%92%E6%AD%BB%E6%8B%A6%E8%BD%A6%E4%B8%8A%E8%AE%BF-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B4%BE%E4%BA%BA%E6%8E%A5%E8%AF%89%E7%8A%B6/" target="cdt-mirror">博谈网｜冤民冒死拦车上访 习近平派人接诉状</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard02_217.jpg" alt="Clipboard02_217" width="550" height="309"></p>
-<p>官员接受访民诉状</p>
-<p>（博谈网记者苏智敏报道）25日在美国街头上演现代版的“告御状”，中国国家主席习近平和夫人彭丽媛在前往美国国务院参加招待午宴的途中，其车队被来自中国的访民拦截，甚至有访民钻到车底，最后习近平随行队伍派出两名官员，接受访民的诉状。</p>
-<p>钻车底拦截</p>
-<p>9月25日下午1点30分左右，美国副总统拜登（Joe Biden）及夫人、国务卿克里（John Kerry）在国务院设午宴招待前来进行国事访问的中国国家主席习近平及夫人彭丽媛一行。当习近平结束上午白宫行程，在前往美国国务院的路上，其车队遇到来自中国各地的访民拦截，这一群访民就是曾在24日晚上奋不顾身突破美国警察的封锁，冲向习近平车队的人，这一次他们再次出击，拦截两次，震惊了习近平及随行的官员们。</p>
-<p>第一次拦截发生在下午1点10分左右，当习近平的凯迪拉克车队经过18街与E街交叉口，多名高呼“习近平，见访民”等口号的访民一涌而上，欲拦下凯迪拉克。北京访民李焕君更是钻到一辆载着习近平的凯迪拉克的车底下，强行将车拦截下来。据悉，李焕君与习近平对视几秒钟，随后被警察带到警戒线以外，并当场释放，习近平的车也随即离开。视频中，可看到被带到路边的李焕君仍愤怒的大声尖叫。</p>
-<p>第二次拦截则发生在下午1时37分左右，当彭丽媛的车队经过21街与C街交叉口时，四名访民立即冲出封锁线，马永田拦截到彭丽媛的座车，造成车子打偏方向，撞到了马路边。随后车子开走，马永田则被警察带走。据《美国之音》报导，经过公民力量创建人杨建利博士、原北大教授夏业良和美国维权律师的紧急交涉，马永田不到一小时被释放。</p>
-<p>面对中国民众两天来的拦车上访，及即使习近平车队已驶入国务院，访民们仍在门外高喊口号的尴尬场面，据《博讯社》报道，大约一个小时后，习近平随行队伍派出两位官员，出面接受访民们的诉状。</p>
-<p>由于习近平将在26日前往纽约联合国总部参加活动，因此在现场抗议的中国访民还高喊“习近平，纽约见”，看来习近平的纽约之行，仍会遇到这群抗议的访民们。</p>
-<p>网友敬佩</p>
-<p>访民不顾自身安危的抗议举动，引来舆论的关注。在拦截行动中，钻到习近平座车车底下的李焕君，据了解，原本是一名小学老师，位于北京丰台区石榴庄的家园在2010年被政府强拆，经多年上访，及入狱三次后，今年年初逃往美国，继续维权之路。</p>
-<p>跟李焕君有着相似遭遇的马永田对《博讯社》表示：“我一个是想要他（习近平）解决我的个案。另外，同时对他有个震撼。他上台后一个冤案也不解决，现在倒是被抓进监狱的不少。我希望他听听我们访民的冤案，对解决中国其它的冤案也希望改善。还有就是我在美国起诉了习近平，法院受理了，我有权力和义务递送给他（习）传票。中国政府抢了我的财产，他不负责谁负责？！”</p>
-<p>对于李焕君及马永田一行人的拦车举动，网友们除了感佩，也担心他们被秋后算帐。网友“钟明”：“几位访民的勇敢可歌可泣，当着全世界，给了习近平‘中国梦’一个响亮的大嘴巴，但如果他们以为告了御状，就会申冤，那他们还是对习近平黑帮集团抱有幻想—等待他们的，将是继续不解决的问题，加上秋后算帐式的报复。”</p>
-<p>网友“Fung Cheung”：“第一，好在是在美国，否则早就被消失或被自杀。第二，要是换作是Obama早就下车聆听民众意见。”也有网友认为习近平应亲自下车收诉状。</p>
-<p>官员接受访民 诉状原图</p>
-<p>关键词: 习近平访美 访民 栏目: 时事见解 栏目重点发表: 栏目头条 热门话题追踪: 习近平访美 作者: 苏智敏</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%86%A4%E6%B0%91%E5%86%92%E6%AD%BB%E6%8B%A6%E8%BD%A6%E4%B8%8A%E8%AE%BF-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B4%BE%E4%BA%BA%E6%8E%A5%E8%AF%89%E7%8A%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%92%8C%E7%8E%8B%E5%B2%90%E5%B1%B1%E8%B0%88%E6%B3%95%E6%B2%BB%E5%90%8E%EF%BC%8C%E7%A6%8F%E5%B1%B1%E5%86%8D%E8%AE%BA%E4%B8%AD%E5%9B%BD%E5%9D%8F%E7%9A%87/" target="cdt-mirror">美国之音｜和王岐山谈法治后，福山再论中国坏皇帝问题</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard08_139.jpg" alt="Clipboard08_139" width="549" height="412"></p>
-<p>中国商店出售的一副“中国梦”众官图扑克牌，习近平是“大王”，但英语这张牌是JOKER，也就是“小丑”。</p>
-<p>习近平成为中国继邓小平甚至毛泽东之后权势最大的领导人，他权力稳固后，是要大胆推动改革呢？还是成为一名暴君？这是美国著名政治思想学者弗朗西斯·福山（Francis Fukuyama）最近在一次研讨会上提出的问题。</p>
-<p>2014年9月，福山出版了他的新书《政治秩序和政治衰败》（ Political Order and Political Decay）。 在书的一开始，他就引用了美国开国元勋亚历山大·汉密尔顿的名言：“对一个好政府来说，执行力是第一位的。他可以使得一国免遭别国的入侵，他可以保证法律的有效执行。不管一个政府基于什么样的法理基础，如果缺乏执行力，它都是一个坏政府。”</p>
-<p>弗朗西斯·福山和约翰霍普金斯大学国际关系学院的迈克尔·曼德巴姆在美国智库外交关系协会的一个研讨会上。（美国之音斯洋拍摄）</p>
-<p>1989年初，在柏林墙倒台前，福山发表著名文章《历史的终结》 (The End of History)。在文中，他断言，民主制将“成为全世界最终的政府形式”。随后几个月柏林墙的倒塌，福山声誉鹊起。</p>
-<p>后来福山研究人类政治秩序。他认为现代政治秩序的起源与发展有三个重要基石，那就是：国家建设、法治和民主问责。他说，一个国家只有同时具备了这三个条件，才能够维系稳固的政治秩序。</p>
-<p>然而，历史似乎没有就此终结。中国共产党镇压了六四民主运动，抵制了“苏东波”民主化潮流，却创造了经济奇迹，并以中国模式挑战着西方经济资本主义加政治多党民主的模式。而俄罗斯在强人普京领导下正试图恢复昔日苏联的强势。</p>
-<p>福山2014年的新书出版后，可能是因为这段有关国家执行能力的论述，有些人认为他可能已经改变了他对民主的认识。</p>
-<p>据称，福山也因此得到中国共产党的关注。2015年4月23日，福山和其他两名学者受中共中央政治局常委、中纪委书记王岐山的邀请，在中南海与其见面。福山在接受媒体访问时多次强调，他的基本观点并没有产生变化。他强调，政治发展的三要素中，需要有一个平衡。</p>
-<p>在中国国家主席习近平访问美国前夕，福山在华盛顿出席了一个研讨会，再次谈论他对人类政治发展的看法。他同时谈到“中国模式”，中国国家主席习近平以及他所说的中国体制中无法解决的“坏皇帝”问题。</p>
-<p>习近平是好皇帝还是坏皇帝？</p>
-<p>弗朗西斯·福山说，中国政治目前最大的危险是习近平聚集了太多权力，且不受限制。</p>
-<p>他说，习近平是继邓小平以来中国最有权力的领导人，他甚至还可能是继毛泽东以来最有权力的领导人。但是，这正是中国体制的“阿喀琉斯之踵 （弱点）”， 因为所有的一切将取决于习近平的意图。他是好皇帝还是坏皇帝？ 很多人希望他能够在击败所有的对手后，巩固权力，然后欣然转身，改革经济和政治体制。但是，他也有可能成为一个暴君（tyrant）。这一点人们还不清楚， 不知道会是哪种选择。</p>
-<p>中国模式和坏皇帝</p>
-<p>福山承认“中国模式”的存在。但是他认为这个模式很难在东亚之外的地区被复制。他说，这种模式的基础就是中央集权的（centralized）、非个人化的（ impersonal） 官僚体制， 这个体制可以追溯到2300年前的秦朝时期。这个体系依赖于一个强大的高质量的国家，同时来取代法治和很多其他的东西，但是这是一个非常不平衡的体系。</p>
-<p>他认为，关于这样一个专制体系的真相是，它可能会引出非常好的结果，也可能会引出非常坏的结果。中国的毛主义就是一个坏的结果，没有限制的独裁。 文化大革命时期，所有现行体制都被摧毁一旦。</p>
-<p>福山说，中国1978年之后的领导层就是着力恢复这些真正的制度，而且他们取得的成功也是令人瞩目的。在很大程度上，他们确保经济发展独立于党的领导。他们恢复了政府的职能。</p>
-<p>福山说，中国现在有某种程度的制度，其中最大的一个优势就是他们的威权政府有任期。他提到，中国的领导层已经经历了三个十年的轮换。如果乌干达总统穆塞韦尼和埃塞俄比亚领导人梅莱斯·泽纳维以及其他非洲领导人都这样，这些国家会好很多，我们对他们的看法也会更肯定一些。他说，中国实行的是一种通过官僚体系和在一定程度上依靠制度运作的“极权主义”（absolutism），虽然谈不上法治。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Clipboard09126.jpg" alt="Clipboard09(126)" width="700" height="496"></p>
-<p>开明专制和好皇帝</p>
-<p>福山说，这种体系最大的一个负资产就是中国人所说的“昏君”问题。 如果有一个好皇帝， 有邓小平或是李光耀，你就可能比民主国家的领导人采取更多的行动，因为他不需要虚心面对各种说客、各种工会、各种缠绕不休的媒体和总是批评指责的反对党。福山说，想想邓小平为中国开放所做的一切，没有一个西方国家领导人可以在那样的时间内对自己的社会推行那样迅速地根本的结构性变革。他成功了，因为他是个独裁者，而这恰恰就是中国的负资产（ liabilities）。</p>
-<p>福山同时指出，中国对领导人的权力没有限制，10年的任期也没有写进宪法，这就意味着可能被更改。福山提到，如果中国出现了一个新的领导人，极富个人魅力，他可能说，10年任期不够， 我还有很多事情没有完成。福山提到，这也是薄熙来带来的问题，所以中国的集体领导层就让他出局了。</p>
-<p>政治发展三要素 中国不平衡</p>
-<p>福山谈到政治发展的要素：国家能力、法治和民主问题。他说，中国政治发展并不平衡。</p>
-<p>他说，理解政治发展，有一个比较简明秩序框架，其中有三个重要的组成部分。他相信现在政治体系应该依赖这三个独立的支柱。</p>
-<p>第一就是国家能力，国家就是一个权力的垄断。就是国家合法地产生，利用权力来执行法律，保护国民免遭来自国、内外的暴力，提供公共产品和服务包括教育、健康、基础设施等诸如此类的东西。</p>
-<p>第二个支柱是法治。这个有很多的定义，但是他认为，从政治上来讲，法治最重要的就是建立一套透明的制度，而这个制度必须同样适用于整个政治系统中最有权力的人。如果总统或是总理可以随意改变这个制度，这就不是法治。所以法治从根本上说，就是对权力的限制。</p>
-<p>第三是民主问责。福山说，我们现在通常是通过自由和公正的多党选举这些程序来定义民主，但是这些程序的重要一点就是保证政府真正反映所有人民的利益，而不是显示了统治精英阶层自己的利益。</p>
-<p>这位学者指出，这三者之间其实是有矛盾的。国家是制造和使用权力，而法治和民主问责是对权力进行限制的，这中间必须有一个平衡。他说，你不能只是具有其中之一。如果只具备国家能力，中国现在基本上是这样一个状况，有有限的法治，没有民主，这就容易产生暴君。另一方面，如果只限制权力却没有国家能力，这种国家也不成功。福山说，在这方面，极端的例子是伊拉克和叙利亚，这两个国家甚至都没有有效的政府，不能控制自己的领土。福山还说，尼日利亚的例子可能更有代表性。这些国家有民主选举，有一定程度的法律，但是国家能力太弱，不具备实施能力，高度腐败等等。</p>
-<p>王岐山告诉福山：中国不会有独立司法</p>
-<p>2015年4月23日下午，中共中央政治局常委、中纪委书记王岐山在中南海会晤福山和另外两位学者。中文网络后来流传出有关会晤的细节。</p>
-<p>美国之音记者问福山的谈话感受，福山这样回答：“我是与中纪委书记王岐山会晤了，我一直没有在公开场合谈论过， 我唯一能告诉你的是，我总算是问到他一个问题 ……我问他，你能想象到中国法庭独立的时候吗？ 他的答案是：绝对不可能，这永远不会发生，这必须在中国共产党的领导下。 在这一点上，他是毫不含糊的 （笑）。”</p>
-<p>福山在华盛顿的讨论会上还谈到中国的经济成功。他认为这在一定程度上取决于中国建立了财产权等一定的制度。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%92%8C%E7%8E%8B%E5%B2%90%E5%B1%B1%E8%B0%88%E6%B3%95%E6%B2%BB%E5%90%8E%EF%BC%8C%E7%A6%8F%E5%B1%B1%E5%86%8D%E8%AE%BA%E4%B8%AD%E5%9B%BD%E5%9D%8F%E7%9A%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%8F%E5%B1%B1/?category=18271" rel="tag">福山</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -641,7 +630,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -651,5 +640,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

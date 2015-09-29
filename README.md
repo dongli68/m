@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E6%9D%8E%E5%98%89%E8%AF%9A%E5%8F%8D%E9%A9%B3%E5%86%85%E5%AA%92%E6%8C%87%E8%B4%A3%EF%BC%9A%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97-%E6%B7%B1%E6%84%9F%E9%81%97/" target="cdt-mirror">苹果日报 | 李嘉诚反驳内媒指责：不寒而栗 深感遗憾</a>
+</h2>
+<p><p>近期不少内地传媒评论，长和主席李嘉诚从内地撤资，李嘉诚今日高调回应相关言论，直指「文章的文理扭曲，语调令人不寒而栗，深感遗憾。」</p>
+<p><strong>以下为文章全文：</strong></p>
+<p>李嘉诚先生就近日一些人对他和集团毫无根据的指责、似是而非的观点作出回应：</p>
+<p>「最近一些人对我本人和集团作出毫无根据的指责，惹来网民及传媒的关注。在此，我多谢各位的关心，并藉此机会作出回应。首先感谢国内、香港以及国外的朋友对我的肯定和信任，我明白言论自由是一把两刃刀，因此一篇似是而非的文章，也可引发热烈讨论，这是可以理解的，但文章的文理扭曲，语调令人不寒而栗，深感遗憾。」</p>
+<p>集团公共事务部归纳了近日传媒的查询，作出以下回应：</p>
+<p>1. 为什麽连日受到抨击也不作回应？</p>
+<p>根据我们的分析，是非浪潮来袭之时，正值习近平主席进行国事访美前夕，我们不想因为李先生的回应，被人借题发挥，引起更广泛的国际讨论。李先生认为，习主席在不同场合多番强调，国家要不断深化改革，坚定不移提高开放型经济水平，我们不应让这些毫无根据的口舌之争成为焦点，喧宾夺主，冲淡习主席的重要讯息，引起商界和投资者不必要的顾虑；李先生认为，没有建设性的语言讨伐，并不符中国政府不遗余力推动经济向前发展的方向和决心。</p>
+<p>今次是李先生首次就事件作出回应，网上一切假李先生之名所流传之文章，均非属实。</p>
+<p>2. 为何频频出售内地房地产，但仍否认撤资？</p>
+<p>过去十年在香港上市的公司，有超过70％（包括国企）的架构，也选择离岸设立公司，目的是为了让企业取得更现代化架构和更高效运作模式；我们做法相同，集团进行重组及於开曼群岛成立公司，而集团在港注册及上市地位不变；李先生个人在重组过程中，并没有减少持股比例，也没有从中套现，所谓「撤资」指控，完全不成立。</p>
+<p>另外，对於所有投资及出售资产所得的回报，是属於公司的，并回到股东手中；一如以往，集团将继续在全球，包括在内地寻找投资机会。过去两年，集团对全球地产业务持审慎态度，加上内地房地产方面，部份城市出现供求失衡风险，故减少买入土地，但集团在内地的发展中及将发展之总楼面面积远高於2000万平方米。</p>
+<p>事实上，集团於内地发展中或将发展的土地，90%是从拍卖而来，而90%以上的物业均在建成後出售(酒店除外)，只有极少部分保留作收租之用，集团从来也在积极等候土地「交吉」，并没有囤地(香港亦如是)。减少房地产的投资比重，不等於不投资内地。</p>
+<p>其次，在零售方面，集团於全球现拥有逾13,000间零售店铺，其中内地由两年前的1300间增加至今天2300间，增幅为77%，扩展步伐迅速。</p>
+<p>国家及领导人强调「腾笼换鸟」，深化改革，优化产业，以创新科技驱动经济增长，我们一直重视全球的优质投资机会和支持人才带来的发展机会，长和系在港口、基建、零售、科技及金融等方面的发展正大举前进。</p>
+<p>习主席最近提倡「一带一路」政策，鼓励企业「走出去」，所以集团投资海外业务，与国家政策并无抵触，而且集团的股东也清楚，海外投资的盈利均属香港上市公司所有，最终通过派息，能令股东受惠。集团以香港为家，於1980年代已开始在国际投资及发展电讯、货柜码头、能源、零售、水厂、电网、地产、火车、飞机租赁等业务，遍及52个国家，这是集团同仁30多年努力经营的成果。</p>
+<p>3. 内地官媒多次作出抨击，李先生与中央关系是否有变？</p>
+<p>李先生对中央坚定不移继续改革开放，致力优化营商环境有信心，并不相信文革式思维复苏；个别人士的言行，不代表国家方向。习主席多次强调中国将继续维持深化改革的坚定承诺，扩大开放；李先生对中国充满信心，对习主席沉稳的领导能力深感佩服。</p>
+<p>4. 部份抨击言论质疑你「不爱国」，有何回应？</p>
+<p>李先生儿时历经战乱，然後目睹国家改革三十多年翻天覆地的变化，国家天天进步，内心触动不已。对於一切是是非非，李先生虽感到痛心，但认为苏轼及白居易说得好：「此心安处是吾家」以及 「我身本无乡，心安是归处」。</p>
+<p>「万变社会，不变承诺」是李嘉诚先生在1980年创立基金会时对自己的格言，他更於2006年宣布基金会是他的第三个儿子，当年已把三分一资产，即超过90亿美元投放於基金会。基金会致力推动奉献文化，至今捐出逾170亿港元，当中87%用於大中华地区，还倾注大量时间、心血，对有利於中华民族的事业，过去、现在、未来，宗旨不渝。</p>
+<p>主要项目包括创办汕头大学，於广东引入以色列理工学院，推动国家高校教育改革，带动国家创新产业发展，为主导未来作好准备；基金会同时重视医疗研究及服务，鼓励探索追求健康的世界，项目包括内地「人间有情」宁养计划，协助全国贫困家庭唇腭裂儿童康复的「重生行动」，以及协助残障人士的「长江新里程」等等。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E6%9D%8E%E5%98%89%E8%AF%9A%E5%8F%8D%E9%A9%B3%E5%86%85%E5%AA%92%E6%8C%87%E8%B4%A3%EF%BC%9A%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97-%E6%B7%B1%E6%84%9F%E9%81%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1/?category=18271" rel="tag">刻板印象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E7%95%8C/?category=18271" rel="tag">商界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%AF%8C%E8%B1%AA/?category=18271" rel="tag">大陆富豪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">香港经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E6%97%A0%E8%AE%BA%E6%95%99%E7%A7%91%E4%B9%A6%E8%BF%98%E6%98%AF%E8%80%83%E8%AF%95%EF%BC%8C%E9%83%BD%E5%BA%94%E6%8A%8A%E6%94%BF%E6%B2%BB%E5%AF%BC%E5%90%91/" target="cdt-mirror">人民日报：无论教科书还是考试，都应把政治导向置于首位</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/09/BySFdniCYAAJWHY.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/09/BySFdniCYAAJWHY.jpg" alt="孔子入党" width="525" height="403"></a><br><em>（“孔子入党” by 变态辣椒）</em></p>
@@ -79,7 +110,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%BB%96%E7%9A%84%E6%A0%B8%E5%BF%83%E9%9B%86%E5%9B%A2/" target="cdt-mirror">纽约时报 | 习近平和他的核心集团</a>
 </h2>
@@ -611,26 +642,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E9%87%8D%E5%9B%9E%E5%8D%A0%E4%B8%AD%E7%A4%BA%E5%A8%81%E5%8C%BA%E8%AE%BA%E6%94%BF%E6%B2%BB%E3%80%81%E7%A4%BE%E8%BF%90/" target="cdt-mirror">德国之声 ｜香港学生重回占中示威区论政治、社运</a>
-</h2>
-<p><p>香港去年的全民运动“雨伞运动”即将踏入一周年，学生组织学联和学民思潮星期六晚上在香港立法会举办雨伞运动一周年研讨会，讨论香港未来社运方向。</p>
-<p>学联和学民思潮9月26日晚上7点在香港立法会示威区联合举办“公民退修”研讨会，几十名香港市民到场参加。</p>
-<p>研讨会嘉宾包括前香港大学学刊《学苑》总编辑梁继平、占中发起人之一陈健民和香港政治学者方志恒。</p>
-<p>这次研讨会上，演讲者谈及中港矛盾和香港未来政治发展等问题，并对去年的占领行动进行反思。</p>
-<p>占中发起人之一陈健民：“所谓中国崩溃的前提底下，用80年代去作对比，我自己是看不到香港市民是有一个实力去到一个点，要中国共产党跟我们去谈建国的问题，甚至是民族自决的问题。另外一方面，有一些人只是希望香港有自治权，而自治权最重要的是真真正正的民主，我们才能看到香港的高度自治。”</p>
-<p>香港政治学者方志恒：“为什么近年有本土意识，甚至民主主义的论述出现呢？就是因为北京的对港政策越来越强硬，越来越介入香港的管治……慢慢成为了直接的管治，是透过（中国驻港机构）中联办为首的第二支管治队伍，甚至凌驾于特区政府之上，介入香港的自治。这种直接管治的状态，一定会刺激起香港本地人的一种抵抗。”</p>
-<p>虽然参加研讨会的人数不多，研讨会场地附近依然摆放着多个铁马，并有不少警员在附近巡视。</p>
-<p>关键词: 香港 占中 栏目: 要闻 作者: 谭嘉琪</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E9%87%8D%E5%9B%9E%E5%8D%A0%E4%B8%AD%E7%A4%BA%E5%A8%81%E5%8C%BA%E8%AE%BA%E6%94%BF%E6%B2%BB%E3%80%81%E7%A4%BE%E8%BF%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">占中</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -642,7 +653,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -652,5 +663,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%92%8B%E5%9F%B9%E5%9D%A4%E7%97%85%E6%95%85/" target="cdt-mirror">自由亚洲｜“天安门母亲”丁子霖丈夫蒋培坤病故无锡家乡</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/4b244365-34a9-46f3-8e3f-02993ddad1ee.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/4b244365-34a9-46f3-8e3f-02993ddad1ee.jpeg" alt="2011年6月，中国天安门母亲运动发起人丁子霖与丈夫蒋培坤。（资料图/天安门母亲网）" width="575" height=""></a><p>2011年6月，中国天安门母亲运动发起人丁子霖与丈夫蒋培坤。（资料图/天安门母亲网）</p></div>
+<p>中国“天安门母亲”群体发起人之一、丁子霖的丈夫蒋培坤，中秋节（9月27日）当日在家乡江苏无锡因心脏病去世，享年82岁。独立中文笔会发布唁讯，表示沉痛哀悼。据称，蒋培坤的遗体日内在家乡火化，其家人希望低调，因此不会有公开活动。他们17岁的儿子蒋捷连，于1989年六四事件中在木樨地丧生，他们后来发起天安门母亲运动，呼吁平反六四。</p>
+<p>中国“天安门母亲”群体发起人丁子霖的丈夫蒋培坤，于本周日在家乡无锡因心脏病逝世，享年82岁。蒋培坤曾担任中国人民大学美学研究所所长、哲学系教授，也是天安门母亲运动发起人之一。他的妻子丁子霖是前人民大学哲学系副教授。他们17岁的儿子蒋捷连，于1989年六四事件中在木樨地丧生，他们后来发起天安门母亲运动，呼吁平反六四。蒋培坤的孙女本周一晚接受香港NOW新闻台采访时称：“其实也没有心愿，爷爷走的时候就是快得很，他是闭眼去的，应该是没有甚么遗憾。奶奶（丁子霖）可能是伤心了，但是她说她会继续爷爷生前的工作……反正奶奶她会继续写，还会坚持六四这个事，她不会放弃的。”</p>
+<p>“天安门母亲”发言人尤维洁本周二接受本台采访时称，事发突然，她内心沉痛：“知道以后，心里非常难过，但是目前我们还不能够做什么事情，因为丁老师人还在无锡，我们也不敢去打扰她，我没有给丁老师打电话，我怕她难过，我们太难受了。希望她能在这段时间心情平稳下来。等丁老师回到北京以后，再说我们难属该怎么做”。</p>
+<p>天安门母亲张先玲周二表示：“丁老师本来身体就不太好，受了这么大的打击，身体相当的不好，所以我们没有想到有人会把这个消息说出去，因为一说出去就有媒体会采访她，会给她增加很多负担，所以希望你们不要打扰她。我们虽然有一些想法，要等她回来以后再商量”。</p>
+<p>张先玲说，二十多年来，当局拒绝接受天安门母亲群体的要求，向世人交代六四真相：“当局对这件事情迟迟不处理，每一个家庭，每一个天安门母亲的心情都是非常压抑的。每当中秋佳节的时候，大家团圆的日子，我们大家心里都非常难过，加上身体不好就会引发病痛，年纪大了会出现死亡。蒋老师在几年前，因为受到当局的迫害，还引起脑梗，种下了病根”。</p>
+<p>现已旅居美国的郭宝胜牧师曾是蒋培坤的学生，他周二对记者说，他走上追求自由、民主、宪政的道路，与当年蒋培坤老师的教育非常有关：“我们交往了很长时间，我到人民大学一入校，我们当时读美学的时候，看的是蒋老师的教材“审美活动论纲”，他的教材不错，从美学学科来说，是比较开放的体系。他是反对马克思主义唯物主义论美学观点。我看这部教材就觉得老师非常好。紧接着到1992年，他们夫妻就发表天安门母亲的第一份声明，为他们的儿子蒋捷连呼吁。还有其他的天安门母亲的冤屈。这样他们引起了国际社会的注意。我们系就停止他们两个人上课”。</p>
+<p>郭宝胜说，蒋培坤逝世是天安门母亲运动的一大损失：“尤其他对我走上人权、民运这条道路，他起了一个很大的推动、引导作用”。</p>
+<p>在六四5周年期间，蒋培坤曾撰写《不能让受害者再一次被杀害》一文，细述了他5年来的心路历程，其中提到“这5年来，我终于有了自己的思想和尊严，这是以我儿子的血和生命为代价的，也是以我这几年间失去的一切为代价的。”文中还称，人类反抗强权的历史，是记忆反抗遗忘的历史，罪恶一旦被遗忘，就会重演。</p>
+<p>据悉，丁子霖将于十月上旬返回北京，与天安门母亲部分成员见面，暂时不会为蒋培坤逝世举行公开活动。</p>
+<p>特约记者乔龙 （责编：胡汉强/寇天力）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%92%8B%E5%9F%B9%E5%9D%A4%E7%97%85%E6%95%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2/?category=18271" rel="tag">天安门母亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%8F%8D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">平反六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%88%E7%8E%B2/?category=18271" rel="tag">张先玲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E5%9F%B9%E5%9D%A4/?category=18271" rel="tag">蒋培坤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">运动</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%EF%BC%9A%E5%8C%85%E5%AD%90%E5%BF%85%E9%A1%BB%E5%B0%81%E4%B8%A5%E5%AE%9E%E4%BA%86%E4%B8%8D%E7%84%B6%E9%9C%B2/" target="cdt-mirror">【网络民议】网络实名制：包子必须封严实了不然露馅怎么办</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%B0%B4%E8%A1%A8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%B0%B4%E8%A1%A8.jpg" alt="水表" width="550" height=""></a><br><em>（网络图片）</em></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/01/techweb%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E5%8F%91%E8%A1%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81%E4%BD%9C%E8%80%85%E9%A1%BB%E5%AE%9E%E5%90%8D%E6%B3%A8%E5%86%8C/">TechWeb｜广电总局：发表网络文学作品作者须实名注册</a></li>
+<li><a title="Permanent Link to 网络实名：杀光天下的公鸡，就能阻止黎明到来？" href="http://chinadigitaltimes.net/chinese/2012/12/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%EF%BC%9A%E6%9D%80%E5%85%89%E5%A4%A9%E4%B8%8B%E7%9A%84%E5%85%AC%E9%B8%A1%EF%BC%8C%E5%B0%B1%E8%83%BD%E9%98%BB%E6%AD%A2%E9%BB%8E%E6%98%8E%E5%88%B0%E6%9D%A5%EF%BC%9F/" rel="bookmark">网络实名：杀光天下的公鸡，就能阻止黎明到来？ </a></li>
+<li><a title="Permanent Link to 【网络民议】做人不能太“马碧”：网络“紧箍咒”作者遭曝光" href="http://chinadigitaltimes.net/chinese/2012/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%81%9A%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%A4%AA%E9%A9%AC%E7%A2%A7%EF%BC%9A%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E8%AE%BA%E6%96%87/" rel="bookmark">【网络民议】做人不能太“马碧”：网络“紧箍咒”作者遭曝光 </a></li>
+<li><a title="南方周末 | 韩国网络实名制兴废记" href="http://chinadigitaltimes.net/chinese/2012/01/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6%E5%85%B4%E5%BA%9F%E8%AE%B0/">南方周末 | 韩国网络实名制兴废记</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/04/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%9A%E8%BE%BE%E6%95%B0%E5%8D%83%E4%B8%87%E7%A4%BE%E4%BF%9D%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E6%88%96%E9%81%AD%E6%B3%84%E9%9C%B2/">BBC | 中国多达数千万社保用户信息或遭泄露</a></li>
+</ul></blockquote>
+<p><strong><a href="http://news.sina.com.cn/c/nd/2015-09-30/doc-ifxieymv7750356.shtml">中青在线｜公安部将明确细化网络实名制</a></strong></p>
+<blockquote><p>公安部网络安全保卫局法制工作处处长李菁菁今日在提及网络安全态势和网络立法走向时表示，下一步将明确细化网络实名制，加强公民个人信息保护。</p>
+<p>据李菁菁介绍，目前各国加紧网络空间的战略布局，构筑网络防御工事，加大了对互联网的管控力度，同时也在加强网络外交博弈，积极抢占网络空间国际规则的主导权和话语权。</p>
+<p>[…]李菁菁说，互联网+时代，犯罪与网络结合更加紧密，网络犯罪大幅上涨，网上违法信息传播蔓延等，使网民上网的安全感下降，关键信息基础设施防御能力亟待提升。</p>
+<p>就此，她认为我国网络安全立法应该从6个方面进行设计：树立新的网络安全观；加强顶层设计和统筹规划；兼顾网络安全保护和网络社会治理；明确政府、企业、用户各自的网络安全责任；<strong>加强行政立法与刑事立法的衔接</strong>，以及<strong>积极参与和推动网络空间国际立法</strong>。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@大胖肉肉的：实名制后上网才没安全感呢！还各国，不就你国管控越来越严格，好一个墙国皇帝梦</p>
+<p>@软件民工2015：明明自己在封锁，非得说别国也在封锁。明明自己专制，车上别人说民主也不好。其实这些鬼话，已经隐含的承认了自己不是好东西。</p>
+<p>@wudasong：是dang的安全感下降，还是网民安全感下降？</p>
+<p>@wenjinxu：禁言更加方便，跨省抓捕更容易。</p>
+<p>@小范官邸：方便你们查水表吗，直接断网或者切换到朝鲜模式吧。</p>
+<p><a href="http://weibo.com/u/2862781913">许治明</a>：实名制的话要少一批五毛，毕竟一个五毛操作几十个账户或更多账户的情况会减少吧<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@热气青年3代：发篇“义正辞严捍卫言论上甘岭”的评论员文章都不署真名，还要求网络实名？</p>
+<p>@石晶乐园：不怕实名，只怕删贴，最好真名发贴，网评员们愿不愿真名？</p>
+<p><a href="http://weibo.com/twilightman" target="_blank">宇轩_y</a>：……腊肉线包子真难吃<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
+<p><a href="http://weibo.com/2289056101" target="_blank">拉躬射螞蟻</a>：包子必须封严实了不然露馅怎么办<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/2150322915" target="_blank">请叫我小胖OK</a>：吾皇万岁万岁万万岁<img title="[弱]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]"></p>
+<div><a href="http://weibo.com/1275722377" target="_blank">上发条的猴子</a>：请问下交警，如果高速公路上开倒车，时速超过多少算超速<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></div>
+<p>@Feb贰：草，个人信息泄露严重，这才是真正的安全感下降原因之一！！！</p>
+<p>@三洗吾身：实名制后 安全感才下降 哈哈</p>
+<p>@软件民工2015：把网络实名制跟加强公民信息保护连在一起说真是欲盖弥彰。正因为手机都登记了身份证号码，犯罪分子才有机会用假冒的身份证去补卡，进而转走卡上的钱。实名制就是把每个公民的隐私放上网。</p>
+<p>@还能淡定吗-：中国局域网大法好</p>
+<p>@网玩而已：只准听赞歌,不许有杂音</p>
+<p>@病猫66040：这他妈的就是封建统治，官僚主义！</p>
+<p>@邵明波：网络的核心是互联，不是管制。</p>
+<p><strong>@foxwe：吃的不安全，住的不安全，出行不安全。网络一实名人民群众居然安全了</strong></p>
+<p>@白马王爷7777：赶紧公开官员财产。流氓掌控下的政府，民众才最不安全。</p>
+<p>@-我所理解的生活：这就叫改革，这就叫开放！！真是一代不如一代啦～～中国梦该醒了！包子才是真正的左派啊！</p>
+<p>@山人小鸣：《国语·周语上》:”防民之口，甚于防川，川壅而溃，伤人必多，民亦如之。是故为川者，决之使导;为民者，宣之使言。”。指阻止人民进行批评的危害，比堵塞河川引起的水患还要严重。指不让人民说话，必有大害。</p>
+<p>@简化心灵1：一辆老解放牌汽车重新喷了漆，换了个司机上了高速开倒车</p>
+<p>@无盲123：做贼的总是心虚！</p>
+<p>@Justin_Chiang2012：我艹廉刀斧头帮十八代祖宗</p>
+<p>@marsoft：我打赌，青年团网评员不会实名制。</p>
+<p>@QUNAINSD：共党：这下可以想怎么玩就怎么玩儿了，网络实名，看那些屁民还敢不敢再说什么对我党不利的话了，查到分分钟让他自己纵火自焚，让他随时遇到个间歇性精神病</p>
+<p>@降宫山君：实名制没问题，我一直是实名注册的！可问题是各个网站屏蔽用户评论是怎么回事，我如果造谣或是诽谤了你就去告我，说真话凭什么屏蔽！这样只会证明政府官员做贼心虚！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%EF%BC%9A%E5%8C%85%E5%AD%90%E5%BF%85%E9%A1%BB%E5%B0%81%E4%B8%A5%E5%AE%9E%E4%BA%86%E4%B8%8D%E7%84%B6%E9%9C%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%A5%E6%B0%B4%E8%A1%A8/?category=18271" rel="tag">查水表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%AF%B9%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%9A%84%E6%B8%97%E9%80%8F/" target="cdt-mirror">美国之音｜中共将加强对非政府组织的渗透</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/06/500x281x171744xsfzosuiddus4ol7.jpg.pagespeed.ic.3nzzAhmV1u.jpg" alt="米共" width="500" height="281"><br><em>（图片来自北京社会领域党建网）</em></p>
@@ -582,55 +658,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97-%E7%8C%AA%E9%98%9F%E5%8F%8B%E8%BF%98%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F/" target="cdt-mirror">【立此存照】@共青湖南——猪队友还是高级黑？</a>
-</h2>
-<p><p>认证信息为“共青团湖南省委员会官方微博”的<a href="http://weibo.com/u/2178873290">@共青湖南</a> 紧跟团中央的步伐，加入了<a href="http://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/">“声讨”任志强</a>的队伍。该账号近日在微博分享批判任志强的长文《警惕任志强的诡辩术》，发表了诸如“<strong>正是任志强传销的私有制加市场经济导致了贫富悬殊</strong>”等让人哭笑不得的言论。</p>
-<p>值得一提的是，该文章作者为“知名”毛左尹国明，<strong>他曾在《全世界人民都知道》新书签售会上<a href="http://chinadigitaltimes.net/chinese/2013/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%9D%8E%E6%89%BF%E9%B9%8F%E5%8C%97%E4%BA%AC%E7%AD%BE%E4%B9%A6%E7%81%AB%E7%88%86-%E9%81%AD%E9%81%87%E6%AF%9B%E5%B7%A6%E6%8B%B3%E6%89%93%E5%8F%88%E6%89%94/">掴掌李承鹏</a></strong>。这种行为很难不让人联想到同样获得团组织青睐的<strong><a href="http://chinadigitaltimes.net/chinese/tag/%E4%BE%AF%E8%81%9A%E6%A3%AE/">爱国青年侯聚森</a></strong>。</p>
-<p>原微博目前已被删除（<a href="https://freeweibo.com/weibo/3890594008871216">自由微博传送门</a>）。</p>
-<blockquote><p><strong>@共青湖南</strong>：【警惕任志强的诡辩术】潘任美透支了房奴们的钱包，还要接着透支房奴们的智商。正是任志强传销的私有制加市场经济导致了贫富悬殊，但他却告诉我们公有制加计划经济已经失败，通过私有制加市场经济实现共同富裕。他跟所有的公知一样，把造成问题的原因说成是解决问题的出路。@共青团中央</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/6f47298bjw1ewe95b4x6rj20f00qowhm.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/6f47298bjw1ewe95b4x6rj20f00qowhm.jpg" alt="6f47298bjw1ewe95b4x6rj20f00qowhm" width="400" height=""></a></p>
-<p><strong>@共青湖南向任志强喊话，要其重温入党誓词的微博评论已被关闭：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97.png" alt="共青湖南" width="475" height="498"></a></p>
-<p><strong>另附花絮一则:</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/71f91a53jw1ewf82ugzx4j20c80dgmyw.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/71f91a53jw1ewf82ugzx4j20c80dgmyw.jpg" alt="71f91a53jw1ewf82ugzx4j20c80dgmyw" width="440" height="484"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@任志强:领导说：你大人大量。别跟流氓一般见识。</p>
-<p>@五岳散人: 华远地产是国企。您的意思是政府加上国企洗劫了老百姓？</p>
-<p><a href="http://weibo.com/u/1367611323" target="_blank">沈鸿伟律师</a>：共青团为了批任志强不惜犯政治错误。我们现行的经济体制是邓小平以来的党中央定下来的，写进宪法和党章。团干部们这个批法，还想接班<img title="[疑问]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/yw_org.gif" alt="[疑问]"></p>
-<p><a title="王痞爷" href="http://weibo.com/u/2619711941">@王痞爷</a>：从小就知道自己是共产主义的接班人，到现在都特么过去三十年了，也没人来跟我谈接班的事……<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]"></p>
-<p>@国勿怨小李: 任总准备好接招，团中央一声令下，各地的小篓篓准备发起猛攻了！</p>
-<p>@米家那个山:什么都不懂，阵脚全乱的，可悲！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97-%E7%8C%AA%E9%98%9F%E5%8F%8B%E8%BF%98%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6/?category=18271" rel="tag">公有制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E6%9C%89%E5%8C%96/?category=18271" rel="tag">私有化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B2%88%E9%B8%BF%E4%BC%9F%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%85%88%E6%95%91%E5%A6%88%E6%98%AF%E5%AF%B9%E7%9A%84%EF%BC%9F%EF%BC%81/" target="cdt-mirror">沈鸿伟律师：先救妈是对的？！</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/05/%E5%AD%9D%E9%81%931.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/05/%E5%AD%9D%E9%81%931.jpeg" alt="孝道1" width="440" height="587"></a><br><em>（网络图片）</em></p>
-<p>女友和妈同时遇险，一道刑法司考题引起了广泛的争论。标准答案是什么？24日晚上8时，司法部网站公布了今年国家司法考试的参考答案：先救妈是对的！也就是说，国家要你先救妈妈！</p>
-<p>对这个答案题目，参加司考的人大多不会答错。只要看一下《刑法的私塾》，便可以发现张明楷教授有很多奇怪的观点。</p>
-<p>如果这是个伦理题，哪怕真有想先救女友的，想必他也不敢大声说出来。遗憾的是，这不是一道伦理题，而是一道刑法题，是罪与非罪，生杀予夺的问题。</p>
-<p>幸亏我不是考生，否则在大是大非面前真是左右为难。说先救女友不救妈无罪，批卷的给个叉的命运是逃不掉的。说有罪，真的说服不了自己。</p>
-<p>记得刚出道的时候，刑法学界的非罪化、非刑罚化等刑法谦抑思想盛行，但是书生的东西总归是嘴巴上的，现实还是蛮残酷的，君不见已是刑法修正案九了，罪是越 来越多，连寻衅滋事、非法经营这种从口袋罪中剥离出来的又陷入新口袋罪的也快差不多要撑破了。先救女友不救妈入罪也就见怪不怪了。</p>
-<p>刑法教授们的思维是不是这样的：子女对妈，当然这里主要还是亲妈，肯定不包括干妈、义母，但继母（好像限于有扶养关系）、养母，在教授们眼里肯定和亲妈一 样的，具有救助义务，而对女是没有救助义务的，救女友不救妈违反了救助义务，所以你妈死了，你就犯了故意杀人罪。当然，是不作为的故意杀人罪。</p>
-<p>我不知道，这是形式思维的结论，还是实质思维的结论。但这个结论肯定是教授们通过逻辑推导出来的。逻辑真有那么强大吗？不见得。</p>
-<p>先救妈是对的，我也认为是对的。但因为先救女友而妈因此死了便说成是犯罪，就觉得难以接受。古代讲忠孝不能两全，先救皇帝不救妈，肯定受表彰。当然，教授 们可以说那年代是普天之下莫非王土、率土之滨莫非王臣，老百姓对皇上有救助义务，所以不救妈没问题。那么，我们换个年代，现在没有皇上了，但我们还有领 袖，遇此我看哪个法院敢判有罪？想必是铺天盖地的宣传、表彰，信不信由教授。</p>
-<p>如果从救助义务角度而言，父母对未成年子女是有救助义务的。洪水滔天时，父母先救别家小孩而自家孩子因来不及救助溺亡，是表彰还是判刑？依照教授们的说法，不判刑是不对的，可百姓不见得答应，信不信由教授。</p>
-<p>先救女友不救妈有罪，等于说先救他人不救妈有罪。是否可以看到有这么一种景象：一座大楼起火，某人妈在楼中，其进入大楼救人，看见楼层中有很多人等待救 援，因他妈在里面，考虑到不救妈是吃官司的，所以他便放弃了救援他人而找他妈去了（当然找妈是对的，这是人性使然，不可苛求，问题在于逻辑）。教授们想告 诉大家这样一种逻辑，这样一种价值取向？</p>
-<p>我总在想，人的生命是平等的，救谁都是救，救一个是一个。怕的是，有能力救而袖手旁观。人家选择救妈，那是人性使然，人家选择救女友，那也是人性使然。我们陷于救助义务继而讨论罪否，无异议说女友的命不如妈，不该救，换言之别人的命与你无关。</p>
-<p>选择是痛苦的。我们没有必要让自己陷入“洞穴奇案”中，不要让人们困于“电车难题”中，还是把这些问题留给哲学家吧。我们要的是生活中的常情、常理、常识。让法律的归于法律，让伦理的归于伦理，先救女友者，自会有亲朋好友的异样眼光，也许会生活在自责之中。这已经够了。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%B2%88%E9%B8%BF%E4%BC%9F%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%85%88%E6%95%91%E5%A6%88%E6%98%AF%E5%AF%B9%E7%9A%84%EF%BC%9F%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88/?category=18271" rel="tag">党妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E9%83%A8/?category=18271" rel="tag">司法部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -642,7 +669,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -652,5 +679,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

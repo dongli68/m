@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,113 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%AD%E6%9C%A8%EF%BC%9A%E4%BB%8E%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%88%E6%B8%85%E7%90%86%E9%97%A8%E6%88%B7%E4%BA%8B%E4%BB%B6%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%B8%88%E7%94%9F%E5%85%B3/" target="cdt-mirror">六木：从人大教授“清理门户”事件看中美师生关系差异</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/29LeducWeb-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/29LeducWeb-articleLarge.jpg" alt="29LeducWeb-articleLarge" width="600" height="400"></a><p>在美国，高度商业化的高等教育以及民主的土壤使得学生评价或批评老师十分普遍。</p></div>
+<p>美国学生在社交网络上的表现往往会影响他们的工作应聘，<a href="http://cn.nytstyle.com/technology/20131112/t12admissions/" target="_blank">甚至大学申请</a>。而在中国，社交网络上的不当言论则可能会毁掉一段师生关系。</p>
+<p>近日，中国人民大学历史学院教授孙家洲以“告学界朋友与弟子<a href="http://www.thepaper.cn/newsDetail_forward_1377524" target="_blank">公开信</a>”的方式，在自己的微信朋友圈宣布与一名新招硕士研究生郝相赫断绝师生关系。微信是中国网民最热衷的社交媒体之一。</p>
+<p>该生曾在微信朋友圈中批评魏晋南北朝史领域的两名中国学者，使用了如“庸才”这样的激进词汇。导师孙家洲将之视为“无端嘲讽”与“谩骂”，多次劝导无果后决定发公开信解除师生关系，并在信中直接道出了两位学者的名字。</p>
+<p>公开信后经媒体转载，这件学界私事于是成为了公众话题。该生随即发表了“情况说明”，称“作为一个年轻人议论前辈学者，当然是错误的”，但认为评论的平台是相对私人的网络空间，并无任何社会影响力，最后同意解除与孙家洲教授的指导关系。</p>
+<p>此后，该生又发表了正式的道歉信，称收回之前的情况说明，恳求相关老师宽恕他的“年少轻狂”，并希望能继续做孙家洲教授的学生。此事目前暂无定论。</p>
+<p>这件事让我想起了我的导师章燕教授。我在北京师范大学读英美文学硕士时，她扎实的学术修养和谦卑的人格深深影响了我。我曾读到过一篇论文，作者是国内英美文学界的知名学者，他的论述对象正好是我过去六年在研究的一位美国诗人。我对他文中的观点十分不赞同，但即便如此我仍尊重他的学术能力。</p>
+<p>当天我给导师写了一封邮件，客观地批判了该教授的观点，表达了我对这篇文章可能带来的对这位诗人误解的担忧。第二天，我收到她的回复，她首先肯定了该论文的学理性和科学性，但同时表示支持我的观点，认为文章并未跳出传统的论述套路。她后来约我面谈，建议我通过写论文的方式与这位教授对话。</p>
+<p>我与我的导师一直保持良好的师生关系，因为我们彼此具有专业的作风。学界从来不排斥批评，但前提是严谨的论述与专业的交流。专业，也是史蒂夫·卡恩(Steve Cahn)教授在《圣人与恶徒：学术界的伦理》(Saints and Scamps: Ethics in Academia)中倡导的任教期间唯一合适的师生关系。</p>
+<p>这部简洁的作品出版已近30年，但它的核心价值如今仍然适用。卡恩认为教授的角色其中一个维度是伦理层面的，教授处于一个或帮助、或伤害学生的位置，因此除了精通知识之外，还需熟稔教导的艺术。其中暗含的伦理考量事实上关乎的是公正性，对公正的关注与定义则决定了该教授在高等教育中扮演的是“圣人”还是“恶徒”。</p>
+<p>在师生关系上，对公正的追求要求我们保持一种专业的关系，这一点同时适用于本科和研究生阶段。“教授应当指引学生通过一个专业领域，而不是寻求成为他们的心理医生、朋友或恋人。”卡恩写道，“这种指导不应被教条绑架，也不应被放任污染。”保持这种专业的界限，对老师和学生来说都有利。</p>
+<p>在微信与Facebook时代，保持专业的界限依然重要。社交网络、即时通讯以及一封短短的邮件往往无法准确地传达完整的学术信息，误读与冲动便因此而生。</p>
+<p>因此，教授在社交网络上最好与学生划清界限。更重要的是，我们需要更多面对面交流的时间。埃默里大学英文系教授马克·鲍尔莱因(Mark Bauerlein)在《纽约时报》撰文批判如今学生很少在课外与老师接触，质问“<a href="http://cn.nytimes.com/opinion/20150514/c14professors/" target="_blank">大学教授还有什么意义</a>”， 教授已不再是令人生畏的智者和道德标杆。但反过来看，那些能够保持专业度和道德权威的教授，则应是我们努力的方向。</p>
+<p>在大多数时候，师生关系中占主动地位的是老师。但有时，主动权会反转到学生手上，即学生评价老师。在中国，老师一般具有绝对权威，因此当权威被评头论足或挑战的时候，老师往往很难接受。但是在美国，高度商业化的高等教育以及民主的土壤使得学生评价或批评老师十分普遍。</p>
+<p>评价分两类，第一种是非量化的。如果学生对老师的教学不满意或被老师的言论冒犯（比如关于种族、阶级和性向歧视），除了在同学间抱怨外，还可以向系主任或学院领导反映。这样的意见往往是有效的，因为如今美国的大学把学生视为前来购买商品的顾客，因此使顾客满意十分重要。 在课堂上，老师也会鼓励学生用批判的眼光解读学术作品，培养批判力正是美国高等教育的目标之一。</p>
+<p>这一点在中国则刚好相反，诚如俄勒冈大学的赵勇教授在《谁怕那条大恶龙》(Who’s Afraid of the Big Bad Dragon?)中论述的那样，一直以来中国的教育更多的是一种统治工具，而不是启发学生，“通过设计，这个体系奖赏顺从、鼓励服从、培养同质化的思维。”在这样的背景下，无论是浅薄的冒犯还是深思熟虑的批判，都具有一定的风险。</p>
+<p>另一种则是可量化的评价，除了ratemyprofessor.com这个民间网站之外，最典型的是各大高校开展的期末学生评教。第一次校园范围内的学生评教可追溯到1960年代，由几个本科生发起。起初这一尝试颇具新意，这些评教汇编也的确为一些学生选课提供了借鉴。到了1970年代，这些原本随意的评教被教育管理者正规化，管理者很大程度上开始依靠这些统计数据来评判一个教师的教学质量，以此来决定该老师是否升职以及留任，这对助理教授和兼职教授来说影响颇大。</p>
+<p>2012年，我在美国威廉玛丽学院现代语言文学系的中国研究项目得到了一份兼职教职，作为新老师我时常会用卡恩教授的《圣人与恶徒》来提醒自己遵循学术界的伦理，保持专业度。当其他老师，包括卡恩教授，都颇为排斥期末学生评教时，我对此却持拥抱态度，因为我想知道自己的教学质量如何以及学生对我的“服务”是否满意。 这一年的几次评教中，我都获得了远高于平均分的分数，我因此颇为骄傲，觉得之前为学生付出的一切都是值得的——直到我看到一位学生的评价。</p>
+<p>“大四最后一个学期，我选这门课是为了放松，但从始至终都充满压力。我觉得我在课上总是受到批评，这打击了我的自信心。”这位学生坦诚地写道，“我希望我没选这门课。”</p>
+<p>我尝试安慰自己，这是我67个学生中唯一一个给我负面评价的，我应该多关注其他学生的好评。但此后的三年中，我无法忘记这个批评的声音，它盖过了评分曾带给我的骄傲。虽然我试图成为一名好老师，希望帮助学生在学业和生活上有更好的发展，但我一定在某一刻有所疏忽，因某种原因伤害到了那个美国学生。对于那位学生来说，我就是一个“恶徒”。</p>
+<p>中国的“教学相长”与西方语境下的“师生相互关系”都指向一个共同的目标：相互进步。无论年轻的学生如何选择，作为教授，应保持专业度，做一个道德标杆，向“圣人”的方向靠近，学生自然会成为你的信徒。</p>
+<div>
+<p>六木是自由撰稿人，美国西北大学社会学博士生，现居芝加哥。</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%AD%E6%9C%A8%EF%BC%9A%E4%BB%8E%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%88%E6%B8%85%E7%90%86%E9%97%A8%E6%88%B7%E4%BA%8B%E4%BB%B6%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%B8%88%E7%94%9F%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">人民大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2/?category=18271" rel="tag">大学教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B4%E8%BD%BB%E4%BA%BA/?category=18271" rel="tag">年轻人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">社交网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/?category=18271" rel="tag">高等教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%86%E6%98%8E%E7%A1%AE%E7%BB%86%E5%8C%96%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/" target="cdt-mirror">中青在线 | 公安部将明确细化网络实名制</a>
+</h2>
+<p><p>中青在线北京9月29日电 （中国青年报·中青在线记者王景烁） 公安部网络安全保卫局法制工作处处长李菁菁今日在提及网络安全态势和网络立法走向时表示，下一步将明确细化网络实名制，加强公民个人信息保护。</p>
+<p>据李菁菁介绍，目前各国加紧网络空间的战略布局，构筑网络防御工事，加大了对互联网的管控力度，同时也在加强网络外交博弈，积极抢占网络空间国际规则的主导权和话语权。</p>
+<p>“在国际态势下，我国的互联网面临更大的压力和风险，综合安全、整体安全、战略安全‘牵一发而动全身’。”李菁菁说，互联网+时代，犯罪与网络结合更加紧密，网络犯罪大幅上涨，网上违法信息传播蔓延等，使网民上网的安全感下降，关键信息基础设施防御能力亟待提升。</p>
+<p>就此，她认为我国网络安全立法应该从6个方面进行设计：树立新的网络安全观；加强顶层设计和统筹规划；兼顾网络安全保护和网络社会治理；明确政府、企业、用户各自的网络安全责任；加强行政立法与刑事立法的衔接，以及积极参与和推动网络空间国际立法。</p>
+<p>在“加强行政立法与刑事立法的衔接”这一条中，李菁菁表示要对网络实名制做出更具操作性的规定。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%86%E6%98%8E%E7%A1%AE%E7%BB%86%E5%8C%96%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AE%A1%E6%8E%A7/?category=18271" rel="tag">互联网管控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">网络安全立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9C%8D%E7%82%AC-telegram%E4%BC%A0%E5%A5%87%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%8C%E8%B1%AA%E3%80%81%E9%BB%91%E5%AE%A2%E9%AB%98%E6%89%8B%E3%80%81%E6%9E%81%E6%9D%83%E5%92%8C%E9%98%B4%E8%B0%8B/" target="cdt-mirror">霍炬 | Telegram传奇：俄罗斯富豪、黑客高手、极权和阴谋</a>
+</h2>
+<p><p>说了很久要写Telegram的故事，一直拖延没有写。在我拖延的这段时间里面，Telegarm继续快速增长，前几天，在旧金山的TechCrunch Disrupt活动上，创始人Durov说现在Telegram每天发送的消息数已经达到了120亿条，而今年2月的时候只有10亿条，是时候写完这个故事了。不过，随着它的出名，在中国也毫无悬念的变得难以访问，所以，如果你看完下载了它，又觉得不好连上，程序崩溃什么的，这并不是Telegram的错。</p>
+<p>每天120亿条消息是什么概念呢？我能找到的Whatsapp最新一次公布这个数字是今年4月，每天640亿条，这可是Facebook以190亿美金代价重金收购的App，并且被当作Facebook在移动平台上最好的投资之一。出生在最大的互联网市场美国，并且有Facebook的全力支持，也只是几倍于Telegram的规模而已。如果不出意外，未来的某个时候，Telegram会超过Whatsapp。</p>
+<p>消息数量和月活跃用户上，Telegram显然比Whatsapp和微信还有很大差距。但这是一个只有2年历史的新工具，并且他是一个完全私人拥有的公司，没有其他股东，没有投资人，号称永远不会出售，并且，它有着一支人数极少又战斗力极强的团队…这一切都让这个产品显得与众不同。如果要说这个时代的传奇，Telegram和它的创始人甚至团队，都完全可以入选。它和人们所知道的各种创业故事、商业传奇完全不一样，但又具有传奇故事的一切要素：黑客高手、政治、极权、阴谋…富豪，一应俱全。</p>
+<p>2014年1月24日对于Telegram是个惊喜的里程碑。在这一天，Facebook宣布收购了最流行的即时通讯软件Whatsapp。在之后的5天里面，Telegram增加了800万用户。究其原因，很多发达国家的用户对隐私有着更大的担忧，Whatsapp变成了Facebook这样大公司的资产，之后必然会发生数据交换，这是对隐私的巨大挑战。越来越多的数据掌握在大公司手里，这显然不是一件让人放心的事。这时候开始有更多人注意到了Telegram，这个极其注重隐私的工具，并且开始尝鲜。在那几天，很多人是第一次知道其创始人Durov兄弟，并且从媒体得知了他们是俄罗斯富豪。以至于Durov不得不在Twitter喊话，说请用户放心，我们团队并不在俄罗斯，现在的公司注册于德国柏林，非常安全。</p>
+<p>他们当然非常安全，因为柏林也只不过是这个团队一系列复杂的离岸公司控股结构中的一环。至于团队到底在哪，干脆没人知道。创始人Pavel Durov很可能根本不和团队在一起，甚至很多人猜测他们压根没有一个物理的办公室，而是一个用Telegram沟通的分布，实际人分散在世界各地的团队。酷爱八卦的媒体们也基本没有挖到过他们在物理世界的位置，更没有探访过他们的办公室。至于Pavel Durov本人，倒是会偶尔出现在世界各地接受一些采访和参加活动，只不过一会儿出现在柏林，一会儿出现在旧金山，有记者问他到底住在哪，他想了一下，似是而非的回答“巴黎挺不错的。“在Telegram发展的这两年里面，被媒体挖到的办公室位置只有一次，那是在位于纽约州水牛城（Buffalo, NY），这是一个和高科技不怎么沾边的城市，它是尼亚加拉大瀑布的美国那边，和加拿大安省接壤，并且以安大略湖的大湖效应造成的巨型暴风雪出名。这曾经是Pavel逃离俄罗斯之后的第一站，我甚至怀疑他们是到机场随便买了最近一班离开俄罗斯的飞机，从而随机到了这个城市。Telegram团队也提到过，他们第一个数据中心位于Buffalo。但现在那个办公室早就人去楼空。不知道是不是因为被人发现所以搬家了，我还是请朋友帮忙拍下了这个外观相当普通的办公楼照片。这个团队的神秘和传奇可见一斑。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%87.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%87.jpg" alt="telegram传奇" width="450" height="603"></a></p>
+<p>在创建Telegram之前，Pavel Durov以俄罗斯社交网站VK创始人闻名。2006年Pavel Durov和他的哥哥Nikolai Durov一起创建了VK，随后的几年，它成了俄语区最流行的社交网站。Pavel Durov不止一次自豪的说，VK是唯一一个在自由市场竞争中胜过Facebook的产品。Mark Zuckerberg后来自己也承认，曾经认为Facebook超越VK是早晚的事，没想到到现在已经有10年，仍然没能超过它。Pavel也毫不掩饰VK曾经从Facebook借鉴了很多东西，他说，毕竟我不是设计师啊，要全都自己设计要花更多时间。早期的VK从页面设计到推广方法，都跟Facebook完全一致，他也是从俄罗斯几个著名大学开始的，但后来变得越来越不一样。Pavel Durov 和Facebook创始人Mark Zuckerberg岁数一样大，都出生于1984年。媒体曾经总是把这两个人放在一起对比，两个年轻的互联网新贵。但是近年来形势变得非常诡异，为了言论自由，Pavel被迫放弃了他曾经所创造的一切，逃离俄罗斯，安全生活在美国的Mark Zuckerberg反而一直配合俄罗斯政府自我审查，Pavel经常发文讽刺他…看到Mark和Facebook这几年的所作所为，我完全赞同Pavel对他的讽刺。</p>
+<p>图片：Pavel Durov 照片，真是帅啊，这张是给女读者的福利…</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%872.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%872.jpg" alt="telegram传奇2" width="401" height="398"></a></p>
+<p>2011年开始，事情的发展已经美国人已经很难看懂了，但是还好我们是中国人，我们都懂。这一年，Durov兄弟的日子开始艰难起来。他们是强烈的自由捍卫者，认为言论自由高于一切。当时，俄罗斯国家安全机构要求VK关闭一些普京反对者的页面，遭到了Pavel拒绝。随后全副武装的反恐警察小队就突袭了他的住处和办公室，想必后来也发生过很多次不为人知的秘密谈话…</p>
+<p>2014年俄罗斯入侵乌克兰的时候，俄罗斯安全机构再次要求VK交出一位乌克兰活动家的个人信息，Pavel不仅贴出了文件全文，还连续贴了两张穿着衣服的小狗照片嘲讽安全官员们。</p>
+<p>图片：他收到的俄罗斯安全部门的文件其实还是很正规的，要是其他国家也可以给一份这样的文件，删贴的时候大家可能会更没怨气一点吧。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%873.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%873.jpg" alt="telegram传奇3" width="500" height="618"></a></p>
+<p>图片：他回复的就是这张小狗…</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%874.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%874.jpg" alt="telegram传奇4" width="333" height="600"></a></p>
+<p>图片：随后又发了这一张…</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%875.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%875.jpg" alt="telegram传奇5" width="385" height="482"></a></p>
+<p>这大概彻底激怒了普京。其实在此之前也有一些奇怪的事情也开始发生在了Pavel Durov身上，比如指控一辆他名下的汽车发生了交通事故逃逸之类的，尽管他自己根本没碰过这辆车。</p>
+<p>Pavel Durov并没屈服。普京对他的要求很简单，要么听话，要么把所持有的VK股份，卖给普京亲信所掌握的基金或者其他关联公司。Pavel仍然拒绝出售股份，只是这一次，他回旋的余地越来越小了，在前面几年中，普京亲信的基金们一直在从VK其他股东手里收购股份。董事会里面Durov兄弟终于成了孤家寡人，最后被迫卖出股份，放弃了他创造的一切。当然，俄罗斯政府比其他国家稍微好一点，至少是花钱买股份，因为有保密协议，Pavel没有透露过实际交易金额，不过人们推测应该有4亿到5亿美元这个级别。比起Facebook的市值不值一提，但对Pavel这样有足够大理想又一心实践理想的人，这已经能让他做很多事了。</p>
+<p>图片：Pavel Durov 回应mail.ru并购VK事件。mail.ru同样被普京亲信的基金控股，过去mail.ru本来也有VK股份，Pavel手里还有mail.ru的投票权，这一次是要完全并购…另外，mail.ru股东还有一家中国公司，猜猜是谁？呵呵，答案是腾讯…</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%876.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%876.jpg" alt="telegram传奇6" width="620" height="417"></a></p>
+<p>在被查水表的那些年里面，Pavel已经开始逐渐实施他理想的生活模式，其中最重要的一点是放弃所有固定资产。他卖掉房子、家具、车…到他卖出VK股份的时候，他已经不再持有任何固定的资产了，只有大量的钱。差不多也是在这段时间里面，他和哥哥Nikolai完成了Telegram最早期的工作。关于为什么要做一个强加密，非常在乎隐私的工具，Pavel Durov自己说，是第一次被警察突袭住处的时候，他给哥哥打了一个电话，电话接通的瞬间，他突然意识到电话是不安全的，一定会被监听。随后他发现，没有任何通讯方式可以保证他想要的安全和隐私，它们都有各种缺陷，要么是天生的缺陷和技术限制，要么是工具运营者的配合，导致这些工具毫无安全可言。</p>
+<p>既然没有一个可靠的通讯工具，那就自己做一个好了。兄弟两人又一次重新合伙开始一个新项目，Nikolai为这个工具设计了加密协议和架构，这就是Telegram。所以，Telegram是为了隐私和安全而生的。和一些工程和产品团队开发的通讯工具不一样，它是真正由数学家主导的项目，坚实可靠。</p>
+<p>说到这里，要介绍一下同为VK创始人的Nikolai Durov，他是Pavel的哥哥。wikipedia上对他的描述是“程序员，数学家”，此人参加了3次国际数学奥赛，拿回了3块金牌，又参加了4次国际信息学（计算机）奥赛，拿回了1块金牌和3块银牌…绝不空手而归，从小就是天才人物。Nikolai Durov并不是那种擅长竞赛数学的书呆子，除了读了2个数学Phd，他还一直领导VK工程师团队。那也是一个人数少而精的技术团队，他们完成了VK整个的工程和技术需求，一直到2013年才停止VK的工作。</p>
+<p>离开俄罗斯的时候，他们从VK团队中挑选了一些愿意一起满世界流浪的高手，继续由Nikolai带头，组成了Telegram的团队。到目前为止，没有任何公开的资料介绍过团队成员，只能从Github上代码的贡献者稍微窥探到一些团队成员的风格。Pavel在几次访谈和自述中提到过，这个团队中至少有6个人得过ACM竞赛大奖。并且都可以轻松拿到Google或者Facebook这个级别公司极好的Offer。当然这也造成了巨大的人力成本开支，Pavel说因为Telegram不打算出售，团队成员没法通过期权获得收益，所以给大家期权没有意义，他只能给团队开极好的薪水。薪水好到什么程度不得而知，至今只能知道Telegram的开销是每月100万美元，包括人力和硬件网络等等资源开销，大致估算一下就可以知道，这的确应该是极好的薪水，远超过Google这个级别公司高级工程师水平。相对于微信的支出，这个开销应该是个小数字，但考虑到所有资金都是Pavel自己一个人出的，虽然是有几亿美金的富豪，也是个不小的压力。Pavel不止一次表示，绝对不会对最终用户收钱，但是他早晚要让公司盈亏正常。他对于Telegram的预期并不是赚钱，而是可持续，只要公司赚的钱能负担自己的开销，他就满意了。对于始终期盼增长，已经很有钱但还要赚更多钱的互联网大佬们，这是难以理解的疯话。但我相信他是真诚的，Pavel从来不是一个在商言商的人，就算在VK发展比较顺利的时候，他也没事就会发表一些政治言论。这些言论就算在美国都有点惊世骇俗，比如建议俄罗斯废除货币之类…一些颇有乌托邦色彩的言论。他也曾经说过，当他开始有钱的时候，去看了其他俄罗斯有钱人的豪宅和游艇，当即就明白了这不是他想要的生活。对于他来说，改变世界本身比钱有意思的多，钱只是他在改变世界过程中的副产品和资源。他当然有资格讽刺Mark Zuckerberg，比起Pavel的生活，Mark所谓的叛逆只不过是见投资人时候不穿正装穿帽衫而已，实在孩子气。</p>
+<p>今年年初，笑来老师迷上了Telegram，想在上面做一些东西，那段时间我帮他读了不少Telegram的代码。边读边佩服这个团队的优秀。Nikolai设计的协议MTProto极其优秀，兼具数学和工程之美，它的加密基础非常完善，同时又在工程上很出色，Telegram传递的消息实际是函数，可扩展性相当强。同时，所有代码都是开源的，在github上可以看到每个项目的贡献者人数都很少，但代码质量相当高。我很惊讶于如此短的开发时间，如此少的人数，产生出这么高质量的代码。Telegram的特色就是快，它的快体现在各方面，不仅仅是协议本身精简造成的传输速度快，Telegram在各平台上的实现几乎都是从最底层的简单API实现，几乎不使用常见的库，而是自己实现所有界面控件。他们的所有控件样式也相当简单，从而让绘制效率非常高。这些努力最终得到的回报，就是它使用起来速度极快，极流畅。如果你在一个正常的网络环境使用，会非常直观的感受到它的效率和稳定。到今天，已经加入了相当多功能的Telegram（包括自定义的贴纸表情和机器人）iOS版只有30M的体积，而微信早就到了90多M，就算是功能简单的多的Whatsapp也有40多M。有兴趣琢磨代码的同学可以去Github上慢慢研究他们开源的代码，肯定会大有收获。</p>
+<p>电子前线基金会（EFF）有过一个关于常用通讯软件安全性的评测，其中Telegram的隐私模式满足所有标准。达到这些标准的工具里面，Telegram无疑也是最好用，最时尚的一个。而且Telegram对于安全性的做法也很富豪，Pavel开出赏金，只要有人找到协议的漏洞，就给10万美金奖金。2年来确实有一个人拿到这笔钱，准确的说，那个人找到的是一个隐患，而非漏洞，不过Pavel说隐患也很重要，奖金照给。</p>
+<p>一流的数学和工程团队+开源+重金安全悬赏，这些条件造就了Telegram的可靠，让人很难不信任他。我知道有很多人说“等他们需要赚钱的时候会如何如何”，这些人往往也是认为赚钱是第一重要，他们难以理解，甚至难以接受这世界上有不怎么把钱当回事的有钱人，估计他们也更难理解为什么另一位硅谷富豪Mitch Kapor会全心投入电子前线基金会（顺便说一句，此人也是Uber的早期投资人，将来我也会写他的传奇故事）。另外还有一些人说“哈，使用电话号码注册也好意思叫安全”，我觉得他们应该考虑一下自己的数学天分是否比Nikolai更高，然后再去仔细琢磨一下Telegram设计的良苦用心。无论从任何角度看，Telegram都是目前流行通讯工具中最可靠，最令人放心的一款。同时，Telegram用户量的暴涨本身就创造了一个奇迹，这是在互联网主流市场之外成长起来的社交工具，并且最终得以侵蚀美国市场。很多创业者和投资人根本不信这种事情发生…Telegram不仅不在硅谷，甚至你根本不知道他们到底在哪。</p>
+<p>2012年，Pavel还做过一件上了世界各国媒体头条的事情，他和VK的一位副总裁在办公室窗口往楼下扔钱，当时扔的每张纸币差不多值170美元。可惜后来抢钱的人开始打起架来，秩序一度非常混乱，Pavel只好停止了。Youtube的视频上可以看到，他把钱叠成纸飞机扔下去，看着人们抢来抢去开心的哈哈大笑。那一年他27岁，整个事件看起来就像是年轻的富豪暴发户拿路人取乐。不过后来Pavel解释过动机，他说当时他给了VK一位副总裁一笔奖金，这位副总裁跟他差不多，也认为钱只不过是改造世界的副产品，没什么珍贵的。Pavel很高兴说既然觉得没用，那你把这笔钱扔掉好了。这位副总裁当即开始往楼下扔钱，Pavel拦住了他，说你这样扔太没创意了，看我的，随后他把纸币叠成纸飞机飞出窗外。这架纸飞机后来被做为了Telegram的Logo。Pavel非常喜欢扔纸飞机那个时刻，他觉得那非常能代表他叛逆精神。那并不是暴发户对金钱的挥霍，而是对自由的向往。</p>
+<p>图片：视频本身不是很清晰，不过，就算模糊也能看到这架纸飞机了吧？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%877.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%877.jpg" alt="telegram传奇7" width="600" height="445"></a></p>
+<p>Pavel Durov的故事，是一个中国读者很容易感同身受，美国人无论如何也看不懂的故事，这也正是Pavel始终嘲笑Mark Zuckerberg的原因。Pavel曾经也说过，他觉得挺幸运，最终并没有在俄罗斯坐牢。我看到他说这段话时候心中暗笑，俄罗斯人还算幸运，出身克格勃的普京，虽然强权但竟然也算的上老实，要是在某个其他国家，怎么会有机会花钱买你的股份，怎么会制造什么交通事故逃逸之类不靠谱的事件呢？当然是先以涉嫌逃税抓起来，然后等你把股份拱手免费送上，最后电视台认个罪，媒体批评一轮，这事也就慢慢被人们淡忘了。也难过其他国家的企业家那么老实…俄罗斯和普京是承认Durov兄弟和VK的价值，而在其他国家，他们根本不珍惜人们创造的一切，觉得随便就可以毁掉。这也算是不幸中的万幸吧。</p>
+<p>很多人可能没想到，中文媒体报道Telegram（中文被译作“电报”）最多的媒体，并不是科技媒体，而是新华社。这篇报道是2015年07月12日，发表于人民日报的《揭开“维权”事件的黑幕》，文中写道：“‘电报’主要用于组织串联[此处隐去若干字]……可以设定时间删除图片和文字…[此处又隐去若干字]” 至于这些人到底是谁，他们干了什么，文末我放上人民网的文章链接，值得一看，仔细揣摩一下这些人的背景和来历（要用Google查），相信你不仅能更懂Pavel以及Telegram的苦心，还可以更懂中国。写多了又要被删了，我就不多写了。</p>
+<p>我估计会有读者问这篇文章中的其他国家是哪个国家。特别在这里解释一下，请看下面这条著名的微博。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%878.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%878.jpg" alt="telegram传奇8" width="615" height="216"></a></p>
+<p> </p>
+<p>Pavel Durov还有很多故事可以写，但这篇放不下这么多内容了，比如他对版权和盗版的态度，他对斯诺登的支持，他对恐怖主义和隐私以及信息自由的关系的看法…都非常有意思。也许将来我会再写一个续篇。</p>
+<hr><p>参考备注：</p>
+<ul><li>标题图：来自Pavel Durov的Instagram，西乔帮我把Telegram日发送量100亿那天的庆祝图片和Pavel的照片拼在了一起。以Pavel对于版权的态度，想必他不会反对我这么做。Pavel是《骇客帝国》铁粉，一度特别喜欢穿一身黑衣，这张照片就是。</li>
+<li>感谢gokeeper到Buffalo, NY，帮我拍下这张曾经Telegram用过的办公地点照片。</li>
+<li>人民日报：揭开“维权”事件的黑幕 http://politics.people.com.cn/n/2015/0712/c1001-27290030.html</li>
+<li>电子前线基金会的通讯软件安全打分结果 https://www.eff.org/secure-messaging-scorecard</li>
+<li>从窗口扔纸飞机的视频：https://www.youtube.com/watch?v=3ibPWRqU724</li>
+<li>我上一篇文章关于XcodeGhost的文章被删了，这篇估计也早晚会被删掉吧，喜欢的读者别忘了自己保存一份…</li>
+<li>最后要说明的是，整个事件中的原始资料基本是俄语的，英文资料是被翻译过的，其中可能会有一些不准确的地方，但大体过程应该没问题。如有错误欢迎指出。虽然微信文章发出来就没法改了…</li>
+</ul><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9C%8D%E7%82%AC-telegram%E4%BC%A0%E5%A5%87%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%8C%E8%B1%AA%E3%80%81%E9%BB%91%E5%AE%A2%E9%AB%98%E6%89%8B%E3%80%81%E6%9E%81%E6%9D%83%E5%92%8C%E9%98%B4%E8%B0%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/telegram/?category=18271" rel="tag">Telegram</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">网络自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%92%8B%E5%9F%B9%E5%9D%A4%E7%97%85%E6%95%85/" target="cdt-mirror">自由亚洲｜“天安门母亲”丁子霖丈夫蒋培坤病故无锡家乡</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/4b244365-34a9-46f3-8e3f-02993ddad1ee.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/4b244365-34a9-46f3-8e3f-02993ddad1ee.jpeg" alt="2011年6月，中国天安门母亲运动发起人丁子霖与丈夫蒋培坤。（资料图/天安门母亲网）" width="575" height=""></a><p>2011年6月，中国天安门母亲运动发起人丁子霖与丈夫蒋培坤。（资料图/天安门母亲网）</p></div>
@@ -45,7 +149,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2/?category=18271" rel="tag">天安门母亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%8F%8D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">平反六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%88%E7%8E%B2/?category=18271" rel="tag">张先玲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E5%9F%B9%E5%9D%A4/?category=18271" rel="tag">蒋培坤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">运动</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%EF%BC%9A%E5%8C%85%E5%AD%90%E5%BF%85%E9%A1%BB%E5%B0%81%E4%B8%A5%E5%AE%9E%E4%BA%86%E4%B8%8D%E7%84%B6%E9%9C%B2/" target="cdt-mirror">【网络民议】网络实名制：包子必须封严实了不然露馅怎么办</a>
 </h2>
@@ -534,130 +638,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%82%96%E4%BB%B2%E5%8D%8E%EF%BC%9A%E8%AF%B7%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E4%B8%8D%E8%A6%81%E6%81%90%E5%90%93%E5%92%8C%E7%BB%91%E6%9E%B6%E5%85%9A/" target="cdt-mirror">博客中国｜肖仲华：请罗援将军不要恐吓和绑架党</a>
-</h2>
-<p><p><em>中国数字时代编辑注：作者肖仲华，经济学博士，博士后，副教授，独立经济学者，独立时评人。</em></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9qqqqqqqqqqqqqqqqqqqqqqqqqq.jpg" alt="k9qqqqqqqqqqqqqqqqqqqqqqqqqq" width="551" height="413"></p>
-<p>请罗援将军不要恐吓和绑架党</p>
-<p>罗援将军说，“自由民主派”若得势，共产党人骨灰难留。罗将军是在参观原罗马尼亚革命领导人乔治乌·德治的纪念塔后，作出这样的论断的。</p>
-<p>罗将军还说，他是一种长着鹰眼，却具有鸽心的那种鹰派，既尚武，又爱好和平。可是，无论是看其长相还是听其言论，我怎么看都感觉不出将军算什么鹰派或者鸽派，反倒觉得更像是做贼心虚的恐怖分子。</p>
-<p>我必须毫不客气地警告和规劝罗将军，你那些危言耸听的恐怖言论，黑不到也吓不倒你所谓的“自由民主派”，反倒是赤裸裸地恐吓和绑架了共产党。</p>
-<p>1, 你到底把党和人民的关系置于何种境地</p>
-<p>党是为人民服务的党，且不管他有多少问题和错误，你总不能总是把党放在与人民敌对的关系中吧？</p>
-<p>无论是“自由民主派”还是别的什么派，他们到底是不是中国共产党领导下的中华人民共和国的公民？是不是人民中的一部分？</p>
-<p>你口口声声谁得势谁就如何如何，难道共产党就那么不得人心，犯下了滔天罪恶，以至于人民中有人得势就骨灰难留？</p>
-<p>没有做贼，就不必心虚。你这样讲话，到底是要恐吓共产党呢，还是要抹黑共产党？或者是要制造党与人民的对立与分裂？</p>
-<p>我不知道将军所谓的“自由民主派”到底指什么样的人，到底是党内的还是党外的。若是党外的，枪杆子和刀把子都在党的手中，你担心什么？若是党内的，又何来共产党人将骨灰难留之说，难道他们自己不给自己留骨灰？</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9qqqqqqqqqqqqqqqqqqqqqqqqqqq.jpg" alt="k9qqqqqqqqqqqqqqqqqqqqqqqqqqq" width="542" height="361"></p>
-<p>2, 难道共产党就是自由民主的敌人么</p>
-<p>无论你所谓“自由民主派”指谁，我倒是想问问将军，自由民主历来是共产党的奋斗目标和执政理念之一，在你口中怎么就变成了共产党的死敌呢？</p>
-<p>无论是十八届四中全会决议及其精神，还是业已出台的社会主义核心价值观，都把自由民主作为共产党执政的基本政治理念和诉求之一，你公然与党和政府唱反调，到底意欲何为？</p>
-<p>不管是“自由民主派”还是别的什么派，比如你自诩的“鹰眼鸽心”的鹰派，追求自由民主难道不是响应中央的号召？难道不是一个正常人的正常追求？</p>
-<p>难道你罗将军眼中的共产党就不能容许自由民主的字眼存在？不能容许人民追求自由和民主的权力?</p>
-<p>3, 你到底想留谁的骨灰</p>
-<p>你所参观的罗马尼亚纪念塔，我也看过。那曾经是一个人的纪念塔，后来是罗马尼亚少数几个共产党人的纪念塔，民主改革后又变成了无名烈士纪念塔。变迁的实质，是从纪念一个人变为纪念少数人，再从纪念少数人变为纪念所有为民族解放和独立事业奉献生命的人们。</p>
-<p>这样的变迁难道不好么？难道一个国家的纪念塔只能纪念一个人或少数人，而不应该纪念民族国家的无数英烈？按你这种观念和逻辑，我们的人民英雄纪念碑应该改成纪念某一个人或某几个人的纪念碑？如果这样是正确的，那是不是要在中国建无数个毛主席纪念堂一样的建筑来停放革命领导人们的遗体？</p>
-<p>听说将军的父亲也是革命先辈，这么说，你的父亲也该拥有一个纪念堂才对？</p>
-<p>4, 难道所有共产党人全都是骨灰难留的坏人么</p>
-<p>将军口口声声说共产党人将骨灰难留，到底谁代表全部的共产党人？如果罗马尼亚那几个人的纪念塔改成了无名烈士纪念塔就是共产党人骨灰难留，那么，罗马尼亚的共产党人中，除了那几个人之外，其余的都不是共产党人了？他们全做了共产党的叛徒了吗？</p>
-<p>中国共产党的队伍中出了不少贪官是事实，但我们能说八千万共产党员全是坏人或者全是人民的敌人吗？如果是，那你的共产党人将骨灰难留的论断才可能成立。</p>
-<p>但无论如何，我都不相信中国共产党人全是坏人，更不可能全是人民或者人民中的某个派别的敌人。即便是坏人，也可以放下屠刀立地成佛不是吗？</p>
-<p>你所谓共产党人骨灰难留的论断是不是在绑架全体共产党人？也许你是想恐吓谁，但恐吓也不至于绑架全体吧？</p>
-<p>你虽然是党领导下的将军，但我必需提醒你，不要动不动代表党，没有谁授权你这么做。你更不能动不动恐吓和绑架党，你不应该也无权这么做。连我这个党外的人都看不下去，你真的认为你的言论就是党的声音么？</p>
-<p>最后，我还得再劝你一句，讲话还是要动动脑子。你父亲或你本人将骨灰难留这样的话可以讲，全体共产党人都骨灰难留的话不要讲，因为你只能代表你自己，不能代表党，也不能代表人民或人民中的某个派。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%82%96%E4%BB%B2%E5%8D%8E%EF%BC%9A%E8%AF%B7%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E4%B8%8D%E8%A6%81%E6%81%90%E5%90%93%E5%92%8C%E7%BB%91%E6%9E%B6%E5%85%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A/?category=18271" rel="tag">罗马尼亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E4%BB%B2%E5%8D%8E/?category=18271" rel="tag">肖仲华</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E6%96%B0%E9%97%BB-%E5%B7%B4%E5%85%8B%E8%8E%B1%EF%BC%9A%E5%A4%96%E6%B5%81%E8%B5%84%E9%87%91%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95-%E4%B8%AD%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">凤凰新闻 | 巴克莱：外流资金刷新历史纪录 中国家底还剩多少</a>
-</h2>
-<p><p>彭博跟踪资本流动的指数显示，资金正在以前所未有的速度离开中国。8月份估计有1,416.6亿美元资金流出中国，刷新了7月份创下的1246.2亿美元的纪录。</p>
-<p>上周，我们对中国资本外流的评估做了更新，并指出根据现有资料，从7月上旬到9月中旬，资金外流量已超过3000亿美元。这一数据来自我们对7月国际资本流动报告(TIC)数据、高盛对基础货币需求(包括现货市场和新发行的远期合约)、野村证券对人民银行九月干预措施的分析。</p>
-<p>去年，石油价格下跌，对全球能源出口国的巨额石油美元储蓄造成压力。在中国于8月中旬开启汇率改革之后，外汇储备大幅下降让全球流动性收紧，对发达国家量化宽松政策也造成不同程度影响。这种局面让美联储进退维谷，因为加息政策只会加速资本从新兴市场流出，并对已经出现下滑的美元储备造成进一步下行压力。换言之，基础利率哪怕只提高25个基点(0.25%)，其效果都会被显著放大，并对全球金融系统形成震撼。</p>
-<p>弄清楚中国的最终累计资本外流规模有多大至关重要，因为它代表了外界对全球流动性干涸的预估。此前，我们据美林美银全球研究部对人民币套利交易的评估判断认为，中国的资本外流量可能达到1.1万亿美元。</p>
-<p>毋庸讳言，外界普遍认准人民币还会经历一轮更大规模贬值，远不止8月11日的“一次性”重设。这让外汇储备进一步承受下行压力。当然，每一轮干预措施都会吸走流动性，这意味着北京必须通过降准和释放流动性来抵消紧缩。但是，在市场看来，降准和放水就意味着宽松政策。因此，人民币不得不承受更多压力，并进入恶性循环。</p>
-<p>巴克莱银行表示，中国的外汇储备水平可能会下降至1.2万亿美元。</p>
-<p>巴克莱银行的报告首先解释了调整什么时候才能达到均衡水平，以及如果中国人民银行不允许市场进行足够的深度调整，起决定性作用的因素又是什么。</p>
-<p>充分了解中国资本外流的规模，以及新的经济增长趋势，对理解人民币贬值以及市场干预/管制可持续性而言至关重要。如果政策制定者真心想让市场来决定汇率体系，当资本外流大多能被经常账户顺差或者资本账户(对外直接投资和证券投资)抵消，这种实际汇率的调整就足够了。另一面，如果政策制定者改变最近的政策灵活性，加强市场干预并实施资本管控，那么资本外流规模以及新的经济增长趋势的决定性因素，则是这种干预政策的可持续性。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/fc66fb03d334821.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/fc66fb03d334821.jpg" alt="图注：用世界银行剩余方法得出的非对外直接投资类资本外流估值" width="604" height="302"></a><p>图注：用世界银行剩余方法得出的非对外直接投资类资本外流估值</p></div>
-<p>中国经济放缓，加之中国经济向消费和服务驱动型的发展模式转型，让资本外流的部分难以被经常账户顺差冲抵：</p>
-<p>当中国经常账户存在显著顺差时，资本外流相对来说可以被直接对冲。尽管资本外流在加剧，经常账户占GDP水平仍然很低(约为5%，包括贸易进出口伪报)，而2011年中期经常账户对GDP的占比便已低于8%。全球需求不振、竞争性压力，以及实现经济增长从出口依赖型向消费依赖型转变的再平衡压力，都让近年的经常账户赤字受到削弱。</p>
-<p>巴克莱银行的分析报告还提到了人民币套利交易：</p>
-<p>中国可以通过增加海外市场贷款来冲抵资本外流。现在，中国从外部不同渠道融通到的贷款已达到1万亿美元。我们认为，这部分贷款是中国套利交易的一部分——通过在岸债权人(企业、银行以及非银行金融机构)借短期美元，来投资人民币资产。这部分新增贷款规模很大，中国不仅可以用它来冲抵资本外流，还实现了2011年到2014年期间的外汇储备积累。而现在，不论是对外直接投资形式的资本流入，还是证券投资，都不如国际贷款的规模。</p>
-<p>如果没有这些资金流入，过去几年中，中国的外汇储备还会下降。近期的融资大多来自私人部门跨境贷款。我们估计，过去5年间，这些流入资金已接近达到外流资金的30%，而2008年的这一水平为0％。此外，这些资金本质上都是以美元计价为主的短期贷款，大多流向服务和房地产部门，并增加了对其可持续性的担忧。目前，通过中国私人部门债权人实现的跨境贷款规模达到1.4万亿美元，其中约75%的贷款期限不足一年。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/36b89e15920ad28.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/36b89e15920ad28.jpg" alt="图注：外部贷款上升趋势与美联储宽松政策和美国低利率相吻合" width="450" height="433"></a><p>图注：外部贷款上升趋势与美联储宽松政策和美国低利率相吻合</p></div>
-<p>巴克莱银行还谈到了“下行情景”：</p>
-<p>根据我们的测量，非对外直接投资资本外流占GDP的8%到10%，能通过经常账户得到的融资占GDP的5%到6%(包括贸易进出口伪报)，二者相差约3%到4%。这是在假定资本外流不会进一步加速的情况下。而汇率有更大灵活性可以帮助中国减少套利交易，增加国际贷款的赔付。短期贷款占GDP比重的历史水平为4%，而目前为10%且可能出现进一步下滑。这意味着还会有资本外流发生，约占GDP的5%。</p>
-<p>目前，净外国直接投资和证券投资加起来占GDP的2.5%。一旦经济增长遭遇大震荡，它们也可能出现干涸甚至逆转。这种情况可能类似2007年的状况，资本外流会占到GDP的2%。</p>
-<p>上述数字表明，在这种下行情景中，央行要为市场提供GDP的约10-12%，来冲抵资本外流以及对冲需求(可能通过在远期市场的干预实现)，将面临很大压力。这大约是1到1.2万亿美元，相当于现有储备资产组合的约30%。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/2ae730a1a3bdbef.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/2ae730a1a3bdbef.jpg" alt="图注：在下行情景中，按年计算储备量降幅可以超过GDP的10%" width="450" height="435"></a><p>图注：在下行情景中，按年计算储备量降幅可以超过GDP的10%</p></div>
-<p>巴克莱银行报告中最经典的一句话是：“随着中国央行清算储备，在岸市场流动性会收紧。这意味着，央行要下调存款准备金率500个基点(5%)以保持流动性。”</p>
-<p>这并不是什么新东西，事实上，我们之前就对此做过讨论，但它的重要性却值得重申。显然，将政策利率下调500个基点，意味着大规模宽松。而大规模宽松有必然常常与货币贬值相关联。简言之，中国对抵消人民币贬值压力所做出的努力，必然超过下调低政策利率。而这只会给人民币下行带来更多压力。</p>
-<p>正如我们前面提到的，如果中国最终清算了1.2万亿美元的外汇储备，这将抵消掉美联储第三轮量化宽松政策的60%以上的效果，并对10年期美国债券收益率造成200个基点的上行压力。</p>
-<p>本文译自ZeroHedge(克克/编译)</p>
-<p><strong>风险提示：</strong>本文仅作为一般财经信息供读者参考，不代表凤凰iMarkets立场。本文或其任何部分不应被视为任何买卖的邀请或诱导。凤凰iMarkets不能保证文中信息的准确性、完整性和及时性，文中的任何错误都不能成为向凤凰iMarkets提起任何申诉的基础。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%87%A4%E5%87%B0%E6%96%B0%E9%97%BB-%E5%B7%B4%E5%85%8B%E8%8E%B1%EF%BC%9A%E5%A4%96%E6%B5%81%E8%B5%84%E9%87%91%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95-%E4%B8%AD%E5%9B%BD%E5%AE%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C/?category=18271" rel="tag">下跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">世界银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国人民银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%8E%87/?category=18271" rel="tag">利率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87/?category=18271" rel="tag">存款准备金率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E5%85%8B%E8%8E%B1%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">巴克莱银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">市场干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%8D%95/" target="cdt-mirror">羽戈：报书单</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B0%81%E6%98%AF%E4%B9%A0%E5%A4%A7%E5%A4%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B0%81%E6%98%AF%E4%B9%A0%E5%A4%A7%E5%A4%A7.png" alt="谁是习大大" width="550" height="377"></a><p>Youtube 页面截图 ／ 配图与文章无关</p></div>
-<p><strong>以下内容来自微信公号：羽戈(yuge830)</strong></p>
-<p><em>他那么喜欢报书单<br>
-只是为了掩饰自己的浅陋<br>
-就像他惯于用狂妄掩饰自己的自卑？</em></p>
-<p><strong>文 <strong>| 羽戈（青年学者）</strong></strong></p>
-<p>蛋总的初恋，是九班的李若彤。此女与蛋总同乡，高中同班，大学同系，渊源不可谓不深，以至蛋总常常叹为千年之缘、天作之合。情人眼里出西施，在蛋总看来，她有七分神似我们那代人的女神李若彤（尽管我们认为只有三分相像，不过为了给蛋总面子，便一直称其为“李若彤”，时至今日，竟而忘记了本名），可惜个头矮了点，显得过于丰腴。蛋总那时还是处男，为叶子楣的表演所蛊惑，最爱这一款肉弹，朝思暮想，夜不能寐，跑到卫生间打手枪，最后关头高喊李若彤的名字，如一道性感的闪电划破了躁动的长夜。</p>
-<p>李若彤好读书，酷爱西方文学，听说我有加缪的文集，打电话托蛋总来借。蛋总思得一计，问我：你这一床书，哪本最难读？我答：黑格尔《精神现象学》。蛋总找出这两卷书，看了看定价，掏出五十块钱，说这书归我了。我骂了一声，把钱还他，道：反正这书我也不会再读，你拿去耍好了。他乐不可支，开始用功，在书中四处批注，如“深刻”“偏见”“令我想起了柏拉图《斐多篇》”云云。<strong>这厮虽不学无术，却写了一手好字。不出半日，《精神现象学》上卷便布满蛋总的墨宝，花团锦簇</strong>。我警告他适可而止，过犹不及，以免露出马脚。他嗯嗯点头，把黑格尔与加缪包成一团，到十二舍找李若彤。</p>
-<p>晚上回寝室，见蛋总高卧床上，一脸落寞。我知战况不佳，故意不去理他，片刻之后，他主动过来搭话。原来他把《精神现象学》和《加缪文集》一并拿给李若彤，告诉人家：最近我正读黑格尔，建议你也看看，对理解加缪有些帮助。李若彤接过《精神现象学》，翻了两页，突然骂道：脑壳有包！</p>
-<p>这段恋情，就此不了了之。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/640110.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/640110.jpg" alt="6401" width="525" height="330"></a></p>
-<p>蛋总之后，隔壁寝室的小马开始追李若彤。</p>
-<p>小马是江西人，面黄肌瘦，其貌不扬，然而志在千里，心雄万夫，日常说话，口气大，术语多。<strong>我们刚入大学，尚且在法律门外徘徊，他便一口一个“自然法”，一口一个“王泽鉴”，三句话后，全场鸦雀无声。</strong></p>
-<p>陈独秀有两句诗“沧溟何辽阔，龙性岂易驯”，我非常喜欢，请一友题字，悬于壁上，日夜揣摩。小马见后，狂笑不止，拉我到他寝室，但见其床头高悬一副狂草，如鬼画符，端详半晌，我只识得两个字，只好老老实实请他指点。他一字一顿，缓缓念道：大泽龙方蛰，中原鹿正肥。我大惊失色，自愧不如。数年后读中国近代史，才知这是袁世凯少年之作。</p>
-<p>和小马交往久了，渐渐窥破他的底细。<strong>这厮志大才疏，腹中的墨水堪比食堂的稀饭，看似浩浩汤汤，搅动两筷子便见了底</strong>。可惜了那一流的天资和记忆力，偏偏不愿吃苦，性喜投机取巧，尤好卖弄，于读书治学只能浅尝辄止。最要命的是，他自视甚高，友朋的忠言，统统被当作耳旁风。我曾劝他用心读经典，反遭奚落，自此在他面前只说三分话。</p>
-<p>有一天小马忽然来找我，请教西方文学读书之法。问其缘故，他直言：要追李若彤。我说李若彤最喜欢法国文学，其次俄罗斯文学，这两块的书籍，浩如烟海，你先从加缪读起，再读萨特……他不耐烦，打断了我的话：这样读，书没读完呢，人都老了，有没有速成法？我强压怒气，冷冷道：没有！</p>
-<p>我以为他会知难而退，不料还是低估了他的决心和智商。这厮面壁数日，硬是摸出了一些门道。大约半年过后，他追求李若彤失败，找我喝酒消愁，席间倾吐伤心事，言及读书速成之术，不由令我刮目相看。</p>
-<p><strong> </strong></p>
-<p><strong>小马的第一招，学自许知远</strong>。彼时许知远任《经济观察报》主笔，他写文章有一习惯，外国人必称全名，如伯林要称“以赛亚·伯林”、乔姆斯基要称“诺姆·乔姆斯基”、曼彻斯特要称“威廉·曼彻斯特”。小马读过两篇许知远之后，认为如此表达，最显学问，于是熟记西方作家的全名与本名。当他说到加缪，则曰“阿尔贝·加缪”，说到萨特，则曰“让-保罗·萨特”，说到波伏娃，则曰“西蒙娜·德·波伏娃”。好玩的是，有些作家，以笔名传世，本名反而湮没，小马煞费苦心，钩沉索隐，翻出这些人的家底，与人言谈，不称高尔基，而曰“阿列克塞·马克西莫维奇·彼什科夫”，不称乔治·奥威尔，而曰“埃里克·阿瑟·布莱尔”，不称宇文所安，而曰“斯蒂芬·欧文”。你若一脸茫然，他便得意非凡。</p>
-<p><strong>第二招属于版本学</strong>。小马泡了一月图书馆，用电脑检索加缪、萨特等人的中译本，抄在笔记本上，回头铭记于心。他的聪明之处在于，不单记版本，而且按图索骥，查明这些书在图书馆的具体位置，譬如说到加缪《鼠疫》，他会告诉你，此书藏在三楼文学书架哪一排，说到萨特《存在与虚无》，他会告诉你，此书藏在二楼哲学书架哪一排。于是江湖传言，小马把图书馆的书都读光了，小马听后，愈发得意。</p>
-<p><strong>意犹未尽，小马构思了第三招：借阅名著，专记开头</strong>。他曾假设这样的场景。当我们与李若彤一起吃饭，他故意问我：你最近在读什么书？</p>
-<blockquote><p>我答：陀思妥耶夫斯基《卡拉马佐夫兄弟》。</p>
-<p>他问：你知道这本书开头怎么写吗？</p>
-<p>我张口结舌。</p>
-<p>他洋洋自得，朗声背道：“阿历克赛·费多罗维奇·卡拉马佐夫是我县地主费多尔·巴夫洛维奇·卡拉马佐夫的第三个儿子……”</p>
-<p>李若彤定睛看他，满眼钦佩与爱慕。</p></blockquote>
-<p>遗憾的是，这一幕只存在于小马的想象之中。</p>
-<p>除了开头，小马还能背诵一些书中的经典段落。他最擅长的一段，出自李若彤挚爱的加缪《反与正》序言:“贫穷对我来说，从来就不是一种不幸：光明在其中播撒着它的财富。甚至我的反抗也被照亮了。我认为我可以真诚地说，我的反抗几乎是为了所有人的反抗，为了所有人的生活在光明中提高。我不能肯定我的心自然地适应于这种爱。但是环境帮助了我。为了打破一种自然的冷漠，我被置身于苦难和阳光之间。苦难不能使我认为阳光下和历史中一切都是好的；阳光告诉我历史并不就是一切。改变生活，是的，但请不要改变赋予我神性的世界。”</p>
-<p>写到这里，<strong>我得感谢小马，因为我曾偷师于他</strong>。大四那年，我参加一场文学活动，谈及加缪与萨特之争，当场背诵加缪的这段话，震惊四座，使我的虚荣心得到了大大的满足。</p>
-<p>与蛋总一样，小马追求李若彤以失败告终，否则我也不会听来这些故事。不过，恋情虽然终结，故事还在继续。</p>
-<p>记人名，记版本，背开头，背格言，不得不承认，都是硬功夫。<strong>这一番艰苦磨砺，使得小马的内心急剧膨胀，从此以读书人自命，以博览群书自诩</strong>。平时闲谈，提到一个作家，他马上报出一份书单，并指出这本书藏于图书馆哪个位置，那本书的开头怎么写。假如蛋总在侧，必定会问他：马哥，这些书你都读过吗？小马满脸鄙夷：废话！</p>
-<p>有一晚，小马到我寝室玩，恰巧我与一帮朋友正在交流阅读列奥·施特劳斯的感受。他翻了翻桌上的《自然权利与历史》，说道：这个人还写过《野性的思维》、《忧郁的热带》、《结构人类学》等……<strong>我心想：小马把列维·施特劳斯和列奥·施特劳斯搞混了。正寻思要不要点破</strong>，对面一位老兄性急，开口道：你说的是列维·施特劳斯，我们谈的是列奥·施特劳斯，一个是人类学家，一个是政治哲学家……小马下巴一抬，大声说：列奥列维，就是一个人！我读书那么多，你还想骗我！</p>
-<p>小马扬长而去，朋友议论纷纷。我呆若木鸡，不知该怎么向他们解释，因为我无法揣测小马此时的心理：<strong>难道他过于入戏，以为读人名，读版本，读开头，便如读过一本书么；或者，他那么喜欢报书单，只是为了掩饰自己的浅陋，就像他惯于用狂妄掩饰自己的自卑？</strong></p>
-<p>转眼便是毕业季。小马考进了家乡的检察院，未入公门，已经是一副官爷的气派，成天用下巴看人，笑起来一脸深沉。他的人缘原本不佳，此刻更被孤立。生日那天，他在“蒙古人”摆酒，能坐十二人的包厢，陆陆续续只到了六个人，我见小马的脸色越来越难看，赶忙打电话喊蛋总等人下楼喝酒。</p>
-<p>小马酒量平平，三瓶啤酒，便一脸醉态，开始指点江山，大放厥词。听见我与一位朋友谈论一本新书，他拍桌感慨：你们这些他妈的读书人……</p>
-<p><strong>酒后真言，小马终于把自己划出了读书人之列</strong>。</p>
-<p>2015年9月25日</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/jHsupwDgZzCSTwkO76rp1lwcwLMaQyIb7vYH34AGktfocjo2GEjvSeqAfWdnLicZqic49BSl8KYCkHbD4xnnUAvA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" alt="" width="300" height="240" data-src="http://mmbiz.qpic.cn/mmbiz/jHsupwDgZzCSTwkO76rp1lwcwLMaQyIb7vYH34AGktfocjo2GEjvSeqAfWdnLicZqic49BSl8KYCkHbD4xnnUAvA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-type="jpeg" data-w="400" data-ratio="0.8" data-s="300,640"></p>
-<blockquote><p><strong>羽戈</strong> 青年学者<br>
-念念不忘，必有回响。微信公众号：羽戈(yuge830)</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -669,7 +649,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -679,5 +659,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

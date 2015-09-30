@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,74 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%AF%B9%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%9A%84%E6%B8%97%E9%80%8F/" target="cdt-mirror">美国之音｜中共将加强对非政府组织的渗透</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/06/500x281x171744xsfzosuiddus4ol7.jpg.pagespeed.ic.3nzzAhmV1u.jpg" alt="米共" width="500" height="281"><br><em>（图片来自北京社会领域党建网）</em></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%A5%E5%90%8E%E5%8F%AA%E6%9C%89%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86%E7%81%8C%E9%A1%B6%E5%BC%80%E5%85%89%E8%BF%87%E7%9A%84%E7%B1%B3%E6%89%8D/">【网络民议】以后只有宇宙真理灌顶开光过的米才可以卖</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E7%B1%B3%E2%80%A2%E5%85%B1/">【麻辣总局】米•共</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%8A%E8%BF%87%E5%A4%A7%E5%AD%A6%E7%9A%84%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%EF%BC%8C%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E8%83%BD/">【网络民议】上过大学的人都知道，什么样的人能入党</a></li>
+</ul></blockquote>
+<p>华盛顿—</p>
+<p>中国官方星期二的消息说，中共中央组织部通过税收补贴等其他财政优惠政策“鼓励”中国的非政府组织、工会以及基金会加强党的建设，扩大党员在这些团体的存在。一些非政府组织团体对此表示反对。</p>
+<p>中共中央办公厅最近印发了《关于加强社会组织党的建设工作的意见》（试行）并发出通知，要求各地区各部门结合实际认真贯彻执行。新华社援引中组部负责人的话说，加强在社会团体的党的建设作用，目的是“引领社会组织正确发展方向，保证党的路线方针政策在社会组织全面贯彻落实。”</p>
+<p>根据这个意见，非政府组织，工会以及基金会有超过三个党员的应该建立党支部，社区也应该建立党支部并组织活动。这些党支部应该“动员和鼓励普通民众抵制负面影响和非法活动”。</p>
+<p>这份意见还表示，如果这些社会团体做出积极的响应，将会获得税收补贴和其他财政优惠政策。</p>
+<p>但是，一些非政府组织的人对此表示不赞成。 香港《南华早报》援引广东番禺打工者服务部负责人曾飞洋的话说，“我们是社会服务组织，我们不希望，也不会被政治化，保持独立对我们很重要，这样我们可以提供社会服务而不受政治议程的影响。”</p>
+<p>中国香港商会–广东名誉会长林卫智也对《南华早报》表示，他们的会员的工会自1993年以来都没有接受过任何政治指导意见。</p>
+<p>他说：“我们的董事会的高级执行官很多来自世界五百强的企业，他们对在工会建立共产党支部不会有兴趣。”</p>
+<p>中共先后在1998年和2000年共同发布加强在社会团体中的党的建设的意见。但是，这次针对的范围有所扩大。以前主要是针对社会团体，不包括民办 非企业单位和基金会。此次的文件则规定，除在民政部门注册的社会团体、民办非企业单位和基金会之外，还包括社会中介组织和城乡社区社会组织。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%AF%B9%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%9A%84%E6%B8%97%E9%80%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%94%AF%E9%83%A8/?category=18271" rel="tag">党支部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87%E9%83%A8/?category=18271" rel="tag">组织部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E6%88%98%E9%83%A8/?category=18271" rel="tag">统战部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B4%87%E5%B0%9A%E7%BE%8E%E5%BC%8F%E6%96%87%E5%8C%96-%E5%8D%B4%E6%80%80%E6%9C%89%E6%94%BF%E6%B2%BB%E6%95%8C/" target="cdt-mirror">纽约时报 | 中国年轻人崇尚美式文化 却怀有政治敌意</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/29China-web-articleLarge-v4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/29China-web-articleLarge-v4.jpg" alt="Joe Chen是一位生活在美国的中国人，上周在西雅图，他手持中国国旗等待迎接到访的习近平。" width="600" height="400"></a><p>Joe Chen是一位生活在美国的中国人，上周在西雅图，他手持中国国旗等待迎接到访的习近平。</p></div>
+<p>身穿印有超大美元钞票的帽衫的赵亦祥（音译）靠销售美国牌子的滑板谋生，他羡慕美国的许多方面，包括刺耳的说唱音乐和自由表达的传统。</p>
+<p>“美国是一个充满言论自由的国家，”他在自己位于北京市中心的店里说。“你可以说你想说的东西，去你想去的地方，选择你自己的生活方式。我很羡慕这些。但在领土和军事问题，我们有很多分歧。”</p>
+<p>“我觉得，我这代人中有很多人与我的想法一样，”26岁的赵先生说。“我们真的很喜欢美国的文化，但我们也希望有一个不对外国示弱的政府。”</p>
+<p>随着中国国家主席<a href="http://cn.nytimes.com/china/20150928/c28xi/" target="_blank" rel="nofollow">习近平</a>对美国的访问以周一在联合国发表讲演而告终，像赵先生这样的中国年轻人给美国的政策制定者们提出一个两难的问题，政策制定者们希望能通过美国巨大的文化影响力来打头阵，让这里的舆论即使不同情美国，也更愿意接受美国。</p>
+<p>在某些方面，美国文化对中国的影响程度比以往任何时候都深。尽管存在审查制度、对进口文化的限制，以及互联网上的重重障碍，但美国的电视、电影、音乐和技术已被人们广泛且如饥似渴地享用。习近平在访美期间，也<a href="http://cn.nytimes.com/china/20150924/c24sino-xijinping/" target="_blank" rel="nofollow">对这种影响有所表示</a>，他提到了美国作家、流行电视连续剧《纸牌屋》，以及几部好莱坞影片，他还和<a href="http://cn.nytimes.com/china/20150924/c24xijinping/" target="_blank" rel="nofollow">来自硅谷的著名企业领导人</a>见了面。</p>
+<p>然而，研究和调查显示，包括青年在内的许多中国人，对美国仍持谨慎态度，对华盛顿的外交意图持敌对情绪，尤其是当中国的领土主张和日益增长的影响力受到威胁时。中国在这方面并不特别，但其日益强大的地位，使这种文化上受吸引、政治上不信任的对比尤为鲜明。</p>
+<p>“即使你拥有文化软实力和文化吸引力，但这并不意味着人们认同和支持你的政策，”北京外国语大学教授谢涛说，他从事公众舆论和中美关系方面的研究。</p>
+<p>他说，在他的学生中，“你可以感觉到本科生对美国文化有认同，他们喜欢美国的高等教育和篮球等东西。但是，当你与他们讨论美国政策时，这些人中的许多人持强烈的批评态度。”</p>
+<p>这里的人所看到的、对习近平访美的铺天盖地的新闻报道，都是有关这位领导人作为强大、稳健的政治家的图片和描述，他赢得了<a title="Link: http://cn.nytimes.com/world/20150926/cc26statedinner/" href="http://cn.nytimes.com/world/20150926/cc26statedinner/" target="_blank" rel="nofollow">奥巴马总统</a>、美国技术高管，以及<a href="http://news.xinhuanet.com/english/2015-09/22/c_134649129.htm" target="_blank" rel="nofollow">普通老百姓</a>的尊敬。</p>
+<p>谢涛说，“中国领导人对美国的国事访问，首先是对国内观众的表演。这次国事访问受到奥巴马总统的接待，以及美国媒体的高度关注，都表明习近平拥有国际地位，值得和应该受到尊重。”</p>
+<p>对习近平访美的广告宣传有的走到了独出心裁的极端。官方新闻媒体把这次访问<a href="http://news.cntv.cn/2015/09/23/ARTI1442995725404694.shtml" target="_blank" rel="nofollow">比作邓小平1979年访美</a>，那次访问帮助中美两国重新建立了外交关系。一段在线视频还显示了受招而来的外国留学生动感情地对习近平作出好评。英文报纸<a href="http://usa.chinadaily.com.cn/us/2015-09/20/content_21930373.htm" target="_blank" rel="nofollow">《中国日报》称</a>，调查发现，有近80％的美国青少年对习近平的来访表示了兴趣。</p>
+<p>这让有些中国人吃不消，尽管他们平时习惯了这种高调的宣传。</p>
+<p>“对美国的国事访问是件大事，”在北京一所大学读英文的学生玛丽·李(Mary Li)说，她为了避免麻烦不愿用自己的中国名字。“但我们知道，美国并不围着中国转。教皇也访美了，不是吗？”</p>
+<p>但民意调查显示，许多中国人支持政府在国际关系问题上的观点，尽管他们羡慕美国生活的其他方面。皮尤研究中心(Pew Research Center)等机构的研究表明，对美国企业、甚至美国的一些价值观所表示的钦佩，往往与对美国政府的意图、尤其是其在海外的意图的戒心并存（该<a href="http://www.pewresearch.org/fact-tank/2015/09/22/6-facts-about-how-americans-and-chinese-see-each-other/" target="_blank" rel="nofollow">调查显示</a>，许多美国人对中国政府的意图也保持戒心）。</p>
+<p>基于<a title="Link: http://www.pewglobal.org/files/2015/06/Balance-of-Power-Report-FINAL-June-23-20151.pdf" href="http://www.pewglobal.org/files/2015/06/Balance-of-Power-Report-FINAL-June-23-20151.pdf" target="_blank" rel="nofollow">今年调查的最新结果</a>显示，中国受访者中有67％的人说，中国即将取代或已经取代美国，成为世界头号超级大国（在西方国家，许多受访者对此表示同意）。54％的多数中国人说，美国正在寻求阻止中国变得与自己一样强大。</p>
+<p>  “如果你是老大，你肯定会试图把我们压在下面，”20多岁的软件程序员董建言（音）说。“但是涉及到我们的利益时，我们需要强硬。比如，在领土问题上，我们需要非常坚定。”</p>
+<p>美国娱乐的流行也没有改变对美国意图的持续不信任。上个月，《生活大爆炸》(The Big Bang Theory)第八季在搜狐上吸引了<a title="Link: http://tv.sohu.com/rank/usa_tv.shtml" href="http://tv.sohu.com/rank/usa_tv.shtml" target="_blank">超过4500万人观看</a>。美国的动作影片《速度与激情7》(Furious 7)目前是中国票房今年最受欢迎的电影，<a title="Link: http://www.douban.com/doulist/36742433/" href="http://www.douban.com/doulist/36742433/" target="_blank">据政府估计</a>，该片险胜中国动画历险片《捉妖记》。</p>
+<p>这样的接触可能会带来一些影响，至少会影响年轻人。根据皮尤的调查，18–29岁的中国受访者中，59%的人对美国有好感，相比之下，30-49岁的受访者中，有45%的人对美国有好感，在50及50岁以上的受访者中这个数字仅为29%。</p>
+<p>“现在我们经济上太过相互依赖，因此不会发生重大冲突，但是政治紧张是无法避免的，”31岁的办公室经理苏珊·邓(Susan Deng)说，她今年第一次去了美国。她要求使用英文名以便能更加坦率地谈论政治。</p>
+<p>“我非常赞同美国的价值观——开放以及个人主义，不像我们的集体主义，”她说道。“但是在地缘政治上，每个国家都会有自己的立场，那是不会变的。”</p>
+<p>奥克拉荷马大学的葛小伟(Peter Hays Gries)教授研究中美关系的政治心理，他说通过<a href="http://carnegieendowment.org/2015/09/23/perception-and-misperception-in-american-and-chinese-views-of-other/ii18" target="_blank">更仔细分析</a>先前的民意调查可以看出，很多中国人“通过中国的教育体系进行社会化后，对世界是不信任的”。</p>
+<p>他说中国的年轻人“很容易接受这样的观点，即西方国家并不真的在意人权和民主，只是单纯利用这些问题来进一步侮辱及羞辱中国”。</p>
+<p>现年28岁的李永宏（音）住在北京，他说他对美国的观点不是灌输的结果。</p>
+<p>“他们肯定在试图遏制我们——大国之间就是这样，”他说。他还说他对美国电影和智能手机的喜爱不会冲淡他的观点。</p>
+<p>“其实，这个iPhone是中国生产的，”他说着从口袋中掏出手机。“在大问题上，中国通常都是对的。这是事实。”</p>
+<div>
+<p>储百亮(Chris Buckley)是《纽约时报》驻京记者。</p>
+<p>Mia Li有研究贡献。</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B4%87%E5%B0%9A%E7%BE%8E%E5%BC%8F%E6%96%87%E5%8C%96-%E5%8D%B4%E6%80%80%E6%9C%89%E6%94%BF%E6%B2%BB%E6%95%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">地缘政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%8C%E6%84%8F/?category=18271" rel="tag">政治敌意</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%BC%8F%E6%96%87%E5%8C%96/?category=18271" rel="tag">美式文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">访美</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E6%9D%8E%E5%98%89%E8%AF%9A%E5%8F%8D%E9%A9%B3%E5%86%85%E5%AA%92%E6%8C%87%E8%B4%A3%EF%BC%9A%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97-%E6%B7%B1%E6%84%9F%E9%81%97/" target="cdt-mirror">苹果日报 | 李嘉诚反驳内媒指责：不寒而栗 深感遗憾</a>
 </h2>
 <p><p>近期不少内地传媒评论，长和主席李嘉诚从内地撤资，李嘉诚今日高调回应相关言论，直指「文章的文理扭曲，语调令人不寒而栗，深感遗憾。」</p>
@@ -566,82 +631,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/" target="cdt-mirror">【网络民议】共产主义理想没有辜负胡总编</a>
-</h2>
-<p><p><a href="http://weibo.com/poetjustice" target="_blank"><img src="http://tp1.sinaimg.cn/1701401324/50/5703338318/1" alt="徐昕" width="50" height="50"></a><a href="http://weibo.com/poetjustice" target="_blank">徐昕</a> ：鉴于<a href="http://weibo.com/n/%E8%83%A1%E9%94%A1%E8%BF%9B?from=feed&loc=at" target="_blank">@胡锡进</a> 总编请过我们一批人吃饭，若需依法维权、申诉、上访，我愿竭诚提供法律帮助</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/656952ecgw1ewgsdalgazj20c813vdlb-314x1024.jpg" alt="656952ecgw1ewgsdalgazj20c813vdlb" width="420" height="1370"></p>
-<p>以下网民评论由数字时代编辑选自新浪微博：</p>
-<p><a href="http://weibo.com/2940931215" target="_blank">山高水长s</a>：报应到了。</p>
-<p><a href="http://weibo.com/u/3967316260">双墩张其青</a>：寒心,像混球屎报的胡乱编这样忠心耿耿的太监都被处分,还有天理不?</p>
-<p><a href="http://weibo.com/5012665310" target="_blank">WeLoveKoKoFoever</a>：我想说的只有一个字 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>
-<p><a href="http://weibo.com/1802601603" target="_blank">邸文考</a>：原来胡编<a href="http://weibo.com/n/%E8%83%A1%E9%94%A1%E8%BF%9B?from=feed&loc=at" target="_blank">@胡锡进</a> 就是“适度腐败”的腐败分子啊，所以他自己亲自撰文“应当允许中国适度腐败，民众要理解”，看来他是在为自己的“适度腐败”行为开脱罪责啊！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/1958431095" target="_blank">秀色苍穹2011</a>：叼盘也没用。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p><a href="http://weibo.com/liva" target="_blank">窝洛克</a>：《主编受处分彰显自我监督完备》，《内部处分轮不着敌对势力幸灾乐祸者》，《适度贪腐不被一棍子打死是一种理性治理》</p>
-<p><a href="http://weibo.com/1605652472" target="_blank">普罗美修士</a>：//<a href="http://weibo.com/n/i-want-it-that-way?from=feed&loc=at" target="_blank">@i-want-it-that-way</a>: //<a href="http://weibo.com/n/%E6%B2%A1%E5%88%B0%E8%BF%87%E6%A9%98%E5%AD%90%E6%B4%B2%E5%A4%B4?from=feed&loc=at" target="_blank">@没到过橘子洲头</a>: //<a href="http://weibo.com/n/LifeTime?from=feed&loc=at" target="_blank">@LifeTime</a>:试着用环球体来几篇狡辩的社评：《主编受处分彰显自我监督完备》，《内部处分轮不着敌对势力幸灾乐祸者》，《适度贪腐不被一棍子打死是一种理性治理》。<img title="[偷乐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif" alt="[偷乐]"></p>
-<p><a href="http://weibo.com/2795894310" target="_blank">张世影</a>：肯定是境外敌对势力从中捣鬼，欲图谋害我党忠良斗士，再一次雄辩地证明，腐朽的资本主义价值观是穿肠毒药，一定要旗帜鲜明地反对和批判。</p>
-<p><a href="http://weibo.com/2401247845" target="_blank">最新鲜百科</a>：警惕国外敌对势力炒作<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/1741809655" target="_blank">蜀翘</a>：这是中秋一乐！！！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/u/1908414004">leyecn乐也</a>：堂堂胡大总编也和我等小官一样，喜欢贪点小便宜，“有权不用过期作废”的道理还是懂的，就别再装逼了。</p>
-<p><a href="http://weibo.com/2675844833" target="_blank">草席一张的春天</a>：看来，那段搔首弄姿，阴阳怪气的歌颂共产主义的视频，最终让高层也看呕吐了，这不是打着护法的旗号暗地抹黑我党么，实在是要治一下这小子了。</p>
-<p><a href="http://weibo.com/2802149512" target="_blank">真地太累</a>：胡总，咋办？好像昨前天还在高唱共产主义主旋律嘛，可你这做法符合哪章哪条呢？是不是马克思特许的？以前只看到你的“言”，这次看到你的“行”，OK，一致了。劝你莫辩解，越辩越黑，周一上班直接辞了算。可惜了的，这不，不刚刚才春风得意地出了视频吗！</p>
-<p><a href="http://weibo.com/1718281293" target="_blank">blue蓝青天</a><i></i>：坐等视频<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">//<a href="http://weibo.com/n/%E8%80%81%E9%A9%AC_%E5%9C%A8%E9%80%94?from=feed&loc=at" target="_blank">@老马_在途</a>: 胡总编，再出个视频，发表点评论呗！</p>
-<p><a href="http://weibo.com/3058643605" target="_blank">An313058643605</a>：自从瞻仰了胡编猥琐的视频后，终于知道胡编单仁平是什么货色了。</p>
-<p><a href="http://weibo.com/2311431354" target="_blank">红梅赞赞</a>：胡锡进得罪谁了？像文强那样偷偷操了主子的女人被主子发现了？舔痔吸痈狗舔错地方被主子一脚踢开了？哈哈哈哈哈哈哈，拿胡锡进这条狗开刀，看来派系斗争很激烈，继续看大戏，它们互相砍死就是对人类最大贡献，哈哈哈哈哈哈哈</p>
-<p><a href="http://weibo.com/1423243510" target="_blank">天下平2012</a>： 胡锡进同志曾几何时不顾吃相难看，生吞一块共产主义的肥肉，不幸东窗事发，被逼吐出来。从某个层面上说共产主义确实没有辜负中国人民，她居然不理解胡锡进 和他的同志们搞点适当的腐败，真是对不起胡锡进同志长期以来施展各种叼功的苦劳，酱紫的共产主义与胡同志的共产主义差距怎么这样大呢？呵呵!</p>
-<p><a href="http://weibo.com/1366567550" target="_blank">漫随流云</a>：请教胡总，波兰红灯区提供发票吗？</p>
-<p><a href="http://weibo.com/2016345601" target="_blank">网上闲闲人</a>：我说吗，有头有脸的你当什么“五毛”？“五毛”只能让没房，没车，没钱方便面当饭吃的干呀。何必抢别人饭碗呢？<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
-<p><a href="http://weibo.com/2059763875" target="_blank">要求注册很恶心</a>：共产主义理想没有辜负胡总编</p>
-<p><a href="http://weibo.com/2735357831" target="_blank">Edmeston</a>：多吃几口狗粮都不行，这让其他五毛狗爱国狗看了是何等的不是滋味啊</p>
-<p><a href="http://weibo.com/1829154344" target="_blank">曾经我的眼印过你的笑</a>：花带上路，胡总就到这地步了？//<a href="http://weibo.com/n/%E9%93%81%E5%93%A5%E6%97%A5%E8%AE%B0718?from=feed&loc=at" target="_blank">@铁哥日记718</a>: 叼一次盘子就足以抵消！//<a href="http://weibo.com/n/%E4%B8%80%E5%93%81%E6%B3%A5%E4%BA%BAV?from=feed&loc=at" target="_blank">@一品泥人V</a>: //<a href="http://weibo.com/n/%E5%B9%BF%E4%B8%9C%E7%B2%A4%E5%B9%BF%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80?from=feed&loc=at" target="_blank">@广东粤广律师事务所</a>:叼盘子的也不容易，幸好狗多是实诚的。<img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"></p>
-<p><a href="http://weibo.com/5019018575" target="_blank">一花一世界ii往事并不如烟</a>：奴才大都如此，口里说得堂皇，私下干的是肮脏事~</p>
-<p><a href="http://weibo.com/1917347883" target="_blank">折腾的skyracer</a><i title="微博达人"></i>：在89年毕业能分配进人民日报，啧啧。。。</p>
-<p><a href="http://weibo.com/binwang4463" target="_blank">王彬</a>：胡编89年毕业进入了“好单位”，很好奇在那场学运中他扮演了什么角色？</p>
-<p><a href="http://weibo.com/kangqiaowang" target="_blank">王春生律师</a>：向编委会申辩：可以适度腐败嘛。<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/3921892823" target="_blank">用户szbkbyl9q9</a>：前两天不还在谈共产主义吗?<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/3169227990" target="_blank">站住大和尚</a>：<a href="http://weibo.com/n/%E8%83%A1%E9%94%A1%E8%BF%9B?from=feed&loc=at" target="_blank">@胡锡进</a> 摇尾巴叼飞盘那么敬业，老子吃几顿饭，出去玩玩有什么了不起！！</p>
-<p><a href="http://weibo.com/gywb1newsroom" target="_blank">ecstacyeah</a>：胡编特别有古代某种职业的气质，特妖冶。</p>
-<p><a href="http://weibo.com/forbenq" target="_blank">宽客老魏</a>：胡锡进属于心眼极坏的那类人，将来一定会被写进史书，遗臭万年。//<a href="http://weibo.com/n/%E7%8C%AB%E8%B4%A2%E7%BB%8F?from=feed&loc=at" target="_blank">@猫财经</a>: 转发微博</p>
-<p><a title="方悄悄诺娃" href="http://weibo.com/fangqiaoqiao" target="_blank">方悄悄诺娃</a>:  我感觉如果有地狱，可能得给<span>胡锡进</span>总编辑专设一层。</p>
-<p><a href="http://weibo.com/zangyunchuan">拈花三藏</a>：九层妖塔吧⋯⋯</p>
-<p><a href="http://weibo.com/5634050789" target="_blank">李颖_201508</a>：和方滨狗谁上谁下，需要好好研究</p>
-<p><a href="http://weibo.com/5591506984" target="_blank">宋石男41</a>：空叼飞盘三十年，到头翻似烂柯人。<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
-<p><a href="http://weibo.com/liaobaohua" target="_blank">baohuaa</a>：中国最权威的五毛连这点小便宜都贪，建议中宣部给五毛们涨涨工资，改善一下生活条件。</p>
-<p><a href="http://weibo.com/1490211551" target="_blank">_菩提树枝</a>：做狗奴才的下场。犬得好，主人扔根骨头；犬得不好，主人大棒伺候。坚决支持周_带_鱼接任环球屎报总编辑的职务。</p>
-<p><a title="听剑那美妙的绽放" href="http://weibo.com/u/5696197332" target="_blank">听剑那美妙的绽放</a>:（转）北京的哥：网上流传消息：环球时报主编<span>胡锡进</span>到国外开会擅自变更路线去波兰旅游三天，公款报销，被人民日报给予警告处分。感受：1 这就是胡锡进这两天宣称的共产主义？2 处分太轻了吧？3 为什么网上对胡的嘘声骂声铺天盖地？人活到这份上还有脸活下去？家人作何感想？4 毛左为什么都这么不要脸？</p>
-<p><a href="http://weibo.com/2904943437" target="_blank">王Wangcao</a><i title="微博达人"></i>：胡编啊，出差时溜去周边玩耍在中国是很普遍的现象，被抓住一般也就批评两句和不报销相关费用而已，像你这样受处分算是很严厉了，现在还被暴光，弄不好要被卸磨杀驴了！领导关系没有处理好吧？该考虑后路了，要不学<a href="http://weibo.com/n/%E5%8F%B8%E9%A9%AC%E5%8D%97?from=feed&loc=at" target="_blank">@司马南</a> 一样赶快逃跑去美帝吧，到了那儿也是可以近距离反美爱国的。</p>
-<p><a href="http://weibo.com/1583636441" target="_blank">西瓜脸哥哥</a>：辛辛苦苦叼飞盘这么多年，说踹就踹……</p>
-<p><a href="http://weibo.com/ebododo" target="_blank">大道有信</a>：当一个人遭到大多数民众唾弃时，任何一个集团都不可能再收留他。</p>
-<p><a href="http://weibo.com/1405206872" target="_blank">曾经年少追梦</a>：夜壶的下场</p>
-<p><a href="http://weibo.com/2041266845" target="_blank">晴风_路上</a>：该下去了吧，五毛很多，在上个新的。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%A2%AB%E5%A4%84%E5%88%86/?category=18271" rel="tag">胡锡进被处分</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E9%87%8D%E5%9B%9E%E5%8D%A0%E4%B8%AD%E7%A4%BA%E5%A8%81%E5%8C%BA%E8%AE%BA%E6%94%BF%E6%B2%BB%E3%80%81%E7%A4%BE%E8%BF%90/" target="cdt-mirror">美国之音 ｜香港学生重回占中示威区论政治、社运</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s.jpg" alt="在香港占中运动期间，学生手持标语到场声援(2015年1月24日，美国之音湯惠芸拍攝)" width="575" height=""></a><p>在香港占中运动期间，学生手持标语到场声援(2015年1月24日，美国之音湯惠芸拍攝)</p></div>
-<p>香港—</p>
-<p>香港去年的全民运动“雨伞运动”即将踏入一周年，学生组织学联和学民思潮星期六晚上在香港立法会举办雨伞运动一周年研讨会，讨论香港未来社运方向。</p>
-<p>学联和学民思潮9月26日晚上7点在香港立法会示威区联合举办“公民退修”研讨会，几十名香港市民到场参加。</p>
-<p>研讨会嘉宾包括前香港大学学刊《学苑》总编辑梁继平、占中发起人之一陈健民和香港政治学者方志恒。</p>
-<p>这次研讨会上，演讲者谈及中港矛盾和香港未来政治发展等问题，并对去年的占领行动进行反思。</p>
-<p>占中发起人之一陈健民：“所谓中国崩溃的前提底下，用80年代去作对比，我自己是看不到香港市民是有一个实力去到一个点，要中国共产党跟我们去谈建国的问题，甚至是民族自决的问题。另外一方面，有一些人只是希望香港有自治权，而自治权最重要的是真真正正的民主，我们才能看到香港的高度自治。”</p>
-<p>香港政治学者方志恒：“为什么近年有本土意识，甚至民主主义的论述出现呢？就是因为北京的对港政策越来越强硬，越来越介入香港的管治……慢慢成为了直接的管治，是透过（中国驻港机构）中联办为首的第二支管治队伍，甚至凌驾于特区政府之上，介入香港的自治。这种直接管治的状态，一定会刺激起香港本地人的一种抵抗。”</p>
-<p>虽然参加研讨会的人数不多，研讨会场地附近依然摆放着多个铁马，并有不少警员在附近巡视。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E9%87%8D%E5%9B%9E%E5%8D%A0%E4%B8%AD%E7%A4%BA%E5%A8%81%E5%8C%BA%E8%AE%BA%E6%94%BF%E6%B2%BB%E3%80%81%E7%A4%BE%E8%BF%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">学生运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E8%BF%90/?category=18271" rel="tag">社运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%9C%AC%E5%9C%9F%E6%B4%BE/?category=18271" rel="tag">香港本土派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -653,7 +642,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -663,5 +652,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,108 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9F%B3%E5%9F%8E%E8%AD%A6%E6%96%B9%E8%BF%85%E9%80%9F%E6%8E%92%E9%99%A4%E6%9A%B4%E6%81%90%E9%81%AD%E8%B4%A8%E7%96%91/" target="cdt-mirror">【网络民议】柳城警方迅速排除暴恐遭质疑</a>
+</h2>
+<p><p>2015年9月30日16时左右，柳州市柳城县开始陆续发生爆炸事件，爆炸是由多个装在快递包裹爆炸装置引发。警方随后称初步认定为刑事案件。当晚，柳城警方通报否认系列爆炸为暴力恐怖袭击，并宣布已锁定犯罪嫌疑人。</p>
+<p>然而，由于目前为止官方对此事件的信息公布极为有限，大量民众显然对柳城警方的说法并不买账。</p>
+<blockquote><p><strong>背景新闻</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B87%E6%AD%BB51%E4%BC%A42%E5%A4%B1%E8%81%94/" rel="bookmark">BBC｜广西柳城县连环爆炸7死51伤2失联</a></p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/60718250jw1ewksyyshqqj20c80gbtb9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/60718250jw1ewksyyshqqj20c80gbtb9.jpg" alt="60718250jw1ewksyyshqqj20c80gbtb9" width="440" height="587"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@傻瓜cino：请问，是怎么排除是恐怖袭击的？</p>
+<p>@GustevoFring：不是暴恐难道是强拆？</p>
+<p>@左撇子大小眼的K：尼玛，真想骂人，17起爆炸案，你跟我说不是暴恐，你不要告诉我们是小朋友放鞭炮不小心炸死人的。</p>
+<p>@Kelvin_wbxu：不是暴恐是啥，间歇性精神病？</p>
+<p><a href="http://weibo.com/1850099895" target="_blank">超级爱吃甜食的土方夫人</a>：百度说，恐怖袭击是极端分子人为制造的针对但不仅限于平民及民用设施的不符合国际道义的攻击方式。<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">那个人就是针对社会平民而且攻击了民用设施，还用了威力不小的炸弹。难道他不算极端分子？请务必查出隐情，什么深仇大恨要这样报复社会。<img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
+<p><a href="http://weibo.com/1000374260" target="_blank">學生陳退之</a>：定义成暴恐，当地领导怕是这国庆过不好了。算是到仕途终点了。他们为了把事情压下来，就会想尽一切办法。这是我们自古以来对待突发事件的处理方式，第一时间封锁消息，公关搞起。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@大叔-爱吐槽：名词解释：恐怖袭击是极端分子人为制造的针对但不仅限于平民及民用设施的不符合国际道义的攻击方式。所以这个就是恐怖袭击，不是只有塔利班和东突才叫极端分子</p>
+<p>@滁州永久登陆：排除暴恐，这个说法太奇怪了。</p>
+<p>@法盲小霍：排除你妈的暴恐！炸了你十几个地方你告诉我排除暴恐，那是什么？人为过失犯罪？贵国如何定为恐怖袭击？是不是只有新疆人站出来接下这个屎盆子才算得上“暴力恐怖袭击”？！</p>
+<p>@加肥猫喝豆浆：这还不叫暴恐？连环炸弹袭击 非要新疆人干的才叫暴恐？自欺欺人</p>
+<p>@硬派小生flyme：开特么的什么国际玩笑，扯特么的什么蛋，这都不是恐怖袭击?一切针对无辜平民的残忍虐杀都是恐怖袭击。或许在某些“领导”眼里，经过专业训练，有组织有预谋的攻击才是恐怖袭击!个人的恐怖主义行为就不是恐怖袭击!</p>
+<p>@天然Q：我就是柳州人，一下午就有17处地方爆炸，人心惶惶，非常恐怖，非常恐怖，非常恐怖，重要事情要说三遍！</p>
+<p>@法盲小霍：排除你妈的暴恐！炸了你十几个地方你告诉我排除暴恐，那是什么？人为过失犯罪？贵国如何定为恐怖袭击？是不是只有新疆人站出来接下这个屎盆子才算得上“暴力恐怖袭击”？！</p>
+<p>@于胥：房都炸塌一半，这什么炸弹</p>
+<p><strong>@信华叉烧包：我理解暴恐是有特定的含义和概念，不过此时强调这一点，与宣称“受害者情绪稳定”效果是一样的。</strong></p>
+<p>@天高云淡189：2个小时，1个嫌疑人，17处爆炸点。这个嫌疑人估计是超人。</p>
+<p>@白伟80：知道嫌疑人为什么不是恐怖分子吗？因为 因为…………我也不知道</p>
+<p>@亚当上了夏娃：党说不是就不是！</p>
+<p>@ucry：暴恐的标准是什么？什么叫暴恐？怎么样才算暴恐？ 那请问“一个人”接连操纵17处地方发生爆炸 这种有预谋的针对平民的袭击叫什么？？？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%9F%B3%E5%9F%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%9F%B3%E5%9F%8E.png" alt="柳城" width="525" height="1642"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9F%B3%E5%9F%8E%E8%AD%A6%E6%96%B9%E8%BF%85%E9%80%9F%E6%8E%92%E9%99%A4%E6%9A%B4%E6%81%90%E9%81%AD%E8%B4%A8%E7%96%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 20分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%8E%AF%E7%90%83%E5%91%8A%E8%AF%89%E6%88%91%E4%BB%AC%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%9B%BD%E9%99%85%E4%B8%8A%E6%98%AF%E9%9D%A0/" target="cdt-mirror">【河蟹档案】环球告诉我们原来中国在国际上是靠钱混的</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%98%95%E9%9D%99%E8%87%AA%E7%84%B6%E5%A5%BD">昕静自然好</a>：监狱、镇政府、汽车站……广西柳城连续发生爆炸……//*<a href="https://freeweibo.com/weibo/%40%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB">头条新闻</a>：柳城县公安局通报称，柳城县范围内连续发生爆炸，目前，指挥中心接到报警13起，包括商贸城5栋、柳城监狱、大埔镇政府、世纪联华、柳城汽车站、柳城县中医院、畜牧局宿舍、疾控中心等13处公共场所。<em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2015/09/150930_china_explosions">BBC<em>｜</em>广西柳城县连环爆炸7死51伤2失联</a>》；《<a href="http://news.ifeng.com/a/20150930/44770902_0.shtml">凤凰<em>｜</em>广西警方已确定柳城县爆炸案犯罪嫌疑人</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33343.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33343.jpg" alt="333" width="385" height="685"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33344.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33344.jpg" alt="333" width="374" height="625"></a><br><a href="https://freeweibo.com/weibo/3892862758388414" target="/weibo/389">2015年09月30日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E5%85%8B%E6%88%90">周克成</a>：在联大，习近平一句话免除了许多国家的债务，彭丽媛发言说让所有的孩子都接受教育是她的梦想。希望习近平在国内也说一句话，免除那些没有交上社会抚养费家庭的“债务”，这样一千三百万没有户口的孩子就可以上学了，彭丽媛的愿望就实现了。<em>相关阅读｜《<a href="http://www.baike.com/wiki/%E7%A4%BE%E4%BC%9A%E6%8A%9A%E5%85%BB%E8%B4%B9">互动百科<em>｜</em>社会抚养费</a>》；《<a href="http://news.sina.com.cn/c/z/xgcshfyf/">新浪<em>｜</em>神秘的“社会抚养费”</a>》</em><br><a href="https://freeweibo.com/weibo/3891960987735965" target="/weibo/389">2015年09月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E4%BA%AC%E6%9D%A8%E5%8D%9A">北京杨博</a>：【当代恶政三招】内政三招：维稳、独裁、搞特权！经济三招：卖地、印钞、挖资源！外交三招：抗议、装孙、猛砸钱！军队三招：吹牛、叠被、文工团！教育三招：改革、收费、造脑残！开会三招：举手、拍手、不发言！从政三招：贪污、受贿、养小三！微博三招：删帖、封号、报国安！<br><a href="https://freeweibo.com/weibo/3892150821040779" target="/weibo/389">2015年09月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%9C%89%E8%A5%BF">陈有西</a>：环球告诉我们：1，原来中国这些年在国际上是在混的。2，是靠撒钱才能混的。这倒底是个什么报纸？[白眼]在黑谁呢？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33330.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33330.jpg" alt="333" width="384" height="645"></a><br><a href="https://freeweibo.com/weibo/3892108618662962" target="/weibo/389">2015年09月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E5%A4%96%E4%B9%94%E6%9C%A8">北外乔木</a>：信仰比主义重要。新闻联播的假大空，本国人都不爱听，何况歪果仁？<em><em>相关阅读｜</em>《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%81%94%E5%A4%A7%E6%BC%94%E8%AE%B2%E5%9C%BA%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%AE%98%E5%AA%92%E5%90%B9%E5%98%98%EF%BC%9A%E5%85%A8%E5%9C%BA%E7%83%AD/">苹果日报｜习联大演讲场面冷清 官媒吹嘘：全场热烈掌声</a>》；《<a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150925_pope_nyc_un">BBC<em><em>｜</em></em>教皇联大发表演讲呼吁尊重人类环境权利</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33335.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33335.jpg" alt="333" width="513" height="338"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33336.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33336.jpg" alt="333" width="513" height="341"></a><br><a href="https://freeweibo.com/weibo/3891644061177718" target="/weibo/389">2015年09月27日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%AD%E5%B7%9E%E8%90%A7%E5%B1%B1%E7%8E%8B%E6%B0%B4%E9%87%91">杭州萧山王水金</a>：中国公民，跑到美国，向中国官员信访。<em><em>相关阅读｜《<a href="http://www.rfa.org/cantonese/news/us-protest-09262015090652.html">自由亚洲<em><em>｜</em></em>访民冒死拦截习近平车队</a>》；《<a href="http://chinadigitaltimes.net/space/%E9%A9%AC%E6%B0%B8%E7%94%B0">访民马永田专题</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33337.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33337.jpg" alt="333" width="409" height="561"></a><br><a href="https://freeweibo.com/weibo/3891612847578680" target="/weibo/389">2015年09月27日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E6%9D%8E%E5%9F%8E">周李城</a>：什么人？竟敢在中华人民共和国驻美国大使馆门口张贴“拆”字，请<a href="https://freeweibo.com/weibo/%40%E5%85%AC%E5%AE%89%E9%83%A8%E5%88%91%E4%BE%A6%E5%B1%80">@公安部刑侦局</a> 严查，依法追究有关责任！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33338.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33338.jpg" alt="333" width="385" height="648"></a><br><a href="https://freeweibo.com/weibo/3891380184970841" target="/weibo/389">2015年09月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B2%99%E6%BB%A9%E4%BA%94%E6%9C%88%E8%8A%B1">沙滩五月花</a>：非常佩服这样的教师！西安某高校女教师无眠给了罗援将军一闷棍。 现被停课。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E8%82%96%E4%BB%B2%E5%8D%8E%EF%BC%9A%E8%AF%B7%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E4%B8%8D%E8%A6%81%E6%81%90%E5%90%93%E5%92%8C%E7%BB%91%E6%9E%B6%E5%85%9A/">博客中国｜肖仲华：请罗援将军不要恐吓和绑架党</a>》；《<a href="http://jinghuasoft.com/smthview.jsp?board=Picture&id=984624">（据说已经 停课）西安某高校女教师vs 罗援（将军）</a>》《<a href="https://www.aboluowang.com/2015/0930/621727.html">微博热传：高校女教师给了罗援一闷棍</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33345.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33345.jpg" alt="333" width="443" height="528"></a><br><a href="https://freeweibo.com/weibo/3892360565698079" target="/weibo/389">2015年09月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%BC%E5%85%B0%E5%B1%B1%E7%82%AE">呼兰山炮</a>：尽管Facekook在中国境内仍然被屏蔽，但这并不妨碍习近平拥有自己的一个Facebook主页。请问有司，我想去给总书记点赞，咋办？<em><em>相关阅读｜《<a href="https://www.facebook.com/xiusavisit">习访美FACEBOOK主页</a>》；《<a href="http://money.cnn.com/2015/09/27/technology/china-facebook-xi-jinping-ban/">CNN<em><em>｜</em></em>Beijing uses banned social media to promote Xi’s U.S. visit</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33339.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33339.jpg" alt="333" width="475" height="255"></a><br><a href="https://freeweibo.com/weibo/3891258278090771" target="/weibo/389">2015年09月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%91%E7%BB%B4">郑维</a>：希拉里加入敲打中国行列……[挖鼻] <em><em>相关阅读｜《联合早报<em><em>｜</em></em><a href="http://www.zaobao.com.sg/realtime/world/story20150928-531655">习近平联国演讲倡妇权 希拉莉：可耻</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%9B%AE%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%8F%88%E8%A6%81%E8%A2%AB%E4%BB%A3%E8%A1%A8%E4%BA%86/">【网络民议】目测中国妇女又要被代表了</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33333.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33333.jpg" alt="333" width="411" height="368"></a><br><a href="https://freeweibo.com/weibo/3891798382674458" target="/weibo/389">2015年09月27日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%A2%E7%BB%8F%E7%BD%91">财经网</a>：【微博动态】这……请问该班同学，你们真看懂了上级组织的态度了吗[汗] <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97-%E7%8C%AA%E9%98%9F%E5%8F%8B%E8%BF%98%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F/">【立此存照】@共青湖南——猪队友还是高级黑？</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33340.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33340.jpg" alt="333" width="415" height="457"></a><br><a href="https://freeweibo.com/weibo/3891058804726715" target="/weibo/389">2015年09月25日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%8E%E9%A6%A8">与馨</a>：今天的纽约时报和昨天一样，头版依然给了教皇。。。然而被内页惊到了。。。给茅台，加多宝，凯迪生态，保利地产和格力跪了。。。//*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E4%BA%9A%E8%92%99">罗亚蒙</a>：中国企业跑到美国去做广告欢迎中国领导人访问美国？逻辑不通啊？//*<a href="https://freeweibo.com/weibo/%40%E5%87%8C%E5%AE%B6%E9%98%BF%E7%A9%BA%E7%88%B1%E5%90%83%E7%B3%96">@凌家阿空爱吃糖</a>: 我要你知道纽约时报都被我们包了[笑cry]//*<a href="https://freeweibo.com/weibo/%40%E5%BE%8B%E9%9F%AC">@律韬</a>: 有钱任性//<a href="https://freeweibo.com/weibo/%40%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E7%8B%97%E5%89%A9%E5%89%A9">@魔法少女狗剩剩</a>: 有钱太可怕了[笑cry] //<a href="https://freeweibo.com/weibo/%40%E9%98%BF%E5%85%A8%E5%8A%9B%E5%85%94%E5%AD%90">@阿全力兔子</a>:实际追星<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33342.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33342.jpg" alt="333" width="518" height="387"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33341.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33341.jpg" alt="333" width="521" height="695"></a><br><a href="https://freeweibo.com/weibo/3890764750675531" target="/weibo/389">2015年09月25日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%89%8B%E6%8E%8C%E9%A5%85%E9%A0%AD">手掌饅頭</a>：新封号，世界奶牛！[哈哈][赞]//<a href="https://freeweibo.com/weibo/%40%E7%AB%A5%E4%B9%8B%E4%BC%9F">童之伟</a>：不是说外债不能免，而是说免要有个必要的民主程序和法律手续！上百亿计的美元债权，要放弃不能由个人说了算，也不能由任何没有法定职权的机构说了算。这个国家是大家的，钱是人民血汗，不是一家一姓的私产。驳斥：<a href="http://t.cn/Ry9z2JA" target="_BLANK">http://t.cn/Ry9z2JA</a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33331.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33331.jpg" alt="333" width="365" height="511"></a><br><a href="https://freeweibo.com/weibo/3891994604690069" target="/weibo/389">2015年09月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%93%9D%E9%B2%B8%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0">蓝鲸财经记者工作平台</a>：环球时报总编胡锡进因腐败被处分[疑问]这…… <em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/">【网络民议】共产主义理想没有辜负胡总编</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33334.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33334.jpg" alt="3333" width="409" height="2746"></a><br><a href="https://freeweibo.com/weibo/3891659215910324" target="/weibo/389">2015年09月27日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%8E%AF%E7%90%83%E5%91%8A%E8%AF%89%E6%88%91%E4%BB%AC%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%9B%BD%E9%99%85%E4%B8%8A%E6%98%AF%E9%9D%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E5%A5%B6%E7%89%9B/?category=18271" rel="tag">“世界奶牛”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A0%E5%A4%9A%E5%AE%9D/?category=18271" rel="tag">加多宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E6%8B%89%E9%87%8C/?category=18271" rel="tag">希拉里</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF/?category=18271" rel="tag">广西柳城县</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">强拆大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E7%9A%87/?category=18271" rel="tag">教皇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%84%95%E5%90%9B/?category=18271" rel="tag">李焕君</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B7/?category=18271" rel="tag">混</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%8A%9A%E5%85%BB%E8%B4%B9/?category=18271" rel="tag">社会抚养费</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E5%AE%89%E9%AB%98%E6%A0%A1%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">西安高校女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8/?category=18271" rel="tag">连环爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%BB%E4%B8%8D%E5%8F%AF/?category=18271" rel="tag">非死不可</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B87%E6%AD%BB51%E4%BC%A42%E5%A4%B1%E8%81%94/" target="cdt-mirror">BBC｜广西柳城县连环爆炸7死51伤2失联</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930145816_china_explosion_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930145816_china_explosion_640x360_xinhua_nocredit.jpg" alt="150930145816_china_explosion_640x360_xinhua_nocredit" width="575" height=""></a></p>
+<p>中国国庆在即，广西柳城县及周边星期三（9月30日）连续发生17起爆炸，至晚上10时，已造成至少7人死亡、2人失踪，另有51人受伤。</p>
+<p>柳州当地警方在刚刚举行的有关爆炸案的新闻发布会上公布了上述的死亡数字。</p>
+<p>当地警方拘捕33岁姓韦疑犯，指其是柳城县本地人，排除事件属于恐怖袭击。</p>
+<h2>可疑包裹</h2>
+<p>另外，柳城县公安局政委蔡天来在新闻发布会上还透露，目前警方发现了60多个可疑包裹，都是由居民报警发现，目前已派专人看守，等待专业排爆设施和人员前来排除。</p>
+<p>目击者指，爆炸有规律，他们从下午5时30分起开始听到爆炸声，大约每隔10分钟听到1次，总共听到了11次。</p>
+<p>而此前BBC中文网获得的一份柳州公安情况汇报披露，发生爆炸的地点包括商贸城、监狱、大埔镇政府、超市、车站、医院、畜牧局宿舍、菜市、疾控中心等10多处公共场所。</p>
+<p>有居民称，爆炸邮包有的位于送货车上，有的位于室内货架上，有的放在居民楼附近的垃圾桶内，“选择的都是人员较多的地点。”</p>
+<p>网友上传的图片显示，在爆炸陆续发生期间，当地不少居民收到了署名“柳城县安监局”的手机短信提示，其中提醒民众“不要轻易收取和打开包裹”。</p>
+<p>据柳州市公安局官方微博称，经走访现场群众得知，犯罪嫌疑人系雇佣他人以送递物件的方式实施犯罪。</p>
+<p>柳州警方提示：广大群众要加强防范，不要随意接受陌生人委托转递的物品。</p>
+<h2>确定嫌疑人</h2>
+<p>柳城警方的官方微博“柳城公安”还透露，已初步确定犯罪嫌疑人韦某某。</p>
+<p>而新华社报道说，这名嫌疑人是男性，今年33岁，是柳城县城大埔镇人。</p>
+<p>此前，柳州市公安局长周长青对中央电视台说，初步判断为刑事案件，但作案人员的动机仍在调查之中。</p>
+<p>而当地《南国早报》则透露，周三（30日）下午17:14分，柳城县安监局给群众群发紧急通知。</p>
+<p>通知上表示：“我县发生多起疑是包裹爆炸,请广大群众不要打开近期寄来的包裹。</p>
+<p>官方新华社还报道，广西柳州市公安部门表示，9月30日柳州市区也有爆炸事件发生，发生爆炸的地点不止一处。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930145723_china_explosion_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930145723_china_explosion_640x360_xinhua_nocredit.jpg" alt="150930145723_china_explosion_640x360_xinhua_nocredit" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930145625_china_explosion_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930145625_china_explosion_640x360_xinhua_nocredit.jpg" alt="150930145625_china_explosion_640x360_xinhua_nocredit" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930123932_china_explosions_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930123932_china_explosions_640x360_xinhua_nocredit.jpg" alt="150930123932_china_explosions_640x360_xinhua_nocredit" width="575" height=""></a></p>
+<p>柳州市位于广西中北部，又叫“龙城”，是广西最大的工业城市，同时也是一座历史文化名城。从建城至今已有两千一百多年的历史。</p>
+<p>至于柳城县距离柳州市40多公里，其中县城大埔镇城区共有人口4万多人。</p>
+<h2>加强戒备</h2>
+<p>广西柳州市柳城县发生连环包裹爆炸后，中国多个城市随即加强戒备，广州越秀警方通报，为了进一步防控广州火车站广场的治安，警方开始升级广州火车站广场安检工作，扩大检查过往人员和管控物品，确保火车站广场安全。</p>
+<p>警方将在广州火车站中、西广场围闭为核心区，并把火车站进、出站口纳入核心区，成立60人的安检队伍，设置安检门、X光机等安检设备，加大对人员及随身物品的安检。</p>
+<p>在外围区域，主要由安检人员徒手或利用手持探测仪对过往人员及物品进行安检工作。</p>
+<p>(撰稿: 李文/路西 责编：路西）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B87%E6%AD%BB51%E4%BC%A42%E5%A4%B1%E8%81%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">暴力袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%AD%E6%9C%A8%EF%BC%9A%E4%BB%8E%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%88%E6%B8%85%E7%90%86%E9%97%A8%E6%88%B7%E4%BA%8B%E4%BB%B6%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%B8%88%E7%94%9F%E5%85%B3/" target="cdt-mirror">六木：从人大教授“清理门户”事件看中美师生关系差异</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/29LeducWeb-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/29LeducWeb-articleLarge.jpg" alt="29LeducWeb-articleLarge" width="600" height="400"></a><p>在美国，高度商业化的高等教育以及民主的土壤使得学生评价或批评老师十分普遍。</p></div>
@@ -567,77 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8A%E8%AE%BF%E8%88%AC%E6%B3%A1%E6%B2%AB%E5%B9%B2%E6%89%B0%E4%B8%8D%E4%BA%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/" target="cdt-mirror">环球时报 | “上访”般泡沫干扰不了习近平访美</a>
-</h2>
-<p><p>美国防部22日披露本月早些时候一架美军侦察机在黄海上空遭到中国战斗机拦截，双方一度发生“危险接近”。五角大楼发布这一消息正值习近平主席抵达西雅图开始对美国事访问，美国防部像是加入“上访”行列一样，要求中国领导人帮着“解决问题”。</p>
-<p>位于华盛顿的新闻博物馆22日挂上大条幅，要求“释放中国人权捍卫者”。一家设在旧金山不知名的涉华基金会则给了高瑜、浦志强等“中国杰出民主人士奖”，但被“美国之音”报道。另有44名大多居住在美国的作家也来凑习近平访问这一时间点，在美国笔会中心草拟的一封请愿信上签名，向中国提人权要求。</p>
-<p>中国的闹事者都喜欢挑重要日子制造事端，以引起领导人和舆论的关注。美国社会里的这一套同中国太像了。发出上述声音的人和组织主要目的恐怕还是吸引注意力，他们不会幼稚到以为施加这点压力北京就会做让步，但五角大楼可能想出口气，那些平时难得被人想起来的“人权斗士”则想证明自己的存在。</p>
-<p>中国有少数“上访专业户”会一遍又一遍重复他们的行为，美国有些专门对华喊人权的组织看来也要一直耗下去了。</p>
-<p>这些人制造了一些毫无价值的注意力，如果有人要根据他们的表现来对习近平访美的成果做评估，这实在是开了国际大玩笑。</p>
-<p>习近平美国行将促成中美两大国深入对话。中国主席在西雅图已经触及了中美之间几乎全部真正的敏感问题，他介绍了中国经济现状以及中国的人民币汇率政策，谈了中国股市波动，这是美国社会所能听到的对中国经济最权威的描述。</p>
-<p>习近平还明确无误地重申了中国坚定维护网络安全，表示中国将保障境外非营利组织在华的合法活动和权益。他强调中国开放的大门永不会关上，依法治国、反腐败将继续推进。美国社会期待中国领导人对这些重要立场的再确认，习近平的讲话赢得了美国具有影响力那批听众的真诚掌声。</p>
-<p>中美关系目前被不少人相信遇到困难，这一困难很大程度上来自感觉和预期。很多人忍不住担心中美掉入“修昔底德陷阱”，这种担心的事实依据并不充分，但糟糕的历史经验不断在人们心中徘徊。</p>
-<p>习近平没有回避这个问题，中国主席可谓打开天窗说亮话了，他强调，世界上本无“修昔底德陷阱”，但大国之间一再发生战略误判，就可能自己给自己造成“修昔底德陷阱”。</p>
-<p>由于习奥还未见面，美方低级别官员和舆论界传出的那些声音真是太小气了。那些趁机“上访”、发出尖叫以博眼球的人和组织实际上都是群自私自利者，把自己那点事当成天下事。这让很多中国人看着直摇头。</p>
-<p>但实际上美国精英社会不可能会被他们牵着鼻子走。西雅图社交圈与中国领导人的交流热情认真，富有成果。必将影响21世纪国际关系走向的习奥会将在华盛顿举行，中美领导人将代表两个国家就解决战略互疑和误判问题做出决定性努力。</p>
-<p>中美两大国的最高级别交流是不能以看热闹心态进行观察的，如果要看热闹，那应去看教皇访美。但是习近平访美注定是今年全球国际关系舞台上的最重大事件，习近平在西雅图已经回应了让美国焦虑的各项关切，即将到来的习奥会将让人们看到美方对中方回应的回应。这是中美对人类21世纪最核心问题的一次求解。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8A%E8%AE%BF%E8%88%AC%E6%B3%A1%E6%B2%AB%E5%B9%B2%E6%89%B0%E4%B8%8D%E4%BA%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98/?category=18271" rel="tag">人权问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">敏感问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%8D%8E%E7%BD%91-15%E5%AE%B6%E5%AA%92%E4%BD%93%E5%88%8A%E5%8F%91%E5%81%87%E6%96%B0%E9%97%BB%E8%A2%AB%E9%80%9A%E6%8A%A5/" target="cdt-mirror">新华网 | 15家媒体刊发假新闻被通报</a>
-</h2>
-<p><p>新华网电：9月28日，国家新闻出版广电总局公开通报《扬子晚报》等15家媒体刊登虚假失实报道的查办情况。这是自2014年中宣部等九部门深入开展打击新闻敲诈和假新 闻专项行动以来，国家新闻出版广电总局第七次公开通报违法违规案件的查处情况，共有15家媒体和17名采编人员被处罚和处理。</p>
-<p>一、《扬子晚报》违规案件查处情况。2014年12月19日，某网站刊发《成都男20张火车票送女友丈母娘一开心聘礼只要50万》的报道。 2014年12月21日，江苏《扬子晚报》未经核实，将上述报道改编，以《男子抢20张火车票送女友岳母大悦聘礼减半》为题刊发。经查，此条消息是某抢票 软件企业炮制的虚假新闻。对此，江苏省新闻出版广电局依法对《扬子晚报》作出警告、罚款1万元的行政处罚。</p>
-<p>二、《武汉晚报》等违规案件查处情况。“李玉刚在台北出家了”——这起由某微博首发的虚假消息被互联网传播后，2014年12月2日，湖北《武 汉晚报》、《荆州日报》，江西《赣州晚报》，内蒙古《包头晚报》、《内蒙古晨报》、《北方新报》、《红山晚报》未经核实予以转载。对此，新闻出版广电行政 部门依法对《武汉晚报》、《荆州日报》、《赣州晚报》、《包头晚报》、《内蒙古晨报》、《北方新报》、《红山晚报》分别作出警告、罚款等行政处罚和处理。</p>
-<p>三、《南方都市报》原记者王星违规案件查处情况。2014年12月，王星在担任《南方都市报》记者期间，在未采访当事人家属、单位和医院的情况 下，根据河南当地有传闻，编写了《河南平顶山女官员3个月前自杀官方至今未通报》一文，在微信公众号 “深℃”发布。经查实，该报道关于女官员自杀内容与事实严重不符，导致虚假新闻传播，王星被报社劝退。对此，新闻出版广电总局依法将王星列入新闻采编不良 从业行为记录，5年内禁止从事新闻采编工作。</p>
-<p>四、华夏网违规案件查处情况。2015年1月9日，《华夏时报》所办华夏网刊发《退休机务副总落马南航三大重要部门全部沦陷》。经核实，该报道 内容与事实严重不符，导致虚假新闻传播。对此，新闻出版广电总局依法给予华夏时报社警告、罚款2万的行政处罚；给予王潇雨警告、罚款2000元的行政处罚。</p>
-<p>五、南都网等违规案件查处情况。2015年1月13日，《南方都市报》所办南都网、新闻客户端及法人微博发布《裸女跳河，救人者遭冷遇》的新 闻。2015年1月14日，海南《南国都市报》、江苏《靖江日报》、山东《生活日报》未经核实，分别转载了该新闻。经核实，这是一起将不同时间发生在两地 的两起事件拼接而成的虚假新闻。对此，新闻出版广电行政部门依法分别对《南方都市报》、《南国都市报》、《靖江日报》、《生活日报》作出警告、罚款等行政 处罚，并责令南方都市报社将相关采编人员调离采编岗位。</p>
-<p>六、湖南广播电视台都市频道、《潇湘晨报》违规案件查处情况。2015年6月12日，湖南广播电视台都市频道《都市1时间》栏目播出题为《长沙 股民170万四倍融资全仓一股两跌停赔光跳楼》的新闻。6月13日，《潇湘晨报》未经核实，以《男子22楼坠亡 平时爱炒股警方排除他杀嫌疑，知情人称其重仓一只股票亏了170万》为题进行了转载。经核，该报道既没有采访到死者家属，也没有警方的最终结论。湖南广播 电视台和《潇湘晨报》在没有充分事实证据，缺乏完整证据支撑的情况下刊播，导致报道失实。对此，湖南省新闻出版广电局责令湖南广播电视台对都市频道总监、 相关栏目制片人进行通报批评，对相关采编人员作出调离岗位和全台通报批评的处理；对《潇湘晨报》下达警示通知书，责令该报对相关采编人员、部门主任和值班 总编进行批评并进行经济处罚。</p>
-<p>国家新闻出版广电总局新闻报刊司负责人介绍，这些虚假新闻和不实报道，有的是新闻单位转载未经核实的互联网信息，有的是新闻记者根据未经核实的 社会传闻编写，反映出当前一些新闻单位和新闻记者作风浮躁、制度虚置、管理松懈。一些新闻单位为吸引“眼球”，无视新闻报道必须履行的审核程序，一些新闻 记者为“抢发”新闻，无视新闻采访必须遵循的基本规则，导致虚假新闻传播，严重破坏了新闻采访秩序，严重损害了新闻媒体公信，严重败坏了新闻队伍形象，也 严重侵害了群众利益。</p>
-<p>该负责人要求，各新闻单位要认真吸取教训，引以为戒，举一反三。要全面规范新闻记者采编行为，要求新闻记者必须坚持实地采访，多方求证，掌握真 相，不得依靠单一信息来源采写新闻报道；要全面加强新闻稿件的审核把关，要求责任编辑必须逐一审核采访证据，对转载的新闻必须履行重新审核程序；要全面加 强新闻采编人员管理，对采访不深入、编辑不认真、把关不严格、管理不到位导致虚假新闻的，要严格追究责任，严肃处理；要全面开展业务培训、岗位培训，教育 广大新闻采编人员提高专业素养、增强法纪观念、遵守职业道德，自觉履行社会责任，抵制虚假新闻。</p>
-<p>该负责人强调，各级新闻出版广电行政部门要认真履行监管责任，全面加强对虚假失实报道的监督管理，加大案件查办力度，坚决遏制假新闻蔓延的势 头。对编造虚假新闻造成恶劣影响的，要对相关媒体依法做出处罚，并要坚决吊销相关采编人员的新闻记者证，列入不良记录，5年内不得从事新闻采编工作；构成 犯罪的要依法追究刑事责任，终身不得从事新闻采编工作。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%8D%8E%E7%BD%91-15%E5%AE%B6%E5%AA%92%E4%BD%93%E5%88%8A%E5%8F%91%E5%81%87%E6%96%B0%E9%97%BB%E8%A2%AB%E9%80%9A%E6%8A%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A/?category=18271" rel="tag">处罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E8%87%AA%E7%94%B1/?category=18271" rel="tag">媒体自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E8%A7%84%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">违规案件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%81%94%E5%A4%A7%E6%BC%94%E8%AE%B2%E5%9C%BA%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%AE%98%E5%AA%92%E5%90%B9%E5%98%98%EF%BC%9A%E5%85%A8%E5%9C%BA%E7%83%AD/" target="cdt-mirror">苹果日报｜习联大演讲场面冷清 官媒吹嘘：全场热烈掌声</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9uuuu.jpg" alt="k9uuuu" width="551" height="366"><br>
-中共假大空作风再次在习近平访美期间表露无遗。官方报道习在联合国大会演讲时，使用「全场多次热烈掌声」、「几十国家元首排队等握手」等溢美之辞，岂料当日会场多是空椅，央视都不敢多播现场全景镜头，与教宗方济各早前同场演讲时座无虚席相比，堪令北京尴尬。</p>
-<p>习近平前日发言时台下有不少空位</p>
-<p>当地时间 26 日，习近平结束访美国是访问，赴纽约参加联合国成立 70 周年纪念活动，是其美国行又一重要外交活动，有 154 位国家元首政府首脑与会。习特地在纽约停三天，比在华盛顿还久，借机竖立习近平「世界级领导人」的形象。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9uuuuuuu.jpg" alt="k9uuuuuuu" width="549" height="355"></p>
-<p>纽约时代广场有欢迎习访美的广告。</p>
-<p>为达宣传目的，中共宣传机器绞尽脑汁，习在联大演讲无疑是机会。于是，内地民众看到的报道充溢「皇上驾到」色彩；央视、新华社、中新社等国家级喉舌在报道时拚命笃数，使用「全场多次响起热烈掌声」、「本次大会获掌声最多」等字句。</p>
-<p>与教宗演讲大相径庭</p>
-<p>报道还引述中国外交官出身的联合国副秘书长吴红波形容，争与习握手的人「实在太多了，我被人群挡住都挤不进去」，「看到这个场景我感到非常意外」，给读者君临天下、万邦来朝印象，但旋即被在美华人踢爆。现居纽约的中国前媒体人北风转贴演讲会场照，显示习面对大部分空座，「至少一大半人缺席」。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/k9uuuuuu.jpg" alt="k9uuuuuu" width="550" height="357"><br>
-联合国副秘书长吴红波</p>
-<p>央视播出习演讲全长 10 分钟，画面主要是习近平的近镜，仅有两镜中景：一是拍摄中国代表团，另一是非洲某国代表团。有传媒人戏称「大概是人太少，央视都不好意思给个全景」。联大国际会议厅可容纳 1,500 人，今次与会有 154 国元首首脑，按每家最少 5 个随从计算，至少应有近千人，但习演讲时大厅至少三分之二空椅。早前，教宗方济各也在同一场地演讲，座无虚席，两者相比令北京尴尬。</p>
-<p>习近平全场获三次掌声，一次是他宣布出 20 亿美元（约 155 亿港元）助穷国灭贫，一次提到免除穷国今年底以前到期未还债务，最后一次是演讲结束。有评论指「如果这也算最多掌声，大概是联大从没有过掌声」。内地网民则对习如此慷慨大表不满。会后与习握手者约 20 人，主要是习宣布要免除债务的穷国领导人。</p>
-<p>中共吹捧彰显访美成效</p>
-<p>有评论指中共不顾颜面吹捧习在美活动，或与当局要把这次访美成效拔高，超过前朝江泽民及胡锦涛。《洛杉矶时报》更一语中的指出，美方与中方磋商中失望地发现，中方对「习奥会」能否深入取得进展毫无兴趣，只着重礼仪要一丝不苟，显然是为对内宣传。</p>
-<p>网民有话说</p>
-<p>．丢人现眼啊！这回知道自己在别人眼中甚么形象了吧？ ．央视怕穿帮，就不敢给一个全景，让我们看看隆重热烈的场面。 ．越来越毒菜（独裁）了，谁给他权力送出 20 亿美元？钱是 13 亿人的！ ．看见这败家子，真想吐他两口口水！中国还有多少人饭都吃不饱！</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%81%94%E5%A4%A7%E6%BC%94%E8%AE%B2%E5%9C%BA%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%AE%98%E5%AA%92%E5%90%B9%E5%98%98%EF%BC%9A%E5%85%A8%E5%9C%BA%E7%83%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -649,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -659,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

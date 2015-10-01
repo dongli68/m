@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%E5%A4%96%E7%9C%81%E4%BA%BA%E5%B1%85%E5%A4%9A-%E5%9B%BD%E5%BA%86%E6%97%A5%E5%89%8D/" target="cdt-mirror">自由亚洲｜拜城煤矿遇袭身亡外省人居多 国庆日前新疆岗哨林立</a>
+</h2>
+<p><p><em>原标题：拜城煤矿遇袭身亡外省人居多 国庆日前新疆岗哨林立防恐袭</em></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/77679c81-005d-4b73-8c87-5ed1b73c3a17.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/77679c81-005d-4b73-8c87-5ed1b73c3a17.jpeg" alt="77679c81-005d-4b73-8c87-5ed1b73c3a17" width="575" height="383"></a><p>新疆阿克苏拜城县铁热克镇附近一座山上的煤矿企业宿舍，9月17日深夜至18日凌晨受到武装袭击，事件造成近五十人死亡。另据海外维吾尔组织周三称，新疆当局正在设卡通缉多名维吾尔人。(资料图/AFP)</p></div>
+<p>新疆阿克苏地区拜城县铁热克镇一座煤矿公司的宿舍，9月18日凌晨受到武装袭击，造成近五十人死亡。据一位接近死者家属的人士称，有人先袭击该镇派出所，杀死五名警察，伤及多人，后袭击煤矿公司的一楼宿舍，死者绝大部分是四川农民工，家属上周抵达拜城善后，但当局不准他们前往出事煤矿。另据海外维吾尔组织周三称，新疆当局正在设卡通缉多名维吾尔人。</p>
+<p>新疆阿克苏拜城县铁热克镇附近一座山上的煤矿企业宿舍，9月17日深夜至18日凌晨受到武装袭击，事件造成近五十人死亡。截至本周三，当局继续封锁相关消息。据一位知情人士周三告诉本台，他的一位远房亲戚的同村人，服务于该煤矿企业，在事件中丧生：“是四川有一个亲戚一个村的。他的儿子就在这个里头（煤矿），在这个矿，这次遇难了。说是（维吾尔人）去抢炸药。这栋楼房连办公室，还带住宿有三层楼。他们来这里抢东西时在一楼，把人杀了，在一楼抢货（炸药），没有攻击二楼和三楼。所以死亡人数是在第一波攻击中，四十来人”。</p>
+<p>据知情人士称，死者家属上周从四川赶到拜城县后，当局以安全为由，未准家属前往现场祭奠，仅让他们认尸后，立即处理尸体。一位接近死者家属的匿名人士称，袭击着似乎受过训练，他们率先袭击当地派出所：“先袭击了派出所，袭击五人，然后穿他们的警服，到了矿上，在那里的一楼寻找炸药。然后发生了命案。这些人想到矿上去，也去不了。被杀的人拉下来放到殡仪馆，家属来解决问题，也不让你到矿上去”。</p>
+<p>事发后，当地政府全力隐瞒袭击事件，无论是派出所还是镇政府官员或医院，均以“不清楚”或直接挂断电话，回应记者的提问。记者周三致电拜城县殡仪馆查询。</p>
+<p>记者：9月17日到18日凌晨，煤矿受到恐怖袭击，死了的人，是不是全部在您这里火化的？<br>
+回答：没有，我们这里没有火化场。<br>
+记者：那么他送到哪里去了，哪一个火化场？<br>
+回答：不知道，有的农村就就地埋掉了。<br>
+记者：死了四十多个人，不是一两个。<br>
+回答：那就不知道了。</p>
+<p>据当地消息称，公安尚未抓到被通缉的九名袭击者。因此，今年的十一国庆节前，岗哨明显增多。</p>
+<p>总部在德国的世界维吾尔代表大会发言人迪里夏提周三对记者说：“阿克苏发生事件后，我们从当地获得了直接或间接的信息，事件导致死伤人数近五十人。另外，尤其在这个敏感的时期，维吾尔人采取的激进手段，和中国在当地推行的压制政策，导致人的承受能力到了极限有直接关系。另外，移民在当地驻扎和在当地开采，不只是破坏当地的生态，直接威胁到维吾尔人在当地的生存环境，成为人们采取激进手段进行抵抗的导火索。另外事件发生之后，当地到处戒严，到处通缉，加强清查，增加警力。至今，中国政府并未公开、透明的让外界了解到相关信息”。</p>
+<p>阿克苏一位居民董先生周三告诉记者，当地的煤矿企业大部分工人来自内地农村，工作环境艰苦。虽然政府隐瞒消息，但仍有不少人听闻此事，却不敢公开谈论：“现在到处都查得很严，比原先厉害了，说明人还没有抓到。这些人可能在海外得到知识，学习过的，不然没有这么精良”。</p>
+<p>特约记者乔龙（责编：胡汉强/寇天力）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%E5%A4%96%E7%9C%81%E4%BA%BA%E5%B1%85%E5%A4%9A-%E5%9B%BD%E5%BA%86%E6%97%A5%E5%89%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E7%BB%B4%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">汉维矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%86%8D%E6%9C%89%E7%88%86%E7%82%B8-%E9%83%A8%E5%88%86%E5%BF%AB%E9%80%92%E6%9C%8D%E5%8A%A1%E6%9A%82%E5%81%9C/" target="cdt-mirror">BBC｜广西柳城再有爆炸 部分快递服务暂停</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930145723_china_explosion_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930145723_china_explosion_640x360_xinhua_nocredit.jpg" alt="150930145723_china_explosion_640x360_xinhua_nocredit" width="575" height=""></a></p>
@@ -612,22 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BB%8F%E6%B5%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%94%A3%E5%9F%B9%E5%9D%A4%E7%97%85%E9%80%9D/" target="cdt-mirror">经济日报｜丁子霖丈夫蔣培坤病逝</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/03GC003_.jpg" alt="_03GC003_" width="549" height="436"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/10la8p3a.jpg" alt="10la8p3a" width="551" height="413"></p>
-<p>「天安門母親」發起人丁子霖的丈夫蔣培坤，星期日（27日）在家鄉江蘇無錫因心臟病去世，享年82歲。</p>
-<p>蔣培坤是中國人民大學語文學系教授，他的太太丁子霖是前人民大學哲學系副教授。他們的17歲兒子蔣捷連於1989年「六四」事件中喪生，丁子霖後來組織天安門母親，呼籲平反六四。</p>
-<p>「六四」5周年，蔣培坤撰寫《不能讓受害者再一次被殺害》一文，細述他5年來的心路歷程，「這5年來，我終於有了自己的思想和尊嚴，這是以我兒子的血和生命為代價的，也是以我這幾年間失去的一切為代價的。」</p>
-<p>他在文中提到，「當我們面對眼前的暴行時，萬萬不要把眼睛閉上；當我們回首昔日的暴行時，萬萬不要把暴行從記憶中抹去。人類反抗強權的歷史，就是記憶反抗遺忘的歷史……罪惡一旦被遺忘，就會重演。」這是「六四」後，蔣培坤在海外報刊發表的第一篇署名文章。</p>
-<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BB%8F%E6%B5%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%94%A3%E5%9F%B9%E5%9D%A4%E7%97%85%E9%80%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E5%9F%B9%E5%9D%A4/?category=18271" rel="tag">蒋培坤</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -639,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -649,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

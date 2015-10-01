@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%86%8D%E6%9C%89%E7%88%86%E7%82%B8-%E9%83%A8%E5%88%86%E5%BF%AB%E9%80%92%E6%9C%8D%E5%8A%A1%E6%9A%82%E5%81%9C/" target="cdt-mirror">BBC｜广西柳城再有爆炸 部分快递服务暂停</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930145723_china_explosion_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930145723_china_explosion_640x360_xinhua_nocredit.jpg" alt="150930145723_china_explosion_640x360_xinhua_nocredit" width="575" height=""></a></p>
+<p>据中国官媒新华社报道，广西柳城系列爆炸发生后，柳州邮政部门已对邮包加强安全检查，在10月3日前暂停派件。</p>
+<p>中国国内一家民营快递公司接件工作人员告诉BBC中文网记者，目前没有收到不接收寄往柳州和柳城邮包的通知，但建议客户过一段时间再向上述地方寄送邮包，因为“可能无法按时送达。安检、验视都会比平时更加严格，而且会要求实名验证”。</p>
+<p>这位工作人员表示，目前寄往中国其他地方的邮包没有受到影响。</p>
+<p>据多家中国媒体报道，10月1日8时左右，广西柳城县又发生一起爆炸。一栋民房受损，爆炸产生的建筑碎砖石有的已飞到门前的一条公路对面。当地公安、消防部门已赶到现场。</p>
+<p>这是两天内发生在柳州市柳城县的第18起爆炸案。此前总共发生17起包裹爆炸案，截至目前爆炸已造成7死52伤。</p>
+<p>根据新华社的报道，广西柳州警方证实，柳城县爆炸案犯罪嫌疑人系雇佣他人以送递物件的方式实施犯罪。柳州市公安局局长周长青称，爆炸由多个装载快递包裹中的爆炸装置引发，认定是刑事案件，已排除暴恐案件可能，初步确定犯罪嫌疑人为柳城县大埔镇人韦某某。</p>
+<p>柳州警方还通过微博等途径提示公众，“广大群众要注意加强防范，不要随意接受陌生人委托转递的物品，不要随意接收非正规渠道送达的包裹物品。”</p>
+<p><strong>有爆炸物来自超市存包柜</strong></p>
+<p>据中国媒体财新网报道，发生爆炸的两家超市负责人均称：爆炸物被放置在顾客存包柜里。</p>
+<p>其中一家超市叫柳城县世纪华联超市加盟店。其负责人在电话中称，爆炸发生于周三下午4点10分左右。当时正有两名顾客在存包柜前放置自己的包，另有3名该店工作人员在存包柜附近。爆炸造成上述5人受伤。</p>
+<p>另一家超市是大埔镇农贸市场一楼的百姓超市。其负责人在接受财新记者采访时确认，爆炸物亦放置在存包柜里。但她记不清楚爆炸发生的具体时间。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%86%8D%E6%9C%89%E7%88%86%E7%82%B8-%E9%83%A8%E5%88%86%E5%BF%AB%E9%80%92%E6%9C%8D%E5%8A%A1%E6%9A%82%E5%81%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BF%A1%E5%A0%B1%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%94%B6%E7%A9%AB%E6%9C%AA%E5%A6%82%E7%90%86%E6%83%B3/" target="cdt-mirror">信報｜習近平訪美收穫未如理想</a>
 </h2>
 <p><p>過去3個月，中國經歷「暴力救市」失敗和人民幣「暴力貶值」後，經濟前景愈來愈令人憂慮。儘管早前召開的G20會議，中國財金官員空巢而出，全力保證中國經濟在未來「十三五規劃」期間會繼續在合理區間以較高速度增長，又信誓旦旦表示人民幣不存在持續貶值的基礎因素；而不少人都期盼習近平的所謂「釋疑增信」訪美之行會帶來轉機，但中秋假期前後連日來內地股市和人民幣滙價的表現，卻充分顯示投資者以實際行動對習近平訪美帶來的成果，投下不信任的一票。</p>
@@ -606,32 +628,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E9%A9%AC%E6%B0%B8%E7%94%B0%E6%8B%A6%E6%88%AA%E4%B9%A0%E8%BF%91%E5%B9%B3%E3%80%81%E5%BD%AD%E4%B8%BD%E5%AA%9B%E7%9A%84%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89/" target="cdt-mirror">【CDTV】博讯｜马永田拦截习近平、彭丽媛的视频曝光</a>
-</h2>
-<p><p></p>
-<p></p>
-<p></p>
-<p>9月25下午1點多，習近平車隊從白宮駛出，前往美國國務院，來自中國的訪民李煥君、­馬永田、孫海萍、張翠萍、葛麗芳等幾人，奮不顧身，衝破警察封鎖線，衝進習近平車隊，­震驚習近平一行大小官員。其中，北京訪民李煥君更是衝進車隊，躺倒在了習近平車下，強­行攔住了習近平的座駕。慌亂不已的美國安保警察數人衝上去，將李煥君從習近平車下扯出­來，抬到了馬路邊。 馬永田和張翠萍在衝向習近平汽車時，也被警察抓住，二人被警察隨後帶走。由於訪民的突­然衝擊，致使習近平車隊有車輛打偏方向，撞到了馬路邊。</p>
-<p>习近平车内和访民对视数秒</p>
-<p>    博讯曾报道如下：下午1点10分左右，习近平的车队经过18街与E街交叉口，当两辆凯迪拉克出现时，多位访民冲过去，将前面一辆凯迪拉克拦下，北京访民李焕君和上海访民葛丽芳钻到后面一辆加长的凯迪拉克的车底下，将车拦截下来。那一辆车正好坐着习近平，葛丽芳和李焕君看到了习近平，习近平与访民对视了几秒钟。随后，警察冲过去将李焕君和葛丽芳带到警戒线以外，没说什么就当场放了，习近平的车也离开了。</p>
-<p>习近平派人接收访民材料</p>
-<p>    习近平车队驶入国务院后，访民队伍在大门外高喊口号。也许是不堪访民冲击所致，大约一个小时后，习近平随行队伍派出两名官员，出来询问访民，接受了北京访民李焕君的诉状。</p>
-<p>    李焕君是因为在北京丰台石榴庄的家园被政府强拆，而多年诉求、上访。她在北京曾被关押半年之久，今年初逃往美国，继续在国外抗议争求。</p>
-<p>    震惊：访民李焕君横卧习近平车下，强递诉状！</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201509260816intl5.jpg" alt="201509260816intl5" width="545" height="307"></p>
-<p>习近平派人接收李焕君等访民材料</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201509260816intl10.jpg" alt="201509260816intl10" width="549" height="732"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201509260816intl12.jpg" alt="201509260816intl12" width="549" height="732"></p>
-<p>李焕君展示冲击车队时擦伤的手部</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/201509260816intl13.jpg" alt="201509260816intl13" width="549" height="732"></p>
-<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90cdtv%E3%80%91%E9%A9%AC%E6%B0%B8%E7%94%B0%E6%8B%A6%E6%88%AA%E4%B9%A0%E8%BF%91%E5%B9%B3%E3%80%81%E5%BD%AD%E4%B8%BD%E5%AA%9B%E7%9A%84%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%86%E9%A2%91/?category=18271" rel="tag">视频</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -643,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -653,5 +649,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

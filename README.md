@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BF%A1%E5%A0%B1%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%94%B6%E7%A9%AB%E6%9C%AA%E5%A6%82%E7%90%86%E6%83%B3/" target="cdt-mirror">信報｜習近平訪美收穫未如理想</a>
+</h2>
+<p><p>過去3個月，中國經歷「暴力救市」失敗和人民幣「暴力貶值」後，經濟前景愈來愈令人憂慮。儘管早前召開的G20會議，中國財金官員空巢而出，全力保證中國經濟在未來「十三五規劃」期間會繼續在合理區間以較高速度增長，又信誓旦旦表示人民幣不存在持續貶值的基礎因素；而不少人都期盼習近平的所謂「釋疑增信」訪美之行會帶來轉機，但中秋假期前後連日來內地股市和人民幣滙價的表現，卻充分顯示投資者以實際行動對習近平訪美帶來的成果，投下不信任的一票。</p>
+<p>習近平行前接受《華爾街日報》書面訪問，為中國的「暴力（干預）救市」辯護，指中央在採取多項穩定措施後，中國股市已進入「自我修復和自我調節」階段。</p>
+<p>換言之，正好證實「國家隊」已經停止進場，不再救市；既然缺乏中央資金托市，所以一遇上壞消息，上證指數便迅即跌破3100點關口，令投資者信心動搖。</p>
+<p>由於上證指數由高位5166點下挫至今已達四成，蒸發財富逾30萬億元人民幣，大部分散戶資金不是被困便是被消滅；而監守自盜的中證監和中信証券又有不少高層被捕，造市機會大大減少，相信內地股市再大幅下挫的機會已經不大。但這亦正好說明，內地股市已變成「殭屍市」，不生不死，再無實際投資意義。</p>
+<p>對中國外滙儲備近期大幅減少的現象，習近平以三大原因解釋：一是外滙資產由人行轉向境內銀行、企業等機構和個人持有；二是境內企業「走出去」，對外投資增長較快；三是境內企業穩步減少境外融資以降低槓桿。</p>
+<p>果如是，對於李嘉誠正常商業決定的所謂「撤資」，內地傳媒又何以諸多批評議論？難道同樣是資金「走出去」的內地富豪如馬雲、馬化騰之流和權貴官僚資本，不是更有「愛國」理由在國家經濟出現困難時，留在國內共渡時艱嗎？習近平的解釋，恰好說明資金外逃是國內今年的大趨勢，而隨着內地經濟數據愈來愈不濟事，願意向內地借貸的資金正急速下降；外滙資產愈是加快向私人部門轉移，外流的資金只會愈是加速。</p>
+<p>眾所周知，中國的外滙流通受到管制，人民幣的滙價非由自由市場決定，幣值由官方定價，但信心基礎卻來自中國以外滙儲備和銀行系統存款中的外滙佔款。</p>
+<p>8月份，中國的外滙儲備和銀行存款中的外滙佔款分別大跌940億美元和7000多億元，如果趨勢持續，估計不到一年，中國的外滙儲備便捉襟見肘，所謂人民幣不存在持續貶值的基礎因素的說法，根本站不住腳。</p>
+<p>因此，《信報》8月底曾引述外電報道，中國部分涉及金融相關的政府部門，正在研究考慮分別使用7算和8算為人民幣2015年底和2016年底的滙價，並非空穴來風，沒有原因。</p>
+<p>習近平又說中國希望透過注重創新及倚重消費令經濟「鳳凰涅槃，火浴重生」。正正在這個問題上，十八大四中全會以來，中共一直依賴量寬政策力谷經濟的做法令人擔心，只會得出完全相反的結論。</p>
+<p>由2002年至今年初，中國的廣義貨幣M2已增長近六倍，至122.8萬億元人民幣（20萬億美元），同期經濟規模增長只有大約四倍，中國的M2/GDP比率已達200%，比美國的相同比率在70%左右高出很多。</p>
+<p>但最近公布，中國至7月底的M2餘額已達135.32萬億元人民幣，即再增13.3%。大量增加的流動性，實際上只會流向資產市場和外逃，並沒有流向實體經濟，習近平一廂情願改革和振興經濟的「中國夢」，恐怕很難成為事實。</p>
+<p>事實上，放假期間，人民幣離岸滙價已創出兩周新低。主要原因，是由一種名為「目標可贖回遠期合約」（Target Redemption Forward, TRF）的衍生產品拆倉所致。原來這種衍生產品與「累計認購期權」（Accumulator）類同，一直看好人民幣前景的投資者或未來需要大量人民幣作貿易結算的企業客戶，過去買入數以萬億計的人民幣，現在憂慮人民幣未來因減息或貶值導致利息收入不能抵消滙價下跌，迫得把買入的人民幣沽出，因而引發人民幣離岸滙價下挫。</p>
+<p>根據摩根士丹利的報告估計，中國投資者於2013年合共買入價值約3500億美元的TRF，相等於2.73萬億港元；只要中國的經濟數據持續疲弱和人行未來繼續減息，這些投資者便會悉數沽售持有的人民幣，足令人民幣離岸滙價跌勢加劇，情況堪虞。</p>
+<p>習近平今次訪美之行，極盡討好美國企業之能事，但換來的投資，例如互聯網巨企Facebook、Google進入中國市場、環球片場在北京興建全球最大樂園，都是把中國當作「世界市場」賺取收益，再非「世界工廠」投資製造業；即使波音在中國設廠，亦只是中國購買300部飛機，所以機身噴漆和機艙內部裝置的工序，才搬到內地「包產到戶」而已，當中全不涉及重要的科技轉移，對內地創新經濟和刺激消費，幫助有限。中美加強經濟合作，究竟誰依靠誰、誰得益最大，也就不言而喻，可想而知。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BF%A1%E5%A0%B1%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%94%B6%E7%A9%AB%E6%9C%AA%E5%A6%82%E7%90%86%E6%83%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%8B%E5%9D%A1%E8%B7%AF-%E4%BB%8E%E9%98%85%E5%85%B5%E5%92%8C%E8%AE%BF%E7%BE%8E%E8%AF%B4%E8%B5%B7/" target="cdt-mirror">争鸣｜习近平的下坡路——从阅兵和访美说起</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/bkncn-20150906000312841-0906_05411_001_01p.jpg" alt="习大大左手礼" width="549" height="392"></p>
+<p>还有一个多月，就到了习近平上台三周年。一般来说，三年是道坎儿，孔子曰“三年有成”，毛时代有口号“三年大见成效”，民间谚语说，“三岁看大，七岁看老”。这三年，习近平做什么、怎么做，不做什么、为什么不做，做不成什么、做不好什么，都已经大白于天下，他的价值理念、政见学识、领导能力、执政风格，也全都已经暴露无遗。</p>
+<p>比起两“代”前任江泽民、胡锦涛，头三年里习近平算是个狠角色，巩固权力很快，权力抓得很牢，事情管得很宽，做事风风火火，令人印象深刻。某种意义上讲，这三年习近平走的是上坡路，他兼职无数，集权无度，一言九鼎，言出法随，党内地位已堪比毛、邓，独裁体制大放异彩，“集体领导”黯淡无光。这三年甚至称得上是大刀阔斧、轰轰烈烈的三年，只可惜，大刀阔斧的并不是全面改革，而是全面专政，轰轰烈烈的也不是经济发展，而是对内打老虎、对外亮肌肉。打老虎当然是好事，却因其明显的选择性而沦为权力斗争工具，亮肌肉无疑是蠢事，除了招惹是非、自找麻烦，没有别的用处。</p>
+<p>今年九月，习近平有两件大事，一是阅兵，二是访美。种种迹象表明，这两件大事不仅是习近平头三年内政外交的高潮所在，也极有可能成为他十年任期乃至全部政治生涯的顶峰。九三大阅兵别出心裁，纯属习近平的自选动作，其政治意义一则昭告天下，继天立极；二则镇公民、攘日美、联俄国，名义上是展示军容、军备与军威，实际上展示得更直接也更充分的，乃是习近平的领袖威权与个人风采——用阅兵副总指挥、北京军区副政委王健中将的话来说，“首先检阅的是三军将士对党中央、习主席的无比忠诚和坚决拥护”。</p>
+<p>对美国进行国事访问则是习近平从上任伊始就精心盘算、期待已久的事情，尚未成行，就被中宣部的吹鼓手们与邓小平“旋风九日”——中美建交之初（一九七九年）邓以副总理身份首次对美国进行的历史性访问——相提并论。习近平本人对此访亦有厚望：中国作为世界老二欲有所作为，习近平作为中国老大欲建功立业，“中国梦”欲美梦成真，若得不到美国的祝福和配合也就罢了，起码也要得到美国的妥协绥靖、容忍宽谅而不是虎视眈眈、掣肘遏制——此即习近平所谓“新型大国关系”之最低架构。所以，访美在习而言是三年外交重中之重的重头戏，后七年里各项内外举措之调整修正必将以此访所得为变量，意义不可谓不深远。</p>
+<p>然而，这两件大事都办得颇不顺利，甚至可以说，很不吉利。阅兵这种劳民伤财的事情，其效果就是“见光死”，《老子》古训“鱼不可脱于渊，国之利器不可以示人”——军威与“君威”不如留几分悬念为好。习近平原本指望借抗战胜利大阅兵广邀宾客、笼络欧美、孤立日本，一展“四海晏然，万邦来朝”的大国雄风，却因过于张扬，以至弄巧成拙，一是遭西方国家冷落，二是被党内大佬抢镜，硬生生把一场军国主义盛宴变成了食之无味、弃之可惜的鸡肋。君不见，习近平在阅兵式上毫无奕奕神采，反而一脸倦容，满腹忧愁好似写在脸上；检阅途中更是心不在焉，众目睽睽之下昏昏然错行左手礼，此乃不祥之兆，欲青史留名的阅兵佳话只怕从此变作一世笑柄。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33336.jpg" alt="333" width="549" height="366"></p>
+<p>而此次访问美国，显然时机不对，气氛更不对，是一次尴尬之旅。一则奥巴马任期将尽，已无时间和精力与习近平共同解决重大问题；二则在美国当前的大选气氛之下，国际信誉和人权记录欠佳的中国政府本来就是公共靶子，是两党候选人和美国舆论竞相抨击的对象，而习近平的“领袖魅力”尚未达到改变美国大选气氛的程度，所以很难指望此番习奥会既有面子、又有实益。中国公众若真对习近平访美抱有邓小平“旋风九日”那样的高期待，只会带来更大的失望。何况中美关系倒退已久，自习近平上台以来，在国际舞台上亲俄反美姿态一览无遗，更有公开反对“西方价值观”、大搞“七不讲”、拆毁教堂十字架、驱逐境外NGO、对美国发动网络攻击和窃密、“山寨”美国高科技产品等一系列“伤害美国人民感情”的暴政之举，互不信任情绪早已弥漫在两国政府和民间，习奥二人其实心照不宣，互视对方为战略威胁，此事彰明较着，天下皆知。而习近平做得最蠢的事情，是他的言行把那些传统上亲华的美国精英人士也逼到了墙角，在美国学术界，由亲华转为疑华、“反华”的，前有沈大伟，后有兰普顿，最近兰普顿断言，习的内外政策令“中美关系逼近临界点”。此情此景之下习近平此次访美，即便筹谋良久，亦必事倍功半，出访效果无非也是“见光死”。</p>
+<p>问题的严重性在于，阅兵不顺，访美无功，此二事并非偶然发生，而是习式内政外交一连串失误与失败的必然结果。近三年以来，中国的内外形势明摆着一日不如一日。随着打虎战役步步深入，中共高层内斗日益激烈，偷懒耍滑、怠政惰治的官场新习气在中共中下层扎根。目前看起来，习王打虎拍蝇离“取得决定性胜利”仍遥遥无期，这意味着高层恶斗、中层偷懒、下层怠政的状况将长期存在下去；而与此同时，中国的周边和平环境正在实质性逆转，越来越激烈的反中情绪不但在日本、菲律宾、越南蔓延，在台湾和香港也愈益显性化，就连“鲜血凝成友谊”的朝鲜金家王朝，也已经走到了公开翻脸的边缘——而朝鲜一旦与中国翻脸，其不按常理出牌的鲁莽行为给中国国家利益造成的冲击必定比东海、南海冲突更加严重。</p>
+<p>在此内忧外患愈演愈烈之际，持续高速增长了三十多年的中国经济也不再“给力”，目前已出现增速下滑、汇率急跌、股市崩盘等危机状况，美联储史无前例将中国疲弱的经济表现作为美元暂缓加息的理由。在今日中国，股民焦头烂额，境外投资者、私人企业家也人心惶惶，而习当局的应对措施则是手忙脚乱、毫无章法，比江朱、胡温大失水准，暴力救市愈救愈跌，国企改革愈改愈糟。为减缓资本加速流出的趋势，新华社属下的瞭望智库发出“别让李嘉诚跑了”的恐吓。不消说，此类言行和暴力救市的效果一样，不可能解决任何问题，只会加剧老问题，引发新问题。</p>
+<p>习近平刚上台之时，对他有好感、有期待、有幻想的中外精英大有人在，不过才短短三年，如今已恍如隔世。当初也曾有自由民主派人士吹捧习“是中国最好的大大”、“正在下一盘很大的棋”，如今又有人拾起了这个下棋的比喻，不过意思已经大不相同了。刘少奇之子刘源上将的智囊、曾以“抱着定时炸弹击鼓传花”妙喻胡锦涛的张木生批评说，习近平“把一手好牌下成了满盘臭棋”。也许是头三年里集权太过，亮剑太凶，所谓物壮则老，物极必反，习近平过早地走上了内政外交的下坡路。</p>
+<p>《争鸣》2015年10月号</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%89%E9%B8%A3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%8B%E5%9D%A1%E8%B7%AF-%E4%BB%8E%E9%98%85%E5%85%B5%E5%92%8C%E8%AE%BF%E7%BE%8E%E8%AF%B4%E8%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%8F%91%E7%94%9F%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E6%A1%88/" target="cdt-mirror">【真理部】广西柳城县及周边发生连环爆炸案</a>
 </h2>
 <p><p>（1）中宣部：广西柳城县及周边发生连环爆炸一案，各媒体不得擅自派队报导此案件，不能建立专题; 如报导要按新华通讯社等发稿为准。</p>
@@ -38,7 +89,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9F%B3%E5%9F%8E%E8%AD%A6%E6%96%B9%E8%BF%85%E9%80%9F%E6%8E%92%E9%99%A4%E6%9A%B4%E6%81%90%E9%81%AD%E8%B4%A8%E7%96%91/" target="cdt-mirror">【网络民议】柳城警方迅速排除暴恐遭质疑</a>
 </h2>
@@ -581,61 +632,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%9B%AE%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%8F%88%E8%A6%81%E8%A2%AB%E4%BB%A3%E8%A1%A8%E4%BA%86/" target="cdt-mirror">【网络民议】目测中国妇女又要被代表了</a>
-</h2>
-<p><p>当地时间9月26日，习近平在纽约联合国总部与潘基文共同主持了<a href="http://www.un.org/chinese/News/story.asp?newsID=24782">全球妇女峰会</a>。美国民主党总统候选人希拉里·克林顿在社交媒体推特上发言：“一面迫害女权主义者，一面却在联合国主持妇女权益的峰会？可耻。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-28-at-%E4%B8%8A%E5%8D%8811.04.53.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/Screen-Shot-2015-09-28-at-%E4%B8%8A%E5%8D%8811.04.53.png" alt="Screen Shot 2015-09-28 at 上午11.04.53" width="591" height="169"></a></p>
-<p>对此，外交部官员回应，中国妇女事业取得的成就是有目共睹的，<a href="http://mil.news.sina.com.cn/2015-09-28/1432840030.html">几名女权人士被拘捕是因为她们违反法律而非促进女权</a>。据彭博社28日消息，李军华说，“一些组织和个人发表无中生有的评论，或显示出对现实缺乏理解。几名女权人士被捕并非因为她们保护妇女权益，而是因为她们违犯了法律。”</p>
-<p>2015年3月6日曾被警方带走的女权主义者郑楚然（新浪微博<a href="http://weibo.com/u/1693478447?topnav=1&wvr=6&topsug=1">@大兔纸啦啦啦</a>）发微博回应外交部的指控：“不知道‘被抓的女权人士’是不是指在下……如果是的话，检察院不是说证据不足才放我么 外交部和检察院两个部门的话小女子应该听谁的挠墙ing。”</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9635.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9635.jpg" alt="IMG_9635" width="550" height="976"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9636.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9636.jpg" alt="IMG_9636" width="550" height="976"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9637.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9637.jpg" alt="IMG_9637" width="550" height="976"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9638.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9638.jpg" alt="IMG_9638" width="550" height="976"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9639.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/IMG_9639.jpg" alt="IMG_9639" width="550" height="976"></a></p>
-<p>纯粹：有个毛的发言权，各种删帖，各种五毛混淆视听。这意思是你有发言权，我有删帖权吗？</p>
-<p>风中清扬的树：我上网搜索下到底犯了什么法—“404 not found”</p>
-<p>Jack1973：如果你继续问，那些人违反了哪些法律，能否得到公开公平公正的审判？回应就早已准备好了：不要干涉中国内政</p>
-<p>金剛級戰艦雾岛_天弱求大和：回复@游僧西门月:事实就是抓完了开始研究用什么罪迫害她们，结果研究了一个月，一个罪名都套不上，还超时关押。只好给放了！</p>
-<p>黎明-之前：[赞]可耻[闭嘴] 要是在兲朝，希拉利一定也进监狱了</p>
-<p>wbxxxhhh：希拉里不是批评女权人士被抓，而是批评女权女士被随意罗织罪名抓捕。中国发言人回应称抓人是因为违法。但是法院并没有判决女权人士有违法，可是为了继续关押甚至拖延不判无罪。</p>
-<p>阿毛看电影：哪来的脸皮在联合国输出妇女运动啊，是号召大家把搞运动的都关起来吗？</p>
-<p>天使脸着陆：回复@第七个英雄:所以最美乡村女教师和家暴打死判七年，强奸案曝光受害者，强奸犯屡次轻判出狱再犯，这都不算事儿。 垫底还有阿拉伯和印度呢。</p>
-<p>香妃熊_lx：看这条的热门评论，确实觉得民智已开。除了一些直男癌搞不清状况，还在说中国女权够好的了。绝大部分都认为抓女权五姐妹是不对的。且不论个人观点是否支持女权活动，但这件事从法律的角度就是不对的。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%9B%AE%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%8F%88%E8%A6%81%E8%A2%AB%E4%BB%A3%E8%A1%A8%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%A4%9A%E4%B8%AA%E5%9B%A2%E4%BD%93%E4%B8%BE%E8%A1%8C%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8/" target="cdt-mirror">BBC | 香港“占中”一周年 多个团体举行纪念活动</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150928100840_hk1_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150928100840_hk1_624x351__nocredit.jpg" alt="150928100840_hk1_624x351__nocredit" width="600" height="337"></a><p>9月28日是香港“占中”抗议行动一周年, 当地多个团体在金钟政府总部外举行纪念集会</p></div>
-<p>9月28日是香港“占中”抗议行动一周年，当地多个团体在金钟政府总部外举行纪念集会，而大批警员也在场戒备。</p>
-<p>据由18个政党及民间组织组成的“全民反政治打压”运动发言人黄洁莹表示，“占中”行动发起人戴耀廷、香港学联及学民思潮的代表以及支持占中团体代表到台上发言。</p>
-<p>此外，参加者将会在下午5时58分左右默站15分钟，希望市民反思及回顾雨伞运动，思考将来如何争取民主，这也是去年香港警方向“占中”示威者释放87枚催泪弹的时间。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150928100909_hk2_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150928100909_hk2_624x351__nocredit.jpg" alt="150928100909_hk2_624x351__nocredit" width="600" height="338"></a></p>
-<p><strong>黄伞重现</strong></p>
-<p>据身在现场的BBC中文网记者蔡晓颖表示，集会现场已经聚集了超过一千人，而且不同年纪的人都有，其中不少人手持象征“占中”运动的黄色雨伞及黄色横幅，也有人打出“我要真普选”的标语。</p>
-<p>不过，香港民主派组织“人民力量”成员谭得志则表示，如傍晚时分有1000人响应，就会冲岀马路占领87分钟，纪念去年警方施放的87枚催泪弹。</p>
-<p>对此，黄洁莹评论说，如有其他行动，市民可自行选择是否参与，至于参与大会活动的团体，将于晚上7时陆续散去。</p>
-<p>据BBC中文网记者蔡晓颖报道，有不少军装和便衣警员出现在集会附近地区戒备，而金钟附近两条行车线已经关闭，但集会现场气氛平静。</p>
-<p>香港媒体也报道说，为了防止有人冲岀马路，警方在中环夏悫道两旁也架起铁马，并有人站岗，密切监视人民力量成员的行动。此外，也有警员在现场检查市民手持的横额。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150928101010_hk4_624x351__nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150928101010_hk4_624x351__nocredit.jpg" alt="150928101010_hk4_624x351__nocredit" width="600" height="338"></a></p>
-<p><strong>反“占中”游行</strong></p>
-<p>与此同时，反对“占中”团体包括“忠义民团”、“占中不代表我”等，也在28日下午2时半举行游行。游行从中环出发至金钟添马公园，并在公园内举行集会。</p>
-<p>而另一个反“占中”组织“保卫香港运动”则在铜锣湾百德新街游行至湾仔鹅颈桥，要求香港政府尽快起诉“占中”发起人。</p>
-<p>反“占中”游行发起人邓德成说，“占中”行动打击香港经济，希望以游行表达“占中”不值得纪念。他还呼吁市民在下一届区议会、立法会选举不要投泛民主派政党候选人的票。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc-%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%A4%9A%E4%B8%AA%E5%9B%A2%E4%BD%93%E4%B8%BE%E8%A1%8C%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD%E4%B8%80%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">占中一周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%B0%91%E6%80%9D%E6%BD%AE/?category=18271" rel="tag">学民思潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">抗议行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E8%A1%8C%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">游行示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">香港占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%AD%A6%E8%81%94/?category=18271" rel="tag">香港学联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -657,5 +653,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

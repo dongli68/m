@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://</body>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<html>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://</body>">https://</body></a><br/><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://<html>">https://<html></a><br/><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>">https://<hr><center>nginx/1.4.6 (Ubuntu)</center></a><br/><a href="https://<center>The plain HTTP request was sent to HTTPS port</center>">https://<center>The plain HTTP request was sent to HTTPS port</center></a><br/></td>    </tr>
+        <td><a href="https://<html>">https://<html></a><br/><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>">https://<hr><center>nginx/1.4.6 (Ubuntu)</center></a><br/><a href="https://<center><h1>400 Bad Request</h1></center>">https://<center><h1>400 Bad Request</h1></center></a><br/><a href="https://</html>">https://</html></a><br/><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>">https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head></a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/" target="cdt-mirror">亚洲周刊 | 一个妻子的这一年</a>
@@ -735,7 +735,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<center><h1>400 Bad Request</h1></center>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -745,5 +745,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://<center><h1>400 Bad Request</h1></center>">https://<center><h1>400 Bad Request</h1></center></a><br/><a href="https://<html>">https://<html></a><br/><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>">https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head></a><br/><a href="https://</html>">https://</html></a><br/><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>">https://<hr><center>nginx/1.4.6 (Ubuntu)</center></a><br/></td>    </tr>
+        <td><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>">https://<hr><center>nginx/1.4.6 (Ubuntu)</center></a><br/><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>">https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://<center><h1>400 Bad Request</h1></center>">https://<center><h1>400 Bad Request</h1></center></a><br/></td>    </tr>
 </table>

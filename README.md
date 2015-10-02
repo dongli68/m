@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,81 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%B7%EF%BC%9A%E6%96%B0%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%96%B0%E6%94%BF%E6%9D%83%EF%BC%9F/" target="cdt-mirror">牛博山寨｜任志強：新国家还是新政权？</a>
+</h2>
+<p><p>任志強的原文在新浪被删除 http://weibo.com/p/1001603893327706593636 特转发至此</p>
+<p>这一天发生在六十六年之前，中华人民共和国中央人民政府成立了。这一天向全世界宣告的是一个新的国家出现了，还是一个代表着原来国家的新政权成立了？</p>
+<p>从中国传统文化的角度和从国际法的角度看，中国还是原来那个中国。中国的文化，中国的国家边界，中国历史上与世界各国签定的协议等，都没有发生任何变化。只是一个以国民党为核心的代表中国国家权力的中华民国政府所拥有的实际控制的地区越来越少，一个以共产党为核心的代表中国广大人民利益的中华人民共和国政府控制了中国大陆的主要地区，向世界宣告将替代中华民国政府管理中国，并行使国家主权。</p>
+<p>是的，如果中华人民共和国是一个新的国家，那就无法继承原有国家的文化，历史，疆域和与世界各国旧有的协议和外交关系。尤其是在联合国和一切国际组织中的国家地位。</p>
+<p>所谓的新中国恰恰是因为既想继承原有国家的一切，又想自认为是成立了一个新的国家。</p>
+<p>如果是一个新的国家就必须要让世界各国重新承认这个新国家的国际地位，重新确定与新国家的国家之间的关系。如果是一个新政权，就需要与旧政权在世界各国中争夺被承认的国际地位，而原有的国际关系并不因政权变更而变化。新政权在被承认的同时，也继承了原有的国家之间的权利与义务。</p>
+<p>直到邓小平代表中国人民共和国走进联合国，接替了中华民国政府在联合国和联合国安理会的席位时，这个十月一日宣告成立的政府才真正被世界所承认，有权代表中国了。而此前代表中国在世界上行使主权的仍是中华民国的政府。</p>
+<p>此前中华人民共和国的政府只被世界上少数的国家所承认。也只与少数的国家有外交关系。不是这些国家不承认世界上有个中国，也从不认为世界上有两个中国，而只是不承认中华人民共和国的政府能代表中国。只承认中华民国的政府代表着中国。</p>
+<p>从联合国安理会的常任理事国席位可以看出，世界各国没有将中华人民共和国看成是一个新成立的国家，而只看成是能否代表中国的一个政府。其所继承的仍然是那个在二战中建立了反法西斯战争伟大功绩的曾经由中华民国政府代表的中国的联合国席位。</p>
+<p>就像苏联解体之后，俄罗斯政府代表了苏联的国际地位。苏联解体后的俄罗斯，并非是一个新建立的国家，而是继承了原苏联的所有国际地位和外交关系，包括所有的世界各国与苏联签定的外交关系文件。而其它从苏联解体后分立的国家则都要重新建立各自的外交关系和联合国席位。</p>
+<p>正是因为中华人民共和国的政府是代表中国的唯一主权地位，因此中华民国才不能再以一个国家的名义在世界和联合国的各种组织中拥有代表国家的地位。只有经过中华人民共和国的政府同意之后，才能以中华台湾的名义加入到这些组织中参与国际活动。</p>
+<p>直到今天生活在中国大陆中的许多人仍在错误的以为今天是一个新的国家的诞生。以为祖国在过66岁的生日。中国这个古老的国家已经有数千年的历史。每个朝代所发生的变化都是这个国家中的统治者，或称代表国家主权地位的政府的变更。而不是国家的改变。</p>
+<p>中国仍然是那个有着千年文化传统的国家，每一段统治者的变化过程都是这个国家历史中的一部分。不是重新的开始，而是历史的传承。</p>
+<p>如果仅认为这是一个只有六十六年历史的国家，那么怎么会有抗战胜利七十年的纪念？怎么会有历代王朝和孔孟之道？</p>
+<p>当高喊热爱祖国的口号时，切莫以为这个祖国是一九四九年才有的中华人民共和国，当高喊热爱国家的口号时，切莫以为中华人民共和国是个新成立的国家。</p>
+<p>这个祖国、这个国家包括了一九四九年之前的一切历史，也包括了除中华人民共和国这个政府所管辖的地区之外的，仍在中华民国政府管辖下的疆域。绝不能说爱台湾就不是爱祖国，不是爱中国！</p>
+<p>就像中华民国的政府和民众，永远不会承认中华人民共和国是一个新的国家，始终认为只有一个中国。就像中华人民共和国始终不承认台独，只承认一个中国。那就必须承认四九年建立的是新政府而不是新国家。（如果是一个新国家就没权力将一个即没有占领，又没有行使过管辖权的地区当做自己合法的领土，但继承则可以）</p>
+<p>做出成立新政府的是四九年九月二十一日的中国人民政治协商会议。在这次会议上选举了中央人民政府。</p>
+<p>毛在十月一日天安门城楼上宣布的也是“中央人民政府成立了”。十月一日原定的不是中华人民共和国的成立，而是中央政府成立的开国大典。</p>
+<p>必须让所有中国人知道，十月一日不是一个新中国的成立，而是中国成立了一个通过多党派协商选举产生了一个新的中央人民政府！这个节日不是新的国家产生的节日，而是一个新的政府产生的节日。</p>
+<p>当中国举国欢庆这个伟大的节日时，切切不可忘记历史的初衷。这个节日不是标志一个新的国家的建立，而是中国这个原有的国家建立了一个新的中央政府！不是这个祖国六十六岁的生日，而是一个新政府的庆典。</p>
+<p>希望这个新政府能信守最初的社会承诺，实现“共同纲领”中，赋予国民的权利，和统一战线的民主制度。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%B7%EF%BC%9A%E6%96%B0%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%96%B0%E6%94%BF%E6%9D%83%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A%E6%94%BF%E6%9D%83/?category=18271" rel="tag">共产党政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%80%E5%9B%BD%E5%BA%86/?category=18271" rel="tag">十一国庆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">新中国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/" target="cdt-mirror">中国领导人已经不能放心走进中国人群</a>
+</h2>
+<p><p>在习近平到达西雅图后，印度总理莫迪也到了硅谷进行了两天36小时旋风式的访问，除了访问一系列高科技公司外，还在硅谷进行万人集会演讲。据说报名参加的有5万人。很受印度人欢迎。</p>
+<p>莫迪最先造访的是特斯拉，后又进苹果家。刚刚傍晚时分，他的硅谷行渐入高潮，列队接见的就是高科技领域的其他大拿，包括MicroSoft`s Satya Nadella, Google`s Sundar Pichai, Qualcomm`s Paul Jacobs, Cisco`s John Chambers, Adobe`s Shantanu Narayen and TiE`s Venk Shukla。</p>
+<p>周日莫迪先去拜访扎克伯格，Facebook总部召开盛大的市民大会欢迎莫迪，小札亲自主持问答环节。莫迪说：“社交媒体可以告诉政府你做错了什么，这是民主的新力量”。(你对比一下脸书在中国的待遇。)小札面对知音也是蛮拼的，将自己Facebook账号的个人头像也改为以印度三色旗为背景，以示对数字印度计划的支持。小札父母还出来陪同莫迪散步。</p>
+<p>从Facebook出来，莫迪就直奔谷歌而去。而除谷歌印度裔CEO“劈柴”先生（Sunder Pichai）出来迎接之外，董事长施密特也来了。更出人意料的是，创始人之一拉里﹒佩奇也出场了。谷歌虽然在印度也遭遇反垄断调查等不愉快的经历，但是，毕竟没有出现因反对接受审查愤而退出中国市场这样激进的行为。周日下午莫迪在硅谷与可汉学院创始人萨尔曼会谈。萨尔曼老爸来出孟加拉国，老妈来自印度。</p>
+<p>莫迪宣布成立印美创投基金 BHARAT Fund。Linkedin创始人等一批互联网成功人士以及一批孵化器负责人前来助阵。莫迪说，创业公司最贴近他的内心。这次莫迪全方位搅动硅谷，搞起了一场40家印度裔创业公司的产品大展，展示印度创业生力军，顺便也在硅谷集中推销这些公司。</p>
+<p>莫迪硅谷36小时的最高潮开始了！真正摇滚乐般的狂欢。圣何塞SAP中心将挤满1万8千人(报名人五万多)，聆听莫迪演讲。让人惊呼：硅谷要成印度主场了！印度著名歌手Kailash Kher先暖场，18000印度人今夜将硅谷变成摇滚舞台。莫迪说，在这里找到了力量。今天印度人全面占领硅谷，不但人多势众，而且几大巨头的CEO都陆续由印度人执掌了。老莫在硅谷的主场感觉非常爽啊！</p>
+<p>老莫通过他1520万粉丝的推特账号直播了整个行程，印度全国网民与他任意互动。当然，最根本的，老莫是为印度摇旗呐喊而来。</p>
+<p>对比莫迪，习胖子在西雅图显得拘谨呆板。除了使馆组织的，很少自发欢迎，自发抗议的倒是不少。到哪里都严密保安，处处防范大众，在大众与自己之间精心构造一个缓冲隔离区，防止大众找到接触到自己，连行程都要事先保密。即使这样，仍有访民冲破警察阻拦，成功截住习车队。国内截访，导致国外截访的奇观，实在应该让中共反省。而反观人家莫迪，全程网上直播，网民任意与之互动，专门有团队处理网民意见。专制与民主，对待人民的态度，高下立下。无论在国内国际用多么高的声音，宣扬自己是为了全中国人民实现中国梦，实现共产主义理想，但在这样冷酷的现实下，很难让人相信这不是一个彻头彻尾的谎言。</p>
+<p>对比西雅图企业界接待二国首脑的态度，美国人民的民心向背已经如冰火一样二重天地。一个满嘴正义理想的高调，对内经济上残酷剥削中产，漠视底层贫困，政治上剥夺人民权力，压迫敢于抗争的人，对外处处献媚，用金钱买承认，用经济绑架道德，是不可能得到民主国家人民的认同。虽然，这一趟美国访问花费中国人民无数血汗钱(比较一下，莫迪只订购30亿美元的飞机)，但是，美国媒体对习访问的冷淡的程度，仍然大出人们的意料。不得已，中共只能出钱让媒体刋登习访美新闻。令人难堪的是，连这样的收费新闻报道，美国媒体都是打出这是广告，以求撇清与中共关系。在美国媒体对莫迪访问的大量报道的背景映衬下，暴露出在中共明知失去民心的焦虑心情下处处应对失据的窘态。</p>
+<p>从访民国外截访领导人，从国内几十万访民长年上访，从维稳费超过军费，从国内频发的暴力事件，中共领导人如今已经不能放心走进中国人群。美国社会上有1亿枪枝，中国大城市买菜刀都要实名制，从理论上说，中国社会要比美国社会安全得多。中国社会问题很多，解决好的标准很难用一句二句话概括，但是，要求中国领导人能够安心在中国人群中散步，中国人民可以随意与之交谈，这样的要求对于莫迪奥巴马来说无疑是低标准的。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">中国领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%BA%A6/?category=18271" rel="tag">印度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%BF%AA/?category=18271" rel="tag">莫迪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/k%E5%8D%9A-%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%88%98%E4%BA%89%EF%BC%9A%E4%BB%8E%E4%B8%80%E7%9B%86%E6%B1%A4%E5%88%B0%E6%9F%B3%E5%9F%8E/" target="cdt-mirror">K博 | 一个人的战争：从一盆汤到柳城</a>
+</h2>
+<p><p>一家火锅店，一个不满18岁的男招待，还有一位中年女顾客，然后因为一盆热汤浇下的视频，演成互联网上的争战。最后，有太多义正严辞的声音、包括公知们重新奋起的长篇论述，都指向了这位青年店员，如何不守待客之道、不懂服务规范，如何以身试法、破坏基本的社会秩序。对肇事男招待如此众口一致的口诛笔伐，居然大行其道，充满着赤裸裸的阶级歧视，不禁让人想起多年前的杨佳案，何其相似的系统性暴力和反抗？！简直不啻为一场阶级战争。</p>
+<p>阶级战争？听起来似乎那么熟悉，又那么陌生。如果把文革乃至之前的历次政治运动，土改、三反五反、反右、四清等等，都理解为官方发动的阶级战争，可能并不错。毛在临终前念念不忘的政治遗产，就是这些以阶级斗争为纲的“全面内战”。当然，在西方的民主语境下，只有阶级调和和阶级合作，阶级冲突通常被置于社会冲突的范畴内。只到最近几年，因为美国语言学家、社会批判者乔姆斯基先后对占领华尔街运动、对叙利亚内战、对希腊金融危机的评价，阶级战争才又重新进入到了公共话语。而乔姆斯基对阶级战争概念的使用，既指华尔街金融资产阶级对世界人民财富的剥夺，也包括希腊劳动阶级的激烈反抗。尤其在伦敦骚乱、弗格森骚乱、巴尔的摩骚乱等这样充满种族色彩的街头骚乱中，人们也惊讶地发现了，是阶级战争而非传统种族冲突的样式，似乎正在世界各地的反叛与社运潮流中，形成一个最为激进的潮流。</p>
+<p>那么，究竟什么是阶级战争呢？在和平时代，1968革命中的德国红军派给出了答案。红军派领袖麦因霍夫在一篇1971年论城市游击战的文章中，反复论述着城市游击战和阶级战争的关系，称，城市游击战就是阶级战争的一种武器，可以更简单、有效地鼓动和宣传，反对资本主义制度和帝国主义。尽管在红军派之后，欧洲的类似组织如革命细胞、红色旅，中东的“红九月”和北美的黑豹党等等，到了1980年代便逐渐式微，世界范围内只剩下北爱的“共和军”和南美的若干游击队。但是，英国威尔士地区从1980年代初出现了一份地方报纸，名曰The Alarm，以及后来的一份杂志Class War，继承了60年代的激进主义。他们在关注政府腐败的同时，倡导阶级斗争需要暴力，因为整个民主体制都是基于强制暴力的使用而建立起来的，而统治阶级是对人类最为危险的。</p>
+<p>这种观点，也代表着阶级战争的另一面，即乔姆斯基今天对金融资产阶级的批判。而历史上，按照著名社运学家查尔斯.蒂利对欧洲资本主义500年历史的研究，在资本密集主导的资本主义发展过程中，还伴随着强制暴力的密集及其制度化，即对内战争和福科意义上的规训，任何一点民主的进步都是经过激烈的抗争和残酷的暴力镇压的相互冲突。哈尔珀琳的研究也证实，在法国大革命之后，尽管有着1814年到1914年之间的“百年和平期”，欧洲内部没有发生大规模的多边战争，但是欧洲国家发动了十四场国内战争和十二场反对其他国家人民的战争；在欧洲以外，它们则发动了五十八场战争。这些内战和对外的殖民战争，便是无产阶级进行阶级斗争的同时由资产阶级控制的现代国家所发动的阶级战争。</p>
+<p>在中国当下，这种由统治阶级发动的压迫性阶级战争其实早已展开，资本和国家强制紧密结合，甚至辅以有组织犯罪暴力，进行强制土地拆迁，一场每天都在各地上演的充满血腥的阶级战争。针对工人罢工和城市居民集体抗争的镇压也愈趋暴力，大规模逮捕，大规模街头镇压已经是新常态。当然，另一场更隐秘也更早的阶级战争，则以强制计划生育的方式已经贯行数十年，直接以被统治阶级的家庭和女性的子宫为新的专政对象。</p>
+<p>而阶级战争的另一面，如马克思对法兰西内战的经典论述，表明了尽管工人阶级主导的阶级战争根本无力对抗训练有素的国家机器，但是无需政党领导，而且只有在无政党条件下才可能获得充分民主和自治，不至于坠入后来列宁主义的无产阶级专政道路。而这场1871年巴黎公社的最初经验，仍然启发着今天的阶级战争，阶级战争作为劳工阶级或底层阶级的一种反抗，本身就是民主的、自发的。意味着，阶级战争的方式也从城市游击战转向了个人化的破坏，无政府主义的反抗，如隐形委员会。这大概可以解释2011年底伦敦骚乱的部分思想起源，英国媒体当时也很快地意识到这场骚乱的阶级战争性质。如果以这样一个框架重新审视2005年的巴黎烧车事件，结果自然是惊人的。类似的，最新的美国弗格森和巴尔的摩黑人骚乱也因此不能再以所谓种族问题看待，而是新的阶级战争，一种个人化阶级反抗在新媒体时代的快速传播和聚合。</p>
+<p>正是在这个意义上，无论是否需要借助互联网，一个人的战争都有其可能，只要他或她如杨佳一般把个人冲突或者伤害理解为阶级压迫然后对之采取暴力反抗。这是在暴力强制力量已经被资本和国家高度垄断之下唯一可能改变暴力极度不对称分布的解决，与城市游击战的逻辑并无分别。自然，也大大区别于消极反抗的反社会行为，如一些反社会的女权主义者所倡导的：故意闯红灯、乱穿马路、进入地铁站拒绝安检、互换身份证生活、随意拧开公共水龙头、甚至拒剃腋毛等。相反，如温州火锅店的那位年轻学徒，在遇到中产阶级顾客呵斥时，直接以个体暴力方式回击，颠覆这种被服务规范所美化的阶级秩序，便是一种一个人的阶级战争了。</p>
+<p>它的直接后果，就是引发整个统治阶级及其附庸阶级的极大恐慌，如夏俊峰手刃城管、范木根对强拆的反抗，几乎直接动摇着整体的统治秩序。另一方面，中国社运中还存在着屠夫吴淦和艾未未，两位分别来自草根维权和艺术界的“行为艺术大师”，他们总是以“网络化的个人”、以对抗性的语言和艺术形式反击着种种凝聚着象征性暴力的国家－个人关系，同样引发着统治阶级的不安和报复。</p>
+<p>因此，当杨佳、夏俊峰、范木根等一个人的阶级战争已经开始，温州火锅店学徒的一盆热汤也不过是这场阶级战争的继续，也再没有什么“依法抗争”的框架可以束缚抗争行动、粉饰阶级秩序了。工人阶级、市民阶级和农民阶级的双手、双脚和手头一切可用的工具、材料，甚至呐喊，都可能转化为阶级战争的武器，并且汇聚成集体的反抗。那已经在过去十几年每年递增的所谓群体性事（Fan）件（Kang）中得到了印证，也似乎被公知们对这位温州小伙的最大恶意、被“9-3阅兵”前夕空前严密的安保措施反证了。而未来一切着力于强化既有阶级结构和统治秩序的历史倒退，都将加速更大规模的阶级战争的到来。</p>
+<p>这篇评论写完没有几周，柳城连环爆炸了。如官方所言，确实不是暴恐，而是阶级战争，一个人的战争。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/k%E5%8D%9A-%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%88%98%E4%BA%89%EF%BC%9A%E4%BB%8E%E4%B8%80%E7%9B%86%E6%B1%A4%E5%88%B0%E6%9F%B3%E5%9F%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">社会阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7%E6%96%97%E4%BA%89/?category=18271" rel="tag">阶级斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%862020%E5%B9%B4%E6%88%96%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91/" target="cdt-mirror">自由亚洲｜专家认为，中国大陆2020年或全面爆发“光棍危机”</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83.png" alt="" width="429" height="612"></p>
@@ -121,7 +193,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%AD%A6%E6%9C%AF%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BE%90%E5%B0%8F%E5%B9%B3%EF%BC%9A%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81/" target="cdt-mirror">学术中国｜徐小平：北大清华从来都不是世界一流</a>
 </h2>
@@ -579,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">人民大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2/?category=18271" rel="tag">大学教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B4%E8%BD%BB%E4%BA%BA/?category=18271" rel="tag">年轻人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">社交网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/?category=18271" rel="tag">高等教育</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%86%E6%98%8E%E7%A1%AE%E7%BB%86%E5%8C%96%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/" target="cdt-mirror">中青在线 | 公安部将明确细化网络实名制</a>
 </h2>
@@ -592,137 +664,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 <a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%86%E6%98%8E%E7%A1%AE%E7%BB%86%E5%8C%96%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AE%A1%E6%8E%A7/?category=18271" rel="tag">互联网管控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">网络安全立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9C%8D%E7%82%AC-telegram%E4%BC%A0%E5%A5%87%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%8C%E8%B1%AA%E3%80%81%E9%BB%91%E5%AE%A2%E9%AB%98%E6%89%8B%E3%80%81%E6%9E%81%E6%9D%83%E5%92%8C%E9%98%B4%E8%B0%8B/" target="cdt-mirror">霍炬 | Telegram传奇：俄罗斯富豪、黑客高手、极权和阴谋</a>
-</h2>
-<p><p>说了很久要写Telegram的故事，一直拖延没有写。在我拖延的这段时间里面，Telegarm继续快速增长，前几天，在旧金山的TechCrunch Disrupt活动上，创始人Durov说现在Telegram每天发送的消息数已经达到了120亿条，而今年2月的时候只有10亿条，是时候写完这个故事了。不过，随着它的出名，在中国也毫无悬念的变得难以访问，所以，如果你看完下载了它，又觉得不好连上，程序崩溃什么的，这并不是Telegram的错。</p>
-<p>每天120亿条消息是什么概念呢？我能找到的Whatsapp最新一次公布这个数字是今年4月，每天640亿条，这可是Facebook以190亿美金代价重金收购的App，并且被当作Facebook在移动平台上最好的投资之一。出生在最大的互联网市场美国，并且有Facebook的全力支持，也只是几倍于Telegram的规模而已。如果不出意外，未来的某个时候，Telegram会超过Whatsapp。</p>
-<p>消息数量和月活跃用户上，Telegram显然比Whatsapp和微信还有很大差距。但这是一个只有2年历史的新工具，并且他是一个完全私人拥有的公司，没有其他股东，没有投资人，号称永远不会出售，并且，它有着一支人数极少又战斗力极强的团队…这一切都让这个产品显得与众不同。如果要说这个时代的传奇，Telegram和它的创始人甚至团队，都完全可以入选。它和人们所知道的各种创业故事、商业传奇完全不一样，但又具有传奇故事的一切要素：黑客高手、政治、极权、阴谋…富豪，一应俱全。</p>
-<p>2014年1月24日对于Telegram是个惊喜的里程碑。在这一天，Facebook宣布收购了最流行的即时通讯软件Whatsapp。在之后的5天里面，Telegram增加了800万用户。究其原因，很多发达国家的用户对隐私有着更大的担忧，Whatsapp变成了Facebook这样大公司的资产，之后必然会发生数据交换，这是对隐私的巨大挑战。越来越多的数据掌握在大公司手里，这显然不是一件让人放心的事。这时候开始有更多人注意到了Telegram，这个极其注重隐私的工具，并且开始尝鲜。在那几天，很多人是第一次知道其创始人Durov兄弟，并且从媒体得知了他们是俄罗斯富豪。以至于Durov不得不在Twitter喊话，说请用户放心，我们团队并不在俄罗斯，现在的公司注册于德国柏林，非常安全。</p>
-<p>他们当然非常安全，因为柏林也只不过是这个团队一系列复杂的离岸公司控股结构中的一环。至于团队到底在哪，干脆没人知道。创始人Pavel Durov很可能根本不和团队在一起，甚至很多人猜测他们压根没有一个物理的办公室，而是一个用Telegram沟通的分布，实际人分散在世界各地的团队。酷爱八卦的媒体们也基本没有挖到过他们在物理世界的位置，更没有探访过他们的办公室。至于Pavel Durov本人，倒是会偶尔出现在世界各地接受一些采访和参加活动，只不过一会儿出现在柏林，一会儿出现在旧金山，有记者问他到底住在哪，他想了一下，似是而非的回答“巴黎挺不错的。“在Telegram发展的这两年里面，被媒体挖到的办公室位置只有一次，那是在位于纽约州水牛城（Buffalo, NY），这是一个和高科技不怎么沾边的城市，它是尼亚加拉大瀑布的美国那边，和加拿大安省接壤，并且以安大略湖的大湖效应造成的巨型暴风雪出名。这曾经是Pavel逃离俄罗斯之后的第一站，我甚至怀疑他们是到机场随便买了最近一班离开俄罗斯的飞机，从而随机到了这个城市。Telegram团队也提到过，他们第一个数据中心位于Buffalo。但现在那个办公室早就人去楼空。不知道是不是因为被人发现所以搬家了，我还是请朋友帮忙拍下了这个外观相当普通的办公楼照片。这个团队的神秘和传奇可见一斑。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%87.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%87.jpg" alt="telegram传奇" width="450" height="603"></a></p>
-<p>在创建Telegram之前，Pavel Durov以俄罗斯社交网站VK创始人闻名。2006年Pavel Durov和他的哥哥Nikolai Durov一起创建了VK，随后的几年，它成了俄语区最流行的社交网站。Pavel Durov不止一次自豪的说，VK是唯一一个在自由市场竞争中胜过Facebook的产品。Mark Zuckerberg后来自己也承认，曾经认为Facebook超越VK是早晚的事，没想到到现在已经有10年，仍然没能超过它。Pavel也毫不掩饰VK曾经从Facebook借鉴了很多东西，他说，毕竟我不是设计师啊，要全都自己设计要花更多时间。早期的VK从页面设计到推广方法，都跟Facebook完全一致，他也是从俄罗斯几个著名大学开始的，但后来变得越来越不一样。Pavel Durov 和Facebook创始人Mark Zuckerberg岁数一样大，都出生于1984年。媒体曾经总是把这两个人放在一起对比，两个年轻的互联网新贵。但是近年来形势变得非常诡异，为了言论自由，Pavel被迫放弃了他曾经所创造的一切，逃离俄罗斯，安全生活在美国的Mark Zuckerberg反而一直配合俄罗斯政府自我审查，Pavel经常发文讽刺他…看到Mark和Facebook这几年的所作所为，我完全赞同Pavel对他的讽刺。</p>
-<p>图片：Pavel Durov 照片，真是帅啊，这张是给女读者的福利…</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%872.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%872.jpg" alt="telegram传奇2" width="401" height="398"></a></p>
-<p>2011年开始，事情的发展已经美国人已经很难看懂了，但是还好我们是中国人，我们都懂。这一年，Durov兄弟的日子开始艰难起来。他们是强烈的自由捍卫者，认为言论自由高于一切。当时，俄罗斯国家安全机构要求VK关闭一些普京反对者的页面，遭到了Pavel拒绝。随后全副武装的反恐警察小队就突袭了他的住处和办公室，想必后来也发生过很多次不为人知的秘密谈话…</p>
-<p>2014年俄罗斯入侵乌克兰的时候，俄罗斯安全机构再次要求VK交出一位乌克兰活动家的个人信息，Pavel不仅贴出了文件全文，还连续贴了两张穿着衣服的小狗照片嘲讽安全官员们。</p>
-<p>图片：他收到的俄罗斯安全部门的文件其实还是很正规的，要是其他国家也可以给一份这样的文件，删贴的时候大家可能会更没怨气一点吧。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%873.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%873.jpg" alt="telegram传奇3" width="500" height="618"></a></p>
-<p>图片：他回复的就是这张小狗…</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%874.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%874.jpg" alt="telegram传奇4" width="333" height="600"></a></p>
-<p>图片：随后又发了这一张…</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%875.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%875.jpg" alt="telegram传奇5" width="385" height="482"></a></p>
-<p>这大概彻底激怒了普京。其实在此之前也有一些奇怪的事情也开始发生在了Pavel Durov身上，比如指控一辆他名下的汽车发生了交通事故逃逸之类的，尽管他自己根本没碰过这辆车。</p>
-<p>Pavel Durov并没屈服。普京对他的要求很简单，要么听话，要么把所持有的VK股份，卖给普京亲信所掌握的基金或者其他关联公司。Pavel仍然拒绝出售股份，只是这一次，他回旋的余地越来越小了，在前面几年中，普京亲信的基金们一直在从VK其他股东手里收购股份。董事会里面Durov兄弟终于成了孤家寡人，最后被迫卖出股份，放弃了他创造的一切。当然，俄罗斯政府比其他国家稍微好一点，至少是花钱买股份，因为有保密协议，Pavel没有透露过实际交易金额，不过人们推测应该有4亿到5亿美元这个级别。比起Facebook的市值不值一提，但对Pavel这样有足够大理想又一心实践理想的人，这已经能让他做很多事了。</p>
-<p>图片：Pavel Durov 回应mail.ru并购VK事件。mail.ru同样被普京亲信的基金控股，过去mail.ru本来也有VK股份，Pavel手里还有mail.ru的投票权，这一次是要完全并购…另外，mail.ru股东还有一家中国公司，猜猜是谁？呵呵，答案是腾讯…</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%876.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%876.jpg" alt="telegram传奇6" width="620" height="417"></a></p>
-<p>在被查水表的那些年里面，Pavel已经开始逐渐实施他理想的生活模式，其中最重要的一点是放弃所有固定资产。他卖掉房子、家具、车…到他卖出VK股份的时候，他已经不再持有任何固定的资产了，只有大量的钱。差不多也是在这段时间里面，他和哥哥Nikolai完成了Telegram最早期的工作。关于为什么要做一个强加密，非常在乎隐私的工具，Pavel Durov自己说，是第一次被警察突袭住处的时候，他给哥哥打了一个电话，电话接通的瞬间，他突然意识到电话是不安全的，一定会被监听。随后他发现，没有任何通讯方式可以保证他想要的安全和隐私，它们都有各种缺陷，要么是天生的缺陷和技术限制，要么是工具运营者的配合，导致这些工具毫无安全可言。</p>
-<p>既然没有一个可靠的通讯工具，那就自己做一个好了。兄弟两人又一次重新合伙开始一个新项目，Nikolai为这个工具设计了加密协议和架构，这就是Telegram。所以，Telegram是为了隐私和安全而生的。和一些工程和产品团队开发的通讯工具不一样，它是真正由数学家主导的项目，坚实可靠。</p>
-<p>说到这里，要介绍一下同为VK创始人的Nikolai Durov，他是Pavel的哥哥。wikipedia上对他的描述是“程序员，数学家”，此人参加了3次国际数学奥赛，拿回了3块金牌，又参加了4次国际信息学（计算机）奥赛，拿回了1块金牌和3块银牌…绝不空手而归，从小就是天才人物。Nikolai Durov并不是那种擅长竞赛数学的书呆子，除了读了2个数学Phd，他还一直领导VK工程师团队。那也是一个人数少而精的技术团队，他们完成了VK整个的工程和技术需求，一直到2013年才停止VK的工作。</p>
-<p>离开俄罗斯的时候，他们从VK团队中挑选了一些愿意一起满世界流浪的高手，继续由Nikolai带头，组成了Telegram的团队。到目前为止，没有任何公开的资料介绍过团队成员，只能从Github上代码的贡献者稍微窥探到一些团队成员的风格。Pavel在几次访谈和自述中提到过，这个团队中至少有6个人得过ACM竞赛大奖。并且都可以轻松拿到Google或者Facebook这个级别公司极好的Offer。当然这也造成了巨大的人力成本开支，Pavel说因为Telegram不打算出售，团队成员没法通过期权获得收益，所以给大家期权没有意义，他只能给团队开极好的薪水。薪水好到什么程度不得而知，至今只能知道Telegram的开销是每月100万美元，包括人力和硬件网络等等资源开销，大致估算一下就可以知道，这的确应该是极好的薪水，远超过Google这个级别公司高级工程师水平。相对于微信的支出，这个开销应该是个小数字，但考虑到所有资金都是Pavel自己一个人出的，虽然是有几亿美金的富豪，也是个不小的压力。Pavel不止一次表示，绝对不会对最终用户收钱，但是他早晚要让公司盈亏正常。他对于Telegram的预期并不是赚钱，而是可持续，只要公司赚的钱能负担自己的开销，他就满意了。对于始终期盼增长，已经很有钱但还要赚更多钱的互联网大佬们，这是难以理解的疯话。但我相信他是真诚的，Pavel从来不是一个在商言商的人，就算在VK发展比较顺利的时候，他也没事就会发表一些政治言论。这些言论就算在美国都有点惊世骇俗，比如建议俄罗斯废除货币之类…一些颇有乌托邦色彩的言论。他也曾经说过，当他开始有钱的时候，去看了其他俄罗斯有钱人的豪宅和游艇，当即就明白了这不是他想要的生活。对于他来说，改变世界本身比钱有意思的多，钱只是他在改变世界过程中的副产品和资源。他当然有资格讽刺Mark Zuckerberg，比起Pavel的生活，Mark所谓的叛逆只不过是见投资人时候不穿正装穿帽衫而已，实在孩子气。</p>
-<p>今年年初，笑来老师迷上了Telegram，想在上面做一些东西，那段时间我帮他读了不少Telegram的代码。边读边佩服这个团队的优秀。Nikolai设计的协议MTProto极其优秀，兼具数学和工程之美，它的加密基础非常完善，同时又在工程上很出色，Telegram传递的消息实际是函数，可扩展性相当强。同时，所有代码都是开源的，在github上可以看到每个项目的贡献者人数都很少，但代码质量相当高。我很惊讶于如此短的开发时间，如此少的人数，产生出这么高质量的代码。Telegram的特色就是快，它的快体现在各方面，不仅仅是协议本身精简造成的传输速度快，Telegram在各平台上的实现几乎都是从最底层的简单API实现，几乎不使用常见的库，而是自己实现所有界面控件。他们的所有控件样式也相当简单，从而让绘制效率非常高。这些努力最终得到的回报，就是它使用起来速度极快，极流畅。如果你在一个正常的网络环境使用，会非常直观的感受到它的效率和稳定。到今天，已经加入了相当多功能的Telegram（包括自定义的贴纸表情和机器人）iOS版只有30M的体积，而微信早就到了90多M，就算是功能简单的多的Whatsapp也有40多M。有兴趣琢磨代码的同学可以去Github上慢慢研究他们开源的代码，肯定会大有收获。</p>
-<p>电子前线基金会（EFF）有过一个关于常用通讯软件安全性的评测，其中Telegram的隐私模式满足所有标准。达到这些标准的工具里面，Telegram无疑也是最好用，最时尚的一个。而且Telegram对于安全性的做法也很富豪，Pavel开出赏金，只要有人找到协议的漏洞，就给10万美金奖金。2年来确实有一个人拿到这笔钱，准确的说，那个人找到的是一个隐患，而非漏洞，不过Pavel说隐患也很重要，奖金照给。</p>
-<p>一流的数学和工程团队+开源+重金安全悬赏，这些条件造就了Telegram的可靠，让人很难不信任他。我知道有很多人说“等他们需要赚钱的时候会如何如何”，这些人往往也是认为赚钱是第一重要，他们难以理解，甚至难以接受这世界上有不怎么把钱当回事的有钱人，估计他们也更难理解为什么另一位硅谷富豪Mitch Kapor会全心投入电子前线基金会（顺便说一句，此人也是Uber的早期投资人，将来我也会写他的传奇故事）。另外还有一些人说“哈，使用电话号码注册也好意思叫安全”，我觉得他们应该考虑一下自己的数学天分是否比Nikolai更高，然后再去仔细琢磨一下Telegram设计的良苦用心。无论从任何角度看，Telegram都是目前流行通讯工具中最可靠，最令人放心的一款。同时，Telegram用户量的暴涨本身就创造了一个奇迹，这是在互联网主流市场之外成长起来的社交工具，并且最终得以侵蚀美国市场。很多创业者和投资人根本不信这种事情发生…Telegram不仅不在硅谷，甚至你根本不知道他们到底在哪。</p>
-<p>2012年，Pavel还做过一件上了世界各国媒体头条的事情，他和VK的一位副总裁在办公室窗口往楼下扔钱，当时扔的每张纸币差不多值170美元。可惜后来抢钱的人开始打起架来，秩序一度非常混乱，Pavel只好停止了。Youtube的视频上可以看到，他把钱叠成纸飞机扔下去，看着人们抢来抢去开心的哈哈大笑。那一年他27岁，整个事件看起来就像是年轻的富豪暴发户拿路人取乐。不过后来Pavel解释过动机，他说当时他给了VK一位副总裁一笔奖金，这位副总裁跟他差不多，也认为钱只不过是改造世界的副产品，没什么珍贵的。Pavel很高兴说既然觉得没用，那你把这笔钱扔掉好了。这位副总裁当即开始往楼下扔钱，Pavel拦住了他，说你这样扔太没创意了，看我的，随后他把纸币叠成纸飞机飞出窗外。这架纸飞机后来被做为了Telegram的Logo。Pavel非常喜欢扔纸飞机那个时刻，他觉得那非常能代表他叛逆精神。那并不是暴发户对金钱的挥霍，而是对自由的向往。</p>
-<p>图片：视频本身不是很清晰，不过，就算模糊也能看到这架纸飞机了吧？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%877.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%877.jpg" alt="telegram传奇7" width="600" height="445"></a></p>
-<p>Pavel Durov的故事，是一个中国读者很容易感同身受，美国人无论如何也看不懂的故事，这也正是Pavel始终嘲笑Mark Zuckerberg的原因。Pavel曾经也说过，他觉得挺幸运，最终并没有在俄罗斯坐牢。我看到他说这段话时候心中暗笑，俄罗斯人还算幸运，出身克格勃的普京，虽然强权但竟然也算的上老实，要是在某个其他国家，怎么会有机会花钱买你的股份，怎么会制造什么交通事故逃逸之类不靠谱的事件呢？当然是先以涉嫌逃税抓起来，然后等你把股份拱手免费送上，最后电视台认个罪，媒体批评一轮，这事也就慢慢被人们淡忘了。也难过其他国家的企业家那么老实…俄罗斯和普京是承认Durov兄弟和VK的价值，而在其他国家，他们根本不珍惜人们创造的一切，觉得随便就可以毁掉。这也算是不幸中的万幸吧。</p>
-<p>很多人可能没想到，中文媒体报道Telegram（中文被译作“电报”）最多的媒体，并不是科技媒体，而是新华社。这篇报道是2015年07月12日，发表于人民日报的《揭开“维权”事件的黑幕》，文中写道：“‘电报’主要用于组织串联[此处隐去若干字]……可以设定时间删除图片和文字…[此处又隐去若干字]” 至于这些人到底是谁，他们干了什么，文末我放上人民网的文章链接，值得一看，仔细揣摩一下这些人的背景和来历（要用Google查），相信你不仅能更懂Pavel以及Telegram的苦心，还可以更懂中国。写多了又要被删了，我就不多写了。</p>
-<p>我估计会有读者问这篇文章中的其他国家是哪个国家。特别在这里解释一下，请看下面这条著名的微博。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%878.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/telegram%E4%BC%A0%E5%A5%878.jpg" alt="telegram传奇8" width="615" height="216"></a></p>
-<p> </p>
-<p>Pavel Durov还有很多故事可以写，但这篇放不下这么多内容了，比如他对版权和盗版的态度，他对斯诺登的支持，他对恐怖主义和隐私以及信息自由的关系的看法…都非常有意思。也许将来我会再写一个续篇。</p>
-<hr><p>参考备注：</p>
-<ul><li>标题图：来自Pavel Durov的Instagram，西乔帮我把Telegram日发送量100亿那天的庆祝图片和Pavel的照片拼在了一起。以Pavel对于版权的态度，想必他不会反对我这么做。Pavel是《骇客帝国》铁粉，一度特别喜欢穿一身黑衣，这张照片就是。</li>
-<li>感谢gokeeper到Buffalo, NY，帮我拍下这张曾经Telegram用过的办公地点照片。</li>
-<li>人民日报：揭开“维权”事件的黑幕 http://politics.people.com.cn/n/2015/0712/c1001-27290030.html</li>
-<li>电子前线基金会的通讯软件安全打分结果 https://www.eff.org/secure-messaging-scorecard</li>
-<li>从窗口扔纸飞机的视频：https://www.youtube.com/watch?v=3ibPWRqU724</li>
-<li>我上一篇文章关于XcodeGhost的文章被删了，这篇估计也早晚会被删掉吧，喜欢的读者别忘了自己保存一份…</li>
-<li>最后要说明的是，整个事件中的原始资料基本是俄语的，英文资料是被翻译过的，其中可能会有一些不准确的地方，但大体过程应该没问题。如有错误欢迎指出。虽然微信文章发出来就没法改了…</li>
-</ul><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E9%9C%8D%E7%82%AC-telegram%E4%BC%A0%E5%A5%87%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%8C%E8%B1%AA%E3%80%81%E9%BB%91%E5%AE%A2%E9%AB%98%E6%89%8B%E3%80%81%E6%9E%81%E6%9D%83%E5%92%8C%E9%98%B4%E8%B0%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/telegram/?category=18271" rel="tag">Telegram</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">网络自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%92%8B%E5%9F%B9%E5%9D%A4%E7%97%85%E6%95%85/" target="cdt-mirror">自由亚洲｜“天安门母亲”丁子霖丈夫蒋培坤病故无锡家乡</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/4b244365-34a9-46f3-8e3f-02993ddad1ee.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/4b244365-34a9-46f3-8e3f-02993ddad1ee.jpeg" alt="2011年6月，中国天安门母亲运动发起人丁子霖与丈夫蒋培坤。（资料图/天安门母亲网）" width="575" height=""></a><p>2011年6月，中国天安门母亲运动发起人丁子霖与丈夫蒋培坤。（资料图/天安门母亲网）</p></div>
-<p>中国“天安门母亲”群体发起人之一、丁子霖的丈夫蒋培坤，中秋节（9月27日）当日在家乡江苏无锡因心脏病去世，享年82岁。独立中文笔会发布唁讯，表示沉痛哀悼。据称，蒋培坤的遗体日内在家乡火化，其家人希望低调，因此不会有公开活动。他们17岁的儿子蒋捷连，于1989年六四事件中在木樨地丧生，他们后来发起天安门母亲运动，呼吁平反六四。</p>
-<p>中国“天安门母亲”群体发起人丁子霖的丈夫蒋培坤，于本周日在家乡无锡因心脏病逝世，享年82岁。蒋培坤曾担任中国人民大学美学研究所所长、哲学系教授，也是天安门母亲运动发起人之一。他的妻子丁子霖是前人民大学哲学系副教授。他们17岁的儿子蒋捷连，于1989年六四事件中在木樨地丧生，他们后来发起天安门母亲运动，呼吁平反六四。蒋培坤的孙女本周一晚接受香港NOW新闻台采访时称：“其实也没有心愿，爷爷走的时候就是快得很，他是闭眼去的，应该是没有甚么遗憾。奶奶（丁子霖）可能是伤心了，但是她说她会继续爷爷生前的工作……反正奶奶她会继续写，还会坚持六四这个事，她不会放弃的。”</p>
-<p>“天安门母亲”发言人尤维洁本周二接受本台采访时称，事发突然，她内心沉痛：“知道以后，心里非常难过，但是目前我们还不能够做什么事情，因为丁老师人还在无锡，我们也不敢去打扰她，我没有给丁老师打电话，我怕她难过，我们太难受了。希望她能在这段时间心情平稳下来。等丁老师回到北京以后，再说我们难属该怎么做”。</p>
-<p>天安门母亲张先玲周二表示：“丁老师本来身体就不太好，受了这么大的打击，身体相当的不好，所以我们没有想到有人会把这个消息说出去，因为一说出去就有媒体会采访她，会给她增加很多负担，所以希望你们不要打扰她。我们虽然有一些想法，要等她回来以后再商量”。</p>
-<p>张先玲说，二十多年来，当局拒绝接受天安门母亲群体的要求，向世人交代六四真相：“当局对这件事情迟迟不处理，每一个家庭，每一个天安门母亲的心情都是非常压抑的。每当中秋佳节的时候，大家团圆的日子，我们大家心里都非常难过，加上身体不好就会引发病痛，年纪大了会出现死亡。蒋老师在几年前，因为受到当局的迫害，还引起脑梗，种下了病根”。</p>
-<p>现已旅居美国的郭宝胜牧师曾是蒋培坤的学生，他周二对记者说，他走上追求自由、民主、宪政的道路，与当年蒋培坤老师的教育非常有关：“我们交往了很长时间，我到人民大学一入校，我们当时读美学的时候，看的是蒋老师的教材“审美活动论纲”，他的教材不错，从美学学科来说，是比较开放的体系。他是反对马克思主义唯物主义论美学观点。我看这部教材就觉得老师非常好。紧接着到1992年，他们夫妻就发表天安门母亲的第一份声明，为他们的儿子蒋捷连呼吁。还有其他的天安门母亲的冤屈。这样他们引起了国际社会的注意。我们系就停止他们两个人上课”。</p>
-<p>郭宝胜说，蒋培坤逝世是天安门母亲运动的一大损失：“尤其他对我走上人权、民运这条道路，他起了一个很大的推动、引导作用”。</p>
-<p>在六四5周年期间，蒋培坤曾撰写《不能让受害者再一次被杀害》一文，细述了他5年来的心路历程，其中提到“这5年来，我终于有了自己的思想和尊严，这是以我儿子的血和生命为代价的，也是以我这几年间失去的一切为代价的。”文中还称，人类反抗强权的历史，是记忆反抗遗忘的历史，罪恶一旦被遗忘，就会重演。</p>
-<p>据悉，丁子霖将于十月上旬返回北京，与天安门母亲部分成员见面，暂时不会为蒋培坤逝世举行公开活动。</p>
-<p>特约记者乔龙 （责编：胡汉强/寇天力）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E4%B8%81%E5%AD%90%E9%9C%96%E4%B8%88%E5%A4%AB%E8%92%8B%E5%9F%B9%E5%9D%A4%E7%97%85%E6%95%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2/?category=18271" rel="tag">天安门母亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%8F%8D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">平反六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%88%E7%8E%B2/?category=18271" rel="tag">张先玲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E5%9F%B9%E5%9D%A4/?category=18271" rel="tag">蒋培坤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">运动</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%EF%BC%9A%E5%8C%85%E5%AD%90%E5%BF%85%E9%A1%BB%E5%B0%81%E4%B8%A5%E5%AE%9E%E4%BA%86%E4%B8%8D%E7%84%B6%E9%9C%B2/" target="cdt-mirror">【网络民议】网络实名制：包子必须封严实了不然露馅怎么办</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%B0%B4%E8%A1%A8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%B0%B4%E8%A1%A8.jpg" alt="水表" width="550" height=""></a><br><em>（网络图片）</em></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/01/techweb%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E5%8F%91%E8%A1%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81%E4%BD%9C%E8%80%85%E9%A1%BB%E5%AE%9E%E5%90%8D%E6%B3%A8%E5%86%8C/">TechWeb｜广电总局：发表网络文学作品作者须实名注册</a></li>
-<li><a title="Permanent Link to 网络实名：杀光天下的公鸡，就能阻止黎明到来？" href="http://chinadigitaltimes.net/chinese/2012/12/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%EF%BC%9A%E6%9D%80%E5%85%89%E5%A4%A9%E4%B8%8B%E7%9A%84%E5%85%AC%E9%B8%A1%EF%BC%8C%E5%B0%B1%E8%83%BD%E9%98%BB%E6%AD%A2%E9%BB%8E%E6%98%8E%E5%88%B0%E6%9D%A5%EF%BC%9F/" rel="bookmark">网络实名：杀光天下的公鸡，就能阻止黎明到来？ </a></li>
-<li><a title="Permanent Link to 【网络民议】做人不能太“马碧”：网络“紧箍咒”作者遭曝光" href="http://chinadigitaltimes.net/chinese/2012/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%81%9A%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%A4%AA%E9%A9%AC%E7%A2%A7%EF%BC%9A%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E8%AE%BA%E6%96%87/" rel="bookmark">【网络民议】做人不能太“马碧”：网络“紧箍咒”作者遭曝光 </a></li>
-<li><a title="南方周末 | 韩国网络实名制兴废记" href="http://chinadigitaltimes.net/chinese/2012/01/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6%E5%85%B4%E5%BA%9F%E8%AE%B0/">南方周末 | 韩国网络实名制兴废记</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/04/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%9A%E8%BE%BE%E6%95%B0%E5%8D%83%E4%B8%87%E7%A4%BE%E4%BF%9D%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E6%88%96%E9%81%AD%E6%B3%84%E9%9C%B2/">BBC | 中国多达数千万社保用户信息或遭泄露</a></li>
-</ul></blockquote>
-<p><strong><a href="http://news.sina.com.cn/c/nd/2015-09-30/doc-ifxieymv7750356.shtml">中青在线｜公安部将明确细化网络实名制</a></strong></p>
-<blockquote><p>公安部网络安全保卫局法制工作处处长李菁菁今日在提及网络安全态势和网络立法走向时表示，下一步将明确细化网络实名制，加强公民个人信息保护。</p>
-<p>据李菁菁介绍，目前各国加紧网络空间的战略布局，构筑网络防御工事，加大了对互联网的管控力度，同时也在加强网络外交博弈，积极抢占网络空间国际规则的主导权和话语权。</p>
-<p>[…]李菁菁说，互联网+时代，犯罪与网络结合更加紧密，网络犯罪大幅上涨，网上违法信息传播蔓延等，使网民上网的安全感下降，关键信息基础设施防御能力亟待提升。</p>
-<p>就此，她认为我国网络安全立法应该从6个方面进行设计：树立新的网络安全观；加强顶层设计和统筹规划；兼顾网络安全保护和网络社会治理；明确政府、企业、用户各自的网络安全责任；<strong>加强行政立法与刑事立法的衔接</strong>，以及<strong>积极参与和推动网络空间国际立法</strong>。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@大胖肉肉的：实名制后上网才没安全感呢！还各国，不就你国管控越来越严格，好一个墙国皇帝梦</p>
-<p>@软件民工2015：明明自己在封锁，非得说别国也在封锁。明明自己专制，车上别人说民主也不好。其实这些鬼话，已经隐含的承认了自己不是好东西。</p>
-<p>@wudasong：是dang的安全感下降，还是网民安全感下降？</p>
-<p>@wenjinxu：禁言更加方便，跨省抓捕更容易。</p>
-<p>@小范官邸：方便你们查水表吗，直接断网或者切换到朝鲜模式吧。</p>
-<p><a href="http://weibo.com/u/2862781913">许治明</a>：实名制的话要少一批五毛，毕竟一个五毛操作几十个账户或更多账户的情况会减少吧<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@热气青年3代：发篇“义正辞严捍卫言论上甘岭”的评论员文章都不署真名，还要求网络实名？</p>
-<p>@石晶乐园：不怕实名，只怕删贴，最好真名发贴，网评员们愿不愿真名？</p>
-<p><a href="http://weibo.com/twilightman" target="_blank">宇轩_y</a>：……腊肉线包子真难吃<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
-<p><a href="http://weibo.com/2289056101" target="_blank">拉躬射螞蟻</a>：包子必须封严实了不然露馅怎么办<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p><a href="http://weibo.com/2150322915" target="_blank">请叫我小胖OK</a>：吾皇万岁万岁万万岁<img title="[弱]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]"></p>
-<div><a href="http://weibo.com/1275722377" target="_blank">上发条的猴子</a>：请问下交警，如果高速公路上开倒车，时速超过多少算超速<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></div>
-<p>@Feb贰：草，个人信息泄露严重，这才是真正的安全感下降原因之一！！！</p>
-<p>@三洗吾身：实名制后 安全感才下降 哈哈</p>
-<p>@软件民工2015：把网络实名制跟加强公民信息保护连在一起说真是欲盖弥彰。正因为手机都登记了身份证号码，犯罪分子才有机会用假冒的身份证去补卡，进而转走卡上的钱。实名制就是把每个公民的隐私放上网。</p>
-<p>@还能淡定吗-：中国局域网大法好</p>
-<p>@网玩而已：只准听赞歌,不许有杂音</p>
-<p>@病猫66040：这他妈的就是封建统治，官僚主义！</p>
-<p>@邵明波：网络的核心是互联，不是管制。</p>
-<p><strong>@foxwe：吃的不安全，住的不安全，出行不安全。网络一实名人民群众居然安全了</strong></p>
-<p>@白马王爷7777：赶紧公开官员财产。流氓掌控下的政府，民众才最不安全。</p>
-<p>@-我所理解的生活：这就叫改革，这就叫开放！！真是一代不如一代啦～～中国梦该醒了！包子才是真正的左派啊！</p>
-<p>@山人小鸣：《国语·周语上》:”防民之口，甚于防川，川壅而溃，伤人必多，民亦如之。是故为川者，决之使导;为民者，宣之使言。”。指阻止人民进行批评的危害，比堵塞河川引起的水患还要严重。指不让人民说话，必有大害。</p>
-<p>@简化心灵1：一辆老解放牌汽车重新喷了漆，换了个司机上了高速开倒车</p>
-<p>@无盲123：做贼的总是心虚！</p>
-<p>@Justin_Chiang2012：我艹廉刀斧头帮十八代祖宗</p>
-<p>@marsoft：我打赌，青年团网评员不会实名制。</p>
-<p>@QUNAINSD：共党：这下可以想怎么玩就怎么玩儿了，网络实名，看那些屁民还敢不敢再说什么对我党不利的话了，查到分分钟让他自己纵火自焚，让他随时遇到个间歇性精神病</p>
-<p>@降宫山君：实名制没问题，我一直是实名注册的！可问题是各个网站屏蔽用户评论是怎么回事，我如果造谣或是诽谤了你就去告我，说真话凭什么屏蔽！这样只会证明政府官员做贼心虚！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%EF%BC%9A%E5%8C%85%E5%AD%90%E5%BF%85%E9%A1%BB%E5%B0%81%E4%B8%A5%E5%AE%9E%E4%BA%86%E4%B8%8D%E7%84%B6%E9%9C%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%A5%E6%B0%B4%E8%A1%A8/?category=18271" rel="tag">查水表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
@@ -747,5 +688,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

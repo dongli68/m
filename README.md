@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%B7%EF%BC%9A%E6%96%B0%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%96%B0%E6%94%BF%E6%9D%83%EF%BC%9F/" target="cdt-mirror">牛博山寨｜任志強：新国家还是新政权？</a>
@@ -57,6 +57,26 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/" target="cdt-mirror">中国领导人已经不能放心走进中国人群</a>
+</h2>
+<p><p>在习近平到达西雅图后，印度总理莫迪也到了硅谷进行了两天36小时旋风式的访问，除了访问一系列高科技公司外，还在硅谷进行万人集会演讲。据说报名参加的有5万人。很受印度人欢迎。</p>
+<p>莫迪最先造访的是特斯拉，后又进苹果家。刚刚傍晚时分，他的硅谷行渐入高潮，列队接见的就是高科技领域的其他大拿，包括MicroSoft`s Satya Nadella, Google`s Sundar Pichai, Qualcomm`s Paul Jacobs, Cisco`s John Chambers, Adobe`s Shantanu Narayen and TiE`s Venk Shukla。</p>
+<p>周日莫迪先去拜访扎克伯格，Facebook总部召开盛大的市民大会欢迎莫迪，小札亲自主持问答环节。莫迪说：“社交媒体可以告诉政府你做错了什么，这是民主的新力量”。(你对比一下脸书在中国的待遇。)小札面对知音也是蛮拼的，将自己Facebook账号的个人头像也改为以印度三色旗为背景，以示对数字印度计划的支持。小札父母还出来陪同莫迪散步。</p>
+<p>从Facebook出来，莫迪就直奔谷歌而去。而除谷歌印度裔CEO“劈柴”先生（Sunder Pichai）出来迎接之外，董事长施密特也来了。更出人意料的是，创始人之一拉里﹒佩奇也出场了。谷歌虽然在印度也遭遇反垄断调查等不愉快的经历，但是，毕竟没有出现因反对接受审查愤而退出中国市场这样激进的行为。周日下午莫迪在硅谷与可汉学院创始人萨尔曼会谈。萨尔曼老爸来出孟加拉国，老妈来自印度。</p>
+<p>莫迪宣布成立印美创投基金 BHARAT Fund。Linkedin创始人等一批互联网成功人士以及一批孵化器负责人前来助阵。莫迪说，创业公司最贴近他的内心。这次莫迪全方位搅动硅谷，搞起了一场40家印度裔创业公司的产品大展，展示印度创业生力军，顺便也在硅谷集中推销这些公司。</p>
+<p>莫迪硅谷36小时的最高潮开始了！真正摇滚乐般的狂欢。圣何塞SAP中心将挤满1万8千人(报名人五万多)，聆听莫迪演讲。让人惊呼：硅谷要成印度主场了！印度著名歌手Kailash Kher先暖场，18000印度人今夜将硅谷变成摇滚舞台。莫迪说，在这里找到了力量。今天印度人全面占领硅谷，不但人多势众，而且几大巨头的CEO都陆续由印度人执掌了。老莫在硅谷的主场感觉非常爽啊！</p>
+<p>老莫通过他1520万粉丝的推特账号直播了整个行程，印度全国网民与他任意互动。当然，最根本的，老莫是为印度摇旗呐喊而来。</p>
+<p>对比莫迪，习胖子在西雅图显得拘谨呆板。除了使馆组织的，很少自发欢迎，自发抗议的倒是不少。到哪里都严密保安，处处防范大众，在大众与自己之间精心构造一个缓冲隔离区，防止大众找到接触到自己，连行程都要事先保密。即使这样，仍有访民冲破警察阻拦，成功截住习车队。国内截访，导致国外截访的奇观，实在应该让中共反省。而反观人家莫迪，全程网上直播，网民任意与之互动，专门有团队处理网民意见。专制与民主，对待人民的态度，高下立下。无论在国内国际用多么高的声音，宣扬自己是为了全中国人民实现中国梦，实现共产主义理想，但在这样冷酷的现实下，很难让人相信这不是一个彻头彻尾的谎言。</p>
+<p>对比西雅图企业界接待二国首脑的态度，美国人民的民心向背已经如冰火一样二重天地。一个满嘴正义理想的高调，对内经济上残酷剥削中产，漠视底层贫困，政治上剥夺人民权力，压迫敢于抗争的人，对外处处献媚，用金钱买承认，用经济绑架道德，是不可能得到民主国家人民的认同。虽然，这一趟美国访问花费中国人民无数血汗钱(比较一下，莫迪只订购30亿美元的飞机)，但是，美国媒体对习访问的冷淡的程度，仍然大出人们的意料。不得已，中共只能出钱让媒体刋登习访美新闻。令人难堪的是，连这样的收费新闻报道，美国媒体都是打出这是广告，以求撇清与中共关系。在美国媒体对莫迪访问的大量报道的背景映衬下，暴露出在中共明知失去民心的焦虑心情下处处应对失据的窘态。</p>
+<p>从访民国外截访领导人，从国内几十万访民长年上访，从维稳费超过军费，从国内频发的暴力事件，中共领导人如今已经不能放心走进中国人群。美国社会上有1亿枪枝，中国大城市买菜刀都要实名制，从理论上说，中国社会要比美国社会安全得多。中国社会问题很多，解决好的标准很难用一句二句话概括，但是，要求中国领导人能够安心在中国人群中散步，中国人民可以随意与之交谈，这样的要求对于莫迪奥巴马来说无疑是低标准的。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">中国领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%BA%A6/?category=18271" rel="tag">印度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%BF%AA/?category=18271" rel="tag">莫迪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/" target="cdt-mirror">微信｜中国领导人已经不能放心走进中国人群</a>
 </h2>
 <p><p>在习近平到达西雅图后，印度总理莫迪也到了硅谷进行了两天36小时旋风式的访问，除了访问一系列高科技公司外，还在硅谷进行万人集会演讲。据说报名参加的有5万人。很受印度人欢迎。</p>
 <p>莫迪最先造访的是特斯拉，后又进苹果家。刚刚傍晚时分，他的硅谷行渐入高潮，列队接见的就是高科技领域的其他大拿，包括MicroSoft`s Satya Nadella, Google`s Sundar Pichai, Qualcomm`s Paul Jacobs, Cisco`s John Chambers, Adobe`s Shantanu Narayen and TiE`s Venk Shukla。</p>
@@ -652,21 +672,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%86%E6%98%8E%E7%A1%AE%E7%BB%86%E5%8C%96%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/" target="cdt-mirror">中青在线 | 公安部将明确细化网络实名制</a>
-</h2>
-<p><p>中青在线北京9月29日电 （中国青年报·中青在线记者王景烁） 公安部网络安全保卫局法制工作处处长李菁菁今日在提及网络安全态势和网络立法走向时表示，下一步将明确细化网络实名制，加强公民个人信息保护。</p>
-<p>据李菁菁介绍，目前各国加紧网络空间的战略布局，构筑网络防御工事，加大了对互联网的管控力度，同时也在加强网络外交博弈，积极抢占网络空间国际规则的主导权和话语权。</p>
-<p>“在国际态势下，我国的互联网面临更大的压力和风险，综合安全、整体安全、战略安全‘牵一发而动全身’。”李菁菁说，互联网+时代，犯罪与网络结合更加紧密，网络犯罪大幅上涨，网上违法信息传播蔓延等，使网民上网的安全感下降，关键信息基础设施防御能力亟待提升。</p>
-<p>就此，她认为我国网络安全立法应该从6个方面进行设计：树立新的网络安全观；加强顶层设计和统筹规划；兼顾网络安全保护和网络社会治理；明确政府、企业、用户各自的网络安全责任；加强行政立法与刑事立法的衔接，以及积极参与和推动网络空间国际立法。</p>
-<p>在“加强行政立法与刑事立法的衔接”这一条中，李菁菁表示要对网络实名制做出更具操作性的规定。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF-%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%86%E6%98%8E%E7%A1%AE%E7%BB%86%E5%8C%96%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AE%A1%E6%8E%A7/?category=18271" rel="tag">互联网管控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">网络安全立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -678,7 +683,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -688,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

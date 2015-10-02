@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%BA%BA%E4%BB%AC%E6%9C%89%E6%B2%A1%E6%9C%89%E7%88%B1%E5%9B%BD%E7%9A%84%E8%87%AA%E7%94%B1/" target="cdt-mirror">唐映红 | 心理学问答：人们有没有“爱国”的自由权利？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/S1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/S1.png" alt="S1" width="550" height=""></a></p>
+<p>问：人们有没有“爱国”的自由权利？</p>
+<p>答：应当有，但在特定的社会语境下没有。</p>
+<p>从心理学角度，人们热爱，或者偏爱自己所置身的群体是人类的天性之一；不仅如此，人们还更可能偏爱自己出生和成长的环境，哪怕早已离开许久。人类的这种天性也被称为“内群体偏好”（in-group favoritism），“爱国”不过是此种天性的反映。</p>
+<p>而所谓的“权利”，一般来讲指的是人们应当具备的实现其利益的一种力量。从伦理的角度，“权利”的正当性体现在每个人都享有不损害或危及他人同等权利的平等的权利；在现代社会里，个体的权利常常通过法律来确立和保障，因此“权利”也有其合法性。当法律意义上的合法性与伦理意义上的正当性一致时，“权利”一般就指人们享有的法律权利；当法律意义上的合法性与伦理意义上的正当性不一致时，“权利”不仅指法律权利，同时也包含人们应当具备却被不正当的法律剥夺或侵害的伦理权利。</p>
+<p>无论是伦理意义上的权利，还是法律意义上的权利，都包含了赋予人们作为或不作为的许可、认定和保障。因此，人们享有某项权利，实际上就同时意味着人们有权选择作为，也有权选择不作为，以及有权在合理的范围内自由选择以自己认为恰当的方式作为。例如，人们有结婚的权利，这是法律所确立和保障的一项法定权利，这就意味着，个体有权选择结婚，有权选择不结婚，也有权选择任何不违背法律许可边界内的他人结婚。同时，那些被法律剥夺结婚权利的人（如同性恋者），也拥有应当被许可结婚的伦理权利（同性恋与异性恋在伦理上应当享有平等的结婚权利）。</p>
+<p>“爱国”也是一样的，作为一项权利，人们有权选择“爱国”，也有权选择“不爱国”，或者有权选择以自己认为恰当和合适的方式来“爱国”。例如，在纳粹德国时期，有人选择支持纳粹政府来“爱国”，有人选择反对纳粹政府来“爱国”，从权利角度并行不悖。在现时代，也遵循同样的逻辑。在美国，有人选择支持奥巴马及其政党组织的政府来“爱国”，有人选择反对奥巴马及其政党组织的政府来“爱国”，他们彼此拥有的“爱国”权利不多不少，正好一样多。</p>
+<p>不仅如此，哪怕是有人选择“不爱国”，无论其出于怎样的考量和动机，也是他应有之权利。例如，法国著名国宝级影视艺人杰拉尔·德帕迪约（Gérard Depardieu）因不满政府税率过高，毅然决定移居俄罗斯，即是他行使应有之权利。</p>
+<p>正如社会心理学研究所揭示的，作为人们“爱国”心理机制的“内群体偏好”现象，其本质上也是形成偏见的心理基础。“内群体偏好”常常也被称为“内群体外群体偏误”（in-group-out-group bias），从积极的方面来看，它表现为人们会偏爱自己认同的群体，高估本群体的各种价值；从消极的方面来看，它同时又反映为人们会排斥甚至诋毁其他的群体，低估他群体的价值。所以，强烈的“爱国”情感本质上是反理性的，通常见诸于社会经济中下层（“爱国”会提升他们的自尊感）、难以理解复杂社会现实的保守者（他们大脑额叶前扣带回的灰质部分偏少而颞叶的杏仁核偏大，导致他们难以理解模糊知识，却又充满强烈的憎恶感）、青少年（大脑前额叶的发育尚不完善）。</p>
+<p>也因为“爱国”能极大地提高“爱国者”的自尊感和其他的积极体验，所以当有人行使“爱国”权利的不作为一面时，就会在无形中削弱“爱国者”们的好感觉（任何情境下，当自己视若珍馐而别人弃之如敝屐都会损害个体的积极感受），因此“不爱国”或以与主流不一致的“爱国”往往会感受到更多的排斥感以及群体威胁的压力；在特定的社会情境下，有些人仅仅因为“不爱国”或与主流不一致的“爱国”而被攻讦、侵害甚至屠戮。当然，在这样的社会情境下，“爱国”已经不再作为一项权利，而成了受胁迫的“责任”。</p>
+<p>当然，既然“爱国”，那么“国”到底是什么也是导致人群在“爱国”问题上撕裂，并且互相攻讦的主要原因。有些人认为“国”就是拥有垄断各种权力（包括对“爱国”的诠释权）的权力集团；另一些人则认为“国”是被垄断权力集团破坏得伤痕累累的土地、文化和传统的集合体。人们在“爱国”上存在分歧，甚至对立十分正常。你们的“爱国”甘露，他们的“害国”砒霜。可以想见，在权力集团垄断了“爱国”诠释权的社会语境下，“爱国”只有一种方式是“合法”的，其他方式都是“非法”的。此时，“爱国”也不再是人们的权利，而成了对权力集团的“义务”。</p>
+<p>因此，当且仅当选择“不爱国”与选择“爱国”，选择这样的姿势“爱国”与选择那样的姿势“爱国’时都同样不受到任何胁迫时，“爱国”才是一项自由权利。</p>
+<p>（点击“阅读原文”，可访问旧文《爱国主义是否容易导致自尊的阴暗面》。）</p>
+<p>2015-10-01</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%BA%BA%E4%BB%AC%E6%9C%89%E6%B2%A1%E6%9C%89%E7%88%B1%E5%9B%BD%E7%9A%84%E8%87%AA%E7%94%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%E5%A4%96%E7%9C%81%E4%BA%BA%E5%B1%85%E5%A4%9A-%E5%9B%BD%E5%BA%86%E6%97%A5%E5%89%8D/" target="cdt-mirror">自由亚洲｜拜城煤矿遇袭身亡外省人居多 国庆日前新疆岗哨林立</a>
 </h2>
 <p><p><em>原标题：拜城煤矿遇袭身亡外省人居多 国庆日前新疆岗哨林立防恐袭</em></p>
@@ -616,30 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E6%9C%89%E4%B8%80%E7%A7%8D%E8%AE%B0%E8%80%85%E7%9A%84%E8%81%8C%E4%B8%9A%E9%A3%8E%E9%99%A9%E5%8F%AB%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB/" target="cdt-mirror">旧闻评论 | 有一种记者的职业风险叫“虚假新闻”</a>
-</h2>
-<p><p>旧版署近日发布十五条虚假新闻及其处理结果，其中认定前南都记者王星采写的某官员身故报道为虚假新闻，并且按照“凭空捏造”、“无中生有”的判定标准，处以禁业五年的处罚。王星发表个人声明，否定“虚假新闻”的指控及惩罚，得到业内同行附议。</p>
-<p>根据王星的声明内容，对该名官员属于自杀身亡还是急病过世，属于操作上的疏漏，是新闻生产过程中产生的问题。这与主观故意地制造假新闻，存在根本的区别。旧版署的处罚依据，无法回应新闻生产过程中的现实障碍，似乎也不打算检讨相关条规。</p>
-<p>这件事令人想起《新闻记者》杂志2012年十大虚假新闻评选，将经济观察报关于“分拆铁道部”的报道认定为假新闻，同样引发执行记者的愤懑。后来的事实发展证明“分拆”为真，只是在尚未明朗时，报道走在了前头，而且引起权力恼怒及反弹。</p>
-<p>为经观报道是否属于假新闻，评委与新闻记者之间有过激烈的争论。评委僵化地认为，因为有经观的道歉声明，有铁道部的否认声明，有记者被处罚的事实，因此假新闻的判定成立。记者抗议的，是这种否认新闻生产过程、无视处罚所依据的强权逻辑。</p>
-<p>两相对比，可以看到这些年过去，关于虚假新闻的认定，依旧没有一个公认的标准，缺乏一个公平、公正、公开的认定程序，以致于在结果出来后，难以服众，除了展现部门傲慢与颟顸，对虚假新闻“一锅端”的自由裁量，已经背离了它所宣称的正当目的。</p>
-<p>现有的对所谓“虚假新闻”的认定，其致命缺陷是：无视新闻生产的规律，否认存在着一个不断求证、真相逐渐还原的报道过程。而是将某个未完成的报道从生产流程中孤立出来、强行摘取出来，一叶障目不见森林。对虚假新闻的认定背离了“新闻”，这是最令人寒心的。</p>
-<p>不否认有故意捏造的报道，纯粹出于恶意，但这种东西已经与真正的新闻没有关系。而且，这种类型的假新闻，判断起来并不困难。问题在于，现有的评判标准毫无检讨的自觉，反而是将各种虚假新闻的成因混淆到一起，客观上在维持一种滥用的、无节制的评判权。</p>
-<p>在另一方面，随着新闻环境越来越严峻，掌握一手材料的部门变得越来越强势，也越来越倾向于放弃澄清事实的责任，令真相湮没在封锁中。这种严重的信息不对称，对正常的新闻求证程序造成了挑战，频繁伤害事实与真相。虚假新闻的评定，对此采取了冷酷的态度。</p>
-<p>无论是不加甄别地对待虚假新闻的生成原因，还是不尊重新闻生产规律，抑或将虚假新闻与未完成的新闻搅和在一起惩罚，看似是偷懒，也有人善意地理解是评判者的能力不足，但实际上确立了对新闻生产予取予夺的杀威棒，这近似于故意追求某种强权震慑。</p>
-<p>回到王星的报道上，官员身亡的原因处在黑匣子里，只要部门不发声，它就一直处于盲区。一旦记者遵循新闻规律去报道，就会因信息不对称掉进“陷阱”，而且无处申冤，直到被“虚假新闻”盖棺定论。过宽的自由裁定，以及部门对真相的垄断，构成了记者严酷的职业风险。</p>
-<p>一边是新闻报道异常艰难的求证过程，一边是与羸弱的、覆盖范围极广的评定依据不对称的行业行政惩罚，记者要如何选？王星这样的记者选择前者，那就很可能遭遇后者。更多的记者会放弃报道，避开风险。虚假新闻的评定，建立起劣币驱赶良币的扭曲逻辑。</p>
-<p>虚假新闻当然要治理，但在治理前需要做好多工作，比如解决虚假新闻的准确定义，分清楚虚假“结果”的成因，让贫瘠的认定依据变得扎实，尤其在松散的行业依据与严厉的行政处罚之间建立合法性基础，如果没有这些检讨作为起点，虚假新闻的认定本身也会变得虚假。</p>
-<p>2015/9/28</p>
-<p><strong>相关阅读：</strong><a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%96%B0%E5%8D%8E%E7%BD%91-15%E5%AE%B6%E5%AA%92%E4%BD%93%E5%88%8A%E5%8F%91%E5%81%87%E6%96%B0%E9%97%BB%E8%A2%AB%E9%80%9A%E6%8A%A5/" target="_blank">新华网 | 15家媒体刊发假新闻被通报</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E6%9C%89%E4%B8%80%E7%A7%8D%E8%AE%B0%E8%80%85%E7%9A%84%E8%81%8C%E4%B8%9A%E9%A3%8E%E9%99%A9%E5%8F%AB%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A/?category=18271" rel="tag">处罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E8%87%AA%E7%94%B1/?category=18271" rel="tag">媒体自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%BF%97%E6%A0%87/?category=18271" rel="tag">宋志标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">旧闻评论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E8%A7%84%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">违规案件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -651,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

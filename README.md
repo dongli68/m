@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<body bgcolor="white">"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>">https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head></a><br/><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://<html>">https://<html></a><br/><a href="https://</html>">https://</html></a><br/></td>    </tr>
+        <td><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://<center>The plain HTTP request was sent to HTTPS port</center>">https://<center>The plain HTTP request was sent to HTTPS port</center></a><br/><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>">https://<hr><center>nginx/1.4.6 (Ubuntu)</center></a><br/><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>">https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head></a><br/><a href="https://</body>">https://</body></a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/" target="cdt-mirror">亚洲周刊 | 一个妻子的这一年</a>
@@ -198,7 +198,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E6%B4%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%E5%A4%96%E7%9C%81%E4%BA%BA%E5%B1%85%E5%A4%9A-%E5%9B%BD%E5%BA%86%E6%97%A5%E5%89%8D/" target="cdt-mirror">自由亚洲｜拜城煤矿遇袭身亡外省人居多 国庆日前新疆岗哨林立</a>
 </h2>
@@ -745,5 +745,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://</html>">https://</html></a><br/><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>">https://<hr><center>nginx/1.4.6 (Ubuntu)</center></a><br/><a href="https://<center><h1>400 Bad Request</h1></center>">https://<center><h1>400 Bad Request</h1></center></a><br/><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>">https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head></a><br/><a href="https://<html>">https://<html></a><br/></td>    </tr>
+        <td><a href="https://</html>">https://</html></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://<center>The plain HTTP request was sent to HTTPS port</center>">https://<center>The plain HTTP request was sent to HTTPS port</center></a><br/><a href="https://<center><h1>400 Bad Request</h1></center>">https://<center><h1>400 Bad Request</h1></center></a><br/></td>    </tr>
 </table>

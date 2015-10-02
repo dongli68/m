@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,140 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%862020%E5%B9%B4%E6%88%96%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91/" target="cdt-mirror">自由亚洲｜专家认为，中国大陆2020年或全面爆发“光棍危机”</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83.png" alt="" width="429" height="612"></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A5%B3%E5%90%8C%E8%83%9E%E7%9A%84%E9%80%86%E8%A2%AD/">【网络民议】女同胞的逆袭</a></p></blockquote>
+<p>中国大陆面临严重的男女性别比例失衡问题，适婚男性人口比女性多出数千万。有中国人口学者认为，中国大陆的“光棍”危机可能于2020年全面爆发，届时中国单身男将数以千万计，将造成严重的社会问题。</p>
+<p>中国《第一财经日报》9月30日报道，根据中国国家统计局公布的数据，2014年末，中国大陆男性人口将达7亿多，比女性多3376万。1980年后出生的非婚人口男女比例为136:100，1970后出生的非婚人口男女比高达206:100，男女比例严重失衡。报道认为，中国大陆人口性别比失衡的根本原因 是出生性别比失衡。正常情况下，出生性别比一般介于103和107之间，每出生100个女婴，相应有103至107个男婴。中国大陆的出生性别比1980 年代之前基本正常，1982年为107：100，之后迅速攀升，1990年达到111.3；2000年升至116.9；2004年高达121.18。2008年以来徘徊在117左右高位。</p>
+<p>中国国家卫计委官员在今年初的中国出生人口性别比治理体系创新研讨会上表示，目前中 国大陆出生性别比偏高的后果已经显现，风险进一步聚集和扩大，过去20年，中国出生性别比一直高于115，成为世界上出生性别比失衡最严重的国家。统计数据显示，中国大陆1980年到2014年共出生6.75亿人，平均男女性别比是114.7：100。按此推算，中国男性人口比女性多出3千多万。这数千万多余男性被挤压出婚姻市场，被迫成为“光棍”，形成所谓“婚姻挤出”现象。</p>
+<p>旅美中国学者谢选骏对此分析说:</p>
+<p>“中国文化传统中的重男轻女观念和做法和政府的一胎化政策是导致中国性别失衡的原因。”。</p>
+<p>《第一财经日报》的报道说，华中科技大学中国乡村治理研究中心研究人员刘燕舞在河南、湖北、贵州等地调研发现，未婚的“光棍”男性大部分集中在农村，有些贫困 山区出现了光棍村。男女性别比失衡会造成早婚、订婚、婚姻买卖现象增多，导致婚姻错位、代际争夺及婚外情、第三者插足、非婚生育以及同性恋、性疾病、性犯 罪等社会现象增加，危害社会公共安全。中国性别比失衡问题研究者李树茁警告说，性别比失衡风险通过一定的程式聚集、放大、扩散，可能会促使已有的社会风险 更加复杂化、多样化。</p>
+<p>有中国人口学者认为，中国出生性别比失调是性别偏好、生育数量限制和胎儿性别鉴定这三个因素共同作用的后果，中国严苛的计划生育政策难辞其咎。尽管很多医院畏惧惩罚不敢明明目张胆做胎儿性别鉴定，但是如果是熟人，私下做个B超鉴定性别是很习以为常的事。敬畏胎儿生命的意识依然没有普及，对堕胎并没有罪恶感。因此，要使男女比例恢复正常，最有效的办法就是全面取消生育限制政策。官方资料显示，中国大陆每年人工流产为 2.7亿人次，若加上数量可观的药物流产，总的流产数量更多。</p>
+<p>在海外的中国学者廖然就此建议：</p>
+<p>“中国要想做到老百姓停止从事选择性堕胎，还需要改善养老福利状况，并立法实施真正的男女平等，力图消除重男轻女在法律和社会中的存在。”</p>
+<p>《第 一财经日报》的报道还说，堕胎之所以被中国大部分人看得平常，是因为没有把胎儿当作拥有生命权的个体来尊重。在中国具体法律法规中，对于胎儿权利有许多自相矛盾的规定，比如中国《民法通则》规定，公民的权利能力始于出生，终于死亡，没有出生的胎儿没有公民权力。中国《刑法》则规定，“审判的时候怀孕的妇女不适用死刑”。中国《继承法》明文规定，尚未出生的胎儿享有财产继承权。专家认为，出生性别比严重失衡的状况若不改变，会令中国蒙羞。但这是一个系统工程，需要政府、相关组织、每位公民的积极参与。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%862020%E5%B9%B4%E6%88%96%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%A0%95%E8%83%8E/?category=18271" rel="tag">强制堕胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83/?category=18271" rel="tag">性别失调</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9F%B3%E5%9F%8E%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E6%A1%88%E4%BC%9A%E6%88%90%E4%B8%BA%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88%E5%90%97%EF%BC%9F/" target="cdt-mirror">柳城连环爆炸案会成为另一个厦门公交爆炸案吗？</a>
+</h2>
+<p><p>破案速度、过程、结论都惊人地一致</p>
+<p><span><em><strong>事件回顾：</strong></em></span></p>
+<h2><strong><a href="http://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88/">厦门公交爆炸案</a></strong><strong>：</strong></h2>
+<ol><li>2013年6月7日，厦门发生了造成47死、34人伤的公交爆炸案。</li>
+<li>6月7日当天，厦门市政府当天将该事件认定为严重刑事案件。</li>
+<li>6月8日傍晚，当地政府宣告破案，称经现场访查与DNA比对后，认定纵火嫌犯是现年五十九岁市民陈水总、已死于现场，并将其作案动机认定为“生活不如意、悲观厌世”。</li>
+</ol><blockquote><p><strong>相关阅读：</strong></p>
+<h4><a title="Permanent Link to 【网络民议】民间质疑厦门公交爆炸案调查结果" href="http://chinadigitaltimes.net/chinese/2013/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B0%91%E9%97%B4%E8%B4%A8%E7%96%91%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/" rel="bookmark"><strong>【网络民议】民间质疑厦门公交爆炸案调查结果</strong> </a></h4>
+<h4><strong><a href="http://chinadigitaltimes.net/chinese/2013/06/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E9%99%88%E6%B0%B4%E6%80%BB%E6%98%AF%E5%A6%82%E4%BD%95%E7%82%BC%E6%88%90%E7%9A%84/">宋志标：“陈水总”是如何炼成的</a></strong></h4>
+<p>“迄今为止，福建方面并没有公布公交纵火案的证据。厦门日报所说的公布，不过是公布一个结论而已，并没有证据的详情。在没有严密的、可信的证据链坐实陈就是纵火者的时候，报纸舆论已经开始强行推销“陈就是凶手”。就在舆论开始发动，按照套路塑造陈的凶手形象（比如说他孤僻，暗示有复仇心态等）时，网易给于了艰难的、少量的澄清。但这还不够。陈水总与纵火案的后果之间，还缺少有力度的联系。有人说是巴士自燃，有人说汽油不足以造成这样的烧伤，也有人说早在陈上车前就闻到车厢有异味。这些疑问都在否定官家单方面凶手认证的公信力。退一步说，即使政府掌握了确实的证据，但只要这些证据不公开，其推出的结论就很难被采信。没有公布的证据，与没有凶手的纵火，实际上是一样的。”</p>
+</blockquote>
+<h2><strong><a href="http://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/">柳城爆炸案</a>：</strong></h2>
+<ol><li>2015年9月30下午，柳州市柳城县陆续发生了共17起爆炸事件，均由快递包裹内的爆炸装置引发。</li>
+<li>9月30日晚，柳城警方通报否认系列爆炸为暴力恐怖袭击，并称已锁定犯罪嫌疑人为柳城县大埔镇的韦银勇。</li>
+<li>10月1日8上午，柳城再度发生一起与之前类似的爆炸，当地政府暂停了部分快递服务。</li>
+<li>10月2日下午，柳城警方宣布案件告破，称在经过DNA鉴定后，确认嫌疑人韦银勇在案发现场被炸身亡。</li>
+</ol><blockquote><p><strong>相关阅读：</strong></p>
+<h4><strong><a href="http://chinadigitaltimes.net/chinese/2013/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B0%91%E9%97%B4%E8%B4%A8%E7%96%91%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/">【网络民议】柳城警方迅速排除暴恐遭质疑</a></strong></h4>
+<h4><strong><a href="http://china.caixin.com/2015-10-02/100860247.html">财新网｜官媒称柳城县连环爆炸案告破 嫌犯现场身亡</a></strong></h4>
+<p>新华社10月2日消息，记者从广西柳州公安机关获悉，经缜密侦查，9月30日发生在广西柳城县的一起多点爆炸案，已成功侦破。</p>
+<p>警方经现场勘查、调查访问以及相关视频和痕迹检验，获取了相关证据，形成了完整的证据链，认定爆炸案系广西柳城县大埔镇33岁男子韦银勇所为。警方经DNA鉴定，确认嫌疑人韦银勇在案发现场被炸身亡。</p>
+<p>初步查明，犯罪嫌疑人韦银勇自制定时爆炸装置，通过自己投放和谎称寄送包裹雇人运送的方式，利用拆包爆炸和定时引爆两种手段先后在多处制造爆炸，致10人死亡、51人不同程度受伤。</p>
+<p>另据初步查明，犯罪嫌疑人韦银勇因采石生产与附近村民、相关单位产生矛盾而制造这起案件。</p>
+<p>案件发生后，柳州市和当地党委、政府立即组织公安、消防、卫生等部门赶赴现场开展处置工作。公安部、广西壮族自治区公安厅与当地公安机关迅速成立联合专案组，全力开展案件侦破和善后处置工作。目前，伤员已得到有效救治，善后工作正在有序展开。</p>
+</blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@三个火烫手：不得不佩服当地警方的睿智，不但在爆炸发生一个小时内确定为刑事案件还确定了嫌疑人，不但把事情确定而且还发现嫌疑人已经死亡。通过死亡准确推断了犯罪动机。在国外嫌疑人一死线索就断了，在国内人一死案子就破了。我想这就是国外警方与国内先进的刑侦手段差距吧</p>
+<p><a href="http://weibo.com/3917602189" target="_blank">一块去骑行</a>： 一到这种歌功颂德的时候各种单位部门一个不落的全部体现在新闻里，生怕不知道你们为了这个操碎了心。然而一到出事需要担责任的时候往往只有四个字:有关部 门。我想知道1、嫌犯到底因何原因和附近村民、相关单位产生矛盾？2、相关单位到底是哪些单位？3、最后一段是TM是废话！<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
+<p><a href="http://weibo.com/sweetman945" target="_blank">白兔老爸</a>：成功告破!不错，可以开庆功表彰大会了。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p><a href="http://weibo.com/5693208149" target="_blank">总说老的小姑娘</a>：这一次招真是高明，死无对证，你们说什么就是什么了<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"></p>
+<p><a href="http://weibo.com/1151494057" target="_blank">新有浪</a>：这做新闻的，关键的“对象针对性犯案还是对象随机性发泄”都不知要表述一下啊<img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"></p>
+<p>@夜行千里路：受害者家属情绪稳定。</p>
+<p><a href="http://weibo.com/2820565537" target="_blank">FFF_JJJ</a>：信了<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>@总说老的小姑娘：这一次招真是高明，死无对证，你们说什么就是什么了</p>
+<p>@姚克玄：又要感动庆功啦！</p>
+<p>@大叔-爱吐槽：之前说抓获了嫌疑人，原来抓获的是尸体。还有这是史上最强采石工吗？</p>
+<p>@taorock二号：没有最后一段你们丫是不是都不会写新闻了，艹</p>
+<p>@枸杞子红领巾：之前怀疑医患纠纷，，现在又是采石场纠纷！有些真相真不知道信不信</p>
+<p>@饶生丶：担责任的时候只有有关部门，表彰了就啥狗屁机构都上榜了</p>
+<p>@杨黛丽：被炸死的遇难者有叫“韦银勇”的，这个我信…………………………………………………………………………………………</p>
+<p>@馍馍牛：又是自己把自己炸死了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2013/06/womenzaicheshang.jpg" alt="" width="400" height="598"><br><em>（“其实 我们都在车上” by 巴丢草）</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9F%B3%E5%9F%8E%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E6%A1%88%E4%BC%9A%E6%88%90%E4%B8%BA%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%86%85%E9%83%A8%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">人民内部矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8D%81%E4%B8%80%E6%92%B0%E6%96%87%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%94%BF%E6%9D%83%E7%9A%84%E7%94%9F/" target="cdt-mirror">BBC｜任志强“十一”撰文：这是国家还是政权的生日</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151002081013_renzhiqiang_weibo_976x549_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151002081013_renzhiqiang_weibo_976x549_bbcchinese_nocredit.jpg" alt="151002081013_renzhiqiang_weibo_976x549_bbcchinese_nocredit" width="575" height="323"></a><p>这条微博的原文目前在新浪微博平台上已被删除，仅能查阅到网友转发任志强微博时的评论。BBC中文网记者在自由微博上找到了原文。</p></div>
+<p>在新浪微博拥有超过3000万粉丝的前华远地产董事长任志强在中国国庆节期间通过微博发文，讨论十月一日应该是新国家建立的纪念日还是新政权建立的纪念日。</p>
+<p>这条微博引来众多网友热议，但原文目前在新浪微博平台上已被删除，仅能查阅到网友转发任志强微博时的评论。BBC中文网记者亦在“自由微博”上找到了原文。</p>
+<p>许多网友在微信平台上也在传播这篇文章，但是记者查阅时发现文章也已经被删除。</p>
+<p>在这篇名为《新国家还是新政权》的文章中，任志强提出疑问：这一天（1949年10月1日）向全世界宣告的是一个新的国家出现了，还是一个代表着原来国家的 新政权成立了？ 他在文章中称，“从中国传统文化的角度和从国际法的角度看，中国还是原来那个中国……只是一个以国民党为核心的代表中国国家权力的中华民国政府所拥有的实际控制的地区越来越少，一个以共产党为核心的代表中国广大人民利益的中华人民共和国政府控制了中国大陆的主要地区，向世界宣告将替代中华民国政府管理中国，并行使国家主权”。</p>
+<p>文章进而提醒，直到今天生活在中国大陆中的许多人仍在错误的以为今天是一个新的国家的诞生。以为祖国在过66岁的生 日。中国这个古老的国家已经有数千年的历史。每个朝代所发生的变化都是这个国家中的统治者，或称代表国家主权地位的政府的变更。而不是国家的改变。因此， “这个节日不是新的国家产生的节日，而是一个新的政府产生的节日”。</p>
+<p>“毛泽东十月一日在天安门城楼上宣布的也是‘中央人民政府成立了’。”任志强强调。</p>
+<h2>网友评论</h2>
+<p>针对这篇文章提出的观点，网友“苏勒贝勒爷”评论说，新中国是中华人民共和国，这区别于旧中国的中华民国。这是新旧更替的称谓。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151002025506_china_n-day_nanjing_rd_1_976x549_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151002025506_china_n-day_nanjing_rd_1_976x549_xinhua_nocredit.jpg" alt="151002025506_china_n-day_nanjing_rd_1_976x549_xinhua_nocredit" width="575" height="323"></a><p>国庆节期间的上海南京路。</p></div>
+<figure></figure><figure></figure><p>网友“edwards_l2”表示，国家是铁打的营盘，执政党是流水的兵，这是常识。</p>
+<p>网友“智慧加力量叫话语权”表示认同：说得特别好，一针见血指出，爱国和爱党是两回事。</p>
+<p>网友“自由的小鱼儿2010”则说，都是明白人，但哪个肯这样承认！</p>
+<p>在此之前，任志强今年端午节发表的名为《何为国？何为爱国？》一文也引起热议。在这篇文章里任志强表示，“我们爱这个国家。但不等于一定要爱这个国家现行的制度和法律！”文章引起了社交网络上关于国家、政府、政权、政党能否划等号的讨论。</p>
+<p>（撰稿：成路 责编：萧尔）</p>
+<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8D%81%E4%B8%80%E6%92%B0%E6%96%87%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%94%BF%E6%9D%83%E7%9A%84%E7%94%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%AD%A6%E6%9C%AF%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BE%90%E5%B0%8F%E5%B9%B3%EF%BC%9A%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81/" target="cdt-mirror">学术中国｜徐小平：北大清华从来都不是世界一流</a>
+</h2>
+<p><p>说什么北大“至少在中国是一流”？这个提法，其实道出了北大今日在世界上的位置：和世界优秀大学之林相比，北大清华还不是世界一流大学！不是世界一流，只是中国一流，作为优秀大学，显然还不算入流。</p>
+<p>中国足球国家队，毫无疑问也是中国一流。但显然，他们还要努力洗脚、提高球艺、冲出亚洲、走向世界。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8C%97%E5%A4%A7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8C%97%E5%A4%A7.jpg" alt="北大" width="560" height="260"></a></p>
+<p>北大清华，是中国大学的国家队。<strong>中国大学国家队，难道不应该在亚洲、欧洲、在北美，也跻身一流吗？</strong>“中国一流”，不过是不敢承认自己在世界上属于“二流”的一个婉语。</p>
+<p>有一个事实我们不能忘记：中华民族占全人类的四分之一。这个事实我们似乎不再夸耀，因为这实际上是一件令人尴尬的事情——因为，作为人类四分之一的中华民族，近一二百年来，我们在人口比例上虽然对人类贡献越来越大，可我们贡献给世界的文学、艺术、音乐、影视、科学发现、技术专利、自然探索、工业设计、思想创新、社会发展……等等所有文明的种种方面，其比例，比起我们从国外拿来的东西，显然远远不成比例！</p>
+<p>来而不往非礼也，来往不等礼亦非。在与世界现代文明的融合和交流上，我们是如此非礼……</p>
+<p>往来不等，因为我们落后，在各种落后之中，教育的落后，是所有落后之母；教育的复兴，是民族复兴之父——先决条件之谓也。中国是一个发展中国家，北大清华，也就是一个发展中学校，而中国教育，更是一个发展中教育。只有这样的自我认知，北大清华以及整体中国教育，才能有紧迫感和危机感，才能有改革的动力、开放的意志、以及赶上和超越世界一流教育的雄心！</p>
+<p>北大清华承担着一个无可推卸的历史责任——这就是率领中国所有大学，和世界一流大学竞争、攀比、追赶、超越！只有这样，占人类四分之一的中华民族，才能在科学、技术、文化、艺术、思想、政治等各个方面对人类有所贡献，才能在赢得全球工厂的美名（？）之后，成为世界办公室、世界设计室、世界研究室、以及人类灵感的策源地、人类智慧的苹果园、以及人类激情的火焰山……</p>
+<p>中国人失去自信心了吗？中国人从来没有失去自信心。薛涌、阿忆、新浪众博友、以及我老人家等这些中国人，都没有失去自信心，我们都在信心百倍地谈着：北大清华属几流，昂首阔步往前走。</p>
+<p><strong>但是，让我们低头想想：我们活在一个什么时代？北大清华活在哪一个时代？</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%85%E5%8D%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%85%E5%8D%8E.jpg" alt="清华" width="500" height=""></a></strong></p>
+<p>这是环球化时代，这是一个一国的政治经济社会事件，会在其他国家和地区产生连锁反应的时代；这是一个就连酸雨、海啸、萨斯、禽流感、沙尘暴、厄尔尼诺纷纷环球化的时代。在这个时代，我们对北大清华的评判标准，只有一个标准，环球化标准；只有一个坐标，环球化坐标；只有一个方法——把它们拉到世界教育舞台上去溜一溜、瞧一瞧、展开竞争与比较、促进交流与互惠，从而迅速加快两所最高学府、以及所有中国大学的改革与开放进程，提升与更新步伐！</p>
+<p>横看成林侧成峰，东边下雨西边红。站在全球角度看北大清华，它们还不是一流大学。它们之所以被认为是“一流大学”，过去，是因为中国反正关上了国门，老子天下第一，夜郎大于汉朝；今天，只是我们思维深处还把中国当作世界的中心，还在习惯以一种天真无邪的心态，为我们民族高校这对落后于时代发展的绝代双骄而沾沾自喜。</p>
+<p>这使我想起了一个民谣：<strong>我们刚吃上肉，你们又减肥了；我们刚娶上媳妇，你们又离婚了；</strong>当我们刚住进瓦房，你们又住别墅了；我们刚用上人体炸弹，你们又用上巡航导弹了；我们刚刚庆祝了北大清华百年校庆，剑桥又庆祝它800岁诞辰、哈佛大学又在为它的生日蛋糕插上第370支蜡烛了；我们刚刚誓言未来二三十年培养出一个诺贝尔奖得主，哥伦比亚大学已经毕业出了三四十诺贝尔校友了……</p>
+<p>无知者无畏，无知者无罪。但知识分子，必须要有清醒的认识。我这里，只是想提醒北大清华以及中国所有的教育同行，在这个时代，沾沾自喜于“中国一流”，不仅没有任何好处，事实上是一种对社会发展有害的思维方式。如果没有环球化，如果没有中外交流，你可以说中国的一切都是世界“最好”的。但可惜，这个世界最好，在更好的世界面前，几乎碰到了要被开除球籍的地步，这才有了邓小平发动的改革开放，振兴了中国经济、拯救了中国。</p>
+<p>经济落后，要被开除球籍。教育落后，难道我们就没有再次被开除球籍的危机了吗？</p>
+<p>现在，深入改革开放的压力终于到了教育领域了。教育牵涉到非常重大的政治、思想、道德、价值观、人格发展等最敏感的话题。如何找到改革开放的平衡点，找到教育革新的突破口，是摆在我们面前的一个重大挑战！</p>
+<p>中国人也许并没有失去自信心，但我们似乎已经失去了部分羞耻心。否则，我们怎么可以拿北大清华“至少”在中国还是一流，来自我安慰呢……？</p>
+<p>啊，北大清华，什么时候，你才能理直气壮地说：我们是世界一流，因为我们是中国一流。我们是中国一流，所以我们也是世界一流。那个时候，也就是中华民族伟大复兴的辉煌时代、也就是我们为世界文明贡献了自己应有份额的自豪岁月。</p>
+<p><strong>教育兴则民族兴，教育衰则民族衰。</strong>北大清华，是肩负着中华民族振兴重任的北大清华。如果北大清华、以及我们整体的高等教育、中等教育、小学教育、幼儿教育不改革、不发展、不与时俱进、不追赶世界一流，中华民族就永远不能成为世界一流！</p>
+<p>呜呼，何时北大清华突兀成一（流）族，此生不去港大、哥大、耶大、哈大、剑大、牛大死亦足！</p>
+<p>摘自《美国留学的价值与策略》</p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%AD%A6%E6%9C%AF%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BE%90%E5%B0%8F%E5%B9%B3%EF%BC%9A%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">北京大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2/?category=18271" rel="tag">大学教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/" target="cdt-mirror">亚洲周刊 | 一个妻子的这一年</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%A6%BB%E5%AD%90.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%A6%BB%E5%AD%90.jpg" alt="浦志强妻子" width="450" height="592"></a></p>
@@ -595,135 +726,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%AF%B9%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%9A%84%E6%B8%97%E9%80%8F/" target="cdt-mirror">美国之音｜中共将加强对非政府组织的渗透</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/06/500x281x171744xsfzosuiddus4ol7.jpg.pagespeed.ic.3nzzAhmV1u.jpg" alt="米共" width="500" height="281"><br><em>（图片来自北京社会领域党建网）</em></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%A5%E5%90%8E%E5%8F%AA%E6%9C%89%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86%E7%81%8C%E9%A1%B6%E5%BC%80%E5%85%89%E8%BF%87%E7%9A%84%E7%B1%B3%E6%89%8D/">【网络民议】以后只有宇宙真理灌顶开光过的米才可以卖</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E7%B1%B3%E2%80%A2%E5%85%B1/">【麻辣总局】米•共</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%8A%E8%BF%87%E5%A4%A7%E5%AD%A6%E7%9A%84%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%EF%BC%8C%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E8%83%BD/">【网络民议】上过大学的人都知道，什么样的人能入党</a></li>
-</ul></blockquote>
-<p>华盛顿—</p>
-<p>中国官方星期二的消息说，中共中央组织部通过税收补贴等其他财政优惠政策“鼓励”中国的非政府组织、工会以及基金会加强党的建设，扩大党员在这些团体的存在。一些非政府组织团体对此表示反对。</p>
-<p>中共中央办公厅最近印发了《关于加强社会组织党的建设工作的意见》（试行）并发出通知，要求各地区各部门结合实际认真贯彻执行。新华社援引中组部负责人的话说，加强在社会团体的党的建设作用，目的是“引领社会组织正确发展方向，保证党的路线方针政策在社会组织全面贯彻落实。”</p>
-<p>根据这个意见，非政府组织，工会以及基金会有超过三个党员的应该建立党支部，社区也应该建立党支部并组织活动。这些党支部应该“动员和鼓励普通民众抵制负面影响和非法活动”。</p>
-<p>这份意见还表示，如果这些社会团体做出积极的响应，将会获得税收补贴和其他财政优惠政策。</p>
-<p>但是，一些非政府组织的人对此表示不赞成。 香港《南华早报》援引广东番禺打工者服务部负责人曾飞洋的话说，“我们是社会服务组织，我们不希望，也不会被政治化，保持独立对我们很重要，这样我们可以提供社会服务而不受政治议程的影响。”</p>
-<p>中国香港商会–广东名誉会长林卫智也对《南华早报》表示，他们的会员的工会自1993年以来都没有接受过任何政治指导意见。</p>
-<p>他说：“我们的董事会的高级执行官很多来自世界五百强的企业，他们对在工会建立共产党支部不会有兴趣。”</p>
-<p>中共先后在1998年和2000年共同发布加强在社会团体中的党的建设的意见。但是，这次针对的范围有所扩大。以前主要是针对社会团体，不包括民办 非企业单位和基金会。此次的文件则规定，除在民政部门注册的社会团体、民办非企业单位和基金会之外，还包括社会中介组织和城乡社区社会组织。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%AF%B9%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E7%9A%84%E6%B8%97%E9%80%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%94%AF%E9%83%A8/?category=18271" rel="tag">党支部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87%E9%83%A8/?category=18271" rel="tag">组织部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E6%88%98%E9%83%A8/?category=18271" rel="tag">统战部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B4%87%E5%B0%9A%E7%BE%8E%E5%BC%8F%E6%96%87%E5%8C%96-%E5%8D%B4%E6%80%80%E6%9C%89%E6%94%BF%E6%B2%BB%E6%95%8C/" target="cdt-mirror">纽约时报 | 中国年轻人崇尚美式文化 却怀有政治敌意</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/29China-web-articleLarge-v4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/29China-web-articleLarge-v4.jpg" alt="Joe Chen是一位生活在美国的中国人，上周在西雅图，他手持中国国旗等待迎接到访的习近平。" width="600" height="400"></a><p>Joe Chen是一位生活在美国的中国人，上周在西雅图，他手持中国国旗等待迎接到访的习近平。</p></div>
-<p>身穿印有超大美元钞票的帽衫的赵亦祥（音译）靠销售美国牌子的滑板谋生，他羡慕美国的许多方面，包括刺耳的说唱音乐和自由表达的传统。</p>
-<p>“美国是一个充满言论自由的国家，”他在自己位于北京市中心的店里说。“你可以说你想说的东西，去你想去的地方，选择你自己的生活方式。我很羡慕这些。但在领土和军事问题，我们有很多分歧。”</p>
-<p>“我觉得，我这代人中有很多人与我的想法一样，”26岁的赵先生说。“我们真的很喜欢美国的文化，但我们也希望有一个不对外国示弱的政府。”</p>
-<p>随着中国国家主席<a href="http://cn.nytimes.com/china/20150928/c28xi/" target="_blank" rel="nofollow">习近平</a>对美国的访问以周一在联合国发表讲演而告终，像赵先生这样的中国年轻人给美国的政策制定者们提出一个两难的问题，政策制定者们希望能通过美国巨大的文化影响力来打头阵，让这里的舆论即使不同情美国，也更愿意接受美国。</p>
-<p>在某些方面，美国文化对中国的影响程度比以往任何时候都深。尽管存在审查制度、对进口文化的限制，以及互联网上的重重障碍，但美国的电视、电影、音乐和技术已被人们广泛且如饥似渴地享用。习近平在访美期间，也<a href="http://cn.nytimes.com/china/20150924/c24sino-xijinping/" target="_blank" rel="nofollow">对这种影响有所表示</a>，他提到了美国作家、流行电视连续剧《纸牌屋》，以及几部好莱坞影片，他还和<a href="http://cn.nytimes.com/china/20150924/c24xijinping/" target="_blank" rel="nofollow">来自硅谷的著名企业领导人</a>见了面。</p>
-<p>然而，研究和调查显示，包括青年在内的许多中国人，对美国仍持谨慎态度，对华盛顿的外交意图持敌对情绪，尤其是当中国的领土主张和日益增长的影响力受到威胁时。中国在这方面并不特别，但其日益强大的地位，使这种文化上受吸引、政治上不信任的对比尤为鲜明。</p>
-<p>“即使你拥有文化软实力和文化吸引力，但这并不意味着人们认同和支持你的政策，”北京外国语大学教授谢涛说，他从事公众舆论和中美关系方面的研究。</p>
-<p>他说，在他的学生中，“你可以感觉到本科生对美国文化有认同，他们喜欢美国的高等教育和篮球等东西。但是，当你与他们讨论美国政策时，这些人中的许多人持强烈的批评态度。”</p>
-<p>这里的人所看到的、对习近平访美的铺天盖地的新闻报道，都是有关这位领导人作为强大、稳健的政治家的图片和描述，他赢得了<a title="Link: http://cn.nytimes.com/world/20150926/cc26statedinner/" href="http://cn.nytimes.com/world/20150926/cc26statedinner/" target="_blank" rel="nofollow">奥巴马总统</a>、美国技术高管，以及<a href="http://news.xinhuanet.com/english/2015-09/22/c_134649129.htm" target="_blank" rel="nofollow">普通老百姓</a>的尊敬。</p>
-<p>谢涛说，“中国领导人对美国的国事访问，首先是对国内观众的表演。这次国事访问受到奥巴马总统的接待，以及美国媒体的高度关注，都表明习近平拥有国际地位，值得和应该受到尊重。”</p>
-<p>对习近平访美的广告宣传有的走到了独出心裁的极端。官方新闻媒体把这次访问<a href="http://news.cntv.cn/2015/09/23/ARTI1442995725404694.shtml" target="_blank" rel="nofollow">比作邓小平1979年访美</a>，那次访问帮助中美两国重新建立了外交关系。一段在线视频还显示了受招而来的外国留学生动感情地对习近平作出好评。英文报纸<a href="http://usa.chinadaily.com.cn/us/2015-09/20/content_21930373.htm" target="_blank" rel="nofollow">《中国日报》称</a>，调查发现，有近80％的美国青少年对习近平的来访表示了兴趣。</p>
-<p>这让有些中国人吃不消，尽管他们平时习惯了这种高调的宣传。</p>
-<p>“对美国的国事访问是件大事，”在北京一所大学读英文的学生玛丽·李(Mary Li)说，她为了避免麻烦不愿用自己的中国名字。“但我们知道，美国并不围着中国转。教皇也访美了，不是吗？”</p>
-<p>但民意调查显示，许多中国人支持政府在国际关系问题上的观点，尽管他们羡慕美国生活的其他方面。皮尤研究中心(Pew Research Center)等机构的研究表明，对美国企业、甚至美国的一些价值观所表示的钦佩，往往与对美国政府的意图、尤其是其在海外的意图的戒心并存（该<a href="http://www.pewresearch.org/fact-tank/2015/09/22/6-facts-about-how-americans-and-chinese-see-each-other/" target="_blank" rel="nofollow">调查显示</a>，许多美国人对中国政府的意图也保持戒心）。</p>
-<p>基于<a title="Link: http://www.pewglobal.org/files/2015/06/Balance-of-Power-Report-FINAL-June-23-20151.pdf" href="http://www.pewglobal.org/files/2015/06/Balance-of-Power-Report-FINAL-June-23-20151.pdf" target="_blank" rel="nofollow">今年调查的最新结果</a>显示，中国受访者中有67％的人说，中国即将取代或已经取代美国，成为世界头号超级大国（在西方国家，许多受访者对此表示同意）。54％的多数中国人说，美国正在寻求阻止中国变得与自己一样强大。</p>
-<p>  “如果你是老大，你肯定会试图把我们压在下面，”20多岁的软件程序员董建言（音）说。“但是涉及到我们的利益时，我们需要强硬。比如，在领土问题上，我们需要非常坚定。”</p>
-<p>美国娱乐的流行也没有改变对美国意图的持续不信任。上个月，《生活大爆炸》(The Big Bang Theory)第八季在搜狐上吸引了<a title="Link: http://tv.sohu.com/rank/usa_tv.shtml" href="http://tv.sohu.com/rank/usa_tv.shtml" target="_blank">超过4500万人观看</a>。美国的动作影片《速度与激情7》(Furious 7)目前是中国票房今年最受欢迎的电影，<a title="Link: http://www.douban.com/doulist/36742433/" href="http://www.douban.com/doulist/36742433/" target="_blank">据政府估计</a>，该片险胜中国动画历险片《捉妖记》。</p>
-<p>这样的接触可能会带来一些影响，至少会影响年轻人。根据皮尤的调查，18–29岁的中国受访者中，59%的人对美国有好感，相比之下，30-49岁的受访者中，有45%的人对美国有好感，在50及50岁以上的受访者中这个数字仅为29%。</p>
-<p>“现在我们经济上太过相互依赖，因此不会发生重大冲突，但是政治紧张是无法避免的，”31岁的办公室经理苏珊·邓(Susan Deng)说，她今年第一次去了美国。她要求使用英文名以便能更加坦率地谈论政治。</p>
-<p>“我非常赞同美国的价值观——开放以及个人主义，不像我们的集体主义，”她说道。“但是在地缘政治上，每个国家都会有自己的立场，那是不会变的。”</p>
-<p>奥克拉荷马大学的葛小伟(Peter Hays Gries)教授研究中美关系的政治心理，他说通过<a href="http://carnegieendowment.org/2015/09/23/perception-and-misperception-in-american-and-chinese-views-of-other/ii18" target="_blank">更仔细分析</a>先前的民意调查可以看出，很多中国人“通过中国的教育体系进行社会化后，对世界是不信任的”。</p>
-<p>他说中国的年轻人“很容易接受这样的观点，即西方国家并不真的在意人权和民主，只是单纯利用这些问题来进一步侮辱及羞辱中国”。</p>
-<p>现年28岁的李永宏（音）住在北京，他说他对美国的观点不是灌输的结果。</p>
-<p>“他们肯定在试图遏制我们——大国之间就是这样，”他说。他还说他对美国电影和智能手机的喜爱不会冲淡他的观点。</p>
-<p>“其实，这个iPhone是中国生产的，”他说着从口袋中掏出手机。“在大问题上，中国通常都是对的。这是事实。”</p>
-<div>
-<p>储百亮(Chris Buckley)是《纽约时报》驻京记者。</p>
-<p>Mia Li有研究贡献。</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B4%87%E5%B0%9A%E7%BE%8E%E5%BC%8F%E6%96%87%E5%8C%96-%E5%8D%B4%E6%80%80%E6%9C%89%E6%94%BF%E6%B2%BB%E6%95%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">地缘政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%8C%E6%84%8F/?category=18271" rel="tag">政治敌意</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%BC%8F%E6%96%87%E5%8C%96/?category=18271" rel="tag">美式文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">访美</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E6%9D%8E%E5%98%89%E8%AF%9A%E5%8F%8D%E9%A9%B3%E5%86%85%E5%AA%92%E6%8C%87%E8%B4%A3%EF%BC%9A%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97-%E6%B7%B1%E6%84%9F%E9%81%97/" target="cdt-mirror">苹果日报 | 李嘉诚反驳内媒指责：不寒而栗 深感遗憾</a>
-</h2>
-<p><p>近期不少内地传媒评论，长和主席李嘉诚从内地撤资，李嘉诚今日高调回应相关言论，直指「文章的文理扭曲，语调令人不寒而栗，深感遗憾。」</p>
-<p><strong>以下为文章全文：</strong></p>
-<p>李嘉诚先生就近日一些人对他和集团毫无根据的指责、似是而非的观点作出回应：</p>
-<p>「最近一些人对我本人和集团作出毫无根据的指责，惹来网民及传媒的关注。在此，我多谢各位的关心，并藉此机会作出回应。首先感谢国内、香港以及国外的朋友对我的肯定和信任，我明白言论自由是一把两刃刀，因此一篇似是而非的文章，也可引发热烈讨论，这是可以理解的，但文章的文理扭曲，语调令人不寒而栗，深感遗憾。」</p>
-<p>集团公共事务部归纳了近日传媒的查询，作出以下回应：</p>
-<p>1. 为什麽连日受到抨击也不作回应？</p>
-<p>根据我们的分析，是非浪潮来袭之时，正值习近平主席进行国事访美前夕，我们不想因为李先生的回应，被人借题发挥，引起更广泛的国际讨论。李先生认为，习主席在不同场合多番强调，国家要不断深化改革，坚定不移提高开放型经济水平，我们不应让这些毫无根据的口舌之争成为焦点，喧宾夺主，冲淡习主席的重要讯息，引起商界和投资者不必要的顾虑；李先生认为，没有建设性的语言讨伐，并不符中国政府不遗余力推动经济向前发展的方向和决心。</p>
-<p>今次是李先生首次就事件作出回应，网上一切假李先生之名所流传之文章，均非属实。</p>
-<p>2. 为何频频出售内地房地产，但仍否认撤资？</p>
-<p>过去十年在香港上市的公司，有超过70％（包括国企）的架构，也选择离岸设立公司，目的是为了让企业取得更现代化架构和更高效运作模式；我们做法相同，集团进行重组及於开曼群岛成立公司，而集团在港注册及上市地位不变；李先生个人在重组过程中，并没有减少持股比例，也没有从中套现，所谓「撤资」指控，完全不成立。</p>
-<p>另外，对於所有投资及出售资产所得的回报，是属於公司的，并回到股东手中；一如以往，集团将继续在全球，包括在内地寻找投资机会。过去两年，集团对全球地产业务持审慎态度，加上内地房地产方面，部份城市出现供求失衡风险，故减少买入土地，但集团在内地的发展中及将发展之总楼面面积远高於2000万平方米。</p>
-<p>事实上，集团於内地发展中或将发展的土地，90%是从拍卖而来，而90%以上的物业均在建成後出售(酒店除外)，只有极少部分保留作收租之用，集团从来也在积极等候土地「交吉」，并没有囤地(香港亦如是)。减少房地产的投资比重，不等於不投资内地。</p>
-<p>其次，在零售方面，集团於全球现拥有逾13,000间零售店铺，其中内地由两年前的1300间增加至今天2300间，增幅为77%，扩展步伐迅速。</p>
-<p>国家及领导人强调「腾笼换鸟」，深化改革，优化产业，以创新科技驱动经济增长，我们一直重视全球的优质投资机会和支持人才带来的发展机会，长和系在港口、基建、零售、科技及金融等方面的发展正大举前进。</p>
-<p>习主席最近提倡「一带一路」政策，鼓励企业「走出去」，所以集团投资海外业务，与国家政策并无抵触，而且集团的股东也清楚，海外投资的盈利均属香港上市公司所有，最终通过派息，能令股东受惠。集团以香港为家，於1980年代已开始在国际投资及发展电讯、货柜码头、能源、零售、水厂、电网、地产、火车、飞机租赁等业务，遍及52个国家，这是集团同仁30多年努力经营的成果。</p>
-<p>3. 内地官媒多次作出抨击，李先生与中央关系是否有变？</p>
-<p>李先生对中央坚定不移继续改革开放，致力优化营商环境有信心，并不相信文革式思维复苏；个别人士的言行，不代表国家方向。习主席多次强调中国将继续维持深化改革的坚定承诺，扩大开放；李先生对中国充满信心，对习主席沉稳的领导能力深感佩服。</p>
-<p>4. 部份抨击言论质疑你「不爱国」，有何回应？</p>
-<p>李先生儿时历经战乱，然後目睹国家改革三十多年翻天覆地的变化，国家天天进步，内心触动不已。对於一切是是非非，李先生虽感到痛心，但认为苏轼及白居易说得好：「此心安处是吾家」以及 「我身本无乡，心安是归处」。</p>
-<p>「万变社会，不变承诺」是李嘉诚先生在1980年创立基金会时对自己的格言，他更於2006年宣布基金会是他的第三个儿子，当年已把三分一资产，即超过90亿美元投放於基金会。基金会致力推动奉献文化，至今捐出逾170亿港元，当中87%用於大中华地区，还倾注大量时间、心血，对有利於中华民族的事业，过去、现在、未来，宗旨不渝。</p>
-<p>主要项目包括创办汕头大学，於广东引入以色列理工学院，推动国家高校教育改革，带动国家创新产业发展，为主导未来作好准备；基金会同时重视医疗研究及服务，鼓励探索追求健康的世界，项目包括内地「人间有情」宁养计划，协助全国贫困家庭唇腭裂儿童康复的「重生行动」，以及协助残障人士的「长江新里程」等等。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E6%9D%8E%E5%98%89%E8%AF%9A%E5%8F%8D%E9%A9%B3%E5%86%85%E5%AA%92%E6%8C%87%E8%B4%A3%EF%BC%9A%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97-%E6%B7%B1%E6%84%9F%E9%81%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1/?category=18271" rel="tag">刻板印象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E7%95%8C/?category=18271" rel="tag">商界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%AF%8C%E8%B1%AA/?category=18271" rel="tag">大陆富豪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC/?category=18271" rel="tag">资本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">香港经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E6%97%A0%E8%AE%BA%E6%95%99%E7%A7%91%E4%B9%A6%E8%BF%98%E6%98%AF%E8%80%83%E8%AF%95%EF%BC%8C%E9%83%BD%E5%BA%94%E6%8A%8A%E6%94%BF%E6%B2%BB%E5%AF%BC%E5%90%91/" target="cdt-mirror">人民日报：无论教科书还是考试，都应把政治导向置于首位</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/09/BySFdniCYAAJWHY.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/09/BySFdniCYAAJWHY.jpg" alt="孔子入党" width="525" height="403"></a><br><em>（“孔子入党” by 变态辣椒）</em></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a title="知乎政见专栏｜在美国大学里学「马克思主义原理」，他们是这么教的" href="http://chinadigitaltimes.net/chinese/2015/09/%E7%9F%A5%E4%B9%8E%E6%94%BF%E8%A7%81%E4%B8%93%E6%A0%8F%EF%BD%9C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E9%87%8C%E5%AD%A6%E3%80%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86/">知乎政见专栏｜在美国大学里学「马克思主义原理」，他们是这么教的</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/05/%E3%80%90%E4%B9%A6%E8%AF%84%E3%80%91%E9%99%88%E8%8A%9D%EF%BD%9C%E6%80%8E%E6%A0%B7%E8%AE%BA%E8%AF%81%E6%88%91%E5%85%9A%E6%B0%B8%E8%BF%9C%E6%AD%A3%E7%A1%AE%EF%BC%9A%E4%B8%A4%E7%A7%8D%E5%85%9A%E4%B9%89/">陈芝｜怎样论证我党永远正确：两种党义论与四种党正论</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E7%BE%BD%E6%88%88%EF%BD%9C%E6%A8%8A%E5%BC%93%EF%BC%9A%E8%BE%A9%E8%AF%81%E6%B3%95%E4%B8%8E%E6%94%BE%E5%B1%81/">羽戈｜樊弓：辩证法与放屁</a></li>
-</ul></blockquote>
-<p>最近，在某高校一次考试中有这样一个题目：结合材料分析马克思主义与儒家思想的关系。其考查重点是对马克思主义中国化的认识。题目有现实意义，也有知识含量，<strong>然而评分标准却误将马克思主义与儒家思想简单地平行论述，没有突出马克思主义的指导地位</strong>。这或许是出题人的疏忽，但这种疏忽恰恰反映了社会上有些人包括部分理论工作者<strong>对如何把握马克思主义与儒家思想的关系、如何坚持马克思主义的指导地位还存在模糊甚至错误认识</strong>。这样的问题应引起足够重视。</p>
-<p>在高校考试中，考查学生对马克思主义基本原理和基本立场的掌握情况十分重要。材料分析这种开放性问题，不仅考查学生对知识点的掌握情况，而且考查学生用马克思主义基本原理分析问题、解决问题的能力。但<strong>无论教科书还是考试，都应把政治导向置于首位</strong>，把马克思主义指导思想的地位和基本方法论的价值取向切实体现出来，更好地<strong>培养和武装青年学生</strong>。前述考题评分标准没能体现这一点，就有可能误导学生，使其认为马克思主义与其他一些思想体系的地位是等同的。而这是一种必须加以纠正的误区。</p>
-<p>[…]唯物史观告诉我们，思想意识是一定生产方式和社会存在的产物，而<strong>儒家思想是小农经济生产方式、封建专制社会的产物</strong>。[…]应该清楚，马克思主义中国化不是把马克思主义糅进儒家思想中，而是用马克思主义批判地吸收儒家思想，这里面的主次关系不能颠倒。</p>
-<p>[…]青年学生面临的选择较多，树立正确的世界观、人生观和价值观尤为重要。马克思主义既是科学的世界观，也是正确的方法论，应成为大学生成长的根本引领和素质养成的核心内容。高校思想政治教育是社会主义核心价值观建设的重要阵地，应采取有效措施防止和消除弱化马克思主义指导地位的现象，牢固树立和坚持马克思主义的指导地位。</p>
-<p><em>（作者为南京政治学院上海校区教授）</em></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/zhuxuedong" target="_blank">朱学东</a><i title="微博个人认证 "></i><i></i>：读下来，我所受的唯物史观教育告诉我，这完全是一篇非唯物史观的强词夺理的批判文章<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@烧柴柴柴柴柴：是啊是啊，然而你们的马克思也不是百分百原装货啊</p>
-<p><a href="http://weibo.com/n/%E7%BD%97%E4%BA%9A%E8%92%99?from=feed&loc=at" target="_blank">罗亚蒙</a>: 也可以是“拍马批儒”，<img title="[酷]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]"> //<a href="http://weibo.com/n/%E8%90%A7%E5%90%AB?from=feed&loc=at" target="_blank">@萧含</a>:应该是：扬马批儒。//<a href="http://weibo.com/n/%E7%BD%97%E4%BA%9A%E8%92%99?from=feed&loc=at" target="_blank">@罗亚蒙</a>: 【再来一次“评马批儒”？】<img title="[疑问]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/yw_org.gif" alt="[疑问]"></p>
-<p><a href="http://weibo.com/2202464023" target="_blank">网易玻璃天花</a>：汉奸还是卖国贼的行为？<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@sparkling0902：马克思同意了么</p>
-<p>@和平鸡：难道马克思主义没有糟粕？如果没有是不是违反了辩证法？</p>
-<p>@泉州伍少杰: 现代“儒者”幻想重弹“中学为体，西学为用”的老调就能实现世界大同。奈何 旧时王谢堂前燕，此巢已无产权证。</p>
-<p>@北辰慢慢跑：你国到处输出孔子学院，改个名字叫马克思学院如何？</p>
-<p><a href="http://weibo.com/2979399240" target="_blank">精神漫游者_亦然V</a>：而且我国啥时要变成政教合一的国家了吗？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@封龙君:21世纪的宗教国家你好</p>
-<p>@薛习园地_303：一篇满嘴喷粪的文章，建议作者重新学习一下马克思的成长和资本论。写一篇伦理和论据更加充分，更加具体，更加能让人信服的文章，用真 诚的真正的炎黄子孙的态度发表出来。当我认识到曾经坚信的信仰就是一个弥天大谎的时候，我曾经奔溃。作者你居然能卖着良心写出如此无耻的文章，真佩服你的厚颜无耻！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E6%97%A0%E8%AE%BA%E6%95%99%E7%A7%91%E4%B9%A6%E8%BF%98%E6%98%AF%E8%80%83%E8%AF%95%EF%BC%8C%E9%83%BD%E5%BA%94%E6%8A%8A%E6%94%BF%E6%B2%BB%E5%AF%BC%E5%90%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6/?category=18271" rel="tag">儒家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6%E6%80%9D%E6%83%B3/?category=18271" rel="tag">儒家思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -745,5 +747,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

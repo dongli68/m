@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E5%AA%92%E4%BD%93%EF%BD%9C%E5%90%B3%E5%BC%B7-%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B3%B0%E6%9C%83%E4%B9%8B%E5%BE%8C%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%88%B0%E4%BE%86%E7%9A%84%E6%96%B0%E5%86%B7%E6%88%B0/" target="cdt-mirror">端媒体｜吳強 ：中美峰會之後，可能到來的新冷戰</a>
+</h2>
+<p><p>也許中美關係真的到了一個轉折點了。國家主席習近平在美逗留的整整一周裏，與奧巴馬的接觸僅僅只有一次晚宴和一天的會談。而這場從9.3閱兵就開始鋪陳的中美峰會，最終並沒有取得什麼令人驚艷的成果。雙方的分歧卻在峰會前後、記者會上顯露無疑。這大概是1979年鄧小平訪美以來、歷次中美峰會還從未發生過的情形。</p>
+<p>問題是，這些分歧到底有多嚴重，到底算多大事？是否影響此次習訪美的外交評估？這就要回到中美外交的基本面。</p>
+<p>中美關係，中國歷來的最優先外交</p>
+<p>我們知道，從1949年至今，中美關係的確立歷經前兩代政治領導核心，是毛澤東和鄧小平兩位政治強人分別一手打造。也就是說，毛在晚年通過基辛格和尼克遜訪華打開了中美關係正常化的大門，從冷戰的孤立和文革的混亂中走了出來。</p>
+<p>這是共產陣營自斯大林死後，從1953年東德危機、1956年赫魯曉夫秘密報告和波茨南事件、匈牙利事件、到1968年布拉格之春的連串不穩定事件中，最具內部分裂、打破平衡的一個轉折點。中國今天改革開放的成就均建立在這一政治遺產之上。而鄧小平，不過繼承了毛澤東的路線，包括通過上台伊始的訪美，奠定了中美蜜月關係的基礎，也包括繼續毛的印度支那路線，發動對越戰爭，然後鞏固他的國內權威地位。</p>
+<p>之後歷任官僚出身的領導人，無不把中美關係當作最優先外交，把美國市場和貿易最惠國待遇、以及21世紀的反恐問題當作頭等大事， 以維持內部統治、穩定和發展。無論經歷何種波折、衝突，小如銀河號事件或李文和案、大至六四事件，甚至1999年「5.8」事件和2001年南海撞機，都被積極處理，不影響中美關係的合作主旋律。</p>
+<p>中美峰會2015，卻開了倒車</p>
+<p>但是，習上任三年後的這一次訪美，卻似乎搞砸了。除了既定的氣候議題以及一些技術性合作，幾乎沒有什麼重大分歧得以解決，特別是網絡安全、南海問題和人權問題。</p>
+<p>前者，有習率龐大代表團在西海岸逗留整整三天，竭盡全力拉攏西部新興互聯網資本，卻無法緩和白宮會談後兩國在互聯網安全上的根本分歧；後者，有習和第一夫人親自上陣，分別在紐約聯大和婦女峰會上許諾重資建立南南基金和全球女性教育扶貧基金，但不敵希拉里.克林頓的一句shameless。</p>
+<p>一場準備經年，並有大排場的「9.3閱兵」鋪墊的中美峰會，第一次陷入無戰略共識可確認、戰略合作基礎闕如的境地，而雙方的重大分歧沒有得到任何回緩。這是一個不祥的開端。第一次，中國最高領導人在中美關係上沒有發揮出充分的個人影響力，補救中美關係的裂痕或者促進中美軸心的鞏固，哪怕「江-胡時代」的墨守成規也未做到，而是開上了1971年基辛格訪華以來中美關係的倒車。</p>
+<p>事實上，從習在西雅圖的政策說明會開始，他的外交修辭便奠定了此次峰會的失敗。習以多個否定的句式，表明了否認事實、拒絕承擔責任的態度，對中美在互聯網安全、在南海航行權、在人權問題上的衝突，採取切割和推卸。這是傳統中國官僚處理問題的慣習，居然被不自覺地運用到兩個大國之間核心利益衝突的解決，與太平洋戰爭爆發前日本對待類似問題的處理思維幾乎如出一轍，其潛在危險也應相去不遠。</p>
+<p>結果不出意外，奧巴馬在會後的記者會上對分歧不加掩飾，對習處理分歧的努力也表示了懷疑。如果再聯繫美國政界和媒體的反應，無論事前事後，可以看出，中美間的巨大分歧以及未來的可能衝突已經不可避免。在這個意義上，習近平訪問華盛頓，外交系統卻未能盡全力爭取他在國會發表演講，直接當面對美國的立法者解釋、緩頰，就是一個巨大的失敗。</p>
+<p>而外交系統過分投入到了一個牽制性或象徵性的聯大演講中，而無力創造更好的機會來面對中美真正的外交難題，既顯示了官僚系統的僵化、退縮，也暴露了習氏外交的隨意性，對外交爭端的嚴重性估計不足。<br>
+網絡安全，「新冷戰」的主戰場</p>
+<p>而分歧的核心，一是南海問題，二是網絡安全。前者，無論美國如何重申作為非利害關係國有責任確保航行自由的立場，或者中方繼續否認大規模海島建設的戰略意圖，仍然只是舊地緣政治的繼續，關係石油供應和自由貿易，關係周邊東南亞國家，關係東北亞。在這個太平洋的地中海，匯聚了超敏感的利益復合體，周邊的東南亞國家都是新興民族國家，其超強民族主義意識只比中國強。其劍拔弩張的格局，都讓中美雙方不敢輕舉妄動，反而可能逐漸緩和，尋找磋商解決的途徑。倒是後者，互聯網安全和互聯網自由的問題，超越了傳統地緣政治的範疇，也超越了傳統民族國家的概念，才是一個真正棘手問題，也是中美關係未來最不確定的炸彈。</p>
+<p>換言之，當2008年高加索戰爭爆發，國際社會的一部分聲音，也包括筆者本人，將之稱為新冷戰的開端，並沒有太多附議。人們大多認為那不過是一場過時地區衝突樣式的繼續，俄國人僅憑僥倖得以穿越羅克斯基隧道，避免了悲劇性的全軍覆滅。再到去年的烏克蘭危機和克里米亞衝突，世人彷彿才恍然大悟，終於採取了聯合制裁俄羅斯的手段。 一場伴隨小規模衝突，以意識形態對立為標誌的新冷戰正在拉開序幕。</p>
+<p>尤其當9-3閱兵的天安門城樓上，寥寥無幾的若干地區國家領導人環繞着普京和習近平的時候，新冷戰的國際聯盟才終於浮現上來。此前，中國已經效法俄羅斯開始嚴格控制境外NGO、控制互聯網、壓制公民社會和新聞自由，一個世界性的以互聯網自由為敵、以公民社會為敵的陣營在迅速形成。回溯習上台伊始先後對非洲、對拉美對戰略拉攏，以及「一路一帶」戰略的提出，不難看出輸出「中國模式」威權控制的戰略意圖，而此次習訪美在聯大的發言，便是利用聯合國平台，向願意加入這一陣營的南方國家提供經濟援助。</p>
+<p>互聯網安全，就是在這個背景下，取代了美蘇冷戰期間的「資本主義Vs.社會主義」的意識形態分歧，變成了一個最新的意識形態戰場。其中，既有美國以色列利用計算機病毒攻擊伊朗核工廠，也有美國2003年的大停電——針對那次停電的調查發現，有黑客侵入電力系統，當黑客意識到他們闖下大禍的時候，發出「糟了」的中文信息；也有圍繞互聯網自由和言論自由，中國政府展開的系列「淨網」行動。幾乎所有的對互聯網的輿論管制、對大V的抓捕示眾、對獨立NGO的鎮壓、對「五毛軍團」和「小粉紅」的培養，都被納入最新的《國家安全法》，被所謂「互聯網主權」的範疇所遮蓋了，得以繼續在一個過時的民族國家框架內繼續。</p>
+<p>然而，今天的互聯網已經與電網、物聯網、幾乎一切政治經濟社會生活高度重合，而一個小的局部錯誤就可能引發整個系統的崩塌，如雪崩和地震一般。 一個人的選擇，開關式的變化，就可能引發高頻小規模震盪，最後觸發大規模變革，如2011年的茉莉花運動。正是在這個意義上，互聯網對國家安全和社會革命的雙重意義，自我賦予了它意識形態的神化高度，也自我增強地將自身轉變為意識形態衝突的戰爭手段和戰場，即網絡戰爭，並成為新冷戰的主要形式。這是中美雙方近年來都不遺餘力發展的。<br>
+無人幸免的互聯網極權主義</p>
+<p>那麼，當習奧峰會無力尋求分歧解決之道，便意味着衝突的加劇，只是衝突形式如何展現並不確定。最新的《外交事務》網站發表了一篇文章，披露美國國家安全局的一個巨型計算中心，這個機房本身以及冷卻水所需的泵站或許便是新冷戰的一個具體目標。而美國總統奧巴馬最近已經否決了如果爆發網絡戰，必要時將以核武器來報復己方中心機房被摧毀的建議——一場也許暫時不至於考慮捲入熱核戰爭的靜悄悄的冷戰。而當經濟或其他方面的合作與交流並不足以消弭這一最新也是最深刻的意識形態分歧，如同美國硅谷的互聯網廠商即使進入中國也無助於此，那麼一場以互聯網為意識形態和戰場的冷戰終於不可避免了。</p>
+<p>這是一場超越「傳統石油——碳基政治」為基礎的「生產——消費模式」的舊地緣政治，而是一場圍繞「信息傳遞」的硅基政治和秩序，思想和自由也因此比以往任何時候都顯得更為代價高昂。而對思想自由的控制，毋須核武器或者機關槍，只需要更多的警察強制。這意味着，未來的新冷戰，我們終究必須面對的自由之戰，同時也意味着我們要回到1984的極權狀態。</p>
+<p>在共產主義的互聯網極權控制下，沒有人能夠逃脫。例如，在今年「710」大規模抓捕人權律師行動的同時，美國的Telegram秘密社交媒體服務器，在同一時間遭遇了前所未有的飽和攻擊。一個很可能悲劇的未來已經開始。</p>
+<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E5%AA%92%E4%BD%93%EF%BD%9C%E5%90%B3%E5%BC%B7-%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B3%B0%E6%9C%83%E4%B9%8B%E5%BE%8C%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%88%B0%E4%BE%86%E7%9A%84%E6%96%B0%E5%86%B7%E6%88%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E5%AA%92%E4%BD%93/?category=18271" rel="tag">端媒体</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E3%80%8C%E6%89%93%E8%99%8E%E3%80%8D%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B-%E4%B8%8D%E5%BE%97%E5%B7%B2%E5%90%91%E5%AF%B9%E6%89%8B/" target="cdt-mirror">自由亚洲｜王岐山「打虎」骑虎难下 不得已向对手求和</a>
+</h2>
+<p><p>上个月底，在中共执政党的领导核心中政治权力仅次于习近平的政治局常委王岐山发出了向党内政治对手求和的信号。他借到福建调研的机会，发出了“党内关系要正常化”的呼吁。此言一出，不少中国问题观察人士认为持续两年多的大规模的反腐运动即将告一段落。被称之为“打老虎、拍苍蝇”的反腐运动是习近平上台以来发起的一个标志性运动。这个运动的结束，对于习近平党内的政治权力的运作、对于执政党与中国民众的互动，都有重要意义。</p>
+<p>中国共产党是一个腐败透顶的执政党。这一点，不难从反腐运动中所暴露出来的那些“党内大咖”的所做作为看出端倪。“正国级”的周永康曾经掌控中国的政法系统多年，凡是与他沾边的企业和政府机关，已经没有一块净土；分掌中国军队最高军事和政治长官郭伯雄和徐才厚公开卖官鬻爵，使一个世界最大规模的军队成为国际笑柄；长期在前总书记身边行走、掌控党的大内机关的令计划则肆无忌惮地拉帮结派，将从中央到地方的党政系统闹得乌烟瘴气。</p>
+<p>书记处和办公厅是中共最高领导人的指挥中枢，军队和政法系统是共产党维系统治的工具，它们对于执政党的重要性自不堪言。执政党连这样的地方都放任其长期腐败，这个党纵容腐败的制度性痼疾可见一斑。不仅如此，这些机构的主要负责人都是中国执政党的最高领导人亲自提拔的心腹，而且这些机构的运作也都是在最高领导人的眼皮子底下进行的。由此可以想像，党和国家的最高领导人究竟是如何“选贤任能”，又是怎样行驶领导职权的！</p>
+<p>习近平在上台之初抛出这些腐败透顶的大老虎有双重意义。一来民众对统治阶层的腐败痛恨至极，中国社会几乎到处都可以听到对执政党腐败的怨恨之声。习近平通过打虎，可以在民众中树立正面形像，并借此延长执政党的统治。更重要的是，从党内权力斗争的角度看，习近平通过敲掉那些过气的大老虎，威慑背后的“养虎为患”之人，也就是他的两位前任：江泽民和胡锦涛。因为无论是按照常理还是按照共产党的规矩，江胡二人至少担有对身边亲信失察之责。习近平将这二位放在火上烤，实际上旨在消除他们对政治权力的分享。</p>
+<p>但是习近平也不得不为他的“打虎秀”付出政治代价。因为他打虎的目的是为了控制政治权力，因此他不想也不可能通过法治来清除产生腐败的制度性根源。与此同时，执政党的腐败是全面性的腐败，而无论是为了达到巩固个人权力还是维护执政党的垄断权力的目的，习近平都需要现有的制度和现存的官员继续运作。在这种情况下，他只能采取“选择性打虎”的策略，而正是这一策略，使得他的打虎日益失去民众的支持，同时也日益引起官僚系统的反叛。</p>
+<p>中国的民众正在失去反腐运动开始时的新鲜感。那些对习近平的反腐曾经抱有期待的民众对于身边的腐败分子继续逍遥法外越来越缺乏耐心，对于习近平反对民间自发反腐、反对通过法治进行制度反腐的做法也日益感到不满。而中共的官僚队伍对习近平的选择性反腐也从当初的措手不及变得稳住阵脚。反腐的选择性让他们感到不安，他们不甘心一方面随时有“被选择”成为“老虎”或“苍蝇”的可能，另一方面还要为这个制度卖命。非常明显，他们正在由隐蔽的不满变成公开的牢骚，并且即将从公开的牢骚变成有组织的反叛。</p>
+<p>王岐山关于党内关系正常化的呼吁正是在反腐运动遭受民众和官僚系统的双重不满的形势下发出的。呼吁“正常化”，意味着他承认前一段党内关系的“不正常”。这无异于承认前一段进行的“运动式”和“选择性”的反腐的无法继续下去，也是向政治对手发出的讲和呼吁。他的这个政治姿态一定是得到习近平批准的，但是反腐运动的中途而废在社会上引起的不满将以何种方式影响中国的进程，他的政治对手是否接受这一讲和呼吁，这正是中国政治发展的一个新看点。</p>
+<p>来源：自由亚洲电台 / 胡少江</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E3%80%8C%E6%89%93%E8%99%8E%E3%80%8D%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B-%E4%B8%8D%E5%BE%97%E5%B7%B2%E5%90%91%E5%AF%B9%E6%89%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%80%9D%E6%83%B3%EF%BC%9A%E7%B6%B2%E7%B5%A1%E6%99%82%E4%BB%A3%E9%82%84%E8%AA%AA%E3%80%8C%E7%A5%96%E5%9C%8B%E7%94%9F%E6%97%A5%E3%80%8D%EF%BC%9F/" target="cdt-mirror">东网｜王思想：網絡時代還說「祖國生日」？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/gqj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/gqj.jpg" alt="gqj" width="550" height=""></a><br>
@@ -600,66 +653,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9F%B3%E5%9F%8E%E8%AD%A6%E6%96%B9%E8%BF%85%E9%80%9F%E6%8E%92%E9%99%A4%E6%9A%B4%E6%81%90%E9%81%AD%E8%B4%A8%E7%96%91/" target="cdt-mirror">【网络民议】柳城警方迅速排除暴恐遭质疑</a>
-</h2>
-<p><p>2015年9月30日16时左右，柳州市柳城县开始陆续发生爆炸事件，爆炸是由多个装在快递包裹爆炸装置引发。警方随后称初步认定为刑事案件。当晚，柳城警方通报否认系列爆炸为暴力恐怖袭击，并宣布已锁定犯罪嫌疑人。</p>
-<p>然而，由于目前为止官方对此事件的信息公布极为有限，大量民众显然对柳城警方的说法并不买账。</p>
-<blockquote><p><strong>背景新闻</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B87%E6%AD%BB51%E4%BC%A42%E5%A4%B1%E8%81%94/" rel="bookmark">BBC｜广西柳城县连环爆炸7死51伤2失联</a></p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/60718250jw1ewksyyshqqj20c80gbtb9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/60718250jw1ewksyyshqqj20c80gbtb9.jpg" alt="60718250jw1ewksyyshqqj20c80gbtb9" width="440" height="587"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@傻瓜cino：请问，是怎么排除是恐怖袭击的？</p>
-<p>@GustevoFring：不是暴恐难道是强拆？</p>
-<p>@左撇子大小眼的K：尼玛，真想骂人，17起爆炸案，你跟我说不是暴恐，你不要告诉我们是小朋友放鞭炮不小心炸死人的。</p>
-<p>@Kelvin_wbxu：不是暴恐是啥，间歇性精神病？</p>
-<p><a href="http://weibo.com/1850099895" target="_blank">超级爱吃甜食的土方夫人</a>：百度说，恐怖袭击是极端分子人为制造的针对但不仅限于平民及民用设施的不符合国际道义的攻击方式。<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">那个人就是针对社会平民而且攻击了民用设施，还用了威力不小的炸弹。难道他不算极端分子？请务必查出隐情，什么深仇大恨要这样报复社会。<img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
-<p><a href="http://weibo.com/1000374260" target="_blank">學生陳退之</a>：定义成暴恐，当地领导怕是这国庆过不好了。算是到仕途终点了。他们为了把事情压下来，就会想尽一切办法。这是我们自古以来对待突发事件的处理方式，第一时间封锁消息，公关搞起。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@大叔-爱吐槽：名词解释：恐怖袭击是极端分子人为制造的针对但不仅限于平民及民用设施的不符合国际道义的攻击方式。所以这个就是恐怖袭击，不是只有塔利班和东突才叫极端分子</p>
-<p>@滁州永久登陆：排除暴恐，这个说法太奇怪了。</p>
-<p>@法盲小霍：排除你妈的暴恐！炸了你十几个地方你告诉我排除暴恐，那是什么？人为过失犯罪？贵国如何定为恐怖袭击？是不是只有新疆人站出来接下这个屎盆子才算得上“暴力恐怖袭击”？！</p>
-<p>@加肥猫喝豆浆：这还不叫暴恐？连环炸弹袭击 非要新疆人干的才叫暴恐？自欺欺人</p>
-<p>@硬派小生flyme：开特么的什么国际玩笑，扯特么的什么蛋，这都不是恐怖袭击?一切针对无辜平民的残忍虐杀都是恐怖袭击。或许在某些“领导”眼里，经过专业训练，有组织有预谋的攻击才是恐怖袭击!个人的恐怖主义行为就不是恐怖袭击!</p>
-<p>@天然Q：我就是柳州人，一下午就有17处地方爆炸，人心惶惶，非常恐怖，非常恐怖，非常恐怖，重要事情要说三遍！</p>
-<p>@法盲小霍：排除你妈的暴恐！炸了你十几个地方你告诉我排除暴恐，那是什么？人为过失犯罪？贵国如何定为恐怖袭击？是不是只有新疆人站出来接下这个屎盆子才算得上“暴力恐怖袭击”？！</p>
-<p>@于胥：房都炸塌一半，这什么炸弹</p>
-<p><strong>@信华叉烧包：我理解暴恐是有特定的含义和概念，不过此时强调这一点，与宣称“受害者情绪稳定”效果是一样的。</strong></p>
-<p>@天高云淡189：2个小时，1个嫌疑人，17处爆炸点。这个嫌疑人估计是超人。</p>
-<p>@白伟80：知道嫌疑人为什么不是恐怖分子吗？因为 因为…………我也不知道</p>
-<p>@亚当上了夏娃：党说不是就不是！</p>
-<p>@ucry：暴恐的标准是什么？什么叫暴恐？怎么样才算暴恐？ 那请问“一个人”接连操纵17处地方发生爆炸 这种有预谋的针对平民的袭击叫什么？？？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%9F%B3%E5%9F%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E6%9F%B3%E5%9F%8E.png" alt="柳城" width="525" height="1642"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9F%B3%E5%9F%8E%E8%AD%A6%E6%96%B9%E8%BF%85%E9%80%9F%E6%8E%92%E9%99%A4%E6%9A%B4%E6%81%90%E9%81%AD%E8%B4%A8%E7%96%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%8E%AF%E7%90%83%E5%91%8A%E8%AF%89%E6%88%91%E4%BB%AC%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%9B%BD%E9%99%85%E4%B8%8A%E6%98%AF%E9%9D%A0/" target="cdt-mirror">【河蟹档案】环球告诉我们原来中国在国际上是靠钱混的</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%98%95%E9%9D%99%E8%87%AA%E7%84%B6%E5%A5%BD">昕静自然好</a>：监狱、镇政府、汽车站……广西柳城连续发生爆炸……//*<a href="https://freeweibo.com/weibo/%40%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB">头条新闻</a>：柳城县公安局通报称，柳城县范围内连续发生爆炸，目前，指挥中心接到报警13起，包括商贸城5栋、柳城监狱、大埔镇政府、世纪联华、柳城汽车站、柳城县中医院、畜牧局宿舍、疾控中心等13处公共场所。<em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2015/09/150930_china_explosions">BBC<em>｜</em>广西柳城县连环爆炸7死51伤2失联</a>》；《<a href="http://news.ifeng.com/a/20150930/44770902_0.shtml">凤凰<em>｜</em>广西警方已确定柳城县爆炸案犯罪嫌疑人</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33343.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33343.jpg" alt="333" width="385" height="685"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33344.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33344.jpg" alt="333" width="374" height="625"></a><br><a href="https://freeweibo.com/weibo/3892862758388414" target="/weibo/389">2015年09月30日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E5%85%8B%E6%88%90">周克成</a>：在联大，习近平一句话免除了许多国家的债务，彭丽媛发言说让所有的孩子都接受教育是她的梦想。希望习近平在国内也说一句话，免除那些没有交上社会抚养费家庭的“债务”，这样一千三百万没有户口的孩子就可以上学了，彭丽媛的愿望就实现了。<em>相关阅读｜《<a href="http://www.baike.com/wiki/%E7%A4%BE%E4%BC%9A%E6%8A%9A%E5%85%BB%E8%B4%B9">互动百科<em>｜</em>社会抚养费</a>》；《<a href="http://news.sina.com.cn/c/z/xgcshfyf/">新浪<em>｜</em>神秘的“社会抚养费”</a>》</em><br><a href="https://freeweibo.com/weibo/3891960987735965" target="/weibo/389">2015年09月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E4%BA%AC%E6%9D%A8%E5%8D%9A">北京杨博</a>：【当代恶政三招】内政三招：维稳、独裁、搞特权！经济三招：卖地、印钞、挖资源！外交三招：抗议、装孙、猛砸钱！军队三招：吹牛、叠被、文工团！教育三招：改革、收费、造脑残！开会三招：举手、拍手、不发言！从政三招：贪污、受贿、养小三！微博三招：删帖、封号、报国安！<br><a href="https://freeweibo.com/weibo/3892150821040779" target="/weibo/389">2015年09月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%9C%89%E8%A5%BF">陈有西</a>：环球告诉我们：1，原来中国这些年在国际上是在混的。2，是靠撒钱才能混的。这倒底是个什么报纸？[白眼]在黑谁呢？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33330.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33330.jpg" alt="333" width="384" height="645"></a><br><a href="https://freeweibo.com/weibo/3892108618662962" target="/weibo/389">2015年09月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E5%A4%96%E4%B9%94%E6%9C%A8">北外乔木</a>：信仰比主义重要。新闻联播的假大空，本国人都不爱听，何况歪果仁？<em><em>相关阅读｜</em>《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%81%94%E5%A4%A7%E6%BC%94%E8%AE%B2%E5%9C%BA%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%AE%98%E5%AA%92%E5%90%B9%E5%98%98%EF%BC%9A%E5%85%A8%E5%9C%BA%E7%83%AD/">苹果日报｜习联大演讲场面冷清 官媒吹嘘：全场热烈掌声</a>》；《<a href="http://www.bbc.com/zhongwen/simp/world/2015/09/150925_pope_nyc_un">BBC<em><em>｜</em></em>教皇联大发表演讲呼吁尊重人类环境权利</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33335.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33335.jpg" alt="333" width="513" height="338"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33336.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33336.jpg" alt="333" width="513" height="341"></a><br><a href="https://freeweibo.com/weibo/3891644061177718" target="/weibo/389">2015年09月27日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%AD%E5%B7%9E%E8%90%A7%E5%B1%B1%E7%8E%8B%E6%B0%B4%E9%87%91">杭州萧山王水金</a>：中国公民，跑到美国，向中国官员信访。<em><em>相关阅读｜《<a href="http://www.rfa.org/cantonese/news/us-protest-09262015090652.html">自由亚洲<em><em>｜</em></em>访民冒死拦截习近平车队</a>》；《<a href="http://chinadigitaltimes.net/space/%E9%A9%AC%E6%B0%B8%E7%94%B0">访民马永田专题</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33337.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33337.jpg" alt="333" width="409" height="561"></a><br><a href="https://freeweibo.com/weibo/3891612847578680" target="/weibo/389">2015年09月27日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E6%9D%8E%E5%9F%8E">周李城</a>：什么人？竟敢在中华人民共和国驻美国大使馆门口张贴“拆”字，请<a href="https://freeweibo.com/weibo/%40%E5%85%AC%E5%AE%89%E9%83%A8%E5%88%91%E4%BE%A6%E5%B1%80">@公安部刑侦局</a> 严查，依法追究有关责任！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33338.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33338.jpg" alt="333" width="385" height="648"></a><br><a href="https://freeweibo.com/weibo/3891380184970841" target="/weibo/389">2015年09月26日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B2%99%E6%BB%A9%E4%BA%94%E6%9C%88%E8%8A%B1">沙滩五月花</a>：非常佩服这样的教师！西安某高校女教师无眠给了罗援将军一闷棍。 现被停课。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E8%82%96%E4%BB%B2%E5%8D%8E%EF%BC%9A%E8%AF%B7%E7%BD%97%E6%8F%B4%E5%B0%86%E5%86%9B%E4%B8%8D%E8%A6%81%E6%81%90%E5%90%93%E5%92%8C%E7%BB%91%E6%9E%B6%E5%85%9A/">博客中国｜肖仲华：请罗援将军不要恐吓和绑架党</a>》；《<a href="http://jinghuasoft.com/smthview.jsp?board=Picture&id=984624">（据说已经 停课）西安某高校女教师vs 罗援（将军）</a>》《<a href="https://www.aboluowang.com/2015/0930/621727.html">微博热传：高校女教师给了罗援一闷棍</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33345.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33345.jpg" alt="333" width="443" height="528"></a><br><a href="https://freeweibo.com/weibo/3892360565698079" target="/weibo/389">2015年09月29日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%BC%E5%85%B0%E5%B1%B1%E7%82%AE">呼兰山炮</a>：尽管Facekook在中国境内仍然被屏蔽，但这并不妨碍习近平拥有自己的一个Facebook主页。请问有司，我想去给总书记点赞，咋办？<em><em>相关阅读｜《<a href="https://www.facebook.com/xiusavisit">习访美FACEBOOK主页</a>》；《<a href="http://money.cnn.com/2015/09/27/technology/china-facebook-xi-jinping-ban/">CNN<em><em>｜</em></em>Beijing uses banned social media to promote Xi’s U.S. visit</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33339.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33339.jpg" alt="333" width="475" height="255"></a><br><a href="https://freeweibo.com/weibo/3891258278090771" target="/weibo/389">2015年09月26日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%91%E7%BB%B4">郑维</a>：希拉里加入敲打中国行列……[挖鼻] <em><em>相关阅读｜《联合早报<em><em>｜</em></em><a href="http://www.zaobao.com.sg/realtime/world/story20150928-531655">习近平联国演讲倡妇权 希拉莉：可耻</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%9B%AE%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%8F%88%E8%A6%81%E8%A2%AB%E4%BB%A3%E8%A1%A8%E4%BA%86/">【网络民议】目测中国妇女又要被代表了</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33333.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33333.jpg" alt="333" width="411" height="368"></a><br><a href="https://freeweibo.com/weibo/3891798382674458" target="/weibo/389">2015年09月27日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%A2%E7%BB%8F%E7%BD%91">财经网</a>：【微博动态】这……请问该班同学，你们真看懂了上级组织的态度了吗[汗] <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97-%E7%8C%AA%E9%98%9F%E5%8F%8B%E8%BF%98%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F/">【立此存照】@共青湖南——猪队友还是高级黑？</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33340.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33340.jpg" alt="333" width="415" height="457"></a><br><a href="https://freeweibo.com/weibo/3891058804726715" target="/weibo/389">2015年09月25日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%8E%E9%A6%A8">与馨</a>：今天的纽约时报和昨天一样，头版依然给了教皇。。。然而被内页惊到了。。。给茅台，加多宝，凯迪生态，保利地产和格力跪了。。。//*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E4%BA%9A%E8%92%99">罗亚蒙</a>：中国企业跑到美国去做广告欢迎中国领导人访问美国？逻辑不通啊？//*<a href="https://freeweibo.com/weibo/%40%E5%87%8C%E5%AE%B6%E9%98%BF%E7%A9%BA%E7%88%B1%E5%90%83%E7%B3%96">@凌家阿空爱吃糖</a>: 我要你知道纽约时报都被我们包了[笑cry]//*<a href="https://freeweibo.com/weibo/%40%E5%BE%8B%E9%9F%AC">@律韬</a>: 有钱任性//<a href="https://freeweibo.com/weibo/%40%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E7%8B%97%E5%89%A9%E5%89%A9">@魔法少女狗剩剩</a>: 有钱太可怕了[笑cry] //<a href="https://freeweibo.com/weibo/%40%E9%98%BF%E5%85%A8%E5%8A%9B%E5%85%94%E5%AD%90">@阿全力兔子</a>:实际追星<br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33342.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33342.jpg" alt="333" width="518" height="387"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33341.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33341.jpg" alt="333" width="521" height="695"></a><br><a href="https://freeweibo.com/weibo/3890764750675531" target="/weibo/389">2015年09月25日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%89%8B%E6%8E%8C%E9%A5%85%E9%A0%AD">手掌饅頭</a>：新封号，世界奶牛！[哈哈][赞]//<a href="https://freeweibo.com/weibo/%40%E7%AB%A5%E4%B9%8B%E4%BC%9F">童之伟</a>：不是说外债不能免，而是说免要有个必要的民主程序和法律手续！上百亿计的美元债权，要放弃不能由个人说了算，也不能由任何没有法定职权的机构说了算。这个国家是大家的，钱是人民血汗，不是一家一姓的私产。驳斥：<a href="http://t.cn/Ry9z2JA" target="_BLANK">http://t.cn/Ry9z2JA</a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33331.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33331.jpg" alt="333" width="365" height="511"></a><br><a href="https://freeweibo.com/weibo/3891994604690069" target="/weibo/389">2015年09月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%93%9D%E9%B2%B8%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0">蓝鲸财经记者工作平台</a>：环球时报总编胡锡进因腐败被处分[疑问]这…… <em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/">【网络民议】共产主义理想没有辜负胡总编</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/33334.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/33334.jpg" alt="3333" width="409" height="2746"></a><br><a href="https://freeweibo.com/weibo/3891659215910324" target="/weibo/389">2015年09月27日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%8E%AF%E7%90%83%E5%91%8A%E8%AF%89%E6%88%91%E4%BB%AC%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%9B%BD%E9%99%85%E4%B8%8A%E6%98%AF%E9%9D%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E5%A5%B6%E7%89%9B/?category=18271" rel="tag">“世界奶牛”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A0%E5%A4%9A%E5%AE%9D/?category=18271" rel="tag">加多宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E6%8B%89%E9%87%8C/?category=18271" rel="tag">希拉里</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF/?category=18271" rel="tag">广西柳城县</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">强拆大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E7%9A%87/?category=18271" rel="tag">教皇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%84%95%E5%90%9B/?category=18271" rel="tag">李焕君</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B7/?category=18271" rel="tag">混</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%8A%9A%E5%85%BB%E8%B4%B9/?category=18271" rel="tag">社会抚养费</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E5%AE%89%E9%AB%98%E6%A0%A1%E5%A5%B3%E6%95%99%E5%B8%88/?category=18271" rel="tag">西安高校女教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8/?category=18271" rel="tag">连环爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%BB%E4%B8%8D%E5%8F%AF/?category=18271" rel="tag">非死不可</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -671,7 +664,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -681,5 +674,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

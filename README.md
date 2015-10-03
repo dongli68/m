@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E5%AA%92%E4%BD%93%EF%BD%9C%E5%90%B3%E5%BC%B7-%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B3%B0%E6%9C%83%E4%B9%8B%E5%BE%8C%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%88%B0%E4%BE%86%E7%9A%84%E6%96%B0%E5%86%B7%E6%88%B0/" target="cdt-mirror">端媒体｜吳強 ：中美峰會之後，可能到來的新冷戰</a>
@@ -53,6 +53,27 @@
 <a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E5%AA%92%E4%BD%93%EF%BD%9C%E5%90%B3%E5%BC%B7-%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B3%B0%E6%9C%83%E4%B9%8B%E5%BE%8C%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%88%B0%E4%BE%86%E7%9A%84%E6%96%B0%E5%86%B7%E6%88%B0/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E5%AA%92%E4%BD%93/?category=18271" rel="tag">端媒体</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E3%80%8C%E6%89%93%E8%99%8E%E3%80%8D%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B-%E4%B8%8D%E5%BE%97%E5%B7%B2%E5%90%91%E5%AF%B9%E6%89%8B/" target="cdt-mirror">自由亚洲｜胡少江：王岐山「打虎」骑虎难下 不得已向对手求和</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E7%8E%8B%E5%B2%90%E5%B1%B1-1024x578.jpg" alt="王岐山" width="549" height="310"><br>
+上个月底，在中共执政党的领导核心中政治权力仅次于习近平的政治局常委王岐山发出了向党内政治对手求和的信号。他借到福建调研的机会，发出了“党内关系要正常化”的呼吁。此言一出，不少中国问题观察人士认为持续两年多的大规模的反腐运动即将告一段落。被称之为“打老虎、拍苍蝇”的反腐运动是习近平上台以来发起的一个标志性运动。这个运动的结束，对于习近平党内的政治权力的运作、对于执政党与中国民众的互动，都有重要意义。</p>
+<p>中国共产党是一个腐败透顶的执政党。这一点，不难从反腐运动中所暴露出来的那些“党内大咖”的所做作为看出端倪。“正国级”的周永康曾经掌控中国的政法系统多年，凡是与他沾边的企业和政府机关，已经没有一块净土；分掌中国军队最高军事和政治长官郭伯雄和徐才厚公开卖官鬻爵，使一个世界最大规模的军队成为国际笑柄；长期在前总书记身边行走、掌控党的大内机关的令计划则肆无忌惮地拉帮结派，将从中央到地方的党政系统闹得乌烟瘴气。</p>
+<p>书记处和办公厅是中共最高领导人的指挥中枢，军队和政法系统是共产党维系统治的工具，它们对于执政党的重要性自不堪言。执政党连这样的地方都放任其长期腐败，这个党纵容腐败的制度性痼疾可见一斑。不仅如此，这些机构的主要负责人都是中国执政党的最高领导人亲自提拔的心腹，而且这些机构的运作也都是在最高领导人的眼皮子底下进行的。由此可以想像，党和国家的最高领导人究竟是如何“选贤任能”，又是怎样行驶领导职权的！</p>
+<p>习近平在上台之初抛出这些腐败透顶的大老虎有双重意义。一来民众对统治阶层的腐败痛恨至极，中国社会几乎到处都可以听到对执政党腐败的怨恨之声。习近平通过打虎，可以在民众中树立正面形像，并借此延长执政党的统治。更重要的是，从党内权力斗争的角度看，习近平通过敲掉那些过气的大老虎，威慑背后的“养虎为患”之人，也就是他的两位前任：江泽民和胡锦涛。因为无论是按照常理还是按照共产党的规矩，江胡二人至少担有对身边亲信失察之责。习近平将这二位放在火上烤，实际上旨在消除他们对政治权力的分享。</p>
+<p>但是习近平也不得不为他的“打虎秀”付出政治代价。因为他打虎的目的是为了控制政治权力，因此他不想也不可能通过法治来清除产生腐败的制度性根源。与此同时，执政党的腐败是全面性的腐败，而无论是为了达到巩固个人权力还是维护执政党的垄断权力的目的，习近平都需要现有的制度和现存的官员继续运作。在这种情况下，他只能采取“选择性打虎”的策略，而正是这一策略，使得他的打虎日益失去民众的支持，同时也日益引起官僚系统的反叛。</p>
+<p>中国的民众正在失去反腐运动开始时的新鲜感。那些对习近平的反腐曾经抱有期待的民众对于身边的腐败分子继续逍遥法外越来越缺乏耐心，对于习近平反对民间自发反腐、反对通过法治进行制度反腐的做法也日益感到不满。而中共的官僚队伍对习近平的选择性反腐也从当初的措手不及变得稳住阵脚。反腐的选择性让他们感到不安，他们不甘心一方面随时有“被选择”成为“老虎”或“苍蝇”的可能，另一方面还要为这个制度卖命。非常明显，他们正在由隐蔽的不满变成公开的牢骚，并且即将从公开的牢骚变成有组织的反叛。</p>
+<p>王岐山关于党内关系正常化的呼吁正是在反腐运动遭受民众和官僚系统的双重不满的形势下发出的。呼吁“正常化”，意味着他承认前一段党内关系的“不正常”。这无异于承认前一段进行的“运动式”和“选择性”的反腐的无法继续下去，也是向政治对手发出的讲和呼吁。他的这个政治姿态一定是得到习近平批准的，但是反腐运动的中途而废在社会上引起的不满将以何种方式影响中国的进程，他的政治对手是否接受这一讲和呼吁，这正是中国政治发展的一个新看点。</p>
+<p>来源：自由亚洲电台 / 胡少江</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E3%80%8C%E6%89%93%E8%99%8E%E3%80%8D%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B-%E4%B8%8D%E5%BE%97%E5%B7%B2%E5%90%91%E5%AF%B9%E6%89%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2小时前</small>
@@ -637,22 +658,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%8F%91%E7%94%9F%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E6%A1%88/" target="cdt-mirror">【真理部】广西柳城县及周边发生连环爆炸案</a>
-</h2>
-<p><p>（1）中宣部：广西柳城县及周边发生连环爆炸一案，各媒体不得擅自派队报导此案件，不能建立专题; 如报导要按新华通讯社等发稿为准。</p>
-<p>（2）国信办：各地各网站，关于广西柳州柳城县县城发生爆炸，相关图片，只能留一张远距离照片，其他近距离照片一律删除，显示关于这次爆炸案，包括微博微信在内，相关图片只能留一张远距离照片，近距离照片一律删除，包括微博微信，请立即检查处置。</p>
-<p>（3）X省宣：关于广西柳城县城爆炸一事，只允许转发新华社等权威媒体消息，不得自采自编、不得编发微博微信消息、不得开设专题、不得视频直播，违者立即纠正，一律删除。。新闻客户端，手机WAP网站照此执行。互动环节一律不得炒作，集纳，推荐。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CQJyaxWUcAEUUAi.png" alt="CQJyaxWUcAEUUAi" width="420" height="202"></p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%8F%91%E7%94%9F%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -664,7 +669,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -674,5 +679,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

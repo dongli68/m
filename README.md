@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%80%9D%E6%83%B3%EF%BC%9A%E7%B6%B2%E7%B5%A1%E6%99%82%E4%BB%A3%E9%82%84%E8%AA%AA%E3%80%8C%E7%A5%96%E5%9C%8B%E7%94%9F%E6%97%A5%E3%80%8D%EF%BC%9F/" target="cdt-mirror">东网｜王思想：網絡時代還說「祖國生日」？</a>
@@ -48,7 +48,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%80%E5%9B%BD%E5%BA%86/?category=18271" rel="tag">十一国庆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E5%9B%BD/?category=18271" rel="tag">祖国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%B7%EF%BC%9A%E6%96%B0%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%96%B0%E6%94%BF%E6%9D%83%EF%BC%9F/" target="cdt-mirror">牛博山寨｜任志強：新国家还是新政权？</a>
 </h2>
@@ -671,7 +671,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -681,5 +681,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

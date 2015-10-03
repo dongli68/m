@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A9%BF%E7%BA%A2%E8%A1%A3%E4%B8%8A%E8%A1%97%E7%88%B1%E5%9B%BD%EF%BC%8C250%E5%8C%85%E5%8D%88%E9%A4%90%E5%93%A6%E4%BA%B2/" target="cdt-mirror">【网络民议】穿红衣上街爱国，250包午餐哦亲</a>
+</h2>
+<p><p><strong><a href="http://news.163.com/15/1002/19/B4UOJO5E00014JB6.html">环球网｜十一期间香港爱国组织大游行</a></strong></p>
+<blockquote><p>10月2日由200余名香港爱国爱港人士组成的组织和平论坛，身穿红色五星服装，从香港从铜锣湾崇光百货起步，游行至湾仔金紫荆广场，一路喊着口号高声歌唱。其间还有市民不断加入，最多达到300人左右。为香港国庆节增添了一抹喜庆的气氛。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/125933673.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/125933673.jpg" alt="125933673" width="485" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/125933660.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/125933660.jpg" alt="125933660" width="485" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/125933659.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/125933659.jpg" alt="125933659" width="485" height=""></a></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8%E7%AC%AC%E5%85%AD%E5%A4%A9%EF%BC%9A%E5%8F%8D%E5%8D%A0%E4%B8%AD%E7%BE%A4%E4%BD%93%E4%B9%8B%E7%96%91%E5%9B%A2/">【图说天朝】雨伞运动第六天：反占中群体之疑团</a></li>
+<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/">雨伞运动</a>专题</li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/energypeng" target="_blank">狗大大蛋儿</a><i title="微博达人"></i>：按照中国人民共和国国旗法之规定，只有正国级领导人驾崩才能披国旗啊，香港民众显然抢戏过分了。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@淡淡的闲围脖：原来200人就够了啊，中宣完全可以在每个国家都搞这么一次，证明全世界都要回归中国。。。当然，还有最后一个世界强国不能搞这个，在那个国家这样是会掉头的。。。朝鲜！</p>
+<p><a href="http://weibo.com/1846472997" target="_blank">拉麵放風吹</a>：<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]">我想知道为什么每次这类爱国群体只有上了年纪的大爷大妈而几乎没有年轻人</p>
+<p>@Really谢：我的个天 香港那么多人 就两百爱国人世 这新闻还是少发为妙 国外人看见了怕笑话</p>
+<p><strong>@谋财害命李神医：200人。。。？去年穿黑衣服的可是有20万噢</strong></p>
+<p><strong>@苏格兰风笛三世：200人不少了，毕竟中联还要吃点空饷么</strong></p>
+<p>@喂很憨：700万分之200比例，还是中老年人，还报道个屁</p>
+<p>@罗二瓜的老公：看图不就是一小撮吗？</p>
+<p><a href="http://weibo.com/n/%E5%86%B0_%E7%BA%A2%E8%8C%B6?from=feed&loc=at" target="_blank">冰_红茶</a>:拜託！下次請思維清楚一點，寫清楚“某團體”，<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]">千萬別用“香港民眾”這詞！<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"><img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"><img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"></p>
+<p>@演员孙海英：文革是自动的，不花钱；这个是组织的，要花钱。</p>
+<p><a href="http://weibo.com/1716653292" target="_blank">仁果人儿</a>：不是花50块钱雇来的居委会大妈吧？<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p><a href="http://weibo.com/mithral" target="_blank">水银合金</a>：200块不够了吧？法定假日三倍么<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"><img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p>八月十五De叉烧：穿红衣上街街，250包午餐哦亲</p>
+<p>@danfan：港澳通行证是统一办的吧</p>
+<p>@就爱瞧热闹：中午盒饭有肉吗？</p>
+<p>@YMC_harajuku:港真，你國在香港搞統戰的是不是都承包給深圳哪個村了，這動員來的都什麼屌玩意兒啊！</p>
+<p>@一头小活猪:除了广场舞大妈，组织就不能挑些稍微有点看像的爱国群众出去执行统战任务么？</p>
+<p>@永远香草的刺：就弄尼玛这些东西，我要是香港人我也不会对大陆人有好感！</p>
+<p>@手机用户2259597831：问过几个香港人对这些人看法，回答说是拿钱做事的傻婆</p>
+<p>@狼王的大表哥来了：大陆各地街道办雇来的，领盒饭的冒充港民，用了这么久该换换了，骗不到人了如今</p>
+<p>@小四不是臭臭：千年魔怪舞翩跹</p>
+<p>@哎呀太帅了：魑魅魍魉群小丑，吆五喝六装高潮。</p>
+<p>@Aloneskyt：看到大妈老头！我好像懂了什么</p>
+<p>@同子攻：“爱国”生意最好做了！</p>
+<p>@龙腾四海jw：哥在香港街头看到很多标语写着没有gcd就有新中国</p>
+<p>@Who视之：病得不轻，需要电疗</p>
+<p>@给点阳光就灿烂：回复@jackjohns:公开爱国，你还想怎么公开？天天在大街上披红挂绿敲锣打鼓告诉别人你爱国？那是精神病，不是爱国！</p>
+<p>@湖光山色美丽无边：作者故意黑，爱国人士就这么几个？</p>
+<p><strong>附：</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E8%BF%90%E5%8A%A8%E5%9B%BD%E5%BA%86%E8%8A%82%E6%B8%B8%E8%A1%8C%E8%A6%81%E6%B1%82%E5%B9%B3%E5%8F%8D%E5%85%AD%E5%9B%9B/">自由亚洲｜“天安门母亲运动”国庆节游行要求平反“六四”</a></strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/31daaa4c-7708-4e7c-a185-2ad8f06fc47d.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/31daaa4c-7708-4e7c-a185-2ad8f06fc47d.jpeg" alt="31daaa4c-7708-4e7c-a185-2ad8f06fc47d" width="500" height="281"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151001111223_tiananmen_mothers_campaign_hong_kong_976x549_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151001111223_tiananmen_mothers_campaign_hong_kong_976x549_bbcchinese_nocredit.jpg" alt="151001111223_tiananmen_mothers_campaign_hong_kong_976x549_bbcchinese_nocredit" width="500" height=""></a></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A6%99%E6%B8%AF%E5%8C%BB%E5%AD%A6%E7%95%8C%E5%8D%81%E4%B8%80%E5%AE%A3%E8%A8%80%E5%8D%AB%E6%B8%AF%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC/">美国之音｜香港医学界“十一宣言”卫港核心价值</a></strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1443707663_e8a7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1443707663_e8a7.jpg" alt="1443707663_e8a7" width="500" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A9%BF%E7%BA%A2%E8%A1%A3%E4%B8%8A%E8%A1%97%E7%88%B1%E5%9B%BD%EF%BC%8C250%E5%8C%85%E5%8D%88%E9%A4%90%E5%93%A6%E4%BA%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">中国大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%81%94%E5%8A%9E/?category=18271" rel="tag">中联办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%9C%BA%E8%88%9E/?category=18271" rel="tag">广场舞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E6%B8%AF/?category=18271" rel="tag">爱国爱港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E6%88%98%E9%83%A8/?category=18271" rel="tag">统战部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89/?category=18271" rel="tag">香港普选</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%B0%91%E8%A7%82%E7%82%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E7%8E%A9%E5%9E%AE%E7%9A%84/" target="cdt-mirror">网民观点：中国经济是怎么被玩垮的</a>
 </h2>
 <p><p>@安普若-外号安校长 ：转载：《中国经济是怎么被玩垮的》，作者不详。2015年，中国祭出了“大众创业”“减少地方债务”“PPP合作”三板斧，究竟是壮士断腕悬崖勒马还是临终前最后的安魂曲我们目前不得而知，但希望通过本文，能够撕开中国经济以往的虚华繁荣，其实今天的危机，在很早之前就已种下。</p>
@@ -207,7 +256,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E5%AA%92%E4%BD%93/?category=18271" rel="tag">端媒体</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%8E%8B%E5%B2%90%E5%B1%B1%E3%80%8C%E6%89%93%E8%99%8E%E3%80%8D%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B-%E4%B8%8D%E5%BE%97%E5%B7%B2%E5%90%91%E5%AF%B9%E6%89%8B/" target="cdt-mirror">自由亚洲｜胡少江：王岐山「打虎」骑虎难下 不得已向对手求和</a>
 </h2>
@@ -709,34 +758,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%E5%A4%96%E7%9C%81%E4%BA%BA%E5%B1%85%E5%A4%9A-%E5%9B%BD%E5%BA%86%E6%97%A5%E5%89%8D/" target="cdt-mirror">自由亚洲｜拜城煤矿遇袭身亡外省人居多 国庆日前新疆岗哨林立</a>
-</h2>
-<p><p><em>原标题：拜城煤矿遇袭身亡外省人居多 国庆日前新疆岗哨林立防恐袭</em></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/77679c81-005d-4b73-8c87-5ed1b73c3a17.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/77679c81-005d-4b73-8c87-5ed1b73c3a17.jpeg" alt="77679c81-005d-4b73-8c87-5ed1b73c3a17" width="575" height="383"></a><p>新疆阿克苏拜城县铁热克镇附近一座山上的煤矿企业宿舍，9月17日深夜至18日凌晨受到武装袭击，事件造成近五十人死亡。另据海外维吾尔组织周三称，新疆当局正在设卡通缉多名维吾尔人。(资料图/AFP)</p></div>
-<p>新疆阿克苏地区拜城县铁热克镇一座煤矿公司的宿舍，9月18日凌晨受到武装袭击，造成近五十人死亡。据一位接近死者家属的人士称，有人先袭击该镇派出所，杀死五名警察，伤及多人，后袭击煤矿公司的一楼宿舍，死者绝大部分是四川农民工，家属上周抵达拜城善后，但当局不准他们前往出事煤矿。另据海外维吾尔组织周三称，新疆当局正在设卡通缉多名维吾尔人。</p>
-<p>新疆阿克苏拜城县铁热克镇附近一座山上的煤矿企业宿舍，9月17日深夜至18日凌晨受到武装袭击，事件造成近五十人死亡。截至本周三，当局继续封锁相关消息。据一位知情人士周三告诉本台，他的一位远房亲戚的同村人，服务于该煤矿企业，在事件中丧生：“是四川有一个亲戚一个村的。他的儿子就在这个里头（煤矿），在这个矿，这次遇难了。说是（维吾尔人）去抢炸药。这栋楼房连办公室，还带住宿有三层楼。他们来这里抢东西时在一楼，把人杀了，在一楼抢货（炸药），没有攻击二楼和三楼。所以死亡人数是在第一波攻击中，四十来人”。</p>
-<p>据知情人士称，死者家属上周从四川赶到拜城县后，当局以安全为由，未准家属前往现场祭奠，仅让他们认尸后，立即处理尸体。一位接近死者家属的匿名人士称，袭击着似乎受过训练，他们率先袭击当地派出所：“先袭击了派出所，袭击五人，然后穿他们的警服，到了矿上，在那里的一楼寻找炸药。然后发生了命案。这些人想到矿上去，也去不了。被杀的人拉下来放到殡仪馆，家属来解决问题，也不让你到矿上去”。</p>
-<p>事发后，当地政府全力隐瞒袭击事件，无论是派出所还是镇政府官员或医院，均以“不清楚”或直接挂断电话，回应记者的提问。记者周三致电拜城县殡仪馆查询。</p>
-<p>记者：9月17日到18日凌晨，煤矿受到恐怖袭击，死了的人，是不是全部在您这里火化的？<br>
-回答：没有，我们这里没有火化场。<br>
-记者：那么他送到哪里去了，哪一个火化场？<br>
-回答：不知道，有的农村就就地埋掉了。<br>
-记者：死了四十多个人，不是一两个。<br>
-回答：那就不知道了。</p>
-<p>据当地消息称，公安尚未抓到被通缉的九名袭击者。因此，今年的十一国庆节前，岗哨明显增多。</p>
-<p>总部在德国的世界维吾尔代表大会发言人迪里夏提周三对记者说：“阿克苏发生事件后，我们从当地获得了直接或间接的信息，事件导致死伤人数近五十人。另外，尤其在这个敏感的时期，维吾尔人采取的激进手段，和中国在当地推行的压制政策，导致人的承受能力到了极限有直接关系。另外，移民在当地驻扎和在当地开采，不只是破坏当地的生态，直接威胁到维吾尔人在当地的生存环境，成为人们采取激进手段进行抵抗的导火索。另外事件发生之后，当地到处戒严，到处通缉，加强清查，增加警力。至今，中国政府并未公开、透明的让外界了解到相关信息”。</p>
-<p>阿克苏一位居民董先生周三告诉记者，当地的煤矿企业大部分工人来自内地农村，工作环境艰苦。虽然政府隐瞒消息，但仍有不少人听闻此事，却不敢公开谈论：“现在到处都查得很严，比原先厉害了，说明人还没有抓到。这些人可能在海外得到知识，学习过的，不然没有这么精良”。</p>
-<p>特约记者乔龙（责编：胡汉强/寇天力）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%E5%A4%96%E7%9C%81%E4%BA%BA%E5%B1%85%E5%A4%9A-%E5%9B%BD%E5%BA%86%E6%97%A5%E5%89%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E7%BB%B4%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">汉维矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -748,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -758,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

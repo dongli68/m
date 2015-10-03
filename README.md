@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%80%9D%E6%83%B3%EF%BC%9A%E7%B6%B2%E7%B5%A1%E6%99%82%E4%BB%A3%E9%82%84%E8%AA%AA%E3%80%8C%E7%A5%96%E5%9C%8B%E7%94%9F%E6%97%A5%E3%80%8D%EF%BC%9F/" target="cdt-mirror">东网｜王思想：網絡時代還說「祖國生日」？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/gqj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/gqj.jpg" alt="gqj" width="550" height=""></a><br>
+前幾天，中國大陸剛剛慶祝了抗日戰爭勝利70周年。一個月後，就來祝賀祖國母親「66歲」。那麼，抗日戰爭與「祖國」什麼關係呢？</p>
+<p>以前，每到10月1日，大陸的媒體總要發一些慶祝國慶的社論、社評什麼的，其中很多媒體都會用到「慶祝祖國母親生日」的說法。這是一個常識性的錯誤。</p>
+<p>在媒體單方面灌輸的時代，這種錯誤是不會得到糾正的。首先，沒幾個人知道「祖國沒有生日」，其次，就算知道了，也沒有渠道可以表達，可以引起反應。</p>
+<p>現在不一樣了。互聯網時代，許多錯誤的觀念正在一個個被糾正。從2007年起，我每年都要在博客裏批評「慶祝祖國母親生日」的錯誤說法。還有其他一些朋友也在寫類似文章。這樣的文章傳播了幾年，越來越多的人懂得了「祖國沒有生日」。</p>
+<p>這幾年，十一社論中說「祝賀祖國生日」的媒體很少了。但是仍然有一些媒體在這樣說。特別是2015年，竟然《南方周末》報業系列的某個官方微博在「祝祖國母親生日快樂」，這是很令人詫異的。</p>
+<p>我一直說，在中國，媒體是一個門檻非常低的行業。所以，記者編輯們的素質，普遍很低。以《南方周末》和《南方都市報》爲代表的南方系是個例外。這些年來，中國大陸媒體能拿得出手的文章，一般以上出自南方系。現在，南方系出來「祝賀祖國母親」，顯然不是不懂，而是故意爲之。</p>
+<p>南方系會不懂這樣的常識？——「祖國」，是「祖先曾經生活過的，並且傳給了後代的這塊土地和種群、文化的集合體」的意思。就像我們不能斷定人類究竟是哪一天開始直立行走一樣，我們無法確定祖國的起始日。也就是說，祖國沒有生日。最多只能說：祖國今年大約幾千歲。</p>
+<p>「中國」一詞，既是個全稱，也是個簡寫。作爲全稱的時候，其意義接近於「祖國」，比如說「中國有5000年歷史」；作爲簡稱的時候，目前主要是「中華人民共和國」和「中華民國」 簡稱。比如，當我們說「日本當年侵略中國」時，指的是侵略「中華民國」。中國人民抗日，指的也是「中華民國的人民抗日」。</p>
+<p>「中國」作爲上述兩個特定簡稱的時候，才是有生日的。10月1日是中華人民共和國的生日；10月10日，是中華民國的生日。</p>
+<p>南方系這兩年的文章，水平急劇下降，顯然是受到了壓力。這就不難解釋其「祖國母親生日」的出現。</p>
+<p>或許有人會問：一個「祖國有沒有生日」的問題，有那麼重要嗎？我的回答是：非常重要。如果不重要，那些媒體爲什麼多年以來都不厭其煩地故意混淆「祖國」與「中華人民共和國」？</p>
+<p>混淆這兩個概念，表面上是要忽悠愛國主義，實際上，是要用虛幻的概念來彌補合法性。當然，在各個場合忽悠愛國主義，本身也是爲了彌補合法性。</p>
+<p>前幾天，中國大陸剛剛慶祝了抗日戰爭勝利70周年。一個月後，就來祝賀祖國母親「66歲」，那麼，抗日戰爭與「祖國」什麼關係呢？莫非，抗日戰爭是「他國」的戰爭，與「祖國」無關？</p>
+<p>那些呼喊祖國66歲生日的人，你們是否認爲60多年前的中國人沒有祖國？</p>
+<p>過去在10月喊「祖國母親生日」，客觀上是無知，主觀上是要洗腦、要宣傳。今天，在民智已開的互聯網時代，還用「祖國母親生日」來鼓譟，那就是負隅頑抗，是非常惡劣的。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%80%9D%E6%83%B3%EF%BC%9A%E7%B6%B2%E7%B5%A1%E6%99%82%E4%BB%A3%E9%82%84%E8%AA%AA%E3%80%8C%E7%A5%96%E5%9C%8B%E7%94%9F%E6%97%A5%E3%80%8D%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%80%E5%9B%BD%E5%BA%86/?category=18271" rel="tag">十一国庆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89/?category=18271" rel="tag">抗日战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E5%9B%BD/?category=18271" rel="tag">祖国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%B7%EF%BC%9A%E6%96%B0%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%96%B0%E6%94%BF%E6%9D%83%EF%BC%9F/" target="cdt-mirror">牛博山寨｜任志強：新国家还是新政权？</a>
 </h2>
 <p><p>任志強的原文在新浪被删除 http://weibo.com/p/1001603893327706593636 特转发至此</p>
@@ -399,6 +425,41 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E6%B4%8B
 <p>
 	<small> ============== 1天前</small>
 </p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%B5%A4%E7%9C%89%E9%99%88%E6%9B%B4%EF%BC%9A%E5%90%91%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%AD%A6%E4%B9%A0%E5%8D%9A%E8%A7%88%E7%BE%A4%E4%B9%A6/" target="cdt-mirror">赤眉陈更：向习主席学习博览群书</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/xi.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/xi.png" alt="xi" width="550" height=""></a></p>
+<p>最近习总书记访美演讲：“我青年时代就读过《联邦党人文集》、托马斯·潘恩的《常识》等著作，也喜欢了解华盛顿、林肯、罗斯福等美国政治家的生平和思想，我还读过梭罗、惠特曼、马克·吐温、杰克·伦敦等人的作品。”</p>
+<p>去年席主席访问法国时，演讲中提到：“读孟德斯鸠、伏尔泰、卢梭、狄德罗、圣西门、傅立叶、萨特等人的著作，让我加深了思想进步对人类社会进步作用的认识。读蒙田、拉封丹、莫里哀、司汤达、巴尔扎克、雨果、大仲马、乔治?桑、福楼拜、小仲马、莫泊桑、罗曼?罗兰等人的著作，让我增加了对人类生活中悲欢离合的感触。欣赏米勒、马奈、德加、塞尚、莫奈、罗丹等人的艺术作品，以及赵无极中西合璧的画作，让我提升了自己的艺术鉴赏能力。读凡尔纳的科幻小说，让我的头脑充满了无尽的想象”</p>
+<p>访问德国时，习主席指出：“德国许多作品早已为中国民众所熟知。这些作品中，有歌德、席勒、海涅等人的文学巨著和不朽诗篇，有莱布尼茨、康德、黑格尔、费尔巴哈、马克思、海德格尔、马尔库塞等人的哲学辩论，有巴赫、贝多芬、舒曼、勃拉姆斯等人的优美旋律。包括我本人在内的很多中国读者都从他们的作品中获得愉悦、感受到思想的力量、加深了对世界和人生的认识。”</p>
+<p>此前习主席访问俄罗斯时，谈到:“我年轻时就读过普希金、莱蒙托夫、屠格涅夫、陀思妥耶夫斯基、托尔斯泰、契诃夫等文学巨匠的作品，让我感受到俄罗斯文学的魅力。”</p>
+<p>2014年2月7日，习近平在索契接受俄罗斯媒体专访时，一口气列举了11位俄罗斯作家的名字，“克雷洛夫、普希金、果戈里、莱蒙托夫、屠格涅夫、陀思妥耶夫斯基、涅克拉索夫、车尔尼雪夫斯基、托尔斯泰、契诃夫、肖洛霍夫，他们书中许多精彩章节和情节我都记得很清楚”。</p>
+<p>2013年5月17日，习主席在与希腊总理会谈时，说年轻时阅读了不少希腊哲人的书籍，与东方文明的古老智慧一样启迪着世人。</p>
+<p>看习主席年轻时读那么多书，我有以下想法：</p>
+<p>1、习主席经历的文化大革命和我们不是同一场文化大革命？在那样一个破四旧立四新的时代，他从哪儿找到那么多宣扬资产阶级思想的书？他的父亲——老革命习仲勋不反对他读这样的书吗？不反对他沾染那样的坏思想，不担心读这样的书会给自己惹来祸事吗？</p>
+<p>习主席读这些书是需要斗争勇气的。</p>
+<p>2、读这样的书需要多长时间？可以说习主席开列的书单已经囊括了西方文化的最主要的内容。据我所知，近代史上中国人读书最多的应当是梁启超和胡适，他们都是纯粹的读书人，他们的阅读范围显然没有习主席广泛。习主席青年时代，其中两年受父亲牵连，遭受批斗、囚系牢狱，其中七年是朝五晚九的田中稼穑的知识青年生活，即是从海绵里挤水一样的挤出时间，能够读这么的书吗？</p>
+<p>习主席读这么多书是要有钉子一般精神去挤出时间的。</p>
+<p>3、读这样多的书是不可能暗暗读的，北京、山西，四处辗转，每次搬家，书籍多于衣物。这样的书籍必然暴露于外，在那样的时代读这样的书的人必然被视为异人。这样的异人在那样的时代是不允许被任命为村支书，后又被推荐为工农兵大学生的？</p>
+<p>读这样的为时代所忌的书却又能够在那样的时代顺势而起是需要做人方法的。</p>
+<p>4、读书与灵魂培育的关系。人们常说：“看一个人的灵魂，先看看他的书架。”习主席所开列的书单，哲学、政治方面是宣传民主自由宪政的，文学方面是宣传资产阶级情调的。但习主席却是坚定的马克思主义者，对西方所宣扬的普世价值持坚定不移的排斥态度，至今还在坚定不移地号召努力实现共产主义。</p>
+<p>有人说习主席有一种强大的批判能力。习主席还说，他青年时代就非常爱读《共产党宣言》、《资本论》、《1844经济学哲学手稿》、《反杜林论》、《政治经济学批判》、《哥达纲领批判》、《唯物主义和经验批判主义》、《谈谈辩证法问题》、《摆脱贫困》、《毛泽东选集》等，并对这些书进行了反复研究。所以，他是从后一类书籍中吸取营养，批判了前一类书籍中的糟粕之处。</p>
+<p>但我们显然看到，习主席在访问各场合谈到他所读的这些书时，都是在赞扬该国的民族文化，饱含着无限的敬仰、欣羡之情的。一个人不可能既对这些先贤先哲的书籍怀着那样的钦羡之情，却又视之为糟粕。</p>
+<p>至为强大的灵魂才能排除另一些强大灵魂的干扰，而且能够十分灵活地运用那些灵魂所提供给自己的东西，择地而适，辨人而用，成就伟大的事业。</p>
+<p>5、我爱好文学，所以非常注意读书与语言风格的关系。习主席语言风格是通俗化、俚语化，甚至爱用一些诸如“打铁还要自身硬”、“两只鸟”之类的俚巷里的语言。他的语言似乎更赵书理化一些、刘老根化一些。我们很难从习主席的语言中看到惠特曼的草叶集的闪闪露珠的影子，普希金的浪漫而忧郁的影子；黑格尔、费尔巴哈的深奥，马克思、海德格尔、马尔库塞理论与形像的纠缠挟裹的风格，车尔尼雪夫斯基、托尔斯泰的广阔流畅清丽的美韵，这一些通通看不到。</p>
+<p>习主席在一次外事活动中说：“有些吃饱了没事干的外国人对我们的事情指手画脚。中国一不输出革命，二不输出饥饿和贫困，三不去折腾你们，还有什么好说的？”在卡塔尔电视台一次采访活动中说：“在一个笼子里有各种鸟，如果把那些吵得厉害的鸟赶出去，那么笼子里就不热闹了。”我认为这样的语言最能代表习主席平俗易懂的语言风格，这种语言风格是与习主席的坚定的马克思主义的观点、立场是完全一致的，粗犷、大气、果断，毫不留情地斩伐。从习主席的这些表述，看不出温情脉脉的司汤达、福楼拜的语言影响，更看不出伏尔泰、卢梭此类人物自由主义的思想痕迹——哪怕像青年马克思那的自由保留！</p>
+<p>从语言方面看也是如此：至为强大的灵魂才能排除另一些强大的灵魂的干扰，成就伟大的事业。</p>
+<p>6、习近平书记的访问必然地还会朝向更为广阔的地方，例如印度、埃及，例如希腊、西班牙，例如丹麦、瑞典，例如伊朗、伊拉克，例如智利、阿根廷，例如以色列、巴基斯坦……随着习主席足迹继续开展，相信习主席的书单还有进一步的罗列。习主席所掌握的印度文化、阿拉伯文化、北欧文化、伊斯兰文化等一系列人类文化的明珠将逐步在世人面前展开。就目前的观察看，可以预估习主席不仅可能是我党历史上读书最多的领袖，也可能是我们民族历史上读书最多的学者！</p>
+<p>7、过去，在同辈人中自以为读书不少。看习总书记之博览群书，引庄子秋水篇叹曰：“秋水时至，百川灌河。泾流之大，两涘渚崖之间，不辩牛马。……河伯始旋其面目，望洋向若而叹曰：“今我睹子之难穷也，吾非至于子之门，则殆矣。吾长见笑于大方之家矣。”</p>
+<p>呜呼，“今我睹子之难穷也，吾非至于子之门，则殆矣。吾长见笑于大方之家矣！”</p>
+<p>二零一五年九月二十五日</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%B5%A4%E7%9C%89%E9%99%88%E6%9B%B4%EF%BC%9A%E5%90%91%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%AD%A6%E4%B9%A0%E5%8D%9A%E8%A7%88%E7%BE%A4%E4%B9%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%BA%BA%E4%BB%AC%E6%9C%89%E6%B2%A1%E6%9C%89%E7%88%B1%E5%9B%BD%E7%9A%84%E8%87%AA%E7%94%B1/" target="cdt-mirror">唐映红 | 心理学问答：人们有没有“爱国”的自由权利？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/S1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/S1.png" alt="S1" width="550" height=""></a></p>
@@ -599,79 +660,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B87%E6%AD%BB51%E4%BC%A42%E5%A4%B1%E8%81%94/" target="cdt-mirror">BBC｜广西柳城县连环爆炸7死51伤2失联</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930145816_china_explosion_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930145816_china_explosion_640x360_xinhua_nocredit.jpg" alt="150930145816_china_explosion_640x360_xinhua_nocredit" width="575" height=""></a></p>
-<p>中国国庆在即，广西柳城县及周边星期三（9月30日）连续发生17起爆炸，至晚上10时，已造成至少7人死亡、2人失踪，另有51人受伤。</p>
-<p>柳州当地警方在刚刚举行的有关爆炸案的新闻发布会上公布了上述的死亡数字。</p>
-<p>当地警方拘捕33岁姓韦疑犯，指其是柳城县本地人，排除事件属于恐怖袭击。</p>
-<h2>可疑包裹</h2>
-<p>另外，柳城县公安局政委蔡天来在新闻发布会上还透露，目前警方发现了60多个可疑包裹，都是由居民报警发现，目前已派专人看守，等待专业排爆设施和人员前来排除。</p>
-<p>目击者指，爆炸有规律，他们从下午5时30分起开始听到爆炸声，大约每隔10分钟听到1次，总共听到了11次。</p>
-<p>而此前BBC中文网获得的一份柳州公安情况汇报披露，发生爆炸的地点包括商贸城、监狱、大埔镇政府、超市、车站、医院、畜牧局宿舍、菜市、疾控中心等10多处公共场所。</p>
-<p>有居民称，爆炸邮包有的位于送货车上，有的位于室内货架上，有的放在居民楼附近的垃圾桶内，“选择的都是人员较多的地点。”</p>
-<p>网友上传的图片显示，在爆炸陆续发生期间，当地不少居民收到了署名“柳城县安监局”的手机短信提示，其中提醒民众“不要轻易收取和打开包裹”。</p>
-<p>据柳州市公安局官方微博称，经走访现场群众得知，犯罪嫌疑人系雇佣他人以送递物件的方式实施犯罪。</p>
-<p>柳州警方提示：广大群众要加强防范，不要随意接受陌生人委托转递的物品。</p>
-<h2>确定嫌疑人</h2>
-<p>柳城警方的官方微博“柳城公安”还透露，已初步确定犯罪嫌疑人韦某某。</p>
-<p>而新华社报道说，这名嫌疑人是男性，今年33岁，是柳城县城大埔镇人。</p>
-<p>此前，柳州市公安局长周长青对中央电视台说，初步判断为刑事案件，但作案人员的动机仍在调查之中。</p>
-<p>而当地《南国早报》则透露，周三（30日）下午17:14分，柳城县安监局给群众群发紧急通知。</p>
-<p>通知上表示：“我县发生多起疑是包裹爆炸,请广大群众不要打开近期寄来的包裹。</p>
-<p>官方新华社还报道，广西柳州市公安部门表示，9月30日柳州市区也有爆炸事件发生，发生爆炸的地点不止一处。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930145723_china_explosion_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930145723_china_explosion_640x360_xinhua_nocredit.jpg" alt="150930145723_china_explosion_640x360_xinhua_nocredit" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930145625_china_explosion_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930145625_china_explosion_640x360_xinhua_nocredit.jpg" alt="150930145625_china_explosion_640x360_xinhua_nocredit" width="575" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/09/150930123932_china_explosions_640x360_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/150930123932_china_explosions_640x360_xinhua_nocredit.jpg" alt="150930123932_china_explosions_640x360_xinhua_nocredit" width="575" height=""></a></p>
-<p>柳州市位于广西中北部，又叫“龙城”，是广西最大的工业城市，同时也是一座历史文化名城。从建城至今已有两千一百多年的历史。</p>
-<p>至于柳城县距离柳州市40多公里，其中县城大埔镇城区共有人口4万多人。</p>
-<h2>加强戒备</h2>
-<p>广西柳州市柳城县发生连环包裹爆炸后，中国多个城市随即加强戒备，广州越秀警方通报，为了进一步防控广州火车站广场的治安，警方开始升级广州火车站广场安检工作，扩大检查过往人员和管控物品，确保火车站广场安全。</p>
-<p>警方将在广州火车站中、西广场围闭为核心区，并把火车站进、出站口纳入核心区，成立60人的安检队伍，设置安检门、X光机等安检设备，加大对人员及随身物品的安检。</p>
-<p>在外围区域，主要由安检人员徒手或利用手持探测仪对过往人员及物品进行安检工作。</p>
-<p>(撰稿: 李文/路西 责编：路西）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E5%8E%BF%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B87%E6%AD%BB51%E4%BC%A42%E5%A4%B1%E8%81%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">暴力袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%AD%E6%9C%A8%EF%BC%9A%E4%BB%8E%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%88%E6%B8%85%E7%90%86%E9%97%A8%E6%88%B7%E4%BA%8B%E4%BB%B6%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%B8%88%E7%94%9F%E5%85%B3/" target="cdt-mirror">六木：从人大教授“清理门户”事件看中美师生关系差异</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/09/29LeducWeb-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/29LeducWeb-articleLarge.jpg" alt="29LeducWeb-articleLarge" width="600" height="400"></a><p>在美国，高度商业化的高等教育以及民主的土壤使得学生评价或批评老师十分普遍。</p></div>
-<p>美国学生在社交网络上的表现往往会影响他们的工作应聘，<a href="http://cn.nytstyle.com/technology/20131112/t12admissions/" target="_blank">甚至大学申请</a>。而在中国，社交网络上的不当言论则可能会毁掉一段师生关系。</p>
-<p>近日，中国人民大学历史学院教授孙家洲以“告学界朋友与弟子<a href="http://www.thepaper.cn/newsDetail_forward_1377524" target="_blank">公开信</a>”的方式，在自己的微信朋友圈宣布与一名新招硕士研究生郝相赫断绝师生关系。微信是中国网民最热衷的社交媒体之一。</p>
-<p>该生曾在微信朋友圈中批评魏晋南北朝史领域的两名中国学者，使用了如“庸才”这样的激进词汇。导师孙家洲将之视为“无端嘲讽”与“谩骂”，多次劝导无果后决定发公开信解除师生关系，并在信中直接道出了两位学者的名字。</p>
-<p>公开信后经媒体转载，这件学界私事于是成为了公众话题。该生随即发表了“情况说明”，称“作为一个年轻人议论前辈学者，当然是错误的”，但认为评论的平台是相对私人的网络空间，并无任何社会影响力，最后同意解除与孙家洲教授的指导关系。</p>
-<p>此后，该生又发表了正式的道歉信，称收回之前的情况说明，恳求相关老师宽恕他的“年少轻狂”，并希望能继续做孙家洲教授的学生。此事目前暂无定论。</p>
-<p>这件事让我想起了我的导师章燕教授。我在北京师范大学读英美文学硕士时，她扎实的学术修养和谦卑的人格深深影响了我。我曾读到过一篇论文，作者是国内英美文学界的知名学者，他的论述对象正好是我过去六年在研究的一位美国诗人。我对他文中的观点十分不赞同，但即便如此我仍尊重他的学术能力。</p>
-<p>当天我给导师写了一封邮件，客观地批判了该教授的观点，表达了我对这篇文章可能带来的对这位诗人误解的担忧。第二天，我收到她的回复，她首先肯定了该论文的学理性和科学性，但同时表示支持我的观点，认为文章并未跳出传统的论述套路。她后来约我面谈，建议我通过写论文的方式与这位教授对话。</p>
-<p>我与我的导师一直保持良好的师生关系，因为我们彼此具有专业的作风。学界从来不排斥批评，但前提是严谨的论述与专业的交流。专业，也是史蒂夫·卡恩(Steve Cahn)教授在《圣人与恶徒：学术界的伦理》(Saints and Scamps: Ethics in Academia)中倡导的任教期间唯一合适的师生关系。</p>
-<p>这部简洁的作品出版已近30年，但它的核心价值如今仍然适用。卡恩认为教授的角色其中一个维度是伦理层面的，教授处于一个或帮助、或伤害学生的位置，因此除了精通知识之外，还需熟稔教导的艺术。其中暗含的伦理考量事实上关乎的是公正性，对公正的关注与定义则决定了该教授在高等教育中扮演的是“圣人”还是“恶徒”。</p>
-<p>在师生关系上，对公正的追求要求我们保持一种专业的关系，这一点同时适用于本科和研究生阶段。“教授应当指引学生通过一个专业领域，而不是寻求成为他们的心理医生、朋友或恋人。”卡恩写道，“这种指导不应被教条绑架，也不应被放任污染。”保持这种专业的界限，对老师和学生来说都有利。</p>
-<p>在微信与Facebook时代，保持专业的界限依然重要。社交网络、即时通讯以及一封短短的邮件往往无法准确地传达完整的学术信息，误读与冲动便因此而生。</p>
-<p>因此，教授在社交网络上最好与学生划清界限。更重要的是，我们需要更多面对面交流的时间。埃默里大学英文系教授马克·鲍尔莱因(Mark Bauerlein)在《纽约时报》撰文批判如今学生很少在课外与老师接触，质问“<a href="http://cn.nytimes.com/opinion/20150514/c14professors/" target="_blank">大学教授还有什么意义</a>”， 教授已不再是令人生畏的智者和道德标杆。但反过来看，那些能够保持专业度和道德权威的教授，则应是我们努力的方向。</p>
-<p>在大多数时候，师生关系中占主动地位的是老师。但有时，主动权会反转到学生手上，即学生评价老师。在中国，老师一般具有绝对权威，因此当权威被评头论足或挑战的时候，老师往往很难接受。但是在美国，高度商业化的高等教育以及民主的土壤使得学生评价或批评老师十分普遍。</p>
-<p>评价分两类，第一种是非量化的。如果学生对老师的教学不满意或被老师的言论冒犯（比如关于种族、阶级和性向歧视），除了在同学间抱怨外，还可以向系主任或学院领导反映。这样的意见往往是有效的，因为如今美国的大学把学生视为前来购买商品的顾客，因此使顾客满意十分重要。 在课堂上，老师也会鼓励学生用批判的眼光解读学术作品，培养批判力正是美国高等教育的目标之一。</p>
-<p>这一点在中国则刚好相反，诚如俄勒冈大学的赵勇教授在《谁怕那条大恶龙》(Who’s Afraid of the Big Bad Dragon?)中论述的那样，一直以来中国的教育更多的是一种统治工具，而不是启发学生，“通过设计，这个体系奖赏顺从、鼓励服从、培养同质化的思维。”在这样的背景下，无论是浅薄的冒犯还是深思熟虑的批判，都具有一定的风险。</p>
-<p>另一种则是可量化的评价，除了ratemyprofessor.com这个民间网站之外，最典型的是各大高校开展的期末学生评教。第一次校园范围内的学生评教可追溯到1960年代，由几个本科生发起。起初这一尝试颇具新意，这些评教汇编也的确为一些学生选课提供了借鉴。到了1970年代，这些原本随意的评教被教育管理者正规化，管理者很大程度上开始依靠这些统计数据来评判一个教师的教学质量，以此来决定该老师是否升职以及留任，这对助理教授和兼职教授来说影响颇大。</p>
-<p>2012年，我在美国威廉玛丽学院现代语言文学系的中国研究项目得到了一份兼职教职，作为新老师我时常会用卡恩教授的《圣人与恶徒》来提醒自己遵循学术界的伦理，保持专业度。当其他老师，包括卡恩教授，都颇为排斥期末学生评教时，我对此却持拥抱态度，因为我想知道自己的教学质量如何以及学生对我的“服务”是否满意。 这一年的几次评教中，我都获得了远高于平均分的分数，我因此颇为骄傲，觉得之前为学生付出的一切都是值得的——直到我看到一位学生的评价。</p>
-<p>“大四最后一个学期，我选这门课是为了放松，但从始至终都充满压力。我觉得我在课上总是受到批评，这打击了我的自信心。”这位学生坦诚地写道，“我希望我没选这门课。”</p>
-<p>我尝试安慰自己，这是我67个学生中唯一一个给我负面评价的，我应该多关注其他学生的好评。但此后的三年中，我无法忘记这个批评的声音，它盖过了评分曾带给我的骄傲。虽然我试图成为一名好老师，希望帮助学生在学业和生活上有更好的发展，但我一定在某一刻有所疏忽，因某种原因伤害到了那个美国学生。对于那位学生来说，我就是一个“恶徒”。</p>
-<p>中国的“教学相长”与西方语境下的“师生相互关系”都指向一个共同的目标：相互进步。无论年轻的学生如何选择，作为教授，应保持专业度，做一个道德标杆，向“圣人”的方向靠近，学生自然会成为你的信徒。</p>
-<div>
-<p>六木是自由撰稿人，美国西北大学社会学博士生，现居芝加哥。</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/09/%E5%85%AD%E6%9C%A8%EF%BC%9A%E4%BB%8E%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%88%E6%B8%85%E7%90%86%E9%97%A8%E6%88%B7%E4%BA%8B%E4%BB%B6%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%B8%88%E7%94%9F%E5%85%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">人民大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2/?category=18271" rel="tag">大学教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B4%E8%BD%BB%E4%BA%BA/?category=18271" rel="tag">年轻人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">社交网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/?category=18271" rel="tag">高等教育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +671,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +681,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

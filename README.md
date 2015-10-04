@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%BB%B4%E6%8A%A4%E8%82%A1%E4%BB%B7%E7%A8%B3%E5%AE%9A-%E6%9C%89%E6%95%88%E7%BC%A9%E5%B0%8F%E4%BA%86%E6%94%B6%E5%85%A5/" target="cdt-mirror">光明日报 | 中国政府维护股价稳定 有效缩小了收入差距</a>
+</h2>
+<p><p>金融发展了，人们之间的收入差距会如何变？事实上，金融发展是一个历史过程，决定了收入分配的历史性，因为收入需要按照积累的资本或对资本的索取权进行分配。金融发展最初是商品货币化，这可以追溯到货币的产生。货币资本化则是将货币转化为资本，资本家将劳动力创造出的一部分剩余价值作为用于购买新的生产资料的货币资本投入生产，其目的不是为了获得使用价值，而是为了购买新的生产资料再生产出新的价值。</p>
+<p>在生产性领域主导非生产性领域的时期，两大领域相互分享剩余价值。这样，随着金融发展，资本家阶级内部的收入差距是在缩小的。由于工人创造出来的剩余价值被职能资本家与金融资本家之间的联合所掠夺，而其本身又因门槛效应等原因无法参与收入分配，因此工人与资本家之间的收入差距是在扩大的。</p>
+<p>当进入资本虚拟化阶段后，资本家为了缓解资本主义基本矛盾，将私有的生产资料与社会中的资本有机结合起来以获取更多的剩余价值。于是股份公司随之诞生，资本家通过发行股票向社会筹资，持股人通过分红获得一部分利润，缓解了矛盾，促进了实体经济的增长。随着资本虚拟化进程的加速，金融市场繁荣的同时实体经济却日渐凋敝，导致非生产性领域对生产性领域进行支配：生产性投资者必须通过向银行贷款，向公众发行股票、债券借款等方式筹集资金才能真正展开实体投资。其原因在于，金融领域资本有机构成低于生产领域、虚拟资本周转速度较快以及人们对实体经济的预期收益下降，导致金融领域平均利润率高于生产性领域，具有逐利性的资本自然会选择前者。</p>
+<p>资本虚拟化的双重性使得这一时期金融发展对收入分配的影响方式发生了改变。首先，非生产性领域逐渐支配生产性领域，生产领域所需的最优收入分配得不到满足，通过非正规途径得到更多金融资本的职能资本家会获得更多的利润，故资本家之间的收入差距拉大。其次，金融领域内部收入差距也会拉大，因为一些有实力的金融资本家向他人发放高利贷来获取巨额利润，严重打乱了原先的收入分配格局。再次，金融领域在再分配的基础上再进行分配，对生产性领域的控制使得金融资本家获得比职能资本家更多的利润，导致收入分配差距拉大。最后，因为工人无法通过购买股票获得企业的部分利润，资本家却可以通过配股、分红等方式获得，资本家与工人之间的收入差距也在扩大。</p>
+<p>随着资本虚拟化的推进，大批投资者会逐渐缩小生产性投资，扩大金融投资。实体经济会减少对银行的依赖，并转向金融市场，由此带来银行业务金融化的趋势，进而加速资本虚拟化进程。同时，工人在上述两大趋势的作用下参与金融机制之中，因而收入分配的形式不仅仅是剩余价值的分割，还有对工人家庭金融性收入的再分配。企业需要发放红利以吸引和维持股东，红利是从利润中得来的，但利润却只是企业因金融投资增多而产生的，这种情况下的红利分配无疑是对股东资金的再分配，股东得到了红利后又会对企业增加信心，助长股价预期，增加持股，使得这一机制得以循环往复。随着银行金融掠夺的加剧，工人阶级无法偿还贷款时便会引发金融危机，工人阶级和小型企业陷入破产境地，而大型企业凭借强大的信息资源，迅速撤离金融领域，减少亏损。这种再分配会导致投资于不同企业的居民收入差距拉大。</p>
+<p>因此，政府对金融市场的干预是有必要的。一是可以防止金融脆弱性的积聚而爆发金融危机，二是可以防止居民对金融部门失去信心，出现所谓的“挤兑”现象，三是可以通过转移支持来缩小收入差距。</p>
+<p>理论分析和资本主义国家的实践都表明，金融发展并不会自发地缩小收入差距，只有在政府干预市场时，才会采取补助措施缩小收入差距。英国作为早期资本主义国家的典型，其货币资本化在发展经济的同时拉大了收入差距，为后来贫富悬殊埋下了祸根。当世界中心转向美国之后，华尔街的金融资本家以增加资本流动性为由不断创造各种金融产品，导致资本虚拟化过度，扩大了收入差距，一直到危机爆发，政府才干预市场，采取各种政策缩小收入差距，包括对穷人教育、医疗、卫生方面的补助。</p>
+<p>我国的实践也表明，政府对资本市场的及时有效干预十分必要。2008年国际金融危机爆发后，我国政府立即出台包括提高居民收入、调节收入分配在内的十大措施，一次性向7000多万社会保障对象发放生活补贴，并不断提高基本养老金水平，缩小了收入差距，基尼系数由2009年的0.49缩小到2014年的0.47。事实上，我国是社会主义国家，政府并不需要等到西方金融危机波及至国内时才干预市场，应利用制度优势主动及时地采取措施。近期国内股价波动强烈，在潜在危机爆发之前，我国政府主动采取了如大股东增持、董监高增持、股权激励等措施维护股价稳定，也在一定程度上有效地缩小了收入差距。（原文标题为《金融发展对收入分配的影响》，作者为中国人民大学经济学院黄泽清）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%BB%B4%E6%8A%A4%E8%82%A1%E4%BB%B7%E7%A8%B3%E5%AE%9A-%E6%9C%89%E6%95%88%E7%BC%A9%E5%B0%8F%E4%BA%86%E6%94%B6%E5%85%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">收入差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">政府干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">计划经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">资本主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">金融市场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%94%A8%E6%B5%81%E6%B0%93%E6%89%8B%E6%AE%B5%E5%88%9B%E5%BB%BA%E6%96%87%E6%98%8E%E5%9F%8E%E5%B8%82/" target="cdt-mirror">【图说天朝】用流氓手段创建文明城市</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/2616182467/CD89wcaOX" target="_blank">@日照公安</a>：#创建文明城市，我们在行动# 近期，大街小巷都能看到创建文明城市的活动，小伙伴们，今天你文明了么<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%891.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%891.jpg" alt="日照公安1" width="455" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%892.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%892.jpg" alt="日照公安2" width="455" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%893.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%893.jpg" alt="日照公安3" width="455" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%894.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%894.jpg" alt="日照公安4" width="455" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%896.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%896.jpg" alt="日照公安6" width="455" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%897.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%897.jpg" alt="日照公安7" width="455" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%898.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%898.jpg" alt="日照公安8" width="455" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%899.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%899.jpg" alt="日照公安9" width="455" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%895.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%85%A7%E5%85%AC%E5%AE%895.jpg" alt="日照公安5" width="455" height=""></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%88%9B%E5%BB%BA%E6%96%87%E6%98%8E%E5%9F%8E%E5%B8%82.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%88%9B%E5%BB%BA%E6%96%87%E6%98%8E%E5%9F%8E%E5%B8%82.png" alt="创建文明城市" width="500" height=""></a></p>
+<p><a href="http://weibo.com/n/%E9%9D%92%E5%AA%92%E7%B4%A0?from=feed&loc=at" target="_blank">青媒素</a>:现场有人拍张照片，立即被粗暴对待。如此争创“文明”，呵呵。。</p>
+<p><a href="http://weibo.com/1348670792" target="_blank">老木子木大师</a>：用流氓手段创建文明城市<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/3060536863" target="_blank">Angus__Ho</a>：全国文明城市金昌人民飘过，政府可没少折腾我们<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/1136677815" target="_blank">想唱就唱0532</a><i></i>：青岛人民正在经历……呵呵<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%94%A8%E6%B5%81%E6%B0%93%E6%89%8B%E6%AE%B5%E5%88%9B%E5%BB%BA%E6%96%87%E6%98%8E%E5%9F%8E%E5%B8%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E7%BB%A9%E5%B7%A5%E7%A8%8B/?category=18271" rel="tag">政绩工程</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E6%98%8E%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">文明城市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%95%BF%E5%AE%89%E5%89%91%EF%BC%9A%E5%85%B3%E4%BA%8E%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8%E6%A1%88%E7%9A%84%E5%9B%9B%E4%B8%AA%E8%B4%A8%E7%96%91/" target="cdt-mirror">【异闻观止】长安剑：关于柳城爆炸案的四个质疑——为你逐条解惑</a>
 </h2>
 <p><p><em><strong>【编者注】这篇文章由柳州公安<a href="http://weibo.com/lzsgaj#_rnd1443957719493">微博账号</a>首发，目前阅读量已超过10万。然而这个“长安剑”是谁？有什么资质辟谣？柳州公安却没有作任何说明。如果是官方辟谣，该文则语言过于轻佻，充满主观臆测，极其不专业。而如果是非官方辟谣，一个身分不明的人用诸如“no zuo no die”这样的文字风格撰文辟谣，则毫无可信度可言。</strong></em></p>
@@ -678,46 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/" target="cdt-mirror">中国领导人已经不能放心走进中国人群</a>
-</h2>
-<p><p>在习近平到达西雅图后，印度总理莫迪也到了硅谷进行了两天36小时旋风式的访问，除了访问一系列高科技公司外，还在硅谷进行万人集会演讲。据说报名参加的有5万人。很受印度人欢迎。</p>
-<p>莫迪最先造访的是特斯拉，后又进苹果家。刚刚傍晚时分，他的硅谷行渐入高潮，列队接见的就是高科技领域的其他大拿，包括MicroSoft`s Satya Nadella, Google`s Sundar Pichai, Qualcomm`s Paul Jacobs, Cisco`s John Chambers, Adobe`s Shantanu Narayen and TiE`s Venk Shukla。</p>
-<p>周日莫迪先去拜访扎克伯格，Facebook总部召开盛大的市民大会欢迎莫迪，小札亲自主持问答环节。莫迪说：“社交媒体可以告诉政府你做错了什么，这是民主的新力量”。(你对比一下脸书在中国的待遇。)小札面对知音也是蛮拼的，将自己Facebook账号的个人头像也改为以印度三色旗为背景，以示对数字印度计划的支持。小札父母还出来陪同莫迪散步。</p>
-<p>从Facebook出来，莫迪就直奔谷歌而去。而除谷歌印度裔CEO“劈柴”先生（Sunder Pichai）出来迎接之外，董事长施密特也来了。更出人意料的是，创始人之一拉里﹒佩奇也出场了。谷歌虽然在印度也遭遇反垄断调查等不愉快的经历，但是，毕竟没有出现因反对接受审查愤而退出中国市场这样激进的行为。周日下午莫迪在硅谷与可汉学院创始人萨尔曼会谈。萨尔曼老爸来出孟加拉国，老妈来自印度。</p>
-<p>莫迪宣布成立印美创投基金 BHARAT Fund。Linkedin创始人等一批互联网成功人士以及一批孵化器负责人前来助阵。莫迪说，创业公司最贴近他的内心。这次莫迪全方位搅动硅谷，搞起了一场40家印度裔创业公司的产品大展，展示印度创业生力军，顺便也在硅谷集中推销这些公司。</p>
-<p>莫迪硅谷36小时的最高潮开始了！真正摇滚乐般的狂欢。圣何塞SAP中心将挤满1万8千人(报名人五万多)，聆听莫迪演讲。让人惊呼：硅谷要成印度主场了！印度著名歌手Kailash Kher先暖场，18000印度人今夜将硅谷变成摇滚舞台。莫迪说，在这里找到了力量。今天印度人全面占领硅谷，不但人多势众，而且几大巨头的CEO都陆续由印度人执掌了。老莫在硅谷的主场感觉非常爽啊！</p>
-<p>老莫通过他1520万粉丝的推特账号直播了整个行程，印度全国网民与他任意互动。当然，最根本的，老莫是为印度摇旗呐喊而来。</p>
-<p>对比莫迪，习胖子在西雅图显得拘谨呆板。除了使馆组织的，很少自发欢迎，自发抗议的倒是不少。到哪里都严密保安，处处防范大众，在大众与自己之间精心构造一个缓冲隔离区，防止大众找到接触到自己，连行程都要事先保密。即使这样，仍有访民冲破警察阻拦，成功截住习车队。国内截访，导致国外截访的奇观，实在应该让中共反省。而反观人家莫迪，全程网上直播，网民任意与之互动，专门有团队处理网民意见。专制与民主，对待人民的态度，高下立下。无论在国内国际用多么高的声音，宣扬自己是为了全中国人民实现中国梦，实现共产主义理想，但在这样冷酷的现实下，很难让人相信这不是一个彻头彻尾的谎言。</p>
-<p>对比西雅图企业界接待二国首脑的态度，美国人民的民心向背已经如冰火一样二重天地。一个满嘴正义理想的高调，对内经济上残酷剥削中产，漠视底层贫困，政治上剥夺人民权力，压迫敢于抗争的人，对外处处献媚，用金钱买承认，用经济绑架道德，是不可能得到民主国家人民的认同。虽然，这一趟美国访问花费中国人民无数血汗钱(比较一下，莫迪只订购30亿美元的飞机)，但是，美国媒体对习访问的冷淡的程度，仍然大出人们的意料。不得已，中共只能出钱让媒体刋登习访美新闻。令人难堪的是，连这样的收费新闻报道，美国媒体都是打出这是广告，以求撇清与中共关系。在美国媒体对莫迪访问的大量报道的背景映衬下，暴露出在中共明知失去民心的焦虑心情下处处应对失据的窘态。</p>
-<p>从访民国外截访领导人，从国内几十万访民长年上访，从维稳费超过军费，从国内频发的暴力事件，中共领导人如今已经不能放心走进中国人群。美国社会上有1亿枪枝，中国大城市买菜刀都要实名制，从理论上说，中国社会要比美国社会安全得多。中国社会问题很多，解决好的标准很难用一句二句话概括，但是，要求中国领导人能够安心在中国人群中散步，中国人民可以随意与之交谈，这样的要求对于莫迪奥巴马来说无疑是低标准的。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">中国领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%BA%A6/?category=18271" rel="tag">印度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%BF%AA/?category=18271" rel="tag">莫迪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/" target="cdt-mirror">微信｜中国领导人已经不能放心走进中国人群</a>
-</h2>
-<p><p>在习近平到达西雅图后，印度总理莫迪也到了硅谷进行了两天36小时旋风式的访问，除了访问一系列高科技公司外，还在硅谷进行万人集会演讲。据说报名参加的有5万人。很受印度人欢迎。</p>
-<p>莫迪最先造访的是特斯拉，后又进苹果家。刚刚傍晚时分，他的硅谷行渐入高潮，列队接见的就是高科技领域的其他大拿，包括MicroSoft`s Satya Nadella, Google`s Sundar Pichai, Qualcomm`s Paul Jacobs, Cisco`s John Chambers, Adobe`s Shantanu Narayen and TiE`s Venk Shukla。</p>
-<p>周日莫迪先去拜访扎克伯格，Facebook总部召开盛大的市民大会欢迎莫迪，小札亲自主持问答环节。莫迪说：“社交媒体可以告诉政府你做错了什么，这是民主的新力量”。(你对比一下脸书在中国的待遇。)小札面对知音也是蛮拼的，将自己Facebook账号的个人头像也改为以印度三色旗为背景，以示对数字印度计划的支持。小札父母还出来陪同莫迪散步。</p>
-<p>从Facebook出来，莫迪就直奔谷歌而去。而除谷歌印度裔CEO“劈柴”先生（Sunder Pichai）出来迎接之外，董事长施密特也来了。更出人意料的是，创始人之一拉里﹒佩奇也出场了。谷歌虽然在印度也遭遇反垄断调查等不愉快的经历，但是，毕竟没有出现因反对接受审查愤而退出中国市场这样激进的行为。周日下午莫迪在硅谷与可汉学院创始人萨尔曼会谈。萨尔曼老爸来出孟加拉国，老妈来自印度。</p>
-<p>莫迪宣布成立印美创投基金 BHARAT Fund。Linkedin创始人等一批互联网成功人士以及一批孵化器负责人前来助阵。莫迪说，创业公司最贴近他的内心。这次莫迪全方位搅动硅谷，搞起了一场40家印度裔创业公司的产品大展，展示印度创业生力军，顺便也在硅谷集中推销这些公司。</p>
-<p>莫迪硅谷36小时的最高潮开始了！真正摇滚乐般的狂欢。圣何塞SAP中心将挤满1万8千人(报名人五万多)，聆听莫迪演讲。让人惊呼：硅谷要成印度主场了！印度著名歌手Kailash Kher先暖场，18000印度人今夜将硅谷变成摇滚舞台。莫迪说，在这里找到了力量。今天印度人全面占领硅谷，不但人多势众，而且几大巨头的CEO都陆续由印度人执掌了。老莫在硅谷的主场感觉非常爽啊！</p>
-<p>老莫通过他1520万粉丝的推特账号直播了整个行程，印度全国网民与他任意互动。当然，最根本的，老莫是为印度摇旗呐喊而来。</p>
-<p>对比莫迪，习胖子在西雅图显得拘谨呆板。除了使馆组织的，很少自发欢迎，自发抗议的倒是不少。到哪里都严密保安，处处防范大众，在大众与自己之间精心构造一个缓冲隔离区，防止大众找到接触到自己，连行程都要事先保密。即使这样，仍有访民冲破警察阻拦，成功截住习车队。国内截访，导致国外截访的奇观，实在应该让中共反省。而反观人家莫迪，全程网上直播，网民任意与之互动，专门有团队处理网民意见。专制与民主，对待人民的态度，高下立下。无论在国内国际用多么高的声音，宣扬自己是为了全中国人民实现中国梦，实现共产主义理想，但在这样冷酷的现实下，很难让人相信这不是一个彻头彻尾的谎言。</p>
-<p>对比西雅图企业界接待二国首脑的态度，美国人民的民心向背已经如冰火一样二重天地。一个满嘴正义理想的高调，对内经济上残酷剥削中产，漠视底层贫困，政治上剥夺人民权力，压迫敢于抗争的人，对外处处献媚，用金钱买承认，用经济绑架道德，是不可能得到民主国家人民的认同。虽然，这一趟美国访问花费中国人民无数血汗钱(比较一下，莫迪只订购30亿美元的飞机)，但是，美国媒体对习访问的冷淡的程度，仍然大出人们的意料。不得已，中共只能出钱让媒体刋登习访美新闻。令人难堪的是，连这样的收费新闻报道，美国媒体都是打出这是广告，以求撇清与中共关系。在美国媒体对莫迪访问的大量报道的背景映衬下，暴露出在中共明知失去民心的焦虑心情下处处应对失据的窘态。</p>
-<p>从访民国外截访领导人，从国内几十万访民长年上访，从维稳费超过军费，从国内频发的暴力事件，中共领导人如今已经不能放心走进中国人群。美国社会上有1亿枪枝，中国大城市买菜刀都要实名制，从理论上说，中国社会要比美国社会安全得多。中国社会问题很多，解决好的标准很难用一句二句话概括，但是，要求中国领导人能够安心在中国人群中散步，中国人民可以随意与之交谈，这样的要求对于莫迪奥巴马来说无疑是低标准的。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BF%83%E8%B5%B0%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BE%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">中国领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%BA%A6/?category=18271" rel="tag">印度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%BF%AA/?category=18271" rel="tag">莫迪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -729,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -739,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

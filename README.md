@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%AD%9F%E7%BE%A4%E3%80%81%E7%BE%8E%E5%9B%BD%E8%AE%BF%E6%B0%91%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-04/" target="cdt-mirror">【敏感词库】孟群、美国访民等近日热点2015-10-04</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/04/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/04/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg" alt="习近平" width="321" height="427"></a><br><em>(图片作者：李小乖)</em></p>
+<p>[ 测试时间：2015年10月4日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
+<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
+<p><strong>孟群 </strong>(详见：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/"><span>亚洲周刊</span><span> | </span></a><span><a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/">一个妻子的这一年</a>）</span><br><strong> 葛丽芳＋车队</strong><br><strong> 访民＋美国</strong> (详见：<a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/">马永田</a><span>拦车上访）</span></p>
+<p><strong>共贼</strong></p>
+<p><strong>习帝王</strong><br><strong> 习＋女儿</strong><br><strong> 习＋肖建华</strong><br><strong> 习近平＋股份</strong><br><strong> 包子＋中国梦</strong><br><strong> 包子＋专制</strong></p>
+<p><strong>610办＋令计划</strong><br><strong> 610办＋中共</strong><br><strong> 外交部 + 江</strong></p>
+<p><strong>中国泛蓝联盟</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%9F%E7%BE%A4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%9F%E7%BE%A4.png" alt="孟群" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%91%9B%E4%B8%BD%E8%8A%B3%EF%BC%8B%E8%BD%A6%E9%98%9F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%91%9B%E4%B8%BD%E8%8A%B3%EF%BC%8B%E8%BD%A6%E9%98%9F.png" alt="葛丽芳＋车队" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BE%8E%E5%9B%BD-%E8%AE%BF%E6%B0%91.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BE%8E%E5%9B%BD-%E8%AE%BF%E6%B0%91.png" alt="美国 + 访民" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%B1%E8%B4%BC.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%B1%E8%B4%BC.png" alt="共贼" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E5%B8%9D%E7%8E%8B.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E5%B8%9D%E7%8E%8B.png" alt="习帝王" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A5%B3%E5%84%BF%EF%BC%8B%E4%B9%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A5%B3%E5%84%BF%EF%BC%8B%E4%B9%A0.png" alt="女儿＋习" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0-%E8%82%96%E5%BB%BA%E5%8D%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0-%E8%82%96%E5%BB%BA%E5%8D%8E.png" alt="习 + 肖建华" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%A1%E4%BB%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%A1%E4%BB%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3.png" alt="股份 + 习近平" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E5%8C%85%E5%AD%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E5%8C%85%E5%AD%90.png" alt="中国梦 + 包子" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%93%E5%88%B6-%E5%8C%85%E5%AD%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%93%E5%88%B6-%E5%8C%85%E5%AD%90.png" alt="专制 + 包子" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BB%A4%E8%AE%A1%E5%88%92-610%E5%8A%9E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BB%A4%E8%AE%A1%E5%88%92-610%E5%8A%9E.png" alt="令计划 + 610办" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%85%B1-610%E5%8A%9E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%85%B1-610%E5%8A%9E.png" alt="中共 + 610办" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F-%E5%A4%96%E4%BA%A4%E9%83%A8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F-%E5%A4%96%E4%BA%A4%E9%83%A8.png" alt="江 外交部" width="475" height="204"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F.png" alt="中国泛蓝联盟" width="475" height=""></a></p>
+<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%AD%9F%E7%BE%A4%E3%80%81%E7%BE%8E%E5%9B%BD%E8%AE%BF%E6%B0%91%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-04/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85%AC%E5%AE%A4/?category=18271" rel="tag">610办公室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习近平包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%BE%A4/?category=18271" rel="tag">孟群</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%BD%E6%88%88%EF%BC%9A%E7%88%B1%E5%9B%BD%E7%9A%84%E8%AF%AF%E5%8C%BA/" target="cdt-mirror">羽戈：爱国的误区</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%8D%A7%E5%85%9A%E6%97%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%8D%A7%E5%85%9A%E6%97%97.jpg" alt="捧党旗" width="385" height="454"></a><br><em>（网络图片）</em></p>
@@ -685,58 +705,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9F%B3%E5%9F%8E%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E6%A1%88%E4%BC%9A%E6%88%90%E4%B8%BA%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88%E5%90%97%EF%BC%9F/" target="cdt-mirror">柳城连环爆炸案会成为另一个厦门公交爆炸案吗？</a>
-</h2>
-<p><p>破案速度、过程、结论都惊人地一致</p>
-<p><span><em><strong>事件回顾：</strong></em></span></p>
-<h2><strong><a href="http://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88/">厦门公交爆炸案</a></strong><strong>：</strong></h2>
-<ol><li>2013年6月7日，厦门发生了造成47死、34人伤的公交爆炸案。</li>
-<li>6月7日当天，厦门市政府当天将该事件认定为严重刑事案件。</li>
-<li>6月8日傍晚，当地政府宣告破案，称经现场访查与DNA比对后，认定纵火嫌犯是现年五十九岁市民陈水总、已死于现场，并将其作案动机认定为“生活不如意、悲观厌世”。</li>
-</ol><blockquote><p><strong>相关阅读：</strong></p>
-<h4><a title="Permanent Link to 【网络民议】民间质疑厦门公交爆炸案调查结果" href="http://chinadigitaltimes.net/chinese/2013/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B0%91%E9%97%B4%E8%B4%A8%E7%96%91%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/" rel="bookmark"><strong>【网络民议】民间质疑厦门公交爆炸案调查结果</strong> </a></h4>
-<h4><strong><a href="http://chinadigitaltimes.net/chinese/2013/06/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E9%99%88%E6%B0%B4%E6%80%BB%E6%98%AF%E5%A6%82%E4%BD%95%E7%82%BC%E6%88%90%E7%9A%84/">宋志标：“陈水总”是如何炼成的</a></strong></h4>
-<p>“迄今为止，福建方面并没有公布公交纵火案的证据。厦门日报所说的公布，不过是公布一个结论而已，并没有证据的详情。在没有严密的、可信的证据链坐实陈就是纵火者的时候，报纸舆论已经开始强行推销“陈就是凶手”。就在舆论开始发动，按照套路塑造陈的凶手形象（比如说他孤僻，暗示有复仇心态等）时，网易给于了艰难的、少量的澄清。但这还不够。陈水总与纵火案的后果之间，还缺少有力度的联系。有人说是巴士自燃，有人说汽油不足以造成这样的烧伤，也有人说早在陈上车前就闻到车厢有异味。这些疑问都在否定官家单方面凶手认证的公信力。退一步说，即使政府掌握了确实的证据，但只要这些证据不公开，其推出的结论就很难被采信。没有公布的证据，与没有凶手的纵火，实际上是一样的。”</p>
-</blockquote>
-<h2><strong><a href="http://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/">柳城爆炸案</a>：</strong></h2>
-<ol><li>2015年9月30下午，柳州市柳城县陆续发生了共17起爆炸事件，均由快递包裹内的爆炸装置引发。</li>
-<li>9月30日晚，柳城警方通报否认系列爆炸为暴力恐怖袭击，并称已锁定犯罪嫌疑人为柳城县大埔镇的韦银勇。</li>
-<li>10月1日8上午，柳城再度发生一起与之前类似的爆炸，当地政府暂停了部分快递服务。</li>
-<li>10月2日下午，柳城警方宣布案件告破，称在经过DNA鉴定后，确认嫌疑人韦银勇在案发现场被炸身亡。</li>
-</ol><blockquote><p><strong>相关阅读：</strong></p>
-<h4><strong><a href="http://chinadigitaltimes.net/chinese/2013/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B0%91%E9%97%B4%E8%B4%A8%E7%96%91%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/">【网络民议】柳城警方迅速排除暴恐遭质疑</a></strong></h4>
-<h4><strong><a href="http://china.caixin.com/2015-10-02/100860247.html">财新网｜官媒称柳城县连环爆炸案告破 嫌犯现场身亡</a></strong></h4>
-<p>新华社10月2日消息，记者从广西柳州公安机关获悉，经缜密侦查，9月30日发生在广西柳城县的一起多点爆炸案，已成功侦破。</p>
-<p>警方经现场勘查、调查访问以及相关视频和痕迹检验，获取了相关证据，形成了完整的证据链，认定爆炸案系广西柳城县大埔镇33岁男子韦银勇所为。警方经DNA鉴定，确认嫌疑人韦银勇在案发现场被炸身亡。</p>
-<p>初步查明，犯罪嫌疑人韦银勇自制定时爆炸装置，通过自己投放和谎称寄送包裹雇人运送的方式，利用拆包爆炸和定时引爆两种手段先后在多处制造爆炸，致10人死亡、51人不同程度受伤。</p>
-<p>另据初步查明，犯罪嫌疑人韦银勇因采石生产与附近村民、相关单位产生矛盾而制造这起案件。</p>
-<p>案件发生后，柳州市和当地党委、政府立即组织公安、消防、卫生等部门赶赴现场开展处置工作。公安部、广西壮族自治区公安厅与当地公安机关迅速成立联合专案组，全力开展案件侦破和善后处置工作。目前，伤员已得到有效救治，善后工作正在有序展开。</p>
-</blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@三个火烫手：不得不佩服当地警方的睿智，不但在爆炸发生一个小时内确定为刑事案件还确定了嫌疑人，不但把事情确定而且还发现嫌疑人已经死亡。通过死亡准确推断了犯罪动机。在国外嫌疑人一死线索就断了，在国内人一死案子就破了。我想这就是国外警方与国内先进的刑侦手段差距吧</p>
-<p><a href="http://weibo.com/3917602189" target="_blank">一块去骑行</a>： 一到这种歌功颂德的时候各种单位部门一个不落的全部体现在新闻里，生怕不知道你们为了这个操碎了心。然而一到出事需要担责任的时候往往只有四个字:有关部 门。我想知道1、嫌犯到底因何原因和附近村民、相关单位产生矛盾？2、相关单位到底是哪些单位？3、最后一段是TM是废话！<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
-<p><a href="http://weibo.com/sweetman945" target="_blank">白兔老爸</a>：成功告破!不错，可以开庆功表彰大会了。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p><a href="http://weibo.com/5693208149" target="_blank">总说老的小姑娘</a>：这一次招真是高明，死无对证，你们说什么就是什么了<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"></p>
-<p><a href="http://weibo.com/1151494057" target="_blank">新有浪</a>：这做新闻的，关键的“对象针对性犯案还是对象随机性发泄”都不知要表述一下啊<img title="[汗]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]"></p>
-<p>@夜行千里路：受害者家属情绪稳定。</p>
-<p><a href="http://weibo.com/2820565537" target="_blank">FFF_JJJ</a>：信了<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p>@总说老的小姑娘：这一次招真是高明，死无对证，你们说什么就是什么了</p>
-<p>@姚克玄：又要感动庆功啦！</p>
-<p>@大叔-爱吐槽：之前说抓获了嫌疑人，原来抓获的是尸体。还有这是史上最强采石工吗？</p>
-<p>@taorock二号：没有最后一段你们丫是不是都不会写新闻了，艹</p>
-<p>@枸杞子红领巾：之前怀疑医患纠纷，，现在又是采石场纠纷！有些真相真不知道信不信</p>
-<p>@饶生丶：担责任的时候只有有关部门，表彰了就啥狗屁机构都上榜了</p>
-<p>@杨黛丽：被炸死的遇难者有叫“韦银勇”的，这个我信…………………………………………………………………………………………</p>
-<p>@馍馍牛：又是自己把自己炸死了。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2013/06/womenzaicheshang.jpg" alt="" width="400" height="598"><br><em>（“其实 我们都在车上” by 巴丢草）</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9F%B3%E5%9F%8E%E8%BF%9E%E7%8E%AF%E7%88%86%E7%82%B8%E6%A1%88%E4%BC%9A%E6%88%90%E4%B8%BA%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%86%85%E9%83%A8%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">人民内部矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -748,7 +716,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -758,5 +726,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

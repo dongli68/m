@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%95%BF%E5%AE%89%E5%89%91%EF%BC%9A%E5%85%B3%E4%BA%8E%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8%E6%A1%88%E7%9A%84%E5%9B%9B%E4%B8%AA%E8%B4%A8%E7%96%91/" target="cdt-mirror">【异闻观止】长安剑：关于柳城爆炸案的四个质疑——为你逐条解惑</a>
+</h2>
+<p><p><em><strong>【编者注】这篇文章由柳州公安<a href="http://weibo.com/lzsgaj#_rnd1443957719493">微博账号</a>首发，目前阅读量已超过10万。然而这个“长安剑”是谁？有什么资质辟谣？柳州公安却没有作任何说明。如果是官方辟谣，该文则语言过于轻佻，充满主观臆测，极其不专业。而如果是非官方辟谣，一个身分不明的人用诸如“no zuo no die”这样的文字风格撰文辟谣，则毫无可信度可言。</strong></em></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8%E6%A1%88%EF%BC%9A%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%BD%91%E6%B0%91%E4%B8%8D%E6%9C%8D/">BBC｜广西柳城爆炸案：警方辟谣网民不服</a></p></blockquote>
+<p>昨天，新华社消息，柳城爆炸案已成功侦破。作案人是柳城县33岁男子韦银勇，他自制定时爆炸装置，通过自己投放和雇人送包裹的方式，利用拆包爆炸和定时引爆两种手段，先后在多处制造爆炸，致10人死亡、51人受伤。警方经DNA鉴定，确认嫌疑人韦银勇在案发现场被炸身亡。韦银勇系因采石生产与附近村民、相关单位产生矛盾，而制造这起案件。</p>
+<p>案子迅速告破，大家都从恐惧和揪心中松了一口气。安全感对每个人来说都弥足珍贵，长安君也看到不少网友为在前线连续作战、彻夜不眠的警察蜀黍点赞。但同时，长安君也看到一些质疑。照理说，有质疑是正常的，在很多事件中，网友们都在用“倒逼”的方式推动制度改革和社会进步。但在此事的质疑中，长安君看到的不是理性思考，有些甚至是“有罪推定”，这显然不符合法治的精神，让我如鲠在喉，不吐不快。</p>
+<p><strong>　质疑一：破案太快，犯罪嫌疑人死无对证，警方有掩盖真相之嫌</strong></p>
+<p>这种说法真是简直了，典型的“阴谋论”。</p>
+<p>如果破案进程受阻、迟滞，就说警方办案不力，破案迅速又说在掩盖真相。那么，请告诉长安君，办案究竟是快好呢，还是慢好呢？</p>
+<p>更何况，警察蜀黍并不是吃素的！监控录像锁定了犯罪嫌疑人，韦银勇一次次地把“包裹”送出，每一个录像上都是他的脸啊！用专业的话说，是“柳州警方经现场勘查、调查访问以及视频和痕迹检验，获取了相关证据，形成了完整证据链，认定爆炸案系韦银勇所为。”而且，最后经DNA鉴定，确认其在案发现场被炸身亡。</p>
+<p>对警方办案总进行“有罪推定”，无助这个社会弥合裂痕，修复伤口。柳城案发后，有一句话在网上疯转——“有一种无畏叫迎着炸弹前行”。警方究竟在做什么，柳城百姓最有发言权，让长安君湿了眼眶的，是贴在小超市门口的：“免费为警察提供饮料和食品”；是商店橱窗上手写的：“向用生命在拆弹的兄弟们致敬！”</p>
+<p><strong>　　质疑二：是谁将韦银勇逼上绝路？</strong></p>
+<p>让长安君忍不住要发这个帖子的，就是这个观点。这种说法看着太眼熟了，每有突发事件，这种观点就会出来。答案是：是政府造成的，是体制造成的……长安君实在怀疑，坐在电脑后面说同一类话的，是不是每次也都是同一批人？把上次事件中说的话从电脑里调出来，换一个新的事件中的人名，就可以轻松点击发送了？</p>
+<p>这算什么？！算悲天悯人的情怀吗？算对社会深沉的爱和责任吗？你对事情进行调查了解了吗？新闻里说，韦银勇是因采石生产与附近村民、单位产生了矛盾。长安君在网上看到，柳城一些了解情况的网友在网上发帖，是韦银勇的采石作业压坏了道路，让当地果农的果子运送不出去，产生了矛盾，说是“政府一直在协调”。</p>
+<p>长安君没去过柳城，也不了解韦银勇和当地老百姓的具体矛盾，但至少，不了解的时候不应说不负责任的话！</p>
+<p>退一万步说，韦银勇即使有天大的委屈，就能如此手段残忍、丧心病狂吗？如果无辜的受害人是电脑后面的质疑君你本人，或者是你的亲人，你还能说出这样的话吗？</p>
+<p>长安君不喜欢说刻薄的话，但在这件事里，真的不是社会有病，而是犯罪嫌疑人自己有病（no zuo no die），电脑后面的质疑君，你，也病了吗？</p>
+<p><strong>　　质疑三：明明是暴恐事件，警方为何定性为刑事案件？</strong></p>
+<p>对此观点，长安君一开始也是赞同的，这么严重的事件，伤及这么多无辜，怎么不是暴恐事件？警方是怕造成社会震荡，故意定性往小里说吧？但长安君因为不是专业人士，在打算跟帖支持前，总得请教了专家才安心。结果一请教专家，才发现自己其实是无知了。反恐专家告诉长安君，必须同时具备以下3个特征，才算得上是恐怖主义行为：</p>
+<p>第一，是一种随意伤害无辜平民的暴力行为，恐怖袭击的目标为非军事目标；第二，是一种有确定政治目的的复仇行为；第三，是一种体现某种“意识形态”的有组织化特征的暴力复仇活动。</p>
+<p>看到了吧，关键词有三，“随意伤害无辜”“有政治目的”“有组织化”，三个里面有两个与韦银勇无关。看来不是只要严重的暴力犯罪就是暴恐。长安君明白了，就不会再随意发帖了。请问发帖质疑的网友，你们在发之前，也请教了专业人士吗？</p>
+<p><strong>　　质疑四：犯罪嫌疑人在购买、制造炸药的过程中，政府部门有监管失职之责，应当追责。</strong></p>
+<p>对这一点，长安君可以提醒一句：新闻里说的清楚，韦银勇是搞采石生产的，开山炸石本身就是他的工作内容，他能够通过合法途径获取炸药。这就好比有人用刀杀人，你不能说生产刀的和卖刀的人有问题。安监局的小伙伴这回有些“躺枪”。</p>
+<p>但是，长安君也认为监管部门不是一点儿责任没有。据我所知，炸药的使用量是有严格要求的，当天的炸药要当天用完。韦银勇显然是偷偷留存了。安监部门应吸取这起案件的惨痛教训，提高危爆品的管理手段和水平，实时跟进使用单位危爆品持有量，防患于未然。</p>
+<p>长安君并不是反对一切质疑，只是，质疑是容易的，建设则难得多。我们的社会，更需要多一些建设。比如此刻，长安君就想跟警察蜀黍说：“听说你们还在一个一个地排查包裹，辛苦了！但是，这也是职责所在，希望你们尽快排除隐患，妥善处理死伤人员和家属的后续事宜。”也想跟当地政府和其他有关部门说一句，“感谢你们为大家做的一切！但希望我们能有更畅通的利益诉求表达渠道，包括矛盾调解、权益保障、心理干预、法治教育的机制完善，修复社会创伤。比如像韦银勇这样严重心理扭曲失衡的人，我们的政府是否了解，是否进行过有效干预？”</p>
+<p>有教训可以总结，有漏洞需要弥补。我们同在中国，没有人可以独善其身，也没有人可以远远站在道德高地指点江山，要让我们的生活更美好，需要所有人的努力。最后，想引用一段柳城网友发的帖子，这个帖子长安君当时就看哭了——</p>
+<p>“天黑的时候。穿过大半个县城，看到许多警察在值守。这一夜，多少人无眠。这一夜，内心里对他们充满了敬意。一些警察穿着防弹衣。而更多的值勤警察，只是穿着普通制服。是他们的生命逆行，在守护我们的平安。宝贝在我身边安睡，而这些小警察们，他们也是母亲的宝贝，妻子的依靠，孩子的父亲。祝他们平安。”</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%95%BF%E5%AE%89%E5%89%91%EF%BC%9A%E5%85%B3%E4%BA%8E%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8%E6%A1%88%E7%9A%84%E5%9B%9B%E4%B8%AA%E8%B4%A8%E7%96%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%AD%9F%E7%BE%A4%E3%80%81%E7%BE%8E%E5%9B%BD%E8%AE%BF%E6%B0%91%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-04/" target="cdt-mirror">【敏感词库】孟群、“包子中国梦”等近日热点 2015-10-04</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/04/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/04/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg" alt="习近平" width="321" height="427"></a><br><em>(图片作者：李小乖)</em></p>
+<p>[ 测试时间：2015年10月4日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
+<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
+<p><strong>孟群 </strong>(详见：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/"><span>亚洲周刊</span><span> | </span></a><span><a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/">一个妻子的这一年</a>）</span><br><strong> 葛丽芳＋车队</strong><br><strong> 访民＋美国</strong> (详见：<a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/">马永田</a><span>拦车上访）</span></p>
+<p><strong>共贼</strong></p>
+<p><strong>习帝王</strong><br><strong> 习＋女儿</strong><br><strong> 习＋肖建华</strong><br><strong> 习近平＋股份</strong><br><strong> 包子＋中国梦</strong><br><strong> 包子＋专制</strong></p>
+<p><strong>610办＋令计划</strong><br><strong> 610办＋中共</strong><br><strong> 外交部 + 江</strong></p>
+<p><strong>中国泛蓝联盟</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%9F%E7%BE%A4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%9F%E7%BE%A4.png" alt="孟群" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%91%9B%E4%B8%BD%E8%8A%B3%EF%BC%8B%E8%BD%A6%E9%98%9F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%91%9B%E4%B8%BD%E8%8A%B3%EF%BC%8B%E8%BD%A6%E9%98%9F.png" alt="葛丽芳＋车队" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BE%8E%E5%9B%BD-%E8%AE%BF%E6%B0%91.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BE%8E%E5%9B%BD-%E8%AE%BF%E6%B0%91.png" alt="美国 + 访民" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%B1%E8%B4%BC.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%B1%E8%B4%BC.png" alt="共贼" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E5%B8%9D%E7%8E%8B.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E5%B8%9D%E7%8E%8B.png" alt="习帝王" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A5%B3%E5%84%BF%EF%BC%8B%E4%B9%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A5%B3%E5%84%BF%EF%BC%8B%E4%B9%A0.png" alt="女儿＋习" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0-%E8%82%96%E5%BB%BA%E5%8D%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0-%E8%82%96%E5%BB%BA%E5%8D%8E.png" alt="习 + 肖建华" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%A1%E4%BB%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%A1%E4%BB%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3.png" alt="股份 + 习近平" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E5%8C%85%E5%AD%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E5%8C%85%E5%AD%90.png" alt="中国梦 + 包子" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%93%E5%88%B6-%E5%8C%85%E5%AD%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%93%E5%88%B6-%E5%8C%85%E5%AD%90.png" alt="专制 + 包子" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BB%A4%E8%AE%A1%E5%88%92-610%E5%8A%9E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BB%A4%E8%AE%A1%E5%88%92-610%E5%8A%9E.png" alt="令计划 + 610办" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%85%B1-610%E5%8A%9E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%85%B1-610%E5%8A%9E.png" alt="中共 + 610办" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F-%E5%A4%96%E4%BA%A4%E9%83%A8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F-%E5%A4%96%E4%BA%A4%E9%83%A8.png" alt="江 外交部" width="475" height="204"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F.png" alt="中国泛蓝联盟" width="475" height=""></a></p>
+<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%AD%9F%E7%BE%A4%E3%80%81%E7%BE%8E%E5%9B%BD%E8%AE%BF%E6%B0%91%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-04/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85%AC%E5%AE%A4/?category=18271" rel="tag">610办公室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习近平包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%BE%A4/?category=18271" rel="tag">孟群</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%AD%9F%E7%BE%A4%E3%80%81%E7%BE%8E%E5%9B%BD%E8%AE%BF%E6%B0%91%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-04/" target="cdt-mirror">【敏感词库】孟群、美国访民等近日热点2015-10-04</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/04/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/04/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg" alt="习近平" width="321" height="427"></a><br><em>(图片作者：李小乖)</em></p>
@@ -663,48 +718,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/k%E5%8D%9A-%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%88%98%E4%BA%89%EF%BC%9A%E4%BB%8E%E4%B8%80%E7%9B%86%E6%B1%A4%E5%88%B0%E6%9F%B3%E5%9F%8E/" target="cdt-mirror">K博 | 一个人的战争：从一盆汤到柳城</a>
-</h2>
-<p><p>一家火锅店，一个不满18岁的男招待，还有一位中年女顾客，然后因为一盆热汤浇下的视频，演成互联网上的争战。最后，有太多义正严辞的声音、包括公知们重新奋起的长篇论述，都指向了这位青年店员，如何不守待客之道、不懂服务规范，如何以身试法、破坏基本的社会秩序。对肇事男招待如此众口一致的口诛笔伐，居然大行其道，充满着赤裸裸的阶级歧视，不禁让人想起多年前的杨佳案，何其相似的系统性暴力和反抗？！简直不啻为一场阶级战争。</p>
-<p>阶级战争？听起来似乎那么熟悉，又那么陌生。如果把文革乃至之前的历次政治运动，土改、三反五反、反右、四清等等，都理解为官方发动的阶级战争，可能并不错。毛在临终前念念不忘的政治遗产，就是这些以阶级斗争为纲的“全面内战”。当然，在西方的民主语境下，只有阶级调和和阶级合作，阶级冲突通常被置于社会冲突的范畴内。只到最近几年，因为美国语言学家、社会批判者乔姆斯基先后对占领华尔街运动、对叙利亚内战、对希腊金融危机的评价，阶级战争才又重新进入到了公共话语。而乔姆斯基对阶级战争概念的使用，既指华尔街金融资产阶级对世界人民财富的剥夺，也包括希腊劳动阶级的激烈反抗。尤其在伦敦骚乱、弗格森骚乱、巴尔的摩骚乱等这样充满种族色彩的街头骚乱中，人们也惊讶地发现了，是阶级战争而非传统种族冲突的样式，似乎正在世界各地的反叛与社运潮流中，形成一个最为激进的潮流。</p>
-<p>那么，究竟什么是阶级战争呢？在和平时代，1968革命中的德国红军派给出了答案。红军派领袖麦因霍夫在一篇1971年论城市游击战的文章中，反复论述着城市游击战和阶级战争的关系，称，城市游击战就是阶级战争的一种武器，可以更简单、有效地鼓动和宣传，反对资本主义制度和帝国主义。尽管在红军派之后，欧洲的类似组织如革命细胞、红色旅，中东的“红九月”和北美的黑豹党等等，到了1980年代便逐渐式微，世界范围内只剩下北爱的“共和军”和南美的若干游击队。但是，英国威尔士地区从1980年代初出现了一份地方报纸，名曰The Alarm，以及后来的一份杂志Class War，继承了60年代的激进主义。他们在关注政府腐败的同时，倡导阶级斗争需要暴力，因为整个民主体制都是基于强制暴力的使用而建立起来的，而统治阶级是对人类最为危险的。</p>
-<p>这种观点，也代表着阶级战争的另一面，即乔姆斯基今天对金融资产阶级的批判。而历史上，按照著名社运学家查尔斯.蒂利对欧洲资本主义500年历史的研究，在资本密集主导的资本主义发展过程中，还伴随着强制暴力的密集及其制度化，即对内战争和福科意义上的规训，任何一点民主的进步都是经过激烈的抗争和残酷的暴力镇压的相互冲突。哈尔珀琳的研究也证实，在法国大革命之后，尽管有着1814年到1914年之间的“百年和平期”，欧洲内部没有发生大规模的多边战争，但是欧洲国家发动了十四场国内战争和十二场反对其他国家人民的战争；在欧洲以外，它们则发动了五十八场战争。这些内战和对外的殖民战争，便是无产阶级进行阶级斗争的同时由资产阶级控制的现代国家所发动的阶级战争。</p>
-<p>在中国当下，这种由统治阶级发动的压迫性阶级战争其实早已展开，资本和国家强制紧密结合，甚至辅以有组织犯罪暴力，进行强制土地拆迁，一场每天都在各地上演的充满血腥的阶级战争。针对工人罢工和城市居民集体抗争的镇压也愈趋暴力，大规模逮捕，大规模街头镇压已经是新常态。当然，另一场更隐秘也更早的阶级战争，则以强制计划生育的方式已经贯行数十年，直接以被统治阶级的家庭和女性的子宫为新的专政对象。</p>
-<p>而阶级战争的另一面，如马克思对法兰西内战的经典论述，表明了尽管工人阶级主导的阶级战争根本无力对抗训练有素的国家机器，但是无需政党领导，而且只有在无政党条件下才可能获得充分民主和自治，不至于坠入后来列宁主义的无产阶级专政道路。而这场1871年巴黎公社的最初经验，仍然启发着今天的阶级战争，阶级战争作为劳工阶级或底层阶级的一种反抗，本身就是民主的、自发的。意味着，阶级战争的方式也从城市游击战转向了个人化的破坏，无政府主义的反抗，如隐形委员会。这大概可以解释2011年底伦敦骚乱的部分思想起源，英国媒体当时也很快地意识到这场骚乱的阶级战争性质。如果以这样一个框架重新审视2005年的巴黎烧车事件，结果自然是惊人的。类似的，最新的美国弗格森和巴尔的摩黑人骚乱也因此不能再以所谓种族问题看待，而是新的阶级战争，一种个人化阶级反抗在新媒体时代的快速传播和聚合。</p>
-<p>正是在这个意义上，无论是否需要借助互联网，一个人的战争都有其可能，只要他或她如杨佳一般把个人冲突或者伤害理解为阶级压迫然后对之采取暴力反抗。这是在暴力强制力量已经被资本和国家高度垄断之下唯一可能改变暴力极度不对称分布的解决，与城市游击战的逻辑并无分别。自然，也大大区别于消极反抗的反社会行为，如一些反社会的女权主义者所倡导的：故意闯红灯、乱穿马路、进入地铁站拒绝安检、互换身份证生活、随意拧开公共水龙头、甚至拒剃腋毛等。相反，如温州火锅店的那位年轻学徒，在遇到中产阶级顾客呵斥时，直接以个体暴力方式回击，颠覆这种被服务规范所美化的阶级秩序，便是一种一个人的阶级战争了。</p>
-<p>它的直接后果，就是引发整个统治阶级及其附庸阶级的极大恐慌，如夏俊峰手刃城管、范木根对强拆的反抗，几乎直接动摇着整体的统治秩序。另一方面，中国社运中还存在着屠夫吴淦和艾未未，两位分别来自草根维权和艺术界的“行为艺术大师”，他们总是以“网络化的个人”、以对抗性的语言和艺术形式反击着种种凝聚着象征性暴力的国家－个人关系，同样引发着统治阶级的不安和报复。</p>
-<p>因此，当杨佳、夏俊峰、范木根等一个人的阶级战争已经开始，温州火锅店学徒的一盆热汤也不过是这场阶级战争的继续，也再没有什么“依法抗争”的框架可以束缚抗争行动、粉饰阶级秩序了。工人阶级、市民阶级和农民阶级的双手、双脚和手头一切可用的工具、材料，甚至呐喊，都可能转化为阶级战争的武器，并且汇聚成集体的反抗。那已经在过去十几年每年递增的所谓群体性事（Fan）件（Kang）中得到了印证，也似乎被公知们对这位温州小伙的最大恶意、被“9-3阅兵”前夕空前严密的安保措施反证了。而未来一切着力于强化既有阶级结构和统治秩序的历史倒退，都将加速更大规模的阶级战争的到来。</p>
-<p>这篇评论写完没有几周，柳城连环爆炸了。如官方所言，确实不是暴恐，而是阶级战争，一个人的战争。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/k%E5%8D%9A-%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%88%98%E4%BA%89%EF%BC%9A%E4%BB%8E%E4%B8%80%E7%9B%86%E6%B1%A4%E5%88%B0%E6%9F%B3%E5%9F%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">社会阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7%E6%96%97%E4%BA%89/?category=18271" rel="tag">阶级斗争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%862020%E5%B9%B4%E6%88%96%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91/" target="cdt-mirror">自由亚洲｜专家认为，中国大陆2020年或全面爆发“光棍危机”</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83.png" alt="" width="429" height="612"></p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A5%B3%E5%90%8C%E8%83%9E%E7%9A%84%E9%80%86%E8%A2%AD/">【网络民议】女同胞的逆袭</a></p></blockquote>
-<p>中国大陆面临严重的男女性别比例失衡问题，适婚男性人口比女性多出数千万。有中国人口学者认为，中国大陆的“光棍”危机可能于2020年全面爆发，届时中国单身男将数以千万计，将造成严重的社会问题。</p>
-<p>中国《第一财经日报》9月30日报道，根据中国国家统计局公布的数据，2014年末，中国大陆男性人口将达7亿多，比女性多3376万。1980年后出生的非婚人口男女比例为136:100，1970后出生的非婚人口男女比高达206:100，男女比例严重失衡。报道认为，中国大陆人口性别比失衡的根本原因 是出生性别比失衡。正常情况下，出生性别比一般介于103和107之间，每出生100个女婴，相应有103至107个男婴。中国大陆的出生性别比1980 年代之前基本正常，1982年为107：100，之后迅速攀升，1990年达到111.3；2000年升至116.9；2004年高达121.18。2008年以来徘徊在117左右高位。</p>
-<p>中国国家卫计委官员在今年初的中国出生人口性别比治理体系创新研讨会上表示，目前中 国大陆出生性别比偏高的后果已经显现，风险进一步聚集和扩大，过去20年，中国出生性别比一直高于115，成为世界上出生性别比失衡最严重的国家。统计数据显示，中国大陆1980年到2014年共出生6.75亿人，平均男女性别比是114.7：100。按此推算，中国男性人口比女性多出3千多万。这数千万多余男性被挤压出婚姻市场，被迫成为“光棍”，形成所谓“婚姻挤出”现象。</p>
-<p>旅美中国学者谢选骏对此分析说:</p>
-<p>“中国文化传统中的重男轻女观念和做法和政府的一胎化政策是导致中国性别失衡的原因。”。</p>
-<p>《第一财经日报》的报道说，华中科技大学中国乡村治理研究中心研究人员刘燕舞在河南、湖北、贵州等地调研发现，未婚的“光棍”男性大部分集中在农村，有些贫困 山区出现了光棍村。男女性别比失衡会造成早婚、订婚、婚姻买卖现象增多，导致婚姻错位、代际争夺及婚外情、第三者插足、非婚生育以及同性恋、性疾病、性犯 罪等社会现象增加，危害社会公共安全。中国性别比失衡问题研究者李树茁警告说，性别比失衡风险通过一定的程式聚集、放大、扩散，可能会促使已有的社会风险 更加复杂化、多样化。</p>
-<p>有中国人口学者认为，中国出生性别比失调是性别偏好、生育数量限制和胎儿性别鉴定这三个因素共同作用的后果，中国严苛的计划生育政策难辞其咎。尽管很多医院畏惧惩罚不敢明明目张胆做胎儿性别鉴定，但是如果是熟人，私下做个B超鉴定性别是很习以为常的事。敬畏胎儿生命的意识依然没有普及，对堕胎并没有罪恶感。因此，要使男女比例恢复正常，最有效的办法就是全面取消生育限制政策。官方资料显示，中国大陆每年人工流产为 2.7亿人次，若加上数量可观的药物流产，总的流产数量更多。</p>
-<p>在海外的中国学者廖然就此建议：</p>
-<p>“中国要想做到老百姓停止从事选择性堕胎，还需要改善养老福利状况，并立法实施真正的男女平等，力图消除重男轻女在法律和社会中的存在。”</p>
-<p>《第 一财经日报》的报道还说，堕胎之所以被中国大部分人看得平常，是因为没有把胎儿当作拥有生命权的个体来尊重。在中国具体法律法规中，对于胎儿权利有许多自相矛盾的规定，比如中国《民法通则》规定，公民的权利能力始于出生，终于死亡，没有出生的胎儿没有公民权力。中国《刑法》则规定，“审判的时候怀孕的妇女不适用死刑”。中国《继承法》明文规定，尚未出生的胎儿享有财产继承权。专家认为，出生性别比严重失衡的状况若不改变，会令中国蒙羞。但这是一个系统工程，需要政府、相关组织、每位公民的积极参与。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%862020%E5%B9%B4%E6%88%96%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%A0%95%E8%83%8E/?category=18271" rel="tag">强制堕胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83/?category=18271" rel="tag">性别失调</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -716,7 +729,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -726,5 +739,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

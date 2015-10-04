@@ -21,9 +21,69 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%BD%E6%88%88%EF%BC%9A%E7%88%B1%E5%9B%BD%E7%9A%84%E8%AF%AF%E5%8C%BA/" target="cdt-mirror">羽戈：爱国的误区</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%8D%A7%E5%85%9A%E6%97%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%8D%A7%E5%85%9A%E6%97%97.jpg" alt="捧党旗" width="385" height="454"></a><br><em>（网络图片）</em></p>
+<p><strong>微信公号：羽戈（yuge830）</strong></p>
+<p>“爱国”这两个字，对一些人而言是鸡血，对另一些人而言则是狗血，对一些人而言如蜜糖，对另一些人而言则如砒霜。回顾这个词语的演进史，自诞生以来，恐怕从未像今天这样莫衷一是，饱受争议。好之者一如既往奉其为金科玉律，恶之者则将其与专制、洗脑等臭名昭著的概念画上等号，甚至有人特地整理了批判爱国主义的名言，兹录数则：</p>
+<blockquote><p>爱国主义是一种有害的、精神错乱的白痴形式。（乔治·萧伯纳）</p>
+<p>爱国主义就是积极地为了微不足道的原因杀人并被杀。（伯特兰·罗素）</p>
+<p>爱国主义：一堆随时可以被任何野心家所点燃，去照亮他的名字的易燃垃圾。（安布罗斯·皮尔斯）</p>
+<p>任何时候，当你听到一个人说他爱他的国家，这是一个信号，表明他在期待为此获得报偿。（门肯）</p>
+<p>……</p></blockquote>
+<p>对国人来讲，最犀利的名言，莫过于1980年代初期电影《苦恋》的那句经典台词：你爱祖国，可是祖国爱你吗？</p>
+<p>结束引述，回到正题：爱国一词，由褒而贬，由好而恶，何以沦落如此之速？如今许多人不敢爱国，不愿爱国，或者痛斥爱国，究竟发自他们自身的冷漠呢，还是这个国家令人恐慌、厌憎？（这些问题不能成立么，请你去做一个实验，在公共场所大喊三声“我爱国”，看看迎来的掌声更多，还是白眼或骂声更多？）</p>
+<p>我的判断源于我的生活。在我身边，颇有一些朋友，对国家充满了莫名的仇恨与恐惧，敬爱国而远之，抑或谈爱国而色变。一说爱国，他们便反问：这是你的国么，你有资格去爱么；正如一说卖国，他们便反问：这是你的国么，你有资格去卖么？——我从不怀疑他们对吾国吾民的深挚情感，只是，他们对国家的认知，可能误入了另一个极端。</p>
+<p>这不是肉食者的中国，这不是权贵阶级的中国，这不是既得利益者的中国，这不是谁的中国，这就是你的中国。你脚下的土地，就是你的中国。你眼前的山水，就是你的中国。你身边的民众，就是你的中国。你的方言，你的汉字，你的美食与美人，就是你的中国。你的光荣与梦想，激情与哀愁，就是你的中国。不要嫌它阴暗，不要嫌它丑恶，这就是你的中国。</p>
+<p>当你不敢承认，这是你的中国，那么你便将这大好国家拱手让给了你所反对、厌恶的那些人。</p>
+<p>这是你的中国，你却不敢去爱，反而满腔愤恨，那么你只能与你的国家渐行渐远、形同陌路，最终，它也许不再是你的中国。</p>
+<p>我是一个爱国者，我爱我的国，就像爱我的家一样自然、朴素。当然，此处之“爱”与“国”都有待细究。</p>
+<p>第一，所谓爱，不止是热爱，批判同样是爱；不止是认同，反对同样是爱。当国家一身病毒，却不许国人指出，反而在爱国主义的政治化妆术之下，使“红肿之处，艳若桃花；溃烂之时，美如乳酪”，这不是爱国，而是害国、卖国。此刻，相比一味的爱与认同，批判与反对才是真正的爱国。如托马斯·杰弗逊所云：异议是爱国的最高形式。说到底，若爱不自由，或者被狭隘化，则爱国毫无意义。</p>
+<p>第二，所谓国，涉及一点常识：国家不等于政府，正如政府不等于政党。必须承认，政府是国家的核心，若谓国家是机器，政府便是轴承，许多时候，许多地方，政府都可以代表国家。但是，这绝不等于说政府就是国家。《国家的常识》的作者迈克尔·罗斯金曾指出：“有时候，政府可能先于国家出现，比如大陆会议先于并建立了美国。”政府还有可能与国家分离，比如二战期间，戴高乐的自由法国政府，一度处于流亡之中，远离法兰西的土地而存在。</p>
+<p>顾炎武辨析“亡国”与“亡天下”：国家兴亡，肉食者谋之，这里的“国家”，正对应我们所言的政府，或曰朝廷；天下兴亡，匹夫有责，这里的“天下”，才是我们所言的国家。这一对照，国家与政府的形象随之泾渭分明。国家的分量，远远重于政府，国家是永恒的存在，政府是流动的存在，就像我们中国，数千年来，生生不息，这中间，经历了多少朝廷、多少政府呢，后者之更迭，只道是寻常。</p>
+<p>所以说，爱国家不等于爱政府，正如建立国家（建国）与建立政府（建政），不可混为一谈。爱国之“国”，与爱国之“爱”一样，最忌狭隘化。如果对国的理解，陷入政治的桎梏，那么爱国者终将沦为权力的炮灰。</p>
+<p>我曾总结爱国的四大误区，前面这两点，以“爱国的狭隘化”之名，被归为一处。还有三点，恕我直接钞旧文：</p>
+<blockquote><p>“爱国的第二大误区，即将爱国主义化。我愿意自许爱国者，却不愿自许爱国主义者。个体化的言说与行为，一旦冠以“主义”的宏大后缀，犹如一个瘦弱的旅人，忽然被加载千斤重负，本来笔挺的脊背即刻弯曲下来，而生出一副奴才相。爱国就是爱国，是我与我所生存的国家之间的自由恋爱，任何人与权力不得干涉；若被主义化，则沦为包办婚姻，其幸福指数直线下降。爱国是个体的行为，爱国主义则是一场集体的癫狂，在主义的压榨之下，个体与爱都会丧失独立性。要言之，爱国无须主义，主义化的爱国未必是真爱。</p>
+<p>爱国的第三大误区，即将爱国神圣化（或者神经化），藉爱国之名，行欺人、侵权、违法之实。远如‘五四运动’之火烧赵家楼，践踏曹汝霖家的人和财物；近如2012年风起云涌的保钓游行，在广州、深圳、杭州等地，对日货、日系车、日本店进行打砸抢。话说回来，我支持保钓，却不支持这般简单粗暴的保钓。这么做，不消说保卫钓鱼岛，连自家钓鱼的河流都保卫不了。你不懂得尊重他人的财产权（大多日货，虽为日本制造，却属国人所有；大多寿司店、料理店，更是国人所开，况且美食从来不分国界），谈何让他人尊重你的财产权，相比爱国的神圣，财产权更加神圣不可侵犯；你号称抵制日本人，实际上却在抵制自己的同胞，其结果，必定为同胞所抵制。所以这样的爱国者，通常被斥为‘爱国贼’。</p>
+<p>爱国的第四大误区，在于爱国的崇高名义，除了被盗用成贼，还被滥用成灾。譬如抵制日货的壮士，高举爱国的义旗，最终将自己抵制成了蠢货，如此，爱国的旗帜，焉能不脏？再如，我惯用一个案例，这里重述一遍。中日战争期间，由于中国屡战屡败，有些好汉满腔忧愤无处诉，企图从战场之外找回面子，便跑去日本妓院，点了一名日妓，狠狠发泄一通，回去后四处宣扬为国争光，在床上打败了日本人，此即典型的‘床上爱国主义’，如此，爱国的名头，焉能不臭？长此以往，爱国这个词焉能不坏？”</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%A0%E7%88%B1%E5%9B%BD%E5%90%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%A0%E7%88%B1%E5%9B%BD%E5%90%97.jpg" alt="你爱国吗" width="575" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%BD%E6%88%88%EF%BC%9A%E7%88%B1%E5%9B%BD%E7%9A%84%E8%AF%AF%E5%8C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%B7%AF%E5%85%9A/?category=18271" rel="tag">带路党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%BD%E6%88%88/?category=18271" rel="tag">羽戈</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E6%B2%88%E8%92%94%EF%BC%9A%E8%88%86%E8%AE%BA%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%EF%BC%9F/" target="cdt-mirror">自由港｜沈蒔：舆论去哪儿了？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/06/mmexport1435465481880.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/06/mmexport1435465481880.jpg" alt="顶_邝飚" width="400" height="527"></a><br><em>（“顶” by 邝飚）</em></p>
+<p><strong>作者：沈蒔</strong></p>
+<p>柳城连环爆炸案话题在墙内社交平台上没能形成预期内的热度，分析认为原因或许有多方面。一种有可能和所发生的时间段有关，正值假期，人们的注意力更多被放在休闲计划上了，对公众事件的关注度被分散了一部分；另外，类似事件短期内发生过于频繁，前期有天津爆炸事件的高度热点尚未退去，舆论关注总是呈现 出“力不从心”的外观，近似却不能认定为选择性；第三种大概就是言论管制了，删帖力度是可见的强大，在最开始的媒体刷屏之后，不到一小时的时间内便有禁令的爆料出现，随即在新浪微博搜索键字“柳城”，结果显示只剩下媒体官方账号对通稿的回放，私人账号无一留存。</p>
+<p>第四种属于事件本身信息盲点太多，仅就官方报道加以分析一方面是认可了通稿，另方面通稿本身也并不能自洽，很容易陷入逻辑混乱。比如：最初地方媒体 消息称“抓到了活人”，马上官媒通稿又说“韦银勇已炸死”，同时人民日报又做了“明确的”行为原因分析（称起因于“与邻里、单位的矛盾”），结合起来看前后逻辑严重矛盾，人到底死了没有？那具被官方指认为韦银勇的尸体到底是谁？如果尸体是韦银勇，即便已在爆炸中身亡，也无法就此确认是其一人所为。更，根据事后民间传播、且公开平台没有屏蔽的，关于韦银勇腾讯微博声称“我杀人的时间快到了”的截图，不是很科学，如此大型的行动计划在两年前就公开于网上却还能在两年后如期实现，在当前的言论管控强度之下几乎不可思议。那些被指认为韦银勇本人微博的言论明显将责任推给地方官和已经废止的劳教制度，都没有触及根源，当然也可以认为普通访民不具备较高的政治意识，但在墙内公开平台迅速管控的状态下，关于指认韦银勇的微博全部未被删除，便不得不怀疑相关信息是否属于有意放出。</p>
+<p>综合墙内外消息，看起来像是很多渠道在提供“韦银勇”这个名字，其实细看便知，都是援引自官方通稿，且爆炸案发生当日便有流出的禁令显示要求“转发 唯一权威来源，如新华社……违反者必须立即纠正并删除”。虽然暂时未见到如天津爆炸事件中那种对外媒采访的明确抵制，但诸多外媒在事发后72小时内并没有 对事件细节做更多爆料，或可推测，相关管控正在运行。更明显的是，至截稿时，推特中文圈相关柳城的信息很少出现被五毛追击的情况，推测认为，一方面推特消息并没有跑出官方提供的线索和墙内未被屏蔽的舆论，于是即便柳城事件被敏感度很高，也不存在太多“值得”五毛团队出动的内容；另方面或许和假期时段有关， 此处有待观察。</p>
+<p>当然，对舆论场的观察不能仅限于公开平台，尤其是在大陆网络维稳高压之下的公开平台，采样往往不容易客观全面。结合微信群聊的观察效果会更好，前提 是：添加了足够多的不同群体，互相之间的重合度尽可能低，或者联手多位朋友的观察结果综合考量，目的是尽可能趋近于公开平台的效果。就柳城爆炸案来看，不止在公开平台上，包括群聊的讨论热度都大幅低于预期。这里的预期指的是一般情况下同等影响力的公共话题，可参照推特等墙外社交网站对热话的关注。</p>
+<p>在微信群聊中观察柳城话题显示为，自由派、泛自由派和理论派有一定关注和分析，但局限于信息盲点过多，倾向基于官方信息的分析占据大多数，没有类似 天津爆炸事件中的专业技术解析；行动派的关注重点落在访民身份和冤情上，也就是只能假定报道中对韦银勇的陈述属实；陆媒群体在关注相关禁令，以及官方信息 的前后矛盾；此外平日里就不怎么关注公共事件（政治内容）的群体基本没有相关讨论。从可见的舆论场域整体上看，可以说“主流”情绪是恐慌焦虑，但社会焦虑并不能利于强化抗争意识，更有可能的是唤醒<a title="自由港" href="https://iyouport.com/archives/50743" target="_blank">权威性人格</a>——向权力寻求安定的保障。好在类似情绪早已在墙外平台被认作五毛，价值观不会完全被墙锁住，墙内外网友在微信的互通至少能带动一定程度上的立场认同。好在柳城事件中大环境下的恐慌情绪可以说并不高，综合上述几种可能性分析，或许是它们综合下的结果。</p>
+<p>当然，还有一种可能，也是最不希望出现的可能：社会麻木。麻木说明民众对此已习以为常，放弃了追责和理论的权利，出现类似避祸心态：“这种事只要不摊到我的头上就行”，比如有些网友提到的“减少网购（物流危险）”的建议。自我保护无可厚非，但<strong>如此烈度的反抗事件（至少公开信息显示为报复社会式的反抗）却没能带动足够的社会舆论指向对政权的谴责，不失为重大遗憾。</strong></p>
+<p>如果将近期发生的几件热点事件相比较，或许能梳理出一些舆论态势的规律。最“高效”的当属<a title="自由港" href="https://iyouport.com/archives/41337" target="_blank">优衣库话题</a>， 瞬间火爆、且传播能力超强、持续数日不减，几乎超过当年的柴静纪录片话题，不止公开平台，各种群聊也是积极的传播和讨论。值得注意的是，优衣库话题出现的时间是当日北京时间的深夜，接近零点，且次日并不是公休日，理论上大陆网友已经该休息了，但丝毫没有妨碍该消息惊人的影响力，于是或可认为，柳城爆炸案发 生的时间并不成为舆论冷淡的主因。其原因与中国大陆对色情内容的一贯严格管制有很大关系，但如果舆论着力点没能上升到相关层面，火爆的外观就没有实际价值。陆续发自各种平台的评论文章也带动了热点的持续，于是或可认为，审查对优衣库话题评论文字的相对“宽松”起到了一定作用。</p>
+<p>次于优衣库热度的是长江沉船事件和天津爆炸事件，发生时间都是深夜，舆论升温体现于次日开始，不同的是，天津爆炸事件的升温在当晚就已启动，表面分析认为，天津距离北京较近，政治敏感度比长江沉船更高，或许是原因之一。观察微信群聊发现，不同地区对事件关注的程度也有一定差异：京津两地网友当夜便开始讨论、互道平安，南方网友则在次日才开始介入议题，属于常见思维模式中的“<a title="自由港" href="https://iyouport.com/archives/45569" target="_blank">自我参照效应</a>”， 性质上接近上述柳城话题中的“避祸心态”。这两起热话的共同点都是在事发后不久便进入了“通稿逻辑”，也就是可见的评论都基于官方公开的数据和细节，尽管也有一定的质疑。民间只有揣测并没有机会更多挖掘，不过至少讨论的覆盖面和延续时间都接近预期水平，远高于柳城话题，遗憾在于过多的追求情绪，角度和深度普遍不足。</p>
+<p>议题圈子化也是现象之一。明显具有群体局限性的话题如“艾未未言论事件”，除了政治理论派和艾未未的粉丝群体外几乎无人关注，推特中文圈的火爆和墙内平台的淡漠形成鲜明对比，即便在官媒几次引出相关话题的状态下也是如此。基于官媒行为来看，可以说近似于柴静纪录片的宣传程度，但两者激发舆论热度的效 果天壤之别，原因在于柴静在墙内的知名度远高过长期被敏感词的“艾未未”，言论管制在此处起到了绝对性作用。</p>
+<p>言论管制造成的信息模糊也严重限制了推理能力的发挥、新闻白名单和“谣言治罪”管制手段很大程度上抑制了评议和传播，但这些并非无法改善，选择安全的翻墙软件投身墙外平台就能很大程度上弱化局限。如果翻墙的普及面足够大、对墙外平台的自由度有普遍认知，相关大陆突发性热点事件出现时，必定会有现场及周边网民将信息首选发布于墙外，便有可能超越大陆官方媒体的局限，至少能提供不同视角的参考；如果时评人能积极翻墙，在墙外开设博客或于社交平台做深度短评，会能感受到更大的提升空间，还可选择用截图等形式传入墙内，保持舆论热度和质量应该不成问题。</p>
+<p>但很明显，现实恰好相反，人们对平台的选择受限于社交关系，微信对社交关系的捆绑和微博的严格管控都同样起到了压制舆论音量的作用。但微博呈现荒漠的同时推特中文圈并没能如期升温，舆论都去了哪里？</p>
+<p><strong>公开平台明显被冷落了，人们更多钻入小圈子、满足于有限范围内的粉丝簇拥和熟人情感基础的积极认同</strong>，或许偶尔会将聊天过程中激发的灵感摘录下来公开发布，但脱离了前后语境的句子显效不尽充分，且无法体现思路。<strong>高产时评人对微信公众号的依赖可以说是一种自我局限</strong>，公众号文章除非被境外独立媒体转载否则无法进入谷歌搜索，微信的功能设计也导致了严重的圈子化局限，不止议题的选择呈现明显的圈子化特色，连不同的观点形成的阵营之间也被隔阂了，讨论气氛难以实现，传播的外观近似小团体的自我欣赏。</p>
+<p><strong>貌似喧闹的中文舆论场实则早已被口水文充斥，表达的考虑基于自身团体的政治队形、沉迷于吐槽模式以满足公众传播中的情绪宣泄需求，以至于陈年老梗都能常葆青春</strong>。代表同一阵营的观点在阵营内部获得荣耀，争议被自然免除了，还连同思考。<strong>为表达而表达、为影响力而表达、为政治正确形象而表达，无法不怀疑政治表达已走入了功利主义误区</strong>。网络舆论能力被高估了，很大程度上源于口水文、口水帖的泛滥，理论派产品普遍实用性不佳，变成了单纯的总结和整合，价值大跌……</p>
+<p>不少时评人感觉议题匮乏而又懒于开发，也是造成舆论泡沫化的原因之一，其实同一个议题有很多观察角度、还可以使用多种学科理论加以解析，即便同一观点也能不断地追求深度，或许<strong>议题并不是问题，思考的主动性和表达的价值观才是急需改善的重点</strong>。积极提升的意识是具有感染力的东西，优化舆论氛围并不需要刻意动员，舆论场的生机活力也是社运联盟的环境基础，理论群体的表率将起到很强的带动作用。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E6%B2%88%E8%92%94%EF%BC%9A%E8%88%86%E8%AE%BA%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%B8%8E%E5%9B%BD%E9%99%85%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/" target="cdt-mirror">BBC｜吴祚来：习近平访美与国际合法性问题</a>
 </h2>
 <p><p>习近平的美国之旅，说穿了，就是寻找其国际合法性之旅。习近平要通过这次国际合法性的获得，增强其内政的合法性及个人威权建设。但不幸的是，习近平的美国之行遭受多重敲打。</p>
@@ -162,7 +222,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%9F%8E%E7%88%86%E7%82%B8/?category=18271" rel="tag">柳城爆炸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E9%A2%86%E5%AF%BC%E4%BB%AC%EF%BC%8C%E8%AF%A5%E4%BD%A0%E4%BB%AC/" target="cdt-mirror">博谈网 ｜〖兲朝浮世绘〗共青团的领导们，该你们脱了</a>
 </h2>
@@ -209,7 +269,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A9%BF%E7%BA%A2%E8%A1%A3%E4%B8%8A%E8%A1%97%E7%88%B1%E5%9B%BD%EF%BC%8C250%E5%8C%85%E5%8D%88%E9%A4%90%E5%93%A6%E4%BA%B2/" target="cdt-mirror">【网络民议】穿红衣上街爱国，250包午餐哦亲</a>
 </h2>
@@ -677,63 +737,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8D%81%E4%B8%80%E6%92%B0%E6%96%87%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%94%BF%E6%9D%83%E7%9A%84%E7%94%9F/" target="cdt-mirror">BBC｜任志强“十一”撰文：这是国家还是政权的生日</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151002081013_renzhiqiang_weibo_976x549_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151002081013_renzhiqiang_weibo_976x549_bbcchinese_nocredit.jpg" alt="151002081013_renzhiqiang_weibo_976x549_bbcchinese_nocredit" width="575" height="323"></a><p>这条微博的原文目前在新浪微博平台上已被删除，仅能查阅到网友转发任志强微博时的评论。BBC中文网记者在自由微博上找到了原文。</p></div>
-<p>在新浪微博拥有超过3000万粉丝的前华远地产董事长任志强在中国国庆节期间通过微博发文，讨论十月一日应该是新国家建立的纪念日还是新政权建立的纪念日。</p>
-<p>这条微博引来众多网友热议，但原文目前在新浪微博平台上已被删除，仅能查阅到网友转发任志强微博时的评论。BBC中文网记者亦在“自由微博”上找到了原文。</p>
-<p>许多网友在微信平台上也在传播这篇文章，但是记者查阅时发现文章也已经被删除。</p>
-<p>在这篇名为《新国家还是新政权》的文章中，任志强提出疑问：这一天（1949年10月1日）向全世界宣告的是一个新的国家出现了，还是一个代表着原来国家的 新政权成立了？ 他在文章中称，“从中国传统文化的角度和从国际法的角度看，中国还是原来那个中国……只是一个以国民党为核心的代表中国国家权力的中华民国政府所拥有的实际控制的地区越来越少，一个以共产党为核心的代表中国广大人民利益的中华人民共和国政府控制了中国大陆的主要地区，向世界宣告将替代中华民国政府管理中国，并行使国家主权”。</p>
-<p>文章进而提醒，直到今天生活在中国大陆中的许多人仍在错误的以为今天是一个新的国家的诞生。以为祖国在过66岁的生 日。中国这个古老的国家已经有数千年的历史。每个朝代所发生的变化都是这个国家中的统治者，或称代表国家主权地位的政府的变更。而不是国家的改变。因此， “这个节日不是新的国家产生的节日，而是一个新的政府产生的节日”。</p>
-<p>“毛泽东十月一日在天安门城楼上宣布的也是‘中央人民政府成立了’。”任志强强调。</p>
-<h2>网友评论</h2>
-<p>针对这篇文章提出的观点，网友“苏勒贝勒爷”评论说，新中国是中华人民共和国，这区别于旧中国的中华民国。这是新旧更替的称谓。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151002025506_china_n-day_nanjing_rd_1_976x549_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151002025506_china_n-day_nanjing_rd_1_976x549_xinhua_nocredit.jpg" alt="151002025506_china_n-day_nanjing_rd_1_976x549_xinhua_nocredit" width="575" height="323"></a><p>国庆节期间的上海南京路。</p></div>
-<figure></figure><figure></figure><p>网友“edwards_l2”表示，国家是铁打的营盘，执政党是流水的兵，这是常识。</p>
-<p>网友“智慧加力量叫话语权”表示认同：说得特别好，一针见血指出，爱国和爱党是两回事。</p>
-<p>网友“自由的小鱼儿2010”则说，都是明白人，但哪个肯这样承认！</p>
-<p>在此之前，任志强今年端午节发表的名为《何为国？何为爱国？》一文也引起热议。在这篇文章里任志强表示，“我们爱这个国家。但不等于一定要爱这个国家现行的制度和法律！”文章引起了社交网络上关于国家、政府、政权、政党能否划等号的讨论。</p>
-<p>（撰稿：成路 责编：萧尔）</p>
-<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8D%81%E4%B8%80%E6%92%B0%E6%96%87%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9B%BD%E5%AE%B6%E8%BF%98%E6%98%AF%E6%94%BF%E6%9D%83%E7%9A%84%E7%94%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%AD%A6%E6%9C%AF%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BE%90%E5%B0%8F%E5%B9%B3%EF%BC%9A%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81/" target="cdt-mirror">学术中国｜徐小平：北大清华从来都不是世界一流</a>
-</h2>
-<p><p>说什么北大“至少在中国是一流”？这个提法，其实道出了北大今日在世界上的位置：和世界优秀大学之林相比，北大清华还不是世界一流大学！不是世界一流，只是中国一流，作为优秀大学，显然还不算入流。</p>
-<p>中国足球国家队，毫无疑问也是中国一流。但显然，他们还要努力洗脚、提高球艺、冲出亚洲、走向世界。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8C%97%E5%A4%A7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8C%97%E5%A4%A7.jpg" alt="北大" width="560" height="260"></a></p>
-<p>北大清华，是中国大学的国家队。<strong>中国大学国家队，难道不应该在亚洲、欧洲、在北美，也跻身一流吗？</strong>“中国一流”，不过是不敢承认自己在世界上属于“二流”的一个婉语。</p>
-<p>有一个事实我们不能忘记：中华民族占全人类的四分之一。这个事实我们似乎不再夸耀，因为这实际上是一件令人尴尬的事情——因为，作为人类四分之一的中华民族，近一二百年来，我们在人口比例上虽然对人类贡献越来越大，可我们贡献给世界的文学、艺术、音乐、影视、科学发现、技术专利、自然探索、工业设计、思想创新、社会发展……等等所有文明的种种方面，其比例，比起我们从国外拿来的东西，显然远远不成比例！</p>
-<p>来而不往非礼也，来往不等礼亦非。在与世界现代文明的融合和交流上，我们是如此非礼……</p>
-<p>往来不等，因为我们落后，在各种落后之中，教育的落后，是所有落后之母；教育的复兴，是民族复兴之父——先决条件之谓也。中国是一个发展中国家，北大清华，也就是一个发展中学校，而中国教育，更是一个发展中教育。只有这样的自我认知，北大清华以及整体中国教育，才能有紧迫感和危机感，才能有改革的动力、开放的意志、以及赶上和超越世界一流教育的雄心！</p>
-<p>北大清华承担着一个无可推卸的历史责任——这就是率领中国所有大学，和世界一流大学竞争、攀比、追赶、超越！只有这样，占人类四分之一的中华民族，才能在科学、技术、文化、艺术、思想、政治等各个方面对人类有所贡献，才能在赢得全球工厂的美名（？）之后，成为世界办公室、世界设计室、世界研究室、以及人类灵感的策源地、人类智慧的苹果园、以及人类激情的火焰山……</p>
-<p>中国人失去自信心了吗？中国人从来没有失去自信心。薛涌、阿忆、新浪众博友、以及我老人家等这些中国人，都没有失去自信心，我们都在信心百倍地谈着：北大清华属几流，昂首阔步往前走。</p>
-<p><strong>但是，让我们低头想想：我们活在一个什么时代？北大清华活在哪一个时代？</strong></p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%85%E5%8D%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%85%E5%8D%8E.jpg" alt="清华" width="500" height=""></a></strong></p>
-<p>这是环球化时代，这是一个一国的政治经济社会事件，会在其他国家和地区产生连锁反应的时代；这是一个就连酸雨、海啸、萨斯、禽流感、沙尘暴、厄尔尼诺纷纷环球化的时代。在这个时代，我们对北大清华的评判标准，只有一个标准，环球化标准；只有一个坐标，环球化坐标；只有一个方法——把它们拉到世界教育舞台上去溜一溜、瞧一瞧、展开竞争与比较、促进交流与互惠，从而迅速加快两所最高学府、以及所有中国大学的改革与开放进程，提升与更新步伐！</p>
-<p>横看成林侧成峰，东边下雨西边红。站在全球角度看北大清华，它们还不是一流大学。它们之所以被认为是“一流大学”，过去，是因为中国反正关上了国门，老子天下第一，夜郎大于汉朝；今天，只是我们思维深处还把中国当作世界的中心，还在习惯以一种天真无邪的心态，为我们民族高校这对落后于时代发展的绝代双骄而沾沾自喜。</p>
-<p>这使我想起了一个民谣：<strong>我们刚吃上肉，你们又减肥了；我们刚娶上媳妇，你们又离婚了；</strong>当我们刚住进瓦房，你们又住别墅了；我们刚用上人体炸弹，你们又用上巡航导弹了；我们刚刚庆祝了北大清华百年校庆，剑桥又庆祝它800岁诞辰、哈佛大学又在为它的生日蛋糕插上第370支蜡烛了；我们刚刚誓言未来二三十年培养出一个诺贝尔奖得主，哥伦比亚大学已经毕业出了三四十诺贝尔校友了……</p>
-<p>无知者无畏，无知者无罪。但知识分子，必须要有清醒的认识。我这里，只是想提醒北大清华以及中国所有的教育同行，在这个时代，沾沾自喜于“中国一流”，不仅没有任何好处，事实上是一种对社会发展有害的思维方式。如果没有环球化，如果没有中外交流，你可以说中国的一切都是世界“最好”的。但可惜，这个世界最好，在更好的世界面前，几乎碰到了要被开除球籍的地步，这才有了邓小平发动的改革开放，振兴了中国经济、拯救了中国。</p>
-<p>经济落后，要被开除球籍。教育落后，难道我们就没有再次被开除球籍的危机了吗？</p>
-<p>现在，深入改革开放的压力终于到了教育领域了。教育牵涉到非常重大的政治、思想、道德、价值观、人格发展等最敏感的话题。如何找到改革开放的平衡点，找到教育革新的突破口，是摆在我们面前的一个重大挑战！</p>
-<p>中国人也许并没有失去自信心，但我们似乎已经失去了部分羞耻心。否则，我们怎么可以拿北大清华“至少”在中国还是一流，来自我安慰呢……？</p>
-<p>啊，北大清华，什么时候，你才能理直气壮地说：我们是世界一流，因为我们是中国一流。我们是中国一流，所以我们也是世界一流。那个时候，也就是中华民族伟大复兴的辉煌时代、也就是我们为世界文明贡献了自己应有份额的自豪岁月。</p>
-<p><strong>教育兴则民族兴，教育衰则民族衰。</strong>北大清华，是肩负着中华民族振兴重任的北大清华。如果北大清华、以及我们整体的高等教育、中等教育、小学教育、幼儿教育不改革、不发展、不与时俱进、不追赶世界一流，中华民族就永远不能成为世界一流！</p>
-<p>呜呼，何时北大清华突兀成一（流）族，此生不去港大、哥大、耶大、哈大、剑大、牛大死亦足！</p>
-<p>摘自《美国留学的价值与策略》</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%AD%A6%E6%9C%AF%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BE%90%E5%B0%8F%E5%B9%B3%EF%BC%9A%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">北京大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2/?category=18271" rel="tag">大学教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -745,7 +748,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -755,5 +758,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

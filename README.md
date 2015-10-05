@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E6%97%A5%E7%88%B1%E5%AD%A6%E8%80%85%E5%85%B1%E4%BA%AB2015%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/" target="cdt-mirror">BBC | 中日爱学者共享2015年诺贝尔医学奖</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151005101821_nobelprize_624x351_bbc_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151005101821_nobelprize_624x351_bbc_nocredit.jpg" alt="151005101821_nobelprize_624x351_bbc_nocredit" width="600" height="337"></a></p>
+<p><strong>2015年诺贝尔医学奖得主揭晓，共有三位得奖者，包括中国大陆的屠呦呦、爱尔兰的坎贝尔（William C. Campbell）、日本的大村智（Satoshi Omura）。</strong></p>
+<p>屠呦呦制成了青蒿素，在降低虐疾患者死亡率方面的研究贡献突出，分享了2015年诺贝尔医学奖的一半。</p>
+<p>分享另一半的是威廉·坎贝尔和大村智发明了一种新药阿维菌素（Avermectin），这种药物的衍生品降低了盘尾丝虫病以及淋巴丝虫病的发生率，并且已经显示出对其他类型寄生虫感染的有效性。</p>
+<p>诺贝尔委员会称，三位获奖者发展了一些疗法，这对一些最具毁灭性的寄生虫疾病的治疗具有革命性的作用。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151005102046_tu_youyou_624x351_xinhua.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151005102046_tu_youyou_624x351_xinhua.jpg" alt="中医科学院终身研究员屠呦呦" width="600" height="338"></a><p>中医科学院终身研究员屠呦呦</p></div>
+<p><strong>中医</strong></p>
+<p>现年84岁的屠呦呦为中国中医研究院终身研究员兼首席研究员，青蒿素研究开发中心主任。</p>
+<p>多年以来，她的研究方向是以中药化学为主，结合药理、制剂及临床等，在继承传统中医药的精华基础上，运 用现代科学和技术，发掘中药的活性成分，特别在疟疾及免疫疾病领域进行深入研究，研制开发新药。</p>
+<p>中国中医研究院网站上对她的介绍称，她最突出的贡献是“带领科研组创制了具国际影响的新型抗疟药 ——青蒿素和双氢青蒿素，相关研发成果已获6个《新药证书》，1个临床批件和2个中国发明专利。”</p>
+<p>从1969年开始接受抗疟药研究任务，屠呦呦领导课题组从系统收集整理历代医籍、本草、民间方药入手，在收集2000余方药基础上，编写了640种药物为主的《抗疟单验方集》，对其中的200多种中药开展实验研究，历经380多次失败，1971年发现中药青蒿乙醚提取物的中性部分对疟原虫有100％抑制率，1972年从该有效部分中分离得到抗疟有效单体，命名为青蒿素。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E6%97%A5%E7%88%B1%E5%AD%A6%E8%80%85%E5%85%B1%E4%BA%AB2015%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%86%89%E4%BA%91%E9%A3%9E%EF%BC%9A%E6%B2%A1%E6%9C%89%E8%87%AA%E7%94%B1%E6%98%AF%E6%88%91%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">冉云飞：没有自由是我最大的失败</a>
 </h2>
 <p><p><strong>冉按：</strong>这是重庆一个叫高朋汇的机构的朋友们，为了10月18号晚上八点九点做一个微信交流，而先做的一个专访。今天陪亲人们的间隙，完成了这个专访，觉得有点小意思。大家看着这个热腾腾的回答，安度假期的半小时，算是别样的KILL TIME。</p>
@@ -789,17 +810,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%A4%9A%E4%B8%80%E5%8F%A3%E5%B0%91%E4%B8%80%E5%8F%A3%E9%83%BD%E6%98%AF%E6%94%BF%E6%B2%BB%E9%94%99%E8%AF%AF/" target="cdt-mirror">奇闻录 | 多一口少一口都是政治错误</a>
-</h2>
-<p><p>10月1日，新疆库车县举办以“大馕情 中国心”为主题的啃大馕PK活动。来自该县各乡镇、社区的60余名各族群众参与活动，并按照要求，在规定的时间内啃出“中华人民共和国地图”图案。(...)<br>Read the rest of <a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%A4%9A%E4%B8%80%E5%8F%A3%E5%B0%91%E4%B8%80%E5%8F%A3%E9%83%BD%E6%98%AF%E6%94%BF%E6%B2%BB%E9%94%99%E8%AF%AF/">奇闻录 | 多一口少一口都是政治错误</a> (8 words)</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%A4%9A%E4%B8%80%E5%8F%A3%E5%B0%91%E4%B8%80%E5%8F%A3%E9%83%BD%E6%98%AF%E6%94%BF%E6%B2%BB%E9%94%99%E8%AF%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%BA%86/?category=18271" rel="tag">国庆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%A6%95%E6%83%85%E4%B8%AD%E5%9B%BD%E5%BF%83/?category=18271" rel="tag">大馕情中国心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -811,7 +821,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%BA%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -821,5 +831,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%BA%86
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

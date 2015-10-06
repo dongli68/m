@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B1%A0%E5%91%A6%E5%91%A6%E8%8E%B7%E8%AF%BA%E5%A5%96%E8%AF%A5%E5%BD%92%E5%8A%9F%E4%BA%8E%E8%B0%81%EF%BC%9F/" target="cdt-mirror">博谈网 | 屠呦呦获诺奖该归功于谁？</a>
@@ -151,7 +151,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%B9%8B%E9%97%AE/?category=18271" rel="tag">钱学森之问</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%BE%8B%E8%AF%BB%E5%BA%93-%E5%87%8B%E6%95%9D%E7%9A%84%E4%B9%A1%E6%9D%91-%E7%8A%B9%E5%A6%82%E4%B8%8A%E4%BA%86%E5%B9%B4%E7%BA%AA%E7%9A%84%E8%80%81%E4%BA%BA/" target="cdt-mirror">法律读库 | 凋敝的乡村 犹如上了年纪的老人</a>
 </h2>
@@ -717,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

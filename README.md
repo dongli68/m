@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,77 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B1%A0%E5%91%A6%E5%91%A6%E8%8E%B7%E8%AF%BA%E5%A5%96%E8%AF%A5%E5%BD%92%E5%8A%9F%E4%BA%8E%E8%B0%81%EF%BC%9F/" target="cdt-mirror">博谈网 | 屠呦呦获诺奖该归功于谁？</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard07_153.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard07_153.jpg" alt="屠呦呦" width="551" height="310"></a><p>20世纪50年代，在中医研究院中药研究所任研究实习员的屠呦呦与老师楼之岑副教授一起研究中药。</p></div>
+<p>（博谈网记者苏智敏报道）屠呦呦成为2015年诺贝尔医学奖得主之一后，在一片祝贺声之中，有舆论认为，这应归功于民国时期的教育体制，而不是毛泽东。</p>
+<p><strong>院士制度</strong></p>
+<p>今年84岁的中国女药学家屠呦呦因领导研制抗疟药物——青蒿素和双氢青蒿素，而成为2015年诺贝尔医学奖的得主之一，是第一位获诺贝尔医学奖的中国人，同时也是诺贝尔医学奖史上第13位女性得主。</p>
+<p>受中医典籍启发的屠呦呦获诺奖后，称“青蒿素是传统中医药送给世界人民的礼物”，而她的得奖也引发许多话题，除了中西医之争再被讨论外，同时引来大众对中国院士制度的检讨，因为屠呦呦多次被提名参选中医科学院院士却一直落选，没有博士学位、留洋背景和院士头衔的她，被称为是“三无科学家”。</p>
+<p>2011年9月屠呦呦因青蒿素而获得拉斯克临床医学奖时，《人民日报》曾发表评论“屠呦呦为什么落选院士”，探究其落选院士的原因，文中提到四川大学副校长魏于全、中国农大原校长石元春、哈尔滨医科大学校长杨宝峰等人，虽涉嫌学术造假而屡遭检举、质疑，却依然稳坐院士的宝座，而贡献卓著的屠呦呦却落选院士，因此提出应该检讨、改进两院院士的评选标准、方法和程序。</p>
+<p><strong>因战争而起的研究</strong></p>
+<p>另一个被讨论的话题，则是屠呦呦能发现青蒿素，应该“归功”于毛泽东和毛时代吗？</p>
+<p>同样在屠呦呦获拉斯克临床医学奖后，《纽约时报》发表文章指出，抗疟药物青蒿素的发明其实要“感谢”毛泽东。因为在60年代，毛泽东发动文化大革命，让全中国人对自己的传统文化进行暴虐摧残。包括科学家在内的知识份子被批斗、迫害、从事大量的体力劳动，多人被打死或选择自杀。中医也不例外，中国中医科学院博士崔京艳在“百年中医的三次论争”一文中提到：“文革期间，由于种种错误导向，全国绝大多数老中医被批斗、迫害；很多中医古籍被当成四旧送进了造纸厂的化浆池。”但就在这情况下，北越的求援意外救了许多科学家。</p>
+<p>炎热潮湿的越南，蚊虫众多，北越士兵患上一种当时无药可治的疟疾，倒下一大批人，北越高层因此向中国求援。毛泽东下令将优秀的科学家投入到抗疟药物的研发，成立523项目，全国60多个单位的500名科研人员参加这个秘密军事科研任务，屠呦呦就是其中的一员。</p>
+<p>抗疟药物研发之难，被形容成大海捞针，这群科学家转而向传统中医找出路，在文革期间虽有点讽刺，但屠呦呦正是从葛洪的《肘后备急方》中得到启发，改用低温榨汁的方法，获得了青蒿素。</p>
+<p>该“感谢”毛泽东吗？事实上，毛泽东政府下令研发药物的背后，不是为了中国人的健康，而是因为援外战争——解决北越士兵疟疾问题，在这情况下，更讽刺的是，数年后，中国反而跟越南在边境上打了起来。</p>
+<p><strong>教育与体制</strong></p>
+<p>另外，屠呦呦的成就，许多民众也认为不应该归功于毛时代，网友把这归于是民国时期的教育培养出来的人才。</p>
+<p>综述网友的评论观点，1930年出生的屠呦呦，跟得到诺贝尔奖的李政道、杨振宁、丁肇中，及李远哲一样，都是在接受完整的中华民国的基础教育下长大的，民国时期对教育及人才的培养极为重视，在抗日战争期间，教育依然摆在重要的位置。虽然屠呦呦1951年考入北京医学院（现为北京大学药学院）药学系，但那时的大学还是民国期间的教育遗风，基本教育理念、知识传承并没有发生根本性改变。但如果屠呦呦是在文革时期读中小学，那么她不是工农兵学员，就是下放知青，将不会有今日的成就。</p>
+<p>许多网友认为，如果没有反右、大跃进、文革这种事的发生，人民能有安定的环境接受教育，今日得到诺贝尔奖的中国人应该会更多。</p>
+<p>除了教育问题，体制也是原因之一。中国作家冉云飞也借着屠呦呦获诺贝尔医学奖一事，发文指出，两弹一星功勋奖章获得者钱学森曾问说：“这么多年培养的学生，还没有哪一个的学术成就，能够跟民国时期培养的大师相比”“为什么我们的学校总是培养不出杰出的人才？”</p>
+<p>冉云飞认为，曾在大跃进时支持亩产上万斤，反右时痛斥右派反社会主义言论的钱学森这是在“明知故问，揣着明白装糊涂”，冉云飞对此表示：“一个不自由的制度下的学校教育，怎能培养出人才？”</p>
+<p>关键词: 诺奖 屠呦呦 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 苏智敏</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B1%A0%E5%91%A6%E5%91%A6%E8%8E%B7%E8%AF%BA%E5%A5%96%E8%AF%A5%E5%BD%92%E5%8A%9F%E4%BA%8E%E8%B0%81%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%BD%93%E5%88%B6/?category=18271" rel="tag">教育体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%A2%E5%A3%AB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">院士制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%B2%81%E7%99%BD%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%99%A2%E5%A3%AB%E5%88%B6%E5%BA%A6%E6%98%AF%E5%88%A9%E7%9B%8A%E5%88%B6%E5%BA%A6/" target="cdt-mirror">鲁白：中国院士制度是利益制度</a>
+</h2>
+<p><p>在国人兴奋之余，屠之获奖也引发了很多争论，包括屠呦呦缘何多次落选院士、及集体科研成果的署名权等问题。</p>
+<p>瑞典卡罗琳医学院10月5日宣布，来自中医科学研究院的首席研究员屠呦呦与另外两名外国科学家分享了今年的诺贝尔生理学奖。屠呦呦遂成为中国大陆地区首位获得诺贝尔科学奖的人士。在国人兴奋之余，屠之获奖也引发了很多争论，包括屠呦呦缘何多次落选院士、及集体科研成果的署名权等问题。就此热点问题，凤凰网第一时间连线著名医学科学家、清华大学医学院常务副院长鲁白教授，对相关问题进行解读。</p>
+<p>采访人：孔德继</p>
+<p>凤凰网：诺贝尔生理学奖的评价标准和屠教授的主要科学贡献是什么？</p>
+<p>鲁白：一般来说诺贝尔奖是给有重大影响力的科学发现。重大影响包括，比如某种方法改变了我们认识细胞，或者某种原理帮助我们加深认识生理过程，还有一些是能够改变我们的对疾病的治疗。</p>
+<p>今天诺贝尔奖委员会的人讲话提到这三个人主要是两个贡献，加起来影响到的人大概有十亿人受益于他们的科学发现。屠呦呦的贡献主要用于治疗疟疾，几十年累计下来的受益人已经很多了。</p>
+<p>凤凰网：科学评价的标准是什么？屠呦呦的科学贡献在哪里？</p>
+<p>鲁白：世界上的科学标准应该是一样的，科学的标准不应该是由国籍的差别的。那么科学的标准是什么东西？一是原创。二是这个原创贡献有没有重大影响。两个标准目前没有什么争议。</p>
+<p>那么这个原创标准如何判定。我们来回顾一下这个屠呦呦的科研历程。屠呦呦之前很多人都用各种传统的中草药提取，屠呦呦最后锁定在青蒿，这是第一个贡献；第二步是在同行普遍用煮的办法来提取的时候，屠呦呦采用了乙醚进行萃取。我觉得是这两个发现和步骤奠定了她的得奖基础。</p>
+<p>区别什么是不是原创，我可以先说三个方面的东西“不是原创”。</p>
+<p>首先“工作量”和“亲手干”不是原创。屠呦呦当时是一个小组的领导，是团队的灵魂，重要的是她的原始想法，这个想法可以是由她的一个学生，或者技术员做出来，而不一定是本人的亲手操作。工作量的大小也不重要。</p>
+<p>还有就是“工作完整”也不是原创。1972年屠在南京某个会议上面讲了他们的研究，想法被一些人知道了，用好的技术、人力和设备做得比屠呦呦更好，这个也不算原创。</p>
+<p>这里边的关键的问题是整个科学发现有一个很长的链条，哪个是最早的想法，哪一个是关节点，这个关节点是谁先想出最原始的解决办法。有这个思想的和想法的人才重要。</p>
+<p><strong>有些人不够格却当选了院士</strong></p>
+<p>凤凰网：中国的科学的评价或者跟国际上世界一流的评价一样吗？屠呦呦国内没拿到最高的科技大奖，也没有被评上两院任意一个院士，为什么中国的最好的科学和科学家在中国没有得到最好的科学荣誉？</p>
+<p>鲁白：主要是制度问题，以院士制度为例谈吧。</p>
+<p>为什么她没选上院士，难道选院士不应该是把做出最好的科学工作人选上去吗？难道不要对最好的科学成就有认可吗？所以你就看出来这个选院士里面有人际关系、运作能力、个人的所在的位置，这些都变成了因素了。</p>
+<p>今天为什么会有人花这么大的力气来选院士？</p>
+<p>一是因为名额是有限的。所以就会有很大一部分的努力，把自己选进去，还有一部分努力是把那些够格的人不要让他选上去。</p>
+<p>这两个东西加起来就造成了今天的这个很奇怪的一个现状，就是有些人明明够格的他选不上，有些人明明不够格的他选上了。</p>
+<p>目前虽然院士是选举出来的，但投票者选院士已经不再完全依靠科学成就了。关系、运作和好处成为了一些新的因素。有些人被选上去的时候，意味着有些人被选下来。选下来也是跟这个制度有关系的。</p>
+<p><strong>院士制度不是荣誉制度而是利益制度</strong></p>
+<p>第二方面更重要。我们的院士制度目前还不是一个荣誉制度，更是一个利益制度。屠今天得了一个诺贝尔奖，只代表你过去的贡献，只是荣誉和奖金，并不意味着你可以得到比人家更多的资源。申请资金还是要通过竞争，靠你今天的本事。</p>
+<p>无论院士制度还是诺贝尔奖荣誉，都不应和太多的利益挂钩。不能因为获得了院士身份，就享有了更多的研究基金、决定权和人事权。目前院士连带有很多特权，所以才有人不择手段地去把自己变成一个院士。院士应该回归到一个荣誉，表彰一个阶段性的工作，荣誉的认可并不意味着有很多额外的利益。特别是那些理应通过学术竞争才能得到的利益，这个应该回归学术竞争，把院士制度去利益化。</p>
+<p><strong>屠呦呦获奖并不意味着对传统医学的认可</strong></p>
+<p>凤凰网：您怎么看他那个屠教授科学发现和传统中药知识的关系。我们应该如何对待传统的医药资源？</p>
+<p>鲁白：屠得诺奖，并不意味着传统的中医、中药得到了现代科学的认可。诺贝尔奖是给屠呦呦从中药里面分离出来青蒿素，而这个青蒿素又对医学对这么重要。今天当有记者问到这是不是第一次给中药发诺贝尔奖时，委员会明确地否认了。中医中药必须要走上现代化道路。屠呦呦把中药里面的有效成分给分离和鉴定出来，把它变成一个纯的化学药物，是中药现代化的一条路径，但这不是唯一的路。大家都说中药是一个伟大的宝库，前提要用科学的态度、科学的方法和科学的理论，方能使中药变成真的宝。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%B2%81%E7%99%BD%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%99%A2%E5%A3%AB%E5%88%B6%E5%BA%A6%E6%98%AF%E5%88%A9%E7%9B%8A%E5%88%B6%E5%BA%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">利益制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%A3%E8%AA%89%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">荣誉制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%A2%E5%A3%AB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">院士制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AE%BA%E7%BF%BB%E8%AF%91%E7%9A%84%E6%8A%80%E5%B7%A7%EF%BC%9A%E7%BE%8E%E5%AA%92%E7%A7%B0%E5%8F%91%E7%8E%B0%E9%9D%92%E8%92%BF%E7%B4%A0%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%89%E5%8A%9F/" target="cdt-mirror">论翻译的技巧：“美媒”称发现青蒿素毛泽东有功了吗？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/02/%E9%9D%A0%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%B2%BB%E5%A5%BD%E7%B2%BE%E7%A5%9E%E7%97%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/02/%E9%9D%A0%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%B2%BB%E5%A5%BD%E7%B2%BE%E7%A5%9E%E7%97%85.jpg" alt="靠毛泽东思想治好精神病" width="439" height="367"></a><br><em>（网络图片）</em></p>
@@ -202,7 +270,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%BA%9A%E5%AE%B0%E5%AE%A2/?category=18271" rel="tag">三亚宰客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%80%E9%BB%84%E9%87%91%E5%91%A8/?category=18271" rel="tag">十一黄金周</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B0%E5%AE%A2/?category=18271" rel="tag">宰客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%B2%9B%E5%AE%B0%E5%AE%A2/?category=18271" rel="tag">青岛宰客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E9%87%91%E5%91%A8/?category=18271" rel="tag">黄金周</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%8C%97%E4%BA%AC%E5%AE%9E%E7%8E%B0%E7%9B%91%E6%8E%A7%E6%91%84%E5%83%8F%E5%A4%B4%E7%99%BE%E5%88%86%E7%99%BE%E5%85%A8%E8%A6%86%E7%9B%96/" target="cdt-mirror">自由亚洲 | 北京实现监控摄像头百分百全覆盖</a>
 </h2>
@@ -638,60 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%AD%9F%E7%BE%A4%E3%80%81%E7%BE%8E%E5%9B%BD%E8%AE%BF%E6%B0%91%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-04/" target="cdt-mirror">【敏感词库】孟群、美国访民等近日热点2015-10-04</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/04/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/04/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg" alt="习近平" width="321" height="427"></a><br><em>(图片作者：李小乖)</em></p>
-<p>[ 测试时间：2015年10月4日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
-<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
-<p><strong>孟群 </strong>(详见：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/"><span>亚洲周刊</span><span> | </span></a><span><a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/">一个妻子的这一年</a>）</span><br><strong> 葛丽芳＋车队</strong><br><strong> 访民＋美国</strong> (详见：<a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/">马永田</a><span>拦车上访）</span></p>
-<p><strong>共贼</strong></p>
-<p><strong>习帝王</strong><br><strong> 习＋女儿</strong><br><strong> 习＋肖建华</strong><br><strong> 习近平＋股份</strong><br><strong> 包子＋中国梦</strong><br><strong> 包子＋专制</strong></p>
-<p><strong>610办＋令计划</strong><br><strong> 610办＋中共</strong><br><strong> 外交部 + 江</strong></p>
-<p><strong>中国泛蓝联盟</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%9F%E7%BE%A4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%9F%E7%BE%A4.png" alt="孟群" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%91%9B%E4%B8%BD%E8%8A%B3%EF%BC%8B%E8%BD%A6%E9%98%9F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%91%9B%E4%B8%BD%E8%8A%B3%EF%BC%8B%E8%BD%A6%E9%98%9F.png" alt="葛丽芳＋车队" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BE%8E%E5%9B%BD-%E8%AE%BF%E6%B0%91.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BE%8E%E5%9B%BD-%E8%AE%BF%E6%B0%91.png" alt="美国 + 访民" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%B1%E8%B4%BC.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%B1%E8%B4%BC.png" alt="共贼" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E5%B8%9D%E7%8E%8B.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E5%B8%9D%E7%8E%8B.png" alt="习帝王" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A5%B3%E5%84%BF%EF%BC%8B%E4%B9%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A5%B3%E5%84%BF%EF%BC%8B%E4%B9%A0.png" alt="女儿＋习" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0-%E8%82%96%E5%BB%BA%E5%8D%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0-%E8%82%96%E5%BB%BA%E5%8D%8E.png" alt="习 + 肖建华" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%A1%E4%BB%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%A1%E4%BB%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3.png" alt="股份 + 习近平" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E5%8C%85%E5%AD%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E5%8C%85%E5%AD%90.png" alt="中国梦 + 包子" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%93%E5%88%B6-%E5%8C%85%E5%AD%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%93%E5%88%B6-%E5%8C%85%E5%AD%90.png" alt="专制 + 包子" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BB%A4%E8%AE%A1%E5%88%92-610%E5%8A%9E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BB%A4%E8%AE%A1%E5%88%92-610%E5%8A%9E.png" alt="令计划 + 610办" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%85%B1-610%E5%8A%9E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%85%B1-610%E5%8A%9E.png" alt="中共 + 610办" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F-%E5%A4%96%E4%BA%A4%E9%83%A8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F-%E5%A4%96%E4%BA%A4%E9%83%A8.png" alt="江 外交部" width="475" height="204"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F.png" alt="中国泛蓝联盟" width="475" height=""></a></p>
-<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%AD%9F%E7%BE%A4%E3%80%81%E7%BE%8E%E5%9B%BD%E8%AE%BF%E6%B0%91%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-04/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85%AC%E5%AE%A4/?category=18271" rel="tag">610办公室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习近平包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%BE%A4/?category=18271" rel="tag">孟群</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%BD%E6%88%88%EF%BC%9A%E7%88%B1%E5%9B%BD%E7%9A%84%E8%AF%AF%E5%8C%BA/" target="cdt-mirror">羽戈：爱国的误区</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%8D%A7%E5%85%9A%E6%97%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%8D%A7%E5%85%9A%E6%97%97.jpg" alt="捧党旗" width="385" height="454"></a><br><em>（网络图片）</em></p>
-<p><strong>微信公号：羽戈（yuge830）</strong></p>
-<p>“爱国”这两个字，对一些人而言是鸡血，对另一些人而言则是狗血，对一些人而言如蜜糖，对另一些人而言则如砒霜。回顾这个词语的演进史，自诞生以来，恐怕从未像今天这样莫衷一是，饱受争议。好之者一如既往奉其为金科玉律，恶之者则将其与专制、洗脑等臭名昭著的概念画上等号，甚至有人特地整理了批判爱国主义的名言，兹录数则：</p>
-<blockquote><p>爱国主义是一种有害的、精神错乱的白痴形式。（乔治·萧伯纳）</p>
-<p>爱国主义就是积极地为了微不足道的原因杀人并被杀。（伯特兰·罗素）</p>
-<p>爱国主义：一堆随时可以被任何野心家所点燃，去照亮他的名字的易燃垃圾。（安布罗斯·皮尔斯）</p>
-<p>任何时候，当你听到一个人说他爱他的国家，这是一个信号，表明他在期待为此获得报偿。（门肯）</p>
-<p>……</p></blockquote>
-<p>对国人来讲，最犀利的名言，莫过于1980年代初期电影《苦恋》的那句经典台词：你爱祖国，可是祖国爱你吗？</p>
-<p>结束引述，回到正题：爱国一词，由褒而贬，由好而恶，何以沦落如此之速？如今许多人不敢爱国，不愿爱国，或者痛斥爱国，究竟发自他们自身的冷漠呢，还是这个国家令人恐慌、厌憎？（这些问题不能成立么，请你去做一个实验，在公共场所大喊三声“我爱国”，看看迎来的掌声更多，还是白眼或骂声更多？）</p>
-<p>我的判断源于我的生活。在我身边，颇有一些朋友，对国家充满了莫名的仇恨与恐惧，敬爱国而远之，抑或谈爱国而色变。一说爱国，他们便反问：这是你的国么，你有资格去爱么；正如一说卖国，他们便反问：这是你的国么，你有资格去卖么？——我从不怀疑他们对吾国吾民的深挚情感，只是，他们对国家的认知，可能误入了另一个极端。</p>
-<p>这不是肉食者的中国，这不是权贵阶级的中国，这不是既得利益者的中国，这不是谁的中国，这就是你的中国。你脚下的土地，就是你的中国。你眼前的山水，就是你的中国。你身边的民众，就是你的中国。你的方言，你的汉字，你的美食与美人，就是你的中国。你的光荣与梦想，激情与哀愁，就是你的中国。不要嫌它阴暗，不要嫌它丑恶，这就是你的中国。</p>
-<p>当你不敢承认，这是你的中国，那么你便将这大好国家拱手让给了你所反对、厌恶的那些人。</p>
-<p>这是你的中国，你却不敢去爱，反而满腔愤恨，那么你只能与你的国家渐行渐远、形同陌路，最终，它也许不再是你的中国。</p>
-<p>我是一个爱国者，我爱我的国，就像爱我的家一样自然、朴素。当然，此处之“爱”与“国”都有待细究。</p>
-<p>第一，所谓爱，不止是热爱，批判同样是爱；不止是认同，反对同样是爱。当国家一身病毒，却不许国人指出，反而在爱国主义的政治化妆术之下，使“红肿之处，艳若桃花；溃烂之时，美如乳酪”，这不是爱国，而是害国、卖国。此刻，相比一味的爱与认同，批判与反对才是真正的爱国。如托马斯·杰弗逊所云：异议是爱国的最高形式。说到底，若爱不自由，或者被狭隘化，则爱国毫无意义。</p>
-<p>第二，所谓国，涉及一点常识：国家不等于政府，正如政府不等于政党。必须承认，政府是国家的核心，若谓国家是机器，政府便是轴承，许多时候，许多地方，政府都可以代表国家。但是，这绝不等于说政府就是国家。《国家的常识》的作者迈克尔·罗斯金曾指出：“有时候，政府可能先于国家出现，比如大陆会议先于并建立了美国。”政府还有可能与国家分离，比如二战期间，戴高乐的自由法国政府，一度处于流亡之中，远离法兰西的土地而存在。</p>
-<p>顾炎武辨析“亡国”与“亡天下”：国家兴亡，肉食者谋之，这里的“国家”，正对应我们所言的政府，或曰朝廷；天下兴亡，匹夫有责，这里的“天下”，才是我们所言的国家。这一对照，国家与政府的形象随之泾渭分明。国家的分量，远远重于政府，国家是永恒的存在，政府是流动的存在，就像我们中国，数千年来，生生不息，这中间，经历了多少朝廷、多少政府呢，后者之更迭，只道是寻常。</p>
-<p>所以说，爱国家不等于爱政府，正如建立国家（建国）与建立政府（建政），不可混为一谈。爱国之“国”，与爱国之“爱”一样，最忌狭隘化。如果对国的理解，陷入政治的桎梏，那么爱国者终将沦为权力的炮灰。</p>
-<p>我曾总结爱国的四大误区，前面这两点，以“爱国的狭隘化”之名，被归为一处。还有三点，恕我直接钞旧文：</p>
-<blockquote><p>“爱国的第二大误区，即将爱国主义化。我愿意自许爱国者，却不愿自许爱国主义者。个体化的言说与行为，一旦冠以“主义”的宏大后缀，犹如一个瘦弱的旅人，忽然被加载千斤重负，本来笔挺的脊背即刻弯曲下来，而生出一副奴才相。爱国就是爱国，是我与我所生存的国家之间的自由恋爱，任何人与权力不得干涉；若被主义化，则沦为包办婚姻，其幸福指数直线下降。爱国是个体的行为，爱国主义则是一场集体的癫狂，在主义的压榨之下，个体与爱都会丧失独立性。要言之，爱国无须主义，主义化的爱国未必是真爱。</p>
-<p>爱国的第三大误区，即将爱国神圣化（或者神经化），藉爱国之名，行欺人、侵权、违法之实。远如‘五四运动’之火烧赵家楼，践踏曹汝霖家的人和财物；近如2012年风起云涌的保钓游行，在广州、深圳、杭州等地，对日货、日系车、日本店进行打砸抢。话说回来，我支持保钓，却不支持这般简单粗暴的保钓。这么做，不消说保卫钓鱼岛，连自家钓鱼的河流都保卫不了。你不懂得尊重他人的财产权（大多日货，虽为日本制造，却属国人所有；大多寿司店、料理店，更是国人所开，况且美食从来不分国界），谈何让他人尊重你的财产权，相比爱国的神圣，财产权更加神圣不可侵犯；你号称抵制日本人，实际上却在抵制自己的同胞，其结果，必定为同胞所抵制。所以这样的爱国者，通常被斥为‘爱国贼’。</p>
-<p>爱国的第四大误区，在于爱国的崇高名义，除了被盗用成贼，还被滥用成灾。譬如抵制日货的壮士，高举爱国的义旗，最终将自己抵制成了蠢货，如此，爱国的旗帜，焉能不脏？再如，我惯用一个案例，这里重述一遍。中日战争期间，由于中国屡战屡败，有些好汉满腔忧愤无处诉，企图从战场之外找回面子，便跑去日本妓院，点了一名日妓，狠狠发泄一通，回去后四处宣扬为国争光，在床上打败了日本人，此即典型的‘床上爱国主义’，如此，爱国的名头，焉能不臭？长此以往，爱国这个词焉能不坏？”</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%A0%E7%88%B1%E5%9B%BD%E5%90%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%A0%E7%88%B1%E5%9B%BD%E5%90%97.jpg" alt="你爱国吗" width="575" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%BD%E6%88%88%EF%BC%9A%E7%88%B1%E5%9B%BD%E7%9A%84%E8%AF%AF%E5%8C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%B7%AF%E5%85%9A/?category=18271" rel="tag">带路党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%BD%E6%88%88/?category=18271" rel="tag">羽戈</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -703,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -713,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

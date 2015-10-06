@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%86%89%E4%BA%91%E9%A3%9E-%E7%94%B1%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%B9%8B%E9%97%AE%E4%B9%8B%E4%BC%AA%E8%B0%88%E5%B1%A0%E8%8E%B7%E8%AF%BA%E5%A5%96%E4%BD%95%E4%BB%A5%E6%98%AF%E6%9E%81%E5%B0%8F/" target="cdt-mirror">冉云飞 | 由钱学森之问之伪谈屠获诺奖何以是极小概率事件</a>
+</h2>
+<p><p>首先恭喜屠呦呦女史获诺贝尔医学奖，这当然是中国人对人类医学贡献得到的一点世界性肯定。我不准备对这奖项引起的诸多争议进行全面的议述，有人或许会由此大赞集中一切力量办大事的体制（66年才得此一项科学奖，这集中一切力量办大事的体制，与英美的体制相比何如呢？），甚至像赞美“用毛泽东思想治疗精神病”一样，歌颂毛时代启动了屠呦呦等人集体攻关——此攻关不是毛关心自己人民的身体健康，而是受越南之请为解决越南军中疟疾问题——提取青蒿素而攻克疟疾问题。请恕我没有时间与这种不尊重事实，经不起逻辑推敲的打鸡血行为争论。</p>
+<p>05年温家宝去看望钱学森时，钱说道：“这么多年培养的学生，还没有哪一个的学术成就，能够跟民国时期培养的大师相比”。“为什么我们的学校总是培养不出杰出的人才？”老实说，这样的问题可谓明知故问，揣着明白装糊涂，看看钱学森在大跃进时支持亩产上万斤，反右时痛斥右派反社会主义言论，你就知道这个所谓的著名的“钱学森之问”，完全是个伪问题。一个不自由的制度下的学校教育，怎能培养出人才？</p>
+<p>四九年后文理割裂，只有科学工具，科学机器却没有科学精神，这正是当权者所希望看到，于是科学家来论证亩产万斤，来论证大炼钢铁，来论证在饿死很多人的大饥荒时期“粮食吃不完怎么办”这样的伪问题，这便他们的“科学精神”，这便是他们所受的教育对基本常识的摧毁，对基本底线的践踏。钱学森在这方面有“特别贡献”。所以钱学森能在众多人殒命，非正常死亡的国家成为官方不倒翁的招牌，不是没有因由的。用良知作交易，换取官方的称赏和配给的利益，除了高压之情非得已以外，也难以摆脱主动配合的质疑。这便是四九年后的许多科学家的“科学精神”，钱学森只不过在这场进良心交易的“比学赶帮超”中位居前列的“模范”罢了。</p>
+<p>下面这篇“宏论”选自1957年9月中国人民大学编辑印行的《社会主义思想教育资料选辑》（第二辑上册）第300至301页。他这段讲话，缺乏基本的逻辑，难怪他的“科学精神”是没有人文内涵的“科学工具”。有组织有领导，组织和领导受不受监督，难道是一样的么？一个组织一个政党独大，没有任何可制约它的制度设计，难道这样的组织与领导不应该受彻底的质疑与批评吗？自由和民主与组织、领导之间有必然的关联吗？没有组织没有领导就没有自由吗？连基本的政治学常识都不懂或者不讲，可谓谎谬之至。</p>
+<p>美国的黑人与犹太人乃至少数裔是有受歧视的一面，他们从不隐讳，而且在逐步改进中。而中国官方明目张胆地歧视，将民众分成地富反坏右，将民众按对官方的忠诚程度分为三六九等，视农民为二等公民，官员与民众之完全不平等之歧视，做得之露骨做得之无耻，难道钱学森真的不明白吗？而且许多歧视到现在依旧没有改变，在生活的各个方面进行大张旗鼓的歧视，例如不许民众合租房子等等，指不胜屈。</p>
+<p>至于广告有商品买卖中以至经济生活中的作用，钱学森的认识可谓连一点小儿的常识都不具备，或者是迎合官方的“圣意”而有意装聋作哑。广告费是商家自己的支出，最终由消费者买单，满足消费者的产品需求和物质欲望，最大限度地保证他们民众对琳琅满目的商品的选择权利，使商品在良性竞争保持质量与价格维持在一个民众可以接受的层面上，商家在这种过程中就“为人民服务”了。至于官方要“为人服服务”则是把纳税人的钱用在刀刃上，用在该用的地方，让他们不去花更多的冤枉钱，比如在教育、医疗、住房等方面不去重复地花不应该花的钱。中国官方在那个时候是把广告费给省了，但在为谁服务呢？老百姓吃不饱饭，饿死几千万，这就是他们的“为人民服务”吗？</p>
+<p><strong>钱学森痛斥右派反社会主义言论：</strong></p>
+<p>不要领导和组织的民主自由是没有的</p>
+<p>著名科学家钱学森在今天（6月21日——编者）的一次科学工作者的集会上，痛斥右派分子反党反社会主义的荒谬言论。</p>
+<p>钱学森首先从应该怎样理解民主和自由的问题谈起。他说：右派分子好象是在替人民要求民主和自由。但是他们所要求的民主和自由，是一种不要领导和组织的民主和自由。这种民主自由是没有的。随着人类社会的进步，社会的组织工作就越来越复杂、繁重。有社会的组织工作，就要有领导。目前的问题是：要资本主义的领导呢？还是社会主义的领导？有人说，资本主义也不坏呀。我们在座的人都经历过一些解放前的生活，谁还想要那种生活呢？也许有人说，我们中国过去不好，最发达的资本主义国家——美国的生活可能好些吧？我在美国的社会里钻了二十年，我要说，美国的“物质文明”是先进一些，但是，美国的黑人、犹太人却要受压迫和歧视，中国在那里也受歧视。美国每年用在商业广告等非生产方面和军事方面的费用有几百亿美元。假设美国没有资本主义，而是社会主义制度，这些钱就可以拿来为人民服务，人民生活也就会好。所谓美国生活的优越只是在表面上，事实上要不得的东西太多。它有一个很大很好的科学技术基础，但并没有给人民带来多大好处。到底应该选择资本主义的领导，还是社会主义的领导呢？当然，只能选择社会主义的领导。</p>
+<p>钱学森说，过去，共产党的领导工作中是存在过一些缺点和错误，共产党提出整风也正是因为要克服自己的缺点错误。但是，究竟是成绩多，还是缺点错误多？当然，大多数人都看得很清楚，成就是最主要的。比如肃反问题，虽然在工作上有某些缺点错误，但不肃反行不行？如果不肃清反革命分子，我想我们今天恐怕就不能在这里坐得这样安稳。</p>
+<p>钱学森最后强调说，党的领导工作中的缺点错误是有的，但马克思主义的正确性不容动摇。我们知识分子要诚恳地帮助党。我们要贡献出我们的知识，在党的领导下，把中国的社会主义建设好，站在这个坚定的立场上，我们可以尽量地讲出自己的意见，党是会接受我们的诚恳帮助的。</p>
+<p><strong>（选自1957年6月22日“光明日报”）</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%86%89%E4%BA%91%E9%A3%9E-%E7%94%B1%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%B9%8B%E9%97%AE%E4%B9%8B%E4%BC%AA%E8%B0%88%E5%B1%A0%E8%8E%B7%E8%AF%BA%E5%A5%96%E4%BD%95%E4%BB%A5%E6%98%AF%E6%9E%81%E5%B0%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%B9%8B%E9%97%AE/?category=18271" rel="tag">钱学森之问</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%BE%8B%E8%AF%BB%E5%BA%93-%E5%87%8B%E6%95%9D%E7%9A%84%E4%B9%A1%E6%9D%91-%E7%8A%B9%E5%A6%82%E4%B8%8A%E4%BA%86%E5%B9%B4%E7%BA%AA%E7%9A%84%E8%80%81%E4%BA%BA/" target="cdt-mirror">法律读库 | 凋敝的乡村 犹如上了年纪的老人</a>
 </h2>
 <p><p>外地求学以来，回老家的时间越来越少。及至在临县上班，也只是隔几周回去一次。与乡村维系的纽带似乎就剩下那个老父母守护着的农家院落了。而那个院落，也随着老父母断断续续的跟随自己离开，即将成为一个空壳。但是比起常年在外，一年一次甚或几年一次回家的同龄人，我算是距家最近、回家频次最高的了。</p>
@@ -173,7 +196,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%BA%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E4%BF%9D%E9%9A%9C/?category=18271" rel="tag">人权保障</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">全面监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E9%9A%90%E7%A7%81/?category=18271" rel="tag">公民隐私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E7%BD%91/?category=18271" rel="tag">天网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E5%85%88%E6%92%95%E4%BB%BB%E5%A4%A7%E7%82%AE%EF%BC%8C%E5%86%8D%E6%88%98%E6%BD%98%E7%9F%B3%E5%B1%B9/" target="cdt-mirror">【网络民议】共青团先撕任大炮，再战潘石屹</a>
 </h2>
@@ -657,39 +680,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%B8%8E%E5%9B%BD%E9%99%85%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/" target="cdt-mirror">BBC｜吴祚来：习近平访美与国际合法性问题</a>
-</h2>
-<p><p>习近平的美国之旅，说穿了，就是寻找其国际合法性之旅。习近平要通过这次国际合法性的获得，增强其内政的合法性及个人威权建设。但不幸的是，习近平的美国之行遭受多重敲打。</p>
-<p>习近平首先看到的是自己在大陆难以一见的访民围追堵截，从西雅图到华府，再到纽约，遭到迫害的民间信仰者、访民还有民运人士、大陆少数民族，直接面对习近平的车队，最严重的情况是，访民直接扑到了习的车队前，造成车队停留。</p>
-<p>美国主流社会呢？美国国会举行非正式的早餐会，民运异见人士、维权人士等一起，与白宫唱对台戏，抗议中国政府对人权的侵犯。</p>
-<p>而在联合国讲台上，尽管彭丽媛有着比较流利的英语发言，习近平也减免诸多不发达国家的债务，并计划设立上百亿的发展基金，结果，人们看到，只有获得好处的国家，成为听众，其它坐席空置。不仅没有人给这位大国领导人面子，与中国多有交情的希拉里，更在推特（Twitter）贴文批评，北京逮捕女权人士，习近平却主持联合国女权国际领袖会议是“无耻”。美国驻联合国大使鲍尔（Samantha Power）表示，如果要赋予女性权力，那就不应该因为言论和信仰的原因拘留他们。</p>
-<p>美国总统奥巴马除了强烈关注网络数字安全之外，对中国人权状况也提出了严厉批评：”阻止记者、律师、非政府组织和公民社会团体进行自由的运作，或者关闭教会和拒绝平等对待少数民族群体，这些在我们看来都是存在的问题。”</p>
-<p>但习近平无法正视自己的政府侵犯人权与官方背景的网络军队窃取信息的现实，只是以国家发展阶段性或人民意愿的套话予以搪塞。</p>
-<p>习近平访美过程中应该看到，大量的原中国民间信仰者因为受到迫害，而要求起诉、公审江泽民，访民成为中国稳定与安全的问题之后，正在成为国际性的话题，所以，内政中的侵犯人权问题，日益成为党国政府与国家领导人国际合法性的原则性问题。</p>
-<p><strong>一切为了建立威权</strong></p>
-<p>习近平当政已过一千天，无论在强力反腐败，还是南海筑岛，无论是封杀网络言论打击大V与维权律师，还是对边地少数民族的高压政策，在中央体制之中，成立多个领导小组，这一切，都是为了实现威权或极权之治。</p>
-<p>习成长过程是毛泽东当政的过程，在个人宣传方面，还有对异已力量的强力打压方面，我们都能看到毛泽东对他深刻的影响，同时，胡锦涛时代被老人干政庸人之治、政令出不了中南海，也驱使他必须建立个人威权，在行政领域不让自己屈辱，而在国际领域，他也想“扬眉吐气”，敢于挑战既有的国际秩序或在一定程度上改变一些现状。</p>
-<p>习一改邓时代留下来的“韬光养晦”的政治遗训，上任一二年时间，即在东海、南海、中印边境、中越边境与海域，产生了军事摩擦，敢于在东海建立防空识别区，接着在南海筑岛，引发国际社会普遍焦虑。在经济领域，为走出困境，习政府策划了一带一路的西进扩张，并设立了亚洲基础设施投资银行（简称“亚投行”），希望在区域内成为经济领袖，驱动区域经济发展，以化解中国正面临的经济危机，这种带有扩张性的经济决策，是中国经济需要突破困境使然，但也看出，习新政的一厢情愿，特别是与西方发达国家在经济规则领域与政治领域造成诸多摩擦，意图通过另辟蹊径，寻找出路。就像当年毛泽东发现一个亚非拉第三世界一样，不能遵守西方主导的世界规则的中国，仍然希望通过与非民主国家的合作，来获得国际空间，并通过强大的金元外交，换取自己在国际社会或联合国的合法性。</p>
-<p>继毛泽东之后，习正在构建新的极权，将党的利益、国家经济、个人威权高度统一，深信自己通过强人之治，可以引领这个国家走向世界强国之列。</p>
-<p>有一种幻觉叫中南海幻觉，身处中南海权力核心，最高权力者需要什么，身边的人就会提供什么，中央权力似乎无所不能，中国力量似乎可以无处不在，这种幻觉使当权者易生狂妄之念。人们记得，习当政之后与普京见面，就认为自己性格像普京，这意味着，习希望自己能像普京那样，敢于挑战世界现行的规则，做政治强人。所以习与西方保护着距离，在意识形态与政制方面，却倾向于北方与南方，即北方的俄罗斯，南方的新加坡，习的理想国是，像俄罗斯那样在国际上强势，像新加坡那样对国民进行有效管治。</p>
-<p>所以习更喜欢派官员到新加坡学习管理，而在一些象征性的国事活动中，联合的却是普京，习出席普京的国际性活动，以交换普京出席习的阅兵式。俄罗斯或普京因素在多大程度上能给习的威权增添荣光，是不确定的，但在现在的国际格局中，中国龙与北极熊相拥互相取暖，以抗拒西方社会（包括对叙利亚问题的联合国相关投票）。</p>
-<p>习在联合俄罗斯普京的同时，受到西方世界的焦虑与反感，中国不可能没有美国主导的西方市场，尽管美国总统没有出席北京的阅兵仪式，但习还是带着钱袋子，到美国救火，希望用撒钱的方式谋求其国际合法性问题。</p>
-<p><strong>习近平应该反思</strong></p>
-<p>习近平及其团队应该思考，为什么同期访美的教皇受到美国朝野崇高的礼遇，他并没有给美国带来巨额的投资或给联合国以经济援助，而中国作为新崛起的经济大国，是美国重要的债主国，一出手就购买三百架波音飞机，大笔一挥，就减免了不发达国家数以亿计美元的债务，不仅没有受到教皇那样的尊崇，反而到处被抗议者围追堵截，或被美国主流社会批评指责。</p>
-<p>解释只有一个，这是一个价值主义的时代，尊崇人类价值的精神主体，必受尊重，而背离人类共同价值的国家，必被抨击与诟病。像希拉里这样用“粗鄙”语言抨击习近平，并不是因为习是未经选举的领导人，而是其当政之后，人权状况持续恶化。</p>
-<p>按起葫芦浮起了瓢，内政问题国际化，国际问题也会内政化。中国政府侵犯人权，已严重影响其大国地位，在联合国人权机构的合法性也一直受到质疑，人权问题越来越受到国际社会重视，所以习政府面临的责难声会更大。而当习动用国力，以减免部分国家巨额债务、以及动用数以十亿计的美元来促进联合国有关计划实施之时，如此巨额动用国民财富，又面临国内合法性质疑与责难。中国政府一直是怎样对外援进行决策的，决策过程怎样，风险评估如何，效益评价又要如何进行？</p>
-<p>北京的《环球时报》替中国的金元外交辩解，说舍不得对外援助，就无法在国际社会混。许多外援中国无法公开说明原因，为什么不敢公诸于众呢？因为中国需要那些国家在联合国的各种投票支持，所谓的外援就是金元换国际投票权。而这种滥用金元外交，挥霍国库以构建政权的国际合法性，正面临国际国内合法性的责难。</p>
-<p>习近平曾多次引用这句经典：“以势交者，势倾则绝；以利交者，利穷则散。”那么君子应该以什么相交？当然是情义之交，什么是情，就是博爱精神，什么是义？就是用法治的公平正义保障人权。</p>
-<p>无论如何，习近平新政的国际合法性，仅仅靠资本交易、金元外交是不可能实现的，利的层次必须上升到义的高度，金元不可能是人类核心价值，人权以及保障人权的宪政才是核心价值，读美国精神的书，只是学生阶段，而践行人类共同价值，用价值外交替代金元外交，才是政治家应有的追求。</p>
-<p>（责编：友义）</p>
-<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%B8%8E%E5%9B%BD%E9%99%85%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -701,7 +691,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +701,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BA%BD%E7%BA%A6%E6%B3%95%E9%99%A2%E4%BB%A4%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E4%BA%A4%E5%87%BA%E9%80%A0%E5%81%87%E9%9B%86%E5%9B%A2%E8%B5%84%E6%96%99/" target="cdt-mirror">德国之声｜纽约法院令中国银行交出造假集团资料</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C.jpg?w=550" alt="中国银行" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/Gucci.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/Gucci.jpg?w=550" alt="Gucci" height="" data-recalc-dims="1"></a></p>
+<p>纽约一名法官要求中国银行交出一个造假集团在该行的帐户详细信息。该集团被指控在美国销售大量仿冒的Gucci手袋和钱包，进帐数百万美元。</p>
+<p>该项决定可能对美国法院从中国的银行取得犯罪活动信息的能力产生深远影响。欧美的调查和起诉案例显示，中国各家银行是伪造者和大规模洗钱的安全避风港。</p>
+<p>中国各银行则强烈反对美国的做法，认为美方要求其公开客户信息的行为是蔑视中国主权。这起案件引起了美中政界的关注。其中涉及的基本问题是，在美国运营的中资银行究竟该依照何方的规则行事。美联社指出，大型的中国国有银行经常被伪造者用于转移非法所得至西方执法人员鞭长莫及的国家。</p>
+<p>由欧美的案例看来，中国的金融体制也被旅居国外的中国人和其他国家的犯罪团体利用于洗钱。但中国的法制系统使得调查人员难以取得详细的银行记录，无法追踪犯罪所得及冻结不法资金。</p>
+<p>在Gucci包伪造案中，法官苏利文（Richard Sullivan）判决美国法院对中国银行在美分行拥有司法管辖权，判决结果仍可上诉。中国银行在在美设有四家分行，并声称是电汇美元来往中国的最佳选择。</p>
+<p>奢侈品牌Gucci指控一造假集团贩卖仿冒的Gucci手袋和钱包</p>
+<p>苏利文9月29日在判决书中写道：”要求Gucci在中国启动相关程序缺乏效率、极度耗费时间，而且可能无果而终。”</p>
+<p>美国知识产权律师波特（Geoffrey Potter）表示，中国多家银行为中国伪造者转移款项，若能强制要求这些银行透露客户信息，将提高伪造生意的经营难度。</p>
+<p>香港知识产权咨询公司Simone IP Services的知识产权律师普雷恩（Dan Plane）认为，美国法院的决定”或对其他想从中资银行获得此类信息的起诉人有所助益”。但他也警告这最后或沦为空洞的判决。中资银行可能会尽可能只透露少量信息。</p>
+<p>即使Gucci最终从中国银行取得所需的信息，在主张赔偿时仍旧可能碰壁。此前对中国造假商提起诉讼的奢侈品牌蒂芙尼（Tiffany & Co.）就是一个发人深省的案例。蒂芙尼在近两起诉讼中胜诉，6月和9月法院分别判决蒂芙尼可获得523万美元和265万美元的赔偿金。但蒂芙尼在向被告求尝时却面临了棘手的难题。所有被起诉者皆未出席庭审，据信多数被告身在中国，美国法院无法强制执行赔偿。</p>
+<p>蒂芙尼和Gucci拒绝对此事进行评论。中国银行代理律师戴维斯（Andrew Rhys Davies）未对路透社的提问做出回应。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BA%BD%E7%BA%A6%E6%B3%95%E9%99%A2%E4%BB%A4%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E4%BA%A4%E5%87%BA%E9%80%A0%E5%81%87%E9%9B%86%E5%9B%A2%E8%B5%84%E6%96%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD/?category=18271" rel="tag">中国和美国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E9%80%A0/?category=18271" rel="tag">伪造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A2%E4%BE%88%E5%93%81/?category=18271" rel="tag">奢侈品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83/?category=18271" rel="tag">知识产权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%A0%E5%81%87/?category=18271" rel="tag">造假</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E6%8B%9F%E8%BF%BD%E7%A9%B6%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E9%81%AD%E6%8A%97%E8%AE%AE%E5%8F%8A%E6%8B%A6%E9%A9%BE%E5%96%8A/" target="cdt-mirror">法广｜中共高层拟追究习近平访美时遭抗议及拦驾喊冤事件责任</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/v12.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/v12.jpg?w=550" alt="v12" height="" data-recalc-dims="1"></a><br>
+中共高层拟追究习近平访美时遭抗议及拦驾喊冤事件责任 图为一名申冤者突然冲向中国代表团车队<br>
+网络照片</p>
+<p>中国当局可能追究中国国家主席习近平访问美国时遭到多起抗议和访民拦截车队告状喊冤事件，除了要求官方寻找防范抗议和防止拦截车队喊冤的漏洞，也要追查谁是这些示威以及挡驾喊冤的幕后策划者。</p>
+<p>据网络引述博讯报导，结束对美国国事访问的中国国家主席习近平，对此程访美中出现的颇多问题心有不满，在十一国庆招待会之后指示中办召集外交部检讨工作，总结访美组织工作的纰漏。当局将追究在美拦习近平车队喊冤陈情事件。</p>
+<p>习近平对美国的国事访问四天，加上在纽约出席联合国纪念活动三天，总共在美国七天，但访美期间的种种抗议示威活动如影随形。尽管中共严密封锁消息下中国大陆民众无法知情，但习近平及其团队却对一路随行的抗议示威印象深刻。</p>
+<p>尤其是白宫外中国冤民拦车陈情减冤，一度拦停习近平夫人彭丽媛的座驾，险酿危情，成为国际大丑闻，致使习近平大为不满，当时指令驻美使馆派人到场，收下拦车陈冤者的诉状。当然，当局动机很可能不是为冤民解决问题，而是要了解冤民来自何方，要对他们所在的当地政府问责。</p>
+<p>据消息指，中方对美方没有有效阻拦中国冤民拦路告状表示不满，但考虑到访美日程太满，加上美方也无法一一满足中方临时提出的特殊要求，外交部也无法立即组织和动员，规模庞大的欢迎队伍和愿意配合的群众演员。事件只能回国后处理。</p>
+<p>据消息说，中国官方根据习近平指示，要求外交部在例行工作总结中，重点检讨以下问题，并在国庆节后向中办提交报告：1. 西雅图、华盛顿和纽约三地抗议人员的组织者到底是谁？2. 华盛顿访民拦截车队，是否早有预谋？有无政治目的和背景？3. 驻美使领馆今后如何能更有效地团结华人华侨，配合党和国家领导人到访。4. 外交部如何更加高效地开展驻外工作。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E6%8B%9F%E8%BF%BD%E7%A9%B6%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E9%81%AD%E6%8A%97%E8%AE%AE%E5%8F%8A%E6%8B%A6%E9%A9%BE%E5%96%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/?category=18271" rel="tag">马永田</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%97%E5%88%B0%E7%8B%97%E7%B2%AE%E7%9A%84%E4%BA%94%E6%AF%9B%E5%92%8C%E6%B2%A1%E5%88%86%E5%88%B0%E7%8B%97%E7%B2%AE%E4%BA%94%E6%AF%9B%E4%B9%8B/" target="cdt-mirror">【立此存照】得到狗粮的五毛和没分到狗粮五毛之间的内部矛盾</a>
 </h2>
 <p><p>知名“爱国人士”胡杨麟，近日出人意料地在微博公开指责花千芳，称其在背后对他落井下石。他同时还道出了一句真相：“五毛就是这人品，哪怕是上过电视的也一个德行，为了骨头什么良心友情道德全是狗屁，见谁咬谁。”</p>
@@ -653,126 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%AD%8F%E6%AD%A6%E6%8C%A5%EF%BC%9A%E4%B8%8A%E6%B5%B7%E5%AA%92%E4%BD%93%E9%82%A3%E7%82%B9%E4%BA%8B%E5%84%BF/" target="cdt-mirror">魏武挥：上海媒体那点事儿</a>
-</h2>
-<p><p>一</p>
-<p>上海商报和上海壹周的关门停刊，引起了一些人的注意。</p>
-<p>然后又引起了一堆的感慨，还把过去的陈年旧帐都翻了出来。人都有追忆的好习惯，也没什么。</p>
-<p>但其实也有不少人，搞不清上海传媒业到底是啥情况，以至于都还认为这是上海报业的那点事儿。</p>
-<p>事实上，不是。</p>
-<p>这篇，和诸位聊聊，上海媒业的前世今世。</p>
-<p>你就当节假日随便看点八卦。有些也就是个流言。</p>
-<p>二</p>
-<p>话说，很早很早的时候，上海滩媒体属于春秋时期，也就是各做各的。</p>
-<p>后来出了一个人，姑且称为G先生。</p>
-<p>G先生是东北那个文科职校毕业的，在职校里很有些人脉，流言说：职校乃是G先生的大本营。</p>
-<p>G先生执掌沪上公关部老大一职，属于实权派。他做了一件当时很有些大手笔的事：将各路媒体整合起来，搞了一个解放集团和一个文新集团。</p>
-<p>沪上本来有一张很市场的报纸，叫《新闻报》，被纳入到解放之中。是的，后来的晨午晚三报，系出同门。</p>
-<p>G先生还干了一件事，就是弄了个地方新闻门户网站：东方网。</p>
-<p>东方网可是和北京的千龙网，做出过“东方模式”、“千龙模式”的。</p>
-<p>千龙模式是9家京媒友好协商，吸引了民资注入，做的地方新闻门户。民资进入是看中了以后的上市。请注意时间：2000年3月7日（农历龙抬头），千龙成立。彼时，新浪搜狐网易都在上市过程中。</p>
-<p>东方模式是14家沪媒以行政命令的方式集资搞的，没有任何民资背景。2000年5月28日上线。</p>
-<p>2000年7月，公关总部西山会议，规定新闻网站一概不得融资不得上市。千龙梦碎。</p>
-<p>G先生之政策嗅觉和对大局把握，还是有两把刷子的。</p>
-<p>G先生还为东北那个职校的宣传学院做了一个巨大的贡献：今天宣传学院所在地，就是G先生搞定的。那个市口可叫一个好。</p>
-<p>G先生与长者之关系，江湖多有流传。不过，我想说的是，凡事不能只看表面。</p>
-<p>哦，对了，离开SMG那位中国媒体大佬，乃是G先生当年的秘书。</p>
-<p>三</p>
-<p>解放集团、文新集团，是两个在业务上极其类似的报业。前者有一张机关报，正局级。后者有两张正局级报纸。不过，前者的老大是市委委员。</p>
-<p>市民报上，解放集团下有新闻报，后一拆为三。再过了一阵子，午报放弃，被搞到SMG那疙瘩去了。主打晨报和晚报两张。晨报收益极好，七八年前都是年利数亿的主儿，还藏着掖着，不肯全报了。</p>
-<p>晚报就没晨报那么牛逼了，所以后来上报成立，第一个下手的，就是晚报。</p>
-<p>相比解放按时间搞都市报（晨午晚），文新则是按人口属性搞都市报。新民晚报是老牌的市民报，其收益，一直是上海媒业的翘楚。</p>
-<p>而东方早报则针对的是都市市民中所谓“高知人群”，一开始是非常小众的媒体，亏损是正常的。但到底还是坚持了下来，早报也是一度能盈利的报纸，而且影响力因为定位的关系，可能是上海纸媒中，逼格最高的。</p>
-<p>文新曾经也想走时间分类路数，搞过新民午报，但旋即失败。这件事的后果其实蛮严重的。当年出身职校宣传学院的一位领导，也是职校学生会主席——风云人物啊——在这件事上是栽了跟头的。不过，近年来兜兜转转，倒也混得不算差。流言说，即将出任地区公关部副总。</p>
-<p>两家集团还有些报纸，比如解放有地铁报i时代、申江服务导报、报刊文摘等。申江和文摘，也都是非常赚钱的主儿。</p>
-<p>解放旗下还有一家上市公司：新华传媒。一看名字就知道，这家公司依托新华书店，基本上垄断了沪上的教材教辅业务——这可是图书里最赚钱的一支。</p>
-<p>解放一度还和西南某省报业一起搞过一张每日经济新闻，后来解放不玩了。这报纸一度被称为“上市狙击手”，风头很劲的。不过21出事后，收敛很多。</p>
-<p>文新也有一些，有名的有外滩画报（11年改杂志了）、上海日报（英文报）、上海星期三（后改为新民地铁）、东方体育报等等。文新还有一本不赚钱但依然很重要的杂志：新闻记者。为啥重要呢？核心期刊啊！评高级职称有用。</p>
-<p>四</p>
-<p>但上海还有些报纸，不是解放的，不是文新的。</p>
-<p>上海有个世纪出版集团，主要搞的是图书出版业务，但也有报纸。比如上海商报就是他们家的。上海壹周兜兜转转后也是他们家的。这次两张报刊关停，是世纪出版的事儿，不是上海报业的事儿。</p>
-<p>世纪出版集团旗下还有一本杂志，叫《理财周刊》（不是21那个理财周报）。其实这本杂志是民营的，算是刊号挂靠性质。这本杂志的创刊人马，很多都是新闻报归属解放之后流散出来的。理财周刊曾经有非常辉煌的时候，它搞过理财博览会，在最风光的时候，曾经拒绝过农行入会摆摊——理由是：农业两个字，太土了。</p>
-<p>搞广播电视的上海文广（SMG）旗下也有报刊，比如第一财经日报（周刊），它还有一张报纸，就是新闻午报。后来改名叫天天新报，去年5月休刊。</p>
-<p>共青团也有张报纸，叫青年报。这家报纸前阵子传出消息说破产了，仔细一看，是经营公司破产。这一招玩得好，一破产就可以合法地将债务一笔勾销。青年报和北大青鸟有着错综复杂的恩怨情仇，理出来绝对是一本不错的小说。</p>
-<p>上海证券报，上交所主办新华社主管的一张有信披资格的报纸，在证券这一行里，与证券时报、中国证券报号称“三大报”。</p>
-<p>五</p>
-<p>13年下半年，沪媒发生了一桩大事，那就是解放文新合并，成立了上海报业。到了年底，出手关掉了新闻晚报。</p>
-<p>这件事震动非常大。老实讲，后来的什么天天新报、上海商报、上海壹周，从体量上说，大概也就晚报一个零头。晚报关停后数百人分流。</p>
-<p>上海报业搞了一堆的新媒体项目——对的，一堆，我也理不清楚。我曾经看到过一张表格，就是一堆。但出名的，就是三个：澎湃、界面和上海观察。</p>
-<p>澎湃和东方早报几乎可以用“两块牌子一套人马”来形容。澎湃一开始是考虑过媒体外资本引入的，但后来流言说不了了之，现在应该是上报的全资项目。</p>
-<p>界面总部在北京，不过很重要的“钱袋子”，也就是财务一摊，在上海。界面有外部资本，而且还有外部非国有资本。如果说澎湃是上海报业的孵化项目，那么，界面就是投资项目。</p>
-<p>上海观察是一个。。。行政项目。主要收入靠行政征订。由于人员不多，我琢磨着应该是盈利的。有一种商业模式叫2G（to government），上海观察当下应该是这个模式。</p>
-<p>六</p>
-<p>紧接着，沪媒又发生了一桩大事，传媒界大佬，有“中国的默多克”之称的L先生回归SMG。</p>
-<p>L先生二进宫，其实已经做好了全身而退的准备。其一，召集员工训话时公开放话说我在外边还有一摊，不能全力投入在SMG上。其二，不签字。所有签字都交给集团书记W女士。故而后来抽身走人的时候，走得特别干净。没签字就不负责，离职审查特简单。</p>
-<p>L先生在SMG，做了三件大事。其一是大小文广合并，其二是两家上市公司合并弄出个千亿市值公司，其三是引入土豪阿里投资第一财经集团。第三件事做完后，我当时就觉得，L可以走人了，也算不负一号重托。</p>
-<p>这三件事分指：组织高层结构理顺、娱乐资源整合、财经业务布局。手笔是不小的。</p>
-<p>L先生在任上，还做了一件意义深远的事，做了浙报接盘侠投了财新——不过不是SMG名义，是他外边的那摊事儿华人的名义。一开始，据说财新的刊号要去挂到世纪出版下，算是沪媒。后来通过高层两位常务副总裁的运作，财新现在是全国政协的媒体，正儿八经根正苗红的央媒啊。</p>
-<p>为什么投资财新是意义深远呢？自己琢磨去。</p>
-<p>七</p>
-<p>其实往下，我们应该还会看到有一些报纸会。。。嗯，休刊。</p>
-<p>这里面可能影响最大的，是申江服务导报。申江当年可是沪上妹子们人手一张的报纸，但近年来的确下滑日甚。</p>
-<p>申江也在自救，在上海搞了一些线下项目，咖啡馆饭店什么的。人家往虚拟世界里转，它往现实世界里转，倒是一条与众不同的路。</p>
-<p>对了，申江的首任主编是今天上报的当家人Q先生。</p>
-<p>外滩画报估计也是名单上的。外滩画报的徐沪生，已经跑出去单干，创业项目《一条》在江湖里赫赫有名。一条的投资方之一不是上报，是L先生。</p>
-<p>其实东早的转型还是很成功的。以前虽然逼格高，但总是地区报业，现在已然覆盖了全国，是全国性时政媒体中的当红炸子鸡。东早的存续压根不再重要。不过流言说，几个有力人士喜欢看东早这张纸，故而“两块盘子一套人马”还得这么延续着。</p>
-<p>至于其它小报小刊，关了也就关了。至多就是公众号里那堆搞媒体领域的号，再在那里做这样的文章：某报关、唏嘘感慨一番、罗列近年来关停名单。如果该报刊出过啥知名人士，配套再发一篇人物故事就是。</p>
-<p>其实，压根没啥影响。</p>
-<p>圈子里的人都搞不清这报纸是谁家的，你说老百姓会当回事？</p>
-<p>八</p>
-<p>沪上传媒业，整体风格真的是G先生定下的：保守化、行政化、集团化。</p>
-<p>沪上传媒业里，最有势力的，是东北帮。更准确点说，是东北宣传帮。</p>
-<p>这是事实，得认。西南那个技校，搞研究生单考班，不少沪媒人去读。但东北宣传帮的势力，不是一两年可以消解的，甚至不是一二十年可以消解的。而且东北职校，也有自己的单考班。</p>
-<p>在未来十年，沪媒可能关的只剩下三张局级纸媒。</p>
-<p>在未来二十年，沪媒可能关的只剩下一张机关报。</p>
-<p>这都是有可能的。</p>
-<p>什么？时间说长了？</p>
-<p>唉，行政因素还是不容小觑的。</p>
-<p>九</p>
-<p>有件事各位不晓得注意到没。</p>
-<p>沪上一号特别关注媒体这事。</p>
-<p>说起来大老板关注媒体这事，上有所好下必甚焉，本来也不算太奇怪。</p>
-<p>但沪上一号是“特别”关注，去媒体行当也特别勤快。要知道，他可是副总裁级别的。副总裁这么关注治下地方媒体的，可能真没他这种的。</p>
-<p>按年龄，他或可再上一级做常务副总裁。但常务副总裁还是要分管一摊。</p>
-<p>分管啥呢？</p>
-<p>以他去媒体的那个勤快劲儿，可能真心要去分管公关部了。</p>
-<p>长者？呵呵，跟你们说过了，凡事不要只看表面。</p>
-<p>本文其实已经有个答案。</p>
-<p>—— 首发 扯氮集 ——</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%AD%8F%E6%AD%A6%E6%8C%A5%EF%BC%9A%E4%B8%8A%E6%B5%B7%E5%AA%92%E4%BD%93%E9%82%A3%E7%82%B9%E4%BA%8B%E5%84%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%95%86%E6%8A%A5/?category=18271" rel="tag">上海商报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%A3%B9%E5%91%A8/?category=18271" rel="tag">上海壹周</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%AA%92%E4%BD%93/?category=18271" rel="tag">上海媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%AA%E5%AA%92/?category=18271" rel="tag">沪媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A2%AB%E8%A3%85%E7%AA%83%E5%90%AC%E5%99%A8/" target="cdt-mirror">自由亚洲｜艾未未北京工作室被装窃听器</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image1.jpg" alt="image" width="300" height="422"></p>
-<p>2015年10月4日，艾未未发现的窃听器。（美未未社交账户图片）</p>
-<p>从德国返回北京探望母亲的艾未未，周日（4日）在工作室发现多个隐蔽的窃听器。艾未未母亲向本台记者证实，该窃听器是4年前，当局为监视艾未未而秘密安装。</p>
-<p>发现窃听器的消息由艾未未周日（4日）下午1时，在其多个社交账户上公布，并附上多张图片和一段视频。根据图片显示，在其工作室墙上的插座内，发现了安装在墙壁内的窃听器。一段视频显示，在窃听器附近，有人在一个铁通内点燃了一串炮仗。有网民估计，在窃听器旁边制造巨大的噪音，会伤害窃听者的听觉。</p>
-<p>这篇帖文迅速引起了网民的广泛关注和转发，有人称，这是艾未未版的“窃听风云”，在这部电影里出现的镜头，真实地被用在艾未未身上。而艾未未还在留言中补充，睡房里亦有发现，并安装得十分专业。他还有一句留言是：总会有惊喜。</p>
-<p>本台记者立即致电艾未未，但电话没有人接听。随后本台记者联络到艾未未的母亲高瑛，她向本台记者表示，艾未未的确已于本月3日回到北京，今次回京是为了看她，因为她病了。</p>
-<p>她说：艾未未回到北京了，昨天（3日）到的。他不是还要走嘛，他现在德国一所大学，回去要上课。我生病了，我是他的妈妈，他也是来看看我，我因为得了肺炎嘛。也是看我，对，也是一个原因嘛。我都80多岁了，所以昨天，从德国一下飞机，完了一会，他就过来了。</p>
-<p>当问及艾未未工作室发现被安装了窃听器时，高瑛称，确有其事。她质问有关部门，有关部门答复，这可能是4年前打压艾未未时安装的。</p>
-<p>她说：我也是刚不到半个小时发现的，所以这次装修的时候嘛，2和3个插座里发现了这个东西，但是我给有关方面打了电话，我问，我质问为甚么会是这样子。我说，怎么到现在还监视他呢？他说这个肯定不是现在搞的，要搞也是以前的事了，有关方面安的，4年前的事了，这么说的。以前不是一直监视他嘛，门口都是监视器嘛。现在我认为是不可能，因为他那个房子没人有机会进去的。</p>
-<p>高瑛分析，可能是几年前艾未未被捕的那一次，工作室被人安装了窃听器，因为工作室平时都有人，只有那几日抄家，工作人员都被赶走了。但高瑛没有透露，她质问的是甚么部门。按照惯例，监视类似艾未未的异见人士，一般由中共的政治警察和国安部负责。北京市公安局没有答覆本台记者的查询。</p>
-<p>艾未未是中国著名艺术家、异议人士，其父亲艾青是中共延安时期的诗人。艾未未因为调查汶川大地震地区的校舍质量问题，遭遇当局严厉打压，2011年4月被秘密拘捕关押81日，引发了国际社会的抗议。</p>
-<p>其后，当局以偷税漏税的名义，持续对艾未未迫害，并进行了长达数年的严密监视，并禁止出境。今年7月，艾未未重获护照，中国当局允许其自由出入境。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/e4392100-45f6-4251-8b6b-258f10ea02fc.jpg" alt="e4392100-45f6-4251-8b6b-258f10ea02fc" width="230" height="409"></p>
-<p>2015年10月4日，工作人员在拆卸插座的时候，意外发现了窃听器。（美未未社交账户图片）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%89%BE%E6%9C%AA%E6%9C%AA%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A2%AB%E8%A3%85%E7%AA%83%E5%90%AC%E5%99%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%83%E5%90%AC%E5%99%A8/?category=18271" rel="tag">窃听器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -784,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -794,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%97%E5%88%B0%E7%8B%97%E7%B2%AE%E7%9A%84%E4%BA%94%E6%AF%9B%E5%92%8C%E6%B2%A1%E5%88%86%E5%88%B0%E7%8B%97%E7%B2%AE%E4%BA%94%E6%AF%9B%E4%B9%8B/" target="cdt-mirror">【立此存照】得到狗粮的五毛和没分到狗粮五毛之间的内部矛盾</a>
+</h2>
+<p><p>知名“爱国人士”胡杨麟，近日出人意料地在微博公开指责花千芳，称其在背后对他落井下石。他同时还道出了一句真相：“五毛就是这人品，哪怕是上过电视的也一个德行，为了骨头什么良心友情道德全是狗屁，见谁咬谁。”</p>
+<p>2013年，在《全世界人民都知道》新书签售会上，胡杨麟因<a href="http://chinadigitaltimes.net/chinese/2013/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%8D%96%E4%B9%A6%E4%B8%8D%E6%98%93-%E6%8C%A8%E6%8B%B3%E8%BA%B2%E5%88%80/">向李承鹏扔菜刀</a>而“一举成名”。</p>
+<p>与胡杨麟如今的失意相比，当年与他一同出现在签售会上并<a href="http://chinadigitaltimes.net/chinese/2013/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%9D%8E%E6%89%BF%E9%B9%8F%E5%8C%97%E4%BA%AC%E7%AD%BE%E4%B9%A6%E7%81%AB%E7%88%86-%E9%81%AD%E9%81%87%E6%AF%9B%E5%B7%A6%E6%8B%B3%E6%89%93%E5%8F%88%E6%89%94/">掌掴李承鹏</a>的“毛左人士”尹国明，近日倒是获得了共青湖南省委<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97-%E7%8C%AA%E9%98%9F%E5%8F%8B%E8%BF%98%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F/">在微博高调转载其文章的待遇</a>。</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%9C%89%E8%AF%81%E4%B9%A6%E7%9A%84%E5%BF%97%E6%84%BF%E7%BD%91%E8%AD%A6/">不要做无谓的抵抗了，我是有证书的志愿网警</a></p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F.png?w=550" alt="胡杨麟" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F2.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F2.png?w=550" alt="胡杨麟2" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F3.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F3.png?w=550" alt="胡杨麟3" height="" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="http://weibo.com/u/2344505093" target="_blank">胡杨麟</a>：当年<a href="http://weibo.com/n/%E8%8A%B1%E5%8D%83%E8%8A%B3?from=feed&loc=at" target="_blank">@花千芳</a> 参加文艺座谈会被领导接见后，我们都很兴奋，我马上高兴的在将他与习总握手的镜头拍下来发给他，祝他取得更大的成就，可是前段时间我被新浪禁言时他却联合 其他人渣一起攻击我，让我非常心寒，五毛就这人品，哪怕是上过电视的也一个德行，为了骨头什么良心友情道德全是狗屁，见谁咬谁。</p>
+<p><a href="http://weibo.com/2344505093" target="_blank">胡杨麟</a>：我一直与五毛共同斗公知，我以为虽然我们观点不完全相同，至少我们目前是战友，<a href="http://weibo.com/n/%E9%9B%B7%E5%B8%8C%E9%A2%96?from=feed&loc=at" target="_blank">@雷希颖</a> 对我的当众辱骂和<a href="http://weibo.com/n/%E8%8A%B1%E5%8D%83%E8%8A%B3?from=feed&loc=at" target="_blank">@花千芳</a> 对我暗中下绊子让我伤心又吃惊，公知还没完蛋呢，他们就嚣张跋扈到如此程度，搞屁股决定脑袋和顺我者昌逆我者亡那一套，他们的手段和伎俩与公知有什么区别！五毛之危害仅次于公知！</p>
+<p><a href="http://weibo.com/2344505093" target="_blank">胡杨麟</a>：发现丢了在【电视上】几个字，当时我把电视上的新闻用手机拍下来发给他，我们爱国者很兴奋，广为传播，毋庸置疑，那次文艺座谈会对泛左联盟来说是个极大的鼓舞，但没想到他们这些五毛会背后下黑手的整我们，很吃惊，也很气愤，后来见识了千侯爷的知识水平和<a href="http://weibo.com/n/%E9%9B%B7%E5%B8%8C%E9%A2%96?from=feed&loc=at" target="_blank">@雷希颖</a> 的骄横跋扈唯我独尊，就更加失望。</p>
+<p><a href="http://weibo.com/2344505093" target="_blank">胡杨麟</a>：就是条狗如果影响大他们都会捧。//<a href="http://weibo.com/n/%E4%B8%83%E6%A5%BC-sysu?from=feed&loc=at" target="_blank">@七楼-sysu</a>: 之前在海疆在线的时候，张忆安让我加花千芳QQ，花有文章发给我，要推送到网站上。我看了那个文，是讲国民待遇的好像，他去北京边检转了一圈发了个大国感 慨，有姿势没知识的那种文，就对主编张忆安反映文章太烂文笔太差。张冷着脸说，比你的有影响力就行。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2039624931" target="_blank">老康AT泥轰</a>：这才是<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">咬<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">呢</p>
+<p><strong><a href="http://weibo.com/n/%E6%8A%BC%E6%B2%99%E9%BE%99?from=feed&loc=at" target="_blank">押沙龙</a>: 胡杨麟可能是我见过的最孤独的流氓了，永远是这个节奏：“老朋友你怎么在这儿？好久没见了！等等我这就过去！……你别走，等等，是我呀，是你的朋友小胡呀！…你没听见？怎么还跑上了……你还跑？你个臭不要脸的，等我追上你……”</strong></p>
+<div><a href="http://weibo.com/5387784061" target="_blank">色鬼爱D</a>：最后一句亮了。这些狗现在内讧啊！好消息，赶紧相互咬，咬不过瘾的话就给你们这些狗日的发枪，一次性全部歼灭最好！！<a href="http://weibo.com/n/%E5%91%A8%E5%B0%8F%E5%B9%B3%E5%90%8C%E5%BF%97?from=feed&loc=at" target="_blank">@周小平同志</a> 得批评你的这些伙伴，太不体面了，怎么公开撕咬啊！<img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></div>
+<p><a href="http://weibo.com/darkyaya" target="_blank">Dark鴨鴨</a><i title="微博达人"></i>：菜刀胡 一嘴毛 何必呢 同一个kennel出来的兄弟 以大局为重 以祖国为重啊同志 <img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><strong>@何必猜我会是谁：不过是得到狗粮和五毛和没分到狗粮的五毛之间的内部矛盾。</strong></p>
+<p>@great_soul：之前献殷勤那时候想什么呢?你想表达以前当五毛是错误的?</p>
+<p><a href="http://weibo.com/2766074417" target="_blank">大切格瓦拉</a>：你们不是一个爹么？怎么还分派了？<img src="https://s.w.org/images/core/emoji/72x72/1f436.png" alt="</p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%91%A6%E5%91%A6%E8%AF%BA%E5%A5%96%E5%90%8E-%E4%BA%BA%E4%BA%BA%E6%9C%89%E8%AF%9D%E8%AF%B4/" target="cdt-mirror">端传媒 | 呦呦诺奖后 人人有话说</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/219841ca951c4e0abee42519b7cedd2f.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/219841ca951c4e0abee42519b7cedd2f.jpg?resize=600%2C400" alt="2011年11月15日，屠呦呦獲中國中醫科學院2011年科技工作大會授予中國中醫科學院杰出貢獻獎。" data-recalc-dims="1"></a><p>2011年11月15日，屠呦呦獲中國中醫科學院2011年科技工作大會授予中國中醫科學院杰出貢獻獎。</p></div>
@@ -751,26 +773,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%BF%83%E7%BB%93%E9%9A%BE%E9%87%8A-%E4%BB%A4%E5%AE%8C%E6%88%90%E6%88%96%E5%8F%98%E7%83%82%E5%B0%BE%E9%81%97%E7%A5%B8-%E9%AB%98%E5%B1%82%E5%AF%9D/" target="cdt-mirror">墙外楼｜中共心结难释 令完成或变烂尾遗祸 高层寝食难安</a>
-</h2>
-<p><p>随着习近平首次对美国国事访问的结束，中美之间许多问题似乎已得到缓和，但是遣返令完成的问题，仍然是一团疑云。虽然在习近平访美前夕，美国首次向中国遣返“红通”嫌犯、杨秀珠的胞弟杨进军，被视为中美合作猎狐的友善信号，但是关于令完成问题，并没有实质性的突破，外界对此也是捕风捉影。有分析认为，由于令完成手里握着三枚“政治核弹”，且并不在红色通缉令上，很可能长期搁置，变成烂尾遗祸，让中南海高层寝食难安。</p>
-<p>有消息称，在此前北京当局在与美方的秘密谈判中，向对方开出两个条件把令完成交回中国，第一是中方放弃追回令完成在美国全部资产的权利，涉额约 6 亿美元；第二，中国愿意接收美国遣返的 2.5 万非法移民。有评论称，此消息如果属实，应该是中共的血本，下此血本的目的便是令完成手中掌握的政治核弹，并且这个政治核弹很可能引起中共政治体系的剧烈震动。但是，美国并没有就两个条件作出选择，还在和中国斡旋。有分析认为，美国当局应该对令完成掌握的“政治核弹”非常重视，所以没有选择积极的配合北京。</p>
-<p>早前，根据坊间传闻，令完成手里至少握有三枚“政治核弹”。据推测，首先是中共暗藏在其他国家的间谍人员名单，其中包括中高层以上的间谍网络负责人名单。其次，还有中共高层官员的人事关系资料。令计划作为十多年的“大内管家”，熟知各个领导人的资料以及相互之间的关系，这其中包括江泽民时代和胡锦涛时代的领导人详情，这些资料连最高领导人可能都不全部熟悉。如果这些资料交给美国，美国对中国将有针对性的制定政策，造成的损失远超牺牲一些间谍人员。其三，国家核心机密。根据中共公布的令计划罪名中第一条便是“违反保密纪律”，还有少见的“违纪违法获取党和国家大量核心机密”，因此有分析认为，令完成携带核心机密潜逃美国的可信度很高，是并且很可能已经向美国选择政治庇护。</p>
-<p>另外，《纽约时报》还曾报道，令完成赴美时带来了大量令人难以置信的高层机密，这些机密是其已被关押的兄长令计划交给他的，作为保护自己和家族的安全筹码。有分析人文，作为一种长期对抗中共遣返策略的考虑，令完成很可能会长期在美选择抗衡，并不会简单的束手就擒，并很可能会学习前美国中央情报局叛逃职员爱德华斯诺登（ Edward Joseph Snowden ）的作法，选择出卖国家机密选择进而获得长期的庇护。截至今日，斯诺登仍然没有受到美国中情局的影响，被遣返回国，还在俄罗斯一家网络公司工作，成为美国白宫的心病。</p>
-<p>相关人士认为，令完成很可能和斯诺登问题一样被搁置，因为两人都拥有令其原来国家恐惧的政治材料。对令完成一案，目前美中两国政府虽都三缄其口，但中国公安部派特工赴美“找人”，使得美方不悦，一名美国匿名官员曾透过纽时放话表达不满，诸多迹象表明，遣返令完成并非一蹴而就的易事，可能在长期上，要受到多重阻力，其中美国方面是主要让令完成案拖延的主要因素。</p>
-<p>有消息称，美国很可能已经接触了令完成，并且掌握了少部分令完成带走的核心机密，但并未全部掌握。有评论称，鉴于可观的商业和政治材料，所以美国一直采取拖延政策，寻求中国方面提供更多的相关资料，对关于令完成的提问不回应不答复。而令完成可能用其掌握的材料争取令氏家族的安全，因此也不会轻易把机密核心泄露出来，让美国心急，让中国胆颤，从而让中美陷入一种胶着的状态。让问题搁置，很可能是令完成的一种拖延之计。</p>
-<p>而中共意识了到问题的严重性和紧迫性，为了防止令完成问题变烂尾遗祸，也很可能采取一种新的策略来应对。未来数月应该将是美国政府和令完成，以及中国政府和美国政府之间就此事密集较量的时期。相应的一些措施也陆续紧急出台，例如 2015 年 9 月 15 日，具有丰富外交经验的刘建超被任命为国家预防腐败局副局长，这应该是中共针对令完成问题采取的一种策略，并有防止类似案件再度发生的考虑。有助与相关国家加强协调和沟通，或加速处理逃往美国的令完成案。</p>
-<p>观乎中美双方的沟通，在引渡令完成问题上的沟通乏善可陈，中共也在为“五中全会”的召开进行准备工作，令完成问题似乎正在被搁置。但是，有分析人士称，对于遣返令完成，中共一直没有放弃过，在“五中全会”期间，很可能再就令完成问题展开探讨，包括针对令完成问题成立研究小组，或针对海外追逃机构对重要负责人员进行人事更迭。出于种种消除令案遗毒的考虑，中共很可能在追逃令完成的问题上和美国长期僵持不下，下一步棋该如何走，有待时日观察。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%BF%83%E7%BB%93%E9%9A%BE%E9%87%8A-%E4%BB%A4%E5%AE%8C%E6%88%90%E6%88%96%E5%8F%98%E7%83%82%E5%B0%BE%E9%81%97%E7%A5%B8-%E9%AB%98%E5%B1%82%E5%AF%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -782,7 +784,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -792,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

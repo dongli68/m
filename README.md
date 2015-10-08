@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E4%BB%AC%E5%95%8A%EF%BC%8C%E6%88%91%E6%84%9F%E8%A7%89%E4%BD%A0%E4%BB%AC%E5%A4%A7%E5%AD%A6%E9%87%8C%E4%B8%8D%E8%A6%81%E6%8A%8A%E8%B0%88/" target="cdt-mirror">【网络民议】你们啊，我感觉你们不要把谈恋爱时间拿来写文章</a>
@@ -83,7 +83,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E6%9C%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">工人运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">工人阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E5%85%BB/?category=18271" rel="tag">教养</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%80%A7/?category=18271" rel="tag">理性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7%E7%BB%93%E6%9E%84/?category=18271" rel="tag">阶级结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7%E9%9A%94%E7%A6%BB/?category=18271" rel="tag">阶级隔离</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AF%91%E8%AF%BB%EF%BD%9C%E6%92%BC%E5%8A%A8%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E7%A7%A9%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%BF%98%E7%BC%BA%E7%82%B9%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">译读｜撼动全球经济秩序，中国还缺点什么？</a>
 </h2>
@@ -165,7 +165,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B8%85%E5%9B%BD/?category=18271" rel="tag">大清国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%9A%E6%B8%85/?category=18271" rel="tag">晚清</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">电影审查</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%B8%AD%E5%9B%BD%E5%AF%8C%E4%BA%8C%E4%BB%A3%E5%9C%88%E5%AD%90%EF%BC%9A%E5%BC%80%E6%B4%BE%E5%AF%B9%E6%8E%92%E9%81%A3%E6%97%A0%E8%81%8A-%E5%A4%A7%E9%83%A8/" target="cdt-mirror">澎湃新闻 | 中国富二代圈子：开派对排遣无聊 大部分人情感受伤</a>
 </h2>
@@ -650,7 +650,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -660,5 +660,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

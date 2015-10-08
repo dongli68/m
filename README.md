@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/" target="cdt-mirror">法广 | FMI：中国面临前所未有的经济挑战</a>
+</h2>
+<p><p>中国正“面临前所未有的经济挑战”，国际货币基金组织星期三在秘鲁利马举行的年会上发出如此警告。中国面临的关键问题是：如何能够在经济放缓的背景下保持金融稳定，完成经济模式转型。但是，出席同一会议的中国央行副行长易纲却表示，“请不要为中国经济担心”。</p>
+<p>这家国际金融机构周三在秘鲁首都利马公布了半年度全球经济报告最新一期『全球金融稳定报告』，报告指出，在经济增长放缓的背景下，如何既要完成经济模式转型的目标，通过有序去杠杆化降低高债务水平，同时又能使其金融体制更多地建立在市场经济基础之上，中国当局为此面临前所未有的挑战。</p>
+<p>北京当局希望把本国目前以基础建设和出口低增值制造品的经济增长模式引导到以消费和服务为主的轨道上来。</p>
+<p>国际货币基金组织的报告指出，中国未来经济增长的核心领域—私有领域目前增长缓慢，这与中国的银行体制有很大关系。中国银行体制必须改革。</p>
+<p>该报告设想的最坏的一种情况可能是，中国大量企业破产，从而加剧金融紧张，使得目前已经放缓的经济增长更加疲弱。</p>
+<p>鉴于中国经济增长放缓，该组织周三下调了对全球经济增长的预估。2015年，全球经济增长预估3.1%，将是2009年以来增长最缓慢的一次。在最新报告中，该组织对新兴经济体债务过高从而可能会对公共财政造成冲击表示担忧。</p>
+<p>中国央行副行长易纲在利马举行的国际货币基金组织年会上试图缓解国际对中国经济放缓的担心，他表示不要为中国经济担心，在不远的未来，中国经济一直会有一个相对较高的增长率。他说，中国对原材料的需求仍然在不断增长，而且，在不远的将来，中国将成为第一大石油进口国。易纲还否认中国进口明显衰退的说法，他说，许多人在谈中国经济在放缓，但中国进口原材料始终在增长。</p>
+<p>易纲还表示中国欢迎TPP达成协议，并说中国对此是开放的态度，已考虑好跟12国合作。</p>
+<p>易纲周三还宣布，中国正式采纳国际货币基金组织数据公布特殊标准（SDDS），据指出，SDDS是一个提升经济统计数据质量的机制，它对数据覆盖范围、公布频率、公布及时性、数据质量、公众可得性等方面要求更高，并且需按标准公布实体经济、财政、金融、对外和社会人口等五个部门的数据。</p>
+<p>近来，许多经济专家对中国公布的经济数据的可靠性表示怀疑。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%8A%A5%E5%91%8A/?category=18271" rel="tag">全球金融稳定报告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87/?category=18271" rel="tag">国际货币基金组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/?category=18271" rel="tag">经济挑战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E4%BD%93%E5%88%B6/?category=18271" rel="tag">银行体制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E6%90%9E%E5%AE%9Atpp%E5%A5%A7%E5%B7%B4%E9%A6%AC%E5%85%88%E8%A6%81%E5%B9%B3%E5%AE%9A%E3%80%8C%E5%85%A7%E4%BA%82%E3%80%8D/" target="cdt-mirror">信报｜搞定TPP奧巴馬先要平定「內亂」</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/10/141010015902_capitol_building_624x351_reuters.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/10/141010015902_capitol_building_624x351_reuters.jpg?w=550" alt="美国国会" height="" data-recalc-dims="1"></a></p>
@@ -86,7 +106,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD/?category=18271" rel="tag">中国和美国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E9%80%A0/?category=18271" rel="tag">伪造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A2%E4%BE%88%E5%93%81/?category=18271" rel="tag">奢侈品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83/?category=18271" rel="tag">知识产权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%A0%E5%81%87/?category=18271" rel="tag">造假</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E6%8B%9F%E8%BF%BD%E7%A9%B6%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E9%81%AD%E6%8A%97%E8%AE%AE%E5%8F%8A%E6%8B%A6%E9%A9%BE%E5%96%8A/" target="cdt-mirror">法广｜中共高层拟追究习近平访美时遭抗议及拦驾喊冤事件责任</a>
 </h2>
@@ -623,27 +643,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E6%97%A5%E7%88%B1%E5%AD%A6%E8%80%85%E5%85%B1%E4%BA%AB2015%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/" target="cdt-mirror">BBC | 中日爱学者共享2015年诺贝尔医学奖</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151005101821_nobelprize_624x351_bbc_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151005101821_nobelprize_624x351_bbc_nocredit.jpg" alt="151005101821_nobelprize_624x351_bbc_nocredit" width="600" height="337"></a></p>
-<p><strong>2015年诺贝尔医学奖得主揭晓，共有三位得奖者，包括中国大陆的屠呦呦、爱尔兰的坎贝尔（William C. Campbell）、日本的大村智（Satoshi Omura）。</strong></p>
-<p>屠呦呦制成了青蒿素，在降低虐疾患者死亡率方面的研究贡献突出，分享了2015年诺贝尔医学奖的一半。</p>
-<p>分享另一半的是威廉·坎贝尔和大村智发明了一种新药阿维菌素（Avermectin），这种药物的衍生品降低了盘尾丝虫病以及淋巴丝虫病的发生率，并且已经显示出对其他类型寄生虫感染的有效性。</p>
-<p>诺贝尔委员会称，三位获奖者发展了一些疗法，这对一些最具毁灭性的寄生虫疾病的治疗具有革命性的作用。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151005102046_tu_youyou_624x351_xinhua.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151005102046_tu_youyou_624x351_xinhua.jpg" alt="中医科学院终身研究员屠呦呦" width="600" height="338"></a><p>中医科学院终身研究员屠呦呦</p></div>
-<p><strong>中医</strong></p>
-<p>现年84岁的屠呦呦为中国中医研究院终身研究员兼首席研究员，青蒿素研究开发中心主任。</p>
-<p>多年以来，她的研究方向是以中药化学为主，结合药理、制剂及临床等，在继承传统中医药的精华基础上，运 用现代科学和技术，发掘中药的活性成分，特别在疟疾及免疫疾病领域进行深入研究，研制开发新药。</p>
-<p>中国中医研究院网站上对她的介绍称，她最突出的贡献是“带领科研组创制了具国际影响的新型抗疟药 ——青蒿素和双氢青蒿素，相关研发成果已获6个《新药证书》，1个临床批件和2个中国发明专利。”</p>
-<p>从1969年开始接受抗疟药研究任务，屠呦呦领导课题组从系统收集整理历代医籍、本草、民间方药入手，在收集2000余方药基础上，编写了640种药物为主的《抗疟单验方集》，对其中的200多种中药开展实验研究，历经380多次失败，1971年发现中药青蒿乙醚提取物的中性部分对疟原虫有100％抑制率，1972年从该有效部分中分离得到抗疟有效单体，命名为青蒿素。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E6%97%A5%E7%88%B1%E5%AD%A6%E8%80%85%E5%85%B1%E4%BA%AB2015%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -655,7 +654,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -665,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

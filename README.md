@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%A6%BB%E5%AD%90%E5%AD%9F%E7%BE%A417%E4%B8%AA%E6%9C%88%E7%85%8E%E7%86%AC%E3%80%8B/" target="cdt-mirror">【真理部】《浦志强妻子孟群17个月煎熬》</a>
+</h2>
+<p><p>全网注意查删不合来源规范的外媒报道《浦志强妻子孟群17个月煎熬》 。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%A6%BB%E5%AD%90%E5%AD%9F%E7%BE%A417%E4%B8%AA%E6%9C%88%E7%85%8E%E7%86%AC%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%BE%A4/?category=18271" rel="tag">孟群</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E4%BB%AC%E5%95%8A%EF%BC%8C%E6%88%91%E6%84%9F%E8%A7%89%E4%BD%A0%E4%BB%AC%E5%A4%A7%E5%AD%A6%E9%87%8C%E4%B8%8D%E8%A6%81%E6%8A%8A%E8%B0%88/" target="cdt-mirror">【网络民议】你们啊，我感觉你们不要把谈恋爱时间拿来写文章</a>
 </h2>
 <p><p><strong><a href="http://news.qq.com/a/20151008/053506.htm">澎湃新闻｜武汉一大学生两月发34篇文章 求是网4天采用3篇</a></strong></p>
@@ -601,44 +614,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AE%BA%E7%BF%BB%E8%AF%91%E7%9A%84%E6%8A%80%E5%B7%A7%EF%BC%9A%E7%BE%8E%E5%AA%92%E7%A7%B0%E5%8F%91%E7%8E%B0%E9%9D%92%E8%92%BF%E7%B4%A0%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%89%E5%8A%9F/" target="cdt-mirror">论翻译的技巧：“美媒”称发现青蒿素毛泽东有功了吗？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/02/%E9%9D%A0%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%B2%BB%E5%A5%BD%E7%B2%BE%E7%A5%9E%E7%97%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/02/%E9%9D%A0%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%B2%BB%E5%A5%BD%E7%B2%BE%E7%A5%9E%E7%97%85.jpg" alt="靠毛泽东思想治好精神病" width="439" height="367"></a><br><em>（网络图片）</em></p>
-<p>屠呦呦获诺贝尔奖的消息传出后，一篇题为“美媒称发现青蒿素毛泽东有功”的文章迅速在网络引起争议：</p>
-<blockquote><p><strong><a href="http://news.sina.com.cn/w/zg/gjzt/2015-10-06/10291436.html">新浪最热点｜美媒称发现青蒿素毛泽东有功</a></strong></p>
-<p>5日，中国药学家屠呦呦因为发现青蒿素而摘取诺贝尔奖，实际上，青蒿素的发现并非单纯只是科学家和实验室的故事，更有上世纪复杂的政治背景，2012年，纽约时报曾撰文披露青蒿素发现内幕、并称毛泽东对此也有贡献。 美国《纽约时报》2012年1月16日报道，标题“毛泽东、越战和青蒿素的发现”，全文如下：</p></blockquote>
-<p>数字时代编辑找到了《纽时》原文 <a href="http://www.nytimes.com/2012/01/17/health/for-intrigue-malaria-drug-artemisinin-gets-the-prize.html"><em>For Intrigue, Malaria Drug Gets the Prize</em></a>  后（注意：原文标题不是“毛泽东、越战和青蒿素的发现”），却发现所谓毛泽东的“贡献”，在原作里是需要打上引号的：</p>
-<blockquote><p><strong><em>原文</em></strong>：But few people realize that in one of the paradoxes of history, the drug was discovered <span><strong>thanks to Mao Zedong</strong></span>, who was acting to help the North Vietnamese in their jungle war against the Americans. Or that it languished for 30 years <span><strong>thanks to</strong></span> China’s isolation and the indifference of Western donors, health agencies and drug companies.</p>
-<p><strong><em>译文</em></strong>：但是，很少有人意识到，这一药物是在一个历史悖论中被发现的，并且要<span><strong>感谢毛泽东</strong></span>。毛泽东当时正在帮助北越人，而北越人则在进行抵抗美国人的丛林战争。<span><strong>由于</strong></span>当时中国的孤立，以及西方捐款人、卫生机构和医药公司的漠不关心，它被埋没了30年。</p></blockquote>
-<p>原文中，<strong>第一个和毛泽东有关的”thanks to”被译成“感谢”，而第二个涉及到负面内容的”thanks to”却被译为”由于”</strong>。<strong>这说明译者对”thanks to”的多层含义非常清楚</strong>。这是一个需依照上下文内容来判断的短语，可以是表达感谢，也可以是反讽或责备。</p>
-<p>那上述的第一个”thanks to”到底是不是指感谢？原作者在上下文内容里其实表达得非常清楚。以下摘自译文：</p>
-<blockquote><p>但是，这并不容易。文化大革命当时正在失去控制，<span><strong>包括科学家在内的知识分子正在遭受公开羞辱，被迫在集体农场上劳动，或者被迫自杀</strong></span>。然而，由于命令来自毛泽东本人，他让军队负责，于是这一项目<span><strong>受到了保护</strong></span>。在接下来的14年里，来自60个军方和民事机构的科学家聚集起来，进行了研究。<br>
-[…]<br>
-2006年，“523项目”前副主管张建芳(音)撰文回顾了项目的历史。文中披露了一些扣人心弦的细节：项目研究人员曾经发生了小规模的派系斗争；<span><strong>文化大革命的街斗迫使一个实验室转入了一间地下室</strong></span>；项目的医生在<span><strong>中国南部的热带山区的偏远乡村进行临床试验</strong></span>，<span><strong>以糙米和蔬菜为生</strong></span>，其他医生则和越共<span><strong>在“胡志明小道”上跋涉</strong></span>。</p></blockquote>
-<p>一个以“举国体制”动员起来的医学研究，<strong>在毛泽东发动的文革所造成的恶劣环境中，和研究人员饱受磨难的情况下，因为获得毛泽东的“钦定”和军队的保护，总算幸免于难</strong>。<strong>这就是原文作者所指的“历史悖论”</strong>。上述的第一个“thanks to”，<strong>很显然并不是用来赞扬毛泽东的“贡献”的</strong>。</p>
-<p>既然原作者并没有赞扬毛泽东的意思，原文最后一段关于毛泽东无法获奖的内容，也很显然是调侃了：</p>
-<blockquote><p><strong><em>原文</em></strong>：However difficult winnowing the field would prove, the Nobel Prize committee would be forced to do it anyway. The Nobel rules specify no more than three winners. <span><strong>And no posthumous prizes, either — meaning Mao would be out of the question</strong><strong>.</strong></span></p>
-<p><strong><em>译文</em></strong>：然而，这一领域的甄别无论有多么艰难，诺贝尔委员会都将被迫进行甄别。诺贝尔奖的规则规定，获奖者不能超过三人。<span><strong>此外，奖项也不能颁给过世的人。这意味着，毛泽东没有可能获奖。</strong></span></p></blockquote>
-<p>最后必须补充的是，除了直接涉及毛泽东的有关内容外，这篇译文的其余部分与原文基本没有偏差。<br>
-也许，译者也是有苦衷的。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：<br></strong></p>
-<p>@傅里叶变黄油猫：太客气了，美国打越南也有功。</p>
-<p>@干了这杯大姨妈来世还做女人花：蚊子和疟原虫贡献也很大 不然哪儿来疟疾给你治？</p>
-<p><a href="http://weibo.com/1291218872" target="_blank">atmoselephant</a>：哈哈哈哈 腊肉昨晚坐起来鼓掌了<img title="[转发]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/02/lxhzhuanfa_org.gif" alt="[转发]"></p>
-<p><a href="http://weibo.com/huanglianbin" target="_blank">黄联斌</a><i title="微博达人"></i>：为什么没把她打成资产阶级反动学术权威<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/1254555013" target="_blank">Chengche5678</a>：锅炉房烧锅炉的大爷也对发现青蒿素有功。<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/5055868020" target="_blank">楊小过123</a>：必须啊！要不是当时留一命的话。。。<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
-<p>@徐冠宇-澳大利亚：这个奖明明应该颁发给葛洪</p>
-<p>@先天下之:令人哭笑不得的是，莫言丰乳肥臀的出笼，与邓小平的改革难脱干系<br><strong><br>
-@多糖红茶：通读全文老M的贡献就是没弄死那帮科学家，让他们在文革中得以活命取得了研究成果，MZX万岁！ </strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AE%BA%E7%BF%BB%E8%AF%91%E7%9A%84%E6%8A%80%E5%B7%A7%EF%BC%9A%E7%BE%8E%E5%AA%92%E7%A7%B0%E5%8F%91%E7%8E%B0%E9%9D%92%E8%92%BF%E7%B4%A0%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%89%E5%8A%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD%E4%BD%93%E5%88%B6/?category=18271" rel="tag">举国体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E5%8F%97%E9%9A%BE%E8%80%85/?category=18271" rel="tag">文革受难者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%8A%E8%82%89/?category=18271" rel="tag">腊肉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -650,7 +625,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -660,5 +635,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

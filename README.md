@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E7%9F%A5-%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87%EF%BC%9A%E5%89%8D%E8%8B%8F%E8%81%94%E6%82%B2%E6%83%A8%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%B0%E5%BD%95%E8%80%85/" target="cdt-mirror">新知 | 阿列克谢耶维奇：前苏联悲惨时代的记录者</a>
@@ -75,7 +75,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%9F%A5/?category=18271" rel="tag">新知</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔文学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87/?category=18271" rel="tag">阿列克谢耶维奇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%99%B6%E9%9D%96/?category=18271" rel="tag">陆晶靖</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%A6%BB%E5%AD%90%E5%AD%9F%E7%BE%A417%E4%B8%AA%E6%9C%88%E7%85%8E%E7%86%AC%E3%80%8B/" target="cdt-mirror">【真理部】《浦志强妻子孟群17个月煎熬》</a>
 </h2>
@@ -129,7 +129,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E7%BE%A4
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E6%9C%89%E4%B9%8B%E4%B9%A1/?category=18271" rel="tag">乌有之乡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E6%98%AF%E6%9D%82%E5%BF%97/?category=18271" rel="tag">求是杂志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98/?category=18271" rel="tag">网络评论员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E7%BD%91%E5%AE%A3%E9%98%9F%E4%BC%8D/?category=18271" rel="tag">高校网宣队伍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%90%B4%E5%BC%BA%EF%BC%9A%E6%95%99%E5%85%BB%E3%80%81%E9%98%B6%E7%BA%A7%E5%92%8C%E8%87%AA%E6%88%91%E8%A7%84%E8%AE%AD/" target="cdt-mirror">吴强：教养、阶级和自我规训</a>
 </h2>
@@ -641,7 +641,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -651,5 +651,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

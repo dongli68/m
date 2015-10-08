@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%B8%AD%E5%9B%BD%E5%AF%8C%E4%BA%8C%E4%BB%A3%E5%9C%88%E5%AD%90%EF%BC%9A%E5%BC%80%E6%B4%BE%E5%AF%B9%E6%8E%92%E9%81%A3%E6%97%A0%E8%81%8A-%E5%A4%A7%E9%83%A8/" target="cdt-mirror">澎湃新闻 | 中国富二代圈子：开派对排遣无聊 大部分人情感受伤</a>
+</h2>
+<p><p>六月周六凌晨一点半，Mikael Hveem丛北京工人体育场的一家夜店出来叫了优步，他选择了最便宜的车型，却惊奇地发现来了一辆深蓝色玛莎拉蒂。司机是一名带有娃娃脸的年轻中国男子，他说他叫Jason。Hveem问他为什么要开优步，他明显不缺钱，Jason说他这么做是为了认识人，尤其是女孩子，凌晨在北京夜店周围，也许会有女孩为坐在跑车里22岁的他倾心。</p>
+<p>当我从朋友那里听到这个故事，我向他要了司机的联系方式，加了Jason的微信，邀请他见面一叙。他很快发了一些衣着暴露女性的照片，告诉我她们是北京最好的站街女。我告诉他可能有一定的误解，随后我们约了见面一起喝咖啡。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/a5Itx.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/a5Itx.jpg?resize=500%2C693" alt="22岁的Jason Zhang" data-recalc-dims="1"></a><p>22岁的Jason Zhang</p></div>
+<p>我们在北京商业区一家咖啡馆见面，Jason姓张，与其他年轻中国人不同，他所在的媒体公司制作真人秀节目，然而他的工作不是很忙。他曾在美国佛罗里达州一所高尔夫球学院里学习，然而学了两年就退学了。他的父亲是一家人力资源公司的总裁，他的母亲是一名政府官员，他戴着价值五千五百美元的万国（IWC）手表，还说这是因为那只贵的表丢了，我问他一共有多少钱，他说：“我不知道，反正我花不完。”我发现他是中国人眼里的“富二代”。</p>
+<p><strong>“他们拥有一切，却不能超越父母”</strong></p>
+<p>十年前，中国媒体中的富二代就好比美国的帕丽斯·希尔顿，只不过更没有品味。每几个月富二代就会爆出丑闻，比如一名女富二代上传烧一叠百元大钞的照片，臭名昭著的跑车聚乐部在兰博基尼旁边拗造型，城市赛道上有人掏枪。2013年，三亚海滩的富二代派对引起全国的谴责。两名富二代还在网上攀比炫富，其中一位是广受谴责的名媛郭美美，在网上晒出价值五百万元的赌场筹码，另一位富二代则晒出银行账户的截屏，总额大概三十七亿人民币。（后来郭美美由于涉赌而被判五年有期徒刑。）最近中国首富地产界大亨王健林的儿子在网上晒出其爱狗前爪戴两只黄金苹果表的照片。<br>
+一些地方政府已经采取措施重新教育这些富二代。今年七月，北京青年报报道，七十名中国大企业的后代参加有关孝敬和商业传统价值的讲座。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/TfxxG-1.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/TfxxG-1.jpg?resize=500%2C683" alt="31岁的Martin Hang" data-recalc-dims="1"></a><p>31岁的Martin Hang</p></div>
+<p>几周的四处打听后，我说服一群富二代邀请我参加他们的聚会，当我到聚会地的时候，我一度怀疑我是不是走错了地方，那是一家京北的户外烧烤店，板凳特别低，民众坐在上面就好像蹲着一样，大家喝着燕京啤酒，吃着羊肉串。要找到这群富二代很难，因为他们穿得和别人没有什么不同，背心、衬衫和拖鞋，唯一出卖他们的就是酒，他们带了法国香槟和一瓶茅台，是白酒中的上品。Martin Hang是《接力（Fortune Generation》杂志的编辑，也是本次晚餐的主持人，他向我介绍了每个人，其中包括三十岁的王达奇（音），一位著名商业咨询师的儿子，最近出版了一本关于中国富二代的书籍；二十岁的Albert在巴德学院读哲学，其父亲经营几家出版公司；二十七岁的Sophia是唯一的女性，我不清楚要多有钱才能被称作富二代，然而Sophia告诉我她肯定是（Martin则不这么认为），她的父母给了她超过一千万元资产，她用这笔钱投资电影、手机游戏和肉类加工公司。等食物熟之前大家先喝酒，我们先一组干杯，然后两两干杯，最后每个人都喝得十分尽兴，好像已认识彼此多年了。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/LPmSo.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/LPmSo.jpg?resize=500%2C705" alt="LPmSo" data-recalc-dims="1"></a><p>Martin雇佣了专业模特参加自己的生日派对</p></div>
+<p>聚会的话题一直游离于商业和八卦之间，其中一位富二代由于其点餐习惯而被称为香槟王子，三十岁的林新（音译）则和其他人谈论公司鉴定古董的科技，有些人则笑话一些人为了装富专门去酒吧租贵酒。Sophia提及车里还有些鸡，问谁想吃鸡肉。哲学专业的Albert则把我拉到一边问我是否听过共济会。从头至尾Martin一直在主持话局，他是非营利机构接力中国青年精英协会的成员，该协会旨在为中国的权贵二代搭建沟通平台，他向我解释接力中国青年精英协会是如何运作的。他说：“我们尝试帮助富二代做得更好。”即使几杯酒下肚，他还是显得很谨慎。接力中国青年精英协会建立于2008年，旨在帮助面临相似挑战的富二代见面，会费为二十万元，要加入协会必须证明其家庭企业每年缴纳至少五千万元税费。论坛每年举行几次，还有关于如何减少税务或者最大化利润的讲座，此外协会也安排富二代参观彼此的公司。Martin 告诉记者：“大部分论坛都很无聊。”他摊开2011年的杂志，希望向媒体展示更积极的富二代形象。协会成员希望重新打造自己，去掉“富二代”中的“富”字，称自己为“创二代”，即二代企业家，或者就简单地称自己为“二代”。每个月杂志封面都是一名富二代，一般都是男性靠在奥迪车上，每期封面的造型都惊人地统一。</p>
+<p>该协会旨在鼓励二代接手家庭企业，或者至少在管理层发挥自己的角色。这些企业对中国经济至关重要，它们不仅占非国有企业的85%，而且也将长远利益置于季度利润之上。</p>
+<p>然而家庭企业的弊端在于家庭经营，孩子并不喜欢与家长一起工作。2012年上海交通大学发布数据称82%的富二代不愿意接手家庭企业，Martin不赞同这一数据，他没有从数据上反驳，他说：“孩子们不想接受，但是他们必须这么做。”</p>
+<p>Martin深有感受，他父亲的广告公司于1993年起步，如今已成为江西省业界领袖。大学毕业后，Martin没有进父亲的公司，他在荷兰学习金融管理，买了在线游戏Norron的股票，他曾对自己的商业敏锐度十分自信，“当时我认为我做得很好，”他说，“我是一名富二代，我不喜欢和其他人沟通。”游戏未能成功后，Martin决定加入父亲的公司，“我有选择，”他说，“我可以做别的，但是为此我父母要加倍努力，他们从未说我必须接手，然而我认为这是必要的。”</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/OWiqf.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/OWiqf.jpg?resize=600%2C400" alt="OWiqf" data-recalc-dims="1"></a><p>30岁的王达奇（音）</p></div>
+<p>所以富二代都面临同样的问题，他们拥有一切，然而却不能超越父母。他们的成功都归咎于家庭，而非他们自己，Martin总是被人介绍为“杭先生的儿子”。而作家王达奇为他的书找到了一家出版社，他不知道书能出版是因为他的水平高还是因为他著名的父亲。“人们总是说你唯一的优势就是生在一个好家庭里。”他很难向非富二代解释继承财富的压力。“他们无法理解为什么你会痛苦。”王达奇说道，“我告诉他们财富的数量并不能决定你的幸福度，只有经历了的人才能体会其中滋味。”</p>
+<p><strong>“他们的童年还未结束”</strong></p>
+<p>毫无意外的是，暑假去巴厘岛，冬天去阿尔卑斯山，在牛津读哲学，并从斯坦福大学获得工商管理硕士学位后，大部分富二代都不愿意接手家庭的牙膏盖工厂。三十六岁的平凡是接力中国青年精英协会的常务副理事长，他没有接手父亲在辽宁的房地产公司，而是迁到上海开始创建自己的投资公司。他选择上海的原因是“离家很远”。从哥伦比亚大学毕业后，二十八岁的Even Jiang考虑过加入母亲的钻石出口公司，然而两人对公司的未来走向意见不合。于是她去了美林证券，受美国快递服务的启发返回上海开了一家礼宾服务公司。三十二岁的刘加文（音译）父母在湖南省拥有一家服装公司，毕业后她尝试成立自己的服装品牌。她说：“我希望证明我自己也能行。”然而尝试失败了。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/LeyFj.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/LeyFj.jpg?resize=500%2C672" alt="28岁的Even Jiang" data-recalc-dims="1"></a><p>28岁的Even Jiang</p></div>
+<p>除了财富，富二代也继承了许多感情伤害。中国第一代企业家经历文革后，变得比较冷漠。王达奇说：“许多富二代也继承了这一点，所以很难和他们做朋友。”</p>
+<p>前面提到的优步司机小时候就被送到寄宿幼儿园，即使他家离学校很近。也许是为了补偿对其关爱不足，父母满足他一切心愿，其中包括给他买了几百辆玩具车。去年圣诞他给自己买了辆玛莎拉蒂，“感觉就像童年还没有结束，” Jason说道，“富二代的童年还未结束，所以他们总希望童年不结束。”由于独生子女政策，大部分富二代都没有兄弟姐妹，这也是为什么那么多人周六晚上一起出去玩，“他们渴望被照顾，也渴望被爱。”</p>
+<p>对Jason来说，开派对是排遣无聊感的一种方式。他曾一周五晚都去夜店。他说：“如果我不去，我就睡不着。”他还称他不缺陪伴。以前有一位女朋友交往了三年，她对他很好，然而他不爱她。他告诉记者这是他第一次告诉别人这些故事。</p>
+<p>大部分富二代不会公开谈论个人经历，上海的二代投资者Wayne Chen告诉记者：“他们不轻易信任他人，他们需要谈话的地方，他们需要归属感。” 接力中国青年精英协会为他们提供坦诚对话的平台，在这里他们不需要伪装，他说：“就像是康复中心一样。”</p>
+<p>七月，Even注意到她拥有的一家上海烧烤店生意比以往更差。她说：“客流量是以前的一半。”自六月以来，中国股市一直下跌，夏季末股价从峰值下跌了38%。晚餐时，我问他们富二代是否感受得到市场崩溃的痛苦。Even说：“当然，许多家庭企业都上市了。”她自己就买了股票，如果市场动荡，她就会抽身。陈先生称其家庭以“规避风险”的方式进行投资，大部分都投资于固定资产和基金中的基金。Even称筹资越来越难，Martin说经济放缓会影响《接力》杂志的广告收入，尤其是房地产广告收入。许多富二代将钱移至国外，以期获得外国国籍。2014年的调查数据显示64%的中国富人都已迁至或想迁至国外。我问他们富二代是否担心他们的钱。Martin说：“有些人会。”他指着陈先生，说道：“他父亲把他送到美国。”现在他拥有美国国籍。Martin已经结婚，有一个四岁的儿子，他也不排除移民的可能性。他们还谈到中国的仇富现状，Martin说：“小时候我们去最好的学校，我们没有遇到很多穷人，这对社会很危险。”因此接力中国青年精英协会计划发起一项连接富二代和农村孩子的项目，同时也有慈善项目。八月天津爆炸案后，协会成员就通过当地政府捐款15万元。Martin认为慈善不仅与社会责任有关，还对社会稳定至关重要。我问Even不平等现象在中国是否构成社会问题，她回答：“我不知道。有两种穷人，一种因为不努力而变穷，另一种努力了但是没有成功。我认为我们应该帮助第二类人……俗话说：救急不救贫。”</p>
+<p>今年夏天，在朋友的敦促下，王达奇决定打电话给父亲告诉他爱他。他拿起电话道：“我爱你，父亲。”他父亲顿了一下，问道：“你喝醉了吗？”八月在父亲住处和朋友见面时王达奇说起了这件事，他的客人来自生命源泉公司，该公司经营的一些课程高达1000美金，大部分面向富二代。王达奇称该团队帮助他与父亲和解，同时也支持他加入了接力中国青年精英协会。</p>
+<p>对于一些富二代来说，一瞬的感激只意味着刷一刷信用卡，富二代要找寻生活意义比大部分人更难。Even和王达奇游离于父母轨迹之外是因为有自己的目标，而其他人惊奇地发现回到家族企业会为他们带来满足感。刘女士说他很高兴接手家族的服装公司，因为这让她父母很高兴，以前的她可能会对这种想法嗤之以鼻。不是所有人都找寻到目标。那位优步司机Jason说电视节目制作不是他的理想工作，然而他不清楚什么才是。“小时候我有很多梦想，我想成为高尔夫球手、赛车手或者医生一类的。然而当你长大，你经历越多，就会意识到这些只是一个梦。” 虽然室内抽烟在北京是违法的，他还是点燃香烟，他也不管服务生是否会阻止他。他从来没什么限制，也许这本身就是一大限制。“我没什么计划，”他说，“也许这很令人忧伤，然而这是事实。”当我问他是否开心的时候，他说这是态度问题。“你可以找到一百万个伤心的理由，”他说，“然而你只能找到一个开心的理由。每天我都找到一个。”我问他今天为什么开心，他说：“今天我见到你很开心。”</p>
+<p>编译：Shicong</p>
+<p>来源：彭博新闻</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%B8%AD%E5%9B%BD%E5%AF%8C%E4%BA%8C%E4%BB%A3%E5%9C%88%E5%AD%90%EF%BC%9A%E5%BC%80%E6%B4%BE%E5%AF%B9%E6%8E%92%E9%81%A3%E6%97%A0%E8%81%8A-%E5%A4%A7%E9%83%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">中国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">富二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5/?category=18271" rel="tag">权贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3/?category=18271" rel="tag">独生子女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">社会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/" target="cdt-mirror">法广 | FMI：中国面临前所未有的经济挑战</a>
 </h2>
 <p><p>中国正“面临前所未有的经济挑战”，国际货币基金组织星期三在秘鲁利马举行的年会上发出如此警告。中国面临的关键问题是：如何能够在经济放缓的背景下保持金融稳定，完成经济模式转型。但是，出席同一会议的中国央行副行长易纲却表示，“请不要为中国经济担心”。</p>
@@ -612,37 +650,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E5%85%88%E6%92%95%E4%BB%BB%E5%A4%A7%E7%82%AE%EF%BC%8C%E5%86%8D%E6%88%98%E6%BD%98%E7%9F%B3%E5%B1%B9/" target="cdt-mirror">【网络民议】共青团先撕任大炮，再战潘石屹</a>
-</h2>
-<p><p>10月5日，知名地产商潘石屹发微博谈庚子赔款，称：“麻省理工学院一位教授告诉我，现在资助中国留学生的钱，是当年庚子赔款的钱。” 对此，@共青团福建省委评论：“拿着国耻，谢恩典也是少见”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.27.16.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.27.16.png" alt="Screen Shot 2015-10-05 at 下午8.27.16" width="495" height="518"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.10.431.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.10.431.png" alt="Screen Shot 2015-10-05 at 下午8.10.43" width="550" height="347"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.13.05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.13.05.png" alt="Screen Shot 2015-10-05 at 下午8.13.05" width="550" height="311"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.13.33.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.13.33.png" alt="Screen Shot 2015-10-05 at 下午8.13.33" width="550" height="294"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.01.45.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.01.45.png" alt="Screen Shot 2015-10-05 at 下午8.01.45" width="550" height="495"></a></p>
-<p>潘石屹接着发微博回应，提及<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">前几日任志强就“共产主义接班人”这一提法激辩共青团一事</a>，称“@任志强惹了你们，你们去折腾@任志强去。” 有网友评论：“撕不过大炮，转移火力了。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.35.22.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-05-at-%E4%B8%8B%E5%8D%888.35.22.png" alt="Screen Shot 2015-10-05 at 下午8.35.22" width="495" height="480"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/IMG_9672.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/IMG_9672.jpg" alt="IMG_9672" width="550" height="976"></a></p>
-<p><strong>以下为中国数字时代编辑摘自新浪微博评论：</strong></p>
-<p>吴飞微议：共青团组织继续扩大战场，先撕任大炮，再战潘石屹。</p>
-<p>赖斯洛夫李米尔维奇：直追红会，齐头并进之势，可谓，蔚为奇观啊…</p>
-<p>秃尾巴鹌鹑：昨天晚上看微博，给我的感受:1.中国经济彻底要崩盘了 2.国家被孤立了 3.李嘉诚要被做成肉夹馍了 4.任志强潘石屹跟团组织干起来了 5.组织要组织组织准备组织他俩 6.世界要乱啊这是。</p>
-<p>sina-jing：去年是包子元年，今年是民智元年。//@梦剧场乐园:哈哈，兄台所言其是，现在随着走出国门民智开化，越来越不好糊弄了！</p>
-<p>老马的空间：撕不过大炮，转移火力了。</p>
-<p>@黑子杨涛:我不是党员但是团员？每次填写政治面貌都想写群众，请问如何才能回到群众中来？</p>
-<p>田七郎：敢说国王长着驴耳朵，这便是罪过</p>
-<p>黑天鹅湖：《不要让潘石屹跑了》</p>
-<p>九门宝哥：共青义和团</p>
-<p>无敌抗跃进：回复@狮子的新家空荡荡:最让团团讨厌的是把钱捐给美国去，咋不捐给国内什么红会啦希望工程啦什么的，再不然学标哥着雷锋装发红包送牛羊也行啊</p>
-<p>吴JZJZ吴：如此批斗，仿佛回到了大革命，如果人人发表自己的观点后就要被批斗，估计没人会再愿意留在中国！劝那些讲历史的人回头看看文化大革命的历史，行为如此的相近，如此的激进，只图口舌之快，并与一丝丝卵用，如果他们能用嘴推动中国经济发展，那就让他们用嘴吹，you can you up ,no can no bi bi</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E5%85%88%E6%92%95%E4%BB%BB%E5%A4%A7%E7%82%AE%EF%BC%8C%E5%86%8D%E6%88%98%E6%BD%98%E7%9F%B3%E5%B1%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%9A%E5%AD%90%E8%B5%94%E6%AC%BE/?category=18271" rel="tag">庚子赔款</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%98%E7%9F%B3%E5%B1%B9/?category=18271" rel="tag">潘石屹</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -664,5 +671,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

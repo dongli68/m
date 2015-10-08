@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%90%B4%E5%BC%BA%EF%BC%9A%E6%95%99%E5%85%BB%E3%80%81%E9%98%B6%E7%BA%A7%E5%92%8C%E8%87%AA%E6%88%91%E8%A7%84%E8%AE%AD/" target="cdt-mirror">吴强：教养、阶级和自我规训</a>
+</h2>
+<p><p>每次长假，似乎都是国人素质的大曝光。小孩街头拉屎现象已经从香港移到了伦敦，而老人碰瓷、年轻人随意殴打店员也在450万占领日本的大军中蔚为可观，至于大声喧哗、随地吐痰、乱扔垃圾之类寻常恶习早已成为中国人的标签了。这很容易让人痛心“礼仪之邦不复”。关于美德价值观等教育口号各处张榜，俨然“新生活运动”再现。然并卵。还是回到问题本身，谈谈素质背后的教养问题。</p>
+<p>这几年，与这些陋习有关的教养欠缺，早已是微信上的常见话题，除了对层出不穷“碰瓷”事件的声讨，还有“最后民国淑女”、培养贵族要几代之类的心灵鸡汤。之所以称其鸡汤，是因为当下充满暴戾的社会风气和社会冲突中，奢谈教养似乎很不政治正确，类似于 “民主素质先决论”。特别的，在所有人群中，以年轻的社会行动者——比如青年女权行动派们，对教养二字尤其反感。在她们眼中，教养便意味着规训，如“女德”一般，意味着男权社会的压迫性秩序，除了彻底推翻并无其他选项。事实上，她们在无论私下或者公开辩论，还是日常行为模式中，也多拒绝所谓教养。或者动辄恶言相向不同意见者，或者热衷各种公共曝光博取眼球，也常常不择手段攫取男性资源为己所用，为了反男权而宁愿变成马基雅维利主义者。如果作为政客，这样做无可厚非，但是如此反教养的态度往往深刻影响着运动伦理。</p>
+<p>的确，教养本身，从一开始就带有极强的阶级性。教养，字面意思是父母教育，即家教，从餐桌礼仪到睡前讲故事。但是，在人类文明发展进程中，教养与社会阶级紧密相关，社会阶级也就是有着相似价值观和生活方式的人群对教养的影响远远超过家庭本身。例如，在古希腊，教养和公民素质紧密相连，指的是人在公共场合应当表现出足够的尊严、得体和交流能力。教养这一社会化过程就等同于民主养成，只是，这种教养局限于“公民阶级”，区别于奴隶阶级和异族。在古罗马时代，离开了城邦民主，教养开始变得只为贵族所有，贵族们必须从小学习希腊语甚至北方异族的语言以及大量哲学课程。但是到公元三世纪中叶，这一传统难以为继，罗马文化全面粗鄙化，文化堕落和罗马衰亡几乎同时开始了。直到中世纪后期的14-15世纪，欧洲贵族之间还有着动辄决斗的暴力传统，约26%的贵族死亡都与决斗有关。只有在各国王室下令禁止后，斗殴成为贫民和中小阶级的专利，教养才突然间变得似乎成为贵族的代名词了。但是，真正的教养时代则是到了资产阶级兴起，绅士转而成为教养的代表，一个较贵族更为庞大的社会阶级，包括了新兴资产阶级，教养与阶级社会及其道德化，也就是黑格尔所论的市民社会，便紧密相关了。教养成为资产阶级表达自己、维护权益以及进行阶级再生产的社会结构。</p>
+<p>不过，从19世纪中期以降，虽然随着国民教育的普及阶级差异逐渐缩小，特别是到战后，普遍富裕、福利国家、大众传播和消费主义进一步消弭了阶级差异，也最大限度地减少了人们的教养差异，无论口音服装，还是行为举止，都高度相似，教养的阶级差异似乎不再有意义了。但是，根据Melvin Kohn长时段的经典研究，社会阶级对教养的影响并没有消除，而是更多地体现为更遵守权威和更反叛、独立方面，也就是说，底层与工人阶级家庭的教养，更偏重服从，塑造着权威性人格，而中产阶级的教养则更多地鼓励独立思考，后者更容易产生反叛。这可以解释战后的社会运动主要是中产阶级子女的阶级反叛，与战前迥然不同。换句话说，反叛，即指向自身阶级以及自身阶级所嵌入的威权制度，构成了战后社运的主旋律，而非单纯的阶级反抗。后者意味着一个阶级对另一个阶级的反抗，在战前的阶级斗争为主要形式的运动和革命中是主流，其时的动员者尽管也是来自精英阶级，却只是少数的运动领导者，而非动员主体。正是在这个意义上，我们有必要仔细区分反叛与反抗。</p>
+<p>比如那些青年女权行动派们，自认为享受计划生育政策利益和高考扩招机会、得以从底层阶级上升并完成高等教育而跻身中产门槛，就很容易在反抗男权——特别是中产阶级的过程中，将反抗无限扩大至社会，乃至人类社会的基本伦理，如诚实、忠诚和自由生育及抚养后代等。殊不知，她们只是从底层经验出发反抗一个较高阶级，以底层的粗鄙方式进行反抗，并无多少创造性。毕竟，她们迄今为止绝大多数行为艺术或者抗争剧目都来自抄袭，因为她们的反抗而非自我阶级反叛，而难以建立起真正的反思或批判，然后导向创造。更难以将反抗溯及阶级制度的背后，也就是父权国家，因而极易被实质为国家主义的新左所蛊惑，以为与劳工运动的结合便能消弭自身的抗争软弱性，一种为街头艺术所炫目的伪激进主义。</p>
+<p>因为，继续深究，相对Kohn的研究，中国的社会阶级和教养关系以及当下所面临的挑战有着两方面的重大差异。一方面，历史主义地说，现代以来的中国社会并不算一个“教养社会”。当传统教养如朱子家训代表的乡绅士大夫阶层被现代革命完全消灭，一个新的讲究教养的社会阶级迄今凡66年也未形成，无论哪个阶级。革命者后代们的教养水平并不比底层阶级好多少，而所谓普遍的服从也许只是表象，与教养无关，关乎强制无所不在，关乎唯物辩证法的教育彻底，关乎1970年代逐渐形成的“单位”权力，关乎1980年代以来独生子女政策下制造的“小皇帝”们的放纵和自私主义泛滥。结果，迄今为止，由于数代人教养的缺失，中国并未形成真正意义上的“规训”社会：法律规范的崇高性和严格性并未得到普遍承认，遑论进入日常生活；道德的崩塌自不用多言；卫生的训练和纪律的养成，也在退化；个人行止和修养，混乱不堪，并无一个可观察到的社会标准，或者阶级分野。这是我们看到各种社会乱象的重要根源，无论境外旅游的国人表现，还是境内的日常生活。</p>
+<p>这一背景下，谈教养便有其特殊意义，并非简单地指向诸如新兴中产阶级的再生产，而是强调通过主动的自我规训建立起新的伦理，新的共同体，作为一种反叛。例如，为拒绝整齐划一的国民教育，而涌现的许多自创民间学校和教会学校，许多知识分子母亲开始放弃工作专心家庭教育。尤其后一点，最近常为一些女权主义者抨击，被认为是保守的家庭回归。而在通过自我规训重建教养的意义上，这样的努力可能才是社会的重建，最为积极的努力。还有成人后个人化的努力，从长跑到健身瑜伽，到素食主义或者拒绝秋裤运动，到每日男刮胡子、女剃腋毛、保持个人清洁这样简单的日常卫生养成，都是个体教养缺失、对散漫无规训社会的抵抗，朝向一个新社会阶级的重塑，打破既有的阶级结构和阶级隔离。而我们每日面对的这么一个无规训、野蛮丛林的社会，也许正是威权主义的父权家长制赖以维系、甚至更乐于懒惰地从历史合法性寻找其基础的基础，即轻易诉诸所谓民众的素质问题，和当局管制的不可或缺。</p>
+<p>另一方面，与马克思主义的传统阶级斗争理论相反，也与近年来新左派们痛心疾首工人阶级的消失而致力于新农民工的“新工人阶级”的构建运动不同，阶级这个概念，也许从来没有像今天那么无意义。这里既有福利国家体制建立之后的长期趋势，传统的基于生产资料占有的阶级关系被打破，代之以再分配为主导的超阶级关系。中国前三十年的运动打破了旧阶级体系，构建了一个只有干部和群众的社会结构，最近三十年的市场化改革则在两者之间创造了新的中产阶级。但是即使这一新兴阶级，也不是一个自为的社会阶级，而更接近齐泽克意义上的“逃逸阶级”。 即，阶级是逃逸的，从旧的阶级结构中逸出，包括他们仅有的残存阶级符号，既不拥有政治代表，也不在再分配谈判中占有一席之地。这种后工业化社会的情形居然早早地适于描述中国的中产阶级，不仅包括有车有房有高收入职业和温馨家庭生活的所谓新中产阶级——他们没有参与城市管理的权力，或者社区管理的参与权力，甚至从所谓户口到生育的权力。他们只是幸运地脱离了底层阶级生活，在成功梦想或者创业鸡汤中的幸存者，侥幸地暂时避开直接的制度压力。那些年轻女权主义者同样如此，她们或他们都不过是逃逸者。</p>
+<p>更重要的，这样一种超越阶级的集体逃逸，从屌丝到杀马特，从女权到新中产，都在在打破了既有的阶级结构和阶级隔离，再无从以阶级为单位进行动员，只能涌向唯一存留的公共空间。也意味着，反之，任何以继续阶级为动员的运动，无论新工人阶级运动，还是女性阶级运动（假设社会按性别抽象为男性－霸权和女性－受压迫两个阶级），都难逃阶级－国家框架下的吸收，理论上当然既包括社会民主的合作也包括法西斯主义的利用。</p>
+<p>那么，教养，特别是新的社会阶级所形成的自我规训，在这一未来愿景下意味着什么就不言而喻了——在逃逸的短暂自由中获得认同和重新集结的能力。届时，最有教养者，即克制、理性、勇敢、忠诚的公民，或许才是真正的激进主义者。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%90%B4%E5%BC%BA%EF%BC%9A%E6%95%99%E5%85%BB%E3%80%81%E9%98%B6%E7%BA%A7%E5%92%8C%E8%87%AA%E6%88%91%E8%A7%84%E8%AE%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">工人运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">工人阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E5%85%BB/?category=18271" rel="tag">教养</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%80%A7/?category=18271" rel="tag">理性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7%E7%BB%93%E6%9E%84/?category=18271" rel="tag">阶级结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7%E9%9A%94%E7%A6%BB/?category=18271" rel="tag">阶级隔离</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AF%91%E8%AF%BB%EF%BD%9C%E6%92%BC%E5%8A%A8%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E7%A7%A9%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%BF%98%E7%BC%BA%E7%82%B9%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">译读｜撼动全球经济秩序，中国还缺点什么？</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/the-economist.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/the-economist.png?resize=250%2C127" alt="the economist" data-recalc-dims="1"></a><br><strong><em>本文原载于The Economist</em></strong></p>
@@ -143,6 +163,26 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 8小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/" target="cdt-mirror">法广 | IMF：中国面临前所未有的经济挑战</a>
+</h2>
+<p><p>中国正“面临前所未有的经济挑战”，国际货币基金组织星期三在秘鲁利马举行的年会上发出如此警告。中国面临的关键问题是：如何能够在经济放缓的背景下保持金融稳定，完成经济模式转型。但是，出席同一会议的中国央行副行长易纲却表示，“请不要为中国经济担心”。</p>
+<p>这家国际金融机构周三在秘鲁首都利马公布了半年度全球经济报告最新一期『全球金融稳定报告』，报告指出，在经济增长放缓的背景下，如何既要完成经济模式转型的目标，通过有序去杠杆化降低高债务水平，同时又能使其金融体制更多地建立在市场经济基础之上，中国当局为此面临前所未有的挑战。</p>
+<p>北京当局希望把本国目前以基础建设和出口低增值制造品的经济增长模式引导到以消费和服务为主的轨道上来。</p>
+<p>国际货币基金组织的报告指出，中国未来经济增长的核心领域—私有领域目前增长缓慢，这与中国的银行体制有很大关系。中国银行体制必须改革。</p>
+<p>该报告设想的最坏的一种情况可能是，中国大量企业破产，从而加剧金融紧张，使得目前已经放缓的经济增长更加疲弱。</p>
+<p>鉴于中国经济增长放缓，该组织周三下调了对全球经济增长的预估。2015年，全球经济增长预估3.1%，将是2009年以来增长最缓慢的一次。在最新报告中，该组织对新兴经济体债务过高从而可能会对公共财政造成冲击表示担忧。</p>
+<p>中国央行副行长易纲在利马举行的国际货币基金组织年会上试图缓解国际对中国经济放缓的担心，他表示不要为中国经济担心，在不远的未来，中国经济一直会有一个相对较高的增长率。他说，中国对原材料的需求仍然在不断增长，而且，在不远的将来，中国将成为第一大石油进口国。易纲还否认中国进口明显衰退的说法，他说，许多人在谈中国经济在放缓，但中国进口原材料始终在增长。</p>
+<p>易纲还表示中国欢迎TPP达成协议，并说中国对此是开放的态度，已考虑好跟12国合作。</p>
+<p>易纲周三还宣布，中国正式采纳国际货币基金组织数据公布特殊标准（SDDS），据指出，SDDS是一个提升经济统计数据质量的机制，它对数据覆盖范围、公布频率、公布及时性、数据质量、公众可得性等方面要求更高，并且需按标准公布实体经济、财政、金融、对外和社会人口等五个部门的数据。</p>
+<p>近来，许多经济专家对中国公布的经济数据的可靠性表示怀疑。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%8A%A5%E5%91%8A/?category=18271" rel="tag">全球金融稳定报告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87/?category=18271" rel="tag">国际货币基金组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/?category=18271" rel="tag">经济挑战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E4%BD%93%E5%88%B6/?category=18271" rel="tag">银行体制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/" target="cdt-mirror">法广 | FMI：中国面临前所未有的经济挑战</a>
 </h2>
@@ -581,53 +621,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%BE%8B%E8%AF%BB%E5%BA%93-%E5%87%8B%E6%95%9D%E7%9A%84%E4%B9%A1%E6%9D%91-%E7%8A%B9%E5%A6%82%E4%B8%8A%E4%BA%86%E5%B9%B4%E7%BA%AA%E7%9A%84%E8%80%81%E4%BA%BA/" target="cdt-mirror">法律读库 | 凋敝的乡村 犹如上了年纪的老人</a>
-</h2>
-<p><p>外地求学以来，回老家的时间越来越少。及至在临县上班，也只是隔几周回去一次。与乡村维系的纽带似乎就剩下那个老父母守护着的农家院落了。而那个院落，也随着老父母断断续续的跟随自己离开，即将成为一个空壳。但是比起常年在外，一年一次甚或几年一次回家的同龄人，我算是距家最近、回家频次最高的了。</p>
-<p>我所在的镇，地处西北一个经济势头强劲的平原县。历史上据说苏东坡任过知府，因了凤凰来此引吭而得名。特别是强劲的工业、个性鲜明的手工艺、声誉在外的西凤酒以及号称西北第一的佛山等等为她的发展注入了鲜活的血液。据说马上就要撤县建市了。</p>
-<p>小镇在全县地位当中也算得上是名列前茅的经济重镇。她的经济发展程度，在全国类似城镇当中大致应该处于中上等水平。其经济发展实力，从1994年被确定为全国500个小城镇建设试点镇之一，全省100个小城镇建设示范镇之一，1996年又被确定为省级全镇企业小区之一就可见一般。当然，这与她所处的地理位置紧密相关。其距离县城13公里，是县城到市区的另一条交通要道。正是在此雄厚的基础上，小镇也提出了雄心勃勃的口号，打造全省十强县。</p>
-<p>得益于良好的经济大势，村民的生活质量节节攀升。在我们村上，几乎每家都在镇上街道做着或大或小的生意。没有生意的，也就近在电子厂、甲醇厂上班，谋得经济发展的一杯羹。家家盖起了二层小洋楼，差不多外墙都用洁白的瓷砖铺陈，空调、太阳能、彩电、独立的洗浴室差不多一应俱全。近几年，有好几家添置了私家车，而且越来越势不可挡，即将有继手机之后进入每家每户的势头。好多家庭给年轻人在城市购置了商品房。村上的居住环境也整洁了不少。平整的柏油通村路延伸到了每一户家门口。路灯立了起来，乡村广场上的体育器械供村民在一天的奔波之后消遣，乡村花园环绕在村子外围，郁郁葱葱。专门的垃圾台将生活垃圾归拢在一起，旧时农村那种污水横流、蝇虫乱飞的脏乱差早已了无踪迹。随着新农合的实施，在镇上看病报销比例达到90%。村民稍有头疼发热，便住进医院输液治疗几天，全当保健。总之，无论用哪一个标准衡量，这都是一个充满了经济活力的乡镇。</p>
-<p>可是，在经济的繁华后面，依然掩盖不了乡村孱弱的一面。与中国任何一个在经济化浪潮夹缝中求生的乡镇一样，劳动力短缺和隐形的环境污染成为她宿命式的轮回。</p>
-<p>走在村落宽阔、整洁的水泥道路上，举目四望，除了日落西山的羸弱老人，就是不谙世事的嗷嗷幼子，或者孤身守候的妇女。在镇上的卫生院住院的人，几乎清一色是头发花白的年迈体弱的老人，旁边陪护的要么是同样颤颤巍巍的老伴、要么压根就没有人陪护。而老人的子女，幼子的父母，妇女的丈夫无一例外置身繁华的大都市奔波劳碌，追求着一张张人民币。没有人真正知晓这些青年人在外地到底过着怎么样的生活。只是通过偶尔回归的人举手投足间的动作以及夸夸其谈的闲聊当中揣测他们在外地的境遇。每年春节时，年轻人如天而降，一忽儿聚拢而来，吃吃喝喝，拎着大包小包东家进西家出，与必要的圈内人联络感情，侃侃而谈外边五彩斑斓的生活。寂寥的乡村在那几日似乎获得了难得的活力。过个三五天之后，这些年轻人又一忽儿做鸟兽散，回到他们描述的花花世界当中疲于奔命，等待着下一个新年。乡村继续陷入无言的沉默当中日复一日。</p>
-<p>到了夏收时节，收割机轰隆隆的开进麦田，数分钟便将其脱成麦粒。老人和在家的人将其拉回晾晒在自家门前的水泥路面上。两三天后，便有专门收麦子的贩子上门将其收购的一粒不剩。因为家里常年缺人手，粮食消耗的很少，很可能前年的麦子还在家里囤着。儿时麦浪滚滚，家家门前的灯彻夜通明，打麦机呜呜的响，邻居相互帮助抢收，孩子在麦草剁躲猫猫的繁忙喜庆已经一去不返了。夏收之后本来要种玉米，现在已经很少有家庭去种了。买种子，施肥花的代价远远不如到厂子去上几天班赚钱来的轻松。农民种粮的积极性早已不如以往。除了种的少，经济化浪潮给农村带来的另一个变化就是耕地的急剧减少。我们家里以前六、七亩的地现在已经剩下7分。单纯依靠种粮过活的生活方式已经被经济大潮裹挟着变的面目全非。以前的耕地现在被农家院落、村部大楼，以及各类工厂占据。宽阔平整的柏油路直通厂门，厂子被各类巨大的烟囱、电路、塔楼围绕，机器的轰鸣声让其显得充满了现代化工业气息。劳动力短缺的另一个问题就是农村的红白事习俗也走到了改革的十字路口。按照乡俗，逝世的人棺木要让邻居抬起，孝子孝孙挽着白绫在前面拉着抬到墓地。由于没有丁壮劳力，棺木只好放在灵车上，孝子在车头上挽一条白绫，象征性的拖到墓地。</p>
-<p>除了劳动力短缺，隐形的环境污染犹如一张魔咒成为笼罩在村民头上的阴影。不时地，工厂散发出的刺鼻奇臭无比的气味呛的村民陷入无名的恐慌却不知答案在哪里。不明真相的群众诉说着刺鼻的气味，了解真相的群体却陷入沉默。没有人告诉村民这到底是什么，为什么产生，是否对人有危害，怎么免于损害。没有，统统没有，一切只是陷入巨大的沉默当中，陷入在欣欣向荣的经济化浪潮当中。其实，村民不是没有争取过答案。2009年时距离村上不远的地方发生了轰动一时的血铅事件。当地孩子的血铅超标，愤怒又恐慌的村民群情激愤，据说堵塞了当地交通，推倒了村民怀疑的污染制造者—-一家据说是五百强的企业的围墙。抗争的结果是：污染制造者工厂在停滞了一段时间，损失了一批经济利益之后重新冒起了烟。而其周边居民被搬迁到距此有二三十公里的县城和公路沿线，比原来的地势高了一些。但农民的搬迁是牵一发而动全身的，农民离开了土地就如鱼离开了水一样。县城闲散人员激增，尽管当地建立了人力市场加以疏导，但爆棚的中壮年劳力间接印证了搬迁的后遗症。</p>
-<p>在蓬蓬勃勃的发展当中，乡村犹如一上了年纪的老人，尽管不断发展的经济给她增添了不少光环，但那更多像是涂抹在满脸皱纹的脸庞上的胭脂，本质上并不十分协调。她那虚弱的体质一天胜似一天，无奈的垂垂老去，等待着最后的消弭。她还能焕发往日风采吗？她到底会走向哪里？没有人知道答案。</p>
-<p>关键词: 农村 调查 百态 栏目: 社会透视 作者: 张录芳</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%BE%8B%E8%AF%BB%E5%BA%93-%E5%87%8B%E6%95%9D%E7%9A%84%E4%B9%A1%E6%9D%91-%E7%8A%B9%E5%A6%82%E4%B8%8A%E4%BA%86%E5%B9%B4%E7%BA%AA%E7%9A%84%E8%80%81%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91%E5%AD%B1%E5%BC%B1/?category=18271" rel="tag">乡村孱弱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E9%95%87%E5%8C%96/?category=18271" rel="tag">城镇化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8C%96%E6%B5%AA%E6%BD%AE/?category=18271" rel="tag">经济化浪潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B/?category=18271" rel="tag">经济活力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%AF%BA%E5%A5%96%E4%B9%9F%E4%B8%8D%E8%83%BD%E6%8E%A9%E7%9B%96%E4%BD%93%E5%88%B6%E8%85%90%E8%B4%A5/" target="cdt-mirror">德国之声 | 长平：诺奖也不能掩盖体制腐败</a>
-</h2>
-<p><p>刚刚宣布的2015诺贝尔生理学或医学奖，给中国社会带来十分丰富的话题。获奖者共有三人，但是在迅速传遍中国网络的大部分消息中，美国的威廉·C·坎贝尔和日本的大村智被完全忽略了，被称为“其他两位科学家”，中国科学家屠呦呦成为惟一的主角。</p>
-<p>但是，跟屠呦呦的获奖成就相比，中国网民显然更关心她的国籍；排山倒海的祝贺留言中，与其说是为她个人获奖感到高兴，不如说是为“祖国的荣誉”而自豪。在维基百科词条中，她的名字下立即添加上“首位中华人民共和国高等教育体系培养出的获诺奖的科学家”。甚至有消息强调，她是一位中共党员。这在诺贝尔获奖历史中并不常见，也与该奖项强调个人成就相悖。</p>
-<p>中国非常看重国际奖项，而且更为倾向于把它和“国家荣辱”挂钩。为了培育更多的体育冠军，中国政府实行集中全国优势的“举国体制”。为了中国人获得或者不获得诺贝尔奖，中国政府也进行过游说或者施压。但是，相对而言，诺奖比体育奖棘手一些。和平奖的两位获奖者达赖喇嘛和刘晓波，一位是流亡中的“分裂主义者”，另一位是至今被关在监狱里的“犯罪分子”。文学奖也有两位获奖者高行健和莫言，前者因痛恨中国专制而移民法国，后者则公开为言论审查辩护，让许多中国人都感到难为情。</p>
-<p>“<strong>文革”也能培育出诺奖？</strong></p>
-<p>这些奖项中的政治因素让很多中国人感到恐惧，加上中国政府淡化和歪曲自由、民主及人权等人文教育，人们普遍认为，只有科学奖才是货真价实的肯定。恰恰在此领域，中国人的收获几乎一片空白。多少年来，媒体一再就此展开讨论，被称为中国人的“诺奖情结”。</p>
-<p>讨论普遍反省中国压制个体发展的教育体制、受意识形态干扰的学术机构及被官场腐败侵蚀的科研体制，参与讨论的官方喉舌媒体则往往强调西方评奖机构的偏见，以及符合官方意识形态的民族主义宣传：“只有国家强大了才有希望获诺奖”。</p>
-<p>屠呦呦获奖重新点燃这场争论。网络上已经有人宣称：中国的教育体制也能培养出诺奖！批评者反唇相讥：中国社会如此看重身份头衔，可是屠呦呦连中科院院士一直都没有评上，还能说她是国家重视的人才吗？</p>
-<p>讨论甚至延伸到“前三十年与后三十年之争”。有人指出，屠呦呦的主要医学成就青蒿素是在“文革”期间研发，充分证明强调自力更生的“前三十年”比强调改革开放的“后三十年”更能培育人才。</p>
-<p><strong>诺奖不能改变压制科学的事实</strong></p>
-<p>诺贝尔奖是根据诺贝尔本人的遗嘱设置的。遗嘱中说：“我的明确愿望是，在颁发这些奖金的时候，对于授奖候选人的国籍丝毫不予考虑，不管他是不是斯堪的纳维亚人，只要他值得，就应该授予奖金。我在此声明，这样授予奖金是我的迫切愿望。”显然，诺贝尔强调个人成就和普世原则，并不想让它受制于国家、地域和民族身份，也不希望被这些方面所利用。</p>
-<p>另一方面，有些组织和政权阻碍科学发展和文明进步，这是一个不争的事实。屠呦呦女士获奖应该得到祝贺，但是并不能改变这样的事实：中共统治中国的六十多年间，占世界人口四分之一的中国人没有为人类科技和人文进步作出足够的贡献，而且毫无疑问源自政治压迫。在屠呦呦研发青蒿素的同时，成千上万的科学家、教授和作家遭受惨无人道的迫害，她的丈夫也被押送到“五七干校”劳动改造。时至今日，中国教育也同样为了意识形态洗脑而压制个体创造力，致使无数科学梦想被扼杀在摇篮；中国科学界也同样因为体制腐败，浪费大量人类资源而成就平平；莫言获奖未能激励中国人文进步，反而让中国文学及世界文学蒙受更大的羞辱。</p>
-<p>其实，屠呦呦获奖最大的惊喜，也最容易被舆论忽略的，是对仍然桎梏于父权制度的中国社会的警示。新近发表的人口调查显示，中国男女性别比例进一步失衡，但是媒体强调的不是女孩歧视与女婴虐杀，而是“男孩危机”，并称只有男孩可以让中国的军事、科研及人文强大起来。</p>
-<p>关键词: 诺贝尔奖 体制 栏目: 新颖视角 栏目重点发表: 栏目头条 作者: 长平</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%AF%BA%E5%A5%96%E4%B9%9F%E4%B8%8D%E8%83%BD%E6%8E%A9%E7%9B%96%E4%BD%93%E5%88%B6%E8%85%90%E8%B4%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E8%85%90%E8%B4%A5/?category=18271" rel="tag">体制腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96/?category=18271" rel="tag">诺贝尔奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -639,7 +632,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -649,5 +642,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

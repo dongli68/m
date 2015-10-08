@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%B8%AD%E5%9B%BD%E5%AF%8C%E4%BA%8C%E4%BB%A3%E5%9C%88%E5%AD%90%EF%BC%9A%E5%BC%80%E6%B4%BE%E5%AF%B9%E6%8E%92%E9%81%A3%E6%97%A0%E8%81%8A-%E5%A4%A7%E9%83%A8/" target="cdt-mirror">澎湃新闻 | 中国富二代圈子：开派对排遣无聊 大部分人情感受伤</a>
@@ -400,7 +400,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%BD%93%E5%88%B6/?category=18271" rel="tag">教育体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%A2%E5%A3%AB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">院士制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%B2%81%E7%99%BD%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%99%A2%E5%A3%AB%E5%88%B6%E5%BA%A6%E6%98%AF%E5%88%A9%E7%9B%8A%E5%88%B6%E5%BA%A6/" target="cdt-mirror">鲁白：中国院士制度是利益制度</a>
 </h2>
@@ -661,7 +661,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -671,5 +671,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,91 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AF%91%E8%AF%BB%EF%BD%9C%E6%92%BC%E5%8A%A8%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E7%A7%A9%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%BF%98%E7%BC%BA%E7%82%B9%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">译读｜撼动全球经济秩序，中国还缺点什么？</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/the-economist.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/the-economist.png?resize=250%2C127" alt="the economist" data-recalc-dims="1"></a><br><strong><em>本文原载于The Economist</em></strong></p>
+<p><strong><em>编译/荆棘伊甸 & eve</em></strong></p>
+<p>要了解中国这一经济霸王的反复无常，只要跨过大陆边界，进入香港特区就知道了。香港是全球金融中心，中国雄心的实验室，依靠的正是与大陆的贸易，也是人民币 银行业务枢纽。许多店铺与贩卖机都接受人民币。但就算是这里，紧靠大陆，经济开放程度登峰造极，也远没有完全接受中国的金融体制。</p>
+<p>香港有自己的法律、机构和货币，港元已经与美元挂钩32年了。股票标价与交易用的都是港币。港股交易的价格与上海证交所的价格常常不同。上海证交所与世隔绝，监管松懈，证券价格有时会被扭曲。</p>
+<p>香港银行存款中仅有11%是人民币，而30%是美元。港市募集资金大多以港币或美元计价。汇丰这一全球性银行正考虑将总部从伦敦迁往香港，但只接受特区的独立货币当局监管，而非大陆机构。</p>
+<p>香港首富李嘉诚在西方监管下的企业中的投资六倍于中国大陆，尽管那是他的祖国。</p>
+<p>八月早些时候中国将货币贬值3%，令全球市场不安，香港官员与银行家像所有人一样，倍感疑惑。就连执行政策的中国央行也好像不太理解背后逻辑。央行发表声明称，其“系统将维持汇率基本稳定，处于可适应、平衡的水平，让市场利率发挥作用，继续改进基于市场供需的浮动汇率机制。”</p>
+<p>这番话并没令人安心，反而提出了一个大问题：中国想挑战美国经济地位，经济减速是否拖了她的后腿？</p>
+<p>中国经济有些领域开放，有些封闭，整体上并不连贯。外国人可以建厂，但不能买股票。中国企业跨境直接投资总额名列世界第二，但其中私募基金的参与却几乎可以忽略不计：他们持有国际资产的数量还不及爱丁堡那些私募基金。大陆消费者能买下宝马车或是古驰包，却不能买生产这些产品的公司的股份。中国人民银行等有关监管机构也许是世界上最透明的债券市场上最大的投资者，但其本身却像黄浦江一样不透光。国有银行往非洲贷款胆大得像狮子，在西方资本市场上却像只耗子。中国一个趔趄，油价就暴跌，但设定油价的石油衍生品合约却不在中国进行交易。</p>
+<h3><strong>雄心 VS 稳定</strong></h3>
+<p>中国领导人所修读的马克思主义著作认为矛盾必然会导致变化，这话说得有些道理。举例而言，中国庞杂的监管体制存在漏洞，大把的钱流出，流入曼哈顿买楼，或是瑞士买债。允许外国人更多购买中国股票债券，能够抵冲这一影响。但中国未来能否在经济上顶住美国，很大程度上取决于其领导人，而这些人必须衡量一下其滚滚雄心与对不稳定的惴惴担心。</p>
+<p>雄心很好理解，中国至少要获得大经济体天赋的特权：国际金融贸易规则制定时更大的话语权、货币更广泛为人使用。中国领导人在美国面前扮小弟的日子早过去了。 遥想2006年9月时任中国主席胡锦涛，当时美国官员私下要求12月人民币升值3%以安抚美国国会，他说“我了解了”。第二年5月人民币升值了3.5%。 到了2009年，央行行长周小川就在呼吁要用新的全球储备货币取代美元。</p>
+<p>中国希望在国际上发挥更大作用不仅是为了面子，也符合经济逻辑。2001年，中国为了加入世贸组织，委身采纳了他人的规则，而未来在很多新领域（如网络犯罪和电子商务等）的贸易谈判可能更多地照顾到中国的需求。中国进一步对穷国放贷助其发展，这也可以提升且保护自己的投资份额。</p>
+<p>中国更加国际化或将帮助摆脱其在美元区的臣属地位。长期来看，允许人民币浮动或能帮助中国经济更好调节，削减贸易不平衡。放开资本账户，便于外国人购买中国债券与股票，这也能帮助人民币更加国际化。如果中国企业能用人民币在海外做生意或借钱，少用美元，中国或许不用再被迫持有大量美元储备。这将带来溢出效应：中国将被迫改革本国经常错配资本的金融市场。</p>
+<p>维稳压力也很大。如果增长放缓，中国改革力量可能被反对改变的既得利益集团攻击。这些人包括：贷款息差固定的国有银行，拿补贴贷款的国有企业，借美元贷款、 认为人民币只会升值的出口商。中国现代史告诉我们，深入改革会发生，但要慢慢来。1989年到1990年，重拳打击通胀、广场那件事之后，增长一度低至4%。到了1992年邓小平通过著名的南巡重树权柄，在此过程中推动市场改革，智取了党内保守派。</p>
+<h3><strong>慢慢来，慢慢来</strong></h3>
+<p>增速其实也没那么低。官方数据显示，目前为7%，但悲观民间预测认为，到5%也是有可能的。目前政府犹疑不决，一方面希望加入国际货币基金组织精挑细选的特别提款权货币篮子，体现出中国的国际化雄心，也说明中国想获得美国主导的国际组织的认可。但另一方面，政府又在笨拙地尝试救市。人民币今年8月贬值，既可以视为一次改革，以放开人民币自由交易幅度，也可以解读为恐慌的政府试图刺激出口，将中国带回过去的重商主义政策轨道上。此前，央行行长周小川少有失策， 他是美国眼中最坚定推动自由化改革的中国领导层。</p>
+<p>由于担心维稳，所以就算是改革派也不愿走得太远。中国金融系统备受压力，漏洞百出，满是问题，但政府并不愿意全盘改过，让全球市场上的外国资本大潮在中国进进出出。最终目标是开放资本账户，但不会全面自由，还要有严格规矩管理进出，过滤投机者。</p>
+<p>中国希望在海外成就经济辉煌，但必须是用人民币。中国已达成的国际货币布局可以比做一条十车道的高速，但却没有车在上面行驶，或是一座摩天大楼组成的鬼城。政府操刀搭好了台，但还没有人来唱戏。</p>
+<p>请起立、脱帽、敬礼——中国央行已经与32家外国央行达成了5000亿美元总等额人民币互换通道，这一总额与美联储达成的美元互换相当。在包括多哈和多伦多在内的17座世界金融枢纽城市，都可见中国国有银行在清算人民币交易；允许离岸人民币通过股市进入中国的限额定在了1460亿美元，沪港通每天的上线为40亿美元；总部在中国的人民币清算系统今年将对外国银行开放，规模与纽约美元清算系统相当。</p>
+<p>看看亚投行精明的草约条款吧。该文件6月在北京人民大会堂由50国签署，包括了北约13个成员，伊朗、以色列和沙特这些形影不离的小伙伴也在其列。不参加的主要国家包括美国、加拿大、日本和墨西哥。实缴资本200亿美元，待缴资本则为此4倍。中国享有26%的投票权，由此就行长任免、大规模募集资本、重大改变、开除成员享有否决权。美国或觉得不太舒服，但中国可以提出自己提供了30%的资本，而且美国做出了在国际货币基金组织和世行享有否决权的先例，中国不过是照猫画虎。亚投行行长金立群在筹备过程中在华盛顿咨询了意见。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/greenback-vs-redback.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/greenback-vs-redback.jpg?w=575" alt="greenback vs redback" height="" data-recalc-dims="1"></a><br><em> 绿钞（美元）VS红钞（人民币），各领域占比之对比</em></p>
+<p>中国支撑起的贸易谈判中，区域全面经济伙伴关系是重头戏，目前正在开展，令人惊叹，该合作覆盖了中印和14个亚洲其他国家，共占世界GDP的30%。谈判预计2016年完成。中国也在同沙特等海湾国家、印度及东盟国家谈判双边贸易协议。习主席的一带一路倡议展望了中国投资与交通联系，最远直达西欧。</p>
+<p>但这一政府主导的基建和外交努力并没有太大实效。人民币地位尚低是最好的证据。乍看之下进展顺利的是人民币的支付手段功能，中国贸易与外国直接投资总量的四分之一据称是由人民币计价。</p>
+<p>但这些数据容易误导，因其包括了陆港贸易，其中半数左右以人民币付款。如刨除这一块，则这一比例直降到10%以下。全球银行电汇系统中以人民币完成的支付仅占1%。天朝的大贸易伙伴中，基本没有用人民币的。澳大利亚这一比例为0.7%，韩国向中国出口的货物中，94%以美元支付，人民币仅占2.9%。</p>
+<p>人民币的货币储备功能更是不值一提。其他亚洲国家的央行纷纷诉苦，购买人民币政府债券太难了；知道中国要加入特别提款权货币篮子也于事无补。在私营领域，作为价值储存工具，人民币难占一席之地。2014年国际债券总额中仅有1.4%为人民币债券。麦当劳和别的一些企业确实发行了人民币债券，但其债务的96% 还是美元、欧元、英镑或日元。</p>
+<p>约有4000亿美元总额的人民币存款流向离岸，主要在亚洲。但就算是在亚洲主要的金融中心香港和新加坡，离岸美元存款的总额都高达人民币的4倍。过去两年间这一比例没什么变化。人民币存款往往是投机性的。离岸银行收到了人民币存款却贷不出去，不得不将之驻留在大陆的银行中。香港银行家认为，对人民币进一步贬值的预期会使得人民币存款持续减少。</p>
+<p>尽管人民币进展缓慢，却还是有些成效。国家再助一臂之力或有裨益。外国企业如用人民币结算，可获优惠或印象加分。韩国三星计划将中国子公司与总部之间的钱款来往用人民币结算。</p>
+<p>中国是世界上最大的大宗商品买家，但石油却用美元计价。沙特阿拉伯卖给中国的油和卖给美国的一样多，或许它可以同意接受一些人民币，尽管该国要靠美国提供战机和导弹。2010年大宗商品繁荣时，国际矿业公司逼迫中国放弃长期合约，转按市场定价。现在风水轮流转，中国可以逼着他们讲价钱。国有银行也是，可以敦促他们做得更多。目前，中国最大的银行工商银行在东南亚业务规模很大，但其中人民币业务比例不高。</p>
+<p>最终离岸人民币会越来越多，尽管不会达到美元的水平。人民币有许多最终贷款人，看看央行与其他外国央行签署的互换协议就知道了。离岸存款接受香港和其他地方法律管理，投资人不需要担心大陆的法律体系。中国或能找到方法，保护其支付系统不受美国的离岸监管法律的影响。用伦敦的人民币存款在中国做生意或将成为现实，虽然并不简单。在大陆购买证券、资产、货物或服务需要冗杂手续，以后也将得到精简。</p>
+<h3><strong>开放社会</strong></h3>
+<p>那为什么不开放中国，而要筑起一道墙呢？说回维稳的问题。完全开放的资本账户可能导致全世界的钱蜂拥而入，造成一定冲击。安全保障目前尚不完备。中国股市自 由交易的部分仅相当于瑞士的股市规模。央行债券市场规模仅比英国的债券市场略大。此外，为了多样化资产组合或把资产放到更安全的地方，中国人会把多少现金 转移出去，没人说得清。过去12个月里，潜在的资本流出达到5000亿美元。</p>
+<p>为让过程更安全，中国要考虑一系列改革，包括大修股市监管；让央行更加独立；出售国企中的政府份额，让更多股票可交易；让国有银行准备好应对存款流失，因为储户在国外有了更多选择；鼓励私人资产管理公司发展，出售打包了国外资产的金融产品。中国必须为全球资本的汹涌进出做好准备，即时调整资产价格。</p>
+<p>中国开放是政治问题，党还没准备好。因可能丢掉权力，或许党永远准备不好。比尔·克林顿詹姆斯·卡维尔（James Carville）的顾问就曾说，他愿意投胎转生变成美国股市，谁见到都怕。但习近平才不愿被中国的股市主导。</p>
+<p>中国正准备成为贸易与直接投资领域的巨人，成为金融、货币领域以及各国资本市场上的中等大国。这等雄心有利于中国，但无法解决全球金融货币系统现存的问题。短期内，中国还无法比肩或取代美国，到底还缺点什么呢？</p>
+<p><strong>原文地址</strong>：<a href="http://www.economist.com/news/special-report/21668719-china-shakes-%20worldbut-not-way-it-hoped-longer-march?zid=306&ah=1b164dbd43b0cb27ba0d4c3b12a5e227" target="_blank">http://www.economist.com/news/special-report/21668719-china-shakes- worldbut-not-way-it-hoped-longer-march?zid=306&ah=1b164dbd43b0cb27ba0d4c3b12a5e227</a></p>
+<hr><p>译读君新注册了小号，以后译论中国栏目中某些“由于众所周知的原因”无法发布的文章会通过小号发布。<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%AF%91%E8%AF%BB.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%AF%91%E8%AF%BB.jpg?resize=250%2C250" alt="译读" data-recalc-dims="1"></a><br><strong><br>
+译读：T-Read</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AF%91%E8%AF%BB%EF%BD%9C%E6%92%BC%E5%8A%A8%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E7%A7%A9%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%BF%98%E7%BC%BA%E7%82%B9%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">金融中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E6%94%BF%E7%AD%96/?category=18271" rel="tag">金融政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%99%BD%E8%8E%B2%E6%95%99%E4%B8%8E%E5%8F%8D%E6%B8%85%E5%A4%8D%E6%98%8E/" target="cdt-mirror">【立此存照】“白莲教”与“反清复明”</a>
+</h2>
+<p><p>【编者注】以下为广电总局对《卧虎藏龙 2 青冥宝剑》审查意见的部分内容。该片计划于2016年上映。</p>
+<p><strong>来源：新浪微博</strong></p>
+<blockquote><p><strong><a href="http://weibo.com/liweiao19">@李微敖</a></strong>：请教一下： 为什么，“白莲教”，也要管？</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E5%B9%BF%E7%94%B5%E7%99%BD%E8%8E%B2%E6%95%99.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E5%B9%BF%E7%94%B5%E7%99%BD%E8%8E%B2%E6%95%99.jpg?w=500" alt="广电白莲教" height="" data-recalc-dims="1"></a></p>
+<blockquote><p>一、有关对“白莲教”对表述，须将其名称替换为其他虚构的武林帮派组织。<br>
+二、有关“反清复明”的内容建议淡化处理。<br>
+三、涉及到的打斗场面，须在拍摄时注意把握血腥暴力尺度。<br>
+四、剧本第38页，俞秀莲的台词“不战而屈人之兵，善之善也”，应更正为“不战而屈人之兵，善之善者也”。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/txkhj" target="_blank">Mr_kkong</a><i title="微博达人"></i>：果然是后清<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/stephonisme" target="_blank">叶凌Stephon</a>：反清复明都不许……真当庆丰朝是大清国啊<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/tbfzy" target="_blank">永恒的风之音</a><i title="微博达人"></i>：<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E7%99%BE%E5%A7%93%E6%97%A0%E4%B8%8D%E6%80%80%E5%BF%B5%E6%88%91%E5%A4%A7%E6%B8%85.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E7%99%BE%E5%A7%93%E6%97%A0%E4%B8%8D%E6%80%80%E5%BF%B5%E6%88%91%E5%A4%A7%E6%B8%85.jpg?resize=440%2C330" alt="百姓无不怀念我大清" data-recalc-dims="1"></a></p>
+<p>@第三新缺德社:“有关‘反清复明’的内容建议淡化处理”，广电真是公公体国，为我大清操碎了心啊</p>
+<p>@乐活Wayne：估计是丑化白莲教（农民起义）了吧？估计《狮王争霸》在现今这尺度也过不了审</p>
+<p>@好吃的煎饼果子：白莲教在历史书上是正面的农民起义形象，你按历史给搞成邪教，就不好了。</p>
+<p>@曾盛敏：改成碧莲教吧</p>
+<p>@麦田里的十字星：白莲？不清楚。但我知道他不要碧莲。</p>
+<p>@八分钟后的黑暗：容易联想到今上的组织？？</p>
+<p>@猛鬼居士：为了防止爱新觉罗的后人勒令制片方道歉。</p>
+<p>@刘金涛在别处:最佳改编剧本奖</p>
+<p>@松江府鸿胪寺达鲁花赤：辫子留下，其他全咔嚓了。</p>
+<p>@我是李寶發：苏维埃社会主义满洲第三自治共和国！</p>
+<p>@Ryu_dragon：我大清自由国情在！百姓无不怀念我大清！</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/01/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E5%B0%8F%E4%BA%BA%E5%90%8D%E5%BA%86%E4%B8%B0.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/01/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E5%B0%8F%E4%BA%BA%E5%90%8D%E5%BA%86%E4%B8%B0.jpg?resize=440%2C417" alt="变态辣椒：小人名庆丰" data-recalc-dims="1"></a><br><em>（“小人名庆丰” by 变态辣椒）</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%99%BD%E8%8E%B2%E6%95%99%E4%B8%8E%E5%8F%8D%E6%B8%85%E5%A4%8D%E6%98%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B8%85%E5%9B%BD/?category=18271" rel="tag">大清国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%9A%E6%B8%85/?category=18271" rel="tag">晚清</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">电影审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%B8%AD%E5%9B%BD%E5%AF%8C%E4%BA%8C%E4%BB%A3%E5%9C%88%E5%AD%90%EF%BC%9A%E5%BC%80%E6%B4%BE%E5%AF%B9%E6%8E%92%E9%81%A3%E6%97%A0%E8%81%8A-%E5%A4%A7%E9%83%A8/" target="cdt-mirror">澎湃新闻 | 中国富二代圈子：开派对排遣无聊 大部分人情感受伤</a>
 </h2>
 <p><p>六月周六凌晨一点半，Mikael Hveem丛北京工人体育场的一家夜店出来叫了优步，他选择了最便宜的车型，却惊奇地发现来了一辆深蓝色玛莎拉蒂。司机是一名带有娃娃脸的年轻中国男子，他说他叫Jason。Hveem问他为什么要开优步，他明显不缺钱，Jason说他这么做是为了认识人，尤其是女孩子，凌晨在北京夜店周围，也许会有女孩为坐在跑车里22岁的他倾心。</p>
@@ -546,110 +628,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%94%BF%E5%95%86%E5%86%85%E5%8F%82-%E8%BF%99%E4%B8%AA%E5%8D%81%E4%B8%80-%E9%9D%92%E5%B2%9B%E5%90%93%E5%91%86%E4%BA%86%E5%85%A8%E5%9B%BD%E7%BD%91%E5%8F%8B/" target="cdt-mirror">政商内参 | 这个“十一” 青岛吓呆了全国网友</a>
-</h2>
-<p><p>这个“十一”，青岛算是臭了！</p>
-<p>昨日，有网友爆料称，在青岛市乐陵路92号的“善德活海鲜烧烤家常菜”吃饭时遇到宰客事件，该网友在微博上称“点菜时就问清楚虾是不是38元一份，老板说是，结账时居然告诉我们38元一只”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%9D%92%E5%B2%9B%E5%AE%B0%E5%AE%A2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%9D%92%E5%B2%9B%E5%AE%B0%E5%AE%A2.jpg" alt="青岛宰客" width="426" height="751"></a></p>
-<p>而后来游客报警后，派出所说，这家饭店，前一天晚上也发生了两起价格纠纷，“建议我们打工商部门电话，后来警官就走了。”</p>
-<p>据被宰游客透露，派出所是这么说的：事情管不了，他们没有执法权，这属于价格纠纷，让我们找物价局，但物价局说他们已经下班了，让我们报警找110解决，后来一直折腾到夜里12点多。第二天物价局称，必须过完节才能解决。结果一人给店家2000元，一人给800元。</p>
-<p>其时，当周围食客劝游客离去，而“我们作势要走时，老板就拿着一根大棍子，威胁我们，并且打电话叫人过来，说我们吃完霸王餐想跑。”那是平时用来支撑遮阳大伞的那种棍子。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%9D%92%E5%B2%9B%E5%AE%B0%E5%AE%A22.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%9D%92%E5%B2%9B%E5%AE%B0%E5%AE%A22.jpg" alt="青岛宰客2" width="404" height="564"></a></p>
-<p>面对这种情况，派出所警察居然推脱不管，踢皮球给物价局，物价局再踢给过节后，不难想象，这事基本上将不了了之。青岛的旅游问题乱象也出现了不止一天两天，青岛的执法机构如此不作为，恐怕不仅仅是“懒政”的问题，其中是否存在关联利益，值得仔细调查。在中央重手治理腐败的当下，说不定能够再抓出一个典型来。</p>
-<p>至于去青岛旅游会遭遇多少黑，网络名人“<strong>作业本</strong>”发布的文章给出了参考答案：</p>
-<p><strong>你乖，去青岛玩要注意下面这些事，听话啊……</strong></p>
-<p><strong>1</strong></p>
-<p>提前订车，晚上不要在火车站搭出租车，乱收费绕道倒是小事，你跟这帮连政府都治理不了的混蛋们掰扯半天既影响你的心情又浪费你的时间。</p>
-<p><strong>2</strong></p>
-<p>导游或者出租车司机给你推荐去沙子口、石老人吃海鲜，千万别去，至少10倍起。</p>
-<p>他们都是一伙的。</p>
-<p><strong>3</strong></p>
-<p>很多沙滩上的椅子是收费的，五分钟十块钱。别随便坐，下海洗澡啥的，得有人看着衣物，丢的人太多了。</p>
-<p><strong>4</strong></p>
-<p>啤酒街可以去逛逛，但不要坐下来吃饭。收费虽然不会10倍起，被宰是免不了的。</p>
-<p><strong>5</strong></p>
-<p>很多人说去市场买海鲜找啤酒屋加工，这不怎么靠谱，除非有当地人带着。</p>
-<p>螃蟹就别买了，大黄鱼也别买，你乖，听话，不用问为什么。</p>
-<p><strong>6</strong></p>
-<p>八大关景区不会六点关门，也不会七点关门，因为没有门，也不收费。</p>
-<p>所以如果有“好心人”告诉你这些，别理他，走自己的路，你手机有GPS。</p>
-<p><strong>7</strong></p>
-<p>只要你搭理了他，他就会推荐你去吃海鲜或者去看电视塔，都不要去。</p>
-<p>你乖，要听话。</p>
-<p><strong>8</strong></p>
-<p>景点有很多照相冲印的，听话，别理他们。一张5块是不存在的，坑你几百都算保护你。</p>
-<p><strong>9</strong></p>
-<p>很多小红帽红马甲们到处喊“市内免费一日游”的，不要去，哪有免费的事。</p>
-<p><strong>10</strong></p>
-<p>出了机场不太好找出租车点，别慌，在地下。马上回航站楼，不要上黑车。</p>
-<p><strong>11</strong></p>
-<p>出租车拉你绕个圈多跑十块八块的别跟他们生气，当喂狗了。投诉也没用。</p>
-<p><strong>12</strong></p>
-<p>崂山有很多黑导游，经常冒充景区工作人员以低价票带你进山，你乖，别上当，买假票是要被罚款的。</p>
-<p>没事别再崂山里面吃什么崂山蘑菇炖山鸡、野味啥的，你以为你是马云？</p>
-<p><strong>13</strong></p>
-<p>千万别以为记住了一些宰客店就万事大吉啊，他们过几个月就会重新装修换名字了。</p>
-<p>饭店和出租车司机、导游高联合高价宰外地游客，这在全国都是生意。</p>
-<p><strong>14</strong></p>
-<p>还有些大排档或路摊，将10个鲍鱼穿成一串，你问价格，他就说15元，等你结账时就是150。</p>
-<p>150也不贵，你以为你吃的是鲍鱼，大部分是假的。</p>
-<p><strong>15</strong></p>
-<p>在台东、李村、汽车站火车站，很多打着残疾人助力车的旗号，在马路上非法营运，看人下单，漫天要价，你乖，千万别坐。</p>
-<p><strong>16</strong></p>
-<p>大部分青岛人是善良的，问个路啥的都没问题。</p>
-<p>但一出事，也不能都说是外地人干的，这个不能自己欺骗自己。</p>
-<p><strong>17</strong></p>
-<p>你乖，要听话，把上面记住了，别问为什么。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%9D%92%E5%B2%9B%E5%AE%B0%E5%AE%A23.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%9D%92%E5%B2%9B%E5%AE%B0%E5%AE%A23.jpg" alt="青岛本是很美的城市，但也许从此会让全国游客远离。" width="600" height="336"></a><p>青岛本是很美的城市，但也许从此会让全国游客远离。</p></div>
-<p><strong>有不少网友表示赞同该文的信息，因为自己的确在青岛被宰过：</strong></p>
-<p>我已经长大了我正在变老：身为大山东人实在不想黑自己同乡，但是确实白天打车20的路程晚上变成了200。</p>
-<p>许小小瓶：上次就是在路边摊吃鲍鱼，说是15，结账的时候150，大晚上的，两个女生，也就没闹腾了。反正吃海鲜的时候真的要注意，坑。</p>
-<p>饼饼bling-：不好意思今年七月刚去你们青岛旅完游，表示被你们本地司机坑完了呵呵</p>
-<p>flower-zbh：今年暑假去青岛玩。我们几个打车想去八大关那个司机非要拉我们去看什么空中索道，我们坚持不看。。后来车子在半路上说开不了了，也不知道真的假的。还有去那个海底世界，简直了。。总之去过一次青岛觉得我们作为外地游客被当地的各种耍。。</p>
-<p><strong>也有幸运的游客：</strong></p>
-<p>爱玛玛：去过青岛很多次，自己去玩。跟团玩。出差。都没遇到过这些情况。我觉得青岛挺好的。有山有水，气候适宜。海鲜也不贵。大排档吃过。高级酒店吃过，自己买海鲜加工也做过，都挺好的。</p>
-<p>更有许多青岛本地人为家乡喊冤，说那不过是个别现象，并指出宰客现象全国、全世界都有，有什么稀奇~~ 无论如何，青岛的美，是大打折扣了。</p>
-<p>内容综合转载自：北京青年报、新浪微博、凤凰新闻</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%94%BF%E5%95%86%E5%86%85%E5%8F%82-%E8%BF%99%E4%B8%AA%E5%8D%81%E4%B8%80-%E9%9D%92%E5%B2%9B%E5%90%93%E5%91%86%E4%BA%86%E5%85%A8%E5%9B%BD%E7%BD%91%E5%8F%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%BA%9A%E5%AE%B0%E5%AE%A2/?category=18271" rel="tag">三亚宰客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%80%E9%BB%84%E9%87%91%E5%91%A8/?category=18271" rel="tag">十一黄金周</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B0%E5%AE%A2/?category=18271" rel="tag">宰客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%B2%9B%E5%AE%B0%E5%AE%A2/?category=18271" rel="tag">青岛宰客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E9%87%91%E5%91%A8/?category=18271" rel="tag">黄金周</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%8C%97%E4%BA%AC%E5%AE%9E%E7%8E%B0%E7%9B%91%E6%8E%A7%E6%91%84%E5%83%8F%E5%A4%B4%E7%99%BE%E5%88%86%E7%99%BE%E5%85%A8%E8%A6%86%E7%9B%96/" target="cdt-mirror">自由亚洲 | 北京实现监控摄像头百分百全覆盖</a>
-</h2>
-<p><p>中国媒体报道说，今年国庆假期期间，北京市首次实现了监控摄像头对全市百分之百的全覆盖。有评论人士认为，由于中国大陆缺乏保护公民隐私的法律规定，使得如何保障公民的基本人权成为问题。北京当局的全覆盖监控系统主要针对的恐怕是访民和维权人士。</p>
-<p>街头监控摄像头密布全市，已经成为中国大陆城市的一大特色景观。北京《晨报》10月4号报道，今年国庆期间，北京2012年启动的天网工程首次达到百分之百全覆盖，公安局动用了四千三百多人对监控镜头进行跟踪。报道引述北京警方的消息说，今年以来依靠“天网工程”，北京市警方破获案件1500宗，拘捕2370名疑犯，比去年增加5%，同时北京市街头刑事和治安案件比去年下降了27.7%。</p>
-<p>香港《明报》的相关报道说，今年北京市全面启动19个县区级和362个派出所录影平台，街面监控摄像头比去年增加29%，监控摄像头数量最少三十万个。</p>
-<p>中国网络作者刘先生表示，实际上北京市官方设置的监控摄像头已经超过四十万，</p>
-<p>“三十万是奥运会的数字，现在大概超过四十万了，80%分布在市中心区域。再加上小区、物业、商场等等，数字可能比这个还要多三倍。”</p>
-<p>面积一万六千平方公里的北京市，市中心六区面积约670平方公里。按照刘先生提供的数据，北京市中心区域每平方公里约有四百多个摄像头，平均每万名居民有五十个。</p>
-<p>英国著名涂鸦艺术家班克西曾有一个著名作品，一个监控摄像头紧紧盯着一堵高墙，标题是“一个全面监控的国家”。英国上世纪著名作家奥维尔在他风行全球的小说《1984》中，曾经描述过一个人民随时被“老大哥”监视的场景。“老大哥在看着你”成为集权专制国家的一个特征符号。</p>
-<p>旅居美国的北京居民、专栏作家章天亮博士认为，目前北京市的情况，远远超过了奥维尔当年的想象力，</p>
-<p>“当时老大哥还没有这么先进的技术，只能在办公室和家里看，现在只要一上街就看到，我想很多人都会感到很不自在的。”</p>
-<p>章天亮博士认为，中国当局安排密度如此之大的监控摄像系统，主要目的应该是监控北京的访民和异议人士等所谓“不稳定因素”，</p>
-<p>“中共的目的不是真的为了破案，当然也会发现一些问题，但主要的问题还是为了监视异议人士和象维权律师这样的人。”</p>
-<p>中国公安部2004年启动“天网工程”，在全中国主要城市和交通枢纽安装大量监控摄像头，该工程于2012年全面开动。中国安保网的数据显示，从2004年开始，主要为公安部门提供监控摄像头安装管理的行业出现巨额增长，从2004年的约两百亿元人民币，增加到2014年的三千亿元人民币。</p>
-<p>中国一位法律工作者黄先生也认为，目前中国各地大量安装监控摄像头，目标是针对当局的维稳目标，而不是为了一般刑事案件，</p>
-<p>“中共说起来肯定是说为了破案率，但实际上这里面有些问题，就是侵犯人权，比如对异议人士的监控，比如对那些他们认为不放心的人需要监控。”</p>
-<p>中国媒体的报道说，北京市并不是中国大陆监控摄像头最密集的城市，上海的摄像头数量排名中国第一，一些中小城市的密度可能更大。过去几年，中国发生不少监控摄像头拍摄的录像在网络曝光的事件，而事主却无法追究个人隐私被任意公开的责任。</p>
-<p>中国的刘先生认为，目前中国有关监控录像头的安装、内容保存、保密和使用等方面，都仍然没有明确的法律规定，存在很多问题，</p>
-<p>“这种全面监视，是一个双刃剑，一方面肯定可以提高破案率，但另一方面，则涉及到如何保证个人隐私的问题。尤其在中国现在这种法律环境下，肯定会带来更多的问题。”</p>
-<p>在一些发达国家，比如英国和美国等，部分大城市也存在大量监控摄像头。三位接受本台记者采访的人都认为，大量摄像头的存在必定带来如何保障个人隐私等法律问题，但在中国大陆这样法制不健全，以及民众对司法体系不信任的国家，其对公民权利保障的负面影响也会大得多。</p>
-<p>记者:石山 责编：嘉华</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%8C%97%E4%BA%AC%E5%AE%9E%E7%8E%B0%E7%9B%91%E6%8E%A7%E6%91%84%E5%83%8F%E5%A4%B4%E7%99%BE%E5%88%86%E7%99%BE%E5%85%A8%E8%A6%86%E7%9B%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E4%BF%9D%E9%9A%9C/?category=18271" rel="tag">人权保障</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">全面监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E9%9A%90%E7%A7%81/?category=18271" rel="tag">公民隐私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E7%BD%91/?category=18271" rel="tag">天网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -661,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -671,5 +649,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

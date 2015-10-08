@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E4%BB%AC%E5%95%8A%EF%BC%8C%E6%88%91%E6%84%9F%E8%A7%89%E4%BD%A0%E4%BB%AC%E5%A4%A7%E5%AD%A6%E9%87%8C%E4%B8%8D%E8%A6%81%E6%8A%8A%E8%B0%88/" target="cdt-mirror">【网络民议】你们啊，我感觉你们不要把谈恋爱时间拿来写文章</a>
+</h2>
+<p><p><strong><a href="http://news.qq.com/a/20151008/053506.htm">澎湃新闻｜武汉一大学生两月发34篇文章 求是网4天采用3篇</a></strong></p>
+<blockquote><p>据长江日报消息，两个月内在《求是》等中央和地方政治经济类网站上发表理论文章34篇，《求是网》7篇、《共识网》4篇、《乌有之乡网刊》23篇，单9月就有2篇文章登上求是网头条，这些文章出自一个90后大三学生之手，让不少同学佩服。</p>
+<p>文章作者叫陈正用，是武汉学院法律系1303班学生，担任班长、学生会副主席。陈正用接触政治经济类论文写作是在半年前，一开始只是学习和练笔，正式投稿是今年8月，一发不可收拾，基本上每天都会写上一篇，多是对社会政治经济热点的分析和评论，当然也有被退稿的时候，但这并不影响陈正用坚持写作，他说：“保持对国家政治经济的持续关注才是写作的意义。”</p>
+<p>每天一篇文章，势必会耗费不少时间，但陈正用说时间都是挤出来的，他写文章用的都是课外时间。他说：“别人打游戏、谈恋爱的时间，我都可以写作。”功夫不负有心人，陈正用的上稿率越来越高，《求是网》4天内采用了他3篇文章，其中《中国再次用真诚感动世界——有感于习近平主席在联合国发展峰会上的讲话》和另一篇登上了求是网评头条。</p></blockquote>
+<p><strong>陈同学在乌有之乡所发文章列表截图：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%8C%E6%9C%89%E4%B9%8B%E4%B9%A1.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%8C%E6%9C%89%E4%B9%8B%E4%B9%A1.png?w=500" alt="乌有之乡" height="" data-recalc-dims="1"></a></p>
+<p><strong>求是网部分文章标题：</strong></p>
+<p>《强国必先科教兴——有感于中国药学家屠呦呦获诺贝尔生理学或医学奖》</p>
+<p>《中国再次用真诚感动世界——有感于习近平主席在联合国发展峰会上的讲话》</p>
+<p>《祖国，你让我们感受到前所未有的自豪》</p>
+<p>《铸就人类命运共同体　实现和平发展世界梦——学习习近平主席在第70届联合国大会一般性辩论上的重要讲话》</p>
+<p><strong>其实陈同学也是凡人：</strong><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E9%99%88%E6%AD%A3%E7%94%A8.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E9%99%88%E6%AD%A3%E7%94%A8.png?w=550" alt="陈正用" height="" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@中华牌蜗牛：周小平带鱼养殖业初见成效。</p>
+<p>@买疙瘩123：还是去谈个恋爱吧……</p>
+<p><a href="http://weibo.com/1696346970" target="_blank">苏李欢</a><i title="微博达人"></i>：<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">原来读大学还有比谈恋爱打游戏更浪费生命的事啊</p>
+<p><a href="http://weibo.com/ccom" target="_blank">共识网</a><i title="微博机构认证"></i><i></i>：童鞋啊，我作为一个长者有必要传授你一些人生经验，那就是不要把谈恋爱时间拿来写文章，多谈恋爱才是坠好滴啦~~<img title="[挤眼]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c3/zy_org.gif" alt="[挤眼]" data-recalc-dims="1"><img title="[害羞]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif" alt="[害羞]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/eeere" target="_blank">暂时胆小</a>：<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">不要误人子弟，只要变成了带鱼，会有数不尽的各种雌性生物找上门的。再说了，玩物丧志啊，从赵高到魏忠贤，为了天下苍生，累赘的东西早都切了。</p>
+<p><a href="http://weibo.com/1058350633" target="_blank">光辉无限2008</a>：新一代带鱼候呼之欲出。。。<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/haipingchen" target="_blank">shifu</a>：有意思的是，在高校团组织、学生会的思想和计划中，毛左“乌有之乡”现在居然跟“求是”并列在一起了。而且，这位学生会副主席、班长还是法律系的。高校思想战线的成果，真叫人欣慰啊。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p>@addfire_Ho：这么年轻就为将来打算了，他，已经做好跪舔党菊的准备了。</p>
+<p>@小李：这种人在学法律，好吓人</p>
+<p>@我最爱兰花：他学法律就是个笑话，以后步入社会就属于那种政治正确的废物。</p>
+<p>@做一枚小律师：半年的时间，他有没有把政治经济学的经典著作看过一遍啊？</p>
+<p>@贾曚娜丽莎士比亚里士多德：在这种地方发文章不是蠢就是坏，后者的可能性大些。</p>
+<p>@流牛木马：乌有之乡，是要参加脑残职称评比吗？</p>
+<p><a href="http://weibo.com/2794968431" target="_blank">依然思悠悠</a>：太牛了。。。<img title="[good]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]" data-recalc-dims="1">多产啊，俩月34篇，，才大三就这么厉害。让我想起学院里评职称的事情，有的老师都会拉一小皮箱的论文、书籍。。。。</p>
+<p>@何葆国：求是网、乌有之乡？五毛文章这么容易拼凑吗</p>
+<p>@赵小波：一篇五毛，赚稿费不容易，不多写一点哪有钱买笔买纸？</p>
+<p>@隔壁老王小号：海心沟命</p>
+<p>@扫地小僧V：中国教育的奇葩成果，视恋爱，打游戏为洪水猛兽，深陷悲剧，却不自知，那个狗屁文章，看了标题就反胃。孩子呀，醒醒吧，你这种人，将来进入市场，混不明白的。当然，你要是铁了心为党国效力，就权当我没说。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E4%BB%AC%E5%95%8A%EF%BC%8C%E6%88%91%E6%84%9F%E8%A7%89%E4%BD%A0%E4%BB%AC%E5%A4%A7%E5%AD%A6%E9%87%8C%E4%B8%8D%E8%A6%81%E6%8A%8A%E8%B0%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E6%9C%89%E4%B9%8B%E4%B9%A1/?category=18271" rel="tag">乌有之乡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E6%98%AF%E6%9D%82%E5%BF%97/?category=18271" rel="tag">求是杂志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98/?category=18271" rel="tag">网络评论员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E7%BD%91%E5%AE%A3%E9%98%9F%E4%BC%8D/?category=18271" rel="tag">高校网宣队伍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%90%B4%E5%BC%BA%EF%BC%9A%E6%95%99%E5%85%BB%E3%80%81%E9%98%B6%E7%BA%A7%E5%92%8C%E8%87%AA%E6%88%91%E8%A7%84%E8%AE%AD/" target="cdt-mirror">吴强：教养、阶级和自我规训</a>
 </h2>
 <p><p>每次长假，似乎都是国人素质的大曝光。小孩街头拉屎现象已经从香港移到了伦敦，而老人碰瓷、年轻人随意殴打店员也在450万占领日本的大军中蔚为可观，至于大声喧哗、随地吐痰、乱扔垃圾之类寻常恶习早已成为中国人的标签了。这很容易让人痛心“礼仪之邦不复”。关于美德价值观等教育口号各处张榜，俨然“新生活运动”再现。然并卵。还是回到问题本身，谈谈素质背后的教养问题。</p>
@@ -598,29 +639,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%86%89%E4%BA%91%E9%A3%9E-%E7%94%B1%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%B9%8B%E9%97%AE%E4%B9%8B%E4%BC%AA%E8%B0%88%E5%B1%A0%E8%8E%B7%E8%AF%BA%E5%A5%96%E4%BD%95%E4%BB%A5%E6%98%AF%E6%9E%81%E5%B0%8F/" target="cdt-mirror">冉云飞 | 由钱学森之问之伪谈屠获诺奖何以是极小概率事件</a>
-</h2>
-<p><p>首先恭喜屠呦呦女史获诺贝尔医学奖，这当然是中国人对人类医学贡献得到的一点世界性肯定。我不准备对这奖项引起的诸多争议进行全面的议述，有人或许会由此大赞集中一切力量办大事的体制（66年才得此一项科学奖，这集中一切力量办大事的体制，与英美的体制相比何如呢？），甚至像赞美“用毛泽东思想治疗精神病”一样，歌颂毛时代启动了屠呦呦等人集体攻关——此攻关不是毛关心自己人民的身体健康，而是受越南之请为解决越南军中疟疾问题——提取青蒿素而攻克疟疾问题。请恕我没有时间与这种不尊重事实，经不起逻辑推敲的打鸡血行为争论。</p>
-<p>05年温家宝去看望钱学森时，钱说道：“这么多年培养的学生，还没有哪一个的学术成就，能够跟民国时期培养的大师相比”。“为什么我们的学校总是培养不出杰出的人才？”老实说，这样的问题可谓明知故问，揣着明白装糊涂，看看钱学森在大跃进时支持亩产上万斤，反右时痛斥右派反社会主义言论，你就知道这个所谓的著名的“钱学森之问”，完全是个伪问题。一个不自由的制度下的学校教育，怎能培养出人才？</p>
-<p>四九年后文理割裂，只有科学工具，科学机器却没有科学精神，这正是当权者所希望看到，于是科学家来论证亩产万斤，来论证大炼钢铁，来论证在饿死很多人的大饥荒时期“粮食吃不完怎么办”这样的伪问题，这便他们的“科学精神”，这便是他们所受的教育对基本常识的摧毁，对基本底线的践踏。钱学森在这方面有“特别贡献”。所以钱学森能在众多人殒命，非正常死亡的国家成为官方不倒翁的招牌，不是没有因由的。用良知作交易，换取官方的称赏和配给的利益，除了高压之情非得已以外，也难以摆脱主动配合的质疑。这便是四九年后的许多科学家的“科学精神”，钱学森只不过在这场进良心交易的“比学赶帮超”中位居前列的“模范”罢了。</p>
-<p>下面这篇“宏论”选自1957年9月中国人民大学编辑印行的《社会主义思想教育资料选辑》（第二辑上册）第300至301页。他这段讲话，缺乏基本的逻辑，难怪他的“科学精神”是没有人文内涵的“科学工具”。有组织有领导，组织和领导受不受监督，难道是一样的么？一个组织一个政党独大，没有任何可制约它的制度设计，难道这样的组织与领导不应该受彻底的质疑与批评吗？自由和民主与组织、领导之间有必然的关联吗？没有组织没有领导就没有自由吗？连基本的政治学常识都不懂或者不讲，可谓谎谬之至。</p>
-<p>美国的黑人与犹太人乃至少数裔是有受歧视的一面，他们从不隐讳，而且在逐步改进中。而中国官方明目张胆地歧视，将民众分成地富反坏右，将民众按对官方的忠诚程度分为三六九等，视农民为二等公民，官员与民众之完全不平等之歧视，做得之露骨做得之无耻，难道钱学森真的不明白吗？而且许多歧视到现在依旧没有改变，在生活的各个方面进行大张旗鼓的歧视，例如不许民众合租房子等等，指不胜屈。</p>
-<p>至于广告有商品买卖中以至经济生活中的作用，钱学森的认识可谓连一点小儿的常识都不具备，或者是迎合官方的“圣意”而有意装聋作哑。广告费是商家自己的支出，最终由消费者买单，满足消费者的产品需求和物质欲望，最大限度地保证他们民众对琳琅满目的商品的选择权利，使商品在良性竞争保持质量与价格维持在一个民众可以接受的层面上，商家在这种过程中就“为人民服务”了。至于官方要“为人服服务”则是把纳税人的钱用在刀刃上，用在该用的地方，让他们不去花更多的冤枉钱，比如在教育、医疗、住房等方面不去重复地花不应该花的钱。中国官方在那个时候是把广告费给省了，但在为谁服务呢？老百姓吃不饱饭，饿死几千万，这就是他们的“为人民服务”吗？</p>
-<p><strong>钱学森痛斥右派反社会主义言论：</strong></p>
-<p>不要领导和组织的民主自由是没有的</p>
-<p>著名科学家钱学森在今天（6月21日——编者）的一次科学工作者的集会上，痛斥右派分子反党反社会主义的荒谬言论。</p>
-<p>钱学森首先从应该怎样理解民主和自由的问题谈起。他说：右派分子好象是在替人民要求民主和自由。但是他们所要求的民主和自由，是一种不要领导和组织的民主和自由。这种民主自由是没有的。随着人类社会的进步，社会的组织工作就越来越复杂、繁重。有社会的组织工作，就要有领导。目前的问题是：要资本主义的领导呢？还是社会主义的领导？有人说，资本主义也不坏呀。我们在座的人都经历过一些解放前的生活，谁还想要那种生活呢？也许有人说，我们中国过去不好，最发达的资本主义国家——美国的生活可能好些吧？我在美国的社会里钻了二十年，我要说，美国的“物质文明”是先进一些，但是，美国的黑人、犹太人却要受压迫和歧视，中国在那里也受歧视。美国每年用在商业广告等非生产方面和军事方面的费用有几百亿美元。假设美国没有资本主义，而是社会主义制度，这些钱就可以拿来为人民服务，人民生活也就会好。所谓美国生活的优越只是在表面上，事实上要不得的东西太多。它有一个很大很好的科学技术基础，但并没有给人民带来多大好处。到底应该选择资本主义的领导，还是社会主义的领导呢？当然，只能选择社会主义的领导。</p>
-<p>钱学森说，过去，共产党的领导工作中是存在过一些缺点和错误，共产党提出整风也正是因为要克服自己的缺点错误。但是，究竟是成绩多，还是缺点错误多？当然，大多数人都看得很清楚，成就是最主要的。比如肃反问题，虽然在工作上有某些缺点错误，但不肃反行不行？如果不肃清反革命分子，我想我们今天恐怕就不能在这里坐得这样安稳。</p>
-<p>钱学森最后强调说，党的领导工作中的缺点错误是有的，但马克思主义的正确性不容动摇。我们知识分子要诚恳地帮助党。我们要贡献出我们的知识，在党的领导下，把中国的社会主义建设好，站在这个坚定的立场上，我们可以尽量地讲出自己的意见，党是会接受我们的诚恳帮助的。</p>
-<p><strong>（选自1957年6月22日“光明日报”）</strong></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%86%89%E4%BA%91%E9%A3%9E-%E7%94%B1%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%B9%8B%E9%97%AE%E4%B9%8B%E4%BC%AA%E8%B0%88%E5%B1%A0%E8%8E%B7%E8%AF%BA%E5%A5%96%E4%BD%95%E4%BB%A5%E6%98%AF%E6%9E%81%E5%B0%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%B9%8B%E9%97%AE/?category=18271" rel="tag">钱学森之问</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -632,7 +650,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -642,5 +660,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

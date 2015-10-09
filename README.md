@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%83%A1%E4%BD%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%B2%A1%E6%9C%89%E6%B3%A2%E5%B3%B0%EF%BC%8C%E5%8F%AA%E6%9C%89%E6%B3%A2%E8%B0%B7/" target="cdt-mirror">德国之声｜胡佳：中国人权“没有波峰，只有波谷”</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/015740059_30300.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/015740059_30300.jpg?resize=575%2C324" alt="仍在狱中的刘晓波缺席2010年诺贝尔和平奖颁奖仪式" data-recalc-dims="1"></a><p>仍在狱中的刘晓波缺席2010年诺贝尔和平奖颁奖仪式</p></div>
+<p>（德国之声中文网）周五，本年度诺贝尔和平奖得主在挪威公布；而此前一天，则是中国异见人士刘晓波获得诺贝尔奖五周年纪念日。在他获奖时，已经在狱中服刑将近一年。北京政府指控他“煽动颠覆国家政权”，而外界普遍认为刘晓波是因为批评政府而因言获罪。</p>
+<p><strong>胡佳：刘晓波健康无大碍</strong></p>
+<p>胡佳在接受德国之声采访时表示，目前刘晓波的健康基本正常，他妻子刘霞对他的探望也基本能够得到保障。而且，因为他毕竟是一位诺贝尔奖获得者，所以狱警也不希望他在羁押期间出现任何闪失。刘晓波会得到定时体检，健康没有大碍。</p>
+<p>关于记者提出的“刘晓波有无可能提前以减刑、假释，或者保外就医的方式出狱”的问题，胡佳说，中国的法律规定，只有犯人认罪，才可以得 到“减刑”或者“假释”，所以刘晓波没有可能以这两种方式提前出狱。至于“保外就医”，胡佳认为，这是一种常见的“政治性交易或要挟”，中共当局对刘霞的 弟弟刘辉就采取了这种方式，以警示刘霞不要和别的人权人士，或者外交官、记者接触。</p>
+<p>刘晓波在狱中已经有将近六年时间，其间国际社会多次呼吁中国政府提前释放刘晓波。在今年的诺贝尔和平奖颁奖之际，再次有人提出类似呼吁。胡佳对此的看法是：国际上释放刘晓波的呼吁，带给中国政府的压力还不够，尽管曾经有多达134名诺奖获得者签署联名信这种方式。</p>
+<p>胡佳非常清楚地表示，自己不愿意看到刘晓波必须服完全部11年刑期。但是如果要达到使刘晓波提前释放的目标，还需要国内的压力。因为随着时间的推移，大家 已经对“刘晓波在狱中”这个状态习以为常。而且这个压力必须是同时的，好像“共振”一样，并且要坚持，才能使中共释放刘晓波。因为中共在乎的是国内的压 力，而非国际的压力。</p>
+<p><b>习近平维稳超“江胡”</b></p>
+<p>胡佳在谈到中国目前人权状况时表示，局势严峻，看不到可以让人乐观的因素：“习近平维稳，下手的果断和手段，都超过江泽民、胡锦涛，尤其是胡锦涛。原以为 政法委体制在周永康时代已经登峰造极，但是习上任的第一年，就设立了国家安全委员会，而且自己担任负责人，是真正的‘政治沙皇’。他维稳的力度和效率都超 过同时代的人，而且继承了毛、邓‘不惜代价，肯下重手’的特点”。</p>
+<p>胡佳提到，当年和自己一起要求过“财产公示”的人，都被羁押过。参考香港的“雨伞运动”，胡佳认为中国的人权状况是一个动态的过程，但是概括来说，“没有波峰，只有波谷，甚至还没有看到波谷，因为现在还不敢说已经是最差的情况了。”</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%83%A1%E4%BD%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%B2%A1%E6%9C%89%E6%B3%A2%E5%B3%B0%EF%BC%8C%E5%8F%AA%E6%9C%89%E6%B3%A2%E8%B0%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E6%B8%AF%E5%A4%A7%E9%9B%86%E4%BC%9A%EF%BC%9A%E5%9D%9A%E5%AE%88%E6%A0%A1%E5%9B%AD%E8%87%AA%E4%B8%BB-%E4%B8%8D%E5%AE%B9%E9%BB%91%E6%89%8B%E4%BB%8B%E5%85%A5/" target="cdt-mirror">【组图】港大集会：坚守校园自主 不容黑手介入</a>
+</h2>
+<p><p>以下图片由中国数字时代编辑搜集自Twitter、新浪微博、和Facebook：</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E6%B8%AF%E5%A4%A7%E4%BB%8A%E6%99%9A%E8%88%89%E8%A1%8C%E9%9B%86%E6%9C%83%E4%B8%8D%E5%AE%B9%E9%BB%91%E6%89%8B-%E9%80%BE90%E5%AD%B8/">南华早报｜港大今晚舉行集會“不容黑手” 逾90學者組學術自由聯盟</a></p></blockquote>
+<p>‏Twitter用户<strong>@krislc：</strong><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm1UkAEjB8K.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm1UkAEjB8K.jpg?w=575" alt="CQ3sIm1UkAEjB8K" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sImnVAAAW3P9.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sImnVAAAW3P9.jpg?w=575" alt="CQ3sImnVAAAW3P9" height="" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm2UYAAH6Kj.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm2UYAAH6Kj.jpg?w=575" alt="CQ3sIm2UYAAH6Kj" height="" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm4VEAAzbsI.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm4VEAAzbsI.jpg?w=575" alt="CQ3sIm4VEAAzbsI" height="" data-recalc-dims="1"></a></p>
+<p>Twitter用户<strong>@sormeow:</strong> More than 1500 participating in the event. #HKU<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3fPPMVEAEpjyV.jpg_large.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3fPPMVEAEpjyV.jpg_large.jpg?w=550" alt="CQ3fPPMVEAEpjyV.jpg_large" height="" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3goVOVAAAp7lQ.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3goVOVAAAp7lQ.jpg_large.jpg?w=550" alt="CQ3goVOVAAAp7lQ.jpg_large" height="" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3lKGvUcAAj1O9.jpg_large.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3lKGvUcAAj1O9.jpg_large.jpg?w=500" alt="CQ3lKGvUcAAj1O9.jpg_large" height="" data-recalc-dims="1"></a><br>
+@sormeow: 劉進圖發言 香港大學校委會的三重責任 #HKU</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3h_rhUEAA1Bvh.jpg_large.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3h_rhUEAA1Bvh.jpg_large.jpg?resize=625%2C215" alt="CQ3h_rhUEAA1Bvh.jpg_large" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3mcTwUsAAmh_2.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3mcTwUsAAmh_2.jpg_large.jpg?resize=625%2C187" alt="CQ3mcTwUsAAmh_2.jpg_large" data-recalc-dims="1"></a><br>
+‏</p>
+<p>Twitter用户<strong>@phila_siu</strong>：</p>
+<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3jN6TU8AAvGPd.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3jN6TU8AAvGPd.jpg_large.jpg?w=500" alt="CQ3jN6TU8AAvGPd.jpg_large" height="" data-recalc-dims="1"></a><br>
+@phila_siu: #HKU students and alumni campaign started “Don’t mess with us”</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3kMsvUsAAV_Mo.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3kMsvUsAAV_Mo.jpg_large.jpg?w=575" alt="CQ3kMsvUsAAV_Mo.jpg_large" height="" data-recalc-dims="1"></a></p>
+<p>‏Twitter用户<strong>@jeffielam:</strong><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uoevUwAADvu0.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uoevUwAADvu0.jpg?w=575" alt="CQ3uoevUwAADvu0" height="" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uoevVAAAP7sF.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uoevVAAAP7sF.jpg?w=575" alt="CQ3uoevVAAAP7sF" height="" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3xfcWUYAAm6sr.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3xfcWUYAAm6sr.jpg_large.jpg?w=575" alt="CQ3xfcWUYAAm6sr.jpg_large" height="" data-recalc-dims="1"></a><br>
+@jeffielam:#HKU head of humanities Professor Tim O’leary: convocation should stage a vote of no-confidence on council</p></blockquote>
+<p>Twitter用户<strong>@ManKeshishyan：</strong><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uNNDU8AQYh4X.jpg_large.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uNNDU8AQYh4X.jpg_large.jpg?w=575" alt="CQ3uNNDU8AQYh4X.jpg_large" height="" data-recalc-dims="1"></a></p>
+<p>新浪微博<strong><a href="http://weibo.com/u/1220546491">@杨恒均</a>：</strong><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv317274sj20sg0sgdmj.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv317274sj20sg0sgdmj.jpg?resize=525%2C550" alt="48c00fbbgw1ewv317274sj20sg0sgdmj" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv30ho4qfj20sg0sggsh.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv30ho4qfj20sg0sggsh.jpg?resize=525%2C1024" alt="48c00fbbgw1ewv30ho4qfj20sg0sggsh" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv30u79p5j20sg0sgth5.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv30u79p5j20sg0sgth5.jpg?resize=525%2C1024" alt="48c00fbbgw1ewv30u79p5j20sg0sgth5" data-recalc-dims="1"></a></p>
+<p><strong>Facebook页面 “堅守港大百年基業 HKU Last Line of Defence”：</strong><br>
+本次活动中、英语海报：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/12087117_1714780618756761_6048506661888748674_o.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/12087117_1714780618756761_6048506661888748674_o.jpg?w=400" alt="12087117_1714780618756761_6048506661888748674_o" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/12087932_1714780622090094_8953025739550344714_o.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/12087932_1714780622090094_8953025739550344714_o.jpg?w=400" alt="12087932_1714780622090094_8953025739550344714_o" height="" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E6%B8%AF%E5%A4%A7%E9%9B%86%E4%BC%9A%EF%BC%9A%E5%9D%9A%E5%AE%88%E6%A0%A1%E5%9B%AD%E8%87%AA%E4%B8%BB-%E4%B8%8D%E5%AE%B9%E9%BB%91%E6%89%8B%E4%BB%8B%E5%85%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">香港大学</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%85%B1%E5%BC%80%E6%98%8E%E6%B4%BE%E6%94%B9%E9%9D%A9%E5%85%88%E9%94%8B%E6%9D%9C%E6%B6%A6%E7%94%9F%E7%97%85%E9%80%9D/" target="cdt-mirror">美国之音 | 中共开明派改革先锋杜润生病逝</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/U10361P31DT20151009080135.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/U10361P31DT20151009080135.jpg?resize=350%2C501" alt="杜润生" data-recalc-dims="1"></a><p>杜润生</p></div>
@@ -562,99 +611,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B1%A0%E5%91%A6%E5%91%A6%E8%8E%B7%E5%BE%97%E8%AF%BA%E5%A5%96%E4%B8%BA%E4%BD%95%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E4%B8%BA%E4%B8%AD%E5%8C%BB%E8%8D%AF/" target="cdt-mirror">唐映红 | 屠呦呦获得诺奖为何有那么多人为中医药而喝彩兴奋？</a>
-</h2>
-<p><p><strong>问：屠呦呦获得诺贝尔科学奖为何有那么多人为中医药而喝彩兴奋？</strong></p>
-<p>答：中国中医科学院的首席科学家屠呦呦荣膺2015年度诺贝尔生理学与医学奖项，为中国内地教育培养出来来的第一位诺贝尔科学奖得主（屠呦呦生于1930年，在国民政府时期接受完整小学与中学教育，大陆沦陷后于1951年考取北京医学院生药专业，1955年毕业）。可喜可贺。作为诺贝尔科学奖的得主，<strong>屠呦呦是诺委会表彰其在现代医药学上做出的杰出贡献</strong>（率先提取治疗疟疾的新药青蒿素以及合成更高效的双氢青蒿素），<strong>同时也表明中国内地医药学界个别研究领域已经取得举世瞩目的成就。</strong></p>
-<p>但是，屠呦呦获奖后国内许多人却认为该奖项是对中国传统中医药的承认而兴奋雀跃，包括屠呦呦本人也声称青蒿素的发现是“<em>中医中药走向世界的荣誉</em>”。看起来，似乎传统中医药是现代医药学的一部分并因此而获得诺贝尔奖的首肯。这与诺委会的表态截然相反，诺委会官员汉斯（Hans Forssberg）在回答中国记者的提问时，曾直言不讳的谈到“<em>非常重要的是，我们不是把本届诺奖颁给了传统医学。我们是把奖颁项颁给被传统医学启发而创造出医药的研究者，今天我们能够将这种新药推广到全世界。这是本届奖项的意义。因此，你可以说受到了传统医学的‘启发’，但这个奖项并不是给传统医学的</em>。”</p>
-<p>那么，为什么国内许多人，甚至包括屠呦呦本人都会将诺贝尔科学奖的荣誉给予传统中医药呢？</p>
-<p>从心理学角度，人们之所以会有这样的认知偏差，与如下几个因素有着直接的关系。</p>
-<p>首先，<strong>大陆沦陷后的新政权，为了保持与世界普世价值的距离，人为臆造中西之辨。</strong>不仅是医药学，人为地区分了“中医”（即中国传统中医药）、“西医”（即现代医药学）；在几乎所有的社会科学领域都臆造了“西方经济学”“西方社会学”“西方心理学”等伪概念。而事实上，<strong>无论是自然科学还是社会科学，现代科学作为人类认知世界的一种普世的方法论，本身并没有中西之分。</strong>现代医学是相对传统医学而言的基于科学方法论而建立的医学体系，无论是中国的传统中医药，还是西方的传统医药都是与现代医学相悖的传统医学范畴，无论其本体论还是方法论都已经被淘汰。但<strong>一旦权力集团制造了所谓的中西之辨，将中医药看作是区别并相对于于现代医学的另一种“科学”体系，并将其作为意识形态的一部分贯彻到教育、媒体和舆论，那么接受中国内地教育的大部分人将接受这种人为臆造和割裂的中西之辨而不自知，并自然而然地成为他们社会化的一部分。</strong>因此，受到传统中医药验方启发的青蒿素的发现，就顺理成章地被解释成中医药的成就，并以此而雀跃兴奋。</p>
-<p>其次，<strong>社会垄断权力集团在种种因素促使下大力扶持所谓的中医学科，兴办中医大学，中医院，甚至中医科学院。</strong>包括屠呦呦本人，尽管大学阶段学习的是现代医药学，但服务于国家的<strong>中医科学院</strong>；虽然研究所采用的是现代医药学的方法，但却是以<strong>中西医结合</strong>的名义开展研究。<strong>这就使得传统中医药俨然成为平行且平等与现代医学</strong><strong>的一种医学体系</strong>（“西医”其实是对现代医学一个粗陋、错误的称谓，现代医学既非“中医”，也非“西医”，欧洲传统医学与传统中医药一样充满谬误和迷信）。所以，<strong>即使诺委会认为奖项授予现代医药学的贡献者，但在一个区隔于普世科学的封闭话语系统里，包括屠呦呦在内的研究者也趋向于用熟悉的话语体系来作出有别于诺委会的解释</strong>。他们把受到传统中医药启发的现代医药学研究成果归咎于传统中医药的发展。换言之，<strong>内地从权力集团的高层到研究者本人都习得并习惯了另一种话语思维模式，将从中国传统医药学中受到启发并在中国内地发展的现代医药学成果解释为中国传统医药学的“发展”。</strong>但在科学共同体的话语体系里，这根本就是现代医药学的一部分。所以，诺委会的观点与屠呦呦的表态出现分歧也就不难理解。</p>
-<p>再者，一旦将包括医药学和几乎所有社会科学在内的科学体系人为地臆造和区隔出中西之辨，那么<strong>中国内地大多数人们就会近乎本能地认同和拥护代表着自己所属群体的“中”，而不由自主地排斥和贬低相对于“中”的“西”。</strong>中西医之辨就是典型的例子。接受内地教育的大多数人都认可和拥护“中医”的价值，而罔顾“中医”本身的实际意蕴到底为何。而且，<strong>一旦他们认同并接受“中医”的价值，他们就会自发地发展出维护“中医”合理性的态度取向</strong>，一些普遍的迷信，如“<em>西医头痛医头，脚痛医脚，但中医却注重整体</em>”“<em>中医博大精深，用西医的角度根本无法理解</em>”“<em>中国人绵延数千年受惠于中医，没有西医中国人照常繁衍生息；没有中医才是危机</em>”，等等，无不反映了人们为中医的窘困而发展出的种种合理化态度。</p>
-<p>更重要的一点是，由于人类的疾病受着多种因素的影响，普通人群很难理解起成因、病理以及治疗因循的根据。<strong>在偏好中医迷信的基础上，个别中医药的“疗效”被夸大并广泛传播，而“西医”（现代医药学）的个别“失效”也同样被夸大而广泛传播。</strong>许多中西医药混合治疗的病人，也更倾向于将疗效归因于“中医药”。再加上权力集团对中药行业管制的失控，导致市场上大多数所谓的中成药实际上都偷偷添加了对症的“西药”成分，也使得许多实用中成药者也误以为真是那些配伍的中草药成分起到了疗效。这些因素的累加，也就促使社会上大多数人相信甚至迷信所谓的“中医”疗效。</p>
-<p><strong>但由于中医药行业本身的窘困，除了作弊和隐瞒毒副作用已经很难与所谓的“西医”竞争，并且自晚清以来，中医药就一直受到诟病与批评。</strong>因此，当中医科学院的首席科学家，受传统中医药验方“启发”而发现的青蒿素能够获得国际科学共同体的认可与表彰（2011年的拉斯克临床医学奖，2015年的诺贝尔生理学与医学奖），当然就成为”中医”拥趸扬眉吐气雀跃喝彩兴奋不已的的荣耀时刻。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B1%A0%E5%91%A6%E5%91%A6%E8%8E%B7%E5%BE%97%E8%AF%BA%E5%A5%96%E4%B8%BA%E4%BD%95%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E4%B8%BA%E4%B8%AD%E5%8C%BB%E8%8D%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB/?category=18271" rel="tag">中医</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%AD%99%E6%97%AD%E9%98%B3%EF%BC%9A%E5%8F%A3%E7%82%AE%E5%85%9A%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9A%E4%BB%A5%E5%AD%99%E4%B8%AD%E5%B1%B1%E4%B8%BA%E4%BE%8B/" target="cdt-mirror">孙旭阳：“口炮党”错在哪里：以孙中山为例</a>
-</h2>
-<p><p>大概三四个月前，我在微信朋友圈自称要写一篇论述“口炮”的长文。半天之内，我就骗了大概一千块的红包。之所以说“骗”，是因为三四个月来，我数次动笔，都因俗事繁杂，或者说拖稿症发作，一直拖到现在，这个爱国者为祖国母亲祝寿的大好假期，实在不能再拖了。</p>
-<p>提到“祖国”，这原本是侨居海外他国者对故国的称谓。30年来，那么多爱国歌曲，“祖国”这词用得最符合原意的，就是张明敏的《我的中国心》，“河山只在我梦萦，祖国已多年未亲近”。对于我们这些天天生活在这片雄鸡状地图的人来说，称呼中华人民共和国为“祖国”，就好像称呼自己配偶为“情人”一样，矫情和荒唐。</p>
-<p>至少，我的本家孙中山先生，就不会称呼天朝为“祖国”。他非但不认这个祖，还要“驱逐鞑虏，恢复中华”，灭这个国。不过老孙这两句话也挺扯淡的，“中华”原本就是爱国文人们自欺欺人造的一个词，它的来由和所指，都鬼鬼祟祟。</p>
-<p>至于“鞑虏”，不就想说“非我族类”嘛，可是，如果我们信从当官的就应该是公仆这个规则，就应该想，公仆好不好，在于其是否廉洁高效，听选民们使唤，至于他们是什么人种，原本什么国籍，都不是什么大不了的事儿。</p>
-<p>人们评价当官的，应该等同于看日本AV女优、菲律宾女佣、巴西球员、英国管家，评判标准只有一个：活儿好不好。而且，当官的还掌控暴力资源，天生倾向于撕咬镇压供养他们的人民，而非守护。这点，他们连藏獒都不如。所以，必须用禁锢藏獒更严厉的办法，来防范他们对于主人的侵害。</p>
-<p>这样，问题就出来了。谁都知道，清政府不会坐以待毙。建国二三百年，天朝扑灭的造反，罗织的文字狱，可谓不计其数。无论是刀枪造反。还是笔尖冒犯，都是要死人的，甚至血流成河。孙中山以改良献言者的身份，求见李鸿章失败后，就开始在清政府刀兵所不及的海外窜访，煽动华人华侨捐款，要革清政府的命。在安全地带策动流血运动，孙中山无疑是近代以来最大的“口炮党”。事实上，他有个诨名正叫“孙大炮”。</p>
-<p>可以想象一下，孙中山正在慷慨激昂地控诉满清，号召大家捐款买枪，跟他丫的干。突然有一人冲上台去，“干你娘呀！你说得那么好，你咋不回国跟清兵干呢？！华人在美国端盘子做洗衣工，挣个钱容易吗？”</p>
-<p>台下也有人接腔，“是呀，中国是我们的，可是也不能完全说不是满清政府的呀。中国民主自由了，八旗子弟也有好处呀。我们为什么就不能跟他们好好谈谈呢，这事儿得慢慢来。这几年，听了孙大炮的蛊惑，在国内造反的年轻革命党，死得太多了。即使那些被革命党打死的清兵，他们也上有老下有小呀。孙先生倒好，长程革命家做久了，人血馒头越吃越上瘾！”</p>
-<p>还有人直接上去扇了孙中山一个耳光，“麻痹的，你们这群口炮党天天鼓吹暴力，以暴制暴再以暴易暴，把清政府赶下台，你们不就取而代之了吗？”</p>
-<p>这些质疑，口才如孙大炮者，估计也难以招架。南湖那艘游船要是被朝阳区群众发现并围攻，把这些话砸到与会的不法分子脸上，相信他们也难免支支吾吾。</p>
-<p>我读书少，不懂历史，并不清楚孙中山究竟有无遇到过这些责难。不过，俺老孙今天要告诉你的就是，这些骂孙中山“口炮”的，都是蠢货，无一例外。或许有不是蠢货的，但我没有查到。</p>
-<p><strong>“政权合法性”</strong></p>
-<p>如何评价清政府，换句话说，如何评价一个政府，使我们进行绝大多数政治讨论的基础。</p>
-<p>在中国古代，对政权的评价很多时候减缩为对最高执政者的评价。皇帝（国王）如勤政爱民励精图治，那就是盛世的明君十全的老人；皇帝如骄奢淫逸暴虐无道，那就是乱世的桀纣祸国的匹夫。孟子在评价商纣王死亡事件时说，“闻诛一夫纣矣,未闻弑君也”。翻译下就是：纣王这种不行仁义，望之不似人君的货，人人得而诛之，并不违“君君臣臣”的儒家伦理。</p>
-<p>孟子这话说得轻巧，问题是我们翻翻中国史书，恶名最盛的暴君，几乎都是亡国之君。就是说，他们被称之为最坏的重要原因，就是他们失败了。倘若抗战没有胜利，谁敢说溥仪的坏话？倘若蒋中正没有被赶到台湾，又会是谁在大陆版史书上被千夫所指？</p>
-<p>一般中国人谈不上有值得认真对待的史观，他们只会为成功者歌功颂德，使用任何他们掌握的词汇为成功者和强势者辩护。枪在谁的手里，他们就跟谁走。所以，我们今天评价孙中山所要反的清政府，原因既不能是清朝亡了，也不能是清朝的反对者孙中山等人，在中小学历史课本中属于正面人物。</p>
-<p>我们一定可以有更靠谱，更具有操作性的指标。</p>
-<p>有人试图告诉我们，“存在即合理”（姑且不说这话的原意），凡是存在的政权，就是合理正当的，因为这是历史的选择（满清叫“奉天承运”）。这又回到我前文所述的问题，推演下去就是，“凡是尚未被推翻的政权，都是好的”。要真是这样，清政府和国民政府被推翻之前，“是好的”，推翻它们就是逆天而行，跟历史潮流对着干。</p>
-<p>清政府和国民政府既然是“历史的选择”，那么“历史”最终放弃它们，有了新的选择，标准何在？“历史”究竟是天神还是婊子？</p>
-<p>历史走到某一步，不代表历史就有选择的能力，更不意味着“历史的选择”天然具有伦理的正当。在21世纪回望清政府和其他政府，应该以“合法性”审视之。</p>
-<p>“合法性”不仅可以为政权定性，定性更指向政权的发展路径和行为惯性。那些想改变现实政治的人，当然应该先搞清楚：对面是一个可以与异议者分享影响力甚至权力的政权，还是目测一路走到黑，24小时候全天候预备镇压不同声音的暴力团伙。</p>
-<p>从大清摄政王载沣“有兵在”的表态来看，清政府显然属于后者。不过，评判政权合法性问题，掌控权柄者的一些言行还并非最科学的指标。“反贪官不反皇帝”是中国人愧对脊椎动物这个称谓的一大表征。即使载沣坏，但翻翻清廷档案，却不乏各代皇帝爱民如子的标榜，即使不是皇帝的慈禧太后，还主持了对杨乃武小白菜的平反呢。所以，在个例之外，还要看大局，看清政府绵延近三百年，对治下的百姓做过什么？</p>
-<p>其夺取关内的政权，当然不是通过选举，而是暴力征服，谁不服剐谁。嘉定三屠、扬州十日……这些老故事自不待言。在政权稳定之后，也没有什么建立民主制度，反倒施行严刑峻法，对百姓敲骨吸髓，大兴文字狱等德政，也不用多说。我还想举康熙朝文字狱受害者方苞的《狱中杂记》为例，能把监狱包括刑部大牢办成人间地狱的政权，很难说具有什么合法性。</p>
-<p>说到这里，或许有朋友问，你口口声声“合法性”，而在清朝，有什么“法”可以裁定清政府非法呢？我的解释是，这里的“法”并非《大清律》这样的实定法，而是在今日今世，以您对政权合法性的理解（不要理会历史教科书怎么说），去反观清朝。</p>
-<p>还有，也不要扯什么历史唯物主义辩证法。价值观评判可以类比科学原则，其与时代关系不大。我们现在批评秦始皇不人道，依据的难道是秦律和秦人的伦理观吗？况且，在清朝前期，就有顾炎武、王夫之、黄宗羲这样的大儒质疑君主专制。只是，这些异议终清之世，一直被压制而已。到了清末，西学渐进，就更不存在缺少价值工具的问题。</p>
-<p>顾炎武最有名的是提出了“亡国”与“亡天下”之别。“国”与“天下”，在老顾那里被掰扯开来。这点，他要比现在的公知高明，大部分公知汲汲于区分“国”与“政府”之别，却忽视了，没有政府、及其管辖的疆域，颁发的身份证和护照，哪来的“国”？</p>
-<p>每一个讨论政治的人，首先都应该明晰自己对于政权合法性的理解。我认为这是基本的讨论程序和礼仪，因为会免除很多误解和争执。</p>
-<p>事实上，即使朝廷鹰犬，即使县太爷的狗腿子，都会同意古往今来，有些政权（至少前朝）不配存在。他们往往都会把前朝描述为黑暗无道，那么何不以同样标准审视今朝呢？</p>
-<p>恐怕没多少人会反对：20世纪初的清政府，毫无合法性可言，已不配继续留存。“百日维新”和“皇族内阁”的闹剧，连旅居日本的保皇党梁启超等，都已断定，操控权柄的慈禧及其仆从毫无改良诚意。</p>
-<p>改良不但需要诚意，更需要能力。康梁事败后，六君子赴难，光绪帝被囚瀛台，同情维新的大小官员被整肃，顽固势力更得慈禧宠信，为拳乱埋下大祸根。至此，于心于力，天朝已无通过改良造就现代国家的可能。</p>
-<p>惟有打破这个旧社会才可。</p>
-<p>绕开政权合法性和温和改良的可能性谈满清政治的人，都是在耍流氓。将不能须臾丝毫让渡的是非问题，矮化讳饰为小市民的旦夕祸福利害，趋利避害，苟且度日，于真的小市民倒无可厚非。但对于读书人，尤其是那些大言炎炎军国大事的读书人，却足以鉴定为无脑无心肝。</p>
-<p>因此，与其纠结孙中山是否“孙大炮“，口径战力如何，不如把质疑“口炮”的力气，用在质疑天朝上。</p>
-<p><strong>从改良到革命：光谱左右</strong></p>
-<p>从肥肠满肚的满清皇子皇孙（他们抵制镇压任何威胁其特权的改变），到革命党孙中山之间，如果画一条政治光谱出来，几乎可以容纳大部分有精神自觉的天朝人。</p>
-<p>再细化之，在光谱偏革命的这半边，大抵也可以渐变如下：</p>
-<p>信仰改良→否决改良可行性→认为革命才可改变→同情革命党→做革命党</p>
-<p>拳乱之后，尽管清政府没有放弃对康梁的通缉求索，但受到八国联军凌辱的刺激，从维护天朝政权稳固和基本面子出发，也一度试图提振民心士气，务新求变也俨然成为朝野共识。为此，也出台了一系列的改良措施。但“皇族内阁”之后，稍微有点理智的人，都放弃了对天朝改良的虚假希望。</p>
-<p>改良派的惯常论调，无外乎平稳过度，代价最小。然而，“有兵在”的统治阶层，在暴力资源占据上风之时，又有何动力和必要改良呢？在清末，改良派的劝谏无外乎两条路子：不改良便亡国灭种，断送祖宗三百年基业；改良了君主立宪，江山永固，承前启后，俯仰无愧。</p>
-<p>这样的说服术幼稚到穿开裆裤。任何时候，改良跪谏的天花板都低到膝盖下：被奴役者无法通过更下作的顺服和屈从，来换取奴役者放弃绝对权力。辛亥革命后，清帝逊位，目测也是因为“兵不在了”，而非“兵在，良心更在”。</p>
-<p>我更认为，即使当政者真在改良，也无法减损革命的正当和必要。这点我不解释。本文也不想在“革命VS改良”这种低幼议题上浪费时间。再接到上文清末的政治光谱上，从改良到革命之间，不妨粗分下各类人群：</p>
-<p>信仰改良者，仅从信仰本身，无可厚非。趋利避害，拈轻怕重，是人之常情。即使生于乱世，只要有一口饭果腹，一张床安眠，几个家人相伴，对兵祸大多唯恐避之不及。改良当然很好了，不改的话，我也能活得下去，甚至在中产以上。这种类似于“无痛流产”和“保底理财”的心态，政治倾向自然偏保守。</p>
-<p>否决改良可行性者，一部分来自权力阶层，祖宗之法不可变，这不许提，那不许谈云云；另一部分则来自这些人的异议者，这些人视整个权力架构如倾覆之破船，颓塌之烂墙，不相信掌权者会，也能改良复兴。</p>
-<p>这些异议者也大致可以分两类，一类人就是光说改良无路，那怎么办呢？不知道，或，不想说。</p>
-<p>另一类人也明说改良无路，却也开出了药方。开药方的也分两类，一类只开药方不管试药，药方中或倡言革命才可救国，但仅仅说说而已（当然在天朝，口炮革命也是死罪）；另一类人则直接做革命党，抄家伙了。</p>
-<p>在我这个浅陋粗糙的光谱中，最大的分水岭就在于，是否认同清政府可以继续存在。鉴于清末国事之糜烂，认同清政府可以继续存活者，都得预设清政府能改良。历史是无情的，这些人最后都被抽了耳光。</p>
-<p>在他们满地找牙之前，则是改良舆论对“口炮党”的围剿。这些围剿，大抵从政治光谱上，从“否决改良可行性”往右一刀切。凡是不敢站出来跟清政府玩命的，或者尚未被清政府弄死的，都是“口炮党”。</p>
-<p><strong>扯淡的“知行合一”</strong></p>
-<p>要说孙中山完全“口炮”，也不符合实情。在离开天朝之前，他曾试图在广州起义，出国后也曾在伦敦被天朝特工抓捕。为了讨论的便宜，我建议把这两件事都抹掉，就假设孙中山纯“口炮”。</p>
-<p>那又能如何？孙中山认为清政府腐败暴虐，惟有革命才能救中国。对他诚实的批评应该是：清政府不腐败暴虐，或者没有足够腐败暴虐，尚有执政合法性，所以革命只能祸乱中国，或者，舍革命而有更好的办法救中国。</p>
-<p>即使以革命党的标准打量孙中山，他既然已经上了清廷的通缉名单，何必白白回中国送死呢。革命也要有分工，有喋血街头的林觉民喻培伦们，自然也应该有在海外联络筹款的孙中山等人。孙中山真要回国刚下轮船就被清兵捕杀，那些斥他为“孙大炮”的人，敢在北京菜市口举条幅挺他吗？</p>
-<p>革命党为什么非要以死以坐牢明志，被清廷虐杀，才能博取道义和逻辑上的得分吗？</p>
-<p>在我看来，“孙大炮”只有一种情况可以被骂：他约上党内同志某年某月某日一起在某地举事，并以此募捐，到期临战则畏缩退避，逃得一条性命。“口炮”的指摘，只能针对当事人对其他众人的行动承诺，而非其持论和宣传。</p>
-<p>政治光谱中，在革命党左边，“否决改良可行性→认为革命才可改变→同情革命党”这些人的“口炮”罪更难以坐实。这些人既然被排列入光谱中，自然有言语可稽。其言语是对是错，是中正还是偏狭，也大可以一一考之以事实和逻辑。以“你认为改良不可，你又没造反，你就是口炮”的强盗逻辑羞辱之，只能显示泛改良派的无耻无知。</p>
-<p>查清末史料，这样的口舌是非并不少。仅仅从辩论技术来看，这种以“知行合一”的标准折辱对方辩友的做法，虽恶毒猥琐，却因低智而深得脑力懒惰者的喜爱。</p>
-<p>不就是这条逻辑吗：某人认为改良无路，就意味着TA一定认同革命，而且TA就一定要去革命，否则就是“口炮党”，就是在煽动他人流血。</p>
-<p>本来的观点之争，就这样扭曲为了对异议者的道德甄别和人身攻击。况且，清朝文字狱迭起，指认“口炮党”，就是在向官府举报谋逆钦犯。“不信从改良学说，就是在煽动暴力革命”，这文网织得比乾隆爷织得都大。</p>
-<p>进而言之，“你既然说了道理，那就必须做，否则就是没理。”姑且不说这歪曲“知行合一”原意，按照这条逻辑规整现实，也堕落得有些可怕。它无非规定，人类只能提出他们在利害考量和个人能力范围内能亲力实施的观点。</p>
-<p>不难发现，这是泛改良派为自己量身打造的言语之茧。荒谬自不待言：赞扬见义勇为的人，如果自己不被盗匪砍死砍伤，就是教唆其他人抗拒盗匪而死的“口炮”。生于清末的人，只要还牵挂亲友，还不想死，政治观点最多只能走到“信仰改良”这个坐标点，只要往光谱那边多想一毫米，就跟“孙大炮”同罪。</p>
-<p>在这样的低级缠斗中，对清政府的定性和追责一直都是缺位的。那些言必称“口炮党”的诸人，说是慈禧太后养的哮天犬也毫不为过。咬不死你，它至少可以恶心恶心你吧。</p>
-<p>要说，真要是做哮天犬也值了。就怕是屠宰前的肉狗，对着围栏内外狂吠，还真把狗肉铺当自己家了。</p>
-<p>这样想来，孙中山甚至梁启超这些人，也真不容易呀。</p>
-<p>（<em>该文为应付文债所乱写的。说是骗打赏，我也承认。我不太想谈政治议题，即使历史类的。讨论“孙大炮”，主要就是梳理下逻辑思维。这个话题可以拓展很多，改了几次，还是夹着尾巴，火速结尾的好。）</em></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%AD%99%E6%97%AD%E9%98%B3%EF%BC%9A%E5%8F%A3%E7%82%AE%E5%85%9A%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9A%E4%BB%A5%E5%AD%99%E4%B8%AD%E5%B1%B1%E4%B8%BA%E4%BE%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%8F%B0/?category=18271" rel="tag">下台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E7%82%AE%E5%85%9A/?category=18271" rel="tag">口炮党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E8%80%85/?category=18271" rel="tag">异议者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E8%80%85/?category=18271" rel="tag">执政者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E8%89%AF/?category=18271" rel="tag">改良</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E8%89%AF%E6%B4%BE/?category=18271" rel="tag">改良派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">政权稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%99%9A%E5%81%87%E5%B8%8C%E6%9C%9B/?category=18271" rel="tag">虚假希望</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">革命</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -676,5 +632,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%8F%B0
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%85%B1%E5%BC%80%E6%98%8E%E6%B4%BE%E6%94%B9%E9%9D%A9%E5%85%88%E9%94%8B%E6%9D%9C%E6%B6%A6%E7%94%9F%E7%97%85%E9%80%9D/" target="cdt-mirror">美国之音 | 中共开明派改革先锋杜润生病逝</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/U10361P31DT20151009080135.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/U10361P31DT20151009080135.jpg?resize=350%2C501" alt="杜润生" data-recalc-dims="1"></a><p>杜润生</p></div>
+<p>据中国媒体报道，原中央农村政策研究室和国务院农村发展研究中心主任杜润生，10月9日清晨病逝，终年102岁。</p>
+<p>有“中国农村改革之父”之称的杜润生，早年就读北平师范大学文史系，是中共党内最资深的农村问题专家之一，曾力倡家庭承包责任制，上世纪80年代对推行农村一系列改革发挥了重要作用。</p>
+<p>不过，杜润生也因思想和政策观点开明屡次遭受打击。在中国50年代农业合作化运动中，被点名批评并解除职务。1966年文革开始后，再受冲击，被停职检查。1989年六四期间，他与多位高级干部反对军队开枪方式处理学生运动，后遭中央顾问委员会开会批判，曾险被开除出党。</p>
+<p>杜润生近年坚定支持自由派标杆性月刊“炎黄春秋”，直到该刊最新的今年第9期，仍是排名第一位的顾问。</p>
+<p>杜润生曾先后主管多个党政部门，包括中纪委书记王岐山在内的多位现任高官都曾在他手下工作。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%85%B1%E5%BC%80%E6%98%8E%E6%B4%BE%E6%94%B9%E9%9D%A9%E5%85%88%E9%94%8B%E6%9D%9C%E6%B6%A6%E7%94%9F%E7%97%85%E9%80%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/80%E5%B9%B4%E4%BB%A3/?category=18271" rel="tag">80年代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">学生运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9C%E6%B6%A6%E7%94%9F/?category=18271" rel="tag">杜润生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%8E%9F%E6%9D%A5-%E6%96%B0%E9%97%BB%E5%B7%A5%E4%BD%9C%E8%80%85%E8%8E%B7%E8%AF%BA%E5%A5%96%E7%9A%84%E6%BD%9C%E5%8A%9B%E5%B7%A8%E5%A4%A7/" target="cdt-mirror">海涛评论 | 原来 新闻工作者获诺奖的潜力巨大</a>
+</h2>
+<p><p>如果黄晓明早几天办婚礼，他就不会被编入青岛大虾的段子里——在38元大虾故事之后，有人终于“明白”，生于青岛的黄晓明为什么在上海办婚宴。</p>
+<p>我引用这个笑话，没有调侃青岛的意思，而是想表达，现实太超乎人们的想象——吃完虾被告知38元一只，现实中的故事，远比小说精彩。这不，今年的诺贝尔文学奖，授予了一个非虚构作家。</p>
+<p>我对文学没有太大的兴趣，之前也没关注过诺贝尔文学奖。包括莫言在内，每一年的诺贝尔文学奖获得者，我都是无感的。</p>
+<p>今年诺贝尔文学奖比较另类，获奖的是一个非虚构作家，出生于前苏联的调查记者，斯维拉娜·亚历塞维奇。这倒引起了我的兴趣，调查记者的作品，算是文学吗？于是，我简单搜索了一下，她的代表作《切尔诺贝利的回忆:核灾难口述史》。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E7%81%BE%E9%9A%BE.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E7%81%BE%E9%9A%BE.jpg?resize=529%2C695" alt="切尔诺贝利灾难" data-recalc-dims="1"></a></p>
+<p>切尔诺贝利核灾难，是1986年4月26日，发生在前苏联现乌克兰境内的一场灾难。那场爆炸，导致的死亡，污染，撤离，疾病，至今影响还在。多数欧洲国家受到了影响，以至于苏联的“党中央”是从瑞典科学家的报告中得知了事情的严重性。</p>
+<p>切尔诺贝利灾难的“模式”是这样的——事故发生后，当局反应迟钝，应对失措，试图掩盖，压制舆论，蒙蔽民众。事故实在无法掩盖之后，直到5月14日，戈尔巴乔夫才公开表达了事故的严重性：“核能脱离了人类的控制。”</p>
+<p>那场灾难，让200多万人长期生活在恐惧和痛苦之中，整个事件暴露了貌似强大的苏联是多么的脆弱。戈尔巴乔夫后来在分析苏联解体的原因时曾说，切尔诺贝利核事故可能成为5年之后苏联解体的真正原因，那场灾难是一个历史转折点，其前后的两个时代迥然不同。</p>
+<p>此次获得诺奖的斯维拉娜·亚历塞维奇，花费数年时间，采访了遇难者家属和幸存者，写成了她的重要代表作《切尔诺贝利的回忆:核灾难口述史》，记录了灾难之下的人们的愤怒、恐惧、坚韧。</p>
+<p>我实在无法将这本书与文学关联起来。在我狭隘的认识里，文学，是虚构和想象。当然，我也相信，从这个角度上说，再伟大的想象力，都写不出人类在具有苏联特色的切尔诺贝利事故中的遭遇。</p>
+<p>前些年，当我看到余华的小说《第七天》的时候，笑了。我能看出余华彻底失去了“想象力”，他竟然用新闻故事写小说，我能看出一个作家在面对现实的时候的“沮丧”。现实比小说精彩多了，文学向现实妥协，作家向现实投降，于是，诺贝尔经文学奖向现实的记录者致敬——诺贝尔文学奖家颁给斯维拉娜·亚历塞维奇，大概也有这个意味吧。</p>
+<p>关于前苏联，我了解太少。1995年的时候，HBO曾经拍过一部小成本的电影《CITIZEN X》，公民X，。我看这部电影的时候，超过15年了，但印象依然深刻。当时年轻，无法理解。前些日子，重新看了一遍，一下子又找到了具有苏联特色的灾难的感觉。</p>
+<p>那部电影，讲述乌克兰一个性无能的男子，连续杀害妇女和儿童的故事。每当一个人失踪，当局首先想到的是掩盖，由于信息不公开，更多的妇女儿童不知道危险就在身边。嫌疑人是一名受人尊敬的老师，如果宣布他是罪犯，将会让受人尊敬的人民教师蒙羞，也会让国家蒙羞，因此，领导宣布他不可能是凶手。于是，这个人民教师，继续作案。直到若干年后苏联解体，人民教师终于被擒，这个时候，人们才直到，已经有超过50个妇女儿童被杀。当一具具尸体被挖出，你已经无法确认，那些人是死于变态杀手还是死于变态的体制。</p>
+<p>整个电影，故事简单而沉闷，你可以看到，那个致力于破案的警察，不是在跟变态的罪犯做斗争，而是在跟变态的领导作斗争。这部电影，不排除HBO黑苏联的意识形态，但我相信电影的编剧如果没有真实故事做底稿，是想象不出那样的情节的。我注意到，电影的片头注明，根据真实故事改编</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%AE%B6%E9%A3%8E.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%AE%B6%E9%A3%8E.jpg?resize=550%2C529" alt="人民日报家风" data-recalc-dims="1"></a><br>
+回到现实中来，我们也经常目睹一些我们超出我们想象的事情发生。比如，一个省长前一段还在报纸上论证“正家风是领导干部严以修身的必修课”，然后，没过多久，他被宣布涉嫌严重违纪……我有时候觉得，有些人做报纸是一件尴尬的事情，他们精心做出来的版面，似乎不堪重新翻阅，但从另一个角度，也让那些诺贝尔文学奖获奖者的作品“失色”——说不定，有一天，有些报纸，也可以获得诺奖。</p>
+<p>这么说，似乎，大面积的诺贝尔文学奖正在向新闻工作者扑面而来。遗憾的是，他们中相当多的人，出于种种原因，把精力用于记录黄晓明们的婚礼了……</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%8E%9F%E6%9D%A5-%E6%96%B0%E9%97%BB%E5%B7%A5%E4%BD%9C%E8%80%85%E8%8E%B7%E8%AF%BA%E5%A5%96%E7%9A%84%E6%BD%9C%E5%8A%9B%E5%B7%A8%E5%A4%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%85%8B%E5%85%B0/?category=18271" rel="tag">乌克兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9/?category=18271" rel="tag">切尔诺贝利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%BF%B0%E5%8F%B2/?category=18271" rel="tag">口述史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%9F%A5/?category=18271" rel="tag">新知</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%B7%A5%E4%BD%9C%E8%80%85/?category=18271" rel="tag">新闻工作者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93/?category=18271" rel="tag">苏联解体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔文学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87/?category=18271" rel="tag">阿列克谢耶维奇</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E7%83%AD%E8%A7%82%E5%AF%9F-%E5%9B%BD%E4%BA%BA%E5%A2%83%E5%A4%96%E6%B8%B8%E5%BF%99%E6%89%AB%E8%B4%A7%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%85%91%E7%8E%B0%E9%99%8D%E5%85%B3/" target="cdt-mirror">网易热观察 | 国人境外游忙扫货与中国未兑现降关税承诺有关</a>
 </h2>
 <p><p><strong>境外购物如此火热，与中国境内进口商品价格偏高密不可分。近年，中国因为没有完全兑现加入WTO后减免关税的承诺，中国海关还对本应零关税进口的商品征行邮税。2010年，进口商品税收占中央财政收入三成。可以预期，在经济下行、财政税收增速减缓的当下，降低进口商品的税收成本动作不会太大。</strong></p>
@@ -67,7 +113,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wto/?category=18271" rel="tag">WTO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">中国游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%A8%8E/?category=18271" rel="tag">关税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%8F%E5%85%8D%E5%85%B3%E7%A8%8E/?category=18271" rel="tag">减免关税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E8%B4%AD%E7%89%A9/?category=18271" rel="tag">境外购物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81/?category=18271" rel="tag">进口商品</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E7%9F%A5-%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87%EF%BC%9A%E5%89%8D%E8%8B%8F%E8%81%94%E6%82%B2%E6%83%A8%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%B0%E5%BD%95%E8%80%85/" target="cdt-mirror">新知 | 阿列克谢耶维奇：前苏联悲惨时代的记录者</a>
 </h2>
@@ -609,41 +655,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%8F%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%EF%BD%9Ctpp%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A-%E4%B8%AD%E5%9B%BD%E9%99%A4%E4%BA%86%E8%BF%BD%E8%B5%B6%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9/" target="cdt-mirror">澎湃新闻｜TPP尘埃落定 中国除了追赶别无选择</a>
-</h2>
-<p><p>经过5年多的密集谈判，TPP（跨太平洋伙伴关系协定）谈判10月5日尘埃落定。一个横跨太平洋，涉及美洲、大洋洲和亚洲的12个国家（美国、日本、澳大利亚、加拿大、新西兰、新加坡、马来西亚、越南、智利、墨西哥、秘鲁和文莱），涵盖全球经济总量近40%的巨型自由贸易圈将逐步实现。</p>
-<p>美国抛开WTO，另起炉灶，其真正意图是通过制定全球贸易新规则，达到主导并重塑全球贸易秩序的战略目标。同时，TPP也是美国实现重返亚太战略的经济支柱。</p>
-<p>TPP协议达成后，将对中国产生贸易转移效应。中国的部分劳动密集型产品的出口（如服装鞋帽等）会转移至越南，部分机电产品的出口可能转移至新加坡和马来西亚。当然，即使没有TPP，随着中国人口红利的消失和中国经济转型升级的展开，劳动密集型产品生产的向外转移及跨国公司的投资转向已经是大势所趋。</p>
-<p>随着TPP协定的实施，会有更多的国家和地区申请加入该协定，目前韩国、菲律宾和中国台湾等已经申请加入TPP谈判。可以预见，在不远的将来，这个新型经济组织必将成为世界最大的经济组织，它将根本改变世界经济格局，改变世界经济运行模式。如果TTIP（跨大西洋贸易和投资伙伴关系协定）也能如愿在近年内达成协议的话，一个凌驾于WTO之上的全球贸易新体制有可能形成。</p>
-<p>因此，中国必须认清形势，未雨绸缪，努力深化改革、加大开放力度，以逐步适应以TPP规则为主要内容的未来国际经贸新规则。目前，中国已经设立了上海等多个自由贸易区，其中核心的试验内容就是考察中国在何种程度上能适应TPP规则。</p>
-<p>TPP除了设定货物贸易自由化的目标外，还加入了服务贸易、知识产权、环境保护、劳工标准和竞争中立等内容，这些内容正是在WTO框架下多年无法实现的。中国短期之内要接受这些协定，还很难。</p>
-<p>在加入WTO之前，“阴谋论”和害怕困扰着中国。这次也一样。不同之处在于，追赶的意识弱了，对抗的呼声高了。应该清醒地认识到，除了追赶，别无选择。</p>
-<p> </p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%EF%BD%9Ctpp%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A-%E4%B8%AD%E5%9B%BD%E9%99%A4%E4%BA%86%E8%BF%BD%E8%B5%B6%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">tpp协议</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%99%BD%E5%AE%AB%EF%BC%9Atpp%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90%EF%BC%8C%E5%8E%8B%E5%8A%9B%E5%9C%A8%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">美国之音 | 白宫：TPP协议达成，压力在中国</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/81A9A891-71FB-4FC3-B4E5-0C772165FF58_w640_r1_s.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/81A9A891-71FB-4FC3-B4E5-0C772165FF58_w640_r1_s.png?resize=500%2C281" alt="81A9A891-71FB-4FC3-B4E5-0C772165FF58_w640_r1_s" data-recalc-dims="1"></a></p>
-<p>VOA | 叶林</p>
-<p>华盛顿—白宫表示，跨太平洋伙伴关系（TPP）协定的签署会给中国带来很大压力。</p>
-<p>美国总统奥巴马星期二说，TPP协议中包含了史上最高的劳工标准和环境标准。他说，这些标准都具有很高执行性，如果签署国不遵守这些规则，将无法获取与美国进行贸易的利益。奥巴马说：“这一协议下，美国将书写全球经济规则，而不是中国。”</p>
-<p>白宫发言人乔什·欧内斯特星期二在例行记者会上说：“不可否认的是，在提高环境标准、提高劳工标准和执行TPP协议包括的那类知识产权保护方面，这给中国施加了压力。中国通常乐于在亚洲内部发挥自己的影响，TPP的确给中国施加了很大压力。通过提高在亚太地区的经济标准，美国的经济利益可以得到良好体现。这当然也是美国向中国传达明确信号的一种方式，也就是说，我们欢迎一个崛起、发展的中国，但是国际社会对于中国这样寻求真正国际存在的国家有一些要求。”</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%99%BD%E5%AE%AB%EF%BC%9Atpp%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90%EF%BC%8C%E5%8E%8B%E5%8A%9B%E5%9C%A8%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">tpp协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B6%E6%9E%97/?category=18271" rel="tag">叶林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -655,7 +666,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -665,5 +676,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

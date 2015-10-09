@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E7%83%AD%E8%A7%82%E5%AF%9F-%E5%9B%BD%E4%BA%BA%E5%A2%83%E5%A4%96%E6%B8%B8%E5%BF%99%E6%89%AB%E8%B4%A7%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%85%91%E7%8E%B0%E9%99%8D%E5%85%B3/" target="cdt-mirror">网易热观察 | 国人境外游忙扫货与中国未兑现降关税承诺有关</a>
+</h2>
+<p><p><strong>境外购物如此火热，与中国境内进口商品价格偏高密不可分。近年，中国因为没有完全兑现加入WTO后减免关税的承诺，中国海关还对本应零关税进口的商品征行邮税。2010年，进口商品税收占中央财政收入三成。可以预期，在经济下行、财政税收增速减缓的当下，降低进口商品的税收成本动作不会太大。</strong></p>
+<p>网易《热观察》 文|海鹏飞 编辑|史毋意</p>
+<p>刚过去的国庆7天长假，中国游客再次扫荡了日、韩、欧美等地的商场，从化妆品、电子产品、感冒药到各类包包，买买买根本停不住。</p>
+<p>目前，中国出境游市场比上年同期大增逾三成，人均购物额超过5000元。中国游客境外游时疯狂血拼，最根本原因还是国内外同款或类似商品高达三、四成的差价。</p>
+<p>境外购物如此火热，与中国境内进口商品价格偏高密不可分。近年，中国因为没有完全兑现加入WTO后减免关税的承诺，也广受诟病；网易《热观察》梳理发现，以进口护肤品为例，在进口商品消费税、增值税等刚性税负高达47%保持不变的情况下，即使降低进口关税，其价格下降有限，很难改变国人境外游疯狂购物的现状。</p>
+<p>一、境外购物普遍比国内便宜30%到40% 买买买根本停不住</p>
+<p>从化妆品到马桶盖、电饭煲，以及目前最流行的感冒药等家用药品，中国游客境外游时疯狂血拼。土豪毕竟是少数人，普通中国游客境外抢购虽有跟风成分，但最根本的原因还在于，国内外同款或类似商品与境外高达三、四成的差价。</p>
+<p>品种新、质量好，汇率划算，再加上价格低廉等多种因素，中国游客在境外旅游时买买买根本停不住。比如，一位去日本旅行的朋友买了一款瑞士品牌电子手表，该款手表国内售价6000元左右，在日本同款4000元左右即可入手。同款单反相机，价格也要比国内便宜1000到2000元。</p>
+<p>化妆品的境内外价格差距，甚至可达一倍以上。2012年，中国海关总署执行新关税后，国内进口的香水、眼霜、精华液等化妆品完税价格，均大幅提高一倍以上。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/20151008175556011cc.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/20151008175556011cc.jpg?resize=424%2C970" alt="20151008175556011cc" data-recalc-dims="1"></a><p>化妆品进口关税率超高</p></div>
+<p>二、“中国制造”在海外买更便宜 中国商品价税收成本为美日3到4倍</p>
+<p>令人惊讶的是，部分“中国制造”产品在国外买竟然比国内更便宜。于是，近年中国游客境外游时，带回来的礼物甚至包括中华烟、茅台酒，以及大量在中国生产的服装和电子产品。</p>
+<p>具体原因，除“中国制造”享受出口退税等优惠政策外，欧美、日韩销售商品价格的税收成本也普遍比中国低。比如，美国商品就没有中国高达17%的增值税。</p>
+<p>《中国经济周刊》报道，依据国际货币基金组织(IMF)2006年数据计算，中国商品价格中的税收成本很高，分别是美国的4.17倍，是日本的3.76倍，是欧盟15国的2.33倍。</p>
+<p>目前，中国境外游客人均购物额已超过5000元，而中国海关免税放行的个人自用进境物品总值在5000元以内。因此，每逢国内假期，海关方面都要严查入境申报。而对于iPhone6等电子产品，不管是否价格达到5000元，都需要申报完税；因此近年不断出现购物过多的中国游客涉嫌“走私”被指控定罪的案例。现实中，中国海关对入境旅客实行抽查制，不少返程国人会尝试“看运气、拼人品”。</p>
+<p>三、中国没有完全兑现加入WTO降减关税承诺 买iPad入境本应免税</p>
+<p>“中国制造”在海外买更便宜，也得益于加入WTO后，不少国家对中国产品实行的较低关税。但与此同时，中国因为没有完全兑现加入WTO时候减免关税的承诺，也广受诟病。</p>
+<p>网易《另一面》曾分析，中国海关还对本应零关税进口的商品征行邮税（关税+增值税+消费税）：2010年，海关罔顾商务部质疑，坚持对本应零关税的“海淘”iPad征收20%行邮税；2012年，海关坚持对本应零关税的“海淘”新西兰婴儿配方奶粉征10%行邮税。</p>
+<p>商务部就曾向官方媒体透露，按中国加入的WTO《信息技术协定》，包括通讯设备、计算机、芯片在内的二百多项信息技术产品，已在2005年实施零关税并且取消消费税；但本属于免税范围的iPad，却被中国海关坚持“海淘一部iPad按五千元完税价格征一千元行邮税”。</p>
+<p>此外，和欧美等国相比，中国的行邮税也保持着明显的高税率。目前，行邮税所采用的进口税税率共设四档，分别为10%、20%、30%和50%。国际快递公司DHL在其网站上，给出的欧盟行邮税一般性参考仅为5-9%。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/20151008175907a01b3_550.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/20151008175907a01b3_550.jpg?resize=550%2C395" alt="2015年6月1日起中国降低部分日用消费品进口关税超五成。" data-recalc-dims="1"></a><p>2015年6月1日起中国降低部分日用消费品进口关税超五成。</p></div>
+<p>四、境外购物如此火热，与中国境内进口商品价格偏高密不可分</p>
+<p>中国人境外购物如此火热，与中国境内进口商品价格偏高密不可分。《瞭望东方周刊》曾分析，除了关税，对进口商品价格影响较大的还有增值税。目前，中国大部分进口商品的增值税税率适用17%，而美国则没有增值税；尽管许多欧盟成员国的消费税（增值税）标准税率高达20%左右，但其中很多国家对食物采取了降低税率的措施，特定品种适用于减税税率。</p>
+<p>《南方日报》曾披露，商务部门调查显示，手表、箱包、服装、酒、电子产品这五类产品的20种品牌高档消费品，国内外的差价明显：国内市场比香港要高45%左右，比美国高51%，比法国高72%。</p>
+<p>当下，中国国内的进口与国产化妆品，均普遍征收30%的消费税，要远高于韩国国内化妆品10%的消费税税率。</p>
+<p>五、国内部分免税店并不真正完全免税</p>
+<p>为刺激国内消费，近年，国务院要求增设和恢复口岸进境免税店，合理扩大免税品种，增加一定数量的免税购物额，方便国内消费者在境内购买国外产品。但事实上，除机场免税店，国内目前部分所谓“免税店”并非真正完全免税。</p>
+<p>《外滩画报》分析，上海自贸区称不上是真正意义上的免税商店，而是属于“保税展示交易”区域，即商品由供应商直接供货，在展示过程不交税，直到被消费者购买才交税。只是得益于上海自贸区“进口商品直销”模式，减去中间经销商的成本和利润空间，市民们能在此买到价格更优惠的进口商品。</p>
+<p>六、进口商品税收占中央财政收入三成 难以大幅减税</p>
+<p>2015年6月1日起，中国将降低部分服装、鞋靴、护肤品、纸尿裤等日用消费品的进口关税税率，平均降幅超过50％。网易《热观察》梳理发现，在消费税、增值税保持不变的情况下，降低关税效果有限。</p>
+<p>以进口护肤品为例，其关税税率税率这次由5%下降到2%，但消费税税率却仍高达到30%，加上17%的增值税，刚性税负高达47%，进口商品的价格下降有限。</p>
+<p>《南方日报》曾报道，商务部一直推动降低进口商品的关税和增值税、消费税，将消费力留在国内，但财政部有着不同看法；两部委分歧的背后，是每年数百亿美元的消费额和上千亿人民币税收的权衡。</p>
+<p>据财政部相关数据，2010年进口货物关税2027多亿元，增值税、消费税近1.05万亿元，二者合计占中央财政收入的比重达到29.5%。据统计，加入WTO以来，中国进口税收年均增长17.8%，对中央财政收入贡献始终保持在25%以上，是最稳定的中央税收来源之一。</p>
+<p>可以预期，在经济下行、财政税收增速减缓的当下，降低进口商品的税收成本动作不会太大，国人今后境外游恐怕仍将继续买买买。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E7%83%AD%E8%A7%82%E5%AF%9F-%E5%9B%BD%E4%BA%BA%E5%A2%83%E5%A4%96%E6%B8%B8%E5%BF%99%E6%89%AB%E8%B4%A7%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%85%91%E7%8E%B0%E9%99%8D%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wto/?category=18271" rel="tag">WTO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">中国游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%A8%8E/?category=18271" rel="tag">关税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%8F%E5%85%8D%E5%85%B3%E7%A8%8E/?category=18271" rel="tag">减免关税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E8%B4%AD%E7%89%A9/?category=18271" rel="tag">境外购物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81/?category=18271" rel="tag">进口商品</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E7%9F%A5-%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87%EF%BC%9A%E5%89%8D%E8%8B%8F%E8%81%94%E6%82%B2%E6%83%A8%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%B0%E5%BD%95%E8%80%85/" target="cdt-mirror">新知 | 阿列克谢耶维奇：前苏联悲惨时代的记录者</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/image-31-600x400.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/image-31-600x400.jpg?resize=600%2C400" alt="image-31-600x400" data-recalc-dims="1"></a></p>
@@ -599,37 +644,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B1%A0%E5%91%A6%E5%91%A6%E8%8E%B7%E8%AF%BA%E5%A5%96%E8%AF%A5%E5%BD%92%E5%8A%9F%E4%BA%8E%E8%B0%81%EF%BC%9F/" target="cdt-mirror">博谈网 | 屠呦呦获诺奖该归功于谁？</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard07_153.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard07_153.jpg" alt="屠呦呦" width="551" height="310"></a><p>20世纪50年代，在中医研究院中药研究所任研究实习员的屠呦呦与老师楼之岑副教授一起研究中药。</p></div>
-<p>（博谈网记者苏智敏报道）屠呦呦成为2015年诺贝尔医学奖得主之一后，在一片祝贺声之中，有舆论认为，这应归功于民国时期的教育体制，而不是毛泽东。</p>
-<p><strong>院士制度</strong></p>
-<p>今年84岁的中国女药学家屠呦呦因领导研制抗疟药物——青蒿素和双氢青蒿素，而成为2015年诺贝尔医学奖的得主之一，是第一位获诺贝尔医学奖的中国人，同时也是诺贝尔医学奖史上第13位女性得主。</p>
-<p>受中医典籍启发的屠呦呦获诺奖后，称“青蒿素是传统中医药送给世界人民的礼物”，而她的得奖也引发许多话题，除了中西医之争再被讨论外，同时引来大众对中国院士制度的检讨，因为屠呦呦多次被提名参选中医科学院院士却一直落选，没有博士学位、留洋背景和院士头衔的她，被称为是“三无科学家”。</p>
-<p>2011年9月屠呦呦因青蒿素而获得拉斯克临床医学奖时，《人民日报》曾发表评论“屠呦呦为什么落选院士”，探究其落选院士的原因，文中提到四川大学副校长魏于全、中国农大原校长石元春、哈尔滨医科大学校长杨宝峰等人，虽涉嫌学术造假而屡遭检举、质疑，却依然稳坐院士的宝座，而贡献卓著的屠呦呦却落选院士，因此提出应该检讨、改进两院院士的评选标准、方法和程序。</p>
-<p><strong>因战争而起的研究</strong></p>
-<p>另一个被讨论的话题，则是屠呦呦能发现青蒿素，应该“归功”于毛泽东和毛时代吗？</p>
-<p>同样在屠呦呦获拉斯克临床医学奖后，《纽约时报》发表文章指出，抗疟药物青蒿素的发明其实要“感谢”毛泽东。因为在60年代，毛泽东发动文化大革命，让全中国人对自己的传统文化进行暴虐摧残。包括科学家在内的知识份子被批斗、迫害、从事大量的体力劳动，多人被打死或选择自杀。中医也不例外，中国中医科学院博士崔京艳在“百年中医的三次论争”一文中提到：“文革期间，由于种种错误导向，全国绝大多数老中医被批斗、迫害；很多中医古籍被当成四旧送进了造纸厂的化浆池。”但就在这情况下，北越的求援意外救了许多科学家。</p>
-<p>炎热潮湿的越南，蚊虫众多，北越士兵患上一种当时无药可治的疟疾，倒下一大批人，北越高层因此向中国求援。毛泽东下令将优秀的科学家投入到抗疟药物的研发，成立523项目，全国60多个单位的500名科研人员参加这个秘密军事科研任务，屠呦呦就是其中的一员。</p>
-<p>抗疟药物研发之难，被形容成大海捞针，这群科学家转而向传统中医找出路，在文革期间虽有点讽刺，但屠呦呦正是从葛洪的《肘后备急方》中得到启发，改用低温榨汁的方法，获得了青蒿素。</p>
-<p>该“感谢”毛泽东吗？事实上，毛泽东政府下令研发药物的背后，不是为了中国人的健康，而是因为援外战争——解决北越士兵疟疾问题，在这情况下，更讽刺的是，数年后，中国反而跟越南在边境上打了起来。</p>
-<p><strong>教育与体制</strong></p>
-<p>另外，屠呦呦的成就，许多民众也认为不应该归功于毛时代，网友把这归于是民国时期的教育培养出来的人才。</p>
-<p>综述网友的评论观点，1930年出生的屠呦呦，跟得到诺贝尔奖的李政道、杨振宁、丁肇中，及李远哲一样，都是在接受完整的中华民国的基础教育下长大的，民国时期对教育及人才的培养极为重视，在抗日战争期间，教育依然摆在重要的位置。虽然屠呦呦1951年考入北京医学院（现为北京大学药学院）药学系，但那时的大学还是民国期间的教育遗风，基本教育理念、知识传承并没有发生根本性改变。但如果屠呦呦是在文革时期读中小学，那么她不是工农兵学员，就是下放知青，将不会有今日的成就。</p>
-<p>许多网友认为，如果没有反右、大跃进、文革这种事的发生，人民能有安定的环境接受教育，今日得到诺贝尔奖的中国人应该会更多。</p>
-<p>除了教育问题，体制也是原因之一。中国作家冉云飞也借着屠呦呦获诺贝尔医学奖一事，发文指出，两弹一星功勋奖章获得者钱学森曾问说：“这么多年培养的学生，还没有哪一个的学术成就，能够跟民国时期培养的大师相比”“为什么我们的学校总是培养不出杰出的人才？”</p>
-<p>冉云飞认为，曾在大跃进时支持亩产上万斤，反右时痛斥右派反社会主义言论的钱学森这是在“明知故问，揣着明白装糊涂”，冉云飞对此表示：“一个不自由的制度下的学校教育，怎能培养出人才？”</p>
-<p>关键词: 诺奖 屠呦呦 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 苏智敏</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B1%A0%E5%91%A6%E5%91%A6%E8%8E%B7%E8%AF%BA%E5%A5%96%E8%AF%A5%E5%BD%92%E5%8A%9F%E4%BA%8E%E8%B0%81%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%BD%93%E5%88%B6/?category=18271" rel="tag">教育体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%A2%E5%A3%AB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">院士制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -641,7 +655,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -651,5 +665,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

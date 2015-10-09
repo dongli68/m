@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,21 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9F%A6%E9%93%B6%E5%8B%87%EF%BC%9A%E5%BD%93%E6%88%91%E7%96%AF%E7%8B%82%E6%97%B6-%E8%AF%B7%E8%AE%B0%E4%BD%8F%E5%BD%93%E5%88%9D%E4%BD%A0%E4%BB%AC/" target="cdt-mirror">【河蟹档案】当我疯狂时, 请记住当初你们是怎样把我当傻子耍的</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">任志强</a>：一个社会如果只能靠删除不同看法去维护统一思想的宣传，那就证明这个思想宣传已经到了弱不经风的程度了。<br><a href="https://freeweibo.com/weibo/3893598250170242" target="/weibo/389">2015年10月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E5%AE%87%E6%99%96_Huey">李宇晖_Huey</a>：其实美国搞的那个TPP（跨太平洋伙伴关系协议），其实也未必是为了跟包子国抗衡（我觉得美帝还没那个觉悟）。主要是人家要求的自由贸易的程度，中共接受不了。你光是文化产品就多少贸易壁垒？人家怎么跟你玩？光等着你低于正常成本倾销血汗产品，人家卖什么你都不让，怎么整？<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E8%B7%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%88%B0%E7%95%A5%E7%B6%93%E6%BF%9F%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82%E5%8D%94%E8%AD%B0">维基百科｜跨太平洋战略经济伙伴关系协议</a>（TPP）》</em><br><a href="https://freeweibo.com/weibo/3776089971103378" target="/weibo/377">2014年11月12日 </a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%A2%81%E8%A3%95%E6%9D%A5%E5%BE%8B%E5%B8%88">袁裕来律师</a>：【TPP,不是美国排斥，是中国不敢】银行、开发商、富豪、官员都要完蛋，房贷利率2%企业贷款率4%，哪家中国银行能存活？制造业大幅降低成本，中国人买到低70%的房子和汽车能不高兴？开发商和官员咋活？以美国为标准，中国90%以上的党政官员都要下岗。中国碰到一道了巨大难题。<a href="http://t.cn/RyQ3MZ2" target="_BLANK">http://t.cn/RyQ3MZ2</a>。<em> 相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%A2%99%E5%A4%96%E4%BB%99%EF%BC%9A%E6%9C%89%E7%A9%BA%E8%AF%B4%E4%B8%80%E4%B8%8Btpp/">墙外楼 | 墙外仙：有空说一下TPP</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/111.jpg" alt="111" width="548" height="400"></a><br><a href="https://freeweibo.com/weibo/3895928283210212" target="/weibo/389">2015年10月09日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【何以如此】昨天《金融时报》头版报道tpp，其中直接引用奥巴马的话：“我们不能容许如中国这类国家订立全球经济的规则。”在中国领导人刚刚结束国事访问之时，美国总统居然对中国发出如此狠话，令人有些不明就里，不知道哪里出了问题了。<br><span><a href="http://chinadigitaltimes.net/chinese/files/2015/10/4444.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/4444.jpg" alt="444" width="562" height="750"></a></span><br><a href="https://freeweibo.com/weibo/3895325032550288" target="/weibo/389">2015年10月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%BE%E9%94%81China">雾锁China</a>：韦银勇: 我杀人的时间快到了，是当地政府逼我这样做的。当我疯狂时，请记住当初你们是怎样把我当傻子耍的。<em>相关阅读｜《<a href="http://blog.tianya.cn/post-2517605-97989799-1.shtml">新浪博客｜谁把韦银勇逼上不归路？你必须说清楚！</a>》；《<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E5%BD%93%E4%B8%8A%E8%AE%BF%E4%BF%A1%E6%8D%A2%E6%88%90%E9%82%AE%E5%8C%85%E7%82%B8%E5%BC%B9/a-18759376">德国之声｜长平观察：当上访信换成邮包炸弹</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/444.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/444.jpg" alt="444" width="440" height="588"></a><br><a href="https://freeweibo.com/weibo/3893237007963271" target="/weibo/389">2015年10月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%8A%E5%AE%98%E4%BA%91%E5%BC%80%E8%AE%B0%E8%80%85">上官云开记者</a>：【柳州爆炸<img src="https://s.w.org/images/core/emoji/72x72/1f4a5.png" alt="</p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%90%B9%E7%89%9B%E4%B9%9F%E4%B8%8A%E7%A8%8E%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%B4%B9%E4%B8%AD%E5%9B%BD%E5%88%86%E6%91%8A%E6%AF%94/" target="cdt-mirror">【网络民议】吹牛也上税：联合国会费中国分摊比例上升</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/12/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BE%88%E8%A1%8C.jpeg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/12/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BE%88%E8%A1%8C.jpeg?resize=550%2C364" alt="中国人民很行" data-recalc-dims="1"></a><br><em>（当代水墨画 “中国人民很行” by 秃头倔人）</em></p>
@@ -582,28 +594,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%97%E5%88%B0%E7%8B%97%E7%B2%AE%E7%9A%84%E4%BA%94%E6%AF%9B%E5%92%8C%E6%B2%A1%E5%88%86%E5%88%B0%E7%8B%97%E7%B2%AE%E4%BA%94%E6%AF%9B%E4%B9%8B/" target="cdt-mirror">【立此存照】得到狗粮的五毛和没分到狗粮五毛之间的内部矛盾</a>
-</h2>
-<p><p>知名“爱国人士”胡杨麟，近日出人意料地在微博公开指责花千芳，称其在背后对他落井下石。他同时还道出了一句真相：“五毛就是这人品，哪怕是上过电视的也一个德行，为了骨头什么良心友情道德全是狗屁，见谁咬谁。”</p>
-<p>2013年，在《全世界人民都知道》新书签售会上，胡杨麟因<a href="http://chinadigitaltimes.net/chinese/2013/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%8D%96%E4%B9%A6%E4%B8%8D%E6%98%93-%E6%8C%A8%E6%8B%B3%E8%BA%B2%E5%88%80/">向李承鹏扔菜刀</a>而“一举成名”。</p>
-<p>与胡杨麟如今的失意相比，当年与他一同出现在签售会上并<a href="http://chinadigitaltimes.net/chinese/2013/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%9D%8E%E6%89%BF%E9%B9%8F%E5%8C%97%E4%BA%AC%E7%AD%BE%E4%B9%A6%E7%81%AB%E7%88%86-%E9%81%AD%E9%81%87%E6%AF%9B%E5%B7%A6%E6%8B%B3%E6%89%93%E5%8F%88%E6%89%94/">掌掴李承鹏</a>的“毛左人士”尹国明，近日倒是获得了共青湖南省委<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%B1%E9%9D%92%E6%B9%96%E5%8D%97-%E7%8C%AA%E9%98%9F%E5%8F%8B%E8%BF%98%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F/">在微博高调转载其文章的待遇</a>。</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%9C%89%E8%AF%81%E4%B9%A6%E7%9A%84%E5%BF%97%E6%84%BF%E7%BD%91%E8%AD%A6/">不要做无谓的抵抗了，我是有证书的志愿网警</a></p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F.png?w=550" alt="胡杨麟" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F2.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F2.png?w=550" alt="胡杨麟2" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F3.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%83%A1%E6%9D%A8%E9%BA%9F3.png?w=550" alt="胡杨麟3" height="" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/u/2344505093" target="_blank">胡杨麟</a>：当年<a href="http://weibo.com/n/%E8%8A%B1%E5%8D%83%E8%8A%B3?from=feed&loc=at" target="_blank">@花千芳</a> 参加文艺座谈会被领导接见后，我们都很兴奋，我马上高兴的在将他与习总握手的镜头拍下来发给他，祝他取得更大的成就，可是前段时间我被新浪禁言时他却联合 其他人渣一起攻击我，让我非常心寒，五毛就这人品，哪怕是上过电视的也一个德行，为了骨头什么良心友情道德全是狗屁，见谁咬谁。</p>
-<p><a href="http://weibo.com/2344505093" target="_blank">胡杨麟</a>：我一直与五毛共同斗公知，我以为虽然我们观点不完全相同，至少我们目前是战友，<a href="http://weibo.com/n/%E9%9B%B7%E5%B8%8C%E9%A2%96?from=feed&loc=at" target="_blank">@雷希颖</a> 对我的当众辱骂和<a href="http://weibo.com/n/%E8%8A%B1%E5%8D%83%E8%8A%B3?from=feed&loc=at" target="_blank">@花千芳</a> 对我暗中下绊子让我伤心又吃惊，公知还没完蛋呢，他们就嚣张跋扈到如此程度，搞屁股决定脑袋和顺我者昌逆我者亡那一套，他们的手段和伎俩与公知有什么区别！五毛之危害仅次于公知！</p>
-<p><a href="http://weibo.com/2344505093" target="_blank">胡杨麟</a>：发现丢了在【电视上】几个字，当时我把电视上的新闻用手机拍下来发给他，我们爱国者很兴奋，广为传播，毋庸置疑，那次文艺座谈会对泛左联盟来说是个极大的鼓舞，但没想到他们这些五毛会背后下黑手的整我们，很吃惊，也很气愤，后来见识了千侯爷的知识水平和<a href="http://weibo.com/n/%E9%9B%B7%E5%B8%8C%E9%A2%96?from=feed&loc=at" target="_blank">@雷希颖</a> 的骄横跋扈唯我独尊，就更加失望。</p>
-<p><a href="http://weibo.com/2344505093" target="_blank">胡杨麟</a>：就是条狗如果影响大他们都会捧。//<a href="http://weibo.com/n/%E4%B8%83%E6%A5%BC-sysu?from=feed&loc=at" target="_blank">@七楼-sysu</a>: 之前在海疆在线的时候，张忆安让我加花千芳QQ，花有文章发给我，要推送到网站上。我看了那个文，是讲国民待遇的好像，他去北京边检转了一圈发了个大国感 慨，有姿势没知识的那种文，就对主编张忆安反映文章太烂文笔太差。张冷着脸说，比你的有影响力就行。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2039624931" target="_blank">老康AT泥轰</a>：这才是<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">咬<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">呢</p>
-<p><strong><a href="http://weibo.com/n/%E6%8A%BC%E6%B2%99%E9%BE%99?from=feed&loc=at" target="_blank">押沙龙</a>: 胡杨麟可能是我见过的最孤独的流氓了，永远是这个节奏：“老朋友你怎么在这儿？好久没见了！等等我这就过去！……你别走，等等，是我呀，是你的朋友小胡呀！…你没听见？怎么还跑上了……你还跑？你个臭不要脸的，等我追上你……”</strong></p>
-<div><a href="http://weibo.com/5387784061" target="_blank">色鬼爱D</a>：最后一句亮了。这些狗现在内讧啊！好消息，赶紧相互咬，咬不过瘾的话就给你们这些狗日的发枪，一次性全部歼灭最好！！<a href="http://weibo.com/n/%E5%91%A8%E5%B0%8F%E5%B9%B3%E5%90%8C%E5%BF%97?from=feed&loc=at" target="_blank">@周小平同志</a> 得批评你的这些伙伴，太不体面了，怎么公开撕咬啊！<img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></div>
-<p><a href="http://weibo.com/darkyaya" target="_blank">Dark鴨鴨</a><i title="微博达人"></i>：菜刀胡 一嘴毛 何必呢 同一个kennel出来的兄弟 以大局为重 以祖国为重啊同志 <img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><strong>@何必猜我会是谁：不过是得到狗粮和五毛和没分到狗粮的五毛之间的内部矛盾。</strong></p>
-<p>@great_soul：之前献殷勤那时候想什么呢?你想表达以前当五毛是错误的?</p>
-<p><a href="http://weibo.com/2766074417" target="_blank">大切格瓦拉</a>：你们不是一个爹么？怎么还分派了？<img src="https://s.w.org/images/core/emoji/72x72/1f436.png" alt="</p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -615,7 +605,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -625,5 +615,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

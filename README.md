@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%90%B9%E7%89%9B%E4%B9%9F%E4%B8%8A%E7%A8%8E%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%B4%B9%E4%B8%AD%E5%9B%BD%E5%88%86%E6%91%8A%E6%AF%94/" target="cdt-mirror">【网络民议】吹牛也上税：联合国会费中国分摊比例上升</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/12/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BE%88%E8%A1%8C.jpeg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/12/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BE%88%E8%A1%8C.jpeg?resize=550%2C364" alt="中国人民很行" data-recalc-dims="1"></a><br><em>（当代水墨画 “中国人民很行” by 秃头倔人）</em></p>
+<p><strong><a href="http://www.bjnews.com.cn/news/2015/10/09/379837.html">新京报｜联合国要涨中国“份子钱”，中方为什么反对？</a></strong></p>
+<blockquote><p><strong>中国分摊比例或升至第3位</strong></p>
+<p>[…]据此前外媒报道，根据联合国会费委员会的建议，2016年至2018年的联合国会费中，中国的分摊比例将从第6位上升至第3位，分摊比例从5.148%上升到7.92%。日本的分摊比例为9.68%，仍然位居第二位。[…]<br>
+2015年，联合国的常规预算是29亿7626万7900美元。其中，中国缴纳会费1亿5321万8271美元，分摊比额为5.148%，名列第六位。前五位分别是美国22%、日本10.833%、德国7.141%、法国5.593%和英国5.179%。</p>
+<p><strong>中方不接受超支付能力的算法</strong></p>
+<p>8日，王民大使表示，应继续按照支付能力原则分摊经常预算，希望大家客观看待中国的支付能力，<strong>反对任何在经常预算比额方面把中国同其他发展中国家区别对待的做法</strong>，不会接受超出中国支付能力的计算方法。<br>
+王民说：“在衡量支付能力方面，要充分考虑各国经济发展水平的差异，<strong>不能只看到一些发展中国家经济发展势头好的一面，夸大其实际支付能力，忽视其人均收入与发达国家的巨大差别</strong>。在体现支付能力原则方面，要继续坚持‘低人均收入宽减’和债务调整这两个要素。”<br>
+[…]发言的最后，王民表示：“只要计算方法公平、公正、合理，作为一个负责任的发展中大国，中国愿意承担应尽的财政义务，并在维和摊款方面继续担负起作为安理会常任国的特殊责任。该缴纳的费用，中国会及时、足额缴纳，一分都不会少。”</p></blockquote>
+<p>中国网民纷纷表示，负责任的大国，不差钱。</p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%8D%E9%99%A4%E5%A4%96%E5%80%BA%E6%98%AF%E7%A9%B7%E5%A4%A7%E6%96%B9%EF%BC%9F-5%E4%BA%8B%E5%AE%9E%E4%BD%A0%E5%BE%97/">人民日报｜中国免除外债是“穷大方”？ 5事实你得知道</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A6%82%E6%9E%9C%E8%88%8D%E4%B8%8D%E5%BE%97%E5%A4%96%E6%8F%B4-%E6%A0%B9%E6%9C%AC%E5%B0%B1%E6%B2%A1%E6%B3%95%E5%9C%A8%E5%9B%BD/">环球时报｜中国的如果舍不得外援，根本就没法在国际社会混</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%B8%8E%E5%9B%BD%E9%99%85%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/">BBC｜吴祚来：习近平访美与国际合法性问题</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/10/%E4%BF%A1%E5%8A%9B%E5%BB%BA-%E5%9C%9F%E8%B1%AA%E5%9B%BD%E7%9A%84%E5%AF%B9%E5%A4%96%E6%8F%B4%E5%8A%A9%E5%8F%B2/">信力建 | 土豪国的对外援助史</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/n/%E5%90%B4%E6%9C%89%E6%B0%B4%E5%BE%8B%E5%B8%88?from=feed&loc=at" target="_blank">吴有水律师</a>: 咱是负责任的大国，这钱，不给！<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3268590721" target="_blank">王渐渐不是王贱贱</a>：会缺这点钱？！贪官少贪点 少包养几个小三就好了啊<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/fangguofeng0579" target="_blank">宫本笑外</a><i title="微博个人认证 "></i>：中国免除了那么多外债，中国在联合国每年的份子钱是1亿多美元，涨这么一点都这么小气，给非洲免了多少了，用钱买感情。别扯人均，既然扯那就国家财政发钱啊，人均啊。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">中国在联合国代表的是一个国家，就按照一个国家的经济来。</p>
+<p><a href="http://weibo.com/2986768284" target="_blank">悦动我訫</a>：别国都是装泻，我朝居然当股市拉升了 <img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p>@迷迷啊迷迷：吹牛上税，天天去黑非洲装大款也是活该</p>
+<p>@wuyue20012：不是总说是“负责任的大国”么？这回人家当真了。</p>
+<p>@行健的小屋_1：“中国经济总量大，但人均水平低，属于不折不扣的发展中国家。这是……评估中国支付能力的重要依据。”麻痹，在宣传论证执政成就、人民幸福生活时你们就说总量，咱们全世界第二！当你要他承担责任的时候他就给你说人均……既然你说天朝是发展中国家，那领 导人出去访问时怎么就像傻子一样满世界撒钱？</p>
+<p>@颜鹤鸣：免去这个利息，免去那个还款，出来装B总要还的。嘚瑟吧再，人家看你出手大方，涨价了吧。说给不起吧没没面子，说不给吧，没理由，说给吧，确实扇自己耳光。自作孽吧就</p>
+<p>@天下平2012：这是到处撒银子的炫富做法引来的必然结果</p>
+<p>@江西证券网：谁让平常看充大头，到处说不差钱！</p>
+<p>@布剪子：有钱去免贷款，没有钱掏份子钱？</p>
+<p>@faceandbook：争夺话语权时说自己是世界第二大经济体，要求别人承认自己老二的地位。缴费时说人均，要求别人认为自己排名垫底90后小弟，这事办的要滴水不漏。</p>
+<p>@痴情单恋一枝花：收费要和国际接轨哦</p>
+<p>@草木争春：日本怪不得要入常，人家交的钱多啊</p>
+<p>@尝尽似水流年：国内一群人嘲笑美国欠会费，从没问过各国承担的比例是多少。。。</p>
+<p>@Mr_罗小白：天天吹自己经济马上超过美国要成世界第一，吹大发了吧</p>
+<p>@西海散人：没事，俺们有的是钱，应该拿世界第二。</p>
+<p>@这可要了亲命了：没钱你大手大脚办奥运</p>
+<p>@gjpxy_38710：除了国内不能给其他都不叫事</p>
+<p>@mitsunoyui：你国又想霸着一票否决权，又不想出钱，让人很难办啊</p>
+<p>@Storying：董事长不是到处免债吗？怎么，牛屄吹不动啦！好啦，庆丰包子送过去当联合国餐点主食。</p>
+<p>@ONLY_MR：但是如果还是长了，如果也欠费了，还仲么笑话美帝尼？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%90%B9%E7%89%9B%E4%B9%9F%E4%B8%8A%E7%A8%8E%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%B4%B9%E4%B8%AD%E5%9B%BD%E5%88%86%E6%91%8A%E6%AF%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%B7%AE%E9%92%B1/?category=18271" rel="tag">不差钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%8F%B4%E5%8A%A9/?category=18271" rel="tag">国际援助</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">大国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8F%B4%E5%8A%A9%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">援助非洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%BD%93/?category=18271" rel="tag">第二大经济体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%92%B1%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">金钱外交</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%83%A1%E4%BD%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%B2%A1%E6%9C%89%E6%B3%A2%E5%B3%B0%EF%BC%8C%E5%8F%AA%E6%9C%89%E6%B3%A2%E8%B0%B7/" target="cdt-mirror">德国之声｜胡佳：中国人权“没有波峰，只有波谷”</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/015740059_30300.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/015740059_30300.jpg?resize=575%2C324" alt="仍在狱中的刘晓波缺席2010年诺贝尔和平奖颁奖仪式" data-recalc-dims="1"></a><p>仍在狱中的刘晓波缺席2010年诺贝尔和平奖颁奖仪式</p></div>
@@ -555,62 +604,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 <p><a href="http://weibo.com/2766074417" target="_blank">大切格瓦拉</a>：你们不是一个爹么？怎么还分派了？<img src="https://s.w.org/images/core/emoji/72x72/1f436.png" alt="</p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%91%A6%E5%91%A6%E8%AF%BA%E5%A5%96%E5%90%8E-%E4%BA%BA%E4%BA%BA%E6%9C%89%E8%AF%9D%E8%AF%B4/" target="cdt-mirror">端传媒 | 呦呦诺奖后 人人有话说</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/219841ca951c4e0abee42519b7cedd2f.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/219841ca951c4e0abee42519b7cedd2f.jpg?resize=600%2C400" alt="2011年11月15日，屠呦呦獲中國中醫科學院2011年科技工作大會授予中國中醫科學院杰出貢獻獎。" data-recalc-dims="1"></a><p>2011年11月15日，屠呦呦獲中國中醫科學院2011年科技工作大會授予中國中醫科學院杰出貢獻獎。</p></div>
-<p><strong>10月5日中国女药学家屠呦呦获得诺贝尔生理学或医学奖的消息，成为当日大陆媒体新闻最大的热点。在一片喝彩声中，亦夹杂着各方争议。</strong></p>
-<p>5日傍晚时分，中国大陆各家官方媒体和门户网站都在第一时间对中国科学界终于扬眉吐气获得世界科学最高奖表达欣喜，媒体关注的角度各有不同，大多并没有超出一贯的官方媒体惯性反应。</p>
-<p>而此番中医药学家获奖，是否意味着在中国多年来饱受质疑的中医，实现了绝地反击，让业内和坊间争吵得不亦乐乎。媒体、医药学界内人士和时评家们热烈讨论：灵药青蒿素的发现，是屠呦呦个人的荣誉，还是集体智慧的结晶？</p>
-<p>甚至进而有媒体质疑，生于1930年的大陆药学家屠呦呦，因在文化大革命期间的科研攻坚中发现了抗疟疾灵药——青蒿素，40多年之后，荣获了诺贝尔生理学或医学奖。而至今仍未能当选中国科学院院士，若不是近几年屠呦呦连获国际大奖，她的名字，几乎注定被淹没在49大陆建政以来无数科学工作者的花名册中。</p>
-<p>连一向发言谨慎的官媒《人民日报》，也在祝贺之余，称屠是“三无教授”(没有博士学位、留洋背景和院士头衔)，进而对大陆科学界的的院士评选制度提出了质疑。</p>
-<p>这些争议既有中国科学界一贯基于中国社交文化特色而阐发的对个人明星与集体智慧的微妙表态，也有对中医是否因此可以扬眉吐气的猜测，亦有对长久以来中西医孰优孰劣的更深入争论。当然，与屠呦呦本人有关的一切细节，都如洪水般抽刷着大陆网友的手机屏幕。</p>
-<p><strong>中药的灵感、西药的胜利？</strong></p>
-<p>在获奖之后的舆论热潮中，最醒目的争论是关于中西医的讨论。在大陆医学界，中医是否是科学，药品是否有效，几十年来争论从未停止。包括此次获奖药品青蒿素是否是中药，该药获奖是否证明是中药的胜利，也是众说纷纭，进一步激化了多年持续的中西医之争，并可预计在此后相当时间里必被媒体和业界热炒。</p>
-<p>来自屠呦呦家乡的报纸《钱江晚报》报导， 浙江省中医院中药房主任郑敏霞评价，这次屠呦呦获奖的青蒿素是黄花蒿中的抽提物，也是中医药理教科书里的经典案例。</p>
-<p>“屠呦呦获诺贝尔奖，让我们看到中药是有用的，也是得到世界公认的。”郑敏霞主任表示，“中医药作为祖国的精华，屠呦呦的获奖会激励更多的年轻人去学中药药理，也鼓舞更多的人去研究中医，这也增强了自己的信心，中医药师们看到了中医药的前途和光明。”</p>
-<p>而财新网的报导通过采访海军总医院退休专家、药品评审专家孙忠实认为，这不能看作是对中药的承认，只能说是对植物药提纯的成功。</p>
-<p>孙忠实称，大多数药物都是从自然界提取出来的，包括植物、动物、矿物，而青蒿素可以说是对植物药的提纯和成功，这和中药不完全一样，“只能说是我们国家的药物学家从植物药中提取了有效成分，达到了重要的目的。”</p>
-<p>孙举例称，这和从麻黄中提取麻黄素治疗哮喘，从颠茄、曼陀罗、莨菪等植物中提取阿托品，从罂粟中提取吗啡，都是类似的，都不能说它们是中药，而是植物药。</p>
-<p>从事天然药物研究的复旦大学药学院副教授俞培忠认为，青蒿素获奖对于中药的发展意义不大。但是对于中药西化的有一定刺激作用。</p>
-<p>他认为，青蒿素可以说是中药西化的典型，通过中药西化，可以发现更多新药，实现药物的多样性。“而且这个结果做的非常早，发现本身是非常重要的。”</p>
-<p>大陆知名科技网站——果壳网主笔游识猷评论说：从两千余种中药方剂里，最终找出一种植物提取物，再从这种植物含有的数以百计的化合物里，找出一种化学分子——这明明是高通量筛选的胜利啊。</p>
-<p>这家在大陆科技粉丝中具有巨大影响力的网站消息上，援引了诺奖委员会委员、瑞典卡罗琳斯卡医学院教授弗斯伯格（Hans Forssberg）在颁奖现场的发言，强调青蒿素获奖并不意味着西方科学对古代医学系统或替代医学系统的看法发生了变化。</p>
-<p>“我们不是把本届诺奖颁给了传统医学，而是把奖项颁给了被传统医学‘启发’而创造出新药的研究者。”</p>
-<p>而中科院植物学博士飞雪之灵（网名）在微博发帖反驳称：中医理论依然和科学不相容。因为屠呦呦使用的技术和方法都依然是在科学的方法论下进行的。唯一和中医有交集的，是最初灵感来源于中医古籍，“我反对将中医理论称为‘科学’、反对中医理论和由其指导的手段继续存在现于行医疗体系中、反对未经充分药毒理验证的中药上市使用。这也是废医验药的主要内容。至于退出现行医疗体系的中医是做替代疗法还是文化遗产，都没问题，甚至还表示支持。”</p>
-<p>时评人石述思发表评论说：屠呦呦获诺奖令人惊叹。</p>
-<p>“这是第一个自然科学领域诺奖，她是土生土长未出国不会英语的科学家，成果来自混乱艰苦的七十年代，之后多年屡战屡败终未获院士，从未发表过SCI论文(国际期刊)，更关键的她竟是中医科学家。不知那些天天将中医说成伪科学的大仙该如何是好？”</p>
-<p>网友DreamReaver 在新浪微博上回帖称：（青蒿素的发现）其实和中医没关系，是通过西医手段从中药记载中提取有效成分。青蒿素并不是一种中药，甚至连中成药都不是。屠呦呦也不是中医。选择、验证、提取过程也都不参考中医理论。这是废医验药最好的例证。</p>
-<p>截至10月6日中午，DreamReaver 的这段回复在新浪微博上得到了近500个“点赞”。</p>
-<p>科普作家方舟子亦对石述思的观点进行了批驳。他讥刺石述思发明了一个词儿——“中医科学家”。</p>
-<p>方认为青蒿素是化学药，也就是所谓的西药，研究方法也是现代医学方法，关中医什么事？他建议石对“自己完全不懂的东西少说几句。”</p>
-<p>方舟子称，中医药对发现青蒿素的“启发”作用，类似于传说中苹果落地对牛顿发现万有引力、做梦对凯库勒发现苯环结构的“启发”作用，如果因此说中医药对人类健康事业作出巨大贡献，是不是也要说苹果对人类物理学事业、做梦对人类化学事业作出巨大贡献？</p>
-<p>早在2011年9月，屠呦呦获拉斯克临床医学奖后，方舟子就在中国青年报上发表过文章《青蒿素和中药有多大关系？》</p>
-<p>文章认为，国内有的媒体在报导这一事件时把青蒿素称为中药，并说它让人们重新燃起中药创新的希望。其实青蒿素不是中药，而是从植物中提取的成分单一、结构明确的化学药。有很多化学药最初都是以植物为原料提取或合成的，例如阿司匹林、达菲，我们不能因此就说它们是中药。</p>
-<p><strong>个人主义Vs集体主义</strong></p>
-<p>而舆论中的另一有趣亮点，则更加具有中国特色。获奖到底是屠呦呦一人的荣誉还是集体主义的胜利，引发从官方媒体到医药科学界各方发声。也有媒体挖出屠2011年获得拉斯克奖后在医学界引发的争议，亦有对其个人行事风格和研究水平的质疑。</p>
-<p>5日获奖消息传出，中国科学院院长白春礼代表中国科学院和中国科学院学部主席团，给屠呦呦发出贺信，称“屠呦呦获奖是中国科学界的骄傲，将激励更多中国科学家不断攀登科学高峰”。</p>
-<p>10月6日中央电视台（CCTV）午间新闻播出采访屠的视频，引用女药学家自己的话说：“这是中国科学家集体的荣誉”。国务院总理李克强5日也向屠呦呦的工作单位国家中医药管理局致信表示祝贺。李克强说“屠呦呦获得诺贝尔生理学或医学奖，是中国科技繁荣进步的体现，是中医药对人类健康事业作出巨大贡献的体现，充分展现了我国综合国力和国际影响力的不断提升。”</p>
-<p>《人民日报》昨日发表评论，称年过八旬的中国药学家屠呦呦，凭借“拯救全球数百万人生命”的青蒿素，迎来“迟到的荣誉”，中国科学家首获诺贝尔医学奖，这是个人的荣耀，也是集体的荣光。</p>
-<p>《环球时报》在社论中提到，屠呦呦2011年获拉斯克奖后，中国相关领域就有争论。由于屠呦呦是在国家攻关项目中取得的成绩，其他人和小组同样功不可没。有人认为应当奖励集体而不是突出一个人。甚至关于谁对青蒿素的发现“贡献最大”，也有不同看法。这样的“集体主义荣辱观”与诺奖颁给屠呦呦个人也让人感到了差异。</p>
-<p>《科学学研究》2015年第33卷的一篇论文《科学奖励中的个人与集体——以青蒿素获奖引发争论事件为例》对此亦做了长篇论述。</p>
-<p>该文分析称，从价值取向看，中国科学更注重和承认“集体主义”，美国科学奖励（以屠所获拉斯克临床医学奖为例）更注重独创性和个人发现优先权的“个人主义”，并认为两种奖励制度各有优劣。</p>
-<p>1996年，青蒿素所获得的大陆“杰出科技成就集体奖”，屠呦呦与其他九人一起获奖，十人均分一百万元奖金，在得奖人名排序中，屠位居第七位。</p>
-<p>论文称，523任务是中国举国科研、军民大联合的结果，青蒿素发现前，其他项目组成员做了累积性的、试错和探索性的贡献，更重要的是中药小组的其他重要合作单位如中国科学院上海有机所、中国科学院生物物理研究所等所做的贡献都不容忽视和否认。</p>
-<p>“集体在场”的观念大陆科学界根深蒂固。在西方人看来，这可能与维护个人发现优先权与这样的观念相违背，而在大陆，突出“个人在场”或会引起同行的不满与反感。</p>
-<p>1996年8月31日，屠呦呦在求是科学基金会的颁奖仪式上按规定简单汇报了青蒿素及双氢青蒿素的研制历程，就遭到了一些人的诟病，认为她的报告太过凸显自己的在青蒿素发现过程中的作用。</p>
-<p>而在中国的中医药学界，业界同仁对屠呦呦的个人行事风格存在着颇多批评，屠一获奖，表达这些业内的争议之声的文章开始被挖出并在社交媒体上传播。</p>
-<p>屠呦呦获得拉斯克医学奖后，《纽约时报》2012年1月发表长篇文章，披露当拉斯克奖授予研发青蒿素数百人员中一人的时候，一些中国和世界的疟疾研究者被激怒了。 文章说，青蒿素的发现被认为是在对抗疟疾过程中的重大成就，也被认为有实力获得诺贝尔奖。但是，“几乎没有人意识到青蒿素的发现应感谢毛泽东。”毛泽东为了帮助和美军打丛林战的越南军队治疗疟疾，而号召研制青蒿素药物。文章还提到了军事医学科学院教授周义清、广州中医药大学教授李国桥、中科院上海药物研究所研究员李英等对青蒿素发现的贡献。</p>
-<p>此文昨日被多家微信公号挖出，并在社交媒体被广泛转载。</p>
-<p>北京大学生命科学院前院长饶毅虽然认为屠的获奖名至实归，但也指出了后者的一些缺点。</p>
-<p>“我希望，中国大众不能简单地英雄崇拜，认为他们（指青蒿素科研团队）是完人。他们不是，也没有人是。他们的性格也非人人要学习的榜样。我自己和屠呦呦交流也觉得有一定困难，特别是不欣赏她把中医研究院的原始材料都收藏在自己家，不交出来给研究院，也不给我们看。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%91%A6%E5%91%A6%E8%AF%BA%E5%A5%96%E5%90%8E-%E4%BA%BA%E4%BA%BA%E6%9C%89%E8%AF%9D%E8%AF%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">中医研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8D%AF/?category=18271" rel="tag">中药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E6%B0%A2%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">双氢青蒿素</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E4%B9%99%E9%86%9A/?category=18271" rel="tag">青蒿乙醚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E8%92%BF%E7%B4%A0/?category=18271" rel="tag">青蒿素</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -622,7 +615,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -632,5 +625,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

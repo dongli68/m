@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%BB%B6%E5%AE%89%E7%BA%A2%E8%89%B2%E6%97%85%E6%B8%B8%E5%8D%87%E6%B8%A9%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%92%E9%98%9F%E5%9C%B0%E6%8E%A8%E4%B8%BB/" target="cdt-mirror">【真理部】延安红色旅游升温习近平插队地推“主席套餐”</a>
+</h2>
+<p><p>全网查删中新网《延安红色旅游升温习近平插队地推“主席套餐”》一文。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<p>附：　《延安红色旅游升温习近平插队地推“主席套餐”》　</p>
+<p>中新網延安10月7日電 (冽瑋 高慶國)2015年春節前夕，中共中央總書記、中國國家主席習近平赴陝西考察調研，第一站到延川縣文安驛鎮梁家河村看望鄉親。目前，梁家河已成為延安紅色旅游的重要一站，“十一”黃金周期間，日均接待游客逾3000人次。</p>
+<p>　　坐落於黃土高原的延安市延川縣梁家河村，原本是個默默無聞的小山村，46年前，習近平在此開始了他艱苦卻受益終生的插隊歲月。據村史館管理員石玉興介紹，這幾年，每年都有近10萬游客慕名來參觀。今年長假期間，外地散客大幅增長，以闔家自駕游為主。</p>
+<p>　　7日一早，在梁家河村村口，停滿各地牌照的大小車輛，旅游景點常見的電瓶擺渡車將游客送往村中參觀。崖畔間閃現著“土雞蛋”“農家樂”等匾牌，農戶售賣陝北小吃與紅棗等土產。</p>
+<p>　　在習近平當年的入黨介紹人梁玉明家，游客們爭相品嘗“主席套餐”，一桌價格為860元人民幣，每天約售出20桌，套餐主要包括油旋、年糕、麻湯飯、燉羊肉、洋芋叉叉、蕎麥□□等。</p>
+<p>　　“那天習總書記在俺家吃飯，第一個菜是豆錢錢飯，他說當年這不是好飯，但很有營養。還准備了他愛吃的醃酸菜，他吃了不少。”梁玉明表示，梁家河興起紅色旅游後，村里增加了就業機會，許多在外打工的村民返鄉辦農家樂，從事擺渡車司機、保安、服務員等職業。</p>
+<p>　　據悉，梁家河村正在籌劃發展深度鄉村文化旅游，改善交通住宿環境，完善村莊綠化。(完)</p>
+<p>(內容由新浪北京提供。未經授權，不得轉載。)</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%BB%B6%E5%AE%89%E7%BA%A2%E8%89%B2%E6%97%85%E6%B8%B8%E5%8D%87%E6%B8%A9%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%92%E9%98%9F%E5%9C%B0%E6%8E%A8%E4%B8%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%8E%8B%E5%AE%87%E7%8B%AC%E5%AD%90%E5%8C%85%E5%8D%93%E8%BD%A9%E5%9C%A8%E7%BC%85%E7%94%B8%E8%BE%B9%E5%A2%83%E8%A2%AB%E8%AD%A6%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">自由亚洲｜王宇独子包卓轩在缅甸边境被警带走</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image2.jpg" alt="image" width="575" height="329"></a><p>王宇16岁的儿子包卓轩。（图片：维权网）</p></div>
@@ -619,30 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E6%90%9E%E5%AE%9Atpp%E5%A5%A7%E5%B7%B4%E9%A6%AC%E5%85%88%E8%A6%81%E5%B9%B3%E5%AE%9A%E3%80%8C%E5%85%A7%E4%BA%82%E3%80%8D/" target="cdt-mirror">信报｜搞定TPP奧巴馬先要平定「內亂」</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/10/141010015902_capitol_building_624x351_reuters.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/10/141010015902_capitol_building_624x351_reuters.jpg?w=550" alt="美国国会" height="" data-recalc-dims="1"></a></p>
-<p>《跨太平洋夥伴關係協定》（TPP）這個東西，被不少人視為未來美國遏制中國的一個重要手段——這個正在談判中的自貿區協定有12個成員，幾乎涵蓋環太平洋國家，獨獨缺了中國。</p>
-<p>而對於正在竭盡全力推動這項談判的奧巴馬政府來說，目前最重要的工作，是要力爭國會兩院通過「快速通道授權」（fast-track）的提案。 這個提案又稱「貿易促進授權法」（Trade Promotion Authority)，授權總統進行國際協議談判，達成協議後，國會只能表決「同意」或「否決」，而不能修改協議或進行拖延不表決使之流產。 因此奧巴馬政府如獲得此授權，將大大打消其他談判國對美國國內因素的擔憂，從而促使TPP最終談判成功。</p>
-<p>奧巴馬非常想把TPP當成自己的歷史功績，在這個問題上可謂不遺餘力。但是撇開國際上談判國政府的擔心和民間的反對不說，奧巴馬在國內也面臨著強勁的反對，隨著「快速通道」議案在國會表決日期臨近，這個反對已成風暴式發展。</p>
-<p>需要注意的是：這次反對，不是來自奧巴馬的對手政黨美國共和黨，而是來自他自己的民主黨和它的支持者。</p>
-<p>來自民主黨內部的反對是很有道理的：一方面，支持「自由貿易」一貫是共和黨的理念，是大公司的所喜歡的。然而民主黨的理念即使不能說反對自由貿易，起碼也是不支持，而民主黨的選民基礎，比如各行業工會，以及低收入行業的民眾，對自由貿易「搶走」自己的工作機會，一直都非常痛恨。另一方面，TPP談判一直都是秘密進行的，缺乏民主社會所需要的透明性。民眾只知道談哪些內容，大概有什麼爭議，對具體條款卻不清楚，因此對這種「秘密」非常反感。</p>
-<p>鑑於來自內部反對之激烈，《經濟學人》刊文說，奧巴馬要想搞定TPP，需要和他的民主黨「攤牌」！</p>
-<p>看一看美國關於TPP的爭論，大概知道《經濟學人》此言非虛。</p>
-<p>民主黨內重量級的政治人物的表態很「嚴峻」。哈里．雷德、查爾斯．舒默、南茜．佩洛西和伊麗莎白．沃倫可謂代表。</p>
-<p>雷德是參院民主黨領袖，他說在他三十多年的政治生涯中，沒有支持過任何貿易協議，這次也不會；來自紐約州的舒默一直是民主黨內大佬，活躍在各個領域，他也立場鮮明地反對TPP；佩洛西是民主黨眾議員領袖，她稍微溫和一些，說在這個問題上「不會支持」奧巴馬；沃倫是民主黨參議員中風頭很勁的「新銳」，已經66歲的她本是哈佛法學院教授，一直為公平和中產階級呼籲，2012年她宣布競選代表馬薩諸塞州的聯邦參議員，擊敗了共和黨的新銳斯科特．布朗，一時聲名鵲起，被人視為2016總統寶座有力競爭者。沃倫明確宣布自己不參加總統競選，但她利用自己的影響，在反對秘密談判、維護勞工權益等方面，給奧巴馬的TPP之夢製造很大障礙。</p>
-<p>美國很多城市行動也很「嚴峻」。 華盛頓、舊金山、西雅圖、紐約、匹茲堡以及「全美各地的城市」，都紛紛成立各種組織，不僅民間，而且是市政委員會出面，成立組織反對TPP的談判。紐約市長白思豪（有媒體稱他現在自封為「進步運動」的領袖）稱TPP是個「糟糕的交易」，紐約市官員還考慮是不是要通過決議把紐約變成「禁TPP區」。</p>
-<p>更不用說，一直反對「自由貿易」美國工會勢力，此時更是120%地要豁出去。美國勞聯—產聯（即美國勞工聯合會—產業工會聯合會，AFL-CIO）不僅旗幟鮮明反對TPP，而且發表文件，列舉美國北美自貿區以來，美國工作崗位的損失；又列舉具體事例，稱奧巴馬政府「要求外國政府遵守貿易規則」的承諾不可能兌現。而需要注意的是，工會一直是民主黨的重要票倉，任何一個民主黨候選人，只要他選區內有工會勢力，那是不敢輕易得罪工會的。</p>
-<p>面對民主黨和自由派的這些強烈反對，美國的共和黨和保守派倒是站出來了。 共和黨人倒是比較支持TPP，而保守派媒體如《華盛頓時報》（不是自由派的《華盛頓郵報》）和《紐約郵報》（不是大名鼎鼎的自由派報紙《紐約時報》）紛紛撰文呼籲，「民主黨人，請不要給奧巴馬總統製造障礙」——一時讓人還以為奧巴馬是共和黨籍的總統呢！</p>
-<p>當然，全球化、自由貿易和反全球化、反自由貿易雙反各有自己的理由，而且誰也說服不了誰，畢竟全球化和自由貿易中，獲益的人群不相同，因此可以永遠爭論下去。 但對於奧巴馬來說，目前最要緊的，是如何平定內亂，搞定TPP。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BF%A1%E6%8A%A5%EF%BD%9C%E6%90%9E%E5%AE%9Atpp%E5%A5%A7%E5%B7%B4%E9%A6%AC%E5%85%88%E8%A6%81%E5%B9%B3%E5%AE%9A%E3%80%8C%E5%85%A7%E4%BA%82%E3%80%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">tpp协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -654,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -664,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

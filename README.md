@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%AE%8F%E5%A4%A7%E7%9A%84%E9%98%85%E5%85%B5%E5%BC%8F-%E5%86%B7%E6%B8%85%E7%9A%84%E5%98%89%E5%AE%BE%E5%8F%B0/" target="cdt-mirror">德国之声｜宏大的阅兵式 冷清的嘉宾台</a>
+</h2>
+<p><p><strong>这应该是朝鲜有史以来最大的庆典，它同时包含了处于孤立之中的平壤政府发给世界和朝鲜民众的讯息：金氏王朝政权稳固，军事实力不容小觑。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018774332_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018774332_30300.jpg" alt="0,,18774332_303,00" width="575" height=""></a></p>
+<p>（德国之声中文网）”朝鲜劳动党万岁”，一条飘舞在金日成广场上方、由大气球拉起的横幅上写道。广场周边的大楼也挂满了满是红色的锤子和镰刀的党旗，以及朝鲜蓝、白、红三色的国旗。</p>
+<p>除了正式的阅兵队伍外，位于平壤市中心的金日成广场在这个周六是一片色彩的海洋，数万人挥舞着手中的花朵和彩旗。</p>
+<p>据朝中社报道，周六凌晨，金正恩已经前往金日成、金正日陵墓所在的锦绣山太阳宫，向其祖父和父亲致敬。</p>
+<h3><b>阅兵现场</b></h3>
+<p>在电视直播中，金正恩穿着标志性的中山装，走下红毯，接受军仪队司令官的敬礼。刚刚，成千上万的士兵踢着正步进入了平壤金正日广场。</p>
+<p>金正恩走上一个主席台，朝着军队挥手。这场阅兵式没有世界首脑参加，朝鲜的传统盟友<a href="http://www.dw.com/zh/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E9%87%91%E6%AD%A3%E6%81%A9-%E6%9C%9D%E9%B2%9C%E5%BA%86%E7%A5%9D%E5%8A%B3%E5%8A%A8%E5%85%9A70%E5%91%A8%E5%B9%B4/a-18774174">中国派出了中共中央政治局常委、中央书记处书记刘云山</a> 。</p>
+<p>刘云山站在金正恩的左边鼓掌，右边则是朝鲜高官。在金正恩通过翻译与刘云山交谈时，金笑容满面。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018774206_40300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018774206_40300.jpg" alt="0,,18774206_403,00" width="575" height="324"></a></p>
+<p>在庆典的电视讲话中，金正恩说朝鲜已经做好了”与美国进行任何形式战争”的准备。</p>
+<p>“（朝鲜劳动）党的革命性武器手段意味着我们做好迎接由美帝国主义发动的任何战争的准备”，金正恩在这个以他祖父名字命名的广场上说。</p>
+<p>对于这类语调，人们并不陌生。朝鲜经常谴责美国、韩国方面的军事对策是在为战争作准备。</p>
+<p>金正恩发言后，各方队入场：先是身着象征抗日战争期间革命力量的方队，然后是坦克方队和其他军事力量。武器装备方面，除坦克外，装甲车、火箭发射器和多种弹道导弹也在展示的行列。</p>
+<p>四天前拍摄的演习卫星图片已经透露了这次阅兵的规模–800顶帐篷、700辆卡车、200辆装甲车，而执政高层在二月宣布此次阅兵的”宏大规模”时，强调了适合现代战争的”前沿”武器装备的重要性。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018774334_40300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018774334_40300.jpg" alt="0,,18774334_403,00" width="575" height=""></a></p>
+<h3><b>当今朝鲜</b></h3>
+<p>平日安静而孤立的平壤在这个周六人声鼎沸，到处充斥着游客、国际媒体、生活在海外的朝鲜族代表团以及一些要研究朝鲜政治理念的无名俄罗斯、蒙古团体。</p>
+<p>一些外国分析人士表示，如此大张旗鼓地庆祝此次建党70周年庆典标志着，金正恩正试图建立他自己在党和军队中的地位。尽管金正恩、朝鲜劳动党和人民军大权在握，但是朝鲜不同国家部门之间的力量平衡非常微妙，保持其平衡是维持金氏政权稳固的关键。</p>
+<p>朝鲜目前维持”军事第一”的政策，称需要凭此对抗韩国和美国方面的威胁。然而近来，朝鲜官员们也开始强调<a href="http://www.dw.com/zh/%E5%B9%B3%E5%A3%A4%E5%8D%8E%E4%B8%BD%E7%AD%B9%E5%BA%86%E5%85%B8-%E4%B9%A1%E9%97%B4%E5%9B%B0%E8%8B%A6%E8%B0%81%E9%97%AE%E6%B4%A5/a-18766050">提高人民生活水平</a> 。在周年庆典前，朝鲜媒体赞誉有加地报道，该国启动了大规模建设与发展项目。这其中包括新的水力发电站和高层公寓楼。</p>
+<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%AE%8F%E5%A4%A7%E7%9A%84%E9%98%85%E5%85%B5%E5%BC%8F-%E5%86%B7%E6%B8%85%E7%9A%84%E5%98%89%E5%AE%BE%E5%8F%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1/?category=18271" rel="tag">刘云山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%87%91%E5%A4%A7%E5%A4%A7%EF%BC%8C%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/" target="cdt-mirror">【网络民议】金大大，这盛世，如你所愿</a>
+</h2>
+<p><p><strong><a href="http://news.ifeng.com/a/20151010/44809418_0.shtml">澎湃新闻｜朝鲜大阅兵：金正恩和刘云山出现在主席台</a></strong></p>
+<blockquote><p>据韩联社报道，当地时间10月10日下午，朝鲜劳动党建党70周年之际，朝鲜在平壤金日成广场上举行阅兵仪式。</p>
+<p>另据朝鲜中央电视台报道，金正恩和刘云山出现在阅兵主席台，随后金正恩向广场人群挥手致意。</p>
+<p>韩联社介绍称，自金正恩2011年执政后到现在，朝鲜共举行了4次阅兵式。</p>
+<p>[…]金正恩发表讲话称，朝鲜劳动党将会和人民一起以百倍的信心创造光明的未来。劳动党会坚持革命路线不动摇。全体人民都很热爱我们党，我们不能辜负人民的热爱，我们党对人民表达深沉的最衷心的谢意。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/a8ef5277jw1eww2utg5d8j20gk0ahgna.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/a8ef5277jw1eww2utg5d8j20gk0ahgna.jpg" alt="a8ef5277jw1eww2utg5d8j20gk0ahgna" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/a8ef5277jw1eww5224a85j20da09zweu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/a8ef5277jw1eww5224a85j20da09zweu.jpg" alt="a8ef5277jw1eww5224a85j20da09zweu" width="475" height=""></a><em><br>
+（图片来源：新浪微博 <a href="http://weibo.com/choiseongho">@作家崔成浩</a>）</em></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/">中国人民的老朋友</a>专题</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/5462359167" target="_blank">凹大大</a><i></i>：一个出去撒币，一个在家自娱<img title="[草泥马]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7a/shenshou_org.gif" alt="[草泥马]"></p>
+<p><a href="http://weibo.com/lancelotng" target="_blank">LanceNg_</a>：習大大！啊不，喊錯了。金大大！！<img title="[嘘]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif" alt="[嘘]"><img title="[嘘]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif" alt="[嘘]"></p>
+<p><a href="http://weibo.com/1851271774" target="_blank">maldinisky</a>：穷什么黩什么<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p><a href="http://weibo.com/zhanzhengshiyanjiu" target="_blank">战争史研究WHS</a><i title="微博个人认证 "></i><i></i>：图2这即视感……<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/60718250jw1eww13ufpb5j20e5086gni.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/60718250jw1eww13ufpb5j20e5086gni.jpg" alt="60718250jw1eww13ufpb5j20e5086gni" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/a68d6077jw1eww1ajjwmoj20e80aojsn.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/a68d6077jw1eww1ajjwmoj20e80aojsn.jpg" alt="a68d6077jw1eww1ajjwmoj20e80aojsn" width="425" height=""></a></p>
+<p><a href="http://weibo.com/makexin" target="_blank">马克欣</a>：我们的祖国是？朝鲜！我们与祖国一起？战斗！噢~~~~噢噢噢噢噢~~~咚咚，咚咚咚，咚咚咚咚，朝鲜！咚咚，咚咚咚，咚咚咚咚，必胜！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/2409280615" target="_blank">Sunny岛主</a>：金大大万岁万岁万万岁<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a title="我爱伊豆" href="http://weibo.com/2267010554">我爱伊豆</a>： 流氓见流氓，真爱！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/1272445901" target="_blank">桂人路问</a>：自己国家推翻帝制双十节不庆祝，却要助兴流氓国家阅兵。<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
+<p>黑衣人_Relax：东西两朝鲜能不亲吗？</p>
+<p><strong>@L雙魚童鞋：终于了解，为什么上学时，班里学渣们关系都挺铁。</strong></p>
+<p>杨洋libra：——同志们好！ ——猪！头！肉！</p>
+<p>万世古佛：首长好————！！！同志们吃舍了？？！大咸菜！！！还吃舍了？！——还不知道！！！！！！</p>
+<p>@得道柏拉图：这可都是朝鲜的精英啊！除了三胖个个面黄肌瘦神情萎靡！可想普通朝鲜民众的生活！</p>
+<p>@索纶：一定要伺候好倒数第一啊！</p>
+<p>@lseve：隔壁二傻又来送温暖了，好久没吃一顿饱饭了，这次要好好坑一下在国际上到处撒钱的二傻了</p>
+<p>@竹林风哥123：三胖亲切握着刘叔叔的手道：“蜀黍你们青岛的虾真的那么好吃吗？”</p>
+<p><strong>@奔跑的阿超：恳请司令官留下老刘，支持朝鲜的宣传事业！</strong></p>
+<p>@黄载雄：物以类聚 人以群分 哥两好啊</p>
+<p>@酒中小宝：全球范围内难得一见的同志加兄弟……</p>
+<p>@老邢的博客：如此人间地狱，居然是朋友</p>
+<p>@一个雨后的夏天：正思索为何今天流氓国家阅兵上头条呢！哦！原来今天民国也国庆日。这摆明了想压民国呀！也就不管提协的是否流氓国家了。</p>
+<p><strong>@刘峰Joosep：金大大万岁 这盛世如你所愿</strong></p>
+<p><strong>@木偶木偶木偶：高频率词汇：人民、伟大的政党、军事强国、社会主义强国</strong></p>
+<p>@金宇大伯：怎么就中国领导人去了？？？其他国家呢？</p>
+<p>@元在戊辰:难以掩饰内心的心情：“艹TMD，ATM机可来了”！</p>
+<p>@简直他么六爆了：只能和流氓国家为伍，哎。</p>
+<p>@微风没有颜色：“人民”一词在此演讲中不断重复，贯穿始终。没有人民就没有朝鲜劳动党，这话听上去没有神话个人，而只有神话人民。有朝鲜浓厚的爱国主义情怀。中国春秋时期随国大臣季梁说得好：“夫民，神之主也，是以圣王先成民而后致力于神。”祝愿朝鲜民族在自己民族家园早日统一，安居乐业，经济繁荣，人民幸福。</p>
+<p>@谷申_2015：中国要告诉世界什么信息？与这个凶残的独裁熊抱，再买3000架波音也是白瞎。一盘青岛大虾，一座马克思楼，一意孤行，一条死路。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%87%91%E5%A4%A7%E5%A4%A7%EF%BC%8C%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%B7%AE%E9%92%B1/?category=18271" rel="tag">不差钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">西朝鲜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8F%8C%E5%8D%81%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%85%B8-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E5%BF%A7%E8%99%91%E4%B8%A4%E5%B2%B8%E6%9C%AA%E6%9D%A5/" target="cdt-mirror">德国之声 | 双十国庆大典 马英九忧虑两岸未来</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/hudong.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/hudong.jpg" alt="国庆大典中，蔡英文、洪秀柱、朱立伦互动备受关注。" width="600" height="337"></a><p>国庆大典中，蔡英文、洪秀柱、朱立伦互动备受关注。</p></div>
@@ -46,7 +123,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E5%8D%81/?category=18271" rel="tag">双十</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E5%8D%81%E8%8A%82/?category=18271" rel="tag">双十节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%9D%A9%E5%91%BD%E8%80%85%E7%9A%84%E8%83%9C%E5%88%A9%EF%BC%9A%E7%AA%81%E5%B0%BC%E6%96%AF%E5%85%A8%E5%9B%BD%E5%AF%B9%E8%AF%9D%E6%9C%BA%E6%9E%84%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94/" target="cdt-mirror">端传媒｜革命者的胜利：突尼斯“全国对话机构”获诺贝尔和平奖</a>
 </h2>
@@ -558,88 +635,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AF%91%E8%AF%BB%EF%BD%9C%E6%92%BC%E5%8A%A8%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E7%A7%A9%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%BF%98%E7%BC%BA%E7%82%B9%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">译读｜撼动全球经济秩序，中国还缺点什么？</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/the-economist.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/the-economist.png?resize=250%2C127" alt="the economist" data-recalc-dims="1"></a><br><strong><em>本文原载于The Economist</em></strong></p>
-<p><strong><em>编译/荆棘伊甸 & eve</em></strong></p>
-<p>要了解中国这一经济霸王的反复无常，只要跨过大陆边界，进入香港特区就知道了。香港是全球金融中心，中国雄心的实验室，依靠的正是与大陆的贸易，也是人民币 银行业务枢纽。许多店铺与贩卖机都接受人民币。但就算是这里，紧靠大陆，经济开放程度登峰造极，也远没有完全接受中国的金融体制。</p>
-<p>香港有自己的法律、机构和货币，港元已经与美元挂钩32年了。股票标价与交易用的都是港币。港股交易的价格与上海证交所的价格常常不同。上海证交所与世隔绝，监管松懈，证券价格有时会被扭曲。</p>
-<p>香港银行存款中仅有11%是人民币，而30%是美元。港市募集资金大多以港币或美元计价。汇丰这一全球性银行正考虑将总部从伦敦迁往香港，但只接受特区的独立货币当局监管，而非大陆机构。</p>
-<p>香港首富李嘉诚在西方监管下的企业中的投资六倍于中国大陆，尽管那是他的祖国。</p>
-<p>八月早些时候中国将货币贬值3%，令全球市场不安，香港官员与银行家像所有人一样，倍感疑惑。就连执行政策的中国央行也好像不太理解背后逻辑。央行发表声明称，其“系统将维持汇率基本稳定，处于可适应、平衡的水平，让市场利率发挥作用，继续改进基于市场供需的浮动汇率机制。”</p>
-<p>这番话并没令人安心，反而提出了一个大问题：中国想挑战美国经济地位，经济减速是否拖了她的后腿？</p>
-<p>中国经济有些领域开放，有些封闭，整体上并不连贯。外国人可以建厂，但不能买股票。中国企业跨境直接投资总额名列世界第二，但其中私募基金的参与却几乎可以忽略不计：他们持有国际资产的数量还不及爱丁堡那些私募基金。大陆消费者能买下宝马车或是古驰包，却不能买生产这些产品的公司的股份。中国人民银行等有关监管机构也许是世界上最透明的债券市场上最大的投资者，但其本身却像黄浦江一样不透光。国有银行往非洲贷款胆大得像狮子，在西方资本市场上却像只耗子。中国一个趔趄，油价就暴跌，但设定油价的石油衍生品合约却不在中国进行交易。</p>
-<h3><strong>雄心 VS 稳定</strong></h3>
-<p>中国领导人所修读的马克思主义著作认为矛盾必然会导致变化，这话说得有些道理。举例而言，中国庞杂的监管体制存在漏洞，大把的钱流出，流入曼哈顿买楼，或是瑞士买债。允许外国人更多购买中国股票债券，能够抵冲这一影响。但中国未来能否在经济上顶住美国，很大程度上取决于其领导人，而这些人必须衡量一下其滚滚雄心与对不稳定的惴惴担心。</p>
-<p>雄心很好理解，中国至少要获得大经济体天赋的特权：国际金融贸易规则制定时更大的话语权、货币更广泛为人使用。中国领导人在美国面前扮小弟的日子早过去了。 遥想2006年9月时任中国主席胡锦涛，当时美国官员私下要求12月人民币升值3%以安抚美国国会，他说“我了解了”。第二年5月人民币升值了3.5%。 到了2009年，央行行长周小川就在呼吁要用新的全球储备货币取代美元。</p>
-<p>中国希望在国际上发挥更大作用不仅是为了面子，也符合经济逻辑。2001年，中国为了加入世贸组织，委身采纳了他人的规则，而未来在很多新领域（如网络犯罪和电子商务等）的贸易谈判可能更多地照顾到中国的需求。中国进一步对穷国放贷助其发展，这也可以提升且保护自己的投资份额。</p>
-<p>中国更加国际化或将帮助摆脱其在美元区的臣属地位。长期来看，允许人民币浮动或能帮助中国经济更好调节，削减贸易不平衡。放开资本账户，便于外国人购买中国债券与股票，这也能帮助人民币更加国际化。如果中国企业能用人民币在海外做生意或借钱，少用美元，中国或许不用再被迫持有大量美元储备。这将带来溢出效应：中国将被迫改革本国经常错配资本的金融市场。</p>
-<p>维稳压力也很大。如果增长放缓，中国改革力量可能被反对改变的既得利益集团攻击。这些人包括：贷款息差固定的国有银行，拿补贴贷款的国有企业，借美元贷款、 认为人民币只会升值的出口商。中国现代史告诉我们，深入改革会发生，但要慢慢来。1989年到1990年，重拳打击通胀、广场那件事之后，增长一度低至4%。到了1992年邓小平通过著名的南巡重树权柄，在此过程中推动市场改革，智取了党内保守派。</p>
-<h3><strong>慢慢来，慢慢来</strong></h3>
-<p>增速其实也没那么低。官方数据显示，目前为7%，但悲观民间预测认为，到5%也是有可能的。目前政府犹疑不决，一方面希望加入国际货币基金组织精挑细选的特别提款权货币篮子，体现出中国的国际化雄心，也说明中国想获得美国主导的国际组织的认可。但另一方面，政府又在笨拙地尝试救市。人民币今年8月贬值，既可以视为一次改革，以放开人民币自由交易幅度，也可以解读为恐慌的政府试图刺激出口，将中国带回过去的重商主义政策轨道上。此前，央行行长周小川少有失策， 他是美国眼中最坚定推动自由化改革的中国领导层。</p>
-<p>由于担心维稳，所以就算是改革派也不愿走得太远。中国金融系统备受压力，漏洞百出，满是问题，但政府并不愿意全盘改过，让全球市场上的外国资本大潮在中国进进出出。最终目标是开放资本账户，但不会全面自由，还要有严格规矩管理进出，过滤投机者。</p>
-<p>中国希望在海外成就经济辉煌，但必须是用人民币。中国已达成的国际货币布局可以比做一条十车道的高速，但却没有车在上面行驶，或是一座摩天大楼组成的鬼城。政府操刀搭好了台，但还没有人来唱戏。</p>
-<p>请起立、脱帽、敬礼——中国央行已经与32家外国央行达成了5000亿美元总等额人民币互换通道，这一总额与美联储达成的美元互换相当。在包括多哈和多伦多在内的17座世界金融枢纽城市，都可见中国国有银行在清算人民币交易；允许离岸人民币通过股市进入中国的限额定在了1460亿美元，沪港通每天的上线为40亿美元；总部在中国的人民币清算系统今年将对外国银行开放，规模与纽约美元清算系统相当。</p>
-<p>看看亚投行精明的草约条款吧。该文件6月在北京人民大会堂由50国签署，包括了北约13个成员，伊朗、以色列和沙特这些形影不离的小伙伴也在其列。不参加的主要国家包括美国、加拿大、日本和墨西哥。实缴资本200亿美元，待缴资本则为此4倍。中国享有26%的投票权，由此就行长任免、大规模募集资本、重大改变、开除成员享有否决权。美国或觉得不太舒服，但中国可以提出自己提供了30%的资本，而且美国做出了在国际货币基金组织和世行享有否决权的先例，中国不过是照猫画虎。亚投行行长金立群在筹备过程中在华盛顿咨询了意见。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/greenback-vs-redback.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/greenback-vs-redback.jpg?w=575" alt="greenback vs redback" height="" data-recalc-dims="1"></a><br><em> 绿钞（美元）VS红钞（人民币），各领域占比之对比</em></p>
-<p>中国支撑起的贸易谈判中，区域全面经济伙伴关系是重头戏，目前正在开展，令人惊叹，该合作覆盖了中印和14个亚洲其他国家，共占世界GDP的30%。谈判预计2016年完成。中国也在同沙特等海湾国家、印度及东盟国家谈判双边贸易协议。习主席的一带一路倡议展望了中国投资与交通联系，最远直达西欧。</p>
-<p>但这一政府主导的基建和外交努力并没有太大实效。人民币地位尚低是最好的证据。乍看之下进展顺利的是人民币的支付手段功能，中国贸易与外国直接投资总量的四分之一据称是由人民币计价。</p>
-<p>但这些数据容易误导，因其包括了陆港贸易，其中半数左右以人民币付款。如刨除这一块，则这一比例直降到10%以下。全球银行电汇系统中以人民币完成的支付仅占1%。天朝的大贸易伙伴中，基本没有用人民币的。澳大利亚这一比例为0.7%，韩国向中国出口的货物中，94%以美元支付，人民币仅占2.9%。</p>
-<p>人民币的货币储备功能更是不值一提。其他亚洲国家的央行纷纷诉苦，购买人民币政府债券太难了；知道中国要加入特别提款权货币篮子也于事无补。在私营领域，作为价值储存工具，人民币难占一席之地。2014年国际债券总额中仅有1.4%为人民币债券。麦当劳和别的一些企业确实发行了人民币债券，但其债务的96% 还是美元、欧元、英镑或日元。</p>
-<p>约有4000亿美元总额的人民币存款流向离岸，主要在亚洲。但就算是在亚洲主要的金融中心香港和新加坡，离岸美元存款的总额都高达人民币的4倍。过去两年间这一比例没什么变化。人民币存款往往是投机性的。离岸银行收到了人民币存款却贷不出去，不得不将之驻留在大陆的银行中。香港银行家认为，对人民币进一步贬值的预期会使得人民币存款持续减少。</p>
-<p>尽管人民币进展缓慢，却还是有些成效。国家再助一臂之力或有裨益。外国企业如用人民币结算，可获优惠或印象加分。韩国三星计划将中国子公司与总部之间的钱款来往用人民币结算。</p>
-<p>中国是世界上最大的大宗商品买家，但石油却用美元计价。沙特阿拉伯卖给中国的油和卖给美国的一样多，或许它可以同意接受一些人民币，尽管该国要靠美国提供战机和导弹。2010年大宗商品繁荣时，国际矿业公司逼迫中国放弃长期合约，转按市场定价。现在风水轮流转，中国可以逼着他们讲价钱。国有银行也是，可以敦促他们做得更多。目前，中国最大的银行工商银行在东南亚业务规模很大，但其中人民币业务比例不高。</p>
-<p>最终离岸人民币会越来越多，尽管不会达到美元的水平。人民币有许多最终贷款人，看看央行与其他外国央行签署的互换协议就知道了。离岸存款接受香港和其他地方法律管理，投资人不需要担心大陆的法律体系。中国或能找到方法，保护其支付系统不受美国的离岸监管法律的影响。用伦敦的人民币存款在中国做生意或将成为现实，虽然并不简单。在大陆购买证券、资产、货物或服务需要冗杂手续，以后也将得到精简。</p>
-<h3><strong>开放社会</strong></h3>
-<p>那为什么不开放中国，而要筑起一道墙呢？说回维稳的问题。完全开放的资本账户可能导致全世界的钱蜂拥而入，造成一定冲击。安全保障目前尚不完备。中国股市自 由交易的部分仅相当于瑞士的股市规模。央行债券市场规模仅比英国的债券市场略大。此外，为了多样化资产组合或把资产放到更安全的地方，中国人会把多少现金 转移出去，没人说得清。过去12个月里，潜在的资本流出达到5000亿美元。</p>
-<p>为让过程更安全，中国要考虑一系列改革，包括大修股市监管；让央行更加独立；出售国企中的政府份额，让更多股票可交易；让国有银行准备好应对存款流失，因为储户在国外有了更多选择；鼓励私人资产管理公司发展，出售打包了国外资产的金融产品。中国必须为全球资本的汹涌进出做好准备，即时调整资产价格。</p>
-<p>中国开放是政治问题，党还没准备好。因可能丢掉权力，或许党永远准备不好。比尔·克林顿詹姆斯·卡维尔（James Carville）的顾问就曾说，他愿意投胎转生变成美国股市，谁见到都怕。但习近平才不愿被中国的股市主导。</p>
-<p>中国正准备成为贸易与直接投资领域的巨人，成为金融、货币领域以及各国资本市场上的中等大国。这等雄心有利于中国，但无法解决全球金融货币系统现存的问题。短期内，中国还无法比肩或取代美国，到底还缺点什么呢？</p>
-<p><strong>原文地址</strong>：<a href="http://www.economist.com/news/special-report/21668719-china-shakes-%20worldbut-not-way-it-hoped-longer-march?zid=306&ah=1b164dbd43b0cb27ba0d4c3b12a5e227" target="_blank">http://www.economist.com/news/special-report/21668719-china-shakes- worldbut-not-way-it-hoped-longer-march?zid=306&ah=1b164dbd43b0cb27ba0d4c3b12a5e227</a></p>
-<hr><p>译读君新注册了小号，以后译论中国栏目中某些“由于众所周知的原因”无法发布的文章会通过小号发布。<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%AF%91%E8%AF%BB.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E8%AF%91%E8%AF%BB.jpg?resize=250%2C250" alt="译读" data-recalc-dims="1"></a><br><strong><br>
-译读：T-Read</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AF%91%E8%AF%BB%EF%BD%9C%E6%92%BC%E5%8A%A8%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E7%A7%A9%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%BF%98%E7%BC%BA%E7%82%B9%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">金融中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E6%94%BF%E7%AD%96/?category=18271" rel="tag">金融政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%99%BD%E8%8E%B2%E6%95%99%E4%B8%8E%E5%8F%8D%E6%B8%85%E5%A4%8D%E6%98%8E/" target="cdt-mirror">【立此存照】“白莲教”与“反清复明”</a>
-</h2>
-<p><p>【编者注】以下为广电总局对《卧虎藏龙 2 青冥宝剑》审查意见的部分内容。该片计划于2016年上映。</p>
-<p><strong>来源：新浪微博</strong></p>
-<blockquote><p><strong><a href="http://weibo.com/liweiao19">@李微敖</a></strong>：请教一下： 为什么，“白莲教”，也要管？</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E5%B9%BF%E7%94%B5%E7%99%BD%E8%8E%B2%E6%95%99.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E5%B9%BF%E7%94%B5%E7%99%BD%E8%8E%B2%E6%95%99.jpg?w=500" alt="广电白莲教" height="" data-recalc-dims="1"></a></p>
-<blockquote><p>一、有关对“白莲教”对表述，须将其名称替换为其他虚构的武林帮派组织。<br>
-二、有关“反清复明”的内容建议淡化处理。<br>
-三、涉及到的打斗场面，须在拍摄时注意把握血腥暴力尺度。<br>
-四、剧本第38页，俞秀莲的台词“不战而屈人之兵，善之善也”，应更正为“不战而屈人之兵，善之善者也”。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/txkhj" target="_blank">Mr_kkong</a><i title="微博达人"></i>：果然是后清<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/stephonisme" target="_blank">叶凌Stephon</a>：反清复明都不许……真当庆丰朝是大清国啊<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/tbfzy" target="_blank">永恒的风之音</a><i title="微博达人"></i>：<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E7%99%BE%E5%A7%93%E6%97%A0%E4%B8%8D%E6%80%80%E5%BF%B5%E6%88%91%E5%A4%A7%E6%B8%85.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E7%99%BE%E5%A7%93%E6%97%A0%E4%B8%8D%E6%80%80%E5%BF%B5%E6%88%91%E5%A4%A7%E6%B8%85.jpg?resize=440%2C330" alt="百姓无不怀念我大清" data-recalc-dims="1"></a></p>
-<p>@第三新缺德社:“有关‘反清复明’的内容建议淡化处理”，广电真是公公体国，为我大清操碎了心啊</p>
-<p>@乐活Wayne：估计是丑化白莲教（农民起义）了吧？估计《狮王争霸》在现今这尺度也过不了审</p>
-<p>@好吃的煎饼果子：白莲教在历史书上是正面的农民起义形象，你按历史给搞成邪教，就不好了。</p>
-<p>@曾盛敏：改成碧莲教吧</p>
-<p>@麦田里的十字星：白莲？不清楚。但我知道他不要碧莲。</p>
-<p>@八分钟后的黑暗：容易联想到今上的组织？？</p>
-<p>@猛鬼居士：为了防止爱新觉罗的后人勒令制片方道歉。</p>
-<p>@刘金涛在别处:最佳改编剧本奖</p>
-<p>@松江府鸿胪寺达鲁花赤：辫子留下，其他全咔嚓了。</p>
-<p>@我是李寶發：苏维埃社会主义满洲第三自治共和国！</p>
-<p>@Ryu_dragon：我大清自由国情在！百姓无不怀念我大清！</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/01/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E5%B0%8F%E4%BA%BA%E5%90%8D%E5%BA%86%E4%B8%B0.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/01/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E5%B0%8F%E4%BA%BA%E5%90%8D%E5%BA%86%E4%B8%B0.jpg?resize=440%2C417" alt="变态辣椒：小人名庆丰" data-recalc-dims="1"></a><br><em>（“小人名庆丰” by 变态辣椒）</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%99%BD%E8%8E%B2%E6%95%99%E4%B8%8E%E5%8F%8D%E6%B8%85%E5%A4%8D%E6%98%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B8%85%E5%9B%BD/?category=18271" rel="tag">大清国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%9A%E6%B8%85/?category=18271" rel="tag">晚清</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">电影审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -661,5 +656,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

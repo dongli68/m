@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,87 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8F%8C%E5%8D%81%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%85%B8-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E5%BF%A7%E8%99%91%E4%B8%A4%E5%B2%B8%E6%9C%AA%E6%9D%A5/" target="cdt-mirror">德国之声 | 双十国庆大典 马英九忧虑两岸未来</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/hudong.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/hudong.jpg" alt="国庆大典中，蔡英文、洪秀柱、朱立伦互动备受关注。" width="600" height="337"></a><p>国庆大典中，蔡英文、洪秀柱、朱立伦互动备受关注。</p></div>
+<p>10月10日台湾双十国庆大典，朝野各政党领袖难得齐聚一堂，总统马英九表示，这代表大家无分朝野，都认同中华民国。不过马英九对两岸未来能否维持良性循环互动，则表示忧虑与怀疑。</p>
+<p>马英九总统在国庆大会以“和平繁荣，永续台湾”为题发表演说。他不忘阐述七年来政绩，包括性别平等、经贸发展、免签证国、陆客观光、劳动薪资等各项成就。</p>
+<p>对于各界关注的两岸关系，马总统表示，这7年多来，他推动两岸关系和平发展，已将台湾海峡从战争热点转成和平大道，而“维持现状”更成为“台湾共识”。这再次证明政府7年来的两岸政策，不但没有“亲中卖台”或“矮化主权”，反而成为民意的主流。</p>
+<p>不过，马总统也忧虑两岸的成果未来是否能维持。他指出，现状不是从天而降，不能视为理所当然，两岸关系必须坚持原则，才能维持现状。而坚持的原则包括在中华民国宪法架构下，维持两岸不统、不独、不武的现状，这也是有8成民意支持的“台湾共识”。另外还有在“九二共识、一中各表”的基础上，推动两岸和平发展，这是由台湾提出、大陆接受、有5成以上民意支持的“两岸共识”。马总统说，这是让两岸关系与国际关系产生良性循环的基础，如果下一任总统愿意沿用，两岸关系将继续和平繁荣。</p>
+<p><strong>蓝、绿、橘三党主席排排坐</strong></p>
+<p>自2008年马英九总统上台后，今年国庆大会首次出现蓝、绿、橘三党主席排排坐的历史景象，国民党主席朱立伦及民进党主席蔡英文入座后，不断交头接耳，互动热络，而蔡英文也不忘与一旁的亲民党主席宋楚瑜交谈。</p>
+<p>首度以民进党主席身份率领多位党籍立委参加总统府前国庆活动的蔡英文出席前受访表示，希望未来在野党是不是参加国庆从此不再是议题，也希望不论选举进行到什么程度，国家都能保持团结状态。</p>
+<p><strong>蓝绿阵营风度有待长期观察</strong></p>
+<p>由于国歌前两句，“三民主义，吾党所宗”，被绿营认为党国不分，过去民进党政治人物出席国家活动时，多半不唱国歌，或者技巧性跳过这两句歌词，并避免挥舞国旗，蔡英文出席国庆大典是否唱国歌成为关注焦点。国庆大会开始，全体起立唱国歌，媒体观察到蔡英文唱了国歌的第一句“三民主义”，但跳过“吾党所宗”没唱，接着再继续把国歌唱完，随后并向国旗和国父遗像行三鞠躬礼。</p>
+<p>有媒体指出，在野的民进党主席蔡英文率众参加国庆，明年的今天，若是马英九能够与可能下野的国民党坦然参加国庆，那时候，才算是朝野借着国庆展现台湾团结的时刻。但也有媒体评论，若不是蔡英文参选2016总统胜算极高，民进党也未必如此捧场，否则为何民进党前几年都缺席国庆大会。由此看来，台湾蓝绿阵营的风度还有待长期的观察。</p>
+<p>关键词: 国庆 马英九 蔡英文 栏目: 时事见解 首页重点发表: 精品导读 作者: 尼尔</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8F%8C%E5%8D%81%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%85%B8-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E5%BF%A7%E8%99%91%E4%B8%A4%E5%B2%B8%E6%9C%AA%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E5%8D%81/?category=18271" rel="tag">双十</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E5%8D%81%E8%8A%82/?category=18271" rel="tag">双十节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%9D%A9%E5%91%BD%E8%80%85%E7%9A%84%E8%83%9C%E5%88%A9%EF%BC%9A%E7%AA%81%E5%B0%BC%E6%96%AF%E5%85%A8%E5%9B%BD%E5%AF%B9%E8%AF%9D%E6%9C%BA%E6%9E%84%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94/" target="cdt-mirror">端传媒｜革命者的胜利：突尼斯“全国对话机构”获诺贝尔和平奖</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/83fb9a614cb042679d0f70f0bced2cc3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/83fb9a614cb042679d0f70f0bced2cc3.jpg" alt="" width="575" height="432"></a><p>突尼斯“全国对话机构”获2015年诺贝尔和平奖，图为其中一个机构——突尼斯人权联盟（LTDH）主席 Abdessattar Ben Moussa。摄： FETHI BELAID／AFP</p></div>
+<p>10月9日，2015年诺贝尔和平奖得主揭晓，由突尼斯“全国对话机构”（National Dialogue Quartet）夺得。</p>
+<blockquote><p>基于其在2011年“茉莉花革命”过后，于突尼斯建立多元化民主社会的过程中，所作出的关键贡献，本届诺贝尔和平奖颁予突尼斯“全国对话机构”。</p>
+<p><span>挪威诺贝尔委员会</span></p>
+</blockquote>
+<p>挪威诺贝尔委员会在声明中指，突尼斯在2011年“茉莉花革命”后，政局依然混乱，可能出现政治暗杀、社会动荡等恶果，徘徊于内战边缘；但“全国对 话机构”在2013年夏天成立后，在全国公民、各政党及当权者之间构筑了一条和平的政治沟通渠道，让突尼斯能在数年之内建成一个宪政国家，有效保障全国人 民的基本权利，包括性别、政治及宗教信仰。</p>
+<p>委员会主席 Kaci Kullmann Five 指，“突尼斯目前仍然面对政治、经济及国家安全挑战，希望和平奖能鼓励当地人民，同时为正身处中东、北非以至全球各地，为宣扬和平及民主而努力的人带来启发和参考”。</p>
+<p>突尼斯“全国对话机构”由4个当地公民社会团体组成，包括突尼斯总工会（UGTT）、工商及手工业联会（UTICA）、人权联盟（LTDH）及律师 联会（Tunisian Order of Lawyers），各自代表社会的不同行业及价值观，包括劳工及福利、法治原则及人权等。</p>
+<p>“茉莉花革命”源于2010年12月，突尼斯亚一名26岁小贩布瓦吉吉（Mohamed Bouazizi）因被当局没收摊档，自焚抗议而死。事件成为全国大规模抗议的导火线，反对独裁、贪污政权及失业率持续高企的各大城镇人民最终推翻了在位 23年的总统本・阿里（Ben Ali），革命借该国国花茉莉花命名。</p>
+<p>突尼斯的革命之火，更加迅速烧至整个北非、中东地区近20个国家，包括埃及、利比亚、叙利亚、也门等，被誉为“阿拉伯之春”。远在中国等非阿拉伯国家，也一度出现“茉莉花散步”等抗议活动。</p>
+<p>然而，在“阿拉伯之春”诸国当中，例如埃及、利比亚虽然推翻了独裁政权，但政局持续混乱，尤其叙利亚、也门更加陷入内战至今，没法展开民主化进程。</p>
+<p>而在突尼斯，由伊斯兰主义者领导的后革命政府，与支持世俗化的反对派也陷入政治对立，在2013年更濒临内战边缘，但在“全国对话机构”牵头协调 下，各方通过政治对话化解分歧，顺利订立新宪法，并在2014年11月举行了革命后第一次正规的总统大选，过程井然有序，被视为从独裁过渡至民主社会的里 程碑。</p>
+<p>据挪威诺贝尔委员会表示，今年的和平奖一共有273个候选单位，包括68家组织和205位独立人仕。而结果公布之前，媒体普遍预测委员会将把焦点放 在当前的难民危机，因此将德国总理默克尔（Angel Merkel）定为得奖热门；而促成美国与古巴外交关系正常化的教宗方济各（Pope Francis），也被视为热门人选。</p>
+<div>
+<p><strong><span>338</span></strong>人</p>
+<p><span>据突尼斯政府统计，历时近1个月的“茉莉花革命”当中，共造成338人死亡，2147人受伤。</span></p>
+</div>
+<p> </p>
+<h3>声音</h3>
+<blockquote><p>这个和平奖，是对建设民主突尼斯的殉道者的致敬……我们的年轻人所作出的努力，允许了国家翻开独裁统治后的新一页。<br><span>––“全国对话机构”组成团体之一、突尼斯总工会秘书长 Houcine Abassi</span></p>
+<p>这是一则让人难以置信的消息，是对整个突尼斯选举及民主化进程，包括一直以来一切工作及对话的明确鼓励。关键是，它让全球关注我们。我们还有很多工作要完成，有很多新的挑战要面对。<br><span>––“全国对话机构”组成团体之一、突尼斯人权联盟的荣誉主席 Mokhtar Trifi</span></p>
+<p>这是一个出乎意料的结果，在新闻中心的所有人、甚至全球，大概都在问：“谁？”但所有人已经把焦点放在一个值得人关注、但一直被忽略的和平进程。<br><span>––英国卫报</span></p></blockquote>
+<h3>2014年突尼斯总统选举</h3>
+<blockquote><p>这次选举是2011年突尼斯革命和2014年1月采用新宪法后的第一次正规总统选举。此次选举的登记选民为528万，共设有1.1万个投票站，最终投票率 达到了64.6%，投票过程也井然有序。本次大选的举行标志着突尼斯政治过渡进程渐近尾声。而世俗派的突尼斯呼声党参选人贝吉·埃塞卜西（Beji Caid Essebsi）以55.68%的得票率胜出，于2015年1月就任总统。 （资料来自维基百科）</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%9D%A9%E5%91%BD%E8%80%85%E7%9A%84%E8%83%9C%E5%88%A9%EF%BC%9A%E7%AA%81%E5%B0%BC%E6%96%AF%E5%85%A8%E5%9B%BD%E5%AF%B9%E8%AF%9D%E6%9C%BA%E6%9E%84%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">民主改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%81%E5%B0%BC%E6%96%AF/?category=18271" rel="tag">突尼斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">茉莉花革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5/?category=18271" rel="tag">阿拉伯之春</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%AF%B9%E6%A0%87%E9%A2%98%E5%85%9A%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A/" target="cdt-mirror">奇客资讯 | 中国网信办对标题党发出警告</a>
+</h2>
+<p><blockquote><p>审查互联网的最高机构网信办发表了一篇文章抨击标题党以及图片党现象。文章用阳春白雪高屋建瓴的语言创造性的引入了新的形容标题党的短语：不良标题。文章说，“近些年，针对微博、微信中存在的造谣传谣、散布淫秽色情内容等问题，几大微博、微信公众平台运营商也在逐步完善相关的规定条款。同时，这些公众平台发布了规范运营公告、建立辟谣中心，并适时更新对于违规微博、微信公众号的处罚结果。但我们不难发现，在这些管理措施中，还没有涉及微博、微信标题及标题图的管理措施及。同时我们也应该注意到，由于各种因素的制约，现有的微博、微信公众号鱼龙混杂，其背后运营人员素质良莠不齐，这无疑也为不良标题的滋生和传播提供了土壤。 目前微博、微信标题和标题图的乱象已引起相关管理部门和社会的广泛重视。“石狮灭门惨案”中涉事男子因虚构事实扰乱公共秩序受到了应有的处罚，同时该案件也将“标题党”推向台前，并对这一群体发出了严厉的警示：标题党、图片党们如继续不顾公共秩序、道德良知肆意发挥，一旦突破法律底线，恐怕悔之晚矣！”</p></blockquote>
+<p><strong>以下为网信网报道全文：</strong></p>
+<p>移动互联网技术的快速发展以及微博、微信等社交平台的普遍应用，使得碎片化阅读逐渐成为人们阅读的主要方式。移动端的内容制作与PC端有着很大区别，短小精悍、标题精彩已经成为碎片化内容必须具备的魅力。一个精彩的好标题往往会成为决定一条微信或微博转发量多少的关键因素。但把标题做得既精彩又贴切，并不是一件容易的事。</p>
+<p>为了使平淡无奇的内容吸引更多的读者、网民关注，片面追求标题的精彩，很多媒体从业者忽视甚至无视标题与内容的贴切关系，成为标题党的一员。标题党，从有媒体的那一天就存在。随着移动互联网技术的快速发展、媒体形式和传播方式的不断创新，标题党拥有了更广阔的发挥空间。他们活跃在互联网上，利用各种所谓颇具“创意”的标题“挂羊头卖狗肉”，利用网友的猎奇心理，博取浏览量。随着微信等社交平台的普遍应用，一种新的群体又应运而生，即用一些极具吸引力但与文章内容毫无关联的图片，作为微信文章的标题图片，以获取关注提高浏览量，这个群体目前被戏称为“图片党”。</p>
+<p>现在，只要打开微信、微博，各种“引人遐想”的标题和图片随即充斥手机屏幕。下面是中国网信网编辑随手拈来的一些“标题党”“图片党”经手的作品范例，大家一看便知，还会有似曾相识、曾被欺骗戏耍的感觉。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1116764701_14443559374001n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1116764701_14443559374001n.jpg" alt="1116764701_14443559374001n" width="600" height="298"></a></p>
+<p>标题的魅力在于能言简意赅、提纲挈领地表达通篇文章的主题和观点。标题制作是要通过传达文章主要内容或部分内容以达到吸引读者阅读文章的目的。为了达到这一效果，精美的辞藻和对内容的精辟提炼是必要的，但纵观目前微博、微信朋友圈中所传播的一些信息，文不对题、低俗暴力、夸张惊悚、故弄玄虚以及无底线的悬疑已经成为某些传播者制作标题的几大法宝。这表面看似夸大、调侃或无厘头的手法，其背后其实隐藏着巨大的商业利益。互联网时代，“注意力本身就是财富”，微博、微信通过吸引粉丝、提高流量以及高频率的转发，换取的是商家的青睐和数额不菲的广告收入。</p>
+<p>近些年，针对微博、微信中存在的造谣传谣、散布淫秽色情内容等问题，几大微博、微信公众平台运营商也在逐步完善相关的规定条款。同时，这些公众平台发布了规范运营公告、建立辟谣中心，并适时更新对于违规微博、微信公众号的处罚结果。但我们不难发现，在这些管理措施中，还没有涉及微博、微信标题及标题图的管理措施。同时我们也应该注意到，由于各种因素的制约，现有的微博、微信公众号鱼龙混杂，其背后运营人员素质良莠不齐，这无疑也为不良标题的滋生和传播提供了土壤。</p>
+<p>2015年1月10日，福建漳州26岁青年吴海雄在他经营的微信公众号“石狮民生事”上发布信息“昨晚，石狮，震惊全国！一家34口灭门惨案！转疯了！”称福建石狮一家34口被残忍杀害，其中一名有孕在身，并指称犯罪嫌疑人逃往北流方向，警方正在进行调查。而文章结尾处附上的却是一张34只死老鼠的图片。该条微信随即被疯狂转发引爆朋友圈。7天后，吴海雄因涉嫌“虚构事实扰乱公共秩序”被石狮市公安局处以行政拘留10日的处罚。</p>
+<p>目前微博、微信标题和标题图的乱象已引起相关管理部门和社会的广泛重视。“石狮灭门惨案”中涉事男子因虚构事实扰乱公共秩序受到了应有的处罚，同时该案件也将“标题党”推向台前，并对这一群体发出了严厉的警示：标题党、图片党们如继续不顾公共秩序、道德良知肆意发挥，一旦突破法律底线，恐怕悔之晚矣！（中国网信网 徐可）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%AF%B9%E6%A0%87%E9%A2%98%E5%85%9A%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E7%89%87%E5%85%9A/?category=18271" rel="tag">图片党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%87%E9%A2%98%E5%85%9A/?category=18271" rel="tag">标题党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%A0%E8%B0%A3%E4%BC%A0%E8%B0%A3/?category=18271" rel="tag">造谣传谣</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%BB%B6%E5%AE%89%E7%BA%A2%E8%89%B2%E6%97%85%E6%B8%B8%E5%8D%87%E6%B8%A9%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%92%E9%98%9F%E5%9C%B0%E6%8E%A8%E4%B8%BB/" target="cdt-mirror">【真理部】延安红色旅游升温习近平插队地推“主席套餐”</a>
 </h2>
 <p><p>全网查删中新网《延安红色旅游升温习近平插队地推“主席套餐”》一文。</p>
@@ -163,7 +241,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3
 <p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%BE%E9%94%81China">雾锁China</a>：韦银勇: 我杀人的时间快到了，是当地政府逼我这样做的。当我疯狂时，请记住当初你们是怎样把我当傻子耍的。<em>相关阅读｜《<a href="http://blog.tianya.cn/post-2517605-97989799-1.shtml">新浪博客｜谁把韦银勇逼上不归路？你必须说清楚！</a>》；《<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E5%BD%93%E4%B8%8A%E8%AE%BF%E4%BF%A1%E6%8D%A2%E6%88%90%E9%82%AE%E5%8C%85%E7%82%B8%E5%BC%B9/a-18759376">德国之声｜长平观察：当上访信换成邮包炸弹</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/444.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/444.jpg" alt="444" width="440" height="588"></a><br><a href="https://freeweibo.com/weibo/3893237007963271" target="/weibo/389">2015年10月01日</a></p>
 <p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%8A%E5%AE%98%E4%BA%91%E5%BC%80%E8%AE%B0%E8%80%85">上官云开记者</a>：【柳州爆炸<img src="https://s.w.org/images/core/emoji/72x72/1f4a5.png" alt="</p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%90%B9%E7%89%9B%E4%B9%9F%E4%B8%8A%E7%A8%8E%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%B4%B9%E4%B8%AD%E5%9B%BD%E5%88%86%E6%91%8A%E6%AF%94/" target="cdt-mirror">【网络民议】吹牛也上税：联合国会费中国分摊比例上升</a>
 </h2>
@@ -405,7 +483,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wto/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%9F%A5/?category=18271" rel="tag">新知</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔文学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87/?category=18271" rel="tag">阿列克谢耶维奇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%99%B6%E9%9D%96/?category=18271" rel="tag">陆晶靖</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%A6%BB%E5%AD%90%E5%AD%9F%E7%BE%A417%E4%B8%AA%E6%9C%88%E7%85%8E%E7%86%AC%E3%80%8B/" target="cdt-mirror">【真理部】《浦志强妻子孟群17个月煎熬》</a>
 </h2>
@@ -562,84 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%B8%AD%E5%9B%BD%E5%AF%8C%E4%BA%8C%E4%BB%A3%E5%9C%88%E5%AD%90%EF%BC%9A%E5%BC%80%E6%B4%BE%E5%AF%B9%E6%8E%92%E9%81%A3%E6%97%A0%E8%81%8A-%E5%A4%A7%E9%83%A8/" target="cdt-mirror">澎湃新闻 | 中国富二代圈子：开派对排遣无聊 大部分人情感受伤</a>
-</h2>
-<p><p>六月周六凌晨一点半，Mikael Hveem丛北京工人体育场的一家夜店出来叫了优步，他选择了最便宜的车型，却惊奇地发现来了一辆深蓝色玛莎拉蒂。司机是一名带有娃娃脸的年轻中国男子，他说他叫Jason。Hveem问他为什么要开优步，他明显不缺钱，Jason说他这么做是为了认识人，尤其是女孩子，凌晨在北京夜店周围，也许会有女孩为坐在跑车里22岁的他倾心。</p>
-<p>当我从朋友那里听到这个故事，我向他要了司机的联系方式，加了Jason的微信，邀请他见面一叙。他很快发了一些衣着暴露女性的照片，告诉我她们是北京最好的站街女。我告诉他可能有一定的误解，随后我们约了见面一起喝咖啡。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/a5Itx.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/a5Itx.jpg?resize=500%2C693" alt="22岁的Jason Zhang" data-recalc-dims="1"></a><p>22岁的Jason Zhang</p></div>
-<p>我们在北京商业区一家咖啡馆见面，Jason姓张，与其他年轻中国人不同，他所在的媒体公司制作真人秀节目，然而他的工作不是很忙。他曾在美国佛罗里达州一所高尔夫球学院里学习，然而学了两年就退学了。他的父亲是一家人力资源公司的总裁，他的母亲是一名政府官员，他戴着价值五千五百美元的万国（IWC）手表，还说这是因为那只贵的表丢了，我问他一共有多少钱，他说：“我不知道，反正我花不完。”我发现他是中国人眼里的“富二代”。</p>
-<p><strong>“他们拥有一切，却不能超越父母”</strong></p>
-<p>十年前，中国媒体中的富二代就好比美国的帕丽斯·希尔顿，只不过更没有品味。每几个月富二代就会爆出丑闻，比如一名女富二代上传烧一叠百元大钞的照片，臭名昭著的跑车聚乐部在兰博基尼旁边拗造型，城市赛道上有人掏枪。2013年，三亚海滩的富二代派对引起全国的谴责。两名富二代还在网上攀比炫富，其中一位是广受谴责的名媛郭美美，在网上晒出价值五百万元的赌场筹码，另一位富二代则晒出银行账户的截屏，总额大概三十七亿人民币。（后来郭美美由于涉赌而被判五年有期徒刑。）最近中国首富地产界大亨王健林的儿子在网上晒出其爱狗前爪戴两只黄金苹果表的照片。<br>
-一些地方政府已经采取措施重新教育这些富二代。今年七月，北京青年报报道，七十名中国大企业的后代参加有关孝敬和商业传统价值的讲座。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/TfxxG-1.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/TfxxG-1.jpg?resize=500%2C683" alt="31岁的Martin Hang" data-recalc-dims="1"></a><p>31岁的Martin Hang</p></div>
-<p>几周的四处打听后，我说服一群富二代邀请我参加他们的聚会，当我到聚会地的时候，我一度怀疑我是不是走错了地方，那是一家京北的户外烧烤店，板凳特别低，民众坐在上面就好像蹲着一样，大家喝着燕京啤酒，吃着羊肉串。要找到这群富二代很难，因为他们穿得和别人没有什么不同，背心、衬衫和拖鞋，唯一出卖他们的就是酒，他们带了法国香槟和一瓶茅台，是白酒中的上品。Martin Hang是《接力（Fortune Generation》杂志的编辑，也是本次晚餐的主持人，他向我介绍了每个人，其中包括三十岁的王达奇（音），一位著名商业咨询师的儿子，最近出版了一本关于中国富二代的书籍；二十岁的Albert在巴德学院读哲学，其父亲经营几家出版公司；二十七岁的Sophia是唯一的女性，我不清楚要多有钱才能被称作富二代，然而Sophia告诉我她肯定是（Martin则不这么认为），她的父母给了她超过一千万元资产，她用这笔钱投资电影、手机游戏和肉类加工公司。等食物熟之前大家先喝酒，我们先一组干杯，然后两两干杯，最后每个人都喝得十分尽兴，好像已认识彼此多年了。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/LPmSo.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/LPmSo.jpg?resize=500%2C705" alt="LPmSo" data-recalc-dims="1"></a><p>Martin雇佣了专业模特参加自己的生日派对</p></div>
-<p>聚会的话题一直游离于商业和八卦之间，其中一位富二代由于其点餐习惯而被称为香槟王子，三十岁的林新（音译）则和其他人谈论公司鉴定古董的科技，有些人则笑话一些人为了装富专门去酒吧租贵酒。Sophia提及车里还有些鸡，问谁想吃鸡肉。哲学专业的Albert则把我拉到一边问我是否听过共济会。从头至尾Martin一直在主持话局，他是非营利机构接力中国青年精英协会的成员，该协会旨在为中国的权贵二代搭建沟通平台，他向我解释接力中国青年精英协会是如何运作的。他说：“我们尝试帮助富二代做得更好。”即使几杯酒下肚，他还是显得很谨慎。接力中国青年精英协会建立于2008年，旨在帮助面临相似挑战的富二代见面，会费为二十万元，要加入协会必须证明其家庭企业每年缴纳至少五千万元税费。论坛每年举行几次，还有关于如何减少税务或者最大化利润的讲座，此外协会也安排富二代参观彼此的公司。Martin 告诉记者：“大部分论坛都很无聊。”他摊开2011年的杂志，希望向媒体展示更积极的富二代形象。协会成员希望重新打造自己，去掉“富二代”中的“富”字，称自己为“创二代”，即二代企业家，或者就简单地称自己为“二代”。每个月杂志封面都是一名富二代，一般都是男性靠在奥迪车上，每期封面的造型都惊人地统一。</p>
-<p>该协会旨在鼓励二代接手家庭企业，或者至少在管理层发挥自己的角色。这些企业对中国经济至关重要，它们不仅占非国有企业的85%，而且也将长远利益置于季度利润之上。</p>
-<p>然而家庭企业的弊端在于家庭经营，孩子并不喜欢与家长一起工作。2012年上海交通大学发布数据称82%的富二代不愿意接手家庭企业，Martin不赞同这一数据，他没有从数据上反驳，他说：“孩子们不想接受，但是他们必须这么做。”</p>
-<p>Martin深有感受，他父亲的广告公司于1993年起步，如今已成为江西省业界领袖。大学毕业后，Martin没有进父亲的公司，他在荷兰学习金融管理，买了在线游戏Norron的股票，他曾对自己的商业敏锐度十分自信，“当时我认为我做得很好，”他说，“我是一名富二代，我不喜欢和其他人沟通。”游戏未能成功后，Martin决定加入父亲的公司，“我有选择，”他说，“我可以做别的，但是为此我父母要加倍努力，他们从未说我必须接手，然而我认为这是必要的。”</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/OWiqf.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/OWiqf.jpg?resize=600%2C400" alt="OWiqf" data-recalc-dims="1"></a><p>30岁的王达奇（音）</p></div>
-<p>所以富二代都面临同样的问题，他们拥有一切，然而却不能超越父母。他们的成功都归咎于家庭，而非他们自己，Martin总是被人介绍为“杭先生的儿子”。而作家王达奇为他的书找到了一家出版社，他不知道书能出版是因为他的水平高还是因为他著名的父亲。“人们总是说你唯一的优势就是生在一个好家庭里。”他很难向非富二代解释继承财富的压力。“他们无法理解为什么你会痛苦。”王达奇说道，“我告诉他们财富的数量并不能决定你的幸福度，只有经历了的人才能体会其中滋味。”</p>
-<p><strong>“他们的童年还未结束”</strong></p>
-<p>毫无意外的是，暑假去巴厘岛，冬天去阿尔卑斯山，在牛津读哲学，并从斯坦福大学获得工商管理硕士学位后，大部分富二代都不愿意接手家庭的牙膏盖工厂。三十六岁的平凡是接力中国青年精英协会的常务副理事长，他没有接手父亲在辽宁的房地产公司，而是迁到上海开始创建自己的投资公司。他选择上海的原因是“离家很远”。从哥伦比亚大学毕业后，二十八岁的Even Jiang考虑过加入母亲的钻石出口公司，然而两人对公司的未来走向意见不合。于是她去了美林证券，受美国快递服务的启发返回上海开了一家礼宾服务公司。三十二岁的刘加文（音译）父母在湖南省拥有一家服装公司，毕业后她尝试成立自己的服装品牌。她说：“我希望证明我自己也能行。”然而尝试失败了。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/LeyFj.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/LeyFj.jpg?resize=500%2C672" alt="28岁的Even Jiang" data-recalc-dims="1"></a><p>28岁的Even Jiang</p></div>
-<p>除了财富，富二代也继承了许多感情伤害。中国第一代企业家经历文革后，变得比较冷漠。王达奇说：“许多富二代也继承了这一点，所以很难和他们做朋友。”</p>
-<p>前面提到的优步司机小时候就被送到寄宿幼儿园，即使他家离学校很近。也许是为了补偿对其关爱不足，父母满足他一切心愿，其中包括给他买了几百辆玩具车。去年圣诞他给自己买了辆玛莎拉蒂，“感觉就像童年还没有结束，” Jason说道，“富二代的童年还未结束，所以他们总希望童年不结束。”由于独生子女政策，大部分富二代都没有兄弟姐妹，这也是为什么那么多人周六晚上一起出去玩，“他们渴望被照顾，也渴望被爱。”</p>
-<p>对Jason来说，开派对是排遣无聊感的一种方式。他曾一周五晚都去夜店。他说：“如果我不去，我就睡不着。”他还称他不缺陪伴。以前有一位女朋友交往了三年，她对他很好，然而他不爱她。他告诉记者这是他第一次告诉别人这些故事。</p>
-<p>大部分富二代不会公开谈论个人经历，上海的二代投资者Wayne Chen告诉记者：“他们不轻易信任他人，他们需要谈话的地方，他们需要归属感。” 接力中国青年精英协会为他们提供坦诚对话的平台，在这里他们不需要伪装，他说：“就像是康复中心一样。”</p>
-<p>七月，Even注意到她拥有的一家上海烧烤店生意比以往更差。她说：“客流量是以前的一半。”自六月以来，中国股市一直下跌，夏季末股价从峰值下跌了38%。晚餐时，我问他们富二代是否感受得到市场崩溃的痛苦。Even说：“当然，许多家庭企业都上市了。”她自己就买了股票，如果市场动荡，她就会抽身。陈先生称其家庭以“规避风险”的方式进行投资，大部分都投资于固定资产和基金中的基金。Even称筹资越来越难，Martin说经济放缓会影响《接力》杂志的广告收入，尤其是房地产广告收入。许多富二代将钱移至国外，以期获得外国国籍。2014年的调查数据显示64%的中国富人都已迁至或想迁至国外。我问他们富二代是否担心他们的钱。Martin说：“有些人会。”他指着陈先生，说道：“他父亲把他送到美国。”现在他拥有美国国籍。Martin已经结婚，有一个四岁的儿子，他也不排除移民的可能性。他们还谈到中国的仇富现状，Martin说：“小时候我们去最好的学校，我们没有遇到很多穷人，这对社会很危险。”因此接力中国青年精英协会计划发起一项连接富二代和农村孩子的项目，同时也有慈善项目。八月天津爆炸案后，协会成员就通过当地政府捐款15万元。Martin认为慈善不仅与社会责任有关，还对社会稳定至关重要。我问Even不平等现象在中国是否构成社会问题，她回答：“我不知道。有两种穷人，一种因为不努力而变穷，另一种努力了但是没有成功。我认为我们应该帮助第二类人……俗话说：救急不救贫。”</p>
-<p>今年夏天，在朋友的敦促下，王达奇决定打电话给父亲告诉他爱他。他拿起电话道：“我爱你，父亲。”他父亲顿了一下，问道：“你喝醉了吗？”八月在父亲住处和朋友见面时王达奇说起了这件事，他的客人来自生命源泉公司，该公司经营的一些课程高达1000美金，大部分面向富二代。王达奇称该团队帮助他与父亲和解，同时也支持他加入了接力中国青年精英协会。</p>
-<p>对于一些富二代来说，一瞬的感激只意味着刷一刷信用卡，富二代要找寻生活意义比大部分人更难。Even和王达奇游离于父母轨迹之外是因为有自己的目标，而其他人惊奇地发现回到家族企业会为他们带来满足感。刘女士说他很高兴接手家族的服装公司，因为这让她父母很高兴，以前的她可能会对这种想法嗤之以鼻。不是所有人都找寻到目标。那位优步司机Jason说电视节目制作不是他的理想工作，然而他不清楚什么才是。“小时候我有很多梦想，我想成为高尔夫球手、赛车手或者医生一类的。然而当你长大，你经历越多，就会意识到这些只是一个梦。” 虽然室内抽烟在北京是违法的，他还是点燃香烟，他也不管服务生是否会阻止他。他从来没什么限制，也许这本身就是一大限制。“我没什么计划，”他说，“也许这很令人忧伤，然而这是事实。”当我问他是否开心的时候，他说这是态度问题。“你可以找到一百万个伤心的理由，”他说，“然而你只能找到一个开心的理由。每天我都找到一个。”我问他今天为什么开心，他说：“今天我见到你很开心。”</p>
-<p>编译：Shicong</p>
-<p>来源：彭博新闻</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%B8%AD%E5%9B%BD%E5%AF%8C%E4%BA%8C%E4%BB%A3%E5%9C%88%E5%AD%90%EF%BC%9A%E5%BC%80%E6%B4%BE%E5%AF%B9%E6%8E%92%E9%81%A3%E6%97%A0%E8%81%8A-%E5%A4%A7%E9%83%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">中国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">富二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5/?category=18271" rel="tag">权贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3/?category=18271" rel="tag">独生子女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">社会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/" target="cdt-mirror">法广 | IMF：中国面临前所未有的经济挑战</a>
-</h2>
-<p><p>中国正“面临前所未有的经济挑战”，国际货币基金组织星期三在秘鲁利马举行的年会上发出如此警告。中国面临的关键问题是：如何能够在经济放缓的背景下保持金融稳定，完成经济模式转型。但是，出席同一会议的中国央行副行长易纲却表示，“请不要为中国经济担心”。</p>
-<p>这家国际金融机构周三在秘鲁首都利马公布了半年度全球经济报告最新一期『全球金融稳定报告』，报告指出，在经济增长放缓的背景下，如何既要完成经济模式转型的目标，通过有序去杠杆化降低高债务水平，同时又能使其金融体制更多地建立在市场经济基础之上，中国当局为此面临前所未有的挑战。</p>
-<p>北京当局希望把本国目前以基础建设和出口低增值制造品的经济增长模式引导到以消费和服务为主的轨道上来。</p>
-<p>国际货币基金组织的报告指出，中国未来经济增长的核心领域—私有领域目前增长缓慢，这与中国的银行体制有很大关系。中国银行体制必须改革。</p>
-<p>该报告设想的最坏的一种情况可能是，中国大量企业破产，从而加剧金融紧张，使得目前已经放缓的经济增长更加疲弱。</p>
-<p>鉴于中国经济增长放缓，该组织周三下调了对全球经济增长的预估。2015年，全球经济增长预估3.1%，将是2009年以来增长最缓慢的一次。在最新报告中，该组织对新兴经济体债务过高从而可能会对公共财政造成冲击表示担忧。</p>
-<p>中国央行副行长易纲在利马举行的国际货币基金组织年会上试图缓解国际对中国经济放缓的担心，他表示不要为中国经济担心，在不远的未来，中国经济一直会有一个相对较高的增长率。他说，中国对原材料的需求仍然在不断增长，而且，在不远的将来，中国将成为第一大石油进口国。易纲还否认中国进口明显衰退的说法，他说，许多人在谈中国经济在放缓，但中国进口原材料始终在增长。</p>
-<p>易纲还表示中国欢迎TPP达成协议，并说中国对此是开放的态度，已考虑好跟12国合作。</p>
-<p>易纲周三还宣布，中国正式采纳国际货币基金组织数据公布特殊标准（SDDS），据指出，SDDS是一个提升经济统计数据质量的机制，它对数据覆盖范围、公布频率、公布及时性、数据质量、公众可得性等方面要求更高，并且需按标准公布实体经济、财政、金融、对外和社会人口等五个部门的数据。</p>
-<p>近来，许多经济专家对中国公布的经济数据的可靠性表示怀疑。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%8A%A5%E5%91%8A/?category=18271" rel="tag">全球金融稳定报告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87/?category=18271" rel="tag">国际货币基金组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/?category=18271" rel="tag">经济挑战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E4%BD%93%E5%88%B6/?category=18271" rel="tag">银行体制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/" target="cdt-mirror">法广 | FMI：中国面临前所未有的经济挑战</a>
-</h2>
-<p><p>中国正“面临前所未有的经济挑战”，国际货币基金组织星期三在秘鲁利马举行的年会上发出如此警告。中国面临的关键问题是：如何能够在经济放缓的背景下保持金融稳定，完成经济模式转型。但是，出席同一会议的中国央行副行长易纲却表示，“请不要为中国经济担心”。</p>
-<p>这家国际金融机构周三在秘鲁首都利马公布了半年度全球经济报告最新一期『全球金融稳定报告』，报告指出，在经济增长放缓的背景下，如何既要完成经济模式转型的目标，通过有序去杠杆化降低高债务水平，同时又能使其金融体制更多地建立在市场经济基础之上，中国当局为此面临前所未有的挑战。</p>
-<p>北京当局希望把本国目前以基础建设和出口低增值制造品的经济增长模式引导到以消费和服务为主的轨道上来。</p>
-<p>国际货币基金组织的报告指出，中国未来经济增长的核心领域—私有领域目前增长缓慢，这与中国的银行体制有很大关系。中国银行体制必须改革。</p>
-<p>该报告设想的最坏的一种情况可能是，中国大量企业破产，从而加剧金融紧张，使得目前已经放缓的经济增长更加疲弱。</p>
-<p>鉴于中国经济增长放缓，该组织周三下调了对全球经济增长的预估。2015年，全球经济增长预估3.1%，将是2009年以来增长最缓慢的一次。在最新报告中，该组织对新兴经济体债务过高从而可能会对公共财政造成冲击表示担忧。</p>
-<p>中国央行副行长易纲在利马举行的国际货币基金组织年会上试图缓解国际对中国经济放缓的担心，他表示不要为中国经济担心，在不远的未来，中国经济一直会有一个相对较高的增长率。他说，中国对原材料的需求仍然在不断增长，而且，在不远的将来，中国将成为第一大石油进口国。易纲还否认中国进口明显衰退的说法，他说，许多人在谈中国经济在放缓，但中国进口原材料始终在增长。</p>
-<p>易纲还表示中国欢迎TPP达成协议，并说中国对此是开放的态度，已考虑好跟12国合作。</p>
-<p>易纲周三还宣布，中国正式采纳国际货币基金组织数据公布特殊标准（SDDS），据指出，SDDS是一个提升经济统计数据质量的机制，它对数据覆盖范围、公布频率、公布及时性、数据质量、公众可得性等方面要求更高，并且需按标准公布实体经济、财政、金融、对外和社会人口等五个部门的数据。</p>
-<p>近来，许多经济专家对中国公布的经济数据的可靠性表示怀疑。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-fmi%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%8A%A5%E5%91%8A/?category=18271" rel="tag">全球金融稳定报告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87/?category=18271" rel="tag">国际货币基金组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8C%91%E6%88%98/?category=18271" rel="tag">经济挑战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E4%BD%93%E5%88%B6/?category=18271" rel="tag">银行体制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -651,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

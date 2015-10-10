@@ -21,9 +21,117 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%8E%8B%E5%AE%87%E7%8B%AC%E5%AD%90%E5%8C%85%E5%8D%93%E8%BD%A9%E5%9C%A8%E7%BC%85%E7%94%B8%E8%BE%B9%E5%A2%83%E8%A2%AB%E8%AD%A6%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">自由亚洲｜王宇独子包卓轩在缅甸边境被警带走</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image2.jpg" alt="image" width="575" height="329"></a><p>王宇16岁的儿子包卓轩。（图片：维权网）</p></div>
+<p>仍被囚禁的北京维权律师王宇、包龙军夫妇年仅十六岁的儿子包卓轩，周二（6日）在缅甸边境被当地警方带走，迄今下落不明。同行的两名大陆维权人士也同时被带走。其中一名维权人士幸清贤在成都的家中，则遭内蒙和成都警方的联合搜查。（罗文山 报道）</p>
+<p>北京维权律师王宇的儿子包卓轩及维权人士幸清贤、唐志顺，周二（6日）中午在缅甸边境小城猛拉的华都宾馆房间内，被缅甸警方带走。维权网周五引述宾馆老板娘称，当时来了十多名员警，并出示了缅甸的员警证件，带走三人，并搜查了房间。</p>
+<p>次日，有朋友和律师到当地警察局和政法处查询，但当地警方和政法处都称没有抓人。周四晚上十一时，被抓维权人士辛清贤家在成都的住所，则被警方抄家，抄家的员警分别来自王宇老家所在地的内蒙古兴安盟公安局和成都公安局。</p>
+<p>此后，事发的缅北猛拉华都宾馆的老板娘疑似被当地员警要求封口。</p>
+<p>一直为王宇呼吁的中国人权律师余文生称，他们已经知道了这个消息，但还不清楚具体情况。但根据内蒙警方办案的情况推测，包卓轩可能已经在大陆员警手中。</p>
+<p>他说：具体什么情况现在还不清楚，因为今天才刚刚知道这个事情。我现在就是搞不清楚就是人被缅甸警方抓的，还是中国大陆当局越境抓的。现在人在缅甸还是被移送大陆了，现在都搞不太清楚。群里也看到一点，是内蒙的国保在办理这个案子，但具体很多东西现在很难确定在哪个点。有可能人已经在大陆警方控制了，有可能。</p>
+<p>本台记者此前在猛拉实地采访的情况显示，猛拉是缅北地方武装所称的第四特区的首府，是原缅共815军区负责人林贤明和其子林道德所控制的区域。林贤明原是海南知青，后越境加入缅共并成为一方大员。猛拉名义上属缅甸的主权领土，但中国当局在当地拥有从货币、金融到通讯、邮政的实际控制权。城区居民多为中国人，官方语言是汉语，流通货币是中国的人民币，通讯是中国移动和联通公司，并沿用西双版纳州的电话区号。中国云南西双版纳州警方，对当地的事务，也有极大的干预能力。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/bao2-620.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/bao2-620.jpg" alt="中国警方的管制令在缅北猛拉也能迅速地执行。（图片：当地居民翻拍自猛拉警方的通告）" width="500" height="530"></a><p>中国警方的管制令在缅北猛拉也能迅速地执行。（图片：当地居民翻拍自猛拉警方的通告）</p></div>
+<p>为此，本台记者致电缅北地方武装控制的猛拉警察局，希望了解包卓轩被抓的详情，但该局的员警称，他不知道情况，但他认为，抓人应该有抓人的理由。</p>
+<p>他说：你掌握情况是我们带走的？应该这边有案子吧，没案子的话怎么会带走嘛？这个有关公事嘛，有什么事情我也不清楚。</p>
+<p>在被问及他们究竟是听命于缅甸政府还是中国警方时，他称，这个问题不是他说了算。</p>
+<p>他说：听中国的还是听缅甸的这个不是我说了算。这个你有什么找我们领导反映好了。</p>
+<p>记者又致电云南西双版纳州公安局，该局员警承认，有必要的时候，他们可以跨境抓人。但对王宇儿子包卓轩失踪的事情，他则称不知道，不用问他。</p>
+<p>记者：请问是西双版纳州公安局吗？<br>
+西双版纳州公安局员警：啊。<br>
+记者：如果有人在缅甸的猛拉失踪了，可以向你们报告吗？<br>
+西双版纳州公安局员警：啊，可以啊。打电话给那个指挥中心，你打0691110。<br>
+记者：你们平时会跨境去抓人吗？<br>
+西双版纳州公安局员警：有必要的时候就去嘛。<br>
+记者：就是你们直接就可以过去了是吧？<br>
+西双版纳州公安局员警：啊。<br>
+记者：包卓轩是王宇律师的儿子，还是未成年人，你们为什么会在猛拉把他抓走？<br>
+西双版纳州公安局员警：这个我怎么知道？你跟我说这些没有用。</p>
+<p>周五，香港中国人权律师关注组发表声明，对包卓轩、幸清贤、唐志顺的安危表示强烈关注，并呼吁国际社会立即关注三人的基本人权得到保障。关注组强烈谴责中国政府对人权律师子女采取任意剥夺人身自由的行动；并对缅甸政府参与强迫失踪的行动表示极度遗憾。</p>
+<p>声明又强烈要求中国政府严格遵守国际“禁止酷刑和其他残忍、不人道或有辱人格的待遇或处罚公约”和“儿童权利公约”的缔约义务和责任。确保上述三人的基本人权和身心安全得到保障。</p>
+<p>包卓轩是人权律师王宇与人权捍卫者包龙军的独生子。包龙军、王宇夫妇于今年7月9日被当局扣留，以涉嫌煽动颠覆国家政权罪被秘密关押至今。作为未成年人的包卓轩也多次受到传唤和威胁，其赴澳洲留学，也被当局禁止出境。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%8E%8B%E5%AE%87%E7%8B%AC%E5%AD%90%E5%8C%85%E5%8D%93%E8%BD%A9%E5%9C%A8%E7%BC%85%E7%94%B8%E8%BE%B9%E5%A2%83%E8%A2%AB%E8%AD%A6%E5%B8%A6%E8%B5%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%8E%E9%82%AE%EF%BC%9A%E5%BA%94%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B9%A0%E8%AE%BF%E7%BE%8E%E5%89%8D%E9%80%AE%E6%8D%95/" target="cdt-mirror">美国之音｜华邮：应美方要求中国在习访美前逮捕黑客</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/C793575D-8FFE-44B1-AEE6-56B1565B87E7_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/C793575D-8FFE-44B1-AEE6-56B1565B87E7_w640_r1_s.jpg" alt="C793575D-8FFE-44B1-AEE6-56B1565B87E7_w640_r1_s" width="575" height=""></a></p>
+<p>美国《华盛顿邮报》10月9日报道，在中国国家主席习近平上个月访问美国前一两个星期，应美国政府的要求，中国前所未有地秘密逮捕了一批从事网络黑客活动的嫌疑人。</p>
+<p>报道援引消息人士的话说，美国情报和司法部门向中国提交了一份黑客名单，中国按照名单对这些人实施了秘密抓捕。报道说，中国这么做的目的可能是为了缓解与华盛顿的紧张局势。习近平访美前，奥巴马政府曾威胁要对中国进行经济制裁。</p>
+<p>美国官员指控上述这些网络黑客针对美国企业实施网络攻击，并将所获得的机密信息交付中国国有企业。</p>
+<p>报道说，奥巴马政府目前正在密切关注上述被捕黑客是否会受到公开的审判，因为公开审判才会对其他的中国网络黑客予以威慑。</p>
+<p>美中双方都没有证实上述消息是否属实。也没有独立的消息来源证实确实有涉案人员被抓获。《华盛顿邮报》说，另一个同样值得考虑的问题， 美方还不清楚这是中国的一个和解战略，还是代表了真正的政策改变。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%8E%E9%82%AE%EF%BC%9A%E5%BA%94%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B9%A0%E8%AE%BF%E7%BE%8E%E5%89%8D%E9%80%AE%E6%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%86%9B/?category=18271" rel="tag">中国网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E8%BE%B9%E7%A4%BE%EF%BD%9C%E6%9D%8E%E9%BA%A6%E5%AD%90%EF%BC%9A%E7%9C%8B%E5%AE%88%E6%89%80%E5%A7%90%E5%A6%B9%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%E5%92%8C%E6%9D%83%E5%8A%9B%E6%B8%B8%E6%88%8F/" target="cdt-mirror">法边社｜李麦子：看守所姐妹们的生活和权力游戏</a>
+</h2>
+<p><blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/">五女权人士被拘</a>专题</p></blockquote>
+<p>前几日，听一位女权前辈说，如果我进了看守所，我会珍惜这个机会，在看守所里面进行田野调查，有朝一日我出来了，我就可以撰写我的调查研究报告，让大家可以了解中国看守所里面的女性的生活。我钦佩她的勇气，也欣赏她的专业精神。</p>
+<p>而我，虽然只在看守所呆了37天，相对于大多数人，也算是一种独特的生命经验了。所以，我就分享一下看守所的姐妹们的生活吧。</p>
+<p>我的监室人数最多的时候有23个人，最少的时候16个人。一个大概45平米的房间，扣掉阳台和厕所，水池，和中间的走道占用的面积，大概只有不到10平米的地方是大家能够在室内睡觉的空间。如果按照人数最多的时候23个人这样算下来，每个人可以有半平米的面积睡觉，也就意味着每个人平躺，一个挨着一个的这样睡，刚好可以睡下，满满当当的。</p>
+<p>但是，事实却没有我们想象的这么平等。在监室里资格比较老的，正值青壮年的，监室里担任主要职务的可以拥有较大的空间，但是根据每人所拥有权力的不同，也有等级划分。</p>
+<p>在介绍等级划分之前，我要给大家恶补一下看守所的知识。监室也就是我们被关押的房间，我们叫做“号”，每个楼层划分出来的监区，叫做“筒”，王曼，韦婷婷，我，郑楚然和武嵘嵘分别被关押在，11筒1，11筒3，11筒5，11筒7和12筒3。由此，可以看出来公安部门的良苦用心。为了避免我们相互传话，我们被拆散关在相隔很远的号里。</p>
+<p>在号里建立了值班制度和值日制度，也就是你午间，夜间要承担值班的任务，白天要参与保持监室卫生的值日。值班制度，也就是你要被分配具体的时间值班。我们监室照顾老年人，中午的值班都交给了老年人。青壮年和年轻人都需要值夜班。看守所的作息是：</p>
+<p>早晨</p>
+<p>6:20起床，</p>
+<p>6:40吃早饭，</p>
+<p>8:00开始学习，</p>
+<p>10:30风场放风，</p>
+<p>中午</p>
+<p>11：10吃饭，</p>
+<p>12:00午睡，</p>
+<p>14:00起床，开始学习，</p>
+<p>16:00风场放风，</p>
+<p>16:40吃饭，</p>
+<p>晚上</p>
+<p>18:30开始学习，</p>
+<p>20:00开始洗澡，</p>
+<p>20:30学习结束，</p>
+<p>22:00睡觉，</p>
+<p>直到第二天6:20起床。</p>
+<p>周末不需要学习，学习的时间用来打牌，玩耍，其他的时间不变，日复一日。</p>
+<p>晚上有8个小时的睡觉时间，同时开始值夜班。夜班佩戴小黄帽，就是小学生需要戴的那种，为的是方便识别。夜班一共8人，2人一组，一共四组，值班时间分别为：</p>
+<p>22:00-00:00(困难程度1。值班的轻松阶段，通常由有权力并且担任职务的中年妇女担任值班员，之所以轻松是因为，你不需要从深夜中踉踉跄跄的醒过来，也不需要熬夜太久)</p>
+<p>00:00-02:00（困难程度3:值班比较难熬的阶段，但是也不是最难熬的，现在很多年轻人都是这样的作息，凌晨两点不睡也还好）</p>
+<p>02:00-04:00（困难程度4，值班最难熬的阶段，通常有没权力没地位的年轻人，或者新人进行）</p>
+<p>04:00-06:20（困难程度2，相对比较轻松，虽然整体值班时间比较长，但是连续睡了六个小时之后，睡眠比较充足，这个时间段也经常分配给固定的中年妇女。）</p>
+<p>看守所有的等级是不显著，但是大家却都心知肚明的。</p>
+<p>下面我就来讲讲值日制度。</p>
+<p>看守所女监值日形成了一套比较完整的制度，工作类型分为：</p>
+<p>擦地，擦地的工作还包括清理厕所，被视为由新人和号里等级最低的人来完成，地组组长除外。擦地每天早晨，中午，防风和晚上都要进行，每次擦4-6遍。姐妹们拿着抹布，手平铺抹布在地面上呈S型擦地，也要把死角清理干净，地租工作任务比较重，相对人也比较多。我们号里，负责刷厕所的是一个被认为不洁身自好的，随便和男人睡觉的姐妹。曾经值班员提出刷厕所的工作需要轮换，不能总让她一个人刷厕所，这不公平，但是她表示她刷习惯了，她愿意做这个工作。于是，她承担了大部分人不愿意做的工作，并且毫无怨言。她之前从事的工作是按摩，我的肩颈很僵硬的时候，也经常找她给我按摩，她手法很不错，手劲儿也很大。加上生活上，我很照顾号里弱势的人，她属于比较弱势的，所以我们的关系也非常不错。她有时候会跟着我唱几句《女权之歌》。</p>
+<p>擦板：级别最低。这就是我被分配的工作。通常新人刚刚来到监室不管你是从别的号调过来的，还是刚进来的，都要从擦地做起。但是由于我毫无经验，在1104待了一天就被调到了1105，值班员问我在1104做什么工作，我就说我叠被子。值班员就误以为我是很厉害的角色，也不敢给我安排擦地的工作了。阴差阳错的值班员就给我安排了板组的工作。这个事情也是在我出来之后，才想明白的。</p>
+<p>擦板流程：级别中等。早饭前后擦一次，午饭前后擦一次，晚饭前后擦一次，睡觉前擦一次，每次擦2遍，吃肉的时候擦三遍，因为肉油比较多，要用洗衣粉先擦一边，然后清水擦两遍。老年组和我们板组一起工作，老年组也被安排了相对轻松的工作，也就是投抹布。头几次擦板，由于没有经验，板上拉下拉一根头发，一粒馒头渣都会被值班员指出来，但是后来就基本上没有出现类似问题了，因为出错就等于给了值班员罚你值夜班的机会，所以擦板这么简单的工作，我还是可以胜任的。</p>
+<p>打饭打水：级别高。这个工作主要负责我们的打饭菜，打水和洗刷的工作。因为避免不可知的传染病的传播，饭组的工作需要注意卫生，每天清洗餐具也需要确保干净，所以这个工作通常会交给比较会稳重，通常都是已婚妇女，或者会做家务的女性从事。当然，这个工作级别比较高，因此也需要是老号，或者中年妇女级别的人才有机会。</p>
+<p>叠被子：级别较高。这个工作很轻松，就是睡觉的时候，把堆叠在一起的辈子平铺在板上，醒来的时候不用被子，就把辈子堆叠在一起，放在摄像头的死角位置。这样既可以避免有人躲藏在死角做一些什么管教民警看不到的事儿，也可以诶节约空间。</p>
+<p>值班员，协管。级别最高。她们负责制定值班表，维护监室秩序，而且不用做值日。</p>
+<p>精神病鉴定期间人员：大BOSS级别。号里有一个奶奶，她对法律很精通，曾经指导我写控告信，她被关押5个月了，没有逮捕，因此我怀疑她处于精神病鉴定阶段，因为这个阶段是不计入办案期限的。而且这位奶奶的精神状态也不是很稳定。她不值班，不做值日，而且睡在头板。后来有一次，她被号子里的人群殴了，她就搬到了11筒5。</p>
+<p>在此又要补充一个知识了，那就是床板怎么睡也是有讲究的。监室的床板（也是饭板），分为东板和西板，放风场朝南，监室门朝北。东板睡的人是相对等级比较高的，西板则是相对等级较低的人。</p>
+<p>每个板上，每个人的睡觉位置是固定的。大BOSS睡在监室门口靠墙的位置，也就是头板。她可以自由的翻身，她旁边则是地组组长。之后是饭组工作人员，之后是板组组长，然后就是没有职务，根据年龄和号里的停留时间长短来决定位置，我睡在底板，也就是头板一个人睡的地方，在底板要两个人一起分享，所以翻身就成了问题，每天起床我的肩膀都因为挤压而僵硬疼痛。本来以为来了看守所不需要工作，可以调理身子，可是肩膀的问题一直都没有改善，倒是吃素减肥，减了十斤肉。胸跟着也平了。</p>
+<p>东西板的分布格局也差不多，其实等级是非常森严的。</p>
+<p>未完待续。</p>
+<p><em>文/李麦子</em><br><em>文章来源：微信公号“占领男厕所”</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E8%BE%B9%E7%A4%BE%EF%BD%9C%E6%9D%8E%E9%BA%A6%E5%AD%90%EF%BC%9A%E7%9C%8B%E5%AE%88%E6%89%80%E5%A7%90%E5%A6%B9%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%E5%92%8C%E6%9D%83%E5%8A%9B%E6%B8%B8%E6%88%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">看守所</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9F%A6%E9%93%B6%E5%8B%87%EF%BC%9A%E5%BD%93%E6%88%91%E7%96%AF%E7%8B%82%E6%97%B6-%E8%AF%B7%E8%AE%B0%E4%BD%8F%E5%BD%93%E5%88%9D%E4%BD%A0%E4%BB%AC/" target="cdt-mirror">【河蟹档案】当我疯狂时, 请记住当初你们是怎样把我当傻子耍的</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -34,7 +142,7 @@
 <p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%BE%E9%94%81China">雾锁China</a>：韦银勇: 我杀人的时间快到了，是当地政府逼我这样做的。当我疯狂时，请记住当初你们是怎样把我当傻子耍的。<em>相关阅读｜《<a href="http://blog.tianya.cn/post-2517605-97989799-1.shtml">新浪博客｜谁把韦银勇逼上不归路？你必须说清楚！</a>》；《<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E5%BD%93%E4%B8%8A%E8%AE%BF%E4%BF%A1%E6%8D%A2%E6%88%90%E9%82%AE%E5%8C%85%E7%82%B8%E5%BC%B9/a-18759376">德国之声｜长平观察：当上访信换成邮包炸弹</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/444.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/444.jpg" alt="444" width="440" height="588"></a><br><a href="https://freeweibo.com/weibo/3893237007963271" target="/weibo/389">2015年10月01日</a></p>
 <p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%8A%E5%AE%98%E4%BA%91%E5%BC%80%E8%AE%B0%E8%80%85">上官云开记者</a>：【柳州爆炸<img src="https://s.w.org/images/core/emoji/72x72/1f4a5.png" alt="</p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%90%B9%E7%89%9B%E4%B9%9F%E4%B8%8A%E7%A8%8E%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%B4%B9%E4%B8%AD%E5%9B%BD%E5%88%86%E6%91%8A%E6%AF%94/" target="cdt-mirror">【网络民议】吹牛也上税：联合国会费中国分摊比例上升</a>
 </h2>
@@ -535,65 +643,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%B8%8C%E6%8B%89%E9%87%8C%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF%E8%A1%A8%E6%80%81%E5%8F%8D%E5%AF%B9tpp/" target="cdt-mirror">美国之音｜希拉里·克林顿表态反对TPP</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%8C%E6%8B%89%E9%87%8C.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%8C%E6%8B%89%E9%87%8C.jpg?w=550" alt="希拉里" height="" data-recalc-dims="1"></a><br>
-(美国民主党总统参选人希拉里·克林顿2015年10月6号在爱奥华州达文波特一个社区论坛上讲话。)</p>
-<p>在民主党总统参选人中居领先地位的前美国国务卿希拉里·克林顿对美国等12个国家达成的跨太平洋伙伴关系协定（TPP）表示了反对。</p>
-<p>在爱奥华州竞选的克林顿星期三接受美国公共电视网（PBS）采访时说：“迄今为止，我不赞成我所了解到的内容。”</p>
-<p>她说：“我一开始就说，我们必须要有一项将为美国创造好工作、提高薪水并加强我们国家安全的贸易协议，我仍相信这是我们必须满足的高标准。”克林顿说，她所看到的协定内容没有达到这样的高标准。</p>
-<p>克林顿在担任国务卿期间曾大力推动TPP谈判，但身为总统参选人的她开始跟奥巴马总统拉开距离。她在民主党内的挑战者桑德斯参议员已公开表示，TPP是项灾难性的协定。</p>
-<p>美国和11个国家经过多年谈判终于在星期一达成协议。这项历史性的贸易协定仍需各国立法部门批准。美国国会几经波折，在今年6月通过了快速审批程序，为TPP铺路。在这项问题上，民主党籍的奥巴马总统得到了共和党议员的支持，而很多民主党议员则投了反对票。如今，虽然有了快速审批程序，但美国进入选举季节，反对TPP的美国民间各方力量正展开最后的阻击战，政治人物也开始高调发声，这为协定能否在美国国会过关带来变数。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%B8%8C%E6%8B%89%E9%87%8C%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF%E8%A1%A8%E6%80%81%E5%8F%8D%E5%AF%B9tpp/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">tpp协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E6%8B%89%E9%87%8C%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF/?category=18271" rel="tag">希拉里·克林顿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BA%BD%E7%BA%A6%E6%B3%95%E9%99%A2%E4%BB%A4%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E4%BA%A4%E5%87%BA%E9%80%A0%E5%81%87%E9%9B%86%E5%9B%A2%E8%B5%84%E6%96%99/" target="cdt-mirror">德国之声｜纽约法院令中国银行交出造假集团资料</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C.jpg?w=550" alt="中国银行" height="" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/Gucci.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/Gucci.jpg?w=550" alt="Gucci" height="" data-recalc-dims="1"></a></p>
-<p>纽约一名法官要求中国银行交出一个造假集团在该行的帐户详细信息。该集团被指控在美国销售大量仿冒的Gucci手袋和钱包，进帐数百万美元。</p>
-<p>该项决定可能对美国法院从中国的银行取得犯罪活动信息的能力产生深远影响。欧美的调查和起诉案例显示，中国各家银行是伪造者和大规模洗钱的安全避风港。</p>
-<p>中国各银行则强烈反对美国的做法，认为美方要求其公开客户信息的行为是蔑视中国主权。这起案件引起了美中政界的关注。其中涉及的基本问题是，在美国运营的中资银行究竟该依照何方的规则行事。美联社指出，大型的中国国有银行经常被伪造者用于转移非法所得至西方执法人员鞭长莫及的国家。</p>
-<p>由欧美的案例看来，中国的金融体制也被旅居国外的中国人和其他国家的犯罪团体利用于洗钱。但中国的法制系统使得调查人员难以取得详细的银行记录，无法追踪犯罪所得及冻结不法资金。</p>
-<p>在Gucci包伪造案中，法官苏利文（Richard Sullivan）判决美国法院对中国银行在美分行拥有司法管辖权，判决结果仍可上诉。中国银行在在美设有四家分行，并声称是电汇美元来往中国的最佳选择。</p>
-<p>奢侈品牌Gucci指控一造假集团贩卖仿冒的Gucci手袋和钱包</p>
-<p>苏利文9月29日在判决书中写道：”要求Gucci在中国启动相关程序缺乏效率、极度耗费时间，而且可能无果而终。”</p>
-<p>美国知识产权律师波特（Geoffrey Potter）表示，中国多家银行为中国伪造者转移款项，若能强制要求这些银行透露客户信息，将提高伪造生意的经营难度。</p>
-<p>香港知识产权咨询公司Simone IP Services的知识产权律师普雷恩（Dan Plane）认为，美国法院的决定”或对其他想从中资银行获得此类信息的起诉人有所助益”。但他也警告这最后或沦为空洞的判决。中资银行可能会尽可能只透露少量信息。</p>
-<p>即使Gucci最终从中国银行取得所需的信息，在主张赔偿时仍旧可能碰壁。此前对中国造假商提起诉讼的奢侈品牌蒂芙尼（Tiffany & Co.）就是一个发人深省的案例。蒂芙尼在近两起诉讼中胜诉，6月和9月法院分别判决蒂芙尼可获得523万美元和265万美元的赔偿金。但蒂芙尼在向被告求尝时却面临了棘手的难题。所有被起诉者皆未出席庭审，据信多数被告身在中国，美国法院无法强制执行赔偿。</p>
-<p>蒂芙尼和Gucci拒绝对此事进行评论。中国银行代理律师戴维斯（Andrew Rhys Davies）未对路透社的提问做出回应。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BA%BD%E7%BA%A6%E6%B3%95%E9%99%A2%E4%BB%A4%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E4%BA%A4%E5%87%BA%E9%80%A0%E5%81%87%E9%9B%86%E5%9B%A2%E8%B5%84%E6%96%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD/?category=18271" rel="tag">中国和美国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E9%80%A0/?category=18271" rel="tag">伪造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A2%E4%BE%88%E5%93%81/?category=18271" rel="tag">奢侈品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83/?category=18271" rel="tag">知识产权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%A0%E5%81%87/?category=18271" rel="tag">造假</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E6%8B%9F%E8%BF%BD%E7%A9%B6%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E9%81%AD%E6%8A%97%E8%AE%AE%E5%8F%8A%E6%8B%A6%E9%A9%BE%E5%96%8A/" target="cdt-mirror">法广｜中共高层拟追究习近平访美时遭抗议及拦驾喊冤事件责任</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/v12.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/v12.jpg?w=550" alt="v12" height="" data-recalc-dims="1"></a><br>
-中共高层拟追究习近平访美时遭抗议及拦驾喊冤事件责任 图为一名申冤者突然冲向中国代表团车队<br>
-网络照片</p>
-<p>中国当局可能追究中国国家主席习近平访问美国时遭到多起抗议和访民拦截车队告状喊冤事件，除了要求官方寻找防范抗议和防止拦截车队喊冤的漏洞，也要追查谁是这些示威以及挡驾喊冤的幕后策划者。</p>
-<p>据网络引述博讯报导，结束对美国国事访问的中国国家主席习近平，对此程访美中出现的颇多问题心有不满，在十一国庆招待会之后指示中办召集外交部检讨工作，总结访美组织工作的纰漏。当局将追究在美拦习近平车队喊冤陈情事件。</p>
-<p>习近平对美国的国事访问四天，加上在纽约出席联合国纪念活动三天，总共在美国七天，但访美期间的种种抗议示威活动如影随形。尽管中共严密封锁消息下中国大陆民众无法知情，但习近平及其团队却对一路随行的抗议示威印象深刻。</p>
-<p>尤其是白宫外中国冤民拦车陈情减冤，一度拦停习近平夫人彭丽媛的座驾，险酿危情，成为国际大丑闻，致使习近平大为不满，当时指令驻美使馆派人到场，收下拦车陈冤者的诉状。当然，当局动机很可能不是为冤民解决问题，而是要了解冤民来自何方，要对他们所在的当地政府问责。</p>
-<p>据消息指，中方对美方没有有效阻拦中国冤民拦路告状表示不满，但考虑到访美日程太满，加上美方也无法一一满足中方临时提出的特殊要求，外交部也无法立即组织和动员，规模庞大的欢迎队伍和愿意配合的群众演员。事件只能回国后处理。</p>
-<p>据消息说，中国官方根据习近平指示，要求外交部在例行工作总结中，重点检讨以下问题，并在国庆节后向中办提交报告：1. 西雅图、华盛顿和纽约三地抗议人员的组织者到底是谁？2. 华盛顿访民拦截车队，是否早有预谋？有无政治目的和背景？3. 驻美使领馆今后如何能更有效地团结华人华侨，配合党和国家领导人到访。4. 外交部如何更加高效地开展驻外工作。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E6%8B%9F%E8%BF%BD%E7%A9%B6%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E9%81%AD%E6%8A%97%E8%AE%AE%E5%8F%8A%E6%8B%A6%E9%A9%BE%E5%96%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/?category=18271" rel="tag">马永田</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -605,7 +654,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -615,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,153 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E7%BB%8F%E8%BF%87%E9%87%8D%E6%96%B0%E5%AE%9A%E5%90%91%EF%BC%8C%E7%BB%88%E4%BA%8E%E5%A6%82%E4%BD%A0%E6%89%80/" target="cdt-mirror">【立此存照】这盛世，经过重新定向，终于如你所愿</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%9B%9B%E4%B8%961.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%9B%9B%E4%B8%961.png" alt="盛世1" width="575" height=""></a></p>
+<p>知乎问题页“<a href="http://www.zhihu.com/question/35787316?nr=1">「这盛世，如你所愿」为何很快从褒义词转变为讽刺用语？</a>”，最近突然被重新定向到充斥着<strong>正能量</strong>答主的“<a href="http://www.zhihu.com/question/36085845?rf=35787316">中国现在有哪些值得骄傲的方面？</a>”问答页面。</p>
+<p>知乎对“问题重新定向”功能的<a href="http://www.zhihu.com/question/19570036">官方描述是</a>“<strong>为了减少重复问题带来的困扰</strong>”。<strong>然而，这个规则很显然在上述情况下并不适用。</strong><br><strong><br></strong>该操作的发生时间，应在中国北京时间10月11日上午7点20至当日下午5点之间。<strong>正值大量中国网民对北朝鲜阅兵揶揄嘲讽之时</strong>。</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%87%91%E5%A4%A7%E5%A4%A7%EF%BC%8C%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/">【网络民议】金大大，这盛世，如你所愿</a></p></blockquote>
+<p>上述时间段是根据谷歌缓存页面信息，与数字时代编辑发现该页重新定向的时间比较后得出。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%9B%9B%E4%B8%962.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%9B%9B%E4%B8%962.png" alt="盛世2" width="575" height=""></a><br><em>（谷歌对该页面的最后缓存时间为北京时间10月11日上午7点20 [10月10日 23:20 GMT]）</em></p>
+<h3><span><strong>以下为“「这盛世，如你所愿」为何很快从褒义词转变为讽刺用语？”<span><a href="http://www.zhihu.com/question/35787316?nr=1">原始问题页</a></span>中排名最靠前的20个答案：</strong></span></h3>
+<p> </p>
+<h3><span><a href="http://www.zhihu.com/people/chen-zi-han-55-19" data-tip="p$t$chen-zi-han-55-19">陈子涵</a></span>：</h3>
+<p>我要是对姚明说：“高，真是高。”<br>
+姚明肯定不会觉得我在讽刺他。<br>
+我要是对郭敬明说：“高，真是高。”<br>
+我就不知道他会不会问候我全家了。<br>
+所以说吧，有时候一句话是是褒赞还是讽刺，关键还得看对谁说。你说是不是？<br>
+嗯，<b>这盛世，如你所愿！</b><br>
+你觉得呢？</p>
+<h3><span><a href="http://www.zhihu.com/people/tang-que" data-tip="p$b$tang-que">唐缺</a></span>：</h3>
+<p>讽刺的力量来源于反差。</p>
+<h3><span><a href="http://www.zhihu.com/people/liu-yang-yuan-chen" data-tip="p$b$liu-yang-yuan-chen">刘杨元琛</a></span>：</h3>
+<p>批评不自由，则赞美无意义</p>
+<h3><span><a href="http://www.zhihu.com/people/yao-ze-yun" data-tip="p$b$yao-ze-yun">姚泽云</a></span>：</h3>
+<p>因此我们在目前，还可以亲见各式各样的筵宴，有烧烤，有翅席，有便饭，有西餐。但茅檐下也有淡饭，路傍也有残羹，野上也有饿莩；有吃烧烤的身价不资的阔人，也有饿得垂死的每斤八文的孩子⒆（见《现代评论》二十一期）。所谓中国的文明者，其实不过是安排给阔人享用的人肉的筵宴。所谓中国者，其实不过是安排 这人肉的筵宴的厨房。不知道而赞颂者是可恕的，否则，此辈当得永远的诅咒！——鲁迅《灯下漫笔》</p>
+<h3><span><a href="http://www.zhihu.com/people/liu-lao-liu-22" data-tip="p$b$liu-lao-liu-22">刘老六</a></span>：</h3>
+<p>你垄断所有权利，自当承受所有非议。</p>
+<h3><span><a href="http://www.zhihu.com/people/yin-huang-42" data-tip="p$t$yin-huang-42">尹慌</a></span>：</h3>
+<p>我来彻彻底底的不理智一下。<br>
+我一向是信奉言论自由的，初中男孩写作业的自拍转发几百万都不会让我觉得有什么问题。人再怎么喜欢跟风站队只要没人逼他们那也是他们自己的事，我看不顺眼也轮不到我来说话。<br>
+但是阅兵那天我看着满屏的感动流泪盛世看的生生快吐出来了。<br>
+包括现在打字的时候我都能回忆起那种反胃感。<br>
+北京离天津坐城际也就三十分钟的路，滨海那边在阅兵的时候当然还是不放人进去。灾民们很多连住处都没有，晃荡到现在给的说法也都是催逼签不透明的协议。<br>
+然后你们告诉我这叫盛世。<br>
+我实在不明白这帮人是怎么误会自己姓赵的。<br>
+现在天津到底怎么解决的，相关责任人怎么处理的，还有多少这样的隐患危化物仓库，搜搜网页能搜出多少个404来？<br>
+这满眼盛世在我看来全是“WHO CARES”。<br>
+知乎的精英主义者们千万别以为你们代表了主流。这国家的人分好几层，网络上在骂不发爱国微博的傻逼和知乎嘲讽盛世的人群中间还有一大堆看哭了循环几十遍高呼国泰民安的普通人，有很多是我平时聊的很来，自觉三观近似的朋友。<br>
+他们是真心感到自豪，为自己生在这国家而骄傲。尽管随便一场人祸就可以毁了他们之中很多人全家的半生努力。<br>
+但是这丧钟没响在他们头上，他们就还能唱起赞歌来。</p>
+<p>这句话在我眼里一开始就是讽刺用语。因为我是天津人，因为我记性不差。</p>
+<p>回应一些观点。</p>
+<p>首先，一点三倍回购似乎确认了，算是一个解决。然而即使在这政策全部落实的基础上，我也不能认为这价格非常的合理。<br>
+因为这仓库是违规批准的。</p>
+<p>叫我看大局看发展看趋势看历史来承认这是个盛世的，我没法说服你们，你们点完反对没有帮助就行了，别来评论了。</p>
+<p>我已经说过我相信人们有权力发表任何观点，我也相信那天的刷屏大多是人们出自真心，但是——让我反胃也是事实。</p>
+<p>我说服不了你们，然而你们也治不好我的胃。</p>
+<h3><span><a href="http://www.zhihu.com/people/zhao-hao-yang-1991" data-tip="p$b$zhao-hao-yang-1991">赵皓阳</a></span>：</h3>
+<p>老舍先生有句名言，我爱这大清国，可是谁爱我呢？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/52c49dc587f9544aafa1435c357dbee1_r.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/52c49dc587f9544aafa1435c357dbee1_r.jpg" alt="52c49dc587f9544aafa1435c357dbee1_r" width="550" height="275"></a><br>
+国庆时夜游长安街，在路边的公共厕所里躺着几个环卫工人，薄薄的地铺，挤在狭窄的过道里。他们说睡这里是因为第二天凌晨四点左右就要打扫长安街，毕竟升旗仪式很早，没有任何交通工具能支持住在郊区的他们，只好睡在公厕。红墙里权贵们依旧灯红酒绿夜夜笙歌，红墙外环卫工人们要在充满刺激性气味的公共厕所过夜。 也不知这盛世，究竟如谁所愿？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/5217676e374bfdb7aa472f98a9f28af7_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/5217676e374bfdb7aa472f98a9f28af7_b.jpg" alt="5217676e374bfdb7aa472f98a9f28af7_b" width="500" height="281"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/31b99c63f3c934404d296c4b5d96ae16_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/31b99c63f3c934404d296c4b5d96ae16_b.jpg" alt="31b99c63f3c934404d296c4b5d96ae16_b" width="500" height="389"></a></p>
+<h3><span><a href="http://www.zhihu.com/people/yang-jing-ru-95" data-tip="p$t$yang-jing-ru-95">杨靖儒</a></span>：</h3>
+<p>写给回答里的几个精赵：</p>
+<p>国家仅仅是个国民谋求幸福的工具而已。那种把国家无无限神话化的“拜国家教”，往往不过是统治家族、利益集团、阶级自我神话、稳固权力的遮羞布而已，根本上颠倒了国家和社会的关系。</p>
+<p>———————————————————<br>
+因为语言的贫乏，当 民主 独裁 等社会关系词语 沦为“不适公开谈论的政治内容”，自然会有人借用敌人的词语来还击。</p>
+<p>重新定义词语只是阉割语言的一种方式，另一种方式则直接取消某些词汇的存在。《1984》里，大洋国发明了一种新的语言，叫做“新话”。赛麦是大洋国的字典 编辑，他兴奋地告诉主角温斯顿，新话是世界上唯一词汇量在逐年缩小的语言。“你难道不明白，新话的全部目的就是要缩小思想的范围？最后我们要使得大家在实 际上不可能犯任何思想罪，因为将来不可能有任何语言来表达这些思想。”<br>
+让反动思想不可能找到词语来表达，这可真是一个控制思想的绝招，几乎相当于想吃椰子就是找不到砍刀，想烧水就是找不到容器。你想说“无产阶级失去的只有锁链”？对不起，世上并没有“锁链”这个字眼。“失去的只有枷锁”？对不起， 世上也没有“枷锁”这个词。镣铐？查无此词。绳索？查无此词。紧箍咒？这是什么东西？……好吧，让你闹革命，无产阶级失去的全都是面包。<br>
+当然，不 断增加敏感词的代价就是语言变得越来越贫乏。极端的例子就是文革大字报体，全都是“打倒”、“万岁”、“毒草”、“怒火”这样干瘪的词汇，汉语从从一个水 美草丰的田野变成不毛之地。郭沫若给江青写道：“你善于活学活用战无不胜的毛泽东思想/你奋不顾身地在文化战线上陷阵冲锋……”，甚至老舍也写过“万岁万岁万万岁”。即使是极权的反抗者，也找不到自己的语言——他只能借用当权者的语言。遇罗克的《出身论》说的是人人平等的道理，字里行间却充满“捍卫毛主席 路线”这样的字眼。杨曦光的《中国向何处去》主张直接民主，但文中处处是“夺取无产阶级革命胜利”之类的八股。他们想端出一碗热气腾腾的米饭，但是他们能 找到的“米”只是最狰狞的词句。</p>
+<p>刘瑜老师言犹在耳</p>
+<h3><span><a href="http://www.zhihu.com/people/li-xian-wen-75" data-tip="p$b$li-xian-wen-75">李室长</a></span>：</h3>
+<p>这盛世，如你所愿</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/3c137eff441055caedf99931885dd4b8_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/3c137eff441055caedf99931885dd4b8_b.jpg" alt="3c137eff441055caedf99931885dd4b8_b" width="332" height="220"></a></p>
+<h3><span><a href="http://www.zhihu.com/people/ke-li-si-18" data-tip="p$b$ke-li-si-18">Christian-Stark</a></span>：</h3>
+<p>感谢邀请。</p>
+<p>真的丑的人哪怕浓妆艳抹花枝招展；<br>
+别人夸它漂亮分两种情况，<br>
+1、虽然是假的，但是听着开心。<br>
+2、太特么假了，自己都被恶心了。</p>
+<p>但是不管如何，真的假不了，假的真不了。</p>
+<h3><span><a href="http://www.zhihu.com/people/wu-lei-78-37" data-tip="p$t$wu-lei-78-37">刘邦</a></span>：</h3>
+<p>当今中国社会是一个可以把褒义词或者中性词变成贬义词的神奇社会。说盛世的也是你赵，说阵痛的也是你赵，说新常态的还是你赵，你赵长期善于宣传，没有任何原则立场，主子需要什么，就把什么拿来用，也不管内容是怎么样的，最后搞的一地鸡毛，休怪有些公民嘲笑。</p>
+<h3><span><a href="http://www.zhihu.com/people/ni-ma-49-83" data-tip="p$t$ni-ma-49-83">噗好碎碎</a></span>：</h3>
+<p>这盛世，如你所愿</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/b0480b6de7b7fa88c55314a136f6df0d_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/b0480b6de7b7fa88c55314a136f6df0d_b.jpg" alt="b0480b6de7b7fa88c55314a136f6df0d_b" width="320" height="432"></a></p>
+<h3><span><a href="http://www.zhihu.com/people/chu-xuan-67" data-tip="p$t$chu-xuan-67">楚轩</a></span>：</h3>
+<p>皇军说过：老子吃你几个瓜还要给钱？</p>
+<p>后来盛世来了，鬼子走了，但吃瓜的还是不给钱！</p>
+<h3><span><a href="http://www.zhihu.com/people/liu-si-yuan-24" data-tip="p$t$liu-si-yuan-24">刘思源</a></span>：</h3>
+<p>合并一下：这盛世，如你国所愿。<br>
+。<br>
+评论区很多典型你国人逻辑啊。。比如一个人说：“我是华东人，我以华东为荣。不爱华东就不配当华东 人。”大家都会觉得这是个神经病。但是范围一旦从华东扩大到全中国，好多人就想不明白了。。“不配为中国人”的说法也很傻，因为绝大多数中国人的国籍是通过出生获得的，又不是参加资格考试考取的。对这部分人来说，不存在“个人不配国籍”的问题。。“给国家丢脸”这件事不是每个人都有资格的，从法理上来说， 只有国家元首“既是国家的代表，又是国家的象征”。普通人说自己给国家丢脸，是僭越。</p>
+<h3><span><a href="http://www.zhihu.com/people/dajiuge" data-tip="p$b$dajiuge">钟瑜</a></span>：</h3>
+<p>以前看阅兵，总是自豪的想：啊！我们太强大了！！</p>
+<p>现在看阅兵，总是忍不住想：哎！他们太强大了！！</p>
+<p>若我们大多人，都只是这盛世的注脚和背景</p>
+<p>那感叹这属于少数人的盛世，不就像猪羊在称赞饭店的辉煌吗？</p>
+<h3><span><a href="http://www.zhihu.com/people/mi-xiu-zhao-12" data-tip="p$t$mi-xiu-zhao-12">米修赵</a></span>：</h3>
+<p>本就是粉饰太平，还粉饰得如此矫情。具备成为反讽的绝佳潜质。</p>
+<p>因，<b>建立在虚假之上的，必然虚假。</b></p>
+<h3><span><a href="http://www.zhihu.com/people/sun-song-en" data-tip="p$t$sun-song-en">孙颂恩</a></span>：</h3>
+<p>这盛世, 妙就妙在<br><strong>每一句普普通通的话, 都能听出讽刺的音来</strong></p>
+<h3><span><a href="http://www.zhihu.com/people/dylan43" data-tip="p$b$dylan43">Dylan Lee</a></span>：</h3>
+<p>我第一次看到觉得是中二气息十足的网络穿越小说流行语吧。</p>
+<h3><span><a href="http://www.zhihu.com/people/she-zhao-zhuo" data-tip="p$b$she-zhao-zhuo">佘炤灼</a></span>：</h3>
+<p>当一个敬语或褒义词，广泛的被应用到不配使用敬语和褒义词（至少是有人这么觉得）的人事物时。</p>
+<p>事物本身的污秽会反过来污染词汇。</p>
+<h3><span><a href="http://www.zhihu.com/people/13eyes" data-tip="p$t$13eyes">13eyes</a></span>：</h3>
+<p>卸腰<br>
+“你国”跟“这盛世如你所愿”的表达的情绪是基本一致的，即表达一种疏离感，其实从传播效果来看“这盛世如你所愿”其实是比“你国”差的，毕竟“你国”只有两个字，而且“这盛世如你所愿”的讽刺效果得结合越冰的热度来看，过一两个月估计就没什么人用了，唯一一点优势在于“这盛世如你所愿”的刺 激性更低一点，愿意用的人更多一点，但总的来说“你国”一词才是常青树。</p>
+<p>———————————————————<br><strong>附</strong>：“「这盛世，如你所愿」为何很快从褒义词转变为讽刺用语？”谷歌缓存页面截图</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%9B%9B%E4%B8%963.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%9B%9B%E4%B8%963-16x300.png" alt="盛世3" width="16" height="300"></a><br>
+（点击查看大图）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E7%BB%8F%E8%BF%87%E9%87%8D%E6%96%B0%E5%AE%9A%E5%90%91%EF%BC%8C%E7%BB%88%E4%BA%8E%E5%A6%82%E4%BD%A0%E6%89%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%B8%8D%E6%9C%BD%E7%9A%84%E5%8D%95%E4%BD%8D/" target="cdt-mirror">呦呦鹿鸣：没有不朽的单位</a>
+</h2>
+<p><p>很久没有在官媒上看到清醒之论了，但是，今天还是醒脑了一次。</p>
+<p>共青团书记处在《人民日报》发表了一篇文章说：“共青团如果不积极应对、不改革创新，就不仅是跟不上、不适应的问题，而且<strong>可能失去组织存在的价值</strong>。”</p>
+<p>不改革就可能丧失组织存在价值。这是多么痛彻的领悟！</p>
+<p>长期以来，中国有“铁饭碗”的说法，铁饭碗的背后，是“铁衙门”，这个铁衙门比铁饭碗还铁，因为“铁打的衙门流水的兵”。很多人以为，衙门是一直存在的，并将永远存在。</p>
+<p>一代代人被它麻醉。</p>
+<p>任何机构、组织的存在，都是有其存在价值基础的，如果这个价值不成立了，它就没有存在的必要。纵然它一天开一百个会。</p>
+<p>一个企业如果无法盈利，甚至无法养活员工，那么它就没有了存在价值，破产倒闭关门。那么，一个机关呢？其实也一样。共青团是干嘛的？“引导青年听党话、跟党走”，这是共青团的基本任务。但是，从党的角度看，现在的共青团，和大多数青年之间的关系怎样？有多大的号召力？是正能量还是反作用？这要打一个极大的问号。</p>
+<p>谁说上级组织就一定要你永远存在？谁说一个机构只要耍耍官腔打打哈哈就可以混下去？对于更大的组织而言，多大的组织也是围绕目的而建立了，它不能实现它的价值，就要关门走人。</p>
+<p>即便是共青团书记处自己，也提出了“脱离群众性、官僚化、空壳化”的问题。正是因为这个自知之明，才会感觉到“丧失组织存在价值”的危险。树倒猢狲散，机构不存在了，整个团系统这些大员们，去向何方？</p>
+<p>让我们回顾一下吧。</p>
+<p>1949年，中央的机构是这样的：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE.jpg" alt="机构设置" width="600" height="523"></a></p>
+<p>1998年的国务院的机构是这样的：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE2.jpg" alt="机构设置2" width="600" height="522"></a></p>
+<p>情报总署、林垦部、地方工业部、重工业部、燃料工业部、水产部、中央手工业管理局、第一到第八机械部、纺织工业部、建筑工程部、邮电部、铁道部……这些先后存在的部委，都消失在了历史的尘埃之中。</p>
+<p>1965年底，国务院机构数79个；1970年，撤并为32个，其中13个由部队管理；1981年，增加到100个；1998年，精简为29个，移交给企业、社会中介机构和地方的职能100多项，改革后行政编制由原来的3.23万名减至1.67万名……</p>
+<p>中共历史上，也曾有数不清的下属机构，因为时势变迁，消失在了历史的尘埃之中。</p>
+<p>那么，为什么共青团就一定“不朽”？现在时势变了吗？</p>
+<p>共青团书记处的文章，难得地提出：“以青年为本、让青年当主角，把目光投向青年，把青年需求作为工作的立足点，把青年满意作为衡量工作成效的基本标准。”虽然是官话，却不乏清醒。但是，做得到吗？做不到，就没有存在的必要。</p>
+<p>共青团是这样，哪个机构，哪个企业又不是这样呢？即便一个组织大如一个朝廷，大如一个国家，又哪里有永恒存在的呢？</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A4%A7%E6%B8%85%E5%9B%BD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A4%A7%E6%B8%85%E5%9B%BD.jpg" alt="上书“大清国当今圣母皇太后万岁万岁万万岁”，然而慈禧和大清国并没有万岁。" width="589" height="369"></a><p>上书“大清国当今圣母皇太后万岁万岁万万岁”，然而慈禧和大清国并没有万岁。</p></div>
+<p>子在川上曰，逝者如斯夫！珍惜现在的时光吧。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%87%91%E4%B8%89%E8%83%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%87%91%E4%B8%89%E8%83%96.jpg" alt="不过，据朝鲜科学家考证，“白头山血统”是万事不朽的，会永远存在下去。" width="600" height="351"></a><p>不过，据朝鲜科学家考证，“白头山血统”是万事不朽的，会永远存在下去。</p></div>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%B8%8D%E6%9C%BD%E7%9A%84%E5%8D%95%E4%BD%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E7%BB%84%E7%BB%87/?category=18271" rel="tag">团组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">国务院机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E4%BA%A4%E9%80%9A%E9%83%A8%E5%8F%91%E5%B8%83%E6%96%B0%E8%A7%84-%E4%BB%A5%E5%90%8E%E5%8F%AF%E8%83%BD%E5%BE%97%E5%92%8C%E4%BE%BF%E5%AE%9C%E4%B8%93/" target="cdt-mirror">好奇心日报 | 交通部发布新规 以后可能得和便宜专车说再见了</a>
 </h2>
 <p><p>从今天开始，我们熟悉的“专车”服务可能会有很大的变化。</p>
@@ -658,55 +802,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%83%A1%E4%BD%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%B2%A1%E6%9C%89%E6%B3%A2%E5%B3%B0%EF%BC%8C%E5%8F%AA%E6%9C%89%E6%B3%A2%E8%B0%B7/" target="cdt-mirror">德国之声｜胡佳：中国人权“没有波峰，只有波谷”</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/015740059_30300.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/015740059_30300.jpg?resize=575%2C324" alt="仍在狱中的刘晓波缺席2010年诺贝尔和平奖颁奖仪式" data-recalc-dims="1"></a><p>仍在狱中的刘晓波缺席2010年诺贝尔和平奖颁奖仪式</p></div>
-<p>（德国之声中文网）周五，本年度诺贝尔和平奖得主在挪威公布；而此前一天，则是中国异见人士刘晓波获得诺贝尔奖五周年纪念日。在他获奖时，已经在狱中服刑将近一年。北京政府指控他“煽动颠覆国家政权”，而外界普遍认为刘晓波是因为批评政府而因言获罪。</p>
-<p><strong>胡佳：刘晓波健康无大碍</strong></p>
-<p>胡佳在接受德国之声采访时表示，目前刘晓波的健康基本正常，他妻子刘霞对他的探望也基本能够得到保障。而且，因为他毕竟是一位诺贝尔奖获得者，所以狱警也不希望他在羁押期间出现任何闪失。刘晓波会得到定时体检，健康没有大碍。</p>
-<p>关于记者提出的“刘晓波有无可能提前以减刑、假释，或者保外就医的方式出狱”的问题，胡佳说，中国的法律规定，只有犯人认罪，才可以得 到“减刑”或者“假释”，所以刘晓波没有可能以这两种方式提前出狱。至于“保外就医”，胡佳认为，这是一种常见的“政治性交易或要挟”，中共当局对刘霞的 弟弟刘辉就采取了这种方式，以警示刘霞不要和别的人权人士，或者外交官、记者接触。</p>
-<p>刘晓波在狱中已经有将近六年时间，其间国际社会多次呼吁中国政府提前释放刘晓波。在今年的诺贝尔和平奖颁奖之际，再次有人提出类似呼吁。胡佳对此的看法是：国际上释放刘晓波的呼吁，带给中国政府的压力还不够，尽管曾经有多达134名诺奖获得者签署联名信这种方式。</p>
-<p>胡佳非常清楚地表示，自己不愿意看到刘晓波必须服完全部11年刑期。但是如果要达到使刘晓波提前释放的目标，还需要国内的压力。因为随着时间的推移，大家 已经对“刘晓波在狱中”这个状态习以为常。而且这个压力必须是同时的，好像“共振”一样，并且要坚持，才能使中共释放刘晓波。因为中共在乎的是国内的压 力，而非国际的压力。</p>
-<p><b>习近平维稳超“江胡”</b></p>
-<p>胡佳在谈到中国目前人权状况时表示，局势严峻，看不到可以让人乐观的因素：“习近平维稳，下手的果断和手段，都超过江泽民、胡锦涛，尤其是胡锦涛。原以为 政法委体制在周永康时代已经登峰造极，但是习上任的第一年，就设立了国家安全委员会，而且自己担任负责人，是真正的‘政治沙皇’。他维稳的力度和效率都超 过同时代的人，而且继承了毛、邓‘不惜代价，肯下重手’的特点”。</p>
-<p>胡佳提到，当年和自己一起要求过“财产公示”的人，都被羁押过。参考香港的“雨伞运动”，胡佳认为中国的人权状况是一个动态的过程，但是概括来说，“没有波峰，只有波谷，甚至还没有看到波谷，因为现在还不敢说已经是最差的情况了。”</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%83%A1%E4%BD%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%B2%A1%E6%9C%89%E6%B3%A2%E5%B3%B0%EF%BC%8C%E5%8F%AA%E6%9C%89%E6%B3%A2%E8%B0%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E6%B8%AF%E5%A4%A7%E9%9B%86%E4%BC%9A%EF%BC%9A%E5%9D%9A%E5%AE%88%E6%A0%A1%E5%9B%AD%E8%87%AA%E4%B8%BB-%E4%B8%8D%E5%AE%B9%E9%BB%91%E6%89%8B%E4%BB%8B%E5%85%A5/" target="cdt-mirror">【组图】港大集会：坚守校园自主 不容黑手介入</a>
-</h2>
-<p><p>以下图片由中国数字时代编辑搜集自Twitter、新浪微博、和Facebook：</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E6%B8%AF%E5%A4%A7%E4%BB%8A%E6%99%9A%E8%88%89%E8%A1%8C%E9%9B%86%E6%9C%83%E4%B8%8D%E5%AE%B9%E9%BB%91%E6%89%8B-%E9%80%BE90%E5%AD%B8/">南华早报｜港大今晚舉行集會“不容黑手” 逾90學者組學術自由聯盟</a></p></blockquote>
-<p>‏Twitter用户<strong>@krislc：</strong><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm1UkAEjB8K.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm1UkAEjB8K.jpg?w=575" alt="CQ3sIm1UkAEjB8K" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sImnVAAAW3P9.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sImnVAAAW3P9.jpg?w=575" alt="CQ3sImnVAAAW3P9" height="" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm2UYAAH6Kj.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm2UYAAH6Kj.jpg?w=575" alt="CQ3sIm2UYAAH6Kj" height="" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm4VEAAzbsI.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3sIm4VEAAzbsI.jpg?w=575" alt="CQ3sIm4VEAAzbsI" height="" data-recalc-dims="1"></a></p>
-<p>Twitter用户<strong>@sormeow:</strong> More than 1500 participating in the event. #HKU<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3fPPMVEAEpjyV.jpg_large.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3fPPMVEAEpjyV.jpg_large.jpg?w=550" alt="CQ3fPPMVEAEpjyV.jpg_large" height="" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3goVOVAAAp7lQ.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3goVOVAAAp7lQ.jpg_large.jpg?w=550" alt="CQ3goVOVAAAp7lQ.jpg_large" height="" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3lKGvUcAAj1O9.jpg_large.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3lKGvUcAAj1O9.jpg_large.jpg?w=500" alt="CQ3lKGvUcAAj1O9.jpg_large" height="" data-recalc-dims="1"></a><br>
-@sormeow: 劉進圖發言 香港大學校委會的三重責任 #HKU</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3h_rhUEAA1Bvh.jpg_large.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3h_rhUEAA1Bvh.jpg_large.jpg?resize=625%2C215" alt="CQ3h_rhUEAA1Bvh.jpg_large" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3mcTwUsAAmh_2.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3mcTwUsAAmh_2.jpg_large.jpg?resize=625%2C187" alt="CQ3mcTwUsAAmh_2.jpg_large" data-recalc-dims="1"></a><br>
-‏</p>
-<p>Twitter用户<strong>@phila_siu</strong>：</p>
-<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3jN6TU8AAvGPd.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3jN6TU8AAvGPd.jpg_large.jpg?w=500" alt="CQ3jN6TU8AAvGPd.jpg_large" height="" data-recalc-dims="1"></a><br>
-@phila_siu: #HKU students and alumni campaign started “Don’t mess with us”</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3kMsvUsAAV_Mo.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3kMsvUsAAV_Mo.jpg_large.jpg?w=575" alt="CQ3kMsvUsAAV_Mo.jpg_large" height="" data-recalc-dims="1"></a></p>
-<p>‏Twitter用户<strong>@jeffielam:</strong><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uoevUwAADvu0.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uoevUwAADvu0.jpg?w=575" alt="CQ3uoevUwAADvu0" height="" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uoevVAAAP7sF.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uoevVAAAP7sF.jpg?w=575" alt="CQ3uoevVAAAP7sF" height="" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3xfcWUYAAm6sr.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3xfcWUYAAm6sr.jpg_large.jpg?w=575" alt="CQ3xfcWUYAAm6sr.jpg_large" height="" data-recalc-dims="1"></a><br>
-@jeffielam:#HKU head of humanities Professor Tim O’leary: convocation should stage a vote of no-confidence on council</p></blockquote>
-<p>Twitter用户<strong>@ManKeshishyan：</strong><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uNNDU8AQYh4X.jpg_large.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/CQ3uNNDU8AQYh4X.jpg_large.jpg?w=575" alt="CQ3uNNDU8AQYh4X.jpg_large" height="" data-recalc-dims="1"></a></p>
-<p>新浪微博<strong><a href="http://weibo.com/u/1220546491">@杨恒均</a>：</strong><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv317274sj20sg0sgdmj.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv317274sj20sg0sgdmj.jpg?resize=525%2C550" alt="48c00fbbgw1ewv317274sj20sg0sgdmj" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv30ho4qfj20sg0sggsh.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv30ho4qfj20sg0sggsh.jpg?resize=525%2C1024" alt="48c00fbbgw1ewv30ho4qfj20sg0sggsh" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv30u79p5j20sg0sgth5.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/48c00fbbgw1ewv30u79p5j20sg0sgth5.jpg?resize=525%2C1024" alt="48c00fbbgw1ewv30u79p5j20sg0sgth5" data-recalc-dims="1"></a></p>
-<p><strong>Facebook页面 “堅守港大百年基業 HKU Last Line of Defence”：</strong><br>
-本次活动中、英语海报：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/12087117_1714780618756761_6048506661888748674_o.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/12087117_1714780618756761_6048506661888748674_o.jpg?w=400" alt="12087117_1714780618756761_6048506661888748674_o" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/12087932_1714780622090094_8953025739550344714_o.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/12087932_1714780622090094_8953025739550344714_o.jpg?w=400" alt="12087932_1714780622090094_8953025739550344714_o" height="" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E6%B8%AF%E5%A4%A7%E9%9B%86%E4%BC%9A%EF%BC%9A%E5%9D%9A%E5%AE%88%E6%A0%A1%E5%9B%AD%E8%87%AA%E4%B8%BB-%E4%B8%8D%E5%AE%B9%E9%BB%91%E6%89%8B%E4%BB%8B%E5%85%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">香港大学</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -718,7 +813,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -728,5 +823,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

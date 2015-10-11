@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,117 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%85%B3%E4%BA%8E%E5%8C%85%E5%8D%93%E8%BD%A9%E7%AD%89%E4%BA%BA%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%B8%AA%E7%9A%84%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E/" target="cdt-mirror">中国律师关于包卓轩等人在缅甸失踪的紧急声明</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image.jpeg" alt="image" width="229" height="303"></a></p>
+<p>中国律师关于包卓轩等人在缅甸失踪的紧急声明</p>
+<p>2015年7月9日开始，中国维权律师遭中国警方残酷打压。包卓轩作为被失踪律师王宇与包龙军的独子亦遭牵连。</p>
+<p>未成年的包卓轩在首都机场被阻止出境，遭限制人身自由，更目睹了其父被抓捕等一系列过程。事发之后他先是被监控在天津祖母家，后被警方遣送回内蒙古，在指定的学校中、在当地警方监控之下上学。他自由受限，护照等证件被扣押，无法前往澳大利亚完成预定的留学计划，也不能回到北京自己家中居住，更被警方警告不得为其父母聘请辩护律师。</p>
+<p>包卓轩既非犯罪嫌疑人，也非罪犯，中国警方对一个未成年儿童的非法措施已经超越了人类容忍的底线。依据中国政府已签署并批准加入的联合国《儿童权利公约》第二条第2款之规定：“缔约国应采取一切适当措施确保儿童得到保护，不受基于儿童父母、法定监护人或家庭成员的身份、活动、所表达的观点或信仰而加诸的一切形式的歧视或惩罚”。中国警方对包卓轩的跟踪、监视、限制自由等行径不仅违反国际法，亦违反中国《未成年人权益保护法》之规定，已涉嫌滥用职权犯罪。</p>
+<p>10月6日，包卓轩与其父母的朋友幸清贤和唐志顺在缅甸境内靠近中国的区域被强迫失踪。种种迹象表明，中国警方对包卓轩等三人的失踪具有无法推卸的责任。<br>
+为此，中国律师现提出如下要求：<br>
+1、中国政府作为联合国《儿童权利公约》的缔约国，应保障包卓轩等人的人身安全，协同缅甸政府及时查找他们的下落，并告知他们的亲属或监护人；<br>
+2、中国警方作为包卓轩等人失踪的责任方之一，相关责任人应承担相应的法律责任；<br>
+3、中国警方应立即停止对包卓轩及其他709事件被失踪律师家属的骚扰，停止阻拦中国人权律师、人权捍卫者及其家人出境的非法行为，保障中国公民的出国权和回国权；<br>
+ 4、联合国及世界各国政府和国际人权机构应对包卓轩等人失踪事件予以高度关注，切实履行国际义务，保护包卓轩等人在缅甸境内及其离境后的人身自由及安全，避免遭受不法侵害。</p>
+<p>联署人:<br>
+余文生（北京）<br>
+钟锦化（上海）<br>
+滕彪    （北京）<br>
+唐吉田 （北京）<br>
+张庭源  (重庆)<br>
+蔺其磊 (北京)<br>
+马连顺 (河南)<br>
+蒋援民  (广东)<br>
+常伯阳 (河南)<br>
+冯延强 (山东)</p>
+<p>葛文秀 (广东)<br>
+葛永喜 (广东)<br>
+李威达 (河北)<br>
+兰志学 (北京)<br>
+覃臣寿 (广西)<br>
+任全牛 (河南)<br>
+文东海 (湖南)<br>
+吴魁明 (广东)<br>
+陈进学（广东）<br>
+覃永沛 (广西)</p>
+<p>吕洲宾 (浙江)<br>
+李金星 (山东)<br>
+黄汉中 (北京)<br>
+李方平  (北京)<br>
+覃玮进  (广西)<br>
+张磊 (北京)<br>
+黄志强  (浙江)<br>
+邓林华 (湖南)<br>
+王兴 (北京)<br>
+王秋实  (黑龙江)</p>
+<p>徐红卫 (山东)<br>
+梁小军  (北京)<br>
+冉彤  (四川)<br>
+付爱玲  (广东)<br>
+何伟民  (广东)<br>
+高承才  (河南)<br>
+王清鹏  (河北)<br>
+于全  (四川)<br>
+刘书庆 (山东)<br>
+陈南石  (湖南)</p>
+<p>吕方芝  (湖南)<br>
+熊冬梅  (山东)<br>
+田园（湖南）<br>
+瞿远（四川）<br>
+江天勇  (北京)<br>
+吴良述  (广西)<br>
+么民富（河北）<br>
+梁澜馨  (河北)<br>
+李大伟  (甘肃)<br>
+刘士辉  (广东)</p>
+<p>孙强  (湖南)<br>
+陈智勇  (北京)<br>
+袭祥栋  (山东)<br>
+张重实（湖南）<br>
+郑恩宠  (上海)<br>
+张鉴康  (陕西)<br>
+李昱函  (北京)<br>
+杨红 (浙江)<br>
+王国芳  (广东)<br>
+赵险峰 (陕西)</p>
+<p>刘长中 (湖南)<br>
+王凤明 (河北)<br>
+范国刚  (江苏)</p>
+<p>2015年10月11日</p>
+<p>此声明由中国人权律师团律师发起，欢迎律师同行联署。<br>
+联署方式:姓名+执业地，<br>
+联署邮箱:yws818@163.com</p>
+<p>注: 中国人权律师团成立于2013年9月13日，是一个开放性的律师协作平台，目前已有280人加入。中国人权律师团成立以来，通过发起联合声明，介入人权案件或事件等方式为保障人权、推进法治进行了诸多努力。认同人权理念，愿意维护公民基本权利的中国律师均可通过联系人声明加入。中国人权律师团律师永远是法治的推进者和人权的捍卫者！期待与您携手同行！<br>
+联系人（以名字汉语拼音为序）：<br>
+常伯阳 18837183338<br>
+刘士辉 18516638964<br>
+唐吉田 13161302848<br>
+王成   13616501896<br>
+余文生 13910033651</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%85%B3%E4%BA%8E%E5%8C%85%E5%8D%93%E8%BD%A9%E7%AD%89%E4%BA%BA%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%B8%AA%E7%9A%84%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E5%9B%A2/?category=18271" rel="tag">人权律师团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E8%A2%AB%E8%B7%A8%E5%9B%BD%E7%BB%91%E6%9E%B6%E7%9A%84%E5%B0%91%E5%B9%B4/" target="cdt-mirror">自由亚洲 | 变态辣椒：被跨国绑架的少年</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/9b6cce6f-9c31-4694-9e29-88e8d16e1ed3.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/9b6cce6f-9c31-4694-9e29-88e8d16e1ed3.jpeg" alt="9b6cce6f-9c31-4694-9e29-88e8d16e1ed3" width="622" height="466"></a></p>
+<p>年仅16岁的少年包蒙蒙，10月6日被中国警方从缅甸境内绑架走，同行的两位友人也被带走，三人至今不知下落。16岁的包蒙蒙，被抓捕的理由只因为他是王宇和包龙军的儿子。今年7月 以来，中共当局对维权律师展开了大搜捕，近三百位律师和助手等人被抓捕或约谈，王宇时最早遭难的律师，准备去澳大利亚读高中的儿子包蒙蒙和他父亲包龙军被 警察从机场安检口抓走，王宇则是在家被撬门抓走。因不堪忍受被监视和被不断约谈恐吓的生活，包蒙蒙在护照已被没收的情况下，准备与两名支持者一起从缅甸逃 离中国，计划经过泰国前往美国。然而，中共需要包蒙蒙留在中国这个大监狱里，需要这个16岁的少年继续成为他们的人质。在中共庆祝反法西斯战争胜利70周年之后和中华人民共和国国庆刚结束的时候，这件事再次提醒我们，中共的法西斯统治还在继续，而这次，他们甚至将魔爪伸到了境外。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E8%A2%AB%E8%B7%A8%E5%9B%BD%E7%BB%91%E6%9E%B6%E7%9A%84%E5%B0%91%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E7%BB%8F%E8%BF%87%E9%87%8D%E6%96%B0%E5%AE%9A%E5%90%91%EF%BC%8C%E7%BB%88%E4%BA%8E%E5%A6%82%E4%BD%A0%E6%89%80/" target="cdt-mirror">【立此存照】这盛世，经过重新定向，终于如你所愿</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%9B%9B%E4%B8%961.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%9B%9B%E4%B8%961.png" alt="盛世1" width="575" height=""></a></p>
@@ -741,67 +849,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E9%9F%A6%E9%93%B6%E5%8B%87%EF%BC%9A%E5%BD%93%E6%88%91%E7%96%AF%E7%8B%82%E6%97%B6-%E8%AF%B7%E8%AE%B0%E4%BD%8F%E5%BD%93%E5%88%9D%E4%BD%A0%E4%BB%AC/" target="cdt-mirror">【河蟹档案】当我疯狂时, 请记住当初你们是怎样把我当傻子耍的</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">任志强</a>：一个社会如果只能靠删除不同看法去维护统一思想的宣传，那就证明这个思想宣传已经到了弱不经风的程度了。<br><a href="https://freeweibo.com/weibo/3893598250170242" target="/weibo/389">2015年10月02日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E5%AE%87%E6%99%96_Huey">李宇晖_Huey</a>：其实美国搞的那个TPP（跨太平洋伙伴关系协议），其实也未必是为了跟包子国抗衡（我觉得美帝还没那个觉悟）。主要是人家要求的自由贸易的程度，中共接受不了。你光是文化产品就多少贸易壁垒？人家怎么跟你玩？光等着你低于正常成本倾销血汗产品，人家卖什么你都不让，怎么整？<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E8%B7%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%88%B0%E7%95%A5%E7%B6%93%E6%BF%9F%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82%E5%8D%94%E8%AD%B0">维基百科｜跨太平洋战略经济伙伴关系协议</a>（TPP）》</em><br><a href="https://freeweibo.com/weibo/3776089971103378" target="/weibo/377">2014年11月12日 </a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%A2%81%E8%A3%95%E6%9D%A5%E5%BE%8B%E5%B8%88">袁裕来律师</a>：【TPP,不是美国排斥，是中国不敢】银行、开发商、富豪、官员都要完蛋，房贷利率2%企业贷款率4%，哪家中国银行能存活？制造业大幅降低成本，中国人买到低70%的房子和汽车能不高兴？开发商和官员咋活？以美国为标准，中国90%以上的党政官员都要下岗。中国碰到一道了巨大难题。<a href="http://t.cn/RyQ3MZ2" target="_BLANK">http://t.cn/RyQ3MZ2</a>。<em> 相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%A2%99%E5%A4%96%E4%BB%99%EF%BC%9A%E6%9C%89%E7%A9%BA%E8%AF%B4%E4%B8%80%E4%B8%8Btpp/">墙外楼 | 墙外仙：有空说一下TPP</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/111.jpg" alt="111" width="548" height="400"></a><br><a href="https://freeweibo.com/weibo/3895928283210212" target="/weibo/389">2015年10月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【何以如此】昨天《金融时报》头版报道tpp，其中直接引用奥巴马的话：“我们不能容许如中国这类国家订立全球经济的规则。”在中国领导人刚刚结束国事访问之时，美国总统居然对中国发出如此狠话，令人有些不明就里，不知道哪里出了问题了。<br><span><a href="http://chinadigitaltimes.net/chinese/files/2015/10/4444.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/4444.jpg" alt="444" width="562" height="750"></a></span><br><a href="https://freeweibo.com/weibo/3895325032550288" target="/weibo/389">2015年10月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%BE%E9%94%81China">雾锁China</a>：韦银勇: 我杀人的时间快到了，是当地政府逼我这样做的。当我疯狂时，请记住当初你们是怎样把我当傻子耍的。<em>相关阅读｜《<a href="http://blog.tianya.cn/post-2517605-97989799-1.shtml">新浪博客｜谁把韦银勇逼上不归路？你必须说清楚！</a>》；《<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E5%BD%93%E4%B8%8A%E8%AE%BF%E4%BF%A1%E6%8D%A2%E6%88%90%E9%82%AE%E5%8C%85%E7%82%B8%E5%BC%B9/a-18759376">德国之声｜长平观察：当上访信换成邮包炸弹</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/444.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/444.jpg" alt="444" width="440" height="588"></a><br><a href="https://freeweibo.com/weibo/3893237007963271" target="/weibo/389">2015年10月01日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%8A%E5%AE%98%E4%BA%91%E5%BC%80%E8%AE%B0%E8%80%85">上官云开记者</a>：【柳州爆炸<img src="https://s.w.org/images/core/emoji/72x72/1f4a5.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%90%B9%E7%89%9B%E4%B9%9F%E4%B8%8A%E7%A8%8E%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%B4%B9%E4%B8%AD%E5%9B%BD%E5%88%86%E6%91%8A%E6%AF%94/" target="cdt-mirror">【网络民议】吹牛也上税：联合国会费中国分摊比例上升</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/12/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BE%88%E8%A1%8C.jpeg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/12/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BE%88%E8%A1%8C.jpeg?resize=550%2C364" alt="中国人民很行" data-recalc-dims="1"></a><br><em>（当代水墨画 “中国人民很行” by 秃头倔人）</em></p>
-<p><strong><a href="http://www.bjnews.com.cn/news/2015/10/09/379837.html">新京报｜联合国要涨中国“份子钱”，中方为什么反对？</a></strong></p>
-<blockquote><p><strong>中国分摊比例或升至第3位</strong></p>
-<p>[…]据此前外媒报道，根据联合国会费委员会的建议，2016年至2018年的联合国会费中，中国的分摊比例将从第6位上升至第3位，分摊比例从5.148%上升到7.92%。日本的分摊比例为9.68%，仍然位居第二位。[…]<br>
-2015年，联合国的常规预算是29亿7626万7900美元。其中，中国缴纳会费1亿5321万8271美元，分摊比额为5.148%，名列第六位。前五位分别是美国22%、日本10.833%、德国7.141%、法国5.593%和英国5.179%。</p>
-<p><strong>中方不接受超支付能力的算法</strong></p>
-<p>8日，王民大使表示，应继续按照支付能力原则分摊经常预算，希望大家客观看待中国的支付能力，<strong>反对任何在经常预算比额方面把中国同其他发展中国家区别对待的做法</strong>，不会接受超出中国支付能力的计算方法。<br>
-王民说：“在衡量支付能力方面，要充分考虑各国经济发展水平的差异，<strong>不能只看到一些发展中国家经济发展势头好的一面，夸大其实际支付能力，忽视其人均收入与发达国家的巨大差别</strong>。在体现支付能力原则方面，要继续坚持‘低人均收入宽减’和债务调整这两个要素。”<br>
-[…]发言的最后，王民表示：“只要计算方法公平、公正、合理，作为一个负责任的发展中大国，中国愿意承担应尽的财政义务，并在维和摊款方面继续担负起作为安理会常任国的特殊责任。该缴纳的费用，中国会及时、足额缴纳，一分都不会少。”</p></blockquote>
-<p>中国网民纷纷表示，负责任的大国，不差钱。</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%8D%E9%99%A4%E5%A4%96%E5%80%BA%E6%98%AF%E7%A9%B7%E5%A4%A7%E6%96%B9%EF%BC%9F-5%E4%BA%8B%E5%AE%9E%E4%BD%A0%E5%BE%97/">人民日报｜中国免除外债是“穷大方”？ 5事实你得知道</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A6%82%E6%9E%9C%E8%88%8D%E4%B8%8D%E5%BE%97%E5%A4%96%E6%8F%B4-%E6%A0%B9%E6%9C%AC%E5%B0%B1%E6%B2%A1%E6%B3%95%E5%9C%A8%E5%9B%BD/">环球时报｜中国的如果舍不得外援，根本就没法在国际社会混</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%B8%8E%E5%9B%BD%E9%99%85%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/">BBC｜吴祚来：习近平访美与国际合法性问题</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/10/%E4%BF%A1%E5%8A%9B%E5%BB%BA-%E5%9C%9F%E8%B1%AA%E5%9B%BD%E7%9A%84%E5%AF%B9%E5%A4%96%E6%8F%B4%E5%8A%A9%E5%8F%B2/">信力建 | 土豪国的对外援助史</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/%E5%90%B4%E6%9C%89%E6%B0%B4%E5%BE%8B%E5%B8%88?from=feed&loc=at" target="_blank">吴有水律师</a>: 咱是负责任的大国，这钱，不给！<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3268590721" target="_blank">王渐渐不是王贱贱</a>：会缺这点钱？！贪官少贪点 少包养几个小三就好了啊<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/fangguofeng0579" target="_blank">宫本笑外</a><i title="微博个人认证 "></i>：中国免除了那么多外债，中国在联合国每年的份子钱是1亿多美元，涨这么一点都这么小气，给非洲免了多少了，用钱买感情。别扯人均，既然扯那就国家财政发钱啊，人均啊。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">中国在联合国代表的是一个国家，就按照一个国家的经济来。</p>
-<p><a href="http://weibo.com/2986768284" target="_blank">悦动我訫</a>：别国都是装泻，我朝居然当股市拉升了 <img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p>@迷迷啊迷迷：吹牛上税，天天去黑非洲装大款也是活该</p>
-<p>@wuyue20012：不是总说是“负责任的大国”么？这回人家当真了。</p>
-<p>@行健的小屋_1：“中国经济总量大，但人均水平低，属于不折不扣的发展中国家。这是……评估中国支付能力的重要依据。”麻痹，在宣传论证执政成就、人民幸福生活时你们就说总量，咱们全世界第二！当你要他承担责任的时候他就给你说人均……既然你说天朝是发展中国家，那领 导人出去访问时怎么就像傻子一样满世界撒钱？</p>
-<p>@颜鹤鸣：免去这个利息，免去那个还款，出来装B总要还的。嘚瑟吧再，人家看你出手大方，涨价了吧。说给不起吧没没面子，说不给吧，没理由，说给吧，确实扇自己耳光。自作孽吧就</p>
-<p>@天下平2012：这是到处撒银子的炫富做法引来的必然结果</p>
-<p>@江西证券网：谁让平常看充大头，到处说不差钱！</p>
-<p>@布剪子：有钱去免贷款，没有钱掏份子钱？</p>
-<p>@faceandbook：争夺话语权时说自己是世界第二大经济体，要求别人承认自己老二的地位。缴费时说人均，要求别人认为自己排名垫底90后小弟，这事办的要滴水不漏。</p>
-<p>@痴情单恋一枝花：收费要和国际接轨哦</p>
-<p>@草木争春：日本怪不得要入常，人家交的钱多啊</p>
-<p>@尝尽似水流年：国内一群人嘲笑美国欠会费，从没问过各国承担的比例是多少。。。</p>
-<p>@Mr_罗小白：天天吹自己经济马上超过美国要成世界第一，吹大发了吧</p>
-<p>@西海散人：没事，俺们有的是钱，应该拿世界第二。</p>
-<p>@这可要了亲命了：没钱你大手大脚办奥运</p>
-<p>@gjpxy_38710：除了国内不能给其他都不叫事</p>
-<p>@mitsunoyui：你国又想霸着一票否决权，又不想出钱，让人很难办啊</p>
-<p>@Storying：董事长不是到处免债吗？怎么，牛屄吹不动啦！好啦，庆丰包子送过去当联合国餐点主食。</p>
-<p>@ONLY_MR：但是如果还是长了，如果也欠费了，还仲么笑话美帝尼？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%90%B9%E7%89%9B%E4%B9%9F%E4%B8%8A%E7%A8%8E%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%B4%B9%E4%B8%AD%E5%9B%BD%E5%88%86%E6%91%8A%E6%AF%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%B7%AE%E9%92%B1/?category=18271" rel="tag">不差钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%8F%B4%E5%8A%A9/?category=18271" rel="tag">国际援助</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">大国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8F%B4%E5%8A%A9%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">援助非洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%BD%93/?category=18271" rel="tag">第二大经济体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%92%B1%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">金钱外交</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -813,7 +860,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -823,5 +870,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,87 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/x%E5%8D%9A%E5%A3%AB%EF%BD%9C%E4%BB%96%E4%BB%AC%E8%AF%95%E5%9B%BE%E8%AE%BA%E8%AF%81%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E8%8E%B7%E5%BE%97%E8%80%85%E4%B8%8D%E6%98%AF%E8%AF%97/" target="cdt-mirror">X博士｜他们试图论证诺贝尔文学奖获得者“不是诗人”</a>
+</h2>
+<p><p><em>本文首发无界新闻</em></p>
+<p><em><strong>文：霍启明</strong></em></p>
+<p>大家光看我写历史和鬼啦神啦的了，其实我本科学的是文学哦，算个2.5流作家，地下副高职称，正嗑级待遇。今天和旁友们念叨念叨苏俄文学。</p>
+<p>最近的诺贝文学奖揭晓了，白俄罗斯女作家阿列克谢耶维奇封顶。好多文学评论家认为阿列克谢耶维奇是苏联文学的一种延续。</p>
+<p>阿列克谢耶维奇说过：“<strong>每个时代都有三件大事，怎么杀人、相爱和怎么死亡</strong>”，我听了之后挺感动的，没错，这句话里面的确是苏俄文学那种独特悲怆味道。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87.jpg" alt="阿列克谢耶维奇" width="484" height="350"></a><br><strong><span>阿列克谢耶维奇：2015年诺贝尔文学奖获得者</span></strong></p>
+<p>其实说起来，苏联文学就像一个悲怆的黑色幽默。苏联时代的许多文人，不是坐上“哲学船”流亡，就是送进古拉格锻炼。就在这种情况下，苏联时代却又五位俄国大文豪获得诺贝尔奖，分别是莆宁、帕斯捷尔纳克、肖霍洛夫、索尔仁尼琴、布罗茨基。（纳博科夫、布尔加科夫、阿赫玛托娃等等我认为都是完全有资格获得诺贝尔文学奖的）。</p>
+<p>每个苏联时代获奖作家的故事，都是一幕扭曲的黑色喜剧。比如苏联官方曾花心思证明一个诗人不是诗人，而最后这个诗人却获得了诺贝尔奖……下面听我细讲。</p>
+<p><strong>一 </strong><strong>蒲宁（斯大林时代获奖）</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%92%B2%E5%AE%81.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%92%B2%E5%AE%81.jpg" alt="蒲宁" width="317" height="480"></a><br><span><strong>蒲宁一派白俄贵族气息</strong></span></p>
+<p>蒲宁出生在破落贵族家庭，从小接受了非常深厚的古典文学教育。天生敏感多愁，一个诗人的料，正经八百的继承了普希金、莱蒙托夫那些俄国抒情诗人的接班人。又有点像托尔斯泰那种澎湃的悲悯灵魂，俄国公认的语言大师，那诗写的相当的美啊，宁静幽暗的感觉，像那秋日扫来的风，我觉得特别像列维坦的画。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%88%97%E7%BB%B4%E5%9D%A6%E7%9A%84%E7%94%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%88%97%E7%BB%B4%E5%9D%A6%E7%9A%84%E7%94%BB.jpg" alt="列维坦的画" width="550" height=""></a><br><span><strong>蒲宁的诗就像列维坦的画</strong></span></p>
+<p>但是好景不长在，蒲宁的小生活在大时代里被打破了。一战末期，俄国国内大乱，沙皇死全家，红军杀白军，白军杀红军，杀人盈野，遍地都是枪毙处决和饿死的尸体，俄国大地变成了屠场，这让一个蕴含悲悯情怀的诗人怎么能接受这样残酷的景象啊！正是这种古典的、怀旧的世界观直接造成了蒲宁对十月革命的抵制，他没有像高尔基、阿·托尔斯泰那样把屁股拱上去迎接苏维埃政权的新生。当革命到来时，他起初茫然不知所措，继而采取公然敌视的态度，在刊物上咒骂革命，最终抱着咒诅态度，1920年10月26日，50岁的蒲宁挤上了开往法国的最后一艘邮轮，逃离革命，一辈子没回来。</p>
+<p>到了法国之后，蒲宁定居在巴黎，因为他的成就和名声成了当时逃亡到法国的白俄知识分子的头面人物。然而流亡异国的蒲宁越来越悲观、苦闷、消沉。在他身上逐渐出现了一种由于想象中的俄国理想贵族社会的失败而产生的忧郁症和随之而来的怀乡病，成了苏俄流亡文学的代表人物。他在流亡后灰暗至极，1923的一部小说叫做《完了》，一看名就知道多颓了。蒲宁另一大爱好就是没事喷一下高尔基等官方作家。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%B1%B3%E4%BD%B3%E7%9A%84%E7%88%B1%E6%83%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%B1%B3%E4%BD%B3%E7%9A%84%E7%88%B1%E6%83%85.jpg" alt="米佳的爱情" width="270" height="375"></a><br><span><strong>蒲宁代表作《米佳的爱情》</strong></span></p>
+<p>所以，即使当蒲宁1933获得诺贝尔奖时，也是笼罩着一种悲情色彩。在诺贝尔授奖现场，由于蒲宁拒绝承认苏联政府，竟史无前例地没有悬挂得奖人所属国家的国旗。苏联官方对此暴怒，称蒲宁<strong>“自绝于自己的祖国，自己的人民”</strong>，取消了他的国籍。而且苏联官方批判蒲宁的文章：“没有艺术价值，只是攻击苏维埃政治工具”，被苏联官方全面封杀。所以，最悲哀的是，直到蒲宁死时，在苏维埃的读者中，许多人对蒲宁这一名字茫然无知。</p>
+<p><strong>二 </strong><strong> 帕斯捷尔纳克（赫鲁晓夫时代获奖）</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%95%E6%96%AF%E6%8D%B7%E5%B0%94%E7%BA%B3%E5%85%8B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%95%E6%96%AF%E6%8D%B7%E5%B0%94%E7%BA%B3%E5%85%8B.jpg" alt="帕斯捷尔纳克" width="300" height="434"></a><br></strong><span><strong>帕斯捷尔纳克（1956）</strong></span></p>
+<p>帕斯捷尔纳克出身于艺术气氛浓厚的家庭，对欧洲文学艺术造诣很深，还精通英、德、法三国语言。他性格孤僻，落落寡合，与十月革命后从工农兵当中涌现出来的作家格格不入，在苏联混的极其边缘。但是由于文采出众，他受到布尔什维克领袖布哈林的青睐，在苏联作家第一次代表大会上把他树为诗人的榜样。</p>
+<p>这不青睐还好，一青睐麻烦就大了。因为布哈林是祖国慈父斯大林最仇恨的政敌之一，1938年布哈林被斯大林干死后，帕斯捷尔纳克基本也彻底完蛋了。当时无产阶级作家都不屑于同他交往，他对他们也敬而远之。那时他特怕处决人的敲门声传来，每日像个怕光的耗子一样战战兢兢的活了十多年。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%83%E5%93%88%E6%9E%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%83%E5%93%88%E6%9E%97.jpg" alt="布哈林" width="334" height="450"></a><br><span><strong>布哈林。当年我们上文学课时，老师发现竟然没几个人知道布哈林是谁，极其失望。</strong></span></p>
+<p>1946年，二战结束后，苏联的政治风气似乎有点松动，他开始小心探出头来开始写伟大的《日瓦戈医生》。而且因为帕斯捷尔纳克的伟大文采，自1945年至1957年，帕斯捷尔纳克被十次提名为诺贝尔文学奖候选人。在墙外的红火让苏联官方和文联的人不爽了（其中包括肖霍洛夫），开始想法整帕斯捷尔纳克。当时的作协主席公开指责帕斯捷尔纳克的作品<strong>“视野狭窄，内心空虚，孤芳自赏，未能反映国民经济恢复时期的主旋律”</strong>，所以作协不发表他的作品，迫使他向他们跪下，舔他们的皮鞋。见诗作无法发表，帕斯捷尔纳克便以译书维持生计。他所译的《哈姆雷特》和《浮士德》受到国内外一致好评，威望反而增高。</p>
+<p>这更让作协的大领导们嫉妒和仇恨了，他们为了报复和教训帕斯捷尔纳克，阻止他写《日瓦戈医生》，想出了阴毒的损招。1949年10月9日秘密警察逮捕了帕斯捷尔纳克的女朋友伊文斯卡娅，胡乱编个罪名给扔劳改营里了，而且当时伊文斯卡娅还怀孕了，在劳改营还被逼着干重活，结果马上流产了。伊文斯卡娅在劳改营里关了五年，到1953年斯大林死翘翘了才被释放。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BC%8A%E6%96%87%E6%96%AF%E5%8D%A1%E5%A8%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BC%8A%E6%96%87%E6%96%AF%E5%8D%A1%E5%A8%85.jpg" alt="伊文斯卡娅" width="550" height=""></a><br><span><strong>多年以后，帕斯捷尔纳克的女朋友伊文斯卡娅的合影</strong></span></p>
+<p>就在这种情况下，帕斯捷尔纳克还是完成了伟大的《日瓦戈医生》，托朋友把书送到了国外出版。1957年，此书一问世就在世界范围内爆炸了，1958年此书就获得了诺贝尔奖。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%93%A6%E6%88%88%E5%8C%BB%E7%94%9F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%93%A6%E6%88%88%E5%8C%BB%E7%94%9F.jpg" alt="日瓦戈医生" width="550" height=""></a><br><span><strong>极其伟大的《日瓦戈医生》，当初我看的热泪盈眶，推荐你们至少看看电影版</strong></span></p>
+<p>但是这个获奖的消息让身在苏联的帕斯捷尔纳克吓坏了，哪敢领啊，领就死路一条。所以帕斯捷尔纳克听到获奖的第一反应就是——自杀。不过他的祖国及时发现了这一动向，<strong>祖国认为，作家用这种“快捷方式”来终结自己的痛苦等于是“从背后”再给苏维埃政权一刀</strong>。经过“有关方面”运筹帷幄，巧妙地利用帕斯捷尔纳克最亲近的人，制止了他对祖国的另一次“行刺”。</p>
+<p>于此同时，不允许他走上绝路的祖国对他还有更进一步的要求。“最高指示”表明：<strong>“仅仅放弃诺贝尔文学奖是不够的，他还必须向祖国和人民公开悔过。”</strong>很快，一份由组织上代写的“悔过书”摆在了帕斯捷尔纳克的眼前。上面的内容总结起来就是：<strong>“我就是一坨善于欺骗人民群众的屎”</strong>。老大哥连哄带骗的表示，只要他拒绝领奖并认罪，帕斯捷尔纳克就可以得到赦免，而且宽宏大量的党还会给伊文斯卡娅安排一个工作。</p>
+<p>于是，帕斯捷尔纳克答应了。</p>
+<p>在帕斯捷尔纳克发出谢绝电报的当天，苏联官媒发表了一篇由六位苏联科学院院士署名的文章。文章高度赞扬瑞典皇家科学院将当年的诺贝尔物理学奖授予三位苏联科学家，认为这是客观公正的选择。<strong>而同时，文章再次严厉谴责当年的诺贝尔文学奖，认为将它授予这些科学家的同胞却充满了政治上的偏见和图谋。这具体情况具体分析的文风充分体现了辩证法的智慧。</strong></p>
+<p>由此，苏联就这么愉快而轻松的解决了这个调皮的小风波。他们总是这么棒。</p>
+<p><strong>三 </strong><strong>肖霍洛夫（勃列日涅夫时代获奖）</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%96%E9%9C%8D%E6%B4%9B%E5%A4%AB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%96%E9%9C%8D%E6%B4%9B%E5%A4%AB.jpg" alt="肖霍洛夫" width="216" height="300"></a><br></strong><span><strong>肖霍洛夫</strong></span></p>
+<p>肖霍洛夫，就是写《静静的顿河》那位，毫无疑问，比起另四位诺奖获得者，他是活得最润滑的苏联诺贝尔奖作家。</p>
+<p>肖霍洛夫1905年出生于一农民家庭，他十几岁就跟着红军雄霸天下了，那么小的年纪就见过了太多的血与火，生与死，按布尔什维克的说法：“灵魂得到了锻炼”。肖霍洛夫挺爱写字的，在他21岁时，就开始把他的亲身的见闻写成小说，这就是著名的《静静的顿河》。看过《静静的顿河》的人都知道，那是个大长篇，写了十几年，里面的内容是十分伤感的，写尽“红”“白”哥萨克在故土的残酷杀戮，一部反应“毁灭”这一主题的伟大悲剧，特别牛逼。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB.jpg" alt="罗斯托夫" width="550" height=""></a><br><span><strong>顿河河畔的罗斯托夫</strong></span></p>
+<p>三十年代时，斯大林坐稳位置之后，开始大清洗，那是个对于文艺创作者人人自危的年代，说你政治反动就反动，容不得你辩解，背后处决的子弹就射过来了。内时候无数的文人被突然处决或送进生不如死的古拉格群岛。肖洛霍夫也很危险，他当时与当地的安全部门负责人叶若夫之间有梁子，1938年叶若夫随便找了个罪名要干死他，肖洛霍夫得到消息，逃到莫斯科求见斯大林，才幸免于难。</p>
+<p>所以在这事件的刺激之后，肖洛霍夫学会了独特的苏维埃生存艺术。一方面他写完了伟大的《静静的顿河》，在成就上和托尔斯泰、雨果这样的伟大灵魂遥遥相望。可另一方他开始活得非常“政治正确”，紧跟中央精神，绝不走错一步。比如肖洛霍夫为了政治正确，曾的公开批评帕斯捷尔纳克是“寄居蟹”，抨击索尔仁尼琴“吃着苏联面包，为西方资产阶级主子服务，并且通过秘密的途径把作品送到西方”，绝对又专又红，成了苏联官方的贴心小棉袄，这种时而伟大时而乖巧的双重性挤进了一个人的躯体。</p>
+<p>所以，肖洛霍夫在1965年得知自己将获诺贝尔奖时，机敏的他立刻给苏共总书记勃列日涅夫写信：“<strong>如果这项奖金授给我，那么，苏共中央主席团抱什么态度，我的中央委员会将会给我出什么主意？”。总书记看到之后，欣慰的点点头，心道：“小鬼蛮会做人的嘛，不像那个帕斯捷尔纳克，给脸不要脸”。</strong>正是因为圆滑乖巧，肖洛霍夫顺顺利利的拿下了诺贝尔奖，还得到了苏联官方的大力赞扬。苏联官方称：“瑞典文学院的这一崇高决定，提高了它的威信。”</p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8B%83%E5%88%97%E6%97%A5%E6%B6%85%E5%A4%AB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8B%83%E5%88%97%E6%97%A5%E6%B6%85%E5%A4%AB.jpg" alt="勃列日涅夫" width="550" height=""></a><br></strong><span><strong>接吻狂魔勃列日涅夫同志，右边那个（总书记的秘密请输入“亲嘴”查看）</strong></span></p>
+<p>苏俄文史学者提出有“两个肖洛霍夫”的观点：一个是作品中所显现的肖洛霍夫，一个是苏联文坛上的肖洛霍夫。一个是作为主流意识形态的拥护者、为苏联的社会主义革命与建设的事业摇旗呐喊、真正的共产主义者的肖洛霍夫；一个是进入自己的文学世界、作为民众疾苦的呼吁者、求真求善的寻道者的肖洛霍夫。这不就《1984》里所描述的“双重思想”（Double think)）吗？历史，有时候真是让人感到荒凉。</p>
+<p><strong>四</strong><strong> 索尔仁尼琴（勃列日涅夫时代获奖）</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%B4%A2%E5%B0%94%E4%BB%81%E5%B0%BC%E7%90%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%B4%A2%E5%B0%94%E4%BB%81%E5%B0%BC%E7%90%B4.jpg" alt="索尔仁尼琴" width="500" height="308"></a><br></strong><span><strong>索尔仁尼琴</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%8F%A4%E6%8B%89%E6%A0%BC2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%8F%A4%E6%8B%89%E6%A0%BC2.jpg" alt="度假胜地古拉格2" width="389" height="400"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%8F%A4%E6%8B%89%E6%A0%BC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%8F%A4%E6%8B%89%E6%A0%BC.jpg" alt="度假胜地古拉格" width="430" height="323"></a><br><span><strong>索尔仁尼琴同志工作和生活过的地方——度假胜地古拉格</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8F%A4%E6%8B%89%E6%A0%BC%E7%BE%A4%E5%B2%9B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8F%A4%E6%8B%89%E6%A0%BC%E7%BE%A4%E5%B2%9B.jpg" alt="古拉格群岛" width="" height="550"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%99%8C%E7%97%87%E6%A5%BC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%99%8C%E7%97%87%E6%A5%BC.jpg" alt="癌症楼" width="300" height="441"></a><br><span><strong>索尔仁尼琴同志作品一览</strong></span></p>
+<p>作为苏联最著名的诺贝尔获奖作家，这位哥的故事及其作品太著名了，你家隔壁的王大妈都能给你介绍一下，<strong>略。</strong><strong><br></strong></p>
+<p><strong>五</strong><strong> 布罗茨基（戈尔巴乔夫时代获奖）</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%83%E7%BD%97%E8%8C%A8%E5%9F%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%83%E7%BD%97%E8%8C%A8%E5%9F%BA.jpg" alt="布罗茨基" width="480" height="399"></a><br></strong><span><strong>布罗茨基</strong></span></p>
+<p>布罗茨基的诺贝尔奖故事颇有黑色喜剧味道。</p>
+<p>布罗茨基是天生的盗火者，一个人的自由灵魂真是天生的，布罗茨基大小就开始拒绝苏联官方的教育和宣传。甭管苏联官方的精神高压有多强，说一千到一万，布罗茨基微微一笑，就四个字回应“<strong>去你妈的</strong>”。真是骑士级别的朋克啊，我好好中意。</p>
+<p>布罗茨基15岁就从中的自己退学混社会了，先后当过火车司炉工、板金工、医院陈尸房工人、地质勘探队的杂务工等。虽然没接受过啥正规教育，但文学天赋奇高的布罗茨基在混社会之余他还创作诗歌，这些诗歌在社会上广为流传。20岁的他就在列宁格勒的文学圈里混出大名了。年迈的阿赫玛托娃挺喜欢布罗茨基的，视他为接班人。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%98%BF%E8%B5%AB%E7%8E%9B%E6%89%98%E5%A8%83%E7%94%BB%E5%83%8F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%98%BF%E8%B5%AB%E7%8E%9B%E6%89%98%E5%A8%83%E7%94%BB%E5%83%8F.jpg" alt="阿赫玛托娃画像" width="425" height="351"></a><br><span><strong>阿赫玛托娃画像</strong></span></p>
+<p>但是布罗茨基太非官方了，而且和他接触的作家都属于当时的“地下作家”，都是苏联官方的眼中钉，所以1960年代开始，布罗茨基开始受到秘密警察的骚扰，1964年秘密警察把他逮捕，罪名颇为辩证法——“社会寄生虫”。</p>
+<p>苏联这个国家挺逗的，什么都短缺，就不短缺玩人的方法。为了360度全方位的将这个“寄生虫”击垮搞臭，苏联官方不承认布罗茨基是个作家，只称他是个狗屁流浪汉。为此，向来讲究实事求是、一丝不苟的苏联官方在审判时还专门无情的对布罗茨基自以为是的诗人身份进行揭露批判。</p>
+<p>审问实录如下：</p>
+<blockquote><p>法官：你的职业是什么？</p>
+<p>布罗茨基：诗人。</p>
+<p>法官：谁承认你是诗人？谁给你权利把自己称为诗人？</p>
+<p>布罗茨基：没有人！而谁又给我权力作为人类的一员呢？</p>
+<p>法官：你为成为过一个诗人进行过学习吗？</p>
+<p>布罗茨基：我不认为诗歌是个学习的问题！</p>
+<p>法官：那它是什么问题？</p>
+<p>布罗茨基：我认为它是来自上帝的礼物！</p></blockquote>
+<p>当然，布罗茨基的小聪明狡辩是不能改变滚滚前行的历史车轮的，1965年，布罗茨基作为一个“社会寄生虫”被判入狱五年。同时，一个叫“青年诗人工作委员会”的正派文学组织庄严的宣布：<strong>“布罗茨基——他——不是一个诗人”</strong>。宛如十诫一般决绝和神圣，完美！perfect！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B0%8F%E4%BA%8E%E4%B8%80.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B0%8F%E4%BA%8E%E4%B8%80.jpg" alt="小于一" width="300" height="467"></a><br><span><strong>布罗茨基作品，《小于一》</strong></span></p>
+<p>但是事情总在变化，布罗茨基入狱的年代正是苏联高层更迭的时代，勃列日书记上台，政治缝隙增大。当时国内外有不少喜欢布罗茨基的诗人求情，官方一宽宏大量，就把刚关了一年半的布罗茨基放出去了，随即将他驱逐出国。这位被官方盖上“不是诗人”刚戳的人，仓惶跑到了美国，一直在那里窝着，一辈子混的也就那嘛事儿吧，马马虎虎，马马虎虎，也就写了点自以为是的书，混到1996年就死了，也就比苏联多活了4年。<strong>哦，对了1987年，这个“不是诗人”的家伙获得了诺贝尔奖。</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%8D%E6%98%AF%E8%AF%97%E4%BA%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%8D%E6%98%AF%E8%AF%97%E4%BA%BA.jpg" alt="不是诗人" width="460" height="244"></a><br><span>诺贝尔把奖颁给一个“不是诗人”的人，诺贝尔不行，要完，诺将不诺。</span></strong></p>
+<p><strong>the end</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/x%E5%8D%9A%E5%A3%AB%EF%BD%9C%E4%BB%96%E4%BB%AC%E8%AF%95%E5%9B%BE%E8%AE%BA%E8%AF%81%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E8%8E%B7%E5%BE%97%E8%80%85%E4%B8%8D%E6%98%AF%E8%AF%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">创作自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔文学奖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E9%A6%AE%E6%B5%B7%E8%81%9E%EF%BC%9A%E4%BA%94%E4%B8%AD%E5%85%A8%E6%9C%83%E9%97%9C%E4%B9%8E%E5%A4%A7%E5%9C%8B%E5%A4%A2%E6%83%B3/" target="cdt-mirror">太阳报｜馮海聞：五中全會關乎大國夢想</a>
 </h2>
 <p><p>十一长假后的北京已是深秋，但中国政坛热度不减，这其中的重头戏当属十八届五中全会的召开。虽然当局并未公布五中全会的具体议程，但这早已不算是秘密，按照以往惯例，经济问题将是五中全会的主题，主要讨论「十三五」规划，对未来五年中国的经济发展作出全面部署，提出发展目标，向人们描绘中国梦的美好愿景。由于「十三五」全部在习近平执政期之中，因此五中全会将决定习近平时代的政绩评价。</p>
@@ -609,51 +687,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%85%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E7%83%AD%E8%A7%82%E5%AF%9F-%E5%9B%BD%E4%BA%BA%E5%A2%83%E5%A4%96%E6%B8%B8%E5%BF%99%E6%89%AB%E8%B4%A7%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%85%91%E7%8E%B0%E9%99%8D%E5%85%B3/" target="cdt-mirror">网易热观察 | 国人境外游忙扫货与中国未兑现降关税承诺有关</a>
-</h2>
-<p><p><strong>境外购物如此火热，与中国境内进口商品价格偏高密不可分。近年，中国因为没有完全兑现加入WTO后减免关税的承诺，中国海关还对本应零关税进口的商品征行邮税。2010年，进口商品税收占中央财政收入三成。可以预期，在经济下行、财政税收增速减缓的当下，降低进口商品的税收成本动作不会太大。</strong></p>
-<p>网易《热观察》 文|海鹏飞 编辑|史毋意</p>
-<p>刚过去的国庆7天长假，中国游客再次扫荡了日、韩、欧美等地的商场，从化妆品、电子产品、感冒药到各类包包，买买买根本停不住。</p>
-<p>目前，中国出境游市场比上年同期大增逾三成，人均购物额超过5000元。中国游客境外游时疯狂血拼，最根本原因还是国内外同款或类似商品高达三、四成的差价。</p>
-<p>境外购物如此火热，与中国境内进口商品价格偏高密不可分。近年，中国因为没有完全兑现加入WTO后减免关税的承诺，也广受诟病；网易《热观察》梳理发现，以进口护肤品为例，在进口商品消费税、增值税等刚性税负高达47%保持不变的情况下，即使降低进口关税，其价格下降有限，很难改变国人境外游疯狂购物的现状。</p>
-<p>一、境外购物普遍比国内便宜30%到40% 买买买根本停不住</p>
-<p>从化妆品到马桶盖、电饭煲，以及目前最流行的感冒药等家用药品，中国游客境外游时疯狂血拼。土豪毕竟是少数人，普通中国游客境外抢购虽有跟风成分，但最根本的原因还在于，国内外同款或类似商品与境外高达三、四成的差价。</p>
-<p>品种新、质量好，汇率划算，再加上价格低廉等多种因素，中国游客在境外旅游时买买买根本停不住。比如，一位去日本旅行的朋友买了一款瑞士品牌电子手表，该款手表国内售价6000元左右，在日本同款4000元左右即可入手。同款单反相机，价格也要比国内便宜1000到2000元。</p>
-<p>化妆品的境内外价格差距，甚至可达一倍以上。2012年，中国海关总署执行新关税后，国内进口的香水、眼霜、精华液等化妆品完税价格，均大幅提高一倍以上。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/20151008175556011cc.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/10/20151008175556011cc.jpg?resize=424%2C970" alt="20151008175556011cc" data-recalc-dims="1"></a><p>化妆品进口关税率超高</p></div>
-<p>二、“中国制造”在海外买更便宜 中国商品价税收成本为美日3到4倍</p>
-<p>令人惊讶的是，部分“中国制造”产品在国外买竟然比国内更便宜。于是，近年中国游客境外游时，带回来的礼物甚至包括中华烟、茅台酒，以及大量在中国生产的服装和电子产品。</p>
-<p>具体原因，除“中国制造”享受出口退税等优惠政策外，欧美、日韩销售商品价格的税收成本也普遍比中国低。比如，美国商品就没有中国高达17%的增值税。</p>
-<p>《中国经济周刊》报道，依据国际货币基金组织(IMF)2006年数据计算，中国商品价格中的税收成本很高，分别是美国的4.17倍，是日本的3.76倍，是欧盟15国的2.33倍。</p>
-<p>目前，中国境外游客人均购物额已超过5000元，而中国海关免税放行的个人自用进境物品总值在5000元以内。因此，每逢国内假期，海关方面都要严查入境申报。而对于iPhone6等电子产品，不管是否价格达到5000元，都需要申报完税；因此近年不断出现购物过多的中国游客涉嫌“走私”被指控定罪的案例。现实中，中国海关对入境旅客实行抽查制，不少返程国人会尝试“看运气、拼人品”。</p>
-<p>三、中国没有完全兑现加入WTO降减关税承诺 买iPad入境本应免税</p>
-<p>“中国制造”在海外买更便宜，也得益于加入WTO后，不少国家对中国产品实行的较低关税。但与此同时，中国因为没有完全兑现加入WTO时候减免关税的承诺，也广受诟病。</p>
-<p>网易《另一面》曾分析，中国海关还对本应零关税进口的商品征行邮税（关税+增值税+消费税）：2010年，海关罔顾商务部质疑，坚持对本应零关税的“海淘”iPad征收20%行邮税；2012年，海关坚持对本应零关税的“海淘”新西兰婴儿配方奶粉征10%行邮税。</p>
-<p>商务部就曾向官方媒体透露，按中国加入的WTO《信息技术协定》，包括通讯设备、计算机、芯片在内的二百多项信息技术产品，已在2005年实施零关税并且取消消费税；但本属于免税范围的iPad，却被中国海关坚持“海淘一部iPad按五千元完税价格征一千元行邮税”。</p>
-<p>此外，和欧美等国相比，中国的行邮税也保持着明显的高税率。目前，行邮税所采用的进口税税率共设四档，分别为10%、20%、30%和50%。国际快递公司DHL在其网站上，给出的欧盟行邮税一般性参考仅为5-9%。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/20151008175907a01b3_550.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/10/20151008175907a01b3_550.jpg?resize=550%2C395" alt="2015年6月1日起中国降低部分日用消费品进口关税超五成。" data-recalc-dims="1"></a><p>2015年6月1日起中国降低部分日用消费品进口关税超五成。</p></div>
-<p>四、境外购物如此火热，与中国境内进口商品价格偏高密不可分</p>
-<p>中国人境外购物如此火热，与中国境内进口商品价格偏高密不可分。《瞭望东方周刊》曾分析，除了关税，对进口商品价格影响较大的还有增值税。目前，中国大部分进口商品的增值税税率适用17%，而美国则没有增值税；尽管许多欧盟成员国的消费税（增值税）标准税率高达20%左右，但其中很多国家对食物采取了降低税率的措施，特定品种适用于减税税率。</p>
-<p>《南方日报》曾披露，商务部门调查显示，手表、箱包、服装、酒、电子产品这五类产品的20种品牌高档消费品，国内外的差价明显：国内市场比香港要高45%左右，比美国高51%，比法国高72%。</p>
-<p>当下，中国国内的进口与国产化妆品，均普遍征收30%的消费税，要远高于韩国国内化妆品10%的消费税税率。</p>
-<p>五、国内部分免税店并不真正完全免税</p>
-<p>为刺激国内消费，近年，国务院要求增设和恢复口岸进境免税店，合理扩大免税品种，增加一定数量的免税购物额，方便国内消费者在境内购买国外产品。但事实上，除机场免税店，国内目前部分所谓“免税店”并非真正完全免税。</p>
-<p>《外滩画报》分析，上海自贸区称不上是真正意义上的免税商店，而是属于“保税展示交易”区域，即商品由供应商直接供货，在展示过程不交税，直到被消费者购买才交税。只是得益于上海自贸区“进口商品直销”模式，减去中间经销商的成本和利润空间，市民们能在此买到价格更优惠的进口商品。</p>
-<p>六、进口商品税收占中央财政收入三成 难以大幅减税</p>
-<p>2015年6月1日起，中国将降低部分服装、鞋靴、护肤品、纸尿裤等日用消费品的进口关税税率，平均降幅超过50％。网易《热观察》梳理发现，在消费税、增值税保持不变的情况下，降低关税效果有限。</p>
-<p>以进口护肤品为例，其关税税率税率这次由5%下降到2%，但消费税税率却仍高达到30%，加上17%的增值税，刚性税负高达47%，进口商品的价格下降有限。</p>
-<p>《南方日报》曾报道，商务部一直推动降低进口商品的关税和增值税、消费税，将消费力留在国内，但财政部有着不同看法；两部委分歧的背后，是每年数百亿美元的消费额和上千亿人民币税收的权衡。</p>
-<p>据财政部相关数据，2010年进口货物关税2027多亿元，增值税、消费税近1.05万亿元，二者合计占中央财政收入的比重达到29.5%。据统计，加入WTO以来，中国进口税收年均增长17.8%，对中央财政收入贡献始终保持在25%以上，是最稳定的中央税收来源之一。</p>
-<p>可以预期，在经济下行、财政税收增速减缓的当下，降低进口商品的税收成本动作不会太大，国人今后境外游恐怕仍将继续买买买。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E7%83%AD%E8%A7%82%E5%AF%9F-%E5%9B%BD%E4%BA%BA%E5%A2%83%E5%A4%96%E6%B8%B8%E5%BF%99%E6%89%AB%E8%B4%A7%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%85%91%E7%8E%B0%E9%99%8D%E5%85%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wto/?category=18271" rel="tag">WTO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">中国游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%A8%8E/?category=18271" rel="tag">关税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%8F%E5%85%8D%E5%85%B3%E7%A8%8E/?category=18271" rel="tag">减免关税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E8%B4%AD%E7%89%A9/?category=18271" rel="tag">境外购物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81/?category=18271" rel="tag">进口商品</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -665,7 +698,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wto/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -675,5 +708,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wto/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

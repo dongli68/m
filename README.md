@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%B4%E8%A7%82%E9%A6%96%E5%B1%8A%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/" target="cdt-mirror">【网络民议】围观首届世界马克思主义大会</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/20151011222614611624.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/20151011222614611624.jpg" alt="20151011222614611624" width="550" height="183"></a></p>
+<p><strong>新闻背景：</strong><br>
+10月11日，<a href="http://edu.people.com.cn/n/2015/1011/c1053-27684066.html">人民网报道了“首届世界马克思主义大会在北京大学召开”</a>的消息：</p>
+<blockquote><p> 本报北京10月10日电 （记者赵婀娜、何民捷）首届世界马克思主义大会10日在京举行。共有来自近20个国家的400多名马克思主义研究学者和中国问题研究专家参加，大会以“马克思主义与人类发展”为主题，围绕马克思主义在世界范围内的交流、传播与发展及其在推动社会进步和文明发展中的重要价值进行研讨。</p>
+<p>据悉，这是中国目前举办的规模最大、参会学者层次最高的马克思学术研究与讨论大会。受邀前来的世界知名学者包括埃及经济思想家萨米尔·阿明、哈佛大学教授罗德里克·麦克法夸尔、耶鲁大学教授约翰·罗默以及纽约大学教授波特尔·奥尔曼等。<br>
+北京大学将于10月10日至11日召开首届“世界马克思主义大会”，主题为“马克思主义与人类发展”。</p>
+<p>[…] 北京大学党委书记朱善璐介绍，北京大学是中国最早研究和传播马克思主义的思想阵地，在北大举办世界马克思主义大会有着独特意义。在建设有中国特色的世界一流大学的进程中，北大将全力推动马克思主义的理论创新和马克思主义学科建设，为民族伟大复兴与人类进步提供思想与人才支持。</p></blockquote>
+<p>大会由北京大学主办，邀请了中国现代史专家、哈佛大学教授麦克法夸尔（马若德）做主旨演讲。而截至目前，所有官媒报道中均避谈麦克法夸尔的演讲内容。围观了本届大会的北京大学学生<a href="http://weibo.com/u/2386344912">@淇琪不戚戚</a>发长微博“吐槽”，称麦克法夸尔<a href="http://photo.weibo.com/2386344912/wbphotos/large/mid/3897223676492506/pid/8e3cbbd0jw1ewyn2gm7lsj20c82kwto5">“对马克思主义在普通中国人中的影响表示了疑问”</a>，还提到了污染、文革、六四、七不讲等官方回避的问题。其他受邀学者中有人也援引马克思，对中国的私有制发展和信息审查制度提出质疑。大会官方文件上甚至写错与会学者的名字和所在机构：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/8e3cbbd0jw1ewyn2gm7lsj20c82kwto5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/8e3cbbd0jw1ewyn2gm7lsj20c82kwto5.jpg" alt="8e3cbbd0jw1ewyn2gm7lsj20c82kwto5" width="440" height="3344"></a></p>
+<p><strong>以下为数字时代编辑摘自新浪微博评论：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-12-at-%E4%B8%8B%E5%8D%8812.31.17.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-12-at-%E4%B8%8B%E5%8D%8812.31.17.png" alt="Screen Shot 2015-10-12 at 下午12.31.17" width="602" height="626"></a></p>
+<p>吕频：有些出丑的，“不和谐”的问题，没什么关系，毕竟不会太传播；而宣传却可以很高调，所以对他们应该还蛮值。</p>
+<p>原创的老飞II：看最后一句话，就想问问那些反普世价值的：马克思主义是不是“普世价值”？如果不是，那么凭什么说马克思主义是全人类的“指路明灯”？或者说马克思当年搞马克思主义就是专门给中国人搞的？</p>
+<p>mationlaa：为什么矛盾根源最后都指向旧政权制度？这个政权制度是在推动人与人之间的相互平等尊重，促进社会进步解放？还是为了维护当权者的特权统治地位，通过思想言论禁锢、政治愚民来磨灭人性和理性，将人们变成野兽和牲畜来供其驱使奴役。</p>
+<p>岳长和君：包容怎么解释？平等又如何理解？共同富裕，可能吗？能和谐的基础在哪儿呢？ 但缺乏人性思考的先天缺陷（两大阶层间）是无论如何都改变不了的伪科学！也不符合市场经济学原理，更不符合人类的进化论 所谓大道殊途同归耳 廉洁清明的政治不需要这么多借口的（人心难泯）</p>
+<p>翼语天地：说什么研究马克思主义，说白了就是在研究怎样维持独裁统治的歪理邪说，如何继续欺骗人民做臣民的自圆其说……</p>
+<p>山听风_s16：韩国儒家经典木刻申遗成功，北京大学拜马认爹大会。好的送出去，不谢不谢！</p>
+<p>Godspirit：人家共产国际尚在、或者斯大林时期都没开过这种会，你倒是牛了来执此牛耳。</p>
+<p>JUNLEI365：最高学府尚且如此，可见一般学府。</p>
+<p>郁风先生：马克思主义不是西方思想吗？</p>
+<p>红旗下的蛋-80：张雪忠：一个已在坟墓里躺了一百多年的德国死人，在天朝眼里，远比今天十三亿神州活人更有資格决定神州的政治制度以及执政的归宿。这种荒谬绝伦和暴虐透顶的做法，可以说是一切叛国行为中最严重最恶劣的；一般叛国行为只是出卖国民的外在利益，而这种做法是出卖国民的灵魂。转</p>
+<p>windtalker-xu：宣传自己都不相信的东西的时候，包子准备干坏事了</p>
+<p>涨停专业户：一直想不通，为什么高举马克思主义的国家都是专制独裁国家</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%B4%E8%A7%82%E9%A6%96%E5%B1%8A%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">世界马克思主义大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">北京大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%A6%E5%85%8B%E6%B3%95%E5%A4%B8%E5%B0%94/?category=18271" rel="tag">麦克法夸尔</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%87%A4%E5%87%B0%E7%BD%91-%E5%AE%98%E5%AA%92%E8%A7%86%E7%82%B9%EF%BC%9A%E6%96%B0%E7%96%86%E5%8E%BB%E6%9E%81%E7%AB%AF%E5%8C%96%E8%B0%83%E6%9F%A5/" target="cdt-mirror">凤凰网 | 官媒视点：新疆去极端化调查</a>
 </h2>
 <p><p><strong>4月，凤凰网主笔陈芳历时近半月，走访新疆和田地区墨玉县、和田县、于田县，喀什地区叶城县、莎车县、疏附县、喀什市，伊犁州伊宁县，对话数十位基层、地厅、自治区级官员，就新疆“去极端化”工作展开深入调查。</strong></p>
@@ -1006,40 +1039,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%9D%A9%E5%91%BD%E8%80%85%E7%9A%84%E8%83%9C%E5%88%A9%EF%BC%9A%E7%AA%81%E5%B0%BC%E6%96%AF%E5%85%A8%E5%9B%BD%E5%AF%B9%E8%AF%9D%E6%9C%BA%E6%9E%84%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94/" target="cdt-mirror">端传媒｜革命者的胜利：突尼斯“全国对话机构”获诺贝尔和平奖</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/83fb9a614cb042679d0f70f0bced2cc3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/83fb9a614cb042679d0f70f0bced2cc3.jpg" alt="" width="575" height="432"></a><p>突尼斯“全国对话机构”获2015年诺贝尔和平奖，图为其中一个机构——突尼斯人权联盟（LTDH）主席 Abdessattar Ben Moussa。摄： FETHI BELAID／AFP</p></div>
-<p>10月9日，2015年诺贝尔和平奖得主揭晓，由突尼斯“全国对话机构”（National Dialogue Quartet）夺得。</p>
-<blockquote><p>基于其在2011年“茉莉花革命”过后，于突尼斯建立多元化民主社会的过程中，所作出的关键贡献，本届诺贝尔和平奖颁予突尼斯“全国对话机构”。</p>
-<p><span>挪威诺贝尔委员会</span></p>
-</blockquote>
-<p>挪威诺贝尔委员会在声明中指，突尼斯在2011年“茉莉花革命”后，政局依然混乱，可能出现政治暗杀、社会动荡等恶果，徘徊于内战边缘；但“全国对 话机构”在2013年夏天成立后，在全国公民、各政党及当权者之间构筑了一条和平的政治沟通渠道，让突尼斯能在数年之内建成一个宪政国家，有效保障全国人 民的基本权利，包括性别、政治及宗教信仰。</p>
-<p>委员会主席 Kaci Kullmann Five 指，“突尼斯目前仍然面对政治、经济及国家安全挑战，希望和平奖能鼓励当地人民，同时为正身处中东、北非以至全球各地，为宣扬和平及民主而努力的人带来启发和参考”。</p>
-<p>突尼斯“全国对话机构”由4个当地公民社会团体组成，包括突尼斯总工会（UGTT）、工商及手工业联会（UTICA）、人权联盟（LTDH）及律师 联会（Tunisian Order of Lawyers），各自代表社会的不同行业及价值观，包括劳工及福利、法治原则及人权等。</p>
-<p>“茉莉花革命”源于2010年12月，突尼斯亚一名26岁小贩布瓦吉吉（Mohamed Bouazizi）因被当局没收摊档，自焚抗议而死。事件成为全国大规模抗议的导火线，反对独裁、贪污政权及失业率持续高企的各大城镇人民最终推翻了在位 23年的总统本・阿里（Ben Ali），革命借该国国花茉莉花命名。</p>
-<p>突尼斯的革命之火，更加迅速烧至整个北非、中东地区近20个国家，包括埃及、利比亚、叙利亚、也门等，被誉为“阿拉伯之春”。远在中国等非阿拉伯国家，也一度出现“茉莉花散步”等抗议活动。</p>
-<p>然而，在“阿拉伯之春”诸国当中，例如埃及、利比亚虽然推翻了独裁政权，但政局持续混乱，尤其叙利亚、也门更加陷入内战至今，没法展开民主化进程。</p>
-<p>而在突尼斯，由伊斯兰主义者领导的后革命政府，与支持世俗化的反对派也陷入政治对立，在2013年更濒临内战边缘，但在“全国对话机构”牵头协调 下，各方通过政治对话化解分歧，顺利订立新宪法，并在2014年11月举行了革命后第一次正规的总统大选，过程井然有序，被视为从独裁过渡至民主社会的里 程碑。</p>
-<p>据挪威诺贝尔委员会表示，今年的和平奖一共有273个候选单位，包括68家组织和205位独立人仕。而结果公布之前，媒体普遍预测委员会将把焦点放 在当前的难民危机，因此将德国总理默克尔（Angel Merkel）定为得奖热门；而促成美国与古巴外交关系正常化的教宗方济各（Pope Francis），也被视为热门人选。</p>
-<div>
-<p><strong><span>338</span></strong>人</p>
-<p><span>据突尼斯政府统计，历时近1个月的“茉莉花革命”当中，共造成338人死亡，2147人受伤。</span></p>
-</div>
-<p> </p>
-<h3>声音</h3>
-<blockquote><p>这个和平奖，是对建设民主突尼斯的殉道者的致敬……我们的年轻人所作出的努力，允许了国家翻开独裁统治后的新一页。<br><span>––“全国对话机构”组成团体之一、突尼斯总工会秘书长 Houcine Abassi</span></p>
-<p>这是一则让人难以置信的消息，是对整个突尼斯选举及民主化进程，包括一直以来一切工作及对话的明确鼓励。关键是，它让全球关注我们。我们还有很多工作要完成，有很多新的挑战要面对。<br><span>––“全国对话机构”组成团体之一、突尼斯人权联盟的荣誉主席 Mokhtar Trifi</span></p>
-<p>这是一个出乎意料的结果，在新闻中心的所有人、甚至全球，大概都在问：“谁？”但所有人已经把焦点放在一个值得人关注、但一直被忽略的和平进程。<br><span>––英国卫报</span></p></blockquote>
-<h3>2014年突尼斯总统选举</h3>
-<blockquote><p>这次选举是2011年突尼斯革命和2014年1月采用新宪法后的第一次正规总统选举。此次选举的登记选民为528万，共设有1.1万个投票站，最终投票率 达到了64.6%，投票过程也井然有序。本次大选的举行标志着突尼斯政治过渡进程渐近尾声。而世俗派的突尼斯呼声党参选人贝吉·埃塞卜西（Beji Caid Essebsi）以55.68%的得票率胜出，于2015年1月就任总统。 （资料来自维基百科）</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%9D%A9%E5%91%BD%E8%80%85%E7%9A%84%E8%83%9C%E5%88%A9%EF%BC%9A%E7%AA%81%E5%B0%BC%E6%96%AF%E5%85%A8%E5%9B%BD%E5%AF%B9%E8%AF%9D%E6%9C%BA%E6%9E%84%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">民主改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%81%E5%B0%BC%E6%96%AF/?category=18271" rel="tag">突尼斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">茉莉花革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5/?category=18271" rel="tag">阿拉伯之春</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1051,7 +1050,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1061,5 +1060,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

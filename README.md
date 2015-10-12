@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,66 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%80%81%E5%A4%A7%E5%93%A5%E5%9C%A8qq%E4%B8%8A%E7%9C%8B%E7%9D%80%E4%BD%A0/" target="cdt-mirror">【网络民议】老大哥在网上看着你</a>
+</h2>
+<p><p><strong>新闻背景：</strong></p>
+<p>南华早报 | 海天盛筵外围女涉组织卖淫被抓 名企老总涉案</p>
+<p>一度几乎和色情二字划上等号的海天盛筵今年沉寂了不少，但海天盛筵外围女孙静雅的被捕过程上周被曝光，让事件再次受到关注。已因涉嫌组织介绍卖淫罪的孙静雅说，外围女为提高身价要花钱包装，包括编造演员经历等，而涉及卖淫案的人中，不乏国内知名企业的老总和高管。</p>
+<p>2013年以来，在三亚举行的海天盛筵一直被指涉嫌淫乱，众多富豪、明星及嫩模都被指参与其中。 2014年盛筵声称没有举办淫乱派对，但有媒体实地探访後发现，还是有不少色情派对和外围女服务在地下进行。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/60718250jw1ewy1ooymlij20fa08kglu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/60718250jw1ewy1ooymlij20fa08kglu.jpg" alt="60718250jw1ewy1ooymlij20fa08kglu" width="440" height="246"></a></p>
+<p>海天盛筵的女主角孙静雅就是外围圈内的“知名人士”。央视上周报道，孙静雅已在南京被山东警方抓获，目前因涉嫌组织介绍卖淫罪被批准逮捕。</p>
+<p>孙静雅是在2013年4月火起来的。当时有网友声称自己的朋友“陪人睡了3天赚了60万”，後来被曝出这位“朋友”就是平面模特、车模孙静雅。</p>
+<p>网传的孙静雅微信截图还显示，她写道“三亚特好做，正好有活动，人多了更好做了”，还说“有几个人连续几天每天找我，在那里找我的都多给我小费。”</p>
+<p>今年8月22日，央视采访了在枣庄市看守所的孙静雅。她说，当时自己还没有进入外围圈，是因为微信截图事件才火起来的，并否认自己是炒作，也不认识炒作自己的人。</p>
+<p>她说，自己确实在2013年4月到过三亚，也将自拍的照片发到网上，但“他们就把那个照片拿来宣传说事我也参加了（淫乱派对），但实际上我根本没参加”。</p>
+<p>她说，后来自己被拉进一两个群，突然就火了，开始有人慕名联系她。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7da2952fjw1ewyet9q24vj20dm09oq3l.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7da2952fjw1ewyet9q24vj20dm09oq3l.jpg" alt="7da2952fjw1ewyet9q24vj20dm09oq3l" width="440" height="312"></a></p>
+<p>火了之后的孙静雅正式进入了外围女的圈子里。去年11月，枣庄市公安局破获了一起卖淫案件，而孙静雅的名字正正在卖婬女名单里面。</p>
+<p>警方表示，孙静雅已经相当于这个行业中老大的地位，不仅是卖婬女，而且还是经纪人。</p>
+<p>今年6月5日，专案组在北京、天津、广州、深圳等地抓捕了卖淫团夥成员，其中孙静雅在南京某宾馆被当场抓获。</p>
+<p>在谈及自己过往的非法交易时，孙静雅表示自己每次都有大笔进项，“一两万的都有”。</p>
+<p>她说，外围女不仅卖淫，也组织和介绍卖淫。价格高一点的，基本上都有包装，例如在网上建一个百科，谎称自己拍过什么戏或者广告，可以花一两千元做个百科将自己写得很好，但“说白了就是骗人的”。</p>
+<p>目前孙静雅已经因为涉嫌组织介绍卖淫罪被批准逮捕。据山东省枣庄市公安局网安支队支队长林志强介绍，警方已查获了67名涉及案件的犯罪嫌疑人和相关人员，刑事拘留了20多人，已经批准逮捕11人。案件抓获的犯罪嫌疑人，大多都是在90年左右出生的青年男女，包括一些高学历的年轻人，还有国内某知名企业的老总和某网站的高管。</p>
+<p>————————————</p>
+<p>央视有关视频报道：<a href="http://news.cntv.cn/2015/10/08/VIDE1444308121137390.shtml" target="_blank">《一线》 20151008 一念成祸</a></p>
+<p>然而就在央视报道的有关节目中，有细心网友却发现公安部门在侦破和查处此次案件中，使用了网安支队所搜集到的相关信息作为证据，然而这些由网安支队可以随意查询到的聊天信息，都是腾讯QQ的私人聊天内容。对此，有不少网友表示震惊，但也有不少人对此表示早有知悉，“不是新闻”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1.jpg" alt="1" width="439" height="355"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/10/2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/2.jpg" alt="2" width="440" height="356"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/10/3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/3.jpg" alt="3" width="441" height="355"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/10/4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/4.jpg" alt="4" width="442" height="355"></a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>孙渣：哎哟卧槽，原来QQ信息警察是随便看的啊……</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/66cb4654gw1ewxmqdfh1rj20ml0frjt2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/66cb4654gw1ewxmqdfh1rj20ml0frjt2.jpg" alt="66cb4654gw1ewxmqdfh1rj20ml0frjt2" width="440" height="307"></a></p>
+<p>
+</p><p>Teraland：央视记者问孙静雅知道卖淫是犯罪吗？知道为什么还要去做？哈哈哈哈笑晕了。这么辩证的问题应该去问康师傅这种级别的才对。抓了个卖淫女就这么一副为民除害大义凛然，让秦城宾馆的情何以堪。</p>
+<p>迷恋LYF：通过孙静雅的事，我只知道我们每个人的网上聊天记录都能被看到，好可怕。</p>
+<p>周安洛是仙人球姑娘：看完那个孙静雅被抓的那个视频，简直了，我从头到尾都在恐惧公安机关怎么能在网上随便看到我们的网上聊天记录，感觉随时被监视了一样，好恐惧！</p>
+<p>williamlong：海天盛筵女主孙静雅涉组织卖淫被捕一案里，警方通过查看QQ聊天信息“过夜太贵”、“3000起步”获得破案线索，这说明腾讯QQ专门有一个给警方的后门，警方可以通过后门，以关键字搜索的方式查看所有用户的QQ和QQ群聊天记录。因此，QQ聊天请用火星文或图片聊天，以防被监控。</p>
+<p>616stark：那个叫孙静雅的被抓，是源于所谓jc叔叔的日常网上巡逻发现的案情！看新闻的视频里，所谓网上巡逻，就是看qq聊天记录，而且是两者之间的，换句话说，他们可以随时调阅qq记录，意料之中却又很正经！没看那条新闻视频的赶紧去找来看看吧！</p>
+<p>616stark：笑死了，孙静雅被抓的那条新闻里22分45秒jc叔叔上门抓别的人，敲门是：您好，您的快递到了！看到这里我差点没一口水喷屏幕上，原来传说中的手段是真的啊！我去阳台笑一会先！</p>
+<p>MyDF：据央视报道，“海天盛筵”外围女孙静雅在南京被抓，孙静雅被曝陪人睡三天收费60万。这次是被嫖的上央视，谁付的60万，嫖客呢？</p>
+<p>重工组长于彦舒：据说有专门的部门，大厅大屏幕滚动刷聊天内容，遇到敏感词就单独跳出…</p>
+<p>喑哑预兆：本来就能看到，然而无论是发黄图黄片还是搞基约炮网警都不会管，你约了人去炸政府大楼或者讨论起义纲领分分钟被找上门。</p>
+<p>猛汉百科的QB君：是啊，平时网警同志就默默地看着老司机开车的。</p>
+<p>立志不劳而获的猫：你以为网警是什么，看群聊天记录还需要群主通过验证吗？</p>
+<p>leo释上修：我国的监控真的是无孔不入啊～</p>
+<p>Dizzy冰：对的，有个公安的同学说过，50人以上群都是重点监控对象，随时抽查防恐怖袭击策划。</p>
+<p>LucentBeam：我最震惊的是他们居然自己说出来了。</p>
+<p>Oyangiz：孙静雅事件告诉我们，国内的聊天工具都是不安全的。</p>
+<p>许亿白胖子：这才是真正细思恐极的，在网上几乎是裸奔啊。</p>
+<p>武杨东山警：在我们的头顶上有一张我们看不到的网！俗称网监。</p>
+<p>月隐寒霜：孫靜雅因網警獲得隱私聊天而被捕，又有前日支付寶之洩露信息事，頓感不適。若有親人朋友間私密事，金錢事被你等肆意查看，丟失物品金錢及名譽，該找誰說理？難道不可以有隱私？孫靜雅究竟是因隱私洩漏輩爪，還是網警侵入了隱私，新聞方能不能說清楚？</p>
+<p>河豚呜咩可酱：我国所有网络公司都要求客户聊天记录保存在服务器三年以上，公安部门随时有权调看。网警就是干这个的啊。不然为啥要求所有国外网络公司要进中国必须把服务器放在中国境内呢？就是方便监控啊。</p>
+<p>火星人宅在地球：监听手机还要写申请，而监听邮件、IM之类分分钟的事，所谓的程序也形同虚设……</p>
+<p>飞奔的jojo：太天真了……岂止聊天记录，你的网购记录，浏览记录，没有他们查不到的。你不知道只是因为你暂时没有被查的价值而已。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%80%81%E5%A4%A7%E5%93%A5%E5%9C%A8qq%E4%B8%8A%E7%9C%8B%E7%9D%80%E4%BD%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/qq/?category=18271" rel="tag">QQ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E9%9D%99%E9%9B%85/?category=18271" rel="tag">孙静雅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%A9%E7%9B%9B%E5%AE%B4/?category=18271" rel="tag">海天盛宴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%89%E6%94%AF%E9%98%9F/?category=18271" rel="tag">网安支队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%9B%91/?category=18271" rel="tag">网监</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E5%9B%BD%E5%AE%B6%E8%BF%BD%E6%8D%95%E7%9A%84%E5%AD%A9%E5%AD%90/" target="cdt-mirror">东网 | 赵思乐：被国家追捕的孩子</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/bkncn-20151010000319092-1010_05411_001_01p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/bkncn-20151010000319092-1010_05411_001_01p.jpg" alt="bkncn-20151010000319092-1010_05411_001_01p" width="608" height="434"></a></p>
@@ -800,22 +857,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%8E%E9%82%AE%EF%BC%9A%E5%BA%94%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B9%A0%E8%AE%BF%E7%BE%8E%E5%89%8D%E9%80%AE%E6%8D%95/" target="cdt-mirror">美国之音｜华邮：应美方要求中国在习访美前逮捕黑客</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/C793575D-8FFE-44B1-AEE6-56B1565B87E7_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/C793575D-8FFE-44B1-AEE6-56B1565B87E7_w640_r1_s.jpg" alt="C793575D-8FFE-44B1-AEE6-56B1565B87E7_w640_r1_s" width="575" height=""></a></p>
-<p>美国《华盛顿邮报》10月9日报道，在中国国家主席习近平上个月访问美国前一两个星期，应美国政府的要求，中国前所未有地秘密逮捕了一批从事网络黑客活动的嫌疑人。</p>
-<p>报道援引消息人士的话说，美国情报和司法部门向中国提交了一份黑客名单，中国按照名单对这些人实施了秘密抓捕。报道说，中国这么做的目的可能是为了缓解与华盛顿的紧张局势。习近平访美前，奥巴马政府曾威胁要对中国进行经济制裁。</p>
-<p>美国官员指控上述这些网络黑客针对美国企业实施网络攻击，并将所获得的机密信息交付中国国有企业。</p>
-<p>报道说，奥巴马政府目前正在密切关注上述被捕黑客是否会受到公开的审判，因为公开审判才会对其他的中国网络黑客予以威慑。</p>
-<p>美中双方都没有证实上述消息是否属实。也没有独立的消息来源证实确实有涉案人员被抓获。《华盛顿邮报》说，另一个同样值得考虑的问题， 美方还不清楚这是中国的一个和解战略，还是代表了真正的政策改变。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%8E%E9%82%AE%EF%BC%9A%E5%BA%94%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B9%A0%E8%AE%BF%E7%BE%8E%E5%89%8D%E9%80%AE%E6%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%86%9B/?category=18271" rel="tag">中国网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -827,7 +868,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -837,5 +878,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E5%9B%BD%E5%AE%B6%E8%BF%BD%E6%8D%95%E7%9A%84%E5%AD%A9%E5%AD%90/" target="cdt-mirror">东网 | 赵思乐：被国家追捕的孩子</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/bkncn-20151010000319092-1010_05411_001_01p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/bkncn-20151010000319092-1010_05411_001_01p.jpg" alt="bkncn-20151010000319092-1010_05411_001_01p" width="608" height="434"></a></p>
+<p>包蒙蒙仅是一名16岁少年，遭“跨境追捕”，理由只是他是政治犯的孩子。</p>
+<p>包卓轩，小名包蒙蒙，16岁，将来想要读法律，据说他身材已经挺高，但一脸稚气，很黏妈妈……然而在他的国家眼中，他可能只有一个名字——人质。</p>
+<p>今年7月8日深夜，包蒙蒙与他的父亲、人权律师包龙军来到北京首都机场，他们将飞往澳大利亚，包蒙蒙准备在那里开始高中生活，他的母亲、同为人权律师的王宇到机场为两人送行。那是包蒙蒙最后一次见到妈妈。</p>
+<p>7月9日凌晨一点多，王宇最后一次与包龙军、包蒙蒙取得联系，凌晨4点17分，王宇给朋友发出消息称家中电源与网络被断，有人正在撬门。那是王宇最后一次与外界取得联系。</p>
+<p>一天以后，律师大抓捕正式开始，288名律师、法律工作者和人权扞卫者被警察约谈，其中20馀人被指涉嫌煽动颠覆国家政权、危害国家安全、寻衅滋事等多项犯罪，无一获得律师会见，至今不知所踪，多家重要官方媒体在法院未审理情况下将他们作为罪犯报道。外界将此系列事件称为“709律师大抓捕”。</p>
+<p>包蒙蒙经历两天的拘禁后被送往内蒙古的外婆家，护照被没收，警察对他定下“四不准”禁令：不准请律师、不准和外国媒体联系、不准和帮助爸妈的朋友联系、不准出国读书。包蒙蒙接受香港媒体采访称：“我也很痛苦，但倒不惧怕什么。”</p>
+<p>在王宇、包龙军被囚禁百日之时，10月9日，包蒙蒙在缅甸失联的消息传出。香港律师关注组称，包蒙蒙和同行的人权扞卫者唐志顺、幸清贤10月6日中午在缅甸猛拉市的华都宾馆8348房间被带走。该饭店的老板称当时来了10馀人，出示了缅甸警察证件，搜查了客房，把三个人都带走了。10月7日，他们的朋友和律师到当地警察局查询，警察声称没有抓人，随后他们走访了当地的政法处，也没有查到三人的下落。</p>
+<p>10月8日晚上11时，辛清贤成都的家被查抄，执行者是成都市公安局与内蒙古自治区兴安盟公安局，即包蒙蒙外婆所在地的警察机关。警察在搜查时亦口头告知已经抓获包蒙蒙。</p>
+<p>熟悉包蒙蒙情况的人士称：“包卓轩无法忍受国保秘密警察长期、持续的骚扰、恐吓、精神控制（包括对家人）， 乘十一长假之际脱离公安控制，欲经过缅甸到境外安静读书上学，在缅甸失联，料其行踪过早被监控人员发现，现在很可能已在内蒙乌兰浩特公安手中。”</p>
+<p>包蒙蒙仅是一名16岁的少年，遭遇如此“跨境追捕”，仅有一个理由：他是政治犯的孩子——关在境内可以充当人质用来与王宇、包龙军谈判，在境外却可能成为国际媒体的焦点——他的存在本身就是对中国人权状况的持久控诉。</p>
+<p>动用组织化暴力将一个未成年人掳为人质，让人除了“恐怖主义”难以想出别的词汇来定性这种恶行，中国和缅甸政府共同完成了这场真正国际级的恐怖主义行动。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E5%9B%BD%E5%AE%B6%E8%BF%BD%E6%8D%95%E7%9A%84%E5%AD%A9%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%85%B3%E4%BA%8E%E5%8C%85%E5%8D%93%E8%BD%A9%E7%AD%89%E4%BA%BA%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%B8%AA%E7%9A%84%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E/" target="cdt-mirror">中国律师关于包卓轩等人在缅甸失踪的紧急声明</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image.jpeg" alt="image" width="229" height="303"></a></p>
@@ -794,61 +816,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E8%BE%B9%E7%A4%BE%EF%BD%9C%E6%9D%8E%E9%BA%A6%E5%AD%90%EF%BC%9A%E7%9C%8B%E5%AE%88%E6%89%80%E5%A7%90%E5%A6%B9%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%E5%92%8C%E6%9D%83%E5%8A%9B%E6%B8%B8%E6%88%8F/" target="cdt-mirror">法边社｜李麦子：看守所姐妹们的生活和权力游戏</a>
-</h2>
-<p><blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/">五女权人士被拘</a>专题</p></blockquote>
-<p>前几日，听一位女权前辈说，如果我进了看守所，我会珍惜这个机会，在看守所里面进行田野调查，有朝一日我出来了，我就可以撰写我的调查研究报告，让大家可以了解中国看守所里面的女性的生活。我钦佩她的勇气，也欣赏她的专业精神。</p>
-<p>而我，虽然只在看守所呆了37天，相对于大多数人，也算是一种独特的生命经验了。所以，我就分享一下看守所的姐妹们的生活吧。</p>
-<p>我的监室人数最多的时候有23个人，最少的时候16个人。一个大概45平米的房间，扣掉阳台和厕所，水池，和中间的走道占用的面积，大概只有不到10平米的地方是大家能够在室内睡觉的空间。如果按照人数最多的时候23个人这样算下来，每个人可以有半平米的面积睡觉，也就意味着每个人平躺，一个挨着一个的这样睡，刚好可以睡下，满满当当的。</p>
-<p>但是，事实却没有我们想象的这么平等。在监室里资格比较老的，正值青壮年的，监室里担任主要职务的可以拥有较大的空间，但是根据每人所拥有权力的不同，也有等级划分。</p>
-<p>在介绍等级划分之前，我要给大家恶补一下看守所的知识。监室也就是我们被关押的房间，我们叫做“号”，每个楼层划分出来的监区，叫做“筒”，王曼，韦婷婷，我，郑楚然和武嵘嵘分别被关押在，11筒1，11筒3，11筒5，11筒7和12筒3。由此，可以看出来公安部门的良苦用心。为了避免我们相互传话，我们被拆散关在相隔很远的号里。</p>
-<p>在号里建立了值班制度和值日制度，也就是你午间，夜间要承担值班的任务，白天要参与保持监室卫生的值日。值班制度，也就是你要被分配具体的时间值班。我们监室照顾老年人，中午的值班都交给了老年人。青壮年和年轻人都需要值夜班。看守所的作息是：</p>
-<p>早晨</p>
-<p>6:20起床，</p>
-<p>6:40吃早饭，</p>
-<p>8:00开始学习，</p>
-<p>10:30风场放风，</p>
-<p>中午</p>
-<p>11：10吃饭，</p>
-<p>12:00午睡，</p>
-<p>14:00起床，开始学习，</p>
-<p>16:00风场放风，</p>
-<p>16:40吃饭，</p>
-<p>晚上</p>
-<p>18:30开始学习，</p>
-<p>20:00开始洗澡，</p>
-<p>20:30学习结束，</p>
-<p>22:00睡觉，</p>
-<p>直到第二天6:20起床。</p>
-<p>周末不需要学习，学习的时间用来打牌，玩耍，其他的时间不变，日复一日。</p>
-<p>晚上有8个小时的睡觉时间，同时开始值夜班。夜班佩戴小黄帽，就是小学生需要戴的那种，为的是方便识别。夜班一共8人，2人一组，一共四组，值班时间分别为：</p>
-<p>22:00-00:00(困难程度1。值班的轻松阶段，通常由有权力并且担任职务的中年妇女担任值班员，之所以轻松是因为，你不需要从深夜中踉踉跄跄的醒过来，也不需要熬夜太久)</p>
-<p>00:00-02:00（困难程度3:值班比较难熬的阶段，但是也不是最难熬的，现在很多年轻人都是这样的作息，凌晨两点不睡也还好）</p>
-<p>02:00-04:00（困难程度4，值班最难熬的阶段，通常有没权力没地位的年轻人，或者新人进行）</p>
-<p>04:00-06:20（困难程度2，相对比较轻松，虽然整体值班时间比较长，但是连续睡了六个小时之后，睡眠比较充足，这个时间段也经常分配给固定的中年妇女。）</p>
-<p>看守所有的等级是不显著，但是大家却都心知肚明的。</p>
-<p>下面我就来讲讲值日制度。</p>
-<p>看守所女监值日形成了一套比较完整的制度，工作类型分为：</p>
-<p>擦地，擦地的工作还包括清理厕所，被视为由新人和号里等级最低的人来完成，地组组长除外。擦地每天早晨，中午，防风和晚上都要进行，每次擦4-6遍。姐妹们拿着抹布，手平铺抹布在地面上呈S型擦地，也要把死角清理干净，地租工作任务比较重，相对人也比较多。我们号里，负责刷厕所的是一个被认为不洁身自好的，随便和男人睡觉的姐妹。曾经值班员提出刷厕所的工作需要轮换，不能总让她一个人刷厕所，这不公平，但是她表示她刷习惯了，她愿意做这个工作。于是，她承担了大部分人不愿意做的工作，并且毫无怨言。她之前从事的工作是按摩，我的肩颈很僵硬的时候，也经常找她给我按摩，她手法很不错，手劲儿也很大。加上生活上，我很照顾号里弱势的人，她属于比较弱势的，所以我们的关系也非常不错。她有时候会跟着我唱几句《女权之歌》。</p>
-<p>擦板：级别最低。这就是我被分配的工作。通常新人刚刚来到监室不管你是从别的号调过来的，还是刚进来的，都要从擦地做起。但是由于我毫无经验，在1104待了一天就被调到了1105，值班员问我在1104做什么工作，我就说我叠被子。值班员就误以为我是很厉害的角色，也不敢给我安排擦地的工作了。阴差阳错的值班员就给我安排了板组的工作。这个事情也是在我出来之后，才想明白的。</p>
-<p>擦板流程：级别中等。早饭前后擦一次，午饭前后擦一次，晚饭前后擦一次，睡觉前擦一次，每次擦2遍，吃肉的时候擦三遍，因为肉油比较多，要用洗衣粉先擦一边，然后清水擦两遍。老年组和我们板组一起工作，老年组也被安排了相对轻松的工作，也就是投抹布。头几次擦板，由于没有经验，板上拉下拉一根头发，一粒馒头渣都会被值班员指出来，但是后来就基本上没有出现类似问题了，因为出错就等于给了值班员罚你值夜班的机会，所以擦板这么简单的工作，我还是可以胜任的。</p>
-<p>打饭打水：级别高。这个工作主要负责我们的打饭菜，打水和洗刷的工作。因为避免不可知的传染病的传播，饭组的工作需要注意卫生，每天清洗餐具也需要确保干净，所以这个工作通常会交给比较会稳重，通常都是已婚妇女，或者会做家务的女性从事。当然，这个工作级别比较高，因此也需要是老号，或者中年妇女级别的人才有机会。</p>
-<p>叠被子：级别较高。这个工作很轻松，就是睡觉的时候，把堆叠在一起的辈子平铺在板上，醒来的时候不用被子，就把辈子堆叠在一起，放在摄像头的死角位置。这样既可以避免有人躲藏在死角做一些什么管教民警看不到的事儿，也可以诶节约空间。</p>
-<p>值班员，协管。级别最高。她们负责制定值班表，维护监室秩序，而且不用做值日。</p>
-<p>精神病鉴定期间人员：大BOSS级别。号里有一个奶奶，她对法律很精通，曾经指导我写控告信，她被关押5个月了，没有逮捕，因此我怀疑她处于精神病鉴定阶段，因为这个阶段是不计入办案期限的。而且这位奶奶的精神状态也不是很稳定。她不值班，不做值日，而且睡在头板。后来有一次，她被号子里的人群殴了，她就搬到了11筒5。</p>
-<p>在此又要补充一个知识了，那就是床板怎么睡也是有讲究的。监室的床板（也是饭板），分为东板和西板，放风场朝南，监室门朝北。东板睡的人是相对等级比较高的，西板则是相对等级较低的人。</p>
-<p>每个板上，每个人的睡觉位置是固定的。大BOSS睡在监室门口靠墙的位置，也就是头板。她可以自由的翻身，她旁边则是地组组长。之后是饭组工作人员，之后是板组组长，然后就是没有职务，根据年龄和号里的停留时间长短来决定位置，我睡在底板，也就是头板一个人睡的地方，在底板要两个人一起分享，所以翻身就成了问题，每天起床我的肩膀都因为挤压而僵硬疼痛。本来以为来了看守所不需要工作，可以调理身子，可是肩膀的问题一直都没有改善，倒是吃素减肥，减了十斤肉。胸跟着也平了。</p>
-<p>东西板的分布格局也差不多，其实等级是非常森严的。</p>
-<p>未完待续。</p>
-<p><em>文/李麦子</em><br><em>文章来源：微信公号“占领男厕所”</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E8%BE%B9%E7%A4%BE%EF%BD%9C%E6%9D%8E%E9%BA%A6%E5%AD%90%EF%BC%9A%E7%9C%8B%E5%AE%88%E6%89%80%E5%A7%90%E5%A6%B9%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%E5%92%8C%E6%9D%83%E5%8A%9B%E6%B8%B8%E6%88%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">看守所</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -860,7 +827,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -870,5 +837,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

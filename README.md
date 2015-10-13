@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E5%85%A8%E7%90%83%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F%E6%8E%92%E5%90%8D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%80%92%E6%95%B0/" target="cdt-mirror">网易数读 | 全球“死亡质量”排名：中国倒数</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/201510120254308f067.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/201510120254308f067.jpg" alt="201510120254308f067" width="550" height="883"></a></p>
+<p>近日，经济学人智库发布了一项全球死亡质量排名报告，主要关注于各国姑息治疗的实施情况。所谓姑息治疗，与临终关怀类似，不过针对范围从晚期癌症病人扩充至所有患有危及生命的疾病的患者，通过提供支持系统，缓解患者生理和心理上的双重痛苦，让患者离开得有尊严，从而提高死亡质量。</p>
+<p>该报告将“死亡质量”评分标准分为5大类别，包括姑息治疗的环境、人力资源、医疗护理的可负担程度、护理质量和公众参与等，各类别下细分为20个定性或定量的小指标。结果显示在80个国家及地区当中，英国排名第一，随后是澳大利亚、爱尔兰、比利时等国，美国排名第九，而中国大陆地区排名71，综合得分23。实际上2010年经济学人智库就发布了第一版报告，当时仅涵盖40个国家及地区，结果也是英国排名第一，而中国大陆排名37，印度垫底。</p>
+<p>在评分标准的权重中，政府的政策支持与财政投入占近40%的比重，包括对医疗机构的支持、开放镇痛药品的供应、患者医疗负担的补贴等等，这一点决定了经济发达的国家排名往往靠前。而在中国，一方面由于政府支持有限，大多数的临终关怀机构都集中于少数大城市，且患者财务负担沉重，另一方面在公众参与上，由于缺乏有关死亡的教育，民众对于临终关怀的了解甚少，甚至医生也没有经过相关专业培训，普遍执着于治愈性治疗，反而增加了患者无谓的痛苦。</p>
+<p>然而报告中指出，中国是少数几个处于低收入国家分组，但对姑息治疗需求较高的国家。2012年癌症、心血管疾病等慢性病已经占到中国人死亡原因的80%以上，而2020年中国将有13%的人口达到65岁以上，相比之下印度却只有6%，这意味着中国将有更庞大的姑息治疗需求，但现状却是目前的医疗条件只能满足0.3%的患者需求，如何让人们有尊严地死去将是一项长期艰难的课题。</p>
+<p>延伸阅读： <a href="http://news.163.com/15/0408/02/AML6507200014MTN.html" target="_blank">《中国人死因30年变化：癌症死亡率猛增》</a></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E5%85%A8%E7%90%83%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F%E6%8E%92%E5%90%8D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%80%92%E6%95%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80/?category=18271" rel="tag">临终关怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">医患纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%9D%A1%E4%BB%B6/?category=18271" rel="tag">医疗条件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%91%E6%81%AF%E6%B2%BB%E7%96%97/?category=18271" rel="tag">姑息治疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">死亡质量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%B8%A4%E6%9C%88%E5%90%8E-%E5%A4%A9%E6%B4%A5%E5%8F%88%E4%B8%80%E4%BB%93%E5%BA%93%E8%B5%B7%E7%81%AB/" target="cdt-mirror">纽约时报 | 天津港爆炸两月后 天津又一仓库起火</a>
+</h2>
+<p><p>据中国官方新闻媒体报道，周一晚间，天津一仓库发生起火并受损严重。暂时没有人员伤亡的报告，但这场事故发在该市另一地区的一场化学品仓库爆炸之后的两个月，那场事故造成了至少165人死亡。在中国的社交媒体网站上，视频展示出一个照亮天空的很大的火球，这样的场景让人联想到发生在8月12日的爆炸。据北京《新京报》报道，消防员在周一晚间9时46分接到报警，一家存储了氨水和酒精的仓库起火。该报援引一份当地政府的声明，称火势在零点前得到控制。一名目击者对该报称，没有发生爆炸，尽管多家其他中国新闻媒体将起获形容为爆炸。8月在存储了危险化学品的仓库发生的爆炸，将天津的港口地区的部分移平。事故暴露了中国迅速工业化之下，安全规定的执行不力和政治上的任人唯亲。周一的这场火灾发生在北辰区，离天津城中心更近。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CC324DE458A9B5BBC259EDE239F5413A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CC324DE458A9B5BBC259EDE239F5413A.jpg" alt="CC324DE458A9B5BBC259EDE239F5413A" width="480" height="640"></a></p>
+<p><strong>以下为官方媒体报道：</strong></p>
+<p>昨日(10月12日)晚间，天津市北辰区西堤头镇一个约500平方米的仓库起火，内存放有氨水和酒精。据天津消防消息，截至今日凌晨0时许，现场大火已被扑灭，暂无人员伤亡。</p>
+<p>一位学生向新京报记者提供了爆炸现场的视频。在一分多钟的视频中，火灾现场至少发生两次爆炸，并伴有火球腾空，现场浓烟滚滚，有学生在视频中称，“天津市北辰区发现附近有火灾，都爆炸了”。摄录过程中，附近消防汽笛声不断。</p>
+<p>爆炸点附近的市民王女士称，事发地点位于北辰区与东丽区交界处，西堤头村南边，距离其两站公交距离。昨晚9时30分左右，其在阳台看到不远处火光冲天，“没有听见爆炸声，火大概有三层楼高，一直冒浓烟”。10时许火情得到控制，“火焰有房子那么高。”</p>
+<p>附近一公司的工作人员表示，火灾至少造成了两三次爆炸，并有大火球腾空。</p>
+<p>今日凌晨0时许，天津北辰区政府办公室相关负责人告诉新京报记者，他们在昨夜10时许接到消息，称西堤头一存放酒精的个人工厂仓库着火，目前火势在可控制范围内，政府相关负责人和消防已经赶到现场，“只是起火，并无剧烈爆炸。”</p>
+<p>凌晨1时许，天津市公安局官方微博通报称，昨夜21时46分，天津公安消防总队接报警，位于北辰区西堤头镇西堤头村的一仓库发生爆燃。接报后，公安消防、属地北辰分局警力迅速赶到现场处置。目前，扑救工作仍在进行，现场无人员伤亡。</p>
+<p>随后，有媒体从北辰区委宣传部获悉，事发地为西堤头一个无证照储存氨水和酒精的库房起火爆炸，目前暂无人员伤亡报告。</p>
+<p>据悉，此次爆炸距天津塘沽爆炸事故仅2个月。另据天津当地媒体报道，9月16日，北辰区检查组刚刚进入西堤头镇，重点对油漆、制气企业进行拉网式排查，要求各企业加强特种设备的安全管理，全面开展自查自纠行动，将安全隐患消灭在萌芽状态。检查组要求，属地管理部门和相关企业要严格落实安全主体责任，全力维护北辰安全生产稳定大局。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%B8%A4%E6%9C%88%E5%90%8E-%E5%A4%A9%E6%B4%A5%E5%8F%88%E4%B8%80%E4%BB%93%E5%BA%93%E8%B5%B7%E7%81%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E8%BE%B0%E5%8C%BA%E7%88%86%E7%82%B8/?category=18271" rel="tag">北辰区爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/?category=18271" rel="tag">塘沽爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%81%AB/?category=18271" rel="tag">大火</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BE%8E%E5%AA%92%E6%8A%A5%E9%81%93%E5%8C%85%E5%8D%93%E8%BD%A9%E5%B7%B2%E8%A2%AB%E9%81%A3%E8%BF%94%E5%86%85%E8%92%99%E8%BD%AF%E7%A6%81/" target="cdt-mirror">自由亚洲 | 美媒报道包卓轩已被遣返内蒙软禁</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image1.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image1.jpeg" alt="image" width="300" height="233"></a><br>
@@ -50,7 +90,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%B4%E8%A7%82%E9%A6%96%E5%B1%8A%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/" target="cdt-mirror">【网络民议】围观首届世界马克思主义大会</a>
 </h2>
@@ -966,83 +1006,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%AE%8F%E5%A4%A7%E7%9A%84%E9%98%85%E5%85%B5%E5%BC%8F-%E5%86%B7%E6%B8%85%E7%9A%84%E5%98%89%E5%AE%BE%E5%8F%B0/" target="cdt-mirror">德国之声｜宏大的阅兵式 冷清的嘉宾台</a>
-</h2>
-<p><p><strong>这应该是朝鲜有史以来最大的庆典，它同时包含了处于孤立之中的平壤政府发给世界和朝鲜民众的讯息：金氏王朝政权稳固，军事实力不容小觑。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018774332_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018774332_30300.jpg" alt="0,,18774332_303,00" width="575" height=""></a></p>
-<p>（德国之声中文网）”朝鲜劳动党万岁”，一条飘舞在金日成广场上方、由大气球拉起的横幅上写道。广场周边的大楼也挂满了满是红色的锤子和镰刀的党旗，以及朝鲜蓝、白、红三色的国旗。</p>
-<p>除了正式的阅兵队伍外，位于平壤市中心的金日成广场在这个周六是一片色彩的海洋，数万人挥舞着手中的花朵和彩旗。</p>
-<p>据朝中社报道，周六凌晨，金正恩已经前往金日成、金正日陵墓所在的锦绣山太阳宫，向其祖父和父亲致敬。</p>
-<h3><b>阅兵现场</b></h3>
-<p>在电视直播中，金正恩穿着标志性的中山装，走下红毯，接受军仪队司令官的敬礼。刚刚，成千上万的士兵踢着正步进入了平壤金正日广场。</p>
-<p>金正恩走上一个主席台，朝着军队挥手。这场阅兵式没有世界首脑参加，朝鲜的传统盟友<a href="http://www.dw.com/zh/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E9%87%91%E6%AD%A3%E6%81%A9-%E6%9C%9D%E9%B2%9C%E5%BA%86%E7%A5%9D%E5%8A%B3%E5%8A%A8%E5%85%9A70%E5%91%A8%E5%B9%B4/a-18774174">中国派出了中共中央政治局常委、中央书记处书记刘云山</a> 。</p>
-<p>刘云山站在金正恩的左边鼓掌，右边则是朝鲜高官。在金正恩通过翻译与刘云山交谈时，金笑容满面。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018774206_40300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018774206_40300.jpg" alt="0,,18774206_403,00" width="575" height="324"></a></p>
-<p>在庆典的电视讲话中，金正恩说朝鲜已经做好了”与美国进行任何形式战争”的准备。</p>
-<p>“（朝鲜劳动）党的革命性武器手段意味着我们做好迎接由美帝国主义发动的任何战争的准备”，金正恩在这个以他祖父名字命名的广场上说。</p>
-<p>对于这类语调，人们并不陌生。朝鲜经常谴责美国、韩国方面的军事对策是在为战争作准备。</p>
-<p>金正恩发言后，各方队入场：先是身着象征抗日战争期间革命力量的方队，然后是坦克方队和其他军事力量。武器装备方面，除坦克外，装甲车、火箭发射器和多种弹道导弹也在展示的行列。</p>
-<p>四天前拍摄的演习卫星图片已经透露了这次阅兵的规模–800顶帐篷、700辆卡车、200辆装甲车，而执政高层在二月宣布此次阅兵的”宏大规模”时，强调了适合现代战争的”前沿”武器装备的重要性。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018774334_40300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018774334_40300.jpg" alt="0,,18774334_403,00" width="575" height=""></a></p>
-<h3><b>当今朝鲜</b></h3>
-<p>平日安静而孤立的平壤在这个周六人声鼎沸，到处充斥着游客、国际媒体、生活在海外的朝鲜族代表团以及一些要研究朝鲜政治理念的无名俄罗斯、蒙古团体。</p>
-<p>一些外国分析人士表示，如此大张旗鼓地庆祝此次建党70周年庆典标志着，金正恩正试图建立他自己在党和军队中的地位。尽管金正恩、朝鲜劳动党和人民军大权在握，但是朝鲜不同国家部门之间的力量平衡非常微妙，保持其平衡是维持金氏政权稳固的关键。</p>
-<p>朝鲜目前维持”军事第一”的政策，称需要凭此对抗韩国和美国方面的威胁。然而近来，朝鲜官员们也开始强调<a href="http://www.dw.com/zh/%E5%B9%B3%E5%A3%A4%E5%8D%8E%E4%B8%BD%E7%AD%B9%E5%BA%86%E5%85%B8-%E4%B9%A1%E9%97%B4%E5%9B%B0%E8%8B%A6%E8%B0%81%E9%97%AE%E6%B4%A5/a-18766050">提高人民生活水平</a> 。在周年庆典前，朝鲜媒体赞誉有加地报道，该国启动了大规模建设与发展项目。这其中包括新的水力发电站和高层公寓楼。</p>
-<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%AE%8F%E5%A4%A7%E7%9A%84%E9%98%85%E5%85%B5%E5%BC%8F-%E5%86%B7%E6%B8%85%E7%9A%84%E5%98%89%E5%AE%BE%E5%8F%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1/?category=18271" rel="tag">刘云山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%87%91%E5%A4%A7%E5%A4%A7%EF%BC%8C%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/" target="cdt-mirror">【网络民议】金大大，这盛世，如你所愿</a>
-</h2>
-<p><p><strong><a href="http://news.ifeng.com/a/20151010/44809418_0.shtml">澎湃新闻｜朝鲜大阅兵：金正恩和刘云山出现在主席台</a></strong></p>
-<blockquote><p>据韩联社报道，当地时间10月10日下午，朝鲜劳动党建党70周年之际，朝鲜在平壤金日成广场上举行阅兵仪式。</p>
-<p>另据朝鲜中央电视台报道，金正恩和刘云山出现在阅兵主席台，随后金正恩向广场人群挥手致意。</p>
-<p>韩联社介绍称，自金正恩2011年执政后到现在，朝鲜共举行了4次阅兵式。</p>
-<p>[…]金正恩发表讲话称，朝鲜劳动党将会和人民一起以百倍的信心创造光明的未来。劳动党会坚持革命路线不动摇。全体人民都很热爱我们党，我们不能辜负人民的热爱，我们党对人民表达深沉的最衷心的谢意。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/a8ef5277jw1eww2utg5d8j20gk0ahgna.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/a8ef5277jw1eww2utg5d8j20gk0ahgna.jpg" alt="a8ef5277jw1eww2utg5d8j20gk0ahgna" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/a8ef5277jw1eww5224a85j20da09zweu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/a8ef5277jw1eww5224a85j20da09zweu.jpg" alt="a8ef5277jw1eww5224a85j20da09zweu" width="475" height=""></a><em><br>
-（图片来源：新浪微博 <a href="http://weibo.com/choiseongho">@作家崔成浩</a>）</em></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/">中国人民的老朋友</a>专题</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/5462359167" target="_blank">凹大大</a><i></i>：一个出去撒币，一个在家自娱<img title="[草泥马]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7a/shenshou_org.gif" alt="[草泥马]"></p>
-<p><a href="http://weibo.com/lancelotng" target="_blank">LanceNg_</a>：習大大！啊不，喊錯了。金大大！！<img title="[嘘]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif" alt="[嘘]"><img title="[嘘]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif" alt="[嘘]"></p>
-<p><a href="http://weibo.com/1851271774" target="_blank">maldinisky</a>：穷什么黩什么<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
-<p><a href="http://weibo.com/zhanzhengshiyanjiu" target="_blank">战争史研究WHS</a><i title="微博个人认证 "></i><i></i>：图2这即视感……<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/60718250jw1eww13ufpb5j20e5086gni.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/60718250jw1eww13ufpb5j20e5086gni.jpg" alt="60718250jw1eww13ufpb5j20e5086gni" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/a68d6077jw1eww1ajjwmoj20e80aojsn.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/a68d6077jw1eww1ajjwmoj20e80aojsn.jpg" alt="a68d6077jw1eww1ajjwmoj20e80aojsn" width="425" height=""></a></p>
-<p><a href="http://weibo.com/makexin" target="_blank">马克欣</a>：我们的祖国是？朝鲜！我们与祖国一起？战斗！噢~~~~噢噢噢噢噢~~~咚咚，咚咚咚，咚咚咚咚，朝鲜！咚咚，咚咚咚，咚咚咚咚，必胜！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/2409280615" target="_blank">Sunny岛主</a>：金大大万岁万岁万万岁<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a title="我爱伊豆" href="http://weibo.com/2267010554">我爱伊豆</a>： 流氓见流氓，真爱！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/1272445901" target="_blank">桂人路问</a>：自己国家推翻帝制双十节不庆祝，却要助兴流氓国家阅兵。<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
-<p>黑衣人_Relax：东西两朝鲜能不亲吗？</p>
-<p><strong>@L雙魚童鞋：终于了解，为什么上学时，班里学渣们关系都挺铁。</strong></p>
-<p>杨洋libra：——同志们好！ ——猪！头！肉！</p>
-<p>万世古佛：首长好————！！！同志们吃舍了？？！大咸菜！！！还吃舍了？！——还不知道！！！！！！</p>
-<p>@得道柏拉图：这可都是朝鲜的精英啊！除了三胖个个面黄肌瘦神情萎靡！可想普通朝鲜民众的生活！</p>
-<p>@索纶：一定要伺候好倒数第一啊！</p>
-<p>@lseve：隔壁二傻又来送温暖了，好久没吃一顿饱饭了，这次要好好坑一下在国际上到处撒钱的二傻了</p>
-<p>@竹林风哥123：三胖亲切握着刘叔叔的手道：“蜀黍你们青岛的虾真的那么好吃吗？”</p>
-<p><strong>@奔跑的阿超：恳请司令官留下老刘，支持朝鲜的宣传事业！</strong></p>
-<p>@黄载雄：物以类聚 人以群分 哥两好啊</p>
-<p>@酒中小宝：全球范围内难得一见的同志加兄弟……</p>
-<p>@老邢的博客：如此人间地狱，居然是朋友</p>
-<p>@一个雨后的夏天：正思索为何今天流氓国家阅兵上头条呢！哦！原来今天民国也国庆日。这摆明了想压民国呀！也就不管提协的是否流氓国家了。</p>
-<p><strong>@刘峰Joosep：金大大万岁 这盛世如你所愿</strong></p>
-<p><strong>@木偶木偶木偶：高频率词汇：人民、伟大的政党、军事强国、社会主义强国</strong></p>
-<p>@金宇大伯：怎么就中国领导人去了？？？其他国家呢？</p>
-<p>@元在戊辰:难以掩饰内心的心情：“艹TMD，ATM机可来了”！</p>
-<p>@简直他么六爆了：只能和流氓国家为伍，哎。</p>
-<p>@微风没有颜色：“人民”一词在此演讲中不断重复，贯穿始终。没有人民就没有朝鲜劳动党，这话听上去没有神话个人，而只有神话人民。有朝鲜浓厚的爱国主义情怀。中国春秋时期随国大臣季梁说得好：“夫民，神之主也，是以圣王先成民而后致力于神。”祝愿朝鲜民族在自己民族家园早日统一，安居乐业，经济繁荣，人民幸福。</p>
-<p>@谷申_2015：中国要告诉世界什么信息？与这个凶残的独裁熊抱，再买3000架波音也是白瞎。一盘青岛大虾，一座马克思楼，一意孤行，一条死路。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%87%91%E5%A4%A7%E5%A4%A7%EF%BC%8C%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%B7%AE%E9%92%B1/?category=18271" rel="tag">不差钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">西朝鲜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1054,7 +1017,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%B7%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1064,5 +1027,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%B7%AE
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

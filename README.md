@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%A4%A9%E6%B4%A5%E5%8C%97%E8%BE%B0%E5%8C%BA%E4%B8%80%E4%BB%93%E5%BA%93%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8/" target="cdt-mirror">【真理部】天津北辰区一仓库发生爆炸</a>
+</h2>
+<p><p>各新闻网站，天津北辰区一仓库发生爆炸一事严禁炒作，对借机攻击党和政府、社会制度的信息要严厉查处，立即清除。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%A4%A9%E6%B4%A5%E5%8C%97%E8%BE%B0%E5%8C%BA%E4%B8%80%E4%BB%93%E5%BA%93%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%8C%97%E8%BE%B0%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津北辰爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 20分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E4%BD%91%E4%B8%AAp%EF%BC%9F%E4%BD%A0%E4%BB%AC%E4%B8%8D%E6%98%AF%E6%97%A0%E7%A5%9E%E8%AE%BA%E8%80%85%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】天佑个P？你们不是无神论者吗？</a>
 </h2>
 <p><blockquote><p>背景新闻：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%B8%A4%E6%9C%88%E5%90%8E-%E5%A4%A9%E6%B4%A5%E5%8F%88%E4%B8%80%E4%BB%93%E5%BA%93%E8%B5%B7%E7%81%AB/">纽约时报 | 天津港爆炸两月后 天津又一仓库起火</a></p></blockquote>
@@ -1080,42 +1093,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/uber/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%A4%E7%BD%90%E9%9B%AA%E8%8A%B1%EF%BC%9A1896%E5%B9%B4%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E9%87%87%E8%AE%BF%E6%9D%8E%E9%B8%BF%E7%AB%A0%E5%8E%9F%E6%96%87%E5%8F%8A%E8%AF%91%E6%96%87/" target="cdt-mirror">两罐雪花：1896年纽约时报采访李鸿章原文及译文</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9D%8E%E9%B8%BF%E7%AB%A0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9D%8E%E9%B8%BF%E7%AB%A0.jpg" alt="李鸿章" width="400" height="216"></a></p>
-<p>以下引自《帝国的回忆》的翻译，原文在最后。</p>
-<p>离开在欧洲考察访问的最后一站英国后，大清帝国前直隶总督兼北洋大臣李鸿章乘“圣-路易斯”号邮轮于当地时间1896年8月28日抵达美国纽约，开始对美国进行访问。李鸿章在美国受到了美国总统克利夫兰的接见，并和美国一些要员及群众见面，受到了“史无前例的礼遇”（《纽约时报》）。9月2日上午9时许，李鸿章在纽约华尔道夫饭店接受了记者的采访。</p>
-<p>美国记者：尊敬的阁下，您已经谈了我们很多事情，您能否告诉我们，什么是您认为我们做得不好的事的呢？</p>
-<p>李鸿章：我不想批评美国，我对美国政府给予我的接待毫无怨言，这些都是我所期待的。只是一件事让我吃惊或失望，那就是你们国家有形形色色的政党存在，而我只对其中一部分有所了解。其他政党会不会使国家出现混乱呢？你们的报纸能不能靠国家利益将各个政党联合起来呢？</p>
-<p>美国记者：那么阁下，您在这个国家的所见所闻中什么最使您最感兴趣呢？</p>
-<p>李鸿章：我对我在美国见到的一切都很喜欢，所有事情都让我高兴。最使我感到惊讶的是20层或更高一些的摩天大楼，我在中国和欧洲从没见过这种高楼。这些楼看起来建得很牢固，能抗任何狂风吧？但中国不能建这么高的楼房，因台风会很快把它吹倒，而且高层建筑若没有你们这样好的电梯配套也很不方便。</p>
-<p>美国记者：阁下，您赞成贵国的普通百姓都接受教育吗？</p>
-<p>李鸿章：我们的习惯是送所有男孩上学。（翻译插话：在清国，男孩，才是真正的孩子。）我们有很好的学校，但只得付得起学费的富家子弟才能上学，穷人家的孩子没有机会上学。但是，我们现在还没有你们这么多的学校和学堂，我们计划将来在国内建立更多的学校。</p>
-<p>美国记者：阁下，您赞成妇女接受教育吗？</p>
-<p>李鸿章（停顿一会儿）：在我们清国，女孩在家中请女教师提供教育，所有有经济能力的家庭都会雇请女家庭教师。我们现在还没有女子就读的公立学校，也没有更高一级的教育机构。这是由于我们的风俗习惯与你们（包括欧洲和美国）不同，也许我们应该学习你们的教育制度，并将最适合我们国情的那种引入国内，这确是我们所需要的。</p>
-<p>记者：总督阁下，您期待对现存的排华法案进行任何修改吗？</p>
-<p>李鸿章：我知道，你们又将进行选举了，新政府必然会在施政上有些变化。因此，我不敢在修改法案前发表任何要求废除《格利法》的言论，我只是期望美国新闻界能助清国移民一臂之力。我知道报纸在这个国家有很大的影响力，希望整个报界都能帮助清国侨民，呼吁废除排华法案，或至少对《格利法》进行较大修改。</p>
-<p>美国记者：阁下，您能说明选择经加拿大而非美国西部回国路线的理由吗？是不是您的同胞在我国西部一些地区没有受到善待？</p>
-<p>李鸿章：我有两个原因不愿经过美国西部各州。</p>
-<p>第一，当我在清国北方港口城市担任高官时，听到了很多加州清国侨民的抱怨。这些抱怨表明，清国人在那里未能获得美国宪法赋予他们的权利，他们请求我帮助他们使他们的美国移民身份得到完全承认，并享受作为美国移民所应享有的权利。而你们的《格利法》不但不给予他们与其他国家移民同等的权利，还拒绝保障他们合法的权益，因此我不希望经过以这种方式对待我同胞的地方，也不打算接受当地华人代表递交的要求保证他们在西部各州权益的请愿信。</p>
-<p>第二，当我还是一名优秀的水手时，就知道必须学会自己照顾自己。我比别人年纪要大好多岁，从温哥华回国的航程要比从旧金山出发更短些。我现在才知道，清国“皇后号”船体宽阔舒适，在太平洋的所有港口都难以找到如此之好的远洋客船。</p>
-<p>排华法案是世界上最不公平的法案。所有的政治经济学家都承认，竞争促使全世界的市场迸发活力，而竞争既适用于商品也适用于劳动力。我们知道，《格利法》是由于受到爱尔兰裔移民欲独霸加州劳工市场的影响，因为清国人是他们很强的竞争对手，所以他们想排除华人。如果我们清国也抵制你们的产品，拒绝购买美国商品，取消你们的产品销往清国的特许权，试问你们将作何感想呢？不要把我当成清国什么高官，而要当成一名国际主义者，不要把我当成达官贵人，而要当作清国或世界其他国家一名普通公民。请让我问问，你们把廉价的华人劳工逐出美国究竟能获得什么呢？廉价劳工意味着更便宜的商品，顾客以低廉价格就能买到高质量的商品。</p>
-<p>你们不是很为你们作为美国人自豪吗？你们的国家代表着世界上最高的现代文明，你们因你们的民主和自由而自豪，但你们的排华法案对华人来说是自由的吗？这不是自由！因为你们禁止使用廉价劳工生产的产品，不让他们在农场干活。你们专利局的统计数据表明，你们是世界上最有创造力的人，你们发明的东西比任何其他国家的总和都多。在这方面，你们走在了欧洲的前面。因为你们不限制你们在制造业方面的发展，搞农业的人不限于搞农业，他们还将农业、商业和工业结合了起来。你们不象英国，他们只是世界的作坊。你们致力于一切进步和发展的事业。在工艺技术和产品质量方面，你们也领先于欧洲国家。但不幸的是，你们还竞争不过欧洲，因为你们的产品比他们的贵。这都是因为你们的劳动力太贵，以致生产的产品因价格太高而不能成功地与欧洲国家竞争。劳动力太贵，是因为你们排除华工。这是你们的失误。如果让劳动力自由竞争，你们就能够获得廉价的劳力。华人比爱尔兰人和美国其他劳动阶级都更勤俭，所以其他族裔的劳工仇视华人。</p>
-<p>我相信美国报界能帮助华人一臂之力，取消排华法案。</p>
-<p>美国记者：美国资本在清国投资有什么出路吗？</p>
-<p>李鸿章：只有将货币、劳动力和土地都有机地结合起来，才会产生财富。清国政府非常高兴地欢迎任何资本到我国投资。我的好朋友格兰特将军曾对我说，你们必须要求欧美资本进入清国以建立现代化的工业企业，帮助清国人民开发利用本国丰富的自然资源。但这些企业的管理权应掌握在清国政府手中。我们欢迎你们来华投资，资金和技工由你们提供。但是，对于铁路、电讯等事物，要由我们自己控制。我们必须保护国家主权，不允许任何人危及我们的神圣权力。我将牢记格兰特将军的遗训，所有资本，无论是美国的还是欧洲的，都可以自由来华投资。</p>
-<p>美国记者：阁下，您赞成将美国的或欧洲的报纸介绍到贵国吗？</p>
-<p>李鸿章：中国办有报纸，但遗憾的是中国的编辑们不愿将真相告诉读者，他们不像你们的报纸讲真话，只讲真话。中国的编辑们在讲真话的时候十分吝啬，他们只讲部分的真实，而且他们的报纸也没有你们报纸这么大的发行量。由于不能诚实地说明真相，我们的报纸就失去了新闻本身的高贵价值，也就未能成为广泛传播文明的方式了。</p>
-<p>评论：中堂大人真乃穿越者。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/VibV3F8O8quga9aQUn2tbZ7YtsrfgcOTs5pCFh4zPDPiaWz9X0ctliaIvPtogNDFOZibMic68fI05Nb3xcic8ZnhDS0Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%A4%E7%BD%90%E9%9B%AA%E8%8A%B1%EF%BC%9A1896%E5%B9%B4%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E9%87%87%E8%AE%BF%E6%9D%8E%E9%B8%BF%E7%AB%A0%E5%8E%9F%E6%96%87%E5%8F%8A%E8%AF%91%E6%96%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">国家主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">国家利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%83%85/?category=18271" rel="tag">国情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB/?category=18271" rel="tag">新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E7%95%8C/?category=18271" rel="tag">新闻界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%B8%BF%E7%AB%A0/?category=18271" rel="tag">李鸿章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1127,7 +1104,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1137,5 +1114,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

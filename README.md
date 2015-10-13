@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E4%BD%91%E4%B8%AAp%EF%BC%9F%E4%BD%A0%E4%BB%AC%E4%B8%8D%E6%98%AF%E6%97%A0%E7%A5%9E%E8%AE%BA%E8%80%85%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】天佑个P？你们不是无神论者吗？</a>
+</h2>
+<p><blockquote><p>背景新闻：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%B8%A4%E6%9C%88%E5%90%8E-%E5%A4%A9%E6%B4%A5%E5%8F%88%E4%B8%80%E4%BB%93%E5%BA%93%E8%B5%B7%E7%81%AB/">纽约时报 | 天津港爆炸两月后 天津又一仓库起火</a></p></blockquote>
+<p><br><em>（视频来源：新浪微博@Dizzy）</em></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E8%B6%81%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A2%AB%E9%81%97%E5%BF%98-%E8%AE%B2%E4%B8%80%E8%AE%B2%E6%88%91%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%848-12%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/">趁还没有被遗忘 讲一讲我所经历的8. 12塘沽爆炸</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/">【立此存照】天津逼签</a></li>
+<li><a title="【立此存照】介尼玛炸的丝空气清新剂吧！" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%8B%E5%B0%BC%E7%8E%9B%E7%82%B8%E7%9A%84%E4%B8%9D%E7%A9%BA%E6%B0%94%E6%B8%85%E6%96%B0%E5%89%82%E5%90%A7%EF%BC%81/">【立此存照】介尼玛炸的丝空气清新剂吧！</a></li>
+<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津滨海区爆炸事故</a>专题</li>
+</ul></blockquote>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%88%86%E7%82%B8.png" alt="爆炸" width="475" height="721"></p>
+<blockquote><p><a href="http://weibo.com/tjtientsin" target="_blank">@新浪天津</a>：#天津北辰区爆燃# 【北辰区一企业仓库起火 系非法租用】该企业注册在河北区，法人代表周庆吉，非法租用西堤头村村民霍焕成700平米的个人仓库，存储酒精3000公斤、乙酸1000公斤、甘油800公斤、氢氧化钠500公斤、氢氧化钾500公斤。 经区环保局现场监测符合空气质量标准。6:30消防员归队。（每日新报）<br><a href="http://weibo.com/tjpolice110" target="_blank">@平安天津</a>：#情况通报#10月12日21时46分，天津公安消防总队接报警，位于北辰区西堤头镇西堤头村的一仓库发生爆燃。接报后，公安消防、属地北辰分局警力迅速赶到现场处置。目前，扑救工作仍在进行，现场无人员伤亡。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@静小爱的窝窝：无人员伤亡？难道仓库连一个保安都没有吗？</p>
+<p>@magician-晕倒：额。。。现场还在扑救。。。无人员伤亡。。。你自己不觉得矛盾么。。天津港的事件过去好几个礼拜还有遇难者被搜救到呢，你连火都没扑完就说无人员伤亡。。实在有规避高层的意思</p>
+<p><strong>@曹阿流以后想养一条狗：爆炸，祈福，蜡烛，不哭，捐款，航拍到位，众志成城，正能量，最美XXX，哀悼日，载入史册，爆炸，祈福••••</strong></p>
+<p>@紫筠轩主：别总喊天佑天佑的，都是人祸，跟老天爷没有关系。</p>
+<p><strong>@无明寂学：天佑个P？你们不是无神论者吗？</strong></p>
+<p><strong>@余旭瑄：#天津北辰大爆炸#对于盛世来说，灾难是巨大的污点。但是，盛世轻松地消解了灾难，发明了温情脉脉的灾难美学，灾难的残酷性被救灾的好人好事取代，救灾者成为主角，遇难者成为配角——灾难美学代替了灾难反思。庆典和灾难互相冲突，但是庆典美学和灾难美学并行不悖，这是盛世的美学奇观。</strong></p>
+<p><a href="http://weibo.com/1698140161" target="_blank">别开枪是我羊羊羊</a>：谁在说“多难兴邦”云云的，我就直接抽他大嘴巴。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p><a href="http://weibo.com/2764455493" target="_blank">彭就定是彬我_</a>：一个月后，这件事会风平浪静，它会被各种娱乐花边和购物狂潮覆盖，大多数人不会提及，甚至好像它从来没有发生过，人们脸上依旧满挂笑容<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">。</p>
+<p><a href="http://weibo.com/5353207887" target="_blank">终南山__</a>：查电器，封食堂<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">把我们的生活搅的一塌糊涂，我以为是真为我们着想。然而整整两个月之后，又一家非法的化工仓库炸了<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">我就想问问这两个月整治的都是什么？整治的是我们这些不能为你当地GDP做贡献的学生吗？812真是白白牺牲了那么多人，依旧没把天津的某些人炸醒。</p>
+<p><a href="http://weibo.com/keixian520" target="_blank">JustChocolateOvO</a><i></i>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">守着石化和炼油厂的滨海新区大港人民发来贺电哦<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我都活到快高考辣(ง •̀_•́)ง冒着生命危险学习好吗hhhhhhhhh</p>
+<p>@冬冬z：又尼玛炸了，上次还没定好谁背锅了，领导都不够用的了</p>
+<p><a href="http://weibo.com/sunbingjun" target="_blank">孙炳军Baron</a><i title="微博个人认证 "></i><i></i>：<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]">天津市最大的领导黄兴国代书记、主管安全生产的何树山副市长，这下位子保不住了吧？</p>
+<p><a href="http://weibo.com/ppkub" target="_blank">鹏鹏大王彡</a>：听说你们家领导后台硬，上次要彻查也没结婚本来准备不了了之的，这次估计又要开会赶记者了，熬2个月后领导又是一条好汉，天津党委，牛<img title="[作揖]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif" alt="[作揖]"></p>
+<p>@哈哈大将军：我们将继续“举一反三”……！艹！</p>
+<p>@Intent_萝卜：越有爆炸天津的空气质量越是正常</p>
+<p>@爱涵warmth：下次什么地方空气质量不好就来次爆炸，绝对符合标准了！！</p>
+<p>@木子佐90：易燃易爆，强碱腐蚀！</p>
+<p>@会旅行的老鼠rigo：又是炸的空气清新剂 看来哪里空气质量不好燃放些烟花爆竹啥的空气质量就会变好 不仅变好还会跻身空气质量的第一把交椅！ 看来雾霾也终于有救了。。。</p>
+<p>@大连猎神：给北京的空气治理 开了先河。</p>
+<p><strong>@芝心范的伯乐：一出事就是企业主非法操作，都非法了，怎么还能操作呢？</strong></p>
+<p>@余凯128：我觉得爆炸前肯定是合法的。。</p>
+<p>@夜神月大人：刚过去两个月就又爆炸？为什么不长记性？为什么无牌照就可以租用这么大一块地放这么多违规的东西？</p>
+<p>@桉涵康博：说明此前的消防安全检查是走过场～～其他解释全是浮云。</p>
+<p><strong>@风水师乔：连我一个看风水算八字的都看不下去了，一打开微博热门话题没有了，还要去找！直到现在公布的情况是一个父母基层公务员，一个原中化员工，一个穷光蛋，一个死了爹的无业游民、联手开了一个瑞海国际，两年内打败国企垄断了天津港。这特么才是最励志的中国合伙人好伐</strong></p>
+<p>@手机用户1030001393：这就是安全生产？无人员伤亡！我们真棒！！！</p>
+<p>@red狼：帝都北京 魔都上海 炸都天津</p>
+<p>@丨丶猪肠粉：还把我评论删除了?. 真是有够恶心的。小烟花炮竹都能把人给炸伤了,爆炸反而无人员伤亡。原来这爆炸的威力还比不上一个小烟火。真的长见识了</p>
+<p>@会幸福de鱼鱼：没事就好。另，兴国同志心理素质真好。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E4%BD%91%E4%B8%AAp%EF%BC%9F%E4%BD%A0%E4%BB%AC%E4%B8%8D%E6%98%AF%E6%97%A0%E7%A5%9E%E8%AE%BA%E8%80%85%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">事故通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E8%BE%B0%E5%8C%BA%E7%88%86%E7%82%B8/?category=18271" rel="tag">北辰区爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E9%97%AE%E8%B4%A3%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">官员问责制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%98%8E%E6%98%9F%E5%A9%9A%E7%A4%BC%E7%A7%80%E5%8F%AF%E4%BB%A5%E5%B0%91%E6%90%9E/" target="cdt-mirror">【异闻观止】人民日报 | “明星婚礼秀”可以少搞些</a>
 </h2>
 <p><p>陈向阳</p>
@@ -1067,84 +1116,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/x%E5%8D%9A%E5%A3%AB%EF%BD%9C%E4%BB%96%E4%BB%AC%E8%AF%95%E5%9B%BE%E8%AE%BA%E8%AF%81%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E8%8E%B7%E5%BE%97%E8%80%85%E4%B8%8D%E6%98%AF%E8%AF%97/" target="cdt-mirror">X博士｜他们试图论证诺贝尔文学奖获得者“不是诗人”</a>
-</h2>
-<p><p><em>本文首发无界新闻</em></p>
-<p><em><strong>文：霍启明</strong></em></p>
-<p>大家光看我写历史和鬼啦神啦的了，其实我本科学的是文学哦，算个2.5流作家，地下副高职称，正嗑级待遇。今天和旁友们念叨念叨苏俄文学。</p>
-<p>最近的诺贝文学奖揭晓了，白俄罗斯女作家阿列克谢耶维奇封顶。好多文学评论家认为阿列克谢耶维奇是苏联文学的一种延续。</p>
-<p>阿列克谢耶维奇说过：“<strong>每个时代都有三件大事，怎么杀人、相爱和怎么死亡</strong>”，我听了之后挺感动的，没错，这句话里面的确是苏俄文学那种独特悲怆味道。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87.jpg" alt="阿列克谢耶维奇" width="484" height="350"></a><br><strong><span>阿列克谢耶维奇：2015年诺贝尔文学奖获得者</span></strong></p>
-<p>其实说起来，苏联文学就像一个悲怆的黑色幽默。苏联时代的许多文人，不是坐上“哲学船”流亡，就是送进古拉格锻炼。就在这种情况下，苏联时代却又五位俄国大文豪获得诺贝尔奖，分别是莆宁、帕斯捷尔纳克、肖霍洛夫、索尔仁尼琴、布罗茨基。（纳博科夫、布尔加科夫、阿赫玛托娃等等我认为都是完全有资格获得诺贝尔文学奖的）。</p>
-<p>每个苏联时代获奖作家的故事，都是一幕扭曲的黑色喜剧。比如苏联官方曾花心思证明一个诗人不是诗人，而最后这个诗人却获得了诺贝尔奖……下面听我细讲。</p>
-<p><strong>一 </strong><strong>蒲宁（斯大林时代获奖）</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%92%B2%E5%AE%81.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%92%B2%E5%AE%81.jpg" alt="蒲宁" width="317" height="480"></a><br><span><strong>蒲宁一派白俄贵族气息</strong></span></p>
-<p>蒲宁出生在破落贵族家庭，从小接受了非常深厚的古典文学教育。天生敏感多愁，一个诗人的料，正经八百的继承了普希金、莱蒙托夫那些俄国抒情诗人的接班人。又有点像托尔斯泰那种澎湃的悲悯灵魂，俄国公认的语言大师，那诗写的相当的美啊，宁静幽暗的感觉，像那秋日扫来的风，我觉得特别像列维坦的画。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%88%97%E7%BB%B4%E5%9D%A6%E7%9A%84%E7%94%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%88%97%E7%BB%B4%E5%9D%A6%E7%9A%84%E7%94%BB.jpg" alt="列维坦的画" width="550" height=""></a><br><span><strong>蒲宁的诗就像列维坦的画</strong></span></p>
-<p>但是好景不长在，蒲宁的小生活在大时代里被打破了。一战末期，俄国国内大乱，沙皇死全家，红军杀白军，白军杀红军，杀人盈野，遍地都是枪毙处决和饿死的尸体，俄国大地变成了屠场，这让一个蕴含悲悯情怀的诗人怎么能接受这样残酷的景象啊！正是这种古典的、怀旧的世界观直接造成了蒲宁对十月革命的抵制，他没有像高尔基、阿·托尔斯泰那样把屁股拱上去迎接苏维埃政权的新生。当革命到来时，他起初茫然不知所措，继而采取公然敌视的态度，在刊物上咒骂革命，最终抱着咒诅态度，1920年10月26日，50岁的蒲宁挤上了开往法国的最后一艘邮轮，逃离革命，一辈子没回来。</p>
-<p>到了法国之后，蒲宁定居在巴黎，因为他的成就和名声成了当时逃亡到法国的白俄知识分子的头面人物。然而流亡异国的蒲宁越来越悲观、苦闷、消沉。在他身上逐渐出现了一种由于想象中的俄国理想贵族社会的失败而产生的忧郁症和随之而来的怀乡病，成了苏俄流亡文学的代表人物。他在流亡后灰暗至极，1923的一部小说叫做《完了》，一看名就知道多颓了。蒲宁另一大爱好就是没事喷一下高尔基等官方作家。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%B1%B3%E4%BD%B3%E7%9A%84%E7%88%B1%E6%83%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%B1%B3%E4%BD%B3%E7%9A%84%E7%88%B1%E6%83%85.jpg" alt="米佳的爱情" width="270" height="375"></a><br><span><strong>蒲宁代表作《米佳的爱情》</strong></span></p>
-<p>所以，即使当蒲宁1933获得诺贝尔奖时，也是笼罩着一种悲情色彩。在诺贝尔授奖现场，由于蒲宁拒绝承认苏联政府，竟史无前例地没有悬挂得奖人所属国家的国旗。苏联官方对此暴怒，称蒲宁<strong>“自绝于自己的祖国，自己的人民”</strong>，取消了他的国籍。而且苏联官方批判蒲宁的文章：“没有艺术价值，只是攻击苏维埃政治工具”，被苏联官方全面封杀。所以，最悲哀的是，直到蒲宁死时，在苏维埃的读者中，许多人对蒲宁这一名字茫然无知。</p>
-<p><strong>二 </strong><strong> 帕斯捷尔纳克（赫鲁晓夫时代获奖）</strong></p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%95%E6%96%AF%E6%8D%B7%E5%B0%94%E7%BA%B3%E5%85%8B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%95%E6%96%AF%E6%8D%B7%E5%B0%94%E7%BA%B3%E5%85%8B.jpg" alt="帕斯捷尔纳克" width="300" height="434"></a><br></strong><span><strong>帕斯捷尔纳克（1956）</strong></span></p>
-<p>帕斯捷尔纳克出身于艺术气氛浓厚的家庭，对欧洲文学艺术造诣很深，还精通英、德、法三国语言。他性格孤僻，落落寡合，与十月革命后从工农兵当中涌现出来的作家格格不入，在苏联混的极其边缘。但是由于文采出众，他受到布尔什维克领袖布哈林的青睐，在苏联作家第一次代表大会上把他树为诗人的榜样。</p>
-<p>这不青睐还好，一青睐麻烦就大了。因为布哈林是祖国慈父斯大林最仇恨的政敌之一，1938年布哈林被斯大林干死后，帕斯捷尔纳克基本也彻底完蛋了。当时无产阶级作家都不屑于同他交往，他对他们也敬而远之。那时他特怕处决人的敲门声传来，每日像个怕光的耗子一样战战兢兢的活了十多年。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%83%E5%93%88%E6%9E%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%83%E5%93%88%E6%9E%97.jpg" alt="布哈林" width="334" height="450"></a><br><span><strong>布哈林。当年我们上文学课时，老师发现竟然没几个人知道布哈林是谁，极其失望。</strong></span></p>
-<p>1946年，二战结束后，苏联的政治风气似乎有点松动，他开始小心探出头来开始写伟大的《日瓦戈医生》。而且因为帕斯捷尔纳克的伟大文采，自1945年至1957年，帕斯捷尔纳克被十次提名为诺贝尔文学奖候选人。在墙外的红火让苏联官方和文联的人不爽了（其中包括肖霍洛夫），开始想法整帕斯捷尔纳克。当时的作协主席公开指责帕斯捷尔纳克的作品<strong>“视野狭窄，内心空虚，孤芳自赏，未能反映国民经济恢复时期的主旋律”</strong>，所以作协不发表他的作品，迫使他向他们跪下，舔他们的皮鞋。见诗作无法发表，帕斯捷尔纳克便以译书维持生计。他所译的《哈姆雷特》和《浮士德》受到国内外一致好评，威望反而增高。</p>
-<p>这更让作协的大领导们嫉妒和仇恨了，他们为了报复和教训帕斯捷尔纳克，阻止他写《日瓦戈医生》，想出了阴毒的损招。1949年10月9日秘密警察逮捕了帕斯捷尔纳克的女朋友伊文斯卡娅，胡乱编个罪名给扔劳改营里了，而且当时伊文斯卡娅还怀孕了，在劳改营还被逼着干重活，结果马上流产了。伊文斯卡娅在劳改营里关了五年，到1953年斯大林死翘翘了才被释放。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BC%8A%E6%96%87%E6%96%AF%E5%8D%A1%E5%A8%85.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BC%8A%E6%96%87%E6%96%AF%E5%8D%A1%E5%A8%85.jpg" alt="伊文斯卡娅" width="550" height=""></a><br><span><strong>多年以后，帕斯捷尔纳克的女朋友伊文斯卡娅的合影</strong></span></p>
-<p>就在这种情况下，帕斯捷尔纳克还是完成了伟大的《日瓦戈医生》，托朋友把书送到了国外出版。1957年，此书一问世就在世界范围内爆炸了，1958年此书就获得了诺贝尔奖。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%93%A6%E6%88%88%E5%8C%BB%E7%94%9F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%97%A5%E7%93%A6%E6%88%88%E5%8C%BB%E7%94%9F.jpg" alt="日瓦戈医生" width="550" height=""></a><br><span><strong>极其伟大的《日瓦戈医生》，当初我看的热泪盈眶，推荐你们至少看看电影版</strong></span></p>
-<p>但是这个获奖的消息让身在苏联的帕斯捷尔纳克吓坏了，哪敢领啊，领就死路一条。所以帕斯捷尔纳克听到获奖的第一反应就是——自杀。不过他的祖国及时发现了这一动向，<strong>祖国认为，作家用这种“快捷方式”来终结自己的痛苦等于是“从背后”再给苏维埃政权一刀</strong>。经过“有关方面”运筹帷幄，巧妙地利用帕斯捷尔纳克最亲近的人，制止了他对祖国的另一次“行刺”。</p>
-<p>于此同时，不允许他走上绝路的祖国对他还有更进一步的要求。“最高指示”表明：<strong>“仅仅放弃诺贝尔文学奖是不够的，他还必须向祖国和人民公开悔过。”</strong>很快，一份由组织上代写的“悔过书”摆在了帕斯捷尔纳克的眼前。上面的内容总结起来就是：<strong>“我就是一坨善于欺骗人民群众的屎”</strong>。老大哥连哄带骗的表示，只要他拒绝领奖并认罪，帕斯捷尔纳克就可以得到赦免，而且宽宏大量的党还会给伊文斯卡娅安排一个工作。</p>
-<p>于是，帕斯捷尔纳克答应了。</p>
-<p>在帕斯捷尔纳克发出谢绝电报的当天，苏联官媒发表了一篇由六位苏联科学院院士署名的文章。文章高度赞扬瑞典皇家科学院将当年的诺贝尔物理学奖授予三位苏联科学家，认为这是客观公正的选择。<strong>而同时，文章再次严厉谴责当年的诺贝尔文学奖，认为将它授予这些科学家的同胞却充满了政治上的偏见和图谋。这具体情况具体分析的文风充分体现了辩证法的智慧。</strong></p>
-<p>由此，苏联就这么愉快而轻松的解决了这个调皮的小风波。他们总是这么棒。</p>
-<p><strong>三 </strong><strong>肖霍洛夫（勃列日涅夫时代获奖）</strong></p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%96%E9%9C%8D%E6%B4%9B%E5%A4%AB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%82%96%E9%9C%8D%E6%B4%9B%E5%A4%AB.jpg" alt="肖霍洛夫" width="216" height="300"></a><br></strong><span><strong>肖霍洛夫</strong></span></p>
-<p>肖霍洛夫，就是写《静静的顿河》那位，毫无疑问，比起另四位诺奖获得者，他是活得最润滑的苏联诺贝尔奖作家。</p>
-<p>肖霍洛夫1905年出生于一农民家庭，他十几岁就跟着红军雄霸天下了，那么小的年纪就见过了太多的血与火，生与死，按布尔什维克的说法：“灵魂得到了锻炼”。肖霍洛夫挺爱写字的，在他21岁时，就开始把他的亲身的见闻写成小说，这就是著名的《静静的顿河》。看过《静静的顿河》的人都知道，那是个大长篇，写了十几年，里面的内容是十分伤感的，写尽“红”“白”哥萨克在故土的残酷杀戮，一部反应“毁灭”这一主题的伟大悲剧，特别牛逼。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB.jpg" alt="罗斯托夫" width="550" height=""></a><br><span><strong>顿河河畔的罗斯托夫</strong></span></p>
-<p>三十年代时，斯大林坐稳位置之后，开始大清洗，那是个对于文艺创作者人人自危的年代，说你政治反动就反动，容不得你辩解，背后处决的子弹就射过来了。内时候无数的文人被突然处决或送进生不如死的古拉格群岛。肖洛霍夫也很危险，他当时与当地的安全部门负责人叶若夫之间有梁子，1938年叶若夫随便找了个罪名要干死他，肖洛霍夫得到消息，逃到莫斯科求见斯大林，才幸免于难。</p>
-<p>所以在这事件的刺激之后，肖洛霍夫学会了独特的苏维埃生存艺术。一方面他写完了伟大的《静静的顿河》，在成就上和托尔斯泰、雨果这样的伟大灵魂遥遥相望。可另一方他开始活得非常“政治正确”，紧跟中央精神，绝不走错一步。比如肖洛霍夫为了政治正确，曾的公开批评帕斯捷尔纳克是“寄居蟹”，抨击索尔仁尼琴“吃着苏联面包，为西方资产阶级主子服务，并且通过秘密的途径把作品送到西方”，绝对又专又红，成了苏联官方的贴心小棉袄，这种时而伟大时而乖巧的双重性挤进了一个人的躯体。</p>
-<p>所以，肖洛霍夫在1965年得知自己将获诺贝尔奖时，机敏的他立刻给苏共总书记勃列日涅夫写信：“<strong>如果这项奖金授给我，那么，苏共中央主席团抱什么态度，我的中央委员会将会给我出什么主意？”。总书记看到之后，欣慰的点点头，心道：“小鬼蛮会做人的嘛，不像那个帕斯捷尔纳克，给脸不要脸”。</strong>正是因为圆滑乖巧，肖洛霍夫顺顺利利的拿下了诺贝尔奖，还得到了苏联官方的大力赞扬。苏联官方称：“瑞典文学院的这一崇高决定，提高了它的威信。”</p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8B%83%E5%88%97%E6%97%A5%E6%B6%85%E5%A4%AB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8B%83%E5%88%97%E6%97%A5%E6%B6%85%E5%A4%AB.jpg" alt="勃列日涅夫" width="550" height=""></a><br></strong><span><strong>接吻狂魔勃列日涅夫同志，右边那个（总书记的秘密请输入“亲嘴”查看）</strong></span></p>
-<p>苏俄文史学者提出有“两个肖洛霍夫”的观点：一个是作品中所显现的肖洛霍夫，一个是苏联文坛上的肖洛霍夫。一个是作为主流意识形态的拥护者、为苏联的社会主义革命与建设的事业摇旗呐喊、真正的共产主义者的肖洛霍夫；一个是进入自己的文学世界、作为民众疾苦的呼吁者、求真求善的寻道者的肖洛霍夫。这不就《1984》里所描述的“双重思想”（Double think)）吗？历史，有时候真是让人感到荒凉。</p>
-<p><strong>四</strong><strong> 索尔仁尼琴（勃列日涅夫时代获奖）</strong></p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%B4%A2%E5%B0%94%E4%BB%81%E5%B0%BC%E7%90%B4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%B4%A2%E5%B0%94%E4%BB%81%E5%B0%BC%E7%90%B4.jpg" alt="索尔仁尼琴" width="500" height="308"></a><br></strong><span><strong>索尔仁尼琴</strong></span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%8F%A4%E6%8B%89%E6%A0%BC2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%8F%A4%E6%8B%89%E6%A0%BC2.jpg" alt="度假胜地古拉格2" width="389" height="400"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%8F%A4%E6%8B%89%E6%A0%BC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%8F%A4%E6%8B%89%E6%A0%BC.jpg" alt="度假胜地古拉格" width="430" height="323"></a><br><span><strong>索尔仁尼琴同志工作和生活过的地方——度假胜地古拉格</strong></span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8F%A4%E6%8B%89%E6%A0%BC%E7%BE%A4%E5%B2%9B.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8F%A4%E6%8B%89%E6%A0%BC%E7%BE%A4%E5%B2%9B.jpg" alt="古拉格群岛" width="" height="550"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%99%8C%E7%97%87%E6%A5%BC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%99%8C%E7%97%87%E6%A5%BC.jpg" alt="癌症楼" width="300" height="441"></a><br><span><strong>索尔仁尼琴同志作品一览</strong></span></p>
-<p>作为苏联最著名的诺贝尔获奖作家，这位哥的故事及其作品太著名了，你家隔壁的王大妈都能给你介绍一下，<strong>略。</strong><strong><br></strong></p>
-<p><strong>五</strong><strong> 布罗茨基（戈尔巴乔夫时代获奖）</strong></p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%83%E7%BD%97%E8%8C%A8%E5%9F%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B8%83%E7%BD%97%E8%8C%A8%E5%9F%BA.jpg" alt="布罗茨基" width="480" height="399"></a><br></strong><span><strong>布罗茨基</strong></span></p>
-<p>布罗茨基的诺贝尔奖故事颇有黑色喜剧味道。</p>
-<p>布罗茨基是天生的盗火者，一个人的自由灵魂真是天生的，布罗茨基大小就开始拒绝苏联官方的教育和宣传。甭管苏联官方的精神高压有多强，说一千到一万，布罗茨基微微一笑，就四个字回应“<strong>去你妈的</strong>”。真是骑士级别的朋克啊，我好好中意。</p>
-<p>布罗茨基15岁就从中的自己退学混社会了，先后当过火车司炉工、板金工、医院陈尸房工人、地质勘探队的杂务工等。虽然没接受过啥正规教育，但文学天赋奇高的布罗茨基在混社会之余他还创作诗歌，这些诗歌在社会上广为流传。20岁的他就在列宁格勒的文学圈里混出大名了。年迈的阿赫玛托娃挺喜欢布罗茨基的，视他为接班人。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%98%BF%E8%B5%AB%E7%8E%9B%E6%89%98%E5%A8%83%E7%94%BB%E5%83%8F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%98%BF%E8%B5%AB%E7%8E%9B%E6%89%98%E5%A8%83%E7%94%BB%E5%83%8F.jpg" alt="阿赫玛托娃画像" width="425" height="351"></a><br><span><strong>阿赫玛托娃画像</strong></span></p>
-<p>但是布罗茨基太非官方了，而且和他接触的作家都属于当时的“地下作家”，都是苏联官方的眼中钉，所以1960年代开始，布罗茨基开始受到秘密警察的骚扰，1964年秘密警察把他逮捕，罪名颇为辩证法——“社会寄生虫”。</p>
-<p>苏联这个国家挺逗的，什么都短缺，就不短缺玩人的方法。为了360度全方位的将这个“寄生虫”击垮搞臭，苏联官方不承认布罗茨基是个作家，只称他是个狗屁流浪汉。为此，向来讲究实事求是、一丝不苟的苏联官方在审判时还专门无情的对布罗茨基自以为是的诗人身份进行揭露批判。</p>
-<p>审问实录如下：</p>
-<blockquote><p>法官：你的职业是什么？</p>
-<p>布罗茨基：诗人。</p>
-<p>法官：谁承认你是诗人？谁给你权利把自己称为诗人？</p>
-<p>布罗茨基：没有人！而谁又给我权力作为人类的一员呢？</p>
-<p>法官：你为成为过一个诗人进行过学习吗？</p>
-<p>布罗茨基：我不认为诗歌是个学习的问题！</p>
-<p>法官：那它是什么问题？</p>
-<p>布罗茨基：我认为它是来自上帝的礼物！</p></blockquote>
-<p>当然，布罗茨基的小聪明狡辩是不能改变滚滚前行的历史车轮的，1965年，布罗茨基作为一个“社会寄生虫”被判入狱五年。同时，一个叫“青年诗人工作委员会”的正派文学组织庄严的宣布：<strong>“布罗茨基——他——不是一个诗人”</strong>。宛如十诫一般决绝和神圣，完美！perfect！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B0%8F%E4%BA%8E%E4%B8%80.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%B0%8F%E4%BA%8E%E4%B8%80.jpg" alt="小于一" width="300" height="467"></a><br><span><strong>布罗茨基作品，《小于一》</strong></span></p>
-<p>但是事情总在变化，布罗茨基入狱的年代正是苏联高层更迭的时代，勃列日书记上台，政治缝隙增大。当时国内外有不少喜欢布罗茨基的诗人求情，官方一宽宏大量，就把刚关了一年半的布罗茨基放出去了，随即将他驱逐出国。这位被官方盖上“不是诗人”刚戳的人，仓惶跑到了美国，一直在那里窝着，一辈子混的也就那嘛事儿吧，马马虎虎，马马虎虎，也就写了点自以为是的书，混到1996年就死了，也就比苏联多活了4年。<strong>哦，对了1987年，这个“不是诗人”的家伙获得了诺贝尔奖。</strong></p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%8D%E6%98%AF%E8%AF%97%E4%BA%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%8D%E6%98%AF%E8%AF%97%E4%BA%BA.jpg" alt="不是诗人" width="460" height="244"></a><br><span>诺贝尔把奖颁给一个“不是诗人”的人，诺贝尔不行，要完，诺将不诺。</span></strong></p>
-<p><strong>the end</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/x%E5%8D%9A%E5%A3%AB%EF%BD%9C%E4%BB%96%E4%BB%AC%E8%AF%95%E5%9B%BE%E8%AE%BA%E8%AF%81%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E8%8E%B7%E5%BE%97%E8%80%85%E4%B8%8D%E6%98%AF%E8%AF%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">创作自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔文学奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1156,7 +1127,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1166,5 +1137,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

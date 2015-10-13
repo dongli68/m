@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B7%87%E7%90%AA%E4%B8%8D%E6%88%9A%E6%88%9A%EF%BC%9A-%E9%A6%96%E5%B1%8A%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A%E5%A5%87%E9%81%87%E8%AE%B0/" target="cdt-mirror">淇琪不戚戚： 首届世界马克思主义大会奇遇记</a>
+</h2>
+<p><p><strong>新闻背景：</strong></p>
+<p>光明日报10月11日消息，7位学者主旨演讲，8场分论坛，3个专场对话，140多位国内外马克思主义研究者踊跃发言——11日，为期两天的首届世界马克思主义大会在取得丰硕成果、引发热烈反响后圆满落幕。</p>
+<p>各分论坛代表首先对两天来的讨论内容作了总结汇报。</p>
+<p>中国人民大学马克思主义学院教授秦宣对“马克思主义的起源与发展”分论坛进行总结，认为马克思主义必须面向未来，为发展指明方向。</p>
+<p>中共中央编译局秘书长杨金海在总结“马克思主义文本研究及其编译”分论坛时指出，马克思主义文本研究及编译对理解马克思主义的生命力和影响力十分重要。在此项工作中，中外学者应加强交流互鉴，推动文本研究及编译向更高水平发展。</p>
+<p>山东大学马克思主义学院院长王韶兴总结“中国道路和中国话语体系”分论坛，表达了学者们的共识：中国特色社会主义道路的成功既有时代背景，也有主观努力；既有外部原因，也有独特的内部条件。</p>
+<p>中共中央党校副教育长、科学社会主义教研部主任王怀超认为，“习近平治国理政思想与中国马克思主义的发展”分论坛的讨论，促进与会学者对社会主义最本质特征形成了新的认识：以人为本、社会公正。这两个特征在经济、政治、文化、社会上的表现，分别是共同富裕、平等、包容、和谐。</p>
+<p>中共中央党校副教育长、哲学教研部主任韩庆祥总结“马克思主义与世界文明的未来走向”分论坛时指出：中国道路和中国文明，都以解答中国问题为核心。中国问题最根本的就是当代中国发展所面临的时代性课题，应从目标维度、手段维度两个方面来确定和提炼。</p>
+<p>中国人民大学经济学院院长张宇对“马克思主义与经济全球化”分论坛进行总结发言：马克思主义理论是解释经济全球化的科学理论，要在经济全球化进程中不断创新发展。</p>
+<p>伦敦国王学院教授卡列尼克斯、中国社会科学院马克思主义研究院教授程恩富分别就“马克思主义与科学文化”“马克思主义与人类命运共同体”两个分论坛作总结发言。</p>
+<p>经广泛讨论，世界马克思主义大会学术委员会主任、北京大学中国道路与中国化马克思主义协同创新中心主任顾海良在闭幕式上宣读了与会学者一致通过的《首届世界马克思主义大会学者共识》（以下简称《共识》）。</p>
+<p>《共识》指出，马克思主义是人类文明发展的产物，它揭示了社会历史发展的一般趋势，指明了人类文明发展的方向，也是影响当今世界最重要的思想之一；马克思主义具有鲜明的实践品格和时代精神；中国化马克思主义是对马克思主义的创造性发展；面对困扰当今国际社会的各种复杂问题，马克思主义是引领人类走出困境、走向光明未来的指路明灯。</p>
+<p>《共识》倡议，面对各种误解、非议和挑战，马克思主义研究者需要直面人类发展的尖锐问题，高扬马克思主义固有的批判精神与变革意识，把马克思主义同各国具体实际和时代精神相结合，在对现实问题做出创造性回应中实现重大理论突破。</p>
+<p>根据《共识》，北京大学将在会后出版中英文《世界马克思主义研究》期刊和“世界马克思主义研究文库”，交流研究成果；下一届世界马克思主义大会在2018年马克思诞辰200周年之际召开。<br>
+闭幕式由北京大学马克思主义学院党委书记孙蚌珠主持。</p>
+<p>______________________________</p>
+<p>@haitaode：首届世界马克思主义大会闭幕，发布了大会共识：马克思主义是引领人类走出困境、走向光明未来的指路明灯。</p>
+<p><img src="http://ww4.sinaimg.cn/bmiddle/62a231e6jw1ewzdwy0e53j20rz0d00yc.jpg" alt=""></p>
+<p>@淇琪不戚戚：大周末围观首届世界马克思主义大会，非常有趣，不吐不快。本文观点只属于个人，与任何机构无关。我依然深爱母校北京大学，也对马院不失敬意。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/8e3cbbd0jw1ewyn2gm7lsj20c82kwto51.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/8e3cbbd0jw1ewyn2gm7lsj20c82kwto51.jpg" alt="8e3cbbd0jw1ewyn2gm7lsj20c82kwto5" width="440" height="3344"></a></p>
+<p>@墙外楼：真心佩服《光明日报》排版！最新光明日报，请看排版。我县储安平地下有知，当发一笑。阿弥陀佛！左边“马克思的声音穿透历史，向未来宣告”；右边“要帮助精神疾病患者回家”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005udiXLgw1ewygqwoy6mj30c809975j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005udiXLgw1ewygqwoy6mj30c809975j.jpg" alt="005udiXLgw1ewygqwoy6mj30c809975j" width="440" height="333"></a><img src="http://chinadigitaltimes.net/chinese/files/2015/10/0981grey.gif" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B7%87%E7%90%AA%E4%B8%8D%E6%88%9A%E6%88%9A%EF%BC%9A-%E9%A6%96%E5%B1%8A%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A%E5%A5%87%E9%81%87%E8%AE%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">北京大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">马克思主义大会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E5%85%A8%E7%90%83%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F%E6%8E%92%E5%90%8D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%80%92%E6%95%B0/" target="cdt-mirror">网易数读 | 全球“死亡质量”排名：中国倒数</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/201510120254308f067.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/201510120254308f067.jpg" alt="201510120254308f067" width="550" height="883"></a></p>
@@ -90,7 +124,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%B4%E8%A7%82%E9%A6%96%E5%B1%8A%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/" target="cdt-mirror">【网络民议】围观首届世界马克思主义大会</a>
 </h2>
@@ -974,38 +1008,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%B1%A0%E5%91%A6%E5%91%A6%E8%B0%88%E8%AF%BA%E5%A5%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E8%A5%BF%E6%96%B9%E5%A5%96%E9%A1%B9%E6%9B%B4%E9%87%8D%E8%A7%86%E4%B8%AA/" target="cdt-mirror">纽约时报｜屠呦呦谈诺奖争议：西方奖项更重视个人</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/tyy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/tyy.jpg" alt="tyy" width="550" height=""></a><br>
-(本周获得诺贝尔医学奖的屠呦呦，在其北京家中。)</p>
-<p>屠呦呦的家在北京一座公寓的20层，来开门的是她的丈夫李廷昭。李廷昭是一位冶金工程师，而自从本周屠呦呦成为第一位获得诺贝尔科学类奖项的中华人民共和国公民后，他一直忙于帮助妻子应对纷至沓来的电话和祝福。屠呦呦因发现青蒿素获奖，这一药物现已成为治疗疟疾标准疗法的一部分。在中国，她的获奖被视为是对中国传统医学的肯定，因此受到广泛的庆祝。</p>
-<p>另有两名科学家因研究发现治疗寄生虫的药物，与屠呦呦共同获得今年的诺贝尔医学或生理学奖。她的获奖也引发了关于中国科学研究管理体系的争论。84岁的屠呦呦未能入选中国科学院院士，显然是因为她缺少海外留学背景，也没有正式的博士学位。她从前的一些同事认为，青蒿素的发现源于越南战争期间的一个秘密军事项目，目的是帮助中国的盟友北越对抗疟疾，那是集体努力的成果，不是一个人的工作。</p>
-<p>采访中，屠呦呦说她并不完全反对这一观点，但指出做出关键发现的小组是她领导的。坐在米色沙发上接受采访时，她屡次翻开一些书以说明她的观点。她看上去身体不错，虽然听力有些下降，这是她没接通知她得奖的电话的原因。中国科学院和清华大学发来的贺信放在客厅的桌子上。她的丈夫自豪地展示着他们2011年在美国白宫前的合影。那一年，屠呦呦曾赴美国领取拉斯克临床研究奖。他们的家中摆满了崇拜者送来的鲜花。采访临近结束时，屠呦呦家乡宁波市的市长带着又一束花前来拜访。</p>
-<p>问：你是怎样开始你的工作的？</p>
-<p>答：中国与北越的关系曾经非常好，在越战期间，他们发生了流行性疟疾。疟疾导致的士兵战斗力损失是打仗损失的两到三倍。疟原虫已对所有现成药物都产生了抗药性。美国也在努力研究新药，因为他们也因疟疾损失士兵。在我的研究所，因为文革，所有的研究都停下来了，但这个项目是毛泽东和周恩来特批的。一家军医院的研究一直没有好的结果，所以他们1969年找到我所，要求帮助，他们任命我当项目负责人。我很年轻，而且雄心勃勃，很高兴在那个混乱的时候有事情做了。</p>
-<p>问：文化大革命期间那么乱，你用什么设备做工作呢？</p>
-<p>答：我们有电、水和显微镜。我们总是有这些东西。设备都是中国制造的。需要其他设备时，我们会去军队医院用他们的。</p>
-<p>问：你在小鼠和猴子身上测试了青蒿素，证明它是有效的之后，你自己也服了药。你害怕吗？</p>
-<p>答：我们担心药物是否安全。我和两位同事服了药，表明药不会死人。我认为这是我作为药物化学家的责任和工作的一部分。</p>
-<p>问：当时中国是否有其他治疗疟疾的努力？</p>
-<p>答：当时还有一个针灸专家的团队，在疟疾隔离区试图用针灸治愈病人，显然没有奏效。针灸专家们不得去那样做，因为那是派给他们的任务。</p>
-<p>问：虽然你作为发现者已经得到很高的荣誉，但你并有没从这个药的商业应用上受益。</p>
-<p>答：中国当时有没专利这回事。我们对专利一无所知。没有所有权或知识产权这些东西。我做的东西都交给领导了。参加任务的每个人都尽自己的所能做了贡献。</p>
-<p>问：您对没有当选中国科学院院士失望吗？</p>
-<p>答：我申请了好几次，因为人们告诉我，我应该去申请。我确实得到了一些对这个发现的奖励。在1978年的全国科学大会上，我的单位得了奖。作为小组长，我代表小组领了奖。卫生部长部长曾亲自推荐我当院士。但是，有许多因素在起作用。情况很复杂。</p>
-<p>问：包括你以前同事在内的一些批评者说，你不应该成为这个成果的唯一发现者，这项工作是集体努力的结果。</p>
-<p>答：每个人都有发表意见的权利。我们都相信集体主义。我只是想好好工作。当然，没有团队，我什么都不是。国外比如美国很关心应该把功劳归给哪些个人。外国人读了有关历史记录，挑选了我。中国总是奖励集体，但外国的奖励不同。这个荣誉属于我和我的团队，也属于整个国家。</p>
-<p>我不在乎那么多。我只知道，我做了所有的那些实验。那些记录是公开的，任何人都可以去查看。最重要的是要尊重事实。历史就是历史。</p>
-<p>问：12月你会去瑞典领奖吗？</p>
-<p>答：我的腰不好。医生让我尽快做手术。感觉怎样，到12月再说。我没有告诉他们，我一定会去。我没向他们做任何保证。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%B1%A0%E5%91%A6%E5%91%A6%E8%B0%88%E8%AF%BA%E5%A5%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E8%A5%BF%E6%96%B9%E5%A5%96%E9%A1%B9%E6%9B%B4%E9%87%8D%E8%A7%86%E4%B8%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6%E5%91%A6/?category=18271" rel="tag">屠呦呦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94/?category=18271" rel="tag">诺贝尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%BB%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔医学奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1017,7 +1019,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1027,5 +1029,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

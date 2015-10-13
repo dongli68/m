@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BE%8E%E5%AA%92%E6%8A%A5%E9%81%93%E5%8C%85%E5%8D%93%E8%BD%A9%E5%B7%B2%E8%A2%AB%E9%81%A3%E8%BF%94%E5%86%85%E8%92%99%E8%BD%AF%E7%A6%81/" target="cdt-mirror">自由亚洲 | 美媒报道包卓轩已被遣返内蒙软禁</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image1.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image1.jpeg" alt="image" width="300" height="233"></a><br>
+王宇律师和未成年子包卓轩的合照。（推特相片，拍摄日期不详）</p>
+<p>709事件被捕律师王宇的未成年儿子包卓轩，与另外两名维权人士失踪后，至周一（12日）仍未有最新消息。《美联社》周一报道，包卓轩已被带回内蒙古外婆家中软禁。另外，律师业界和公民圈各发起联署，要求大陆当局保障三人的人身安全。至于被扣押十五个月的广东维权律师唐荆陵，周一会见律师时，也特意转达对事件中被迫害的同仁表示关注。（文宇晴 报道）</p>
+<p>现年十六岁 昵称“蒙蒙”的包卓轩，上周二和维权人士幸清贤、唐志顺，在缅甸境内靠近中国的区域被强迫失踪后，至今毫无音讯。</p>
+<p>《美联社》周一引述未经证实的消息报道，包卓轩已经被带回内蒙古外婆家中软禁。</p>
+<p>成都维权人士幸清贤的妻子何娟，得知丈夫被捕后，决定逃离中国。从事导游工作的何娟对本台国语组表示，她辗转经老挝、泰国，周一成功抵达美国三藩市。</p>
+<p>至于另一名北京维权人士唐志顺的妻子高沈，带著八岁的女儿，10月1日国庆日到美国旅游。高沈称，当时未能同丈夫同行前往美国，原来丈夫是为了帮助王宇律师的儿子出境。</p>
+<p>由维权律师成立的“中国人权律师团”，周日发出紧急声明，谴责大陆当局的行为，要求作为联合国《儿童权利公约》缔约国的中国，要保障包卓轩等人的人身安全；对事件相关人士进行追责；同时停止对人权律师、人权捍卫者及其家人出境的非法行为。也促请联合国、世界各国政府和国际人权机构，高度关注事件。</p>
+<p>发起联署行动之一的北京律师余文生对本台表示，至周一已近百名法律工作者签名。余文生认为，声明是一种不满当局做法的一种姿态，更重要的是担心未成年的包卓轩目前的状况。</p>
+<p>余文生说︰我们对他（包卓轩）很担心，因为本身我也有一个小孩，当时我被抓也非常担心他。尤其是包卓轩的父母都被抓了，很担心这孩子的遭遇。这个声明是对全世界，也是包括对大陆当局的。我们不会专门提交这个声明，除非是我们有针对性的控告，但是我们必须得到包卓轩或他的代理人的授权。</p>
+<p>另外，公民也发起联署，要求外交部、公安部保证包卓轩、唐志顺、幸清贤三人的人身安全。同时保证包卓轩，作为未成年人享有的一切合法权益。</p>
+<p>至周一下午已有超过二百人签名。其中已获得加拿大政治庇护的香港社运人士杨匡，其仍然在大陆生活的妈妈，也参与了联署行动。匡妈对记者说，作为普通老百姓不懂得太多政治，但法律赋予的出入境权利和言论自由，却无法在大陆彻底体现。最令匡妈感到痛心的是，十多岁的包卓轩也受到株连迫害，对他的创伤会是如此的巨大。因而匡妈认为，即使无法直接以行动去保护卓轩，冀望联署行动，能令国际社会持续关注。</p>
+<p>匡妈说︰至目前都不清楚包蒙蒙的下落，他还是个孩子，应该是要保护孩子的。我们是看不过眼，是没有道理的。无论是大人还是小孩，都有他们的人权和生存权。你也看到大围捕的那些律师，至今也未见到代理律师，所以我们要向国际呼吁。 </p>
+<p>就在民间以行动声援被捕律师，以及包卓轩等人的同时，被押律师助理刘四新的代表律师葛文秀，周一在广州东站乘广九直通车到香港旅游时，被边检限制出境。</p>
+<p>葛文秀律师对记者反映，即使边检人员未说明理由，他估计也是与“709大规模抓捕律师”事件有关。</p>
+<p>葛文秀说︰只是说接到北京市公安局的通知，说我不能出境，详细的细节没有说。主要是可能我是参与了其中被捕者刘四新的辩护工作有关吧。现在还有很多人没有出事，不少人还没有到边检，例如出国等。还不知道了，应该实际上被限制出境的人，我想远远不及这些了。</p>
+<p>另外，关押至今十五个月的广东维权律师唐荆陵，在看守所里一直被打压，除不能放风外，阅读和与家人书信的权利也被剥夺。</p>
+<p>代表律师燕薪周一（12日）再到看守所会见。燕薪律师在微信上表示，在约两个半小时的会见中，形容唐荆陵虽然身在狱中，但始终心态平和、意志坚定；他坚信无论身体是否受限，自己的心灵始终是自由的。最后，唐荆陵感谢所有关心他的各界人士和朋友，他也关注709事件中被迫害的律师同仁，并督促当局给所有政治犯和良心犯最起码的人道待遇。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BE%8E%E5%AA%92%E6%8A%A5%E9%81%93%E5%8C%85%E5%8D%93%E8%BD%A9%E5%B7%B2%E8%A2%AB%E9%81%A3%E8%BF%94%E5%86%85%E8%92%99%E8%BD%AF%E7%A6%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%B4%E8%A7%82%E9%A6%96%E5%B1%8A%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/" target="cdt-mirror">【网络民议】围观首届世界马克思主义大会</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/20151011222614611624.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/20151011222614611624.jpg" alt="20151011222614611624" width="550" height="183"></a></p>
@@ -1015,30 +1043,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%B7%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8F%8C%E5%8D%81%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%85%B8-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E5%BF%A7%E8%99%91%E4%B8%A4%E5%B2%B8%E6%9C%AA%E6%9D%A5/" target="cdt-mirror">德国之声 | 双十国庆大典 马英九忧虑两岸未来</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/hudong.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/hudong.jpg" alt="国庆大典中，蔡英文、洪秀柱、朱立伦互动备受关注。" width="600" height="337"></a><p>国庆大典中，蔡英文、洪秀柱、朱立伦互动备受关注。</p></div>
-<p>10月10日台湾双十国庆大典，朝野各政党领袖难得齐聚一堂，总统马英九表示，这代表大家无分朝野，都认同中华民国。不过马英九对两岸未来能否维持良性循环互动，则表示忧虑与怀疑。</p>
-<p>马英九总统在国庆大会以“和平繁荣，永续台湾”为题发表演说。他不忘阐述七年来政绩，包括性别平等、经贸发展、免签证国、陆客观光、劳动薪资等各项成就。</p>
-<p>对于各界关注的两岸关系，马总统表示，这7年多来，他推动两岸关系和平发展，已将台湾海峡从战争热点转成和平大道，而“维持现状”更成为“台湾共识”。这再次证明政府7年来的两岸政策，不但没有“亲中卖台”或“矮化主权”，反而成为民意的主流。</p>
-<p>不过，马总统也忧虑两岸的成果未来是否能维持。他指出，现状不是从天而降，不能视为理所当然，两岸关系必须坚持原则，才能维持现状。而坚持的原则包括在中华民国宪法架构下，维持两岸不统、不独、不武的现状，这也是有8成民意支持的“台湾共识”。另外还有在“九二共识、一中各表”的基础上，推动两岸和平发展，这是由台湾提出、大陆接受、有5成以上民意支持的“两岸共识”。马总统说，这是让两岸关系与国际关系产生良性循环的基础，如果下一任总统愿意沿用，两岸关系将继续和平繁荣。</p>
-<p><strong>蓝、绿、橘三党主席排排坐</strong></p>
-<p>自2008年马英九总统上台后，今年国庆大会首次出现蓝、绿、橘三党主席排排坐的历史景象，国民党主席朱立伦及民进党主席蔡英文入座后，不断交头接耳，互动热络，而蔡英文也不忘与一旁的亲民党主席宋楚瑜交谈。</p>
-<p>首度以民进党主席身份率领多位党籍立委参加总统府前国庆活动的蔡英文出席前受访表示，希望未来在野党是不是参加国庆从此不再是议题，也希望不论选举进行到什么程度，国家都能保持团结状态。</p>
-<p><strong>蓝绿阵营风度有待长期观察</strong></p>
-<p>由于国歌前两句，“三民主义，吾党所宗”，被绿营认为党国不分，过去民进党政治人物出席国家活动时，多半不唱国歌，或者技巧性跳过这两句歌词，并避免挥舞国旗，蔡英文出席国庆大典是否唱国歌成为关注焦点。国庆大会开始，全体起立唱国歌，媒体观察到蔡英文唱了国歌的第一句“三民主义”，但跳过“吾党所宗”没唱，接着再继续把国歌唱完，随后并向国旗和国父遗像行三鞠躬礼。</p>
-<p>有媒体指出，在野的民进党主席蔡英文率众参加国庆，明年的今天，若是马英九能够与可能下野的国民党坦然参加国庆，那时候，才算是朝野借着国庆展现台湾团结的时刻。但也有媒体评论，若不是蔡英文参选2016总统胜算极高，民进党也未必如此捧场，否则为何民进党前几年都缺席国庆大会。由此看来，台湾蓝绿阵营的风度还有待长期的观察。</p>
-<p>关键词: 国庆 马英九 蔡英文 栏目: 时事见解 首页重点发表: 精品导读 作者: 尼尔</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8F%8C%E5%8D%81%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%85%B8-%E9%A9%AC%E8%8B%B1%E4%B9%9D%E5%BF%A7%E8%99%91%E4%B8%A4%E5%B2%B8%E6%9C%AA%E6%9D%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E5%8D%81/?category=18271" rel="tag">双十</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E5%8D%81%E8%8A%82/?category=18271" rel="tag">双十节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1050,7 +1054,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1060,5 +1064,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E5%85%A8%E7%90%83%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F%E6%8E%92%E5%90%8D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%80%92%E6%95%B0/" target="cdt-mirror">网易数读 | 全球“死亡质量”排名：中国倒数</a>
@@ -40,7 +40,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80/?category=18271" rel="tag">临终关怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">医患纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%9D%A1%E4%BB%B6/?category=18271" rel="tag">医疗条件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%91%E6%81%AF%E6%B2%BB%E7%96%97/?category=18271" rel="tag">姑息治疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">死亡质量</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%B8%A4%E6%9C%88%E5%90%8E-%E5%A4%A9%E6%B4%A5%E5%8F%88%E4%B8%80%E4%BB%93%E5%BA%93%E8%B5%B7%E7%81%AB/" target="cdt-mirror">纽约时报 | 天津港爆炸两月后 天津又一仓库起火</a>
 </h2>
@@ -1017,7 +1017,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1027,5 +1027,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%91%A6
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

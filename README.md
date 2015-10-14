@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%EF%BC%9A%E4%B9%A0%E6%80%BB%E8%87%B4%E9%87%91%E6%AD%A3%E6%81%A9%E7%9A%84%E4%BA%B2%E7%BD%B2%E5%87%BD/" target="cdt-mirror">【麻辣总局】习总日记：致金正恩的亲署函</a>
+</h2>
+<p><p>2015，10，12</p>
+<p>一</p>
+<p>刘云山作为中国共产党代表和我的私人特使前往平壤参加朝鲜劳动党70周年庆。</p>
+<p>9日晚在平壤百花园迎宾馆，刘云山向朝鲜人民的伟大导师、慈父领袖金日成的孙子金正恩转交了我的亲署函。</p>
+<p>刘动身之前当我把亲署函交给他时问了一个问题。我说，当年朝鲜人民唤金日成为慈父领袖，按照辈份那么今天朝鲜人民是否应该称呼金正恩什么？</p>
+<p>刘云山说，照道理应该称“乖儿子”。</p>
+<p>我笑而不语。</p>
+<p>我给金正恩的亲署函是这样写的：</p>
+<blockquote><p>习总给金正恩的亲署函</p>
+<p>正恩吾侄，多年未见甚是想念。</p>
+<p>不提当年与你父亲会面时你的邋遢模样了，免得你抓狂。</p>
+<p>为叔多次相邀你来祖父战斗过的地方参观访问，你却推三阻四一而再再而三失约。我很不高兴，你婶子也相当不高兴。</p>
+<p>虽然你现贵为一国之君，可毕竟那是芝麻绿豆小国，且仅占着二分之一地盘，还是贫瘠的北部，连咱们这儿一个最穷最穷的省也不如，你怎好意思得瑟？</p>
+<p>埋汰你是挽救你，希望从此有清醒的认识。</p>
+<p>进一步说，这片地方也是我党派遣中国人民志愿军流血牺牲几十万生命帮你金家打下来的，你即便不懂得感恩，表面文章还是要做的。</p>
+<p>总而言之，你继位至今却未曾来北京觐见，实在说不过去。反正我们全党全军和全国人民都不满意。要知道我13亿人民吐口唾沫都能把平壤淹了。</p>
+<p>唠叨废话至此，到了撂重话的时候了，请你收下中国党和人民对朝鲜党和人民的深情厚谊，5亿美元支票。</p>
+<p>叔了解你的脾气，不动点真格你是不会服软的，看我满清第十三大酷刑—-给钱。</p>
+<p>正恩乖侄，叔也很忙。自接班以来一门心思要搞定全党全军和全国人民。现在有多了个任务，搞定经济。</p>
+<p>当然我知道小有小的难处，这几年你也不容易。正日哥走得早，你小小年纪肩上就担负着民族复兴大业和实现朝鲜梦的重任，叔替你揪心也替你高兴。</p>
+<p>最后叔送你一句话，色字头上一把刀，一把磨得飞快的钝刀。望你好之为之。</p>
+<p>另：存支票时要看清身边有无可疑之人。</p>
+<p>安全第一。</p>
+<p>永远爱你的近平叔</p>
+<p>2015年10月8日于北京</p></blockquote>
+<p>二</p>
+<p>金正恩倒也乖巧，连夜写了回信给我。</p>
+<blockquote><p>金正恩致习总的亲署函</p>
+<p>近平叔好，丽媛婶好，</p>
+<p>看在5亿美元的支票面子上不跟你计较。但有些事情还是要说清楚，免得让你们以为俺金思密达是吃素的。</p>
+<p>首先别看朝鲜三千里江山地狭人稀，好歹我也是留过洋的。我若去联合国演讲，单就英文就甩你不知道多少条马路。</p>
+<p>其次国虽小也是国，而且我们基本上解决了社会主义国家共产主义接班人的根本问题，那就是虎父无犬子，伟大领袖的儿子也是伟大领袖，白头山血统保证了伟大的基因代代相传。</p>
+<p>可能这些科学知识对你而言有点难，一个工农兵大学生嘛，可以理解。</p>
+<p>聊点别的。当年俺祖父金日成将军欲统一朝鲜挥师南下，那是社会主义阵营解放全人类一盘大棋当中的一步棋，苏联同志中国同志和朝鲜同志们为了一个共同的目标走到一起来了，没有谁帮谁谁有恩于谁的事儿。</p>
+<p>六十年过去了，你们中国人小肚鸡肠老是拐弯抹角提醒我们感激，如同对日本怀恨。老实说已经忍你们很久了。</p>
+<p>你们前国家主席刘少奇夫人不是有句著名的话我现在以子之矛攻子之盾还给你们，“时代悲剧”。既然刘少奇之死以时代悲剧作为注解，你们所谓的“抗美援朝”，不也是“时代悲剧”么？凭什么要我们为“时代悲剧”对你们世世代代感恩戴德像孙子见老子一样恭恭敬敬？</p>
+<p>近平叔你醒醒吧，中国人你们醒醒吧！从历史里走出来吧，走不出来爬出来也行，忘记过去并不意味着背叛。相反我认为，忘记过去一笑泯恩仇，才是正能量，才是阳光老叔，才是庆丰包子。</p>
+<p>对了，还要提醒一下叔，这5亿美元能顶半年。你们中国人常说药不能停。若药不停钱就不能停。半年过后若不继续服药，我还是会捣鼓我的玩具，大浦洞火箭和原子弹。</p>
+<p>13亿中国人每人每年出一美元，轻轻松松13亿。人多力量大。真好！</p>
+<p>另：要不要帮你把刘云山拿下？只要5亿美元。你考虑考虑。</p>
+<p>邻家小侄，正恩敬上</p>
+<p>2015年10月11日于平壤</p></blockquote>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/10121501.jpg" alt="10121501" width="551" height="367"></p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%EF%BC%9A%E4%B9%A0%E6%80%BB%E8%87%B4%E9%87%91%E6%AD%A3%E6%81%A9%E7%9A%84%E4%BA%B2%E7%BD%B2%E5%87%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%E5%AF%8C%E8%A3%95%E5%9B%BD%E5%AE%B6%EF%BC%9F%E5%8F%88%E7%BB%99%E7%A5%96%E5%9B%BD/" target="cdt-mirror">【网络民议】中国成世界第二富裕国家？又给祖国拖后腿了</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/download.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/download.jpeg" alt="Yuan banknotes are seen in this illustrative photograph taken in Beijing July 26, 2010. There is no basis for a major appreciation in the yuan exchange rate, the State Information Center, a government think tank, said on Monday. REUTERS/Jason Lee (CHINA - Tags: BUSINESS IMAGES OF THE DAY)" width="490" height="236"></a><br>
@@ -56,7 +109,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/?category=18271" rel="tag">中国经济光明论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E4%BF%A1/?category=18271" rel="tag">瑞信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD/?category=18271" rel="tag">美国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%9D%A8%E9%B9%8F%EF%BC%9Atpp%E4%BB%B7%E5%80%BC%E8%B4%B8%E6%98%93%E4%B8%8E%E5%BE%98%E5%BE%8A%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">美国之音｜杨鹏：TPP价值贸易与徘徊的中国</a>
 </h2>
@@ -950,28 +1003,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/qq/?category=18271
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E5%9B%BD%E5%AE%B6%E8%BF%BD%E6%8D%95%E7%9A%84%E5%AD%A9%E5%AD%90/" target="cdt-mirror">东网 | 赵思乐：被国家追捕的孩子</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/bkncn-20151010000319092-1010_05411_001_01p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/bkncn-20151010000319092-1010_05411_001_01p.jpg" alt="bkncn-20151010000319092-1010_05411_001_01p" width="608" height="434"></a></p>
-<p>包蒙蒙仅是一名16岁少年，遭“跨境追捕”，理由只是他是政治犯的孩子。</p>
-<p>包卓轩，小名包蒙蒙，16岁，将来想要读法律，据说他身材已经挺高，但一脸稚气，很黏妈妈……然而在他的国家眼中，他可能只有一个名字——人质。</p>
-<p>今年7月8日深夜，包蒙蒙与他的父亲、人权律师包龙军来到北京首都机场，他们将飞往澳大利亚，包蒙蒙准备在那里开始高中生活，他的母亲、同为人权律师的王宇到机场为两人送行。那是包蒙蒙最后一次见到妈妈。</p>
-<p>7月9日凌晨一点多，王宇最后一次与包龙军、包蒙蒙取得联系，凌晨4点17分，王宇给朋友发出消息称家中电源与网络被断，有人正在撬门。那是王宇最后一次与外界取得联系。</p>
-<p>一天以后，律师大抓捕正式开始，288名律师、法律工作者和人权扞卫者被警察约谈，其中20馀人被指涉嫌煽动颠覆国家政权、危害国家安全、寻衅滋事等多项犯罪，无一获得律师会见，至今不知所踪，多家重要官方媒体在法院未审理情况下将他们作为罪犯报道。外界将此系列事件称为“709律师大抓捕”。</p>
-<p>包蒙蒙经历两天的拘禁后被送往内蒙古的外婆家，护照被没收，警察对他定下“四不准”禁令：不准请律师、不准和外国媒体联系、不准和帮助爸妈的朋友联系、不准出国读书。包蒙蒙接受香港媒体采访称：“我也很痛苦，但倒不惧怕什么。”</p>
-<p>在王宇、包龙军被囚禁百日之时，10月9日，包蒙蒙在缅甸失联的消息传出。香港律师关注组称，包蒙蒙和同行的人权扞卫者唐志顺、幸清贤10月6日中午在缅甸猛拉市的华都宾馆8348房间被带走。该饭店的老板称当时来了10馀人，出示了缅甸警察证件，搜查了客房，把三个人都带走了。10月7日，他们的朋友和律师到当地警察局查询，警察声称没有抓人，随后他们走访了当地的政法处，也没有查到三人的下落。</p>
-<p>10月8日晚上11时，辛清贤成都的家被查抄，执行者是成都市公安局与内蒙古自治区兴安盟公安局，即包蒙蒙外婆所在地的警察机关。警察在搜查时亦口头告知已经抓获包蒙蒙。</p>
-<p>熟悉包蒙蒙情况的人士称：“包卓轩无法忍受国保秘密警察长期、持续的骚扰、恐吓、精神控制（包括对家人）， 乘十一长假之际脱离公安控制，欲经过缅甸到境外安静读书上学，在缅甸失联，料其行踪过早被监控人员发现，现在很可能已在内蒙乌兰浩特公安手中。”</p>
-<p>包蒙蒙仅是一名16岁的少年，遭遇如此“跨境追捕”，仅有一个理由：他是政治犯的孩子——关在境内可以充当人质用来与王宇、包龙军谈判，在境外却可能成为国际媒体的焦点——他的存在本身就是对中国人权状况的持久控诉。</p>
-<p>动用组织化暴力将一个未成年人掳为人质，让人除了“恐怖主义”难以想出别的词汇来定性这种恶行，中国和缅甸政府共同完成了这场真正国际级的恐怖主义行动。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E5%9B%BD%E5%AE%B6%E8%BF%BD%E6%8D%95%E7%9A%84%E5%AD%A9%E5%AD%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -983,7 +1014,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -993,5 +1024,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

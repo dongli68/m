@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%E5%AF%8C%E8%A3%95%E5%9B%BD%E5%AE%B6%EF%BC%9F%E5%8F%88%E7%BB%99%E7%A5%96%E5%9B%BD/" target="cdt-mirror">【网络民议】中国成世界第二富裕国家？又给祖国拖后腿了</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/download.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/download.jpeg" alt="Yuan banknotes are seen in this illustrative photograph taken in Beijing July 26, 2010. There is no basis for a major appreciation in the yuan exchange rate, the State Information Center, a government think tank, said on Monday. REUTERS/Jason Lee (CHINA - Tags: BUSINESS IMAGES OF THE DAY)" width="490" height="236"></a><br>
+（图片来自路透社）</p>
+<p><strong>新闻背景：</strong></p>
+<p>瑞信银行周二发表最新全球财富报告，称中国取代日本成为全球第二富裕国家，仅次于美国。以中产阶级人数计中国为全球之冠，达1.09亿名。<a href="http://cn.reuters.com/article/2015/10/13/cn-jp-wealth-idCNKCS0S710R20151013">报告经香港路透社发布后</a>，被多家大陆媒体转发。<a href="http://weibo.com/1642585887/CEXRCwTpt?type=comment">新浪证券的微博小编也“吐槽”道：“1.09亿？反正小编不是啊。”</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.11.01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.11.01.png" alt="Screen Shot 2015-10-13 at 下午5.11.01" width="598" height="611"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.11.56.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.11.56.png" alt="Screen Shot 2015-10-13 at 下午5.11.56" width="593" height="391"></a></p>
+<p><strong>以下为数字时代编辑摘自新浪微博网友评论：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.13.35.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.13.35.png" alt="Screen Shot 2015-10-13 at 下午5.13.35" width="598" height="615"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.14.37.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.14.37.png" alt="Screen Shot 2015-10-13 at 下午5.14.37" width="592" height="605"></a></p>
+<p>桥叭：。。。。又拖了祖国后腿</p>
+<p>abcapm：是以用的起iPhone 来区分吗</p>
+<p>墨兰竹石君子心：美丽报告，现实可笑！国富民贫！</p>
+<p>mujianxian：卵用，论总量与平均</p>
+<p>大嘴巴医学生：我愿意支边，到比我国穷的这些欧洲国家去，英国法国德国，随便哪个都行，去帮助他们共同富裕！</p>
+<p>村民米罗晓：贫民全球第几？</p>
+<p>小玛丽_Winner：[挖鼻][挖鼻][挖鼻]中产阶级股市里牺牲不少，吹，继续吹，也不看看国内经济形势</p>
+<p>蚊子公司：所有发展中国家都是多数人创造财富，少数人挥霍，没有健全的法律，健全人格，没有社会保障</p>
+<p>无敌女粉轻：如果你说的富就是一小撮人，拥有一堆的纸，那么我同意，可是，青山绿水呢，安居乐业呢？大概太乐观了，乐观死的快，好吗，正视问题的乐观才能持续发展。</p>
+<p>夕阳-晚景：希望人民的生活（包括医疗、教育、交通、住房、……等民生）能配得上世界第二富国的称号。</p>
+<p>翔宇少山：外媒称？？？搞笑</p>
+<p>东和资本：老外经常给国人灌些迷魂汤。</p>
+<p>NEM-柜子：贪官都算上，可能差不多</p>
+<p>從前以後4n：8000多万党员，先富带后富。[害羞]</p>
+<p>东晓岸：看了评论就找到组织了！</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%E5%AF%8C%E8%A3%95%E5%9B%BD%E5%AE%B6%EF%BC%9F%E5%8F%88%E7%BB%99%E7%A5%96%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/?category=18271" rel="tag">中国经济光明论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E4%BF%A1/?category=18271" rel="tag">瑞信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD/?category=18271" rel="tag">美国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 26分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%9D%A8%E9%B9%8F%EF%BC%9Atpp%E4%BB%B7%E5%80%BC%E8%B4%B8%E6%98%93%E4%B8%8E%E5%BE%98%E5%BE%8A%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">美国之音｜杨鹏：TPP价值贸易与徘徊的中国</a>
 </h2>
 <p><p>哈佛大学访问学者杨鹏10月9日作为嘉宾参加了《美国之音》的“焦点对话”栏目，谈到TPP与价值贸易时代的来临。10月12日，中国媒体《价值中国网》以杨鹏在“焦点对话”中提出的“价值贸易”为切入点，采访了杨鹏对TPP的全面看法。下面是采访的内容：</p>
@@ -149,7 +183,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0%E7%BD%91/?category=18271" rel="tag">凤凰网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届三中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%80%9D/?category=18271" rel="tag">吴思</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%A4%A9%E6%B4%A5%E5%8C%97%E8%BE%B0%E5%8C%BA%E4%B8%80%E4%BB%93%E5%BA%93%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8/" target="cdt-mirror">【真理部】天津北辰区一仓库发生爆炸</a>
 </h2>
@@ -938,102 +972,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%85%B3%E4%BA%8E%E5%8C%85%E5%8D%93%E8%BD%A9%E7%AD%89%E4%BA%BA%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%B8%AA%E7%9A%84%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E/" target="cdt-mirror">中国律师关于包卓轩等人在缅甸失踪的紧急声明</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image.jpeg" alt="image" width="229" height="303"></a></p>
-<p>中国律师关于包卓轩等人在缅甸失踪的紧急声明</p>
-<p>2015年7月9日开始，中国维权律师遭中国警方残酷打压。包卓轩作为被失踪律师王宇与包龙军的独子亦遭牵连。</p>
-<p>未成年的包卓轩在首都机场被阻止出境，遭限制人身自由，更目睹了其父被抓捕等一系列过程。事发之后他先是被监控在天津祖母家，后被警方遣送回内蒙古，在指定的学校中、在当地警方监控之下上学。他自由受限，护照等证件被扣押，无法前往澳大利亚完成预定的留学计划，也不能回到北京自己家中居住，更被警方警告不得为其父母聘请辩护律师。</p>
-<p>包卓轩既非犯罪嫌疑人，也非罪犯，中国警方对一个未成年儿童的非法措施已经超越了人类容忍的底线。依据中国政府已签署并批准加入的联合国《儿童权利公约》第二条第2款之规定：“缔约国应采取一切适当措施确保儿童得到保护，不受基于儿童父母、法定监护人或家庭成员的身份、活动、所表达的观点或信仰而加诸的一切形式的歧视或惩罚”。中国警方对包卓轩的跟踪、监视、限制自由等行径不仅违反国际法，亦违反中国《未成年人权益保护法》之规定，已涉嫌滥用职权犯罪。</p>
-<p>10月6日，包卓轩与其父母的朋友幸清贤和唐志顺在缅甸境内靠近中国的区域被强迫失踪。种种迹象表明，中国警方对包卓轩等三人的失踪具有无法推卸的责任。<br>
-为此，中国律师现提出如下要求：<br>
-1、中国政府作为联合国《儿童权利公约》的缔约国，应保障包卓轩等人的人身安全，协同缅甸政府及时查找他们的下落，并告知他们的亲属或监护人；<br>
-2、中国警方作为包卓轩等人失踪的责任方之一，相关责任人应承担相应的法律责任；<br>
-3、中国警方应立即停止对包卓轩及其他709事件被失踪律师家属的骚扰，停止阻拦中国人权律师、人权捍卫者及其家人出境的非法行为，保障中国公民的出国权和回国权；<br>
- 4、联合国及世界各国政府和国际人权机构应对包卓轩等人失踪事件予以高度关注，切实履行国际义务，保护包卓轩等人在缅甸境内及其离境后的人身自由及安全，避免遭受不法侵害。</p>
-<p>联署人:<br>
-余文生（北京）<br>
-钟锦化（上海）<br>
-滕彪    （北京）<br>
-唐吉田 （北京）<br>
-张庭源  (重庆)<br>
-蔺其磊 (北京)<br>
-马连顺 (河南)<br>
-蒋援民  (广东)<br>
-常伯阳 (河南)<br>
-冯延强 (山东)</p>
-<p>葛文秀 (广东)<br>
-葛永喜 (广东)<br>
-李威达 (河北)<br>
-兰志学 (北京)<br>
-覃臣寿 (广西)<br>
-任全牛 (河南)<br>
-文东海 (湖南)<br>
-吴魁明 (广东)<br>
-陈进学（广东）<br>
-覃永沛 (广西)</p>
-<p>吕洲宾 (浙江)<br>
-李金星 (山东)<br>
-黄汉中 (北京)<br>
-李方平  (北京)<br>
-覃玮进  (广西)<br>
-张磊 (北京)<br>
-黄志强  (浙江)<br>
-邓林华 (湖南)<br>
-王兴 (北京)<br>
-王秋实  (黑龙江)</p>
-<p>徐红卫 (山东)<br>
-梁小军  (北京)<br>
-冉彤  (四川)<br>
-付爱玲  (广东)<br>
-何伟民  (广东)<br>
-高承才  (河南)<br>
-王清鹏  (河北)<br>
-于全  (四川)<br>
-刘书庆 (山东)<br>
-陈南石  (湖南)</p>
-<p>吕方芝  (湖南)<br>
-熊冬梅  (山东)<br>
-田园（湖南）<br>
-瞿远（四川）<br>
-江天勇  (北京)<br>
-吴良述  (广西)<br>
-么民富（河北）<br>
-梁澜馨  (河北)<br>
-李大伟  (甘肃)<br>
-刘士辉  (广东)</p>
-<p>孙强  (湖南)<br>
-陈智勇  (北京)<br>
-袭祥栋  (山东)<br>
-张重实（湖南）<br>
-郑恩宠  (上海)<br>
-张鉴康  (陕西)<br>
-李昱函  (北京)<br>
-杨红 (浙江)<br>
-王国芳  (广东)<br>
-赵险峰 (陕西)</p>
-<p>刘长中 (湖南)<br>
-王凤明 (河北)<br>
-范国刚  (江苏)</p>
-<p>2015年10月11日</p>
-<p>此声明由中国人权律师团律师发起，欢迎律师同行联署。<br>
-联署方式:姓名+执业地，<br>
-联署邮箱:yws818@163.com</p>
-<p>注: 中国人权律师团成立于2013年9月13日，是一个开放性的律师协作平台，目前已有280人加入。中国人权律师团成立以来，通过发起联合声明，介入人权案件或事件等方式为保障人权、推进法治进行了诸多努力。认同人权理念，愿意维护公民基本权利的中国律师均可通过联系人声明加入。中国人权律师团律师永远是法治的推进者和人权的捍卫者！期待与您携手同行！<br>
-联系人（以名字汉语拼音为序）：<br>
-常伯阳 18837183338<br>
-刘士辉 18516638964<br>
-唐吉田 13161302848<br>
-王成   13616501896<br>
-余文生 13910033651</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%85%B3%E4%BA%8E%E5%8C%85%E5%8D%93%E8%BD%A9%E7%AD%89%E4%BA%BA%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%B8%AA%E7%9A%84%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E5%9B%A2/?category=18271" rel="tag">人权律师团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1045,7 +983,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1055,5 +993,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

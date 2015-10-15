@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%83%8F%E9%AC%BC%E5%AD%90%E8%BF%9B%E6%9D%91-%E5%B1%B1%E4%B8%9C%E5%8F%88%E4%BC%A0%E5%BC%BA%E6%8B%86%E5%91%BD%E6%A1%88/" target="cdt-mirror">博谈网 | “像鬼子进村” 山东又传强拆命案</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1_101.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1_101.jpg" alt="1_101" width="550" height="449"></a></p>
+<p>半夜，二百多人手持铁锹、棍棒闯入大院</p>
+<p>（博谈网记者苏智敏报道）山东又传出强拆造成村民死亡的案件。9月14日山东临沂市传出因强拆，造成46岁农民张纪民被烧死，10月13日山东济南巿则发生一起居民被拆迁人员打死的事件。</p>
+<p>半夜强拆</p>
+<p>山东省济南市中区经九路3号大院在13日的凌晨4点35分，大门被强行打开，二百多人手持铁锹、棍棒闯入大院。据《自由亚洲电台》报导，这些人为当局雇用的民工及不明人员，他们暴力强拆，六幢楼被拆卸。拆迁户朱先生向电台表示，当时年约57岁的释惠生到楼下查看情况，被拆迁人员殴打。拆迁人员在半夜打砸门窗，百位居民出面阻止，并与那批黑社会人士打起来，反而是民工没怎样动手。</p>
+<p>事发后，济南市市中区委宣传部部长任晓策于15日对《澎湃新闻》称，经九路3号大院多年前就被定为拆迁区域，为原地回迁，部分住户同意拆迁，但其他住户一直不同意，但该篇报导中，任晓策并没说明居民不同意的原因。</p>
+<p>为何选在半夜强拆，任晓策解释说，这群人并不是去强拆，是去检查已经搬迁的房屋，并拆除已经搬离的住户房屋窗户，但因为白天检房时都遇到阻拦，故选择凌晨前往。</p>
+<p>对于任晓策的说法，一位居民对《澎湃新闻》说明，是因为已经搬迁的房屋窗户若被拆除，一旦碰到雨雪天气，上下楼的住户就没办法正常生活。这位居民指出“这是他们逼我们拆迁的一种方式。”</p>
+<p>不一样的说词</p>
+<p>另外释惠生的死因，目前官方的说法和家属有出入。死者姐姐释女士向《自由亚洲电台》表示，事发后从监控录像，看到释惠生被四位民工围殴，身上有伤，推测是挨打致死，但医院发的死亡证明是死于呼吸及心脏停止。拆迁户朱先生也说，医生在抢救时，他看到释惠生身上有伤痕，胳膊有瘀青，医生也说那些伤痕是被打的。</p>
+<p>但当地警方向《澎湃新闻》表示，经初步调查，死者释惠生非外部原因致死，具体情况仍在查。而济南市市中区委宣传部部长任晓策则提出和死者姐姐不同的说法，他对《澎湃新闻》称，从监控视频看来，释惠生生前未与人发生肢体冲突，身上的伤痕是在救治过程中搬抬所致，死亡原因是心跳骤停。</p>
+<p>对于任晓策的说法，死者儿子释俊卿不认同，他指出父亲本身虽然患有高血压和心脏病，但即使是发病致死也是与这场冲突有关。因事情重大，家属尚未同意进行尸检。</p>
+<p>像鬼子进村</p>
+<p>这起事件经报导后，一张现场的监控视频撷图被网友认为很像电影《鬼子进村》的画面，并指出官方在凌晨拿棍棒检查搬迁的说法，是在挑战全国人民的智商。也有网友认为，正因为是见不得人的事，光天化日之下才不敢做。</p>
+<p>济南市中区经九路3号大院的拆迁项目始于2011年，据了解，这项目受到三分之二以上住户的反对。在3号大院门口贴着对联：“钓鱼岛是中国的，三号院是我们的！”院内还有醒目的标语：“工人阶级永远不会向黑恶势力低头”、“三号院不搬，开发商疯了，黑社会来了，老百姓拼了”。进门处有两个圆柱，上面写着：“坑爹坑娘坑百姓，拆天拆地拆良心。”</p>
+<p>据《维权网》报导，住户为抗议强拆出人命，在现场摆上花圈，并在路边拉巨幅横幅：“暴力强拆致死人命有谁来管，为死者讨回公道！”、“杀人偿命，杀人偿命，严惩凶手，血债谁还？”等，引来路人围观，一度造成交通堵塞。结果当局出动大批警力戒严，不让路人通行。住户们愤怒的抗议：“晚上暴徒来了上百人强拆的时候，你们不来，你们那时候干什么去了？半夜三更去你们家砸门，你什么反应？”</p>
+<p>过低的赔偿款</p>
+<p>山东不到一个月，接连发生强拆命案，临沂强拆和济南强拆的命案甚至有共同点，即都有疑似黑社会的人介入，并阻止居民救人。临沂强拆，有目击者指出围堵张纪民家的不明人士，开无牌车，部分人身上有文身和刺青。在起火后，这些人还围着院墙禁止村民靠近救火。</p>
+<p>这次的济南强拆，除了有当局雇用的民工，还有疑似黑社会的不明人士。一住户向《自由亚洲电台》表示，他发现释惠生躺在地上，立即报警并叫救护车，但拆迁人员堵在门口，不让任何人出去，直到他们发现释惠生没气息，才开门让救护车进入，但为时已晚。</p>
+<p>而赔偿远低于巿价更是二起强拆命案的直接发生原因。据《自由亚洲电台》报导，该地段的中、小学都是省重点学校，巿值一平方25000元，但2012年对3号大院住户提出的拆迁方案，当局只赔偿前面较新的楼房一平方10300元，后面楼房每平方只有9300元，比巿价少一半多，因此大部份居民都不同意。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%83%8F%E9%AC%BC%E5%AD%90%E8%BF%9B%E6%9D%91-%E5%B1%B1%E4%B8%9C%E5%8F%88%E4%BC%A0%E5%BC%BA%E6%8B%86%E5%91%BD%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C/?category=18271" rel="tag">山东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">暴力强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%8E%E5%8D%97/?category=18271" rel="tag">济南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%83%A0%E7%94%9F/?category=18271" rel="tag">释惠生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E5%8E%9F%E5%BE%8B%E5%B8%88%E4%B9%8B%E5%AD%90%E4%B9%9F%E8%A2%AB%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/" target="cdt-mirror">法广 | 刘晓原律师之子也被限制出境</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard17_118.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard17_118.jpg" alt="Clipboard17_118" width="550" height="309"></a></p>
@@ -140,6 +170,63 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
 <a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%90%8D/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94/?category=18271" rel="tag">妇女之友罗严塔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BD%E9%BB%98%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">幽默讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">政治讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E5%A3%B0/?category=18271" rel="tag">相声</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%90%8D/" target="cdt-mirror">【麻辣总局】相声：《报书名》</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/0511119ozeow476x6xiexj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/0511119ozeow476x6xiexj.jpg" alt="0511119ozeow476x6xiexj" width="450" height="441"></a><br>
+（图片来自网络）</p>
+<p>《报书名》<br>
+作者：<a href="http://weibo.com/u/2040110461">@妇女之友罗严塔</a></p>
+<p>甲:我们这位演员啊。<br>
+乙:啊。<br>
+甲:很多观众都认识。<br>
+乙:您客气。<br>
+甲:经常啊在收音机里头，电视里头看到您。<br>
+乙:倒是经常的上新闻联播。<br>
+甲:您是北京天团的演员。<br>
+乙:对啊。<br>
+甲:原籍是陕西富平人。<br>
+乙:不错。<br>
+甲:长期在地方工作。<br>
+乙:唉。<br>
+甲:现在家不还在北京哪。<br>
+乙:啊，在北京哪。<br>
+甲:您住在中南海。<br>
+乙:啊，对，对，对。<br>
+甲:是不是?<br>
+乙:对。<br>
+甲:家里都好啊?<br>
+乙:都不错。<br>
+甲:老太爷好啊?<br>
+乙:身体健康啊。<br>
+甲:大嫂子好?<br>
+乙:挺美的。<br>
+甲:孩儿们都上学了?<br>
+乙:早毕业参加工作啦。<br>
+甲:那您平时有什么爱好呢?<br>
+乙:我呀，就喜欢看点文艺方面的东西。我妻子是个文艺工作者，我们俩在这方面也谈得来。<br>
+甲:哦，文艺啊，这爱好好。您都爱哪些文艺作品呢？<br>
+乙:历史和现实都表明，人类文明是由世界各国各民族共同创造的。我出访所到之处，最陶醉的是各国各民族人民创造的文明成果。世界文明瑰宝比比皆是，这里我举几个国家、几个民族的例子。<br>
+甲:哦，你爱看外国书。<br>
+乙:首先是古希腊，埃斯库罗斯、索福克勒斯、欧里庇得斯，还有阿里斯托芬，他们的悲剧和喜剧是希腊艺术的经典之作。然后是俄罗斯，有列宾、普希金、果戈理、托尔斯泰；契诃夫、莱蒙托夫、屠格涅夫、肖洛霍夫、涅克拉索夫、拉赫玛尼诺夫、里姆斯基-科萨科夫；高尔基、柴可夫斯基、陀思妥耶夫斯基、车尔尼雪夫斯基等大师。<br>
+甲:嘿，好家伙，这么多个司机，得折合成几车皮韩寒吧？。<br>
+乙:然后是欧美。法国有雨果、萨特、加缪、米勒、马奈、德加、塞尚、莫奈、罗丹、比才；拉伯雷、拉封丹、莫里哀、司汤达、大仲马、小仲马、莫泊桑、柏辽兹、德彪西；巴尔扎克、罗曼·罗兰。英国有乔叟、拜伦、雪莱、济慈、哈代、透纳；弥尔顿、狄更斯、萧伯纳、等大师。德国有莱辛、歌德、席勒、海涅、巴赫、贝多芬、舒曼、瓦格纳、勃拉姆斯等大师。美国有霍桑、朗费罗、德莱赛、海明威、惠特曼、斯托夫人、马克·吐温、杰克·伦敦。<br>
+甲:您慢慢儿说后头还有什么大师。<br>
+乙:我最近访问了印度，印度人民也是具有非凡文艺创造活力的，大约公元前1000年前后就形成了《梨俱吠陀》、《娑摩吠陀》、《夜柔吠陀》、《阿达婆吠陀》这四部吠陀。法显、玄奘取经时，印度的诗歌、舞蹈、绘画、宗教建筑和雕塑就达到了很高的水平，泰戈尔更是产生了世界性的影响。<br>
+甲:这些都是外国的，您就不看中国的文艺作品？<br>
+乙:看啊，我国就更多了，从老子、孔子、庄子、孟子、屈原、王羲之、李白、杜甫、苏轼、辛弃疾、关汉卿、曹雪芹，到鲁迅、郭沫若、茅盾、巴金、老舍、曹禺，到聂耳、冼星海、梅兰芳、齐白石、徐悲鸿，从诗经、楚辞到汉赋、唐诗、宋词、元曲以及明清小说，从《格萨尔王传》、《玛纳斯》到《江格尔》史诗，从五四时期新文化运动、新中国成立到改革开放的今天，产生了灿若星辰的文艺大师，留下了浩如烟海的文艺精品，不仅为中华民族提供了丰厚滋养，而且为世界文明贡献了华彩篇章。这些文艺作品你爱看不爱看?<br>
+甲:爱看!<br>
+乙:爱看也看不了!<br>
+甲:怎么?<br>
+乙:墙外的人进不去，墙内的人进不来!<br>
+甲:逗我呀!</p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%90%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94/?category=18271" rel="tag">妇女之友罗严塔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">政治讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E5%A3%B0/?category=18271" rel="tag">相声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80/?category=18271" rel="tag">麻辣总局</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
@@ -690,93 +777,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%EF%BC%9A%E4%B9%A0%E6%80%BB%E8%87%B4%E9%87%91%E6%AD%A3%E6%81%A9%E7%9A%84%E4%BA%B2%E7%BD%B2%E5%87%BD/" target="cdt-mirror">【麻辣总局】习总日记：致金正恩的亲署函</a>
-</h2>
-<p><p>2015，10，12</p>
-<p>一</p>
-<p>刘云山作为中国共产党代表和我的私人特使前往平壤参加朝鲜劳动党70周年庆。</p>
-<p>9日晚在平壤百花园迎宾馆，刘云山向朝鲜人民的伟大导师、慈父领袖金日成的孙子金正恩转交了我的亲署函。</p>
-<p>刘动身之前当我把亲署函交给他时问了一个问题。我说，当年朝鲜人民唤金日成为慈父领袖，按照辈份那么今天朝鲜人民是否应该称呼金正恩什么？</p>
-<p>刘云山说，照道理应该称“乖儿子”。</p>
-<p>我笑而不语。</p>
-<p>我给金正恩的亲署函是这样写的：</p>
-<blockquote><p>习总给金正恩的亲署函</p>
-<p>正恩吾侄，多年未见甚是想念。</p>
-<p>不提当年与你父亲会面时你的邋遢模样了，免得你抓狂。</p>
-<p>为叔多次相邀你来祖父战斗过的地方参观访问，你却推三阻四一而再再而三失约。我很不高兴，你婶子也相当不高兴。</p>
-<p>虽然你现贵为一国之君，可毕竟那是芝麻绿豆小国，且仅占着二分之一地盘，还是贫瘠的北部，连咱们这儿一个最穷最穷的省也不如，你怎好意思得瑟？</p>
-<p>埋汰你是挽救你，希望从此有清醒的认识。</p>
-<p>进一步说，这片地方也是我党派遣中国人民志愿军流血牺牲几十万生命帮你金家打下来的，你即便不懂得感恩，表面文章还是要做的。</p>
-<p>总而言之，你继位至今却未曾来北京觐见，实在说不过去。反正我们全党全军和全国人民都不满意。要知道我13亿人民吐口唾沫都能把平壤淹了。</p>
-<p>唠叨废话至此，到了撂重话的时候了，请你收下中国党和人民对朝鲜党和人民的深情厚谊，5亿美元支票。</p>
-<p>叔了解你的脾气，不动点真格你是不会服软的，看我满清第十三大酷刑—-给钱。</p>
-<p>正恩乖侄，叔也很忙。自接班以来一门心思要搞定全党全军和全国人民。现在有多了个任务，搞定经济。</p>
-<p>当然我知道小有小的难处，这几年你也不容易。正日哥走得早，你小小年纪肩上就担负着民族复兴大业和实现朝鲜梦的重任，叔替你揪心也替你高兴。</p>
-<p>最后叔送你一句话，色字头上一把刀，一把磨得飞快的钝刀。望你好之为之。</p>
-<p>另：存支票时要看清身边有无可疑之人。</p>
-<p>安全第一。</p>
-<p>永远爱你的近平叔</p>
-<p>2015年10月8日于北京</p></blockquote>
-<p>二</p>
-<p>金正恩倒也乖巧，连夜写了回信给我。</p>
-<blockquote><p>金正恩致习总的亲署函</p>
-<p>近平叔好，丽媛婶好，</p>
-<p>看在5亿美元的支票面子上不跟你计较。但有些事情还是要说清楚，免得让你们以为俺金思密达是吃素的。</p>
-<p>首先别看朝鲜三千里江山地狭人稀，好歹我也是留过洋的。我若去联合国演讲，单就英文就甩你不知道多少条马路。</p>
-<p>其次国虽小也是国，而且我们基本上解决了社会主义国家共产主义接班人的根本问题，那就是虎父无犬子，伟大领袖的儿子也是伟大领袖，白头山血统保证了伟大的基因代代相传。</p>
-<p>可能这些科学知识对你而言有点难，一个工农兵大学生嘛，可以理解。</p>
-<p>聊点别的。当年俺祖父金日成将军欲统一朝鲜挥师南下，那是社会主义阵营解放全人类一盘大棋当中的一步棋，苏联同志中国同志和朝鲜同志们为了一个共同的目标走到一起来了，没有谁帮谁谁有恩于谁的事儿。</p>
-<p>六十年过去了，你们中国人小肚鸡肠老是拐弯抹角提醒我们感激，如同对日本怀恨。老实说已经忍你们很久了。</p>
-<p>你们前国家主席刘少奇夫人不是有句著名的话我现在以子之矛攻子之盾还给你们，“时代悲剧”。既然刘少奇之死以时代悲剧作为注解，你们所谓的“抗美援朝”，不也是“时代悲剧”么？凭什么要我们为“时代悲剧”对你们世世代代感恩戴德像孙子见老子一样恭恭敬敬？</p>
-<p>近平叔你醒醒吧，中国人你们醒醒吧！从历史里走出来吧，走不出来爬出来也行，忘记过去并不意味着背叛。相反我认为，忘记过去一笑泯恩仇，才是正能量，才是阳光老叔，才是庆丰包子。</p>
-<p>对了，还要提醒一下叔，这5亿美元能顶半年。你们中国人常说药不能停。若药不停钱就不能停。半年过后若不继续服药，我还是会捣鼓我的玩具，大浦洞火箭和原子弹。</p>
-<p>13亿中国人每人每年出一美元，轻轻松松13亿。人多力量大。真好！</p>
-<p>另：要不要帮你把刘云山拿下？只要5亿美元。你考虑考虑。</p>
-<p>邻家小侄，正恩敬上</p>
-<p>2015年10月11日于平壤</p></blockquote>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/10121501.jpg" alt="10121501" width="551" height="367"></p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%EF%BC%9A%E4%B9%A0%E6%80%BB%E8%87%B4%E9%87%91%E6%AD%A3%E6%81%A9%E7%9A%84%E4%BA%B2%E7%BD%B2%E5%87%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%E5%AF%8C%E8%A3%95%E5%9B%BD%E5%AE%B6%EF%BC%9F%E5%8F%88%E7%BB%99%E7%A5%96%E5%9B%BD/" target="cdt-mirror">【网络民议】中国成世界第二富裕国家？又给祖国拖后腿了</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/download.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/download.jpeg" alt="Yuan banknotes are seen in this illustrative photograph taken in Beijing July 26, 2010. There is no basis for a major appreciation in the yuan exchange rate, the State Information Center, a government think tank, said on Monday. REUTERS/Jason Lee (CHINA - Tags: BUSINESS IMAGES OF THE DAY)" width="490" height="236"></a><br>
-（图片来自路透社）</p>
-<p><strong>新闻背景：</strong></p>
-<p>瑞信银行周二发表最新全球财富报告，称中国取代日本成为全球第二富裕国家，仅次于美国。以中产阶级人数计中国为全球之冠，达1.09亿名。<a href="http://cn.reuters.com/article/2015/10/13/cn-jp-wealth-idCNKCS0S710R20151013">报告经香港路透社发布后</a>，被多家大陆媒体转发。<a href="http://weibo.com/1642585887/CEXRCwTpt?type=comment">新浪证券的微博小编也“吐槽”道：“1.09亿？反正小编不是啊。”</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.11.01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.11.01.png" alt="Screen Shot 2015-10-13 at 下午5.11.01" width="598" height="611"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.11.56.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.11.56.png" alt="Screen Shot 2015-10-13 at 下午5.11.56" width="593" height="391"></a></p>
-<p><strong>以下为数字时代编辑摘自新浪微博网友评论：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.13.35.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.13.35.png" alt="Screen Shot 2015-10-13 at 下午5.13.35" width="598" height="615"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.14.37.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-13-at-%E4%B8%8B%E5%8D%885.14.37.png" alt="Screen Shot 2015-10-13 at 下午5.14.37" width="592" height="605"></a></p>
-<p>桥叭：。。。。又拖了祖国后腿</p>
-<p>abcapm：是以用的起iPhone 来区分吗</p>
-<p>墨兰竹石君子心：美丽报告，现实可笑！国富民贫！</p>
-<p>mujianxian：卵用，论总量与平均</p>
-<p>大嘴巴医学生：我愿意支边，到比我国穷的这些欧洲国家去，英国法国德国，随便哪个都行，去帮助他们共同富裕！</p>
-<p>村民米罗晓：贫民全球第几？</p>
-<p>小玛丽_Winner：[挖鼻][挖鼻][挖鼻]中产阶级股市里牺牲不少，吹，继续吹，也不看看国内经济形势</p>
-<p>蚊子公司：所有发展中国家都是多数人创造财富，少数人挥霍，没有健全的法律，健全人格，没有社会保障</p>
-<p>无敌女粉轻：如果你说的富就是一小撮人，拥有一堆的纸，那么我同意，可是，青山绿水呢，安居乐业呢？大概太乐观了，乐观死的快，好吗，正视问题的乐观才能持续发展。</p>
-<p>夕阳-晚景：希望人民的生活（包括医疗、教育、交通、住房、……等民生）能配得上世界第二富国的称号。</p>
-<p>翔宇少山：外媒称？？？搞笑</p>
-<p>东和资本：老外经常给国人灌些迷魂汤。</p>
-<p>NEM-柜子：贪官都算上，可能差不多</p>
-<p>從前以後4n：8000多万党员，先富带后富。[害羞]</p>
-<p>东晓岸：看了评论就找到组织了！</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%E5%AF%8C%E8%A3%95%E5%9B%BD%E5%AE%B6%EF%BC%9F%E5%8F%88%E7%BB%99%E7%A5%96%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/?category=18271" rel="tag">中国经济光明论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E4%BF%A1/?category=18271" rel="tag">瑞信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD/?category=18271" rel="tag">美国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -788,7 +788,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -798,5 +798,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

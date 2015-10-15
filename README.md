@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%BD%91%E6%9B%9D%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%85%AC%E5%B8%8381%E4%B8%AA%E9%9D%9E%E6%B3%95%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6/" target="cdt-mirror">月光博客 | 网曝广电总局公布81个非法视频软件</a>
+</h2>
+<p><p>据认证媒体人微博电视眼爆料，目前中央网信办、广电总局正在全国范围内开展境外电视网络接收设备专项整治行动。</p>
+<p>据了解，这些非法视频软件主要是这些平台上提供未通过审批的境外视频产品，“涉嫌传播违规有害内容”，包括未经取得发行放映许可证播放境外电视剧。</p>
+<p>从曝光的截图来看，这所谓的“81个非法视频软件应用”涉及面非常广泛，其中，有不少著名的视频软件应用，风云直播、喜马拉雅、熊猫听书、360影视大全、泰捷视频等纷纷上榜。广电总局如果真的把所谓的“81个非法视频软件应用”给灭了后，互联网电视盒子真的就变成了单机盒子了。</p>
+<p>81个非法视频软件名单如下：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/59183920gw1ex13kdxissj20go34he58.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/59183920gw1ex13kdxissj20go34he58.jpg" alt="59183920gw1ex13kdxissj20go34he58" width="500" height="3374"></a></p>
+<p>广电不死，天理难容。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%BD%91%E6%9B%9D%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%85%AC%E5%B8%8381%E4%B8%AA%E9%9D%9E%E6%B3%95%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%94%B5%E8%A7%86/?category=18271" rel="tag">境外电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95/?category=18271" rel="tag">非法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6/?category=18271" rel="tag">非法视频软件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E8%B0%81%E6%9D%A5%E5%92%8C%E4%BD%A0%E6%94%BF%E6%B2%BB%E5%AF%B9%E8%AF%9D%EF%BC%9F/" target="cdt-mirror">德国之声 | 长平观察：谁来和你“政治对话”？</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018746920_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018746920_30300.jpg" alt="香港“雨伞”运动刚刚迎来一周年" width="600" height="338"></a><p>香港“雨伞”运动刚刚迎来一周年</p></div>
@@ -721,46 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%98%8E%E6%98%9F%E5%A9%9A%E7%A4%BC%E7%A7%80%E5%8F%AF%E4%BB%A5%E5%B0%91%E6%90%9E/" target="cdt-mirror">【异闻观止】人民日报 | “明星婚礼秀”可以少搞些</a>
-</h2>
-<p><p>陈向阳</p>
-<p>近日，演员黄晓明[微博]在上海举办结婚仪式。媒体报道，这场盛大婚礼席开了上百桌，来了“大半个娱乐圈”，堵了半条市中心的延安中路。对此，不少市民有抱怨，舆论也提出了一些批评。</p>
-<p>换个角度想，明星结婚仪式被追捧围观，其实反映了国人生活的丰富性，不仅物质生活有所提高，文化生活也更加多元。一方面，明星抓住一切机会进行“营销自我”；另一方面，一些受众出于个人爱好，加入到追星行列。倘若这些互动不影响社会正常秩序，不会对社会主流价值观造成负面冲击，那么对于像“明星婚礼秀”，也不必板着面孔指责之。</p>
-<p>问题是，这个“倘若”只是假设，事实上并非如此。婚礼媒体造势，引来大量粉丝，造成长时间交通拥堵。对于这样的情况，婚礼主角是否估计到了？婚房就在婚礼场所对面，走路不过百来米，却用一串婚车从这边开到那边。这样的轰动效应，是不是一些明星所追求的呢？</p>
-<p>明星结婚是个人的事，但是他们在“办个人的事”时，需要考虑对社会秩序和公众生活所带来的负面影响。这不仅仅是结婚仪式。从打人、吸毒到嫖娼，一些明星并没有意识到自己的私生活对社会、对公众产生了负面影响。即便在某一件事上没有主观故意，但却折射出社会责任感缺失的共同病因。</p>
-<p>文艺明星作为公众人物，对社会有很大的影响力，受到了广大粉丝的追捧和效仿。虽然对公众人物的社会责任没有明确规定，体现还是主要在道德层面。但作为公众人物，文艺明星的行为有放大作用，一举一动都备受关注，其形象不仅关乎个人，而且影响社会，所以更有义务在道德上做出表率，成为为社会指示道德正确方向的标杆。</p>
-<p>值得注意的是，在新媒体时代，文艺明星的社会责任，不仅体现于明星本身的品格与修养，也与公众舆论息息相关。一些媒体热衷于追星捧星，甚至无聊到了派记者到马路上去盯睄女明星。如此次婚礼，也“吸引”了众多媒体到场，从不同角度予以报道，有的还不惜用大幅版面、网页作介绍。媒体吸引眼球也可以理解，但是不是也同样需要考虑一下公共责任和社会价值？</p>
-<p>一对新人结婚，值得祝贺。不过这声势浩大的“明星婚礼秀”，后来者却不妨少搞些。或许那样，倒能得到更多真心的祝福。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/L1UnX.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/L1UnX.jpg" alt="黄晓明" width="550" height="366"></a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>寒央木：人家好歹是花的自己的钱，你们大手大脚办奥运，阅兵，经过人民同意了没有？臭不要脸。</p>
-<p>边走边唱的LIO：不赞同人民日报的观点，心操的太多，那些铺张浪费且不搞公益的多了去了，不去批评这些人，抓着人家结个婚批评，没啥意思。</p>
-<p>孤崖0492：人自己赚钱自己花钱，买个高兴，不怕人知道。人民日报你倒是呼吁呼吁官员财产也公开花呀，别几个亿几个亿的藏地板底下发霉啊，别怕人知道啊·······要是那些被藏起来的钱也能光明正大地流通开来，那才叫拉动内需啊。</p>
-<p>高丁当：人家结婚这么多大腕出席足见平时积人品多重要，看看自己阅个兵都来些什么人捧场。</p>
-<p>na个dang的小伙子：这就要不得了。社会是多元化的，明显婚礼是社会多元化的一种体现。并且，人家婚礼还是做了慈善的，这点就很值得肯定。人民日报管天管地，不能管人拉屎放屁。明星不是党员，不是干部，可以在法律道德允许下做任何事，这是基本的自由。另注，我很讨厌黄晓明和安吉拉卑鄙</p>
-<p>大盆友了：对私权来说，”法无禁止即许可”。能挣会花，个人随意。可以评论，无权指责。</p>
-<p>一碗泡面丶：自己挣钱自己花，听到别人说回报社会就别扭。完全是文革式思维。</p>
-<p>坚强的装逼犯：把明星全部查找替换为领导人，毫无违和感，这个作者你开门收一下快递，听说你对领导人很不满啊？</p>
-<p>二藤斋：[doge][doge][doge]“国家阅兵秀”可以少搞些；“养腐反腐秀”可以少搞些；“非洲援助秀”也可以少搞些。</p>
-<p>PHELPS2016：一对夫妻使用自己的合法私有财产去办一场自己所梦想的婚礼有什么部队吗？即使有不良影响，也是很多传媒利益驱动下过分的渲染造成的。虽然明星本人也可能是收益者，但是怎么结婚确实是自己的自由，承担社会责任则是另一码事。很多人从这里看到了巨大的贫富悬殊，对自身现状的不满所以把茅头指向明星本人。</p>
-<p>一碗玉米糁：跟家中人民币按吨算的某些人相比，你黄晓明才有几个钱啊？凭什么你就能风风光光的花钱，我的钱就得放在家里发霉？心理不平衡啊。</p>
-<p>远东胡姬花：人民日报还是多关注下老百姓的福利和官员的廉洁吧！</p>
-<p>大嘴巴医学生：通过此事情说明黄晓明赚钱很干净，没有政府后台，否则人民日报没这个胆子。</p>
-<p>二洋客：前段时间胡总去绵阳，早上一大早路两边就是交警开始站岗，中午，沿途开始封路，更可恶的是路两边连行人都不准行走。 我不相信这些你们日报不知道？ 批评别人的时候可否先正视下自己？</p>
-<p>爱照镜子的心叶兰：看评论这么多骂人民日报我就放心了。</p>
-<p>青柠不再：人民日报管的宽啊，花自己的钱，拉动经济，应该点赞啊！</p>
-<p>齐鲁万金：我是公众，我并没有感觉受到影响啊！</p>
-<p>写代码的麦子先生：不敢苟同，选择什么样的婚礼是个人的权利，况且办什么样的婚礼与是否回报社会是两码事，第二天新闻不是报他们两个去做善事么~~</p>
-<p>全球水产联盟：人民日报竟敢暗地里讽刺阅兵！其心可诛！</p>
-<p>z别放弃治疗：那你倒是叫他去管管贪官啊？你叫他们通报财产啊。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%98%8E%E6%98%9F%E5%A9%9A%E7%A4%BC%E7%A7%80%E5%8F%AF%E4%BB%A5%E5%B0%91%E6%90%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9/?category=18271" rel="tag">公众人物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%B1%E4%B9%90%E5%9C%88/?category=18271" rel="tag">娱乐圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB%E6%84%9F/?category=18271" rel="tag">社会责任感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E9%9D%A2%E5%BD%B1%E5%93%8D/?category=18271" rel="tag">负面影响</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E6%99%93%E6%98%8E/?category=18271" rel="tag">黄晓明</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -772,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -782,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

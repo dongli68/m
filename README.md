@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B5%9E%E6%AD%8C%EF%BC%9F%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E6%9B%BF%E4%BD%A0%E5%94%B1%EF%BC%81/" target="cdt-mirror">纽约时报 | 不会唱赞歌？中国媒体替你唱！</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/14sino-misquote02-articleInline-v2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/14sino-misquote02-articleInline-v2.jpg" alt="马若德" width="190" height="289"></a><p>马若德</p></div>
+<p>一名澳大利亚记者并没有说过西藏人民过着“美好的生活”，但却被这样引述。一篇支持共产党言论的观点文章，错误地将一位人气颇高的美国作家列为其作者。</p>
+<p>一直以来，外界知道中国官方新闻媒体会大费周章地正面描绘中国状况，颇具创意地调整标题，以及忽略重要事实。但几位著名中国问题专家最近表示，中国新闻媒体引述他们的言论时，有捏造或重大修改的现象。</p>
+<p>下面来看一些最明显的案例：哈佛大学历史和政治学教授马若德(Roderick MacFarquhar)本月在北京的<a title="Link: http://english.sina.com/china/2015/1012/854948.html" href="http://english.sina.com/china/2015/1012/854948.html" target="_blank" rel="nofollow">一个马克思主义会议上</a>谈及习近平的“中国梦”。他说，习近平所说的中国复兴说“在智识上是一个不连贯、不广泛、缺乏力量的理念，”不足以与西方思想抗衡。但中国官方的《环球时报》对此的回忆不同。它把马若德的话改成了，“中国梦”将会对人类发展做出巨大贡献，发挥积极影响。</p>
+<p>在本周三的一封电子邮件中，马若德称这个引述“完全是捏造的”。之后《环球时报》<a title="Link: http://www.globaltimes.cn/content/946549.shtml" href="http://www.globaltimes.cn/content/946549.shtml" target="_blank" rel="nofollow">删除了这句话</a>。《纽约客》撰稿人何伟(Peter Hessler)也写过几本关于中国的书，他有一天<a title="Link: http://sinosphere.blogs.nytimes.com/2015/01/21/peter-hessler-china-daily-article/" href="http://sinosphere.blogs.nytimes.com/2015/01/21/peter-hessler-china-daily-article/" target="_blank" rel="nofollow">很惊讶地看到自己的署名出现在官方报纸《中国日报》</a>今年1月的一篇观点文章中。该文高度赞扬中国的政治模式：“我认为，我对中国制度本质上有多么稳定有了更好的了解。”</p>
+<p>何伟要求撤文，称该报对以前的一个采访重新包装，删节了关键部分。但是，《中国日报》的编辑只撤下了英文网站上的文章。何伟后来<a href="http://www.newyorker.com/magazine/2015/03/09/travels-with-my-censor" target="_blank" rel="nofollow">把这件事写在《纽约客》中</a>，他说，“其实我应该会想到有这种事发生，因为《中国日报》在推销当局的思想方面是出了名的。”</p>
+<p>两年前，澳大利亚记者罗文凯(Rowan Callick)参加过政府组织的一次赴藏之旅。回来后，他发现自己出现在了《中国日报》一篇有关西藏的文章提中。西藏因社会动荡而声名远扬，但那篇文章却援引作为《澳大利亚人报》(The Australian)的亚太编辑的罗文凯(Rowan Callick)的话称，“我惊奇的发现这里的人们有着美好的生活。”</p>
+<p>在西藏，罗文凯是见过官员和当地记者，但他说自己从没说过那些话。罗文凯说，他后来收到了文章作者个人的道歉，对方解释称，错误地把其他人当成了罗文凯。这篇报道的<a href="http://english.cntv.cn/20130822/103458.shtml" target="_blank" rel="nofollow">原文</a>至今仍可在官方电视台CCTV的网站上看到。</p>
+<p>2012年，当发现《环球时报》上出现以自己名义写的<a href="http://www.lowyinterpreter.org/post/2012/02/02/Global-Times-What-I-really-said.aspx" target="_blank" rel="nofollow">评论文章</a>时，澳大利亚国立大学国家安全学院院长罗里·梅德卡尔夫(Rory Medcalf)感到十分震惊。梅德卡尔夫曾经受《环球时报》访问，但他从未答应为其写作评论文章。梅德卡尔夫说，该文扭曲了他的观点，其中有一处指西藏人是“分裂分子“，梅德卡尔夫说自己没有使用这种说法。</p>
+<p> 就此事件，《环球时报》<a href="http://www.lowyinterpreter.org/post/2012/02/08/Global-Times-On-the-record.aspx" target="_blank" rel="nofollow">难得地发表了</a>采访梅德卡尔夫的<a href="http://www.globaltimes.cn/content/694760.shtml" target="_blank" rel="nofollow">记者的道歉声明</a>。“我从这个尴尬事件中看到的是，在国际参与程度扩大的情况下，中国媒体以及整个中国都在面对的挑战，”该名记者写道。</p>
+<p>在周三的一封电邮中，梅德卡尔夫指出，最近的一连串捏造及错误引用外国专家言论事件，揭示了中国对媒体的严格管控与部分中国记者报道真实新闻的抱负之间的角力。</p>
+<p>梅德卡尔夫说：“我们不能假定，所有在中国官方媒体工作的记者和受聘的外籍编辑都会安然接受新闻材料在与公众见面之前经过的扭曲。</p>
+<div>
+<div>
+<p>赫海威(Javier C. Hernández)是《纽约时报》记者。<em><br></em></p>
+<p><em>欢迎在Twitter上关注本文作者<a href="https://twitter.com/HernandezJavier" target="_blank" rel="nofollow">@HernandezJavier</a>。</em></p>
+</div>
+<div></div>
+<p>翻译：Tang Wing Sze（实习）、Lee Wing Yan（实习）</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B5%9E%E6%AD%8C%EF%BC%9F%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E6%9B%BF%E4%BD%A0%E5%94%B1%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%A5%E5%BE%B7/?category=18271" rel="tag">马若德</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-8/" target="cdt-mirror">【网络民议】长沙“天网工程”５万监控日夜守护百姓平安　</a>
 </h2>
 <p><blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E9%95%BF%E6%B2%99%E8%AD%A6%E6%96%B9%E8%A3%85%E6%AD%BB%E7%8B%97-%E8%80%83%E9%AA%8C%E4%B9%A0%E8%BF%91%E5%B9%B3/" target="_blank">长沙警方装死狗是对习近平的考验</a></p></blockquote>
@@ -705,55 +735,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%87%A4%E5%87%B0%E7%BD%91-%E5%90%B4%E6%80%9D%EF%BC%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%E7%9A%84%E5%BD%A2%E6%88%90%E3%80%81%E5%AE%9E%E6%96%BD%E4%B8%8E%E7%BA%A0%E5%81%8F/" target="cdt-mirror">凤凰网 | 吴思：中央决定的形成、实施与纠偏</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1585cb3e1334c7e.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1585cb3e1334c7e.jpg" alt="1585cb3e1334c7e" width="336" height="450"></a></p>
-<p>2015年盛夏，几位朋友聚餐，在饭桌上谈起日益浓重的政治困惑。</p>
-<p>在我看来，十八届三中全会《决定》，用一句话表达，就是提高市场经济纯度。十八届四中全会《决定》，用一句话表达，就是加强法制。不错，是法制而不是法治。法制是用法来治，党在法上，党把法作为统治工具，不时做有利于自己的修改。法治是由法来治，党在法下。四中全会《决定》没有达到法治的高度。不过，实现法制，有法可依，有法必依，在中国也是进步。正如春秋时代“铸刑鼎”，限制了统治的任意性，也被看作历史进步一样。</p>
-<p>问题是，这两个《决定》能落实多少？如何理解一再出现的干扰动作甚至反向动作？</p>
-<p>三中全会《决定》大量使用了当代西方经济学语言，四中全会《决定》指向“司法独立”。按照钱钢先生的语象分析，这类话语属于浅蓝色。可是，即便用邓小平时代的标准衡量，领导人的许多即兴讲话也是浅红色的，偶尔还冒出几句深红色的。日渐弥漫的红色话语、漠视法律的逮捕判决、国企和政府力量在市场领域的扩张，这种自相矛盾的局面，应该如何理解？</p>
-<p>我试图用两个简单的概念解释这种局面:“领导偏好”与“中央决定”的偏离。两位熟悉党内高层运作的朋友，立刻纠正补充，丰富了我的猜想。</p>
-<p>吴伟先生介绍了中共中央决定形成的第一步：动议是如何提出的。蔡霞先生介绍了文件起草的第一步，如何调研，如何下基层听取意见并选择材料；随后又说到各类参与者的偏好在文件修改中的作用；最后是最高领导拍板定稿。蔡霞先生把这种决定形成模式称为“领袖推动式”。然后，两位先生又介绍了历史和现实中的决定实施情况：从最高领袖到各级领导，都表现出选择性实施的行为。这就是决定实施的“领导偏好模型”。</p>
-<p>十八届三中和四中全会决定做出的承诺，未来能兑现多少，这是涉及中国前途的大悬念。回顾历史，考察现实，建立一个可讨论可证伪的决定形成和实施模型，有助于我们澄清困惑，把握相关因素，进而预测未来。</p>
-<p>一、决定形成：领袖主推模型</p>
-<p>1、最高领导设置议程。讨论什么问题，解决什么问题，通常由最高领导人提出，然后征求意见，再布置调查研究，写出草案。</p>
-<p>在少数情况下，最高领导人的副手，或中央办公厅等下级部门，受最高领导委托提出议题，再由最高领导认可确定。</p>
-<p>2、调查研究人员通常包括了理论研究者和实际操作者。在调查研究过程中，调研者广泛听取意见，但强调什么，忽略什么，体现了调研者和各级修改把关者的看法和偏好，其中既有理论工作者的理论看法，也有实际工作者的利害考量。作为最高领导的下属，这些偏好难免含有迎合最高领导人的成分。基层民众的意见，在调研阶段有可能成为议题的参考材料，经过筛选之后上达。</p>
-<p>3、各个部门都可能参与相关部分的起草。他们既要揣摩上意，又要照顾既得利益，还要争取本部门的利益，兼顾调研报告反映上来的基层意见。如果这些矛盾难以调和，尤其是不同部门的不同主张难以调和，文件中就会出现模棱两可的说法，甚至出现自相矛盾的说法。</p>
-<p>4、根据议题的性质，在不同的层次和范围征求意见。</p>
-<p>5、最高领导人修订确认，对争议做出裁决。例如，在《关于社会主义精神文明建设的决议》（1986年）中，保留有关“资产阶级自由化”的说法，不用“以共产主义思想为核心的社会主义精神文明建设”的提法。这种裁决体现了最高领导人的利害判断。</p>
-<p>6、在中央全会上讨论修改通过。最后这道程序，以及会前的文件修改讨论程序，其作用大小，与党内民主程度正相关，与最高领导人的推动力度负相关。</p>
-<p>小结。中共中央决定，在名义上体现了全党的意志，但在实际操作中，主要体现了最高领导的意志，其次体现了调研起草和讨论阶段各种参与者的意志，最后才体现了调研对象或基层民众的意志。在上述意义上，中共中央决定的形成模型，可以简称为“领袖主推模型”。</p>
-<p>最高领导人的意志，与全党的意志，与基层民众的意志，可能有不同程度的重合。但是，高重合度并未获得程序和制度保障。</p>
-<p>二、决定实施：领导偏好模型</p>
-<p>1、决定通过后，如果最高领导人改变看法，决定就会被束之高阁，沦为一纸空文。例如，毛泽东对八大报告不满，随后走向阶级斗争和路线斗争，不再提“落后的生产力与先进的生产关系的矛盾，”八大政治报告及关于报告的决议不仅沦为一纸空文，还成为某些人的罪名。</p>
-<p>如果最高领导变更，新领导对决定不感兴趣，决定也会沦为一纸空文。例如胡耀邦力推通过的《关于社会主义精神文明建设的决议》，再如《党内生活若干准则》，通过后几乎无人提起。</p>
-<p>最高领导人不感兴趣的决议，很少被撤销或废除。最大的可能是黑不提白不提，束之高阁。这样的文件比比皆是。但是，最高领导人不感兴趣的说法，仍然保存在政治武库里，在需要的时候可能被人翻出来说事。例如，在讨论精神文明建设决议的时候，十二大报告中关于共产主义思想的说法，就被邓力群翻出来，要求新文件与束之高阁的老文件保持一致。八大报告关于发展生产力的主张，多年后还成了核心政策。</p>
-<p>总之，决定的实施力度，取决于最高权力的意志。</p>
-<p>2、决定通过，最高领导也愿意推动实施，但负责实施的各个部门及其领导，仍将根据自己的利益和偏好，选择性地实施决定中的某些内容，避开某些内容。如果决定本身就包含了模棱和矛盾之处，那么，各级各部门的领导在实施中将各取所需。</p>
-<p>3、决定在实施中倘若引发危机，将停止实施。例如，1988年8月中共中央政治局通过了《关于价格、工资改革的初步方案》，消息公布后引发抢购风潮，于是放弃实施，主要领导人还做了自我批评。再如，中共十三大报告的亮点是政治体制改革。1989年形势大变，政治体制改革成了雷区。尽管邓小平说十三大报告一个字都不能动，实际却束之高阁。</p>
-<p>4、最高领导人的意志，呈现为矛盾集合体。在决定实施过程中，最高领导人可能表现出与决定指向相悖的个人偏好。例如，为了应对眼前危机，降低而不是提高市场经济的纯度。再如，为了应对眼前的政治难题，破坏而不是加强法制。这些日常讲话和批示，针对性强，容易布置落实并督查奖惩，往往大于中央决定的作用。</p>
-<p>最高领导在意识形态领域的偏好，具有溢出该领域的全面影响。对红色信仰的偏好，对公有制的偏好，对阶级斗争手段的偏好，降低了市场和法制建设承诺的可信性和可行性，同时影响了全体官员的利害判断和政策取舍。</p>
-<p>5、最高领导表现出的与决定指向相悖的个人偏好，与各个条条块块的领导的偏好，以及部门利益和个人利益，必定发生互动。对下级来说，最有利的做法是，投上级所好，提供上边想听的情况，同时追求个人利益和部门利益。例如，夸大本领域的敌情，可以增加经费，提高本部门的政治地位。如此上下互动，偏离逐步放大。</p>
-<p>意识形态领域的偏离，造成非中性的舆论环境，影响全社会的利害抉择。</p>
-<p>6、如果中央决定属于应对重大危机的有效措施，那么，决议无法落实，将加剧危机。更大的危机，将迫使最高领导人纠偏。反之，如果中央决定是错的，实施决定将造成危机，危机巨大，将迫使最高领导人纠偏。八大和九大决定就是这两方面的例证。</p>
-<p>总之，在决定实施中，从上到下，皆可根据自身偏好选择性地实施决定或偏离决定，而且可以在上下互动中增大偏离率。这是“领导偏好实施模型”。</p>
-<p>一般而言，各级领导如果对决定实施效果的预期不好，最符合本人和本部门利益的做法，就是尽量拖延实施。最高领导调节各级领导预期的方式多种多样。可以修改决定，也可以解释说服，还可以提供更强的激励或施加更大的压力。邓小平推动农村改革的办法是：“允许看，大胆试，不争论”。以“允许看”安抚反对者，以“大胆试”激励改革者，以“不争论”确保中性的舆论环境。结果，“大胆试”取得的成就造成了众人的良好预期，农村改革全面实施，拖延者不再观望。</p>
-<p>党在法上，权在法上，各级一把手很少受到制约，党的决议和宪法、党章、法律及法规一样，并没有强大的政治实体监督捍卫——没有宪法法院，没有独立的司法，没有独立的纪委，没有起诉和独立裁决机制，这种体制是“领导偏好实施模型”的制度基础。</p>
-<p>三、几点判断和推测</p>
-<p>1、十八大三中全会的决定，已在陆续出台的各项文件中体现出来。例如国务院实施的经济体制改革，改革措施平均几周出台一次。四中全会提出的司法改革，也出台了实施意见并开始试点。</p>
-<p>2、决定在实施过程偏离目标，本来就是常规。但最近一年的偏离率偏高，尤其在意识形态领域，影响遍及全社会。</p>
-<p>3、如果目标长期混乱，总体偏离过度，将使三中和四中全会的许多承诺落空。这两个决定所承诺的改革，从国际经验看，正是缓解经济困境、处理社会危机的合理措施，承诺落空将加剧经济困难，导致社会危机。</p>
-<p>4、危机加剧将导致政治纠偏。</p>
-<p>（作者独家授权凤凰大学问稿件，转载请联系实习编辑赵一哲zhaoyz3@ifeng.com）</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%87%A4%E5%87%B0%E7%BD%91-%E5%90%B4%E6%80%9D%EF%BC%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%E7%9A%84%E5%BD%A2%E6%88%90%E3%80%81%E5%AE%9E%E6%96%BD%E4%B8%8E%E7%BA%A0%E5%81%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0%E7%BD%91/?category=18271" rel="tag">凤凰网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届三中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%80%9D/?category=18271" rel="tag">吴思</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -765,7 +746,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -775,5 +756,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

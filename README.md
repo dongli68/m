@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-8/" target="cdt-mirror">【网络民议】长沙“天网工程”５万监控日夜守护百姓平安　</a>
+</h2>
+<p><blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E9%95%BF%E6%B2%99%E8%AD%A6%E6%96%B9%E8%A3%85%E6%AD%BB%E7%8B%97-%E8%80%83%E9%AA%8C%E4%B9%A0%E8%BF%91%E5%B9%B3/" target="_blank">长沙警方装死狗是对习近平的考验</a></p></blockquote>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-15-at-10.18.32-AM-1024x438.png" alt="Screen Shot 2015-10-15 at 10.18.32 AM" width="549" height="235"></p>
+<p><a href="http://weibo.com/p/1001603890539895375879">５万监控日夜守护百姓平安　长沙“天网工程”深推立体防控体系建设</a></p>
+<p><span><span><a href="http://weibo.com/u/1973743580" target="_blank">长沙警事</a> </span><span>发布于2015年9月24日 10:07</span></span></p>
+<p><img src="http://ww3.sinaimg.cn/large/75a4efdcgw1ewdbflf018j20b407eaat.jpg" alt=""><br>
+日前，家住长沙伍家岭的周女士发现家附近街道增加了几个监控摄像头，“从下公交车到步行回家，一路上有3个摄像头。”这让经常上晚班的周女士倍感安全。</p>
+<p>今年7月，来自湖北的张先生带着一家三口急匆匆赶到地铁光达派出所，报警称在地铁火车南站下车时不慎将一个黑色手提包遗失，请民警帮助寻找。值班民警迅速调取周边摄像头回看，不到10分钟便在地铁火车南站安检口找到了遗失的手提包。</p>
+<p>这些，都得益于长沙随处可见的视频监控探头。据了解，2011年启动建设的长沙“天网工程”，历时3年，政府投入5.28亿元，现已在全市重点区域建成高清摄像头2.7万余个，公交移动监控设备4000余套，同时整合政府已建城市安防系统、电子卡口系统、道路交通监控系统、平安校园监控以及地铁监控摄像头1.2万余个，并于2013年底全面实现了与市应急联动指挥系统的实时对接。全城5万个监控摄像头犹如5万名不眠不休的警察，全天守护在城市和农村的公共区域，实现视频全方位覆盖。</p>
+<p><strong>全城监控：案件数同比下降明显</strong></p>
+<p><img src="http://ww4.sinaimg.cn/large/75a4efdcgw1ewdbfthaauj20b407fwfn.jpg" alt=""></p>
+<p>在长沙市公安局110指挥中心大屏幕上，记者看到，在全市的电子地图上，密密麻麻地分布着许多摄像头图标，民警用鼠标点击其中任意图标，画面就立即切换到该摄像头的监控范围，交通路口、大型商场、交通枢纽等人员聚集场所和案件高发部位的实时情况，一目了然。</p>
+<p>2014年9月26日4时39分，一辆牌号为湘AT0288的出租车在火车站广场被一名光头男子抢走。市公安局110指挥中心迅速调度特巡警巡逻车、芙蓉分局治安二大队及周边路面警力对车辆进行查缉拦截，同时，利用“天网工程”高清视频对火车站广场进行空中搜索。5时05分，监控中心值班民警在火车站广场南侧停车场内发现嫌疑车，经比对车牌和光头男子的外貌特征后，确认该车系被抢出租车，值班民警立即调度警力在广场南侧停车场将嫌疑人控制。</p>
+<p>6月12日凌晨，雨花区恒大城发生一起攀爬入室盗窃案。专案民警迅速对案发现场进行回访，准确将该案与4月25日恒大城被盗案并案侦查，并根据犯罪嫌疑人的逃窜特点将逃窜出口作为重点展开搜索，发现2名可疑人员踪迹。随后，专案民警继续开展视频追踪，最终将犯罪嫌疑人落脚点锁定在雨花区潭阳村。6月23日，专案民警在潭阳村一出租屋内成功将犯罪嫌疑人廖某抓获，侦破类案14起。</p>
+<p>“已落网的犯罪嫌疑人供述，在作案踩点过程中只要发现有监控摄像头，他们大都不敢铤而走险。”市公安局“天网办”负责人介绍，今年1-8月，全市刑事、治安案件总量、八类恶性案件、九类侵财案件、两抢案件、盗窃案件数同比下降明显，没有发生影响恶劣的大要案件，天网在震慑犯罪、控压发案方面功不可没。</p>
+<p><strong>协助破案：今年现行命案100％告破</strong></p>
+<p>今年3月份，宁乡县玉潭镇一环路人民医院、连城国际小区连续发生3起猥亵、强奸案。犯罪嫌疑人尾随单身女性作案，给受害人身心造成巨大伤害，社会影响恶劣。宁乡县公安局抽调精干警力成立专案组，综合运用视频侦查技战法于5月21日抓获犯罪嫌疑人费某林，破案15起。</p>
+<p>“如果放在以前，这种案件侦破起来可以说是难度相当大，光走访调查就得耗费相当长的时间。”办案民警介绍说，现在有了“天网”的支撑，民警办案确实是如虎添翼。</p>
+<p>为了提升视频应用的实战能力，长沙公安机关重点研发了“天网”智能行为分析和人脸识别检测功能，实现对嫌疑目标的自动预警和比对。新应用的图像处理设备和软件，能将夜间图像、模糊图像、逆光图像、雨雾天图像等进行处理后复用，最大限度地发挥视频图像的应用成效。</p>
+<p>“今年以来，长沙公安机关现行命案100%全部侦破，直接利用“天网工程”视频图像串并、侦破各类刑事案件4700余起，抓获犯罪嫌疑人2300余人，破案作用率达57%。”市公安局相关负责人介绍，自“天网工程”投入运行3年多来，长沙公安机关直接利用天网视频图像先后成功侦破望城区“2014.7.21”抢劫杀人案、岳麓区“2015.1.26”故意杀人案等一系列案件1.7万余起。</p>
+<p><strong>创新服务：监控服务公众获市民点赞</strong><br>
+6月15日凌晨3时许，五一大道省工商银行前路段发生一起交通事故，一辆高速行驶的黑色奔驰轿车与两辆出租车相撞，导致其中一台出租车被撞后失控，冲上公交站台撞坏站台设施，出租车驾驶员受伤。</p>
+<p>事故发生后，肇事奔驰车逃离现场。芙蓉交警大队迅速调阅事故现场“天网”视频图像，锁定了肇事车辆车牌号码，然后通过视频追踪，成功找到停放在某修理厂内的肇事奔驰车，并通过掌握的驾驶人电话号码，通知其到大队投案自首。6月16日凌晨，肇事者投案自首，这起引起社会广泛关注的交通肇事案成功告破，此时距案发不到24小时。</p>
+<p>5月18日上午，湖南交通职业技术学院学生粟某将一面写有“替民解难、为民排忧”的锦旗送给了雨花公安分局东塘派出所，感谢该所民警帮其找回丢失财物。4月30日，粟某将一个皮箱遗忘在出租车后备箱，皮箱内财物价值逾万元。由于他未记下车牌号码，经过几天的寻找仍未果。5月3日，他来到东塘派出所请求帮助。该所民警耐心询问粟某财物丢失的具体细节，沿乘车路线逐一调看视频，迅速锁定粟所乘出租车，并与当班车主取得联系。晚上9时许，当出租车司机将遗失的皮箱送至粟某手中时，粟激动地直夸东塘派出所民警真给力。</p>
+<p>“目前，长沙‘天网工程’正在充分整合社会视频资源，现已摸底登记全市小区、门店、单位等自建视频监控点18.6万个，都将逐步与‘天网工程’实现对接。”市公安局相关负责人介绍，1-8月，全市公安机关受理群众申请调阅查看“天网工程”视频图像4500余起，帮助群众找回丢失行李物品、调解处理矛盾纠纷1500余起，找回迷路和离家出走的儿童、老人、智障人员60余人。</p>
+<p><strong>以下网民评论由数字时代编辑整理自新浪微博：</strong></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-15-at-10.16.55-AM-1024x773.png" alt="Screen Shot 2015-10-15 at 10.16.55 AM" width="551" height="416"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-15-at-10.17.28-AM-1024x856.png" alt="Screen Shot 2015-10-15 at 10.17.28 AM" width="551" height="461"></p>
+<p><a href="http://weibo.com/5111650100" target="_blank">米1978</a>：天网能找到陈队长吗</p>
+<p><a href="http://weibo.com/1843351727" target="_blank">bambino居然有人用了</a>：5.27999999亿元用于加减罗的公务消费，大保健。</p>
+<p><a href="http://weibo.com/5237960088" target="_blank">翼欣梓</a>：天网工程连个组织卖淫嫖娼垫付嫖资的陈老板都抓不到，我看还是不用搞了。</p>
+<p><a href="http://weibo.com/2271017960" target="_blank">山野一民</a>：问题是，天网后面的视频设施，在对老百姓有利的时候，就经常失灵！能向社会公布谁对这种失灵负责吗？比如说：陈队的行踪呢？</p>
+<p><a href="http://weibo.com/pcqskyer" target="_blank">浅唱Freedom</a>：没有法治，哪来的安全感？这些摄像头，一旦涉及到某些人，视频想没有就没有的。顺便问一句，陈队长呢？</p>
+<p><a href="http://weibo.com/2462073243" target="_blank">我不卖冰红茶了</a>：能看到陈队吗<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"><img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
+<p><a href="http://weibo.com/5541812370" target="_blank">圈里面的伍文韬</a>：陈队长呢？下面保持队形，不要忘记陈队长。向陈队长致敬！</p>
+<p><a href="http://weibo.com/chenshaoju" target="_blank">陈少举</a>：有什么用？陈佳罗（陈检罗？）在哪？还不是找不到？被钓鱼执法了，摄像头肯定就坏了，录像肯定就丢失了，人肯定就进入死角了。</p>
+<p><a href="http://weibo.com/5419405990" target="_blank">WO还没吃饭呢</a>：陈家骡子，驴马日三方混血，日本人的样貌，驴的智商，马的逃跑速度。常年卧底长沙警方。终被发现并被长沙警方秘密处决，如此奇功，不求褒奖，深藏功与名。</p>
+<p><a href="http://weibo.com/1687504650" target="_blank">从容加淡定</a>：陈队，son of bitch</p>
+<p><a href="http://weibo.com/5379845524" target="_blank">超级理性禽兽</a>：这么多摄像头没拍到陈检罗 别扯淡了</p>
+<p><a href="http://weibo.com/3209357113" target="_blank">recool_2013</a>：陈队长安好？<a href="http://weibo.com/n/%E9%95%BF%E6%B2%99%E8%AD%A6%E4%BA%8B?from=feed&loc=at" target="_blank">@长沙警事</a></p>
+<p><a href="http://weibo.com/5054804469" target="_blank">半醉癫狂</a>：需要用的时候不是死角没拍到，就是监控坏了……</p>
+<p><a href="http://weibo.com/1823712200" target="_blank">memnoon</a>：然而并没有什么卵用，平民百姓的事用不上，都是为统治阶级服务的。</p>
+<p>><a href="http://weibo.com/2372318825" target="_blank">关注三农关注农村发展</a>：这么多钱吗的连个陈队都抓不到。丢人</p>
+<p><a href="http://weibo.com/rigar" target="_blank">RigarKwok</a>：大家別急，有了天網，陳隊長就能找到了<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p><a href="http://weibo.com/3893230164" target="_blank">瑞哥46</a>：陈队长，你死了，可是永远活在俺们心里。我每天操你一万遍。</p>
+<p><a href="http://weibo.com/1858643964" target="_blank">老粗</a>：看评论 我明白了一件事 凡事一丑遮百俊啊 信任这东西 就像白纸一张 弄皱了 再抹平很困难了</p>
+<blockquote><p> 更多相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E4%BC%AF%E9%97%A8/">区伯门</a></p></blockquote>
+<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E4%BC%AF%E9%97%A8/?category=18271" rel="tag">区伯门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%B2%99%E8%AD%A6%E4%BA%8B/?category=18271" rel="tag">长沙警事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%A3%80%E7%BD%97/?category=18271" rel="tag">陈检罗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B8%82%E6%B0%91%E5%8F%91%E7%9F%AD%E4%BF%A1%E4%B8%AD%E6%9C%89%E8%B5%8C%E5%AD%97-%E6%88%90%E6%95%8F/" target="cdt-mirror">南方都市报｜广州一市民发短信中有“赌”字 成敏感词被停机</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2013/07/%E6%95%8F%E6%84%9F%E7%93%B7.jpg" alt="敏感瓷" width="309" height="500">南都讯 “和你赌一把——你认为屠呦呦会不会去瑞典领诺贝尔奖？”黄埔的高先生发的这条短信，惹来了“停机之祸”。中国移动称是系统后台抽取关键字，“赌”是敏感词，需要写承诺书，保证不再发垃圾短信。高先生认为这是无理要求，拒绝了。究竟短信里还有什么字眼不能发？</p>
+<p>给朋友发短信被停机</p>
+<p>69岁的高先生退休在家，“平常我很关注国家大事，像最近的青岛大虾和屠呦呦获诺贝尔奖，我都很感兴趣”。前日（12日）下午，高先生看到关于屠呦呦腰不好，不保证去瑞典领诺贝尔奖的新闻，灵机一动，想跟朋友们“小小打一个赌”。</p>
+<p>他在手机打着，“和你赌一把——你认为屠呦呦会不会去瑞典领诺贝尔奖？”短信写好后，他打算发送给几个朋友，结果短信无法发出。</p>
+<p>13日上午，高先生的手机停机了，无法使用。“我以为是手机钱不够了，去街口的小卖部充值”，档主帮他查手机余额，然而并不是欠费。</p>
+<p>中午时分，他到了中国移动黄埔公园服务厅一探究竟。客服告诉他，可能是因为短信中含有敏感词“赌”，所以被识别为垃圾短信。根据公司规定，发送垃圾短信有可能被停机，高先生就是这种情况。</p>
+<p>这个说法高先生尚且能接受，但是紧接着客服让他写承诺书，保证以后不再发垃圾短信。这下高先生被激怒了，“我并不是发垃圾短信，凭什么让我这样承诺”。他拒绝了写承诺书。</p>
+<p>客服告诉他，如果不写承诺书会被登记下来，处理结果仍然不确定。</p>
+<p>短信敏感词还真不少</p>
+<p>南都记者联系中国移动客服，其称发送广告、赌博、暴力、凶杀、恐怖等短信，会被视为发送垃圾短信。系统电脑自动抽取关键词，例如“赌”、“银行卡”、“暴力”、“毒品”、“财产”、“金额”、“发票”等都是敏感词。经公安机关审查之后，才会认定为垃圾短信，进而采取停机措施。</p>
+<p>客户被认定发送垃圾短信后，中国移动规定要写承诺书，不写的将会被登记。但是具体处理结果待进一步通知。</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/space/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93">敏感词库</a></p></blockquote>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B8%82%E6%B0%91%E5%8F%91%E7%9F%AD%E4%BF%A1%E4%B8%AD%E6%9C%89%E8%B5%8C%E5%AD%97-%E6%88%90%E6%95%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%AD%E4%BF%A1/?category=18271" rel="tag">短信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%BD%91%E6%9B%9D%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%85%AC%E5%B8%8381%E4%B8%AA%E9%9D%9E%E6%B3%95%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6/" target="cdt-mirror">月光博客 | 网曝广电总局公布81个非法视频软件</a>
 </h2>
 <p><p>据认证媒体人微博电视眼爆料，目前中央网信办、广电总局正在全国范围内开展境外电视网络接收设备专项整治行动。</p>
@@ -677,68 +754,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%A4%A9%E6%B4%A5%E5%8C%97%E8%BE%B0%E5%8C%BA%E4%B8%80%E4%BB%93%E5%BA%93%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8/" target="cdt-mirror">【真理部】天津北辰区一仓库发生爆炸</a>
-</h2>
-<p><p>各新闻网站，天津北辰区一仓库发生爆炸一事严禁炒作，对借机攻击党和政府、社会制度的信息要严厉查处，立即清除。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%A4%A9%E6%B4%A5%E5%8C%97%E8%BE%B0%E5%8C%BA%E4%B8%80%E4%BB%93%E5%BA%93%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%8C%97%E8%BE%B0%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津北辰爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E4%BD%91%E4%B8%AAp%EF%BC%9F%E4%BD%A0%E4%BB%AC%E4%B8%8D%E6%98%AF%E6%97%A0%E7%A5%9E%E8%AE%BA%E8%80%85%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】天佑个P？你们不是无神论者吗？</a>
-</h2>
-<p><blockquote><p>背景新闻：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%B8%A4%E6%9C%88%E5%90%8E-%E5%A4%A9%E6%B4%A5%E5%8F%88%E4%B8%80%E4%BB%93%E5%BA%93%E8%B5%B7%E7%81%AB/">纽约时报 | 天津港爆炸两月后 天津又一仓库起火</a></p></blockquote>
-<p><br><em>（视频来源：新浪微博@Dizzy）</em></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E8%B6%81%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A2%AB%E9%81%97%E5%BF%98-%E8%AE%B2%E4%B8%80%E8%AE%B2%E6%88%91%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%848-12%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/">趁还没有被遗忘 讲一讲我所经历的8. 12塘沽爆炸</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E9%80%BC%E7%AD%BE/">【立此存照】天津逼签</a></li>
-<li><a title="【立此存照】介尼玛炸的丝空气清新剂吧！" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%8B%E5%B0%BC%E7%8E%9B%E7%82%B8%E7%9A%84%E4%B8%9D%E7%A9%BA%E6%B0%94%E6%B8%85%E6%96%B0%E5%89%82%E5%90%A7%EF%BC%81/">【立此存照】介尼玛炸的丝空气清新剂吧！</a></li>
-<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津滨海区爆炸事故</a>专题</li>
-</ul></blockquote>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%88%86%E7%82%B8.png" alt="爆炸" width="475" height="721"></p>
-<blockquote><p><a href="http://weibo.com/tjtientsin" target="_blank">@新浪天津</a>：#天津北辰区爆燃# 【北辰区一企业仓库起火 系非法租用】该企业注册在河北区，法人代表周庆吉，非法租用西堤头村村民霍焕成700平米的个人仓库，存储酒精3000公斤、乙酸1000公斤、甘油800公斤、氢氧化钠500公斤、氢氧化钾500公斤。 经区环保局现场监测符合空气质量标准。6:30消防员归队。（每日新报）<br><a href="http://weibo.com/tjpolice110" target="_blank">@平安天津</a>：#情况通报#10月12日21时46分，天津公安消防总队接报警，位于北辰区西堤头镇西堤头村的一仓库发生爆燃。接报后，公安消防、属地北辰分局警力迅速赶到现场处置。目前，扑救工作仍在进行，现场无人员伤亡。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@静小爱的窝窝：无人员伤亡？难道仓库连一个保安都没有吗？</p>
-<p>@magician-晕倒：额。。。现场还在扑救。。。无人员伤亡。。。你自己不觉得矛盾么。。天津港的事件过去好几个礼拜还有遇难者被搜救到呢，你连火都没扑完就说无人员伤亡。。实在有规避高层的意思</p>
-<p><strong>@曹阿流以后想养一条狗：爆炸，祈福，蜡烛，不哭，捐款，航拍到位，众志成城，正能量，最美XXX，哀悼日，载入史册，爆炸，祈福••••</strong></p>
-<p>@紫筠轩主：别总喊天佑天佑的，都是人祸，跟老天爷没有关系。</p>
-<p><strong>@无明寂学：天佑个P？你们不是无神论者吗？</strong></p>
-<p><strong>@余旭瑄：#天津北辰大爆炸#对于盛世来说，灾难是巨大的污点。但是，盛世轻松地消解了灾难，发明了温情脉脉的灾难美学，灾难的残酷性被救灾的好人好事取代，救灾者成为主角，遇难者成为配角——灾难美学代替了灾难反思。庆典和灾难互相冲突，但是庆典美学和灾难美学并行不悖，这是盛世的美学奇观。</strong></p>
-<p><a href="http://weibo.com/1698140161" target="_blank">别开枪是我羊羊羊</a>：谁在说“多难兴邦”云云的，我就直接抽他大嘴巴。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p><a href="http://weibo.com/2764455493" target="_blank">彭就定是彬我_</a>：一个月后，这件事会风平浪静，它会被各种娱乐花边和购物狂潮覆盖，大多数人不会提及，甚至好像它从来没有发生过，人们脸上依旧满挂笑容<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">。</p>
-<p><a href="http://weibo.com/5353207887" target="_blank">终南山__</a>：查电器，封食堂<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">把我们的生活搅的一塌糊涂，我以为是真为我们着想。然而整整两个月之后，又一家非法的化工仓库炸了<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">我就想问问这两个月整治的都是什么？整治的是我们这些不能为你当地GDP做贡献的学生吗？812真是白白牺牲了那么多人，依旧没把天津的某些人炸醒。</p>
-<p><a href="http://weibo.com/keixian520" target="_blank">JustChocolateOvO</a><i></i>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">守着石化和炼油厂的滨海新区大港人民发来贺电哦<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我都活到快高考辣(ง •̀_•́)ง冒着生命危险学习好吗hhhhhhhhh</p>
-<p>@冬冬z：又尼玛炸了，上次还没定好谁背锅了，领导都不够用的了</p>
-<p><a href="http://weibo.com/sunbingjun" target="_blank">孙炳军Baron</a><i title="微博个人认证 "></i><i></i>：<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]">天津市最大的领导黄兴国代书记、主管安全生产的何树山副市长，这下位子保不住了吧？</p>
-<p><a href="http://weibo.com/ppkub" target="_blank">鹏鹏大王彡</a>：听说你们家领导后台硬，上次要彻查也没结婚本来准备不了了之的，这次估计又要开会赶记者了，熬2个月后领导又是一条好汉，天津党委，牛<img title="[作揖]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif" alt="[作揖]"></p>
-<p>@哈哈大将军：我们将继续“举一反三”……！艹！</p>
-<p>@Intent_萝卜：越有爆炸天津的空气质量越是正常</p>
-<p>@爱涵warmth：下次什么地方空气质量不好就来次爆炸，绝对符合标准了！！</p>
-<p>@木子佐90：易燃易爆，强碱腐蚀！</p>
-<p>@会旅行的老鼠rigo：又是炸的空气清新剂 看来哪里空气质量不好燃放些烟花爆竹啥的空气质量就会变好 不仅变好还会跻身空气质量的第一把交椅！ 看来雾霾也终于有救了。。。</p>
-<p>@大连猎神：给北京的空气治理 开了先河。</p>
-<p><strong>@芝心范的伯乐：一出事就是企业主非法操作，都非法了，怎么还能操作呢？</strong></p>
-<p>@余凯128：我觉得爆炸前肯定是合法的。。</p>
-<p>@夜神月大人：刚过去两个月就又爆炸？为什么不长记性？为什么无牌照就可以租用这么大一块地放这么多违规的东西？</p>
-<p>@桉涵康博：说明此前的消防安全检查是走过场～～其他解释全是浮云。</p>
-<p><strong>@风水师乔：连我一个看风水算八字的都看不下去了，一打开微博热门话题没有了，还要去找！直到现在公布的情况是一个父母基层公务员，一个原中化员工，一个穷光蛋，一个死了爹的无业游民、联手开了一个瑞海国际，两年内打败国企垄断了天津港。这特么才是最励志的中国合伙人好伐</strong></p>
-<p>@手机用户1030001393：这就是安全生产？无人员伤亡！我们真棒！！！</p>
-<p>@red狼：帝都北京 魔都上海 炸都天津</p>
-<p>@丨丶猪肠粉：还把我评论删除了?. 真是有够恶心的。小烟花炮竹都能把人给炸伤了,爆炸反而无人员伤亡。原来这爆炸的威力还比不上一个小烟火。真的长见识了</p>
-<p>@会幸福de鱼鱼：没事就好。另，兴国同志心理素质真好。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A9%E4%BD%91%E4%B8%AAp%EF%BC%9F%E4%BD%A0%E4%BB%AC%E4%B8%8D%E6%98%AF%E6%97%A0%E7%A5%9E%E8%AE%BA%E8%80%85%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">事故通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E8%BE%B0%E5%8C%BA%E7%88%86%E7%82%B8/?category=18271" rel="tag">北辰区爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7/?category=18271" rel="tag">安全生产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E9%97%AE%E8%B4%A3%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">官员问责制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -750,7 +765,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +775,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

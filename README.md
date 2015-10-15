@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E5%8C%85%E5%8D%93%E8%BD%A9%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E5%8D%B1%E9%99%A9%EF%BC%8C%E6%88%91/" target="cdt-mirror">博谈网 | 外媒探访包卓轩：“你们有危险，我们正被监视”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1444799314556.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1444799314556.jpg" alt="1444799314556" width="550" height="309"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1444799314556-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1444799314556-1.jpg" alt="1444799314556 (1)" width="550" height="309"></a><br>
+（包卓轩目前与外婆一起待在内蒙古乌兰浩特的这个公寓里。）</p>
+<p>（博谈网记者周洁编译报道）据《悉尼先驱晨报》10月14日内蒙古乌兰浩特报道，敲门声是从沉重的铁门里面传出来的。一位绝望、害怕的祖母试图让她的孙子和我们免受伤害。</p>
+<p>‌‌‌‌“我是为你们好，你们有危险‌‌‌‌”，佟彦春通过紧闭的大门告诉我。‌‌‌‌“我们正被监视。‌‌‌‌”</p>
+<p>在中国北方这个安静的小镇上，这位八旬老人朴素的公寓成为中国政府扫荡性镇压该国人权律师的一个缩影。</p>
+<p>他们家的朋友都非常担心佟女士的孙子包卓轩，他自10月6日试图偷偷逃离中国时失联。当时他与两位人权活动人士唐志顺和幸清贤在缅甸的一个边境小镇上被抓走。</p>
+<p>卓轩的母亲是著名人权律师王宇，父亲是法律维权人士包龙军，他们自7月9日起一直被单独监禁。</p>
+<p>由于外婆不肯开门，16岁的卓轩表示异议。但她态度坚决。</p>
+<p>‌‌‌‌“你太年轻，没有经历过文革，你不会明白的‌‌‌‌”，佟女士告诉她的孙子。</p>
+<p>‌‌‌‌“我不怕有事‌‌‌‌”，他说。‌‌‌‌“他们只是想做个采访。‌‌‌‌”</p>
+<p>他开始解释，他的手机被当地警方没收了。说到这，他的祖母开始疯狂地敲打门，以便淹没他的声音。她催促我们离开，‌‌‌‌“我是为你们好。‌‌‌‌”</p>
+<p>四名便衣警察很快就到了。尽管出示了记者证和身份证，这名记者、一名费尔法克斯媒体（Fairfax Media）的摄影师和一名日本记者被告知我们需要跟他们走，去验证身份。当我们问他们时，这四名便衣除一人外，均拒绝出示他们的证件或提供他们的姓名。</p>
+<p>在当地的一个公安机关，他们问了我们一些基本问题：我们是谁，为谁工作，我们计划在乌兰浩特报道什么。那些警察大多拒绝回答卓轩的状况，或是在回答时，提供的陈述相互矛盾。</p>
+<p>一个人说卓轩患了感冒，正在发高烧；另一个人说他在学校里。三名警察说，该少年是被‌‌‌‌“骗‌‌‌‌”去穿越缅甸边境，他‌‌‌‌“后悔‌‌‌‌”这样做。协助他此行的两名活动人士现在正接受调查。</p>
+<p>在接下来的7个小时里，大部分时间我们是在警察的注视下坐在等候室里。这些警察坚称他们需要请示上级，以及在等候确认我们的身份，即使感觉就象一个赤裸裸的伎俩来干扰我们的报道。</p>
+<p>最后，警方宣布我们在乌兰浩特确实是合法的，并没有违反任何规定。但在中国，外国记者必须在进行采访前获得受访者的许可。警方说，那名男孩和他的祖母已拒绝接受采访。他们把我们护送到机场，乘航班飞回北京。</p>
+<p>尽管中国作为一个全球性的经济、军事和政治力量似乎势不可挡，但是当试图窥探它在国内最黑暗的角落时，它仍然极度神经过敏。</p>
+<p>卓轩的母亲王宇最出名的是为法轮功学员辩护——该精神团体在中国被禁，以及她为女权主义者和备受尊敬的维族活动人士伊力哈木·土赫提辩护。伊力哈木去年被以分裂罪名判处终身监禁。王宇和她的丈夫目前被拘押，被控‌‌‌‌“煽动颠覆国家政权罪‌‌‌‌”。</p>
+<p>由于担心包卓轩会被当作杠杆来针对王宇律师，人权活动人士和他家的友人精心策划了这次高风险的出逃。</p>
+<p>资深记者高瑜今年4月被以泄露国家机密罪判刑7年，她的律师们谴责当局使用上电视认罪的做法来针对她。他们说高瑜屈从是因为当局暗示会威胁到她成年的儿子。</p>
+<p>王宇家的友人梁波说，包卓轩在中国面临的前景有限。‌‌‌‌“如果你甚至都不敢开门，这是什么样的生活‌‌‌‌”，她说。</p>
+<p>原文链接：<a href="http://www.smh.com.au/world/you-are-in-danger-we-are-being-monitored-20151014-gk8p0i.html">‘You are in danger. We are being monitored’</a></p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E5%8C%85%E5%8D%93%E8%BD%A9%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E5%8D%B1%E9%99%A9%EF%BC%8C%E6%88%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4/?category=18271" rel="tag">内蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%A4%B4/?category=18271" rel="tag">包头</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%87%A4%E5%87%B0%E6%96%B0%E9%97%BB%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%E5%85%A8%E6%96%87%E9%A6%96%E6%AC%A1/" target="cdt-mirror">凤凰新闻｜习近平在文艺座谈会上的讲话全文首次公开发表</a>
 </h2>
 <p><p>原标题：习近平：在文艺工作座谈会上的讲话</p>
@@ -899,24 +931,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E5%85%A8%E7%90%83%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F%E6%8E%92%E5%90%8D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%80%92%E6%95%B0/" target="cdt-mirror">网易数读 | 全球“死亡质量”排名：中国倒数</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/201510120254308f067.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/201510120254308f067.jpg" alt="201510120254308f067" width="550" height="883"></a></p>
-<p>近日，经济学人智库发布了一项全球死亡质量排名报告，主要关注于各国姑息治疗的实施情况。所谓姑息治疗，与临终关怀类似，不过针对范围从晚期癌症病人扩充至所有患有危及生命的疾病的患者，通过提供支持系统，缓解患者生理和心理上的双重痛苦，让患者离开得有尊严，从而提高死亡质量。</p>
-<p>该报告将“死亡质量”评分标准分为5大类别，包括姑息治疗的环境、人力资源、医疗护理的可负担程度、护理质量和公众参与等，各类别下细分为20个定性或定量的小指标。结果显示在80个国家及地区当中，英国排名第一，随后是澳大利亚、爱尔兰、比利时等国，美国排名第九，而中国大陆地区排名71，综合得分23。实际上2010年经济学人智库就发布了第一版报告，当时仅涵盖40个国家及地区，结果也是英国排名第一，而中国大陆排名37，印度垫底。</p>
-<p>在评分标准的权重中，政府的政策支持与财政投入占近40%的比重，包括对医疗机构的支持、开放镇痛药品的供应、患者医疗负担的补贴等等，这一点决定了经济发达的国家排名往往靠前。而在中国，一方面由于政府支持有限，大多数的临终关怀机构都集中于少数大城市，且患者财务负担沉重，另一方面在公众参与上，由于缺乏有关死亡的教育，民众对于临终关怀的了解甚少，甚至医生也没有经过相关专业培训，普遍执着于治愈性治疗，反而增加了患者无谓的痛苦。</p>
-<p>然而报告中指出，中国是少数几个处于低收入国家分组，但对姑息治疗需求较高的国家。2012年癌症、心血管疾病等慢性病已经占到中国人死亡原因的80%以上，而2020年中国将有13%的人口达到65岁以上，相比之下印度却只有6%，这意味着中国将有更庞大的姑息治疗需求，但现状却是目前的医疗条件只能满足0.3%的患者需求，如何让人们有尊严地死去将是一项长期艰难的课题。</p>
-<p>延伸阅读： <a href="http://news.163.com/15/0408/02/AML6507200014MTN.html" target="_blank">《中国人死因30年变化：癌症死亡率猛增》</a></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E6%95%B0%E8%AF%BB-%E5%85%A8%E7%90%83%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F%E6%8E%92%E5%90%8D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%80%92%E6%95%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80/?category=18271" rel="tag">临终关怀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">医患纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%9D%A1%E4%BB%B6/?category=18271" rel="tag">医疗条件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%91%E6%81%AF%E6%B2%BB%E7%96%97/?category=18271" rel="tag">姑息治疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E4%BA%A1%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">死亡质量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -938,5 +952,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B4%E7%BB%88
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

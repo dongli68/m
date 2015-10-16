@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%85%B1%E7%BA%AA%E5%A7%94%E5%AE%A3%E5%B8%83%E5%8F%8C%E5%BC%80%E5%9B%9B%E5%90%8D%E7%9C%81%E7%BA%A7%E5%B9%B2%E9%83%A8/" target="cdt-mirror">BBC | 中共纪委宣布“双开”四名省级干部</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151016074823_yang_dongliang_976x549_reuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151016074823_yang_dongliang_976x549_reuters_nocredit.jpg" alt="中纪委公布的消息中没有提及杨栋梁被处分是否与天津港爆炸事件有关" width="600" height="337"></a><p>中纪委公布的消息中没有提及杨栋梁被处分是否与天津港爆炸事件有关</p></div>
+<p><strong>中国中共中央纪委在周五（10月16日）同一时间宣布四名中央委员和候补委员因“严重违纪”被“双开”，这是中国当局对同时开除党籍和公职处分的说法。</strong></p>
+<p>中纪委监察部网站于周五下午1时同时发布两条消息宣布了这些决定，被处分的包括河北省委原书记、省人大常委会原主任周本顺，国家安全生产监督管理总局原党组书记、局长杨栋梁，内蒙古自治区党委原常委、自治区政府原副主席潘逸阳和广西壮族自治区党委原常委、南宁市委原书记余远辉。</p>
+<p>消息同时宣布，中纪委对四人的违纪问题进行立案审查。</p>
+<p>当局对四人的违纪状况陈述中均提到了“严重违反政治纪律和政治规矩”，其中的“政治规矩”是今年7月以来中共官方在提及被处分官员时所常用但并未明确解释的一个新说法。</p>
+<p>关于四人的陈述中均提到了除违反党纪以外，四人各自滥用职权为他人谋取利益以及收受贿赂等“涉嫌犯罪”。</p>
+<p><strong>先后“接受调查”</strong></p>
+<p>中纪委在去年9月宣布潘逸阳“接受组织调查”，其余三人则分别在今年5月至8月期间先后被公布接受调查。</p>
+<p>54岁的潘逸阳曾历任广东省团委书记、江西省委常委、省委农工部部长，2010年调往内蒙古出任内蒙古自治区党委常委，自治区政府党组副书记，一个月后出任自治区常务副主席。</p>
+<p>中纪委于去年9月宣布潘逸阳接受组织调查，他也成为自中共十八大后的第七位落马的中央委员或中央候补委员。</p>
+<p>余远辉则历任梧州市委副书记兼市长、自治区党委常委、秘书长、办公厅主任等，2013年5月起任自治区党委常委、中共南宁市委书记。他在今年5月被宣布接受组织调查，有消息指在被查前几个月他仍在高调推动反腐。</p>
+<p>周本顺在湖南任职多年，从湖南省地质学校教师做起，后成为该校团委副书记，并担任湖南省地质矿产厅政治部秘书，2013年3月成为中共河北省委书记。他在7月24日被宣布接受组织调查，成为中共十八大后首位落马的在任省委书记。</p>
+<p>作为国家安全生产监督管理总局局长的杨栋梁在今年8月被免去领导职务，消息宣布前几天，天津港发生了有毒化学物品仓库大爆炸，造成多人死伤和严重环境污染问题。</p>
+<p>中纪委公布的消息中没有提及杨栋梁被处分是否与爆炸案有关，而在爆炸事故发生当晚，他还曾率工作组赶赴天津指导抢救工作。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%85%B1%E7%BA%AA%E5%A7%94%E5%AE%A3%E5%B8%83%E5%8F%8C%E5%BC%80%E5%9B%9B%E5%90%8D%E7%9C%81%E7%BA%A7%E5%B9%B2%E9%83%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA/?category=18271" rel="tag">严重违纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%93%E5%B1%80/?category=18271" rel="tag">当局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%BA%AA%E5%BE%8B/?category=18271" rel="tag">政治纪律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8D%E8%A6%81%E4%B8%80%E5%90%AC%E5%88%B0%E5%BB%B6%E8%BF%9F%E9%80%80%E4%BC%91%E5%B0%B1%E6%80%A5/" target="cdt-mirror">【异闻观止】环球时报 | 不要一听到延迟退休就急眼</a>
 </h2>
 <p><p>李长安</p>
@@ -81,7 +105,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">官方微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">网友评论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/" target="cdt-mirror">好奇心日报 | 文化部发了第一条微博 不到 6 小时评论就超了 4 万</a>
 </h2>
@@ -102,7 +126,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">官方微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">网友评论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%83%8F%E9%AC%BC%E5%AD%90%E8%BF%9B%E6%9D%91-%E5%B1%B1%E4%B8%9C%E5%8F%88%E4%BC%A0%E5%BC%BA%E6%8B%86%E5%91%BD%E6%A1%88/" target="cdt-mirror">博谈网 | “像鬼子进村” 山东又传强拆命案</a>
 </h2>
@@ -681,42 +705,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E9%AB%98%E6%A0%A1%E5%AE%A3%E4%BC%A0%E9%98%9F%E4%BC%8D%E6%AF%8F%E5%B9%B4%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/" target="cdt-mirror">【异闻观止】教育部：高校宣传队伍每年政治教育不少于24学时</a>
-</h2>
-<p><p>为深入贯彻落实《关于进一步加强和改进新形势下高校宣传思想工作的意见》精神，切实加强高校宣传思想工作队伍建设，近日，中央宣传部、教育部党组联合印发《关于加强和改进高校宣传思想工作队伍建设的意见》，就加强和改进高校宣传思想工作队伍建设作出全面部署。</p>
-<p>意见指出，高校宣传思想工作队伍是党的宣传思想工作的一支重要力量。统筹推进高校党政干部和共青团干部、思想政治理论课教师和哲学社会科学课教师、辅导员和班主任、心理健康教育教师和学生骨干等宣传思想工作队伍建设，培育建设网络评论队伍，是全面落实新形势下高校宣传思想工作战略任务的基础工程。加强和改进高校宣传思想工作队伍，要坚持党管宣传、强化责任，坚持德才兼备、全面发展，坚持统筹规划、分类指导，坚持从严从实、改革创新，以加强思想理论建设为根本，以配齐建强队伍为重点，以提高工作能力为核心，以改革完善激励机制为保障，努力建设一支信念坚定、数量充足、结构合理、能力突出、勇于担当的高素质宣传思想工作队伍。</p>
-<p>意见强调，高校党委要把明晰宣传部门职能、加强宣传力量配备作为一项重点工作，进一步明确党委宣传部门在统筹意识形态工作、统筹推进培育和践行社会主义核心价值观、统筹校园文化建设、统筹新闻宣传舆论引导、统筹网络文化建设和管理、统筹教师思想政治工作等方面的职责任务，科学核定并合理配置人员，真正将宣传部门牵头抓总的职能要求落到实处。要把政治标准作为高校宣传思想工作人员聘用、考核的首要标准，把政治坚定和在理论上、笔头上、口才上有专长的优秀干部充实到宣传思想工作重要岗位。</p>
-<p><strong>意见强调，要遵循教育规律和人才成长规律，坚持问题导向，统筹队伍发展规划，统筹队伍思想政治素养和业务知识培训，统筹队伍发展保障体系建设，分层分类推进队伍科学发展。高校党委要把宣传思想工作队伍建设纳入学校人才队伍建设计划和培训规划，要按照政治上强起来的要求，健全政治理论经常性学习制度和定期轮训制度，确保每年集中政治理论教育时间不少于24学时。</strong>要按照业务上强起来的要求，突出领军人才培养、强化骨干队伍建设、加强培训能力建设、拓展实践锻炼途径，培养一大批具有扎实理论功底和实践能力的高素质专业人才，努力建设一支忠诚于党的宣传思想工作事业的人才队伍。</p>
-<p><strong>意见明确，要着力提升网络运用能力，遵循信息网络规律，把掌握运用微信、微博等新媒体操作技术作为宣传思想工作队伍的必备能力，练就运用“网言网语”参与网络文化建设管理的过硬本领。要切实增强网络信息安全管理能力，强化对网上有害信息的甄别、抵制、批判能力，学习掌握抵御防范网络攻击的技术规范和技巧。</strong>要积极探索建立优秀网络文章在科研成果统计、职务职称评聘方面的认定机制，不断形成吸引优秀人才参与网络文化建设的政策导向。</p>
-<p>意见指出，要坚持重品德、重能力、重业绩、重服务的用人导向，不断完善激励政策，坚持解决思想问题和实际问题相结合，加强人文关怀，认真研究宣传思想工作专兼职一线人员的工作量计算办法和津贴补贴标准，建立健全学校宣传思想工作队伍的表彰奖励办法，努力拓展职业发展空间和晋升通道。</p>
-<p>意见要求，各地党委和宣传、教育工作部门要高度重视高校宣传思想工作队伍建设，把高校宣传思想工作队伍建设情况纳入高校巡视和年度考核。高校要按照加强力量配备、明确专岗专责、着眼优化结构的原则，认真落实中央关于加强高校宣传思想工作领导的有关要求。要强化高校党委责任，建立健全宣传思想工作目标管理责任制和检查评估制度，构建党委书记负总责，校长和分管副书记、其他班子成员“一岗双责”，各有关部门和院（系）协调推进的工作机制，切实加强高校宣传思想工作队伍建设的保障措施。</p>
-<p><strong>附：中共中央宣传部中共教育部党组关于加强和改进高校宣传思想工作队伍建设的意见（全文）</strong></p>
-<p>各省、自治区、直辖市党委宣传部、党委教育工作部门、教育厅（教委），新疆生产建设兵团党委宣传部、教育局，教育部直属各高等学校党委：</p>
-<p>为深入贯彻落实中共中央办公厅、国务院办公厅《关于进一步加强和改进新形势下高校宣传思想工作的意见》精神，切实加强高校宣传思想工作队伍建设，为推动高校宣传思想工作质量提升和创新发展提供坚强有力的组织保证，现提出如下意见。</p>
-<p>一、加强和改进高校宣传思想工作队伍建设是一项战略性基础工程</p>
-<p>1.高校宣传思想工作队伍是党的宣传思想工作的一支重要力量。统筹推进高校党政干部和共青团干部、思想政治理论课教师和哲学社会科学课教师、辅导员和班主任、心理健康教育教师和学生骨干等宣传思想工作队伍建设，培育建设网络评论队伍，是全面落实新形势下高校宣传思想工作战略任务的基础工程。近年来，各地各高校采取有力措施，切实加强高校宣传思想工作队伍建设，为推动形成积极健康向上良好局面、促进高校改革发展稳定提供了有力的组织保证。同时，高校宣传思想工作队伍建设还存在亟待解决的突出问题，围绕新形势下高校在舆情研判、网络宣传、抵御渗透等重点难点工作，开展研究的针对性不够、队伍培训的有效性不强；缺乏有效调动队伍积极性主动性的鲜明激励导向和政策机制；学校宣传部门牵头抓总、各支队伍协力推进的工作机制尚不完善；一些高校在严格落实人员配备有关规定中还存在打折扣、搞变通等情况。加强队伍建设，坚持问题导向，创新方法举措，是新形势下加强和改进高校宣传思想工作一项重大而深远的战略任务。</p>
-<p>二、加强和改进高校宣传思想工作队伍建设的总体要求</p>
-<p>2.指导思想。高举中国特色社会主义伟大旗帜，以邓小平理论、“三个代表”重要思想、科学发展观为指导，深入贯彻落实党的十八大和十八届三中、四中全会精神，深入贯彻落实习近平总书记系列重要讲话精神，按照“四个全面”战略布局，以加强思想理论建设为根本，以配齐建强队伍为重点，以提高工作能力为核心，以改革完善激励机制为保障，努力建设一支信念坚定、数量充足、结构合理、能力突出、勇于担当的高素质宣传思想工作队伍，为全面加强高校宣传思想工作，办好中国特色社会主义大学提供坚强有力的思想和组织保障。</p>
-<p>3.工作原则。（1）坚持党管宣传、强化责任。加强党对高校宣传思想工作的领导，认真履行管宣传、管意识形态重要责任，把讲政治、守纪律、有担当的要求落实到队伍建设全过程。（2）坚持德才兼备、全面发展。按照信念坚定、为民服务、勤政务实、敢于担当、清正廉洁好干部标准和“四有”好教师标准选人用人，努力使高校宣传思想工作队伍在思想政治素质上强起来，在业务能力上强起来。（3）坚持统筹规划、分类指导。遵循教育规律和人才成长规律，坚持问题导向，统筹队伍发展规划，统筹队伍思想政治素养和业务知识培训，统筹队伍发展保障体系建设，分层分类推进队伍科学发展。（4）坚持从严从实、改革创新。把“三严三实”要求贯彻到队伍建设中，坚持制度管权管事管人，大力推进选人用人和考核评价制度改革，努力形成能者上、庸者下、劣者汰的用人导向和干事创业环境，不断激发队伍创新创造活力。</p>
-<p>三、加强和改进高校宣传思想工作队伍建设的重点任务</p>
-<p>4.配齐建强工作队伍。高校党委要把明晰宣传部门职能、加强宣传力量配备作为一项重点工作，进一步明确党委宣传部门在统筹意识形态工作、统筹推进培育和践行社会主义核心价值观、统筹校园文化建设、统筹新闻宣传舆论引导、统筹网络文化建设和管理、统筹教师思想政治工作等方面的职责任务，科学核定并合理配置人员，真正将宣传部门牵头抓总的职能要求落到实处。要把政治标准作为高校宣传思想工作人员聘用、考核的首要标准，把政治坚定和在理论上、笔头上、口才上有专长的优秀干部充实到宣传思想工作重要岗位。要切实落实党和国家关于配备思想政治理论课专任教师、专职辅导员和班主任、心理健康教育教师等方面的要求和规定，把配齐建强宣传思想工作队伍作为高校党委党建工作责任制督查、大学生思想政治教育工作质量测评等的重要内容。</p>
-<p>5.提升队伍整体素质。高校党委要把宣传思想工作队伍建设纳入学校人才队伍建设计划和培训规划。按照政治上强起来的要求，健全政治理论经常性学习制度和定期轮训制度，确保每年集中政治理论教育时间不少于24学时；建立思想政治状况定期调查分析制度，准确把握队伍思想动态和学习需求，合理制定政治理论学习计划。要按照业务上强起来的要求，突出领军人才培养。在实施高等学校创新能力提升计划、遴选“四个一批”人才、推进高校新型智库建设等重点项目中，加大对马克思主义理论领军人才、思想政治教育中青年杰出人才的支持和扶持力度，培养一大批具有扎实理论功底和实践能力的高素质专业人才。强化骨干队伍建设。启动实施马克思主义理论学科领航计划、高校思想政治理论课教师国内访学计划，深入实施卓越新闻传播人才和高校网络文化建设骨干队伍培养计划等，组织开展宣传部门干部、共青团干部、网络评论队伍以及安全保卫工作队伍研修工作，努力培养一支忠诚于党的宣传思想工作事业的人才队伍。加强培训能力建设。健全完善国家示范培训、省级分批轮训、学校全员培训三级培训体系；继续抓好全国高校思想政治理论课教师社会实践研修基地、教育部辅导员培训和研修基地建设，重点建设10个左右国家级高校宣传思想工作队伍培训基地；积极运用网络新媒体开展培训，探索实用技能培训方法和教学模式改革，共建共享优质培训专家库。</p>
-<p>6.改进加强网宣能力。要着力提升网络运用能力，遵循信息网络规律，把掌握运用微信、微博等新媒体操作技术作为宣传思想工作队伍的必备能力，练就运用“网言网语”参与网络文化建设管理的过硬本领。要着力增强网络舆论引导能力，培养训练主动设置议题、汇集研判网上思想动态、回应网上关切的方法手段，熟练掌握网上信息发布、报送和舆论引导工作规程，不断增强应对网络舆情突发事件的能力。要着力提高网络评论能力，以培育网络名编名师、开办网络名站名栏、发表网络名篇名作为载体，引导支持学术大师、教学名师、优秀导师积极参与网络评论，着力培育一大批网络宣传骨干人才。要切实增强网络信息安全管理能力，强化对网上有害信息的甄别、抵制、批判能力，学习掌握抵御防范网络攻击的技术规范和技巧。</p>
-<p>7.不断强化实践锻炼。要积极推动学校与学校之间、学校与地方之间、部门与院（系）之间的宣传思想工作干部交流任职，支持思想政治理论课教师和哲学社会科学教师与相关实务部门人员互相兼职。要制定完善社会实践和校外挂职办法，通过组织实施高校思想政治理论课教师社会实践研修活动、辅导员暑期“三下乡”社会实践活动、青年教师参加教育驻外工作和到孔子学院任教等，不断拓宽社会实践的途径。要加快推进志愿服务长效机制建设，规范师生志愿服务活动认证和登记，鼓励支持宣传思想工作队伍积极投身志愿服务活动。</p>
-<p>8.完善激励评价机制。要坚持重品德、重能力、重业绩、重服务的用人导向。坚持解决思想问题和实际问题相结合，加强人文关怀，完善激励政策，在校内分配制度改革中，认真研究宣传思想工作专兼职一线人员的工作量计算办法和津贴补贴标准，加大表彰激励力度，建立健全学校宣传思想工作队伍的表彰奖励办法。严格落实辅导员“双重身份、双线晋升”和辅导员专业技术职务单列指标、单设标准、单独评审政策。鼓励和支持专职宣传思想工作干部在职攻读学位、赴国内外研修、交流任职等，拓展职业发展空间和晋升通道。要积极探索建立优秀网络文章在科研成果统计、职务职称评聘方面的认定机制，不断形成吸引优秀人才参与网络文化建设的政策导向。</p>
-<p>四、加强和改进高校宣传思想工作队伍建设的保障措施</p>
-<p>9.加强组织领导。各级党委和宣传、教育工作部门要高度重视高校宣传思想工作队伍建设，切实加强组织领导、统筹规划和督查落实。高校要按照加强力量配备、明确专岗专责、着眼优化结构的原则，结合学校实际，认真落实中央关于加强高校宣传思想工作领导的有关要求，协调推动党委宣传部门履行好宣传思想工作牵头抓总职能，把宣传思想工作经费纳入学校年度经费预算安排，不断完善经费支持政策和保障制度。院（系）党委（党总支）统筹负责院（系）宣传思想工作，并明确一名分管院（系）领导和一名宣传员，确保任务到岗、责任到人。</p>
-<p>10.强化责任落实。各级党委宣传、教育工作部门要定期督导高校推进宣传思想工作队伍建设的情况，并把这项工作纳入高校巡视和年度考核。各高校党委要强化政治责任和领导责任，把宣传思想工作列入党委工作重要内容，每学期都要专题研究意识形态工作和宣传思想工作队伍建设工作。要建立健全宣传思想工作目标管理责任制和检查评估制度，构建党委书记负总责，校长和分管副书记、其他班子成员“一岗双责”，各有关部门和院（系）协调推进的工作机制，把宣传思想工作纳入学院和有关部门领导班子的考核当中，明确各级宣传思想工作队伍的目标任务和责任清单，做到有责必问、有责必查、有责必究。</p>
-<p>中共中央宣传部　中共教育部党组</p>
-<p>2015年9月9日</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E9%AB%98%E6%A0%A1%E5%AE%A3%E4%BC%A0%E9%98%9F%E4%BC%8D%E6%AF%8F%E5%B9%B4%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1/?category=18271" rel="tag">高校</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -738,5 +726,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

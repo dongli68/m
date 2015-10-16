@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/" target="cdt-mirror">好奇心日报 | 文化部发了第一条微博 不到 6 小时评论就超了 4 万</a>
+</h2>
+<p><p>10月15日，文化部开通官方微博并发布了首条微博，宣布日后将通过此官微发布文化政策、信息和资讯。</p>
+<p><a href="http://weibo.com/u/5713450386" target="_blank">传送门</a></p>
+<p>万万没想到，这样一条普通微博发布后，立即引来大量网友围观留言，截至发稿，该条微博转发已超过 4 万，评论超过 4.5 万，还被点赞了 11000 多次。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/42f3f4e41c5f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/42f3f4e41c5f.jpg" alt="42f3f4e41c5f" width="614" height="136"></a></p>
+<p>其中被点赞最多的评论来自网友@杨公吐哺 ，建议文化部“说说你们和广电的职权范围，免得我们喷错”（很有必要啊），也有“看热闹”的网友在评论中表示“可以让这条微博的评论数破吉尼斯”，这条微博也被点赞了超过 6000 次。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/6048cd4deadd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/6048cd4deadd.jpg" alt="6048cd4deadd" width="600" height="430"></a></p>
+<p>面对网友的热议，文化部官微却异常高冷——至今没有回复任何一条评论，只是在 19:43 分发表了另一条“文化资讯”：“10 月 15 日，文化部召开纪念习近平总书记在文艺工作座谈会上发表重要讲话一周年座谈会…”</p>
+<p>这样一条白开水的微博也被玩 high 了的网友评论了 4000 多次，有网友在评论里号召大家不要分流，都去第一条评论（真是有种粉丝给明星微博刷量的即视感），而@疗养院日常 这位同学可能说出了更多人的想法：“熏疼你，评论真心看笑了，麻烦转告广电叫他出来开微博！！！？”</p>
+<p>不过看这架势，恐怕广电总局对开通微博这件事，还得再“回去研究研究”吧。</p>
+<p>‏@MyDF：文化部删贴员：我删不动了，你们能不能让我喘口气？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CRWvhwKUEAAktlF.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CRWvhwKUEAAktlF.png" alt="CRWvhwKUEAAktlF" width="594" height="726"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">官方微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">网友评论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 21分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%83%8F%E9%AC%BC%E5%AD%90%E8%BF%9B%E6%9D%91-%E5%B1%B1%E4%B8%9C%E5%8F%88%E4%BC%A0%E5%BC%BA%E6%8B%86%E5%91%BD%E6%A1%88/" target="cdt-mirror">博谈网 | “像鬼子进村” 山东又传强拆命案</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1_101.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1_101.jpg" alt="1_101" width="550" height="449"></a></p>
@@ -709,74 +730,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9B%E6%9E%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E5%8F%AA%E5%89%A9%E4%B8%8B%E8%AF%9D%E6%9C%AF%E7%A9%BA%E5%A3%B3/" target="cdt-mirror">旧闻评论 | 宋志标：公民社会只剩下话术空壳</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A4%A9%E4%BD%BF%E9%99%8D%E8%90%BD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%A4%A9%E4%BD%BF%E9%99%8D%E8%90%BD.jpg" alt="题图当代水墨《天使降落》，作者新浪微博：@秃头倔人。倔人本月16-26日在成都举办画展（成都青羊区琴台路7号诗婢家美术馆）。装裱的画作，临场空间，会比看公号小图强烈得多，建议喜欢他水墨画的多去看看。" width="669" height="848"></a><p>题图当代水墨《天使降落》，作者新浪微博：@秃头倔人。倔人本月16-26日在成都举办画展（成都青羊区琴台路7号诗婢家美术馆）。装裱的画作，临场空间，会比看公号小图强烈得多，建议喜欢他水墨画的多去看看。</p></div>
-<p>突尼斯全国对话机构获颁诺贝尔和平奖，一如其他和平奖一样，现在已经是可谈不多，所谈也多数言不及义。但是在常见的舆论范围之外，公知与“异知”在此奖的意义阐释上发生了对立，解读的角度相互冲突，他们日常持有的立场与逻辑也在和平奖上重现。</p>
-<p>端传媒业报道过和平奖伙伴机构人士的对话，说要在香港推行类似的做法，并且给香港人鼓劲：你看你们的公民社会有多强大。这些和平奖的余音都似乎在坐实一个常见的观点，只有建好公民社会，才能在巨变中平稳过渡，实现非暴力的政制迁移。</p>
-<p>避居台湾的笑蜀长期以来以公民社会“底盘”论，作为言说的固有立场。突尼斯四家机构获奖，他认为是公民社会的胜利，进而他进一步提出了公民社会无措、必须建设下去的讲法。和平奖成为笑蜀佐证自身观点的最新例证，但其他人明显不这样看。</p>
-<p>在莫之许、温克坚这辈人看来，突尼斯全国对话机构成立于突尼斯革命之后，从时间上不能自证公民社会的“托底”；更关键的是，突尼斯的剧变解放了所谓公民社会，使得它能够发挥政治功能。值得一提的是，在这些论者看来，“公民社会”的说法本身是可疑的。</p>
-<p>这个可疑主要来源是公民社会的提法过于模糊，泛政治化、泛阶层化的指向容易导致其语焉不详，这对于精确划定政治描述并不是合适。但是具体到突尼斯和平奖这个事上，迫切的是反对用“公民社会”掠取和平奖的诠释权，暂时还顾不上澄清“公民社会”的悬疑。</p>
-<p>公民社会在大陆这些年可说是兜兜转转，从一种普适性的价值遍布在公开领域，进而被公益团体吸收为统领性质的宗旨，再到自上而下的按行业实施清场管束之后，它被实际行动遗弃成为空白的旗帜，“公民社会”的内涵与现实早已该换了人间，到了需要被仔细甄别的地步。</p>
-<p>即使在公民社会“浓度”最高的公益领域，这个提法也绝少再有人提及，更不要说在项目行动中贯彻之。公民社会在公益行业的“分层”，随着倡导型公益组织受到打压而衰落愈发明显，而“分层”造成了具体做法上的首鼠两端，价值倡导成了凌空虚蹈。</p>
-<p>在这个状况下，所谓公民社会何为，无法在被轻率地作为号召。公民社会在一个坚硬的大屋顶下各自为政，自动剥除其政治属性，也令公民社会赖以存在的权利理论难有立锥之地。公民社会在公益与公共两个维度上，都与突尼斯的情形有了截然不同。</p>
-<p>在另外一个方面，政治反对话语对维系在公民社会之上的渐进改良话语，发起了一贯深刻的攻击。后者试图将和平奖纳入论据体系，随即遭到政治反对话语的猛烈否定。公民社会不仅失去了现实支撑、实际内容，也在话语维稳上动荡不定，这给公民社会的信徒带了了困扰。</p>
-<p>到了现实今日，公民社会剩下最多的就是道德说教，成为一种话术的空壳。这种状况不值得庆幸，展现了触手可及的公民“枯萎”与社会停滞。将突尼斯与全国对话机构，附会为巨变与公民社会的关系，除了掩饰现实、虚化恐惧，只怕离公民社会的本义也愈发疏远。</p>
-<p>仅以公益营造—公民社会一脉观之，早已是杂芜丛生，没了价值宗旨的负累，野蛮生长似乎也有别样美感与利益。信徒在“公民社会”停顿、出走之后，别有投靠，心则另有所属。如以为突尼斯贡献了缝补新旗帜的材料，只怕还是空欢喜。牢笼连营，举步之前需要解放。</p>
-<p>2015/10/14</p>
-<p><strong>我这次勘查了北方界限</strong></p>
-<p>厌倦了凡事从季节开始溯源<br>
-还有血缘、庄稼与父亲<br>
-平原将空旷许给下半夜的星空<br>
-丰收造成了贫瘠的反面<br>
-可它已经是承诺的全部内容<br>
-保存了童年的村庄<br>
-不如一群黑鱼来得凶猛<br>
-西风穿过芦苇荡<br>
-将不死的告解托付给打圈的五只飞鸟<br>
-瓦解时刻发生<br>
-这就像是掷出去的鱼叉<br>
-空无所获又能听到箭头触底的声音<br>
-陌生人站在桥头打听<br>
-他的眼眶有一颗肉痣<br>
-北方的海边是不是有足够高的灯塔<br>
-我无数次想要升空起来<br>
-俯视这被梦魇与杨树包围的马孔多<br>
-河流不比人更能接受<br>
-水草缠住了水的羞恼<br>
-它在等所有人重新死上一遍<br>
-坟场时隔多年湮没之后组成长堤岸<br>
-房屋翻新好比生死携手前来<br>
-太多的遗忘埋到了机耕的土里<br>
-火烧成为最大的禁忌<br>
-墟市交换白色的种子<br>
-掩埋既是播种也是毁坏的需要<br>
-没有烟能传递救命信号<br>
-想象出来的北方之北与此地毫无关系<br>
-先是丧失桥梁城镇与大海<br>
-而后是姓氏与田野<br>
-母亲困守的地方抵近了真正的界线<br>
-它自带困兽<br>
-在狡猾的水中洒下水蛇<br>
-繁殖的鱼类咳血不止<br>
-只能在隔断与火化之后远离它们<br>
-长方形的黑色玉米田<br>
-卷走方言的叙述迷失路过的庄邻<br>
-除了故乡这个名字<br>
-它可以是全部的理所当然与空白<br>
-也像草药医生<br>
-用猫头冶炼出红褐色咒语<br>
-因为被它凝视过所以宇宙被巧妙定住<br>
-北方制造了最后一次终结<br>
-2015/10/13</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E5%8F%AA%E5%89%A9%E4%B8%8B%E8%AF%9D%E6%9C%AF%E7%A9%BA%E5%A3%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%8C%96/?category=18271" rel="tag">民主化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%81%E5%B0%BC%E6%96%AF%E5%85%A8%E5%9B%BD%E5%AF%B9%E8%AF%9D%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">突尼斯全国对话机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -788,7 +741,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -798,5 +751,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

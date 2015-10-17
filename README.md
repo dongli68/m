@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%97%8F%E5%AD%A6%E8%80%85%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%A6%81%E6%B1%82%E5%AE%B6%E4%BA%BA%E7%94%B3%E8%AF%89%E6%A1%88%E4%BB%B6/" target="cdt-mirror">BBC｜中国维族学者伊力哈木要求家人申诉案件</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/01/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/01/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8.jpg" alt="巴丢草：自由 伊力哈木" width="375" height=""></a><br><em>（“自由：伊力哈木” by 巴丢草）</em></p>
+<p>中国维族学者伊力哈木·土赫提周四与家人见面要求申诉他的案件，不过他的家人还未决定以伊力哈木自己还是家属的名义进行申诉。</p>
+<p>伊力哈木前律师刘晓原对BBC中文网确认消息，指伊力哈木的哥哥及母亲周四到新疆维吾尔自治区第一监狱探望伊力哈木。</p>
+<p>刘晓原说，伊力哈木在服刑前已与律师沟通过，以后要就案件进行申诉。刘晓原说：“他始终坚持的观点，是他没有分裂国家。”</p>
+<p>刘晓原对BBC中文网说：“从法律上来说，（伊力哈木的案件）是危害国家安全的案件。从政治上说，是政治犯罪案件。这种申诉的可能性，从目前的状况来看，几乎是没有。不过，（申诉）也是他的一个权利。”不过，伊力哈木还未能跟律师见面。</p>
+<p>伊力哈木是自去年十二月入狱以来，第二次见到家人。监狱规定，伊力哈木三个月才能与家人会面。危害国家安全的罪犯，进了监狱半年以后才能会见家人。伊力哈木与家人首次见面延误约一个月，所以在七月的时候才安排第一次见面。伊力哈木的妻子及孩子现时住在北京，这次未能探访伊力哈木。</p>
+<p>刘晓原指伊力哈木的妻子及孩子经济情况欠佳。伊力哈木的80多万存款被没收，而他的妻子是合约员工，一个月收入大概3000元。</p>
+<p>伊力哈木案件原本由刘晓原及李方平律师负责，但刘晓原指他自己承接申诉案件有困难。七月政府大规模抓捕维权律师及人士，而刘晓原隶属的北京锋锐律师事务所亦是重要目标之一。</p>
+<p>刘晓原的同僚，著名维权律师王宇，至今仍被拘留。王宇及刘晓原的孩子都被禁止出国，而王字儿子包卓轩曾尝试从缅甸出境，但被中国警方拘捕，现时在内蒙被软禁。</p>
+<p>刘晓原表示，伊力哈木在狱中健康稳定，狱方亦有为伊力哈木安排身体检查及治疗，伊力哈木要求家人送一些书给他。</p>
+<p>伊力哈木本来是中央民族大学的经济系教授，研究新疆问题及中亚社会经济。去年9月23日，新疆乌鲁木齐法院指伊力哈木“分裂国家罪”罪成，判决终身无期徒刑。11月 21日二审维持原判。中国政府指伊力哈木与东突勾结。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%97%8F%E5%AD%A6%E8%80%85%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%A6%81%E6%B1%82%E5%AE%B6%E4%BA%BA%E7%94%B3%E8%AF%89%E6%A1%88%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E8%A3%82%E5%9B%BD%E5%AE%B6%E7%BD%AA/?category=18271" rel="tag">分裂国家罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E5%8E%9F/?category=18271" rel="tag">刘晓原</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%BD%E6%B0%91%E5%85%9A%E6%8D%A2%E6%9F%B1%EF%BC%9A%E6%84%9F%E8%A7%89%E6%98%AF%E8%A2%AB%E5%A4%AE%E8%A7%86%E6%8C%BA%E6%AD%BB%E7%9A%84/" target="cdt-mirror">【网络民议】国民党”换柱”：感觉是被央视挺死的</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/titlepage.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/titlepage.jpg" alt="titlepage" width="575" height=""></a><br><em>（网络图片）</em></p>
@@ -189,7 +210,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/12%E6%B5%B7%E5%93%A9%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">12海哩主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E6%98%8E%EF%BC%9A%E8%AF%B7%E8%8B%B1%E6%96%B9%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E4%BA%BA%E6%9D%83/" target="cdt-mirror">法广 | 刘晓明：请英方不要跟习主席谈人权</a>
 </h2>
@@ -668,36 +689,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B5%9E%E6%AD%8C%EF%BC%9F%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E6%9B%BF%E4%BD%A0%E5%94%B1%EF%BC%81/" target="cdt-mirror">纽约时报 | 不会唱赞歌？中国媒体替你唱！</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/14sino-misquote02-articleInline-v2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/14sino-misquote02-articleInline-v2.jpg" alt="马若德" width="190" height="289"></a><p>马若德</p></div>
-<p>一名澳大利亚记者并没有说过西藏人民过着“美好的生活”，但却被这样引述。一篇支持共产党言论的观点文章，错误地将一位人气颇高的美国作家列为其作者。</p>
-<p>一直以来，外界知道中国官方新闻媒体会大费周章地正面描绘中国状况，颇具创意地调整标题，以及忽略重要事实。但几位著名中国问题专家最近表示，中国新闻媒体引述他们的言论时，有捏造或重大修改的现象。</p>
-<p>下面来看一些最明显的案例：哈佛大学历史和政治学教授马若德(Roderick MacFarquhar)本月在北京的<a title="Link: http://english.sina.com/china/2015/1012/854948.html" href="http://english.sina.com/china/2015/1012/854948.html" target="_blank" rel="nofollow">一个马克思主义会议上</a>谈及习近平的“中国梦”。他说，习近平所说的中国复兴说“在智识上是一个不连贯、不广泛、缺乏力量的理念，”不足以与西方思想抗衡。但中国官方的《环球时报》对此的回忆不同。它把马若德的话改成了，“中国梦”将会对人类发展做出巨大贡献，发挥积极影响。</p>
-<p>在本周三的一封电子邮件中，马若德称这个引述“完全是捏造的”。之后《环球时报》<a title="Link: http://www.globaltimes.cn/content/946549.shtml" href="http://www.globaltimes.cn/content/946549.shtml" target="_blank" rel="nofollow">删除了这句话</a>。《纽约客》撰稿人何伟(Peter Hessler)也写过几本关于中国的书，他有一天<a title="Link: http://sinosphere.blogs.nytimes.com/2015/01/21/peter-hessler-china-daily-article/" href="http://sinosphere.blogs.nytimes.com/2015/01/21/peter-hessler-china-daily-article/" target="_blank" rel="nofollow">很惊讶地看到自己的署名出现在官方报纸《中国日报》</a>今年1月的一篇观点文章中。该文高度赞扬中国的政治模式：“我认为，我对中国制度本质上有多么稳定有了更好的了解。”</p>
-<p>何伟要求撤文，称该报对以前的一个采访重新包装，删节了关键部分。但是，《中国日报》的编辑只撤下了英文网站上的文章。何伟后来<a href="http://www.newyorker.com/magazine/2015/03/09/travels-with-my-censor" target="_blank" rel="nofollow">把这件事写在《纽约客》中</a>，他说，“其实我应该会想到有这种事发生，因为《中国日报》在推销当局的思想方面是出了名的。”</p>
-<p>两年前，澳大利亚记者罗文凯(Rowan Callick)参加过政府组织的一次赴藏之旅。回来后，他发现自己出现在了《中国日报》一篇有关西藏的文章提中。西藏因社会动荡而声名远扬，但那篇文章却援引作为《澳大利亚人报》(The Australian)的亚太编辑的罗文凯(Rowan Callick)的话称，“我惊奇的发现这里的人们有着美好的生活。”</p>
-<p>在西藏，罗文凯是见过官员和当地记者，但他说自己从没说过那些话。罗文凯说，他后来收到了文章作者个人的道歉，对方解释称，错误地把其他人当成了罗文凯。这篇报道的<a href="http://english.cntv.cn/20130822/103458.shtml" target="_blank" rel="nofollow">原文</a>至今仍可在官方电视台CCTV的网站上看到。</p>
-<p>2012年，当发现《环球时报》上出现以自己名义写的<a href="http://www.lowyinterpreter.org/post/2012/02/02/Global-Times-What-I-really-said.aspx" target="_blank" rel="nofollow">评论文章</a>时，澳大利亚国立大学国家安全学院院长罗里·梅德卡尔夫(Rory Medcalf)感到十分震惊。梅德卡尔夫曾经受《环球时报》访问，但他从未答应为其写作评论文章。梅德卡尔夫说，该文扭曲了他的观点，其中有一处指西藏人是“分裂分子“，梅德卡尔夫说自己没有使用这种说法。</p>
-<p> 就此事件，《环球时报》<a href="http://www.lowyinterpreter.org/post/2012/02/08/Global-Times-On-the-record.aspx" target="_blank" rel="nofollow">难得地发表了</a>采访梅德卡尔夫的<a href="http://www.globaltimes.cn/content/694760.shtml" target="_blank" rel="nofollow">记者的道歉声明</a>。“我从这个尴尬事件中看到的是，在国际参与程度扩大的情况下，中国媒体以及整个中国都在面对的挑战，”该名记者写道。</p>
-<p>在周三的一封电邮中，梅德卡尔夫指出，最近的一连串捏造及错误引用外国专家言论事件，揭示了中国对媒体的严格管控与部分中国记者报道真实新闻的抱负之间的角力。</p>
-<p>梅德卡尔夫说：“我们不能假定，所有在中国官方媒体工作的记者和受聘的外籍编辑都会安然接受新闻材料在与公众见面之前经过的扭曲。</p>
-<div>
-<div>
-<p>赫海威(Javier C. Hernández)是《纽约时报》记者。<em><br></em></p>
-<p><em>欢迎在Twitter上关注本文作者<a href="https://twitter.com/HernandezJavier" target="_blank" rel="nofollow">@HernandezJavier</a>。</em></p>
-</div>
-<div></div>
-<p>翻译：Tang Wing Sze（实习）、Lee Wing Yan（实习）</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B5%9E%E6%AD%8C%EF%BC%9F%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E6%9B%BF%E4%BD%A0%E5%94%B1%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%A5%E5%BE%B7/?category=18271" rel="tag">马若德</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -709,7 +700,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -719,5 +710,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

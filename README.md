@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E6%98%8E%EF%BC%9A%E8%AF%B7%E8%8B%B1%E6%96%B9%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E4%BA%BA%E6%9D%83/" target="cdt-mirror">法广 | 刘晓明：请英方不要跟习主席谈人权</a>
@@ -88,6 +88,33 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%A0%E6%96%87%E7%AB%A0%E6%96%87%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84%E3%80%8A%E6%B7%B7%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84/" target="cdt-mirror">东网 | 章文：“真实”与《环球时报》无缘</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8A%E5%8D%8811.33.16.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8A%E5%8D%8811.33.16.png" alt="Screen Shot 2015-10-16 at 上午11.33.16" width="550" height="496"></a><br>
+（图片由中国数字时代编辑截屏自光明网，截屏时间2015年10月16日上午11点26分）</p>
+<p>最近，《环球时报》又出了一桩丑闻：报道中伪造哈佛大学历史和政治学教授麦克法夸尔的话，称其在参加北京的世界马克思主义大会时夸赞“中国梦”会对人类发展作出巨大贡献。</p>
+<p>麦克法夸尔教授获悉后去邮件表达抗议，《环球时报》随后删除了报道中的这句话，然而其网站转载的光明网的报道中，仍有“美国哈佛大学教授罗德里克.麦克法夸尔表示，习近平主席提出的中国梦，是中国马克思主义者对马克思主义作出的创造性发展，将对人类发展产生重要贡献和积极影响。”</p>
+<p>也就是说，《环球时报》在知错犯错。3年前，澳大利亚国立大学国家安全学院院长梅德卡尔夫也遭遇类似事件，他发现署了自己名字的评论文章出现在《环球时报》上，而他只是曾经接受过该报的访问，从来没有为该报撰写过文章。</p>
+<p>除了上面两位外国专家，据我所知，更有不少中国专家被《环球时报》这样伪造过讲话，将他们从未表述的观点强加于他们的头上。这些专家无一不表示惊讶和愤慨，其中大多数再也不接受该报的任何采访。真实是新闻的生命。《环球时报》无视这一生命的存在。</p>
+<p>这使我想起2009年《环球时报》英文版面世时的一段往事。时任人民日报社社长张研农在致辞中说：《环球时报》…1993年创刊以来，不断向中国读者呈现一个真实的世界，不断满足中国读者对国际事务的知情权，得到他们的普遍认同。《环球时报》总编胡锡进更是不忘自夸：《环球时报》这些年的报道加大了中外交流的信息量，使中外看到了彼此的复杂与多样，减少了彼此的误判。</p>
+<p>当时看到以上两位先生的发言，我心里只想发笑，这实在不是出于什么阴暗心理，而是作为一个中国媒体人对《环球时报》长期关注的结果。《环球时报》16年来呈现给中国读者一个怎样的“真实世界”呢？在我看来，那是一个虚假的世界，是一个中国被西方列强不怀好意窥视的世界，依然是一个旧世界。</p>
+<p>在这个旧世界里，中国依然遭到西方资本主义国家的围剿，他们亡华之心不死。以美国为首的西方宿敌仍然敌视中国，日本、印度和东南亚国家都在妖魔化中国。</p>
+<p>总之，中国面临的世界仍然危机四伏，国际环境更加复杂严峻。此情此境下，只会增加中国和世界的误解和敌意，何谈“减少了误判”？</p>
+<p>例如，《环球时报》从来不向中国读者详细介绍美国的三权分立机制，不告诉读者国会和政府的区别。当国会或其他社会团体出现反华提案时，《环球时报》不管总统的态度如何，统统报道成美国的立场。</p>
+<p>例如，《环球时报》从来不向中国读者介绍法国的政党制度，在2008年巴黎“奥运火炬事件”的系列报道中，不告诉读者巴黎市长的左翼背景，他是萨科奇的反对派，而在市政府门口悬挂“藏独”分子的“雪山狮子旗”，是萨科奇政府所反对的。</p>
+<p>例如，《环球时报》从来不向读者详细介绍香港、台湾的民主机制，不告诉读者这个机制对于保障人权的重要意义，以及这个体制下的社会安静有序，反而一味渲染港台街头的示威游行以及议会里的乱象。</p>
+<p>《环球时报》头版最爱用诸如“美国战略包围中国”、“日本自卫队视中国为假想敌”、“萨科奇再放厥词”、“台海乌云密布”等等耸人听闻的标题。</p>
+<p>一次饭局上，针对大家的批评，一位供职该报的编辑辩解说，《环球时报》的每期头版内容都是在征询各地经销商的意见后确定的，为的就是迎合读者的需要。</p>
+<p>我则反驳说，固然中国有极端民族主义的土壤，但作为社会公器，报纸应该担负起启蒙和引导大众的责任，不能仅仅为了钱就在受众面前无原则。</p>
+<p>刺激和鼓动极端民族主义，为了宣传上的需要可以虚假报道，这就是《环球时报》创刊以来干的最坏的两件事。从新闻真实性来讲，这就不是一份报纸。从促进中外交流而言，这份“报纸”起到的更多是坏作用。我还相信，尽管麦克法夸尔事件在国际学界影响恶劣，《环球时报》绝不会汲取教训就此罢手，它的“伪造”事业一定会继续下去的。</p>
+<hr><p><small>© 喜闻乐见 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%A0%E6%96%87%E7%AB%A0%E6%96%87%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84%E3%80%8A%E6%B7%B7%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">世界马克思主义大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">哈佛大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%A5%E5%BE%B7/?category=18271" rel="tag">马若德</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%A0%E6%96%87%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84%E3%80%8A%E6%B7%B7%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B/" target="cdt-mirror">墙外楼 | 章文：说谎成性的《混球时报》</a>
 </h2>
@@ -623,25 +650,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%83%E9%BE%99%E7%BD%91-%E5%8C%97%E4%BA%AC17%E5%AE%B6%E9%87%8D%E7%82%B9%E7%BD%91%E7%AB%99%E6%89%BF%E8%AF%BA%E6%9D%9C%E7%BB%9D%E6%96%B0%E9%97%BB%E6%A0%87%E9%A2%98%E5%85%9A/" target="cdt-mirror">千龙网 | 北京17家重点网站承诺杜绝新闻“标题党”</a>
-</h2>
-<p><p>千龙网北京10月14日讯 （记者 柳杰）10月13日，北京网信办、首都互联网协会组织新浪网、搜狐网、网易网、凤凰网等北京地区17家重点网站召开“网络新闻报道标题规范及要求”评议会。此次评议会针对目前网络新闻报道中存在的为吸引受众关注，利用网民猎奇心理，个别媒体从业人员忽视甚至无视标题与内容的贴切关系，片面追求所谓“精彩”的“标题党”乱象提出了批评，并明确了网络新闻报道中新闻标题的使用规范和要求。</p>
-<p>会上，新浪网、搜狐网、网易网、凤凰网等网站有关负责人分别就互联网标题乱象治理、网站采取的措施等进行了交流。</p>
-<p>网易网相关负责人在发言中说，“标题党”的泛滥已经成为广大网络媒体需要共同面对的问题。网易针对自身在新闻标题上存在的问题进行认真梳理和反思，在不断完善新闻编发机制的同时，对编辑实行以内容为导向的新型考核制度，旨在根除因赚取点击量而违规发布新闻的情况。接下来，将继续强化制度建设，狠抓人员培训，牢记肩负的社会责任，自觉抵制有损社会价值观的各种标题乱象，促进网络媒体积极健康发展。</p>
-<p>搜狐网相关负责人表示，要清醒认识到新闻标题对于网站自身形象的重要性。将继续完善内部“新闻采编规范手册”，继续坚持“真实、简洁、精彩、独到、守法”的新闻理念，杜绝篡改标题现象。</p>
-<p>新浪网客户端负责人发言说，当下网络新闻标题出现一系列问题，或以偏概全，或哗众取宠，甚至篡改原文本意，对网络新闻标题的整治、规范已经迫在眉睫。“新闻的真实，是所有媒体从业者必须遵循的底线，标题造假同样是对新闻底线的践踏。新浪网正组织编辑加强业务能力学习培训，提高新闻报道水平。”</p>
-<p>凤凰网相关负责人表示，作为坚持在网络新闻报道中标注原标题、原链接的网站，凤凰网坚决支持治理标题乱象。并将恪守以事实为依据，不以偏概全，不恶意篡改标题行为准则，共同杜绝“标题党”。</p>
-<p>首都互联网协会名誉会长闵大洪指出，新闻标题作为最先吸引网民关注的内容，一定要规范使用、严格管理。各网站在登载相关信息时，一定要完整准确使用新闻标题，不得随意篡改。如需更改标题时，必须做到准确表达原意，不得曲解主题、断章取义、以偏概全。各网站要充分认识到，改后的标题不改变文章原意既是对原作者的尊重，也是法理的基础性要求。</p>
-<p>中国传媒大学教授詹新惠认为，新闻标题在某种程度上代表了一个网站的公信力和价值观。网民从所改标题中，除了可以看到文章的主旨、大意，更可以看到网站的“态度”。网站编辑在制作新闻标题时，要充分、仔细、系统考虑每个关键语句的上下文语境。当选取原文某一句话作为新闻标题时，应考虑是否可以充分表达文章原意，是否改变了原文的主要观点等。</p>
-<p>会议强调，杜绝“标题党”现象，各网站要建立严格的新闻规范，制定严谨的操作流程，并加强对一线编辑人员的培训和管理。会上，各网站负责人做出承诺，将不断加强对从业人员的培训和管理，同时把责任落实到人，杜绝“标题党”现象的发生，还网络一片“清朗”空间。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%83%E9%BE%99%E7%BD%91-%E5%8C%97%E4%BA%AC17%E5%AE%B6%E9%87%8D%E7%82%B9%E7%BD%91%E7%AB%99%E6%89%BF%E8%AF%BA%E6%9D%9C%E7%BB%9D%E6%96%B0%E9%97%BB%E6%A0%87%E9%A2%98%E5%85%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%87%E9%A2%98%E5%85%9A/?category=18271" rel="tag">标题党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -653,7 +661,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -663,5 +671,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

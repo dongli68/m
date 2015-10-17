@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,73 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98-%E6%B6%89%E5%AB%8C%E8%8E%B7%E5%8F%96%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/" target="cdt-mirror">美国之音｜南都记者被刑拘 涉嫌获取什么国家机密？</a>
+</h2>
+<p><p>中国《南方都市报》记者刘伟10月9日因多次报道“气功大师”王林案，被江西省萍乡市警方以“涉嫌非法获取国家秘密罪”被刑拘，羁押于南昌市进贤县看守所。《南方都市报》10月16日发表声明回应称，刘伟“对王林案的采访、报道、持续关注等，均属履行工作职责的行为”。</p>
+<p>刘伟是《南方都市报》深度新闻部的记者。他从2013年开始调查王林案，曾刊发多篇独家报道，并在2014年入选南方报业年度记者。据报道，刘伟曾在获奖当年的年会上说，“即便现在告别记者生涯也了无遗憾”。</p>
+<p>然而19个月后，他在从成都家中赶赴机场的路上被跨省刑拘。</p>
+<p>刘伟家人从萍乡市公安局安源分局拿到的拘留通知书上写道：“根据《中国人民共和国刑事诉讼法》第80条之规定，我局已于2015年10月9日5时将涉嫌非法获取国家秘密罪的刘伟刑事拘留，现羁押在南昌市进贤县看守所。”</p>
+<p>当局目前没有披露此案涉及何种国家秘密。</p>
+<p>赵岩：欲加之罪 何患无辞</p>
+<p>曾因早于中国官方报道江泽民将辞去中央军委主席职务而被控犯有“泄露国家机密罪”的前《纽约时报》北京分社记者赵岩认为，调查并报道王林案不应成为国家机密，对刘伟的逮捕是萍乡市当局“故意制造冤假错案，对记者调查进行阻碍”。</p>
+<p>他说，“萍乡市公安局抓这个南方记者可以说是欲加之罪何患无辞，这是其一。其二，完全可以说先抓人后定罪。先给你抓起来再说，再找你身上的毛病。没准儿明天就换一个罪名，给你弄个什么受贿之类的，敲诈、侵占阿。”</p>
+<p>据了解，2004年赵岩被刑拘的两年后，法庭表示“泄露国家机密罪”证据不足，罪名不能成立。最终，以欺诈罪判处他三年有期徒刑。</p>
+<p>他还提到，萍乡市是王林的老家和发迹之地，曾经是保护王林的主体，现在却变成办案主体，这本身是矛盾的。</p>
+<p>“我是当过警察嘛，至少萍乡市公安局是不是应该回避阿？因为它涉及内部人员，有很多人跟王林个人的关系很好，那你怎么处理？王林这个案子是有重大影响的嘛，按照国家法律的规定，有重大影响的案件，当地警方应当回避。”他说。</p>
+<p>刘伟获取的“国家机密”是什么？</p>
+<p>据报道，今年9月中旬，王林的前妻张某和秘书雷帆也因“涉嫌非法获取国家秘密罪”被江西警方刑拘。据张某的律师张新透露，与雷帆同时被捕的还有一名王林案中的警方办案人员。</p>
+<p>因此，有业内人士猜测，刘伟的报道或许引用了警方内部人员提供的涉密材料。</p>
+<p>人在纽约的独立媒体人北风分析认为，即便刘伟获取的材料为机密文件，依据这些材料作出的报道也不应被视为是泄密行为。</p>
+<p>他还谈到，在中国的国家保密法中有一个“吊诡”的规定，即“国家机密可以被事后认定”。</p>
+<p>他说，“如果一份材料被传播，国家保密机关他们可以事后去补充认定这份材料是不是机密。尽管在传播的时候它没有被明确标注是机密，但是在事后也可以认定是机密。”</p>
+<p>而赵岩认为，王林案在办案过程中有一定的保密性，但是案件本身不应成为国家机密。</p>
+<p>他说，“第一，王林是不是一个涉密的人。王林只是一个假的气功大师、江湖骗子，他能涉什么密呢？第二，对王林的调查也不应该成为国家秘密。第三，再重要的政商关系也不可能成为国家秘密，包括他跟高官那些互动。”</p>
+<p>不久前，《财经》杂志社记者王晓璐因涉嫌传播虚假信息罪被逮捕，并在央视公开认罪悔过。</p>
+<p>北风和赵岩都认为，刘伟案不如王晓璐案严重，应是江西省萍乡市的地方行为。但是也不排除中央高层透过私人关系或其他方式对当地警方施压。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98-%E6%B6%89%E5%AB%8C%E8%8E%B7%E5%8F%96%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F/?category=18271" rel="tag">刘伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F/?category=18271" rel="tag">记者刘伟</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8A%A8%E5%90%91%EF%BD%9C%E4%BA%8E%E6%80%A1%E9%83%8A%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%8C%E4%B8%AD%E7%BE%8Ebit%E8%BF%98%E6%98%AF%E6%B2%A1%E7%AD%BE%E6%88%90/" target="cdt-mirror">动向｜于怡郊：习近平访美，中美BIT还是没签成</a>
+</h2>
+<p><p>习近平近期国事访问去美国，带着一大帮子中国商界大佬，国内高调宣传，显然此次习近平访美抱有重大的经济目的。大陆唯一接近习王当权政治核心的媒体——《财新周刊》和财新网发表其主编胡舒立的文章《中美BIT谈判应借“习奥会”突破》，披露了习近平对这次访美所要达到的目的。</p>
+<p>中国经济当前十分严峻，政府号称还有许多调控工具，实际却是使出所有新的市场办法仍不能使经济加快转型，而回头再用加强政府投资的老办法仍然不能扭转经济下行，甚至不能减轻经济下行的压力。中国经济走入死胡同的阵阵寒意，中共当局的感受如芒刺在背。</p>
+<p>对谈成中美BIT抱极大希望</p>
+<p>在此时刻，中共当局寄希望于中美投资协定BIT的签订。胡舒立认为“中美BIT是两国当前经贸领域最重大的谈判项目，其意义堪比世纪之交中国加入WTO”。这样的比喻何尝不是中共领导层的意思？</p>
+<p>自七十年代末中国改革开放至九十年代，改革红利基本吃光。因为中共坚持一党专政，改革步子无法继续迈开。加入WTO之后十几年，中国利用优势便宜的劳动力资源，不顾环境土地成本，硬压人民币估值，中国出口市场大大扩展，使得中国经济翻了一番。如今，中国经济又到了一个瓶颈口，改革无法推进，只有开拓海外市场尤其是最主要的美国市场，或者才能继续有效推进中国经济发展。中国经济要发展，必须要有创新。可创新谈何容易，举国上下几乎都知道，中国不可能有创新。要创新，只有从美国这个世界龙头去引进、模仿和抄袭。中国经济目前的优势也是包袱，拥有巨额的外汇储备，中共当局希望这些巨额外汇储备能够成为中国经济的一个新的增长点。</p>
+<p>现在中美双向投资存量超过一万四千二百亿美元，过去五年，中国对美投资额增长九倍，截至二○一四年底，中资企业在美投资额达四百六十亿美元。中国对美国投资相对集中，主要在金融、制造、采矿、房产，与此同时，美国对中国的投资总体上呈现下降的趋势。不管中国对美投资如何扩大，不管中国对美国直接投资已是资本净输出，不管中美双向投资呈一升一降态势，目前中国在美投资只有四百六十多亿美元，与其近四万亿美元外汇储备相比还是太少了。</p>
+<p>因此，无论从哪个角度出发，中国对已经谈了七八年的中美投资协定BIT能够在习近平访美时正式签订成功，是抱着很大企盼的。可是，结果并没有达成。</p>
+<p>对自由平等贸易理解南辕北辙</p>
+<p>中美投资协定BIT谈判了七年多二十一轮，为什么还是没能达成呢？</p>
+<p>似乎为了安慰一下习近平走那么老远一趟，中美两方公开表示：“两国领导人积极评价正在进行中的中美投资协定BIT谈判业已取得的进展”，美方甚至承诺“对包括国有企业在内的中国投资者保持开放的投资环境”，可终究还是没有正式签订中美BIT。</p>
+<p>中国对外商投资的管理，即使这几轮中美谈判中已经提出了负面清单，可是中国对外商投资的限制还是要比美国多，在涉足从金融服务到农业和医疗保健等中国众多的国家主导行业以及在国企占垄断地位的行业中，尤其如此。</p>
+<p>美国作为信奉自由的发达国家，其对自由贸易的理解，标准更高，涵盖范围更广，不仅要取消或降低商品的关税，还涵盖安全标准、技术贸易壁垒、动植物卫生检疫、竞争政策、知识产权、政府采购、争端解决，以及有关劳工和环境保护的规定；而长期囿于中央集权的专制的中国，即使改革开放加入WTO以后，在国际贸易规则上更注重降低投资壁垒和税收等基本投资权益，几乎从不想到人的合法权益，很少涉及劳工权利、环境保护、知识产权等标准和规则。</p>
+<p>美国给中国开出的负面清单只有三项：关键基础设施、重要技术、国家安全。但美方对这三项都没有明确的定义，而且中方在美投资、经营的任何阶段，美国行政当局都有权中止项目，产生的成本由投资人负责。这样的提法增加了中国在美投资的不确定性，几乎是无法做生意的。</p>
+<p>表面看来，就是些商业的技术矛盾影响了中美BIT的签订，实际上恰恰反映了中美两国对于社会平等的不同理解。</p>
+<p>保护个人隐私还是保护党和国家</p>
+<p>以国家安全，特别是这次习近平访美时几次提到的网络安全问题为例，中美两国表面上都强调要加强网络安全，可实际内容南辕北辙。</p>
+<p>在美国，网络安全从根本上说主要集中于保护各种私营部门的数据和关键的网络基础设施，以及个人的隐私权。在中国，网络安全本质上是以党国为中心，防范国内外利用网络威胁损害中共一党专政。中国口口声声所说的“网络空间主权”就是中共一党的“网络空间主权”。在美国，网络安全法规致力于防止未经授权侵入电脑系统和窃取信息的行为，至于网络监管法规所关注的则是为了执法或情报目的对某些侵入行为的授权，而监管人员若是泄露被监控者的隐私，即是触犯法律。</p>
+<p>中国的《国家安全法》和《网络安全法（草案）》，更像是一份共产党意识形态的文件，一篇旨在捍卫中共掌握权力的檄文。通观中国的《国家安全法》和《网络安全法（草案）》，没有一条是制衡政府权力的，政府可以不受限制、随心所欲地采取任何安全措施。中国的《网络安全法（草案）》也有保护个人隐私的条款，譬如第三十六条，网络运营者负有严格保密及不得非法向他人提供公民个人信息的义务，但如果政府要求网络运营者提供公民个人信息，却是“合法”的。</p>
+<p>我们不排斥不久将来中美BIT协定会正式签署，但是中国与美国的根本分歧不可能消除。中国国企虽然此次也被美方承认可以作为投资主体在美投资，那是美国将其看作只是由投资方而不同于其它普通企业一样的企业。中国国企是一党专政的基石，它可以不顾自己的利润率、不必对自己老板——中国民众负责，亏本在美国经营，只为了中国政府取得有用技术和在美国有利的地位；它也可以在中国市场依然把持垄断市场，挤兑所谓开放以后从外面进来的美国资本。</p>
+<p>因此，即使中美BIT协定正式签订之后，中美投资矛盾依然会层出不穷，中美互相投资的空间仍然有限。</p>
+<p>《动向》2015年10月号</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8A%A8%E5%90%91%EF%BD%9C%E4%BA%8E%E6%80%A1%E9%83%8A%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%8C%E4%B8%AD%E7%BE%8Ebit%E8%BF%98%E6%98%AF%E6%B2%A1%E7%AD%BE%E6%88%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bit/?category=18271" rel="tag">BIT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%97%8F%E5%AD%A6%E8%80%85%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%A6%81%E6%B1%82%E5%AE%B6%E4%BA%BA%E7%94%B3%E8%AF%89%E6%A1%88%E4%BB%B6/" target="cdt-mirror">BBC｜中国维族学者伊力哈木要求家人申诉案件</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/01/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/01/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8.jpg" alt="巴丢草：自由 伊力哈木" width="375" height=""></a><br><em>（“自由：伊力哈木” by 巴丢草）</em></p>
@@ -575,120 +639,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%90%8D/" target="cdt-mirror">【立此存照】习说相声：《报书名》</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/0511119ozeow476x6xiexj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/0511119ozeow476x6xiexj.jpg" alt="0511119ozeow476x6xiexj" width="450" height="441"></a><br>
-（图片来自网络）</p>
-<p>《报书名》<br>
-作者：<a href="http://weibo.com/u/2040110461">@妇女之友罗严塔</a></p>
-<p>甲:我们这位演员啊。<br>
-乙:啊。<br>
-甲:很多观众都认识。<br>
-乙:您客气。<br>
-甲:经常啊在收音机里头，电视里头看到您。<br>
-乙:倒是经常的上新闻联播。<br>
-甲:您是北京天团的演员。<br>
-乙:对啊。<br>
-甲:原籍是陕西富平人。<br>
-乙:不错。<br>
-甲:长期在地方工作。<br>
-乙:唉。<br>
-甲:现在家不还在北京哪。<br>
-乙:啊，在北京哪。<br>
-甲:您住在中南海。<br>
-乙:啊，对，对，对。<br>
-甲:是不是?<br>
-乙:对。<br>
-甲:家里都好啊?<br>
-乙:都不错。<br>
-甲:老太爷好啊?<br>
-乙:身体健康啊。<br>
-甲:大嫂子好?<br>
-乙:挺美的。<br>
-甲:孩儿们都上学了?<br>
-乙:早毕业参加工作啦。<br>
-甲:那您平时有什么爱好呢?<br>
-乙:我呀，就喜欢看点文艺方面的东西。我妻子是个文艺工作者，我们俩在这方面也谈得来。<br>
-甲:哦，文艺啊，这爱好好。您都爱哪些文艺作品呢？<br>
-乙:历史和现实都表明，人类文明是由世界各国各民族共同创造的。我出访所到之处，最陶醉的是各国各民族人民创造的文明成果。世界文明瑰宝比比皆是，这里我举几个国家、几个民族的例子。<br>
-甲:哦，你爱看外国书。<br>
-乙:首先是古希腊，埃斯库罗斯、索福克勒斯、欧里庇得斯，还有阿里斯托芬，他们的悲剧和喜剧是希腊艺术的经典之作。然后是俄罗斯，有列宾、普希金、果戈理、托尔斯泰；契诃夫、莱蒙托夫、屠格涅夫、肖洛霍夫、涅克拉索夫、拉赫玛尼诺夫、里姆斯基-科萨科夫；高尔基、柴可夫斯基、陀思妥耶夫斯基、车尔尼雪夫斯基等大师。<br>
-甲:嘿，好家伙，这么多个司机，得折合成几车皮韩寒吧？。<br>
-乙:然后是欧美。法国有雨果、萨特、加缪、米勒、马奈、德加、塞尚、莫奈、罗丹、比才；拉伯雷、拉封丹、莫里哀、司汤达、大仲马、小仲马、莫泊桑、柏辽兹、德彪西；巴尔扎克、罗曼·罗兰。英国有乔叟、拜伦、雪莱、济慈、哈代、透纳；弥尔顿、狄更斯、萧伯纳、等大师。德国有莱辛、歌德、席勒、海涅、巴赫、贝多芬、舒曼、瓦格纳、勃拉姆斯等大师。美国有霍桑、朗费罗、德莱赛、海明威、惠特曼、斯托夫人、马克·吐温、杰克·伦敦。<br>
-甲:您慢慢儿说后头还有什么大师。<br>
-乙:我最近访问了印度，印度人民也是具有非凡文艺创造活力的，大约公元前1000年前后就形成了《梨俱吠陀》、《娑摩吠陀》、《夜柔吠陀》、《阿达婆吠陀》这四部吠陀。法显、玄奘取经时，印度的诗歌、舞蹈、绘画、宗教建筑和雕塑就达到了很高的水平，泰戈尔更是产生了世界性的影响。<br>
-甲:这些都是外国的，您就不看中国的文艺作品？<br>
-乙:看啊，我国就更多了，从老子、孔子、庄子、孟子、屈原、王羲之、李白、杜甫、苏轼、辛弃疾、关汉卿、曹雪芹，到鲁迅、郭沫若、茅盾、巴金、老舍、曹禺，到聂耳、冼星海、梅兰芳、齐白石、徐悲鸿，从诗经、楚辞到汉赋、唐诗、宋词、元曲以及明清小说，从《格萨尔王传》、《玛纳斯》到《江格尔》史诗，从五四时期新文化运动、新中国成立到改革开放的今天，产生了灿若星辰的文艺大师，留下了浩如烟海的文艺精品，不仅为中华民族提供了丰厚滋养，而且为世界文明贡献了华彩篇章。这些文艺作品你爱看不爱看?<br>
-甲:爱看!<br>
-乙:爱看也看不了!<br>
-甲:怎么?<br>
-乙:墙外的人进不去，墙内的人进不来!<br>
-甲:逗我呀!</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94/?category=18271" rel="tag">妇女之友罗严塔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BD%E9%BB%98%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">幽默讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">政治讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E5%A3%B0/?category=18271" rel="tag">相声</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%90%8D/" target="cdt-mirror">【麻辣总局】相声：《报书名》</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/0511119ozeow476x6xiexj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/0511119ozeow476x6xiexj.jpg" alt="0511119ozeow476x6xiexj" width="450" height="441"></a><br>
-（图片来自网络）</p>
-<p>《报书名》<br>
-作者：<a href="http://weibo.com/u/2040110461">@妇女之友罗严塔</a></p>
-<p>甲:我们这位演员啊。<br>
-乙:啊。<br>
-甲:很多观众都认识。<br>
-乙:您客气。<br>
-甲:经常啊在收音机里头，电视里头看到您。<br>
-乙:倒是经常的上新闻联播。<br>
-甲:您是北京天团的演员。<br>
-乙:对啊。<br>
-甲:原籍是陕西富平人。<br>
-乙:不错。<br>
-甲:长期在地方工作。<br>
-乙:唉。<br>
-甲:现在家不还在北京哪。<br>
-乙:啊，在北京哪。<br>
-甲:您住在中南海。<br>
-乙:啊，对，对，对。<br>
-甲:是不是?<br>
-乙:对。<br>
-甲:家里都好啊?<br>
-乙:都不错。<br>
-甲:老太爷好啊?<br>
-乙:身体健康啊。<br>
-甲:大嫂子好?<br>
-乙:挺美的。<br>
-甲:孩儿们都上学了?<br>
-乙:早毕业参加工作啦。<br>
-甲:那您平时有什么爱好呢?<br>
-乙:我呀，就喜欢看点文艺方面的东西。我妻子是个文艺工作者，我们俩在这方面也谈得来。<br>
-甲:哦，文艺啊，这爱好好。您都爱哪些文艺作品呢？<br>
-乙:历史和现实都表明，人类文明是由世界各国各民族共同创造的。我出访所到之处，最陶醉的是各国各民族人民创造的文明成果。世界文明瑰宝比比皆是，这里我举几个国家、几个民族的例子。<br>
-甲:哦，你爱看外国书。<br>
-乙:首先是古希腊，埃斯库罗斯、索福克勒斯、欧里庇得斯，还有阿里斯托芬，他们的悲剧和喜剧是希腊艺术的经典之作。然后是俄罗斯，有列宾、普希金、果戈理、托尔斯泰；契诃夫、莱蒙托夫、屠格涅夫、肖洛霍夫、涅克拉索夫、拉赫玛尼诺夫、里姆斯基-科萨科夫；高尔基、柴可夫斯基、陀思妥耶夫斯基、车尔尼雪夫斯基等大师。<br>
-甲:嘿，好家伙，这么多个司机，得折合成几车皮韩寒吧？。<br>
-乙:然后是欧美。法国有雨果、萨特、加缪、米勒、马奈、德加、塞尚、莫奈、罗丹、比才；拉伯雷、拉封丹、莫里哀、司汤达、大仲马、小仲马、莫泊桑、柏辽兹、德彪西；巴尔扎克、罗曼·罗兰。英国有乔叟、拜伦、雪莱、济慈、哈代、透纳；弥尔顿、狄更斯、萧伯纳、等大师。德国有莱辛、歌德、席勒、海涅、巴赫、贝多芬、舒曼、瓦格纳、勃拉姆斯等大师。美国有霍桑、朗费罗、德莱赛、海明威、惠特曼、斯托夫人、马克·吐温、杰克·伦敦。<br>
-甲:您慢慢儿说后头还有什么大师。<br>
-乙:我最近访问了印度，印度人民也是具有非凡文艺创造活力的，大约公元前1000年前后就形成了《梨俱吠陀》、《娑摩吠陀》、《夜柔吠陀》、《阿达婆吠陀》这四部吠陀。法显、玄奘取经时，印度的诗歌、舞蹈、绘画、宗教建筑和雕塑就达到了很高的水平，泰戈尔更是产生了世界性的影响。<br>
-甲:这些都是外国的，您就不看中国的文艺作品？<br>
-乙:看啊，我国就更多了，从老子、孔子、庄子、孟子、屈原、王羲之、李白、杜甫、苏轼、辛弃疾、关汉卿、曹雪芹，到鲁迅、郭沫若、茅盾、巴金、老舍、曹禺，到聂耳、冼星海、梅兰芳、齐白石、徐悲鸿，从诗经、楚辞到汉赋、唐诗、宋词、元曲以及明清小说，从《格萨尔王传》、《玛纳斯》到《江格尔》史诗，从五四时期新文化运动、新中国成立到改革开放的今天，产生了灿若星辰的文艺大师，留下了浩如烟海的文艺精品，不仅为中华民族提供了丰厚滋养，而且为世界文明贡献了华彩篇章。这些文艺作品你爱看不爱看?<br>
-甲:爱看!<br>
-乙:爱看也看不了!<br>
-甲:怎么?<br>
-乙:墙外的人进不去，墙内的人进不来!<br>
-甲:逗我呀!</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E4%B9%8B%E5%8F%8B%E7%BD%97%E4%B8%A5%E5%A1%94/?category=18271" rel="tag">妇女之友罗严塔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">政治讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E5%A3%B0/?category=18271" rel="tag">相声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80/?category=18271" rel="tag">麻辣总局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -700,7 +650,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -710,5 +660,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

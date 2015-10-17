@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,115 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%8B%E5%AE%87%E5%A4%AB%E5%A6%87%E4%B8%8A%E5%A4%AE%E8%A7%86%E8%B0%B4%E8%B4%A3%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/" target="cdt-mirror">【网络民议】王宇夫妇上央视“谴责境外势力”</a>
+</h2>
+<p><p><strong>新闻背景：</strong></p>
+<p>10月16日，新华社发表奇闻<a href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-16%E5%B2%81%E5%B0%91%E5%B9%B4%E5%81%B7%E8%B6%8A%E5%9B%BD%E5%A2%83%E4%BA%8B%E4%BB%B6%E7%9C%9F/">《“16岁少年偷越国境”事件真相调查》</a>，指包蒙蒙出逃缅甸是受“境外势力裹挟”。17日，包龙军王宇夫妇上CCTV新闻，“强烈谴责境外势力”。澎湃新闻等媒体在微博上转载了<a href="http://weibo.com/5044281310/CFtTgujZq?type=comment#_rnd1445059429288">新华社的文章和央视新闻的截屏</a>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005vnhZYgw1ex3vds7inzj30c81n6n1r-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005vnhZYgw1ex3vds7inzj30c81n6n1r-1.jpg" alt="005vnhZYgw1ex3vds7inzj30c81n6n1r (1)" width="440" height="2130"></a></p>
+<p><strong>以下为中国数字时代编辑摘自新浪网友评论：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.36.34.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.36.34.png" alt="Screen Shot 2015-10-16 at 下午10.36.34" width="596" height="611"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.36.51.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.36.51.png" alt="Screen Shot 2015-10-16 at 下午10.36.51" width="590" height="645"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.37.09.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.37.09.png" alt="Screen Shot 2015-10-16 at 下午10.37.09" width="594" height="241"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.38.01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.38.01.png" alt="Screen Shot 2015-10-16 at 下午10.38.01" width="587" height="596"></a></p>
+<p>黄林-晴天创造：回复@芮少石:你朝一边怕别人把16少年带去搞颠覆，一边把自己的子女往外送，这是有多么的人格分裂症啊？</p>
+<p>治愈五毛：一对嫌疑人的儿子没有出国的权利！红色？红色后代不会攻击红色政权当然是例外了，是吧@薄瓜瓜</p>
+<p>老水门：我曾见到孩子父母与宣传口不同的发声，请给辟谣，谁在说谎造谣——但清勿通过那臭名昭著的“央视”，以及“大放”过“卫星”、常常指鹿为马的“新华社”，可以吗？……</p>
+<p>阿波琪13号_：律师真是个敏感的职业</p>
+<p>Feifei20132014：新华人日环球连个标点符号都不能信</p>
+<p>长鼻像：股市大跌是敌对势力干的，雾霾是敌对势力干的，贪污腐败是敌对势力污染干部所为，养老延后是敌对势力长期腐蚀养老基金所为。笑了醉了</p>
+<p>晋阳堂的唐：唉，现在的百姓都不好骗了，怎么办？</p>
+<p>lxsc131：1.父母到底犯了什么罪？ 2.正常途径到底能不能走？</p>
+<p>-陈峰：到处都是你们的敌人，境外的，境内的，你们的朋友都哪去了？</p>
+<p>@1982风:敌对势力是个筐，什么都能往里装。此筐曾有很多名，戏法多年不重样。右倾主义彭罗杨，赫鲁晓夫四人帮，如今改革闹开放，土筐也要穿洋装。</p>
+<p>New黄：你们连外国专家和媒体的话都敢曲解和改编，你让我相信你们代这位母亲的说的话？而且她还在监狱里。</p>
+<p>华夏九幽府主：一个封闭互联网的国家，一个迫害记者的国家，一个存在死磕律师以死求法的国家。你说这里有公开？你说这里有公正？你说这里有法制？别逗了，现在不是把控着报纸电视这类传统媒体就可以洗脑人民掩盖事实的时候了，网络，将会成为揭开政府黑幕的最好手段。</p>
+<p>砀山人_在上海G：@环球时报 @人民日报 @新华网 发表《维权律师之子遭境外势力裹挟》一文，弱弱的问下：政府为什么没收包蒙蒙的护照？律师都见不到包龙军，王宇，记者是怎么见到的？凭什么剥夺人家会见律师的权利？敢让包龙军，王宇，包蒙蒙公开，自由的接受采访吗？凭什么不让刘晓原律师的孩子出国留学？一面之词谁信？</p>
+<p>迷迭香香儿：为什么要偷‘渡，不就是你们把一个正常孩子的护’照没收了才这样的。出去读书有错吗</p>
+<p>行素山人：瞎子、小孩都被你党锦衣卫残酷迫害，可耻啊，还振振有辞！！</p>
+<p>打熊难：这盛世，如你所愿</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%8B%E5%AE%87%E5%A4%AB%E5%A6%87%E4%B8%8A%E5%A4%AE%E8%A7%86%E8%B0%B4%E8%B4%A3%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E9%BE%99%E5%86%9B/?category=18271" rel="tag">包龙军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%85%E7%94%B8/?category=18271" rel="tag">缅甸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E6%8D%8D%E5%8D%AB12%E6%B5%B7%E5%93%A9%E4%B8%BB%E6%9D%83%E4%B9%A0%E6%80%BB%E5%A5%A5%E6%80%BB%E6%96%97%E5%98%B4/" target="cdt-mirror">【习总日记】捍卫12海哩主权习总奥总斗嘴</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，17）</p>
+<p>美国军方扬言挑战我南海岛礁12海哩主权，我当机立断发出邀请，有种驾着你的小船来东海北海黄海渤海挑衅。</p>
+<p>美军回信说不去不去，只去南海。</p>
+<p>没办法，我只好给奥巴马总统发短信：有事好商量。</p>
+<p>奥：其他事还好说，这事没商量。</p>
+<p>习：你想干嘛？</p>
+<p>奥：头脑发热忘乎所以自高自大。怕你做傻事，泼盆凉水给你提个醒。</p>
+<p>习：愿闻其祥。</p>
+<p>奥：不承认你们所谓的南海岛礁12海哩主权。</p>
+<p>习：哟嗬，单刀直入，这可不是中国的特色。</p>
+<p>奥：当今世界，只要美国在，就轮不到你中国指手划脚制定游戏规则。参与都不行。</p>
+<p>习：过去不行，所以小平同志提出韬光养晦。可如今咱世界经济第二，军事力量日益壮大，造舰像下饺子，航母两艘同时开建。今非昔比的中国，在自家门口历史九段线内宣示主权，宣示势力范围，这么小的一块奶酪也不肯给，你也太小气了吧。</p>
+<p>奥：大家都是在道上混的，你的心思我明了。什么“太平洋很大，能容纳中美两国”，什么“新型大国关系”，什么“东海防空识别区”，埋的是同一种药，唱的是同一首歌，就是翅膀硬了胳膊粗了，想划分自己的势力范围。我判断得没错吧。</p>
+<p>习：奥总聪明天纵。是这么个理儿。</p>
+<p>奥：谢谢。习总啊，请听明白了，南中国海，从前我们不管是因为你们实力不济无法染指，大家也就相安无事，各国船只在那里自由通过。现在你们搭上了经济全球化的便车，发财了有钱了，造了些军舰就忘乎所以瞄准南中国海想纳入你们的势力范围。告诉你两个字，休想。</p>
+<p>习：吓了我一跳。我还以为是“做梦”。</p>
+<p>奥：都什么时候了，你还有心开玩笑。</p>
+<p>习：生性幽默风趣，没办法。毛主席说过，不管风吹浪打美苏吓唬，胜似闲庭信步拔脚就溜。</p>
+<p>奥：习总，今天把我们美国的底线给你挑明了吧，省得你想入非非跃跃欲试不撞南墙不回头。经济方面，三十年搭顺风车吃香喝辣舒坦够了，也该给你们双规双规了。在规定的时间内，先签BIT，后签TPP。军事方面，以你担任中国共产党总书记2012年11月为线。所有你上任后搞出来的东西我们统统不予承认。东海防空识别区我们不承认，南海岛礁12海哩主权我们不承认。</p>
+<p>习：我们比三十年前强大了，这个事实你承认不承认？</p>
+<p>奥：承认。</p>
+<p>习：我们对世界所承担的责任是不是比三十年前要多一些了。</p>
+<p>奥：是。</p>
+<p>习：每次北韩金正恩把导弹瞄准韩国日本，我们立马送钱过去。为了促进当地经济，我们使用激将法诱使中国消费者去美国欧洲日本购物。</p>
+<p>奥：如何激将？</p>
+<p>习：指美国为敌对势力，号召抵制日货。中国老百姓倔，喜欢与政府拧着干反着来。</p>
+<p>奥：中国人民是伟大的人民。</p>
+<p>习：可不是吗？这样的人民，你好意思欺负？</p>
+<p>奥：不对，我们是欺负中共，不是欺负中国人民。</p>
+<p>习：在我们中国，中共就是中国，就是祖国，就是人民的父母。</p>
+<p>奥：别扯远了。你等着我们军舰的到来吧。</p>
+<p>习：你们敢来，我就敢打。</p>
+<p>奥：你敢打，我就敢来。当然，你不打我也来。</p>
+<p>习：你真不信我敢打？</p>
+<p>奥：我们美国人与你们中国人的思维方式不一样，我们径直来，来时作好战斗准备。而不去想你们会不会打。如果你们开火，我们便还击。</p>
+<p>习：我们不开火，我们驱赶。</p>
+<p>奥：那就看谁的军舰硬。</p>
+<p>习：好好好，算我怕了你。</p>
+<p>奥：哈哈，露怯了吧。你怎么向你们的人民交代？</p>
+<p>习：中国人民笨，好骗。</p>
+<p>奥：怎么骗？说来听听。让我开开眼。</p>
+<p>习：中华文化博大精深，不是你们老外能够领会活用的。</p>
+<p>奥：你不说拉倒。反正与我无关。</p>
+<p>习：好啦好啦，我告诉你吧。其实也不难，就是屏蔽国外消息，死活不承认你们军舰进入12海哩。</p>
+<p>奥：那我派海军陆战队员登岛。</p>
+<p>习：我删除图片。</p>
+<p>奥：我不跟你争，反正我们进入12海哩是做给世界看，而不是给中国人民看。</p>
+<p>习：我们与你们相反。我们只是做给人民看。能够瞒着中国老百姓，不让他们知道真相，就够了。</p>
+<p>奥：66年，不容易啊。</p>
+<p>习：岂止66年，90年了。要不要学，我免费教。</p>
+<p>奥：谢了。这种伎俩只能在中国使。</p>
+<p>习：你话里的意思是中国人民笨，是不是？</p>
+<p>奥：我可没说。</p>
+<p>习：你的意思就是是。我明天告诉中国人民，美国总统嫌你们笨。</p>
+<p>奥：我向你道歉，求你别告诉中国人民。</p>
+<p>习：只要你军舰不进入12海哩，我就不说。</p>
+<p>奥：嗯，好吧。我服了你。你这个流氓。</p>
+<p>习：你们美国才流氓，大流氓。</p>
+<p>奥：你这小流氓。只会欺负自己老百姓的小流氓。</p>
+<p>习：我想欺负南海周边国家，你让吗？</p>
+<p>奥：嗯，我又说错话了。第二次向你道歉。</p>
+<p>（作者：何岸泉）</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E6%8D%8D%E5%8D%AB12%E6%B5%B7%E5%93%A9%E4%B8%BB%E6%9D%83%E4%B9%A0%E6%80%BB%E5%A5%A5%E6%80%BB%E6%96%97%E5%98%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/12%E6%B5%B7%E5%93%A9%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">12海哩主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E6%98%8E%EF%BC%9A%E8%AF%B7%E8%8B%B1%E6%96%B9%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E4%BA%BA%E6%9D%83/" target="cdt-mirror">法广 | 刘晓明：请英方不要跟习主席谈人权</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%882.41.36.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%882.41.36.png" alt="Screen Shot 2015-10-16 at 下午2.41.36" width="550" height="307"></a><br>
@@ -608,48 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%BD%91%E6%9B%9D%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%85%AC%E5%B8%8381%E4%B8%AA%E9%9D%9E%E6%B3%95%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6/" target="cdt-mirror">月光博客 | 网曝广电总局公布81个非法视频软件</a>
-</h2>
-<p><p>据认证媒体人微博电视眼爆料，目前中央网信办、广电总局正在全国范围内开展境外电视网络接收设备专项整治行动。</p>
-<p>据了解，这些非法视频软件主要是这些平台上提供未通过审批的境外视频产品，“涉嫌传播违规有害内容”，包括未经取得发行放映许可证播放境外电视剧。</p>
-<p>从曝光的截图来看，这所谓的“81个非法视频软件应用”涉及面非常广泛，其中，有不少著名的视频软件应用，风云直播、喜马拉雅、熊猫听书、360影视大全、泰捷视频等纷纷上榜。广电总局如果真的把所谓的“81个非法视频软件应用”给灭了后，互联网电视盒子真的就变成了单机盒子了。</p>
-<p>81个非法视频软件名单如下：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/59183920gw1ex13kdxissj20go34he58.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/59183920gw1ex13kdxissj20go34he58.jpg" alt="59183920gw1ex13kdxissj20go34he58" width="500" height="3374"></a></p>
-<p>广电不死，天理难容。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%BD%91%E6%9B%9D%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%85%AC%E5%B8%8381%E4%B8%AA%E9%9D%9E%E6%B3%95%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%94%B5%E8%A7%86/?category=18271" rel="tag">境外电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95/?category=18271" rel="tag">非法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6/?category=18271" rel="tag">非法视频软件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E8%B0%81%E6%9D%A5%E5%92%8C%E4%BD%A0%E6%94%BF%E6%B2%BB%E5%AF%B9%E8%AF%9D%EF%BC%9F/" target="cdt-mirror">德国之声 | 长平观察：谁来和你“政治对话”？</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018746920_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018746920_30300.jpg" alt="香港“雨伞”运动刚刚迎来一周年" width="600" height="338"></a><p>香港“雨伞”运动刚刚迎来一周年</p></div>
-<p><strong>本届诺贝尔和平奖在中国舆论中引发”对话”争论。时评人长平认为，增强反对方的力量，提升其对话资格，才是真正的问题。</strong></p>
-<p>（德国之声中文网）突尼斯国家对话四方机制获得诺贝尔和平奖，在中国舆论中引发一场争论。一方认为，此奖鼓励了和平理性的公民社会建设，正是”茉莉花革命”之前与之后的公民社会力量，让突尼斯避免了像其他国家那样陷入战乱的可能。因此，在公民社会成熟之前，应该避免激烈的政治革命。另一方认为，事实分明是激烈的政治革命解放并成就了公民社会，极权政治的结束才让多方对话有了可能;反对结束极权政治的革命，奢谈根本不存在的公民社会，有替专制”维稳”的效果。</p>
-<p>首先应该明确这样的事实：这些争论不可能直接出现在中国媒体上，只能以隐晦或者只言片语的形式出现在社交媒体。不仅如此，挪威诺贝尔奖委员会的宣示中提到的”茉莉花革命”，在中国媒体的新闻报道中根本没有出现。</p>
-<p>还有这样的事实：在微博上发一条”支持香港民主运动”的信息，在餐馆里和几个朋友聚会谈论政治，都会有警察找上门来，”喝茶”甚至刑拘。发表两篇批评文章，可能被判入狱四五年；建一个网站，可能被判无期徒刑。与中国直接相关的两位诺贝尔和平奖获得者，达赖喇嘛和刘晓波，一个在流亡，一个在狱中。</p>
-<p>毫无疑问，突尼斯国家对话机制功勋卓著。但是，对话本身并不新鲜。达赖喇嘛多年来的呼求，就是对话机制。刘晓波发起并起草的《零八宪章》，也是一纸对话的邀约。无论达赖喇嘛怎样宣示和实践非暴力对话，也无论刘晓波怎样宣称”我没有敌人”，当局都不允许有半点容许空间。</p>
-<p>多年来，一些体制内的学者、依法维权的人权律师、回避直接冲突的民间团体，作出了各种委曲求全的努力，甚至站在维护一党专制”长治久安”的立场上，但当局都毫不含糊地，对任何可能带来威胁的言行予以坚决打击。而且讨论的空间越来越窄：十年前可以在媒体发表的批评文章，今天变成了罪证；五年前可以当作标语刷在墙上的”建设公民社会”，今天只能偷偷摸摸出现在社交媒体。</p>
-<p>倘若有人组织或参与暴力革命，一定会被当局判处极刑。在这种情况下，谈论革命的人，会被贴上”怂恿他人充当炮灰”的标签，尽管这种事情几乎没有发生。正在发生的事实是，那些相信和平理性建设公民社会的人，纷纷身陷囹圄，或者流亡国外。难道我们也要谴责鼓吹非暴力运动的人，认为他们是在怂恿别人充当囚犯或背井离乡吗？</p>
-<p><strong>香港公民社会 VS 强大的中央政府</strong></p>
-<p>无可争议的是，香港一向被认为公民社会发育较好，中产阶级较多，司法相对独立，社会团体发达，居民素质较高。也正是受益于此，近年来香港发生了多起反对中共控制的社会运动，尤其以”雨伞革命”为甚。</p>
-<p>“雨伞革命”自然成就丰厚，但是不可否认的是，它没有达到让北京撤销”8.31″决议的目的，甚至没有让中共有所收敛。官员及喉舌媒体反而更加放肆，常常主动挑衅。强大的公民社会为什么没有孵化出让专制胆战心惊的反对力量？</p>
-<p>既然争论围绕本届诺贝尔和平奖展开，那么不妨听听获奖者的意见。突尼斯全国对话大会机构之一、突尼斯人权联盟主席阿卜杜萨特拉·本·穆萨，在接受香港端传媒记者采访时说：”在（香港’雨伞革命’）这个形势中，中央政府过于强大，对话异常困难。”记者阐释说，目前而言，”突尼斯式”对话，在香港并不存在土壤。势均力敌的局面没有出现，不得不坐下来妥协的前提并不存在。</p>
-<p>增强反对方的力量，提升其对话资格，这才是真正的问题。</p>
-<p>长平是中国资深媒体人、时事评论作家，现居德国。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E8%B0%81%E6%9D%A5%E5%92%8C%E4%BD%A0%E6%94%BF%E6%B2%BB%E5%AF%B9%E8%AF%9D%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%8C%96/?category=18271" rel="tag">民主化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%81%E5%B0%BC%E6%96%AF%E5%85%A8%E5%9B%BD%E5%AF%B9%E8%AF%9D%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">突尼斯全国对话机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">茉莉花革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -661,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -671,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

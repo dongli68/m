@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%BD%E6%B0%91%E5%85%9A%E6%8D%A2%E6%9F%B1%EF%BC%9A%E6%84%9F%E8%A7%89%E6%98%AF%E8%A2%AB%E5%A4%AE%E8%A7%86%E6%8C%BA%E6%AD%BB%E7%9A%84/" target="cdt-mirror">【网络民议】国民党”换柱”：感觉是被央视挺死的</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/titlepage.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/titlepage.jpg" alt="titlepage" width="575" height=""></a><br><em>（网络图片）</em></p>
+<p><strong><a href="http://politics.caijing.com.cn/20151017/3986446.shtml">人民日报｜国民党正式宣布”换柱” 洪秀柱：党不要我，我不弃党</a></strong></p>
+<blockquote><p>人民日报记者 孙立极 王连伟消息，中国国民党第19次临全会17日下午正式宣布废止洪秀柱2016年“大选”提名案。洪秀柱在台湾地区领导人马英九后发言，一开场即感性表示：“孤臣可弃，但绝不折节”，她表示“党可以不要我，我不会放弃党。”<br>
+[…]<br>
+在演说结束后，洪秀柱决定先行离开会场。洪秀柱离场时，国民党主席朱立伦起立鼓掌，接着主持人、国民党“立法委员”吴育升也请大家起立，一起为洪秀柱鼓掌。</p></blockquote>
+<p><strong>附 洪秀柱“孤臣可弃，但绝不折节”<a href="https://tw.mobi.yahoo.com/home/%E8%87%A8%E5%85%A8%E6%9C%83%E6%8F%9B%E6%9F%B1%EF%BC%9F%E6%B4%AA%E7%A7%80%E6%9F%B1%E8%87%B4%E8%A9%9E%E5%85%A8%E6%96%87-063249434.html">原句</a>：</strong></p>
+<blockquote><p>最後請容許我揮揮衣袖，先行離開會場，留給大家冷靜思考的空間，此心可鑑，真情不變，「孤臣可棄，但絕不折節」！黨可以不要我，秀柱絕不會放棄黨！天佑本黨！天佑台灣！天佑中華民國！謝謝大家！</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@123AECTY：感觉是被央视挺死的</p>
+<p>@Mieusirt：用某版的语气来说是不是可以说成“支持统一，不得民心，下台乃民心所向”之类的？</p>
+<p><a href="http://weibo.com/5467885025" target="_blank">bullet-ant</a>：那些在樯内“挺柱”的你国奇葩接下来怎么办…<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
+<p><a href="http://weibo.com/wwww0" target="_blank">-0寂寞鞦韆0-</a><i title="微博达人"></i>：好可怜哦，就酱纸终结了小柱柱的特首梦？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<blockquote><p><a href="http://weibo.com/5467885025" target="_blank">bullet-ant</a>：分享图片<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005Y2GFXjw1ex48ah7rc0j30q10hswgk.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005Y2GFXjw1ex48ah7rc0j30q10hswgk.jpg" alt="005Y2GFXjw1ex48ah7rc0j30q10hswgk" width="400" height=""></a></p></blockquote>
+<p>@青志能：“我很爱这个党。” ， “一个政党如果失去态党德、党魂、党的路线，必将沦亡。”，哈哈哈。</p>
+<p>@13区：国民党离共产党的差距是越来越大了</p>
+<p>@sombreado_joven：国民党要挽回局面，来日再战，必须走三步:1.和赤党割裂，2，加快本土化，挽回年轻人，3.团结。</p>
+<p>@KevinTHW：国军是不是想牺牲自己拯救台湾啊。。。</p>
+<p>@Zodiac1981：不仅不算违反“政治规矩”，还可以公开对中央精神提出委婉的批评</p>
+<p>@善良的九虎：洪柱的问题不在于其它的而在于“红”。她的两岸政策估计只有少部分选民能接受。</p>
+<p>@您搜索的用户已被锁定：和红党割裂才能挽救一点选情。</p>
+<p>@徐枫华：满脑子封建思想，换掉她就对了。</p>
+<p>@军伟V：就这文采，在大陆最起码是个总理。</p>
+<p>@乌尔奇奥拉NO24：装悲壮没用 换人更没用 16年国民党没戏了</p>
+<p>@乡医小董：可以加入中国共产党</p>
+<p>@14hhl9sky：看台湾人的文采，再看我们“鞋子合不合脚，自己穿着才知道”的文采，汗颜</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%9B%BD%E6%B0%91%E5%85%9A%E6%8D%A2%E6%9F%B1%EF%BC%9A%E6%84%9F%E8%A7%89%E6%98%AF%E8%A2%AB%E5%A4%AE%E8%A7%86%E6%8C%BA%E6%AD%BB%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E7%AB%8B%E4%BC%A6/?category=18271" rel="tag">朱立伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E7%A7%80%E6%9F%B1/?category=18271" rel="tag">洪秀柱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BD%9C%E6%B2%A1%E6%96%87%E5%8C%96%E7%9C%9F%E5%8F%AF%E6%80%95%EF%BC%8C%E5%81%87%E8%A3%85%E6%9C%89%E6%9B%B4%E5%8F%AF%E6%80%95/" target="cdt-mirror">王五四｜没文化真可怕，假装有更可怕</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/mmexport1444396356320.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/mmexport1444396356320.jpg" alt="腊鱼_邝飚" width="400" height="542"></a><br><em>（漫画作者：邝飚）</em></p>
+<p><em>【编者注】作者微信公号原文已被和谐。</em></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E6%9C%B1%E5%AD%A6%E4%B8%9C%EF%BC%9A%E5%AF%B9%E7%85%A7%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B9%A6%E5%8D%95%EF%BC%88%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E7%89%88%EF%BC%89%EF%BC%8C/">朱学东：对照习近平总书记书单（史上最全版），愧煞</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%8D%95/">羽戈：报书单</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%B5%A4%E7%9C%89%E9%99%88%E6%9B%B4%EF%BC%9A%E5%90%91%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%AD%A6%E4%B9%A0%E5%8D%9A%E8%A7%88%E7%BE%A4%E4%B9%A6/">赤眉陈更：向习主席学习博览群书</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/10/x%E5%8D%9A%E5%A3%AB%EF%BD%9C%E4%BB%96%E4%BB%AC%E8%AF%95%E5%9B%BE%E8%AE%BA%E8%AF%81%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E8%8E%B7%E5%BE%97%E8%80%85%E4%B8%8D%E6%98%AF%E8%AF%97/">X博士｜他们试图论证诺贝尔文学奖获得者“不是诗人”</a></li>
+</ul></blockquote>
+<p>要显得自己有文化，文章应该这样开篇：在这个秋风送爽，瓜果飘香的季节里……,当我在思考什么是文化时，我老婆正在边上看《琅琊榜》的最后两集，想到心爱的电视剧即将完结，哭得一把鼻涕一把泪，都抹我身上了，于是我就决定先不把《康熙来了》即将停播这个消息告诉她，以免给自己雪上加霜。</p>
+<p>文化是一个很宽泛的概念，给它下一个严格和精确的定义非常困难，哲学家、社会学家、人类学家、历史学家都试图从各自学科的角度来界定文化的概念，结果都失败了，最近语言学家成功了，语言学家根据受到的启发总结出，文化就是凭记忆背出自己读过的书名的能力，文化程度的高低与能背诵出的书名的多少成正比，不难看出，中国已经是文化大国了，全世界都知道。</p>
+<p>相比有文化的中国，法国在文化领域就差了很多，他们的文化部长在一次电视采访中居然表示，两年来她从未读过任何一部小说，对获得诺贝尔奖的法国小说家帕特里克·莫迪亚诺的作品也一无所知。“过去两年间，我除了看一些通告、立法文件和电传新闻之外，没有时间读书。”，看到这我不禁呵呵了，小小的法国文化部长再忙能忙得过中国国家主席吗？对于文化部长不读书不看报的行为，连法国自己的新闻网站都看不下去了，“我们要对她的坦诚表示肯定。她告诉我们部长紧凑的日程安排没能留出享受阅读乐趣的时间，还好她没有靠死记硬背作者介绍来欺骗我们。”，看来法国急需一场文艺座谈会，不过在召开文艺座谈会之前，建议先对这家口无遮拦的网站进行审查，不然很有可能步中国文化部的后尘。</p>
+<p>很佩服中国文化部的胆量，敢在新浪微博开账号，而且还打招呼，“各位网友好，文化部官方微博正式开通了！……期待大家的支持和关注！”，很快，大家就来“支持和关注”了，网友纷纷表态：“为什么不让我们看美剧，闭关锁国的经验教训历史课没学吗？；禁美剧禁日漫就是你的错了，日漫告诉我的道理比熊出没那两只蠢 熊打那个光头要多得多；我看什么电影要你管，我看什么电视要你管；日漫禁、美剧禁，连港片也禁，就是不禁国产脑残片……，不再一一例举了，毫无疑问，文化部要加强文化推广，瞅瞅网民都文盲成什么样了，广电总局和文化部傻傻分不清楚，把广电总局的账都算文化部头上了。面对网民们疯狂地无端指责文化部也不用上火，赶紧喊广电总局来开个微博吸引火力。</p>
+<p>比文化部胆子还大的是贝爷，就是那个在《荒野求生》里无所不吃的贝爷，贝爷热衷于只佩戴水瓶、火石和刀子以身犯险，向人们真实演示如何在荒野中生存，只要能吃的东西 都能成为他赖以生存的能量源泉，他被称为“食物链顶端的男人”，听说他最近来中国搞了一档以国内为背景的生存栏目，不得不佩服他的胆量，不过在我看来这种胆量是因为没文化造成的，是时候让他见识一下中国的地沟油了，不是说什么都能吃吗？也该适时派出几组城管让他感受感受了，别说野外生存了，就算在城里让你也没法生存。比贝爷还没文化的要属马云了，他在杭州云栖大会上讲到了三次技术革命，认为技术革命对于未来的影响将是巨大的，他说“第一次技术革命是体能的 释放，让人的力量更大，第二次技术革命是对能源的释放，使得人可以走得更遥远，第三次技术革命是IT时代走向DT时代，是真正的大大的释放。”，你们的大大什么时候能把政治犯释放才是第三次“技术革命”，对于未来的影响才是巨大的。</p>
+<p>没文化很可怕，有文化也挺惹事的，有文化有态度的网易最近就惹恼了人民日报，网易小编经常对人民日报的文章加以解读然后提炼出一个大标题进行转载，这个标题往往还是反面的，一身正气的人民日报哪里受得了，于是今天人民日报连续发文指责网易新闻，如应对不好，丁磊恐怕只能去养猪了。人日的文章呼吁建立全网原创 作品平台，让原创者“更有尊严、更有获得感”，读到这，我这个经常被封号和删除文章的人只想说：想骗我？我可是上过小学的人。人日的文章还说“一个有名有份的新闻网站，靠消费媒体同行混饭吃，把‘有态度’和‘无操守’划上等号，也是醉了。”，我想网易新闻对于“媒体同行”这个身份内心一定是充满委屈的，哪是什么同行，一个青楼一个闺楼。</p>
+<p>这种事肯定少不了环球时报的身影，胡锡进主编就撰写了一篇《希望网易修改标题不是为构陷他人》，写这篇文章时胡主编大概忘了澳大利亚国立大学国家安全学院院长梅徳卡尔夫，三年前梅院长发现一篇署了自己名字的评论文章出现在《环球时报》上，然而他并没有写这篇文章。类似的事情还有，哈佛大学历史和政治学教授<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%A0%E6%96%87%E7%AB%A0%E6%96%87%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84%E3%80%8A%E6%B7%B7%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84/">马若德本周给《环球时报》发邮件</a>说，环球时报在报道本月在北京举行的世界马克思主义大会时，说他称赞“中国梦”会对人类发展作出巨大贡献，“这完全是捏造的”。</p>
+<p>今年是我大学毕业十周年，也就是说我已经是一个有十年文化经验的文化人了，明天是大学同学毕业十周年聚会，有事不能参与,祝同学们好：）。其实没文化没事， 但要讲文明，我给大家讲讲我的师弟文明，他是一个科研工作者，昨天他跟我说“夜里把天天爱消除打通关了，我的寂寞失落一起涌上心头，我反复问自己，我还能干点啥还能干点啥”，今天他又跟我说“前几天我师弟说现在包饺子直接买机器压好的面皮就行，我当时有些许失落，我唯一的擀皮手艺就要这么被时代抛弃了吗？ 后来我想明白了，机器压皮边缘和中心一样厚，手工擀皮中心厚边缘薄，所以我的手艺不会淘汰，这是工匠精神。”，瞧，这就是有文化的文明人。最后他还嘱咐我 “你没事儿多和文明哥聊聊天，少和那些文艺女青年交心。”，是啊，“贴近文明，靠近方便”，上厕所也能学到文化，好好读几本书吧，别整天背书名。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BD%9C%E6%B2%A1%E6%96%87%E5%8C%96%E7%9C%9F%E5%8F%AF%E6%80%95%EF%BC%8C%E5%81%87%E8%A3%85%E6%9C%89%E6%9B%B4%E5%8F%AF%E6%80%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%8B%E5%AE%87%E5%A4%AB%E5%A6%87%E4%B8%8A%E5%A4%AE%E8%A7%86%E8%B0%B4%E8%B4%A3%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/" target="cdt-mirror">【网络民议】王宇夫妇上央视“谴责境外势力”</a>
 </h2>
 <p><p><strong>新闻背景：</strong></p>
@@ -637,83 +698,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-8/" target="cdt-mirror">【网络民议】长沙“天网工程”５万监控日夜守护百姓平安　</a>
-</h2>
-<p><blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E4%B8%9C%E7%BD%91-%EF%BD%9C%E9%95%BF%E6%B2%99%E8%AD%A6%E6%96%B9%E8%A3%85%E6%AD%BB%E7%8B%97-%E8%80%83%E9%AA%8C%E4%B9%A0%E8%BF%91%E5%B9%B3/" target="_blank">长沙警方装死狗是对习近平的考验</a></p></blockquote>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-15-at-10.18.32-AM-1024x438.png" alt="Screen Shot 2015-10-15 at 10.18.32 AM" width="549" height="235"></p>
-<p><a href="http://weibo.com/p/1001603890539895375879">５万监控日夜守护百姓平安　长沙“天网工程”深推立体防控体系建设</a></p>
-<p><span><span><a href="http://weibo.com/u/1973743580" target="_blank">长沙警事</a> </span><span>发布于2015年9月24日 10:07</span></span></p>
-<p><img src="http://ww3.sinaimg.cn/large/75a4efdcgw1ewdbflf018j20b407eaat.jpg" alt=""><br>
-日前，家住长沙伍家岭的周女士发现家附近街道增加了几个监控摄像头，“从下公交车到步行回家，一路上有3个摄像头。”这让经常上晚班的周女士倍感安全。</p>
-<p>今年7月，来自湖北的张先生带着一家三口急匆匆赶到地铁光达派出所，报警称在地铁火车南站下车时不慎将一个黑色手提包遗失，请民警帮助寻找。值班民警迅速调取周边摄像头回看，不到10分钟便在地铁火车南站安检口找到了遗失的手提包。</p>
-<p>这些，都得益于长沙随处可见的视频监控探头。据了解，2011年启动建设的长沙“天网工程”，历时3年，政府投入5.28亿元，现已在全市重点区域建成高清摄像头2.7万余个，公交移动监控设备4000余套，同时整合政府已建城市安防系统、电子卡口系统、道路交通监控系统、平安校园监控以及地铁监控摄像头1.2万余个，并于2013年底全面实现了与市应急联动指挥系统的实时对接。全城5万个监控摄像头犹如5万名不眠不休的警察，全天守护在城市和农村的公共区域，实现视频全方位覆盖。</p>
-<p><strong>全城监控：案件数同比下降明显</strong></p>
-<p><img src="http://ww4.sinaimg.cn/large/75a4efdcgw1ewdbfthaauj20b407fwfn.jpg" alt=""></p>
-<p>在长沙市公安局110指挥中心大屏幕上，记者看到，在全市的电子地图上，密密麻麻地分布着许多摄像头图标，民警用鼠标点击其中任意图标，画面就立即切换到该摄像头的监控范围，交通路口、大型商场、交通枢纽等人员聚集场所和案件高发部位的实时情况，一目了然。</p>
-<p>2014年9月26日4时39分，一辆牌号为湘AT0288的出租车在火车站广场被一名光头男子抢走。市公安局110指挥中心迅速调度特巡警巡逻车、芙蓉分局治安二大队及周边路面警力对车辆进行查缉拦截，同时，利用“天网工程”高清视频对火车站广场进行空中搜索。5时05分，监控中心值班民警在火车站广场南侧停车场内发现嫌疑车，经比对车牌和光头男子的外貌特征后，确认该车系被抢出租车，值班民警立即调度警力在广场南侧停车场将嫌疑人控制。</p>
-<p>6月12日凌晨，雨花区恒大城发生一起攀爬入室盗窃案。专案民警迅速对案发现场进行回访，准确将该案与4月25日恒大城被盗案并案侦查，并根据犯罪嫌疑人的逃窜特点将逃窜出口作为重点展开搜索，发现2名可疑人员踪迹。随后，专案民警继续开展视频追踪，最终将犯罪嫌疑人落脚点锁定在雨花区潭阳村。6月23日，专案民警在潭阳村一出租屋内成功将犯罪嫌疑人廖某抓获，侦破类案14起。</p>
-<p>“已落网的犯罪嫌疑人供述，在作案踩点过程中只要发现有监控摄像头，他们大都不敢铤而走险。”市公安局“天网办”负责人介绍，今年1-8月，全市刑事、治安案件总量、八类恶性案件、九类侵财案件、两抢案件、盗窃案件数同比下降明显，没有发生影响恶劣的大要案件，天网在震慑犯罪、控压发案方面功不可没。</p>
-<p><strong>协助破案：今年现行命案100％告破</strong></p>
-<p>今年3月份，宁乡县玉潭镇一环路人民医院、连城国际小区连续发生3起猥亵、强奸案。犯罪嫌疑人尾随单身女性作案，给受害人身心造成巨大伤害，社会影响恶劣。宁乡县公安局抽调精干警力成立专案组，综合运用视频侦查技战法于5月21日抓获犯罪嫌疑人费某林，破案15起。</p>
-<p>“如果放在以前，这种案件侦破起来可以说是难度相当大，光走访调查就得耗费相当长的时间。”办案民警介绍说，现在有了“天网”的支撑，民警办案确实是如虎添翼。</p>
-<p>为了提升视频应用的实战能力，长沙公安机关重点研发了“天网”智能行为分析和人脸识别检测功能，实现对嫌疑目标的自动预警和比对。新应用的图像处理设备和软件，能将夜间图像、模糊图像、逆光图像、雨雾天图像等进行处理后复用，最大限度地发挥视频图像的应用成效。</p>
-<p>“今年以来，长沙公安机关现行命案100%全部侦破，直接利用“天网工程”视频图像串并、侦破各类刑事案件4700余起，抓获犯罪嫌疑人2300余人，破案作用率达57%。”市公安局相关负责人介绍，自“天网工程”投入运行3年多来，长沙公安机关直接利用天网视频图像先后成功侦破望城区“2014.7.21”抢劫杀人案、岳麓区“2015.1.26”故意杀人案等一系列案件1.7万余起。</p>
-<p><strong>创新服务：监控服务公众获市民点赞</strong><br>
-6月15日凌晨3时许，五一大道省工商银行前路段发生一起交通事故，一辆高速行驶的黑色奔驰轿车与两辆出租车相撞，导致其中一台出租车被撞后失控，冲上公交站台撞坏站台设施，出租车驾驶员受伤。</p>
-<p>事故发生后，肇事奔驰车逃离现场。芙蓉交警大队迅速调阅事故现场“天网”视频图像，锁定了肇事车辆车牌号码，然后通过视频追踪，成功找到停放在某修理厂内的肇事奔驰车，并通过掌握的驾驶人电话号码，通知其到大队投案自首。6月16日凌晨，肇事者投案自首，这起引起社会广泛关注的交通肇事案成功告破，此时距案发不到24小时。</p>
-<p>5月18日上午，湖南交通职业技术学院学生粟某将一面写有“替民解难、为民排忧”的锦旗送给了雨花公安分局东塘派出所，感谢该所民警帮其找回丢失财物。4月30日，粟某将一个皮箱遗忘在出租车后备箱，皮箱内财物价值逾万元。由于他未记下车牌号码，经过几天的寻找仍未果。5月3日，他来到东塘派出所请求帮助。该所民警耐心询问粟某财物丢失的具体细节，沿乘车路线逐一调看视频，迅速锁定粟所乘出租车，并与当班车主取得联系。晚上9时许，当出租车司机将遗失的皮箱送至粟某手中时，粟激动地直夸东塘派出所民警真给力。</p>
-<p>“目前，长沙‘天网工程’正在充分整合社会视频资源，现已摸底登记全市小区、门店、单位等自建视频监控点18.6万个，都将逐步与‘天网工程’实现对接。”市公安局相关负责人介绍，1-8月，全市公安机关受理群众申请调阅查看“天网工程”视频图像4500余起，帮助群众找回丢失行李物品、调解处理矛盾纠纷1500余起，找回迷路和离家出走的儿童、老人、智障人员60余人。</p>
-<p><strong>以下网民评论由数字时代编辑整理自新浪微博：</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-15-at-10.16.55-AM-1024x773.png" alt="Screen Shot 2015-10-15 at 10.16.55 AM" width="551" height="416"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-15-at-10.17.28-AM-1024x856.png" alt="Screen Shot 2015-10-15 at 10.17.28 AM" width="551" height="461"></p>
-<p><a href="http://weibo.com/5111650100" target="_blank">米1978</a>：天网能找到陈队长吗</p>
-<p><a href="http://weibo.com/1843351727" target="_blank">bambino居然有人用了</a>：5.27999999亿元用于加减罗的公务消费，大保健。</p>
-<p><a href="http://weibo.com/5237960088" target="_blank">翼欣梓</a>：天网工程连个组织卖淫嫖娼垫付嫖资的陈老板都抓不到，我看还是不用搞了。</p>
-<p><a href="http://weibo.com/2271017960" target="_blank">山野一民</a>：问题是，天网后面的视频设施，在对老百姓有利的时候，就经常失灵！能向社会公布谁对这种失灵负责吗？比如说：陈队的行踪呢？</p>
-<p><a href="http://weibo.com/pcqskyer" target="_blank">浅唱Freedom</a>：没有法治，哪来的安全感？这些摄像头，一旦涉及到某些人，视频想没有就没有的。顺便问一句，陈队长呢？</p>
-<p><a href="http://weibo.com/2462073243" target="_blank">我不卖冰红茶了</a>：能看到陈队吗<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"><img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
-<p><a href="http://weibo.com/5541812370" target="_blank">圈里面的伍文韬</a>：陈队长呢？下面保持队形，不要忘记陈队长。向陈队长致敬！</p>
-<p><a href="http://weibo.com/chenshaoju" target="_blank">陈少举</a>：有什么用？陈佳罗（陈检罗？）在哪？还不是找不到？被钓鱼执法了，摄像头肯定就坏了，录像肯定就丢失了，人肯定就进入死角了。</p>
-<p><a href="http://weibo.com/5419405990" target="_blank">WO还没吃饭呢</a>：陈家骡子，驴马日三方混血，日本人的样貌，驴的智商，马的逃跑速度。常年卧底长沙警方。终被发现并被长沙警方秘密处决，如此奇功，不求褒奖，深藏功与名。</p>
-<p><a href="http://weibo.com/1687504650" target="_blank">从容加淡定</a>：陈队，son of bitch</p>
-<p><a href="http://weibo.com/5379845524" target="_blank">超级理性禽兽</a>：这么多摄像头没拍到陈检罗 别扯淡了</p>
-<p><a href="http://weibo.com/3209357113" target="_blank">recool_2013</a>：陈队长安好？<a href="http://weibo.com/n/%E9%95%BF%E6%B2%99%E8%AD%A6%E4%BA%8B?from=feed&loc=at" target="_blank">@长沙警事</a></p>
-<p><a href="http://weibo.com/5054804469" target="_blank">半醉癫狂</a>：需要用的时候不是死角没拍到，就是监控坏了……</p>
-<p><a href="http://weibo.com/1823712200" target="_blank">memnoon</a>：然而并没有什么卵用，平民百姓的事用不上，都是为统治阶级服务的。</p>
-<p>><a href="http://weibo.com/2372318825" target="_blank">关注三农关注农村发展</a>：这么多钱吗的连个陈队都抓不到。丢人</p>
-<p><a href="http://weibo.com/rigar" target="_blank">RigarKwok</a>：大家別急，有了天網，陳隊長就能找到了<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
-<p><a href="http://weibo.com/3893230164" target="_blank">瑞哥46</a>：陈队长，你死了，可是永远活在俺们心里。我每天操你一万遍。</p>
-<p><a href="http://weibo.com/1858643964" target="_blank">老粗</a>：看评论 我明白了一件事 凡事一丑遮百俊啊 信任这东西 就像白纸一张 弄皱了 再抹平很困难了</p>
-<blockquote><p> 更多相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E4%BC%AF%E9%97%A8/">区伯门</a></p></blockquote>
-<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E4%BC%AF%E9%97%A8/?category=18271" rel="tag">区伯门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%B2%99%E8%AD%A6%E4%BA%8B/?category=18271" rel="tag">长沙警事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%A3%80%E7%BD%97/?category=18271" rel="tag">陈检罗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B8%82%E6%B0%91%E5%8F%91%E7%9F%AD%E4%BF%A1%E4%B8%AD%E6%9C%89%E8%B5%8C%E5%AD%97-%E6%88%90%E6%95%8F/" target="cdt-mirror">南方都市报｜广州一市民发短信中有“赌”字 成敏感词被停机</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2013/07/%E6%95%8F%E6%84%9F%E7%93%B7.jpg" alt="敏感瓷" width="309" height="500">南都讯 “和你赌一把——你认为屠呦呦会不会去瑞典领诺贝尔奖？”黄埔的高先生发的这条短信，惹来了“停机之祸”。中国移动称是系统后台抽取关键字，“赌”是敏感词，需要写承诺书，保证不再发垃圾短信。高先生认为这是无理要求，拒绝了。究竟短信里还有什么字眼不能发？</p>
-<p>给朋友发短信被停机</p>
-<p>69岁的高先生退休在家，“平常我很关注国家大事，像最近的青岛大虾和屠呦呦获诺贝尔奖，我都很感兴趣”。前日（12日）下午，高先生看到关于屠呦呦腰不好，不保证去瑞典领诺贝尔奖的新闻，灵机一动，想跟朋友们“小小打一个赌”。</p>
-<p>他在手机打着，“和你赌一把——你认为屠呦呦会不会去瑞典领诺贝尔奖？”短信写好后，他打算发送给几个朋友，结果短信无法发出。</p>
-<p>13日上午，高先生的手机停机了，无法使用。“我以为是手机钱不够了，去街口的小卖部充值”，档主帮他查手机余额，然而并不是欠费。</p>
-<p>中午时分，他到了中国移动黄埔公园服务厅一探究竟。客服告诉他，可能是因为短信中含有敏感词“赌”，所以被识别为垃圾短信。根据公司规定，发送垃圾短信有可能被停机，高先生就是这种情况。</p>
-<p>这个说法高先生尚且能接受，但是紧接着客服让他写承诺书，保证以后不再发垃圾短信。这下高先生被激怒了，“我并不是发垃圾短信，凭什么让我这样承诺”。他拒绝了写承诺书。</p>
-<p>客服告诉他，如果不写承诺书会被登记下来，处理结果仍然不确定。</p>
-<p>短信敏感词还真不少</p>
-<p>南都记者联系中国移动客服，其称发送广告、赌博、暴力、凶杀、恐怖等短信，会被视为发送垃圾短信。系统电脑自动抽取关键词，例如“赌”、“银行卡”、“暴力”、“毒品”、“财产”、“金额”、“发票”等都是敏感词。经公安机关审查之后，才会认定为垃圾短信，进而采取停机措施。</p>
-<p>客户被认定发送垃圾短信后，中国移动规定要写承诺书，不写的将会被登记。但是具体处理结果待进一步通知。</p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/space/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93">敏感词库</a></p></blockquote>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B8%82%E6%B0%91%E5%8F%91%E7%9F%AD%E4%BF%A1%E4%B8%AD%E6%9C%89%E8%B5%8C%E5%AD%97-%E6%88%90%E6%95%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%AD%E4%BF%A1/?category=18271" rel="tag">短信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +709,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +719,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E6%98%8E%EF%BC%9A%E8%AF%B7%E8%8B%B1%E6%96%B9%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E4%BA%BA%E6%9D%83/" target="cdt-mirror">法广 | 刘晓明：请英方不要跟习主席谈人权</a>
@@ -162,7 +162,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F/?category=18271" rel="tag">传媒大观察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F/?category=18271" rel="tag">刘伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85/?category=18271" rel="tag">南都记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F/?category=18271" rel="tag">记者刘伟</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%85%B1%E7%BA%AA%E5%A7%94%E5%AE%A3%E5%B8%83%E5%8F%8C%E5%BC%80%E5%9B%9B%E5%90%8D%E7%9C%81%E7%BA%A7%E5%B9%B2%E9%83%A8/" target="cdt-mirror">BBC | 中共纪委宣布“双开”四名省级干部</a>
 </h2>
@@ -558,7 +558,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E4%BC%AF%E9%97%A8/?category=18271" rel="tag">区伯门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%B2%99%E8%AD%A6%E4%BA%8B/?category=18271" rel="tag">长沙警事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%A3%80%E7%BD%97/?category=18271" rel="tag">陈检罗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%EF%BD%9C%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B8%82%E6%B0%91%E5%8F%91%E7%9F%AD%E4%BF%A1%E4%B8%AD%E6%9C%89%E8%B5%8C%E5%AD%97-%E6%88%90%E6%95%8F/" target="cdt-mirror">南方都市报｜广州一市民发短信中有“赌”字 成敏感词被停机</a>
 </h2>
@@ -653,7 +653,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -663,5 +663,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

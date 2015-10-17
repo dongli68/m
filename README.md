@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%97%8F%E5%AD%A6%E8%80%85%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%A6%81%E6%B1%82%E5%AE%B6%E4%BA%BA%E7%94%B3%E8%AF%89%E6%A1%88%E4%BB%B6/" target="cdt-mirror">BBC｜中国维族学者伊力哈木要求家人申诉案件</a>
@@ -460,7 +460,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">官方微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">网友评论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/" target="cdt-mirror">好奇心日报 | 文化部发了第一条微博 不到 6 小时评论就超了 4 万</a>
 </h2>
@@ -481,7 +481,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">官方微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">网友评论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%83%8F%E9%AC%BC%E5%AD%90%E8%BF%9B%E6%9D%91-%E5%B1%B1%E4%B8%9C%E5%8F%88%E4%BC%A0%E5%BC%BA%E6%8B%86%E5%91%BD%E6%A1%88/" target="cdt-mirror">博谈网 | “像鬼子进村” 山东又传强拆命案</a>
 </h2>
@@ -700,7 +700,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -710,5 +710,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

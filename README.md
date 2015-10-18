@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%8E%E8%A3%94%E5%90%8D%E5%AA%9B%E5%80%9F%E6%89%B6%E8%B4%AB-%E5%BD%93%E4%B8%AD%E5%9B%BD%E5%95%86%E4%BA%BA%E8%A1%8C%E8%B4%BF%E4%B8%AD%E9%97%B4%E4%BA%BA/" target="cdt-mirror">苹果日报｜华裔名媛借扶贫 当中国商人行贿中间人</a>
+</h2>
+<p><p><strong>【编者注】严雪瑞（Sheri Yan）之父严阵为知名画家，曾创作诗画作品《中国梦》。严雪瑞在其<a href="https://www.linkedin.com/pub/sheri-yan/87/48a/a42">LinkedIn页面</a>个人介绍中称，自己掌管的公司eChinaCash 与中石化签署了一份价值数百万美元的20年合约，为其管理预付积分卡“中国石化加油卡”项目。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/6b5bc799gw1ex1o47bnjbj20f00qo42m.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/6b5bc799gw1ex1o47bnjbj20f00qo42m.jpg" alt="6b5bc799gw1ex1o47bnjbj20f00qo42m" width="500" height=""></a><br><em>（图片来源：新浪微博<a href="http://weibo.com/yoshimi77">@李良美</a>）</em></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E7%BE%8E%E5%8F%8D%E8%85%90%E8%B5%B7%E8%AF%89%E6%BE%B3%E9%97%A8%E5%95%86%E4%BA%BA%E5%90%B4%E7%AB%8B%E8%83%9C%E5%92%8C%E5%89%8D%E8%81%94%E5%A4%A7%E4%B8%BB%E5%B8%AD/">BBC｜美反腐起诉澳门商人吴立胜和前联大主席</a></p></blockquote>
+<p>联合国大会前主席阿什（John Ashe）收取中国商人贿赂桉另一名被告、全球持续发展基金总干事Sheri Yan（音译：严雪瑞）周五在美国法庭获准以50万美元（390万港元）保释，要在寓所内接受软禁。这位美籍华裔社交女王被控打着非营利组织的幌子，当起中国商人和联合国官员的行贿中间人。</p>
+<p>据澳洲媒体今日悉尼披露，美国检察官指严雪瑞在前联合国大会主席的John Ashe，以及加勒比岛国的一名外交官的受贿桉中赚取了数十万澳元。严被控打着政府非营利组织「全球持续发展基金会」（Global Sustainability Foundation）的幌子，向Ashe每月支付2万澳元(约11.3万港元)。在一封2012年发给John Ashe的电邮中，严雪瑞写道：「John，长话短说，本周我会向你的帐户存入30万澳元(约169万港元)。」</p>
+<p>全球永续发展基金会由严雪瑞创办，高举帮助人类脱贫、获得良好教育、喝乾淨的水等崇高宗旨，直到被美国联邦调查局FBI发现涉联合国贪腐弊桉。纽约检控机关在10月6日发表的一份详细声明中表示：严雪瑞和Heidi Park（基金会财务总管，音译：朴海迪）以中国商人代表身份寻求投资时贿赂了联合国大使John Ashe，根据指控，严和朴安排了高达80万美元的贿赂金送给Ashe以换取Ashe和安提瓜的其他官员给中国商人行方便。</p>
+<p>严雪瑞父亲是解放军文工团着名艺术家严阵；丈夫Roger Uren是前澳洲情报分析员。这位57岁名媛周身刀，在社交平台上的自我介绍称：在处理政府与商业事务上有很丰富的经验，有许多成功为中国、美国、澳洲公司提供战略性建议的记录。她曾受聘于ABC电视台当职业说客负责与中国间的沟通；担任过美国一家支付平台的联合CEO；更在第68届联合国大会的时候成会议主席顾问。</p>
+<p>她不光在联合国长袖善舞，在澳洲政坛也是八面玲珑。她擅长搞高级派对，办公室和网站上有她与前澳洲工党领袖Bob Hawke和Westfield创办人之一的亿万富翁Frank Lowy的合照。前澳洲总理陆克文的哥哥Greg Rudd也曾在严雪瑞的公开社交平台上留言。陆克文执政时期，严的丈夫Roger Uren曾有机会成为澳洲驻华大使，至今是澳洲驻华使馆举办各种活动的常客。</p>
+<p>《悉尼先驱报》</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%8E%E8%A3%94%E5%90%8D%E5%AA%9B%E5%80%9F%E6%89%B6%E8%B4%AB-%E5%BD%93%E4%B8%AD%E5%9B%BD%E5%95%86%E4%BA%BA%E8%A1%8C%E8%B4%BF%E4%B8%AD%E9%97%B4%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%9F%B3%E5%8C%96/?category=18271" rel="tag">中石化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E4%B8%9A%E8%B4%BF%E8%B5%82/?category=18271" rel="tag">商业贿赂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E5%9B%BD%E5%86%85%E6%96%B0%E6%9E%81%E6%9D%83%E5%9B%BD%E9%99%85%E6%96%B0%E5%86%B7%E6%88%98/" target="cdt-mirror">莫之许：国内新极权国际新冷战</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/tpp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/tpp.jpg" alt="tpp" width="550" height="383"></a></p>
@@ -634,44 +653,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8D%E8%A6%81%E4%B8%80%E5%90%AC%E5%88%B0%E5%BB%B6%E8%BF%9F%E9%80%80%E4%BC%91%E5%B0%B1%E6%80%A5/" target="cdt-mirror">【异闻观止】环球时报 | 不要一听到延迟退休就急眼</a>
-</h2>
-<p><p>李长安</p>
-<p>近日，人社部部长尹蔚民在介绍“十二五”以来就业和社会保障工作成就时透露，一旦延迟退休改革方案经中央批准后，就将向社会公布。其具体做法将是通过小步慢走的方式，每年推迟几个月，逐步推迟到合理的退休年龄。</p>
-<p>从官方的表态分析，基本上可以判定延迟退休政策已经不再是“纸上谈兵”，而是即将出台并落地实施了。但从舆论反应来看，似乎反对者远超赞成者，质疑声响成一片。概括起来，这些质疑主要集中在以下几个方面：一是延迟退休就是政府“与民争利”，无非就是为了给养老保险基金“堵窟窿”；二是延迟退休只对少部分专业型人才有利，普通劳动者延退从经济上来说根本“划不来”，会造成社会不公；三是延迟退休会占用年轻人岗位，从而加剧就业压力。</p>
-<p>网民们的担忧从表面上看似乎很有道理。应该说，延退政策之所以迟迟无法推出，也与一些媒体长期单向宣传令舆论一边倒有关。然而，事实真相究竟如何，恐怕还需要理性的判断和分析。</p>
-<p>实事求是地说，政府并不存在着通过延迟退休“与民争利”的动机。建立养老保险制度是世界上绝大多数国家保障民生的重要措施，其根本目的就是为广大民众的生活在退休后不至于因为收入降低而陷入困境。在我国现行的养老保险中，劳动者只需缴纳其中的8%，而单位则需要再缴纳20%。作为补充养老保险的企业年金或职业年金，个人缴纳的比例是4%，而单位还要再缴纳4%。这样才构成了全部退休金的基础。而通过延迟退休的方式筹集养老金，似乎也比减持国有股或出售国有资产来给养老金“堵窟窿”要慢得多，可见延退只是缓解养老金潜在压力的途径之一。</p>
-<p>对普通劳动者来说，延迟退休在经济上未必不划算。试想：劳动者在岗的工资显然要比退休时要高，多在岗几年，收入自然要比早退休几年要多。从实际来看，不少人都希望在退休后再返聘，其实就是通过“准在岗”的方式来再挣一份钱。另一种流行的谬误则是“国家养老不如自己养老”，且不说散布者的计算方法存在着错误，仅靠自己养老就不能充分发挥养老金的共济性质，也无法享受到国家和单位的补助。对于大多数劳动者来说，光靠自己“单打独奏”而不要国家、单位和其他劳动者的共济补助，这笔账谁赢谁亏岂不是一目了然？事实上，在多缴多得、少缴少得的制度设计下，延迟退休实际上能使劳动者获得更多的收入。而对愿意早退少拿的劳动者，延迟退休制度可奉行自愿原则。</p>
-<p>延迟退休也是应对“劳动力拐点”的必要之举，有益于保持人口红利。中国的劳动力拐点已经来临。通过延迟退休能有效增加劳动力总量，扩大中国劳动力的比较优势，而人口红利的持续是中国经济继续保持较快增长的重要推力。经济增长创造的岗位，远比延迟退休带来的岗位占用要多。</p>
-<p>一听到延迟退休就红眼的网民们不妨冷静下来。从国家账算到个人账，延迟退休都是一件有利的事情。况且，过早退休带来的社会问题远比延迟退休可能引发的问题要多得多。只有趋利避害，在保障劳动者合法权益的基础上，尽可能地挖掘更多的劳动力潜力，中国经济稳增长、促民生的目标才能顺利实现。▲（作者是对外经济贸易大学公共管理学院教授）</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>SinGeno_Jr：哈哈哈哈哈，我说怎么越看越不对呢，末了一看，坏球施暴。1. 什么个人交8%，企业交20%，原来企业都是印钞票的企业，不需要在乎员工创造多少价值的？这20%不是员工自己工作换来的？2. 为啥退休了，还想要返聘？一部分是高精尖人才，这类人能创造的价值不是简单就用金钱能衡量的。另一部分，退休金不够花，养老不说，还要防病，那只能继续工作。当然，还有一部分，就是每天上班也是喝茶报纸，呆家里也一样，那为啥不领着工资呢？</p>
-<p>大堂双龙：不要一听到民众有反向意见就急着打压。</p>
-<p>伟人山：麻的延迟退休能多几个鸟钱，何况多那点钱能应付得了货币贬值吗？中国平均寿命73吧，65岁退休能活个8年，这账算的不赖。</p>
-<p>老刘：不要听见纪委敲门就跳楼。</p>
-<p>Justjustone：从未见过如此厚颜无耻之人。</p>
-<p>那年我们吃着的干豇豆腊肉：建议愿意退的退，不愿退的继续上班，反对强制。</p>
-<p>shunnar：不要别人一急眼，你就忙着跳出来。</p>
-<p>叶同学的车：可以延迟退休，请先立法公开官员财产；不要一听到公布官员财产就急眼！！</p>
-<p>老公说随便嫁：除了领导延迟退休有好处外，我们这些下面的基层人员延迟退休有什么好处？领导延迟退休可以多当几年官，多搞几年腐败，我们这些普通员工，呵呵了。说话真不要脸！</p>
-<p>崔大梨_赞：欧洲现在越来越社会主义，中国反而更加资本主义了。</p>
-<p>娜Na鸭舌头：工资是高了。可是我交给国家的钱，国家打算什么时候还给我？</p>
-<p>小地主爱吐槽：养老保险国家统筹部分占工资20%，你们他妈想怎么用就怎么用，问过我们吗？</p>
-<p>龙润-茶物语：不同意，老百姓，私人企业几个能上班到60多岁的，真的搞笑。公务员80岁不退休都可以，随便国家怎么搞。</p>
-<p>杰之韵888：我有选择的余地嘛？</p>
-<p>曰是为了日：耄耋老人靠拾垃圾过活不一定不好。首先拾垃圾的收入肯定比国家几十块的养老金多，其次可以净化环境、降低环卫工工作强度、减少子女负担、拾垃圾也是一种锻炼舒活筋骨……怎么看老人靠拾垃圾生活于国于家于人都有利，我们号召所有老人都去上街拾垃圾，不给国家增加负担。（你们就是这么一个鸟意思吧？）</p>
-<p>O本初：冷暖自知，高收入无压力者不想退，低收入压力重者想退，而政策是前者制定的，当年定60退今天改延迟退都是前者制定的，解释权和话语权永远归前者。</p>
-<p>仙风3283482083：当官的希望延退，因为舍不得丢掉权力，而且工作轻松待遇又好，呼风唤雨。老百姓希望早退，因为劳动强度大收入又低，特别是一线工人和下岗职工!但政策的制定者又恰恰是当官的，奈之如何?</p>
-<p>Monkey屁股是红色：老年人在上班，年轻人找不到工作在社会上闲逛，不给你惹事才日了狗了。</p>
-<p>迷糊虫e：当皇帝当然想当到死咯。底层百姓当然希望早点退休。说白了这制度说是坑天下普通百姓，富中国官员。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%8D%E8%A6%81%E4%B8%80%E5%90%AC%E5%88%B0%E5%BB%B6%E8%BF%9F%E9%80%80%E4%BC%91%E5%B0%B1%E6%80%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E8%AE%BE%E8%AE%A1/?category=18271" rel="tag">制度设计</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%B6%E8%BF%9F%E9%80%80%E4%BC%91/?category=18271" rel="tag">延迟退休</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C/?category=18271" rel="tag">社会保障</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +664,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +674,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

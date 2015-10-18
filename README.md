@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,69 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%8F%88%E7%88%86%E5%9B%A0%E6%B6%89%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%E7%BD%AA%E8%80%8C%E8%A2%AB%E8%B7%A8/" target="cdt-mirror">端传媒｜调查记者又爆因涉“国家秘密罪”而被跨省刑拘</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/W020140310603825183570.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/W020140310603825183570.jpg" alt="刘伟" width="400" height=""></a><p>南方都市报记者刘伟。 南方都市报图片</p></div>
+<p>10月8日，《南方都市报》记者刘伟以“涉嫌非法获取国家秘密罪”，被江西警方从成都刑事拘留。</p>
+<p>这天傍晚，刘伟从成都家中赶赴机场，准备飞往北京参加媒体培训，晚上10时后“失联”。后据一个也在从事深度新闻报导的媒体朋友回忆，当晚6点多钟他还曾在微信上与此友聊天，鼓励要坚持做新闻，因为“有意义啊！”</p>
+<p>刘伟是辽宁大连人，曾在《21世纪经济报导》、《新京报》工作，2009年入职《南方都市报》深度报导部，现任该部门副主任。刘伟从2013年起， 开始跟踪报导“大师”王林并在《南方都市报》上刊发关于王林案件的系列报导。这组报导，使他获得南方报业2014年度记者荣誉。</p>
+<p>生于1952年的萍乡人王林，是大陆最知名的“气功大师”之一，其传奇经历，因有两岸三地政商娱的顶级大腕不断加持，更显得神秘。传说拥有“超自然 能力”的王林，其名字一度是财富、地位的代名词。但自2013年大陆媒体爆出王林的种种“丑闻”，并开始质疑其超能力和与政商界的神秘关系。刘伟于彼时开 始介入深度报导王林系列案件，直至被拘留时止。</p>
+<p>据萍乡市公安局安源分局向家属出具的拘留通知书显示，“根据《中国人民共和国刑事诉讼法》第80条之规定，我局已于2015年10月9日5时将涉嫌 非法获取国家秘密罪的刘伟刑事拘留，现羁押在南昌市进贤县看守所。”此拘留通知书的电子版本16日傍晚方才出现在中国社交媒体上，一时间迅速在网络上流 传，各方哗然。</p>
+<blockquote><p>多名在职记者和前调查记者在社交媒体上表示，此次必须发声抗议，“否则中国调查新闻将不复存在。”</p></blockquote>
+<p>10月16日晚22时，《南方都市报》发表一份声明，表示“刘伟因履行职务而陷入丧失人身自由的困境”，“深感震惊和意外，立即启动应急程序，紧急展开相关工作，帮助刘伟家属聘请辩护律师，维护记者正当的合法权益”。</p>
+<p>南方都市报还表示已“派员陪同家属和律师赴江西萍乡等地，10月13日律师到看守所会见刘伟; 10日和14日，家属、律师先后两次递交取保候审申请，均被警方拒绝”。</p>
+<p>近年来，中国大陆媒体记者因为职务报导行为遭警方羁押和逮捕事件已发生数起，而作为资深调查记者的刘伟，因为深入调查报导知名公共案件，被施以涉嫌 “非法获取国家秘密罪”的严重罪名，再次引发媒体和司法界人士的强烈反弹。多名在职记者和前调查记者在社交媒体上表示，此次必须发声抗议，“否则中国调查 新闻将不复存在。”</p>
+<p>16日晚，多家大陆门户网站和自媒体平台均第一时间报导和转发，但截止17日下午，在中国互联网上大量关于“南都刘伟案”的新闻报导和帖子已被删除。</p>
+<p>截至发稿时，端传媒记者通过相关渠道获悉，刘伟10月8日被刑拘，但消息在8天以后才公布，并非是他供职的《南方都市报》的决定。</p>
+<p>“消息是（刘伟）家属公布的，这之前一直在和江西方面沟通，但过程并不顺畅，家属的耐心是有限度的，他们选择公开，可以理解。”知情人告诉端传媒。</p>
+<p>另据知情人透露，对于此案的各方交涉，已经超出了报社和地方公安分局的层级，“简单说，就是江西省不买广东省的帐”。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/2126b195695f40a4bdf82f02221c88c1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/2126b195695f40a4bdf82f02221c88c1.jpg" alt="2126b195695f40a4bdf82f02221c88c1" width="575" height=""></a><p>王林。摄：林亦非/端传媒</p></div>
+<h3>一切皆因报导“王林案”而起</h3>
+<p>今年7月，王林“弟子”，多次举报王林“恶行”的江西商人邹勇遇害身亡。8月20日，江西省萍乡市公安局安源分局经提请萍乡市安源区人民检察院批准，对王林等人以涉嫌非法拘禁罪或故意杀人罪执行逮捕。</p>
+<p>“大师王林”这一称谓，以及围绕王林和邹勇发生的刑事案件与政经秘闻，重新回到媒体和公众的视野里。</p>
+<p>刘伟再度赴萍乡采访，随后通过《南方都市报》独家刊发了王林与他人签订的多份承诺书。承诺书上的内容多数为王林要求他人帮忙调查邹勇的犯罪证据及将 其抓捕归案等。9月中旬，王林秘书雷某因涉嫌非法获取国家秘密罪被刑拘。据王林前妻张某的律师张新透露，与雷某同时被拘的还有一名王林案中的警方办案人 员。</p>
+<p>据搜狐传媒报导，刘伟被刑拘，或与他接触到了相关案件信息有关。有一名民警违规向王林家属方提供了案件信息，刘伟采访王林家属时获得了部分信息。</p>
+<p>据媒体报导和此前曾接触过刘伟的报社同仁透露，上述数人被刑事拘留后，刘伟曾有不良预感，已向报社提交了一份情况说明。（后附）</p>
+<p>另据多家媒体报导，过去几天南方都市报社一直在积极争取办理取保，与江西警方保持联系，江西警方未提出掌握刘伟与有雷某、张某或者王林有经济往来的证据。但江西警方还是两次拒绝了刘伟家属和律师的取保候审申请。</p>
+<h3>“国家机密”的模糊标准</h3>
+<p>非法获取国家秘密罪，属于《中华人民共和国刑法》第六章“妨害社会管理秩序罪”中的“扰乱公共秩序罪”，该法第二百八十二条规定，以窃取、刺探、收买方法，非法获取国家秘密的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利；情节严重的，处三年以上七年以下有期徒刑。</p>
+<p>财新网法制记者陈宝成通过解读法条，对萍乡警方刑拘刘伟的做法提出了质疑。他认为，要构成“非法获取国家秘密罪”，需要行为人具有主观故意，即明知是国家秘密却故意以窃取、刺探、收买方法非法获取。如果当事人并不知道所获取的是国家秘密，就不构成该项犯罪。</p>
+<p>而根据国家保密法律的规定，非法获取行为的对象是国家秘密，包括法定的“绝密”、“机密”、“秘密”三种级别的国家秘密。国家秘密以外的情报、信息等，不属于本罪的对象。如果信息载体并未依法事先明确标注“绝密”、“机密”、“秘密”，也不应认定为构成该项犯罪。</p>
+<p>同时，因为记者的行为是职务行为，此处的“行为人”就不能仅仅理解为记者，因为按照报纸出版流程，还应当包括责任编辑、签版主编、值班总编等；而上述人等的上述行为与刘伟一样均是职务行为，而非个人行为，其法律后果也应由单位承担。</p>
+<p>对于大陆记者，“国家机密”如悬顶之剑，随时会有威胁。</p>
+<blockquote><p>保密系统流传一则笑话，说境外间谍对来自中国的情报非常头疼，因为数量惊人，且大部分无密可言，为了不错过有价值的信息，他们又不得不紧盯住每一张纸片。</p></blockquote>
+<p>近些年，已发生数起因记者报导行为涉及国家机密的司法案件，引发公众和法律界对此类媒体职业行为涉密案件中的执法尺度的忧虑，也使近些年越来越多的调查媒体记者，因巨大法律风险而选择离开记者职业。究其主要原因是中国刑法中对于“国家机密”的定义，模糊而随意。</p>
+<p>“我常年跑部委，就是到处打听即将出台的文件或者政策，干的就是这个活儿。按某些标准，发出来的稿件，十有八九都涉嫌泄露国家机密，太恐怖了，”在刘伟被刑拘后，一位不愿意透露姓名的财经记者称。</p>
+<p>媒体人秦旭东曾撰文称，全国人大内务司法委员会调研发现，多年来各地随意定密现象比较普遍，往往“一密定终身”，甚至将工作秘密、商业秘密等同于国家秘密管理，有的部门将所有文字材料及领导讲话一律纳入绝密或机密范围。</p>
+<p>秦旭东的文章还指出：在确定国家秘密的主体资格以及权限上，现行法律没有严格规范和限制，不少单位和部门对随意标注国家秘密标志已经习以为常，“涉及国家秘密”往往成为权力滥用和侵害公民权利的借口。</p>
+<p>《南方周末》2009年的一篇报导称，中国每年产生数百万份秘密文件。保密系统流传一则笑话，说境外间谍对来自中国的情报非常头疼，因为数量惊人，且大部分无密可言，为了不错过有价值的信息，他们又不得不紧盯住每一张纸片。</p>
+<p>此前，1944年出生的大陆资深记者高瑜，于2014年4月24日，因涉嫌为境外非法提供国家秘密罪，被北京警方刑拘。今年4月份一审被判处有期徒 刑7年。判决书中提到的“国家机密”，系中共中央下发的《关于当前意识形态领域情况的通报》，简称九号文件，其中最有名的内容就是民间俗称的“七不讲” （即宪政民主、普世价值、公民社会等）。</p>
+<p>法院判决书指，高瑜是在曾经担任中共前总书记赵紫阳智囊的姚监复手中，取得中共中央办公厅“九号文件”。高瑜在明知文件是国家机密的情况下，将该文件电子版发送给境外明镜新闻出版集团创办人何频，触犯法律。</p>
+<p>高瑜是否向何频提供过“九号文件”，控辩双方各执一词，何频曾通过律师表明，在明镜集团刊登的（那份）文件并非来自高瑜。而新闻业界则更关心所谓九 号文件，是否属于国家秘密范畴。有报导称，早在明镜新闻发布之前一年多，大陆的网络上对“七不讲”已有讨论，甚至包括不少地方政府的官方网站。</p>
+<p>中共党报人民日报下属的《环球时报》，则在社论中称，中国的保密法不是一个用来描着玩的字帖，“高瑜没有任何权利可以特殊，她为境外新闻机构供稿，必须以合法途径做事，如果她对法律没有起码的敬畏感，视非法行事为儿戏，那么法律一定会在不远的地方等她。”</p>
+<p>此外在大陆的敏感案件中，司法机关常常以涉及“国家机密”名义，限制辩护人的会见权。</p>
+<p>在刘伟被刑拘后，上海律师斯伟江亦提出了这样的质疑：“如果这样算，上央视的案子有大量侦查期间的信息，央视都涉嫌犯罪了？”</p>
+<p>10月17日，接近江西警方的当地媒体人，有传言，“刘伟可能会很快释放”。</p>
+<p>但据不愿透露姓名的知情人透露，就与江西方面的前期沟通看，对方很强硬，“昨天刑拘的消息传开了，今天就放人？逻辑上说不通。”</p>
+<p>17日下午，端传媒记者拨打了刘伟的手机，语音提示为暂时无法接通，“机主已启用来电管家服务”。</p>
+<h3>附录：刘伟关于采访的情况说明</h3>
+<p><strong>我是在王林案发第三天抵达萍乡开始采访，因为之前与王林一家人熟悉，与家属的沟通比较顺利。因为涉及刑事案件，采写过程中一直注重平衡性把握，也一直与律师、警察朋友保持沟通，不断咨询。</strong></p>
+<p><strong>我们采访一切可以采访、愿意接受采访的人。采写的稿件信源多方，力求相互交叉印证，主要的方向是案发之前王林与邹勇之间的是是非非。</strong></p>
+<p><strong>这其中，王林的秘书雷帆曾说，有一位朋友可能有渠道获知王林案的进展情况，我问她对方的姓名、职业，都没有获得回复。这期间她曾借我们的身份证（最后用的是宋凯欣的）在萍乡当地办理了两张电话卡，说是方便在当地使用。</strong></p>
+<p><strong>8月初的一天，我再次到萍乡采访。在萍乡高铁站下车后，王林的秘书雷帆开车带我来到萍乡当地的一个饭店，说是她的朋友和王林的妻子 在吃饭，一起谈事情，便把我也拉到了饭店吃饭。抵达后，雷帆的朋友把我的背包和手机都拿到了其它地方。我坐下后，他与王林的妻子一直在说事情，这其中谈及 了王林的案子。在此期间，对方没有进行自我介绍，但他知道我是记者，他没有回避，我插话问了几个问题，他还说希望媒体可以从舆论的角度帮帮忙，我说我们只 能根据我们的采访进行客观中立的报导。</strong></p>
+<p><strong>此后，我没有再见过这个人，对这个人的情况不是很清楚，我曾提醒过雷帆，不要被人骗了。这个人的话，由于是单方信息源，当时又没有 做记录，又与我们当时的报导角度不符，我们谨慎对待，此后也没有再写过稿子。这期间，雷帆曾谈及过对方要钱的事情，由于我们是外人，也与采访报导无关，没 有介入。后来王林的妻子也就钱的事情谈及过，但由于钱是敏感的事情，又与采访无关，我们一直不方便过多介入，但也私下提醒过王林的妻子，对这人的身份究竟 是什么，是否有了解，王林的妻子也是不清楚情况。王林的妻子是否给过对方钱，给了多少钱，这个过程由于是他们家的私事，我们都不清楚，也超出了我们的采访 范围，就都没有太过问，人家也不会告诉我们。</strong></p>
+<p><strong>整个采写期间，我是与华西都市报记者一起，后来由于有了报导注意，我们就撤回了。此后，没有律师要会见王林，因为我们一直期望拿到 独家一手资料，每次会见都与律师前方看守所，但律师每次跟我们说的情况有限，也大体雷同，但目前为止，只是了解到王林自己的一些说法。由于侦查阶段，我们 能够了解的信息实在有限，目前的采访时处于保持跟进状态，待进一步进展后， 才能有效突破。</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%8F%88%E7%88%86%E5%9B%A0%E6%B6%89%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%E7%BD%AA%E8%80%8C%E8%A2%AB%E8%B7%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">”泄露国家机密”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5/?category=18271" rel="tag">南方都市报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F/?category=18271" rel="tag">记者刘伟</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98-%E6%B6%89%E5%AB%8C%E8%8E%B7%E5%8F%96%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/" target="cdt-mirror">美国之音｜南都记者被刑拘 涉嫌获取什么国家机密？</a>
 </h2>
 <p><p>中国《南方都市报》记者刘伟10月9日因多次报道“气功大师”王林案，被江西省萍乡市警方以“涉嫌非法获取国家秘密罪”被刑拘，羁押于南昌市进贤县看守所。《南方都市报》10月16日发表声明回应称，刘伟“对王林案的采访、报道、持续关注等，均属履行工作职责的行为”。</p>
@@ -86,7 +146,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bit/?category=18271" rel="tag">BIT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%97%8F%E5%AD%A6%E8%80%85%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%A6%81%E6%B1%82%E5%AE%B6%E4%BA%BA%E7%94%B3%E8%AF%89%E6%A1%88%E4%BB%B6/" target="cdt-mirror">BBC｜中国维族学者伊力哈木要求家人申诉案件</a>
 </h2>
@@ -613,32 +673,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%86%85%E8%92%99%E7%89%A7%E6%B0%91%E8%AF%B7%E6%84%BF%E4%BA%94%E4%BA%BA%E8%A2%AB%E6%8A%93-%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB%E4%B9%8B%E5%AD%90%E8%A2%AB/" target="cdt-mirror">自由亚洲 | 内蒙牧民请愿五人被抓 异议人士之子被打后遭扣押</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/afae4191-977f-42b6-a0ae-aac493607c58.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/afae4191-977f-42b6-a0ae-aac493607c58.jpeg" alt="afae4191-977f-42b6-a0ae-aac493607c58" width="550" height="432"></a><br>
-（乌拉特中旗村民向王君书记请愿。牧民提供/记者乔龙）</p>
-<p>内蒙古巴音淖尔盟乌拉特中旗多个乡镇的村民，获悉内蒙古自治区党委书记王君，本周三抵达巴彦淖尔盟五原县巡视，数十人前往旗政府递交请愿信，反映草场问题，遭到公安抓捕。牧民周四称，五位请愿者被抓。另外，异议人士哈达的儿子威勒斯当天上午被公安带走，双方争执期间，威勒斯被殴打流血。哈达的妻子新娜和儿子周三遭到包头市公安殴打后，被带走，其中威勒斯可能会被拘留。</p>
-<p>本周三，乌拉特中旗众多牧民获悉中共内蒙古自治区党委书记王君抵达五原县，并到乌拉特中旗巡视，数十位农民集体到旗政府所在地海流图镇请愿，遭到公安阻止，另有请愿者被公安推上警车带走。牧民提供给本台的现场视频和图片显示，牧民们展示写有“要求帐目公开、彻查贪腐、还我草场”的横幅，在公路上准备迎接王君的车队。视频中，公安将一位牧民推上警车，又与现场牧民发生争执。</p>
-<p>长期关注牧民维权并代牧民写申诉材料的内蒙维权人士新娜，周三晚间告诉自由亚洲电台，当地牧民在路边举着写有“希望王君书记给牧民做主”的牌子，下午四点多，突然有大批警察上前抓人：“今天下午近四点，乌拉特中旗牧民在旗附近路边等，听说王君书记要来，已经到了五原县。结果在路边等候的牧民全部被抓进东街派出所。听说等王君走后放人，现在他们的手机都打不通。有特警和武警”。</p>
-<p>牧民巴特尔敢周四对记者说，至少五位牧民被抓：“抓走了五个牧民，是晚上五点多。后来他们的电话一直打不通”。</p>
-<p>记者：今天放了吗？</p>
-<p>回答：没放。</p>
-<p>记者：这次你们反映什么问题？</p>
-<p>回答：草场问题。</p>
-<p>另一位牧民称：“我也是乌拉特中旗的牧民，昨天有几个牧民去中旗的南面，说是迎接王君车队，后来被乡政府领导和派出所的人抬回去了。被抓到那几个人，他们的主要问题就是草场纠纷”。</p>
-<p>牧民们写给巡视组的公开信称，新忽热苏木苏仑格图村干部利用职权，私自将村集体的2200亩草场低价承包给外人，使牧民的合法权益受到极大损害。他们多年来，向上反映也无果，希望上级派人清查村财务账目。</p>
-<p>周四上午，被软禁中的内蒙异议人士哈达的妻子新娜和儿子威勒斯，被当地国保殴打后带走。新娜中午告诉本台：“我儿子威勒斯今天早晨过来给我送冬衣，过来给奶奶买点东西。我和儿子散步途中，跟踪的国保很过分。上次牧民来，就贴身跟踪，今天又是，我说你跟这么紧干啥，他当时就骂我‘神经病’，然后就动手，威勒斯的手上都有血，打得很厉害。乘机打了我好几拳，我的儿子手上有伤。上次绑架过我的一个姓陈的人，把我的儿子带走了。我的儿子让他出示证件，他没有”。</p>
-<p>哈达对国保殴打并扣留威勒斯感到愤怒，他周四对记者说：“我表示强烈抗议，因为我们都是公民，我们有公民权利，抓他是非法的。我敦促抓人的机关，立即无条件的放威勒斯。我马上去看他”。</p>
-<p>威勒斯被公安带走不久，新娜也被几名公安要求协助谈话。下午两点，新娜回家后告诉记者，警方打算拘留威勒斯。哈达自去年12月9日出狱以来，一直受到当局24小时监控，其在呼和浩特的家门口和社区大门口，均有保安看守，不准外入进入，曾有外国媒体记者试图登门采访，遭到公安驱逐。</p>
-<p>（特约记者：乔龙；责编：胡汉强/马平）</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%86%85%E8%92%99%E7%89%A7%E6%B0%91%E8%AF%B7%E6%84%BF%E4%BA%94%E4%BA%BA%E8%A2%AB%E6%8A%93-%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB%E4%B9%8B%E5%AD%90%E8%A2%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4/?category=18271" rel="tag">内蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%97%E8%AE%AE/?category=18271" rel="tag">内蒙古抗议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E8%BE%BE/?category=18271" rel="tag">哈达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E5%8B%92%E6%96%AF/?category=18271" rel="tag">威勒斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%A8%9C/?category=18271" rel="tag">新娜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A7%E6%B0%91/?category=18271" rel="tag">牧民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -660,5 +694,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

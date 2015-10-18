@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,68 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E5%9B%BD%E5%86%85%E6%96%B0%E6%9E%81%E6%9D%83%E5%9B%BD%E9%99%85%E6%96%B0%E5%86%B7%E6%88%98/" target="cdt-mirror">莫之许：国内新极权国际新冷战</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/tpp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/tpp.jpg" alt="tpp" width="550" height="383"></a></p>
+<p>TPP 12国达成协议的消息传出，在大陆舆论场引发了一场出人意料的关注热潮。不过，正如张大军先生所指出的，很多传播率高的文章其实似是而非，但恐惧感与焦虑感十足，只是恰好迎合了当下部分人群的情绪，“是典型的精英内部的不安和焦虑通过现代媒介扩散到一般民众”。围绕TPP成立之后，中国被孤立这一意向，主要有两类意见，一是公知话语，认爲这是因爲中国偏离改革开放的大方向导致的，解决之道是重归改革，或者说是借TPP所可能带来的危机“倒逼改革”；一是海外民运以及国内草根民运带有情绪性的表达，认爲TPP将导致中国经济失去发展动力，或引爆经济危机，进而危及党国统治。</p>
+<p>与流行的中国被孤立看法相反，有一些精英人士意识到，这个局面其实与当局的主动作爲有关，如前两天，一群80年代改革派人士吊唁杜润生先生，在其后的餐叙中交流纵论国内外大事，许多人就认为，“TPP是中国乱来刺激出来的”。新加坡学者王江雨在“美国战略动机和中国战略失误”一文中也认为，“世上本来可以没有美式TPP”, 并认为，奥巴马本人在访华中遭到冷遇，以及在全球气象会议上不被中国尊重，或爲其推动“重返亚洲战略”的起因，而其中，“军事、外交、经济三条腿走路，对中国开始防范性制衡，而TPP之成功，成为这一战略的重中之重。”</p>
+<p>将一个大国的外交战略转变归因于领导人的个人情绪，显得单薄了一点。2009年全球气象会议上中国的表现，常被看作是奥运后中国外交战略的一个转折，是中国不甘心顺从美国，作美国领导下的“老二”，而试图构建“新型大国关系”，追求不卑不亢的平起平坐关系的开始。此外，同样是在2009年，中美经战略与经济对话会上，时任国务委员的戴秉国指出，“确保中美关系长期健康稳定发展，很重要一条是相互理解，尊重对方，维护自己的核心利益，中国的核心利益第一是维护基本制度和国家安全，其次是国家主权和领土完整，第三是经济社会的持续稳定发展”，不会误读的是，所谓基本制度和国家安全，当然指的是现行政治制度，也就是现行的一党专政体制，以及对应的对民众的权利剥夺状况。</p>
+<p>上述表现并非偶然和孤立，越来越多的事实表明，在2008年北京奥运会之后，当局在国际关系上放弃了冷战后执行多年的韬光养晦战略，将延续专政的意图公开化、表面化，并试图以此定义乃至规范对外关系，这同时宣告了美国为首的西方曾经的接触并改变战略的失败，吴强博士早在2008年到2009年间，即据此认为，中国与美国为首的西方将进入到新冷战阶段。</p>
+<p>20多年前，为破除因为1989年惨剧而造成的国际制裁，也为了应对冷战结束的新国际形势，以邓小平南巡为开端，当局在国内推进市场化，在国际上则奉行韬光养晦，以融入国际经济秩序，获得经济发展空间，但是，早就有太子党明确指出，这只是“卷旗不交枪”，随着经济发展的目标基本达成，2008年奥运会更标志着国际存在和国际地位达到了新的高点，这个时候，专政制度硬的一手重新表面化，并非什么不可理解的事，而是顺理成章。</p>
+<p>在国际关系上，从延续专政这一根本目标出发，当局并不准备做出相应改变，更深地融入国际秩序，更不愿意接受西方的指手画脚，相反，更倾向于另起一套，如推动中俄特殊关系，一带一路战略，创立亚投行、中非合作……等等，试图通过建立相对独立和平行的经济势力范围，以抵销西方可能的影响，以增强政权的安全性，同时，在网络自由、文化开放、公民社会等层面，越来越采取隔离措施，谷歌的离去，GFW日高，境外非政府组织管理立法等等，都体现了这一用心。不能说TPP没有美国战略遏制中国的用心，但很显然的，这也与利益攸关者乃至G2等战略构想被中国所拒绝有关，或者说在很大程度上，与中国拒绝做出相应改变以融入国际秩序、以及在相关议题上的主动作为有关。</p>
+<p>这一转变并不是孤立的，在国内，维持专政也同样是压倒性的目标，这表现为近年来各种管控的步步升级，以及针对民间社会的全力打压，以致越来越多的人将当下称作为新极权时代。20多年的经济发展带来了相应的社会后果，如庞大的新兴社会阶层及其旺盛的权利诉求，对外开放也使得中国内部的诸多问题日益受到国际社会的关注，凡此种种，都给专政运行带来了越来越大的压力，甚至是威胁，在此情形下，当政者也就越来越倾向于在内外都摆脱以前的暧昧含糊状态，对外要求西方停止施压乃至促变，对内则连温和改良的言行也不再容忍，这其实是新形势下当政者不安全心理的表现。</p>
+<p>也因此，与曾经乐观的想像不同，不是经济发展和对外开放促成了专政的软化乃至转变，而是专政运用经济发展和对外开放的成果，不仅在国内延续并强化专政，甚至试图影响到国际秩序，近年来当政者在内外政策上的走向，与当政者口头上的继续改革和开放是相反的，在国内，知识群体和中产群体所感受到的，是当局对政治、经济、社会乃至文化等方方面面的管控提升，针对活跃群体的频繁打击，言论上的周密控制与大量推出五毛群体相结合等等，即使在经济领域，强调国有企业主体地位，面对低迷经济形势并无针对民营企业的实质性松绑等等，也令人心生寒意。</p>
+<p>近年来，中产饭桌上的移民话题，再也清楚不过地反映出了普遍的恐惧感和焦虑感了，TPP的通过，迅即引爆了国内舆论场，很显然，这种不安和焦虑的情绪一时很难消散，但是，指望一个TPP就让当局改弦更张，近乎幻想，而在中国已经深度融入国际经济秩序的当下，一个刚成型的TPP，可能会在中长期给中国经济运行带来一定影响，但其影响并非如许多论者忧虑的那么巨大，更不可能带来立刻的危机。事实上，当局这一套内外策略，如果从奥运后算起，已经运行了相当长时间，其面貌也逐渐清晰起来，在当下，不会有什么倒逼改革的可能，而危机也不会立刻到来，国内新极权、国际新冷战的前景才刚刚展开。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E5%9B%BD%E5%86%85%E6%96%B0%E6%9E%81%E6%9D%83%E5%9B%BD%E9%99%85%E6%96%B0%E5%86%B7%E6%88%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp/?category=18271" rel="tag">TPP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E6%94%BF/?category=18271" rel="tag">专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%86%B7%E6%88%98/?category=18271" rel="tag">新冷战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%9E%81%E6%9D%83/?category=18271" rel="tag">新极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91%E8%AF%9D%E9%A2%98/?category=18271" rel="tag">移民话题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">精英人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%9C%BA/?category=18271" rel="tag">舆论场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%8D%E8%85%90%E8%AD%A6%E7%A4%BA%EF%BC%9A%E4%B9%85%E4%B9%85%E4%B8%8D%E8%83%BD%E5%B9%B3%E9%9D%99%EF%BC%8C%E6%94%B6%E4%B8%AA%E7%BA%A2%E5%8C%85/" target="cdt-mirror">【网络民议】反腐警示：久久不能平静，收个红包压惊</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%BC%A0%E6%AF%8D%E5%88%BA%E5%AD%97_%E9%82%9D%E9%A3%9A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%BC%A0%E6%AF%8D%E5%88%BA%E5%AD%97_%E9%82%9D%E9%A3%9A.jpg" alt="鼠母刺字_邝飚" width="425" height=""></a><br><em>（“鼠母刺字” by 邝飚）</em></p>
+<blockquote><p><a href="http://weibo.com/5044281310/CFE4c1Blb">@澎湃新闻</a>：【江西纪委拍两部反腐警示片含监狱生活实录，万名干部写体会】江西省纪委拍摄了《反腐警示录（上、下）》两部反腐警示片，讲述55名领导干部的违纪事实。全省共有万名县处级以上干部观看并撰写了体会文章，有干部说：“看了这些典型案例剖析，我深受触动，心情久久不能平静。”<a title="http://t.cn/RyeclYU" href="http://t.cn/RyeclYU" target="_blank"><em>网页链接</em></a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@澹台灭美：先反反滥用警权绑架记者的江西警察吧</p>
+<p>@千笼鸟：深受触动，久久不能平静，再索点贿包个新小三来压压惊</p>
+<p>@zeroro君：收个红包压压惊</p>
+<p>@无师无畏：飞蛾扑火，前仆后继。全凭党的政策好。</p>
+<p><strong>@巴菲特烦恼：如果这都能刹住贪腐，那封建社会应该是政治最清明的，当年多少人围观砍头</strong></p>
+<p><a href="http://weibo.com/teaorwine" target="_blank">喝茶还是喝酒</a>：一个省有一万个县处级以上干部，我执政党能力可见一斑<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/1026493002" target="_blank">华夏炎凉-</a>：泄露国家机密罪是哪个省<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/flowlove" target="_blank">教室里特困生</a>：官员看完泪流满脸，对以前的行为后悔不已，毅然决定少贪点<img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]"></p>
+<p>@小辣椒的牛粪君：都是影帝！</p>
+<p>@wiisz：大家都演的不错</p>
+<p><a href="http://weibo.com/1779591295" target="_blank">愿共鸣</a>：<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
+<div><a href="http://weibo.com/goodhu" target="_blank">福大蝈蝈</a>：有干部说：“看了这些典型案例剖析，我深受触动，心情久久不能平静,贪2亿才判无期，回去多贪点“<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></div>
+<p>@摆摆2000：看完后，认真思考，总结经验。做到继续贪而又不被发现</p>
+<p><strong>@西风之语：潜台词：大家快来看呀，我家出了这么多家贼，我把他们都抓起来了，我是不是很牛逼呀？</strong></p>
+<p>@西北风吹东南：我们也看过，同事们都说当官好，还可以这么玩!牡丹花下死，作鬼也风流!</p>
+<p><strong>@刘闯的岛<i title="微博个人认证 "></i><i></i>：相信他们有良知 母猪都上树</strong></p>
+<p><a href="http://weibo.com/3194304877" target="_blank">刮风这天我试着握着你手</a>：老是靠道德和自我约束，那是神不是人<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/2570277821" target="_blank">MC喵喵喵</a><i title="微博达人"></i>：这是高考前的熟悉考场吗<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@落单的瘦猪：反腐不是对人性的匡正，反腐只是社会治理政党管理的途径之一。一个心智正常的成年人，会认为那些心灵鸡汤一样的教育就能够实现反腐？没有根本的体制变革，反腐只是一个忽悠罢了。而且我倾向于认为，你们对此很清楚，只是装傻在坚持那一套东西罢了——就像黄鼠狼给鸡群设计笼子往往装傻留出一些漏洞一样</p>
+<p>@08_县长：朱重八扒人皮都不管用，拍个片能顶用？管用的是制度。</p>
+<p>@溜月红鱼：直接公布财产这种最有效的反腐路子不用，绕来绕去整天研究个旁门左道的自律反腐拍片反腐参观反腐，全国人民都累了能不能别玩了？逗。</p>
+<p>@我独自走在郊外的小路上我把糕点：除了构建制约权力的制度，这东西的效果是让官员们吸取经验总结教训，贪腐技能更上一个台阶</p>
+<p><strong>@多尼蜜发傻：说好要共猖共赢，现在昔日饭局同志在监狱受苦当然心情难受。</strong></p>
+<p>@走出梦境2013：监狱软件硬件哪里不好的，官员估计回去了会大力改革的</p>
+<p>@一at叶east：然而，并没有什么卵用！左手监督右手，只能靠个人自制力！还是让我们来监督左右手，才有效</p>
+<p>@风驰澜海：要是公布财产可能就不会贪了。肃贪在于公开，不在于机密。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%8D%E8%85%90%E8%AD%A6%E7%A4%BA%EF%BC%9A%E4%B9%85%E4%B9%85%E4%B8%8D%E8%83%BD%E5%B9%B3%E9%9D%99%EF%BC%8C%E6%94%B6%E4%B8%AA%E7%BA%A2%E5%8C%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%B4%A2%E4%BA%A7%E5%85%AC%E7%A4%BA/?category=18271" rel="tag">官员财产公示</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">政治作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%A5%BF/?category=18271" rel="tag">江西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E5%AE%98/?category=18271" rel="tag">贪官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E6%96%B0%E7%BD%91%EF%BD%9C%E6%96%B0%E9%97%BB%E4%BA%BA%E7%89%A9%EF%BC%9A2015%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E5%BE%97%E4%B8%BB%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2/" target="cdt-mirror">中新网｜新闻人物：2015诺贝尔文学奖得主阿列克谢耶维奇</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/c037c8e509bb4d3fac0956361529f7b3.jpg" alt="c037c8e509bb4d3fac0956361529f7b3" width="548" height="365"></p>
@@ -613,48 +672,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/" target="cdt-mirror">好奇心日报 | 文化部发了第一条微博 不到6小时评论就超了4万</a>
-</h2>
-<p><p>10月15日，文化部开通官方微博并发布了首条微博，宣布日后将通过此官微发布文化政策、信息和资讯。</p>
-<p><a href="http://weibo.com/u/5713450386" target="_blank">传送门</a></p>
-<p>万万没想到，这样一条普通微博发布后，立即引来大量网友围观留言，截至发稿，该条微博转发已超过 4 万，评论超过 4.5 万，还被点赞了 11000 多次。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/42f3f4e41c5f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/42f3f4e41c5f.jpg" alt="42f3f4e41c5f" width="614" height="136"></a></p>
-<p>其中被点赞最多的评论来自网友@杨公吐哺 ，建议文化部“说说你们和广电的职权范围，免得我们喷错”（很有必要啊），也有“看热闹”的网友在评论中表示“可以让这条微博的评论数破吉尼斯”，这条微博也被点赞了超过 6000 次。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/6048cd4deadd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/6048cd4deadd.jpg" alt="6048cd4deadd" width="600" height="430"></a></p>
-<p>面对网友的热议，文化部官微却异常高冷——至今没有回复任何一条评论，只是在 19:43 分发表了另一条“文化资讯”：“10 月 15 日，文化部召开纪念习近平总书记在文艺工作座谈会上发表重要讲话一周年座谈会…”</p>
-<p>这样一条白开水的微博也被玩 high 了的网友评论了 4000 多次，有网友在评论里号召大家不要分流，都去第一条评论（真是有种粉丝给明星微博刷量的即视感），而@疗养院日常 这位同学可能说出了更多人的想法：“熏疼你，评论真心看笑了，麻烦转告广电叫他出来开微博！！！？”</p>
-<p>不过看这架势，恐怕广电总局对开通微博这件事，还得再“回去研究研究”吧。</p>
-<p>‏@MyDF：文化部删贴员：我删不动了，你们能不能让我喘口气？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CRWvhwKUEAAktlF.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CRWvhwKUEAAktlF.png" alt="CRWvhwKUEAAktlF" width="594" height="726"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">官方微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">网友评论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/" target="cdt-mirror">好奇心日报 | 文化部发了第一条微博 不到 6 小时评论就超了 4 万</a>
-</h2>
-<p><p>10月15日，文化部开通官方微博并发布了首条微博，宣布日后将通过此官微发布文化政策、信息和资讯。</p>
-<p><a href="http://weibo.com/u/5713450386" target="_blank">传送门</a></p>
-<p>万万没想到，这样一条普通微博发布后，立即引来大量网友围观留言，截至发稿，该条微博转发已超过 4 万，评论超过 4.5 万，还被点赞了 11000 多次。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/42f3f4e41c5f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/42f3f4e41c5f.jpg" alt="42f3f4e41c5f" width="614" height="136"></a></p>
-<p>其中被点赞最多的评论来自网友@杨公吐哺 ，建议文化部“说说你们和广电的职权范围，免得我们喷错”（很有必要啊），也有“看热闹”的网友在评论中表示“可以让这条微博的评论数破吉尼斯”，这条微博也被点赞了超过 6000 次。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/6048cd4deadd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/6048cd4deadd.jpg" alt="6048cd4deadd" width="600" height="430"></a></p>
-<p>面对网友的热议，文化部官微却异常高冷——至今没有回复任何一条评论，只是在 19:43 分发表了另一条“文化资讯”：“10 月 15 日，文化部召开纪念习近平总书记在文艺工作座谈会上发表重要讲话一周年座谈会…”</p>
-<p>这样一条白开水的微博也被玩 high 了的网友评论了 4000 多次，有网友在评论里号召大家不要分流，都去第一条评论（真是有种粉丝给明星微博刷量的即视感），而@疗养院日常 这位同学可能说出了更多人的想法：“熏疼你，评论真心看笑了，麻烦转告广电叫他出来开微博！！！？”</p>
-<p>不过看这架势，恐怕广电总局对开通微博这件事，还得再“回去研究研究”吧。</p>
-<p>‏@MyDF：文化部删贴员：我删不动了，你们能不能让我喘口气？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CRWvhwKUEAAktlF.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CRWvhwKUEAAktlF.png" alt="CRWvhwKUEAAktlF" width="594" height="726"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9/?category=18271" rel="tag">官方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">官方微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">网友评论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -676,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

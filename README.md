@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%BB%AD%EF%BC%9A%E3%80%8A%E7%8E%AF%E6%97%B6%E3%80%8B/" target="cdt-mirror">【立此存照】编造“中国梦”事件后续：《环时》只用英文道歉</a>
@@ -68,6 +68,24 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 <p>
 	<small> ============== 5小时前</small>
 </p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E8%B0%81%E6%89%8D%E6%98%AF%E5%A4%A7%E5%B8%88/" target="cdt-mirror">巴丢草 | 谁才是大师</a>
+</h2>
+<p><p>@badiucao：10月9日，南方都市报记者 #刘伟 因报道气功大师 #王林 案涉非法获取国家秘密被刑拘。其实真正的气功大师只有党妈自己，轻轻一挥，百花齐放，悄悄一指，万马齐暗。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CRgxjDYVEAAC7Ab.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CRgxjDYVEAAC7Ab.jpg" alt="CRgxjDYVEAAC7Ab" width="450" height=""></a></p>
+<p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%8F%88%E7%88%86%E5%9B%A0%E6%B6%89%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%E7%BD%AA%E8%80%8C%E8%A2%AB%E8%B7%A8/">端传媒｜调查记者又爆因涉“国家秘密罪”而被跨省刑拘</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98-%E6%B6%89%E5%AB%8C%E8%8E%B7%E5%8F%96%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/">美国之音｜南都记者被刑拘 涉嫌获取什么国家机密？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E9%99%88%E5%AE%9D%E6%88%90%EF%BC%9A%E4%BF%9D%E8%AF%81%E8%88%86%E8%AE%BA%E7%9B%91%E7%9D%A3%E6%89%8D%E8%83%BD%E5%8A%A9%E6%8E%A8%E6%B3%95%E6%B2%BB%E5%BB%BA%E8%AE%BE/">财新网｜陈宝成：保证舆论监督才能助推法治建设</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%A4%9A%E6%9C%9D%E6%96%B0%EF%BC%9A%E4%BB%96%E4%BB%AC%E6%8A%93%E8%B5%B0%E7%9A%84%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84/">褚朝新：他们抓走的记者刘伟是这样的</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F-%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E8%A2%AB%E5%88%91%E6%8B%98/">传媒大观察 | 南都记者刘伟被刑拘</a></li>
+</ul><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E8%B0%81%E6%89%8D%E6%98%AF%E5%A4%A7%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88/?category=18271" rel="tag">党妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%B8%88/?category=18271" rel="tag">大师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%94%E5%8A%9F%E5%A4%A7%E5%B8%88/?category=18271" rel="tag">气功大师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E8%8A%B1%E9%BD%90%E6%94%BE/?category=18271" rel="tag">百花齐放</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E5%9B%BD%E5%86%85%E6%96%B0%E6%9E%81%E6%9D%83%E5%9B%BD%E9%99%85%E6%96%B0%E5%86%B7%E6%88%98/" target="cdt-mirror">莫之许：国内新极权国际新冷战</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/tpp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/tpp.jpg" alt="tpp" width="550" height="383"></a></p>
@@ -86,7 +104,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/tpp/?category=18271" rel="tag">TPP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E6%94%BF/?category=18271" rel="tag">专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%86%B7%E6%88%98/?category=18271" rel="tag">新冷战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%9E%81%E6%9D%83/?category=18271" rel="tag">新极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91%E8%AF%9D%E9%A2%98/?category=18271" rel="tag">移民话题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">精英人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%9C%BA/?category=18271" rel="tag">舆论场</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%8D%E8%85%90%E8%AD%A6%E7%A4%BA%EF%BC%9A%E4%B9%85%E4%B9%85%E4%B8%8D%E8%83%BD%E5%B9%B3%E9%9D%99%EF%BC%8C%E6%94%B6%E4%B8%AA%E7%BA%A2%E5%8C%85/" target="cdt-mirror">【网络民议】反腐警示：久久不能平静，收个红包压惊</a>
 </h2>
@@ -157,7 +175,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96/?category=18271" rel="tag">诺贝尔奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔文学奖</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%8F%8C%E8%B5%B7%E8%AE%BA%E8%B5%A2%E4%BA%86%E6%96%B0%E9%97%BB%E7%AB%8B%E6%B3%95/" target="cdt-mirror">旧闻评论 | 宋志标：“双起论”赢了新闻立法</a>
 </h2>
@@ -634,26 +652,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F-%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E8%A2%AB%E5%88%91%E6%8B%98/" target="cdt-mirror">传媒大观察 | 南都记者刘伟被刑拘</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/20151016102429157.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/20151016102429157.jpg" alt="20151016102429157" width="600" height="800"></a><br>
-拘留通知书（澎湃新闻）</p>
-<p>编者按：据澎湃新闻报道，《南方都市报》记者刘伟因涉嫌非法获取国家秘密罪被江西警方刑拘。《南方都市报》深夜发布声明，全文如下：</p>
-<p>一、刘伟系本报深度新闻部记者，受单位委派，调查采访王林涉嫌刑事责任案件的相关新闻，其对王林案的采访、报道、持续关注等，均属履行工作职责的职务行为，本报10月9日已向江西警方正式反馈；</p>
-<p>二、刘伟因履行职务而陷入丧失人身自由的困境，本报深感震惊和意外，立即启动应急程序，紧急展开相关工作，帮助刘伟家属聘请辩护律师，维护记者正当的合法权益；</p>
-<p>三、本报已向上级和有关部门及时通报相关情况，并派员陪同家属和律师赴江西萍乡等地，10月13日律师到看守所会见刘伟；10日和14日，家属、律师先后两次递交取保候审申请，均被警方拒绝；</p>
-<p>四、本报高度关注事件后续进展，积极配合有关部门的调查，希望警方依法办案，及时依法公开案件信息。 </p>
-<p>澎湃新闻报道，刘伟是辽宁大连人，辽宁大学新闻专业毕业，曾在《21世纪经济报道》、《新京报》工作，2009年入职《南方都市报》深度报道部。</p>
-<p>刘伟曾经因为重庆不雅视频案系列报道、 “大师”王林系列报道，被评为南方报业2013年度记者。当时的入选理由写道：“一名优秀的记者除了才情与技艺，更要持之以恒训练自己保持健全的心智，面对一次又一次的被疏离与被否定，将对新闻的信念融入到血液中而不只是挂在口头上，这是一个漫长且需要勇气与毅力的过程。过去的一年，刘伟做到了，从业了十几年后，在如此浮躁的年代，他用几篇沉甸甸的报道宣告自己黄金时代的开启。”</p>
-<p>*中国数字时代编辑注：截至发稿时，<a href="http://m.thepaper.cn/newsDetail_forward_1386013?from=timeline&isappinstalled=0">澎湃新闻原帖</a>已被删除。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F-%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E8%A2%AB%E5%88%91%E6%8B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F/?category=18271" rel="tag">传媒大观察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F/?category=18271" rel="tag">刘伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%8A%A5%E4%B8%9A/?category=18271" rel="tag">南方报业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85/?category=18271" rel="tag">南都记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F/?category=18271" rel="tag">记者刘伟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -665,7 +663,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -675,5 +673,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

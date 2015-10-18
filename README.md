@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E6%96%B0%E7%BD%91%EF%BD%9C%E6%96%B0%E9%97%BB%E4%BA%BA%E7%89%A9%EF%BC%9A2015%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E5%BE%97%E4%B8%BB%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2/" target="cdt-mirror">中新网｜新闻人物：2015诺贝尔文学奖得主阿列克谢耶维奇</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/c037c8e509bb4d3fac0956361529f7b3.jpg" alt="c037c8e509bb4d3fac0956361529f7b3" width="548" height="365"></p>
+<div align="center">
+<p align="left">1948年出生的阿列克谢耶维奇，毕业于明斯克大学新闻学系。她用与当事人访谈的方式写作纪实文学，记录了二次世界大战、阿富汗战争、苏联解体、切尔诺贝利事故等人类历史上重大的事件。（资料图）</p>
+</div>
+<div>
+<p>　　<a href="http://www.chinanews.com/" target="_blank">中新网</a>10月8日电 据诺贝尔奖官方网站消息，2015年诺贝尔文学奖于瑞典当地时间8日揭晓，获奖者为白俄罗斯作家、记者斯维特兰娜•阿列克谢耶维奇。</p>
+<p><strong>曾多次获奖</strong></p>
+<p>1948年出生的阿列克谢耶维奇，毕业于明斯克大学新闻学系。她用与当事人访谈的方式写作纪实文学，记录了二次世界大战、阿富汗战争、苏联解体、切尔诺贝利事故等人类历史上重大的事件。</p>
+<p>她的作品已在19国出版，在中国出版的著作有《切尔诺贝利的回忆：核灾难口述史》、《我不知道该说什么，关于死亡还是爱情：来自切尔诺贝利的声音》、《锌皮娃娃兵》等。本月，她的两部作品《我是女兵，也是女人》和《我还是想你，妈妈》出版。</p>
+<table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td></td>
+</tr></tbody></table><p>阿列克谢耶维奇作品曾多次获奖，包括1998年德国莱比锡图书奖、1999年法国国家电台“世界见证人”奖、2006年美国国家书评人奖、2013年德国出版商与书商协会和平奖等，去年，她还获颁法国艺术和文学骑士勋章。</p>
+<p>德国出版商与书商协会为其授奖时曾称：“她自己创造了一个将在全世界得到回响的文学门类，必将掀起证人与证词涌现的浪潮”。瑞典资深专栏作家梅•斯文森也曾公开表示，“她早应该得诺贝尔文学奖了”。</p>
+<p><strong>关注的焦点永远是人</strong></p>
+<p>阿列克谢耶维奇并非按照正式的历史文献来描述历史，而是从个人经历、机密档案以及从被忘却、被否定的资料中挖掘。这样的创作意义更加深远，远远超出技术性文献的意义。她关注的焦点永远是人，探索人的心灵是她与其他作家的区别之一。她成功地表现了一代人的茫然和恐慌，作品触动人的内心深处。</p>
+<p>比如在《切尔诺贝利的回忆：核灾难口述史》中，阿列克谢耶维奇用三年时间采访了切尔诺贝利核电站反应堆爆炸的幸存者们，有第一批到达灾难现场的救援人员的妻子、有现场摄影师、有教师、有医生、有农夫、有当时的政府官员、有历史学家、科学家、被迫撤离的人、重新安置的人、还有妻子们祖母们……每个人不同的声音里透出来的是愤怒、恐惧、坚忍、勇气、同情和爱。为了收集到这些第一线证人们的珍贵笔录，阿列克谢耶维奇将自身健康安危抛之脑后，将他们的声音绘成一部纪实文学史上令人无法忘记的不可或缺的作品，并籍此期盼同样的灾难绝不再重演。</p>
+<p><strong>作品体裁助力获奖</strong></p>
+<p>可以说，无论是媒体还是海外各大文学论坛，对阿列克谢耶维奇的关注并不多。因其作品数较少，目前不超过10部；此外，她的作品在西方世界影响力不大；再次，身为一名纪实记者，其著名作品基本上是对重大悲剧性事件当事人采访稿的合集，更类似于“口述史”，作者个人的存在感非常微弱。</p>
+<p>不过，自2013年以来，阿列克谢耶维奇的作品多有瑞典语译本问世，包括《最后的见证：失去童年的孩子们》，也为其获奖增添了不小优势。</p>
+<p>阿列克谢耶维奇的另一优势大概是其作品体裁——传记文学。只因上一本非虚构类作品获得诺奖已经是半个多世纪以前的事情了——1953年丘吉尔以《二战回忆录》获此殊荣。</p>
+</div>
+<p> </p>
+<p> </p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E6%96%B0%E7%BD%91%EF%BD%9C%E6%96%B0%E9%97%BB%E4%BA%BA%E7%89%A9%EF%BC%9A2015%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E5%BE%97%E4%B8%BB%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96/?category=18271" rel="tag">诺贝尔奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔文学奖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%8F%8C%E8%B5%B7%E8%AE%BA%E8%B5%A2%E4%BA%86%E6%96%B0%E9%97%BB%E7%AB%8B%E6%B3%95/" target="cdt-mirror">旧闻评论 | 宋志标：“双起论”赢了新闻立法</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/diaoyudao.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/diaoyudao.jpg" alt="题图当代水墨，作者新浪微博：@秃头倔人" width="450" height="542"></a><p>题图当代水墨，作者新浪微博：@秃头倔人</p></div>
+<p>1湖南警方到广州抓人，江西警方到深圳抓人，上海警方到广州抓人，抓来抓去，都可归结为“双起论”的变种（警察起诉记者、警局起诉报社）。王立军作为一代警枭，对警权扩充起到了无可限量的作用，可以视作是精神领袖，后来人矢志于将其思路变成法律。</p>
+<p>2相较于“双起论”以法律面貌示人，并且时刻展露肌肉，新闻界所依靠的“新闻立法”，已经丧失了党内上层的支持资源，已经丧失了版署这个动力机制的中介，已经丧失了媒体吁求的下层基础。“新闻立法”这四个字抵不上“双起论”三个字，全面落败。</p>
+<p>3所谓新闻立法在报道上的需求是“舆论监督”，但是在今天，“舆论监督”已经被媒体全面放弃，上有国家秘密，下有寻衅滋事，记者举步维艰，舆论变质，监督无从谈起。无新闻，不立法。现实当中，更多的是警察为舆论立规矩，新闻稀少稀薄，立法成了无源之水。</p>
+<p>4新闻立法更多是一种潦草改革中未尽的遗产，这方面的遗产数不胜数。在现在的条件下，依旧寄望于耆老良心照耀，无可能复活遗产。遗产也就是死了，当有别样的思路。即使这种思路不成，也当以实话告人，而不是继续维持遗产，做着遗孤托孤的不醒大梦。</p>
+<p>5就像上面所说，以某种立法幻想折冲固化了的法律实际利益，已经脱离了任何可以令它落地的实际。它的设想与新闻无关，它的抱负与记者无关，它在内涵上自相矛盾，凌空虚蹈很美，可是也只只好凤鸾舞镜。若要总结新闻立法的历史遭遇，一个“双起论”足矣。</p>
+<p>6当记者被人捉了去，看先生大谈新闻立法时，观感很不是滋味，可以说很不好。如果你可以在任何时候、任何一单记者被抓事情上谈论新闻立法未遂的遗憾，这本身就是一个问题。新闻立法应该承认其历史话语的局限，将不死的希望拼命向体制的深渊中拖曳，确实不好。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%8F%8C%E8%B5%B7%E8%AE%BA%E8%B5%A2%E4%BA%86%E6%96%B0%E9%97%BB%E7%AB%8B%E6%B3%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E8%B5%B7%E8%AE%BA/?category=18271" rel="tag">双起论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">新闻立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">舆论监督</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%8F%88%E7%88%86%E5%9B%A0%E6%B6%89%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%E7%BD%AA%E8%80%8C%E8%A2%AB%E8%B7%A8/" target="cdt-mirror">端传媒｜调查记者又爆因涉“国家秘密罪”而被跨省刑拘</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/W020140310603825183570.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/W020140310603825183570.jpg" alt="刘伟" width="400" height=""></a><p>南方都市报记者刘伟。 南方都市报图片</p></div>
@@ -113,7 +162,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F/?category=18271" rel="tag">刘伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F/?category=18271" rel="tag">记者刘伟</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8A%A8%E5%90%91%EF%BD%9C%E4%BA%8E%E6%80%A1%E9%83%8A%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%8C%E4%B8%AD%E7%BE%8Ebit%E8%BF%98%E6%98%AF%E6%B2%A1%E7%AD%BE%E6%88%90/" target="cdt-mirror">动向｜于怡郊：习近平访美，中美BIT还是没签成</a>
 </h2>
@@ -606,73 +655,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%83%8F%E9%AC%BC%E5%AD%90%E8%BF%9B%E6%9D%91-%E5%B1%B1%E4%B8%9C%E5%8F%88%E4%BC%A0%E5%BC%BA%E6%8B%86%E5%91%BD%E6%A1%88/" target="cdt-mirror">博谈网 | “像鬼子进村” 山东又传强拆命案</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1_101.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1_101.jpg" alt="1_101" width="550" height="449"></a></p>
-<p>半夜，二百多人手持铁锹、棍棒闯入大院</p>
-<p>（博谈网记者苏智敏报道）山东又传出强拆造成村民死亡的案件。9月14日山东临沂市传出因强拆，造成46岁农民张纪民被烧死，10月13日山东济南巿则发生一起居民被拆迁人员打死的事件。</p>
-<p>半夜强拆</p>
-<p>山东省济南市中区经九路3号大院在13日的凌晨4点35分，大门被强行打开，二百多人手持铁锹、棍棒闯入大院。据《自由亚洲电台》报导，这些人为当局雇用的民工及不明人员，他们暴力强拆，六幢楼被拆卸。拆迁户朱先生向电台表示，当时年约57岁的释惠生到楼下查看情况，被拆迁人员殴打。拆迁人员在半夜打砸门窗，百位居民出面阻止，并与那批黑社会人士打起来，反而是民工没怎样动手。</p>
-<p>事发后，济南市市中区委宣传部部长任晓策于15日对《澎湃新闻》称，经九路3号大院多年前就被定为拆迁区域，为原地回迁，部分住户同意拆迁，但其他住户一直不同意，但该篇报导中，任晓策并没说明居民不同意的原因。</p>
-<p>为何选在半夜强拆，任晓策解释说，这群人并不是去强拆，是去检查已经搬迁的房屋，并拆除已经搬离的住户房屋窗户，但因为白天检房时都遇到阻拦，故选择凌晨前往。</p>
-<p>对于任晓策的说法，一位居民对《澎湃新闻》说明，是因为已经搬迁的房屋窗户若被拆除，一旦碰到雨雪天气，上下楼的住户就没办法正常生活。这位居民指出“这是他们逼我们拆迁的一种方式。”</p>
-<p>不一样的说词</p>
-<p>另外释惠生的死因，目前官方的说法和家属有出入。死者姐姐释女士向《自由亚洲电台》表示，事发后从监控录像，看到释惠生被四位民工围殴，身上有伤，推测是挨打致死，但医院发的死亡证明是死于呼吸及心脏停止。拆迁户朱先生也说，医生在抢救时，他看到释惠生身上有伤痕，胳膊有瘀青，医生也说那些伤痕是被打的。</p>
-<p>但当地警方向《澎湃新闻》表示，经初步调查，死者释惠生非外部原因致死，具体情况仍在查。而济南市市中区委宣传部部长任晓策则提出和死者姐姐不同的说法，他对《澎湃新闻》称，从监控视频看来，释惠生生前未与人发生肢体冲突，身上的伤痕是在救治过程中搬抬所致，死亡原因是心跳骤停。</p>
-<p>对于任晓策的说法，死者儿子释俊卿不认同，他指出父亲本身虽然患有高血压和心脏病，但即使是发病致死也是与这场冲突有关。因事情重大，家属尚未同意进行尸检。</p>
-<p>像鬼子进村</p>
-<p>这起事件经报导后，一张现场的监控视频撷图被网友认为很像电影《鬼子进村》的画面，并指出官方在凌晨拿棍棒检查搬迁的说法，是在挑战全国人民的智商。也有网友认为，正因为是见不得人的事，光天化日之下才不敢做。</p>
-<p>济南市中区经九路3号大院的拆迁项目始于2011年，据了解，这项目受到三分之二以上住户的反对。在3号大院门口贴着对联：“钓鱼岛是中国的，三号院是我们的！”院内还有醒目的标语：“工人阶级永远不会向黑恶势力低头”、“三号院不搬，开发商疯了，黑社会来了，老百姓拼了”。进门处有两个圆柱，上面写着：“坑爹坑娘坑百姓，拆天拆地拆良心。”</p>
-<p>据《维权网》报导，住户为抗议强拆出人命，在现场摆上花圈，并在路边拉巨幅横幅：“暴力强拆致死人命有谁来管，为死者讨回公道！”、“杀人偿命，杀人偿命，严惩凶手，血债谁还？”等，引来路人围观，一度造成交通堵塞。结果当局出动大批警力戒严，不让路人通行。住户们愤怒的抗议：“晚上暴徒来了上百人强拆的时候，你们不来，你们那时候干什么去了？半夜三更去你们家砸门，你什么反应？”</p>
-<p>过低的赔偿款</p>
-<p>山东不到一个月，接连发生强拆命案，临沂强拆和济南强拆的命案甚至有共同点，即都有疑似黑社会的人介入，并阻止居民救人。临沂强拆，有目击者指出围堵张纪民家的不明人士，开无牌车，部分人身上有文身和刺青。在起火后，这些人还围着院墙禁止村民靠近救火。</p>
-<p>这次的济南强拆，除了有当局雇用的民工，还有疑似黑社会的不明人士。一住户向《自由亚洲电台》表示，他发现释惠生躺在地上，立即报警并叫救护车，但拆迁人员堵在门口，不让任何人出去，直到他们发现释惠生没气息，才开门让救护车进入，但为时已晚。</p>
-<p>而赔偿远低于巿价更是二起强拆命案的直接发生原因。据《自由亚洲电台》报导，该地段的中、小学都是省重点学校，巿值一平方25000元，但2012年对3号大院住户提出的拆迁方案，当局只赔偿前面较新的楼房一平方10300元，后面楼房每平方只有9300元，比巿价少一半多，因此大部份居民都不同意。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%83%8F%E9%AC%BC%E5%AD%90%E8%BF%9B%E6%9D%91-%E5%B1%B1%E4%B8%9C%E5%8F%88%E4%BC%A0%E5%BC%BA%E6%8B%86%E5%91%BD%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C/?category=18271" rel="tag">山东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">暴力强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%8E%E5%8D%97/?category=18271" rel="tag">济南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8A%E6%83%A0%E7%94%9F/?category=18271" rel="tag">释惠生</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E5%8E%9F%E5%BE%8B%E5%B8%88%E4%B9%8B%E5%AD%90%E4%B9%9F%E8%A2%AB%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/" target="cdt-mirror">法广 | 刘晓原律师之子也被限制出境</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard17_118.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard17_118.jpg" alt="Clipboard17_118" width="550" height="309"></a></p>
-<p>北京锋锐律师事务所的知名维权律师王宇的儿子包卓轩被中国警方从缅甸追回之后，王宇的同事，刘晓原也透露说，他的儿子也被当局拒绝办理护照，无法前往国外留学，锋锐事务所另一位律师于合金律师的儿子也被限制出境。</p>
-<p>刘晓原律师周四在网上发表声明，刘晓原律师：我的孩子也不能办护照出国留学。</p>
-<p>他在南昌大学读书的儿子正通过正规途径办理出国申请手续，但当局却拒绝给他办理护照。南昌市公安局在多次追问之下才回答说是北京市公安局封锁了不能办理，警方批评他参加了反动组织。要他自己直接打电话给北京市公安局第一总队，而刘律师的儿子的户口早已迁往南昌。</p>
-<p>另据刘晓原律师介绍，锋锐律师事务所的另一位律师于合金律师的儿子近日也被限制出境。于律师的儿子就读于上海交通大学，按照学校安排，在交大就读两年后交换到美国一所大学就读，今年8月1日，随同老师在上海虹桥国际机场出境时，却被边检拦下，说是北 京市公安局限制出境，理由是出国可能危害到国家安全。</p>
-<p>今年七月，中国当局在全国发动大规模的拘捕行动，王宇律师的儿子包卓轩前往澳大利亚留学但却在北京机场被警方截回，之后，他同他的父亲包龙军一同被带离北京，他的护照也遭到注销。</p>
-<p>流亡美国的八九学运领袖周封锁日前向香港媒体透露说，他试图帮助包卓轩经由缅甸出境前往美国求学，但包卓轩却在缅甸被警方带走。周锋锁认为，北京当局是想利用包卓轩向他的父母王宇及包龙军施压。</p>
-<p>中国官方环球时报今天罕见就上述议题发表社评文章，标题是：带男孩偷渡及监护人反对，这就是事实。</p>
-<p>环球时报声称，孩子的监护人因孩子未成年而反对其出国留学。环球时报表示：“王宇、包龙军夫妇同时涉案被拘押，这是令人遗憾的事情。但他们也可以依法维护自己的合法权益，争取早日获得自由。他们的孩子尤其应当享有正常的人生，相信这是所有中国公众了解此事原委情况下的真实愿望。 ”</p>
-<p><strong>中国数字时代编辑注：</strong></p>
-<p><a href="http://blog.sina.com.cn/s/blog_49daf0ea0102vu4i.html">《为何律师的孩子不能办护照出国留学？》</a>转载自刘晓原博客：</p>
-<blockquote><p>     我孩子是南昌大学大四学生，准备明年大学毕业后去出国读研究生。九月中旬，通过国内正规的留学机构办理出国申请手续。按照留学机构的要求，必须在今年十一月之前办理好护照，以便在12月份向国外大学递交申请材料。孩子读大学时户口已转到南昌。</p>
-<p>    10月8日，我的孩子去办理护照。办证部门说，公安机关户籍档案上的照片有些模糊，让他一个星期之后再来。</p>
-<p>    今天（10月15日）下午，我的孩子如约来到南昌市公安局出入境接待大厅。办证警察在电脑上查询后，说他不能办理护照。我孩子一开始问是什么原因？警察不说。在追问之下，警察说是北京市公安局封锁了不能办理，说他参加了什么反动组织。我孩子说，自己只是一个大学生，从没有参加任何组织。警察又说，你给北京市公安局打电话。我孩子再问，打那个部门电话，警察说打北京市公安局第一总队，但警察并没有告知我孩子电话号码。</p>
-<p>    算上我的孩子，这已经是锋锐律师事务所第三个律师的孩子被限制出境。第一个是王宇律师儿子包卓轩，第二个是于某律师儿子。</p>
-<p>    在北京做律师十一年，被卡年检、被失踪、被传唤、被喝茶、被搬家、被解散律师所，我只是内心很窝火。但这次竟然“株连”到孩子，我已经出奇地愤怒！</p>
-<p>    附：环球时报对包卓轩事件的报道——反华势力跨国串联裹挟16岁男孩偷渡 中国警方迅速破案http://world.huanqiu.com/exclusive/2015-10/7762734.html。</p></blockquote>
-<p>刘晓原律师<a href="http://canyu.org/n104205c6.aspx">声明原文</a>（转载自Canyu.org）：</p>
-<blockquote><p>我的孩子也不能办护照出国留学：我孩子是南昌大学大四学生，准备明年大学毕业后去出国读研究生。</p>
-<p>九月中旬，通过国内正规的留学机构办理出国申请手续。按照留学机构的要求，必须在今年十一月之前办理好护照，以便在12月份向国外大学递交申请材料。孩子读大学时户口已转到南昌。</p>
-<p>10月8日，我的孩子去办理护照。办证部门说，公安机关户籍档案上的照片有些模糊，让他一个星期之后再来。</p>
-<p>今天（10月15日）下午，我的孩子如约来到南昌市公安局出入境接待大厅。办证警察在电脑上查询后，说他不能办理护照。</p>
-<p>我孩子一开始问是什么原因？警察不说。在追问之下，警察说是北京市公安局封锁了不能办理，说他参加了什么反动组织。</p>
-<p>我孩子说，自己只是一个大学生，从没有参加任何组织。</p>
-<p>警察又说，你给北京市公安局打电话。我孩子再问，打那个部门电话，警察说打北京市公安局第一总队，但警察并没有告知我孩子电话号码。</p>
-<p>算上我的孩子，这已经是锋锐律师事务所第三个律师的孩子被限制出境。第一个是王宇律师的儿子包卓轩，第二个是于合金律师的儿子，他儿子在上海交通大学读书，四年制本科，这个学期已是大二。按学校安排，他儿子在上海交通大学读两年，然后交换到美国的一所大学读最后两年。今年8月1日，他的孩子随老师去英国牛津大学做暑期交换生一个月。在上海虹桥国际机场出境时，他的孩子被边检拦下，说是北京市公安局限制出境，理由是出国可能危害到国家安全。现于律师的孩子正在读大二，明年秋季还要出国读两年。</p>
-<p>参与首发，转载请注明出处。（www.canyu.org）</p></blockquote>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E5%8E%9F%E5%BE%8B%E5%B8%88%E4%B9%8B%E5%AD%90%E4%B9%9F%E8%A2%AB%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E5%8E%9F/?category=18271" rel="tag">刘晓原</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -684,7 +666,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -694,5 +676,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

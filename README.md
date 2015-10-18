@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%BB%AD%EF%BC%9A%E3%80%8A%E7%8E%AF%E6%97%B6%E3%80%8B/" target="cdt-mirror">【立此存照】编造“中国梦”事件后续：《环时》只用英文道歉</a>
+</h2>
+<p><p>近日，《环球时报》被指编造外国学者为习近平及其“中国梦”唱赞歌。根据《纽约时报》报道：</p>
+<blockquote><p>哈佛大学历史和政治学教授马若德(Roderick MacFarquhar)本月在北京的<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/">一个马克思主义会议</a>上谈及习近平的“中国梦”。他说，习近平所说的中国复兴说“在智识上是一个不连贯、不广泛、缺乏力量的理念，”不足以与西方思想抗衡。但中国官方的《环球时报》对此的回忆不同。它把马若德的话改成了，“中国梦”将会对人类发展做出巨大贡献，发挥积极影响。</p></blockquote>
+<p>党媒发挥版如下：</p>
+<blockquote><p>美国哈佛大学教授罗德里克·麦克法夸尔表示，习近平主席提出的中国梦，是中国马克思主义者对马克思主义作出的创造性发展，将对人类发展产生重要贡献和积极影响。</p></blockquote>
+<p>面对来自各方的谴责，《环时》英文版近日公开<a href="http://www.globaltimes.cn/content/947582.shtml">发表道歉</a>，<strong>称“一家中文媒体”误将这则间接引用当作了马若德教授的言论，而该报在翻译时因疏忽大意，没有就内容进行核查，所以是“失误”</strong>。</p>
+<p>然而<strong>《环时》的道歉，无论可信与否，似乎都没有中国读者的份儿。</strong>这则全英语道歉只是针对《环时》的译文。而<strong>那曲不存在的“中国梦”赞歌，仍在各大新闻网站，包括《环时》旗下的<a href="http://china.huanqiu.com/hot/2015-10/7735653.html">环球网</a>中继续存在着</strong>。大陆媒体对此一致沉默，就好像这桩丑闻或者误会从未发生过一样。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-1.50.41-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-1.50.41-AM.png" alt="global times" width="550" height="440"></a></p>
+<blockquote><p>
+<strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%A0%E6%96%87%E7%AB%A0%E6%96%87%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84%E3%80%8A%E6%B7%B7%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84/" rel="bookmark"> 东网 | 章文：“真实”与《环球时报》无缘 </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B5%9E%E6%AD%8C%EF%BC%9F%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E6%9B%BF%E4%BD%A0%E5%94%B1%EF%BC%81/" rel="bookmark">纽约时报 | 不会唱赞歌？中国媒体替你唱！ </a></li>
+</ul></blockquote>
+<p>另外，《环时》英文道歉中所提到的那“一家中文媒体”，很显然是指由<strong>中宣部直接领导的党报：《光明日报》</strong>。2015年10月11日，该报将涉事文章刊登在了<strong>头版</strong>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-1.54.18-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-1.54.18-AM.png" alt="光明日报头版文章" width="550" height="448"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5%E5%A4%B4%E7%89%88.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5%E5%A4%B4%E7%89%88.png" alt="光明日报头版" width="400" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%BB%AD%EF%BC%9A%E3%80%8A%E7%8E%AF%E6%97%B6%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">世界马克思主义大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">光明日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%A5%E5%BE%B7/?category=18271" rel="tag">马若德</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%8E%E8%A3%94%E5%90%8D%E5%AA%9B%E5%80%9F%E6%89%B6%E8%B4%AB-%E5%BD%93%E4%B8%AD%E5%9B%BD%E5%95%86%E4%BA%BA%E8%A1%8C%E8%B4%BF%E4%B8%AD%E9%97%B4%E4%BA%BA/" target="cdt-mirror">苹果日报｜华裔名媛借扶贫 当中国商人行贿中间人</a>
 </h2>
 <p><p><strong>【编者注】严雪瑞（Sheri Yan）之父严阵为知名画家，曾创作诗画作品《中国梦》。严雪瑞在其<a href="https://www.linkedin.com/pub/sheri-yan/87/48a/a42">LinkedIn页面</a>个人介绍中称，自己掌管的公司eChinaCash 与中石化签署了一份价值数百万美元的20年合约，为其管理预付积分卡“中国石化加油卡”项目。</strong></p>
@@ -41,7 +66,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%9F%B3%E5%8C%96/?category=18271" rel="tag">中石化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E4%B8%9A%E8%B4%BF%E8%B5%82/?category=18271" rel="tag">商业贿赂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E5%9B%BD%E5%86%85%E6%96%B0%E6%9E%81%E6%9D%83%E5%9B%BD%E9%99%85%E6%96%B0%E5%86%B7%E6%88%98/" target="cdt-mirror">莫之许：国内新极权国际新冷战</a>
 </h2>
@@ -629,30 +654,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%85%B1%E7%BA%AA%E5%A7%94%E5%AE%A3%E5%B8%83%E5%8F%8C%E5%BC%80%E5%9B%9B%E5%90%8D%E7%9C%81%E7%BA%A7%E5%B9%B2%E9%83%A8/" target="cdt-mirror">BBC | 中共纪委宣布“双开”四名省级干部</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151016074823_yang_dongliang_976x549_reuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151016074823_yang_dongliang_976x549_reuters_nocredit.jpg" alt="中纪委公布的消息中没有提及杨栋梁被处分是否与天津港爆炸事件有关" width="600" height="337"></a><p>中纪委公布的消息中没有提及杨栋梁被处分是否与天津港爆炸事件有关</p></div>
-<p><strong>中国中共中央纪委在周五（10月16日）同一时间宣布四名中央委员和候补委员因“严重违纪”被“双开”，这是中国当局对同时开除党籍和公职处分的说法。</strong></p>
-<p>中纪委监察部网站于周五下午1时同时发布两条消息宣布了这些决定，被处分的包括河北省委原书记、省人大常委会原主任周本顺，国家安全生产监督管理总局原党组书记、局长杨栋梁，内蒙古自治区党委原常委、自治区政府原副主席潘逸阳和广西壮族自治区党委原常委、南宁市委原书记余远辉。</p>
-<p>消息同时宣布，中纪委对四人的违纪问题进行立案审查。</p>
-<p>当局对四人的违纪状况陈述中均提到了“严重违反政治纪律和政治规矩”，其中的“政治规矩”是今年7月以来中共官方在提及被处分官员时所常用但并未明确解释的一个新说法。</p>
-<p>关于四人的陈述中均提到了除违反党纪以外，四人各自滥用职权为他人谋取利益以及收受贿赂等“涉嫌犯罪”。</p>
-<p><strong>先后“接受调查”</strong></p>
-<p>中纪委在去年9月宣布潘逸阳“接受组织调查”，其余三人则分别在今年5月至8月期间先后被公布接受调查。</p>
-<p>54岁的潘逸阳曾历任广东省团委书记、江西省委常委、省委农工部部长，2010年调往内蒙古出任内蒙古自治区党委常委，自治区政府党组副书记，一个月后出任自治区常务副主席。</p>
-<p>中纪委于去年9月宣布潘逸阳接受组织调查，他也成为自中共十八大后的第七位落马的中央委员或中央候补委员。</p>
-<p>余远辉则历任梧州市委副书记兼市长、自治区党委常委、秘书长、办公厅主任等，2013年5月起任自治区党委常委、中共南宁市委书记。他在今年5月被宣布接受组织调查，有消息指在被查前几个月他仍在高调推动反腐。</p>
-<p>周本顺在湖南任职多年，从湖南省地质学校教师做起，后成为该校团委副书记，并担任湖南省地质矿产厅政治部秘书，2013年3月成为中共河北省委书记。他在7月24日被宣布接受组织调查，成为中共十八大后首位落马的在任省委书记。</p>
-<p>作为国家安全生产监督管理总局局长的杨栋梁在今年8月被免去领导职务，消息宣布前几天，天津港发生了有毒化学物品仓库大爆炸，造成多人死伤和严重环境污染问题。</p>
-<p>中纪委公布的消息中没有提及杨栋梁被处分是否与爆炸案有关，而在爆炸事故发生当晚，他还曾率工作组赶赴天津指导抢救工作。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%85%B1%E7%BA%AA%E5%A7%94%E5%AE%A3%E5%B8%83%E5%8F%8C%E5%BC%80%E5%9B%9B%E5%90%8D%E7%9C%81%E7%BA%A7%E5%B9%B2%E9%83%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA/?category=18271" rel="tag">严重违纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%93%E5%B1%80/?category=18271" rel="tag">当局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%BA%AA%E5%BE%8B/?category=18271" rel="tag">政治纪律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A7%84%E7%9F%A9/?category=18271" rel="tag">政治规矩</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -664,7 +665,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -674,5 +675,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BA%86%E4%B8%B0%E5%8C%85%E5%AD%90%E4%B8%A4%E5%AE%B6%E5%BA%97%E6%B6%89%E9%A3%9F%E5%93%81%E5%8D%AB%E7%94%9F%E9%97%AE%E9%A2%98-%E8%A2%AB%E5%81%9C/" target="cdt-mirror">【网络民议】庆丰包子两家店涉食品卫生问题 被停业整顿</a>
+</h2>
+<p><p>@搜狐新闻：据北京商报报道 日前，庆丰包子就10月16日微博网友爆料大慧寺店以及顺义国泰店涉食品卫生问题一事在官微上发布回应。回应显示，经庆丰包子铺总部调查核实，这两家店铺均存在违反食品卫生规定的问题，并对涉事店铺采取停业整顿的举措。</p>
+<p>北京商报记者从庆丰包子铺连锁企业了解到，公司已对涉及此次食品卫生问题的相关负责人及店铺负责人依法做出严肃处理，同时，为进一步加强对连锁店铺食品安全工作的督导力度，在企业内部原有督导部的基础上，扩大成立了营运督导中心，并聘请第三方专业机构“中国检验认证集团检验有限公司”（以下简称“CCIC”）为食品安全把关。</p>
+<p>庆丰包子铺相关负责人告诉北京商报记者，此次聘请CCIC第三方认证公司，将针对“产业链上游供应商、自有加工厂风险管理”、“供应商关键管控方案制定”、“门店食品安全风险监测与排查”等方面进行全面合作，为北京庆丰包子铺提供安全保障。此外，从昨日起，北京庆丰包子铺开始对全部连锁店铺进行为期3个月的食品安全专项检查行动，并由中检集团和北京庆丰包子铺营运督导中心逐一进行复查。</p>
+<p><strong>事件回顾</strong></p>
+<p>今年9月15日，网友微博爆料在庆丰包子铺顺义国泰店用餐时吃出蟑螂；10月16日，另一网友爆料在庆丰包子铺大慧寺店的醋里吃出腻虫。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/61e04755jw1ex6li89dplj20a40dhmx4.jpg" alt="61e04755jw1ex6li89dplj20a40dhmx4" width="364" height="485"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/61e04755jw1ex6li91wcbj20a40dhaaa.jpg" alt="61e04755jw1ex6li91wcbj20a40dhaaa" width="364" height="485"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Img423617203.png" alt="Img423617203" width="640" height="427"></p>
+<p><strong>以下网民评论选自新浪微博：</strong></p>
+<p><a href="http://weibo.com/fxyx" target="_blank">livetobelieve</a>：哈哈哈 包子不仅漏了馅还招虫</p>
+<p><a href="http://weibo.com/5623763786" target="_blank">统战专员</a>：好的，最高包子也腐败了。</p>
+<p><a href="http://weibo.com/u/1855876425">砚凝秋</a>：没想到啊没想到，你这浓眉大眼的家伙也有食品卫生问题了？</p>
+<p><a href="http://weibo.com/2763617587" target="_blank">美帝铁杆粉丝</a>：不是腊肉么？怎么会是虫子呢？</p>
+<p><a href="http://weibo.com/laolie" target="_blank">一心二眼</a>：怎么对的起皇恩？</p>
+<p><a href="http://weibo.com/2187688014" target="_blank">约等于九</a>：再这么黑下去，以后包子都成禁词了<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/yaohai120" target="_blank">V字封印</a>：你们懂个屁，包子文化研究中心的研究成果好么！鸡肉味，嘎嘣脆，蛋白质含量是牛肉的6倍，都没加钱！！！</p>
+<p><a href="http://weibo.com/5714066233" target="_blank">一块红布80</a>：有没有过期腊肉馅包子，张买点喂五毛<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8192.png" alt="" width="20px" height="20px"></p>
+<p><a href="http://weibo.com/2051885045" target="_blank">倾听真实声音</a>：蛤蟆想吃包子了</p>
+<p><a href="http://weibo.com/3784036492" target="_blank">gatsby0605</a>：这是呈心要黑包子呀，谁干的？谁把这样的新闻捅出来的</p>
+<p><a href="http://weibo.com/2407630125" target="_blank">听雨楼上听雨人</a>：敌对势力干的</p>
+<p><a href="http://weibo.com/1980504927" target="_blank">劈柴喂马走走天下K</a>：包子露馅了<img title="[阴险]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/yx_org.gif" alt="[阴险]"></p>
+<p><a href="http://weibo.com/1631506554" target="_blank">北冰洋4770</a>：庆丰包子完蛋了<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/2323720542" target="_blank">M_JLT</a>：这要追究代言人的责任，听说代言人畏罪潜逃去英国了</p>
+<p><a href="http://weibo.com/5601956659" target="_blank">被遗忘者的长枪</a>：这是闹哪样……人家一出访，你们就折腾<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/victor8897" target="_blank">Victor_邹</a>：“庆丰”谐音“清风”当年被大力宣扬了一番、如今看来该脏的地方怎么也干净不了！</p>
+<p><a href="http://weibo.com/luchuanhw" target="_blank">川哥非常忙</a>：所以习大大只吃了一顿，原来他早发现了<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
+<p><a href="http://weibo.com/1977046305" target="_blank">西北候爷</a>：吃这包子的都是些猪脑子</p>
+<p><a href="http://weibo.com/2437581982" target="_blank">太空堡垒自由号</a>：这是一起反革命阴谋陷害案件<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]">庆丰不哭，庆丰挺住</p>
+<p><a href="http://weibo.com/hechengqinqu" target="_blank">河城NTR</a>：???:“我老公看到这则报道后，当场把隔夜饭都吐出来了，现在哭着闹着非要去洗胃，怎么办？<img title="[泪]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]">在线等，挺急的<img title="[抓狂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/62/crazya_org.gif" alt="[抓狂]">”</p>
+<p><a href="http://weibo.com/1956608870" target="_blank">Tomorrow5188</a>：小编开门，顺丰快递</p>
+<p><a href="http://weibo.com/3608482481" target="_blank">love小梅哥哥</a>：呵呵！庆丰包子，预示着什么？</p>
+<p><a href="http://weibo.com/1870358390" target="_blank">里四象</a>：皇上的脸被抽肿了啊哈哈哈<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/5655298586" target="_blank">糖糖Sandy1991</a>：把逃往英国的那个代言人，就是那个胖子抓起来！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/1656290145" target="_blank">馬嘢嘢嘢嘢</a>：包子上的小强，蹦跶不了多久咯<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BA%86%E4%B8%B0%E5%8C%85%E5%AD%90%E4%B8%A4%E5%AE%B6%E5%BA%97%E6%B6%89%E9%A3%9F%E5%93%81%E5%8D%AB%E7%94%9F%E9%97%AE%E9%A2%98-%E8%A2%AB%E5%81%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%85%83%E5%B9%B4%E7%B2%BE%E9%80%89/?category=18271" rel="tag">庆丰元年精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">庆丰包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">食品卫生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 21分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AE%B8%E5%80%AC%E4%BA%91-%EF%BC%9A%E9%97%AD%E5%85%B3%E6%81%B0%E5%9C%A8%E7%9B%9B%E4%B8%96%E5%A7%8B/" target="cdt-mirror">许倬云 ：闭关恰在“盛世”始</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image4.jpg" alt="image" width="517" height="360"></a></p>
@@ -644,32 +686,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BD%9C%E6%B2%A1%E6%96%87%E5%8C%96%E7%9C%9F%E5%8F%AF%E6%80%95%EF%BC%8C%E5%81%87%E8%A3%85%E6%9C%89%E6%9B%B4%E5%8F%AF%E6%80%95/" target="cdt-mirror">王五四｜没文化真可怕，假装有更可怕</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/mmexport1444396356320.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/mmexport1444396356320.jpg" alt="腊鱼_邝飚" width="400" height="542"></a><br><em>（漫画作者：邝飚）</em></p>
-<p><em>【编者注】作者微信公号原文已被和谐。</em></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E6%9C%B1%E5%AD%A6%E4%B8%9C%EF%BC%9A%E5%AF%B9%E7%85%A7%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B9%A6%E5%8D%95%EF%BC%88%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E7%89%88%EF%BC%89%EF%BC%8C/">朱学东：对照习近平总书记书单（史上最全版），愧煞</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E7%BE%BD%E6%88%88%EF%BC%9A%E6%8A%A5%E4%B9%A6%E5%8D%95/">羽戈：报书单</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%B5%A4%E7%9C%89%E9%99%88%E6%9B%B4%EF%BC%9A%E5%90%91%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%AD%A6%E4%B9%A0%E5%8D%9A%E8%A7%88%E7%BE%A4%E4%B9%A6/">赤眉陈更：向习主席学习博览群书</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/x%E5%8D%9A%E5%A3%AB%EF%BD%9C%E4%BB%96%E4%BB%AC%E8%AF%95%E5%9B%BE%E8%AE%BA%E8%AF%81%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E8%8E%B7%E5%BE%97%E8%80%85%E4%B8%8D%E6%98%AF%E8%AF%97/">X博士｜他们试图论证诺贝尔文学奖获得者“不是诗人”</a></li>
-</ul></blockquote>
-<p>要显得自己有文化，文章应该这样开篇：在这个秋风送爽，瓜果飘香的季节里……,当我在思考什么是文化时，我老婆正在边上看《琅琊榜》的最后两集，想到心爱的电视剧即将完结，哭得一把鼻涕一把泪，都抹我身上了，于是我就决定先不把《康熙来了》即将停播这个消息告诉她，以免给自己雪上加霜。</p>
-<p>文化是一个很宽泛的概念，给它下一个严格和精确的定义非常困难，哲学家、社会学家、人类学家、历史学家都试图从各自学科的角度来界定文化的概念，结果都失败了，最近语言学家成功了，语言学家根据受到的启发总结出，文化就是凭记忆背出自己读过的书名的能力，文化程度的高低与能背诵出的书名的多少成正比，不难看出，中国已经是文化大国了，全世界都知道。</p>
-<p>相比有文化的中国，法国在文化领域就差了很多，他们的文化部长在一次电视采访中居然表示，两年来她从未读过任何一部小说，对获得诺贝尔奖的法国小说家帕特里克·莫迪亚诺的作品也一无所知。“过去两年间，我除了看一些通告、立法文件和电传新闻之外，没有时间读书。”，看到这我不禁呵呵了，小小的法国文化部长再忙能忙得过中国国家主席吗？对于文化部长不读书不看报的行为，连法国自己的新闻网站都看不下去了，“我们要对她的坦诚表示肯定。她告诉我们部长紧凑的日程安排没能留出享受阅读乐趣的时间，还好她没有靠死记硬背作者介绍来欺骗我们。”，看来法国急需一场文艺座谈会，不过在召开文艺座谈会之前，建议先对这家口无遮拦的网站进行审查，不然很有可能步中国文化部的后尘。</p>
-<p>很佩服中国文化部的胆量，敢在新浪微博开账号，而且还打招呼，“各位网友好，文化部官方微博正式开通了！……期待大家的支持和关注！”，很快，大家就来“支持和关注”了，网友纷纷表态：“为什么不让我们看美剧，闭关锁国的经验教训历史课没学吗？；禁美剧禁日漫就是你的错了，日漫告诉我的道理比熊出没那两只蠢 熊打那个光头要多得多；我看什么电影要你管，我看什么电视要你管；日漫禁、美剧禁，连港片也禁，就是不禁国产脑残片……，不再一一例举了，毫无疑问，文化部要加强文化推广，瞅瞅网民都文盲成什么样了，广电总局和文化部傻傻分不清楚，把广电总局的账都算文化部头上了。面对网民们疯狂地无端指责文化部也不用上火，赶紧喊广电总局来开个微博吸引火力。</p>
-<p>比文化部胆子还大的是贝爷，就是那个在《荒野求生》里无所不吃的贝爷，贝爷热衷于只佩戴水瓶、火石和刀子以身犯险，向人们真实演示如何在荒野中生存，只要能吃的东西 都能成为他赖以生存的能量源泉，他被称为“食物链顶端的男人”，听说他最近来中国搞了一档以国内为背景的生存栏目，不得不佩服他的胆量，不过在我看来这种胆量是因为没文化造成的，是时候让他见识一下中国的地沟油了，不是说什么都能吃吗？也该适时派出几组城管让他感受感受了，别说野外生存了，就算在城里让你也没法生存。比贝爷还没文化的要属马云了，他在杭州云栖大会上讲到了三次技术革命，认为技术革命对于未来的影响将是巨大的，他说“第一次技术革命是体能的 释放，让人的力量更大，第二次技术革命是对能源的释放，使得人可以走得更遥远，第三次技术革命是IT时代走向DT时代，是真正的大大的释放。”，你们的大大什么时候能把政治犯释放才是第三次“技术革命”，对于未来的影响才是巨大的。</p>
-<p>没文化很可怕，有文化也挺惹事的，有文化有态度的网易最近就惹恼了人民日报，网易小编经常对人民日报的文章加以解读然后提炼出一个大标题进行转载，这个标题往往还是反面的，一身正气的人民日报哪里受得了，于是今天人民日报连续发文指责网易新闻，如应对不好，丁磊恐怕只能去养猪了。人日的文章呼吁建立全网原创 作品平台，让原创者“更有尊严、更有获得感”，读到这，我这个经常被封号和删除文章的人只想说：想骗我？我可是上过小学的人。人日的文章还说“一个有名有份的新闻网站，靠消费媒体同行混饭吃，把‘有态度’和‘无操守’划上等号，也是醉了。”，我想网易新闻对于“媒体同行”这个身份内心一定是充满委屈的，哪是什么同行，一个青楼一个闺楼。</p>
-<p>这种事肯定少不了环球时报的身影，胡锡进主编就撰写了一篇《希望网易修改标题不是为构陷他人》，写这篇文章时胡主编大概忘了澳大利亚国立大学国家安全学院院长梅徳卡尔夫，三年前梅院长发现一篇署了自己名字的评论文章出现在《环球时报》上，然而他并没有写这篇文章。类似的事情还有，哈佛大学历史和政治学教授<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%A0%E6%96%87%E7%AB%A0%E6%96%87%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84%E3%80%8A%E6%B7%B7%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84/">马若德本周给《环球时报》发邮件</a>说，环球时报在报道本月在北京举行的世界马克思主义大会时，说他称赞“中国梦”会对人类发展作出巨大贡献，“这完全是捏造的”。</p>
-<p>今年是我大学毕业十周年，也就是说我已经是一个有十年文化经验的文化人了，明天是大学同学毕业十周年聚会，有事不能参与,祝同学们好：）。其实没文化没事， 但要讲文明，我给大家讲讲我的师弟文明，他是一个科研工作者，昨天他跟我说“夜里把天天爱消除打通关了，我的寂寞失落一起涌上心头，我反复问自己，我还能干点啥还能干点啥”，今天他又跟我说“前几天我师弟说现在包饺子直接买机器压好的面皮就行，我当时有些许失落，我唯一的擀皮手艺就要这么被时代抛弃了吗？ 后来我想明白了，机器压皮边缘和中心一样厚，手工擀皮中心厚边缘薄，所以我的手艺不会淘汰，这是工匠精神。”，瞧，这就是有文化的文明人。最后他还嘱咐我 “你没事儿多和文明哥聊聊天，少和那些文艺女青年交心。”，是啊，“贴近文明，靠近方便”，上厕所也能学到文化，好好读几本书吧，别整天背书名。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BD%9C%E6%B2%A1%E6%96%87%E5%8C%96%E7%9C%9F%E5%8F%AF%E6%80%95%EF%BC%8C%E5%81%87%E8%A3%85%E6%9C%89%E6%9B%B4%E5%8F%AF%E6%80%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -691,5 +707,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,135 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AE%B8%E5%80%AC%E4%BA%91-%EF%BC%9A%E9%97%AD%E5%85%B3%E6%81%B0%E5%9C%A8%E7%9B%9B%E4%B8%96%E5%A7%8B/" target="cdt-mirror">许倬云 ：闭关恰在“盛世”始</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image4.jpg" alt="image" width="517" height="360"></a></p>
+<p>如前所述，清帝国既以强大征服者的姿态，拥有暴力统治的基础，又根据中国传统皇权，驯服了中国的文化精英。在这种背景之下，大清时代的文化活动，毋宁说也是在皇权掌握之下;康、雍、乾三代，朝廷发动的文化活动，一部分是压制明代开始的王阳明心学传统;另一部分，则是严防中国知识分子的反清运动。明末清初，中国读书人发展了自由心态以及对过去的检讨，例如，黄宗羲在《明夷待访录》所主张的政治改革和顾炎武对于中国历史文化的批判——凡此，清朝政权都不愿发生。反清的民族主义，例如王船山的《读通鉴论》和吕留良等人主张的复明运动，当然更受到强力的排斥和压制。<strong>清朝皇室一方面以修明史的名义，抓住对明清递换之际的历史解释权，取缔民间修撰的明史稿，发动大规模的文字狱，吓阻汉人再作同样的尝试。</strong></p>
+<p>另一方面，政府主动编撰大型的丛书，例如《四库全书》，以这个方式选择性地排斥不利于“夷狄”的记载。这些大型的编撰工作，发动了大量学术精英参与，借此将这些儒生笼络于政府掌握之下。乾、嘉以后，朴学大兴，儒生的精力都集中在考证和校勘，致力使经典回归原来的面貌。这一活动，在好的角度说，是排除后世对古代经典的扭曲和遗落;换一个角度，回归经典原貌的努力成为学术主流，而对于经典的阐释，就无人再作努力。经典的意义永远保留在原典状态，不再有因时俱进的解释和开展。经典固定了，不断更新经典意义的活力也就丧失了。儒家经典只停留在朱学的解释，也就是伦常纲纪的意义，对于统治者而说，最有利于肯定忠君思想和伦理观念。</p>
+<p><strong>文化成就由边缘人物创造</strong></p>
+<p>经过清初百余年皇权的强力干预，中国的儒生都成为俯首从命的书呆子。明代留下的经世传统，只存在于颜元、李塨的实用之学。汉代今文学派以下，对于宇宙论和历史发展论的解释，只是不绝如缕而已。儒家传统的结晶化，也就是僵化，持续到晚清，恰当中国面临文化危机的时候。中国文化缺少开展的活力将近二百年之久。这一特色，可以见之“四王”的作品缺乏创造性。又例如，清代的瓷器和家具，多姿多彩而烦琐，失去了明代青花瓷和家具那种素雅的艺术风格。在主流以外的艺术圈，例如“扬州八怪”等人，却发展了一些新鲜的主题和风格。</p>
+<p>在文学和表演艺术层面，清朝时的成就乃是小说和京剧，两者都是主流以外的边缘人物创造的成就。文学领域，民间说书人为小说提供素材，而且由此创作了一些长篇著作。曹雪芹当然不是民间的说书人，但是他也不属于当时文化界的主流。现在成为中国传统舞台艺术重要形态的京剧，乃是一批徽班演员，撷取了昆曲、汉剧等等地方戏曲的精华，综合为复杂而优美的舞台艺术。凡此例证都证明，政治力量的高压与收买，固然驯服了文化精英群，那些边缘地带的人物，却还是可以在夹缝中脱颖而出，对于文化的转型和发展做出重大的贡献。</p>
+<p>文化传统主流的儒学，已经僵化;一些民间的宗教活动，从边缘出发，掌握了基层老百姓的精神需求。最值得注意者，乃是根据中亚传来启示性信仰而发展的白莲教。这一个教派，源远流长，可以上溯到民间道教、佛教和摩尼教。在元代末年，最大的一支抗元武力，就是明教的教徒。在明代，明教潜伏在民间，逐渐转化，成为白莲教。乾、嘉时代，白莲教活动从川楚到山东、山西，范围广大，活动频繁，甚至曾经一度攻入紫禁城;在各处的起事，也是前仆后继，成为当时主要的内乱之一。最大一个宗教性的活动，则是咸丰时代的太平天国。这一个冒充基督教的民间运动，实际上也是民间教派的活动，而且加上反清复汉的族群意识。到清代快终了时，义和团的活动，则将族群意识的箭头，转向于反对西方力量;义和团本身的意识形态和组织方式，仍旧是中国民间教派活动的传统一脉。这几次大规模的变乱，可说是因为主流文化的儒家留下了一片空白，无法满足一般平民的精神需求，才由民间的教派活动填补了空缺。</p>
+<p><strong>西方的影响逐渐淡化</strong></p>
+<p>在文化精英群已经失去活力时，他们对于本国的文化，只是墨守成规。对于外来的文化，则因为自己没有信心，也就不能开放胸襟，接受新的挑战。明代西方文化初入中国，有一批中国学者，例如，徐光启、李之藻等人，愿意和西方来的学者对话;方以智更是从西方文化的启示上，发展一些可以融合中西的想法。在清朝，西方的影响却逐渐淡化，胸襟最开阔的康熙，自己也从西方传教士学习西方数学;但是，同一个康熙，为了大礼的争议，将西方传教活动实质上停止了。这些西方教士，从此只能在钦天监工作，因为西方的天文学，毕竟比中国传统天文学和中东传来的阿拉伯天文学更为精确。政府限制教士们只能在首都附近活动;他们也没有机会和中国的知识分子接触来往。</p>
+<p>甚至于在武备方面，清朝也采取保守态度，不再使用和发展西方的火器。如前所述，在清军入关前后，明、清交战双方，都曾使用火器。替清军做前锋的汉军部队，一路征战，使用铳炮，势如破竹。在康、雍、乾三代，向北方和西方扩张时，清军使用过大量的火器，其中很多是开国时汉军部队留下的武备。几次大战役，这些火器几乎消耗净尽了。在乾隆时代，进攻大、小金川，清军已不见重装备，全靠火枪作战。然而，乾隆认为，满洲武勇是以骑射为长，不应该数典忘祖，放下自己的传统。清早期三代以后，中国没有再出现制造和修理火器的兵工厂。直到清末，洋务运动时，才重新接上发展火器的传统。清初，17、18世纪时，西方正是民族国家逐渐兴起，国与国之间的竞争，以发展武备为要件。17世纪初期的枪炮，和当时中国使用的火器，精密程度相差不远。到了18世纪初，中国没有再发展，欧洲的军火技术却已经突飞猛进。单以火枪而论，从点火线的“铳”，已经发展成用撞针敲击子弹发射的步枪。乾隆时代，英国访问中国的代表团，回国时的报告称中国是个没有国防军备的国家。果然，在鸦片战争时，广州虎门炮台上，只有三藩之乱时候的“红衣大炮”，对方则是当时最先进的海军炮!</p>
+<p><strong>结束的开始</strong></p>
+<p>自从蒙古打通了东、西之间的海陆信道，欧亚大陆上知识的传播相当流畅。中国的许多传统工艺，例如，瓷器的烧釉，毛丝织品的混纺技术，甚至于传统中药的药材，都有相当多的改变。康、雍、乾三代以后，中国的工艺，基本上停滞不动。明末，西洋“水法”传入中国，水压喷泉和流水，也用来作为庭园和灌溉的设施。英法联军烧毁的圆明园，其建筑的方式，包括格局和上述水法，都有西方的影响。清代中叶以后，中国的建筑技术，不再容纳西方的方法和观念。</p>
+<p><strong>文化的闭关，恰是在清代“盛世”之时开始;到了清末，中国必须接受西方的文化时，从元明以来到清初的西方影响，都已经湮没不彰。不仅文化闭关，实际上所谓“盛世”，乃是文化活力的消沉。整个清代，除了皇室宫殿、庭园以外，中国没有大规模的公共工程。那些规模巨大的工程，主要只有防止黄河泛滥的河工，和保持漕运畅通的运河工程。中国传统上，筑路、开河、国防防御工程等等，都未见进行。明末，已经有相当不错的海船造船技术，自从清政府接收台湾以后，中国不再能制造远洋的大船。凡此现象，都显示清政权只是以威权统治中国，从来没想到要在原有的文化基础上，开张和发展——这也许真的是结束的开始(beginning of the end)。</strong></p>
+<p>《国家人文历史》2015年10月下独家稿件</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AE%B8%E5%80%AC%E4%BA%91-%EF%BC%9A%E9%97%AD%E5%85%B3%E6%81%B0%E5%9C%A8%E7%9B%9B%E4%B8%96%E5%A7%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%97%AD%E5%85%B3/?category=18271" rel="tag">文化闭关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%9D/?category=18271" rel="tag">清朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%AB/?category=18271" rel="tag">清末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9/?category=18271" rel="tag">西方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD/?category=18271" rel="tag">闭关锁国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%A7%82%E5%AF%9F%E8%80%85-%E5%88%98%E5%A4%A7%E4%BD%BF%E5%8F%8D%E9%97%AE%E8%8B%B1%E5%9B%BD%E8%AE%B0%E8%80%85%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E9%92%B1%E5%90%97%EF%BC%9F%E4%BD%A0%E4%BB%AC/" target="cdt-mirror">观察者 | 刘大使反问英国记者：你们有钱吗？你们有技术吗？</a>
+</h2>
+<p><p>刘大使火力全开。继接受Channel 4专访以后，这位中国驻英国大使昨天又接受了BBC著名记者安德鲁•马尔的专访。面对英国记者“英企能否反过来在中国投资建设核电站”的疑问，刘晓明大使当即反问：“你们有资金吗？你们有技术吗？你们有专家吗？如果你们这些都有，那我们就会像对待法国人一样，与你们合作。”</p>
+<p>“但我觉得英国在其他方面很强。”刘晓明大使不忘“安慰”对方。</p>
+<p>中国的中广核与中核集团，即将与法国电力集团一道投资建设英国欣克利角核电站，总造价高达240亿英镑。英媒预计，习近平访英期间，各方将敲定协议，中企将占30-40%股份。</p>
+<p>三天前，10月16日，刘晓明大使还接受了BBC另一档品牌节目《新闻之夜》的专访。主持人埃文•戴维斯问了几乎一样的问题，“如果中英位置互换一下，你认为中国会允许英国的承包商在中国建设核电站吗”，刘晓明大使回答：“我想问一个问题，英国有足够的资金在中国建设核电站吗？”</p>
+<p>戴维斯不愿放弃：“假如有？你认为有吗？”</p>
+<p>“我不太确定。我认为，英国希望中国来英投资建设核电站，是因为英国需要中国的资金和技术，中国拥有先进的核电技术，中国的核电站数量比许多国家都要多。”刘大使回答。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/20151019121940484.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/20151019121940484.jpg" alt="刘晓明大使接受BBC记者安德鲁·马尔专访" width="600" height="337"></a><p>刘晓明大使接受BBC记者安德鲁·马尔专访</p></div>
+<p><strong>以下为BBC《安德鲁•马尔秀》节目18日专访刘晓明大使实录，观察者网全文翻译：</strong></p>
+<p><strong>安德鲁•马尔（以下简称安德鲁）</strong>：中国在英国投资范围之广令人惊叹：核电站、铁路、房地产、维多麦（英国著名食品品牌，已被光明乳业收购——观察者网注）。本周，乔治•奥斯本大臣访华，并未提及人权问题，而另一方面，安全专家警告，中国接近英国国家机密的程度令人不安。中国国家主席进行国事访问前，我们请到了中国驻英大使刘晓明。欢迎大使先生。</p>
+<p><strong>刘晓明</strong>：谢谢。</p>
+<p><strong>安德鲁</strong>：第一个问题是关于中英关系。一旦遇到中国，我们（英国）是不是陷入了“行乞钵”经济，无权触碰人权等问题？</p>
+<p><strong>刘晓明</strong>：首先，我想，中国与英国是伙伴关系。我们称之为“全面战略伙伴”，因为两国都具有全球影响力。我们在许多领域合作，取得双赢效果。你谈到人权，我想这也是可以讨论的领域之一，但重要的是，从哪个角度谈？当你说人权的时候，你没有必要忘记中国的大背景。我希望大家能看到，中国在人权领域取得了多大进步。</p>
+<p><strong>安德鲁</strong>：所以，事情不断变化。比方说，工党领袖科宾说要在宴会上提人权，主席不会觉得被冒犯吧？</p>
+<p><strong>刘晓明</strong>：你觉得工党会在国宴上提这问题？我不这么看。你知道，主席是来谈合作、构建伙伴关系的。他不是专门来这儿辩论人权。我们都知道，中英两国历史、文化有很大差异。我们在不同的发展阶段。所以很自然，甚至在人权领域我们也有很多差异。在中国，我们更关心改善生活、工作、住房……你知道，中国人生活变好了。反过来看，我想，中国人历史上从未获得……</p>
+<p><strong>安德鲁</strong>：（打断对方）但很多异议分子坐牢。</p>
+<p><strong>刘晓明</strong>：<strong>（打断对方）我不能同意有“很多”。</strong>你知道，所有罪犯都是经过司法程序依法审判的。</p>
+<p><strong>安德鲁</strong>：但我们觉得很多人算不上罪犯，他们批评中国，却坐牢了。</p>
+<p><strong>刘晓明</strong>：<strong>没有人会仅仅因为批评了政府而被关进监狱的。被关的那些人是因为有犯罪事实： 煽动或组织参与颠覆国家政权。</strong>我想你也很清楚，即便是在英国，一旦你搅进了某些活动，某些有损英国利益的活动……</p>
+<p><strong>安德鲁</strong>：是的。</p>
+<p><strong>刘晓明</strong>：……那些威胁到人民生命安全的人也会被关入监狱。我们之间也许存在不同看法，但我们仍然可以就此互相交流。</p>
+<p><strong>安德鲁</strong>：如果可以的话，刘大使，我想问你一个具体的问题。艾未未在皇家美术学院举办个展，这是很长很长时间以来我们在伦敦看到的最为重要和激动人心的展览。这是个国际知名的中国人形象，我认为他是个爱国者——他非常、非常为自己的民族而自豪，他父亲同毛主席和党内人士都很亲近。但有一段时间他却被关进了监狱。你是把他视作一个持不同政见者，一个危险人物，还是一个有爱国心的重要中国公民？</p>
+<p><strong>刘晓明</strong>：我不知道你对这位所谓的艺术家有多少了解。曾经在贵国一个节目上我也被问到了相同的问题，我回答主持人说，艾未未不是我的菜。中国有如许多有才能的艺术家，但是……</p>
+<p><strong>安德鲁</strong>：（打断对方）是的，有许多。</p>
+<p><strong>刘晓明</strong>：比他优秀得多的艺术家多了去了，为什么就他这么出名？</p>
+<p><strong>安德鲁</strong>：这个嘛……（Well…）</p>
+<p><strong>刘晓明</strong>：<strong>就因为他在批评中国政府。至于……其实他从未被关进监狱过。那时他是因为经济犯罪在接受调查，他被怀疑做假账和销毁会计凭证。</strong>要是英国有这类艺术家你们会怎么做？如果他有犯罪事实你们会调查他吗？</p>
+<p><strong>安德鲁</strong>：好吧，我唯一可说的就是我们对此持不同意见。我认为他是一个了不起的艺术家，我要说，他的展览很棒。我们可以对此抱不同意见，再接着我们的访谈。威尔士亲王查尔斯决定不参加国宴，中国政府觉得受到冒犯了吗？</p>
+<p><strong>刘晓明</strong>：但查尔斯王子会在许多其他场合陪同习主席。他不能参加宴会大概是有充分原因的。我知道的是，威尔士亲王做了很大的努力，你知道，他为了见习主席甚至还调整了自己的原本日程。我想他至少会同习主席见三次面……</p>
+<p><strong>安德鲁</strong>：（打断对方）我能问一问……不好意思打断了你。据说英国情报部门已经警告过政府，说中国政府通过这类核协议，正越来越接近英国国家安全的核心地带。从某种意义上说，中国正在打开禁忌之门，而许多政府包括中国政府在内，是不会允许这种行为的？</p>
+<p><strong>刘晓明</strong>：我不知道他们从哪里得来的这些情报。我唯一能告诉你的就是中国来这儿是为了合作与双赢。我们认为这是为了英国的最大利益，也是为了中英双方的共同利益。我认为英国需要中国的投资，英国人民也想要一种更好的生活，希望一个清洁能源时代的到来。我知道你们在过去十多年里不得不处理掉那些老旧的核电站，现在你们也需要钱来建新的。</p>
+<p><strong>安德鲁</strong>：我们当然需要钱，也需要技术，但中国肯定不允许外国来建设其自身的核电站吧？</p>
+<p><strong>刘晓明</strong>：<strong>这个问题之前已经有人问过。但我要问的是，你们有资金吗？你们有技术吗？你们有专家吗？如果你们这些都有，那我们就会像对待法国人一样，与你们合作。你知道法国人的核设施。他们有技术，所以我们才和法国合作，我希望……但我认为英国其他领域很强。你为什么总是盯着中国的核电建设呢？</strong></p>
+<p><strong>安德鲁</strong>：这个嘛……我们期待下周能签个大单子，你觉得有可能吗？</p>
+<p><strong>刘晓明</strong>：我也希望如此，因为对两国来说，这确实是个很重要的项目。</p>
+<p><strong>安德鲁</strong>：最后一个问题，你早前说，你认为（工党领袖）杰瑞米•科宾不会在国宴上提出人权问题，但科宾方面有人说他会，如果他真做了，会怎样？</p>
+<p><strong>刘晓明</strong>：首先，我认为国宴是女王陛下举办的，那是她的秀场。不论科宾还是其他人，都是女王的宾客。英国人都十分绅士、聪慧，在这种场合，他们知道如何表现。但同时，我们也不回避人权问题。事实上，上周，我已见过科宾，聊得不错，我也确实希望……</p>
+<p><strong>安德鲁</strong>：所以，你的建议是不要公开谈论这个话题，以使你尴尬。</p>
+<p><strong>刘晓明</strong>：某种程度上来说，我对麦克风外交不感兴趣，对镜头外交也不感兴趣。我们更重视实质性谈话。如果他有问题，我们可以好好谈谈。</p>
+<p><strong>安德鲁</strong>：嗯，之后他可以告诉我们，大使，谢谢您参加讨论，祝您本次访问愉快。</p>
+<p><strong>刘晓明</strong>：不客气。</p>
+<p>附：</p>
+<p>2015年10月14日，驻英国大使刘晓明在英国《电视四台新闻》(Channel 4 News) 演播室接受主持人乔•斯诺（Jon Snow）直播专访，介绍习近平主席即将对英国进行国事访问的重要意义，并回答有关中英关系、中英经贸合作、中国经济等提问。专访实录如下：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/W020151016500777912397.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/W020151016500777912397.jpg" alt="W020151016500777912397" width="600" height="401"></a></p>
+<p>主持人：习近平主席远道而来，专程访问英国这样一个中等欧洲国家，希望从英国得到什么？</p>
+<p>刘大使：习主席访英是为了促进中英两国关系。你把英国称为“中等国家”，我们并不这样看，我们认为英国仍是一个拥有全球影响力的国家，是世界经济增长的动力源之一。中英之间可以合作的地方很多，英国是中国在欧盟内第二大贸易伙伴，中国是英国在欧盟外第二大贸易伙伴，英国是中国在欧洲最大投资目的国，过去三年间中国在英投资迅速增长。</p>
+<p>主持人：但中国经济形势并不容乐观，进口下降了20%，股市灾难性下跌。习主席是否能够说这些情况现在都已经过去了？</p>
+<p>刘大使：当你观察中国经济时，应当关注全局，应从长远的角度看待中国经济。从根本上说，中国经济仍然基本运行良好。今年上半年，增长率达到7%，中国经济增长速度仍然在世界上领先。</p>
+<p>主持人：难道您不认为这些情况表明，共产党国家和自由市场经济这两种理念之间一定程度上存在矛盾吗？两者之间能成功结合吗？</p>
+<p>刘大使：<strong>你把中国称为“共产党国家”是不对的，中国的国名是中华人民共和国，是由中国共产党所领导的，正如英国的执政党是保守党一样。</strong></p>
+<p>主持人：但在中国没有人能选举一个非共产党来管理中国。</p>
+<p>刘大使：<strong>中国共产党提供了强有力的领导，得到人民的拥护，人民支持共产党带领中国由贫穷走向繁荣。这样好的领导，为什么要更换？</strong>你只需看看中国过去的三十年的发展。中国从一个较为贫困的国家一跃成为世界第二大经济体，这是一个奇迹。</p>
+<p>主持人：英国是不是在中国人权问题上说得太多了？您认为英国应该停止讨论中国的人权问题吗？</p>
+<p>刘大使：我认为人权问题是可以探讨的。没有哪个国家是完美的。但你们刚才播放的视频给我留下一种印象，就是一说到中国的人权问题，你们往往只关注负面。要讨论人权问题，就必须有全面的观察，弄清楚人权到底是什么？我认为，人们有追求更好的生活、更好的教育、更好的工作机会的权利。我想所有人都会同意，中国人民的生活条件比以往更好，人均寿命比以往更长，人们享受自己的幸福生活。</p>
+<p>主持人：但是令人担忧的是死刑和拘留问题，有很多人被拘留。</p>
+<p>刘大使：你说有“很多”人，你们刚才放的短片说有上百人被拘，但要知道中国有十三亿人口……</p>
+<p>主持人：也许不止上百人。</p>
+<p>刘大使：我不知道英国有多少囚犯……</p>
+<p>主持人：但英国的囚犯是经过法律审判的。</p>
+<p>刘大使：在中国，也是要通过正常法律程序进行审判的。中国是一个法治国家，任何人违法都必须承担法律责任，所有法治国家都应该尊重法律。我们也许在国家治理方法上有所不同，但在厉行法治方面我想我们看法应是一致的。</p>
+<p>主持人：你看过皇家艺术学会举办的艾未未艺术展吗？</p>
+<p>刘大使：说实话，我对他的作品不感兴趣。英国有这么多博物馆，我都挤不出时间去欣赏。</p>
+<p>主持人：但他是国际上最知名的中国艺术家。</p>
+<p>刘大使：我不这么认为。我认为他之所以在西方出名是因为他对中国政府的政策持批评态度。</p>
+<p>主持人：他到底有什么问题？中国政府跟他有什么过节？</p>
+<p>刘大使：他曾因涉嫌做假账被警方审查，被限制出境。但现在有关限制已经取消，他可以出国搞展览，这恰恰说明了中国很开放。</p>
+<p>主持人：最后一个问题，新任工党领袖科尔宾最近抨击中国的自由市场理念，他特别提到了最近天津发生的火灾，批评中国搞自由市场，导致了这场灾难。您对这位左翼领导人是否感到失望？</p>
+<p>刘大使：事实上，我今天下午刚和他见过面，商讨他即将和习主席举行的会见。我们谈了很多，谈到了工党对中英关系所作的贡献，也讨论了党际交流，谈得很融洽。至于你刚才提到的事故，这是一场悲剧，中国政府正在调查此案，相关的责任人将受到惩罚，绝不留情。</p>
+<p>主持人：非常感谢刘大使接受专访。</p>
+<p>刘大使：不必客气。</p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%A7%82%E5%AF%9F%E8%80%85-%E5%88%98%E5%A4%A7%E4%BD%BF%E5%8F%8D%E9%97%AE%E8%8B%B1%E5%9B%BD%E8%AE%B0%E8%80%85%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E9%92%B1%E5%90%97%EF%BC%9F%E4%BD%A0%E4%BB%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">，颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%98%8E/?category=18271" rel="tag">刘晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BB%E8%8B%B1%E5%A4%A7%E4%BD%BF/?category=18271" rel="tag">驻英大使</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E5%B7%A1%E8%A7%86%E7%BB%84%EF%BC%9A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%A4%BE%E4%B8%8B%E5%B1%9E%E5%8D%95%E4%BD%8D%E6%90%9E%E6%96%B0%E9%97%BB%E6%95%B2%E8%AF%88/" target="cdt-mirror">BBC | 巡视组：人民日报社下属单位搞新闻敲诈</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151019035229_cpc-ccdi-inspection__512x288_cpcccdi_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151019035229_cpc-ccdi-inspection__512x288_cpcccdi_nocredit.jpg" alt="《人民日报》也在周一（19日）的要闻第四版中全文刊发了中纪委的全文反馈情况。" width="600" height="337"></a><p>《人民日报》也在周一（19日）的要闻第四版中全文刊发了中纪委的全文反馈情况。</p></div>
+<p><strong>在中央巡视组最新公布的巡视反馈情况中，中共《人民日报》的社属媒体被批 “打擦边球”和“踩红线”。其下属单位也存在有偿新闻、有偿不闻和新闻敲诈现象。</strong></p>
+<p>中共中央纪律检查委员会官网周日（18日）晚集中公布2015年中国中央巡视组第二轮专项巡视反馈情况，其中包括对《人民日报》与《求是》两家党媒的巡视结果。</p>
+<p>《人民日报》也在周一（19日）的要闻第四版中全文刊发了中纪委的反馈情况。</p>
+<p>巡视结果显示，《人民日报》落实中共中央八项规定精神不到位，公款旅游、超标准配备使用公车、违规多占住房等问题仍然存在。而对一些违规违纪问题查纠不力，处理偏宽偏软。</p>
+<p>对于下属单位，其监管缺失。而《人民日报》 的一些社属媒体“打擦边球”、“踩红线”、违反宣传纪律的行为时有发生。但具体的细节尚未公布。</p>
+<p>巡视结果还称，《人民日报》有的下属单位存在有偿新闻、有偿不闻和新闻敲诈现象。</p>
+<p>关于一些领导干部的问题线索，中纪委称，已转相关部门处理。</p>
+<p>今年6月30号到8月31号，中国中央第四巡视组对人民日报社进行了专项巡视。</p>
+<p>人民网介绍其为中国第一大报，1992年被联合国教科文组织评为世界十大报纸之一。</p>
+<p>《人民日报》有26种社属报刊，其中在中国国内最被读者熟知的报纸包括专注报道国际时事的《环球时报》中英文版、经济类报纸《证券时报》和《国际金融报》等。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E5%B7%A1%E8%A7%86%E7%BB%84%EF%BC%9A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%A4%BE%E4%B8%8B%E5%B1%9E%E5%8D%95%E4%BD%8D%E6%90%9E%E6%96%B0%E9%97%BB%E6%95%B2%E8%AF%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84/?category=18271" rel="tag">中央巡视组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A1%E8%A7%86%E7%BB%84/?category=18271" rel="tag">巡视组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%81%BF%E6%96%B0%E9%97%BB/?category=18271" rel="tag">有偿新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E5%BA%94%E8%BE%A9%E8%AF%81%E7%9C%8B%E5%BE%85%E9%83%A8%E5%88%86%E7%BB%8F%E6%B5%8E%E6%8C%87%E6%A0%87/" target="cdt-mirror">【异闻观止】人民日报 | 应辩证看待部分经济指标下行</a>
 </h2>
 <p><p>《人民日报》日前刊发文章称，第三季度以来，我国部分经济指标出现下滑或波动，又一次引发各界对中国经济下行压力的担忧。文章表示，当前经济下行压力确实存在，但只有辩证解读指标，才能准确客观地把脉经济。</p>
@@ -544,134 +670,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%8B%E5%AE%87%E5%A4%AB%E5%A6%87%E4%B8%8A%E5%A4%AE%E8%A7%86%E8%B0%B4%E8%B4%A3%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/" target="cdt-mirror">【网络民议】王宇夫妇上央视“谴责境外势力”</a>
-</h2>
-<p><p><strong>新闻背景：</strong></p>
-<p>10月16日，新华社发表奇闻<a href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-16%E5%B2%81%E5%B0%91%E5%B9%B4%E5%81%B7%E8%B6%8A%E5%9B%BD%E5%A2%83%E4%BA%8B%E4%BB%B6%E7%9C%9F/">《“16岁少年偷越国境”事件真相调查》</a>，指包蒙蒙出逃缅甸是受“境外势力裹挟”。17日，包龙军王宇夫妇上CCTV新闻，“强烈谴责境外势力”。澎湃新闻等媒体在微博上转载了<a href="http://weibo.com/5044281310/CFtTgujZq?type=comment#_rnd1445059429288">新华社的文章和央视新闻的截屏</a>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005vnhZYgw1ex3vds7inzj30c81n6n1r-1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005vnhZYgw1ex3vds7inzj30c81n6n1r-1.jpg" alt="005vnhZYgw1ex3vds7inzj30c81n6n1r (1)" width="440" height="2130"></a></p>
-<p><strong>以下为中国数字时代编辑摘自新浪网友评论：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.36.34.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.36.34.png" alt="Screen Shot 2015-10-16 at 下午10.36.34" width="596" height="611"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.36.51.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.36.51.png" alt="Screen Shot 2015-10-16 at 下午10.36.51" width="590" height="645"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.37.09.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.37.09.png" alt="Screen Shot 2015-10-16 at 下午10.37.09" width="594" height="241"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.38.01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%8810.38.01.png" alt="Screen Shot 2015-10-16 at 下午10.38.01" width="587" height="596"></a></p>
-<p>黄林-晴天创造：回复@芮少石:你朝一边怕别人把16少年带去搞颠覆，一边把自己的子女往外送，这是有多么的人格分裂症啊？</p>
-<p>治愈五毛：一对嫌疑人的儿子没有出国的权利！红色？红色后代不会攻击红色政权当然是例外了，是吧@薄瓜瓜</p>
-<p>老水门：我曾见到孩子父母与宣传口不同的发声，请给辟谣，谁在说谎造谣——但清勿通过那臭名昭著的“央视”，以及“大放”过“卫星”、常常指鹿为马的“新华社”，可以吗？……</p>
-<p>阿波琪13号_：律师真是个敏感的职业</p>
-<p>Feifei20132014：新华人日环球连个标点符号都不能信</p>
-<p>长鼻像：股市大跌是敌对势力干的，雾霾是敌对势力干的，贪污腐败是敌对势力污染干部所为，养老延后是敌对势力长期腐蚀养老基金所为。笑了醉了</p>
-<p>晋阳堂的唐：唉，现在的百姓都不好骗了，怎么办？</p>
-<p>lxsc131：1.父母到底犯了什么罪？ 2.正常途径到底能不能走？</p>
-<p>-陈峰：到处都是你们的敌人，境外的，境内的，你们的朋友都哪去了？</p>
-<p>@1982风:敌对势力是个筐，什么都能往里装。此筐曾有很多名，戏法多年不重样。右倾主义彭罗杨，赫鲁晓夫四人帮，如今改革闹开放，土筐也要穿洋装。</p>
-<p>New黄：你们连外国专家和媒体的话都敢曲解和改编，你让我相信你们代这位母亲的说的话？而且她还在监狱里。</p>
-<p>华夏九幽府主：一个封闭互联网的国家，一个迫害记者的国家，一个存在死磕律师以死求法的国家。你说这里有公开？你说这里有公正？你说这里有法制？别逗了，现在不是把控着报纸电视这类传统媒体就可以洗脑人民掩盖事实的时候了，网络，将会成为揭开政府黑幕的最好手段。</p>
-<p>砀山人_在上海G：@环球时报 @人民日报 @新华网 发表《维权律师之子遭境外势力裹挟》一文，弱弱的问下：政府为什么没收包蒙蒙的护照？律师都见不到包龙军，王宇，记者是怎么见到的？凭什么剥夺人家会见律师的权利？敢让包龙军，王宇，包蒙蒙公开，自由的接受采访吗？凭什么不让刘晓原律师的孩子出国留学？一面之词谁信？</p>
-<p>迷迭香香儿：为什么要偷‘渡，不就是你们把一个正常孩子的护’照没收了才这样的。出去读书有错吗</p>
-<p>行素山人：瞎子、小孩都被你党锦衣卫残酷迫害，可耻啊，还振振有辞！！</p>
-<p>打熊难：这盛世，如你所愿</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%8B%E5%AE%87%E5%A4%AB%E5%A6%87%E4%B8%8A%E5%A4%AE%E8%A7%86%E8%B0%B4%E8%B4%A3%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E9%BE%99%E5%86%9B/?category=18271" rel="tag">包龙军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%85%E7%94%B8/?category=18271" rel="tag">缅甸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E6%8D%8D%E5%8D%AB12%E6%B5%B7%E5%93%A9%E4%B8%BB%E6%9D%83%E4%B9%A0%E6%80%BB%E5%A5%A5%E6%80%BB%E6%96%97%E5%98%B4/" target="cdt-mirror">【习总日记】捍卫12海哩主权习总奥总斗嘴</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，17）</p>
-<p>美国军方扬言挑战我南海岛礁12海哩主权，我当机立断发出邀请，有种驾着你的小船来东海北海黄海渤海挑衅。</p>
-<p>美军回信说不去不去，只去南海。</p>
-<p>没办法，我只好给奥巴马总统发短信：有事好商量。</p>
-<p>奥：其他事还好说，这事没商量。</p>
-<p>习：你想干嘛？</p>
-<p>奥：头脑发热忘乎所以自高自大。怕你做傻事，泼盆凉水给你提个醒。</p>
-<p>习：愿闻其祥。</p>
-<p>奥：不承认你们所谓的南海岛礁12海哩主权。</p>
-<p>习：哟嗬，单刀直入，这可不是中国的特色。</p>
-<p>奥：当今世界，只要美国在，就轮不到你中国指手划脚制定游戏规则。参与都不行。</p>
-<p>习：过去不行，所以小平同志提出韬光养晦。可如今咱世界经济第二，军事力量日益壮大，造舰像下饺子，航母两艘同时开建。今非昔比的中国，在自家门口历史九段线内宣示主权，宣示势力范围，这么小的一块奶酪也不肯给，你也太小气了吧。</p>
-<p>奥：大家都是在道上混的，你的心思我明了。什么“太平洋很大，能容纳中美两国”，什么“新型大国关系”，什么“东海防空识别区”，埋的是同一种药，唱的是同一首歌，就是翅膀硬了胳膊粗了，想划分自己的势力范围。我判断得没错吧。</p>
-<p>习：奥总聪明天纵。是这么个理儿。</p>
-<p>奥：谢谢。习总啊，请听明白了，南中国海，从前我们不管是因为你们实力不济无法染指，大家也就相安无事，各国船只在那里自由通过。现在你们搭上了经济全球化的便车，发财了有钱了，造了些军舰就忘乎所以瞄准南中国海想纳入你们的势力范围。告诉你两个字，休想。</p>
-<p>习：吓了我一跳。我还以为是“做梦”。</p>
-<p>奥：都什么时候了，你还有心开玩笑。</p>
-<p>习：生性幽默风趣，没办法。毛主席说过，不管风吹浪打美苏吓唬，胜似闲庭信步拔脚就溜。</p>
-<p>奥：习总，今天把我们美国的底线给你挑明了吧，省得你想入非非跃跃欲试不撞南墙不回头。经济方面，三十年搭顺风车吃香喝辣舒坦够了，也该给你们双规双规了。在规定的时间内，先签BIT，后签TPP。军事方面，以你担任中国共产党总书记2012年11月为线。所有你上任后搞出来的东西我们统统不予承认。东海防空识别区我们不承认，南海岛礁12海哩主权我们不承认。</p>
-<p>习：我们比三十年前强大了，这个事实你承认不承认？</p>
-<p>奥：承认。</p>
-<p>习：我们对世界所承担的责任是不是比三十年前要多一些了。</p>
-<p>奥：是。</p>
-<p>习：每次北韩金正恩把导弹瞄准韩国日本，我们立马送钱过去。为了促进当地经济，我们使用激将法诱使中国消费者去美国欧洲日本购物。</p>
-<p>奥：如何激将？</p>
-<p>习：指美国为敌对势力，号召抵制日货。中国老百姓倔，喜欢与政府拧着干反着来。</p>
-<p>奥：中国人民是伟大的人民。</p>
-<p>习：可不是吗？这样的人民，你好意思欺负？</p>
-<p>奥：不对，我们是欺负中共，不是欺负中国人民。</p>
-<p>习：在我们中国，中共就是中国，就是祖国，就是人民的父母。</p>
-<p>奥：别扯远了。你等着我们军舰的到来吧。</p>
-<p>习：你们敢来，我就敢打。</p>
-<p>奥：你敢打，我就敢来。当然，你不打我也来。</p>
-<p>习：你真不信我敢打？</p>
-<p>奥：我们美国人与你们中国人的思维方式不一样，我们径直来，来时作好战斗准备。而不去想你们会不会打。如果你们开火，我们便还击。</p>
-<p>习：我们不开火，我们驱赶。</p>
-<p>奥：那就看谁的军舰硬。</p>
-<p>习：好好好，算我怕了你。</p>
-<p>奥：哈哈，露怯了吧。你怎么向你们的人民交代？</p>
-<p>习：中国人民笨，好骗。</p>
-<p>奥：怎么骗？说来听听。让我开开眼。</p>
-<p>习：中华文化博大精深，不是你们老外能够领会活用的。</p>
-<p>奥：你不说拉倒。反正与我无关。</p>
-<p>习：好啦好啦，我告诉你吧。其实也不难，就是屏蔽国外消息，死活不承认你们军舰进入12海哩。</p>
-<p>奥：那我派海军陆战队员登岛。</p>
-<p>习：我删除图片。</p>
-<p>奥：我不跟你争，反正我们进入12海哩是做给世界看，而不是给中国人民看。</p>
-<p>习：我们与你们相反。我们只是做给人民看。能够瞒着中国老百姓，不让他们知道真相，就够了。</p>
-<p>奥：66年，不容易啊。</p>
-<p>习：岂止66年，90年了。要不要学，我免费教。</p>
-<p>奥：谢了。这种伎俩只能在中国使。</p>
-<p>习：你话里的意思是中国人民笨，是不是？</p>
-<p>奥：我可没说。</p>
-<p>习：你的意思就是是。我明天告诉中国人民，美国总统嫌你们笨。</p>
-<p>奥：我向你道歉，求你别告诉中国人民。</p>
-<p>习：只要你军舰不进入12海哩，我就不说。</p>
-<p>奥：嗯，好吧。我服了你。你这个流氓。</p>
-<p>习：你们美国才流氓，大流氓。</p>
-<p>奥：你这小流氓。只会欺负自己老百姓的小流氓。</p>
-<p>习：我想欺负南海周边国家，你让吗？</p>
-<p>奥：嗯，我又说错话了。第二次向你道歉。</p>
-<p>（作者：何岸泉）</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E6%8D%8D%E5%8D%AB12%E6%B5%B7%E5%93%A9%E4%B8%BB%E6%9D%83%E4%B9%A0%E6%80%BB%E5%A5%A5%E6%80%BB%E6%96%97%E5%98%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/12%E6%B5%B7%E5%93%A9%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">12海哩主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E6%98%8E%EF%BC%9A%E8%AF%B7%E8%8B%B1%E6%96%B9%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E4%BA%BA%E6%9D%83/" target="cdt-mirror">法广 | 刘晓明：请英方不要跟习主席谈人权</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%882.41.36.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-16-at-%E4%B8%8B%E5%8D%882.41.36.png" alt="Screen Shot 2015-10-16 at 下午2.41.36" width="550" height="307"></a><br>
-（资料照片：英国首相卡梅伦与中国国家主席习近平握手。）</p>
-<p>作者：安德烈</p>
-<p>中国国家主席习近平即将访英，英国正在尽最大努力高规格接待。从英国的准备程度判断，应是万无一失，但是中国仍然在人权问题上打预防针，中国驻英大使刘晓明稍早时候在伦敦称，“如果有人在习近平访问期间强调中国人权问题，习近平将会觉得不受尊重”。这句话受到许多媒体的关注。</p>
-<p>报道刘大使的这番话的消息源自英国『卫报』，然而许多媒体都从不同角度做了报道，香港出版的英文版『南华早报』网这样开题：“中国驻英大使：如有人就人权问题发难，主席不会回应”。接下来一句非常显眼：“刘晓明说，如果中国也在人权问题上教训英国，英国人也会觉得‘反之亦然’”。从这个标题和导语判断，中国驻英大使使用了“发难”和“教训”。英国会不会问及中国人权，谁也不知道，许多人判断，从英国目前全力准备迎接的气氛，问这个话题的可能性似乎不大。但是，据报道将参加欢迎习近平国宴的英国工党领袖科尔宾此前已明确表示，他准备向习近平提人权问题。据『卫报』称，英国当局正设法让科尔宾不要“捅篓子”。不知能否做到万无一失。</p>
-<p>刘晓明这句话，在媒体上引起许多网民反应。有人问，英国方面问及中国人权，中国不高兴可以理解，人家怎么会是发难？其次，一说人权就是“教训”，也很难让人理解。设想中国向英国提及英国存在人权问题，英国驻华大使不会使用这样战争气味很重的词汇。</p>
-<p>中央社相关报道的标题是“习近平访英 大陆：别谈人权问题。”。该文的导语是：“大陆驻英大使刘晓明受访时说，如果有人在习近平访问期间强提中国人权问题，习近平将会觉得不受尊重”。</p>
-<p>法国『费加罗报』的报道题目是：“外国领导人被请求不要跟中国国家主席谈人权问题”。该报报道说，如果访问英国的时候被人问及人权问题，那等于是对红色皇帝习近平的触犯”。该报接着写道，刘晓明认为习近平访英“可能为中英两国开启一个黄金年”，这一表达方式暗示将会签下一系列重大合同。当然，条件是不要徒然地惹怒习近平。</p>
-<p>该报强调，自从习近平2012年年终掌握大权，上紧螺丝，压制自由。严厉强化审查。把数百名包括记者、律师、博客作家和大学学者在内的异见人士投入监狱。希冀如此既巩固中共的铁腕统治，让强硬派放心；又能从容完成经济自由化改革。习近平已经不能容忍一点点不同的声音。作为一个雄心勃勃期望在全球贸易交流中扮演重大角色，与美国共治世界的中国一号强人，也同时向自由、民主、人权等西方价值开战。这篇报道在网上引起热议，有些发表意见的网民自称是中国人。</p>
-<p>从英国官方目前的表现看，一句话，全力以赴迎接习近平到来，英国在习近平访英前夕任命曼德尔森为英中协会新主席。这位新主席说，“中国国家主席习近平下周将国事访问英国，这标志着英中关系的新高度”，他还说，英国有一个广泛的跨党派共识，扩大和深化与中国的关系是重要的。</p>
-<p>英国女王将主持隆重的欢迎仪式，陪同习近平检阅英国皇家仪仗队，和英女王夫妇一同坐马车回宫，和英国首相卡梅伦一起去曼彻斯特、参观曼城足球集团等等。</p>
-<p>一派欢迎的气氛，中国大使在这个时候“放风”施压，用一个网友的话说“杀气腾腾，是不是找错了地方”。还有网友说，“大度一点，人权有问题，人家问一问，也是一种尊重”</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E5%88%98%E6%99%93%E6%98%8E%EF%BC%9A%E8%AF%B7%E8%8B%B1%E6%96%B9%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E4%BA%BA%E6%9D%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%98%8E%E5%A4%A7%E4%BD%BF/?category=18271" rel="tag">刘晓明大使</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BB%E8%8B%B1%E5%A4%A7%E4%BD%BF/?category=18271" rel="tag">驻英大使</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +681,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +691,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

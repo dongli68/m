@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%A5%E8%AE%BF%EF%BC%8C%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%B0%88%E9%92%B1%E4%B8%8D%E8%B0%88%E6%94%BF%E6%B2%BB/" target="cdt-mirror">纽约时报 | 习近平来访，英国政府谈钱不谈政治</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/18CHINA1-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/18CHINA1-articleLarge.jpg" alt="18CHINA1-articleLarge" width="550" height="433"></a><br>
+（为迎接习近平访问英国，一位工人在英国中国城的一条街上进行装饰工作。）</p>
+<p>作者：Jane Perlez<br>
+北京——英国财政大臣乔治·奥斯本(George Osborne)上个月访华时，选择了一个非同寻常的目的地，他飞到了动荡的新疆地区，那是人权组织指责北京迫害维吾尔少数民族的地方。</p>
+<p>他是在为中国国家主席习近平对英国进行国事访问做准备工作，习近平周一抵达英国。奥斯本希望能为英国建筑公司在一个雄心勃勃的项目中拿到合同，该项目将把新疆变成公路、铁路和油气管道的门户，把中国通过中亚与欧洲连结起来。</p>
+<p>“让我们共同合作，让英国成为中国在西方最好的伙伴，”奥斯本热情洋溢地说，这是美国官员不太可能对中国使用的语言。</p>
+<p>奥斯本的访华行程突显了英国政府与中国关系的重点在经济上，而不是在有争议的问题、比如人权问题上，这种姿态受到中国的热烈欢迎。习近平之行将包括下榻白金汉宫以及乘坐皇家马车，中国官方媒体称访问预示着中英两国关系“黄金时代”的开启。这是中国领导人十年来首次对英国进行国事访问。</p>
+<p>中国外交部副部长王超上周表示，习近平访问期间，将签署”金额巨大”的协议，这次国事访问将于周五结束。预计签署的协议包括一个拖延已久的、中国对英国核电站投资的项目。英国官员说，该协议可能会为中国投资另一个核电站项目铺平道路，那个核电站将由一家中国国有企业设计建设。到目前为止，还没有公众所知的英国在新疆的贸易协议。</p>
+<p>中国企业已经对英国基础设施拥有股份，包括伦敦希思罗机场和曼彻斯特一个机场在内的两个机场的股份，以及北海油田项目的股份。中国电信公司华为技术有限公司还为英国电信网络提供设备，而美国以安全为由，禁止华为在美国经营。英国为监督华为运营而成立的一个委员会已宣布，该公司对国家安全不构成威胁。</p>
+<p>“显然，乔治·奥斯本做出决定，吸引中国对英国进行大笔投资，是挽救英国经济的途径，”欧洲改革中心外交政策主任伊恩·邦德(Ian Bond)说。“他不把外交部和安全政策看在眼里。”</p>
+<p>作为美国亲密盟友的英国，是申请加入中国今年新成立的亚洲基础设施投资银行的第一个西方国家，尽管华盛顿反对亚投行。</p>
+<p>中国人民大学国际关系教授宋新宁说，中国政府对英国政府把商业置于其他考虑之上的决定很赞赏。“英国人不仅有商业头脑，也有战略智慧，”宋新宁说，他反映的是中国政府的观点。“英国如今是中国在欧盟的第二大贸易伙伴，而它曾名列第四。”</p>
+<p>英国首相戴维·卡梅伦(David Cameron)曾于2012年在伦敦会见了西藏流亡精神领袖达赖喇嘛，此举令中国人愤怒。</p>
+<p>打那以后，卡梅伦再未与达赖喇嘛见面，他基本上把与中国打交道的事交给了奥斯本，而奥斯本主要关心金融和投资。</p>
+<p>奥斯本努力的一个重点是希望让伦敦成为中国货币人民币的一个主要贸易中心。几家中国银行已获准在英国开分行。中国人民银行也将于近期在伦敦发行短期人民币债券，这是人民币债券首次在中国境外发行，奥斯本上个月在上海证券交易所发表演讲时这样说。</p>
+<p>许多人批评英国政府把商业利益置于其他问题之上，包括网络安全、中国日益增长的领土野心，以及人权问题。</p>
+<p>习近平国事访问之前发生的一件令人尴尬的事是，英国13世纪《大宪章》(Magna Carta)为数极少的幸存手抄本之一的陈列展，未能在北京的中国人民大学如期举行，这份文件概述了应该保障的个人权利。由于英国外交部所称的“行政”原因，这份可能看来具有极大政治影响力的文件被转移到英国大使馆的一个小房间里展出。</p>
+<p>中国准备投资建设的核电站的设计已引起人们的批评，而中国对英国核电项目的继续参与也引发了有关国家安全问题的质疑。</p>
+<p>被称为欣克利角(Hinkley Point)C的核电站将建在英格兰的萨默塞特，核电站由一家法国公司经设计，据总部设在伦敦的《中国对话》(Chinadialogue)双语网站的主编伊莎贝尔·希尔顿(Isabel Hilton)说，公司的设计有问题。英国官员说，有望与中国广核集团和中国核工业集团公司达成让这两家中国国有企业拥有核电站30％到40％股份的协议。</p>
+<p>“据英国政府的说法，吸引中国投资的诱饵，是他们将获许在埃塞克斯建造运行另一个核电站的承诺，”希尔顿说。“这将让中国国有企业拥有英国重要基础设施的一部分，出于国家安全考虑，对这一过激做法肯定应该进行公开的辩论。”</p>
+<p>翻译：Cindy Hao</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%A5%E8%AE%BF%EF%BC%8C%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%B0%88%E9%92%B1%E4%B8%8D%E8%B0%88%E6%94%BF%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%AE%AA%E7%AB%A0/?category=18271" rel="tag">英国大宪章</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%BB%AD%EF%BC%9A%E3%80%8A%E7%8E%AF%E6%97%B6%E3%80%8B/" target="cdt-mirror">【立此存照】编造“中国梦”事件后续：《环时》只用英文道歉</a>
 </h2>
 <p><p>近日，《环球时报》被指编造外国学者为习近平及其“中国梦”唱赞歌。根据《纽约时报》报道：</p>
@@ -624,34 +655,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%93%88%E8%BE%BE%E5%86%85%E8%92%99%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%94%BF%E5%BA%9C%E9%97%A8%E5%89%8D%E4%B8%BE%E7%89%8C%E4%BF%83%E6%94%BE%E5%84%BF%E5%AD%90/" target="cdt-mirror">自由亚洲 | 哈达内蒙自治区政府门前举牌促放儿子</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/c7fc0089-f1e8-445e-b4a3-686f9ab37dd31.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/c7fc0089-f1e8-445e-b4a3-686f9ab37dd31.jpeg" alt="c7fc0089-f1e8-445e-b4a3-686f9ab37dd3" width="550" height="395"></a><br>
-10月16日上午，哈达手持这个纸牌到内蒙政府门外抗议。（哈达提供/记者乔龙）</p>
-<p>内蒙古异议人士哈达的儿子威勒斯，本周四被包头市公安局青山区分局以“阻碍执行职务”为由，行政拘留十天。周五，哈达带着抗议材料，到内蒙古自治区政府门前举牌抗议，后被数十名公安上前阻止，于是到公安厅要求追究殴打威勒斯的警察责任。这是哈达二十多年来，首次进行公开抗议行动。</p>
-<p>蒙古族异议人士哈达的儿子威勒斯，本周四与母亲新娜在包头住宅区范围散步时，与跟踪的公安发生语言冲突，结果被以“阻碍执行职务”为由，处以行政拘留十日。目前羁押在包头市第一行政拘留所。哈达本周五上午九点告诉自由亚洲电台，冲突的责任在于跟踪的公安：“据了解，这次冲突完全是警方造成的，是他们打了母子，而且打伤了威勒斯。我敦促官方放威勒斯，将打人的警察绳之以法。我马上到内蒙古党委门前，举牌抗议”。</p>
-<p>上午十点多，哈达抵达内蒙古自治区党委门前举牌抗议，要求包头警方立即无条件释放威勒斯，但遭到众多特警拦截，并阻止他举牌。哈达告诉记者：“我大概在十点多到的，有好几辆特警车，有几十个警察，他们把我拽住，不准去（举牌）”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/m0430-ql1p1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/m0430-ql1p1-1024x695.jpg" alt="m0430-ql1p1" width="550" height="373"></a><br>
-哈达与儿子威勒斯。（哈达提供/记者乔龙）</p>
-<p>记者：您有没有把牌子拿出来，您跟他们怎么说？</p>
-<p>回答：牌子已经举了。他们说这个地方不让抗议，让我去派出所问了情况以后，到公安厅或者信访处反映，他们再调查处理。</p>
-<p>本台前一天曾报道，周四上午，哈达的妻子新娜和儿子威勒斯，在包头住所外谈论家事，一位负责监视他们的国保贴身监听他们母子对话，被新娜指责后，双方发生争执。新娜称，这名国保出手打威勒斯，也打了她几拳。威勒斯手上有伤。稍后被警察带到派出所。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/m1016-ql1p1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/m1016-ql1p1-732x1024.jpg" alt="m1016-ql1p1" width="550" height="769"></a><br>
-10月15日，哈达的儿子威勒斯被包头警方处以行政拘留十日。（新娜提供/记者乔龙）</p>
-<p>新娜对记者说：“抓我儿子的是姓陈的国保，就是上次绑架我的两个人之一，我在（派出所）做问询的时候，把前因后果都讲了。我提出三点要求，第一坚决要求法办跟着我们的那一个警察，第二，让公安拿出一天24小时非法跟踪、监控我们的法律依据，第三就是叫他们不要再骚扰我的同学和朋友。我在签字时最后写了一句：抗议内蒙古公安厅对我们一家人的无休止迫害”。</p>
-<p>新娜和威勒斯曾因声援哈达被当局报复。2010年12月3日，哈达出狱前一周，新娜被以“非法经营罪”刑事拘留，后被判刑三年缓刑五年。威勒斯给周永康写信提出申诉，结果在当地一网吧被捕，其后被公安指在其家搜出毒品，以“涉嫌非法持有毒品罪”，羁押一年多。</p>
-<p>新娜担心儿子被拘留期间，再遭到殴打。她说：“我估计我的儿子去了他们那里还要被打。在光天化日之下，已经动手了，进他们那里面（拘留所），绝对要打的，他们就是打击报复。所以我很担心我的儿子安危”。</p>
-<p>哈达对包头警方拘留其儿子表示愤怒，他周五说：“他们抓我儿子，打我儿子，都是他们造成的，我要求立即释放我的儿子，对涉嫌犯罪的警察绳之以法”。</p>
-<p>今年60岁的哈达曾在1989年创办蒙古学书店，后与朋友成立“内蒙古民主联盟”。并担任主席。他主张内蒙古高度自治。后被内蒙当局以“分裂国家”等罪判刑15年，刑满出狱后又被以“剥夺政治权利”为由，法外羁押4年。去年12月9日获释后，遭到当局严密监控，他们一家人的银行帐户被冻结，申请护照被拒绝，外人不得去他家探访，遭受种种侵犯人权的待遇。</p>
-<p>(特约记者:乔龙；责编：胡汉强/马平）</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%93%88%E8%BE%BE%E5%86%85%E8%92%99%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%94%BF%E5%BA%9C%E9%97%A8%E5%89%8D%E4%B8%BE%E7%89%8C%E4%BF%83%E6%94%BE%E5%84%BF%E5%AD%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4/?category=18271" rel="tag">内蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%97%E8%AE%AE/?category=18271" rel="tag">内蒙古抗议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E8%BE%BE/?category=18271" rel="tag">哈达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E5%8B%92%E6%96%AF/?category=18271" rel="tag">威勒斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%A8%9C/?category=18271" rel="tag">新娜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%99%E5%8F%A4%E6%97%8F/?category=18271" rel="tag">蒙古族</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -673,5 +676,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

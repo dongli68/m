@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E7%BD%91-%E7%AB%9E%E9%80%89%E6%80%BB%E9%83%A8%E6%88%90%E7%AB%8B-%E8%94%A1%E8%8B%B1%E6%96%87%E8%87%B4%E8%BE%9E%E5%85%A8%E6%96%87/" target="cdt-mirror">三立新闻网 | 竞选总部成立 蔡英文致辞全文</a>
+</h2>
+<p><p>我们的主任委员陈菊、菊姐，今天在座还有很多位民进党的前主席，还有各位前院长，今天站在台上我们各县市竞选总部的主任委员，还有我们竞选总部总干事苏嘉全、执行总干事林锡耀，在座还有很多民主前辈。最重要的是，现场所有的好朋友，大家午安，大家好。</p>
+<p>今天是我们竞选总部成立，在大家的右手边，是一栋点亮台湾的大楼，在未来九十天的选战里，就是我们凝聚力量、实现理想的基地。今天我来到现场演讲之前，我们有很多来自各族群、各行各业的朋友，以及不同世代的代表，用歌唱、用舞蹈、用谈话，来表达对台湾的热爱。我们还有县市长跟专家学者，用具体清楚的政策，来告诉大家，国家未来要走的方向。我们更看到很多的公民朋友，带了「小猪」来到现场。</p>
+<p>过去任何层级的选举，在成立竞选总部的时候，这样的场景，从来没有出现过。但是，我们做到了。改变台湾，我从选举开始，这就是我的承诺。我们要把台湾带到一个真正属于人民的时代。所以今天，我们把团结的台湾、全民的参与、改革的热情、务实的政策，以及坚定的支持，全部呈现在竞选总部成立的活动当中。</p>
+<p>我相信，台湾的每一个角落，都有许许多多支持我们的人，从今天开始，我们的力量会越来越大。从北平东路的这一个点变成线，然后由线变成面，未来，我们要集结所有改革的力量，我们一定要打赢这场选战。在各位的左手边，从下午开始，我们的工作人员一方面要接待贵宾，一方面要接待小猪。</p>
+<p>在这里，我要再一次向所有捐出小猪的朋友，说一声谢谢，多谢。民进党是人民用一张张的选票、和一笔笔的捐款养大的，没有人民的支持，就没有民进党。这一点，我们全党上下都放在心上。我要说一个小故事。我有一个随身的助理，外号叫「小馒头」，我想很多人都认得他，每天都是他载着我到处跑行程。我发现，每天晚上他送我回家之后，都已经很晚，但是他都坚持要把车子开回党部放着，自己再骑摩托车回家，然后，隔天早上，再骑摩托车来党部开车。</p>
+<p>有一天，我忍不住要问他，为什么要这么的麻烦。他跟我说，「主席，这台车子是载妳的，妳不在车上，就不能浪费油钱。而且那不是我的车，那是用支持者的捐款租来的车，如果把车开回家停在路边，我实在是不放心」。我听了之后很感动。各位，这就是民进党，这就是我们对待每一笔捐款的态度。我们绝对不会辜负人民的期待，每一分钱，每一份支持的力量，我们都会好好的珍惜。</p>
+<p>我们要再一次谢谢，所有台湾人民给我们的鼓励跟支持。你们的支持，就是民进党重新站起来的动力。每一只小猪，都是帮助我们走完最后一哩路的鼓励。就在刚刚，各位看到的那支短片，里面有许多人在讲他们对台湾对国家的期待。有原住民的朋友，期待落实族群平等的理想；有新住民的朋友，期待台湾变得更多元；有上班族的朋友，希望能够停下来喘一口气，好好的生活；有充满朴实梦想的大学生；当然，也有希望回馈家园的银发族。</p>
+<p>他们的想法很简单，他们要的其实不多，他们只想生活在一个「多元平等、安居乐业」的台湾。多元，就表示他们希望，台湾是一个可以包容不同认同的国家。平等，就表示他们希望，活在台湾的每一个人都有相同的机会，来创造有一个尊严的生活。安居乐业，就是希望有一个家，有一份自己喜欢的工作，安安稳稳地过日子，这就是他们要的。</p>
+<p>政治的纷扰、政治人物的争执跟恩怨，从来都不是人民所关心的事情。这些乱象，只会让他们厌烦。争权夺利的政治，永远无法为人民带来安居乐业的生活；你争我夺的权力游戏，也绝对无法让这个国家向前迈出大步。政治不应该是这么复杂。当政治变得既复杂又难懂、吵吵闹闹、却又神神秘秘的时候，政治人物就应该要反省跟检讨。政治应该越简单越好，政治应该要直接响应人民的需求，政治应该要帮人民解决实际的问题。而这就是我未来想帮台湾做的事。</p>
+<p>如果我有机会领导这个国家，我有决心，我会组成一个政府。在我的政府里，民众的「安居乐业」会摆在第一位；在我的政府里，如何让社会安定进步，会是这个国家最重要的议题。英派的政治，就是帮人民解决问题的政治，英派的政治，就是帮人民实现理想的政治。人民的理想，不管再怎么平凡，就是最重要的事情。唯有帮人民实现理想的政府，才是我们值得期待的政府。</p>
+<p>这个国家已经乱够了，也乱得够久了，我坚信一股稳定的力量，才是这个时代的人民共同的盼望。我有自信做得到，我有自信做这个承诺，我们要给人民一个安定的环境。我这么有自信，我有两个原因。第一、现在站在各位面前的这个政党，是一个曾经痛苦失败过的政党。2008年，我们从执政党，变成一个只剩下27席立委的在野党。过去这七年来，我们经历了各种的挑战，各种的困难，好几次都像站在废墟上面。不过，我们从来没有放弃过，我们也从来没有想要走回头路。我们在民主的选举中失败，我们只有用更民主、更开放的作法，来重新赢得人民的信任。</p>
+<p>黑箱从来就不是这个党的选项。这个党，从上到下，不管成功或失败，我们永远相信制度，相信民主，相信人民。我们知道，这个国家需要我们，而且我们也愿意为这个国家承担。所以，民进党人不会选择战场，不论选情乐观或悲观，我们都全力以赴，来获得人民的认同。再艰困的选战，我们都不会放弃，只要推出候选人，我们都是用心用力战到最后一刻。</p>
+<p>我们现在的台中市长、桃园市长、基隆市长、新竹市长，都是这样拼出来的。他们勇敢承担，为了理想、为了服务人民，选输了就再选。就是这份韧性，让民进党从谷底爬起来。这个在逆境中成长的政党，这些在逆境中承担的人才，这样不放弃的精神，正是我们现在台湾最迫切需要的。永远不要看轻一个重新站起来的政党，永远不要看轻我们这一群人的韧性，也永远不要看轻我们这一群人要改变国家的决心。</p>
+<p>我的信心来自于第二个理由，我一再强调，我不是一个人。我有一个团队，而且，我的团队成员都很优秀，我的团队也很团结。我们有十三个执政县市，这是一支阵容坚强的「台湾队」。这些县市培育了许多台湾的政治人才，这些人才，不只现在是台湾发展的重要推手，他们还可以撑起台湾未来十年、二十年。</p>
+<p>而且，现在的民进党，每一个世代的人才都到位了。在这里，我要告诉大家，如果我们执政，现在这个团队还会越来越大，越来越强。因为，我们将不分党派、不分族群，广纳人才。我们会团结所有的力量，组成最强大的改革团队。我相信，这个团队，不仅仅是人民的团队，这个团队就是人民自己组成的团队。带领这样的团队，是我毕生的光荣跟骄傲。也只有这样的团队，才有办法把政治还给人民，才有办法带领台湾走向新时代。新时代、新台湾，不会从天而降。为了要让这个新的台湾成为可能，过去几个月来，作为候选人，我按部就班推出了许多的政策和理念。</p>
+<p>我承诺，民进党执政之后，我们要做三件事情来壮大台湾，这三件事情是充实民主、创新经济、建立公义。同时，我们两岸政策的重点，是要「维持现状」。维持现状有两个成分，第一、维持台湾自由民主的生活方式和既有的宪政体制。第二，两岸之间要维持和平稳定的发展关系。我们会尽一切的努力，确保台海局势的稳定，成为亚太安定的力量。这一点，我们在过去的一段时间，也已经做了完整的论述。</p>
+<p>为了要实践人民对安居乐业的期待，我们提出了安心住宅、食品安全、小区照顾、年金永续，以及治安维护的「五大社会安全计划」。为了要让人民对政治恢复信心，我们也提出了实践世代正义、改革政府效能、启动国会改革、落实转型正义、及终结政治恶斗的「五大政治改革」。十月十号那天，我出席国庆典礼，用行动来宣示终结政治恶斗。我要团结的不只是一个政党，而是一个国家。台湾一定要团结，唯有团结，才能让人民找回自信，民进党愿意跨出那一步。</p>
+<p>而为了找回台湾失去的经济动能，我们也提出了绿能科技、亚洲硅谷、生医生技、智慧机械、国防产业的「五大创新研发计划」。不只是这些，我们也提出了一项一项的政策，包括司法改革、原住民、客家、观光、体育、农业、外交、医疗、身心障碍福利等等；就在下一个礼拜，我们也会完整地向大家报告我们的文化政策。</p>
+<p>各位，这就是我们过去这几个月的成绩单。现在，我把它们交在你们的手里。如果你也认同，台湾需要改变，就请支持我们。如果你也认同，这个国家有很多严重的问题，需要立刻解决，就请支持我们。如果你也认同，政治是理性的，是和解的，是包容的，就请你们支持我们。明年，我们要让台湾再一次政党轮替，让做不好的人负起责任，下台反省！让一个新的团队，将这个国家带向新的方向。</p>
+<p>离大选只剩下九十天。各位都知道，昨天，我的对手突然换成另外的一个人。国民党推出了新的「总统」参选人。国庆节那天，我跟朱主席坐在一起，向全国人民，做了最好的民主的示范。「中华民国」没有被羞辱，相反的，「中华民国」在那一天，找到了团结与和解的新希望。那天，我还跟朱主席说，选后，不管谁当选，都希望能找时间坐下来，好好的聊一聊台湾的方向。</p>
+<p>现在，我的态度还是没有变。我说过，这一次的选举，不是要打败任何人，而是要打败这个国家的困境。我要团结整个台湾，而不是团结一小撮人民进党不等于台湾，国民党也不等于「中华民国」。如果台湾在我们这一代人的手上，失去了决定自己未来的权利，如果「中华民国」在我们这一群人的手上，失去了民主自由的生活方式，那即使这两个政党都被扫进历史的灰烬，台湾人也不会觉得可惜。这才是真正的民主。我希望能用这样的响应，来和朱主席共勉。</p>
+<p>今天是我们全国竞选总部成立的日子。在这里，我要以「总统」候选人和党主席的身份，正式下达动员令。我们在全国各地的民主进步党的党公职人员，所有里长、代表、议员、主委、立法委员、县市长，还有全国各个地方党部、社团、百工百业、服务站、小英之友会、小英后援会全体志工及干部，今天开始，选战倒数，我们要全体总动员！</p>
+<p>从现在开始，我们要各就各位，全力冲刺！如果可以握一百双手，我们就不能够只握九十九双。如果可以提十个政策，我们就不能只提九个。所有人都要尽全力，为台湾拼这一次。我，蔡英文，会是整个竞选团队里面，最认真的那一个。我会以身作则，我会带领大家，我会用我的行动来证明，这个政党值得人民再一次的托付。</p>
+<p>只要我们团结起来，我们这一群人就能影响整个国家。我们有信心，让我们的国家，走出困境、走出不安。我们有决心，让我们的社会走向和解、走向包容。台湾会在我们这一群人的手上脱胎换骨，焕然一新。从今天开始，请跟我们一起加入点亮台湾的总动员，我们一起走向「改变台湾的第一哩路」。</p>
+<p>团结自信，点亮台湾。为这八个字，为这个理念，全力以赴，直到成功来临的那一刻。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E7%BD%91-%E7%AB%9E%E9%80%89%E6%80%BB%E9%83%A8%E6%88%90%E7%AB%8B-%E8%94%A1%E8%8B%B1%E6%96%87%E8%87%B4%E8%BE%9E%E5%85%A8%E6%96%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE/?category=18271" rel="tag">台湾总统选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E9%80%89/?category=18271" rel="tag">竞选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%84%A6%E7%82%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%BC%93%E5%8A%B1%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E5%96%9C%E5%BF%A7%E5%8F%82%E5%8D%8A/" target="cdt-mirror">路透社 | 焦点：中国鼓励大学生创业喜忧参半</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%8B%E8%BD%BD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%8B%E8%BD%BD.jpg" alt="2015年8月6日，上海，丁佳在她开办的D+咖啡馆里。REUTERS/Aly Song" width="600" height="400"></a><p>2015年8月6日，上海，丁佳在她开办的D+咖啡馆里。REUTERS/Aly Song</p></div>
@@ -700,24 +735,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E8%B0%81%E6%89%8D%E6%98%AF%E5%A4%A7%E5%B8%88/" target="cdt-mirror">巴丢草 | 谁才是大师</a>
-</h2>
-<p><p>@badiucao：10月9日，南方都市报记者 #刘伟 因报道气功大师 #王林 案涉非法获取国家秘密被刑拘。其实真正的气功大师只有党妈自己，轻轻一挥，百花齐放，悄悄一指，万马齐暗。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CRgxjDYVEAAC7Ab.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CRgxjDYVEAAC7Ab.jpg" alt="CRgxjDYVEAAC7Ab" width="450" height=""></a></p>
-<p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%8F%88%E7%88%86%E5%9B%A0%E6%B6%89%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%E7%BD%AA%E8%80%8C%E8%A2%AB%E8%B7%A8/">端传媒｜调查记者又爆因涉“国家秘密罪”而被跨省刑拘</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98-%E6%B6%89%E5%AB%8C%E8%8E%B7%E5%8F%96%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/">美国之音｜南都记者被刑拘 涉嫌获取什么国家机密？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E9%99%88%E5%AE%9D%E6%88%90%EF%BC%9A%E4%BF%9D%E8%AF%81%E8%88%86%E8%AE%BA%E7%9B%91%E7%9D%A3%E6%89%8D%E8%83%BD%E5%8A%A9%E6%8E%A8%E6%B3%95%E6%B2%BB%E5%BB%BA%E8%AE%BE/">财新网｜陈宝成：保证舆论监督才能助推法治建设</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%A4%9A%E6%9C%9D%E6%96%B0%EF%BC%9A%E4%BB%96%E4%BB%AC%E6%8A%93%E8%B5%B0%E7%9A%84%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84/">褚朝新：他们抓走的记者刘伟是这样的</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F-%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E8%A2%AB%E5%88%91%E6%8B%98/">传媒大观察 | 南都记者刘伟被刑拘</a></li>
-</ul><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E8%B0%81%E6%89%8D%E6%98%AF%E5%A4%A7%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88/?category=18271" rel="tag">党妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%B8%88/?category=18271" rel="tag">大师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%94%E5%8A%9F%E5%A4%A7%E5%B8%88/?category=18271" rel="tag">气功大师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E8%8A%B1%E9%BD%90%E6%94%BE/?category=18271" rel="tag">百花齐放</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -729,7 +746,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -739,5 +756,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

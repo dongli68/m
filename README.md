@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%842015%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/" target="cdt-mirror">月下鹰翔：乱七八糟的2015前三季度经济数据</a>
+</h2>
+<p><p>作为国内投资界数得着的数据狂之一，每个季度的经济数据集中公布的时候，都是我的集中吐槽日。尤其是今年以来，看着统计局各种胡编乱造，简单的发几篇围脖已经不足以平息我汹涌澎湃的吐槽能量了，必须要写下这篇短文，集中性的嘲讽一下。</p>
+<p>首先我们来看GDP数据。今年前三季度的GDP值为48.78万亿，统计局宣称相对于去年同期的增长率是6.9%（按可比价格计算）。好吧，看看去年的值是多少，45.74亿。老实说我们从来都不知道传说中的“可比价格调整系数”是多少，所以我们直接计算这两个绝对值之间的增长率吧。48.78/45.74-1=6.6%。好吧，以绝对值计算的GDP增长率，只有6.6%，低于按可比价格计算的6.9%。这意味着什么？这意味着在统计局眼中，价格调整系数低于1，今年的物价比去年便宜，今年的钱比去年的值钱。老实说，作为一个购物达人，我真不觉得今年的物价跌了多少。按照你统计局的说法，今年的物价涨幅确实不高，9月份的CPI（全国居民消费价格指数）同比上涨1.6%，不过好歹这也是上涨嘛。哪怕就按你这个1.6%来算，6.6%的GDP绝对值增幅除以1.016，这么算起来，也就是6.5%的增长率。这可怎么都算不出6.9%来。好吧，这里面的逻辑实在是莫名其妙。除非统计局把价格调整系数公式完完整整的公布出来，不然我们是无论如何都没法弄明白这个增长率到底是咋回事了。</p>
+<p>对于这件离谱的事，我只能是这么猜测：消费端的价格确实在保持上涨，但是生产端的价格（即PPI，工业生产者出厂价格指数）一直在下降，9月份的PPI同比下降了5.9%。从2012年2月开始，PPI指数就没转正过，长年维持负值。这意味着进入最终消费领域之前的工业产品一直在降价，已经连续降了3年零7个月。在计算价格系数时，我们的统计局并不只是考虑最终消费品的价格，而是综合考虑了中间环节的价格。</p>
+<p>但是，这个事是非常离谱的。为什么工业产品在中间环节连续降了3年多的价，但这种价格下降体现不到最终消费领域？理论上，你中间产品都降价了，都连续降了这么长时间了，这意味着制造业的平均成本普遍下降了，这一定会体现到最终消费领域，拉低消费价格。但结果居然刚好相反！在中间环节到底发生了什么？我的第一反应是，是因为这个国家酷烈税负吗？制造企业的税负太重所以无法降价？那么，我们来看看税收数据。</p>
+<p>工业企业的月度数据到这一刻只公布到了8月份，没关系，就看看这里面的“主营业务利润”和“营业业务税金及附加”这两项。今年8月份，全国规模以上工业企业的主营利润累计为3.77万亿，税金累计为1.16万亿。税金/利润，就是税负水平，算出来是30.8%。2014年底的利润为6.47万亿，税金为1.69万亿，由此计算出来的2014年工业企业的税负水平为26.1%。按这个计算方法，2013年则是24.8%。看到没有，从2013年底到现在，只不过1年零9个月时间，工业企业的税负水平足足提升了5个百分点！提升幅度高达20%，也就是五分之一！</p>
+<p>我们明明知道制造业不景气，我们明明知道制造业是这个国家的根基，我们明明知道制造业衰亡的结果将是一场酷烈无比的经济危机，但是我们仍然在纵容这个政府给制造业加税！一年多一点的时间，我们给垂死挣扎之中的制造业，加了五分之一的税！而这，就是为什么工业制成品的价格在下跌，但消费端的价格却维持上涨的真正原因！你的数据再怎么乱七八糟，你也无从掩饰真相。在浩瀚的数据海洋中，老蛮我作出数据狂，总能寻找到最关键的数据链，并推导出唯一的真相。</p>
+<p>既然我们现在已经知道了加税这个事情的存在，那我们当然很有必要来认真的看一下财政收入数据。今年1-9月份，财政一般公共预算收入11.44万亿，对比去年同期的10.64万亿，收入绝对增幅为7.5%，较6.6%的GDP绝对增长率要高出约1个百分点。可见政府的财税部门确实工作勤奋有效率，真正实现了财政收入跨越式发展。有意思的是，我们还真不知道政府到底是靠哪一笔税金收入实现这种跨越式发展。如下表所示，将政府公布的全部单项收入相加，仅仅只有9.5万亿，与11.44万亿的总收入相比，足足有两万亿的巨额收入不知道从何而来，鉴于主要的税种都已经全部列了出来，印花税之类的都是小钱，基本可以忽略不计。唯一的收入大头土地出让金收入又属于“政府基金性收入”，不在一般公共预算收入之内，所以我们只能猜测，这两万亿大概是横征暴敛的预征税款，征收过程不知道逼死了多少家企业，搞得连我党都不好意思入账，只能模模糊糊的处理算数。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/0064b1LWgw1ex6k3tfitpj30cj0e2dgv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/0064b1LWgw1ex6k3tfitpj30cj0e2dgv.jpg" alt="0064b1LWgw1ex6k3tfitpj30cj0e2dgv" width="451" height="506"></a></p>
+<p>要知道在制造业大规模死亡的今天，每天都有无数家企业轰然倒地破产的今天，我党还能实现税收上的跨越式增长，这实在是不可思议。简单的举一组数据：2011年8月规模以上制造企业中亏损企业家数为4.1万家，到2012年8月就突然上升为5.3万家，这已经算是触目惊心的亏损蔓延。也就是从2012年开始，中国经济开始步入下行轨道。2013年亏损家数维持在5.4万家，2014年8月为5.2万家，看起来那两年的日子都还能勉强熬得过去。但是到了今年，熬不下去了，亏损家数暴增到5.9万家。在这种背景之下，减税原本是治国必须的选项，但这个国家不但不减税，反而还要加税。这真是匪夷所思到了极致。</p>
+<p>而荒谬，或许才是中国梦的真谛吧。</p>
+<p>来源：http://weibo.com/p/1001603899706186025964</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%842015%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%8F%E7%A8%8E/?category=18271" rel="tag">减税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7/?category=18271" rel="tag">物价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E8%B4%9F/?category=18271" rel="tag">税负</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">经济数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1/?category=18271" rel="tag">经济萧条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">统计局</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5%E8%A7%82%E5%AF%9F%E5%AE%B6-%E5%BC%82%E8%A7%81%E4%BD%9C%E5%AE%B6%E8%8E%B7%E8%AF%BA%E5%A5%96%EF%BC%8C%E6%80%BB%E7%BB%9F%E8%A3%85%E8%81%8B%E4%BD%9C/" target="cdt-mirror">观察家 | 异见作家获诺奖，总统装聋作哑真的好吗</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-19-at-%E4%B8%8B%E5%8D%882.26.58.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-19-at-%E4%B8%8B%E5%8D%882.26.58.png" alt="Screen Shot 2015-10-19 at 下午2.26.58" width="550" height="364"></a></p>
@@ -699,39 +720,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8A%A8%E5%90%91%EF%BD%9C%E4%BA%8E%E6%80%A1%E9%83%8A%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%8C%E4%B8%AD%E7%BE%8Ebit%E8%BF%98%E6%98%AF%E6%B2%A1%E7%AD%BE%E6%88%90/" target="cdt-mirror">动向｜于怡郊：习近平访美，中美BIT还是没签成</a>
-</h2>
-<p><p>习近平近期国事访问去美国，带着一大帮子中国商界大佬，国内高调宣传，显然此次习近平访美抱有重大的经济目的。大陆唯一接近习王当权政治核心的媒体——《财新周刊》和财新网发表其主编胡舒立的文章《中美BIT谈判应借“习奥会”突破》，披露了习近平对这次访美所要达到的目的。</p>
-<p>中国经济当前十分严峻，政府号称还有许多调控工具，实际却是使出所有新的市场办法仍不能使经济加快转型，而回头再用加强政府投资的老办法仍然不能扭转经济下行，甚至不能减轻经济下行的压力。中国经济走入死胡同的阵阵寒意，中共当局的感受如芒刺在背。</p>
-<p>对谈成中美BIT抱极大希望</p>
-<p>在此时刻，中共当局寄希望于中美投资协定BIT的签订。胡舒立认为“中美BIT是两国当前经贸领域最重大的谈判项目，其意义堪比世纪之交中国加入WTO”。这样的比喻何尝不是中共领导层的意思？</p>
-<p>自七十年代末中国改革开放至九十年代，改革红利基本吃光。因为中共坚持一党专政，改革步子无法继续迈开。加入WTO之后十几年，中国利用优势便宜的劳动力资源，不顾环境土地成本，硬压人民币估值，中国出口市场大大扩展，使得中国经济翻了一番。如今，中国经济又到了一个瓶颈口，改革无法推进，只有开拓海外市场尤其是最主要的美国市场，或者才能继续有效推进中国经济发展。中国经济要发展，必须要有创新。可创新谈何容易，举国上下几乎都知道，中国不可能有创新。要创新，只有从美国这个世界龙头去引进、模仿和抄袭。中国经济目前的优势也是包袱，拥有巨额的外汇储备，中共当局希望这些巨额外汇储备能够成为中国经济的一个新的增长点。</p>
-<p>现在中美双向投资存量超过一万四千二百亿美元，过去五年，中国对美投资额增长九倍，截至二○一四年底，中资企业在美投资额达四百六十亿美元。中国对美国投资相对集中，主要在金融、制造、采矿、房产，与此同时，美国对中国的投资总体上呈现下降的趋势。不管中国对美投资如何扩大，不管中国对美国直接投资已是资本净输出，不管中美双向投资呈一升一降态势，目前中国在美投资只有四百六十多亿美元，与其近四万亿美元外汇储备相比还是太少了。</p>
-<p>因此，无论从哪个角度出发，中国对已经谈了七八年的中美投资协定BIT能够在习近平访美时正式签订成功，是抱着很大企盼的。可是，结果并没有达成。</p>
-<p>对自由平等贸易理解南辕北辙</p>
-<p>中美投资协定BIT谈判了七年多二十一轮，为什么还是没能达成呢？</p>
-<p>似乎为了安慰一下习近平走那么老远一趟，中美两方公开表示：“两国领导人积极评价正在进行中的中美投资协定BIT谈判业已取得的进展”，美方甚至承诺“对包括国有企业在内的中国投资者保持开放的投资环境”，可终究还是没有正式签订中美BIT。</p>
-<p>中国对外商投资的管理，即使这几轮中美谈判中已经提出了负面清单，可是中国对外商投资的限制还是要比美国多，在涉足从金融服务到农业和医疗保健等中国众多的国家主导行业以及在国企占垄断地位的行业中，尤其如此。</p>
-<p>美国作为信奉自由的发达国家，其对自由贸易的理解，标准更高，涵盖范围更广，不仅要取消或降低商品的关税，还涵盖安全标准、技术贸易壁垒、动植物卫生检疫、竞争政策、知识产权、政府采购、争端解决，以及有关劳工和环境保护的规定；而长期囿于中央集权的专制的中国，即使改革开放加入WTO以后，在国际贸易规则上更注重降低投资壁垒和税收等基本投资权益，几乎从不想到人的合法权益，很少涉及劳工权利、环境保护、知识产权等标准和规则。</p>
-<p>美国给中国开出的负面清单只有三项：关键基础设施、重要技术、国家安全。但美方对这三项都没有明确的定义，而且中方在美投资、经营的任何阶段，美国行政当局都有权中止项目，产生的成本由投资人负责。这样的提法增加了中国在美投资的不确定性，几乎是无法做生意的。</p>
-<p>表面看来，就是些商业的技术矛盾影响了中美BIT的签订，实际上恰恰反映了中美两国对于社会平等的不同理解。</p>
-<p>保护个人隐私还是保护党和国家</p>
-<p>以国家安全，特别是这次习近平访美时几次提到的网络安全问题为例，中美两国表面上都强调要加强网络安全，可实际内容南辕北辙。</p>
-<p>在美国，网络安全从根本上说主要集中于保护各种私营部门的数据和关键的网络基础设施，以及个人的隐私权。在中国，网络安全本质上是以党国为中心，防范国内外利用网络威胁损害中共一党专政。中国口口声声所说的“网络空间主权”就是中共一党的“网络空间主权”。在美国，网络安全法规致力于防止未经授权侵入电脑系统和窃取信息的行为，至于网络监管法规所关注的则是为了执法或情报目的对某些侵入行为的授权，而监管人员若是泄露被监控者的隐私，即是触犯法律。</p>
-<p>中国的《国家安全法》和《网络安全法（草案）》，更像是一份共产党意识形态的文件，一篇旨在捍卫中共掌握权力的檄文。通观中国的《国家安全法》和《网络安全法（草案）》，没有一条是制衡政府权力的，政府可以不受限制、随心所欲地采取任何安全措施。中国的《网络安全法（草案）》也有保护个人隐私的条款，譬如第三十六条，网络运营者负有严格保密及不得非法向他人提供公民个人信息的义务，但如果政府要求网络运营者提供公民个人信息，却是“合法”的。</p>
-<p>我们不排斥不久将来中美BIT协定会正式签署，但是中国与美国的根本分歧不可能消除。中国国企虽然此次也被美方承认可以作为投资主体在美投资，那是美国将其看作只是由投资方而不同于其它普通企业一样的企业。中国国企是一党专政的基石，它可以不顾自己的利润率、不必对自己老板——中国民众负责，亏本在美国经营，只为了中国政府取得有用技术和在美国有利的地位；它也可以在中国市场依然把持垄断市场，挤兑所谓开放以后从外面进来的美国资本。</p>
-<p>因此，即使中美BIT协定正式签订之后，中美投资矛盾依然会层出不穷，中美互相投资的空间仍然有限。</p>
-<p>《动向》2015年10月号</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8A%A8%E5%90%91%EF%BD%9C%E4%BA%8E%E6%80%A1%E9%83%8A%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%EF%BC%8C%E4%B8%AD%E7%BE%8Ebit%E8%BF%98%E6%98%AF%E6%B2%A1%E7%AD%BE%E6%88%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bit/?category=18271" rel="tag">BIT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -743,7 +731,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bit/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -753,5 +741,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bit/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

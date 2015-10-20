@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%BE%AE%E5%8D%9A%E4%B8%BE%E6%8A%A5-%E5%A4%A7%E4%B9%89%E7%81%AD%E4%BA%B2/" target="cdt-mirror">奇闻录 | 微博举报 大义灭亲</a>
+</h2>
+<p><p>10月19日，有网友爆料称，一位微博id为@可爱的宝宝亲的网友在新浪微博高调炫富，自称老公收到了区长秘书赠送的3w元购物卡，并且接连晒出自家的多辆豪车、独栋别墅等，最后甚至po出一份辽宁省发改委的文件，该网友的“举报式炫富”行为很快引起网友关注。目前，当事人已删除微博。</p>
+<p>@四川罗天：【美女微博晒区长秘书送1000面额购物卡30张】网友可爱宝宝亲微博晒房产、车、还有区委领导送的购物卡，厉害。据微博地图显示辽宁沈阳东陵区。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8sdfuuj30hs0qo76u-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8sdfuuj30hs0qo76u-300x300.jpg" alt="005I6M5agw1ex6q8sdfuuj30hs0qo76u-300x300" width="300" height="300"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8spjo4j30hs0qo77h-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8spjo4j30hs0qo77h-300x300.jpg" alt="005I6M5agw1ex6q8spjo4j30hs0qo77h-300x300" width="300" height="300"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8tr7hfj30hs0qo40x-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8tr7hfj30hs0qo40x-300x300.jpg" alt="005I6M5agw1ex6q8tr7hfj30hs0qo40x-300x300" width="300" height="300"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8tz1xvj30hs0qo417-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8tz1xvj30hs0qo417-300x300.jpg" alt="005I6M5agw1ex6q8tz1xvj30hs0qo417-300x300" width="300" height="300"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8uea6hj30hs0qoacc-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8uea6hj30hs0qoacc-300x300.jpg" alt="005I6M5agw1ex6q8uea6hj30hs0qoacc-300x300" width="300" height="300"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8v8zzoj30hs0qodhy-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8v8zzoj30hs0qodhy-300x300.jpg" alt="005I6M5agw1ex6q8v8zzoj30hs0qodhy-300x300" width="300" height="300"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8vkhlsj30hs0qodhe-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8vkhlsj30hs0qodhe-300x300.jpg" alt="005I6M5agw1ex6q8vkhlsj30hs0qodhe-300x300" width="300" height="300"></a></p>
+<p>以下为部分网友评论：</p>
+<p>@别开枪是我羊羊羊：对于有些女人来说，给她漂亮衣服、优越的生活、奢华的坐骑而不能炫耀，简直比死都痛苦。</p>
+<p>@深夜走过长安街001：果断围观！最后一张特殊项目扶持资金，别把国家的钱扶持倒个人兜里去了。这个项目我听说过，明天翻翻贴上来。</p>
+<p>@北京华氏三十二度：高华山：区委常委、纪委书记，沈阳高新区党工委委员、纪工委书记. 东陵区现在叫浑南区了。区纪委书记是这位。请叫我雷锋！ 注：网友消息未经证实</p>
+<p>@徐邈邈：大义灭亲，可以入围感动中国。</p>
+<p>@其实我是个心理医生：实名把自己老公给举报了？我被这女的智商逗乐了。</p>
+<p>@西红柿炒番茄已被占用：希望每个贪污腐败的领导都有这么一个傻老婆。</p>
+<p>@天一亮就辜负你8568：仔细想想，历朝历代都是这样，贪官娶了蠢婆娘，生下子女多智障，否则怎么改朝换代呢？</p>
+<p>@队长别开枪我是夏雨荷：本市一般工资低的一比，今年夏天大把的企业没活干开不出工资结果放假不开工资了事。但走在浑南新区的路面上，豪车那可是不少。上周路过奥体中心看到场聚会，跑车停了一马路。俺算是知道这帮人钱哪来的了。</p>
+<p>@Agatus：你们这样是不行的，这样搞下去纪委工作还怎么开展，还有什么革命的难度，还有什么革命的挑战，还有多少革命的浪漫？</p>
+<p>@理外理：介他妈不奏是共产主义吗！</p>
+<p>@梦晨伤: 完了……很明显区长秘书要倒霉了……</p>
+<p>@屯里土生土长的羊：反腐到底是要靠情妇，干女儿和傻媳妇啊！</p>
+<p>@是Ivan不是Kuma：这辈子没富过这样急着晒自己，真有钱又有底蕴的都知道要藏富，这种如果是真的会死的很快的，找了这种智捉也是做了大孽。</p>
+<p>@计划生育当废除：这就是权贵阶级……以后被革命的对象。</p>
+<hr><p><small>© 喜闻乐见 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%BE%AE%E5%8D%9A%E4%B8%BE%E6%8A%A5-%E5%A4%A7%E4%B9%89%E7%81%AD%E4%BA%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E7%82%AB%E5%AF%8C/?category=18271" rel="tag">微博炫富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%AB%E5%AF%8C/?category=18271" rel="tag">炫富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81/?category=18271" rel="tag">辽宁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E7%BD%91-%E7%AB%9E%E9%80%89%E6%80%BB%E9%83%A8%E6%88%90%E7%AB%8B-%E8%94%A1%E8%8B%B1%E6%96%87%E8%87%B4%E8%BE%9E%E5%85%A8%E6%96%87/" target="cdt-mirror">三立新闻网 | 竞选总部成立 蔡英文致辞全文</a>
 </h2>
 <p><p>我们的主任委员陈菊、菊姐，今天在座还有很多位民进党的前主席，还有各位前院长，今天站在台上我们各县市竞选总部的主任委员，还有我们竞选总部总干事苏嘉全、执行总干事林锡耀，在座还有很多民主前辈。最重要的是，现场所有的好朋友，大家午安，大家好。</p>
@@ -716,25 +750,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%8E%E8%A3%94%E5%90%8D%E5%AA%9B%E5%80%9F%E6%89%B6%E8%B4%AB-%E5%BD%93%E4%B8%AD%E5%9B%BD%E5%95%86%E4%BA%BA%E8%A1%8C%E8%B4%BF%E4%B8%AD%E9%97%B4%E4%BA%BA/" target="cdt-mirror">苹果日报｜华裔名媛借扶贫 当中国商人行贿中间人</a>
-</h2>
-<p><p><strong>【编者注】严雪瑞（Sheri Yan）之父严阵为知名画家，曾创作诗画作品《中国梦》。严雪瑞在其<a href="https://www.linkedin.com/pub/sheri-yan/87/48a/a42">LinkedIn页面</a>个人介绍中称，自己掌管的公司eChinaCash 与中石化签署了一份价值数百万美元的20年合约，为其管理预付积分卡“中国石化加油卡”项目。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/6b5bc799gw1ex1o47bnjbj20f00qo42m.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/6b5bc799gw1ex1o47bnjbj20f00qo42m.jpg" alt="6b5bc799gw1ex1o47bnjbj20f00qo42m" width="500" height=""></a><br><em>（图片来源：新浪微博<a href="http://weibo.com/yoshimi77">@李良美</a>）</em></p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc%EF%BD%9C%E7%BE%8E%E5%8F%8D%E8%85%90%E8%B5%B7%E8%AF%89%E6%BE%B3%E9%97%A8%E5%95%86%E4%BA%BA%E5%90%B4%E7%AB%8B%E8%83%9C%E5%92%8C%E5%89%8D%E8%81%94%E5%A4%A7%E4%B8%BB%E5%B8%AD/">BBC｜美反腐起诉澳门商人吴立胜和前联大主席</a></p></blockquote>
-<p>联合国大会前主席阿什（John Ashe）收取中国商人贿赂桉另一名被告、全球持续发展基金总干事Sheri Yan（音译：严雪瑞）周五在美国法庭获准以50万美元（390万港元）保释，要在寓所内接受软禁。这位美籍华裔社交女王被控打着非营利组织的幌子，当起中国商人和联合国官员的行贿中间人。</p>
-<p>据澳洲媒体今日悉尼披露，美国检察官指严雪瑞在前联合国大会主席的John Ashe，以及加勒比岛国的一名外交官的受贿桉中赚取了数十万澳元。严被控打着政府非营利组织「全球持续发展基金会」（Global Sustainability Foundation）的幌子，向Ashe每月支付2万澳元(约11.3万港元)。在一封2012年发给John Ashe的电邮中，严雪瑞写道：「John，长话短说，本周我会向你的帐户存入30万澳元(约169万港元)。」</p>
-<p>全球永续发展基金会由严雪瑞创办，高举帮助人类脱贫、获得良好教育、喝乾淨的水等崇高宗旨，直到被美国联邦调查局FBI发现涉联合国贪腐弊桉。纽约检控机关在10月6日发表的一份详细声明中表示：严雪瑞和Heidi Park（基金会财务总管，音译：朴海迪）以中国商人代表身份寻求投资时贿赂了联合国大使John Ashe，根据指控，严和朴安排了高达80万美元的贿赂金送给Ashe以换取Ashe和安提瓜的其他官员给中国商人行方便。</p>
-<p>严雪瑞父亲是解放军文工团着名艺术家严阵；丈夫Roger Uren是前澳洲情报分析员。这位57岁名媛周身刀，在社交平台上的自我介绍称：在处理政府与商业事务上有很丰富的经验，有许多成功为中国、美国、澳洲公司提供战略性建议的记录。她曾受聘于ABC电视台当职业说客负责与中国间的沟通；担任过美国一家支付平台的联合CEO；更在第68届联合国大会的时候成会议主席顾问。</p>
-<p>她不光在联合国长袖善舞，在澳洲政坛也是八面玲珑。她擅长搞高级派对，办公室和网站上有她与前澳洲工党领袖Bob Hawke和Westfield创办人之一的亿万富翁Frank Lowy的合照。前澳洲总理陆克文的哥哥Greg Rudd也曾在严雪瑞的公开社交平台上留言。陆克文执政时期，严的丈夫Roger Uren曾有机会成为澳洲驻华大使，至今是澳洲驻华使馆举办各种活动的常客。</p>
-<p>《悉尼先驱报》</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%8E%E8%A3%94%E5%90%8D%E5%AA%9B%E5%80%9F%E6%89%B6%E8%B4%AB-%E5%BD%93%E4%B8%AD%E5%9B%BD%E5%95%86%E4%BA%BA%E8%A1%8C%E8%B4%BF%E4%B8%AD%E9%97%B4%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%9F%B3%E5%8C%96/?category=18271" rel="tag">中石化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E4%B8%9A%E8%B4%BF%E8%B5%82/?category=18271" rel="tag">商业贿赂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -746,7 +761,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -756,5 +771,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

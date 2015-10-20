@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E6%8C%81%E5%88%80%E8%80%85%E8%A1%80%E6%B4%97%E6%B1%89%E4%BA%BA%E7%85%A4%E7%9F%BF%EF%BC%8C%E6%94%BF%E5%BA%9C%E4%BB%8D%E5%B0%81%E9%94%81/" target="cdt-mirror">纽约时报 | 新疆持刀者血洗汉人煤矿，政府仍封锁消息</a>
@@ -84,6 +84,30 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E9%99%86%E4%B8%8D%E6%98%AF%E5%B9%B4%E4%BB%A3%E6%98%AF%E5%90%A6%E6%9B%B4%E5%BC%80%E6%94%BE%EF%BC%9F/" target="cdt-mirror">【图说天朝】大陆八十年代是否更开放？</a>
+</h2>
+<p><p>‏@StarKnight：「大陆八十年代开放到什么程度？据说有很多地方比现在还开放，没经历过，所以想了解下。」相信题主已经得到了很直观的感受。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CRrNxlGUEAA4_cN.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CRrNxlGUEAA4_cN.png" alt="CRrNxlGUEAA4_cN" width="550" height="978"></a></p>
+<p>提问地址：http://www.zhihu.com/question/36473889</p>
+<p><strong>以下内容为数字时代编辑摘自部分网友评论：</strong></p>
+<p>shmyd：看到年轻推友在讨论八十年代我国开放到什么程度的问题，我觉得他们举的例子还不够极端。我说三件事吧：小平同志访美，电视里放一部不知名的美国未删减公路片《车队》，里面有不少裸露镜头；学术界掀起新启蒙，公开宣扬普世价值多党制；赵紫阳任总书记时，曾经酝酿撤销企业党组织，党员组织关系归里弄。</p>
+<p>田晨：如果可以用四季来描述，Cultural Revolution是寒冬里人们相顾无言各自在门前扫雪；改革开放后是春季里大家耕种之余盖新房子，茶余饭后大家开始吐槽过去十年；80年代是盛夏的某天20岁的少年单车载着姑娘穿过大学校园走向河边谈论未来；89年和90年代像是秋天，人们收获了很多，但是也总感觉失了一些东西；现在这个时代大约是四季随机上演，盛世之下，暗流涌动。</p>
+<p>seymourz：<a href="http://mp.weixin.qq.com/s?__biz=MjM5MTIwNTYwMg==&mid=214314969&idx=1&sn=c68442fdd7aaa890b96d76dadd5d2452&scene=2&srcid=W6VxKusaklkYSN1XfrHJ&from=timeline&isappinstalled=0#rd" target="_blank">这部五集就停播的雷剧，曾见证总菊激情燃烧的岁月。</a></p>
+<p>leslycheung：推荐电影《顽主》梁天张国立葛优主演，80年代的开放程度都在这电影里面了。</p>
+<p>ZHANG ALBERT：80年代的学生还是有理想的，相信自己能改变国家的。现在有类似想法的人只会被当做傻叉。</p>
+<p>胡戈：我就说一点，在某些地方开放（比如影视审查）的原因仅仅是党还没有危机感。等后来对自己的寿命有危机感了就开始严了。</p>
+<p>怒而飞：开放到21世纪不宜公开讨论的程度。</p>
+<p>LuoLe：开放的是态度，对于异见的容忍远比现在大。</p>
+<p>塞纳留斯：那个年代不是开放，而是“他们”不知道如何管控，几十年过去了，现在驾轻就熟了。</p>
+<p>Razer：该问题下如此众多的被建议修改的答案，很好地回答了题主的问题。我王老五从没见过这么多被建议修改的答案，今晚都到我家查水表去吧，呃不，喝酒去吧！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E9%99%86%E4%B8%8D%E6%98%AF%E5%B9%B4%E4%BB%A3%E6%98%AF%E5%90%A6%E6%9B%B4%E5%BC%80%E6%94%BE%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E5%8D%81%E5%B9%B4%E4%BB%A3/?category=18271" rel="tag">八十年代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86/?category=18271" rel="tag">大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE/?category=18271" rel="tag">开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%842015%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/" target="cdt-mirror">月下鹰翔：乱七八糟的2015前三季度经济数据</a>
 </h2>
@@ -687,38 +711,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E6%96%B0%E7%BD%91%EF%BD%9C%E6%96%B0%E9%97%BB%E4%BA%BA%E7%89%A9%EF%BC%9A2015%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E5%BE%97%E4%B8%BB%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2/" target="cdt-mirror">中新网｜新闻人物：2015诺贝尔文学奖得主阿列克谢耶维奇</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/c037c8e509bb4d3fac0956361529f7b3.jpg" alt="c037c8e509bb4d3fac0956361529f7b3" width="548" height="365"></p>
-<div align="center">
-<p align="left">1948年出生的阿列克谢耶维奇，毕业于明斯克大学新闻学系。她用与当事人访谈的方式写作纪实文学，记录了二次世界大战、阿富汗战争、苏联解体、切尔诺贝利事故等人类历史上重大的事件。（资料图）</p>
-</div>
-<div>
-<p>　　<a href="http://www.chinanews.com/" target="_blank">中新网</a>10月8日电 据诺贝尔奖官方网站消息，2015年诺贝尔文学奖于瑞典当地时间8日揭晓，获奖者为白俄罗斯作家、记者斯维特兰娜•阿列克谢耶维奇。</p>
-<p><strong>曾多次获奖</strong></p>
-<p>1948年出生的阿列克谢耶维奇，毕业于明斯克大学新闻学系。她用与当事人访谈的方式写作纪实文学，记录了二次世界大战、阿富汗战争、苏联解体、切尔诺贝利事故等人类历史上重大的事件。</p>
-<p>她的作品已在19国出版，在中国出版的著作有《切尔诺贝利的回忆：核灾难口述史》、《我不知道该说什么，关于死亡还是爱情：来自切尔诺贝利的声音》、《锌皮娃娃兵》等。本月，她的两部作品《我是女兵，也是女人》和《我还是想你，妈妈》出版。</p>
-<table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td></td>
-</tr></tbody></table><p>阿列克谢耶维奇作品曾多次获奖，包括1998年德国莱比锡图书奖、1999年法国国家电台“世界见证人”奖、2006年美国国家书评人奖、2013年德国出版商与书商协会和平奖等，去年，她还获颁法国艺术和文学骑士勋章。</p>
-<p>德国出版商与书商协会为其授奖时曾称：“她自己创造了一个将在全世界得到回响的文学门类，必将掀起证人与证词涌现的浪潮”。瑞典资深专栏作家梅•斯文森也曾公开表示，“她早应该得诺贝尔文学奖了”。</p>
-<p><strong>关注的焦点永远是人</strong></p>
-<p>阿列克谢耶维奇并非按照正式的历史文献来描述历史，而是从个人经历、机密档案以及从被忘却、被否定的资料中挖掘。这样的创作意义更加深远，远远超出技术性文献的意义。她关注的焦点永远是人，探索人的心灵是她与其他作家的区别之一。她成功地表现了一代人的茫然和恐慌，作品触动人的内心深处。</p>
-<p>比如在《切尔诺贝利的回忆：核灾难口述史》中，阿列克谢耶维奇用三年时间采访了切尔诺贝利核电站反应堆爆炸的幸存者们，有第一批到达灾难现场的救援人员的妻子、有现场摄影师、有教师、有医生、有农夫、有当时的政府官员、有历史学家、科学家、被迫撤离的人、重新安置的人、还有妻子们祖母们……每个人不同的声音里透出来的是愤怒、恐惧、坚忍、勇气、同情和爱。为了收集到这些第一线证人们的珍贵笔录，阿列克谢耶维奇将自身健康安危抛之脑后，将他们的声音绘成一部纪实文学史上令人无法忘记的不可或缺的作品，并籍此期盼同样的灾难绝不再重演。</p>
-<p><strong>作品体裁助力获奖</strong></p>
-<p>可以说，无论是媒体还是海外各大文学论坛，对阿列克谢耶维奇的关注并不多。因其作品数较少，目前不超过10部；此外，她的作品在西方世界影响力不大；再次，身为一名纪实记者，其著名作品基本上是对重大悲剧性事件当事人采访稿的合集，更类似于“口述史”，作者个人的存在感非常微弱。</p>
-<p>不过，自2013年以来，阿列克谢耶维奇的作品多有瑞典语译本问世，包括《最后的见证：失去童年的孩子们》，也为其获奖增添了不小优势。</p>
-<p>阿列克谢耶维奇的另一优势大概是其作品体裁——传记文学。只因上一本非虚构类作品获得诺奖已经是半个多世纪以前的事情了——1953年丘吉尔以《二战回忆录》获此殊荣。</p>
-</div>
-<p> </p>
-<p> </p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E6%96%B0%E7%BD%91%EF%BD%9C%E6%96%B0%E9%97%BB%E4%BA%BA%E7%89%A9%EF%BC%9A2015%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E5%BE%97%E4%B8%BB%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96/?category=18271" rel="tag">诺贝尔奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">诺贝尔文学奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -730,7 +722,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -740,5 +732,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

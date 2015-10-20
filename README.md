@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%842015%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/" target="cdt-mirror">月下鹰翔：乱七八糟的2015前三季度经济数据</a>
@@ -43,7 +43,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%8F%E7%A8%8E/?category=18271" rel="tag">减税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7/?category=18271" rel="tag">物价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E8%B4%9F/?category=18271" rel="tag">税负</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">经济数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1/?category=18271" rel="tag">经济萧条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">统计局</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5%E8%A7%82%E5%AF%9F%E5%AE%B6-%E5%BC%82%E8%A7%81%E4%BD%9C%E5%AE%B6%E8%8E%B7%E8%AF%BA%E5%A5%96%EF%BC%8C%E6%80%BB%E7%BB%9F%E8%A3%85%E8%81%8B%E4%BD%9C/" target="cdt-mirror">观察家 | 异见作家获诺奖，总统装聋作哑真的好吗</a>
 </h2>
@@ -731,7 +731,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -741,5 +741,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

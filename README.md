@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E6%B8%B8%E6%B8%AF%E4%B8%8D%E6%84%BF%E8%B4%AD%E7%89%A9%E8%A2%AB%E6%AE%B4%E8%BA%AB%E4%BA%A1%E5%BC%95%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 大陆游客游港不愿购物被殴身亡引网民热议</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151002041616_tourlists_in_hongkong__976x549_bbcchinese.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151002041616_tourlists_in_hongkong__976x549_bbcchinese.jpg" alt="香港旅游业因这起“内地游客被殴致死”案件再度引发关注。" width="600" height="337"></a><p>香港旅游业因这起“内地游客被殴致死”案件再度引发关注。</p></div>
+<p>因不满在香港珠宝店被强迫购物而与导游起冲突被殴伤的中国男游客，周二（20日）被证实身亡。该事件在中国引发对“中港冲突”的又一波讨论。</p>
+<p>被证实身亡的54岁黑龙江籍苗姓男子，与张姓女同事报名参加由内地邓姓女领队带队的香港旅游团，周一上午到香港红磡一间珠宝店购物。根据香港媒体报道，因为张女不愿购物而与邓姓女领队发生冲突，苗男尝试调停，但被在同一家珠宝店内购物的另一内地旅游团内的一名香港男导游、一名内地男领队殴打昏迷，送医后仍在周二上午不治身亡。</p>
+<p>香港警方一共拘捕四人。以“伤人、在公众地方打架 ”罪名拘捕邓姓女领队、张女。以涉嫌伤人罪逮捕两名男子。在苗男死亡后，警方将案件改列为“误杀”。涉案人不排除还有旅行社安插在团中，强迫旅客消费的“影子团友”。</p>
+<p>中国官媒《人民日报海外版》旗下社交媒体平台“侠客岛”发表评论文章，指出香港旅游的负面新闻不断，虽然此次“导游和同伙围殴游客致死的事件，恶劣程度前所未有”是偶发事件，但可再次印证“香港社会针对内地客的暴戾之气还在升级”的结论。</p>
+<p><strong>中港矛盾</strong></p>
+<p>文章中提到，香港旅游业在与内地游客冲突的负面新闻频传之下，“已经尝到了苦果”。文中认为香港对内地游客的不满是因为“内地游客挤占了香港有限的空间和资源”以及“一些文化上的小冲突”。而这些不满在“部份人的挑唆怂恿下”被操作成“对抗的思维”。</p>
+<p>文章将此观点延伸至评论香港社会现状，认为旅游只是香港问题的一个缩影，中国对香港的建设美意“部份香港人并不惜福感恩”，“对于‘一国两制’，长期只强调两制而忽略一国，对内地滋生了莫名的反感情绪。”</p>
+<p>中国官媒《环球时报》周三也发表“内地客被打死重创香港旅游形象”社评，认为消除中港矛盾的责任应由香港社会来承担，“仅仅要求内地媒体‘不炒作’这些事件，要内地舆论体谅少数港人的情绪，这不现实。”</p>
+<p><strong>网民意见</strong></p>
+<p>该事件在中国社交媒体上引发讨论，新浪微博“在港拒购物被打死”标签有132.7万人浏览。</p>
+<p>许多网民留言：“珍惜生命，远离香港！”一位北京网民表示：“果真是购物天堂！不购物就被上天堂！”</p>
+<p>来自江苏的一位网民写到： “买多了，反水客，买少了，就打死，有种来大陆试试！”</p>
+<p>一位贵州网民说：“人家香港人都说了，让你们别去打扰他们生活啦，怎么你们还去香港购物啊。如你们所愿，还香港人一个清静，去澳门，去韩国，去日本购物都行，至少不会被打死吧。”</p>
+<p>一名来自黑龙江的网民说：“事情已经到闹出人命的地步，竟然还有同胞认为只是旅行团的问题，内地旅行团数目和种类远比香港多，云南再强迫购物无非是动动嘴巴骂一骂，你看哪家打死游客了？香港口口声声讲法治讲自由，却纵容黑社会知法犯法如此猖獗，旅游业拉动了你多少经济，况且你早已不是购物天堂，你就是祖国一个没良心的孩子。”</p>
+<p>一些内地网民表示，到香港旅游其实不需要跟团，特别是低价团更容易暗藏“羊毛出在羊身上”的“宰客”风险。</p>
+<p>北京一位网民说：“都一些笨鸟啊，加什么旅行团，还限制这个那个，又不是英国美国还语言不通，香港多大点地方啊，还没北京大，自己去不就行了啊。”</p>
+<p>也有网民表示，曾经在事件发生的同一间珠宝店发生不愉快的购物经验。</p>
+<p><strong>相关报道：</strong></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E6%B8%B8%E6%B8%AF%E4%B8%8D%E6%84%BF%E8%B4%AD%E7%89%A9%E8%A2%AB%E6%AE%B4%E8%BA%AB%E4%BA%A1%E5%BC%95%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%9C%B0%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">内地游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E6%B8%B8/?category=18271" rel="tag">导游</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">暴力事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E8%89%BA%E4%BA%BA%E5%A9%9A%E7%A4%BC%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%A2%AB%E5%AE%98%E5%AA%92%E6%89%B9%E5%88%A4%E7%9A%84%E5%AF%B9%E8%B1%A1/" target="cdt-mirror">唐映红：明星艺人婚礼为何成为被官媒批判的对象？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%BB%84%E6%99%93%E6%98%8EAB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%BB%84%E6%99%93%E6%98%8EAB.png" alt="黄晓明AB" width="600" height="396"></a></p>
@@ -151,7 +181,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E7%82%AB%E5%AF%8C/?category=18271" rel="tag">微博炫富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%AB%E5%AF%8C/?category=18271" rel="tag">炫富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81/?category=18271" rel="tag">辽宁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E7%BD%91-%E7%AB%9E%E9%80%89%E6%80%BB%E9%83%A8%E6%88%90%E7%AB%8B-%E8%94%A1%E8%8B%B1%E6%96%87%E8%87%B4%E8%BE%9E%E5%85%A8%E6%96%87/" target="cdt-mirror">三立新闻网 | 竞选总部成立 蔡英文致辞全文</a>
 </h2>
@@ -728,40 +758,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E6%A0%BC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98-%E6%B6%89%E5%AB%8C%E8%8E%B7%E5%8F%96%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/" target="cdt-mirror">美国之音 | 南都记者被刑拘 涉嫌获取什么国家机密？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/k9jjjjjjjjj.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/k9jjjjjjjjj.jpg" alt="南都刘伟" width="500" height="398"></a></p>
-<p>中国《南方都市报》记者刘伟 10 月 9 日因多次报道“气功大师”王林案，被江西省萍乡市警方以“涉嫌非法获取国家秘密罪”被刑拘，羁押于南昌市进贤县看守所。《南方都市报》 10 月 16 日发表声明回应称，刘伟“对王林案的采访、报道、持续关注等，均属履行工作职责的行为”。</p>
-<p>刘伟是《南方都市报》深度新闻部的记者。他从2013年开始调查王林案，曾刊发多篇独家报道，并在2014年入选南方报业年度记者。据报道，刘伟曾在获奖当年的年会上说，“即便现在告别记者生涯也了无遗憾”。</p>
-<p>然而19个月后，他在从成都家中赶赴机场的路上被跨省刑拘。</p>
-<p>刘伟家人从萍乡市公安局安源分局拿到的拘留通知书上写道：“根据《中国人民共和国刑事诉讼法》第80条之规定，我局已于2015年10月9日5时将涉嫌非法获取国家秘密罪的刘伟刑事拘留，现羁押在南昌市进贤县看守所。”</p>
-<p>当局目前没有披露此案涉及何种国家秘密。</p>
-<p><strong>赵岩：欲加之罪 何患无辞</strong></p>
-<p>曾因早于中国官方报道江泽民将辞去中央军委主席职务而被控犯有“泄露国家机密罪”的前《纽约时报》北京分社记者赵岩认为，调查并报道王林案不应成为国家机密，对刘伟的逮捕是萍乡市当局“故意制造冤假错案，对记者调查进行阻碍”。</p>
-<p>他说，“萍乡市公安局抓这个南方记者可以说是欲加之罪何患无辞，这是其一。其二，完全可以说先抓人后定罪。先给你抓起来再说，再找你身上的毛病。没准儿明天就换一个罪名，给你弄个什么受贿之类的，敲诈、侵占阿。”<br>
-据了解，2004年赵岩被刑拘的两年后，法庭表示“泄露国家机密罪”证据不足，罪名不能成立。最终，以欺诈罪判处他三年有期徒刑。</p>
-<p>他还提到，萍乡市是王林的老家和发迹之地，曾经是保护王林的主体，现在却变成办案主体，这本身是矛盾的。</p>
-<p>“我是当过警察嘛，至少萍乡市公安局是不是应该回避阿？因为它涉及内部人员，有很多人跟王林个人的关系很好，那你怎么处理？王林这个案子是有重大影响的嘛，按照国家法律的规定，有重大影响的案件，当地警方应当回避。”他说。</p>
-<p><strong>刘伟获取的“国家机密”是什么？</strong></p>
-<p>据报道，今年9月中旬，王林的前妻张某和秘书雷帆也因“涉嫌非法获取国家秘密罪”被江西警方刑拘。据张某的律师张新透露，与雷帆同时被捕的还有一名王林案中的警方办案人员。</p>
-<p>因此，有业内人士猜测，刘伟的报道或许引用了警方内部人员提供的涉密材料。</p>
-<p>人在纽约的独立媒体人北风分析认为，即便刘伟获取的材料为机密文件，依据这些材料作出的报道也不应被视为是泄密行为。</p>
-<p>他还谈到，在中国的国家保密法中有一个“吊诡”的规定，即“国家机密可以被事后认定”。</p>
-<p>他说，“如果一份材料被传播，国家保密机关他们可以事后去补充认定这份材料是不是机密。尽管在传播的时候它没有被明确标注是机密，但是在事后也可以认定是机密。”</p>
-<p>而赵岩认为，王林案在办案过程中有一定的保密性，但是案件本身不应成为国家机密。</p>
-<p>他说，“第一，王林是不是一个涉密的人。王林只是一个假的气功大师、江湖骗子，他能涉什么密呢？第二，对王林的调查也不应该成为国家秘密。第三，再重要的政商关系也不可能成为国家秘密，包括他跟高官那些互动。”</p>
-<p>不久前，《财经》杂志社记者王晓璐因涉嫌传播虚假信息罪被逮捕，并在央视公开认罪悔过。</p>
-<p>北风和赵岩都认为，刘伟案不如王晓璐案严重，应是江西省萍乡市的地方行为。但是也不排除中央高层透过私人关系或其他方式对当地警方施压。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98-%E6%B6%89%E5%AB%8C%E8%8E%B7%E5%8F%96%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F/?category=18271" rel="tag">刘伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85/?category=18271" rel="tag">南都记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%94%E5%8A%9F%E5%A4%A7%E5%B8%88/?category=18271" rel="tag">气功大师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97%E6%A1%88/?category=18271" rel="tag">王林案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F/?category=18271" rel="tag">记者刘伟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -773,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -783,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

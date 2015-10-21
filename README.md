@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%8B%B1%E5%9B%BD%E4%B8%8B%E8%B7%AA%EF%BC%8C%E8%BF%91%E5%B9%B3%E9%9B%AA%E8%80%BB/" target="cdt-mirror">【习总日记】 英国下跪，近平雪耻</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，20）<br>
+十九世纪中叶，英国鬼子驾驶炮舰不远万里来到中国，先后两次悍然对我中华民族之大清帝国皇帝陛下非礼动武。当时英国舰队共计军舰16艘、武装轮船4艘、运输舰28艘，海陆军官兵加在一起才区区2万人。而我英勇的满清八旗军、绿营军指战员达20万人。我军本土作战以逸待劳，加上大纵深战略后方，可以源源不断补充给养兵源，更别提背后有3万万爱国同胞的全力支援，还有出奇制胜的光辉军事著作《孙子兵法》等。战争结果，我军不费吹灰之力完败于英国侵略者。</p>
+<p>敌弱我强实力悬殊，我军为何要选择失败？其中秘密一般老百姓是不知道的，所谓不明真相的群众就是这个意思。不明中国历史真相者不光是中国老百姓，中国知识份子学者尤其是历史学家都不明真相。因此中国历史书无论官方还是野史，都把英国鬼子两次战胜满清的鸦片战争称为“中华民族的耻辱”。</p>
+<p>若论耻辱，一个3亿人的大国，百万军队，打不过2万人规模远道而来的舰队，这个耻辱是谁给谁的耻辱？到底是英国人给的，还是自个儿给的？不过我此次对英国的超级国事访问，外媒惊呼“下跪”，证明我已替中华民族一雪前耻。</p>
+<p>此次对大不列颠北爱尔兰联合王国的超级国事访问相关事宜谈判过程披露一二。</p>
+<p>询问：乘坐黄金马车价格多少？<br>
+回覆：50亿英镑的合同。<br>
+询问：与女王共乘黄金马车价格多少？<br>
+回覆：50亿英镑的合同。<br>
+询问：议会演讲？<br>
+回覆：50亿英镑合同。<br>
+询问：风头要盖过江泽民胡锦涛。<br>
+回覆：没问题。50亿英镑合同。<br>
+询问：下跪价格多少？<br>
+疑问：谁给谁下跪？<br>
+中国驻英国大使刘晓明：你们有钱吗？<br>
+回覆：50亿英镑。<br>
+询问：礼炮108响？<br>
+不爽：你以为这里是山东啊。<br>
+不满：少废话。开价。<br>
+回覆：30亿英镑。<br>
+要求：国会演讲座无虚席热烈鼓掌。<br>
+回覆：20亿英镑。<br>
+接下来很安静，听得到开支票笔尖在纸面上磨蹭的沙沙声。<br>
+任性：拿去，300亿英镑。<br>
+下跪：得勒。您走好！</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/xijinpingengland.jpg" alt="xijinpingengland" width="551" height="358"></p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%8B%B1%E5%9B%BD%E4%B8%8B%E8%B7%AA%EF%BC%8C%E8%BF%91%E5%B9%B3%E9%9B%AA%E8%80%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/gq%E4%B8%AD%E5%9B%BD-%E4%B8%80%E4%B8%AA%E5%88%9B%E4%B8%9A%E5%B0%91%E5%B9%B4%E7%9A%84%E6%97%B6%E4%BB%A3%E6%A0%B7%E6%9C%AC/" target="cdt-mirror">GQ中国 | 一个创业少年的时代样本</a>
 </h2>
 <p><p><strong>15岁那年夏天，胡振宇因为制作炸药差点被学校开除。当时他从公安局副局长那儿得到了这么句评价——“这个小孩流入社会，比待在学校更危险。”他经常拿这句话自嘲，仿佛展示一句失效的预言。听者也往往会心一笑。</strong></p>
@@ -815,87 +853,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%A7%82%E5%AF%9F%E8%80%85-%E5%88%98%E5%A4%A7%E4%BD%BF%E5%8F%8D%E9%97%AE%E8%8B%B1%E5%9B%BD%E8%AE%B0%E8%80%85%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E9%92%B1%E5%90%97%EF%BC%9F%E4%BD%A0%E4%BB%AC/" target="cdt-mirror">观察者 | 刘大使反问英国记者：你们有钱吗？你们有技术吗？</a>
-</h2>
-<p><p>刘大使火力全开。继接受Channel 4专访以后，这位中国驻英国大使昨天又接受了BBC著名记者安德鲁•马尔的专访。面对英国记者“英企能否反过来在中国投资建设核电站”的疑问，刘晓明大使当即反问：“你们有资金吗？你们有技术吗？你们有专家吗？如果你们这些都有，那我们就会像对待法国人一样，与你们合作。”</p>
-<p>“但我觉得英国在其他方面很强。”刘晓明大使不忘“安慰”对方。</p>
-<p>中国的中广核与中核集团，即将与法国电力集团一道投资建设英国欣克利角核电站，总造价高达240亿英镑。英媒预计，习近平访英期间，各方将敲定协议，中企将占30-40%股份。</p>
-<p>三天前，10月16日，刘晓明大使还接受了BBC另一档品牌节目《新闻之夜》的专访。主持人埃文•戴维斯问了几乎一样的问题，“如果中英位置互换一下，你认为中国会允许英国的承包商在中国建设核电站吗”，刘晓明大使回答：“我想问一个问题，英国有足够的资金在中国建设核电站吗？”</p>
-<p>戴维斯不愿放弃：“假如有？你认为有吗？”</p>
-<p>“我不太确定。我认为，英国希望中国来英投资建设核电站，是因为英国需要中国的资金和技术，中国拥有先进的核电技术，中国的核电站数量比许多国家都要多。”刘大使回答。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/20151019121940484.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/20151019121940484.jpg" alt="刘晓明大使接受BBC记者安德鲁·马尔专访" width="600" height="337"></a><p>刘晓明大使接受BBC记者安德鲁·马尔专访</p></div>
-<p><strong>以下为BBC《安德鲁•马尔秀》节目18日专访刘晓明大使实录，观察者网全文翻译：</strong></p>
-<p><strong>安德鲁•马尔（以下简称安德鲁）</strong>：中国在英国投资范围之广令人惊叹：核电站、铁路、房地产、维多麦（英国著名食品品牌，已被光明乳业收购——观察者网注）。本周，乔治•奥斯本大臣访华，并未提及人权问题，而另一方面，安全专家警告，中国接近英国国家机密的程度令人不安。中国国家主席进行国事访问前，我们请到了中国驻英大使刘晓明。欢迎大使先生。</p>
-<p><strong>刘晓明</strong>：谢谢。</p>
-<p><strong>安德鲁</strong>：第一个问题是关于中英关系。一旦遇到中国，我们（英国）是不是陷入了“行乞钵”经济，无权触碰人权等问题？</p>
-<p><strong>刘晓明</strong>：首先，我想，中国与英国是伙伴关系。我们称之为“全面战略伙伴”，因为两国都具有全球影响力。我们在许多领域合作，取得双赢效果。你谈到人权，我想这也是可以讨论的领域之一，但重要的是，从哪个角度谈？当你说人权的时候，你没有必要忘记中国的大背景。我希望大家能看到，中国在人权领域取得了多大进步。</p>
-<p><strong>安德鲁</strong>：所以，事情不断变化。比方说，工党领袖科宾说要在宴会上提人权，主席不会觉得被冒犯吧？</p>
-<p><strong>刘晓明</strong>：你觉得工党会在国宴上提这问题？我不这么看。你知道，主席是来谈合作、构建伙伴关系的。他不是专门来这儿辩论人权。我们都知道，中英两国历史、文化有很大差异。我们在不同的发展阶段。所以很自然，甚至在人权领域我们也有很多差异。在中国，我们更关心改善生活、工作、住房……你知道，中国人生活变好了。反过来看，我想，中国人历史上从未获得……</p>
-<p><strong>安德鲁</strong>：（打断对方）但很多异议分子坐牢。</p>
-<p><strong>刘晓明</strong>：<strong>（打断对方）我不能同意有“很多”。</strong>你知道，所有罪犯都是经过司法程序依法审判的。</p>
-<p><strong>安德鲁</strong>：但我们觉得很多人算不上罪犯，他们批评中国，却坐牢了。</p>
-<p><strong>刘晓明</strong>：<strong>没有人会仅仅因为批评了政府而被关进监狱的。被关的那些人是因为有犯罪事实： 煽动或组织参与颠覆国家政权。</strong>我想你也很清楚，即便是在英国，一旦你搅进了某些活动，某些有损英国利益的活动……</p>
-<p><strong>安德鲁</strong>：是的。</p>
-<p><strong>刘晓明</strong>：……那些威胁到人民生命安全的人也会被关入监狱。我们之间也许存在不同看法，但我们仍然可以就此互相交流。</p>
-<p><strong>安德鲁</strong>：如果可以的话，刘大使，我想问你一个具体的问题。艾未未在皇家美术学院举办个展，这是很长很长时间以来我们在伦敦看到的最为重要和激动人心的展览。这是个国际知名的中国人形象，我认为他是个爱国者——他非常、非常为自己的民族而自豪，他父亲同毛主席和党内人士都很亲近。但有一段时间他却被关进了监狱。你是把他视作一个持不同政见者，一个危险人物，还是一个有爱国心的重要中国公民？</p>
-<p><strong>刘晓明</strong>：我不知道你对这位所谓的艺术家有多少了解。曾经在贵国一个节目上我也被问到了相同的问题，我回答主持人说，艾未未不是我的菜。中国有如许多有才能的艺术家，但是……</p>
-<p><strong>安德鲁</strong>：（打断对方）是的，有许多。</p>
-<p><strong>刘晓明</strong>：比他优秀得多的艺术家多了去了，为什么就他这么出名？</p>
-<p><strong>安德鲁</strong>：这个嘛……（Well…）</p>
-<p><strong>刘晓明</strong>：<strong>就因为他在批评中国政府。至于……其实他从未被关进监狱过。那时他是因为经济犯罪在接受调查，他被怀疑做假账和销毁会计凭证。</strong>要是英国有这类艺术家你们会怎么做？如果他有犯罪事实你们会调查他吗？</p>
-<p><strong>安德鲁</strong>：好吧，我唯一可说的就是我们对此持不同意见。我认为他是一个了不起的艺术家，我要说，他的展览很棒。我们可以对此抱不同意见，再接着我们的访谈。威尔士亲王查尔斯决定不参加国宴，中国政府觉得受到冒犯了吗？</p>
-<p><strong>刘晓明</strong>：但查尔斯王子会在许多其他场合陪同习主席。他不能参加宴会大概是有充分原因的。我知道的是，威尔士亲王做了很大的努力，你知道，他为了见习主席甚至还调整了自己的原本日程。我想他至少会同习主席见三次面……</p>
-<p><strong>安德鲁</strong>：（打断对方）我能问一问……不好意思打断了你。据说英国情报部门已经警告过政府，说中国政府通过这类核协议，正越来越接近英国国家安全的核心地带。从某种意义上说，中国正在打开禁忌之门，而许多政府包括中国政府在内，是不会允许这种行为的？</p>
-<p><strong>刘晓明</strong>：我不知道他们从哪里得来的这些情报。我唯一能告诉你的就是中国来这儿是为了合作与双赢。我们认为这是为了英国的最大利益，也是为了中英双方的共同利益。我认为英国需要中国的投资，英国人民也想要一种更好的生活，希望一个清洁能源时代的到来。我知道你们在过去十多年里不得不处理掉那些老旧的核电站，现在你们也需要钱来建新的。</p>
-<p><strong>安德鲁</strong>：我们当然需要钱，也需要技术，但中国肯定不允许外国来建设其自身的核电站吧？</p>
-<p><strong>刘晓明</strong>：<strong>这个问题之前已经有人问过。但我要问的是，你们有资金吗？你们有技术吗？你们有专家吗？如果你们这些都有，那我们就会像对待法国人一样，与你们合作。你知道法国人的核设施。他们有技术，所以我们才和法国合作，我希望……但我认为英国其他领域很强。你为什么总是盯着中国的核电建设呢？</strong></p>
-<p><strong>安德鲁</strong>：这个嘛……我们期待下周能签个大单子，你觉得有可能吗？</p>
-<p><strong>刘晓明</strong>：我也希望如此，因为对两国来说，这确实是个很重要的项目。</p>
-<p><strong>安德鲁</strong>：最后一个问题，你早前说，你认为（工党领袖）杰瑞米•科宾不会在国宴上提出人权问题，但科宾方面有人说他会，如果他真做了，会怎样？</p>
-<p><strong>刘晓明</strong>：首先，我认为国宴是女王陛下举办的，那是她的秀场。不论科宾还是其他人，都是女王的宾客。英国人都十分绅士、聪慧，在这种场合，他们知道如何表现。但同时，我们也不回避人权问题。事实上，上周，我已见过科宾，聊得不错，我也确实希望……</p>
-<p><strong>安德鲁</strong>：所以，你的建议是不要公开谈论这个话题，以使你尴尬。</p>
-<p><strong>刘晓明</strong>：某种程度上来说，我对麦克风外交不感兴趣，对镜头外交也不感兴趣。我们更重视实质性谈话。如果他有问题，我们可以好好谈谈。</p>
-<p><strong>安德鲁</strong>：嗯，之后他可以告诉我们，大使，谢谢您参加讨论，祝您本次访问愉快。</p>
-<p><strong>刘晓明</strong>：不客气。</p>
-<p>附：</p>
-<p>2015年10月14日，驻英国大使刘晓明在英国《电视四台新闻》(Channel 4 News) 演播室接受主持人乔•斯诺（Jon Snow）直播专访，介绍习近平主席即将对英国进行国事访问的重要意义，并回答有关中英关系、中英经贸合作、中国经济等提问。专访实录如下：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/W020151016500777912397.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/W020151016500777912397.jpg" alt="W020151016500777912397" width="600" height="401"></a></p>
-<p>主持人：习近平主席远道而来，专程访问英国这样一个中等欧洲国家，希望从英国得到什么？</p>
-<p>刘大使：习主席访英是为了促进中英两国关系。你把英国称为“中等国家”，我们并不这样看，我们认为英国仍是一个拥有全球影响力的国家，是世界经济增长的动力源之一。中英之间可以合作的地方很多，英国是中国在欧盟内第二大贸易伙伴，中国是英国在欧盟外第二大贸易伙伴，英国是中国在欧洲最大投资目的国，过去三年间中国在英投资迅速增长。</p>
-<p>主持人：但中国经济形势并不容乐观，进口下降了20%，股市灾难性下跌。习主席是否能够说这些情况现在都已经过去了？</p>
-<p>刘大使：当你观察中国经济时，应当关注全局，应从长远的角度看待中国经济。从根本上说，中国经济仍然基本运行良好。今年上半年，增长率达到7%，中国经济增长速度仍然在世界上领先。</p>
-<p>主持人：难道您不认为这些情况表明，共产党国家和自由市场经济这两种理念之间一定程度上存在矛盾吗？两者之间能成功结合吗？</p>
-<p>刘大使：<strong>你把中国称为“共产党国家”是不对的，中国的国名是中华人民共和国，是由中国共产党所领导的，正如英国的执政党是保守党一样。</strong></p>
-<p>主持人：但在中国没有人能选举一个非共产党来管理中国。</p>
-<p>刘大使：<strong>中国共产党提供了强有力的领导，得到人民的拥护，人民支持共产党带领中国由贫穷走向繁荣。这样好的领导，为什么要更换？</strong>你只需看看中国过去的三十年的发展。中国从一个较为贫困的国家一跃成为世界第二大经济体，这是一个奇迹。</p>
-<p>主持人：英国是不是在中国人权问题上说得太多了？您认为英国应该停止讨论中国的人权问题吗？</p>
-<p>刘大使：我认为人权问题是可以探讨的。没有哪个国家是完美的。但你们刚才播放的视频给我留下一种印象，就是一说到中国的人权问题，你们往往只关注负面。要讨论人权问题，就必须有全面的观察，弄清楚人权到底是什么？我认为，人们有追求更好的生活、更好的教育、更好的工作机会的权利。我想所有人都会同意，中国人民的生活条件比以往更好，人均寿命比以往更长，人们享受自己的幸福生活。</p>
-<p>主持人：但是令人担忧的是死刑和拘留问题，有很多人被拘留。</p>
-<p>刘大使：你说有“很多”人，你们刚才放的短片说有上百人被拘，但要知道中国有十三亿人口……</p>
-<p>主持人：也许不止上百人。</p>
-<p>刘大使：我不知道英国有多少囚犯……</p>
-<p>主持人：但英国的囚犯是经过法律审判的。</p>
-<p>刘大使：在中国，也是要通过正常法律程序进行审判的。中国是一个法治国家，任何人违法都必须承担法律责任，所有法治国家都应该尊重法律。我们也许在国家治理方法上有所不同，但在厉行法治方面我想我们看法应是一致的。</p>
-<p>主持人：你看过皇家艺术学会举办的艾未未艺术展吗？</p>
-<p>刘大使：说实话，我对他的作品不感兴趣。英国有这么多博物馆，我都挤不出时间去欣赏。</p>
-<p>主持人：但他是国际上最知名的中国艺术家。</p>
-<p>刘大使：我不这么认为。我认为他之所以在西方出名是因为他对中国政府的政策持批评态度。</p>
-<p>主持人：他到底有什么问题？中国政府跟他有什么过节？</p>
-<p>刘大使：他曾因涉嫌做假账被警方审查，被限制出境。但现在有关限制已经取消，他可以出国搞展览，这恰恰说明了中国很开放。</p>
-<p>主持人：最后一个问题，新任工党领袖科尔宾最近抨击中国的自由市场理念，他特别提到了最近天津发生的火灾，批评中国搞自由市场，导致了这场灾难。您对这位左翼领导人是否感到失望？</p>
-<p>刘大使：事实上，我今天下午刚和他见过面，商讨他即将和习主席举行的会见。我们谈了很多，谈到了工党对中英关系所作的贡献，也讨论了党际交流，谈得很融洽。至于你刚才提到的事故，这是一场悲剧，中国政府正在调查此案，相关的责任人将受到惩罚，绝不留情。</p>
-<p>主持人：非常感谢刘大使接受专访。</p>
-<p>刘大使：不必客气。</p>
-<p> </p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%A7%82%E5%AF%9F%E8%80%85-%E5%88%98%E5%A4%A7%E4%BD%BF%E5%8F%8D%E9%97%AE%E8%8B%B1%E5%9B%BD%E8%AE%B0%E8%80%85%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E9%92%B1%E5%90%97%EF%BC%9F%E4%BD%A0%E4%BB%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">，颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%98%8E/?category=18271" rel="tag">刘晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%BB%E8%8B%B1%E5%A4%A7%E4%BD%BF/?category=18271" rel="tag">驻英大使</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -907,7 +864,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C%E9%A2%A0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -917,5 +874,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C%E9%A2%A0
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

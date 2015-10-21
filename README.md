@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,104 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E8%89%BA%E4%BA%BA%E5%A9%9A%E7%A4%BC%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%A2%AB%E5%AE%98%E5%AA%92%E6%89%B9%E5%88%A4%E7%9A%84%E5%AF%B9%E8%B1%A1/" target="cdt-mirror">唐映红：明星艺人婚礼为何成为被官媒批判的对象？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%BB%84%E6%99%93%E6%98%8EAB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%BB%84%E6%99%93%E6%98%8EAB.png" alt="黄晓明AB" width="600" height="396"></a></p>
+<p><strong>问：明星艺人婚礼为何成为被官媒批判的对象？</strong></p>
+<p>答：<strong>黄晓明和Angelababy的高调婚礼引来了权力集团喉舌媒体的高调批判，其批判的语气和架势，明星婚礼宛若明星吸毒、明星嫖娼一样的丑闻。</strong>按理说，明星艺人花费自己的钱组织一场眩目的婚礼，其本身就是一场盛大的秀，与明星艺人的职业相符，于情于理于法都没有什么不妥的。一般来说，对明星艺人的批评和诟病应该是娱乐八卦媒体的“活儿”，批评他们品味、格调、假惺惺的扭捏作态、情不自禁的微表情、被晶莹的水晶和洋酒掩盖的醋意和较劲……。<strong>只要明星艺人的高调婚礼秀不涉嫌违法犯罪（如洗钱）或者明显违反社会道德（如公开表演模拟多P艳舞），权力集团豢养的喉舌媒体完全不必在这上面撕咬。</strong></p>
+<p><strong>喉舌媒体之所以着急上火地对明星艺人的婚礼开批，实际上是权力集团试图驾驭和控制社会意识形态的一系列努力之一。</strong>对明星艺人开批从吸毒、嫖娼开始，对涉黄涉毒的明星艺人进行上纲上线的舆论大批判，并以控制的媒体和渠道对大批判的明星艺人进行全面封杀。像被封杀艺人在《捉妖记》中业已拍摄完成的主角戏，也不得不换未封杀艺人重新拍摄一遍才得以公映。换言之，<strong>喉舌媒体高调批判明星艺人的盛大婚礼，不过是通过整治明星艺人来试图驾驭和控制意识形态一系列努力的其中一环，早已开始，远没结束。</strong></p>
+<p><strong>整治明星艺人以及娱乐业，从心理学角度其实就是争夺注意力的一种尝试。</strong>由于近10多年来，随着互联网的发展和娱乐业也得到极大的发展，并且成为吸引民众注意力的最大对象。<strong>权力集团通过媒体舆论进行新的意识形态的宣导和灌输，首先就需要吸引民众的注意力。</strong>在民众注意力资源有限的情况下，吸引民众注意力就有必要先行将最吸引民众注意力的娱乐业作为整治的对象。这是一种行之有效的途径。喉舌媒体通过各种方式来降低明星艺人的吸引力；监管部门则有步骤地禁止和限制境外节目的传播，限制内地娱乐节目的规模和发展，强制黄金时间的影视节目安排等等，这样就能<strong>为符合新意识形态的主旋律节目或议题腾出足够的注意力资源。</strong></p>
+<p>从心理学角度，新形势下的意识形态工作，特别试图推广和普及新意识形态，需要完成几个重要的步骤环节：<strong>吸引注意；博得好感；认同接纳</strong>。吸引注意是首当其中的重要环节。当民众的眼球被明星艺人美轮美奂的盛大婚礼所吸引，并付以极大热情来讨论，那么民众就不大可能分出太多的注意力来关注符合新意识形态的主旋律议题。更重要的是，<strong>主旋</strong><strong>律议题在自然的情况下是不可能竞争过娱乐八卦议题，</strong>对绝大多数民众来说，前者味同嚼蜡，后者如啜甜蜜。那么，<strong>有步骤地削弱、限制、抹黑和打压娱乐业，将有力地保障主旋律节目、议题能够得到所需要的关注度。</strong></p>
+<p>不过，<strong>即便赢得了“吸引注意”环节的胜利，对于最终目标的达成仍然近乎Mission Impossible。</strong>在公关心理学的基本要义里，高的关注度是把双刃剑，<strong>如果没有美誉度，高的关注度反而会带来负面效果</strong>。因此，<strong>权力集团苦心打造的主旋律节目或议题吸引了足够的注意力如果不能迅速地博得好感，那么高的关注度就完全可能成为适得其反。</strong>像一个多月前，比明星艺人用自己的钱举办美轮美奂的盛大婚礼更加奢靡百倍的动用纳税人的公帑来组织的某70周年活动，高调推出的某主旋律影片尽管在票房上机关算尽，但在豆瓣网站上最终只获得了4.3分的低分，<strong>比99%的历史片或战争片都低。</strong></p>
+<p>因此，尽管黄晓明和AB的盛大婚礼不幸成为了新的标靶，但对于权力集团试图赢得新意识形态争夺的伟大努力来说，<strong>然并卵</strong>。</p>
+<p>2015-10-20</p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%98%8E%E6%98%9F%E5%A9%9A%E7%A4%BC%E7%A7%80%E5%8F%AF%E4%BB%A5%E5%B0%91%E6%90%9E/" target="_blank">【异闻观止】人民日报| “明星婚礼秀”可以少搞些</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E8%89%BA%E4%BA%BA%E5%A9%9A%E7%A4%BC%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%A2%AB%E5%AE%98%E5%AA%92%E6%89%B9%E5%88%A4%E7%9A%84%E5%AF%B9%E8%B1%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9/?category=18271" rel="tag">公众人物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%B1%E4%B9%90%E5%9C%88/?category=18271" rel="tag">娱乐圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB%E6%84%9F/?category=18271" rel="tag">社会责任感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E9%9D%A2%E5%BD%B1%E5%93%8D/?category=18271" rel="tag">负面影响</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E6%99%93%E6%98%8E/?category=18271" rel="tag">黄晓明</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%BF%91%E5%B9%B3%E5%9B%9B%E4%BA%AE%E4%B9%A6%E5%89%91%EF%BC%8C%E6%84%8F%E5%9C%A8%E5%9C%9F%E6%B4%8B%E6%88%96%E9%A3%8E%E8%BD%A6/" target="cdt-mirror">美国之音｜近平四亮书“剑”，意在土洋或风车</a>
+</h2>
+<p><p>习近平主政以来已经多次在国内外亮出书单，他最近晒书单是在中国。他说世界文明瑰宝比比皆是，点了一百多位中外文学艺术大家的名字。他这几次晒书单涉及三位数以上中外作家、艺术家及他们的著作或作品。习近平说：最陶醉的是各国各族人民创造的文明成果。有评论人士说：若习近平真读过这些名著或吃透其精神，那么，他就不会成为一个反西方人士。</p>
+<p>就在习近平访英前夕，上周 （10月15日）新华社公布了习近平一年前在文艺座谈会上的讲话全文。习近平一年前那次会见文艺工作者，中国媒体推出并捧红了网络作家周小平、花千芳。</p>
+<p>习近平点的国内外名人</p>
+<p>不知为何一年前的讲话一年后才正式公布，但习近平这次讲话，提到了112位中外知名作家艺术家（中国31位，外国81位）。毛泽东73年前在延安也有一次文艺座谈会讲话，其精神（文艺为什么服务）成为中共执政后文艺界的发展方向和指导方针，被捧为文艺工作者创造源泉和神明。</p>
+<p>毛在那次冗长讲话中，外国人只提到了马克思、列宁，批判了托洛茨基；中国人只是数次褒奖鲁迅，并批判了“汉奸文艺”代表鲁迅弟弟周作人和张资平，一共不超过10个人名。</p>
+<p>习近平“青出于蓝胜于蓝”，这次文艺座谈会讲话，一举推荐112位中外名人，而不贬都褒。他提到了中国历史和当代31位名人当中，大多都是老子、孔子、庄子、孟子、李白、杜甫、王羲之、苏轼、关汉卿、曹雪芹等中国古代人物，剩下的都是鲁迅、郭沫若等改革、文革或中共执政前的历史人物。现代作家只有一位，那就是习近平上世纪八十年代在河边正定当领导时他的好友河北作家贾大山。</p>
+<p>在81位外国名作家艺术家当中，有希腊埃斯库罗斯等4位，俄罗斯普希金、果戈理、托尔斯泰、契科夫等18位（最后两位是前苏联导演斯坦尼斯拉夫斯基和舞蹈家乌兰诺娃），法国雨果、大仲马、小仲马、巴尔扎克等23位，英国莎士比亚、乔叟、拜伦、雪莱等10位，德国歌德、海涅、贝多芬、舒曼等10位，美国惠特曼、海明威，马克•吐温、杰克•伦敦等8位，意大利但丁、薄伽丘、米开朗基罗等6位，还有西班牙的塞万提斯和印度的泰戈尔各一位。</p>
+<p>在美国，习近平说他读过潘恩《常识》</p>
+<p>这次中国文艺座谈会是去年开的，习的讲话只是最新刚公布。其实，习近平最近一次亮书单，是他来美国国事访问期间。他在西雅图晚宴上说：中国人民一向钦佩美国人民的进取精神和创造精神。他还说：“我青年时代就读过《联邦党人文集》、托马斯•潘恩的《常识》等著作，也喜欢了解华盛顿、林肯、罗斯福等政治家的生平和思想，我还读过梭罗、惠特曼、马克•吐温、杰克•伦敦等人的作品。</p>
+<p>美国读者高胜寒发网文说：共有85章的《联邦党人文集》奠定了美国法治与体制根基。他说，该文又名新宪法，是奠定美国宪法和政治体制的理论基础，作者是詹姆斯•麦迪逊、亚历山大•汉密尔顿和约翰•杰伊。</p>
+<p>该文说，麦迪逊是美国宪法之父、开国元勋；汉密尔顿是思想家、理论家、开国元勋和第一任财政部长；杰伊是美国第一任国务卿、第一任最高法院院长、纽约州长、外交家、法学家和理论家。</p>
+<p>“整个联邦党人文集的主题，就是如何建立一个民主自由的强大共和体制，更主要的是，如何防止寡头专制的暴政独裁在新的共和国产生。”</p>
+<p>文章说，联邦党人文集主张司法独立，建立法官职位终身制，该制度美国至今依然采用，而中国的司法独立在哪里？热爱“人民民主专政“的习近平，他的联邦党人文集，都读到哪里去了？</p>
+<p>至于习近平说他读过潘恩的《常识》，文章说：潘恩37岁移民美国，当过裁缝，抬过棺材，当过老师和编辑，于1776年出版《常识》（Common Sense），鼓吹脱离英国独立，他认为，英国皇家和议会，剥夺了北美人民的天赋权利。</p>
+<p>他支持共和体制，因为其来自选举：“选民与被选者之间这种频繁互换，自然而然能建立整个共同体厉害与共的意识，治者与被治者也自然而然会彼此支持。一个政府的力量，基础就在这种相互支持，而不在毫无意义的国王名义。”</p>
+<p>潘恩的名言包括：“压迫常常是财富的后果，而很少是或根本不是致富的手段。”“许多人因恐惧而服从，另一些人因迷信也服从，一部分有权有势的人则帮附国王对其余的人进行掠夺欺诈。”。</p>
+<p>高胜寒说：在影响美国的20本书中，《常识》排行第一。美国第二任总统约翰•亚当斯说：“如果没有《常识》作者那支利笔，乔治•华盛顿的宝剑将徒劳无用。”</p>
+<p>习近平提到的美国诗人惠特曼（代表作《草叶集》）是十九世纪末著名人文主义者。高胜寒说：人文主义的最大特征，是关怀人性、维护人性尊严、慈悲宽容、反对暴力，提倡自由，实行民主，主张文明、鼓吹理性、仁慈和博爱的和谐社会。</p>
+<p>美国作者陈明说：就习近平在美国所晒书单而言，他所列举的名家名著的基本内容和思想精神，跟他以及他所领导的中国共产党宣传部门所提倡的意识形态和思想言论控制政策背道而驰。</p>
+<p>在索契，习近平推荐名人与俄罗斯异同</p>
+<p>近年来，习近平数次在俄罗斯提到他读过的俄罗斯/苏联名人名著。他这次在文艺昨天会上提到的俄罗斯名人，其中高尔基和肖洛霍夫是苏联作家。习近平出席索契冬奥会时提到他读过的俄罗斯/苏联作家作品。习近平在索契说，读书已经成了我的一种生活方式。</p>
+<p>作者朱学东在新浪博客说：索契冬奥会上俄罗斯方面也提到了12名俄罗斯/苏联文学巨匠，其中，有一半和习近平提到的重合，另一半是习近平没有提到的，他们都是苏联时期的文学大家。</p>
+<p>这些人是诗人马雅可夫斯基（自杀）；诗人阿赫玛托娃（曾被苏共中央点名批判，丈夫被枪毙，儿子被逮捕）；诗人茨维塔耶娃（自杀，丈夫被枪毙，儿子战死疆场）；诗人布罗茨基（诺奖得主获刑被苏联驱逐出境）；布尔加科夫（苏共认其作品反苏，长期遭禁）和索尔仁尼琴（著名流亡异议作家代表作《古拉格群岛》）。</p>
+<p>因为苏联“变天”而抨击那里“竟无一人是男儿”的“七不讲”提倡者习近平，曾数次访问俄罗斯，多次提到俄罗斯/苏联文学。美国作者陈明说，习近平在俄罗斯大晒书单的同时，露了一个大怯，那就是数次提到已被俄罗斯不提或有意忘却的苏共歌颂者奥斯特洛夫斯基。</p>
+<p>习近平2014年去索契，曾在当地电视台讲了这样的话：“我年轻时多次读过《钢铁是怎样炼成的》这本小说，奥斯特洛夫斯基就是在索契完成了这部著作。传说普罗米修斯曾经被禁锢在索契的群山之中，索契保留着不少罗马帝国、拜占庭帝国的遗迹，这足以说明索契是一个历史悠久的文化名城。”</p>
+<p>但是，习近平对奥斯特洛夫斯基的称赞，在中国国内媒体却找不到，原来是中国文宣部门将此删掉。</p>
+<p>2013年3月，习近平也曾提到奥斯特洛夫斯基，他把奥氏称为“俄罗斯文学巨匠，”跟普希金、托尔斯泰等真正的俄罗斯文学大家相提并论。陈明说，习这样捧奥氏，结果闹了个国际笑话，导致中共宣传机关忙不迭地给习近平“退红”，删除奥斯特洛夫斯基。</p>
+<p>问题在于，有了其一，为何还会有其二。既然第一次“露怯”已被纠正，为何次年再犯同样错误？</p>
+<p>在欧洲，习近平亮出的书单</p>
+<p>习近平去年初到法国曾点到了一堆法国大家名字：孟德斯鸠、伏尔泰、卢梭、狄德罗、圣西门、傅立叶、萨特、蒙田、拉封丹、莫里哀、司汤达、巴尔扎克、雨果、大仲马、乔治桑、福楼拜、小仲马、莫泊桑、罗曼•罗兰。</p>
+<p>三月在德国，他又提到一批德国名字：歌德、席勒、海涅、莱布尼茨、康德、黑格尔、马克思、海德格尔、马尔库塞。</p>
+<p>北京近代史学者章立凡周一在美国之音节目上说，从习近平晒出的书单来看，他颇为博学，各种名著名人，娓娓道来，无所不包。他说：如果习近平真的把这些名著都读过，吃透，那么他就不会是一位反西方人士。但是，从他执政以来实行的政策来看，都是和西方文明格格不入，起码是相互对立的。</p>
+<p>作为领袖，该读哪些书</p>
+<p>网友渔阳山人发文说，习近平应多读些中外近、现代的史学和政治书籍，“这正是他的书单所欠缺的。”他说，读书，不能生搬硬套，更不要去掉书袋，要经过思考，做顺应历史潮流、符合公理人心的事情，这才是学以致用。他说，有人看到斯大林书架上竟然有制革工业的专著便感慨：斯大林同志博览群书。毛泽东更不必说，一张大床书就占了一半。《资治通鉴》通读了多遍。他说，其实即使书读得多，如果想歪了也照样坏事。“苏联和中国的教训还少吗？”</p>
+<p>渔阳山人说，他推荐习近平读两部史学大作：上海学者沈志华主编的《一个大国的崛起与崩溃。苏联历史专题研究（1917-1991）》；他说，读了这本书，习也“不至于说出‘苏联解体，竟无一人是男儿’这样的蠢话来。”</p>
+<p>第二本是威廉•夏伊勒的(William I. Shirer)《第三帝国的兴亡—纳粹德国史》。渔阳山人说，从1933年到1937年，当年的纳粹政权以希特勒和纳粹党的意志为法律，迫害政治异见者、迫害教会、文化的纳粹化、对报刊、广播和电影的控制、以及纳粹洗脑教育等，在今天的中国都可以找到影子。</p>
+<p>这位作者说，如果习近平读过这本书并做过一番深思熟虑，他就不会贸然召开那个愚不可及的文艺座谈会。他难道不知道，他在会上列举的那些名著，没有一部是由于国王、总统或者总书记召开文艺座谈会而产生的？他表扬的那两位所谓“网络作家”（周小平、花千芳），不过是中共愚民宣传的受害者，和纳粹德国那些被骗的人毫无二致？</p>
+<p>渔阳山人说：其实何止这两位网络作家，连习先生自己也深受几十年洗脑之害而不自知，这正是他的悲哀之处。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%BF%91%E5%B9%B3%E5%9B%9B%E4%BA%AE%E4%B9%A6%E5%89%91%EF%BC%8C%E6%84%8F%E5%9C%A8%E5%9C%9F%E6%B4%8B%E6%88%96%E9%A3%8E%E8%BD%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91who-xi%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-21/" target="cdt-mirror">【敏感词库】“Who Is Xi”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B7%91_%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B7%91_%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg" alt="跑_李小乖" width="550" height=""></a><br><em>(图片作者：李小乖)</em></p>
+<p>[ 测试时间：2015年10月21日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
+<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
+<p><strong>whoisxi</strong><br><strong>习近平＋拦车</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/">马永田</a>拦车上访）<br><strong>(习)近平＋极权</strong><br><strong> 习上任</strong><br><strong>习＋庆丰</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BA%86%E4%B8%B0%E5%8C%85%E5%AD%90%E4%B8%A4%E5%AE%B6%E5%BA%97%E6%B6%89%E9%A3%9F%E5%93%81%E5%8D%AB%E7%94%9F%E9%97%AE%E9%A2%98-%E8%A2%AB%E5%81%9C/">【网络民议】庆丰包子两家店涉食品卫生问题 被停业整顿</a>）<br><strong>习＋前任职</strong><br><strong>习＋史书记载</strong><br><strong> 习＋监控</strong><br><strong> 习＋李鸿章</strong><br><strong> (习)近平＋得罪</strong><br><strong> 薄＋岳飞</strong><br><strong> 毛＋畜生</strong></p>
+<p><strong>哈达＋剥夺政治权利</strong>（详见：内蒙异议人士<a href="http://chinadigitaltimes.net/chinese/tag/%E5%93%88%E8%BE%BE/">哈达</a>）<br><strong>哈达＋绑架</strong><br><strong> 哈达＋新娜</strong><br><strong> 内蒙古＋分裂</strong></p>
+<p><strong>610办＋改组</strong><br><strong> 杀＋证监会</strong></p>
+<p><strong>访民＋拦车</strong><br><strong> 访民＋赴英</strong></p>
+<p><strong>名照＋调查</strong></p>
+<p><strong>围困 + 垃圾焚烧</strong></p>
+<p><strong>我没有敌人</strong></p>
+<p><strong>博狗</strong></p>
+<p><strong>做爱</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/whoisxi1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/whoisxi1.png" alt="whoisxi" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%8B%E6%8B%A6%E8%BD%A61.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%8B%E6%8B%A6%E8%BD%A61.png" alt="习近平＋拦车" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%BF%91%E5%B9%B3%EF%BC%8B%E6%9E%81%E6%9D%831.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%BF%91%E5%B9%B3%EF%BC%8B%E6%9E%81%E6%9D%831.png" alt="近平＋极权" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E4%B8%8A%E4%BB%BB1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E4%B8%8A%E4%BB%BB1.png" alt="习上任" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%BA%86%E4%B8%B0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%BA%86%E4%B8%B0.png" alt="习＋庆丰" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%89%8D%E4%BB%BB%E8%81%8C.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%89%8D%E4%BB%BB%E8%81%8C.png" alt="习＋前任职" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%8F%B2%E4%B9%A6%E8%AE%B0%E8%BD%BD.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%8F%B2%E4%B9%A6%E8%AE%B0%E8%BD%BD.png" alt="习＋史书记载" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E7%9B%91%E6%8E%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E7%9B%91%E6%8E%A7.png" alt="习＋监控" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E6%9D%8E%E9%B8%BF%E7%AB%A01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E6%9D%8E%E9%B8%BF%E7%AB%A01.png" alt="习＋李鸿章" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%BF%91%E5%B9%B3%EF%BC%8B%E5%BE%97%E7%BD%AA.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%BF%91%E5%B9%B3%EF%BC%8B%E5%BE%97%E7%BD%AA.png" alt="近平＋得罪" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%96%84%EF%BC%8B%E5%B2%B3%E9%A3%9E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%96%84%EF%BC%8B%E5%B2%B3%E9%A3%9E.png" alt="薄＋岳飞" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%AF%9B%EF%BC%8B%E7%95%9C%E7%94%9F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%AF%9B%EF%BC%8B%E7%95%9C%E7%94%9F.png" alt="毛＋畜生" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E5%89%A5%E5%A4%BA%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E5%89%A5%E5%A4%BA%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9.png" alt="哈达＋剥夺政治权利" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E7%BB%91%E6%9E%B6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E7%BB%91%E6%9E%B6.png" alt="哈达＋绑架" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E6%96%B0%E5%A8%9C.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E6%96%B0%E5%A8%9C.png" alt="哈达＋新娜" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%86%85%E8%92%99%E5%8F%A4%EF%BC%8B%E5%88%86%E8%A3%821.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%86%85%E8%92%99%E5%8F%A4%EF%BC%8B%E5%88%86%E8%A3%821.png" alt="内蒙古＋分裂" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/610%E5%8A%9E%EF%BC%8B%E6%94%B9%E7%BB%841.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/610%E5%8A%9E%EF%BC%8B%E6%94%B9%E7%BB%841.png" alt="610办＋改组" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9D%80%EF%BC%8B%E8%AF%81%E7%9B%91%E4%BC%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9D%80%EF%BC%8B%E8%AF%81%E7%9B%91%E4%BC%9A.png" alt="杀＋证监会" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AE%BF%E6%B0%91%EF%BC%8B%E6%8B%A6%E8%BD%A6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AE%BF%E6%B0%91%EF%BC%8B%E6%8B%A6%E8%BD%A6.png" alt="访民＋拦车" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AE%BF%E6%B0%91%EF%BC%8B%E8%B5%B4%E8%8B%B1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AE%BF%E6%B0%91%EF%BC%8B%E8%B5%B4%E8%8B%B1.png" alt="访民＋赴英" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%90%8D%E7%85%A7%EF%BC%8B%E8%B0%83%E6%9F%A5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%90%8D%E7%85%A7%EF%BC%8B%E8%B0%83%E6%9F%A5.png" alt="名照＋调查" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%9B%B4%E5%9B%B0-%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%9B%B4%E5%9B%B0-%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7.png" alt="围困 + 垃圾焚烧" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA.png" alt="我没有敌人" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8D%9A%E7%8B%971.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8D%9A%E7%8B%971.png" alt="博狗" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%81%9A%E7%88%B1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%81%9A%E7%88%B1.png" alt="做爱" width="475" height=""></a></p>
+<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。<br>
+———————-</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91who-xi%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-21/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85%AC%E5%AE%A4/?category=18271" rel="tag">610办公室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4/?category=18271" rel="tag">内蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E8%BE%BE/?category=18271" rel="tag">哈达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/?category=18271" rel="tag">马永田</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%BE%AE%E5%8D%9A%E4%B8%BE%E6%8A%A5-%E5%A4%A7%E4%B9%89%E7%81%AD%E4%BA%B2/" target="cdt-mirror">奇闻录 | 微博举报 大义灭亲</a>
 </h2>
 <p><p>10月19日，有网友爆料称，一位微博id为@可爱的宝宝亲的网友在新浪微博高调炫富，自称老公收到了区长秘书赠送的3w元购物卡，并且接连晒出自家的多辆豪车、独栋别墅等，最后甚至po出一份辽宁省发改委的文件，该网友的“举报式炫富”行为很快引起网友关注。目前，当事人已删除微博。</p>
@@ -56,7 +151,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E7%82%AB%E5%AF%8C/?category=18271" rel="tag">微博炫富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%AB%E5%AF%8C/?category=18271" rel="tag">炫富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81/?category=18271" rel="tag">辽宁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E7%BD%91-%E7%AB%9E%E9%80%89%E6%80%BB%E9%83%A8%E6%88%90%E7%AB%8B-%E8%94%A1%E8%8B%B1%E6%96%87%E8%87%B4%E8%BE%9E%E5%85%A8%E6%96%87/" target="cdt-mirror">三立新闻网 | 竞选总部成立 蔡英文致辞全文</a>
 </h2>
@@ -667,89 +762,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BF%A1%E4%BB%B0%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%EF%BC%9F%E4%B8%8D%E8%B0%88%E5%9B%BD%E4%BA%8B%EF%BC%8C%E5%8F%AA%E8%AF%BB%E8%AF%84%E8%AE%BA/" target="cdt-mirror">【网络民议】信仰共产主义？不谈国事，只读评论</a>
-</h2>
-<p><p><strong>新闻背景：</strong></p>
-<p>继共青团、环球时报和任志强在微博上掀起<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">关于“共产主义信仰”的论战</a>之后，10月19日《中国青年报》头版再发文<a href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BF%A1%E4%BB%B0%E5%85%B1%E4%BA%A7/">《我们为什么要信仰共产主义》</a>。</p>
-<p>新浪新闻中心@头条新闻转发了《中青报》的文章后，引来一众网友“吐槽”。截至本帖发表时，已有4000余条评论。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-%E4%B8%8B%E5%8D%8810.09.17.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-%E4%B8%8B%E5%8D%8810.09.17.png" alt="Screen Shot 2015-10-18 at 下午10.09.17" width="534" height="613"></a></p>
-<p><strong>以下为中国数字时代编辑摘自新浪网友评论：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-%E4%B8%8B%E5%8D%8810.10.16.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-%E4%B8%8B%E5%8D%8810.10.16.png" alt="Screen Shot 2015-10-18 at 下午10.10.16" width="530" height="538"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-%E4%B8%8B%E5%8D%8810.11.21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-%E4%B8%8B%E5%8D%8810.11.21.png" alt="Screen Shot 2015-10-18 at 下午10.11.21" width="532" height="441"></a></p>
-<p>吃胡萝卜的皮卡丘：小编你私信我 你信不信共产主义？我知道你也很难做，但是你每天生活在这种编谎话的媒体中你肯定也难受，做人啊不求名流青史但也不要遗臭万年啊！何必为了一点工资做gcd的走狗呢？还有那么多工作对吧又不会饿死</p>
-<p>尚水31148：几年前CCTV曾报道：91.3%以上的中国亿万富豪是共党高官或其亲属；前年港媒报道中国九成高官有亲属已移民海外…..这些应该就是 “中国社会的主流精神”吧？毛皇帝时期斗死数千万、饿死数千万的老百姓难道不是“共产主义信仰”造的孽吗？！…….</p>
-<p>lubeihbts：你们八千万成员现在就把财产都拿出来共产啊！ 别强迫我们就OK！</p>
-<p>时光轴c：党的廉洁从政 看看也是醉了</p>
-<p>星洲瑞寳：不要喊什么主义，现实一些。就喊让民众安居乐业。下一个五年计划就是让百姓幸福指数提高，依照国际通行标准，在医疗教育养老自由等方面达到国际中等发达水平。喊他妈法轮功能解决问题吗？</p>
-<p>基一大：亲爱的，北欧现在搞的才叫社会主义，现在共产党搞的是彻头彻尾的官僚资本主义。你们自己开心就好。共产党的精神走向与中国社会的意识形态没有关系，共产党是西方产物，只有加了中国两个字才是中国的党，也就是中国共产党的意识形态应该只是中国意识形态的组成部分，你不领导谁，你只是成员。</p>
-<p>冷酷阿姨：我当然信共产主义了！我觉得中国共产党是认真想要带领我们走向共产主义的！但是他妈共产却不共享啊！ 人家也没骗你，说好的只有共产，又没说要和你共享。</p>
-<p>义义IVAN：难怪美帝生活在水深火热当中，原来他们没有共产主义信仰</p>
-<p>梯田8会幸福：洛克：“权力不能私有，财产不能公有，否则人类就进入灾难之门。”</p>
-<p>星星变成太阳：既得利益者当然会这么说。</p>
-<p>MODOU流氓兔：这是信仰问题吗？？？这貌似是体制问题，当权利过度集中本身就会产生各种问题。中国的教育是成功的，成功的告诉我们理想与现实是有差距的，理想是填不饱肚子的，真想知道当年的那批为共产主义理想而捐躯的人看到如今国内这幅景象是什么一种表情，一定很精彩吧……</p>
-<p>郑钧：不谈国事，只读评论。。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BF%A1%E4%BB%B0%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%EF%BC%9F%E4%B8%8D%E8%B0%88%E5%9B%BD%E4%BA%8B%EF%BC%8C%E5%8F%AA%E8%AF%BB%E8%AF%84%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5/?category=18271" rel="tag">中国青年报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%A5%E8%AE%BF%EF%BC%8C%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%B0%88%E9%92%B1%E4%B8%8D%E8%B0%88%E6%94%BF%E6%B2%BB/" target="cdt-mirror">纽约时报 | 习近平来访，英国政府谈钱不谈政治</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/18CHINA1-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/18CHINA1-articleLarge.jpg" alt="18CHINA1-articleLarge" width="550" height="433"></a><br>
-（为迎接习近平访问英国，一位工人在英国中国城的一条街上进行装饰工作。）</p>
-<p>作者：Jane Perlez<br>
-北京——英国财政大臣乔治·奥斯本(George Osborne)上个月访华时，选择了一个非同寻常的目的地，他飞到了动荡的新疆地区，那是人权组织指责北京迫害维吾尔少数民族的地方。</p>
-<p>他是在为中国国家主席习近平对英国进行国事访问做准备工作，习近平周一抵达英国。奥斯本希望能为英国建筑公司在一个雄心勃勃的项目中拿到合同，该项目将把新疆变成公路、铁路和油气管道的门户，把中国通过中亚与欧洲连结起来。</p>
-<p>“让我们共同合作，让英国成为中国在西方最好的伙伴，”奥斯本热情洋溢地说，这是美国官员不太可能对中国使用的语言。</p>
-<p>奥斯本的访华行程突显了英国政府与中国关系的重点在经济上，而不是在有争议的问题、比如人权问题上，这种姿态受到中国的热烈欢迎。习近平之行将包括下榻白金汉宫以及乘坐皇家马车，中国官方媒体称访问预示着中英两国关系“黄金时代”的开启。这是中国领导人十年来首次对英国进行国事访问。</p>
-<p>中国外交部副部长王超上周表示，习近平访问期间，将签署”金额巨大”的协议，这次国事访问将于周五结束。预计签署的协议包括一个拖延已久的、中国对英国核电站投资的项目。英国官员说，该协议可能会为中国投资另一个核电站项目铺平道路，那个核电站将由一家中国国有企业设计建设。到目前为止，还没有公众所知的英国在新疆的贸易协议。</p>
-<p>中国企业已经对英国基础设施拥有股份，包括伦敦希思罗机场和曼彻斯特一个机场在内的两个机场的股份，以及北海油田项目的股份。中国电信公司华为技术有限公司还为英国电信网络提供设备，而美国以安全为由，禁止华为在美国经营。英国为监督华为运营而成立的一个委员会已宣布，该公司对国家安全不构成威胁。</p>
-<p>“显然，乔治·奥斯本做出决定，吸引中国对英国进行大笔投资，是挽救英国经济的途径，”欧洲改革中心外交政策主任伊恩·邦德(Ian Bond)说。“他不把外交部和安全政策看在眼里。”</p>
-<p>作为美国亲密盟友的英国，是申请加入中国今年新成立的亚洲基础设施投资银行的第一个西方国家，尽管华盛顿反对亚投行。</p>
-<p>中国人民大学国际关系教授宋新宁说，中国政府对英国政府把商业置于其他考虑之上的决定很赞赏。“英国人不仅有商业头脑，也有战略智慧，”宋新宁说，他反映的是中国政府的观点。“英国如今是中国在欧盟的第二大贸易伙伴，而它曾名列第四。”</p>
-<p>英国首相戴维·卡梅伦(David Cameron)曾于2012年在伦敦会见了西藏流亡精神领袖达赖喇嘛，此举令中国人愤怒。</p>
-<p>打那以后，卡梅伦再未与达赖喇嘛见面，他基本上把与中国打交道的事交给了奥斯本，而奥斯本主要关心金融和投资。</p>
-<p>奥斯本努力的一个重点是希望让伦敦成为中国货币人民币的一个主要贸易中心。几家中国银行已获准在英国开分行。中国人民银行也将于近期在伦敦发行短期人民币债券，这是人民币债券首次在中国境外发行，奥斯本上个月在上海证券交易所发表演讲时这样说。</p>
-<p>许多人批评英国政府把商业利益置于其他问题之上，包括网络安全、中国日益增长的领土野心，以及人权问题。</p>
-<p>习近平国事访问之前发生的一件令人尴尬的事是，英国13世纪《大宪章》(Magna Carta)为数极少的幸存手抄本之一的陈列展，未能在北京的中国人民大学如期举行，这份文件概述了应该保障的个人权利。由于英国外交部所称的“行政”原因，这份可能看来具有极大政治影响力的文件被转移到英国大使馆的一个小房间里展出。</p>
-<p>中国准备投资建设的核电站的设计已引起人们的批评，而中国对英国核电项目的继续参与也引发了有关国家安全问题的质疑。</p>
-<p>被称为欣克利角(Hinkley Point)C的核电站将建在英格兰的萨默塞特，核电站由一家法国公司经设计，据总部设在伦敦的《中国对话》(Chinadialogue)双语网站的主编伊莎贝尔·希尔顿(Isabel Hilton)说，公司的设计有问题。英国官员说，有望与中国广核集团和中国核工业集团公司达成让这两家中国国有企业拥有核电站30％到40％股份的协议。</p>
-<p>“据英国政府的说法，吸引中国投资的诱饵，是他们将获许在埃塞克斯建造运行另一个核电站的承诺，”希尔顿说。“这将让中国国有企业拥有英国重要基础设施的一部分，出于国家安全考虑，对这一过激做法肯定应该进行公开的辩论。”</p>
-<p>翻译：Cindy Hao</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%A5%E8%AE%BF%EF%BC%8C%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%B0%88%E9%92%B1%E4%B8%8D%E8%B0%88%E6%94%BF%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%AE%AA%E7%AB%A0/?category=18271" rel="tag">英国大宪章</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%BB%AD%EF%BC%9A%E3%80%8A%E7%8E%AF%E6%97%B6%E3%80%8B/" target="cdt-mirror">【立此存照】编造“中国梦”事件后续：《环时》只用英文道歉</a>
-</h2>
-<p><p>近日，《环球时报》被指编造外国学者为习近平及其“中国梦”唱赞歌。根据《纽约时报》报道：</p>
-<blockquote><p>哈佛大学历史和政治学教授马若德(Roderick MacFarquhar)本月在北京的<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/">一个马克思主义会议</a>上谈及习近平的“中国梦”。他说，习近平所说的中国复兴说“在智识上是一个不连贯、不广泛、缺乏力量的理念，”不足以与西方思想抗衡。但中国官方的《环球时报》对此的回忆不同。它把马若德的话改成了，“中国梦”将会对人类发展做出巨大贡献，发挥积极影响。</p></blockquote>
-<p>党媒发挥版如下：</p>
-<blockquote><p>美国哈佛大学教授罗德里克·麦克法夸尔表示，习近平主席提出的中国梦，是中国马克思主义者对马克思主义作出的创造性发展，将对人类发展产生重要贡献和积极影响。</p></blockquote>
-<p>面对来自各方的谴责，《环时》英文版近日公开<a href="http://www.globaltimes.cn/content/947582.shtml">发表道歉</a>，<strong>称“一家中文媒体”误将这则间接引用当作了马若德教授的言论，而该报在翻译时因疏忽大意，没有就内容进行核查，所以是“失误”</strong>。</p>
-<p>然而<strong>《环时》的道歉，无论可信与否，似乎都没有中国读者的份儿。</strong>这则全英语道歉只是针对《环时》的译文。而<strong>那曲不存在的“中国梦”赞歌，仍在各大新闻网站，包括《环时》旗下的<a href="http://china.huanqiu.com/hot/2015-10/7735653.html">环球网</a>中继续存在着</strong>。大陆媒体对此一致沉默，就好像这桩丑闻或者误会从未发生过一样。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-1.50.41-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-1.50.41-AM.png" alt="global times" width="550" height="440"></a></p>
-<blockquote><p>
-<strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%A0%E6%96%87%E7%AB%A0%E6%96%87%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84%E3%80%8A%E6%B7%B7%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%EF%BC%9A%E8%AF%B4%E8%B0%8E%E6%88%90%E6%80%A7%E7%9A%84/" rel="bookmark"> 东网 | 章文：“真实”与《环球时报》无缘 </a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B5%9E%E6%AD%8C%EF%BC%9F%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E6%9B%BF%E4%BD%A0%E5%94%B1%EF%BC%81/" rel="bookmark">纽约时报 | 不会唱赞歌？中国媒体替你唱！ </a></li>
-</ul></blockquote>
-<p>另外，《环时》英文道歉中所提到的那“一家中文媒体”，很显然是指由<strong>中宣部直接领导的党报：《光明日报》</strong>。2015年10月11日，该报将涉事文章刊登在了<strong>头版</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-1.54.18-AM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-18-at-1.54.18-AM.png" alt="光明日报头版文章" width="550" height="448"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5%E5%A4%B4%E7%89%88.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5%E5%A4%B4%E7%89%88.png" alt="光明日报头版" width="400" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%BB%AD%EF%BC%9A%E3%80%8A%E7%8E%AF%E6%97%B6%E3%80%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">世界马克思主义大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">光明日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%A5%E5%BE%B7/?category=18271" rel="tag">马若德</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -761,7 +773,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -771,5 +783,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

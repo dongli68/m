@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%AE%B4%E8%BA%AB%E4%BA%A1-%E5%86%8D%E6%8E%80%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/" target="cdt-mirror">【网络民议】大陆游客被殴身亡 再掀陆港矛盾</a>
+</h2>
+<p><p><strong>新闻背景：</strong></p>
+<p>10月19日，<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc-%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E6%B8%B8%E6%B8%AF%E4%B8%8D%E6%84%BF%E8%B4%AD%E7%89%A9%E8%A2%AB%E6%AE%B4%E8%BA%AB%E4%BA%A1%E5%BC%95%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE/">一黑龙江籍男子因不满在香港珠宝店被强迫购物而与导游起冲突</a>，被一名香港男导游、一名内地男领队殴打昏迷，送医后不治身亡。</p>
+<p>该事件在微博上引发了又一轮陆港矛盾。有网友重提今年9月世界杯亚洲区预选赛上，香港球迷给《义勇军进行曲》喝倒彩一事，更有人言辞激烈地要求中央政府政府制裁香港。另一些网友则不满新闻“标题党”，指出该事件是大陆导游和团友间的矛盾，与香港无关。也有人回忆自己去香港旅游的经历，表示大家不该轻信媒体、以偏概全。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/60718250jw1ex7ivyc24lj20fa0ax3zq.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/60718250jw1ex7ivyc24lj20fa0ax3zq.jpg" alt="60718250jw1ex7ivyc24lj20fa0ax3zq" width="550" height="393"></a></p>
+<p><strong>以下为中国数字时代编辑摘自新浪网友评论：</strong></p>
+<p><a href="http://weibo.com/u/3558059242">撸猫狂魔欣欣酱</a>：不要欺人太甚～你以为中国大陆管不了你，一次又一次作！感觉快触及底线了，希望你们好好考虑后果～gg</p>
+<p><a href="http://weibo.com/wowowoleo">niki_Cai</a>：和地痞流氓有什么区别？？？？？？N年前第一次去也去过这家店，兼职就是被关小黑屋···········</p>
+<p><a href="http://weibo.com/u/3930695993">Helen在CA</a>：习大大赶紧制裁香港！港狗越来越嚣张了！</p>
+<p><a href="http://weibo.com/durak">杜拉克_坚守</a>：回复@ChloeTsui:不是大陆低价旅游团应该取缔，而是你们香港320万港灿的英国国籍应该取缔，一国两制应该取缔，种种两制的特权应该取缔，让你们这帮英国基佬的狗崽子消停消停，老老实实做中国人，就什么病都好了。一国两制50年不动摇，你们再猖狂个二三十年，就成了香港县了，那时候不把你们的小崽子收拾死才怪</p>
+<p><a href="http://weibo.com/u/2428004894">开了外挂在得瑟</a>：香港之前就是英国的走狗，现在是大陆的哈巴狗，听点话吧，小心没食吃</p>
+<p><a href="http://weibo.com/u/5671299842">一条泥腿子</a>：香港要变臭港</p>
+<p><a href="http://weibo.com/u/1706347291">Gydaydayup颖</a>：别去一个对你敌对的地区！和他们讲不清道理。</p>
+<p><a href="http://weibo.com/u/2054969497">一片落叶0000</a>：屁大点地方，生出来的人哪里来的优越感</p>
+<p><a href="http://weibo.com/u/1861868440">把皇上拖出去斩了</a>：明明现在局势这么紧张 还有脑残去香港也是绝了！话说 这次把大陆人打死了 什么时候送两个港独来给我们耍耍[微笑][微笑][微笑]</p>
+<p>—————————————————————————————————————————</p>
+<p><a href="http://weibo.com/u/2309741724">嘟嘟LIN2015</a>：不要被标题误导了，明明打人的是内地导游和团友，不是香港人，小编是嫌中港矛盾不够严重吗</p>
+<p><a href="http://weibo.com/luohx0916">布丁麻麻海螺</a>：@头条新闻 你这样标题党真的好吗？新闻链接里讲的，团员是东北人，导游是内地人，打人的也是内地人组成的影子团员，与人家香港人没有半毛钱关系只不过发生在香港而已。@头条新闻 [弱][鄙视]</p>
+<p><a href="http://weibo.com/u/5648412830">OvO甜美系超级冠军XD</a>：噢，内地打内地人，再欺负内地人偏见深标题党，赖到香港头上去，高明</p>
+<p><a href="http://weibo.com/u/1482500681">笨蛋中的坏蛋</a>：最近香港的负面消息挺多的，貌似中央要搞臭香港[思考]</p>
+<p><a href="http://weibo.com/lovemybabykayu">回眸轻寒</a>：@明明是两拨大陆人之间的斗殴导致的伤亡，其实在国内遍地都是这种事件，因为发生在香港，无辜港人又要躺枪，搞臭了香港对我D有重大利好，以后所有港人正当的政治诉求都不会引起大陆民众过多的关注和支持。。</p>
+<p><a href="http://weibo.com/xinyanyinger">陈猫威</a>：作为政府工具的内地媒体再一次给内地人洗脑。实情是内地黑心团跟内地游客打起来了，跟香港P毛关系都没有，标题故意给群众造成误导，以为香港人对内地游客怎样怎样。看评论就知道了，这种洗脑方式一一直以来颇为成功，从日本到菲律宾到现在可怜的香港，每次扯上政治问题就来这招。</p>
+<p><a href="http://weibo.com/u/2130866742">小斯嫲嫲</a>：我刚去回来，感觉也没有像大家说的这么恶劣啊，其实很多香港人还是友好的啊[闭嘴][闭嘴]</p>
+<p><a href="http://weibo.com/u/3769738773">汪鹏湘</a>：肯定有人说香港歧视大陆人什么的。我发誓我去香港时他们都十分友好。刚到不知道怎么坐轻轨很多好心人帮忙。双层地铁站绕得糊里糊涂下楼梯还有老外来帮你拎箱子。我们行李多人家还让我们先上电梯告诉我们目的地怎么坐车。离开时大热天超多人的地铁站手提带坏了都会有人问你需不需要帮助。不要一棒子打死</p>
+<p><a href="http://weibo.com/b612fox">别跑用飞的</a>：看了一堆评论都是骂香港的 我只想说自己保护好自己远离购物团保护好自己 上次在香港不知道坐什么车去浅水湾 两个阿姨操着不熟练的粤普从上头到尾一直在给我们指路 上车还不放心怕我们走错了 不管是吃东西还是买东西都没有被坑过 @聂小卷是个怪咖</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%AE%B4%E8%BA%AB%E4%BA%A1-%E5%86%8D%E6%8E%80%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">大陆游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%85%E6%B8%B8%E5%9B%A2/?category=18271" rel="tag">旅游团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%85%E6%B8%B8%E8%B4%AD%E7%89%A9/?category=18271" rel="tag">香港旅游购物</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%8B%B1%E5%9B%BD%E4%B8%8B%E8%B7%AA%EF%BC%8C%E8%BF%91%E5%B9%B3%E9%9B%AA%E8%80%BB/" target="cdt-mirror">【习总日记】 英国下跪，近平雪耻</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，20）<br>
@@ -829,30 +863,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AE%B8%E5%80%AC%E4%BA%91-%EF%BC%9A%E9%97%AD%E5%85%B3%E6%81%B0%E5%9C%A8%E7%9B%9B%E4%B8%96%E5%A7%8B/" target="cdt-mirror">许倬云 ：闭关恰在“盛世”始</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image4.jpg" alt="image" width="517" height="360"></a></p>
-<p>如前所述，清帝国既以强大征服者的姿态，拥有暴力统治的基础，又根据中国传统皇权，驯服了中国的文化精英。在这种背景之下，大清时代的文化活动，毋宁说也是在皇权掌握之下;康、雍、乾三代，朝廷发动的文化活动，一部分是压制明代开始的王阳明心学传统;另一部分，则是严防中国知识分子的反清运动。明末清初，中国读书人发展了自由心态以及对过去的检讨，例如，黄宗羲在《明夷待访录》所主张的政治改革和顾炎武对于中国历史文化的批判——凡此，清朝政权都不愿发生。反清的民族主义，例如王船山的《读通鉴论》和吕留良等人主张的复明运动，当然更受到强力的排斥和压制。<strong>清朝皇室一方面以修明史的名义，抓住对明清递换之际的历史解释权，取缔民间修撰的明史稿，发动大规模的文字狱，吓阻汉人再作同样的尝试。</strong></p>
-<p>另一方面，政府主动编撰大型的丛书，例如《四库全书》，以这个方式选择性地排斥不利于“夷狄”的记载。这些大型的编撰工作，发动了大量学术精英参与，借此将这些儒生笼络于政府掌握之下。乾、嘉以后，朴学大兴，儒生的精力都集中在考证和校勘，致力使经典回归原来的面貌。这一活动，在好的角度说，是排除后世对古代经典的扭曲和遗落;换一个角度，回归经典原貌的努力成为学术主流，而对于经典的阐释，就无人再作努力。经典的意义永远保留在原典状态，不再有因时俱进的解释和开展。经典固定了，不断更新经典意义的活力也就丧失了。儒家经典只停留在朱学的解释，也就是伦常纲纪的意义，对于统治者而说，最有利于肯定忠君思想和伦理观念。</p>
-<p><strong>文化成就由边缘人物创造</strong></p>
-<p>经过清初百余年皇权的强力干预，中国的儒生都成为俯首从命的书呆子。明代留下的经世传统，只存在于颜元、李塨的实用之学。汉代今文学派以下，对于宇宙论和历史发展论的解释，只是不绝如缕而已。儒家传统的结晶化，也就是僵化，持续到晚清，恰当中国面临文化危机的时候。中国文化缺少开展的活力将近二百年之久。这一特色，可以见之“四王”的作品缺乏创造性。又例如，清代的瓷器和家具，多姿多彩而烦琐，失去了明代青花瓷和家具那种素雅的艺术风格。在主流以外的艺术圈，例如“扬州八怪”等人，却发展了一些新鲜的主题和风格。</p>
-<p>在文学和表演艺术层面，清朝时的成就乃是小说和京剧，两者都是主流以外的边缘人物创造的成就。文学领域，民间说书人为小说提供素材，而且由此创作了一些长篇著作。曹雪芹当然不是民间的说书人，但是他也不属于当时文化界的主流。现在成为中国传统舞台艺术重要形态的京剧，乃是一批徽班演员，撷取了昆曲、汉剧等等地方戏曲的精华，综合为复杂而优美的舞台艺术。凡此例证都证明，政治力量的高压与收买，固然驯服了文化精英群，那些边缘地带的人物，却还是可以在夹缝中脱颖而出，对于文化的转型和发展做出重大的贡献。</p>
-<p>文化传统主流的儒学，已经僵化;一些民间的宗教活动，从边缘出发，掌握了基层老百姓的精神需求。最值得注意者，乃是根据中亚传来启示性信仰而发展的白莲教。这一个教派，源远流长，可以上溯到民间道教、佛教和摩尼教。在元代末年，最大的一支抗元武力，就是明教的教徒。在明代，明教潜伏在民间，逐渐转化，成为白莲教。乾、嘉时代，白莲教活动从川楚到山东、山西，范围广大，活动频繁，甚至曾经一度攻入紫禁城;在各处的起事，也是前仆后继，成为当时主要的内乱之一。最大一个宗教性的活动，则是咸丰时代的太平天国。这一个冒充基督教的民间运动，实际上也是民间教派的活动，而且加上反清复汉的族群意识。到清代快终了时，义和团的活动，则将族群意识的箭头，转向于反对西方力量;义和团本身的意识形态和组织方式，仍旧是中国民间教派活动的传统一脉。这几次大规模的变乱，可说是因为主流文化的儒家留下了一片空白，无法满足一般平民的精神需求，才由民间的教派活动填补了空缺。</p>
-<p><strong>西方的影响逐渐淡化</strong></p>
-<p>在文化精英群已经失去活力时，他们对于本国的文化，只是墨守成规。对于外来的文化，则因为自己没有信心，也就不能开放胸襟，接受新的挑战。明代西方文化初入中国，有一批中国学者，例如，徐光启、李之藻等人，愿意和西方来的学者对话;方以智更是从西方文化的启示上，发展一些可以融合中西的想法。在清朝，西方的影响却逐渐淡化，胸襟最开阔的康熙，自己也从西方传教士学习西方数学;但是，同一个康熙，为了大礼的争议，将西方传教活动实质上停止了。这些西方教士，从此只能在钦天监工作，因为西方的天文学，毕竟比中国传统天文学和中东传来的阿拉伯天文学更为精确。政府限制教士们只能在首都附近活动;他们也没有机会和中国的知识分子接触来往。</p>
-<p>甚至于在武备方面，清朝也采取保守态度，不再使用和发展西方的火器。如前所述，在清军入关前后，明、清交战双方，都曾使用火器。替清军做前锋的汉军部队，一路征战，使用铳炮，势如破竹。在康、雍、乾三代，向北方和西方扩张时，清军使用过大量的火器，其中很多是开国时汉军部队留下的武备。几次大战役，这些火器几乎消耗净尽了。在乾隆时代，进攻大、小金川，清军已不见重装备，全靠火枪作战。然而，乾隆认为，满洲武勇是以骑射为长，不应该数典忘祖，放下自己的传统。清早期三代以后，中国没有再出现制造和修理火器的兵工厂。直到清末，洋务运动时，才重新接上发展火器的传统。清初，17、18世纪时，西方正是民族国家逐渐兴起，国与国之间的竞争，以发展武备为要件。17世纪初期的枪炮，和当时中国使用的火器，精密程度相差不远。到了18世纪初，中国没有再发展，欧洲的军火技术却已经突飞猛进。单以火枪而论，从点火线的“铳”，已经发展成用撞针敲击子弹发射的步枪。乾隆时代，英国访问中国的代表团，回国时的报告称中国是个没有国防军备的国家。果然，在鸦片战争时，广州虎门炮台上，只有三藩之乱时候的“红衣大炮”，对方则是当时最先进的海军炮!</p>
-<p><strong>结束的开始</strong></p>
-<p>自从蒙古打通了东、西之间的海陆信道，欧亚大陆上知识的传播相当流畅。中国的许多传统工艺，例如，瓷器的烧釉，毛丝织品的混纺技术，甚至于传统中药的药材，都有相当多的改变。康、雍、乾三代以后，中国的工艺，基本上停滞不动。明末，西洋“水法”传入中国，水压喷泉和流水，也用来作为庭园和灌溉的设施。英法联军烧毁的圆明园，其建筑的方式，包括格局和上述水法，都有西方的影响。清代中叶以后，中国的建筑技术，不再容纳西方的方法和观念。</p>
-<p><strong>文化的闭关，恰是在清代“盛世”之时开始;到了清末，中国必须接受西方的文化时，从元明以来到清初的西方影响，都已经湮没不彰。不仅文化闭关，实际上所谓“盛世”，乃是文化活力的消沉。整个清代，除了皇室宫殿、庭园以外，中国没有大规模的公共工程。那些规模巨大的工程，主要只有防止黄河泛滥的河工，和保持漕运畅通的运河工程。中国传统上，筑路、开河、国防防御工程等等，都未见进行。明末，已经有相当不错的海船造船技术，自从清政府接收台湾以后，中国不再能制造远洋的大船。凡此现象，都显示清政权只是以威权统治中国，从来没想到要在原有的文化基础上，开张和发展——这也许真的是结束的开始(beginning of the end)。</strong></p>
-<p>《国家人文历史》2015年10月下独家稿件</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%AE%B8%E5%80%AC%E4%BA%91-%EF%BC%9A%E9%97%AD%E5%85%B3%E6%81%B0%E5%9C%A8%E7%9B%9B%E4%B8%96%E5%A7%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%97%AD%E5%85%B3/?category=18271" rel="tag">文化闭关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%9D/?category=18271" rel="tag">清朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%AB/?category=18271" rel="tag">清末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9/?category=18271" rel="tag">西方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD/?category=18271" rel="tag">闭关锁国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -864,7 +874,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -874,5 +884,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

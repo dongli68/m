@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%AE%BF%E8%8B%B1%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5%E7%85%A7-%E9%81%AD%E5%BE%AE%E5%8D%9A%E6%B2%B3%E8%9F%B9/" target="cdt-mirror">立场新闻 | 彭丽媛访英化妆失败照 遭微博河蟹</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/pang-09_jJ9o7_1200x0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/pang-09_jJ9o7_1200x0.png" alt="彭丽媛化妆失败" width="600" height="400"></a></p>
+<p>中国国家主席习近平夫人彭丽媛，常被大陆媒体吹捧成时尚指标的地位，但在偕夫访英期间失手，被外国摄影记拍到脸上出现不均匀白粉，被戏称为「化妆失败」、「化妆事故」，外媒、港台媒体大肆报道，但在中国大陆网络，彭丽媛的这张照片则被「河蟹」；在新浪微博上，连发帖的网民帐号亦遭屏蔽。</p>
+<p>根据监测屏蔽微博的网站「<a href="https://freeweibo.com/weibo/3900666981957058" target="_blank">自由微博</a>」，上载彭丽媛「化妆事故」照片的微博，已经被删除，转发者微博亦被屏蔽。从<a href="http://webcache.googleusercontent.com/search?q=cache:4YZlGL-LKf8J:weibo.com/5718066597/D0hlM8d7s+&cd=1&hl=zh-TW&ct=clnk&gl=hk#_rnd1445487298170" target="_blank">Google cache记录</a>亦可见，有关微博已无法访问，而发帖者的帐号目前已经失效。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7854756456456_xMEVU_1200x0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7854756456456_xMEVU_1200x0.jpg" alt="Google cache记录 该微博现无法访问" width="600" height="325"></a><p>Google cache记录 该微博现无法访问</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/45456415145145_ZJ9eC_1200x0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/45456415145145_ZJ9eC_1200x0.jpg" alt="发帖者微博目前「异常」" width="600" height="315"></a><p>发帖者微博目前「异常」</p></div>
+<p>微博上亦有网民讨论有关微博被删除的事：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/75456456454156_RnX3J_1200x0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/75456456454156_RnX3J_1200x0.jpg" alt="75456456454156_RnX3J_1200x0" width="554" height="529"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/45764684564125_xmuVN_1200x0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/45764684564125_xmuVN_1200x0.jpg" alt="45764684564125_xmuVN_1200x0" width="600" height="145"></a></p>
+<p>另一方面，英国《每日邮报》将彭丽媛形容为「前摇滚明星」（former rock star），亦激起网民联想（下图）。目前，此微博尚未被屏蔽，但网民纷纷在下方为专页点蜡烛及称「坐等贵博新号」。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen20Shot202015-10-2220at2012.25.1020PM_JxwoJ_1200x0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen20Shot202015-10-2220at2012.25.1020PM_JxwoJ_1200x0.png" alt="Screen20Shot202015-10-2220at2012.25.1020PM_JxwoJ_1200x0" width="597" height="2016"></a></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%AE%BF%E8%8B%B1%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5%E7%85%A7-%E9%81%AD%E5%BE%AE%E5%8D%9A%E6%B2%B3%E8%9F%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%A6%86%E4%BA%8B%E6%95%85/?category=18271" rel="tag">化妆事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5/?category=18271" rel="tag">化妆失败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">自由微博</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E6%9C%80%E4%B8%A5%E5%85%9A%E7%BA%AA%E5%85%AC%E5%B8%83%EF%BC%9A%E5%A6%84%E8%AE%AE%E5%A4%A7%E6%94%BF%E6%96%B9%E9%92%88%E5%8F%AF%E5%BC%80%E9%99%A4/" target="cdt-mirror">新京报 | 中央最严党纪公布：妄议大政方针可开除党籍</a>
 </h2>
 <p><p>新京报讯 历时14个月，重修后的<a href="http://news.sina.com.cn/c/nd/2015-10-21/doc-ifxizwti6817718.shtml" target="_blank">《中国共产党纪律处分条例》</a>昨日正式发布。新条例将“妄议中央大政方针，破坏党的集中统一”列入违反政治纪律“负面清单”，规定该类行为情节较轻的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分。</p>
@@ -1035,28 +1056,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%86%AF%E6%B5%B7%E9%97%BB%EF%BC%9A%E6%9C%B1%E4%BA%91%E6%9D%A5%E5%90%83%E4%BA%86%E8%B1%B9%E5%AD%90%E8%83%86%EF%BC%8C%E6%8C%91%E6%88%98%E4%B8%AD%E5%85%B1%E7%AC%AC/" target="cdt-mirror">太阳报｜冯海闻：朱云来吃了豹子胆，挑战中共第五代</a>
-</h2>
-<p><p>前总理朱熔基之子朱云来近日就中国经济政策发表「惊人之语」，抨击中共第五代目前实施的政策本末倒置。由于朱云来身份特殊，他公开发表这些言论，让人浮想联翩。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/k3.jpg" alt="k3" width="543" height="302"><br>
-前总理朱熔基之子朱云来</p>
-<p>朱云来十月十六日在新加坡高层论坛上表示，政府不断投入稳增长项目，其实是给旧的经济产业找借口和出路，最终阻碍改革进程。健康的发展模式应是将政策主基调从「稳增长」转变为「调结构」。朱云来认为，一系列稳增长项目其实是非市场因素的投资行为，为中国旧经济产业保底，阻碍中国经济改革进程，很多项目可以索性停止。</p>
-<p>朱云来还称，今年国家已经投入了接近二万亿元的稳增长项目，其实很多都是资源浪费，为过剩产能兜底。如果政府担心社会问题，直接去解决民众的生活问题，可能不需要花二万亿元。建造那么多的公路，其实并没有这么庞大的需求，最终收不上费其实是亏损的。</p>
-<p>朱云来这番论调与第五代目前实施的经济政策完全是背道而驰。值得注意的是，朱云来这番讲话发表之后，当天内地各大网站大量转载，并置于显眼位置，但一天之后，这番讲话却被全部删除。显然，内地对朱云来的讲话有不同看法。</p>
-<p>朱云来是朱熔基之子，曾任国企中金公司的总裁，其一言一行都令外界关注。按理，如果他对现行政策有不同意见，完全可以通过私下渠道向第五代「进言」，或者按照「组织程序」撰写报告，但他选择在公开场合抨击，让人怀疑他另有目的。</p>
-<p>金融领域 风声鹤唳</p>
-<p>早前中纪委放风开始重点巡视各大国有金融公司，要揪出金融领域的大老虎，随着中证监主席助理张育军以及中信证券等一众高层被调查，整个金融界风声鹤唳。众所周知，朱熔基当年主管金融领域十年，在金融界培养了一批人马，不少现任金融界高官都带着朱系人马的特征。正因为此，朱云来今次放话，多少有点放言警告第五代的味道。</p>
-<p>事实上，改革开放三十多年来，中国国有大企业很多表面上是全民所有，实际上早被一些豪门权贵暗中控制，比如电力系统、电讯系统、石油系统、银行系统，很多都成为权贵们的囊中之物。今次第五代将周永康拉下神坛，清洗蒋洁敏、苏树林、廖永远等石油帮一众干将，才将石油体系真正收归国有。如今金融系统又大整风，那些既得利益阶层难免会有所动作。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%86%AF%E6%B5%B7%E9%97%BB%EF%BC%9A%E6%9C%B1%E4%BA%91%E6%9D%A5%E5%90%83%E4%BA%86%E8%B1%B9%E5%AD%90%E8%83%86%EF%BC%8C%E6%8C%91%E6%88%98%E4%B8%AD%E5%85%B1%E7%AC%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E4%BA%91%E6%9D%A5/?category=18271" rel="tag">朱云来</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1068,7 +1067,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1078,5 +1077,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

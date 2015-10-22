@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E6%9C%80%E4%B8%A5%E5%85%9A%E7%BA%AA%E5%85%AC%E5%B8%83%EF%BC%9A%E5%A6%84%E8%AE%AE%E5%A4%A7%E6%94%BF%E6%96%B9%E9%92%88%E5%8F%AF%E5%BC%80%E9%99%A4/" target="cdt-mirror">新京报 | 中央最严党纪公布：妄议大政方针可开除党籍</a>
+</h2>
+<p><p>新京报讯 历时14个月，重修后的<a href="http://news.sina.com.cn/c/nd/2015-10-21/doc-ifxizwti6817718.shtml" target="_blank">《中国共产党纪律处分条例》</a>昨日正式发布。新条例将“妄议中央大政方针，破坏党的集中统一”列入违反政治纪律“负面清单”，规定该类行为情节较轻的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分。</p>
+<p>旧版《中国共产党纪律处分条例》制定于2003年。2013年11月发布的首个党内法规制定工作五年规划《中央党内法规制定工作五年规划纲要（2013－2017年）》将条例修改提上日程。今年1月在中纪委五次全会上，习近平对条例修改提出“突出重点、针对时弊”要求。中纪委书记王岐山也多次提出，新条例要成为从严治党的一把尺子、广大党员的基本底线。</p>
+<p>中纪委特约监察员、中国政法大学副校长马怀德接受新京报采访时表示，新条例体现出习近平、王岐山提出的上述修改要求，删除了旧条例中70余条与刑法、治安管理处罚法等法律法规重复的内容，“旧条例最大的问题是纪法不分，近一半内容跟刑法、治安管理处罚法等法律法规重复”。</p>
+<p>马怀德表示，新条例将旧条例的10类违纪行为分类方式，整合为六类：政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律、生活纪律，并明确列出每一类的“负面清单”，“群众纪律、生活纪律都是旧条例没有的分类方式，各类违纪行为的‘负面清单’中补充了十八大以来新发现的问题，拉帮结派、搞老乡会、妄议中央等，针对时弊，针对性强，真正体现出党纪严于国法”。</p>
+<p><strong>新词1 【政治纪律“负面清单”】</strong></p>
+<p><strong>妄议中央大政方针 团团伙伙</strong></p>
+<p><strong>对抗组织审查</strong></p>
+<p><strong>搞团团伙伙情节严重可开除党籍</strong></p>
+<p>对比旧条例，新条例政治纪律“负面清单”至少出现了三个新提法：“妄议中央大政方针，破坏党的集中统一”、“在党内搞团团伙伙、结党营私、拉帮结派、培植私人势力或者通过搞利益交换、为自己营造声势等活动捞取政治资本”、“对抗组织审查”。</p>
+<p>此前，中纪委通报的官员查处通报中，未提及哪一位官员有“妄议中央”问题。不过，10月19日上午，河北省委先后召开常委扩大会议和全省领导干部会议，传达经中央政治局审议通过的《中共中央纪律检查委员会关于给予周本顺开除党籍开除公职处分的决定》，会议提出，坚决与周本顺划清界线，“必须对党绝对忠诚，决不能阳奉阴违、妄议中央”。</p>
+<p>新条例规定，通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式妄议中央大政方针，破坏党的集中统一的，情节较轻的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分。</p>
+<p>新京报统计，十八大以来查处的省部级及以上官员中，其背后多有一帮官员与之有利益勾连，形成“帮派”“团伙”。如“秘书帮”、“石油系”等。</p>
+<p>新条例规定，在党内搞团团伙伙、结党营私、拉帮结派、培植私人势力或者通过搞利益交换、为自己营造声势等活动捞取政治资本的，给予严重警告或者撤销党内职务处分；情节严重的，给予留党察看或者开除党籍处分。</p>
+<p><strong>新词2 【组织纪律“负面清单”】</strong></p>
+<p><strong>老乡会、校友会、战友会</strong></p>
+<p><strong>非组织活动 不如实报告个人事项</strong></p>
+<p><strong>参加自发成立的老乡会可撤职</strong></p>
+<p>对比旧条例，新条例组织纪律“负面清单”新增规定：党员领导干部违反有关规定组织、参加自发成立的老乡会、校友会、战友会等，情节严重的，给予警告、严重警告或者撤销党内职务处分。</p>
+<p>同时新增规定：违反有关规定取得外国国籍或者获取国（境）外永久居留资格、长期居留许可的，给予撤销党内职务、留党察看或者开除党籍处分。</p>
+<p>此外，组织纪律“负面清单”中的新提法还有“非组织活动”、“不如实向组织说明问题”、“不执行请示报告制度”、“不如实报告个人事项”，以及“篡改、伪造个人档案”等。</p>
+<p>2013年和2014年，习近平两次在不同场合表示，党的干部来自五湖四海，不能借着老乡会、同学会、战友会等场合，搞小圈子、拉帮结派、称兄道弟，“宗派主义必须处理，山头主义必须铲除”。今年1月，中纪委研究室理论研究处处长苏静做客中纪委官网时也曾表示，“有些干部聚在一起搞同乡会、同学会，黄埔一二三期这么论，看似漫无目的，其实是醉翁之意不在酒，是要结交情谊，将来好相互提携”。</p>
+<p>违规获得外国国籍或外国“绿卡”近期也有案例通报。本月9日，科技日报社原副社长汤东宁就因违反了该规定，自己和配偶子女都违规获取了英国永久居留权，被开除党籍、撤职，并由三级职员降为六级职员。</p>
+<p><strong>新词3 【廉洁纪律“负面清单”】</strong></p>
+<p><strong>权色交易 钱色交易</strong></p>
+<p><strong>搞权色交易可撤职、开除党籍</strong></p>
+<p>廉洁纪律“负面清单”新增规定：搞权色交易或者给予财物搞钱色交易的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分。</p>
+<p>“权色交易”、“钱色交易”也是十八大以来的高频词。如铁道部原部长刘志军案，其与丁书苗的利益勾连就存在“权色交易”、“钱色交易”问题。</p>
+<p>廉洁纪律“负面清单”新增内容还至少包括八项规定执行中的8大集中问题：大吃大喝超标准、超范围接待；滥发津贴补贴、奖金；违规配备使用公车；楼堂馆所违规；违反会议活动管理规定举办各类节会、庆典；违规接受宴请或旅游、健身、娱乐等活动；收受超出正常礼尚往来的礼品、礼金、消费卡；违规持有会员卡、高尔夫球卡等各种消费卡，或出入私人会所。</p>
+<p>八项规定执行以来，中纪委通报了大量违反上述8类问题的案例。以打高尔夫球和出入私人会所为例，广州市委原书记万庆良多次出入私人会所，在被组织调查的前几天，还到会所里面去大吃大喝；海南原副省长谭力被中纪委调查之前，还在外省由私营企业的老板陪同打高尔夫球。</p>
+<p><strong>新词4 【生活纪律“负面清单”】</strong></p>
+<p><strong>不正当性关系 生活奢靡</strong></p>
+<p><strong>公共场所不当行为</strong></p>
+<p><strong>利用职权与他人发生性关系从重处分</strong></p>
+<p>生活纪律“负面清单”将旧条例中的“与他人通奸”、“包养情妇（夫）”提法，修改为“与他人发生不正当性关系”，并提出：利用职权、教养关系、从属关系或者其他相类似关系与他人发生性关系的，从重处分。</p>
+<p>对此，中央党校党史部主任谢春涛表示，范围扩大到“与他人发生不正当性关系”，使纪律处分的面更宽更严。</p>
+<p>十八大以来，“与他人通奸”成为中纪委通报中的热词，令计划、周永康、武长顺等20余名官员的通报中都出现了这一表述。周永康“与多名女性通奸并进行权色、钱色交易”；令计划“与多名女性通奸，进行权色交易”。</p>
+<p>生活纪律“负面清单”中的新提法还有“生活奢靡、贪图享乐、追求低级趣味”、“违背社会公序良俗，在公共场所有不当行为”等。而有其他严重违反社会公德、家庭美德行为的，应当视具体情节给予警告直至开除党籍处分。</p>
+<p><strong>新词5 【群众纪律、工作纪律“负面清单”】</strong></p>
+<p><strong>盲目铺摊子 优亲厚友</strong></p>
+<p><strong>盲目上项目致利益受损可撤职</strong></p>
+<p>群众纪律“负面清单”中，新增侵害群众利益、漠视群众诉求、侵害群众民主权益等内容，“不按照规定公开党务、政务、厂务”和“救灾救济款物分配优亲厚友、明显有失公平”等，均被列入“负面清单”中。</p>
+<p>此外，还首提“形象工程”：“不顾群众意愿，盲目铺摊子、上项目，致使国家、集体或者群众财产和利益遭受较大损失的，对直接责任者和领导责任者，给予警告或者严重警告处分；情节严重的，给予撤销党内职务或者留党察看处分”。</p>
+<p>工作纪律“负面清单”则至少新增了两个新提法：“不履行全面从严治党主体责任或者履行全面从严治党主体责任不力”；“干预和插手市场经济活动”。</p>
+<p>历次中央巡视反馈的问题表明，干预和插手建设工程项目承发包、土地使用权出让、房地产开发与经营、矿产资源开发利用、“红顶中介”等是高发问题，多个巡视点被查出这个问题。</p>
+<p>本版采写/新京报记者 王姝</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E6%9C%80%E4%B8%A5%E5%85%9A%E7%BA%AA%E5%85%AC%E5%B8%83%EF%BC%9A%E5%A6%84%E8%AE%AE%E5%A4%A7%E6%94%BF%E6%96%B9%E9%92%88%E5%8F%AF%E5%BC%80%E9%99%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA/?category=18271" rel="tag">党纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%9B%BD%E6%B3%95/?category=18271" rel="tag">党纪国法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">党纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E5%A4%A7%E6%94%BF%E6%96%B9%E9%92%88/?category=18271" rel="tag">妄议大政方针</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%BA%AA%E5%BE%8B/?category=18271" rel="tag">政治纪律</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%89%9B%E5%8D%9A%E5%B1%B1%E5%AF%A8%EF%BD%9C%E9%83%AD%E5%BB%BA%E9%BE%99%EF%BC%9A%E5%9B%9B%E4%BD%8D%E7%AA%81%E5%B0%BC%E6%96%AF%E5%A6%A5%E5%8D%8F%E8%80%85%E4%B8%8E%E8%AF%BA%E8%B4%9D/" target="cdt-mirror">牛博山寨｜郭建龙：四位突尼斯“妥协者”与诺贝尔和平奖</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/tns.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/tns.jpeg" alt="tns" width="550" height=""></a><br>
@@ -1002,30 +1057,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E9%99%86%E4%B8%8D%E6%98%AF%E5%B9%B4%E4%BB%A3%E6%98%AF%E5%90%A6%E6%9B%B4%E5%BC%80%E6%94%BE%EF%BC%9F/" target="cdt-mirror">【图说天朝】大陆八十年代是否更开放？</a>
-</h2>
-<p><p>‏@StarKnight：「大陆八十年代开放到什么程度？据说有很多地方比现在还开放，没经历过，所以想了解下。」相信题主已经得到了很直观的感受。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CRrNxlGUEAA4_cN.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CRrNxlGUEAA4_cN.png" alt="CRrNxlGUEAA4_cN" width="550" height="978"></a></p>
-<p>提问地址：http://www.zhihu.com/question/36473889</p>
-<p><strong>以下内容为数字时代编辑摘自部分网友评论：</strong></p>
-<p>shmyd：看到年轻推友在讨论八十年代我国开放到什么程度的问题，我觉得他们举的例子还不够极端。我说三件事吧：小平同志访美，电视里放一部不知名的美国未删减公路片《车队》，里面有不少裸露镜头；学术界掀起新启蒙，公开宣扬普世价值多党制；赵紫阳任总书记时，曾经酝酿撤销企业党组织，党员组织关系归里弄。</p>
-<p>田晨：如果可以用四季来描述，Cultural Revolution是寒冬里人们相顾无言各自在门前扫雪；改革开放后是春季里大家耕种之余盖新房子，茶余饭后大家开始吐槽过去十年；80年代是盛夏的某天20岁的少年单车载着姑娘穿过大学校园走向河边谈论未来；89年和90年代像是秋天，人们收获了很多，但是也总感觉失了一些东西；现在这个时代大约是四季随机上演，盛世之下，暗流涌动。</p>
-<p>seymourz：<a href="http://mp.weixin.qq.com/s?__biz=MjM5MTIwNTYwMg==&mid=214314969&idx=1&sn=c68442fdd7aaa890b96d76dadd5d2452&scene=2&srcid=W6VxKusaklkYSN1XfrHJ&from=timeline&isappinstalled=0#rd" target="_blank">这部五集就停播的雷剧，曾见证总菊激情燃烧的岁月。</a></p>
-<p>leslycheung：推荐电影《顽主》梁天张国立葛优主演，80年代的开放程度都在这电影里面了。</p>
-<p>ZHANG ALBERT：80年代的学生还是有理想的，相信自己能改变国家的。现在有类似想法的人只会被当做傻叉。</p>
-<p>胡戈：我就说一点，在某些地方开放（比如影视审查）的原因仅仅是党还没有危机感。等后来对自己的寿命有危机感了就开始严了。</p>
-<p>怒而飞：开放到21世纪不宜公开讨论的程度。</p>
-<p>LuoLe：开放的是态度，对于异见的容忍远比现在大。</p>
-<p>塞纳留斯：那个年代不是开放，而是“他们”不知道如何管控，几十年过去了，现在驾轻就熟了。</p>
-<p>Razer：该问题下如此众多的被建议修改的答案，很好地回答了题主的问题。我王老五从没见过这么多被建议修改的答案，今晚都到我家查水表去吧，呃不，喝酒去吧！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E9%99%86%E4%B8%8D%E6%98%AF%E5%B9%B4%E4%BB%A3%E6%98%AF%E5%90%A6%E6%9B%B4%E5%BC%80%E6%94%BE%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E5%8D%81%E5%B9%B4%E4%BB%A3/?category=18271" rel="tag">八十年代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86/?category=18271" rel="tag">大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE/?category=18271" rel="tag">开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1037,7 +1068,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E5%8D%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1047,5 +1078,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E5%8D%81
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

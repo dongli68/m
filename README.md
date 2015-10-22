@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,73 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B0%91%E5%8A%9E%E6%95%99%E5%B8%88%E4%B8%8A%E8%AE%BF%E5%90%8E%E8%BA%AB%E4%BA%A1-%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%8A%A2%E9%81%AD%E6%95%B0%E5%8D%81%E8%AD%A6/" target="cdt-mirror">自由亚洲 | 民办教师上访后身亡 尸体被抢遭数十警严控</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/89582267-476e-4642-966a-2a1349e81e96.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/89582267-476e-4642-966a-2a1349e81e96.jpeg" alt="89582267-476e-4642-966a-2a1349e81e96" width="550" height="733"></a><br>
+2015年10月20日，湖北安陆市民办教师包大志本在市公安局上访结束后，未获得满意说法，情急之下突发疾病身亡。（民生观察）</p>
+<p>湖北安陆市民办教师包大志本周二在市公安局上访结束后，未获得满意说法，情急之下突发疾病身亡。包大志身亡后，警方迅速抢走尸体并控制尸源，监控吊唁活动和相关人士，力阻事态扩大。</p>
+<p>湖北安陆巿的数名民办教师本周二在到当地到公安局上访后，其中一人突发心脏病发，抢救无效死亡。事后，当局派出警察等人强行将尸体抢走，拉到了安陆市殡仪馆看守，又威胁与包大志一起上访的其他民师，阻止他们借此“闹事”。</p>
+<p>发布消息的民生观察网站负责人刘飞跃对本台表示，包大志死后，当局立即“维稳” ，周三数十名民办教师到安陆市殡仪馆吊唁包大志时，发现十多名警察已守在殡仪馆门口。</p>
+<p>刘飞跃：“他昨天下午到安陆市公安局去上访，因为之前安陆有三位老师之前到北京去上访被拘留，他们是去讨说法，但仍然没讨到一个说法，没有结果，安陆市的国保队长说请他们吃饭，就在吃饭的过程当中他心脏病高、血压突发了，然后就去世了。去世之后他的尸体还在医院里面，当地公安局就安排警察把他的尸体强制抢走，带到安陆市殡仪馆，把尸体控制起来了，下午有一些老师到殡仪馆去看，发现有警察守在那里，对现场进行监控。”</p>
+<p>与包大志共同上访的民办教师蒋老师告诉本台：“安陆市政府关于中国民师的问题（没解决），六几年、五几年教书的都没有得到国家的相关待遇，到北京上访他们关押了三位民师，罪名是非法上访和越级上访，包大志是个残疾人，61岁，他代表安陆市一个乡镇的的老师到公安局找局长讨说法，公安局的局长是副市长，两个多小时以纠缠于越级上访和非法上访的问题，气氛不好，公安局叫我们吃饭，点菜当中就包大志的病发作了，忧闷气愤而死，我现在压力很大，要是当地的警方把我控制了怎么办？</p>
+<p>记者：“这个责任归属问题是怎么样的？”</p>
+<p>蒋老师：“这是政府的责任，他们强行枉法拘人。下面的公安局这样做，我们准备包围市政府，截访以后两个关了五天一个关了六天。现在这个问题政府提心吊胆，公安局推卸责任，动用公检法录口供、录音。这个东西折射了我们中国的很大的社会问题，不单单是死一个人的问题，如果这次安陆市政府这样七品芝麻官都不面对这个问题，更多人要倒下。我要看看中央和北京到底管不管。”</p>
+<p>据悉，目前中国有数十万民办教师在上世纪所谓“民师整顿”、“民师清理”过程中被辞退回家。被辞退时，许多民师从教已达二、三十年，有的民师还有政府颁发的民办教师资格证。辞退时，未获补偿，现在老无所养、病无所医。虽然目前有多个省市出台了解决民办教师问题的方案，但这些方案均不尽如人意，到了退休年龄的民办教师往往只能每月拿到极低的生活费，在全国各地引发多次抗议潮。</p>
+<p>对此，多年来坚持上访的蒋老师说：“我已经死了一次，我2012年头部开颅，去年6月喝了一大瓶农药，就是咽不下这口气。”</p>
+<p>（特约记者：忻霖；责编：胡汉强/马平）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B0%91%E5%8A%9E%E6%95%99%E5%B8%88%E4%B8%8A%E8%AE%BF%E5%90%8E%E8%BA%AB%E4%BA%A1-%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%8A%A2%E9%81%AD%E6%95%B0%E5%8D%81%E8%AD%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%A4%A7%E5%BF%97/?category=18271" rel="tag">包大志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E5%8A%9E%E6%95%99%E5%B8%88/?category=18271" rel="tag">民办教师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%A9%BB%E8%8F%B2%E5%A4%96%E4%BA%A4%E5%AE%98%E9%81%AD%E6%9E%AA%E5%87%BB2%E4%BA%BA%E6%AD%BB%E6%80%BB%E9%A2%86%E4%BA%8B%E9%87%8D/" target="cdt-mirror">【真理部】《中国驻菲外交官遭枪击2人死总领事重伤》</a>
+</h2>
+<p><p>注意检查删除：《中国驻菲外交官遭枪击2人死总领事重伤》。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%A9%BB%E8%8F%B2%E5%A4%96%E4%BA%A4%E5%AE%98%E9%81%AD%E6%9E%AA%E5%87%BB2%E4%BA%BA%E6%AD%BB%E6%80%BB%E9%A2%86%E4%BA%8B%E9%87%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E4%BA%A4%E5%AE%98%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">菲律宾外交官枪击事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%B2%8D%E5%BD%A4%EF%BC%9A%E4%B8%94%E4%BB%8E%E4%B8%8D%E5%BE%97%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE%E6%9D%A5%E4%BA%86%E8%A7%A3%E4%B8%AD/" target="cdt-mirror">自由亚洲 | 鲍彤：且从“不得妄议中央”来了解中共</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/image3.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/image3.jpeg" alt="image" width="300" height="225"></a><br>
+图片：鲍彤先生近照（鲍朴提供）</p>
+<p>报载，“妄议中央的大政方针”就是违反中共党纪。怎么办？给以处分，直到开除出党。</p>
+<p>这是中共党内事务，和老百姓无关。对老百姓来说，只是观察和了解中共的一种根据。</p>
+<p>了解什么呢？了解它的本质，及其历史，及其现状，也许还可以由此推测它未来的走向。</p>
+<p>政党的存在由来已久。政党而有纪律，列宁是首创者。俄国的布尔什维克是有史以来的第一个有“铁的纪律”的党。列宁曾不无得意地告诉他的追随者：他们在夺取政权的过程中除了纪律以外没有别的武器。</p>
+<p>毛泽东把列宁的“纪律”归结为“服从”。他在中共六届六中全会上占得了微弱的优势，于是重申“党的纪律”，编了四句真言：个人服从组织；少数服从多数；下级服从上级；全党服从中央。总而言之，你是党员，就必须放弃自我，处处服从党。服从党才是革命，不服从党就是叛变。</p>
+<p>列宁以夺取政权不能没有纪律为理由，要求全党听他的话。毛泽东以反对复辟不能没有纪律为理由，要求全党对他惟命是从。</p>
+<p>有人以为“不得妄议中央”是新鲜事，其实是老传统。稍有不同的是，过去有点笼而统之，现在则特别挑明了重点：对“中央”的“大政方针”绝对地无条件地不得“妄议”。</p>
+<p>这里存在着一个不言而喻的前提：中央是不会犯错误的神；中央的大政方针是永世不变的绝对真理；中央既然反对下面妄议自己，中央当然也将永世不会改变自己已经作出的一切重大的决策；中央不爱听别人说它有任何错误，中央自己当然一定不可能在任何情况下承认和改正错误。</p>
+<p>这个隐含的前提，不是别人臆造出来强加给中共的。不，这是由中共领导人以他们亲身的实践屡证屡明的史实。</p>
+<p>毛泽东的大政方针是抗美援朝。这大政方针谁敢妄议？既然一片赞成，毛泽东当然具有充分的自信自信加自信，当然坚持到底不回头。</p>
+<p>毛泽东的大政方针是坚决反对邓子恢杜润生小脚女人以剥夺农民。这大政方针谁敢妄议？既然一片赞成，毛当然具有充分的自信自信加自信，当然坚持到底不回头。</p>
+<p>毛泽东的大政方针是发动史无前例的文化大革命。这大政方针谁敢妄议？既然一片赞成，毛泽东当然具有充分的自信自信加自信，当然坚持到底不回头。</p>
+<p>既然第一代毛泽东是神，第二代邓小平为什么不应该是神？第三代乃至第一千一万代领导人当然个个都是神。</p>
+<p>既然全党必须鸦雀无声，全国自当万马齐喑，全世界理应刮目相看。万国衣冠朝冕旒，就应该易如反掌了吧。</p>
+<p>所以应该说，这所谓“新闻”，其实是固有的传统，是党的本质所决定的，它已经体现在党的真实的历史之中，它正在如此这般创造今天，今后自将继续坚定不移。</p>
+<p>那么，党员还有没有言论自由？看来还是有的。虽不得妄议中央的大政方针，但对鸡毛蒜皮以及风花雪月，应该存在着无限广阔的天地，可供八千万共产党员们尽情翱翔。中央的大政方针虽属禁区，但对于善颂善祷者们，其实是不会禁止他们纵情欢呼的。</p>
+<p>(文章仅代表特约评论员个人立场和观点)</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%B2%8D%E5%BD%A4%EF%BC%9A%E4%B8%94%E4%BB%8E%E4%B8%8D%E5%BE%97%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE%E6%9D%A5%E4%BA%86%E8%A7%A3%E4%B8%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98/?category=18271" rel="tag">中共党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">党内自由派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%8D%E5%BD%A4/?category=18271" rel="tag">鲍彤</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%AE%BF%E8%8B%B1%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5%E7%85%A7-%E9%81%AD%E5%BE%AE%E5%8D%9A%E6%B2%B3%E8%9F%B9/" target="cdt-mirror">立场新闻 | 彭丽媛访英化妆失败照 遭微博河蟹</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/pang-09_jJ9o7_1200x0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/pang-09_jJ9o7_1200x0.png" alt="彭丽媛化妆失败" width="600" height="400"></a></p>
@@ -951,111 +1015,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%84%A6%E7%82%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%BC%93%E5%8A%B1%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E5%96%9C%E5%BF%A7%E5%8F%82%E5%8D%8A/" target="cdt-mirror">路透社 | 焦点：中国鼓励大学生创业喜忧参半</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%8B%E8%BD%BD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B8%8B%E8%BD%BD.jpg" alt="2015年8月6日，上海，丁佳在她开办的D+咖啡馆里。REUTERS/Aly Song" width="600" height="400"></a><p>2015年8月6日，上海，丁佳在她开办的D+咖啡馆里。REUTERS/Aly Song</p></div>
-<p>路透上海10月18日（记者 Pete Sweeney） – 大学毕业生丁佳放弃前台接待员的工作，加入摇滚乐队以及创办小企业，这一度让她被视为另类。现在她可以说自己是“创客”。</p>
-<p>“我多年来没有正式工作，”31岁的丁佳在她上海的小咖啡馆里说道。</p>
-<p>她不后悔，但也没有幻想。</p>
-<p>“创业确实很难，”她说道。“利润也很低。”</p>
-<p>她接受路透采访的当周，政府部门进行常规突击执法检查，她的店和附近多家店被迫临时关闭。</p>
-<p>大多数家长会提醒孩子不要进行高风险、低回报的创业活动，他们更加青睐在政府或国有企业工作，但丁佳称她的父母支持她。她的母亲是一名保姆，父亲是一名出租车司机。</p>
-<p>官方媒体亦称赞刚毕业就开始创业的学生们，称他们是有创新精神的新一代，将建设中国的矽谷。</p>
-<p>中国国务院总理李克强1月称，今天的中国需要开发活力的新源泉，活力来自多样性，多样性的碰撞产生智慧的火花，点燃创新发展的火炬。</p>
-<p>除了舆论支持，很多人还获得了来自政府和大学的培训、补贴、免费的办公空间和其他支持。</p>
-<p>乐观者期待下一个马云或是扎克伯格将从这些人中产生，但怀疑论者表示政策正在让缺少经验的孩子们走向失败。</p>
-<p>北京大学的研究显示，上海基层职员的平均月薪只有3,241元。</p>
-<p>中国的调查表明，两三成的大学生现在想创业。龙洲经讯分析师Cui Ernan指出，官方数据暗示他们在响应政府的号召。尽管去年本科毕业生数量创纪录高位，求职者的人数却似乎在下降。</p>
-<p>批评人士称，推动大学生创业主要是帮助官员们完成目标。</p>
-<p>北京一家移动技术创业公司现任首席运营官Parker Liu还没毕业的时候就开始办公司。他表示，地区官员定期走访创业活动，寻找创业公司提供补贴，条件往往是该公司将注册在他们的辖区内。</p>
-<p>Parker Liu称，他从地区官员那里获得了小规模的补贴，并帮忙给官员们介绍其他的创业公司，但他对发挥的作用存有疑问。</p>
-<p>“真正的问题是钱并不是和教育一起来……这些政府官员对创业知之甚少，但对政治很了解。他们有指标。”</p>
-<p>Parker Liu还表示，政府的支持鼓励太多人进入门槛低的行业，比如电子商务、手机游戏和大学预科。</p>
-<p>“这些方法对促进就业的帮助有限，”中国劳工通讯（China Labour Bulletin）的传媒总监Geoffrey Crothall说道。</p>
-<p>尽管鲜有官方统计数据，但创业失败率似乎是出人意料的高。</p>
-<p>“他们的管理技能很差，”Cui Ernan表示。“我看到的很多大学生创业者中，只有极少数会成功。”（完）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%84%A6%E7%82%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%BC%93%E5%8A%B1%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E5%96%9C%E5%BF%A7%E5%8F%82%E5%8D%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5/?category=18271" rel="tag">中国劳工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%B8%9A/?category=18271" rel="tag">创业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">创业公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A/?category=18271" rel="tag">大学毕业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F/?category=18271" rel="tag">大学毕业生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E7%AD%96/?category=18271" rel="tag">政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%86%89%E4%BA%91%E9%A3%9E%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%BB%96%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%B8%80%E4%B8%AA%E6%9C%89%E5%B1%80%E9%99%90%E7%9A%84%E4%BA%BA%E6%80%8E%E8%83%BD%E6%8B%AF%E6%95%91/" target="cdt-mirror">冉云飞：勿对他人失望 有局限的人怎能拯救另一个有局限的人？</a>
-</h2>
-<p><p><strong>冉按：</strong>昨天我在腾讯大家发表了一篇《1974年安东尼奥尼在台海两岸的蝴蝶效应》（编者易名为《在台海两岸同时不受待见的〈中国〉》），后面有不少似乎有组织的统一谩骂与歪曲帖子。<strong>有朋友说他看了很绝望，他问我绝望否？今晨我顺便写一帖：“有人说这么多评论充斥谩骂，你伤心绝望么？我说从来不曾绝望，因为对人性有相当的了解，这样的言论其中包括有组织的言论，一点没超出我的认知。我从不把希望只建立别人基础上，所以对别人从不失望。”</strong><strong>我是个要对自己负责的人，但对别人没办法负责，他要待在粪坑里并赞美它，我有什么好失望的呢？我从来没有自负到期望能去拯救别人，如这样想就是谵妄得无边了。所有人都是有局限的动物，一个有局限的人怎么能拯救另一个有局限的人呢？</strong></p>
-<p>其实对别人失望是自己想推卸责任的好方子。比如有人说，我对你真是失望。我就在想，不让你失望成了我活着的目标，你是谁啊？反正我看不出有些人说的感动，我倒看出了一些推卸责任后的绑架。自己没做够，或者做得不好，却对别人失望，如果阴谋论一点的话，是不是有人做得更好，你好搭便车啊。那就直说啊：我不想做，你好好做（不要让我失望哦），我好搭便车（一些父母对子女的期望里是不是有捡便宜的热望啊）。遇到还算有点利他精神的人，乐意与你分享，这样一来皆大欢喜。但遇到你对他失望，他却不买账，你怎么办呢？</p>
-<p><strong>我一直很少对他人失望，因为更看重自己。觉得自己努力的一生，那怕充满坎坷，结果不一定好，但这个过程足够变成促使自己成长的享受。</strong>正如12年6月24日我曾写的一条微博所言：“人首先要做自己都不讨厌的人，而不是影响他人或者改变世界，但这一点也并不容易做到。很多人摆不平自己，活得很拧巴，像个麻花儿，无法将自己抚烫平顺。自我无法摆平，却喜欢对别人失望，一言一事不合，就说我对你太失望了，这既是骨子里的自卑，亦是一种责任转移。”旧文新刊，也不失新意，那是因为人性的演进是相当慢的。<strong>此文为六年前旧文，我觉这则小文颇有点常看常新的意思，今天贴出来以作为对谩骂者的一点回应（不要想太多，我没有想改变谩骂者的意思，因为有组织的谩骂与仇恨，哪是我能唤醒的呢）</strong>，标题没改，增加了副题，特此说明。<strong>2015年10月20日于成都</strong></p>
-<p>有一些朋友来信说，他们对别人或者人生失望。来信向我讨教为何对别人或者人生不失望的。老实说，我的人生也没打鸡血，也非什么大红大紫的人生，也有很多的挫折与不爽。我很少对别人失望，不是我的境界高，而是我自认为对人性的弱点认识得比较清楚，即不去过高地期望别人。不期望过高，所以很少有什么失望。即便对那些功勋卓著的大人物，我有时也会以小人之心去揣度一番，觉得他未必那么光鲜。所以如果他哪一天不小心露出皮袍下面的小来，我虽然偶有小震，但也不会失望。</p>
-<p>把自己的想法绑架到别人身上，往往会失望。比如说自己有观点有想法，哪怕幼稚哪怕邪门，也尽量表达出来，让别人觉得你就是这样想的，哪怕最终落得别人说你变态你傻逼，也在所不惜。因为别人不是你，不可能完全代表你的想法。某篇文章你喜欢，觉得说出了我的想法，而另一篇不符你的想法，你就特别失望，完全没有必要。要么你去写一篇来反驳他，要么你就懒得理，否则你正是在拿别人的错误惩罚自己。当然，你有可能对某人看走样，如某人的文章有一定可笑性，还有几分幽默，但你看多了，就觉得他脑袋一锅浆糊。这种号称还有点文化的浆糊脑袋，在如今的中国可谓夥也，你有什么好失望的。真是的，你又不是这些浆糊脑袋的大救星，没必要替他们着急。我从来不花精力去反驳那些一看就比傻的文章，因为比傻是有漏洞的，会自证其傻的。</p>
-<p>最不靠谱，最让你失望的，可能是把自己的脑袋租让给别人，而成为别人思想的跑马场。这样说，并不是说你完全不吸收别人的高妙之处，而是说，不要随时没有区别的照单全收。因为再伟大的脑袋也不可能与你完全重叠，或者换句话，你也不要得意到自以为本身的脑袋完全就是那果伟大的脑袋，自负到这样的程度，其实也就是一种自贬，因为只是别人的复制品，而非你自己。把自己要想的事要做的事，让给别人想让给别人做，或者最终干脆将自己的脑袋无偿出租给别人使用，那是最容易失望的。可惜，有很多比较喜欢对人失望的人，却常常重复这样的傻事。</p>
-<p>我倒是常常对自己失望，常常觉得自己受制于许多方面的情形，想做的事没能做到。或者说做了，但做得没有意想的好。再者，对自己失望，是因为对自己期望较高，但眼高手低的事，是人都可能发生的。因为人都似乎想干大事，喜欢轰轰烈烈，喜欢惊天动地。但事实上，你要想到，你可能生下来就是芸芸众生中的一个。一是你没有惊天动地的机会，二是你没有轰轰烈烈的能力。如此，安之若素虽然是个好办法，但你又心有不甘。那么心有不甘，就是尽量从自己认为能做的小事做起，当然做小事，也是你认为值得去做的事，心里面才舒坦。中国很多人的生存问题，都还没解决，所以生存是第一要义。但要生存，也要有做人的底线。在有做人的底线上求生存，并非就毫无所成。不管怎么讲，不要觉得这个制度坏这个政府坏，因此我无论怎么做事行再多的恶，都是受害者而非加害者。这种不用负责的金蝉脱壳，自以为得计，用“良心值多少钱”来将良心视若敝屐，当然很容易。但这样的人生，恐怕多少是有些问题的。</p>
-<p>适当的骄傲是必须的，不要太看得起别人。比如太看起冉云飞，一看到“冉云飞”这三字，你就想到玉树临风，一定是汉字的意念想像力把你给蒙了。当然，你如果是琼瑶的小说读多了，那没办法，那是你是自害，不是我长得变态：）也就是说，世人之人权都应该得到保护，但并不是每个人对你来说都重要。不重要，并不说你要去践踏别人，而是说，在这个世界上哪怕犯傻，也是人类经验的一部分。有人犯傻到喜欢犯傻的程度，你也要尊重他犯傻的权利。比如你要是觉得我在这个极权国家批评政府，是一种犯傻。你可以不支持我，但请尊重我犯傻的权利。你可以保持你适当的骄傲，搭便车也能在某一天享受民主自由，这样的便宜谁又不想占呢？但所有人都不是傻子，都像你这样想占便宜，那么极权者就能特别有效地实现他们的利益最大化，这就是当今中国现实的写照，这就是我们目下的生活。如果我们都不去占便宜，不等着别人去撬开那扇黑暗之门，大家一起努力，各尽其能，那么我们就不会随便对某人失望。</p>
-<p>等自己都做够了，等自己对自己都不失望了，方可以对别人失望。但到那时，恐怕我们也就走到了人生的尽头，就像夕阳沉落时最后一抹亮光，虽是惜别，却不必失望。</p>
-<p>2009年1月28日8：44分于成都</p>
-<p><strong>相关阅读：</strong></p>
-<p>在台海两岸同时不受待见的《中国》</p>
-<p>著名导演安东尼奥尼的电影我零星看过一些，如《红色沙漠》、《放大》等，此前一直想看《中国》而不得。2007年9月8日搞到安东尼奥尼所有作品——全部十九张碟，晚上与内人、小女边看《中国》边聊天。十一岁的女儿对文革与许多灾难，并非一无所知。她听到处都在唱“我爱北京天安门”，人们的表情呆滞、僵硬、胆小——摄像机照到脱了上身的拉车人，拉车人都赶紧穿上衣服，以“维护中国的形象”——遇到镜头即随即掉转头，穿同样的衣服，佩戴毛的像章，到处是关于毛主席万岁、万万岁，接连说出口的就是“恐怖，太恐怖了”。谁说年轻一代不理解文革？如果将这些颇有视觉效果的东西，留存下来让后一代看，并不需要高深的理论准备，只要一看就明白。其实安东尼奥尼这片子拍得不如想像的好，平常到甚至有点闷，但我很高兴小女有耐心跟我们看完，尽管此片长达近四小时。</p>
-<p><img src="http://t2.qpic.cn/mblogpic/2618049adeb8996ed23a/2000" alt=""></p>
-<p>安东尼奥尼《中国》拍摄了北京（含万里长城）、河南林县、苏州、上海四个地方，原先有文章介绍包括西安，显然介绍者自己也没看到过这部片子。安东尼奥尼这片子对中国彼时的现实并不夸张，如实照录，没有多少贬损。如说到上海最大的精炼厂不过是一堆废铁建成的，都只是在陈述事实。安氏在解说词中偶有讽刺，亦有镜头做了这方面的努力，如有次背景音乐是京剧样板戏，镜头一切换便是一头猪一骨碌爬起来，一个激灵，好像听懂了什么似的，令人发笑，其实我们与猪有何差别？最后片尾说，我们看到的只是中国的一角，我们并不了解这个国家的全体，我们愿意用中国谚语来结束我们对中国的认识：画虎画皮难画骨，知人知面不知心。</p>
-<p><img src="http://t1.qpic.cn/mblogpic/51c8bbb996e19b37334c/2000" alt=""></p>
-<p>不过，安东尼奥尼影片中偶有的使当政者看不惯的东西，虽然温和，但暗示了他对中国政府一些做法的不认同，结果受到了官方的猛烈抨击，哪怕安彼时还是意共党员。这样的大批判文章结集，就我所见有《中国人民不可侮——批判安东尼奥尼的反华影片〈中国〉文辑》（人民文学出版社、人民日报出版社）、《中国人民不可侮——批判安东尼奥尼拍摄的题为〈中国〉的反华影片》（北京人民出版社、辽宁人民出版社）、《社会主义中国不容诬蔑——批判安东尼奥尼拍摄的题为〈中国〉的反华影片》（人民体育出版社）、《文艺批判集》（浙江文艺出版社）、《中国人民不可侮——批判反华影片〈中国〉（天津人民出版社）、《恶毒的用心 卑劣的手法——批判安东尼奥尼拍摄的题为〈中国〉的反华影片》（人民日报社论英文版、俄文版，外文出版社）等。是否有意文版的“人民日报社论”，我倒是没有看到过，但对于以集中一切力量办大事的体制，这完全是小菜一碟。要把安氏批倒批臭，没有意文版，那怎么能挽救意大利人民的“三观”呢？</p>
-<p>以上这些大批判文章，对于我来讲，既不陌生，也不感到意外。要是他们不这样做，才让我感到惊讶，为什么呢？比如“中国人民不可侮”这样的标题，不仅1949年到1979年三十年间常见，就是1999年中国驻南斯拉夫大使馆被炸后出的抗议集子也叫做《中国人民不可侮》。但得知科学家杨振宁对安东尼奥尼《中国》一片的告发——对于此点，学者郝建兄已有《杨振宁为何状告安东尼奥尼》专文阐发，大家可自行搜看——还是让我长了“姿势”。当然我也不会大吃一惊，我曾读过杨振宁文革后期与一批学者被官方挑选回国，替官方做美容术后，所结集而出的“观感集”和《杨振宁谈中国》（均由香港七十年代出版社出版）。再观诸1990年代以至如今，杨振宁对中国大陆教育及诸多现实的赞美，你也就能更为深刻地领会“其来有自”这个成语的内涵。</p>
-<p><img src="http://t2.qpic.cn/mblogpic/968afe51e4cfe5ff7664/2000" alt="" width="643" height="442"></p>
-<p>因为我非常重视大陆在改革开放前与台湾解严以前，在同一件事情上所出现的镜像式反应——大陆说“我们要一定解放台湾”，台湾就说“我们一定要反攻并光复大陆”——故一直留意台湾那边对奥东尼奥尼《中国》一片的观感。前不久到台旅游，幸运地购得一册杜育春著的《中国之趋向》（地平线出版社1975年3月版），其中就有写于1975年1月6日的《我对“中国纪录片”的建议》一文（见是书pp.107-110）。作者说自己工作忙，平时根本不看电视，“唯目前见报端刊登国内三家电视台，将联映安东尼奥尼的‘中国纪录片’的消息后，即摒却一切俗务，于该影片播映时刻，准时躬临电视机前，正襟危坐，聚睛凝观，作为电视台最忠实的观众之一”。作者说放映此片宣传的目的已达到，“不仅能粉碎海外‘统一回归’的迷梦，同时，更加深了我们必须尽快地光复大陆，解救同胞的信念和决心”。不过，作者也认为此片放映时的一些细节，值得重视，于是他提出三点建议投书《中央日报》，期望得到改进。</p>
-<p>杜育春认为片名叫“安东尼奥尼的中国”容易引起歧义，应该加上“纪录片”三字才更为妥适。如不加上“纪录片”三字，“易使人（尤其是别有用心的人）误解‘中国’仍为列强或列弱之‘次殖民地’或共产国际之‘附庸’（因安东尼奥尼乃意大利共产党党员）。甚或听过不少本省同胞说：此不过是‘安东尼奥尼的中国’而已，与我何干！我坚决主张：‘中国’乃‘中国人’之‘中国’，不可以名义，任意假人”。对照大陆的大批判文章，当然要显得雅致一些，但双方的思维实质却大致相同。杜育春觉得自己如此高涨的爱国主义还不过瘾，他还要来个幽默，若说“安东尼奥尼的中国”这片名可以的话，那么我杜子（他的绰号）将来独资拍摄一部“杜鲁门传记影片”，名之曰“Tutze’s Truman(Possessive Case)”到美国各电视台放映，不知美国人着何感想。幸亏杜子没去玩这个“危险的游戏”，不然会赔个精光，因为他低估了美国人的恶搞精神。</p>
-<p>第二条建议亦具颇喜剧效果。他认为台湾电视台放映此片时的片头插白，非常地“政治不正确”。他说插白员“仪态简慢，声调冷酷，语言乏味，内容乖谬”，且批评说用台湾的繁荣来衬托大陆的落后，一点也不垂念大陆苦难的同胞，难道我们还不如那些“夷狄”关心大陆同胞么？且说刻意渲染台湾好过大陆，容易滋生“此间乐不思蜀”的殆堕心理，不利于政府的政治革新与光复大陆的政策。如此批评，前半部分类同于大陆的上纲上线，后半部分却让国民党也尝到了“以子之矛、攻子之盾”的意味。不过逻辑漏洞之多，见识不高，也的确令人喷饭。但格于彼时情势，他有这样的识见也未可过于苛求。</p>
-<p>杜育春上书《中央日报》的最后一条意见是，不应该插播广告，即使要插播广告也要公开声明，此为“广告时间”。如不这样办的话，因这插播的广告系汽车表演与美女招展，容易造成是此“纪录片”一部分的错觉，完整的意念遭致割裂，反而降低了宣传效果。他再举自己意念中要拍的“杜子的杜鲁门”为例，设若“影片在美国电视台联映时，突然出现了方欣‘小姐’袒胸、抛衣、飞跃之广告镜头（棒球转播时所见至今犹难忘怀），岂不使美国国民误以为‘吾家窕女’乃现今正在美国流行之‘裸体飞奔’之先驱乎”！这个“杜子”也真是好玩，以低估美国民众的见识为乐趣。但无论如何比大陆那些作者奉令写作出来的东西，娱乐程度还是高得多。至少以他在台湾的写作自由度，还是开得起玩笑的。</p>
-<p>如果有一天哪位研究电影传播史的人，仔细翻阅彼时大陆及台湾的杂志、报纸、书籍，观看彼时的电视影像，写一本《纪录片〈中国〉在台海两岸的传播过程》，做拉斯韦尔意义上的对宣传及传播学、社会心理学的研究，一定是件非常有意义的事。做得到位的话，以此拿个堂堂正正的博士，是完全没有问题的。</p>
-<p><img src="http://t1.qpic.cn/mblogpic/1a63518b82d5d98e4834/2000" alt=""></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%86%89%E4%BA%91%E9%A3%9E%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%BB%96%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%B8%80%E4%B8%AA%E6%9C%89%E5%B1%80%E9%99%90%E7%9A%84%E4%BA%BA%E6%80%8E%E8%83%BD%E6%8B%AF%E6%95%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/?category=18271" rel="tag">中国大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%89%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">冉云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%99%E4%BD%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">写作自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%B9%E5%88%A4/?category=18271" rel="tag">批判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%B9%E8%AF%84/?category=18271" rel="tag">批评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%AD%E4%BE%BF%E8%BD%A6/?category=18271" rel="tag">搭便车</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E6%8C%81%E5%88%80%E8%80%85%E8%A1%80%E6%B4%97%E6%B1%89%E4%BA%BA%E7%85%A4%E7%9F%BF%EF%BC%8C%E6%94%BF%E5%BA%9C%E4%BB%8D%E5%B0%81%E9%94%81/" target="cdt-mirror">纽约时报 | 新疆持刀者血洗汉人煤矿，政府仍封锁消息</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/m0930-ql2p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/m0930-ql2p.jpg" alt="Armed Chinese soldiers march on patrol as a Uighur man crosses the street in Urumqi on July 15, 2009 in northwest China's Xinjiang province. Security remains tight in Urumqi's Muslim Uighur district 10 days after the worst ethnic violence China has seen in decades since unrest broke out on July 5 as riot police maintained their presence and kept control of the area's main bazaar, which they have commandeered as a base. AFP PHOTO/Frederic J. BROWN (Photo credit should read FREDERIC J. BROWN/AFP/Getty Images)" width="550" height="339"></a> </p>
-<p>中国拜城——9月18日，一伙持刀者在夜深人静时袭击了一座煤矿。他们首先杀死了警卫，然后袭击了在宿舍床上睡觉的矿工。据受害者亲属和居民说，这场杀戮最终导致逾50人死亡，其中至少有五名警察，另有数十人受伤。</p>
-<p>遇难者大部分是汉人，他们受到稳定的工作和不错的工资吸引，前来遥远的西部新疆地区这个偏僻的角落打工。</p>
-<p>拜城张贴的通缉令显示，袭击者是维吾尔人，他们似乎全部逃进了天山崎岖陡峭的山麓中，那里距离中国与吉尔吉斯斯坦和哈萨克斯坦边境不远。</p>
-<p>尽管拜城县处于戒严状态，大规模的追捕行动正在进行中，中国新闻媒体还是没有报道这起杀戮事件，而地方官员被问及这件事时，甚至会否认它的发生。</p>
-<p>但苏干村煤矿遇袭，似乎是近年来伤亡最惨重的新疆暴力事件之一，它突显了试图在该区域维持秩序的北京所面临的挑战。</p>
-<p>自由亚洲电台(Radio Free Asia)上个月率先报道了这起杀戮事件的详细信息。该电台由美国政府资助，在中国遭到了屏蔽。</p>
-<p>煤矿遭袭事件发生在全国庆祝新疆自治区成立60周年期间，在散布着煤矿和昏暗小镇的拜城县农村地区，政府官员一直设法阻止有关袭击事件的消息传到外界。</p>
-<p>上周，县城布满了全副武装的警察，并实施了宵禁。在主要路口，警察蜷缩在沙袋后；在拜城县医院，警察守卫着六名尚未出院的受伤矿工所在的病房。</p>
-<p>附近铁热克镇的一所中学变成了集结待命区，居民们表示，有一架直升机及几架无人机从那些据称是凶手藏身地的深谷上飞过。</p>
-<p>尽管全城如临大敌，但很多拜城居民表示，他们不知道煤矿发生了什么事情。当地一家旅店的接待员耸耸肩微笑着说，“我们什么也不知道，如果一直保持这种状态，我们会感觉更安全。”</p>
-<p>大厅里，一群特警在她对面徘徊，黑色的制服和冷酷的表情令人望而生畏。他们是从中国其他地方调过来的。旅店另一名工作人员称，这些特警取代了当地警察，后者的忠诚没有得到完全信任。</p>
-<p>“我们拜城这里维族警察很多，有时候如果也是同一个民族的话他们当然可能就管的不那么严，”名叫熊朝霞的这名工作人员说。她27岁，老家是四川的，儿时便来到了这里。“你想想看，如果是我回老家，我们那里的人当然也会帮我藏起来。”</p>
-<p>尽管未必属实，但她的看法充分说明了汉人和维吾尔人之间的不信任。这两个民族几乎没有共通之处，说的语言也常常不一样，特别是在农村地区。</p>
-<p>为控制安全局势，政府大力开展打击活动，并投入巨资，试图平息维吾尔人的不满。但暴力仍在继续。维吾尔人是一个语言属突厥语族的少数民族，大部分为穆斯林。面对汉族的移民，维吾尔人在新疆人口中的比例一直在下降。</p>
-<p>在紧绷着的微笑和关于民族团结的陈词滥调的掩饰下，并不难察觉维吾尔人的愤懑情绪。助长这种情绪的是普遍的贫困和政府对宗教活动的限制。此外，他们还认为，作为外来者，汉人过多地从新疆丰富的自然资源中获取利益。新疆的自然资源包括煤炭和石油，两者的储量分别占全国的40%和25%。</p>
-<p>“有时候看看周围，发现汉人这么多，我觉得自己在家乡像个外人，”阿克苏的一名维吾尔工程师说。阿克苏是拜城所在地区的首府，曾经维吾尔人占绝大多数，但现在维吾尔人口是汉人的一半。</p>
-<p>当地官员知道社会动荡对自己的事业会有多大影响。他们大概担心会惹怒北京的高层。但对媒体的封锁，自由亚洲电台采访到的一名共产党官员给出了另一个原因：“我们这么严格地控制有关此事的消息，是为了不吓着阿克苏的汉人移民，”他说。</p>
-<p>拜城政府机关的一名男子接起了电话，但被问及矿上发生了什么事时，对方挂断了电话。负责赴阿克苏外事接待的官员马彦峰（音）称自己完全不知道这起袭击事件，但在听到可怕的细节后，他没有表现出明显的担心。“我想你会发现，在阿克苏，不同民族的生活和谐无比，”他一边说着，一边摊开双臂以加深印象。</p>
-<p>尽管新疆发生的很多暴力活动未被中国新闻媒体报道，但当局常常发现难以隐瞒死亡人数较多或引发严重社会动荡的冲突。比如，今年6月，邻近的喀什市发生了一起冲突，导致28人死亡，而去年，离阿克苏不远的地方爆发了一场抗议，起因是一名维吾尔少年被击毙。据报道，他是因为没有在警方的一处检查站停下而被开枪打死的。</p>
-<p>政府一贯声称穆斯林宗教极端分子应对暴力负责，但中国境外的分析人士称，很多袭击和圣战思想并没有什么关系。“导火索常常有地方因素，不管是因为一名女子在公开场合被揭了面纱、家人感到受辱而进行的报复，还是民众在亲戚被警方带走后发起的反击，”澳大利亚墨尔本拉筹伯大学(La Trobe University)亚洲研究教授、新疆问题专家雷国俊(James Leibold)说。</p>
-<p>自由亚洲电台援引拜城一名政府官员的话报道，袭击者可能是对一场旨在打击宗教极端主义的强制行动进行报复。这名官员称，正在搜捕的17名嫌疑人来自三个维吾尔家族。因为公然藐视禁止女性蒙面等规定，这三个家族被当局盯上。</p>
-<p>民众称在拜城主要集市张贴的通缉令上看到了几张年轻女子的面孔。后来，通缉令被撤下了，原因未知。</p>
-<p>在县医院，受伤矿工的亲属不愿和记者交谈，但一名自称姓刘的男子表示，政府付了他大舅子的医药费。他的这名亲戚是四川人，一只手在袭击中被砍伤了。</p>
-<p>医生也对讨论此事和2月的一起袭击事件讳莫如深。2月那起事件导致17人死亡，包括四名警察和四名被警方误杀的旁观者。医院的墙上贴满了禁止病人及其家属在医院里祷告的告示，和员工手写的谴责最近这起暴力事件的文章，里面用了宣传性的夸张语言。</p>
-<p>在拜城主要的商业街解放路，路灯柱子上装饰着庆祝新疆维吾尔自治区成立60周年的海报和谴责恐怖主义的标语牌。其中一个广告牌上是一幅卡通画，画着一群来自不同民族的人拿着铲子和扫帚在打老鼠。上面写着：“各族人民团结一致，打击暴恐分子。”</p>
-<p>此刻是正午时分，但街上很多店面关着门。前述旅店工作人员熊朝霞说，过去大概一年时间里，很多商店老板加入了汉人离疆的洪流，从这里迁走。他们离开的原因是拜城的一些水泥厂、钢铁厂和煤矿因中国经济放缓而倒闭。</p>
-<p>“现在又有了这件事，我觉得那些公司老板不会再回来了，”她说。</p>
-<p>杰安迪(Andrew Jacobs)是《纽约时报》驻京记者。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E6%8C%81%E5%88%80%E8%80%85%E8%A1%80%E6%B4%97%E6%B1%89%E4%BA%BA%E7%85%A4%E7%9F%BF%EF%BC%8C%E6%94%BF%E5%BA%9C%E4%BB%8D%E5%B0%81%E9%94%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">新疆暴力事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%86%B2%E7%AA%81/?category=18271" rel="tag">民族冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">民族矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF/?category=18271" rel="tag">煤矿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1067,7 +1026,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1077,5 +1036,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%BF%98%E5%A5%BD%E5%BD%93%E5%B9%B4%E6%B2%A1%E5%87%BA%E5%9B%BD/" target="cdt-mirror">【习总日记】 还好当年没出国</a>
@@ -129,6 +129,41 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 <a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%B2%8D%E5%BD%A4%EF%BC%9A%E4%B8%94%E4%BB%8E%E4%B8%8D%E5%BE%97%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE%E6%9D%A5%E4%BA%86%E8%A7%A3%E4%B8%AD/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98/?category=18271" rel="tag">中共党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">党内自由派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%8D%E5%BD%A4/?category=18271" rel="tag">鲍彤</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%B1%E8%AF%86%E7%BD%91-%E5%91%A8%E5%BF%97%E5%85%B4%EF%BC%9A%E9%82%A3%E4%BA%9B%E4%B8%80%E5%91%B3%E6%AD%8C%E5%8A%9F%E9%A2%82%E5%BE%B7%E7%9A%84%E9%AB%98%E7%BA%A7%E9%BB%91/" target="cdt-mirror">共识网 | 周志兴：那些一味歌功颂德的“高级黑”才真可怕</a>
+</h2>
+<p><p>摘要：我们身边，有不少这样以正能量自居实际上却是起着相反作用的事例。特别是一些不分青红皂白的赞扬歌颂，看似正能量，实际上就是高级黑。再说负能量。看似负能量的提意见发牢骚，很多时候是可以纠正一些偏颇的急进的做法的，实际上是起到了正向的作用的。</p>
+<p>没有了摩擦，刹不住车就可能“跃进”万丈深渊</p>
+<p>　　不知道从什么时候开始，正能量成了一个热词，不断出现在媒体上，响在我们耳边。我一直不喜欢这个词，尽量避免用它。可是，因为形成了一种话语习惯，有时候躲开它还有点难。</p>
+<p>　　这个词其实有着不少值得推敲的地方。</p>
+<p>　　这原本应该是一个物理名词，一般解释为物质做功的能力。我不懂物理，也不知道物理学上有没有把能量区分为正的和负的，姑且算是有吧，那么，建设性的算是正能量，带有破坏性的算是负能量。我想，把这个词引申到社会生活中，大概依据的也是这个标准。</p>
+<p>　　那么问题来了，摩擦算什么能量？</p>
+<p>　　按照字面意思，摩擦是一个物体在另一个物体上运动时，两个物体表面之间所产生的阻碍运动的作用。显然，阻碍作用属于负能量。类似的还有地心引力，因为这个引力，人跳不了多高，飞机飞上天要多消耗很多能源，宇宙飞船只有在脱离了地球引力后才能翱翔在太空。这么看，地心引力也不是什么正能量。</p>
+<p>　　但是，这些所谓的阻碍的力量，实际上是不可缺少的，</p>
+<p>　　比如说，没有了摩擦，汽车的制动就没有了，刹不住车，前面即使是万丈深渊，也只能一头扎下去。地球没有了引力，后果也是不堪设想的。</p>
+<p>　　如果没有思想观念的摩擦，我们行走在错误中也不自知</p>
+<p>　　现在，能量这个词被广泛用在社会生活中，大家都在提倡正能量，抵制和反对负能量。其实，就算是现在大家认为的正能量是真的，我这么说，是因为有些人所谓的正能量并不是真正的正能量，一件外衣而已。就算是真的，社会的发展也离不开“负能量”。</p>
+<p>　　常常有人把提个意见，发个牢骚，说个不满看做是负能量，而赞成的表扬的歌颂的声音才是正能量。在这个意义上说，前者就是物理运动的的摩擦。</p>
+<p>　而摩擦是不能缺少的。</p>
+<p>　　社会生活中的摩擦，就是不同思想和不同看法的碰撞，这里也可以说是思想观念的摩擦。几千年人类历史的进程，留下了思想的宝库，存放在里面的宝贵思想，无一不是“摩擦”的结果。</p>
+<p>　　一块璞玉，只有经过无数的摩擦才能变得更加晶莹圆润。</p>
+<p>　　如果没有了摩擦，听任一种思想观念毫无障碍的发展，那么，我们现在也许还是原始人的思想。不但是简单的，而且是粗糙的，而且，我们也许一直行走在错误中。</p>
+<p>　　实际上，没有了思想的进步，就没有了一切的进步，包括经济、文化、政治和艺术。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/138688_151022160859_1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/138688_151022160859_1.jpg" alt="138688_151022160859_1" width="550" height="322"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/138688_151022160917_1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/138688_151022160917_1.jpg" alt="138688_151022160917_1" width="550" height="263"></a></p>
+<p>　　不分青红皂白的赞扬歌颂，看似正能量，实则高级黑</p>
+<p>　　假定我们真的离不开正能量和负能量这样的词，我认为要做出分析，究竟什么是正能量，举例可能更清楚，比如一辆车抛锚了需要大家推，向前用力的是正能量，向后拉的是负能量，这个似乎没有疑义。但是，有没有人看着很用力，但是实际上只是做做样子呢？看着像正能量，其实他占了一个推车的位置又不管用，实际上不是正能量。</p>
+<p>　　我们身边，有不少这样以正能量自居实际上却是起着相反作用的事例。特别是一些不分青红皂白的赞扬歌颂，看似正能量，实际上就是高级黑。</p>
+<p>　再说负能量。看似负能量的提意见发牢骚，很多时候是可以纠正一些偏颇的急进的做法的，实际上是起到了正向的作用的。物理学中有能量转换这个词，不知道能不能用在这里。但是，中国有一句老话，叫相反相成，似乎是对能量的正负问题早就做出了解释。</p>
+<p>　　现在有了这样的语言习惯，正能量似乎也成为了常用词组，但是，用这个词的时候，我们需要的，是思辨。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-22-at-%E4%B8%8A%E5%8D%8810.11.57.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-22-at-%E4%B8%8A%E5%8D%8810.11.57.png" alt="Screen Shot 2015-10-22 at 上午10.11.57" width="311" height="335"></a></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%B1%E8%AF%86%E7%BD%91-%E5%91%A8%E5%BF%97%E5%85%B4%EF%BC%9A%E9%82%A3%E4%BA%9B%E4%B8%80%E5%91%B3%E6%AD%8C%E5%8A%9F%E9%A2%82%E5%BE%B7%E7%9A%84%E9%AB%98%E7%BA%A7%E9%BB%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86%E7%BD%91/?category=18271" rel="tag">共识网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%BF%97%E5%85%B4/?category=18271" rel="tag">周志兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 10小时前</small>
@@ -966,31 +1001,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91who-xi%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-21/" target="cdt-mirror">【敏感词库】“Who Is Xi”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B7%91_%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/09/%E8%B7%91_%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg" alt="跑_李小乖" width="550" height=""></a><br><em>(图片作者：李小乖)</em></p>
-<p>[ 测试时间：2015年10月21日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
-<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
-<p><strong>whoisxi</strong><br><strong>习近平＋拦车</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/">马永田</a>拦车上访）<br><strong>(习)近平＋极权</strong><br><strong> 习上任</strong><br><strong>习＋庆丰</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BA%86%E4%B8%B0%E5%8C%85%E5%AD%90%E4%B8%A4%E5%AE%B6%E5%BA%97%E6%B6%89%E9%A3%9F%E5%93%81%E5%8D%AB%E7%94%9F%E9%97%AE%E9%A2%98-%E8%A2%AB%E5%81%9C/">【网络民议】庆丰包子两家店涉食品卫生问题 被停业整顿</a>）<br><strong>习＋前任职</strong><br><strong>习＋史书记载</strong><br><strong> 习＋监控</strong><br><strong> 习＋李鸿章</strong><br><strong> (习)近平＋得罪</strong><br><strong> 薄＋岳飞</strong><br><strong> 毛＋畜生</strong></p>
-<p><strong>哈达＋剥夺政治权利</strong>（详见：内蒙异议人士<a href="http://chinadigitaltimes.net/chinese/tag/%E5%93%88%E8%BE%BE/">哈达</a>）<br><strong>哈达＋绑架</strong><br><strong> 哈达＋新娜</strong><br><strong> 内蒙古＋分裂</strong></p>
-<p><strong>610办＋改组</strong><br><strong> 杀＋证监会</strong></p>
-<p><strong>访民＋拦车</strong><br><strong> 访民＋赴英</strong></p>
-<p><strong>名照＋调查</strong></p>
-<p><strong>围困 + 垃圾焚烧</strong></p>
-<p><strong>我没有敌人</strong></p>
-<p><strong>博狗</strong></p>
-<p><strong>做爱</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/whoisxi1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/whoisxi1.png" alt="whoisxi" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%8B%E6%8B%A6%E8%BD%A61.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%8B%E6%8B%A6%E8%BD%A61.png" alt="习近平＋拦车" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%BF%91%E5%B9%B3%EF%BC%8B%E6%9E%81%E6%9D%831.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%BF%91%E5%B9%B3%EF%BC%8B%E6%9E%81%E6%9D%831.png" alt="近平＋极权" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E4%B8%8A%E4%BB%BB1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%E4%B8%8A%E4%BB%BB1.png" alt="习上任" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%BA%86%E4%B8%B0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%BA%86%E4%B8%B0.png" alt="习＋庆丰" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%89%8D%E4%BB%BB%E8%81%8C.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%89%8D%E4%BB%BB%E8%81%8C.png" alt="习＋前任职" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%8F%B2%E4%B9%A6%E8%AE%B0%E8%BD%BD.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E5%8F%B2%E4%B9%A6%E8%AE%B0%E8%BD%BD.png" alt="习＋史书记载" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E7%9B%91%E6%8E%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E7%9B%91%E6%8E%A7.png" alt="习＋监控" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E6%9D%8E%E9%B8%BF%E7%AB%A01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%B9%A0%EF%BC%8B%E6%9D%8E%E9%B8%BF%E7%AB%A01.png" alt="习＋李鸿章" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%BF%91%E5%B9%B3%EF%BC%8B%E5%BE%97%E7%BD%AA.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%BF%91%E5%B9%B3%EF%BC%8B%E5%BE%97%E7%BD%AA.png" alt="近平＋得罪" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%96%84%EF%BC%8B%E5%B2%B3%E9%A3%9E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%96%84%EF%BC%8B%E5%B2%B3%E9%A3%9E.png" alt="薄＋岳飞" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%AF%9B%EF%BC%8B%E7%95%9C%E7%94%9F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%AF%9B%EF%BC%8B%E7%95%9C%E7%94%9F.png" alt="毛＋畜生" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E5%89%A5%E5%A4%BA%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E5%89%A5%E5%A4%BA%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9.png" alt="哈达＋剥夺政治权利" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E7%BB%91%E6%9E%B6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E7%BB%91%E6%9E%B6.png" alt="哈达＋绑架" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E6%96%B0%E5%A8%9C.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%93%88%E8%BE%BE%EF%BC%8B%E6%96%B0%E5%A8%9C.png" alt="哈达＋新娜" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%86%85%E8%92%99%E5%8F%A4%EF%BC%8B%E5%88%86%E8%A3%821.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%86%85%E8%92%99%E5%8F%A4%EF%BC%8B%E5%88%86%E8%A3%821.png" alt="内蒙古＋分裂" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/610%E5%8A%9E%EF%BC%8B%E6%94%B9%E7%BB%841.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/610%E5%8A%9E%EF%BC%8B%E6%94%B9%E7%BB%841.png" alt="610办＋改组" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9D%80%EF%BC%8B%E8%AF%81%E7%9B%91%E4%BC%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9D%80%EF%BC%8B%E8%AF%81%E7%9B%91%E4%BC%9A.png" alt="杀＋证监会" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AE%BF%E6%B0%91%EF%BC%8B%E6%8B%A6%E8%BD%A6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AE%BF%E6%B0%91%EF%BC%8B%E6%8B%A6%E8%BD%A6.png" alt="访民＋拦车" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AE%BF%E6%B0%91%EF%BC%8B%E8%B5%B4%E8%8B%B1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AE%BF%E6%B0%91%EF%BC%8B%E8%B5%B4%E8%8B%B1.png" alt="访民＋赴英" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%90%8D%E7%85%A7%EF%BC%8B%E8%B0%83%E6%9F%A5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%90%8D%E7%85%A7%EF%BC%8B%E8%B0%83%E6%9F%A5.png" alt="名照＋调查" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%9B%B4%E5%9B%B0-%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%9B%B4%E5%9B%B0-%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7.png" alt="围困 + 垃圾焚烧" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA.png" alt="我没有敌人" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8D%9A%E7%8B%971.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%8D%9A%E7%8B%971.png" alt="博狗" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%81%9A%E7%88%B1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%81%9A%E7%88%B1.png" alt="做爱" width="475" height=""></a></p>
-<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。<br>
-———————-</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91who-xi%E7%AD%89%E8%BF%91%E6%97%A5%E7%83%AD%E7%82%B92015-10-21/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85%AC%E5%AE%A4/?category=18271" rel="tag">610办公室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4/?category=18271" rel="tag">内蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E8%BE%BE/?category=18271" rel="tag">哈达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E7%94%B0/?category=18271" rel="tag">马永田</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1002,7 +1012,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1012,5 +1022,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

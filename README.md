@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BE%AF%E8%99%B9%E6%96%8C%EF%BC%9A%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85%E5%90%88%E5%A8%B6%E8%80%81%E5%A9%86%EF%BC%9F%E5%8F%AA%E8%83%BD%E6%AD%BB%E5%BE%97%E6%9B%B4%E5%BF%AB/" target="cdt-mirror">侯虹斌：低收入者合娶老婆？只能死得更快</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85-%E5%85%89%E6%A3%8D.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85-%E5%85%89%E6%A3%8D.png" alt="低收入者 光棍" width="600" height="276"></a></p>
+<p>今天，浙江财经大学谢作诗教授的一番言论，引起轩然大波。他说：“<strong>收</strong>入低的男人怎么办呢？一种办法是几个人合起来找一个老婆<strong>”。刚看到时，我还以为是被人断章取义了，我仔细拜读了谢教授的博客原文，就明白了，他是很真诚的。</strong></p>
+<p>根据国家统计局发布的数据，2012年我国出生人口性别比达到117.7，预计到2020年，我国将会出现大约3000万光棍，而这将引发一系列问题。很显然，作为一个研究经济学的教授，他想解决这些社会问题。<strong>他的思考方式，就是把人当货物，要求把人、尤其是稀缺的女人，彻底商品化，交由市场配置。他认为，市场有能力合理配置，能够让尽可能多的单身男人分配到女性这种稀缺商品了。</strong>你要说谢教授完全不尊重女人吧，也不对，稀缺商品么，还是挺宝贝的呢，怎么会不尊重呢。</p>
+<p>谢作诗的原文是：“<strong>收入高的男人，会优先找到女人，因为他们出得起高价；</strong><strong>收入低的男人怎么办呢？一种办法是几个人合起来找一个老婆。</strong>这并不是我的异想天开，在那些偏远的穷地方，就有兄弟几个合娶一个老婆的，而且<strong>他们还过得其乐融融。</strong>”确实，这种情况存在，但，他们真的“其乐融融”吗？请问，既然一女事多夫这么愉快，为什么只有在最穷的地方，才会出现几兄弟共娶一妻，大城市里的有钱人为什么不去过这么“其乐融融”的生活？还有那位妻子，她真的享受这种生活吗？现在的富婆也不少，为什么富婆不选择过这种“其乐融融”的生活？何况，<strong>在贫困地区，女人是用来宠的吗？不，这意味着她要服待更多的男性，为他们劳动，为他们生育。假如有选择，有多少女人会选择同时嫁给几个男人？</strong></p>
+<p>这说明，<strong>阻碍“几个人合起来娶一个老婆”的流行的，绝不是因为法律——你看，法律也反对“包二奶”，但被抓捕的贪官都有多位“二奶”，却没见过几个人合起来娶同一个老婆的——而是因为，这是一种非常绝望无奈的生活方式</strong>（除了极个别的性癖爱好者）。古代少数民族常有共妻现象或收继婚，女人在丈夫死后就得嫁给小叔子或继子、甚至继孙，那是因为他们极端贫困、女人就是财产；到了今天，不试图去解决这种悲剧，还想为陋习招魂，真是太有创意了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85-%E5%85%89%E6%A3%8D2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85-%E5%85%89%E6%A3%8D2.png" alt="低收入者 光棍2" width="324" height="215"></a></p>
+<p>谢作诗的另一个观点是：虽然可能很多男性无法结婚，但不见得他们没有解决性需求的方式，比如购买性服务。在这里，“性交易合法化”这个问题非常复杂，我不详细展开了。但是，<strong>他所建议的“合法化”，只是为了方便用女性的身体来抚慰男性，维持社会稳定，可以说，就是纯粹把女性当作“慰安妇”；这么伟大的女性，是不是应该给申报一下三八红旗手呢？<br></strong></p>
+<p>同时，他还提出“允许同志合法结婚，可能也能缓解3000万光棍问题”的办法，假装忘记了，这个社会不仅有男同性恋，也有女同性恋呢。</p>
+<p><strong>基于理性的思考，这位经济学者总结道，“</strong><strong>我们也可以选择既不允许一妻多夫，也不允许婚外性行为，那就只能接受社会不稳定了。</strong>”我很悲哀地承认，他说的是对的；但我更想在他的话之外补充：在当今中国的各种不平等不自由的情况下，即便允许一妻多夫、允许婚外性行为，甚至允许性交易合法化，社会也绝不会因此而稳定，甚至走向更危险。因为，<strong>有权有势的阶层（以男性为主），可以更名正言顺地获得更多性资源</strong>；届时，穷困的、本就不易娶到妻子的那部分单身汉，性资源只会更加匮乏，分配和争夺将会更猛烈。</p>
+<p><strong>所谓的经济学思路，是假设人没有感情，只有工具理性，只是服从于社会需求的蚂蚁；当某方面需求有空缺了，把另一只蚂蚁填上去就好，队伍就不会乱、人心就不会散了。但他没想过，人的欲望、需求、尊严感，都是在不断发生变化的，不可能是无知无觉的恒定状态。</strong></p>
+<p>无可否认，这位经济学家所谈及的“方法”，在现实中早已存在，并不是他的发明。但我要重申：存在不等于合理，更不等于需要提倡；想用饮鸩来止渴，那就只能死得更快。</p>
+<p>不如我按照所谓经济学的思路来替他补充吧：<strong>把男人女人都编好号，按经济情况和颜值来打分，有劣迹的就扣分，摆在货架上，统一由市场分配。岂不是更有效？</strong>但那对人，尤其是女人，有一丝一毫的尊重吗？</p>
+<p><strong>附：谢作诗博客原文：</strong></p>
+<p>（本文作者谢作诗，经济学博士（后），浙江财经大学经济与国际贸易学院教授，浙江大学科斯经济研究中心兼职教授，天则经济研究所企业家研究中心研究员，美国大唐集团中国区首席经济学家，天瑞华商（基金）全国联盟顾问。主要研究领域为宏观经济学、交易费用经济学、产业组织理论、教育经济学。）</p>
+<p>有新闻报道称，2020年中国将会出现3000到4000万的光棍。人们似乎已经看到，3000万光棍聚众抗议社会不公，老年以后老无所依，孤独终老，形成十分严重的社会问题。</p>
+<p>真的会这样吗？</p>
+<p>我不否认3000万光棍的事实，但我否认一定会出现这样严重的社会问题。</p>
+<p>坏的经济学会认为有“短缺”、“过剩”之说，但是好的经济学认为没有这回事。道理是这样的，人为能够控制货币价格，但是不能控制非货币价格，而真实的价格是货币价格和非货币价格的加总。你把货币价格压低，那么非货币价格就会上升，反之反是。你把火车票价压低，那么排队购买、拥挤就会发生。排队的时间、拥挤带来的不舒服也是乘火车的代价，叫做非货币价格。最终乘车的代价没有变化。你把最低工资拔高，那么排队、托人情找工作就会发生，工作的实际收入要把这些代价扣掉。最终工作的实际收入也没有变化。</p>
+<p>既然价格是调节供求的，重要的是实际价格，不是名义价格，而人为能够控制货币价格，但是控制不了实际价格，那么又怎么会有“短缺”、“过剩”一说呢？</p>
+<p>光棍的存在只是增加了女性的相对稀缺性，提高其价格，绝不意味着两性的市场就不会出清，就会出现剩男。如此看问题，光棍及其相关的性问题也就变成了收入问题。</p>
+<p>收入高的男人，会优先找到女人，因为他们出得起高价。</p>
+<p>收入低的男人怎么办呢？一种办法是几个人合起来找一个老婆。这并不是我的异想天开，在那些偏远的穷地方，就有兄弟几个合娶一个老婆的，而且他们还过得其乐融融。</p>
+<p>不愿意合娶，或者法律不允许一妻多夫怎么办？那可能真的只能光棍了。但光棍不意味着他们就不能获得性生活。由于3000万光棍的存在提高了女性的性价格，这会增加其供给。</p>
+<p>改革开放后，在一些沿海地方，男女比例严重失衡，但性的问题是不是就因此而不能解决呢？你听说过搭伙过日子的吗？听说过几个女孩子养一个男朋友的吗？那几个男人养一个女人不可能吗？再说了，还有发廊妹、站街妹……这些不也是解决性的途径吗？</p>
+<p>性的问题，总是要解决，不能合法解决，就会非法解决；不能在阳光下解决，就会在黑暗中解决。3000万光杆是既成的、短期改变不了的事实，而市场总是要以某种方式出清，问题只在于我们愿意以哪一种方式出清。当然，我们也可以选择既不允许一妻多夫，也不允许婚外性行为，那就只能接受社会不稳定了。非常幸运的是，这种选择是实现不了的。</p>
+<p>情绪宣泄不是科学。科学是能够帮助我们理性推断未来的东西。3000万光棍未必带来严重的社会问题，但一定会带来性的自由。如真的带来了严重问题，那也是法律、观念的错。</p>
+<p>一切问题本质上都是价格问题、收入问题。如果我们真的担心3000万光棍，那就老老实实发展经济吧。经济发展了，王老五们收入高了，就会有东南亚的、非洲的姑娘嫁过来。</p>
+<p>问题的另一面是，可能我们忽视了中国国情，夸大了3000万光棍的事实。</p>
+<p>众所周知，中国存在严重的食品安全与环境污染问题。例如雌激素的使用就已经泛滥。除了女性大量服用的避孕药，还有动物饲料中的各种添加剂。造成的后果难道只是女性早熟吗？比如就有报道两三岁的小女孩乳房就发育、来例假了。其对男人会不会也有影响呢？</p>
+<p>雌激素泛滥，就算不减少男人的数量，会不会减少男人的性的需求数量呢？</p>
+<p>一个有趣的现象是，我身边是大龄女青年多，而不是大龄男青年多，托我介绍对象的多是女方家长，而不是男方。或许你会说你在城市，城市是大龄女青年多，农村是大龄男青年多；层次高一点是大龄女青年多，低一点是大龄男青年多，因为男人愿意低娶，女人一般要高嫁。对此我无法反驳。但是为什么广场舞主体是大妈们，大爷们去哪里了？不要说男人寿命短、女人寿命长，而且丈夫一般比妻子年龄大。能跳广场舞的大妈们，她们的老头还在的。可能的推断只能是，老头们没有这样的需要，也没有这样的体能了。期待医学能给一个答案！</p>
+<p>我甚至怀疑，允许同志合法结婚，可能也能缓解3000万光棍问题。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BE%AF%E8%99%B9%E6%96%8C%EF%BC%9A%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85%E5%90%88%E5%A8%B6%E8%80%81%E5%A9%86%EF%BC%9F%E5%8F%AA%E8%83%BD%E6%AD%BB%E5%BE%97%E6%9B%B4%E5%BF%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%89%E6%A3%8D/?category=18271" rel="tag">光棍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%A5%B3%E5%A4%B1%E8%B0%83/?category=18271" rel="tag">男女失调</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%9C%80%E8%A6%81/?category=18271" rel="tag">社会需要</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F/?category=18271" rel="tag">计生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E7%94%B3%E9%81%97%E5%85%AD%E5%9B%9B%EF%BC%8C%E6%AD%AA%E5%8F%AB%E9%83%A8%E4%BC%9A%E5%A2%99%E8%A3%82%E6%8A%97/" target="cdt-mirror">【河蟹档案】日本有意申遗六四，歪叫部会墙裂抗议吗？</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -1009,36 +1051,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E6%B8%B8%E6%B8%AF%E4%B8%8D%E6%84%BF%E8%B4%AD%E7%89%A9%E8%A2%AB%E6%AE%B4%E8%BA%AB%E4%BA%A1%E5%BC%95%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE/" target="cdt-mirror">BBC | 大陆游客游港不愿购物被殴身亡引网民热议</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151002041616_tourlists_in_hongkong__976x549_bbcchinese.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151002041616_tourlists_in_hongkong__976x549_bbcchinese.jpg" alt="香港旅游业因这起“内地游客被殴致死”案件再度引发关注。" width="600" height="337"></a><p>香港旅游业因这起“内地游客被殴致死”案件再度引发关注。</p></div>
-<p>因不满在香港珠宝店被强迫购物而与导游起冲突被殴伤的中国男游客，周二（20日）被证实身亡。该事件在中国引发对“中港冲突”的又一波讨论。</p>
-<p>被证实身亡的54岁黑龙江籍苗姓男子，与张姓女同事报名参加由内地邓姓女领队带队的香港旅游团，周一上午到香港红磡一间珠宝店购物。根据香港媒体报道，因为张女不愿购物而与邓姓女领队发生冲突，苗男尝试调停，但被在同一家珠宝店内购物的另一内地旅游团内的一名香港男导游、一名内地男领队殴打昏迷，送医后仍在周二上午不治身亡。</p>
-<p>香港警方一共拘捕四人。以“伤人、在公众地方打架 ”罪名拘捕邓姓女领队、张女。以涉嫌伤人罪逮捕两名男子。在苗男死亡后，警方将案件改列为“误杀”。涉案人不排除还有旅行社安插在团中，强迫旅客消费的“影子团友”。</p>
-<p>中国官媒《人民日报海外版》旗下社交媒体平台“侠客岛”发表评论文章，指出香港旅游的负面新闻不断，虽然此次“导游和同伙围殴游客致死的事件，恶劣程度前所未有”是偶发事件，但可再次印证“香港社会针对内地客的暴戾之气还在升级”的结论。</p>
-<p><strong>中港矛盾</strong></p>
-<p>文章中提到，香港旅游业在与内地游客冲突的负面新闻频传之下，“已经尝到了苦果”。文中认为香港对内地游客的不满是因为“内地游客挤占了香港有限的空间和资源”以及“一些文化上的小冲突”。而这些不满在“部份人的挑唆怂恿下”被操作成“对抗的思维”。</p>
-<p>文章将此观点延伸至评论香港社会现状，认为旅游只是香港问题的一个缩影，中国对香港的建设美意“部份香港人并不惜福感恩”，“对于‘一国两制’，长期只强调两制而忽略一国，对内地滋生了莫名的反感情绪。”</p>
-<p>中国官媒《环球时报》周三也发表“内地客被打死重创香港旅游形象”社评，认为消除中港矛盾的责任应由香港社会来承担，“仅仅要求内地媒体‘不炒作’这些事件，要内地舆论体谅少数港人的情绪，这不现实。”</p>
-<p><strong>网民意见</strong></p>
-<p>该事件在中国社交媒体上引发讨论，新浪微博“在港拒购物被打死”标签有132.7万人浏览。</p>
-<p>许多网民留言：“珍惜生命，远离香港！”一位北京网民表示：“果真是购物天堂！不购物就被上天堂！”</p>
-<p>来自江苏的一位网民写到： “买多了，反水客，买少了，就打死，有种来大陆试试！”</p>
-<p>一位贵州网民说：“人家香港人都说了，让你们别去打扰他们生活啦，怎么你们还去香港购物啊。如你们所愿，还香港人一个清静，去澳门，去韩国，去日本购物都行，至少不会被打死吧。”</p>
-<p>一名来自黑龙江的网民说：“事情已经到闹出人命的地步，竟然还有同胞认为只是旅行团的问题，内地旅行团数目和种类远比香港多，云南再强迫购物无非是动动嘴巴骂一骂，你看哪家打死游客了？香港口口声声讲法治讲自由，却纵容黑社会知法犯法如此猖獗，旅游业拉动了你多少经济，况且你早已不是购物天堂，你就是祖国一个没良心的孩子。”</p>
-<p>一些内地网民表示，到香港旅游其实不需要跟团，特别是低价团更容易暗藏“羊毛出在羊身上”的“宰客”风险。</p>
-<p>北京一位网民说：“都一些笨鸟啊，加什么旅行团，还限制这个那个，又不是英国美国还语言不通，香港多大点地方啊，还没北京大，自己去不就行了啊。”</p>
-<p>也有网民表示，曾经在事件发生的同一间珠宝店发生不愉快的购物经验。</p>
-<p><strong>相关报道：</strong></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E6%B8%B8%E6%B8%AF%E4%B8%8D%E6%84%BF%E8%B4%AD%E7%89%A9%E8%A2%AB%E6%AE%B4%E8%BA%AB%E4%BA%A1%E5%BC%95%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%9C%B0%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">内地游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E6%B8%B8/?category=18271" rel="tag">导游</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">暴力事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1060,5 +1072,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

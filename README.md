@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%BF%98%E5%A5%BD%E5%BD%93%E5%B9%B4%E6%B2%A1%E5%87%BA%E5%9B%BD/" target="cdt-mirror">【习总日记】 还好当年没出国</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，21）<br>
+这两天日子过得那个叫，顶呱呱。不是薄瓜瓜。还好当年没听家人的话出国，否则能有现在的好日子？想到这里，耳边响起宋妃“今天是个好日子”的歌声。唉，不得不感叹一声：做人要做总书记！</p>
+<p>昨日的伦敦天空没有雾霾，呈现“习近平蓝”。为了迎接来自东方尊贵的客人，英国首都附近的工厂全部关闭，学校机关放假三天，马路街道封锁以防奥巴马派人来搞破坏。我所路过的街道大楼窗户全部封死，不许居民窥探我的尊容。</p>
+<p>中午伦敦时间十二点正，只听“笃、笃、笃”三声，有人敲门。谁来了？原来是英国威尔士亲王查尔斯王储和夫人卡米拉前来迎请我和夫人。12时10分许，咱两口子在他们两口子陪同下抵达骑兵检阅场皇家检阅台。按英国皇家最高礼仪，伦敦塔桥和格林公园分别鸣放62响和41响礼炮。我心里嘀咕，说好108响，怎么少了5响？丽媛说算了，回北京给你补上。</p>
+<p>咱两口子登上皇家检阅台，伊丽莎白二世女王和丈夫菲利普亲王两口子迎接。仪仗队敬礼，军乐队高奏中国国歌。在菲利普亲王陪同下，俺检阅了仪仗队。欢迎仪式结束后，在中英两国国歌声中，咱两口子在女王两口子陪同下，乘坐皇家马车前往白金汉宫下榻。中午，咱两口子出席了伊丽莎白二世女王举行的午宴。</p>
+<p>20日下午，在英国议会发表讲话，强调你们英国是好样的，没有随美国起舞，坚持走英国特色独立自主自力更生的发展道路。你们英国很久很久以前欺负咱大清国的事情，鉴于你们态度诚恳服务周到，过去的事情就算过去了。用咱中国老百姓的话来说就是“翻篇了”。当我讲到“中英越来越成为你中有我、我中有你的利益共同体”时，在场英国人不由自主相互上下左右前后仔细打量，看看他们身上到底有没有中国的影子。</p>
+<p>我说，现在你们不用贩卖鸦片，也不用派舰队不远万里跑去中国，我自己送上门来。他们热烈鼓掌。你们在战场上得到的东西，在谈判桌上照样可以得到，何必打我们呢？以前抢我们的东西就算送给你们了，不必还。烧圆明园的事情么，我看这么着可不可以，能修就修，不能修也就算了。白金汉宫总统套房，每年七天免费算是赔偿。你们说好不好啊？他们高呼“不行。你在白宫走错房间还不够吗？还想走错女王的房间？”我说你们要用发展的眼光看问题。不用那么悲观。</p>
+<p>随后咱两口子去克拉伦斯宫，慰问查尔斯王储两口子。一见面我就说：“王储啊，你的心情我完全理解。我也吃了江泽民垂帘听政的苦头。”查尔斯说这不一样：“我妈还没退下来。”我说那我就更同情你了。咱党的制度好，十年就退下来，否则他不死我和胡锦涛都没戏。四人共同欣赏竖琴演奏威尔士民歌，并观看了中国在英留学生的绘画、雕塑、书法作品。随后，双方进行了亲切友好的交谈。</p>
+<p>20日还会见了英国剑桥公爵威廉王子。我说你运气好啊，娶了个漂亮老婆。王子说你运气也不错啊，当年没听老婆的话来英国留学。否则今天就没你啥事了。</p>
+<p>今天21日，上午在伦敦唐宁街首相府同英国首相卡梅伦举行会谈。双方积极评价中英关系发展取得的成就，就双边关系及重大国际和地区热点问题深入交换意见，达成重要共识，决定共同构建中英面向21世纪全球全面战略伙伴关系，开启持久、开放、共赢的中英关系“黄金时代”。</p>
+<p>21日下午，和英国首相卡梅伦共同出席在伦敦金融城举行的中英工商峰会并表演《背人名书名》：“莎士比亚、华兹华斯、简·奥斯汀、狄更斯，《猫》、007系列电影、《哈利·波特》、《神探夏洛克》、《唐顿庄园》。”当地时间下午4时40分许，参观华为英国公司和帝国理工学院。</p>
+<p>哎，好累。累并快乐着。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%BF%98%E5%A5%BD%E5%BD%93%E5%B9%B4%E6%B2%A1%E5%87%BA%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 20分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%8F%B2%E5%AE%BF%E5%8A%A1%E6%9E%AA%E6%9D%80%E6%A1%88%E6%B6%89%E6%A1%88%E5%A4%96%E4%BA%A4%E5%AE%98%E5%B0%86%E8%A2%AB%E7%A7%BB%E4%BA%A4%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">美国之音 | 菲宿务枪杀案涉案外交官将被移交中国</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-22-at-%E4%B8%8B%E5%8D%883.25.54.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-22-at-%E4%B8%8B%E5%8D%883.25.54.png" alt="Screen Shot 2015-10-22 at 下午3.25.54" width="550" height="307"></a></p>
@@ -968,40 +991,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/610%E5%8A%9E%E5%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%BE%AE%E5%8D%9A%E4%B8%BE%E6%8A%A5-%E5%A4%A7%E4%B9%89%E7%81%AD%E4%BA%B2/" target="cdt-mirror">奇闻录 | 微博举报 大义灭亲</a>
-</h2>
-<p><p>10月19日，有网友爆料称，一位微博id为@可爱的宝宝亲的网友在新浪微博高调炫富，自称老公收到了区长秘书赠送的3w元购物卡，并且接连晒出自家的多辆豪车、独栋别墅等，最后甚至po出一份辽宁省发改委的文件，该网友的“举报式炫富”行为很快引起网友关注。目前，当事人已删除微博。</p>
-<p>@四川罗天：【美女微博晒区长秘书送1000面额购物卡30张】网友可爱宝宝亲微博晒房产、车、还有区委领导送的购物卡，厉害。据微博地图显示辽宁沈阳东陵区。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8sdfuuj30hs0qo76u-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8sdfuuj30hs0qo76u-300x300.jpg" alt="005I6M5agw1ex6q8sdfuuj30hs0qo76u-300x300" width="300" height="300"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8spjo4j30hs0qo77h-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8spjo4j30hs0qo77h-300x300.jpg" alt="005I6M5agw1ex6q8spjo4j30hs0qo77h-300x300" width="300" height="300"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8tr7hfj30hs0qo40x-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8tr7hfj30hs0qo40x-300x300.jpg" alt="005I6M5agw1ex6q8tr7hfj30hs0qo40x-300x300" width="300" height="300"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8tz1xvj30hs0qo417-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8tz1xvj30hs0qo417-300x300.jpg" alt="005I6M5agw1ex6q8tz1xvj30hs0qo417-300x300" width="300" height="300"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8uea6hj30hs0qoacc-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8uea6hj30hs0qoacc-300x300.jpg" alt="005I6M5agw1ex6q8uea6hj30hs0qoacc-300x300" width="300" height="300"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8v8zzoj30hs0qodhy-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8v8zzoj30hs0qodhy-300x300.jpg" alt="005I6M5agw1ex6q8v8zzoj30hs0qodhy-300x300" width="300" height="300"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8vkhlsj30hs0qodhe-300x300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/005I6M5agw1ex6q8vkhlsj30hs0qodhe-300x300.jpg" alt="005I6M5agw1ex6q8vkhlsj30hs0qodhe-300x300" width="300" height="300"></a></p>
-<p>以下为部分网友评论：</p>
-<p>@别开枪是我羊羊羊：对于有些女人来说，给她漂亮衣服、优越的生活、奢华的坐骑而不能炫耀，简直比死都痛苦。</p>
-<p>@深夜走过长安街001：果断围观！最后一张特殊项目扶持资金，别把国家的钱扶持倒个人兜里去了。这个项目我听说过，明天翻翻贴上来。</p>
-<p>@北京华氏三十二度：高华山：区委常委、纪委书记，沈阳高新区党工委委员、纪工委书记. 东陵区现在叫浑南区了。区纪委书记是这位。请叫我雷锋！ 注：网友消息未经证实</p>
-<p>@徐邈邈：大义灭亲，可以入围感动中国。</p>
-<p>@其实我是个心理医生：实名把自己老公给举报了？我被这女的智商逗乐了。</p>
-<p>@西红柿炒番茄已被占用：希望每个贪污腐败的领导都有这么一个傻老婆。</p>
-<p>@天一亮就辜负你8568：仔细想想，历朝历代都是这样，贪官娶了蠢婆娘，生下子女多智障，否则怎么改朝换代呢？</p>
-<p>@队长别开枪我是夏雨荷：本市一般工资低的一比，今年夏天大把的企业没活干开不出工资结果放假不开工资了事。但走在浑南新区的路面上，豪车那可是不少。上周路过奥体中心看到场聚会，跑车停了一马路。俺算是知道这帮人钱哪来的了。</p>
-<p>@Agatus：你们这样是不行的，这样搞下去纪委工作还怎么开展，还有什么革命的难度，还有什么革命的挑战，还有多少革命的浪漫？</p>
-<p>@理外理：介他妈不奏是共产主义吗！</p>
-<p>@梦晨伤: 完了……很明显区长秘书要倒霉了……</p>
-<p>@屯里土生土长的羊：反腐到底是要靠情妇，干女儿和傻媳妇啊！</p>
-<p>@是Ivan不是Kuma：这辈子没富过这样急着晒自己，真有钱又有底蕴的都知道要藏富，这种如果是真的会死的很快的，找了这种智捉也是做了大孽。</p>
-<p>@计划生育当废除：这就是权贵阶级……以后被革命的对象。</p>
-<hr><p><small>© 喜闻乐见 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%BE%AE%E5%8D%9A%E4%B8%BE%E6%8A%A5-%E5%A4%A7%E4%B9%89%E7%81%AD%E4%BA%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E7%82%AB%E5%AF%8C/?category=18271" rel="tag">微博炫富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%AB%E5%AF%8C/?category=18271" rel="tag">炫富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81/?category=18271" rel="tag">辽宁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1013,7 +1002,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1023,5 +1012,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

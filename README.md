@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E7%94%B3%E9%81%97%E5%85%AD%E5%9B%9B%EF%BC%8C%E6%AD%AA%E5%8F%AB%E9%83%A8%E4%BC%9A%E5%A2%99%E8%A3%82%E6%8A%97/" target="cdt-mirror">【河蟹档案】日本有意申遗六四，歪叫部会墙裂抗议吗？</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%B1%88%E5%AD%90%E8%B5%8B">屈子赋</a>：才买了美国300架大飞机，又免了穷兄弟几百亿债务，接着抛给英国300亿英镑大单，同时，国内正紧锣密鼓落实延迟退休。这盛世，如你所愿！<em>相关阅读｜</em>《<em><a href="http://www.bbc.com/zhongwen/simp/uk/2015/10/151021_uk_xi_visit_deals">BBC｜中英签署多项合作协议总额400亿英镑</a></em>》<br><a href="https://freeweibo.com/weibo/3900059932219159" target="/weibo/390">2015年10月20日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%86%E6%96%8C">但斌</a>：打伞的问题，可能真就是个习惯！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44413.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44413.jpg" alt="444" width="489" height="395"></a><br><a href="https://freeweibo.com/weibo/3900776399632537" target="/weibo/390">2015年10月22日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E5%9B%9B%E9%83%8E_755">北四郎_755</a>：刚才看到一个新段子差点没把我笑死：全球最全的图书馆在哪儿？答案：陕北梁家河村大队借阅室！[笑cry][笑cry][笑cry]//*<a href="https://freeweibo.com/weibo/%40%E7%8E%8B%E4%BA%9A%E4%B8%9C521">@王亚东521</a>：都怨胡德华，非说“他就没读过什么书！” <em>相关阅读｜</em>《<a href="https://books.google.com/books?id=DoAIBAAAQBAJ&pg=PT121&lpg=PT121&dq=%E8%83%A1%E5%BE%B7%E5%8D%8E%E8%AF%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B2%A1%E8%AF%BB%E8%BF%87%E4%B9%A6%EF%BC%9F&source=bl&ots=kUjIE6SxF5&sig=lXBtOJpH5SeANKoKVE-dGIBKQqk&hl=en&sa=X&ved=0CFAQ6AEwB2oVChMIoYen9unXyAIVUfKACh1EWw1Y#v=onepage&q=%E8%83%A1%E5%BE%B7%E5%8D%8E%E8%AF%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B2%A1%E8%AF%BB%E8%BF%87%E4%B9%A6%EF%BC%9F&f=false">胡德华（胡耀邦三子）说习近平没读过书？</a>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44412.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44412.jpg" alt="444" width="466" height="376"></a><br><a href="https://freeweibo.com/weibo/3900782119953706" target="/weibo/390">2015年10月22日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%BE%99%E6%98%93%E5%A4%A9935">龙易天935</a>：日本这招，太狠了吧！！！某国官府能破吗？？？如何破？？？某国歪叫部会墙裂抗议吗？？？ <em>相关阅读｜《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20151014-%E6%97%A5%E6%9C%AC%E5%B0%86%E6%80%8E%E6%A0%B7%E5%AF%B9%E5%BA%94%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%94%B3%E9%81%97%E6%88%90%E5%8A%9F%EF%BC%9F">法广<em>｜</em>日本将怎样对应南京大屠杀申遗成功？</a>》；《<a href="http://litenews.hk/%E4%B8%8D%E6%BB%BF%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E7%94%B3%E9%81%BA-%E6%97%A5%E6%9C%AC%EF%BC%9A%E7%94%B3%E5%A0%B1%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6/">轻新闻<em>｜</em>不滿南京大屠殺申遺 日本：申報六四事件</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/4447.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/4447.jpg" alt="444" width="507" height="308"></a><br><a href="https://freeweibo.com/weibo/3898226874597097" target="/weibo/389">2015年10月15日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%B9%95%E5%90%8E%E5%9C%88">幕后圈</a>：大英《每日邮报》为你国音乐事业操碎心//*<a href="https://freeweibo.com/weibo/%40%E5%BB%BA%E7%AD%91%E7%8B%82%E4%BA%BA">建筑狂人</a>：彭丽媛被英媒描述成前摇滚歌手<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44414.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44414.jpg" alt="444" width="339" height="602"></a><br><a href="https://freeweibo.com/weibo/3900390032210113" target="/weibo/390">2015年10月21日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B3%B0%E5%B1%B1%E4%B9%8B%E5%B7%85%E4%B8%80%E7%96%AF%E5%83%A7">泰山之巅一疯僧</a>：今天报纸这大标题看着有点意思[偷笑]<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44411.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44411.jpg" alt="444" width="537" height="302"></a><br><a href="https://freeweibo.com/weibo/3900810263942637" target="/weibo/390">2015年10月22日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%8A%B1%E5%8D%83%E8%8A%B3">花千芳</a>：怪不得内网消息外泄，怪不得公民信息被人肉，怪不得国信办三令五申互联网还是一副亚健康状态……网安的官微居然发这种明目张胆的推墙言论，真让人无法相信。体制婊们钻进体制内假公济私败坏政府和国家声誉，已经从精神上完全沦陷，不要指望他们守土卫国<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/1113.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/1113.jpg" alt="111" width="578" height="311"></a><br><a href="https://freeweibo.com/weibo/3896375035377892" target="/weibo/389">2015年10月10日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%8E%E5%BB%BA%E5%B5%98">于建嵘</a>：《南方都市报》记者刘伟，因报道“大师”王林案，被江西萍乡市公安局安源分局以涉嫌“非法获取国家秘密罪”为由刑事拘留。我没有明白，是“大师”本人的行为是国家秘密？还是“大师”涉及到了可以定为囯家秘密的人和事？而且，就是王林案涉及到什么大人物，他作为记者履行职务，又何罪之有？！<em>相关阅读｜</em>《<em><a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8D%97%E9%83%BD%E8%AE%B0%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98-%E6%B6%89%E5%AB%8C%E8%8E%B7%E5%8F%96%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/">美国之音 | 南都记者被刑拘 涉嫌获取什么国家机密？</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/4448.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/4448.jpg" alt="444" width="453" height="549"></a><br><a href="https://freeweibo.com/weibo/3899047271945704" target="/weibo/389">2015年10月17日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%80%A9%E7%83%A8%E5%BD%92%E6%9D%A5">倩烨归来</a>：我曾与刘伟一起采访过王林，当时王林还找来某律师代理。到今天，一个案子的当事人、律师、报道案件的记者都被抓，此案也会是个读懂中国的样本。<br><a href="https://freeweibo.com/weibo/3898736104871933" target="/weibo/389">2015年10月17日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%9D%A1%E9%A9%AC99">睡马99</a>：南都刘伟起底王林大师，从而因泄露国家机密被拘。正是那句话，如果你试图了解你的祖国时，你已经走上了犯罪的道路。//<a href="https://freeweibo.com/weibo/%40%E6%92%95%E7%A2%8E%E5%A4%9C">撕碎夜</a>: 我们都是在监狱之内，活动范围大小而已。<br><a href="https://freeweibo.com/weibo/3899020290698797" target="/weibo/389">2015年10月17日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E5%85%89%E4%BC%9F">何光伟</a>：环球又傻逼了吧？哈佛大学历史和政治学教授马若德本周三致电邮给《环球时报》，称该报在报道本月在北京举行的世界马克思主义大会时，说他称赞“中国梦”会对人类发展作出巨大贡献，“完全是捏造的”。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%BB%AD%EF%BC%9A%E3%80%8A%E7%8E%AF%E6%97%B6%E3%80%8B/">【立此存照】编造“中国梦”事件后续：《环时》只用英文道歉</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/4445.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/4445.jpg" alt="444" width="418" height="743"></a><br><a href="https://freeweibo.com/weibo/3898599241318886" target="/weibo/389">2015年10月16日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E5%B1%B1%E5%A8%83">文山娃</a>：現實證明，屏蔽紐約時報等反華媒體，是多麼英明的決策，方濱興是民族英雄。[赞]<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/4446.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/4446.jpg" alt="444" width="362" height="3896"></a><br><a href="https://freeweibo.com/weibo/3898343040122230" target="/weibo/389">2015年10月15日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%88%91%E6%98%AF%E8%A5%BF%E8%92%99%E5%91%A8">我是西蒙周</a>：这发型，确实是一绝！<em>相关阅读｜《<a href="http://lady.southcn.com/6/2015-10/12/content_134530955.htm">南方网｜金正恩“霸气发型”真不是你能hold住的！</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/111.gif"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/111.gif" alt="111" width="415" height="288"></a><br><a href="https://freeweibo.com/weibo/3896368219498274" target="/weibo/389">2015年10月10日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9B%B9%E5%B1%B1%E7%9F%B3">曹山石</a>：SPAM 这…<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44415.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44415.jpg" alt="444" width="510" height="452"></a><br><a href="https://freeweibo.com/weibo/3900406394744291" target="/weibo/390">2015年10月21日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40reporter%E8%AE%B0%E8%80%85%E5%88%98%E8%99%8E">reporter记者刘虎</a>：最高法院原副院长奚晓明夫人鸣冤叫屈，直指“非法之治”。//*<a href="https://freeweibo.com/weibo/%40Ming_the_Great_%E5%A4%A7%E6%98%8E">Ming大明</a>:问题是，当年那么多受“非法之治”的受迫者不见身处庙堂之上的奚氏夫妇为之鸣冤叫屈，或从制度上修正弊端，轮到自己再叫就太晚了，也不管用了。<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E5%A5%9A%E6%99%93%E6%98%8E">维基百科<em>｜</em>奚晓明</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44416.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44416.jpg" alt="444" width="502" height="892"></a><br><a href="https://freeweibo.com/weibo/3900298475337556" target="/weibo/390">2015年10月21日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E7%94%B3%E9%81%97%E5%85%AD%E5%9B%9B%EF%BC%8C%E6%AD%AA%E5%8F%AB%E9%83%A8%E4%BC%9A%E5%A2%99%E8%A3%82%E6%8A%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E5%BB%BA%E5%B5%98/?category=18271" rel="tag">于建嵘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F/?category=18271" rel="tag">刘伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80/?category=18271" rel="tag">南京大屠杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88/?category=18271" rel="tag">哈佛教授</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86/?category=18271" rel="tag">国家秘密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%9A%E6%99%93%E6%98%8E/?category=18271" rel="tag">奚晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%91%87%E6%BB%9A%E6%AD%8C%E6%89%8B/?category=18271" rel="tag">摇滚歌手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%8F%E6%97%A5%E9%82%AE%E6%8A%A5/?category=18271" rel="tag">每日邮报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E9%81%97/?category=18271" rel="tag">申遗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%BE%B7%E5%8D%8E/?category=18271" rel="tag">胡德华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8D%83%E8%8A%B3/?category=18271" rel="tag">花千芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%A5%E5%BE%B7/?category=18271" rel="tag">马若德</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%BF%98%E5%A5%BD%E5%BD%93%E5%B9%B4%E6%B2%A1%E5%87%BA%E5%9B%BD/" target="cdt-mirror">【习总日记】 还好当年没出国</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，21）<br>
@@ -164,6 +190,88 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 <a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%B1%E8%AF%86%E7%BD%91-%E5%91%A8%E5%BF%97%E5%85%B4%EF%BC%9A%E9%82%A3%E4%BA%9B%E4%B8%80%E5%91%B3%E6%AD%8C%E5%8A%9F%E9%A2%82%E5%BE%B7%E7%9A%84%E9%AB%98%E7%BA%A7%E9%BB%91/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86%E7%BD%91/?category=18271" rel="tag">共识网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%BF%97%E5%85%B4/?category=18271" rel="tag">周志兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/ngocn-%E7%BF%9F%E6%98%8E%E7%A3%8A%EF%BC%9A%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%AC%A3%E7%84%B6%E5%9C%A8%E9%87%8E/" target="cdt-mirror">NGOCN | 翟明磊：十年，欣然在野</a>
+</h2>
+<p><p>关注NGOCN，公益视野从此大不同<br>
+原创·作者：黄姝伦</p>
+<p>近日，记者刘伟因对王林的报道被警方以涉嫌非法获▲取国▲家机密罪被刑拘，此前记者刘虎因涉嫌诽谤罪被批捕，随后被关押长达346天，而在央视“认罪”的队伍中也偶有记者身影。<br>
+所谓“无冕之王”在中国的境况使人唏嘘，因报道限制、薪酬待遇、发展空间而辞职的记者越来越多。<br>
+今天推文的主角翟明磊辞职得更早。十年前，他深感体制内记者的局限而离开《南方周末》，其时寇延丁在《从改变自己开始》里这么描述他：说出了真话的孩子。<br>
+2005年的翟明磊是“为新闻而去”的，从体制内跳出到民间，他成为公民记者，筹备多时的《民间》杂志出炉。<br>
+十年间，《民间》被叫停、公民社会被归为“七▲不讲”、南方系被“招安”。<br>
+变局中，翟明磊说：十年，欣然在野。</p>
+<p>上海地铁九号线，松江大学城站，如上海市郊的卫星城般，万达广场拔地而起。翟明磊的茶室，便隐没在吞吐着城市扩张之欲的此地。</p>
+<p>稍坐，周边商业的气息散去。百年沉淀的普洱，从初始泡茶的温度，到而后煮茶的时间，皆有讲究，从第一泡的清丽，到渐次的浓郁，让交谈慢了下来。</p>
+<p>十年，就如沏茶一般，我们常常无法预料外界环境的改变，会怎样地改变茶的味道，但茶执着的沉淀，生出了陈香。</p>
+<p>从《民间》到《壹报》</p>
+<p>二十年前，他是怀着好奇心，闲暇时，一探“社会真相”的银行小职员。而后，随着南下的火车，在改革风气渐开的深圳，开始了记者之路。</p>
+<p>中国调查记者正值多产之际，他握过《南方周末》的铁杆。2003年，从《南方周末》辞职，拒绝框架内的假新闻，“我为新闻而来，我为新闻而去”，“因为究其本质，我是一个新闻骑士”。</p>
+<p>三十而立。他说，年轻的时候不知道自己想要什么，但是知道自己讨厌什么。“记者是最接近真理的职业”，“真理”何为，他没有详细给出答案。也许比起带着脚镣跳舞的委曲求全，他信仰的“真理”更朴素，“事实不是罗生门，没有阶级性、党性，发生了就是发生了”。</p>
+<p>他选择去做一名公民记者，倡导自下而上的草根力量，立足民间，为“弱势群体”发声，是一个自由却亦不自由的选择，自由地游走在官媒失语的领域，却难免因为闯入“新闻禁地”而饱受束缚。</p>
+<p>2005年的春天，翟明磊和朋友们筹备已久的《民间》杂志，正式发行。这是第一本民间自行组织发行的季刊，每期发行量达5000多本，容纳左翼、右翼，各路思潮的编辑部，翟明磊不无骄傲地说，“这本杂志的编委会，有着中国大陆最强阵容。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.19.46.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.19.46.png" alt="Screen Shot 2015-10-20 at 上午11.19.46" width="298" height="419"></a></p>
+<p>《民间》记录在公共空间中改变社会的公益行动者的故事，倡导行动改变生存。只有3个半固定员工的编辑部，主编要同时负责校对、搬运、公关，翟明磊和梁晓燕按年度轮流当值。稿件多来自自由撰稿人，以及维权一线的农民、工人，并保留不同群体，原滋原味的写作风格。</p>
+<p>这本不收费只接受捐助的“地下刊物”，从知识圈、调查记者圈慢慢扩散，在美国的图书馆亦有迹可循。</p>
+<p>“脚踏实地，做不可能之事”，他们奉行着法国1968年学生街头革命时期的格言，也承袭着这场革命的想象力。“希望《民间》，可以让公民社会守望相助。”翟明磊举了一个例子，《民间》杂志送抵黄永厚老先生家，但先生家中书籍太多，他无暇顾及。但有一天，他看见家中保姆捧着一本杂志，默默抹泪，那本杂志就是《民间》，那一期报道了保姆家乡湖南凤凰的河流污染事件。于是，此后，老先生对《民间》，多有支持和帮助。</p>
+<p>很多志同道合的人因《民间》而结识，《民间》杂志也因此衍生出了立体的线下活动，组织沙龙，让民间行动者当老师，发动NGO里的经验之士，和翟明磊主力的NGO“绿根力量”一道，致力于民间草根团体、公民运动的培训。</p>
+<p>《民间》所承受的阵痛，一面带着泥土和草根的地气:《民间》的记者手册里，首推野外生存的技巧，如防跳蚤、睡睡袋云云，在藏区、农村过年是平常事。</p>
+<p>为了完成《被调整的目光——回复民族本土文化的环保试验》，两位记者历时三个月，行程2万8千公里，北至内蒙古边境，南至西双版纳，西至德格藏区的广漠地区，记录了国内民众自发的恢复传统文化试点行动。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.20.31.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.20.31.png" alt="Screen Shot 2015-10-20 at 上午11.20.31" width="280" height="400"></a></p>
+<p>而阵痛的另一面，承受着难被主流所接纳的“戾气”，“民间要有活力，校方的名号，民间的资金，人马来自民间。”这并不是一件容易的事情。选题敏感，敢怒敢言，资金依赖自筹。翟明磊走路时忙于开会、斡旋，都是常有之事。</p>
+<p>纸质版的《民间》的最后一刊，是2007年夏季刊。</p>
+<p>翟明磊已经记不清楚是第12还是第13期。但是《民间》被迫停刊前后，编辑部被干扰，家被查抄，去网吧向外界求援，没有一个支持者提出退款要求，《民间》电子版开始在网上流传……这些细节，他能很清晰地回忆起来。</p>
+<p>他感言，在《民间》的编委会，他学会了什么是公民讨论，在最后一次编委会上，大家都从容镇定，仔细讨论最后一期的错别字与要检讨改进的内容，好像停刊之事从未发生，依然谈笑风生。“是在广州，好像小说《最后一课》，似乎下一期还会出版。”</p>
+<p>在我们长达5小时的交谈里，《民间》被他一次又一次地提起。就像是怀着希望出生的孩子，终究还是夭折了。翟明磊写道，“没有感受过剥夺的人，往往无法体会那种苦涩的真实。”至少，聚是一团火，散作满天星。</p>
+<p>“第一次，我不再是挑战正经与权威的破坏者，在一片道德废墟上，阿童木们想到了建设，建设公民的道德。多背一公斤的故事，乡村学校的年轻人，艾滋村的救助者，农村合作社的养猪传奇，贵州石门坎的妇女联合，点点滴滴的细流，温柔的人和力量。”事后，他在《去意彷徨的阿童木一代》写到投身NGO，创办《民间》的感想。</p>
+<p>2007年，翟明磊开始做《壹报》，“壹报主人”、“一个人的报纸”，他拿出当时毛笔字书写的名片，递给我，这是他执意逆流而上的标签。当时，“新媒体”的概念才刚刚展露头角，从地下刊物到线上杂志，从几个人的编委会到一个人的驻守，《壹报》就如《民间》的延续，首篇报道是《民间》最后一期关于龙泉土地斗争的新闻。</p>
+<p>在龙泉土地斗争的报道中，这一篇站在当权者“对立面”的公民记者之作，却意外成为了上下沟通的传声筒，在媒体的介入下，双方达成了“双赢”的协议。政府征地的同时，允许整个村庄加盖一层楼，政府不花一分钱，老百姓也获得了实际的好处。农民、区长打来感谢电话，赞翟明磊促进了官民矛盾的解决。</p>
+<p>公民记者的禁忌更少，跳出单声道的报道的禁区，经过磨合，甚至能承担谈判者的角色，翟明磊认为，“这是无可厚非的”，而且，“谈判最重要的不是互相妥协，一定要设计一个方案让大家都获得好处。”</p>
+<p>网络风气初开，包罗万象，公民社会得以借力而为。除了线下报道（如《震旦：汶川地震预报真相》等）得以在线上广外流传，社交网络的兴起，则为公民社会的发展提供了新的土壤。</p>
+<p>《壹报》在微博上进行了3次的线上公民课实验，每次长达6-7小时，从第一课《学会讲道理》开始，谈到公民守则、公民权利等等。翟明磊对当时愈演愈烈的线上互动讨论，印象深刻。他直言更主张社会动态的平衡，“互相要有刺激、博弈、斗争，互相保护自己的权利”。</p>
+<p>这种观点，大抵与坚持言论自由的初衷一致，在思想自由市场中，各类言论百花齐放，问题才得越辩越明，不要害怕不同的意见。通过强权、限制言论自由的静态平衡，往往隐藏着更深重的社会危机。</p>
+<p>端媒体近期发表的社评《万有引力之虫：从1984到美丽新世界》中提到，“2009到2011的两三年间，媒体上还能经常看到“公民社会”的字眼。遍地生长的沙龙，不断被拓展的话语禁区，和年轻人踊跃的参与，被看做是内地公民社会发育的曙光。才过了两三年，公民社会已经是“七不讲”之一，即使是私下发言，也无人再谈起这个概念”。</p>
+<p>《壹报》的公民课，意料之中地，被叫停了。</p>
+<p>“战胜一份恐惧就有了一份能量”</p>
+<p>与网络上“公民社会”的讨论语境一起衰亡的，是曾经声名显赫，敢怒敢言的南方系，随着纸媒的式微，齐齐隐没于虚拟的高墙之内，扼杀于缥缈的强国梦之中。蔓延的无力感在锥心地拷问着，曾经、依然、渴望活跃在调查记者、公民社会，NGO圈中的人们。是不愿自我“阉割”让他们走到了今天，讽刺的是，也许只有自我受限才能帮助他们走的更远。民间组织想要的是“对话”，无奈却总被视为“对立”。</p>
+<p>十年过去，翟明磊还是强调自己是一个“胆小的人”，这似乎很难让人相信。十年来，他时时为朋友两肋插刀，对抗“不可抗力”，常常为圈内人所道，“请喝茶”亦是家常便饭。他却认为，是“胆小”，让他依然可过上相对“平安”的日子。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.21.27.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.21.27.png" alt="Screen Shot 2015-10-20 at 上午11.21.27" width="398" height="299"></a></p>
+<p>“胆小和勇敢并不矛盾。战胜一份恐惧，就多了一份能量。”公民运动是讲求策略，要对“安全”敏感，行动果断。怀有谦卑心，与媒体打交道保持低调，需要不断地调整自己身心状态。“一个人不可能长久牺牲的，家庭无法支撑。”私人空间和公共空间要有心理隔水舱。</p>
+<p>而谈到作为调查记者的心态，他说也许有时报道本身比较成功，但是心里还是很难受，因为看不到报道带来的变化，增生了无力感与悲观，“这个思维还是传统‘士大夫’的心态，你承担了你不应该承担的责任，记者不应该有‘解决者’的负担。”而他却同时游走在记录者与解决者的角色之间，偏向于己任的抱负，一个“个人主义”的“士大夫”，“的确很幼稚，当做一个希望去做。”他希望和传统的士大夫不一样，不是在下野的地方暗自神伤，渴望回到庙堂，而是欣然在野，哭歌民意。</p>
+<p>他曾面临着抉择，是去做《民间》还是留在香港大学做研究？他决定还是要回到《民间》。</p>
+<p>他也有过一段沮丧的时期。在《民间》被查抄后，翟明磊言，干什么都提不起精神，“忧伤种在心理”。受陈婉莹、钱纲的邀请，他在香港逗留了一段时间，做学术访问，渐渐把憋在心里的那口气，缓缓地舒了出来。</p>
+<p>“我做民间的事，每一次从结果来说都是失败的。但屡败屡战，意义就在过程中……《民间》办了那么多期，我们已经赚到了。”他提起当年《民间》编委2006年度主编梁晓燕说的话。</p>
+<p>对于十年来，公益行业、公民社会的变化，言其感受是，“一言难尽”。</p>
+<p>总得有人去擦亮星星，<br>
+它们看起来灰蒙蒙。<br>
+总得有人去擦亮星星，<br>
+因为那些八哥、海鸥和老鹰<br>
+都抱怨星星又旧又生锈，<br>
+想要个新的我们没有。<br>
+所以还是带上水桶和抹布，<br>
+总得有人去擦亮星星。<br>
+　　  ——(美)谢尔·希尔弗斯坦《总得有人去擦亮星星》</p>
+<p>从《汉声》出发，回归民间</p>
+<p>2011年，翟明磊开始为台湾《汉声》杂志社工作，在此之前，他是《汉声》杂志的忠实读者，会自掏腰包淘来中文《汉声》的首刊。他现在也把自己在《汉声》的工作，视为另外一个回归民间的调查新闻采写，民俗田野调查加之人类学实践。</p>
+<p>现在，作为《汉声》杂志的上海负责人，他参与了《水八仙》、《大闸蟹》、《康乾盛世》等专辑的采访、撰写、排版、出版。本本《汉声》特辑从装帧到内容都极为考究，依据不同的主题而变，一本《汉声》可能经历了240小时的印刷，九九八十一难，把传统文化从视觉、触觉到头脑的体验，都糅合在一本书中。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.22.28.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.22.28.png" alt="Screen Shot 2015-10-20 at 上午11.22.28" width="296" height="387"></a></p>
+<p>打开翟明磊的工作笔记本，里面记录从选题开始的个人思路、会议记录等等，还配上了随手的画作、诗作，很是玩味有趣。</p>
+<p>他言，《汉声》杂志的工作，磨练了他的耐性和柔性。现在的自己，“文武双全”，“武”是参与公民运动的轰轰烈烈，而“文”能静性，是汉声杂志给予的契机与空间，他甚至还跑去了苏州，学习木刻。</p>
+<p>这十年，他总结了自己人生追求到了“真善美”：一个求真的记者，一个怀有善意初心的公民，一个投身于保护传统文化之美的工作者。</p>
+<p>“我没有成为我年轻时讨厌的那种人。”他哈哈笑地欣欣然，“虽无名无利无官无车，从这种意义上，我也算成功人士了吧。”</p>
+<p>他递过来他的新名片，依然是毛笔字所书，写着“且将世事花花看，莫把心田草草耕”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.23.04.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.23.04.png" alt="Screen Shot 2015-10-20 at 上午11.23.04" width="222" height="297"></a></p>
+<p>“下一个十年，你有什么期待？”</p>
+<p>“没有预期，保护文化为先。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.23.45.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.23.45.png" alt="Screen Shot 2015-10-20 at 上午11.23.45" width="182" height="169"></a></p>
+<p>本文为NGOCN原创采访，作者：黄姝伦。如需转载，请后台留言获取授权。媒体合作请联系yanggc@ngocn.net</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/ngocn-%E7%BF%9F%E6%98%8E%E7%A3%8A%EF%BC%9A%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%AC%A3%E7%84%B6%E5%9C%A8%E9%87%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E6%B0%91%E9%97%B4%E3%80%8B/?category=18271" rel="tag">《民间》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18271" rel="tag">NGOCN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D%E8%AE%B2/?category=18271" rel="tag">七不讲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%9F%E6%98%8E%E7%A3%8A/?category=18271" rel="tag">翟明磊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%A7%9D%E4%BC%A6/?category=18271" rel="tag">黄姝伦</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -931,76 +1039,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E8%89%BA%E4%BA%BA%E5%A9%9A%E7%A4%BC%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%A2%AB%E5%AE%98%E5%AA%92%E6%89%B9%E5%88%A4%E7%9A%84%E5%AF%B9%E8%B1%A1/" target="cdt-mirror">唐映红：明星艺人婚礼为何成为被官媒批判的对象？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%BB%84%E6%99%93%E6%98%8EAB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E9%BB%84%E6%99%93%E6%98%8EAB.png" alt="黄晓明AB" width="600" height="396"></a></p>
-<p><strong>问：明星艺人婚礼为何成为被官媒批判的对象？</strong></p>
-<p>答：<strong>黄晓明和Angelababy的高调婚礼引来了权力集团喉舌媒体的高调批判，其批判的语气和架势，明星婚礼宛若明星吸毒、明星嫖娼一样的丑闻。</strong>按理说，明星艺人花费自己的钱组织一场眩目的婚礼，其本身就是一场盛大的秀，与明星艺人的职业相符，于情于理于法都没有什么不妥的。一般来说，对明星艺人的批评和诟病应该是娱乐八卦媒体的“活儿”，批评他们品味、格调、假惺惺的扭捏作态、情不自禁的微表情、被晶莹的水晶和洋酒掩盖的醋意和较劲……。<strong>只要明星艺人的高调婚礼秀不涉嫌违法犯罪（如洗钱）或者明显违反社会道德（如公开表演模拟多P艳舞），权力集团豢养的喉舌媒体完全不必在这上面撕咬。</strong></p>
-<p><strong>喉舌媒体之所以着急上火地对明星艺人的婚礼开批，实际上是权力集团试图驾驭和控制社会意识形态的一系列努力之一。</strong>对明星艺人开批从吸毒、嫖娼开始，对涉黄涉毒的明星艺人进行上纲上线的舆论大批判，并以控制的媒体和渠道对大批判的明星艺人进行全面封杀。像被封杀艺人在《捉妖记》中业已拍摄完成的主角戏，也不得不换未封杀艺人重新拍摄一遍才得以公映。换言之，<strong>喉舌媒体高调批判明星艺人的盛大婚礼，不过是通过整治明星艺人来试图驾驭和控制意识形态一系列努力的其中一环，早已开始，远没结束。</strong></p>
-<p><strong>整治明星艺人以及娱乐业，从心理学角度其实就是争夺注意力的一种尝试。</strong>由于近10多年来，随着互联网的发展和娱乐业也得到极大的发展，并且成为吸引民众注意力的最大对象。<strong>权力集团通过媒体舆论进行新的意识形态的宣导和灌输，首先就需要吸引民众的注意力。</strong>在民众注意力资源有限的情况下，吸引民众注意力就有必要先行将最吸引民众注意力的娱乐业作为整治的对象。这是一种行之有效的途径。喉舌媒体通过各种方式来降低明星艺人的吸引力；监管部门则有步骤地禁止和限制境外节目的传播，限制内地娱乐节目的规模和发展，强制黄金时间的影视节目安排等等，这样就能<strong>为符合新意识形态的主旋律节目或议题腾出足够的注意力资源。</strong></p>
-<p>从心理学角度，新形势下的意识形态工作，特别试图推广和普及新意识形态，需要完成几个重要的步骤环节：<strong>吸引注意；博得好感；认同接纳</strong>。吸引注意是首当其中的重要环节。当民众的眼球被明星艺人美轮美奂的盛大婚礼所吸引，并付以极大热情来讨论，那么民众就不大可能分出太多的注意力来关注符合新意识形态的主旋律议题。更重要的是，<strong>主旋</strong><strong>律议题在自然的情况下是不可能竞争过娱乐八卦议题，</strong>对绝大多数民众来说，前者味同嚼蜡，后者如啜甜蜜。那么，<strong>有步骤地削弱、限制、抹黑和打压娱乐业，将有力地保障主旋律节目、议题能够得到所需要的关注度。</strong></p>
-<p>不过，<strong>即便赢得了“吸引注意”环节的胜利，对于最终目标的达成仍然近乎Mission Impossible。</strong>在公关心理学的基本要义里，高的关注度是把双刃剑，<strong>如果没有美誉度，高的关注度反而会带来负面效果</strong>。因此，<strong>权力集团苦心打造的主旋律节目或议题吸引了足够的注意力如果不能迅速地博得好感，那么高的关注度就完全可能成为适得其反。</strong>像一个多月前，比明星艺人用自己的钱举办美轮美奂的盛大婚礼更加奢靡百倍的动用纳税人的公帑来组织的某70周年活动，高调推出的某主旋律影片尽管在票房上机关算尽，但在豆瓣网站上最终只获得了4.3分的低分，<strong>比99%的历史片或战争片都低。</strong></p>
-<p>因此，尽管黄晓明和AB的盛大婚礼不幸成为了新的标靶，但对于权力集团试图赢得新意识形态争夺的伟大努力来说，<strong>然并卵</strong>。</p>
-<p>2015-10-20</p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%98%8E%E6%98%9F%E5%A9%9A%E7%A4%BC%E7%A7%80%E5%8F%AF%E4%BB%A5%E5%B0%91%E6%90%9E/" target="_blank">【异闻观止】人民日报| “明星婚礼秀”可以少搞些</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E8%89%BA%E4%BA%BA%E5%A9%9A%E7%A4%BC%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%A2%AB%E5%AE%98%E5%AA%92%E6%89%B9%E5%88%A4%E7%9A%84%E5%AF%B9%E8%B1%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9/?category=18271" rel="tag">公众人物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%B1%E4%B9%90%E5%9C%88/?category=18271" rel="tag">娱乐圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB%E6%84%9F/?category=18271" rel="tag">社会责任感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E9%9D%A2%E5%BD%B1%E5%93%8D/?category=18271" rel="tag">负面影响</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E6%99%93%E6%98%8E/?category=18271" rel="tag">黄晓明</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%BF%91%E5%B9%B3%E5%9B%9B%E4%BA%AE%E4%B9%A6%E5%89%91%EF%BC%8C%E6%84%8F%E5%9C%A8%E5%9C%9F%E6%B4%8B%E6%88%96%E9%A3%8E%E8%BD%A6/" target="cdt-mirror">美国之音｜近平四亮书“剑”，意在土洋或风车</a>
-</h2>
-<p><p>习近平主政以来已经多次在国内外亮出书单，他最近晒书单是在中国。他说世界文明瑰宝比比皆是，点了一百多位中外文学艺术大家的名字。他这几次晒书单涉及三位数以上中外作家、艺术家及他们的著作或作品。习近平说：最陶醉的是各国各族人民创造的文明成果。有评论人士说：若习近平真读过这些名著或吃透其精神，那么，他就不会成为一个反西方人士。</p>
-<p>就在习近平访英前夕，上周 （10月15日）新华社公布了习近平一年前在文艺座谈会上的讲话全文。习近平一年前那次会见文艺工作者，中国媒体推出并捧红了网络作家周小平、花千芳。</p>
-<p>习近平点的国内外名人</p>
-<p>不知为何一年前的讲话一年后才正式公布，但习近平这次讲话，提到了112位中外知名作家艺术家（中国31位，外国81位）。毛泽东73年前在延安也有一次文艺座谈会讲话，其精神（文艺为什么服务）成为中共执政后文艺界的发展方向和指导方针，被捧为文艺工作者创造源泉和神明。</p>
-<p>毛在那次冗长讲话中，外国人只提到了马克思、列宁，批判了托洛茨基；中国人只是数次褒奖鲁迅，并批判了“汉奸文艺”代表鲁迅弟弟周作人和张资平，一共不超过10个人名。</p>
-<p>习近平“青出于蓝胜于蓝”，这次文艺座谈会讲话，一举推荐112位中外名人，而不贬都褒。他提到了中国历史和当代31位名人当中，大多都是老子、孔子、庄子、孟子、李白、杜甫、王羲之、苏轼、关汉卿、曹雪芹等中国古代人物，剩下的都是鲁迅、郭沫若等改革、文革或中共执政前的历史人物。现代作家只有一位，那就是习近平上世纪八十年代在河边正定当领导时他的好友河北作家贾大山。</p>
-<p>在81位外国名作家艺术家当中，有希腊埃斯库罗斯等4位，俄罗斯普希金、果戈理、托尔斯泰、契科夫等18位（最后两位是前苏联导演斯坦尼斯拉夫斯基和舞蹈家乌兰诺娃），法国雨果、大仲马、小仲马、巴尔扎克等23位，英国莎士比亚、乔叟、拜伦、雪莱等10位，德国歌德、海涅、贝多芬、舒曼等10位，美国惠特曼、海明威，马克•吐温、杰克•伦敦等8位，意大利但丁、薄伽丘、米开朗基罗等6位，还有西班牙的塞万提斯和印度的泰戈尔各一位。</p>
-<p>在美国，习近平说他读过潘恩《常识》</p>
-<p>这次中国文艺座谈会是去年开的，习的讲话只是最新刚公布。其实，习近平最近一次亮书单，是他来美国国事访问期间。他在西雅图晚宴上说：中国人民一向钦佩美国人民的进取精神和创造精神。他还说：“我青年时代就读过《联邦党人文集》、托马斯•潘恩的《常识》等著作，也喜欢了解华盛顿、林肯、罗斯福等政治家的生平和思想，我还读过梭罗、惠特曼、马克•吐温、杰克•伦敦等人的作品。</p>
-<p>美国读者高胜寒发网文说：共有85章的《联邦党人文集》奠定了美国法治与体制根基。他说，该文又名新宪法，是奠定美国宪法和政治体制的理论基础，作者是詹姆斯•麦迪逊、亚历山大•汉密尔顿和约翰•杰伊。</p>
-<p>该文说，麦迪逊是美国宪法之父、开国元勋；汉密尔顿是思想家、理论家、开国元勋和第一任财政部长；杰伊是美国第一任国务卿、第一任最高法院院长、纽约州长、外交家、法学家和理论家。</p>
-<p>“整个联邦党人文集的主题，就是如何建立一个民主自由的强大共和体制，更主要的是，如何防止寡头专制的暴政独裁在新的共和国产生。”</p>
-<p>文章说，联邦党人文集主张司法独立，建立法官职位终身制，该制度美国至今依然采用，而中国的司法独立在哪里？热爱“人民民主专政“的习近平，他的联邦党人文集，都读到哪里去了？</p>
-<p>至于习近平说他读过潘恩的《常识》，文章说：潘恩37岁移民美国，当过裁缝，抬过棺材，当过老师和编辑，于1776年出版《常识》（Common Sense），鼓吹脱离英国独立，他认为，英国皇家和议会，剥夺了北美人民的天赋权利。</p>
-<p>他支持共和体制，因为其来自选举：“选民与被选者之间这种频繁互换，自然而然能建立整个共同体厉害与共的意识，治者与被治者也自然而然会彼此支持。一个政府的力量，基础就在这种相互支持，而不在毫无意义的国王名义。”</p>
-<p>潘恩的名言包括：“压迫常常是财富的后果，而很少是或根本不是致富的手段。”“许多人因恐惧而服从，另一些人因迷信也服从，一部分有权有势的人则帮附国王对其余的人进行掠夺欺诈。”。</p>
-<p>高胜寒说：在影响美国的20本书中，《常识》排行第一。美国第二任总统约翰•亚当斯说：“如果没有《常识》作者那支利笔，乔治•华盛顿的宝剑将徒劳无用。”</p>
-<p>习近平提到的美国诗人惠特曼（代表作《草叶集》）是十九世纪末著名人文主义者。高胜寒说：人文主义的最大特征，是关怀人性、维护人性尊严、慈悲宽容、反对暴力，提倡自由，实行民主，主张文明、鼓吹理性、仁慈和博爱的和谐社会。</p>
-<p>美国作者陈明说：就习近平在美国所晒书单而言，他所列举的名家名著的基本内容和思想精神，跟他以及他所领导的中国共产党宣传部门所提倡的意识形态和思想言论控制政策背道而驰。</p>
-<p>在索契，习近平推荐名人与俄罗斯异同</p>
-<p>近年来，习近平数次在俄罗斯提到他读过的俄罗斯/苏联名人名著。他这次在文艺昨天会上提到的俄罗斯名人，其中高尔基和肖洛霍夫是苏联作家。习近平出席索契冬奥会时提到他读过的俄罗斯/苏联作家作品。习近平在索契说，读书已经成了我的一种生活方式。</p>
-<p>作者朱学东在新浪博客说：索契冬奥会上俄罗斯方面也提到了12名俄罗斯/苏联文学巨匠，其中，有一半和习近平提到的重合，另一半是习近平没有提到的，他们都是苏联时期的文学大家。</p>
-<p>这些人是诗人马雅可夫斯基（自杀）；诗人阿赫玛托娃（曾被苏共中央点名批判，丈夫被枪毙，儿子被逮捕）；诗人茨维塔耶娃（自杀，丈夫被枪毙，儿子战死疆场）；诗人布罗茨基（诺奖得主获刑被苏联驱逐出境）；布尔加科夫（苏共认其作品反苏，长期遭禁）和索尔仁尼琴（著名流亡异议作家代表作《古拉格群岛》）。</p>
-<p>因为苏联“变天”而抨击那里“竟无一人是男儿”的“七不讲”提倡者习近平，曾数次访问俄罗斯，多次提到俄罗斯/苏联文学。美国作者陈明说，习近平在俄罗斯大晒书单的同时，露了一个大怯，那就是数次提到已被俄罗斯不提或有意忘却的苏共歌颂者奥斯特洛夫斯基。</p>
-<p>习近平2014年去索契，曾在当地电视台讲了这样的话：“我年轻时多次读过《钢铁是怎样炼成的》这本小说，奥斯特洛夫斯基就是在索契完成了这部著作。传说普罗米修斯曾经被禁锢在索契的群山之中，索契保留着不少罗马帝国、拜占庭帝国的遗迹，这足以说明索契是一个历史悠久的文化名城。”</p>
-<p>但是，习近平对奥斯特洛夫斯基的称赞，在中国国内媒体却找不到，原来是中国文宣部门将此删掉。</p>
-<p>2013年3月，习近平也曾提到奥斯特洛夫斯基，他把奥氏称为“俄罗斯文学巨匠，”跟普希金、托尔斯泰等真正的俄罗斯文学大家相提并论。陈明说，习这样捧奥氏，结果闹了个国际笑话，导致中共宣传机关忙不迭地给习近平“退红”，删除奥斯特洛夫斯基。</p>
-<p>问题在于，有了其一，为何还会有其二。既然第一次“露怯”已被纠正，为何次年再犯同样错误？</p>
-<p>在欧洲，习近平亮出的书单</p>
-<p>习近平去年初到法国曾点到了一堆法国大家名字：孟德斯鸠、伏尔泰、卢梭、狄德罗、圣西门、傅立叶、萨特、蒙田、拉封丹、莫里哀、司汤达、巴尔扎克、雨果、大仲马、乔治桑、福楼拜、小仲马、莫泊桑、罗曼•罗兰。</p>
-<p>三月在德国，他又提到一批德国名字：歌德、席勒、海涅、莱布尼茨、康德、黑格尔、马克思、海德格尔、马尔库塞。</p>
-<p>北京近代史学者章立凡周一在美国之音节目上说，从习近平晒出的书单来看，他颇为博学，各种名著名人，娓娓道来，无所不包。他说：如果习近平真的把这些名著都读过，吃透，那么他就不会是一位反西方人士。但是，从他执政以来实行的政策来看，都是和西方文明格格不入，起码是相互对立的。</p>
-<p>作为领袖，该读哪些书</p>
-<p>网友渔阳山人发文说，习近平应多读些中外近、现代的史学和政治书籍，“这正是他的书单所欠缺的。”他说，读书，不能生搬硬套，更不要去掉书袋，要经过思考，做顺应历史潮流、符合公理人心的事情，这才是学以致用。他说，有人看到斯大林书架上竟然有制革工业的专著便感慨：斯大林同志博览群书。毛泽东更不必说，一张大床书就占了一半。《资治通鉴》通读了多遍。他说，其实即使书读得多，如果想歪了也照样坏事。“苏联和中国的教训还少吗？”</p>
-<p>渔阳山人说，他推荐习近平读两部史学大作：上海学者沈志华主编的《一个大国的崛起与崩溃。苏联历史专题研究（1917-1991）》；他说，读了这本书，习也“不至于说出‘苏联解体，竟无一人是男儿’这样的蠢话来。”</p>
-<p>第二本是威廉•夏伊勒的(William I. Shirer)《第三帝国的兴亡—纳粹德国史》。渔阳山人说，从1933年到1937年，当年的纳粹政权以希特勒和纳粹党的意志为法律，迫害政治异见者、迫害教会、文化的纳粹化、对报刊、广播和电影的控制、以及纳粹洗脑教育等，在今天的中国都可以找到影子。</p>
-<p>这位作者说，如果习近平读过这本书并做过一番深思熟虑，他就不会贸然召开那个愚不可及的文艺座谈会。他难道不知道，他在会上列举的那些名著，没有一部是由于国王、总统或者总书记召开文艺座谈会而产生的？他表扬的那两位所谓“网络作家”（周小平、花千芳），不过是中共愚民宣传的受害者，和纳粹德国那些被骗的人毫无二致？</p>
-<p>渔阳山人说：其实何止这两位网络作家，连习先生自己也深受几十年洗脑之害而不自知，这正是他的悲哀之处。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%BF%91%E5%B9%B3%E5%9B%9B%E4%BA%AE%E4%B9%A6%E5%89%91%EF%BC%8C%E6%84%8F%E5%9C%A8%E5%9C%9F%E6%B4%8B%E6%88%96%E9%A3%8E%E8%BD%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1012,7 +1050,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1022,5 +1060,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

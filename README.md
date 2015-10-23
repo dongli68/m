@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,23 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/voa%E5%8D%AB%E8%A7%86%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="cdt-mirror">VOA卫视｜习近平访英相关报道</a>
+</h2>
+<p><p>VOA卫视第一小时主要内容包括国际新闻、VOA连线、媒体观察和OMG美语。正在英国访问的中国国家主席习近平今天与首相卡梅伦举行会谈，双方可以谈及哪些议题? 英国各界对习近平的到访有哪些反应?我们有来自伦敦的现场报导。另外，越南是否可能先中国一步，走上民主道路，媒体观察将有深入介绍。</p>
+<p></p>
+<p></p>
+<p></p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/voa%E5%8D%AB%E8%A7%86%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/voa%E5%8D%AB%E8%A7%86/?category=18271" rel="tag">voa卫视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BE%AF%E8%99%B9%E6%96%8C%EF%BC%9A%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85%E5%90%88%E5%A8%B6%E8%80%81%E5%A9%86%EF%BC%9F%E5%8F%AA%E8%83%BD%E6%AD%BB%E5%BE%97%E6%9B%B4%E5%BF%AB/" target="cdt-mirror">侯虹斌：低收入者合娶老婆？只能死得更快</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85-%E5%85%89%E6%A3%8D.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85-%E5%85%89%E6%A3%8D.png" alt="低收入者 光棍" width="600" height="276"></a></p>
@@ -1004,53 +1018,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%B8%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%94%B0%E5%9B%AD%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E8%80%85/" target="cdt-mirror">【网络民议】“田园女权主义者”</a>
-</h2>
-<p><p>@也要楚天阔：计生把女性从无休止的生育中解放出来，使得她们在职场上能跟男性齐驾并驱。并让独生女孩享受到跟男孩同等的教育资源，为女性就业提供了基础。只要两三代女性成长起来，就足以撼动几千年来的男权根基，到那时再也不需要政府以计生的形式帮忙了。所以，计生是一个权宜之计，为女性站起来腾出时间和空间。</p>
-<p>@也要楚天阔：我们女权主义者支持计生，绝不是支持国家控制子宫，而是在现有情况下，绝大多数女性都无力跟男权抗衡，不得不违心生育。与其被男权强迫多生、生男孩，不如跟国家结盟，至少国家支持不生、少生和生女孩。两害取其轻，等到我们这一代奋斗出更平权的社会后，自然就不再需要计生了。现在取消还不是时候。</p>
-<p>@也要楚天阔：国家严厉禁止胎儿性别筛选，就是为女性腾出空间。在一段历史时期内实行计生，客观上为女性腾出时间。我们要抓住这个机会，从各方面争取平权，下一代日子就好过一些了。她们站在我们的肩膀上，可以在更高层面继续争取平权。</p>
-<p>@也要楚天阔：女性对子宫拥有绝对自主权，是我们追求的终极目标。但现阶段支持计生，是一种策略和变通，是斗争的智慧。有时候，必须迂回一下，才能走到彼岸。</p>
-<p>@也要楚天阔：国家从来没有剥夺生育权，只是控制生育数量的上限而已。实际上，正常的人类更迭数量也就是1-2个，发达的、男女相对平权的国家也保持在1-2个。国家强制1-2个，奖励独生子女，禁止性别筛选，非常科学合理。我们努力的方向不也是让大多数人心甘情愿自发生1-2个嘛。超出2个的繁殖狂多是穆斯林和印度教徒。</p>
-<p>@也要楚天阔：男性大可不必气急败坏。讨论计生话题，是我们女性的事，你们只是旁观者。因为你们没有子宫，也就没有生育权。你们只有生育意愿。如果要严格界定的话，你们拥有部分消极生育权：拒绝提供精子。如果精子一旦进入女性子宫，成为受精卵之后，你们就无权控制了。至于积极生育权，对不起，你们没有。</p>
-<p>更多该微博网友<a href="http://weibo.com/yangxue800226" target="_blank">言论</a>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CR0p4YoUAAAYExn.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CR0p4YoUAAAYExn.jpg" alt="CR0p4YoUAAAYExn" width="550" height="651"></a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p><em>这是个小号你发现了么：我不听我不听，你看那被流产的孕妇多可怜，你看那娶不到保姆的屌砸多可怜，你看那没有女儿牺牲的家庭多可怜，我就要生生生，我相信生多了，男权肯定会善待他的奴隶的，不要打扰我的奴隶升职梦。</em></p>
-<p><em>mysouljuly_最近有点烦：博主你坚持住啊 繁殖蟑螂先锋部队已经赶来了。</em></p>
-<p><em>杀不死的白细胞等着我变得更强大：男权公狗和男权婊子披着取消计生交还女性多生权利的羊皮，掩盖劫持女性子宫的狼心。凡是不承认绝大多数女性无法自主自由生育这一现实，而妄谈取消计生的都是耍流氓。</em></p>
-<p><em>follwind：计生虽然是邪恶的政策，但竟然也促进了男女平等。这是男人反计的原因，没有计生的话，男人除了父母妻子还有姐妹可以啃啊。计生大程度上抑制了繁殖癌的蔓延，也提高了女孩的地位，解放了育龄妇女的生育负担。这并不是计生的初衷，但却是带来的好的一面，有些人称这是“爱党女权”，跟爱党有毛关系？！</em></p>
-<p><em>小红帽的玻璃房子：是的，自己想多生是一回事，被逼多生又是另一回事了。身边很多女性不想生二胎，但是只要是和公婆住一起的，最后都得生，工作很好的也被逼辞职带孩生二胎，且人老公赚得并不多。只有那些自己比老公赚得多优秀得多又不和公婆住一起的，才敢理直气壮地决定不生了。婚姻是二次投胎，一点没错。</em></p>
-<p><em>暮之未央：不难看出来，强制生和强制不生，危害哪个小。再者，处理同一个问题，庞大的权力机器和某个特定的父权家庭相比，显然前者更为理性眼光也相对长远得多。支持计生，两害相权取其轻罢了，看不懂这句话还想胡搅蛮缠的都散了吧。</em></p>
-<p><em>月亮使人发狂：本人支持用极右法西斯的方法对付那些繁殖癌，就如同德国对穆斯林难民无可奈何那样，你能跟那些繁殖癌讲道理吗？讲民主自由还是普世啊？他们听不懂。</em></p>
-<p><em>西瑟大人：他们当然气急败坏，他们觉总有一个女性的子宫是他们的。而现在子宫居然成精要分家自己当家做主。他们能不气急败坏吗？要我是男的我也气坏了。你们是偷了我的东西啊。就算是用男权强抢来的那也是我的。</em></p>
-<p><em>维斯特洛的狼灵：而且如果是国家盯着女性的子宫，计生系统才多少人，真想生总有盯不到的时候。但在男权社会的家庭里，几个人每天24小时盯着一个子宫，呵呵。国家只流产胎儿，男权家庭可是会砍死媳妇的。</em></p>
-<p>——————————</p>
-<p>张小培的小点心：计生不是让更多的女婴被流掉吗？哪里为男女平等作出贡献了？</p>
-<p>专业起哄：先谈人权再谈女权好么？女人毕竟先是人。</p>
-<p>草根自媒体：没有计生名额的限制，谁会选择杀死自己的亲骨肉？没有计生，她们都有机会活下来。</p>
-<p>smart_yan：奇怪的是反对传统生育观却不直接面对，倒要借助国家力量。昨天为控制人口可以让你少生，明天为解决人口危机又会鼓励多生。剩女一词不就在官方话语中大行其道吗？不要想什么利用国家了，真的没有资格，只会被利用。</p>
-<p>叶脉-蓝色帝国：两三代女性就能撼动男权社会。这想法太天真了。共和国都60多岁了，必须生男娃传宗接代还是多少人的思想核心？</p>
-<p>damyata：对你国田园女权主义者，不服不行。</p>
-<p>sunzhiyi：真服，与虎谋皮田园女权派。</p>
-<p>我讲旧故事：说到底有些女权主义者之所以支持计生，无非就是因为短视和怯懦。理论上讲的女权的终极目标是消灭不平等，冷血才女之前也说女权必然激进。而到了实践中，她又觉得强权政府可暂时利用来弥补你国落后的女权意识。真正的激进主义，如窝老，首先关心的是理论和方法正确，不屑参与这种蝇营狗苟的权宜算计。</p>
-<p>管荣君同志：性奴让女人们饱偿性生活的美妙，让女性从虚伪的性道德下解放出来，尽可能不受他人影响地与多个人发生性关系。所以，性奴实际上是对女性的最大关爱。</p>
-<p>女巫的吸尘器：想生生，不想生不生，这才是人权。计划生育这种恶法居然能拿女权来洗地了，真要有心逼着女的生孩子的，你以为个国家政策管得住？只不过给了计生委机会坐着数“社会抚育费”罢了。</p>
-<p>艹长老105：一会儿说“要与国家结盟”，一会儿又说“想生就生，不想生就不生”。这哪里是什么“女权”，这是贱人中的“女贱”。</p>
-<p>张奈儿_：中国田园女权主义的典型代表。连基本人权都不要还想争女权？还要抓多少女权运动主义者你才能不说这种蠢话啊？</p>
-<p>gongminyaoyao：几个月前在一个微信群里刚说，一些女权对生育的解读会导向他们支持计划生育……竟然成真了。</p>
-<p>GYTV：你国女权主义先搞清楚什么是女权好么？</p>
-<p>rheingold ：另外我觉得拿女权主义观点来说计生这事挺好的，可惜好像有一部分人没分清边界。人口是一种社会资源，鼓励(非强制)生育，并不是把女人等同于生物机器。女权要争取的是无论在鼓励还是限制生育的社会中女性(并延伸到男性)，都能够合理地拥有生育权，拥有选择权。</p>
-<p>常少波：跟国家结盟！这个太搞笑了，我现在跟习大大结盟，共同建设社会主义现代化强国！</p>
-<p>follwind：如果女人自有生育权，在计生条件，就不会有堕女胎生儿子的情况出现，讲话凭良心伐。计生下堕女胎，恰恰是女人没有生育自主权的体现。</p>
-<p>Baguette-le-Cric：中华田园女权主义者，会在自称女权主义者的同时支持计生，会把一些人当人而不把另一些人当人，会缺乏基本的人权意识，并且思维缺乏逻辑时常自相矛盾混淆主观与客观讨论问题连举证责任都不知道。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%94%B0%E5%9B%AD%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E8%80%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3/?category=18271" rel="tag">人口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2/?category=18271" rel="tag">生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E5%8A%9E/?category=18271" rel="tag">计生办</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1072,5 +1039,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-22%E6%97%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E5%8D%A1%E6%A2%85%E4%BC%A64%E5%B0%8F%E6%97%B6%E8%B0%88%E8%AF%9D%E6%91%98%E8%A6%81/" target="cdt-mirror">【习总日记】 22日习近平与卡梅伦4小时谈话摘要</a>
@@ -106,6 +106,34 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 <a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9D%83%E5%8A%9B%E5%A4%A7%E6%97%A0%E8%BE%B9-%E3%80%8C%E6%96%B0%E4%B8%9C%E5%8E%82%E3%80%8D%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8E%82/?category=18271" rel="tag">东厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%9A%E7%BB%B4%EF%BD%9C%E6%8A%93%E8%B5%B5%E6%99%8B-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8E%8C%E6%8F%A1%E6%B6%89%E9%BB%84%E4%BC%9A%E6%89%80%E5%90%8D%E5%8D%95-%E5%A4%A7%E6%89%B9%E9%AB%98%E5%AE%98%E5%B0%86/" target="cdt-mirror">多维｜抓赵晋 王岐山掌握涉黄会所名单 大批高官将陆续被抛出</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2012/05/fubai.jpg" alt="fubai" width="381" height="500"></p>
+<p>原江苏省委秘书长赵少麟之子赵晋以开设私人会所为高官权贵提供性服务并偷拍的消息此前早有报道，而涉及的一些高官也陆续浮现，除了已确认的原济南市委书记王敏等人，另有诸多高级别官员。此前有分析认为，中纪委书记王岐山早已藉赵晋提交的资料，掌握系列涉黄名单，大批涉事高官将陆续被以贪腐之名抛出。周永康、令计划或许也牵其中。</p>
+<p>周本顺频繁出入赵晋涉黄会所</p>
+<p>北京时间 10 月 16 日，中纪委通报河北省委书记周本顺“双开”时提及，周本顺“频繁出入私人会所”，这一消息再度引发外界对此前中国官媒确认有大批高官卷入赵晋案并出入涉黄会所的关注。</p>
+<p>2014 年 6 月，大陆地产商赵晋及其公司多名高管被纪检人员带走。 4 个月后，其父江苏原省委常委赵少麟被调查。赵晋是周本顺的干儿子，与周本顺之子周靖是多年好友，官媒报道说，赵晋被抓后周靖还四处“为赵晋案活动”。</p>
+<p>周本顺作为赵晋的“干爹”想必也不少出入其涉黄会所</p>
+<p>据陆媒《澎湃新闻》报道，赵晋在北京高档小区缘溪堂有私人会所，连买带装修耗资 1 亿元，去年 5 月 1 日刚刚投入使用。而知情人士透露，赵晋不仅为官员提供会所服务，还提供色情服务，并以偷拍作为要挟。</p>
+<p>王敏被从录像认出 颜世元涉及</p>
+<p>赵晋被抓后，会所偷拍录像中的人物已经次第显形。报道援引赵晋公司内部人员确认，去年 12 月被查的原济南市委书记王敏，就是被从录像中认出来的。今年初，中纪委网站曾刊文指，王敏曾于 2014 年 6 月借到中央党校之机，潜入赵晋在北京的会所吃喝玩乐。</p>
+<p>2015 年 7 月，山东原省委常委、统战部长颜世元被免职后，有山东政界人士表示，颜世元曾陪同王敏出入赵晋在北京的豪华会所。</p>
+<p>另有消息说，周永康与令计划结盟是周本顺居中牵线，但不是在法拉利车祸之后而是之前。文章称，两人当年“结盟”的初次会面地点就是周本顺老婆段雁秋的干儿子赵晋在北京的会所。</p>
+<p>文章还补充说，已经落马的“大老虎”周永康和令计划，被曝光大量性丑闻，两人均拥有众多情妇，周永康更被称为“百鸡王”。两人或是赵晋会所的常客。</p>
+<p>涉黄会所高官名单还很长</p>
+<p>接近赵晋的知情人士表示，出入赵晋会所的政商名流超过百人。而中国官媒《中国新闻周刊》报道，在赵晋的圈子中，有一份长长的名单：他的父亲赵少麟，国家行政学院原常务副院长何家成，山东省委原常委、济南市原市委书记王敏，江苏省委原常委、南京市原市委书记杨卫泽，天津市政协原副主席、天津市公安局原局长武长顺，阵容之豪华令人咋舌。</p>
+<p>北京观察人士认为，已被公布的赵晋“朋友”还只是落马的部分官员，超过百人可能都是相当级别的中共党政要员。而这些高官无一例外，都是会所色情服务的常客。</p>
+<p>7 月 27 日，海外媒体有文章推测，在抓了赵晋等人之后，王岐山手头必然已握有涉及会所淫乱的系列名单。但为免过度震荡，很可能一个一个地抛出。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%9A%E7%BB%B4%EF%BD%9C%E6%8A%93%E8%B5%B5%E6%99%8B-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8E%8C%E6%8F%A1%E6%B6%89%E9%BB%84%E4%BC%9A%E6%89%80%E5%90%8D%E5%8D%95-%E5%A4%A7%E6%89%B9%E9%AB%98%E5%AE%98%E5%B0%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -934,61 +962,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E6%9C%80%E4%B8%A5%E5%85%9A%E7%BA%AA%E5%85%AC%E5%B8%83%EF%BC%9A%E5%A6%84%E8%AE%AE%E5%A4%A7%E6%94%BF%E6%96%B9%E9%92%88%E5%8F%AF%E5%BC%80%E9%99%A4/" target="cdt-mirror">新京报 | 中央最严党纪公布：妄议大政方针可开除党籍</a>
-</h2>
-<p><p>新京报讯 历时14个月，重修后的<a href="http://news.sina.com.cn/c/nd/2015-10-21/doc-ifxizwti6817718.shtml" target="_blank">《中国共产党纪律处分条例》</a>昨日正式发布。新条例将“妄议中央大政方针，破坏党的集中统一”列入违反政治纪律“负面清单”，规定该类行为情节较轻的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分。</p>
-<p>旧版《中国共产党纪律处分条例》制定于2003年。2013年11月发布的首个党内法规制定工作五年规划《中央党内法规制定工作五年规划纲要（2013－2017年）》将条例修改提上日程。今年1月在中纪委五次全会上，习近平对条例修改提出“突出重点、针对时弊”要求。中纪委书记王岐山也多次提出，新条例要成为从严治党的一把尺子、广大党员的基本底线。</p>
-<p>中纪委特约监察员、中国政法大学副校长马怀德接受新京报采访时表示，新条例体现出习近平、王岐山提出的上述修改要求，删除了旧条例中70余条与刑法、治安管理处罚法等法律法规重复的内容，“旧条例最大的问题是纪法不分，近一半内容跟刑法、治安管理处罚法等法律法规重复”。</p>
-<p>马怀德表示，新条例将旧条例的10类违纪行为分类方式，整合为六类：政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律、生活纪律，并明确列出每一类的“负面清单”，“群众纪律、生活纪律都是旧条例没有的分类方式，各类违纪行为的‘负面清单’中补充了十八大以来新发现的问题，拉帮结派、搞老乡会、妄议中央等，针对时弊，针对性强，真正体现出党纪严于国法”。</p>
-<p><strong>新词1 【政治纪律“负面清单”】</strong></p>
-<p><strong>妄议中央大政方针 团团伙伙</strong></p>
-<p><strong>对抗组织审查</strong></p>
-<p><strong>搞团团伙伙情节严重可开除党籍</strong></p>
-<p>对比旧条例，新条例政治纪律“负面清单”至少出现了三个新提法：“妄议中央大政方针，破坏党的集中统一”、“在党内搞团团伙伙、结党营私、拉帮结派、培植私人势力或者通过搞利益交换、为自己营造声势等活动捞取政治资本”、“对抗组织审查”。</p>
-<p>此前，中纪委通报的官员查处通报中，未提及哪一位官员有“妄议中央”问题。不过，10月19日上午，河北省委先后召开常委扩大会议和全省领导干部会议，传达经中央政治局审议通过的《中共中央纪律检查委员会关于给予周本顺开除党籍开除公职处分的决定》，会议提出，坚决与周本顺划清界线，“必须对党绝对忠诚，决不能阳奉阴违、妄议中央”。</p>
-<p>新条例规定，通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式妄议中央大政方针，破坏党的集中统一的，情节较轻的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分。</p>
-<p>新京报统计，十八大以来查处的省部级及以上官员中，其背后多有一帮官员与之有利益勾连，形成“帮派”“团伙”。如“秘书帮”、“石油系”等。</p>
-<p>新条例规定，在党内搞团团伙伙、结党营私、拉帮结派、培植私人势力或者通过搞利益交换、为自己营造声势等活动捞取政治资本的，给予严重警告或者撤销党内职务处分；情节严重的，给予留党察看或者开除党籍处分。</p>
-<p><strong>新词2 【组织纪律“负面清单”】</strong></p>
-<p><strong>老乡会、校友会、战友会</strong></p>
-<p><strong>非组织活动 不如实报告个人事项</strong></p>
-<p><strong>参加自发成立的老乡会可撤职</strong></p>
-<p>对比旧条例，新条例组织纪律“负面清单”新增规定：党员领导干部违反有关规定组织、参加自发成立的老乡会、校友会、战友会等，情节严重的，给予警告、严重警告或者撤销党内职务处分。</p>
-<p>同时新增规定：违反有关规定取得外国国籍或者获取国（境）外永久居留资格、长期居留许可的，给予撤销党内职务、留党察看或者开除党籍处分。</p>
-<p>此外，组织纪律“负面清单”中的新提法还有“非组织活动”、“不如实向组织说明问题”、“不执行请示报告制度”、“不如实报告个人事项”，以及“篡改、伪造个人档案”等。</p>
-<p>2013年和2014年，习近平两次在不同场合表示，党的干部来自五湖四海，不能借着老乡会、同学会、战友会等场合，搞小圈子、拉帮结派、称兄道弟，“宗派主义必须处理，山头主义必须铲除”。今年1月，中纪委研究室理论研究处处长苏静做客中纪委官网时也曾表示，“有些干部聚在一起搞同乡会、同学会，黄埔一二三期这么论，看似漫无目的，其实是醉翁之意不在酒，是要结交情谊，将来好相互提携”。</p>
-<p>违规获得外国国籍或外国“绿卡”近期也有案例通报。本月9日，科技日报社原副社长汤东宁就因违反了该规定，自己和配偶子女都违规获取了英国永久居留权，被开除党籍、撤职，并由三级职员降为六级职员。</p>
-<p><strong>新词3 【廉洁纪律“负面清单”】</strong></p>
-<p><strong>权色交易 钱色交易</strong></p>
-<p><strong>搞权色交易可撤职、开除党籍</strong></p>
-<p>廉洁纪律“负面清单”新增规定：搞权色交易或者给予财物搞钱色交易的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分。</p>
-<p>“权色交易”、“钱色交易”也是十八大以来的高频词。如铁道部原部长刘志军案，其与丁书苗的利益勾连就存在“权色交易”、“钱色交易”问题。</p>
-<p>廉洁纪律“负面清单”新增内容还至少包括八项规定执行中的8大集中问题：大吃大喝超标准、超范围接待；滥发津贴补贴、奖金；违规配备使用公车；楼堂馆所违规；违反会议活动管理规定举办各类节会、庆典；违规接受宴请或旅游、健身、娱乐等活动；收受超出正常礼尚往来的礼品、礼金、消费卡；违规持有会员卡、高尔夫球卡等各种消费卡，或出入私人会所。</p>
-<p>八项规定执行以来，中纪委通报了大量违反上述8类问题的案例。以打高尔夫球和出入私人会所为例，广州市委原书记万庆良多次出入私人会所，在被组织调查的前几天，还到会所里面去大吃大喝；海南原副省长谭力被中纪委调查之前，还在外省由私营企业的老板陪同打高尔夫球。</p>
-<p><strong>新词4 【生活纪律“负面清单”】</strong></p>
-<p><strong>不正当性关系 生活奢靡</strong></p>
-<p><strong>公共场所不当行为</strong></p>
-<p><strong>利用职权与他人发生性关系从重处分</strong></p>
-<p>生活纪律“负面清单”将旧条例中的“与他人通奸”、“包养情妇（夫）”提法，修改为“与他人发生不正当性关系”，并提出：利用职权、教养关系、从属关系或者其他相类似关系与他人发生性关系的，从重处分。</p>
-<p>对此，中央党校党史部主任谢春涛表示，范围扩大到“与他人发生不正当性关系”，使纪律处分的面更宽更严。</p>
-<p>十八大以来，“与他人通奸”成为中纪委通报中的热词，令计划、周永康、武长顺等20余名官员的通报中都出现了这一表述。周永康“与多名女性通奸并进行权色、钱色交易”；令计划“与多名女性通奸，进行权色交易”。</p>
-<p>生活纪律“负面清单”中的新提法还有“生活奢靡、贪图享乐、追求低级趣味”、“违背社会公序良俗，在公共场所有不当行为”等。而有其他严重违反社会公德、家庭美德行为的，应当视具体情节给予警告直至开除党籍处分。</p>
-<p><strong>新词5 【群众纪律、工作纪律“负面清单”】</strong></p>
-<p><strong>盲目铺摊子 优亲厚友</strong></p>
-<p><strong>盲目上项目致利益受损可撤职</strong></p>
-<p>群众纪律“负面清单”中，新增侵害群众利益、漠视群众诉求、侵害群众民主权益等内容，“不按照规定公开党务、政务、厂务”和“救灾救济款物分配优亲厚友、明显有失公平”等，均被列入“负面清单”中。</p>
-<p>此外，还首提“形象工程”：“不顾群众意愿，盲目铺摊子、上项目，致使国家、集体或者群众财产和利益遭受较大损失的，对直接责任者和领导责任者，给予警告或者严重警告处分；情节严重的，给予撤销党内职务或者留党察看处分”。</p>
-<p>工作纪律“负面清单”则至少新增了两个新提法：“不履行全面从严治党主体责任或者履行全面从严治党主体责任不力”；“干预和插手市场经济活动”。</p>
-<p>历次中央巡视反馈的问题表明，干预和插手建设工程项目承发包、土地使用权出让、房地产开发与经营、矿产资源开发利用、“红顶中介”等是高发问题，多个巡视点被查出这个问题。</p>
-<p>本版采写/新京报记者 王姝</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E6%9C%80%E4%B8%A5%E5%85%9A%E7%BA%AA%E5%85%AC%E5%B8%83%EF%BC%9A%E5%A6%84%E8%AE%AE%E5%A4%A7%E6%94%BF%E6%96%B9%E9%92%88%E5%8F%AF%E5%BC%80%E9%99%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA/?category=18271" rel="tag">党纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%9B%BD%E6%B3%95/?category=18271" rel="tag">党纪国法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">党纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E5%A4%A7%E6%94%BF%E6%96%B9%E9%92%88/?category=18271" rel="tag">妄议大政方针</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%BA%AA%E5%BE%8B/?category=18271" rel="tag">政治纪律</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1000,7 +973,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1010,5 +983,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

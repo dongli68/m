@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9D%83%E5%8A%9B%E5%A4%A7%E6%97%A0%E8%BE%B9-%E3%80%8C%E6%96%B0%E4%B8%9C%E5%8E%82%E3%80%8D%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96/" target="cdt-mirror">太阳报｜中纪委权力大无边 「新东厂」横空出世</a>
+</h2>
+<p><p>中共中央发布长达一万八千多字的新版《纪律处分条例》，将旧条例十种违纪行为分类方式整合为六种──政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律、生活纪律，并明确列出每一类的「负面清单」。同时，在中共十八大后新发现的问题，诸如拉帮结派、搞老乡会、妄议中央等皆列入其中。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/k9nnnnnnnnnnnnnnnnnnnn.jpg" alt="k9nnnnnnnnnnnnnnnnnnnn" width="547" height="341"><br>
+王岐山现在扮演的就是习近平的东厂和锦衣卫，权力空前强大</p>
+<p>新版条例是王岐山主政中纪委以来进行制度反腐的一大举措。据说，此前王岐山曾咨询党内各个层级的意见，最终成稿。然而，条例推出后，评价好坏参半，有人称这是从严治党的样本；亦有人说条例存在模糊空间，导致中纪委权限过多，难以落实。</p>
+<p>以「妄议中央大政方针」为例，表面上是为了确保中央政令统一，改变过去「政令不出中南海」的歪风，但由于缺乏具体内容和明确界限，充满灰色地带，导致难以处理。比如甚么叫妄议？妄议是否非议？这顶帽子可以随便扣上。只要你议论党的大政方针，领导又看你不顺眼，就可以给你扣上这顶帽子，开除你的党籍。</p>
+<p>全党上下 沦一言堂</p>
+<p>另一方面，妄议中央大政方针要开除党籍，那么妄议小政方针是否也要开除党籍？大政方针与小政方针如何区别？难道说是中办发的文件是大政方针，省市的政策是小政方针？在周永康主政中央政法委期间，他出台很多伤天害理的维稳政策，都是代表中央名义颁布的大政方针，难道对这些残民以逞的谬政也不能「妄议」？</p>
+<p>新条例还专门规定，「反对党的改革开放决策」即可开除党籍，意味着改革开放变成绝对真理，党员绝不可以质疑。显然，当局设立这个条款是为了打击左派，但问题是，改革开放真的就不能质疑？事实上，过去三十多年来，环境恶化、资源透支、贫富分化、人心坏死、道德沦丧、裸官泛滥等问题，都是改革开放政策执行不当所致，对这些恶政不仅要敢于「妄议」，还要坚决反对。可惜，新条例却祭起开除党籍的大刀，如此一来，谁还敢说真话？全党上下岂非沦为一言堂？</p>
+<p>最关键的是，中央从来没有清晰界定改革是甚么，单位领导的一举一动都可以说成是改革决策。从此以后，各级官员大可打着改革开放的名义肆无忌惮地弄权，谁敢反对他，谁就是反对改革开放，谁就可能被开除党籍。邓小平当年说，改革开放就是一个探索过程，要允许试错，对了坚持，错了要改。现在看来，改革开放只能是永远正确，绝对正确，实在荒谬至极。</p>
+<p>新条例颁布后，最大的赢家是中纪委，今后能够以执行党规家法的名义大大扩充权力，一个无远弗届的「新东厂」就此横空出世。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9D%83%E5%8A%9B%E5%A4%A7%E6%97%A0%E8%BE%B9-%E3%80%8C%E6%96%B0%E4%B8%9C%E5%8E%82%E3%80%8D%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8E%82/?category=18271" rel="tag">东厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%9D%83/" target="cdt-mirror">【习总日记】共产党员没有人权</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，23）</p>
@@ -47,7 +69,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE/?category=18271" rel="tag">妄议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E7%BD%91%EF%BD%9C%E5%BC%A0%E5%AE%8F%E8%89%AF%EF%BC%9A%E5%85%9A%E7%9A%84%E7%BA%AA%E5%BE%8B%E5%BA%94%E5%86%85%E5%AE%B9%E6%98%8E%E7%A1%AE%EF%BC%8C%E4%B8%8D%E8%83%BD/" target="cdt-mirror">民族复兴网｜张宏良：党的纪律应内容明确，不能含糊其辞、不着边际</a>
 </h2>
@@ -1035,127 +1057,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E6%96%B9%E5%A4%B4%E6%9D%A1%EF%BD%9C%E5%8D%81%E4%BA%94%E4%B8%AA%E7%9C%81%E5%B8%82%E5%8C%BA%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%B8%BB%E4%BB%BB%E9%A6%96%E6%AC%A1%E9%9B%86%E4%B8%AD%E4%BA%AE%E7%9B%B8/" target="cdt-mirror">东方头条｜十五个省市区网信办主任首次集中亮相</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int1.jpg" alt="int1" width="550" height=""></a></p>
-<p>文/呦呦鹿鸣本文首发无界新闻客户端</p>
-<p>一年以来，随着中央网络安全和信息化领导小组、中央网信办的成立，各省、市、自治区网信办逐渐升格为正厅级机构。</p>
-<p>这个新成立的体系，构成了中国网络的幕后管理系统，他们决定着这个国家网络所呈现给大家的状态，一定程度上通过信息构建了大众对周遭世界的认识。</p>
-<p>他们是谁?他们在干什么?近期，中央网信办主管的学术期刊《网络传播》陆续对15个省一级网信办的主任进行了访谈，鹿鸣君将这些访谈摘出精要，并重拟标题，与诸君分享。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int2.jpg" alt="int2" width="300" height="303"></a></p>
-<p>湖南省委网信办主任卿立新</p>
-<p>(1970年4月出生，湖南新化人)</p>
-<p>舆情大省怎么管</p>
-<p>互联网管理核心是立场与态度、智慧与理念的PK。湖南是舆情大省，重大突发舆情事件频发多发高发。在这一系列的舆情事件应急管理中，湖南一是有机制保障，省委成立了舆情应急管理领导小组及其办公室，使网络管理部门成为网上舆情应急管理的调度室;二是有科学理念，我们较早明确提出涉事部门是舆情应对的第一责任人，使舆情应对的责任十分明确;三是有正确方法，我们较早探索了网上舆情管理的链式工作模式，实现了绝大多数网上舆情的快速平息。</p>
-<p>“我想起黑格尔的一句名言：‘在公共舆论中真理和无穷错误直接混杂在一起。’中国的互联网舆论场是世界上最喧嚣、最庞杂的舆论场，如何增强网上宣传引导的吸引力、感染力和影响力，关乎网上舆论工作的核心问题，这也是我为之不懈努力的思考方向。”</p>
-<p>►湖南已经有了电视湘军、出版湘军，未来会有“网络湘军”吗?我们拭目以待吧。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int3.jpg" alt="int3" width="300" height="312"></a></p>
-<p>上海市网信办主任朱咏雷</p>
-<p>(1964年7月生，上海市人)</p>
-<p>“沦陷”之忧</p>
-<p>我现在同时分管新闻宣传、对外宣传和网络宣传，但在网络宣传管理上投入的精力最多，可以说，除了睡觉，其他时间都在关注网络舆情，随时下发网络宣传管理指令。我想，这也是当前互联网管理工作的常态。</p>
-<p>如果不大力发展新媒体，不加快推进融合发展，就会陷入韩正同志所比喻的“我们还在这间房间里津津有味地讲话，但听众早已跑到隔壁房间里”的窘境，我们的舆论阵地就可能“萎缩”甚至“沦陷”。未来五年，是传统主流媒体实现转型的攻坚期。</p>
-<p>让我印象深刻的一件事是2011年9月27日，那时候我刚上任市委宣传部副部长不久，上海发生地铁10号线追尾事故，网友第一时间通过微博发出现场图片，市领导通过微博了解了事故现场的情况，大大快于市委办公厅报送的信息，新媒体的传播优势得到充分体现。经过这一事件，上海市领导更加重视网络的作用，直接影响有两个：一是两个月后的11月28日，上海市政府新闻办实名认证的政务微博“上海发布”上线。目前“上海发布”微博(新浪、腾讯两个平台)粉丝数超过1160万，微信粉丝数超过130万，在人民网发布的全国政务指数排行榜上一直名列第一。二是几个月后，上海正式建立市互联网信息办公室，取代之前的网宣办，人员编制和机构职能大大增加。</p>
-<p>►2015年，上海多家报纸关门，一些报纸甚至闹出印刷费官司。正所谓，时也势也，旧的不去，新的不来。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int4.jpg" alt="int4" width="300" height="278"></a></p>
-<p>宁夏网信办主任徐贺</p>
-<p>(1969年生，安徽金寨人)</p>
-<p>看大门</p>
-<p>去年阿里巴巴的马云来了，来之后与宁夏自治区人民政府签订了一个战略框架协议，当时提出来要打造“千村电商”。阿里巴巴看重的是宁夏与阿拉伯国家天然的联系以及中阿博览会战略平台的作用。阿里巴巴做的是全球企业，要抓住全球每个角落，而阿拉伯国家在我们国家过去的贸易上，可以说不是一个活跃之地，这是一个待开发的市场。</p>
-<p>作为一个内陆地区，不沿边不靠海，不能光靠飞机和火车，因为半径都是有限的，只有靠互联网，只有靠信息化，才是宁夏连接外地最便捷的通道。宁夏回族自治区党委在今年的7月份十一届六次全会上通过了开放宁夏建设的意见，其中就指出打造三条通道：空中、陆上、网上。在网上通道建设方面，自治区党委政府提出几个方面的目标，一个是国际通讯通道建设(就是互联网基础设施);第二就是跨境电商和贸易结算方面的发展。</p>
-<p>“我是到网信办看大门的，看什么大门呢?宁夏网络舆情的大门。海关把的是国门，而我和我们所有同事都是看的宁夏民族团结和谐的大门。”</p>
-<p>►大门当然只是一个比喻，但鹿鸣君觉得呢，网络比不得海关，网络是一个空间，一个生态，偏偏就不是一个门，重要的是经营生态。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int5.jpg" alt="int5" width="300" height="255"></a></p>
-<p>江西网信办主任郭建晖</p>
-<p>(1963年6月生，景德镇人)</p>
-<p>封、堵、疏、导</p>
-<p>在互联网管理上采取“封、堵、疏、导”四步曲，由被动管理向主动疏导、依法治理转变。我们出台了《关于加强全省领导干部互联网舆论引导能力建设的意见》，这是全国省级层面出台的第一个关于领导干部互联网舆论引导能力建设的规范性文件。</p>
-<p>►欲管网络，先管干部。有点想法。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int6.jpg" alt="int6" width="300" height="278"></a></p>
-<p>重庆网信办主任周波</p>
-<p>(1964年3月生)</p>
-<p>网民很淳朴，网站是朋友</p>
-<p>第一要换位思考，就是面对网上的质疑也好，面对网上的批评也好，在甄别的过程当中首先要换位思考;第二在网络管理上一定要平视，不能居高临下;第三应该是真诚，你任何的虚情假意，你任何的“躲猫猫”都不可能逃脱网民睿智的眼光，所以必须真诚，实事求是，是什么就是什么，不要做掩饰，越掩饰越麻烦;第四是遇到突发事件，必须第一时间把官方的声音发出去。</p>
-<p>实际上中国的网民很纯朴的，绝大多数是通情达理的，只要你真诚沟通，实事求是，他们都能理解，都能认可。我始终认为网民是很可爱的，你怎么让他可爱，就看你的本事，因为你是公共的执政者，公共的管理者，假如网民不好，主要应该是管理者的责任。愿我们线上线下，实体社会和网络空间都和谐。</p>
-<p>►解放军是“最可爱的人”，网民是“很可爱的人”。网民不好，主要是管理者的责任，周波主任颇有古代牧民之风。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int7.jpg" alt="int7" width="300" height="269"></a></p>
-<p>黑龙江省委网信办主任李耀东</p>
-<p>建“网军”</p>
-<p>信息流是继交通物流和能源之后新的社会运行基底层。信息化是社会运行的血液，信息化搞不好社会运行就会贫血，甚至会出现白血病。</p>
-<p>要不断提升网络安全和信息化水平，人才是关键。首先，要实施“网军建设工程”，建立网军发挥作用的有效机制。要发挥各级党委政府、企事业单位和工、青、妇、科协等社会团体和社会组织的积极作用，以党员、团员为主，调动全社会力量，坚持分领域、分类型、分层次建设，重点建设好网宣、网评、网管、网研、网安、应急等队伍，打造一支政治强、业务精、作风好的强大网军。</p>
-<p>►美国确实有正规建制的网军，和中国这个网军概念不同。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int8.jpg" alt="int8" width="300" height="271"></a></p>
-<p>甘肃省委网信办主任梁和平</p>
-<p>(1961年2月生，祖籍山西平遥)</p>
-<p>时刻“脑洞大开”</p>
-<p>互联网工作是一项让人激情澎湃的事业，最吸引人的地方就是互联网充满了探索未知的乐趣，充满了无限的可能性。这就需要我们时刻“脑洞大开”，与时俱进，跟上时代节奏，不断掌握新知识、新技术、新应用。同时，互联网工作也是一个让人不敢懈怠的事业。</p>
-<p>对甘肃而言，互联网发展治理的理念应该是发展与管理并举，发展是第一要务。最难忘的是“微博厅长”刘维忠的故事。</p>
-<p>我记得在汤马斯·佛里曼所著《世界是平的》里有段话：“人类天生愿意寻求和他人的自由交流，当你给他们提供和他人交流的方式，他们会跨越人和技术障碍，甚至会学会新的语言。”微博这个交流平台，正是满足了人们的这个需求，所以才能这么快地发展。顺应了人性化的需求，还有什么能挡得住它呢?</p>
-<p>►梁和平在2011年开微博，有近214万粉丝。由于梁和平的缘故，刘维忠结识了微博。他借助微博在全国第一个推出了“微博问诊”。而在这个过程中，也有中医“粉黑大战”“猪蹄风波”“任督二脉”舆论风波。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int9.jpg" alt="int9" width="300" height="259"></a></p>
-<p>广东省网信办主任黄斌</p>
-<p>(1963年1月生，广东清远人)</p>
-<p>媒体的概念被颠覆了</p>
-<p>新媒体对传统媒体带来的挑战，不只是信息的海量和传播的速度，更根本的是新媒体改变了传统媒体单一主体、单向传播的特点，媒体与受众的关系不再是简单的传递与接受的关系，信息生产者与发布者的边界、信息知晓与公共参与的边界已经消失。</p>
-<p>移动网络的发展，让新闻网站都成为了“传统媒体”。我对微信作这样的定义：通讯工具、社交平台、移动应用、媒体属性四体一位。任何一种传统媒体都不具备这样完整的网络功能，媒体的概念被颠覆了。传统媒体不断被边缘化，新兴媒体走进舆论场中心。而我们目前的管理理念、手段都还没有充分准备好。</p>
-<p>►黄斌曾是羊城晚报负责人。如今，广东三大报系日渐凋零，而广东对当年的舆论影响能力不无怀念，谁将取而代之呢?</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int10.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int10.jpg" alt="int10" width="300" height="300"></a></p>
-<p>西藏网信办主任欧阳方兴</p>
-<p>(安徽濉溪人)</p>
-<p>只能赢，不能输</p>
-<p>西藏处于反对分裂祖国斗争的第一线，互联网已经成为我们与十四世达赖集团进行意识形态斗争的主要战场。特别是，当前涉藏斗争进入后达赖时期，十四世达赖集团比以往任何时候都更加倚重互联网进行分裂渗透和破坏，对西藏的意识形态安全和社会局势稳定构成严重威胁。在这个主战场上，我们只能赢，不能输。</p>
-<p>在中央网信办的大力支持下，立西藏在全国率先成立了自治区、地市和县三级党委网络安全和信息化领导小组，各级党委一把手担任组长;率先成立自治区互联网党工委;率先建立区地县三级网信办;率先实现全区网络系统党组织建设和党的工作全覆盖;率先实现网络实名制;率先在全国实现了政府新闻网站集约建设发展的目标等。</p>
-<p>互联网对意识形态的影响还只露出冰山一角，没有清朗的网络空间就没有充满正气的社会，就不会有真正強大的国家和民族。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int11.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int11.jpg" alt="int11" width="300" height="253"></a></p>
-<p>陕西省委网信办主任孙琳</p>
-<p>(1958年5月生，陕西彬县人)</p>
-<p>虚拟世界不虚拟</p>
-<p>第一次接触互联网应该是90年代末。我年轻时算是个无线电“发烧友”，许多知识都是从《无线电》杂志中学到的，工作也和这个行业有些关联。</p>
-<p>互联网作为最大的公共场所，线下都是一个个活生生的自然人或各类社会组织，虚拟世界并不虚拟，因此，加强互联网管理刻不容缓，任务艰巨。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int12.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int12.jpg" alt="int12" width="300" height="288"></a></p>
-<p>安徽省委网信办主任汪家驷</p>
-<p>对垒“扳倒中国”</p>
-<p>习近平总书记说，互联网是我们面临的“最大变量”，搞不好会成为我们的“心头之患”，西方反华势力一直妄图利用互联网“扳倒中国”，在互联网这个战场上，我们能否顶得住、打得赢，直接关系我国意识形态安全和政权安全。</p>
-<p>作为互联网管理工作者，增强发现力应是最重要的职责和最基本的要求，必须坚持守土有责、守土负责、守土尽责，对网上舆情做到第一时间发现、第一时间报告，科学研判、妥善处置。尤其是一些苗头性信息，要有敏锐眼光，通过及时捕捉，将其尽快解决在萌芽之中。绝不能让小事炒大，大事炒炸，甚至把好事变成麻烦事，变得不可收拾。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int13.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int13.jpg" alt="int13" width="300" height="275"></a></p>
-<p>贵州网信办主任谢念</p>
-<p>(1970年7月生)</p>
-<p>顺势、聚力、集智</p>
-<p>贵州2014年网上的正面积极信息传播总量达1.26亿条，其中有1亿条是在微博、微信、微视频上进行传播的。为总结微传播的宣传效果，贵州网信办出版了《贵州百件“微传播”优秀作品集》一书，首次运用互联网思维和技术开展编辑工作，每一个作品都附二维码，“扫一扫”就能阅读全文、观看视频。</p>
-<p>►编书这种事情，为什么不是电子书呢?</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int14.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int14.jpg" alt="int14" width="300" height="267"></a></p>
-<p>浙江省网信办主任来颖杰</p>
-<p>(1966年11月生，浙江杭州人)</p>
-<p>当战士不当绅士</p>
-<p>中国改革经过30多年，进入深水区，可以说容易的、皆大欢喜的改革已经完成了，好吃的肉都吃了，剩下的都是难啃的硬骨头。啃掉网信工作中的硬骨头，建设网络强国、网络强省，势必要求我们网信人付出更多的时间，更多的精力，以更大的担当，当战士不当绅士，该出手时就出手。</p>
-<p>最大挑战就是去年筹备首届世界互联网大会。9月中旬，首届世界互联网大会确定在浙江省承办，让人倍感振奋。但如此规模的互联网国际性盛会，满打满算也只剩两个月的筹备时间，千头万绪，纷至沓来。在国家网信办和省委省政府的领导下，浙江省网信办全办动员、全力以赴，宣传、经信、公安、团委等部门大力支持参与，很多同志牺牲假期，身兼多职，默默付出。就是这样，白天黑夜轮班干，争分夺秒往前赶，一个一个会议轮番召开，一个一个项目敲定落实，一个一个任务圆满完成，终于把这个具有里程碑意义的大会成功举办，在中国乃至世界互联网发展史上烙下了深深的“乌镇印记”。</p>
-<p>►去年的首届世界互联网大会鹿鸣君也参加了，组织确实不错，称得上乱中有序，瑕不掩瑜。今年的第二届乌镇峰会月底就要开了，会更好吗?</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int15.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int15.jpg" alt="int15" width="300" height="227"></a></p>
-<p>北京网信办主任佟力强</p>
-<p>(1957年3月生，黑龙江双城人)</p>
-<p>情理法三结合</p>
-<p>我每天都不知道工作多少小时，睁开眼就是工作，除了吃饭睡觉。</p>
-<p>我是从1999年开始从事互联网管理工作的，一直秉承着“情理法相结合”：要讲情，讲事业情、讲中国的国情、讲互联网情、讲现代互联网技术的事业情，这是大情;讲理，必须讲道理，讲国家的道理、百姓的道理、德的道理、人们基本的行为规范准则的道理，你不能超越这个;讲法，中国是法治社会，法律是底线。</p>
-<p>网站影响力有多大，责任就有多大。所以我说过一句：鼠标重千斤。PC时代对不良信息的处置是以分钟来计算的，有了微博微信就是以秒来计算。</p>
-<p>►大多数重点网站都在北京，所以睁开眼就工作，除了工作就是吃饭睡觉也是在所难免的。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/int16.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/int16.jpg" alt="int16" width="300" height="300"></a></p>
-<p>新疆网信办主任罗夫永</p>
-<p>(1972年出生，新疆乌鲁木齐人)</p>
-<p>打通网络政务“最后一公里”</p>
-<p>在新疆，网络安全和信息化工作的首要和核心是要全力做好网络安全工作，其主要任务就是打赢网上反恐维稳战争。暴力恐怖活动的思想基础是宗教极端。新疆网信办在“去极端化”工作中积极探索，用现代文化对冲宗教极端思想。去年，我们策划举办了“塔克拉玛干的婚礼”大型网络文化活动，环绕塔克拉玛干沙漠边缘，沿喀喇昆仑山进帕米尔高原，行程1.3万公里，覆盖沙雅、阿图什、皮山、莎车等南疆多个县市，为300余对新人举办现代集体婚礼。一支游走在沙漠边缘的网络工作队，用一场场“贴地皮、接地气”的现代文化盛宴，在南疆社会产生了强烈的反响、巨大的共鸣，有效对冲了宗教极端思想，走出了一条“文化对冲”的新路子。</p>
-<p>2014年开始，新疆抽调20万名干部下基层，开展为期3年的“访民情惠民生聚民心”活动。为全力配合此项活动，新疆网信办打造了“最后一公里”微信公众账号及手机客户端，通过大量报道下基层干部的真实故事，成为“访惠聚”活动的交流示范平台。目前，“最后一公里”关注用户已达60万，覆盖全国所有省市区和几十个国家，成为全国政务新媒体的经典案例。除此之外，我们还在微信公众平台上建立了新疆(区、地、县)“零距离”三级联动网络宣传体系，目前，全疆各地开通“零距离”微信公众账号117个，关注用户超过400万。</p>
-<p>新疆网信办对内以文化科教中心建设为工作重点、对外以讲好新疆故事为目标导向，充分发挥新兴媒体优势，建设新媒体传播基地。天山网是新疆新媒体网站集群的龙头，目前拥有汉文、维吾尔文、哈萨克文、俄文、英文、土耳其文等6个语种9大版面，已成为立足新疆、面向中亚—南亚—西亚以及整个伊斯兰世界的大型多语种外宣综合门户网站。</p>
-<p>当前，新疆正处于暴力恐怖活动活跃期、反分裂斗争激烈期、干预治疗阵痛期，“三期叠加”的过程中，反恐维稳任务十分繁重，我们有一种时代使命感，还有一种工作的紧迫感。“新疆网信精神”，即“要忠、要硬、要强、要冲、要淡”，其中，“忠”是根本、“硬”是保障、“强”是要求、“冲”是使命、“淡”是素养。“忠”是网信战线的生命线。“硬”是作风和思想要硬。“强”是要加强学习，解决本领恐慌的问题。“冲”是要勇于担当，不辱使命。“淡”是要淡泊名利，甘于奉献。</p>
-<p>淡羽，不过份爱惜自己的羽毛;淡谤，不过份在意别人的“谤”“议”;淡利，看淡名利，正确对待荣辱得失;淡命，不做干枯的死鱼，不做撞钟的和尚。</p>
-<p>►罗夫永主任是网络大V，曾入选“2013中国娇子青年领袖”，在年轻人中有很强号召力，网络传播杂志对他的这篇访谈也是该杂志第一个10万+微信文章。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E6%96%B9%E5%A4%B4%E6%9D%A1%EF%BD%9C%E5%8D%81%E4%BA%94%E4%B8%AA%E7%9C%81%E5%B8%82%E5%8C%BA%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%B8%BB%E4%BB%BB%E9%A6%96%E6%AC%A1%E9%9B%86%E4%B8%AD%E4%BA%AE%E7%9B%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">网络小组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">网络监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">网络管制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1167,7 +1068,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1177,5 +1078,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

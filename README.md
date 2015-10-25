@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E5%AF%B9%E5%BE%85%E5%8E%86%E5%8F%B2%E7%9A%84%E6%80%81%E5%BA%A6%E5%86%B3%E5%AE%9A%E6%B0%91%E6%97%8F%E7%9A%84%E6%9C%AA%E6%9D%A5/" target="cdt-mirror">共识网｜对待历史的态度决定民族的未来</a>
+</h2>
+<p><p>今天，习近平夫妇乘坐英国皇家马车前往白金汉宫，从车阵和气场上来看，显示出豪华与大气，尊贵与尊严，在国内媒体极尽渲染下，让全国人民再次感受到祖国的强大和民族的自豪!</p>
+<p>其中，最显眼莫过于英国皇家马车 。而这驾马车最有价值不是价格，而是历史;将近有400年的历史。</p>
+<p>这对英国人来说是一种荣耀，他们知道历史、肯定历史、维护历史!无论是从历史还是现在的角度来说，在对待历史的角度上，他们是成功的!</p>
+<p>仅 英国皇家和皇家马车如此受到全世界的关注和敬仰，足以说明这一点!同时，从英国目前的发展程度来说， 皇家视乎没有影响英国资本主义的发展，同时皇家成为整个英国的人民以及英殖民地人民的信仰!</p>
+<p>与英国相似的还有日本，日本至今还有天皇，也是从封建社会遗留下来的制度特征之一，按讲说，这些皇家和天皇 都应该在资本主义浪潮中灰灰湮灭，或者在他们的领导下对资本主义进行疯狂的反扑，因为，按照马克思主义阶级斗争学说，两者之间水火不容!</p>
+<p>但是，令人称奇的是，封建的 女皇 和 天皇 居然和封建社会割裂的如此干净，在资本主义发展的浪潮中如鱼得水!</p>
+<p>造成这个和谐的关键是不论女皇还是天皇，都是在法律的制度内运行，他们已经成为这个国家的一部分，他们只代表国家，不干涉国家;他们是国家和民族的精神，却不是国家命运的根本。他们认可民众的自由和权力，民众也接受他们在国家中的神圣地位。</p>
+<p>从这个角度上来说，他们承认历史，接受历史并尊重历史，而历史给予他们的是正能量 ，而不是包袱!</p>
+<p>但是，与此相对应的我国来说，在形式上，我们比他们做的更彻底，更干净!</p>
+<p>在辛亥革命风起云涌之时，袁世凯借助外力，没费一枪一炮，没有流血牺牲，仅凭借一个空头承诺和 泪湿衣衫 就让爱新觉罗氏宣布退位，中国正是结束清王朝的统治，在形式上，封建社会在中国正是结束!在一定意义上来说，这是历史的进步，而且要比英国和日本走的更快，更彻底!这是世界历史上的奇迹!</p>
+<p>期间也出现 袁世凯称帝 、 张勋复辟等封建势力的反扑，但是，共和已经深入民心，想在中国大地上称皇帝，已经失去其土壤。</p>
+<p>但是，这种表面上的 决裂 并没有给中国带来更好的命运，现在回头看看，当时的 反封建斗争 只不过是为赢得社会支持的政治口号，而这些人绝大多数还是怀揣 皇帝 的梦想，等到自己的权势到位之后做一个和皇帝一样的总统 。</p>
+<p>其实，皇帝之事称谓，内心才是关键!</p>
+<p>他们对待历史的态度在形式上是决裂的，是批判的，但是在内心里认可的，是延续的!与自己想法和意见不一致的 敌对势力 被套上 封建 的帽子，与自己一丘之貉的则穿上革命的马甲 。</p>
+<p>也就是说，他们把历史揣进自己的衣兜，需要什么，就拿出什么!</p>
+<p>对待历史的态度，决定民族的未来!</p>
+<p>以英国为代表君主立宪制国家，他们没有忘记历史，尊重历史，并保留历史的痕迹，历史没有成为他们的负担，反而成为他们团结的核心和民族精神，此时的 女皇 和 天皇 只不过是精神层面的问题。也就是说，这些封建制度权利的核心已经变成符号，封建制度的权利体系已经走出人心!</p>
+<p>但是，我们却一直批判历史，否认历史，掩藏历史，希望和历史完全割裂，但是，我们一部分人尽管穿着社会主义的衣裳，但是内心却在走历史的老路，封建官本位思想，恩赐思想，愚民思想，依然盛行不衰; 高大上的官衙门 遍布全国各地;屁大的领导视察都要前呼后拥;大话，空话，套话、官话连篇;这些封建政府官僚作风，我们不仅继承，而且还发扬光大!</p>
+<p>问题的关键就是对待历史的态度到底是学什么，弃什么!</p>
+<p>英国对待历史的态度是尊重，我们对待历史态度是利用!态度不同，结果截然不同!</p>
+<p>时至今日，我们仍然不能客观的面对历史，对待封建历史是一味的完全批判，对待中华民国的历史基本是全盘否定的，对待新中国发展的成就加大宣传，对待像文革、大跃进、人公社、三反五反等历史问题依然是敏感区域。</p>
+<p>客观的说，历史是既定的事实，我们无法改变、更无法否认。不论好坏都是民族留给世人的财富，昨天是今天的历史，今天也是明天的历史，历史真正的价值不是对历史的评价，而是在历史中寻找出路，我们回避历史，掩盖历史，是对人民不责任，更是对未来不负责任!</p>
+<p>今天，很多人都认为我们是强大民族，但是，我们依然没有强大到可以正视历史的程度!一个连历史都不敢正视和承认的民族，是没有希望的民族!把历史当成包袱的民族，是没有动力的民族;一个害怕回望过去的民族，是对自己缺乏信心的民族!</p>
+<p>在我们发自内心得敬仰英国皇家;和希望乘坐皇家马车的时候，我们更要清楚，别人是是把历史当作财富，而我们呢?</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
+<hr><p><small>© 走丫的路 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E5%AF%B9%E5%BE%85%E5%8E%86%E5%8F%B2%E7%9A%84%E6%80%81%E5%BA%A6%E5%86%B3%E5%AE%9A%E6%B0%91%E6%97%8F%E7%9A%84%E6%9C%AA%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F/?category=18271" rel="tag">传统</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%87%E9%97%BB%E5%BD%95%EF%BD%9C%E4%B9%A0%E6%80%BB%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/" target="cdt-mirror">奇闻录｜习总读过的书</a>
 </h2>
 <p><p>10月21日，中国国家主席习近平在伦敦金融城演讲中再次披露自己的书单。他提到在陕北插队期间曾‌‌‌‌“想方设法寻找莎士比亚的作品，读了《仲夏夜之梦》、《威尼斯商人》、《第十二夜》、《罗密欧与朱丽叶》、《哈姆雷特》、《奥赛罗》、《李尔王》、《麦克白》等剧本。‌‌‌‌”</p>
@@ -987,28 +1023,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%8F%B2%E5%AE%BF%E5%8A%A1%E6%9E%AA%E6%9D%80%E6%A1%88%E6%B6%89%E6%A1%88%E5%A4%96%E4%BA%A4%E5%AE%98%E5%B0%86%E8%A2%AB%E7%A7%BB%E4%BA%A4%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">美国之音 | 菲宿务枪杀案涉案外交官将被移交中国</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-22-at-%E4%B8%8B%E5%8D%883.25.54.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-22-at-%E4%B8%8B%E5%8D%883.25.54.png" alt="Screen Shot 2015-10-22 at 下午3.25.54" width="550" height="307"></a></p>
-<p>作者：奥伦戴恩</p>
-<p>马尼拉—菲律宾政府表示，他们打算把涉嫌中国驻菲律宾领事官员被枪击事件的两名中国外交官交予中国政府。星期三，菲律宾宿务的一家餐馆发生枪击事件，导致两名中国外交官死亡。警方将两名嫌疑人拘押，但两人随后申请外交豁免。<br>
-菲律宾外交部发言人查尔斯·何塞表示，将根据维也纳公约关于外交和领事人员关系的规定以及2009年菲律宾和中国之间的领事协议，来处理这一事件。</p>
-<p>何塞说：“枪击事件是领事馆工作人员的一位亲属的极端行为。中国驻马尼拉大使馆和以及驻宿务领事馆对菲律宾当局的调查给予了全力合作。”</p>
-<p>何塞说，根据《维尔纳外交关系公约》说，两名嫌疑人可以寻求外交豁免权。公约说，“外交人员可以享受外交豁免，不受驻在国的刑事管辖。”公约还说，外交人员是“不可侵犯的”，不可被拘留。但是，何塞说，中国要求菲律宾警方暂时拘押这两人，直到中国安全官员将他们接走。</p>
-<p>何塞说：“中国政府希望接管对他们的看押权，他们必须要走中国的法律程序。”</p>
-<p>菲律宾警方说，这对夫妇当时正在宿务的一家餐馆的一个包房内参加生日庆宴。后来服务人员在听到枪响，又听到大声叫喊。当局说，监护录像以及目击者的记录都表示，开枪者是领事馆一位工作人员的丈夫。枪击事件造成外交官沈孙和李辉死亡，总领事宋荣华重伤。所有相关人员都是中国驻宿务领事馆人员。</p>
-<p>警方说，这对夫妇没有回答任何问题，而是要求豁免权。菲律宾当局说，他们不知道枪杀事件的动机。何塞说，菲律宾有关当局将继续调查这起事件。</p>
-<p>马尼拉圣伯达法学院国际法教授布鲁斯·里维拉说，尽管犯罪事件发生在菲律宾的管辖范围之内，但是，菲律宾选择将外交官内部之间发生的事情移交给中国处理。</p>
-<p>他说：“因为，很明显这是一起私人事件，可能也是为了保护在调查过程中可能被迫泄漏和公开的秘密，所以根据国际法，这是被允许的。”</p>
-<p>中国驻马尼拉大使馆没有回应记者的电话的电邮。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%8F%B2%E5%AE%BF%E5%8A%A1%E6%9E%AA%E6%9D%80%E6%A1%88%E6%B6%89%E6%A1%88%E5%A4%96%E4%BA%A4%E5%AE%98%E5%B0%86%E8%A2%AB%E7%A7%BB%E4%BA%A4%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A2%86%E4%BA%8B%E9%A6%86/?category=18271" rel="tag">中国领事馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%BF%E5%8A%A1/?category=18271" rel="tag">宿务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%B2%E5%BE%8B%E5%AE%BE/?category=18271" rel="tag">菲律宾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%AE%BF%E5%8A%A1%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">菲律宾宿务枪击案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1030,5 +1044,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

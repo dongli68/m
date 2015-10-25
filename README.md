@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%8F%B0%E5%8A%9E%E8%85%90%E7%9B%B8%E6%AF%95%E9%9C%B2-%E5%9B%BD%E7%AE%A1%E5%B1%80%E7%8E%B0%E5%87%BA%E5%8E%9F%E5%BD%A2/" target="cdt-mirror">太阳报｜中台办腐相毕露 国管局现出原形</a>
+</h2>
+<p><p>中央巡视组日前公布二十六家单位的专项巡视结果，当中国家机关事务管理局、中共中央台湾工作办公室等单位也赫然在列，而且问题不少。事实上，中央部委中一些看来不起眼的单位，内里的腐败早就臭名远扬。</p>
+<p>中央巡视组今次发现中台办多项问题，比如对一些违纪违法人员处理偏轻偏软；存在「带病提拔」等问题；以工作特殊性为由规避监管，违规拉赞助收捐赠、违规收受礼品馈赠、利用工作关系为亲属谋取便利等问题时有发生。</p>
+<p>当中「以工作特殊性为由规避监管」耐人寻味。众所周知，中台办的工作主要是针对台湾，包括制订两岸政策、对台统战等，目的是促进国家统一。但这看似神圣的使命背后，有些中台办官员以保密为由，将中台办打造成针插不入、水泼不进的独立王国，有些人向台湾商人贩卖各级政协委员的帽子，中饱私囊，还有人以搞统战为名，帮助台商在内地搞项目批土地，然后从中收取股份或回扣。</p>
+<p>不客气地说，整个台办系统已形成一个自上而下、内外勾结的利益集团，他们将两岸关系当作生意，甚至挟台自重，向中央要优惠要项目，从中满足利益集团的需求。今年上半年，一度传出前中台办主任王兆国儿子王新亮被中纪委调查，据说，有人以香港为平台，以所谓对台工作需要，套取国家贷款，在资本市场舞高弄低，从中大发横财。</p>
+<p>肥缺部门 中饱私囊</p>
+<p>原本这些资金是为了争取台湾民心，最后却沦为权贵的盘中餐。这也是为何中央惠台多年，但台湾基层民众却难以享受，与大陆渐行渐远的原因所在。今次中央巡视组点出了问题所在，也不过是冰山之一角而已，如果继续挖下去，肯定有大老虎现形。</p>
+<p>至于同时遭中央巡视组点名批评的国家机关事务管理局，不仅是一个神秘单位，也是肥缺部门，负责中央国家机关房地产管理，以及行政办公用房建设项目审核、计划编制、建设监管；担负中央国家机关及所属单位用地管理。也就是说，中央部委的所有用地、正部级以上官员住房安排，以及国务院的政府采购，全部由该局统筹负责，其功能定位相当于清朝的内务府。</p>
+<p>国管局权力之大，以至于各部委都要看其脸色，很多部长为了分到一个朝向较好的住房，不得不低三下四地去国管局叩拜，而国管局至今也没有向外界公布其预算。今次中央巡视组丝毫不给面子，直截了当地指出该局公款吃喝、公款旅游、以权谋私、违规破格提拔、超职数配备干部、干部人事档案造假等，更蹊跷的是，近年来该局没有立案查办过任何违纪案件，似乎该局是清水衙门，个个官员都是两袖清风，事实真的是如此吗？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%8F%B0%E5%8A%9E%E8%85%90%E7%9B%B8%E6%AF%95%E9%9C%B2-%E5%9B%BD%E7%AE%A1%E5%B1%80%E7%8E%B0%E5%87%BA%E5%8E%9F%E5%BD%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B2%A1%E6%9C%89%E4%B8%9C%E5%8E%82%E6%98%8E%E6%9C%9D%E5%9E%AE%E5%BE%97%E6%9B%B4%E6%97%A9/" target="cdt-mirror">【习总日记】 没有东厂明朝垮得更早</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，25）</p>
+<p>外访回来，稍作休息，国内的事情一大堆等着我。主要是党的整顿，领导干部的整顿，尤其是央企国企党组织和领导干部的整顿治理。</p>
+<p>大名鼎鼎之明朝东厂设立于1420年间，一直延续到1644年明朝灭亡，约200年。东厂虽臭名昭著，但我认为，对维持朱明王朝统治、稳定社会起了不小作用。因为大明朝寿命总共才276年。而且大明亡缘于满清入关，而不是仅仅因为李自成造反。东厂的基本任务是“党要管党，从严治党”，因此对今后中纪委的工作有指导意义。故建议王岐山同志多多向魏忠贤前辈学习。我虽然饱读莎士比亚等西方名家经典，但就治国理政而言，还得多多向老祖宗们讨教请益才是。</p>
+<p>自秦扫六合起，中华民族走了一条迥然于西方小国寡民自由民主的大一统中央集权道路。子在川上曰，道不同不相为谋。既然我们与西方道路不同，还有什么好说的？当然社会体制就不同。还是那句话，西方民主不是我们的菜，也不适合中国人的胃。</p>
+<p>“你吃过了么！”中国人每天见面打招呼，是关心对方的胃，而不是西方人询问对方有什么新鲜事儿。如果说西方进入玩的时代，那么中国还停留在吃的时代。这就好比石器时代与铁器时代，话不投机是一定的。</p>
+<p>我问王岐山要不要给中纪委干部每人发“绣春刀”，刀柄铭刻“中纪委”。王岐山说算了，每人发把枪可以考虑，枪柄铭刻“大大赠”。我说我是大大，你就是王二。王岐山接茬说我脸上有麻子就好了。</p>
+<p>如果广大领导干部都能做到党性强、负责任、为人民，也就没必要搞什么政法委中纪委这类现代东厂了。如果中央各部门央企国企的党组织都能做到党风正、纪律严、觉悟高、廉洁奉公勤政爱民，也就没必要搞双规搞株连搞得人心惶惶，搞得今天不知明天身在何处。</p>
+<p>也没有必要藏着掖着了，明白告诉大家，中纪委就是笼子，要把所有的领导干部都关进笼子里去。关你们不是宠爱你们，也不是把你们当宠物，是因为这三十年来，你们实在不像样子，不像个领导干部的样子，不像个人民公仆的样子。</p>
+<p>王岐山带着中纪委的资料向我报告说，现在各级党组织存在非常严重的问题，普遍存在党的领导弱化，主体责任缺失，党的纪律松弛，顶风违纪突出，权力寻租盛行，侵吞国有资产管理监督缺位，违规决策频繁等问题。这些问题不解决，所在党组织就是个犯罪组织。譬如刘志军的铁道部，就是一个铁道贪污腐化部，所有领导干部统统有问题。还有周永康的政法委和石油系统企业，简直就是贪污腐败分子的黑窝，那些干部统统都要撤换。</p>
+<p>听说中央要查金融系统国家企业就有人自杀。这说明了什么？说明现在的领导干部经不起查，每个人都有问题，而且都是大问题。小问题不会自杀。同时也说明了整个部门都烂掉了。因此新的《党员纪律条例》有一条指出，有很大问题的党组织应该解散。有人说中共那么多领导干部都有问题，中共就应该解散。我倒是想啊，可谁来管理这个国家？13亿人民谁来养活？50多年前毛主席党中央稍有疏忽，就饿死三千多万人。说明了中国老百姓没有自食其力的能力，要靠共产党养活他们。因此，党还得继续做好带头人引路人。</p>
+<p>今日说这些是为了告诉大家，强化中纪委，是为了监督党的各部门各企业领导干部，是为了落实从严治党，最后才能真正落实依法治国。大家深有体会的是，只要领导干部贪赃枉法的行为存在，依法治国便是一句空话。</p>
+<p>总而言之，把领导干部收拾得服服帖帖不敢越权枉法，老百姓才有法律保障，民族复兴中国梦才有希望。明朝从严治吏靠东厂，我们从严治党靠中纪委。有了东厂明朝延续200年，有了中纪委，我党统治地位至少可保200年不倒。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/102515.jpg" alt="102515" width="640" height="382"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B2%A1%E6%9C%89%E4%B8%9C%E5%8E%82%E6%98%8E%E6%9C%9D%E5%9E%AE%E5%BE%97%E6%9B%B4%E6%97%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8E%82/?category=18271" rel="tag">东厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-22%E6%97%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E5%8D%A1%E6%A2%85%E4%BC%A64%E5%B0%8F%E6%97%B6%E8%B0%88%E8%AF%9D%E6%91%98%E8%A6%81/" target="cdt-mirror">【习总日记】 22日习近平与卡梅伦4小时谈话摘要</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，24）</p>
@@ -859,109 +903,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/ngocn-%E7%BF%9F%E6%98%8E%E7%A3%8A%EF%BC%9A%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%AC%A3%E7%84%B6%E5%9C%A8%E9%87%8E/" target="cdt-mirror">NGOCN | 翟明磊：十年，欣然在野</a>
-</h2>
-<p><p>关注NGOCN，公益视野从此大不同<br>
-原创·作者：黄姝伦</p>
-<p>近日，记者刘伟因对王林的报道被警方以涉嫌非法获▲取国▲家机密罪被刑拘，此前记者刘虎因涉嫌诽谤罪被批捕，随后被关押长达346天，而在央视“认罪”的队伍中也偶有记者身影。<br>
-所谓“无冕之王”在中国的境况使人唏嘘，因报道限制、薪酬待遇、发展空间而辞职的记者越来越多。<br>
-今天推文的主角翟明磊辞职得更早。十年前，他深感体制内记者的局限而离开《南方周末》，其时寇延丁在《从改变自己开始》里这么描述他：说出了真话的孩子。<br>
-2005年的翟明磊是“为新闻而去”的，从体制内跳出到民间，他成为公民记者，筹备多时的《民间》杂志出炉。<br>
-十年间，《民间》被叫停、公民社会被归为“七▲不讲”、南方系被“招安”。<br>
-变局中，翟明磊说：十年，欣然在野。</p>
-<p>上海地铁九号线，松江大学城站，如上海市郊的卫星城般，万达广场拔地而起。翟明磊的茶室，便隐没在吞吐着城市扩张之欲的此地。</p>
-<p>稍坐，周边商业的气息散去。百年沉淀的普洱，从初始泡茶的温度，到而后煮茶的时间，皆有讲究，从第一泡的清丽，到渐次的浓郁，让交谈慢了下来。</p>
-<p>十年，就如沏茶一般，我们常常无法预料外界环境的改变，会怎样地改变茶的味道，但茶执着的沉淀，生出了陈香。</p>
-<p>从《民间》到《壹报》</p>
-<p>二十年前，他是怀着好奇心，闲暇时，一探“社会真相”的银行小职员。而后，随着南下的火车，在改革风气渐开的深圳，开始了记者之路。</p>
-<p>中国调查记者正值多产之际，他握过《南方周末》的铁杆。2003年，从《南方周末》辞职，拒绝框架内的假新闻，“我为新闻而来，我为新闻而去”，“因为究其本质，我是一个新闻骑士”。</p>
-<p>三十而立。他说，年轻的时候不知道自己想要什么，但是知道自己讨厌什么。“记者是最接近真理的职业”，“真理”何为，他没有详细给出答案。也许比起带着脚镣跳舞的委曲求全，他信仰的“真理”更朴素，“事实不是罗生门，没有阶级性、党性，发生了就是发生了”。</p>
-<p>他选择去做一名公民记者，倡导自下而上的草根力量，立足民间，为“弱势群体”发声，是一个自由却亦不自由的选择，自由地游走在官媒失语的领域，却难免因为闯入“新闻禁地”而饱受束缚。</p>
-<p>2005年的春天，翟明磊和朋友们筹备已久的《民间》杂志，正式发行。这是第一本民间自行组织发行的季刊，每期发行量达5000多本，容纳左翼、右翼，各路思潮的编辑部，翟明磊不无骄傲地说，“这本杂志的编委会，有着中国大陆最强阵容。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.19.46.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.19.46.png" alt="Screen Shot 2015-10-20 at 上午11.19.46" width="298" height="419"></a></p>
-<p>《民间》记录在公共空间中改变社会的公益行动者的故事，倡导行动改变生存。只有3个半固定员工的编辑部，主编要同时负责校对、搬运、公关，翟明磊和梁晓燕按年度轮流当值。稿件多来自自由撰稿人，以及维权一线的农民、工人，并保留不同群体，原滋原味的写作风格。</p>
-<p>这本不收费只接受捐助的“地下刊物”，从知识圈、调查记者圈慢慢扩散，在美国的图书馆亦有迹可循。</p>
-<p>“脚踏实地，做不可能之事”，他们奉行着法国1968年学生街头革命时期的格言，也承袭着这场革命的想象力。“希望《民间》，可以让公民社会守望相助。”翟明磊举了一个例子，《民间》杂志送抵黄永厚老先生家，但先生家中书籍太多，他无暇顾及。但有一天，他看见家中保姆捧着一本杂志，默默抹泪，那本杂志就是《民间》，那一期报道了保姆家乡湖南凤凰的河流污染事件。于是，此后，老先生对《民间》，多有支持和帮助。</p>
-<p>很多志同道合的人因《民间》而结识，《民间》杂志也因此衍生出了立体的线下活动，组织沙龙，让民间行动者当老师，发动NGO里的经验之士，和翟明磊主力的NGO“绿根力量”一道，致力于民间草根团体、公民运动的培训。</p>
-<p>《民间》所承受的阵痛，一面带着泥土和草根的地气:《民间》的记者手册里，首推野外生存的技巧，如防跳蚤、睡睡袋云云，在藏区、农村过年是平常事。</p>
-<p>为了完成《被调整的目光——回复民族本土文化的环保试验》，两位记者历时三个月，行程2万8千公里，北至内蒙古边境，南至西双版纳，西至德格藏区的广漠地区，记录了国内民众自发的恢复传统文化试点行动。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.20.31.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.20.31.png" alt="Screen Shot 2015-10-20 at 上午11.20.31" width="280" height="400"></a></p>
-<p>而阵痛的另一面，承受着难被主流所接纳的“戾气”，“民间要有活力，校方的名号，民间的资金，人马来自民间。”这并不是一件容易的事情。选题敏感，敢怒敢言，资金依赖自筹。翟明磊走路时忙于开会、斡旋，都是常有之事。</p>
-<p>纸质版的《民间》的最后一刊，是2007年夏季刊。</p>
-<p>翟明磊已经记不清楚是第12还是第13期。但是《民间》被迫停刊前后，编辑部被干扰，家被查抄，去网吧向外界求援，没有一个支持者提出退款要求，《民间》电子版开始在网上流传……这些细节，他能很清晰地回忆起来。</p>
-<p>他感言，在《民间》的编委会，他学会了什么是公民讨论，在最后一次编委会上，大家都从容镇定，仔细讨论最后一期的错别字与要检讨改进的内容，好像停刊之事从未发生，依然谈笑风生。“是在广州，好像小说《最后一课》，似乎下一期还会出版。”</p>
-<p>在我们长达5小时的交谈里，《民间》被他一次又一次地提起。就像是怀着希望出生的孩子，终究还是夭折了。翟明磊写道，“没有感受过剥夺的人，往往无法体会那种苦涩的真实。”至少，聚是一团火，散作满天星。</p>
-<p>“第一次，我不再是挑战正经与权威的破坏者，在一片道德废墟上，阿童木们想到了建设，建设公民的道德。多背一公斤的故事，乡村学校的年轻人，艾滋村的救助者，农村合作社的养猪传奇，贵州石门坎的妇女联合，点点滴滴的细流，温柔的人和力量。”事后，他在《去意彷徨的阿童木一代》写到投身NGO，创办《民间》的感想。</p>
-<p>2007年，翟明磊开始做《壹报》，“壹报主人”、“一个人的报纸”，他拿出当时毛笔字书写的名片，递给我，这是他执意逆流而上的标签。当时，“新媒体”的概念才刚刚展露头角，从地下刊物到线上杂志，从几个人的编委会到一个人的驻守，《壹报》就如《民间》的延续，首篇报道是《民间》最后一期关于龙泉土地斗争的新闻。</p>
-<p>在龙泉土地斗争的报道中，这一篇站在当权者“对立面”的公民记者之作，却意外成为了上下沟通的传声筒，在媒体的介入下，双方达成了“双赢”的协议。政府征地的同时，允许整个村庄加盖一层楼，政府不花一分钱，老百姓也获得了实际的好处。农民、区长打来感谢电话，赞翟明磊促进了官民矛盾的解决。</p>
-<p>公民记者的禁忌更少，跳出单声道的报道的禁区，经过磨合，甚至能承担谈判者的角色，翟明磊认为，“这是无可厚非的”，而且，“谈判最重要的不是互相妥协，一定要设计一个方案让大家都获得好处。”</p>
-<p>网络风气初开，包罗万象，公民社会得以借力而为。除了线下报道（如《震旦：汶川地震预报真相》等）得以在线上广外流传，社交网络的兴起，则为公民社会的发展提供了新的土壤。</p>
-<p>《壹报》在微博上进行了3次的线上公民课实验，每次长达6-7小时，从第一课《学会讲道理》开始，谈到公民守则、公民权利等等。翟明磊对当时愈演愈烈的线上互动讨论，印象深刻。他直言更主张社会动态的平衡，“互相要有刺激、博弈、斗争，互相保护自己的权利”。</p>
-<p>这种观点，大抵与坚持言论自由的初衷一致，在思想自由市场中，各类言论百花齐放，问题才得越辩越明，不要害怕不同的意见。通过强权、限制言论自由的静态平衡，往往隐藏着更深重的社会危机。</p>
-<p>端媒体近期发表的社评《万有引力之虫：从1984到美丽新世界》中提到，“2009到2011的两三年间，媒体上还能经常看到“公民社会”的字眼。遍地生长的沙龙，不断被拓展的话语禁区，和年轻人踊跃的参与，被看做是内地公民社会发育的曙光。才过了两三年，公民社会已经是“七不讲”之一，即使是私下发言，也无人再谈起这个概念”。</p>
-<p>《壹报》的公民课，意料之中地，被叫停了。</p>
-<p>“战胜一份恐惧就有了一份能量”</p>
-<p>与网络上“公民社会”的讨论语境一起衰亡的，是曾经声名显赫，敢怒敢言的南方系，随着纸媒的式微，齐齐隐没于虚拟的高墙之内，扼杀于缥缈的强国梦之中。蔓延的无力感在锥心地拷问着，曾经、依然、渴望活跃在调查记者、公民社会，NGO圈中的人们。是不愿自我“阉割”让他们走到了今天，讽刺的是，也许只有自我受限才能帮助他们走的更远。民间组织想要的是“对话”，无奈却总被视为“对立”。</p>
-<p>十年过去，翟明磊还是强调自己是一个“胆小的人”，这似乎很难让人相信。十年来，他时时为朋友两肋插刀，对抗“不可抗力”，常常为圈内人所道，“请喝茶”亦是家常便饭。他却认为，是“胆小”，让他依然可过上相对“平安”的日子。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.21.27.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.21.27.png" alt="Screen Shot 2015-10-20 at 上午11.21.27" width="398" height="299"></a></p>
-<p>“胆小和勇敢并不矛盾。战胜一份恐惧，就多了一份能量。”公民运动是讲求策略，要对“安全”敏感，行动果断。怀有谦卑心，与媒体打交道保持低调，需要不断地调整自己身心状态。“一个人不可能长久牺牲的，家庭无法支撑。”私人空间和公共空间要有心理隔水舱。</p>
-<p>而谈到作为调查记者的心态，他说也许有时报道本身比较成功，但是心里还是很难受，因为看不到报道带来的变化，增生了无力感与悲观，“这个思维还是传统‘士大夫’的心态，你承担了你不应该承担的责任，记者不应该有‘解决者’的负担。”而他却同时游走在记录者与解决者的角色之间，偏向于己任的抱负，一个“个人主义”的“士大夫”，“的确很幼稚，当做一个希望去做。”他希望和传统的士大夫不一样，不是在下野的地方暗自神伤，渴望回到庙堂，而是欣然在野，哭歌民意。</p>
-<p>他曾面临着抉择，是去做《民间》还是留在香港大学做研究？他决定还是要回到《民间》。</p>
-<p>他也有过一段沮丧的时期。在《民间》被查抄后，翟明磊言，干什么都提不起精神，“忧伤种在心理”。受陈婉莹、钱纲的邀请，他在香港逗留了一段时间，做学术访问，渐渐把憋在心里的那口气，缓缓地舒了出来。</p>
-<p>“我做民间的事，每一次从结果来说都是失败的。但屡败屡战，意义就在过程中……《民间》办了那么多期，我们已经赚到了。”他提起当年《民间》编委2006年度主编梁晓燕说的话。</p>
-<p>对于十年来，公益行业、公民社会的变化，言其感受是，“一言难尽”。</p>
-<p>总得有人去擦亮星星，<br>
-它们看起来灰蒙蒙。<br>
-总得有人去擦亮星星，<br>
-因为那些八哥、海鸥和老鹰<br>
-都抱怨星星又旧又生锈，<br>
-想要个新的我们没有。<br>
-所以还是带上水桶和抹布，<br>
-总得有人去擦亮星星。<br>
-　　  ——(美)谢尔·希尔弗斯坦《总得有人去擦亮星星》</p>
-<p>从《汉声》出发，回归民间</p>
-<p>2011年，翟明磊开始为台湾《汉声》杂志社工作，在此之前，他是《汉声》杂志的忠实读者，会自掏腰包淘来中文《汉声》的首刊。他现在也把自己在《汉声》的工作，视为另外一个回归民间的调查新闻采写，民俗田野调查加之人类学实践。</p>
-<p>现在，作为《汉声》杂志的上海负责人，他参与了《水八仙》、《大闸蟹》、《康乾盛世》等专辑的采访、撰写、排版、出版。本本《汉声》特辑从装帧到内容都极为考究，依据不同的主题而变，一本《汉声》可能经历了240小时的印刷，九九八十一难，把传统文化从视觉、触觉到头脑的体验，都糅合在一本书中。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.22.28.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.22.28.png" alt="Screen Shot 2015-10-20 at 上午11.22.28" width="296" height="387"></a></p>
-<p>打开翟明磊的工作笔记本，里面记录从选题开始的个人思路、会议记录等等，还配上了随手的画作、诗作，很是玩味有趣。</p>
-<p>他言，《汉声》杂志的工作，磨练了他的耐性和柔性。现在的自己，“文武双全”，“武”是参与公民运动的轰轰烈烈，而“文”能静性，是汉声杂志给予的契机与空间，他甚至还跑去了苏州，学习木刻。</p>
-<p>这十年，他总结了自己人生追求到了“真善美”：一个求真的记者，一个怀有善意初心的公民，一个投身于保护传统文化之美的工作者。</p>
-<p>“我没有成为我年轻时讨厌的那种人。”他哈哈笑地欣欣然，“虽无名无利无官无车，从这种意义上，我也算成功人士了吧。”</p>
-<p>他递过来他的新名片，依然是毛笔字所书，写着“且将世事花花看，莫把心田草草耕”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.23.04.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.23.04.png" alt="Screen Shot 2015-10-20 at 上午11.23.04" width="222" height="297"></a></p>
-<p>“下一个十年，你有什么期待？”</p>
-<p>“没有预期，保护文化为先。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.23.45.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-20-at-%E4%B8%8A%E5%8D%8811.23.45.png" alt="Screen Shot 2015-10-20 at 上午11.23.45" width="182" height="169"></a></p>
-<p>本文为NGOCN原创采访，作者：黄姝伦。如需转载，请后台留言获取授权。媒体合作请联系yanggc@ngocn.net</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/ngocn-%E7%BF%9F%E6%98%8E%E7%A3%8A%EF%BC%9A%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%AC%A3%E7%84%B6%E5%9C%A8%E9%87%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E6%B0%91%E9%97%B4%E3%80%8B/?category=18271" rel="tag">《民间》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18271" rel="tag">NGOCN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D%E8%AE%B2/?category=18271" rel="tag">七不讲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%9F%E6%98%8E%E7%A3%8A/?category=18271" rel="tag">翟明磊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%A7%9D%E4%BC%A6/?category=18271" rel="tag">黄姝伦</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%AE%BF%E8%8B%B1%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5%E7%85%A7-%E9%81%AD%E5%BE%AE%E5%8D%9A%E6%B2%B3%E8%9F%B9/" target="cdt-mirror">立场新闻 | 彭丽媛访英化妆失败照 遭微博河蟹</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/pang-09_jJ9o7_1200x0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/pang-09_jJ9o7_1200x0.png" alt="彭丽媛化妆失败" width="600" height="400"></a></p>
-<p>中国国家主席习近平夫人彭丽媛，常被大陆媒体吹捧成时尚指标的地位，但在偕夫访英期间失手，被外国摄影记拍到脸上出现不均匀白粉，被戏称为「化妆失败」、「化妆事故」，外媒、港台媒体大肆报道，但在中国大陆网络，彭丽媛的这张照片则被「河蟹」；在新浪微博上，连发帖的网民帐号亦遭屏蔽。</p>
-<p>根据监测屏蔽微博的网站「<a href="https://freeweibo.com/weibo/3900666981957058" target="_blank">自由微博</a>」，上载彭丽媛「化妆事故」照片的微博，已经被删除，转发者微博亦被屏蔽。从<a href="http://webcache.googleusercontent.com/search?q=cache:4YZlGL-LKf8J:weibo.com/5718066597/D0hlM8d7s+&cd=1&hl=zh-TW&ct=clnk&gl=hk#_rnd1445487298170" target="_blank">Google cache记录</a>亦可见，有关微博已无法访问，而发帖者的帐号目前已经失效。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7854756456456_xMEVU_1200x0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7854756456456_xMEVU_1200x0.jpg" alt="Google cache记录 该微博现无法访问" width="600" height="325"></a><p>Google cache记录 该微博现无法访问</p></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/45456415145145_ZJ9eC_1200x0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/45456415145145_ZJ9eC_1200x0.jpg" alt="发帖者微博目前「异常」" width="600" height="315"></a><p>发帖者微博目前「异常」</p></div>
-<p>微博上亦有网民讨论有关微博被删除的事：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/75456456454156_RnX3J_1200x0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/75456456454156_RnX3J_1200x0.jpg" alt="75456456454156_RnX3J_1200x0" width="554" height="529"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/45764684564125_xmuVN_1200x0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/45764684564125_xmuVN_1200x0.jpg" alt="45764684564125_xmuVN_1200x0" width="600" height="145"></a></p>
-<p>另一方面，英国《每日邮报》将彭丽媛形容为「前摇滚明星」（former rock star），亦激起网民联想（下图）。目前，此微博尚未被屏蔽，但网民纷纷在下方为专页点蜡烛及称「坐等贵博新号」。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen20Shot202015-10-2220at2012.25.1020PM_JxwoJ_1200x0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen20Shot202015-10-2220at2012.25.1020PM_JxwoJ_1200x0.png" alt="Screen20Shot202015-10-2220at2012.25.1020PM_JxwoJ_1200x0" width="597" height="2016"></a></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%AE%BF%E8%8B%B1%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5%E7%85%A7-%E9%81%AD%E5%BE%AE%E5%8D%9A%E6%B2%B3%E8%9F%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%A6%86%E4%BA%8B%E6%95%85/?category=18271" rel="tag">化妆事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5/?category=18271" rel="tag">化妆失败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">自由微博</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -973,7 +914,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -983,5 +924,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://</html>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<hr><center>cloudflare-nginx</center>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://</html>">https://</html></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://<center><h1>403 Forbidden</h1></center>">https://<center><h1>403 Forbidden</h1></center></a><br/><a href="https://<hr><center>cloudflare-nginx</center>">https://<hr><center>cloudflare-nginx</center></a><br/><a href="https://<html>">https://<html></a><br/></td>    </tr>
+        <td><a href="https://<hr><center>cloudflare-nginx</center>">https://<hr><center>cloudflare-nginx</center></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://</html>">https://</html></a><br/><a href="https://<head><title>403 Forbidden</title></head>">https://<head><title>403 Forbidden</title></head></a><br/><a href="https://<html>">https://<html></a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%A9%86%E5%85%89%E5%AE%97%EF%BC%9A3000%E4%B8%87%E5%85%89%E6%A3%8D%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%94%9F%E5%91%BD%E6%9D%83%E7%9A%84%E6%BC%A0%E8%A7%86/" target="cdt-mirror">穆光宗：3000万光棍的背后是生命权的漠视</a>
@@ -1038,7 +1038,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<html>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<center><h1>403 Forbidden</h1></center>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1048,5 +1048,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://<html>">https://<html></a><br/><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://</html>">https://</html></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://<center><h1>403 Forbidden</h1></center>">https://<center><h1>403 Forbidden</h1></center></a><br/></td>    </tr>
+        <td><a href="https://<center><h1>403 Forbidden</h1></center>">https://<center><h1>403 Forbidden</h1></center></a><br/><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://</html>">https://</html></a><br/><a href="https://<html>">https://<html></a><br/></td>    </tr>
 </table>

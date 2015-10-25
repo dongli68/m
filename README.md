@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://</html>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<center><h1>403 Forbidden</h1></center>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://</html>">https://</html></a><br/><a href="https://<center><h1>403 Forbidden</h1></center>">https://<center><h1>403 Forbidden</h1></center></a><br/><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://<hr><center>cloudflare-nginx</center>">https://<hr><center>cloudflare-nginx</center></a><br/><a href="https://<html>">https://<html></a><br/></td>    </tr>
+        <td><a href="https://<center><h1>403 Forbidden</h1></center>">https://<center><h1>403 Forbidden</h1></center></a><br/><a href="https://<head><title>403 Forbidden</title></head>">https://<head><title>403 Forbidden</title></head></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://</html>">https://</html></a><br/><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E5%AF%B9%E5%BE%85%E5%8E%86%E5%8F%B2%E7%9A%84%E6%80%81%E5%BA%A6%E5%86%B3%E5%AE%9A%E6%B0%91%E6%97%8F%E7%9A%84%E6%9C%AA%E6%9D%A5/" target="cdt-mirror">共识网｜对待历史的态度决定民族的未来</a>
@@ -1034,7 +1034,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://</html>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<center><h1>403 Forbidden</h1></center>"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1044,5 +1044,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://</html>">https://</html></a><br/><a href="https://<hr><center>cloudflare-nginx</center>">https://<hr><center>cloudflare-nginx</center></a><br/><a href="https://<center><h1>403 Forbidden</h1></center>">https://<center><h1>403 Forbidden</h1></center></a><br/><a href="https://<head><title>403 Forbidden</title></head>">https://<head><title>403 Forbidden</title></head></a><br/><a href="https://<html>">https://<html></a><br/></td>    </tr>
+        <td><a href="https://<center><h1>403 Forbidden</h1></center>">https://<center><h1>403 Forbidden</h1></center></a><br/><a href="https://<html>">https://<html></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://<hr><center>cloudflare-nginx</center>">https://<hr><center>cloudflare-nginx</center></a><br/><a href="https://</html>">https://</html></a><br/></td>    </tr>
 </table>

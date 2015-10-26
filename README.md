@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90cdtv%E3%80%91%E8%8B%B1%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AF%B9%E8%BE%A9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/" target="cdt-mirror">【CDTV】英国小伙对辩中国留学生</a>
+</h2>
+<p><p>英国小伙VS举红旗的中国学生</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90cdtv%E3%80%91%E8%8B%B1%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AF%B9%E8%BE%A9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/65cc9274jw1exee44t2agj20vk0hsgoi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/65cc9274jw1exee44t2agj20vk0hsgoi.jpg" alt="65cc9274jw1exee44t2agj20vk0hsgoi" width="440" height="248"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/65cc9274jw1exee456lovj20vk0hsn0g.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/65cc9274jw1exee456lovj20vk0hsn0g.jpg" alt="65cc9274jw1exee456lovj20vk0hsn0g" width="440" height="248"></a></p>
+<p>hnjhj：英国那个小伙舌战中国五毛的视频里，最搞笑的是这段：一听到西藏一词，一个善于抖机灵的小五毛就炸毛了，建议英国小伙去跟苏格兰人民讨论一下独立事宜，没想到英国小伙骄傲地宣布自己是苏独分子。这种挫败感，连看三天新闻联播都不见得能够平复。</p>
+<p>月半老猫：英国人试图表达【你们在这里享有并行使你们的自由和权利，但你们怎么就想不通你国内的同胞不是也应该享有这些自由和权利吗？】，（中国人回答最盲塞的是【你管那么多】。）</p>
+<p><a href="http://weibo.com/5239115061" target="_blank">青衫秀士</a><i></i>：那些去英国留学的大学生英语可真水<img title="[弱]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]">除了反复的说爱国爱政府之外，居然连一个能和那个英国小伙子好好沟通的都没有<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]">这水平简直连乡村民办教师都不如<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]">还有，在人家的国家居然要求人家用中国话交流<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]">人家有义务学习你国的语言吗<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p>shifeike：刚看了那个伦敦街头小辩论的视频，心里真是感慨。在国力特别是经济实力上，吾国确已和百年前有云泥之别。但中英两国之间在人类文明进化史上的差距，和一百多年前并无二致。</p>
+<p>李凯楠微博：这种花钱买过来站街的留学生不好用啊。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90cdtv%E3%80%91%E8%8B%B1%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AF%B9%E8%BE%A9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A6%E6%95%A6/?category=18271" rel="tag">伦敦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E6%A0%BC%E5%85%B0%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">苏格兰独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">西藏问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%A9%E8%AE%BA/?category=18271" rel="tag">辩论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E4%B8%80%E7%AF%87%E7%8E%B0%E4%BB%A3%E7%89%88%E9%85%B7%E5%90%8F%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%A3%E8%A8%80/" target="cdt-mirror">东网｜王药师：一篇现代版酷吏的自我宣言</a>
 </h2>
 <p><p>相比“御史大夫”王岐山的一贯高调强势，中共普通纪检干部以往给外界的印象是低调甚至有点神秘。不过这种印象最近被一个名叫徐爱生的人彻底给打破了。经《北京日报》旗下微信公号“长安街知事”披露，这位央企中远集团新任纪检组长的内部讲话这两天红遍网络。</p>
@@ -93,7 +112,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">三年大饥荒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E9%98%B3%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">信阳事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">大饥荒</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8A%A8%E5%90%91%EF%BD%9C%E7%89%9F%E4%BC%A0%E7%8F%A9%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%9B%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%A4%A7%E6%97%97/" target="cdt-mirror">动向｜牟传珩：习近平扛不起的共产主义大旗</a>
 </h2>
@@ -1037,25 +1056,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F%EF%BD%9C%E6%80%BB%E8%A3%81%E9%99%88%E9%B8%BF%E6%A1%A5%E8%87%AA%E6%9D%80-%E5%9B%BD%E4%BF%A1%E6%9A%82%E6%97%A0%E5%9B%9E%E5%BA%94/" target="cdt-mirror">新浪财经｜总裁陈鸿桥自杀 国信暂无回应</a>
-</h2>
-<p><p>新浪财经讯 10月23日消息 新浪财经获悉，国信证券(16.80, 0.31, 1.88%)总裁陈鸿桥在家中自杀身亡。截至发稿，国信证券并没有就相关事件进行回应。</p>
-<p>陈鸿桥加盟国信证券后，曾大力推进券商互联网金融业务。今年上半年，他在媒体举办的金融年会上表示，互联网+是最好时代。他建议应该更多关注一级市场，关注企业股权投资，关注定向增发这样的一级半市场。通过资本支持实体经济和新兴产业来获得更长期更有盈利空间的投资回报。</p>
-<p>经深圳市委研究决定，陈鸿桥任国信证券委员会委员、副书记，免去胡继之国信证券委员会副书记、委员职务，推荐陈鸿桥任国信证券总经理。</p>
-<p>公开信息显示，陈鸿桥1988年毕业于北京大学[微博]国际经济系。1989年创办并主管全国最早、规模最大的电话声讯台－－深大电话公司160声讯台。1994年起担任深圳证券结算有限公司副总经理，1997年任深交所[微博]资金交收部总监、2001年任深交所创业企业培训中心主任、2003年起任深交所副总经理。2014年5月，经深圳市委研究决定，陈鸿桥任国信证券委员会委员、副书记，并推荐其任国信证券总经理。</p>
-<p><strong><a href="http://finance.china.com.cn/news/20151023/3398686.shtml">另据中国网财经报道</a>：消息称国信证券总裁陈鸿桥自杀 曾任张育军副手<br></strong></p>
-<p>中国网财经10月23日讯 据媒体人士“曹山石”微博爆料，国信证券总裁陈鸿桥今天在阳明山庄家中阳台用电线自缢身亡。陈鸿桥前段时间要出境，发现被边控劝返。</p>
-<p>中国网财经记者致电陈鸿桥，发现其电话已被设置为呼叫转移，该司董秘办公室、投资者关系等电话则一直无人接听。国信证券官网也尚未对此作出回应。</p>
-<p>公开资料显示，陈鸿桥生于1966年，毕业于北京大学国际经济系。2014年5月，陈鸿桥从深交所副总经理一职被调至国信证券接棒胡继之。两人经历颇为相似，胡继之在掌舵国信证券之前，也同样担任过深交所副总经理一职，是时任深交所总经理张育军的副手。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151023085856_chen_hongqiao_512x288_guosen_nocredit.jpg" alt="151023085856_chen_hongqiao_512x288_guosen_nocredit" width="551" height="310"></p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F%EF%BD%9C%E6%80%BB%E8%A3%81%E9%99%88%E9%B8%BF%E6%A1%A5%E8%87%AA%E6%9D%80-%E5%9B%BD%E4%BF%A1%E6%9A%82%E6%97%A0%E5%9B%9E%E5%BA%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%A1%E8%AF%81%E5%88%B8/?category=18271" rel="tag">国信证券</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80/?category=18271" rel="tag">官员自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E9%B8%BF%E6%A1%A5/?category=18271" rel="tag">陈鸿桥</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1077,5 +1077,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%A1
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

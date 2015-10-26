@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,103 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-9/" target="cdt-mirror">【网络民议】法大教授：“不是屏蔽删帖，就是翻墙偷着乐”</a>
+</h2>
+<p><p><strong>新闻背景：</strong></p>
+<p>据中国经济网报道，10月24日，由清华大学法学院、中国互联网协会联合主办的<a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%BD%91-%E9%A6%96%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C-%E6%88%90%E7%AB%8B%E4%B8%AD%E5%BE%8B/">第一届互联网法治大会在京举行</a>：</p>
+<blockquote><p>大会举行当天上午为主论坛，下午的分论坛分别为“互联网+国家治理”、“互联网+社会治理”、“互联网+法律服务”及“互联网+财经法治”等四个主题。全国政协原副主席罗豪才，法学泰斗江平、清华大学法学院院长王振民、中国互联网协会秘书长卢卫，全国律协副会长朱征夫等专家学者，及来自百度、阿里巴巴、腾讯、滴滴出行等知名互联网企业的高管参会。</p>
+<p>[…] “在互联网法治的发展中，我们应该呼吁互联网母法的尽快出台，且不能够在制定互联网有关的法律方面采取太多限制自由的手段。同时，在互联网立法中要注意整体性立法和部门性立法的良好配合。”江平认为，“互联网+法律”使法律最大程度上成为公民权利的保护神，互联网法治的发展使得法治中国建设的目标能够真正实现，也成为实现中华民族伟大复兴中国梦的重要保障。</p></blockquote>
+<p>中国政法大学教授<a href="http://weibo.com/1444127722/D0LCycz5d?from=page_1003061444127722_profile&wvr=6&mod=weibotime&type=comment#_rnd1445897538189">@郭世佑</a>作了大会主旨报告，呼吁增强网络自由：</p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<blockquote>
+<div><strong>我国互联网几乎与国际同步，正当互联网的青壮年，还能赚大钱，但就互联网的自由使命与它在中国的负担与遭遇来看，还处在亟待呵护的童年，在国务院总理号召 “互联网+”之前，早就加了一个网管网控，不是屏蔽删帖，就是翻墙偷着乐。如果能先减掉它就好</strong>——10,24郭世佑在北京首届互联网法治大会的主旨报告</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/5613a3eajw1exd9w7wn7qj20ku0fmgnl1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/5613a3eajw1exd9w7wn7qj20ku0fmgnl1.jpg" alt="5613a3eajw1exd9w7wn7qj20ku0fmgnl" width="440" height="330"></a></p>
+<p><strong>以下为中国数字时代编辑收集自网友评论：</strong></p>
+<p>‏<a href="https://twitter.com/beidaijin">beidaijin</a>：这位博主是政法大学的博导。（“翻墙偷着乐”是什么意思）</p>
+<p><a href="https://twitter.com/fnfen1">‏fnfen1</a>：@beidaijin 感覺是“中國的互聯網的自由使命和遭遇，國內不是屏蔽刪貼，就只能選擇翻牆”的意思</p>
+<p><strong data-aria-label-part=""><a href="https://twitter.com/lijiansion" data-user-id="202618004">胶小河</a>：</strong>@beidaijin 1024，他是翻墙上草榴了吧。</p>
+<div><strong data-aria-label-part=""><a href="https://twitter.com/beidaijin" data-user-id="435954378">贝带劲</a>：</strong><a dir="ltr" href="https://twitter.com/lijiansion">@lijiansion</a> 他的主语是网管吗？说网管翻墙偷着乐？感觉这个句式有歧义。。究竟是呼吁取消网管 还是禁止翻墙或者禁止网管翻墙？</div>
+<p><a href="http://weibo.com/u/1504020871">庄生夜梦</a>：网络长城救不了王朝衰落</p>
+<p><a href="http://weibo.com/u/2150670170">brahman</a>：我看“互联网+”在中国就是大数据加实名制，每个人在网络中的一举一动都留下蛛丝马迹，并能让有关部门迅速逮到你。</p>
+<p><a href="http://weibo.com/u/2790685094">徐-光-宗</a>：一切都是歌舞升平、形势一片大好，谁在网上宣扬负能量，就删帖禁言，粉饰太平，为体制说谎辩护的文化阉宦、大小五毛们却一个个挣得盆满钵满，我倒奇怪，如果骂国家、骂领导、骂贪污、骂腐败能够把这个国家骂亡，那美国不早就亡国了吗？如果禁止人们自由言论、妄议朝政有效的话，周幽王这阿斗何以亡国？</p>
+<p><a href="http://weibo.com/hengshuibiyanhu">侯雁濒</a>：我们的道路是中国特色社会主义道路,我们的网是具有中国特色的互联网[阴险][阴险][阴险].</p>
+<p><a href="http://weibo.com/u/2927612341">周永坤微博</a>：筑墙+删帖+喝茶=权</p>
+<p><a href="http://weibo.com/234536368">千里蜀黍</a>：人家是互联网，俺们是局域网+删贴。</p>
+<p><a href="http://weibo.com/liaorui118">廖睿</a>：郭老师这属于“妄议中央大政方针”。[偷笑]</p>
+<p><a href="http://weibo.com/u/1917477341">手机用户新希望</a>：越来越封闭，向朝鲜学习</p>
+<p><a href="http://weibo.com/u/2988668661">情义疯子寂寞</a>：老百姓是遵法的，也害怕法律，你们给五毛，地域，还有特权们讲讲法吧。</p>
+<p><a href="http://weibo.com/2619430541" target="_blank">yanqiang1988</a>：如何攻击长城防火墙？</p>
+<div><a href="http://weibo.com/2401247845" target="_blank">新鲜-百科</a>：封网毁灭了中国民族的创新力。</div>
+<p><a href="http://weibo.com/2805041997" target="_blank">Ritaketty</a>：怕什么呢，中国有句古话怕啥来啥。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">互联网立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">法律人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第一届互联网法治大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%B8%96%E4%BD%91/?category=18271" rel="tag">郭世佑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%BD%91-%E9%A6%96%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C-%E6%88%90%E7%AB%8B%E4%B8%AD%E5%BE%8B/" target="cdt-mirror">中国经济网 | 首届互联网法治大会举行 成立“中律联”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/5613a3eajw1exd9w7wn7qj20ku0fmgnl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/5613a3eajw1exd9w7wn7qj20ku0fmgnl.jpg" alt="5613a3eajw1exd9w7wn7qj20ku0fmgnl" width="440" height="330"></a><br>
+（中国政法大学教授郭世佑在北京首届互联网法治大会作主旨报告）</p>
+<p>中国经济网北京10月26日讯（记者 李万祥）由清华大学法学院、中国互联网协会联合主办的第一届互联网法治大会10月24日在京举行。会议宣布集合全国各地知名律所及律师资源的中律联正式成立，并举行了中律联互联网法治研究院的揭牌仪式。</p>
+<p>　　大会举行当天上午为主论坛，下午的分论坛分别为“互联网+国家治理”、“互联网+社会治理”、“互联网+法律服务”及“互联网+财经法治”等四个主题。全国政协原副主席罗豪才，法学泰斗江平、清华大学法学院院长王振民、中国互联网协会秘书长卢卫，全国律协副会长朱征夫等专家学者，及来自百度、阿里巴巴、腾讯、滴滴出行等知名互联网企业的高管参会。</p>
+<p>　　罗豪才在致辞中表示，互联网带来了这个时代最深刻的变革，但互联网也绝非法外之地，同样需要法治的阳光。互联网治理呼唤着软法之治，硬法相对固化的管理方式难以适应像互联网的变动性、开放性、包容性等特性，从而导致规范效果不佳的后果。而软法由社会多元主体共同制定，内容广泛、形式多样、制定程序灵活，能够弥补硬法的空白。当然提倡软法并不意味着不要硬法，软法、硬法协调共治是现代社会公共治理的大势所趋。</p>
+<p>　　“在互联网法治的发展中，我们应该呼吁互联网母法的尽快出台，且不能够在制定互联网有关的法律方面采取太多限制自由的手段。同时，在互联网立法中要注意整体性立法和部门性立法的良好配合。”江平认为，“互联网+法律”使法律最大程度上成为公民权利的保护神，互联网法治的发展使得法治中国建设的目标能够真正实现，也成为实现中华民族伟大复兴中国梦的重要保障。</p>
+<p>　　王振民表示，互联网法治建设是一个新生事物，一方面互联网自身需要治理，这既包括国内立法，也包括国际立法协作。另一方面互联网对现实世界的影响、对现实世界法律秩序的冲击需要应对。网络的法治建设很可能先走一步，率先实现互联网的法治状态，而且为现实世界的法治建设提供推动力，同时也为中国作为一个网络大国，也为国际的网络法律秩序的形成做出自己的贡献。</p>
+<p>　　“互联网创新与传统行业发展之间存在着冲突和碰撞，行业的创新性与监管的滞后性相生相伴。”卢卫认为，互联网发展引起的每一次创新与变革，法律和监管问题紧跟其后。要解决这个问题，首先要不断完善我国的法律体系，增强立法的时代性，为互联网创新提供制度保障。第二，要积极破除行业障碍，为“互联网+”时代的创新提供宽松包容的政策环境。第三，要坚持稳定有序的原则，积极构建多元合作治理机制。</p>
+<p>　　据悉，作为互联网法治的推动力，中律联盟是一个“互联网+律所+律师”的联盟。中律联发起人、全国律协建房委主任朱树英介绍，中律联盟现有30多家律所成员、数千名律师个人会员。遍布中国一二三四线城市的中律联盟律所网络，将每家律所专业板块高效整合，使得律所无须丧失联盟成员所在当地业已形成的品牌优势，却可以形成线上海量资源与线下成员所实体的无缝对接。同时，将联盟成员律师数以亿计的碎片时间高效再利用，共同抗衡全球大所的竞争，取得跨界超越优势。</p>
+<p>　　中律联发起人、北京市中闻律师事务所主任吴革介绍，随着“互联网+”对法律行业的变革，中国法律市场将在未来几年面临全行业的重新洗牌乃至颠覆，因此在保留既有的律师事务所品牌和资源优势的前提下，中律联通过联盟的形式获取北上广深及各个省会城市的律师事务所的资源，形成聚焦效应，以“互联网+”时代的知识管理和互联网精神应对国外互联网大潮的冲击，主动融入以互联网为标志的法律人的大连接、大联盟的时代。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%BD%91-%E9%A6%96%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C-%E6%88%90%E7%AB%8B%E4%B8%AD%E5%BE%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%BE%8B%E8%81%94/?category=18271" rel="tag">中律联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">互联网审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">互联网立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E5%B9%B3/?category=18271" rel="tag">江平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第一届互联网法治大会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%E4%BD%99%E6%9D%B0%EF%BC%9A%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96%E4%B8%8E%E7%8B%AC%E8%A3%81%E8%80%85%E7%BB%93%E7%BC%98/" target="cdt-mirror">民主中国 | 余杰：孔子和平奖与独裁者结缘</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7052cea7gw1exeh2h3v3jj20go0d8t9v.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7052cea7gw1exeh2h3v3jj20go0d8t9v.jpg" alt="7052cea7gw1exeh2h3v3jj20go0d8t9v" width="550" height="436"></a></p>
+<p>今年的孔子和平奖颁给了津巴布韦的屠杀了两万民众、统治了三十五年的总统穆加贝。至此，该奖设立短短六年来，就有连战、普京、卡斯特罗、穆加贝等几位政治强权人物获奖，可见孔子和平奖与独裁者有缘。孔子长眠于地下两千多年了，历朝历代，统治者为其建庙封王，盗用其名，现在仍用他来给独裁者加冕。孔子对此当然无法出来表达异议，只有孔家后代出面稍加澄清：孔子第七十六代传人，香港天主教正义和平委员会干事孔令瑜批评说，对中共自设孔子和平奖以打击诺贝尔和平奖的举动表示心痛。而历史学家余英时评论说：“大家把这个东西当作笑话看，但看完以后，不能不感觉到痛心。我们五千年的文化，又经过五四以后吸收了西方文化，在三四十年代，无论中国文化、西方文化的研究，都到了相当高的程度。到今天会堕落到如此不堪的地步，这是真的不能想象的。”</p>
+<p>孔夫子杀了少正卯一个人，穆加贝屠杀了两万人。所以，津巴布韦总统穆加贝(Robert Mugabe)荣获孔子和平奖，乃是实至名归，正如主办单位颁奖词所说，穆加贝“克服种种困难，致力于打造国家的政治与经济秩序，同时强而有力地支撑了泛非洲主义与非洲的独立”。</p>
+<p>不过，还是有杂音传来。消息传到该国之后，反对派的人民民主党秘书长莫忧随即发言表示，对于穆加贝的获奖感到“极度恶心”，他并以“疯狂的孔子和平奖”（The insanity of the Confucius Peace Prize）为题发表评论指出，穆加贝用血腥、暴力、纵火与残暴手段，打造建构出长达三十五年的独裁统治。</p>
+<p>二零一零年，身在狱中的人权斗士刘晓波荣获诺贝尔和平奖之后，《环球时报》发表文章建议，中国政府应另起炉灶设立“孔子和平奖”，利用孔子的知名度，宣示中国的和平观和人权观。我是在软禁中，国保警察扔掉的一张破报纸上看到这则评论的。</p>
+<p>没有想到，果然有“有识之士”将这个创意变成了现实。由一群所谓的“民间立场”的学者出面，挂靠在“中国乡土艺术协会”之下（该协会是中国“一级协会”，国务院文化部直属单位），创设了一个与诺贝尔和平奖唱对台戏的“孔子和平奖”。被挪威诺奖委员会激怒的中共当局，乐见有爱国者挺身而出捍卫国家尊严。</p>
+<p>第一届孔子和平奖颁发给完成“国共第三次和谈”的国民党荣誉主席连战。那时候的连战，还没有进化到如今放胆参加北京大阅兵的地步，不敢到北京领取这个烫手的山芋。但在颁奖典礼上，司仪现场宣布，“由于众所周知的原因，连战先生今天未能亲到现场领奖，为此，我们邀请了一位小朋友，代连战爷爷上台领奖。”并声称连战已默认领奖。</p>
+<p>一炮没有打响，内讧却已爆发。主办该奖的“民间机构”一分为二，互相攻击。主人见势不妙，不再喂食，文化部发文将双方统统逐出门庭，并在声明中表示该奖项的设立违反了有关规定。至于究竟是哪些规定，则语焉不详。</p>
+<p>但是，爱国者的爱国心百折不挠，主办方以“中国国际和平研究中心”名义，于二零一一年十月改在香港注册成立（该组织不在北京注册，而在香港注册，本身就是一个绝妙的讽刺。幸亏中国还有一个香港，可以宽松地注册形形色色的非政府组织）。</p>
+<p>于是，又施施然地公布了第二届孔子和平奖的评选结果：获奖者为俄罗斯总理普京。普京是习近平惟一打心眼里崇拜的活着的、外国的政治人物，该机构颁奖给普京，习近平当然很高兴。</p>
+<p>普京本人及俄国政府却从未对此一奖项作出任何响应。倒是普京领导的统一俄罗斯党的网站上，迅速发表了不受抬举的言论：该网站援引俄罗斯著名记者多连科的评论说，“这个奖一钱不值”。普京不仅没有亲赴中国领奖，也没有派俄国驻华大使去领奖，主办方只好找来一名俄罗斯留学生代为领奖。习近平错过了一个向偶像颁奖的良机，好不遗憾。颁奖典礼上，北大中文系教授、长期吹捧薄熙来的毛派学者孔庆东宣读了普京获奖的理由。“普京在担任俄罗斯总统和总理期间，政绩斐然，给俄罗斯人民带来了福祉。特别是，普京在二零一一年春夏之交，坚决反对北约轰炸利比亚，为维护世界和平做出了杰出贡献。”然而，普京的反对并未拯救卡扎菲政权覆灭的命运。</p>
+<p>除了该委员会的十六位评委（据该活动的操办者之一、自称诗人并也曾获得提名的谯达摩表示，“孔子和平奖”评审委员会成员多数是中国哲学界大师，水平优于诺贝尔和平奖评委会的五人）之外，俄国也有人认为普京获此奖“当之无愧”。俄罗斯纪念碑人权中心领导人、人权活动家奥尔洛夫评论说，中国人权记录恶劣，普京同样不尊重人权，中国把这一搞笑奖项颁发给普京，可谓臭味相投。他还说：“如果更臭名昭著的津巴布韦总统穆加贝设立某个奖项，然后颁发给普京，普京会更当之无愧。”</p>
+<p>奥尔洛夫倒是未卜先知：穆加贝虽然没有设立一个奖项颁给普京，两年后，穆加贝本人却成了跟普京一样的荣获孔子和平奖的当代伟人——只不过，在普京与穆加贝之间，隔着另一个独裁者，即统治古巴长达半个世纪的卡斯特罗。孔子和平奖得主们，可以组成一个“独裁者俱乐部”了。（可怜的连战同志，在民主的台湾参加选举连战连败，未能炼成掌权的独裁者，有独裁之心，而无独裁之实，只能退一步海阔天空，成为台湾跃居福布斯富豪排行榜的惟一一名政治人物）<br>
+穆加贝获奖，不是大新闻，如果曾在“史诗巨片”《孔子》中扮演孔子的香港巨星周润发出席颁奖典礼，以孔子的扮相给穆加贝颁奖，那才有可能成为大新闻。发哥在银幕里上天入地、弹无虚发，昔日“小马哥”勇闯龙潭虎穴的雄姿英发、风流倜傥犹存，一定会给颁奖典礼增色不少。而穆加贝比发哥更是英明神武，他于一九八一年建立由朝鲜训练的“第五旅”，对付异议人士和实施种族清洗，战无不胜、所向披靡，尸横遍野、血流成河。发哥在电影里扮演过神机妙算、乾坤挪移的赌神，而穆加贝更是现实生活中的赌神——津巴布韦曾在电视上举办过公开的乐透抽奖，摸出来的头奖名单赫然就是穆加贝本人。所以，若是主办方能说动发哥前去颁奖，再请习近平莅临发表重要讲话，必定是吸引世人眼球的大新闻，也会让北欧蛮夷之邦的炸药奖之颁奖典礼黯然失色。</p>
+<p>孔子长眠于地下两千多年了，历朝历代，统治者为其建庙封王，他只能默默忍受。如今，又出现孔子学院和孔子和平奖等“怪现状”，孔子还是无法起死回生、阻止自己的名字被盗用。只有孔家后代出面稍加澄清：孔子第七十六代传人，香港天主教正义和平委员会干事孔令瑜批评说，对中共自设孔子和平奖以打击诺贝尔和平奖的举动表示心痛。而历史学家余英时评论说：“大家把这个东西当作笑话看，但看完以后，不能不感觉到痛心。我们五千年的文化，又经过五四以后吸收了西方文化，在三四十年代，无论中国文化、西方文化的研究，都到了相当高的程度。到今天会堕落到如此不堪的地步，这是真的不能想象的。”</p>
+<p>“斯文”就是这样“扫地”的。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%E4%BD%99%E6%9D%B0%EF%BC%9A%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96%E4%B8%8E%E7%8B%AC%E8%A3%81%E8%80%85%E7%BB%93%E7%BC%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0/?category=18271" rel="tag">余杰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%89%8E%E8%8F%B2/?category=18271" rel="tag">卡扎菲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97/?category=18271" rel="tag">卡斯特罗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">孔子和平奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">民主中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%A6/?category=18271" rel="tag">津巴布韦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E5%8A%A0%E8%B4%9D/?category=18271" rel="tag">穆加贝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E7%A6%81%E5%A6%84%E8%AE%AE%E6%9C%9D%E6%94%BF%E6%98%AF%E6%80%95%E8%B7%9F%E8%8B%8F%E8%81%94%E8%B5%B0%E4%B8%80%E6%A0%B7%E7%9A%84%E8%B7%AF%EF%BC%9F/" target="cdt-mirror">博谈网 | 禁“妄议朝政”是怕跟苏联走一样的路？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard26_59.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard26_59.jpg" alt="Clipboard26_59" width="550" height="310"></a></p>
@@ -636,120 +730,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E7%BB%8F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-22%E6%97%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E5%8D%A1%E6%A2%85%E4%BC%A64%E5%B0%8F%E6%97%B6%E8%B0%88%E8%AF%9D%E6%91%98%E8%A6%81/" target="cdt-mirror">【习总日记】 22日习近平与卡梅伦4小时谈话摘要</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，24）</p>
-<p>22日，在伦敦参观国际移动卫星公司，出席全英孔子学院和孔子课堂年会开幕式，随后还集体会见了英国前首相布朗等英国友人。当天下午，在契克斯首相乡间别墅同英国首相卡梅伦再次会晤。会晤结束后，离开伦敦并于当晚抵达曼彻斯特继续访问。</p>
-<p>23日上午，参观了曼彻斯特大学国家石墨烯研究院和曼彻斯特城市足球学院，并出席了曼彻斯特市政府举行的欢迎宴会。启程回国前，还参观了曼彻斯特空港城项目。</p>
-<p>22日与卡梅伦谈话摘要如下：</p>
-<p>卡：中国人在网上说，他们不相信你在农村插队时读了那么多世界名著。</p>
-<p>习：以后有机会的话，就再多列举一些书名，作为回答。</p>
-<p>卡：你是怎么看待发生在19世纪中叶英中之间的鸦片战争？</p>
-<p>习：我给你念段中国古诗吧。冤冤相报何时了，往事知多少？昨夜白金汉宫里，呼噜震天响。</p>
-<p>卡：听说中共拒绝西方民主和普世价值。可马克思主义也来自西方。</p>
-<p>习：我们不完全拒绝，也不完全接受。要看合适不合适中国国情。</p>
-<p>卡：你的意思是，马克思主义符合中国国情？</p>
-<p>习：那是当然。中国引进马克思主义已过百年，落地生根开花也66年。37年经济飞速发展，离不开马克思主义指导。</p>
-<p>卡：马克思让你们改革开放市场经济？</p>
-<p>习：他没亲口说。但我们认为经济发展是马克思主义毛泽东思想的伟大胜利。</p>
-<p>卡：有人嘲笑我们说，英国下跪。你怎么看？</p>
-<p>习：丘吉尔首相说过，发展是硬道理。撒切尔首相说过，不管白猫黑猫，能帮助英国发展经济就是好猫。我插队时刻苦研读英国历史。当年为发展经济，人人争当海盗。无敌舰队称霸全球时，到处建立殖民地。可惜你们在北美失败了，否则就没美国什么事。该多好啊。</p>
-<p>卡：听口气，美国惹你生气了。</p>
-<p>习：可不，他们冷落我，把我搁在西雅图一边凉快。</p>
-<p>卡：美国是出于英国而胜于英国啊。他们不愿你们重新划定势力范围。</p>
-<p>习，我们要的不多，可美国也不愿意给。你能否告诉我，这是为什么？</p>
-<p>卡：实力不济。</p>
-<p>习：我也是这么想的。所以啊，只好以经贸为契机，我出钱你出力，建立中英超级伙伴关系。以经济发展为中心。</p>
-<p>卡：能否谈谈人权问题？</p>
-<p>习：不能。</p>
-<p>卡：为何不能谈？</p>
-<p>习：你知道这37年中国经济腾飞的原因吗？</p>
-<p>卡：孔子学院宣传说，勤劳智慧的中国人民。</p>
-<p>习：别听孔子学院瞎说。我们是以低人权换发展空间。</p>
-<p>卡：但听说一党专政体制压缩了发展空间。</p>
-<p>习：所以我们来了。一带一路求发展。</p>
-<p>卡：怎么确定不是盲目投资？</p>
-<p>习：你们出管理出项目，我们出资金。公司由你们专业经理人打理，比交给我们政府官员，更令我放心。</p>
-<p>卡：这个思路不错，有点君主立宪的味道。</p>
-<p>习：早在农村插队时，我已博览群书通晓古今中外。更胸怀大志，无师自通练就一身治国本领。</p>
-<p>卡：中国话叫做“吹牛不打草稿”。</p>
-<p>习：莎士比亚说得好，爱信不信。</p>
-<p>卡：问个私人问题。</p>
-<p>习：哪个问题不是私人问题？</p>
-<p>卡：共产党制度好还是民主制度好？</p>
-<p>习：那要看对谁而言。</p>
-<p>卡：怎么讲？</p>
-<p>习：对我们红色革命家后代来说，当然共产党制度好，有特权。对普通老百姓来说，自然是你们这种制度好。</p>
-<p>卡：那当初为何那么多红二代选择出国留学？</p>
-<p>习：那个时候么，，，嘿嘿，，，</p>
-<p>卡：怎么？不好说还是不能说？</p>
-<p>习：当然好说也能说，只是说出来有点害羞。嘿嘿。</p>
-<p>卡：我不看你。你说吧。</p>
-<p>习：记得当年刚改革开放，思想也开放。党内外思想都开放。以为逐渐走向民主化，人人平等没有特权。这样的社会，我们这种人还混什么混。所以，很多高干子女都选择出国留学自谋生路，直接进入发达国家行列，先人一步享受民主生活。</p>
-<p>卡：哪你怎么选择留下？</p>
-<p>习：我哪是读书的料。</p>
-<p>卡：庆丰包子露馅了。</p>
-<p>习：别说出去。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/tumblr_inline_nwpb4hYzhH1tb9aqo_1280.jpg" alt="tumblr_inline_nwpb4hYzhH1tb9aqo_1280" width="551" height="367"><br>
-（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-22%E6%97%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E5%8D%A1%E6%A2%85%E4%BC%A64%E5%B0%8F%E6%97%B6%E8%B0%88%E8%AF%9D%E6%91%98%E8%A6%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1/?category=18271" rel="tag">习近平访英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9D%83%E5%8A%9B%E5%A4%A7%E6%97%A0%E8%BE%B9-%E3%80%8C%E6%96%B0%E4%B8%9C%E5%8E%82%E3%80%8D%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96/" target="cdt-mirror">太阳报｜中纪委权力大无边 「新东厂」横空出世</a>
-</h2>
-<p><p>中共中央发布长达一万八千多字的新版《纪律处分条例》，将旧条例十种违纪行为分类方式整合为六种──政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律、生活纪律，并明确列出每一类的「负面清单」。同时，在中共十八大后新发现的问题，诸如拉帮结派、搞老乡会、妄议中央等皆列入其中。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/k9nnnnnnnnnnnnnnnnnnnn.jpg" alt="k9nnnnnnnnnnnnnnnnnnnn" width="547" height="341"><br>
-王岐山现在扮演的就是习近平的东厂和锦衣卫，权力空前强大</p>
-<p>新版条例是王岐山主政中纪委以来进行制度反腐的一大举措。据说，此前王岐山曾咨询党内各个层级的意见，最终成稿。然而，条例推出后，评价好坏参半，有人称这是从严治党的样本；亦有人说条例存在模糊空间，导致中纪委权限过多，难以落实。</p>
-<p>以「妄议中央大政方针」为例，表面上是为了确保中央政令统一，改变过去「政令不出中南海」的歪风，但由于缺乏具体内容和明确界限，充满灰色地带，导致难以处理。比如甚么叫妄议？妄议是否非议？这顶帽子可以随便扣上。只要你议论党的大政方针，领导又看你不顺眼，就可以给你扣上这顶帽子，开除你的党籍。</p>
-<p>全党上下 沦一言堂</p>
-<p>另一方面，妄议中央大政方针要开除党籍，那么妄议小政方针是否也要开除党籍？大政方针与小政方针如何区别？难道说是中办发的文件是大政方针，省市的政策是小政方针？在周永康主政中央政法委期间，他出台很多伤天害理的维稳政策，都是代表中央名义颁布的大政方针，难道对这些残民以逞的谬政也不能「妄议」？</p>
-<p>新条例还专门规定，「反对党的改革开放决策」即可开除党籍，意味着改革开放变成绝对真理，党员绝不可以质疑。显然，当局设立这个条款是为了打击左派，但问题是，改革开放真的就不能质疑？事实上，过去三十多年来，环境恶化、资源透支、贫富分化、人心坏死、道德沦丧、裸官泛滥等问题，都是改革开放政策执行不当所致，对这些恶政不仅要敢于「妄议」，还要坚决反对。可惜，新条例却祭起开除党籍的大刀，如此一来，谁还敢说真话？全党上下岂非沦为一言堂？</p>
-<p>最关键的是，中央从来没有清晰界定改革是甚么，单位领导的一举一动都可以说成是改革决策。从此以后，各级官员大可打着改革开放的名义肆无忌惮地弄权，谁敢反对他，谁就是反对改革开放，谁就可能被开除党籍。邓小平当年说，改革开放就是一个探索过程，要允许试错，对了坚持，错了要改。现在看来，改革开放只能是永远正确，绝对正确，实在荒谬至极。</p>
-<p>新条例颁布后，最大的赢家是中纪委，今后能够以执行党规家法的名义大大扩充权力，一个无远弗届的「新东厂」就此横空出世。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9D%83%E5%8A%9B%E5%A4%A7%E6%97%A0%E8%BE%B9-%E3%80%8C%E6%96%B0%E4%B8%9C%E5%8E%82%E3%80%8D%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8E%82/?category=18271" rel="tag">东厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%9A%E7%BB%B4%EF%BD%9C%E6%8A%93%E8%B5%B5%E6%99%8B-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8E%8C%E6%8F%A1%E6%B6%89%E9%BB%84%E4%BC%9A%E6%89%80%E5%90%8D%E5%8D%95-%E5%A4%A7%E6%89%B9%E9%AB%98%E5%AE%98%E5%B0%86/" target="cdt-mirror">多维｜抓赵晋 王岐山掌握涉黄会所名单 大批高官将陆续被抛出</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2012/05/fubai.jpg" alt="fubai" width="381" height="500"></p>
-<p>原江苏省委秘书长赵少麟之子赵晋以开设私人会所为高官权贵提供性服务并偷拍的消息此前早有报道，而涉及的一些高官也陆续浮现，除了已确认的原济南市委书记王敏等人，另有诸多高级别官员。此前有分析认为，中纪委书记王岐山早已藉赵晋提交的资料，掌握系列涉黄名单，大批涉事高官将陆续被以贪腐之名抛出。周永康、令计划或许也牵其中。</p>
-<p>周本顺频繁出入赵晋涉黄会所</p>
-<p>北京时间 10 月 16 日，中纪委通报河北省委书记周本顺“双开”时提及，周本顺“频繁出入私人会所”，这一消息再度引发外界对此前中国官媒确认有大批高官卷入赵晋案并出入涉黄会所的关注。</p>
-<p>2014 年 6 月，大陆地产商赵晋及其公司多名高管被纪检人员带走。 4 个月后，其父江苏原省委常委赵少麟被调查。赵晋是周本顺的干儿子，与周本顺之子周靖是多年好友，官媒报道说，赵晋被抓后周靖还四处“为赵晋案活动”。</p>
-<p>周本顺作为赵晋的“干爹”想必也不少出入其涉黄会所</p>
-<p>据陆媒《澎湃新闻》报道，赵晋在北京高档小区缘溪堂有私人会所，连买带装修耗资 1 亿元，去年 5 月 1 日刚刚投入使用。而知情人士透露，赵晋不仅为官员提供会所服务，还提供色情服务，并以偷拍作为要挟。</p>
-<p>王敏被从录像认出 颜世元涉及</p>
-<p>赵晋被抓后，会所偷拍录像中的人物已经次第显形。报道援引赵晋公司内部人员确认，去年 12 月被查的原济南市委书记王敏，就是被从录像中认出来的。今年初，中纪委网站曾刊文指，王敏曾于 2014 年 6 月借到中央党校之机，潜入赵晋在北京的会所吃喝玩乐。</p>
-<p>2015 年 7 月，山东原省委常委、统战部长颜世元被免职后，有山东政界人士表示，颜世元曾陪同王敏出入赵晋在北京的豪华会所。</p>
-<p>另有消息说，周永康与令计划结盟是周本顺居中牵线，但不是在法拉利车祸之后而是之前。文章称，两人当年“结盟”的初次会面地点就是周本顺老婆段雁秋的干儿子赵晋在北京的会所。</p>
-<p>文章还补充说，已经落马的“大老虎”周永康和令计划，被曝光大量性丑闻，两人均拥有众多情妇，周永康更被称为“百鸡王”。两人或是赵晋会所的常客。</p>
-<p>涉黄会所高官名单还很长</p>
-<p>接近赵晋的知情人士表示，出入赵晋会所的政商名流超过百人。而中国官媒《中国新闻周刊》报道，在赵晋的圈子中，有一份长长的名单：他的父亲赵少麟，国家行政学院原常务副院长何家成，山东省委原常委、济南市原市委书记王敏，江苏省委原常委、南京市原市委书记杨卫泽，天津市政协原副主席、天津市公安局原局长武长顺，阵容之豪华令人咋舌。</p>
-<p>北京观察人士认为，已被公布的赵晋“朋友”还只是落马的部分官员，超过百人可能都是相当级别的中共党政要员。而这些高官无一例外，都是会所色情服务的常客。</p>
-<p>7 月 27 日，海外媒体有文章推测，在抓了赵晋等人之后，王岐山手头必然已握有涉及会所淫乱的系列名单。但为免过度震荡，很可能一个一个地抛出。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%9A%E7%BB%B4%EF%BD%9C%E6%8A%93%E8%B5%B5%E6%99%8B-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8E%8C%E6%8F%A1%E6%B6%89%E9%BB%84%E4%BC%9A%E6%89%80%E5%90%8D%E5%8D%95-%E5%A4%A7%E6%89%B9%E9%AB%98%E5%AE%98%E5%B0%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -761,7 +741,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -771,5 +751,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

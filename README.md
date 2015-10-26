@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E7%A6%81%E5%A6%84%E8%AE%AE%E6%9C%9D%E6%94%BF%E6%98%AF%E6%80%95%E8%B7%9F%E8%8B%8F%E8%81%94%E8%B5%B0%E4%B8%80%E6%A0%B7%E7%9A%84%E8%B7%AF%EF%BC%9F/" target="cdt-mirror">博谈网 | 禁“妄议朝政”是怕跟苏联走一样的路？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard26_59.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Clipboard26_59.jpg" alt="Clipboard26_59" width="550" height="310"></a></p>
+<p>（博谈网记者苏智敏报道）“妄议”成了网络社交平台上的热门名词，民众担心不准说话提意见，会带来像文革一样的灾难，是意识形态进一步收紧，对思想自由的进一步打压。法学院教授周永坤也认为应记取教训，有“妄议”，社会才能进步。</p>
+<p>环时：要妄议的党员就离开</p>
+<p>22日新版的《中国共产党纪律处分条例》公布后，其中“妄议中央大政方针，破坏党的集中统一的，情节较轻的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分”持续引起热议。</p>
+<p>习近平在2013年曾说“共产党要容得下尖锐批评”，现在则要党员别“妄议”，对于舆论上不满的声音，《环球时报》发表社评为此新规做解释。</p>
+<p>在“何必用成心曲解‘妄议’来搅浑水”这篇社评中，提到把“妄议中央大政方针”说成是要让全体党员甚至全社会都“闭嘴”，是“没有正常的逻辑可以支撑”的结论。</p>
+<p>社评中指出，党员依然可以对决定提出意见，但要看场合和选择正确的方式，并强调“一名党员、特别是有领导干部或公众人物身份的党员在这些场合公开反对党的大政方针，其政治破坏力是不言而喻的”。</p>
+<p>“前一段时间，社会上经常公开与党的大政方针唱反调的人中，有一些是党员。”社评认为这些视公开发表反对意见“高于一切”的党员，应离开这个组织，因为如果党组织受到“歪风邪气的侵蚀”，就没有“领导全社会为中华民族伟大复兴攻坚克难的力气和意志”。</p>
+<p>另外，新规定是否会造成有个别领导干部利用来压制不同意见、搞打击报复的问题，社评只说“大概会有的”。</p>
+<p>有妄议才有进步</p>
+<p>《环球时报》的社评出来，民众的留言显示出一般人对新规的理解仍认为是要人“闭嘴”。不同的意见被官媒形容成“歪风邪气”，但在过去，在鲜有这些“歪风邪气的侵蚀”下，中共同样没有领导中国来个“伟大复兴攻坚克难”，相反，是带来了一个个的灾难。因此“妄议”现在已成了一个话题，网友担心连党内的人都不能提意见，会导致像大跃进、文革，这种曾是大政方针所造成的悲剧重演。</p>
+<p>对于妄议的党员最重是开除党籍的处罚，网友“透史镜”讽刺的说，如果党员妄议开除党籍，那么他建议，中国民众只要“妄议”就开除国籍，“发配到万恶的米帝去”。</p>
+<p>中共的历史就是一个“妄议中央”的发展史。有人评论说，毛泽东四处妄议才有了遵义会议。资深媒体人朴抱一表示：“要不是几个老头子1976年妄议大政方针，搞了一下子，我们现在肯定在歌颂毛新宇。1992年，有个退休老党员北京呆不住，跑到南方妄议大政方针去了。”他这个“妄议”被屏蔽掉了。</p>
+<p>苏州大学王健法学院教授周永坤在个人微博上，举了中共党史上的“四大妄议”为例子，要当局记取教训：1。农村包围城市是对“中心城市起义”的妄议；2。改革开放是对文革的妄议；3。社会主义市场经济是对计划经济的妄议；4。法治是对“共产党领导下的人治”的妄议。</p>
+<p>他还另外举了其他例子，认为有“妄议”，社会才能进步。他指出美国建国后，就允许“妄议”，因此才能一直走在世界前端；而独裁的苏联是从准“妄议”后才倒台；南朝鲜公开妄议，才有现在的蓬勃发展；北朝鲜处死妄议者，造成全民饥饿，经济贫困。</p>
+<p>周永坤提的苏联是在从准“妄议”后才倒台的例子可发现，也许中国当局禁止“妄议”是为了逃脱苏联的结局。</p>
+<p>但也有人认为这个妄议是针对中国毛左而来。赞成民主宪政的老媒体人“老李头06”表示：“妄议”新规，是习近平改革意识形态的重大步骤，是为全面深化改革清除障碍特别是来自毛左的障碍而进行的顶层设计。“是不是这样，我想时间会证明一切。如果我错了，我会公开承认。”当然他这条也属于“妄议”，同样被新浪微博屏蔽掉了。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%9A%E8%B0%88%E7%BD%91-%E7%A6%81%E5%A6%84%E8%AE%AE%E6%9C%9D%E6%94%BF%E6%98%AF%E6%80%95%E8%B7%9F%E8%8B%8F%E8%81%94%E8%B5%B0%E4%B8%80%E6%A0%B7%E7%9A%84%E8%B7%AF%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 16分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%87%A4%E5%87%B0%E7%BD%91-%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0%E9%83%BD%E4%B8%8D%E8%AF%BB%E4%BA%86%EF%BC%8C%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%80%80%E5%BF%B5%E8%8D%89%E5%A9%B4/" target="cdt-mirror">凤凰网 | 托尔斯泰都不读了，你为什么还怀念草婴？</a>
+</h2>
+<p><p>导语：曾经以一己之力翻译托尔斯泰全集的草婴先生之故去，又引发了铺天盖地的悼念之声。评论人唐山认为，对于读着草婴本托尔斯泰、肖洛霍夫开始自觉的一代人来说，草婴是普通人触碰到自我灵魂的接引者，他的译笔唤醒了人们超凡脱俗的渴望，相比而言，接引者是谁、是否被铭记便显得没那么重要了。然而，在这个粗鄙主义彻底压倒精英文化的时代中，还有多少人在读托尔斯泰，又有多少人只读过托尔斯泰小说的梗概或者干脆闻所未闻，便宣称自己得到了草婴先生的恩惠？纪念接引者草婴先生，莫过于坚守他走过的道路，千万别让这条路被荒草所湮没，以至于再看不到曾经的路标。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/320d8817ed3fb18.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/320d8817ed3fb18.jpg" alt="320d8817ed3fb18" width="440" height="330"></a><br>
+草婴先生（摄影：陈村）</p>
+<p>刚听到草婴先生去世的消息，很多人的第一反应都是：草婴是谁？然后便是铺天盖地的各种悼念之声，好像大家跟他都挺熟。</p>
+<p>仔细算来，读过草婴先生翻译的5种书，分别是《安娜·卡列尼娜》《复活》《战争与和平》《当代英雄》《静静的顿河》，但只记住了列夫·托尔斯泰、莱蒙托夫和肖洛霍夫，没怎么注意草婴。</p>
+<p>我是没资格评价翻译质量之类的，当年上中文系时，老托的书是必读，可拿起《安娜·卡列尼娜》，翻了几次又放下了——句子太长，人名太复杂，此外劣纸恶墨，看不了几页便头晕。那时出版社还会在书中夹张纸片，把书中人名各种变化开列在上面，往往读几行书，就要和纸片对一下，看究竟说的是谁。</p>
+<p>后来功课催得急了，只好找相对薄一点的《复活》来看，没想到整整看了三遍，在相当时期，它都是我的枕边书，闲暇了，便翻几段出来读。</p>
+<p>《复活》的句子仍然很长，人名仍然很怪。但读小说，这是第一次体会到，在休闲、有趣之外还有更重要的东西，那就是作为人，还要思考该怎样活着，该怎样超越尘世给予的种种羁绊，因为还有一种精神生活值得追寻。</p>
+<p>我曾以为，生活就是讨价还价、互相抱怨、锅碗瓢盆，就是每天必有的夫妻吵架和对孩子怒吼，就是无穷无尽的闲话与装蒜，而《复活》却给出了另外的可能，良知与责任仍然是重要的，我们无法逃过它的责罚，因为那些似乎沉睡的，终将醒来。</p>
+<p>像我这样的一代人，基本在“圈”（juàn）中长大，从学校到家庭，再无其他世界，对于成人们说的所谓理想、伟大、永恒，只有被动地接受下来，可每次去扮演，都会以出丑、吃亏为结局。</p>
+<p>确实也在反抗，但这反抗所依据的，是一个抄袭来的、虚假的理由。至少对于我，那时还想不到自己的内心深处已被别人涂改，我以为那些是自己的想法，其实却是被人悄悄植入我头脑中的。</p>
+<p>《复活》对于我，是迈入成人的一个台阶。</p>
+<p>由《复活》而《安娜·卡列尼娜》，再到《战争与和平》，渐渐明白了列夫·托尔斯泰，明白了为什么说他是写实主义小说的巅峰。也正是从老托开始，渐渐对武侠小说有了厌倦，厌倦了那种只为表演而不为人生的花拳绣腿。</p>
+<p>在没有体会到点心的精美时，窝头也是很可以吃的，但吃过了点心后，便觉得窝头太粗糙。精致有什么错呢？但我不幸生在一个粗鄙主义彻底压倒精英文化的时代中，嘲笑与恶骂成了最通行的艺术，被人人践行着，通过集体性的毁坏，人们获得了弑父般的快感。大家在反复宣称：哪有什么精神，那是吃多了撑的之后产生的幻觉；哪有什么文化，那是对大众的压迫；哪有什么高尚，那只是你装得更好而已；哪有什么爱情，那只是性冲动后被套牢……</p>
+<p>周作人先生曾说，自己身上总被一种“流氓鬼”所缠绕，其实，我们哪个人又不被“流氓鬼”所缠绕？可更多的人愿意称它为激情、勇气、真诚，或者革命。也许，再过一百年，我们才会明白列夫·托尔斯泰为何如此沉痛吧，当上帝不存在时，人本身也就不存在了。</p>
+<p>老托指出的路也许是错的，但老托的挣扎却是对的。这么多年来，一直在老托式的纠结中生存，也想过放下，可每次远离了这些挣扎，便发现自己无法再获得真实感。</p>
+<p>如果说感恩于草婴先生，那就是他给了我这样的普通人以接引，让我明白了，这世界还有另一种存在，还有所谓灵魂。对于不断追寻着的内心，永恒就不再是一句谎言，就算所有人都不肯站出来作证，它也依然存在，也依然闪烁着光芒。</p>
+<p>月光之明，需要眼睛的接引，远方之美，需要道路的接引，天地之大，需要向往的接引，思想之宏阔，需要智者的接引。从这个意义上说，接引者是谁，记住或忘却，并不那么重要，更重要的是，你还渴望着超越凡俗，渴望着不被这琐碎的生活所埋没。</p>
+<p>但，当你还沉浸在《神秘花园》的涂抹之乐中，为《小时代》的俊男靓女而尖叫，一边心灵鸡汤一边热泪盈眶，用小清新的名义贩卖浅薄时，纪念又有什么意义呢？就算说上一万遍草婴先生伟大，又有什么意义？</p>
+<p>真的怀疑，今天还有多少人在读老托，为老托而感动，而不是只看看故事梗概，便宣称自己得到了草婴先生的恩惠。如果老托真的被遗忘，真的被埋在那些悬疑、耽美、穿越的故事堆中，再也找不出来，那么，草婴先生一辈子的功业，也就被彻底抹去，除了名字之外，我们甚至无法搞清，先生是否曾在这个世界上活过。</p>
+<p>纪念一位长者，就应坚守他曾走过的道路，千万别让这条路被荒草所湮没，以至于再看不到曾经的路标。更何况，这条路如此优美、如此深刻，它是通向人类文明深处的正途。</p>
+<p>爱草婴先生，就去读他的书，纪念草婴先生，就去读他的书。</p>
+<p>唐山，书评人，现任北京晨报副刊部主任。</p>
+<p>版权声明：《洞见》为凤凰文化原创栏目，所有稿件均为作者独家授权，转载请注明出处，版权所有，侵权必究。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%87%A4%E5%87%B0%E7%BD%91-%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0%E9%83%BD%E4%B8%8D%E8%AF%BB%E4%BA%86%EF%BC%8C%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%80%80%E5%BF%B5%E8%8D%89%E5%A9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%87%E5%AD%A6/?category=18271" rel="tag">俄罗斯文学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0%E7%BD%91/?category=18271" rel="tag">凤凰网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0/?category=18271" rel="tag">托尔斯泰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E8%AF%91/?category=18271" rel="tag">翻译</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E5%A9%B4/?category=18271" rel="tag">草婴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%80%85/?category=18271" rel="tag">译者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%80%85%E7%B3%BB%E5%88%97/?category=18271" rel="tag">译者系列</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%8E%A8%E8%BF%9F%E9%80%80%E4%BC%91%E5%B9%B4%E9%BE%84%E4%B8%BA%E4%BD%95%E4%B8%80%E7%89%87%E5%8F%8D/" target="cdt-mirror">美国之音 | 何清涟：中国推迟退休年龄为何一片反对声？</a>
 </h2>
 <p><p>中国的养老金制度改革终于进入“预告期”，“渐进式延迟退休年龄改革”政策最近出台。此方案引发了国内一片反对声。本文将介绍“改革”要点，分析政府为什么要改，民众为什么要反对。</p>
@@ -689,57 +750,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%9D%83/" target="cdt-mirror">【习总日记】共产党员没有人权</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，23）</p>
-<p>根据我的有关“从严治党、党要管党”指示精神，根据我的关于“国内事不要外国人管、党内事不要党外操心、党中央事不要老人插手”等重要讲话，后三十年来最严《习时期党规》正式颁布执行。</p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E7%BD%91%EF%BD%9C%E5%BC%A0%E5%AE%8F%E8%89%AF%EF%BC%9A%E5%85%9A%E7%9A%84%E7%BA%AA%E5%BE%8B%E5%BA%94%E5%86%85%E5%AE%B9%E6%98%8E%E7%A1%AE%EF%BC%8C%E4%B8%8D%E8%83%BD/">中国共产党纪律处分条例</a>》（以下简称《条例》），21日由党中央正式下达各党级组织并要求各地区各部门认真遵照执行。因2003年12月中共中央印发的《中国共产党纪律处分条例》形同虚设，为严肃党纪，党中央决定予以修订。</p>
-<p>现对《习时期党规》作一些说明。</p>
-<p>《条例》第二条马列毛邓三科，还有我的讲话精神。这是党的家谱，党的灵魂，党的旗帜，党的传统。革命事业就是这样一代一代传下来的。</p>
-<p>《条例》第四十五条，通过各种方式，公开发表坚持资产阶级自由化立场、反对四项基本原则，反对党的改革开放决策的文章、演说、宣言、声明等的，给予开除党籍处分。这类反党行为若是发生在毛主席时代，就是反革命罪，是要坐牢杀头的。由此证明，我比毛主席要和善多了。</p>
-<p>《条例》第四十六条之（二），妄议中央大政方针，破坏党的集中统一的。什么是妄议？妄议就是根据自己的理解解释党中央政策方针，而不是根据党的统一口径理解和解释。譬如党中央说那是一匹马，你却根据调查研究后认为是鹿。这就是妄议。譬如<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/">党中央是现在经济形势一片大好</a>。你却根据党和国家有关部门提供的数据判断<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/">经济形势不妙</a>。这也构成妄议。</p>
-<p>《条例》第七十六条，党员不允许入外国籍，申请办理长期居留证也不可以。</p>
-<p>《条例》增加了很多具体条文，限于篇幅不一一列举。总而言之，《条例》来真的，不能摆在那里做装饰。</p>
-<p>借此机会，向党员同志们喊话。</p>
-<p>作为一名中国共产党党员，自入党那天起，就意味着把自己的一切包括钱财和生命都交给党了。说得再明白一些，就是放弃个人权利，一起服从党的安排。党叫你干啥你就干啥，别动脑子，往死里干，活着就干，到死为止。凡共产党员，不能像老百姓一样为自己个人考虑，也不能为子女家庭考虑，只能一心一意为党着想。党员应该把全部个人财产作为党费交给党，自己留一点点吃饭钱就可以了。</p>
-<p>共产党员不是老百姓，也不是公民，没有个人权利，没有言论自由的权利更没有人身自由，党要求你上班你不能下班，党要求你上前线你二话不能说扭头就走，即使前面是<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">烈焰熊熊的天津港危险品仓库</a>，或是<a href="http://chinadigitaltimes.net/chinese/tag/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%AE%BF%E5%8A%A1%E6%9E%AA%E5%87%BB%E6%A1%88/" target="_blank">危机四伏的中国驻菲律宾领事馆</a>，你也不能犹豫勇敢逆行。</p>
-<p>共产党员不能跟党组织讲条件讲法律，党内没有法律只有党规。党员入党视为自动放弃法律保护。党员没有犯法不犯法之说，只有犯规不犯规之分。入党之前或退党或开除之后，才可以谈法律谈犯罪。党员没有犯罪只有犯规。党组织命令党员做任何事情，不构成触犯法律，法律对党组织对党员无效。大家看到，我们惩罚周永康薄熙来令计划等，都是开除党籍之后，才能定他们的罪。若没有开除党籍，他们都是无罪之人。换句话说，一张党员证，就是国家法律豁免证。譬如党员在大街上犯了法，杀人放火，只要拿出党员证，你就归纪委管，国家刑法管不着你。</p>
-<p>因此，作为一名共产党员，是光荣的，也是悲壮的。光荣之处在于，党看上了你，你也看上了党，两情相悦情意绵绵。悲壮之处在于，你已经不是你自己了。你是党组织里的一个机器人，没有头脑的机器人。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/102315.jpg" alt="102315" width="550" height="551"></p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%9D%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE/?category=18271" rel="tag">妄议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E7%BD%91%EF%BD%9C%E5%BC%A0%E5%AE%8F%E8%89%AF%EF%BC%9A%E5%85%9A%E7%9A%84%E7%BA%AA%E5%BE%8B%E5%BA%94%E5%86%85%E5%AE%B9%E6%98%8E%E7%A1%AE%EF%BC%8C%E4%B8%8D%E8%83%BD/" target="cdt-mirror">民族复兴网｜张宏良：党的纪律应内容明确，不能含糊其辞、不着边际</a>
-</h2>
-<p><h1></h1>
-<div>
-<p>　<img src="http://o.mzfxw.com/d/file/Article/fuxing/Socialism/2015-10-23/9899d5cdd9eda309a6062b287273b043.jpg" alt="9899d5cdd9eda309a6062b287273b043.jpg" border="0"></p>
-<p>看了昨天最新公布的中国共产党纪律处分条例，有些头晕眼花，主要是内容太长。把这部17256字的纪律条例与仅仅92字的《三大纪律八项注意》相比较，按道理讲，前者应该比后者更加具体更加明确才对，因为前者的字数是后者的187倍，有足够的字数详加阐述。</p>
-<p>可是比较的结果却相反，这个17256字的纪律条例内容十分抽象，并且没有边际，无论怎么解释都可以;而那个92字的《三大纪律八项注意》内容却十分明确具体，无论是教授还是文盲，都能明确具体含义，不可能作出其他解释。比如《三大纪律八项注意》中规定“不拿群众一针一线”，“不打人骂人”，“不调戏妇女”等所有条款，男女老少一听就懂，含义明确无误，想随便拿来整人，根本就不可能。而现在最新公布的这个纪律条例，却是内容抽象，不着边际，随便拿来扣在任何人头上都能说的过去。</p>
-<p><strong>第一，就内容抽象而言，那个最引人注目的“妄议中央大政方针”可开除党籍的条款，就十分抽象，缺乏具体内容和明确界限。</strong></p>
-<p><strong>首先</strong>什么叫妄议?其标准就十分含糊，内容极不明确。因为妄议并不是非议，非议是否定反对的意思，党员不能否定和反对党的大政方针是应该的，无可非议的。而妄议就不同了，妄议这个帽子可以随便扣在任何人头上，并且还最容易扣在那些关心党的大政方针的党员头上。道理很简单，只要你议论党的大政方针，恰好领导又看你不顺眼，想置你于死地，就可以给你扣上一个妄议党的大政方针的罪名，开除你的党籍。因为纪律条例上白纸黑字写得十分清楚，妄议而不是非议，就可以开除党籍。而什么叫妄议可以随便解释，哪怕是赞成和拥护，也可以说是妄议。</p>
-<p><strong>其次</strong>，妄议党的大政方针要开除党籍，那么妄议党的小政方针是不是也要开除党籍?如果妄议小政方针不开除党籍，那么大政方针和小政方针又怎么区分和由谁来区分?还有，妄议党的大政方针要开除党籍，那么妄议团的大政方针是不是要开除党籍?妄议政府的大政方针是不是要开除党籍?如果不是的话，党的大政方针和政府的大政方针又是如何区分?还有，这里的党是仅仅指党中央，还是包括各级党组织?如果不包括各级党组织，是不是应该注明，党员可以妄议除党中央之外的各级党组织的政策方针?否则，任何党组织包括外企和私企中的党组织，都可以用这一条来整治党员。</p>
-<p><strong>第二，就内容宽泛，不着边际而言，最有代表性的就是那个“反对党的改革开放决策”可开除党籍的条款了。</strong></p>
-<p><strong>首先</strong>，改革开放是一个无边无际没有确定内容的概念，更加没有是非善恶的界定。特别是开放一词，完全是一个可善可恶的概念，当年八国联军侵略中国就是打着“门户开放”的旗号来的。如果不加区分地维护所有开放，否则就开除党籍，那么所有反抗外来侵略的的斗争就都是错误的，所有为此牺牲的先烈就都会被否定。我们现在所反对的历史虚无主义就是这么来的。细究起来，不仅开放是如此，改革又何尝不是如此?西门庆霸占潘金莲，完全可以说成是“为提高红颜资源的利用效率而进行的家庭重组改革”。</p>
-<p><strong>可见</strong>，这种没有善恶标准的概念是不适合用来作为纪律的。特别是纪律条例中只说“反对党的改革开放决策”要开除党籍，并没有说是反对党中央的改革开放决策要开除党籍，这就为各级党组织和各个单位领导人随心所欲地开除党员，打开了一个没有任何限制的大门。因为什么叫改革，从来就没有过任何界定，单位领导的一举一动，都可以说成是改革决策，甚至放个屁都可以说是改革。在这种情况下，反对改革开放的帽子，可以扣在任何一个党员头上。</p>
-<p><strong>其次</strong>，所谓“改革开放决策”同样是一个不着边际的概念。从字义上来讲，决策应该是具有决定性的政策，可是哪些改革政策具有决定性，哪些改革政策没有决定性，中央从来就没有宣布过，党员更是无从知晓和把握，又如何来执行这条纪律?请问，食盐私有化改革算不算改革开放决策?国企“混合制”私有化改革算不算改革开放决策?党政分开算不算改革开放决策?本来说得好好的，改革开放就是一个探索过程，要允许试错，对了坚持错了改。怎么现在却把改错变成了反对改革开放决策?</p>
-<p><strong>总之，这部17256字的纪律条例与那个92字的《三大纪律八项注意》相比，根本就不像是一部纪律条例，而更像是一部没有逻辑没有确定概念的学术论文</strong>。说到这里突然打了个冷颤，我这样讲是不是已经属于妄议大政方针了?还是立刻打住吧!</p>
-<p><strong>张宏良微信文章，微信号zhanghongliang101</strong></p>
-<p><img src="http://www.mzfxw.com/d/file/Article/fuxing/Socialism/2015-10-23/dc814e499ef933aa2bf0da2b746ec50e.jpg" alt="dc814e499ef933aa2bf0da2b746ec50e.jpg" width="207" height="195"></p>
-</div>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E7%BD%91%EF%BD%9C%E5%BC%A0%E5%AE%8F%E8%89%AF%EF%BC%9A%E5%85%9A%E7%9A%84%E7%BA%AA%E5%BE%8B%E5%BA%94%E5%86%85%E5%AE%B9%E6%98%8E%E7%A1%AE%EF%BC%8C%E4%B8%8D%E8%83%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE/?category=18271" rel="tag">妄议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%AE%8F%E8%89%AF/?category=18271" rel="tag">张宏良</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -751,7 +761,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -761,5 +771,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

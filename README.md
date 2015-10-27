@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%8A%AF%E7%A6%81%E5%BF%8C%E5%85%AC%E5%BC%80%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%E4%BA%94%E6%9C%80%E6%96%87%E7%AB%A0%E8%A2%AB/" target="cdt-mirror">法广 | 新京报犯禁忌公开京西宾馆“五最”文章被删</a>
+</h2>
+<p><p><strong>中共十八届五中全会正在北京京西宾馆举行，宾馆一带戒备森严，警车和便衣警察不停巡逻，附近街道实施交通管制，地铁出口亦在会议期间临时封锁。新京报的微信公号刊文介绍京西宾馆的文章亦很快被删除。</strong></p>
+<p>新京报微信公号“政事儿”23日刊文，详细列出了京西宾馆的“五最”：最难进、最安全、会议最多、规格最高、最神秘等，文章发布后被大量转发，但很快就被删除。京西宾馆隶属解放军总参谋部，被称为“最安全的宾馆”和中国“会场之冠”。</p>
+<p>另据明报报道，当局在五中全会期间采各种严控措施维稳，有维权人士被软禁和拘留。包括中国民主党成员陈开频被杭州国保以“颠覆国家政权罪”刑事传唤。湖南维权人士张纬姗被长沙警方拘留十天，处罚的理由是“寻衅滋事”。据称张纬姗在五中全会之前发起“相聚北京”运动，该运动的宗旨是通过集体活动唤起社会良知。</p>
+<p>早前有报道指，这个号称中共最安全的开会地点爆出丑闻，宾馆总经理、解放军总参大校刘存水与前中办主任令计划勾结，利用宾馆对政要监控窃听，用于私人目的；直至令倒台阴谋才被揭露。</p>
+<p>据香港传媒报道，26日开始举行的五中全会，议程包括：审议国民经济和社会发展第十三个五年规划（十三五规划）、确认开除令计划等人的党籍及取消他们中央委员资格、通报军队大改革方案、令计划等被踢出中委后，按规定从候补中委递补空缺，依次排序、通过高层人士调动、任免提案，以及通过五中全会决议。</p>
+<p><img alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%8A%AF%E7%A6%81%E5%BF%8C%E5%85%AC%E5%BC%80%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%E4%BA%94%E6%9C%80%E6%96%87%E7%AB%A0%E8%A2%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86/?category=18271" rel="tag">京西宾馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A-%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">十八届五中全会.中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E6%B2%BB%E4%BC%A0%E5%AA%92-%E5%85%AC%E5%AE%89%E9%83%A8%E3%80%81%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%AD%89%E5%9B%9B%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E6%89%93%E5%87%BB%E8%BF%9D/" target="cdt-mirror">法治传媒 | 公安部、广电总局等四部门联合打击违规互联网电视</a>
+</h2>
+<p><p>关于依法严厉打击非法电视网络接收设备违法犯罪活动的通知</p>
+<p>新广电发（2015）229号文</p>
+<p>各省、自治区、直辖市高级人民法院、人民检察院、公安厅（局）、新闻出版广电局、解放军军事法院、军事检察院、新疆维吾尔自治区高级人民法院生产建设兵团分院，新疆生产建设兵团人民检察院、公安局、新闻出版广电局：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9C%80%E9%AB%98%E6%B3%95.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9C%80%E9%AB%98%E6%B3%95.jpg" alt="最高法" width="669" height="406"></a></p>
+<p>为有效遏制非法电视网络接受设备违法犯罪活动，切实保障国家安全、社会稳定和人民群众的利益，现通知如下：</p>
+<p><strong>一、充分认识当前严厉打击非法电视网络接收设备违法犯罪的重要意义</strong></p>
+<p>生产、销售、安装非法电视网络接收设备违法犯罪活动，特别是利用非法电视网络接收设备实施传播淫秽色情节目、危害国家安全等违法犯罪活动，严重扰乱社会治安秩序，严重危害国家安全。各级公安、检察、审判机关和新闻出版广电行政主管部门要从维护国家安全和社会治安秩序的大局出发，充分认识非法电视网络接收设备违法犯罪活动的严重危害性，增强工作的责任感和紧迫感，加强组织领导，充分发挥职能作用，依法严厉打击非法电视网络接收设备违法犯罪活动，坚决遏制非法电视网络接收设备违法犯罪活动上升、蔓延的势头，确保社会治安秩序良好。</p>
+<p><strong>二、正确把握法律政策界限，依法严厉打击非法电视网络接收设备违法犯罪活动</strong></p>
+<p>各级公安、检察、审判机关和新闻出版广电行政主管部门要高度重视查办非法网络电视接收设备违法犯罪案件，正确把握法律政策界限，严格执行法律法规的有关规定，坚决依法严厉打击非法电视网络接收设备违法犯罪活动。</p>
+<p>非法电视网络接收设备主要包括三类：“电视棒”等网络共享设备；非法互联网电视接收设备，包括但不限于内置含有非法电视、非法广播等非法内容的定向接收软件或硬件模块的机顶盒、电视机、投影仪、显示器；用于收看非法电视、收听非法广播的网络软件、移动互联网客户端软件和互联网影视客户端软件。</p>
+<p>根据刑法和司法解释的规定，违反国家规定，从事生产、销售非法电视网络接收设备（含软件），以及为非法广播电视接收软件提供下载服务，为非法广播电视节目频道接收提供链接服务等营利性活动，扰乱市场秩序，个人非法经营数额在五万元以上或违法所得数额在一万元以上，单位非法经营数额在五十万元以上或违法所得数额在十万元以上，按照非法经营罪追究刑事责任。对于利用生产、销售、安装非法电视网络接收设备传播淫秽色情节目、实施危害国家安全等行为的，根据其行为的性质，依法追究刑事责任。对非法电视网络接收设备犯罪行为，涉及数个罪名的，按照相关原则，择一重罪处罚或数罪并罚。在追究犯罪分子形式责任的同时，还要依法迫缴违法所得，没收其犯罪所用的本人财物。对于实施上诉行为尚不构成犯罪的，由新闻出版广电等相关行政主管部门依法给予行政处罚；构成违法治安管理行为的，依法给予治安管理处罚。</p>
+<p><strong>三、加强协作配合，切实增强打击非法电视网络接收设备违法犯罪活动的工作合力</strong></p>
+<p>各级新闻出版广电部门和公安、检察、审判机关要进一步增强打击非法电视网络接收设备违法犯罪活动的主动性，加快查办工作进度，提供工作效率。各级新闻出版广电部门要加大对非法广播电视网络传播行为的监管力度，发现涉嫌犯罪的，及时移送公安机关，并对公安机关查缴的涉嫌接收非法电视的网络接收设备及时作出认定。公安机关对于涉嫌犯罪的案件，应依法及时立案侦查，深挖彻查涉嫌非法电视网络接收设备犯罪活动的利益链条。侦察机关对于公安机关提请批准逮捕和移送审查起诉的案件，应当依法及时决定是否批准逮捕和提起公诉。审判机关对于检察机关提起公诉的案件，应当依法及时审判，对于在查处过程中发生的抗拒、阻碍国家机关工作人员依法执行职务，构成犯罪的，以妨碍公务罪依法追究刑事责任，构成违法治安管理行为的，依法给予治安管理处罚。各有关部门在开展非法电视网络接收设备打击整治专项行动中，要加强沟通联系，建立有效工作机制，形成打击合力。</p>
+<p>各地各部门接此通知后，应立即部署贯彻执行。执行中遇到的问题，要开展调查研究，提出可行性建议，及时报告上级主管部门。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E6%B2%BB%E4%BC%A0%E5%AA%92-%E5%85%AC%E5%AE%89%E9%83%A8%E3%80%81%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%AD%89%E5%9B%9B%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E6%89%93%E5%87%BB%E8%BF%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86/?category=18271" rel="tag">互联网电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">电视网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">社会秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA/?category=18271" rel="tag">违法犯罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/" target="cdt-mirror">纽约时报 | “膜蛤文化”盛行中国网络 或为影射习近平</a>
 </h2>
 <p><p>多年来，他一直是网民嘲笑的对象。人们取笑他那硕大的长方形眼镜和高腰裤。模仿他笨拙的语言，以及有时在正式场合表现出来的失礼行为。他们说<a href="http://sinosphere.blogs.nytimes.com/2014/07/23/giant-yellow-toad-disappears-online-after-resemblance-to-chinese-leader-noted/" target="_blank" rel="nofollow">他长相像蛤蟆，甚至给他取了一个绰号</a>叫“蛤蛤”。</p>
@@ -459,7 +501,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%BF%9C%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">中远集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E5%BF%97%E5%86%9B/?category=18271" rel="tag">刘志军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%88%B1%E7%94%9F/?category=18271" rel="tag">徐爱生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%81%A5/?category=18271" rel="tag">马健</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%A9%86%E5%85%89%E5%AE%97%EF%BC%9A3000%E4%B8%87%E5%85%89%E6%A3%8D%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%94%9F%E5%91%BD%E6%9D%83%E7%9A%84%E6%BC%A0%E8%A7%86/" target="cdt-mirror">穆光宗：3000万光棍的背后是生命权的漠视</a>
 </h2>
@@ -690,50 +732,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E4%B9%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%8F%B0%E5%8A%9E%E8%85%90%E7%9B%B8%E6%AF%95%E9%9C%B2-%E5%9B%BD%E7%AE%A1%E5%B1%80%E7%8E%B0%E5%87%BA%E5%8E%9F%E5%BD%A2/" target="cdt-mirror">太阳报｜中台办腐相毕露 国管局现出原形</a>
-</h2>
-<p><p>中央巡视组日前公布二十六家单位的专项巡视结果，当中国家机关事务管理局、中共中央台湾工作办公室等单位也赫然在列，而且问题不少。事实上，中央部委中一些看来不起眼的单位，内里的腐败早就臭名远扬。</p>
-<p>中央巡视组今次发现中台办多项问题，比如对一些违纪违法人员处理偏轻偏软；存在「带病提拔」等问题；以工作特殊性为由规避监管，违规拉赞助收捐赠、违规收受礼品馈赠、利用工作关系为亲属谋取便利等问题时有发生。</p>
-<p>当中「以工作特殊性为由规避监管」耐人寻味。众所周知，中台办的工作主要是针对台湾，包括制订两岸政策、对台统战等，目的是促进国家统一。但这看似神圣的使命背后，有些中台办官员以保密为由，将中台办打造成针插不入、水泼不进的独立王国，有些人向台湾商人贩卖各级政协委员的帽子，中饱私囊，还有人以搞统战为名，帮助台商在内地搞项目批土地，然后从中收取股份或回扣。</p>
-<p>不客气地说，整个台办系统已形成一个自上而下、内外勾结的利益集团，他们将两岸关系当作生意，甚至挟台自重，向中央要优惠要项目，从中满足利益集团的需求。今年上半年，一度传出前中台办主任王兆国儿子王新亮被中纪委调查，据说，有人以香港为平台，以所谓对台工作需要，套取国家贷款，在资本市场舞高弄低，从中大发横财。</p>
-<p>肥缺部门 中饱私囊</p>
-<p>原本这些资金是为了争取台湾民心，最后却沦为权贵的盘中餐。这也是为何中央惠台多年，但台湾基层民众却难以享受，与大陆渐行渐远的原因所在。今次中央巡视组点出了问题所在，也不过是冰山之一角而已，如果继续挖下去，肯定有大老虎现形。</p>
-<p>至于同时遭中央巡视组点名批评的国家机关事务管理局，不仅是一个神秘单位，也是肥缺部门，负责中央国家机关房地产管理，以及行政办公用房建设项目审核、计划编制、建设监管；担负中央国家机关及所属单位用地管理。也就是说，中央部委的所有用地、正部级以上官员住房安排，以及国务院的政府采购，全部由该局统筹负责，其功能定位相当于清朝的内务府。</p>
-<p>国管局权力之大，以至于各部委都要看其脸色，很多部长为了分到一个朝向较好的住房，不得不低三下四地去国管局叩拜，而国管局至今也没有向外界公布其预算。今次中央巡视组丝毫不给面子，直截了当地指出该局公款吃喝、公款旅游、以权谋私、违规破格提拔、超职数配备干部、干部人事档案造假等，更蹊跷的是，近年来该局没有立案查办过任何违纪案件，似乎该局是清水衙门，个个官员都是两袖清风，事实真的是如此吗？</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%8F%B0%E5%8A%9E%E8%85%90%E7%9B%B8%E6%AF%95%E9%9C%B2-%E5%9B%BD%E7%AE%A1%E5%B1%80%E7%8E%B0%E5%87%BA%E5%8E%9F%E5%BD%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B2%A1%E6%9C%89%E4%B8%9C%E5%8E%82%E6%98%8E%E6%9C%9D%E5%9E%AE%E5%BE%97%E6%9B%B4%E6%97%A9/" target="cdt-mirror">【习总日记】 没有东厂明朝垮得更早</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，25）</p>
-<p>外访回来，稍作休息，国内的事情一大堆等着我。主要是党的整顿，领导干部的整顿，尤其是央企国企党组织和领导干部的整顿治理。</p>
-<p>大名鼎鼎之明朝东厂设立于1420年间，一直延续到1644年明朝灭亡，约200年。东厂虽臭名昭著，但我认为，对维持朱明王朝统治、稳定社会起了不小作用。因为大明朝寿命总共才276年。而且大明亡缘于满清入关，而不是仅仅因为李自成造反。东厂的基本任务是“党要管党，从严治党”，因此对今后中纪委的工作有指导意义。故建议王岐山同志多多向魏忠贤前辈学习。我虽然饱读莎士比亚等西方名家经典，但就治国理政而言，还得多多向老祖宗们讨教请益才是。</p>
-<p>自秦扫六合起，中华民族走了一条迥然于西方小国寡民自由民主的大一统中央集权道路。子在川上曰，道不同不相为谋。既然我们与西方道路不同，还有什么好说的？当然社会体制就不同。还是那句话，西方民主不是我们的菜，也不适合中国人的胃。</p>
-<p>“你吃过了么！”中国人每天见面打招呼，是关心对方的胃，而不是西方人询问对方有什么新鲜事儿。如果说西方进入玩的时代，那么中国还停留在吃的时代。这就好比石器时代与铁器时代，话不投机是一定的。</p>
-<p>我问王岐山要不要给中纪委干部每人发“绣春刀”，刀柄铭刻“中纪委”。王岐山说算了，每人发把枪可以考虑，枪柄铭刻“大大赠”。我说我是大大，你就是王二。王岐山接茬说我脸上有麻子就好了。</p>
-<p>如果广大领导干部都能做到党性强、负责任、为人民，也就没必要搞什么政法委中纪委这类现代东厂了。如果中央各部门央企国企的党组织都能做到党风正、纪律严、觉悟高、廉洁奉公勤政爱民，也就没必要搞双规搞株连搞得人心惶惶，搞得今天不知明天身在何处。</p>
-<p>也没有必要藏着掖着了，明白告诉大家，中纪委就是笼子，要把所有的领导干部都关进笼子里去。关你们不是宠爱你们，也不是把你们当宠物，是因为这三十年来，你们实在不像样子，不像个领导干部的样子，不像个人民公仆的样子。</p>
-<p>王岐山带着中纪委的资料向我报告说，现在各级党组织存在非常严重的问题，普遍存在党的领导弱化，主体责任缺失，党的纪律松弛，顶风违纪突出，权力寻租盛行，侵吞国有资产管理监督缺位，违规决策频繁等问题。这些问题不解决，所在党组织就是个犯罪组织。譬如刘志军的铁道部，就是一个铁道贪污腐化部，所有领导干部统统有问题。还有周永康的政法委和石油系统企业，简直就是贪污腐败分子的黑窝，那些干部统统都要撤换。</p>
-<p>听说中央要查金融系统国家企业就有人自杀。这说明了什么？说明现在的领导干部经不起查，每个人都有问题，而且都是大问题。小问题不会自杀。同时也说明了整个部门都烂掉了。因此新的《党员纪律条例》有一条指出，有很大问题的党组织应该解散。有人说中共那么多领导干部都有问题，中共就应该解散。我倒是想啊，可谁来管理这个国家？13亿人民谁来养活？50多年前毛主席党中央稍有疏忽，就饿死三千多万人。说明了中国老百姓没有自食其力的能力，要靠共产党养活他们。因此，党还得继续做好带头人引路人。</p>
-<p>今日说这些是为了告诉大家，强化中纪委，是为了监督党的各部门各企业领导干部，是为了落实从严治党，最后才能真正落实依法治国。大家深有体会的是，只要领导干部贪赃枉法的行为存在，依法治国便是一句空话。</p>
-<p>总而言之，把领导干部收拾得服服帖帖不敢越权枉法，老百姓才有法律保障，民族复兴中国梦才有希望。明朝从严治吏靠东厂，我们从严治党靠中纪委。有了东厂明朝延续200年，有了中纪委，我党统治地位至少可保200年不倒。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/102515.jpg" alt="102515" width="640" height="382"></p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B2%A1%E6%9C%89%E4%B8%9C%E5%8E%82%E6%98%8E%E6%9C%9D%E5%9E%AE%E5%BE%97%E6%9B%B4%E6%97%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8E%82/?category=18271" rel="tag">东厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -745,7 +743,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8E%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -755,5 +753,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8E%82
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

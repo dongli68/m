@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,25 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%A5%BF%E6%96%B9%E9%97%AA%E7%94%B5%EF%BC%9A%E5%BD%93%E5%B1%80%E8%A7%82%E4%B8%8E%E5%A4%A7%E5%B1%80%E8%A7%82/" target="cdt-mirror">西方闪电：当局观与大局观</a>
+</h2>
+<p><p>人们有理由认为无政府主义太极端。比如诺奇克就论证过，无政府状态是无法长期维持的，在一只“看不见的手”推动下，国家必会从自然状态中产生。不过，除却诺奇克所说的“最弱意义的国家”因为尊重每个人的权利而在道德上可以得到证明外，超越这个意义的国家都将面对蒲鲁东的指责。在国家的注视下，人们不得不在蒲鲁东所描述的情状里生活：“被统治就是时刻被注意、被监督、被侦查、被控制、被教化、被灌输道理、被列进名单和被删除、被估计、被评价、被指责、被命令……被统治就是在每一项操作、每一次交易、每一个行动中都被记录、登记、计数、定价、警告、预防、改革、调整和纠正。”</p>
+<p>国家所做这一切似乎有很多目的，但至少有一个目的是人们公认的，那就是对合法权力的行使实施垄断。要实现这一目的，只有两个途径。一是对自然的控制与改造，二是对社会的控制与改造。但直到18世纪，大多数传统国家实施权力垄断的能力还是有限的。它们要么缺乏内在一致的强制力，要么缺乏严密的行政组织，更重要的是，缺乏一种进步的观念作为国家信仰，以及践行这种信仰所必需的知识。自19世纪以来，传统国家大多完成了现代民族国家的转型，蒲鲁东所描绘的境况就真正成为现实。</p>
+<p>当以下三种因素结合在一起时，更可怕的境况也会发生。这三种因素包括：国家对自然和社会管理秩序的雄心、毫无节制的国家权力以及软弱而无抵抗力的市民社会。其中，国家的雄心往往等同于极端现代主义的国家信仰，一种对科学和技术进步的强烈乃至僵化的信念。这种意识形态负责生产欲望，由国家权力提供实现欲望的工具，无能的市民社会则为欲望乌托邦的建设提供资源，三者之间形成了一个完整的产业链。在国家看来，这条欲望产业链要运转良好，就必须对社会进行全面改造。社会所有成员、社会秩序的各个方面都在改造之列，这已成为国家的中心目的之一。伊恩·哈金曾经举例解释过，在国家的视角里，自杀率和谋杀率是如何反映社会状况的。尽管不知道具体的杀人犯和受害者是谁，但是国家可以依据统计数据，像会计帐中的常规收支那样编制杀人案例的“预算”。就这样，个人健康、公共卫生、饮食、技能、教育、儿童培养、住房、娱乐、家庭结构、城市规划、遗传基因……在统计学的帮助下，一个经过重新审视的社会呈现在国家的视野当中，以便进行全面改造。</p>
+<p>伯林早就意识到国家对社会的全面改造注定会失败。他说：“我们有理由害怕那些太着迷于自己的设想，以致不注意改革的具体环境，忽略各种不可测因素的改革者。乌托邦主义、缺乏现实性、判断力差等毛病不在于没有成功地运用自然科学的方法，而是相反过度地运用了它们。”（《现实感》，译林出版社）纳粹德国、前苏联、1970年代的坦桑尼亚均可视为失败的典型。斯科特指出，种族灭绝、大饥荒、社会崩溃等悲剧的发生，无不与此有关。</p>
+<p>当然，与其预言失败不如阻止悲剧的发生。反抗国家对社会的全面控制有三个关键因素，一是个人空间不受国家和权力机构干涉的信念，伯林称之为“消极自由”。卡尔·曼海姆曾指出，个人空间一直以来就是国家觊觎的目标，也是社会改造计划的有效阻碍。二是市场经济总体上的不可预测性。三是民主制度，这是最重要的因素。通过这三个关键因素，社会对国家的反抗才能体现出力量。在我看来，相对于国家视角，这三个关键因素也就是社会视角的三种主要维度。个人空间是否遭受损害，市场经济体系是否存在，民主制度是否健全，是社会成员判断社会与国家之间关系的主要依据。</p>
+<p>令人担心的是，有人故意混淆国家与社会的关系，误导民众。而人们经过长期灌输，也往往看不到国家视角（当局观）与社会视角（大局观）的巨大差异，将二者混为一谈。这已造成类似纳粹德国那样的人类灾难，如果不详加分辨，人们的未来并不乐观。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%A5%BF%E6%96%B9%E9%97%AA%E7%94%B5%EF%BC%9A%E5%BD%93%E5%B1%80%E8%A7%82%E4%B8%8E%E5%A4%A7%E5%B1%80%E8%A7%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E6%89%98%E9%82%A6/?category=18271" rel="tag">乌托邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">合法权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%B1%80%E8%A7%82/?category=18271" rel="tag">大局观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%8A%9B/?category=18271" rel="tag">强制力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">无政府主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E6%9E%81%E8%87%AA%E7%94%B1/?category=18271" rel="tag">消极自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%8A%AF%E7%A6%81%E5%BF%8C%E5%85%AC%E5%BC%80%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%E4%BA%94%E6%9C%80%E6%96%87%E7%AB%A0%E8%A2%AB/" target="cdt-mirror">法广 | 新京报犯禁忌公开京西宾馆“五最”文章被删</a>
 </h2>
 <p><p><strong>中共十八届五中全会正在北京京西宾馆举行，宾馆一带戒备森严，警车和便衣警察不停巡逻，附近街道实施交通管制，地铁出口亦在会议期间临时封锁。新京报的微信公号刊文介绍京西宾馆的文章亦很快被删除。</strong></p>
@@ -700,38 +716,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9C%E6%B6%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%EF%BD%9C%E7%89%B9%E5%86%99%EF%BC%9A%E9%BB%84%E4%B9%8B%E9%94%8B%E7%9A%84%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%BC%94%E8%AE%B2%E4%B9%8B%E6%97%85/" target="cdt-mirror">BBC ｜特写：黄之锋的英国大学演讲之旅</a>
-</h2>
-<p><p>过去一个星期，不少英国媒体都聚焦在中国国家主席习近平得国事访问。但与此同时，香港的一个19岁的小伙子却同样争取到不少媒体的篇幅。他就是去年香港“占中”抗议中的学生领袖之一，亦是香港学生组织“学民思潮”的召集人。</p>
-<p>“仍是国际问题”</p>
-<p>黄之锋此次应英国牛津辩论会（Oxford Union）的邀请，先后到英国6家著名大学演讲，而巧合的是，他此次英国访问的时间与习近平的国事访问互相重叠。</p>
-<p>一天下午，笔者在伦敦大学校区一间咖啡室等黄之锋，准备与他进行专访。我较约定时间早了二十分钟到达，原因是黄之锋在英国的行程密得吓人，而笔者对他的采访，竟然是他此行中的第二十个媒体访问，而且只有半小时的时间，而随后他又要赶在傍晚出席最后一场演讲。</p>
-<p>虽然笔者早到，以便黄之锋万一提前赶到，就有更多时间访问。可惜，他之前的采访超时了。他赶到后，只能匆匆打个招呼，便一起向举行最后一场演讲的大学校园出发，然后边走边进行采访。</p>
-<p>笔者第一个问题就问，他认为外国的关注，对香港民主政制发展还有作用吗？他斩钉截铁地回答：“当然有，否则哪有传媒访问？”</p>
-<p>不过，事实上，在习近平访英期间，中英双方连日来签订多项合作协议，但对香港政制发展问题并未有太多提及。黄之锋对此则表示，是英国政府回避了问题。</p>
-<p>他认为香港政制发展，长远仍然是国际问题。关键在于中英联合声明所承诺的五十年不变，限期过后，香港究竟仍否享有三权分立，以及司法独立。香港又会否由沿用普通法制度，转为大陆法，都影响将来香港是否仍可称为理想投资及营商地点，这一切均与国际社会息息相关。</p>
-<p>黄之锋亦留意到，西方国家看香港政制发展，其实是以香港做切入点，再去分析中国的走向。“为什么还有人理会香港﹖因为它是中国最自由，最有人权的地方，过去以为只要中国愈强，便会愈开放、民主。可惜，从近期习近平的处事方式，感觉好悲观，西方担心中国的走向。”他还解释说，西方以及香港看自身问题的出发点的不同。</p>
-<p>中国学生挑战</p>
-<p>虽然是边走边说，黄的反应好快，思路清晰。快得令笔者有点担心他已训练出机械式的答案，毕竟在领导大型社会运动，不时反思是十分重要。</p>
-<p>眨眼间，我们已经走到伦敦大学校园区，黄之锋又开始被学生、主持、学者等人团团包围。这也是他第六场演讲，也是最后一场演讲，而笔者此前也已经听了其中两场。</p>
-<p>在笔者听过的黄之锋3场演讲中，其中比较有趣是在伦敦大学亚非学院举行的一场。当时在座观众将近二百人，有外国学者，亦有中国学生。</p>
-<p>而黄之锋在演讲中也遇到中国大陆学生的挑战，例如有中国大陆学生指出，香港的食物及食水都是由中国供应的。但还没有等到黄之锋做出回应，就有台下观众立即表示，香港是用钱向中国购买资源。</p>
-<p>而令黄之锋感到最诧异的是，有一位中国大陆学生表示，中国并没有监禁过任何学运人士。对此，黄之锋迅速的回答他说，“你回去Google（谷歌）一下谁是王丹？”。</p>
-<p>而笔者参加的另外两场黄之锋的演讲，参与关注主要是香港留学生。虽然他们反映了不少对香港自身问题的关注，但现场就少了一些碰撞的火花，有点可惜。</p>
-<p>黄之锋自己亦相信，他很难获准到中国大陆，因此笔者认为，黄之锋能够与中国学生，理性、直接地辩论彼此理念更是难得。</p>
-<p>希望回港贡献</p>
-<p>面对一众香港留学生，连日以英语对答如流的黄之锋，在演讲中途转以广东话发言，少不免减少了与外国代表的交流。但较有意思的是他自嘲说，自己读书成绩不够在座的好，相信他们将来是社会精英，希望他们可以回港贡献。这也正正是他向笔者表达的担忧，由于对前景不乐观，香港年轻人都不愿意留港发展，变相决策机构更易被中国渗透。</p>
-<p>黄之锋结束此次英国演讲之行回港后，将要面对因为去年“占中”而被控包括煽惑他人参与非法集会等三项控罪的审讯。他称，审讯未到关键时刻，因此没有太大压力，亦不能判断案件，会否对学生日后参与运动造成压力。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%EF%BD%9C%E7%89%B9%E5%86%99%EF%BC%9A%E9%BB%84%E4%B9%8B%E9%94%8B%E7%9A%84%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%BC%94%E8%AE%B2%E4%B9%8B%E6%97%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E4%B9%8B%E9%94%8B/?category=18271" rel="tag">黄之锋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -743,7 +727,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E4%B9%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -753,5 +737,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E4%B9%8B
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/" target="cdt-mirror">纽约时报 | “膜蛤文化”盛行中国网络 或为影射习近平</a>
+</h2>
+<p><p>多年来，他一直是网民嘲笑的对象。人们取笑他那硕大的长方形眼镜和高腰裤。模仿他笨拙的语言，以及有时在正式场合表现出来的失礼行为。他们说<a href="http://sinosphere.blogs.nytimes.com/2014/07/23/giant-yellow-toad-disappears-online-after-resemblance-to-chinese-leader-noted/" target="_blank" rel="nofollow">他长相像蛤蟆，甚至给他取了一个绰号</a>叫“蛤蛤”。</p>
+<p>但是近几个月，社交媒体转变风向，开始赞扬起89岁的前国家主席和前中共中央总书记江泽民来。在多年遭受嘲弄之后，他现在成为了某种时尚教主，成为了玩笑性质的亚文化“膜蛤文化”的偶像。</p>
+<p>江泽民的追随者称他为“长者”，在微博、问答平台知乎、以及人气消息应用微信上，关于“长者”的内容不断冒出。“蛤丝”们曾经嘲笑江泽民古怪的行为方式和衣着装扮，如今却在热烈讨论他们现在觉得他的哪些地方很可爱。</p>
+<p>就像中国的很多网上笑话一样，人们也在玩文字游戏。一些人在网上发布笑话时，不再用“哈哈”表示笑声，而是使用同音字“蛤蛤”。</p>
+<p>就像中国大多数政治米姆(meme)一样，“膜蛤文化”也富有讽刺感。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/14sino-spider01-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/14sino-spider01-articleLarge.jpg" alt="江泽民曾担任过国家主席、中共总书记和中央军委主席。在多年遭受网友嘲弄之后，现在他却成为亚文化“膜蛤文化”的偶像。" width="550" height="367"></a><p>江泽民曾担任过国家主席、中共总书记和中央军委主席。在多年遭受网友嘲弄之后，现在他却成为亚文化“膜蛤文化”的偶像。</p></div>
+<p>“‘膜蛤文化’不只是崇拜，也是讽刺，”对膜蛤文化感兴趣的中国影评人Magasa说。“但其背后的感情是复杂的。它半真半假，具有讽刺性，但它反映了人们对过去的怀念，对现状的不满。”</p>
+<p>公开谈论“当前形势”正在变得日趋危险——中国人有时用“当前形势”来指习近平时代。有人说，把江泽民的品质正面化是一种隐晦的对比方式，可以解释为对习近平的批判。</p>
+<p>“<a href="http://chinadigitaltimes.net/" target="_blank" rel="nofollow">中国数字时代</a>”总编、加州大学伯克利分校(University of California, Berkeley)兼职教授萧强表示：“习近平在整治网络方面特别强势，发表任何有关他的负面评论都很危险，所以必须采用迂回的批评方式。当‘蛤丝’就是这样一种方式。”</p>
+<p>去年底出现的微信公众号“江选研讨会”宣告了膜蛤文化的诞生。这些文章以学术语言撰写，似乎做过充分的研究，深入讨论了“长者”的爱情故事、“长者”会多少乐器等话题。这名匿名作者还写一些比较严肃的话题，比如，将领导人的教育水平与中国总体文化氛围联系起来。</p>
+<p>这个公众号立即成为热点，很多中国人开始在社交媒体上讨论这些文章。</p>
+<p>“这些文章非常微妙，”萧强说。“表面上很有趣，有很多细节，但作者也对江泽民有很多负面的言辞，以一种非常尊敬他的方式撰写。”</p>
+<p>在相关问题的书面答复中，该公众号的撰稿人表示，写这些文章绝不是嘲笑江泽民。由于这个话题很敏感，这名撰稿人要求匿名。</p>
+<p>这名撰稿人写道，“你甚至可以认为他扭转了部分民间对他的负面印象。”</p>
+<p>“江是一个正常的人，有趣的人，更有人情味，”当被问及江与后来的领导有何不同时，他写道。“尽管有时略显可笑。”虽然这个微信公众号已被审查机构关闭，但膜蛤文化仍然很流行。这种文化更多的是基于江泽民相对国际化的背景和即兴行为，而不是他的政治活动。粉丝们喜欢回忆1996年的那一刻，当时江泽民在马德里的一场正式招待会上，在西班牙国王胡安·卡洛斯(King Juan Carlos)的注视下，拿出梳子梳理头发。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F%E6%B3%BD%E6%B0%91-%E8%9B%A4%E8%9B%A4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F%E6%B3%BD%E6%B0%91-%E8%9B%A4%E8%9B%A4.jpg" alt="CNN国际的Twitter上写道：“一个巨型充气蟾蜍与前中国国家主席有什么关系？”" width="550" height="527"></a><p>CNN国际的Twitter上写道：“一个巨型充气蟾蜍与前中国国家主席有什么关系？”</p></div>
+<p>一篇题为《亲爱的长者，祝您生日快乐》的文章在微信上广泛传播，一名用户张贴了江泽民2000年访问以色列期间身穿泳裤、头戴护目镜和蓝色泳帽在死海享受漂浮的照片。</p>
+<p>“这个Look与上面的高腰抹胸裤一脉相承，”这名粉丝写道。“看到这些图，我被长者的坦率和自信彻底折服。”</p>
+<p>如今很少在中国领导人身上看到这么自然的一面，尽管习近平通过光临包子铺这样看似临时的举动，以及欢快的音乐视频，在尽力打造<a href="http://cn.nytimes.com/china/20150308/c08xi/" target="_blank" rel="nofollow">平易近人的“习大大”形象</a>。</p>
+<p>“那时候，我们会看到江泽民大声说话，开怀大笑，或拿出自己的梳子，或者说一些英语短语，我们认为这很正常，”影评人Magasa表示。“但没有看到其他中国领导人这么做。只有看到像是木板的胡锦涛和非常严肃的习近平之后，才突然记起江泽民非常有个性。”</p>
+<p>当然，这些怀旧之情几乎不涉及江泽民的政治活动。</p>
+<p>“我个人觉得江并没有比习好很多，”前记者文森特·朱(Vincent Zhu)说，他提到江泽民参与了1989年镇压民主抗议的行动，以及20世纪90年代对法轮功的迫害。</p>
+<p>“但他非常国际化，受过良好教育，而习近平却喜欢告诉人们他读过什么书，”文森特·朱说。“因此，‘膜蛤’是一种反驳习大大、彭麻麻这种廉价宣传的方式（<a href="https://youtu.be/g4x1uU98fG8" target="_blank" rel="nofollow">点击此处观看视频</a>）。”</p>
+<p>随着有关江泽民<a href="http://www.nytimes.com/2011/10/10/world/asia/jiang-zemin-re-emerges-in-china.html" target="_blank" rel="nofollow">健康状况恶化</a>的谣言不时出现，现在“长者”的每次公开亮相都会让他的粉丝兴奋不已。但对于很多人来说，几乎没有比2000年江泽民怒斥香港记者（<a href="https://youtu.be/5GIj2BVJS2A" target="_blank" rel="nofollow">点击此处观看视频</a>）还令人难忘的时刻了，当时面对一名记者咄咄逼人的质问，他的回应中出现了一些如今的蛤丝最爱的用语。</p>
+<p></p><p><a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p>“你们非常熟悉西方这一套的，你们毕竟是too young，”江泽民的言语在普通话、英语和粤语之间来回切换。“你们有一个好，全世界什么地方，你们跑得最快，但是问来问去的问题呀，too simple，sometimes naive。”</p>
+<p>“我见得太多啦，”他还表示。“可以告诉你们一点人生经验。”</p>
+<p>这些话变得非常火，以至于那名记者——张宝华的<a href="http://www.weibo.com/u/1847856024#_loginLayer_1445330161326" target="_blank" rel="nofollow">微博主页</a>成为蛤丝的聚集地。</p>
+<p>在最新的博文中，张宝华称她将开始在香港中文大学教授新闻学。</p>
+<p>最受欢迎的评论是什么呢？</p>
+<p>“第一节课就要传授一些人生的经验。”</p>
+<p>这条评论已经被“赞”了100多次。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E6%A0%B7%E5%9B%BE%E6%A3%AE%E7%A0%B4/?category=18271" rel="tag">图样图森破</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/?category=18271" rel="tag">江选研讨会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/?category=18271" rel="tag">膜蛤文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F/?category=18271" rel="tag">谈笑风生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-9/" target="cdt-mirror">【网络民议】法大教授：“不是屏蔽删帖，就是翻墙偷着乐”</a>
 </h2>
 <p><p><strong>新闻背景：</strong></p>
@@ -90,7 +132,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%BE%8B%E8%81%94/?category=18271" rel="tag">中律联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">互联网审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">互联网立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E5%B9%B3/?category=18271" rel="tag">江平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第一届互联网法治大会</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%E4%BD%99%E6%9D%B0%EF%BC%9A%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96%E4%B8%8E%E7%8B%AC%E8%A3%81%E8%80%85%E7%BB%93%E7%BC%98/" target="cdt-mirror">民主中国 | 余杰：孔子和平奖与独裁者结缘</a>
 </h2>
@@ -143,7 +185,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%87%A4%E5%87%B0%E7%BD%91-%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0%E9%83%BD%E4%B8%8D%E8%AF%BB%E4%BA%86%EF%BC%8C%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%80%80%E5%BF%B5%E8%8D%89%E5%A9%B4/" target="cdt-mirror">凤凰网 | 托尔斯泰都不读了，你为什么还怀念草婴？</a>
 </h2>
@@ -692,44 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8E%82
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B5%B7%E5%9B%BE%E7%A0%94%E7%A9%B6-%E5%AE%89%E5%80%8D%E6%94%BF%E6%9D%83%E4%B8%8B%E7%9A%84%E6%8A%A5%E7%BA%B8%EF%BC%9A%E5%8F%91%E8%A1%8C%E9%87%8F%E3%80%81%E8%88%86%E8%AE%BA%E6%8A%A5%E9%81%93/" target="cdt-mirror">海图研究 | 安倍政权下的报纸：发行量、舆论报道和政治取向</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-24-at-%E4%B8%8B%E5%8D%882.25.09.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-24-at-%E4%B8%8B%E5%8D%882.25.09.png" alt="Screen Shot 2015-10-24 at 下午2.25.09" width="490" height="243"></a></p>
-<p>安倍政权下的报纸：发行量、舆论报道和政治取向</p>
-<p>王广涛</p>
-<p>海图图智客座研究员</p>
-<p>日本是世界上新闻传媒业最发达的国家之一，世界上发行量最大的两家报纸《读卖新闻》（Yomiuri Shimbun）和《朝日新闻》（Asahi Shimbun）都出自日本。《每日新闻》（Mainichi Shimbun）和《日本经济新闻》（the Nikkei）的发行量都位居世界前十。而除此之外遍布日本各地的都道府县报纸以及地区性报纸共同构成了庞大的新闻网络。在日本新闻报纸无所不在，随便进入一家24小时便利店都可以在入口处看到琳琅满目的各类报纸，而随便入住一间旅馆都有可以免费获取当天的各大主流报纸，更不用说车站、饭店等公共场所了。据悉在日本平均每千人中约有六百多人订阅报纸，而具体到家庭来算的话，平局每个家庭订阅两份以上的报纸。</p>
-<p>媒体在西方国家中被认为是仅次于“立法、司法、行政”之后的第四权力。以报纸为代表的新闻报导，并非仅仅影响日本国民的日常生活，新闻背后所具有的隐含的政治意义也是不容忽视的因素之一。日本的新闻媒体大多带有比较明确的政治立场，各大报纸发行量以及报导的内容、方式从本质上说来都是现实政治的具体反映。从这一点来看，研究报纸与政治的关系可以从另一个侧面窥视日本政治的具体走向，同时政治如何操纵媒体也是当前对日本政治研究领域一个特别值得关注的课题之一。</p>
-<p>日本报纸的分类、政治取向</p>
-<p>就发行范围来看，日本的报纸主要分为全国性报纸和地区性报纸两类。全国性报纸按照发行量排列主要有《读卖新闻》、《朝日新闻》、《每日新闻》、《日本经济新闻》和《产经新闻》五大报纸。在这五类报纸中，除了以經濟为中心的《日本经济新闻》不具有明确的政治立场之外（故本文不会对《日本经济新闻》进行分析），其他四分报纸都可以以左、中、右進行站隊。</p>
-<p>《读卖新闻》在立场上更接近日本政府的政策目标，因此左派学者经常将《读卖新闻》视为日本政府的御用新闻，或者说自民党的党报，由于战后的大多数时间都是自民党在統治日本，我们姑且这么认为。總的來說，《读卖新闻》在政治立场上处于中间偏右的位置，之所以不是最靠近右边的，那是因为还有《产经新闻》的存在。《产经新闻》一直以保守自居，在意识形态上是反共的最先锋。也正是因为過於極端，日本政府一直对《产经新闻》敬而远之，直到安倍内阁时期才有所改善。与此相对的是，《朝日新闻》和《每日新闻》则处于中间偏左的立场，他们大多对日本政府持批判态度，当然在历史认识和战争责任的问题上，也批评日本政府的不作为。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-24-at-%E4%B8%8B%E5%8D%882.21.32.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-24-at-%E4%B8%8B%E5%8D%882.21.32.png" alt="Screen Shot 2015-10-24 at 下午2.21.32" width="511" height="461"></a></p>
-<p>报纸发行量的变化和日本政治潮流的关系</p>
-<p>战后日本各大报纸的发行量的排名发生了较大幅度的更替，其中最明显的两个变化是《读卖新闻》相继超越《每日新闻》和《朝日新闻》成为日本发行量最大的报纸，以及《每日新闻》的发行量大幅缩减。笔者认为透过对这两个变化的分析，可以发现战后日本政治的总体轨迹。当然，笔者并不否认各大报社经营方针变化给发行量带来的影响，只是本文更注重以长期的视角来观察社会舆论、政治思潮同报刊发行量之间的关系。</p>
-<p>战后初期这四大报纸的排序是这样的，朝日、每日、读卖、产经。其中产经虽然是全国性报纸，但是在发行量上与前三者存在明显差距，所以从1950年代开始“三大报”的格局已经形成。这里需要注意的是，1950年代占据前两位的都是左派报纸，这也可以看出当时政治意识形态斗争中左派力量的重要性。但是1960年经历了日美安保斗争，给日本社会带来了强大的裂痕，此后的池田勇人和佐藤荣作都把政策焦点放在经济发展上，这样一些与大众社会相关的非政治取向话题占据舆论的中心，以标榜“中道”为口号的读卖新闻获得了发展空间。</p>
-<p>进入1970年代以后四强的整体排名以及发行量情况分别为朝日（599万份）、读卖（551万份）、每日（466万份）、产经（202万份）。这一排名并没有持续太久，进入1980年代以后，《读卖新闻》开始超越《朝日新闻》占据榜首至今，并且一直在拉大同《朝日新闻》的差距。1980年代以后四强的整体排名以及发行量情况分别为读卖（847万份）、朝日（739万份）、每日（456万份）、产经（196万份）。进入1990年代以后《读卖新闻》的发行量突破1000万份大关，并且在此后的20年里长期保持了1000万分以上的销量，而《朝日新闻》在2000年达到831万份的峰值以后开始呈现下降趋势。</p>
-<p>另一个比较明显的特征是是每日新闻的发行量的急剧减少。《每日新闻》被认为是日本最早的日报，曾经在很长的一段时期内与《朝日新闻》分享报纸两强的席位。但是在1960年前后被《读卖新闻》超越后便一蹶不振，1980年代随着《日本经济新闻》的不断跟进，从发行量来看大有被《日本经济新闻》超越而跌落三甲的趋势。</p>
-<p>如果考虑战后日本政治状况以及社会思潮的走向，似乎并不难理解上述两大特征的出现。在笔者看来战后的日本大致经历了从激进到中流再到保守的政治过程，这一过程虽然并不与日本的政治状况完全契合，但是作为一种政治思潮，完全是有可能并且是获得学术界认可的。具体说来，在战败直到1960年代，日本虽然也经历了经济的高速增长，但是当时的主流还是政治斗争，是反美还是亲美、是护宪还是修宪，同时还有自卫队、核武器等重要问题的讨论。可以说这一时期是日本和平主义思潮的形成期，《朝日新闻》和《每日新闻》等左翼系统的报纸拥有广泛的受众。</p>
-<p>1960年岸信介强行通过新日美安保条约，日本人民的和平主义斗争达到了最高峰，其后就进入了低潮期。在池田勇人和佐藤荣作相继长期执政后，日本政府的焦点开始将精力集中到经济领域，以前那种以政治意识形态见长的报道逐渐退出舞台。这一时期日本开始出现了被称为“大众社会化”的现象，而“一亿人总中流”是这一时期日本人较为主流的认识，著名政治经济学者村上泰亮将日本人成为“新中间大众”，《读卖新闻》这种强调中间性立场报纸发行量的增加，正是反映了日本人社会思潮的变迁。</p>
-<p>但是冷战结束以后，日本开始进入总体保守化社会，总体保守化体现在政治上就是以自民党为中心的保守政党长期执政，而在冷战时期唯一可以与之抗衡的左翼力量社会党迅速萎缩乃至消亡。而《读卖新闻》从1980年代就开始迅速介入日本政治的深层，特别是与自民党保持了某种程度上的默契关系，在其报社会长兼主笔渡边恒雄的经营下（渡边恒雄与中曾根康弘私交甚笃），《读卖新闻》逐渐形成了在政治上主张上具有自身特色（主张修改宪法、主张行使集体自卫权），又同时亲近自民党的路线。</p>
-<p>《每日新闻》的衰落与《读卖新闻》的兴起有着明显的相关性。自1970年代日本实现经济高速增长以后，报纸的发行量已经逐渐趋于饱和，特别是近些年电子媒体的发达以及日本人口结构的老龄少子化，扩大发行量始终各大报社所面临的最大难题。从这一点来看，读卖新闻的发行量扩张很大程度上是吸引了《每日新闻》的读者群。通过1970年代和2010年代报纸发行总量的比较不难看出这一问题。1970年代四大报的发行总量为1828万份，而2010年的数据为2370万分。1970年代朝日和每日两大左翼报纸发行量总计为1065万份，占当时四大报发行总量的接近60%；2010年代这两大左翼报纸发行量总计为1183万份，仅占四大报发行量总量的50%不到。透过这一数据至少可以得出如下答案：第一，读卖新闻在开发新读者群的同时，肯定吸引了相当数量的朝日和每日新闻的读者群；第二，《朝日新闻》和《每日新闻》发行量的低迷（特别是《每日新闻》发行量的减少），是日本社会思潮趋于右倾化的一个表现。</p>
-<p>当然还有一点不得不提的是《产经新闻》一直保持第四的位置不变，甚至2010年代的发行量较之1970年代还有减少。在笔者看来大有如下两个原因可以解释：首先，产经新闻标榜保守主义，新闻报道过于极端和右翼，这不仅仅体现在涉及日本国家安全的修宪和集体自卫权等方面，同时在历史认识问题上也持修正主义立场。比如2001-2006年，时任首相的小泉纯一郎连续六年参拜靖国神社，当时各大报纸都表达了批判的声音，而《产经新闻》自始至终力挺小泉的参拜。还有一个原因在于，《产经新闻》将读者群瞄向了年轻人，进入新世纪以来随着电子化媒体的迅速发展，日本的年轻人已经开始远离纸质报纸，而《产经新闻》则不失时机的将报纸内容电子化并提供免费阅读，特别是其大型门户网站“MSN Japan”和“Yahoo Japan”合作的战略，导致当前年轻人的思想颇受《产经新闻》右翼报道的影响，这才有了网上所谓“网络右翼”（Net Uyo）的猖獗，当然这种现象长期来看对于中日关系来说并非好事。</p>
-<p>安倍政权的外交政策和媒体报道</p>
-<p>2012年12月，安倍第二次问鼎首相宝座，这次他是想把首相做牢了，在媒体战略上也屡出大手笔。2013年，安倍内阁推出《特定祕密保护法案》，其中对涉及新闻报道自由的部分也有了一些限制。此法案一出，舆论媒体为之哗然，但是《产经新闻》总体上持支持和理解态度，而《读卖新闻》的会长渡边恒雄在同安倍晋三私人谈话之后，对《特定祕密保护法案》的批判也有所收敛，而《朝日新闻》一直没有减少对该法案的批判。但是，2014年，《朝日新闻》被披露出两大虚假报道的事件，其中一件还涉及有关韩国慰安妇的不实报道，这极大损害了《朝日新闻》的信誉，朝日新闻社长被迫辞职。更糟糕的是，日本政府和其他右翼媒体趁火打劫，开始了敲打《朝日新闻》的活动，关于这一点据爆料安倍本人也曾私下做过类似发言。</p>
-<p>当然，安倍媒体战略的过人之处还在于向国家电视台“日本放送协会”（NHK）安排亲信，例如安倍推荐以右翼言行著称的作家百田尚树和长谷川三千子为NHK经营委员，而2013年就任NHK会长籾井勝人在价值观上与安倍也十分接近，他甚至还为安倍政权的《特定祕密保护法案》作辩护。</p>
-<p>安倍在媒体策略上做足了文章之后，才开始在安保法案等领域展开实际的操作。因为安倍深知安保法案是战后日本安全保障战略的分水岭，在不修改日本国宪法的前提下行使集体自卫权，无论如何都会遭到学术界、舆论界以及日本社会的广泛批判，事后证明也确实如此。但是如果能够在媒体报道上灵活操作的话，则可以将对其政权的负面冲击降低。2015年9月19日，安保法案强行通过后当天的各大报纸的报道如下表所示。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-24-at-%E4%B8%8B%E5%8D%882.23.31.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-24-at-%E4%B8%8B%E5%8D%882.23.31.png" alt="Screen Shot 2015-10-24 at 下午2.23.31" width="511" height="361"></a></p>
-<p>总的来说，作为一种政治思潮，日本社会的保守化不可避免，或者说正在形成。日本的新闻报纸也基本上紧跟这股潮流，同日本的保守政党建立了某种默契（《读卖新闻》和《产经新闻》已经体现了这种动向）。而对政府持批判态度的报纸，不仅在发行量上越来越少，对日本社会的影响力也逐渐走下坡路，最终正像2014年《朝日新闻》误报那样做为契机，给左派报纸带来毁灭性打击。毫无疑问的是，2015年朝日新闻的发行量势必会有所减少，虽然目前还没有相关的统计数据出现。</p>
-<p>深谙个中原委的安倍晋三则在媒体战略上做足了功课，这也是他致力于长期政权的保障。具体说来，安倍在媒体上要做的努力是，如何让报道顺着政府的意向行事，以及如何控制新闻媒体所做的舆论调查，特别是内阁支持率调查，因为各大报纸所做的内阁支持率舆论调查是政治风向标，如果低于30%的警戒线则政权维持必将步履维艰，而一旦低于20%的红线，那么首相下台在所难免，这也是安倍晋三制执着于操纵媒体或频繁在媒体面前表演的重要原因。当然，一个明显的悖论是，当所有媒体都在政府的压力之下进行报道的时候，或者说趋向于政府立场来报道的时候，新闻的独立自主性如何保障，而日本的媒体如何保持其在国际社会上的竞争力，更直接一点来说就是日本的新闻报纸该如何挽回不断收缩的发行量？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-24-at-%E4%B8%8B%E5%8D%882.24.33.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-24-at-%E4%B8%8B%E5%8D%882.24.33.png" alt="Screen Shot 2015-10-24 at 下午2.24.33" width="533" height="268"></a></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B5%B7%E5%9B%BE%E7%A0%94%E7%A9%B6-%E5%AE%89%E5%80%8D%E6%94%BF%E6%9D%83%E4%B8%8B%E7%9A%84%E6%8A%A5%E7%BA%B8%EF%BC%9A%E5%8F%91%E8%A1%8C%E9%87%8F%E3%80%81%E8%88%86%E8%AE%BA%E6%8A%A5%E9%81%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E7%BB%8F%E6%96%B0%E9%97%BB/?category=18271" rel="tag">产经新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%80%8D/?category=18271" rel="tag">安倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89/?category=18271" rel="tag">安倍晋三</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E7%BA%B8/?category=18271" rel="tag">报纸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB/?category=18271" rel="tag">朝日新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB/?category=18271" rel="tag">每日新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BB%E5%8D%96%E6%96%B0%E9%97%BB/?category=18271" rel="tag">读卖新闻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -741,7 +745,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E7%BB%8F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -751,5 +755,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E7%BB%8F
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

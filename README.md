@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8F%82%E4%B8%8E-%E8%91%97%E5%90%8D%E6%B0%91%E4%B8%BB%E4%BA%BA%E5%A3%AB%E8%83%A1%E7%9F%B3%E6%A0%B9%E8%A2%AB%E4%BB%A5%E7%85%BD%E9%A2%A0%E7%BD%AA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F/" target="cdt-mirror">参与 | 著名民主人士胡石根被以煽颠罪监视居住</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/hushigen1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/hushigen1.jpg" alt="hushigen1" width="305" height="232"></a><br>
+（参与2015年10月29日讯）</p>
+<p>参与获悉，一直毫无音讯的著名民主人士胡石根传出消息，他7月11号刑事拘留，8月7号转监视居住，涉嫌罪名煽动颠覆国家政权和寻衅滋事罪，10月28日其律师申请会见，但还无结果。</p>
+<p>胡石根简介：</p>
+<p>1954年11月14日出生，江西省南昌市人，前北京语言学院（现更名为北京语言大学）讲师，基督徒，北京基督教家庭教会圣爱团契长老，独立中文笔会关注会员，中国著名民主异议人士，中国在押良心犯。</p>
+<p>1991年1月﹐曾与王国齐秘密成立中国自由民主党，并参与康玉春等人成立的“中华进步同盟”；1991年12月﹐曾与刘京生、高玉祥等人共同成立“中国自由工会筹备委员会”；1992年4月—5月，曾因与刘京生等人计画到北京、上海、武汉等地散发传单，并利用航模直升机在天安门广场空投传单，以抗议中共六四屠杀事件和纪念六四死难者，1992年5月27日，被北京警方抓捕、刑拘；同年9月27日，被以涉嫌“组织、领导反革命集团罪”和“反革命宣传煽动罪”正式逮捕；1994年12月16日﹐被北京市中级法院以两罪名判处有期徒刑20年﹐剥夺政治权利5年；其不服上诉，单最终于1995年6月14日经北京市高级法院二审，仍被驳回上诉﹐维持原判；之后其在北京市第二监狱服刑，并一直受到二级严管，身心遭到巨大迫害，曾一度病危；2008年8月26日，因先后二次减刑，而被提前4年释放。</p>
+<p>出狱后，因其追求民主、法治、人权和信仰自由等意志弥坚，积极关注和参与全国性劳工维权事件与公民活动，并广结全国正义维权律师，又因笃信基督教而成为北京基督教家庭教会圣爱团契的传道人，遂一直备受当局的严密监控、传唤、软禁及强迫失踪等迫害；2011年，曾因支持“中国茉莉花革命”而被警方秘密关押，并遭遇警方戴黑头套、殴打和威胁等；2014年1月15日—16日，曾为北京市通州家庭教会基督徒遭警方抓捕事件而四处奔波，呼吁营救该教会的传道人徐永海等10余人；2014年5月6日，曾因参加5月3日的“六四纪念研讨会”而被北京市警方以“寻衅滋事”罪由传唤、刑拘，1个月后方得以释放；2015年7月10日，突然从家中被北京警方强行带走，自此失联，其家被抄，罪名不详。</p>
+<p>目前被秘密羁押地点不详。</p>
+<p>参与首发，转载请注明出处。（www.canyu.org）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8F%82%E4%B8%8E-%E8%91%97%E5%90%8D%E6%B0%91%E4%B8%BB%E4%BA%BA%E5%A3%AB%E8%83%A1%E7%9F%B3%E6%A0%B9%E8%A2%AB%E4%BB%A5%E7%85%BD%E9%A2%A0%E7%BD%AA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%82%E4%B8%8E/?category=18271" rel="tag">参与</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92/?category=18271" rel="tag">基督徒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E7%9F%B3%E6%A0%B9/?category=18271" rel="tag">胡石根</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%80%BB%E8%BE%91%E5%AD%A6-%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E6%80%8E%E6%A0%B7%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E8%AF%BB%E8%BF%87%E4%B9%A6/" target="cdt-mirror">逻辑学 | 艾晓明：怎样告诉别人你读过书</a>
+</h2>
+<p><p>从书单来看，同龄人的阅读经验，的确浩如烟海，我不是开玩笑。这个书单比我当年上大学时批林批孔的书单，要好了几百倍了。假如这是真的，把国家交到他手里，大家还有什么不放心？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/LOCAL201404230923000278782351737.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/LOCAL201404230923000278782351737.jpg" alt="LOCAL201404230923000278782351737" width="550" height="365"></a></p>
+<p>怎样告诉别人你读过书<br>
+艾晓明</p>
+<p>有位同龄人发言中读遍世界名著，这在英美国家也许是可能的。比如《荷马史诗·伊利亚特》，在幼儿园听到的是英雄故事，上小学时读缩略本，上中学读选章，上了大学就如果文学专业课可能要求你读全本，读比较文学就甚至要求你读古希腊语了（在不同国家的语言专业要求也不一样）。我退休前给中文系学生上外国文学课的时候，建议学生读英文译本，语义的分量和中文翻译很不一样。</p>
+<p>文革中外国文学毫无疑问都是禁书，1974年我上大学时（工农兵学员）图书室里的外国文学只有前苏的革命文学例如高尔基、奥斯特洛夫斯基等。记得一位教授发配到我们那个京山分院，带了不少世界名著，趁他回城我们几个同学在他书架上偷名著看。我抱了几卷本《战争与和平》，老师十来天就回来了，我也根本没可能看完。但是那个时候，能够摸到这样的名著，已经是巨大的幸福，就像中了头彩。</p>
+<p>十六岁到农村去后有没有可能接触到世界名著呢？也有的。因为当时回城讲出身，一些成分好的知青同学都回城当工人了。留下的知青有很多是知识分子“臭老九”的子女，他们开始把父母的藏书带到乡村。感谢我的知青朋友刘晓林，从他那里我读到罗曼罗兰的《约翰·克里斯多夫》，那也是多卷本，我们是隔山涉水传递交接着看了几本。英国名著《奥列弗尔》也是那时我在灶火边读完的，因为两个人不能同时看一本书，我一边塞柴火一边读书，就有先睹为快的乐趣。雨果的《悲惨世界》和狄更斯的《艰难时世》我也是那时看的，但我不知道《悲惨世界》的故事并非只有一卷。</p>
+<p>今天我不是在英国皇室或乡村酒会，引经据典来颂扬他国文明是外交官的事。说实话，我年轻时可怜的阅读经验，置身文明教养深厚的人群，无地自容。提起旧事只是想说，文革期间禁书并非不可得。有微信传，莎士比亚作品迟至1978年才出版，不是这样的。别忘了，中国文学家遭遇政治重创后，大量转向了翻译界。</p>
+<p>还记得王小波的文章吗？在《我的师承》中他写道：</p>
+<p>我们年轻时都知道，想要读好文字就要去读译著，因为最好的作者在搞翻译。这是我们的不传之秘。</p>
+<p>同文中他还说：我觉得我们国家的文学次序是彻底颠倒了的：末流的作品有一流的名声，一流的作品却默默无闻。最让人痛心的是，最好的作品并没有写出来。这些作品理应由查良铮先生、王道乾先生在壮年时写出来的，现在成了巴比伦的空中花园了……</p>
+<p>王小波青少年时代读了查良铮、王道乾、傅雷、汝龙，王小波的兄长王小平在回忆中补充了安徒生、马克吐温；还有现在读者不再沉迷的武侠小说家金庸、温瑞安。假如王小波成为国家领导者出访书，他会不会说到，当年我读武侠，</p>
+<p>“就像十世饿鬼看见佳肴”，并且还自创功法“将一手弯曲如勺，将气从胸前舀起，在空中把气倒出，以另一手为勺以接之。如是反复倾接”……</p>
+<p>禁书年代的阅读堪称遭遇奇特，如精神病人隔着铁窗栅栏看桃花嘚瑟。有一天我与小记者思乐分享手机视频：文革时山东大学的年轻人狂跳“大海航行靠舵手”。她笑，我笑出眼泪。我说你总问文革经验对今天的我有何影响，看看这胳膊一个弯一个直的弓箭步；现在我堪称一个平常人（不是疯子或者神经病），就该谢天谢地了。我容易吗我？</p>
+<p>王小波的阅读说明了禁书未必不可得；再一个，不容遗忘的是，一部当代翻译文学史，多少惨遭毁灭的文学大师以此寄托哀思。</p>
+<p>那时有没有莎士比亚（别想歪了），有的。有关朱生豪的莎剧翻译，在网上可以查到很多资料，一位比较文学学者“乐其可知也的博客”中有详细说明：</p>
+<p>朱生豪的31个莎士比亚戏剧翻译是现代中国一个不可忽视的翻译成就。朱生豪的翻译主要是在1942-1944年间完成的，主要依据牛津版莎士比亚全集[1]。1944年12月朱生豪去世时仅完成31种戏剧的翻译，以及未完的《亨利五世》译稿。1947年上海世界书局出版朱生豪翻译《莎士比亚戏剧全集》27种。1954年作家出版社出版朱生豪翻译《莎士比亚全集》31种。1955年台湾世界书局出版朱生豪翻译、虞尔昌补译《莎士比亚全集》（5卷本）。1978年人民文学出版社出版朱生豪翻译、吴兴华等校订、梁宗岱等补译《莎士比亚全集》（11卷本）。1998年译林出版社出版裘克安等修订、辜正坤等补译《莎士比亚全集》（8卷本）。虞尔昌补译本和梁实秋全集译本（1967-68年台湾远东图书公司出版《莎士比亚全集》）在大陆中国的隔离，可以说，50余年间（1947-98）朱生豪的译本被多家出版社不断刊行重印，其声誉也因此被高频重复和强调，并赢得了几代读者的喜爱和推崇（例如黄雨石），由此确立了朱生豪译本丰碑式的地位。</p>
+<p>1944年之前，莎士比亚的翻译已经取得一些不可忽视的成果[2]，朱生豪显然熟知这些早期译本，朱生豪《莎士比亚戏剧全集》“译者自序”（1944.4）写道：“中国读者闻莎翁大名已久，文坛知名之士，亦尝将其作品，译出多种，然历观坊间各译本，失之于粗疏草率者尚少，失之于拘泥生硬者实繁有徒。拘泥字句之结果，不仅原作神味，荡焉无存，甚且艰深晦涩，有若天书，令人不能卒读，此则译者之过，莎翁不能任其人不能卒读，此则译者之过，莎翁不能任其咎者也。”</p>
+<p>朱生豪翻译《莎士比亚全集》，民国时代的版本在过去老大学的图书馆是有收藏的，新版本31种也在1954年面世。1970代如果要读莎士比亚，可以来自后面这个版本。但也需要一些前提条件，你的密友中有这类藏书人，家世注定不凡，这个敢于藏书并携往乡间者，当如王小波感叹杜拉斯之《情人》的第一段：“无限沧桑尽在其中”！而那个年代又能进入到与中国的政治厮杀绝然不同的精神世界，需要何等叛逆的胆识，激发了对当时的乌托邦何等的审判与决裂？去读徐晓的《半生为人》，或者请教徐友渔、崔卫平教授吧。如果研究七十年代末民间自由主义思潮的兴起，那通向民主墙的思考一定可以追溯到叛逆性的阅读这条暗河。奇怪的是，在这些自由派著名知识分子的朋友圈里，怎么没有当代一位最伟大的同龄人。</p>
+<p>王小波读了他说的那些经典，至今无人质疑。他写的《我的师承》一文，我读过很多遍。它像“乌兰巴托的夜”那首歌一样，让你对自己说，不许掉眼泪。他引用的诗行，那雍容华贵之美或永难忘记的韵律，连同他对之深怀不露的爱恋，本身就是诗品。一直到他完成了黄钟大吕般的《青铜时代》系列，他才说：“我终于有了勇气来谈谈我文学上的师承”。这勇气什么意思，是敬畏，是敬业，用今天的流行语是跪了。这态度在中国当代作家中罕见。王小波将翻译文学和近代创作区别开来，以此评价中国语言文学的水准，并将文学家和翻译家的政治命运与之联系，这是对当代文学命运的远见卓识。他一个人说出的判断，与为君王拟稿的所谓当代文学“浩如烟海”、“灿若晨星”相比，真是天壤之别。</p>
+<p>从书单来看，同龄人的阅读经验，的确浩如烟海，我不是开玩笑。假如这是真的，把国家交到他手里，大家还有什么不放心？试想如果王小波是文化部长，岂不是人人得以大闹天宫？前捷克总统哈维尔曾是戏剧作家，英国首相丘吉尔得过诺贝尔文学奖，法国总统密特朗有“欧洲最有文学修养的国家元首”之美誉……眼下这样的桂冠眼看就到了中国，为什么人们不庆幸？</p>
+<p>我用另一个例子来说吧，我们中山大学中文系有一个写作训练程序。新生一年级写一百篇笔记，二年级八篇书评，三年级学年论文，四年级学位论文。学生刚从高中毕业进校，说老师啊一百篇哪里写得出。于是连编带抄，包括星期一食堂卖什么菜，我喝了一瓶可乐。星期二食堂又卖了什么菜，我又喝了一瓶可乐……诸如此类。我给他们的题目是写自己的阅读经历，你来上大学的，又不是将来出去送盒饭，你不写读书对得起爹妈交的学费？这样学生开始入门，不过刚开始写的也是报书单：小学我读了《白雪公主和七个小矮人》，中学读了琼瑶这学期我读了《简爱》、《傲慢与偏见》、《呼啸山庄》（男生另有所爱）……这样的作文通常我打回去零分也不给。搞啥呢，中文系是这样混的吗？</p>
+<p>就写到这里吧，其实我们也要充分肯定，同龄人的书单开了那么多，和大学新生的水准也有一比嘛。不是另有读者开始条分理析，潘恩怎么讲，政府权力如何限制等等吗？我不是学习小组的，但也要说，这个书单比我当年上大学时批林批孔的书单，要好了几百倍了。剩下的，用王小波《我的师承》的话来说：“剩下的事只是学习”。不学怎么办？脱裤子——</p>
+<p>有时我也写点不负责任的粗糙文字，以后重读时，惭愧得无地自容，真想自己脱了裤子请道乾先生打我两棍。孟子曾说，无耻之耻，无耻矣。现在我在文学上是个有廉耻的人，都是多亏了这些先生的教诲。对我来说，他们的作品是比鞭子还有力量的鞭策。提醒现在的年轻人，记住他们的名字，读他们译的书，是我的责任。</p>
+<p>2015年10月25日</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%80%BB%E8%BE%91%E5%AD%A6-%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E6%80%8E%E6%A0%B7%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E8%AF%BB%E8%BF%87%E4%B9%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B0%8F%E6%B3%A2/?category=18271" rel="tag">王小波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E9%9D%92/?category=18271" rel="tag">知青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%99%93%E6%98%8E/?category=18271" rel="tag">艾晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%BB%E8%BE%91%E5%AD%A6/?category=18271" rel="tag">逻辑学</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%97%A5-%E4%BD%A0%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%89%AB%E8%B4%A7%E4%BA%86%E5%90%97%EF%BC%9F/" target="cdt-mirror">端传媒 | 抗战纪念日 你去日本扫货了吗？</a>
+</h2>
+<p><p>端传媒记者 宋宁宇 发自香港</p>
+<p>特别设立的抗战胜利小长假，有多少中国人选择去日本玩？日本观光局数据告诉你答案。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8B%E5%8D%8812.13.05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8B%E5%8D%8812.13.05.png" alt="Screen Shot 2015-10-28 at 下午12.13.05" width="550" height="367"></a><br>
+（游客携带刚购买的商品横过马路。摄 : Chris Mcgrath/GETTY）</p>
+<p>日本政府观光局刚刚发布了九月最新旅游数据，与去年同期相比，9月内赴日的中国大陆游客，人数增长了接近一倍（增长99.6％），创下历史新高，达到491200人，占到访日总游客数的三成，去年同期（2014年9月）这个数字是246105人。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8B%E5%8D%8812.13.47.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8B%E5%8D%8812.13.47.png" alt="Screen Shot 2015-10-28 at 下午12.13.47" width="550" height="364"></a><br>
+（2015年9月赴日外国游客统计 图：端传媒设计部）</p>
+<p>日本政府观光局分析，今年9月3号到5号，中国大陆特别设立抗日战争胜利70周年小长假，在此期间，不少大陆民众选择前往邻近的日本度假。</p>
+<p>除了新增抗战小长假的催谷作用，日本政府观光局称，选择停靠日本港口的中国邮轮量增加也是原因之一。中国的中秋小长假与国庆长假接踵而至，以及日本在中国大陆进行的出色旅游宣传，也是旅客数在九月迎来迅猛增长的原因。</p>
+<p>日本整个九月的外国人到访数量达1612300人，比去年同期（2014年9月）增长46.7%。</p>
+<p>报告称，这与东亚地区集中迎来假期（包括韩国的中秋节国定假期）有关。除此之外，前往日本的航线增加、日本签证政策的放宽、日元贬值以及日本对旅客减免消费税等的影响，同样是访日人数创新高的重要原因。</p>
+<p>针对大批民众小长假造访日本，有大陆网民调侃，“给你三天抗日假期，不是让你去日本的”。中日关系曾陷入低谷，一度影响中国民众赴日意愿。随著两国关系有转暖迹象，虽然前景仍不明朗，但赴日游明显升温，据统计，目前日本已经成为中国大陆海外旅游最热门的目的地之一。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%97%A5-%E4%BD%A0%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%89%AB%E8%B4%A7%E4%BA%86%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E8%B4%AD%E7%89%A9/?category=18271" rel="tag">境外购物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">大陆游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A9/?category=18271" rel="tag">抗战胜利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%85%E6%B8%B8/?category=18271" rel="tag">旅游</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8/?category=18271" rel="tag">赴日旅游</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E6%88%88%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%88%B0%E9%98%9F%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%95%A2%E5%8A%A8%E6%AD%A6%E5%90%97%EF%BC%9F/" target="cdt-mirror">端传媒 | 吴戈：美国舰队要来了，中国敢动武吗？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.35.05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.35.05.png" alt="Screen Shot 2015-10-28 at 上午10.35.05" width="550" height="367"></a><br>
@@ -634,100 +710,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-9/" target="cdt-mirror">【网络民议】法大教授：“不是屏蔽删帖，就是翻墙偷着乐”</a>
-</h2>
-<p><p><strong>新闻背景：</strong></p>
-<p>据中国经济网报道，10月24日，由清华大学法学院、中国互联网协会联合主办的<a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%BD%91-%E9%A6%96%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C-%E6%88%90%E7%AB%8B%E4%B8%AD%E5%BE%8B/">第一届互联网法治大会在京举行</a>：</p>
-<blockquote><p>大会举行当天上午为主论坛，下午的分论坛分别为“互联网+国家治理”、“互联网+社会治理”、“互联网+法律服务”及“互联网+财经法治”等四个主题。全国政协原副主席罗豪才，法学泰斗江平、清华大学法学院院长王振民、中国互联网协会秘书长卢卫，全国律协副会长朱征夫等专家学者，及来自百度、阿里巴巴、腾讯、滴滴出行等知名互联网企业的高管参会。</p>
-<p>[…] “在互联网法治的发展中，我们应该呼吁互联网母法的尽快出台，且不能够在制定互联网有关的法律方面采取太多限制自由的手段。同时，在互联网立法中要注意整体性立法和部门性立法的良好配合。”江平认为，“互联网+法律”使法律最大程度上成为公民权利的保护神，互联网法治的发展使得法治中国建设的目标能够真正实现，也成为实现中华民族伟大复兴中国梦的重要保障。</p></blockquote>
-<p>中国政法大学教授<a href="http://weibo.com/1444127722/D0LCycz5d?from=page_1003061444127722_profile&wvr=6&mod=weibotime&type=comment#_rnd1445897538189">@郭世佑</a>作了大会主旨报告，呼吁增强网络自由：</p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<blockquote>
-<div><strong>我国互联网几乎与国际同步，正当互联网的青壮年，还能赚大钱，但就互联网的自由使命与它在中国的负担与遭遇来看，还处在亟待呵护的童年，在国务院总理号召 “互联网+”之前，早就加了一个网管网控，不是屏蔽删帖，就是翻墙偷着乐。如果能先减掉它就好</strong>——10,24郭世佑在北京首届互联网法治大会的主旨报告</div>
-</blockquote>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/5613a3eajw1exd9w7wn7qj20ku0fmgnl1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/5613a3eajw1exd9w7wn7qj20ku0fmgnl1.jpg" alt="5613a3eajw1exd9w7wn7qj20ku0fmgnl" width="440" height="330"></a></p>
-<p><strong>以下为中国数字时代编辑收集自网友评论：</strong></p>
-<p>‏<a href="https://twitter.com/beidaijin">beidaijin</a>：这位博主是政法大学的博导。（“翻墙偷着乐”是什么意思）</p>
-<p><a href="https://twitter.com/fnfen1">‏fnfen1</a>：@beidaijin 感覺是“中國的互聯網的自由使命和遭遇，國內不是屏蔽刪貼，就只能選擇翻牆”的意思</p>
-<p><strong data-aria-label-part=""><a href="https://twitter.com/lijiansion" data-user-id="202618004">胶小河</a>：</strong>@beidaijin 1024，他是翻墙上草榴了吧。</p>
-<div><strong data-aria-label-part=""><a href="https://twitter.com/beidaijin" data-user-id="435954378">贝带劲</a>：</strong><a dir="ltr" href="https://twitter.com/lijiansion">@lijiansion</a> 他的主语是网管吗？说网管翻墙偷着乐？感觉这个句式有歧义。。究竟是呼吁取消网管 还是禁止翻墙或者禁止网管翻墙？</div>
-<p><a href="http://weibo.com/u/1504020871">庄生夜梦</a>：网络长城救不了王朝衰落</p>
-<p><a href="http://weibo.com/u/2150670170">brahman</a>：我看“互联网+”在中国就是大数据加实名制，每个人在网络中的一举一动都留下蛛丝马迹，并能让有关部门迅速逮到你。</p>
-<p><a href="http://weibo.com/u/2790685094">徐-光-宗</a>：一切都是歌舞升平、形势一片大好，谁在网上宣扬负能量，就删帖禁言，粉饰太平，为体制说谎辩护的文化阉宦、大小五毛们却一个个挣得盆满钵满，我倒奇怪，如果骂国家、骂领导、骂贪污、骂腐败能够把这个国家骂亡，那美国不早就亡国了吗？如果禁止人们自由言论、妄议朝政有效的话，周幽王这阿斗何以亡国？</p>
-<p><a href="http://weibo.com/hengshuibiyanhu">侯雁濒</a>：我们的道路是中国特色社会主义道路,我们的网是具有中国特色的互联网[阴险][阴险][阴险].</p>
-<p><a href="http://weibo.com/u/2927612341">周永坤微博</a>：筑墙+删帖+喝茶=权</p>
-<p><a href="http://weibo.com/234536368">千里蜀黍</a>：人家是互联网，俺们是局域网+删贴。</p>
-<p><a href="http://weibo.com/liaorui118">廖睿</a>：郭老师这属于“妄议中央大政方针”。[偷笑]</p>
-<p><a href="http://weibo.com/u/1917477341">手机用户新希望</a>：越来越封闭，向朝鲜学习</p>
-<p><a href="http://weibo.com/u/2988668661">情义疯子寂寞</a>：老百姓是遵法的，也害怕法律，你们给五毛，地域，还有特权们讲讲法吧。</p>
-<p><a href="http://weibo.com/2619430541" target="_blank">yanqiang1988</a>：如何攻击长城防火墙？</p>
-<div><a href="http://weibo.com/2401247845" target="_blank">新鲜-百科</a>：封网毁灭了中国民族的创新力。</div>
-<p><a href="http://weibo.com/2805041997" target="_blank">Ritaketty</a>：怕什么呢，中国有句古话怕啥来啥。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">互联网立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">法律人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第一届互联网法治大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%B8%96%E4%BD%91/?category=18271" rel="tag">郭世佑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%BD%91-%E9%A6%96%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C-%E6%88%90%E7%AB%8B%E4%B8%AD%E5%BE%8B/" target="cdt-mirror">中国经济网 | 首届互联网法治大会举行 成立“中律联”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/5613a3eajw1exd9w7wn7qj20ku0fmgnl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/5613a3eajw1exd9w7wn7qj20ku0fmgnl.jpg" alt="5613a3eajw1exd9w7wn7qj20ku0fmgnl" width="440" height="330"></a><br>
-（中国政法大学教授郭世佑在北京首届互联网法治大会作主旨报告）</p>
-<p>中国经济网北京10月26日讯（记者 李万祥）由清华大学法学院、中国互联网协会联合主办的第一届互联网法治大会10月24日在京举行。会议宣布集合全国各地知名律所及律师资源的中律联正式成立，并举行了中律联互联网法治研究院的揭牌仪式。</p>
-<p>　　大会举行当天上午为主论坛，下午的分论坛分别为“互联网+国家治理”、“互联网+社会治理”、“互联网+法律服务”及“互联网+财经法治”等四个主题。全国政协原副主席罗豪才，法学泰斗江平、清华大学法学院院长王振民、中国互联网协会秘书长卢卫，全国律协副会长朱征夫等专家学者，及来自百度、阿里巴巴、腾讯、滴滴出行等知名互联网企业的高管参会。</p>
-<p>　　罗豪才在致辞中表示，互联网带来了这个时代最深刻的变革，但互联网也绝非法外之地，同样需要法治的阳光。互联网治理呼唤着软法之治，硬法相对固化的管理方式难以适应像互联网的变动性、开放性、包容性等特性，从而导致规范效果不佳的后果。而软法由社会多元主体共同制定，内容广泛、形式多样、制定程序灵活，能够弥补硬法的空白。当然提倡软法并不意味着不要硬法，软法、硬法协调共治是现代社会公共治理的大势所趋。</p>
-<p>　　“在互联网法治的发展中，我们应该呼吁互联网母法的尽快出台，且不能够在制定互联网有关的法律方面采取太多限制自由的手段。同时，在互联网立法中要注意整体性立法和部门性立法的良好配合。”江平认为，“互联网+法律”使法律最大程度上成为公民权利的保护神，互联网法治的发展使得法治中国建设的目标能够真正实现，也成为实现中华民族伟大复兴中国梦的重要保障。</p>
-<p>　　王振民表示，互联网法治建设是一个新生事物，一方面互联网自身需要治理，这既包括国内立法，也包括国际立法协作。另一方面互联网对现实世界的影响、对现实世界法律秩序的冲击需要应对。网络的法治建设很可能先走一步，率先实现互联网的法治状态，而且为现实世界的法治建设提供推动力，同时也为中国作为一个网络大国，也为国际的网络法律秩序的形成做出自己的贡献。</p>
-<p>　　“互联网创新与传统行业发展之间存在着冲突和碰撞，行业的创新性与监管的滞后性相生相伴。”卢卫认为，互联网发展引起的每一次创新与变革，法律和监管问题紧跟其后。要解决这个问题，首先要不断完善我国的法律体系，增强立法的时代性，为互联网创新提供制度保障。第二，要积极破除行业障碍，为“互联网+”时代的创新提供宽松包容的政策环境。第三，要坚持稳定有序的原则，积极构建多元合作治理机制。</p>
-<p>　　据悉，作为互联网法治的推动力，中律联盟是一个“互联网+律所+律师”的联盟。中律联发起人、全国律协建房委主任朱树英介绍，中律联盟现有30多家律所成员、数千名律师个人会员。遍布中国一二三四线城市的中律联盟律所网络，将每家律所专业板块高效整合，使得律所无须丧失联盟成员所在当地业已形成的品牌优势，却可以形成线上海量资源与线下成员所实体的无缝对接。同时，将联盟成员律师数以亿计的碎片时间高效再利用，共同抗衡全球大所的竞争，取得跨界超越优势。</p>
-<p>　　中律联发起人、北京市中闻律师事务所主任吴革介绍，随着“互联网+”对法律行业的变革，中国法律市场将在未来几年面临全行业的重新洗牌乃至颠覆，因此在保留既有的律师事务所品牌和资源优势的前提下，中律联通过联盟的形式获取北上广深及各个省会城市的律师事务所的资源，形成聚焦效应，以“互联网+”时代的知识管理和互联网精神应对国外互联网大潮的冲击，主动融入以互联网为标志的法律人的大连接、大联盟的时代。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%BD%91-%E9%A6%96%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C-%E6%88%90%E7%AB%8B%E4%B8%AD%E5%BE%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%BE%8B%E8%81%94/?category=18271" rel="tag">中律联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">互联网审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">互联网立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E5%B9%B3/?category=18271" rel="tag">江平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%95%E6%B2%BB%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第一届互联网法治大会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%E4%BD%99%E6%9D%B0%EF%BC%9A%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96%E4%B8%8E%E7%8B%AC%E8%A3%81%E8%80%85%E7%BB%93%E7%BC%98/" target="cdt-mirror">民主中国 | 余杰：孔子和平奖与独裁者结缘</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7052cea7gw1exeh2h3v3jj20go0d8t9v.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7052cea7gw1exeh2h3v3jj20go0d8t9v.jpg" alt="7052cea7gw1exeh2h3v3jj20go0d8t9v" width="550" height="436"></a></p>
-<p>今年的孔子和平奖颁给了津巴布韦的屠杀了两万民众、统治了三十五年的总统穆加贝。至此，该奖设立短短六年来，就有连战、普京、卡斯特罗、穆加贝等几位政治强权人物获奖，可见孔子和平奖与独裁者有缘。孔子长眠于地下两千多年了，历朝历代，统治者为其建庙封王，盗用其名，现在仍用他来给独裁者加冕。孔子对此当然无法出来表达异议，只有孔家后代出面稍加澄清：孔子第七十六代传人，香港天主教正义和平委员会干事孔令瑜批评说，对中共自设孔子和平奖以打击诺贝尔和平奖的举动表示心痛。而历史学家余英时评论说：“大家把这个东西当作笑话看，但看完以后，不能不感觉到痛心。我们五千年的文化，又经过五四以后吸收了西方文化，在三四十年代，无论中国文化、西方文化的研究，都到了相当高的程度。到今天会堕落到如此不堪的地步，这是真的不能想象的。”</p>
-<p>孔夫子杀了少正卯一个人，穆加贝屠杀了两万人。所以，津巴布韦总统穆加贝(Robert Mugabe)荣获孔子和平奖，乃是实至名归，正如主办单位颁奖词所说，穆加贝“克服种种困难，致力于打造国家的政治与经济秩序，同时强而有力地支撑了泛非洲主义与非洲的独立”。</p>
-<p>不过，还是有杂音传来。消息传到该国之后，反对派的人民民主党秘书长莫忧随即发言表示，对于穆加贝的获奖感到“极度恶心”，他并以“疯狂的孔子和平奖”（The insanity of the Confucius Peace Prize）为题发表评论指出，穆加贝用血腥、暴力、纵火与残暴手段，打造建构出长达三十五年的独裁统治。</p>
-<p>二零一零年，身在狱中的人权斗士刘晓波荣获诺贝尔和平奖之后，《环球时报》发表文章建议，中国政府应另起炉灶设立“孔子和平奖”，利用孔子的知名度，宣示中国的和平观和人权观。我是在软禁中，国保警察扔掉的一张破报纸上看到这则评论的。</p>
-<p>没有想到，果然有“有识之士”将这个创意变成了现实。由一群所谓的“民间立场”的学者出面，挂靠在“中国乡土艺术协会”之下（该协会是中国“一级协会”，国务院文化部直属单位），创设了一个与诺贝尔和平奖唱对台戏的“孔子和平奖”。被挪威诺奖委员会激怒的中共当局，乐见有爱国者挺身而出捍卫国家尊严。</p>
-<p>第一届孔子和平奖颁发给完成“国共第三次和谈”的国民党荣誉主席连战。那时候的连战，还没有进化到如今放胆参加北京大阅兵的地步，不敢到北京领取这个烫手的山芋。但在颁奖典礼上，司仪现场宣布，“由于众所周知的原因，连战先生今天未能亲到现场领奖，为此，我们邀请了一位小朋友，代连战爷爷上台领奖。”并声称连战已默认领奖。</p>
-<p>一炮没有打响，内讧却已爆发。主办该奖的“民间机构”一分为二，互相攻击。主人见势不妙，不再喂食，文化部发文将双方统统逐出门庭，并在声明中表示该奖项的设立违反了有关规定。至于究竟是哪些规定，则语焉不详。</p>
-<p>但是，爱国者的爱国心百折不挠，主办方以“中国国际和平研究中心”名义，于二零一一年十月改在香港注册成立（该组织不在北京注册，而在香港注册，本身就是一个绝妙的讽刺。幸亏中国还有一个香港，可以宽松地注册形形色色的非政府组织）。</p>
-<p>于是，又施施然地公布了第二届孔子和平奖的评选结果：获奖者为俄罗斯总理普京。普京是习近平惟一打心眼里崇拜的活着的、外国的政治人物，该机构颁奖给普京，习近平当然很高兴。</p>
-<p>普京本人及俄国政府却从未对此一奖项作出任何响应。倒是普京领导的统一俄罗斯党的网站上，迅速发表了不受抬举的言论：该网站援引俄罗斯著名记者多连科的评论说，“这个奖一钱不值”。普京不仅没有亲赴中国领奖，也没有派俄国驻华大使去领奖，主办方只好找来一名俄罗斯留学生代为领奖。习近平错过了一个向偶像颁奖的良机，好不遗憾。颁奖典礼上，北大中文系教授、长期吹捧薄熙来的毛派学者孔庆东宣读了普京获奖的理由。“普京在担任俄罗斯总统和总理期间，政绩斐然，给俄罗斯人民带来了福祉。特别是，普京在二零一一年春夏之交，坚决反对北约轰炸利比亚，为维护世界和平做出了杰出贡献。”然而，普京的反对并未拯救卡扎菲政权覆灭的命运。</p>
-<p>除了该委员会的十六位评委（据该活动的操办者之一、自称诗人并也曾获得提名的谯达摩表示，“孔子和平奖”评审委员会成员多数是中国哲学界大师，水平优于诺贝尔和平奖评委会的五人）之外，俄国也有人认为普京获此奖“当之无愧”。俄罗斯纪念碑人权中心领导人、人权活动家奥尔洛夫评论说，中国人权记录恶劣，普京同样不尊重人权，中国把这一搞笑奖项颁发给普京，可谓臭味相投。他还说：“如果更臭名昭著的津巴布韦总统穆加贝设立某个奖项，然后颁发给普京，普京会更当之无愧。”</p>
-<p>奥尔洛夫倒是未卜先知：穆加贝虽然没有设立一个奖项颁给普京，两年后，穆加贝本人却成了跟普京一样的荣获孔子和平奖的当代伟人——只不过，在普京与穆加贝之间，隔着另一个独裁者，即统治古巴长达半个世纪的卡斯特罗。孔子和平奖得主们，可以组成一个“独裁者俱乐部”了。（可怜的连战同志，在民主的台湾参加选举连战连败，未能炼成掌权的独裁者，有独裁之心，而无独裁之实，只能退一步海阔天空，成为台湾跃居福布斯富豪排行榜的惟一一名政治人物）<br>
-穆加贝获奖，不是大新闻，如果曾在“史诗巨片”《孔子》中扮演孔子的香港巨星周润发出席颁奖典礼，以孔子的扮相给穆加贝颁奖，那才有可能成为大新闻。发哥在银幕里上天入地、弹无虚发，昔日“小马哥”勇闯龙潭虎穴的雄姿英发、风流倜傥犹存，一定会给颁奖典礼增色不少。而穆加贝比发哥更是英明神武，他于一九八一年建立由朝鲜训练的“第五旅”，对付异议人士和实施种族清洗，战无不胜、所向披靡，尸横遍野、血流成河。发哥在电影里扮演过神机妙算、乾坤挪移的赌神，而穆加贝更是现实生活中的赌神——津巴布韦曾在电视上举办过公开的乐透抽奖，摸出来的头奖名单赫然就是穆加贝本人。所以，若是主办方能说动发哥前去颁奖，再请习近平莅临发表重要讲话，必定是吸引世人眼球的大新闻，也会让北欧蛮夷之邦的炸药奖之颁奖典礼黯然失色。</p>
-<p>孔子长眠于地下两千多年了，历朝历代，统治者为其建庙封王，他只能默默忍受。如今，又出现孔子学院和孔子和平奖等“怪现状”，孔子还是无法起死回生、阻止自己的名字被盗用。只有孔家后代出面稍加澄清：孔子第七十六代传人，香港天主教正义和平委员会干事孔令瑜批评说，对中共自设孔子和平奖以打击诺贝尔和平奖的举动表示心痛。而历史学家余英时评论说：“大家把这个东西当作笑话看，但看完以后，不能不感觉到痛心。我们五千年的文化，又经过五四以后吸收了西方文化，在三四十年代，无论中国文化、西方文化的研究，都到了相当高的程度。到今天会堕落到如此不堪的地步，这是真的不能想象的。”</p>
-<p>“斯文”就是这样“扫地”的。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%E4%BD%99%E6%9D%B0%EF%BC%9A%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96%E4%B8%8E%E7%8B%AC%E8%A3%81%E8%80%85%E7%BB%93%E7%BC%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0/?category=18271" rel="tag">余杰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%89%8E%E8%8F%B2/?category=18271" rel="tag">卡扎菲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97/?category=18271" rel="tag">卡斯特罗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">孔子和平奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">民主中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%A6/?category=18271" rel="tag">津巴布韦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E5%8A%A0%E8%B4%9D/?category=18271" rel="tag">穆加贝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E6%88%98/?category=18271" rel="tag">连战</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -749,5 +731,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

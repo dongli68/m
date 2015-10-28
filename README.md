@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E5%A4%8D%E5%85%B4%E8%B7%AF%E4%B8%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%8D%81%E4%B8%89%E4%BA%94%E7%A5%9E%E6%9B%B2/" target="cdt-mirror">南方都市报 | 复兴路上工作室发布“十三五”神曲</a>
+</h2>
+<p><p>“要了解中国的下一步，你最好关注十三五”，10月27日上午，一个名为“十三五之歌”的短片在网上悄然流传，被誉为“神曲”，甚至有网友表示“一连听了好多遍停不下来”，感叹“十三五”都可以这么唱出来。发布5小时后，该短片在国内主要视频网站上的点击量已破500万。</p>
+<p>这是复兴路上工作室本年度发布的第七个短片，与此前聚焦中国领导人外事活动的“跟着大大走”系列短片不同，最新短片的主题是“十三五”规划，和该工作室两年前发布的第一个动漫短片“中国领导人是怎样炼成的”有一定相似之处。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/LL3z-fxizwsf8928518.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/LL3z-fxizwsf8928518.jpg" alt="LL3z-fxizwsf8928518" width="545" height="333"></a></p>
+<p>短片时长3分钟，没有重复“复兴路上”擅长的动漫、微电影等制片形式，而是紧跟潮流，尝试“民谣加拼贴画”的方式，画面立体，配乐欢快，歌词浅白，还唱到了“习大大”：“上至中央领导，下到普通干部，实现十三五，每个人都得好好忙碌”“规划执行从上到下，习大大领着人民天天向上”。</p>
+<p>南都记者注意到，这首英文版的“十三五之歌”最大的特点是反复吟唱“十三五”，在短短的歌词中出现了28次之多，画面也以多种形式反复出现“135”三个数字，一次次加深对“十三五”的印象。</p>
+<p>针对十三五规划是什么、由谁制定、怎么制定、怎么执行等基本问题，歌中分别给出“一句话简答”。有网友感慨“原来十三五都可以这么唱出来的！酷酷的范儿，好看好玩好听”，还有有网友听后评价说：“这才是属于现代年轻人的红歌”。</p>
+<p>墙内视频<a href="http://video.sina.com.cn/p/news/c/v/2015-10-28/115265106487.html" target="_blank">地址</a></p>
+<p>复兴路上工作室发布的短片，始终致力于“对外传播”。南都记者从制作团队了解到，片子“出炉”前曾做过小范围调研，发现多数老外不知道中国的五年规划是什么，更不了解这个规划是怎么出台的。</p>
+<p>一名制作人员对南都记者表示，“十三五”这个主题本身就很“高大上”，因此短片的定位是“接地气”，希望用轻松、欢快方式来呈现，符合对方的语言和表达习惯，才能获得亲切感和好感，进而引起外界对中国十三五规划的关注与兴趣。</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E5%A4%8D%E5%85%B4%E8%B7%AF%E4%B8%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%8D%81%E4%B8%89%E4%BA%94%E7%A5%9E%E6%9B%B2/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p>短片并没有介绍十三五规划具体包括哪些内容，而是侧重体现十三五规划制定的“民主集中制”过程，比如在由谁制定、怎么制定问题上，歌中唱道：“党中央，国务院还有各级部委办，工人农民企业家，专家教授你我他，中国的十三五，大伙儿来做主”“先分散调研，听听大伙儿有啥话要说，再集中讨论，看看大伙儿的事儿咋做，来来回回，上上下下，上百轮”。</p>
+<p>五年规划被认为是中国执政的独特方式，保证发展的可持续性和稳定性。有老外看完片子后才知道，中国对每个未来五年的发展都有十分明确的路径，感到很神奇有趣，“中国这么大一个国家发展的奥秘，原来可以在五年规划中找到”。</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>Hieronymus_Bosch：包子吃多了吧。</p>
+<p>alex丶华易逝：广电总局 还不来禁 英文歌曲呢</p>
+<p>Die_Flugel_der_Freiheit： …………无产阶级文化大革命就是好！就是好呀就是好！</p>
+<p>李慧河李彘：佬美都要在派航母来了，亏你们还有心情在这。自我陶醉～</p>
+<p>jeffrey0705：尴尬癌已加入大病医保 筒子们放心点开</p>
+<p>Kyrie_Eleison：啧啧，自从《东方红》之后长达半个世纪已经没有用音乐做宣传的成功案例了，加油哦大大！</p>
+<p>第一个远：请来外国友人帮忙忽悠民主了。</p>
+<p>ready飞：宣传工作越来越渗透网络了，不寒而栗。</p>
+<p>-西门吹股-：就这种自我YY的功力，果然是宇宙无敌，醉人啊。</p>
+<p>DrLisg：旋律不错。</p>
+<p>1128一切安好：表示已听过，动感超强。</p>
+<p>零度山海关：在海外已经是大笑话了，找了群国际破落户做的视频，恶俗当有趣。</p>
+<p>寂静的海2011：三胖，你还是太年轻了。哥咋样？！</p>
+<p>乌云2999：自我感觉良好。</p>
+<p>萌萌的发仔：希望135能全部得到执行。以前说2000年教育投入占GDP4%，到了2013年才实现的。</p>
+<p>郭策Charles：看到1分钟的时候尴尬症发作，浑身鸡皮疙瘩，没敢往下看。</p>
+<p>达亘达：讲真，制作精良。</p>
+<p>期货师：三个字，假大空。</p>
+<p>失足青年罗伟光：看评论都没有一致拍马屁我就放心了，果然微博还是比较启发民智舆论的地方，比那些微信朋友圈里的｛惊，XI重走毛路线，吓坏日美｝之类的好多了。</p>
+<p>臭流氓老孟：你支除了吹牛逼yy也不会别的吧？</p>
+<p>醍虎冠頂：唱的永远比做的好……</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E5%A4%8D%E5%85%B4%E8%B7%AF%E4%B8%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%8D%81%E4%B8%89%E4%BA%94%E7%A5%9E%E6%9B%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8D%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4/?category=18271" rel="tag">复兴工作室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E5%8D%81%E4%B8%89%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92/?category=18271" rel="tag">第十三个五年规划</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%86%9B%E5%A7%94%E7%B4%A7%E6%80%A5%E4%BC%9A%E8%AE%AE%E5%95%86%E8%AE%A8%E7%BE%8E%E5%85%A5%E4%BE%B5%E6%88%91%E9%A2%86%E6%B5%B7/" target="cdt-mirror">【习总日记】 军委紧急会议商讨美入侵我领海</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，27）<br>
+五角大楼作出美军在24小时入侵我领海的决定时，我正在五中全会上发表重要讲话。半小时后，解放军卫星雷达发现美军一艘名叫拉森号的宙斯盾舰正驶入我南海人工岛礁周边12海哩内。解放军总参谋部马上向我报告，请求下达攻击命令。</p>
+<p>我担心出事，把自毛主席开始下的一盘大棋毁了，急忙离开五中全会会场，赶赴中央军委总参谋部召开临时紧急会议。李克强等六常委关心询问，要不要一起讨论？我说军事方面你们是外行，少给我添堵已经谢天谢地了。张德江刘云山不买账，说党指挥枪。我说我代表党去指挥，够资格吧。他们只好无语问苍天，垂泪悼江湖。</p>
+<p>来到总参谋部马上开会。</p>
+<p>新任军委副主席刘源急于立功，说打他娘的。我说他娘在美国本土，用什么打，海浪二号潜射导弹？再说，他儿子犯我领海与他娘有啥关系，你干嘛打他娘？第三，他儿子打不打，是只打他娘不打儿子，还是儿子和他娘一起打？刘源低头不语。</p>
+<p>军委参谋张召忠提议，渔船包围。放他进来不让他走。我说留他吃饭怎的？还有军舰要油。咱还要管他吃油。张召忠涨红了脸赶紧摆弄衣角。</p>
+<p>另一参谋罗援献计，化悲痛为力量，把悲剧唱成喜剧。我问怎么唱法？没想到罗张口就唱：若是那美舰来了，迎接他的有猎枪。我问，啥时解放军配备猎枪了？罗援说可以赶紧造。我说有猎枪之后开不开火？罗援说开火，为什么不开？反正打不到。我夸奖罗援，此计甚妙。对老百姓有交代，咱们动手了。对解放军也有交代，咱开火了。对美军也有交代，自由航行不受侵犯。</p>
+<p>我征求意见说，罗援将军的战略计划，各位还有什么要补充的？</p>
+<p>刘源见罗援立功于心不甘，要鸡蛋里挑骨头。他问罗援，要是猎枪造好了，发给海军还是陆军还是空军？罗援支支吾吾答不上来。我替罗援解围道：发给海军，舰对舰猎枪；发给空军，空对舰猎枪；发给陆军，岸对舰猎枪。遇见我这个军事天才，刘源没招了。</p>
+<p>张召忠插一杠子。他问罗援，等猎枪造好，他美舰早就溜了。他会等着你造猎枪，造完猎枪从海陆空三方面同时开火？你傻啊！罗援又支支吾吾。我二度拍马解围。我说，我与美国总统奥巴马有热线，猎枪造好后，先演习几次，等条件成熟的时候，我打电话给奥总，请他帮帮忙，派军舰再来一次。张召忠无话可说。</p>
+<p>没想到把罗援搞兴奋了。</p>
+<p>他激动地向我请求道：“请习总好人做到底。”</p>
+<p>我被搞糊涂了：“你还想干嘛？”</p>
+<p>他喜形于色道：“请奥总派一艘航母过来。”</p>
+<p>我被气死了。</p>
+<p>我调侃道：“这个么，动静有点大。不过根据我与奥巴马的交情不是不可能。只是费用可能要我方负担。”</p>
+<p>罗援高兴得跳起来了。</p>
+<p>另一位军委副主席范长龙一直忍着，最后实在忍不住了：“报告习主席，我还没说话。”</p>
+<p>我安慰道：“你请。”</p>
+<p>范长龙道：“美舰犯我领海好比小三怀孕，到底打不打？打有打的问题，不打有不打的问题。”</p>
+<p>我感觉奇怪，怎么和小三怀孕联系起来。</p>
+<p>范长龙继续讲道：“打，有违人道。毕竟与生命有关。不打，今后怎么办？两难啊！”</p>
+<p>最后我决定，造猎枪。同时指示中宣部在所有媒体上反复播放丽媛版《一条大河波浪宽》。顷刻间，“若是那豺狼来了，迎接他的有猎枪”的歌声响彻五湖四海，回荡神州大地。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/102715.jpg" alt="102715" width="551" height="254"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%86%9B%E5%A7%94%E7%B4%A7%E6%80%A5%E4%BC%9A%E8%AE%AE%E5%95%86%E8%AE%A8%E7%BE%8E%E5%85%A5%E4%BE%B5%E6%88%91%E9%A2%86%E6%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90/?category=18271" rel="tag">刘源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8F%AC%E5%BF%A0/?category=18271" rel="tag">张召忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%89%E6%A3%AE%E5%8F%B7/?category=18271" rel="tag">拉森号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%83%E9%95%BF%E9%BE%99/?category=18271" rel="tag">范长龙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%80%92%E4%BA%86%EF%BC%9F/" target="cdt-mirror">日经中文网 | 奥巴马怒了？</a>
 </h2>
 <p><p>世界上的领导人分为两种类型。一种是相信不管对谁都能通过对话解决问题，另一种是不相信可以通过对话解决问题。前者的典型人物就是美国总统奥巴马。</p>
@@ -49,7 +130,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%8D%9A%E5%BC%88/?category=18271" rel="tag">中美博弈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E8%AF%9D/?category=18271" rel="tag">对话</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88/?category=18271" rel="tag">高层会谈</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%8B%A5%E6%97%A0%E6%B3%95%E5%9C%A8%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%82%83%E6%B8%85%E5%BC%82%E5%B7%B1-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E6%88%90/" target="cdt-mirror">东网 | 若无法在五中全会“肃清异己” 习近平将成“跛脚鸭”</a>
 </h2>
@@ -582,47 +663,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E9%AB%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90cdtv%E3%80%91%E8%8B%B1%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AF%B9%E8%BE%A9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/" target="cdt-mirror">【CDTV】英国小伙对辩中国留学生</a>
-</h2>
-<p><p>英国小伙VS举红旗的中国学生</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90cdtv%E3%80%91%E8%8B%B1%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AF%B9%E8%BE%A9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/65cc9274jw1exee44t2agj20vk0hsgoi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/65cc9274jw1exee44t2agj20vk0hsgoi.jpg" alt="65cc9274jw1exee44t2agj20vk0hsgoi" width="440" height="248"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/65cc9274jw1exee456lovj20vk0hsn0g.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/65cc9274jw1exee456lovj20vk0hsn0g.jpg" alt="65cc9274jw1exee456lovj20vk0hsn0g" width="440" height="248"></a></p>
-<p>hnjhj：英国那个小伙舌战中国五毛的视频里，最搞笑的是这段：一听到西藏一词，一个善于抖机灵的小五毛就炸毛了，建议英国小伙去跟苏格兰人民讨论一下独立事宜，没想到英国小伙骄傲地宣布自己是苏独分子。这种挫败感，连看三天新闻联播都不见得能够平复。</p>
-<p>月半老猫：英国人试图表达【你们在这里享有并行使你们的自由和权利，但你们怎么就想不通你国内的同胞不是也应该享有这些自由和权利吗？】，（中国人回答最盲塞的是【你管那么多】。）</p>
-<p><a href="http://weibo.com/5239115061" target="_blank">青衫秀士</a><i></i>：那些去英国留学的大学生英语可真水<img title="[弱]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]">除了反复的说爱国爱政府之外，居然连一个能和那个英国小伙子好好沟通的都没有<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]">这水平简直连乡村民办教师都不如<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]">还有，在人家的国家居然要求人家用中国话交流<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]">人家有义务学习你国的语言吗<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p>shifeike：刚看了那个伦敦街头小辩论的视频，心里真是感慨。在国力特别是经济实力上，吾国确已和百年前有云泥之别。但中英两国之间在人类文明进化史上的差距，和一百多年前并无二致。</p>
-<p>李凯楠微博：这种花钱买过来站街的留学生不好用啊。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90cdtv%E3%80%91%E8%8B%B1%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AF%B9%E8%BE%A9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A6%E6%95%A6/?category=18271" rel="tag">伦敦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E6%A0%BC%E5%85%B0%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">苏格兰独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">西藏问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%A9%E8%AE%BA/?category=18271" rel="tag">辩论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E4%B8%80%E7%AF%87%E7%8E%B0%E4%BB%A3%E7%89%88%E9%85%B7%E5%90%8F%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%A3%E8%A8%80/" target="cdt-mirror">东网｜王药师：一篇现代版酷吏的自我宣言</a>
-</h2>
-<p><p>相比“御史大夫”王岐山的一贯高调强势，中共普通纪检干部以往给外界的印象是低调甚至有点神秘。不过这种印象最近被一个名叫徐爱生的人彻底给打破了。经《北京日报》旗下微信公号“长安街知事”披露，这位央企中远集团新任纪检组长的内部讲话这两天红遍网络。</p>
-<p>讲话中，徐爱生不仅上来就自我介绍说：“刘志军，就是我亲手把他送进去的，中石油的廖永远、大唐跳楼的蔡哲夫、国网副总帅军庆的问题都我查的，最近五年，我总共查了180多起案件。”而且几乎句句都在跟单位老大、老二以及前任叫板。许多人读后感叹，从未见到哪位纪检组长能这么跟单位职工说话的，“端的有海刚峰（海瑞）之风”。</p>
-<p>相比内地有些媒体“这番讲话被视作展示反腐决心的‘自绝后路’”的正面解读，我个人更倾向于将其视为一名现代版酷吏的自我宣言。</p>
-<p>酷吏之说出自《史记·酷吏列传》，作为专制政治的必然产物，酷吏的特点一是专门和豪强做对，用今天的词就是热衷“打黑”；二是政绩大都相当突出，尤其是善于强化治安。所以酷吏的官运一般都相当好，经常越级升迁，深得皇帝喜爱。不过与百姓所期冀的“为民做主”的青天不同，酷吏的所作所为初衷并非“为百姓谋福利”，本质上他们不过是皇帝的鹰犬，按君主旨意办差，顾行事多超乎法律。</p>
-<p>睽诸徐爱生的这篇内部讲话，无处不闪现着上述酷吏逻辑。从表面上看，他似乎大义凛然，无所畏惧，动辄对上对下说出“我当时就要求马泽华同志，你必须立行立改，否则我就履行我的监督职责”、“以后任何人出差，包括集团领导人，再敢用这种招待，我追责，我通报，不信你试试”这样的狠话，颇有“苟利国家生死以，岂因祸福避趋之”的精神，但深入一步探究，这种胆量、如此勇气全都基于一个前提——加强和巩固党的领导。</p>
-<p>比如，在谈及主体责任时，徐爱生表示，党的意识淡化，党建工作弱化，这是确确实实在中远集团严重存在的，而且是各种纪律问题、违法犯罪问题存在的主要原因——言下之意，党的建设一抓就灵，加强党建就百病包治、万事大吉了。</p>
-<p>又如，在提到中远、中海合并方案时，徐爱生怒斥：身为党组书记，两个企业合并的重大国企改革方案当中，居然只字不提党的建设、党的领导、党的监督——这个话换成几十年前的表述就是：一个重大方案居然只字不提伟大领袖毛主席的指示。</p>
-<p>除了反复提及“党的意识”、“党建工作”、“党的领导”、“党的纪律”，徐爱生还时刻不忘“用习总书记的话”来说事。左一句“中远的风气，中远公款打高尔夫，其恶劣程度，已经让总书记都知道了”，又一句“连总书记都知道你们打高尔夫，搞的都出名了，什么叫都解决了！”可见在他心目中，总书记知不知道、满不满意才是衡量问题是否严重、工作有无做到位的标准。至于民众的知情权、参与权、监督权，则压根不在其考虑范围之内，是故讲话中也根本没有涉及这方面的内容。</p>
-<p>更扯淡的是，在“谈履职”部分，徐爱生举的例子竟然是买党旗，并质问“共产党的天下竟然买不到党旗，纪检部门应该怎么办？”难怪有气愤的论者就势反问：国企重要工作是买党旗？而眼尖的时政记者更发现，在此事中这位组长多次说道“我的秘书”、“我的司机”，但就官阶而言，徐爱生只是名司局级干部，按照相关规定应该是没有秘书和专车的。</p>
-<p>好在，没有人会傻乎乎地相信酷吏就一定是清官，即便是清流也未必有利于民众。就像前面被提到的海刚峰（海瑞），嘉靖皇帝死后，海瑞为张居正的老师徐阶所用，外放应天府做了巡抚，管南京周围几个最富的州府。然而，海瑞搞了几年，当地的赋税减了三分之二，大户人家都跑了。所以后来张居正用人，“重循吏慎清流”，化用莎士比亚的话来讲，是选贪腐的改革者，还是相对清廉的保守派，这真是个问题。而历史的实践早已表明，一元监督的集权体制永远跳不出如此“两难选择”的困境。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E4%B8%80%E7%AF%87%E7%8E%B0%E4%BB%A3%E7%89%88%E9%85%B7%E5%90%8F%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%A3%E8%A8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%90%8F/?category=18271" rel="tag">酷吏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -634,7 +674,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -644,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

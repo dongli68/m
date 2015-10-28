@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E5%A4%8D%E5%85%B4%E8%B7%AF%E4%B8%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%8D%81%E4%B8%89%E4%BA%94%E7%A5%9E%E6%9B%B2/" target="cdt-mirror">南方都市报 | 复兴路上工作室发布“十三五”神曲</a>
@@ -256,7 +256,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86/?category=18271" rel="tag">京西宾馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E4%BA%8B%E5%84%BF/?category=18271" rel="tag">政事儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BA%AC%E6%8A%A5/?category=18271" rel="tag">新京报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E7%A5%9E%E7%A7%98%E4%BC%9A%E5%9C%BA%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%EF%BC%9A%E4%BB%8E%E6%9C%AA%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%B3%84/" target="cdt-mirror">【真理部】中央”神秘会场”京西宾馆：从未发生一起泄密事件</a>
 </h2>
@@ -311,7 +311,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86/?category=18271" rel="tag">京西宾馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BA%AC%E6%8A%A5/?category=18271" rel="tag">新京报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96%E5%B9%B6%E9%9D%9E%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">【异闻观止】环球时报 | “孔子和平奖”并非中国主流社会之声</a>
 </h2>
@@ -674,7 +674,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E9%AB%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -684,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E9%AB%98
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

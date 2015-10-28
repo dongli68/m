@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%8B%A5%E6%97%A0%E6%B3%95%E5%9C%A8%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%82%83%E6%B8%85%E5%BC%82%E5%B7%B1-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E6%88%90/" target="cdt-mirror">东网 | 若无法在五中全会“肃清异己” 习近平将成“跛脚鸭”</a>
@@ -97,7 +97,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">劳工维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7/?category=18271" rel="tag">北大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">北大马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E6%9D%83%E5%88%A9/?category=18271" rel="tag">工人权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">讨薪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E7%A5%9E%E7%A7%98%E4%BC%9A%E5%9C%BA%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%EF%BC%9A%E4%BB%8E%E6%9C%AA%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%B3%84/" target="cdt-mirror">新京报 | 中央”神秘会场”京西宾馆：从未发生一起泄密事件</a>
 </h2>
@@ -146,6 +146,61 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5
 <a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E7%A5%9E%E7%A7%98%E4%BC%9A%E5%9C%BA%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%EF%BC%9A%E4%BB%8E%E6%9C%AA%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%B3%84/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86/?category=18271" rel="tag">京西宾馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E4%BA%8B%E5%84%BF/?category=18271" rel="tag">政事儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BA%AC%E6%8A%A5/?category=18271" rel="tag">新京报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E7%A5%9E%E7%A7%98%E4%BC%9A%E5%9C%BA%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%EF%BC%9A%E4%BB%8E%E6%9C%AA%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%B3%84/" target="cdt-mirror">【真理部】中央”神秘会场”京西宾馆：从未发生一起泄密事件</a>
+</h2>
+<p><p>各网站不转发“中央”神秘会场”京西宾馆：从未发生一起泄密事件”一文，已转发的立即删除。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<p>附：新京报：中央”神秘会场”京西宾馆：从未发生一起泄密事件</p>
+<p>下周一，也就是10月26日，十八届五中全会召开。</p>
+<p>　　“政事儿”注意到，对中国发展产生深远影响的十一届三中全会等此前多次党的中央全会，比如前年的十八届三中全会、去年的十八届四中全会等，举办地一般多在京西宾馆。</p>
+<p>　　作为党和国家重要会议举办地之一，京西宾馆也被视为北京的“政治地标”之一，见证了十一届三中全会等重要历史时刻。</p>
+<p>　　“政事儿”曾参加党代会和全国两会报道，得以多次进入京西宾馆。在“政事儿”看来，京西宾馆有“五宗最”。</p>
+<p>　　最神秘</p>
+<p>　　只有门牌而无招牌</p>
+<p>　　从天安门广场沿着长安街往西走，走到羊坊店和复兴路交界处，看到马路对面的军事博物馆、中央电视台，然后找“羊坊店1号”门牌，也就找到了京西宾馆。</p>
+<p>　　京西宾馆只有门牌而无招牌，全称为“中国人民解放军总参谋部管理保障部京西宾馆管理局”，是正师级单位。</p>
+<p>　　近年来，钓鱼台国宾馆、人民大会堂等党和国家重要会议举办地，都已对外开放，允许公众参观，可京西宾馆仍未对外开放。所以给公众形成的印象就是两个字：“神秘”。</p>
+<p>　　“政事儿”采访全国两会，第一次来到京西宾馆时，也觉得“神秘”。可进入到内部，就觉得熟悉，内部装饰跟人民大会堂相似。</p>
+<p>　　当时，京西宾馆已经建成40年，所以跟首都大酒店等其他两会驻地相比，有些旧，整个宾馆除了住宿的宾馆楼，还有苏式风格的会议楼。会议楼每一层都有不同规格的会议室，长长的过道铺着厚厚的红地毯。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%8812.11.28.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%8812.11.28.png" alt="Screen Shot 2015-10-27 at 下午12.11.28" width="550" height="343"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%8812.11.43.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%8812.11.43.png" alt="Screen Shot 2015-10-27 at 下午12.11.43" width="550" height="286"></a></p>
+<p>　　最难进</p>
+<p>　　身份证、工作证、记者证都不管用</p>
+<p>　　给“政事儿”留下最深印象的是京西宾馆的安保。</p>
+<p>　　全国两会期间，京西宾馆也跟其他驻地相同，大门口有武警站岗，配备了安检设备。记者凭大会采访证，安检后可以进入，想“深入内部”，到代表的房间采访，则要预约。</p>
+<p>　　除了党的中央全会、全国两会，京西宾馆也会举办其他会议。这些会议的安检同样严格。</p>
+<p>　　宾馆大院西门设有岗哨和接待室，哨兵逐一检查入内人员及车辆。宾馆传达室墙上挂有“住馆宾客会客程序和规定”，写明：凭会议组织单位核发的会议通知、请柬、会议证等有效证件才可以进入。所以，如果没有接到会议邀请，那么就会被禁入，身份证、工作证、记者证等等都不管用。</p>
+<p>　　由于京西宾馆安检严格，所以被称为“北京最难进的宾馆”。诗评家吕进曾撰文回忆：“中国文联每年都要在北京召开一次全委会。我担任全委委员的那些年，会议总是在北京的京西宾馆举行。这家宾馆隶属于解放军总参谋部，这可能是安保措施最严格的宾馆，过道铺着红地毯，到处都有解放军战士执勤。来客很麻烦，警卫要先电话征得受访人同意，然后，客人经过层层关口，才得进来”。</p>
+<p>　　最安全</p>
+<p>　　“从未发生一起泄密事件”</p>
+<p>　　由于安保严格，京西宾馆也被称为“最安全”的宾馆，管理与保卫工作与中南海、人民大会堂和钓鱼台国宾馆同等级别。对外披露的信息显示，迄今为止京西宾馆“从未发生一起泄密事件”。</p>
+<p>　　有媒体报道称：2001年，京西宾馆进行了一次大的重装，为各级别的会议所配备的设施更加完善。除了大厅门口的安全检查装置，各会议室还专门配备了一系列保密设施，有的高级别保密会议要求与会人员把手机存放在专门的储柜中，能够屏蔽无线电信号，保证会议内容绝对不会外泄。</p>
+<p>　　2004年京西宾馆建成40周年时，官方发布的资料显示，京西宾馆一直是军事化管理：京西宾馆是我国党政军各部门举行重要会议的场所。宾馆各级领导干部和广大员工时刻保持政治清醒，坚持正确方向，坚决服从命令，以军人的作风、军人的纪律，做好各项重大会议的服务保障工作。</p>
+<p>　　“会场之冠”</p>
+<p>　　每年至少接待200场次以上的会议</p>
+<p>　　除了党的中央全会、全国两会，领导人接见劳模等活动，也会在京西宾馆进行。</p>
+<p>　　前年9月习近平会见第四届全国道德模范及提名奖获得者，去年的中央民族工作会议、群众路线活动总结大会，今年1月习近平接见全军外事工作会议和第十六次武官工作会议代表，都在京西宾馆。</p>
+<p>　　京西宾馆也会举行一些悼念活动。2006年8月7日，解放军总参谋部在京西宾馆礼堂为在黎巴嫩遭以色列空袭身亡的杜照宇烈士举行悼念大会，解放军官兵、烈士家属等千余人参加。</p>
+<p>　　由于会议多、活动多，京西宾馆也是最繁忙的宾馆之一，被称为“会场之冠”。有媒体报道，每年至少接待200场次以上的会议，几乎天天有会。</p>
+<p>　　官方发布的信息显示，京西宾馆从1964年到2004年建馆40年来，先后完成了44次党代会和中央全会、29次全国人代会的保障任务。</p>
+<p>　　高规格</p>
+<p>　　五任最高领导人多次在此召开会议</p>
+<p>　　“政事儿”注意到，改革开放以来，京西宾馆是我国最高规格的会场之一。党和国家领导人多次在京西宾馆开会，京西宾馆经常和这些领导人的名字连在一起。</p>
+<p>　　对中国发展产生深远影响的十一届三中全会，举办地就在京西宾馆。京西宾馆会议科服务员张丽华接受采访时说，领导们的专属杯子号码从1排到44，以红漆写在杯把的下面。</p>
+<p>　　“我记得清清楚楚，邓小平是12号杯，叶剑英是3号杯，李先念是13号杯……虽然我们对号码烂熟于心，但是十一届三中全会召开的前夕，我们十几个服务员还是坐在一块，重新默记了一遍，当时的杯子都是白瓷的，没有花纹，显得朴素大方”，张丽华回忆说，邓小平在开会期间爱喝水，那时候规定两小时的会议期间每20分钟续一次水，细心的张丽华发现，每次给邓小平续水的时候他的杯子都不是满的，“他讲话多，喝水自然要多一些。”</p>
+<p>　　据“政事儿”了解，邓小平等当时与会领导领导用过的水杯，坐过的椅子，也就是说整个会场，现在仍然保留原样，会议室的墙上还悬挂着“自力更生、艰苦奋斗”八个大字。</p>
+<p>　　1989年6月，十三届四中全会在京西宾馆召开，江泽民被选为总书记，正式形成党的第三代中央领导集体。同年11月，在十三届五中全会上，邓小平辞去中共中央军事委员会主席职务。根据邓小平的提议，会议决定江泽民任中共中央军委主席。</p>
+<p>　　《邓小平生平全纪录》记载：十三届五中全会结束3天后，邓小平与新任中央军委主席江泽民一道，来到京西宾馆，看望参加军委扩大会议的同志们，并发表讲话。他说：军委领导更换了人，我认为，确定以江泽民同志为核心的党中央，是全党做出的正确选择，他是合格的军委主席，因为他是合格的党的总书记。</p>
+<p>更多相关消息请看<a href="http://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%8A%AF%E7%A6%81%E5%BF%8C%E5%85%AC%E5%BC%80%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%E4%BA%94%E6%9C%80%E6%96%87%E7%AB%A0%E8%A2%AB/">《法广 | 新京报犯禁忌公开京西宾馆“五最”文章被删》</a>。</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E7%A5%9E%E7%A7%98%E4%BC%9A%E5%9C%BA%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%EF%BC%9A%E4%BB%8E%E6%9C%AA%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%B3%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86/?category=18271" rel="tag">京西宾馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BA%AC%E6%8A%A5/?category=18271" rel="tag">新京报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 7小时前</small>
@@ -590,34 +645,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8A%A8%E5%90%91%EF%BD%9C%E7%89%9F%E4%BC%A0%E7%8F%A9%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%9B%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%A4%A7%E6%97%97/" target="cdt-mirror">动向｜牟传珩：习近平扛不起的共产主义大旗</a>
-</h2>
-<p><p>——太子党的合法性危机恐惧 民间“非共”思潮席卷全国</p>
-<p>正当海内外舆论广泛聚焦，《学习时报》公开习近平在中央党校县委书记研修班学员座谈会上的讲话，首次表态“搞中国特色的社会主义就是为了实现共产主义”这一命题时，近日中共当局高调大谈“共产主义”信仰。为此，共青团中央特别推出了“我们要做共产主义接班人”的口号，却遭到网上民意的激烈反弹。</p>
-<p>北京政协委员、红色太子党任志强说自己被这句口号骗了十几年遭五毛们围攻后，九月二十二日更撰写了长文，详细阐述了“共产主义接班人”表述的荒唐可笑。接着，中共团中央宣传部长赤膊上阵，亲自写文章攻击任志强，招致地方共青团组织一哄而上。而党喉舌《环球时报》则紧跟助阵，进一步挑衅民意，结果激起更大的反对声浪。一时间，来自网络的民间“非共”思潮，席卷全国，已经导致中南海陷入了空前的合法性危机。即使中共鹰派少将罗援也承认，现在的民心向背是：“你不骂共产党、不骂毛泽东，都不好意思上这个网。”</p>
-<p>九月八日，中纪委书记、太子党王岐山在“二○一五中国共产党与世界对话会”上，首次谈到中共合法性问题，并强调其源自历史，是人心向背决定的，是人民的选择。</p>
-<p>王岐山自证“合法性”的悖论</p>
-<p>王岐山如此自证执政合法性，不过是意识形态宣传的一贯逻辑。他从貌似合理的前提出发，暗含貌似合理的逻辑推论，但结果却推出了一个自我指涉的矛盾式，使之陷入了无法解脱的两个自证悖论：</p>
-<p>其一，如果中共暴力夺取政权成功就具有合法性，那么世界上就没有任何不合法的政权产生，人类对政权合法性的追问与证明就失去了现代意义。据此逻辑便可得出，作为前朝国家人格的继承者——国民党政权，曾经也是打败满清统治的胜利者，也可谓是“历史的选择”“人民的选择”，共产主义的暴力推翻，岂不就是非法性的暴乱反叛，本身就不具有正当性？其二、如果王岐山认为国民党取得政权后背叛初衷，搞“一个主义、一个政党、一个领袖”，拒绝还权于民，已丧失合法性，因此中共的“暴力革命”具有正当性，那么今天中共同样拒绝“一人一票”，而且将“一个主义、一个政党、一个领袖”发挥到极致。以王岐山的自证逻辑，岂不是在自己解构自己的合法性，并由此证明了今日中国民众对中共政权还以革命，同样有了政治正当性。其实，王岐山当此之时，强调中共执政“合法性”的隐情，就是中共太子党们已经深陷于执政合法性危机的恐惧。</p>
-<p>中共以往的“共产主义”说教，早已陷入在当今中国是代表无产阶级、还是资产阶级的两难境地。如此自我解构的政治信仰，决定了他们在以市场经济为执政的条件下，不可能成为劳资冲突的中立人或仲裁者，其“三个代表”更是非驴非马，自我否定。由此验证了其共产主义的精神支柱早已瘫塌，其执政合法性更是失之无据了。</p>
-<p>然而，习近平上台初始就逆潮流而动，刻意要挽救颓势，重整共产主义旗鼓。二○一二年十一月十七日，他指出：“坚定理想信念，坚守共产党人精神追求，始终是共产党人安身立命的根本。对马克思主义的信仰，对社会主义和共产主义的信念，是共产党人的政治灵魂，是共产党人经受住任何考验的精神支柱。”二○一三年一月五日，习近平强调：“共产党员特别是党员领导干部要做共产主义远大理想和中国特色社会主义共同理想的坚定信仰者和忠实践行者”，接着又大谈“革命理想高于天”。由此可见，习近平刻意要在中国大陆，将一直萎靡不振的共产主义推向高潮的用心所在。</p>
-<p>共产主义遭唾弃太子党兔死狐悲</p>
-<p>其实，在二十世纪，世界范围内导致了人类有史以来最大规模的以同类为仇恨或消灭对象的暴政：一是希特勒、墨索里尼的国家法西斯主义，它主要以侵略或征服其他民族、称霸或统治世界为野心，以虐待、残害或屠杀同类为对象，在全球范围酿成世界大战，给整个人类造成了无法弥补的生命、财富和精神损失；二是马列共产主义，激化阶级斗争的暴力革命，主要以消灭政治异己，镇压人民反抗为特征，和打击、迫害或消灭有产阶级为对象，在国际共产主义运动中，开辟了另一个红色恐怖的世界，在每个以“苏维埃”为模式的国家中，都无一例外地不仅制造了国内政治对抗，也“输出革命”，酿成对同类的残酷迫害和无情斗争的恶果。</p>
-<p>二○○七年，在深受共产主义灾难的乌克兰首都基辅秘哈伊尔广场，乌克兰总统尤先科公开呼吁国际社会谴责共产极权政权。他表示，“全世界谴责共产主义暴行的时刻就要来了！”尤先科在此次活动上特别强调：在谴责共产极权主义以前，乌克兰必须穿上“洁白的衬衫”，去掉身体里共产极权的烙印。他表示，布尔什维克罪行、斯大林罪行、法西斯罪行，他们都具有一个性质，就是“仇恨人类”。记得美国总统布什在华盛顿出席共产主义受难者纪念碑揭幕仪式时，将共产主义比作恐怖主义，称二十世纪是人类历史上死亡最惨重的世纪。他说，共产主义在这个世纪里夺走一亿人性命，光是在中国就有数千万受难者。</p>
-<p>二十世纪人类的惨痛历史永远铭记：无数中国人，在镇反、反右、文革等历次运动中死于非命；柬埔寨人被刺死于波尔布特的杀戮战场；东德人遭射杀在柏林围墙上；波兰人被屠杀于卡提恩森林；伊索比亚人被屠宰于红色恐怖；摩斯基多印地安人死于尼加拉瓜桑定独裁政权；而古巴人则溺死于投奔自由的海洋上。</p>
-<p>在共产主义阵营土崩瓦解的今天，许多国家都像送瘟神一样，尽一切可能迅速地抛弃共产主义历史，“暴力革命导师”列宁的雕像，也早已被纷纷推翻粉碎，而那些以“阶级斗争”为噱头，残害人民的大大小小刽子手们，也无不遭到正义的审判。由此可见，共产主义大旗在世界范围内早已破落的现实，和所有以“苏维埃”为模式的执政党，都毫无例外地遭到普世价值唾弃的结局。</p>
-<p>日前，中共鹰派少将罗援接受陆媒采访，谈到游历罗马尼亚的体验，感慨共产主义落败时，大有兔死狐悲之感地说，“共产党人连骨灰都难留”。其实他是对那些血债累累，残酷实施了反人类罪所遭到历史报应者的命运的由衷恐惧。作为中共太子党的罗援，发出如此强烈的恐惧，立即引发舆论的广泛热议，被认为这正是在今日中国当权的“少东家”们，集体心声的生动写照。当此之时，曾抨击前苏共倒台竟无一“真男儿”的习近平，又岂能螳臂挡车，扛得起共产主义这面早已破落的大旗？</p>
-<p>《动向》2015年10月号</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8A%A8%E5%90%91%EF%BD%9C%E7%89%9F%E4%BC%A0%E7%8F%A9%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%9B%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%A4%A7%E6%97%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%9F%E4%BC%A0%E7%8F%A9/?category=18271" rel="tag">牟传珩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%8F%B4/?category=18271" rel="tag">罗援</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -629,7 +656,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -639,5 +666,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

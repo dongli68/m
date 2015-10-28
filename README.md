@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BB%95%E5%BD%AA%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E6%A0%AA%E8%BF%9E%E8%B6%8A%E6%BC%94%E8%B6%8A%E7%83%88/" target="cdt-mirror">滕彪：中共政治株连越演越烈</a>
+</h2>
+<p><p>中国维权律师王宇的16岁儿子，被中共当局从缅甸跨国追捕，抓回内蒙，令中共的政治株连再受关注。一人犯罪，家族成员也受牵连、受惩罚的制度，在中国传统的皇权专制体制下长期盛行。令人愤怒的是，中共近年的株连邪风有越演越烈之势。</p>
+<p>秦始皇的《焚书令》中就有“以古非今者族”的规定，“族”就是满门抄斩的族刑。族刑有三族、九族之分，解释不一，具体适用时相当随意。至明初，方孝孺因拒绝为朱棣草拟即位诏书，被灭了十族，株连九族之外，另加弟子门生，罹难者达870多人。族刑连坐制直到清末变法时才被废止。</p>
+<p>但好景不长，中共建政之前就常常采取株连做法，1949年建立远超传统专制的极权主义政权之后，在镇反、反右、土改、文革等历次屠杀和政治运动中，把株连做法发挥到登峰造极的程度，制造了空前的人间惨祸。文革结束之后，阶级斗争思维、蔑视法治人权的一贯手段并未结束，尤其针对被列为政治敌人的民主人士、维权人士，株连亲友甚至未成年亲属的做法，数不胜数，进入21世纪后更越演越烈。</p>
+<p>2005年我与盲人维权人士陈光诚去调查山东临沂暴力计生事件，发现存在极其普遍的株连。费县村民房钟霞因躲避强制流产，她的亲戚被抓了22人，包括三个孩子、一个孕妇和一个70多岁的婆婆。有的乡镇不仅株连亲属，而且株连邻居，甚至实行全村连坐。在全国各地执行计生政策的过程中都普遍使用株连手段。挺身而出揭露计生暴行的陈光诚被构陷入狱，他的妻子袁伟静和孩子被软禁在家多年，与外界彻底隔绝，并多次受到野蛮的殴打。</p>
+<p>著名人权律师高智晟，全家人经常受到软禁、人格侮辱、强制带离、跟踪和骚扰。实施非法监控的秘密警察甚至住到他的家里。有一次，高智晟妻子耿和到市场买菜，国保们跟踪得很近，稍一理论，国保就一巴掌打过来。耿和后来又遭殴打，她的衣服被扯破，牙被打掉一颗，满脸是血。</p>
+<p><strong>以家人作要胁</strong></p>
+<p>2010年狱中的刘晓波获诺贝尔奖之后，摄影家、画家刘霞就一直被中共软禁，与外界隔绝，每周只准在监控下外出一次购买生活必需品，长期的软禁、威胁给刘霞造成了严重的心理创伤。而中共如此虐待刘霞的唯一理由就是刘霞是刘晓波的妻子。即使在国内国际持续的抗议之下，当局至今仍未解除对刘霞的非法软禁。</p>
+<p>著名维权人士胡佳的妻子和女儿也经常受到软禁、跟踪和骚扰。饱受酷刑的湖南民主人士李旺阳离奇死亡后，他的妹妹李旺玲和妹夫赵宝珠至少三次遭到强迫失踪。内蒙古异见人士哈达的妻子新娜和儿子威勒斯多年来一直受到国保的跟踪、监控、拘捕和关押。71岁的资深记者高瑜被指控泄漏九号文件而获刑七年，当局同时逮捕了他的儿子赵萌用以威胁高瑜，在儿子被当作人质的情况下，高瑜被迫违心地认罪悔过，并上央视受辱。</p>
+<p>身在美国的自由亚洲电台维族记者肖赫来提·霍休，其在新疆的家人遭到当局报复，三个兄弟均被关押，三弟已因被控危害国家安全罪被判刑五年。多次获诺奖提名的维族民主人士热比娅，流亡海外后，她的两个儿子被抓。中共曾托人向她警告说，如果她不担任世维会主席，她的儿子会轻判，否则将重判。结果，2006年11月26日热比娅被选为主席，第二天她的一个儿子就被判刑七年。</p>
+<p>中共在西藏同样采取了野蛮的株连手段。2009年至今，境内至少有142名藏人自焚，要求基本自由和人权，要求当局准许达赖喇嘛回家。而很多自焚者的家属被捕、受酷刑、被安以罪名投入监狱。2012年8月7日，27岁的卓嘎措在甘肃合作市合作寺自焚身亡后，当局强迫他的丈夫承认是夫妻纠纷问题，但卓嘎措的丈夫拒绝接受，被当局拘捕。四川阿坝州若尔盖县达扎寺镇妇女贡觉旺姆于2013年3月13号自焚身亡，当局要求她的丈夫卓玛嘉向外公布他妻子是因夫妻不和才选择自焚，被拒绝后，当局立即将卓玛嘉拘捕，后来竟以“故意杀人罪”将其判处死刑。</p>
+<p>未成年人也未能逃脱中共政治株连的魔掌。郭飞雄、陈光诚、高智晟的未成年孩子都曾受到不让入学或者在监控下上学等骚扰。安徽的政治犯张林1989年之后五次入狱，至今仍在狱中。而最近一次入狱，直接原因竟是为女儿争取教育权利。10岁的张安妮2013年2月27日下午放学时被四个不明身份的强壮男子从小学带走，在合肥市琥珀山庄公安派出所单独关押3小时，其间遭警方不人道对待，其后不准她回该学校上课。这引发了众多维权人士前往关注的“小安妮事件”。</p>
+<p>位于香港的中国维权律师关注组2015年10月发布报告《维权律师的子女究竟遭遇了什么？》，列举了一些维权律师的孩子受株连的事件。报告总结说：“就施害手段而言，在人身自由方面，包括绑架、强迫失踪、拘禁、殴打、禁止入学、单独讯问、贴身监控（如押送上学）、禁止与外界通讯、骚扰（如重复传唤）、禁止出境等。在心理和精神打击方面，则包括辱骂、恐吓、威胁、污名化其父母、孤立、当众羞辱、被迫目睹父母被殴打或被警方带走等。”高智晟、李春富、江天勇、余文生等律师的未成年孩子都亲眼目睹父亲被殴打、被辱骂。</p>
+<p><strong>骨肉分离剥夺自由</strong></p>
+<p>著名人权律师王宇之子——年仅16岁的包卓轩，在父亲陪同下准备前往澳洲留学时，在北京首都机场被绑架，其护照被没收、电话被抢走。包卓轩被强行带到天津后，数次遭到国保的暴力殴打。10月初，包卓轩因无法忍受当局持续的监控、恐吓及骚扰，在另外两名维权人士的协助下试图离开中国，被中国当局从缅甸带回内蒙严密禁控。锋锐律师事务所另外两名律师的孩子出国留学的计划同样被破坏：于合金律师的儿子、刘晓原律师的儿子都被拒绝给予护照。目前仍处被失踪的人权律师李和平，其15岁的儿子、5岁的女儿被禁止离境。</p>
+<p>我个人也有类似遭遇。2014年哈佛大学法学院邀请我做访问学者，我准备全家一同前往。但临出发前，太太和女儿从深圳前往香港时被阻拦，无法出境，后来从天津试图离境，再次在机场被阻。问原因，回答是：“你们自己清楚。”数次交涉无果，家人团聚看起来遥遥无期。无奈之下，只能选择冒险偷渡。这事叙述起来很简单，但8个月的骨肉分离、毫无预期的等待、被剥夺自由的羞辱、偷渡的惊险以及给孩子造成的伤害，非亲历者难以体会其中的痛楚。</p>
+<p>中国拿政治犯、良心犯的亲人甚至拿未成年人家属做人质进行要胁，实在下流。它的喉舌们反诬海外势力拿未成年人家属做政治筹码，岂非无耻之尤？</p>
+<p><strong>野蛮极权体制标志</strong></p>
+<p>一般来说，在专制体制下选择成为民主人士或人权捍卫者，应该清楚从事这一事业的风险，并且对此有所准备。和其他多数维权者一样，我经历了被吊销律师证、被停课、被开除、被软禁、被绑架、被酷刑和被关押，每次越挫越勇，即使连续两个多月遭受肉体和精神酷刑，也未崩溃。但当国保拿我的两个年幼的女儿来威胁我的时候，我就面临极大压力，被迫写下悔过书、保证书之类。</p>
+<p>在我的经验里，争取自由的公民们最难以平衡的，就是社会责任和家庭责任的冲突了。很多妥协、屈服、沉默，甚至放弃，是在害怕父母、孩子等家人遭到迫害或者已经遭到迫害之后而不得已做出的选择。中共特务们也自然清楚这一点。当喝茶、软禁、劳教、关押和酷刑都无法让我们屈服、无法让我们停止抗争的时候，为了达到最大的威慑目的，将种种痛苦施加到我们的亲人身上，就成为他们常常采用、熟练运用的手段。至于法律、程序、人性、尊严，统统都不在他们考虑之列。这种政治株连，也是中国至今仍未脱离野蛮的极权体制的标志之一。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BB%95%E5%BD%AA%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E6%A0%AA%E8%BF%9E%E8%B6%8A%E6%BC%94%E8%B6%8A%E7%83%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%AE%E8%BE%B1/?category=18271" rel="tag">侮辱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%93%E5%B1%80/?category=18271" rel="tag">当局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%A0%AA%E8%BF%9E/?category=18271" rel="tag">政治株连</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E7%A6%81/?category=18271" rel="tag">软禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E5%A4%8D%E5%85%B4%E8%B7%AF%E4%B8%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%8D%81%E4%B8%89%E4%BA%94%E7%A5%9E%E6%9B%B2/" target="cdt-mirror">南方都市报 | 复兴路上工作室发布“十三五”神曲</a>
 </h2>
 <p><p>“要了解中国的下一步，你最好关注十三五”，10月27日上午，一个名为“十三五之歌”的短片在网上悄然流传，被誉为“神曲”，甚至有网友表示“一连听了好多遍停不下来”，感叹“十三五”都可以这么唱出来。发布5小时后，该短片在国内主要视频网站上的点击量已破500万。</p>
@@ -641,28 +672,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B9%90%E9%AB%98%E6%8B%92%E7%BB%9D%E8%89%BE%E6%9C%AA%E6%9C%AA-%E7%BD%91%E5%8F%8B%E6%8D%90%E8%B5%A0%E6%9D%A5%E5%B8%AE%E5%BF%99/" target="cdt-mirror">BBC | 乐高拒绝艾未未 网友捐赠来帮忙</a>
-</h2>
-<p><p><strong>中国艺术家艾未未近日通过网络社交媒体公开表示，自己曾要求丹麦塑料积木玩具制造商乐高（Lego）为其艺术作品提供大量积木零件的要求被乐高公司拒绝。乐高公司阐述了拒绝艾未未的原因。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018236541_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018236541_30300.jpg" alt="0,,18236541_303,00" width="550" height="310"></a></p>
-<p>（德国之声中文网）艾未未日前通过其Instagram帐号表示，原本计划用乐高积木为即将在澳大利亚举办的一次展览上制作一个与言论自由有关的作品。但乐高公司以不支持政治作品为由将其拒绝。艾未未认为，这是一种”审查和歧视的行为”。社交媒体上众多艾未未的支持者也对此表示不满，并愿意向艾捐献乐高积木，帮助其完成作品。艾未未回应称，会找到一种方法接受他人的捐赠。</p>
-<p>乐高集团发言人特朗巴克（Roar Rude Trangbæk）向德国之声解释了拒绝艾未未的原因，指出：”乐高尊重每一个人自由创新表达的权利。全球目前有很多人通过乐高积木用各种各样的方式表达他们的想象力和创造力。但这些项目都没有受到过乐高集团的支持……在全球范围内，我们不愿意参与或支持那些有政治色彩的项目。我们的这一原则并不是新制定的。”</p>
-<blockquote lang="en">
-<p dir="ltr" lang="en">.<a href="https://twitter.com/LEGO_Group">@LEGO_Group</a> tried to take <a href="https://twitter.com/aiww">@aiww</a>’s blocks away, now everyone wants to give him theirs. <a href="https://t.co/ekoyMeGBAM">https://t.co/ekoyMeGBAM</a><a href="https://t.co/Z9qfiUzwCm">pic.twitter.com/Z9qfiUzwCm</a></p>
-<p>— Fergus Ryan (@fryan) <a href="https://twitter.com/fryan/status/658167041724055552">October 25, 2015</a></p></blockquote>
-<p><strong>乐高拒绝涉及政治</strong></p>
-<p>乐高集团表示，在收到为某一项目提供捐献或大量供货的要求时，该集团会考量相关项目是否涉及政治内容，如果涉及政治，乐高会”友好的”拒绝提供帮助。</p>
-<p>但这一全球最大塑料积木玩具生产商也指出，每个人当然都可以通过正常的销售渠道、玩具店来购买乐高产品，或用其产品创造他们想创造的东西。但作为一家企业，乐高不愿意参与到相关活动中去，比如说通过大量供货的方式。</p>
-<p>在社交网络媒体上，艾未未的名字和照片已经牢牢的和乐高绑在了一起。众多推特用户在网上公开了许多用乐高积木搭建的、具有政治意义的艺术作品。包括为前美国情报机关工作人员斯诺登或已故南非前总统曼德拉拼搭的个人肖像。也有人公开了用乐高积木搭建的一个竖起中指的手，这一手势被视为艾未未挑战权威的标志性动作之一。也有用户直接上传了向乐高实体专卖店竖起中指的照片。</p>
-<p>面对社交网络上的反应和为艾未未捐献乐高积木的呼吁，乐高集团表示不愿意就此置评，但”尊重每个人自由创新表达的权利”。该集团发言人特朗巴克在接受德国之声的采访中强调，每个人都可以通过正常的渠道购买乐高积木，创造他们可以想象的任何作品。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B9%90%E9%AB%98%E6%8B%92%E7%BB%9D%E8%89%BE%E6%9C%AA%E6%9C%AA-%E7%BD%91%E5%8F%8B%E6%8D%90%E8%B5%A0%E6%9D%A5%E5%B8%AE%E5%BF%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E9%AB%98/?category=18271" rel="tag">乐高</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/?category=18271" rel="tag">社交媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -674,7 +683,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E9%AB%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -684,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E9%AB%98
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

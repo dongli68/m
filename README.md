@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E8%A6%81%E6%8A%8A%E5%92%8B%E5%92%8B%E5%91%BC%E5%91%BC%E7%9A%84%E7%BE%8E%E5%86%9B%E8%88%B0%E7%9C%8B/" target="cdt-mirror">【异闻观止】环球时报：要把咋咋呼呼的美军舰看成“纸老虎”</a>
+</h2>
+<p><p>美国海军“拉森”号导弹驱逐舰27日进入南沙群岛相关岛礁12海里内航行，遭到中方强烈抗议。</p>
+<p>中国外长王毅27日警告美国要在南海三思而后行，别轻举妄动，无事生非。中国沪市A股当天恰好收盘于3434.34点。有人编出段子说，连中国股市都在提醒美国“三思、三思、三思”。</p>
+<p>美国海军拉森号导弹驱逐舰27日被爆进入南沙中国扩建岛礁12海里内，中国两艘军舰跟踪警告，这一消息搅动了整个亚太。世界舆论最严峻的分析认为这是中美在亚太直接对抗的开始，它最终可能升级为两国的全球对抗。不知这样的分析会不会把奥巴马吓住。中国人首先要沉住气，保持充分的镇定和从容，千万不能动怒，被气着，而需理性应对来自美舰的骚扰。如果中国舆论一下子感觉受到羞辱，我们内部充满怨气，相互指责，对外放开嗓子说些兑现不了的硬话，显得进退失据，那么我们就真让日本、菲律宾等看了热闹。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/U9298P27T1D842421F26DT20151028105521.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/U9298P27T1D842421F26DT20151028105521.jpg" alt="美“拉森”舰闯南海" width="400" height="351"></a><p>美“拉森”舰闯南海</p></div>
+<p>第二，要客观分析时局和美舰骚扰的具体情况。美方这次派来一艘军舰，属于兜几圈“亮相”和“示威”性质。它没提中方须“停止建岛”的极端要求，并且表示行动不单独针对中国，表明它不是来摊牌的，没打算与中国发生军事摩擦，这是美方的一次政治秀。它咽下了中国扩建岛礁“这口气”的大部分，日本共同社宣称，美舰是为了确保美国威严的“最后一线”才这样做的，否则的话包括日本在内的同盟国都将产生离心。</p>
+<p>第三，中美之间实际不是国际法之争，而是在就南海的秩序和规则较劲。中国扩建岛礁完全合法，美国很多人也这么说。但华盛顿认为中方扩建岛礁改变了南海地缘政治形势，使中国一下子获得南沙地区的控制优势。它要平衡中国在南海新增的影响力，巩固其海上主导权。</p>
+<p>第四，必须看到，中国实现了岛礁扩建，这是中国实打实的得分，中国今后一段时间的主要精力仍应放在彻底完成这一工作上。因此现在如果要说生气，最该生气的不是中国人，别人谁想生气是他们自找，目前没有任何一方有能力阻止中国继续完善相关设施，美国也没敢这样逼它自己。</p>
+<p>第五，对美国派军舰前来骚扰，中国现阶段的正确做法应当是与其周旋，同时要对最坏情况有所准备。要让美国确信，南海决不是它随便撒野的地方，它对中国军事挑衅所将面临的风险是真实的。美海军如果这样干下去，有可能导致奥巴马执政晚期根本无法承受的事变，中国保卫领土主权和国家尊严的决心要远远大于美国想在南海展现主导权的决心。</p>
+<p>第六，与美周旋就意味着对前来骚扰的军舰进行反骚扰，先跟踪监视，如果美舰不是擦边而过，而是停下来搞进一步的活动，中国必然升级反制措施。世界上其他地方尤其是冷战时期上演过的电子干扰，甚至舰船撞击、火控雷达锁定、军机飞越挑衅舰船等等，我们不希望看到它们在南海一一重现。</p>
+<p>第七，中国人要看到美舰骚扰只是中国崛起路上很平常的挑战，我们要以平常心对待它，充分相信政府和军队的专业性，让它们去全权应对。南沙岛礁扩建就是它们搞起来的，它们也一定有能力和决心保卫好那些岛礁，中国在南海的权益正在恢复的过程中。</p>
+<p>第八，我们要坚信美国没有向中国做战略摊牌的资本。它连伊拉克、阿富汗那点事都摆不平，对俄罗斯只敢瞎嚷嚷，在叙利亚无所事事，拿平壤也没办法。中国没真惹它，但它真的继续是一只“纸老虎”。</p>
+<p>中国没有特别强调岛礁扩建后的“12海里”问题，美方现在总把“12海里”挂在嘴边，它在帮我们树立、强化这个概念。那么好吧，就让我们接了“12海里”的说法，我们没有要13海里或者更多的意思。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E8%A6%81%E6%8A%8A%E5%92%8B%E5%92%8B%E5%91%BC%E5%91%BC%E7%9A%84%E7%BE%8E%E5%86%9B%E8%88%B0%E7%9C%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B2%99%E7%BE%A4%E5%B2%9B/?category=18271" rel="tag">南沙群岛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">地缘政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0/?category=18271" rel="tag">美国军舰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%9C%9F%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">领土主权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BB%95%E5%BD%AA%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E6%A0%AA%E8%BF%9E%E8%B6%8A%E6%BC%94%E8%B6%8A%E7%83%88/" target="cdt-mirror">滕彪：中共政治株连越演越烈</a>
 </h2>
 <p><p>中国维权律师王宇的16岁儿子，被中共当局从缅甸跨国追捕，抓回内蒙，令中共的政治株连再受关注。一人犯罪，家族成员也受牵连、受惩罚的制度，在中国传统的皇权专制体制下长期盛行。令人愤怒的是，中共近年的株连邪风有越演越烈之势。</p>
@@ -635,43 +657,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%8E%A8%E8%BF%9F%E9%80%80%E4%BC%91%E5%B9%B4%E9%BE%84%E4%B8%BA%E4%BD%95%E4%B8%80%E7%89%87%E5%8F%8D/" target="cdt-mirror">美国之音 | 何清涟：中国推迟退休年龄为何一片反对声？</a>
-</h2>
-<p><p>中国的养老金制度改革终于进入“预告期”，“渐进式延迟退休年龄改革”政策最近出台。此方案引发了国内一片反对声。本文将介绍“改革”要点，分析政府为什么要改，民众为什么要反对。</p>
-<p><strong>退休年龄改革方案要点</strong></p>
-<p>10月14日，中国人社部部长尹蔚民在一次会议上宣布，中国“是目前世界上退休年龄最早的国家，平均退休年龄不到55岁，经中央批准后，人社部将向社会公开延迟退休改革方案，通过小步慢走，每年推迟几个月，逐步推迟到合理的退休年龄。”</p>
-<p>改革的原因之一是日渐加重的中国人口老龄化压力。具体数据是：中国现在60岁以上人口为2.1亿，占总人口的比重达15.5%。根据预测，2020年国60岁以上人口将达到19.3%，2050年将达到38.6%，社会抚养系数高，负担重。</p>
-<p>作出此方案调整是基于人口预期寿命延长。目前的退休政策是50年代初期确定的，当时人口的预期寿命不到50岁。60多年过去，人口的预期寿命已达70多岁。而中国的退休政策没改，参加企业职工养老保险的退休人员有8000多万，平均退休年龄不到55岁。</p>
-<p>这一改革方案是依据前两年传说中的“清华方案”，即“国民基础养老金＋个人储蓄养老金”二元制结构，其中明显吸纳了英国经验。近十年以来，英国养老压力异常沉重，很快将进入每个工作的英国人要养活两名退休者的困境。2014年，英国正式公布新方案，预定每年推迟6个月，到2040年达成69岁退休，因此，英国被称为世界上退休年龄最高的国家。英国政府预计，在提高退休年龄后，政府在未来50年里可节省5000亿英镑的开支，约合人民币5万亿元。</p>
-<p><strong>政府“卸包袱”意图非常明显</strong></p>
-<p>几年前，国内多份研究报告指出，中国养老保险面临巨大缺口，难以为继。这个缺口有两部分构成：</p>
-<p>一是养老保险的巨大空账问题。</p>
-<p>所谓“空账”，是指一个账户里名义上有钱，但实际上却只是个无法兑现的空头数字。这些存进去的钱，是被地方政府为了支付即期所需支付的养老金而挪用了。</p>
-<p>早在2012年7月，国内媒体就在《我国养老金空账以25%速度扩大  2015年或现缺口》一文中，引述中国社会科学院世界社保研究中心主任郑秉文的说法：2011年城镇基本养老保险个人账户记账额为2.5万亿左右，而实账部分仅为2703亿元左右，“空账”达到2.25万亿。</p>
-<p>此后几年，空账额继续扩大。2015年5月国内媒体报道《养老金个人账户继承遭遇尴尬：空账额近3万亿》，称真正做实的个人账户额度只有4000多亿，个人账户被用空了近3万亿。</p>
-<p>二是养老保险的缺口巨大。</p>
-<p>缺口的规模究竟有多大，官方版本就有好几个。几年前，中国银行报告称，如果要维持现有的养老金给付水平，除已有的养老金之外，在2013年这个时点，需要另增18.3万亿的养老金，才可以保证未来70年退休金的发放。中国社科院财贸所高培勇等人的一项研究指出，在现有社保制度框架下，要确保2020年中国每个退休者都能领取养老金，以替代率（即领取养老金占该年社会平均工资的比重）52.4%计算，养老金支付缺口都会持续增加。最早在2015年，中国城镇职工养老保险就会出现支付缺口。</p>
-<p>2015年1月，《中国养老金发展报告2014——向名义账户制转型》系列报告中公布了测算结果：一是隐形债务大，以2012年为基准，城镇职工基本养老保险的隐形债务为86.2万亿元，占2012年GDP的比率为166%。二是将出现收支缺口，并很快陷入枯竭。北京大学郑伟等人的测算结果是，养老保险基金将于2037年出现收支缺口，2048年养老保险基金将耗尽枯竭。</p>
-<p>现阶段之所以未出现养老金支付危机，是由于以下三因素：</p>
-<p>一是因个人账户养老金通常只占个人养老金的10%以下；二是因各省借支其他个人账户资金用于支付当前养老金。随着个人账户养老金占个人养老金的比重越来越高，养老金能否支付的问题将会凸显。三是因为中央一直用财政转移支付的办法在支撑。《中国养老金发展报告2011》显示，2010年末基本养老保险基金累计结存1.9497亿元，但从1997年至2000年，各级财政对养老保险累计补贴金额达1.2526万亿元。也就是说，累计结存的数额中，将近三分之二来自于财政转移支付，如果没有中央的财政补贴，多个省市的养老保险已经收不抵支，陷入破产状态。</p>
-<p>说白了，就是现在的退休者尚能领取退休金，对50岁以下者就可能是画饼一张了。</p>
-<p><strong>政府新要求：养老不能只依靠政府</strong></p>
-<p>上述情况下，要想使中国的社保系统持续下去，只能采用以下方法：要么提高在职职工的缴费水平，要么降低退休职工的社保待遇。</p>
-<p>提高职工的缴费水平已没有空间。中国养老保险缴费水平奇高，“五险一金”已占工资总额的40%至50%。也就是说，职工拿到手的工资，还不到工资总额的60%。有人算了一笔帐：月薪1万，职工只能拿到7454.30元，而老板要付出的是14410元。这种情况下，企业觉得负担非常沉重，近年外资不断撤出中国，原因之一就是认为中国的劳务成本远远高过其他国家。据清华大学教授白重恩测算，中国的社保缴费率在全球181个国家中排名第一，约为“金砖四国”其他三国平均水平的2倍，是北欧五国的3倍，是G7国家的2.8倍，是东亚邻国的4.6倍。</p>
-<p>专家们的一致意见是：中国未来的财政和企业要是不想被社保拖垮，社保规模缩水（低缴费低保障）是唯一可选择的改革路径，否则压垮了企业，政府、国民都没指望。今年3月6日，财政部部长楼继伟在记者会上就端出了改革方案，称养老保险将采用三条支柱，社会养老保险+企业年金和职业年金+个人购买的商业健康、商业养老保险。我曾在《<a href="http://www.voachinese.com/content/heqinglian-20150308/2672385.html">两会观察：三笔糊涂帐，“解决”有妙方</a>》中指出，楼部长的讲话很专业，译成大白话就是：以前，中国大多数城镇职工是依靠社会养老保险，今后这块将降低。要想日子过得好，大家还得有企业年金与职业年金，如果没有，那就自个掏钱购买商业保险。政府给你们的帮助就是提供税收优惠。</p>
-<p><strong>民众反对延迟退休年龄的理由</strong></p>
-<p>自从延迟退休金的方案出来之后，反对声一直未断。反对者普遍认为，寄望延迟退休来解决养老金巨大缺口并不现实。</p>
-<p>第一，加重就业压力。中国每年离退休人员至少有600万人左右。如果延迟退休，就会占用至少600万劳动年龄人口的就业岗位，这会使中国的就业形势雪上加霜。中国经济现在处于减速下行阶段，据多家研究机构估算，GDP每下降1个百分点，减少就业机会约100万。中国经济增速已经从10%左右下降到7%以下，意味着每年约减少就业机会300万个。一边是经济增速下滑，一边是延迟退休，等于每年“吞掉”900万人口的就业机会。</p>
-<p>第二，延长退休年龄，一些中年失业者就会长期在贫困中煎熬。近几年，外资企业大规模撤离中国较多，私企大量破产。不少失业者均在40岁以上，很难重新就业。许多50岁到60岁之间的失业者，已经成为无收入者。不少人依靠积蓄度日，希望熬到60岁退休，领取退休金。</p>
-<p>中国官方在介绍这个“渐进式延迟退休年龄改革”方案时，列举了英国、加拿大、澳大利亚、美国等各国的退休年龄。但却有意不提至关重要的一点：英国、加拿大、德国等均有失业保险及各种社会救济，失业者生活并无大碍。美国近年也推出90个月的失业救济，澳大利亚虽然相对吝啬一些，但也并非全无，都不至于陷入绝境，而中国并无这类福利。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%8E%A8%E8%BF%9F%E9%80%80%E4%BC%91%E5%B9%B4%E9%BE%84%E4%B8%BA%E4%BD%95%E4%B8%80%E7%89%87%E5%8F%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81/?category=18271" rel="tag">养老</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81%E9%87%91/?category=18271" rel="tag">养老金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D/?category=18271" rel="tag">就业岗位</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%B6%E8%BF%9F%E9%80%80%E4%BC%91%E9%87%91/?category=18271" rel="tag">延迟退休金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BF%9D/?category=18271" rel="tag">社保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91/?category=18271" rel="tag">退休</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%B9%B4%E9%BE%84/?category=18271" rel="tag">退休年龄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +668,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +678,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

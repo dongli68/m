@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%92%B1%E6%87%92%E5%BE%97%E7%AE%A1%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0/" target="cdt-mirror">【习总日记】 咱懒得管美国军舰</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，29）</p>
+<p>毛主席说过美帝国主义是只纸老虎。是句玩笑。当时毛主席怕中国人民吓死所以说了这句玩笑话。足见毛主席是多么爱人民。没有实力保护人民的时候，善意的欺骗是对人民最好的保护。</p>
+<p>由此可见，中国人民是骗大的。</p>
+<p>27日美国政府不听我方多次劝告，撕开了南海的和平面纱，挑衅意图强硬。好吧，我不可能打你，你也不可能动武把我们人造岛礁摧毁，你不是要自由航行吗，那么，你行使你的自由航行权，我建我的岛礁，咱今后也不再满世界嚷嚷让人看笑话。我认栽，惹不起，躲总可以了吧！</p>
+<p>美国敌对势力处处与我作对，整天瞎嚷嚷人权。我家里的事你管得着吗？中国老百姓才不在乎人权不人权的，几千年来活得好好的，还温良恭俭让，仁义礼智信。大家想想，一个没有人权的民族可能出孔子这样的大哲学家吗？反之，如果没有人权也能出哲学家孔子，出医学家屠呦呦，作家莫言，不就证明没人权也无大碍嘛。一个人权最差的国家，经济世界第二，举办过世博会奥运会，世界各反动国家首脑有空就来朝拜。难道奥运委员会评委都瞎了眼？难道西方民主国家首脑全是白痴？与人权最差国家来来往往的人都是些什么东西？</p>
+<p>美国敌对势力处处与我作对，不但官方每年发表世界人权报告，把我们说得一塌糊涂，他们供养的一个什么国际性非政府组织“自由之家”，也每年搞一次世界国家自由度评估。今年刚发布年度报告把咱伟大社会主义中国评为最差。老实说除了不许骂政府之外，中国老百姓的自由度在世界上即使不能进前三，至少是前十名。随地吐痰乱扔垃圾，插队抢购大声喧哗，等等不胜枚举。</p>
+<p>不许老百姓攻击政府咱是有充分理由的。我党的理由是，骂有啥用？这不是瞎耽误功夫嘛。党要管党，不许老百姓管。党要管政府，不许老百姓管。党要管领导干部，不许老百姓管。党要管老百姓，不许老百姓管。如果可能，党连日月也要管。老百姓一旦不听话，党就把日月藏起来，暗死你们。</p>
+<p>总而言之一句话，在治国理政方面，没老百姓啥事。不许参政议政，不许妄议国事，不许造谣传谣。不听劝，七年徒刑伺候。</p>
+<p>至于美国政府美国军舰和美国总统，党管不着啊！所以，他们想去哪儿就去哪儿吧。我才懒得管他们。听说中国老百姓义愤填膺摩拳擦掌，准备送老婆女儿学习花木兰乘坐洗澡木桶去南海阻击美军的末日孤舰。</p>
+<p>吃饱了撑的。国家的事情用不着你们操心。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%92%B1%E6%87%92%E5%BE%97%E7%AE%A1%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/12%E6%B5%B7%E5%93%A9%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">12海哩主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%89%E6%A3%AE%E5%8F%B7/?category=18271" rel="tag">拉森号</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8F%82%E4%B8%8E-%E8%91%97%E5%90%8D%E6%B0%91%E4%B8%BB%E4%BA%BA%E5%A3%AB%E8%83%A1%E7%9F%B3%E6%A0%B9%E8%A2%AB%E4%BB%A5%E7%85%BD%E9%A2%A0%E7%BD%AA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F/" target="cdt-mirror">参与 | 著名民主人士胡石根被以煽颠罪监视居住</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/hushigen1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/hushigen1.jpg" alt="hushigen1" width="305" height="232"></a><br>
@@ -668,48 +689,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/" target="cdt-mirror">纽约时报 | “膜蛤文化”盛行中国网络 或为影射习近平</a>
-</h2>
-<p><p>多年来，他一直是网民嘲笑的对象。人们取笑他那硕大的长方形眼镜和高腰裤。模仿他笨拙的语言，以及有时在正式场合表现出来的失礼行为。他们说<a href="http://sinosphere.blogs.nytimes.com/2014/07/23/giant-yellow-toad-disappears-online-after-resemblance-to-chinese-leader-noted/" target="_blank" rel="nofollow">他长相像蛤蟆，甚至给他取了一个绰号</a>叫“蛤蛤”。</p>
-<p>但是近几个月，社交媒体转变风向，开始赞扬起89岁的前国家主席和前中共中央总书记江泽民来。在多年遭受嘲弄之后，他现在成为了某种时尚教主，成为了玩笑性质的亚文化“膜蛤文化”的偶像。</p>
-<p>江泽民的追随者称他为“长者”，在微博、问答平台知乎、以及人气消息应用微信上，关于“长者”的内容不断冒出。“蛤丝”们曾经嘲笑江泽民古怪的行为方式和衣着装扮，如今却在热烈讨论他们现在觉得他的哪些地方很可爱。</p>
-<p>就像中国的很多网上笑话一样，人们也在玩文字游戏。一些人在网上发布笑话时，不再用“哈哈”表示笑声，而是使用同音字“蛤蛤”。</p>
-<p>就像中国大多数政治米姆(meme)一样，“膜蛤文化”也富有讽刺感。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/14sino-spider01-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/14sino-spider01-articleLarge.jpg" alt="江泽民曾担任过国家主席、中共总书记和中央军委主席。在多年遭受网友嘲弄之后，现在他却成为亚文化“膜蛤文化”的偶像。" width="550" height="367"></a><p>江泽民曾担任过国家主席、中共总书记和中央军委主席。在多年遭受网友嘲弄之后，现在他却成为亚文化“膜蛤文化”的偶像。</p></div>
-<p>“‘膜蛤文化’不只是崇拜，也是讽刺，”对膜蛤文化感兴趣的中国影评人Magasa说。“但其背后的感情是复杂的。它半真半假，具有讽刺性，但它反映了人们对过去的怀念，对现状的不满。”</p>
-<p>公开谈论“当前形势”正在变得日趋危险——中国人有时用“当前形势”来指习近平时代。有人说，把江泽民的品质正面化是一种隐晦的对比方式，可以解释为对习近平的批判。</p>
-<p>“<a href="http://chinadigitaltimes.net/" target="_blank" rel="nofollow">中国数字时代</a>”总编、加州大学伯克利分校(University of California, Berkeley)兼职教授萧强表示：“习近平在整治网络方面特别强势，发表任何有关他的负面评论都很危险，所以必须采用迂回的批评方式。当‘蛤丝’就是这样一种方式。”</p>
-<p>去年底出现的微信公众号“江选研讨会”宣告了膜蛤文化的诞生。这些文章以学术语言撰写，似乎做过充分的研究，深入讨论了“长者”的爱情故事、“长者”会多少乐器等话题。这名匿名作者还写一些比较严肃的话题，比如，将领导人的教育水平与中国总体文化氛围联系起来。</p>
-<p>这个公众号立即成为热点，很多中国人开始在社交媒体上讨论这些文章。</p>
-<p>“这些文章非常微妙，”萧强说。“表面上很有趣，有很多细节，但作者也对江泽民有很多负面的言辞，以一种非常尊敬他的方式撰写。”</p>
-<p>在相关问题的书面答复中，该公众号的撰稿人表示，写这些文章绝不是嘲笑江泽民。由于这个话题很敏感，这名撰稿人要求匿名。</p>
-<p>这名撰稿人写道，“你甚至可以认为他扭转了部分民间对他的负面印象。”</p>
-<p>“江是一个正常的人，有趣的人，更有人情味，”当被问及江与后来的领导有何不同时，他写道。“尽管有时略显可笑。”虽然这个微信公众号已被审查机构关闭，但膜蛤文化仍然很流行。这种文化更多的是基于江泽民相对国际化的背景和即兴行为，而不是他的政治活动。粉丝们喜欢回忆1996年的那一刻，当时江泽民在马德里的一场正式招待会上，在西班牙国王胡安·卡洛斯(King Juan Carlos)的注视下，拿出梳子梳理头发。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F%E6%B3%BD%E6%B0%91-%E8%9B%A4%E8%9B%A4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B1%9F%E6%B3%BD%E6%B0%91-%E8%9B%A4%E8%9B%A4.jpg" alt="CNN国际的Twitter上写道：“一个巨型充气蟾蜍与前中国国家主席有什么关系？”" width="550" height="527"></a><p>CNN国际的Twitter上写道：“一个巨型充气蟾蜍与前中国国家主席有什么关系？”</p></div>
-<p>一篇题为《亲爱的长者，祝您生日快乐》的文章在微信上广泛传播，一名用户张贴了江泽民2000年访问以色列期间身穿泳裤、头戴护目镜和蓝色泳帽在死海享受漂浮的照片。</p>
-<p>“这个Look与上面的高腰抹胸裤一脉相承，”这名粉丝写道。“看到这些图，我被长者的坦率和自信彻底折服。”</p>
-<p>如今很少在中国领导人身上看到这么自然的一面，尽管习近平通过光临包子铺这样看似临时的举动，以及欢快的音乐视频，在尽力打造<a href="http://cn.nytimes.com/china/20150308/c08xi/" target="_blank" rel="nofollow">平易近人的“习大大”形象</a>。</p>
-<p>“那时候，我们会看到江泽民大声说话，开怀大笑，或拿出自己的梳子，或者说一些英语短语，我们认为这很正常，”影评人Magasa表示。“但没有看到其他中国领导人这么做。只有看到像是木板的胡锦涛和非常严肃的习近平之后，才突然记起江泽民非常有个性。”</p>
-<p>当然，这些怀旧之情几乎不涉及江泽民的政治活动。</p>
-<p>“我个人觉得江并没有比习好很多，”前记者文森特·朱(Vincent Zhu)说，他提到江泽民参与了1989年镇压民主抗议的行动，以及20世纪90年代对法轮功的迫害。</p>
-<p>“但他非常国际化，受过良好教育，而习近平却喜欢告诉人们他读过什么书，”文森特·朱说。“因此，‘膜蛤’是一种反驳习大大、彭麻麻这种廉价宣传的方式（<a href="https://youtu.be/g4x1uU98fG8" target="_blank" rel="nofollow">点击此处观看视频</a>）。”</p>
-<p>随着有关江泽民<a href="http://www.nytimes.com/2011/10/10/world/asia/jiang-zemin-re-emerges-in-china.html" target="_blank" rel="nofollow">健康状况恶化</a>的谣言不时出现，现在“长者”的每次公开亮相都会让他的粉丝兴奋不已。但对于很多人来说，几乎没有比2000年江泽民怒斥香港记者（<a href="https://youtu.be/5GIj2BVJS2A" target="_blank" rel="nofollow">点击此处观看视频</a>）还令人难忘的时刻了，当时面对一名记者咄咄逼人的质问，他的回应中出现了一些如今的蛤丝最爱的用语。</p>
-<p></p><p><a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p>“你们非常熟悉西方这一套的，你们毕竟是too young，”江泽民的言语在普通话、英语和粤语之间来回切换。“你们有一个好，全世界什么地方，你们跑得最快，但是问来问去的问题呀，too simple，sometimes naive。”</p>
-<p>“我见得太多啦，”他还表示。“可以告诉你们一点人生经验。”</p>
-<p>这些话变得非常火，以至于那名记者——张宝华的<a href="http://www.weibo.com/u/1847856024#_loginLayer_1445330161326" target="_blank" rel="nofollow">微博主页</a>成为蛤丝的聚集地。</p>
-<p>在最新的博文中，张宝华称她将开始在香港中文大学教授新闻学。</p>
-<p>最受欢迎的评论是什么呢？</p>
-<p>“第一节课就要传授一些人生的经验。”</p>
-<p>这条评论已经被“赞”了100多次。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E6%A0%B7%E5%9B%BE%E6%A3%AE%E7%A0%B4/?category=18271" rel="tag">图样图森破</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/?category=18271" rel="tag">江选研讨会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/?category=18271" rel="tag">膜蛤文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F/?category=18271" rel="tag">谈笑风生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -721,7 +700,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -731,5 +710,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

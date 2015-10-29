@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%A2%99%E5%9B%BD%E5%88%B6%E9%9C%B8-%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80/" target="cdt-mirror">巴丢草 | 墙国制霸 倒数第一</a>
+</h2>
+<p><p>新闻背景：</p>
+<p>总部设在美国的《自由之家》发表2015年度全球网络自由度报告，中国在65个受调查的国家中位居榜末。</p>
+<p>该报告根据上网障碍、内容限制及侵犯用户权利（最差40分）三个方面，对65个国家进行评分（0分为最佳，100分最差）。结果中国获得了88分，网络自由度最差。</p>
+<p>其中在侵犯用户权利方面，中国获得40分，也就是最差的满分。至于上网障碍方面则获得18分（最差25分），而内容限制方面也获得30分（最差35分）。</p>
+<p>有关报告在提到过去一年有关中国网络自由的重大事件时特别提到，2015年1月，中国当局加强对提供代理伺服器服务公司的堵截；中国互联网信息中心向一些网站发出虚假的网络安全证书，使一些用户容易受到网络攻击；中国政府加强用户实名制以及2014年11月，中国政府推出反恐法草案允许政府可以进入电信公司及网络运营商的后台系统。</p>
+<p>根据《自由之家》的年度评估报告，过去几年来，中国网络自由度一直在逐步下降。2014年，中国网络自由度名列全球倒数第二。</p>
+<p><strong>连续五年下滑</strong></p>
+<p>与此同时，《自由之家》发表的最新年度报告也指出，过去一年，全球网络自由度也连续第5年恶化。</p>
+<p>在65个受调查的国家中，32个国家的网络自由度都出现了不同程度的下滑。</p>
+<p>报告说，越来越多国家的政府审查和过滤网上内容，而且向私营公司施压，要求他们撤下被视为有问题的内容。</p>
+<p>此外，在全球范围内，不少政府也加强了对网络的监控。</p>
+<p>根据这份报告，全球网络自由度最高的6个国家是冰岛（6分）、爱沙尼亚（7）、加拿大（16分）、德国（18分）、澳大利亚（19分）和美国（19分）。</p>
+<p>而除了中国之外，网络自由度较差的国家则包括伊朗（87分）、叙利亚（87分）、埃塞俄比亚（82分）、古巴（82分）、乌兹别克（78分）和越南（76分）。（来源：BBC）</p>
+<p>————————————</p>
+<blockquote>
+<p>@badiucao：恭喜 #墙国 制霸全球网络不自由界！《自由之家》发表2015年度全球网络自由度报告，中国获88分，网络自由度最差，世界倒数第一！#GFW #censorship</p>
+</blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CSfAuorUsAA6lat.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CSfAuorUsAA6lat.jpg" alt="badiucao：倒数第一" width="500" height="694"></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%A2%99%E5%9B%BD%E5%88%B6%E9%9C%B8-%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">网络自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%B9%8B%E5%AE%B6/?category=18271" rel="tag">自由之家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 23分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%BB%93%E6%9D%9F30%E5%A4%9A%E5%B9%B4%E7%9A%84%E4%B8%80%E8%83%8E%E6%94%BF%E7%AD%96/" target="cdt-mirror">BBC | 中国正式宣布结束30多年的一胎政策</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151029110408_china__babies__640x360_afp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151029110408_china__babies__640x360_afp.jpg" alt="中国严厉的计划生育政策被认为导致人口老化的一个因素" width="600" height="337"></a><p>中国严厉的计划生育政策被认为导致人口老化的一个因素</p></div>
+<p><strong>刚刚结束的中共十八届五中全会决定，将全面实施一对夫妇可生育两个孩子政策，并积极开展应对人口老龄化行动。</strong></p>
+<p>中国官方媒体发表的公告非常简短，同时还表示，将坚持计划生育的基本国策，完善人口发展战略，</p>
+<p>伦敦大学亚非学院中国研究中心副主任刘捷玉对BBC中文网表示，中国官方的这一宣布是意料中事。</p>
+<p>但她也认为，一胎政策取消得有点晚了，因为在此之前，中国官方已经开放本身均是独生子女的父母可以生第二胎，但只有5%至10%的人这样做。因此，她质疑现在才全面开放二胎政策，取得的实际成效会有多大。</p>
+<p>刘捷玉还补充说，新的政策主要是针对城市人口，因为近年来农村人口已经实际上不受一胎政策的限制，故此新政策的影响范围也相对有限。</p>
+<p>而美国威斯康星大学研究员、《大国空巢》一书作者易富贤在接受BBC中文网电话采访时表示，有关的宣布是一个伟大的进步，因为这标志着已经实行了30多年的恶政将退出历史舞台。</p>
+<p>但他同时指出，中国政府迈出的步伐还不够，还应该全面废除计划生育政策。</p>
+<p><strong>“十三五”规划</strong></p>
+<p>十八届五中全会还通过了《中共中央关于制定国民经济和社会发展第十三个五年规划的建议》。</p>
+<p>报道说，会议还决定递补中央委员会候补委员刘晓凯、陈志荣、金振吉为中央委员会委员。</p>
+<p>全会审议并通过了中共中央纪律检查委员会关于令计划、周本顺、杨栋梁、朱明国、王敏、陈川平、仇和、杨卫泽、潘逸阳、余远辉严重违纪问题的审查报 告，确认中央政治局之前作出的给予令计划、周本顺、杨栋梁、朱明国、王敏、陈川平、仇和、杨卫泽、潘逸阳、余远辉开除党籍的处分。</p>
+<p>早些时候，《人民日报》在社交媒体上透露了 “十三五”规划的十个任务目标：</p>
+<p>1、保持经济增长，2、转变经济发展方式，3、调整优化产业结构，4、推动创新驱动发展，5、加快农业现代化步伐，6、改 革体制机制，7、推动协调发展，8、加强生态文明建设，9、保障和改善民生，10、推进扶贫开发。其中加强生态文明建设是首度写入五年规划。</p>
+<p>中国通常通过政府制订的五年计划确定经济议程，下一个五年计划从2016年一直持续到2020年，将于明年3月得到中国立法机构全国人民代表大会的正式批准。但在提交全国人大之前，党的领导人必须批准主要事项。</p>
+<p>在近期一系列表态中，中国政府已陆续明确，新五年计划的重点是继续转变增长模式，将经济增长从依赖投资和出口，转向消费主导型增长模式。</p>
+<p>中国的官方统计数据显示，今年第三季度经济增长下滑至6.9%，这是自2009年全球金融危机最严重时期以来的最低点。</p>
+<p>但中国总理李克强随后在五中全会前表示，不会“死守”7%的年度增长目标。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%BB%93%E6%9D%9F30%E5%A4%9A%E5%B9%B4%E7%9A%84%E4%B8%80%E8%83%8E%E6%94%BF%E7%AD%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E%E5%88%B6/?category=18271" rel="tag">一胎制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E%E5%8C%96/?category=18271" rel="tag">一胎化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E5%8D%81%E4%B8%89%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92/?category=18271" rel="tag">第十三个五年规划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F/?category=18271" rel="tag">计生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%B4%BE%E5%98%89%EF%BC%9A%E5%8A%9E%E4%B8%AA%E6%96%87%E5%AD%A6%E5%A5%96%E5%93%84%E8%80%81%E5%A9%86%E5%BC%80%E5%BF%83-%E8%B4%B5%E6%96%87%E5%8C%96%E5%9C%88%E7%9C%9F%E6%98%AF%E5%A5%87%E8%91%A9%E7%99%BE/" target="cdt-mirror">贾嘉：办个文学奖哄老婆开心 贵文化圈真是奇葩百出</a>
 </h2>
 <p><p>最近，因为一个被外国独裁者拒领的孔子独裁奖，啊不对，孔子和平奖的事，引发了各种媒体的起底啊评论啊各种热闹，就连代表主体思想的球报都发了篇文章说，“国家没有义务为它的挫折埋单”，“<strong>这个奖只能看成中国一批有鲜明价值观的人所做的尝试</strong>”。</p>
@@ -709,40 +765,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E6%89%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%A5%BF%E6%96%B9%E9%97%AA%E7%94%B5%EF%BC%9A%E5%BD%93%E5%B1%80%E8%A7%82%E4%B8%8E%E5%A4%A7%E5%B1%80%E8%A7%82/" target="cdt-mirror">西方闪电：当局观与大局观</a>
-</h2>
-<p><p>人们有理由认为无政府主义太极端。比如诺奇克就论证过，无政府状态是无法长期维持的，在一只“看不见的手”推动下，国家必会从自然状态中产生。不过，除却诺奇克所说的“最弱意义的国家”因为尊重每个人的权利而在道德上可以得到证明外，超越这个意义的国家都将面对蒲鲁东的指责。在国家的注视下，人们不得不在蒲鲁东所描述的情状里生活：“被统治就是时刻被注意、被监督、被侦查、被控制、被教化、被灌输道理、被列进名单和被删除、被估计、被评价、被指责、被命令……被统治就是在每一项操作、每一次交易、每一个行动中都被记录、登记、计数、定价、警告、预防、改革、调整和纠正。”</p>
-<p>国家所做这一切似乎有很多目的，但至少有一个目的是人们公认的，那就是对合法权力的行使实施垄断。要实现这一目的，只有两个途径。一是对自然的控制与改造，二是对社会的控制与改造。但直到18世纪，大多数传统国家实施权力垄断的能力还是有限的。它们要么缺乏内在一致的强制力，要么缺乏严密的行政组织，更重要的是，缺乏一种进步的观念作为国家信仰，以及践行这种信仰所必需的知识。自19世纪以来，传统国家大多完成了现代民族国家的转型，蒲鲁东所描绘的境况就真正成为现实。</p>
-<p>当以下三种因素结合在一起时，更可怕的境况也会发生。这三种因素包括：国家对自然和社会管理秩序的雄心、毫无节制的国家权力以及软弱而无抵抗力的市民社会。其中，国家的雄心往往等同于极端现代主义的国家信仰，一种对科学和技术进步的强烈乃至僵化的信念。这种意识形态负责生产欲望，由国家权力提供实现欲望的工具，无能的市民社会则为欲望乌托邦的建设提供资源，三者之间形成了一个完整的产业链。在国家看来，这条欲望产业链要运转良好，就必须对社会进行全面改造。社会所有成员、社会秩序的各个方面都在改造之列，这已成为国家的中心目的之一。伊恩·哈金曾经举例解释过，在国家的视角里，自杀率和谋杀率是如何反映社会状况的。尽管不知道具体的杀人犯和受害者是谁，但是国家可以依据统计数据，像会计帐中的常规收支那样编制杀人案例的“预算”。就这样，个人健康、公共卫生、饮食、技能、教育、儿童培养、住房、娱乐、家庭结构、城市规划、遗传基因……在统计学的帮助下，一个经过重新审视的社会呈现在国家的视野当中，以便进行全面改造。</p>
-<p>伯林早就意识到国家对社会的全面改造注定会失败。他说：“我们有理由害怕那些太着迷于自己的设想，以致不注意改革的具体环境，忽略各种不可测因素的改革者。乌托邦主义、缺乏现实性、判断力差等毛病不在于没有成功地运用自然科学的方法，而是相反过度地运用了它们。”（《现实感》，译林出版社）纳粹德国、前苏联、1970年代的坦桑尼亚均可视为失败的典型。斯科特指出，种族灭绝、大饥荒、社会崩溃等悲剧的发生，无不与此有关。</p>
-<p>当然，与其预言失败不如阻止悲剧的发生。反抗国家对社会的全面控制有三个关键因素，一是个人空间不受国家和权力机构干涉的信念，伯林称之为“消极自由”。卡尔·曼海姆曾指出，个人空间一直以来就是国家觊觎的目标，也是社会改造计划的有效阻碍。二是市场经济总体上的不可预测性。三是民主制度，这是最重要的因素。通过这三个关键因素，社会对国家的反抗才能体现出力量。在我看来，相对于国家视角，这三个关键因素也就是社会视角的三种主要维度。个人空间是否遭受损害，市场经济体系是否存在，民主制度是否健全，是社会成员判断社会与国家之间关系的主要依据。</p>
-<p>令人担心的是，有人故意混淆国家与社会的关系，误导民众。而人们经过长期灌输，也往往看不到国家视角（当局观）与社会视角（大局观）的巨大差异，将二者混为一谈。这已造成类似纳粹德国那样的人类灾难，如果不详加分辨，人们的未来并不乐观。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%A5%BF%E6%96%B9%E9%97%AA%E7%94%B5%EF%BC%9A%E5%BD%93%E5%B1%80%E8%A7%82%E4%B8%8E%E5%A4%A7%E5%B1%80%E8%A7%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E6%89%98%E9%82%A6/?category=18271" rel="tag">乌托邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">合法权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%B1%80%E8%A7%82/?category=18271" rel="tag">大局观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%8A%9B/?category=18271" rel="tag">强制力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">无政府主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E6%9E%81%E8%87%AA%E7%94%B1/?category=18271" rel="tag">消极自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%8A%AF%E7%A6%81%E5%BF%8C%E5%85%AC%E5%BC%80%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%E4%BA%94%E6%9C%80%E6%96%87%E7%AB%A0%E8%A2%AB/" target="cdt-mirror">法广 | 新京报犯禁忌公开京西宾馆“五最”文章被删</a>
-</h2>
-<p><p><strong>中共十八届五中全会正在北京京西宾馆举行，宾馆一带戒备森严，警车和便衣警察不停巡逻，附近街道实施交通管制，地铁出口亦在会议期间临时封锁。新京报的微信公号刊文介绍京西宾馆的文章亦很快被删除。</strong></p>
-<p>新京报微信公号“政事儿”23日刊文，详细列出了京西宾馆的“五最”：最难进、最安全、会议最多、规格最高、最神秘等，文章发布后被大量转发，但很快就被删除。京西宾馆隶属解放军总参谋部，被称为“最安全的宾馆”和中国“会场之冠”。</p>
-<p>另据明报报道，当局在五中全会期间采各种严控措施维稳，有维权人士被软禁和拘留。包括中国民主党成员陈开频被杭州国保以“颠覆国家政权罪”刑事传唤。湖南维权人士张纬姗被长沙警方拘留十天，处罚的理由是“寻衅滋事”。据称张纬姗在五中全会之前发起“相聚北京”运动，该运动的宗旨是通过集体活动唤起社会良知。</p>
-<p>早前有报道指，这个号称中共最安全的开会地点爆出丑闻，宾馆总经理、解放军总参大校刘存水与前中办主任令计划勾结，利用宾馆对政要监控窃听，用于私人目的；直至令倒台阴谋才被揭露。</p>
-<p>据香港传媒报道，26日开始举行的五中全会，议程包括：审议国民经济和社会发展第十三个五年规划（十三五规划）、确认开除令计划等人的党籍及取消他们中央委员资格、通报军队大改革方案、令计划等被踢出中委后，按规定从候补中委递补空缺，依次排序、通过高层人士调动、任免提案，以及通过五中全会决议。</p>
-<p><img alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%8A%AF%E7%A6%81%E5%BF%8C%E5%85%AC%E5%BC%80%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%E4%BA%94%E6%9C%80%E6%96%87%E7%AB%A0%E8%A2%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86/?category=18271" rel="tag">京西宾馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A-%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">十八届五中全会.中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -754,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -764,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

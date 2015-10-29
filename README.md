@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,87 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%B4%BE%E5%98%89%EF%BC%9A%E5%8A%9E%E4%B8%AA%E6%96%87%E5%AD%A6%E5%A5%96%E5%93%84%E8%80%81%E5%A9%86%E5%BC%80%E5%BF%83-%E8%B4%B5%E6%96%87%E5%8C%96%E5%9C%88%E7%9C%9F%E6%98%AF%E5%A5%87%E8%91%A9%E7%99%BE/" target="cdt-mirror">贾嘉：办个文学奖哄老婆开心 贵文化圈真是奇葩百出</a>
+</h2>
+<p><p>最近，因为一个被外国独裁者拒领的孔子独裁奖，啊不对，孔子和平奖的事，引发了各种媒体的起底啊评论啊各种热闹，就连代表主体思想的球报都发了篇文章说，“国家没有义务为它的挫折埋单”，“<strong>这个奖只能看成中国一批有鲜明价值观的人所做的尝试</strong>”。</p>
+<p>贫僧想了很久，怎么才能概括这个“<strong>鲜明价值观</strong>”呢？是以孔庆东老师为代表的妈宝价值观？以赞助那些活动的LOW逼赞助商代表的饭醉价值观？还是以形象气宇肖似先哲马克思的佛教诗人<strong>谯达摩</strong>先生代表的杂交宗教价值观？……</p>
+<p>带着这个问题，贫僧顺手查了一下这个搞“孔子和平奖”的中国国际和平研究中心带头人谯达摩先生的资料，不查不知道，一查，便查出了一段<strong>风流公案</strong>。</p>
+<p>搓澡尼曾经说，一切政治问题最后都是八卦问题。信然。</p>
+<p><strong>【一】</strong></p>
+<p>在八孔子独裁奖风流韵事之前，我们先提一下另两个奖，叫做“<strong>孔子国际艺术奖</strong>”和“<strong>孔子文学奖</strong>”。这三个奖，发起人都是“著名诗人谯达摩先生”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%B0%AF%E8%BE%BE%E6%91%A9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%B0%AF%E8%BE%BE%E6%91%A9.jpg" alt="谯达摩" width="480" height="310"></a></p>
+<p>跟孔子和平奖一样，孔子文艺奖创立之初，也是堂而皇之地挂了“<strong>文化部中国乡土艺术传统文化保护部</strong>”的主办名义。这个“传统文化保护部”挂牌于2010年8月18日。而颁给了连战的首届孔子和平奖，发布日期是2010年12月。<strong>——感觉这个部就是为了这个奖而建的啊有木有！</strong></p>
+<p><em>“活动由文化部中国乡土艺术传统文化保护部主办，当代国学大师文怀沙先生担任首届孔子国际艺术奖名誉主席和孔子文学奖主席；著名诗人谯达摩先生出任孔子国际艺术奖主席；著名思想家、国礼艺术大师刘浩锋先生、著名艺术家蔡印龙先生共同担任执行主席。”</em></p>
+<p>有传说谯达摩先生花<strong>3万块钱</strong>“买”了个传统文化保护部副部长身份，果然好生意。既然在红十字会下面可以挂个郭美美当总经理的红十字商会，那么，在什么文化部下属的“中国乡土艺术协会”下面再挂一个“传统文化保护部”，也是挺合情合理的。这种在官方机构名下挂靠各种不靠谱产业的操作方式，建议各种传销界人士多学习学习。</p>
+<p>不过，在2010年，面对各种媒体质疑，文化部发言人声称，文化部和这个奖完全无关。而在2011年9月27日，中国乡土艺术协会传统文化保护部被撤销。孔子文艺奖只办了一届就似乎没再持续下去，而孔子和平奖，则由谯达摩先生另注册了一家“中国国际和平研究中心”来主办，倒是坚持了下来。</p>
+<p>这其中的原委，在许荻晔2011年11月发表于《东方早报》上的《<strong>孔子和平奖调查：内讧、投机和罗生门</strong>》一文中，可以说八得干干净净，八到了贫僧已经毫无八卦余地，<strong>建议大家去找这篇文章好好读读</strong>，在这里简述几句，只是想让各位了解一下，即使评委会里有着大把的北大教授清华教授资深媒体人和退休老干部，但这个草台班子，在本质上是多么的LOW逼，LOW到了连官方都要一再跟他们划清界限。</p>
+<p><strong>把这样一批人，说成“中国一批有鲜明价值观的人”，真不觉得脸火辣辣疼？</strong></p>
+<p><strong>【二】</strong></p>
+<p>贫僧前几天听过一个段子。</p>
+<p><strong>美军在一个发布会上说：我们在战场了杀死了500个恐怖分子和一个骑自行车的人。</strong></p>
+<p>然后所有的记者都问：那个骑自行车的人是谁？<br><br>
+人类的大脑，对于“反常现象”的反应总是很灵敏。</p>
+<p>在孔子系列之文学奖方面，我搜到了一张特别反常的图：</p>
+<p>候选首届孔子文学奖的有洛夫（台湾）、勒·克莱齐奥（法国）、温皓然、李敖（台湾）、余华、马里奥-巴尔加斯-略萨（秘鲁）、莫言、赫塔·米勒（德国）等八位。</p>
+<p>恩，在这一群恐怖分子里，也有一个骑自行车的人，叫温皓然。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B6.jpg" alt="温皓然" width="550" height="383"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B62.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B62.jpg" alt="温皓然2" width="550" height="390"></a></p>
+<p>温女士何许人也？特别容易查到，她就是活动发起人谯达摩的妻子。</p>
+<p>但是，除了这个头衔之外，她还有着众多足以闪瞎你眼睛的名号：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B63.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B63.jpg" alt="温皓然3" width="600" height="611"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B64.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B64.jpg" alt="温皓然4" width="600" height="431"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B65.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B65.jpg" alt="温皓然5" width="600" height="508"></a></p>
+<p><strong>跟这样的才女比起来，偶尔PS下自己海报的叶璇姑娘真的堪称白莲花。</strong></p>
+<p><strong>看到这本合著的书，真的吓死本宝宝了。作为一个红迷，最愤怒的事情莫过于，尼玛，跟曹雪芹合著《红楼梦》？这是要合在一起领个诺贝尔文学奖的节奏？</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B66.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%B8%A9%E7%9A%93%E7%84%B66.jpg" alt="温皓然6" width="408" height="507"></a></p>
+<p>而且，关于这位女作家的续写，我试着贴一段天雷滚滚的：</p>
+<blockquote><p>凤姐这里看的明白，先是止不住满眼泪花翻滚，忽然想起贾琏来，登时怒气冲天，泥宫丸一声响亮，眼睛里直要喷出血来，不禁仰天悲呼：“老天爷，你为什么不睁眼！你对我王熙凤未免罚的太狠了些！想我自到他贾府门上，日夜兢惕，克谐内助，无一日不殚精滴髓、沥血呕心！谁知到头来竟是枉费心计，一生心血尽付流水,恩爱翻成浮云，只落得两手空拳，一身是罪！到头来，竟不如这么一个乞丐婆子！说什么天理昭彰，冥镜明明，分明天地有私，鬼神不公！老天爷，你既容不得世人机深刚强，又何必生我！”<strong>因捶胸顿足,一连叫了几十声“又何必生我”，恨声未绝，只听半空里一声响亮，轰隆隆一阵霹雳过后，凤姐仆然倒地，渺渺英魂，不知所向。</strong></p></blockquote>
+<p>作者读者，我的脑子也是半空里一声响亮，三魂七魄都没吓没了。</p>
+<p>当然，书好不好，要听专家们怎么说：</p>
+<blockquote><p>【楼主】孔庆东：新世纪的红楼梦续，要求于作者的是，既不违背已有的主流红学研究成果，又能够续出时代意义，续出主体精神。从这个视角来看，温皓然的续作，显然代表了一种崭新的转折，笔者概括为：“立足红学，忠实内心，施展才艺，面向时代”。</p>
+<p>【沙发】文怀沙：倚天照海醉颜红，叶绚三秋傲碧空。赢得丹诚清耿在，贞姿羞列百花丛。</p></blockquote>
+<p>与曹雪芹隔代合写红楼梦的绝世才女、曾经在北大办过作品朗诵会的女作家、后现代古典主义文学流派的奠基人之一、被北大醉侠孔庆东誉为“女文豪”，国学大师<strong>季羡林</strong>为她题过字，国学大师<strong>文怀沙</strong>与她猩猩相惜，诺贝尔文学奖提名作家对她极尽称许，北大一群教授目之为文学女神……</p>
+<p>然后，就是与莫言、余华及一众老外共同侯选孔子文学奖的<strong>中国作家代表</strong>。</p>
+<p><strong>女作家如此多娇，引得老艺术家竞折腰，真是人间奇葩。</strong></p>
+<p>今天，金主们捧女明星，有的是投钱买角色，有的投钱送出国外当<strong>毯星</strong>，有的干脆投资一部电影让小白兔当女主角，这种行径虽说傻X，但架子还算是高大上的。</p>
+<p>办一个国际招牌孔夫子搭台的文学奖，用来把自己的红颜知己捧出国际范儿，这是一种什么精神？</p>
+<p>这，就是即使没钱也要当金主的<strong>包皮公司精神</strong>啊（我又写错什么了吗），当然你要说这是真爱我也没办法。</p>
+<p>【三】<strong><br></strong><br><strong>为什么会有各种LOW逼的活动冠以文化之名而大行其道？</strong></p>
+<p>其中，当然有一些借文化搭台来牟私利的行为，但即使是谋利，表面上的工夫，为什么都这么的寒酸简陋，可见原因绝不止一个。</p>
+<p>记得以前曾经提过，某次办活动，跟地方合作，提到邀请一些嘉宾来讲讲中国文化。当时，合作方提出来的人选，先是余秋雨，后是文怀沙。我想，今天如果再有类似的场景，对方提出的人物，多半会是花芳黛玉一流。曾听人讲过，当某花姓作家为首的文化名人团下乡采风时，花是理所当然的主座，什么专家教授，统统叨陪。</p>
+<p>有时候想想，在曾经的士大夫治国的时代，各级的官员们，即使是贿考买官，肚子里的墨水应该也是喝了一些的，一般来说，可能坏，但不至于傻到替骗子搭台。</p>
+<p><strong>是不是真的读过书，读过多少书，真的不是说出来的，是现实考出来的。</strong></p>
+<p>当下的中国文化圈，圈养出来的生态系统，最后真有可能会反噬到圈养者本身。在国际上丢点人，真的只是小事，而且，想必只是个开始。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96.jpg" alt="孔子和平奖" width="600" height="392"></a></p>
+<p>【四】</p>
+<p>不知道各位读者有没有吃晚饭，假如还没有吃，那么我推荐一段减肥文。</p>
+<p>这段文章出自某记者对谯达摩夫妇的访问，在访问稿中，写到了他们相识的过程——</p>
+<blockquote><p>谯达摩回忆那是在2002年3月，在一次文学作品研讨会上，他读到了一篇《质本洁来还洁去》的文章。作者细腻的笔触、情真意切的叙述、故事凄美的结局使得谯达摩深受感动，潸然泪下。没想到这簌簌流淌的泪水竟然浇开了谯达摩和作者温皓然之间的爱情之花。同年6月，当谯达摩再次来到天津见到温皓然的时候，饭桌上，他给才女温皓然写了一首藏头诗:</p>
+<p>温家才女绝世奇，皓月一轮赛玉雕。<br>
+然而人间多磨难，注定天心护善苗。<br>
+定写千古文章事，是非烦恼皆可抛。<br>
+我今重唱关雎曲，妻子相携过谢桥。</p>
+<p>每句诗的第一个字连起来是“温皓然注定是我妻”。才女温皓然当即破解，一时间又好笑又气怒又无可奈何。许久，她盯着他的眼睛说：“从来没有一个男性敢在我面前如此放肆。”谯达摩连忙窘迫地解释：“我这绝不是存心唐突，只是，第一眼见到你，我就觉得你就是我一直在寻访的那个唯一的灵魂之伴侣。”</p>
+<p>面对他的真诚，才女温皓然沉默了。又过了许久之后，她幽幽地叹着气说：“这么多年来，我一直近乎残酷地苛求自己，除了学习写作，几乎就过着与世隔绝的生活……目的，只是为了有朝一日能等到一个像岳飞一样的英雄，可是怎么也等不来。眼看也老大不小了，现在，不但妈妈急，亲人急，现在，看来就连老天爷也有些着急了。因为刚才我听见他对我说‘岳飞你是等不到了，张飞倒有一个。如果你同意，就去照顾这个黑脸大汉，不同意，那好，干脆进佛门’……”</p>
+<p>谯达摩没等听完，就蹦了起来，他激动地握着才女的纤手，已经不知道该说什么了，眼泪就那样一直在眼眶里打转。</p></blockquote>
+<p><strong>这年头，骗子怎么都去当诗人了？！</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%94%E5%AD%90%E6%96%87%E5%AD%A6%E5%A5%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E5%AD%94%E5%AD%90%E6%96%87%E5%AD%A6%E5%A5%96.jpg" alt="孔子文学奖" width="280" height="617"></a></p>
+<p>在看到这张海报时，贫僧真心是吓了一跳的。</p>
+<p>因为，真的不相信，一个人可以无耻到这种程度。</p>
+<p>对于这种所谓的“新闻”，如果它还有下一届，一个有操守的媒体，至少也该做到<strong>不关注</strong>吧？骂它，都是浪费口水。</p>
+<p>真的，<strong>一个豆腐块、一条链接都不要给了，太低级了。</strong></p>
+<p>——一个洗地和尚的小小建议</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%B4%BE%E5%98%89%EF%BC%9A%E5%8A%9E%E4%B8%AA%E6%96%87%E5%AD%A6%E5%A5%96%E5%93%84%E8%80%81%E5%A9%86%E5%BC%80%E5%BF%83-%E8%B4%B5%E6%96%87%E5%8C%96%E5%9C%88%E7%9C%9F%E6%98%AF%E5%A5%87%E8%91%A9%E7%99%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">孔子和平奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E6%96%87%E5%AD%A6%E5%A5%96/?category=18271" rel="tag">孔子文学奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%9C%88/?category=18271" rel="tag">文化圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E7%9A%93%E7%84%B6/?category=18271" rel="tag">温皓然</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%AF%E8%BE%BE%E6%91%A9/?category=18271" rel="tag">谯达摩</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%92%B1%E6%87%92%E5%BE%97%E7%AE%A1%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0/" target="cdt-mirror">【习总日记】 咱懒得管美国军舰</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，29）</p>
@@ -665,30 +743,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E6%B2%BB%E4%BC%A0%E5%AA%92-%E5%85%AC%E5%AE%89%E9%83%A8%E3%80%81%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%AD%89%E5%9B%9B%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E6%89%93%E5%87%BB%E8%BF%9D/" target="cdt-mirror">法治传媒 | 公安部、广电总局等四部门联合打击违规互联网电视</a>
-</h2>
-<p><p>关于依法严厉打击非法电视网络接收设备违法犯罪活动的通知</p>
-<p>新广电发（2015）229号文</p>
-<p>各省、自治区、直辖市高级人民法院、人民检察院、公安厅（局）、新闻出版广电局、解放军军事法院、军事检察院、新疆维吾尔自治区高级人民法院生产建设兵团分院，新疆生产建设兵团人民检察院、公安局、新闻出版广电局：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9C%80%E9%AB%98%E6%B3%95.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%9C%80%E9%AB%98%E6%B3%95.jpg" alt="最高法" width="669" height="406"></a></p>
-<p>为有效遏制非法电视网络接受设备违法犯罪活动，切实保障国家安全、社会稳定和人民群众的利益，现通知如下：</p>
-<p><strong>一、充分认识当前严厉打击非法电视网络接收设备违法犯罪的重要意义</strong></p>
-<p>生产、销售、安装非法电视网络接收设备违法犯罪活动，特别是利用非法电视网络接收设备实施传播淫秽色情节目、危害国家安全等违法犯罪活动，严重扰乱社会治安秩序，严重危害国家安全。各级公安、检察、审判机关和新闻出版广电行政主管部门要从维护国家安全和社会治安秩序的大局出发，充分认识非法电视网络接收设备违法犯罪活动的严重危害性，增强工作的责任感和紧迫感，加强组织领导，充分发挥职能作用，依法严厉打击非法电视网络接收设备违法犯罪活动，坚决遏制非法电视网络接收设备违法犯罪活动上升、蔓延的势头，确保社会治安秩序良好。</p>
-<p><strong>二、正确把握法律政策界限，依法严厉打击非法电视网络接收设备违法犯罪活动</strong></p>
-<p>各级公安、检察、审判机关和新闻出版广电行政主管部门要高度重视查办非法网络电视接收设备违法犯罪案件，正确把握法律政策界限，严格执行法律法规的有关规定，坚决依法严厉打击非法电视网络接收设备违法犯罪活动。</p>
-<p>非法电视网络接收设备主要包括三类：“电视棒”等网络共享设备；非法互联网电视接收设备，包括但不限于内置含有非法电视、非法广播等非法内容的定向接收软件或硬件模块的机顶盒、电视机、投影仪、显示器；用于收看非法电视、收听非法广播的网络软件、移动互联网客户端软件和互联网影视客户端软件。</p>
-<p>根据刑法和司法解释的规定，违反国家规定，从事生产、销售非法电视网络接收设备（含软件），以及为非法广播电视接收软件提供下载服务，为非法广播电视节目频道接收提供链接服务等营利性活动，扰乱市场秩序，个人非法经营数额在五万元以上或违法所得数额在一万元以上，单位非法经营数额在五十万元以上或违法所得数额在十万元以上，按照非法经营罪追究刑事责任。对于利用生产、销售、安装非法电视网络接收设备传播淫秽色情节目、实施危害国家安全等行为的，根据其行为的性质，依法追究刑事责任。对非法电视网络接收设备犯罪行为，涉及数个罪名的，按照相关原则，择一重罪处罚或数罪并罚。在追究犯罪分子形式责任的同时，还要依法迫缴违法所得，没收其犯罪所用的本人财物。对于实施上诉行为尚不构成犯罪的，由新闻出版广电等相关行政主管部门依法给予行政处罚；构成违法治安管理行为的，依法给予治安管理处罚。</p>
-<p><strong>三、加强协作配合，切实增强打击非法电视网络接收设备违法犯罪活动的工作合力</strong></p>
-<p>各级新闻出版广电部门和公安、检察、审判机关要进一步增强打击非法电视网络接收设备违法犯罪活动的主动性，加快查办工作进度，提供工作效率。各级新闻出版广电部门要加大对非法广播电视网络传播行为的监管力度，发现涉嫌犯罪的，及时移送公安机关，并对公安机关查缴的涉嫌接收非法电视的网络接收设备及时作出认定。公安机关对于涉嫌犯罪的案件，应依法及时立案侦查，深挖彻查涉嫌非法电视网络接收设备犯罪活动的利益链条。侦察机关对于公安机关提请批准逮捕和移送审查起诉的案件，应当依法及时决定是否批准逮捕和提起公诉。审判机关对于检察机关提起公诉的案件，应当依法及时审判，对于在查处过程中发生的抗拒、阻碍国家机关工作人员依法执行职务，构成犯罪的，以妨碍公务罪依法追究刑事责任，构成违法治安管理行为的，依法给予治安管理处罚。各有关部门在开展非法电视网络接收设备打击整治专项行动中，要加强沟通联系，建立有效工作机制，形成打击合力。</p>
-<p>各地各部门接此通知后，应立即部署贯彻执行。执行中遇到的问题，要开展调查研究，提出可行性建议，及时报告上级主管部门。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E6%B2%BB%E4%BC%A0%E5%AA%92-%E5%85%AC%E5%AE%89%E9%83%A8%E3%80%81%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%AD%89%E5%9B%9B%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E6%89%93%E5%87%BB%E8%BF%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86/?category=18271" rel="tag">互联网电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">电视网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">社会秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA/?category=18271" rel="tag">违法犯罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -700,7 +754,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -710,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

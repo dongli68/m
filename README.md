@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%A0%B4%E4%BE%8B%E8%AF%B4%E6%98%8E%E5%8D%81%E4%B8%89%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE-%E6%8A%A2%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%B7%A5%E4%BD%9C/" target="cdt-mirror">苹果日报 | 破例说明十三五规划建议 抢李克强工作 习近平显霸权</a>
+</h2>
+<p><p>【五中全会】<br>
+中共十八大五中全会昨日闭幕，会议再次铁定中共总书记习近平已君临天下，总理李克强靠边站。官方媒体报道，全会听取和讨论了习近平受中央政治局委托作的工作报告，审议通过了《中共中央关于制定国民经济和社会发展第十三个五年规划的建议》，习近平并就《建议》向全会作说明，有关做法明显有别于过去由总理说明《建议》的惯例，为25年来首次。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%884.04.42.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%884.04.42.png" alt="Screen Shot 2015-10-29 at 下午4.04.42" width="397" height="307"></a><br>
+（有传“习李体制”因习近平权力坐大，令李克强有意请辞）</p>
+<p>资料显示，八五计划（1990年至1995年）、九五计划（1996年至2000年）、十五规划（2001年至2005年）、十一五规划（2006年至2010年）、十二五规划（2011年至2015年）等，均由总理（李鹏、朱熔基和温家宝）就有关建议草案或讨论稿作说明。这是因为中共制定「五年（计划）规划」的领导小组组长，一向由国务院总理担任。到五中全会，很自然会由总理负责说明有关未来五年规划的建议。</p>
+<p>领深化改革小组故亲报告</p>
+<p>但自2013年11月十八届三中全会，决定成立中央全面深化改革领导小组，由习近平亲自担任组长以来，李总理的权力，与昔日温家宝、朱熔基相比，相距甚远。</p>
+<p>有分析称，由于习近平身兼中央全面深化改革领导小组的组长，因此在十八届五中全会就十三五规划作报告，理所当然。集党政军于一身的习近平，近年把手伸入国务院，抢了李克强的工作，据悉令李总理十分无瘾。有报道称，十八大以来，外界描绘的「习李体制」似乎并未成形；由于十八大后，中共在党内掀起反腐浪潮，不少人甚至将「习王反腐」代称当时中国的权力格局。</p>
+<p>有接近中南海的消息人士透露，今年初，李克强确有请辞总理之意，但不被接受；这也意味，十八大的政治局常委分工，要到十九大才会变动。李总理会完成本届工作。据悉，身体健康问题亦是李克强有意请辞的原因之一。</p>
+<p>会期四天、昨日闭幕的五中全会，除年内实施二孩政策和令计划等十人被开除党籍，引起外界的关注外，其他公布的重点，还包括普及高中阶段教育和2020年贫困县全面脱贫等。</p>
+<p>盼2020年逾7,000万人脱贫</p>
+<p>全会提出了全面建成小康社会新的目标要求：到2020年国内生产总值和城乡居民人均收入比2010年翻一番。全国现行标准下农村贫困人口实现脱贫，解决区域性整体贫困。</p>
+<p>根据国家统计局今年2月26日发布数据，按照年人均收入2,300元（人民币．下同）的农村扶贫标准计算，去年全国农村贫困人口还有7,017万人，比上年减少1,232万人。</p>
+<p>五中全会公报重点</p>
+<p>1.全面开放二孩政策，积极开展应对人口老龄化行动<br>
+2.全面放开竞争性领域商品和服务价格<br>
+3.划转部分国有资本充实社保基金<br>
+4.普及高中阶段教育<br>
+5.2020年贫困县全面脱贫<br>
+6.开除令计划、周本顺等10人党籍<br>
+7.递补刘晓凯、陈志荣、金振吉为中央委员会委员</p>
+<p>开除党籍名单</p>
+<p>● 全国政协前副主席令计划<br>
+● 北前省委书记周本顺<br>
+● 家安监总局前局长杨栋梁<br>
+● 东省政协前主席朱明国<br>
+● 南前市委书记王敏<br>
+● 原前市委书记陈川平<br>
+● 南前省委副书记仇和<br>
+● 京前市委书记杨卫泽<br>
+● 蒙古自治区政府前副主席潘逸阳<br>
+● 宁前市委书记余远辉</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%A0%B4%E4%BE%8B%E8%AF%B4%E6%98%8E%E5%8D%81%E4%B8%89%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE-%E6%8A%A2%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%B7%A5%E4%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%8D%81%E5%85%AB%E5%A4%A7/?category=18271" rel="tag">中共十八大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E6%96%B0%E6%94%BF/?category=18271" rel="tag">习李新政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">苹果日报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E5%88%B6%E9%80%A0%E4%BD%8E%E4%BB%B7%E6%B8%AF%E6%BE%B3%E6%B8%B8%EF%BC%9F%E8%B5%B7%E5%BA%95%E9%99%86%E6%B8%AF%E9%BB%91%E8%89%B2%E6%97%85%E6%B8%B8/" target="cdt-mirror">端传媒 | 谁在制造低价港澳游？起底陆港黑色旅游产业链</a>
 </h2>
 <p><p>大陆赴港旅行团八成是零团价、甚至负团价，但强迫消费却动辄数十万。苗春起涉嫌被强迫购物，在香港意外死亡，店铺出事三天后，便又挤满了大陆游客。</p>
@@ -777,57 +819,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E7%A5%9E%E7%A7%98%E4%BC%9A%E5%9C%BA%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%EF%BC%9A%E4%BB%8E%E6%9C%AA%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%B3%84/" target="cdt-mirror">新京报 | 中央”神秘会场”京西宾馆：从未发生一起泄密事件</a>
-</h2>
-<p><p>下周一，也就是10月26日，十八届五中全会召开。</p>
-<p>　　“政事儿”注意到，对中国发展产生深远影响的十一届三中全会等此前多次党的中央全会，比如前年的十八届三中全会、去年的十八届四中全会等，举办地一般多在京西宾馆。</p>
-<p>　　作为党和国家重要会议举办地之一，京西宾馆也被视为北京的“政治地标”之一，见证了十一届三中全会等重要历史时刻。</p>
-<p>　　“政事儿”曾参加党代会和全国两会报道，得以多次进入京西宾馆。在“政事儿”看来，京西宾馆有“五宗最”。</p>
-<p>　　最神秘</p>
-<p>　　只有门牌而无招牌</p>
-<p>　　从天安门广场沿着长安街往西走，走到羊坊店和复兴路交界处，看到马路对面的军事博物馆、中央电视台，然后找“羊坊店1号”门牌，也就找到了京西宾馆。</p>
-<p>　　京西宾馆只有门牌而无招牌，全称为“中国人民解放军总参谋部管理保障部京西宾馆管理局”，是正师级单位。</p>
-<p>　　近年来，钓鱼台国宾馆、人民大会堂等党和国家重要会议举办地，都已对外开放，允许公众参观，可京西宾馆仍未对外开放。所以给公众形成的印象就是两个字：“神秘”。</p>
-<p>　　“政事儿”采访全国两会，第一次来到京西宾馆时，也觉得“神秘”。可进入到内部，就觉得熟悉，内部装饰跟人民大会堂相似。</p>
-<p>　　当时，京西宾馆已经建成40年，所以跟首都大酒店等其他两会驻地相比，有些旧，整个宾馆除了住宿的宾馆楼，还有苏式风格的会议楼。会议楼每一层都有不同规格的会议室，长长的过道铺着厚厚的红地毯。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%8812.11.28.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%8812.11.28.png" alt="Screen Shot 2015-10-27 at 下午12.11.28" width="550" height="343"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%8812.11.43.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%8812.11.43.png" alt="Screen Shot 2015-10-27 at 下午12.11.43" width="550" height="286"></a></p>
-<p>　　最难进</p>
-<p>　　身份证、工作证、记者证都不管用</p>
-<p>　　给“政事儿”留下最深印象的是京西宾馆的安保。</p>
-<p>　　全国两会期间，京西宾馆也跟其他驻地相同，大门口有武警站岗，配备了安检设备。记者凭大会采访证，安检后可以进入，想“深入内部”，到代表的房间采访，则要预约。</p>
-<p>　　除了党的中央全会、全国两会，京西宾馆也会举办其他会议。这些会议的安检同样严格。</p>
-<p>　　宾馆大院西门设有岗哨和接待室，哨兵逐一检查入内人员及车辆。宾馆传达室墙上挂有“住馆宾客会客程序和规定”，写明：凭会议组织单位核发的会议通知、请柬、会议证等有效证件才可以进入。所以，如果没有接到会议邀请，那么就会被禁入，身份证、工作证、记者证等等都不管用。</p>
-<p>　　由于京西宾馆安检严格，所以被称为“北京最难进的宾馆”。诗评家吕进曾撰文回忆：“中国文联每年都要在北京召开一次全委会。我担任全委委员的那些年，会议总是在北京的京西宾馆举行。这家宾馆隶属于解放军总参谋部，这可能是安保措施最严格的宾馆，过道铺着红地毯，到处都有解放军战士执勤。来客很麻烦，警卫要先电话征得受访人同意，然后，客人经过层层关口，才得进来”。</p>
-<p>　　最安全</p>
-<p>　　“从未发生一起泄密事件”</p>
-<p>　　由于安保严格，京西宾馆也被称为“最安全”的宾馆，管理与保卫工作与中南海、人民大会堂和钓鱼台国宾馆同等级别。对外披露的信息显示，迄今为止京西宾馆“从未发生一起泄密事件”。</p>
-<p>　　有媒体报道称：2001年，京西宾馆进行了一次大的重装，为各级别的会议所配备的设施更加完善。除了大厅门口的安全检查装置，各会议室还专门配备了一系列保密设施，有的高级别保密会议要求与会人员把手机存放在专门的储柜中，能够屏蔽无线电信号，保证会议内容绝对不会外泄。</p>
-<p>　　2004年京西宾馆建成40周年时，官方发布的资料显示，京西宾馆一直是军事化管理：京西宾馆是我国党政军各部门举行重要会议的场所。宾馆各级领导干部和广大员工时刻保持政治清醒，坚持正确方向，坚决服从命令，以军人的作风、军人的纪律，做好各项重大会议的服务保障工作。</p>
-<p>　　“会场之冠”</p>
-<p>　　每年至少接待200场次以上的会议</p>
-<p>　　除了党的中央全会、全国两会，领导人接见劳模等活动，也会在京西宾馆进行。</p>
-<p>　　前年9月习近平会见第四届全国道德模范及提名奖获得者，去年的中央民族工作会议、群众路线活动总结大会，今年1月习近平接见全军外事工作会议和第十六次武官工作会议代表，都在京西宾馆。</p>
-<p>　　京西宾馆也会举行一些悼念活动。2006年8月7日，解放军总参谋部在京西宾馆礼堂为在黎巴嫩遭以色列空袭身亡的杜照宇烈士举行悼念大会，解放军官兵、烈士家属等千余人参加。</p>
-<p>　　由于会议多、活动多，京西宾馆也是最繁忙的宾馆之一，被称为“会场之冠”。有媒体报道，每年至少接待200场次以上的会议，几乎天天有会。</p>
-<p>　　官方发布的信息显示，京西宾馆从1964年到2004年建馆40年来，先后完成了44次党代会和中央全会、29次全国人代会的保障任务。</p>
-<p>　　高规格</p>
-<p>　　五任最高领导人多次在此召开会议</p>
-<p>　　“政事儿”注意到，改革开放以来，京西宾馆是我国最高规格的会场之一。党和国家领导人多次在京西宾馆开会，京西宾馆经常和这些领导人的名字连在一起。</p>
-<p>　　对中国发展产生深远影响的十一届三中全会，举办地就在京西宾馆。京西宾馆会议科服务员张丽华接受采访时说，领导们的专属杯子号码从1排到44，以红漆写在杯把的下面。</p>
-<p>　　“我记得清清楚楚，邓小平是12号杯，叶剑英是3号杯，李先念是13号杯……虽然我们对号码烂熟于心，但是十一届三中全会召开的前夕，我们十几个服务员还是坐在一块，重新默记了一遍，当时的杯子都是白瓷的，没有花纹，显得朴素大方”，张丽华回忆说，邓小平在开会期间爱喝水，那时候规定两小时的会议期间每20分钟续一次水，细心的张丽华发现，每次给邓小平续水的时候他的杯子都不是满的，“他讲话多，喝水自然要多一些。”</p>
-<p>　　据“政事儿”了解，邓小平等当时与会领导领导用过的水杯，坐过的椅子，也就是说整个会场，现在仍然保留原样，会议室的墙上还悬挂着“自力更生、艰苦奋斗”八个大字。</p>
-<p>　　1989年6月，十三届四中全会在京西宾馆召开，江泽民被选为总书记，正式形成党的第三代中央领导集体。同年11月，在十三届五中全会上，邓小平辞去中共中央军事委员会主席职务。根据邓小平的提议，会议决定江泽民任中共中央军委主席。</p>
-<p>　　《邓小平生平全纪录》记载：十三届五中全会结束3天后，邓小平与新任中央军委主席江泽民一道，来到京西宾馆，看望参加军委扩大会议的同志们，并发表讲话。他说：军委领导更换了人，我认为，确定以江泽民同志为核心的党中央，是全党做出的正确选择，他是合格的军委主席，因为他是合格的党的总书记。</p>
-<p><strong>中国数字时代编辑注：</strong>文章原载《新京报》旗下“政事儿”微信公号，已被删除。本文转载自温州网。更多相关消息请看<a href="http://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF-%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%8A%AF%E7%A6%81%E5%BF%8C%E5%85%AC%E5%BC%80%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%E4%BA%94%E6%9C%80%E6%96%87%E7%AB%A0%E8%A2%AB/">《法广 | 新京报犯禁忌公开京西宾馆“五最”文章被删》</a>。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%AD%E5%A4%AE%E7%A5%9E%E7%A7%98%E4%BC%9A%E5%9C%BA%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86%EF%BC%9A%E4%BB%8E%E6%9C%AA%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%B3%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF%E5%AE%BE%E9%A6%86/?category=18271" rel="tag">京西宾馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E4%BA%8B%E5%84%BF/?category=18271" rel="tag">政事儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BA%AC%E6%8A%A5/?category=18271" rel="tag">新京报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -839,7 +830,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -849,5 +840,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%AC%E8%A5%BF
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

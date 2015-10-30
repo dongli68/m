@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%98%BF%E5%9D%9D%E5%8E%BF%E5%86%8D%E5%8F%91%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8A%97%E8%AE%AE%E4%BA%8B%E4%BB%B6-%E6%AF%94%E5%A6%82%E5%8E%BF%E7%99%BE%E5%90%8D/" target="cdt-mirror">自由亚洲 | 阿坝县再发生示威抗议事件 比如县百名尼姑被驱逐</a>
+</h2>
+<p><p>四川阿坝州阿坝县藏人扎西日前在县城展开示威游行活动，要求当局让达赖喇嘛返回西藏，随即被警方拘捕；而本月中旬被捕的阿坝州若尔盖县唐克镇两名藏人中，一人仍遭拘押，另一人已获释；此外，西藏那曲地区比如县一百名尼姑在上月底被驱逐出寺。</p>
+<p>印度达兰萨拉的格尔登寺境内紧急情况联络小组星期五发布新闻声明指出，阿坝州阿坝县境内星期一再度发生一起藏人上街示威抗议事件。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/b92e132c-5050-4bfe-b555-a2018f004cf9.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/b92e132c-5050-4bfe-b555-a2018f004cf9.jpeg" alt="b92e132c-5050-4bfe-b555-a2018f004cf9" width="550" height="413"></a><br>
+阿坝县在上月7日至10日发生四起示威事件后被军警严控场景。（达兰萨拉格尔登寺早前提供）</p>
+<p>该小组发言人次仁对本台说：“本月26号，阿坝县藏人扎西手举一幅达赖喇嘛尊者的法像，在县城主街高呼‘西藏要自由’、‘让达赖喇嘛尊者返回西藏’等口号展开示威游行活动时，随即被一批驻地公安人员拘捕，目前被关押在阿坝县城里。”</p>
+<p>次仁进一步介绍说，扎西是阿坝县麦尔玛乡第五大队塔扎仓家族的女婿，现年31岁，妻子名叫格贝，两人育有两男两女共四个孩子，其中两个孩子在麦尔玛乡小学就读。</p>
+<p>阿坝县在过去两个半月以来，已有超过十人分别上街展开示威抗议活动，其中大多数为格尔登寺僧人、以及麦尔玛乡及求吉玛乡藏民。</p>
+<p>次仁表示，当地网络自上月至今处于被封锁状态，军警仍部署在县城各主要街道。</p>
+<p>“阿坝县近来因多次发生连串示威抗议事件，当局从封锁网络开始加大对整个县城的控制。从今年9月10号以来，除了政府办公室以外，所有私人网络被屏蔽，现在也是如此。军警如同以往部署在阿坝县各主要街道，监视着藏人的一举一动。”</p>
+<p>此外本台早前报道，四川阿坝州若尔盖县唐克镇嘎尔玛村藏民抗议地方政府非法征地在上月22号遭到军警的打压和拘捕，主要请愿者吉其嘉和普阔仍被关押在红原县法院，其余人先后获释。本月14号，当地63岁的牧民仁青多吉和56岁的牧民米久被唐克镇公安人员强制传唤后，遭到拘押。</p>
+<p>根据最新消息，两名被捕藏人中，一人仍遭拘押，另一人已经获释。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Rinchen-Dorje-and-Mingyul.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Rinchen-Dorje-and-Mingyul.jpg" alt="Rinchen-Dorje-and-Mingyul" width="550" height="393"></a><br>
+本月14日至今仍遭拘押的若尔盖县唐克镇牧民仁青多吉（上图左一）和近日获释的米久（上图左二）。（本台藏语部）</p>
+<p>当地一名消息人士星期四对本台说：“仁青多吉和米久被警方以传唤名义拘捕后，米久在十一天后获得释放返回家中，而仁青多吉至今被拘押在红原县法院。仁青多吉自2007年以来患有严重的胃炎，被捕前一直在家服药。他被捕后，家人试图给他送药和衣食，但狱警不准他们探监，声称东西会转交，但家属担心那些药可能不会到他手中。”</p>
+<p>另据印度达兰萨拉的西藏人权与民主促进中心发布消息指出，西藏那曲地区比如县一百名尼姑在上月底被驱逐出寺。</p>
+<p>该中心研究员次仁杰星期五对本台说：“上月27号，比如县县长桑杰扎西抵达该县白嘎乡苯教派‘甘丹卡曲林尼姑寺’进行为期三天的清理整顿工作，从该寺200多名尼姑中强行驱逐了100人，不准她们在外穿尼姑服，也不准到其他地区学佛，并警告说若有违反，将予以严惩。而当局对其余被允许留在寺院的100多名尼姑又实施种种限制，只准其中49名尼姑‘合法’参加寺院的佛事活动，不准其余51名尼姑接受正规的佛学教育，只能在寺院所属的商店和旅店任服务员。当局还对住寺尼姑规定年满五十岁以上者不准继续留在寺院，必须要住进养老院。”</p>
+<p>次仁杰还透露，中共当局最近在比如县羊秀乡下令拆毁当地藏人世世代代生活的传统住屋，包括私人院子，并抢夺他们的农田。</p>
+<p>他说：“羊秀乡藏民的房子被下令强拆后，当局要求他们按照政府规定的建房面积标准重新盖房，但费用必须由各自承担。地方藏民认为，当局此举是以扩建发展之名，企图迁移大量的汉人在当地定居。”</p>
+<p>（特约记者：丹珍  责编:寇天力）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%98%BF%E5%9D%9D%E5%8E%BF%E5%86%8D%E5%8F%91%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8A%97%E8%AE%AE%E4%BA%8B%E4%BB%B6-%E6%AF%94%E5%A6%82%E5%8E%BF%E7%99%BE%E5%90%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA/?category=18271" rel="tag">藏人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">藏人示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">西藏问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%9D%9D/?category=18271" rel="tag">阿坝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%8E%8B%E5%81%A5%E6%9E%97%E9%81%93%E7%A0%B4%E5%A4%A9%E6%9C%BA%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F%E4%B8%87%E8%BE%BE%E6%8C%81%E8%82%A1/" target="cdt-mirror">美国之音 | 王健林道破天机：习近平家族万达持股真相</a>
 </h2>
 <p><p>作者：方冰</p>
@@ -231,7 +260,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/?category=18271" rel="tag">秦川大地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BD%90%E6%A1%A5%E6%A1%A5/?category=18271" rel="tag">齐桥桥</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E8%82%B2%E5%84%BF%E5%8E%8B%E5%8A%9B%E4%B8%8D%E5%87%8F-%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E9%9A%BE%E5%A5%8F%E6%95%88/" target="cdt-mirror">网易另一面 | 育儿压力不减 放开二孩难奏效</a>
 </h2>
@@ -819,28 +848,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E8%A6%81%E6%8A%8A%E5%92%8B%E5%92%8B%E5%91%BC%E5%91%BC%E7%9A%84%E7%BE%8E%E5%86%9B%E8%88%B0%E7%9C%8B/" target="cdt-mirror">【异闻观止】环球时报：要把咋咋呼呼的美军舰看成“纸老虎”</a>
-</h2>
-<p><p>美国海军“拉森”号导弹驱逐舰27日进入南沙群岛相关岛礁12海里内航行，遭到中方强烈抗议。</p>
-<p>中国外长王毅27日警告美国要在南海三思而后行，别轻举妄动，无事生非。中国沪市A股当天恰好收盘于3434.34点。有人编出段子说，连中国股市都在提醒美国“三思、三思、三思”。</p>
-<p>美国海军拉森号导弹驱逐舰27日被爆进入南沙中国扩建岛礁12海里内，中国两艘军舰跟踪警告，这一消息搅动了整个亚太。世界舆论最严峻的分析认为这是中美在亚太直接对抗的开始，它最终可能升级为两国的全球对抗。不知这样的分析会不会把奥巴马吓住。中国人首先要沉住气，保持充分的镇定和从容，千万不能动怒，被气着，而需理性应对来自美舰的骚扰。如果中国舆论一下子感觉受到羞辱，我们内部充满怨气，相互指责，对外放开嗓子说些兑现不了的硬话，显得进退失据，那么我们就真让日本、菲律宾等看了热闹。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/U9298P27T1D842421F26DT20151028105521.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/U9298P27T1D842421F26DT20151028105521.jpg" alt="美“拉森”舰闯南海" width="400" height="351"></a><p>美“拉森”舰闯南海</p></div>
-<p>第二，要客观分析时局和美舰骚扰的具体情况。美方这次派来一艘军舰，属于兜几圈“亮相”和“示威”性质。它没提中方须“停止建岛”的极端要求，并且表示行动不单独针对中国，表明它不是来摊牌的，没打算与中国发生军事摩擦，这是美方的一次政治秀。它咽下了中国扩建岛礁“这口气”的大部分，日本共同社宣称，美舰是为了确保美国威严的“最后一线”才这样做的，否则的话包括日本在内的同盟国都将产生离心。</p>
-<p>第三，中美之间实际不是国际法之争，而是在就南海的秩序和规则较劲。中国扩建岛礁完全合法，美国很多人也这么说。但华盛顿认为中方扩建岛礁改变了南海地缘政治形势，使中国一下子获得南沙地区的控制优势。它要平衡中国在南海新增的影响力，巩固其海上主导权。</p>
-<p>第四，必须看到，中国实现了岛礁扩建，这是中国实打实的得分，中国今后一段时间的主要精力仍应放在彻底完成这一工作上。因此现在如果要说生气，最该生气的不是中国人，别人谁想生气是他们自找，目前没有任何一方有能力阻止中国继续完善相关设施，美国也没敢这样逼它自己。</p>
-<p>第五，对美国派军舰前来骚扰，中国现阶段的正确做法应当是与其周旋，同时要对最坏情况有所准备。要让美国确信，南海决不是它随便撒野的地方，它对中国军事挑衅所将面临的风险是真实的。美海军如果这样干下去，有可能导致奥巴马执政晚期根本无法承受的事变，中国保卫领土主权和国家尊严的决心要远远大于美国想在南海展现主导权的决心。</p>
-<p>第六，与美周旋就意味着对前来骚扰的军舰进行反骚扰，先跟踪监视，如果美舰不是擦边而过，而是停下来搞进一步的活动，中国必然升级反制措施。世界上其他地方尤其是冷战时期上演过的电子干扰，甚至舰船撞击、火控雷达锁定、军机飞越挑衅舰船等等，我们不希望看到它们在南海一一重现。</p>
-<p>第七，中国人要看到美舰骚扰只是中国崛起路上很平常的挑战，我们要以平常心对待它，充分相信政府和军队的专业性，让它们去全权应对。南沙岛礁扩建就是它们搞起来的，它们也一定有能力和决心保卫好那些岛礁，中国在南海的权益正在恢复的过程中。</p>
-<p>第八，我们要坚信美国没有向中国做战略摊牌的资本。它连伊拉克、阿富汗那点事都摆不平，对俄罗斯只敢瞎嚷嚷，在叙利亚无所事事，拿平壤也没办法。中国没真惹它，但它真的继续是一只“纸老虎”。</p>
-<p>中国没有特别强调岛礁扩建后的“12海里”问题，美方现在总把“12海里”挂在嘴边，它在帮我们树立、强化这个概念。那么好吧，就让我们接了“12海里”的说法，我们没有要13海里或者更多的意思。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E8%A6%81%E6%8A%8A%E5%92%8B%E5%92%8B%E5%91%BC%E5%91%BC%E7%9A%84%E7%BE%8E%E5%86%9B%E8%88%B0%E7%9C%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B2%99%E7%BE%A4%E5%B2%9B/?category=18271" rel="tag">南沙群岛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">地缘政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0/?category=18271" rel="tag">美国军舰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%9C%9F%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">领土主权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -852,7 +859,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B2%99
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -862,5 +869,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B2%99
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,69 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%8E%8B%E5%81%A5%E6%9E%97%E3%80%81%E9%BD%90%E6%A1%A5%E6%A1%A5%E5%92%8C%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/" target="cdt-mirror">【立此存照】王健林、齐桥桥和秦川大地</a>
+</h2>
+<p><p>美国东部时间10月29日，王健林在哈佛公开回应股权争议，称在<strong>上市前两个月</strong>，齐桥桥和邓家贵夫妇以低价把所持有万达商业股票全部转让。上市时，邓氏夫妇已不是万达商业的股东。万达商业在香港上市挂牌的时间为 <strong>2014年12月</strong>。</p>
+<p>财新网的<a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E7%8E%8B%E5%81%A5%E6%9E%97%E5%9B%9E%E5%BA%94%E4%B8%87%E8%BE%BE%E8%82%A1%E6%9D%83%E4%BA%89%E8%AE%AE/">这篇报道</a>在发表数小时后即遭河蟹，同时消失的还包括各大门户网站的转载。</p>
+<p>对于王健林的回应，《纽约时报》记者傅才德（Mike Forsythe）并不认同：<br>
+‏</p>
+<blockquote><p><a href="https://twitter.com/PekingMike/status/659950680828805120">@PekingMike</a>: Wang Jianlin：XJP sister sold stake in Wanda pre-IPO. Liaoning AIC screenshot taken just now begs to differ. 秦川大地。<br>
+（习近平姐姐在万达IPO前卖掉了股份。辽宁工商系统的截屏可不是这么显示的。秦川大地。）</p></blockquote>
+<p>《纽约时报》的<a href="http://cn.nytimes.com/china/20150428/c28wang/">这篇报道</a>曾使习近平的姐姐齐桥桥一夜之间成为热点话题。《纽时》在<a href="http://cn.nytimes.com/china/20140618/c18assets/">另一篇报道</a>中称，<strong>北京秦川大地投资有限公司</strong>由齐桥桥创办于习近平2007年升任政治局常委后不久。2014年10月8日，秦川的所有权从齐桥桥手中转移到了长期业务伙伴徐再胜的名下。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E5%BE%90%E5%86%8D%E8%83%9C.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E5%BE%90%E5%86%8D%E8%83%9C.png" alt="秦川大地徐再胜" width="585" height="75"></a><br>
+（徐再胜，从0%到100%的飞越）</p>
+<p>也许是注意到了工商系统页面中的这句话：</p>
+<blockquote><p>股东的出资信息截止2014年1月1日，2014年1月1日之后工商只公示股东基本信息，其他出资信息由企业自主公示。</p></blockquote>
+<p>傅才德随后发表了一则更正信息：</p>
+<blockquote><p><a href="https://twitter.com/PekingMike/status/659952908138471424">@PekingMike</a>: Correction on that last tweet. This only shows Qinchuan was shareholder as of Jan. 1 2014. So possible sold pre IPO<br>
+（更正上一条推。这［截屏］只能证明截止至2014年1月1日，秦川仍是股东。所以在IPO前卖掉是可能的。）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B01.png" alt="秦川大地1" width="560" height="377"></a><br>
+（<a href="http://gsxt.lngs.gov.cn/saicpub/">辽宁企业信用信息公示系统</a>页面截图）</p>
+<p>但这其实是误读。</p>
+<p>根据2014年10月1日起施行的《<a href="http://baike.baidu.com/view/14383561.htm">企业信息公示暂行条例</a>》，属于自行公示信息的企业股东及出资信息，在发生变动后20日内需要在公示系统进行填报并公示。工商行政管理部门则会对信息更新情况进行抽查。</p>
+<p>“其他出资信息由企业自主公示”的意思是，股东出资信息由企业登入“全国企业信用信息公示系统”网站操作页面中进行自主更新，即更新的责任在于企业。</p>
+<p><strong>这意味着根据工商部门的信息，秦川目前仍为万达商业的股东之一。只是其拥有者，至少从表面看来，的确在万达于香港上市前两个月，从齐桥桥变成了原先没有任何股份的徐再胜。</strong></p>
+<p><em><strong>附：</strong></em></p>
+<p>2014年1月22日的更正信息显示，秦川大地投资有限公司出资3千万：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B02.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B02.png" alt="秦川大地2" width="560" height="415"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%8E%8B%E5%81%A5%E6%9E%97%E3%80%81%E9%BD%90%E6%A1%A5%E6%A1%A5%E5%92%8C%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/?category=18271" rel="tag">秦川大地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BD%90%E6%A1%A5%E6%A1%A5/?category=18271" rel="tag">齐桥桥</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E8%82%B2%E5%84%BF%E5%8E%8B%E5%8A%9B%E4%B8%8D%E5%87%8F-%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E9%9A%BE%E5%A5%8F%E6%95%88/" target="cdt-mirror">网易另一面 | 育儿压力不减 放开二孩难奏效</a>
+</h2>
+<p><p><b>导语：</b>中国决定全面放开二孩，但却没有配套的福利政策，让人直呼生不起二孩。津贴、减税、育儿设施……拥有这些政策，可能难掩颓势，但有总比没有来得强一些。</p>
+<p><b>六十秒读懂专题：</b>实施两年的单独二孩已充分证明，在中国，许多符合条件的夫妇，迫于经济压力并没有生二孩的打算。发达国家为了解决育儿成本高企的问题，斥重金打造了家庭福利政策，经合组织成员平均投入了本国GDP的2.55%。卓有成效的法国，采用自由的带薪产假、丰厚生育津贴、健全保育所等系列配套政策来缓解生育压力，鼓励生育。除了经济因素，发达国家开始思考社会文化对夫妇带来的另外的生育压力。</p>
+<p><b>1.迫于经济压力，没有多少中国夫妇愿意生二孩：中国夫妇每年平均在孩子上的花费达2.25</b><b>万元，占城市家庭人均可支配收入的四分之三</b></p>
+<p>2013年底，中国开始实行“单独二孩”政策，卫计委称有1100万对夫妇符合政策条件。但截止2015年8月，中国只有70万对夫妇提出再生育申请，申请率只有6%。即使放松生育管制，也没有多少对夫妇愿意生二孩。</p>
+<p>很大一部分原因是许多夫妇承受不起——2013年11月，新浪微博的一项5000人调查中，52%的投票者选择了“经济压力”作为不要二孩的理由。《经济学人》援引瑞士信贷2013年的一份报告显示，在中国，一对夫妇每年平均要在孩子身上花费2.25万元(3600美元)，直到孩子年满18岁——这比平均每个城市家庭人均可支配收入的四分之三还要多。2015年中国政府的一项报告还发现，从一个孩子出生到他5岁，城市家庭要比农村家庭多掏一倍的育儿资金，这还没考虑上高企的房价。</p>
+<p><b>2.为减轻育儿成本，低生育发达国家斥重金打造家庭福利政策：经合组织成员国平均投入GDP</b><b>的2.55%</b><b>到家庭福利，法国和北欧国家的大手笔换来了生育率的回弹</b></p>
+<p>为了减轻育儿成本，进而鼓励生育，政府的激励已经成为发达国家普遍做法：联合国估计，2013年有三分之二发达国家拥有鼓励生育的政策，在1996年只有三分之一。根据经合组织(OECD)2014年的数据，2011年，OECD的33个成员国平均将本国GDP的2.55%投入到家庭福利政策上，这些政策大体上包括现金补贴、基础服务、减税。</p>
+<p>法国将GDP的3.8%用于有利于家庭的政策上，生育率已回弹至2.0，高于OECD平均水平，并且接近人口置换率2.1（就是每个妇女至少生2.1个孩子，才能维持人口增长）。北欧国家表现也十分抢眼，它们花在家庭福利政策上的钱，都占GDP的3.0%以上，如今挪威、瑞典、芬兰、丹麦生育率达到了1.9，而冰岛的生育率也已经恢复到了2.1。芬兰为刚生育的夫妇准备了“新生儿入门装备”，包括床垫、被子、婴儿床、尿布、防雪装、帽子、手套、袜子、图画书、幼儿玩具甚至还有指甲剪、梳子等物品。</p>
+<p><b>3.法国利用家庭福利政策减轻育儿压力，从而鼓励生育：自由的带薪产假、源源不断的丰厚生育津贴、健全的儿童保育所</b></p>
+<p>法国家庭福利政策的首要目标就是致力于减轻“生一个孩子对家庭生活水平的影响”。政策包括但不限于：(1)产假：孕妇一共有16周产假，至少有2周可以在生育前使用，剩下的14周生育前后都可使用，休产假的政府员工拿100%工资，私企员工视公司情况而定，上限是每月3,129欧元。父亲可以有11天的陪产假，休假期间工资照拿。如果一对夫妇为各自的雇主工作超过一年，那么他们都有权请假在家带小孩，直到小孩3岁。</p>
+<p>(2)津贴：一对夫妇只要生下二孩，就自动获得家庭津贴，一直拿到该孩子20岁。如果只生一个，法国政府也有援助，在孩子出生后，这对夫妇可能陆续会收到：一份一次性付清的保费(923.08欧元)、一份为期三年每月支付的抚养和教育孩子的津贴(184.62欧元)、一份孩子6-18岁教育津贴(6-10岁拿360.47欧元，11-14岁拿380.36欧元，15-18岁拿393.54欧元)。25岁以上的夫妇还可以根据家庭收入情况申请住房津贴、托儿津贴(每月572.81欧元)。</p>
+<p>(3)儿童保育：2005年后，法国的儿童保育政策更加重视家庭的多样化需求，托儿服务正显著增加。法国48%的3岁以下儿童接受过正规的托儿服务，平均每周托儿时间达到了31小时。法国对儿童保育和早教服务的支出占GDP的1.1%，高于经合组织平均0.7%的水平。2008-2012年的资金来自全国家庭补助基金(33%)、市政(31%)、地方当局(7%)、私企(9%)。2013年6月，法国决定要在未来5年内投资新增275,000个为3岁以下儿童服务的托儿所。</p>
+<p><b>4.日本试图模仿法法国，发现减轻育儿压力不止靠福利发钱，可能还得改变对女性不利的职场环境</b></p>
+<p>可惜，不是所有花过大钱的国家都减轻了育儿压力，看到了生育率的回暖。德国在家庭福利政策上每年投入2650亿美元，但大多打了水漂，专家预测按照现在的态势，到2060年德国将再减少19%的人口，只剩6600万。2009年，日本政府调查发现在日本养育一个孩子，头5年需要花去73,000美元，是美国的2.5倍之多。日本试图模仿法国斥巨资“买子”，却依然为低生育率而焦头烂额。</p>
+<p>研究人员发现，缓解育儿压力不止是要靠政府发福利，因为经济的激励有时候难以抵消社会因素的影响。在过去的几十年里，日本妇女的劳动率飙升，但对许多日本妇女来说，育儿往往意味着失去工作（甚至职业生涯的结束），这一现象也在东亚国家普遍存在，耶鲁大学Frances McCall Rosenbluth说，如果在工作和孩子之间选择，更多的日本妇女宁愿选择工作。此外，日本妇女要承担更为繁重的家务，2012年《彭博社》报道，比起其他发达国家，日本的男性极少花时间陪伴孩子，也只有1.9%的日本男性休了陪产假。日本政府内阁，希望到2020年能把这一数字提高到13%。</p>
+<p><b>5.中国即使配上福利政策缓解育儿压力，想要扭转颓势并不容易：山西翼城模式早已证明，放开二胎，生育率不升反降</b></p>
+<p>不过，即使中国最终像发达国家一样配上家庭福利政策，减少了育儿压力，想要扭转生育率颓势并不乐观——毕竟育儿压力只是不生育的理由之一。广为人知的山西翼城“试点二胎”模式，在1982-2000年两次人口普查期间，人口总量增长仅20.7%，低于25.5%的中国人口增长，也低于28.4%的山西省人口增长。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E8%82%B2%E5%84%BF%E5%8E%8B%E5%8A%9B%E4%B8%8D%E5%87%8F-%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E9%9A%BE%E5%A5%8F%E6%95%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E9%9B%B6%E5%90%8E/?category=18271" rel="tag">九零后</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">全面开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E9%9B%B6%E5%90%8E/?category=18271" rel="tag">八零后</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%A5%B3%E6%AF%94%E4%BE%8B/?category=18271" rel="tag">男女比例</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%A0%B4%E4%BE%8B%E8%AF%B4%E6%98%8E%E5%8D%81%E4%B8%89%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE-%E6%8A%A2%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%B7%A5%E4%BD%9C/" target="cdt-mirror">苹果日报 | 破例说明十三五规划建议 抢李克强工作 习近平显霸权</a>
 </h2>
 <p><p>【五中全会】<br>
@@ -744,81 +804,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%8B%A5%E6%97%A0%E6%B3%95%E5%9C%A8%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%82%83%E6%B8%85%E5%BC%82%E5%B7%B1-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E6%88%90/" target="cdt-mirror">东网 | 若无法在五中全会“肃清异己” 习近平将成“跛脚鸭”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/k9ddddd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/k9ddddd.jpg" alt="k9ddddd" width="550" height="394"></a></p>
-<p>作者：郭大眼 东网独立评论员</p>
-<p>一连四天的中共第十八届五中全会本月廿六日在北京揭幕，本届中央委员、中央候补委员以及党内特邀代表等约四百人云集京西宾馆，审议和制定国家的第十三个五年计划（2016年至2020年）。</p>
-<p>首先，前三季经济数据表明，中国经济正面临巨大的下行风险，在所谓的经济发展「新常态」之下，总书记习近平能否完成他上任之后高调提出的实现中共1921年建党后第一个「一百年」的「中国梦」，也就是在2020年，令中国的国内生产总值（GDP）及城乡居民人均收入在2010年的基础上翻一番，以确保中国在2020年全面建成小康社会呢？</p>
-<p>回顾过去，国家在「十一五（2006年至2010年）」实现了约百分之十一点二的平均经济增长，「十二五（2011年至2015年）」的平均经济增长达百分之七点五。如果中国要到2020年前达到小康社会的目标，则必须在「十三五」的五年内实现平均经济增长百分之六点五。以目前国内的经济形势看，今年尚且很可能「破七」，明年「十三五」开局之年能否保住「六点五」的增长已存疑，接下来的四年，若没有经济发展的突破或统计不掺水分的话，要平均达到「六点五」实在十分艰难。</p>
-<p>由于中共建党二百年时，相信当今世上的人绝大部分已死光，世人根本无法客观肯定或否定习近平提出的这个远景承诺，唯一一个可以见证的指标就是中共能否如其承诺在2020年全面建成小康社会。如果眼前这个诺言办不到，习近平及其领导的中央政府的诚信可能受到质疑，其提出的「中国梦」更有幻灭之忧。从这个角度看，「十三五」规划提出怎样的经济增长目标？如何实现？实在是举足轻重。</p>
-<p>五中全会除了部署「十三五」经济规划外，另一重点是在全国范围内废除二胎限制，在人口政策及老年保障方面推出重大的改革措施，外界将拭目以待。在经济规划和人口政策两大重点外，这次五中全会会否出现军队人事变动和架构改革，有的话怎么个改动法，将是这次全会的另一个焦点所在。</p>
-<p>近日盛传，父亲张宗逊与习近平父亲习仲勋在西北军旅生涯中出生入死的总装备部部长张又侠或总政治部主任张阳有望更上层楼，在全会上获增补为中央军委的第三名副主席。前国家主席刘少奇的儿子、总后勤部政委刘源亦有机会在全会上获晋升为准副国级的军委委员。当然，反贪不遗余力的刘源进不进军委？是否如外界揣测般以军纪委书记的身份进入军委？目前尚未可知，但要是此番不能更进一步的话，刘源明年将届正大军区级退休的六十五之龄。 </p>
-<p>此外，盛传五中全会将在军队架构方面有重大改革，目前的沈阳、兰州、北京、济南、南京、广州及成都等七大军区将改组成东北、西北、东南及西南等四大战区，同时陆军总参、总政、总后及总装等四总部或仿效美国的参谋长联席会议的架构重组。这是军队数十年来所未有过的「伤筋动骨」的变动，牵涉军中数以十万计中高级军官的重大利益，其阻力可想而知。</p>
-<p>如果习近平成功克服重重困难，藉军队重大「改革」全面清除上两届军委的两名副主席郭伯雄和徐才厚大肆卖官所留下来的「瘀血」，再将自己的心腹安插在军中要枢位置上，则可让军队为实现自己的政治抱负保驾护航 。 </p>
-<p>相反，若无法在五中全会「肃清」军队高级将领中的「异己」时，习近平很可能无法让自己的亲信在2017年举行的中共十九大的中央委员会改组中获得多数，剩下的五年他将成为「跛脚鸭」，党内中高层干部或对他阳奉阴违，他将无法全面施展自己的治国方略。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%B8%9C%E7%BD%91-%E8%8B%A5%E6%97%A0%E6%B3%95%E5%9C%A8%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%82%83%E6%B8%85%E5%BC%82%E5%B7%B1-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E6%88%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%A4%A7%E7%9C%BC/?category=18271" rel="tag">郭大眼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8C%97%E5%A4%A7%E9%A9%AC%E4%BC%9A-%E5%8C%97%E5%A4%A7%E6%A0%A1%E5%86%85%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E8%AE%A8%E8%96%AA-%E5%90%8C%E5%AD%A6%EF%BC%8C%E4%BD%A0%E6%80%8E/" target="cdt-mirror">北大马会 | 北大校内建筑工人讨薪——同学，你怎么看？</a>
-</h2>
-<p><p>又遇到一次建筑工人讨薪事件，废话不说，直接上图。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%881.45.17.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%881.45.17.png" alt="Screen Shot 2015-10-27 at 下午1.45.17" width="550" height="412"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%881.45.26.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%881.45.26.png" alt="Screen Shot 2015-10-27 at 下午1.45.26" width="550" height="308"></a></p>
-<p>最近，建筑工人讨薪事件在校园内频发，就这一问题的讨论上一次引爆了bbs，雄踞十大榜首，这一次，撕逼撕到了知乎。客观上讲，很多同学确实对建筑业的运作形式和建筑工人的现状不太了解，需要一些“科普“（这也是写这篇文章的初衷）。然而，一些满满的“你们还是too young too simple”即视感的科普帖，摆出一副“比你们不知道高到哪里去了”的姿态，打着科普的旗号灌输着赤裸裸的诛心之论，着实让小编感到心里“万（草泥）马奔腾”。</p>
-<p>——“小编,你这么支持工人讨薪,会不会给人一种感觉你是水军啊圣母婊啊？”</p>
-<p>——“没有，都是按照劳动法，劳动合同法，和最高法的司法解释来的啊！”“你问我支持不支持，我说支持。我肯定支持，干活拿钱，天经地义的事，我怎么能不支持呢！”</p>
-<p>我支持建筑业工人讨薪，理由一会儿说，下面先开始打脸。<br>
-　　网上一些反对讨薪这事的帖子，归纳一下，大致有这么几种：　　<br>
-　　１、“你们这些学生啊，ｎａｉｖｅ，不懂建筑业咋回事，这个钱啊，它是要完工之后一级一级地走流程的，不是人家赖钱不给，是这些刁民自己急着回家，所以闹事。”　　<br>
-　　《劳动法》第五十条（镇楼） 工资应当以货币形式按月支付给劳动者本人。不得克扣或者无故拖欠劳动者的工资。<br>
-　　还是要吐槽，你们开发方和施工方之间的财务流程与工人何干！好比程序员，合着程序不上线之前，老板就可以理直气壮地不给工钱？！<br>
-　　2、“欠钱是包工头的事！要钱找包工头要去！这群刁民，在北大园子里闹，就是看着北大好欺负，分明是道德绑架北大！”<br>
-　　我了个娘亲诶，人家住在北大院里，干活也在北大院里，包括施工方的负责人（一般是项目部）也在院子里，人家在这里举个牌子要工钱难道不是合情合理？<br>
-　　不过这一条迷惑性还是非常大的，很多同学出于对母校的爱护，对这种观点往往分辨不清。到底是谁在绑架北大？工人们讨薪的矛头很明显地指向了施工方，有谁跟北大讨一分钱了？倒是这类论调，强行把工人讨薪行为说成是向北大要钱，有意无意地，使得最应该被问责的施工方住总集团逃脱了舆论的枪口，这不是拖北大下水是啥？<br>
-3、“这事跟北大没关系！我们北大不负责！我们北大人不负责！让北大掏钱休想！”<br>
-一一这种论调往往跟第二种混杂在一起。兄弟啊，要北大尽点责任、请北大同学帮帮忙跟让北！ 大！ 掏！ 钱！不是一回事啊亲Orz。再者，你觉得和你没关系你可以不管，也没人逼你管，但是你没理由不许别人管啊……<br>
-　　这些东西归根结底有意无意地在做这样一件事：打着保护北大、捍卫母校的旗号，强行构建了一个北大跟讨薪工人间的对立，以此把大家引导到工人的对立面上，实质上，是把舆论的视线从最本质的问题 建筑业工人被拖欠工资 这一严重的社会问题上引开，客观上，保护了这一问题的始作俑者和受益者——施工方，使它逃脱了问责，也实际上使舆论没有发挥应该有的作用，根本就无益于事情的解决。<br>
-　　而我们北大的同学也应该警醒，不要出于对母校的热爱被人利用，反而一粉顶十黑。建筑业工人被欠薪是当下中国一个谁也无法否认的极其严重的社会问题（总理出面讨薪都没用啊 亲）。我们北大学子，当类似问题发生时，不去讨论为什么会发生这样的问题，不去想想如何解决这样的问题，反而纠结于这事是不是对北大有什么负面影响。（为了保卫北大名声，所以要压制工人合理诉求？额，这个逻辑好熟悉啊…… “为了社会和谐，XXXXXXX被和谐了”）<br>
-　　这不是自黑是啥……？！<br>
-　　再者，这事真的对北大有影响么？（额，如果有类似”北大军训低头族”之类的文章那是自然灾害，不可抗力，某易就是有态度，你想咋地）。换句话说，压制了工人的讨薪，受益的是北大么？ 上述那些叫喊着保卫北大的论调，到底保护的是谁？<br>
-　　到这，想必大家都冷静下来了，下面我们谈点严肃的问题。</p>
-<p>一一Q：北大新住宿楼的施工过程期间，校园内频现建筑工人讨薪事件，反映了一个什么问题？<br>
-一一A：这是一个样本，是当今中国建筑业和建筑工人现状的一个缩影，反映了当今中国建筑业工资拖欠问题频发的客观事实。<br>
-　　然而现实是什么？<br>
-　　现实是建筑工人极低的劳动合同签订比例，现实是欠薪、工伤频发，现实是十多年来国家和政府出台的关于解决农民工工资拖欠的法律法规政策文件达到200多个，却无法遏制这一问题的频发，相反，是中央被一次次打脸。</p>
-<p>1、2003年，国务院办公厅下发《关于切实解决建设领域拖欠工程款问题的通知》，明确要求各级政府应当在三年内完成清欠建设领域拖欠工程款的任务，并杜绝新的拖欠出现。<br>
-2、2011年，任国务院农民工工作联席会议办公室主任、人力资源和社会保障部副部长的杨志明于再次做出承诺——“三年内基本解决农民工工资拖欠问题”。<br>
-3、2014年秋，中央政府第三次作出承诺，国务院在印发的《关于进一步做好为农民工服务工作的意见》中要求“到2020年做到农民工工资基本无拖欠”（三年又三年，三年又三年，十年了啊老大）毫不夸张地说，法律沦为了一纸空文。</p>
-<p>建筑业欠薪的根源是什么？为什么在我们今天的文明社会、法治社会，一部又一部旨在解决建筑业欠薪问题的法律并没有什么卵用？这是为什么？别急，下面小编要兑现前面许下的“科普”的承诺了。中国的建筑业，到底是个神马情况？<br>
-　　看图</p>
-<p>中国目前的建筑业体制可概括为劳动分包体制。开发商位于整个分包体制的最上端,但它基本不参与实际工作，而主要负责搞定土地、设计和手续。至于建筑工程的具体实施,开发商会通过招标等形式发包给建筑公司。建筑公司在承接具体的建设项目后,只会部分参与管理工作,具体的生产任务往往在肢解后进一步分包给其他建筑公司, 后者再分包给专门的劳务公司或者单独的包工队。最后,层层分包后,直接面对工人的包工头就是建设项目的直接管理者。他们不但负责工人的招募,而且在日常生产中全面负责具体生产计划的制定、工作任务的分派、劳动过程的监督等等。除此之外,劳动过程终结后,他们还要全面或部分地负责工资的结算。<br>
-　　通常的看法认为,“包工头”的存在是建筑业农民工权益受损的主要原因。似乎只要在法律上和程序上加强对包工头的监管,建筑业拖欠民工工资一类的侵权问题就可以彻底得到解决。诚然,“黑心”包工头是存在的,包工头恶意拖欠和卷款潜逃的事件也时有发生,但这并不是造成建筑工人普遍被拖欠工资的主要原因。实际上,包工头本人也经常被建筑公司拖欠工程款。建筑工人能不能顺利拿到工资,关键并不在于包工头会不会克扣工资,而在于他是否有能力垫付工资。（发生在北大的上上次讨薪，就是包工头和工人一起向施工方要工资）<br>
-　　事实上,一个建筑项目启动与实施的过程,就是一个通过垫付工程款而逐级卷入资本的过程。包工头一层的工资拖欠问题是从开发商开始,一级一级转嫁下来的。下面小编贴一个节选自《大工地》一书的例子（《大工地：城市建筑工人的生存图景》 潘毅 卢晖临 张慧鹏 著）来向大家展示一下，这是怎样一个过程。<br>
-　　</p>
-<p>　　从书面的合约形式看,开发商与建筑公司,建筑公司与分包商之间都存在正式的契约关系,明确约定了双方的权利和义务。建筑公司与分包商之间通常会签订正规的承包合同,并在合同中明确规定,工程款的支付根据施工单位的工程进展,按一定的比例分期拨付。以M开发公司与L建筑公司签订的合同为例,地基部分建造完成后, M开发公司需要向L建筑公司支付地基部分工程款的 75%。然后,主体架构建设完成后, M开发公司需支付主体架构工程款的 65%。最后,粗装修完成后, M开发公司再支付相应部分一定比例的资金。但在实际的施工过程中, 直至L建筑公司垫资完成地下室的建设后, M开发公司才拨付一定比例的工程款,施工期间不足的费用则由施工单位垫资。通常, L建筑公司会在每月的25号向开发商汇报工作进度,然后,M开发公司内部经过半个月到二十多天的运作后,将垫付资金还给L建筑公司。事实上,这样的垫资偿付速度还算是比较快的,L 建设的项目经理根据以往的经验 说,“M 开发公司的资金比较雄厚,一般都能及时付款。”而在别的建设工程中,垫付资金往往数年都无法追回。<br>
-　　建筑公司和劳务公司之间也存在正式的契约关系。劳务公司就是我 们通常意义上的“二包”。与开发商给“大包”拨付工程款的方式类似, “大包”与“二包”在合同中约定的付款方式也是依照工程进度按一定的比例支付。但实际运作中,“大包”通常按季度给“二包”拨款,施工费用的不足部分则由“二包”自己垫付。这时,“大包”就将垫付资金的压力转移到了二包身上。作为“二包”往往需要预先垫付某些材料部分的工程款以及工人的生活费。<br>
-　　劳务公司与包工头之间一般也签订书面的合同。劳务公司等到工程结束才与包工头结清工程合同款,这样包工头就需要垫付工人日常的生活费,甚至当劳务公司拖欠工程款时,包工头不得不垫付最后的工资。<br>
-　　就是这样,经过层层垫付后,建筑工地上就形成了一条长长的债务链。从开发商开始欠债,债务逐级下移,最终相当一部分落在直接跟建筑工打交道的一个个小包工头身上。而当包工头也无力垫付或者不愿垫付工人工资的时候,工资拖欠的问题就浮出水面了。<br>
-　　一大圈绕下来，不知道大家看懂了没，这样一种体制使得生产本身成为了一个融资过程，借助层层垫付,原始资本在无形之中就卷入了更多的资本,而无需承担高额融资的成本，而这个链条的末端，就是工人的劳动，地产资本正是靠着吮吸工人的活劳动来增值的，工人和老板，谁养活了谁，这里，不言自明。工人讨薪，就是在拿回本来属于自己的东西。<br>
-　　也许你会问，那为什么不走法律程序呢？举牌子神马的终究毕竟算不上正规途径啊。这个问题，具体来说，是维权成本太高、维权周期太长，加上其中种种的利益输送和不法行为，工人很难通过法律途径维权，有些时候，官司打赢了，都拿不到钱。（工人也想走法律途径啊，谁也不愿意举牌子啊，举牌子有风险啊，校园里还好，保安比较温和。更多的是警察抓，黑社会打，警察和黑社会又抓又打，这些年讨薪出人命的例子还少么？）<br>
-　　从根源上来说，是劳资地位的极度不平等，这是今天中国社会的现状，只是在建筑行业里表现得最为直接和残酷，比起拿不到工钱，缺乏必要的劳动防护使得工伤频发、致伤致死的现象更加的残酷和血淋淋（还记的清华附中脚手架坍塌那件事么？）法律从来不是社会力量对比的原因，而是结果。资方压倒性的优势使得一些有利于劳动者的法律在实践过程中困难重重。要想从根源上解决欠薪等劳资问题，就要从根本上改变劳资地位不平等的现状。劳动者自身的联合和集体的反抗，是改变这一现状的唯一出路。这也是我支持建筑业工人讨薪的根本原因，在我看来，这是一种对现行不合理制度的最直接的反抗，这是劳动者未来的唯一出路，“从来就没有什么救世主，也没有神仙皇帝，要创造人类的幸福，全靠我们自己。”<br>
-　　是的，正如那句话所说：“哪里有压迫，哪里就有反抗。”压迫是对人们生存和发展权利的侵蚀，反抗则是要重新夺回这部分权利，所谓“革命有理，造反无罪”。然而，从某种程度上说，最可怕的也许不是反抗，真正可怕的是那些正在被压迫和暂时未被压迫的人逐渐放弃了反抗的斗志和勇气，可怕的是在石头与鸡蛋的对峙中，部分鸡蛋选择了站在石头那边。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%881.48.21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-27-at-%E4%B8%8B%E5%8D%881.48.21.png" alt="Screen Shot 2015-10-27 at 下午1.48.21" width="153" height="201"></a><br>
-（北大马会微信公号）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8C%97%E5%A4%A7%E9%A9%AC%E4%BC%9A-%E5%8C%97%E5%A4%A7%E6%A0%A1%E5%86%85%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E8%AE%A8%E8%96%AA-%E5%90%8C%E5%AD%A6%EF%BC%8C%E4%BD%A0%E6%80%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">劳工维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7/?category=18271" rel="tag">北大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">北大马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E6%9D%83%E5%88%A9/?category=18271" rel="tag">工人权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">讨薪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -830,7 +815,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -840,5 +825,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

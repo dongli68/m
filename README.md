@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%9170%E5%90%8E%E7%9A%84%E7%97%9B%EF%BC%9A%E4%BD%A0%E7%A1%AC%E6%97%B6%E6%94%BF%E7%AD%96%E6%AF%94%E4%BD%A0%E7%A1%AC%EF%BC%8C%E6%94%BF%E7%AD%96%E8%BD%AF/" target="cdt-mirror">【河蟹档案】70后的痛：你硬时政策比你硬，政策软时你还软</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%AE%89%E6%99%AE%E8%8B%A5-%E5%A4%96%E5%8F%B7%E5%AE%89%E6%A0%A1%E9%95%BF">安普若-外号安校长</a>：上半年为国接盘，股亏；下半年为国生娃，肾亏。70后的痛：你在硬时，政策比你硬；政策软时，你比政策软……<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%BB%93%E6%9D%9F30%E5%A4%9A%E5%B9%B4%E7%9A%84%E4%B8%80%E8%83%8E%E6%94%BF%E7%AD%96/">BBC | 中国正式宣布结束30多年的一胎政策</a>》</em><br><a href="https://freeweibo.com/weibo/3903400258896235" target="/weibo/390">2015年10月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%A2%E7%BB%8F%E5%A5%B3%E4%BD%9C%E5%AE%B601">财经女作家01</a>：外媒报道称，谷俊山腐败金额多达280多亿，徐才厚、郭伯雄涉及腐败金额都在百亿以上。环球社评却称：军队腐败的漏洞虽然出了，但解放军的内部制度仍不失全国最严。可是如果连全国最严的制度个人都可以贪上百亿，其它制度就可想而知了。<em>相关阅读｜《<a href="http://opinion.huanqiu.com/editorial/2014-11/5214144.html">环球社评：出了徐谷等大老虎，如何看解放军</a>》</em><br><a href="https://freeweibo.com/weibo/3901792058294907" target="/weibo/390">2015年10月25日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【困难】总书记曾经说要容纳尖锐的批评意见，现在却又说不许妄议，我们无法辨别这两者之间的界限，唯一的选项只能是：啥也别说。<em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%85%B1%E6%9C%80%E4%B8%A5%E5%85%9A%E7%BA%AA%E5%85%AC%E5%B8%83%EF%BC%9A%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE%E5%8F%AF%E5%BC%80%E9%99%A4/">【网络民议】中共最严党纪公布：妄议中央可开除党籍</a>》</em><br><a href="https://freeweibo.com/weibo/3901259154792919" target="/weibo/390">2015年10月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%88%E6%98%8E%E9%A3%8E%E8%BD%BB">月明风轻</a>：政府为什么要全面放开二孩政策？<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%AE%8B%E7%9F%B3%E7%94%B7%EF%BC%9A%E6%97%A0%E9%A1%BB%E4%B8%BA%E4%BA%8C%E8%83%8E%E5%BC%80%E6%94%BE%E6%AC%A2%E5%91%BC/">宋石男：无须为二胎开放欢呼</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E8%82%B2%E5%84%BF%E5%8E%8B%E5%8A%9B%E4%B8%8D%E5%87%8F-%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E9%9A%BE%E5%A5%8F%E6%95%88/">网易另一面 | 育儿压力不减 放开二孩难奏效</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44423.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44423.jpg" alt="444" width="481" height="529"></a><br><a href="https://freeweibo.com/weibo/3903399319380242" target="/weibo/390">2015年10月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%A7%91%E7%BD%97%E5%BB%96%E5%A4%AB">科罗廖夫</a>：【妄议国政，速速拿下】大家表给领导添麻烦了好吧。<em>相关阅读｜《<a href="http://www.dw.com/zh/%E5%AF%BB%E6%B1%82%E8%A7%A3%E5%86%B3%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE-%E4%B8%AD%E7%BE%8E%E6%B5%B7%E5%86%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%BF%9B%E8%A1%8C%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AE%AE/a-18809557">德国之声<em>｜</em>寻求解决南海争议 中美海军领导人进行视频会议</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44421.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44421.jpg" alt="444" width="385" height="550"></a><br><a href="https://freeweibo.com/weibo/3903283518963265" target="/weibo/390">2015年10月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%A2%81%E8%A3%95%E6%9D%A5%E5%BE%8B%E5%B8%88">袁裕来律师</a>：大爷：很抱歉，你的爱国行为，不符合国家标准。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44422.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44422.jpg" alt="444" width="450" height="306"></a><br><a href="https://freeweibo.com/weibo/3903294269032130" target="/weibo/390">2015年10月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E4%BD%B3%E4%BD%B3Audrey">李佳佳Audrey</a>：学习了。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44418.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44418.jpg" alt="444" width="601" height="155"></a><br><a href="https://freeweibo.com/weibo/3901260035976823" target="/weibo/390">2015年10月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E5%AE%89">黄安</a>：台湾自由时报头版头条：“脸妆失控浮白粉，彭麻麻变厉鬼！”把习近平演讲说成“集体打瞌睡”。 <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%AE%BF%E8%8B%B1%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5%E7%85%A7-%E9%81%AD%E5%BE%AE%E5%8D%9A%E6%B2%B3%E8%9F%B9/">立场新闻 | 彭丽媛访英化妆失败照 遭微博河蟹</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44417.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44417.jpg" alt="444" width="508" height="381"></a><br><a href="https://freeweibo.com/weibo/3901388251307674" target="/weibo/390">2015年10月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E5%A4%96%E4%B9%94%E6%9C%A8">北外乔木</a>：BBC的女记者问习一个很有意思的问题：为什么你认为英国民众应该高兴与这样的一个国家加强贸易往来？它不民主、不透明、对人权的态度令人深深不安。习总书记摘下耳机，回答的也挺有意思：1、中国重视人权；2、没有一个国家的人权是完美的；3、中国愿意和英国加强人权对话。//*<a href="https://freeweibo.com/weibo/%40%E8%89%BE%E7%BE%A4%E7%AD%96%E5%BE%AE%E5%8D%9A">艾群策微博</a>：抓我司股东一赵岩记者，再抓蒲志强、王宇、张凯律师一一我司法律顾问，人权…  <em>相关阅读｜</em>《<em><a href="http://www.bbc.com/zhongwen/simp/multimedia/2015/10/151021_vid_xi_uk_human_rights">视频：习近平答BBC记者人权提问</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44419.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44419.jpg" alt="444" width="452" height="294"></a><br><a href="https://freeweibo.com/weibo/3901049880049710" target="/weibo/390">2015年10月23日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%97%BB%E7%BE%8A%E7%9F%A5%E9%A9%AC">闻羊知马</a>：央视新闻只说了前半部分，没说后半部分。<em>相关阅读｜</em>《<em><a href="https://zh.wikipedia.org/wiki/%E8%B5%B5%E4%B8%80%E6%9B%BC">维基百科｜赵一曼</a></em>》；《<em><a href="http://baike.baidu.com/view/2886894.htm">百度百科｜陈达邦</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44420.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44420.jpg" alt="444" width="410" height="857"></a><br><a href="https://freeweibo.com/weibo/3902201409327774" target="/weibo/390">2015年10月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A8%E5%85%B4%E6%9D%83%E5%BE%8B%E5%B8%88">杨兴权律师</a>：删了重发。  <em>相关阅读｜</em>《<em><a href="http://www.bbc.com/zhongwen/simp/china/2015/09/150904_church_lawyer_police_notice">BBC｜浙江教会维权律师张凯被控窃取机密罪名</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44425.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44425.jpg" alt="444" width="473" height="630"></a><br><a href="https://freeweibo.com/weibo/3903351533673850" target="/weibo/390">2015年10月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%91%E6%98%93%E4%BA%91%E9%98%85%E8%AF%BB">网易云阅读</a>：#全面二胎#下面这些内容均来自网易微博网友亲述的计生政策背后的故事。这些微博都非常有价值，可称得上是珍贵史料。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44424.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44424.jpg" alt="444" width="382" height="4545"></a><br><a href="https://freeweibo.com/weibo/3903603246577519" target="/weibo/390">2015年10月30日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%9170%E5%90%8E%E7%9A%84%E7%97%9B%EF%BC%9A%E4%BD%A0%E7%A1%AC%E6%97%B6%E6%94%BF%E7%AD%96%E6%AF%94%E4%BD%A0%E7%A1%AC%EF%BC%8C%E6%94%BF%E7%AD%96%E8%BD%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E5%A5%B3%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE/?category=18271" rel="tag">BBC女记者提问</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E%E5%8C%96/?category=18271" rel="tag">一胎化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8B%B1%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中英关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E7%94%9F%E5%A8%83/?category=18271" rel="tag">为国生娃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E4%B8%8B%E6%95%99%E4%BC%9A/?category=18271" rel="tag">地下教会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE/?category=18271" rel="tag">妄议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%87%AF/?category=18271" rel="tag">张凯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BD%B3%E4%BD%B3/?category=18271" rel="tag">李佳佳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E9%BE%84%E5%8C%96/?category=18271" rel="tag">老龄化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E4%B8%80%E6%9B%BC/?category=18271" rel="tag">赵一曼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%BE%BE%E9%82%A6/?category=18271" rel="tag">陈达邦</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%98%BF%E5%9D%9D%E5%8E%BF%E5%86%8D%E5%8F%91%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8A%97%E8%AE%AE%E4%BA%8B%E4%BB%B6-%E6%AF%94%E5%A6%82%E5%8E%BF%E7%99%BE%E5%90%8D/" target="cdt-mirror">自由亚洲 | 阿坝县再发生示威抗议事件 比如县百名尼姑被驱逐</a>
 </h2>
 <p><p>四川阿坝州阿坝县藏人扎西日前在县城展开示威游行活动，要求当局让达赖喇嘛返回西藏，随即被警方拘捕；而本月中旬被捕的阿坝州若尔盖县唐克镇两名藏人中，一人仍遭拘押，另一人已获释；此外，西藏那曲地区比如县一百名尼姑在上月底被驱逐出寺。</p>
@@ -763,91 +786,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%B1%E8%AF%86%E7%BD%91-%E5%86%9C%E6%9D%91%E5%90%8E%E4%BB%A3%E4%B9%8B%E6%AE%87%EF%BC%9A%E4%BB%8E%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%88%B0%E4%B9%A1%E6%9D%91%E6%B7%B7%E6%B7%B7/" target="cdt-mirror">共识网 | 农村后代之殇：从留守儿童到乡村“混混”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.19.08.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.19.08.png" alt="Screen Shot 2015-10-28 at 上午10.19.08" width="498" height="325"></a></p>
-<p>作者：黄海</p>
-<p>共识君按·当留守儿童长大：“这帮抽没筋、扒没皮的人惹不起，大罪不犯，小错不断，入不了罪，判不了刑，派出所抓了又放，放了又抓，没点办法。”</p>
-<p>近日，湖南邵东县小学女教师在校被害，3名嫌疑人作案手段惊人：</p>
-<p>先用棍棒击打女老师头部，继而追打至厕所，并用毛巾捂住女老师口鼻，最终致其死亡。3人搜走财物后，将女教师尸体藏匿在床底，清理现场血迹后逃离现场。</p>
-<p>而这3名嫌疑人均为在校学生，年龄最大的13周岁6个月，最小的不满12岁，他们还有一个更普遍的称呼——留守儿童。</p>
-<p>“有人说，这是中国当代社会最大的溃疡。他们享受不到完整的父母亲情，感受不到公平教育，呼吸不到自由和尊严的空气，是流浪和失学儿童、心灵扭曲患者乃至少年犯最大的后备军。他们有个共同的名字叫留守儿童。按照官方7年前公布的数字，他们的总数为5800万。这5800万孩子在为整个社会的发展和繁荣买单。”</p>
-<p>这是2012年，石述思在个人博客里写就的一段时评。整整3年过去，共识君翻出此文，只是想谨慎说明：一些留守儿童已然野蛮生长到足够“强大”，而当他们的“野蛮”再无人能够制约时，不是“5800万孩子在为整个社会的发展和繁荣买单”，或许，恰恰相反。</p>
-<p>关于野蛮生长中的留守儿童，同样发生在湖南，本文又是另一个惊人的故事。</p>
-<p>✦ 本文原载《当代青年研究》杂志，有删改，原标题为《中国农村后代之殇：从留守儿童到乡村“混混”》。</p>
-<p>红镇是湖南省北部的一个边远乡镇，属于一个国家级贫困县里的贫困乡。</p>
-<p>与大部分内陆乡镇相同，镇里没有什么工业与经济增长点，村民们主要是靠天吃饭。近年来，随着外出打工的人增加，镇里的留守儿童也在显著增加，并且成为当地乡村”混混”的主要后备力量。</p>
-<p>❶<br>
-从留守儿童到乡村“混混”</p>
-<p>对于红镇的”混混”而言，营生模式主要有三种：“水饭”、“码饭”和“血饭”。</p>
-<p>红镇地处湘鄂赣三省交界处，由于高山环绕、地形复杂而易于躲避打击的实际状况，自2005年开始”地下赌场”在此地兴起，来自湘鄂赣三省的赌徒往往汇集在此聚赌，当地大大小小的”地下赌场”也发展到数十个左右。</p>
-<p>在当地方言中，”水”也就是”赌”的意思，因此，开地下赌场的庄家与依赖赌场看场子、当”保安”、放贷与收账的人就通称为吃”水饭”的人。</p>
-<p>今年30出头的陈xx是红镇最大的”地下赌场”老板，手下有一大批15-20岁左右所谓的”保安”，也就是乡民眼中的打手。</p>
-<p>“癞子头”、”三疤”、”定蛮子”作为陈手下马仔，年纪也不大，专门负责在赌场看场子，管理打手和负责催收高利贷账，而”孝子陈”则负责在赌场物色有偿还能力的输钱赌徒作为发放高利贷的对象，四人一起号称陈根生的”四大金刚”。</p>
-<p>这些小年轻一般在15-20岁左右，大部分因为父母外出打工而留在家里，在镇里一向飞扬跋扈，无所顾忌。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.20.44.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.20.44.png" alt="Screen Shot 2015-10-28 at 上午10.20.44" width="496" height="328"></a></p>
-<p>像”癞子头”、”三疤”、”定蛮子”等人，父母亲多年来一直在外打工，对其缺乏管教，而他们也从小到大就不爱读书，虽然名义上是红镇中学的毕业生，可实际上都是勉强混完初一就辍了学，看着镇里大大小小的”地下赌场”，马上找到了这条营生的途径。</p>
-<p>而在2003年兴起的农村”地下六合彩”风潮中，红镇也受到了波及，至今仍未禁绝。</p>
-<p>“地下六合彩”俗称”买码”，因此在”地下六合彩”中营生的人就称之为吃”码饭”。今年40来岁的曾xx是红镇有名的”地下六合彩”庄家，与陈xx一样，他也依靠镇里这帮小年轻帮他暴力敛财。</p>
-<p>在”地下六合彩”中当庄家的获利来源是赚码金，而开”地下赌场”的获利来源则无非一是收取场子费，二是放高利贷赚利息。</p>
-<p>无论是在陈xx的”地下赌场”中”吃水饭”，还是在曾xx的”地下六合彩”中吃”码饭”，”癞子头”、”三疤”、”定蛮子”与镇里这些好逸恶劳、不谙世事的小混混实际上都是在吃”血饭”，即依靠自己的逞勇斗狠赚取佣金。</p>
-<p>对于这些由留守儿童发展而来的乡村小”混混”，村民们是厌恶至极，认为他们是红镇社会秩序败坏的首要罪因。一谈起这些人，大部分村民无不唉声叹气，感慨世风日下。</p>
-<p>“这帮抽没筋、扒没皮的人惹不起，大罪不犯，小错不断，入不了罪，判不了刑，派出所抓了又放，放了又抓，没点办法。”镇上的农民大多忍气吞声，怕他们。</p>
-<p>❷<br>
-不是“混混”带坏了留守儿童<br>
-而是村庄自己放弃了他们</p>
-<p>一个值得注意的问题是：在红镇的”地下赌场”与”地下六合彩”中，这些逞勇斗狠的小”混混”都是如何产生的？他们的家长与村民能无动于衷？</p>
-<p>因为父母亲外出打工而无暇顾及子女的教育与成长，这些小”混混”的家庭教育无疑是失败的。但另一个问题则是：与现代化的城市生活不同，我们所理解的传统村庄生活一直有其自治的秩序逻辑。</p>
-<p>换句话说，即便是父母亲较少关注子女的教育，在一个村庄共同体中，也应该有基本的道德与规则约束着这些青少年的发展方向。</p>
-<p>但现实却并非如此，今日之农村已远非当年的”熟人社会”。</p>
-<p>第一，村民生活策略对”混混”的认同</p>
-<p>对红镇村民来说，教育现在是除了医疗之外，最为沉重的包袱。</p>
-<p>教育是个无底洞，一方面希望自己的小孩出息，脱离农村，但另外一方面，能够考上大学的，从1982年到现在，全镇也不超过30个人，大部分人还是得靠啃泥土活命，那么到底是拼命交一年年上涨的学费，还是干脆早点让小孩谋生活，是村民们的一个两难选择。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.21.39.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.21.39.png" alt="Screen Shot 2015-10-28 at 上午10.21.39" width="495" height="331"></a><br>
-（村小学生的日常）</p>
-<p>而镇里大”混混”曾xx与陈xx等人的风光，小”混混””癞子头”、”三疤”、”定蛮子”等人的嚣张，不仅让家长们对看不见明显效果的教育投资充满怀疑，更让众多的青少年开始羡慕他们的成功方式，转而纷纷效仿。</p>
-<p>红镇的街头上，时不时溜达着一个个胳膊刺青，头发染色的小青年，其中一些人居然是红镇中学的中学生。问及原因，他们的回答是”这样子好欺负人”！</p>
-<p>而红镇一些村民在涉及自己利益时，也开始有意识有选择性地利用这帮小”混混”来完成目的，如利用他们解决邻里纠纷、农忙时抢水纷争等。</p>
-<p>当村民遇事不得不选择这些”混混”，甚至效仿”混混”来摆平理顺的时候，”混混”的行动逻辑也就成为村民的行为模式首选。</p>
-<p>这意味着乡村原有的行为模式已经不再是现行的乡村处事规则，意味着村民对”混混”从反感到利用到认同最后到依赖的行为模式的变迁，这进一步为留守儿童成长为乡村”混混”提供了动力。</p>
-<p>这进一步说明不是混混击败了村民，而是村民自己击败了自己，不是混混带坏了留守儿童，而是村庄自己放弃了留守儿童。</p>
-<p>第二，村庄价值对传统贫富观念的颠覆</p>
-<p>“只要有钱，在农村就有地位”、”如果有下辈子，绝对不当农民”是众多红镇村民的共同心思。</p>
-<p>在赚钱与致富成为第一需要的生活世界中，致富的意义远远超过了致富的手段。笑贫不笑娼的意义世界，让村民可以自愿把自己的女儿送到外面吃”皮肉饭”，然后再拿这些皮肉钱在村庄昂首做人。</p>
-<p>红镇中学是一所完全中学，可高中生远远招不满，原因在于初中生流失严重，几乎每年达到17%左右，而且流失的学生大多是女生。</p>
-<p>首先是因为女孩迟早是要出嫁的，学的好不如嫁的好，其次是因为女的出去打工比男的好找工作。</p>
-<p>红镇中学一位教师黄XX有过留心统计，他在这个学校当了6年老师，自己的学生当中已经有100多女生初中未毕业就出去打工，除了10几个是正常学技术就业以外，其余几乎都是”不正经就业”。潜台词很明白，那就是——卖。</p>
-<p>他说2006年就有两个家长来学校强行把孩子带走，一个初二刚念完，就被家长带到广东的发廊里去了；另一个还差15天中考，家长说已经在广东帮孩子找了一份在某娱乐城当”服务员”的工作，硬是不让孩子毕业就把她带走了，着实令老师们痛心。</p>
-<p>在这种致富的意义远远超过了致富的手段的村庄价值系统转型中，村民对各种大小”混混”的生存逻辑呈现出一种厌恶与艳羡的复杂态度，”混混”们的成长与得势也就有了其生存土壤，而这无疑又对农村年幼的留守儿童带来了深刻的负向吸引。</p>
-<p>第三，”混混”生活世界与村庄生活世界的耦合</p>
-<p>在村民与干部的眼中，”混混”群体是造成红镇社会秩序混乱的根源所在。</p>
-<p>但无论是吃”水饭”与”码饭”的大”混混”，还是吃”血饭”的小”混混”，基本上与村民们相安无事地和平共存，只要不涉及到自身利益，只要村民不招惹他们，他们还是试图在恪守着一条底线—不必惹事则尽量少惹事，不需要暴力则尽量不暴力。</p>
-<p>尤其是这些成为小”混混”的留守儿童只是在”伴虎吃食”，缺乏明确的行事方式与行动原则。村民对这些人虽然是又怕又俱，但也并非就是咬牙切齿，必欲除之而后快，从这一点来说，红镇”混混”群体并非那种组织严密、无恶不作的黑社会帮派。</p>
-<p>这也反过来说明，具备一定自制力的红镇”混混”形成了一个相对隐性的社会。这个相对隐性的社会一方面因为对村庄社会秩序的侵蚀，而显性地呈现于红镇社会当中，另一方面又由于与村民日常生活的融合，而隐性地存在于红镇社会当中。</p>
-<p>显然，从后者意义上而言，这更像是一个隐性的”灰社会”。而与越轨社会学前期理论认为的”问题地区的症结在于该地区没有社会形态和组织结构”的结论相反，</p>
-<p>红镇”混混”群体产生的最大症结不在于红镇没有社会形态和组织结构，而在于”混混”本身的网络结构与红镇的主流组织形态格格不入屡屡发生冲突的同时，又与其乡土社会结构高度融为一体。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.22.37.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.22.37.png" alt="Screen Shot 2015-10-28 at 上午10.22.37" width="496" height="327"></a></p>
-<p>因此，对留守儿童何以可能”成长”为乡村”混混”的解释，放到红镇乡土社会的转型性质中来理解就显得尤为必要。</p>
-<p>❸<br>
-从留守儿童到”混混”：何以可能？</p>
-<p>从留守儿童到乡村”混混”，不是一个单纯的青少年社会化失败的问题，更是乡村社会转型中村庄内部社会结构与村民生活世界发生畸变的结果。</p>
-<p>在红镇，从留守儿童到乡村”混混”就呈现出一种清晰的自身成长脉络逻辑：首先是留守儿童缺乏家庭的基本社会化教育，然后他们从村庄的传统道德和伦理秩序中脱离，却依然能够获得体面的营生。</p>
-<p>在乡村内部压制力量与惩罚机制日渐消亡的情况下，”混混”获得了足以震慑他人的价值再生产能力。</p>
-<p>而当乡村社会不再认为”混混”行为是一种越轨和罪恶时，被认可的”混混”人生观进而占据了乡村价值系统的主流地位，进而向农村留守儿童呈现出难以抗拒的吸引力。</p>
-<p>在”混混”成长的这个过程中，其逻辑实质上是环环相扣的，任何一个环节只要有一个被否定，下一个环节就难以产生，也就意味着混混的生发进程随时可能被中断。</p>
-<p>但这种步步相联的环节一再顺理的衍生，恰恰说明了乡村内部社会结构的畸变使得留守儿童到乡村”混混”成为可能。</p>
-<p>下载共识APP<br>
-让思想更有尊严，让河蟹见鬼去<br><a href="http://mp.weixin.qq.com/s?__biz=MjM5NjA0MDUyMA==&mid=214787476&idx=4&sn=cbbe6bb530063e2e96e8771b1d0fbea4&scene=21#wechat_redirect">点我下载共识APP</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.24.41.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.24.41.png" alt="Screen Shot 2015-10-28 at 上午10.24.41" width="147" height="198"></a><br>
-（共识网微信公号）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%85%B1%E8%AF%86%E7%BD%91-%E5%86%9C%E6%9D%91%E5%90%8E%E4%BB%A3%E4%B9%8B%E6%AE%87%EF%BC%9A%E4%BB%8E%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%88%B0%E4%B9%A1%E6%9D%91%E6%B7%B7%E6%B7%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86%E7%BD%91/?category=18271" rel="tag">共识网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">农村教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E4%BA%8C%E5%85%83%E7%BB%93%E6%9E%84/?category=18271" rel="tag">城乡二元结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E5%BC%82/?category=18271" rel="tag">城乡差异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">留守儿童</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -859,7 +797,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -869,5 +807,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

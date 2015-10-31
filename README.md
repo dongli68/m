@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E7%8E%8B%E8%B4%BC%E6%8D%85%E5%88%80%E3%80%81%E8%83%A1%E8%B4%BC%E8%A1%A5%E5%88%80%E3%80%81%E4%B9%A0%E6%80%BB%E8%B4%9F%E4%BC%A4/" target="cdt-mirror">【习总日记】王贼捅刀、胡贼补刀、习总负伤</a>
@@ -705,7 +705,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/12%E6%B5%B7%E5%93%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%82%E4%B8%8E/?category=18271" rel="tag">参与</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92/?category=18271" rel="tag">基督徒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E7%9F%B3%E6%A0%B9/?category=18271" rel="tag">胡石根</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%80%BB%E8%BE%91%E5%AD%A6-%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E6%80%8E%E6%A0%B7%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E8%AF%BB%E8%BF%87%E4%B9%A6/" target="cdt-mirror">逻辑学 | 艾晓明：怎样告诉别人你读过书</a>
 </h2>
@@ -784,5 +784,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

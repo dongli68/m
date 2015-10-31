@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96%E5%BC%80%E6%94%BE%E4%BA%86%E8%B0%81%E7%9A%84%E5%AD%90%E5%AE%AB%EF%BC%8C%E5%85%B3%E9%97%AD%E4%BA%86%E8%B0%81%E7%9A%84%E6%9C%AA%E6%9D%A5%EF%BC%9F/" target="cdt-mirror">香港独立媒体 | “二胎”政策开放了谁的子宫，关闭了谁的未来？</a>
@@ -46,7 +46,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E5%AD%A9/?category=18271" rel="tag">全面开放二孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">农村女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E4%BA%8C%E5%85%83%E7%BB%93%E6%9E%84/?category=18271" rel="tag">城乡二元结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">女性权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2%E6%9D%83/?category=18271" rel="tag">生育权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93/?category=18271" rel="tag">香港独立媒体</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E8%AE%A8%E8%96%AA%E5%B7%A5%E4%BA%BA%EF%BC%9A%E5%90%8C%E6%83%85%E6%9C%89%E5%A4%9A%E5%B0%91%EF%BC%8C%E8%B7%9D/" target="cdt-mirror">澎湃新闻 | 北大学生与讨薪工人：同情有多少，距离就有多远</a>
 </h2>
@@ -752,7 +752,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -762,5 +762,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

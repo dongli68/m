@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E7%8E%8B%E8%B4%BC%E6%8D%85%E5%88%80%E3%80%81%E8%83%A1%E8%B4%BC%E8%A1%A5%E5%88%80%E3%80%81%E4%B9%A0%E6%80%BB%E8%B4%9F%E4%BC%A4/" target="cdt-mirror">【习总日记】王贼捅刀、胡贼补刀、习总负伤</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，31）</p>
+<p>昨天中国财新传媒旗下财经网发了一篇“补刀”的报道。报道称中国地产大亨王健林星期四在哈佛大学主讲“公开课”，在回应有关纽约时报报道时说了“捅刀”的话。他说，齐桥桥和邓家贵在万达上市前两个月就已经把万达的股票全部转让，并说 “这件事邓家贵先生是牺牲了巨大利益的”。众所周知，齐桥桥和邓家贵是我的姐姐和姐夫。</p>
+<p>问题是敌对势力的《纽约时报》记者傅才德早先已得到证据。他告诉美国之音说，“奇怪的是，邓家贵和齐桥桥那个时候（万达上市时间是2014年12月）已经没有万达的股票了，因为根据工商局的材料，2013年10月份，他们已经把他们万达的股权转让给他们的一个长期职工徐再生。”</p>
+<p>就这样，王贼健林联手胡贼舒立把我坑了。一个捅刀，另一个补刀。我身受重伤。</p>
+<p>王贼健林的言论不但证实了我姐姐姐夫曾经持有万达股票的事实，也证实了他们以他人代为持股方式违法持股的事实。王贼健林的证言更证实了中南海不干净，党中央里没有一个好东西，共产党的高级领导干部包括我的家族都参与了以权谋私勾当。</p>
+<p>这是时代悲剧，也是历史局限，我也没办法。从改革开放到现在的三十多年，很多问题不是我一人能够解决的。面对以权谋私权力寻租，官商勾结权贵垄断，三十多年延续下来之弊端，火力全开打老虎累死武松之后，我也学用一个网络新词发泄此时此刻的心境，然并卵。</p>
+<p>中国共产党从一个为人民谋幸福的革命政党，变成现在的“三抢党”，抢权抢钱抢女人。一路走来，好事做尽坏事做绝。解救党改造党，进而改造中国实行民族复兴，历史的重担落在了我的肩上。</p>
+<p>要做事做好事做大事必先集权，可惜集权路上内外交困阻力重重。党内，剪除老人政治比打击贪污腐败难得多。三年来，我和王岐山在前面嗨哟嗨哟打虎拍苍蝇，老人们在后面一会儿咳嗽一会儿打喷嚏。待我差人前去问候身体健康，他们总是一句话，请转告习总，凡事得慢慢来急不得，下药重也会医死人。一帮老中医。怪不得最近高人传来一句话：治大国如吃伟哥，硬起来。</p>
+<p>可硬得起来吗？刚当上总书记那阵我在钓鱼岛硬，派船前往钓鱼岛海域巡逻。美帝马上搬出日美安保条约吓唬我。我刚宣布设立东海防空识别区，美帝B-52马上掠阵打脸。现在我在南海造岛，美帝又派军舰硬闯12海哩。</p>
+<p>对内更硬不起来。我姐姐姐夫如何得到万达股票？还不是依靠我这个当总书记的弟弟。今后我还好意思说别人？自己屁股都没擦干净。而且也擦不干净。<br>
+所以啊，只好背书单。</p>
+<p>过几天去越南访问，准备唱一首“越南中国山连山水连水”给大家听。到新加坡访问，我准备改背书单为背歌单，因为当年在梁家河，就喜欢听林俊杰和孙燕姿的歌。大家说好不好？</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/103115.jpg" alt="103115" width="551" height="310"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E7%8E%8B%E8%B4%BC%E6%8D%85%E5%88%80%E3%80%81%E8%83%A1%E8%B4%BC%E8%A1%A5%E5%88%80%E3%80%81%E4%B9%A0%E6%80%BB%E8%B4%9F%E4%BC%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%84%B6%E5%B9%B6%E5%8D%B5/?category=18271" rel="tag">然并卵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%88%92%E7%AB%8B/?category=18271" rel="tag">胡舒立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BD%90%E6%A1%A5%E6%A1%A5/?category=18271" rel="tag">齐桥桥</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 20分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%9170%E5%90%8E%E7%9A%84%E7%97%9B%EF%BC%9A%E4%BD%A0%E7%A1%AC%E6%97%B6%E6%94%BF%E7%AD%96%E6%AF%94%E4%BD%A0%E7%A1%AC%EF%BC%8C%E6%94%BF%E7%AD%96%E8%BD%AF/" target="cdt-mirror">【河蟹档案】70后的痛：你硬时政策比你硬，政策软时你还软</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -739,53 +763,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E6%88%88%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%88%B0%E9%98%9F%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%95%A2%E5%8A%A8%E6%AD%A6%E5%90%97%EF%BC%9F/" target="cdt-mirror">端传媒 | 吴戈：美国舰队要来了，中国敢动武吗？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.35.05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8A%E5%8D%8810.35.05.png" alt="Screen Shot 2015-10-28 at 上午10.35.05" width="550" height="367"></a><br>
-（2015年10月21日，黑龙江省黑河，新兵参加的人民解放军训练。摄：China Daily/REUTERS）</p>
-<p>导读：中国一方面并无武力解决的实力和条件，另一方面在南海问题上的狂热、急切和自负又压倒了所有冷静、耐心、自省和让步的可能，结果是在和平旗号下以准军事路线积极改变现状。</p>
-<p>编按：10月27日，美国国防官员表示，今早派出的导弹驱逐舰拉森号（USS Lassen）已驶入南海中国的渚碧礁和美济礁十二海里范围。海洋法公约规定包括军舰在内，只要遵守一定规则，即享有在他国领海的“无害通过权”，但中国规定这须经中国批准，并在加入海洋法公约时对此作了保留。<br>
-在本月17日的香山论坛本月17日，中央军委副主席范长龙发表主题演讲，针对外界关注的中国南海岛礁建设，范长龙指出，相关建设以民事功能为主，他强调，即使涉及领土主权的问题，中国也绝不轻言诉诸武力，力避擦枪走火。这一言论引发了“公关危机”，范长龙因此在网络上，被部分民族主义情绪强烈的网民“赐予”“范长虫”等侮辱性称号，这一现象的背后是什么？中国军力到底如何？中国的国际处境处于何种阶段？本文提供了一种解释。</p>
-<p><strong>语言只是个游戏</strong></p>
-<p>纷纷赶来灭火的笔杆子们面对的已不是高级将领个人形象的污损，而是党经常用来警告敌对势力的局面——“中国人民不答应”。</p>
-<p>必须承认，本月16日中国军委副主席范长龙在香山论坛称“即使在涉及领土主权的问题上，中国也绝不轻言诉诸武力”引发了公关危机，从有的网站搜索“范长龙”会提示“范长怂”和“范长虫”就可见一斑。</p>
-<p>然而范副主席又的确很冤，他不过是按既定方针，在香山论坛这样一个“一轨半”的公共外交场合表达官方原则立场，连“失言”也算不上。对此，即使长期以煽动民族主义为业的《环球时报》一开始也只是简短的通稿照录，不敢对这个级别的领导人发言添油加醋，连军事论坛也有极富大局观和战略定力的定调发言称“轻言战争者必是中华千古罪人”。</p>
-<p>可是所有人都忽略了一点：这个主题已然是中国社会最为亢奋的一根神经，更何况这句话“即使……也……”的逻辑结构显然有硬伤。一天之内，网民的负面评价仍然星火燎原，吓得不少网站赶忙删除相关消息。纷纷赶来灭火的笔杆子们面对的已不是高级将领个人形象的污损，而是党经常用来警告敌对势力的局面——“中国人民不答应”。</p>
-<p>还好，这句话辩解起来轻而易举。首先，别忘了中国军力突飞猛进，在海洋上显然正在战略进攻，锋芒所指，必然吓着一些无关国家，香山论坛需要人气，以争夺话语权，那么，讲几句外交辞令，安抚和分化番邦就具有战略意义了。</p>
-<p>其次可以借用无敌的辩证法——“决不轻言”不等于“不言”，刻意示强其实是实力和自信不足，“善战者不言战”，不怒自威反而需要定力和实力。</p>
-<p>再加上“低级马仔才动不动露出纹身咆哮”和“反动军队才只会打打杀杀，解放军即是战斗队又是工作队、生产队”，分别将看黑帮剧长大、只会车锁开颅的文盲和读语录长大、动不动文攻武卫的毛派群众催眠，而“复杂中国的安全政策千头万绪，国家自有一盘大棋”的咒语又横扫一切谋略学票友和国家主义信徒，最高境界则让人对“意思是即使不动武也能搞定你、更别说动武了”也听得连连点头。</p>
-<p>当然，被引用最多的辩护称“此言听众不是美国”效果就差多了，因为其理由不过是美国代表团只有一个准将衔武官带队，却忘了会上以指责中国“南海军事化”引发争论的正是前一任美国海军作战部长拉夫黑德上将。而将“抨击解放军”的媒体和公众指责为“阴魂不散的冷战思维”则不光犯众，而且有损“冷战思维”这把斗美利剑的锋芒。</p>
-<p><strong>规则才是个难题</strong></p>
-<p>直至10月18日央视还称“将迎头痛击”触及主权、安全红线者，然而，苏联都只是撞击，中国敢直接动武吗？</p>
-<p>尽管也算自圆其说，危机公关毕竟是螺蛳壳里做道场，南海哪里只是言语妥当之争。</p>
-<p>近年，中国以超大规模造岛为顶峰的夺取实控权动作面临迅速增大的美国压力。从“深海981”从西沙提前撤回到外长承诺造岛已结束，都是美国直接警告的产物，直到5月底开工、10月初建成的两座灯塔“昭告世人”相关工程的民用性质，仍反衬出强大的国际舆论压力。这显然不是中国在国内舆论中强行宣扬自己“强硬驱逐”美军P-8A反潜机，长时间跟踪“沃斯堡”号濒海战斗舰能掩饰的。</p>
-<p>再往前，在6月初为习近平打前站访美时，面对美国防长敦促停建南海岛礁，范长龙就希望借美国欲保持两军对话，在海空相遇行为守则、黑客入侵等议题上需要中国合作，换取美国将南海当作一个“插曲”，但当时双方就未举行联合记者会，习后来的访美同样在此毫无进展。</p>
-<p>中国南海造岛之所以成为焦点，关键在于它将争端复杂化，又在领土和秩序上均暗含颠覆性野心。</p>
-<p>第一，涉及的岛礁多为低潮时才露出水面的“干出礁”（法律上称“低潮高地”），国际法对其是否算领土有判例但无明文法条，同时海洋法公约明确规定人工岛没有领海，但若低潮高地筑有永久高于海平面的灯塔等设施，可以成为划定领海直线基线的起讫点。那么，即使中国无法使干出礁人工填岛后算作领土，也显然有意利用灯塔为其划定领海。</p>
-<p>第二，有趣的是，美舰意欲进入这些岛礁12海里，倒不是为否定它们有领海，而恰恰是针对中美之间关于海洋权益的另一项根本分歧——海洋法公约规定包括军舰在内，只要遵守一定规则，即享有在他国领海的“无害通过权”，但中国规定这须经中国批准，并在加入海洋法公约时对此作了保留。</p>
-<p>第三，虽然中国声称“有权采取一切必要措施防止和制止非无害通过”，并长期对公众灌输外国军舰进入领海就是入侵，公众也无不以为敢于“我舰奉命撞击你舰”的前苏联成功否定掉了美国的无害通过权，直至10月18日央视还称“将迎头痛击”触及主权、安全红线者，然而，苏联都只是撞击，中国敢直接动武吗？如果敢，国内民族主义狂热和政府支持率无疑都将破表，但近日中国网上也疯狂讹传一篇文章，题目就是“刘亚洲：日本四小时全歼东海舰队非戏言”。</p>
-<p>更矛盾的是，这次高调宣传灯塔建成，范长龙以强调“（相关设施）以民事功能为主，……像我们承诺的那样不会影响南海航行自由”发起和平攻势，还一心想平息这些设施难以掩饰的军事野心和国内舆论对此的大肆宣扬引发的国际焦虑。可是一看《环球时报》难掩兴奋地向国人报喜——只要美军等舰只使用这些灯塔并记入航海日志就等于承认中国主权，《金融时报》也称对中国“新的既成事实”美国无力改变，中国哪里还需要动武？</p>
-<p>至于拉夫黑德对中国将南海军事化的指责，中国的反击更显“先有鸡还是先有蛋”的熟练智慧，因为中国这些岛礁有军事潜力而尚未利用，而美国常年在南海侦察、军演和部署，完全是“贼喊捉贼”。同时，范长龙的措辞从未承诺这些设施不用于军事，国防部的标准口径也是“在自己领土上部署军事防御设施无可非议”，还有人提醒：美舰进领海，中国也可派舰应对。</p>
-<p><strong>实质上中国极为不利</strong></p>
-<p>其实，很少有人敢相信中国这次会对闯入领海的美舰开火，哪怕只是冲撞，更没人相信中国能借此将美军赶出南海，发言人、少将、教授和主编们有目共睹：不要说动武，“绝不轻言动武”一句话引爆民间情绪，中国也手忙脚乱。</p>
-<p>上述文字游戏，中国再次功德圆满，但在实质上，中国已然陷于困境，问题来自一连串因果：</p>
-<p>出于执政党和当政者强烈的政治需要，中国一方面并无武力解决的实力和条件，另一方面在南海问题上的狂热、急切和自负又压倒了所有冷静、耐心、自省和让步的可能，结果是在和平旗号下以准军事路线积极改变现状，抢占实利。这不光使双边谈判注定无进展，还面临东盟抱团和靠拢美国的趋势。</p>
-<p>在抱怨南海问题国际化的同时，中国并非看不到周边对自己的警惕，但被长期炒作的对外强硬又已然是官方支持率的不竭源泉，在作为另一源泉的“经济增长”乏力时更呈中流砥柱之势。在这种狂热的逻辑中，美国关注和介入南海，中国就油然而生对美国维护的亚太格局和国际海洋规则的不满和挑战，为此军方甚至将香格里拉论坛变成声讨美国的主战场。在豪言壮语荟萃的外交部发言人口中，美国连南海问题当事国也不是，仿佛根本不值得搭理。</p>
-<p>眼下，实力比中国强得多的美舰当真要来了，中国依旧义正辞严，不光扬言要对美舰“迎头痛击”，还以为再次揪住了美国在“南海军事化”问题上“只准州官放火”的双重标准软肋，大有一举解决作为“中美军事关系三大障碍”之一的美国舰机对华抵近侦察问题之势。</p>
-<p>历来主张美国与中国分享亚太权力的澳大利亚教授休·怀特也一眼看出美国在南海不敢对华动手，大多数亚洲国家也惹不起中国，美国不要妄想在南海树立亚洲新秩序。</p>
-<p>其实，很少有人敢相信中国这次会对闯入领海的美舰开火，哪怕只是冲撞，更没人相信中国能借此将美军赶出南海，发言人、少将、教授和主编们有目共睹：不要说动武，“绝不轻言动武”一句话引爆民间情绪，中国也手忙脚乱。而且，如果真有全球野心和实力，中国也许不会迷恋用只是“并未明显违法”的擦边手段抢建几条跑道，乐于分享自称“主权主张并非完全没有依据”的南沙资源，接受“无害通过权”以方便自己逐鹿大洋，可是中国不止就对这片“祖宗海”不依不绕了，对背后的规则颠覆也除了“自古以来”和既成事实，别的什么也不认，甚至为此不惜一切。显然这是政治需要和感情用事，绝非清晰的利益和理性的获利路径。</p>
-<p>为范上将辩解的罗援少将有言：“忘战必危”但“好战必亡”，也是辩证法。同罗少将一样多次受到高层“必须配合国家统一战略”敲打的《环时》也告诫爱国群众：军力不是解决所有对外冲突的万能钥匙，崛起的同时也要避免成为矛盾中心，使发展成果被外界的抵制对冲，特别是“莫让民粹主义扰乱视线”。</p>
-<p>说得多好！奇怪的是，中国政府渠道还真地从未轻言武力，但数十年来，这些少将和总编们乘当朝急需民族主义狂热支撑的东风，已将“动武”的饥渴和暴躁注入上亿国人的骨髓。这种灌输的主语全是“中国”，然而在现实中代表中国的执政党却始终以“动武”为业余爱好，当“僵尸军团”被“从来就没敢动武”的现实打醒，自然需要具体、有形的发泄对象。</p>
-<p>此时，北京地铁内的数万块液晶屏幕上军事节目比例惊人，甚至全天滚动播放阅兵场面，商业广告却少得可怜。</p>
-<p>（吴戈，军事、国际时事评论员）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E6%88%88%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%88%B0%E9%98%9F%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%95%A2%E5%8A%A8%E6%AD%A6%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%88%88/?category=18271" rel="tag">吴戈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0/?category=18271" rel="tag">美国军舰</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -797,7 +774,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -807,5 +784,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

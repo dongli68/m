@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8E%A8%E7%89%B9%E9%83%BD%E4%B8%8D%E8%83%BD%E7%8E%A9%EF%BC%8C%E6%88%91%E4%B9%9F%E8%A6%81%E5%8A%A0%E5%85%A5%E5%AE%A3%E4%BC%A0%E9%83%A8/" target="cdt-mirror">【网络民议】推特都不能玩，我也要加入宣传部</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/2214257545/D1Bq58MPe">@YouTube精选</a>：【新华社在推特上发布了这个MV 向外国人介绍“十三五”】这个很多人都听说过了吧。。。虽然说歌词感觉有点羞耻——“十三五，十三五，人人都在谈论十三五。”——但是不吹不黑，歌还是挺好听的。。。新华社对内一本正经，但对外，还是挺拼的。没错，这还是复兴之路工作室的作品。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%96%B0%E5%8D%8E%E7%A4%BE135.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%96%B0%E5%8D%8E%E7%A4%BE135.png" alt="新华社135" width="500" height="1011"></a></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a title="端传媒 | 谁在装扮习近平的海外形象？ 2015.09.25" href="http://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E8%A3%85%E6%89%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E5%BD%A2%E8%B1%A1%EF%BC%9F-2/">端传媒 | 谁在装扮习近平的海外形象？</a></li>
+<li><a title="Permanent Link to 【网络民议】反正也没在野党，你说好就好喽" href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%8D%E6%AD%A3%E4%B9%9F%E6%B2%A1%E5%9C%A8%E9%87%8E%E5%85%9A%EF%BC%8C%E4%BD%A0%E8%AF%B4%E5%A5%BD%E5%B0%B1%E5%A5%BD%E5%96%BD/" rel="bookmark">【网络民议】反正也没在野党，你说好就好喽 </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E8%A3%A4%E8%A1%A9%E8%A6%81%E7%BF%BB%E5%A2%99-%E4%B8%8D%E6%80%95%E8%B5%B0%E5%85%89%E5%90%97%EF%BC%9F/">【网络民议】大裤衩要翻墙 不怕走光吗？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2012/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%AA%E8%AE%B8%E6%96%B0%E5%8D%8E%E6%8C%96%E5%9C%B0%E9%81%93-%E4%B8%8D%E8%AE%B8%E7%99%BE%E5%A7%93%E7%BF%BB%E5%A2%99%E5%A4%B4/">【网络民议】只许新华挖地道 不许百姓翻墙头</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/jakobs" target="_blank">Mr_Vers</a>：只许州官放火不许百姓点灯~~~老子们推特非死不可进都进不了，它们这帮渣渣居然在上面趁机洗别人的脑~~<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
+<p><a href="http://weibo.com/ethanseduce" target="_blank">EthanDamn</a>：他们凭什么用推特而我们只能用微博<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/3120881740" target="_blank">bigbig河马</a>：推特都不能玩，我也要加入宣传部<img title="[歪果仁夏克立]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9c/bbqnxiakeli_org.gif" alt="[歪果仁夏克立]"></p>
+<p><a href="http://weibo.com/3177645454" target="_blank">寡人笑点高不可攀</a>：求新华VPN代理<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/1904590273" target="_blank">江山谁主沉浮</a>：看了评论视频就不看了，在自由世界新华社也得拼啊 <img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/3820767858" target="_blank">海上龍舌蘭TakilaHotel</a>：萱萱每年养洋五毛花销也不少<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/2103203280" target="_blank">彰显英雄本色-</a>：别独自承担宣传国家形象的大任，让我们也分担一点吧！孤军奋战不如团队的影响力大！<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
+<p><a href="http://weibo.com/3192915821" target="_blank">半颗-咖啡豆</a>：我要告你散播谣言，我查了，只有404<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/2937663383" target="_blank">生仔好痛</a>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">我们也要不翻墙就可以上推特</p>
+<p><a href="http://weibo.com/3995496457" target="_blank">章鱼情人知己</a>：新华社是怎么上推特的，求分享，我已经一个多月没翻过去了<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]">只许州官放火不许百姓点灯<img title="[打脸]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]">反动行为已举报<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>@神判法：回复@李伟_Koma: 上网需要入口接入，他们在端口单独开条线 或者 自己在美国弄个VPN服务器就行了</p>
+<p>@Scarlett-趙：做的是真的很好，然并卵外国老百姓真的一点都不关心中国老百姓过什么日子，尤其的美国人they dont care at all</p>
+<p>@反反复复红红火火恍恍惚惚：之前翻墙的时候就看到了新华的推特，但是没关注、怕是假的。现在知道原来是真的。我就想问问，他们用什么微屁嗯？稳定吗？多少钱一个月？</p>
+<p>@LHT___：不吹不黑，垃圾，有了对比之后，我真是对长者以及以前一些官员好感大增，长者虽有小坏，但是有真才实干，谈笑风生也是建立在相对开明基础上的。。。宣传哪有现在一天一个舌战，震惊。。。</p>
+<p>@旅行摄影师Yogi：习泽东是人民的大救星～</p>
+<p>@丧心病狂大脸猫：真恶心 当外国人傻啊 还能被你洗脑？整个包子天天炒作，以前涛哥和老江也不敢这么搞个人崇拜啊</p>
+<p>@很晚的风：尼玛 新华社能上推特而中国的老百姓却不行这是多大的讽刺啊</p>
+<p>@梦游的棉花：给洋大人看的果真洋气些</p>
+<p>@Joeupupup：其实就是在骂某党13和25…就是这个feel</p>
+<p><a href="http://weibo.com/1687162911" target="_blank">First同学</a>：有个现象很有趣，同样是转发这个MV的，在此微博下的热评大多是贬低和挖苦，反倒是很多留学生关注的英国红领巾微博，那下边的评论却基本都是赞扬和鼓励的<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><em><strong>附</strong>：《十三五之歌》Youtube 视频截图；有<a href="https://www.psychologytoday.com/blog/talking-apes/201510/do-you-know-about-the-shi-san-wu">博主</a>推测大象、熊和狼分别指代印度、中国和美国</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/135.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/135.png" alt="135" width="550" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8E%A8%E7%89%B9%E9%83%BD%E4%B8%8D%E8%83%BD%E7%8E%A9%EF%BC%8C%E6%88%91%E4%B9%9F%E8%A6%81%E5%8A%A0%E5%85%A5%E5%AE%A3%E4%BC%A0%E9%83%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">中国软实力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E7%8E%8B%E8%B4%BC%E6%8D%85%E5%88%80%E3%80%81%E8%83%A1%E8%B4%BC%E8%A1%A5%E5%88%80%E3%80%81%E4%B9%A0%E6%80%BB%E8%B4%9F%E4%BC%A4/" target="cdt-mirror">【习总日记】王贼捅刀、胡贼补刀、习总负伤</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，31）</p>
@@ -98,7 +139,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E5%A5%B3%E8%AE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA/?category=18271" rel="tag">藏人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">藏人示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">西藏问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%9D%9D/?category=18271" rel="tag">阿坝</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%8E%8B%E5%81%A5%E6%9E%97%E9%81%93%E7%A0%B4%E5%A4%A9%E6%9C%BA%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F%E4%B8%87%E8%BE%BE%E6%8C%81%E8%82%A1/" target="cdt-mirror">美国之音 | 王健林道破天机：习近平家族万达持股真相</a>
 </h2>
@@ -741,28 +782,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%97%A5-%E4%BD%A0%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%89%AB%E8%B4%A7%E4%BA%86%E5%90%97%EF%BC%9F/" target="cdt-mirror">端传媒 | 抗战纪念日 你去日本扫货了吗？</a>
-</h2>
-<p><p>端传媒记者 宋宁宇 发自香港</p>
-<p>特别设立的抗战胜利小长假，有多少中国人选择去日本玩？日本观光局数据告诉你答案。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8B%E5%8D%8812.13.05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8B%E5%8D%8812.13.05.png" alt="Screen Shot 2015-10-28 at 下午12.13.05" width="550" height="367"></a><br>
-（游客携带刚购买的商品横过马路。摄 : Chris Mcgrath/GETTY）</p>
-<p>日本政府观光局刚刚发布了九月最新旅游数据，与去年同期相比，9月内赴日的中国大陆游客，人数增长了接近一倍（增长99.6％），创下历史新高，达到491200人，占到访日总游客数的三成，去年同期（2014年9月）这个数字是246105人。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8B%E5%8D%8812.13.47.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-28-at-%E4%B8%8B%E5%8D%8812.13.47.png" alt="Screen Shot 2015-10-28 at 下午12.13.47" width="550" height="364"></a><br>
-（2015年9月赴日外国游客统计 图：端传媒设计部）</p>
-<p>日本政府观光局分析，今年9月3号到5号，中国大陆特别设立抗日战争胜利70周年小长假，在此期间，不少大陆民众选择前往邻近的日本度假。</p>
-<p>除了新增抗战小长假的催谷作用，日本政府观光局称，选择停靠日本港口的中国邮轮量增加也是原因之一。中国的中秋小长假与国庆长假接踵而至，以及日本在中国大陆进行的出色旅游宣传，也是旅客数在九月迎来迅猛增长的原因。</p>
-<p>日本整个九月的外国人到访数量达1612300人，比去年同期（2014年9月）增长46.7%。</p>
-<p>报告称，这与东亚地区集中迎来假期（包括韩国的中秋节国定假期）有关。除此之外，前往日本的航线增加、日本签证政策的放宽、日元贬值以及日本对旅客减免消费税等的影响，同样是访日人数创新高的重要原因。</p>
-<p>针对大批民众小长假造访日本，有大陆网民调侃，“给你三天抗日假期，不是让你去日本的”。中日关系曾陷入低谷，一度影响中国民众赴日意愿。随著两国关系有转暖迹象，虽然前景仍不明朗，但赴日游明显升温，据统计，目前日本已经成为中国大陆海外旅游最热门的目的地之一。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%97%A5-%E4%BD%A0%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%89%AB%E8%B4%A7%E4%BA%86%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E8%B4%AD%E7%89%A9/?category=18271" rel="tag">境外购物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">大陆游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A9/?category=18271" rel="tag">抗战胜利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%85%E6%B8%B8/?category=18271" rel="tag">旅游</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8/?category=18271" rel="tag">赴日旅游</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -774,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -784,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

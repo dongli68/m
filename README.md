@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%94%B5%E5%BD%B1%E6%B3%95%E5%88%9D%E5%AE%A1%EF%BC%9A%E7%AE%80%E5%8C%96%E5%89%A7%E6%9C%AC%E5%AE%A1%E6%9F%A5-%E6%97%A0%E9%BE%99%E6%A0%87%E4%B8%8D%E5%8F%82/" target="cdt-mirror">德国之声｜电影法初审：简化剧本审查 无龙标不参展</a>
+</h2>
+<p><p>全国人大初次审议了《电影产业促进法》草案，今后将取消对一般题材电影剧本的审查，提高行政审批效率。草案也明确规定未获电影公映许可证的影片不得参加电影展。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018726731_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018726731_30300.jpg" alt="0,,18726731_303,00" width="575" height=""></a><br><em>国产片《捉妖记》今年取得票房成功</em></p>
+<p>（德国之声中文网）据路透社援引官方媒体报道，中国人大对《电影产业促进法（草案）》进行了初次审议，计划简化电影剧本审查制度，旨在促进中国电影产业的进一步繁荣发展。</p>
+<p>中国电影市场有望在2017年取代美国，成为全球最大的票房市场，尽管外国大片传统上占据中国票房主导地位，但国产电影如今已经具备了越来越强的挑战实力。</p>
+<p>从今年目前的票房情况来看，国产电影占总票房的比例为六成左右。</p>
+<p>尽管如此，中国仍然难以制作出在全球电影市场具有竞争力的作品。当局希望能够通过将国产电影推向国际，从而增加中国文化”软实力”的影响范围。</p>
+<p><b>几大显著变化</b></p>
+<p>目前全国人大常委会正在进行初审的草案内容包括取消一般题材电影剧本审查，提升备案通过率。今后电影剧本将分为”一般题材””特殊题材”两类。取消一般题 材电影剧本审查，只需将电影剧本梗概予以备案；特殊题材的电影则需送国务院电影主管部门或省区市电影主管部门审查。但是究竟什么样的题材算是”特殊题 材”，目前尚未曝光相关规定细则。</p>
+<p>该草案还计划取消现行的《电影设置许可证》制度，降低市场准入门槛，放宽对社会资本进入电影产业的限制。不过，境外企业、组织和个人仍然被禁止在中国独立从事电影摄制活动。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/018116929_40100.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/018116929_40100.jpg" alt="0,,18116929_401,00" width="575" height=""></a><br><em>姜文的《一步之遥》曾在审查中经历波折差点推迟首映</em></p>
+<p>另外草案还明确规定，凡是没有获得《电影公映许可证》（俗称龙标）的影片作品，不得擅自选送到国外电影节参展。违者5年内不得从事相关电影活动。据”新浪 电影”官方微博报道，预计今后各大国际电影节也将更加重视中国参展影片是否通过了国内审查。此前娄烨、田壮壮等导演都曾因为违规送展而被禁止拍片五年。</p>
+<p>此外，打击偷瞒报票房、禁止放映插播广告、提高行政审批效率等也是该草案所包含的新内容。</p>
+<p><b>舆论反响</b></p>
+<p>中国严格的电影审查制度经常受到批评，因为任何触及政治敏感地带的作品都有可能被禁止发行，这也导致全球市场对中国国产电影的兴趣低迷。不少知名中国导演也都曾经公开炮轰电影剧本审查制度。</p>
+<p>相关草案的主要内容曝光之后，立刻引起舆论的强烈反响，在微博等社交媒体上也引发了讨论。一位网友结合日前中国十八届五中全会宣布的”全面放开二胎”政策 语带讽刺地评论道：”你该生几个孩子，你应该看什么电影，国家都帮你解决了，从此没烦恼，党和政府好贴心，心里暖暖的。”</p>
+<p>此外不少网友关注禁止无《电影公映许可证》参加电影节电影展的规定，虽然这在之前就已经是一条公认的不成文法则，但是人大这次正式将其写入了法律。一位网友感叹道：”这是坏消息！参展的电影一定要有龙标？！好电影不会再出现了！”</p>
+<p>相关草案仍然没有关于电影分级制度的内容，也有不少网友对此感到失望。”没有分级制度，注定国产片都是脑残片”，一位网友评论道。分级制度源于美国，指的 就是根据影片中涉及到的色情、暴力和粗口等内容进行分类，判定影片是否适合儿童和/或成人观看。世界上不少国家都实行这一制度，但中国始终没有引入。对此 当局的说法是，中国对电影的审查实际上是通过对电影中某些镜头的删减以达到让所有年龄观众都可以观赏的目的。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%94%B5%E5%BD%B1%E6%B3%95%E5%88%9D%E5%AE%A1%EF%BC%9A%E7%AE%80%E5%8C%96%E5%89%A7%E6%9C%AC%E5%AE%A1%E6%9F%A5-%E6%97%A0%E9%BE%99%E6%A0%87%E4%B8%8D%E5%8F%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">电影审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%90%8E%E8%8E%B7%E5%8F%96%E4%BF%9D%E9%87%8A%E6%94%BE/" target="cdt-mirror">法广｜记者刘伟央视忏悔后获取保释放</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/127160098.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/127160098.jpg" alt="127160098" width="440" height="429"></a><br>
@@ -116,7 +143,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%84%B6%E5%B9%B6%E5%8D%B5/?category=18271" rel="tag">然并卵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%88%92%E7%AB%8B/?category=18271" rel="tag">胡舒立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BD%90%E6%A1%A5%E6%A1%A5/?category=18271" rel="tag">齐桥桥</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%9170%E5%90%8E%E7%9A%84%E7%97%9B%EF%BC%9A%E4%BD%A0%E7%A1%AC%E6%97%B6%E6%94%BF%E7%AD%96%E6%AF%94%E4%BD%A0%E7%A1%AC%EF%BC%8C%E6%94%BF%E7%AD%96%E8%BD%AF/" target="cdt-mirror">【河蟹档案】70后的痛：你硬时政策比你硬，政策软时你还软</a>
 </h2>
@@ -757,25 +784,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/12%E6%B5%B7%E5%93%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8F%82%E4%B8%8E-%E8%91%97%E5%90%8D%E6%B0%91%E4%B8%BB%E4%BA%BA%E5%A3%AB%E8%83%A1%E7%9F%B3%E6%A0%B9%E8%A2%AB%E4%BB%A5%E7%85%BD%E9%A2%A0%E7%BD%AA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F/" target="cdt-mirror">参与 | 著名民主人士胡石根被以煽颠罪监视居住</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/hushigen1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/hushigen1.jpg" alt="hushigen1" width="305" height="232"></a><br>
-（参与2015年10月29日讯）</p>
-<p>参与获悉，一直毫无音讯的著名民主人士胡石根传出消息，他7月11号刑事拘留，8月7号转监视居住，涉嫌罪名煽动颠覆国家政权和寻衅滋事罪，10月28日其律师申请会见，但还无结果。</p>
-<p>胡石根简介：</p>
-<p>1954年11月14日出生，江西省南昌市人，前北京语言学院（现更名为北京语言大学）讲师，基督徒，北京基督教家庭教会圣爱团契长老，独立中文笔会关注会员，中国著名民主异议人士，中国在押良心犯。</p>
-<p>1991年1月﹐曾与王国齐秘密成立中国自由民主党，并参与康玉春等人成立的“中华进步同盟”；1991年12月﹐曾与刘京生、高玉祥等人共同成立“中国自由工会筹备委员会”；1992年4月—5月，曾因与刘京生等人计画到北京、上海、武汉等地散发传单，并利用航模直升机在天安门广场空投传单，以抗议中共六四屠杀事件和纪念六四死难者，1992年5月27日，被北京警方抓捕、刑拘；同年9月27日，被以涉嫌“组织、领导反革命集团罪”和“反革命宣传煽动罪”正式逮捕；1994年12月16日﹐被北京市中级法院以两罪名判处有期徒刑20年﹐剥夺政治权利5年；其不服上诉，单最终于1995年6月14日经北京市高级法院二审，仍被驳回上诉﹐维持原判；之后其在北京市第二监狱服刑，并一直受到二级严管，身心遭到巨大迫害，曾一度病危；2008年8月26日，因先后二次减刑，而被提前4年释放。</p>
-<p>出狱后，因其追求民主、法治、人权和信仰自由等意志弥坚，积极关注和参与全国性劳工维权事件与公民活动，并广结全国正义维权律师，又因笃信基督教而成为北京基督教家庭教会圣爱团契的传道人，遂一直备受当局的严密监控、传唤、软禁及强迫失踪等迫害；2011年，曾因支持“中国茉莉花革命”而被警方秘密关押，并遭遇警方戴黑头套、殴打和威胁等；2014年1月15日—16日，曾为北京市通州家庭教会基督徒遭警方抓捕事件而四处奔波，呼吁营救该教会的传道人徐永海等10余人；2014年5月6日，曾因参加5月3日的“六四纪念研讨会”而被北京市警方以“寻衅滋事”罪由传唤、刑拘，1个月后方得以释放；2015年7月10日，突然从家中被北京警方强行带走，自此失联，其家被抄，罪名不详。</p>
-<p>目前被秘密羁押地点不详。</p>
-<p>参与首发，转载请注明出处。（www.canyu.org）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%8F%82%E4%B8%8E-%E8%91%97%E5%90%8D%E6%B0%91%E4%B8%BB%E4%BA%BA%E5%A3%AB%E8%83%A1%E7%9F%B3%E6%A0%B9%E8%A2%AB%E4%BB%A5%E7%85%BD%E9%A2%A0%E7%BD%AA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%82%E4%B8%8E/?category=18271" rel="tag">参与</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92/?category=18271" rel="tag">基督徒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E7%9F%B3%E6%A0%B9/?category=18271" rel="tag">胡石根</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -787,7 +795,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%82%E4%B8%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -797,5 +805,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%82%E4%B8%8E
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

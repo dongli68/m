@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%90%8E%E8%8E%B7%E5%8F%96%E4%BF%9D%E9%87%8A%E6%94%BE/" target="cdt-mirror">法广｜记者刘伟央视忏悔后获取保释放</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/127160098.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/127160098.jpg" alt="127160098" width="440" height="429"></a><br>
+（图片来源：新浪微博 @京华时报）</p>
+<p>今天（10月31日），中央电视台播放了《南方都市报 》记者在警方监视下接受央视记者采访，并流泪忏悔的画面。本台记者从接近《南方都市报》的渠道得知，刘伟今天已经获得“取保候审”释放。</p>
+<p>根据此前新华社发布的未署名的公安部通稿，“为了获取王林案的办理情况，王林的情妇雷帆、前妻张七凤谋划向办案民警钟伟行贿200万元，双方达成协议。案发时，张七凤已向钟伟支付50万元“好处费”，记者刘伟为获取独家信息参与其中。</p>
+<p>根据警方的说法，王林的情人雷帆为获得王林涉嫌杀人案的侦办信息，结识并接近警方内部人钟伟，除了与钟伟发生亲密关系和金钱往来外，雷帆还说服王林前妻张某，支付巨额金钱给警察钟伟。</p>
+<p>刘伟前往萍乡采访时，雷帆将花钱找公安机关内部人员提供消息的事同时告诉刘伟，警方称，当时刘伟回复说：“好事，钱可以谈。”</p>
+<p>此外，刘伟还承认，为了获得王林案一手材料，写出独家报道，他主动联系了雷帆和张七凤并提供了一些帮助。雷帆从钟伟那里获知自己手机被监控后，希望刘伟提供身份证办理手机卡，刘伟便用同事的身份证办了两张手机卡，供雷帆和钟伟联系。</p>
+<p>根据钟伟和王林家人要求，刘伟还将自己的律师朋友侯某介绍给王林家属，替换之前担任王林辩护律师的一名本地律师。</p>
+<p>警方的说法是，在雷帆、张七凤向钟伟购买王林案件信息的“交易”中，刘伟还应雷帆请求对张七凤进行了劝说，警方没有说明这一“劝说”是何等性质。</p>
+<p>警方称，8月1日晚，雷、钟、张三人在萍乡一餐馆内见了面，并达成协议，张七凤支付200万元，分三期给钟伟，首期支付60万元，一审时支付60万元，王林出来后再付80万。</p>
+<p>随后，雷帆开车去火车站接刘伟到了餐馆，钟伟向三人透露了“王林案”中现场勘查、物证提取、嫌疑人的供述等大量核心信息。刘伟围绕核心案情向钟伟提了多个问题。</p>
+<p>刘伟被捕之前，在单位工作平台上撰写的情况说明中，记录了这次会面和他向雷帆提供身份证办理电话卡的细节。<br>
+当时，刘伟对这位警员提供的信息态度谨慎，“这个人的话，由于是单方信息源，当时又没有做记录，又与我们当时的报导角度不符，我们谨慎对待，此后也没有再写过稿子。</p>
+<p>刘伟对雷帆和张七凤行贿警员的态度是，“雷帆曾谈及过对方要钱的事情，由于我们是外人，也与采访报导无关，没有介入。”</p>
+<p>在今天上午央视播出的采访片段中，刘伟对此事表达了悔意。他说，“我为获得独家、一手的信息，把案子一直做到最好，全国领先，参与了其中，这个代价太大了。”</p>
+<p>刘伟的行为，或者游走在法律和新闻伦理边缘，但是否果真涉嫌违法犯罪，仍有疑问。</p>
+<p>刘伟的同事，南方都市报深度部主任王莹说，“从头到尾，我都没看出他的违法违在哪里，如果新闻伦理也算其中的话。我甚至认为，刘伟所以陷入今天困境，一是之前的采访有了资源累积，二是，他有如此之强烈的作为记者要拿独家的职业要求。”</p>
+<p>前记者郭宇宽认为，“刘伟案情被披露，我痛心中，有一丝感动。在整个事件中，那位王林的家人是为了捞人；那位警官图财，图色；而只有这位记者，他在边缘行走，他承受压力，他把自己从一个旁观者变成了一个参与者。”</p>
+<p>“刘伟犯了错误，也将一生承担，而他的错误只有一条，太投入了。但他这些努力，只是为了远离那些发布会的通稿，贴近第一手的信息源，把真正深度的报道奉献给社会，如果说他的私利，也只有一条，那就是为了调查记者的荣誉。”</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%90%8E%E8%8E%B7%E5%8F%96%E4%BF%9D%E9%87%8A%E6%94%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97%E6%A1%88/?category=18271" rel="tag">王林案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F/?category=18271" rel="tag">记者刘伟</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8E%A8%E7%89%B9%E9%83%BD%E4%B8%8D%E8%83%BD%E7%8E%A9%EF%BC%8C%E6%88%91%E4%B9%9F%E8%A6%81%E5%8A%A0%E5%85%A5%E5%AE%A3%E4%BC%A0%E9%83%A8/" target="cdt-mirror">【网络民议】推特都不能玩，我也要加入宣传部</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/2214257545/D1Bq58MPe">@YouTube精选</a>：【新华社在推特上发布了这个MV 向外国人介绍“十三五”】这个很多人都听说过了吧。。。虽然说歌词感觉有点羞耻——“十三五，十三五，人人都在谈论十三五。”——但是不吹不黑，歌还是挺好听的。。。新华社对内一本正经，但对外，还是挺拼的。没错，这还是复兴之路工作室的作品。</p></blockquote>
@@ -747,41 +776,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%82%E4%B8%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%80%BB%E8%BE%91%E5%AD%A6-%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E6%80%8E%E6%A0%B7%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E8%AF%BB%E8%BF%87%E4%B9%A6/" target="cdt-mirror">逻辑学 | 艾晓明：怎样告诉别人你读过书</a>
-</h2>
-<p><p>从书单来看，同龄人的阅读经验，的确浩如烟海，我不是开玩笑。这个书单比我当年上大学时批林批孔的书单，要好了几百倍了。假如这是真的，把国家交到他手里，大家还有什么不放心？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/LOCAL201404230923000278782351737.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/LOCAL201404230923000278782351737.jpg" alt="LOCAL201404230923000278782351737" width="550" height="365"></a></p>
-<p>怎样告诉别人你读过书<br>
-艾晓明</p>
-<p>有位同龄人发言中读遍世界名著，这在英美国家也许是可能的。比如《荷马史诗·伊利亚特》，在幼儿园听到的是英雄故事，上小学时读缩略本，上中学读选章，上了大学就如果文学专业课可能要求你读全本，读比较文学就甚至要求你读古希腊语了（在不同国家的语言专业要求也不一样）。我退休前给中文系学生上外国文学课的时候，建议学生读英文译本，语义的分量和中文翻译很不一样。</p>
-<p>文革中外国文学毫无疑问都是禁书，1974年我上大学时（工农兵学员）图书室里的外国文学只有前苏的革命文学例如高尔基、奥斯特洛夫斯基等。记得一位教授发配到我们那个京山分院，带了不少世界名著，趁他回城我们几个同学在他书架上偷名著看。我抱了几卷本《战争与和平》，老师十来天就回来了，我也根本没可能看完。但是那个时候，能够摸到这样的名著，已经是巨大的幸福，就像中了头彩。</p>
-<p>十六岁到农村去后有没有可能接触到世界名著呢？也有的。因为当时回城讲出身，一些成分好的知青同学都回城当工人了。留下的知青有很多是知识分子“臭老九”的子女，他们开始把父母的藏书带到乡村。感谢我的知青朋友刘晓林，从他那里我读到罗曼罗兰的《约翰·克里斯多夫》，那也是多卷本，我们是隔山涉水传递交接着看了几本。英国名著《奥列弗尔》也是那时我在灶火边读完的，因为两个人不能同时看一本书，我一边塞柴火一边读书，就有先睹为快的乐趣。雨果的《悲惨世界》和狄更斯的《艰难时世》我也是那时看的，但我不知道《悲惨世界》的故事并非只有一卷。</p>
-<p>今天我不是在英国皇室或乡村酒会，引经据典来颂扬他国文明是外交官的事。说实话，我年轻时可怜的阅读经验，置身文明教养深厚的人群，无地自容。提起旧事只是想说，文革期间禁书并非不可得。有微信传，莎士比亚作品迟至1978年才出版，不是这样的。别忘了，中国文学家遭遇政治重创后，大量转向了翻译界。</p>
-<p>还记得王小波的文章吗？在《我的师承》中他写道：</p>
-<p>我们年轻时都知道，想要读好文字就要去读译著，因为最好的作者在搞翻译。这是我们的不传之秘。</p>
-<p>同文中他还说：我觉得我们国家的文学次序是彻底颠倒了的：末流的作品有一流的名声，一流的作品却默默无闻。最让人痛心的是，最好的作品并没有写出来。这些作品理应由查良铮先生、王道乾先生在壮年时写出来的，现在成了巴比伦的空中花园了……</p>
-<p>王小波青少年时代读了查良铮、王道乾、傅雷、汝龙，王小波的兄长王小平在回忆中补充了安徒生、马克吐温；还有现在读者不再沉迷的武侠小说家金庸、温瑞安。假如王小波成为国家领导者出访书，他会不会说到，当年我读武侠，</p>
-<p>“就像十世饿鬼看见佳肴”，并且还自创功法“将一手弯曲如勺，将气从胸前舀起，在空中把气倒出，以另一手为勺以接之。如是反复倾接”……</p>
-<p>禁书年代的阅读堪称遭遇奇特，如精神病人隔着铁窗栅栏看桃花嘚瑟。有一天我与小记者思乐分享手机视频：文革时山东大学的年轻人狂跳“大海航行靠舵手”。她笑，我笑出眼泪。我说你总问文革经验对今天的我有何影响，看看这胳膊一个弯一个直的弓箭步；现在我堪称一个平常人（不是疯子或者神经病），就该谢天谢地了。我容易吗我？</p>
-<p>王小波的阅读说明了禁书未必不可得；再一个，不容遗忘的是，一部当代翻译文学史，多少惨遭毁灭的文学大师以此寄托哀思。</p>
-<p>那时有没有莎士比亚（别想歪了），有的。有关朱生豪的莎剧翻译，在网上可以查到很多资料，一位比较文学学者“乐其可知也的博客”中有详细说明：</p>
-<p>朱生豪的31个莎士比亚戏剧翻译是现代中国一个不可忽视的翻译成就。朱生豪的翻译主要是在1942-1944年间完成的，主要依据牛津版莎士比亚全集[1]。1944年12月朱生豪去世时仅完成31种戏剧的翻译，以及未完的《亨利五世》译稿。1947年上海世界书局出版朱生豪翻译《莎士比亚戏剧全集》27种。1954年作家出版社出版朱生豪翻译《莎士比亚全集》31种。1955年台湾世界书局出版朱生豪翻译、虞尔昌补译《莎士比亚全集》（5卷本）。1978年人民文学出版社出版朱生豪翻译、吴兴华等校订、梁宗岱等补译《莎士比亚全集》（11卷本）。1998年译林出版社出版裘克安等修订、辜正坤等补译《莎士比亚全集》（8卷本）。虞尔昌补译本和梁实秋全集译本（1967-68年台湾远东图书公司出版《莎士比亚全集》）在大陆中国的隔离，可以说，50余年间（1947-98）朱生豪的译本被多家出版社不断刊行重印，其声誉也因此被高频重复和强调，并赢得了几代读者的喜爱和推崇（例如黄雨石），由此确立了朱生豪译本丰碑式的地位。</p>
-<p>1944年之前，莎士比亚的翻译已经取得一些不可忽视的成果[2]，朱生豪显然熟知这些早期译本，朱生豪《莎士比亚戏剧全集》“译者自序”（1944.4）写道：“中国读者闻莎翁大名已久，文坛知名之士，亦尝将其作品，译出多种，然历观坊间各译本，失之于粗疏草率者尚少，失之于拘泥生硬者实繁有徒。拘泥字句之结果，不仅原作神味，荡焉无存，甚且艰深晦涩，有若天书，令人不能卒读，此则译者之过，莎翁不能任其人不能卒读，此则译者之过，莎翁不能任其咎者也。”</p>
-<p>朱生豪翻译《莎士比亚全集》，民国时代的版本在过去老大学的图书馆是有收藏的，新版本31种也在1954年面世。1970代如果要读莎士比亚，可以来自后面这个版本。但也需要一些前提条件，你的密友中有这类藏书人，家世注定不凡，这个敢于藏书并携往乡间者，当如王小波感叹杜拉斯之《情人》的第一段：“无限沧桑尽在其中”！而那个年代又能进入到与中国的政治厮杀绝然不同的精神世界，需要何等叛逆的胆识，激发了对当时的乌托邦何等的审判与决裂？去读徐晓的《半生为人》，或者请教徐友渔、崔卫平教授吧。如果研究七十年代末民间自由主义思潮的兴起，那通向民主墙的思考一定可以追溯到叛逆性的阅读这条暗河。奇怪的是，在这些自由派著名知识分子的朋友圈里，怎么没有当代一位最伟大的同龄人。</p>
-<p>王小波读了他说的那些经典，至今无人质疑。他写的《我的师承》一文，我读过很多遍。它像“乌兰巴托的夜”那首歌一样，让你对自己说，不许掉眼泪。他引用的诗行，那雍容华贵之美或永难忘记的韵律，连同他对之深怀不露的爱恋，本身就是诗品。一直到他完成了黄钟大吕般的《青铜时代》系列，他才说：“我终于有了勇气来谈谈我文学上的师承”。这勇气什么意思，是敬畏，是敬业，用今天的流行语是跪了。这态度在中国当代作家中罕见。王小波将翻译文学和近代创作区别开来，以此评价中国语言文学的水准，并将文学家和翻译家的政治命运与之联系，这是对当代文学命运的远见卓识。他一个人说出的判断，与为君王拟稿的所谓当代文学“浩如烟海”、“灿若晨星”相比，真是天壤之别。</p>
-<p>从书单来看，同龄人的阅读经验，的确浩如烟海，我不是开玩笑。假如这是真的，把国家交到他手里，大家还有什么不放心？试想如果王小波是文化部长，岂不是人人得以大闹天宫？前捷克总统哈维尔曾是戏剧作家，英国首相丘吉尔得过诺贝尔文学奖，法国总统密特朗有“欧洲最有文学修养的国家元首”之美誉……眼下这样的桂冠眼看就到了中国，为什么人们不庆幸？</p>
-<p>我用另一个例子来说吧，我们中山大学中文系有一个写作训练程序。新生一年级写一百篇笔记，二年级八篇书评，三年级学年论文，四年级学位论文。学生刚从高中毕业进校，说老师啊一百篇哪里写得出。于是连编带抄，包括星期一食堂卖什么菜，我喝了一瓶可乐。星期二食堂又卖了什么菜，我又喝了一瓶可乐……诸如此类。我给他们的题目是写自己的阅读经历，你来上大学的，又不是将来出去送盒饭，你不写读书对得起爹妈交的学费？这样学生开始入门，不过刚开始写的也是报书单：小学我读了《白雪公主和七个小矮人》，中学读了琼瑶这学期我读了《简爱》、《傲慢与偏见》、《呼啸山庄》（男生另有所爱）……这样的作文通常我打回去零分也不给。搞啥呢，中文系是这样混的吗？</p>
-<p>就写到这里吧，其实我们也要充分肯定，同龄人的书单开了那么多，和大学新生的水准也有一比嘛。不是另有读者开始条分理析，潘恩怎么讲，政府权力如何限制等等吗？我不是学习小组的，但也要说，这个书单比我当年上大学时批林批孔的书单，要好了几百倍了。剩下的，用王小波《我的师承》的话来说：“剩下的事只是学习”。不学怎么办？脱裤子——</p>
-<p>有时我也写点不负责任的粗糙文字，以后重读时，惭愧得无地自容，真想自己脱了裤子请道乾先生打我两棍。孟子曾说，无耻之耻，无耻矣。现在我在文学上是个有廉耻的人，都是多亏了这些先生的教诲。对我来说，他们的作品是比鞭子还有力量的鞭策。提醒现在的年轻人，记住他们的名字，读他们译的书，是我的责任。</p>
-<p>2015年10月25日</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%80%BB%E8%BE%91%E5%AD%A6-%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E6%80%8E%E6%A0%B7%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E8%AF%BB%E8%BF%87%E4%B9%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B0%8F%E6%B3%A2/?category=18271" rel="tag">王小波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E9%9D%92/?category=18271" rel="tag">知青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%99%93%E6%98%8E/?category=18271" rel="tag">艾晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%BB%E8%BE%91%E5%AD%A6/?category=18271" rel="tag">逻辑学</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -793,7 +787,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +797,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

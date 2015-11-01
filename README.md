@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/" target="cdt-mirror">【习总日记】 温家宝给十八届五中全会的贺信</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，11，1）</p>
+<p>10月26日第一天，在政治局范围召开的讨论政治局人事变动方案和中央军委人事变动方案上，各派人马攻防激烈，互不相让严重对立。整个下午长达四个小时的闭门会议无法达成共识。只得第二天再战。</p>
+<p>我非常气愤，脸色铁青。但没有用。他们似乎已经习惯了。没想到第二天他们抛出了杀手锏，老同志对五中全会的祝贺信。</p>
+<p>温家宝的祝贺信：</p>
+<p>热烈祝贺党的第十八届五中全会在以习近平为总书记的党中央英明领导下顺利召开。我深信在各位中央委员的共同努力下，在政治局的领导下，中国共产党的未来，中国的未来，一定是美好的。中华民族复兴指日可待，中国梦一定会早日实现。</p>
+<p>本着发扬党的优良传统党内民主之精神，借五中全会召开之际，对十八大以来的党的路线政策方针和其他方面，谈谈我的个人看法。一位共产党员，前政治局委员政治局常委，公开向党谈一些个人看法，不会算是妄议吧。</p>
+<p>近三年的反腐整党，成绩是主要的，效果是显著的，前途是美好的。社会风气得到改善，国际地位有所提高，廉政建设得到加强。但问题也很大，尤其是罔顾时代因素，僵化看问题，一些话说得很难听，好像党和国家领导人故意纵容包庇家属子女受贿索贿违法乱纪。</p>
+<p>对照党纪国法，当年深圳改革开放过程都是先违纪违法干起来，然后总结经验向上汇报，党中央邓小平摸脑袋拍板决定继续还是停止或者调整，不会给开创者扣帽子打棍子更不会逮捕坐牢。如果一定要扣字眼定罪的话，光凭文革毛主席炮打司令部的大字报，就足以定毛主席反党叛国罪了。谁的司令部？共产党的司令部啊。一大批无产阶级革命家组成的司令部。事实已经证明炮打是错的，是反党反社会主义的，给党和国家还有人民带来了深重的灾难。可是我党为何还是要高举毛主席旗帜坚持毛泽东思想？还不是历史局限嘛。当年毛主席不可能认识到他自己的错误。现在三岁小孩都知道。这就是历史局限性。</p>
+<p>同样，党和国家高级领导人家属子女参股经商，也是历史局限性。现在我们都知道是错误的，不应该。可当时谁知道？</p>
+<p>其实领导干部家属参股经商可以视作改革开放政策下的一种勇敢尝试，对发展经济是有推动作用的。就好比中国第一次发行股票老百姓怕吃亏不敢买。那个时候共产党员就挺身而出，甘愿为国家利益牺牲自己掏钱买股票。随习近平总书记出访的那些企业家，是怎么做大做强的？如果背后没有高级领导干部家属的支持能发展得这么快？如果都从手工业者开始，花几年时间慢慢捣鼓成小业主雇几个伙计，再积累点资金成立小型私营企业，过五年十年再长大成中型私企。照这样子发展，西方发达国家工业化一、二百年的路程，我们按图索骥照走一遍的话，能有今天的经济总量世界第二吗？</p>
+<p>有了高级领导干部家属子女参与支持就不一样了。今天搭上关系明天就能从银行贷款，一下子缩短五十年原始资金积累过程。有了资金要地皮，还是由党高级干部家属子女出面拿地皮。便宜地皮到手盖房子，盖完房子按市场价出售，几年多次捣腾，几个亿几十亿转眼就来，成为世界500强像玩一样。</p>
+<p>有了这些官商合作的企业家，三十年之内中国经济才得以腾飞，达世界第二。飞鸟尽良弓藏，狡兔死走狗烹。要不得啊！</p>
+<p>对于一些贪腐案件，我个人意见是：领导不知情不问罪。家属子女经商钱权交易可以停可以退也不宜问罪。划红线既往不咎。党内团结天下太平，何乐而不为？</p>
+<p>共产党员温家宝<br>
+2015年9月1日</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D/?category=18271" rel="tag">温家宝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96%E5%BC%80%E6%94%BE%E4%BA%86%E8%B0%81%E7%9A%84%E5%AD%90%E5%AE%AB%EF%BC%8C%E5%85%B3%E9%97%AD%E4%BA%86%E8%B0%81%E7%9A%84%E6%9C%AA%E6%9D%A5%EF%BC%9F/" target="cdt-mirror">香港独立媒体 | “二胎”政策开放了谁的子宫，关闭了谁的未来？</a>
 </h2>
 <p><p>作者：甄鉴</p>
@@ -713,34 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%BB%93%E6%9D%9F30%E5%A4%9A%E5%B9%B4%E7%9A%84%E4%B8%80%E8%83%8E%E6%94%BF%E7%AD%96/" target="cdt-mirror">BBC | 中国正式宣布结束30多年的一胎政策</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/10/151029110408_china__babies__640x360_afp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/151029110408_china__babies__640x360_afp.jpg" alt="中国严厉的计划生育政策被认为导致人口老化的一个因素" width="600" height="337"></a><p>中国严厉的计划生育政策被认为导致人口老化的一个因素</p></div>
-<p><strong>刚刚结束的中共十八届五中全会决定，将全面实施一对夫妇可生育两个孩子政策，并积极开展应对人口老龄化行动。</strong></p>
-<p>中国官方媒体发表的公告非常简短，同时还表示，将坚持计划生育的基本国策，完善人口发展战略，</p>
-<p>伦敦大学亚非学院中国研究中心副主任刘捷玉对BBC中文网表示，中国官方的这一宣布是意料中事。</p>
-<p>但她也认为，一胎政策取消得有点晚了，因为在此之前，中国官方已经开放本身均是独生子女的父母可以生第二胎，但只有5%至10%的人这样做。因此，她质疑现在才全面开放二胎政策，取得的实际成效会有多大。</p>
-<p>刘捷玉还补充说，新的政策主要是针对城市人口，因为近年来农村人口已经实际上不受一胎政策的限制，故此新政策的影响范围也相对有限。</p>
-<p>而美国威斯康星大学研究员、《大国空巢》一书作者易富贤在接受BBC中文网电话采访时表示，有关的宣布是一个伟大的进步，因为这标志着已经实行了30多年的恶政将退出历史舞台。</p>
-<p>但他同时指出，中国政府迈出的步伐还不够，还应该全面废除计划生育政策。</p>
-<p><strong>“十三五”规划</strong></p>
-<p>十八届五中全会还通过了《中共中央关于制定国民经济和社会发展第十三个五年规划的建议》。</p>
-<p>报道说，会议还决定递补中央委员会候补委员刘晓凯、陈志荣、金振吉为中央委员会委员。</p>
-<p>全会审议并通过了中共中央纪律检查委员会关于令计划、周本顺、杨栋梁、朱明国、王敏、陈川平、仇和、杨卫泽、潘逸阳、余远辉严重违纪问题的审查报 告，确认中央政治局之前作出的给予令计划、周本顺、杨栋梁、朱明国、王敏、陈川平、仇和、杨卫泽、潘逸阳、余远辉开除党籍的处分。</p>
-<p>早些时候，《人民日报》在社交媒体上透露了 “十三五”规划的十个任务目标：</p>
-<p>1、保持经济增长，2、转变经济发展方式，3、调整优化产业结构，4、推动创新驱动发展，5、加快农业现代化步伐，6、改 革体制机制，7、推动协调发展，8、加强生态文明建设，9、保障和改善民生，10、推进扶贫开发。其中加强生态文明建设是首度写入五年规划。</p>
-<p>中国通常通过政府制订的五年计划确定经济议程，下一个五年计划从2016年一直持续到2020年，将于明年3月得到中国立法机构全国人民代表大会的正式批准。但在提交全国人大之前，党的领导人必须批准主要事项。</p>
-<p>在近期一系列表态中，中国政府已陆续明确，新五年计划的重点是继续转变增长模式，将经济增长从依赖投资和出口，转向消费主导型增长模式。</p>
-<p>中国的官方统计数据显示，今年第三季度经济增长下滑至6.9%，这是自2009年全球金融危机最严重时期以来的最低点。</p>
-<p>但中国总理李克强随后在五中全会前表示，不会“死守”7%的年度增长目标。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%BB%93%E6%9D%9F30%E5%A4%9A%E5%B9%B4%E7%9A%84%E4%B8%80%E8%83%8E%E6%94%BF%E7%AD%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E%E5%88%B6/?category=18271" rel="tag">一胎制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E%E5%8C%96/?category=18271" rel="tag">一胎化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E5%8D%81%E4%B8%89%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92/?category=18271" rel="tag">第十三个五年规划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F/?category=18271" rel="tag">计生</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -752,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -762,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

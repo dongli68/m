@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%B0%B1%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E8%AF%B4%E4%B8%A4%E5%8F%A5/" target="cdt-mirror">羽戈：就放开二孩说两句</a>
+</h2>
+<p><p><em>【编者注】作者微信原文已被和谐。</em></p>
+<p>懶得作文，整理微信。也許還有後續。</p>
+<p>【一】放開二孩，生三孩違法，可知此舉不是返還生育權，而是繼續制造與榨取人口紅利。人依舊是計劃政治之下的工具。</p>
+<p>【二】計劃經濟只是表象，計劃政治才是實質。計劃政治的特色之一即計劃生育。人被當作生殖機器，幾時少生，幾時多生，幾時限制生育，幾時鼓勵生育，甚至被強迫生育，皆取決于政治需要。人不是政治的動物，而是政治的産物。</p>
+<p>【三】政府損失了部分社會撫養費，卻轉嫁了部分養老責任。善于與民爭利的政府，從不做虧本生意。</p>
+<p>【四】2012年，我曾談及四點政治預期，如今前兩點已經實現：廢除勞教、架空計生。請注意，我的措辭是“架空”，而非“廢除”。有些樂觀者認爲，放開二孩之後，下一步就是廢除計生。然而這一步將極其漫長。因爲計生的立意，不僅是控制生育權與人口，更在于控制人身。這是計劃政治的標配，恐怕要與整個政治體制共存亡。說到底，廢除勞教，替代品好找，廢除計生，替代品難尋。</p>
+<p>（注：2012年底，一幫闊人宣揚新政，我表示對未來五年，只有四點預期：廢除勞教、架空計生、戶籍改革與教育平權。其余如司法獨立、官員財産公示等，都是奢談。）</p>
+<p>【五】放開二孩自然有其意義，不可否認，卻也不必高估。我能接受段子手的狂歡，卻無法認同“曆史之變、命運之變”式的歡呼。只要人被視爲生殖機器，那麽這個國家就是一個養殖場。養殖場中，生育指標的發放與落實，可以改變夥食，難以改變命運。</p>
+<p>【六】“生于政策，死于政策”。計劃生育，害苦了一代人，害死了一代人。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%B0%B1%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E8%AF%B4%E4%B8%A4%E5%8F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E5%AD%A9/?category=18271" rel="tag">全面开放二孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2%E6%9D%83/?category=18271" rel="tag">生育权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2-%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E4%BB%AC%E5%AF%B9%E6%99%AE%E9%81%8D%E6%94%BE%E5%BC%80%E4%BA%8C%E8%83%8E%E7%9A%84%E4%B8%8D%E5%90%8C/" target="cdt-mirror">唐映红 ：如何看待人们对普遍放开“二胎”的不同反应？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/640.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/640.jpg" alt="640" width="550" height=""></a><br><em>原标题：心理学问答：如何看待人们对普遍放开“二胎”的不同反应？</em></p>
+<p>Q&A151030</p>
+<p><strong>问：如何看待人们对普遍放开“二胎”的不同反应？</strong></p>
+<p>答：<strong>随着垄断权力集团普遍放开“二胎”政策的出台，不同的人群有着截然不同的反应</strong>。有网络段子概括不同年龄阶层的反应：“<strong>60后遗憾，70后纠结，80后犹豫，90后观望，00后维权</strong>”，这则段子很形象地概括了不同年龄阶层的反应，在微信和微博上也得到热传。</p>
+<p>从心理学角度，这则反映不同年龄阶层民众对垄断权力集团新政策不同反应的段子首先显示了<strong>这条政策并没有如预期那样得到民众的普遍拥护和热烈的欢迎。</strong>之所以会出现这样的现象，就在于这条政策的出台<strong>并非民意的反映，也没有民意的参与。</strong>整个政策出台完全是垄断权力集团的精英们闭门决策出来的，其决策逻辑仍然是将民众视为满足执政的垄断权力集团目标或利益诉求的资源和工具，而非享有权利的平等的人。<strong>当社会老龄化迫在眉睫，权力集团当年承诺的社会养老濒临全面破产之际；当靠“低人权人口红利”维系的经济发展模式走到尽头，劳动力人口无法继续为GDP增速提供支持之际出台“二胎”政策，其目的显然是为了能继续“维稳”，继续“活水养鱼”，而并非从善如流，遵从民意。</strong></p>
+<p>如果垄断权力集团能以民意为依据，那么<strong>至少10年前就应该调整政策</strong>，使60后能够有机会选择，使70后能从容应对，使80后能提早规划；使90后不再孤独。或者<strong>现在彻底废止计划生育政策，并对遭受戕害的无辜民众给予国家赔偿。</strong>一项长期无视民意，漠视民众基本权利，在错失掉最佳的政策调整期10年后才匆促出台调整政策，<strong>使各年龄层民众措手不及，也普遍缺乏生养二胎的心理和经济条件。</strong></p>
+<p>其次，正如张雪忠老师所说，“<strong>在各种社会政策致使人们普遍养不起两个孩子之后，当局终于推出了普遍的两胎政策。</strong>”近10多年来的各项社会政策，无论畸形的房价；资源匮乏、费用高企的教育和医疗；定期收割的股市；失控的食品和环境；举世罕见的税负等等，无不将民间财富榨取殆尽。<strong>普遍的“二胎”政策出台后，受益的更可能是社会经济阶层分布两端的人群，高阶层的富人和社会底层的穷人。</strong>前者早就可以通过各种方式将孩子生在文明国家，现在更是可以从容地生养而无经济之虞；后者本来就一直是“超生”罚款的对象，而现在可以不再顾虑罚款。而构成社会中坚的中间阶层，城市白领、基层公务员、事业单位员工等，之前既无法像富人那样有出国超生的条件，也无法像底层穷人那样有躲着生的心态；<strong>现在生养一个孩子已经捉襟见肘，再生养一个，不啻是雪上加霜。</strong></p>
+<p>再者，当自然环境和社会环境已经分别被近10多年急功近利的经济政策和社会政策破坏得令人绝望的时候，<strong>越来越多的父母为孩子未来成长和生活的环境忧心忡忡</strong>。城市丁克家庭也逐渐成为一种亚文化，80后、90后人群中对传统的生养观（“养儿防老”之类）无动于衷，越来越<strong>不愿意因为生养孩子而影响自己喜欢的生活方式，降低生活质量。</strong>随着经济和城市化的发展，本来就会带来一代比一代生育意愿更低的现象，加上已经严重恶化的自然环境（如雾霾）和社会环境（如老人讹诈），<strong>普遍的“二胎”政策对丁克家庭，或者希望维持高品质和更加自由生活的80后、90后来说，就像摆地摊卖伪劣货品的商家，在沃尔玛门前吆喝“买一送一”。</strong></p>
+<p>同时，随着社会民众权利意识觉醒和不断提高，基于维持而没有废止计划生育政策的背景下，普遍放开“二胎”已经不能令越来越多的民众满意。<strong>在一次又一次丧失公信力之后，垄断权力集团的任何政策都可能陷入所谓的“塔西佗陷阱”（Tacitus Trap），令越来越多的民众不信任和不满。</strong></p>
+<p>概而言之，普遍放开“二胎”政策之所以会令“<strong>60后遗憾，70后纠结，80后犹豫，90后观望，00后维权</strong>”，没有出现预期的普遍的拥护和热烈的欢迎，其原因就在于<strong>现时代普遍的社会心理已经不满足于垄断权力集团任性的“恩赐</strong>”；其政策本身也<strong>错失掉真正有利于60后、70后民众的最佳调整期</strong>，现时代出台更像一块“鸡肋”；社会普遍的经济状况以及对未来的经济预期也使<strong>大多数社会中坚阶层家庭缺乏生养第二个孩子的经济和心理条件</strong>；同时随着经济和城市化发展，一代比一代更缺乏生育意愿，这就使<strong>80后、90后人群对新政策更可能无动于衷</strong>。</p>
+<p>2015-10-30</p>
+<p>——————————————–</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/0wibfwsNxo7qqFvic0SMeD8zBicBpu7s4V78N6CNfXm3vhWUwEab7vcwGGe8n6jBYt9Jcn3JLTqIuneOiaVxTNqAJw/640?wxfrom=5&wx_lazy=1" alt="" width="320" height="322" data-src="http://mmbiz.qpic.cn/mmbiz/0wibfwsNxo7qqFvic0SMeD8zBicBpu7s4V78N6CNfXm3vhWUwEab7vcwGGe8n6jBYt9Jcn3JLTqIuneOiaVxTNqAJw/0" data-w="427" data-ratio="1.0070257611241218" data-s="300,640"></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2-%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E4%BB%AC%E5%AF%B9%E6%99%AE%E9%81%8D%E6%94%BE%E5%BC%80%E4%BA%8C%E8%83%8E%E7%9A%84%E4%B8%8D%E5%90%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E7%BA%A2%E5%88%A9/?category=18271" rel="tag">人口红利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E8%80%81%E9%BE%84%E5%8C%96/?category=18271" rel="tag">人口老龄化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">养老制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%89%E4%BB%B7%E5%8A%B3%E5%8A%A8%E5%8A%9B/?category=18271" rel="tag">廉价劳动力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%81%E4%B8%89%E4%BA%94%E7%BA%B2%E8%A6%81%E8%B5%B7%E8%8D%89%E5%B0%8F%E7%BB%84%E6%88%90%E7%AB%8B-%E8%B4%AB%E5%9B%B0%E5%8E%BF%E4%BA%94/" target="cdt-mirror">自由亚洲｜“十三五”纲要起草小组成立 贫困县五年脱贫受质疑</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/image.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/image.jpg" alt="农民工涌入城市打工的现象在中国仍然持续。（AFP）" width="575" height=""></a><p>农民工涌入城市打工的现象在中国仍然持续。（AFP）</p></div>
@@ -651,83 +693,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%BA%BA%E6%8B%92%E7%BB%9D%E5%A4%9A%E7%94%9F-%E5%85%A8%E6%9D%91%E4%BA%BA%E5%B7%A5%E6%8E%88%E7%B2%BE/" target="cdt-mirror">【网络民议】“一人拒绝多生 全村人工授精”</a>
-</h2>
-<p><p><strong>新闻背景：</strong><br>
-中共十八届五中全会决定，<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%BB%93%E6%9D%9F30%E5%A4%9A%E5%B9%B4%E7%9A%84%E4%B8%80%E8%83%8E%E6%94%BF%E7%AD%96/">结束实行30多年的独生子女政策</a>，允许一对夫妇生育两个孩子。新浪微博上#全面二孩放开#已登上实时热搜榜。目前，网友们分成了几派：</p>
-<p>一些人表示，现在生活成本这么高，即使国家让生第二胎，自己也不想生：</p>
-<blockquote><p><a href="http://weibo.com/u/3496588740">卖女孩的小火柴lalalala</a>：你们有考虑过孩纸的感受么？你们有考虑过地球的感受么？现在人口还不够多么？那为什么那么多人没有工作，来，你先把这件事给我解释一下，先解决工作的事，得先有钱了才能顾的上家呀，啥啥都没有，一家四五六七口人天天喝西北风啊，不要让人觉得虽然生活在城市可还不如80年代的社会~</p>
-<p><a href="http://weibo.com/u/1902068250">安吉拉胖</a>：当初计划生育坑了多少家庭 制造了多少失独老人 意外怀孕也强行打掉。现在你需要人劳动了，需要人交税了，又想起来让人家多生了。就中国这房价物价学费生活费，生你麻痹</p>
-<p><a href="http://weibo.com/u/2238337867">头上长花的少女girl</a>：然而……想生的依然生，不想生的依然不生。政策啥的，对超生游击队根本无用[doge]也不能改变丁克不想生的心[doge]</p>
-<p><a href="http://weibo.com/u/5184753175">顾小白young</a>：羊月薪5000元，打算用20万建窝，但狼说私建违章，只能向狐狸买。狐狸用20万孝敬狼取得开发权，再用50万向狼买地。然后花10万把窝盖好，向羊要价200万。熊借200万给羊，连本带利350万20年还清。狼、熊、狐狸都挣钱，只有羊亏，连崽也不敢生了。狼觉得这样下去大家没肉吃，于是宣布羊可以再生一个。</p></blockquote>
-<p>有网友则表示，以前只让生一胎，一定程度上增强了女性的职场竞争力。现在开放二胎了，生育权究竟属于女人自己，还是属于政府和婆家？</p>
-<blockquote><p><a href="http://weibo.com/u/1821804021?topnav=1&wvr=6&topsug=1">墨自在</a>：要放开二胎能不能先完善女性这方面的权益？这政策仿佛生娃和最该有决策权的女性没有利益关系一样？生育成本又谁承担？职场女性又赶回家带孩子？中国本来就亲友压力大管的宽他们能否按照女性意愿选择生育？女性就业企业谁愿意为员工生育买单？还有本来就在我国严重的重男轻女二胎后是否加速抬头？怎么说</p>
-<p><a href="http://weibo.com/u/3123191951">马建国的小媳妇儿nn</a>：女性就业形势岂不是更加严峻。</p>
-<p><a href="http://weibo.com/u/2638246003?topnav=1&wvr=6&topsug=1">矮脖子鹿</a>：媳妇们，要准备好婆婆们的唠叨了</p></blockquote>
-<p>也有人吐槽自己出生时赶上了独生子女政策，父母想生二胎还要丢公职。现在自己到了结婚生子的年纪又开放了二胎，以后将面临抚养两个孩子，再赡养四到八个老人的境地：</p>
-<blockquote><p><a href="http://weibo.com/u/3092339471">ATH_小世界</a>：看到这个话题，想起当初妈妈生了弟弟被熟人举报，计生人员连夜来我家吵，我们吓得哭，父母丢了稳定的工作又被罚款，那是艰难的时期。后来爸妈辛苦做生意，生活条件比之前反而更好。跟我相差三岁的弟弟现在高大有担当又体贴。妈妈说，他的到来本是意外，但是却是福音[心]</p>
-<p><a href="http://weibo.com/u/2250630345">Freedom-Girls</a>：在自己出生的年代遇到史上最严计划生育政策，在自己生育的年纪却遇到全面放开二胎 真是造化弄人</p>
-<p><a href="http://weibo.com/612387859">胡博杨MZG</a>：<br>
-政策本身有选择与不选择的权利。既然现在推出来，只是对于过去那些被罚钱的穷人来说不太公平。只是对于现在人口膨胀的年代，对孩子不太有利。只是对于未来贫富差距越大的年代，对于我们，压力太大…</p>
-<p><a href="http://weibo.com/u/2928137217">Maggie酱酱酱酱</a>：全面二孩放开了，80后成为了唯一一代独生子女。承受着最大的养老压力。他们最害怕孤单，却不得不孤独；最渴望交流却也最缺乏交流。如今这样的一代人，又要顶着独立晚成功晚的压力面对家庭和社会对于孩子的期望…何其愁苦…</p>
-<p><a href="http://weibo.com/u/2728749874">朴重烈</a>：80后真是奇葩的一代，自己出生的时候，突然就独苗了，没有兄弟姐妹，打架都没人帮忙。读书赶上扩招，大学毕业不包分配了。好不容易找个工作，谈个对象准备结婚买房了，赶上市场经济高潮，房价已经站上珠峰了。好容易把婚结了安了家，又鼓励多生孩子。两个80后，养着四个老人，再养两个孩子…人间炼狱么</p></blockquote>
-<p>还有网友干脆设计起了新时代农村计生标语：</p>
-<blockquote><p><a href="http://weibo.com/u/2090675067">紫芸文摘</a>：10年后的计生标语，信不信由你，我反正信了！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7c9d2b7bgw1ewkadfqv98j20b4083dgg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7c9d2b7bgw1ewkadfqv98j20b4083dgg.jpg" alt="7c9d2b7bgw1ewkadfqv98j20b4083dgg" width="400" height="291"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8A%E5%8D%8810.48.25.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8A%E5%8D%8810.48.25.png" alt="Screen Shot 2015-10-29 at 上午10.48.25" width="462" height="474"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7c9d2b7bgw1ewkad98nakj20b407mt9d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7c9d2b7bgw1ewkad98nakj20b407mt9d.jpg" alt="7c9d2b7bgw1ewkad98nakj20b407mt9d" width="400" height="274"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7c9d2b7bgw1ewkad6lf8oj20dw09pabe.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7c9d2b7bgw1ewkad6lf8oj20dw09pabe.jpg" alt="7c9d2b7bgw1ewkad6lf8oj20dw09pabe" width="500" height="349"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7c9d2b7bgw1ewkade03dgj20b407nmxw.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7c9d2b7bgw1ewkade03dgj20b407nmxw.jpg" alt="7c9d2b7bgw1ewkade03dgj20b407nmxw" width="400" height="275"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8A%E5%8D%8810.47.50.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8A%E5%8D%8810.47.50.png" alt="Screen Shot 2015-10-29 at 上午10.47.50" width="423" height="450"></a></p></blockquote>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%BA%BA%E6%8B%92%E7%BB%9D%E5%A4%9A%E7%94%9F-%E5%85%A8%E6%9D%91%E4%BA%BA%E5%B7%A5%E6%8E%88%E7%B2%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E9%9B%B6%E5%90%8E/?category=18271" rel="tag">九零后</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">全面开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E9%9B%B6%E5%90%8E/?category=18271" rel="tag">八零后</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%A5%B3%E6%AF%94%E4%BE%8B/?category=18271" rel="tag">男女比例</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E5%85%A8%E9%9D%A2%E4%BA%8C%E5%AD%A9%E5%90%8E%EF%BC%8C%E5%A5%B3%E4%BA%BA%E4%BC%9A%E4%BB%8E%E5%BC%BA%E5%88%B6%E4%B8%8D%E7%94%9F%E5%8F%98%E6%88%90%E8%A2%AB/" target="cdt-mirror">女权之声 | 全面二孩后，女人会从强制不生变成被强制生吗</a>
-</h2>
-<p><p>作者：吕频</p>
-<p>今天，新华社一则寥寥数字的消息瞬间刷了屏。刚闭幕的中共十八届五中全会决定：全面实施一对夫妇可生育两个孩子政策，积极开展应对人口老龄化行动。这是继2013年十八届三中全会启动“单独二孩”政策之后的又一次人口政策调整。</p>
-<p>生育政策最大的利益相关者是女性。在诸多开放生育呼声的同时，许多女性表达了她们对于“全面二孩”的强烈担忧：家庭中从未断绝的性别歧视和重男轻女会因此重新抬头吗？职场性别歧视会因此加剧吗？有没有可能结果是，决定生育的权力从国家父权转移到家庭父权，妇女从被强制不生育变成被强制生育？</p>
-<p>女声网主编吕频评论道：人口政策不是只有放开VS不放这简单两极。我们绝对同意终结由国家限制生育数量的强制性的计划生育，尤其是强制检查、节育、堕胎这些深重的由国家行使的对妇女暴力。这是基本人权问题，放开二胎都不够。但我们要得更多：综合性的支持性的政策，让女性在家享有充分生育自主权，在职场不因生育受“惩罚”。</p>
-<p>开放“单独二胎”的政策引起了很多讨论，主张取消计划生育者，大概或肯定这是有限进步，或担心这是在用微调拖延彻底取消。另一方面，在互联网上，一些（看起来有女权倾向的）年轻女性却对计划生育政策松动的趋势表现出强烈的担忧……</p>
-<p><strong>女权者支持强制计划生育，这是真的吗</strong></p>
-<p>如果说女权者反对强制计划生育的观点没有充分表达出来，那这并不是她们的问题。所有人都知道中国的正式言论空间基本禁止对强制计划生育侵权的揭露和批评，直到2012年6月陕西冯建梅遭强迫堕胎事件，才或许前所未有地突破了一次，但至今这仍不是一个完全自由流通的话题。</p>
-<p>如联合国1993年《反对对妇女暴力宣言》指出的，对妇女的暴力包括由国家行使的暴力，以及国家对暴力的纵容。强制计划生育是一种典型的由国家行使的暴力，其存在时间之长，迫害范围之广，造成的灾难之深重，恐怕远甚在其他一些国家被认为骇人听闻的反人类灭绝事件。反对强制节育、强制堕胎、迫害“超生”者……暴力没有借口，为这种三十多年来已经被千万妇女身体铭刻的罪行辩解或试图轻描淡写是不可接受的。</p>
-<p>所以事实是：或许女权主义者和其他很多人一样没有能够做到响亮地反对强制计划生育，以及，应该向那些为受害妇女做了更多工作的人权捍卫者学习，但女权主义在道义上和逻辑上都不可能支持强制计划生育，因为强制计划生育是直接迫害妇女权利的。</p>
-<p>所以首先需要区分，当我们说“计划生育”的时候，所指的是一般的“计划生育”还是中国式的“强制计划生育”。个人生育有计划是生育自主权的体现，国家也都在从人口的角度设定引导性的政策，这都和生育被强行“计划”不是一回事。支持计划生育不等于支持强制计划生育。</p>
-<p>但是，强制计划生育在不同人群中间的推行方式和推行结果不一样，导致不同人群对政策的感受和评价结果不同，这是很正常的。强制计划生育在城市的推行相对而言没那么残酷，加上城乡的隔膜，信息传播的限制，很多年轻人对强制计划生育的侵权性没有强烈的感受。不仅如此，计划生育制造了一个客观上的受惠群体，即在那些接受了“只生一个好”观念的城市家庭里出生的女孩。她们的成长较少受到重男轻女观念的挤压，家庭的爱和投资让她们享受到上一代妇女和农村女孩没有的自由发展机会。</p>
-<p>这些年轻人对强制计划生育没那么反感甚至抱有一定程度上的好感，其实是基于一种自我庆幸：她们意识到，自己与母亲和农村女孩的命运的差距，在客观上是由计划生育带来的，不管父母情愿不情愿，计划生育让她们不用做原生家庭中的二等公民。</p>
-<p>应该理解这些年轻人的体验。不是说能以此论证计划生育的合理性，而是说，政策实施的后果必然是差异性的，想改进，就需要先理解和处理这种差异性，不要抹杀某一群体的经验，要放弃非黑即白的思路，而“取消计划生育”的说法，有时听起来就是这种思路下的口号。</p>
-<p>因为希望纳入不同群体的体验，因为看到或担心两方都没有关照到妇女权利，所以女权者不愿在计划生育和取消计划生育之间站一个非此即彼的立场？是非此即彼是容易的，另类和深度思考往往会被误解和被忽视，很多妇女权利的见识都是如此命运。</p>
-<p><strong>取消计划生育为什么会让女人担心</strong></p>
-<p>要求取消计划生育的人士说：国家无权限制生育，应该把生育权还给公民个人。</p>
-<p>这听起来完全正确，简直无法不支持。问题是，“个人”不是抽象同质的，每个人的权利行使程度会因其身份和权力地位不同。有必要追问，如果国家真的放回生育权，那这种权力会实际由谁来掌握。这是关系到妇女福祉的严重问题——是丈夫/男人、公婆、父母还是妇女自己，有没有可能结果是，决定生育的权力从国家父权转移到家庭父权，妇女从被强制不生育变成被强制生育？</p>
-<p>生育必须基于妇女的子宫，所以生育权的终极只能在妇女个人，婚内生育应由夫妻双方协商决定，但最终的决定权只能属于妇女，否则就意味着他人对妇女的身体强制，这是侵权行为。但是，妇女有为丈夫、为家庭生育/传宗接代的义务，这仍然是一种公然的文化，结婚就要生，要早生，多生，生男孩……很多妇女面临丈夫及家族的生育压力，令人沮丧的前现代境遇。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/xinsrc_3002040110078283232321.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/xinsrc_3002040110078283232321.jpg" alt="xinsrc_3002040110078283232321" width="400" height="316"></a></p>
-<p>强制计划生育没有从根本上改变将妇女视为生育工具的父权文化，只是暂时用国家父权压制和收缴了家庭父权的权力，而且，家庭父权一直都在试图与国家父权争夺妇女的子宫，由此导致的摩擦和双重迫害都由她们身受：那些被多次强制堕胎的受害者，有多少只是为了满足丈夫或公婆的心愿；有多少妇女因为被强制结扎不能再生育而被嫌弃甚至被离婚。</p>
-<p>要树立取消计划生育主张的妇女人权合法性，应该先意识到，家庭父权和国家父权一样参与了对妇女的生育迫害，清理父权文化是让生育真正权利化的前提，取消计划生育不能在实践中等于将生育控制权从国家下放给父权家庭，而这正是许多年轻妇女特别担心的。然而，似乎没有看到主张取消计划生育人士讨论这方面的问题，其中一些人还宣称生育是妇女的义务、不生育的妇女是自私等等，公然丢妇女的赞成票。</p>
-<p>性别不平等让生育意味着妇女的巨大代价，这是一些人害怕放开计划生育后被强迫生育的另一个原因。无论是在城市还是农村，家务劳动仍然普遍由妇女主要承担，照顾劳动中的男性缺席尤其严重；大量劳工阶层妇女不享有生育保障，对她们来说生育就意味着失业，在白领职场中生育歧视也是司空见惯、基本不受制约；雇主对母亲很少关怀，公共托幼服务资源奇缺，为履行母职，无论是放弃工作还是减少工作投入，对妇女来说都是发展的损失；而且，妇女的性魅力被认为因生育而贬值，做母亲让妇女更依赖婚姻，离婚则往往意味着无酬劳动投入的割肉……。总之，妇女为生育所付的代价和她们决定生育需要怎样的勇气，男性体会不到，父权家庭未必买单，国家则是基本无视。</p>
-<p>若要取消计划生育真正成为妇女的福利，就需要考虑配套性的政策，给妇女广泛的生育支持，并纠正性别歧视，否则，在不愿生、不敢生、不得不生之间，妇女仍然不能实现自由选择。或者说，要让妇女，乃至夫妻真正享受生育权，不能只谈计划或不计划。然而国家放开“单独二胎”的出发点压根就不是生育权，而是提高人口红利，呼吁取消计划生育者，或者只有粗糙的民粹式口号，就算有配套政策设计，也往往只见生育支持，不见妇女地位问题。</p>
-<p>农村妇女极难就公共事务发声，最受影响人群的沉默让整个话题残缺。一些城市年轻妇女宁肯对取消计划生育说不，不是留恋强制，而是因为，她们自己并没有那么强的生育意愿，因此不太受强制的压迫，反而可以借助政策限制保护自己免受生育剥削。妇女需要可靠的承诺，在她们面前，没有性别视角的“人权”主张和专制一样会不受信任及道德失败，要不要回应她们，终究是对人权价值的检验。</p>
-<p><strong>计划生育争论需要第三种语言</strong></p>
-<p>在强制极度森严的时候，取消计划生育的主张渲染着地下争权的悲情，对话因此很难展开，而且，只要不进入国家议程，不管什么政策观点都是纸老虎，没有杀伤力，因此也没有争议的迫切需要。但放开“单独二胎”已经明示了言论限制的松动，取消计划生育主张公开化而且更有影响政策的野心，或许从此时起，争议开始非常有必要了。</p>
-<p>遗憾的是，在关于计划生育是与非的讨论中，有性别视角，有足够知识，又愿意走进大众传播，这样的人士至今不出现。一些主张取消计划生育者公然与女权为敌，妇女的经验，性别的视角，只能以一种因被忽视而激越的姿态，在网上零散地迸出，集结不起多少话语权。</p>
-<p>假装女人不在场，热热闹闹地谈论应该或可以允许她们怎样，这种事情总是在发生。但换一种角度想，就此加入讨论而不是等待完美代言者出现，就此寻找计划生育问题中国论述的“第三种语言”，在为国和为家之间，在黑与白之间，正是一件可做的事情。</p>
-<p>发展知识，甚至从提问开始，比站立场更有意义，在“单独二胎”的大众传播中，比如这些问题还没有评估：这会不会减少强制计划生育的伤害，会对出生性别比造成怎样的影响。如果还有待观察，或许单就这个政策站立场还为时过早。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8A%E5%8D%8810.09.10.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8A%E5%8D%8810.09.10.png" alt="Screen Shot 2015-10-29 at 上午10.09.10" width="161" height="194"></a><br>
-（女权之声微信公号）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E5%85%A8%E9%9D%A2%E4%BA%8C%E5%AD%A9%E5%90%8E%EF%BC%8C%E5%A5%B3%E4%BA%BA%E4%BC%9A%E4%BB%8E%E5%BC%BA%E5%88%B6%E4%B8%8D%E7%94%9F%E5%8F%98%E6%88%90%E8%A2%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">全面开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">女权之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -739,7 +704,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -749,5 +714,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

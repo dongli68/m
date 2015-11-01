@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%B8%87%E8%BE%BE%E5%85%AC%E5%85%B3%E6%8E%A8%E5%B9%BF%E7%8E%8B%E5%81%A5%E6%9E%97%E5%93%88%E4%BD%9B%E6%BC%94%E8%AE%B2%E5%AE%9E%E5%BD%95/" target="cdt-mirror">法广 | 万达公关推广王健林“哈佛演讲实录”</a>
+</h2>
+<p><p>10月30日，财新网等中国媒体报道了前天，万达董事长王健林在美国麻省剑桥的“哈佛公开课”上，公开证实习近平姐姐和姐夫的公司曾入股万达，单在上市前退股的消息。这一报道刊发后不久就很快被删除，墙内网站上相关的转载也被删除一空。</p>
+<p>10月31日，万达集团在官方网站以下属“企业文化中心”的名义全文刊发了“王健林哈佛公开课演讲实录”，全文八千多字，还附上了50多分钟的现场视频。有趣的是，万达的编辑并未对略有敏感的高官亲属曾入股万达的段落做出删节。</p>
+<p>据万达公布的讲话实录，当时，主持人、哈佛商学院教授Willy C. Shih向王健林提问，“我看过一篇《纽约时报》的报道，是去年4月28日发表的，说万达之所以发展快，关键是有背景，包括习近平等领导的亲属都是你们万达上市公司股东，请问是否确有此事？”</p>
+<p>王健林解释说，“万达没有背景，万达的快速发展主要靠自己的核心竞争能力。”</p>
+<p>他说，“我来说说事情的真相，2009年7、8月， 万达集团旗下的万达商业地产为了解决资金问题，搞了一轮股权私募，委托中国最大的银河证券和中金证券两家券商替我们寻找投资人，前前后后谈了七、八十家公 司，最后有十几家公司入股，其中就包括习主席的姐夫邓先生的秦川大地公司，他和建银国际、中国泛海、巨人集团等十几家公司同样价格进来，所以购买价格是市场化的。”</p>
+<p>“2009年入股后，由于中国政府政策限制的原因，万达商业地产公司迟迟没有上市，一直到2014年12月份才在香港挂牌上市。就在上市前两个月，邓先生把他的股份以比较低的价格转让了，其实他是牺牲了巨大利益。正常价格购买、又是正常公开上市，能够获得巨大 利益而放弃，我想他应该是受到了某种影响或者压力，这件事恰恰证明了不是腐败，恰恰证明了习总书记治国严，治家更严的风格。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/F0785891-4563-4758-8F9E-4C2F9D8F8561_w640_s.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/F0785891-4563-4758-8F9E-4C2F9D8F8561_w640_s.png" alt="F0785891-4563-4758-8F9E-4C2F9D8F8561_w640_s" width="550" height="309"></a></p>
+<p>除了万达集团官方网站外，今天（11月1日）万达的官方微信公号也转发了这一文章，并被数个地产行业公号转载，但截止北京时间下午2点，这些文章都已被删除。</p>
+<p>除了在官网和微信公号转发这一实录外，万达公关还正式向各家媒体发布了这一“文字实录”， 有许多媒体都收到了通稿，新浪、搜狐作了转载，目前已被删除。</p>
+<p>一位在财经媒体工作的同行介绍，“万达公关把这个讲话四处发，最起码有四五个负责不同区域的万达公关把这个发给我们这边不同口的记者，连台湾记者站都收到了。”</p>
+<p>微博上，许多媒体人对此事的诡异的传播诡异深感疑惑，一位媒体人说“这么敏感的事情，王健林不至于跑到美国去张嘴就来，就算一时失言，为何事后公关还力推。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%B8%87%E8%BE%BE%E5%85%AC%E5%85%B3%E6%8E%A8%E5%B9%BF%E7%8E%8B%E5%81%A5%E6%9E%97%E5%93%88%E4%BD%9B%E6%BC%94%E8%AE%B2%E5%AE%9E%E5%BD%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权贵集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97%E5%93%88%E4%BD%9B%E6%BC%94%E8%AE%B2/?category=18271" rel="tag">王健林哈佛演讲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%99%E5%B8%A6%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">裙带关系</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%88%91%E6%B3%95%E5%A2%9E%E5%8A%A0%E7%BD%91%E7%BB%9C%E9%80%A0%E8%B0%A3%E7%BD%AA%E8%B5%B7%E5%AF%92%E8%9D%89/" target="cdt-mirror">美国之音｜中国新刑法增加“网络造谣”罪起寒蝉效应</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s.jpg" alt="610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s" width="575" height="323"></a><p>全国人大常委会第16次会议8月29日通过了《刑法修正案（九）》（中国全国人大官网截图 ）</p></div>
@@ -600,48 +621,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E9%9B%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%A0%B4%E4%BE%8B%E8%AF%B4%E6%98%8E%E5%8D%81%E4%B8%89%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE-%E6%8A%A2%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%B7%A5%E4%BD%9C/" target="cdt-mirror">苹果日报 | 破例说明十三五规划建议 抢李克强工作 习近平显霸权</a>
-</h2>
-<p><p>【五中全会】<br>
-中共十八大五中全会昨日闭幕，会议再次铁定中共总书记习近平已君临天下，总理李克强靠边站。官方媒体报道，全会听取和讨论了习近平受中央政治局委托作的工作报告，审议通过了《中共中央关于制定国民经济和社会发展第十三个五年规划的建议》，习近平并就《建议》向全会作说明，有关做法明显有别于过去由总理说明《建议》的惯例，为25年来首次。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%884.04.42.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%884.04.42.png" alt="Screen Shot 2015-10-29 at 下午4.04.42" width="397" height="307"></a><br>
-（有传“习李体制”因习近平权力坐大，令李克强有意请辞）</p>
-<p>资料显示，八五计划（1990年至1995年）、九五计划（1996年至2000年）、十五规划（2001年至2005年）、十一五规划（2006年至2010年）、十二五规划（2011年至2015年）等，均由总理（李鹏、朱熔基和温家宝）就有关建议草案或讨论稿作说明。这是因为中共制定「五年（计划）规划」的领导小组组长，一向由国务院总理担任。到五中全会，很自然会由总理负责说明有关未来五年规划的建议。</p>
-<p>领深化改革小组故亲报告</p>
-<p>但自2013年11月十八届三中全会，决定成立中央全面深化改革领导小组，由习近平亲自担任组长以来，李总理的权力，与昔日温家宝、朱熔基相比，相距甚远。</p>
-<p>有分析称，由于习近平身兼中央全面深化改革领导小组的组长，因此在十八届五中全会就十三五规划作报告，理所当然。集党政军于一身的习近平，近年把手伸入国务院，抢了李克强的工作，据悉令李总理十分无瘾。有报道称，十八大以来，外界描绘的「习李体制」似乎并未成形；由于十八大后，中共在党内掀起反腐浪潮，不少人甚至将「习王反腐」代称当时中国的权力格局。</p>
-<p>有接近中南海的消息人士透露，今年初，李克强确有请辞总理之意，但不被接受；这也意味，十八大的政治局常委分工，要到十九大才会变动。李总理会完成本届工作。据悉，身体健康问题亦是李克强有意请辞的原因之一。</p>
-<p>会期四天、昨日闭幕的五中全会，除年内实施二孩政策和令计划等十人被开除党籍，引起外界的关注外，其他公布的重点，还包括普及高中阶段教育和2020年贫困县全面脱贫等。</p>
-<p>盼2020年逾7,000万人脱贫</p>
-<p>全会提出了全面建成小康社会新的目标要求：到2020年国内生产总值和城乡居民人均收入比2010年翻一番。全国现行标准下农村贫困人口实现脱贫，解决区域性整体贫困。</p>
-<p>根据国家统计局今年2月26日发布数据，按照年人均收入2,300元（人民币．下同）的农村扶贫标准计算，去年全国农村贫困人口还有7,017万人，比上年减少1,232万人。</p>
-<p>五中全会公报重点</p>
-<p>1.全面开放二孩政策，积极开展应对人口老龄化行动<br>
-2.全面放开竞争性领域商品和服务价格<br>
-3.划转部分国有资本充实社保基金<br>
-4.普及高中阶段教育<br>
-5.2020年贫困县全面脱贫<br>
-6.开除令计划、周本顺等10人党籍<br>
-7.递补刘晓凯、陈志荣、金振吉为中央委员会委员</p>
-<p>开除党籍名单</p>
-<p>● 全国政协前副主席令计划<br>
-● 北前省委书记周本顺<br>
-● 家安监总局前局长杨栋梁<br>
-● 东省政协前主席朱明国<br>
-● 南前市委书记王敏<br>
-● 原前市委书记陈川平<br>
-● 南前省委副书记仇和<br>
-● 京前市委书记杨卫泽<br>
-● 蒙古自治区政府前副主席潘逸阳<br>
-● 宁前市委书记余远辉</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%A0%B4%E4%BE%8B%E8%AF%B4%E6%98%8E%E5%8D%81%E4%B8%89%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE-%E6%8A%A2%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%B7%A5%E4%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%8D%81%E5%85%AB%E5%A4%A7/?category=18271" rel="tag">中共十八大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E6%96%B0%E6%94%BF/?category=18271" rel="tag">习李新政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">苹果日报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -653,7 +632,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -663,5 +642,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

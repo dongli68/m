@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%88%91%E6%B3%95%E5%A2%9E%E5%8A%A0%E7%BD%91%E7%BB%9C%E9%80%A0%E8%B0%A3%E7%BD%AA%E8%B5%B7%E5%AF%92%E8%9D%89/" target="cdt-mirror">美国之音｜中国新刑法增加“网络造谣”罪起寒蝉效应</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s.jpg" alt="610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s" width="575" height="323"></a><p>全国人大常委会第16次会议8月29日通过了《刑法修正案（九）》（中国全国人大官网截图 ）</p></div>
+<p>香港—</p>
+<p>中国从11月1日起正式实施新修订的刑法，其中一项涉及官方所指的网络媒介 “造谣”，网民今后在微信、微博等社交平台或论坛发放或转发“假讯息”都可能因触犯刑法而被起诉，最高可判7年徒刑。有人担心有关法律可能会变成维稳工 具，沦为箝制言论和打压维权的手段。也有人质疑官媒或地方政府造谣是否触犯刑法，能否做到“法律面前人人平等”。</p>
+<p>从星期天开始实施的新的《刑法修正案（九）》，对原刑法做出了重大修改，除减少9个死刑罪名、废除“嫖宿幼女罪”等规定外，增加了造谣、替考、医闹、袭 警、虐待、扰乱法庭、私藏禁书等9种行为入罪的规定，其中第291条第2款规定：编造虚假的险情、疫情、灾情、警情，在网络及其他媒体上传播；或明知是虚 假信息，故意在网络或其他媒体上传播；严重扰乱社会秩序的，判3年以下有期徒刑；造成严重后果的，判处3年以上、7年以下有期徒刑。</p>
+<p>对于这项针对网络言论的法规，有网民担心，如果该法规被有关当局滥用，或造成“文字狱”，建议“各位看官管好自己的嘴，请用眼神交流”。还有网民表示，“假消息不可怕，就怕明明说的是实话，而有关部门给你扣个罪名”。</p>
+<p>湖南维权人士欧彪峰星期天对美国之音表示，网络上确实存在许多谣言，但这正是缺少言论自由、言路不畅和缺乏新闻自由的后果。他担心，这项新法规会被当局用来，以法律的名义针对维权和异见人士，以及对时政发表意见的批评人士。</p>
+<p>他说：“它的目的就是对维权人士、异议人士打压。当局容不下各种批评的声音，但是维权人士、民间他们要发出自己的声音，当局不允许这种声音存在，它 就必须要通过一个方式。这是对言论自由的进一步的打压，它通过立法，以法律的名义，对言论自由箝制，让民间的话造成这种恐惧。”</p>
+<p>网名“秀才江湖”的维权人士吴斌质疑说，是否算虚假信息谁来决定，标准是什么？如何界定网友是明知道是虚假信息而故意传播，而不是误发错转，甚至上当受骗。</p>
+<p>他说：“标准是他们自己定的，他们操作是很灵活性的。如果像抓你的话，就可以说你明知，传播。像我们这些异议人士、批评政府的人，他们会千方百计地往上面套。”</p>
+<p>有一些网友表示，很多地方政府瞒报、缩小事故或灾难的伤亡人数，官方通报中虚假的险情、疫情、灾情、警情屡见不鲜，这些算不算编造虚假的灾情？今年4月尼泊尔大地震时，新华网等官媒说只要是中国护照，就可以免费登机回国，结果证明是谎言，这是否算编造虚假的险情。</p>
+<p>经常在网络上发表评论的吴斌表示，政府制定新法，民众没有办法，但是民众应当能够要求法律面前人人平等，政府必须以身作则。如果政府自己做不到，怎么能要求民众。</p>
+<p>他说：“官方造谣是堂而皇之，大行其道，而且从来不受惩罚。应该是法律面前人人平等，要以身作则。官方造谣也要一视同仁，也要打击。”</p>
+<p>吴斌表示，法律面前人人平等的另一方面是，那些天天为政府洗地的五毛，为了美化当局，经常是谎话连篇。他相信，制定和实施这条法律的人不会去惩罚五毛，即便他们造谣。</p>
+<p>他说：“那些五毛就经常造谣。为了美化，他们会编造一些谣言，而他们用的谣言是官方批准的。为了赞美官方，为了显示稳定造的谣。所以，他们官方不会打压，不会抓起来的。”</p>
+<p>中国媒体报道，有专家表示，现在微信、微博、论坛上的信息量相当大，如果为了赚取关注度或点击量，故意别有用心地编造发布虚假信息，以往可能最多是 治安处罚，行政拘留几天，但根据新刑法，这种行为就可能构成犯罪，其中造成严重后果的，要坐7年牢。此外，对信息不加甄别、不加思考就盲目转发的网民同样 可能触犯这一规定。</p>
+<p>今年7月中港股市灾难，有网民在微博声称看见股民在北京金融街跳楼，被指造谣遭北京警方行政拘留5天。8月天津仓库大爆炸，当局起初对死伤人数守口 如瓶，当地两位网民在微博转发“1,300人死亡”或“方圆1公里无任何生命迹象，普通群众480多人死亡”，被指散播虚假讯息、扰乱社会公共秩序，被行 政拘留5天及10天。</p>
+<p>还有媒体表示，目前微信朋友圈里假消息泛滥，简直成了谣言集散地。不少人觉得，朋友圈的受众只限于朋友圈，没有“外人”，不是对外传播，但网络的开 放性往往造成反常信息传播特别迅猛。实际上，一直以来，朋友圈假消息满天飞屡屡引发讨论，有专家呼吁这种扰乱社会秩序的行为应该被追责。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%88%91%E6%B3%95%E5%A2%9E%E5%8A%A0%E7%BD%91%E7%BB%9C%E9%80%A0%E8%B0%A3%E7%BD%AA%E8%B5%B7%E5%AF%92%E8%9D%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%B0%B1%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E8%AF%B4%E4%B8%A4%E5%8F%A5/" target="cdt-mirror">羽戈：就放开二孩说两句</a>
 </h2>
 <p><p><em>【编者注】作者微信原文已被和谐。</em></p>
@@ -81,7 +108,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C%E9%97%AE%E9%A2%98/?category=18271" rel="tag">三农问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E5%B7%A5/?category=18271" rel="tag">农民工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">留守儿童</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E4%BA%BA%E5%8F%A3/?category=18271" rel="tag">贫困人口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E5%8E%BF/?category=18271" rel="tag">贫困县</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/" target="cdt-mirror">【习总日记】 温家宝给十八届五中全会的贺信</a>
 </h2>
@@ -615,84 +642,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E5%88%B6%E9%80%A0%E4%BD%8E%E4%BB%B7%E6%B8%AF%E6%BE%B3%E6%B8%B8%EF%BC%9F%E8%B5%B7%E5%BA%95%E9%99%86%E6%B8%AF%E9%BB%91%E8%89%B2%E6%97%85%E6%B8%B8/" target="cdt-mirror">端传媒 | 谁在制造低价港澳游？起底陆港黑色旅游产业链</a>
-</h2>
-<p><p>大陆赴港旅行团八成是零团价、甚至负团价，但强迫消费却动辄数十万。苗春起涉嫌被强迫购物，在香港意外死亡，店铺出事三天后，便又挤满了大陆游客。</p>
-<p><span>端传媒记者 江雁南、陈倩儿、孙贤亮 发自香港、深圳</span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%8812.33.161.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%8812.33.161.png" alt="Screen Shot 2015-10-29 at 下午12.33.16" width="476" height="269"></a><br><span>土瓜湾，伟景街宝表廊内部情况，店内挤满讲普通话的游客和店员。摄：叶家豪/端传媒</span></p>
-<p>这条黑色产业链长期存在，每一次事故出现，就会浮现冰山一角。</p>
-<p>10月19日，54岁的大陆游客苗春起在报名低价的旅行团抵达香港之后，在香港的购物场所被胁迫购物、甚至殴打致死，引发了舆论哗然。陆港澳之间的黑色旅游之路和背后的利益勾结，再次浮出水面。</p>
-<p><strong>深港两地“卖猪仔”交易行业规则</strong></p>
-<p>在低价港澳团的行话里，大陆游客来香港被形象地称为“卖猪仔”。</p>
-<p>2003年，香港逐步对内地开放自由行城市，直到2013年，共49个城市的居民被允许赴港自由行。而其余地区的市民若想到香港旅游只有一个途径——参加旅行团。</p>
-<p>深圳因拥有办理团队旅游签证（L签证）的便利地理和手续条件，亦成为不少旅行团、或者散客拼团去香港旅游的中转站。</p>
-<p>香港立法会旅游界议员姚思荣对端传媒记者介绍，在每年来香港的4000万游客中，一成是通过旅行团。而这些旅行团中，8成以上是零负团费。</p>
-<p>在中国大陆，长期存在境外低价旅游团，出行目的地多为港澳台、东南亚及周边地区。成千上万家小型旅行社一起分吃“港澳游”这块蛋糕，为了竞争，各家旅行社年复一年地压低团费，将港澳游变成最经典的低价旅游路线之一。各地的旅行社将游客交接给深圳旅行社，深圳旅行社再交接给香港旅行社，来人给钱，交易明码标价，在广东地区有个通俗的说法叫“卖猪仔”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/7c83296686c5467f92371edd45a144e5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/7c83296686c5467f92371edd45a144e5.jpg" alt="7c83296686c5467f92371edd45a144e5" width="550" height="643"></a><br><span>黑色港澳游产业链。图：端传媒设计部</span></p>
-<p>港澳游旅行团大致分为3类：纯玩团、品质团和常规团。据深圳旅行社朱小姐介绍，“常规团”正是所谓“500元左右三日港澳游”的超低价团，这样的旅游一定会有强制购物；“品质团”会安排明确的购物路线并严格遵守，但导游不会恐吓辱骂或者强迫购物；“纯玩团”在每一个购物点上强制停留的时间较短，购物停留点门店数量也较少。但三者的购物流程相似，一天时间里，珠宝店2小时，表行1小时，百货店1小时。</p>
-<p>类似低价团的可怕之处在于游客与旅行社之间并没有合约保障，对此，端传媒记者在深圳罗湖口岸几个旅游门店都得到了证实。</p>
-<p>根据2013年出台的中国《旅游法》规定，零负团队是明令禁止的项目。而低价团的新演变方式是，则是用“旅游券”来代替明码标价的低价团，这种方式会让消费者以为自己是获得的廉价港澳游是赠品，消费者也不会想到签合约。多年来，大陆网络上充斥着关于“买保险送港澳游”最终被强制消费的新闻，但这种忽视消费者权益的“霸王规则”，从未得到彻底改变。</p>
-<p><strong>深圳中转站：“东北客是最贵的”</strong></p>
-<p>旅行社在挑选低价团的游客过程中，对游客来源的地域、游客本身的文化特征，消费能力和其他方面因素，都有完全基于商业运作的“计价标准”。</p>
-<p>比如，在游客中最具商业价值的是东北游客，“他们土豪，而且比较容易骗，在人群当中要面子。”在深圳某旅行社工作的万小姐说，相反，浙江客虽然有钱，但精明，维权意识高，不是他们眼中的“优质客户”。</p>
-<p>就这样，深圳旅行社从东北“买”游客的人头费是2000人民币，这包括坐火车来深圳的往返票价。而“转卖”给香港旅行社就成了2500人民币，来自其他省份的游客价格也都在500元左右。</p>
-<p>而在港澳游3日包吃包住的行程里，据万小姐介绍说，每个人的最低成本是1500人民币。这意味着，一个东北游客的成本要高达4000人民币，假如香港旅行社没有办法从每个人身上赚到这个数目，这就是个亏本的买卖。</p>
-<p>年龄方面，旅行社同样有限制，规定只允许年龄在28至50岁之间的人参加低价团。“太年轻的买不起，年纪太大的不舍得花钱。”万小姐说，这个区间的人有消费能力，才能减少低价团血本无归的风险。</p>
-<p><strong>香港店铺：强迫买卖的密闭购物点</strong></p>
-<p>在香港方面，同业之间的血腥竞争更加残酷。</p>
-<p>“深圳那边的人头费报价越来越高。这势必导致购物金额和强制性的水涨船高。”一位不愿具名的香港小旅行社负责人朱先生告诉记者。在香港共有1800家这样大大小小的旅行社。</p>
-<p>据上述朱先生透露，从内地过来的团一般会搭配两个香港导游。一个负责讲解，另一个在行内有个形象的说法叫“刀客”，就是负责导购。参加过港澳旅行团的人都知道这当中的伎俩，可以甜言蜜语，也可以凶神恶煞。</p>
-<p>据朱先生透露，这些旅行社的行程单上不会有铜锣湾、尖沙咀这些香港著名购物地，而是将旅客送进了位于九龙铁路站附近的土瓜湾和红磡等区域。</p>
-<p>“一盒巧克力（平常）卖50，里面就是500，不知名的瑞士手表，拿到店里就被包装成世界名表，卖上万（港币）。”最后的回扣，导游、领队、司机、旅行社、“影子团友”都要分。</p>
-<p>在香港，红磡民乐街一带，以及相邻的土瓜湾贵州街一带是定点购物商铺的集中地，刚刚发生的苗春起被殴致死的悲剧发生地——珠宝店D2 Jewellery 正位于红磡民乐街上。</p>
-<p>红磡民乐街是一条约为300米的小街道，两旁工厂大厦林立，是香港一个普通、衰落的工厂区。但地面上的商铺，基本80%都是招待大陆旅行团的，珠宝行、药房、巧克力店在此地集中。在土瓜湾贵州街，同样聚集着钟表店、巧克力店、药房和大酒楼等针对大陆旅行团的一条龙商铺。</p>
-<p>早在2003年，香港媒体已开始报导这些专为大陆客量身订做的购物店。在附近居住的香港市民都了解这些区域的钟表店、珠宝店是招待大陆旅行团的，本地居民一般不光顾，而关于强迫旅客购物的新闻过去多年从不间断。另外，因为每天有大量旅行大巴在这些街道停靠，造成交通拥挤，许多香港市民抱怨连天。</p>
-<p>10月23日，端传媒记者在4天前刚刚发生过事故的D2 Jewellery门口看到，3个大陆旅行团刚从店里走出来，旅客来自北京、河南等地，大部分人不知道“苗春起事件”，即使知道的旅客，也并不了解苗春起正是在他们所在的这家店，与导游发生争执。他们之中的大多数人是第一次来到香港，并不了解铜锣湾、尖沙嘴这些著名的商业区，也没有听说过周大福、周生生等著名珠宝品牌。</p>
-<p>珠宝行D2 Jewellery是香港蒂亚集团旗下商铺。在“苗春起事件”后，蒂亚集团及同案中的香港天马国际旅行社背后的一条龙经营，被多家媒体起底。</p>
-<p>所谓“观光旅游一条龙”，是香港资金成立的旅行社、卖店、餐饮店、游览车和饭店，他们接下的陆客团，住宿、交通、餐饮和购买名特产品，全部在一个老板开的店进行消费。对于一些做港澳游的旅行社来说，“一条龙”自然是扩大利益链的方式。</p>
-<p>香港内地入境团导游总工会主席谢北拱对媒体表示，据其所知，目前大概有十几位内地老板在香港成立旅行社接待内地入境团，通过人情或金钱关系，招揽香港人替他们做旅行社“持牌人”，有的直接接盘濒临倒闭的香港旅行社，而且他们手上会持有多张旅行社牌照，“即使其中一个因为违规被旅议会取消会籍或吊销牌照，也不影响继续接团经营。”</p>
-<p>在土瓜湾伟景街的大型钟表店宝表廊前面，一个小时之内，记者看到至少4个旅行团的旅客在挥着小旗的导游带领下进入宝表廊。</p>
-<p>邻近一位便利店老板告诉端传媒记者，每天有十多辆旅游大巴在此停靠，带旅客到宝表廊和邻近的商铺购物，然后排着队到附近的酒楼吃饭。因为购物问题，许多旅客经常和导游发生争执。但即使每天这么多旅客到来，也并没有给他的士多店带来生意。</p>
-<p>“他们是封闭起来的，导游都想将旅客所有的消费限制在他们内部。”便利店老板说，他看到每当旅客去购物时，就有人将一箱箱钥匙扣搬上旅游大巴，“那些钥匙扣外面就卖十多元，他们上车就给大陆客推销，100元一个。”</p>
-<p>端传媒记者走进宝表廊，一开始只看到数十呎的店面，十多只手表陈列在玻璃柜内，记者自称是来自大陆的自由行旅客，想给家人买手表，店员立刻招呼：“这里只是样品，里边还有很多”，用传呼机联系其他店员，并推开一扇暗门。</p>
-<p>记者进入后发现，暗门后是两三千呎的大铺面，数十个玻璃柜陈列着各款手表，但大多是不知名的外国品牌，价格从三千多到数万元不等。这里店员众多，全部身穿制服，说流利普通话，招呼着来自数个旅游团的大陆旅客。</p>
-<p>这批旅客大多是中年人，来自郑州、宁波等城市。店员向记者推销名为Juvet的“瑞士名牌手表”，但当问到保修问题时，店员表示这些手表没有全球保修，只能邮寄回香港修理。</p>
-<p><strong>香港商家：重要合谋者</strong></p>
-<p>“就算他们被曝光，这只是一阵风，对香港现在越来越恶性竞争旅游业态没有任何改变。”香港旅行社负责人朱先生说。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%881.45.09.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%881.45.09.png" alt="Screen Shot 2015-10-29 at 下午1.45.09" width="614" height="408"></a><br><span>D2 Jewellery职员在店门口往外看。摄：罗国辉/端传媒</span></p>
-<p>据姚思荣介绍，在香港注册旅行社门槛非常低，50万的注册资本，注册人必须是香港人，有单独的办公室和店舖门面，旅行社必须在旅游议会登记成为会员，满足以上条件即可开旅行社。在程序上，香港旅行社在接团前一天把行程单及旅行团资料递交给旅游议会登记即可合法接团。</p>
-<p>2003年后，中国游客的入境数保持在两位数增长，也是从那时起，香港低价旅行团造成的大量强制购物事件屡被曝光。</p>
-<p>2007年，央视《经济半小时》用“放蛇”（卧底）的方式，曝光了香港旅游团前去的珠宝店出售假货，香港旅游议会的代表赴京向国家旅游局解释；2010年5月，前国家队乒乓球手陈佑铭在香港被强逼购物，引发心脏病身亡；2010年3月，香港导游李巧珍威胁内地客如不购物，便不给饭吃和没有酒店住，最终导游被钉牌（吊销牌照）。</p>
-<p>这些恶性事件发生后，香港旅游议会制订了一系列行业规范。包括针对内地旅游团的十条规定：旅游团要登记、购物点要登记等。也曾经推出过“入境旅行团(登记店铺)购物退款保障计划”，凡经由议会会员旅行社安排前往登记店铺购物的团体旅客，都可以得到百分百退款保障。这些都列为旅游议会的扣分机制中，如果扣满30分，旅行社将会被钉牌。</p>
-<p>而事实情况是，这些行业规范如蜻蜓点水，整个业界的生态并没有丝毫改变。哪怕是被钉牌的旅行社都可以改个名字重新注册公司重新开张。</p>
-<p>端传媒记者暗访到的宝表廊就是其中一例。在百度上搜索宝表廊，会发现大量网民控诉该店是“骗子手表店”，亦有网民爆料说宝表廊的前身是几年前开在同一地址的名牌集团，后来因名牌集团接获的投诉多而更名为宝表廊重开，但只是换汤不换药。</p>
-<p>端传媒记者翻查香港商业登记资料发现，宝表廊由持有香港身分证的李易青100% 控股持有，而李易青名下持有包括宝表廊在内的9间公司，包括名牌集团有限公司、金爵士钟表有限公司、骏宝表有限公司等。其中，名牌集团和金爵士钟表的登记地址均和宝表廊一样，而金爵士钟表已经在2007年2月16日解散。</p>
-<p>“苗春起的事件自然证明内地零团费的旅行团依然泛滥，执法不严，但香港商家是重要的合谋者。”中国社科院旅游研究中心研究员刘思敏告诉端传媒，“如果把低价团比作一条蟒蛇，打蛇打七寸，香港监管机构是不是应该对发生在香港的强制交易和假冒伪劣的违法行为严格执法，为什么十多年过去了情况反而越来越糟？”</p>
-<p><strong>香港旅游议会：又是足球员又是裁判员</strong></p>
-<p>对这种乱象，香港旅游议会负有不可推卸的责任。</p>
-<p>“和政府监管比起来，旅游议会的处罚就像家规，无伤大雅。”8间旅游议会属会之一的内部人士告诉端传媒记者。<br>
-在香港负责监管旅游业的是香港旅游业议会（下称旅议会），但这并非法定机构。成立于1979年的旅议会是行业自治组织，前身是旅游业商会。香港所有旅行社都必须登记其旗下。</p>
-<p>旅议会共有29名理事组成，8名理事由旗下八个属会的代表自动当选，另有8人由旅行社选举投票产生，另有12位非行业人由政府委任，其中四个也是由旅行社推荐，政府任命。也就是说29人的理事会，最后20人和行业有直接及间接关系。<br>
-一家由业内人士组成的自治组织是否能够有效监管自己，这是长期存在争议的地方。</p>
-<p>2007年，香港《壹周刊》曾揭露在旅游业议会辖下的入境团旅行社协会当主席的吴光伟自己开始开设的信成（国际）旅游有限公司，多次被投诉误导游客购物，使用无牌导游，带团去自己伙伴开始的购物点购物。</p>
-<p>香港的旅游市场开放于1984年，在2003年开放自由行之前，由4家旅行社垄断，包括广东旅行社、香港中旅、香港国旅和华闽旅行社控制着所有内地入境香港的旅游团。</p>
-<p>2003年后，垄断被破除，由于旅游行业门槛低，数量成倍增长，竞争也日趋激烈。目前旅游行业完全饱和，导游供大于求。在香港这种情况尤为严重，据业内人士透露，香港导游都是自己垫资带旅行团出游，包括餐费、住宿费等，靠购物回佣赚取报酬，近年曾发生多宗导游讨薪事件。</p>
-<p>“旅行社越来越多，一开始游客给导游小费，最后演变成导游要向旅行社垫资带游客，变成了赌博。”香港旅行社朱先生说，“100个团，90个赔钱，10个赚钱，如果有盈余就赚到了。”</p>
-<p>旅议会虽然有推出条例保护消费者维权，只要有投诉就可以退货，但是假货可以投诉，货品定价过高的不可以。以香港药店为例，一般买花旗参粉是“按两”计价，但是消费者可能不留意，那些专门做游客生意的药店，会在单位上改成“钱”。所以经常有内地游客投诉买了几万元的药粉后，发现自己中了计。</p>
-<p>“这个市场很不成熟，无论是消费者还是经营者。”香港立法会议员姚思荣表示。</p>
-<p>与大陆、澳门不同，香港一直没有成立旅游监管局。“如果是违反旅议会，那只是违规，‘家规’处理，扣分。如果是违反旅监局规定那就是违法，上法庭处理。”旅议会八间属会之一的内部人士透露，处罚力度不够，哪怕被钉牌的商铺也可以改头换面重新开张。</p>
-<p>据刘思敏介绍，零负团费的模式已在内地遍地生根，可能没多少人知道将这套模式传入中国的是十多年前旅游业已经蓬勃发展的香港。“港澳游将零负团费带入中国内地，现在云南和海南成为重灾区。”刘思敏说。</p>
-<p>“维权成本很高，违法成本很低。”这是香港旅游行业中心知肚明的规律。</p>
-<p>“现在是贼喊捉贼。”上述旅议会的内部人士不无讽刺的说道，“旅议会有执行力吗？对行程有审查吗？货不对办怎么办？”而由业内人组成的旅议会在监管上的先天不足和利益冲突就像“皇帝的新装”，大家视而不见。</p>
-<p>（研究员黄翠莲、实习记者林颖娴对本文亦有贡献）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E5%88%B6%E9%80%A0%E4%BD%8E%E4%BB%B7%E6%B8%AF%E6%BE%B3%E6%B8%B8%EF%BC%9F%E8%B5%B7%E5%BA%95%E9%99%86%E6%B8%AF%E9%BB%91%E8%89%B2%E6%97%85%E6%B8%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2/?category=18271" rel="tag">大陆游客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%85%E6%B8%B8%E5%9B%A2/?category=18271" rel="tag">旅游团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%85%E6%B8%B8%E8%B4%AD%E7%89%A9/?category=18271" rel="tag">香港旅游购物</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -704,7 +653,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -714,5 +663,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

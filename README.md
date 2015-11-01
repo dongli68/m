@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/" target="cdt-mirror">【习总日记】 温家宝给十八届五中全会的贺信</a>
@@ -104,7 +104,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E8%B5%84%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">劳资关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7/?category=18271" rel="tag">北大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">北大建筑工人讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E6%9D%83%E5%88%A9/?category=18271" rel="tag">工人权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">讨薪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%94%B5%E5%BD%B1%E6%B3%95%E5%88%9D%E5%AE%A1%EF%BC%9A%E7%AE%80%E5%8C%96%E5%89%A7%E6%9C%AC%E5%AE%A1%E6%9F%A5-%E6%97%A0%E9%BE%99%E6%A0%87%E4%B8%8D%E5%8F%82/" target="cdt-mirror">德国之声｜电影法初审：简化剧本审查 无龙标不参展</a>
 </h2>
@@ -395,7 +395,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E5%AD%A9/?category=18271" rel="tag">全面开放二孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E9%9B%B6%E5%90%8E/?category=18271" rel="tag">八零后</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%A5%B3%E6%AF%94%E4%BE%8B/?category=18271" rel="tag">男女比例</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E9%83%AD%E5%BB%BA%E9%BE%99%EF%BC%9A%E4%B8%80%E8%83%8E%E5%8C%96%E7%9A%84%E6%8E%A8%E6%89%8B%E4%B8%8E%E5%8A%9F%E8%87%A3/" target="cdt-mirror">郭建龙：一胎化的推手与“功臣”</a>
 </h2>
@@ -453,7 +453,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">全面开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E9%9B%B6%E5%90%8E/?category=18271" rel="tag">八零后</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%A5%B3%E6%AF%94%E4%BE%8B/?category=18271" rel="tag">男女比例</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%8E%8B%E5%81%A5%E6%9E%97%E3%80%81%E9%BD%90%E6%A1%A5%E6%A1%A5%E5%92%8C%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/" target="cdt-mirror">【立此存照】王健林、齐桥桥和秦川大地</a>
 </h2>
@@ -750,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%81%E4%B8%89%E4%BA%94%E7%BA%B2%E8%A6%81%E8%B5%B7%E8%8D%89%E5%B0%8F%E7%BB%84%E6%88%90%E7%AB%8B-%E8%B4%AB%E5%9B%B0%E5%8E%BF%E4%BA%94/" target="cdt-mirror">自由亚洲｜“十三五”纲要起草小组成立 贫困县五年脱贫受质疑</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/image.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/image.jpg" alt="农民工涌入城市打工的现象在中国仍然持续。（AFP）" width="575" height=""></a><p>农民工涌入城市打工的现象在中国仍然持续。（AFP）</p></div>
+<p>中国国家发展和改革委正式成立十三五规划《纲要》起草小组，十八届五中全会通过的“十三五”规划进入草拟阶段。而规划中提到，五年内全国所有贫困县摘帽， 有学者表示，农村贫困是因为国家不愿也无足够能力投入补贴，众多年轻农民已进入城市打工，脱贫的概念究竟是农民成为农民工，还是回农村后致富。</p>
+<p>中共十八届五中全会通过“十三五” 规划后，发改委称已经成立十三五规划《纲要》起草小组。据国家发展和改革委网站消息，10月30日，国家发展改革委召开党组学习扩大会和全体党员大会，认真传达学习党的十八届五中全会精神。发改委已经成立《纲要》起草小组，专项规划已报国务院。另据中央电视台同一天报道，中共总书记习近平两个月前，在中南海召开党外人士座谈会，就制定十三五规划，听取各界的意见。</p>
+<p>十三五规划提出在现行标准下农村贫困人口实现脱贫，贫困县全部摘帽，解决区域性整体贫困。目前中国有近600个贫困县。《湖南日报》资深编辑肖建生10月31日接受本台采访时表示，要看官方采取什么养的标准衡量脱贫，如果按照目前的收入标准，五年后的物价肯定比现在高。他说：“中国还有一个问题就是统计数据也可以做假。强行要达到（脱贫）可能也可能，现在农村很多人都到外面打工去了，没有什么人了。在贫困地区，基本上都是老人和孩子，年轻人几乎没有在本地了。你说脱贫，要看你是什么概念，如果说外出打工挣钱也算脱贫也是一个方面， 但是如果说根本上改变农业现状的话，那这个（脱贫）可能是有问题的”。</p>
+<p>曾对农村现状和农民收入做过深入调查的肖建生说，湖南虽然是产粮大 省，但是农民种植粮食作物处于亏损状态：“种植的粮食，现在都是亏本，根本不挣钱，怎么脱贫？除非国家拿钱，原来种粮有补贴，结果没有补贴到农民手上，钱到乡镇、村干部一级都被吞掉了。这件事情我原来做过调查。再说现在农村年轻人现在都去打工了，农村土地也被掏光了，贫困地区的土地都荒芜在那里。村寨一个 一个都没有人，都成荒山野岭了，怎么脱贫？我不知道啊。”。</p>
+<p>长期研究中国农村问题的北京理工大学教授胡星斗对记者说：“中国的农业恐怕是在中国各个产业中，最落后的。还是比较原始的小农经济。要改变小农经济这种状况，取决于很多方面，甚至包括户籍改革，土地制度的改革，现在的户籍改革、土地制度改革实际上是雷声大，雨点小。如果土地制度不能够有实际突破，如果还是坚守现在僵化的土地制度，那么未来农业现代化是不可能的。因为不可能农业现代化建立在分散的，承包式的这种类似于小农的经济基础上，那是不可能实现农业现代化的”。</p>
+<p>经济学者温克坚认为，归根结底，中国的决策层思维仍然停留在“中国特色的市场经济”观念上：“他们并没有真正的理解、了解、认同市场经济内在的规律，在这之前比如说中国经济发展还可以借助很多资源转化， 借助于全球化的红利，接下来如果市场内在机制不发挥民众的自由创作性，我觉得经济发展是达不到当局所期待的目标”。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%81%E4%B8%89%E4%BA%94%E7%BA%B2%E8%A6%81%E8%B5%B7%E8%8D%89%E5%B0%8F%E7%BB%84%E6%88%90%E7%AB%8B-%E8%B4%AB%E5%9B%B0%E5%8E%BF%E4%BA%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C%E9%97%AE%E9%A2%98/?category=18271" rel="tag">三农问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E5%B7%A5/?category=18271" rel="tag">农民工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">留守儿童</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E4%BA%BA%E5%8F%A3/?category=18271" rel="tag">贫困人口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E5%8E%BF/?category=18271" rel="tag">贫困县</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/" target="cdt-mirror">【习总日记】 温家宝给十八届五中全会的贺信</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，11，1）</p>
@@ -72,7 +89,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E5%AD%A9/?category=18271" rel="tag">全面开放二孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">农村女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E4%BA%8C%E5%85%83%E7%BB%93%E6%9E%84/?category=18271" rel="tag">城乡二元结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">女性权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2%E6%9D%83/?category=18271" rel="tag">生育权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93/?category=18271" rel="tag">香港独立媒体</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E8%AE%A8%E8%96%AA%E5%B7%A5%E4%BA%BA%EF%BC%9A%E5%90%8C%E6%83%85%E6%9C%89%E5%A4%9A%E5%B0%91%EF%BC%8C%E8%B7%9D/" target="cdt-mirror">澎湃新闻 | 北大学生与讨薪工人：同情有多少，距离就有多远</a>
 </h2>
@@ -711,34 +728,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%A2%99%E5%9B%BD%E5%88%B6%E9%9C%B8-%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80/" target="cdt-mirror">巴丢草 | 墙国制霸 倒数第一</a>
-</h2>
-<p><p>新闻背景：</p>
-<p>总部设在美国的《自由之家》发表2015年度全球网络自由度报告，中国在65个受调查的国家中位居榜末。</p>
-<p>该报告根据上网障碍、内容限制及侵犯用户权利（最差40分）三个方面，对65个国家进行评分（0分为最佳，100分最差）。结果中国获得了88分，网络自由度最差。</p>
-<p>其中在侵犯用户权利方面，中国获得40分，也就是最差的满分。至于上网障碍方面则获得18分（最差25分），而内容限制方面也获得30分（最差35分）。</p>
-<p>有关报告在提到过去一年有关中国网络自由的重大事件时特别提到，2015年1月，中国当局加强对提供代理伺服器服务公司的堵截；中国互联网信息中心向一些网站发出虚假的网络安全证书，使一些用户容易受到网络攻击；中国政府加强用户实名制以及2014年11月，中国政府推出反恐法草案允许政府可以进入电信公司及网络运营商的后台系统。</p>
-<p>根据《自由之家》的年度评估报告，过去几年来，中国网络自由度一直在逐步下降。2014年，中国网络自由度名列全球倒数第二。</p>
-<p><strong>连续五年下滑</strong></p>
-<p>与此同时，《自由之家》发表的最新年度报告也指出，过去一年，全球网络自由度也连续第5年恶化。</p>
-<p>在65个受调查的国家中，32个国家的网络自由度都出现了不同程度的下滑。</p>
-<p>报告说，越来越多国家的政府审查和过滤网上内容，而且向私营公司施压，要求他们撤下被视为有问题的内容。</p>
-<p>此外，在全球范围内，不少政府也加强了对网络的监控。</p>
-<p>根据这份报告，全球网络自由度最高的6个国家是冰岛（6分）、爱沙尼亚（7）、加拿大（16分）、德国（18分）、澳大利亚（19分）和美国（19分）。</p>
-<p>而除了中国之外，网络自由度较差的国家则包括伊朗（87分）、叙利亚（87分）、埃塞俄比亚（82分）、古巴（82分）、乌兹别克（78分）和越南（76分）。（来源：BBC）</p>
-<p>————————————</p>
-<blockquote>
-<p>@badiucao：恭喜 #墙国 制霸全球网络不自由界！《自由之家》发表2015年度全球网络自由度报告，中国获88分，网络自由度最差，世界倒数第一！#GFW #censorship</p>
-</blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/CSfAuorUsAA6lat.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/CSfAuorUsAA6lat.jpg" alt="badiucao：倒数第一" width="500" height="694"></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%A2%99%E5%9B%BD%E5%88%B6%E9%9C%B8-%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">网络自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%B9%8B%E5%AE%B6/?category=18271" rel="tag">自由之家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -750,7 +739,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +749,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

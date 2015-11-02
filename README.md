@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E8%83%A1%E4%BE%83%E6%98%AF%E5%A4%9A%E5%85%83-%E5%88%AB%E4%BA%BA%E8%83%A1%E4%BE%83%E8%BF%9B%E5%B1%80%E5%AD%90/" target="cdt-mirror">【网络民议】你胡侃是多元 别人胡侃进局子</a>
+</h2>
+<p><p>@胡锡进：既然来了舆论场，我就不会走。环球时报早就被这个时代“抓了壮丁”，除非终老，我没有权利倒下。今天我带着自己的视频节目”胡侃”回到微博，它是我和环时价值观的可视展现。时代给了我们一个角色，我须倾力对它负责。就当我是“胡侃”吧。珍惜多元，团结万岁。</p>
+<p>视频<a href="http://v.youku.com/v_show/id_XMTM3NTIzNjUwOA==.htm#paction" target="_blank">地址</a></p>
+<p>节目组注：《胡侃》作为中国网络首档解说全球人文时事的脱口秀节目，立足于趣味性和新奇性，由《环球时报》总编辑胡锡进担任主持人。节目旨在吹散表象世界的浮尘，讲述真实世界的故事。</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>文山1205：边喊爱国边公款旅游，爱国就是一门生意而已，典型爱国贼。</p>
+<p>管鑫Sam：英文也有“patrioteer”，指“打着爱国幌子谋私利者”，也没听说它是什么“英文之耻”。词没有“有耻”“无耻”之分，只有它们形容的人才有这样的区分。换句话说，指定某些词是“中文之耻”，才是中文之耻。</p>
+<p>干五爹：把官僚利益说成国家利益，打着“左派”的旗号兜售专制主义，打着“爱国”的旗号干太监勾当，打着“人民”的旗号愚弄训教百姓，吃人民饭砸人民锅，靠污蔑别人“公知、不爱国、西方势力、变颜色”来充当权力看门狗，谁不一起下跪磕头，就说他外面有了新主子。</p>
+<p>Bokjoeng：你这辈子活着不觉得心里亏得慌么？</p>
+<p>一口一人：能否把雷克给解禁了呀，为啥不允许老雷说话呢？无多元则没团结，是吧。网络上甘岭这样占领没意义，是吧。</p>
+<p>追寻真史：老胡视频的意思我帮他翻译一下：大家洗洗睡睡，不要与政府争执，安心做奴隶的做奴隶，做奴才的做奴才，退一步天高地阔，以免引起动乱战争，看看国外老百姓，多惨啊,,,,,,</p>
+<p>燕008：卖国贼是中国之最。</p>
+<p>黄埔二分校：你胡侃是多元，别人胡侃就会进局子、上央视。你说这是多元吗？</p>
+<p>权不在奇有也则灵：这么多年了，胡主编这条路走的也是不易。被左派骂完被右派骂，被五毛骂完被美分骂，被宣宣骂完被公知骂，坚强如胡主编，也是一种修为。</p>
+<p>Nova9：相由心生，以前以为这词是迷信。</p>
+<p>司马南：原来前几天是#休假性失语#，在家里憋大的呢！老胡”胡说”值得关注。”爱国贼”的确是中文之耻，一些咬牙切齿骂爱国贼的人，其实骂的不是贼，骂的是爱国，我因为理直气壮地说爱国而被推墙公知咒为贼，我觉得贼光荣，老胡也贼光荣。</p>
+<p>王小峰_带三个表：胡锡进捍卫自己的三观，简称胡捍三。</p>
+<p>天黑前回家：爱国贼是指，自己嘴上天天说爱国，背后借此经营自己的利益。这事儿只有中国才有，比如环球系，比如孔歪嘴，比如司马夹头。</p>
+<p>VO微城：全世界用纳税人的钱办媒体来吹捧自己的，也就这独一家！</p>
+<p>缓缓微风：干嘛叫“胡侃”，叫“锡进评”多好。</p>
+<p>非著名假律师：一入侯门深似海，从此老胡变鹰犬。</p>
+<p>闭眼看客：胡总，适度腐败的事情处理利索了？</p>
+<p>小沙弥222：老胡挺难的，每天需要评论，不小心就妄议。</p>
+<p>蜜蜂头人：我想问问，网上为什么那么多人骂你？</p>
+<p>黑暗的沉思：你那挤眉弄眼的表情，也是时代给的？你那入骨的猥琐，也是时代给的？身份是自己选的，路是自己走的，话是你自己胡说的，别推给时代。时代替你担不了那么多过。</p>
+<p>庆_爷：堂堂一介P民，连家里的一寸土地都尚且不能合法自由买卖，“爱国青年”你倒是告诉我怎么卖国啊？</p>
+<p>卿莫醉亲：看到那麼多人反對你，我就放心了。我這是真心話。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E8%83%A1%E4%BE%83%E6%98%AF%E5%A4%9A%E5%85%83-%E5%88%AB%E4%BA%BA%E8%83%A1%E4%BE%83%E8%BF%9B%E5%B1%80%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E5%85%83%E5%8C%96/?category=18271" rel="tag">多元化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA/?category=18271" rel="tag">舆论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%8E%8B%E5%81%A5%E6%9E%97%E5%9B%9E%E5%BA%94%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%B2%E5%B1%9E%E5%85%A5%E8%82%A1%E4%B8%87%E8%BE%BE%E6%8A%A5%E9%81%93/" target="cdt-mirror">纽约时报 | 王健林回应习近平亲属入股万达报道</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/dbpix-dalian-wanda1-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/dbpix-dalian-wanda1-articleLarge.jpg" alt="大连万达集团董事长王健林" width="550" height="369"></a><p>大连万达集团董事长王健林</p></div>
+<p><a href="http://topics.nytimes.com/top/news/international/countriesandterritories/china/index.html?inline=nyt-geo" target="_blank">中国</a>一位房地产巨头表示，在其公司首次公开发行股票前两个月，中国国家主席的亲属出售了他们所持的公司股份，错过了一笔资本收益“财富”，他说，证明这件事没有涉及腐败。</p>
+<p>房地产巨头王健林上周四在哈佛的一个论坛上被问及一个《纽约时报》的<a title="Link: http://cn.nytimes.com/china/20150428/c28wang/" href="http://cn.nytimes.com/china/20150428/c28wang/" target="_blank" rel="nofollow">调查报道</a>，他用对报道的反驳作了回答。</p>
+<p>当被问及时报报道的政治关系是不是其公司迅速成长的原因时，他说，“万达的快速增长靠的是企业核心竞争能力，靠我们的创新商业模式和有效管理。”</p>
+<p>他还提供了有关<a href="http://topics.nytimes.com/top/reference/timestopics/people/x/xi_jinping/index.html?inline=nyt-per" target="_blank">习近平</a>姐姐和姐夫所持股份的新信息。</p>
+<p>时报的文章称，这对夫妻曾在王健林名下的主要公司、大连万达商业地产上市之前，持有公司的大量股份。他们通过控股公司在2009年购入了价值2860万美元的股票，现在价值2.01亿美元。</p>
+<p>王健林说，习近平的姐姐齐桥桥和她的丈夫邓家贵在大连万达商业地产公司首次公开募股之前，出售了其所持的股份。</p>
+<p>据中国有名的新闻网站《财新网》对王健林哈佛演讲的报道，王健林说，“这件事邓家贵先生是牺牲了巨大利益的。投资熬了6年，眼看可以赚大钱而不赚。”</p>
+<p>王健林还说，“其实这件事证明的不是腐败，恰恰证明习近平主席治国严，治家更严。”</p>
+<p>中国企业高管对国家最高领导层的金融控股发表评论极为罕见，财新网有关王健林演讲的报道，在发出几小时后就从互联网上删掉了。万达集团后来向记者发了讲话内容的英文抄录，确认了上述说法。</p>
+<p>在为公司与习近平亲属的关系作辩白时，王健林也许无意中引起人们注意到有钱有势的中国人的一种常见做法：股份转让，就是为了掩盖商业利益，有时把股份转给远房亲戚或商业伙伴。</p>
+<p>公司记录显示，齐桥桥和邓家贵在2013年10月把控股公司的所有权转给了一名雇员。王健林则表示，他们在万达商业首次公开募股的两个月前，卖掉了他们的股份，那应该是在2014年10月。</p>
+<p>如果属实，他的说法表明，齐桥桥和邓家贵在书面上把股份转给了雇员之后，仍通过某种方式拥有股份。</p>
+<p>万达上市之前公布的文件显示，那家控股公司是北京秦川大地投资有限公司，截至2014年8月中旬仍持有万达股份。</p>
+<p>在公开的记录中看不出来秦川大地是否出售了这些股份。2013年底，秦川大地列出的三家其持有股份的公司中包括大连万达。在其2014年的年报中，秦川大地没有列出任何投资。</p>
+<p>截至周五，上述雇员徐再生仍被列为秦川大地公司的拥有者。</p>
+<p>邓家贵和齐桥桥没有回应置评请求，请求是用传真发到他们在南方城市深圳的办公室的。万达集团在北京的发言人戴维·康诺利(David Connolly)说，因为手机信号很糟，他听不清记者的问题。挂机后，他不再回答记者打给他的电话，也没有回复请求置评的电子邮件和短信。</p>
+<p>当为了掩盖所有权，把财产在书面上转移时，推定的新所有人在中国被称为“白手套”。</p>
+<p>据党中央纪律检查委员会，这些所谓的白手套也长期困扰着中国自己的腐败调查工作，因为调查人员需要找到涉嫌贪污的共产党员的证据。</p>
+<p>纪律检查委员会今年5月在一份<a title="Link: http://www.ccdi.gov.cn/yw/201505/t20150514_56423.html" href="http://www.ccdi.gov.cn/yw/201505/t20150514_56423.html" target="_blank" rel="nofollow">报告</a>中写道，“‘白手套’与权力‘黑手’相伴而生。”</p>
+<p>除了习近平的姐姐和姐夫持有大连万达的股份外，《纽约时报》的文章还找到了其他三名中国最高领导人的亲属和商业伙伴持有王健林名下两家公司股份的记录。</p>
+<p>在那两家公司分别于2014年12月和2015年1月公开发行股票时，这些与四名国领导人家属有关的所有股份的总价值超过了11亿美元。这些股份按上周五香港和深圳的午盘交易价算，市值为12.5亿美元。</p>
+<p>王健林没有提到那三位高级官员的亲属和商业伙伴所持的股份。</p>
+<p>许多情况显示，那些人得到的资本收益似乎远远超过了邓家贵和齐桥桥可能获得的那些。2012年从中央政治局退休的王兆国，其家族曾在2007年购入万达公司的股份，当时的估值低于50万美元，万达首次公开募股时，这些股份的价值已超过5亿美元，收益1000倍。</p>
+<p>前总理温家宝和前北京市委书记贾庆林的亲属和商业伙伴也拥有万达股份，首次公开募股时，这些股份的价值超过2亿美元。</p>
+<p>据公司提供的文字记录，王健林说，“万达没有政治背景。”</p>
+<div>
+<p>傅才德(Michael Forsythe)是《纽约时报》记者。</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%8E%8B%E5%81%A5%E6%9E%97%E5%9B%9E%E5%BA%94%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%B2%E5%B1%9E%E5%85%A5%E8%82%A1%E4%B8%87%E8%BE%BE%E6%8A%A5%E9%81%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%BF%9E%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">大连万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D/?category=18271" rel="tag">温家宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BD%90%E6%A1%A5%E6%A1%A5/?category=18271" rel="tag">齐桥桥</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%BD%93%E5%A4%A9%E6%89%8D%E5%BE%90%E7%BF%94%E7%99%BB%E4%B8%8A%E8%A2%AB%E6%94%B6%E5%89%B2%E8%80%85%E7%9A%84%E5%90%8D%E5%8D%95/" target="cdt-mirror">海涛评论 | 当“天才徐翔”登上被收割者的名单</a>
 </h2>
 <p><p>11月1日晚上，新华社发布了两条来自公安部的消息：</p>
@@ -623,53 +699,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E7%8E%8B%E8%B4%BC%E6%8D%85%E5%88%80%E3%80%81%E8%83%A1%E8%B4%BC%E8%A1%A5%E5%88%80%E3%80%81%E4%B9%A0%E6%80%BB%E8%B4%9F%E4%BC%A4/" target="cdt-mirror">【习总日记】王贼捅刀、胡贼补刀、习总负伤</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，10，31）</p>
-<p>昨天中国财新传媒旗下财经网发了一篇“补刀”的报道。报道称中国地产大亨王健林星期四在哈佛大学主讲“公开课”，在回应有关纽约时报报道时说了“捅刀”的话。他说，齐桥桥和邓家贵在万达上市前两个月就已经把万达的股票全部转让，并说 “这件事邓家贵先生是牺牲了巨大利益的”。众所周知，齐桥桥和邓家贵是我的姐姐和姐夫。</p>
-<p>问题是敌对势力的《纽约时报》记者傅才德早先已得到证据。他告诉美国之音说，“奇怪的是，邓家贵和齐桥桥那个时候（万达上市时间是2014年12月）已经没有万达的股票了，因为根据工商局的材料，2013年10月份，他们已经把他们万达的股权转让给他们的一个长期职工徐再生。”</p>
-<p>就这样，王贼健林联手胡贼舒立把我坑了。一个捅刀，另一个补刀。我身受重伤。</p>
-<p>王贼健林的言论不但证实了我姐姐姐夫曾经持有万达股票的事实，也证实了他们以他人代为持股方式违法持股的事实。王贼健林的证言更证实了中南海不干净，党中央里没有一个好东西，共产党的高级领导干部包括我的家族都参与了以权谋私勾当。</p>
-<p>这是时代悲剧，也是历史局限，我也没办法。从改革开放到现在的三十多年，很多问题不是我一人能够解决的。面对以权谋私权力寻租，官商勾结权贵垄断，三十多年延续下来之弊端，火力全开打老虎累死武松之后，我也学用一个网络新词发泄此时此刻的心境，然并卵。</p>
-<p>中国共产党从一个为人民谋幸福的革命政党，变成现在的“三抢党”，抢权抢钱抢女人。一路走来，好事做尽坏事做绝。解救党改造党，进而改造中国实行民族复兴，历史的重担落在了我的肩上。</p>
-<p>要做事做好事做大事必先集权，可惜集权路上内外交困阻力重重。党内，剪除老人政治比打击贪污腐败难得多。三年来，我和王岐山在前面嗨哟嗨哟打虎拍苍蝇，老人们在后面一会儿咳嗽一会儿打喷嚏。待我差人前去问候身体健康，他们总是一句话，请转告习总，凡事得慢慢来急不得，下药重也会医死人。一帮老中医。怪不得最近高人传来一句话：治大国如吃伟哥，硬起来。</p>
-<p>可硬得起来吗？刚当上总书记那阵我在钓鱼岛硬，派船前往钓鱼岛海域巡逻。美帝马上搬出日美安保条约吓唬我。我刚宣布设立东海防空识别区，美帝B-52马上掠阵打脸。现在我在南海造岛，美帝又派军舰硬闯12海哩。</p>
-<p>对内更硬不起来。我姐姐姐夫如何得到万达股票？还不是依靠我这个当总书记的弟弟。今后我还好意思说别人？自己屁股都没擦干净。而且也擦不干净。<br>
-所以啊，只好背书单。</p>
-<p>过几天去越南访问，准备唱一首“越南中国山连山水连水”给大家听。到新加坡访问，我准备改背书单为背歌单，因为当年在梁家河，就喜欢听林俊杰和孙燕姿的歌。大家说好不好？</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/103115.jpg" alt="103115" width="551" height="310"></p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E7%8E%8B%E8%B4%BC%E6%8D%85%E5%88%80%E3%80%81%E8%83%A1%E8%B4%BC%E8%A1%A5%E5%88%80%E3%80%81%E4%B9%A0%E6%80%BB%E8%B4%9F%E4%BC%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%84%B6%E5%B9%B6%E5%8D%B5/?category=18271" rel="tag">然并卵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%88%92%E7%AB%8B/?category=18271" rel="tag">胡舒立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BD%90%E6%A1%A5%E6%A1%A5/?category=18271" rel="tag">齐桥桥</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%9170%E5%90%8E%E7%9A%84%E7%97%9B%EF%BC%9A%E4%BD%A0%E7%A1%AC%E6%97%B6%E6%94%BF%E7%AD%96%E6%AF%94%E4%BD%A0%E7%A1%AC%EF%BC%8C%E6%94%BF%E7%AD%96%E8%BD%AF/" target="cdt-mirror">【河蟹档案】70后的痛：你硬时政策比你硬，政策软时你还软</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%AE%89%E6%99%AE%E8%8B%A5-%E5%A4%96%E5%8F%B7%E5%AE%89%E6%A0%A1%E9%95%BF">安普若-外号安校长</a>：上半年为国接盘，股亏；下半年为国生娃，肾亏。70后的痛：你在硬时，政策比你硬；政策软时，你比政策软……<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%BB%93%E6%9D%9F30%E5%A4%9A%E5%B9%B4%E7%9A%84%E4%B8%80%E8%83%8E%E6%94%BF%E7%AD%96/">BBC | 中国正式宣布结束30多年的一胎政策</a>》</em><br><a href="https://freeweibo.com/weibo/3903400258896235" target="/weibo/390">2015年10月29日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%A2%E7%BB%8F%E5%A5%B3%E4%BD%9C%E5%AE%B601">财经女作家01</a>：外媒报道称，谷俊山腐败金额多达280多亿，徐才厚、郭伯雄涉及腐败金额都在百亿以上。环球社评却称：军队腐败的漏洞虽然出了，但解放军的内部制度仍不失全国最严。可是如果连全国最严的制度个人都可以贪上百亿，其它制度就可想而知了。<em>相关阅读｜《<a href="http://opinion.huanqiu.com/editorial/2014-11/5214144.html">环球社评：出了徐谷等大老虎，如何看解放军</a>》</em><br><a href="https://freeweibo.com/weibo/3901792058294907" target="/weibo/390">2015年10月25日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【困难】总书记曾经说要容纳尖锐的批评意见，现在却又说不许妄议，我们无法辨别这两者之间的界限，唯一的选项只能是：啥也别说。<em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%85%B1%E6%9C%80%E4%B8%A5%E5%85%9A%E7%BA%AA%E5%85%AC%E5%B8%83%EF%BC%9A%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE%E5%8F%AF%E5%BC%80%E9%99%A4/">【网络民议】中共最严党纪公布：妄议中央可开除党籍</a>》</em><br><a href="https://freeweibo.com/weibo/3901259154792919" target="/weibo/390">2015年10月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%88%E6%98%8E%E9%A3%8E%E8%BD%BB">月明风轻</a>：政府为什么要全面放开二孩政策？<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%AE%8B%E7%9F%B3%E7%94%B7%EF%BC%9A%E6%97%A0%E9%A1%BB%E4%B8%BA%E4%BA%8C%E8%83%8E%E5%BC%80%E6%94%BE%E6%AC%A2%E5%91%BC/">宋石男：无须为二胎开放欢呼</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E8%82%B2%E5%84%BF%E5%8E%8B%E5%8A%9B%E4%B8%8D%E5%87%8F-%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E9%9A%BE%E5%A5%8F%E6%95%88/">网易另一面 | 育儿压力不减 放开二孩难奏效</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44423.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44423.jpg" alt="444" width="481" height="529"></a><br><a href="https://freeweibo.com/weibo/3903399319380242" target="/weibo/390">2015年10月29日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%A7%91%E7%BD%97%E5%BB%96%E5%A4%AB">科罗廖夫</a>：【妄议国政，速速拿下】大家表给领导添麻烦了好吧。<em>相关阅读｜《<a href="http://www.dw.com/zh/%E5%AF%BB%E6%B1%82%E8%A7%A3%E5%86%B3%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE-%E4%B8%AD%E7%BE%8E%E6%B5%B7%E5%86%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%BF%9B%E8%A1%8C%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AE%AE/a-18809557">德国之声<em>｜</em>寻求解决南海争议 中美海军领导人进行视频会议</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44421.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44421.jpg" alt="444" width="385" height="550"></a><br><a href="https://freeweibo.com/weibo/3903283518963265" target="/weibo/390">2015年10月29日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%A2%81%E8%A3%95%E6%9D%A5%E5%BE%8B%E5%B8%88">袁裕来律师</a>：大爷：很抱歉，你的爱国行为，不符合国家标准。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44422.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44422.jpg" alt="444" width="450" height="306"></a><br><a href="https://freeweibo.com/weibo/3903294269032130" target="/weibo/390">2015年10月29日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E4%BD%B3%E4%BD%B3Audrey">李佳佳Audrey</a>：学习了。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44418.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44418.jpg" alt="444" width="601" height="155"></a><br><a href="https://freeweibo.com/weibo/3901260035976823" target="/weibo/390">2015年10月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E5%AE%89">黄安</a>：台湾自由时报头版头条：“脸妆失控浮白粉，彭麻麻变厉鬼！”把习近平演讲说成“集体打瞌睡”。 <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%AE%BF%E8%8B%B1%E5%8C%96%E5%A6%86%E5%A4%B1%E8%B4%A5%E7%85%A7-%E9%81%AD%E5%BE%AE%E5%8D%9A%E6%B2%B3%E8%9F%B9/">立场新闻 | 彭丽媛访英化妆失败照 遭微博河蟹</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44417.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44417.jpg" alt="444" width="508" height="381"></a><br><a href="https://freeweibo.com/weibo/3901388251307674" target="/weibo/390">2015年10月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E5%A4%96%E4%B9%94%E6%9C%A8">北外乔木</a>：BBC的女记者问习一个很有意思的问题：为什么你认为英国民众应该高兴与这样的一个国家加强贸易往来？它不民主、不透明、对人权的态度令人深深不安。习总书记摘下耳机，回答的也挺有意思：1、中国重视人权；2、没有一个国家的人权是完美的；3、中国愿意和英国加强人权对话。//*<a href="https://freeweibo.com/weibo/%40%E8%89%BE%E7%BE%A4%E7%AD%96%E5%BE%AE%E5%8D%9A">艾群策微博</a>：抓我司股东一赵岩记者，再抓蒲志强、王宇、张凯律师一一我司法律顾问，人权…  <em>相关阅读｜</em>《<em><a href="http://www.bbc.com/zhongwen/simp/multimedia/2015/10/151021_vid_xi_uk_human_rights">视频：习近平答BBC记者人权提问</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44419.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44419.jpg" alt="444" width="452" height="294"></a><br><a href="https://freeweibo.com/weibo/3901049880049710" target="/weibo/390">2015年10月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%97%BB%E7%BE%8A%E7%9F%A5%E9%A9%AC">闻羊知马</a>：央视新闻只说了前半部分，没说后半部分。<em>相关阅读｜</em>《<em><a href="https://zh.wikipedia.org/wiki/%E8%B5%B5%E4%B8%80%E6%9B%BC">维基百科｜赵一曼</a></em>》；《<em><a href="http://baike.baidu.com/view/2886894.htm">百度百科｜陈达邦</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44420.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44420.jpg" alt="444" width="410" height="857"></a><br><a href="https://freeweibo.com/weibo/3902201409327774" target="/weibo/390">2015年10月26日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A8%E5%85%B4%E6%9D%83%E5%BE%8B%E5%B8%88">杨兴权律师</a>：删了重发。  <em>相关阅读｜</em>《<em><a href="http://www.bbc.com/zhongwen/simp/china/2015/09/150904_church_lawyer_police_notice">BBC｜浙江教会维权律师张凯被控窃取机密罪名</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44425.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44425.jpg" alt="444" width="473" height="630"></a><br><a href="https://freeweibo.com/weibo/3903351533673850" target="/weibo/390">2015年10月29日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%91%E6%98%93%E4%BA%91%E9%98%85%E8%AF%BB">网易云阅读</a>：#全面二胎#下面这些内容均来自网易微博网友亲述的计生政策背后的故事。这些微博都非常有价值，可称得上是珍贵史料。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44424.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44424.jpg" alt="444" width="382" height="4545"></a><br><a href="https://freeweibo.com/weibo/3903603246577519" target="/weibo/390">2015年10月30日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%9170%E5%90%8E%E7%9A%84%E7%97%9B%EF%BC%9A%E4%BD%A0%E7%A1%AC%E6%97%B6%E6%94%BF%E7%AD%96%E6%AF%94%E4%BD%A0%E7%A1%AC%EF%BC%8C%E6%94%BF%E7%AD%96%E8%BD%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E5%A5%B3%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE/?category=18271" rel="tag">BBC女记者提问</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E%E5%8C%96/?category=18271" rel="tag">一胎化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8B%B1%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中英关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E7%94%9F%E5%A8%83/?category=18271" rel="tag">为国生娃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E4%B8%8B%E6%95%99%E4%BC%9A/?category=18271" rel="tag">地下教会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE/?category=18271" rel="tag">妄议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%87%AF/?category=18271" rel="tag">张凯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BD%B3%E4%BD%B3/?category=18271" rel="tag">李佳佳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E9%BE%84%E5%8C%96/?category=18271" rel="tag">老龄化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E4%B8%80%E6%9B%BC/?category=18271" rel="tag">赵一曼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%BE%BE%E9%82%A6/?category=18271" rel="tag">陈达邦</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -681,7 +710,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E5%A5%B3%E8%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -691,5 +720,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E5%A5%B3%E8%AE
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

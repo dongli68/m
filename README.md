@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,111 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%BB%AC%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AE%B9%E5%BC%82%E8%AE%AE%E7%9A%84%E7%89%BA%E7%89%B2%E5%93%81/" target="cdt-mirror">博谈网｜漫画家们成为中国不容异议的牺牲品</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2014/01/%E6%88%90%E6%B6%9B%E6%BC%AB%E7%94%BB%EF%BC%9A%E8%A2%AB%E5%91%8A.jpg" alt="成涛漫画：被告" width="328" height="328">（博谈网记者赵亮编译报道）据《美联社》11月1日报道，白补旦上午到天安门广场漫步，希望能为一个新的系列讽刺漫画寻找灵感。讽刺漫画这种艺术形式在中国只能勉强存活。</p>
+<p>他想到了在广场上安装的众多监控摄像头，就在故宫入口上方一幅巨大的毛泽东画像对面。“这些摄像头是为了谁的安全？是为了老百姓的安全吗？”他问。</p>
+<p>他想起了他小时候唱的流行儿童歌曲《我爱北京天安门》。他勾画了毛的画像，并用更新后的歌词加以说明。</p>
+<p>回到工作室，他很快就画了两个粉红色的丘比特，把箭指向三个安全摄像头，背景是故宫。标题写着“我爱北京天安门的安全摄像头”。</p>
+<p>当他感到已完成了这幅作品后，他将在哪里展示呢？在中国谁能看到？这些问题都充满了风险。</p>
+<p>自从1949年共产主义革命以来，在中国，漫画家们画政治讽刺漫画已颇为罕见，虽然三年前一些人开始获得关注。尤其是一名叫做“变态辣椒”的艺术家，其漫画作品在社交媒体上广为流传。</p>
+<p>2013年12月，中国国家主席习近平到北京一间小餐馆吃了些包子作午餐，这成为头条新闻。变态辣椒把习画成一只包子，周围是其他的早点在向他磕头，仿佛他是一个旧时期的君王。2014年10月的一幅漫画画的是习与一名民族主义博客写手周小平上床；习曾称赞过周，虽然这位年轻人因夸大对美国的负面指责而受到关注。</p>
+<p>去年，中国当局突然关闭了属于变态辣椒的社交媒体账号，并搜了他的家，后来他自己流亡日本。他的本名叫王立铭。这一打压处于中国领导层广泛遏制知识分子、律师及中共党外任何团体寻求推动社会变革的背景之下。</p>
+<p>白补旦避免去针对领导人，而是瞄准了整个社会，往往采用丘比特形象来说明他的观点。即便如此，去年在他刊登了一幅天安门广场浸在红墨水之中的漫画后，他的微博帐号被终止。该漫画看上去象是影射1989年军队在天安门广场屠杀亲民主的学生，这在中国仍是一个禁忌话题。</p>
+<p>白说向公众展示他的漫画是一个挑战，他常常采用私下展览。</p>
+<p>“我还没有公开展示我的许多画作。我的微博帐号去年被关闭了，但我尽量不去想太多可能存在的风险，我尽量去想积极的事情，或是尽量保持乐观”，白说。</p>
+<p>“任何职业都带有风险，对吧？”他在北京的家外接受记者采访时说。</p>
+<p>“一个正常的社会应该有这类艺术家”，中国艺术批评家栗宪庭在接受采访时说。“如果没有人发出他们的声音，那么，当然这就不是一个正常的社会。”</p>
+<p>“在中国，漫画家们越来越少。这是因为没有让他们成长的空间。他们无法去接触公众，没有给他们的平台。在过去，报纸和印刷媒体起了非常重要的作用。”</p>
+<p>白来自采矿的省份山西。他是在宣纸上用墨水和砚台作画，他也通过摄影和纪录片来评论社会问题。</p>
+<p>“所有发生在我们社会中的事情都让我关注”，他说。“我思考着这些问题，并画下来。”</p>
+<p> </p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%BB%AC%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AE%B9%E5%BC%82%E8%AE%AE%E7%9A%84%E7%89%BA%E7%89%B2%E5%93%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%9B%AA%E8%AE%BF-%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84%E6%97%A0%E5%90%8D%E8%80%85/" target="cdt-mirror">雪访 | 被屏蔽的无名者</a>
+</h2>
+<p><blockquote><p>“自觉与重建————从延安木刻到无名者的实践”，是西安美术馆今年展览的一场重头戏。10月25日下午开幕，来了不少当代艺术圈的大咖。做“新宣传画”的李公明，以及拍摄《淹没》、《乡村档案》的李一凡，还有山西许村艺术计划的发起人渠岩等艺术家，都带着他们的作品来参展。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%9B%AA%E8%AE%BF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%9B%AA%E8%AE%BF.jpg" alt="雪访" width="550" height="364"></a></p>
+</blockquote>
+<p><strong>一、让无名者被看见</strong></p>
+<p>26日下午，赵小平和另外两个出租车司机来看展。进了1300多平米的展厅，一时间丈二和尚摸不着头脑，刘伟伟理所当然地做起了“导览”。</p>
+<p>赵小平最关心的当然是“众泰”。他是一个老出租车司机，也是西安维权出租车司机自己组建的公司——“众泰”的负责人。今年7月，艺术家刘伟伟给他们拍了个纪录片，就叫《众泰》，还在西安美术馆放映了，当时有近300名出租车司机来观看。</p>
+<p>众泰司机的维权故事，在西安一直被屏蔽着，本地媒体上基本看不到他们的消息。这场出租车司机“占领美术馆”的行动，多少以迂回的方式，唤起了公众对西安“众泰”维权的注意。前不久，《人民日报》中央人民广播电台等官方媒体甚至还发了相关的报道和评论。</p>
+<p>但在刘伟伟看来，“众泰”至今依然是不折不扣的“无名者”。司机们经过一年来的艰辛努力，提交了1000多份信息公开申请，终于拿到了营业执照，本来有望“翻身做主”，摆脱高额的“份子钱”盘剥，也帮政府探出一条出租车管理的新路子来。但至今政府不允许他们上路。新买的70多辆车，停放在三桥一个废弃的厂区里，偶尔被司机开到路上转悠，但不能“拉客”，又闷声回来。</p>
+<p>“这正是一个无名者的状态。”刘伟伟说。所以，在一开始受邀参加“无名者”展览后，他决定做一个“东西”，即把众泰公司在西安郊区租来的一个办公室，全部搬到美术馆来，让赵小平等人在现场办公，以此来展示一个“被无名”的处境，反映底层生活的真实。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%98%E4%BC%9F%E4%BC%9F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%98%E4%BC%9F%E4%BC%9F.jpg" alt="艺术家刘伟伟和他未能拆封的作品" width="550" height="412"></a><p>艺术家刘伟伟和他未能拆封的作品</p></div>
+<p>是的，在“延安木刻”这样一个引子下，这一切看起来都顺理成章。就如策展人、西安美术馆副馆长满宇所说，鲁迅当年的新木刻运动，也是“底层人被看到”的运动。后来的延安木刻，作为一种红色艺术样式，虽是宣教与灌输，但多以工农兵生活为主题，是在整个国家遭遇现代性的背景下， 对那个时代“无名者”的一次重新命名。</p>
+<p>时隔七八十年，今日的无名者，如何身处真实的生活？以关注真实世界为己任的当代艺术又该如何关注他们？带着很多问题，满宇策划了这场展览。</p>
+<p>但是，慢着，这次，艺术家将要与真实的“被无名”遭遇了。</p>
+<p><strong>二、无法拆封的众泰</strong></p>
+<p>进了展厅的大门，赵小平先看到了一面墙，涂成两块深灰色，下面分别写着“14，15”，以及“24，25”，表示是四个页码，但上面什么都没有。他没有在意，直到走完整个展厅，没有见到“众泰”两个字的任何标志，他才若有所思，大概明白了这面墙和刘伟伟让“众泰”来参展的用意。</p>
+<p>在这个展厅里，“众泰”其实一直是在的，不过观众们看不到。人们从展厅的一角走过，可以看到一个被用木条隔开、犹如禁闭室一样的半开放空间，地面上摆放着一大堆尚未拆封的包装箱。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%BC%97%E6%B3%B0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%BC%97%E6%B3%B0.jpg" alt="犹如禁闭室一样的半开放空间，尚未拆封的包装箱，“众泰”就被包裹在其中。墙上两个空白页，本是刘伟伟作品介绍，也被删掉了。" width="550" height="411"></a><p>犹如禁闭室一样的半开放空间，尚未拆封的包装箱，“众泰”就被包裹在其中。墙上两个空白页，本是刘伟伟作品介绍，也被删掉了。</p></div>
+<p>这是24件形状各异的纸箱，“众泰”就被包裹在其中。横的，竖的，大的，小的。看得出模样的，是一张旧的黑皮沙发。还有两张木桌。圆筒状的，是一个液化气管，来自“众泰”简陋的厨房。<br>
+唯一没有包裹起来的，是一张简易黑板。那是众泰司机学习维权的法律知识时用的。这就是众泰办公室的全部用品。</p>
+<p>但这些包装箱已没有机会打开。在展览开始之前，美术馆接到“上面”的要求，不能让“众泰”在美术馆参加展览。</p>
+<p>“也算是将计就计。现在展览的，其实就是一个审查的结果。”刘伟伟说。他并不觉得遗憾。反而觉得这一切恰好和“众泰”在社会上的遭遇，以及他本人作为艺术家，在这样一个艺术现场的遭遇完全吻合。“这就是一个未被拆封的现实。”</p>
+<p>门口那面灰色的墙，谜底也揭开了。那四页空白，原本是展览的文字介绍页码。其中两页是关于刘伟伟的众泰，不过在印出来之前，被删掉了。</p>
+<p><strong>三、一个无名者的现场</strong></p>
+<p>赵小平看完展览，懂了。说：“给我支笔”。刘伟伟给他找来了支签字笔。他在一张白纸上写下“众泰”两个字，拿在胸前，让自己和身后的“众泰”合影。</p>
+<p>但他还是有些不甘心。“整个展厅里都没有我们的名字”。他突然拿起笔，在一件包装箱上，写下大大的五个字“众泰的困境”。“应该是听我谈到的。”刘伟伟笑起来。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%98%E4%BC%9F%E4%BC%9F2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%98%E4%BC%9F%E4%BC%9F2.jpg" alt="一组用塑料布、旧沙发、木板等搭建的“游击建筑”，也被称为“流浪汉房屋”，这是艺术家马永峰等人发起的替代性建筑实验的一部分。" width="550" height="366"></a><p>一组用塑料布、旧沙发、木板等搭建的“游击建筑”，也被称为“流浪汉房屋”，这是艺术家马永峰等人发起的替代性建筑实验的一部分。</p></div>
+<p>很快，纸箱上的这几个字就被用胶带粘掉了。能让这些未被拆封的箱子出现在这里，美术馆已经承担了相当的风险，为了让展览顺利进行，不能再出岔子了。</p>
+<p>整个展厅的布置，负责空间设计的王家浩颇用了心思。他认为现场展示的其实是艺术家的在地实验，所以要让作品不那么像“作品”。整个展厅之间没有太明显的区隔，用木条和LED电子屏细条区隔出的空间，有一种日常的气氛。</p>
+<p>入口处，第一件作品是“东湖计划”。2010年6月，武汉东湖面临大规模的商业开放，武汉市民发起了保护东湖的行动，建筑师李巨川和艺术家李郁发起了“每个人的东湖”艺术计划。此次在展厅里，观众可以随意拿取活动的明信片，也可以打开现场的三台电脑，登陆“每个人的东湖”网页，来看发生了什么。</p>
+<p>展厅里，还有一组用塑料布、旧沙发、木板等搭建的“游击建筑”，也被称为“流浪汉房屋”，这是艺术家马永峰等人发起的替代性建筑实验的一部分。</p>
+<p>另外一件作品，与植物社会学相关。艺术家徐坦在西安郊区，和农民一起合作，栽种植物，纪录植被与社会土壤的关联。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%9D%8E%E5%85%AC%E6%98%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%9D%8E%E5%85%AC%E6%98%8E.jpg" alt="年过60的李公明利落地爬上脚手架" width="550" height="413"></a><p>年过60的李公明利落地爬上脚手架</p></div>
+<div><img src="http://mmbiz.qpic.cn/mmbiz/3FNxSgAPUeCIXibDR9I3PrMT0SxSVIm1HXIUccBBh76vVfWTVrORDAib2MYj9HnHpSksd9XSWboaMKe95EbSNy6g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="551" height="419"><p>新宣传画占了满满一面墙</p></div>
+<p>徐坦旁边，一面巨大的墙上，是李公明的“新宣传画”，整整一面墙，基本都是关注公平正义、公民权利的内容，夺人眼球。李公明人高马大，穿件格子衬衫，虽然已经60岁了，仍然麻利地爬上脚手架，和一幅还没有完成的“保护农民工权利”的巨幅宣传画合影。</p>
+<p>2012年春节前，在广州的李公明，看到一则西安的农民工讨要工资的报道，心念一动，与团队连夜赶制了一批明信片，关于保护农民权益的，去火车站、小企业等地发放。这也是他做“新宣传画”的一个延伸。</p>
+<p>用宣传灌输的画面语言，来表达对公平正义以及公民权利的诉求，这样的形式，也有人质疑过。不过李公明认为，主要是看宣传什么，虽然形式可能突兀，但理念传播的效果却是最直接的。</p>
+<p>事实是，“的哥”赵小平来看展的收获之一，就是发觉这些宣传画很有冲击力，他打算回去后，在网上发众泰的信息时，要使用其中一些。“还是图片给人印象深。”</p>
+<p><strong>四、走饭， 被屏蔽的无名者</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/relax%E5%90%8C%E5%AD%A6%E7%A4%BE.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/relax%E5%90%8C%E5%AD%A6%E7%A4%BE.jpg" alt="在展厅的角落里，摆放着五张小圆桌，再仔细点，能看到桌面上Relax同学社的彩虹标志。 " width="550" height="363"></a><p>在展厅的角落里，摆放着五张小圆桌，再仔细点，能看到桌面上Relax同学社的彩虹标志。</p></div>
+<p>在展厅的角落里，摆放着五张小圆桌，如果观众粗心一点，会以为仅仅是休息区。但如果稍加留意，坐下来，拿起桌上的耳机，就能听到5个女同性恋者在讲述自己的故事。再仔细点，能看到桌面上Relax同学社的彩虹标志。</p>
+<p>32岁的隐彦，在10年前就“出柜”，公开了自己的同性恋者身份。2009年，她发起了关注女同性恋者权益的草根公益小组“Relax同学社”。</p>
+<p>2011—2012年，Relax同学社对西安周边地区的15位女同性恋者做了口述史，记录她们的生命故事。这次参加展览的5个故事也在其中。5个讲述者，有“形婚者”，有单亲妈妈，也有同志运动者。</p>
+<p>开幕这天，一名叫赖鑫的年轻观众，走遍了展厅的五个角落，认真地听完了所有故事。他20来岁，在附近一家饭店做厨师。 展览第二天，他又拉朋友来看了一遍。他很喜欢隐彦的这个项目，但他不知道，在展览之前，这个项目也差一点被撤掉。</p>
+<p>现场还有一位完全被屏蔽了的女性。展厅门口另一面灰色的墙，是原本属于她的页码。她叫走饭，一位90后女生。2012年3月18日，走饭因抑郁症自杀，她的最后一条微博是“我有抑郁症，所以就去死一死，没什么重要的原因，大家不必在意我的离开。”从那天起至今，无数网友到她的微博下留言悼念。</p>
+<p>长期关注精神分析领域的满宇，一开始就计划让走饭参加展览。“她的状况是另外一种无名，是个人对自身认识导致的无名，反映的是个体在这个世间最暗处的困境。”满宇说。他一直在关注着走饭的微博，注意到她的最后一条微博， 已被转发8万多次，有40多万条留言。今天的世界，有那么多的抑郁症患者，他们处在怎样的无名状态？满宇曾一度希望这个展览是对走饭这样一个无名者的纪念。</p>
+<p>然而，或许是这个“作品”被认为太“灰色”了，一开始就没有被通过。走饭，最终成了这个无名现场的真正无名者。</p>
+<p><strong>五、让无名者获得尊重</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%A5%BF%E5%AE%89%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%89%AF%E9%A6%86%E9%95%BF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%A5%BF%E5%AE%89%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%89%AF%E9%A6%86%E9%95%BF.jpg" alt="西安美术馆年轻的副馆长满宇，是这次展览的策展人。" width="550" height="365"></a><p>西安美术馆年轻的副馆长满宇，是这次展览的策展人。</p></div>
+<p>“无名者：一是在社会的秩序中被遮蔽的人，或在秩序中无法被命名的人；二是个人的偶然性在与秩序的遭遇中，被压抑而无法言说之症状……” 在展览的前言里，满宇这样写道。</p>
+<p>25日下午，展览开幕后，一个名为“有机知识分子与社会公共性问题”的座谈会同时进行，参加者有李一凡、渠岩、李消非等数十位参展的艺术家。讨论中，现场那些“看不见的作品”让艺术家们欲言又止。</p>
+<p>展厅内，延安木刻的文献资料，如“延安文艺座谈会纪要”、“实践论”等内容，不断从LED电子屏上闪过。红字映照，营造出某种历史的氛围。</p>
+<p>展厅门口，激昂的音乐声中，电视屏幕上播放着300多张当年的延安木刻作品。黑白画面上，是40年代的中国“理想”图景，有解放区生活，有对国民党监狱的控诉，有对言论自由的呼唤，也有对“宪政”和“自由平等生活”的渴望。</p>
+<p>“延安木刻”与一个无名者的现场，看似吊诡的话语，在现实语境里，却又如此顺理成章。“重新审视‘解放话语’，如何倒转为奴役的美学。”展览前言里的这句话，很重，包裹在语言的模糊中，有深刻的沉思在内。</p>
+<p>更重要的当然是现场。而其实，无所不在的“无名”，使得展览现场成为一个真正的无名者场域，“ 且正在进行之中。”</p>
+<p>此时的展厅，如一个巨大的隐喻。外观自由，却其实处处是限制。试举一例，“每个人的东湖”计划，艺术家们建立了一个网站，供人们浏览，但因为网站已被屏蔽，需翻墙才能打开，美术馆为此不得不支付几十块钱的翻墙费用，以帮观众在电脑上打开网页。</p>
+<p>“曾经有记者问我，说当代艺术是大众消费不起的‘海鲜’。其实，在这个现场你能看到，真正的当代艺术就是和大众在一起的。”满宇说。到西安美术馆任副馆长这一年来，他始终在考虑，如何推动西安这座古老城市的当代艺术氛围。</p>
+<p>10月27日，展览第三天。刘伟伟正在考虑继续自己的项目。趁办公家具都搬来美术馆的空档，他要帮“众泰”刷新一下办公室。“这是一个平等合作的关系。我不能只是将他们拉来展览一下就结束了。”刘伟伟说。</p>
+<p>在一个“无名”无所不在的背景下，展览的现场，多件作品都没有文字标签，这会不会影响观众的理解？满宇表示并不担心。</p>
+<p>“其实无名者就是这样。他在，但我们看不见。我们也不遮掩。就无名者来说，这个展览的意义也在这里。”满宇说。</p>
+<p>“无名者其实是一个日常化的遭遇，被屏蔽的状态。你能看到，即使我们做一个这么简单的事，只是让众泰或其他人通过一个正常的途径去说话，却如此艰辛，只因为这涉及到个体的反抗。”刘伟伟说。</p>
+<p>刘伟伟认为，展览不是让无名者走向“有名”，而只是让无名者自身能够被承认，被尊重而已。</p>
+<p>“美术馆是官方的美术机构，有一定的审查，大家都知道。但是否就此止步了？我的态度是不一定激进，而要尽可能发声。其实艺术的柔软就在这里。你说他是A时，他可以成为B。你说是B时，他可以成为C。但它本质上还是那个东西。”刘伟伟说。</p>
+<p>说完这些，刘伟伟去了广州。对这位年轻的艺术家来说，那里有另一个现场等着他，珠三角数十位工友争取自己权益的故事，将是他关注的另一个无名者现场。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%9B%AA%E8%AE%BF-%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84%E6%97%A0%E5%90%8D%E8%80%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%97%E6%B3%B0/?category=18271" rel="tag">众泰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F%E4%BC%9F/?category=18271" rel="tag">刘伟伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E5%90%8D%E8%80%85/?category=18271" rel="tag">无名者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E6%9C%AF/?category=18271" rel="tag">艺术</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E8%83%A1%E4%BE%83%E6%98%AF%E5%A4%9A%E5%85%83-%E5%88%AB%E4%BA%BA%E8%83%A1%E4%BE%83%E8%BF%9B%E5%B1%80%E5%AD%90/" target="cdt-mirror">【网络民议】你胡侃是多元 别人胡侃进局子</a>
 </h2>
 <p><p>@胡锡进：既然来了舆论场，我就不会走。环球时报早就被这个时代“抓了壮丁”，除非终老，我没有权利倒下。今天我带着自己的视频节目”胡侃”回到微博，它是我和环时价值观的可视展现。时代给了我们一个角色，我须倾力对它负责。就当我是“胡侃”吧。珍惜多元，团结万岁。</p>
@@ -629,76 +731,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%90%8E%E8%8E%B7%E5%8F%96%E4%BF%9D%E9%87%8A%E6%94%BE/" target="cdt-mirror">法广｜记者刘伟央视忏悔后获取保释放</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/127160098.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/127160098.jpg" alt="127160098" width="440" height="429"></a><br>
-（图片来源：新浪微博 @京华时报）</p>
-<p>今天（10月31日），中央电视台播放了《南方都市报 》记者在警方监视下接受央视记者采访，并流泪忏悔的画面。本台记者从接近《南方都市报》的渠道得知，刘伟今天已经获得“取保候审”释放。</p>
-<p>根据此前新华社发布的未署名的公安部通稿，“为了获取王林案的办理情况，王林的情妇雷帆、前妻张七凤谋划向办案民警钟伟行贿200万元，双方达成协议。案发时，张七凤已向钟伟支付50万元“好处费”，记者刘伟为获取独家信息参与其中。</p>
-<p>根据警方的说法，王林的情人雷帆为获得王林涉嫌杀人案的侦办信息，结识并接近警方内部人钟伟，除了与钟伟发生亲密关系和金钱往来外，雷帆还说服王林前妻张某，支付巨额金钱给警察钟伟。</p>
-<p>刘伟前往萍乡采访时，雷帆将花钱找公安机关内部人员提供消息的事同时告诉刘伟，警方称，当时刘伟回复说：“好事，钱可以谈。”</p>
-<p>此外，刘伟还承认，为了获得王林案一手材料，写出独家报道，他主动联系了雷帆和张七凤并提供了一些帮助。雷帆从钟伟那里获知自己手机被监控后，希望刘伟提供身份证办理手机卡，刘伟便用同事的身份证办了两张手机卡，供雷帆和钟伟联系。</p>
-<p>根据钟伟和王林家人要求，刘伟还将自己的律师朋友侯某介绍给王林家属，替换之前担任王林辩护律师的一名本地律师。</p>
-<p>警方的说法是，在雷帆、张七凤向钟伟购买王林案件信息的“交易”中，刘伟还应雷帆请求对张七凤进行了劝说，警方没有说明这一“劝说”是何等性质。</p>
-<p>警方称，8月1日晚，雷、钟、张三人在萍乡一餐馆内见了面，并达成协议，张七凤支付200万元，分三期给钟伟，首期支付60万元，一审时支付60万元，王林出来后再付80万。</p>
-<p>随后，雷帆开车去火车站接刘伟到了餐馆，钟伟向三人透露了“王林案”中现场勘查、物证提取、嫌疑人的供述等大量核心信息。刘伟围绕核心案情向钟伟提了多个问题。</p>
-<p>刘伟被捕之前，在单位工作平台上撰写的情况说明中，记录了这次会面和他向雷帆提供身份证办理电话卡的细节。<br>
-当时，刘伟对这位警员提供的信息态度谨慎，“这个人的话，由于是单方信息源，当时又没有做记录，又与我们当时的报导角度不符，我们谨慎对待，此后也没有再写过稿子。</p>
-<p>刘伟对雷帆和张七凤行贿警员的态度是，“雷帆曾谈及过对方要钱的事情，由于我们是外人，也与采访报导无关，没有介入。”</p>
-<p>在今天上午央视播出的采访片段中，刘伟对此事表达了悔意。他说，“我为获得独家、一手的信息，把案子一直做到最好，全国领先，参与了其中，这个代价太大了。”</p>
-<p>刘伟的行为，或者游走在法律和新闻伦理边缘，但是否果真涉嫌违法犯罪，仍有疑问。</p>
-<p>刘伟的同事，南方都市报深度部主任王莹说，“从头到尾，我都没看出他的违法违在哪里，如果新闻伦理也算其中的话。我甚至认为，刘伟所以陷入今天困境，一是之前的采访有了资源累积，二是，他有如此之强烈的作为记者要拿独家的职业要求。”</p>
-<p>前记者郭宇宽认为，“刘伟案情被披露，我痛心中，有一丝感动。在整个事件中，那位王林的家人是为了捞人；那位警官图财，图色；而只有这位记者，他在边缘行走，他承受压力，他把自己从一个旁观者变成了一个参与者。”</p>
-<p>“刘伟犯了错误，也将一生承担，而他的错误只有一条，太投入了。但他这些努力，只是为了远离那些发布会的通稿，贴近第一手的信息源，把真正深度的报道奉献给社会，如果说他的私利，也只有一条，那就是为了调查记者的荣誉。”</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%90%8E%E8%8E%B7%E5%8F%96%E4%BF%9D%E9%87%8A%E6%94%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97/?category=18271" rel="tag">王林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%9E%97%E6%A1%88/?category=18271" rel="tag">王林案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E5%88%98%E4%BC%9F/?category=18271" rel="tag">记者刘伟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8E%A8%E7%89%B9%E9%83%BD%E4%B8%8D%E8%83%BD%E7%8E%A9%EF%BC%8C%E6%88%91%E4%B9%9F%E8%A6%81%E5%8A%A0%E5%85%A5%E5%AE%A3%E4%BC%A0%E9%83%A8/" target="cdt-mirror">【网络民议】推特都不能玩，我也要加入宣传部</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/2214257545/D1Bq58MPe">@YouTube精选</a>：【新华社在推特上发布了这个MV 向外国人介绍“十三五”】这个很多人都听说过了吧。。。虽然说歌词感觉有点羞耻——“十三五，十三五，人人都在谈论十三五。”——但是不吹不黑，歌还是挺好听的。。。新华社对内一本正经，但对外，还是挺拼的。没错，这还是复兴之路工作室的作品。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%96%B0%E5%8D%8E%E7%A4%BE135.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E6%96%B0%E5%8D%8E%E7%A4%BE135.png" alt="新华社135" width="500" height="1011"></a></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a title="端传媒 | 谁在装扮习近平的海外形象？ 2015.09.25" href="http://chinadigitaltimes.net/chinese/2015/09/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B0%81%E5%9C%A8%E8%A3%85%E6%89%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E5%BD%A2%E8%B1%A1%EF%BC%9F-2/">端传媒 | 谁在装扮习近平的海外形象？</a></li>
-<li><a title="Permanent Link to 【网络民议】反正也没在野党，你说好就好喽" href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%8D%E6%AD%A3%E4%B9%9F%E6%B2%A1%E5%9C%A8%E9%87%8E%E5%85%9A%EF%BC%8C%E4%BD%A0%E8%AF%B4%E5%A5%BD%E5%B0%B1%E5%A5%BD%E5%96%BD/" rel="bookmark">【网络民议】反正也没在野党，你说好就好喽 </a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E8%A3%A4%E8%A1%A9%E8%A6%81%E7%BF%BB%E5%A2%99-%E4%B8%8D%E6%80%95%E8%B5%B0%E5%85%89%E5%90%97%EF%BC%9F/">【网络民议】大裤衩要翻墙 不怕走光吗？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2012/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%AA%E8%AE%B8%E6%96%B0%E5%8D%8E%E6%8C%96%E5%9C%B0%E9%81%93-%E4%B8%8D%E8%AE%B8%E7%99%BE%E5%A7%93%E7%BF%BB%E5%A2%99%E5%A4%B4/">【网络民议】只许新华挖地道 不许百姓翻墙头</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/jakobs" target="_blank">Mr_Vers</a>：只许州官放火不许百姓点灯~~~老子们推特非死不可进都进不了，它们这帮渣渣居然在上面趁机洗别人的脑~~<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
-<p><a href="http://weibo.com/ethanseduce" target="_blank">EthanDamn</a>：他们凭什么用推特而我们只能用微博<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/3120881740" target="_blank">bigbig河马</a>：推特都不能玩，我也要加入宣传部<img title="[歪果仁夏克立]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9c/bbqnxiakeli_org.gif" alt="[歪果仁夏克立]"></p>
-<p><a href="http://weibo.com/3177645454" target="_blank">寡人笑点高不可攀</a>：求新华VPN代理<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/1904590273" target="_blank">江山谁主沉浮</a>：看了评论视频就不看了，在自由世界新华社也得拼啊 <img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/3820767858" target="_blank">海上龍舌蘭TakilaHotel</a>：萱萱每年养洋五毛花销也不少<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/2103203280" target="_blank">彰显英雄本色-</a>：别独自承担宣传国家形象的大任，让我们也分担一点吧！孤军奋战不如团队的影响力大！<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
-<p><a href="http://weibo.com/3192915821" target="_blank">半颗-咖啡豆</a>：我要告你散播谣言，我查了，只有404<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/2937663383" target="_blank">生仔好痛</a>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">我们也要不翻墙就可以上推特</p>
-<p><a href="http://weibo.com/3995496457" target="_blank">章鱼情人知己</a>：新华社是怎么上推特的，求分享，我已经一个多月没翻过去了<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]">只许州官放火不许百姓点灯<img title="[打脸]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]">反动行为已举报<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p>@神判法：回复@李伟_Koma: 上网需要入口接入，他们在端口单独开条线 或者 自己在美国弄个VPN服务器就行了</p>
-<p>@Scarlett-趙：做的是真的很好，然并卵外国老百姓真的一点都不关心中国老百姓过什么日子，尤其的美国人they dont care at all</p>
-<p>@反反复复红红火火恍恍惚惚：之前翻墙的时候就看到了新华的推特，但是没关注、怕是假的。现在知道原来是真的。我就想问问，他们用什么微屁嗯？稳定吗？多少钱一个月？</p>
-<p>@LHT___：不吹不黑，垃圾，有了对比之后，我真是对长者以及以前一些官员好感大增，长者虽有小坏，但是有真才实干，谈笑风生也是建立在相对开明基础上的。。。宣传哪有现在一天一个舌战，震惊。。。</p>
-<p>@旅行摄影师Yogi：习泽东是人民的大救星～</p>
-<p>@丧心病狂大脸猫：真恶心 当外国人傻啊 还能被你洗脑？整个包子天天炒作，以前涛哥和老江也不敢这么搞个人崇拜啊</p>
-<p>@很晚的风：尼玛 新华社能上推特而中国的老百姓却不行这是多大的讽刺啊</p>
-<p>@梦游的棉花：给洋大人看的果真洋气些</p>
-<p>@Joeupupup：其实就是在骂某党13和25…就是这个feel</p>
-<p><a href="http://weibo.com/1687162911" target="_blank">First同学</a>：有个现象很有趣，同样是转发这个MV的，在此微博下的热评大多是贬低和挖苦，反倒是很多留学生关注的英国红领巾微博，那下边的评论却基本都是赞扬和鼓励的<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><em><strong>附</strong>：《十三五之歌》Youtube 视频截图；有<a href="https://www.psychologytoday.com/blog/talking-apes/201510/do-you-know-about-the-shi-san-wu">博主</a>推测大象、熊和狼分别指代印度、中国和美国</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/135.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/135.png" alt="135" width="550" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8E%A8%E7%89%B9%E9%83%BD%E4%B8%8D%E8%83%BD%E7%8E%A9%EF%BC%8C%E6%88%91%E4%B9%9F%E8%A6%81%E5%8A%A0%E5%85%A5%E5%AE%A3%E4%BC%A0%E9%83%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">中国软实力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -710,7 +742,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -720,5 +752,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

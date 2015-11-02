@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%BD%93%E5%A4%A9%E6%89%8D%E5%BE%90%E7%BF%94%E7%99%BB%E4%B8%8A%E8%A2%AB%E6%94%B6%E5%89%B2%E8%80%85%E7%9A%84%E5%90%8D%E5%8D%95/" target="cdt-mirror">海涛评论 | 当“天才徐翔”登上被收割者的名单</a>
+</h2>
+<p><p>11月1日晚上，新华社发布了两条来自公安部的消息：</p>
+<p>1，泽熙公司法定代表人徐翔等人遭警方调查，据称，徐翔等人通过非法手段获取股市内幕信息，从事内幕交易、操纵股票交易价格，其行为涉嫌违法犯罪。</p>
+<p>2，用约600万启动资金，“高频交易”获利高达20亿元，涉嫌操纵期货市场犯罪，伊世顿国际贸易有限公司总经理高燕、业务拓展经理梁泽中以及华鑫期货公司技术总监金文献等犯罪嫌疑人已被依法批准逮捕。这是7月10日，公安部联合工作组在救市紧要时刻抵达上海开展工作后，破获的重大案件。</p>
+<p>徐翔1978年生人，据说只有高中学历，曾在资本市场创造一个又一个“奇迹”，徐翔是“私募一哥”“股市天才”。</p>
+<p>在中国的股市上，我相信有“天机”，但不相信有“天才”——就像短时间靠“一套高频程序化交易软件”获利20亿，这一定不是“天才”的行为，而是背后藏着不为人知的“天机”。</p>
+<p>天机来自哪里，天机不可泄漏。</p>
+<p>10月31日，周六，证监会“加班”开会。</p>
+<p>会议的名字是“中央第七巡视组巡视中国证券监督管理委员会工作动员会”。证监会主席、党委书记肖钢说，全力支持巡视，主动接受“全面体检”。在此之前，证监会主席助理张育军已经倒下。</p>
+<p>中央第七巡视组组长刘卒在动员会上指出，巡视是党章赋予的重要职责，是党内监督的战略性制度安排，是全面从严治党的重要手段。他进一步之处，全面从严治党是实现党的历史使命的必然要求，核心就是加强党的领导。</p>
+<p>与此同时，本轮巡视，巡视组还进驻了另外13家单位，大多是金融单位和机构，包括中信集团，而此前，中信证券已有4名高管倒下。不同以往，本轮巡视是政治巡视，而非业务巡视，巡视的重点是各单位党组织的政治纪律和政治规矩。</p>
+<p>2015年，对于中国的证券界来说，是剧烈动荡的一年。先是以不堪的方式，疯狂飞升，再以不堪的方式，坠入地狱。</p>
+<p>股灾结束之后，先是中信证券的几位大佬倒下，然后，某券商总裁，在家中自杀不幸身亡。在这位总裁的追悼会上，亲友对他的人品学识赞赏有加，然后透露他曾有严重的抑郁症状……</p>
+<p>最近，我终于把《纸牌屋》第三季看完了。它再次确认了我的一个认知，距离权力越近的地方，黑幕越多。类似于此，今年证券界的一些股市，也强化了我的另一个认知，距离金钱越近的地方，黑幕越多，这一点，密集公布的内幕交易案件也可以佐证。</p>
+<p>证券市场，是一个神奇的领域，在中国有数以亿计的人“沉迷”其中。每个人都渴望通过“资产证券化”迅速让财富暴增，它几乎是短时间内合法实现暴富的唯一途径。2015年上半年，通过股市这个“捷径”暴富的故事，不断上演。但接下来的故事说明，一夜合法暴富，是多么的不现实，大多数人迅速被合法收割，才是股市的常态。</p>
+<p>大多数人“供养”少数人，少数人收割大多数人，这是丛林里的常态。股市从来还没有提供过“共同富裕”的路径，它还处于野蛮和血腥的阶段。丛林社会的特点是，没有谁能笑到最后，即便是塔尖上的人们，也不过是过着刀口添血的华丽生活。从鸡犬升天到股灾爆发，从国家救市到到证监会高官落马，券商巨头高管被抓、抑郁自杀，私募大佬遭调查，2015年才过去10个月，其精彩程度，已经浓缩了中国股市20年来的“精华”。</p>
+<p>在一个漏洞百出的市场，每一个人都会有借助漏洞赚钱的冲动。如果你的身上如果没有那种原罪，并非因为你洁身自好，不过是因为你距离“天机”太远。你若能够火中取栗，往往不是因为你智商高，极有可能只是暂时幸运罢了。是的，收割者也有被收割的时候，但是当你看到那么多的“大佬”倒下，不要以为正义终于到来——伊世顿国际“操纵期货市场”的20亿获利不会有一分钱还给你——那只是说明绞肉机一旦启动，连操纵机器的人也可能血肉模糊。</p>
+<p>看吧，当600万通过“高频交易”获利20亿曝光，当“天才”徐翔登上被收割者的名单，当“国家”在救市时被当成笑话嘲讽，当巡视组密集进驻金融机构，接下来或许会讲出更多与股市有关的故事。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%BD%93%E5%A4%A9%E6%89%8D%E5%BE%90%E7%BF%94%E7%99%BB%E4%B8%8A%E8%A2%AB%E6%94%B6%E5%89%B2%E8%80%85%E7%9A%84%E5%90%8D%E5%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%93%8D%E7%BA%B5%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">操纵期货市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">金融机构</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B4%BE%E5%BA%86%E6%9E%97%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/" target="cdt-mirror">【习总日记】 贾庆林给十八届五中全会的贺信</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174"><br>
+（2015，11，2）</p>
+<p>昨天转发了温家宝给五中全会的贺信，今天转发贾庆林的贺信。温家宝重点为领导干部家属子女经商参股辩护，而贾庆林则对整党提出意见和建议。</p>
+<p>贾庆林的贺信大意是：</p>
+<p>党中央，习近平总书记，热烈祝贺党的第十八届中央委员会第五次全体会议召开，祝愿全党在以习近平同志为总书记的党中央领导下，勇于进取，敢于开拓，勤于实践，为中国人民为全世界人民创造和贡献具有中国特色的社会主义制度及其价值观。</p>
+<p>十八大以来，我党在习近平同志领导下，令中国给世界耳目一新刮目相看。最值得称赞的是，在整党治军反腐败问题上，尤为出色成绩卓著。三年清知府，十万雪花银。习总三年反贪，也该到了清点战果总结经验的时候，算算之江新军占了多少要职。</p>
+<p>有人说习总反腐不假，但任人唯亲，故反腐动机可疑。我个人觉得没有必要怀疑习总反腐的动机和决心。任人唯亲一事，情有可原。回顾党走过的九十年光辉历史，和新中国六十多年历史，毛邓江胡，谁不想任人唯亲？除非办不到。毛主席把江青塞进文革领导小组正是明显的例子。今天我们的习总用彭丽媛了么，没有吧。所以习总任人唯亲至少还没超过毛主席。一朝天子一朝臣。没什么可说的。</p>
+<p>有人说习总选择性反腐。这也不是事实。因为如果选择性反腐的话，三年下来，习总也不会在九三大阅兵上皱眉头哭丧着脸，也不会访美后美国军舰硬闯12海哩，也不会老是跑到国外去背书单。之所以有这样结果，一定是没有搞定党内对手嘛。国内搞得定的人，如毛主席邓小平，不会老是去外面溜达挣个表面风光。譬如隔壁金三，人家把朝鲜搞得妥妥的，不用外出撒钱搞凯子外交。当然他也没钱。我要说的是其实有钱咱可自己花，没必要拱手送人被老百姓背地里骂像个白痴。被老百姓骂也就骂了，何必发明那么多新罪名堵老百姓的嘴。堵了嘴能堵心吗？堵了嘴心就不堵了么？</p>
+<p>听说党中央整党从贪官那里搂了很多钱。我建议分给官二代里头的困难户。大家都是共和国的主人，一碗水要端平，不能经商参股的发了大财，老实巴交安分守己的家徒四壁。以权谋私谁不会呀，没啥技术含量在里头。不用清华博士学位，工农兵大学生也会吧。党中央三令五申干部家属不许利用领导干部地位经商，听党话的和不听党话的，结果大家都看见了，如果不想办法弥补弥补听党话的损失，将来谁还坚持听党的话跟共产党走？看李敏李讷毛新宇几家穷酸样儿，心中不忍。</p>
+<p>我提议，在改革开放三十年中发了大财的高级干部家族，把财产的30%贡献出来，成立领导干部富帮穷基金，专门补贴不富裕的高级干部家属子女。本人愿意带头捐献20亿人民币以表示，即使是馊主意也是认真的。</p>
+<p>反腐败反贪官，反得官不聊生，今后谁帮我们？老百姓如果没有从中得到实惠的话，早晚也会收起掌声。由此我认为，反贪腐要作修正，改开除党籍移送法办为戴罪立功重新做人。这样既活用了人才又挽救了党的声誉，既惩前又毖后，于党于国家于个人都是利大于弊。若担心由此反贪腐得不到威慑效果，我觉得大可不必如此认为。诸葛亮七擒孟获的故事表明，使对方心悦诚服才是上上策。</p>
+<p>以上是一人之言。作抛砖引玉之用。</p>
+<p>共产党员贾庆林<br>
+2015年10月</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B4%BE%E5%BA%86%E6%9E%97%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%89%E6%8B%A9%E6%80%A7%E5%8F%8D%E8%85%90/?category=18271" rel="tag">选择性反腐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%8D%81%E4%B8%89%E4%BA%94%E4%BB%A5%E5%90%8E-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BD%93%E5%88%B6%E5%85%A8%E9%9D%A2%E5%B7%A9%E5%9B%BA/" target="cdt-mirror">端传媒 | 十三五以后 习近平体制全面巩固</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9502cf9754a74b6d86a889c9ed1ee8ae.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9502cf9754a74b6d86a889c9ed1ee8ae.jpg" alt="2015年7月7日，北京，一名参观者在中国抗日博物馆中观看中共领导人的展板。左起为毛泽东、邓小平、江泽民、胡锦涛及现任中共总书记习近平。摄：Lintao Zhang/GETTY" width="600" height="400"></a><p>2015年7月7日，北京，一名参观者在中国抗日博物馆中观看中共领导人的展板。左起为毛泽东、邓小平、江泽民、胡锦涛及现任中共总书记习近平。摄：Lintao Zhang/GETTY</p></div>
@@ -618,70 +670,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E5%A5%B3%E8%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%98%BF%E5%9D%9D%E5%8E%BF%E5%86%8D%E5%8F%91%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8A%97%E8%AE%AE%E4%BA%8B%E4%BB%B6-%E6%AF%94%E5%A6%82%E5%8E%BF%E7%99%BE%E5%90%8D/" target="cdt-mirror">自由亚洲 | 阿坝县再发生示威抗议事件 比如县百名尼姑被驱逐</a>
-</h2>
-<p><p>四川阿坝州阿坝县藏人扎西日前在县城展开示威游行活动，要求当局让达赖喇嘛返回西藏，随即被警方拘捕；而本月中旬被捕的阿坝州若尔盖县唐克镇两名藏人中，一人仍遭拘押，另一人已获释；此外，西藏那曲地区比如县一百名尼姑在上月底被驱逐出寺。</p>
-<p>印度达兰萨拉的格尔登寺境内紧急情况联络小组星期五发布新闻声明指出，阿坝州阿坝县境内星期一再度发生一起藏人上街示威抗议事件。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/b92e132c-5050-4bfe-b555-a2018f004cf9.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/b92e132c-5050-4bfe-b555-a2018f004cf9.jpeg" alt="b92e132c-5050-4bfe-b555-a2018f004cf9" width="550" height="413"></a><br>
-阿坝县在上月7日至10日发生四起示威事件后被军警严控场景。（达兰萨拉格尔登寺早前提供）</p>
-<p>该小组发言人次仁对本台说：“本月26号，阿坝县藏人扎西手举一幅达赖喇嘛尊者的法像，在县城主街高呼‘西藏要自由’、‘让达赖喇嘛尊者返回西藏’等口号展开示威游行活动时，随即被一批驻地公安人员拘捕，目前被关押在阿坝县城里。”</p>
-<p>次仁进一步介绍说，扎西是阿坝县麦尔玛乡第五大队塔扎仓家族的女婿，现年31岁，妻子名叫格贝，两人育有两男两女共四个孩子，其中两个孩子在麦尔玛乡小学就读。</p>
-<p>阿坝县在过去两个半月以来，已有超过十人分别上街展开示威抗议活动，其中大多数为格尔登寺僧人、以及麦尔玛乡及求吉玛乡藏民。</p>
-<p>次仁表示，当地网络自上月至今处于被封锁状态，军警仍部署在县城各主要街道。</p>
-<p>“阿坝县近来因多次发生连串示威抗议事件，当局从封锁网络开始加大对整个县城的控制。从今年9月10号以来，除了政府办公室以外，所有私人网络被屏蔽，现在也是如此。军警如同以往部署在阿坝县各主要街道，监视着藏人的一举一动。”</p>
-<p>此外本台早前报道，四川阿坝州若尔盖县唐克镇嘎尔玛村藏民抗议地方政府非法征地在上月22号遭到军警的打压和拘捕，主要请愿者吉其嘉和普阔仍被关押在红原县法院，其余人先后获释。本月14号，当地63岁的牧民仁青多吉和56岁的牧民米久被唐克镇公安人员强制传唤后，遭到拘押。</p>
-<p>根据最新消息，两名被捕藏人中，一人仍遭拘押，另一人已经获释。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Rinchen-Dorje-and-Mingyul.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Rinchen-Dorje-and-Mingyul.jpg" alt="Rinchen-Dorje-and-Mingyul" width="550" height="393"></a><br>
-本月14日至今仍遭拘押的若尔盖县唐克镇牧民仁青多吉（上图左一）和近日获释的米久（上图左二）。（本台藏语部）</p>
-<p>当地一名消息人士星期四对本台说：“仁青多吉和米久被警方以传唤名义拘捕后，米久在十一天后获得释放返回家中，而仁青多吉至今被拘押在红原县法院。仁青多吉自2007年以来患有严重的胃炎，被捕前一直在家服药。他被捕后，家人试图给他送药和衣食，但狱警不准他们探监，声称东西会转交，但家属担心那些药可能不会到他手中。”</p>
-<p>另据印度达兰萨拉的西藏人权与民主促进中心发布消息指出，西藏那曲地区比如县一百名尼姑在上月底被驱逐出寺。</p>
-<p>该中心研究员次仁杰星期五对本台说：“上月27号，比如县县长桑杰扎西抵达该县白嘎乡苯教派‘甘丹卡曲林尼姑寺’进行为期三天的清理整顿工作，从该寺200多名尼姑中强行驱逐了100人，不准她们在外穿尼姑服，也不准到其他地区学佛，并警告说若有违反，将予以严惩。而当局对其余被允许留在寺院的100多名尼姑又实施种种限制，只准其中49名尼姑‘合法’参加寺院的佛事活动，不准其余51名尼姑接受正规的佛学教育，只能在寺院所属的商店和旅店任服务员。当局还对住寺尼姑规定年满五十岁以上者不准继续留在寺院，必须要住进养老院。”</p>
-<p>次仁杰还透露，中共当局最近在比如县羊秀乡下令拆毁当地藏人世世代代生活的传统住屋，包括私人院子，并抢夺他们的农田。</p>
-<p>他说：“羊秀乡藏民的房子被下令强拆后，当局要求他们按照政府规定的建房面积标准重新盖房，但费用必须由各自承担。地方藏民认为，当局此举是以扩建发展之名，企图迁移大量的汉人在当地定居。”</p>
-<p>（特约记者：丹珍  责编:寇天力）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%98%BF%E5%9D%9D%E5%8E%BF%E5%86%8D%E5%8F%91%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8A%97%E8%AE%AE%E4%BA%8B%E4%BB%B6-%E6%AF%94%E5%A6%82%E5%8E%BF%E7%99%BE%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA/?category=18271" rel="tag">藏人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">藏人示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">西藏问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%9D%9D/?category=18271" rel="tag">阿坝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%8E%8B%E5%81%A5%E6%9E%97%E9%81%93%E7%A0%B4%E5%A4%A9%E6%9C%BA%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F%E4%B8%87%E8%BE%BE%E6%8C%81%E8%82%A1/" target="cdt-mirror">美国之音 | 王健林道破天机：习近平家族万达持股真相</a>
-</h2>
-<p><p>作者：方冰</p>
-<p>纽约—中国财新传媒旗下财经网10月30日报道，中国首富、万达集团董事长王健林头一天在美国哈佛大学公开演讲时，回应主持人就中国最高领导人习近平姐姐、姐夫控股的公司曾入股万达旗下的万达商业地产提出的问题，一语道破天机，直接证实了美国之音和纽约时报等媒体先前报道的习近平家族万达持股真相。</p>
-<p>经过多年深入调查并首先揭示习近平家族财富的纽约时报记者傅才德，星期五接受美国之音采访时指出，王健林星期四关于习近平家族财富的公开讲话可能犯了一个错误，以至于给了外界一个窗口，让人们看到在中国有权优势的人可以把股权在名义上转让给别人，让自己变成一隐藏在幕后的实际股东。</p>
-<p>财新网星期五报道，中国地产大亨王健林星期四在哈佛大学主讲“公开课”，在回应有关纽约时报报道时，他说，齐桥桥和邓家贵在万达上市前两个月就已经把万达的股票全部转让，并说 “这件事邓家贵先生是牺牲了巨大利益的”。齐桥桥和邓家贵是中国国家主席、中共总书记习近平的姐姐和姐夫。</p>
-<p>但是，财新这篇报道王健林赞扬习近平“治国严，治家更严”的文章几个小时后就从财新网上被撤下。</p>
-<p><strong>习家族仍是股权主人</strong></p>
-<p>傅才德告诉美国之音说，“奇怪的是，邓家贵和齐桥桥那个时候（2014年12月）已经没有万达的股票了，因为根据工商局的材料，2013年10月份，他们已经把他们万达的股权转让给他们的一个长期职工徐再生。”</p>
-<p>傅才德说，王健林在哈佛演讲中可能无意中说出了邓家贵和齐桥桥实际上仍然是股权主人的事实， “虽然那个时候齐桥桥和邓家贵已经没有万达的股票，但实际上他们有。王健林有可能犯了个错误，但这给了我们一个窗户，看到中国很有权力的人有办法把他们的股权名义上让给别人，这就是所谓的‘白手套’现象。”</p>
-<p>星期五，傅才德就此在纽约时报发表报道说，“在为他（王健林）的公司与习近平家族的关系辩护时，王健林先生可能无意中在提醒大家有关中国权贵之间的通常做法：为掩盖商业利益，有时要把股份转让给亲戚或商业伙伴。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/D0DF79CF-68F4-42ED-94E4-40996754F77A_w640_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/D0DF79CF-68F4-42ED-94E4-40996754F77A_w640_s.jpg" alt="D0DF79CF-68F4-42ED-94E4-40996754F77A_w640_s" width="640" height="280"></a><br>
-秦川大地投资公司2014年年度报告中没有列出任何投资(傅才德提供）</p>
-<p>傅才德说，截止星期五，秦川大地投资有限公司现在仍只有一个股东，就是徐再生。</p>
-<p>今年4月28日，傅才德在纽约时报发表《万达帝国王健林：游刃于商业与权贵之间》后告诉美国之音，“2013年10月8日，齐桥桥把她在秦川大地公司的股权转让给一个人，徐再生，这个人是他们的职员，公司副经理。”</p>
-<p>他说，从工商局内部档案查获的信息显示，“徐再生从2000年开始就在齐桥桥和邓家贵持股的深圳远为投资有限公司工作，到2013年他已经跟齐桥桥、邓家贵工作了13年了。所以，我们虽然不能说这些股份还是齐桥桥的，但是应该有一点怀疑。”</p>
-<p><strong>怀疑被王健林证实</strong></p>
-<p>显然，半年前傅才德的怀疑，半年后让王健林在哈佛证实了。这也许是当局立刻撤下这篇文章的主要原因之一。傅才德在报道中说，“中国商人对最高领导人的股权持有作出评论是极为罕见的”。</p>
-<p><strong>公共记录无法证实已经卖掉万达股份</strong></p>
-<p>傅才德在星期五的报道中说，万达上市前的文件显示，秦川大地投资有限公司在2014年8月中旬仍是万达股权持有公司。</p>
-<p>报道说，从公共记录看不到秦川大地是不是已经卖掉了万达的股份。他还说，2013年底秦川大地持有3家公司股份，其中包括万达。而在该公司2014年的年度报告中，没有列出任何投资。</p>
-<p>财新网的报道说，王健林是首位在美国哈佛大学“公开课”上演讲的中国企业家，王健林在演讲中还说，万达“没有背景”，“公司发展靠的是商业模式和企业管理”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/F0785891-4563-4758-8F9E-4C2F9D8F8561_w640_s.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/F0785891-4563-4758-8F9E-4C2F9D8F8561_w640_s.png" alt="F0785891-4563-4758-8F9E-4C2F9D8F8561_w640_s" width="550" height="309"></a></p>
-<p><strong>万达的高层背景已被证明</strong></p>
-<p>傅才德说，纽约时报的调查已经证明了王健林不仅有背景，而且有很大的背景。“当然，很多人说王健林很有能力，很聪明，是个非常好的商人，但是，我们已经证明了他有背景，他有这么多强有力的领导人跟他有金融方面的关系。”</p>
-<p>傅才德说，万达上市前的20个最大股东中有4个是中共政治局委员以上领导人的亲戚和商业伙伴。</p>
-<p>傅才德说，王健林星期四在的演讲已经公开承认了万达与习近平家族的关系。“还有贾庆林、温家宝家族，第四个，最大的是王兆国家族。这是我们已经证明了的，有可能还有一些人，但是我们没有证明，所以只能说这4个。他们4个家庭的股票价格现在一共是12亿美金。而王兆国的亲属，他们最初花了50万美金，现在的价格大概是5亿美金，增加了1000倍。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%8E%8B%E5%81%A5%E6%9E%97%E9%81%93%E7%A0%B4%E5%A4%A9%E6%9C%BA%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F%E4%B8%87%E8%BE%BE%E6%8C%81%E8%82%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A1%A5%E6%A1%A5/?category=18271" rel="tag">习桥桥</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E5%86%8D%E7%94%9F/?category=18271" rel="tag">徐再生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5%E8%B5%84%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">权贵资产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权贵集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/?category=18271" rel="tag">秦川大地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%99%E5%B8%A6%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">裙带关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BD%90%E6%A1%A5%E6%A1%A5/?category=18271" rel="tag">齐桥桥</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -693,7 +681,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -703,5 +691,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

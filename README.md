@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%8D%81%E4%B8%89%E4%BA%94%E4%BB%A5%E5%90%8E-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BD%93%E5%88%B6%E5%85%A8%E9%9D%A2%E5%B7%A9%E5%9B%BA/" target="cdt-mirror">端传媒 | 十三五以后 习近平体制全面巩固</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9502cf9754a74b6d86a889c9ed1ee8ae.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9502cf9754a74b6d86a889c9ed1ee8ae.jpg" alt="2015年7月7日，北京，一名参观者在中国抗日博物馆中观看中共领导人的展板。左起为毛泽东、邓小平、江泽民、胡锦涛及现任中共总书记习近平。摄：Lintao Zhang/GETTY" width="600" height="400"></a><p>2015年7月7日，北京，一名参观者在中国抗日博物馆中观看中共领导人的展板。左起为毛泽东、邓小平、江泽民、胡锦涛及现任中共总书记习近平。摄：Lintao Zhang/GETTY</p></div>
+<p>10月29日，中共十八届五中全会落幕，并对外公开了会议公报。除了全面放开二胎以及其他具体经济、民生政策以外，这次会议还有若干政治领域的细节值得观察。</p>
+<p><strong>“习近平讲话精神”成为“准指导思想”</strong></p>
+<blockquote><p>江泽民“三个代表”思想时至2001年才被确认其地位，胡锦涛的“科学发展观”也到2007年才获得类似的评价，分别距离他们出任总书记12年和5年，习近平仅用了3年时间。</p></blockquote>
+<p>十八届五中全会召开时点极为特殊。在五中全会召开前，习近平刚刚在9月3日主导了自己上任以来的第一次盛大阅兵，并在9月底和10月中旬分别完成就任国家主席后对美国和英国的第一次国事访问。这些个人高光时刻，为五中全会进一步为其权威巩固造势，奠定重要基础。</p>
+<p>习近平上任以来，在重大政治性节日方面，将“民族独立”和“人民解放”领域的事件并列处理，直白地说，就是把抗战纪念活动的规格提升到和纪念内战胜利中共建政、以及中共成立、解放军建军等相同的地位。加之今年下半年习近平进行了若干重大的外交活动，因而在今年的中共中央全会之前，官方舆论对习近平领导权威的造势已是高潮迭起。</p>
+<p>从2014年起，中共在各类谈及治国理政的指导思想时，开始在纳入党章的邓小平理论、“三个代表”重要思想和科学发展观之后，加入“深入贯彻落实习近平总书记系列重要讲话精神”。根据中共政治的惯例，这意味着习近平的讲话精神已开始和列入党章的各个理论并行，成为事实上的“准指导思想”。</p>
+<p>十八届五中全会公报，首次在总结“十二五”（2011—2015）期间工作时，明确指“十八大以来，以习近平为总书记的党中央形成了一系列治国理政新思想新战略”，为新的历史条件下深化改革开放，推进现代化提供“科学理论指导和行动指南”，这在事实上已确认了习近平治国理政思想的指导地位，这距离习近平就任总书记尚不满三周年。</p>
+<p>与此前几任领导人相较，江泽民“三个代表”思想时至2001年才被确认其地位，胡锦涛的“科学发展观”也到2007年才获得和五中全会中习近平治国理政思想相类似的评价，分别距离他们出任总书记12年和5年。而作为中共新的“理论指导和行动指南”，“习近平讲话精神”中直接带有领导人个人的姓名，更显示出其意识形态权威超过此前两任。</p>
+<p><strong>习近平经济领域权力的进一步集中</strong></p>
+<blockquote><p>自1985年的中共全国代表会议至今，每次向中共中央全会或全国代表会议就规划（计划）建议作出说明的，都是时任总理。而在十八届五中全会上，习近平打破惯例，亲自就“十三五”规划建议作了说明。</p></blockquote>
+<p>按照以往惯例，在“逢五逢十”年份召开的五中全会，重点议题都是讨论下一个五年规划。</p>
+<p>现有的五年规划由过去的“五年计划”演变而来，最早承继自苏联，随着市场经济体制的建立而更名，至今仍是中国内地规格最高的中期经济社会规划，自1985年以来，规划建议必须在中共中央全国领导机构上通过，并在次年的全国人大全会上审议。</p>
+<p>由于经济社会领域传统上由国务院总理分管，自1985年的中共全国代表会议至今，每次向中共中央全会或全国代表会议就规划（计划）建议作出说明的，都是时任总理。而在十八届五中全会上，习近平打破惯例，亲自就“十三五”规划建议作了说明。这反映出习近平在经济领域的强势。</p>
+<p>改革开放以来，中共设置了若干领导小组，中央财经工作领导小组是经济上最重要的决策机构，从1980年到1987年，赵紫阳以总理身份担任小组组长，1987年赵紫阳升任中共总书记后继续担任此职，此后这一职务由总书记兼任，遂成为惯例。过去，财经小组开会并无公开报道，自1998年朱镕基出任总理以后，在长达十六年的时间里，官方也从未对外公布过财经小组组长的人选。</p>
+<p>2014年6月，官方报道了最新一届中央财经领导小组的第六次会议，此后历次财经小组会议均有公开报道。在报道中，官方确认习近平为中央财经领导小组组长，总理李克强为小组副组长。虽然这一人事安排并未打破此前惯例，但对外公开宣布习近平的小组组长地位，向外界充分表明习在经济决策领域承担更大责任的意志。</p>
+<p><strong>据知情人士介绍，习近平上任以来，中央财经领导小组会议的召开频率，从过去了每半年召开一次，调整为大致每季度召开一次。</strong>财经小组讨论的议题也从过去偏宏观、战略方面，向更多实务领域下沉。简而言之，过去国务院在经济决策中的话语权在一定程度上被上收，国务院在经济层面上更多侧重于技术和运行层面。</p>
+<p>习近平强化对经济领域的直接领导，与他个人的经历和执政团队有关。自1989年以来中共的历任最高领导人中，习近平的从政履历是最完整的，他历任县委书记、地委书记、省长、省委书记等职务，在不同的行政层次皆有历练，在福建、浙江、上海三个发达省份担任过党政主要负责人。相应的，由共青团中央第一书记“空降”到河南任省长的李克强，在出任省长、省委书记之前从无市县主要负责人的经历。</p>
+<p><strong>习近平相信自己完整的履历，对于地方尤其是基层在经济治理领域的诉求，有着更加深刻而富有整体性的把握。</strong>相较于李克强出任总理之初一度盛行的以“不刺激”为标榜的“李克强经济学”，习近平2014年提出的“新常态”在理论上更加中和，显示出他和他的团队基于理论和现实之间的微妙平衡。</p>
+<p>习近平身后，还有阵容强大的财经政策团队。负责反腐的王岐山是习近平在政治局常委会最重要的盟友，以精通经济金融而著称，虽然他并不直接分管经济工作，但显然也可以非正式渠道给习提供参考。主管经济金融事务的马凯、刘鹤、何立峰等人，也据信和他有着相对良好的私人关系。中央财办主任、发改委副主任刘鹤是习在经济领域的重要智囊，负责经济改革的操盘；发改委另一位地位和刘鹤相仿的正部级副主任何立峰，则曾是习近平在厦门的同僚，他正在主导中国的区域和产业发展战略。</p>
+<p>这一切使得习近平不仅具有在经济领域“小圈子决策”的智力资源，更能够通过不同层级的官员将其意志贯彻到具体部委甚至地方。</p>
+<p><strong>习近平成为绝对中心，布局新权力结构</strong></p>
+<blockquote><p><strong>官方通稿明确强调要加强“党的集中统一领导”，这标志着中共的高层权力架构从过去的“党政分开”“党政分工”甚至“集体总统制”，在事实上向“一元化”领导回潮。</strong></p></blockquote>
+<p>最高权力的集中和分散，一直是中共政治运行的关键线索。从纵向来看，习近平在五中全会上就十三五规划建议向全会作说明，也是反映其在权力体系中核心地位的标志事件。</p>
+<p>2003年之前，除了讨论五年规划的中央全会外，中共一般并不在中央全会公报中提及全会通过的主要文件（报告、决定、决议、建议等）由谁向全会作出说明。自2003年以来，每次中央全会，各主要文件的说明人均写入公报。胡锦涛担任中共总书记的十年间，中央全会一共审议了13个重要文件，胡锦涛作说明的只有一次，即2007年在十六届七中全会上向全会说明过十七大报告的起草考虑，而其间吴邦国、温家宝、习近平分别就3个文件做了说明，曾庆红、李长春和回良玉也各有一次。</p>
+<p>而中共十八届中央委员会成立以来，除李克强作为候任总理在十八届二中全会上就国务院机构改革事务作说明以外，此后的三中全会、四中全会、五中全会，都由习近平本人对主要文件进行了说明。<strong>习近平连续三年主导中央全会文件的起草，这和前任形成鲜明对比。</strong></p>
+<p>自改革开放以来，中共的高层权力一直面临着适度分散的压力。尤其在进入新世纪以后，清华大学学者胡鞍钢更直接声称中共中央政治局常委是“集体总统制”。习近平上任以来，首先要打破最高决策层中条线分割的机制，重新强化最高领导人本人在权力结构中的中心地位。</p>
+<p>以集权为前提，强力推行各项新政，几乎成为朝野各界对当前政治形态的共识。2015年年初，全国人大、国务院、全国政协和最高法、最高检向政治局常委会汇报工作，官方通稿明确强调要加强“党的集中统一领导”，这标志着中共的高层权力架构从过去的“党政分开”“党政分工”甚至“集体总统制”，在事实上向“一元化”领导回潮。</p>
+<p>“依法治国”改革的核心，是要使执政党意志更多通过法律形式体现，但是重大问题的决策权要更多集中在执政党决策层，而非具体的国家机构。</p>
+<p>五中全会在人事安排上并无意外，开除落马官员党籍，递补排名靠前的中央候补委员，都是外界有预期的规定动作。但这并不意味着最高领导人，没有在人事领域谋篇布局。</p>
+<p><strong>现任中央委员、中央候补委员，反映的是2012年中共十八大召开前的权力格局，近来越来越多的官员任命，都反映领导人对十九大甚至二十大的战略前瞻。</strong></p>
+<p>今年以来，曾长期在浙江工作的陈敏尔由贵州省长升任省委书记，成为习近平上任以来第一位拔擢的“60后”省委书记，这表明在反腐风暴之后，高层已着眼在省委书记层面展开年龄梯次布局；另一方面，又有孙志刚等新人被任命为省长，这又反映出高层在“二把手”层面的微妙意图，过去一般省委书记年龄比省长大，省长都是接任省委书记的理想人选——十八大后许多省长和省委书记年龄出现“倒挂”，许多新任的省长预计将在省长任上退休。</p>
+<p>新来一位“老省长”，实际上意味着一些现在在副部级向正部级冲刺的“60后”干部要继续等待机会，而在等待期间，高层有足够的时间让更多相应年龄的干部(包括正厅级干部)成长起来，以改变地方党委政府层面相对固化的接班格局。而这些新拔擢者，对最高权力的效忠程度也将更高。</p>
+<p><strong>重现的“马克思列宁主义” 、“毛泽东思想”</strong></p>
+<blockquote><p><strong>时隔十年，中共再一次在中央全会公报中提及“以马克思列宁主义、毛泽东思想”为指导。</strong></p></blockquote>
+<p>此次中央全会在公报中还有一个细节值得关注，在谈及过去一年政治局的工作和“十三五”的指导思想时，使用了“以马克思列宁主义、毛泽东思想、邓小平理论、三个代表重要思想、科学发展观为指导”的提法，这是时隔十年，中共再一次在中央全会公报中提及“以马克思列宁主义、毛泽东思想”为指导。</p>
+<p>香港大学教授钱钢将中共的政治语汇分为“深红”“浅红”“浅蓝”和“深蓝”四类。所谓“深红”指的是1978年内地改革开放之前的主流语汇，带有鲜明的共产主义色彩；而“浅红”则是改革开放之后的主流语汇，具有“去革命化”的特点。</p>
+<p>“马克思列宁主义、毛泽东思想”是典型的“深红”话语，而“邓小平理论”等则是典型的“浅红”话语。2006年中共十六届六中全会公报，未再像此前那样使用“马克思列宁主义、毛泽东思想”的表述，反映出中共由革命党转向执政党之后，在意识形态上更趋柔和，而今年这两个“深红”词汇的回归，则反映出高层在意识形态建构上的新意图。</p>
+<p>习近平一直强调“两个不能否定”，既不能用改革开放前的历史否定改革开放后的历史，也不能用改革开放后的历史否定改革开放前的历史。</p>
+<p>“马克思列宁主义、毛泽东思想”重现公报，向外界释放了明确信号，全面深化改革绝不是朝自由化方向的改革，而是坚持“社会主义”方向的改革，全会公报还同时罕见地在阐述“共享发展”理念时提及“共同富裕”一词，强烈指向“社会主义”乃至“共产主义”的终极理想。</p>
+<p>（师愈闻，智库研究员，宏观政策分析师）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%8D%81%E4%B8%89%E4%BA%94%E4%BB%A5%E5%90%8E-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BD%93%E5%88%B6%E5%85%A8%E9%9D%A2%E5%B7%A9%E5%9B%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E7%BB%93%E6%9E%84/?category=18271" rel="tag">权力结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E4%B8%AD/?category=18271" rel="tag">权力集中</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%99%92%E4%B9%A6%E5%8D%95%EF%BC%9A%E5%BC%84%E5%B7%A7%E6%88%90%E6%8B%99%E7%9A%84%E5%BD%A2%E8%B1%A1/" target="cdt-mirror">中国人权双周刊 | 习近平晒书单：弄巧成拙的形象公关</a>
 </h2>
 <p><p>作者：何清涟</p>
@@ -254,7 +305,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权贵集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97%E5%93%88%E4%BD%9B%E6%BC%94%E8%AE%B2/?category=18271" rel="tag">王健林哈佛演讲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%99%E5%B8%A6%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">裙带关系</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%88%91%E6%B3%95%E5%A2%9E%E5%8A%A0%E7%BD%91%E7%BB%9C%E9%80%A0%E8%B0%A3%E7%BD%AA%E8%B5%B7%E5%AF%92%E8%9D%89/" target="cdt-mirror">美国之音｜中国新刑法增加“网络造谣”罪起寒蝉效应</a>
 </h2>
@@ -631,31 +682,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%BA%E7%8E%8B%E5%AE%87%E5%8F%91%E5%A3%B0%E6%8E%A5%E5%8F%97%E5%A4%96%E5%AA%92%E8%AE%BF%E9%97%AE-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%88%98%E5%A3%AB/" target="cdt-mirror">自由亚洲 | 为王宇发声接受外媒访问 维权律师刘士辉遭警方讯问</a>
-</h2>
-<p><p>中国维权律师刘士辉周四下午突遭警方带走，警方针对其为王宇律师儿子联署声援及接受外媒采访等问题进行询问，其后获释。因事件敏感，刘士辉接受本台采访时表示不便多说。另一联署人余文生律师称，已经做好被警方讯问的准备，而相关联署文件已经做好安全备份。</p>
-<p>中国维权律师刘士辉周四下午在其友人丁德元位于上海浦东新区合庆镇的家中，被浦东公安分局合庆派出所警员带走。警方讯问刘士辉三个小时，内容主要围绕联署声援遭当局以“煽动颠覆国家政权罪”拘捕的维权律师王宇，和其儿子包卓轩境外被捕事件，以及接受外媒采访。</p>
-<p>记者周五致电刘士辉，他表示鉴于目前处境，不能多说：“这个事情算了，反正他也把我放回来了。”</p>
-<p>记者：“这个孩子的事情现在是不是比较敏感？”</p>
-<p>刘士辉：“我毕竟是临时住在上海这里，考虑到现实的这种处境，这件事情可以是说已经过去了。”</p>
-<p>记者：“你以后还会不会再被他们叫去呢？”</p>
-<p>刘士辉：“这是可想而知的，毕竟我要在这个地方继续住下去。”</p>
-<p>事发时目睹刘士辉遭警方强制带走的丁德元周五告诉本台：“警察带刘士辉走，我问他，你们是不是让他过夜？他们说这是上头安排的，我也不清楚。我说刘士辉在这 里是我作为他的朋友要对他负责，如果今天晚上他不回来的话,我就去派出所找他，他后来说，这是领导要和他谈谈话，当天六点不到刘士辉就回来了。这样无缘无 故的带他走确实是很不公平，如果刘律师不去的话，他们肯定要强制。后来刘律师跟我说了，是因为为王宇律师的儿子签名联署的事情。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/c62f7c25-7618-478e-b265-c54b9bb790bc.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/c62f7c25-7618-478e-b265-c54b9bb790bc.jpeg" alt="c62f7c25-7618-478e-b265-c54b9bb790bc" width="550" height="413"></a></p>
-<p>本月11日，近百名维权律师就王宇与包龙军的独子包卓轩于缅甸境内遭强迫失踪事件发布紧急联署声明，敦促中国当局立即停止对包卓轩及其他“709事件”被失踪律师家属的骚扰。</p>
-<p>声 明指出，今年7月9日开始，中国维权律师遭中国警方残酷打压，被软禁的包卓轩与其父母的朋友幸清贤和唐志顺在出逃中国后于缅中交界区域遭强迫失踪。种种迹 象表明，中国警方对包卓轩等人的失踪具有无法推卸的责任。要求中国当局保障未成年人包卓轩的人身安全，协同缅甸政府及时查找上述人士的下落并停止打压维权 律师及家属，保障中国公民的出国权和回国权。</p>
-<p>另一名参与联署的维权律师余文生告诉本台，已经做好了被警方带走讯问的准备，有关联署的相关文件均已安全备份。</p>
-<p>余文生：“我还没有被约谈，被讯问的准备我有，但是我感觉无所谓，他们找我也没有什么意义，因为他们每次找我我都不会屈服的。我已经做好了很多的备份准备，如果他们找我，我会采取一些其他的反制措施。709事件以来，他们打压律师,希望律师在很多问题上沉寂，等于是全面退缩，现在律师用一种反击的方式，不再屈服于他们这种打压，这种势头是当局不能容忍的。”</p>
-<p>据报道，包卓轩目前已由中国警方押送回内蒙古老家监视居住，而中国当局播出的有关包卓轩的消息目前未能得到独立证实。此外，为营救包卓轩遭中国警方逮捕的唐志顺和幸清贤目前仍下落不明。</p>
-<p>特约记者：忻霖   责编：胡汉强/寇天力</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%BA%E7%8E%8B%E5%AE%87%E5%8F%91%E5%A3%B0%E6%8E%A5%E5%8F%97%E5%A4%96%E5%AA%92%E8%AE%BF%E9%97%AE-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%88%98%E5%A3%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E9%BE%99%E5%86%9B/?category=18271" rel="tag">包龙军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -677,5 +703,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

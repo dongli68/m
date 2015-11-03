@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%A4%AA%E5%B9%B3%E5%B2%9B%E6%98%AF-%E5%B2%9B%E5%B1%BF%EF%BC%9F%E8%BF%98%E6%98%AF-%E5%B2%A9%E7%A4%81%EF%BC%9F/" target="cdt-mirror">德国之声 | 太平岛是 “岛屿”？还是 “岩礁”？</a>
+</h2>
+<p><p>有关太平岛是“岛屿”还是“岩礁”的问题，台湾外交部重申，太平岛是“岛屿”，毋庸置疑，而且主权属于中华民国。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/018044014_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/018044014_30300.jpg" alt="0,,18044014_303,00" width="550" height="310"></a></p>
+<p>（德国之声中文网）南中国海争端愈演愈烈，正值此时，海牙常设仲裁法庭10月29日裁定：对菲律宾提出的15项南海仲裁案中，该仲裁法庭对其中7项有管辖权，这7项仲裁案因此进入下一阶段的仲裁。另外的8项仲裁案将另行处理。</p>
+<p>在其中的一项仲裁案中隐藏着菲律宾声称”太平岛不是岛，而是岩礁”的诉求，台湾各界忧虑此诉求会影响到中华民国对太平岛的主权，外交部因此一再重申对太平岛的主权， 并强调，菲律宾的15项诉求中并未直接提及太平岛，依不告不理的原则，仲裁庭未来实体审判时，应不致对太平岛作出裁决。</p>
+<p>太平岛变成岩礁 菲国独享经济海域</p>
+<p>台湾师范大学政治学研究所教授王冠雄对德国之声说：”太平岛和菲律宾的巴拉望岛相距近200海里，如果太平岛不是’岛屿’而是’岩礁’，菲律宾便可以从巴拉望岛画出200海里的专属经济海域；但是太平岛如果被确认是岛屿，两岛的经济海域会严重重叠，就会牵涉到’划界’的问题，所以菲律宾作出这种主张”。如果需要”划界”，大陆已经主张不可透过第三方裁决，问题自然复杂化。因此，菲国的做法是：把太平岛降低为不具有主张200海里经济海域地位的”岩礁”。</p>
+<p>依据联合国海洋法公约(UNCLOS)第121条第1项之定义，岛屿(island)為四面环水，并在高潮时高於水面自然形成的陆地区域，且可维持人类居住或其本身经济生活，可拥有领海、大陆礁层及专属经济海域。</p>
+<p>行政院称，太平岛為南沙群岛中最大自然生成岛屿，可维持人类居住及本身经济生活，符合UNCLOS第121条”岛屿”的要件，自可主张专属经济海域及大陆礁层。人工岛礁或是岩礁都不能据以主张领海权益。</p>
+<p>“岛屿”变”岩礁”</p>
+<p>台湾淡江大学国际事务与战略研究所助理教授黄介正在接受德国之声访问时称：”菲律宾的15项仲裁案中并不包括太平岛的问题，但是菲国在附件中夹带台湾前内政部长余政宪在’中洲礁’插国旗的照片，声称那是太平岛”。”中洲礁”是距离太平岛约3海里的一个岩礁，涨潮时，只比一个篮球场大一点，所以当然不能被认定为”岛屿”。黄介正指出，太平岛上光是海巡队员的宿舍都比”中洲礁”大，两者不能等同，菲律宾的错置照片有”鱼目混珠”之嫌。</p>
+<p>在南海50到60个岛礁中，中华民国只主张对太平岛和中洲礁拥有主权。</p>
+<p>黄介正称：”台湾既不是被告，也没有参与审理，也没有资格申诉，但是出来的判断结果却可能影响台湾目前对南海主权的主张”。这正是台湾的尴尬处，尽管如此，黄介正认为，台湾还是要积极争取发言权。</p>
+<p>朱立伦：发展太平岛观光</p>
+<p>国民党总统参选人朱立伦称，过去政府在这个议题上做的不够，他主张发展当地观光，透过每周定期航班，让台湾人有机会欣赏当地天然美景并且认识自己的国土。 朱立伦同时呼应马英九总统的”南海和平倡议”，呼吁南海周边国家搁置主权争议，共同开发资源。</p>
+<p>王冠雄支持朱立伦的南海观光主张，并指出，大陆和菲律宾已经有南海观光的计划。黄介正也认为，如此软性的诉求可以强化巩固太平岛属于台湾的事实。</p>
+<p>海巡署长王崇仪表示将审慎规划，适度开放国人登岛参访。</p>
+<p>海军重返太平岛？</p>
+<p>中华民国自1947年公布南海划界后，便驻军当地，直到1999年才由海岸巡逻队接管。近来因南海局势升温，动荡不安，因此有人主张让海军陆战队重返太平岛，朱立伦认为没有必要，因为他认为太平岛上不会发生重大的军事冲突。</p>
+<p>王冠雄称太平岛是中华民国固有疆域，自然应当派兵驻守，但此举恐怕会让南海局势更加复杂化，因此不一定可行。黄介正也支持海军重返太平岛，但顾及台湾和周遭国家，特别是和美国的关系，派军驻防太平岛可能会遭遇巨大的压力，黄介正认为此事仍须从长计议。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%A4%AA%E5%B9%B3%E5%B2%9B%E6%98%AF-%E5%B2%9B%E5%B1%BF%EF%BC%9F%E8%BF%98%E6%98%AF-%E5%B2%A9%E7%A4%81%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%B9%B3%E5%B2%9B/?category=18271" rel="tag">太平岛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8C%97%E4%BA%AC%E5%95%86%E6%8A%A5-%E4%B8%8D%E8%89%AF%E7%8E%87%E6%8C%81%E7%BB%AD%E6%94%80%E5%8D%87-%E9%93%B6%E8%A1%8C%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%8E%92%E9%98%9F%E8%BE%9E%E8%81%8C/" target="cdt-mirror">北京商报 | 不良率持续攀升 银行基层员工排队辞职</a>
 </h2>
 <p><p>“一年前就想着辞职。不良率上升了，我们的工资也下降了，扣完五险一金工资不到3000元。”一位国有银行员工魏武辉（化名）苦笑道。</p>
@@ -764,33 +793,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%88%91%E6%B3%95%E5%A2%9E%E5%8A%A0%E7%BD%91%E7%BB%9C%E9%80%A0%E8%B0%A3%E7%BD%AA%E8%B5%B7%E5%AF%92%E8%9D%89/" target="cdt-mirror">美国之音｜中国新刑法增加“网络造谣”罪起寒蝉效应</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s.jpg" alt="610194F9-E19C-4C62-A206-CD1F11427202_w640_r1_s" width="575" height="323"></a><p>全国人大常委会第16次会议8月29日通过了《刑法修正案（九）》（中国全国人大官网截图 ）</p></div>
-<p>香港—</p>
-<p>中国从11月1日起正式实施新修订的刑法，其中一项涉及官方所指的网络媒介 “造谣”，网民今后在微信、微博等社交平台或论坛发放或转发“假讯息”都可能因触犯刑法而被起诉，最高可判7年徒刑。有人担心有关法律可能会变成维稳工 具，沦为箝制言论和打压维权的手段。也有人质疑官媒或地方政府造谣是否触犯刑法，能否做到“法律面前人人平等”。</p>
-<p>从星期天开始实施的新的《刑法修正案（九）》，对原刑法做出了重大修改，除减少9个死刑罪名、废除“嫖宿幼女罪”等规定外，增加了造谣、替考、医闹、袭 警、虐待、扰乱法庭、私藏禁书等9种行为入罪的规定，其中第291条第2款规定：编造虚假的险情、疫情、灾情、警情，在网络及其他媒体上传播；或明知是虚 假信息，故意在网络或其他媒体上传播；严重扰乱社会秩序的，判3年以下有期徒刑；造成严重后果的，判处3年以上、7年以下有期徒刑。</p>
-<p>对于这项针对网络言论的法规，有网民担心，如果该法规被有关当局滥用，或造成“文字狱”，建议“各位看官管好自己的嘴，请用眼神交流”。还有网民表示，“假消息不可怕，就怕明明说的是实话，而有关部门给你扣个罪名”。</p>
-<p>湖南维权人士欧彪峰星期天对美国之音表示，网络上确实存在许多谣言，但这正是缺少言论自由、言路不畅和缺乏新闻自由的后果。他担心，这项新法规会被当局用来，以法律的名义针对维权和异见人士，以及对时政发表意见的批评人士。</p>
-<p>他说：“它的目的就是对维权人士、异议人士打压。当局容不下各种批评的声音，但是维权人士、民间他们要发出自己的声音，当局不允许这种声音存在，它 就必须要通过一个方式。这是对言论自由的进一步的打压，它通过立法，以法律的名义，对言论自由箝制，让民间的话造成这种恐惧。”</p>
-<p>网名“秀才江湖”的维权人士吴斌质疑说，是否算虚假信息谁来决定，标准是什么？如何界定网友是明知道是虚假信息而故意传播，而不是误发错转，甚至上当受骗。</p>
-<p>他说：“标准是他们自己定的，他们操作是很灵活性的。如果像抓你的话，就可以说你明知，传播。像我们这些异议人士、批评政府的人，他们会千方百计地往上面套。”</p>
-<p>有一些网友表示，很多地方政府瞒报、缩小事故或灾难的伤亡人数，官方通报中虚假的险情、疫情、灾情、警情屡见不鲜，这些算不算编造虚假的灾情？今年4月尼泊尔大地震时，新华网等官媒说只要是中国护照，就可以免费登机回国，结果证明是谎言，这是否算编造虚假的险情。</p>
-<p>经常在网络上发表评论的吴斌表示，政府制定新法，民众没有办法，但是民众应当能够要求法律面前人人平等，政府必须以身作则。如果政府自己做不到，怎么能要求民众。</p>
-<p>他说：“官方造谣是堂而皇之，大行其道，而且从来不受惩罚。应该是法律面前人人平等，要以身作则。官方造谣也要一视同仁，也要打击。”</p>
-<p>吴斌表示，法律面前人人平等的另一方面是，那些天天为政府洗地的五毛，为了美化当局，经常是谎话连篇。他相信，制定和实施这条法律的人不会去惩罚五毛，即便他们造谣。</p>
-<p>他说：“那些五毛就经常造谣。为了美化，他们会编造一些谣言，而他们用的谣言是官方批准的。为了赞美官方，为了显示稳定造的谣。所以，他们官方不会打压，不会抓起来的。”</p>
-<p>中国媒体报道，有专家表示，现在微信、微博、论坛上的信息量相当大，如果为了赚取关注度或点击量，故意别有用心地编造发布虚假信息，以往可能最多是 治安处罚，行政拘留几天，但根据新刑法，这种行为就可能构成犯罪，其中造成严重后果的，要坐7年牢。此外，对信息不加甄别、不加思考就盲目转发的网民同样 可能触犯这一规定。</p>
-<p>今年7月中港股市灾难，有网民在微博声称看见股民在北京金融街跳楼，被指造谣遭北京警方行政拘留5天。8月天津仓库大爆炸，当局起初对死伤人数守口 如瓶，当地两位网民在微博转发“1,300人死亡”或“方圆1公里无任何生命迹象，普通群众480多人死亡”，被指散播虚假讯息、扰乱社会公共秩序，被行 政拘留5天及10天。</p>
-<p>还有媒体表示，目前微信朋友圈里假消息泛滥，简直成了谣言集散地。不少人觉得，朋友圈的受众只限于朋友圈，没有“外人”，不是对外传播，但网络的开 放性往往造成反常信息传播特别迅猛。实际上，一直以来，朋友圈假消息满天飞屡屡引发讨论，有专家呼吁这种扰乱社会秩序的行为应该被追责。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%88%91%E6%B3%95%E5%A2%9E%E5%8A%A0%E7%BD%91%E7%BB%9C%E9%80%A0%E8%B0%A3%E7%BD%AA%E8%B5%B7%E5%AF%92%E8%9D%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -802,7 +804,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -812,5 +814,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

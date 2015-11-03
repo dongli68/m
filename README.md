@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95%E8%87%B4%E6%B3%BD%E7%86%99%E5%81%9C%E6%AD%A2%E8%BF%90%E8%BD%AC-%E8%83%8C%E5%90%8E%E6%88%96%E6%B6%89%E5%8F%8A/" target="cdt-mirror">墙外楼 | “徐翔被捕”致泽熙停止运转 背后或涉及多名部级官员</a>
@@ -92,7 +92,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%A4%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%B7%9D/?category=18271" rel="tag">四川</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E5%BE%81%E5%9C%B0/?category=18271" rel="tag">暴力征地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">集会示威</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E4%B9%89%E6%98%AF%E9%A9%AC%E5%85%8B%E6%80%9D%E5%8A%A0%E5%AD%94%E5%A4%AB%E5%AD%90%EF%BC%8C%E4%BB%A5/" target="cdt-mirror">纵览中国 | “习近平主义”是马克思加孔子，毛泽东加普京？</a>
 </h2>
@@ -115,7 +115,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%B7%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">中华复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0/?category=18271" rel="tag">余杰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90/?category=18271" rel="tag">孔子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E6%80%9D%E6%83%B3/?category=18271" rel="tag">孔子思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B4%BE/?category=18271" rel="tag">毛派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">编造“中国梦”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%9B%BD%E5%8C%96/?category=18271" rel="tag">马克思主义中国化</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%96%B0%E7%96%86%E6%97%A5%E6%8A%A5%E7%A4%BE%E5%8E%9F%E6%80%BB%E7%BC%96%E8%BE%91%E8%B5%B5%E6%96%B0%E5%B0%89%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE%E8%A2%AB/" target="cdt-mirror">自由亚洲 | 新疆日报社原总编辑赵新尉妄议中央被双开</a>
 </h2>
@@ -751,7 +751,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -761,5 +761,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

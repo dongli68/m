@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8C%97%E4%BA%AC%E5%95%86%E6%8A%A5-%E4%B8%8D%E8%89%AF%E7%8E%87%E6%8C%81%E7%BB%AD%E6%94%80%E5%8D%87-%E9%93%B6%E8%A1%8C%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%8E%92%E9%98%9F%E8%BE%9E%E8%81%8C/" target="cdt-mirror">北京商报 | 不良率持续攀升 银行基层员工排队辞职</a>
+</h2>
+<p><p>“一年前就想着辞职。不良率上升了，我们的工资也下降了，扣完五险一金工资不到3000元。”一位国有银行员工魏武辉（化名）苦笑道。</p>
+<p>不良率持续攀升让商业银行在这个冬天的日子并不好过，而银行基层员工由于高薪光环褪去，辞职率大幅攀升。根据16家上市银行最新披露的三季报数据显示，我国商业银行的三季度不良率再次出现一定程度的上升，国有银行不良率升至2%以上。受此影响，银行净利润增速大幅下滑，四大行的三季度净利润降至“零”时代。随着经济形势尚未明确，不良率何时企稳还是未知数。</p>
+<p><strong>基层员工“排队辞职”</strong></p>
+<p>魏武辉两年前毕业即进入位于一线城市的某国有银行工作。在他看来，当时这份工作收入稳定还有各种补贴待遇。然而，仅仅过了不到一年，魏武辉开始懊恼，最终选择了辞职。“辞职原因很简单，银行现在一方面面临新兴金融业态的冲击，另一方面由于自身受制于不良率的影响，净利润遭遇下滑。银行现在只能把员工的工资降低来补贴利润，以前很多好的福利和待遇现在都消失不见了。” 魏武辉说道。</p>
+<p>同样想着辞职的还有位于另一家国有银行工作的员工韩笑（化名）。“现在银行不良率增加了很多，每天都需要打电话去催收，跟客户讲不良贷款的事情，此外，老员工则一直在整理不良贷款的事情，其他的活都要我们新来的员工做，很累。”韩笑称。</p>
+<p>日前也有消息称，一家在一线城市的国有银行基层员工正在排着队辞职，因为银行内部人手不够，所以大多数辞职没有被审批。“个别国有银行为了不允许员工辞职采取辞职罚款的措施。”魏武辉告诉北京商报记者。</p>
+<p>对此，一位在某股份制商业银行工作多年的资深人士表示，微观层面的信息只能代表个人，不能代表整个宏观层面。该资深人士表示，银行不良率升高确实会对利率造成一定影响，因为不良贷款坏账增加要靠银行留存的利润进行拨备核销。但是具体来看，银行里面也是有很多岗位的，并且银行的收入结构基本是两块，一块是月薪，另一块是年终奖。年终奖可能会带来一定的浮动，月薪则是按合同来的。信贷员和客户经理的各项福利和待遇或许会据此受到影响，他们的辞职也不容易受到审批。</p>
+<p>而在中国社科院金融所银行研究室主任曾刚看来，这个说法没有定论。曾刚表示，银行不良率上升确实会影响到银行的利润和业绩；而且对于个别不良率上升较快的银行，很多基层员工今年的绩效甚至都会大打折扣。</p>
+<p><strong>15家上市银行不良率上升</strong></p>
+<p>事实上，坊间之所以有关于银行员工排着队辞职的传言，很大程度上是因为近年来银行不良贷款余额飙升，不良贷款率激增。北京商报记者统计三季报数据显示，截至三季度末，在16家上市银行中，农行不良率最高，为2.02%，也是惟一一家不良率攀升至2%以上的上市商业银行。其余上市股份制银行不良率在1.3%-1.6%之间，其中，招行、兴业银行不良率超过1.5%，具体来看，招行不良率为1.6%，兴业银行不良率为1.57%。上市城商行不良率相对国有大行以及股份制银行处于较低水平，且目前不良率仍处于1%以下，其中，南京银行不良率为1.95%；北京银行不良率为0.94%；宁波银行不良率为0.88%。</p>
+<p>除宁波银行外，其余15家上市银行截至三季度的不良率较2014年末均出现一定幅度的上升，其中，招行、农行、兴业银行不良率上升幅度较大，招行三季度不良率较去年末上升了0.49个百分点；农行不良率较去年末上升了0.48个百分点；兴业银行不良率较去年末上升了0.47个百分点。</p>
+<p>对此，中国人民大学财政金融学院副院长赵锡军认为，当前我国商业银行的不良率平均来讲还是不高的，但2%是一个比较重要的分水岭。在他看来，银行不良率在2%以下都属于比较健康的状况，除了个别银行，当前商业银行总体的资产质量还是处于健康的状况。如果个别银行不良率偏高且超过2%，则需要及时采取完善的风控措施。</p>
+<p><strong>不良率2%生死线</strong></p>
+<p>曾刚认为，“银行能够承受的坏账水平远远超过2.5%。因为不良贷款的出现并不意味着损失，不良率和损失率是要区别开来的。不良贷款率意味着出现很多有瑕疵的贷款，但是很多有瑕疵的贷款价值回收率是很高的。一方面，很多贷款都是有抵押的，即使借出去的贷款不还银行了，并不意味着银行就会损失，银行有可能要回抵押房子，比贷款更值钱”。</p>
+<p>一位在股份制商业银行工作多年的资深人士对此则表示，如果仅仅考虑传统的存贷业务，银行过去很长时间都是靠存贷款之间的利息差来盈利的。“比如说原来银行的息差是3，也就是说银行通过借贷100元能赚到3元钱。如果不良率高过了3%，意味着它的风险成本高过了它的毛利率，那这种情况对于银行来说绝对是危险的，也是不可持续的。目前整个银行业的平均息差水平大概在2.5%左右，此外，银行还要刨去人工成本，所以说如果银行不良率逼近2%的话就很危险了，中国的监管一度是非常谨慎的。”上述资深人士表示。</p>
+<p>商业银行不良率开始呈上升态势，和经济形势密切相关。国家统计局此前公布了三季度GDP增长数据为6.9%，这是我国GDP时隔六年来再度破七。</p>
+<p>在谈到当前我国商业银行近一年来不良率升高的原因，曾刚表示，根源还是在于当前经济处在一个下行的周期。</p>
+<p>曾刚直言，当前主要商业银行还是面临着宏观层面经济周期的问题。目前整个实体经济还处于调整当中，从GDP增长速度破七来看，尽管该数据还在目标区间，但是今年GDP的增速已是近年来表现比较差的一个时间段，这其中面临的过剩产能遭遇淘汰，给银行造成相当大的压力，过剩产能可能包含银行信贷在里面，所以如果过剩产能要淘汰，相似企业要关闭，银行面对的风险就要上升。</p>
+<p>赵锡军则认为，总体来看，商业银行不良率升高跟当前宏观经济面临的环境确实有联系。但他同时表示，这也和每个银行所做的经营管理的战略有关系，一方面，大家都要关注宏观经济形势的变化所带来的压力；另一方面，每家银行要把握好自身的发展战略，特别是加强在风险防控方面的能力。</p>
+<p>北京大学中国金融证券研究中心副主任吕随启也表示，银行不良贷款率提高确实和当前宏观实体经济整体在下滑、企业破产率在提高、还本付息能力下降有关。</p>
+<p><strong>等待企稳</strong></p>
+<p>辞职后的魏武辉下一步想去互联网金融公司工作，但是目前互联网公司尽管过了草莽时代，质地也还是参差不齐。而韩笑则称，虽然很想辞职，但是考虑家庭因素，还是很希望留下来，但是希望工作不要太辛苦。“希望银行的不良率能够企稳，我们这些银行基础员工的工作才能更为稳定。”韩笑直言。</p>
+<p>不良率的企稳在一定程度上依赖于经济的企稳。为了缓解经济形势，自去年以来，央行一直采取较为宽松的货币政策，降息降准政策也成为了每个季度的“常客”。不过，在需求低迷的状态下，货币政策持续宽松对于企业的信贷刺激并不强烈，经济形势依旧严峻。</p>
+<p>“从需求出发，我们发现企业对资金的需求并不旺盛。这意味着很多企业并不想贷款，因为不管什么样形式的融资，贷款、发债，各种各样的融资总是有成本的，如果收益不能覆盖成本，那么企业就不会去做融资以及利用融资来的钱去投资生产。”前述在股份制商业银行工作的资深人士表示。</p>
+<p>在分析人士看来，经济形势严峻的背景下，商业银行为了稳住净利润，必须改变依靠传统利差获利的形势。</p>
+<p>赵锡军指出，“当前我国商业银行利润快速增长已经过去了，面对新的形势，可能更多的要练好内功。尤其是宏观经济环境的变化，金融市场改革的推进诸如利率的市场化，汇率的改革这些方面会带来更大的影响。在这种情况下，商业银行应该要把握好业务拓展和风险防控的关系”。</p>
+<p>曾刚则认为，面对升高的商业银行不良率，现在银行自己能做的很少，可以尝试继续加大拨备力度，加大资本充足的准备和对坏账的核销，尝试和资产管理公司交易以及不良资产证券化等，这在一段时间内可以起到降低不良率的效果。“但是最根本的还是我国宏观经济怎么能尽快的企稳增长，能够尽快的企稳和回升。要知道商业银行不良率提升，本身是因为经济下行导致信用风险上升。”曾刚表示。</p>
+<p>北京商报记者 崔启斌 岳品瑜 实习记者 邹晨辉</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8C%97%E4%BA%AC%E5%95%86%E6%8A%A5-%E4%B8%8D%E8%89%AF%E7%8E%87%E6%8C%81%E7%BB%AD%E6%94%80%E5%8D%87-%E9%93%B6%E8%A1%8C%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%8E%92%E9%98%9F%E8%BE%9E%E8%81%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%89%AF%E7%8E%87/?category=18271" rel="tag">不良率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5/?category=18271" rel="tag">基层员工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">经济泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E9%A3%8E%E9%99%A9/?category=18271" rel="tag">经济风险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E5%88%A9%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">薄利时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E8%B4%B7%E6%AC%BE/?category=18271" rel="tag">银行贷款</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E6%96%B0%E7%96%86%E5%85%AC%E5%AE%89%E5%89%AF%E5%86%9B%E8%81%8C%E5%B9%B2%E9%83%A8%E6%B6%89%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%A2%AB%E5%8F%8C%E5%BC%80/" target="cdt-mirror">BBC | 新疆公安副军职干部涉严重违纪被“双开”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/150826023228_cn_china_yuan_banknote_dark_640x360_reuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/150826023228_cn_china_yuan_banknote_dark_640x360_reuters_nocredit.jpg" alt="新疆公安副军职干部" width="600" height="337"></a></p>
+<p><strong>中共中央纪委监察部发布消息说，中国公安部纪委监察局对包括4名副军职在内的22名公安现役干部严重违纪问题进行了立案审查。</strong></p>
+<p>中纪委网站发布的声明说，副军职的新疆公安边防总队原队长张根恒，以及正师职的内蒙古公安厅现役工作办公室原主任李文利等两人被“双开”，即开除党籍、开除军籍。</p>
+<p>声明说，“经查，张根恒严重违反组织纪律、廉洁纪律”，在战士入学提干、大学生入警等方面为他人谋取利益，收受财物。经公安部纪委全委会审议并报公安部党委批准，决定给予张根恒“双开”处分；涉嫌犯罪问题、线索移送司法机关依法处理。</p>
+<p>中纪委声明说，内蒙古公安厅现役工作办公室原主任李文利（正师职）为他人谋取利益，收受财物和礼金，并参与赌博，其行为已构成严重违纪和涉嫌犯罪，公安部党委决定给予李文利“双开”处分，涉嫌犯罪问题并移送司法机关处理。</p>
+<p><strong>中共“党军纪处分”</strong></p>
+<p>除此之外，中国公安部党委还决定给予其他3名副军职、15名师职和2名团职公安现役干部党军纪处分。其中：</p>
+<ul><li>公安部警卫局原副局长尹志山留党察看一年、撤职、副军职降职为正师职、少将警衔降为大校警衔；</li>
+<li>江苏消防总队原总队长马德文（副军职）留党察看一年；</li>
+<li>陕西公安边防总队原政委孙晓峰开除党籍、撤职、正师职降为副营职；</li>
+<li>上海市公安局现役工作办公室原主任蔡胜留党察看一年、撤职、正师职降为正团职；</li>
+<li>河北公安边防总队原总队长刘元祥留党察看一年、降低退休待遇、正师职降为副师职。</li>
+</ul><p>中纪委声明没有说明处分其他这些公安现役干部的具体原因。但声明补充说，中国公安部纪委今年以来还对125人进行诫勉谈话、提醒谈话和函询。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E6%96%B0%E7%96%86%E5%85%AC%E5%AE%89%E5%89%AF%E5%86%9B%E8%81%8C%E5%B9%B2%E9%83%A8%E6%B6%89%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%A2%AB%E5%8F%8C%E5%BC%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%9B%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">党军纪处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8/?category=18271" rel="tag">公安部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%A7%94%E7%9B%91%E5%AF%9F%E9%83%A8/?category=18271" rel="tag">纪委监察部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%87%91%E9%9B%81%EF%BC%9A%E6%80%BB%E8%A6%81%E6%9C%89%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5%E8%AF%B4%E8%AF%9D/" target="cdt-mirror">腾讯 | 金雁：总要有人站出来说话</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%87%E5%AD%A6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%87%E5%AD%A6.jpg" alt="俄罗斯文学" width="550" height="318"></a></p>
@@ -730,48 +791,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%B0%B1%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E8%AF%B4%E4%B8%A4%E5%8F%A5/" target="cdt-mirror">羽戈：就放开二孩说两句</a>
-</h2>
-<p><p><em>【编者注】作者微信原文已被和谐。</em></p>
-<p>懶得作文，整理微信。也許還有後續。</p>
-<p>【一】放開二孩，生三孩違法，可知此舉不是返還生育權，而是繼續制造與榨取人口紅利。人依舊是計劃政治之下的工具。</p>
-<p>【二】計劃經濟只是表象，計劃政治才是實質。計劃政治的特色之一即計劃生育。人被當作生殖機器，幾時少生，幾時多生，幾時限制生育，幾時鼓勵生育，甚至被強迫生育，皆取決于政治需要。人不是政治的動物，而是政治的産物。</p>
-<p>【三】政府損失了部分社會撫養費，卻轉嫁了部分養老責任。善于與民爭利的政府，從不做虧本生意。</p>
-<p>【四】2012年，我曾談及四點政治預期，如今前兩點已經實現：廢除勞教、架空計生。請注意，我的措辭是“架空”，而非“廢除”。有些樂觀者認爲，放開二孩之後，下一步就是廢除計生。然而這一步將極其漫長。因爲計生的立意，不僅是控制生育權與人口，更在于控制人身。這是計劃政治的標配，恐怕要與整個政治體制共存亡。說到底，廢除勞教，替代品好找，廢除計生，替代品難尋。</p>
-<p>（注：2012年底，一幫闊人宣揚新政，我表示對未來五年，只有四點預期：廢除勞教、架空計生、戶籍改革與教育平權。其余如司法獨立、官員財産公示等，都是奢談。）</p>
-<p>【五】放開二孩自然有其意義，不可否認，卻也不必高估。我能接受段子手的狂歡，卻無法認同“曆史之變、命運之變”式的歡呼。只要人被視爲生殖機器，那麽這個國家就是一個養殖場。養殖場中，生育指標的發放與落實，可以改變夥食，難以改變命運。</p>
-<p>【六】“生于政策，死于政策”。計劃生育，害苦了一代人，害死了一代人。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%B0%B1%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9%E8%AF%B4%E4%B8%A4%E5%8F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E5%AD%A9/?category=18271" rel="tag">全面开放二孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2%E6%9D%83/?category=18271" rel="tag">生育权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2-%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E4%BB%AC%E5%AF%B9%E6%99%AE%E9%81%8D%E6%94%BE%E5%BC%80%E4%BA%8C%E8%83%8E%E7%9A%84%E4%B8%8D%E5%90%8C/" target="cdt-mirror">唐映红 ：如何看待人们对普遍放开“二胎”的不同反应？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/640.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/640.jpg" alt="640" width="550" height=""></a><br><em>原标题：心理学问答：如何看待人们对普遍放开“二胎”的不同反应？</em></p>
-<p>Q&A151030</p>
-<p><strong>问：如何看待人们对普遍放开“二胎”的不同反应？</strong></p>
-<p>答：<strong>随着垄断权力集团普遍放开“二胎”政策的出台，不同的人群有着截然不同的反应</strong>。有网络段子概括不同年龄阶层的反应：“<strong>60后遗憾，70后纠结，80后犹豫，90后观望，00后维权</strong>”，这则段子很形象地概括了不同年龄阶层的反应，在微信和微博上也得到热传。</p>
-<p>从心理学角度，这则反映不同年龄阶层民众对垄断权力集团新政策不同反应的段子首先显示了<strong>这条政策并没有如预期那样得到民众的普遍拥护和热烈的欢迎。</strong>之所以会出现这样的现象，就在于这条政策的出台<strong>并非民意的反映，也没有民意的参与。</strong>整个政策出台完全是垄断权力集团的精英们闭门决策出来的，其决策逻辑仍然是将民众视为满足执政的垄断权力集团目标或利益诉求的资源和工具，而非享有权利的平等的人。<strong>当社会老龄化迫在眉睫，权力集团当年承诺的社会养老濒临全面破产之际；当靠“低人权人口红利”维系的经济发展模式走到尽头，劳动力人口无法继续为GDP增速提供支持之际出台“二胎”政策，其目的显然是为了能继续“维稳”，继续“活水养鱼”，而并非从善如流，遵从民意。</strong></p>
-<p>如果垄断权力集团能以民意为依据，那么<strong>至少10年前就应该调整政策</strong>，使60后能够有机会选择，使70后能从容应对，使80后能提早规划；使90后不再孤独。或者<strong>现在彻底废止计划生育政策，并对遭受戕害的无辜民众给予国家赔偿。</strong>一项长期无视民意，漠视民众基本权利，在错失掉最佳的政策调整期10年后才匆促出台调整政策，<strong>使各年龄层民众措手不及，也普遍缺乏生养二胎的心理和经济条件。</strong></p>
-<p>其次，正如张雪忠老师所说，“<strong>在各种社会政策致使人们普遍养不起两个孩子之后，当局终于推出了普遍的两胎政策。</strong>”近10多年来的各项社会政策，无论畸形的房价；资源匮乏、费用高企的教育和医疗；定期收割的股市；失控的食品和环境；举世罕见的税负等等，无不将民间财富榨取殆尽。<strong>普遍的“二胎”政策出台后，受益的更可能是社会经济阶层分布两端的人群，高阶层的富人和社会底层的穷人。</strong>前者早就可以通过各种方式将孩子生在文明国家，现在更是可以从容地生养而无经济之虞；后者本来就一直是“超生”罚款的对象，而现在可以不再顾虑罚款。而构成社会中坚的中间阶层，城市白领、基层公务员、事业单位员工等，之前既无法像富人那样有出国超生的条件，也无法像底层穷人那样有躲着生的心态；<strong>现在生养一个孩子已经捉襟见肘，再生养一个，不啻是雪上加霜。</strong></p>
-<p>再者，当自然环境和社会环境已经分别被近10多年急功近利的经济政策和社会政策破坏得令人绝望的时候，<strong>越来越多的父母为孩子未来成长和生活的环境忧心忡忡</strong>。城市丁克家庭也逐渐成为一种亚文化，80后、90后人群中对传统的生养观（“养儿防老”之类）无动于衷，越来越<strong>不愿意因为生养孩子而影响自己喜欢的生活方式，降低生活质量。</strong>随着经济和城市化的发展，本来就会带来一代比一代生育意愿更低的现象，加上已经严重恶化的自然环境（如雾霾）和社会环境（如老人讹诈），<strong>普遍的“二胎”政策对丁克家庭，或者希望维持高品质和更加自由生活的80后、90后来说，就像摆地摊卖伪劣货品的商家，在沃尔玛门前吆喝“买一送一”。</strong></p>
-<p>同时，随着社会民众权利意识觉醒和不断提高，基于维持而没有废止计划生育政策的背景下，普遍放开“二胎”已经不能令越来越多的民众满意。<strong>在一次又一次丧失公信力之后，垄断权力集团的任何政策都可能陷入所谓的“塔西佗陷阱”（Tacitus Trap），令越来越多的民众不信任和不满。</strong></p>
-<p>概而言之，普遍放开“二胎”政策之所以会令“<strong>60后遗憾，70后纠结，80后犹豫，90后观望，00后维权</strong>”，没有出现预期的普遍的拥护和热烈的欢迎，其原因就在于<strong>现时代普遍的社会心理已经不满足于垄断权力集团任性的“恩赐</strong>”；其政策本身也<strong>错失掉真正有利于60后、70后民众的最佳调整期</strong>，现时代出台更像一块“鸡肋”；社会普遍的经济状况以及对未来的经济预期也使<strong>大多数社会中坚阶层家庭缺乏生养第二个孩子的经济和心理条件</strong>；同时随着经济和城市化发展，一代比一代更缺乏生育意愿，这就使<strong>80后、90后人群对新政策更可能无动于衷</strong>。</p>
-<p>2015-10-30</p>
-<p>——————————————–</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/0wibfwsNxo7qqFvic0SMeD8zBicBpu7s4V78N6CNfXm3vhWUwEab7vcwGGe8n6jBYt9Jcn3JLTqIuneOiaVxTNqAJw/640?wxfrom=5&wx_lazy=1" alt="" width="320" height="322" data-src="http://mmbiz.qpic.cn/mmbiz/0wibfwsNxo7qqFvic0SMeD8zBicBpu7s4V78N6CNfXm3vhWUwEab7vcwGGe8n6jBYt9Jcn3JLTqIuneOiaVxTNqAJw/0" data-w="427" data-ratio="1.0070257611241218" data-s="300,640"></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2-%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E4%BB%AC%E5%AF%B9%E6%99%AE%E9%81%8D%E6%94%BE%E5%BC%80%E4%BA%8C%E8%83%8E%E7%9A%84%E4%B8%8D%E5%90%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E7%BA%A2%E5%88%A9/?category=18271" rel="tag">人口红利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E8%80%81%E9%BE%84%E5%8C%96/?category=18271" rel="tag">人口老龄化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">养老制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%89%E4%BB%B7%E5%8A%B3%E5%8A%A8%E5%8A%9B/?category=18271" rel="tag">廉价劳动力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -783,7 +802,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -793,5 +812,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

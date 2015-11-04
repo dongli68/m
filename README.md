@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%90-%E6%98%A5%E6%99%9A%E5%B0%86%E7%AA%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E4%B8%8D%E7%94%A8%E4%BD%8E%E4%BF%97%E8%8A%82%E7%9B%AE%E6%B1%A1%E7%82%B9%E6%BC%94/" target="cdt-mirror">新浪娱乐 | 春晚将突出中国梦 不用低俗节目污点演员</a>
+</h2>
+<p><p>新浪娱乐讯 日前，中央电视台召开了2016年春晚语言类节目总体布局会，针对猴年春晚做出规划。据悉，央视台长聂辰席在会上指出，首要的应是突出主题主线和思想内涵，从头至尾贯彻中国梦、“四个全面”战略布局、中国力量、中国精神、中国道路、社会主义核心价值观等主题主线宣传应一以贯之。另外今年语言类节目依然坚持“三不用”原则，暨不用低俗媚俗节目，不用格调不高的节目，不用有污点和道德瑕疵的演员。</p>
+<p>聂辰席现担任总局党组副书记、副局长兼中央电视台分党组书记。此前在央视召开的2016年春晚艺术顾问工作会上，他曾指出，要坚持节俭办晚会、办节目，做到朴素大气，杜绝豪华奢侈、铺张浪费。这次他还指出，要实现思想性、艺术性、观赏性的“三性”统一，展现现实生活，突出类似“9.3”阅兵、生态文明建设等年度大事，用艺术化的方式聚焦这类年度记忆。而在语言节目的总体布局会上，台长聂辰席指出，要充分考虑分会场的文化性和代表性，积极挖掘、创新当地具有代表性的文化，以文化为链接，真正实现“东西南北中，全民大联欢”。</p>
+<p>而除此之外，今年春晚还可能启用分会场，在老大楼一号演播大厅之外开辟第二现场。事实上，在1996年的时候，春晚便首次设置过分会场，当时实现了西安、上海、北京三地的同时直播。而对于猴年春晚，广电总局此前召集了央视、北京、上海、吉林、陕西等电视台的相关人士，为春晚推介节目。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%90-%E6%98%A5%E6%99%9A%E5%B0%86%E7%AA%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E4%B8%8D%E7%94%A8%E4%BD%8E%E4%BF%97%E8%8A%82%E7%9B%AE%E6%B1%A1%E7%82%B9%E6%BC%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E6%99%9A/?category=18271" rel="tag">春晚</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E6%9B%B4%E5%B7%AE/" target="cdt-mirror">博谈网 | 中国的经济比你想象的更差</a>
+</h2>
+<p><p>（博谈网记者欧阳剑编译报道）据《彭博社》11月3日报道，中国官方经济数据不可靠几乎成了老生常谈。在李克强成为总理的几年前，他说中国的数字是“人造的”，“仅供参考”。如果一个国家的高层经济政策制定者说数字不可靠，那么，相信他吧。</p>
+<p>但是怎么个不可靠？长期向同一个方向伪造经济数据是很难的，最终，大家会发现，经济比数据显示的累积增长率要更大的多，或更小的多。在2007年，类似的事情曾经发生过，当时亚洲开发银行报告说，中国的GDP比公布的数据要小得多。中国的通胀被低估，导致真实（通胀调整后）的增长数字长期过高。</p>
+<p>在当前的经济环境下，最大的问题是中国是否正遭受着比人们普遍认为的更糟糕的经济衰退。最新的官方数据显示增长率是6.9%，与7%相比几乎没怎么下降。当然，这是与去年同期相比的数字，因此，季与季年率增长（通常美国报告的数字所使用的）将比6.9%略低一点。但只是略低一点。对投资者和政策制定者而言，真正的问题是，这些数据是否是伪造的。</p>
+<p>北京当局有充分的理由将其增长数字向高捏造。在中国，增长几乎成了宗教，是共产党的主要合法性来源之一。如果中国人失业了，他们可能认为这是当地经济放缓或自己的雇主失败造成的，但是如果全国的数字下降，他们可能会认为，上面的当权者搞垮了经济。这对政治稳定可能是危险的。</p>
+<p>此外，中国的领导人有动力要保持资金以外国直接投资的方式流入中国，并防止资金外流。这意味着，要将任何恐慌迹象消灭于萌芽之中。捏造经济数据是防止紧张的投资者撤资的廉价方法。</p>
+<p>于是，基于这些理由，一些人对中国的真正增长率做出了估计。彭博社的首席亚洲经济学家Tom Orlik最近收集了一些独立的数据，并将它们整理在下面的图表中。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/tupian1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/tupian1.png" alt="tupian1" width="550" height="619"></a></p>
+<p>这些数字从Lombard Street的悲观的略超3%到Bloomberg Intelligence的乐观的略低于7%。换句话说，这里存在着很大范围的不确定性。</p>
+<p>但是，我想提出一个比上面的最低数字还要悲观的看法。在读了北京大学教授Chris Balding关于中国金融业的状况报告之后，我认为有可能中国的增长甚至低于3%。</p>
+<p>中国的用电量增长率为1%左右。铁路货运量，虽不稳定，但最近不断下降。这些都是传统上用来衡量重工业输出的指标。这些几乎没怎么增长，意味着中国很多行业已经陷于停顿。</p>
+<p>当然，认为中国牛市的人或许会说，中国只是因为处于从工业向服务业，从浪费的电力使用向更高效使用的转型期间。这可能是事实。但是转型的速度必须要达到令人难以置信的程度才能弥补工业活动的骤然下降。为什么在主要股市泡沫破灭之后，中国的服务业和能源效率忽然暴涨了呢？</p>
+<p>一个原因是政府支出。隐形刺激正在进行中。但是等式的另一头是金融业，最近数月尽管股市大跌，却登记了惊人的增长。</p>
+<p>为什么中国的金融服务业在增长？仅凭贷款的增长是不够的，银行要想登记收入必须要有人支付这些钱给银行。那么，有人给他们支付钱了吗？Chris Balding报告说：</p>
+<p>“一些中国研究人员……比较了企业支付给银行的还贷款和欠银行的金额……（他们的研究结果表明）中国企业仅仅支付他们应该支付的费用的一半。而银行登记的贷款收入则是这些在银行贷款的企业贷款成本的四倍……银行的收入（一直）超过企业财务成本增长的近四倍。”</p>
+<p>换句话说，银行说他们收到的还款额比借款人说的他们支付的金额要高得多。如果Balding的数据可信——当然，这些数据仅仅是黑暗的金融体系的管窥一斑——那么，最近中国金融服务行业飙升的很多一部分可能只是假的。</p>
+<p>当然，中国银行也从“常青”贷款中获取了收入，尽管这部分收入现在是实实在在的，也只不过是将贷款违约的日子推远而已。因此，尽管这部分的GDP不是假的，但是它预示着将来有更糟的事发生。</p>
+<p>总而言之，中国的金融业提出了增长的情况远比我们认为的官方或私人数据都要悲观得多的可能性。当然，时间会证明一切。但是，我不认为中国的经济增长会迅速反弹。至少，不会是真正的反弹。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E6%9B%B4%E5%B7%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%9E%E9%95%BF%E7%8E%87/?category=18271" rel="tag">增长率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE%E6%B0%B4%E5%88%86/?category=18271" rel="tag">数据水分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E9%87%8F/?category=18271" rel="tag">电量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">经济数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">经济泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E4%B8%9A/?category=18271" rel="tag">金融业</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%B7%AF%E9%80%8F-%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8A%93%E5%BC%95%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94-%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E5%AE%9E%E9%99%85%E6%8E%A7%E5%88%B6%E4%BA%BA%E5%A4%B1/" target="cdt-mirror">路透 | 徐翔被抓引连锁反应 宁波中百实际控制人失联</a>
 </h2>
 <p><p>路透上海11月4日 – 中国知名私募基金经理–泽熙投资总经理徐翔被抓后，引起连锁反应。宁波中百(<span><a href="http://cn.reuters.com/investing/quotes/quote?symbol=600857.SS">600857.SS</a></span>)周三公告称，与公司董事长徐峻以及实际控制人徐柏良暂时无法取得联系；而大恒科技(<span><a href="http://cn.reuters.com/investing/quotes/quote?symbol=600288.SS">600288.SS</a></span>)公告称，受徐翔事件影响，公司定向增发计划存在不确定性。</p>
@@ -76,7 +116,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%88%AA%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">C919民航飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%9C%BA/?category=18271" rel="tag">国产大型客机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">大飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%93%81/?category=18271" rel="tag">高铁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-c919%E6%B0%91%E8%88%AA%E5%AE%A2%E6%9C%BA%E4%B8%BB%E8%A6%81%E6%9C%BA%E4%BB%B6%E7%96%91%E4%B8%BA%E5%A4%96%E5%9B%BD%E4%BA%A7%E5%93%81/" target="cdt-mirror">法广 | C919民航客机主要机件疑为外国产品</a>
 </h2>
@@ -636,60 +676,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%96%B0%E7%96%86%E6%97%A5%E6%8A%A5%E7%A4%BE%E5%8E%9F%E6%80%BB%E7%BC%96%E8%BE%91%E8%B5%B5%E6%96%B0%E5%B0%89%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE%E8%A2%AB/" target="cdt-mirror">自由亚洲 | 新疆日报社原总编辑赵新尉妄议中央被双开</a>
-</h2>
-<p><p>新疆日报社原总编辑赵新尉被指“妄议中央和自治区党委的重大工作方针、决策和决定”以及在涉恐问题上与中央和自治区党委不能保持一致，被开除党籍和公职。赵新尉是今年10月新党纪出台后，首例因“妄议中央”而被双开的官员，引发舆论关注。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/m1102-yf1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/m1102-yf1.jpg" alt="m1102-yf1" width="678" height="672"></a></p>
-<p>新疆“亚心网”11月2日发布消息：新疆日报社原党委书记、总编辑、副社长赵新尉严重违纪，被开除党籍和公职。该通报尤为引发外界关注的是指赵新尉严重违反政治纪律和政治规矩，妄议中央和自治区党委的重大工作方针、决策和决定，公开发表反对中央和自治区党委关于新疆工作重大部署要求的言论；故意作出与中央和自治区党委重大新闻工作部署相违背的决定；在反对民族分裂主义、暴力恐怖主义、宗教极端主义等重大原则问题上，言行不能与中央和自治区党委保持一致。</p>
-<p>中共中央10月下旬出台了新版《中国共产党纪律处分条例》，其中明文规定妄议中央大政方针，破坏党的集中统一的，可按情节轻重不同予以处罚。新党纪也被称为“最严党纪”。赵新尉是《条例》出台后，首名被公开通报的因“妄议中央”而被双开的官员。</p>
-<p>赵新尉自1986年起担任喀什地委办公室正科级秘书、主任，1996年起任喀什地区行署秘书长，2005年至2011年担任喀什宣传部部长，并在2011年1月起任职新疆日报社党委书记、总编辑、副社长。2015年5月，赵新尉因严重违纪被调查。</p>
-<p>关注事件的安徽异议人士沈良庆当天接受本台采访时表示，选择赵新尉作为首例“妄议”案件，或与其新疆日报社原总编辑的身份有关。</p>
-<p>“选择他开刀，可能因为新疆民族问题本来就比较敏感。这个东西很显然他不允许、不能容忍有任何不同的声音，任何杂音都要把它消除，把新疆日报社这个总编抛出来。这样搞可能会越来越糟糕，因为你不准妄议的结果，最终可能就是爆炸性的。新疆矛盾越来越大，你没有一个合适的解决办法，一味地靠打压。其实有的妄议可能就是一个比较温和的反对的声音，有的甚至就是有些不同看法，这个民族问题到底该怎么解决。你完全不让妄议的话，新疆人反叛，只能用这种方式表现出来了。”</p>
-<p>网民“张家干”在微博上发表看法道：不得妄议的对象已经从中央到了省委，后续该到市委、县委，到任何一个公立单位了吧。</p>
-<p>广州作家野渡则认为，随着赵新尉被双开，相信后续“妄议”案例还会陆续有来。不过，执政党试图用这样的方式保持党内意识形态统一是很难实现的。</p>
-<p>“因为今天互联网十多年启蒙，党员内部的分化是显而易见的。特别党国现在是利益群体，是个利益党，肯定在利益面前本身也面临着不同的分化，利益也面临着重新的瓜分，这样他怎样指望队伍还能保持所谓意识形态统一性？所以虽然他想加强这方面的氛围，但是他肯定会面临着这个挑战，而且挑战会越来越多。”</p>
-<p>有网民则感叹道：以前强调积极推进党内民主，执行大多数人意见，允许保留个人意见。现在个人意见都碰高压线。这是什么样的一个时代啊？</p>
-<p>（特约记者：扬帆 责编：胡汉强/嘉远）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%96%B0%E7%96%86%E6%97%A5%E6%8A%A5%E7%A4%BE%E5%8E%9F%E6%80%BB%E7%BC%96%E8%BE%91%E8%B5%B5%E6%96%B0%E5%B0%89%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE%E8%A2%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">党内民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E5%BC%80/?category=18271" rel="tag">双开</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">新疆日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">言论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%96%B0%E5%B0%89/?category=18271" rel="tag">赵新尉</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%BB%AC%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AE%B9%E5%BC%82%E8%AE%AE%E7%9A%84%E7%89%BA%E7%89%B2%E5%93%81/" target="cdt-mirror">博谈网｜漫画家们成为中国不容异议的牺牲品</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2014/01/%E6%88%90%E6%B6%9B%E6%BC%AB%E7%94%BB%EF%BC%9A%E8%A2%AB%E5%91%8A.jpg" alt="成涛漫画：被告" width="328" height="328">（博谈网记者赵亮编译报道）据《美联社》11月1日报道，白补旦上午到天安门广场漫步，希望能为一个新的系列讽刺漫画寻找灵感。讽刺漫画这种艺术形式在中国只能勉强存活。</p>
-<p>他想到了在广场上安装的众多监控摄像头，就在故宫入口上方一幅巨大的毛泽东画像对面。“这些摄像头是为了谁的安全？是为了老百姓的安全吗？”他问。</p>
-<p>他想起了他小时候唱的流行儿童歌曲《我爱北京天安门》。他勾画了毛的画像，并用更新后的歌词加以说明。</p>
-<p>回到工作室，他很快就画了两个粉红色的丘比特，把箭指向三个安全摄像头，背景是故宫。标题写着“我爱北京天安门的安全摄像头”。</p>
-<p>当他感到已完成了这幅作品后，他将在哪里展示呢？在中国谁能看到？这些问题都充满了风险。</p>
-<p>自从1949年共产主义革命以来，在中国，漫画家们画政治讽刺漫画已颇为罕见，虽然三年前一些人开始获得关注。尤其是一名叫做“变态辣椒”的艺术家，其漫画作品在社交媒体上广为流传。</p>
-<p>2013年12月，中国国家主席习近平到北京一间小餐馆吃了些包子作午餐，这成为头条新闻。变态辣椒把习画成一只包子，周围是其他的早点在向他磕头，仿佛他是一个旧时期的君王。2014年10月的一幅漫画画的是习与一名民族主义博客写手周小平上床；习曾称赞过周，虽然这位年轻人因夸大对美国的负面指责而受到关注。</p>
-<p>去年，中国当局突然关闭了属于变态辣椒的社交媒体账号，并搜了他的家，后来他自己流亡日本。他的本名叫王立铭。这一打压处于中国领导层广泛遏制知识分子、律师及中共党外任何团体寻求推动社会变革的背景之下。</p>
-<p>白补旦避免去针对领导人，而是瞄准了整个社会，往往采用丘比特形象来说明他的观点。即便如此，去年在他刊登了一幅天安门广场浸在红墨水之中的漫画后，他的微博帐号被终止。该漫画看上去象是影射1989年军队在天安门广场屠杀亲民主的学生，这在中国仍是一个禁忌话题。</p>
-<p>白说向公众展示他的漫画是一个挑战，他常常采用私下展览。</p>
-<p>“我还没有公开展示我的许多画作。我的微博帐号去年被关闭了，但我尽量不去想太多可能存在的风险，我尽量去想积极的事情，或是尽量保持乐观”，白说。</p>
-<p>“任何职业都带有风险，对吧？”他在北京的家外接受记者采访时说。</p>
-<p>“一个正常的社会应该有这类艺术家”，中国艺术批评家栗宪庭在接受采访时说。“如果没有人发出他们的声音，那么，当然这就不是一个正常的社会。”</p>
-<p>“在中国，漫画家们越来越少。这是因为没有让他们成长的空间。他们无法去接触公众，没有给他们的平台。在过去，报纸和印刷媒体起了非常重要的作用。”</p>
-<p>白来自采矿的省份山西。他是在宣纸上用墨水和砚台作画，他也通过摄影和纪录片来评论社会问题。</p>
-<p>“所有发生在我们社会中的事情都让我关注”，他说。“我思考着这些问题，并画下来。”</p>
-<p> </p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%BB%AC%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AE%B9%E5%BC%82%E8%AE%AE%E7%9A%84%E7%89%BA%E7%89%B2%E5%93%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -701,7 +687,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +697,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

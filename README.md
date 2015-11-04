@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%A5%BF%E6%96%B9%E7%AB%9F%E9%98%B2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%84%8F%E8%AF%86%E5%BD%A2/" target="cdt-mirror">【异闻观止】环球时报｜西方竟防上“中国意识形态渗透”了</a>
+</h2>
+<p><p><strong>【编者注】根据路透社的<a href="http://www.reuters.com/article/2015/11/02/us-china-radio-fcc-idUSKCN0SR2AI20151102">后续报道</a>，<a href="https://zh.wikipedia.org/wiki/%E8%81%94%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%91%98%E4%BC%9A">联邦通信委员会</a>与美国司法部已分别对曾自称为“CRI密切的合作伙伴”的G&E Studio展开调查。G&E Studio位于美国加州洛杉矶郡华人众多的West Covina 市，该公司在路透社报道发表后，将其官方网站中专门介绍它与“中国国际广播电台是密切的合作伙伴”的页面删除。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CRI%E4%BA%B2%E5%AF%86%E7%9A%84%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CRI%E4%BA%B2%E5%AF%86%E7%9A%84%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4.png" alt="CRI亲密的合作伙伴" width="585" height="342"></a><br><em>（以上为 G&E Studio 的官方网站谷歌缓存页截图；它曾自称为中国国际广播电台“密切的合作伙伴” ）</em></p>
+<p>中国国际广播电台(CRI)下属公司在美国开展一些合作，CRI的一些音频节目通过美地方电台的频道播出，这引起路透社的深度“揭秘报道”。该报道说得很邪乎，称中国在美搞“隐蔽电台网络”，向美国听众宣扬中国的立场，就像CRI干了什么“隐蔽战线”的工作似的。</p>
+<p>强大的西方怎么会在<strong>心理上脆弱到这样的地步</strong>？就在不久前，《纽约时报》报道了中国大学在国际在线教育平台edX网站上推“毛泽东思想概论”课的事情，宣称这是对外“加强意识形态输出”。</p>
+<p>西方舆论对孔子学院的议论更是此起彼伏，好像生怕他们的孩子在那些中文班里学汉语时，会被来自中国的教科书和老师们“洗脑”。</p>
+<p>回到广播的事，美国那家地方广播电台并没有受控于CRI，即使按照路透社的披露，它也只是播出了CRI的节目。这样的合作在世界各国媒体之间不知道每天要发生多少起。路透社的报道质疑它的合法性，而《环球时报》英文版每年就要使用路透社的大量图文内容，还要为此向路透社付费，我们被它的报道搞糊涂了：这样做合法吗？</p>
+<p>还有，《纽约时报》等美国主流媒体动不动就对外收费，卖给外国机构很多版面，刊登宣扬那些国家价值观的文章。这成了美国主流媒体的一种捞钱方式。为什么不问问《纽约时报》这样做合法吗？</p>
+<p>中国大学在edX网站开门毛概课，一共才3000多注册学生，美国700多人，《纽约时报》就不安了。中国每年有几万个孩子去美国留学，去英国等欧洲国家及澳、新的也很多，中国是不是应该担心那些学生在西方被“洗脑”，从此限制他们出境？</p>
+<p>中国不知道翻译了多少西方的思想著作，各大学开了多少门西方理论的课程。中国数不清的人用苹果手机，据说所有信息和图片都被苹果公司给“云”了。光是麦当劳、肯德基对美国文化的传播，相当于给中国孩子们开了多少所西方版的“孔子学院”或“孔子课堂”。还有NBA、欧洲三大杯、一年几十部好莱坞大片，要是有路透社、《纽约时报》警惕性的1/10，中国人还不得被吓死!</p>
+<p>西方媒体所展现的那个“神经质的西方”实在是有点没出息。就说美国，它并没有衰落，中国也根本没有能力对它进行意识形态挑战。中国互联网上的“美分”一抓一大把，倒是中国应当从美方的警惕中得到些启示：我们过去是不是对美国的意识形态渗透管得太松了？</p>
+<p>此外美国是崇尚“新闻自由”的国家，原来在那里播些来自中国的声音，是与这种“新闻自由”相抵触的。看来西方媒体“很讲政治”，很愿意主动敦促政府给“新闻自由”划边界，它们甘当守卫这条边界的志愿者。</p>
+<p>实事求是说，当今的世界舆论很大程度上受西方大媒体公司主导，而且西方的舆论霸权是西方中心主义受到动摇时最固若金汤的堡垒。非西方国家普遍有受到西方舆论压迫的苦衷，它们努力发出一些自己的声音，至少目前还谈不上同西方对抗，只是希望能有一些自己介绍自己的权利，别让西方对非西方国家的描述成为世界了解它们的全部。</p>
+<p>西方如果连这么点缝隙都舍不得让出，那么它们真是要把事情做绝。随着新兴世界的崛起，它们把一些非西方的声音带进西方社会，是无法阻挡的自然过程。一定要拒绝这个过程的西方人，他们是在与天道过不去，在跟自己过不去。<br><strong><br>
+以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1843246231" target="_blank">明堂辟幽</a>：人家有墙么 有文化部么 有政委么 <img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/1768973900" target="_blank">午夜慕尼黑</a>：总有人要害我<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>cq_ty：共产党好 百姓乐</p>
+<p>华袍上的狮纸：一个“竟”字用得好，高级黑本色啊</p>
+<p>藏雪堂：环球的意思是西方也学我们了。</p>
+<p>绵羊专修麒麟臂：不是已经限制了吗？包律师的儿子被你们软禁在内蒙!</p>
+<p>古铜麦：这话说的，好像咱们经常防西方意识形态一样。</p>
+<p>李的天空：你们网络都不敢开，还有碧莲说人家？</p>
+<p>二十6年明月夜：我为什么无法登录Google地图？</p>
+<p><strong>甄瑞英：你的确在担心啊，装什么不知道</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%A5%BF%E6%96%B9%E7%AB%9F%E9%98%B2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%84%8F%E8%AF%86%E5%BD%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C-%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/" target="cdt-mirror">BBC| 习马会即将举行 台湾朝野反应不一</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104053916_taiwanese_protesters_976x549_epa_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104053916_taiwanese_protesters_976x549_epa_nocredit.jpg" alt="主要反对党民进党发言人郑运鹏发表5点声明表示，两岸议题攸关国家利益，应超越政党考量，不应选举操作。" width="660" height="371"></a><p>主要反对党民进党发言人郑运鹏发表5点声明表示，两岸议题攸关国家利益，应超越政党考量，不应选举操作。</p></div>
@@ -117,7 +151,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">徐翔被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91/?category=18271" rel="tag">私募基金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E9%BB%91%E5%B9%95/?category=18271" rel="tag">股市黑幕</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91c919%E6%9C%AC%E8%B4%A8%E4%B8%8A%E8%B7%9F%E6%94%92%E7%94%B5%E8%84%91%E6%B2%A1%E5%8C%BA%E5%88%AB/" target="cdt-mirror">【网络民议】C919本质上跟攒电脑没区别</a>
 </h2>
@@ -654,38 +688,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%A4%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%9B%9B%E5%B7%9D%E5%B4%87%E5%B7%9E%E6%9D%91%E6%B0%91%E9%98%BB%E7%87%83%E6%B0%94%E7%AB%99%E6%96%BD%E5%B7%A5%E5%85%AD%E4%BA%BA%E8%A2%AB%E6%89%93%E4%BC%A4%E9%80%81%E5%8C%BB/" target="cdt-mirror">自由亚洲 | 四川崇州村民阻燃气站施工六人被打伤送医</a>
-</h2>
-<p><p>四川省崇州市三江镇皂角村的数十农民，因不满兴建中的燃气站紧靠民房而阻挠施工。上周五（10月30日）与前往强行施工的约一百名工程人员发生冲突，六位村民被打伤送医院，其中四人重伤，还有一人被行政拘留。村民本周一告诉本台，当局在该村建的燃气站距离民居仅十米远。</p>
-<p>上周五（10月30日），四川崇州三江镇皂角村村民，因与燃气站施工方人员发生冲突，多位村民被打伤。村民陈思宇本周一（11月2日）告诉本台，三江镇政府未经村委会同意，擅自与燃气公司签署协议：“三江政府征地，他给我们签署征地协议，当时是三万元一亩地，公司老板给我们一亩三万元补贴，还有一个是三万元的社保补贴，合九万元一亩。但是我们去查询和各方面的了解，发现燃气站离我们的房屋太近了，也没有合法手续。我们就是阻止施工队和政府，不让他们施工”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/201509090224china1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201509090224china1.jpg" alt="201509090224china1" width="599" height="448"></a></p>
-<p>陈思宇说，村民阻止施工时被打伤：“10月30日，政府叫了穿迷彩服的人来，村民去阻止，他们就殴打村民，伤了六人。四个人的伤重一点。还有我的妈妈雷桂林，10月30日被袭警罪拘留”。</p>
-<p>记者：有多少人，与多少村民发生冲突？</p>
-<p>回答：来了一百多人，全都穿迷彩服。征地面积差不多36亩。</p>
-<p>记者：今天的情况怎么样？</p>
-<p>回答：昨天还在施工。</p>
-<p>记者：受伤的村民情况怎么样？</p>
-<p>回答：现在还住在医院。</p>
-<p>据成都六四天网10月31日消息，30日上午，崇州市三江镇党委委员袁正洪带领100余人，身着迷彩服前往皂角村十八组强行征地，与30位村民发生冲突，打伤张桂华、干志明、沈杰、陈杜清等村民。征地方也有2人受伤。崇州市公安局以“袭警罪”将村民雷桂林拘留6天。</p>
-<p>天网称，2014年9月20日，三江镇政府与皂角村村委会签署征地协定：“九江500Kw电力线路系2014年省府重点工程。目前地处顺金小区华怀路边的隆安燃气有限责任公司属电力线路拆迁范围，为加速推进隆安燃气有限责任公司拆迁安置进度，拟将燃气公司拆迁后选址皂角村18组君临沙场重建。”</p>
-<p>因为该燃气站因距离村民居住地仅10米，违反相关安全标准，村民陈林、陈思宇等人随即向多个部门投诉。今年8月6日，四川省发展和改革委员会书面答复称：“未收到过上述项目的相关申报材料，也未对此批复。”</p>
-<p>村民陈林说，事发时，他们多次拨打110，但公安不出警：“拨打很多次110，等老百姓挨打之后，才到。110没有抓打人的，只抓了村民”。</p>
-<p>记者：36亩是多少村民的地？</p>
-<p>回答：二十多户村民的地。</p>
-<p>六四天网创办人黄琦11月2日对本台说：“这批农民因为拆迁征地被打伤以后，目前正在崇州当地医院住院治疗，政府和开发商均没有缴纳医疗费，还派出不少黑社会人员将农民的田地收走，以免农民再次反攻。目前，我们希望有关当局尽快处理农民的医疗费问题。并且对打伤农民的肇事者，绳之以法”。</p>
-<p>30日凌晨，黄琦等天网义工前往崇州市第二人民医院，看望受伤住院的村民。</p>
-<p>特约记者：乔龙 责编：胡汉强/吴晶</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%9B%9B%E5%B7%9D%E5%B4%87%E5%B7%9E%E6%9D%91%E6%B0%91%E9%98%BB%E7%87%83%E6%B0%94%E7%AB%99%E6%96%BD%E5%B7%A5%E5%85%AD%E4%BA%BA%E8%A2%AB%E6%89%93%E4%BC%A4%E9%80%81%E5%8C%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%B7%9D/?category=18271" rel="tag">四川</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E5%BE%81%E5%9C%B0/?category=18271" rel="tag">暴力征地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">集会示威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -707,5 +709,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%B7%9D
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

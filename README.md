@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%B7%AF%E9%80%8F-%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8A%93%E5%BC%95%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94-%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E5%AE%9E%E9%99%85%E6%8E%A7%E5%88%B6%E4%BA%BA%E5%A4%B1/" target="cdt-mirror">路透 | 徐翔被抓引连锁反应 宁波中百实际控制人失联</a>
+</h2>
+<p><p>路透上海11月4日 – 中国知名私募基金经理–泽熙投资总经理徐翔被抓后，引起连锁反应。宁波中百(<span><a href="http://cn.reuters.com/investing/quotes/quote?symbol=600857.SS">600857.SS</a></span>)周三公告称，与公司董事长徐峻以及实际控制人徐柏良暂时无法取得联系；而大恒科技(<span><a href="http://cn.reuters.com/investing/quotes/quote?symbol=600288.SS">600288.SS</a></span>)公告称，受徐翔事件影响，公司定向增发计划存在不确定性。</p>
+<p>据新华上周日晚间报导，徐翔因涉嫌通过非法手段获取股市内幕信息等，已被依法采取刑事强制措施。</p>
+<p>宁波中百称，公司已关注到有关徐翔被调查的报导，其中有部分报导内容涉及公司，根据交易所要求，对相关情况作出说明。对于媒体报导中有关徐峻和徐柏良与徐翔的私人关系，目前这两人暂无法联系到，待公司后续取得联系后，及时确认并对外披露。</p>
+<p>公司公告指出，目前公司日常经营管理工作，由公司董事、副总经理兼财务总监黄炎水主持。</p>
+<p>据国内媒体报导，2014年中旬，徐翔资本运作平台泽添投资通过受让股权的方式取得了宁波中百的第一大股东之位。徐柏良持有泽添投资99%股权，剩余1%股权由郑素贞持有，徐柏良是徐翔的父亲，郑素贞为徐翔的母亲。徐峻的另一职务为泽熙投资总经理助理。</p>
+<p>郑素贞担任第一大股东的大恒科技公告显示，郑素贞尚能联系到，其未直接参与公司的经营管理。徐翔在公司不担任任何职务，公司的日常生产经营未受其影响，此后其对公司的日常生产经营及公司的实际控制权也不会产生影响。</p>
+<p>不过大恒科技指出，虽然公司的定向增发方案已获证监会发审委审核通过，但目前尚未收到中国证监会的书面核准文件。因徐翔事件的影响，公司非公开发行股票事宜仍存在不确定性。</p>
+<p>大恒科技本次定增拟以9.691元/股向第一大股东郑素贞发行不超过3.1亿股，募资30亿元人民币，投入智能检测设备产业化项目、光电及激光技术产业化项目，多用途工业数字摄像机技术改造项目等，同时偿还银行贷款及补充流动资金。</p>
+<p>另外，泽熙投资有意参与的上市公司定向增发项目亦出现变数，例如宝莫股份(<span><a href="http://cn.reuters.com/investing/quotes/quote?symbol=002476.SZ">002476.SZ</a></span>)周二开盘前临时宣布停牌，理由是正在筹划调整非公开发行预案。</p>
+<p>6月，宝莫股份宣布定增方案，拟向10名投资者非公开发行4.1亿股，募集32.308亿元收购一龙恒业石油工程技术公司等项目。其中泽熙增煦拟认购6.43亿元，约占募资总额的两成。泽熙增煦是泽熙投资管理的一只私募基金。</p>
+<p>受到徐翔被调查事件的影响，上述三家公司股价近期均出现了不同幅度的下跌，其中宁波中百两天跌幅近10%，大恒科技则是连续两天跌停，宝莫股份周一跌幅逾9%。（完）</p>
+<p>(发稿 林琦; 审校 黄凯)</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%B7%AF%E9%80%8F-%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8A%93%E5%BC%95%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94-%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E5%AE%9E%E9%99%85%E6%8E%A7%E5%88%B6%E4%BA%BA%E5%A4%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">徐翔被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91/?category=18271" rel="tag">私募基金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E9%BB%91%E5%B9%95/?category=18271" rel="tag">股市黑幕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91c919%E6%9C%AC%E8%B4%A8%E4%B8%8A%E8%B7%9F%E6%94%92%E7%94%B5%E8%84%91%E6%B2%A1%E5%8C%BA%E5%88%AB/" target="cdt-mirror">【网络民议】C919本质上跟攒电脑没区别</a>
 </h2>
 <p><p><strong>新闻背景：</strong></p>
@@ -236,7 +258,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%97%E4%BC%A0/?category=18271" rel="tag">列传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">徐翔被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8F%B2%E8%AE%B0/?category=18271" rel="tag">新史记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91/?category=18271" rel="tag">私募基金</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%96%B0%E7%96%86%E5%93%88%E5%AF%86%E6%95%B0%E5%8D%83%E7%9F%BF%E5%B7%A5%E9%9B%86%E4%BD%93%E7%BD%A2%E5%B7%A5/" target="cdt-mirror">自由亚洲 | 新疆哈密数千矿工集体罢工</a>
 </h2>
@@ -668,79 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%9B%AA%E8%AE%BF-%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84%E6%97%A0%E5%90%8D%E8%80%85/" target="cdt-mirror">雪访 | 被屏蔽的无名者</a>
-</h2>
-<p><blockquote><p>“自觉与重建————从延安木刻到无名者的实践”，是西安美术馆今年展览的一场重头戏。10月25日下午开幕，来了不少当代艺术圈的大咖。做“新宣传画”的李公明，以及拍摄《淹没》、《乡村档案》的李一凡，还有山西许村艺术计划的发起人渠岩等艺术家，都带着他们的作品来参展。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%9B%AA%E8%AE%BF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%9B%AA%E8%AE%BF.jpg" alt="雪访" width="550" height="364"></a></p>
-</blockquote>
-<p><strong>一、让无名者被看见</strong></p>
-<p>26日下午，赵小平和另外两个出租车司机来看展。进了1300多平米的展厅，一时间丈二和尚摸不着头脑，刘伟伟理所当然地做起了“导览”。</p>
-<p>赵小平最关心的当然是“众泰”。他是一个老出租车司机，也是西安维权出租车司机自己组建的公司——“众泰”的负责人。今年7月，艺术家刘伟伟给他们拍了个纪录片，就叫《众泰》，还在西安美术馆放映了，当时有近300名出租车司机来观看。</p>
-<p>众泰司机的维权故事，在西安一直被屏蔽着，本地媒体上基本看不到他们的消息。这场出租车司机“占领美术馆”的行动，多少以迂回的方式，唤起了公众对西安“众泰”维权的注意。前不久，《人民日报》中央人民广播电台等官方媒体甚至还发了相关的报道和评论。</p>
-<p>但在刘伟伟看来，“众泰”至今依然是不折不扣的“无名者”。司机们经过一年来的艰辛努力，提交了1000多份信息公开申请，终于拿到了营业执照，本来有望“翻身做主”，摆脱高额的“份子钱”盘剥，也帮政府探出一条出租车管理的新路子来。但至今政府不允许他们上路。新买的70多辆车，停放在三桥一个废弃的厂区里，偶尔被司机开到路上转悠，但不能“拉客”，又闷声回来。</p>
-<p>“这正是一个无名者的状态。”刘伟伟说。所以，在一开始受邀参加“无名者”展览后，他决定做一个“东西”，即把众泰公司在西安郊区租来的一个办公室，全部搬到美术馆来，让赵小平等人在现场办公，以此来展示一个“被无名”的处境，反映底层生活的真实。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%98%E4%BC%9F%E4%BC%9F.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%98%E4%BC%9F%E4%BC%9F.jpg" alt="艺术家刘伟伟和他未能拆封的作品" width="550" height="412"></a><p>艺术家刘伟伟和他未能拆封的作品</p></div>
-<p>是的，在“延安木刻”这样一个引子下，这一切看起来都顺理成章。就如策展人、西安美术馆副馆长满宇所说，鲁迅当年的新木刻运动，也是“底层人被看到”的运动。后来的延安木刻，作为一种红色艺术样式，虽是宣教与灌输，但多以工农兵生活为主题，是在整个国家遭遇现代性的背景下， 对那个时代“无名者”的一次重新命名。</p>
-<p>时隔七八十年，今日的无名者，如何身处真实的生活？以关注真实世界为己任的当代艺术又该如何关注他们？带着很多问题，满宇策划了这场展览。</p>
-<p>但是，慢着，这次，艺术家将要与真实的“被无名”遭遇了。</p>
-<p><strong>二、无法拆封的众泰</strong></p>
-<p>进了展厅的大门，赵小平先看到了一面墙，涂成两块深灰色，下面分别写着“14，15”，以及“24，25”，表示是四个页码，但上面什么都没有。他没有在意，直到走完整个展厅，没有见到“众泰”两个字的任何标志，他才若有所思，大概明白了这面墙和刘伟伟让“众泰”来参展的用意。</p>
-<p>在这个展厅里，“众泰”其实一直是在的，不过观众们看不到。人们从展厅的一角走过，可以看到一个被用木条隔开、犹如禁闭室一样的半开放空间，地面上摆放着一大堆尚未拆封的包装箱。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%BC%97%E6%B3%B0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%BC%97%E6%B3%B0.jpg" alt="犹如禁闭室一样的半开放空间，尚未拆封的包装箱，“众泰”就被包裹在其中。墙上两个空白页，本是刘伟伟作品介绍，也被删掉了。" width="550" height="411"></a><p>犹如禁闭室一样的半开放空间，尚未拆封的包装箱，“众泰”就被包裹在其中。墙上两个空白页，本是刘伟伟作品介绍，也被删掉了。</p></div>
-<p>这是24件形状各异的纸箱，“众泰”就被包裹在其中。横的，竖的，大的，小的。看得出模样的，是一张旧的黑皮沙发。还有两张木桌。圆筒状的，是一个液化气管，来自“众泰”简陋的厨房。<br>
-唯一没有包裹起来的，是一张简易黑板。那是众泰司机学习维权的法律知识时用的。这就是众泰办公室的全部用品。</p>
-<p>但这些包装箱已没有机会打开。在展览开始之前，美术馆接到“上面”的要求，不能让“众泰”在美术馆参加展览。</p>
-<p>“也算是将计就计。现在展览的，其实就是一个审查的结果。”刘伟伟说。他并不觉得遗憾。反而觉得这一切恰好和“众泰”在社会上的遭遇，以及他本人作为艺术家，在这样一个艺术现场的遭遇完全吻合。“这就是一个未被拆封的现实。”</p>
-<p>门口那面灰色的墙，谜底也揭开了。那四页空白，原本是展览的文字介绍页码。其中两页是关于刘伟伟的众泰，不过在印出来之前，被删掉了。</p>
-<p><strong>三、一个无名者的现场</strong></p>
-<p>赵小平看完展览，懂了。说：“给我支笔”。刘伟伟给他找来了支签字笔。他在一张白纸上写下“众泰”两个字，拿在胸前，让自己和身后的“众泰”合影。</p>
-<p>但他还是有些不甘心。“整个展厅里都没有我们的名字”。他突然拿起笔，在一件包装箱上，写下大大的五个字“众泰的困境”。“应该是听我谈到的。”刘伟伟笑起来。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%98%E4%BC%9F%E4%BC%9F2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%98%E4%BC%9F%E4%BC%9F2.jpg" alt="一组用塑料布、旧沙发、木板等搭建的“游击建筑”，也被称为“流浪汉房屋”，这是艺术家马永峰等人发起的替代性建筑实验的一部分。" width="550" height="366"></a><p>一组用塑料布、旧沙发、木板等搭建的“游击建筑”，也被称为“流浪汉房屋”，这是艺术家马永峰等人发起的替代性建筑实验的一部分。</p></div>
-<p>很快，纸箱上的这几个字就被用胶带粘掉了。能让这些未被拆封的箱子出现在这里，美术馆已经承担了相当的风险，为了让展览顺利进行，不能再出岔子了。</p>
-<p>整个展厅的布置，负责空间设计的王家浩颇用了心思。他认为现场展示的其实是艺术家的在地实验，所以要让作品不那么像“作品”。整个展厅之间没有太明显的区隔，用木条和LED电子屏细条区隔出的空间，有一种日常的气氛。</p>
-<p>入口处，第一件作品是“东湖计划”。2010年6月，武汉东湖面临大规模的商业开放，武汉市民发起了保护东湖的行动，建筑师李巨川和艺术家李郁发起了“每个人的东湖”艺术计划。此次在展厅里，观众可以随意拿取活动的明信片，也可以打开现场的三台电脑，登陆“每个人的东湖”网页，来看发生了什么。</p>
-<p>展厅里，还有一组用塑料布、旧沙发、木板等搭建的“游击建筑”，也被称为“流浪汉房屋”，这是艺术家马永峰等人发起的替代性建筑实验的一部分。</p>
-<p>另外一件作品，与植物社会学相关。艺术家徐坦在西安郊区，和农民一起合作，栽种植物，纪录植被与社会土壤的关联。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%9D%8E%E5%85%AC%E6%98%8E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%9D%8E%E5%85%AC%E6%98%8E.jpg" alt="年过60的李公明利落地爬上脚手架" width="550" height="413"></a><p>年过60的李公明利落地爬上脚手架</p></div>
-<div><img src="http://mmbiz.qpic.cn/mmbiz/3FNxSgAPUeCIXibDR9I3PrMT0SxSVIm1HXIUccBBh76vVfWTVrORDAib2MYj9HnHpSksd9XSWboaMKe95EbSNy6g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="551" height="419"><p>新宣传画占了满满一面墙</p></div>
-<p>徐坦旁边，一面巨大的墙上，是李公明的“新宣传画”，整整一面墙，基本都是关注公平正义、公民权利的内容，夺人眼球。李公明人高马大，穿件格子衬衫，虽然已经60岁了，仍然麻利地爬上脚手架，和一幅还没有完成的“保护农民工权利”的巨幅宣传画合影。</p>
-<p>2012年春节前，在广州的李公明，看到一则西安的农民工讨要工资的报道，心念一动，与团队连夜赶制了一批明信片，关于保护农民权益的，去火车站、小企业等地发放。这也是他做“新宣传画”的一个延伸。</p>
-<p>用宣传灌输的画面语言，来表达对公平正义以及公民权利的诉求，这样的形式，也有人质疑过。不过李公明认为，主要是看宣传什么，虽然形式可能突兀，但理念传播的效果却是最直接的。</p>
-<p>事实是，“的哥”赵小平来看展的收获之一，就是发觉这些宣传画很有冲击力，他打算回去后，在网上发众泰的信息时，要使用其中一些。“还是图片给人印象深。”</p>
-<p><strong>四、走饭， 被屏蔽的无名者</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/relax%E5%90%8C%E5%AD%A6%E7%A4%BE.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/relax%E5%90%8C%E5%AD%A6%E7%A4%BE.jpg" alt="在展厅的角落里，摆放着五张小圆桌，再仔细点，能看到桌面上Relax同学社的彩虹标志。 " width="550" height="363"></a><p>在展厅的角落里，摆放着五张小圆桌，再仔细点，能看到桌面上Relax同学社的彩虹标志。</p></div>
-<p>在展厅的角落里，摆放着五张小圆桌，如果观众粗心一点，会以为仅仅是休息区。但如果稍加留意，坐下来，拿起桌上的耳机，就能听到5个女同性恋者在讲述自己的故事。再仔细点，能看到桌面上Relax同学社的彩虹标志。</p>
-<p>32岁的隐彦，在10年前就“出柜”，公开了自己的同性恋者身份。2009年，她发起了关注女同性恋者权益的草根公益小组“Relax同学社”。</p>
-<p>2011—2012年，Relax同学社对西安周边地区的15位女同性恋者做了口述史，记录她们的生命故事。这次参加展览的5个故事也在其中。5个讲述者，有“形婚者”，有单亲妈妈，也有同志运动者。</p>
-<p>开幕这天，一名叫赖鑫的年轻观众，走遍了展厅的五个角落，认真地听完了所有故事。他20来岁，在附近一家饭店做厨师。 展览第二天，他又拉朋友来看了一遍。他很喜欢隐彦的这个项目，但他不知道，在展览之前，这个项目也差一点被撤掉。</p>
-<p>现场还有一位完全被屏蔽了的女性。展厅门口另一面灰色的墙，是原本属于她的页码。她叫走饭，一位90后女生。2012年3月18日，走饭因抑郁症自杀，她的最后一条微博是“我有抑郁症，所以就去死一死，没什么重要的原因，大家不必在意我的离开。”从那天起至今，无数网友到她的微博下留言悼念。</p>
-<p>长期关注精神分析领域的满宇，一开始就计划让走饭参加展览。“她的状况是另外一种无名，是个人对自身认识导致的无名，反映的是个体在这个世间最暗处的困境。”满宇说。他一直在关注着走饭的微博，注意到她的最后一条微博， 已被转发8万多次，有40多万条留言。今天的世界，有那么多的抑郁症患者，他们处在怎样的无名状态？满宇曾一度希望这个展览是对走饭这样一个无名者的纪念。</p>
-<p>然而，或许是这个“作品”被认为太“灰色”了，一开始就没有被通过。走饭，最终成了这个无名现场的真正无名者。</p>
-<p><strong>五、让无名者获得尊重</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%A5%BF%E5%AE%89%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%89%AF%E9%A6%86%E9%95%BF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%A5%BF%E5%AE%89%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%89%AF%E9%A6%86%E9%95%BF.jpg" alt="西安美术馆年轻的副馆长满宇，是这次展览的策展人。" width="550" height="365"></a><p>西安美术馆年轻的副馆长满宇，是这次展览的策展人。</p></div>
-<p>“无名者：一是在社会的秩序中被遮蔽的人，或在秩序中无法被命名的人；二是个人的偶然性在与秩序的遭遇中，被压抑而无法言说之症状……” 在展览的前言里，满宇这样写道。</p>
-<p>25日下午，展览开幕后，一个名为“有机知识分子与社会公共性问题”的座谈会同时进行，参加者有李一凡、渠岩、李消非等数十位参展的艺术家。讨论中，现场那些“看不见的作品”让艺术家们欲言又止。</p>
-<p>展厅内，延安木刻的文献资料，如“延安文艺座谈会纪要”、“实践论”等内容，不断从LED电子屏上闪过。红字映照，营造出某种历史的氛围。</p>
-<p>展厅门口，激昂的音乐声中，电视屏幕上播放着300多张当年的延安木刻作品。黑白画面上，是40年代的中国“理想”图景，有解放区生活，有对国民党监狱的控诉，有对言论自由的呼唤，也有对“宪政”和“自由平等生活”的渴望。</p>
-<p>“延安木刻”与一个无名者的现场，看似吊诡的话语，在现实语境里，却又如此顺理成章。“重新审视‘解放话语’，如何倒转为奴役的美学。”展览前言里的这句话，很重，包裹在语言的模糊中，有深刻的沉思在内。</p>
-<p>更重要的当然是现场。而其实，无所不在的“无名”，使得展览现场成为一个真正的无名者场域，“ 且正在进行之中。”</p>
-<p>此时的展厅，如一个巨大的隐喻。外观自由，却其实处处是限制。试举一例，“每个人的东湖”计划，艺术家们建立了一个网站，供人们浏览，但因为网站已被屏蔽，需翻墙才能打开，美术馆为此不得不支付几十块钱的翻墙费用，以帮观众在电脑上打开网页。</p>
-<p>“曾经有记者问我，说当代艺术是大众消费不起的‘海鲜’。其实，在这个现场你能看到，真正的当代艺术就是和大众在一起的。”满宇说。到西安美术馆任副馆长这一年来，他始终在考虑，如何推动西安这座古老城市的当代艺术氛围。</p>
-<p>10月27日，展览第三天。刘伟伟正在考虑继续自己的项目。趁办公家具都搬来美术馆的空档，他要帮“众泰”刷新一下办公室。“这是一个平等合作的关系。我不能只是将他们拉来展览一下就结束了。”刘伟伟说。</p>
-<p>在一个“无名”无所不在的背景下，展览的现场，多件作品都没有文字标签，这会不会影响观众的理解？满宇表示并不担心。</p>
-<p>“其实无名者就是这样。他在，但我们看不见。我们也不遮掩。就无名者来说，这个展览的意义也在这里。”满宇说。</p>
-<p>“无名者其实是一个日常化的遭遇，被屏蔽的状态。你能看到，即使我们做一个这么简单的事，只是让众泰或其他人通过一个正常的途径去说话，却如此艰辛，只因为这涉及到个体的反抗。”刘伟伟说。</p>
-<p>刘伟伟认为，展览不是让无名者走向“有名”，而只是让无名者自身能够被承认，被尊重而已。</p>
-<p>“美术馆是官方的美术机构，有一定的审查，大家都知道。但是否就此止步了？我的态度是不一定激进，而要尽可能发声。其实艺术的柔软就在这里。你说他是A时，他可以成为B。你说是B时，他可以成为C。但它本质上还是那个东西。”刘伟伟说。</p>
-<p>说完这些，刘伟伟去了广州。对这位年轻的艺术家来说，那里有另一个现场等着他，珠三角数十位工友争取自己权益的故事，将是他关注的另一个无名者现场。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%9B%AA%E8%AE%BF-%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84%E6%97%A0%E5%90%8D%E8%80%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%97%E6%B3%B0/?category=18271" rel="tag">众泰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BC%9F%E4%BC%9F/?category=18271" rel="tag">刘伟伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E5%90%8D%E8%80%85/?category=18271" rel="tag">无名者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E6%9C%AF/?category=18271" rel="tag">艺术</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -752,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%97%E6%B3%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -762,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%97%E6%B3%B0
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

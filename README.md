@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%B7%AF%E9%80%8F-%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8A%93%E5%BC%95%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94-%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E5%AE%9E%E9%99%85%E6%8E%A7%E5%88%B6%E4%BA%BA%E5%A4%B1/" target="cdt-mirror">路透 | 徐翔被抓引连锁反应 宁波中百实际控制人失联</a>
@@ -76,7 +76,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%88%AA%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">C919民航飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%9C%BA/?category=18271" rel="tag">国产大型客机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">大飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%93%81/?category=18271" rel="tag">高铁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-c919%E6%B0%91%E8%88%AA%E5%AE%A2%E6%9C%BA%E4%B8%BB%E8%A6%81%E6%9C%BA%E4%BB%B6%E7%96%91%E4%B8%BA%E5%A4%96%E5%9B%BD%E4%BA%A7%E5%93%81/" target="cdt-mirror">法广 | C919民航客机主要机件疑为外国产品</a>
 </h2>
@@ -701,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

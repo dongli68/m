@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C-%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/" target="cdt-mirror">BBC| 习马会即将举行 台湾朝野反应不一</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104053916_taiwanese_protesters_976x549_epa_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104053916_taiwanese_protesters_976x549_epa_nocredit.jpg" alt="主要反对党民进党发言人郑运鹏发表5点声明表示，两岸议题攸关国家利益，应超越政党考量，不应选举操作。" width="660" height="371"></a><p>主要反对党民进党发言人郑运鹏发表5点声明表示，两岸议题攸关国家利益，应超越政党考量，不应选举操作。</p></div>
+<p><strong>台湾总统府周二（11月3日）晚突然宣布，台湾总统马英九周六（7日）将在新加坡与中国国家主席习近平会面，在台湾引起朝野各方不同反应。</strong></p>
+<p>将代表主要反对党民进党参选明年一月总统选举的该党主席蔡英文质疑，国民党选在此时举行“马习会”是否意图影响选举。她还说，国民党每次到了大选前夕，都将两岸议题当成政治操作，不会获得台湾人民的认同。</p>
+<p>民进党发言人郑运鹏此前也发表5点声明表示，两岸议题攸关国家利益，应超越政党考量，不应选举操作。他还质疑马英九临出发前突袭告知民众的做法，指马英九在竞选连任是曾承诺4年内决不与中方领导人会面，现在却有仓促黑箱安排会面，并要求马英九必须向台湾民众交代清楚。</p>
+<p>而身兼国民党主席的国民党总统参选人朱立伦则表示，“总统事前有跟我们谈到过程”。他说，这对于两岸关系是非常重要的里程碑，在九二共识基础之上，两岸关系能进一步发展，更进一步奠定两岸互信机制，降低过去敌对状况，他还呼吁绿营不要逢中必反。</p>
+<p><strong>各方反应</strong></p>
+<p>至于另一位总统参选人、亲民党主席宋楚瑜则表示，亲民党一贯立场是“对等、尊严、透明、参与、监督”，不反对两岸领导人于第三地会面，但他同时说，政府应向国会、朝野政党及全国民众清楚说明会面沟通协调完整过程及预期达到目标。</p>
+<p>宋楚瑜还说，希望马英九习近平藉见面机会共同向台湾人民及中国大陆百姓道歉，共同承担两岸祖辈造成的历史创痛，化解台湾人民被日本奴役牺牲及两岸对立亲人分离流离失所的悲痛。</p>
+<p>台湾行政院长毛治国及总统府秘书长曾永权周三（4日）上午至立法院与院长王金平就此进行关门会议，而一向支持台独的台联党立委当面向毛治国抗议，他们说马英九行为“偷偷摸摸”。</p>
+<p>王金平则表示，他事先并没有被告知有关“马习会”的消息，直到周二近午夜时接到记者电话查询时才知道此事。不过，王金平在与毛治国及曾永权举行会议后也发表声明表示，国会支持两岸和平及区域稳定对话，但同时呼吁两岸领导人会面须秉持对等尊严。</p>
+<p>曾永权在与王金平举行会议后重申，马习将就＂巩固两岸和平，维持台海现状＂交换意见，会面后不会签订任何协议，不会发表联合声明，马在当天往返，详细情形马英九本人将在周四上午举行记者会说明。</p>
+<p>曾永权还表示，马英九从新加坡回台后若立法院邀请，将到立法院就“马习会”的情况进行报告。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104050518_legislative_yuan_in_taipei_976x976_reuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104050518_legislative_yuan_in_taipei_976x976_reuters_nocredit.jpg" alt="立法院外聚集着示威抗议者。这些示威者包括许多抗议马英九与中国签定“黑箱”服贸协议的“太阳花运动”成员。" width="550" height="550"></a><p>立法院外聚集着示威抗议者。这些示威者包括许多抗议马英九与中国签定“黑箱”服贸协议的“太阳花运动”成员。</p></div>
+<p><strong>抗议人群</strong></p>
+<p>在曾与王在立法院内进行关门会议的同时，立法院外聚集着示威抗议者。这些示威者包括许多抗议马英九与中国签定“黑箱”服贸协议的“太阳花运动”成员。</p>
+<p>在“太阳花运动”时曾占领立法院的黑色岛国青年阵线说，他们再度于立法院外集结是要“以行动控诉这个全身上下皆是谎言的总统”。</p>
+<p>他们指的谎言，是马英九在四年前竞选连任时曾说他若获连任在四年总统任内“絶对不会跟大陆领导人见面”，黑岛青在其网页上也贴上了马当时的这段说话录像。</p>
+<p>虽然总统府称习马会是要“巩固两岸和平，维持台海现状”，但示威者质疑马英九作为一个已失去民意支持且即将卸任总统，刻意安排与习见面的真正目的。</p>
+<p>这些在总统府、行政院、立法院前的示威者举出的标语包括了“马英九，台湾不是你的筹码”、“中台关系不是马说了算”、“流亡政府自取灭亡”等等。</p>
+<p>示威者包括了许多即将参与明年立法院改选的政党，其中像是自由台湾党及时代力量等的新兴政党的一些成员，都曾是太阳花运动的参与者。</p>
+<p>这些示威者则不包括来自民进党的成员，民进党总统参选人蔡英文目前在总统选举的民调中大幅领先，她已表示，其两岸政策是要“维持现状”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C-%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">两岸问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86%E7%AB%8B%E6%B3%95%E9%99%A2/?category=18271" rel="tag">占领立法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9%E5%85%9A/?category=18271" rel="tag">反对党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">国家利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%90-%E6%98%A5%E6%99%9A%E5%B0%86%E7%AA%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E4%B8%8D%E7%94%A8%E4%BD%8E%E4%BF%97%E8%8A%82%E7%9B%AE%E6%B1%A1%E7%82%B9%E6%BC%94/" target="cdt-mirror">新浪娱乐 | 春晚将突出中国梦 不用低俗节目污点演员</a>
 </h2>
 <p><p>新浪娱乐讯 日前，中央电视台召开了2016年春晚语言类节目总体布局会，针对猴年春晚做出规划。据悉，央视台长聂辰席在会上指出，首要的应是突出主题主线和思想内涵，从头至尾贯彻中国梦、“四个全面”战略布局、中国力量、中国精神、中国道路、社会主义核心价值观等主题主线宣传应一以贯之。另外今年语言类节目依然坚持“三不用”原则，暨不用低俗媚俗节目，不用格调不高的节目，不用有污点和道德瑕疵的演员。</p>
@@ -653,29 +686,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%B7%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E4%B9%89%E6%98%AF%E9%A9%AC%E5%85%8B%E6%80%9D%E5%8A%A0%E5%AD%94%E5%A4%AB%E5%AD%90%EF%BC%8C%E4%BB%A5/" target="cdt-mirror">纵览中国 | “习近平主义”是马克思加孔子，毛泽东加普京？</a>
-</h2>
-<p><p>作者：余杰<br>
- <br>
-江泽民的“三个代表”、胡锦涛的“科学发展观”，虽然写入中共党章（这两个人算是有了某种“历史定位”），却无法形成言之有理、头头是道的“主义”。习近平要超越江胡，就得打造出一套支撑其统治合法性的“习近平主义”。普世价值和西方文明都不是习近平愿意使用的建筑材料，剩下的水泥、石灰、沙子，就只有马克思和孔夫子、毛泽东和普京了。</p>
-<p>习近平一边翻马列主义的旧账，一边从中国儒法互补充的传统文化的“酱缸”中淘宝，甚至不惜一切代价让这两具僵尸起死回生。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%884.04.42.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Screen-Shot-2015-10-29-at-%E4%B8%8B%E5%8D%884.04.42.png" alt="Screen Shot 2015-10-29 at 下午4.04.42" width="397" height="307"></a></p>
-<p>首先是为马克思主义注入活力。北大在近代最早引入马克思主义，不妨让其继续承担此使命。中央向北大投入巨资，修建宏伟的马克思大楼，整理比“儒藏”更浩如烟海的“马藏”——汇集一百多年来全球研究马克思的著作和资料。二零一五年十月十日，自苏联崩溃之后，全球规模最大的“世界马克思主义大会”在北大举办，来自五大洲的四百多名学者与会，此后将两年举办一次。大会组委会主任、北大党委书记朱善璐表示，举办“世界马克思主义大会”，有利于“提升中国马克思主义研究的世界影响，占据马克思主义理论研究制高点”。</p>
-<p>与会的哈佛大学教授、中国当代史专家麦克法夸尔（马若德）在主题演讲中，对中国重振马克思主义雄风的企图表示强烈置疑。他认为，马克思主义在普通中国人中的影响已经式微，中国现行的“社会主义”早已脱离了马克思主义。他直言，马克思主义还不如中国儒家思想的影响力大，否则为何那么多人热衷称习近平为“习大大”——这是儒家“君父”思想的反映。他指出，习近平所说的中国复兴说“在智识上是一个不连贯、不广泛、缺乏力量的理念”，不足以与西方思想抗衡。但《环球时报》把他的话改成“中国梦将会对人类发展做出巨大贡献，发挥积极影响”。他在一封电子邮件中谴责说，这个引述“完全是捏造的”。之后，《环球时报》被迫删除了这句话。中共官媒的造假已经到了明目张胆的地步。</p>
-<p>其次是为孔夫子重塑金身。孔夫子重新被抬出来，孔子学院开遍全球，成为统战海外中国研究领域的重要工具。当局鼓励民间创办私塾，宣讲四书五经，各大学创办国学院，大学生在毕业典礼上穿戴不伦不类的“汉服”，甚至有女青年自告奋勇地在自己身上试验如何缠足。习近平在讲话中频频引用儒家经典，曾经将孔夫子鞭尸的中共政权摇身一变成了儒家文化的忠实继承者。</p>
-<p>第三是让毛主义复活。习近平在毛时代度过青少年时代，毛语言和毛思维对其世界观的形成影响巨大。在意识形态上，习是邓小平以来最左的中共领导人，也是对毛主义最热衷、最追捧的中共领导人。国防大学政委刘亚洲上将在《人民日报》撰文，称赞习“传承了中共革命先贤勇于抛头颅、洒热血、救中国的红色基因”。文革结束四十年了，这群高干子弟仍然信奉血统论，如彭丽媛的歌中所唱，他们惟一的信仰是“打江山、坐江山”。</p>
-<p>第四是到海外寻找榜様。习近平上位之后，环顾全球领袖，惟有敢说敢干的俄国总统普京让他心存敬意。普京在全球石油市场疲弱、俄国经济陷入困境的状态下，不顾西方的经济制裁，出兵克里米亚，乃至打着反恐旗号扶持叙利亚阿萨德政权、空袭叙利亚反对派，让迷信威权的俄国人视之为沙皇彼得大帝转世。习近平企图仿效普京，以煽情的民族主义宣传掩饰国内矛盾，甚至准备在南海或东海大干一场，说不定能一举推倒美国在亚洲的优势地位。从中俄两国关系史来看，中俄之间有深仇大恨，但习近平宁愿跟普京结盟，两者实力相加方可对抗美国、日本和欧洲。</p>
-<p>马克思、孔夫子、毛泽东和普京，成为“习近平主义”的四大支柱。组成习近平理论的四种材料倒是齐备了，习近平及其文胆却始终无法将它们捏合成一套高屋建瓴、吸引人心的理论体系。从“中国梦”到“四个全面”（“全面建成小康社会”、“全面深化改革”、“全面依法治国”、“全面严格治党”），官媒渲染为绚丽烟火，民间却视之为一地鸡毛。网上有一位无名才子用一副对联概括“习近平主义”，比所有御用文人挖空心思草拟的文稿都更加形象和精准：“江山是老子打的，谁叫你开口民主，闭口民主；龙位由本党坐定，且看我今天抓人，明天抓人。”若用学术化的语言描述，正如美国学者伊莎贝·希尔顿所论：“如今中国的党国体制是传统官僚、儒家社会规则、共产主义说辞和国家资本主义的古怪混合体。法律架构自毛泽东时代以来有所发展，但法规含糊，程序无常，而且全都受到政治上的控制。党把许多政府职能据为己有，使自己立于不败之地，而让政府机构沦为缺乏最终权力的傀儡。”</p>
-<p>习近平以为，踩在马克思、孔夫子、毛泽东、普京的肩上，就成了巨人，就能像林书豪那样娴熟灵巧地打篮球了。这是一种“打肿脸充胖子”的错觉。《南德意志报》评论说：“与毛泽东的意识形态清洗不同，如今的运动只有一个攻击的对象：西方及其价值被定义成敌人，同时中共却无法提出具有说服力的替代价值。中共唯一可以期待的是人们顺从的姿态。”习近平的刀把子发出闪闪寒光，其笔杆子却软弱无力。</p>
-<p>中共在意识形态上的匮乏无法靠将马克思、孔夫子、毛泽东、普京搅拌在一起就能解决。美国学者马旸（Damien Ma）、叶文斌（William Adams）在《匮乏》一书中指出，表面上看中国经济日新月异，实际上中国在土地、能源、粮食、劳动力、食品安全、教育、福利、房屋、意识形态、价值观和自由等领域的“匮乏”，让习的“中国梦”不可能实现。今天的中国政府必须包容被统治者巨大的新期待，而非对抗先进的技术。以猛烈的经济成长和不断膨胀的经济大饼，来换取被统治者的忠诚，这样的旧式“大交易”正在瓦解。越来越多的中国公民正期盼新的社会契约——将个体的尊严和自由放在首位。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E4%B9%89%E6%98%AF%E9%A9%AC%E5%85%8B%E6%80%9D%E5%8A%A0%E5%AD%94%E5%A4%AB%E5%AD%90%EF%BC%8C%E4%BB%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">中华复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0/?category=18271" rel="tag">余杰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90/?category=18271" rel="tag">孔子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E6%80%9D%E6%83%B3/?category=18271" rel="tag">孔子思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B4%BE/?category=18271" rel="tag">毛派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">编造“中国梦”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%9B%BD%E5%8C%96/?category=18271" rel="tag">马克思主义中国化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -687,7 +697,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -697,5 +707,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

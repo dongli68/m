@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,84 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%8E%A8%E8%BF%9B%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6%E6%96%B9%E6%A1%88%EF%BC%9A%E5%8A%A0%E5%BC%BA%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC-%E6%89%B6%E4%BC%98%E6%89%B6%E5%BC%BA%E6%89%B6/" target="cdt-mirror">推进世界一流大学方案：加强党的领导 扶优扶强扶特</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%80%E5%AE%9A%E8%B6%85%E8%BF%87%E8%8B%B1%E5%9B%BD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%80%E5%AE%9A%E8%B6%85%E8%BF%87%E8%8B%B1%E5%9B%BD.jpg" alt="一定超过英国" width="385" height="530"></a><br>
+（<a href="http://blog.sina.com.cn/s/blog_443d60340101834g.html">图片来源</a>）</p>
+<p>11月5日，国务院印发了《<a href="http://www.gov.cn/zhengce/content/2015-11/05/content_10269.htm">统筹推进世界一流大学和一流学科建设总体方案</a>》，称将从2016年开始进行新一轮建设，每五年一个周期，实现进入“世界一流行列”和进入“世界一流学科前列”的目标：</p>
+<blockquote><p>第一步到2020年，若干所大学和一批学科进入世界一流行列，若干学科进入世界一流学科前列；<br>
+第二步到2030年，更多的大学和学科进入世界一流行列，若干所大学进入世界一流前列，一批学科进入世界一流学科前列，高等教育整体实力显著提升；<br>
+第三步到本世纪中叶，一流大学和一流学科的数量和实力进入世界前列，基本建成高等教育强国。</p></blockquote>
+<p>以下内容摘自上述《方案》：</p>
+<blockquote><p><strong>一、总体要求</strong></p>
+<p><strong>（一）指导思想。</strong></p>
+<p>高举中国特色社会主义伟大旗帜，以邓小平理论、“三个代表”重要思想、科学发展观为指导，认真落实党的十八大和十八届二中、三中、四中全会精神，深入贯彻习近平总书记系列重要讲话精神，按照“四个全面”战略布局和党中央、国务院决策部署，坚持以中国特色、世界一流为核心，以立德树人为根本，以支撑创新驱动发展战略、服务经济社会发展为导向，<span><strong>加快建成一批世界一流大学和一流学科</strong></span>，提升我国高等教育综合实力和国际竞争力，为实现“两个一百年”奋斗目标和中华民族伟大复兴的中国梦提供有力支撑。</p>
+<p><span><strong>坚持中国特色、世界一流，就是要全面贯彻党的教育方针，坚持社会主义办学方向，加强党对高校的领导</strong></span>，扎根中国大地，遵循教育规律，创造性地传承中华民族优秀传统文化，积极探索中国特色的世界一流大学和一流学科建设之路，努力成为世界高等教育改革发展的参与者和推动者，<span><strong>培养中国特色社会主义事业建设者和接班人</strong></span>，更好地为社会主义现代化建设服务、为人民服务。</p>
+<p><strong>三、改革任务</strong></p>
+<p><strong>（九）加强和改进党对高校的领导。</strong></p>
+<p><span><strong>坚持和完善党委领导下的校长负责制，建立健全党委统一领导、党政分工合作、协调运行的工作机制</strong></span>，不断改革和完善高校体制机制。<span><strong>进一步加强和改进新形势下高校宣传思想工作，牢牢把握高校意识形态工作领导权</strong></span>，不断坚定广大师生中国特色社会主义道路自信、理论自信、制度自信。全面推进高校党的建设各项工作，着力<span><strong>扩大党组织的覆盖面</strong></span>，推进工作创新，有效发挥<span><strong>高校基层党组织战斗堡垒作用</strong></span>和党员先锋模范作用。完善体现高校特点、符合学校实际的惩治和预防腐败体系，严格执行党风廉政建设责任制，切实把党要管党、从严治党的要求落到实处。</p>
+<p><strong>（十五）强化绩效，动态支持。</strong></p>
+<p>创新财政支持方式，更加突出绩效导向，形成激励约束机制。<span><strong>资金分配更多考虑办学质量特别是学科水平、办学特色等因素，重点向办学水平高、特色鲜明的学校倾斜，</strong><strong>在公平竞争中体现扶优扶强扶特</strong></span>。完善管理方式，进一步增强高校财务自主权和统筹安排经费的能力，充分激发高校争创一流、办出特色的动力和活力。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1707683373/D2sMAbtPV">张鸣</a>：中国的一流大学怎么建？那么多条，看了半日，只看懂了一条；加强党的领导。</p>
+<p><a href="http://weibo.com/5140398799" target="_blank">追梦1227</a>：中国在努力建设给世界一流高校输送顶级精英的大学。<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"></p>
+<p><a href="http://weibo.com/2233073134" target="_blank">拱白菜的萌猪</a>：教室自从全部装了监控，除了学生考试不敢作弊以外，老师上课也不敢“乱”说话了<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p>MT码头：党校就是中国的一流大学。</p>
+<p>cj342752365：少点管制会有二流大学，没有管制就离一流大学不远了，加强管制那就都是中央党校</p>
+<p>北江狂如雪：《用毛泽东思想养猪》《共产主义思想照耀科学》。</p>
+<p>六合同风：加强裆的领导是不可能建成一流学校的。那只有在新闻联播里面。</p>
+<p><strong>小牛石头fozon：国家的意思，除了清华北大，其他都是渣！</strong></p>
+<p>宝鸡瓜娃：希望，能够从基层教育出发，建设一流的小学、一流的初高中！大学，像北大、清华已经是中国的一流了，还如何来建设！大雅之堂，有几个中国学子能登上呢？希望那里不是外国留学生的天堂！</p>
+<p>中江海军常：一流大学不是应该大学自己凭教学，科研吗？怎么又被安排计划呢？应该叫<strong>被一流</strong>。。。</p>
+<p>黑版报：呵呵，除了中国，哪个国籍名校有可以掣肘校长的书记？任命学生会的团委？</p>
+<p>一雨梦清寒：河南河北两个省，还没有南京北京两个市的高校数量多，985一个都没有，百年河大四分五裂，郑大不突出，河北大在天津，其他更是拿不出手。所以说，这是“王的盛宴”，屁民老老实实做屁民吧。</p>
+<p>未安牧晓：本人普通二本院校本科，现在在211院校读研，现在真心感觉普通院校的师资和基础设施真的很差，建设世界一流大学固然重要，但整体提高普通大学的水平也很重要。我认为让绝大多数人在普通高校接收优质教育要比一让小部分人在世界一流大学接收最优质教育的好处要多得多。</p>
+<p>YOUNG__AWESOME：群狼才能说强！好的教育资源不应该集中到某一个地方，看看河北河南山东山西这大块地方这么多人口却没有给一所上档次的大学，中国何以成为高等教育强国？</p>
+<p>Lyre_胖胖的小胖子：怎样建设呢，无非就是先确定几个苗子，然后再拨专款。呵呵，一向不都这种做法嘛</p>
+<p>春鱼唱晚：首先，与一些网友想法一样，应当考虑去学校当中的行政化，为什么校领导一定得是什么部，厅，处呢？其次，985，211究竟是在搞什么，学生之间看不起普通高校的，家长也有歧视，单位也戴有色眼镜。</p>
+<p>春鱼唱晚：再次，所谓一流大学，只是花更多的钱给那些所谓国内的名牌大学，进一步扭曲了公平，对，教育公平。最后，请领导们的孩子们在那些一流大学里多注意身体，学习进步，万事如意。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%8E%A8%E8%BF%9B%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6%E6%96%B9%E6%A1%88%EF%BC%9A%E5%8A%A0%E5%BC%BA%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC-%E6%89%B6%E4%BC%98%E6%89%B6%E5%BC%BA%E6%89%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">一流大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7/?category=18271" rel="tag">北大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">教育大跃进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E8%B5%84%E6%BA%90/?category=18271" rel="tag">教育资源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%9B%9D%E8%B4%BE%E7%81%B5%E6%95%8F%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%9B%9B%E5%B9%B4-%E5%88%98%E5%9C%B0%E4%BC%9F%E4%B8%80%E5%B9%B4%E5%8D%8A/" target="cdt-mirror">网曝贾灵敏一审被判四年 刘地伟一年半</a>
+</h2>
+<p><p>薛荣民律师今日在新浪微博称，因义务普法而被控“寻衅滋事”罪的贾灵敏、刘地伟一案，将在其家属接到通知的同一天下午开庭。</p>
+<p>记者陈宝成随后在微博公布一审结果，称贾灵敏被判四年，刘地伟被判一年半。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%B4%BE%E7%81%B5%E6%95%8F%E6%A1%88.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%B4%BE%E7%81%B5%E6%95%8F%E6%A1%88.png" alt="贾灵敏案" width="550" height="294"></a></p>
+<blockquote><p><a href="http://weibo.com/1042940955/D2qKDcP2X">@薛荣民律师</a>：@贾灵敏家属 来电，巩义法院今天（11月5日）上午通知贾灵敏家属今天下午三点半巩义法院开庭！估计要下判决了！</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%99%88%E5%AE%9D%E6%88%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%99%88%E5%AE%9D%E6%88%90.png" alt="陈宝成" width="550" height="400"></a></p>
+<blockquote><p><a href="http://weibo.com/1064936313/D2sdjfSBl">@記録者陳寳成</a>：贾灵敏老师被判四年。</p>
+<p><a href="http://weibo.com/n/%E8%A8%98%E9%8C%B2%E8%80%85%E9%99%B3%E5%AF%B3%E6%88%90?from=feed&loc=at" target="_blank">@記録者陳寳成</a>:刘地伟一年半。</p></blockquote>
+<p>2015年4月，曾为贾灵敏辩护的朱孝顶律师指该案起诉书多项内容“严重失实”，认为当地政府使用虚构的事件“将贾灵敏依法平和的普法行为构陷为‘寻衅滋事’”，并且“起诉书所指控的四起寻衅滋事都有一个共同特点，就是认定贾灵敏、刘地伟二人把案发时的照片上传到了网上，造成了所谓的不良影响”。</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E5%A4%A7%E6%A1%88%EF%BD%9C%E6%8B%86%E8%BF%81%E6%99%AE%E6%B3%95%E8%80%85%E8%B4%BE%E7%81%B5%E6%95%8F%EF%BC%8C%E4%BA%89%E8%AE%AE%E5%9B%9B%E5%AE%97%E7%BD%AA/">大案｜拆迁“普法者”贾灵敏，争议“四宗罪”</a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@王甫律师:一个普法者最终被弄法者判了。中国特色的社会主义建立着以法治国特色的法治国家。</p>
+<p>@天涯赵瑜：不知贾灵敏有什么罪，只知道她家的房子被强拆后，她曾无家可归。在中国，房子被强拆是不能反抗的，不然可以判刑四年。</p>
+<p>@律师王兴：刑诉法明确规定开庭（包括宣判）至少要提前三日通知，他们就能这么混不吝</p>
+<p>@土猫领地：她若是去普及婚姻法、交通法，估计不会出这样的问题吧。社会主义初级阶段，普法也要有时代特色，该普的普，不该普的不普。等到共产主义，我想，什么法都是可以普的。</p>
+<p>@孤独求败–南开翔宇：谁把罪名加在贾灵敏头上，谁才是罪犯！</p>
+<p>@华丽丽如偶：跟中国梦作对的下场。</p>
+<p>@长青24—守望：随便拆迁房子是合法的吗？</p>
+<p>@只要你过的比我好我就受不了了：所以台湾闹，香港噪。是有因的。其他我也不敢说我怕来我家超水表。</p>
+<p>@胡光明律师博客：培养那什么主义的掘墓人嘛不是？？？？</p>
+<p>@阿信__我要深海鳳梨凍星砂：咦怎么突然觉得自己学法律也没什么用了呢～对于这些打着…幌子的强盗一抗争还得自己进去</p>
+<p>@mgy1984：这就是盛世，就算全民小康又如何！更何况根本不现实！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%9B%9D%E8%B4%BE%E7%81%B5%E6%95%8F%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%9B%9B%E5%B9%B4-%E5%88%98%E5%9C%B0%E4%BC%9F%E4%B8%80%E5%B9%B4%E5%8D%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E7%81%B5%E6%95%8F/?category=18271" rel="tag">贾灵敏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E9%82%A3%E4%BA%9B%E5%BE%AE%E5%A6%99%E7%9A%84%E7%A4%BC%E4%BB%AA%E8%83%8C%E5%90%8E/" target="cdt-mirror">纽约时报 | “习马会”那些微妙的礼仪背后</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/05Protocol-web-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/05Protocol-web-articleLarge.jpg" alt="周三，台北活动人士抗议台湾总统马英九与中国国家主席习近平计划中的会面。" width="600" height="385"></a><p>周三，台北活动人士抗议台湾总统马英九与中国国家主席习近平计划中的会面。</p></div>
@@ -669,63 +744,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8D%E6%97%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E7%A7%9F%E7%95%8C-%E4%BD%95%E5%AE%B6%E5%BC%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%85%90%E8%B4%A5%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D/" target="cdt-mirror">法租界 | 何家弘：中国的腐败究竟有多严重</a>
-</h2>
-<p><blockquote><p>编者按：</p>
-<p>人们对腐败深恶痛绝，但中国的腐败犯罪究竟有多严重，好像总说不清楚。中国人民大学法学院何家弘教授提供了他的论证。原文较长，“法租界”做了删节。</p>
-<p>对腐败犯罪的状况可以从客观和主观两个方面进行评估，但二者都有不够准确之处。把两种评估方法结合起来，人们就可以对当下中国的腐败状况形成两点认知：</p>
-<p>第一，当下中国不是世界上最腐败的国家，但腐败问题也是相当严重的。</p>
-<p>第二，当下中国的腐败已不是个体性腐败，而是制度性腐败和社会性腐败。</p>
-<p>认清腐败犯罪的现状，可以为制定反腐败对策提供科学的依据。</p></blockquote>
-<p>文 | 何家弘（中国人民大学法学院教授）<br>
-本文经作者授权转载<br>
-原载《现代法学》2014年第6期，题《中国腐败犯罪的现状评估》<br>
-图 | CFP</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-03-at-%E4%B8%8A%E5%8D%8811.51.02.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-03-at-%E4%B8%8A%E5%8D%8811.51.02.png" alt="Screen Shot 2015-11-03 at 上午11.51.02" width="550" height="388"></a></p>
-<p>近年来，腐败与反腐败不仅成为中国民众关注的焦点，也引起了海外媒体和民众的关注。这一切似乎都表明中国的腐败问题是严重的。但是，我们应该如何认识或评估中国的腐败犯罪现状？人们大都只具有一种相当模糊的认知。借鉴犯罪学的原理和方法，我们可以从客观和主观两个方面对腐败犯罪状况进行评估，但我们首先要明确腐败犯罪的概念。</p>
-<section><section><section><section>1</section></section><section>腐败犯罪的界说</section></section><section></section></section><section><section><section><section><span>在英语中，与“腐败”相近的语词有三，即corruption、embezzlement和bribery。其中，bribery基本上等于汉语中的“贿赂”（罪）；embezzlement大体上等于汉语中的“贪污”（罪）；唯有corruption一词的含义不甚明确，其在汉语中的翻译也比较混乱。有人将其译成“腐败”；有人将其译成“贪污”；有人将其译成“贪腐”；还有人（香港学者）虽将其译成“贪污”，但实际含义却为“贿赂”。按照《布莱克法律辞典》的解释，corruption是一种违反本人职责和他人权利实施的给人某种好处的行为。或者说，是某个官员或受托人违反其职责和他人权利、非法且错误地利用其职位或角色来为自己或他人牟取利益的行为。由此可见，它既有汉语中“贿赂”一词的含义，也有汉语中“贪污”一词的含义，译成“腐败”是比较恰当的。</span></section><section><span> </span></section><section><span>外国学者对“腐败”概念的界说并不一致。美国学者的代表性观点认为，腐败就是为了获得与个人有关的（家庭、近亲属、派系）金钱或地位利益而偏离公共职责中正常职责范围的一种行为；或者是在执行某一职责时，由于受私人关系影响而违反法律规定的行为。然而，有些美国学者认为这个定义太狭窄，未能包括那些本应属于腐败行为的公务人员滥用职权的行为和工商业活动中的贪污受贿行为。</span></section><section><span> </span></section><section><span>毫无疑问，腐败是一种违反或偏离社会行为标准的行为，但问题是如何界定这一标准。美国学者给出了三种可以选择的答案。</span></section><section><span> </span></section><section><span>第一种是以法律规定为标准，即如果某种政府官员行为是法律所禁止的，那么它就是腐败行为；如果某种行为不是法律所禁止的，那么它就不是腐败行为。这一标准比较简单明确，但问题是法律上的规定并不一定总是正确的和完善的，而且不同政府制定的法律也可能是颇不相同的。</span></section><section><span> </span></section><section><span>第二种是以公共利益为标准。这就是说，如果某一政府官员行为是有损于公共利益的，那么即使该行为是合法的，也应该属于腐败行为；如果某一行为对公共利益有利，那么即使该行为是违法的，也不应算作腐败行为。然而，公共利益的概念是相当空泛和模糊的，而且不同的社会群体往往有不同的“公共利益”，因此人们在实践中很难按照这一标准给出所有人都能接受的答案。</span></section><section><span> </span></section><section><span>第三种是以公众看法为标准，即按照老百姓的观点去判断某种政府官员行为是否属于腐败行为。在此，人们应该注意所谓的“黑色”、“灰色”和“白色”三种腐败行为之间的差异。所谓“黑色腐败行为”，就是无论社会上层人物还是一般公众都认为其违法且应受处罚的行为。所谓“灰色腐败行为”，就是社会上层人物可能会希望这种行为受到禁止和处罚，但一般公众可能对此不以为然或持模棱两可的态度。所谓“白色腐败行为”，则是社会上层人物和一般公众都认为其可以宽恕或不必处罚的行为。<strong>然而，究竟什么是公众的看法？</strong>美国克尔根大学的约翰斯格教授指出公众看法实际上有很大的差异性。一方面是人们在不同的时间可能有不同的看法，或者说不同的关注热点。例如，在“水门事件”期间和之后，民意测验表明美国公众对政府官员的廉洁问题非常关注；但是在尼克松辞职数年之后，公众对这一问题的关注就明显下降了。另一方面是不同社会群体的看法亦有所不同。<strong>这里最棘手的问题是确定谁是“公众”。</strong>公众是指所有的人还是专指成年人，或者是专指已登记的选举人？他（她）只能是与特定政治领域和决策领域有直接利益关系的人吗？或者是只将那些接受了调查的人视为“公众”？总之有许多种“公众”，而且他们很少能就任何重要的问题形成一致的看法。</span></section><section><span> </span></section><section><span>在政治学或社会学的领域内探讨腐败问题，上述三种界定标准的选择可能具有现实意义。但是在法律领域内探讨腐败问题，特别是将其作为一种犯罪来界定时，标准只能有一个，那就是法律的规定。换言之，“腐败犯罪”是违反《刑法》规定的行为。不过，如是界说并没有解决问题，因为人们必须进一步回答《刑法》中规定的哪些犯罪属于腐败的范畴。</span></section><section><span> </span></section><section><strong><span>严格地说，腐败犯罪不是法律术语，只是社会上普遍认知的概念。</span></strong><span>在中文语境中，与腐败犯罪最接近的概念是“职务犯罪”。按照我国《刑法》的有关规定，职务犯罪是指国家机关、国有公司、企业事业单位、人民团体工作人员利用职权，贪污、贿赂、徇私舞弊、滥用职权、玩忽职守，侵犯公民人身权利、民主权利，依照刑法应当予以刑事处罚的行为。笔者认为，腐败犯罪与职务犯罪属于概念之间的交叉关系。一方面，职务犯罪的主体是国家工作人员，而腐败犯罪的主体则不限于此。另一方面，职务犯罪中的贪污罪和贿赂罪属于腐败犯罪的基本形式，但渎职类犯罪和侵权类犯罪则不宜纳入腐败犯罪的范畴。</span></section><section><span> </span></section><section><span>腐败犯罪的基本行为特征是直接或间接地利用手中掌控的公共权力去获取个人私利，而这里所说的“公共权力”既包括政府官员掌握的公权力，也包括私营经济组织的官员所掌控的公权力。公权力可以分为国家权力和社会权力两大类，而后者就包括了私营经济组织和非政府组织中支配集体价值资源的能力。商业贿赂就属于这种利用社会公权力进行的腐败行为。例如，我国《刑法》第163条就是关于“非国家工作人员受贿罪”的规定。</span></section><section><span> </span></section><section><span>综上，腐败犯罪是国家工作人员以及公司企业或其他单位的工作人员利用职务之便实施的贪污受贿行为。</span></section><section></section></section></section><section></section></section><section><section><section><section>2</section></section><section>腐败犯罪的客观评估法</section></section><section></section></section><section><section><section><section><span>所谓犯罪状况的客观评估法，就是通过发现和查办的犯罪案件数量来评估一个国家或地区的犯罪状况。人们可以根据一个国家或地区历年发生的犯罪案件数量或者法院的有罪判决数量来评估其犯罪状况的变化。</span></section><section><span> </span></section><section><span>采用这种客观评估法的关键在于能否获得准确的犯罪数据。根据最高人民检察院近几年的工作报告，<strong>中国每年查处的职务犯罪案件一般为三万多件四万多人</strong>。其中，县处级干部二千多人，司局级干部二百多人，省部级以上干部五六人。在过去三十年中，2009年和2013年是中国查办腐败高官最多的年份，2009年为17人，2013年为18人，而2014年1月至6月已经查办了16人。这些年，中国查处的腐败官员数量堪称“世界之最”。联合国犯罪与司法信息网曾经对27个贿赂犯罪多发国家进行调查，结果表明，<strong>中国起诉的贿赂犯罪数量高居榜首，远超其他国家</strong>。</span></section><section><span> </span></section><section><span>最高人民检察院检察长曹建明在2013年10月22日向全国人大常委会汇报反贪污贿赂工作时介绍，从2008年1月至2013年8月，全国检察机关共立案侦查贪污贿赂犯罪案件151350件，涉及198781人，其中县处级干部13368人，司局级干部1029人，省部级以上干部32人。与前五年相比，2008年至2012年查处的受贿官员的人数增长了19.5%。在这些立案侦查的案件中，群众举报48671件，占32.1%；检察机关自行发现53532件，占35.4%；纪检监察机关移送14354件，占9.5%；犯罪嫌疑人自首、其他司法机关移送和其他来源34793件，占23%。在此期间，全国检察机关以贪污贿赂罪名提起公诉的共计167514人，法院判决有罪的148931人，有罪判决率在审结案件中高达99.9%，一共挽回经济损失377亿元。</span></section><section><span> </span></section><section><span>以上数据能够说明中国是世界上最腐败的国家吗？或者，能够证明中国2008年至2012年的腐败犯罪比前5年更加严重吗？回答应该是否定的。首先，腐败犯罪往往具有较长的潜伏期，因此这些年查办的腐败案件未必是这些年发生的腐败案件。其次，腐败犯罪具有很强的隐蔽性，因此已经查办的腐败案件只是实际发生的腐败案件的一部分。<strong>换言之，腐败犯罪存在黑数，因此这些数据并不能真实全面地反映中国腐败犯罪的状况。</strong></span></section><section><span> </span></section><section><span>“犯罪黑数”是指已经发生但未被发现或未被追究的犯罪，是没有进入犯罪统计的犯罪数。各类刑事案件都存在犯罪黑数，但多少不同。某些种类犯罪的黑数较小，譬如杀人罪，因为此类案件发生之后没被发现或者无人报案的情况较少。某些种类犯罪的黑数较大，譬如诈骗罪，因为此类案件发生后往往有相当数量的被害人由于被骗数额不大或其他原因而放弃报案。</span></section><section><span> </span></section><section><span>腐败犯罪的黑数一定高于普通刑事犯罪的黑数。首先，腐败犯罪，一般都没有直接受害人，也没有犯罪过程或后果的目击证人，所以在行为发生之后往往无人报案。此类案件的知情人可能只有行贿人和受贿人，二者都已经从这笔“权钱交易”中获益，自然不会去报案。行贿人因为没有得到回报而去举报的情况确实有，但为数不多。其次，腐败犯罪的“报案成案率”较低，因为贿赂案件与杀人案件不同，后者只要有人报案并发现非正常死亡的尸体就可以立案，或者说确定有杀人案发生，因此报案成案率很高。但是前者必须在收集到相当充分的证据之后才可以立案，或者说确认“举报属实”才能立案，因此报案成案率较低。例如，根据中央纪委监察部在2014年1月10日召开的新闻发布会上公布的数据，全国各级纪检监察机关在2013年共接受信访举报1950374件（次），其中检举控告类1220191件（次），立案172532件。由此可见，纪检监察机关对接到的检举控告（包括但不限于贪污受贿行为）进行审查之后决定立案的数量只占检举控告数量的14%，换言之，此类案件的报案成案率仅为14%。这种“不破不立”（即未经破案便不能立案）的做法增加了腐败犯罪的黑数。再次，查办腐败案件的力度和能力也会影响腐败犯罪的黑数。在不同的国家和地区，在不同的时期，查办腐败案件的力度和能力往往有所不同，因此在查办腐败案件的数量与腐败犯罪的严重程度之间并没有同向升降的联系，但是查办腐败案件的力度和能力与腐败犯罪的黑数之间却有逆向升降的联系。</span></section><section><span> </span></section><section><span>在当下中国，腐败犯罪的查处面临“三难”，即发现难，查证难，处罚难。如上所述，腐败犯罪的方法、过程和结果都具有很强的隐蔽性，比杀人案等种类的刑事案件更难被人发现，因此有相当数量的腐败犯罪没有被发现的现象不足为奇。此外，腐败案件的查证主要依赖人证，物证较少，而且犯罪人多具有较高的智商和反侦查能力，所以查证也很难。再者，腐败官员多具有广泛的“人脉”或关系网，甚至形成利益共同体或保护伞，因此许多已经获得充分证据的案件也很难对犯罪行为人进行实质性的处罚。仅举一个小案为例：</span></section><section><span> </span></section><section>2004年，陕西省榆林市靖边县新城乡党委书记的高玉川因贪污农民扶贫款8万余元被当地农民举报，然而当地领导在其被举报之后反而调他去当县林业局局长。当地农民不服，继续到县林业局讨要扶贫款，并多次到县委、县政府和榆林市检察院反映问题。在此期间，一些林业局干部又举报高玉川动用上千万元植被恢复费大兴土木以及毁林为其亲属办沙场等问题。后来，榆林市检察院立案侦查，但是当地有关领导又为他办理了取保候审。他不仅继续担任县林业局局长、县人大代表，而且对检察机关的传唤置之不理，时间竟然长达近3年！2007年7月，在上级检察机关的督促下，靖边县检察院终于把高玉川起诉到法院。8月，高玉川被免职。9月，高玉川被一审法院判决有罪但“免予刑事处罚”。后经榆林市检察院抗诉，二审法院最终以贪污罪判处高玉川有期徒刑6年。后来经陕西省政法委调查组调查，榆林市领导对高玉川案件办理过程中公检法系统的15名相关责任人员做出了“责令纠错”的处理决定。然而，这个案件背后的“故事”给我们留下了思考的空间。</section><section><span> </span></section><section><span>根据腐败犯罪的发现难、查证难、处罚难，我们可以做出如下推断：在已经实施的腐败犯罪中大约有一半未被发现；在已经检举揭发或因偶然事件而被发现的腐败犯罪中大约有一半未能查证；在已经获得相关证据的腐败犯罪中大约有一半未能处罚。如果这三个推断比较靠谱，那么三个50%相乘的结果就是：受到处罚的贪官大概只占实在贪官的12.5%。<strong>换言之，腐败犯罪的黑数可能高达87.5%。</strong>当然，这只是一个主观推断，不能作为客观评估的依据。</span></section><section><span> </span></section><section><span>综上，通过某国家或地区查办腐败案件或贪官的数量来对腐败犯罪进行评估，具有较强的客观性和说服力，可以使人们较为真切地认知腐败犯罪的严重性。但是，查办腐败案件的多少，并不能准确反映腐败犯罪的严重程度或变化情况，因为每个国家或地区都在一定程度上存在腐败犯罪的黑数，而且这些黑数是很难准确计算的，否则也就不会称为“黑数”了。由于我们无法通过统计方法获得实际发生的腐败案件数量，只能依赖于被发现并查办的腐败案件数量，所以这种客观评估法用于一个国家或地区的纵向比较还可以，但用于与其他国家或地区的横向比较就不太可靠。这正是客观评估法的“客观性”缺陷。</span></section><section><span> </span></section></section></section><section></section></section><section><section><section><section>3</section></section><section>腐败犯罪状况的主观评估法</section></section><section></section></section><section><section><section><section><span>我们在对犯罪状况进行评估时，也可以把相关人员的主观感觉作为依据。例如通过问卷调查了解民众对犯罪严重程度的感觉，而这种感觉可以通过民众的“社会安全感”表现出来。运用主观评估法对一个国家或地区的腐败犯罪状况进行评估，可以生成相当精细的量化数据，便于纵向与横向的比较研究。在这一领域内，<strong>Transparency International（各位自己翻译啊）</strong>每年公布的全球“腐败感指数”（CPI）排行榜无疑是最具影响力的。</span></section><section><span> </span></section><section><span>Transparency International采用这种主观评估法的理由是：“腐败一般都是由故意隐蔽的非法活动构成的，只能通过丑闻、调查或起诉才被曝光。目前还没有依据过硬的实证数据来评估一个国家或地区的腐败水平的有效方法。诸如比较举报的行贿数以及与腐败直接关联的起诉数和判决数，也只是进行客观评估的尝试，不能作为衡量腐败水平的确实指标。其实，那些数据只能表明检察官、法官和传媒对腐败进行调查和曝光的效率。而获取那些位于可以评估公共管理领域之腐败的人对腐败的观感，才是比较各国腐败水平的最可靠方法。”</span></section><section><span> </span></section><section><span>Transparency International的腐败感指数是由其专家根据诸如世界银行和世界经济论坛等国际上重要或著名机构的相关调查报告中的数据综合评估后得出的。他们先要评估这些报告中的数据是否符合其评估的要求和标准，然后再综合评判各个报告中的相关数据，汇总得出某个国家或地区的腐败感指数得分，因此有人称之为“调查上的调查”（survey of surveys）。</span></section><section><span> </span></section><section><span>Transparency International的腐败感指数只对公共管理领域的腐败犯罪状况进行评估，其调查对象包括经济学家、商企管理人、风险分析和评估专家、民众代表等。</span></section><section><span> </span></section><section><span>Transparency International每年采用的数据来源并不完全相同。2013年，Transparency International的腐败感数据来源于12个机构的13项报告，包括：1.非洲开发银行的治理评级；2.贝塔斯曼基金会可持续治理指标；3.贝塔斯曼基金会转型指数；4.经济学家情报组的国家风险评级；5.自由之家的转型中国家；6.环球透视的国家风险评级；7.瑞士国际管理发展学院的世界竞争力年鉴；8.政治经济风险咨询公司的亚洲情报；9.政治风险国际服务公司的国家风险指南；10.Transparency International的行贿者调查；11.世界银行的国家政策与制度评估；12.世界经济论坛的执行意见调查；13.世界正义工程的法治指数。腐败感指数的各数据来源机构的调查具有人员、方法、内容和标准的独立性。</span></section><section><span> </span></section><section><span>Transparency International从1995年开始发布腐败感指数排行榜至2011年，一直采用10分制，分值高低与腐败感高低成反比。换言之，得分高者较为清廉，得分低者较为腐败。在10分表上，10.0-8.0之间为低度腐败；8.0-5.0之间为轻度腐败；5.0-2.5之间为中度腐败；2.5-0.0之间为高度腐败。2012年，为了使数据更加精准，Transparency International把腐败感指数改为百分制，过去的1分大致相当于现在的10分。</span></section><section><span> </span></section><section><span>这些年来，Transparency International的腐败感指数排行榜基本上保持了如下几条规律：第一，低度腐败者多为“小国寡民”；第二，轻度腐败者多为以西方民主政治为基石的国家；第三，中度腐败者多为社会的政治经济处于转型期的国家；第四，高度腐败者多为发生动乱乃至战乱的亚非国家。</span></section><section><span> </span></section><section><span>2013年12月3日，Transparency International发布了2013年的全球腐败感指数排行榜。在177个国家和地区中，丹麦和新西兰并列第一，得分91；中国香港地区排名第15位，得分75；中国排名第80位，得分40；索马里、朝****鲜和阿富汗并列倒数第一，仅得8分。</span></section><section><span> </span></section><section><span>在Transparency International于1995年第一次发布腐败感指数排行榜时，中国在41个国家和地区中排名倒数第二。尔后，中国的排名伴随着评估国家数量的增加而逐渐上升，基本保持在中等偏上的位置。在前三年的评估中，中国的得分从2.16升至2.88，然后便多年在3.1至3.6之间徘徊，直到2012年改变分制，得分才升至39，而2013年更升至40分的层级。据说，此次晋级的主要原因是环球透视和世界经济论坛的评分有所提高，而前者的评分从32分一跃至42分。这表明了上述调查对象对中国政府近年来反腐倡廉之努力的认同。</span></section><section><span> </span></section><section><span>Transparency International发布的腐败感指数排行榜在强化人们对腐败问题的重视和推进世界反腐败斗争上发挥了积极的作用。但是，腐败感指数毕竟是一种主观评估方法，是以调查对象对腐败的感觉为依据的。尽管随机取样、大量取样和多渠道取样等措施可以在一定程度上减少个体性误差对结果的影响，但是仍无法改变感觉具有差异性和不准确性，无法弥合主观认知和客观状况的差距的事实。</span></section><section><span> </span></section><section><span>有学者认为，Transparency International评估中国腐败状况时选择的调查对象基本都是外国人，“<strong>其他国家的调查对象是否真正了解中国？是否对中国做出了公正评价？</strong>他们对中国的主观感知和客观事实之间存在的差距有多大？这些问题都成为中国‘清廉指数’得分高低的影响因素，这显然是有失公允的。”其实，中国人对中国腐败的感受可能比外国人更加强烈。<strong>有的中国人就曾经表示对索马里获得倒数第一很不服气，认为那个“桂冠”本应是中国的。</strong>当然，这是时下在中国相当流行的“中国式幽默”，但是也反映出一个事实，即中国的不同人群对腐败的感受也会大相径庭。</span></section><section><span> </span></section><section><span>其实，国外学者在肯定Transparency International对世界反腐败所做出的贡献的同时，也从不同角度对这种主观评估方法进行了批判。例如，英国专门研究反腐败问题的学者安德森和黑伍德在《感知的政治性：Transparency International的腐败测量方法的运用和滥用》一文中就指出了腐败感指数的不足。第一，腐败感指数衡量的是人们对腐败的感知，而不是腐败本身。第二，这项调查的一些基本缺陷使人们无法确定调查对象是否真正理解“腐败”一词的含义，因为在调查中“腐败”和“贿赂”这两个语词时常交叉使用，而且往往具有相同的含义。第三，腐败感指数遭遇了“虚假准确”的难题，而且人们无法得知那些得分近似者之间在现实中的真实差异。换言之，仅仅几个小数点上的差异就可以使排名表上的位置相差很远，而人们很难确认这是现实世界中真实的差距。最后，各项问卷调查的回答往往直接或间接地受到西方商务界的假想和态度的影响，因为大多数调查对象都生活于这样的社会环境之中。虽然Transparency International号称自己是客观公正的，是不受任何政党控制的，但是其评估难免受到西方价值观念的影响。例如，朝****鲜自2012年成为评估对象以来，连续与索马里排名垫底。</span></section><section><span> </span></section><section><span>Transparency International的专家也并不否认其评估方法存在缺陷。例如，腐败感指数的设计者约哈恩•格拉夫•拉姆斯道夫（Johann Craf Lambsdorff）就承认，他们的指数所表明的一个国家不同年的变化情况只是人们对腐败水平的感知变化，不是腐败水平的实际变化。因此，Transparency International在腐败感指数之外还提供了一些评估数据和手段，如行贿指数、全球腐败气压表、全球腐败报告、国家诚信体制评估、大型公司反腐败透明度报告等。其中影响力最大的当属行贿指数。</span></section><section><span> </span></section><section><span>Transparency International于1999年首次发布行贿指数报告，尔后每3年发布一次。2011年，Transparency International向全球3000名企业主管发出问卷，依据他们的经验对世界上28个主要的出口经济体（传统或新兴的工业国家或地区）的跨国公司在海外从事经济活动过程中对当地政府官员行贿的情况进行评分。评分采取10分制，分值高者行贿少，分值低者行贿多。在2011年评估的28个国家和地区中，并列榜首的是荷兰和瑞士，得分为8.8；美国排在第10位，得分8.1；中国香港地区排在第15位，得分7.6；中国排名倒数第二，得分6.5；垫底的是俄罗斯，得分6.1。这一排名显示，来自荷兰和瑞士的跨国公司在其他国家投资或经营过程中向当地政府官员行贿的几率很低，<strong>而来自俄罗斯和中国的跨国公司的行贿几率则很高</strong>。</span></section><section><span> </span></section><section><span>行贿指数也是一种主观评估法。如果说腐败感指数反映的是公共管理部门对腐败的“需求”，那么行贿指数反映的就是公司企业对腐败的“供给”。Transparency International在成立之初主要关注的是政府官员的贪污受贿问题，后来则开始关注腐败的“供应商”问题。因此，行贿指数是对腐败感指数的重要补充。从这个意义上讲，Transparency International所提供的信息不仅反映了不同国家和地区的腐败状况，还揭示了滋生腐败的温床。<strong>有人曾建议中国自己进行腐败问题的评估，并评选中国最清廉城市。窃以为，在当下中国的社会环境中，这种评估很难保证其结果的客观和公正，而且有可能异化为滋生腐败的温床。</strong></span></section><section><span> </span></section><section><span>综上所述，客观评估法和主观评估法都可以在一定程度上反映一个国家或地区的腐败状况，但是也都存在一定的缺陷。前者无法反映那些尚未发现或未被查办的腐败犯罪的情况，特别是在那些腐败犯罪黑数较大的国家和地区。后者虽然是一种量化的评估，貌似客观精准，但问题是其评估的依据是调查对象的主观感觉，因此就无法避免主观认知的偏差。不过，把两种评估方法结合起来，人们还是可以对当下中国的腐败状况达至两点认知：<strong>第一，当下中国不是世界上最腐败的国家，但腐败问题也是相当严重的，位居中游，比上大有不足，比下确实有余。第二，当下中国的腐败已不是个体性腐败，而是制度性腐败和社会性腐败。对于制定反腐败对策来说，第二点认知更有意义。</strong></span></section><section><span> </span></section></section></section><section></section></section><section><section><section><section>4</section></section><section>打老虎、拍苍蝇、灭蟑螂</section></section><section></section></section><section><section><section><section><span>根据性质不同，我们可以把腐败犯罪分为个体性腐败、制度性腐败和社会性腐败。</span></section><section><span> </span></section><section><span>所谓个体性腐败，即主要因为个人的道德品质低劣导致的偶发性腐败。即使在清廉度极高的国家和地区，这种腐败也可能存在，譬如香港前政务司司长许仕仁涉嫌收受新鸿基地产贿赂的“世纪贪案”。</span></section><section><span> </span></section><section><span>所谓制度性腐败，即主要因为制度缺陷导致的多发性腐败。在这种制度下，不仅坏人恶人会腐败，品行不太坏的人也会腐败。美国俄克拉何马大学的柯普兰教授就曾经给出了制度性腐败的例证。20世纪80年代初期，官员收受“回扣”的现象在美国俄克拉何马州相当普遍，结果有数百名县级政府官员在代表政府与私人公司签订合同时收受了“回扣”并因此被送上法庭。90年代初期，美国国会议员开空头支票的做法也很普遍。一些议员在银行里没有足够的存款，但是却经常开出透支的支票，从中获利。银行之所以允许他们这样做，当时是看中他们的身份。由于法律没有明确规定这是腐败行为，所以很多议员效仿，竟然达到数十人之多。丑闻披露之后，很多选民都认为这是不可接受的腐败行为。</span></section><section><span> </span></section><section><span>所谓社会性腐败，即主要由于文化习俗和行为环境等社会因素造成的普遍性腐败。它与制度性腐败往往有常态联系，但它已不仅存在于政府官员的群体，而是蔓延到社会的各行各业之中，譬如工商企业、社会团体、文艺体育、教育卫生等领域。</span></section><section><span> </span></section><section><span>当下中国的腐败犯罪确实具有制度性和社会性的特点。这些年屡见不鲜的腐败串案和窝案都反映出相关制度存在漏洞，而中国银行广东开平支行的三任行长许超凡、余振东、许国俊“前腐后继”串案和安徽阜阳市中级人民法院的三任院长尚军、刘家义、张自民“前腐后继”串案，更让人看到了制度性腐败之严重。此外，乡村干部的腐败、民营企业的腐败、慈善团体的腐败、运动场上的腐败、文艺圈内的腐败、医疗机构的腐败、教育系统的腐败等，也让人感受到社会性腐败之广泛。于是就有人感叹，司法也腐败，如何反腐败；教育也腐败，何处觅清廉！</span></section><section><span> </span></section><section><span>如客观评估法所示，中国在过去三十年查办了许多贪官，包括逾百名省部级以上的高官，但是反腐败的整体成效不大，因为社会中还有很多甚至更多的贪官。<strong>因此，执政者必须对反腐败策略进行反思和调整。</strong>中共中央早在2002年就明确提出了“标本兼治、综合治理、惩防并举、注重预防”的反腐败基本方针，但是并未落到实处。中共十八大以来，新一届领导人脚踏实地，抓石留痕，反腐败斗争已初见成效，反腐败策略转移也初露端倪：战略重心从查处贪官转向预防腐败；治标之术从杀一儆百转向有贪必肃；治本之道从思想教育转向法律规制。</span></section><section><span> </span></section><section><span>如果说腐败的大官是“老虎”，腐败的小官是“苍蝇”，那么各类民营企事业组织中的行贿受贿者就像是“蟑螂”。中国查办腐败犯罪的重心应该逐渐从“打老虎”转向“拍苍蝇”再转向“灭蟑螂”。反腐败的进程也可以相应地划分为三个阶段：第一阶段以治标为主，一方面要集中力量打“老虎”，遏止腐败的泛滥势头；另一方面要整顿纪律，转变党风政风。中共十八大以来，以纪检监察机关为主力的严查腐败和整顿作风已经取得了令人瞩目的成效。第二阶段从治标转向治本，一方面严查的对象要从“老虎”转向“苍蝇”，特别是那些顶风作案继续腐败的贪官；另一方面要建立健全预防腐败的法律体系，包括保障法院和检察院独立公正地行使职权的制度和集中统一的职务犯罪侦查体制，以及官员财产公示等预防腐败的制度。第三阶段以治本为主，在推进政治体制改革和完善民主法治的同时，腐败犯罪的查办<strong>从纪检监察机关为主的“法外查办”转向检察机关为主的“法内查办”</strong>，而查办的重点也要从“苍蝇”延伸至“蟑螂”，以清除腐败的土壤，巩固廉政之根基。</span></section></section></section></section><hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E7%A7%9F%E7%95%8C-%E4%BD%95%E5%AE%B6%E5%BC%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%85%90%E8%B4%A5%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E8%85%90%E8%B4%A5/?category=18271" rel="tag">体制腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%AE%B6%E5%BC%98/?category=18271" rel="tag">何家弘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%96%B0%E5%8F%B2%E8%AE%B0%E3%80%91%E7%A7%81%E5%8B%9F%E5%A4%A7%E4%BD%AC%E5%BE%90%E7%BF%94%E5%88%97%E4%BC%A0/" target="cdt-mirror">【新史记】私募大佬徐翔列传</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/ZTZy-fxkhcfn42585981.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/ZTZy-fxkhcfn42585981.jpg" alt="ZTZy-fxkhcfn4258598" width="550" height="732"></a></p>
-<p>徐翔，甬人也，戊午年（1978）生，其家非富非宦，望之亦中人也。</p>
-<p>癸酉年（1993年），乃于父母索资三万，父母曰：“尔欲何为？”翔曰：“儿欲富贵”。父母曰：“三万可富贵乎？”翔曰：“此富贵之母耳。”乃与之。</p>
-<p>闾里惑之，问：“此子不学，可乎？”徐父曰：“吾之独子，不忍拂其意，任之。”</p>
-<p>翔入市，两年，少富矣。或曰：翔之为人，猛悍而多智，为无赖操盘，曰某股可为，则生死随之，起而不喜，落而不怨，以此多得。越国人目之曰：宁波敢死侯。</p>
-<p>其时弱冠也。</p>
-<p>己丑年（2009），建泽熙 ，盖翔素慕泽、康熙之事业，故名焉。越两岁，售信托五支，得利甚多，翻十五番，天下仰望。</p>
-<p>或问翔:“君能火中取富贵，不失，盘感如此，何故？”翔笑曰：“吾好学，且天顾我，无他。”</p>
-<p>其同僚叶展著书曰：徐君能富，努力也。吾见其朝暮未尝不在股市，股票者，徐君之命也。</p>
-<p>其常闭户，不好交游，虽调研亦不为，网上所见图，皆非真身，不出户牖能知天下市，异哉。</p>
-<p>辛卯年（2011）末，重啤跌停九日，天下大骇，人皆避走，泽熙承盘，重啤应声扬，明年初，重啤跌停再，泽熙再承盘，重啤再扬，若有神焉。</p>
-<p>人或问其术，翔曰：“重啤，非股票也，乃彩票 也，诸辈弃而走，若大奖在其末乎？吾入之，为大奖也。”众虽能晓，然不能效。</p>
-<p>敢死侯亦尝败绩。壬辰年(2012)11月，酒鬼酒五跌停，泽熙承盘，持300万股，数日，蚀6000万，敢死侯大囧，待跌停启口，乃疾走，收兵。</p>
-<p>若成，若败，皆无犹豫，此其久胜之道也。</p>
-<p>然，割肉场上，翔独肥，而天下瘦，岂能久乎？</p>
-<p>早岁，有人曰：敢死侯置鼠仓。</p>
-<p>癸巳年（2013），春，翔与安信军师话良久，其言上网，曰二月下机构出货，沪跌二分九七，小散痛恨，欲食其肉。是年，泽熙千万入东方锆业 ，明年，东方锆业有利好。市场哗然，曰敢死侯有幕后交。</p>
-<p>自甲午年起，数曰有司按泽熙矣，又皆为谬，翔白曰：“吾资百亿，岂图锆业千万资乎?”</p>
-<p>然天下疑之，凡其所入重组 ，皆飙升，如能回应，无幕后能如此乎？或私募巨持其股，曰重组，高送转 ，俟股高则出货而走，此常伎也。</p>
-<p>甲午年（2014）岁末，证监曰有股十八涉罪，宁波联合 在焉，翔持其股千五百五十四万。欲高送转而不得。</p>
-<p>乙未年公历11月1日，翔祖母百岁诞，设酒置宴，欲会高朋。</p>
-<p>午，封杭州湾，有司拘翔。其时衣白衣，甚不吉，发乱，颜复陋，观者不曰其罪，皆曰：呜呼，敢死侯颜值如斯而已。盖此天下，看脸之天下，虽罪囚亦如斯。</p>
-<p>翔尝曰：多慎少悲。然斯时，敢死侯徐生，慎乎？悲乎？</p>
-<p>敢死侯既拘，有人谓太史刘曰：股妖拘矣，太史可入市乎。</p>
-<p>太史刘闻而惊曰：割肉者，岂股妖乎？吾性鲁钝，不识股，若入市，即若海清河晏，太平无事，肉恐亦不可保也。吾为人无他长，自识鲁钝，以鲁钝自处，故无患。天下之悲，莫过性本鲁钝，然自谓聪明，以聪明自处，入虎狼之市，肉尽而不知，此真悲也。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%96%B0%E5%8F%B2%E8%AE%B0%E3%80%91%E7%A7%81%E5%8B%9F%E5%A4%A7%E4%BD%AC%E5%BE%90%E7%BF%94%E5%88%97%E4%BC%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%97%E4%BC%A0/?category=18271" rel="tag">列传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">徐翔被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8F%B2%E8%AE%B0/?category=18271" rel="tag">新史记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91/?category=18271" rel="tag">私募基金</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -737,7 +755,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%97%E4%BC%A0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -747,5 +765,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%97%E4%BC%A0
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

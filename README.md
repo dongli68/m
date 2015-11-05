@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/" target="cdt-mirror">唐映红：禁止成员说三道四能提高团队的凝聚力吗？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg" alt="640" width="500" height="375"></a></p>
+<p>Q&A151104</p>
+<p><strong>问：禁止成员说三道四能提高团队的凝聚力吗？</strong></p>
+<p>答：生活中，无论是企业组织，还是公益社团，当需要实现组织目标的过程中，都希望能组织团队能有<strong>足够的凝聚力</strong>。有些组织、社团会希望通过<strong>禁止成员对组织重要议题说三道四来提高团队凝聚力</strong>，那么他们的希望能够奏效吗？</p>
+<p>从心理学角度，涉及到诸如组织、社团这样的团队，影响它们绩效或者凝聚力的因素十分庞杂，且错综交织，很难因循少数维度或因素而厘清。所以，<strong>特定的措施能否对团队凝聚力具有积极的作用，不能简单地下断语YES or NO，必须置于具体情境中讨论。</strong></p>
+<p>换言之，<strong>禁止成员说三道四既可能提高团队的凝聚力，也可能削弱团队的凝聚力</strong>，要达成前者关键取决于两个因素：<strong>什么样的团队，在什么样的情境下</strong>。</p>
+<p>首先，<strong>通过限制批评，禁锢言论来提高凝聚力，就必须确保团队成员的高度相似性</strong>，成员之间相似性越高，成员之间就越能达成共识，那么排斥少数说三道四的意见确实能提高团队的凝聚力。例如，全是左撇子的团队，决定禁止用右手拿筷子，就很容易达成共识，禁止少数异议者确能提高凝聚力。</p>
+<p>对一个社会生态中的组织、社团团队，所涉及的议题往往复杂多维，<strong>单一或少数维度的相似性无法满足总是达成共识的边界条件</strong>，因此就需要团队成员的判断能力、思考能力要相对简单，甚至越简单越好。这样，他们就很容易被说服，而不大可能会依据逻辑和实证对漏洞百出的说辞提出质疑。这就意味着，<strong>团队成员普遍越愚蠢越保守，也越容易通过禁止说三道四来提高凝聚力。</strong></p>
+<p>尽管如此，由于社会生态中的一个组织、社团的团队<strong>无法通过简单的方式筛选具有高度相似性且愚蠢保守的成员</strong>，总难免混杂一些不那么愚蠢，也不那么保守的成员，他们对组织、社团话事人的决议难免心存疑虑并表达出来。因此，由具有高度相似性且愚蠢、保守成员组成的团队必须要<strong>形成特异性的机制来甄别并排斥这些与众不同的成员</strong>，例如，发动成员积极举报那些对话事人说三道四成员，并通过妖魔化的标签来使绝大多数单纯的成员远离他们。可以将这一小撮异议者及其言论贴上“别有用心”、“敌对势力指使”、“间谍”等标签。事实上，通过<strong>“抓坏人”的团队运动不仅能有效地将少数异议者排斥出团队，还能“锻炼”其他成员，增强他们对团队的依赖，从而提高团队的凝聚力。</strong></p>
+<p>既此，通过禁止成员说三道四来提高团队凝聚力的边界条件就主要包括至少三项：①<strong>成员的高度相似性</strong>，特别是意识形态上的一致性；②<strong>成员普遍愚蠢而保守</strong>；③<strong>形成对少数异议成员的甄别和排斥机制</strong>。其中①的满足需要形成广泛而有效的<strong>讯息管制</strong>，并通过卓有成效的<strong>意识形态灌输</strong>来促使成员在观念上形成一致。②的满足需要团队文化要形成<strong>反智的文化氛围</strong>，重用愚蠢而保守的骨干担任干部；③的满足需要<strong>持续的、周期性的不断的清洗运动</strong>来保持团队的纯洁和成员的警惕，并随时清除一小撮异议者。归纳起来就是：<strong>洗脑灌输、反智文化、清洗运动。</strong>任一项的缺乏或削弱，都将破坏甚至反转“通过禁止成员说三道四来提高团队凝聚力”的效果。</p>
+<p>即使通过“洗脑灌输、反智文化、清洗运动”而形成符合边界条件的团队，要真正达成“通过禁止成员说三道四提高团队凝聚力”也殊为不易，还必须仰赖在<strong>特定的情境</strong>下。其中包括但不限于下面要素的满足：</p>
+<p>1、<strong>团队必须要封闭，不能保持开放。</strong>通过封闭团队，既能有效避免“有害”讯息的传入，也能有效降低团队外部压力。一旦开放，不仅洗脑灌输的效果将大打折扣，成员的高度相似性，特别是意识形态的一致性势必被削弱；而且外部讯息将冲击团队费心营造的反智文化氛围，很容易造成成员被教育、启蒙，从而难以约束，并大大增加清洗运动的难度。</p>
+<p>2、<strong>要有足够的资源维持高昂的成本支出。</strong>通过“禁止成员说三道四来提高团队凝聚力”固然可行，但依靠这种凝聚力来达成目标或实现理想岌岌可危，必须耗费大量成本来维护秩序。成员再愚蠢保守，再整齐划一，也需要通过目标的实现来获得具体的利益，否则就难以维系。这就需要有耗费大量的成本来“收买”成员；或“豢养”秩序维护者，如护厂队，来吓阻动摇的成员。</p>
+<p>3、<strong>任务必须足够简单</strong>。将通过“禁止成员说三道四”来提高了团队凝聚力用来做什么这才是问题的关键。对于任何稍微复杂的任务都无法通过符合边界条件的团队来达成而不破坏或削弱边界条件来实现。只有简单的任务才足以达成而不破坏或削弱边界条件。例如，<strong>即使提出高瞻远瞩的宏大任务目标，像组织、社团的伟大崛起之类，但实际的任务其实只不过是维持组织、社团而不致迅速瓦解。</strong></p>
+<p>可以这么说，能同时满足“禁止成员说三道四能够提高团队凝聚力”的团队边界条件和情境边界条件，实际上是一条极其狭窄的范围，在一个开放的社会里，这样的狭窄范围几乎不可能维持这样的团队及其目标任务保持足够的时间。<strong>更可能的情况是“禁止成员说三道四”所提高的不过是虚假的“凝聚力”，也就是管理心理学里所说的“权益从众”，理性的成员总是择机而动，哪怕是愚蠢而保守的芸芸庸众，在基本的趋利避害方面仍然是理性的。</strong></p>
+<p>更简单的方式并非是追求真正提高团队的“凝聚力”，而是<strong>通过恐吓和暴力吓阻来胁迫成员假装有“凝聚力”。</strong>在<strong>利益</strong>和<strong>暴力</strong>的双重作用下，<strong>绝大多数趋利避害的庸众都能理性地做出符合团队话事人预期的选择</strong>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="300" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E5%8F%B0%E6%B9%BE%E5%AD%A6%E8%80%85%EF%BC%9A%E9%A9%AC%E8%8B%B1%E4%B9%9D%E9%A9%AC%E4%B9%A0%E4%BC%9A%E5%AF%BB%E6%B1%82%E8%87%AA%E5%B7%B1%E5%9C%A8%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">BBC｜台湾学者：马英九“马习会”寻求自己在中国的历史定位</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104083153_xi_jinping_and_ma_ying-jeou_976x549_ap_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104083153_xi_jinping_and_ma_ying-jeou_976x549_ap_nocredit.jpg" alt=" 马英九与习近平在7日将以“两岸领导人”的身份在新加坡会晤。 " width="575" height="323"></a><p>马英九与习近平在7日将以“两岸领导人”的身份在新加坡会晤。</p></div>
@@ -93,7 +120,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">一流大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7/?category=18271" rel="tag">北大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">教育大跃进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E8%B5%84%E6%BA%90/?category=18271" rel="tag">教育资源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%9B%9D%E8%B4%BE%E7%81%B5%E6%95%8F%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%9B%9B%E5%B9%B4-%E5%88%98%E5%9C%B0%E4%BC%9F%E4%B8%80%E5%B9%B4%E5%8D%8A/" target="cdt-mirror">网曝贾灵敏一审被判四年 刘地伟一年半</a>
 </h2>
@@ -664,30 +691,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E5%8F%B0%E6%B5%B7%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%B0%86%E7%99%BB%E5%9C%BA-%E7%BE%8E%E5%9B%BD%E8%A1%A8%E7%A4%BA%E8%B0%A8%E6%85%8E%E6%AC%A2%E8%BF%8E/" target="cdt-mirror">BBC | 台海“习马会”将登场 美国表示谨慎欢迎</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/150106190513_sp_josh_earnest_white_house_624x351_ap.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/150106190513_sp_josh_earnest_white_house_624x351_ap.jpg" alt="150106190513_sp_josh_earnest_white_house_624x351_ap" width="550" height="309"></a></p>
-<p><span>美国对台海两岸领导人举行会晤表示谨慎欢迎。（资料图片）</span></p>
-<p>台湾宣布总统马英九将在新加坡与中国国家主席习近平会面，美国白宫对此表示谨慎欢迎。</p>
-<p>白宫发言人厄尼斯特周二（3日）表示，“我们当然欢迎台海两岸为减少紧张，改善关系所采取的步骤。”</p>
-<p>“但是我们必须看到这次取得的结果是什么。”</p>
-<p>台湾总统府发言人陈以信周二晚间向BBC中文网证实，马英九总统将于11月7日星期六前往新加坡，与中国国家主席习近平会面，就两岸议题交换意见。</p>
-<p>这将是海峡两岸在任最高领导人有史以来的首次会面。</p>
-<p>厄尼斯特重申了美国政府所坚持“一个中国”的政策没有改变。</p>
-<p>台湾行政院长毛治国与总统府曾永权秘书长，已经约定周三上午与下午先后向立法院院长王金平与国会各党团说明。</p>
-<p>陈以信强调，马英九此行目的在于“巩固两岸和平，维持台海现状，不会签署任何协议，不会发表联合声明。”</p>
-<p>马英九近年来也多次重申，在“适当时机、适当场合、适当身分”下，不排斥与大陆领导人见面。</p>
-<p>中国大陆国台办发言人马晓光应询表示，“对于两岸领导人会面，我们的态度是积极开放的、一贯的。如有这方面的消息，我们会及时发布。”</p>
-<p>美国对台湾军售的目的就是要维持两岸之间的军力平衡，防止中国大陆以武力实现统一。</p>
-<p>（撰稿/责编：路西）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E5%8F%B0%E6%B5%B7%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%B0%86%E7%99%BB%E5%9C%BA-%E7%BE%8E%E5%9B%BD%E8%A1%A8%E7%A4%BA%E8%B0%A8%E6%85%8E%E6%AC%A2%E8%BF%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -699,7 +702,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -709,5 +712,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

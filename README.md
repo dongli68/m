@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,107 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E9%82%A3%E4%BA%9B%E5%BE%AE%E5%A6%99%E7%9A%84%E7%A4%BC%E4%BB%AA%E8%83%8C%E5%90%8E/" target="cdt-mirror">纽约时报 | “习马会”那些微妙的礼仪背后</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/05Protocol-web-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/05Protocol-web-articleLarge.jpg" alt="周三，台北活动人士抗议台湾总统马英九与中国国家主席习近平计划中的会面。" width="600" height="385"></a><p>周三，台北活动人士抗议台湾总统马英九与中国国家主席习近平计划中的会面。</p></div>
+<p>习近平有几个头衔：除了中国国家主席、共产党总书记外，有时甚至被称为大大，这个称呼可译为“伯伯”或“爸爸”。他将于周六在新加坡与台湾总统马英九见面，届时他的称呼仅仅是“先生”。<br>
+马英九也一样。</p>
+<p>两个“先生”是围绕着这两位领导人历史性会面的复杂礼仪的最意义重大的符号之一。他们如何互称，会面时出现什么旗帜或象征，甚至谁先伸手握对方的手，都会被人仔细分析以从中训找与两岸关系有关的意思。</p>
+<p>这些礼仪问题不是简单的名称游戏，而是战争以及几十年不信任的产物。大陆称自治的台湾是其领土的一部分，坚信最终会实现统一。中华民国领导人蒋介石与毛泽东的共产党打内战失败后，于1949年带着他的国民党军队逃到了台湾。蒋介石和毛泽东曾在1945年8月见面，但那以后再也没见过面。</p>
+<p>几十年来，大陆和台湾互称“匪”，各自认为自己是中国的合法政府。双方都认为，“一个合法政府不能与一个匪政府进行面对面的接触，”香港大学历史系教授徐国琦说。“这一原则适用于所有方面。”</p>
+<p>大陆反对台湾以中华民国的名义参加奥运会，于20世纪50年代退出奥林匹克运动。大陆以中华人民共和国的名称于1979年重返。台湾则被改称为“中华台北”，而且只能使用特殊的旗帜。台湾抗议这一名称变化，抵制了1980年的奥运会。</p>
+<p>虽然“匪”字已不常用，但名称的问题依然存在。今年4月，台湾在最后时刻申请加入大陆创建的亚洲基础设施投资银行，由于以什么名称加入的问题没解决，未能成功。</p>
+<p>同样，大陆和台湾的代表参加会议也会因如何互称对方而遇到障碍。大陆官员不愿用其台湾同行的官衔称呼台湾代表，因为担心那样做会赋予台湾合法性、或暗示台湾是一个国家。</p>
+<p>马英九和习近平将互称“先生”，这是把使用他们头衔的尴尬政治问题搁置起来的一种方式。</p>
+<p>据中国官方通讯社新华社报道，大陆的台湾事务办公室负责人张志军说，“这是在两岸政治分歧尚未彻底解决的情况下根据一个中国原则作出的务实安排。体现了搁置争议、相互尊重的精神。”<br>
+事先对这种事情做决定有助于避免以后的尴尬。</p>
+<p>2008年，负责与台湾同等机构协商的大陆半官方机构领导人陈云林在台北与台湾领导人见面、向其赠送一幅绘画时，因不知如何称呼马英九，一时语塞。最后，他用了“您”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E9%82%A3%E4%BA%9B%E5%BE%AE%E5%A6%99%E7%9A%84%E7%A4%BC%E4%BB%AA%E8%83%8C%E5%90%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">两岸问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86%E7%AB%8B%E6%B3%95%E9%99%A2/?category=18271" rel="tag">占领立法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9%E5%85%9A/?category=18271" rel="tag">反对党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">国家利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%B9%BF%E4%B8%9C%E4%BD%9B%E5%B1%B1%E5%81%9C%E6%9C%BA%E8%B6%85%E8%BF%8720%E4%B8%87%E9%9D%9E%E5%AE%9E%E5%90%8D%E6%89%8B%E6%9C%BA%E7%94%A8%E6%88%B7/" target="cdt-mirror">奇客资讯 | 广东佛山停机超过20万非实名手机用户</a>
+</h2>
+<p><p>官方媒体《广州日报》<a href="http://www.chinanews.com/cj/2015/11-05/7607771.shtml" target="_blank"><u>报道</u></a>，佛山电信和佛山移动至今已经停机超过20万非实名手机用户。两家公司已将相关号码资料交公安机关备案。对于因未实名认证而被限制通信（呼出及短信、上网）的用户，成功办理实名认证后，仍可重新开启通信服务。为了强制推广手机实名制，中国的移动通信运营商按照政府通知要求，从2015年1月1日至12月31日起开展专项行动，名义上是打击黑卡，但非实名登记的预付费卡手机用户<a href="http://www.solidot.org/story?sid=44456" target="_blank"><u>也在打击范围内</u></a>。移动运营商要“确保在2015年12月31日前本企业全部电话用户实名登记率达到90%以上”，但该通知没有提到移动运营商有权限制用户通信。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%B9%BF%E4%B8%9C%E4%BD%9B%E5%B1%B1%E5%81%9C%E6%9C%BA%E8%B6%85%E8%BF%8720%E4%B8%87%E9%9D%9E%E5%AE%9E%E5%90%8D%E6%89%8B%E6%9C%BA%E7%94%A8%E6%88%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C%E6%89%93%E5%87%BB%E9%BB%91%E5%8D%A1/?category=18271" rel="tag">，打击黑卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%A4%87%E6%A1%88/?category=18271" rel="tag">公安备案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%9C%BA%E5%AE%9E%E5%90%8D/?category=18271" rel="tag">手机实名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%90%E8%90%A5%E5%95%86/?category=18271" rel="tag">运营商</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8%E5%8F%91%E8%BF%B9%E6%8C%87%E5%8D%97/" target="cdt-mirror">大象公会 | 学生干部发迹指南</a>
+</h2>
+<p><p><strong>全国学联主席是少数能在仕途上弯道超车的机会之一，但要成为学联主席，你必须在正确的年份考进正确的学校，并且，最好是个东北人。</strong></p>
+<p>文｜史祥莆</p>
+<p>如果你出身平民家庭，却从小喜欢看《新闻联播》，立志将来要为广大人民群众服务，你必须认真参考本文提供的指南，严格规划自己的人生，否则，你退休时连在《炎黄春秋》上回忆自己人生的资格都没有。</p>
+<p><strong>几乎不可能的万分之四</strong></p>
+<section><section>下面这位大器早成的青年领袖，全世界只出现在朝鲜等极少数国家。</section></section><section></section><section><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%87%91%E6%AD%A3%E6%81%A9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%87%91%E6%AD%A3%E6%81%A9.jpg" alt="金正恩" width="550" height="351"></a></section><section>在西方国家，官员分职业文官和政务官。职业文官实行考任或由上级任命，逐级晋升，受政务官节制，且无任期限制；政务官则由选举产生，由权力机关任命，严格实行任期制。
+<p>爬到职业文官的顶层需要熬资历，但直接投身选举，理论上在有为之年成为领袖人物并不难，西方近年政客有越来越年轻化的趋势，奥巴马等即为典型。</p>
+<p>在当代中国，由于并无政务官和职业文官之别，官员晋身的脚步很容易被年龄“天花板”阻挡，上升通道之狭窄，举世无双。</p>
+<p>2014年，中国的科级干部共有90万人，县处级干部后备人选只有4万人，进入升迁考察范围的概率小于5%。而整个公务员队伍中，只有万分之四最终能升至省部级。</p>
+<p>问题是，成为这万分之四，正常情况下是根本走不通的。</p>
+<p>《新录用公务员任职定级规定》：新录用公务员，有博士学位的为主任科员，二十二级；硕士学位为副主任科员，二十四级；大学本科毕业为科员，二十五级；大学专科毕业为科员，定为二十六级。高中和中专毕业生，为二十八级的办事员。</p>
+<p>如果你是一个大学毕业的二十五级科员，晋升到部级，至少要经过八个台阶：科员—副科级—科级—副处级—处级—副局级—局级—副部级—部级。按最快每两年晋升一级的规定，升到县、处级至少需要8年时间，理论年龄至少30岁。</p>
+<p>但是，晋升高一级职务还需要具有原级别两个以上岗位工作经历，在每个级别还有最低任职时间要求。若一切顺利，一个基层科员担任处级、局级和部级干部时已分别接近40、50、60 岁。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%85%9A%E6%A0%A1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%85%9A%E6%A0%A1.jpg" alt="党校" width="550" height="345"></a></p>
+<p>而《党政领导干部选拔任用工作条例》这样规定县处级以上党政领导应具备的资格：</p>
+<p>五年以上工龄和两年以上基层工作经历；具有在下一级两个以上职位任职的经历；由副职提任正职的，应当在副职岗位工作两年以上，由下级正职提任上级副职的，应当在下级正职岗位工作三年以上；应当经过党校、行政院校或者组织部门认可的其他培训机构五年内累计三个月以上的培训。</p>
+<p>很多地方还规定：年龄超过40岁就不能提拔为科级干部，50岁不能提拔到处级，55岁不能提拔为司局级；科、处级干部50岁都要退居二线。</p>
+<p>这就是说，正常情况下，即使你每一步升迁都很顺利，也只能在退休后看别人在《炎黄春秋》的回忆录。要成为那幸运的万分之四，你显然需要在人生某个时刻弯道超车。</p>
+<p><strong>弯道超车与直升机</strong></p>
+<p>1980年代前，中国是干部终身制，基层上升通道被冻结，“文革”打倒大批老干部，才造就一些“九大”代表在去北京的火车上临时入党的奇观。“文革”结束后，老干部们又纷纷重返岗位。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%AD%E5%85%B1%E8%80%81%E5%B9%B2%E9%83%A8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%AD%E5%85%B1%E8%80%81%E5%B9%B2%E9%83%A8.jpg" alt="中共老干部" width="550" height="344"></a></p>
+<p>到了1980年代初，中国政坛老龄化极为严重。大革命时期、土地革命时期、抗日战争时期和解放战争时期参加革命的老干部尚有250万人健在，绝大部分仍继续为广大人民服务。1988年，81岁的杨尚昆接替79岁的李先念担任国家主席。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%B9%B4%E9%BE%84%E6%BC%94%E5%8F%98%E8%B6%8B%E5%8A%BF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%B9%B4%E9%BE%84%E6%BC%94%E5%8F%98%E8%B6%8B%E5%8A%BF.jpg" alt="年龄演变趋势" width="550" height="328"></a></p>
+<p>邓小平遂提出“干部年轻化运动”，要求从中央到地方选拔一大批50岁、40岁左右的新干部，重点是40岁的后备力量。邓强调“要给他们搭个比较轻便的梯子，使他们越级上来。”当时的年轻人于是有了一次集体越级晋升。</p>
+<p>1982年中共十二大新当选的年轻中央委员和候补委员有21人。其中41岁的王兆国以二汽副厂长身份直接越级当选中央委员会委员，成为当时最年轻的中央委员。两个月后，出任共青团中央书记处第一书记、兼中央团校校长。</p>
+<p>也是在十二大上，39岁的甘肃省建委副主任胡锦涛成为最年轻的中央候补委员，几个月内连续出任共青团甘肃省委书记和团中央书记处书记。</p>
+<p>根据新标准，有资格“越级上来”的是年轻、高学历的干部，团、学系统显然是最佳途径。找准捷径，还要站上高点。由于全国学联主席要兼任全国青联副主席，而全国青联是“八大人民团体”之一，和中华全国总工会、全国工商联、中国科协、全国妇联平级，都是正部级单位。</p>
+<p>学联的历史可追溯五四时期的民族主义爱国运动。国共内战后，国民党对学生运动的打压，使之逐渐倒向共产党，1949年后，全国学联成为“中国共产党领导下的中国高等学校学生会、研究生会和中等学校学生会联合组织”。学联主席一般自动兼任青联副主席，有体制内的地位和身份。</p>
+<p>按副部级重点高校的机构设置和人事惯例，学联主席所在的学院院长不过是正处级，而直接负责管理学联主席的辅导员一般只是没有正式编制的“临时工”。</p>
+<p>从1980年代起，学联就成了中国政坛重要的新人训练中心，学联主席是政坛新星的代名词。从省部级的党组织到中央高层政治舞台，都有前学联主席穿插其间。</p>
+<p>第十六届、第十七届全国学联主席胡启立一度官至政治局常委；第十九届全国学联副主席袁纯清曾任山西省委书记；第二十一届全国学联主席杨岳当选时年仅22岁，后出任团中央书记处常务书记；而1983年出生的第二十四届全国学联主席刘凯 2011年已开始担任甘肃省灵台县县长。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%AD%A6%E8%81%94%E4%B8%BB%E5%B8%AD%E5%88%98%E5%87%AF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%AD%A6%E8%81%94%E4%B8%BB%E5%B8%AD%E5%88%98%E5%87%AF.jpg" alt="学联主席刘凯" width="550" height="399"></a></p>
+<p>今天中国领导的年龄结构已有很大变化。省级党政领导班子成员平均年龄53.5岁，市级党政领导班子成员平均年龄49.1 岁，县级党政班子成员平均年龄43.1岁，较1982年大幅下降。</p>
+<p>这种情况下，学联的年轻人们很难再坐上“直升飞机”越级升迁，但高起点的弯道超车效应仍在，所以，学联主席们的春天虽已过去，但这一职务依然受“优秀成为习惯”的年轻人们的追逐。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/tfboy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/tfboy.jpg" alt="tfboy" width="600" height="296"></a><br><strong>如何当上学联主席</strong></p>
+<p>合格的学联主席候选人必须考上清华北大，因为近年全国学联主席只在清华和北大之间轮换产生，所以如果分数只够上复旦交大并且雄心不死，还是有必要回去复读。</p>
+<p>因为其他高校最多只是全国学联的主席团成员团体，只能产生副主席，而且经常被毫无规律地大轮换，不值得急于为党的事业奉献力量的年轻人选择。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%AD%A6%E8%81%94.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%AD%A6%E8%81%94.jpg" alt="第二十四届全国学联" width="600" height="606"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%AD%A6%E8%81%94.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%AD%A6%E8%81%94.jpg" alt="第二十五届全国学联" width="600" height="621"></a></p>
+<p>清华北大每年招生数千人，但全国学联主席却只有一个，所以有理想的年轻人需要一入校就积极向组织靠拢，院系学生会行不通，校学生会才是通往星辰大海的码头。</p>
+<p>进入校学生会后，要两年内使出浑身解数获得团委老师和同僚们的好感，虽然这通常会牺牲同学们的好感，但便于在大三时通过公开透明具有普遍代表性的学生会换届选举当上学生会主席。</p>
+<p>但是，光考上北大清华还不行，还必须是在正确的年份。如果出生时机不对，就只能在高考之前通过留级或者跳级调整，实在难以调整则只能重新投胎。</p>
+<p>因为想要角逐全国学联主席，必须在2002年、2012年、2022年入读北大，或者2006年、2016年、2026年入读清华——全国学联主席职位每五年在清华北大之间轮换一次。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%8E%86%E5%B1%8A%E5%AD%A6%E8%81%94%E4%B8%BB%E5%B8%AD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%8E%86%E5%B1%8A%E5%AD%A6%E8%81%94%E4%B8%BB%E5%B8%AD.jpg" alt="历届学联主席" width="600" height="355"></a></p>
+<p>今年是2015年，刚好轮到北大学生会主席接棒学联。这样推算，今年读高三的“五道杠少年”黄艺博同学必须考虑复读一年再保送清华，否则他多年的《新闻联播》彻底算是白看了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%BB%84%E8%89%BA%E5%8D%9A.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%BB%84%E8%89%BA%E5%8D%9A.jpg" alt="黄艺博" width="600" height="535"></a></p>
+<p>那么，出生在什么地方是否也会更容易当选全国学联主席？</p>
+<p>1978年恢复高考以来，除1979年第十九届全国学联主席伍绍祖直接由中央机关空降外，全国学联一共产生过七任主席，从下表的统计你会发现，东北籍学联主席的比例高达57%。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%AD%A6%E8%81%94%E4%B8%BB%E5%B8%AD%E7%B1%8D%E8%B4%AF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%AD%A6%E8%81%94%E4%B8%BB%E5%B8%AD%E7%B1%8D%E8%B4%AF.jpg" alt="学联主席籍贯" width="600" height="258"></a></p>
+<p>东北人大都热情活络，另一方面酒量普遍不错，再结合这几位主席故乡的产业结构，他们儿时在厂矿大院里当孩子头的机会较多。所以，如果你幸运地是个东北人，或许当上学联主席的可能性会更高一些。</p>
+</section><p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8%E5%8F%91%E8%BF%B9%E6%8C%87%E5%8D%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">中共干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">学生干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E8%81%94/?category=18271" rel="tag">学联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E8%81%94%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">学联主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD/?category=18271" rel="tag">新闻联播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%89%BA%E5%8D%9A/?category=18271" rel="tag">黄艺博</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA-%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%A4%B1%E4%B8%9A%E5%90%97%EF%BC%9F/" target="cdt-mirror">新浪 | 中国未来会出现大规模失业吗？</a>
 </h2>
 <p><p>文/新浪财经意见领袖专栏(微信公众号kopleader)专栏作家 朱振鑫</p>
@@ -628,118 +726,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%97%E4%BC%A0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%96%B0%E7%96%86%E5%93%88%E5%AF%86%E6%95%B0%E5%8D%83%E7%9F%BF%E5%B7%A5%E9%9B%86%E4%BD%93%E7%BD%A2%E5%B7%A5/" target="cdt-mirror">自由亚洲 | 新疆哈密数千矿工集体罢工</a>
-</h2>
-<p><p>新疆哈密潞安公司三道岭矿区约七、八千名矿工11月2日集体罢工抗议，要求公司发放被莫名取消的季度奖，并改善职工看病贵、工资低的问题。有参与抗议的矿工向本台表示，公司在他们抗议后召开会议，要求各级领导看好他们并进行压制。结果，11月3日，只有约百名矿工家属继续抗议，据称还与到场的警察发生冲突。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/dbed0fd0-4e95-4075-a396-71fa6a1351ee.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/dbed0fd0-4e95-4075-a396-71fa6a1351ee.jpeg" alt="dbed0fd0-4e95-4075-a396-71fa6a1351ee" width="622" height="466"></a></p>
-<p>新疆哈密潞安公司三道岭矿区约七、八千名矿工集体罢工抗议(新浪微博)</p>
-<p>因工资问题，新疆哈密潞安公司数千名矿工11月2日上午在公司大门外聚集，罢工抗议。</p>
-<p>居住在矿区的居民李小姐11月3日向本台证实了此事。</p>
-<p>记者：“我想问您个事情，说是昨天矿区上有好多矿工在抗议工资低，这个事情您知道吗？</p>
-<p>李小姐：“嗯，知道，晚上的时候我就看微信，微信上有，反正看起来人挺多的。我自己觉得吧，人都是为自己的，单位也有单位的难处，个人也有个人的难处。”</p>
-<p>一名要求匿名的抗议者11月3日接受本台采访时表示，自上世纪90年代以来，他们的工资几乎没有上涨，职工们早已积怨甚深。而当地唯一的医院几年前被收归哈密市管辖，在医院设备人力没有任何变化的情况下，看病的费用却几乎翻倍，令他们雪上加霜。近日，潞安公司在没有任何通知的情况下就突然取消了职工们的季度奖金，瞬间引发众怒，大家都想要讨一个说法。该名矿工说，参与抗议的人数约在七、八千人左右。</p>
-<p>“因为本身我们月工资就不高，现在我们人均月工资基本上在1000到2000之间。”</p>
-<p>记者：“这么多年来一直都是这个工资？”</p>
-<p>对方：“九几年我们就是企业单位上的职工，也就是拿一千多块钱的工资，将近20年过去了工资基本上没有太大的变化。现在单位主要是靠几项奖项（增加收入），靠季度奖、半年奖和年终奖，结果这个季度奖本来是10月15号到20号之间就要发的，结果就莫名其妙，没有任何文件就说这个奖取消了。本来情绪就挺不好的，结果这个钱一取消以后就激起民愤了呗。有七、八千个人（罢工抗议）吧。”</p>
-<p>记者：“七八千这么多？”</p>
-<p>对方：“嗯。”</p>
-<p>记者：“这个季度奖本来大概每个人可以拿到多少？”</p>
-<p>对方：“人均是1500到1800块钱。”</p>
-<p>记者：“那后来有没有告诉你们为什么不发这笔钱？”</p>
-<p>对方：“说现在煤炭行业不景气，生产出来的煤卖不出去，效益不好，种种的这种借口。”</p>
-<p>记者：“就是在昨天大家都罢工之后，做出的这么一个说法是吗？”</p>
-<p>对方：“对。”</p>
-<p>这名矿工告诉记者，他们上午抗议后，公司下午召开会议，要求各级领导“看好下属”，如果再发生类似的聚集事件，就采取罚款等处罚措施。这导致翌日只有一些矿工家属继续在公司外抗议，据说还与到场的警察发生了冲突。</p>
-<p>记者：“今天还有在罢工吗？”</p>
-<p>对方：“他们昨天下午开了个会，董事长给单位的人开了个会，通知各个下属单位的领导管好自己手下面的人，如果说发现还有群众聚众闹事的，要么把他的领导职务给取消，要么就是采取罚款的措施，就打压你。所以今天去领导大楼门口的基本上都是家属，老年人居多。今天早上也是听说的，听说他们警察都在里头，然后警察和民众还起了冲突，有人受伤。”</p>
-<p>记者：“今天大概有多少人去了大门口？”</p>
-<p>对方：“有一两、百人。</p>
-<p>记者：“那昨天有没有发生一些冲突？”</p>
-<p>对方：“群众太多了，警察也没发挥什么太大的作用。”</p>
-<p>此次涉事的潞安新疆公司前身是哈密矿务局。2007年，山西潞安集团与哈煤集团重组成立潞安新疆煤化工（集团）有限公司，注册资本总额为125893万元人民币，其中潞安集团占51％，新疆自治区国有资本占33.55%。公司位于三道岭矿区，矿区总面积900平方公里，人口近5万人，是一个远离中心城市的独立工矿区。</p>
-<p>上述矿工表示，当地没有镇政府，哈密市政府也仅设了一个办事处，整个矿区几乎都被潞安公司所把持，令他们上诉无门。</p>
-<p>“现在等于是没有人管我们，除了这个企业单位的领导。如果说他是好人的话，能多照顾一些职工或者职工家属我们生活还能好一点儿，如果要摊上一个这样的黑心的领导，别的问题就不用说了。职工提出来的涨工资问题和看病贵的问题都没有得到很好的答复。”</p>
-<p>本台记者随即致电潞安新疆煤化工公司多个公开电话，但所有的电话均无人接听。哈密市政府的电话同样无人接听。</p>
-<p>矿工们说，他们的要求并不高，吃饱穿暖，衣食无忧对他们而言就已足够。</p>
-<p>（特约记者：扬帆；责编：胡汉强/寇天力）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%96%B0%E7%96%86%E5%93%88%E5%AF%86%E6%95%B0%E5%8D%83%E7%9F%BF%E5%B7%A5%E9%9B%86%E4%BD%93%E7%BD%A2%E5%B7%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E5%AF%86/?category=18271" rel="tag">哈密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">工人权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E5%93%88%E5%AF%86%E5%B7%A5%E4%BA%BA%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">新疆哈密工人罢工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E8%BE%91%E6%8E%A8%E8%8D%90/?category=18271" rel="tag">编辑推荐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%96%B0%E7%96%86%E5%85%AC%E5%AE%89%E8%BE%B9%E9%98%B2%E6%80%BB%E9%98%9F%E5%8E%9F%E9%98%9F%E9%95%BF%E8%A2%AB%E5%8F%8C%E5%BC%80/" target="cdt-mirror">德国之声 | 新疆公安边防总队原队长被“双开”</a>
-</h2>
-<p><p>中共中纪委监察部周二发布消息称，新疆公安边防总队原总队长张根恒等22名公安现役干部因严重违纪被立案审查。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/016153400_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/016153400_30300.jpg" alt="0,,16153400_303,00" width="550" height="310"></a></p>
-<p>（德国之声中文网）中国中纪委网站周二称，公安部党委、纪委坚决贯彻中央全面从严治党的要求，认真履行主体责任和监督责任，切实从严治警。网站还公布消息，新疆公安边防总队原队长张根恒、内蒙古公安厅现役工作办公室原主任李文利等22名公安现役干部严重违纪问题被立案审查。</p>
-<p>中纪委网站称，张根恒严重违反组织纪律、廉洁纪律，利用职务便利，在战士入学提干、大学生入警等方面为他人谋取利益，收受财物。李文利同样被指严重违反组织纪律、廉洁纪律。李文利则涉嫌在大学生入警、干部调动方面为他人谋取利益，收受财物，并且参与赌博。经公安部纪委全委会审议并报公安部党委批准，张根恒及李文利已被开除党籍和军籍，涉嫌犯罪问题、线索移送司法机关依法处理。</p>
-<p>近年来，北京为保障新疆安全投入大量资源。该地区与阿富汗、巴基斯坦及许多动乱及受恐怖主义威胁的中亚国家接壤。极端维族分离分子过去曾数次在新疆发动暴力袭击事件。北京声称，犯案的部分穆斯林极端分子在境外接受训练或是受到境外势力的启发。</p>
-<p>美联社指出，张根恒被”双开”突显出中国国家主席习近平铲除政府中腐败行为的决心，反腐甚至延伸至长期以来存在买官卖官、侵吞公款、滥用职权等问题的军队中。</p>
-<p>迄今在反腐运动中落马的最高层级军方人士是原中共中央军委副主席郭伯雄。他已因”涉嫌严重受贿犯罪问题及线索移送最高人民检察院授权军事监察机关依法处理”。</p>
-<p>另一名落马的中央军委原副主席徐才厚则因涉嫌受贿犯罪被移送审查起诉。徐才厚今年三月因膀胱癌死亡。在其病故后，军事检察院作出不起诉决定，其涉嫌受贿犯罪所得依法处理。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%96%B0%E7%96%86%E5%85%AC%E5%AE%89%E8%BE%B9%E9%98%B2%E6%80%BB%E9%98%9F%E5%8E%9F%E9%98%9F%E9%95%BF%E8%A2%AB%E5%8F%8C%E5%BC%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E5%BC%80/?category=18271" rel="tag">双开</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%A0%B9%E6%81%92/?category=18271" rel="tag">张根恒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E8%BE%B9%E9%98%B2%E6%80%BB%E9%98%9F/?category=18271" rel="tag">新疆边防总队</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%80%E4%BD%8D%E5%8C%BB%E7%94%9F%E4%BA%B2%E5%8E%86%E7%9A%84%E5%85%AB%E5%8D%81%E5%B9%B4%E4%BB%A3%E8%AE%A1%E7%94%9F%E8%BF%90%E5%8A%A8/" target="cdt-mirror">博谈网 | 一位医生亲历的八十年代计生运动</a>
-</h2>
-<p><p>来源: 沙里淘金录</p>
-<p>正值废除一胎化、全国人民欢呼之时，我却不由自主想到上世纪八十年代计划生育运动时的情况。作为医生，当年所见所闻与今日景象同样让人深思，五味杂陈。以前毛主席针对马寅初的人口政策建议提出：人多力量大。全国妇女敞开肚皮生。我仿佛记得我们向苏联老大哥学习：生孩子多还授予英雄母亲称号。那时我年纪很小，说不清楚。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-03-at-%E4%B8%8A%E5%8D%8810.50.34.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-03-at-%E4%B8%8A%E5%8D%8810.50.34.png" alt="Screen Shot 2015-11-03 at 上午10.50.34" width="517" height="341"></a></p>
-<p>我有大儿子是1977年。那时，提倡一对夫妻一对孩。1979年妻子怀二儿子时就提倡生一个孩子了。不过第二个孩子也可以生，但要消灭黑小三（第三个孩子）。</p>
-<p>刚进入1980年，第二个孩子也要计划掉。春节前运动松一点，过春节后第一个政治任务就是计划生育。</p>
-<p>我所在的县医院是龙头单位，计划生育运动还没开始，各科室就开始给妇产科腾床，好接纳各公社计划生育小分队抓来的二胎孕妇。</p>
-<p>不仅仅是农村，就连我们科护士小李及妇科护士小郑也刚好赶上了，运动来到时她们妊娠刚好八个多月。如果在运动到来前就引产，说不定早产儿还能活下来。如果过两天运动来了，她们会被强行把孩子计划掉。</p>
-<p>最后，她们决定孤注一掷，听天由命。她们两人用催产素引产。早产儿刚生下来挺好，会哭会闹。可就是一吃就吐。她们又不敢在医院大张旗鼓地治疗，结果两个孩子最后都死了。</p>
-<p>接着，计划生育运动暴风骤雨似地来了。各公社计划生育小分队强行逮住大肚子妇女送到医院，她们一进来，妇产科医生就给她们宫腔内注射雷夫诺尔、天花粉。两三天后大肚子们就分娩了。大部分分娩出的胎儿是死胎。个别的出生后还会哭，就在产床下边放个水桶，娩出就塞入水桶里了。</p>
-<p>由于妇产科住不下，这些住院的大肚子就被分配到其他各个科室的病房。各科室的房间都住满了等待计划的妊妇。妇产科医生给妊妇宫腔内注射了雷夫努尔就不管了，由所住科室负责给妊妇输液和对症治疗。两三天后，妊妇分娩出死胎时，再由妇产科医生接生。</p>
-<p>我所在的内科也住满了妊妇。在平常，内科病人都是很听话的，服从治疗。可是自从这些妊妇住进来，就不一样了。她们有冤没处发，找错了对象，个个象吃了枪炮药似的对待我们内科大夫，就好像是我们把她们抓来的一样，经常挑我们的刺。</p>
-<p>她们不断地说这儿痛、那儿痒，怎么样用药都不好。上面又不叫我们开那么多药，因为计划生育没有那么多经费。我们是老鼠钻到风箱里两头受气。</p>
-<p>一天，我管的房间里，大肚子们又发难了。我只好问她们：你们怎么被抓来了？怎么当时不跑哇？</p>
-<p>她们说：当时没来的及跑。</p>
-<p>我说：你们来到医院也可以跑。</p>
-<p>她们说：不敢跑，跑了怕她们的家人挨收拾。</p>
-<p>我说：你们现在就跑吧。你们跑，我绝不拦你们，尽管放心跑就是了。</p>
-<p>她们说：给打针了（子宫内），怎么跑？跑了就不给接生了。</p>
-<p>我说：你们就这点本事啊！连跑都不敢跑，只知道作难我。我是个破内科医生，只会看病，又不管计划生育，你们为难我干什么？又不是我叫你们来这儿的，是你们公社送到这儿来的。你们就是到这儿跑了，也不关我什么事。</p>
-<p>我发了一阵火，走了。那群大肚子大眼瞪小眼，只好到医生办公室和我说好话。就这样她们都老实了。事情就是这样，碰到刺头的人和事，你只要硬起来，他就会软下去。要不就会受气。</p>
-<p>医院妇产科主任姓张，由于脾气大，人们给她起外号叫张大炮，她是医院施院长的老婆。</p>
-<p>张大炮对计划生育强制性引产非常看不惯。计划生育运动来了，施院长在大会上作动员报告，给各科室布置任务时，妇产科作为具体执行科室，当然是首当其冲。</p>
-<p>但张大炮看不惯，拒不执行任务，施院长只好叫她休病假，由副主任主持工作。按照常人理解，张大炮主任你就好好休息呗。可她又憋不住，在门诊楼前无所事地转来转去。有熟人见了她，问：张主任，你在这儿干什么？</p>
-<p>休班，不上班了！张回答。</p>
-<p>为什么？别人问。</p>
-<p>哎呀，你不知道啊，我干了一辈子医生，接了一辈子娃娃，一个个都活蹦乱跳的。现在，我把本来应该活蹦乱跳的娃娃弄死，这不是害性命么？——我不干，这不，我休班了。张大炮在门诊楼前见熟人就这么述说着。</p>
-<p>‌‌“把她拉回来！简直是乱弹琴。‌‌”施院长在办公室对下边的人说。</p>
-<p>‌‌“张主任，你家里来人了。‌‌”办公室人员就这么应付着施院长的家事。办公室人员也拿院长夫人没办法，只好编瞎话骗她回家。</p>
-<p>我们县计划生育还发生了一件令人痛心的事，现在说起来还心有余悸。</p>
-<p>事情发生在山东博平附近某村。在计划生育运动中，计划生育小分队在各村的线人（天下事无奇不有，就有这么一些人为了各种各样的欲望和目的，愿意充当内线，向上级告密，提供被监视人的动向）提供的线索指引下，逮住第二胎妊娠妇女就往医院送。</p>
-<p>一般送人由大队干部陪着。哪知这次送的妇女中，有一个妇女在途中突然肚子疼，接着就分娩出一个男婴。他们村的书记慌了，因为公社干部在计划生育动员会上下了死命令：这次运动是政治任务，一个二胎都不能生，生了也不能活。哪个大队有二胎，干部就地免职，违反政策的人要逮起来。对于计划生育闹事户的办法是：你要上吊给你绳，你要喝药给你瓶。别怕出事，出了事国家给你们担着。</p>
-<p>既然路上生了孩子，那个村支书不知怎么失去理智，一时心血来潮就把刚生的男婴掐死了。那妇女的公爹知道后伤心至极，直奔书记家，刚好见书记的小孙子在他家大门口玩耍，抡起铁锹一下击中小孩的头部、当即毙命。你叫我没孙子、我叫你断子绝孙！</p>
-<p>这事很快汇报到县里，怎么办？后来听说在县领导的授意下，把那个村支书免了职，又把他们两家从一个生产队调开就算完事了。县里也怕把事情闹大了不好收场。</p>
-<p>大事化小、小事化了。一切都在地方官的运作下销声匿迹了。</p>
-<p>现在也是这样，民不告、官不究，打伤了人也可以私了，还写入了法律！我们这儿也有打死人私了的事。这是依法治国吗？天下悖论太多、不合理的事也太多。见的多了，习以为常，见怪不怪，也就是这个意思吧。</p>
-<p>注：作者系‌‌“文革‌‌”前北京医学院招收的最后一批大学生。该校后来更名为北京医科大学，再后与北大合并。摘自作者正在创作的回忆录《沙里淘金录》</p>
-<p>关键词: 计划生育 二胎 八十年代 栏目: 社会透视 栏目重点发表: 栏目头条 作者: 郭连生</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%80%E4%BD%8D%E5%8C%BB%E7%94%9F%E4%BA%B2%E5%8E%86%E7%9A%84%E5%85%AB%E5%8D%81%E5%B9%B4%E4%BB%A3%E8%AE%A1%E7%94%9F%E8%BF%90%E5%8A%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5%E6%B5%81%E4%BA%A7/?category=18271" rel="tag">人工流产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%BC%95%E4%BA%A7/?category=18271" rel="tag">强制引产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F/?category=18271" rel="tag">计生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">计生工作</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -751,7 +737,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -761,5 +747,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

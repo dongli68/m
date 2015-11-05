@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,135 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%AE%BE%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF12339/" target="cdt-mirror">端传媒 | 全民防谍？中国设间谍举报热线12339</a>
+</h2>
+<p><p>11月1日，即《中华人民共和国反间谍法》颁布实施一周年之际，吉林省国家安全厅发出通告，要求公民协助“防范、制止和惩治间谍行为”，并公布了间谍行为或线索“全国统一”举报电话“12339”。</p>
+<blockquote><p>中华人民共和国公民有维护国家的安全、荣誉和利益的义务，不得有危害国家的安全、荣誉和利益的行为。一切国家机关和武装力量、各政党和各社会团体及各企业事业组织，都有防范、制止间谍行为，维护国家安全的义务。<br>
+—— 《中华人民共和国反间谍法》第一章第四条</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/e218c610e96d423e90dc75729a7862d9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/e218c610e96d423e90dc75729a7862d9.jpg" alt="BEIJING, CHINA - NOVEMBER 17: A tourist phones as a paramilitary policeman guarding in front of Tiananmen Gate on November 17, 2013 in Beijing, China. The full text of the Communist Party of China (CPC) Central Committee's decision on major issues concerning comprehensively deepening reforms was issued on Friday. The decision was approved at the Third Plenary Session of the 18th CPC Central Committee held from November 9 to 12 in Beijing. (Photo by Feng Li/Getty Images)" width="550" height="367"></a><br><span>中国近日出现间谍举报热线电话12339，各省情况不同。摄：Feng Li/Getty</span></p>
+<p>与此同时，中国各地近日都举办了《反间谍法》颁布一周年“宣传教育”活动。端传媒发现，在“12339”这个“全国统一”的举报号码前加拨各地区号，可以接通至当地相关部门。经过测试，截至4日下午，仅长春、武汉、上海等地能够接通，但大多没有人接听；而北京、广州、深圳等地则显示为“空号”。</p>
+<p>《纽约时报》报导称，该报于2日曾多次拨打吉林长春的举报电话，直到下午4时30分才终于有人接听。接听官员表示，这个电话是当天的第一个电话。据他介绍，要举报间谍的话，需要告知被举报者的身份，以及引起举报者怀疑的原因。然后，他们会把情况记录下来并向上级报告，调查人员会在数天内回应。</p>
+<p>早在今年7月，海南省便率先开通了中国首条间谍举报热线“96111”。据《法制日报》报导，该举报中心在两个月内接到举报电话几十个，多条举报线索“已经查实并立案”，“多名犯罪嫌疑人通过96111平台主动投案自首”。当地安全部门还制作了反间谍动画宣传片《慧眼识破你身边的间谍陷阱》，在各大视频网站发布。</p>
+<p>针对间谍举报热线的设置，中国现代国际关系研究院反恐研究中心主任李伟认为，这说明“反间谍工作并不只是国家专门机关的事情，与广大民众也息息相关”。他指出，设立间谍举报热线是国际上的普遍做法，“例如俄罗斯联邦安全局、美国联邦调查局以及英国的军情五处等都设有民众参与的举报热线”。</p>
+<p>在举报热线公布前，中国政府于今年3月在广西南宁拘留了一位名为潘婉芬的美籍华裔女商人，并在9月以涉嫌“危害中国国家安全”为由将其正式拘捕；自5月以来，中国还逮捕了4名涉嫌在华“从事间谍活动”的日本人，其中2人被捕的消息得到中国官方确认；而中央电视台也在上月曝光了四川某国防军工单位4名员工为获取高额报酬，向“境外间谍人员”提供军工产品信息的案件。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%AE%BE%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF12339/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D/?category=18271" rel="tag">全民防谍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">间谍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF/?category=18271" rel="tag">间谍举报热线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">间谍活动</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E8%B0%81%E5%9C%A8%E8%82%A1%E5%B8%82%E4%B8%8E%E5%BE%90%E7%BF%94%E4%B8%80%E8%B5%B7%E5%90%83%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">东网 | 谁在股市与徐翔一起吃人？</a>
+</h2>
+<p><p>作者：杨彼得</p>
+<p>有宁波“涨停板敢死队总舵主”之称的私募大佬徐翔近日在杭州湾跨海高速上被抓，轰动大陆。徐翔到底违了什么法，目前公众不得而知，但可以肯定的是，他在中国股市上吃人喝血，这是一个不争的事实。</p>
+<p>徐翔过去五年平均收益率在200%左右，据媒体报道，其成功手段花样多，比如抄底、押宝重组+控股。记者们反覆宣传的徐翔的先进事迹是，他深入若干原来名不见经传的冷门上市企业调研，然后潜伏在股市里，几个月后果然就有若干利好兑现，股价上涨百分之四五十时，他悄然全身而退。但按照这种利好兑现之法，徐翔要把基金收益率弄到200%左右，完全没有可能。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bkncn-20151106000317219-1106_05411_001_01p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bkncn-20151106000317219-1106_05411_001_01p.jpg" alt="bkncn-20151106000317219-1106_05411_001_01p" width="550" height="393"></a><br>
+股市投机靠胆，做庄炒股跟投机不是一码事，必须要有靠山。</p>
+<p>有位河南企业家讲了一个故事：由于经济下行，他的企业缺流动资金，有人带他去见徐翔。徐翔不关心其企业的生产经营，面对企业家的求援，身体后仰，面无表情。在企业家说完之后，徐翔突然向前探直了身子，一字一顿地说：“我可以给你支个招，今年可以让你挣5个亿，当然，我也要挣这个数。”企业家大惑不解，徐翔直言：“你只需要配合我发布公告就行了，我可以把你的股票拉到60左右。”这位企业家没有应承。</p>
+<p>这个事故提示了徐翔股市赚钱的真相，包括他当“涨停板敢死队总舵主”的真相。所谓“涨停板敢死队”，就是将某一只股票股价拉高到涨停，第二天继续拉高至涨停或者出货，从而赚取高额差价。表面上看，徐翔只是敢赌，其实并非如此简单。凡是炒作一只股票，都是要与上市企业狼狈为奸，欺骗散户并进行内幕交易。</p>
+<p>但炒作股票并非仅仅是庄家与企业主两个人之间的秘密，他们还要在沪深股票交易所和证监会找到靠山，没有靠山，也是行不通的。股市投机靠胆，做庄炒股跟投机不是一码事，必须要有靠山。前不久被抓的证监会主席助理张育军，向我们初步展示了后台靠山是如何提携和庇护炒股庄家的，虽然目前媒体扒出来的事实主要是张育军与中信证券相勾结，但靠山庇护庄家的套路是一样的。</p>
+<p>如果我们将股市想像成一个食物链的话，亿万散户就是处于末端的食草动物，而庄家、企业主和证监系统官员则构成链上的食肉动物。徐翔、张育军无疑是吃人喝血者，但整个食肉动物是一个界别，数量很多，现在百未抓一。</p>
+<p>张育军和徐翔已经被抓了，他们完全是罪有应得。但从某种意义上说，他们的确是证监部门抛出的替罪羊。股灾期间，A股最多蒸发近30万亿元市值，股民损失惨重。况且股市曾被中央高层寄予给经济输血的厚望，现在厚望幻灭，证监会面临巨大政治与心理压力，他们有必要抛出替罪羊。</p>
+<p>说张育军和徐翔是替罪羊，乃因中国股市吃人喝血者众，证监会很多人跻身吃人喝血者行列，他们自然不会自己把自己交给法律。证监会很多官员吃人喝血，这是众所公认的事实。最近香港媒体报道任职中信证券的某中央高层之子被调查，不知是否为真，但我所供职的某媒体2009年曾筹备上市，这位公子哥就曾亲赴此媒体洽谈投资事宜。其父当时是中央宣传部门负责人，一言九鼎，大家都以为上市板上钉钉。讵料2010年阿拉伯之春爆发，中共不支持党媒上市，上市与公子哥的投资事宜终止。但权势人物如何在中国股市吃人喝血，已经昭然若揭。</p>
+<p>在习王严厉反腐的今天，吃人喝血被抓的能有几人？替罪羊被抛出来之后，大多数吃人喝血者“岁月静好，现世安稳”。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E8%B0%81%E5%9C%A8%E8%82%A1%E5%B8%82%E4%B8%8E%E5%BE%90%E7%BF%94%E4%B8%80%E8%B5%B7%E5%90%83%E4%BA%BA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">徐翔被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">杨彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91/?category=18271" rel="tag">私募基金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E9%BB%91%E5%B9%95/?category=18271" rel="tag">股市黑幕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%B4%9B%E9%98%B3%E6%9A%B4%E5%8A%9B%E8%A2%AD%E8%AD%A6%E6%A1%88%E8%BF%98%E5%8E%9F%EF%BC%9A%E4%B8%80%E4%BA%BA%E8%A2%AB%E6%8D%85%E8%85%B0%E9%83%A8-%E4%B8%80/" target="cdt-mirror">澎湃新闻 | 洛阳暴力袭警案还原：一人被捅腰部 一人被刺心脏</a>
+</h2>
+<p><p>11月4日7时40分许，开元大道与龙门大道交叉口发生一起恶性暴力袭警案件，导致1名执勤人员当场殉职，3名执勤人员受伤。犯罪嫌疑人邓某某(男，42岁，汉族，洛龙区人)被警方和群众合力擒获。</p>
+<p>案发后，洛阳日报记者多方采访，还原案件发生经过。</p>
+<p>视频<a href="http://video.weibo.com/show?fid=1034:1a7ed42cbb412633403e87f499c16b29" target="_blank">地址</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/14416634415738277882.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/14416634415738277882.jpg" alt="14416634415738277882" width="500" height="333"></a></p>
+<p><strong>无照驾驶闯红灯被暂扣车辆，邓某某现场表示无异议</strong></p>
+<p>警方的执法记录仪显示：3日16时7分，邓某某驾驶一辆三轮摩托车，沿开元大道由东向西行驶，行至关林钱江家居广场附近时，洛龙交巡大队五中队执勤人员示意其停车，但其并未停车，反而加速向西行驶。16时8分，邓某某在开元大道与龙门大道交叉口东北角被洛龙交巡大队五中队民警拦停，并带到非机动车道进行处理。</p>
+<p>民警介绍，邓某某被拦停，是因为16时6分，洛龙交巡大队五中队中队长刘辉巡线至开元大道通南街口时，发现邓某某驾驶三轮摩托车闯红灯，就通过电台指令在路口执勤的民警将其拦停。</p>
+<p>执法记录仪显示：在处理时，邓某某承认了自己刚刚闯红灯的行为。民警还发现其并没有驾照。对此，邓某某也予以承认。在问明情况后，民警向邓某某介绍了相关法律规定，依法出具了行政强制措施凭证，暂扣了邓某某的三轮摩托车，并告知其在15个工作日内，可以持该凭证、身份证及三轮摩托车的相关手续，到洛龙交巡大队违法处理室接受处理。邓某某没有多说什么，就在行政强制措施凭证上签了字，并表示对执法无异议。</p>
+<p>执法记录仪显示：邓某某签完字后并没有马上离开，犹豫了一会儿后，他又走上前来，询问能不能不扣车。民警告诉邓某某：“如果我们明知你无照驾驶闯红灯还不管，我们也是在违法！”民警给邓某某建议：如果你有特殊情况，可以让村委会出一份证明拿到交警队，交警队会酌情从轻处罚。</p>
+<p>民警还再三告知邓某某：三轮摩托车只是暂扣，“只要你接受了违法处理，车就可以提走”。</p>
+<p>执法记录仪显示：从16时8分邓某某被拦停，到16时38分，民警一直对邓某某进行劝说。</p>
+<p><strong>蓄意报复持刀行凶致一死三伤，邓某某涉嫌故意杀人罪被刑拘</strong></p>
+<p>龙门大道与开元大道交叉口的监控视频显示：4日7时40分左右，正值早高峰，执勤人员到岗后，立刻分散在各个路口执勤。7时43分，刘辉在路口东北角放置交通安全提示牌后，沿斑马线由东向西到路中间执勤时，邓某某从路口西北角，沿斑马线由西向东走向刘辉。两人错身之际，邓某某突然转身，反握随身携带的西瓜刀，向刘辉腰部猛捅一刀，随后继续向东走去。由于毫无防备，正在专注疏导交通秩序的刘辉踉跄两步后倒地不起。</p>
+<p>执勤人员马玉军、沈浏伟、李丰等在发现邓某某行凶后，迅速追赶围堵。邓某某见状，挥刀乱捅，马玉军被刺中心脏当场倒地，沈浏伟受重伤，李丰右肘部被刺伤。</p>
+<p>案件发生后，附近执勤的民警迅速赶到现场，在群众帮助下，将邓某某抓获。</p>
+<p>据邓某某供述，3日17时许，他回家后回想起三轮摩托车被暂扣的事很生气，喝了三四两白酒睡去。4日6时许，起床后预谋报复。早上7时许，其持刀赶到龙门大道与开元大道交叉口西北角守候，看到刘辉上岗后，便实施了报复。</p>
+<p>马玉军因抢救无效当场殉职，刘辉、沈浏伟、李丰被送往河科大一附院新区医院抢救。截至记者发稿时，刘辉手术后仍在重症监护室抢救，沈浏伟手术后尚未脱离生命危险，李丰正在住院治疗。</p>
+<p>目前，邓某某因涉嫌故意杀人罪被刑事拘留，案件正在进一步侦办中。</p>
+<p><strong>社会各界慰问负伤执勤人员，警方表示将继续严查各类交通违法行为</strong></p>
+<p>据了解，刘辉、马玉军、沈浏伟、李丰业务能力强、工作出色。其中，刘辉曾受到市公安局6次个人嘉奖，先后获“洛阳市十大杰出交通民警”“全省交警系统规范执法标兵”等荣誉称号；马玉军1994年自洛阳市警察学校毕业以来，一直战斗在公安工作一线。</p>
+<p>案件发生后，省委常委、市委书记陈雪枫，副省长、省公安厅厅长许甘露，市委副书记、市长鲍常勇等对负伤人员表示慰问，对做好下步工作提出要求。市委常委、政法委书记吴孟铎到医院看望了负伤人员，并指挥处置工作。全国拥军模范乔文娟、关林市场商会代表、部分学校师生等我市各界人士，纷纷自发前往医院看望慰问受伤民警，许多网友发帖为民警送上祝福。</p>
+<p>很多网友表示，公安民警的执法行为是为了维护社会和谐稳定、保障人民群众合法权益，当执行公务受到阻碍时，损害的是社会公众的利益。省政协委员、河南安多律师事务所主任刘晓良律师认为，犯罪嫌疑人邓某某有预谋持尖刀袭击正在依法执行公务的公安机关执勤人员，手段凶狠，致一死多伤，已涉嫌故意杀人罪；11月1日刚刚施行的《中华人民共和国刑法修正案(九)》也把袭警行为列为从重处罚情形，邓某某应依法受到惩处。</p>
+<p>市公安局负责人表示，交通违法行为不仅影响城市形象，而且危及交通安全。全市公安机关将一如既往严查各类交通违法行为，为广大市民创造一个安全、畅通、文明、有序的交通环境。坚决支持民警依法履职、正当执法行为。对暴力袭警者，将依法严厉打击。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%B4%9B%E9%98%B3%E6%9A%B4%E5%8A%9B%E8%A2%AD%E8%AD%A6%E6%A1%88%E8%BF%98%E5%8E%9F%EF%BC%9A%E4%B8%80%E4%BA%BA%E8%A2%AB%E6%8D%85%E8%85%B0%E9%83%A8-%E4%B8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6/?category=18271" rel="tag">交警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95/?category=18271" rel="tag">交通违法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BE%E6%B0%94/?category=18271" rel="tag">戾气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">暴力事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AD%E8%AD%A6/?category=18271" rel="tag">袭警</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%87%8D%E9%87%91%E9%93%BA%E8%B7%AF%E4%B8%AD%E5%85%B1%E5%A4%A7%E5%A4%96%E5%AE%A3%E6%B5%B7%E5%A4%96%E6%89%A9%E5%BC%A0/" target="cdt-mirror">自由亚洲 | 重金铺路中共大外宣海外扩张</a>
+</h2>
+<p><p>中国官方的中国国际广播电台（CRI）涉及在14个国家至少33家电台隐蔽以双语广播，其中包括华盛顿的WCRW电台。有大陆媒体人分析，这仅仅是中国动用庞大经费推行的海外大外宣国家战略的冰山一角。 （卡帕/维灵报道）</p>
+<p>路透社日前报导显示，包括位于华盛顿的WCRW电台在内的，由中国官方背景支持的33家电台用英文、中文或当地语言广播，它们通常忽略对中共的批评，避开任何对北京负面的描述。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Clipboard28_50.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Clipboard28_50.jpg" alt="Clipboard28_50" width="550" height="367"></a><br>
+新华社租用纽约时代广场最大广告位（来源：博谈网）</p>
+<p>中国媒体人周四（5日)对本台表示，意识形态部门动用巨额的资金在海外搭建外​​宣平台，在中国的媒体圈早已经不是秘密。早在去年9月香港占中期间，涉及数十个国家的142家海外华文媒体发布“保卫香港联合宣言”，力挺中国当局，被中国媒体人戏称为假外媒集体站场。</p>
+<p>在此之前的2014年3月11日中共两会期间，一家来自澳大利亚、名为《环球凯歌传媒》的记者克鲁思多次获得官方点名提问，事后该媒体也被挖出背后的股东是中国官方所属的传媒公司控股。</p>
+<p>曾在国内从事媒体工作的苏雨桐称，类似的情况非常多。据记者无国界调查，在法国，也有很多中方出资办的媒体。</p>
+<p>她说：据记者无国界调查，其实在法国他们也发现有很多是中方出资办的这样的电台，而且是数码电台。他们首先是想要影响到海外的这些华人了。另外我们也发现他们也在影响西方的受众。比如说对西方的媒体的一种渗透，这个其实已经远超了路透社报导的这个内容。比如说在西方的一些拨款电台里，包括中文部门及其它的一些节目上，都在不停地把他们的意识形态和所谓的价值灌输出来。</p>
+<p>苏雨桐还以自己的经历为例，批评德国之声、法广等传统的西方主流媒体，它们有些与中国官方背景的媒体进行合作，有的在对华报导中表现出来的靠近中共的做法，甚至是沿用中国官媒语境报导的做法，让人担忧。</p>
+<p>据悉，中共大外宣惯常做法是：官方机构成立看似市场化的子公司，然后收购海外媒体股权，派出运营人员和编辑团队，按照官方的口径进行宣传。如果不能购买股权，则购买时段或版面发布中国官方希望发布的信息。</p>
+<p>原南方周末新闻部主任长平表示，中共从建党开始就非常注重宣传，建政后，更是成立了从官方喉舌人民日报，国际广播电台、外文局等组成的文宣体系。而真正大外宣的概念被人注意，系2009年当局划拨450亿元进行所谓的形象公关大外宣国家战略开始。</p>
+<p>他说：大外宣这个概念是2009年开始的，2009年《南华早报》有个报导，中国准备450亿元人民币来推动媒体的国际扩张，改善国家在国际上的形象。当时环球时报和新华社都转述或重新报导。官方的报导说，2008年遇到了一系列的公关危机，3.14西藏事件、（奥运）火炬传递事件、毒奶粉，中国政府它不是反省，而是归结到宣传上，所以在准备450亿元启动国家公关战略。</p>
+<p>长平认为，从功效上看，中共的大外宣对内以外媒的名义欺骗民众，对外则充分利用了自由世界的言论自由暗渡陈仓，以达到对西方主流社会的潜移默化的影响。</p>
+<p>他说：对内他们会经常引用所谓海外媒体的报导，事实上这些报导都是由中国外宣系统控制的。对外呢，他们利用西方的言论自由。欧美的主流社会是认同言论自由和观点多元的，所以他们会试图去听各种声音。主流媒体从职业伦理上说通常它会引述不同的观点，这就等于中共的声音藉这个通道也进入了主流媒体。它对塑造主流社会的舆论影响是有一定的功效的。</p>
+<p>中国不愿具名的媒体人告诉记者，450亿还只是公开披露的以小部分。各地政府都有巨额的外宣经费，一个副省级城市一年经费可超过20亿元。一些外媒、假外媒纷纷和中国一些宣传部合作，成立地方分频道获取利益。如凤凰网在薄熙来在重庆的时期，新加坡联合早报网在李春城时代的成都，香港大公报和文滙报在各地的广告创收平台等等，同时也成为中国文宣系统腐败的助推剂。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%87%8D%E9%87%91%E9%93%BA%E8%B7%AF%E4%B8%AD%E5%85%B1%E5%A4%A7%E5%A4%96%E5%AE%A3%E6%B5%B7%E5%A4%96%E6%89%A9%E5%BC%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92/?category=18271" rel="tag">中国官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93/?category=18271" rel="tag">华文媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93/?category=18271" rel="tag">境外媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">对外宣传</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/" target="cdt-mirror">psy-eyes | 唐映红：禁止成员说三道四能提高团队的凝聚力吗？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg" alt="640" width="500" height="375"></a></p>
+<p>Q&A151104</p>
+<p><strong>问：禁止成员说三道四能提高团队的凝聚力吗？</strong></p>
+<p>答：生活中，无论是企业组织，还是公益社团，当需要实现组织目标的过程中，都希望能组织团队能有<strong>足够的凝聚力</strong>。有些组织、社团会希望通过<strong>禁止成员对组织重要议题说三道四来提高团队凝聚力</strong>，那么他们的希望能够奏效吗？</p>
+<p>从心理学角度，涉及到诸如组织、社团这样的团队，影响它们绩效或者凝聚力的因素十分庞杂，且错综交织，很难因循少数维度或因素而厘清。所以，<strong>特定的措施能否对团队凝聚力具有积极的作用，不能简单地下断语YES or NO，必须置于具体情境中讨论。</strong></p>
+<p>换言之，<strong>禁止成员说三道四既可能提高团队的凝聚力，也可能削弱团队的凝聚力</strong>，要达成前者关键取决于两个因素：<strong>什么样的团队，在什么样的情境下</strong>。</p>
+<p>首先，<strong>通过限制批评，禁锢言论来提高凝聚力，就必须确保团队成员的高度相似性</strong>，成员之间相似性越高，成员之间就越能达成共识，那么排斥少数说三道四的意见确实能提高团队的凝聚力。例如，全是左撇子的团队，决定禁止用右手拿筷子，就很容易达成共识，禁止少数异议者确能提高凝聚力。</p>
+<p>对一个社会生态中的组织、社团团队，所涉及的议题往往复杂多维，<strong>单一或少数维度的相似性无法满足总是达成共识的边界条件</strong>，因此就需要团队成员的判断能力、思考能力要相对简单，甚至越简单越好。这样，他们就很容易被说服，而不大可能会依据逻辑和实证对漏洞百出的说辞提出质疑。这就意味着，<strong>团队成员普遍越愚蠢越保守，也越容易通过禁止说三道四来提高凝聚力。</strong></p>
+<p>尽管如此，由于社会生态中的一个组织、社团的团队<strong>无法通过简单的方式筛选具有高度相似性且愚蠢保守的成员</strong>，总难免混杂一些不那么愚蠢，也不那么保守的成员，他们对组织、社团话事人的决议难免心存疑虑并表达出来。因此，由具有高度相似性且愚蠢、保守成员组成的团队必须要<strong>形成特异性的机制来甄别并排斥这些与众不同的成员</strong>，例如，发动成员积极举报那些对话事人说三道四成员，并通过妖魔化的标签来使绝大多数单纯的成员远离他们。可以将这一小撮异议者及其言论贴上“别有用心”、“敌对势力指使”、“间谍”等标签。事实上，通过<strong>“抓坏人”的团队运动不仅能有效地将少数异议者排斥出团队，还能“锻炼”其他成员，增强他们对团队的依赖，从而提高团队的凝聚力。</strong></p>
+<p>既此，通过禁止成员说三道四来提高团队凝聚力的边界条件就主要包括至少三项：①<strong>成员的高度相似性</strong>，特别是意识形态上的一致性；②<strong>成员普遍愚蠢而保守</strong>；③<strong>形成对少数异议成员的甄别和排斥机制</strong>。其中①的满足需要形成广泛而有效的<strong>讯息管制</strong>，并通过卓有成效的<strong>意识形态灌输</strong>来促使成员在观念上形成一致。②的满足需要团队文化要形成<strong>反智的文化氛围</strong>，重用愚蠢而保守的骨干担任干部；③的满足需要<strong>持续的、周期性的不断的清洗运动</strong>来保持团队的纯洁和成员的警惕，并随时清除一小撮异议者。归纳起来就是：<strong>洗脑灌输、反智文化、清洗运动。</strong>任一项的缺乏或削弱，都将破坏甚至反转“通过禁止成员说三道四来提高团队凝聚力”的效果。</p>
+<p>即使通过“洗脑灌输、反智文化、清洗运动”而形成符合边界条件的团队，要真正达成“通过禁止成员说三道四提高团队凝聚力”也殊为不易，还必须仰赖在<strong>特定的情境</strong>下。其中包括但不限于下面要素的满足：</p>
+<p>1、<strong>团队必须要封闭，不能保持开放。</strong>通过封闭团队，既能有效避免“有害”讯息的传入，也能有效降低团队外部压力。一旦开放，不仅洗脑灌输的效果将大打折扣，成员的高度相似性，特别是意识形态的一致性势必被削弱；而且外部讯息将冲击团队费心营造的反智文化氛围，很容易造成成员被教育、启蒙，从而难以约束，并大大增加清洗运动的难度。</p>
+<p>2、<strong>要有足够的资源维持高昂的成本支出。</strong>通过“禁止成员说三道四来提高团队凝聚力”固然可行，但依靠这种凝聚力来达成目标或实现理想岌岌可危，必须耗费大量成本来维护秩序。成员再愚蠢保守，再整齐划一，也需要通过目标的实现来获得具体的利益，否则就难以维系。这就需要有耗费大量的成本来“收买”成员；或“豢养”秩序维护者，如护厂队，来吓阻动摇的成员。</p>
+<p>3、<strong>任务必须足够简单</strong>。将通过“禁止成员说三道四”来提高了团队凝聚力用来做什么这才是问题的关键。对于任何稍微复杂的任务都无法通过符合边界条件的团队来达成而不破坏或削弱边界条件来实现。只有简单的任务才足以达成而不破坏或削弱边界条件。例如，<strong>即使提出高瞻远瞩的宏大任务目标，像组织、社团的伟大崛起之类，但实际的任务其实只不过是维持组织、社团而不致迅速瓦解。</strong></p>
+<p>可以这么说，能同时满足“禁止成员说三道四能够提高团队凝聚力”的团队边界条件和情境边界条件，实际上是一条极其狭窄的范围，在一个开放的社会里，这样的狭窄范围几乎不可能维持这样的团队及其目标任务保持足够的时间。<strong>更可能的情况是“禁止成员说三道四”所提高的不过是虚假的“凝聚力”，也就是管理心理学里所说的“权益从众”，理性的成员总是择机而动，哪怕是愚蠢而保守的芸芸庸众，在基本的趋利避害方面仍然是理性的。</strong></p>
+<p>更简单的方式并非是追求真正提高团队的“凝聚力”，而是<strong>通过恐吓和暴力吓阻来胁迫成员假装有“凝聚力”。</strong>在<strong>利益</strong>和<strong>暴力</strong>的双重作用下，<strong>绝大多数趋利避害的庸众都能理性地做出符合团队话事人预期的选择</strong>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="300" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/" target="cdt-mirror">唐映红：禁止成员说三道四能提高团队的凝聚力吗？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg" alt="640" width="500" height="375"></a></p>
@@ -579,118 +705,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%90-%E6%98%A5%E6%99%9A%E5%B0%86%E7%AA%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E4%B8%8D%E7%94%A8%E4%BD%8E%E4%BF%97%E8%8A%82%E7%9B%AE%E6%B1%A1%E7%82%B9%E6%BC%94/" target="cdt-mirror">新浪娱乐 | 春晚将突出中国梦 不用低俗节目污点演员</a>
-</h2>
-<p><p>新浪娱乐讯 日前，中央电视台召开了2016年春晚语言类节目总体布局会，针对猴年春晚做出规划。据悉，央视台长聂辰席在会上指出，首要的应是突出主题主线和思想内涵，从头至尾贯彻中国梦、“四个全面”战略布局、中国力量、中国精神、中国道路、社会主义核心价值观等主题主线宣传应一以贯之。另外今年语言类节目依然坚持“三不用”原则，暨不用低俗媚俗节目，不用格调不高的节目，不用有污点和道德瑕疵的演员。</p>
-<p>聂辰席现担任总局党组副书记、副局长兼中央电视台分党组书记。此前在央视召开的2016年春晚艺术顾问工作会上，他曾指出，要坚持节俭办晚会、办节目，做到朴素大气，杜绝豪华奢侈、铺张浪费。这次他还指出，要实现思想性、艺术性、观赏性的“三性”统一，展现现实生活，突出类似“9.3”阅兵、生态文明建设等年度大事，用艺术化的方式聚焦这类年度记忆。而在语言节目的总体布局会上，台长聂辰席指出，要充分考虑分会场的文化性和代表性，积极挖掘、创新当地具有代表性的文化，以文化为链接，真正实现“东西南北中，全民大联欢”。</p>
-<p>而除此之外，今年春晚还可能启用分会场，在老大楼一号演播大厅之外开辟第二现场。事实上，在1996年的时候，春晚便首次设置过分会场，当时实现了西安、上海、北京三地的同时直播。而对于猴年春晚，广电总局此前召集了央视、北京、上海、吉林、陕西等电视台的相关人士，为春晚推介节目。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%90-%E6%98%A5%E6%99%9A%E5%B0%86%E7%AA%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E4%B8%8D%E7%94%A8%E4%BD%8E%E4%BF%97%E8%8A%82%E7%9B%AE%E6%B1%A1%E7%82%B9%E6%BC%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E6%99%9A/?category=18271" rel="tag">春晚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E6%9B%B4%E5%B7%AE/" target="cdt-mirror">博谈网 | 中国的经济比你想象的更差</a>
-</h2>
-<p><p>（博谈网记者欧阳剑编译报道）据《彭博社》11月3日报道，中国官方经济数据不可靠几乎成了老生常谈。在李克强成为总理的几年前，他说中国的数字是“人造的”，“仅供参考”。如果一个国家的高层经济政策制定者说数字不可靠，那么，相信他吧。</p>
-<p>但是怎么个不可靠？长期向同一个方向伪造经济数据是很难的，最终，大家会发现，经济比数据显示的累积增长率要更大的多，或更小的多。在2007年，类似的事情曾经发生过，当时亚洲开发银行报告说，中国的GDP比公布的数据要小得多。中国的通胀被低估，导致真实（通胀调整后）的增长数字长期过高。</p>
-<p>在当前的经济环境下，最大的问题是中国是否正遭受着比人们普遍认为的更糟糕的经济衰退。最新的官方数据显示增长率是6.9%，与7%相比几乎没怎么下降。当然，这是与去年同期相比的数字，因此，季与季年率增长（通常美国报告的数字所使用的）将比6.9%略低一点。但只是略低一点。对投资者和政策制定者而言，真正的问题是，这些数据是否是伪造的。</p>
-<p>北京当局有充分的理由将其增长数字向高捏造。在中国，增长几乎成了宗教，是共产党的主要合法性来源之一。如果中国人失业了，他们可能认为这是当地经济放缓或自己的雇主失败造成的，但是如果全国的数字下降，他们可能会认为，上面的当权者搞垮了经济。这对政治稳定可能是危险的。</p>
-<p>此外，中国的领导人有动力要保持资金以外国直接投资的方式流入中国，并防止资金外流。这意味着，要将任何恐慌迹象消灭于萌芽之中。捏造经济数据是防止紧张的投资者撤资的廉价方法。</p>
-<p>于是，基于这些理由，一些人对中国的真正增长率做出了估计。彭博社的首席亚洲经济学家Tom Orlik最近收集了一些独立的数据，并将它们整理在下面的图表中。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/tupian1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/tupian1.png" alt="tupian1" width="550" height="619"></a></p>
-<p>这些数字从Lombard Street的悲观的略超3%到Bloomberg Intelligence的乐观的略低于7%。换句话说，这里存在着很大范围的不确定性。</p>
-<p>但是，我想提出一个比上面的最低数字还要悲观的看法。在读了北京大学教授Chris Balding关于中国金融业的状况报告之后，我认为有可能中国的增长甚至低于3%。</p>
-<p>中国的用电量增长率为1%左右。铁路货运量，虽不稳定，但最近不断下降。这些都是传统上用来衡量重工业输出的指标。这些几乎没怎么增长，意味着中国很多行业已经陷于停顿。</p>
-<p>当然，认为中国牛市的人或许会说，中国只是因为处于从工业向服务业，从浪费的电力使用向更高效使用的转型期间。这可能是事实。但是转型的速度必须要达到令人难以置信的程度才能弥补工业活动的骤然下降。为什么在主要股市泡沫破灭之后，中国的服务业和能源效率忽然暴涨了呢？</p>
-<p>一个原因是政府支出。隐形刺激正在进行中。但是等式的另一头是金融业，最近数月尽管股市大跌，却登记了惊人的增长。</p>
-<p>为什么中国的金融服务业在增长？仅凭贷款的增长是不够的，银行要想登记收入必须要有人支付这些钱给银行。那么，有人给他们支付钱了吗？Chris Balding报告说：</p>
-<p>“一些中国研究人员……比较了企业支付给银行的还贷款和欠银行的金额……（他们的研究结果表明）中国企业仅仅支付他们应该支付的费用的一半。而银行登记的贷款收入则是这些在银行贷款的企业贷款成本的四倍……银行的收入（一直）超过企业财务成本增长的近四倍。”</p>
-<p>换句话说，银行说他们收到的还款额比借款人说的他们支付的金额要高得多。如果Balding的数据可信——当然，这些数据仅仅是黑暗的金融体系的管窥一斑——那么，最近中国金融服务行业飙升的很多一部分可能只是假的。</p>
-<p>当然，中国银行也从“常青”贷款中获取了收入，尽管这部分收入现在是实实在在的，也只不过是将贷款违约的日子推远而已。因此，尽管这部分的GDP不是假的，但是它预示着将来有更糟的事发生。</p>
-<p>总而言之，中国的金融业提出了增长的情况远比我们认为的官方或私人数据都要悲观得多的可能性。当然，时间会证明一切。但是，我不认为中国的经济增长会迅速反弹。至少，不会是真正的反弹。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E6%9B%B4%E5%B7%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%9E%E9%95%BF%E7%8E%87/?category=18271" rel="tag">增长率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE%E6%B0%B4%E5%88%86/?category=18271" rel="tag">数据水分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E9%87%8F/?category=18271" rel="tag">电量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">经济数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">经济泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E4%B8%9A/?category=18271" rel="tag">金融业</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%B7%AF%E9%80%8F-%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8A%93%E5%BC%95%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94-%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E5%AE%9E%E9%99%85%E6%8E%A7%E5%88%B6%E4%BA%BA%E5%A4%B1/" target="cdt-mirror">路透 | 徐翔被抓引连锁反应 宁波中百实际控制人失联</a>
-</h2>
-<p><p>路透上海11月4日 – 中国知名私募基金经理–泽熙投资总经理徐翔被抓后，引起连锁反应。宁波中百(<span><a href="http://cn.reuters.com/investing/quotes/quote?symbol=600857.SS">600857.SS</a></span>)周三公告称，与公司董事长徐峻以及实际控制人徐柏良暂时无法取得联系；而大恒科技(<span><a href="http://cn.reuters.com/investing/quotes/quote?symbol=600288.SS">600288.SS</a></span>)公告称，受徐翔事件影响，公司定向增发计划存在不确定性。</p>
-<p>据新华上周日晚间报导，徐翔因涉嫌通过非法手段获取股市内幕信息等，已被依法采取刑事强制措施。</p>
-<p>宁波中百称，公司已关注到有关徐翔被调查的报导，其中有部分报导内容涉及公司，根据交易所要求，对相关情况作出说明。对于媒体报导中有关徐峻和徐柏良与徐翔的私人关系，目前这两人暂无法联系到，待公司后续取得联系后，及时确认并对外披露。</p>
-<p>公司公告指出，目前公司日常经营管理工作，由公司董事、副总经理兼财务总监黄炎水主持。</p>
-<p>据国内媒体报导，2014年中旬，徐翔资本运作平台泽添投资通过受让股权的方式取得了宁波中百的第一大股东之位。徐柏良持有泽添投资99%股权，剩余1%股权由郑素贞持有，徐柏良是徐翔的父亲，郑素贞为徐翔的母亲。徐峻的另一职务为泽熙投资总经理助理。</p>
-<p>郑素贞担任第一大股东的大恒科技公告显示，郑素贞尚能联系到，其未直接参与公司的经营管理。徐翔在公司不担任任何职务，公司的日常生产经营未受其影响，此后其对公司的日常生产经营及公司的实际控制权也不会产生影响。</p>
-<p>不过大恒科技指出，虽然公司的定向增发方案已获证监会发审委审核通过，但目前尚未收到中国证监会的书面核准文件。因徐翔事件的影响，公司非公开发行股票事宜仍存在不确定性。</p>
-<p>大恒科技本次定增拟以9.691元/股向第一大股东郑素贞发行不超过3.1亿股，募资30亿元人民币，投入智能检测设备产业化项目、光电及激光技术产业化项目，多用途工业数字摄像机技术改造项目等，同时偿还银行贷款及补充流动资金。</p>
-<p>另外，泽熙投资有意参与的上市公司定向增发项目亦出现变数，例如宝莫股份(<span><a href="http://cn.reuters.com/investing/quotes/quote?symbol=002476.SZ">002476.SZ</a></span>)周二开盘前临时宣布停牌，理由是正在筹划调整非公开发行预案。</p>
-<p>6月，宝莫股份宣布定增方案，拟向10名投资者非公开发行4.1亿股，募集32.308亿元收购一龙恒业石油工程技术公司等项目。其中泽熙增煦拟认购6.43亿元，约占募资总额的两成。泽熙增煦是泽熙投资管理的一只私募基金。</p>
-<p>受到徐翔被调查事件的影响，上述三家公司股价近期均出现了不同幅度的下跌，其中宁波中百两天跌幅近10%，大恒科技则是连续两天跌停，宝莫股份周一跌幅逾9%。（完）</p>
-<p>(发稿 林琦; 审校 黄凯)</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%B7%AF%E9%80%8F-%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8A%93%E5%BC%95%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94-%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E5%AE%9E%E9%99%85%E6%8E%A7%E5%88%B6%E4%BA%BA%E5%A4%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">徐翔被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91/?category=18271" rel="tag">私募基金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">股市维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E9%BB%91%E5%B9%95/?category=18271" rel="tag">股市黑幕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91c919%E6%9C%AC%E8%B4%A8%E4%B8%8A%E8%B7%9F%E6%94%92%E7%94%B5%E8%84%91%E6%B2%A1%E5%8C%BA%E5%88%AB/" target="cdt-mirror">【网络民议】C919本质上跟攒电脑没区别</a>
-</h2>
-<p><p><strong>新闻背景：</strong></p>
-<p>11月2日，C919民航客机正式下线。新华社、新京报等官媒称其为<a href="http://news.xinhuanet.com/politics/2015-11/02/c_128386133.htm">“历史性的突破”</a>、<a href="http://epaper.bjnews.com.cn/html/2015-11/03/content_605855.htm?div=-1">“中国又有了一个拳头产品”</a>。然而，法广等外媒则指出<a href="http://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-c919%E6%B0%91%E8%88%AA%E5%AE%A2%E6%9C%BA%E4%B8%BB%E8%A6%81%E6%9C%BA%E4%BB%B6%E7%96%91%E4%B8%BA%E5%A4%96%E5%9B%BD%E4%BA%A7%E5%93%81/">C919民航客机主要机件疑为外国产品</a>，中国所造不过是飞机外壳。</p>
-<p>3日，新浪财经发微博称C919供应商已回应多方质疑：</p>
-<blockquote><p><a href="http://weibo.com/finance" target="_blank">新浪财经</a>： <i title="微博机构认证"></i> 【C919供应商回应质疑：波音很多部件也不是自己生产】由于引入了众多外资技术方合作，对C919自主研发能力质疑一直存在。C919供应商伊顿中国区总裁周涛认为，主要是外界对于民机产业发展模式有误解。核心竞争力并不只是自己生产了飞机多少部件，而要看其整体项目管理能力。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-03-at-%E4%B8%8B%E5%8D%883.11.42.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-03-at-%E4%B8%8B%E5%8D%883.11.42.png" alt="Screen Shot 2015-11-03 at 下午3.11.42" width="536" height="541"></a></p></blockquote>
-<p><strong>以下为中国数字时代收集自新浪网友评论：</strong></p>
-<p><a href="http://weibo.com/n/%E9%AC%BC%E5%88%802008" target="_blank">鬼刀2008</a>： 看看组装的<em>C919</em>：关于自主研发的C919：发动机-GE；辅助动力APU-美国霍尼韦尔；发动机反推-法国埃塞；飞行控制系统-美国派克宇航；气象雷达-美国柯林斯；电源系统-美国霍尼韦尔；驾驶舱控制与仪表照明-美国伊顿；燃油系统-美国派克宇航；</p>
-<p><a href="http://weibo.com/u/1781697581">四个龙洞上</a>：本质上跟攒电脑没区别</p>
-<p><a href="http://weibo.com/u/1768465842">Eric_ning</a>：可以骂，但是不可否认组装也是进步。逼不是谁都可以装的那么高大上，装的那么有逼格。一味的骂，不如想想除了骂，还能够做些什么。</p>
-<p><a href="http://weibo.com/u/1616953331">燕影晚霞</a>：别加个自主研发不就行了</p>
-<p><a href="http://weibo.com/mrzeng">豫鲁山翁</a>：让领导人先坐</p>
-<p><a href="http://weibo.com/1941549175" target="_blank">闲逛的书生</a><i title="微博达人"></i>：呵呵，现在出来解释了，大家吐槽不是因为你用了多少外国技术，配件，苹果那么牛，他也用了很多其他国家的东西，关键在于你们的宣传，模仿的很多，借用的很多，却不谦虚，大言不惭，这个习惯不好。。。。</p>
-<p><a href="http://weibo.com/1989379537" target="_blank">想起讪讪</a>：只要有一天采购不到发动机，这飞机就成大号装饰品了。到时再接着吹完全自动研发的大灰机吧。</p>
-<p><a href="http://weibo.com/1725596140" target="_blank">淤泥巴</a>：说的那么叼，和小米有什么不同？</p>
-<p><a title="西西里的扯淡传说" href="http://weibo.com/u/5616589668" target="_blank">西西里的扯淡传说</a>：看着舔菊人的言论真好笑，集全国百姓血汗，造辆现在不是急需的飞机就特么开始YY幸福了，照舔菊人的话来讲，全世界就没有不是的君主与国家，Isis也是好样的，用全百万人的血肉去抗击美国</p>
-<p><a href="http://weibo.com/1410192683" target="_blank">Samson-SAIF</a>：项目管理也算核心竞争力<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"></p>
-<p><a href="http://weibo.com/1300254645" target="_blank">八分钟后的黑暗</a>：请那些说广大提出质疑的网友是喷子的五毛们，先乘坐国产大飞机几年，为国产飞机事业做出贡献。另外也要鼓动你们的主子去坐。这可是和新洲一样的荣耀啊～</p>
-<p><a href="http://weibo.com/1439741312" target="_blank">危险的大哥哥</a>：不自己生产，和自己无法生产是两个截然不同的概念。革命尚未成功，同志仍需努力。</p>
-<p><a href="http://weibo.com/3514599951" target="_blank">白沙_v6</a>：说白了，波音采用外国部件是懒得自己生产，C919是没能力自己生产。谁不希望祖国牛逼起来，但是我们更希望看到一种积极、谦虚、务实、进取的态度。</p>
-<p><a href="http://weibo.com/1682488954" target="_blank">海恒亮</a>：买组装电脑主要是看装机小哥的良心和手艺，我懂了。</p>
-<p><a href="http://weibo.com/ly4978" target="_blank">sy刘杨</a><i title="微博达人"></i>：国人的喷只是对长期以来的，靠一个卫星，一辆汽车，一块金牌，一架飞机来提升所谓民族自豪感的洗脑宣传的强烈反感罢了！是的，我就是认为免费医疗比造飞机重要！你格局高，你把你们的免费医疗给我们呗，你格局高把你们的财产公开一下呗！</p>
-<p><a href="http://weibo.com/2211708401" target="_blank">Terrison</a><i></i>：想不到政府、国企、媒体都是这么毫无廉耻？这就是我们的国产大飞机C919？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/83d3fdf1gw1exnm85hhmtj20go0nmwit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/83d3fdf1gw1exnm85hhmtj20go0nmwit.jpg" alt="83d3fdf1gw1exnm85hhmtj20go0nmwit" width="440" height="623"></a></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91c919%E6%9C%AC%E8%B4%A8%E4%B8%8A%E8%B7%9F%E6%94%92%E7%94%B5%E8%84%91%E6%B2%A1%E5%8C%BA%E5%88%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%88%AA%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">C919民航飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%9C%BA/?category=18271" rel="tag">国产大型客机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">大飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%93%81/?category=18271" rel="tag">高铁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-c919%E6%B0%91%E8%88%AA%E5%AE%A2%E6%9C%BA%E4%B8%BB%E8%A6%81%E6%9C%BA%E4%BB%B6%E7%96%91%E4%B8%BA%E5%A4%96%E5%9B%BD%E4%BA%A7%E5%93%81/" target="cdt-mirror">法广 | C919民航客机主要机件疑为外国产品</a>
-</h2>
-<p><p>中国自主制造的C919民航客机第一家成功总装完毕，等待试飞，引起全球航空业注目。该飞机最大航程超过5500公里，适用中国国内航空市场，也能够飞进国际航线。但C919虽然是中国自主制造，可是重要部件均为外国技术与产品。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/C919%E5%8D%B3%E5%B0%86%E9%97%AE%E4%B8%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/C919%E5%8D%B3%E5%B0%86%E9%97%AE%E4%B8%96.jpg" alt="C919即将问世" width="550" height="310"></a><br>
-中国国产大型客运飞机C919空中模型</p>
-<p>据太阳报报导，中国研制的首架C919型客机，在上海浦东厂房完成总装后亮相，最快明年首次试飞。客机最多可载客一百九十人，官方报告飞机成批生产尚且没有计划，但已被订购517架。</p>
-<p>据媒体分析透露，中国制造C919客机与欧洲空中客车A320以及波音737近似，引擎仍为进口，因此只是组装客机。还有分析说，该款客机有望升级改装成解放军新一代预警机或反潜巡逻机。</p>
-<p>C919是中国首款按照最新国际适航标准研制的民航飞机，2008年由商用飞机公司开始研制，基本型混合级有158座，经济舱有168座位，最大航程可达5500公里。</p>
-<p>C919飞机预计要试飞三年。中国方面称目前已接到21客户共订购517架，大部分来自中国国内航空。虽是中国研发，引擎及导航、通讯等设备全是进口，采用的引擎由美法合资企业生产。</p>
-<p>中国网上对C919飞机喜忧参半，有网民担心飞机之所以不使用国产发动机，与国外品牌、中国生产的汽车一样，都是组装。而国产客机新舟60曾在各地发生多起空难。一些网民担忧C919安全是否符合标准。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-c919%E6%B0%91%E8%88%AA%E5%AE%A2%E6%9C%BA%E4%B8%BB%E8%A6%81%E6%9C%BA%E4%BB%B6%E7%96%91%E4%B8%BA%E5%A4%96%E5%9B%BD%E4%BA%A7%E5%93%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%88%AA%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">C919民航飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%9C%BA/?category=18271" rel="tag">国产大型客机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -702,7 +716,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -712,5 +726,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%8
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

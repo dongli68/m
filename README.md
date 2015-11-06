@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%BE%8E%E5%8A%9E%E7%94%B5%E5%8F%B0%EF%BC%8C%E6%9A%97%E6%B8%A1%E9%99%88%E4%BB%93%E5%8F%97%E9%98%BB/" target="cdt-mirror">美国之音 | 中国在美办电台，暗渡陈仓受阻</a>
+</h2>
+<p><p>作者：林森</p>
+<p>华盛顿—路透社的报道披露，美国首都华盛顿地区一家地方电台持续播出亲中国立场的内容。报道说，这家电台已被中国掌控，另外中国正在世界各地建设这样的隐蔽电台网络。美国司法部和联邦通讯委员会已经对此案展开调查。相关领域的专家表示，此案的关键是透明度的问题；而熟悉这家地方电台运作的政府官员则表示，她所不能接受的是这家地方电台的虚伪和不诚实。</p>
+<p>路透社的报道说，美国首都华盛顿近郊维州劳登郡地方电台播出的许多节目内容都是中国官方媒体中国国际广播电台（CRI）提供或制作的。报道还披露，美国十多个城市都有与CRI相关的广播电台网络存在。提到的城市包括华盛顿、费城、波士顿、休斯顿和旧金山。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/05641786-AD10-4365-B9A5-5B64EA68F159_w640_r1_s_cx0_cy12_cw0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/05641786-AD10-4365-B9A5-5B64EA68F159_w640_r1_s_cx0_cy12_cw0.jpg" alt="05641786-AD10-4365-B9A5-5B64EA68F159_w640_r1_s_cx0_cy12_cw0" width="550" height="309"></a><br>
+华盛顿美国司法部总部大楼 (美国之音)</p>
+<p>中国官方媒体《环球时报》刊登的一篇社评反唇相讥道：美国的地方电台“……只是播出了CRI的节目。这样的合作在世界各国媒体之间不知道每天要发生多少起。” 社评还说：“《纽约时报》等美国主流媒体动不动就对外收费，卖给外国机构很多版面，刊登宣扬那些国家价值观的文章。”</p>
+<p>表面上来看，《环球时报》社评所说的没错，美国主要报纸《华盛顿邮报》就卖给中国官方英文报纸《中国日报》版面，出版发行一份叫做《中国观察》（ChinaWatch）的副刊。中国中央电视台也在美国落地，并且在首都华盛顿建立了北美分台，并且雇佣了美国当地新闻从业人员，在美国制作、播出节目。</p>
+<p>美国拥有世界上最自由和多元化的新闻体系，而且言论和新闻自由是美国的主流价值观和立国之本。那么，为什么中国国际广播电台的案例会引发媒体的关注，直至美国司法和行政监管机构的调查呢？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/677AADC5-4834-433F-B285-8F0B34EFF801_w268.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/677AADC5-4834-433F-B285-8F0B34EFF801_w268.jpg" alt="677AADC5-4834-433F-B285-8F0B34EFF801_w268" width="268" height="357"></a><br>
+明尼苏达大学教授珍·科特里(本人提供)</p>
+<p>珍·科特里（Jane Kirtley）是明尼苏达大学法学和新闻跨系教授，专门从事媒体法规的研究与教学工作。科特里对美国之音说，中国国际广播电台案例和中国其它媒体在美国运作活动之间是有区别的。</p>
+<p>科特里说：“我认为，两者之间的区别在于：首先，这起案例涉及的是广播电台，而中国政府在这些电台中占有相当大的拥有权。根据美国联邦通讯委员会的规定，外国实体不能对美国广播电视经营许可证占有多数和主要股权。中国中央电视台和其它外国电视媒体在美国的经营主要是有线电视，而由于各种历史的原因，有线电视的监管和无线电台的监管是非常不同的。简单地说，与有线电视相比，美国联邦通讯委员会在给广播媒体经营许可方面拥有更多的管辖权。”</p>
+<p>科特里解释说，这里主要是一个透明度的问题。美国联邦通讯委员会和公众必须全面了解这些电台经营许可所涉及的拥有权利益分配信息。中国国际广播电台所涉及的另一个问题是：联邦通讯委员会规定，如果外国政府的代理人要在美国进行影响公共舆论和政策的活动，他们必须遵照美国《外国代理人登记法》的规定进行登记注册。而在披露出的CRI案例中，CRI的代理人似乎没有这么做。</p>
+<p>至于路透社报道的维州劳登郡地方电台WCRW原是一家发射功率五千瓦的小电台。2005年，一家叫做“波多马克广播”（Potomac Radio LLC）收购了这家电台，并于2009年在劳登郡增建了三座发射塔，功率达到五万瓦，其信号也覆盖了整个大华盛顿地区。后来的调查发现，这家电台的广播时段已经全部被中国国际广播电台和它的子公司G&E租用。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/8840C512-A53F-40C7-B190-C4A513EEA227_w268.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/8840C512-A53F-40C7-B190-C4A513EEA227_w268.jpg" alt="8840C512-A53F-40C7-B190-C4A513EEA227_w268" width="268" height="389"></a><br>
+维州利斯堡市副市长凯莉•伯克(本人提供)</p>
+<p>维州利斯堡市副市长凯莉•伯克（Kelly Burk）担任过劳登郡议员，当时曾经参与审理“波多马克广播”的扩建申请。伯克接受美国之音采访时说，案子所涉及的中国电台以及与其合作的劳登郡地方电台的行为是否违法，这需要司法部门和联邦通讯委员会来裁定。她所不能接受的是“波多马克广播”在申请时的不诚实。</p>
+<p>伯克说：“我所不能接受的是他们的虚伪和不诚实，他们给我们提供不实的信息。我当时能够看出来他们的申请有不可告人的目的，他们不愿意将真实意图摆在桌面上。他们甚至还找来形形色色的人来作证，说什么能够拥有这样一个新的地方电台是件多好的事情。其实他们利用和欺骗了这些作证的人，他们从来就没有利用这家地方电台广播当地新闻的想法。他们知道只有这样说才能在郡议会这里过关。”</p>
+<p>伯克对美国之音说，自己当时投的是反对票。尽管当时已经有传言说中国的电台要通过这些发射塔广播节目，但是当时只是传言。她的反对票主要只能基于发射塔的利用和位置。</p>
+<p>明尼苏达大学教授科特里表示，这里不只是针对中国媒体制作的节目。任何个人或个体在申请获得经营许可时，所必须说明的重要问题之一就是：你要播出什么节目？你的节目是否在当地制作？你要播放什么样的音乐？你的节目是公共事务内容，还是娱乐内容？简单地说，节目内容和来源必须是透明的？</p>
+<p>科特里教授和伯克副市长在接受美国之音采访时都举了美国之音的节目作为类比：美国之音毫不讳言自己是美国政府出资兴办的媒体。</p>
+<p>《华盛顿邮报》为《中国日报》出版的《中国观察》副刊，在显赫位置明确说明：“此为《华盛顿邮报》收费副刊”。</p>
+<p>明尼苏达大学的科特里教授曾经做过广播媒体许可代理律师。科特里说：“此案可能还有补救的办法。那就是重新申请，合法地获得经营许可。不过从目前的情况来看，他们还没有这样做。”</p>
+<p>科特里说，此案所涉及的各方是否违法或者违规，这要由司法部和联邦通讯委员会分别作出裁定。“如果有人在许可证申领时，对其资金来源和公司所有权问题有实质性的弄虚作假行为，这可以成为吊销其许可证或其它惩罚措施的依据。但是，《外国代理人登记法》不是联邦通讯委员会的管辖权限，而是要由美国司法部来追究。鉴于目前案件刚刚开始调查，目前尚无法对最后结果做任何推测。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%BE%8E%E5%8A%9E%E7%94%B5%E5%8F%B0%EF%BC%8C%E6%9A%97%E6%B8%A1%E9%99%88%E4%BB%93%E5%8F%97%E9%98%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">对外宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%AE%BE%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF12339/" target="cdt-mirror">端传媒 | 全民防谍？中国设间谍举报热线12339</a>
 </h2>
 <p><p>11月1日，即《中华人民共和国反间谍法》颁布实施一周年之际，吉林省国家安全厅发出通告，要求公民协助“防范、制止和惩治间谍行为”，并公布了间谍行为或线索“全国统一”举报电话“12339”。</p>
@@ -672,39 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C-%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/" target="cdt-mirror">BBC| 习马会即将举行 台湾朝野反应不一</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104053916_taiwanese_protesters_976x549_epa_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104053916_taiwanese_protesters_976x549_epa_nocredit.jpg" alt="主要反对党民进党发言人郑运鹏发表5点声明表示，两岸议题攸关国家利益，应超越政党考量，不应选举操作。" width="660" height="371"></a><p>主要反对党民进党发言人郑运鹏发表5点声明表示，两岸议题攸关国家利益，应超越政党考量，不应选举操作。</p></div>
-<p><strong>台湾总统府周二（11月3日）晚突然宣布，台湾总统马英九周六（7日）将在新加坡与中国国家主席习近平会面，在台湾引起朝野各方不同反应。</strong></p>
-<p>将代表主要反对党民进党参选明年一月总统选举的该党主席蔡英文质疑，国民党选在此时举行“马习会”是否意图影响选举。她还说，国民党每次到了大选前夕，都将两岸议题当成政治操作，不会获得台湾人民的认同。</p>
-<p>民进党发言人郑运鹏此前也发表5点声明表示，两岸议题攸关国家利益，应超越政党考量，不应选举操作。他还质疑马英九临出发前突袭告知民众的做法，指马英九在竞选连任是曾承诺4年内决不与中方领导人会面，现在却有仓促黑箱安排会面，并要求马英九必须向台湾民众交代清楚。</p>
-<p>而身兼国民党主席的国民党总统参选人朱立伦则表示，“总统事前有跟我们谈到过程”。他说，这对于两岸关系是非常重要的里程碑，在九二共识基础之上，两岸关系能进一步发展，更进一步奠定两岸互信机制，降低过去敌对状况，他还呼吁绿营不要逢中必反。</p>
-<p><strong>各方反应</strong></p>
-<p>至于另一位总统参选人、亲民党主席宋楚瑜则表示，亲民党一贯立场是“对等、尊严、透明、参与、监督”，不反对两岸领导人于第三地会面，但他同时说，政府应向国会、朝野政党及全国民众清楚说明会面沟通协调完整过程及预期达到目标。</p>
-<p>宋楚瑜还说，希望马英九习近平藉见面机会共同向台湾人民及中国大陆百姓道歉，共同承担两岸祖辈造成的历史创痛，化解台湾人民被日本奴役牺牲及两岸对立亲人分离流离失所的悲痛。</p>
-<p>台湾行政院长毛治国及总统府秘书长曾永权周三（4日）上午至立法院与院长王金平就此进行关门会议，而一向支持台独的台联党立委当面向毛治国抗议，他们说马英九行为“偷偷摸摸”。</p>
-<p>王金平则表示，他事先并没有被告知有关“马习会”的消息，直到周二近午夜时接到记者电话查询时才知道此事。不过，王金平在与毛治国及曾永权举行会议后也发表声明表示，国会支持两岸和平及区域稳定对话，但同时呼吁两岸领导人会面须秉持对等尊严。</p>
-<p>曾永权在与王金平举行会议后重申，马习将就＂巩固两岸和平，维持台海现状＂交换意见，会面后不会签订任何协议，不会发表联合声明，马在当天往返，详细情形马英九本人将在周四上午举行记者会说明。</p>
-<p>曾永权还表示，马英九从新加坡回台后若立法院邀请，将到立法院就“马习会”的情况进行报告。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104050518_legislative_yuan_in_taipei_976x976_reuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104050518_legislative_yuan_in_taipei_976x976_reuters_nocredit.jpg" alt="立法院外聚集着示威抗议者。这些示威者包括许多抗议马英九与中国签定“黑箱”服贸协议的“太阳花运动”成员。" width="550" height="550"></a><p>立法院外聚集着示威抗议者。这些示威者包括许多抗议马英九与中国签定“黑箱”服贸协议的“太阳花运动”成员。</p></div>
-<p><strong>抗议人群</strong></p>
-<p>在曾与王在立法院内进行关门会议的同时，立法院外聚集着示威抗议者。这些示威者包括许多抗议马英九与中国签定“黑箱”服贸协议的“太阳花运动”成员。</p>
-<p>在“太阳花运动”时曾占领立法院的黑色岛国青年阵线说，他们再度于立法院外集结是要“以行动控诉这个全身上下皆是谎言的总统”。</p>
-<p>他们指的谎言，是马英九在四年前竞选连任时曾说他若获连任在四年总统任内“絶对不会跟大陆领导人见面”，黑岛青在其网页上也贴上了马当时的这段说话录像。</p>
-<p>虽然总统府称习马会是要“巩固两岸和平，维持台海现状”，但示威者质疑马英九作为一个已失去民意支持且即将卸任总统，刻意安排与习见面的真正目的。</p>
-<p>这些在总统府、行政院、立法院前的示威者举出的标语包括了“马英九，台湾不是你的筹码”、“中台关系不是马说了算”、“流亡政府自取灭亡”等等。</p>
-<p>示威者包括了许多即将参与明年立法院改选的政党，其中像是自由台湾党及时代力量等的新兴政党的一些成员，都曾是太阳花运动的参与者。</p>
-<p>这些示威者则不包括来自民进党的成员，民进党总统参选人蔡英文目前在总统选举的民调中大幅领先，她已表示，其两岸政策是要“维持现状”。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C-%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">两岸问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86%E7%AB%8B%E6%B3%95%E9%99%A2/?category=18271" rel="tag">占领立法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9%E5%85%9A/?category=18271" rel="tag">反对党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">国家利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -716,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -726,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

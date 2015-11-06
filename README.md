@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF%EF%BD%9C%E9%A6%96%E6%89%B9594%E5%90%8D%E7%BD%91%E5%AA%92%E8%AE%B0%E8%80%85%E8%8E%B7%E8%AE%B0%E8%80%85%E8%AF%81%EF%BC%9A%E5%95%86%E4%B8%9A%E7%BD%91%E7%AB%99/" target="cdt-mirror">中青在线｜首批594名网媒记者获记者证：商业网站暂不在列</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E9%B2%81%E7%82%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E9%B2%81%E7%82%9C.jpg" alt="鲁炜名片" width="455" height="341"></a><br><em>（网络图片）</em></p>
+<p>11月6日，国家互联网信息办公室为首批符合资质的14家新闻网站594名采编人员发放了记者证。国家网信办有关负责人表示，商业网站不具有新闻信息采编权，暂时不考虑在商业网站核发新闻记者证。</p>
+<p>2014年10月，国家新闻出版广电总局和国家互联网信息办公室联合发布了《关于在新闻网站核发新闻记者证的通知》，正式启动了新闻网站核发新闻记者证的工作。记者获悉，申请新闻记者证的网站，必须具有国家互联网信息办公室核发的一类新闻信息服务资质，国家网信办将统筹考虑网站影响力、股权构成、采编人数以及是否受到主管部门处罚等因素，确定发证网站名单，按照成熟一批、核发一批的原则，及时核发记者证。</p>
+<p>今天，首批获发记者证的是14家中央主要新闻网站，包括人民网、新华网、中国网、国际在线、中国日报网、中国网络电视台、中国青年网、中国经济网、中国台湾网、中国西藏网、光明网、中国广播网、中国新闻网、中青在线等，共计594名记者。</p>
+<p>国家网信办有关负责人称，在新闻网站发放的新闻记者证，与传统媒体发放的记者证相同，具有同等的权利，也具有同等的责任和义务。主管部门对传统媒体和新闻网站的管理，对传统媒体记者和今后新闻网站记者的管理，是一个标准，一个要求。</p>
+<p>该负责人还表示，目前，商业网站不具有新闻信息采编权，暂时不考虑在商业网站核发新闻记者证。该负责人称，正着手建立网络新闻信息从业人员职业资格准入制度，通过该制度，来规范和管理网站（包括商业网站）采编人员，以保证正确的舆论导向。</p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C2014%E7%89%88%E8%AE%B0%E8%80%85%E8%AF%81%E8%A6%81%E6%B1%82%E7%94%B3%E9%A2%86%E4%BA%BA%E7%AD%BE%E7%BD%B2%E4%BF%9D%E5%AF%86%E5%8D%8F%E8%AE%AE/">新华网｜2014版记者证要求申领人签署保密协议 </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%A6%81%E6%AD%A2%E8%AE%B0%E8%80%85%E6%9C%AA%E7%BB%8F%E6%9C%AC%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E6%89%B9%E8%AF%84%E6%8A%A5%E9%81%93/">【真理部】禁止记者未经本单位同意开展批评报道</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%96%B0%E9%97%BB%E4%BB%8E%E4%B8%9A%E4%BA%BA%E5%91%98%E4%B8%BA%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93/">财经网 | 广电总局：禁止新闻从业人员为境外媒体撰稿</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A%E9%97%AD%E5%98%B4%EF%BC%81%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E5%87%86%E8%AF%B4%EF%BC%81/">东网｜东步亮：闭嘴！什么都不准说！</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/01/%E5%8D%97%E9%83%BD%E5%91%A8%E5%88%8A-%E8%AE%B0%E8%80%85%E8%AF%81%E7%B4%A7%E7%AE%8D%E5%92%92/">南都周刊 | 记者证紧箍咒</a></li>
+</ul></blockquote>
+<p><strong>附：网信办对新闻网站记者<a href="http://politics.gmw.cn/2015-11/06/content_17635825.htm">提出的要求</a></strong></p>
+<blockquote><p>一要政治过硬。坚定理想信念，深入宣传贯彻总书记的治网理念，在多元复杂的舆论环境中保持定力，准确把握和宣传党的理论和路线方针政策，广泛传播总书记治国理政方略和中央的重大决策部署，始终与党中央保持高度一致，不断推出更多更好的主旋律宣传精品。</p>
+<p>二要勇于担当。记者同志们一定要担当起唱响主旋律、传播正能量的责任，旗帜鲜明地宣传主流声音，理直气壮地批驳错误观点，把党和政府的声音传播好，把社会进步的主流展示好，努力成为传播网络正能量的主力军。</p>
+<p>三要贴近群众。要及时、全面、准确、生动地向人民群众宣传党的理论和路线方针政策，推动其转化为人民群众的自觉行动；创新改进网上宣传，让群众爱听爱看、产生共鸣，充分发挥正面宣传鼓舞人、激励人的作用。</p></blockquote>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF%EF%BD%9C%E9%A6%96%E6%89%B9594%E5%90%8D%E7%BD%91%E5%AA%92%E8%AE%B0%E8%80%85%E8%8E%B7%E8%AE%B0%E8%80%85%E8%AF%81%EF%BC%9A%E5%95%86%E4%B8%9A%E7%BD%91%E7%AB%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%9C%9F%E8%83%B8%E8%A5%9F%EF%BC%9A%E5%BF%AB%E5%BC%80%E4%B8%AA%E5%BE%AE%E5%8D%9A%EF%BC%8C%E5%88%AB%E8%AE%A9%E6%96%87%E5%8C%96/" target="cdt-mirror">【网络民议】广电真胸襟：快开个微博，别让文化部一个人受</a>
 </h2>
 <p><p><strong><a href="http://news.sina.com.cn/c/2015-11-06/doc-ifxkniur2918625.shtml">国家广电总局副局长：能容忍批评才是真胸襟</a></strong></p>
@@ -690,26 +717,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E5%90%B4%E6%88%88%EF%BC%9Ac919%E4%BD%BF%E5%85%94%E5%AD%90%E9%80%86%E5%A4%A9%E4%BA%86%E5%90%97%EF%BC%9F/" target="cdt-mirror">东网 | 吴戈：C919使兔子逆天了吗？</a>
-</h2>
-<p><p>实在不知道中国兔粉对本国一些工业成就何以就敢用“逆天”一词。日常生活中使用的重大不重大的科技产品无一是中国人发明的，仅仅是在西方又有进步的情况下，终于造得出西方强国几十年前就掌握的一些高难度产品，而且能造一个并不等于产业成功，如果这就“逆天”，那么蒸汽机、电、汽车、飞机和计算机发明时，是不是把宇宙逆了几个来回？</p>
-<p>我知道，他们指的“逆天”，一定程度上是指舍得砸钱，能一下子在这么多领域都井喷式地下蛋，可是这种层次的竞争最应当比的是谁的项目多吗？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bkncn-20151105000315142-1105_05411_001_01p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bkncn-20151105000315142-1105_05411_001_01p.jpg" alt="bkncn-20151105000315142-1105_05411_001_01p" width="608" height="434"></a></p>
-<p>可是，中国整个政权和政权影响下的主流社会，航空航天等科技工业成就已堪比自信心的命根，因而前日国产干线客机C919下线，依然掀起了一片“人山人海、锣鼓喧天、红旗招展、鞭炮齐鸣”的盛况，甚至不忌刘翔昙花一现的经历请他助威。</p>
-<p>不过人们还是注意到该机除机体结构等四个项目外，其馀十馀项子系统和关键部件全部从西方采购。对此，官方和工业党信徒提供了全套的辩解：1，总体设计、气动外形、系统集成、管理和营销均为自主；2，外购项目全部以国内市场引诱或逼迫外方成立了合资企业，必须提供技术转让或合作，使中方能够掌握，即所谓高铁经验；3，当然还少不了阅读量超10万的一些所谓技术贴，比如鼓吹机身大梁的制造本身就是一套高档产业体系，而全球四万吨级以上超大型模锻液压机也就美、法、俄各两台加瑞典1台，而中国已有全球最大和最新的两台8万吨级大压机。</p>
-<p>对辩解1，这四方面当然都是任何合作都学不来的关键，要想充当系统级产品的总承包商，必须自主掌握，关键子系统的全球采购也是全球化时代的高效途径，但别忘了中国眼下一面融入和享受全球化，一面正与西方在意识形态、安全利益和游戏规则上渐行渐远，只是双方在民航技术领域尚以利益为重，没有撕破脸。按中国执政党“帝国主义亡我之心不死”的论断和“独立自主”的本色，虽然是民用，但大飞机这样重大的产业如此严重的依赖西方供应关键设备，是迟早要出问题的；</p>
-<p>辩解2似乎正是辩解1问题的解决之道，说白了就是卸磨杀驴。可高铁是一次投资极大，建成后对市场适应性极差的固定设施，在全世界范围内原本就非交通必需，只有用于客流饱满的大城市间高密度客运才有效益，即使在中国全国推广也绝非经济良策。西方厂商徒有技术，缺少用户，当然能被中国杀鸡取卵，但一来相关西方巨头本来就不依赖这一项技术生存，一次性交易并不吃亏，二来中国这一榨取西方技术的模式换个领域就可能行不通。</p>
-<p>比如C919采用的美国通用电气LEAP发动机性能先进，但同时也用于该机型竞争对手波音737和空客A320的最新改型，而后两者已经迅速投产，C919下线的却只是样机，还需要大量试验，获取美国适航证的前景也非常黯淡。更何况，不管与通用电气怎样合作，中国掌握LEAP发动机技术的道路还几乎看不到头，这和高铁上的电动机完全是两个量级的产品。</p>
-<p>辩解3就更是工业党中的一种高度弱视患者——重机痴，除了将同行此前猛吹中国掌握了3D打印大型航空金属部件的技术，一举摆脱航空铸锻落后困境的牛皮撕破，无视中航工业某杂志近年对航空铸锻企业积弊和困境的微弱揭示，还完全以个别重型设备代替行业水平。按他的说法，美国那两台尚是50年代老货，法国的则是70年代购自前苏联，那美国是如何靠两台破烂货保持今天在航空业的地位的？俄罗斯又为何没能力挽狂澜？而他对中国下的结论“小白兔造大飞机，即将变得如白菜一样漫天乱窜”，除了哄骗一群幼稚的民族主义狂热学生，又有几分可信？</p>
-<p>当然，即使理性的工业党也仍然将焦点放在C919“任重道远”的国产化率指标上。其实，国产化率已达90%的一些航空产品，中国至今仍谈不上独立研发。问题在于，一个好大喜功、自欺欺人登峰造极，自绝于外部世界、四面树敌，对自己到底落后多少都不敢公开的国家，是不可能真正焕发出自主突破的活力，并在这种产品上建立起世界范围的技术声誉的，没有这个就没有真正的大飞机可言。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E5%90%B4%E6%88%88%EF%BC%9Ac919%E4%BD%BF%E5%85%94%E5%AD%90%E9%80%86%E5%A4%A9%E4%BA%86%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%88%AA%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">C919民航飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%9C%BA/?category=18271" rel="tag">国产大型客机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">大飞机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91/?category=18271" rel="tag">自主研发</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9E%E6%9C%BA/?category=18271" rel="tag">飞机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -721,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -731,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%8
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

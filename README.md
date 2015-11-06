@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%98%93%E4%B8%93%E6%A0%8F-%E9%99%95%E8%A5%BF%E5%AD%95%E5%A6%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%BC%95%E4%BA%A7%E5%90%8E%E7%9A%84%E8%BF%99%E4%B8%89%E5%B9%B4/" target="cdt-mirror">网易专栏 | 陕西孕妇被强制引产后的这三年</a>
+</h2>
+<p><p>年前，陕西孕妇冯建梅被强制引产，她和死胎躺在病床上的照片轰动世界。被引产的后遗症致使冯建梅两年多无法受孕，“被计生人员按在床上打针”的噩梦常把她惊醒。所幸，冯建梅最终再产女婴，“感觉那个孩子又回来了”。只是政府当初的承诺并未兑现，村民对冯建梅“把事情闹大”的不解，让夫妻二人有些无奈。如今时光境迁，对于丈夫邓吉元所在的鱼坪村来说，计生专员开始为全面放开二胎的政策犯愁，“怎样说服村民生二胎呢，总不能强迫吧？”</p>
+<p>文|冯存健</p>
+<p>2015年11月1日下午，陕西省安康市平利县街头一处商家促销抽奖活动中，冯建梅和她9岁的大女儿邓欣雨挤在成堆的人群中，拿着一张抽奖券等待着结果。“说不定还能中个冰箱呢”，她对身边的大女儿半开玩笑说。</p>
+<p>这一天，距离那个婴儿胎死腹中已经整整41个月。</p>
+<p>活动地点不远处的一幢简易楼便是冯建梅如今的住处。她在此租了一个90平左右毛坯三居室，一个月租金近600元。大女儿邓欣雨在平利县城关小学读三年级，“女儿成绩一般，愁呢。”</p>
+<p>冯建梅现今不再工作，全职照顾两个女儿让她感慨“有些累”，但也幸福。今年9月1日，小女儿邓思仪在平利县医院出生，让全家人着实高兴不已。“我感觉那个孩子又回来了。”说这句话的时候，冯建梅望着脚下的水泥地板，依然面带微笑。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/uMX3Z.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/uMX3Z.jpg" alt="uMX3Z" width="342" height="464"></a></p>
+<p>冯建梅朋友圈中发布的小女儿邓思仪照片，配文“我家二女儿”。照片经冯建梅同意使用。</p>
+<p>2012年6月2日，因未能按时缴上曾家镇计生部门开出的4万元“押金”，怀孕7个半月的冯建梅被蒙着脑袋带至医院强制引产，一条小生命就此夭折，冯建梅甚至能感受到死前婴儿长达4个小时的腹中挣扎。</p>
+<p>接受采访的几天前，躺在床上休息的冯建梅在手机上看到了中共中央宣布“全面实施一对夫妇可生育两个孩子政策”。“如果早几年放开，那个孩子已经3岁多了。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/61e04755gw1exqizkhwtrj20dw09a0u7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/61e04755gw1exqizkhwtrj20dw09a0u7.jpg" alt="图为2012年6月，被强制引产后的冯建梅和身边死去的女婴。照片被曝光后引起全球关注，中国计生部门的恶性执法被大规模讨伐。（网络图片）" width="500" height="334"></a><p>图为2012年6月，被强制引产后的冯建梅和身边死去的女婴。照片被曝光后引起全球关注，中国计生部门的恶性执法被大规模讨伐。（网络图片）</p></div>
+<p>不过，小女儿的最终降临，已让冯建梅的心结慢慢解开。从2013年和丈夫邓吉元计划“再要一个孩子”，到2014年11月最终怀孕，中间经历了近两年的时间。因强制引产带来的后遗症，冯建梅一度无法正常受孕，这也让她在那段时间性情有些暴躁。</p>
+<p>而一直陪伴她的丈夫，33岁的邓吉元，如今仍在距离妻子住处约50公里外的老家陕西安康市镇坪县曾家镇鱼坪村工作。镇坪县地处陕西、湖北、重庆三地交界的大巴山腹地，是陕西最南端的县城，自然环境优美，盛产玄参等名贵药材。“山上的药材现在少多了”，当地村民无不惋惜。</p>
+<p>因懂得点发电的技术，邓吉元被聘为一家私人水电站的站长，月薪5000元。“也就是勉强能够养家”，邓吉元笑着说。这位性格温顺的普通男子，曾因不满政府处理强制引产事件的拖沓态度“一度想杀人”，摆脱层层监控连夜逃往北京“要说法”，后在母亲的劝说下回归；也曾因接受德国媒体采访被骂“卖国贼”，但也拒绝了美国大使馆给予的10万美元资助。“怕收了它的钱，要被控制了”，邓吉元回忆当时的情形说。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/55d17dd36e843b08f8312c51d723ffd2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/55d17dd36e843b08f8312c51d723ffd2.jpg" alt="55d17dd36e843b08f8312c51d723ffd2" width="477" height="300"></a><p>2012年6月，有“村民”在镇平县医院门口打横幅称“痛打卖国贼，驱出曾家镇”。彼时，邓吉元接受了一家德国媒体的采访，将事情“捅了出去”。（网络图片）</p></div>
+<p>无论多忙，邓吉元每周末都要坐一个半小时的大巴车到平利县看望妻女，平时不在一起的日子里每天也会打上几通电话。对于冯建梅来说，丈夫这样奔波虽然比较辛苦，但她实在不愿意留在鱼坪村生活，甚至不想再踏进镇坪县。</p>
+<p>一、“4万，一分不能少！”</p>
+<p>三年多来，冯建梅拒绝了多家媒体的采访请求，不愿再提及2012年6月那段伤心往事。“不会刻意去想了”，这位出生在内蒙古、11岁举家迁至黑龙江的“城里人”，从未想过强制引产这种事还能在新世纪第二个十年内发生。</p>
+<p>冯建梅不知道的是，自从1982年计划生育被定为“基本国策”以来，像她这样被强制引产的妇女是一个多么庞大的群体。《中国卫生统计年鉴2013》显示，从1980年到2012年，共有妇女上环3.02亿次，实施妇女输卵管结扎手术1.04亿次，人工引流产2.95亿例。虽然不排除有大量自愿进行手术的妇女，但在计划生育“一票否决制”的大背景下，可以说绝大多数手术是在计生部门强制或变相强制下进行。</p>
+<p>事实上，冯建梅嫁到的镇坪县，相比全国多数地区来说，计生政策还更为宽松些。按照陕西省计生条例规定，由于地处“高寒山区”，镇坪县农村家庭可以要两个孩子，前提是夫妻双方必须是农村户口；镇坪县政府在具体执行时加上了两胎之间间隔满4年的限制。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/f6446d54c003e1eb77dbf392358d007f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/f6446d54c003e1eb77dbf392358d007f.jpg" alt="陕西安康市镇坪县曾家镇鱼坪村，大多时候极为安静。（冯存健）" width="381" height="506"></a><p>陕西安康市镇坪县曾家镇鱼坪村，大多时候极为安静。（冯存健）</p></div>
+<p>这样的宽松也未能阻止悲剧的发生。冯建梅2011年11月再次怀孕时，大女儿邓欣雨已满5岁，唯一的隐患在于她内蒙古的户口尚未迁至鱼坪村。冯建梅被计生干部盯上了，而且“撞上了枪口”。</p>
+<p>在引产前十几天，急于摘掉计生“黄牌”的曾家镇政府才找到邓吉元提醒其补办准生证，并要求邓吉元先交3万元“押金”，这中间由于冯建梅出逃一次，镇上将“押金”提高到4万元。“4万一分不能少，还是你们大意了”。当年曾将“要钱”短信发给邓家的曾家镇计生干事袁芳拒绝再谈此事，“都过去这么多年，不要再提了。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/efddd86d87bb2adc94895c0ecdae2ebd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/efddd86d87bb2adc94895c0ecdae2ebd.jpg" alt="2012年6月2日，在冯建梅被引产后，曾家镇计生干事袁芳发给邓家的“4万一分不能少”的短信。（资料图片）" width="462" height="315"></a><p>2012年6月2日，在冯建梅被引产后，曾家镇计生干事袁芳发给邓家的“4万一分不能少”的短信。（资料图片）</p></div>
+<p>袁芳所称的“押金”即是社会抚养费。这项正名于2002年的行政性收费充满争议，多年来征收总额、用途及流向一直不曾公开。唯一可查的官方数据是在冯建梅被引产的2012年，24省份公布该年征收总额超过200亿元。有学者估计，大陆实行计划生育政策以来征收的社会抚养费不低于1.5万亿元。因缴不起罚款引起的强制引产甚至自杀的悲剧普遍发生在中华大地，又何止冯建梅一家。</p>
+<p>补办准生证需要时日，凑够4万元对于当时的邓家来说也不轻松，因为盖新房欠下8万外债的邓吉元在2012年5月30日赴内蒙古矿上打工，准备两年内还清债务。其走后约3小时，曾家镇十五六名计生人员便找上门来，倔强的冯建梅在历经70多个小时的“逃生”之后，被人用黑色衣服蒙着脑袋抬上车送往镇坪县医院。</p>
+<p>被强迫按手印后，6月2日15时40分，冯建梅被强行注射引产针，计生人员将其眼睛捂住。随后长达两年多的时间，冯建梅经常被上述一幕构成的噩梦惊醒。“当时没有一个亲人在我身边。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/33c35ce11159a0e9474a6de1e79fc057.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/33c35ce11159a0e9474a6de1e79fc057.jpg" alt="2012年6月，被引产后的冯建梅躺在床上。（资料图片）" width="379" height="236"></a><p>2012年6月，被引产后的冯建梅躺在床上。（资料图片）</p></div>
+<p>拿着四处借来的1.8万元现金从内蒙古赶赴医院的邓吉元，已晚来一步。在随后很长一段时间里，他常常自责，“如果当时我在又会怎样？”，但他最终“释怀”，即便在，孩子也保不住。“当时我大姐和我爸都在，还不是一样。”</p>
+<p>6月4日凌晨3点多，5斤8两重的女婴出生，浑身乌青，已然离去。6月13日，冯建梅的户口证明从内蒙古通过快递寄回了曾家镇，但已无意义。</p>
+<p>邓吉元开始讨说法。6月11日，冯建梅强制引产事件在网上被曝光，引起全国高度关注。但政府的回复却迟迟不来，反而加强了对邓家的监控。愤怒的邓吉元接受了德国媒体采访，并于6月24日连夜逃往北京。</p>
+<p>没有证据显示这篇报道有任何失实之处，但在此之后，镇坪县医院就出现了“痛打卖国贼，驱出曾家镇”的横幅。“政府让各村村干部拿着横幅游行，但鱼坪村村干部没去”，邓吉元如今谈起此事，也是哭笑不得。</p>
+<p>6月26日，安康市终于通报调查结果，镇坪县副县长、县人口计生局局长等七人被处以记大过、撤职等处分。邓吉元随后获得一次性补助约7.2万元，“算上医疗费用一共这么多，没有外界说的几十万。”</p>
+<p>二、“县上有领导不让给你”</p>
+<p>死去的7个月大女婴被葬在邓吉元老家的后山上，没有墓碑没有坟头，但邓吉元清楚地记得位置。女婴由邓吉元大姐从医院带回，邓吉元父亲安葬。3年多来，只有邓吉元在2013年清明节时去过，“只是去看看”。冯建梅起初并不知道女婴葬在何处，后来无意间听家人说起，但也“不愿去看”。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4c8d76d66a7b3b296c97c61a5afa418d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4c8d76d66a7b3b296c97c61a5afa418d.jpg" alt="鱼坪村邓吉元家，屋后山脉连连。（图：冯存健）" width="317" height="424"></a><p>鱼坪村邓吉元家，屋后山脉连连。（图：冯存健）</p></div>
+<p>2012年7月20日，冯建梅出院，摆脱了长达近50天的“软禁”生活，“老公走到哪都有十几个人跟着”。对于医院的生活，冯建梅用悲痛欲绝来形容，“大脑有时会突然空白。”</p>
+<p>几天后，夫妻俩被带到镇坪宾馆与曾家镇政府签订了一份调解协议。为了保险起见，邓吉元录了音。协议中除了上述7.2万元的一次性补助，还有以下规定：冯建梅由强制引产引起的后遗症治疗费用由镇政府承担；承诺给冯建梅买一份养老保险，等到上年纪了一个月可以拿一千多块钱；并承诺给邓吉元父母办低保。而对于邓吉元一家的要求是“任何人今后不得以同一事由提出异议”。</p>
+<p>邓吉元称，协议签好之后，镇长邓杰说要拿到镇政府盖公章后再返还，但从此再无后音，协议中的承诺至今未兑现。邓吉元又指，自己曾找曾家镇镇长郑杰和镇坪县计生局局长朱英索要协议，郑杰的答复是“县上有领导不让给你”；朱英则并未当面拒绝，只是表示“到时再看吧”，便无下文。</p>
+<p>但面对记者的当面询问，镇长郑杰却是直接否认：“没有这样的协议，像低保是要依法符合国家政策的，邓吉元家盖着二层楼，他本人又做工程项目，不满足这个条件”。。</p>
+<p>而在鱼坪村已做了4年村支书的张才先看来，“政府对他家够好的了”，但并未过多解释。“镇党委书记每年都去看我爸”邓家小妹邓吉彩对此心存感激。</p>
+<p>但可以肯定的是，强制引产事情后，当地政府与邓吉元家的隔阂并未消失。让邓吉元一直不解的，鱼坪村每季度组织一次的育龄妇女所“三查”（查孕情、查环情、查病情）活动，自从那件事后再没有叫过冯建梅。等到为小女儿邓思仪去镇坪县办准生证时，邓吉元被计生局告知无法领取1000元营养补助金，原因是冯建梅没做孕前检查，不符合领取条件。“一千块钱倒是小事，这不是欺负人么？”</p>
+<p>48岁的鱼坪村计生专员王东兴对此事有另外一种说法，“冯建梅没住在村里，在平利县，找她几次都不在家。”对于这种说法，邓吉元脱口而出“狗屁！”，再无更多话语。这是在采访中，唯一一次感觉到邓吉元的愤怒。</p>
+<p>三、“宫腔里有遗留”</p>
+<p>对于冯建梅来说，走出强制引产后的阴霾，并不比接受引产本身来得容易。那段日子，冯建梅一直做噩梦，梦里“那些计生人员把我按床上打针，我怎么挣扎都没用。”冯建梅说，当时在黑龙江的母亲经常打电话安慰她，给了她莫大鼓励。</p>
+<p>这一切，邓吉元看在眼里。“她没以前活泼了，平常也不怎么说话，会无缘无故暴怒，又突然安静下来。”这样的状况持续了一年多，让邓吉元很是担心。</p>
+<p>伴随着这对年轻夫妻的还有不解。冯建梅不止一次被鱼坪村的村民质问道：事情闹这么大干什么，以前大月份被（强制）引产的人不是很多嘛，哪有像你们这样让外国人看笑话的。</p>
+<p>一位在曾家镇居住了大半辈子的老汉如今谈起强制引产事情，仍然表示“邓吉元已经不错了，政府给赔了不少钱。比他家惨的也有，但政府也没表示。”他嘱咐记者不能透露姓名，“我还要在这生活呢。”</p>
+<p>为了逃离这片土地，2012年9月，在家中休养了不到两个月的冯建梅远赴江苏，原本在曾家镇上学的大女儿邓欣雨一同前往，并在江苏上了幼儿园。邓吉元的二姐邓艳在江苏生活多年，彼此也能照应。本来按计划处理完家中事情一同过去的邓吉元，因接了水电站的工作而搁浅。迫不得已，冯建梅2013年9月又回来了。</p>
+<p>但她并未回鱼坪村，而是将家安置在了镇坪县的邻县平利县。当年将他抓走的数十名计生人员如今大多还在职，有时还回去鱼坪村，“不想看见他们，心里不舒服。”</p>
+<p>为了解开心结，夫妻二人在2013年初决定再要一个孩子。但与此同时，因强制引产引起的后遗症已经开始出现，“宫腔里有遗留”，冯建梅说。长达近两年的时间内，冯建梅无法正常受孕，几家医院都建议她做试管婴儿。</p>
+<p>2013年至2014年两年间，为了治病，两人奔赴西安、沈阳等地的多家大医院治疗，医疗费花了五六万元，7.2万元的赔偿也所剩无几。按照调解协议，邓吉元曾拿着看病单找到镇坪县计生局报销，告知冯建梅无法怀孕，但协议不被承认。“各种各样的压力，当时挺绝望。”</p>
+<p>好在事情有了转机。邓吉元偶然听说西安有个小诊所治疗不孕效果不错，抱着试试的心态和冯建梅一起过去。连续吃了4个月的药后，冯建梅终于在2014年11月成功受孕。</p>
+<p>今年9月1日11点10分，小女儿邓思仪降生，一家人都松了口气。在怀孕之前，冯建梅的户口已从老家内蒙古迁到了鱼坪村。</p>
+<p>邓吉元解释说，思是思念的意思，仪通忆，代表着回忆，怀念。</p>
+<p>四、“生二胎不能强迫吧？”</p>
+<p>对于生活在曾家镇18个村的1.2万民众来说，2012年强制引产后计划生育环境之宽松，执法态度之温和，平生未见，甚至让村民觉得计生工作被荒废了。“出了邓吉元的事情，计生部门可能泄气了”，闲来无事在自家房前晒太阳的村民王金枝（化名）说完猜测后，咯咯地笑起来。</p>
+<p>在曾家镇上开了6年摩的的58岁村民王其昌（化名）对于计生政策的变化深有感触。他和妻子养育了5个孩子，2男3女。“八九十年代计划生育那叫一个严啊，想躲躲不掉，罚款又交不起，家里值点钱的东西都被计生人员开车拉走了，最惨时做饭没有锅。”而2013年后，他觉得计划生育工作没人管了，消息灵通的他再也没听说过强制引产的事情发生，“变化太大了”。</p>
+<p>邓吉元的父亲邓孝刚对“罚款”也不陌生，他有6个子女，邓吉元排行老三，“超生罚的款能盖一栋房子了”。而小时候计生人员连“家里的一根面杖都要拿走”则还保留在邓吉元的记忆中。</p>
+<p>在2012年底出任曾家镇镇长的郑杰看来，主要还是民众生育理念的变化。也是在强制引产事件后的2013年，镇坪县取消了两胎之间间隔4年的生育限制，唯一保留的是夫妇双方必须是农村户口。据他的直观感受，外界认为的农村人喜欢多要孩子的观念已经过时。“即便国家放开二胎后，周边的朋友大多还是说一个就够了。之前放开单独二胎效果也不明显。”</p>
+<p>据郑杰介绍，目前，曾家镇有公务员编制的计生干事只有5人，大多数直接负责每个村计生工作的是镇上指定的各村计生专员，一年的工资仅2000元左右。</p>
+<p>上文提及的邓吉元所在的鱼坪村计生专员王东兴便是其中的典型一员。鱼坪村目前128户，人口520人左右。从2010年上任以来，王东兴能直观感受到村民不那么愿意生了。“村里普遍是二胎，有6户领了独生子女证，都是这几年的事情。超生户近期只有一例，还是在外打工时生的。”</p>
+<p>提及这位超生户，王东兴哭笑不得。在向这家征收社会抚养费时，男当家只说了一句，“钱没有，多的那个孩子你抱走吧。”至今，社会抚养费也没收上来。“收不上来干着急，时代不同了，只能劝说试试。”</p>
+<p>不过，在中共中央十八届五中全会宣布全面放开二胎政策公布后，王东兴开始为他预判的新任务犯愁。“怎样说服村民生二胎呢，总不能强迫吧？”</p>
+<p>来源：网易《大国小民》专栏</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%98%93%E4%B8%93%E6%A0%8F-%E9%99%95%E8%A5%BF%E5%AD%95%E5%A6%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%BC%95%E4%BA%A7%E5%90%8E%E7%9A%84%E8%BF%99%E4%B8%89%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">人权案件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">冯建梅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E4%BA%BA%E5%91%98/?category=18271" rel="tag">计生人员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%90%89%E5%85%83/?category=18271" rel="tag">邓吉元</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E7%9A%84%E4%B9%90%E9%AB%98%E7%89%88%E6%B5%A6%E5%BF%97%E5%BC%BA/" target="cdt-mirror">【图说天朝】艾未未的乐高版浦志强</a>
 </h2>
 <p><blockquote><p><strong>新闻背景</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B9%90%E9%AB%98%E6%8B%92%E7%BB%9D%E8%89%BE%E6%9C%AA%E6%9C%AA-%E7%BD%91%E5%8F%8B%E6%8D%90%E8%B5%A0%E6%9D%A5%E5%B8%AE%E5%BF%99/">德国之声 | 乐高不愿提供积木 艾未未自有办法</a></p></blockquote>
@@ -641,45 +717,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/7-23%E5%8A%A8%E8%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%B6%8A%EF%BC%9A%E5%AE%98%E6%96%B9%E7%BA%A2%E5%9C%B0%E6%AF%AF%E5%92%8C%E6%B0%91%E9%97%B4%E6%8A%97%E8%AE%AE/" target="cdt-mirror">BBC | 习近平访越：官方“红地毯”和民间抗议</a>
-</h2>
-<p><p><strong>中国国家主席习近平本周对越南展开国事访问，越南官方将以红地毯规格接待，但民间一些团体呼吁并组织了抗议活动。</strong></p>
-<p>中越去年围绕南海钻井平台发生严重争执，但双方都希望修复恶化的关系。越共总书记阮富仲今年4月访问北京，并与习近平举行会谈。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/150926141836_tap_can_binh_640x360_afp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/150926141836_tap_can_binh_640x360_afp.jpg" alt="150926141836_tap_can_binh_640x360_afp" width="550" height="309"></a><br>
-越共总书记阮富仲今年4月访问北京与习近平会谈</p>
-<p>据越南外交部公布的信息，习近平主席周五（11月6日）上午将在越南国会发表讲话，之后与越南国家主席张晋创会晤，结束对越南为期两天的国事访问。</p>
-<p>当天，习近平还将会见越南青年代表团，并参观胡志明纪念馆。</p>
-<p>此前，越南政府消息人士对BBC越南语部透露，中方提出越南邀请习近平在国会演讲。BBC越语部记者琼黎说，这对越南来说是一个非常不同寻常的要求；以前从来没有外国领导人被邀请到越南国会发表演讲。</p>
-<p>根据公布的行程安排，习近平主席周四（5日）中午抵达越南，下午出席越南官方安排的欢迎仪式，之后与越共总书记阮富仲和总理阮晋勇举行会谈。</p>
-<p>习的访问在越南遇到反对。一些民众周二（11月3日）在河内举行抗议，网上出现反华请愿。分析人士称，通常对这类声音高度敏感的越南当局并没有封杀，而这种宽容态度反映了越南高层内部对北京的矛盾心态。</p>
-<p><strong>红地毯</strong></p>
-<p>路透社报道说，越南为习近平主席准备的接待规格不如英国女王和唐宁街十号上个月的安排，而且他这次对越南的国事访问被刚刚宣布的新加坡“习马会”消息抢了风头。</p>
-<p>习近平将于本周六，即结束访越后，在新加坡与台湾总统马英九会晤。这是1949年中国内战结束后台海两岸领导人首次见面。</p>
-<p>不过，中越关系在中国的地缘政治战略中占有重要地位。观察人士指出，一年半前中国在南海有争议水域“挑战性停泊钻井台”引发两个共产党国家激烈争执后，越南与美国关系迅速升温，而越南民间对中国的反感情绪也有增长。</p>
-<p>路透社引述战略与国际研究中心（CSIS）东南亚问题专家海博特说，习近平访越时机正好，不但提供了让双方修补关系的机会，也在越南高层换届前给越南未来的掌权派传递一个信号。</p>
-<p>他认为中国方面可能希望越南政坛的亲美派势力有所减弱。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104145435_vietnma_624x351_khamreuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104145435_vietnma_624x351_khamreuters_nocredit.jpg" alt="151104145435_vietnma_624x351_khamreuters_nocredit" width="550" height="309"></a><br>
-河内周二（11月3日）出现抗议。</p>
-<p><strong>动态变化</strong></p>
-<p>过去18个月来，越南的国际环境发生了显著变化。</p>
-<p>越南与欧盟签署了贸易协定，并加入了美国牵头的跨太平洋伙伴关系战略协定，韩国大企业在越南的投资大幅增加，日本和美国向越南的海岸卫队提供舰船和训练。</p>
-<p>俄国向越南交付了更多潜水艇，并允许越南使用俄国设计自行生产毒蜘蛛级轻型导弹舰。</p>
-<p>分析人士认为这些外交活动有助于越南经济发展，增强针对中国海上扩张主义的军事威慑力。</p>
-<p>但越南和中国每年贸易额达600亿美元，没有任何迹象表明河内希望这个关系恶化。</p>
-<p><strong>改善关系</strong></p>
-<p>设在华盛顿的东西方中心学者米什拉对BBC越语部表示，正值南海局势紧张，估计越南领导人很可能会向访越的习近平提出一些十分重要的问题，双方将澄清各自的一些疑虑。</p>
-<p>他认为，考虑到美越关系在不断密切，中美在南海的角力可能会对中越对话产生影响；在经济层面，越南加入TPP对越南的长远未来而言可能是个转折点。</p>
-<p>路透社引述香港城市大学伦登教授说，越南别无选择，必须制定有效的中国政策。</p>
-<p>一个比较普遍的看法是，杯斛交错和微笑握手背后发生的很多事不会对外界公开，但可以预计，在北京与华盛顿竞争和越南领导人换届的不确定性背景下，习近平这次访越令人倍加关注。</p>
-<p>(编译：郱书 / 责编：董乐）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%B6%8A%EF%BC%9A%E5%AE%98%E6%96%B9%E7%BA%A2%E5%9C%B0%E6%AF%AF%E5%92%8C%E6%B0%91%E9%97%B4%E6%8A%97%E8%AE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%B6%8A/?category=18271" rel="tag">习近平访越</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E5%86%85/?category=18271" rel="tag">河内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%85%B1/?category=18271" rel="tag">越共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%8D%97/?category=18271" rel="tag">越南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%AE%E5%AF%8C%E4%BB%B2/?category=18271" rel="tag">阮富仲</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -691,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -701,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

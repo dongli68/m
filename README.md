@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%BE%8E%E5%8A%9E%E7%94%B5%E5%8F%B0%EF%BC%8C%E6%9A%97%E6%B8%A1%E9%99%88%E4%BB%93%E5%8F%97%E9%98%BB/" target="cdt-mirror">美国之音 | 中国在美办电台，暗渡陈仓受阻</a>
@@ -97,7 +97,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">徐翔被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">杨彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91/?category=18271" rel="tag">私募基金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E9%BB%91%E5%B9%95/?category=18271" rel="tag">股市黑幕</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%B4%9B%E9%98%B3%E6%9A%B4%E5%8A%9B%E8%A2%AD%E8%AD%A6%E6%A1%88%E8%BF%98%E5%8E%9F%EF%BC%9A%E4%B8%80%E4%BA%BA%E8%A2%AB%E6%8D%85%E8%85%B0%E9%83%A8-%E4%B8%80/" target="cdt-mirror">澎湃新闻 | 洛阳暴力袭警案还原：一人被捅腰部 一人被刺心脏</a>
 </h2>
@@ -539,7 +539,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E4%B8%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/7-23%E5%8A%A8%E8%BD%A6%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">7.23动车事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7/?category=18271" rel="tag">上海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E9%9D%99%E5%AE%89%E5%A4%A7%E7%81%AB/?category=18271" rel="tag">上海静安大火</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%8D%E8%81%8C/?category=18271" rel="tag">免职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E8%B7%AF%E7%94%9F/?category=18271" rel="tag">安路生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E5%A4%8D%E5%87%BA/?category=18271" rel="tag">官员复出</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%B6%E6%B5%8E%E9%93%81%E8%B7%AF%E4%BA%8B%E6%95%85/?category=18271" rel="tag">胶济铁路事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E9%81%93%E9%83%A8/?category=18271" rel="tag">铁道部</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%B6%8A%EF%BC%9A%E5%AE%98%E6%96%B9%E7%BA%A2%E5%9C%B0%E6%AF%AF%E5%92%8C%E6%B0%91%E9%97%B4%E6%8A%97%E8%AE%AE/" target="cdt-mirror">BBC | 习近平访越：官方“红地毯”和民间抗议</a>
 </h2>
@@ -717,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

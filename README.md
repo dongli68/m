@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%9C%9F%E8%83%B8%E8%A5%9F%EF%BC%9A%E5%BF%AB%E5%BC%80%E4%B8%AA%E5%BE%AE%E5%8D%9A%EF%BC%8C%E5%88%AB%E8%AE%A9%E6%96%87%E5%8C%96/" target="cdt-mirror">【网络民议】广电真胸襟：快开个微博，别让文化部一个人受</a>
+</h2>
+<p><p><strong><a href="http://news.sina.com.cn/c/2015-11-06/doc-ifxkniur2918625.shtml">国家广电总局副局长：能容忍批评才是真胸襟</a></strong></p>
+<blockquote><p>[…]权为民所赋、权为民所用，党员干部接受组织和人民监督天经地义。决不能视“监督”为麻烦，决不能错误地认为“提意见就是唱反调”，决不能以“维护团结”的名义压制批评监督甚至对批评监督搞打击报复。对党员干部而言，能够容忍批评，才是真正的胸襟；能够接受监督，才是真正的自信；能够从谏如流，才是真正的智慧。闻过则喜，择善而从，才能成就一个更好的自己。</p>
+<p>——国家新闻出版广电总局副局长田进日前在总局党校2015年秋季班开学典礼上说</p>
+</blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A.png" alt="广电总菊" width="450" height=""></a></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/">好奇心日报 | 文化部发了第一条微博 不到6小时评论就超了4万</a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/lihaoqiang" target="_blank">Yo-Yo-Hoo</a>：现在的中国说句正常人都会说也该说的话就上了新闻了<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/5663149556" target="_blank">拉长的时间</a>：废话少说，先开个微博，我想看看评论什么的<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@有营养先生：有本事开微博，别让文化部一个人受</p>
+<p>@明月曾照彩云：广电快开微博呀，等不及要欢迎这个虚幻若谷就是不改的大权在握者了</p>
+<p><a href="http://weibo.com/2546443144" target="_blank">窝窝之网事</a>：<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">整天灭我们的账号，只差拿把枪直接把我们突突了！还能容忍批评呢！<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
+<p><a href="http://weibo.com/2641860870" target="_blank">瞪谁谁缺德</a>：<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">我不提意见不唱反调，只求冰冰演的戏能看到胸以下。</p>
+<p>@宅女与猫：说的好像接受批评多伟大似的……</p>
+<p>@勿联系火星人：容忍而已，没说会改</p>
+<p>@鸭可可可：原来批评是需要“容忍”的，“容忍”这个词感觉自己真是日了汪了。</p>
+<p>@徐主任的枪：虚心接受坚决不改</p>
+<p>@塞外秋风来：我明白了，就是你无论多么批评我们，我们都当没听见。</p>
+<p>@夏夜轻风细雨：“能容忍批评才是真胸襟”， 禁播禁演是什么鬼？我发现你们都是说一套做一套的精神分裂</p>
+<p>@不喝可乐喝橙汁儿：彭德怀在庐山提意见了，后来，……</p>
+<p>@走向民生：想引蛇出洞；前几天不是刚说，不准妄议么！！！！</p>
+<p>@咩枪法：不敢批评，你多狠啊，裆员议一下叫妄议中央，屁民议一下，直接灰飞烟灭！</p>
+<p>@潍畔皓月：可是我很难界定妄议和批评啊</p>
+<p>@Adder吴：我认为这位副局长是在映射中央近期的决定，应该算妄议中央，应该给予开除党籍处理。</p>
+<p>@阿人的：大家不要在骂他了 他好可怜 我希望有人能够站出来打他</p>
+<p>@水煮熊猫揣个闹：谁他妈要批评你了，我们想的都是怎么弄死你</p>
+<p>@失_______________________：局长你误会了，我不是批评你，我是在骂你。</p>
+<p>@刚出炉的昵称：微博新闻只要出现XJP三个字，评论就几乎删完了。好个真胸襟。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%9C%9F%E8%83%B8%E8%A5%9F%EF%BC%9A%E5%BF%AB%E5%BC%80%E4%B8%AA%E5%BE%AE%E5%8D%9A%EF%BC%8C%E5%88%AB%E8%AE%A9%E6%96%87%E5%8C%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%BE%8E%E5%8A%9E%E7%94%B5%E5%8F%B0%EF%BC%8C%E6%9A%97%E6%B8%A1%E9%99%88%E4%BB%93%E5%8F%97%E9%98%BB/" target="cdt-mirror">美国之音 | 中国在美办电台，暗渡陈仓受阻</a>
 </h2>
 <p><p>作者：林森</p>
@@ -56,7 +94,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">对外宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%AE%BE%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF12339/" target="cdt-mirror">端传媒 | 全民防谍？中国设间谍举报热线12339</a>
 </h2>
@@ -672,40 +710,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/c919%E6%B0%91%E8%8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%A5%BF%E6%96%B9%E7%AB%9F%E9%98%B2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%84%8F%E8%AF%86%E5%BD%A2/" target="cdt-mirror">【异闻观止】环球时报｜西方竟防上“中国意识形态渗透”了</a>
-</h2>
-<p><p><strong>【编者注】根据路透社的<a href="http://www.reuters.com/article/2015/11/02/us-china-radio-fcc-idUSKCN0SR2AI20151102">后续报道</a>，<a href="https://zh.wikipedia.org/wiki/%E8%81%94%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%91%98%E4%BC%9A">联邦通信委员会</a>与美国司法部已分别对曾自称为“CRI密切的合作伙伴”的G&E Studio展开调查。G&E Studio位于美国加州洛杉矶郡华人众多的West Covina 市，该公司在路透社报道发表后，将其官方网站中专门介绍它与“中国国际广播电台是密切的合作伙伴”的页面删除。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CRI%E4%BA%B2%E5%AF%86%E7%9A%84%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CRI%E4%BA%B2%E5%AF%86%E7%9A%84%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4.png" alt="CRI亲密的合作伙伴" width="585" height="342"></a><br><em>（以上为 G&E Studio 的官方网站谷歌缓存页截图；它曾自称为中国国际广播电台“密切的合作伙伴” ）</em></p>
-<p>中国国际广播电台(CRI)下属公司在美国开展一些合作，CRI的一些音频节目通过美地方电台的频道播出，这引起路透社的深度“揭秘报道”。该报道说得很邪乎，称中国在美搞“隐蔽电台网络”，向美国听众宣扬中国的立场，就像CRI干了什么“隐蔽战线”的工作似的。</p>
-<p>强大的西方怎么会在<strong>心理上脆弱到这样的地步</strong>？就在不久前，《纽约时报》报道了中国大学在国际在线教育平台edX网站上推“毛泽东思想概论”课的事情，宣称这是对外“加强意识形态输出”。</p>
-<p>西方舆论对孔子学院的议论更是此起彼伏，好像生怕他们的孩子在那些中文班里学汉语时，会被来自中国的教科书和老师们“洗脑”。</p>
-<p>回到广播的事，美国那家地方广播电台并没有受控于CRI，即使按照路透社的披露，它也只是播出了CRI的节目。这样的合作在世界各国媒体之间不知道每天要发生多少起。路透社的报道质疑它的合法性，而《环球时报》英文版每年就要使用路透社的大量图文内容，还要为此向路透社付费，我们被它的报道搞糊涂了：这样做合法吗？</p>
-<p>还有，《纽约时报》等美国主流媒体动不动就对外收费，卖给外国机构很多版面，刊登宣扬那些国家价值观的文章。这成了美国主流媒体的一种捞钱方式。为什么不问问《纽约时报》这样做合法吗？</p>
-<p>中国大学在edX网站开门毛概课，一共才3000多注册学生，美国700多人，《纽约时报》就不安了。中国每年有几万个孩子去美国留学，去英国等欧洲国家及澳、新的也很多，中国是不是应该担心那些学生在西方被“洗脑”，从此限制他们出境？</p>
-<p>中国不知道翻译了多少西方的思想著作，各大学开了多少门西方理论的课程。中国数不清的人用苹果手机，据说所有信息和图片都被苹果公司给“云”了。光是麦当劳、肯德基对美国文化的传播，相当于给中国孩子们开了多少所西方版的“孔子学院”或“孔子课堂”。还有NBA、欧洲三大杯、一年几十部好莱坞大片，要是有路透社、《纽约时报》警惕性的1/10，中国人还不得被吓死!</p>
-<p>西方媒体所展现的那个“神经质的西方”实在是有点没出息。就说美国，它并没有衰落，中国也根本没有能力对它进行意识形态挑战。中国互联网上的“美分”一抓一大把，倒是中国应当从美方的警惕中得到些启示：我们过去是不是对美国的意识形态渗透管得太松了？</p>
-<p>此外美国是崇尚“新闻自由”的国家，原来在那里播些来自中国的声音，是与这种“新闻自由”相抵触的。看来西方媒体“很讲政治”，很愿意主动敦促政府给“新闻自由”划边界，它们甘当守卫这条边界的志愿者。</p>
-<p>实事求是说，当今的世界舆论很大程度上受西方大媒体公司主导，而且西方的舆论霸权是西方中心主义受到动摇时最固若金汤的堡垒。非西方国家普遍有受到西方舆论压迫的苦衷，它们努力发出一些自己的声音，至少目前还谈不上同西方对抗，只是希望能有一些自己介绍自己的权利，别让西方对非西方国家的描述成为世界了解它们的全部。</p>
-<p>西方如果连这么点缝隙都舍不得让出，那么它们真是要把事情做绝。随着新兴世界的崛起，它们把一些非西方的声音带进西方社会，是无法阻挡的自然过程。一定要拒绝这个过程的西方人，他们是在与天道过不去，在跟自己过不去。<br><strong><br>
-以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1843246231" target="_blank">明堂辟幽</a>：人家有墙么 有文化部么 有政委么 <img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/1768973900" target="_blank">午夜慕尼黑</a>：总有人要害我<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>cq_ty：共产党好 百姓乐</p>
-<p>华袍上的狮纸：一个“竟”字用得好，高级黑本色啊</p>
-<p>藏雪堂：环球的意思是西方也学我们了。</p>
-<p>绵羊专修麒麟臂：不是已经限制了吗？包律师的儿子被你们软禁在内蒙!</p>
-<p>古铜麦：这话说的，好像咱们经常防西方意识形态一样。</p>
-<p>李的天空：你们网络都不敢开，还有碧莲说人家？</p>
-<p>二十6年明月夜：我为什么无法登录Google地图？</p>
-<p><strong>甄瑞英：你的确在担心啊，装什么不知道</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%A5%BF%E6%96%B9%E7%AB%9F%E9%98%B2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%84%8F%E8%AF%86%E5%BD%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -717,7 +721,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +731,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

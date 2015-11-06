@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E7%9A%84%E4%B9%90%E9%AB%98%E7%89%88%E6%B5%A6%E5%BF%97%E5%BC%BA/" target="cdt-mirror">【图说天朝】艾未未的乐高版浦志强</a>
+</h2>
+<p><blockquote><p><strong>新闻背景</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B9%90%E9%AB%98%E6%8B%92%E7%BB%9D%E8%89%BE%E6%9C%AA%E6%9C%AA-%E7%BD%91%E5%8F%8B%E6%8D%90%E8%B5%A0%E6%9D%A5%E5%B8%AE%E5%BF%99/">德国之声 | 乐高不愿提供积木 艾未未自有办法</a></p></blockquote>
+<p>艾未未今日在其Instagram账号内发布了两张用乐高创作的浦志强肖像，并附言“释放律师浦志强”。</p>
+<p>2014年5月5日，中国知名律师浦志强在被当地“国保”带走后，其妻至今未能见他一面。2015年5月15日，北京市人民检察院第二分院以被告人浦志强涉嫌煽动民族仇恨罪、寻衅滋事罪依法向北京市第二中级人民法院提起公诉。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B5%A6%E5%BF%97%E5%BC%BA1-e1446814141294.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B5%A6%E5%BF%97%E5%BC%BA1-e1446814141294.png" alt="" width="550" height="351"></a><br>
+（Instagram<a href="https://instagram.com/p/9varnTKDwC/">链接</a>）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B5%A6%E5%BF%97%E5%BC%BA2-e1446814257192.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B5%A6%E5%BF%97%E5%BC%BA2-e1446814257192.png" alt="" width="550" height="352"></a><br>
+（Instagram<a href="https://instagram.com/p/9va-xFKDwl/">链接</a>）</p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/">亚洲周刊 | 一个妻子的这一年</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E5%8C%97%E4%BA%AC%E6%A3%80%E5%AF%9F%E4%BA%8C%E5%88%86%E9%99%A2%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%B6%89%E5%AB%8C%E7%85%BD%E5%8A%A8%E6%B0%91%E6%97%8F%E4%BB%87%E6%81%A8%E7%BD%AA%E8%A2%AB%E6%8F%90/">北京检察二分院：浦志强涉嫌煽动民族仇恨罪被提起公诉</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E8%B5%B7%E8%AF%89%E4%B9%A6/">【图说天朝】浦志强案起诉书</a></li>
+<li>中国数字数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/">浦志强案</a>专题</li>
+</ul></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E7%9A%84%E4%B9%90%E9%AB%98%E7%89%88%E6%B5%A6%E5%BF%97%E5%BC%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%BC%A0%E5%85%AD%E6%AF%9B%E4%B9%8B%E6%AD%BB/" target="cdt-mirror">巴丢草 | 张六毛之死</a>
 </h2>
 <p><p>@badiucao：广州公民 #张六毛 看守所内突然身亡，此前因所谓“寻衅滋事罪”被关押在广州第三看守所已二个多月，期间被警方告之张六毛“#反党”“反国家”，禁止律师会见，最终律师被迫退出。#酷刑 #人权</p>
@@ -35,7 +58,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF%EF%BD%9C%E9%A6%96%E6%89%B9594%E5%90%8D%E7%BD%91%E5%AA%92%E8%AE%B0%E8%80%85%E8%8E%B7%E8%AE%B0%E8%80%85%E8%AF%81%EF%BC%9A%E5%95%86%E4%B8%9A%E7%BD%91%E7%AB%99/" target="cdt-mirror">中青在线｜首批594名网媒记者获记者证：商业网站暂不在列</a>
 </h2>
@@ -657,36 +680,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E5%90%B4%E9%82%A6%E5%9B%BD%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/" target="cdt-mirror">【习总日记】吴邦国给十八届五中全会的贺信</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174"><br>
-（2015，11，3）</p>
-<p>吴邦国的贺信内容与温家宝贾庆林讨论依法治国从严治党不同。他对钓鱼岛南海主权争议提出个人意见。</p>
-<p>吴邦国贺信的大意是：</p>
-<p>热烈祝贺党的十八届五中全会的隆重召开。坚决拥护以习近平同志为总书记的党中央三年来各项方针政策，很高兴看到在党中央领导下反贪腐从严治党依法治国所取得的伟大胜利。作为上一届中央政治局常委之一，为周永康的错误和罪行痛心疾首，也担心党在钓鱼岛南海主权问题上，误判形势进退失据，导致战略上的重大错误。</p>
-<p>陷“自古以来”于不拔，是重大错误之一。</p>
-<p>毛主席教导我们，变化是永远的，不变则是暂时的。死抱着自古以来不放，罔顾近代现代世界风云变幻，与我党实事求是基本方针完全背道而驰。自古以来没有的可以有么？当然可以有。自古以来有的可以没有么？当然可以没有。倘若自古以来没有的就不可以有，人类就无法进步。倘若自古以来有的就一定要有，人类同样无法进步。人类文明史，是不断变化的，是除旧迎新喜新厌旧的。即使是领土也一样。分久必合合久必分，国兴国亡，强弱交替。白龙尾岛自古以来是中国的，伟大领袖毛主席一跺脚就送给越南了。</p>
-<p>由此可见，领土也是可以变化的，或增加或减少。自古以来中国的版图一直在变化，没有一个朝代是一样的。因此在领土问题上提“自古以来”的人，脑筋有问题，至少是个死脑筋。</p>
-<p>钓鱼岛引发中日纠缠，是重大错误之二。</p>
-<p>中日关系好，对中国有利；中日关系不好，则自讨苦吃。自日本明治维新全盘西化以来，日本国力一直领先中国。上个世纪兴起军国主义和马克思主义，中国选择了马克思主义，而日本选择了军国主义。奉行军国主义的日本发动侵略，最后自取灭亡。奉行马克思主义的中国发动抗美援朝和文革，自作自受。改革开放后在邓小平胡耀邦同志领导下开始实行中日亲善，日本向中国输出技术和资金，中国经济实现起飞。</p>
-<p>习近平同志担任总书记后，主张对日强硬，在侵华战争和钓鱼岛问题上谴责日本的做法和立场，使中日关系陷入寒冬低谷。还好中国人民不管三七二十一，以旅游抢购方式表达中国人民对日本人民的深情厚谊，支持日本资本主义建设，中日两国经济才得以维持和发展。</p>
-<p>对日强硬政策，把日本推向美国敌对势力怀抱的同时，也制造亚洲紧张局势，迫使亚洲其他国家选边，也使得北朝鲜当局利用中日失和肆意撒泼折腾从中渔利。在这种形势下，为了拉拢亚洲邻国，我们不得不付出无谓代价，讨取异国欢心。何苦啊！</p>
-<p>南海人造岛领海主张，是重大错误之三。</p>
-<p>南海变礁为岛，吃饱了撑的实在无事可干也未尝不可，但意义不大。企图以造岛而谋取人造岛周围12海哩领海主权，无异于痴人说梦，无异于选阿Q担任党总书记。</p>
-<p>人类文明走到今天，自说自话到最后恐自绝于世界。十一段线九段线，周边国家是否认可？国际上是否站得住脚？假设只有我们自己在嚷嚷，而国际社会压根不承认，那么维持嚷嚷就够了，何必多此一举谋求12海哩主权？要让周边国家甚至国际社会承认九段线，除非把世界各国全打趴下。可惜，用武力解决领土纠纷的日子已经过去了。何况还有世界警察美国的存在。</p>
-<p>就全盘考虑，挑起南海岛礁争端一方面得不到货真价实的实际利益，光挽回周边国家的感情要花多少民脂民膏？就好比你骂邻居，让后送钱送礼挽回声誉。过几天再骂再送礼。你是不是有病啊？</p>
-<p>好了，不多说了。希望党中央能够保持谦虚谨慎的工作作风，多多倾听党内同志意见，尤其是老同志的意见。良药苦口以利于病。</p>
-<p>共产党员吴邦国<br>
-2015年10月</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E5%90%B4%E9%82%A6%E5%9B%BD%E7%BB%99%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%9A%84%E8%B4%BA%E4%BF%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E9%82%A6%E5%9B%BD/?category=18271" rel="tag">吴邦国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -698,7 +691,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -708,5 +701,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

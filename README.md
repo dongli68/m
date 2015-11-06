@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%87%E6%81%B6%E7%9A%84%E7%BE%8E%E5%B8%9D%E8%BF%9E%E7%9C%81%E6%94%BF%E5%BA%9C%E9%83%BD%E4%B8%8D%E5%A6%82/" target="cdt-mirror">【网络民议】“万恶的美帝连省政府都不如”</a>
+</h2>
+<p><p><strong>新闻背景：</strong></p>
+<p>美国东部时间11月4日，三一重工旗下的罗尔斯公司诉奥巴马案达成了和解，结束了长达近两年的诉讼。三一重工总裁<a href="http://weibo.com/2258727970/D2r7c4mIm?type=comment#_rnd1446845503741">向文波接受了央视财经记者采访</a>，并表示：“达成全面的和解，标志着三一在美国起诉奥巴马总统，和美国外国投资委员会取得完美的结局，或者说彻底的胜利。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/86a17422jw1exq120ke58j20c80rgjv8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/86a17422jw1exq120ke58j20c80rgjv8.jpg" alt="86a17422jw1exq120ke58j20c80rgjv8" width="440" height="988"></a></p>
+<p> </p>
+<p><strong>以下为中国数字时代编辑摘自新浪网友评论：</strong></p>
+<p><a href="http://weibo.com/1782441427" target="_blank">奋斗ko8e</a>：告得好！奥巴马怎么了，美国政府又怎么了，必须勇于争取自身的合法权益！</p>
+<p><a href="http://weibo.com/2870043360" target="_blank">旺财旺财旺旺才</a>：呵呵！老东家还是这么爱出风头啊！在长沙告中联重科都告不动。说明万恶的美帝连hn省政府都不如。还妄图在南海炫耀武力，先去搞定三胖再来吧！</p>
+<p><a href="http://weibo.com/2831197645" target="_blank">拉布嘀呀</a><i></i>：人家可以告总统，天朝把谷歌撵出去没地方告呀！</p>
+<p><a href="http://weibo.com/1947988945" target="_blank">lava-gpds</a>：在天朝写个状子给包子试试？</p>
+<p><a href="http://weibo.com/chaohui678" target="_blank">狂奔的蜗牛FW</a><i></i>：在这边你告个村长试试。。</p>
+<p><a href="http://weibo.com/2729835881" target="_blank">BugFIyme</a><i></i><i></i>：回复<a href="http://weibo.com/n/%E5%A5%8B%E6%96%97ko8e?from=feed&loc=at" target="_blank">@奋斗ko8e</a>:告我朝领导分分钟灭他全家<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/cstsl" target="_blank">粮票CS</a><i title="微博达人"></i>：一是三一有钱付律师费，二是坚持法制的胜利</p>
+<p><a href="http://weibo.com/1827252477" target="_blank">快乐秀人生</a>：从一个侧面也反映出别国制度有些需要我们借鉴的地方。</p>
+<p><a href="http://weibo.com/1400318833" target="_blank">一千零一双眼</a>：一会赢了，一会又和解，那以前到底赢了没。</p>
+<p><a href="http://weibo.com/1704569145" target="_blank">马扁亻尔是小犭句</a>：三一没输，美国也没输</p>
+<p><a href="http://weibo.com/5030799273" target="_blank">肆佰徉</a>：这是中国企业国际化的胜利，某种层面，也是美国法制的胜利。中国要企业再接再厉，中国法制要加油<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p> </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%87%E6%81%B6%E7%9A%84%E7%BE%8E%E5%B8%9D%E8%BF%9E%E7%9C%81%E6%94%BF%E5%BA%9C%E9%83%BD%E4%B8%8D%E5%A6%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%80%E9%87%8D%E5%B7%A5/?category=18271" rel="tag">三一重工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%80%E9%87%8D%E5%B7%A5%E8%AF%89%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">三一重工诉奥巴马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">中国企业</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%9B%BE%E9%87%91%E7%87%95%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E7%BB%88%E5%85%B6%E4%B8%80%E7%94%9F%E6%89%BF%E5%8F%97%E7%9A%84%E6%9A%B4%E5%8A%9B/" target="cdt-mirror">端传媒 | 曾金燕：中国女性终其一生承受的暴力</a>
 </h2>
 <p><blockquote><p>生为中国女性，你难以有尊严地活成一个人，更不用说活成一个优雅的女人。</p></blockquote>
@@ -600,31 +627,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E9%82%A3%E4%BA%9B%E5%BE%AE%E5%A6%99%E7%9A%84%E7%A4%BC%E4%BB%AA%E8%83%8C%E5%90%8E/" target="cdt-mirror">纽约时报 | “习马会”那些微妙的礼仪背后</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/05Protocol-web-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/05Protocol-web-articleLarge.jpg" alt="周三，台北活动人士抗议台湾总统马英九与中国国家主席习近平计划中的会面。" width="600" height="385"></a><p>周三，台北活动人士抗议台湾总统马英九与中国国家主席习近平计划中的会面。</p></div>
-<p>习近平有几个头衔：除了中国国家主席、共产党总书记外，有时甚至被称为大大，这个称呼可译为“伯伯”或“爸爸”。他将于周六在新加坡与台湾总统马英九见面，届时他的称呼仅仅是“先生”。<br>
-马英九也一样。</p>
-<p>两个“先生”是围绕着这两位领导人历史性会面的复杂礼仪的最意义重大的符号之一。他们如何互称，会面时出现什么旗帜或象征，甚至谁先伸手握对方的手，都会被人仔细分析以从中训找与两岸关系有关的意思。</p>
-<p>这些礼仪问题不是简单的名称游戏，而是战争以及几十年不信任的产物。大陆称自治的台湾是其领土的一部分，坚信最终会实现统一。中华民国领导人蒋介石与毛泽东的共产党打内战失败后，于1949年带着他的国民党军队逃到了台湾。蒋介石和毛泽东曾在1945年8月见面，但那以后再也没见过面。</p>
-<p>几十年来，大陆和台湾互称“匪”，各自认为自己是中国的合法政府。双方都认为，“一个合法政府不能与一个匪政府进行面对面的接触，”香港大学历史系教授徐国琦说。“这一原则适用于所有方面。”</p>
-<p>大陆反对台湾以中华民国的名义参加奥运会，于20世纪50年代退出奥林匹克运动。大陆以中华人民共和国的名称于1979年重返。台湾则被改称为“中华台北”，而且只能使用特殊的旗帜。台湾抗议这一名称变化，抵制了1980年的奥运会。</p>
-<p>虽然“匪”字已不常用，但名称的问题依然存在。今年4月，台湾在最后时刻申请加入大陆创建的亚洲基础设施投资银行，由于以什么名称加入的问题没解决，未能成功。</p>
-<p>同样，大陆和台湾的代表参加会议也会因如何互称对方而遇到障碍。大陆官员不愿用其台湾同行的官衔称呼台湾代表，因为担心那样做会赋予台湾合法性、或暗示台湾是一个国家。</p>
-<p>马英九和习近平将互称“先生”，这是把使用他们头衔的尴尬政治问题搁置起来的一种方式。</p>
-<p>据中国官方通讯社新华社报道，大陆的台湾事务办公室负责人张志军说，“这是在两岸政治分歧尚未彻底解决的情况下根据一个中国原则作出的务实安排。体现了搁置争议、相互尊重的精神。”<br>
-事先对这种事情做决定有助于避免以后的尴尬。</p>
-<p>2008年，负责与台湾同等机构协商的大陆半官方机构领导人陈云林在台北与台湾领导人见面、向其赠送一幅绘画时，因不知如何称呼马英九，一时语塞。最后，他用了“您”。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B9%A0%E9%A9%AC%E4%BC%9A%E9%82%A3%E4%BA%9B%E5%BE%AE%E5%A6%99%E7%9A%84%E7%A4%BC%E4%BB%AA%E8%83%8C%E5%90%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">两岸问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86%E7%AB%8B%E6%B3%95%E9%99%A2/?category=18271" rel="tag">占领立法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9%E5%85%9A/?category=18271" rel="tag">反对党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A/?category=18271" rel="tag">国家利益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -636,7 +638,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -646,5 +648,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

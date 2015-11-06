@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%BC%A0%E5%85%AD%E6%AF%9B%E4%B9%8B%E6%AD%BB/" target="cdt-mirror">巴丢草 | 张六毛之死</a>
+</h2>
+<p><p>@badiucao：广州公民 #张六毛 看守所内突然身亡，此前因所谓“寻衅滋事罪”被关押在广州第三看守所已二个多月，期间被警方告之张六毛“#反党”“反国家”，禁止律师会见，最终律师被迫退出。#酷刑 #人权</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTAYOmBUYAAujU6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTAYOmBUYAAujU6.jpg" alt="CTAYOmBUYAAujU6" width="535" height=""></a></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%9B%9D%E8%B4%BE%E7%81%B5%E6%95%8F%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%9B%9B%E5%B9%B4-%E5%88%98%E5%9C%B0%E4%BC%9F%E4%B8%80%E5%B9%B4%E5%8D%8A/">网曝贾灵敏一审被判四年 刘地伟一年半</a></p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E5%BC%A0%E5%85%AD%E6%AF%9B%E4%B9%8B%E6%AD%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF%EF%BD%9C%E9%A6%96%E6%89%B9594%E5%90%8D%E7%BD%91%E5%AA%92%E8%AE%B0%E8%80%85%E8%8E%B7%E8%AE%B0%E8%80%85%E8%AF%81%EF%BC%9A%E5%95%86%E4%B8%9A%E7%BD%91%E7%AB%99/" target="cdt-mirror">中青在线｜首批594名网媒记者获记者证：商业网站暂不在列</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E9%B2%81%E7%82%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E9%B2%81%E7%82%9C.jpg" alt="鲁炜名片" width="455" height="341"></a><br><em>（网络图片）</em></p>
@@ -674,49 +687,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%86%85%E8%92%99%E7%95%9C%E7%89%A7%E5%AE%98%E8%AF%81%E5%AE%9E%E7%BE%8A%E7%BE%A4%E6%9F%93%E7%97%85-%E7%89%A7%E6%B0%91%E7%A7%B0%E4%B8%83%E4%B8%AA%E5%A4%9A/" target="cdt-mirror">自由亚洲 | 内蒙古羊群染病 牧民称已传染数百人</a>
-</h2>
-<p><p>内蒙古巴彦淖尔市乌拉特中旗巴音杭盖苏木（镇），一个村庄因羊患布氏杆菌病，已经传给人。该旗农牧业局办公室一位官员11月4日称，有羊感染布氏杆菌病，官方一旦发现羊患重症，就地掩埋，但否认出现大面积感染。一位家人被传染的牧民称，七个多月来，已有数百人被传染。</p>
-<p>本台曾于11月3日报道，乌拉特中旗巴音杭盖苏木（镇），与蒙古国接壤的一个村庄德日素嘎查，数日前因羊感染传染性布氏杆菌病，怀疑当地防疫站兽医用药过量，造成上千牲畜死亡。当地牧民也告诉记者，她的30岁儿子感染了布氏杆菌病，全身关节疼痛，至今已经7个月。一位村民乌云格日根的用蒙文发帖求助称，“请给我们联系内蒙古电视台‘实话实说’节目的记者，请他们调查并报道乌拉特中旗巴音杭盖苏木多家牧民的2448头牲畜打预防针中毒死亡的实事”，并留下自己的电话号码。另一位牧民称，羊得病后，有兽医前来给羊注射药物，导致死亡。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/m1103-ql1p2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/m1103-ql1p2.jpg" alt="m1103-ql1p2" width="527" height="732"></a></p>
-<p>本台记者11月4日致电乌拉特中旗卫生监督所查询疫情。接听电话的工作人员称：“这个我不太清楚，我给您找一下我们的所长，您等一会儿。。。。。对不起，我们的所长刚刚出去，等一会回来再给您电话”。</p>
-<p>记者：羊死的事情，您知道了吗？</p>
-<p>回答：这个我不太清楚，您还是问我们所长吧，我还不清楚这边的工作。</p>
-<p>乌拉特中旗农牧业局办公室一位官员4号接受记者采访时证实，巴音杭盖确实有羊群死亡，但非全部死于患病：“巴音杭盖那边的羊是狼咬死的，就是从蒙古国过来了一批狼，咬死的羊”。</p>
-<p>记者：那边说是给羊打防疫针，药量打多了，羊才死的。</p>
-<p>官员：没有，没有，那个没有。</p>
-<p>记者：有个牧民说，他们几家死了2448头牲畜，都是打预防针以后死的。</p>
-<p>官员：那个没有，应该没有。我们怎么能打预防针就死，我们这个地方不可能，可能是别的毛病死的。</p>
-<p>这位官员承认，有羊群感染布氏杆菌病，还说如果人不注意防护，会传给人。</p>
-<p>记者：你知道羊有没有一种病，叫布杆病（布氏杆菌病）？</p>
-<p>官员：这个是已经有了，但是（羊）不可能是打药（打针）打死的。那个（病）有了。</p>
-<p>记者：这个布杆病（布氏杆菌病）是不是羊的传染病？</p>
-<p>回答：对，对，对。羊的传染病有的从新疆过来的，或者从哪儿过来的。（病情）轻微的还好一点，严重的我们这儿挖一个坑就埋了。不能（让羊）流血。</p>
-<p>记者：听说这个病还传染人，有没有？</p>
-<p>官员：反正你要是不戴手套就感染，它会传染。</p>
-<p>记者：传染人会吗？</p>
-<p>官员：有也是有。</p>
-<p>当地一位牧民告诉记者，已经有百多人受到传染：“几百个人都传染这个病了。如果控制得早还好一点，传染上这个病要是看得迟了，就是终身。这个病去不了根。昨天我就给你发了两张布氏杆菌病防疫站的图片，就是发不出去”。</p>
-<p>巴音杭盖一位经营牧场的牧民4号告诉记者，羊群的病情，已见好转：“那个现在已经处理了”。</p>
-<p>记者：现在还在死吗？</p>
-<p>回答：现在暂时，今天没有发现。</p>
-<p>记者：前后一共死了多少只羊？</p>
-<p>回答：有个二、三百只。你是哪儿的记者？</p>
-<p>记者：从香港打过来。</p>
-<p>回答：哦，要是（政府）不解决的话，我再和你们联系吧。</p>
-<p>据牧民称，今年3月起，当地发生羊传人的疾病，人被传染后，出现全身关节疼痛等症状。10月下旬，内蒙古与蒙古国交界的巴音杭盖草场出现大批羊群死亡。牧民称，畜牧旗长巴雅儿图，要求兽医增加给羊注射的药物剂量，导致羊中毒死亡。旗政府办公室人员11月3日接受本台采访时否认此事。但官方未就牧民在网上发帖，做出公开回应。而记者所见到的照片中，出现大量死羊被埋在一个深坑内。</p>
-<p>（特约记者:乔龙；责编：胡汉强/马平）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%86%85%E8%92%99%E7%95%9C%E7%89%A7%E5%AE%98%E8%AF%81%E5%AE%9E%E7%BE%8A%E7%BE%A4%E6%9F%93%E7%97%85-%E7%89%A7%E6%B0%91%E7%A7%B0%E4%B8%83%E4%B8%AA%E5%A4%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4/?category=18271" rel="tag">内蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA/?category=18271" rel="tag">内蒙古自治区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4%E8%8D%89%E5%8E%9F/?category=18271" rel="tag">内蒙古草原</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A7%E6%B0%91/?category=18271" rel="tag">牧民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -728,7 +698,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -738,5 +708,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%BE%8E%E5%8A%9E%E7%94%B5%E5%8F%B0%EF%BC%8C%E6%9A%97%E6%B8%A1%E9%99%88%E4%BB%93%E5%8F%97%E9%98%BB/" target="cdt-mirror">美国之音 | 中国在美办电台，暗渡陈仓受阻</a>
@@ -130,7 +130,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6/?category=18271" rel="tag">交警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95/?category=18271" rel="tag">交通违法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BE%E6%B0%94/?category=18271" rel="tag">戾气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">暴力事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AD%E8%AD%A6/?category=18271" rel="tag">袭警</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%87%8D%E9%87%91%E9%93%BA%E8%B7%AF%E4%B8%AD%E5%85%B1%E5%A4%A7%E5%A4%96%E5%AE%A3%E6%B5%B7%E5%A4%96%E6%89%A9%E5%BC%A0/" target="cdt-mirror">自由亚洲 | 重金铺路中共大外宣海外扩张</a>
 </h2>
@@ -155,7 +155,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92/?category=18271" rel="tag">中国官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93/?category=18271" rel="tag">华文媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93/?category=18271" rel="tag">境外媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">对外宣传</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/" target="cdt-mirror">psy-eyes | 唐映红：禁止成员说三道四能提高团队的凝聚力吗？</a>
 </h2>
@@ -717,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

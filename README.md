@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E9%A2%86%E5%AF%BC%E5%B1%82%E8%BF%98%E8%83%BD%E6%8E%A7%E5%88%B6%E5%AE%98%E5%83%9A%E4%BD%93%E7%B3%BB%E5%90%97%EF%BC%9F/" target="cdt-mirror">端传媒 | 温克坚：中国政治领导层还能控制官僚体系吗？</a>
+</h2>
+<p><h2></h2>
+<p>作者：温克坚 青年经济学者，专栏作家</p>
+<blockquote><p>在一个正常社会，官僚在人格上是有尊严的，他只服从于自己的职责，但在中国特殊的政治情境中，这种所谓人格尊严是不存在的，官僚们也被层层设防。</p></blockquote>
+<p><small>编按：两年以来，中国执政党在强力反腐赢得民心的同时，也破坏了曾经的官僚体系激励机制。旧的激励机制没了，新的激励机制没有出现，官僚体系的怠政惰政，“就地卧倒，啥都不干”，在一些观察人士眼里，已经成为普遍现象。一位中央党校教授曾向端传媒表示，中国经济发展的放缓，与如今官员不作为有相当大的关系。</small></p>
+<p><small>“党不把干部当人，而把干部当狗”，“升迁的时候不顾你的胡作非为、黑色收入，打击你的时候也没有任何人权可言”，这位教授认为。应该如何看待中国政治领导层与其官僚体系之间，目前的微妙关系？本文带来一种解释。</small></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/181f9195a5d144ae93e1a9b237bff33f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/181f9195a5d144ae93e1a9b237bff33f.jpg" alt="BEIJING, CHINA - MARCH 08: China's President Xi Jinping (R) and Premier Li Keqiang (L) arrive for the second plenary session of China's parliament, the National People's Congress (NPC), at the Great Hall of the People on March 8, 2015 in Beijing, China. China plans to develop national legislation to fight corruption, according to the work report delivered by Chairman of the Standing Committee of the NPC Zhang Dejiang Sunday. (Photo by Feng Li/Getty Images)" width="550" height="367"></a><br><span>温克坚：中共18大以来，敏感的人们可以感受到，寻求扩张权力的政治领导层和官僚体制之间出现了结构性张力，两者之间已经出现越来越深的裂痕。图为中国国家主席习近平和总理李克强出席全国人大会议。摄：Feng Li/Getty</span></p>
+<p>2015年9月初，山东济宁市长梅永红宣布辞职，作为在体制内有一定政治前途的厅局级干部，梅永红的辞职引起舆论回响，但相关讨论并没有触及深层，梅本人在接受媒体采访时候，对其离职行为做了一番轻描淡写的描述，说人才在体制内外流动应该都是正常的。</p>
+<p>2015年9月下旬，官方宣布原证监会主席助理张育军因为重大违纪被调查，张育军拥有经济学博士和法学博士学位，曾经担任过深交所和上交所总经理，被认为是履历完美颇具才干的财经高官之一。若干年前在深圳某个小型论坛，我曾经听过张育军一次演讲，印象相当不错，一些熟悉金融圈的朋友也对张赞赏有加。张育军被抓之际，正负责协调股市救市政策，他职业的折戟，折射了救市政策的荒诞。</p>
+<p>而在更一般意义上，无论是梅永红的辞职，还是张育军的被抓，都具有一定的象征意义，表明在政治情境变化背景下，官僚体系已陷入深刻的结构性尴尬。</p>
+<p><strong>政治领导层缺乏充分权威来规训官僚体系</strong></p>
+<blockquote><p>中共18大以来，敏感的人们可以感受到，寻求扩张权力的政治领导层和官僚体制之间出现了结构性张力，两者之间已经出现越来越深的裂痕。</p></blockquote>
+<p>近现代以来， 官僚体系以其专业化科层化结构，成为国家制度的重要构件之一，随着社会越来越复杂化，官僚体系结构越来越完备，对社会治理功能也越来越重要。</p>
+<p>从经验层面看，官僚体系可以和不同政治制度兼容，虽然具体角色有所差异，但无论是宪政民主制，威权体制，党国体制都需要一个功能强大的官僚体制。 过去三十多年来中国官僚体制也有了长足进展，成为社会治理和管控的重要组织工具，官僚体系如此重要，在一定意义上，中国的政治体制甚至接近美国政治学家奥唐纳（Guillermo O’ Donnell）描绘的官僚威权主义。</p>
+<p>但中共18大以来，敏感的人们可以感受到，寻求扩张权力的政治领导层和官僚体制之间出现了结构性张力，两者之间已经出现越来越深的裂痕。由于言论管制的原因，相关讨论并不多见，笔者曾经从经济政策和官僚体系的反应模式写过一篇文章，但这个话题十分重要，还需要更多角度的阐述，因为官僚体系的病变成为社会演变中模糊而重要的场景。</p>
+<p>庞大的官僚系统成员，大部分都受过良好的教育，有一定专业能力，是通常意义上的社会精英，他们对现代社会众多价值有基本的辨识能力，这意味着他们不再是共产主义信徒，中共宣扬的意识形态对他们已经失去号召力。</p>
+<p>没有了意识形态凝聚力，官僚体系保持和政治领导层的协同难度大幅增加，而随着政治权威递减，政治领导层也缺乏充分权威来规训官僚体系，而由于体制特征，通过开放政治参与，通过公民社会和新闻自由等现代手段来规训官僚体制，事实上也不可能，因此官僚体系和政治领导层之间一直处在某种紧张关系中。</p>
+<p>维系官僚体系运作的重要规则是专业分工。现代社会是高度复杂社会，不同领域的社会治理方式差异巨大，官僚们需要在特定领域形成专业和专门知识，收集信息，作出判断，通过层级分工推进执行，这种专业分工是官僚体系的独特价值，也是以此反制政治领导层的重要工具。</p>
+<p>但在现实政治中，原来形成的专业分工经常被政治意图打乱，各种叠床架屋的机构，尤其是所谓各种领导下组，可以凭借更强的政治资源来做出决策，践踏既有规则，蔑视长期形成的官僚体系内部的传统。2015年7月以来资本市场的救市过程就是一个典型的例子，这种不尊重官僚体系专业分工和权限边界的做法，对身在局中的官僚们而言，个中滋味必然是五味杂陈。</p>
+<p><strong>中国官僚集团不存在人格尊严</strong></p>
+<blockquote><p>缺乏意识形态的凝聚力，缺乏职业角色的尊重，缺乏公平公正的规则，缺乏人格尊严，几千万号称拥有精英身份的官僚群体，其实活得并不光鲜。</p></blockquote>
+<p>除了专业主义，维系官僚体系运转的还有一套绩效评定机制，这套机制通过评估官僚们的工作绩效，来决定奖惩升迁。</p>
+<p>但在现实政治情境中，派系政治，庇护政治往往大行其道，通过一些简单对比就可以看出，具有所谓红色血统的太子党，或者团派上海帮等色彩的官僚成员在职业阶梯升迁过程中显然独具优势，朝中有人好做官的潜规则并没有打破，官僚绩效评估机制，缺乏透明度和公信力。为了政治前途，官僚们必须做很多投资，这是官场腐败诱因之一。</p>
+<p>在一个正常社会，官僚在人格上是有尊严的，他只服从于自己的职责，但在中国特殊的政治情境中，这种所谓人格尊严是不存在的，官僚们也被层层设防，比如他们被要求申报财产，行动受限，护照统一管理，生怕某一刻成为体制的背叛者。需要说明的是，对官僚体系的这些约束规则中，有一些是正常的，但在缺乏正当性的体制下，官僚体系成员自然不会心悦诚服的接受这些安排。</p>
+<p>缺乏意识形态的凝聚力，缺乏职业角色的尊重，缺乏公平公正的规则，缺乏人格尊严，几千万号称拥有精英身份的官僚群体，其实活得并不光鲜。而维系官僚体系有效运转的秘密，其实是特殊的利益激励，也就是通常说的腐败换取忠诚的潜规则。</p>
+<p><strong>非常态反腐震慑，官僚体系离心力增加</strong></p>
+<blockquote><p>在既有政治结构下，政治领导层已经无法有效的规训官僚体系，也无法确保官僚体系的效忠和能力发挥，但反过来官僚体系也无法对抗政治领导层。</p></blockquote>
+<p>长期以来，官僚体系的权力腐败和道德堕落几乎是公开的秘密，根据“透明国际”发布的“2014全球清廉印象指数排行榜”(CPI)，中国得分为36分，排名从80名下滑到100名。中国官僚体系的腐败，已经呈现出系统性和弥漫性的特征。</p>
+<p>面对这种格局，反腐败是政治领导层一贯的姿态，也是惩戒官僚体系的手段，18大以来的纪律整肃和反腐运动，尽管备受诟病，其可持续性也高度存疑，但在力度，规模和反腐方式上，的确对官僚体系形成了强大的震慑。</p>
+<p>尤其有意思的是，反腐行动已经打破原来诸多惯例，比如广州市委书记万庆良在会场被带走，前昆明市委书记仇和刚刚开完两会被宣布调查，郭伯雄的儿子郭正钢被提升为少将之后照样被抓，在求是杂志上发表文章表忠心的令计划照样被抓，而河北省委书记周本顺被抓当天上午，还在参加京津冀一体化会议。在这种非常态的反腐震慑下，很多官僚们都处在某种程度的恐慌之中。</p>
+<p>尽管很难全面描述官僚体系的回应，但从观察到的社会现象来看，毫无疑问的是，官僚体系的忠诚度下降，离心力增加，懈怠、惰政成为大部分官员的默认选项，少数有想法的则会选择和体制分道扬镳。</p>
+<p>总的来说，在既有政治结构下，政治领导层已经无法有效的规训官僚体系，也无法确保官僚体系的效忠和能力发挥，但反过来官僚体系也无法对抗政治领导层，他们的回应是被动的，他们并不能成为主导社会变革的结构性角色，懒政惰政将增加社会摩擦，诱发更多的社会冲突。</p>
+<p>成事不足，败事有余，或许是对官僚体制病变后果的恰当描述。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E9%A2%86%E5%AF%BC%E5%B1%82%E8%BF%98%E8%83%BD%E6%8E%A7%E5%88%B6%E5%AE%98%E5%83%9A%E4%BD%93%E7%B3%BB%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%8D%81%E5%85%AB%E5%A4%A7/?category=18271" rel="tag">中共十八大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%83%9A%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">中国官僚体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E4%B8%8D%E4%BD%9C%E4%B8%BA/?category=18271" rel="tag">行政不作为</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%87%E6%81%B6%E7%9A%84%E7%BE%8E%E5%B8%9D%E8%BF%9E%E7%9C%81%E6%94%BF%E5%BA%9C%E9%83%BD%E4%B8%8D%E5%A6%82/" target="cdt-mirror">【网络民议】“万恶的美帝连省政府都不如”</a>
 </h2>
 <p><p><strong>新闻背景：</strong></p>
@@ -596,37 +638,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E6%B5%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%9B%9D%E8%B4%BE%E7%81%B5%E6%95%8F%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%9B%9B%E5%B9%B4-%E5%88%98%E5%9C%B0%E4%BC%9F%E4%B8%80%E5%B9%B4%E5%8D%8A/" target="cdt-mirror">网曝贾灵敏一审被判四年 刘地伟一年半</a>
-</h2>
-<p><p>薛荣民律师今日在新浪微博称，因义务普法而被控“寻衅滋事”罪的贾灵敏、刘地伟一案，将在其家属接到通知的同一天下午开庭。</p>
-<p>记者陈宝成随后在微博公布一审结果，称贾灵敏被判四年，刘地伟被判一年半。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%B4%BE%E7%81%B5%E6%95%8F%E6%A1%88.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%B4%BE%E7%81%B5%E6%95%8F%E6%A1%88.png" alt="贾灵敏案" width="550" height="294"></a></p>
-<blockquote><p><a href="http://weibo.com/1042940955/D2qKDcP2X">@薛荣民律师</a>：@贾灵敏家属 来电，巩义法院今天（11月5日）上午通知贾灵敏家属今天下午三点半巩义法院开庭！估计要下判决了！</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%99%88%E5%AE%9D%E6%88%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%99%88%E5%AE%9D%E6%88%90.png" alt="陈宝成" width="550" height="400"></a></p>
-<blockquote><p><a href="http://weibo.com/1064936313/D2sdjfSBl">@記録者陳寳成</a>：贾灵敏老师被判四年。</p>
-<p><a href="http://weibo.com/n/%E8%A8%98%E9%8C%B2%E8%80%85%E9%99%B3%E5%AF%B3%E6%88%90?from=feed&loc=at" target="_blank">@記録者陳寳成</a>:刘地伟一年半。</p></blockquote>
-<p>2015年4月，曾为贾灵敏辩护的朱孝顶律师指该案起诉书多项内容“严重失实”，认为当地政府使用虚构的事件“将贾灵敏依法平和的普法行为构陷为‘寻衅滋事’”，并且“起诉书所指控的四起寻衅滋事都有一个共同特点，就是认定贾灵敏、刘地伟二人把案发时的照片上传到了网上，造成了所谓的不良影响”。</p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/05/%E5%A4%A7%E6%A1%88%EF%BD%9C%E6%8B%86%E8%BF%81%E6%99%AE%E6%B3%95%E8%80%85%E8%B4%BE%E7%81%B5%E6%95%8F%EF%BC%8C%E4%BA%89%E8%AE%AE%E5%9B%9B%E5%AE%97%E7%BD%AA/">大案｜拆迁“普法者”贾灵敏，争议“四宗罪”</a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@王甫律师:一个普法者最终被弄法者判了。中国特色的社会主义建立着以法治国特色的法治国家。</p>
-<p>@天涯赵瑜：不知贾灵敏有什么罪，只知道她家的房子被强拆后，她曾无家可归。在中国，房子被强拆是不能反抗的，不然可以判刑四年。</p>
-<p>@律师王兴：刑诉法明确规定开庭（包括宣判）至少要提前三日通知，他们就能这么混不吝</p>
-<p>@土猫领地：她若是去普及婚姻法、交通法，估计不会出这样的问题吧。社会主义初级阶段，普法也要有时代特色，该普的普，不该普的不普。等到共产主义，我想，什么法都是可以普的。</p>
-<p>@孤独求败–南开翔宇：谁把罪名加在贾灵敏头上，谁才是罪犯！</p>
-<p>@华丽丽如偶：跟中国梦作对的下场。</p>
-<p>@长青24—守望：随便拆迁房子是合法的吗？</p>
-<p>@只要你过的比我好我就受不了了：所以台湾闹，香港噪。是有因的。其他我也不敢说我怕来我家超水表。</p>
-<p>@胡光明律师博客：培养那什么主义的掘墓人嘛不是？？？？</p>
-<p>@阿信__我要深海鳳梨凍星砂：咦怎么突然觉得自己学法律也没什么用了呢～对于这些打着…幌子的强盗一抗争还得自己进去</p>
-<p>@mgy1984：这就是盛世，就算全民小康又如何！更何况根本不现实！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%9B%9D%E8%B4%BE%E7%81%B5%E6%95%8F%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%9B%9B%E5%B9%B4-%E5%88%98%E5%9C%B0%E4%BC%9F%E4%B8%80%E5%B9%B4%E5%8D%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E7%81%B5%E6%95%8F/?category=18271" rel="tag">贾灵敏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -638,7 +649,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -648,5 +659,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

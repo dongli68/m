@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B9%A0%E9%A9%AC%E4%BC%9A%E6%8A%A5%E9%81%93%E4%B8%AD%E7%9A%84%E4%B9%9F%E5%AD%97%EF%BC%9A%E8%AE%BA%E3%80%8A/" target="cdt-mirror">【立此存照】“习马会”报道中的“也”：论《环时》的高级黑属性</a>
+</h2>
+<p><p>《环球时报》的官方微博账号在报道马英九记者会时，发布了这么条内容：</p>
+<blockquote><p><strong>@环球时报</strong>：马英九记者会开始，台湾方面的记者提问明显也是安排好的，都叫的出媒体和名字。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/53ae0b70jw1exskumslbhj20p018gdmv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/53ae0b70jw1exskumslbhj20p018gdmv.jpg" alt="53ae0b70jw1exskumslbhj20p018gdmv" width="415" height="738"></a></p>
+<p>这个意味深长的“也”字迅速引来了大量围观，《环时》的高级黑属性再一次成为了网民议论的焦点。近期例子包括：</p>
+<blockquote>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E6%AC%BA%E9%AA%97%E4%B8%AD/">环球时报｜共产主义理想没有欺骗中国</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A6%82%E6%9E%9C%E8%88%8D%E4%B8%8D%E5%BE%97%E5%A4%96%E6%8F%B4-%E6%A0%B9%E6%9C%AC%E5%B0%B1%E6%B2%A1%E6%B3%95%E5%9C%A8%E5%9B%BD/">环球时报｜中国的如果舍不得外援，根本就没法在国际社会混</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%BE%BE%E8%B5%96%E5%AE%9E%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%8D%A7%E5%87%BA%E6%9D%A5%E7%9A%84/">环球时报｜达赖实为西方捧出来的“国际王林”</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF/">环球时报｜必须理直气壮地说中国是最大民主国家</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%94%BE%E9%A3%8E%E6%94%BB%E9%98%B2%E7%81%AB%E5%A2%99%E6%8A%A5%E5%A4%8D%E4%B8%AD%E5%9B%BD-%E5%A4%AA%E8%BF%87%E5%88%86%E4%BA%86/">环球时报 | 美国放风攻防火墙报复中国 太过分了</a></li>
+</ul></blockquote>
+<p>截至发稿时，上述微博已被和谐。</p>
+<p>不过同时也有网民指出，使用iPhone6发表上述微博的这名外号“肾六小编”的《环时》编辑（<a href="http://weibo.com/paingod">@paingod</a>），与另一名管理该报微博官方账号、外号“美腿小编”的编辑，经常使用@环球时报 的帐号<a href="http://www.zhihu.com/question/34593882">发表一些</a>相对（该报）而言“三观较正”的言论。而那位“美腿小编”刚刚还在个人账号内吐槽了央视直播“习马会”时<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E6%8E%90%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E-%E8%A2%AB%E7%BD%91%E6%B0%91%E6%89%B9%E4%B8%8D%E8%87%AA/">掐掉马英九致辞</a>的原因：</p>
+<blockquote><p><strong><a href="http://weibo.com/5677121040/D2LgXc1M1">@耿直的MT</a></strong>：本质上就是他们还没有看，而且亲儿子没发，所以不能发。但看了之后发现没问题，于是先让亲儿子发，然后才能发。可笑吧？</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BE%8E%E8%85%BF%E5%B0%8F%E7%BC%96.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BE%8E%E8%85%BF%E5%B0%8F%E7%BC%96.png" alt="美腿小编" width="450" height=""></a></p>
+<p><del>（所以两位都是“反贼”么）</del></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@科罗廖夫：【“也是”，神来之笔，这反贼黑的好】宣传部门的潜意识都是反贼，别看嘴上唱着红口号，其实是把对我们党和国家的仇恨深深地埋在心底里，一不小心就能露出来，木有一个例外的。</p>
+<p>@新井县令：今天媒体报道“习马会”只有两个笑点，一个是央视“掐话”，一个是环球“也是”。</p>
+<p>@从不惹泥煤lol：中黑部</p>
+<p>@轻侯2046：别点破啊，还要继续卧底呢！</p>
+<p><a href="http://weibo.com/1744207803" target="_blank">清水芙蓉1919</a>：无心插柳柳成荫…….<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/5578022971" target="_blank">海贼王在洛杉矶</a>：萱萱里是藏了多少反贼啊<img title="[亲亲]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8f/qq_org.gif" alt="[亲亲]"><img title="[亲亲]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8f/qq_org.gif" alt="[亲亲]"></p>
+<p><a href="http://weibo.com/xuhui0815" target="_blank">回复未完请刷屏</a>：马屁拍歪了！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/n/%E5%8E%A6%E9%97%A8%E5%87%A4%E5%87%B02012?from=feed&loc=at" target="_blank">厦门凤凰2012</a>: 小编，这个月的奖金该扣光了吧<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><a href="http://weibo.com/n/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5?from=feed&loc=at" target="_blank">@环球时报</a></p>
+<p><a href="http://weibo.com/am0707" target="_blank">荣-Sir</a>：一个“也”字，坐实了反贼的身份<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/3258685020" target="_blank">心爱的宝宝爱你</a>：<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]">，天朝宣宣又蠢又坏</p>
+<p>@水火山泽风雷：这智商249+1！</p>
+<p>@高尔察克新号:政治经济上分前后30年，宣传上60年没变。</p>
+<p>@铁锈的福音使：环球这飞盘怎么叼碎了呢？</p>
+<p>@气质内敛的先生： 拉宾诺维奇到资本主义国家出差，在那里，他给单位拍了一个电报：“我选择了自由。”这事发生后，单位马上召集了党代会谴责拉宾诺维奇，并要做出组织结论。在会议中间，拉宾诺维奇突然走进了会场！全场哑然。 拉宾诺维奇说道：“我非常感兴趣，你们是怎样理解自由的。”</p>
+<p>@2015吴乐平：晚上没看得成新闻直播，说刷刷微博了解下马习会，结果各大官微啊，啧啧啧，转发点赞上千，评论连个十位数都没有……删评论删得，我都看不到真东西，想知道些什么还得搜自媒体……</p>
+<p>@CHKDSK_：宣传部胡说八道你们骂，现在人家讲实话了还是被骂，你们也是挺难伺候。。。</p>
+<p><a href="http://weibo.com/1942131934" target="_blank">_婲嗏_</a><i title="微博达人"></i>：<a href="http://weibo.com/n/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5?from=feed&loc=at" target="_blank">@环球时报</a> 送给观光团 不谢 <img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B9%A0%E9%A9%AC%E4%BC%9A%E6%8A%A5%E9%81%93%E4%B8%AD%E7%9A%84%E4%B9%9F%E5%AD%97%EF%BC%9A%E8%AE%BA%E3%80%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%B1%E8%90%B1/?category=18271" rel="tag">萱萱</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E6%8E%90%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E-%E8%A2%AB%E7%BD%91%E6%B0%91%E6%89%B9%E4%B8%8D%E8%87%AA/" target="cdt-mirror">“习马会”央视直播掐马英九致辞 被网民批“不自信”</a>
 </h2>
 <p><p>备受关注的习马会于中国时间本周六在新加坡举行，央视作为中国大陆唯一有权直播的媒体，却在习近平发表完讲话，马英九准备致辞前将镜头从现场切回直播间。</p>
@@ -613,33 +657,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/" target="cdt-mirror">唐映红：禁止成员说三道四能提高团队的凝聚力吗？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg" alt="640" width="500" height="375"></a></p>
-<p>Q&A151104</p>
-<p><strong>问：禁止成员说三道四能提高团队的凝聚力吗？</strong></p>
-<p>答：生活中，无论是企业组织，还是公益社团，当需要实现组织目标的过程中，都希望能组织团队能有<strong>足够的凝聚力</strong>。有些组织、社团会希望通过<strong>禁止成员对组织重要议题说三道四来提高团队凝聚力</strong>，那么他们的希望能够奏效吗？</p>
-<p>从心理学角度，涉及到诸如组织、社团这样的团队，影响它们绩效或者凝聚力的因素十分庞杂，且错综交织，很难因循少数维度或因素而厘清。所以，<strong>特定的措施能否对团队凝聚力具有积极的作用，不能简单地下断语YES or NO，必须置于具体情境中讨论。</strong></p>
-<p>换言之，<strong>禁止成员说三道四既可能提高团队的凝聚力，也可能削弱团队的凝聚力</strong>，要达成前者关键取决于两个因素：<strong>什么样的团队，在什么样的情境下</strong>。</p>
-<p>首先，<strong>通过限制批评，禁锢言论来提高凝聚力，就必须确保团队成员的高度相似性</strong>，成员之间相似性越高，成员之间就越能达成共识，那么排斥少数说三道四的意见确实能提高团队的凝聚力。例如，全是左撇子的团队，决定禁止用右手拿筷子，就很容易达成共识，禁止少数异议者确能提高凝聚力。</p>
-<p>对一个社会生态中的组织、社团团队，所涉及的议题往往复杂多维，<strong>单一或少数维度的相似性无法满足总是达成共识的边界条件</strong>，因此就需要团队成员的判断能力、思考能力要相对简单，甚至越简单越好。这样，他们就很容易被说服，而不大可能会依据逻辑和实证对漏洞百出的说辞提出质疑。这就意味着，<strong>团队成员普遍越愚蠢越保守，也越容易通过禁止说三道四来提高凝聚力。</strong></p>
-<p>尽管如此，由于社会生态中的一个组织、社团的团队<strong>无法通过简单的方式筛选具有高度相似性且愚蠢保守的成员</strong>，总难免混杂一些不那么愚蠢，也不那么保守的成员，他们对组织、社团话事人的决议难免心存疑虑并表达出来。因此，由具有高度相似性且愚蠢、保守成员组成的团队必须要<strong>形成特异性的机制来甄别并排斥这些与众不同的成员</strong>，例如，发动成员积极举报那些对话事人说三道四成员，并通过妖魔化的标签来使绝大多数单纯的成员远离他们。可以将这一小撮异议者及其言论贴上“别有用心”、“敌对势力指使”、“间谍”等标签。事实上，通过<strong>“抓坏人”的团队运动不仅能有效地将少数异议者排斥出团队，还能“锻炼”其他成员，增强他们对团队的依赖，从而提高团队的凝聚力。</strong></p>
-<p>既此，通过禁止成员说三道四来提高团队凝聚力的边界条件就主要包括至少三项：①<strong>成员的高度相似性</strong>，特别是意识形态上的一致性；②<strong>成员普遍愚蠢而保守</strong>；③<strong>形成对少数异议成员的甄别和排斥机制</strong>。其中①的满足需要形成广泛而有效的<strong>讯息管制</strong>，并通过卓有成效的<strong>意识形态灌输</strong>来促使成员在观念上形成一致。②的满足需要团队文化要形成<strong>反智的文化氛围</strong>，重用愚蠢而保守的骨干担任干部；③的满足需要<strong>持续的、周期性的不断的清洗运动</strong>来保持团队的纯洁和成员的警惕，并随时清除一小撮异议者。归纳起来就是：<strong>洗脑灌输、反智文化、清洗运动。</strong>任一项的缺乏或削弱，都将破坏甚至反转“通过禁止成员说三道四来提高团队凝聚力”的效果。</p>
-<p>即使通过“洗脑灌输、反智文化、清洗运动”而形成符合边界条件的团队，要真正达成“通过禁止成员说三道四提高团队凝聚力”也殊为不易，还必须仰赖在<strong>特定的情境</strong>下。其中包括但不限于下面要素的满足：</p>
-<p>1、<strong>团队必须要封闭，不能保持开放。</strong>通过封闭团队，既能有效避免“有害”讯息的传入，也能有效降低团队外部压力。一旦开放，不仅洗脑灌输的效果将大打折扣，成员的高度相似性，特别是意识形态的一致性势必被削弱；而且外部讯息将冲击团队费心营造的反智文化氛围，很容易造成成员被教育、启蒙，从而难以约束，并大大增加清洗运动的难度。</p>
-<p>2、<strong>要有足够的资源维持高昂的成本支出。</strong>通过“禁止成员说三道四来提高团队凝聚力”固然可行，但依靠这种凝聚力来达成目标或实现理想岌岌可危，必须耗费大量成本来维护秩序。成员再愚蠢保守，再整齐划一，也需要通过目标的实现来获得具体的利益，否则就难以维系。这就需要有耗费大量的成本来“收买”成员；或“豢养”秩序维护者，如护厂队，来吓阻动摇的成员。</p>
-<p>3、<strong>任务必须足够简单</strong>。将通过“禁止成员说三道四”来提高了团队凝聚力用来做什么这才是问题的关键。对于任何稍微复杂的任务都无法通过符合边界条件的团队来达成而不破坏或削弱边界条件来实现。只有简单的任务才足以达成而不破坏或削弱边界条件。例如，<strong>即使提出高瞻远瞩的宏大任务目标，像组织、社团的伟大崛起之类，但实际的任务其实只不过是维持组织、社团而不致迅速瓦解。</strong></p>
-<p>可以这么说，能同时满足“禁止成员说三道四能够提高团队凝聚力”的团队边界条件和情境边界条件，实际上是一条极其狭窄的范围，在一个开放的社会里，这样的狭窄范围几乎不可能维持这样的团队及其目标任务保持足够的时间。<strong>更可能的情况是“禁止成员说三道四”所提高的不过是虚假的“凝聚力”，也就是管理心理学里所说的“权益从众”，理性的成员总是择机而动，哪怕是愚蠢而保守的芸芸庸众，在基本的趋利避害方面仍然是理性的。</strong></p>
-<p>更简单的方式并非是追求真正提高团队的“凝聚力”，而是<strong>通过恐吓和暴力吓阻来胁迫成员假装有“凝聚力”。</strong>在<strong>利益</strong>和<strong>暴力</strong>的双重作用下，<strong>绝大多数趋利避害的庸众都能理性地做出符合团队话事人预期的选择</strong>。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="300" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -651,7 +668,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +678,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

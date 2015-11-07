@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%90%9B%E8%BE%BE%E4%B9%90%E7%9A%84%E6%85%A2%E5%85%88%E7%94%9F%EF%BC%9A%E6%97%A2%E7%84%B6%E8%AF%B4%E8%B5%B7%E7%A9%86%E6%96%AF%E6%9E%97/" target="cdt-mirror">君达乐的慢先生：既然说起穆斯林</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/05/1-e1400696477931.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2014/05/1-e1400696477931.jpeg" alt="蒙面妇女1" width="575" height="415"></a><br><em>（网络图片）</em></p>
+<p>回族在我的记忆里以前不是这样的，世俗化的很，非常正常快乐的一个民族。前几年回去听一个回族朋友聊天还说起这些变化。他认为现在的状况是越来越差，青海赵家直到今天都不回应回族的几个基本诉求（也称四大自由），这些诉求喊了无数年了，1停止指派阿訇，阿訇应该民选，2集资买地建寺自由，3放开麦加朝圣的管控。4我就不说了，说了麻烦。</p>
+<p>我认识的靠谱的回族知识分子一致认为，民族政策只是便宜了混子。暴徒打砸抢政府不管，人家一个馕一个馕的卖凑出钱来建个寺，你咣咣两下给人拆干净，说是什么有规定每多少万教民社区才能有一个寺，买地的时候你怎么不说呢？完了人家回族大学生去网上伸冤底下好几万大汉族主义者留言说社会主义就是干。大学生尚且气的背过去，你指望我一个卖馕怎么处理这种情绪？当然是从此逢汉必反了，这个没什么不好理解的，我国中年男性还一有人和事事就是“美帝的阴谋”，这种简单的回路也是适合别人的。</p>
+<p>回族知识分子当然知道执政党是执政党民族是民族，冤有头债有主。但是我国大学生都还好多没理清楚的呢，认为政府强大军队强大就是自己强大，却不知道这支强军有一天还要上长安街收拾自己的，那还是读过两天书的，这笔账最终被算给汉族人是没办法的。这种时候你一个汉族人应该敦促政府去回应诉求，并且要求严惩打砸抢当事人，你要争取掐灭仇恨源并告诉对方规矩还是有的，</p>
+<p>而不是在网上叫嚣要把对藏政策搬到回族头上，去“收拾”某个大群体，关键是你一个圈里的抽税用肉猪你指挥人也要听啊。我们汉族为什么要做这个好人？因为每次过出乱子你都是受害者，而且是唯一的受害者。有一年闹事（记不清哪回了，因为经常闹事），我去省大院玩，门口连站岗的都没有了，你要报了住址，目的，那边核实了，大铁门开出一条缝，你侧身进去。里面全是兵大小伙子国防力量的，街上打的头破血流，星辰大海军在哪里，在大院里？你们赵家老爷们尚且怂成这样我们屁民怎么办？</p>
+<p>混子打砸抢偷贩毒拐卖你不管，然后没事把人家阿訇撤了，派个新的听话的，党校培训过两年的，人家不乐意上街了，赵家的弱智老爷们还做不可理喻状，我都那样了你们怎么还这样，委屈的不行，蝗汗（大汉族主义者，王震信徒）们跟着掉眼泪，老爷他们怎么就那么不知道心疼人啊老爷。最邪门的一点是但凡赵家老爷指派的有一个算一个都是最后声名狼籍了的，贪污捐款啦，沙特圣地圣物特许经营啦，寺院要景点化挣外快啦，然后一车一车的冲锋衣佳能大炮的游客拉进来咔咔拍。</p>
+<p>完了就是麦加朝圣名额制，内陆城市中产阶级永远无法想象藏回维要办个护照有多难。流程多还得要介绍信邀请函，少数民族出境完全被设计成一个互相踢皮球循环受辱的封闭环，在中国稍微有点去行政窗口办事经验的人应该都知道他们什么嘴脸，而且你猜办事人员主要是哪个民族的？你再猜应为古兰经的要求，每年要有多少人本来情绪控制就差一点的回族朋友要在这个凌辱环里滚一圈？麦加朝圣审批制度直接导致大家去不了，因为那点可怜的名额几乎每年都被赵姓穆斯林官员及其家属占了，邪了门的是他们中的很多恰好就那些指派阿訇，一辈子梦寐以求的机会人家给你当越冬假就用掉了。</p>
+<p>为什么限制名额，赵老爷振振有词。出去以后跟穆斯林世界胡说怎么办？青海文革时可是强迫回族人养“大耳朵的”体重不达标还收拾人家呢，一群穆斯林心惊胆战的看猪走上大队地秤，秤杆高高的一百五十斤，激动的互相握手（此处有蝗汉种族主义者们的欢呼），所以只有我信得过的才能出去。开放有没有麻烦？有一些，赵老爷可能会增加一些工作量。于是赵老爷不，有一点麻烦我就禁止，你们的麻烦不是我的麻烦。农民工子弟学校被废之类的都是这个道理。</p>
+<p>这些诉求现在没怎么听说了？这么说吧，罗永浩如果是个西宁回族人，他长不了这么大和这么宽。一个回族人要维权，衙门不理你这是一定的，你要上街喊，当场响者如云，然后就乱了，喊什么口号的都出来了。不管你最初要争取的是什么权利，比如停车场乱收费，孩子的化纤校服为什么这么贵？到了最后都是“驱除鞑虏”。然后熊猫一查，好，你煽动分裂，你进去吧。脑子清楚的穆斯林知识分子包括阿訇们本来是唯一的缓冲带了，现在进去的进去不许传道的不许传道，再也没有明白人敢活着能挑头了。</p>
+<p>青海一位统战系统的官员曾经在饭局上向我这个“小逼崽子”说：穆斯林要是也有一个班禅这样的人物就好了，我们只要控制他就行了。大家纷纷进酒，书记说的是。在长达四个小时的酒局与少数民族歌舞团的近距离表演和被吃豆腐结束之后我陪着他走向停车场，突然面前跪下一个人，语速极快口吃不清，在西宁，银龙（五星）大饭店的停车场是你唯一可以伸冤的地方，这位朋友立刻就被拖走了。赵老爷接着跟我宣传环湖赛，上的车去他的醉意突然袭来，他呜呜的哭起来，嚎啕道：小x啊，我不容易啊。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%90%9B%E8%BE%BE%E4%B9%90%E7%9A%84%E6%85%A2%E5%85%88%E7%94%9F%EF%BC%9A%E6%97%A2%E7%84%B6%E8%AF%B4%E8%B5%B7%E7%A9%86%E6%96%AF%E6%9E%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E7%BB%B4%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">汉维矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E9%A2%86%E5%AF%BC%E5%B1%82%E8%BF%98%E8%83%BD%E6%8E%A7%E5%88%B6%E5%AE%98%E5%83%9A%E4%BD%93%E7%B3%BB%E5%90%97%EF%BC%9F/" target="cdt-mirror">端传媒 | 温克坚：中国政治领导层还能控制官僚体系吗？</a>
 </h2>
 <p><h2></h2>
@@ -91,7 +111,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%80%E9%87%8D%E5%B7%A5/?category=18271" rel="tag">三一重工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%80%E9%87%8D%E5%B7%A5%E8%AF%89%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">三一重工诉奥巴马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">中国企业</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%9B%BE%E9%87%91%E7%87%95%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E7%BB%88%E5%85%B6%E4%B8%80%E7%94%9F%E6%89%BF%E5%8F%97%E7%9A%84%E6%9A%B4%E5%8A%9B/" target="cdt-mirror">端传媒 | 曾金燕：中国女性终其一生承受的暴力</a>
 </h2>
@@ -594,50 +614,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%8E%A8%E8%BF%9B%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6%E6%96%B9%E6%A1%88%EF%BC%9A%E5%8A%A0%E5%BC%BA%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC-%E6%89%B6%E4%BC%98%E6%89%B6%E5%BC%BA%E6%89%B6/" target="cdt-mirror">推进世界一流大学方案：加强党的领导 扶优扶强扶特</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%80%E5%AE%9A%E8%B6%85%E8%BF%87%E8%8B%B1%E5%9B%BD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%80%E5%AE%9A%E8%B6%85%E8%BF%87%E8%8B%B1%E5%9B%BD.jpg" alt="一定超过英国" width="385" height="530"></a><br>
-（<a href="http://blog.sina.com.cn/s/blog_443d60340101834g.html">图片来源</a>）</p>
-<p>11月5日，国务院印发了《<a href="http://www.gov.cn/zhengce/content/2015-11/05/content_10269.htm">统筹推进世界一流大学和一流学科建设总体方案</a>》，称将从2016年开始进行新一轮建设，每五年一个周期，实现进入“世界一流行列”和进入“世界一流学科前列”的目标：</p>
-<blockquote><p>第一步到2020年，若干所大学和一批学科进入世界一流行列，若干学科进入世界一流学科前列；<br>
-第二步到2030年，更多的大学和学科进入世界一流行列，若干所大学进入世界一流前列，一批学科进入世界一流学科前列，高等教育整体实力显著提升；<br>
-第三步到本世纪中叶，一流大学和一流学科的数量和实力进入世界前列，基本建成高等教育强国。</p></blockquote>
-<p>以下内容摘自上述《方案》：</p>
-<blockquote><p><strong>一、总体要求</strong></p>
-<p><strong>（一）指导思想。</strong></p>
-<p>高举中国特色社会主义伟大旗帜，以邓小平理论、“三个代表”重要思想、科学发展观为指导，认真落实党的十八大和十八届二中、三中、四中全会精神，深入贯彻习近平总书记系列重要讲话精神，按照“四个全面”战略布局和党中央、国务院决策部署，坚持以中国特色、世界一流为核心，以立德树人为根本，以支撑创新驱动发展战略、服务经济社会发展为导向，<span><strong>加快建成一批世界一流大学和一流学科</strong></span>，提升我国高等教育综合实力和国际竞争力，为实现“两个一百年”奋斗目标和中华民族伟大复兴的中国梦提供有力支撑。</p>
-<p><span><strong>坚持中国特色、世界一流，就是要全面贯彻党的教育方针，坚持社会主义办学方向，加强党对高校的领导</strong></span>，扎根中国大地，遵循教育规律，创造性地传承中华民族优秀传统文化，积极探索中国特色的世界一流大学和一流学科建设之路，努力成为世界高等教育改革发展的参与者和推动者，<span><strong>培养中国特色社会主义事业建设者和接班人</strong></span>，更好地为社会主义现代化建设服务、为人民服务。</p>
-<p><strong>三、改革任务</strong></p>
-<p><strong>（九）加强和改进党对高校的领导。</strong></p>
-<p><span><strong>坚持和完善党委领导下的校长负责制，建立健全党委统一领导、党政分工合作、协调运行的工作机制</strong></span>，不断改革和完善高校体制机制。<span><strong>进一步加强和改进新形势下高校宣传思想工作，牢牢把握高校意识形态工作领导权</strong></span>，不断坚定广大师生中国特色社会主义道路自信、理论自信、制度自信。全面推进高校党的建设各项工作，着力<span><strong>扩大党组织的覆盖面</strong></span>，推进工作创新，有效发挥<span><strong>高校基层党组织战斗堡垒作用</strong></span>和党员先锋模范作用。完善体现高校特点、符合学校实际的惩治和预防腐败体系，严格执行党风廉政建设责任制，切实把党要管党、从严治党的要求落到实处。</p>
-<p><strong>（十五）强化绩效，动态支持。</strong></p>
-<p>创新财政支持方式，更加突出绩效导向，形成激励约束机制。<span><strong>资金分配更多考虑办学质量特别是学科水平、办学特色等因素，重点向办学水平高、特色鲜明的学校倾斜，</strong><strong>在公平竞争中体现扶优扶强扶特</strong></span>。完善管理方式，进一步增强高校财务自主权和统筹安排经费的能力，充分激发高校争创一流、办出特色的动力和活力。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1707683373/D2sMAbtPV">张鸣</a>：中国的一流大学怎么建？那么多条，看了半日，只看懂了一条；加强党的领导。</p>
-<p><a href="http://weibo.com/5140398799" target="_blank">追梦1227</a>：中国在努力建设给世界一流高校输送顶级精英的大学。<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"></p>
-<p><a href="http://weibo.com/2233073134" target="_blank">拱白菜的萌猪</a>：教室自从全部装了监控，除了学生考试不敢作弊以外，老师上课也不敢“乱”说话了<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
-<p>MT码头：党校就是中国的一流大学。</p>
-<p>cj342752365：少点管制会有二流大学，没有管制就离一流大学不远了，加强管制那就都是中央党校</p>
-<p>北江狂如雪：《用毛泽东思想养猪》《共产主义思想照耀科学》。</p>
-<p>六合同风：加强裆的领导是不可能建成一流学校的。那只有在新闻联播里面。</p>
-<p><strong>小牛石头fozon：国家的意思，除了清华北大，其他都是渣！</strong></p>
-<p>宝鸡瓜娃：希望，能够从基层教育出发，建设一流的小学、一流的初高中！大学，像北大、清华已经是中国的一流了，还如何来建设！大雅之堂，有几个中国学子能登上呢？希望那里不是外国留学生的天堂！</p>
-<p>中江海军常：一流大学不是应该大学自己凭教学，科研吗？怎么又被安排计划呢？应该叫<strong>被一流</strong>。。。</p>
-<p>黑版报：呵呵，除了中国，哪个国籍名校有可以掣肘校长的书记？任命学生会的团委？</p>
-<p>一雨梦清寒：河南河北两个省，还没有南京北京两个市的高校数量多，985一个都没有，百年河大四分五裂，郑大不突出，河北大在天津，其他更是拿不出手。所以说，这是“王的盛宴”，屁民老老实实做屁民吧。</p>
-<p>未安牧晓：本人普通二本院校本科，现在在211院校读研，现在真心感觉普通院校的师资和基础设施真的很差，建设世界一流大学固然重要，但整体提高普通大学的水平也很重要。我认为让绝大多数人在普通高校接收优质教育要比一让小部分人在世界一流大学接收最优质教育的好处要多得多。</p>
-<p>YOUNG__AWESOME：群狼才能说强！好的教育资源不应该集中到某一个地方，看看河北河南山东山西这大块地方这么多人口却没有给一所上档次的大学，中国何以成为高等教育强国？</p>
-<p>Lyre_胖胖的小胖子：怎样建设呢，无非就是先确定几个苗子，然后再拨专款。呵呵，一向不都这种做法嘛</p>
-<p>春鱼唱晚：首先，与一些网友想法一样，应当考虑去学校当中的行政化，为什么校领导一定得是什么部，厅，处呢？其次，985，211究竟是在搞什么，学生之间看不起普通高校的，家长也有歧视，单位也戴有色眼镜。</p>
-<p>春鱼唱晚：再次，所谓一流大学，只是花更多的钱给那些所谓国内的名牌大学，进一步扭曲了公平，对，教育公平。最后，请领导们的孩子们在那些一流大学里多注意身体，学习进步，万事如意。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%8E%A8%E8%BF%9B%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6%E6%96%B9%E6%A1%88%EF%BC%9A%E5%8A%A0%E5%BC%BA%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC-%E6%89%B6%E4%BC%98%E6%89%B6%E5%BC%BA%E6%89%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">一流大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7/?category=18271" rel="tag">北大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">教育大跃进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E8%B5%84%E6%BA%90/?category=18271" rel="tag">教育资源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -659,5 +635,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E6%B5%81
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

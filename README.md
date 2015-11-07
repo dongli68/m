@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,73 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BC%A0%E5%85%AD%E6%AF%9B%E8%A2%AB%E6%8C%87%E6%AD%A6%E8%A3%85%E6%9A%B4%E5%8A%A8-%E5%AE%B6%E5%B1%9E%E8%AE%A4%E9%A2%86%E5%B0%B8%E4%BD%93/" target="cdt-mirror">自由亚洲 | 张六毛被指“武装暴动” 家属认领尸体再遭拒绝</a>
+</h2>
+<p><p>广东公民张六毛死于广州第三看守所事件继续引发外界关注。11月7日上午，张六毛家属到殡仪馆要求见尸体，再一次遭到拒绝。新华社、央视等官方媒体打破沉默，大篇幅报道张六毛等7人，要通过武装暴动改变现有体制。又称缴获50余公斤爆炸物及原材料。张六毛的家人对公安不准他们认领尸体表示愤慨。代理律师认为，当局回避当事人死亡事件，分明在转移外界注意力，掩盖命案。</p>
+<p>被以“寻衅滋事罪”抓捕的广东公民张六毛被关押两个月后，11月4日突然死亡。其家属11月5日为见死者遗体遭到广州多个部门推诿，家属请求异地尸检也遭拒绝。引发中国公民强烈质疑，成立了由数百人组成的真相调查团。6日下午，张六毛家属与律师以及围观公民十多人，到广州市第三看守所接待处进行交涉，再一次被刁难。副所长潘小伟带张六毛的姐姐张五洲、妹妹张七毛、张六毛姐姐的儿子进去会谈，不允许律师进门。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6a7dde52-a7d3-4dff-b182-2beb2e7a414b.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6a7dde52-a7d3-4dff-b182-2beb2e7a414b.jpeg" alt="6a7dde52-a7d3-4dff-b182-2beb2e7a414b" width="550" height="309"></a><br>
+张六毛的姐姐张五洲7日告诉本台，家属到广州殡仪馆没有见到张六毛的遗体。(乔龙提供)</p>
+<p>张六毛的妹妹张唯楚当晚被告知张六毛死于鼻咽癌合并大出血，属于“正常死亡”。还被迫与看守所达成协议，7日上午十时，到广州殡仪馆探望辩认遗体，死亡证明书必须等火化后才能给家属。</p>
+<p>张六毛的姐姐张五洲7日告诉本台，家属没有见到尸体：“殡仪馆连律师都不让进。还说是按照协议，昨天我就说，要求我的律师进去，他们就使劲的把律师拦在外面。我弟弟死到今天是第四天，到昨天晚上七点多钟，看守所的干部说给我一个说法，说我弟弟是怎么死的，但只准我直系亲属看，其他任何人不能参与。他就把我请的两个律师全部拦在外面”。</p>
+<p>代理律师陈进学告诉记者：“六毛的妹妹张七毛，还有张七毛的儿子，今天上午十点半到广州市殡仪馆，要求看张六毛的遗体。他们提出要有律师在场。他们警察就拒绝。只允许近亲属进去，而进亲属坚持律师必须要在场。他们拒绝，一直僵持在礼堂门口。最后遗体没有见成”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511042201china1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511042201china1.jpg" alt="201511042201china1" width="468" height="306"></a><br>
+张六毛身份证(博讯网)</p>
+<p>7日早上，对事件一直保持沉默的官方媒体开始大篇幅报道张六毛“是一个企图制造爆炸危害公共安全的犯罪团伙成员”。新华社和央视新闻报道称，广州警方抓获张六毛、马骥、项逢选等７名犯罪嫌疑人。还称该团伙宣称要通过武装暴动改变现有体制，走所谓“民主宪政之路”。鼓吹要“以武力推翻现在政权”。据警方调查，项逢选等人确实正在制造爆炸物准备搞破坏，对公共安全构成严重的现实危害。报道称，今年８月，广州警方将包括项逢选在内的７名团伙骨干一举抓获，现场查获6000余册非法出版物以及爆炸物、制爆原材料共计50余公斤。9月30日，公安机关抓获14名该团伙的外围关系人，基本肃清该团伙的潜在危害。</p>
+<p>不过，警方并没有说明涉嫌“武装暴动”，试图推翻政府的张六毛为何被以“涉嫌寻衅滋事”刑拘，而非“暴恐罪”或“颠覆罪”。报道还称，办案民警介绍，该团伙有一定的组织架构，有自己的纲领，有行动的计划，且有掌握制爆技术的专业人才，他们还多次聚集开会，准备实施破坏。</p>
+<p>张五洲对此提出质疑。她说：“你既然抓我弟弟的时候，你们发现有五十公斤炸药，你为什么当时不报道，人死了之后，我们找你要真相的时候，你就说发现五十公斤炸药，你共产党这样骗谁啊。还说我弟弟是正常死亡。今天早上所有的媒体铺天盖地报道，还有中央电视台，你王八蛋”。</p>
+<p>陈进学律师表示，当局是在转移视线：“之前他被刑事拘留，逮捕时也没有通知家属。现在人死亡了，他就上央视，上新华社的报道。具体案情只是官方的说法，他这样放出来就是故意抹黑。让民众觉得这个人该死。他想推翻政权，他要以暴恐的手段，要武装改变现有政权，转移视线”。</p>
+<p>特约记者：乔龙；责编：何平</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BC%A0%E5%85%AD%E6%AF%9B%E8%A2%AB%E6%8C%87%E6%AD%A6%E8%A3%85%E6%9A%B4%E5%8A%A8-%E5%AE%B6%E5%B1%9E%E8%AE%A4%E9%A2%86%E5%B0%B8%E4%BD%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E7%AC%AC%E4%B8%89%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">广州第三看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80%E5%91%BD%E6%A1%88/?category=18271" rel="tag">看守所命案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">非正常死亡</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E9%B2%8D%E5%BD%A4%EF%BC%9A%E4%B9%A0%E5%85%88%E7%94%9F%E5%92%8C%E9%A9%AC%E5%85%88%E7%94%9F%E9%83%BD%E5%81%9A%E5%90%8C%E4%B8%80%E4%B8%AA%E6%A2%A6%E6%97%B6%E6%89%8D%E5%8F%AF/" target="cdt-mirror">法广 | 鲍彤：习先生和马先生都做同一个梦时才可乐观</a>
+</h2>
+<p><p>作者：肖曼</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CHINA_-_Bao_Tong_at_home_2008.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CHINA_-_Bao_Tong_at_home_2008.jpg" alt="CHINA_-_Bao_Tong_at_home_2008" width="550" height="310"></a><br>
+赵紫阳前秘书鲍彤2008年摄于北京家中。</p>
+<p><strong>就11月7日的“马习会”，前中共中央总书记赵紫阳的政治助手鲍彤先生接受本台采访时作出以下表示：</strong></p>
+<p>我认为：海峡两岸第一要有善意，没有善意何必谈呢？这个善意不应当是天上突然掉下来的。为什么长期以来拒绝见面？现在突然同意见面？这是一个什么考虑？我不知道。我知道的是：(台湾)好久就要求见面了，但(大陆)始终拒绝见面。现在不知道出了一个什么问题，就突然同意见面了，促成这次见面的契机是什么？动机是什么？我不清楚，不能乱说。这是第一点。</p>
+<p>第二点，不管怎么样，见面，好的。握手，好的。握手比打架好，比多少个导弹对着好，握手笑嘻嘻比斗争好。因为这个问题不是他们两个人的问题，这是大陆同胞和台湾同胞共同的感情问题。多少大陆家庭一半在台湾？台湾也是一样。都是一家人，现在分在两个地方，隔开对立对抗了66年：我说你是“土匪”，你说我是“土匪”。我们说他们是“蒋匪”，他们说我们是“共匪”。说了半天，现在他们都成了“先生”了，这就好。互称“先生”比互称“土匪”好，这是一大进步。</p>
+<p>现在称“先生”比过去称“土匪”好，但不要忘记历史，好好想想为什么过去那么多年糊里糊涂把对方叫做土匪。不总结历史的话，今天叫“先生”，明天就可能又要叫“土匪”了，怎么办？所以我很同意习先生的话，历史不能忘记，那就要好好总结。</p>
+<p>今天的“马习会”，我觉得彩排的很好，希望今后和睦共处。善意能够越来越多，和平能够成为常态，成为原则。什么时候对自己的老百姓用坦克用冲锋枪不好，用导弹也是不好的，都不好。对不是自己的老百姓用坦克用冲锋枪用导弹，也是不好的。不管是炎黄子孙，还是非炎黄子孙，</p>
+<p>海峡两岸的问题并不因此就可以乐观了，大家都很清楚：习先生做的梦，马先生未必做，反之也是如此。什么时候他们能做一个梦了呢？如果到了那一天，即海峡两岸人民都能做一个梦的时候，大家就可以乐观了。只要是地球村上的居民，大家都要和平共处。我想到周恩来当年的一句话 ：“自己活，也要别人活。”他有时还用英文：“living and let living”。周恩来讲的很对，但后来毛泽东“以我为主”，“与人斗争其乐无穷”，这个“living and let living”就没有了。所以我认为：现在无论处理国内问题还是处理国际问题，和平都是第一位的，善意都是第一位的。</p>
+<p>我注意到好像双方现在的情况很融洽，那么我希望大家再仔细想一想：这个问题不简单，不可以轻率地以为两岸问题就可以乐观了，我想大家都很清楚：习先生做的梦，马先生未必做，反之也是如此。什么时候他们能做同一个梦了呢？那就是说台湾同胞和大陆同胞可以做一个梦了。如果到了那一天，即海峡两岸人民都能做一个梦的时候，大家就可以乐观了。</p>
+<p>以上是对鲍彤先生采访的部分内容，采访的全部内容将在《特别节目》中播出和刊登。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E9%B2%8D%E5%BD%A4%EF%BC%9A%E4%B9%A0%E5%85%88%E7%94%9F%E5%92%8C%E9%A9%AC%E5%85%88%E7%94%9F%E9%83%BD%E5%81%9A%E5%90%8C%E4%B8%80%E4%B8%AA%E6%A2%A6%E6%97%B6%E6%89%8D%E5%8F%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%8D%E5%BD%A4/?category=18271" rel="tag">鲍彤</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%BC%AB%E7%94%BB%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B9%A0%E9%A9%AC%E4%BC%9A/" target="cdt-mirror">奇闻录 | 漫画家眼中的习马会</a>
+</h2>
+<p><p>‏@badiucao：巴丢草漫画 【习马萌会】习马二位葫芦里卖了什么药，场面上自然不说，只管推杯换盏，先生你来，先生我去，假和平之名捞各家资本。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTMVj_RVAAI2Qw3-382x500.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTMVj_RVAAI2Qw3-382x500.png" alt="CTMVj_RVAAI2Qw3-382x500" width="382" height="500"></a></p>
+<p>@StarKnight：都敏俊会见冯绍峰<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTL1w9sUkAEhI5k-600x500.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTL1w9sUkAEhI5k-600x500.jpg" alt="CTL1w9sUkAEhI5k-600x500" width="600" height="500"></a></p>
+<p>@ptreporter：一中各婊<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTNJBfYUEAAG9eq.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTNJBfYUEAAG9eq.jpg" alt="CTNJBfYUEAAG9eq" width="550" height="203"></a></p>
+<p>@badiucao：#世纪之握 好像看到了可怕的东西！是不是我看错了？！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTMYwxYUEAEllO-750x421.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTMYwxYUEAEllO-750x421.jpg" alt="CTMYwxYUEAEllO--750x421" width="550" height="309"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4124-570x500.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4124-570x500.jpg" alt="4124-570x500" width="570" height="500"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTLjgW3UAAARHz_.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTLjgW3UAAARHz_.jpg" alt="CTLjgW3UAAARHz_" width="480" height="359"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTLl9kPUEAAp4xj-370x500.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTLl9kPUEAAp4xj-370x500.png" alt="CTLl9kPUEAAp4xj-370x500" width="370" height="500"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTMh8fXUcAAIYkl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTMh8fXUcAAIYkl.jpg" alt="CTMh8fXUcAAIYkl" width="550" height="412"></a></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%BC%AB%E7%94%BB%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B9%A0%E9%A9%AC%E4%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%B8%AD%E5%90%84%E8%A1%A8/?category=18271" rel="tag">一中各表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B9%A0%E9%A9%AC%E4%BC%9A%E6%8A%A5%E9%81%93%E4%B8%AD%E7%9A%84%E4%B9%9F%E5%AD%97%EF%BC%9A%E8%AE%BA%E3%80%8A/" target="cdt-mirror">【立此存照】“习马会”报道中的“也”：论《环时》的高级黑属性</a>
 </h2>
 <p><p>《环球时报》的官方微博账号在报道马英九记者会时，发布了这么条内容：</p>
@@ -572,91 +636,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%B4%9B%E9%98%B3%E6%9A%B4%E5%8A%9B%E8%A2%AD%E8%AD%A6%E6%A1%88%E8%BF%98%E5%8E%9F%EF%BC%9A%E4%B8%80%E4%BA%BA%E8%A2%AB%E6%8D%85%E8%85%B0%E9%83%A8-%E4%B8%80/" target="cdt-mirror">澎湃新闻 | 洛阳暴力袭警案还原：一人被捅腰部 一人被刺心脏</a>
-</h2>
-<p><p>11月4日7时40分许，开元大道与龙门大道交叉口发生一起恶性暴力袭警案件，导致1名执勤人员当场殉职，3名执勤人员受伤。犯罪嫌疑人邓某某(男，42岁，汉族，洛龙区人)被警方和群众合力擒获。</p>
-<p>案发后，洛阳日报记者多方采访，还原案件发生经过。</p>
-<p>视频<a href="http://video.weibo.com/show?fid=1034:1a7ed42cbb412633403e87f499c16b29" target="_blank">地址</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/14416634415738277882.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/14416634415738277882.jpg" alt="14416634415738277882" width="500" height="333"></a></p>
-<p><strong>无照驾驶闯红灯被暂扣车辆，邓某某现场表示无异议</strong></p>
-<p>警方的执法记录仪显示：3日16时7分，邓某某驾驶一辆三轮摩托车，沿开元大道由东向西行驶，行至关林钱江家居广场附近时，洛龙交巡大队五中队执勤人员示意其停车，但其并未停车，反而加速向西行驶。16时8分，邓某某在开元大道与龙门大道交叉口东北角被洛龙交巡大队五中队民警拦停，并带到非机动车道进行处理。</p>
-<p>民警介绍，邓某某被拦停，是因为16时6分，洛龙交巡大队五中队中队长刘辉巡线至开元大道通南街口时，发现邓某某驾驶三轮摩托车闯红灯，就通过电台指令在路口执勤的民警将其拦停。</p>
-<p>执法记录仪显示：在处理时，邓某某承认了自己刚刚闯红灯的行为。民警还发现其并没有驾照。对此，邓某某也予以承认。在问明情况后，民警向邓某某介绍了相关法律规定，依法出具了行政强制措施凭证，暂扣了邓某某的三轮摩托车，并告知其在15个工作日内，可以持该凭证、身份证及三轮摩托车的相关手续，到洛龙交巡大队违法处理室接受处理。邓某某没有多说什么，就在行政强制措施凭证上签了字，并表示对执法无异议。</p>
-<p>执法记录仪显示：邓某某签完字后并没有马上离开，犹豫了一会儿后，他又走上前来，询问能不能不扣车。民警告诉邓某某：“如果我们明知你无照驾驶闯红灯还不管，我们也是在违法！”民警给邓某某建议：如果你有特殊情况，可以让村委会出一份证明拿到交警队，交警队会酌情从轻处罚。</p>
-<p>民警还再三告知邓某某：三轮摩托车只是暂扣，“只要你接受了违法处理，车就可以提走”。</p>
-<p>执法记录仪显示：从16时8分邓某某被拦停，到16时38分，民警一直对邓某某进行劝说。</p>
-<p><strong>蓄意报复持刀行凶致一死三伤，邓某某涉嫌故意杀人罪被刑拘</strong></p>
-<p>龙门大道与开元大道交叉口的监控视频显示：4日7时40分左右，正值早高峰，执勤人员到岗后，立刻分散在各个路口执勤。7时43分，刘辉在路口东北角放置交通安全提示牌后，沿斑马线由东向西到路中间执勤时，邓某某从路口西北角，沿斑马线由西向东走向刘辉。两人错身之际，邓某某突然转身，反握随身携带的西瓜刀，向刘辉腰部猛捅一刀，随后继续向东走去。由于毫无防备，正在专注疏导交通秩序的刘辉踉跄两步后倒地不起。</p>
-<p>执勤人员马玉军、沈浏伟、李丰等在发现邓某某行凶后，迅速追赶围堵。邓某某见状，挥刀乱捅，马玉军被刺中心脏当场倒地，沈浏伟受重伤，李丰右肘部被刺伤。</p>
-<p>案件发生后，附近执勤的民警迅速赶到现场，在群众帮助下，将邓某某抓获。</p>
-<p>据邓某某供述，3日17时许，他回家后回想起三轮摩托车被暂扣的事很生气，喝了三四两白酒睡去。4日6时许，起床后预谋报复。早上7时许，其持刀赶到龙门大道与开元大道交叉口西北角守候，看到刘辉上岗后，便实施了报复。</p>
-<p>马玉军因抢救无效当场殉职，刘辉、沈浏伟、李丰被送往河科大一附院新区医院抢救。截至记者发稿时，刘辉手术后仍在重症监护室抢救，沈浏伟手术后尚未脱离生命危险，李丰正在住院治疗。</p>
-<p>目前，邓某某因涉嫌故意杀人罪被刑事拘留，案件正在进一步侦办中。</p>
-<p><strong>社会各界慰问负伤执勤人员，警方表示将继续严查各类交通违法行为</strong></p>
-<p>据了解，刘辉、马玉军、沈浏伟、李丰业务能力强、工作出色。其中，刘辉曾受到市公安局6次个人嘉奖，先后获“洛阳市十大杰出交通民警”“全省交警系统规范执法标兵”等荣誉称号；马玉军1994年自洛阳市警察学校毕业以来，一直战斗在公安工作一线。</p>
-<p>案件发生后，省委常委、市委书记陈雪枫，副省长、省公安厅厅长许甘露，市委副书记、市长鲍常勇等对负伤人员表示慰问，对做好下步工作提出要求。市委常委、政法委书记吴孟铎到医院看望了负伤人员，并指挥处置工作。全国拥军模范乔文娟、关林市场商会代表、部分学校师生等我市各界人士，纷纷自发前往医院看望慰问受伤民警，许多网友发帖为民警送上祝福。</p>
-<p>很多网友表示，公安民警的执法行为是为了维护社会和谐稳定、保障人民群众合法权益，当执行公务受到阻碍时，损害的是社会公众的利益。省政协委员、河南安多律师事务所主任刘晓良律师认为，犯罪嫌疑人邓某某有预谋持尖刀袭击正在依法执行公务的公安机关执勤人员，手段凶狠，致一死多伤，已涉嫌故意杀人罪；11月1日刚刚施行的《中华人民共和国刑法修正案(九)》也把袭警行为列为从重处罚情形，邓某某应依法受到惩处。</p>
-<p>市公安局负责人表示，交通违法行为不仅影响城市形象，而且危及交通安全。全市公安机关将一如既往严查各类交通违法行为，为广大市民创造一个安全、畅通、文明、有序的交通环境。坚决支持民警依法履职、正当执法行为。对暴力袭警者，将依法严厉打击。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%B4%9B%E9%98%B3%E6%9A%B4%E5%8A%9B%E8%A2%AD%E8%AD%A6%E6%A1%88%E8%BF%98%E5%8E%9F%EF%BC%9A%E4%B8%80%E4%BA%BA%E8%A2%AB%E6%8D%85%E8%85%B0%E9%83%A8-%E4%B8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6/?category=18271" rel="tag">交警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95/?category=18271" rel="tag">交通违法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BE%E6%B0%94/?category=18271" rel="tag">戾气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">暴力事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AD%E8%AD%A6/?category=18271" rel="tag">袭警</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%87%8D%E9%87%91%E9%93%BA%E8%B7%AF%E4%B8%AD%E5%85%B1%E5%A4%A7%E5%A4%96%E5%AE%A3%E6%B5%B7%E5%A4%96%E6%89%A9%E5%BC%A0/" target="cdt-mirror">自由亚洲 | 重金铺路中共大外宣海外扩张</a>
-</h2>
-<p><p>中国官方的中国国际广播电台（CRI）涉及在14个国家至少33家电台隐蔽以双语广播，其中包括华盛顿的WCRW电台。有大陆媒体人分析，这仅仅是中国动用庞大经费推行的海外大外宣国家战略的冰山一角。 （卡帕/维灵报道）</p>
-<p>路透社日前报导显示，包括位于华盛顿的WCRW电台在内的，由中国官方背景支持的33家电台用英文、中文或当地语言广播，它们通常忽略对中共的批评，避开任何对北京负面的描述。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Clipboard28_50.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Clipboard28_50.jpg" alt="Clipboard28_50" width="550" height="367"></a><br>
-新华社租用纽约时代广场最大广告位（来源：博谈网）</p>
-<p>中国媒体人周四（5日)对本台表示，意识形态部门动用巨额的资金在海外搭建外​​宣平台，在中国的媒体圈早已经不是秘密。早在去年9月香港占中期间，涉及数十个国家的142家海外华文媒体发布“保卫香港联合宣言”，力挺中国当局，被中国媒体人戏称为假外媒集体站场。</p>
-<p>在此之前的2014年3月11日中共两会期间，一家来自澳大利亚、名为《环球凯歌传媒》的记者克鲁思多次获得官方点名提问，事后该媒体也被挖出背后的股东是中国官方所属的传媒公司控股。</p>
-<p>曾在国内从事媒体工作的苏雨桐称，类似的情况非常多。据记者无国界调查，在法国，也有很多中方出资办的媒体。</p>
-<p>她说：据记者无国界调查，其实在法国他们也发现有很多是中方出资办的这样的电台，而且是数码电台。他们首先是想要影响到海外的这些华人了。另外我们也发现他们也在影响西方的受众。比如说对西方的媒体的一种渗透，这个其实已经远超了路透社报导的这个内容。比如说在西方的一些拨款电台里，包括中文部门及其它的一些节目上，都在不停地把他们的意识形态和所谓的价值灌输出来。</p>
-<p>苏雨桐还以自己的经历为例，批评德国之声、法广等传统的西方主流媒体，它们有些与中国官方背景的媒体进行合作，有的在对华报导中表现出来的靠近中共的做法，甚至是沿用中国官媒语境报导的做法，让人担忧。</p>
-<p>据悉，中共大外宣惯常做法是：官方机构成立看似市场化的子公司，然后收购海外媒体股权，派出运营人员和编辑团队，按照官方的口径进行宣传。如果不能购买股权，则购买时段或版面发布中国官方希望发布的信息。</p>
-<p>原南方周末新闻部主任长平表示，中共从建党开始就非常注重宣传，建政后，更是成立了从官方喉舌人民日报，国际广播电台、外文局等组成的文宣体系。而真正大外宣的概念被人注意，系2009年当局划拨450亿元进行所谓的形象公关大外宣国家战略开始。</p>
-<p>他说：大外宣这个概念是2009年开始的，2009年《南华早报》有个报导，中国准备450亿元人民币来推动媒体的国际扩张，改善国家在国际上的形象。当时环球时报和新华社都转述或重新报导。官方的报导说，2008年遇到了一系列的公关危机，3.14西藏事件、（奥运）火炬传递事件、毒奶粉，中国政府它不是反省，而是归结到宣传上，所以在准备450亿元启动国家公关战略。</p>
-<p>长平认为，从功效上看，中共的大外宣对内以外媒的名义欺骗民众，对外则充分利用了自由世界的言论自由暗渡陈仓，以达到对西方主流社会的潜移默化的影响。</p>
-<p>他说：对内他们会经常引用所谓海外媒体的报导，事实上这些报导都是由中国外宣系统控制的。对外呢，他们利用西方的言论自由。欧美的主流社会是认同言论自由和观点多元的，所以他们会试图去听各种声音。主流媒体从职业伦理上说通常它会引述不同的观点，这就等于中共的声音藉这个通道也进入了主流媒体。它对塑造主流社会的舆论影响是有一定的功效的。</p>
-<p>中国不愿具名的媒体人告诉记者，450亿还只是公开披露的以小部分。各地政府都有巨额的外宣经费，一个副省级城市一年经费可超过20亿元。一些外媒、假外媒纷纷和中国一些宣传部合作，成立地方分频道获取利益。如凤凰网在薄熙来在重庆的时期，新加坡联合早报网在李春城时代的成都，香港大公报和文滙报在各地的广告创收平台等等，同时也成为中国文宣系统腐败的助推剂。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%87%8D%E9%87%91%E9%93%BA%E8%B7%AF%E4%B8%AD%E5%85%B1%E5%A4%A7%E5%A4%96%E5%AE%A3%E6%B5%B7%E5%A4%96%E6%89%A9%E5%BC%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92/?category=18271" rel="tag">中国官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93/?category=18271" rel="tag">华文媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93/?category=18271" rel="tag">境外媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">对外宣传</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/" target="cdt-mirror">psy-eyes | 唐映红：禁止成员说三道四能提高团队的凝聚力吗？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6402.jpg" alt="640" width="500" height="375"></a></p>
-<p>Q&A151104</p>
-<p><strong>问：禁止成员说三道四能提高团队的凝聚力吗？</strong></p>
-<p>答：生活中，无论是企业组织，还是公益社团，当需要实现组织目标的过程中，都希望能组织团队能有<strong>足够的凝聚力</strong>。有些组织、社团会希望通过<strong>禁止成员对组织重要议题说三道四来提高团队凝聚力</strong>，那么他们的希望能够奏效吗？</p>
-<p>从心理学角度，涉及到诸如组织、社团这样的团队，影响它们绩效或者凝聚力的因素十分庞杂，且错综交织，很难因循少数维度或因素而厘清。所以，<strong>特定的措施能否对团队凝聚力具有积极的作用，不能简单地下断语YES or NO，必须置于具体情境中讨论。</strong></p>
-<p>换言之，<strong>禁止成员说三道四既可能提高团队的凝聚力，也可能削弱团队的凝聚力</strong>，要达成前者关键取决于两个因素：<strong>什么样的团队，在什么样的情境下</strong>。</p>
-<p>首先，<strong>通过限制批评，禁锢言论来提高凝聚力，就必须确保团队成员的高度相似性</strong>，成员之间相似性越高，成员之间就越能达成共识，那么排斥少数说三道四的意见确实能提高团队的凝聚力。例如，全是左撇子的团队，决定禁止用右手拿筷子，就很容易达成共识，禁止少数异议者确能提高凝聚力。</p>
-<p>对一个社会生态中的组织、社团团队，所涉及的议题往往复杂多维，<strong>单一或少数维度的相似性无法满足总是达成共识的边界条件</strong>，因此就需要团队成员的判断能力、思考能力要相对简单，甚至越简单越好。这样，他们就很容易被说服，而不大可能会依据逻辑和实证对漏洞百出的说辞提出质疑。这就意味着，<strong>团队成员普遍越愚蠢越保守，也越容易通过禁止说三道四来提高凝聚力。</strong></p>
-<p>尽管如此，由于社会生态中的一个组织、社团的团队<strong>无法通过简单的方式筛选具有高度相似性且愚蠢保守的成员</strong>，总难免混杂一些不那么愚蠢，也不那么保守的成员，他们对组织、社团话事人的决议难免心存疑虑并表达出来。因此，由具有高度相似性且愚蠢、保守成员组成的团队必须要<strong>形成特异性的机制来甄别并排斥这些与众不同的成员</strong>，例如，发动成员积极举报那些对话事人说三道四成员，并通过妖魔化的标签来使绝大多数单纯的成员远离他们。可以将这一小撮异议者及其言论贴上“别有用心”、“敌对势力指使”、“间谍”等标签。事实上，通过<strong>“抓坏人”的团队运动不仅能有效地将少数异议者排斥出团队，还能“锻炼”其他成员，增强他们对团队的依赖，从而提高团队的凝聚力。</strong></p>
-<p>既此，通过禁止成员说三道四来提高团队凝聚力的边界条件就主要包括至少三项：①<strong>成员的高度相似性</strong>，特别是意识形态上的一致性；②<strong>成员普遍愚蠢而保守</strong>；③<strong>形成对少数异议成员的甄别和排斥机制</strong>。其中①的满足需要形成广泛而有效的<strong>讯息管制</strong>，并通过卓有成效的<strong>意识形态灌输</strong>来促使成员在观念上形成一致。②的满足需要团队文化要形成<strong>反智的文化氛围</strong>，重用愚蠢而保守的骨干担任干部；③的满足需要<strong>持续的、周期性的不断的清洗运动</strong>来保持团队的纯洁和成员的警惕，并随时清除一小撮异议者。归纳起来就是：<strong>洗脑灌输、反智文化、清洗运动。</strong>任一项的缺乏或削弱，都将破坏甚至反转“通过禁止成员说三道四来提高团队凝聚力”的效果。</p>
-<p>即使通过“洗脑灌输、反智文化、清洗运动”而形成符合边界条件的团队，要真正达成“通过禁止成员说三道四提高团队凝聚力”也殊为不易，还必须仰赖在<strong>特定的情境</strong>下。其中包括但不限于下面要素的满足：</p>
-<p>1、<strong>团队必须要封闭，不能保持开放。</strong>通过封闭团队，既能有效避免“有害”讯息的传入，也能有效降低团队外部压力。一旦开放，不仅洗脑灌输的效果将大打折扣，成员的高度相似性，特别是意识形态的一致性势必被削弱；而且外部讯息将冲击团队费心营造的反智文化氛围，很容易造成成员被教育、启蒙，从而难以约束，并大大增加清洗运动的难度。</p>
-<p>2、<strong>要有足够的资源维持高昂的成本支出。</strong>通过“禁止成员说三道四来提高团队凝聚力”固然可行，但依靠这种凝聚力来达成目标或实现理想岌岌可危，必须耗费大量成本来维护秩序。成员再愚蠢保守，再整齐划一，也需要通过目标的实现来获得具体的利益，否则就难以维系。这就需要有耗费大量的成本来“收买”成员；或“豢养”秩序维护者，如护厂队，来吓阻动摇的成员。</p>
-<p>3、<strong>任务必须足够简单</strong>。将通过“禁止成员说三道四”来提高了团队凝聚力用来做什么这才是问题的关键。对于任何稍微复杂的任务都无法通过符合边界条件的团队来达成而不破坏或削弱边界条件来实现。只有简单的任务才足以达成而不破坏或削弱边界条件。例如，<strong>即使提出高瞻远瞩的宏大任务目标，像组织、社团的伟大崛起之类，但实际的任务其实只不过是维持组织、社团而不致迅速瓦解。</strong></p>
-<p>可以这么说，能同时满足“禁止成员说三道四能够提高团队凝聚力”的团队边界条件和情境边界条件，实际上是一条极其狭窄的范围，在一个开放的社会里，这样的狭窄范围几乎不可能维持这样的团队及其目标任务保持足够的时间。<strong>更可能的情况是“禁止成员说三道四”所提高的不过是虚假的“凝聚力”，也就是管理心理学里所说的“权益从众”，理性的成员总是择机而动，哪怕是愚蠢而保守的芸芸庸众，在基本的趋利避害方面仍然是理性的。</strong></p>
-<p>更简单的方式并非是追求真正提高团队的“凝聚力”，而是<strong>通过恐吓和暴力吓阻来胁迫成员假装有“凝聚力”。</strong>在<strong>利益</strong>和<strong>暴力</strong>的双重作用下，<strong>绝大多数趋利避害的庸众都能理性地做出符合团队话事人预期的选择</strong>。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="300" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%88%90%E5%91%98%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E5%87%9D%E8%81%9A%E5%8A%9B%E5%90%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -668,7 +647,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -678,5 +657,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

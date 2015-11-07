@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E6%8E%90%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E-%E8%A2%AB%E7%BD%91%E6%B0%91%E6%89%B9%E4%B8%8D%E8%87%AA/" target="cdt-mirror">“习马会”央视直播掐马英九致辞 被网民批“不自信”</a>
+</h2>
+<p><p>备受关注的习马会于中国时间本周六在新加坡举行，央视作为中国大陆唯一有权直播的媒体，却在习近平发表完讲话，马英九准备致辞前将镜头从现场切回直播间。</p>
+<p>然而从其他媒体公布的马英九致辞全文来看，似乎并无任何值得当局紧张的“敏感”内容（下附全文）。</p>
+<p>有天涯社区用户在论坛发帖表示不满，结果不到一小时就被删除了：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E%E8%A2%AB%E6%8E%90.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E%E8%A2%AB%E6%8E%90.png" alt="马英九致辞被掐" width="575" height="284"></a><br><em>（截图来自<a href="http://webcache.googleusercontent.com/search?q=cache:NT9UOm4w_g8J:bbs.tianya.cn/post-free-5304189-1.shtml+&cd=2&hl=en&ct=clnk&gl=us">谷歌缓存页</a>）</em></p>
+<p>就央视新闻在新浪微博上与其转发量完全不匹配的评论数来看，有关方面很显然对相关微博评论进行了非常严格的审查过滤：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA.png" alt="央视新闻评论" width="550" height=""></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>连鹏：马先生的讲话不同步直播，有些不自信了。呵呵。</p>
+<div><a href="http://weibo.com/1709962545" target="_blank">项城之窗</a><i title="微博达人"></i>：老马要说话的时候，镜头给了主持人<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></div>
+<div>
+<p><a title="whenever" href="http://weibo.com/zhouheyi">whenever</a>：想起《疯狂的赛车》里的一句台词：内地的帮会太没有礼貌了<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/1822657903" target="_blank">无聊刷微博的某人</a>：怎么尽干蠢事？马英九也不是不识大体的人，这种场合能说啥出格的话？不如大方播出，央视搞这一出，本来挺好的事，现在都在骂<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+</div>
+<p>豆包梅子馅：想听马英九，结果就听主持人说话了……</p>
+<p>鸟枪2012：习讲完了，马的讲话就不让听了，光让看画面，主持人就一直拍马屁的瞎BB，真想把主持人拉出去大耳光抽死！</p>
+<p>沈金垚：掐了马英九的讲话，真是丢脸</p>
+<p>飘零的瓢虫：好自信(ᵒ̤̑₀̑ᵒ̤̑)</p>
+<p>卡引：开始担心台湾同胞的自由了。</p>
+<p>madameho：所以这次还是one man show，马英九成了布景板！</p>
+<p>ShowHand1314：名不虚传CCTV</p>
+<p>蜂枸传奇：回复@jason_22:我在头条新闻下评论，都被屏蔽了</p>
+<p>天道永恒V5：这叫直播？光播习先生致辞，马先生失声了？</p>
+<p><a href="http://weibo.com/1006517350" target="_blank">白焱911</a>：我关掉了CCTV！<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]">做人不能如此无耻！</p>
+<p>贞观一闲人：都在谈两岸交流，央视切了马英九讲话直播正反映两岸交流、沟通、互信远远缺乏。不知道马先生会说什么怕在直播中放些不该放的话干脆切 掉，这是对同胞兄弟做法？央视嘉宾分析乐观，大谈“民心所向”，我在台湾看到的感受到的并非如此。多年去中国化做的太成功，好多年轻人连中华民族都不认同 了,哎。</p>
+<p>captainSu：那会央视直播奥先生当选讲话:Recall that earlier generations faced down fascism and communism not just with missiles and tanks翻译还给迷迷糊糊翻出来了，所以央视今天不敢放马先生讲话</p>
+<p>玄泰HyunTae：#两岸领导人会面# 據說大陸這邊把馬先生的講話直接掐掉，於是決定還是直接看台灣的直播好了。台灣不僅直接播出了習先生的講話，而且兩岸的旗幟對等使用，兩岸的話題毫不避諱，更為客觀。</p>
+<p><strong>附马英九致辞全文</strong>（来源：<a href="http://www.bbc.com/zhongwen/simp/china/2015/11/151107_ma_ying-jeou_statement">BBC中文</a>）：</p>
+<blockquote><p>习先生，大陆与台湾代表团的各位女士、先生，以及在场的媒体朋友们，大家午安，大家好！</p>
+<p>今天，我与习近平先生分别以台湾与大陆领导人的身份，穿越66年的时空，伸手相握，握着两岸的过去与未来，也握着中华民族振兴的希望，深具历史意义。</p>
+<p>22 年前，也就是1993年的4月，台湾海基会董事长辜振甫先生与大陆海协会会长汪道涵先生在新加坡会面，签订了4个协议，为两岸制度化协商打下了基础。12 年前，也就是2003年的10月，我在“东亚经济高峰会”上，与新加坡建国总理李光耀资政对谈。当时我们都认为：“两岸的发展，要以人民的利益为依归。”</p>
+<p>此 刻，我和习先生相对而坐，共聚一堂，在我们背后的，是两岸分隔超过一甲子的历史；在我们眼前的，是这几年来，双方致力“以对话取代对立、以和解替代冲突” 的成果；在我们手上的，是永续和平与繁荣的目标。此时此刻，海峡两岸正大声向全世界宣示巩固台海和平的决心，以及促进区域和平的讯息。</p>
+<p>这66年来，两岸在不同的体制下发展，能够从军事对抗转为合作交流，绝非朝夕之功。7年多来，两岸签订了23项协议，创造了4万多学生交流、每年800万旅客往来与1700多亿美元贸易的空前荣景。这些巨大改变的基础，都在于“和平”。</p>
+<p>历 史为两岸留下了错综复杂的世代课题，这正是“尚书”所说的“非知之艰，行之维艰”。对于各自坚持的敏感议题，需要双方正视现实，以智慧、耐心与诚意务实处 理。但是，我们依然能够努力在双方这些年来建构的“制度性协商”之下，达成了两岸和解与合作，推动了永续和平与繁荣，而这也是两岸及国际社会共同的期待。</p>
+<p>今天，我愿提出维系两岸和平繁荣现状的五点主张：</p>
+<p>第 一、巩固“九二共识”，维持和平现状。海峡两岸在 历史为两岸留下了错综复杂的世代课题，这正是“尚书”所说的“非知之艰，行之维艰”。对于各自坚持的敏感议题，需要双方正视现实，以智慧、耐心与诚意务实 处理。但是，我们依然能够努力在双方这些年来建构的“制度性协商”之下，达成了两岸和解与合作，推动了永续和平与繁荣，而这也是两岸及国际社会共同的期 待。</p>
+<p>第二、降低敌对状态，和平处理争端。两岸目前已不再处于过去的冲突对立，双方应持续降低敌对状态，并以和平方式解决争端。</p>
+<p>第三、扩大两岸交流，增进互利双赢。两岸目前尚未结案的议题，例如货贸协议、两会互设机构、与陆客中转等，应尽速处理，以创造两岸双赢。</p>
+<p>第四、设置两岸热线，处理急要问题。两岸目前在海基会、海协会首长之间，与陆委会、国台办副首长之间，均已设有联系机制。今后应在陆委会、国台办首长之间设立热线，以处理紧急与重要问题。</p>
+<p>第五、两岸共同合作，致力振兴中华。两岸人民同属中华民族、都是炎黄子孙，应互助合作，致力振兴中华。</p>
+<p>这五点主张不是为一己之私、单方之利，而是为了后代子孙的幸福。我诚挚地希望，双方都应该重视人民所珍惜的价值与生活方式，维护两岸和平，以中华文化蕴涵的智慧，确保两岸互利双赢。</p>
+<p>习 先生，当前的两岸关系，已经是1949年以来最为和平稳定的阶段。这几年，我常常在台湾的大学校园中，看到两岸学生一起讨论、一起运动、一起演奏、一起欢 笑的画面。那种自然的水乳交融，往往让我既欣慰，又感动。他们有热情、有创意；但他们没有仇恨，没有包袱；他们能在人生较早的阶段建立友谊，一定可以为两 岸永续和平打下更坚实的基础。我们要好好珍惜、扩大这个基础。</p>
+<p>北宋大儒张横渠主张“为天地立心，为生民立命，为往圣继绝学，为万世开太平”。习先生，为了两岸人民，让我们一起努力，为生民立命，为万世开太平，为中华民族开创更和平灿烂的未来。</p>
+<p>谢谢大家！</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E6%8E%90%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E-%E8%A2%AB%E7%BD%91%E6%B0%91%E6%89%B9%E4%B8%8D%E8%87%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%90%9B%E8%BE%BE%E4%B9%90%E7%9A%84%E6%85%A2%E5%85%88%E7%94%9F%EF%BC%9A%E6%97%A2%E7%84%B6%E8%AF%B4%E8%B5%B7%E7%A9%86%E6%96%AF%E6%9E%97/" target="cdt-mirror">君达乐的慢先生：既然说起穆斯林</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/05/1-e1400696477931.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2014/05/1-e1400696477931.jpeg" alt="蒙面妇女1" width="575" height="415"></a><br><em>（网络图片）</em></p>
@@ -587,33 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E5%8F%B0%E6%B9%BE%E5%AD%A6%E8%80%85%EF%BC%9A%E9%A9%AC%E8%8B%B1%E4%B9%9D%E9%A9%AC%E4%B9%A0%E4%BC%9A%E5%AF%BB%E6%B1%82%E8%87%AA%E5%B7%B1%E5%9C%A8%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">BBC｜台湾学者：马英九“马习会”寻求自己在中国的历史定位</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104083153_xi_jinping_and_ma_ying-jeou_976x549_ap_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104083153_xi_jinping_and_ma_ying-jeou_976x549_ap_nocredit.jpg" alt=" 马英九与习近平在7日将以“两岸领导人”的身份在新加坡会晤。 " width="575" height="323"></a><p>马英九与习近平在7日将以“两岸领导人”的身份在新加坡会晤。</p></div>
-<p>台湾学者吴介民接受BBC中文网访问时认为，马英九与习近平会面真正的动机是“谋求自己在中国历史上的地位”。中国方面的动机则可能与“地缘战略”有关。</p>
-<p>专长研究中国政经社会变迁、台湾民主化议题的中央研究院社会学研究所副研究员吴介民，周四（5日）接受BBC中文网电话访问时表示，现在关于“马习会”的猜 测很多，在还没发生之前很难真正知道谈的会是什么。但就他的研究观察，他认为“马习会”会前已经就“双方都想确认一个中国”这个隐形议题达成一定程度的共识。</p>
-<p>吴介民指出，除非习近平明确接受马英九定义“一个中国各自表述”的九二共识，并且承认中华民国存在，承认马英九做为中华民国总统的地位，否则这次马习会可能让马英九定义的九二共识“不攻而破”。而就目前情况看来，这很可能会发生。</p>
-<p>而中国方面的动机，吴介民认为有三个方向，一是“地缘战略”，中国在南海议题处理上备受争议，因此希望在台海寻求和平、和解，突破美国和日本的围堵。二是想用“一个中国”的框架来限制台湾未来的选择。三是习近平想提升自我形象，成为复兴中华民族的台海和平缔造者。</p>
-<p><strong>历史定位</strong></p>
-<p>马英九多次说过他要总统任内留下“历史定位”。吴介民认为，马英九谋求的历史定位并不是在台湾历史上，“而是谋求自己在中国历史上的地位。”吴介民更进一步分析马英九想达到的定位内容，他认为是“一个中国”与 “终极统一”。</p>
-<p>虽然北京明确表示一个中国原则就是“中华人民共和国”，但吴介民认为，这并不妨碍马英九终极统一的立场。</p>
-<p><strong>民意基础</strong></p>
-<p>台湾陆委会主委夏立言周三（4日）表示，根据陆委会民调，有八成以上台湾民众支持两岸领导人在“对等尊严、公开透明”的情况下会面。</p>
-<p>吴介民则指出，台湾民众对于马习会的观感是“警戒小心的”。他提供一份由中研院社会所中国效应研究小组 (China Impact Studies)在今年1到2月所做的民调，抽样1277名台湾人中，有超过六成认为国民党太过倾向中国。而如果台湾要和中国大陆进行政治谈判，33.7%受访者比较信任国民党政府，比较相信民进党政府的占45.6%。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151104053916_taiwanese_protesters_976x549_epa_nocredit1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151104053916_taiwanese_protesters_976x549_epa_nocredit1.jpg" alt="4日早上，台湾的第三势力政党和公民团体前往立法院，抗议马习会决议过程不公开。 " width="575" height="323"></a><p>4日早上，台湾的第三势力政党和公民团体前往立法院，抗议马习会决议过程不公开。</p></div>
-<p>马英九选择在总统大选倒数70天时与习近平会面，拉抬国民党低迷选情的揣测应运而生。吴介民认为马习会对于国民党的选情“很可能是反作用”，会更激发民众对“国民党政府倾中”的疑虑。但吴介民也说，没有竞选压力的马英九，在这次会面寻求的是写下个人历史定位，安排会面不一定是考量到国民党选举。</p>
-<p>“马习会”的消息是周二（3日）晚间由台湾媒体披露，总统府在深夜证实此消息为真，旋即在社会上引起热烈讨论。吴介民认为，民主最重要的就是程序正当性，但马习会的协商过程黑箱作业，隐瞒国会、隐瞒民众，“这对台湾民主是伤害”。</p>
-<p><strong>国际关注</strong></p>
-<p>马英九在周四早上的国际记者会上说，美国在“马习会”没有扮演任何角色，但有事先通知美方。</p>
-<p>吴介民认为，马习会如果涉及地缘政治平衡的变动，也就是台湾更加倾向中国，这样美国就会强烈关切。而如果能这次会面后，马英九在记者会上谈到的“两岸领导人会面常态化”能落实，在马英九剩下的五个多月任期中安排更多次的会面，才有可能谈到更实质的议题，而美国的实质关注才会更多。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E5%8F%B0%E6%B9%BE%E5%AD%A6%E8%80%85%EF%BC%9A%E9%A9%AC%E8%8B%B1%E4%B9%9D%E9%A9%AC%E4%B9%A0%E4%BC%9A%E5%AF%BB%E6%B1%82%E8%87%AA%E5%B7%B1%E5%9C%A8%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -625,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -635,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

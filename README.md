@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%96%B0%E9%97%BB%E6%88%90%E4%BA%86%E6%B0%91%E4%BC%97%E7%9A%84%E8%BF%B7%E5%AE%AB/" target="cdt-mirror">宋志标：不要让新闻成了民众的迷宫</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/64031.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/64031.jpg" alt="6403" width="425" height=""></a></p>
+<blockquote><p>今天是记者节。这是一篇悲伤却清醒的文章，献给读者，也献给我们自己。</p></blockquote>
+<p>如果被当做是一个批评的对象，“新闻界”是不被承认的。一方面是残存的自由主义媒体原则，将此间仍在扩张的政治计划视作是耻辱，以虚假标签抵挡实质性的降服；另一方面则是，在事实上收复了失地的党媒，权势扶植成为原罪，更愿意用党性更强的词汇取暖。</p>
+<p>市场化媒体在中国二十年来了又去，专业主义原则终于成为幽灵，念念不忘的转型之战演变成不尽的输诚之举，行业规模及声誉以戏剧性的方式萎缩，在巩固权威的出发点上，美好的初心频频遭到粉碎，不受惩罚的作恶者与不负责任的无所事事者，并存。</p>
+<p>仅仅挑选最近发生的几个事例，也足以看见新闻行业有多糟糕，或者说有多残酷。网信办开始发放记者证，这是一个具有象征意义的事件。它宣告了一批中央网媒成为其嫡系势力，从此有了基本盘；也可以看出，在塑造权威的道具库里，他们又多出几件盔甲。</p>
+<p>关于权威这个事情，始终在新闻界挥之不去。新生代宣告权威性，以便与旧媒体划清界限；就连旧媒体，也妄想着不死的权威，最好的代言就是“内容为王”——他们希望自身具备“父亲”一样的权威，即使破落或死掉，也拥有高人一等的种姓。</p>
+<p>但是在今天这个阶段，权威的获得不是靠良心，而是来自于权力的赋予。所以，这就造成了一幅奇特的景象：央媒在收获臃肿的权威外套，无论它看上去有多么滑稽；曾经的市场化媒体、如今的媒体破落户则在技术洪流中声嘶力竭地声张着“主流”。</p>
+<p>在劫掠权威的另一面，是对民众的态度，夹杂着急切占有与轻率蔑视这两种矛盾的情绪。民众被看做是“哑巴”，听凭摆布，是无辜者，新闻界变态地将其选择为猎物，并且对这种牺牲品情有独钟——无论是政治计划，还是创业变形记，都描绘了各自的猎物特性。</p>
+<p>专业主义与服务党性人民性，如此差异巨大的两个面向，正在被当前的新闻界着意地混为一谈。这让中国的媒体业表现出显著的精神病症：它们如此偏执地仇视真相，又像多疑症患者不信任到手的欺骗成果。新闻界通过效忠治愈了受迫害妄想，随后陷入了极端病变。</p>
+<p>从上海澎湃开始，新闻界就乐于讲述在父亲权威庇护下的成长故事，其中的套路之一，是大肆宣传种种逆流而上的牺牲。令人可笑的是，这种媒体故事会，引入了温顺的母亲角色，以回归“母亲”来歌颂父权叙事。自澎湃之后，无界、封面等加入这一阴暗的洪流。</p>
+<p>尽管一个多世纪来，自有新闻业开始，这个行当就不乏阴暗面。但与过去二十年甚至是三十年相比，现今的新闻界具有更多无法被光照亮的阴暗面。新闻界的“贤达”是那些善于将阴暗面涂上亮漆的人，他们被描绘成为新时代的理性者，具有抛弃理想时的决心与完美姿态。</p>
+<p>在官方叙事中，则是另外一回事。沈颢作为新闻理想主义的象征人物，在央视这一豢养巨兽面前忏悔“被毁掉的一生”，成为瓦解新闻界自由主义叙事的证据而反复播放。一种权威要打倒另一种权威，一种空洞无物的铁兽要利用大手术成为新闻界新的骨头。</p>
+<p>别看它宣扬出来的是风光无限，新闻界在内里充满着挫折感与不安全感。市场业绩骤降，迫使他们逼近态度暧昧的党产接收官早前所划定的界线。这种界线像深渊中的鱼一样难以捉摸，它用恐惧支配新闻界，令后者在手脚被束缚的状态下歌颂虚度之美。</p>
+<p>中国的新闻界只剩下一点点可怜的羞耻心，那就是迟迟不愿意宣布它们已经与社会脱节的现实。今日之新闻界，已经是社会问题中的关键部分，而不是超脱于问题并提供解决方案的那部分。新闻界用最后丁点遮羞布引诱各自的读者，就像猪笼草引诱着盲目的蚊子。</p>
+<p>就此而言，今日新闻界所自我标榜的“在场”，是一种伪装出来的托词，实际上一直处在被清场的进度条上。今日新闻界所宣称的“坚持与坚守”，更是汇入新型原罪的生产源头的一种原材料。有人想要抓住往日理性碎片，但这些溺水者的挣扎将拖埋更多东西。</p>
+<p>对于民众最好的建言，应该就是远离新闻界，甄别传媒。如果说过去的自由主义受众经验，曾经帮助读者脱贫那样，现今的民众应该树立无政府主义的阅读思路，像小心翼翼对待蔬菜农药残留那样对待信息。“有机新闻”非常稀少，这让中国人在信息时代的生存极其困难。</p>
+<p>民众应该反思的是对待新闻界的方式，以及在信息吸取上采取更为谨慎的态度。总的来说，除非甘做信息僵尸，否则，民众对新闻界及其兜售的信息资讯再也不能有灵魂上的融合。拒绝与新闻界及其信息模式成为一体，是在全球化与互联网下苟活的基本保全措施。</p>
+<p>伴随着新闻界规模的急剧萎缩，即使新媒体迅速被驯服，也喻示着铁板一块的新闻媒体行业所能释放的伤害，他们在新闻中掺杂的毒药药力，也在大幅度地衰减之中。无论它的技术面貌如何迭代，新闻传媒已不是集体话语的最好承载者，这是解药时可以念叨的符咒。</p>
+<p>新闻界不是起事的寄托，它们当不起，因此不要再对新闻传媒投放无节制的信任，这一点至少在公益界形成共识。切断不知所谓的需求，民众可以成为自己的疗伤大师。石化了的新闻界，自有其崩溃的命运，不需要用信仰之手去阻止这一进程的加速到来。</p>
+<p>在自由主义新闻原则下成长起来的刘伟，蜷缩在腐朽的媒体上自认调查报道所陷入的“歧路”，掌搧了那些不正视疾病隐喻的人。新闻业已经是社会失败的中心，不会再有新的新闻界，这是三年、五年甚至七年中可以判定的事实之一。只有真正的决绝，才能开启新的新闻史。</p>
+<p>总之，在新闻界荒芜的一面，许多人是可以熟练承受这一切的。假如有问题的话，问题只是一个：不要让新闻成为你的迷宫。质言之，不要让新闻传媒成为民众的迷宫。早前，社会一直低估了虚假的力量，如果你拒绝认清这一点，你就会加入其中，成为虚假与石化的变形。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%96%B0%E9%97%BB%E6%88%90%E4%BA%86%E6%B0%91%E4%BC%97%E7%9A%84%E8%BF%B7%E5%AE%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E8%8A%82/?category=18271" rel="tag">记者节</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E7%A7%A6%E6%99%96%EF%BC%9A%E8%B5%B0%E5%87%BA%E5%B8%9D%E5%88%B6/" target="cdt-mirror">东方历史评论｜秦晖：走出帝制</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6403.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6403.jpg" alt="640" width="575" height=""></a></p>
@@ -82,6 +113,29 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%9B%BD%E5%AE%89%E5%B1%80%E7%BA%BF%E4%BA%BA%E7%BB%86%E6%95%B0%E5%B9%95%E5%90%8E%E7%9B%91%E6%8E%A7-%E9%99%90%E5%88%B6%E5%AD%A6%E8%80%85%E5%AA%92%E4%BD%93/" target="cdt-mirror">自由亚洲｜国安局线人细数幕后监控 限制学者媒体刊载文章有“黑名单”</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/054efd74-8581-4907-8b94-f4bc9710dcb4.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/054efd74-8581-4907-8b94-f4bc9710dcb4.jpeg" alt="054efd74-8581-4907-8b94-f4bc9710dcb4" width="450" height="829"></a><p>国安线人披露监控内幕。（李先生独家提供/记者乔龙）</p></div>
+<p>正在印度首都新德里寻求政治庇护的前南都网编辑李先生在接受本台独家专访时，披露了接受河南省新乡市安全局特工的命令，到香港搜集情报等鲜为人知的幕后情况。他又称，国安人员要求他主动接触境外NGO组织，了解内部运作及与外界的交往情况。李先生还披露，当局有一份限制学者发表文章的“黑名单”。还说，不愿在追求民主的同时，自己又是国安的线人。</p>
+<p>本台11月6日曾报道，经香港抵达印度新德里的南都网前编辑李先生，因不堪长期忍受给河南省情 报人员充当线人，打算寻求美国政治庇护。他在接受记者采访时披露，国安为了收集情报，以 “危害国家安全”胁迫他。李先生说，他刚加入南都网时，在评论频道与学术界建立联系，为学者建立专栏，后因发表杜导斌的一篇文章，而被调离岗位。他披露当局有一份控制学者的黑名单：“2013年底，他们给了我一个结论，说我涉嫌危害国家安全，但是危害程度轻微，不予追究刑事责任。当然这是因为我答应帮他们做事。然后我的护照和港澳通行证被他们压着，不给我。其实我在那个时候就想要出来（出国）。后来我到南都官网，负责评论的频道。在北京（工作）时，约了杜 导斌老师的文章，因为发了他评论十八大的文章之后，我们单位的领导说，上级领导说，杜导斌属于列入黑名单的人，不能给他舆论空间，又以此为借口，把我调回深圳（南都深圳办事处）”。</p>
+<p>他还说：“21世纪经济报道的媒体人被抓的半年之前，（河南）国安的在北京见我，他们问我他们（报社）有多少 人，我说跟他们不认识，我的业务跟他们也没有交叉，他们对南方周末、南方都市报的人都很感兴趣，后来他们强迫我，让我搞一个调研（21世纪经济报道），我没有办法，就在网上找（资料），写了一份东西给他们”。</p>
+<p>李先生说，他早想离开中国，2013年底，因为刚出生的孩子办理户口，终于从国安手中要回护照。但由于孩子年幼，妻子无法独立抚养，押后了出国计划。他说：“后来国安给了我三个方向，让我关注民运圈的人，关注广东的劳动维权，第三，让我关注香港，比如香港占中，还有香港一些人怎么培训内地的人怎么维权。包括最近他们一直在鼓动我，让我多去香港。当然之前我也去了两趟香港，一趟是，华人民主书院搞的一个（有关）基层的议员选举，还有民主书院自己搞的筹款晚会，我也去了。我没有在那里住过，都是一天回来”。</p>
+<p>记者：什么时候？</p>
+<p>回答：应该是上一个月（2015年10月）。他（国安人员）主要让我关注这三个方面，但这实际上很违背我的内心。</p>
+<p>记者：您说跟广州的律师和维权人士比较熟？</p>
+<p>回答：广州的唐荆陵律师，我跟他们认识，还有刘四仿、王爱忠，我们其实都认识。</p>
+<p>“七零后”的李先生于2007年创办公民社会网（http://www.gmsh.org.cn/），该网站倡议公民社会、公民教育、法制宪政、并介绍NGO组织，刊载贺卫方、胡星斗、乔木教授等学者的文章。但该网站内容自2014年6月25日之后，不再更新。</p>
+<p>李先生说，他公开主张公民社会，但暗中却受国安人员胁迫，要主动接触境外NGO组织，监视、收集公民信息、“黑材料”等，他决定离开中国：“我不想一直去做一些违背内心的事情。我不想到中国有一天民主的时候，突然发现我原来是警方的卧底，警方的线人。最近我之所以能够出来，也是他们放松了对我的监控”。</p>
+<p>目前，李先生的妻儿及父亲仍在大陆。他说，在新德里，曾尝试与联合国难民署接触，但得到的答复是不接纳中国周边国家的难民。他说：“能否在印度申请政治避难，好像很困难，我问了很多印度朋友说也困难。我跟您说的这些事，按他们（中国国安）的理解，属于国家秘密，我是不能向外界透露的，我一旦透露出去，他们肯定要找我麻烦的”。</p>
+<p>美国华人教会牧师郭宝胜呼吁联合国难民署和美国政府放宽对中国政治难民的政策，他说：“我们呼吁联合国难民署关注中 国的政治难民状况，虽然现在全球的眼光都在关注因为伊斯兰国组织引起的欧洲难民，但是中国的难民潮，未来有可能爆发，因为专制政府的迫害越来越严重。现在泰国不安全了，人们往印度跑。我们希望在印度的联合国难民署接受中国公民的政治庇护申请，我们也希望美国政府对第三地签证的政策放宽，因为有很多急需政治庇护的人”。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%9B%BD%E5%AE%89%E5%B1%80%E7%BA%BF%E4%BA%BA%E7%BB%86%E6%95%B0%E5%B9%95%E5%90%8E%E7%9B%91%E6%8E%A7-%E9%99%90%E5%88%B6%E5%AD%A6%E8%80%85%E5%AA%92%E4%BD%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96ngo%E6%B3%95%E6%A1%88/?category=18271" rel="tag">境外NGO法案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%88%86%E6%9E%90%EF%BC%9A%E4%B9%A0%E9%A9%AC%E4%BC%9A%E4%B9%8B%E4%B8%8B%E7%9A%84%E4%B8%A4%E5%B2%B8%E7%8E%B0%E5%AE%9E/" target="cdt-mirror">BBC中文网 | 分析：“习马会”之下的两岸现实</a>
 </h2>
@@ -623,105 +677,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%98%93%E4%B8%93%E6%A0%8F-%E9%99%95%E8%A5%BF%E5%AD%95%E5%A6%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%BC%95%E4%BA%A7%E5%90%8E%E7%9A%84%E8%BF%99%E4%B8%89%E5%B9%B4/" target="cdt-mirror">网易专栏 | 陕西孕妇被强制引产后的这三年</a>
-</h2>
-<p><p>年前，陕西孕妇冯建梅被强制引产，她和死胎躺在病床上的照片轰动世界。被引产的后遗症致使冯建梅两年多无法受孕，“被计生人员按在床上打针”的噩梦常把她惊醒。所幸，冯建梅最终再产女婴，“感觉那个孩子又回来了”。只是政府当初的承诺并未兑现，村民对冯建梅“把事情闹大”的不解，让夫妻二人有些无奈。如今时光境迁，对于丈夫邓吉元所在的鱼坪村来说，计生专员开始为全面放开二胎的政策犯愁，“怎样说服村民生二胎呢，总不能强迫吧？”</p>
-<p>文|冯存健</p>
-<p>2015年11月1日下午，陕西省安康市平利县街头一处商家促销抽奖活动中，冯建梅和她9岁的大女儿邓欣雨挤在成堆的人群中，拿着一张抽奖券等待着结果。“说不定还能中个冰箱呢”，她对身边的大女儿半开玩笑说。</p>
-<p>这一天，距离那个婴儿胎死腹中已经整整41个月。</p>
-<p>活动地点不远处的一幢简易楼便是冯建梅如今的住处。她在此租了一个90平左右毛坯三居室，一个月租金近600元。大女儿邓欣雨在平利县城关小学读三年级，“女儿成绩一般，愁呢。”</p>
-<p>冯建梅现今不再工作，全职照顾两个女儿让她感慨“有些累”，但也幸福。今年9月1日，小女儿邓思仪在平利县医院出生，让全家人着实高兴不已。“我感觉那个孩子又回来了。”说这句话的时候，冯建梅望着脚下的水泥地板，依然面带微笑。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/uMX3Z.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/uMX3Z.jpg" alt="uMX3Z" width="342" height="464"></a></p>
-<p>冯建梅朋友圈中发布的小女儿邓思仪照片，配文“我家二女儿”。照片经冯建梅同意使用。</p>
-<p>2012年6月2日，因未能按时缴上曾家镇计生部门开出的4万元“押金”，怀孕7个半月的冯建梅被蒙着脑袋带至医院强制引产，一条小生命就此夭折，冯建梅甚至能感受到死前婴儿长达4个小时的腹中挣扎。</p>
-<p>接受采访的几天前，躺在床上休息的冯建梅在手机上看到了中共中央宣布“全面实施一对夫妇可生育两个孩子政策”。“如果早几年放开，那个孩子已经3岁多了。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/61e04755gw1exqizkhwtrj20dw09a0u7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/61e04755gw1exqizkhwtrj20dw09a0u7.jpg" alt="图为2012年6月，被强制引产后的冯建梅和身边死去的女婴。照片被曝光后引起全球关注，中国计生部门的恶性执法被大规模讨伐。（网络图片）" width="500" height="334"></a><p>图为2012年6月，被强制引产后的冯建梅和身边死去的女婴。照片被曝光后引起全球关注，中国计生部门的恶性执法被大规模讨伐。（网络图片）</p></div>
-<p>不过，小女儿的最终降临，已让冯建梅的心结慢慢解开。从2013年和丈夫邓吉元计划“再要一个孩子”，到2014年11月最终怀孕，中间经历了近两年的时间。因强制引产带来的后遗症，冯建梅一度无法正常受孕，这也让她在那段时间性情有些暴躁。</p>
-<p>而一直陪伴她的丈夫，33岁的邓吉元，如今仍在距离妻子住处约50公里外的老家陕西安康市镇坪县曾家镇鱼坪村工作。镇坪县地处陕西、湖北、重庆三地交界的大巴山腹地，是陕西最南端的县城，自然环境优美，盛产玄参等名贵药材。“山上的药材现在少多了”，当地村民无不惋惜。</p>
-<p>因懂得点发电的技术，邓吉元被聘为一家私人水电站的站长，月薪5000元。“也就是勉强能够养家”，邓吉元笑着说。这位性格温顺的普通男子，曾因不满政府处理强制引产事件的拖沓态度“一度想杀人”，摆脱层层监控连夜逃往北京“要说法”，后在母亲的劝说下回归；也曾因接受德国媒体采访被骂“卖国贼”，但也拒绝了美国大使馆给予的10万美元资助。“怕收了它的钱，要被控制了”，邓吉元回忆当时的情形说。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/55d17dd36e843b08f8312c51d723ffd2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/55d17dd36e843b08f8312c51d723ffd2.jpg" alt="55d17dd36e843b08f8312c51d723ffd2" width="477" height="300"></a><p>2012年6月，有“村民”在镇平县医院门口打横幅称“痛打卖国贼，驱出曾家镇”。彼时，邓吉元接受了一家德国媒体的采访，将事情“捅了出去”。（网络图片）</p></div>
-<p>无论多忙，邓吉元每周末都要坐一个半小时的大巴车到平利县看望妻女，平时不在一起的日子里每天也会打上几通电话。对于冯建梅来说，丈夫这样奔波虽然比较辛苦，但她实在不愿意留在鱼坪村生活，甚至不想再踏进镇坪县。</p>
-<p>一、“4万，一分不能少！”</p>
-<p>三年多来，冯建梅拒绝了多家媒体的采访请求，不愿再提及2012年6月那段伤心往事。“不会刻意去想了”，这位出生在内蒙古、11岁举家迁至黑龙江的“城里人”，从未想过强制引产这种事还能在新世纪第二个十年内发生。</p>
-<p>冯建梅不知道的是，自从1982年计划生育被定为“基本国策”以来，像她这样被强制引产的妇女是一个多么庞大的群体。《中国卫生统计年鉴2013》显示，从1980年到2012年，共有妇女上环3.02亿次，实施妇女输卵管结扎手术1.04亿次，人工引流产2.95亿例。虽然不排除有大量自愿进行手术的妇女，但在计划生育“一票否决制”的大背景下，可以说绝大多数手术是在计生部门强制或变相强制下进行。</p>
-<p>事实上，冯建梅嫁到的镇坪县，相比全国多数地区来说，计生政策还更为宽松些。按照陕西省计生条例规定，由于地处“高寒山区”，镇坪县农村家庭可以要两个孩子，前提是夫妻双方必须是农村户口；镇坪县政府在具体执行时加上了两胎之间间隔满4年的限制。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/f6446d54c003e1eb77dbf392358d007f.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/f6446d54c003e1eb77dbf392358d007f.jpg" alt="陕西安康市镇坪县曾家镇鱼坪村，大多时候极为安静。（冯存健）" width="381" height="506"></a><p>陕西安康市镇坪县曾家镇鱼坪村，大多时候极为安静。（冯存健）</p></div>
-<p>这样的宽松也未能阻止悲剧的发生。冯建梅2011年11月再次怀孕时，大女儿邓欣雨已满5岁，唯一的隐患在于她内蒙古的户口尚未迁至鱼坪村。冯建梅被计生干部盯上了，而且“撞上了枪口”。</p>
-<p>在引产前十几天，急于摘掉计生“黄牌”的曾家镇政府才找到邓吉元提醒其补办准生证，并要求邓吉元先交3万元“押金”，这中间由于冯建梅出逃一次，镇上将“押金”提高到4万元。“4万一分不能少，还是你们大意了”。当年曾将“要钱”短信发给邓家的曾家镇计生干事袁芳拒绝再谈此事，“都过去这么多年，不要再提了。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/efddd86d87bb2adc94895c0ecdae2ebd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/efddd86d87bb2adc94895c0ecdae2ebd.jpg" alt="2012年6月2日，在冯建梅被引产后，曾家镇计生干事袁芳发给邓家的“4万一分不能少”的短信。（资料图片）" width="462" height="315"></a><p>2012年6月2日，在冯建梅被引产后，曾家镇计生干事袁芳发给邓家的“4万一分不能少”的短信。（资料图片）</p></div>
-<p>袁芳所称的“押金”即是社会抚养费。这项正名于2002年的行政性收费充满争议，多年来征收总额、用途及流向一直不曾公开。唯一可查的官方数据是在冯建梅被引产的2012年，24省份公布该年征收总额超过200亿元。有学者估计，大陆实行计划生育政策以来征收的社会抚养费不低于1.5万亿元。因缴不起罚款引起的强制引产甚至自杀的悲剧普遍发生在中华大地，又何止冯建梅一家。</p>
-<p>补办准生证需要时日，凑够4万元对于当时的邓家来说也不轻松，因为盖新房欠下8万外债的邓吉元在2012年5月30日赴内蒙古矿上打工，准备两年内还清债务。其走后约3小时，曾家镇十五六名计生人员便找上门来，倔强的冯建梅在历经70多个小时的“逃生”之后，被人用黑色衣服蒙着脑袋抬上车送往镇坪县医院。</p>
-<p>被强迫按手印后，6月2日15时40分，冯建梅被强行注射引产针，计生人员将其眼睛捂住。随后长达两年多的时间，冯建梅经常被上述一幕构成的噩梦惊醒。“当时没有一个亲人在我身边。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/33c35ce11159a0e9474a6de1e79fc057.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/33c35ce11159a0e9474a6de1e79fc057.jpg" alt="2012年6月，被引产后的冯建梅躺在床上。（资料图片）" width="379" height="236"></a><p>2012年6月，被引产后的冯建梅躺在床上。（资料图片）</p></div>
-<p>拿着四处借来的1.8万元现金从内蒙古赶赴医院的邓吉元，已晚来一步。在随后很长一段时间里，他常常自责，“如果当时我在又会怎样？”，但他最终“释怀”，即便在，孩子也保不住。“当时我大姐和我爸都在，还不是一样。”</p>
-<p>6月4日凌晨3点多，5斤8两重的女婴出生，浑身乌青，已然离去。6月13日，冯建梅的户口证明从内蒙古通过快递寄回了曾家镇，但已无意义。</p>
-<p>邓吉元开始讨说法。6月11日，冯建梅强制引产事件在网上被曝光，引起全国高度关注。但政府的回复却迟迟不来，反而加强了对邓家的监控。愤怒的邓吉元接受了德国媒体采访，并于6月24日连夜逃往北京。</p>
-<p>没有证据显示这篇报道有任何失实之处，但在此之后，镇坪县医院就出现了“痛打卖国贼，驱出曾家镇”的横幅。“政府让各村村干部拿着横幅游行，但鱼坪村村干部没去”，邓吉元如今谈起此事，也是哭笑不得。</p>
-<p>6月26日，安康市终于通报调查结果，镇坪县副县长、县人口计生局局长等七人被处以记大过、撤职等处分。邓吉元随后获得一次性补助约7.2万元，“算上医疗费用一共这么多，没有外界说的几十万。”</p>
-<p>二、“县上有领导不让给你”</p>
-<p>死去的7个月大女婴被葬在邓吉元老家的后山上，没有墓碑没有坟头，但邓吉元清楚地记得位置。女婴由邓吉元大姐从医院带回，邓吉元父亲安葬。3年多来，只有邓吉元在2013年清明节时去过，“只是去看看”。冯建梅起初并不知道女婴葬在何处，后来无意间听家人说起，但也“不愿去看”。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4c8d76d66a7b3b296c97c61a5afa418d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4c8d76d66a7b3b296c97c61a5afa418d.jpg" alt="鱼坪村邓吉元家，屋后山脉连连。（图：冯存健）" width="317" height="424"></a><p>鱼坪村邓吉元家，屋后山脉连连。（图：冯存健）</p></div>
-<p>2012年7月20日，冯建梅出院，摆脱了长达近50天的“软禁”生活，“老公走到哪都有十几个人跟着”。对于医院的生活，冯建梅用悲痛欲绝来形容，“大脑有时会突然空白。”</p>
-<p>几天后，夫妻俩被带到镇坪宾馆与曾家镇政府签订了一份调解协议。为了保险起见，邓吉元录了音。协议中除了上述7.2万元的一次性补助，还有以下规定：冯建梅由强制引产引起的后遗症治疗费用由镇政府承担；承诺给冯建梅买一份养老保险，等到上年纪了一个月可以拿一千多块钱；并承诺给邓吉元父母办低保。而对于邓吉元一家的要求是“任何人今后不得以同一事由提出异议”。</p>
-<p>邓吉元称，协议签好之后，镇长邓杰说要拿到镇政府盖公章后再返还，但从此再无后音，协议中的承诺至今未兑现。邓吉元又指，自己曾找曾家镇镇长郑杰和镇坪县计生局局长朱英索要协议，郑杰的答复是“县上有领导不让给你”；朱英则并未当面拒绝，只是表示“到时再看吧”，便无下文。</p>
-<p>但面对记者的当面询问，镇长郑杰却是直接否认：“没有这样的协议，像低保是要依法符合国家政策的，邓吉元家盖着二层楼，他本人又做工程项目，不满足这个条件”。。</p>
-<p>而在鱼坪村已做了4年村支书的张才先看来，“政府对他家够好的了”，但并未过多解释。“镇党委书记每年都去看我爸”邓家小妹邓吉彩对此心存感激。</p>
-<p>但可以肯定的是，强制引产事情后，当地政府与邓吉元家的隔阂并未消失。让邓吉元一直不解的，鱼坪村每季度组织一次的育龄妇女所“三查”（查孕情、查环情、查病情）活动，自从那件事后再没有叫过冯建梅。等到为小女儿邓思仪去镇坪县办准生证时，邓吉元被计生局告知无法领取1000元营养补助金，原因是冯建梅没做孕前检查，不符合领取条件。“一千块钱倒是小事，这不是欺负人么？”</p>
-<p>48岁的鱼坪村计生专员王东兴对此事有另外一种说法，“冯建梅没住在村里，在平利县，找她几次都不在家。”对于这种说法，邓吉元脱口而出“狗屁！”，再无更多话语。这是在采访中，唯一一次感觉到邓吉元的愤怒。</p>
-<p>三、“宫腔里有遗留”</p>
-<p>对于冯建梅来说，走出强制引产后的阴霾，并不比接受引产本身来得容易。那段日子，冯建梅一直做噩梦，梦里“那些计生人员把我按床上打针，我怎么挣扎都没用。”冯建梅说，当时在黑龙江的母亲经常打电话安慰她，给了她莫大鼓励。</p>
-<p>这一切，邓吉元看在眼里。“她没以前活泼了，平常也不怎么说话，会无缘无故暴怒，又突然安静下来。”这样的状况持续了一年多，让邓吉元很是担心。</p>
-<p>伴随着这对年轻夫妻的还有不解。冯建梅不止一次被鱼坪村的村民质问道：事情闹这么大干什么，以前大月份被（强制）引产的人不是很多嘛，哪有像你们这样让外国人看笑话的。</p>
-<p>一位在曾家镇居住了大半辈子的老汉如今谈起强制引产事情，仍然表示“邓吉元已经不错了，政府给赔了不少钱。比他家惨的也有，但政府也没表示。”他嘱咐记者不能透露姓名，“我还要在这生活呢。”</p>
-<p>为了逃离这片土地，2012年9月，在家中休养了不到两个月的冯建梅远赴江苏，原本在曾家镇上学的大女儿邓欣雨一同前往，并在江苏上了幼儿园。邓吉元的二姐邓艳在江苏生活多年，彼此也能照应。本来按计划处理完家中事情一同过去的邓吉元，因接了水电站的工作而搁浅。迫不得已，冯建梅2013年9月又回来了。</p>
-<p>但她并未回鱼坪村，而是将家安置在了镇坪县的邻县平利县。当年将他抓走的数十名计生人员如今大多还在职，有时还回去鱼坪村，“不想看见他们，心里不舒服。”</p>
-<p>为了解开心结，夫妻二人在2013年初决定再要一个孩子。但与此同时，因强制引产引起的后遗症已经开始出现，“宫腔里有遗留”，冯建梅说。长达近两年的时间内，冯建梅无法正常受孕，几家医院都建议她做试管婴儿。</p>
-<p>2013年至2014年两年间，为了治病，两人奔赴西安、沈阳等地的多家大医院治疗，医疗费花了五六万元，7.2万元的赔偿也所剩无几。按照调解协议，邓吉元曾拿着看病单找到镇坪县计生局报销，告知冯建梅无法怀孕，但协议不被承认。“各种各样的压力，当时挺绝望。”</p>
-<p>好在事情有了转机。邓吉元偶然听说西安有个小诊所治疗不孕效果不错，抱着试试的心态和冯建梅一起过去。连续吃了4个月的药后，冯建梅终于在2014年11月成功受孕。</p>
-<p>今年9月1日11点10分，小女儿邓思仪降生，一家人都松了口气。在怀孕之前，冯建梅的户口已从老家内蒙古迁到了鱼坪村。</p>
-<p>邓吉元解释说，思是思念的意思，仪通忆，代表着回忆，怀念。</p>
-<p>四、“生二胎不能强迫吧？”</p>
-<p>对于生活在曾家镇18个村的1.2万民众来说，2012年强制引产后计划生育环境之宽松，执法态度之温和，平生未见，甚至让村民觉得计生工作被荒废了。“出了邓吉元的事情，计生部门可能泄气了”，闲来无事在自家房前晒太阳的村民王金枝（化名）说完猜测后，咯咯地笑起来。</p>
-<p>在曾家镇上开了6年摩的的58岁村民王其昌（化名）对于计生政策的变化深有感触。他和妻子养育了5个孩子，2男3女。“八九十年代计划生育那叫一个严啊，想躲躲不掉，罚款又交不起，家里值点钱的东西都被计生人员开车拉走了，最惨时做饭没有锅。”而2013年后，他觉得计划生育工作没人管了，消息灵通的他再也没听说过强制引产的事情发生，“变化太大了”。</p>
-<p>邓吉元的父亲邓孝刚对“罚款”也不陌生，他有6个子女，邓吉元排行老三，“超生罚的款能盖一栋房子了”。而小时候计生人员连“家里的一根面杖都要拿走”则还保留在邓吉元的记忆中。</p>
-<p>在2012年底出任曾家镇镇长的郑杰看来，主要还是民众生育理念的变化。也是在强制引产事件后的2013年，镇坪县取消了两胎之间间隔4年的生育限制，唯一保留的是夫妇双方必须是农村户口。据他的直观感受，外界认为的农村人喜欢多要孩子的观念已经过时。“即便国家放开二胎后，周边的朋友大多还是说一个就够了。之前放开单独二胎效果也不明显。”</p>
-<p>据郑杰介绍，目前，曾家镇有公务员编制的计生干事只有5人，大多数直接负责每个村计生工作的是镇上指定的各村计生专员，一年的工资仅2000元左右。</p>
-<p>上文提及的邓吉元所在的鱼坪村计生专员王东兴便是其中的典型一员。鱼坪村目前128户，人口520人左右。从2010年上任以来，王东兴能直观感受到村民不那么愿意生了。“村里普遍是二胎，有6户领了独生子女证，都是这几年的事情。超生户近期只有一例，还是在外打工时生的。”</p>
-<p>提及这位超生户，王东兴哭笑不得。在向这家征收社会抚养费时，男当家只说了一句，“钱没有，多的那个孩子你抱走吧。”至今，社会抚养费也没收上来。“收不上来干着急，时代不同了，只能劝说试试。”</p>
-<p>不过，在中共中央十八届五中全会宣布全面放开二胎政策公布后，王东兴开始为他预判的新任务犯愁。“怎样说服村民生二胎呢，总不能强迫吧？”</p>
-<p>来源：网易《大国小民》专栏</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%98%93%E4%B8%93%E6%A0%8F-%E9%99%95%E8%A5%BF%E5%AD%95%E5%A6%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%BC%95%E4%BA%A7%E5%90%8E%E7%9A%84%E8%BF%99%E4%B8%89%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">人权案件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">冯建梅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E4%BA%BA%E5%91%98/?category=18271" rel="tag">计生人员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%90%89%E5%85%83/?category=18271" rel="tag">邓吉元</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E7%9A%84%E4%B9%90%E9%AB%98%E7%89%88%E6%B5%A6%E5%BF%97%E5%BC%BA/" target="cdt-mirror">【图说天朝】艾未未的乐高版浦志强</a>
-</h2>
-<p><blockquote><p><strong>新闻背景</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/10/bbc-%E4%B9%90%E9%AB%98%E6%8B%92%E7%BB%9D%E8%89%BE%E6%9C%AA%E6%9C%AA-%E7%BD%91%E5%8F%8B%E6%8D%90%E8%B5%A0%E6%9D%A5%E5%B8%AE%E5%BF%99/">德国之声 | 乐高不愿提供积木 艾未未自有办法</a></p></blockquote>
-<p>艾未未今日在其Instagram账号内发布了两张用乐高创作的浦志强肖像，并附言“释放律师浦志强”。</p>
-<p>2014年5月5日，中国知名律师浦志强在被当地“国保”带走后，其妻至今未能见他一面。2015年5月15日，北京市人民检察院第二分院以被告人浦志强涉嫌煽动民族仇恨罪、寻衅滋事罪依法向北京市第二中级人民法院提起公诉。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B5%A6%E5%BF%97%E5%BC%BA1-e1446814141294.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B5%A6%E5%BF%97%E5%BC%BA1-e1446814141294.png" alt="" width="550" height="351"></a><br>
-（Instagram<a href="https://instagram.com/p/9varnTKDwC/">链接</a>）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B5%A6%E5%BF%97%E5%BC%BA2-e1446814257192.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B5%A6%E5%BF%97%E5%BC%BA2-e1446814257192.png" alt="" width="550" height="352"></a><br>
-（Instagram<a href="https://instagram.com/p/9va-xFKDwl/">链接</a>）</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A-%E4%B8%80%E4%B8%AA%E5%A6%BB%E5%AD%90%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%B4/">亚洲周刊 | 一个妻子的这一年</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E5%8C%97%E4%BA%AC%E6%A3%80%E5%AF%9F%E4%BA%8C%E5%88%86%E9%99%A2%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%B6%89%E5%AB%8C%E7%85%BD%E5%8A%A8%E6%B0%91%E6%97%8F%E4%BB%87%E6%81%A8%E7%BD%AA%E8%A2%AB%E6%8F%90/">北京检察二分院：浦志强涉嫌煽动民族仇恨罪被提起公诉</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E8%B5%B7%E8%AF%89%E4%B9%A6/">【图说天朝】浦志强案起诉书</a></li>
-<li>中国数字数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/">浦志强案</a>专题</li>
-</ul></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%89%BE%E6%9C%AA%E6%9C%AA%E7%9A%84%E4%B9%90%E9%AB%98%E7%89%88%E6%B5%A6%E5%BF%97%E5%BC%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -733,7 +688,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -743,5 +698,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

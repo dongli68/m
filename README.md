@@ -21,9 +21,69 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E6%98%AF%E4%B8%A7%E5%A4%B1%E4%BA%86%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E4%BA%89/" target="cdt-mirror">共识网 | 马云根：苏联解体是丧失了意识形态的争夺？</a>
+</h2>
+<p><p>作者：马云根</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/14706301_437109.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/14706301_437109.jpg" alt="14706301_437109" width="500" height="355"></a><br>
+资料图：“八一九”事件中，叶利钦站在坦克上发表演说</p>
+<blockquote><p>摘要：连帝国主义都发现的问题，苏联内部也一定能够发现，问题出在，具有唯一真理的情况下，指出错误的本身就是错误。乔治·凯南给美国政府的建议是，为了避免毁灭，并美国只需达到其民族之最好传统, 同时证明值得作为一个伟大的民族而生存下去。</p></blockquote>
+<p>　　分析苏联解体，目前国内看到的是，我们作为同苏联意识形态相同的解读方式，认为其丧失了意识形态的争夺是根本的原因。进而触发了意识形态领域里的宣传加强和大力反腐、加强党的纪律的严格要求。</p>
+<p>　　苏联是被列宁打败，列宁有两个命题，其一、列宁说：“资产阶级国家由无产阶级国家(无产阶级专政)代替，不能通过‘自行消亡’，根据一般规律，只能通过暴力革命。其二、列宁说：“我们一向强调，我们是从国际观点看问题的，要在一个国家内实现像社会主义革命这样的事业是不可能的。”。资本主义必然衰亡有两个实现的途径，一是，无产阶级革命，如果没有无产阶级革命, 资本主义不会自行灭亡。为了推翻摇摇欲坠的制度, 一定要有来自无产阶级革命运动的最后推动力，这种推动力被认为迟早是要到来的。二是，社会主义国家要能证明自己有必将战胜自由主义宪政国家的非暴力方式。而作为美国，只需将苏联限制在只能采用第二种方式，并美国只需达到其民族之最好传统, 同时证明值得作为一个伟大的民族而生存下去。因为，社会主义要能证明必将战胜自由主义宪政国家，这就需要全体习惯于铁的纪律与服从(区别于自由主义宪政国家)，以此来赶超资本主义社会。当年的乔治·凯南准确的认识到，“莫斯科所定义的社会主义事业, 就是支持和发展苏联的力量。”和“国内外的共产主义者应当热爱与捍卫“ 社会主义祖国” —已经取得胜利的、作为社会主义力量中心的苏维埃社会主义联盟, 促进她的繁荣, 困扰与消灭她的敌人。”，苏联野心勃勃的在社会主义意识形态领域，享有独占真理和唯一的权威。占据真理而必然否定其他政治活动者，真理只有一个，视为革命的真理，其他的政治理论就只能是谬误，并也只能是反革命。</p>
+<p>　　至此，认识到苏联的行为将为自己制造敌人，众叛亲离成为必然。首先，民族国家是由民族神话养育的国家，而将自己的祖国改变成“ 社会主义祖国”的苏联，更是天方夜谭。其次，苏联国内则“因为一般说来全体党员历来习惯于铁的纪律与服从而不适应妥协与和解。如果团结遭破坏从而使党瘫痪,俄国社会将会出现难以描述的混乱和虚弱。因为我们知道, 苏联政权只是装着一群乌合之众的容器外壳而已。在俄国根本没有地方政府这类东西。目前这一代的俄国人从不知道自发的集体行为。假如出现一些情况, 破坏了作为政治工具的党的团结与效率, 那么苏联很可能会在一夜之间, 由一个最强大的国家变为一个最弱的、最可怜的国家之一。”达到这一条件，只需要限制苏联开展暴力革命，苏联被迫只能用建立一个社会主义国家的成功，来显示能够战胜自由主义宪政国家。列宁的第二个命题将成立，斯大林的在一个国家里建立社会主义国家的雄心将破产。为此，以美国为首的西方国家，建立了冷战体系拉下铁幕。</p>
+<p>　　与我们认识的绝不相同，苏联的崩溃，竟然不是因为意识形态的丢失，而是意识形态的坚定不移引发的梦碎。首先，他们强调资本主义与社会主义之间固有的对抗。这个观念是如此之深地嵌人苏联政权基础中，不可能真正地相信自己与资本主义强国的目标有一致的地方。任何同西方的协议与妥协，被迫用权宜之计来解读，而任何的权宜之计，在事实上，都将会使政府的威严和信誉受损，这是必然的结果。其次，用真理战胜现实，扭曲了国家的目的。国家的目的，是为了生存在这个社会的大多数人，都能终其一生享受健康、和平、自由与繁荣这一美好的理想。而真理却是要国民放弃这个现实的目的，去实现未来的真理。强调意识形态的坚定，是在要求别人必须具备意识形态的坚守，最终自己也不得不被迫加入了这个竞争当中，而党要清除党内意识形态里的肮脏之人，更需要找到绝对干净之手来做，党内的清洗不可避免的展开。没有污渍的干净要求，使党的干部要么变本加厉，成为变态的意识形态中神经紧张者，要么谎话连篇，成为乌合之众是个必然。革命者被革命，从而判断苏共党员会失去了对党的忠诚，夺权为钱才是立命之本。如今的结果，苏联“共产党是唯一一个在他们自己的葬礼上致富的党”。</p>
+<p>　　连帝国主义都发现的问题，苏联内部也一定能够发现，问题出在，具有唯一真理的情况下，指出错误的本身就是错误。乔治·凯南给美国政府的建议是，为了避免毁灭，并美国只需达到其民族之最好传统, 同时证明值得作为一个伟大的民族而生存下去。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E6%98%AF%E4%B8%A7%E5%A4%B1%E4%BA%86%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E4%BA%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86%E7%BD%91/?category=18271" rel="tag">共识网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B7%E6%88%98/?category=18271" rel="tag">冷战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%97%E5%AE%81/?category=18271" rel="tag">列宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93/?category=18271" rel="tag">苏联解体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">资本主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91%E6%A0%B9/?category=18271" rel="tag">马云根</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%81%AB%E8%91%AC%E4%BB%A4%E9%A9%B1%E4%BD%BF%E4%B8%80%E4%BA%9B%E8%80%81%E4%BA%BA%E9%87%87%E5%8F%96%E7%BB%9D%E6%9C%9B%E8%A1%8C%E5%8A%A8/" target="cdt-mirror">博谈网 | 中国的火葬令驱使一些老人采取绝望行动</a>
+</h2>
+<p><p>来源: 博谈网 （博谈网记者赵亮编译报道）据《洛杉矶时报》11月6日报道，所谓的殡葬改革政策先是传闻满天飞，后来地方政府办公室外贴出了简短的公告。</p>
+<p>94岁的吴启思（音）是从他的理发师那里听说此事的。对此，他决定去死。</p>
+<p>吴是一位农民。据报道去年七月在安庆至少有七名老人赶在当地政府官员开始要求实施火葬前加速自己的死亡或是自杀。吴是其中之一。当地官员下令在2014年6月1日前死亡的人可以土葬，但在该日期之后的人需强制性火葬。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/1104010143442320.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/1104010143442320.jpg" alt="1104010143442320" width="550" height="379"></a></p>
+<p>安庆位于中国东部的安徽省，有500万居民。据地方新闻报道及采访当地村民，安庆的老年居民赶着在限令前死亡。</p>
+<p>“每个人死后都是埋在土里，放在棺材里埋葬”，吴的儿子74岁的吴齐苗（音）说。“当突然改变这样的事情时，有些人接受不了。”</p>
+<p>在中国有拜祖的传统，包括葬礼和安葬在手工制作的棺材里，埋在一个人的田地下面，这可以追溯几千年的历史。但在最近数十年来，这个传统与毛泽东于1956年起草的倾向火葬的政策发生了冲突，即在他宣布成立中华人民共和国七年之后。毛声称墓葬占用太多的耕地，涉及的礼仪不适合一个官方无神论的国家。他留给地方政府制定相关的细节。</p>
+<p>目前，几乎所有的中国城市人——约一半的人口，死后是被火化。然而在广袤的农村，那里更强地保持着传统，这一转型已经成为一个经常性的火药桶，古老的传统对抗着共产党对控制的痴迷。</p>
+<p>2012年，河南省周口市政府拆除了40万座坟以重新获得耕地，引发了全国性的争论。村民们指责政府是把那些拿回来的土地盈利；接下来的冬天，他们恢复了众多的坟墓。</p>
+<p>2013年12月，距离安庆125英里的安徽省宣城当局在一名83岁老人的家属拒绝火葬该老人遗体后，前去挖出了新安葬该名老人的遗体，浇上汽油，放火焚烧。</p>
+<p>不到一年后，广东省的两名官员在从盗墓贼那里购买被挖出的尸体时被抓。他们这样做的目的是为了达到火化配额。</p>
+<p>加州大学伯克利分校研究中国传统乡村文化的专家、名誉教授David Johnson说，“对于逝者，礼仪一直是很重要的”，他说。“这可以追溯到很久很久以前，人们相信一个人往生后，需要最大地关怀和尊重其灵魂，以免造成对生者的伤害。这意味着除了有适当的葬礼和适当的墓葬外，有可能的话还要找吉祥的墓址。”</p>
+<p>贤荣村（音）有300人，很像安庆的其他地方：当祖辈们在田里干活，用巨大的柳条框装秸秆时，孩童们在遍地是垃圾的小道上互相追逐。</p>
+<p>在中国的各大城市，安葬涉及到国营公墓、社会主义葬礼和昂贵的骨灰盒。在贤荣村（音）和许多其他的村庄，人们继续自己打造父母的棺木。逝者被抹上石灰，以防腐烂。葬礼要停尸好几天。然后他们被埋在稻田下面。</p>
+<p>在听说强制火化的消息两个星期后，已经很衰弱、几乎失明的吴启思（音）拒绝吃，拒绝喝，他的儿子说。</p>
+<p>家庭成员聚集在吴的床边，用冰舒润他干裂的嘴唇。“我不想被烧掉”，老人告诉他们。几天后他虚弱得话都说不出来而死。</p>
+<p>安庆的官员们否认该政策造成任何人死亡。“整个（殡葬）改革进行得非常、非常顺利”，贤荣村（音）党支书钱寿庄（音）坚称。“没有人抵制。在这个村里没有人抵制殡葬改革。”</p>
+<p>钱寿庄（音）说，村民们很感谢这样增加了耕地，并且很高兴能少花钱办葬礼。已经准备好棺材的家庭已获得了慷慨的补偿，他说。</p>
+<p>他补充说该政策将保护该地区的环境。他解释说，去年村民们在山上烧拜祭品时引发了一场山火，二十名安庆官员因疏忽而受到斥责。 “一棵树要长成可能需要几十年的时间”，他说，“但只要一会儿就被烧掉了。”</p>
+<p>国营的《新京报》说安庆市共有六名老年人自杀。它的报道说，一些老年村民喝农药，一人跳井；另外一名老年妇女在官员们当着她的面摧毁了她的棺材后自杀身亡。</p>
+<p>在贤荣村（音）附近的香锦村（音）有1500位村民。53岁的渔民王明湖（音）说他81岁的母亲张文仪（音）在2014年5月听说该火葬政策后在一棵树上上吊死亡。</p>
+<p>“在这里其实没有一个人想要被火化”，王说。“也许唯一的例外是那个村干部党支书。但是，没有其他任何人。”</p>
+<p>张住在王两层农房后面的一间小土地板的卧室里。她的屋里有一张单人床和一张简陋的木头桌子。每天日出前她就醒了，到村里的“旧集市”去卖鸡蛋。一天，她听其他卖东西的人在低声谈论火葬的事。</p>
+<p>“我听说了那个新政策？我该怎么办”，她问他的大儿子，王回忆说。“你太老了”，他回答说。“那条法律对你不适用。”</p>
+<p>大约两周后，5月13日上午8点左右，她上吊自杀了。</p>
+<p>“村政府强迫我们签了一份协议，说我母亲不是因为殡葬政策而死的，而是因和邻居打架死的”，王说。此后，他开始继续自己的生活。最近，他砍掉了那棵他母亲吊死的那棵树。</p>
+<p>在贤荣村（音），吴说他也开始愈合悲痛。“因为我父亲是在6月1日前死的，所以我们能够埋葬他”，他说。“至少如他所愿。”</p>
+<p>原文链接：In China, a cremation order has driven some elderly to desperate acts</p>
+<p>关键词: 火葬 土葬 平坟 栏目: 时事见解 首页重点发表: 新鲜看点 编译: 赵亮 作者: Jonathan Kaiman</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%81%AB%E8%91%AC%E4%BB%A4%E9%A9%B1%E4%BD%BF%E4%B8%80%E4%BA%9B%E8%80%81%E4%BA%BA%E9%87%87%E5%8F%96%E7%BB%9D%E6%9C%9B%E8%A1%8C%E5%8A%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA/?category=18271" rel="tag">农村老人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%A1%E8%91%AC/?category=18271" rel="tag">殡葬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%A1%E8%91%AC%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">殡葬改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E8%91%AC/?category=18271" rel="tag">火葬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BC%A0%E5%85%AD%E6%AF%9B%E8%A2%AB%E6%8C%87%E6%AD%A6%E8%A3%85%E6%9A%B4%E5%8A%A8-%E5%AE%B6%E5%B1%9E%E8%AE%A4%E9%A2%86%E5%B0%B8%E4%BD%93/" target="cdt-mirror">自由亚洲 | 张六毛被指“武装暴动” 家属认领尸体再遭拒绝</a>
 </h2>
 <p><p>广东公民张六毛死于广州第三看守所事件继续引发外界关注。11月7日上午，张六毛家属到殡仪馆要求见尸体，再一次遭到拒绝。新华社、央视等官方媒体打破沉默，大篇幅报道张六毛等7人，要通过武装暴动改变现有体制。又称缴获50余公斤爆炸物及原材料。张六毛的家人对公安不准他们认领尸体表示愤慨。代理律师认为，当局回避当事人死亡事件，分明在转移外界注意力，掩盖命案。</p>
@@ -595,47 +655,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%AE%BE%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF12339/" target="cdt-mirror">端传媒 | 全民防谍？中国设间谍举报热线12339</a>
-</h2>
-<p><p>11月1日，即《中华人民共和国反间谍法》颁布实施一周年之际，吉林省国家安全厅发出通告，要求公民协助“防范、制止和惩治间谍行为”，并公布了间谍行为或线索“全国统一”举报电话“12339”。</p>
-<blockquote><p>中华人民共和国公民有维护国家的安全、荣誉和利益的义务，不得有危害国家的安全、荣誉和利益的行为。一切国家机关和武装力量、各政党和各社会团体及各企业事业组织，都有防范、制止间谍行为，维护国家安全的义务。<br>
-—— 《中华人民共和国反间谍法》第一章第四条</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/e218c610e96d423e90dc75729a7862d9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/e218c610e96d423e90dc75729a7862d9.jpg" alt="BEIJING, CHINA - NOVEMBER 17: A tourist phones as a paramilitary policeman guarding in front of Tiananmen Gate on November 17, 2013 in Beijing, China. The full text of the Communist Party of China (CPC) Central Committee's decision on major issues concerning comprehensively deepening reforms was issued on Friday. The decision was approved at the Third Plenary Session of the 18th CPC Central Committee held from November 9 to 12 in Beijing. (Photo by Feng Li/Getty Images)" width="550" height="367"></a><br><span>中国近日出现间谍举报热线电话12339，各省情况不同。摄：Feng Li/Getty</span></p>
-<p>与此同时，中国各地近日都举办了《反间谍法》颁布一周年“宣传教育”活动。端传媒发现，在“12339”这个“全国统一”的举报号码前加拨各地区号，可以接通至当地相关部门。经过测试，截至4日下午，仅长春、武汉、上海等地能够接通，但大多没有人接听；而北京、广州、深圳等地则显示为“空号”。</p>
-<p>《纽约时报》报导称，该报于2日曾多次拨打吉林长春的举报电话，直到下午4时30分才终于有人接听。接听官员表示，这个电话是当天的第一个电话。据他介绍，要举报间谍的话，需要告知被举报者的身份，以及引起举报者怀疑的原因。然后，他们会把情况记录下来并向上级报告，调查人员会在数天内回应。</p>
-<p>早在今年7月，海南省便率先开通了中国首条间谍举报热线“96111”。据《法制日报》报导，该举报中心在两个月内接到举报电话几十个，多条举报线索“已经查实并立案”，“多名犯罪嫌疑人通过96111平台主动投案自首”。当地安全部门还制作了反间谍动画宣传片《慧眼识破你身边的间谍陷阱》，在各大视频网站发布。</p>
-<p>针对间谍举报热线的设置，中国现代国际关系研究院反恐研究中心主任李伟认为，这说明“反间谍工作并不只是国家专门机关的事情，与广大民众也息息相关”。他指出，设立间谍举报热线是国际上的普遍做法，“例如俄罗斯联邦安全局、美国联邦调查局以及英国的军情五处等都设有民众参与的举报热线”。</p>
-<p>在举报热线公布前，中国政府于今年3月在广西南宁拘留了一位名为潘婉芬的美籍华裔女商人，并在9月以涉嫌“危害中国国家安全”为由将其正式拘捕；自5月以来，中国还逮捕了4名涉嫌在华“从事间谍活动”的日本人，其中2人被捕的消息得到中国官方确认；而中央电视台也在上月曝光了四川某国防军工单位4名员工为获取高额报酬，向“境外间谍人员”提供军工产品信息的案件。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%AE%BE%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF12339/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D/?category=18271" rel="tag">全民防谍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">间谍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF/?category=18271" rel="tag">间谍举报热线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">间谍活动</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E8%B0%81%E5%9C%A8%E8%82%A1%E5%B8%82%E4%B8%8E%E5%BE%90%E7%BF%94%E4%B8%80%E8%B5%B7%E5%90%83%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">东网 | 谁在股市与徐翔一起吃人？</a>
-</h2>
-<p><p>作者：杨彼得</p>
-<p>有宁波“涨停板敢死队总舵主”之称的私募大佬徐翔近日在杭州湾跨海高速上被抓，轰动大陆。徐翔到底违了什么法，目前公众不得而知，但可以肯定的是，他在中国股市上吃人喝血，这是一个不争的事实。</p>
-<p>徐翔过去五年平均收益率在200%左右，据媒体报道，其成功手段花样多，比如抄底、押宝重组+控股。记者们反覆宣传的徐翔的先进事迹是，他深入若干原来名不见经传的冷门上市企业调研，然后潜伏在股市里，几个月后果然就有若干利好兑现，股价上涨百分之四五十时，他悄然全身而退。但按照这种利好兑现之法，徐翔要把基金收益率弄到200%左右，完全没有可能。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bkncn-20151106000317219-1106_05411_001_01p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bkncn-20151106000317219-1106_05411_001_01p.jpg" alt="bkncn-20151106000317219-1106_05411_001_01p" width="550" height="393"></a><br>
-股市投机靠胆，做庄炒股跟投机不是一码事，必须要有靠山。</p>
-<p>有位河南企业家讲了一个故事：由于经济下行，他的企业缺流动资金，有人带他去见徐翔。徐翔不关心其企业的生产经营，面对企业家的求援，身体后仰，面无表情。在企业家说完之后，徐翔突然向前探直了身子，一字一顿地说：“我可以给你支个招，今年可以让你挣5个亿，当然，我也要挣这个数。”企业家大惑不解，徐翔直言：“你只需要配合我发布公告就行了，我可以把你的股票拉到60左右。”这位企业家没有应承。</p>
-<p>这个事故提示了徐翔股市赚钱的真相，包括他当“涨停板敢死队总舵主”的真相。所谓“涨停板敢死队”，就是将某一只股票股价拉高到涨停，第二天继续拉高至涨停或者出货，从而赚取高额差价。表面上看，徐翔只是敢赌，其实并非如此简单。凡是炒作一只股票，都是要与上市企业狼狈为奸，欺骗散户并进行内幕交易。</p>
-<p>但炒作股票并非仅仅是庄家与企业主两个人之间的秘密，他们还要在沪深股票交易所和证监会找到靠山，没有靠山，也是行不通的。股市投机靠胆，做庄炒股跟投机不是一码事，必须要有靠山。前不久被抓的证监会主席助理张育军，向我们初步展示了后台靠山是如何提携和庇护炒股庄家的，虽然目前媒体扒出来的事实主要是张育军与中信证券相勾结，但靠山庇护庄家的套路是一样的。</p>
-<p>如果我们将股市想像成一个食物链的话，亿万散户就是处于末端的食草动物，而庄家、企业主和证监系统官员则构成链上的食肉动物。徐翔、张育军无疑是吃人喝血者，但整个食肉动物是一个界别，数量很多，现在百未抓一。</p>
-<p>张育军和徐翔已经被抓了，他们完全是罪有应得。但从某种意义上说，他们的确是证监部门抛出的替罪羊。股灾期间，A股最多蒸发近30万亿元市值，股民损失惨重。况且股市曾被中央高层寄予给经济输血的厚望，现在厚望幻灭，证监会面临巨大政治与心理压力，他们有必要抛出替罪羊。</p>
-<p>说张育军和徐翔是替罪羊，乃因中国股市吃人喝血者众，证监会很多人跻身吃人喝血者行列，他们自然不会自己把自己交给法律。证监会很多官员吃人喝血，这是众所公认的事实。最近香港媒体报道任职中信证券的某中央高层之子被调查，不知是否为真，但我所供职的某媒体2009年曾筹备上市，这位公子哥就曾亲赴此媒体洽谈投资事宜。其父当时是中央宣传部门负责人，一言九鼎，大家都以为上市板上钉钉。讵料2010年阿拉伯之春爆发，中共不支持党媒上市，上市与公子哥的投资事宜终止。但权势人物如何在中国股市吃人喝血，已经昭然若揭。</p>
-<p>在习王严厉反腐的今天，吃人喝血被抓的能有几人？替罪羊被抛出来之后，大多数吃人喝血者“岁月静好，现世安稳”。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E8%B0%81%E5%9C%A8%E8%82%A1%E5%B8%82%E4%B8%8E%E5%BE%90%E7%BF%94%E4%B8%80%E8%B5%B7%E5%90%83%E4%BA%BA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">徐翔被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">杨彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91/?category=18271" rel="tag">私募基金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E9%BB%91%E5%B9%95/?category=18271" rel="tag">股市黑幕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -647,7 +666,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -657,5 +676,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

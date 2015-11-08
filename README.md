@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E6%98%AF%E4%B8%A7%E5%A4%B1%E4%BA%86%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E4%BA%89/" target="cdt-mirror">共识网 | 马云根：苏联解体是丧失了意识形态的争夺？</a>
@@ -82,7 +82,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA/?category=18271" rel="tag">农村老人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%A1%E8%91%AC/?category=18271" rel="tag">殡葬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%A1%E8%91%AC%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">殡葬改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E8%91%AC/?category=18271" rel="tag">火葬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BC%A0%E5%85%AD%E6%AF%9B%E8%A2%AB%E6%8C%87%E6%AD%A6%E8%A3%85%E6%9A%B4%E5%8A%A8-%E5%AE%B6%E5%B1%9E%E8%AE%A4%E9%A2%86%E5%B0%B8%E4%BD%93/" target="cdt-mirror">自由亚洲 | 张六毛被指“武装暴动” 家属认领尸体再遭拒绝</a>
 </h2>
@@ -666,7 +666,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -676,5 +676,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

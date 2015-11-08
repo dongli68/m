@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,107 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%88%86%E6%9E%90%EF%BC%9A%E4%B9%A0%E9%A9%AC%E4%BC%9A%E4%B9%8B%E4%B8%8B%E7%9A%84%E4%B8%A4%E5%B2%B8%E7%8E%B0%E5%AE%9E/" target="cdt-mirror">BBC中文网 | 分析：“习马会”之下的两岸现实</a>
+</h2>
+<p><p>作者：张伦 法国赛尔齐•蓬多瓦兹大学副教授</p>
+<p>人们常常说，政治是现实的。但因权力、意识形态、视野局限等各种因素，现实中的政治家却不见得总能很好地把握，正视现实，因此也常常给自己、人民带来各种悲剧，留下缺憾，遗患于后来的历史。而如能很好地正视历史，把握机缘，就会创造历史，造福人民。</p>
+<p>从这个角度看审视台海两岸的历史，此次新加坡的习马会以及两岸关系的未来，应该有些很有意义的启示。</p>
+<figure></figure><figure></figure><figure><span><img src="http://ichef.bbci.co.uk/news/ws/660/amz/worldservice/live/assets/images/2015/11/08/151108021700_xi_ma_meeting_ballroom_976x549_epa_nocredit.jpg" alt="马英九与习近平在新加坡会面" width="550" height="309">对马英九（左）来讲，与其前任比，其执政最大的成绩显然在推动两岸关系的和解上</span></figure><p>
+</p><p>
+</p><p><strong>正视现实与习马会</strong></p>
+<p>11月3日深夜，台北忽然宣布，7日将在新加坡举行两岸首脑的会晤。消息传出，两岸震动，举世关注。许多人感到意外，除因马过去宣示过不会在任期内举行会谈外，熟悉点两岸事务的人也了解马之所以这样宣示的原因，客观上确实存在些让会谈难以轻易落实的因素：能否在国际场合，是否对等，名称的敏感等，都牵涉到两岸问题的一些核心，双方的一些基本立场，涉及各种利益，实不易解决。</p>
+<p>尤其是北京方面，现在显然具有台海事务上的主动权。过去在对台问题上，北京常有些因体制和意识形态影响所带来的傲慢，不正视现实的做法和说法：如视台湾只是一个尚未收归的省份，不正视中华民国的真实存在，忽略台湾人的真实情感等；这常常造成北京对台政策的错位，事与愿违，客观上强化了北京最不希望看到的台湾的疏离倾向。笔者关注台海问题二十多年，赴台考察十数次，对此有很多长期的观察和体认。北京能否在两岸领导人会面这样一个指标性的事件上取现实的态度和做法，也就难免让人有些怀疑，特别是在大陆最近两年意识形态明显左转、有严重的倒退僵固倾向，以及马英九民意支持低弱、即将届满的时刻。</p>
+<p>但现实主义的态度，这一次超越了既有的障碍，推着两岸领导人做出了举行此次会谈的决定。显然，其中最大的考量，当是民进党可能即将再次执政并有可能执政多年这种现实。、</p>
+<p>事实上，姑且不论其是否有意愿，即使蔡英文将来当选总统有意与大陆领导人会面，因历史和现实、政党文化、彼此信任度等等，落实那样一个会面的制约因素也会多多，在大陆眼里看来会成本高昂。所以，趁现在马依然当政，国民党依然在台具有相当的实力，实现双方首脑会面，给未来两岸关系设定某种新的互动框架、底线和基础，这大概就是北京最后采灵活的现实主义态度，落实此次会谈的主因。会谈中习对“九二共识”的强调、所谓“两岸关系的面临方向和道路”的抉择的说法都透露出这方面的含义。</p>
+<p>过去包括现在，共产党的压力事实上帮了民进党在台湾壮大势力；而这次却是民进党要取得政权的态势成为习马会面的最大推力；国民党借助民进党加大了其与共产党博弈的砝码；共产党要借国民党维系其在台湾政治中的影响力。这种两岸三党交往互动上矛盾的政治吊诡效果，既是过去二十多年两岸政治的复杂，也是理解其中奥妙的所在。此次，更是如此。</p>
+<p>但不管如何，习马会谈，北京能现实地面对事实，对等会见，不刻意矮化台湾，实属不易。早如此，两岸关系会少很多问题和挫折。此次会谈的达成，对两岸关系的进一步缓解，对两岸的和平，人民的福祉相信是有正面意义，应该给予肯定。</p>
+<p>
+</p><p><strong>领导人各取所需</strong></p>
+<p>此次会谈显然是双方领导人各取所需，根据对历史定位的期许、己方整体利益的计算所达成的结果。不必过于用浪漫主义、理想化的目标要求领导人的政治选择：所有领导人都如此，两岸的也不例外。追求历史地位，是政治人物自然也是应有的选择。</p>
+<p>对马英九来讲，与其前任比，其执政最大的成绩显然在推动两岸关系的和解上。以与习近平的会晤夯实这种格局，并进一步争得与大陆交往上至少是某种形式上的平等，不仅有助于挽回些民意，增添对其个人任期的正面评价，也有助于其走进历史，赢得其在两岸大历史上某种重要地位。</p>
+<p>而对习近平来讲，举行两岸领导人的平等会晤，尽管不会没有丝毫政治风险，但在现格局下，只会对其在党内立威，在民间争取民意、平抑社会不满有所帮助，这特别是在经济下滑，反腐效益开始递减之时。显然，此举也会加大其在处理因南海、中日等因素而不确定性增加了的东亚事务上的资源，防范台海再成为一个新的麻烦焦点，为其下一步处理内部事务腾出时间和资源。</p>
+<p>但显然，习的最终历史地位不取决于此。在如何确定其历史地位上，台海只是一个次要问题。两岸统一现在不现实，而只要是达不成统一，只在已经呈现的缓和态势上加分或避免其倒退恶化是绝不足以确定其历史地位的。其历史地位将主要将取决于他在大陆内政上的所为。</p>
+<p>
+</p><p><strong>蔡英文、民进党与国民党各自的挑战</strong></p>
+<p>习马会后的民进党会因此受到很大压力。蔡英文当选的可能性整体上不会改变，除非在处理这次习马会面的后果上出现策略性的重大失误，冲击两岸关系现状。故蔡需要妥善应对。因为台海稳定毕竟是台湾绝大多数人的关心、利益所在。其如何在习马定调“九二共识”后找到合适的两岸论述，来应对国民党选战中必然要在此问题上的诘难，将会对其选情产生一定的影响。</p>
+<p>虽其当选几成定局，但习马会后留下的课题和挑战，对可能作为未来总统的蔡英文来讲却是巨大的，需要用极高的政治智慧和技巧来平衡两岸、国际，岛内、党内各方的经济、政治多层面关系，那会是很难做的四年或八年。能否做好，很大程度上也取决于她能否很好地采取现实主义的态度。</p>
+<p>民进党以往所善用的一些有效的动员论述，如大陆不承认中华民国在台政权的事实存在，矮化台湾、不尊重台湾尊严等，会失去某些动员能量，一些政治资源会流失。台湾民众不会轻易认同大陆，更不会接受“一国两制”的制度安排，但也不会不赞同两岸的现实接触，尤其是对等原则下的经贸文化互动。这些会在习马会后陆续发效，迫使民进党进行些重新思考，再定位、再调整的工作，正如其从建党到现在每在重大的历史阶段都曾有过的经历一样。</p>
+<p>至于国民党，依靠习马会会得到一些资源，有助于稳定其选后可能出现的崩塌效应。但国民党在定位，历史选择上的尴尬会依旧，暂不会有根本改观。面对以台湾意识为主体的新生代的崛起，在大陆去台老一辈凋零、其二代也渐渐老去、式微的趋势下所形成的国民党的一些深层危机，都不是靠一两次这类会面或者只靠党产、利益平衡交换所能解决的。国民党依然有在台最终消解的危险。它可能的新生，或许就是重归大陆那一天。</p>
+<p>
+</p><p><strong>不现实的统一与独立</strong></p>
+<p>此次习马新加坡之会，有人乐观地视为两岸统一在即。但在笔者看来，两岸关系的最终明确还是很久将来的事，将两岸领导人的会面视为统一的开始属于浪漫的想象。其最多也只能说是有助于两岸的进一步和解，客观上、历史地讲会有助于统一。两岸最终能否统一或台湾法理独立，取决于很多其他因素，尤其是大陆将来的演变，还有很多重要的不确定变量。许多结构性的因素都没有丝毫改变，也暂时不会改变，谈统一就如谈独立都毫无现实意义。那只是些对此感兴趣、对此有信仰的人的想象和游戏，从政治现实讲，都不必当真。事实上，这方面有任何不切实际的动作，结果也都只能是灾难性的。</p>
+<p>而两岸交往上的深层障碍不仅没有解决，似乎某些方面还有强化。人都是带着过去生活在当下，走向未来的。就身份认同问题来讲，台湾意识的生成是有其历史逻辑的。从甲午战败后被弃，日据所逐渐形成的“亚细亚孤儿”，“弃子”的心态，到战后“二二八”事件造成集体心理创伤，国民党威权统治期的权力分配失衡和公民权利被剥夺，都使得台湾意识逐渐萌生，且伴随台湾经济社会力量的发展，在七十年代后逐渐浮现，沛然成潮。而这其中，民主化的落实，“八九事件”对台湾人心理上造成的震撼，加之北京后来一系列对台政策愚蠢的失误，年轻一代的成长，都从内外部、代际等角度促成了台湾认同的形成。</p>
+<p>这使得任何以大中国的统一为当然选择的论述显得苍白无力。在作为现代性的一些基本原则和制度已经落实的环境里成长的人们，与传统接受自然传承的身份认定的习惯不同，更倾向在认同问题上具有主体的自我选择。正如一个年轻人可能会毫不犹豫地抗拒一个虐待他的父亲、离家出走，选择自我的生活方式，某种新的身份一样。那种指望靠血缘、传统关联来固定某种当然的身份或权力的合法性是有悖现代原则和趋向的，效果也是注定有限的。</p>
+<p>这些年随大陆的经济发展，两岸在物质生活水平和方式上的差距逐渐缩小，减少了这方面双方交流上的障碍，但在与价值和制度相连的生活和思想方式上的差距却依然巨大。民主化的台湾已经不可能允许任何人武断地决定台湾人的命运，而就这点看，离民主和法治的落实尚很遥远的大陆政治现状，显然对台湾人尤其是民主化后成长的一代不具任何吸引力。“太阳花运动”的心理成因是复杂的，但担心大陆对台湾现有生活方式的侵蚀，肯定是其中重要一个。切不可低估台湾人尤其是年轻一代捍卫自己生活方式的决心。</p>
+<p>同时，笔者也曾在过去二十多年间，多次与台湾的朋友包括绿营的朋友交换过意见，希望他们也要注意到大陆精英和民众对台湾的观感和看法，毕竟，台海两岸的问题最终是要双方共同来解决的，不是能以自己单方的愿望和想象来决定的，这也是一种现实。</p>
+<p>在大陆在国际的影响日重，力量日强，台对大陆的经济依赖日深，两岸关系上台湾已有的优势渐失的今天，台湾最重要的资源就只在民主和法治的制度以及传统文化的保护和更新再造上了。习马会之后，如何深化、提升台湾民主的品质，创新现代华人文化，将成为台湾最重要的历史课题，两岸互动上的优势。它攸关台湾的命运，也关系大陆的未来。当初蒋经国先生在中美建交后日渐孤立的国际局势中启动台湾民主化的某种政治逻辑再次显现。台湾未来的领导人不论是谁，都应对此有清醒的认识和积极的作为。</p>
+<p>而对大陆领导人来讲，应将此次处理台湾问题上值得肯定的正视现实的态度贯彻到底，内外一致，实事求是，这其实也是中国过去成功的改革所具有的最重要的特征，重拾这些年不再提及这次却被马英九提及的口号“与时俱进”，抛弃不合时宜的制度和思想，彻底改革，以营造两岸问题、香港问题乃至中国问题得以良好解决的根本之道，为“万世开太平”。</p>
+<p>否则，即使有今日新加坡之会，其风光和掌声，也无法收拾台湾包括大陆的人心，难保个人的历史地位，和平也或许最终再成泡影，两岸甚至大陆内部自己发生冲突。那将是谁都不愿见到的悲剧。</p>
+<p>（责编：列尔）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%88%86%E6%9E%90%EF%BC%9A%E4%B9%A0%E9%A9%AC%E4%BC%9A%E4%B9%8B%E4%B8%8B%E7%9A%84%E4%B8%A4%E5%B2%B8%E7%8E%B0%E5%AE%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%85%88%E7%94%9F%E6%98%AF%E4%B8%AA%E5%A5%BD%E7%A7%B0%E5%91%BC/" target="cdt-mirror">博谈网 | 先生是个好称呼</a>
+</h2>
+<p><p>来源: 六神磊磊读金庸 一 </p>
+<p>两岸的领导人在新加坡会面了，这是一件让人高兴的事。而双方领导人相互之间的称呼，是‌‌“先生‌‌”。</p>
+<p>这是一个好称呼，也是个很有历史感的称呼。</p>
+<p>我生活在重庆。这一次新加坡的会面，让我想起70年前的重庆谈判。当时双方的领导人——毛和蒋互相之间的称呼是什么呢？主席？委员长？亲？</p>
+<p>很有趣，也是先生。</p>
+<p>是蒋先开的头。他给延安拍过来电报，叫‌‌“毛泽东先生‌‌”。</p>
+<p>延安给他回电报，第一封还有点端着，不是叫先生，而是叫‌‌“蒋委员长‌‌”。等回到第二封的时候，称呼就微妙地变化了，改叫蒋介石‌‌“先生‌‌”。</p>
+<p>从此‌‌“先生‌‌”的称呼就这么定下了。后来重庆谈判，毛从8月28号呆到10月11号，双方一直互相叫先生，只有部分时候叫‌‌“委员长‌‌”。当然，这是公开的称呼，双方私下叫什么就不好说了。</p>
+<p>那么，先生这个词到底好在哪里呢，为什么几次历史时刻，大家都选择‌‌“先生‌‌”当称呼呢？</p>
+<p>二</p>
+<p>首先提个问题：和‌‌“先生‌‌”相对的称呼是什么？</p>
+<p>可能有人会说，是‌‌“女士‌‌”。</p>
+<p>但我觉得不是女士，而是‌‌“大官人‌‌”。为什么呢？因为所谓‌‌“大官人‌‌”，就是对方明明不是官，却非要喊得有官的味道。例子我就不举了，免得误会。</p>
+<p>而‌‌“先生‌‌”恰恰相反，它的含义是：对方明明有官方身份，但却由于种种原因，在称呼上要淡化这种身份。就好像重庆谈判，大家互相之间都叫先生，不能叫大官人，不然就乱了套了。</p>
+<p>我的主业是读金庸。在金庸的小说里，就有许多类似的情况：对方其实有一定官方身份，却不方便称呼，于是‌‌“先生‌‌”就成了最合适的叫法。</p>
+<p>例如《天龙八部》里，有一位大高手，叫做慕容博。他是有政治身份的，相当于大燕王朝流亡政府的首脑。他自己最喜欢的称呼，应该是皇上，哪怕降一格也是燕王。</p>
+<p>但是别人称呼他皇上、燕王就不太方便，这一叫就等于是承认了燕国。所以大家都叫他‌‌“慕容先生‌‌”，既表示充分尊敬，又回避了承不承认燕国的话题。</p>
+<p>哪怕是他最好的朋友——另一位大高手鸠摩智，叫他也是一口一个‌‌“慕容先生‌‌”，不叫燕君、燕王。因为鸠摩智是吐蕃国的国师，公开一叫，就等于吐蕃国承认了燕国复国了，大宋要抗议的：哪里有什么燕国啊，燕国都亡了几百年了。</p>
+<p>三 </p>
+<p>因此，在金庸江湖上，什么时候叫‌‌“先生‌‌”，是很考量政治智慧的。</p>
+<p>《笑傲江湖》里，有一个著名的高手，叫做任我行。他是魔教的前任教主。当他重出江湖的时候，正派人士怎么称呼他呢？是叫任教主？还是叫任老师、任大官人，或者干脆撕破脸叫任魔头？</p>
+<p>实际情况非常有意思。当双方刚一照面的时候，正派人士还有点懵，还没想好应急预案，所以正派人士的头头——少林寺方丈方证大师未及思索，脱口而出，叫了一个‌‌“任教主‌‌”：</p>
+<p>‌‌“原来是任教主和向左使，当真久仰大名‌‌”。</p>
+<p>方证是个公认的比较天真、质朴的正教领袖，没有太多机变的才能，这一句‌‌“教主‌‌”和‌‌“左使‌‌”就叫得不太妥当：毕竟任我行和向问天在当时魔教的官方口径里都是叛徒，你作为正教领袖，叫他们‌‌“教主‌‌”和‌‌“左使‌‌”，到底是啥意思啊，难道是表示力挺他俩，和现任教主东方不败作对不成？</p>
+<p>所以大家注意，除了方证这一句‌‌“教主‌‌”之外，接下来几位更聪明机变的正教领袖——冲虚道长、左冷禅、岳不群等，和任我行对话时都不叫‌‌“任教主‌‌”了，叫向问天时也不叫‌‌“向左使‌‌”了，通通改成了‌‌“任先生‌‌”‌‌“向先生‌‌”。</p>
+<p>任我行的反应也很有趣。对于他比较尊重的人，他就承认人家是‌‌“先生‌‌”。比如对风清扬，就一口一个‌‌“风老先生‌‌”，不但是‌‌“先生‌‌”，而且还加上一个‌‌“老‌‌”，分量更重了。</p>
+<p>而对于他瞧不上的人，则连‌‌“先生‌‌”也不承认。比如他看不上岳不群，就来了一句尖酸刻薄的：</p>
+<p>‌‌“岳什么先生，可没听说过‌‌”，当面打岳不群的脸。</p>
+<p>四 </p>
+<p>所以说，‌‌“先生‌‌”是一个好词。它既尊重、又稳妥；既热络，又超然。</p>
+<p>而且，用‌‌“先生‌‌”称呼别人，和用头衔称呼相比，还隐隐另有一层意味：用头衔称呼人，那么优先尊重的是对方的身份；用‌‌“先生‌‌”称呼，则优先尊重的是你的年庚、人品、风度、学识。</p>
+<p>这是一个独一无二、难以替换的词。比如重庆人喜欢喊人‌‌“老师‌‌”，凡是对头衔不明的都亲切地乱喊‌‌“老师‌‌”，哪怕你去买袜子，都可以和摊主互相乱喊老师，但这只适合在方言里用，不适宜正式场合。</p>
+<p>至于其它的称呼，什么同志、哥们、伙计、小马哥、亲，都不好用。你要是喊人家‌‌“亲‌‌”，人家弄不好误以为你要卖东西给他。</p>
+<p>其实，我们平时都被一些世俗的头衔和身份包裹着，这个‌‌“长‌‌”那个‌‌“总‌‌”，挺沉重的，挺闷的。倘若男人之间有时候能不提头衔，一起坐下来，超然地互称一声先生，谈点理想，聊点抱负，不是很好的事吗？</p>
+<p>最后忽然想起，宋词之中，最有名的一句‌‌“先生‌‌”，出自辛弃疾的《水龙吟》：‌‌“为先生寿‌‌”。</p>
+<p>把这首词抄半阙，作为这一篇聊两岸会面的文章结尾吧：</p>
+<p>渡江天马南来，几人真是经纶手。</p>
+<p>长安父老，新亭风景，可怜依旧。</p>
+<p>夷甫诸人，神州沉陆，几曾回首。</p>
+<p>算平戎万里，功名本是，真儒事、君知否？</p>
+<p>关键词: 习近平 马英九 马习会 栏目: 社会透视 作者: 六神磊磊</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%85%88%E7%94%9F%E6%98%AF%E4%B8%AA%E5%A5%BD%E7%A7%B0%E5%91%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E8%BF%99%E4%B8%AA%E4%B9%9F%E6%98%AF%E7%94%A8%E5%BE%97%E5%A5%BD/" target="cdt-mirror">【立存此照】环球时报这个“也是”用得好</a>
 </h2>
 <p><p>@MyDF：《环球时报》开心时刻——“也是”用得真好！ #习马会</p>
@@ -44,7 +142,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E6%98%AF%E4%B8%A7%E5%A4%B1%E4%BA%86%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E4%BA%89/" target="cdt-mirror">共识网 | 马云根：苏联解体是丧失了意识形态的争夺？</a>
 </h2>
@@ -578,71 +676,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF%EF%BD%9C%E9%A6%96%E6%89%B9594%E5%90%8D%E7%BD%91%E5%AA%92%E8%AE%B0%E8%80%85%E8%8E%B7%E8%AE%B0%E8%80%85%E8%AF%81%EF%BC%9A%E5%95%86%E4%B8%9A%E7%BD%91%E7%AB%99/" target="cdt-mirror">中青在线｜首批594名网媒记者获记者证：商业网站暂不在列</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E9%B2%81%E7%82%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E9%B2%81%E7%82%9C.jpg" alt="鲁炜名片" width="455" height="341"></a><br><em>（网络图片）</em></p>
-<p>11月6日，国家互联网信息办公室为首批符合资质的14家新闻网站594名采编人员发放了记者证。国家网信办有关负责人表示，商业网站不具有新闻信息采编权，暂时不考虑在商业网站核发新闻记者证。</p>
-<p>2014年10月，国家新闻出版广电总局和国家互联网信息办公室联合发布了《关于在新闻网站核发新闻记者证的通知》，正式启动了新闻网站核发新闻记者证的工作。记者获悉，申请新闻记者证的网站，必须具有国家互联网信息办公室核发的一类新闻信息服务资质，国家网信办将统筹考虑网站影响力、股权构成、采编人数以及是否受到主管部门处罚等因素，确定发证网站名单，按照成熟一批、核发一批的原则，及时核发记者证。</p>
-<p>今天，首批获发记者证的是14家中央主要新闻网站，包括人民网、新华网、中国网、国际在线、中国日报网、中国网络电视台、中国青年网、中国经济网、中国台湾网、中国西藏网、光明网、中国广播网、中国新闻网、中青在线等，共计594名记者。</p>
-<p>国家网信办有关负责人称，在新闻网站发放的新闻记者证，与传统媒体发放的记者证相同，具有同等的权利，也具有同等的责任和义务。主管部门对传统媒体和新闻网站的管理，对传统媒体记者和今后新闻网站记者的管理，是一个标准，一个要求。</p>
-<p>该负责人还表示，目前，商业网站不具有新闻信息采编权，暂时不考虑在商业网站核发新闻记者证。该负责人称，正着手建立网络新闻信息从业人员职业资格准入制度，通过该制度，来规范和管理网站（包括商业网站）采编人员，以保证正确的舆论导向。</p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BD%9C2014%E7%89%88%E8%AE%B0%E8%80%85%E8%AF%81%E8%A6%81%E6%B1%82%E7%94%B3%E9%A2%86%E4%BA%BA%E7%AD%BE%E7%BD%B2%E4%BF%9D%E5%AF%86%E5%8D%8F%E8%AE%AE/">新华网｜2014版记者证要求申领人签署保密协议 </a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%A6%81%E6%AD%A2%E8%AE%B0%E8%80%85%E6%9C%AA%E7%BB%8F%E6%9C%AC%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E6%89%B9%E8%AF%84%E6%8A%A5%E9%81%93/">【真理部】禁止记者未经本单位同意开展批评报道</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%96%B0%E9%97%BB%E4%BB%8E%E4%B8%9A%E4%BA%BA%E5%91%98%E4%B8%BA%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93/">财经网 | 广电总局：禁止新闻从业人员为境外媒体撰稿</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A%E9%97%AD%E5%98%B4%EF%BC%81%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E5%87%86%E8%AF%B4%EF%BC%81/">东网｜东步亮：闭嘴！什么都不准说！</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/01/%E5%8D%97%E9%83%BD%E5%91%A8%E5%88%8A-%E8%AE%B0%E8%80%85%E8%AF%81%E7%B4%A7%E7%AE%8D%E5%92%92/">南都周刊 | 记者证紧箍咒</a></li>
-</ul></blockquote>
-<p><strong>附：网信办对新闻网站记者<a href="http://politics.gmw.cn/2015-11/06/content_17635825.htm">提出的要求</a></strong></p>
-<blockquote><p>一要政治过硬。坚定理想信念，深入宣传贯彻总书记的治网理念，在多元复杂的舆论环境中保持定力，准确把握和宣传党的理论和路线方针政策，广泛传播总书记治国理政方略和中央的重大决策部署，始终与党中央保持高度一致，不断推出更多更好的主旋律宣传精品。</p>
-<p>二要勇于担当。记者同志们一定要担当起唱响主旋律、传播正能量的责任，旗帜鲜明地宣传主流声音，理直气壮地批驳错误观点，把党和政府的声音传播好，把社会进步的主流展示好，努力成为传播网络正能量的主力军。</p>
-<p>三要贴近群众。要及时、全面、准确、生动地向人民群众宣传党的理论和路线方针政策，推动其转化为人民群众的自觉行动；创新改进网上宣传，让群众爱听爱看、产生共鸣，充分发挥正面宣传鼓舞人、激励人的作用。</p></blockquote>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E9%9D%92%E5%9C%A8%E7%BA%BF%EF%BD%9C%E9%A6%96%E6%89%B9594%E5%90%8D%E7%BD%91%E5%AA%92%E8%AE%B0%E8%80%85%E8%8E%B7%E8%AE%B0%E8%80%85%E8%AF%81%EF%BC%9A%E5%95%86%E4%B8%9A%E7%BD%91%E7%AB%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%9C%9F%E8%83%B8%E8%A5%9F%EF%BC%9A%E5%BF%AB%E5%BC%80%E4%B8%AA%E5%BE%AE%E5%8D%9A%EF%BC%8C%E5%88%AB%E8%AE%A9%E6%96%87%E5%8C%96/" target="cdt-mirror">【网络民议】广电真胸襟：快开个微博，别让文化部一个人受</a>
-</h2>
-<p><p><strong><a href="http://news.sina.com.cn/c/2015-11-06/doc-ifxkniur2918625.shtml">国家广电总局副局长：能容忍批评才是真胸襟</a></strong></p>
-<blockquote><p>[…]权为民所赋、权为民所用，党员干部接受组织和人民监督天经地义。决不能视“监督”为麻烦，决不能错误地认为“提意见就是唱反调”，决不能以“维护团结”的名义压制批评监督甚至对批评监督搞打击报复。对党员干部而言，能够容忍批评，才是真正的胸襟；能够接受监督，才是真正的自信；能够从谏如流，才是真正的智慧。闻过则喜，择善而从，才能成就一个更好的自己。</p>
-<p>——国家新闻出版广电总局副局长田进日前在总局党校2015年秋季班开学典礼上说</p>
-</blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A.png" alt="广电总菊" width="450" height=""></a></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/10/%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5-%E6%96%87%E5%8C%96%E9%83%A8%E5%8F%91%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A-%E4%B8%8D%E5%88%B0-6-%E5%B0%8F%E6%97%B6%E8%AF%84%E8%AE%BA/">好奇心日报 | 文化部发了第一条微博 不到6小时评论就超了4万</a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/lihaoqiang" target="_blank">Yo-Yo-Hoo</a>：现在的中国说句正常人都会说也该说的话就上了新闻了<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/5663149556" target="_blank">拉长的时间</a>：废话少说，先开个微博，我想看看评论什么的<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@有营养先生：有本事开微博，别让文化部一个人受</p>
-<p>@明月曾照彩云：广电快开微博呀，等不及要欢迎这个虚幻若谷就是不改的大权在握者了</p>
-<p><a href="http://weibo.com/2546443144" target="_blank">窝窝之网事</a>：<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">整天灭我们的账号，只差拿把枪直接把我们突突了！还能容忍批评呢！<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"><img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
-<p><a href="http://weibo.com/2641860870" target="_blank">瞪谁谁缺德</a>：<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">我不提意见不唱反调，只求冰冰演的戏能看到胸以下。</p>
-<p>@宅女与猫：说的好像接受批评多伟大似的……</p>
-<p>@勿联系火星人：容忍而已，没说会改</p>
-<p>@鸭可可可：原来批评是需要“容忍”的，“容忍”这个词感觉自己真是日了汪了。</p>
-<p>@徐主任的枪：虚心接受坚决不改</p>
-<p>@塞外秋风来：我明白了，就是你无论多么批评我们，我们都当没听见。</p>
-<p>@夏夜轻风细雨：“能容忍批评才是真胸襟”， 禁播禁演是什么鬼？我发现你们都是说一套做一套的精神分裂</p>
-<p>@不喝可乐喝橙汁儿：彭德怀在庐山提意见了，后来，……</p>
-<p>@走向民生：想引蛇出洞；前几天不是刚说，不准妄议么！！！！</p>
-<p>@咩枪法：不敢批评，你多狠啊，裆员议一下叫妄议中央，屁民议一下，直接灰飞烟灭！</p>
-<p>@潍畔皓月：可是我很难界定妄议和批评啊</p>
-<p>@Adder吴：我认为这位副局长是在映射中央近期的决定，应该算妄议中央，应该给予开除党籍处理。</p>
-<p>@阿人的：大家不要在骂他了 他好可怜 我希望有人能够站出来打他</p>
-<p>@水煮熊猫揣个闹：谁他妈要批评你了，我们想的都是怎么弄死你</p>
-<p>@失_______________________：局长你误会了，我不是批评你，我是在骂你。</p>
-<p>@刚出炉的昵称：微博新闻只要出现XJP三个字，评论就几乎删完了。好个真胸襟。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%9C%9F%E8%83%B8%E8%A5%9F%EF%BC%9A%E5%BF%AB%E5%BC%80%E4%B8%AA%E5%BE%AE%E5%8D%9A%EF%BC%8C%E5%88%AB%E8%AE%A9%E6%96%87%E5%8C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -654,7 +687,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -664,5 +697,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

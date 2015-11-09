@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%90%B4%E5%BC%BA%EF%BC%9A%E5%91%8A%E5%88%AB1984%EF%BC%9F%E7%BC%85%E7%94%B8%E7%9A%84%E7%95%AA%E7%BA%A2%E8%8A%B1%E9%9D%A9%E5%91%BD%E4%B8%8E%E7%BC%93%E6%80%A7%E7%BE%A4%E4%BC%97/" target="cdt-mirror">吴强：告别1984？缅甸的番红花革命与缓性群众</a>
@@ -350,7 +350,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/uber/?category=18271" rel="tag">uber</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E8%BD%A6/?category=18271" rel="tag">专车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E9%83%A8/?category=18271" rel="tag">交通部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BD%E5%AD%90%E9%92%B1/?category=18271" rel="tag">份子钱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%84%E6%96%AD/?category=18271" rel="tag">垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E7%BB%8F%E8%90%A5/?category=18271" rel="tag">非法经营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E8%BF%90%E8%90%A5/?category=18271" rel="tag">非法运营</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA-%E8%BF%88%E5%90%91%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8%EF%BC%9A%E5%8F%B0%E6%B9%BE%E7%8E%AF%E5%A2%83%E8%BF%90%E5%8A%A8%E7%9A%84%E6%99%9A/" target="cdt-mirror">东方历史评论 | 迈向公民运动：台湾环境运动的晚近发展</a>
 </h2>
@@ -687,7 +687,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%85%88%E7%94%9F%E6%98%AF%E4%B8%AA%E5%A5%BD%E7%A7%B0%E5%91%BC/" target="cdt-mirror">博谈网 | 先生是个好称呼</a>
 </h2>
@@ -942,7 +942,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -952,5 +952,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%B8%A5%E9%87%8D%E9%9B%BE%E9%9C%BE%E5%B7%B2%E6%88%90%E4%B8%AD%E5%9B%BD%E4%B8%9C%E5%8C%97%E5%86%AC%E5%AD%A3%E6%96%B0%E5%B8%B8%E6%80%81%EF%BC%9F/" target="cdt-mirror">法广 | 严重雾霾已成中国东北冬季新常态？</a>
+</h2>
+<p><p>作者：艾米<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/2015-11-09T033159Z_883899233_GF20000051326_RTRMADP_3_CHINA-ENVIRONMENT.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2015-11-09T033159Z_883899233_GF20000051326_RTRMADP_3_CHINA-ENVIRONMENT.jpg" alt="2015-11-09T033159Z_883899233_GF20000051326_RTRMADP_3_CHINA-ENVIRONMENT" width="550" height="310"></a><br>
+辽宁沈阳PM2.5值爆表，空气能见度极低，2015年11月9号<br>
+路透社</p>
+<blockquote><p>供暖季开始一周后，中国东北部多个城市周一（11月9号）持续被笼罩在危险的酸性雾霾之中，空气中的细悬浮微粒PM2.5最高浓度达世界卫生组织（WHO）安全范围50倍之多。</p></blockquote>
+<p>世卫组织建议的PM2.5的安全范围是24小时平均浓度每立方公尺25微克，但吉林产春周一的该数据为860微克，而根据当地政府提供的数据，昨天周日冬至日，辽宁省会沈阳的PM2.5浓度更是达到爆表的1157，部分地区甚至达到1400。</p>
+<p>据辽宁省环保厅发布的数据显示，周一上午，辽宁省14个地级市中，9个空气质量指数超过300，达到六级严重污染级别。其中，沈阳、鞍山、辽阳、铁岭等地空气质量指数超过500，达到爆表级别。</p>
+<p>中国官方媒体新华网的记者在沈阳市内街头采访看到，城区能见度不足百米，且不断加重。有市民抱怨说：“出门感觉空气辣眼睛、嗓子难受，就来买个口罩，但具体该怎么办，也不太清楚。”</p>
+<p>法新社说，PM2.5这种悬浮在空气中的微小粒子，对健康相当有害。中国近几年经常遭遇的严重雾霾天气，可能与几十万人提前死亡有关。</p>
+<p>沈阳市政府的微博上对导致雾霾的原因解释说，这是因为城市主要用煤炭的供暖系统启动造成的，同时也指是受到外省严重的污染影响。</p>
+<p>长春市政府在社群网站上表示，官方启动“3级”紧急因应措施，下令学校暂停户外活动，并提醒居民改用“绿色运输”、待在室内并“注意健康”，但未做进一步说明。</p>
+<p>沈阳的雾霾让医院呼吸科门诊、住院病房的病人数也大幅增加，据医生介绍，除了呼吸科外，因为雾霾原因导致呼吸不足，引发心脑血管疾病的病人也增多。</p>
+<p>新华网引引述辽宁省社会科学院低碳发展研究所所长毕德利认为，针对严重的空气污染，各地的预案却并没有真正 落到实处。实际可操作性业有限，他说，在极端重污染情况下，如果老百姓对相关污染状况知之甚少，或还是通 过口口相传来了解污染程度、防护措施，那么这样的预案就会成为一纸空文。</p>
+<p>法新社指出，中国多地经常出现的严重空气污染导致城市癌症患者大幅增加，已经成为中国人对政府不满的重要原因之一。</p>
+<p>气象部门预测未来24小时，吉林省东南部将有大到暴雪。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%B8%A5%E9%87%8D%E9%9B%BE%E9%9C%BE%E5%B7%B2%E6%88%90%E4%B8%AD%E5%9B%BD%E4%B8%9C%E5%8C%97%E5%86%AC%E5%AD%A3%E6%96%B0%E5%B8%B8%E6%80%81%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97/?category=18271" rel="tag">东北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E9%98%B3/?category=18271" rel="tag">沈阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%98%A5/?category=18271" rel="tag">长春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">雾霾危机</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%BE%8B%E8%AF%BB%E5%BA%93-%E5%AE%98%E5%91%98%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1%EF%BC%8C%E4%B8%8D%E8%83%BD%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E5%88%92%E4%B8%80%E4%B8%AA/" target="cdt-mirror">法律读库 | 官员非正常死亡，不能悄无声息划一个句号</a>
+</h2>
+<p><p>作者韩雪，法律读库原创部落成员。法律读库投稿邮箱：1751490@qq.com。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Img398062931.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Img398062931.jpg" alt="Img398062931" width="258" height="258"></a></p>
+<blockquote><p>官员非正常死亡事件频发，坠楼者有之，落水者有之，失踪者亦有之。涉事机关单位大多三缄其口、语焉不详，或冠之以抑郁症。于是舆论场上各种猜测、质疑之声四起，“有罪推论”更是盛行。官员也是人，为防无端被人泼一瓢脏水，有关部门应第一时间公布真相。如此这般，让清者得以安息，让浊者自取其辱。</p></blockquote>
+<p>媒体报道，中共柳州市委副书记、市长于11月4日21时47分左右落入柳江河中，经抢救无效死亡。</p>
+<p>网上披露的细节不知真假，很是蹊跷：柳州市委副书记、市长与其秘书晚上在柳州市柳江河边散步，不知何原因落入河中，市长溺亡，秘书生死不知。据中新网报道，当晚，警方接到群众报警，称有人在该市滨江东路保利大江郡附近的沿河亲水平台看到，有人翻越护栏落入水中。警方接警后迅速出警，水上派出所出动警务船只进行搜索。</p>
+<p>虽然最近意外死亡的官员不是个案孤例，但是由于死者身份特殊以及语焉不详的死亡过程，还是引发了民众的猜测和议论。</p>
+<p>《中国青年报》有个统计，2013年1月1日至2014年4月10日期间，共有54名各级官员非正常死亡。从官方公布的信息中看，认定因为自杀死亡的超过四成。其中有八人为跳楼自杀，其他的自杀方式有自缢、烧炭、喝农药等。某舆情监测系统采集网上公开报道的信息，对2014年1月1日至2014年12月24日曝光的官员自杀 事件进行了梳理，统计出截至2014年12月24日，我国官员自杀事件高达72起，分布来自全国22个省市自治区，跨越50后、60后、70后、80后四个年代 。</p>
+<p>官员意外死亡到底为什么？老百姓第一感觉就是“出事了”，也就是不堪压力，畏罪自杀。官方则习惯用“抑郁症”来笼统解释。的确，我们不能完全用“有罪推定”来看待所有的自杀死亡的官员，这部分人中，也的确有不少是因为工作压力大而不堪忍受。比如，汶川地震期间，就有灾区的基层官员因为丧子之痛和大强度工作不堪忍受而自杀。此前，《人民论坛》杂志曾对全国100多名官员的心理健康进行过调查，发现有80%以上的官员特别是基层官员普遍存在较大的心理压力和一定程度的心理不平衡、心理疲劳及心理压抑。其中，64.65%的受调查者认为，官员的压力源主要来自“官场潜规则对个人政治前途的压力”。这些都有可能是压垮官员的那根“稻草”。</p>
+<p>其实，生活节奏快工作压力大是我们这个时代的主旋律，作为社会一员的官员自然也不能免俗，也会“压力山大”，因此，对于官员自杀不能过分解读，不用过于敏感。首先有关方面要及时公布官员非正常死亡的原因，从根本上减少质疑和传言。此外，舆论也应保持理性，我们更应该关注的是现行政体下官员心理压力的成因与破解之道，而不是那些敏感的推测和盲目的传谣。</p>
+<p>真正值得关注的是那些所谓“畏罪自杀”的官员的“身后事”。就媒体曝光的一些案例来看，不少官员是或是在接受调查的当口，或是听到了违法犯罪行为即将暴露的风声之时，或是自己的保护伞被查处之日，心理不堪重压便会选择自杀，一死百了，以死换取家人的安宁和巨额财富，以死来让自己的“上线”安心，一句话，“了却君王天下事，赢得生前死后名”。</p>
+<p>我们的刑诉法有这样规定，一旦犯罪嫌疑人、被告人死亡，诉讼就会停止，就不会再被追究刑事责任，而且未经人民法院依法判决，任何人不得确定有罪。也就是说，由于贪官自杀，案件无法继续调查，更无法进入法律程序，往往就会不了了之。 实践中有不少这样的案例，比如某地银行原行长朱某在市看守所自杀后，检察院只得了撤销对朱的立案决定书。也就是由于存在这样的“空子”，许多官员采用自杀手段“丢车保帅”，掐断案件线索，使调查无法进行。</p>
+<p>官员畏罪自杀这一现象已经引起了相关部门的重视，有专家建议构建官员畏罪自杀后追究刑事责任的制度，即规定官员自杀以后，依法本应进行而尚未进行，已进行而尚未完成的各项刑事诉讼活动应当照样继续。在法庭审判阶段，实行刑事缺席审判制度，对于判决有罪的，可单独适用现有刑罚的罚金，没收财产，追回自杀官员涉及犯罪的财产。除了立法上的完善，也有检察官建议从办案程序方面加强防范，强化涉案官员的认罪服法教育等等。</p>
+<p>虽然官员的非正常死亡，不能都与“畏罪自杀”划等号，但是，我们也应看到，在职官员的自杀涉及公权力的运用、涉及公众知情权，百姓有权知晓。及时查清原因公布真相既是回应百姓的呼声需求，更是对死者负责任的态度。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%BE%8B%E8%AF%BB%E5%BA%93-%E5%AE%98%E5%91%98%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1%EF%BC%8C%E4%B8%8D%E8%83%BD%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E5%88%92%E4%B8%80%E4%B8%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80/?category=18271" rel="tag">官员自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">官员非正常死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF/?category=18271" rel="tag">广西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%B7%9E/?category=18271" rel="tag">柳州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">非正常死亡</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%90%B4%E5%BC%BA%EF%BC%9A%E5%91%8A%E5%88%AB1984%EF%BC%9F%E7%BC%85%E7%94%B8%E7%9A%84%E7%95%AA%E7%BA%A2%E8%8A%B1%E9%9D%A9%E5%91%BD%E4%B8%8E%E7%BC%93%E6%80%A7%E7%BE%A4%E4%BC%97/" target="cdt-mirror">吴强：告别1984？缅甸的番红花革命与缓性群众</a>
 </h2>
 <p><p>在那些高度威权甚至近乎极权的国家内部，尽管革命总是难以避免，但是只要革命尚未发生，无论内部还是外部世界，通常都对革命的发生持着怀疑态度。1989的“苏东波”如此，西方社会规模巨大的苏联问题研究和情报机构几乎没有人做出正确预测，2011年的北非茉莉花革命同样如此。主流研究者们，如亨廷顿或斯考奇以来对阶级、官僚、制度等等的结构分析，解释的是传统革命为什么会发生；而近年来学界对威权体制及其镇压能力的关注，或许一定程度上可以说明威权政权有多大的可能阻止革命爆发。</p>
@@ -870,67 +917,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%BC%AB%E7%94%BB%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B9%A0%E9%A9%AC%E4%BC%9A/" target="cdt-mirror">奇闻录 | 漫画家眼中的习马会</a>
-</h2>
-<p><p>‏@badiucao：巴丢草漫画 【习马萌会】习马二位葫芦里卖了什么药，场面上自然不说，只管推杯换盏，先生你来，先生我去，假和平之名捞各家资本。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTMVj_RVAAI2Qw3-382x500.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTMVj_RVAAI2Qw3-382x500.png" alt="CTMVj_RVAAI2Qw3-382x500" width="382" height="500"></a></p>
-<p>@StarKnight：都敏俊会见冯绍峰<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTL1w9sUkAEhI5k-600x500.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTL1w9sUkAEhI5k-600x500.jpg" alt="CTL1w9sUkAEhI5k-600x500" width="600" height="500"></a></p>
-<p>@ptreporter：一中各婊<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTNJBfYUEAAG9eq.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTNJBfYUEAAG9eq.jpg" alt="CTNJBfYUEAAG9eq" width="550" height="203"></a></p>
-<p>@badiucao：#世纪之握 好像看到了可怕的东西！是不是我看错了？！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTMYwxYUEAEllO-750x421.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTMYwxYUEAEllO-750x421.jpg" alt="CTMYwxYUEAEllO--750x421" width="550" height="309"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4124-570x500.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4124-570x500.jpg" alt="4124-570x500" width="570" height="500"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTLjgW3UAAARHz_.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTLjgW3UAAARHz_.jpg" alt="CTLjgW3UAAARHz_" width="480" height="359"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTLl9kPUEAAp4xj-370x500.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTLl9kPUEAAp4xj-370x500.png" alt="CTLl9kPUEAAp4xj-370x500" width="370" height="500"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTMh8fXUcAAIYkl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTMh8fXUcAAIYkl.jpg" alt="CTMh8fXUcAAIYkl" width="550" height="412"></a></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%BC%AB%E7%94%BB%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B9%A0%E9%A9%AC%E4%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%B8%AD%E5%90%84%E8%A1%A8/?category=18271" rel="tag">一中各表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B9%A0%E9%A9%AC%E4%BC%9A%E6%8A%A5%E9%81%93%E4%B8%AD%E7%9A%84%E4%B9%9F%E5%AD%97%EF%BC%9A%E8%AE%BA%E3%80%8A/" target="cdt-mirror">【立此存照】“习马会”报道中的“也”：论《环时》的高级黑属性</a>
-</h2>
-<p><p>《环球时报》的官方微博账号在报道马英九记者会时，发布了这么条内容：</p>
-<blockquote><p><strong>@环球时报</strong>：马英九记者会开始，台湾方面的记者提问明显也是安排好的，都叫的出媒体和名字。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/53ae0b70jw1exskumslbhj20p018gdmv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/53ae0b70jw1exskumslbhj20p018gdmv.jpg" alt="53ae0b70jw1exskumslbhj20p018gdmv" width="415" height="738"></a></p>
-<p>这个意味深长的“也”字迅速引来了大量围观，《环时》的高级黑属性再一次成为了网民议论的焦点。近期例子包括：</p>
-<blockquote>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E6%AC%BA%E9%AA%97%E4%B8%AD/">环球时报｜共产主义理想没有欺骗中国</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A6%82%E6%9E%9C%E8%88%8D%E4%B8%8D%E5%BE%97%E5%A4%96%E6%8F%B4-%E6%A0%B9%E6%9C%AC%E5%B0%B1%E6%B2%A1%E6%B3%95%E5%9C%A8%E5%9B%BD/">环球时报｜中国的如果舍不得外援，根本就没法在国际社会混</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%BE%BE%E8%B5%96%E5%AE%9E%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%8D%A7%E5%87%BA%E6%9D%A5%E7%9A%84/">环球时报｜达赖实为西方捧出来的“国际王林”</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF/">环球时报｜必须理直气壮地说中国是最大民主国家</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%94%BE%E9%A3%8E%E6%94%BB%E9%98%B2%E7%81%AB%E5%A2%99%E6%8A%A5%E5%A4%8D%E4%B8%AD%E5%9B%BD-%E5%A4%AA%E8%BF%87%E5%88%86%E4%BA%86/">环球时报 | 美国放风攻防火墙报复中国 太过分了</a></li>
-</ul></blockquote>
-<p>截至发稿时，上述微博已被和谐。</p>
-<p>不过同时也有网民指出，使用iPhone6发表上述微博的这名外号“肾六小编”的《环时》编辑（<a href="http://weibo.com/paingod">@paingod</a>），与另一名管理该报微博官方账号、外号“美腿小编”的编辑，经常使用@环球时报 的帐号<a href="http://www.zhihu.com/question/34593882">发表一些</a>相对（该报）而言“三观较正”的言论。而那位“美腿小编”刚刚还在个人账号内吐槽了央视直播“习马会”时<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E6%8E%90%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E-%E8%A2%AB%E7%BD%91%E6%B0%91%E6%89%B9%E4%B8%8D%E8%87%AA/">掐掉马英九致辞</a>的原因：</p>
-<blockquote><p><strong><a href="http://weibo.com/5677121040/D2LgXc1M1">@耿直的MT</a></strong>：本质上就是他们还没有看，而且亲儿子没发，所以不能发。但看了之后发现没问题，于是先让亲儿子发，然后才能发。可笑吧？</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BE%8E%E8%85%BF%E5%B0%8F%E7%BC%96.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BE%8E%E8%85%BF%E5%B0%8F%E7%BC%96.png" alt="美腿小编" width="450" height=""></a></p>
-<p><del>（所以两位都是“反贼”么）</del></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@科罗廖夫：【“也是”，神来之笔，这反贼黑的好】宣传部门的潜意识都是反贼，别看嘴上唱着红口号，其实是把对我们党和国家的仇恨深深地埋在心底里，一不小心就能露出来，木有一个例外的。</p>
-<p>@新井县令：今天媒体报道“习马会”只有两个笑点，一个是央视“掐话”，一个是环球“也是”。</p>
-<p>@从不惹泥煤lol：中黑部</p>
-<p>@轻侯2046：别点破啊，还要继续卧底呢！</p>
-<p><a href="http://weibo.com/1744207803" target="_blank">清水芙蓉1919</a>：无心插柳柳成荫…….<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/5578022971" target="_blank">海贼王在洛杉矶</a>：萱萱里是藏了多少反贼啊<img title="[亲亲]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8f/qq_org.gif" alt="[亲亲]"><img title="[亲亲]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8f/qq_org.gif" alt="[亲亲]"></p>
-<p><a href="http://weibo.com/xuhui0815" target="_blank">回复未完请刷屏</a>：马屁拍歪了！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/n/%E5%8E%A6%E9%97%A8%E5%87%A4%E5%87%B02012?from=feed&loc=at" target="_blank">厦门凤凰2012</a>: 小编，这个月的奖金该扣光了吧<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><a href="http://weibo.com/n/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5?from=feed&loc=at" target="_blank">@环球时报</a></p>
-<p><a href="http://weibo.com/am0707" target="_blank">荣-Sir</a>：一个“也”字，坐实了反贼的身份<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/3258685020" target="_blank">心爱的宝宝爱你</a>：<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]">，天朝宣宣又蠢又坏</p>
-<p>@水火山泽风雷：这智商249+1！</p>
-<p>@高尔察克新号:政治经济上分前后30年，宣传上60年没变。</p>
-<p>@铁锈的福音使：环球这飞盘怎么叼碎了呢？</p>
-<p>@气质内敛的先生： 拉宾诺维奇到资本主义国家出差，在那里，他给单位拍了一个电报：“我选择了自由。”这事发生后，单位马上召集了党代会谴责拉宾诺维奇，并要做出组织结论。在会议中间，拉宾诺维奇突然走进了会场！全场哑然。 拉宾诺维奇说道：“我非常感兴趣，你们是怎样理解自由的。”</p>
-<p>@2015吴乐平：晚上没看得成新闻直播，说刷刷微博了解下马习会，结果各大官微啊，啧啧啧，转发点赞上千，评论连个十位数都没有……删评论删得，我都看不到真东西，想知道些什么还得搜自媒体……</p>
-<p>@CHKDSK_：宣传部胡说八道你们骂，现在人家讲实话了还是被骂，你们也是挺难伺候。。。</p>
-<p><a href="http://weibo.com/1942131934" target="_blank">_婲嗏_</a><i title="微博达人"></i>：<a href="http://weibo.com/n/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5?from=feed&loc=at" target="_blank">@环球时报</a> 送给观光团 不谢 <img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B9%A0%E9%A9%AC%E4%BC%9A%E6%8A%A5%E9%81%93%E4%B8%AD%E7%9A%84%E4%B9%9F%E5%AD%97%EF%BC%9A%E8%AE%BA%E3%80%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%B1%E8%90%B1/?category=18271" rel="tag">萱萱</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -942,7 +928,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -952,5 +938,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,110 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A4%A9%E6%9C%9D%E8%B0%B7%E6%AD%8C/" target="cdt-mirror">【敏感词库】“天朝谷歌”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2012/12/%E6%BC%AB%E5%A3%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BC%8F%E4%B8%96%E8%A2%AD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2012/12/%E6%BC%AB%E5%A3%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BC%8F%E4%B8%96%E8%A2%AD.jpg" alt="漫士：中国式世袭" width="550" height=""></a><br><em>(图片作者：漫士SIMON)</em></p>
+<p>[ 测试时间：2015年11月10日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
+<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
+<p><strong> 天朝＋谷歌</strong><br><strong>天朝＋Google</strong></p>
+<p><strong>资源＋微信</strong></p>
+<p><strong>计划生育＋人权</strong><br><strong>唐映红＋政策</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2-%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E4%BB%AC%E5%AF%B9%E6%99%AE%E9%81%8D%E6%94%BE%E5%BC%80%E4%BA%8C%E8%83%8E%E7%9A%84%E4%B8%8D%E5%90%8C/">唐映红 ：如何看待人们对普遍放开“二胎”的不同反应？</a>）</p>
+<p><strong>秘书帮</strong></p>
+<p><strong>习党</strong><br><strong> 习＋名片</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A030%E5%B9%B4%E5%89%8D%E8%AE%BF%E7%BE%8E%EF%BC%8C%E5%90%8D%E7%89%87%E7%AB%9F%E7%84%B6%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90/">【网络民议】习30年前访美，名片竟然是这样子</a>）<br><strong> 习＋独裁</strong><br><strong> 薄习</strong><br><strong> Xifac</strong><br><strong> jwxi</strong><br><strong> bjxi</strong><br><strong> w1xi</strong></p>
+<p><strong>fourthwave</strong>（第四波民主化浪潮）</p>
+<p><strong>拜城＋袭击</strong>（详见：<span><a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%E5%A4%96%E7%9C%81%E4%BA%BA%E5%B1%85%E5%A4%9A-%E5%9B%BD%E5%BA%86%E6%97%A5%E5%89%8D/">自由亚洲｜<span>拜城煤矿遇袭事件</span></a>）</span><span><b><br></b></span><span><b>拜城＋煤矿</b></span><span><b><br></b></span><span><b>死亡＋阿克苏</b></span></p>
+<p><strong>黄祸</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2014/11/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B4%E6%88%88%EF%BC%9A%E6%98%AF%E8%B0%81%E5%9D%90%E5%AE%9E%E4%BA%86%E6%96%B0%E9%BB%84%E7%A5%B8%E5%BD%A2%E8%B1%A1/">东网｜吴戈：是谁坐实了新“黄祸”形象</a>）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E6%9C%9D%EF%BC%8B%E8%B0%B7%E6%AD%8C.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E6%9C%9D%EF%BC%8B%E8%B0%B7%E6%AD%8C.png" alt="天朝＋谷歌" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E6%9C%9D%EF%BC%8BGoogle.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E6%9C%9D%EF%BC%8BGoogle.png" alt="天朝＋Google" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%B5%84%E6%BA%90-%E5%BE%AE%E4%BF%A1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%B5%84%E6%BA%90-%E5%BE%AE%E4%BF%A1.png" alt="资源 + 微信" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%EF%BC%8B%E4%BA%BA%E6%9D%83.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%EF%BC%8B%E4%BA%BA%E6%9D%83.png" alt="计划生育＋人权" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%8B%E6%94%BF%E7%AD%96.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%8B%E6%94%BF%E7%AD%96.png" alt="唐映红＋政策" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%A7%98%E4%B9%A6%E5%B8%AE.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%A7%98%E4%B9%A6%E5%B8%AE.png" alt="秘书帮" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%E5%85%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%E5%85%9A.png" alt="习党" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%EF%BC%8B%E5%90%8D%E7%89%87.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%EF%BC%8B%E5%90%8D%E7%89%87.png" alt="习＋名片" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%EF%BC%8B%E7%8B%AC%E8%A3%81.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%EF%BC%8B%E7%8B%AC%E8%A3%81.png" alt="习＋独裁" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%96%84%E4%B9%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%96%84%E4%B9%A0.png" alt="薄习" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Xifac.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Xifac.png" alt="Xifac" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/jwxi.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/jwxi.png" alt="jwxi" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bjxi.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bjxi.png" alt="bjxi" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/w1xi.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/w1xi.png" alt="w1xi" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/fourthwave.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/fourthwave.png" alt="fourthwave" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%8B%9C%E5%9F%8E%EF%BC%8B%E8%A2%AD%E5%87%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%8B%9C%E5%9F%8E%EF%BC%8B%E8%A2%AD%E5%87%BB.png" alt="拜城＋袭击" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%8B%9C%E5%9F%8E%EF%BC%8B%E7%85%A4%E7%9F%BF.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%8B%9C%E5%9F%8E%EF%BC%8B%E7%85%A4%E7%9F%BF.png" alt="拜城＋煤矿" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%AD%BB%E4%BA%A1%EF%BC%8B%E9%98%BF%E5%85%8B%E8%8B%8F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%AD%BB%E4%BA%A1%EF%BC%8B%E9%98%BF%E5%85%8B%E8%8B%8F.png" alt="死亡＋阿克苏" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%BB%84%E7%A5%B8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%BB%84%E7%A5%B8.png" alt="黄祸" width="475" height=""></a></p>
+<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。<br>
+———————-</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A4%A9%E6%9C%9D%E8%B0%B7%E6%AD%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google-%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">google 谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E4%B9%A6/?category=18271" rel="tag">秘书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%8E%E5%95%86%E6%8A%A5-%E5%B1%B1%E8%A5%BF%E8%80%81%E4%BA%BA%E5%90%8A%E6%AD%BB%E5%9C%A8%E5%B8%82%E6%94%BF%E5%BA%9C-%E8%AD%A6%E6%96%B9%E4%BB%A5%E6%B6%89%E5%AB%8C%E9%81%97%E5%BC%83%E7%BD%AA/" target="cdt-mirror">华商报 | 山西老人吊死在市政府  警方以涉嫌遗弃罪将其子逮捕</a>
+</h2>
+<p><p>2015年5月27日清晨，山西省古交市，一位60岁的老人吊死在古交市政府的大门上。时隔不久，他的儿子因涉嫌遗弃罪被当地警方逮捕，目前法院已经开庭但尚未作出判决。</p>
+<p>华商报记者调查发现，这位父亲在自杀前，曾经为了自己的“低保”被取消一事，多次要求相关部门予以恢复，但未果。而他被警方逮捕的儿子，生存状况也同样令人唏嘘。</p>
+<p>11月3日，山西省古交市。还未立冬的早晨，已经非常寒冷。屋外天色昏暗，伴随着阵阵东北风，呼啸着不知道吹向哪个角落里，偶尔发出刺耳的哨声。</p>
+<p>王丽文租住的十多平方米的房子内，尚有一些温暖。小屋窗上的玻璃生出些水雾，使得人从屋内向外望去朦胧一片。同样看不清楚的还有其父王银洞的死因——一位身高不足一米七、瘦小、平时爱穿蓝色中山装的60岁老人，离奇吊死在市政府大门上。</p>
+<p>六旬老人吊死在市政府的铁门上</p>
+<p>父亲自杀后，王丽文因涉嫌遗弃罪被逮捕并提起公诉，目前身陷囹圄。关于这对父子的故事，多来自亲属的讲述。</p>
+<p>2015年5月26日晚8时许，26岁的王丽文在地摊上卖着水果。</p>
+<p>60岁的父亲王银洞不知什么时候出现在水果摊前，询问儿子这么晚了还不收摊。王丽文说，再卖一会儿就收了。</p>
+<p>就在这时，又有人过来买水果，王丽文就招呼顾客去了。父亲在摊上吃了一个脆瓜（甜瓜），不知什么时候离开了。这是他和父亲的最后一面。</p>
+<p>第二天早上9点左右，王丽文接到警察的电话，说，父亲自杀了。王丽文不敢相信，他立即打电话给母亲，母亲安慰他，“不可能吧”。</p>
+<p>王丽文随即赶到古交市公安局，一位名叫“郭永望”（音）的警察说，王银洞是早上6点被送到医院太平间的。警察在王银洞的身上发现了一部诺基亚手机以及身份证。</p>
+<p>就在这时，现场另一位警察训斥王丽文，“你这是遗弃罪，你不管你老子（方言，父亲），他才吊死的”。</p>
+<p>之后发生的情形，王丽文告诉过舅舅岳补旺。11月3日，岳补旺向华商报记者转述了王丽文后来的一些遭遇。</p>
+<p>王丽文从古交市政府门口的监控录像上看到，5月27日凌晨已经3点20分了，父亲还在市政府门口转悠。</p>
+<p>警察给王丽文出示了一张父亲自尽时的现场照片。照片显示，父亲吊在市政府大铁门上，脖子上的绳子是绑罐头瓶的尼龙绳，脖子下垫着卫生纸。</p>
+<p>王银洞面朝门外，他的脚距离地面仅仅十余厘米。看着这张照片，王丽文迅速拿手机拍了下来。但最终，手机被警察夺了过去，在删完照片后，又还给了他。</p>
+<p>儿子自称无罪 拒绝取保候审</p>
+<p>之后，这家人经历了最难熬的几天。王丽文的母亲岳东叶说，得知噩耗后，王丽文头晕、特别是嗓子疼痛，很快就住院了。</p>
+<p>5月29日，当地公安、民政和乡村干部等多人来到岳东叶租住在古交市的民房内，了解王银洞生前的事情。而在此前，岳东叶和丈夫离婚多年，很难再管前夫的事情，只能尽量照看王丽文的两个孩子，所以知道的情况也不多。</p>
+<p>到了6月4日，王丽文到乡政府询问解决父亲后事的问题时，有警察突然找到他称，古交市公安局一位副局长找他谈话。随后，王丽文被从乡政府带走。</p>
+<p>次日，王丽文的家属便接到公安局的告知，王丽文涉嫌遗弃罪，被古交市公安局刑警大队刑事拘留。</p>
+<p>父亲刚去世，儿子就被拘留了。王丽文的妻子没工作，平日就靠丈夫摆地摊收入一点点钱，补贴家用，这下子，整个家都垮了。</p>
+<p>家里的两个孩子——6岁的姐姐和2岁半的弟弟，每天哭喊着要爸爸。后来，姐姐不知道从哪儿听说爸爸去了派出所，只要别人问她爸爸去哪了，她就说到派出所去了。</p>
+<p>王丽文被刑拘没几天，邢家社乡政府就有领导给王丽文家属带来了话，让他们写一份取保候审申请书，就可以将王丽文取保候审出来，然后就没有什么事了。</p>
+<p>岳东叶称，乡政府的领导还特别强调，这份取保候审书要特别保证，“王银洞家属不能上访和不能向政府索要赔偿金”。</p>
+<p>11月3日，华商报记者见到了这份王丽文多位家属签字的申请书。申请书上，明确提到不向政府索要赔偿以及不上访。</p>
+<p>然而，王家人还没等到亲人被取保候审出来，政府又有人传话，“王丽文拒绝取保候审，他说自己没有罪”。</p>
+<p>房子没了 家也变得“漂泊不定”</p>
+<p>前夫自杀，儿子被刑拘，这让今年55岁的岳东叶更认为这个家很不幸。而这个不幸的源头，是从30年前换婚开始的。</p>
+<p>岳东叶25岁时，由于哥哥找不到媳妇，于是她就嫁给了邻村的王银洞。作为交换条件，王银洞的妹妹嫁给了岳东叶的哥哥。</p>
+<p>结婚后，岳东叶发现，丈夫不是个勤快人，“别人家男人一天能干完的农活，丈夫需要三天才能干完”。</p>
+<p>之后，他们的两个女儿一个儿子相继出生。今年29岁的二女儿王丽珍清楚记得，她七八岁的时候，有一天爸爸刚从房子走到门口，房子就倒塌了。当时，她和姐姐以及妈妈在屋内，幸好都安然无恙。</p>
+<p>从此以后，王丽珍记忆里的“家”，一直在漂泊不定中。没有房子住，好心的邻居收留了他们，一家人搬到了邻居多余的房子住了。住了几年后，邻居的儿子要结婚，就又搬了出来。</p>
+<p>2002年，看着家里的经济条件太差，岳东叶进城给人当保姆。</p>
+<p>13岁的王丽文也辍学了，开始在社会上游荡，有时候在网吧打打工，有时候在食堂当个传菜员。</p>
+<p>2008年，王丽文谈了一个女朋友，两人很快就决定结婚。而在结婚当天，王银洞和岳东叶两家的亲属，因为一些事情打了起来。这场架，最终导致了王银洞和岳东叶的离婚。</p>
+<p>离婚时，岳东叶放弃了家中一切财产。但实际上，这个家已经没有财产可分。</p>
+<p>离婚后，岳东叶和二女儿在古交市租房居住。王丽文租住的房子离母亲很近，经常到母亲家混饭吃。而王银洞，当年从邻居的房子搬走后，先是借住在另一村民的房子，之后，那间房子也塌了，他便开始了边打工边养活自己的单身旅程，而且和这个家越来越远。</p>
+<p>他和儿子住过儿子家的境况也不好</p>
+<p>在前妻和两个女儿的眼里，王银洞不是一个勤快人。岳东叶甚至用“游手好闲”来形容前夫，“他挣的钱都养活不了他自己，有点钱全用到吃饭和吸烟上了”。</p>
+<p>实际上，王银洞也赚不了多少钱。在外打工的王银洞，也就是给人家看大门，或者帮别人饲养猪羊等家畜，此间，他还患了脑梗，曾三次住院。</p>
+<p>王银洞所在的陈家社村原村支书陈润小告诉华商报记者，2007年，他当村支书的时候，考虑到王银洞有脑梗以及没有住房等，就给办理了“低保”。“低保”是从2008年开始领取的。2009年陈润小不再担任村支书后，就不知道王银洞是否还在享受“低保”待遇。</p>
+<p>华商报记者在古交市采访时，大部分受访者认为，王银洞自杀的原因是3年前自己的“低保”被莫名其妙地取消。</p>
+<p>在前妻岳东叶看来，每年一千多元钱的低保，对于王银洞来说是救命钱。</p>
+<p>王银洞也去和儿子住过，但儿子的生活也好不到哪儿去。</p>
+<p>结婚不久，王丽文开始摆地摊卖水果。再后来，生了一儿一女，一家4口租住在古交市城北一间不到20平方米的民房内。华商报记者在民房内看到，一大一小两张床占据了屋子近三分之一的空间，家里的两件电器就是电视机和洗衣机。</p>
+<p>房东曾告诉来访记者，这个房间每月房租仅一百多元，可即便这样，这家人已经欠近一年房租了。</p>
+<p>王银洞偶尔也去给儿子帮忙照看水果摊。很多熟悉这对父子的人签名证明，2013年王丽文曾租房和父亲一起住，但几个月后，王银洞又去给表弟帮忙了，便不和儿子住了。</p>
+<p>今年三四月份，舅舅岳补旺曾在王丽文的水果摊上看到，王丽文正在给父亲零花钱。当时，岳补旺来气大骂昔日的姐夫，“孩子养家糊口生活本来就不容易，你还好意思给他要钱”？</p>
+<p>王银洞默默地离开了。大家都不知道他住在哪儿。岳补旺觉得，王银洞应该住在打工的地方。如果实在没地方住就去招待所，每天十几块钱就可以住。</p>
+<p>尽管在家人眼里，王银洞不勤快，甚至有点游手好闲。但在陈润小看来，事实可能并非全是这样，“得了脑梗后，人干活就没劲了，人软了”。</p>
+<p>低保取消？是否被遗弃？成待解疑问</p>
+<p>那么，王银洞的低保究竟有没有被取消？11月4日，华商报记者到古交市民政局和邢家社乡政府采访，均被以要经过宣传部同意为由而拒绝。</p>
+<p>但此前，古交市邢家社乡党委书记姜玉接受媒体采访时承认，王银洞确实没有家，也没有房子住。此前的确取消了王银洞的“低保”，原因是王银洞在外打工每年能有七八千元的收入。对于王丽文拒绝取保候审的事情，姜玉曾对当地媒体表示，政府帮他申请取保候审，但前提是王丽文对于父亲的死亡不能再上访以及要求经济赔偿。“但是王丽文认为自己没有错，不愿意办理取保候审”。</p>
+<p>据悉，申请农村低保待遇应同时具备下列条件：1、持有本县农业居民户口；2、居住在农村村组，家庭承包土地的农村居民。3、共同生活的家庭成员人均年纯收入和实际生活水平低于当地农村低保标准。2015年，古交市农村低保标准为318元/人/月。</p>
+<p>得知王银洞的低保被取消了，陈家社村原村支书陈润小觉得，村里很多条件比王银洞好的都吃“低保”，不知道为何取消王银洞的。</p>
+<p>除低保问题外，王丽文涉嫌遗弃罪，证据在哪里呢？11月3日，华商报记者到古交市公安局采访，政工室负责人说此事太敏感，要经过公安局领导同意，让记者等电话，但截至发稿，也未等到答复。</p>
+<p>王丽文的律师李维锋说，10月27日法院开庭时，检察机关曾宣读证人证言。王银洞的一位弟弟称，平时王丽文很少管自己的父亲。但这个弟弟也承认，他很少见到哥哥。</p>
+<p>王银洞所在的村子现任村干部也给公安机关证明，王银洞三次住院都是医院开的绿色通道，看病钱最后都是政府给交的。有村干部还说，王银洞曾经还想通过乡村干部，和儿女断绝关系。</p>
+<p>“目前可以肯定的是王银洞吊死在古交市政府大门口，但吊死的原因还不是很清楚，因为死无对证。”但李维锋认为，如果王银洞够吃“低保”的标准，那么政府不给办低保显然不对；但如果王银洞不够吃“低保”的标准，就说明他能自食其力，显然，遗弃罪就不能成立。</p>
+<p>王银洞生前最后一个夜里发生了什么？</p>
+<p>11月4日，古交市人民法院院长刘三娃告诉华商报记者，“案件还没有判，如果我们瞎判，你们再过来监督不迟”。</p>
+<p>纵观整个案件，华商报记者发现更多待解的疑问。诸如，公安机关说6点前王银洞已经被送往医院太平间，但是在6点20分，王银洞的手机还给110打过电话，这个电话到底是谁打的？</p>
+<p>5月27日零时许，王银洞还给一工友打过电话，他说了什么？王银洞凌晨3点20分还在市政府大门外转悠，早上6点被送到医院太平间。此间，是环卫工人而不是市政府保安发现并报警的，市政府是否对于王银洞的死负有责任？这些，古交市政府或公安部门没说清楚。</p>
+<p>华商报记者在王银洞老家看到，土房已倒塌，院子内荒草横生。村里人说，王银洞是一个恓惶人，村民们大多知道他是吊死在市政府大门口的。</p>
+<p>在古交市政府收发室，一工作人员说，那个人就是吊死在外面的铁门上的。具体情况保安应该知道，但值班的保安说，他刚来上班几天，不是很清楚此事。</p>
+<p>那两扇王银洞最终将自己吊在上面的黑色大铁门，每扇大约4米长、近4米高。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%8E%E5%95%86%E6%8A%A5-%E5%B1%B1%E8%A5%BF%E8%80%81%E4%BA%BA%E5%90%8A%E6%AD%BB%E5%9C%A8%E5%B8%82%E6%94%BF%E5%BA%9C-%E8%AD%A6%E6%96%B9%E4%BB%A5%E6%B6%89%E5%AB%8C%E9%81%97%E5%BC%83%E7%BD%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E4%BF%9D/?category=18271" rel="tag">低保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%89%E5%AB%8C%E9%81%97%E5%BC%83%E7%BD%AA/?category=18271" rel="tag">涉嫌遗弃罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF-%E8%A2%AB%E6%B6%88%E5%A4%B1-%E5%A5%87%E6%A1%88/" target="cdt-mirror">端传媒 | 香港禁书书店老板 “被消失” 奇案</a>
 </h2>
 <p><p>香港著名的禁书经营者“铜锣湾书店”一名老板、三名员工先后在东莞、深圳、泰国等地失踪，至今下落不明。</p>
@@ -914,47 +1015,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E8%BF%99%E4%B8%AA%E4%B9%9F%E6%98%AF%E7%94%A8%E5%BE%97%E5%A5%BD/" target="cdt-mirror">【立存此照】环球时报这个“也是”用得好</a>
-</h2>
-<p><p>@MyDF：《环球时报》开心时刻——“也是”用得真好！ #习马会</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CTMwXDLUAAADS_5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTMwXDLUAAADS_5.png" alt="CTMwXDLUAAADS_5" width="598" height="623"></a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>對方a正在輸入：也字亮了。</p>
-<p>黄宝囡：主公 有反贼。</p>
-<p>大可一看：“也”字传神，与欧阳修《醉翁亭记》异曲同工。</p>
-<p>笑寒叔叔：一個“也”字說明真是親兄弟。</p>
-<p>杨东东_80412：安排好的发布会让领导人更加镇定与从容！</p>
-<p>泡泡茶崔保峰：都没见过这样挖坑的。</p>
-<p>李孟冉：说好的“喉舌”呢～</p>
-<p>狂狷_wb：哈哈，环球这个坑货，吃谁的饭砸谁的锅呢？！</p>
-<p>跟风看景：环球时报很有水平，这个也在太传神了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E8%BF%99%E4%B8%AA%E4%B9%9F%E6%98%AF%E7%94%A8%E5%BE%97%E5%A5%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E5%B8%83%E4%BC%9A/?category=18271" rel="tag">发布会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E6%98%AF%E4%B8%A7%E5%A4%B1%E4%BA%86%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E4%BA%89/" target="cdt-mirror">共识网 | 马云根：苏联解体是丧失了意识形态的争夺？</a>
-</h2>
-<p><p>作者：马云根</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/14706301_437109.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/14706301_437109.jpg" alt="14706301_437109" width="500" height="355"></a><br>
-资料图：“八一九”事件中，叶利钦站在坦克上发表演说</p>
-<blockquote><p>摘要：连帝国主义都发现的问题，苏联内部也一定能够发现，问题出在，具有唯一真理的情况下，指出错误的本身就是错误。乔治·凯南给美国政府的建议是，为了避免毁灭，并美国只需达到其民族之最好传统, 同时证明值得作为一个伟大的民族而生存下去。</p></blockquote>
-<p>　　分析苏联解体，目前国内看到的是，我们作为同苏联意识形态相同的解读方式，认为其丧失了意识形态的争夺是根本的原因。进而触发了意识形态领域里的宣传加强和大力反腐、加强党的纪律的严格要求。</p>
-<p>　　苏联是被列宁打败，列宁有两个命题，其一、列宁说：“资产阶级国家由无产阶级国家(无产阶级专政)代替，不能通过‘自行消亡’，根据一般规律，只能通过暴力革命。其二、列宁说：“我们一向强调，我们是从国际观点看问题的，要在一个国家内实现像社会主义革命这样的事业是不可能的。”。资本主义必然衰亡有两个实现的途径，一是，无产阶级革命，如果没有无产阶级革命, 资本主义不会自行灭亡。为了推翻摇摇欲坠的制度, 一定要有来自无产阶级革命运动的最后推动力，这种推动力被认为迟早是要到来的。二是，社会主义国家要能证明自己有必将战胜自由主义宪政国家的非暴力方式。而作为美国，只需将苏联限制在只能采用第二种方式，并美国只需达到其民族之最好传统, 同时证明值得作为一个伟大的民族而生存下去。因为，社会主义要能证明必将战胜自由主义宪政国家，这就需要全体习惯于铁的纪律与服从(区别于自由主义宪政国家)，以此来赶超资本主义社会。当年的乔治·凯南准确的认识到，“莫斯科所定义的社会主义事业, 就是支持和发展苏联的力量。”和“国内外的共产主义者应当热爱与捍卫“ 社会主义祖国” —已经取得胜利的、作为社会主义力量中心的苏维埃社会主义联盟, 促进她的繁荣, 困扰与消灭她的敌人。”，苏联野心勃勃的在社会主义意识形态领域，享有独占真理和唯一的权威。占据真理而必然否定其他政治活动者，真理只有一个，视为革命的真理，其他的政治理论就只能是谬误，并也只能是反革命。</p>
-<p>　　至此，认识到苏联的行为将为自己制造敌人，众叛亲离成为必然。首先，民族国家是由民族神话养育的国家，而将自己的祖国改变成“ 社会主义祖国”的苏联，更是天方夜谭。其次，苏联国内则“因为一般说来全体党员历来习惯于铁的纪律与服从而不适应妥协与和解。如果团结遭破坏从而使党瘫痪,俄国社会将会出现难以描述的混乱和虚弱。因为我们知道, 苏联政权只是装着一群乌合之众的容器外壳而已。在俄国根本没有地方政府这类东西。目前这一代的俄国人从不知道自发的集体行为。假如出现一些情况, 破坏了作为政治工具的党的团结与效率, 那么苏联很可能会在一夜之间, 由一个最强大的国家变为一个最弱的、最可怜的国家之一。”达到这一条件，只需要限制苏联开展暴力革命，苏联被迫只能用建立一个社会主义国家的成功，来显示能够战胜自由主义宪政国家。列宁的第二个命题将成立，斯大林的在一个国家里建立社会主义国家的雄心将破产。为此，以美国为首的西方国家，建立了冷战体系拉下铁幕。</p>
-<p>　　与我们认识的绝不相同，苏联的崩溃，竟然不是因为意识形态的丢失，而是意识形态的坚定不移引发的梦碎。首先，他们强调资本主义与社会主义之间固有的对抗。这个观念是如此之深地嵌人苏联政权基础中，不可能真正地相信自己与资本主义强国的目标有一致的地方。任何同西方的协议与妥协，被迫用权宜之计来解读，而任何的权宜之计，在事实上，都将会使政府的威严和信誉受损，这是必然的结果。其次，用真理战胜现实，扭曲了国家的目的。国家的目的，是为了生存在这个社会的大多数人，都能终其一生享受健康、和平、自由与繁荣这一美好的理想。而真理却是要国民放弃这个现实的目的，去实现未来的真理。强调意识形态的坚定，是在要求别人必须具备意识形态的坚守，最终自己也不得不被迫加入了这个竞争当中，而党要清除党内意识形态里的肮脏之人，更需要找到绝对干净之手来做，党内的清洗不可避免的展开。没有污渍的干净要求，使党的干部要么变本加厉，成为变态的意识形态中神经紧张者，要么谎话连篇，成为乌合之众是个必然。革命者被革命，从而判断苏共党员会失去了对党的忠诚，夺权为钱才是立命之本。如今的结果，苏联“共产党是唯一一个在他们自己的葬礼上致富的党”。</p>
-<p>　　连帝国主义都发现的问题，苏联内部也一定能够发现，问题出在，具有唯一真理的情况下，指出错误的本身就是错误。乔治·凯南给美国政府的建议是，为了避免毁灭，并美国只需达到其民族之最好传统, 同时证明值得作为一个伟大的民族而生存下去。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E6%98%AF%E4%B8%A7%E5%A4%B1%E4%BA%86%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E4%BA%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86%E7%BD%91/?category=18271" rel="tag">共识网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B7%E6%88%98/?category=18271" rel="tag">冷战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%97%E5%AE%81/?category=18271" rel="tag">列宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93/?category=18271" rel="tag">苏联解体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">资本主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91%E6%A0%B9/?category=18271" rel="tag">马云根</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -966,7 +1026,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -976,5 +1036,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

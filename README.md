@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/bigertech-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%BF%99%E4%B9%88%E6%9C%9F%E5%BE%85%E8%B0%B7%E6%AD%8C%E5%9B%9E%E5%BD%92%EF%BC%9F%E5%9B%A0%E4%B8%BA%E7%99%BE%E5%BA%A6%E5%AE%9E%E5%9C%A8/" target="cdt-mirror">Bigertech | 为什么我们这么期待谷歌回归？因为百度实在太黑了</a>
+</h2>
+<p><p>最近无意中看到了一个名词“百度全家桶”。我感到十分惊讶，没想到阔绰的百度已经研发出了百度全家桶以飨网友，并且覆盖了PC端到手机端，全平台工作做得十分到位，让人倍感欣慰。哦对了，我们是不是应该先知道百度全家桶是什么？我们问问度娘吧。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/1.png" alt="1" width="640" height="409"></a></p>
+<p>好吧······为了准确，我还是通过谷歌，搜索一下词条“百度全家桶”，</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2.png" alt="2" width="640" height="355"></a></p>
+<p>它真的给了。点进了第三个链接，维基百科的词条。因为妈妈对我说，维基会给我答案。在“涉及产品”里：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/31.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/31.png" alt="3" width="640" height="513"></a></p>
+<p>复制过来是这样的：</p>
+<blockquote><p>PC端、百度卫士、百度杀毒、hao123、橘子浏览器、百度浏览器、百度拼音输入法、百度音乐、桌面百度、爱奇艺播放器、PPS、百度影音、百度日历、奇迹MU、百度软件管理、百度电脑专家、百度手机助手、百度阅读器、百度游戏大全、百度游戏加速、百度壁纸、百度下载助手、百度工具栏。</p></blockquote>
+<p>你以为这就完了？这才刚开始呢，PC端、PC端，PC端完了手机端。</p>
+<blockquote><p>手机/平板端、手机百度、百度手机助手、百度浏览器、百度地图、百度魔图、hao123、百度新闻、百度贴吧、百度手机卫士、百度文库、百度导航、百度锁屏、百度知道、百度旅游、百度百科、百度输入法、百度一键root、百度宝宝知道、百度糯米、百度图片、百度阅读、百度翻译、百度魔拍、百度刷机、百度游戏、百度外卖、百度团购、百度日历、百度乐播、百度相机、百度贴吧青春版、百度理财、百度游戏大全、百度多酷棋牌、百度天眼、百度财富、百度医生、百度手柄、百度德州扑克、百度路淘、百度聚聚、百度滴答、百度钱包。</p></blockquote>
+<p>我已经被吓哭了。</p>
+<p>为了推广这些产品，让它们能最后成功的装到你的设备上，百度还通过各种各样的视觉欺骗，来勾引用户安装他们的产品。比如，在角落里替你早早地打好一个小勾，或者用各种色块混淆你的注意力，比如这样：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4.png" alt="4" width="600" height="183"></a></p>
+<p>或者这样：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/5.png" alt="5" width="504" height="303"></a></p>
+<p>是不是特别想点取消？</p>
+<p>然后你的后台就变成了这样：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/61.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/61.png" alt="6" width="600" height="448"></a></p>
+<p>优酷上有一个安装全家桶的视频，在这里分享给大家： <a href="http://http//v.youku.com/v_show/id_XMTM0Mjk2NDM1Ng==.html">百度正常下载全家桶实验</a></p>
+<p>装一个送三个，这就是传说中的静默安装。</p>
+<p>更要命的是百度这些应用，并不仅仅是为了推广自己的应用，让你用而已。它还有更深层次的目的，那就是进一步的利用这些软件来收集你的个人信息。比如，我们到酷安网上看看：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/7.png" alt="7" width="614" height="880"></a></p>
+<p>比同为BAT巨头的鹅厂多了近三倍······真不知道百度要拿输入法来做什么，似乎是在下很大一盘棋的样子。</p>
+<p>看了这么多，现在我们大概可以看出了一个百度的作恶闭环：百度用自己搜索引擎的优势，在下载你需要的软件的同时，用一些你注意不到的伎俩，在你不知情时诱导你下载百度的产品，而当你下载了一个百度产品之后，接着通过静默安装这种流氓行径，来强行推广自己更多的产品，也就是百度全家桶。而这些全家桶干的事儿表面上看来可能是表面一回事儿，但背地里可能又是一回事儿了。靠广告为生的企业，觊觎用户的隐私再正常不过，因为它们的存在就是需要利用这些隐私，给你投送更多的广告，给自己谋取更多的利益。但百度作为互联网巨头，掌握了我们这么多隐私，却也没玩出什么新鲜东西来，依然还是靠广告主养活，依然不断地向我们索要更多的隐私，似乎就这么点追求了。</p>
+<p>那么反观百度真正的老本行，他们在搜索引擎市场表现如何？不难预料，自从谷歌退出中国之后，百度也因此获得了更广阔的土壤和更多的机会，让自己变得更加糟糕起来。</p>
+<p>在原来，我们一般认为关键词的广告大部分应该在页面右侧，然后标明为推广链接。像这样：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/8.png" alt="8" width="640" height="363"></a></p>
+<p>大家都知道要赚钱，所以右边有一些推广链接是可以理解的，只是不要妨碍正常使用就好了嘛。可当我觉得自己已经很宽容的时候，百度却不这么想。它根本不在乎你的使用体验，开始在所有的搜索信息里见缝插针地插入广告。哦不对，或许根本不是见缝插针，而是完完全全的广告先行。百度的原则想必非常简单，与自己业务没有冲突的，谁给的钱多把谁摆在前面，能摆多少摆多少。最直观的莫过于三大领域：金融，健康，教育。比如搜索白银：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9.png" alt="9" width="640" height="562"></a></p>
+<p>屏幕第一页没有任何有用的资讯，全都是推广链接。得往下拉一页，才能看到走势和新闻还有百科等相对有效的信息。搜索任何一个金融关键词都是如此，你只能看到无数的机构广告。</p>
+<p>搜索“世界大学排名”，出来的前几页，必然全是中介机构。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/10.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/10.png" alt="10" width="640" height="579"></a></p>
+<p>你也可以搜索任何一个资格证书的考试，得到的也全是培训机构的广告。</p>
+<p>随便搜索一个病的名称，你都能得到整整五页的广告。如果你的关键词是人流，男性疾病这种让人觉得并不那么光明正大的病症，你得到的搜索反馈则会更加触目惊心。试想看，你因为突发情况需要在室外百度一下问题，而你只能在手机上看到百度给你一个经过强制转码外加广告的、毫无实际内容可言的推广链接。这种欲哭无泪的心情，想想就够了。</p>
+<p>因此，对于百度而言，任何你能想象到有利益可寻的关键词，它们返回的结果都能让你大开眼界。而且百度根本不在意自己的推广链接是否具有欺诈性。</p>
+<p>刚刚这些，仅仅是与百度没什么冲突的业务，如果你的业务和百度相冲突了呢？要么，像刚刚说得，将自己的利益摆在你之前，诱导客户去用它的产品。要么，就进行封杀，这对所有国内的网站来说都是灾难性的。诱导用户使用自己的产品，这个时候的百度，可以说是一个小偷。而“封杀”这种行径，则使它同时又像一个面目狰狞，挥舞着大棒的打手。</p>
+<p>现在的百度似乎已经不再是作恶的人，而自己就已经成为了一个恶的化身。</p>
+<p>百度的本土化，会在某些方面让人诧异，以至于你可能会很费解，认为这还是一个非常不正经的公司。最典型的案例就是你现在同时在百度图片和谷歌图片搜索“护士”：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/11.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/11.png" alt="11" width="640" height="400"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/12.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/12.png" alt="12" width="640" height="400"></a></p>
+<p>这种结果的不同，或许体现了百度眼中的中文搜索引擎应该有的样子。根据百度的调性，人为调试出这种结果我也不会感到惊讶，毕竟时过境迁，百度没了谷歌这个竞争对手之后，发展出了出了自己的风格。而从来不曾改变的是百度那句名言：根据相关法律法规和政策，部分搜索结果未予显示。</p>
+<p>相比之下，谷歌有着各种各样比百度完善的产品：宇宙级的杀手应用 Gmail；相比国内应用市场显得健康而安全的 Google Play Store；让人倍感震撼的 Google Earth；世界通行的 Google Map；以及在网络上播撒文明火种的 Google Art Project；对学术工作者极其重要的Google Scholar还有免费的在线办公软件Google Doc。</p>
+<p>而以上这些产品还只是从谷歌搜索，这个核心业务衍生出来的大生态圈。谷歌搜索相较于百度搜索的准确性，那是不知道高到哪里去了。你随手搜一搜，就能在互联网上找到数不清的例子来证明这一点。我们只能说，百度的“恶”，简直是罄竹难书。</p>
+<p>这是一个什么样的时代？这个地球上市值最大的公司是苹果，市值已经超过了七千亿美金。创造了资本主义的历史。科技产品在这个时代几乎被抬高到了消费产业的顶端。而苹果之所以辉煌如此，能说这其中没有三星的作用吗？百度之所以沦为今天这个样子，想必与它在国内失去了竞争对手，并且用流氓手法打压竞争对手不无相关。就百度自身而言，这种一家独大在一开始，似乎是好的。但是到了现在，大家都知道腾讯、阿里还有百度这三个互联网巨头，百度是那个动作最慢的那个。大概是贪婪和傲慢迷住了百度双眼吧。</p>
+<p>我们并没有期待，谷歌是一个如何的“不作恶”，如何高尚的圣人。毕竟百度和谷歌的主要业务之一就是通过掌握一定的用户隐私来更好的卖广告。但关键在于，我们作为消费者能够面对一个较为健康的互联网环境。这无非是当其中的一个厂商做了“恶”的时候，我们作为用户，有权利为自己换一个服务，将自己口袋里的钱给另一拨，你觉得做得更好的人。而不同的厂商，也会因为用户的切换摇摆而改进自身服务，提高自己做事的姿势的水平。这多多少少，都会提高用户的使用体验。而这也是为什么，我们都希望谷歌能够早日重返大陆的原因。因为这不论是对百度，对谷歌，还是我们每个普通人而言，都是一件好事。</p>
+<p>不多说了，最后让百度用一张图，告诉我们谷歌有多厉害，毕竟谷歌旗下有着“最全最准的免费地图”——百度地图。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/13.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/13.jpg" alt="13" width="491" height="629"></a></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/bigertech-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%BF%99%E4%B9%88%E6%9C%9F%E5%BE%85%E8%B0%B7%E6%AD%8C%E5%9B%9E%E5%BD%92%EF%BC%9F%E5%9B%A0%E4%B8%BA%E7%99%BE%E5%BA%A6%E5%AE%9E%E5%9C%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/?category=18271" rel="tag">搜索引擎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E6%B0%93%E8%BD%AF%E4%BB%B6/?category=18271" rel="tag">流氓软件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%A8%E6%88%B7%E9%9A%90%E7%A7%81/?category=18271" rel="tag">用户隐私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8A%E6%B5%B7%E5%89%AF%E5%B8%82%E9%95%BF%E3%80%81%E5%8C%97%E4%BA%AC%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9B%B8%E7%BB%A7%E8%A2%AB%E6%9F%A5/" target="cdt-mirror">纽约时报 | 上海副市长、北京市委副书记相继被查</a>
 </h2>
 <p><p>据中纪委网站消息，北京市委副书记吕锡文被调查。北京“首虎”落马。昨日，上海副市长艾宝俊被调查。</p>
@@ -915,37 +973,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%B8%AD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%96%B0%E9%97%BB%E6%88%90%E4%BA%86%E6%B0%91%E4%BC%97%E7%9A%84%E8%BF%B7%E5%AE%AB/" target="cdt-mirror">宋志标：不要让新闻成了民众的迷宫</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/64031.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/64031.jpg" alt="6403" width="425" height=""></a></p>
-<blockquote><p>今天是记者节。这是一篇悲伤却清醒的文章，献给读者，也献给我们自己。</p></blockquote>
-<p>如果被当做是一个批评的对象，“新闻界”是不被承认的。一方面是残存的自由主义媒体原则，将此间仍在扩张的政治计划视作是耻辱，以虚假标签抵挡实质性的降服；另一方面则是，在事实上收复了失地的党媒，权势扶植成为原罪，更愿意用党性更强的词汇取暖。</p>
-<p>市场化媒体在中国二十年来了又去，专业主义原则终于成为幽灵，念念不忘的转型之战演变成不尽的输诚之举，行业规模及声誉以戏剧性的方式萎缩，在巩固权威的出发点上，美好的初心频频遭到粉碎，不受惩罚的作恶者与不负责任的无所事事者，并存。</p>
-<p>仅仅挑选最近发生的几个事例，也足以看见新闻行业有多糟糕，或者说有多残酷。网信办开始发放记者证，这是一个具有象征意义的事件。它宣告了一批中央网媒成为其嫡系势力，从此有了基本盘；也可以看出，在塑造权威的道具库里，他们又多出几件盔甲。</p>
-<p>关于权威这个事情，始终在新闻界挥之不去。新生代宣告权威性，以便与旧媒体划清界限；就连旧媒体，也妄想着不死的权威，最好的代言就是“内容为王”——他们希望自身具备“父亲”一样的权威，即使破落或死掉，也拥有高人一等的种姓。</p>
-<p>但是在今天这个阶段，权威的获得不是靠良心，而是来自于权力的赋予。所以，这就造成了一幅奇特的景象：央媒在收获臃肿的权威外套，无论它看上去有多么滑稽；曾经的市场化媒体、如今的媒体破落户则在技术洪流中声嘶力竭地声张着“主流”。</p>
-<p>在劫掠权威的另一面，是对民众的态度，夹杂着急切占有与轻率蔑视这两种矛盾的情绪。民众被看做是“哑巴”，听凭摆布，是无辜者，新闻界变态地将其选择为猎物，并且对这种牺牲品情有独钟——无论是政治计划，还是创业变形记，都描绘了各自的猎物特性。</p>
-<p>专业主义与服务党性人民性，如此差异巨大的两个面向，正在被当前的新闻界着意地混为一谈。这让中国的媒体业表现出显著的精神病症：它们如此偏执地仇视真相，又像多疑症患者不信任到手的欺骗成果。新闻界通过效忠治愈了受迫害妄想，随后陷入了极端病变。</p>
-<p>从上海澎湃开始，新闻界就乐于讲述在父亲权威庇护下的成长故事，其中的套路之一，是大肆宣传种种逆流而上的牺牲。令人可笑的是，这种媒体故事会，引入了温顺的母亲角色，以回归“母亲”来歌颂父权叙事。自澎湃之后，无界、封面等加入这一阴暗的洪流。</p>
-<p>尽管一个多世纪来，自有新闻业开始，这个行当就不乏阴暗面。但与过去二十年甚至是三十年相比，现今的新闻界具有更多无法被光照亮的阴暗面。新闻界的“贤达”是那些善于将阴暗面涂上亮漆的人，他们被描绘成为新时代的理性者，具有抛弃理想时的决心与完美姿态。</p>
-<p>在官方叙事中，则是另外一回事。沈颢作为新闻理想主义的象征人物，在央视这一豢养巨兽面前忏悔“被毁掉的一生”，成为瓦解新闻界自由主义叙事的证据而反复播放。一种权威要打倒另一种权威，一种空洞无物的铁兽要利用大手术成为新闻界新的骨头。</p>
-<p>别看它宣扬出来的是风光无限，新闻界在内里充满着挫折感与不安全感。市场业绩骤降，迫使他们逼近态度暧昧的党产接收官早前所划定的界线。这种界线像深渊中的鱼一样难以捉摸，它用恐惧支配新闻界，令后者在手脚被束缚的状态下歌颂虚度之美。</p>
-<p>中国的新闻界只剩下一点点可怜的羞耻心，那就是迟迟不愿意宣布它们已经与社会脱节的现实。今日之新闻界，已经是社会问题中的关键部分，而不是超脱于问题并提供解决方案的那部分。新闻界用最后丁点遮羞布引诱各自的读者，就像猪笼草引诱着盲目的蚊子。</p>
-<p>就此而言，今日新闻界所自我标榜的“在场”，是一种伪装出来的托词，实际上一直处在被清场的进度条上。今日新闻界所宣称的“坚持与坚守”，更是汇入新型原罪的生产源头的一种原材料。有人想要抓住往日理性碎片，但这些溺水者的挣扎将拖埋更多东西。</p>
-<p>对于民众最好的建言，应该就是远离新闻界，甄别传媒。如果说过去的自由主义受众经验，曾经帮助读者脱贫那样，现今的民众应该树立无政府主义的阅读思路，像小心翼翼对待蔬菜农药残留那样对待信息。“有机新闻”非常稀少，这让中国人在信息时代的生存极其困难。</p>
-<p>民众应该反思的是对待新闻界的方式，以及在信息吸取上采取更为谨慎的态度。总的来说，除非甘做信息僵尸，否则，民众对新闻界及其兜售的信息资讯再也不能有灵魂上的融合。拒绝与新闻界及其信息模式成为一体，是在全球化与互联网下苟活的基本保全措施。</p>
-<p>伴随着新闻界规模的急剧萎缩，即使新媒体迅速被驯服，也喻示着铁板一块的新闻媒体行业所能释放的伤害，他们在新闻中掺杂的毒药药力，也在大幅度地衰减之中。无论它的技术面貌如何迭代，新闻传媒已不是集体话语的最好承载者，这是解药时可以念叨的符咒。</p>
-<p>新闻界不是起事的寄托，它们当不起，因此不要再对新闻传媒投放无节制的信任，这一点至少在公益界形成共识。切断不知所谓的需求，民众可以成为自己的疗伤大师。石化了的新闻界，自有其崩溃的命运，不需要用信仰之手去阻止这一进程的加速到来。</p>
-<p>在自由主义新闻原则下成长起来的刘伟，蜷缩在腐朽的媒体上自认调查报道所陷入的“歧路”，掌搧了那些不正视疾病隐喻的人。新闻业已经是社会失败的中心，不会再有新的新闻界，这是三年、五年甚至七年中可以判定的事实之一。只有真正的决绝，才能开启新的新闻史。</p>
-<p>总之，在新闻界荒芜的一面，许多人是可以熟练承受这一切的。假如有问题的话，问题只是一个：不要让新闻成为你的迷宫。质言之，不要让新闻传媒成为民众的迷宫。早前，社会一直低估了虚假的力量，如果你拒绝认清这一点，你就会加入其中，成为虚假与石化的变形。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%96%B0%E9%97%BB%E6%88%90%E4%BA%86%E6%B0%91%E4%BC%97%E7%9A%84%E8%BF%B7%E5%AE%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E8%8A%82/?category=18271" rel="tag">记者节</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -967,5 +994,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

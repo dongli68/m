@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,81 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%99%BD%E6%AF%9B%E5%A5%B3%E5%9B%9E%E5%BB%B6%E5%AE%89%EF%BC%9A%E7%89%9B%E5%A4%B4%E9%9A%BE%E5%AF%B9%E9%A9%AC%E5%98%B4%E7%9A%84/" target="cdt-mirror">美国之音 | “白毛女”回延安：牛头难对马嘴的“革命教育”</a>
+</h2>
+<p><div>
+<div>作者：何清涟</div>
+</div>
+<div>
+<div>
+<p><strong>编者按：这是何清涟为美国之音撰写的评论文章。这篇特约评论不代表美国之音的观点。转载者请注明来自美国之音或者</strong><strong>VOA</strong><strong>。</strong></p>
+<p>中共的红色革命文艺一直寓有政治教化目的，但这次由第一夫人彭丽媛亲任艺术指导的白毛女重回延安首映，却让我彻底糊涂了。套用一段最著名的毛主席语录，那就是：谁是当代杨白劳？谁是当代黄世仁？这个问题是革命的首要问题。中国经济总是深陷债务泥潭，其基本原因就是因为债权人债务人都是自家儿女。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/0A30A441-0155-42EF-853D-1BD4150A7E5A_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/0A30A441-0155-42EF-853D-1BD4150A7E5A_w640_r1_s.jpg" alt="0A30A441-0155-42EF-853D-1BD4150A7E5A_w640_r1_s" width="550" height="309"></a><br>
+中国第一夫人彭丽媛到达联合国总部，出席全球妇女峰会（2015年9月27日）</p>
+<p><strong>债权人与债务人都是自家人</strong></p>
+<p>《白毛女》这部戏，相信50岁以上的中国人大概还记得其主要内容：贫农杨白劳因家贫向地主黄世仁借钱，无力偿还，在债主多方催逼之下，杨白劳被迫喝卤水自杀，女儿喜儿被迫逃入深山，成为白毛女。幸亏中国共产党领导穷人闹革，打倒地主阶级，枪毙了黄世仁，喜儿才得以与已经成为革命军人的大春喜结连理，翻身得解放。</p>
+<p>习总伉俪重续当年革命样板戏薪火，再将阶级斗争引入中国红色文艺，足证他们对穷人即举债者的感情非常深厚。但我仔细一想，如今这地主阶级究竟是谁？在划定成分这第一步上，就让人愁呀愁，愁白了头。</p>
+<p>全国的土地统归国有与集体所有。国家的代表当然是中共政府。这“集体”的代表也不是外人，就是各县市的地方政府，地方政府的上级是中央政府，与中央政府打断骨头连着筋。因此，眼下全中国只有一家大地主，即中共政府。数亿农民全都是只有使用权（耕种权）的佃户。那租金虽然承蒙上届政府在2003年税费改革时恩免了，但土地所有权还由唯一的大地主掌控。因此，如果号召打倒地主阶级，就等于号召数亿农民在中共总书记习近平的领导下，去打倒中共各级政府，“让土地回家”。</p>
+<p>打倒地主看来很困难。那就领会白毛女的另一寓意，号召杨白劳们站起来打倒债权人。中国国有商业银行毫无疑问是最大的债权人，但中国人民却不是最大的债务人。据说中国个人消费信贷处于起步阶段，只占客户贷款总额的3.5 %左右。民企贷款也很困难。能够在国有商业银行大规模举债者，只有国企与地方政府，地方政府这位杨白劳就积欠20多万亿巨额债务至今未还。如今中国银行系统的坏帐率据说高达8.1%（法国里昂证券估算数据），存在着7.5万亿元人民币的资本缺口，这数字超过中国GDP的十分之一。除了这些杨白劳之外，还有一位很大个头的杨白劳，那就是如今身陷秦城的前渝督薄熙来。为了唱红打黑，这位“薄白劳” 主政重庆时，全部地方融资平台余额应该在4620亿元左右，现全部成为银行的坏帐。</p>
+<p><strong>手背手心都是肉，倒黄扶杨皆心焦</strong></p>
+<p>以上分析证明，中共政府是全国唯一的大地主，中共政府控制的国有银行及商业银行就是中国国企、地方政府、民企、个人借贷者的债权人。如果将《白毛女》一剧的角色置换进去，中共政府及其控制的国有金融系统就是黄世仁，大大小小的国企，以及各级地方政府、民企、个人借贷者（包括入狱的薄熙来）就是杨白劳。</p>
+<p>在分清了“谁是我们的敌人、谁是我们的朋友”这个“革命的首要问题”之后，真正的难题来了：习总书记能够将黄世仁拉出去枪毙吗？</p>
+<p>杨白劳当中的小部分，比如在银行借贷的民企与个人，对于《白毛女》的革命寓意，即打倒黄世仁、烧毁债约、“土地回家”的做法，当然欢迎之至。从此无债一身轻，还不起债的民营企业家用不着跑路，个人不用担心不能还贷时失去住房，但这部分人是杨白劳群体中的少数成员。</p>
+<p>真正的杨白劳们都是国企。这点连外国金融评估机构都很清楚，比如里昂证券在分析中国金融系统那7.5万亿的坏帐时，很清楚地指出这些坏帐的形成主要缘于国企、房地产开发公司的借贷，以及地方政府的债务。</p>
+<p>房地产开发公司当中，也有不少是国企，因此，杨白劳的主体就是中共自家亲儿女。国企一直被称为“共和国长子”，地方政府本来就是中共的肢体，好比手、脚、臂膀什么的。更困难的问题是：黄世仁们即国有银行也是中共政府的血液循环系统，打倒黄世仁，扶持杨白劳，就算不是大放血，也算得上剜肉补疮。在倒黄与扶杨二者之间，如何把握分寸，当真不容易做出选择。</p>
+<p>好在中共政府从来就是敢想敢干。最近就干了一单这种剜肉补疮的事情，根据中国财政网公布的数据，中国国有企业9月末总体债务规模达到78万亿元人民币，超过中国GDP的总量。更让人吃惊的是，仅9月份一个月，中国国企整体债务增长就达到了惊人的6万亿人民币，这是中国国企最大幅度的月度债务增加量。对此，安信证券分析师罗云峰表示，“这是一次史无前例的杠杆化操作……一些原本被归为政府债务的债务被重新划归成了国有企业债务”。</p>
+<p>这等于说，“手脚”即地方政府背负的债务，中央政府现在将其卸下，放到了“长子”背上。这种处理债务的方式，只有在中共管治下的中国才会出现。</p>
+<p><strong>“毛爷爷”能做的事情，“习大大”为何做不到？</strong></p>
+<p>习近平接任中共掌门人大位之后，既想做毛泽东的传人，拥有毛那样一言九鼎的最高权威地位；又想接过邓小平打造的“大钱袋”，因为做个穷而大的弱国领导人，那滋味毕竟不太好受。这次让第一夫人做艺术指导，重排革命样板戏中的长寿剧《白毛女》，并让其在革命圣地延安首演，毫无疑问是想向中国人释放一种政治信号。只是这信号到底是什么，恐怕他连自己也未必了然。</p>
+<p>毛在文革前及文革中，让其夫人江青指导编排了八个革命样板戏，与毛对中国社会状况及其主张的革命路线有关。尽管毛已经在50年代初完成了消灭地主阶级与改造工商业的革命任务，消灭了私有制，但一直坚持阶级斗争理论，并发展出了一个“党内走资派还在走”的“理论”，据此主张“无产阶级专政下继续革命”。既然要“继续革命”，那些以诉苦、推翻地主阶级与旧政权、让穷人翻身的革命样板戏，就理所当然地成了中共用来教育民众的手段。</p>
+<p>经过邓、江、胡三代，中国现有的经济结构已经成为以工商业为主体的经济结构，完全不同于毛时期那种小农经济与早期工业化并存的经济结构。中共虽然依旧垄断政治、经济、文化资源，是全国唯一的大地主、最大的资本集团，但各级统治集团成员的家族也成为大大小小的资本所有者，底层人民依旧贫困。“习大大”如果想继承“毛爷爷”那“无产阶级专政下继续革命”的伟业，先得叛党，与中共决裂。近三年，他已经与周永康等一系利益集团决裂，但是还不够，还得更彻底一些，将薄熙来路线即用金钱为凝聚力、从社会底层汲取社会支持的道路贯彻到底，摧毁现有的统治集团。</p>
+<p>今年以来，习近平在股市上演了一场权力与市场的恶斗，因为斗不过市场，就开始斗市场的主体——大大小小的资本所有者，这场斗争目前炉火正旺。由于担心“习大大”走上薄熙来道路，权力与资本的同盟已开始瓦解，资本外流非常严重，自2014年6月至今年9月，中国外汇储备已减少5000亿左右。如今在延安首映以废除债务、消灭地主阶级为主诉的革命样板戏《白毛女》，只能让资本产生更强的恐慌感。</p>
+<p>治国之策必须三思而后行，最忌胸无定算，一会向左，一会向右，如同road swing（路上左右飘忽行驶）。美国的Driver’s manual（驾驶者手册）告诫驾驶员，一是不要做road swing，二是见到road swing就要避开。习近平的忽左忽右，与胡锦涛十年的政左经右有很大不同。胡政治上坚持左，但并未在经济政策上贯彻“左”的路线，中国这辆车好歹还能继续开下去。但习总却将车开成了高速公路上的road swing，不仅自己危险，还给其他车辆造成阻碍，容易撞车、翻车。</p>
+</div>
+</div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%99%BD%E6%AF%9B%E5%A5%B3%E5%9B%9E%E5%BB%B6%E5%AE%89%EF%BC%9A%E7%89%9B%E5%A4%B4%E9%9A%BE%E5%AF%B9%E9%A9%AC%E5%98%B4%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85%E6%B6%9F/?category=18271" rel="tag">何清涟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85%E6%B6%9F%E5%8D%9A%E5%AE%A2/?category=18271" rel="tag">何清涟博客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%89%88%E5%A4%A7%E5%9E%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E7%99%BD%E6%AF%9B%E5%A5%B3%E3%80%8B/?category=18271" rel="tag">新版大型歌剧《白毛女》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B7%E6%9D%BF%E6%88%8F/?category=18271" rel="tag">样板戏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%AF%9B%E5%A5%B3/?category=18271" rel="tag">白毛女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%96%87%E9%9D%A9%E6%98%A5%E9%A3%8E%E5%90%B9%E6%BB%A1%E5%9C%B0%EF%BC%8C%E5%9B%BD%E6%AF%8D%E5%86%8D%E5%AF%BC%E6%A0%B7%E6%9D%BF%E6%88%8F/" target="cdt-mirror">【河蟹档案】文革春风吹满地，国母再导样板戏</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%91%E7%BB%B4">郑维</a>：央视不播马讲话，结果15分钟内马讲话刷满各种社交媒体，习讲话倒是没人贴了。其实习马会前，双方的公开讲话肯定都交过底，能见面就都不会给对方难看，央视不播马的讲话，实在是缺乏信心。<em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E6%8E%90%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E-%E8%A2%AB%E7%BD%91%E6%B0%91%E6%89%B9%E4%B8%8D%E8%87%AA/">“习马会”央视直播掐马英九致辞 被网民批“不自信”</a>》</em><br><a href="https://freeweibo.com/weibo/3906576454508000" target="/weibo/390">2015年11月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%90%B4%E9%93%AD">吴铭</a>：SPAM “也是”，神来之笔！ <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B9%A0%E9%A9%AC%E4%BC%9A%E6%8A%A5%E9%81%93%E4%B8%AD%E7%9A%84%E4%B9%9F%E5%AD%97%EF%BC%9A%E8%AE%BA%E3%80%8A/">【立此存照】“习马会”报道中的“也”：论《环时》的高级黑属性</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44412.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44412.jpg" alt="444" width="409" height="727"></a><br><a href="https://freeweibo.com/weibo/3906597031725551" target="/weibo/390">2015年11月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40Centralperk%E8%80%81%E5%8F%8B%E8%AE%B0">Centralperk老友记</a>：连王健林都成敏感信息了，看来传言都是真的…//*<a href="https://freeweibo.com/weibo/%40%E5%AE%89%E6%99%AE%E8%8B%A5-%E5%A4%96%E5%8F%B7%E5%AE%89%E6%A0%A1%E9%95%BF">安普若-外号安校长</a>：万达集团董事长王健林星期四在哈佛大学主讲“公开课”，回应了有关问题。但是，财新这篇报道王健林赞扬“治国严，治家更严”的文章几个小时后就从财新网上被撤下。<em>相关阅读｜《<a href="http://china.dwnews.com/news/2015-11-02/59692313.html">多维<em>｜</em>事涉敏感？ 王健林哈佛演讲实录被删</a>》；《<a href="https://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%8E%8B%E5%81%A5%E6%9E%97%E3%80%81%E9%BD%90%E6%A1%A5%E6%A1%A5%E5%92%8C%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/">【立此存照】王健林、齐桥桥和秦川大地</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/444.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/444.jpg" alt="444" width="314" height="558"></a><br><a href="https://freeweibo.com/weibo/3904754335808362" target="/weibo/390">2015年11月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%99%93%E8%BE%B0">晓辰</a>：SPAM [哆啦A梦微笑]小編，大校，妳們還想不想吃這碗飯了?。。。//*<a href="https://freeweibo.com/weibo/%40chnzhlv">chnzhlv</a>：无锡日报的编辑可以回家过记者节了<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4445.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4445.jpg" alt="444" width="522" height="391"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4446.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4446.jpg" alt="444" width="353" height="471"></a><br><a href="https://freeweibo.com/weibo/3906153609751625" target="/weibo/390">2015年11月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%9E%E9%B3%B4%E4%B9%8B%E5%89%8D">雞鳴之前</a>： //*<a href="https://www.facebook.com/%E9%99%B3%E5%85%B6%E9%82%81-Chen-Chi-Mai-122936517768637/?fref=nf" target="_blank">陳其邁 Chen Chi-Mai</a>：尷尬！！看馬先生記者會，才說完戴國旗胸章會尷尬。結果看央視國旗就不見了！螢幕連那一丁點國旗色塊都不放過，徹底完封ROC。看來，「一中各表」没了，只能一中框架。而且還「不能說中華民國存在」! <em>相关阅读｜《<a href="https://www.thestandnews.com/china/%E9%A6%AC%E7%BF%92%E6%9C%83-%E5%A4%AE%E8%A6%96%E5%A0%B1%E9%81%93%E9%A6%AC%E8%8B%B1%E4%B9%9D%E8%A8%98%E8%80%85%E6%9C%83-%E6%89%93%E6%A0%BC%E9%81%AE%E8%93%8B%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97/">立场新闻<em>｜</em>【馬習會】央視報道馬英九記者會 打格遮蓋中華民國國旗</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4448.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4448.jpg" alt="444" width="413" height="483"></a><br><a href="https://freeweibo.com/weibo/3906835528659231" target="/weibo/390">2015年11月08日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%91%E7%BB%B4">郑维</a>：看完<a href="https://freeweibo.com/weibo/%E4%B9%A0%E9%A9%AC%E4%BC%9A">#习马会#</a> 蔡英文脸书更新：<em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E6%97%B6%E7%94%B5%E5%AD%90%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%94%BB%E5%87%BB%E8%94%A1%E8%8B%B1%E6%96%87%E8%84%B8%E4%B9%A6%E6%83%A8%E9%81%AD%E6%B4%97%E7%89%88/">中时电子报</a><a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E6%97%B6%E7%94%B5%E5%AD%90%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%94%BB%E5%87%BB%E8%94%A1%E8%8B%B1%E6%96%87%E8%84%B8%E4%B9%A6%E6%83%A8%E9%81%AD%E6%B4%97%E7%89%88/"> |</a><a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E6%97%B6%E7%94%B5%E5%AD%90%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%94%BB%E5%87%BB%E8%94%A1%E8%8B%B1%E6%96%87%E8%84%B8%E4%B9%A6%E6%83%A8%E9%81%AD%E6%B4%97%E7%89%88/"> 中国网友攻击蔡英文脸书惨遭洗版</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44410.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44410.jpg" alt="444" width="426" height="758"></a><br><a href="https://freeweibo.com/weibo/3906660249073189" target="/weibo/390">2015年11月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%B9%B3%E5%A3%A4%E5%B4%94%E6%89%BF%E6%B5%A9">平壤崔承浩</a>：今晚满屏都是“多么伟大…”、“70年重现…”、“改写历史…”云云的矫情话，其实小崔想说的是70年前他们谈完以后就打起来了好么。[挖鼻][挖鼻][挖鼻]<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44411.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44411.jpg" alt="444" width="389" height="265"></a><br><a href="https://freeweibo.com/weibo/3906651138354869" target="/weibo/390">2015年11月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%A8%E6%9E%9C%E4%B8%AD%E8%8D%AF%E5%BA%97">雨果中药店</a>：文革春风吹满地，国母再导样板戏。喜儿重拾汉阳造，大春又闹分田地。前朝地痞斗地主，本朝地主刮地皮。莫道今上恤民意，且看国际大撒币。若云当朝反腐急，请君笑看信访局。喜儿重生纪兰举，大春再世才厚题。老戏新唱迎圣意，勿当平民有议席。世事轮回一甲子，江山依旧啜血啼。<em>相关阅读｜《<a href="http://cn.nytimes.com/china/20151111/c11sino-white/">纽约时报<em>｜</em>新版<白毛女>延安首演，彭丽媛任艺术指导</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44413.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44413.jpg" alt="444" width="470" height="351"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44416.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44416.jpg" alt="444" width="520" height="343"></a><br><em>新版革命剧《白毛女》中的一个场景，该剧已经在中国革命圣地延安举行首演（图片：纽约时报）。</em><br><a href="https://freeweibo.com/weibo/3907228463325014" target="/weibo/390">2015年11月09日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%82%93%E5%BA%B7%E5%BB%B6">邓康延</a>：杨继绳瑞典获奖致辞： 评委会给《墓碑》授奖,体现了评委会的人道关怀。在我结束讲话的时候,让我们一起为 3600 万饿死的农民默哀!。我为此表示衷心地感谢!这是对中国饿殍远离万里的默哀,是迟到五十多年的默哀, 人道关怀超越了时间,超越了国界… <em>相关阅读｜</em>《<em><a href="http://blog.dwnews.com/post-853295.html">多维｜墙里开花墙外红，杨继绳<墓碑>再获奖</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44414.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44414.jpg" alt="444" width="365" height="242"></a><br><a href="https://freeweibo.com/weibo/3908016702909435" target="/weibo/390">2015年11月11日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E8%94%A1%E6%97%B6%E8%AF%84">老蔡时评</a>：中国几乎一夜之间新增20项罪名， 删除1项嫖宿幼女罪，却换来诸如拒不履行信息网络安全管理义务罪，非法利用信息网络罪，帮助信息网络犯罪活动罪，扰乱国家机关工作秩序罪，组织、资助非法聚集罪，编造、故意传播虚假信息罪，泄露不应公开的案件信息罪，披露、报道不应公开的案件信息罪等，令人恐怖。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf3-11022015144535.html">自由亚洲<em>｜</em>中国刑法新增20项罪名 被指意在打压维权民众</a>》</em><br><a href="https://freeweibo.com/weibo/3904002649445877" target="/weibo/390">2015年10月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%9C%89%E4%B8%AD%E7%8E%8B">眉中王</a>：腾讯新闻的这条新闻配图注定要火一把。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44426.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44426.jpg" alt="444" width="440" height="422"></a><br><a href="https://freeweibo.com/weibo/3904166071845148" target="/weibo/390">2015年11月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%8B%E5%B8%88%E7%8E%8B%E5%AD%A6%E6%98%8E">律师王学明</a>： <a href="https://freeweibo.com/weibo/%40%E6%9C%80%E9%AB%98%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2">@最高人民法院</a> 的周强院长，你真的读过法学院吗？我看真的不像。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4442.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4442.jpg" alt="444" width="426" height="303"></a><br><a href="https://freeweibo.com/weibo/3905536963220306" target="/weibo/390">2015年11月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%91%E7%BB%B4">郑维</a>：<a href="https://freeweibo.com/weibo/%E7%8B%AE%E5%9F%8E%E4%B9%A6%E5%8D%95">#狮城书单#</a> //*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%98%B3%E8%8C%B9">陈昳茹</a>：SPAM 书单列得这么快，奋起直追也追不上了。</p>
+<blockquote><p><em>相关阅读：《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%99%92%E4%B9%A6%E5%8D%95%EF%BC%9A%E5%BC%84%E5%B7%A7%E6%88%90%E6%8B%99%E7%9A%84%E5%BD%A2%E8%B1%A1/">何清涟：习近平晒书单，弄巧成拙的形象公关</a>》</em><br><em>《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B9%A6%E5%8D%95%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%95%BF%EF%BC%9F/">端传媒 | 习近平的书单为什么这么长？</a>》</em><br><em>《<a href="http://chinadigitaltimes.net/chinese/2015/10/%E9%80%BB%E8%BE%91%E5%AD%A6-%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E6%80%8E%E6%A0%B7%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E8%AF%BB%E8%BF%87%E4%B9%A6/">逻辑学 | 艾晓明：怎样告诉别人你读过书</a>》</em></p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4443.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4443.jpg" alt="444" width="441" height="214"></a><br><a href="https://freeweibo.com/weibo/3905401680194443" target="/weibo/390">2015年11月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E4%BA%9A%E8%92%99">罗亚蒙</a>：打个小赌儿，谁要能在中国找到一个没有道德瑕疵的演员，我在北京请他吃一顿大餐！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4444.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4444.jpg" alt="444" width="373" height="663"></a><br><a href="https://freeweibo.com/weibo/3905439018194392" target="/weibo/390">2015年11月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%AC%E4%BA%BA%E8%82%96%E4%BB%B2%E5%8D%8E">本人肖仲华</a>：【计生慘案】田明建，毕业于西安陆军学院，北京卫戍三师中尉。94年9月，怀孕7个月的妻子被强制堕胎致一尸两命。20日在枪杀四名团级干部后劫车直奔中南海，与6千军警在建国门激战，死数十人。田剩一颗子弹时自尽。其单手换弹夹绝技在美国特种部队仍被膜拜。如此惨案，计生政策未曾丝毫反省与纠错。 <em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E5%BB%BA%E5%9B%BD%E9%97%A8%E4%BA%8B%E4%BB%B6">维基百科｜建国门事件</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/44427.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/44427.jpg" alt="444" width="284" height="375"></a><br><a href="https://freeweibo.com/weibo/3903925730137623" target="/weibo/390">2015年10月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%83%A1%E8%B4%B5%E4%BA%91%E5%BE%8B%E5%B8%88">胡贵云律师</a>：【高级黑：活不见人，死不见尸】广州市公民张六毛，2015年8月15日因“寻衅滋事”被羁押于广州市天河区看守所，其间律师会见而不能。11月4日，亲属突然接到看守所电话，称张六毛已去世火化，让去领骨灰。详情真如第二图所说吗？<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA-%E5%85%B3%E4%BA%8E%E5%BC%A0%E5%85%AD%E6%AF%9B%E4%B9%8B%E6%AD%BB/">凯迪社区 | 关于张六毛之死</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4441.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4441.jpg" alt="444" width="382" height="510"></a><br><a href="https://freeweibo.com/weibo/3905464863158795" target="/weibo/390">2015年11月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E4%BA%AC%E6%9D%8E%E8%94%9A2">北京李蔚2</a>：秀才江湖： 今天9号请关注下我的安全！想了一夜，我还是跟他们回去吧！今天，为了不让我参于张六毛的围观，老家浙江的“熊猫”会到广州，来接我回老家。我想，逃是逃不掉的，衙役如果想找你。如果躲，就要关机、不上网，对我来说，不上网很痛苦。算了，跟他们走吧！但愿不会关我，到长兴就放我回家。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf1-11092015110007.html">自由亚洲 ｜被指“炒作”张六毛事件 深圳网友遭警拔枪传唤</a>》</em><br><a href="https://freeweibo.com/weibo/3907186729891920" target="/weibo/390">2015年11月09日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%B7%E9%A2%90">雷颐</a>：打江山的后代 <em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E5%B2%97">维基百科<em>｜</em>高岗</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4449.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4449.jpg" alt="444" width="414" height="734"></a><br><a href="https://freeweibo.com/weibo/3906951345439761" target="/weibo/390">2015年11月08日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%91%E5%9C%A8%E7%B4%A2%E5%BE%8B%E5%B8%88">郑在索律师</a>：[蜡烛]“我心疼哥哥，特地买了一把新刀，一刀一刀的把他身上的肉割了”。两鬓斑白的王福（化名）沙哑地说。王福52岁的哥哥山西小煤窑遇难，矿主为瞒报：“全尸别想出省，只能带死人骨架”“小侄子才17，我不想让他见到，矿主把哥哥尸体拉到一个小屋，哪知道孩子在窗外一直在看，两个月了，一句话不说。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44415.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44415.jpg" alt="444" width="440" height="1136"></a><br><a href="https://freeweibo.com/weibo/3908091278006634" target="/weibo/390">2015年11月11日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%96%87%E9%9D%A9%E6%98%A5%E9%A3%8E%E5%90%B9%E6%BB%A1%E5%9C%B0%EF%BC%8C%E5%9B%BD%E6%AF%8D%E5%86%8D%E5%AF%BC%E6%A0%B7%E6%9D%BF%E6%88%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%A2%93%E7%A2%91%E3%80%8B/?category=18271" rel="tag">《墓碑》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B4/?category=18271" rel="tag">习近年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%BC%BA%E9%99%A2%E9%95%BF/?category=18271" rel="tag">周强院长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%AF%8D/?category=18271" rel="tag">国母</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%8F%B0%E9%95%BF/?category=18271" rel="tag">央视台长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E5%9B%BD%E9%97%A8%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">建国门事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E9%BA%BB%E9%BA%BB/?category=18271" rel="tag">彭麻麻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%A2%9E%E7%BD%AA%E5%90%8D/?category=18271" rel="tag">新增罪名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E9%94%A1%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">无锡日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">民主程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98%E7%B4%A0%E8%B4%A8/?category=18271" rel="tag">法官素质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B0%E6%98%8E%E5%BB%BA/?category=18271" rel="tag">田明建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%AF%9B%E5%A5%B3/?category=18271" rel="tag">白毛女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E9%9A%BE/?category=18271" rel="tag">矿难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%80%E6%89%8D%E6%B1%9F%E6%B9%96/?category=18271" rel="tag">秀才江湖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%82%E8%BE%B0%E5%B8%AD/?category=18271" rel="tag">聂辰席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E7%A9%BA%E9%97%B4/?category=18271" rel="tag">言论空间</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97/?category=18271" rel="tag">青天白日旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B2%97/?category=18271" rel="tag">高岗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%87%95%E7%94%9F/?category=18271" rel="tag">高燕生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%96%84%E7%93%9C%E7%93%9C%E9%87%8D%E7%8E%B0%E7%BA%BD%E7%BA%A6%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88/" target="cdt-mirror">【网络民议】薄瓜瓜重现纽约公共场合</a>
 </h2>
 <p><p>中国时间11月12日上午，微博认证为美国WestConn律师所合伙律师的@<a href="http://weibo.com/337558666" target="_blank">美国Kevin律师</a>发布了三张薄瓜瓜在纽约出席活动的近照。</p>
@@ -69,7 +141,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">哥伦比亚大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%B1%E7%BA%A2%E6%89%93%E9%BB%91/?category=18271" rel="tag">唱红打黑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%B8%89%E4%BB%A3/?category=18271" rel="tag">红三代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%93%9C%E7%93%9C/?category=18271" rel="tag">薄瓜瓜</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%82%85%E7%94%B3%E5%A5%87%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%83%8A%E4%BA%BA%E4%B9%8B%E4%B8%BE/" target="cdt-mirror">自由亚洲 | 傅申奇：习近平的惊人之举</a>
 </h2>
@@ -89,7 +161,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%A5%E4%BC%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E7%94%B3%E5%A5%87/?category=18271" rel="tag">傅申奇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA-%E5%85%B3%E4%BA%8E%E5%BC%A0%E5%85%AD%E6%AF%9B%E4%B9%8B%E6%AD%BB/" target="cdt-mirror">凯迪社区 | 关于张六毛之死</a>
 </h2>
@@ -536,56 +608,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E8%B4%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E4%B9%A0%E6%80%BB%E8%B0%88%E7%BC%85%E7%94%B8%E5%A4%A7%E9%80%89/" target="cdt-mirror">【习总日记】习总谈缅甸大选</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174"><br>
-（2015，11，10）</p>
-<p>昨日缅甸大选传来消息，在野党大胜执政党大败，政权易主。缅甸变天，又有人拿来对照，感叹中国何时能够实现民主选举。<br>
-民主选举能当饭吃吗？选票能当饭吃吗？</p>
-<p>“十三五”的号角已经吹响，全面小康指日可待。既然一党制能给人民带来幸福生活，为何一定非走民主邪路不可？条条大路通罗马。就是说，任何社会制度都能实现社会公平人民幸福。不是吗？</p>
-<p>建国才60多年，在中国共产党英明正确领导下，我们已经能够达到经济规模世界第二，仅次于美国。人民幸福世界第二，仅次于朝鲜。人口总数世界第二，仅次于印度。遥望2020年，我深信一定能够实现，经济规模世界第一，人民幸福世界第一，人口总数世界第一。</p>
-<p>7日在新加坡习马会，谈及民主选举制度，我挪揄道：“听说马先生支持度从40%跌至9%，有何感想啊？”马英九俯首称臣：“还是共产党领导得好，大陆人民幸福，台湾艺人蜂拥而至。如果实行大选，共产党一定大胜国民党。”我不屑道：“没必要多此一举，搞什么民主选举那种绣拳花腿，实实在在地把老百姓生活搞好才是真正的对人民负责。”马英九点头：“从饲养员角度看问题，共产党更适合中国人。”我以中央政府的口气道：“当台湾地区领导人这几年，你幸苦了。”马英九条件反射道：“这是我应该做的。绝不让台独分子阴谋得逞。”</p>
-<p>台湾实现民主，国民党丧失政权，经济滑坡，倾向台独的民进党坐大，迈向永久分裂。相比之下，大陆坚持共产党统治社会稳定，经济起飞国强民富，以祖国统一为己任，追求民族复兴；以为人民服务为宗旨，全面奔向小康。我党一贯主张人民利益高于天，无论民主还是专制，只要对人民有利，就不应该固执照搬西方民主选举方式，无视中国两千年传统文化中央集权大一统观念根深蒂固。</p>
-<p>缅甸实行全民选举，我们必定予以尊重，毕竟是邻国的内部事务。我们没必要也不会随风起舞。世界上所有国家都采取民主选举的那一天，我们也不会因此动摇犹豫，进而怀疑我们自己的社会制度。就好比中国人坚持使用自己的语言，自己的生活习惯一样。因为，我们是中国人。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E4%B9%A0%E6%80%BB%E8%B0%88%E7%BC%85%E7%94%B8%E5%A4%A7%E9%80%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%85%E7%94%B8%E6%B0%91%E4%B8%BB%E9%80%89%E4%B8%BE/?category=18271" rel="tag">缅甸民主选举</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%A4%E5%90%8D%E5%BE%8B%E5%B8%88%E5%87%BA%E5%A2%83%E9%81%AD%E6%8B%A6%E6%88%AA-%E6%89%B9%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD%E6%88%90%E7%A9%BA%E8%B0%88/" target="cdt-mirror">自由亚洲 | 两名律师出境遭拦截 批依法治国成空谈</a>
-</h2>
-<p><p>北京律师蔺其磊及湖北律师张科科先后在北京首都机场准备出境时遭到边检拦截，称他们“出境可能危害国家安全”。自7.09事件以来，至少有19名律师以及多名律师子女出境受阻。有律师批评当局此举没有任何法律依据，“依法治国”成为空谈。</p>
-<p>11月10日上午，北京律师蔺其磊应法国司法部邀请准备前往巴黎考察学习，不过在北京首都机场，蔺律师遭到了边检拦截。这是因涉及7.09大抓捕行动而被阻止出境的至少第19名律师。</p>
-<p>蔺其磊当天下午接受本台采访时表示，对方没有出示任何书面通知，而据他所知，包括他在内的所有被以“出境可能危害国家安全”为由边控的律师，没有一人收到书面文件。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/150802083957_freelawyer_postcard_512x288_twitter.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/150802083957_freelawyer_postcard_512x288_twitter.jpg" alt="150802083957_freelawyer_postcard_512x288_twitter" width="550" height="309"></a><br>
-中国维权律师关注组上传至推特的活动明信片。</p>
-<p>蔺其磊：“他口头通知，北京市公安局决定不让你出境，理由是你出境了危害国家安全。我跟他要书面的，我说你不能就这样口头你说一句话就不让一个公民出境。他说我们都这样。”</p>
-<p>记者：“包括蔺律师您在内，已经有很多的律师被以同样的原因阻拦出境了。”</p>
-<p>蔺其磊：“对，应该都是这个理由，都没有任何书面的东西。你认为我们有什么应该有个书面的决定。什么都没有，都是口头告知的。”</p>
-<p>而就在前一天，准备出境旅游的湖北律师张科科同样在北京机场遭到了拦截。张科科律师11月10日向本台表示，边检人员称他可以申请行政复议，但却拒绝提供双方之间的对话等证据。</p>
-<p>记者：“他们还是以‘危害国家安全’为由把您拦下来的吗？”</p>
-<p>张科科：“对。以出境管理法的第十二条，有可能危害国家安全，然后就不准我出境。我要求他给我书面的文书，他不同意，他说只有口头的。然后他说可以通过行政复议或者诉讼的方式来解决这个问题，但是他有一个执法记录，摄下我们对话的过程，他也不给我。不给任何的证据。”</p>
-<p>此前，也有一些律师就此申请了行政复议或信息公开，张科科表示，截至目前，无理阻挠律师出境的事件仍在继续发生。</p>
-<p>张科科：“这个事情肯定是出境管理部门的违法行为，不管是在理由上还是限制出境的这种决定上，他都是违反法律的。当然有一些律师通过行政复议、诉讼等方式来要求相关部门确认他违法，或者要求他承担相应的责任。但是真正出现一个什么样的结果现在还没有看到。”</p>
-<p>蔺其磊批评说，中国宣称要实行全面依法治国，然而种种的迹象却表明，目前当局是全面不依法治国。</p>
-<p>“现在中国大陆这个形势不知道这个政府怎么考虑的，你要认为我或者这些律师出境危害国家安全，你应该有个书面的东西。别说依法治国，或者全面依法治国了，你就说一个行政执法机关，还是一个堂堂属于公安部直属的公安边防检查站，你这个行政机关级别挺高的，你这样行政执法，口头就作出一个决定，我认为是很荒唐的。这恰恰说明，我们这些律师，包括我，我们没有任何有可以违反国家安全的行为。今天经历过这个事以后，又看到网上其他一些律师都是这样，我感觉，现在不是全面依法治国，现在是全面的不依法治国了。”</p>
-<p>蔺其磊表示，即使在目前的大环境下使用法律手段维权较为困难，但他仍会尝试通过法律途径争取自己的合法权益。</p>
-<p>（特约记者：扬帆／ 责编：胡汉强/吴晶）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%A4%E5%90%8D%E5%BE%8B%E5%B8%88%E5%87%BA%E5%A2%83%E9%81%AD%E6%8B%A6%E6%88%AA-%E6%89%B9%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD%E6%88%90%E7%A9%BA%E8%B0%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/?category=18271" rel="tag">限制出境</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -597,7 +619,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -607,5 +629,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

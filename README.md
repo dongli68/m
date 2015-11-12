@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BE%9D%E7%84%B6%E6%8E%A7%E5%88%B6%E7%9D%80%E5%A5%B3%E6%80%A7%E7%9A%84%E8%BA%AB%E4%BD%93/" target="cdt-mirror">纽约时报 | 中国政府依然控制着女性的身体</a>
+</h2>
+<p><p>30年前的一幕总映在我的脑海里，挥之不去：一个男人拖着两轮板车回村，板车在坑洼中一颠一颠，上面躺着他刚做完结扎手术的妻子，一张大花被从头捂到脚，悄无声息，像个死人。</p>
+<p>我从那时候便有了性别带来的恐惧，怕有一天会变成她那样，身体受到决心推行严厉“独生子女”政策的中国政府的残酷迫害。我暗底里发誓绝不生孩子，不生孩就不会被施行结扎手术 。</p>
+<p>10月29日，中共宣布将结束“独生子女”政策，取而代之的政策是允许所有已婚夫妇生育二孩。但是结束“独生子女”政策并不意味着政府结束对女性身体的控制，也不意味着女性从此能对自己的生育权说了算。</p>
+<p>我曾亲眼目睹这种政策对女性人身权利的粗暴侵害，而这种侵害已成为计划生育机制的一部分。1997年，我在一家计划生育中心（妇儿医院）宣传科找到一份工作，负责“传播生理健康知识”。</p>
+<p>医院里热火朝天的景象让我瞠目结舌。我永远不能忘记那一幕，四个穿迷彩服的壮年男子，各扯一条胳膊腿，将一个哭叫挣扎的年轻女人抬进了手术室。我心底里升起了一股愤怒的火苗，很微弱，但不清晰，我也来不及思考，忙碌于当时的工作以及自己的生存。</p>
+<p>就是在此时此地，我做了一件让我终生羞耻的事情。为了能够成为医院的正式职工，我以虚构的形式写了一篇歌颂计生中心温馨如家的故事。故事发表在报纸上，得了一个由计生委颁发的奖。</p>
+<p>我也写过医院总结报告，包括医院全年完成的结扎、人流、引产等手术例数。我至今记得一个惊人的数字，院长个人一天最高完成结扎手术88例。</p>
+<p>此时，我并不知道，全国到处都在强制结扎，上环，流产，拘禁，扒房牵牛，各地有罚款指标，结扎指标，流产指标，还有孕妇被绑架到医院强制施行节育手术。</p>
+<p>如今，网络上铺天盖地的催生二胎的宣传广告，对比先前“只生一个好”的政策宣传，形成莫大的讽刺。</p>
+<p>现在许多女性受过良好的教育，有稳定的收入。其实并不一定愿意有多子女家庭。还有一些夫妇不愿多生，是因为抚养小孩的费用实在太高了。但是，二孩政策却意味着政府仍有权力参与女性对自己的身体和家庭所作的决定。</p>
+<p>假如有家庭确实想要三个孩子呢？假如女性意外怀孕但想把孩子生下来呢？</p>
+<p>国家计划生育委员会专家委员梁中堂最近在接受《新京报》采访时表示，计划生育还是基本国策。“对于超生行为必须有强制性处罚措施，以维护国策的严肃性。”</p>
+<p>这些所谓的“处罚措施”不仅将继续影响女性的生活，同时，也很可能继续影响无数的第二胎或第三胎的孩子，因为他们的父母可能永远负担不起违反独生子女政策的罚款，而这些受影响的孩子可能仍将没有户口，这也就意味着他们仍将不能正常地享受教育、健康卫生等社会保障。目前，我们没有理由相信在新计划生育政策下，这些孩子会得到承认，也没有理由相信这些处罚措施会嘎然而止。</p>
+<p>而计划生育政策影响的不仅是人们的家庭生活。中国政府规定，单身女性不能接受冷冻卵子及人工受精等“辅助生殖技术治疗”。就在今年，著名演员徐静蕾在接受采访时讲到，她曾去美国冷冻卵子。目前，我们没有理由相信这种歧视单身女性的情况在二孩政策实施后会有所改变。</p>
+<p>另外，庞大的计划生育系统也可能是政府决策时考虑的因素。据媒体报道，全国计划生育系统的工作人员人数在50万以上，而计生罚款更已成为政府的重要收入来源。在二孩政策下，这些计生人员势必想极力保住自己的工作。</p>
+<p>这项政策转变仅仅是中国政府应对性别失衡及人口老化不得已作出的改变。新政策的本质与以前并无差别：依然没有顾及人的尊严，依然是从政权利益出发。这种改变太晚、太少。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BE%9D%E7%84%B6%E6%8E%A7%E5%88%B6%E7%9D%80%E5%A5%B3%E6%80%A7%E7%9A%84%E8%BA%AB%E4%BD%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3/?category=18271" rel="tag">独生子女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%E6%96%B0%E5%AA%92%E4%BD%93%E7%A0%94%E7%A9%B6%E9%99%A2%E6%AD%A3%E5%BC%8F/" target="cdt-mirror">中国青年报 | 国家意识形态中心新媒体研究院正式成立</a>
 </h2>
 <p><p>中国青年网北京11月12日电（记者 李晗）近日，中国社会科学院国家文化安全与意识形态建设研究中心（简称国家意识形态中心）正式成立新媒体研究院。相关负责人对中国青年网记者表示，这是国内首家由中央有关部委、军队、群团组织、研究机构、高校、新闻单位和正能量新媒体专家等共同组建的权威新媒体研究机构，也为更好地打赢新三十年的意识形态反击战组建了一支生力军。</p>
@@ -638,30 +664,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%B8%A5%E9%87%8D%E9%9B%BE%E9%9C%BE%E5%B7%B2%E6%88%90%E4%B8%AD%E5%9B%BD%E4%B8%9C%E5%8C%97%E5%86%AC%E5%AD%A3%E6%96%B0%E5%B8%B8%E6%80%81%EF%BC%9F/" target="cdt-mirror">法广 | 严重雾霾已成中国东北冬季新常态？</a>
-</h2>
-<p><p>作者：艾米<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/2015-11-09T033159Z_883899233_GF20000051326_RTRMADP_3_CHINA-ENVIRONMENT.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2015-11-09T033159Z_883899233_GF20000051326_RTRMADP_3_CHINA-ENVIRONMENT.jpg" alt="2015-11-09T033159Z_883899233_GF20000051326_RTRMADP_3_CHINA-ENVIRONMENT" width="550" height="310"></a><br>
-辽宁沈阳PM2.5值爆表，空气能见度极低，2015年11月9号<br>
-路透社</p>
-<blockquote><p>供暖季开始一周后，中国东北部多个城市周一（11月9号）持续被笼罩在危险的酸性雾霾之中，空气中的细悬浮微粒PM2.5最高浓度达世界卫生组织（WHO）安全范围50倍之多。</p></blockquote>
-<p>世卫组织建议的PM2.5的安全范围是24小时平均浓度每立方公尺25微克，但吉林产春周一的该数据为860微克，而根据当地政府提供的数据，昨天周日冬至日，辽宁省会沈阳的PM2.5浓度更是达到爆表的1157，部分地区甚至达到1400。</p>
-<p>据辽宁省环保厅发布的数据显示，周一上午，辽宁省14个地级市中，9个空气质量指数超过300，达到六级严重污染级别。其中，沈阳、鞍山、辽阳、铁岭等地空气质量指数超过500，达到爆表级别。</p>
-<p>中国官方媒体新华网的记者在沈阳市内街头采访看到，城区能见度不足百米，且不断加重。有市民抱怨说：“出门感觉空气辣眼睛、嗓子难受，就来买个口罩，但具体该怎么办，也不太清楚。”</p>
-<p>法新社说，PM2.5这种悬浮在空气中的微小粒子，对健康相当有害。中国近几年经常遭遇的严重雾霾天气，可能与几十万人提前死亡有关。</p>
-<p>沈阳市政府的微博上对导致雾霾的原因解释说，这是因为城市主要用煤炭的供暖系统启动造成的，同时也指是受到外省严重的污染影响。</p>
-<p>长春市政府在社群网站上表示，官方启动“3级”紧急因应措施，下令学校暂停户外活动，并提醒居民改用“绿色运输”、待在室内并“注意健康”，但未做进一步说明。</p>
-<p>沈阳的雾霾让医院呼吸科门诊、住院病房的病人数也大幅增加，据医生介绍，除了呼吸科外，因为雾霾原因导致呼吸不足，引发心脑血管疾病的病人也增多。</p>
-<p>新华网引引述辽宁省社会科学院低碳发展研究所所长毕德利认为，针对严重的空气污染，各地的预案却并没有真正 落到实处。实际可操作性业有限，他说，在极端重污染情况下，如果老百姓对相关污染状况知之甚少，或还是通 过口口相传来了解污染程度、防护措施，那么这样的预案就会成为一纸空文。</p>
-<p>法新社指出，中国多地经常出现的严重空气污染导致城市癌症患者大幅增加，已经成为中国人对政府不满的重要原因之一。</p>
-<p>气象部门预测未来24小时，吉林省东南部将有大到暴雪。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%B8%A5%E9%87%8D%E9%9B%BE%E9%9C%BE%E5%B7%B2%E6%88%90%E4%B8%AD%E5%9B%BD%E4%B8%9C%E5%8C%97%E5%86%AC%E5%AD%A3%E6%96%B0%E5%B8%B8%E6%80%81%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97/?category=18271" rel="tag">东北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E9%98%B3/?category=18271" rel="tag">沈阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%98%A5/?category=18271" rel="tag">长春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">雾霾危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -673,7 +675,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -683,5 +685,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

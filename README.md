@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BE%9D%E7%84%B6%E6%8E%A7%E5%88%B6%E7%9D%80%E5%A5%B3%E6%80%A7%E7%9A%84%E8%BA%AB%E4%BD%93/" target="cdt-mirror">纽约时报 | 中国政府依然控制着女性的身体</a>
@@ -48,7 +48,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3/?category=18271" rel="tag">独生子女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%E6%96%B0%E5%AA%92%E4%BD%93%E7%A0%94%E7%A9%B6%E9%99%A2%E6%AD%A3%E5%BC%8F/" target="cdt-mirror">中国青年报 | 国家意识形态中心新媒体研究院正式成立</a>
 </h2>
@@ -675,7 +675,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -685,5 +685,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,158 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%96%84%E7%93%9C%E7%93%9C%E9%87%8D%E7%8E%B0%E7%BA%BD%E7%BA%A6%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88/" target="cdt-mirror">【网络民议】薄瓜瓜重现纽约公共场合</a>
+</h2>
+<p><p>中国时间11月12日上午，微博认证为美国WestConn律师所合伙律师的@<a href="http://weibo.com/337558666" target="_blank">美国Kevin律师</a>发布了三张薄瓜瓜在纽约出席活动的近照。</p>
+<p>@<a href="http://weibo.com/337558666" target="_blank">美国Kevin律师</a>【薄瓜瓜重现纽约公共场合】星期二晚，在纽约哥伦比亚大学法学院深造的薄瓜瓜出席了新书《中国的挑战》讨论会。不少在场的与会者认出他后有的跟他打招呼，有的要求与他合影，他都欣然接受。薄瓜瓜是哥大法学院2016班学生，这是他在哥大法学院读法学博士的最后一年。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-12-at-%E4%B8%8A%E5%8D%8811.24.50.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-12-at-%E4%B8%8A%E5%8D%8811.24.50.png" alt="Screen Shot 2015-11-12 at 上午11.24.50" width="535" height="530"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9ba909cagw1exxxt38t71j20z60jkdkk.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9ba909cagw1exxxt38t71j20z60jkdkk.jpg" alt="9ba909cagw1exxxt38t71j20z60jkdkk" width="550" height="306"></a></p>
+<p>薄瓜瓜请《中国的挑战》作者柯庆生签名</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9ba909cagw1exxxtar1tpj20ys0pkn3l.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9ba909cagw1exxxtar1tpj20ys0pkn3l.jpg" alt="9ba909cagw1exxxtar1tpj20ys0pkn3l" width="550" height="410"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9ba909cagw1exxxtcarf8j21de11q16b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9ba909cagw1exxxtcarf8j21de11q16b.jpg" alt="9ba909cagw1exxxtcarf8j21de11q16b" width="550" height="420"></a></p>
+<p>目前微博上一部分网友怀念薄熙来治下的重庆，并表示相信薄瓜瓜的“真才实学”，认为其父是否被罗织其罪要看历史公断，更不必罪及其子。另一部分网友则表示，薄瓜瓜在牛津大学的学习成绩尚有争议，而且目前国内人权活动人士的子女纷纷受牵连无法出国完成学业，瓜瓜的平安无事无非再次印证了特权的存在，并且反映着高层各派系间的妥协。</p>
+<p>以下为中国数字时代编辑收集自新浪网友评论：</p>
+<p><a href="http://weibo.com/1042342927" target="_blank">三踏步溜点Com</a>：我相信他真的很优秀！</p>
+<p><a href="http://weibo.com/2297850067" target="_blank">田晓傅</a>：和薄熙来长得一摸一样的 而且一看就是聪明货 这家子人不简单 大大算是个卖国贼了</p>
+<p><a href="http://weibo.com/1740824140" target="_blank">的默默的默默</a>：望学成归来剿匪</p>
+<p><a href="http://weibo.com/meitianyi" target="_blank">梅天毅</a><i title="微博个人认证 "></i><i></i>：现实版的哈姆雷特中的小王子！！！<img title="[赞]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/z2_org.gif" alt="[赞]"></p>
+<p><a href="http://weibo.com/n/%E4%BC%9F%E9%92%A2%E7%89%A9%E8%81%94-%E6%9D%8E%E5%AE%8F%E5%BC%BA?from=feed&loc=at" target="_blank">@伟钢物联-李宏强</a>: 定能成才，其父便是法学辩论奇才，其母又是大律师</p>
+<div><a href="http://weibo.com/1843419127" target="_blank">吉士蛋麦满分</a>：祸不及家人，瓜瓜要是来重庆，估计是夹道欢迎。</div>
+<p><a href="http://weibo.com/1770491695" target="_blank">Leon小毅</a>：好好学，将来中国还需要你们管理呢，你看习父不是也被打倒过吗。这只是一个桌面游戏，反正只有几个玩家，耐心点会有机会的。</p>
+<p><a href="http://weibo.com/1484597825" target="_blank">Michael袁雪</a><i></i>：该回来还要回来，爸爸的事与儿子有什么关系！！再说了，他爸怎么了，先不说那2000万贪污的事是不是真的，还不如个村长贪的多！</p>
+<p><a href="http://weibo.com/gonghongda" target="_blank">lelof</a><i title="微博达人"></i>：昂山素季？</p>
+<p><a href="http://weibo.com/shikima" target="_blank">铅笔男</a><i title="微博达人"></i>：还是政治世家大气懂行情。老子被抓了算什么，政治气候风云变幻，三十年河东河西，习上皇当年不也遭过牢狱之灾？平西王倒台时想看小王爷笑话的真是图样啊<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p><a href="http://weibo.com/airsilkroad" target="_blank">空中丝绸之路</a>：据说他老爸给他的定位是中国的第一个民选总统， 这可是和推背图上说的有很大差距， 推背图上说的第一个民选的可是“来自田间第一人”， 不是红色后代。</p>
+<p><a href="http://weibo.com/5374201015" target="_blank">勤劳的小逗比</a>：实话实话，薄熙来对我们重庆的贡献很大，在任期间做了很多实事，很多基础工程都是他们任职期间搞出来的，那时候治安也不错（现在反倒退后了）重庆人民还是挺感激他的，要是他不是贪官的话<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/1006730867" target="_blank">飞天大哥爱睿杰</a>：平西王小少爷重出江湖，哥伦比亚大学法学院博士，学历高、颜值高、背景深厚，爹妈都在坐牢，抗压能力强，这小子以后故事会很多！</p>
+<hr><p><a href="http://weibo.com/5178234536" target="_blank">园庭荫绿</a>：儿子在国外享受优秀大学的教育。老子在国内毒害学生。</p>
+<p><a href="http://weibo.com/5321475780" target="_blank">最恨明朝洗车雨</a>：为什么律师的孩子却被限制出境呢？？</p>
+<p><a href="http://weibo.com/5676841137" target="_blank">青城_11497</a>：盼明主的心什么时候改？</p>
+<p><a href="http://weibo.com/2308368070" target="_blank">李昌锁律师</a><i title="微博个人认证 "></i>：唯愿不再愚民，或祁愿愚民早日醒来。</p>
+<p><a href="http://weibo.com/5731579754" target="_blank">kevin_yhl</a>：一帮奴才评论里叫春呢恶心</p>
+<p><a href="http://weibo.com/2378457361" target="_blank">天涯浪客Xin</a>：看来两派山头已经达成某种交易了。</p>
+<p><a href="http://weibo.com/2049798980" target="_blank">长春这噶儿</a><i title="微博个人认证 "></i>：人在美国心在中国，二代都去了美国</p>
+<p><a href="http://weibo.com/2917373783" target="_blank">神酒之王传奇</a>：漏网的共犯</p>
+<p><a href="http://weibo.com/2624663352" target="_blank">孤帆0天涯</a>：呵呵 爸爸践踏法律、娃娃攻读法律，这算不算不肖？？<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
+<p><a href="http://weibo.com/moneyah" target="_blank">钱聚网</a><i title="微博机构认证"></i>：为什么还不捉起来。家族势力真大。美国差不多成后爹了</p>
+<p><a href="http://weibo.com/3864587125" target="_blank">无限刀制</a>：把红色法拉利拿出来让我看看，就算是一派胡言我也要说</p>
+<p><a href="http://weibo.com/2065037544" target="_blank">一句呵呵你會懂丶</a>：这家伙学习差被牛津大学开除过，愚民就是不知道</p>
+<p><a href="http://weibo.com/n/%E5%A4%AA%E5%B9%B3%E5%A4%A9%E5%9B%BD%E6%98%AF%E9%82%AA%E6%95%99?from=feed&loc=at" target="_blank">@太平天国是邪教</a>:如果体制一直存在，瓜瓜永远没有出头之日。如果体制不存在了，瓜瓜更没有出头之日。</p>
+<p><a href="http://weibo.com/n/%E5%BD%AD%E6%B4%AA%E5%90%8C%E5%AD%A6?from=feed&loc=at" target="_blank">@彭洪同学</a>: 生活在万恶美帝的红色中国的苗。他的父亲们实施严酷的人治，他的儿子却在攻读法学专业。他回国要颠覆父亲还是颠覆中国？</p>
+<p><a href="http://weibo.com/1367684450" target="_blank">dmgy_1</a>：不要寄美好与未来于他人手中。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%96%84%E7%93%9C%E7%93%9C%E9%87%8D%E7%8E%B0%E7%BA%BD%E7%BA%A6%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">哥伦比亚大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%B1%E7%BA%A2%E6%89%93%E9%BB%91/?category=18271" rel="tag">唱红打黑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%B8%89%E4%BB%A3/?category=18271" rel="tag">红三代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%93%9C%E7%93%9C/?category=18271" rel="tag">薄瓜瓜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%82%85%E7%94%B3%E5%A5%87%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%83%8A%E4%BA%BA%E4%B9%8B%E4%B8%BE/" target="cdt-mirror">自由亚洲 | 傅申奇：习近平的惊人之举</a>
+</h2>
+<p><p>习大帝的所作所为早已清清楚楚、明明白白的告诉世人：他是力挽狂澜保中共红朝千秋万代不倒的真正“男儿”。然而到五中全会前夕，居然还有不少心存善良的人们对习抱有幻想，还预测习在五中全会会有流芳百世的“惊人之举”，实属一厢情愿，愚不可及。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/8f25789a-a57a-4a66-8620-bc3de7bab293.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/8f25789a-a57a-4a66-8620-bc3de7bab293.jpeg" alt="8f25789a-a57a-4a66-8620-bc3de7bab293" width="550" height="365"></a><br>
+中共五中全会。（法新社）</p>
+<p>五中全会的公报又是洋洋万言，又是一大堆口号，一大堆许诺，一大堆忽悠百姓，自欺欺人的空话、大话和谎话。实在看不到习有什么“惊人之举”！最搞笑的时新套话就是“创新”，公报称“坚持创新发展，必须把创新摆在国家发展全局的核心位置，不断推进理论创新、制度创新、科技创新、文化创新等各方面创新，让创新贯穿党和国家一切工作，让创新在全社会蔚然成风。必须把发展基点放在创新上，形成促进创新的体制架构，塑造更多依靠创新驱动、更多发挥先发优势的引领型发展。”</p>
+<p>但是习大帝掌权以来，东施效颦刻意模仿毛泽东的独裁手段，再借鉴普亭的作派，借反腐不断集权。他的权威无法与毛泽东、邓小平比肩，但他的头衔远远超过了前两位独裁者。在习的治下，抓捕的异议人士超过了江胡两朝总数，大规模抓捕律师是他惊世骇俗的手笔。用不得“妄议中央大政方针”的紧箍咒让党内噤声；用“造谣”的铁帽子震慑百姓。在随时会因“妄议”和“造谣”入罪的大环境之下，还有什么“创新”可谈。</p>
+<p>习大帝希望“发挥科技创新在全面创新中的引领作用”，“推动经济建设和国防建设融合发展……..富国和强军统一，实施军民融合发展战略，形成全要素、多领域、高效益的军民深度融合发展格局。”因为习大帝希望科技创新能提供先进的军备武器，实现其威震世界的帝国梦。他打算如何“深入实施创新驱动发展战略”呢？那就是“实施一批国家重大科技项目，在重大创新领域组建一批国家实验室，积极提出并牵头组织国际大科学计划和大科学工程。”这不过是再续毛泽东从苏联引进的发展高科技模式，</p>
+<p>毫无新意。试问：在党的绝对指挥下、经过顶层设计的国家实验室里能产生有创新天才的中国乔布斯们吗？</p>
+<p>众所周知十七届五中全会在讨论十二五规划时，作主题报告的是总理温家宝而非总书记胡锦涛。而在如今的五中全会上，关于十三五规划的报告则由习大帝亲自来做，架空总理！这也许就是习具有创新的“惊人之举”了.</p>
+<p>(文章仅代表特约评论员个人立场和观点)</p>
+<p><strong>中国数字时代编辑注：</strong>傅申奇，1954年生，1978年底投身民主运动，创办《民主之声》，任中华全国民刊协会机关刊物《责任》主编。1981年，傅申奇因从事政治活动被判刑７年，出狱后，1991年因主办地下刊物《复兴》而再次被捕关押，1993年被判处劳动教养，入狱共达10年。1996年流亡美国，广泛参与海外民运活动。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%82%85%E7%94%B3%E5%A5%87%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%83%8A%E4%BA%BA%E4%B9%8B%E4%B8%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E7%94%B3%E5%A5%87/?category=18271" rel="tag">傅申奇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%89%E4%BA%94/?category=18271" rel="tag">十三五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">十八届五中全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0/?category=18271" rel="tag">自由亚洲电台</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA-%E5%85%B3%E4%BA%8E%E5%BC%A0%E5%85%AD%E6%AF%9B%E4%B9%8B%E6%AD%BB/" target="cdt-mirror">凯迪社区 | 关于张六毛之死</a>
+</h2>
+<p><p><strong>中国数字时代编辑注：原帖已被凯迪社区删除，链接为谷歌缓存。</strong></p>
+<p>作者：醉斋</p>
+<p>    经常有一种很疲惫的感觉。这种疲惫不是身体上的，天天守店，当然也不算轻松，但毕竟没有消耗太多的体力，再累也累不到哪里去。</p>
+<p>    我累的是心。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%BC%A0%E5%85%AD%E6%AF%9B2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%BC%A0%E5%85%AD%E6%AF%9B2.jpg" alt="张六毛2" width="599" height="599"></a><br>
+张六毛之死漫画 作者巴丢草</p>
+<p>    象广州张六毛这样的死法，在中国，不是第一例，在之前就出现过躲猫猫死，作梦死，洗脸死等等等等，各种死法，不一而足，种种神奇，超乎想象。但他们的死，都有一个共同点，那就是，在看守所死。</p>
+<p>    这次张六毛，也是死在看守所。</p>
+<p>    首先，我们得明白一个法律程序，在今天的中国，必须履行的法律程序。</p>
+<p>    当一个人犯，被公安机关锁定为犯罪嫌疑人，并对之进行侦破和抓捕之后，得先将这名犯罪嫌疑人送进看守所。注意，是犯罪嫌疑人，而不是罪犯。因为公安机关不具备审判权。哪怕他们手上掌握了这名犯罪嫌疑人的罪行铁证，他们也只有抓捕的权力，绝没有审判宣判的权力。</p>
+<p>    而将犯罪嫌疑人送进看守所进行羁押的时间段，他的身份依然是公民，各项权益依然受到法律保护，特别是生命权。只有公安机关将此人的犯罪证据进行收集整理之后，送交法院，并同法院对其提起公诉（或由被害人提起诉讼）之后，由法院对此进行审判（审判期间，犯罪嫌疑人可以为自己辩护，也可以聘请律师为其维权，这都是法律许可，并且受法律保护的）。只有当审理结束，确定犯罪嫌疑人确实违反了法律的某条某款，验证无误，本人也对事实与引用相关法律无异议，最终由庭长宣布审判结果，到了此时，犯罪嫌疑人的罪人身份方得以确立，而且，自此之后，他也不是被关在看守所了，而是转到了监狱。</p>
+<p>    如果犯罪嫌疑人认为，法院所采用的证据与法律依据不正确，他还要上诉，那么，在上诉与应诉没有终结之前，他还不是被确定的罪犯。</p>
+<p>    这样的法律程序，其实大多数中国人都掌握得比较清楚了，我在这里依然不惮其烦地重述一遍，就是想指出，张六毛，在看守所的身份，还不是罪犯，他依然是一名公民，他的合法权益，依然要受到法律的保护。</p>
+<p>    但张六毛居然死了，而且就死在看守所。</p>
+<p>    我们要不要追问其死因，我们要不要质问，司法机关是否对此立案侦查，是否要对张六毛的家人亲属，给出一个令人信服，可以接受的说法？</p>
+<p>    如果答案是肯定的，那我们会拭目以待。</p>
+<p>    如果答案是否定的，我就想跑遍全中国，将所有的“依法治国”的宣传标语一把火烧个精光。道理太简单了，不打算兑现的话，你们这帮禽兽，瞎嚷嚷个鸡巴呀？忽悠你家大爷呀？</p>
+<p>    爷不信这忽悠了。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA-%E5%85%B3%E4%BA%8E%E5%BC%A0%E5%85%AD%E6%AF%9B%E4%B9%8B%E6%AD%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA/?category=18271" rel="tag">凯迪社区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E7%AC%AC%E4%B8%89%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">广州第三看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80%E5%91%BD%E6%A1%88/?category=18271" rel="tag">看守所命案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">非正常死亡</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%85%B7%E5%88%91%EF%BC%8C%E4%B8%96%E7%95%8C%E7%9A%84%E7%97%9B/" target="cdt-mirror">德国之声 | 长平观察：中国酷刑，世界的痛</a>
+</h2>
+<p><p>作者：长平</p>
+<p>联合国禁止酷刑委员会将审议中国执行《禁止酷刑》公约的官方报告。时评人长平认为，中国酷刑层出不穷，国际社会面临挑战。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/015824926_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/015824926_30300.jpg" alt="0,,15824926_303,00" width="550" height="310"></a></p>
+<p>（德国之声中文网）11月4日，张六毛的家属收到消息：这位广州维权人士在警方拘押过程中死亡。和中国很多维权人士一样，张六毛被控”寻衅滋事”，但是拘捕过程如同黑社会绑架，始终没有正式逮捕通知，也不允许会见律师。在火化之前，官方拒绝家属检视遗体。家属相信，张六毛遭受酷刑而死。两周以后，即11月17-18日，联合国禁止酷刑委员会将审议中国执行《禁止酷刑》公约的官方报告。</p>
+<p>《禁止酷刑公约》的全称是”禁止酷刑和其他残忍、不人道或有辱人格的待遇或处罚公约”，于1984年由联合国大会通过，1987年生效。中国1988年批准加入该公约后，已经四次提交官方报告接受委员会审议。这些报告被认为避重就轻，语焉不详，回避委员会专家质询，而且对国际人权组织的呼吁置之不理。</p>
+<p>这些报告中不会涉及张六毛的死亡。甚至曹顺利，一位知名的人权律师，2013年9月准备赴日内瓦参与联合国人权理事会”普遍定期审议”会议时，在北京首都机场被警方拦截，2014年3月在拘押中死亡。还有西藏高僧丹增德勒仁波切，被监禁多年后，于今年7月死于狱中。国际人权组织获悉，他在审讯及监禁过程中遭遇酷刑。</p>
+<p>中国酷刑遍地开花</p>
+<p>根据联合国的相关规定，大赦国际（AI）、中国人权捍卫者（CHRD）和人权观察（HRW）等组织已经提交报告，对中国酷刑的严重情况进行了补充和揭示。</p>
+<p>中国广泛存在酷刑是人尽皆知的事实。举世关注的反腐败，竟然是由并不具备执法资格、一个党的组织机构中纪委主导。纪委工作人员并非警察，却可以堂而皇之把人抓起来，关押和审讯，即所谓”双规”。他们采用的手段，多为残忍的身体折磨和威胁恐吓。人权律师浦志强曾经拍记录片揭露中共纪委”双规”酷刑，而他现在也身陷囹圄。</p>
+<p>近年来中共对政治异议和新闻自由的镇压有增无减。有些人批评政府被抓，警方找不到一个像样的罪名，于是就采用完全非法的手段进行关押、羞辱和毒打。在整个过程中，有些警察和工作人员连身份都不透露。</p>
+<p>在正式的拘押场所，无论是未经审判服刑的劳教人员，还是经过审判获刑的囚犯，都可能受到难以想象的酷刑。马三家女子劳教所里，女囚们被电击乳房、用毛刷捅阴道，身体和精神都遭受巨大的痛苦，但是至今没有立案调查。普通牢房里，看守警察利用牢头狱霸以暴力和羞辱来管理囚犯，也是公开的秘密。</p>
+<p>近年来警方和中央电视台、新华社、人民日报等官方媒体合作，逼迫未经审判的被囚者面对镜头认罪、忏悔，进行公开的羞辱和自我羞辱，是一种愈演愈烈的精神酷刑。</p>
+<p>难以制止的罪恶</p>
+<p>中国法律规定禁止刑讯逼供，但是许多执法人员相信，刑讯逼供、羞辱、威胁等方式是与犯罪作斗争的有力武器。因此，法律没有建立非法证据排除制度，使得对酷刑的禁止性规定成为一纸空文。</p>
+<p>中国政府明显地有意纵容和利用酷刑，因此法律规定中的酷刑仅止于刑讯逼供罪、暴力取证罪和体罚虐待被监管人员罪。除非这些作为导致严重后果，比如被审讯者死亡，并引起强烈的舆论反弹，这些罪行通常也得不到追究。而对于《反酷刑公约》定义的精神酷刑，即蓄意令人在精神上遭受巨大痛苦，法律只字未提，而且通常被审讯人员视为一种心理战术，比如以家人甚至幼小的孩子的处境来威胁和折磨受审者。</p>
+<p>由于公安、检察院和法院都是在党的政法委领导下的”一家亲”，酷刑受害者难以控告和申诉，不仅障碍重重，而且常常遭到打击报复。</p>
+<p>酷刑的帮凶是新闻管制。酷刑报道被宣传部门规定为禁忌话题，记者揭露酷刑将会面临极大的风险。2003年《南方都市报》报道孙志刚被警方殴打致死，遭到广州警方公然疯狂报复，总编辑、总经理及分管社委都被抓捕，众多职员及合作者遭到调查，其中两人获刑数年。加上其他敏感报道和评论，该报不仅损失了核心主力，而且继续遭到打压，直到今天也未能恢复活力。</p>
+<p>值得注意的是，中国酷刑正在蔓延。据报道，香港民主党主席刘慧卿将首次出席联合国审议会议，向委员会反应新增酷刑情况，特别是”雨伞运动”期间，香港警方使用过份武力对待和平示威者。在中国周边国家，中国警方还迫使当地警方合作，绑架异议人士。</p>
+<p>酷刑是人类残留的最野蛮行径之一。联合国禁止酷刑委员会的定期审议，无疑对遏制酷刑泛滥功不可没。但是，中国政府越来越清楚包括联合国在内的国际组织的绥靖态度，对待这些审议监督，也越来越应对自如，油盐不进。人类政治文明面临新的困境。<br><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
+<p><em>德国之声致力于为您提供客观中立的新闻报道，以及展现多种角度的评论分析。文中评论及分析仅代表作者或专家个人立场。</em></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%85%B7%E5%88%91%EF%BC%8C%E4%B8%96%E7%95%8C%E7%9A%84%E7%97%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B9%E5%A2%9E%E5%BE%B7%E5%8B%92%E4%BB%81%E6%B3%A2%E5%88%87/?category=18271" rel="tag">丹增德勒仁波切</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%B8%89%E5%AE%B6%E5%8A%B3%E6%95%99%E6%89%80/?category=18271" rel="tag">马三家劳教所</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85%E6%8A%A5%E5%91%8A%E6%8C%87%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%B8%B8%E9%85%B7%E5%88%91%E9%80%BC%E4%BE%9B/" target="cdt-mirror">法广 | 大赦国际报告指中国警方常酷刑逼供</a>
+</h2>
+<p><p><strong>人权组织“大赦国际”周四（12日）声明指出，中国警察在看守所内经常虐待嫌疑人，大赦国际是根据与40多名律师的晤谈为基础发表此声明，某些律师表示他们本人就受到虐待。</strong></p>
+<p>法新社北京报导，根据这个人权组织公布的报告指出，中国嫌疑人在看守所内，或被打耳光、拳打脚踢、或被警察拿鞋子，或拿装满水的瓶子乱打一通，还有不让嫌疑人入睡、连续几个小时的坐老虎凳等的虐待行为。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-12-at-%E4%B8%8A%E5%8D%8810.10.14.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-12-at-%E4%B8%8A%E5%8D%8810.10.14.png" alt="Screen Shot 2015-11-12 at 上午10.10.14" width="613" height="344"></a><br>
+大赦国际标志</p>
+<p>这是大赦国际在日内瓦联合国反对酷刑委员会 检查各档案的一周前公布的。</p>
+<p>根据大赦国际官方数据指出， 2008年至于2015的上半年之间，中国司法部收到至少1321件指控遭酷刑逼案。</p>
+<p>不过，大赦国际指出，同一时期，全中国，只有279人因“采取酷刑逼供”而被判刑。</p>
+<p>大赦国际研究员波恩Patrick POON评论说，对于中国警察来说，逼供是达到判刑的最快方式。</p>
+<p>他还说，中国政府似乎比较担心因不公正判刑可能造成的尴尬，更甚于致力于消除在看守所期间使用酷刑的情况。</p>
+<p>某些代理反对人士或代理那些被当局禁止的宗教团体成员诉讼案的律师宣称，他们自己也遭到酷刑侍候。</p>
+<p>在大赦国际访问的37名律师中，有10名自2010年遭到酷刑，或是其他形式的恶劣对待。</p>
+<p>北京的一名律师，余文生表示，在2014年将近100天当中，警方给他反绑戴上的手铐，勒得非常紧。他向国际大赦说：“我的手肿胀起来，非常痛，我甚至不想活了。警察定期来重新加力缩紧手铐，痛得我尖叫。”</p>
+<p>大赦国际指出，中国法院承认经常有以酷刑逼供。该组织指出，在他们提出涉及酷刑指控的190起案件中，只有16件排除是在逼供下获得的招供词。</p>
+<p>中国当局保证已经采取措施减少酷刑逼供情况的发生。但大赦国际指出，中国检察官及法院是被中国共产党地方领导掌控，因此有与警方站在一边的倾向，这也限制了政府在这方面的改革力度。而且虽然有维权律师的努力，但许多早酷刑的控诉案，法院干脆不理会。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85%E6%8A%A5%E5%91%8A%E6%8C%87%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%B8%B8%E9%85%B7%E5%88%91%E9%80%BC%E4%BE%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85/?category=18271" rel="tag">大赦国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BE%9D%E7%84%B6%E6%8E%A7%E5%88%B6%E7%9D%80%E5%A5%B3%E6%80%A7%E7%9A%84%E8%BA%AB%E4%BD%93/" target="cdt-mirror">纽约时报 | 中国政府依然控制着女性的身体</a>
 </h2>
 <p><p>30年前的一幕总映在我的脑海里，挥之不去：一个男人拖着两轮板车回村，板车在坑洼中一颠一颠，上面躺着他刚做完结扎手术的妻子，一张大花被从头捂到脚，悄无声息，像个死人。</p>
@@ -437,233 +586,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A4%A9%E6%9C%9D%E8%B0%B7%E6%AD%8C/" target="cdt-mirror">【敏感词库】“天朝谷歌”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2012/12/%E6%BC%AB%E5%A3%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BC%8F%E4%B8%96%E8%A2%AD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2012/12/%E6%BC%AB%E5%A3%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BC%8F%E4%B8%96%E8%A2%AD.jpg" alt="漫士：中国式世袭" width="550" height=""></a><br><em>(图片作者：漫士SIMON)</em></p>
-<p>[ 测试时间：2015年11月10日，在此时间点，以下所有词语均为新浪微博搜索禁词（不包括“找人”）]</p>
-<p>（编者注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。）</p>
-<p><strong> 天朝＋谷歌</strong><br><strong>天朝＋Google</strong></p>
-<p><strong>资源＋微信</strong></p>
-<p><strong>计划生育＋人权</strong><br><strong>唐映红＋政策</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2-%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E4%BB%AC%E5%AF%B9%E6%99%AE%E9%81%8D%E6%94%BE%E5%BC%80%E4%BA%8C%E8%83%8E%E7%9A%84%E4%B8%8D%E5%90%8C/">唐映红 ：如何看待人们对普遍放开“二胎”的不同反应？</a>）</p>
-<p><strong>秘书帮</strong></p>
-<p><strong>习党</strong><br><strong> 习＋名片</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A030%E5%B9%B4%E5%89%8D%E8%AE%BF%E7%BE%8E%EF%BC%8C%E5%90%8D%E7%89%87%E7%AB%9F%E7%84%B6%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90/">【网络民议】习30年前访美，名片竟然是这样子</a>）<br><strong> 习＋独裁</strong><br><strong> 薄习</strong><br><strong> Xifac</strong><br><strong> jwxi</strong><br><strong> bjxi</strong><br><strong> w1xi</strong></p>
-<p><strong>fourthwave</strong>（第四波民主化浪潮）</p>
-<p><strong>拜城＋袭击</strong>（详见：<span><a href="http://chinadigitaltimes.net/chinese/2015/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%E5%A4%96%E7%9C%81%E4%BA%BA%E5%B1%85%E5%A4%9A-%E5%9B%BD%E5%BA%86%E6%97%A5%E5%89%8D/">自由亚洲｜<span>拜城煤矿遇袭事件</span></a>）</span><span><b><br></b></span><span><b>拜城＋煤矿</b></span><span><b><br></b></span><span><b>死亡＋阿克苏</b></span></p>
-<p><strong>黄祸</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2014/11/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%90%B4%E6%88%88%EF%BC%9A%E6%98%AF%E8%B0%81%E5%9D%90%E5%AE%9E%E4%BA%86%E6%96%B0%E9%BB%84%E7%A5%B8%E5%BD%A2%E8%B1%A1/">东网｜吴戈：是谁坐实了新“黄祸”形象</a>）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E6%9C%9D%EF%BC%8B%E8%B0%B7%E6%AD%8C.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E6%9C%9D%EF%BC%8B%E8%B0%B7%E6%AD%8C.png" alt="天朝＋谷歌" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E6%9C%9D%EF%BC%8BGoogle.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E6%9C%9D%EF%BC%8BGoogle.png" alt="天朝＋Google" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%B5%84%E6%BA%90-%E5%BE%AE%E4%BF%A1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%B5%84%E6%BA%90-%E5%BE%AE%E4%BF%A1.png" alt="资源 + 微信" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%EF%BC%8B%E4%BA%BA%E6%9D%83.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%EF%BC%8B%E4%BA%BA%E6%9D%83.png" alt="计划生育＋人权" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%8B%E6%94%BF%E7%AD%96.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%8B%E6%94%BF%E7%AD%96.png" alt="唐映红＋政策" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%A7%98%E4%B9%A6%E5%B8%AE.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%A7%98%E4%B9%A6%E5%B8%AE.png" alt="秘书帮" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%E5%85%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%E5%85%9A.png" alt="习党" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%EF%BC%8B%E5%90%8D%E7%89%87.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%EF%BC%8B%E5%90%8D%E7%89%87.png" alt="习＋名片" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%EF%BC%8B%E7%8B%AC%E8%A3%81.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B9%A0%EF%BC%8B%E7%8B%AC%E8%A3%81.png" alt="习＋独裁" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%96%84%E4%B9%A0.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%96%84%E4%B9%A0.png" alt="薄习" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Xifac.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Xifac.png" alt="Xifac" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/jwxi.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/jwxi.png" alt="jwxi" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bjxi.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bjxi.png" alt="bjxi" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/w1xi.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/w1xi.png" alt="w1xi" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/fourthwave.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/fourthwave.png" alt="fourthwave" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%8B%9C%E5%9F%8E%EF%BC%8B%E8%A2%AD%E5%87%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%8B%9C%E5%9F%8E%EF%BC%8B%E8%A2%AD%E5%87%BB.png" alt="拜城＋袭击" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%8B%9C%E5%9F%8E%EF%BC%8B%E7%85%A4%E7%9F%BF.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%8B%9C%E5%9F%8E%EF%BC%8B%E7%85%A4%E7%9F%BF.png" alt="拜城＋煤矿" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%AD%BB%E4%BA%A1%EF%BC%8B%E9%98%BF%E5%85%8B%E8%8B%8F.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%AD%BB%E4%BA%A1%EF%BC%8B%E9%98%BF%E5%85%8B%E8%8B%8F.png" alt="死亡＋阿克苏" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%BB%84%E7%A5%B8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%BB%84%E7%A5%B8.png" alt="黄祸" width="475" height=""></a></p>
-<p>备注：所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。<br>
-———————-</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A4%A9%E6%9C%9D%E8%B0%B7%E6%AD%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/google-%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">google 谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E4%B9%A6/?category=18271" rel="tag">秘书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%8E%E5%95%86%E6%8A%A5-%E5%B1%B1%E8%A5%BF%E8%80%81%E4%BA%BA%E5%90%8A%E6%AD%BB%E5%9C%A8%E5%B8%82%E6%94%BF%E5%BA%9C-%E8%AD%A6%E6%96%B9%E4%BB%A5%E6%B6%89%E5%AB%8C%E9%81%97%E5%BC%83%E7%BD%AA/" target="cdt-mirror">华商报 | 山西老人吊死在市政府  警方以涉嫌遗弃罪将其子逮捕</a>
-</h2>
-<p><p>2015年5月27日清晨，山西省古交市，一位60岁的老人吊死在古交市政府的大门上。时隔不久，他的儿子因涉嫌遗弃罪被当地警方逮捕，目前法院已经开庭但尚未作出判决。</p>
-<p>华商报记者调查发现，这位父亲在自杀前，曾经为了自己的“低保”被取消一事，多次要求相关部门予以恢复，但未果。而他被警方逮捕的儿子，生存状况也同样令人唏嘘。</p>
-<p>11月3日，山西省古交市。还未立冬的早晨，已经非常寒冷。屋外天色昏暗，伴随着阵阵东北风，呼啸着不知道吹向哪个角落里，偶尔发出刺耳的哨声。</p>
-<p>王丽文租住的十多平方米的房子内，尚有一些温暖。小屋窗上的玻璃生出些水雾，使得人从屋内向外望去朦胧一片。同样看不清楚的还有其父王银洞的死因——一位身高不足一米七、瘦小、平时爱穿蓝色中山装的60岁老人，离奇吊死在市政府大门上。</p>
-<p>六旬老人吊死在市政府的铁门上</p>
-<p>父亲自杀后，王丽文因涉嫌遗弃罪被逮捕并提起公诉，目前身陷囹圄。关于这对父子的故事，多来自亲属的讲述。</p>
-<p>2015年5月26日晚8时许，26岁的王丽文在地摊上卖着水果。</p>
-<p>60岁的父亲王银洞不知什么时候出现在水果摊前，询问儿子这么晚了还不收摊。王丽文说，再卖一会儿就收了。</p>
-<p>就在这时，又有人过来买水果，王丽文就招呼顾客去了。父亲在摊上吃了一个脆瓜（甜瓜），不知什么时候离开了。这是他和父亲的最后一面。</p>
-<p>第二天早上9点左右，王丽文接到警察的电话，说，父亲自杀了。王丽文不敢相信，他立即打电话给母亲，母亲安慰他，“不可能吧”。</p>
-<p>王丽文随即赶到古交市公安局，一位名叫“郭永望”（音）的警察说，王银洞是早上6点被送到医院太平间的。警察在王银洞的身上发现了一部诺基亚手机以及身份证。</p>
-<p>就在这时，现场另一位警察训斥王丽文，“你这是遗弃罪，你不管你老子（方言，父亲），他才吊死的”。</p>
-<p>之后发生的情形，王丽文告诉过舅舅岳补旺。11月3日，岳补旺向华商报记者转述了王丽文后来的一些遭遇。</p>
-<p>王丽文从古交市政府门口的监控录像上看到，5月27日凌晨已经3点20分了，父亲还在市政府门口转悠。</p>
-<p>警察给王丽文出示了一张父亲自尽时的现场照片。照片显示，父亲吊在市政府大铁门上，脖子上的绳子是绑罐头瓶的尼龙绳，脖子下垫着卫生纸。</p>
-<p>王银洞面朝门外，他的脚距离地面仅仅十余厘米。看着这张照片，王丽文迅速拿手机拍了下来。但最终，手机被警察夺了过去，在删完照片后，又还给了他。</p>
-<p>儿子自称无罪 拒绝取保候审</p>
-<p>之后，这家人经历了最难熬的几天。王丽文的母亲岳东叶说，得知噩耗后，王丽文头晕、特别是嗓子疼痛，很快就住院了。</p>
-<p>5月29日，当地公安、民政和乡村干部等多人来到岳东叶租住在古交市的民房内，了解王银洞生前的事情。而在此前，岳东叶和丈夫离婚多年，很难再管前夫的事情，只能尽量照看王丽文的两个孩子，所以知道的情况也不多。</p>
-<p>到了6月4日，王丽文到乡政府询问解决父亲后事的问题时，有警察突然找到他称，古交市公安局一位副局长找他谈话。随后，王丽文被从乡政府带走。</p>
-<p>次日，王丽文的家属便接到公安局的告知，王丽文涉嫌遗弃罪，被古交市公安局刑警大队刑事拘留。</p>
-<p>父亲刚去世，儿子就被拘留了。王丽文的妻子没工作，平日就靠丈夫摆地摊收入一点点钱，补贴家用，这下子，整个家都垮了。</p>
-<p>家里的两个孩子——6岁的姐姐和2岁半的弟弟，每天哭喊着要爸爸。后来，姐姐不知道从哪儿听说爸爸去了派出所，只要别人问她爸爸去哪了，她就说到派出所去了。</p>
-<p>王丽文被刑拘没几天，邢家社乡政府就有领导给王丽文家属带来了话，让他们写一份取保候审申请书，就可以将王丽文取保候审出来，然后就没有什么事了。</p>
-<p>岳东叶称，乡政府的领导还特别强调，这份取保候审书要特别保证，“王银洞家属不能上访和不能向政府索要赔偿金”。</p>
-<p>11月3日，华商报记者见到了这份王丽文多位家属签字的申请书。申请书上，明确提到不向政府索要赔偿以及不上访。</p>
-<p>然而，王家人还没等到亲人被取保候审出来，政府又有人传话，“王丽文拒绝取保候审，他说自己没有罪”。</p>
-<p>房子没了 家也变得“漂泊不定”</p>
-<p>前夫自杀，儿子被刑拘，这让今年55岁的岳东叶更认为这个家很不幸。而这个不幸的源头，是从30年前换婚开始的。</p>
-<p>岳东叶25岁时，由于哥哥找不到媳妇，于是她就嫁给了邻村的王银洞。作为交换条件，王银洞的妹妹嫁给了岳东叶的哥哥。</p>
-<p>结婚后，岳东叶发现，丈夫不是个勤快人，“别人家男人一天能干完的农活，丈夫需要三天才能干完”。</p>
-<p>之后，他们的两个女儿一个儿子相继出生。今年29岁的二女儿王丽珍清楚记得，她七八岁的时候，有一天爸爸刚从房子走到门口，房子就倒塌了。当时，她和姐姐以及妈妈在屋内，幸好都安然无恙。</p>
-<p>从此以后，王丽珍记忆里的“家”，一直在漂泊不定中。没有房子住，好心的邻居收留了他们，一家人搬到了邻居多余的房子住了。住了几年后，邻居的儿子要结婚，就又搬了出来。</p>
-<p>2002年，看着家里的经济条件太差，岳东叶进城给人当保姆。</p>
-<p>13岁的王丽文也辍学了，开始在社会上游荡，有时候在网吧打打工，有时候在食堂当个传菜员。</p>
-<p>2008年，王丽文谈了一个女朋友，两人很快就决定结婚。而在结婚当天，王银洞和岳东叶两家的亲属，因为一些事情打了起来。这场架，最终导致了王银洞和岳东叶的离婚。</p>
-<p>离婚时，岳东叶放弃了家中一切财产。但实际上，这个家已经没有财产可分。</p>
-<p>离婚后，岳东叶和二女儿在古交市租房居住。王丽文租住的房子离母亲很近，经常到母亲家混饭吃。而王银洞，当年从邻居的房子搬走后，先是借住在另一村民的房子，之后，那间房子也塌了，他便开始了边打工边养活自己的单身旅程，而且和这个家越来越远。</p>
-<p>他和儿子住过儿子家的境况也不好</p>
-<p>在前妻和两个女儿的眼里，王银洞不是一个勤快人。岳东叶甚至用“游手好闲”来形容前夫，“他挣的钱都养活不了他自己，有点钱全用到吃饭和吸烟上了”。</p>
-<p>实际上，王银洞也赚不了多少钱。在外打工的王银洞，也就是给人家看大门，或者帮别人饲养猪羊等家畜，此间，他还患了脑梗，曾三次住院。</p>
-<p>王银洞所在的陈家社村原村支书陈润小告诉华商报记者，2007年，他当村支书的时候，考虑到王银洞有脑梗以及没有住房等，就给办理了“低保”。“低保”是从2008年开始领取的。2009年陈润小不再担任村支书后，就不知道王银洞是否还在享受“低保”待遇。</p>
-<p>华商报记者在古交市采访时，大部分受访者认为，王银洞自杀的原因是3年前自己的“低保”被莫名其妙地取消。</p>
-<p>在前妻岳东叶看来，每年一千多元钱的低保，对于王银洞来说是救命钱。</p>
-<p>王银洞也去和儿子住过，但儿子的生活也好不到哪儿去。</p>
-<p>结婚不久，王丽文开始摆地摊卖水果。再后来，生了一儿一女，一家4口租住在古交市城北一间不到20平方米的民房内。华商报记者在民房内看到，一大一小两张床占据了屋子近三分之一的空间，家里的两件电器就是电视机和洗衣机。</p>
-<p>房东曾告诉来访记者，这个房间每月房租仅一百多元，可即便这样，这家人已经欠近一年房租了。</p>
-<p>王银洞偶尔也去给儿子帮忙照看水果摊。很多熟悉这对父子的人签名证明，2013年王丽文曾租房和父亲一起住，但几个月后，王银洞又去给表弟帮忙了，便不和儿子住了。</p>
-<p>今年三四月份，舅舅岳补旺曾在王丽文的水果摊上看到，王丽文正在给父亲零花钱。当时，岳补旺来气大骂昔日的姐夫，“孩子养家糊口生活本来就不容易，你还好意思给他要钱”？</p>
-<p>王银洞默默地离开了。大家都不知道他住在哪儿。岳补旺觉得，王银洞应该住在打工的地方。如果实在没地方住就去招待所，每天十几块钱就可以住。</p>
-<p>尽管在家人眼里，王银洞不勤快，甚至有点游手好闲。但在陈润小看来，事实可能并非全是这样，“得了脑梗后，人干活就没劲了，人软了”。</p>
-<p>低保取消？是否被遗弃？成待解疑问</p>
-<p>那么，王银洞的低保究竟有没有被取消？11月4日，华商报记者到古交市民政局和邢家社乡政府采访，均被以要经过宣传部同意为由而拒绝。</p>
-<p>但此前，古交市邢家社乡党委书记姜玉接受媒体采访时承认，王银洞确实没有家，也没有房子住。此前的确取消了王银洞的“低保”，原因是王银洞在外打工每年能有七八千元的收入。对于王丽文拒绝取保候审的事情，姜玉曾对当地媒体表示，政府帮他申请取保候审，但前提是王丽文对于父亲的死亡不能再上访以及要求经济赔偿。“但是王丽文认为自己没有错，不愿意办理取保候审”。</p>
-<p>据悉，申请农村低保待遇应同时具备下列条件：1、持有本县农业居民户口；2、居住在农村村组，家庭承包土地的农村居民。3、共同生活的家庭成员人均年纯收入和实际生活水平低于当地农村低保标准。2015年，古交市农村低保标准为318元/人/月。</p>
-<p>得知王银洞的低保被取消了，陈家社村原村支书陈润小觉得，村里很多条件比王银洞好的都吃“低保”，不知道为何取消王银洞的。</p>
-<p>除低保问题外，王丽文涉嫌遗弃罪，证据在哪里呢？11月3日，华商报记者到古交市公安局采访，政工室负责人说此事太敏感，要经过公安局领导同意，让记者等电话，但截至发稿，也未等到答复。</p>
-<p>王丽文的律师李维锋说，10月27日法院开庭时，检察机关曾宣读证人证言。王银洞的一位弟弟称，平时王丽文很少管自己的父亲。但这个弟弟也承认，他很少见到哥哥。</p>
-<p>王银洞所在的村子现任村干部也给公安机关证明，王银洞三次住院都是医院开的绿色通道，看病钱最后都是政府给交的。有村干部还说，王银洞曾经还想通过乡村干部，和儿女断绝关系。</p>
-<p>“目前可以肯定的是王银洞吊死在古交市政府大门口，但吊死的原因还不是很清楚，因为死无对证。”但李维锋认为，如果王银洞够吃“低保”的标准，那么政府不给办低保显然不对；但如果王银洞不够吃“低保”的标准，就说明他能自食其力，显然，遗弃罪就不能成立。</p>
-<p>王银洞生前最后一个夜里发生了什么？</p>
-<p>11月4日，古交市人民法院院长刘三娃告诉华商报记者，“案件还没有判，如果我们瞎判，你们再过来监督不迟”。</p>
-<p>纵观整个案件，华商报记者发现更多待解的疑问。诸如，公安机关说6点前王银洞已经被送往医院太平间，但是在6点20分，王银洞的手机还给110打过电话，这个电话到底是谁打的？</p>
-<p>5月27日零时许，王银洞还给一工友打过电话，他说了什么？王银洞凌晨3点20分还在市政府大门外转悠，早上6点被送到医院太平间。此间，是环卫工人而不是市政府保安发现并报警的，市政府是否对于王银洞的死负有责任？这些，古交市政府或公安部门没说清楚。</p>
-<p>华商报记者在王银洞老家看到，土房已倒塌，院子内荒草横生。村里人说，王银洞是一个恓惶人，村民们大多知道他是吊死在市政府大门口的。</p>
-<p>在古交市政府收发室，一工作人员说，那个人就是吊死在外面的铁门上的。具体情况保安应该知道，但值班的保安说，他刚来上班几天，不是很清楚此事。</p>
-<p>那两扇王银洞最终将自己吊在上面的黑色大铁门，每扇大约4米长、近4米高。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%8E%E5%95%86%E6%8A%A5-%E5%B1%B1%E8%A5%BF%E8%80%81%E4%BA%BA%E5%90%8A%E6%AD%BB%E5%9C%A8%E5%B8%82%E6%94%BF%E5%BA%9C-%E8%AD%A6%E6%96%B9%E4%BB%A5%E6%B6%89%E5%AB%8C%E9%81%97%E5%BC%83%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E4%BF%9D/?category=18271" rel="tag">低保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%89%E5%AB%8C%E9%81%97%E5%BC%83%E7%BD%AA/?category=18271" rel="tag">涉嫌遗弃罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF-%E8%A2%AB%E6%B6%88%E5%A4%B1-%E5%A5%87%E6%A1%88/" target="cdt-mirror">端传媒 | 香港禁书书店老板 “被消失” 奇案</a>
-</h2>
-<p><p>香港著名的禁书经营者“铜锣湾书店”一名老板、三名员工先后在东莞、深圳、泰国等地失踪，至今下落不明。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6439e98a04ff442a86c39c18d63b0643.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6439e98a04ff442a86c39c18d63b0643.jpg" alt="出售內地禁書的銅鑼灣書店。攝：Billy H.C. Kwok/端傳媒" width="600" height="400"></a><p>出售內地禁書的銅鑼灣書店。攝：Billy H.C. Kwok/端傳媒</p></div>
-<p>大陆来港自由行的旅客，除了血拼名牌与药材外，还常常会买上一两本书——那些在大陆买不到、无法出版发售的“禁书”。</p>
-<p>香港有出版自由，但出版这类禁书的香港书商，近来却连番在大陆遭遇打压。</p>
-<p>首宗被披露的，是曾出版大量“敏感时政书籍”的晨钟书局，其出版人姚文田于2013年10月在深圳被捕，2014年5月被控共同走私普通货物罪，判刑10 年；2014年5月月底，两本时政杂志《新维月刊》、《脸谱》的经营者<a href="https://theinitium.com/article/20151107-mainland-wang-guo-case/">王健民、呙中校</a>亦在深圳家中被大陆警方带走，被拘一年半后才开庭审理。</p>
-<p>2015年11月6日，又有4名香港出版业人士“被失踪”。这次卷进暴风眼的，是有廿多年历史的“铜锣湾书店”。</p>
-<p><strong>老牌禁书书店，4人先后“失踪”</strong></p>
-<p>这间位处香港铜锣湾崇光百货背后的楼上书店创办于1994年，除了普通文艺历史书籍之外，以售卖在大陆无法出版发售的政治“禁书”闻名。 近300平方呎（约30平方米）的空间里，放满了书架和数千册书，正对店门最当眼的位置上，摆着《江泽民大胜习近平》、《2017习近平崩溃》、《彭麻麻暗斗宋贵妃》等书。</p>
-<p>11月6日，端传媒记者走进“铜锣湾书店”，只见一名男人在书店内忙碌，他自称李先生，是书店的经营者之一。</p>
-<p>李先生年约60，香港人，妻子是书店母公司“巨流传媒有限公司”股东之一，他表示自己平日鲜理店务，但这几天却要亲力亲为，是因为负责打点日常工作的店长林荣基、总经理吕波及业务经理张志平一共3人，全部报称“失踪”。</p>
-<p>李先生告诉端传媒记者，上月底送货员几次送书来店都无人接收，遂致电李询问。李大惑不解，不停致电四出打听，“打给吕波一直无人接听，而张志平的电话就一直关机，林荣基则没有使用手机”。</p>
-<p>人间蒸发的不仅仅是3名书店职员。李先生之后又发现， 公司的另一位合伙人桂民海也音讯全无。</p>
-<p>“根据书店电脑的登入记录，最后一个使用者是店长林荣基，日期是10月23日。”李紧张地说。</p>
-<p><strong>媒体披露，家属才接“报平安”电话</strong></p>
-<p>林荣基是香港人，下月60岁。他在1994年创办了“铜锣湾书店”，至今已经营了20年，在行内无人不识。2014年，他将书店卖给了“巨流传媒有限公司”，他本人则在卖盘后留任担任店长。</p>
-<p>买下书店的巨流传媒有限公司，分别由桂民海、李先生的妻子及吕波三人持股，其中吕波还担任总经理，另外聘请了张志平任公司的业务经理。</p>
-<p>记者前往林荣基与太太报称位于将军澳宝琳的居所拜访，林太不愿多提事件，只道林荣基常常夜宿书店，“经常好久不见一次，所以我什么都不知道”，便回绝记者任何提问。</p>
-<p>11月6日早上，海外媒体博讯披露“铜锣湾书店”与“巨流传媒”老板及员工4人突然失踪的消息。</p>
-<p>李先生告诉记者，就在博讯报导刊出后的当天下午5时许，林太曾收到相信是林荣基本人的来电，内容大抵为“我很安全，过一阵子回来，请勿担心”，之后收线。</p>
-<p>几乎是同一时间，居住在德国的桂民海太太，也收到了相信为桂民海本人打来的电话，内容与林太所闻基本相同。</p>
-<p>在怀疑失踪的10月23日之后两个星期，当事人家属都毫无头绪，直到事件于6日上午被传媒曝光，当日下午才终于收到姗姗来迟的“报平安”电话。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/5d160c365cb4462684af4d4911db1ac4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/5d160c365cb4462684af4d4911db1ac4.jpg" alt="5d160c365cb4462684af4d4911db1ac4" width="600" height="420"></a><p>巨流传媒相关人等突然“被消失”。图：端传媒设计部</p></div>
-<p><strong>4人在东莞、深圳、泰国三地失踪</strong></p>
-<p>根据书店的电脑纪录，比林荣基早一日（10月22日）登入的使用者，是32岁的张志平。他是巨流公司的业务经理，主要负责日常营运，亦常在书店帮手。大约4年前，张志平迎娶了东莞凤岗镇某村的一名刘姓女子，此后便常常北上与妻团聚。</p>
-<p>张志平正是在东莞妻子家中，突然被十几人带走，之后便失去联络。端传媒记者在东莞凤岗采访时，在当地村民的指点下，找到事发地点，即其妻子娘家的住宅。应门的相信为男方张志平的亲属，见到记者来访，神色非常慌张警惕，拒绝回应张志平被抓走的经过，只不停强调张志平“暂时没事”。</p>
-<p>其中自称为张志平哥哥的男子说：“我告诉你，我弟弟现在没事。”记者向其求证是否已收到张志平报平安的电话，他只回应“平安、平安”，似乎非常担心透露张志平的半点行踪。</p>
-<p>知情人士透露，失踪者的家属或受到威胁。</p>
-<p>记者向附近村民打听，有目击者透露，10月24日周六早上约10点，有十几名身穿便衣、携枪人士突然包围刘家大院，其后更冲进屋内，带走了一名男子。一名杂货店老板亦证实被掳的人是张志平。</p>
-<p>铜锣湾书店的另一名职员吕波，最后使用电脑的记录为10月14日，次日他本来告假，据悉是返内地探亲。吕波是香港人，约45岁，年前娶了一位大连女子为妻，常去深圳团聚，“他在香港自己一人独居，我猜他今次告假都是去大陆与妻子团聚，想不到就此失联。”李先生说。</p>
-<p>根据博讯11月6日的报道，除了三位员工外，巨流公司的老板桂民海则于泰国失踪。</p>
-<p>“阿海（桂民海）最后一次和我联络，是10月15日发来的电子邮件，信中说他已经到了泰国，还邀我同往”，李先生忆述。据悉，桂民海定居德国，但经常来港打点生意，亦在泰国有居所。桂的妻子曾致电泰国居所的管理处，管理员称看见桂与“朋友”外出后，便再无消息。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/716c7a134cd64b9bb6109193b5196a4c.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/716c7a134cd64b9bb6109193b5196a4c.jpg" alt="内地禁书。摄：Billy H.C. Kwok/端传媒" width="600" height="400"></a><p>内地禁书。摄：Billy H.C. Kwok/端传媒</p></div>
-<p><strong>因计划出版《双规》而“被消失”？</strong></p>
-<p>1964年出生的桂民海，是浙江宁波满族人，1985年自北京大学历史系毕业后，负笈瑞典并入籍。“6、7年前，阿海移民去了德国，然后来香港碰碰运气。”当年带桂民海进入出版一行的刘达文接受端传媒访问时如是说。刘达文是政治杂志《前哨月刊》的总编辑、夏菲尔出版有限公司负责人，夏菲尔一向以出版政治禁书为主。</p>
-<p>渐渐对出版业上手的桂民海，意欲自立门户，亲自操刀出版下游的发行生意，便于2012年4月与李先生共同成立了“巨流传媒有限公司”，并从刘达文处带走了两位员工，即此次失踪的吕波与张志平。根据公司资料，2013年时桂民海与李先生的太太分别持股49%，余下2%由吕波持有，2014年9月，两位大股东分别给予吕波15%股份，现股权分布为桂民海34%、李太34%与吕波32%。</p>
-<p>刘达文向记者透露一个细节，猜测今次共4人的被失踪，可能与此前发生的一宗出版交易有关。</p>
-<p>刘透露，曾任检察官的安徽人沈良庆，离开体制后想将自己所见所闻、亲身经历撰文，出书《双规》解密中国的“双规”体制。2012年，桂民海独立门户前已答应为沈出版此书。“但有中方背景的人来游说我，要求我叫阿海停止出版”，刘达文忆述，当时仍是阿海上司的他，便向桂民海转达此讯息，桂民海则回应事情已经搞定。</p>
-<p>《双规》一书的作者沈良庆后来接洽了香港另一家出版社“五七学社”，终得面市。刘透露，该书的出版令曾出声叫停的中间人大为光火，也惹恼了公检法势力。</p>
-<p>刘达文认为桂民海失踪，或也与其曾收钱封口，后来背信违诺有关。另有消息来源称，桂目前正准备出版新书，但基于上述背信一事，“今次有关方面干脆不再谈，直接抓人封杀”。</p>
-<p><strong>禁书出版人的命运</strong></p>
-<p>“五七学社”同样是在香港注册，主力出版政治类禁书的出版社，其负责人武宜三告诉记者，近来在香港出版大陆“禁书”，开始遇到很多麻烦及阻力。</p>
-<p>在2013年10月，香港晨钟书局出版人姚文田在深圳被补，直到2014年5月7日，73岁的姚才在深圳中级法院被控以“共同走私普通货物罪”，一审判处十年徒刑、罚款25万元人民币。姚文田是六四事件中唯一被捕的香港学生姚勇战的父亲。</p>
-<p>圈内人士普遍传言，姚文田被捕，是因为他计划为流亡作家余杰出版新作《中国教父习近平》。</p>
-<p>姚文田被捕后，出版计划一度悬置，直到“五七学社”负责人武宜三承诺出版此书，但后来他称自己“收到一个令人恐惧的电话”，再一次放弃了出版计划。后来，该书由香港开放出版社与台湾前卫出版社出版。</p>
-<p>无独有偶，香港政论杂志经营者王健民、呙中校则在2014年5月底被警方从深圳家中带走，被拘17月后，本月5日于深圳开庭，因涉嫌非法经营罪公开受审。两人都是香港永久居民，其中王健民同时为美国公民，他们当庭认罪，案件择日宣判。</p>
-<p><strong>出入境记录成迷</strong></p>
-<p>此次铜锣湾书店失踪的4人，直至11月9日仍未确知下落。林太于11月5日晚于湾仔警署报案，当晚，警方指点其翌日赴入境处查询林荣基的出入境记录。但第二天，即传媒揭发事件后，入境处拒绝林太查询，着其回警署求助。</p>
-<p>记者分别于11月6日、11月9日先后两次向警察公共关系科追问此事，警方于昨晚8点回复记者查询称，11月5日有一位59岁女子于湾仔警署报案称与丈夫失联，后于6日报称已取得联络。</p>
-<p>李先生后来再以张志平与吕波的资料向入境处、警方查询，声称遇到警方的多番推搪，8日晚得到答复说，由于李先生不是亲属，“出于私隐原因，不能透露二人是否去了大陆”。</p>
-<p>“桂民海失踪，多半是因为他出的书得罪了某些政权或势力。其余三人因为是雇员，无辜受牵连，”李先生说，“要是他们长期失联，书店唯有另作打算。”</p>
-<p>“敲山震虎，整肃不听话的出版人”，这是已打算从禁书出版业“退休”的刘达文最后的总结。</p>
-<p>（基于安全，李先生接受访问时不愿透露全名）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF-%E8%A2%AB%E6%B6%88%E5%A4%B1-%E5%A5%87%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90/?category=18271" rel="tag">和谐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%B6%88%E5%A4%B1/?category=18271" rel="tag">被消失</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E5%8D%8E%E7%BD%91-%E6%96%87%E5%8C%96%E9%83%A8%EF%BC%9A%E6%98%8E%E5%B9%B4%E8%B5%B7%E7%BD%91%E7%BB%9C%E9%9F%B3%E4%B9%90%E9%9C%80%E5%AE%A1%E6%A0%B8%E5%90%8E%E6%96%B9%E5%8F%AF%E4%B8%8A/" target="cdt-mirror">新华网 | 文化部：明年起网络音乐需审核后方可上线</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/g_5R-fxkniup6258859.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/g_5R-fxkniup6258859.png" alt="g_5R-fxkniup6258859" width="550" height="866"></a></p>
-<p>新华网北京11月9日电（记者周玮）文化部近日发布《关于进一步加强和改进网络音乐内容管理工作的通知》，将对网络音乐内容实行企业自主审核、承担主体责任，文化行政部门进行事中事后监管的管理制度。</p>
-<p>通知要求，网络音乐经营单位要按照“谁经营，谁负责”的原则，坚持社会效益和经济效益相统一、社会效益优先，切实履行内容审核主体责任。要建立 网络音乐自审工作流程和责任制度，并严格按照文化行政部门统一制定的内容审核标准和规范，对拟提供的网络音乐产品进行内容审核，审核通过后方可上线经营。 自审制度和产品自审信息要向省级以上文化行政部门备案。</p>
-<p>通知强调，各级文化行政部门和文化市场综合执法机构要指导、监督网络音乐经营单位开展自审工作，包括指导企业培训自审人员，对企业自审制度执行 情况进行随机抽查、核查，为网络音乐内容自审工作提供行政指导等。要加强网络音乐市场事中事后监管，建立网络音乐市场巡查、随机抽查制度，依法查处违法违 规行为和相关责任单位，建立健全警示名单和黑名单等网络音乐市场信用管理制度，对网络音乐市场实行信用管理。</p>
-<p>文化部文化市场司有关负责人表示，对现行网络音乐内容管理政策作出调整，是进一步加强和改进网络音乐内容管理，促进网络音乐行业健康发展的需 要，也是落实中央关于简政放权、放管结合、优化服务要求的具体举措。各级文化行政部门和文化市场综合执法机构、各网络音乐经营单位要高度重视，认真执行有 关管理制度，严格履行相关职责，共同推动我国网络音乐行业健康有序发展。</p>
-<p>通知自2016年1月1日起施行。网络音乐经营单位自2016年4月1日起报送网络音乐自审相关信息。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E5%8D%8E%E7%BD%91-%E6%96%87%E5%8C%96%E9%83%A8%EF%BC%9A%E6%98%8E%E5%B9%B4%E8%B5%B7%E7%BD%91%E7%BB%9C%E9%9F%B3%E4%B9%90%E9%9C%80%E5%AE%A1%E6%A0%B8%E5%90%8E%E6%96%B9%E5%8F%AF%E4%B8%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%A0%B8/?category=18271" rel="tag">审核</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%9F%B3%E4%B9%90/?category=18271" rel="tag">网络音乐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8/?category=18271" rel="tag">行政部门</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E6%95%B0%E6%9C%88%E5%90%8E-%E9%87%8D%E5%BB%BA%E5%AE%B6%E5%9B%AD%E4%B9%8B%E8%B7%AF%E4%BD%95%E5%85%B6%E6%BC%AB%E9%95%BF/" target="cdt-mirror">纽约时报 | 天津爆炸数月后 重建家园之路何其漫长</a>
-</h2>
-<p><p>天津——李军华（音）的房子所在的万科海港城座落于一个堪称样板的经济开发区里。这是一个庞大的高层公寓小区，大楼外面有大片翠绿的草地，和新栽种的白蜡树和桃树。如果是在其他什么时候，这番景象或许会让人心旷神怡。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/09TIANJIN1-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/09TIANJIN1-articleLarge.jpg" alt="上月，中国天津的住宅楼和建筑工地。该市8月12日发生的工业爆炸导致173人死亡，附近很多房屋严重受损。" width="600" height="463"></a><p>上月，中国天津的住宅楼和建筑工地。该市8月12日发生的工业爆炸导致173人死亡，附近很多房屋严重受损。</p></div>
-<p>但现在，看着大面积的新景观，李军华和很多邻居看到的是另外的东西：政府为转移他们的质疑和愤怒而展开的行动。新景观是9月布置的，不远处便是8月12日晚上发生的一起事故的中心，那是中国伤亡最惨重的工业事故之一。事故中发生的化学品爆炸给周边大片地区造成了严重破坏，导致173人死亡，引发了民众的质疑和愤怒。</p>
-<p>“铺草地是政治作秀，”39岁的李军华一边说，一边从原来的家附近的草地上，猛地拔起一根草。“地方官员只想取悦上级。”身为商人的他已经从这里搬走了。</p>
-<p>爆炸导致超过1.7万户居民房屋受损，末日般的场面震惊全国。事故发生近三个月后，居民称仍无法重建自己的生活，因为政府官员试图把这起令其难堪的事故抛诸脑后，阻止民众对共产党的公开批评，于是展开了一场威胁恐吓行动。</p>
-<p>政府很快便向房屋在爆炸中受损的家庭发放了现金赔偿，但居民称，官员对他们的困难处境态度冷漠，玷污了政府的方案。那些不愿领取安置补贴的人受到骚扰，还有人遭到警方的殴打。</p>
-<p>很多人担心，数吨化学品在空气中爆炸后产生的有毒物质会对他们的健康有长期影响。一些人推迟了生孩子的计划。其他一些人还未能从身体和心理的创伤中恢复过来。他们也在思索，自己要如何谋生。</p>
-<p>“我肯定没法再开叉车了，”43岁的刘桂刚（音）说。在爆炸中，他一只眼睛失明，部分脊椎受伤。</p>
-<p>事故发生前，因为户型宽敞且紧挨着私立学校，万科海港城成为了中国中产阶级生活愿景的实体表现。很多居民都乐观上进，在天津港附近的公司上班，或是经营着靠海港运行而蓬勃发展的企业。</p>
-<p>但距小区约600米远的地方，便是一个货运场。发生爆炸的那天晚上，那里存放了多达3000吨的危险化学品。瑞海国际物流有限公司把货运场设在那里违反了中国的规定。相关规定要求，危险物品的存放地与居民区的距离，应当比这更远。</p>
-<p>与街对面的园林绿化活动形成对比的是，万科海港城里仍是一派凄凉，到处散落着破烂的家具和丢弃的衣服，有些衣服褪色了，似乎是爆炸扩散的化学品造成的。在一大片曾经树木茂密的公共区域，变形的金属、损毁的床架、破破烂烂的床单和丢弃的玩具四处散落。就在小区的其中一处大门外，被烧毁的汽车只留下了框架，锈迹斑斑。</p>
-<p>在等待获得赔偿金的同时，流离失所的居民们在远离这里的亲属家中借住，或临时租住公寓。</p>
-<p>政府提出两个方案，居民可以将房屋以原房价1.3倍的价格卖给私营开发商，也可以保留房屋，然后根据政府雇佣的公司的评估，获得赔偿。对于无法使用的家具和电器，居民们还可以获得全额退款。</p>
-<p>官方媒体称赞该计划为民众提供大量赔偿。但居民们表示，这些钱不够买新房，因为房价在近几年来不断攀升。</p>
-<p>居民们表示，政府或国企的工作人员如果拒绝接受这一协议，就会面临失去工作的风险，而那些努力领导群体谈判的人受到警方及其他官员的威胁。</p>
-<p>住在万科小区的安全工程师——37岁的朱海鹏（音）说，“官员们把门一关，坐在办公室里，然后强制大家接受这个方案。”</p>
-<p>像很多邻居一样，朱海鹏在爆炸发生后参加了公开抗议活动，第一次是为了抗议海港城出现偷盗现象，居民们指责政府雇佣的维修工人在偷东西，后来是为了抗议地方官员无视他们直接参与谈判、获得公平赔偿的意愿。</p>
-<p>“爆炸之前，我从未想过我会参加抗议活动，”朱海鹏提到参与街头示威活动的举动时说。“但后来，我觉得自己很渺小。”</p>
-<p>居民们表示，他们发起了10多次抗议活动，一些参与者被警方带走。最新一次示威活动发生在9月末，当时100多人聚集在政府办公楼外，直到上午11点，他们也没有等来官员跟他们对话。</p>
-<p>很多万科房主对该赔偿方案感到沮丧，认为该方案对爆炸范围内的所有公寓采取统一标准，尽管有些房屋受损更为严重。“我们应该得到更多赔偿，因为我们受到的损害最大，”朱海鹏提到万科海港城的居民时说，该小区在爆炸中受损最为严重。</p>
-<p>参与灾难应对工作管理的官员张晓强（音）表示，政府的“善后工作做得很好”，并为该赔偿计划辩解，他指出，在七个受损最为严重的住宅小区，超过99%的住户签署了协议，或已经同意签署协议。</p>
-<p>他否认当局迫使居民接受该协议。他说，“不存在这种威胁。”</p>
-<p>来自不同小区的流离失所的居民们通过微信交流，比较赔偿方案，制定谈判策略，分享警察攻击房主的视频，其中很多人都是在抗议活动中相识。</p>
-<p>但此类活动存在风险。据居民们透露，一名同意代表万科房主参加谈判的女性最终退出，因为官员威胁要吊销她的营业执照。居民们还表示，当地律师因为担心激怒当局，不愿帮他们打官司，其中几名律师的住所也在该小区。</p>
-<p>政府尚未公布爆炸发生时该货运中心的化学物品库存清单，但官方媒体报道称，瑞海处理的是一些业内最不稳定、毒性最大的物质。当局在8月晚些时候宣布，23名应为爆炸事故负责的政府官员和瑞海管理人员遭到拘留或接受调查。</p>
-<p>此后，官方新闻媒体几乎没有发表有关该事故的报道。官员们也没有公布有关调查进展或公开审判的信息。</p>
-<p>爆炸发生时，33岁的赵颖苗（音）被冲击波击倒，导致脚部骨折，现在走路仍然一瘸一拐。爆炸事故迫使他和丈夫离开几年前以23.6万美元（约合150万元人民币）的价格购买的万科公寓，租下了一套小的一居室。</p>
-<p>夫妇二人在附近开面包店，但爆炸发生后，两名员工担心爆炸带来的微尘会影响健康，辞职离开这里，面包店生意也大幅下滑。</p>
-<p>在未经装修的墙壁的衬托下，这栋小公寓体现了一种令人心灰意冷的生活状态。装有两人物品的纸箱摆放在客厅的地上，而那些他们担心已受到污染的衣服还被密封在白色垃圾袋里。</p>
-<p>“我们实际上打算要孩子，但现在没法要了，”赵颖苗说，她担心接触化学物质会致使怀孕变得困难起来。她出现呼吸困难的情况，担心爆炸当晚吸入的燃烧的化学物质会带来长期损害。</p>
-<p>34岁的张悦（音）在该市另一端租了一间房，她在万科小区的房子仍然空着，冲击波导致家中的墙壁和天花板留下了凹痕。“这次事故是政府的错，”34岁的张悦（音）最近的一个上午坐在租住房屋的餐桌边说。“如果他们不能提供公平的赔偿，至少应该道歉。但他们什么也没说。”</p>
-<p>张悦和丈夫都在一家汽车制造厂工作，他们也表示决定不要孩子了。</p>
-<p>“如果我生了孩子，让孩子生活在这样的社会是不公平的，”张悦一边说，眼泪一边顺着脸颊滑落。</p>
-<div>
-<div>
-<p>Adam Wu对本文有研究贡献。</p>
-</div>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%E6%95%B0%E6%9C%88%E5%90%8E-%E9%87%8D%E5%BB%BA%E5%AE%B6%E5%9B%AD%E4%B9%8B%E8%B7%AF%E4%BD%95%E5%85%B6%E6%BC%AB%E9%95%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85/?category=18271" rel="tag">事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E8%BE%B0%E5%8C%BA%E7%88%86%E7%82%B8/?category=18271" rel="tag">北辰区爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E9%99%A9%E5%8C%96%E5%AD%A6%E5%93%81/?category=18271" rel="tag">危险化学品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A1%98%E6%B2%BD%E7%88%86%E7%82%B8/?category=18271" rel="tag">塘沽爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E7%81%AB/?category=18271" rel="tag">大火</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -675,7 +597,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -685,5 +607,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E6%95%85
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

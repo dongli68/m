@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,23 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%E6%96%B0%E5%AA%92%E4%BD%93%E7%A0%94%E7%A9%B6%E9%99%A2%E6%AD%A3%E5%BC%8F/" target="cdt-mirror">中国青年报 | 国家意识形态中心新媒体研究院正式成立</a>
+</h2>
+<p><p>中国青年网北京11月12日电（记者 李晗）近日，中国社会科学院国家文化安全与意识形态建设研究中心（简称国家意识形态中心）正式成立新媒体研究院。相关负责人对中国青年网记者表示，这是国内首家由中央有关部委、军队、群团组织、研究机构、高校、新闻单位和正能量新媒体专家等共同组建的权威新媒体研究机构，也为更好地打赢新三十年的意识形态反击战组建了一支生力军。</p>
+<p>据悉，在有关领导、专家的关心和支持下，国家意识形态中心从去年8月就开始筹划成立新媒体研究院，经过一年的深入调研，在今年8月19日正式决定成立国家意识形态中心新媒体研究院，并将成立日期确定在11月7日。国家意识形态中心副主任兼秘书长朱继东担任新媒体研究院院长，来自解放军总政治部、国务院国资委、共青团中央、教育部等单位的六位专家担任副院长。</p>
+<p>国家意识形态中心新媒体研究院的成立得到了从中央到地方社会各界的大力支持，研究院的首批60多名专家，既有来自中央宣传部、中央网信办、中央统战部、国务院新闻办、国资委、教育部、文化部等党中央、国务院有关部委的优秀代表，也有来自解放军总政治部、共青团中央、全国总工会、全国妇联等军队和群团组织的中坚力量，还有来自清华大学、北京大学、中国人民大学、武汉大学、南京大学、国防大学等高校的学术骨干，以及来自新华社、人民日报、光明日报、中国青年网、宣讲家网、大众网等新闻媒体的资深记者，更有纪连海、点子正、花千芳、王小石等不少正能量网络名人和网警、企业高管等。各位专家纷纷表示，目前互联网已经成为意识形态斗争的“主战场”、“主阵地”和“最大变量”，要想真正做好意识形态工作，必须大力加强新媒体研究。而目前国内还没有一家能够把各方面力量联合、凝聚起来的权威研究机构，新媒体研究院的成立恰逢其时，也必将搭建起一个汇聚多方力量和智慧的强大平台。</p>
+<p>国家意识形态中心新媒体研究院院长朱继东告诉中国青年网记者，作为一家由党政军团研学等多领域的专家学者组成的理论研究、交流机构，新媒体研究院的主要任务是在中央和国家机关各部委与社会各界新媒体专家、网络意见领袖之间搭建起一个长期稳定的沟通交流平台，加强对网络意识形态工作的理论研究、新媒体的探索运用和网络意见领袖的团结、引导工作，尤其是对新媒体行业系统性地展开全面、深入研究，形成对网络意识形态的长期跟踪、研究机制，逐步建成一家具有强大影响力的意识形态智库，并和有关部门、单位、地方加强合作，为不断提高党和政府对网络意识形态的驾驭能力贡献力量和智慧，有效维护中国的网络意识形态安全。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%E6%96%B0%E5%AA%92%E4%BD%93%E7%A0%94%E7%A9%B6%E9%99%A2%E6%AD%A3%E5%BC%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6/?category=18271" rel="tag">理论研究</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%81%87%E5%86%92%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B9%B2%E9%83%A8-%E8%AE%A9%E3%80%8A%E6%A3%80%E5%AF%9F%E6%97%A5%E6%8A%A5%E3%80%8B%E4%B8%AD%E6%8B%9B/" target="cdt-mirror">奇闻录 | 假冒“中纪委”干部 让《检察日报》中招</a>
 </h2>
 <p><p>11月10日，微信公号学思浅语发文，提醒大家小心身边假冒的中纪委干部，而就在前两天，连《检察日报》都中招了，检察日报在一篇反腐电影获好评的报道中，提及了一名中央纪委巡视专员董恩厚，然而事后证明此人系冒充。<span></span></p>
@@ -128,7 +142,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0/?category=18271" rel="tag">余杰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">文化大革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%89%88%E5%A4%A7%E5%9E%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E7%99%BD%E6%AF%9B%E5%A5%B3%E3%80%8B/?category=18271" rel="tag">新版大型歌剧《白毛女》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B7%E6%9D%BF%E6%88%8F/?category=18271" rel="tag">样板戏</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%AB%A0%E6%96%87%EF%BC%9A%E7%9C%8B%E7%B7%AC%E7%94%B8%E3%80%80%E6%83%B3%E4%B8%AD%E5%9C%8B/" target="cdt-mirror">东网｜章文：看緬甸　想中國</a>
 </h2>
@@ -648,29 +662,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%BE%8B%E8%AF%BB%E5%BA%93-%E5%AE%98%E5%91%98%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1%EF%BC%8C%E4%B8%8D%E8%83%BD%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E5%88%92%E4%B8%80%E4%B8%AA/" target="cdt-mirror">法律读库 | 官员非正常死亡，不能悄无声息划一个句号</a>
-</h2>
-<p><p>作者韩雪，法律读库原创部落成员。法律读库投稿邮箱：1751490@qq.com。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Img398062931.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Img398062931.jpg" alt="Img398062931" width="258" height="258"></a></p>
-<blockquote><p>官员非正常死亡事件频发，坠楼者有之，落水者有之，失踪者亦有之。涉事机关单位大多三缄其口、语焉不详，或冠之以抑郁症。于是舆论场上各种猜测、质疑之声四起，“有罪推论”更是盛行。官员也是人，为防无端被人泼一瓢脏水，有关部门应第一时间公布真相。如此这般，让清者得以安息，让浊者自取其辱。</p></blockquote>
-<p>媒体报道，中共柳州市委副书记、市长于11月4日21时47分左右落入柳江河中，经抢救无效死亡。</p>
-<p>网上披露的细节不知真假，很是蹊跷：柳州市委副书记、市长与其秘书晚上在柳州市柳江河边散步，不知何原因落入河中，市长溺亡，秘书生死不知。据中新网报道，当晚，警方接到群众报警，称有人在该市滨江东路保利大江郡附近的沿河亲水平台看到，有人翻越护栏落入水中。警方接警后迅速出警，水上派出所出动警务船只进行搜索。</p>
-<p>虽然最近意外死亡的官员不是个案孤例，但是由于死者身份特殊以及语焉不详的死亡过程，还是引发了民众的猜测和议论。</p>
-<p>《中国青年报》有个统计，2013年1月1日至2014年4月10日期间，共有54名各级官员非正常死亡。从官方公布的信息中看，认定因为自杀死亡的超过四成。其中有八人为跳楼自杀，其他的自杀方式有自缢、烧炭、喝农药等。某舆情监测系统采集网上公开报道的信息，对2014年1月1日至2014年12月24日曝光的官员自杀 事件进行了梳理，统计出截至2014年12月24日，我国官员自杀事件高达72起，分布来自全国22个省市自治区，跨越50后、60后、70后、80后四个年代 。</p>
-<p>官员意外死亡到底为什么？老百姓第一感觉就是“出事了”，也就是不堪压力，畏罪自杀。官方则习惯用“抑郁症”来笼统解释。的确，我们不能完全用“有罪推定”来看待所有的自杀死亡的官员，这部分人中，也的确有不少是因为工作压力大而不堪忍受。比如，汶川地震期间，就有灾区的基层官员因为丧子之痛和大强度工作不堪忍受而自杀。此前，《人民论坛》杂志曾对全国100多名官员的心理健康进行过调查，发现有80%以上的官员特别是基层官员普遍存在较大的心理压力和一定程度的心理不平衡、心理疲劳及心理压抑。其中，64.65%的受调查者认为，官员的压力源主要来自“官场潜规则对个人政治前途的压力”。这些都有可能是压垮官员的那根“稻草”。</p>
-<p>其实，生活节奏快工作压力大是我们这个时代的主旋律，作为社会一员的官员自然也不能免俗，也会“压力山大”，因此，对于官员自杀不能过分解读，不用过于敏感。首先有关方面要及时公布官员非正常死亡的原因，从根本上减少质疑和传言。此外，舆论也应保持理性，我们更应该关注的是现行政体下官员心理压力的成因与破解之道，而不是那些敏感的推测和盲目的传谣。</p>
-<p>真正值得关注的是那些所谓“畏罪自杀”的官员的“身后事”。就媒体曝光的一些案例来看，不少官员是或是在接受调查的当口，或是听到了违法犯罪行为即将暴露的风声之时，或是自己的保护伞被查处之日，心理不堪重压便会选择自杀，一死百了，以死换取家人的安宁和巨额财富，以死来让自己的“上线”安心，一句话，“了却君王天下事，赢得生前死后名”。</p>
-<p>我们的刑诉法有这样规定，一旦犯罪嫌疑人、被告人死亡，诉讼就会停止，就不会再被追究刑事责任，而且未经人民法院依法判决，任何人不得确定有罪。也就是说，由于贪官自杀，案件无法继续调查，更无法进入法律程序，往往就会不了了之。 实践中有不少这样的案例，比如某地银行原行长朱某在市看守所自杀后，检察院只得了撤销对朱的立案决定书。也就是由于存在这样的“空子”，许多官员采用自杀手段“丢车保帅”，掐断案件线索，使调查无法进行。</p>
-<p>官员畏罪自杀这一现象已经引起了相关部门的重视，有专家建议构建官员畏罪自杀后追究刑事责任的制度，即规定官员自杀以后，依法本应进行而尚未进行，已进行而尚未完成的各项刑事诉讼活动应当照样继续。在法庭审判阶段，实行刑事缺席审判制度，对于判决有罪的，可单独适用现有刑罚的罚金，没收财产，追回自杀官员涉及犯罪的财产。除了立法上的完善，也有检察官建议从办案程序方面加强防范，强化涉案官员的认罪服法教育等等。</p>
-<p>虽然官员的非正常死亡，不能都与“畏罪自杀”划等号，但是，我们也应看到，在职官员的自杀涉及公权力的运用、涉及公众知情权，百姓有权知晓。及时查清原因公布真相既是回应百姓的呼声需求，更是对死者负责任的态度。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%BE%8B%E8%AF%BB%E5%BA%93-%E5%AE%98%E5%91%98%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1%EF%BC%8C%E4%B8%8D%E8%83%BD%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E5%88%92%E4%B8%80%E4%B8%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80/?category=18271" rel="tag">官员自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">官员非正常死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF/?category=18271" rel="tag">广西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%B7%9E/?category=18271" rel="tag">柳州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">非正常死亡</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -682,7 +673,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -692,5 +683,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

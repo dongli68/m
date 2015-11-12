@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%81%87%E5%86%92%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%B9%B2%E9%83%A8-%E8%AE%A9%E3%80%8A%E6%A3%80%E5%AF%9F%E6%97%A5%E6%8A%A5%E3%80%8B%E4%B8%AD%E6%8B%9B/" target="cdt-mirror">奇闻录 | 假冒“中纪委”干部 让《检察日报》中招</a>
@@ -166,7 +166,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%8F%98%E9%9D%A9/?category=18271" rel="tag">政治变革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%82%E5%B1%B1%E7%B4%A0%E5%AD%A3/?category=18271" rel="tag">昂山素季</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%8C%96/?category=18271" rel="tag">民主化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%85%E7%94%B8/?category=18271" rel="tag">缅甸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%85%E7%94%B8%E6%B0%91%E4%B8%BB%E9%80%89%E4%B8%BE/?category=18271" rel="tag">缅甸民主选举</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E7%8E%AF%E4%BF%9D%E7%BB%84%E7%BB%87%E6%8C%87%E4%B8%AD%E5%9B%BD%E7%87%83%E7%85%A4%E7%94%B5%E5%8E%82%E9%A1%B9%E7%9B%AE%E6%95%B0%E9%87%8F%E6%88%96%E9%AA%A4%E5%A2%9E/" target="cdt-mirror">BBC | 环保组织指中国燃煤电厂项目数量或骤增</a>
 </h2>
@@ -682,7 +682,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -692,5 +692,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

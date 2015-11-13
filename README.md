@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%B8%82%E5%B2%AD%E5%8D%97%E5%B8%88%E8%8C%83%E5%AD%A6%E9%99%A2%E6%A2%81%E6%96%B0%E7%94%9F%E8%A2%AB%E6%92%A4%E8%81%8C/" target="cdt-mirror">【真理部】广东湛江市岭南师范学院梁新生被撤职</a>
+</h2>
+<p><p>广东一高校系副主任因发表言论过激博文被撤职一事，各网站不予炒作，已置于头条位置的请撤下。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<p>附1：广东省纪委11日通报了近期查处的6起典型案件</p>
+<p>2014年9月28日，中山市黄圃镇综合行政执法局副局长、安监分局局长徐培凯在黄圃镇民主推荐一名副镇长考察人选过程中，从事非组织活动，通过打电话给部分镇机关中层干部及村（社区）主要领导的方式为自己拉票，造成不良社会影响。2015年2月，因违反政治规矩和组织纪律，徐培凯受到党内严重警告处分。</p>
+<p>2015年4月，五华县司法局潭下司法所所长薛茂恩在参加县委政法工作会议期间，无视会场纪律，在会议中睡觉并擅离会场，造成不良社会影响。</p>
+<p>2015年8月，因违反组织纪律，薛茂恩受到行政警告处分。</p>
+<p>湛江市岭南师范学院基础教育学院英语系副主任梁新生2012年至2014年间，其在昵称为“dearmr43”的新浪微博上发表多篇言论过激的博文，有损党和国家形象，造成不良社会影响。2015年7月，因违反政治纪律和政治规矩，梁新生受到行政撤职处分。</p>
+<p>2013年12月至2014年2月期间，揭阳市揭东区锡场镇锡西村党总支书记林作绵未经村民代表会议讨论决定，擅自将村集体所有的厝地分配给4位村民使用，造成不良社会影响。2015年2月，因违反民主议事规则，林作绵受到党内严重警告处分。</p>
+<p>不得公开发表违背中央决定的言论</p>
+<p>省纪委表示，最近中央颁布了新修订的《中国共产党廉洁自律准则》和《中国共产党纪律处分条例》，全省各级党委（党组）要进一步增强主业意识，主动担当起管党治党的主体责任，以深入学习贯彻十八届五中全会精神为契机，以政治纪律和政治规矩、组织纪律为重点，带动纪律和规矩树起来、立起来、严起来。</p>
+<p>广大党员干部尤其是党员领导干部要把思想和行动统一到中央的决策和部署上来，严格遵守政治纪律和政治规矩、组织纪律，重点做到：不得拒不执行党和国家的方针政策和重大决策部署；不得公开发表违背中央决定的言论，或者散布违背党的理论和路线方针政策的意见；不得编造、传播谣言丑化党和国家形象；不得泄露党和国家秘密；不得搞团团伙伙、结党营私、拉帮结派；不得违反重要情况报告制度，超越权限办事，搞先斩后奏、边斩边奏，甚至斩而不奏；不得违反民主集中制原则，拒不执行或者擅自改变党组织做出的重大决定，个人或少数人决定重大事项；不得在党内搞匿名诬告、打击报复等非组织活动，破坏党的团结统一；不得在选举或干部选拔任用中搞封官许愿、跑风漏气、拉票、打招呼；不得利用职权和职务上的影响为亲属及身边工作人员谋取不正当利益。</p>
+<p>全省各级纪检监察机关要正确把握当前反腐败斗争的“四种形态”，将违反政治纪律和政治规矩、组织纪律列入纪律审查重点，抓早抓小，快查严处，做到执纪必严、寸步不让。</p>
+<p>附2：截屏：新浪微博上dearmr43的账号已经被删除</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/62eefa1bgw1exxv1qn76dj20se0icwhb.jpg" alt="62eefa1bgw1exxv1qn76dj20se0icwhb" width="440" height="284"></p>
+<p>附3:新浪长微博上梁新生发表的特别说明</p>
+<p>2015年11月13日 07:50 阅读 1260</p>
+<p>各位亲友：我是梁新生。大家别担心，我很好。这个事情最根本的原因是系副主任一职的竞岗，竞争对手几次失败后就疯狂打击报复，为达到他们的目的，抓住我的一些微博牢骚话，利用他们的各种社会关系逐级举报，无限上纲上线。我一直追求做个干净的人，我有自己的要求和底线，我很明白自己是个什么样的教师。谢谢各位的关心。祝大家生活幸福，万事顺利！</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%B8%82%E5%B2%AD%E5%8D%97%E5%B8%88%E8%8C%83%E5%AD%A6%E9%99%A2%E6%A2%81%E6%96%B0%E7%94%9F%E8%A2%AB%E6%92%A4%E8%81%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%92%E5%8A%A8%E7%99%BE%E7%A7%91%EF%BD%9C%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E4%BF%9D%E5%8D%AB/" target="cdt-mirror">互动百科｜国内安全保卫</a>
 </h2>
 <p><p>一、国内安全保卫的发展历程。</p>
@@ -557,64 +585,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bigertech-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%BF%99%E4%B9%88%E6%9C%9F%E5%BE%85%E8%B0%B7%E6%AD%8C%E5%9B%9E%E5%BD%92%EF%BC%9F%E5%9B%A0%E4%B8%BA%E7%99%BE%E5%BA%A6%E5%AE%9E%E5%9C%A8/" target="cdt-mirror">Bigertech | 为什么我们这么期待谷歌回归？因为百度实在太黑了</a>
-</h2>
-<p><p>最近无意中看到了一个名词“百度全家桶”。我感到十分惊讶，没想到阔绰的百度已经研发出了百度全家桶以飨网友，并且覆盖了PC端到手机端，全平台工作做得十分到位，让人倍感欣慰。哦对了，我们是不是应该先知道百度全家桶是什么？我们问问度娘吧。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/1.png" alt="1" width="640" height="409"></a></p>
-<p>好吧······为了准确，我还是通过谷歌，搜索一下词条“百度全家桶”，</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2.png" alt="2" width="640" height="355"></a></p>
-<p>它真的给了。点进了第三个链接，维基百科的词条。因为妈妈对我说，维基会给我答案。在“涉及产品”里：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/31.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/31.png" alt="3" width="640" height="513"></a></p>
-<p>复制过来是这样的：</p>
-<blockquote><p>PC端、百度卫士、百度杀毒、hao123、橘子浏览器、百度浏览器、百度拼音输入法、百度音乐、桌面百度、爱奇艺播放器、PPS、百度影音、百度日历、奇迹MU、百度软件管理、百度电脑专家、百度手机助手、百度阅读器、百度游戏大全、百度游戏加速、百度壁纸、百度下载助手、百度工具栏。</p></blockquote>
-<p>你以为这就完了？这才刚开始呢，PC端、PC端，PC端完了手机端。</p>
-<blockquote><p>手机/平板端、手机百度、百度手机助手、百度浏览器、百度地图、百度魔图、hao123、百度新闻、百度贴吧、百度手机卫士、百度文库、百度导航、百度锁屏、百度知道、百度旅游、百度百科、百度输入法、百度一键root、百度宝宝知道、百度糯米、百度图片、百度阅读、百度翻译、百度魔拍、百度刷机、百度游戏、百度外卖、百度团购、百度日历、百度乐播、百度相机、百度贴吧青春版、百度理财、百度游戏大全、百度多酷棋牌、百度天眼、百度财富、百度医生、百度手柄、百度德州扑克、百度路淘、百度聚聚、百度滴答、百度钱包。</p></blockquote>
-<p>我已经被吓哭了。</p>
-<p>为了推广这些产品，让它们能最后成功的装到你的设备上，百度还通过各种各样的视觉欺骗，来勾引用户安装他们的产品。比如，在角落里替你早早地打好一个小勾，或者用各种色块混淆你的注意力，比如这样：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4.png" alt="4" width="600" height="183"></a></p>
-<p>或者这样：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/5.png" alt="5" width="504" height="303"></a></p>
-<p>是不是特别想点取消？</p>
-<p>然后你的后台就变成了这样：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/61.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/61.png" alt="6" width="600" height="448"></a></p>
-<p>优酷上有一个安装全家桶的视频，在这里分享给大家： <a href="http://http//v.youku.com/v_show/id_XMTM0Mjk2NDM1Ng==.html">百度正常下载全家桶实验</a></p>
-<p>装一个送三个，这就是传说中的静默安装。</p>
-<p>更要命的是百度这些应用，并不仅仅是为了推广自己的应用，让你用而已。它还有更深层次的目的，那就是进一步的利用这些软件来收集你的个人信息。比如，我们到酷安网上看看：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/7.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/7.png" alt="7" width="614" height="880"></a></p>
-<p>比同为BAT巨头的鹅厂多了近三倍······真不知道百度要拿输入法来做什么，似乎是在下很大一盘棋的样子。</p>
-<p>看了这么多，现在我们大概可以看出了一个百度的作恶闭环：百度用自己搜索引擎的优势，在下载你需要的软件的同时，用一些你注意不到的伎俩，在你不知情时诱导你下载百度的产品，而当你下载了一个百度产品之后，接着通过静默安装这种流氓行径，来强行推广自己更多的产品，也就是百度全家桶。而这些全家桶干的事儿表面上看来可能是表面一回事儿，但背地里可能又是一回事儿了。靠广告为生的企业，觊觎用户的隐私再正常不过，因为它们的存在就是需要利用这些隐私，给你投送更多的广告，给自己谋取更多的利益。但百度作为互联网巨头，掌握了我们这么多隐私，却也没玩出什么新鲜东西来，依然还是靠广告主养活，依然不断地向我们索要更多的隐私，似乎就这么点追求了。</p>
-<p>那么反观百度真正的老本行，他们在搜索引擎市场表现如何？不难预料，自从谷歌退出中国之后，百度也因此获得了更广阔的土壤和更多的机会，让自己变得更加糟糕起来。</p>
-<p>在原来，我们一般认为关键词的广告大部分应该在页面右侧，然后标明为推广链接。像这样：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/8.png" alt="8" width="640" height="363"></a></p>
-<p>大家都知道要赚钱，所以右边有一些推广链接是可以理解的，只是不要妨碍正常使用就好了嘛。可当我觉得自己已经很宽容的时候，百度却不这么想。它根本不在乎你的使用体验，开始在所有的搜索信息里见缝插针地插入广告。哦不对，或许根本不是见缝插针，而是完完全全的广告先行。百度的原则想必非常简单，与自己业务没有冲突的，谁给的钱多把谁摆在前面，能摆多少摆多少。最直观的莫过于三大领域：金融，健康，教育。比如搜索白银：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9.png" alt="9" width="640" height="562"></a></p>
-<p>屏幕第一页没有任何有用的资讯，全都是推广链接。得往下拉一页，才能看到走势和新闻还有百科等相对有效的信息。搜索任何一个金融关键词都是如此，你只能看到无数的机构广告。</p>
-<p>搜索“世界大学排名”，出来的前几页，必然全是中介机构。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/10.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/10.png" alt="10" width="640" height="579"></a></p>
-<p>你也可以搜索任何一个资格证书的考试，得到的也全是培训机构的广告。</p>
-<p>随便搜索一个病的名称，你都能得到整整五页的广告。如果你的关键词是人流，男性疾病这种让人觉得并不那么光明正大的病症，你得到的搜索反馈则会更加触目惊心。试想看，你因为突发情况需要在室外百度一下问题，而你只能在手机上看到百度给你一个经过强制转码外加广告的、毫无实际内容可言的推广链接。这种欲哭无泪的心情，想想就够了。</p>
-<p>因此，对于百度而言，任何你能想象到有利益可寻的关键词，它们返回的结果都能让你大开眼界。而且百度根本不在意自己的推广链接是否具有欺诈性。</p>
-<p>刚刚这些，仅仅是与百度没什么冲突的业务，如果你的业务和百度相冲突了呢？要么，像刚刚说得，将自己的利益摆在你之前，诱导客户去用它的产品。要么，就进行封杀，这对所有国内的网站来说都是灾难性的。诱导用户使用自己的产品，这个时候的百度，可以说是一个小偷。而“封杀”这种行径，则使它同时又像一个面目狰狞，挥舞着大棒的打手。</p>
-<p>现在的百度似乎已经不再是作恶的人，而自己就已经成为了一个恶的化身。</p>
-<p>百度的本土化，会在某些方面让人诧异，以至于你可能会很费解，认为这还是一个非常不正经的公司。最典型的案例就是你现在同时在百度图片和谷歌图片搜索“护士”：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/11.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/11.png" alt="11" width="640" height="400"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/12.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/12.png" alt="12" width="640" height="400"></a></p>
-<p>这种结果的不同，或许体现了百度眼中的中文搜索引擎应该有的样子。根据百度的调性，人为调试出这种结果我也不会感到惊讶，毕竟时过境迁，百度没了谷歌这个竞争对手之后，发展出了出了自己的风格。而从来不曾改变的是百度那句名言：根据相关法律法规和政策，部分搜索结果未予显示。</p>
-<p>相比之下，谷歌有着各种各样比百度完善的产品：宇宙级的杀手应用 Gmail；相比国内应用市场显得健康而安全的 Google Play Store；让人倍感震撼的 Google Earth；世界通行的 Google Map；以及在网络上播撒文明火种的 Google Art Project；对学术工作者极其重要的Google Scholar还有免费的在线办公软件Google Doc。</p>
-<p>而以上这些产品还只是从谷歌搜索，这个核心业务衍生出来的大生态圈。谷歌搜索相较于百度搜索的准确性，那是不知道高到哪里去了。你随手搜一搜，就能在互联网上找到数不清的例子来证明这一点。我们只能说，百度的“恶”，简直是罄竹难书。</p>
-<p>这是一个什么样的时代？这个地球上市值最大的公司是苹果，市值已经超过了七千亿美金。创造了资本主义的历史。科技产品在这个时代几乎被抬高到了消费产业的顶端。而苹果之所以辉煌如此，能说这其中没有三星的作用吗？百度之所以沦为今天这个样子，想必与它在国内失去了竞争对手，并且用流氓手法打压竞争对手不无相关。就百度自身而言，这种一家独大在一开始，似乎是好的。但是到了现在，大家都知道腾讯、阿里还有百度这三个互联网巨头，百度是那个动作最慢的那个。大概是贪婪和傲慢迷住了百度双眼吧。</p>
-<p>我们并没有期待，谷歌是一个如何的“不作恶”，如何高尚的圣人。毕竟百度和谷歌的主要业务之一就是通过掌握一定的用户隐私来更好的卖广告。但关键在于，我们作为消费者能够面对一个较为健康的互联网环境。这无非是当其中的一个厂商做了“恶”的时候，我们作为用户，有权利为自己换一个服务，将自己口袋里的钱给另一拨，你觉得做得更好的人。而不同的厂商，也会因为用户的切换摇摆而改进自身服务，提高自己做事的姿势的水平。这多多少少，都会提高用户的使用体验。而这也是为什么，我们都希望谷歌能够早日重返大陆的原因。因为这不论是对百度，对谷歌，还是我们每个普通人而言，都是一件好事。</p>
-<p>不多说了，最后让百度用一张图，告诉我们谷歌有多厉害，毕竟谷歌旗下有着“最全最准的免费地图”——百度地图。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/13.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/13.jpg" alt="13" width="491" height="629"></a></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bigertech-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%BF%99%E4%B9%88%E6%9C%9F%E5%BE%85%E8%B0%B7%E6%AD%8C%E5%9B%9E%E5%BD%92%EF%BC%9F%E5%9B%A0%E4%B8%BA%E7%99%BE%E5%BA%A6%E5%AE%9E%E5%9C%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/?category=18271" rel="tag">搜索引擎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E6%B0%93%E8%BD%AF%E4%BB%B6/?category=18271" rel="tag">流氓软件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%A8%E6%88%B7%E9%9A%90%E7%A7%81/?category=18271" rel="tag">用户隐私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -636,5 +606,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

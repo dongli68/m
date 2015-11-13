@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%92%E5%8A%A8%E7%99%BE%E7%A7%91%EF%BD%9C%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E4%BF%9D%E5%8D%AB/" target="cdt-mirror">互动百科｜国内安全保卫</a>
+</h2>
+<p><p>一、国内安全保卫的发展历程。</p>
+<p>1.革命战争年代的政治保卫。</p>
+<p>2.新中国成立后的政治保卫。</p>
+<p>初创时期 （1949~1956年）</p>
+<p>建设与发展时期 （1956~1966年）</p>
+<p>停滞时期 （1966~1976年）</p>
+<p>恢复与发展时期 （1976~1998年）</p>
+<p>新的发展时期 （ 1998年以后 ）</p>
+<p>二、国内安全保卫的含义。</p>
+<p>国内安全保卫从广义上讲，是指一个国家特定的专门机关，根据本国宪法和法律的规定，对国家政权和社会制度的保卫。世界各国安全保卫机构的名称不尽一致，但其工作内容基本相同，都是以保卫国家政权和社会制度为目的的。</p>
+<p>狭义我国的国内安全保卫，是指公安机关的国内安全保卫部门依照宪法和法律的规定，为了维护国家安全和社会政治稳定，运用专门力量和手段隐蔽进行的特殊工作。它是公安工作的重要组成部分。</p>
+<p>国内安全保卫的概念包括以下含义：</p>
+<p>1.国内安全保卫的目的。国内安全保卫的目的是巩固共产党执政地位，保卫人民民主专政的政权和社会主义制度，保障社会主义现代化建设的顺利进行。</p>
+<p>2.国内安全保卫的工作主体。即从事国内安全保卫的工作机构。根据法律和国家的有关规定，公安国内安全保卫部门是从事国内安全保卫的工作主体或专门机构，它行使国内安全保卫的职权，其工作范围以国内为主。</p>
+<p>3.国内安全保卫的工作对象。国内安全保卫的工作对象是危害国家安全和社会政治稳定的人或事，包括境内外的敌对势力、敌对组织、敌对分子和国内其他不安定因素及其危害行为。</p>
+<p>4.国内安全保卫措施的特殊性。国内安全保卫不同于一般的调查研究和安全防范工作，它不仅要运用各种公开的措施和方法，而且还要采取秘密的、公秘结合的措施和方法来开展工作。因而，国内安全保卫是一种特殊的调查和防范活动。</p>
+<p>5.国内安全保卫的法律依据。国内安全保卫活动必须依法进行，其所有的业务活动均不能超出法律法规所规定的范围。我国国内安全保卫的职能机构、工作任务、职权范围、措施手段，以及遵循的基本原则，等等，法律法规都有明确的规定。</p>
+<p>1. 有一定的社会影响力——他们不一定是社会名人，但是他们在中国国内，有广泛的人际关系或为一群共同命运伙伴的代言人；</p>
+<p>2. 有自己独特的主张——在经济、文化或政治领域，与当局或“主旋律”持有不同的观点并且坚持表达自己的意见；</p>
+<p>3. 可能涉及维权——或者维护经济权益，如小区业主和失地农民等；或者维护文化权益，如画家和艺术家；或者维护政治权利，如坚持新闻和表达自由的记者、作家，坚持信仰的家庭教会成员和支持达赖喇嘛的藏传佛教信徒等；经济、政治和文化权益这三者是相互联系的，维权不是独立地维护单个权利，实质为同时维护生而为人的权利以及作为公民的基本权益；</p>
+<p>国保支队的成员属于国家公务员，不少人毕业于公安院校的国内安全保卫专业。国保支队的主要专业书籍包括：《国内安全保卫学》、《国内安全保卫工作常用法律法规手册》、《公安机关办理刑事案件程序规定释义与新版法律文书制作指南》等。</p>
+<p>国保支队因工作需要在行动中常采取突击、秘密的方式。这些方式体现了国保支队的特殊性质。如该支队采用普通办案方式，工作便无法顺利开展。</p>
+<p>争议:</p>
+<p>1.部分人(没有固定指谁或者指某些人群.具有可怀疑性)对其合法性产生怀疑，认为该支队与盖世太保类似，不利于社会的民主进步。 因国保的监控对象可以是不确定成分的任何公民，国保支队之职能实质上与前东欧国家的国内秘密警察机关一致，其机构设置违背人权与法律，其行动与性质也常常出现有害于社会民主进步的一面，则与极权政治制度有关。 对国内安全保卫支队的一些材料虽有充分证据但因为极权国家缺乏独立的司法制度和机构，此类安全部门的违法问题无法得到公众监督。</p>
+<p>2.曾被维权人士报告其有不遵循通常的法律程序的行为：不出示证件、恐吓辱骂、限制人身自由、殴打等。可了解胡佳案!</p>
+<p>3.不仅在前东欧或者在当代中国，甚至在一向以人权标榜的西方国家，都有存在与国内秘密警察机关性质相同的组织，如美国的中央情报局，国土安全局，联邦调查局，英国的苏格兰场等等，这些部门监控的对象也可以是不确定成分的任何公民，且在执行相关任务时也同样采取突击、秘密的方式。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%92%E5%8A%A8%E7%99%BE%E7%A7%91%EF%BD%9C%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E4%BF%9D%E5%8D%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">政治制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">政治稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">社会稳定</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%99%BD%E6%AF%9B%E5%A5%B3%E5%9B%9E%E5%BB%B6%E5%AE%89%EF%BC%9A%E7%89%9B%E5%A4%B4%E9%9A%BE%E5%AF%B9%E9%A9%AC%E5%98%B4%E7%9A%84/" target="cdt-mirror">美国之音 | “白毛女”回延安：牛头难对马嘴的“革命教育”</a>
 </h2>
 <p><div>
@@ -275,7 +311,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B9%E5%A2%9E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85/?category=18271" rel="tag">大赦国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BE%9D%E7%84%B6%E6%8E%A7%E5%88%B6%E7%9D%80%E5%A5%B3%E6%80%A7%E7%9A%84%E8%BA%AB%E4%BD%93/" target="cdt-mirror">纽约时报 | 中国政府依然控制着女性的身体</a>
 </h2>
@@ -579,25 +615,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8A%E6%B5%B7%E5%89%AF%E5%B8%82%E9%95%BF%E3%80%81%E5%8C%97%E4%BA%AC%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9B%B8%E7%BB%A7%E8%A2%AB%E6%9F%A5/" target="cdt-mirror">纽约时报 | 上海副市长、北京市委副书记相继被查</a>
-</h2>
-<p><p>据中纪委网站消息，北京市委副书记吕锡文被调查。北京“首虎”落马。昨日，上海副市长艾宝俊被调查。</p>
-<p>吕锡文简历：</p>
-<p>吕锡文，女，汉族，1955年7月生，浙江宁波人，1982年8月入党，1974年4月参加工作，大学毕业（北京工业学院分院纺织工程系机织专业）。现任十八届中央候补委员，北京市委副书记，市委党校校长、北京行政学院院长。</p>
-<p>曾在北京郊区插队。大学毕业工作后，曾任北京工业学院分院团委副书记，北京市经委政治部干部处、市委工业部干部处副处级干部，市委组织部干部一处副处级组织员，经济干部处副处长，经济干部二处副处长、处长，经济干部处处长，西城区委副书记、区长、区委书记，市委常委、组织部部长。（简历摘自首都之窗网）</p>
-<p>艾宝俊简历：</p>
-<p>艾宝俊，男，1960年2月生，汉族，辽宁辽阳人，在职研究生，工学硕士，高级会计师。现任上海市委常委、副市长，市政府党组副书记，中国（上海）自由贸易试验区管委会主任，上海国际旅游度假区管委会主任。</p>
-<p>艾宝俊1983年8月参加工作。1983年至1994年在东北工学院（1993年3月更名为东北大学）历任管理系教师，财经处处长、副总会计师等职。1994年至2007年在上海宝钢集团公司历任财务部副部长、计划财务部副部长、总经理助理、副总经理、总经理兼宝山钢铁股份有限公司董事长等职。2007年12月，任上海市副市长。2012年5月，任市委常委、副市长。2012年12月，任市委常委、副市长、市政府党组副书记，2013年9月兼任中国（上海）自由贸易试验区管委会主任。（简历摘自中国上海网）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8A%E6%B5%B7%E5%89%AF%E5%B8%82%E9%95%BF%E3%80%81%E5%8C%97%E4%BA%AC%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9B%B8%E7%BB%A7%E8%A2%AB%E6%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%89%AF%E5%B8%82%E9%95%BF/?category=18271" rel="tag">上海副市长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">北京市委副书记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -609,7 +626,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -619,5 +636,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

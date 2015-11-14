@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E6%9D%A8%E8%99%8E%E7%94%9F%EF%BC%9A%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%80%E5%9C%BA%E6%8A%95%E6%9C%BA%E7%9A%84/" target="cdt-mirror">端传媒｜杨虎生：国家意识形态中心，一场投机的政治生意</a>
@@ -904,7 +904,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E8%BF%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%B9%E5%A2%9E%E5%BE%B7%E5%8B%92%E4%BB%81%E6%B3%A2%E5%88%87/?category=18271" rel="tag">丹增德勒仁波切</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%B8%89%E5%AE%B6%E5%8A%B3%E6%95%99%E6%89%80/?category=18271" rel="tag">马三家劳教所</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85%E6%8A%A5%E5%91%8A%E6%8C%87%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%B8%B8%E9%85%B7%E5%88%91%E9%80%BC%E4%BE%9B/" target="cdt-mirror">法广 | 大赦国际报告指中国警方常酷刑逼供</a>
 </h2>
@@ -1036,7 +1036,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1046,5 +1046,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E7%BD%91-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BA%B2%E5%8E%86%E5%B7%B4%E9%BB%8E%E7%88%86%E7%82%B8-%E7%90%83%E5%9C%BA%E8%A2%AB%E6%89%94%E4%B8%89%E9%A2%97%E6%89%8B%E6%A6%B4%E5%BC%B9/" target="cdt-mirror">新浪网 | 中国人亲历巴黎爆炸: 球场被扔三颗手榴弹</a>
+</h2>
+<p><p><strong>中国数字时代编辑注：</strong><a href="http://www.bbc.com/zhongwen/simp/world/2015/11/151114_live_paris_attacks">据BBC中文网滚动播报</a>，截至本文发布时，巴黎恐怖袭击以造成至少120人死亡。<a href="http://www.bjnews.com.cn/world/2015/11/14/384249.html">另据新京报网报道</a>，目前尚无中国公民死伤消息。中国驻法使馆紧急通知所有在法中国公民注意安全，留在家中和住处，避免出门。密切跟踪法国当地媒体的相关报道和警方的安全提示，并配合警方的安全检查和证件检查。如遇紧急情况，请即拨打法国报警电话17或197。中国驻法使馆领事保护与协助电话：0033-615742537。外交部全球领保与服务应急呼叫中心电话：00861012308</p>
+<p>华西都市报讯（客户端记者肖茹丹）14日上午11点，华西都市报记者联系上在巴黎工作的湖南人汪先生，此时在家中辗转难眠的他，亲历了当地时间13日晚上发生在巴黎法兰西大球场的爆炸，“太恐怖了，还好我走得早！”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/1RT1-fxksqiv8354517.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/1RT1-fxksqiv8354517.jpg" alt="1RT1-fxksqiv8354517" width="550" height="328"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/pGXo-fxksqis4819391.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/pGXo-fxksqis4819391.jpg" alt="pGXo-fxksqis4819391" width="550" height="366"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/wMyr-fxksqiv8354519.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/wMyr-fxksqiv8354519.jpg" alt="wMyr-fxksqiv8354519" width="550" height="365"></a><br>
+汪先生说，13日晚上9点，他与朋友二人约好去法兰西大球场观看法国对德国国家队的足球比赛，但进场后没过多久，场外就发生了第一次巨响。“大概9点16分 左右，我听到场外传来砰的一声，起初大家都以为是音效，并没在意。”汪先生回忆，过了几分钟又传来第二次响声，因为球场内手机信号很差，没有办法及时获得 外部信息，所以当时大家还很淡定地看球。</p>
+<p>当地时间晚 上10点左右，在球场内的汪先生终于得知巴黎市区发生了枪击事件，并不断有朋友发来消息：“看啥球哦，快撤离！”“那时候我才晓得球场外面之前的巨响是发 生了爆炸。我是第一批撤离的人，出了球场，外面全是荷枪实弹的警察，路段也被封锁了。”汪先生和朋友加紧步子，朝地铁站走去，“因为封锁路段，走了20多 分钟才赶上地铁。”</p>
+<p>汪先生家住在巴黎南部市郊，而法兰西大球场在北部，穿越城市的小区附近非常平静，“回家后我才知道，后来球场也被扔了三颗手榴弹，一些撤离得晚的人滞留在球场里了。”</p>
+<p>现在虽然已是当地时间凌晨3点过，但汪先生回忆起当晚的事情，还是惊魂未定。“当是觉得很恐怖，现在更多的是愤怒。这段时间还是尽量减少出门了。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E7%BD%91-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BA%B2%E5%8E%86%E5%B7%B4%E9%BB%8E%E7%88%86%E7%82%B8-%E7%90%83%E5%9C%BA%E8%A2%AB%E6%89%94%E4%B8%89%E9%A2%97%E6%89%8B%E6%A6%B4%E5%BC%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E/?category=18271" rel="tag">巴黎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E6%9D%A8%E8%99%8E%E7%94%9F%EF%BC%9A%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%80%E5%9C%BA%E6%8A%95%E6%9C%BA%E7%9A%84/" target="cdt-mirror">端传媒｜杨虎生：国家意识形态中心，一场投机的政治生意</a>
 </h2>
 <p><p>这个新媒体研究院的组成部门及人员，在研究院成立之前，基本处于“失业”状态。就在这帮“毛派”人士试图以建制化自救时，互联网发展早已经抛开了他们试图重新立足的“互联网”范围。</p>
@@ -509,7 +528,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99/?category=18271" rel="tag">刑事拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E8%BF%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">强迫失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E7%A6%81/?category=18271" rel="tag">软禁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%87%A4%E5%87%B0%E3%80%8A%E9%AB%98%E8%A7%81%E3%80%8B%E4%B8%A8%E8%94%A1%E9%9C%9E%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E5%87%BA%E8%B5%B0%E4%B9%8B%E5%90%8E/" target="cdt-mirror">凤凰《高见》丨蔡霞：李嘉诚出走之后</a>
 </h2>
@@ -1003,28 +1022,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E9%AB%98%E6%99%BA%E6%99%9F%E7%9C%8B%E7%89%99%E5%8C%BB%E5%B1%A1%E5%8F%97%E9%98%BB-%E8%BF%91%E5%86%B5%E5%A0%AA%E5%BF%A7/" target="cdt-mirror">美国之音 | 高智晟看牙医屡受阻 近况堪忧</a>
-</h2>
-<p><p>作者：陆杨</p>
-<p>对华援助协会创始人兼会长傅希秋牧师，11月10日通过他的推特账户宣布，决定公布知名人权律师高智晟11月3日写给他的私信。高智晟在信中说，当局把他看牙医的要求视为“威胁国家安全”。2014年8月出狱的高智晟被关押期间身体受到摧残，营养不良，造成牙齿损坏。有的牙齿脱落，余下的牙齿经常疼痛。由于当局的阻挠，目前人在陕西榆林的高智晟为到西安看牙医而预订的火车票两次被迫退票。</p>
-<p>高智晟的妻子耿和女士11月11日对美国之音说，高智晟满口的牙只剩下二、三颗是好的，他的牙疾是家人的最大担忧。</p>
-<p>“为了高智晟看牙，全家人四下里联系，先是到北京找医生，找住房。一说到北京，那就不能成行。那说到西安去吧，家人费了九牛二虎之力，找到了人,租到了房子。紧接着国保就去找房东了。给他做了三次工作，每一次不下四个小时的谈话。房东给家里人来电话，就婉言拒绝了。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/05513841_400.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/05513841_400.jpg" alt="0,,5513841_4,00" width="590" height="332"></a><br>
-著名人权律师高智晟</p>
-<p>耿和说，高智晟得益于精神的强大，身体恢复得比较理想。但是牙齿的问题实在没有办法恢复，只能外界，也就是靠牙医解除痛苦。高智晟两侧的大牙几乎都掉了，仅有的不到10颗牙都在中间，而且除了2、3颗之外，其余的都已松动。耿和说，高智晟每天只能喝稀饭度日。耿和声音哽咽地问中共当局，“你们的几次迫害，都没让他死去，你们还想找什么理由。”</p>
-<p>耿和呼吁国际媒体继续关注高智晟的境遇，呼吁中共当局允许高智晟治疗牙疾。</p>
-<p>高智晟1996年开始为弱势群体维权，为被当局视为敏感的个案，比如法轮功学院、地下教会成员做法律代理，并上书中共当局要求改变对法轮功等群体的违法处理手段。中国当局2006年8月15日将高智晟逮捕，同年12月经北京第一中院宣判，高智晟被以“煽动颠覆国家政权罪”判处有期徒刑三年，缓刑五年。缓刑期间又被当局关押在新疆沙雅监狱，直到去年8月。出狱后的高智晟依然没有自由，仍在坐家狱。</p>
-<p>总部在德克萨斯州的非盈利性基督教人权机构“对华援助协会”会长傅希秋牧师同一天对美国之音说，中国当局仍然限制高智晟的人身自由，甚至剥夺他看病的自由。“一个所谓强大的、自信的党国居然认为几个受过酷刑的牙齿有安全上的威胁，这简直非常可笑。”</p>
-<p>傅希秋牧师公布这封高智晟律师的私信，是希望引起各界的关注，也希望中共高层允许高律师有一个起码的正常生活，给他看病的自由。</p>
-<p>傅牧师告诉美国之音，高智晟律师11月10日又给他一封信件，告诉傅牧师可能会失联几天。高智晟在信中说，北京时间下午3点左右，三名国安强行闯入高智晟的窑洞，对他进行威吓，不让他乱说乱动。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E9%AB%98%E6%99%BA%E6%99%9F%E7%9C%8B%E7%89%99%E5%8C%BB%E5%B1%A1%E5%8F%97%E9%98%BB-%E8%BF%91%E5%86%B5%E5%A0%AA%E5%BF%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E6%B4%BB%E5%8A%A8%E5%AE%B6/?category=18271" rel="tag">人权活动家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1036,7 +1033,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1046,5 +1043,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

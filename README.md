@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E6%9D%A8%E8%99%8E%E7%94%9F%EF%BC%9A%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%80%E5%9C%BA%E6%8A%95%E6%9C%BA%E7%9A%84/" target="cdt-mirror">端传媒｜杨虎生：国家意识形态中心，一场投机的政治生意</a>
@@ -119,7 +119,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18271" rel="tag">NGOCN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">公益活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">动物保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2/?category=18271" rel="tag">敲诈勒索</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BB%E5%8A%A8%E5%AE%B6/?category=18271" rel="tag">活动家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BF%92%E5%8D%B1%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9/?category=18271" rel="tag">濒危野生动物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B0%E7%BB%A7%E5%85%89/?category=18271" rel="tag">田继光</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9/?category=18271" rel="tag">野生动物</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8F%82%E4%B8%8E%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95%EF%BC%9A%E8%87%B3%E5%B0%91306%E5%90%8D%E5%BE%8B%E5%B8%88%E8%A2%AB%E9%AA%9A%E6%89%B0/" target="cdt-mirror">参与｜中国维权律师大抓捕：至少306名律师被骚扰</a>
 </h2>
@@ -591,7 +591,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0%E7%BD%91/?category=18271" rel="tag">凤凰网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E9%9C%9E/?category=18271" rel="tag">蔡霞</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%A3%80%E5%AF%9F%E5%AE%98%E5%92%8C%E5%A5%B3%E5%90%8C%E5%AD%A6%E6%98%AF%E5%92%8C%E8%A1%A3%E8%80%8C%E7%9D%A1/" target="cdt-mirror">【图说天朝】“检察官和女同学是和衣而睡”</a>
 </h2>
@@ -1036,7 +1036,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1046,5 +1046,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

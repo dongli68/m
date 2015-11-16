@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%85%9A%E5%AF%B9%E5%AA%92%E4%BD%93%E4%B8%8D%E6%94%BE%E5%BF%83-%E3%80%8C%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%87%B3/" target="cdt-mirror">东方日报｜傅桓：党对媒体不放心 「意识形态至上」</a>
@@ -132,7 +132,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90/?category=18271" rel="tag">清洁能源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%82%AD/?category=18271" rel="tag">煤炭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%BD%E6%BA%90/?category=18271" rel="tag">能源</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%8D%93%E8%BE%BE%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%A5%E9%81%93/" target="cdt-mirror">【真理部】有关石家庄卓达公司的报道</a>
 </h2>
@@ -1225,7 +1225,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1235,5 +1235,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

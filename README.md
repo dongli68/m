@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%AE%B6%E5%B1%9E%E8%8E%B7%E5%87%86%E8%A7%81%E5%B0%B8-%E5%BC%A0%E5%85%AD%E6%AF%9B%E7%94%9F%E5%89%8D%E7%96%91%E9%81%AD%E9%85%B7%E5%88%91/" target="cdt-mirror">维权网 | 家属获准见尸 张六毛生前疑遭酷刑</a>
@@ -47,7 +47,7 @@ http://wqw2010.blogspot.com/2015/11/20151111.html</p>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E7%AC%AC%E4%B8%89%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">广州第三看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80%E5%91%BD%E6%A1%88/?category=18271" rel="tag">看守所命案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E7%BD%91/?category=18271" rel="tag">维权网</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%AE%98%E5%91%98%E9%A2%91%E8%87%AA%E6%9D%80%E4%B8%AD%E5%85%B1%E5%AE%98%E5%9C%BA%E9%9B%86%E4%BD%93%E6%8A%91%E9%83%81/" target="cdt-mirror">美国之音 | 官员频自杀,中共官场集体抑郁?</a>
 </h2>
@@ -827,7 +827,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -837,5 +837,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E6%8D%8D%E5%8D%AB%E7%94%9F%E5%91%BD%E5%92%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E6%88%98-%E8%AF%84%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/" target="cdt-mirror">BBC | 捍卫生命和自由之战——评巴黎恐怖袭击</a>
@@ -297,7 +297,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90/?category=18271" rel="tag">清洁能源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%82%AD/?category=18271" rel="tag">煤炭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%BD%E6%BA%90/?category=18271" rel="tag">能源</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%8D%93%E8%BE%BE%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%A5%E9%81%93/" target="cdt-mirror">【真理部】有关石家庄卓达公司的报道</a>
 </h2>
@@ -1306,7 +1306,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1316,5 +1316,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

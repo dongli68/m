@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E5%85%9A%E5%91%98%E7%9C%8B%E8%BF%87%E6%9D%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%8F%90%E9%86%92%E4%BD%A0%E4%BB%AC%E8%AF%BB%E5%85%9A%E6%8A%A5/" target="cdt-mirror">精读党报 | 党员看过来 中纪委提醒你们读党报</a>
@@ -209,7 +209,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E6%83%85/?category=18271" rel="tag">爱情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%A5%B3%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">男女关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E4%BA%B2/?category=18271" rel="tag">相亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%88%B1/?category=18271" rel="tag">真爱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E8%AF%9A%E5%8B%BF%E6%89%B0/?category=18271" rel="tag">非诚勿扰</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%85%9A%E5%AF%B9%E5%AA%92%E4%BD%93%E4%B8%8D%E6%94%BE%E5%BF%83-%E3%80%8C%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%87%B3/" target="cdt-mirror">东方日报｜傅桓：党对媒体不放心 「意识形态至上」</a>
 </h2>
@@ -1246,7 +1246,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1256,5 +1256,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E4%BA%8B
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

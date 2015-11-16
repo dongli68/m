@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%85%9A%E5%AF%B9%E5%AA%92%E4%BD%93%E4%B8%8D%E6%94%BE%E5%BF%83-%E3%80%8C%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%87%B3/" target="cdt-mirror">东方日报｜傅桓：党对媒体不放心 「意识形态至上」</a>
+</h2>
+<p><p>新华网早已是展现内部权斗的「传声筒」。在过去几个月里，它不止一次替广东新任宣传部长传达信号，比如说南方报业投入更多力量加大党宣报道，暗示南方报业已经「听话」了。在最近，它又替「毛左」鼓与呼，传达国家意识形态中心成立了新媒体生力军。</p>
+<p>党对媒体不放心，所以几十年来，始终在媒体上推行「意识形态至上」的政治规矩。</p>
+<p>这个意识形态中心挂靠在中国社科院，是一个被极左与毛左深深盘踞的机构。这个中心毫不讳言地宣布，成立新媒体研究院就是为了「赢得新三十年意识形态斗争」，是打赢所谓「网络阵地战」的生力军。党的喉舌在向民众传达意识形态恐怖气氛上，不遗余力。</p>
+<p>大陆许多人对这个中心及其新媒体研究院不屑一顾。事实表明，在过去微博上的数次意识形态攻击中，这个中心尽管起到了中介与鼓动作用，但在微博式微、民众不易被洗脑的情况下，它所起的作用越来越小。大多数情况下，它所发动的攻击都是无疾而终。</p>
+<p>国家意识形态中心，这个称呼就像许多盛行大陆尤其是北京的骗子集团那样，喜欢给自己冠名一个巨大的名称，以暗示自己与中央有关系，从而为此后的骗术遮上「神秘」面纱，以便让骗子更顺利地实现目的。国家意识形态中心，并没有脱离这个命名逻辑。</p>
+<p>从该中心成立的新媒体研究院成员看，基本上网罗了时下活跃的毛派极左分子，也展现了高举毛派旗帜的党政军学机构。这在一定程度上展现了当前中国意识形态部门所拥有的「人才」与「资源」。从某种意义上讲，这个智库是毛派极左势力的集中展览。</p>
+<p>在很多方面讲，国家意识形态中心的目的都不是为了所谓的新媒体。网络新媒体现在属于网信办权力范围，历经反覆压制与清场，「两微一端」（微博微信客户端）早已经被驯服，没有什么有生力量可供「打击」。也只能说，意识形态中心醉翁之意不在酒。</p>
+<p>国家意识形态中心深谙党的行动策略，那就是无时无刻不在制造「敌人」，以实现自己的利益。新媒体研究院在成立缘由上，紧紧抱着「互联网已是意识形态争夺战的关键领域」这个标靶，以宣扬互联网威胁论，恐吓民众，并以此获取党政财力支持。</p>
+<p>所以，对毛派而言，成立这个新媒体研究院，用所谓的「新生力量」为名目，获取意识形态投入的项目，是一个目的；其次，则利用这个旗帜，占据毛左话语权的高地，以观后效。既是一门生意，又是一桩政治投机，国家意识形态中心这帮人摸准了党的 G 点。</p>
+<p>但是并不像网民所悲观的那样，这样的毛左建制化，除了制造「网络雾霾」之外，几乎达不到意识形态洗脑的目的。相较于媒体的快速变革，这个党的文宣成效始终低级，一直以来都没有改变「有人的地方没阵地，有阵地的地方没人」这个尴尬的现状。</p>
+<p>在牢牢监管住微博之后，微博衰败如草莽，变成了话语的荒地──然后，网信办宣布，他们占据了微博这个舆论高地。统治平台，进而统治话语，这是文宣始终在做的事情，但平台迅速集结与崩溃，话语迅速集合与碎片化，都超出了意识形态可以全然控制的范畴。</p>
+<p>党对媒体不放心，缺乏必要的手段，所以几十年来，始终在媒体上推行「意识形态至上」的政治规矩。好就好在，媒介旧格局崩溃，新格局未成，这让「意识形态至上」难以确切地稳定下来，处在动荡之中。以民间或学术身份伪装的国家意识形态中心，亦非那块「钢铁」。<br>
+＝<br><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%85%9A%E5%AF%B9%E5%AA%92%E4%BD%93%E4%B8%8D%E6%94%BE%E5%BF%83-%E3%80%8C%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%87%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">国家意识形态中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E6%96%B0%E7%96%86%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E5%87%B6%E6%9D%80%E6%A1%88%E5%91%8A%E7%A0%B4-%E6%9A%B4%E6%81%90%E5%88%86%E5%AD%90%E8%A2%AB%E5%85%A8%E6%AD%BC/" target="cdt-mirror">法广 | 新疆拜城煤矿凶杀案告破 暴恐分子被“全歼”</a>
 </h2>
 <p><p>作者：曹国兴</p>
@@ -76,7 +100,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">BBC中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99/?category=18271" rel="tag">伊斯兰教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E9%9D%92%E9%9B%B7/?category=18271" rel="tag">王青雷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E7%85%A4%E7%82%AD%E8%A1%8C%E4%B8%9A%E9%81%AD%E9%81%87%E5%AF%92%E5%86%AC/" target="cdt-mirror">金融时报 | 煤炭行业遭遇寒冬</a>
 </h2>
@@ -1190,46 +1214,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%99%BD%E6%AF%9B%E5%A5%B3%E5%9B%9E%E5%BB%B6%E5%AE%89%EF%BC%9A%E7%89%9B%E5%A4%B4%E9%9A%BE%E5%AF%B9%E9%A9%AC%E5%98%B4%E7%9A%84/" target="cdt-mirror">美国之音 | “白毛女”回延安：牛头难对马嘴的“革命教育”</a>
-</h2>
-<p><div>
-<div>作者：何清涟</div>
-</div>
-<div>
-<div>
-<p><strong>编者按：这是何清涟为美国之音撰写的评论文章。这篇特约评论不代表美国之音的观点。转载者请注明来自美国之音或者</strong><strong>VOA</strong><strong>。</strong></p>
-<p>中共的红色革命文艺一直寓有政治教化目的，但这次由第一夫人彭丽媛亲任艺术指导的白毛女重回延安首映，却让我彻底糊涂了。套用一段最著名的毛主席语录，那就是：谁是当代杨白劳？谁是当代黄世仁？这个问题是革命的首要问题。中国经济总是深陷债务泥潭，其基本原因就是因为债权人债务人都是自家儿女。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/0A30A441-0155-42EF-853D-1BD4150A7E5A_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/0A30A441-0155-42EF-853D-1BD4150A7E5A_w640_r1_s.jpg" alt="0A30A441-0155-42EF-853D-1BD4150A7E5A_w640_r1_s" width="550" height="309"></a><br>
-中国第一夫人彭丽媛到达联合国总部，出席全球妇女峰会（2015年9月27日）</p>
-<p><strong>债权人与债务人都是自家人</strong></p>
-<p>《白毛女》这部戏，相信50岁以上的中国人大概还记得其主要内容：贫农杨白劳因家贫向地主黄世仁借钱，无力偿还，在债主多方催逼之下，杨白劳被迫喝卤水自杀，女儿喜儿被迫逃入深山，成为白毛女。幸亏中国共产党领导穷人闹革，打倒地主阶级，枪毙了黄世仁，喜儿才得以与已经成为革命军人的大春喜结连理，翻身得解放。</p>
-<p>习总伉俪重续当年革命样板戏薪火，再将阶级斗争引入中国红色文艺，足证他们对穷人即举债者的感情非常深厚。但我仔细一想，如今这地主阶级究竟是谁？在划定成分这第一步上，就让人愁呀愁，愁白了头。</p>
-<p>全国的土地统归国有与集体所有。国家的代表当然是中共政府。这“集体”的代表也不是外人，就是各县市的地方政府，地方政府的上级是中央政府，与中央政府打断骨头连着筋。因此，眼下全中国只有一家大地主，即中共政府。数亿农民全都是只有使用权（耕种权）的佃户。那租金虽然承蒙上届政府在2003年税费改革时恩免了，但土地所有权还由唯一的大地主掌控。因此，如果号召打倒地主阶级，就等于号召数亿农民在中共总书记习近平的领导下，去打倒中共各级政府，“让土地回家”。</p>
-<p>打倒地主看来很困难。那就领会白毛女的另一寓意，号召杨白劳们站起来打倒债权人。中国国有商业银行毫无疑问是最大的债权人，但中国人民却不是最大的债务人。据说中国个人消费信贷处于起步阶段，只占客户贷款总额的3.5 %左右。民企贷款也很困难。能够在国有商业银行大规模举债者，只有国企与地方政府，地方政府这位杨白劳就积欠20多万亿巨额债务至今未还。如今中国银行系统的坏帐率据说高达8.1%（法国里昂证券估算数据），存在着7.5万亿元人民币的资本缺口，这数字超过中国GDP的十分之一。除了这些杨白劳之外，还有一位很大个头的杨白劳，那就是如今身陷秦城的前渝督薄熙来。为了唱红打黑，这位“薄白劳” 主政重庆时，全部地方融资平台余额应该在4620亿元左右，现全部成为银行的坏帐。</p>
-<p><strong>手背手心都是肉，倒黄扶杨皆心焦</strong></p>
-<p>以上分析证明，中共政府是全国唯一的大地主，中共政府控制的国有银行及商业银行就是中国国企、地方政府、民企、个人借贷者的债权人。如果将《白毛女》一剧的角色置换进去，中共政府及其控制的国有金融系统就是黄世仁，大大小小的国企，以及各级地方政府、民企、个人借贷者（包括入狱的薄熙来）就是杨白劳。</p>
-<p>在分清了“谁是我们的敌人、谁是我们的朋友”这个“革命的首要问题”之后，真正的难题来了：习总书记能够将黄世仁拉出去枪毙吗？</p>
-<p>杨白劳当中的小部分，比如在银行借贷的民企与个人，对于《白毛女》的革命寓意，即打倒黄世仁、烧毁债约、“土地回家”的做法，当然欢迎之至。从此无债一身轻，还不起债的民营企业家用不着跑路，个人不用担心不能还贷时失去住房，但这部分人是杨白劳群体中的少数成员。</p>
-<p>真正的杨白劳们都是国企。这点连外国金融评估机构都很清楚，比如里昂证券在分析中国金融系统那7.5万亿的坏帐时，很清楚地指出这些坏帐的形成主要缘于国企、房地产开发公司的借贷，以及地方政府的债务。</p>
-<p>房地产开发公司当中，也有不少是国企，因此，杨白劳的主体就是中共自家亲儿女。国企一直被称为“共和国长子”，地方政府本来就是中共的肢体，好比手、脚、臂膀什么的。更困难的问题是：黄世仁们即国有银行也是中共政府的血液循环系统，打倒黄世仁，扶持杨白劳，就算不是大放血，也算得上剜肉补疮。在倒黄与扶杨二者之间，如何把握分寸，当真不容易做出选择。</p>
-<p>好在中共政府从来就是敢想敢干。最近就干了一单这种剜肉补疮的事情，根据中国财政网公布的数据，中国国有企业9月末总体债务规模达到78万亿元人民币，超过中国GDP的总量。更让人吃惊的是，仅9月份一个月，中国国企整体债务增长就达到了惊人的6万亿人民币，这是中国国企最大幅度的月度债务增加量。对此，安信证券分析师罗云峰表示，“这是一次史无前例的杠杆化操作……一些原本被归为政府债务的债务被重新划归成了国有企业债务”。</p>
-<p>这等于说，“手脚”即地方政府背负的债务，中央政府现在将其卸下，放到了“长子”背上。这种处理债务的方式，只有在中共管治下的中国才会出现。</p>
-<p><strong>“毛爷爷”能做的事情，“习大大”为何做不到？</strong></p>
-<p>习近平接任中共掌门人大位之后，既想做毛泽东的传人，拥有毛那样一言九鼎的最高权威地位；又想接过邓小平打造的“大钱袋”，因为做个穷而大的弱国领导人，那滋味毕竟不太好受。这次让第一夫人做艺术指导，重排革命样板戏中的长寿剧《白毛女》，并让其在革命圣地延安首演，毫无疑问是想向中国人释放一种政治信号。只是这信号到底是什么，恐怕他连自己也未必了然。</p>
-<p>毛在文革前及文革中，让其夫人江青指导编排了八个革命样板戏，与毛对中国社会状况及其主张的革命路线有关。尽管毛已经在50年代初完成了消灭地主阶级与改造工商业的革命任务，消灭了私有制，但一直坚持阶级斗争理论，并发展出了一个“党内走资派还在走”的“理论”，据此主张“无产阶级专政下继续革命”。既然要“继续革命”，那些以诉苦、推翻地主阶级与旧政权、让穷人翻身的革命样板戏，就理所当然地成了中共用来教育民众的手段。</p>
-<p>经过邓、江、胡三代，中国现有的经济结构已经成为以工商业为主体的经济结构，完全不同于毛时期那种小农经济与早期工业化并存的经济结构。中共虽然依旧垄断政治、经济、文化资源，是全国唯一的大地主、最大的资本集团，但各级统治集团成员的家族也成为大大小小的资本所有者，底层人民依旧贫困。“习大大”如果想继承“毛爷爷”那“无产阶级专政下继续革命”的伟业，先得叛党，与中共决裂。近三年，他已经与周永康等一系利益集团决裂，但是还不够，还得更彻底一些，将薄熙来路线即用金钱为凝聚力、从社会底层汲取社会支持的道路贯彻到底，摧毁现有的统治集团。</p>
-<p>今年以来，习近平在股市上演了一场权力与市场的恶斗，因为斗不过市场，就开始斗市场的主体——大大小小的资本所有者，这场斗争目前炉火正旺。由于担心“习大大”走上薄熙来道路，权力与资本的同盟已开始瓦解，资本外流非常严重，自2014年6月至今年9月，中国外汇储备已减少5000亿左右。如今在延安首映以废除债务、消灭地主阶级为主诉的革命样板戏《白毛女》，只能让资本产生更强的恐慌感。</p>
-<p>治国之策必须三思而后行，最忌胸无定算，一会向左，一会向右，如同road swing（路上左右飘忽行驶）。美国的Driver’s manual（驾驶者手册）告诫驾驶员，一是不要做road swing，二是见到road swing就要避开。习近平的忽左忽右，与胡锦涛十年的政左经右有很大不同。胡政治上坚持左，但并未在经济政策上贯彻“左”的路线，中国这辆车好歹还能继续开下去。但习总却将车开成了高速公路上的road swing，不仅自己危险，还给其他车辆造成阻碍，容易撞车、翻车。</p>
-</div>
-</div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%99%BD%E6%AF%9B%E5%A5%B3%E5%9B%9E%E5%BB%B6%E5%AE%89%EF%BC%9A%E7%89%9B%E5%A4%B4%E9%9A%BE%E5%AF%B9%E9%A9%AC%E5%98%B4%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85%E6%B6%9F/?category=18271" rel="tag">何清涟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85%E6%B6%9F%E5%8D%9A%E5%AE%A2/?category=18271" rel="tag">何清涟博客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%89%88%E5%A4%A7%E5%9E%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E7%99%BD%E6%AF%9B%E5%A5%B3%E3%80%8B/?category=18271" rel="tag">新版大型歌剧《白毛女》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B7%E6%9D%BF%E6%88%8F/?category=18271" rel="tag">样板戏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%AF%9B%E5%A5%B3/?category=18271" rel="tag">白毛女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1241,7 +1225,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1251,5 +1235,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,71 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B9%96%E5%8C%97%E8%80%81%E5%B8%88%E5%BC%A0%E7%88%B1%E5%98%89%E5%BE%AE%E4%BF%A1%E5%8F%91%E5%B8%96%E8%A2%AB%E6%8C%87%E5%BD%B1%E5%B0%84%E4%B9%A0%E8%BF%91/" target="cdt-mirror">自由亚洲｜湖北老师张爱嘉微信发帖被指影射习近平遭开除</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4a1aafab-35ea-494c-88ba-8af170712f07.jpg" alt="4a1aafab-35ea-494c-88ba-8af170712f07" width="551" height="366"></p>
+<div>
+<p>湖北一学校老师张爱嘉日前因在微信里转发了一则被认为是責骂习近平的网帖，遭到警方约谈。与此同时，学校也在教育局与派出所、网监的双重压力下宣布将其开除。</p>
+</div>
+<div>
+<p>湖北黄冈市红安国际育才学校的老师张爱嘉从没想过，自己在微信群里转发的一则网帖会让自己因此丢了工作。</p>
+<p>该帖子大意如下：没文化的人心里自卑，怕别人看不起，所以就要强装自己博学，掉书袋。草包就是这样的人。一个真有学问的人无需掉书袋背书名，而是将所读过的书，学过的知识自然而然地融入日常言谈举止之中，这是潜移默化的，不是强装的。孔乙己的“茴香豆”的茴字四种写法不是学问，徒添笑料耳。</p>
+<p>张爱嘉11月16日接受本台采访时表示，事情发生在3天前，她当时转发该帖的原意是以此为戒，但想不到却被警方带走讯问，学校也于翌日宣布将她开除，并要她立即搬出校舍。</p>
+<p>“最开始的时候是我们湖北省红安县金沙派出所他们警车开到学校来了，然后把我带走了，说我在微信群里发了一个帖子，说那是骂国家领导人的。但是我说那里面没有国家领导人的名字，为什么你们会这样想？他们就说了一大堆，他们接到上面的指示，那个帖子后面骂的草包什么的就是骂国家领导人习近平的，叫我以后不要再发这样的。我说你们太敏感了，就算是骂国家领导人又怎么样呢？难道现在还是一个皇帝制的社会吗？其实我最开始（转发帖子）的初衷就是：这个道理很好，我要鞭策自己，不要做这样的人。做了一个简单的笔录我就回来了，我以为没事了，但是学校就找到我做思想工作，第二天一早就说，学校已经开过会，统一决定要我立即走。”</p>
+<p>张爱嘉表示，她理解学校在警方及教育局的双重压力下将她开除，不过她要求学校出示书面的辞退通知并赔偿一个月工资的通知金，被校方拒绝。</p>
+<p>“他说上面一层层压下来的，教育局的已经打电话给他们了，给他们施压；派出所也来了，派出所和我们红安县的网监一起过来给学校施压；而且学校现在正在评安全管理学校，就是因为这个评不了。他们很有压力就要我理解，我说我可以走，但是我的要求你要满足，既然辞退我，你要有一个理由，你要写一个书面的辞退令，我要光明正大地出去，我不是说做了什么见不得人的事情被学校开除，这是我一个名誉。他说他们学校开除人从来不写这些东西的。他们找我谈话的时候说， 这个不要拍照发到网上去，他说大家都心知肚明，现在这样一个社会，我们开除你肯定不会说因为你在网上发了这些信息而开除你。”</p>
+<p>此前，有艺术家曾因恶搞习近平而被拘押，也有学生因为下载习近平身穿纳粹服装的照片被学校处分。对于地方当局这些过分敏感的行为，独立媒体人孙林向本台表示，这是对习近平不满，而意图架空他的“捧杀”之举。</p>
+<p>“我不维护他，但是我们站在公正的立场上，习近平从他上台开始直到现在，他所做的人们都有目共睹。想把习近平给架空，在我的观察当中是大有人在。他就是用一种捧杀的形式扶起另外一种邪恶势力。”</p>
+<p>张爱嘉说，她从几年前在网上看到宁波当局镇压市民反对PX项目的时候起，就开始关注民间维权的信息，现在终于要为自己维权。经历了这件事，自己也随之成长，更加成熟。</p>
+<p>（特约记者：扬帆／ 责编：胡汉强）</p>
+</div>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B9%96%E5%8C%97%E8%80%81%E5%B8%88%E5%BC%A0%E7%88%B1%E5%98%89%E5%BE%AE%E4%BF%A1%E5%8F%91%E5%B8%96%E8%A2%AB%E6%8C%87%E5%BD%B1%E5%B0%84%E4%B9%A0%E8%BF%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E7%88%B1%E5%98%89/?category=18271" rel="tag">张爱嘉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8A%A8%E5%90%91-%E9%97%B5%E8%89%AF%E8%87%A3%EF%BC%9A%E9%A2%86%E8%A2%96%E7%8B%AC%E8%A3%81%EF%BC%8C%E8%87%A3%E6%B0%91%E6%81%90%E6%83%A7/" target="cdt-mirror">动向 | 闵良臣：领袖独裁，臣民恐惧</a>
+</h2>
+<p><p>今年十一月二十日是胡耀邦诞辰一百周年纪念日，从年初到现在，有不少知名人士公开发表文章纪念他，赞颂他，这也正如曾任毛泽东秘书的李锐先生诗云：“活在人心便永生”。对于像胡耀邦在晚年努力实事求是、拨乱反正的国家领导人而言，我们不应该过分地拔高他，说一些不实事求是的话，不然，不但与他的思想精神相背离，而且有辱这位值得后世敬仰的伟人。不仅如此，即使从胡耀邦晚年“只言片语”中也能感受到，像毛泽东的“群臣”一样，胡耀邦对“伟大领袖”同样也是佩服的，更不可能做到什么“无私无畏”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2013/04/huyaobang.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/04/huyaobang.jpg" alt="huyaobang" width="400" height="328"></a><br>
+ <br>
+　　面对独裁，谁能“无畏”<br>
+ <br>
+　　别看毛泽东晚年面对让他头疼的林彪，又重复早在一九五七年对即将到《人民日报》赴任的吴冷西讲出的“五不怕”，即“不怕撤职，不怕开除党籍，不怕老婆离婚，不怕坐牢，不怕杀头”，然而在他的一言九鼎、独裁淫威之下，中共党内，特别是中央高层，真正能做到这“五不怕”的几乎没有一人，即使耿直如彭德怀，甚至据说可以与毛“骂娘”，事实上也还是把他当作“伟大领袖”看待。<br>
+ <br>
+　　之所以如此，中共在这一点上与苏联“老大哥”如出一辙。苏联斯大林大清洗前的苏共，人们相信“党的一切都是对的”，而在大清洗过后，变成相信“党的领袖一切都是对的”、“甚至认为斯大林如把自己杀了，也是有理的”，也是“革命的需要”、“维护领袖权威”的需要。中共在一九四九年获取政权后，毛泽东就成了中共代表，成为中共化身，他在任何时候任何地方发出的指示都可看作是“中共最高指示”，他的所有意见都是中共最高意见。一九五七年，在反击所谓“右派”前夕，毛泽东甚至可以把包括胡绩伟在内的一些官员召到他的寝室训话：“所谓百家，实为两家，资产阶级、无产阶级各一家。”（见李慎之《对反右派斗争史实的一点补充──致胡绩伟》）而后来摔死在蒙古温都尔汗的“接班人”林彪当时在笔记中说得更露骨：“党性遵命性（闵按：即遵上峰毛之命）也”“遵命乃大德、大勇、大智。”“勿讲真理而重迎合”“主席就是最大的群众，他一个人顶亿万人，所以和他的关系搞好了，就等于对群众搞好了，这是最大的选票。”“决议不好也同意──不然是书呆子。”（引自《林彪笔记中的官场策略》，作者吴思，见二○○九年第一期《报刊荟萃》）<br>
+ <br>
+　　其实，从一九四九年到毛去世的二十七年间，不仅中共高层如此，整个国家也如同“封建王朝”，中华人民共和国只是一个名称而已。<br>
+ <br>
+　　领袖淫威，耀邦也惧<br>
+ <br>
+　　十月二十七日，被称作大陆思想网站的共识网挂出其网站老板周志兴一篇图文并茂的文章《敢于直言？耀邦如此，何况他人──二五一十的哲学》。文章问道：“而我们现在有言官吗？当然，从理论上说，从共产党的章程上说，每一个官员都要有大无畏的精神，为了人民的利益和党的利益敢于直言，但是实际上这样的人是少之又少的。人格伟大如耀邦者，在最后的岁月里还发出这样的感慨：有老婆孩子，不能舍得一身剐了。所以，耀邦夫人李昭坚定地把众人对耀邦评价中的『无私无畏』修改为『无私无愧』，并且把这四个字也刻成碑永远植在共青城的耀邦墓。耀邦如此，何况他人！”<br>
+ <br>
+　　周志兴这几行文字，特别是文中胡耀邦夫人李昭的举动，证明了胡耀邦不是“超人”，更不是神，也不是毛泽东所说的那种“大无畏者”，在专制独裁者面前，胡耀邦也只能是乖乖地“照毛主席的指示办事”。当然，这里还有个认识问题，可即使认识到了，就真的敢“无畏”了吗？恐怕也未必。口说无凭，恰好这里还有一证据。<br>
+ <br>
+　　十几年前，曾在广东省政协主办的《同舟共进》杂志二○○二年第六期读到原新华社副社长李普先生的《胡耀邦何以不敢想下去》，文章很短：一九七七年，胡耀邦还在“台下”时，说到一九五七年反右派以来，毛泽东不断搞阶级斗争，胡耀邦说：“自己也不是没有怀疑过，可是自己是个党的干部，还是个中央委员嘛，有疑惑也得遵守纪律啊，也得举手啊，往往不敢多想下去，反倒还不断反省这种疑惑是不是在阶级斗争面前的动摇呢，是不是对毛主席他老人家不忠呢……。”从《炎黄春秋》上一篇别人怀念胡耀邦的文章中引了这几句话后，李普先生接着感叹道：“胡耀邦是个肯用脑筋的人，是个有一颗赤子之心的人。后来他发动真理标准问题讨论和坚决平反冤假错案，证明他是个高瞻远瞩、敢做敢为的人。何以这样一个人尚且如此！按理说，中央委员更应当想问题，为什么反而更不敢想了呢？”<br>
+ <br>
+　　李普先生的短文到此戛然而止。<br>
+ <br>
+　　胡耀邦之所以“不敢多想下去”，正好证明，从那时，甚至从比那时更早的时候，“党内”就已经弥漫了“封建氤氲”，就有了专制独裁的影子。到一九五七年，中央绝大部分委员都早已忘记了自己的“身份”，甚至已经不能意识到自己是一个独立的人，那时与其说他们是一个党员或中央委员，不如说已经自觉不自觉地在潜意识中把自己放到了“臣”的位置。而中国两千多年来统治者一直倡导的不就是“君君臣臣”、“君为臣纲”吗？既为人臣，岂可不忠？……单从个人独立思考这一点来说，胡耀邦乃至整个中共中央官员都应该感到“脸红”。<br>
+ <br>
+　　权威式微，方有“大胆”<br>
+ <br>
+　　从李普先生的文章来看，好像胡耀邦在“主席”去世后忽然胆子大了起来，敢说敢干了。真是这样吗？自己不这样看。胡耀邦之所以敢那样大胆地平反冤假错案，之所以敢于开展真理标准大讨论，主要是不仅当时的领导人即华国锋没有毛泽东那样的权威，难以实行独裁，有些话甚至不能“算数”，尤其是有不少说话极有份量的中央“老同志”如叶剑英、李先念等，是支持他的，而他所做的也正是为了当时已得民心而后来证明是划时代的人物的复出，因此也就显得他好像是毫无畏惧、“敢作敢为”了。当然，现已盖棺论定，我也完全赞同李普先生所言：胡耀邦是“有一颗赤子之心的人”、“高瞻远瞩”的人，尤其在当时能有那种举动，实在难能可贵，没有一点胆识的人是做不出来的。但如果实事求是，为了我们的历史减少一点糊涂账，我们只要看胡耀邦“下台”后，又再一次处在一种至少不同于一九七七年的情形时，他不是就不再“敢作敢为”不再“有所作为”了吗？这自然是此一时彼一时也，但弄明白这一点，我们可以更加客观地评价一个人，包括评价像我十分敬仰的胡耀邦这样的人，同时这也是为了记录历史的真实。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8A%A8%E5%90%91-%E9%97%B5%E8%89%AF%E8%87%A3%EF%BC%9A%E9%A2%86%E8%A2%96%E7%8B%AC%E8%A3%81%EF%BC%8C%E8%87%A3%E6%B0%91%E6%81%90%E6%83%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8%E5%90%91%E3%80%8B/?category=18271" rel="tag">《动向》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">胡耀邦诞辰100周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B5%E8%89%AF%E8%87%A3/?category=18271" rel="tag">闵良臣</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%AE%B6%E5%B1%9E%E8%8E%B7%E5%87%86%E8%A7%81%E5%B0%B8-%E5%BC%A0%E5%85%AD%E6%AF%9B%E7%94%9F%E5%89%8D%E7%96%91%E9%81%AD%E9%85%B7%E5%88%91/" target="cdt-mirror">维权网 | 家属获准见尸 张六毛生前疑遭酷刑</a>
 </h2>
 <p><p>（维权网信息员郑毅报道）2015年11月16日星期一，本网获悉：在震惊社会的“张六毛死亡事件”发生第12天后，在海内外舆论的强大压力下，在死者家属和律师的依法抗争下，11月16日死者张六毛的妹妹张唯楚（张七毛）终于在殡仪馆内见哥哥张六毛的遗体。张唯楚发现哥哥遗体许多疑遭酷刑的明显迹象，她已经授权律师向广东省高检提交刑事控告书，控告相关工作人员的罪行。</p>
@@ -770,52 +832,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E7%BD%91-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BA%B2%E5%8E%86%E5%B7%B4%E9%BB%8E%E7%88%86%E7%82%B8-%E7%90%83%E5%9C%BA%E8%A2%AB%E6%89%94%E4%B8%89%E9%A2%97%E6%89%8B%E6%A6%B4%E5%BC%B9/" target="cdt-mirror">新浪网 | 中国人亲历巴黎爆炸: 球场被扔三颗手榴弹</a>
-</h2>
-<p><p><strong>中国数字时代编辑注：</strong><a href="http://www.bbc.com/zhongwen/simp/world/2015/11/151114_live_paris_attacks">据BBC中文网滚动播报</a>，截至本文发布时，巴黎恐怖袭击以造成至少120人死亡。<a href="http://www.bjnews.com.cn/world/2015/11/14/384249.html">另据新京报网报道</a>，目前尚无中国公民死伤消息。中国驻法使馆紧急通知所有在法中国公民注意安全，留在家中和住处，避免出门。密切跟踪法国当地媒体的相关报道和警方的安全提示，并配合警方的安全检查和证件检查。如遇紧急情况，请即拨打法国报警电话17或197。中国驻法使馆领事保护与协助电话：0033-615742537。外交部全球领保与服务应急呼叫中心电话：00861012308</p>
-<p>华西都市报讯（客户端记者肖茹丹）14日上午11点，华西都市报记者联系上在巴黎工作的湖南人汪先生，此时在家中辗转难眠的他，亲历了当地时间13日晚上发生在巴黎法兰西大球场的爆炸，“太恐怖了，还好我走得早！”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/1RT1-fxksqiv8354517.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/1RT1-fxksqiv8354517.jpg" alt="1RT1-fxksqiv8354517" width="550" height="328"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/pGXo-fxksqis4819391.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/pGXo-fxksqis4819391.jpg" alt="pGXo-fxksqis4819391" width="550" height="366"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/wMyr-fxksqiv8354519.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/wMyr-fxksqiv8354519.jpg" alt="wMyr-fxksqiv8354519" width="550" height="365"></a><br>
-汪先生说，13日晚上9点，他与朋友二人约好去法兰西大球场观看法国对德国国家队的足球比赛，但进场后没过多久，场外就发生了第一次巨响。“大概9点16分 左右，我听到场外传来砰的一声，起初大家都以为是音效，并没在意。”汪先生回忆，过了几分钟又传来第二次响声，因为球场内手机信号很差，没有办法及时获得 外部信息，所以当时大家还很淡定地看球。</p>
-<p>当地时间晚 上10点左右，在球场内的汪先生终于得知巴黎市区发生了枪击事件，并不断有朋友发来消息：“看啥球哦，快撤离！”“那时候我才晓得球场外面之前的巨响是发 生了爆炸。我是第一批撤离的人，出了球场，外面全是荷枪实弹的警察，路段也被封锁了。”汪先生和朋友加紧步子，朝地铁站走去，“因为封锁路段，走了20多 分钟才赶上地铁。”</p>
-<p>汪先生家住在巴黎南部市郊，而法兰西大球场在北部，穿越城市的小区附近非常平静，“回家后我才知道，后来球场也被扔了三颗手榴弹，一些撤离得晚的人滞留在球场里了。”</p>
-<p>现在虽然已是当地时间凌晨3点过，但汪先生回忆起当晚的事情，还是惊魂未定。“当是觉得很恐怖，现在更多的是愤怒。这段时间还是尽量减少出门了。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E6%B5%AA%E7%BD%91-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BA%B2%E5%8E%86%E5%B7%B4%E9%BB%8E%E7%88%86%E7%82%B8-%E7%90%83%E5%9C%BA%E8%A2%AB%E6%89%94%E4%B8%89%E9%A2%97%E6%89%8B%E6%A6%B4%E5%BC%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E/?category=18271" rel="tag">巴黎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E6%9D%A8%E8%99%8E%E7%94%9F%EF%BC%9A%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%80%E5%9C%BA%E6%8A%95%E6%9C%BA%E7%9A%84/" target="cdt-mirror">端传媒｜杨虎生：国家意识形态中心，一场投机的政治生意</a>
-</h2>
-<p><p>这个新媒体研究院的组成部门及人员，在研究院成立之前，基本处于“失业”状态。就在这帮“毛派”人士试图以建制化自救时，互联网发展早已经抛开了他们试图重新立足的“互联网”范围。</p>
-<p>新华网最近以“新华舆情”为电头，通报中国社科院国家文化安全与意识形态建设研究中心，成立了新媒体研究院。“这是国内首家由中央部委、军队、群团组织、研究机构、高校、新闻单位和正能量新媒体专家等共同组建的权威新媒体研究机构，也为更好地打赢新三十年意识形态反击战组建了一支生力军”，“有效维护中国的网络意识形态安全”。</p>
-<p>在这个短信中，这个中心因为被简称为“国家意识形态中心”，受尽了社交媒体上意见领袖们的嘲弄。担任新媒体研究院院长的朱继东，毫不吝啬地在网络上展示作为一名“毛派”信徒的虔诚，他曾呼吁国家立法确认毛泽东为中华人民共和国的“国父”。这个新媒体研究中心，等于竖起了一面“毛左”旗帜，让机构及个人信徒的识别度更高。</p>
-<p>尽管“意识形态”一词带有强烈的贬义，此一新媒体研究院更受到网民万般讽刺，但是其成立自有现实逻辑。从网络论坛时代发展“五毛党”规模化污染信息，到社交媒体时代培植文宣大V进行洗脑作业，再到以研究院的名义对网宣的现有势力进行建制化，表明意识形态主管部门一直在设法适应新技术变革，力图稳定意识形态的压制效果。</p>
-<p>在微博进入大陆的最早期，意识形态部门一度因为不谙技术传播，搞得相当被动。在关掉饭否，将微博牌照发放给新浪公司之后，文宣部门依据固有的侵略特性及权力优势，最终以延宕微博生命力为代价，将其驯服。但意识形态的有无取决于它能否制造永久的“敌人”，就像这个新媒体研究院宣称的那样，互联网是意识形态斗争的“主战场”。</p>
-<p>从这个角度看，这个所谓的新媒体研究院，并非是一个媒体机构，依旧是意识形态浓烈的执行单位。只不过从前是散乱地接受文宣任务，现在可以研究院的名目承接更多、更大的项目。换言之，新媒体研究院有利于策应有关部门的意识形态攻击，以民间智库的身份实现意识形态这门生意从“零售”升级到“批发”，可以更高效地瓜分文宣资金。</p>
-<p>意识形态并非是一门崭新的生意，长期以来，文宣部门就逐渐意识到改变自身“清水衙门”的状况，掌握充裕的财政资金，是确保部门权力长久在手的重要保障。从近年披露出来的宣传部官员贪腐的少量信息可以看到，宣传部门正在努力将意识形态工作从规训国民迭代为盈利丰厚的生意——而在大陆，意识形态这两个功能是合二为一的。</p>
-<p>挂靠在毛派传统势力范围社科院下面的新媒体研究院，深谙此中的旁门左道。一方面高声大嚷互联网对政权的颠覆性危险，重复意识形态在网络时代的重要性与必要性，另一方面将文宣部门不会做、不便做的洗脑宣传项目化，从文宣资金中套现，就是催生这个研究院的直接原因。为了让意识形态生意更兴旺，必须高唱网络威胁论。</p>
-<p>大陆的新媒体运动正在推动产生新的势力、新的媒介形式及新的传播内容。无论是从追赶媒体大势，还是因应丛生的媒改动力，国家意识形态中心的新媒体研究院都追赶不及——它以陈腐方式重组文宣旧势力伊始，就已经落后于新媒体发展潮流，这才是它最具讽刺意味的地方。许多厌憎它的人很担心它获得成功，可它注定不能实现“愿景”。</p>
-<p>无论是中宣部控制下的传统媒体，还是被文宣新贵网信办掌握的网络媒体，都处在极大的衰退进程中。因为微博被管制到极端，意识形态可以发力的机会稀少，这个新媒体研究院的组成部门及人员，在研究院成立之前，基本处于“失业”状态。就在这帮“毛派”人士试图以建制化自救时，互联网发展早已经抛开了他们试图重新立足的“互联网”范围。</p>
-<p>除了媒体大势制造重新集结的障碍，新媒体研究院尚需在权力格局中应对可能的沉浮局面。强化意识形态会造成人心动荡及社会不稳，除非必要，不可能频繁作为政治手段来使用。而在权斗的背景下，中宣部与网信办的权力暗战缺乏有效调停，包括新媒体研究院在内的项目执行，势必受到掣肘，以新媒体旗帜袒露“毛派”立场，也面临“政治规矩”的禁忌。</p>
-<p>当然，借助官媒喊出“国家意识形态中心”这面旗帜，自然也是别有深意。他们虽然以新媒体研究院的名称强调社会属性，以中立的称呼混淆视听，试图用深红的“意识形态”纲目来掩护其进退，但主事者依附党内最保守的文宣势力，笼络“毛派”门客、凭借智库来养成一派政治力量的用意也很清晰。在这里，意识形态俨然成了一门政治投资。</p>
-<p>总之，若以媒体研究的视角来评价这个新媒体研究院及其宣称的“伟大目标”，注定不能得逞。大陆媒体平台剧烈变动，文宣话语的落后及反动本质早就被网民认清，导致其哪怕重组狙击线也无效果。若以政治权斗的角度视之，“毛左”新媒体研究院试图在意识形态转型的乱局中火中取栗，此种政治投机，陷入更加诡谲的政治处境，只能自求多福了。</p>
-<p>（杨虎生，媒体人，资深评论人）</p>
-<p> </p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E6%9D%A8%E8%99%8E%E7%94%9F%EF%BC%9A%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%80%E5%9C%BA%E6%8A%95%E6%9C%BA%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">国家意识形态中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -827,7 +843,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -837,5 +853,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

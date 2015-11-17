@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%85%95%E5%AE%B9%E8%80%81%E8%94%A1%EF%BC%9A%E3%80%90%E5%BE%AE%E5%B0%8F%E8%AF%B4%E3%80%91%E5%BE%8B%E5%B8%88%E6%9C%89%E4%BA%86%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E4%B9%8B%E5%90%8E/" target="cdt-mirror">慕容老蔡：【微小说】律师有了评级制度之后……</a>
+</h2>
+<p><p><strong>20XX年，天朝中央为律师行业设置了评级制度，律师界顿时欢乐了起来：</strong></p>
+<p>1</p>
+<p>老王律师50多了，近年来越来越发现自己对新的法律法规理解适用有点力不从心。回望自己这20多年的律师生涯，要么是接不到案件，要么就是本来该赢的案子却打输了，真是往事不堪回首。就在他寻思是不是要退出这个竞争激烈的行业时，听到了律师分级的制度。于是他戴上老花镜，对着报纸一项项比照，突然激动的大叫起来：“干了20多年，每人正眼瞧我，我终于成大律师啦！司法部真的是关爱老一代工作委员会啊！”</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWljjDWO3bibSShNy0EgUh5FyZqS5cbcMAGM5o2lWY0254jFN6Xo5daOA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>2</p>
+<p>在司法局律管处干了20年了，虽然顶着个副处的名头，却从没人把老张当领导。周一上班，处长转达局里的通知，为了落实上级关于律师评级的工作，认命老张为本市律师评级工作委员会办公室主任牵头相关工作。新官上任的老张激动不已，散会后拿起手机在朋友圈发布了这个消息，不到一小时，下面的留言超过了100条，而手机上的信息就更是多到不得了：“主任，晚上有空么？一起吃个饭聊聊我那个评级的事哈？”“主任，我早就知道您非等闲之辈，我的评级就全靠你啦”。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWE40l1BfnqBtlsBanjrrYdcpD1zwEbs4QreCj5ic6grGohL7uTUcaDlQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>3</p>
+<p>老丁自从40岁之后就依靠超凡的商业头脑成了商海大咖，基本从律师岗位上退了下来，但是一直没有注销律师证。就在他自己都差点忘了自己还有律师证这回事的时候，老同学的儿子登门了：“丁叔叔，恭喜您被评上大律师啦。不过您看您这个律师证放着也没啥用，我们现在几个年轻人开了律所，但是按照评级制度，我们有的法院不能去，您看看是不是把律师证租给我们？我们按照案子给您提成。”老丁一听还有这个好事，可转念一想会不会给自己惹麻烦：“我是没空办案子的，你们租过去我的律师证，可要有心理准备啊”“丁叔，您看您说的，您这么一大律师了都，哪里用去办案子，您只要挂个名做第一代理人，后面挂上我的名字，按照国家规定我就可以去高级法院啦，您都不用出面！”老丁听了心里乐开了花：寻思着我这退休后的生活权依靠这张大律师证了啊！</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWZuH5yCG5cJNVQxh2UhbwaklcqLZMJlYbkpzODw0GrlQEbpS9l8ice9Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>4</p>
+<p>区法院一个民事案子开庭，原告律师小王有理有据，发表的律师意见使得合议庭人员不断投以赞许的目光；被告律师老江却不以为然，“作为一名大律师，我办过的类似案子数以百计，从没有遇到过和小律师对庭的”“我以一名大律师的职业荣誉担保，原告的这些证据都是捏造的”“一名大律师通常对法律的理解不会比拟一位小律师还差吧？”……合议庭人员实听得昏昏欲睡……</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWO3icias8EDxpMshXLwZP9zXQ2fzLvWUTZMLnZngiadickK4iadk1djF3OYQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>5</p>
+<p>小李的老公被公安以涉嫌互联网犯罪为由带走了，心急如焚的小李满大街开始找律师楼。小李进了一家律所，律师老蒋接待她，小李将老公的事给老蒋仔细说了一遍，可这老蒋都几十岁的人了，哪里懂互联网这点事，但是眼见送上门的案子总不能不要啊，于是乎他对小李说：我们所有两种律师，比如我，是国家认可的大律师，当然还有其他小律师，我的收费是从20万元起，小律师们是10万元，不过看你和你老公感情这么好，这个年代也不容易了，还是个女人家，这样吧，这个案子我就便宜点收你10万元吧。小李一听感动不已，连忙签了合同，并再三感谢蒋大律师的帮忙。小李走后，老蒋拿起电话给隔壁办公室的小户律师电话：“小户啊，我这边有个互联网的案子，谈了10万律师费，你知道的，我对这种小案子不感兴趣，这样吧，我们合作一下，律师费我们一人一半如何？”小户正因为被国家定了个小律师的标签案源越来越少而郁闷呢，哪里有拒绝的份。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWzy0QItdRztPWuGEnSTGcyW9ZYvicLmqlk7uica8pUE6MbCGtO79fvwiaA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>6</p>
+<p>陈律师是出了名的直肠子，最近为一个职务犯罪案子很是纠结：明显是可以做无罪辩护的，但是据说开庭前一天纪委老大哥已经带着法官与公诉人和被告人见了面，被告人告诉老陈：他们说，放心吧，你的律师想保住他的大律师级别，不敢给你做无罪辩护的……老陈心里咯噔一下，难道他们是通过这种方式警告我？看来，是做无罪辩护一夜回到解放前做一名小律师，还是识时务地做罪轻求情辩护，真的是一个问题……开庭那天，审判长宣布因为辩护律师退出辩护，庭审延迟，被告人尽快重新委托律师……</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWYIkcGdHxCTkDibM3dLFB6bJXWgmoEAt4sKchpBAMyUcw4wJP5PGSBnQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>7</p>
+<p>openlaw的小朱和无讼的老蒋最近挺郁闷，自己团队辛苦搞起来的互联网裁判文书大数据应用，因为把钦定大律师评为不建议委托律师，被告上了法庭，很有可能被“依法”停用。钦定大律师庭上那句“作为国家认定的大律师，我有义务维护国家的权威，与你们这种非法干扰市场的不法商人做坚决斗争”让小朱和老蒋心理包袱很大……</p>
+<p>8</p>
+<p>老朱和哥几个的律所开了二十年了，一直不温不火，大家寻思着该怎么突破发展？评级制度落实第二天，这家律所挂出了大横幅“本所清一色大律师提供服务”“大律师比例最高的律所值得委托”……</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%85%95%E5%AE%B9%E8%80%81%E8%94%A1%EF%BC%9A%E3%80%90%E5%BE%AE%E5%B0%8F%E8%AF%B4%E3%80%91%E5%BE%8B%E5%B8%88%E6%9C%89%E4%BA%86%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E4%B9%8B%E5%90%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">从业资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E7%BA%A7%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">分级制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">评级制度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%B8%AD%E5%85%B1%E5%85%9A%E6%8A%A5%EF%BC%9A%E8%AE%A2%E9%98%85%E9%9D%A0%E5%BC%BA%E5%88%B6/" target="cdt-mirror">纽约时报 | 尴尬的中共党报：订阅靠强制</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/13SINO-PAPERS-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/13SINO-PAPERS-articleLarge.jpg" alt="北京，一名男子在自行车修理铺旁一边等待一边阅读报纸。" width="600" height="400"></a><p>北京，一名男子在自行车修理铺旁一边等待一边阅读报纸。</p></div>
@@ -739,62 +772,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%93%E8%BE%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%B7%B4%E9%BB%8E%E8%A2%AD%E5%87%BB%E6%A1%88-%E4%B8%80%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E6%8C%81%E6%9C%89%E5%8F%99%E5%88%A9%E4%BA%9A%E6%8A%A4%E7%85%A7/" target="cdt-mirror">德国之声｜巴黎袭击案 一恐怖分子持有叙利亚护照</a>
-</h2>
-<p><p>周六晚，法国检察院召开新闻发布会，表示最新的丧生人数上升到129人。检察机关还透露，一名恐怖分子被确认为法国人，而另一名自杀式袭击者则被发现持有叙利亚护照。此前，恐怖组织“伊斯兰国”已经宣称对袭击负责。</p>
-<div>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/018850144_30300.jpg" alt="0,,18850144_303,00" width="549" height="309"></p>
-<p>周五晚间，一具遇难者遗体暂时置放在巴黎第十区的道路旁边</p>
-</div>
-<div>
-<div>
-<p>（德国之声中文网）周六晚间，法国检察院召开新闻发布会。检察官穆兰(François Molins)透露，最新的统计数据显示，连环恐怖袭击造成了129人丧生，这个数字还有可能进一步增长。仅在巴塔克兰音乐厅就有99人身亡。穆兰透露，目前的受伤人数为352人，其中99人为重伤，不少人依旧没有脱离生命危险。</p>
-<p>穆兰进一步指出，周五晚间，一共有三伙恐怖分子在事先协调一致的情况下，使用AK自动步枪以及构造完全相同的炸弹发动了总共7起袭击，其中3起爆炸发生在法兰西大球场旁边，事发时场内正在举行法国队与德国队的友谊赛。</p>
-<p>连环袭击</p>
-<p>周五（11月13日）晚间，巴黎多地遭到恐怖袭击。其中巴黎市中心能容纳1500名观众的巴塔克兰音乐厅（Bataclan concert hall）的袭击事件，就导致近百人死亡。事发时该音乐厅内正举行一场美国摇滚乐队“Eagles of Death Metal”音乐会，据称当晚门票销售一空。</p>
-<p>多家通讯社引述现场目击者称，袭击者在开枪时高呼“真主至上”（Allahu akbar）的口号，并投掷爆炸物。当晚在巴塔克兰音乐厅现场的记者亚那扎克（Pierre Janazak）表示：“我听到他们（袭击者）对人质说，‘这是奥朗德的过错，是你们总统的过错。他不应该插手叙利亚’。”</p>
-<div>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/018849524_40400.jpg" alt="0,,18849524_404,00" width="340" height="191"></p>
-<p>巴黎巴塔克兰音乐厅</p>
-</div>
-<p>警方对巴塔克兰音乐厅采取了强攻行动。4名袭击者全部身亡。警方称，其中3人死于自杀式炸弹袭击。</p>
-<p>此外，巴黎警方表示，当地第十区一家餐馆内发生枪击事件，造成十数人伤亡。而位于巴黎北部的法兰西足球场附近，发生了3起爆炸事件，其中包括一次自杀式炸弹袭击。至少4人在爆炸中丧生，其中包括3名袭击者。</p>
-<p>目前，恐怖袭击者的身份鉴定工作也已经取得了一些进展。检察官穆兰说，一名在巴塔克兰音乐厅的袭击者已经被确认系一1985年出生的法国男子，此前已经有犯罪前科；法国警方数年前就注意到了此人的极端主义倾向，但是从未发现过他与圣战组织有关联。此外，在法兰西大球场外的一名自杀式袭击者被发现持有一本叙利亚护照，这名男子系1990年出生，法国警方之前对他并不了解。检察机关还指出，在系列袭击中，共有8名袭击者身亡，其中七人是（炸弹袭击）自杀，一人被警方击毙。</p>
-<p>比利时警方逮捕恐爆嫌犯</p>
-<p>比利时当局则表示，该国警方已经逮捕了数名可能与此次巴黎恐爆案有关的嫌犯。比利时司法部长向媒体表示，警方行动的原因是周五在巴黎受袭的巴塔克兰音乐厅附近看到了一辆挂有比利时拍照的汽车。该车属于租赁车辆。警方在布鲁塞尔附近地区的多处民宅进行了突击检查。比利时内政部长宣称，已经逮捕 了租车者和多名在寻找这辆汽车的过程中为警方所注意到的嫌犯。目前，调查正在进行之中。</p>
-<p>周五当晚，德国国家足球队正在巴黎与法国队举行一场友谊赛。法国总统奥朗德当时也在场内观战，爆炸发生后，他被安全人员紧急撤离。</p>
-<div>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/018849355_40100.jpg" alt="0,,18849355_401,00" width="549" height="309"></p>
-<p>比赛结束后的法兰西球场</p>
-</div>
-<p>而当天早间，德国队下榻酒店曾收到匿名人士发出的炸弹袭击警告。警方此后派出排爆警犬搜查，但并未发现爆炸物，德国队球员随后返回酒店。</p>
-<p>周五晚间的比赛并未受到袭击事件的影响，最后以法国队2：0战胜德国队。</p>
-<p>比赛结束后，球场广播员以“场外事件”为由，提示球迷避开一些特定出口，但并未进一步解释缘由。人群起初出现暂时慌乱情绪，但此后人们互相搀扶离开，并通过手机了解最新事态发展。也有部分球迷出于担心，而不愿离开球场。</p>
-<p>“伊斯兰国”所为</p>
-<p>截至周六上午，120余人在袭击事件中丧生，另有约300人住院治疗，其中约80人情况危险。</p>
-<p>周六上午，法国总统奥朗德表示，巴黎连环恐怖袭击是恐怖组织“伊斯兰国”（IS）实施的。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/11/018850148_40400.jpg" alt="0,,18850148_404,00" width="340" height="191"></div>
-<p>法国总理：不会停止空袭叙利亚</p>
-<p>与此同时，“伊斯兰国”在一份网络声明中宣布对事件负责，并称巴黎袭击是对污染伊斯兰先知和空袭的回应。该恐怖组织还警告，如果法国继续其目前的政策，其将继续是该组织的主要打击目标。法国总理瓦尔斯（Manuel Valls）周六晚间宣称，法国军方不会停止在叙利亚的空袭行动。</p>
-<p>警方在一具袭击者尸体身上发现一本叙利亚护照。另外据法新社周六下午援引警方消息，袭击者中至少有一名法国人。</p>
-<p>法国进入紧急状态</p>
-<p>事发后，法国总统奥朗德前往内政部召开会议，并随后发表电视讲话，宣布全国进入紧急状态，关闭边境。奥朗德表示，巴黎遭遇“史无前例的恐怖袭击”，并誓言对恐怖分子“绝不留情”。奥朗德同时取消周末前往土耳其首都安卡拉参与二十国集团峰会的计划。</p>
-<div>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/018849635_40100.jpg" alt="0,,18849635_401,00" width="551" height="310"></p>
-<p>连环恐怖袭击后的巴黎</p>
-</div>
-<p>今年1月7日至9日，巴黎及周边地区曾发生系列恐怖袭击，其中包括针对讽刺漫画杂志《查理周刊》编辑部的袭击行动，共造成包括袭击者在内的20人死亡。而引人注意的是，11月13日晚遭遇袭击的巴塔克兰音乐厅距离《查理周刊》编辑部仅三个街区。</p>
-<p>鉴于此次巴黎袭击事件，各国纷纷加强安保措施。意大利收紧边境检查，而波兰决定，不再接受难民。</p>
-</div>
-</div>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%B7%B4%E9%BB%8E%E8%A2%AD%E5%87%BB%E6%A1%88-%E4%B8%80%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E6%8C%81%E6%9C%89%E5%8F%99%E5%88%A9%E4%BA%9A%E6%8A%A4%E7%85%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%99%E5%88%A9%E4%BA%9A/?category=18271" rel="tag">叙利亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/?category=18271" rel="tag">巴黎恐袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -806,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

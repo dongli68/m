@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%85%95%E5%AE%B9%E8%80%81%E8%94%A1%EF%BC%9A%E3%80%90%E5%BE%AE%E5%B0%8F%E8%AF%B4%E3%80%91%E5%BE%8B%E5%B8%88%E6%9C%89%E4%BA%86%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E4%B9%8B%E5%90%8E/" target="cdt-mirror">慕容老蔡：【微小说】律师有了评级制度之后……</a>
@@ -395,7 +395,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8%E5%90%91%E3%80%8B/?category=18271" rel="tag">《动向》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">胡耀邦诞辰100周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B5%E8%89%AF%E8%87%A3/?category=18271" rel="tag">闵良臣</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%AE%B6%E5%B1%9E%E8%8E%B7%E5%87%86%E8%A7%81%E5%B0%B8-%E5%BC%A0%E5%85%AD%E6%AF%9B%E7%94%9F%E5%89%8D%E7%96%91%E9%81%AD%E9%85%B7%E5%88%91/" target="cdt-mirror">维权网 | 家属获准见尸 张六毛生前疑遭酷刑</a>
 </h2>
@@ -783,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%93%E8%BE%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -793,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%93%E8%BE%BE
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

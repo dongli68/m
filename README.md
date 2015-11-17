@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8F%B7%E7%A7%B0%E4%B8%8D%E8%A1%8C%E8%B4%BF%E7%9A%84%E9%A9%AC%E4%BA%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/" target="cdt-mirror">美国之音 | 号称不行贿的马云们如何处理政商关系</a>
+</h2>
+<p><div>
+<div>作者：慕小易</div>
+</div>
+<div>
+<div>
+<p>“双11”打败京东狂圈912.17亿元销售额的阿里巴巴董事局主席马云最近又放豪言。他作为浙商总会首任会长，在第三届世界浙商大会上呼吁“浙商永远不参与任何行贿”。而中纪委机关报也适时回应说“永不行贿的马云们，好日子在后头”，俨然一出双簧戏。</p>
+<p>11月17日，中纪委机关报刊文为马云的“不行贿”点赞。文章还引述微信公众号“学习小组”11月15日发布的一篇文章说，“这三年，习近平为总书记的党中央可谓冒着政治风险，不知打破多少人的‘奶酪’，与各种利益集团、既得利益者决战。”</p>
+<p>过去三年，反腐运动的确是打下了不少“大老虎”和“小苍蝇”，牵扯其中的一些政商间利益输送链也被阻断。商人对官场的依赖有所消解，却仍顽固不化。万达地产创始人王健林也承认说“在中国政商关系这门学问比博士后还要高”。</p>
+</div>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2013/02/MAYUN.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/02/MAYUN.jpg" alt="MAYUN" width="295" height="325"></a></p>
+<div>
+<p><strong>中国微妙的政商关系</strong></p>
+<p>一百年前，德国著名社会学家、政治学家、经济学家马克斯·韦伯曾在其著作《经济与社会》中写道：“在中国的官僚制社会中，官府的独断专行对资本主义的发展机会伤害巨大。”因为统治者对资本的垄断和攫取阻碍了私有经济的发展也限制了经济创新。</p>
+<p>遗憾的是，在一百年后的今天，这种官僚传统在中国依然根深蒂固。1945年，美国学者费正清在他的书中如此描述政商关系，他写道：“中国的传统不是制造一个更好的捕鼠机，而是从官方取得捕鼠的特权。”</p>
+<p>大军智库主任仲大军认为，中国目前正处于转型期，行政的作为对企业盈利的影响很大。</p>
+<p>他说，“政商关系非常微妙。有的时候是政府的权力与资本结合起来、联起手来赚钱，就是说企业赚了钱也要输送给官员。有时候是一种联合起来赚钱的关系。也有的时候是被迫的……比如说这个事儿让你干，你就可以赚钱甚至是赚大钱；这个事儿不让你干，甚至不让你这样干，你就可能赚不着钱。”</p>
+<p>人在中国的社会观察家田奇庄也认为，企业在中国的大环境下“想做到出污泥而不染，恐怕是一厢情愿”。</p>
+<p>他说，“我曾经在七八家大中型国企、私企都干过。可以说很多企业我也在这个企业的要害部门包括领导部门工作。那可以说每天上班一个很重要的任务就是给政府官员怎么行贿，怎么去通融，怎么去打通关系。你不这样做根本行不通。”</p>
+<p>他谈到，中国的政府官员不受监督、财产不用公示，许多权力的自由裁量空间也非常大。在这种情况下，企业想按照自己的意愿推进是非常困难的。</p>
+<p>而对于马云“不行贿”的口号，田奇庄用周永康的下场举例说，“他当年反腐败惩治别人，也都是调子唱的比谁都高，结果一查出来好家伙比谁作恶都多，别人都比不了他们。我觉得恐怕马云的这些事，有朝一日有人给他兜底的话，他也是无法自圆其说的。”</p>
+<p><strong>他们说自己不行贿，你信吗？</strong></p>
+<p>宣称自己从不行贿的，马云不是第一人。</p>
+<p>万科董事长王石也曾在自己的书中写道：“从我到深圳创业开始，不行贿就是我做事的一个基本的原则和底线。”他今年5月做客新华网《思客讲堂》栏目时说，“整个社会流行的问题不是行贿，而是根本不相信你不行贿。”</p>
+<p>子非鱼，这也本不是一个信与不信的问题。</p>
+<p>从十八大以来反腐行动的成果来看，来自商界的朋友圈成为导致官员落马的一大陷阱。企业家谋求政策优惠，官员也有意结交商界的朋友。晚清发家的“红顶商人”胡雪岩的故事至今仍为一些国人津津乐道。</p>
+<p>今年1月，马云的阿里巴巴因为被抽检出假货而与工商总局“杠”上了。当时，工商局抽检了淘宝51件商品，得出正品率37%的结论。淘宝抗议工商局的抽检程序违规，许多卖家没有受到抽检结果通知，工商总局也没有告知当事人有申请复检的权利，就直接向社会公开。企业和政府间的这场大戏导致阿里巴巴股价暴跌，之后马云立即与工商总局局长会面，握手言和，事情就这样摆平了。“不行贿”的马云当时对这位局长施了何种法术，观者不得而知。但就事态发展来看，处理政商关系，“来硬的”是不行的。</p>
+<p>主张“亲近政府，远离政治”的万达集团董事长王健林10月29日在“哈佛公开课”上发表演讲时也曝出万达集团发展迅速是得益于其与总共高层的关系。他表示习近平的姐姐齐桥桥和邓家贵夫妇都曾是万达上市公司的股东。</p>
+<p>马云筹办的湖畔大学研究过企业走向死亡的原因。研究结果是，死亡率第一位是政商关系。原因首先是中国制度政策的不确定性大；其次是民营资本和国有资本的资源不对等，经常遭遇绞杀；最后是企业家和官员间微妙的“友情”。有媒体用《论语》中的话形容这种关系：“近之则不逊，远之则怨”。</p>
+</div>
+</div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8F%B7%E7%A7%B0%E4%B8%8D%E8%A1%8C%E8%B4%BF%E7%9A%84%E9%A9%AC%E4%BA%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%A1%8C%E8%B4%BF/?category=18271" rel="tag">“不行贿”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">政商关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E8%B4%BF/?category=18271" rel="tag">行贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/" target="cdt-mirror">德国之声 | 德语媒体：“北京继续允许酷刑”</a>
 </h2>
 <p><p>本周二（11月17日），联合国反酷刑委员会在日内瓦商讨关注中国监狱中的酷刑问题。中国政府代表也必须就此给予解释。德语媒体关注到，虽然中国的法律命令禁止刑讯逼供，但酷刑虐待在中国仍然是“家常便饭”。</p>
@@ -728,30 +768,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E6%96%B0%E7%96%86%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E5%87%B6%E6%9D%80%E6%A1%88%E5%91%8A%E7%A0%B4-%E6%9A%B4%E6%81%90%E5%88%86%E5%AD%90%E8%A2%AB%E5%85%A8%E6%AD%BC/" target="cdt-mirror">法广 | 新疆拜城煤矿凶杀案告破 暴恐分子被“全歼”</a>
-</h2>
-<p><p>作者：曹国兴</p>
-<p><strong>北京时间11月14日上午，中国官方在法国巴黎发生大规模恐怖袭击的同一天，宣布将逃入山中的拜城煤矿恐怖袭击的凶手“全歼”。9月18日，一伙不明身份的持刀者在夜深人静时袭击了新疆阿克苏地区拜城县铁热克镇附近山上的一座煤矿，袭击者首先杀死了警卫，然后杀死了在宿舍床上睡觉的矿工。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-15-at-%E4%B8%8B%E5%8D%885.46.47.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-15-at-%E4%B8%8B%E5%8D%885.46.47.png" alt="Screen Shot 2015-11-15 at 下午5.46.47" width="555" height="313"></a><br>
-图片来自网络</p>
-<p>《纽约时报》援引据受害者亲属和居民的说法，这场杀戮最终导致逾50人死亡，遇难者大部分是汉人，其中至少有五名警察，另有数十人受伤。死者家属从四川赶到拜城县后，当局以安全为由，未准家属前往现场祭奠，仅让他们认尸后，立即处理尸体。</p>
-<p>此前，《自由亚洲电台》曾援引拜城一名政府官员的话报道，袭击者可能是对一场旨在打击宗教极端主义的强制行动进行报复。这名官员称，正在搜捕的17名嫌疑人来自三个维吾尔家族。因为公然藐视禁止女性蒙面等规定，这三个家族被当局盯上。</p>
-<p>此后，官方对此事一直保持沉默，没有任何一家中国大陆媒体报道此事。</p>
-<p>拜城张贴的通缉令显示，袭击者是维吾尔人，犯案之后，他们似乎逃进了拜城县附近，距离中国与吉尔吉斯和哈萨克边境不远的天山山麓。</p>
-<p>此后，当地消息显示，警察和武警、特种部队在内的上千人在当地展开了严密的搜捕行动。《纽约时报》称，当地民众在拜城主要集市张贴的通缉令上看到了几张年轻女子的面孔。后来，通缉令被撤下，原因未知。</p>
-<p>今天上午，公安部的微博账号“公安部打四黑除四害”发布消息称，“11月13日，黑色星期五，法国巴黎遭遇史上最严重的恐怖袭击，数百人死伤。地球另一边，中国新疆警方，历经五十六天追击，对暴恐分子发动总攻，取得重大战果。”</p>
-<p>公安部还同时发布了十几张突击队在天山山麓露营搜捕，和军方突击队携带狙击步枪，在军用运输机上的照片。<br>
-一份警方公布的，据称是来自现场军警的手写情况描述称，搜捕持续了56天，对逃亡的恐怖分子的最后围捕应该在昨天（11月13日）16点40分结束的。</p>
-<p>17:38分，来自现场的报告称，全部逃亡“暴恐分子”尸体被找到，根据这份手写的文字材料，现场警方听到了“疑似女人和小孩的声音”，但这段描述在警方公布的版本中被抹去。</p>
-<p>目前，官方尚未公布被击毙的恐怖分子身份，也未正式宣布被击毙者与此前的拜城煤矿恐怖袭击有关。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E6%96%B0%E7%96%86%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E5%87%B6%E6%9D%80%E6%A1%88%E5%91%8A%E7%A0%B4-%E6%9A%B4%E6%81%90%E5%88%86%E5%AD%90%E8%A2%AB%E5%85%A8%E6%AD%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%9C%E5%9F%8E%E7%85%A4%E7%9F%BF%E5%87%B6%E6%9D%80%E6%A1%88/?category=18271" rel="tag">拜城煤矿凶杀案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">新疆暴力事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E9%97%AE%E9%A2%98/?category=18271" rel="tag">新疆问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E6%81%90/?category=18271" rel="tag">暴恐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E5%9B%BD%E5%85%B4/?category=18271" rel="tag">曹国兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -763,7 +779,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -773,5 +789,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

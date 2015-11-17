@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,89 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/" target="cdt-mirror">德国之声 | 德语媒体：“北京继续允许酷刑”</a>
+</h2>
+<p><p>本周二（11月17日），联合国反酷刑委员会在日内瓦商讨关注中国监狱中的酷刑问题。中国政府代表也必须就此给予解释。德语媒体关注到，虽然中国的法律命令禁止刑讯逼供，但酷刑虐待在中国仍然是“家常便饭”。</p>
+<div><a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/a-18855952#" rel="nofollow"><img src="http://www.dw.com/image/0,,17939364_303,00.jpg" alt="Amnesty International - Copy of CHINA Report Trade tools of torture and repression" width="550" height="310" border="0"></a></div>
+<div>
+<div>
+<p>（德国之声中文网）德国《日报》本周二（11月17日）发表了题为”北京继续允许酷刑”（Peking lässt weiterhin foltern）的文章，认为中国虽然形式上取消了”劳教”制度，但仍然有受害者表示遭遇了系统性的酷刑。如今，联合国反酷刑委员会将关注商讨这一问题。</p>
+<p>生活在北京的作者在文章开头写道：”他在骗人吗？这是视而不见？还是他真的不知道这个国家的监狱里是什么情况？中国外交部发言人上周四否认系统性的实施酷刑在中国仍然是常规做法。在面对外国记者的提问时，他表示’中国法律命令禁止刑讯逼供……我们将继续改善有关人权和法律保护的规则，让每个人受到公平、平等的待遇。'”</p>
+<p>作者继续写道：”有关指责确实很严重。大赦国际组织上周公开的纪录记载了许多囚犯在狱中受酷刑的情况。这一人权组织的报告内容令人震惊。不仅仅是监狱的情况非常糟糕。嫌犯经常要面对数个小时的审讯，挨打挨踢。不让他们睡觉，也不给他们提供水、食物和药品。他们必须在事先起草好的认罪书上签名。如果不服，警察就会动用其它的酷刑。”</p>
+<p><b>中国官员必须做出回应</b></p>
+<p>本周二，联合国的反酷刑委员会在日内瓦关注中国监狱的现状。这个联合国委员会负责监督遵守联合国反酷刑公约的情况，将在讨论过程中注意到大赦国际以及其它人权组织的有关报告。中国1986年签署了反酷刑公约。所以，政府代表必须于本周三就相关指责做出回应。</p>
+<p>作者随后引述中国维权律师余文生在狱中遭遇酷刑的经历写道：”余文生不是个别现象。仅今年一年，中国安全部门就逮捕了大约300名律师和其工作人员。许多人都表示遭受了酷刑和严重的虐待。大赦国际的中国问题专家潘嘉伟（Patrick Poon）表示：’如果律师都会受到酷刑的话，那在这个体系中的被告们还能抱什么希望呢？'”</p>
+<div><a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/a-18855952#" rel="nofollow"><img title="在中国，律师也免不了受酷刑折磨（摆拍资料图片）" src="http://www.dw.com/image/0,,17736285_401,00.jpg" alt="Folter Asien Symbolbild Inszenierung UNSCHARF VERFREMDET" width="550" height="310" border="0"></a>在中国，律师也免不了受酷刑折磨（摆拍资料图片）
+</div>
+<p>文章指出：”中国国家领导人习近平三年前上台后，多次强调依法治国，承诺提高司法和政府机关的透明度。他取消了臭名昭著的’劳教所’。在那里盛行的酷刑手段本应一去不复返。但人权组织’人权观察’继续向中国发出严厉的指责。人权问题专家理查森（Sophie Richardson）批评称’酷刑仍然是中国的日常现实。’她呼吁中国政府回答，’为什么这些问题仍然存在’。”</p>
+<p><b>律师们遭遇的酷刑待遇</b></p>
+<p>《法兰克福汇报》不久前也发文关注中国监狱里的酷刑问题。该报指出，虽然官方严禁实施酷刑，但在中国的监狱和拘留所中，犯人仍然会饱受折磨，在暴力下被迫认罪。大赦国际组织11月12日公布的一份报告指出，中国司法体系仍然相信那些通过虐待和酷刑手段所签署的认罪书。同时，那些为异议人士和国家机关为所欲为的受害者辩护的律师们也成为了被实施酷刑的对象。</p>
+<p>随后作者详细列举了几个受害律师的经历。包括”律师唐吉田原本计划2014年考察一处劳改机构的现状，他被捕后被绑在一个铁板凳上，挨打直至失去意识。一个来自湖南的律师声称，他被挂在一块木板上好几个小时。另外一名律师说，被戴上手铐的他要面对难以忍受的疼痛。国际大赦组织在报告中提及了37名中国律师，他们受到了酷刑包括不准睡觉、不准进食进水。”</p>
+<p><em>[摘编自其他媒体的内容，不代表德国之声的立场或观点]</em></p>
+</div>
+</div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%8D%E9%85%B7%E5%88%91%E5%85%AC%E7%BA%A6%E3%80%8B/?category=18271" rel="tag">《反酷刑公约》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%96%87%E7%94%9F/?category=18271" rel="tag">余文生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%8B%B1/?category=18271" rel="tag">监狱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E6%9C%BA%E9%A1%B6%E7%9B%92%E8%A2%AB%E5%BA%9F%E6%AD%A6%E5%8A%9F-%E7%BD%91%E7%BB%9C%E6%8E%A7%E5%88%B6/" target="cdt-mirror">自由亚洲 | 网络电视机顶盒被“废武功” 网络控制力度几达顶峰</a>
+</h2>
+<p><p>网络电视机顶盒近年在中国大陆广受欢迎，但近日中国当局开始对境外电视网络接收设备进行全面封杀，再次加强针对舆论和网络的控制力度。</p>
+<p>中国当局目前已开展针对网络电视境外接收设备和软件的严厉打击行动。中国广电总局近日宣布，封禁81个智能电视盒子的应用程式，包括风云直播、泰捷视频和喜马拉雅等第三方视听应用。当局指这批应用程式“涉嫌传播违规有害内容”，包括提供美国之音、BBC等境外电视台直播或节目点播服务以及提供未经取得发行放映许可证的电影、电视剧。而被封杀的名单中还包括凤凰卫视、香港卫视等有中资背景的应用程式。</p>
+<p>对此，机顶盒用户、维权人士刘四仿接受本台采访时称，自上周开始，盒子内众多影视应用无法使用，当局尤其将海外网路传媒作为打击重点，显示对来自境外的消息格外恐惧，该行动虽然打着维护版权、净网的名义，但重点落在“国家安全”。</p>
+<p>刘四仿：“我也是一个使用网络机顶盒的用户。中国大陆的网民为什么会选择使用网络机顶盒，就是因为当局控制对媒体，特别是电视媒体的报导，没有民间媒体。所 以我们不愿意去看他的枯燥乏味的严重洗脑的政治宣传。我记得是从前天开始，就发现已经不能使用，弹出的介面就显示根据政府的指令，在升级当中，防止非法的 电视节目传播。在中国的网络能有什么非法的电视节目传播？中国大陆的互联网都是过滤的，还有什么东西政府的黑手没有伸到的地方呢？这个简直是无稽之谈。他 们是为了进一步的用他官方垄断媒体，他不希望国民脱离他的洗脑式宣传，的这才是最重要的。”</p>
+<p>在广电总局采取行动之前，本台上月就曾报道，有媒体人爆料指，中国将展开境外电视网络接收设备专项整治行动，曝光由公安部和广电总局等四个部门联合下发的《关于依法严厉打击非法电视网络接收设备违法犯罪活动的通知》显示，当局要求各部门，重点对包括对网络接收设备“电视棒”等定向接收软件或硬件机顶盒、网络软件、移动互联网客户端等进行查处。</p>
+<p>事实上，这已不是广电总局首次整治行动，广电总局曾先后禁止视频网站播放日本动漫、美剧等。但之后，央视却引进译制了《生活大爆炸》，经删减后播出。被网民抨击为“垄断”、“以权谋私博收视率”。</p>
+<p>除了加强控制网络电视内容之外，中国文化部上周宣布，从明年1月1日起实施网络音乐审查新规定，尤其针对音乐内容，必须经过审核通过后才可上线。</p>
+<p>对此，广西作家戚钦宏告诉本台，当局越是加强对海外网路的管控，越会导致民间反弹，且不少软件开发商也一直在研发各类翻墙应用，帮助民众获取被当局封锁的消息。</p>
+<p>戚钦宏：“现在的信息已经没办法封锁了，互联网已经很发达了。我在微信、微博QQ上看到，当局想控制的信息大家都可以了解了，比如在微信上大家都可以看到很多网民翻墙后转来的信息。这段时间大家关注张六毛事件，还可以看到高智晟的消息，所以说怎么封锁呢？这样的努力是徒劳的，网络的柏林墙现在已经被推翻了，觉醒的人已经很多了。”</p>
+<p>特约记者：忻霖 责编：胡汉强/吴晶</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509047a41a_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509047a41a_550.jpg" alt="201511161509047a41a_550" width="550" height="823"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/2015111615090632584_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2015111615090632584_550.jpg" alt="2015111615090632584_550" width="550" height="865"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161512164dea2_550.jpg"><br></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509080f572_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509080f572_550.jpg" alt="201511161509080f572_550" width="550" height="876"></a></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161512164dea2_550.jpg" alt="201511161512164dea2_550" width="550" height="834"><a href="http://chinadigitaltimes.net/chinese/files/2015/11/20151116150912bd294_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/20151116150912bd294_550.jpg" alt="20151116150912bd294_550" width="550" height="271"></a></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E6%9C%BA%E9%A1%B6%E7%9B%92%E8%A2%AB%E5%BA%9F%E6%AD%A6%E5%8A%9F-%E7%BD%91%E7%BB%9C%E6%8E%A7%E5%88%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">信息控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86/?category=18271" rel="tag">封杀网络电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90/?category=18271" rel="tag">电视盒子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%92%E5%AD%90/?category=18271" rel="tag">盒子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">网络控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86/?category=18271" rel="tag">网络电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%A7%9C%E9%87%8E%E9%A3%9E%E5%8F%8A%E8%91%A3%E5%B9%BF%E5%B9%B3%E8%A2%AB%E6%B3%B0%E5%9B%BD%E9%81%A3%E8%BF%94%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">自由亚洲 | 姜野飞及董广平被泰国遣返中国</a>
+</h2>
+<p><p>正在泰国寻求往第三国政治庇护的中国异议人士姜野飞与不久前抵达的董广平，11月13日被曼谷警方遣返中国。同时被遣返的另外三人的姓名暂时未知，但也是难民。姜野飞的妻子对丈夫与董广平被遣返感到无奈；希望国际社会继续关注他俩的命运。</p>
+<p>流亡泰国七年并已取得联合国难民身份的四川异议人士姜野飞与近期抵达的董广平，11月13日被曼谷警方遣返中国。姜野飞的妻子楚玲17日告诉本台，她的丈夫被从牢房带走：“从牢房带走时间是10点20分，狱友打电话出来说这两个人不在移民监狱了，从5号房间被带走了，但是不知道这两个人到底带到哪儿去。狱友在外面的朋友说在12日晚，狱警到他们房间，让他们穿上衣服和鞋。姜野飞已感觉到（情况）不对，跟狱友交代了很多事，没有获知到底说了什么”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/m1117-ql1p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/m1117-ql1p.jpg" alt="m1117-ql1p" width="600" height="800"></a></p>
+<p>中国民主党东南亚分部负责人黎小龙17日告诉本台，他曾到移民监狱核实姜野飞与董广平的下落，被警察告知两人已经被遣返中国：“我们昨天试图去移民监狱探视他们两个人，按照正常的程序把他们两个人的名单递交给查询的窗口，对方说没有查到这两个人，然后叫我们到另外一个部门去查，结果照样没有查到。然后找了一个懂泰语的朋友跟警察沟通，警察说这两个人在上周五（13日）被送回中国。一起送回去的还有另外三个人，总共送回去五个人”。</p>
+<p>据海外博讯网消息，经过泰国华人朋友再三询问泰国移民监狱IDC警察，证实，姜野飞、董广平二人已于上周五晚间被遣返。与此同时，来自移民监狱内部消息称，他们两人于上周五晚间离开移民监狱，被送回国。不过，已经被关押在IDC长达七年的联合国难民李宇宙，却并不在遣返之列。</p>
+<p>目前，在泰国向联合国难民署寻求政治庇护的中国人包括异议人士、法轮功学员及访民数十人。其中已经取得难民身份的法轮功学员周勇及小林，不久前在中国驻泰国大使馆附近被抓后，已被转到移民监狱。</p>
+<p>这次被泰国当局遣返的姜野飞和董广平均有联合国难民身份。对此，黎小龙说：“不止有（联合国）保护信，而是联合国确认是难民身份”。</p>
+<p>记者：联合国都确认他们是难民了，泰国警方有没有权力这样做？</p>
+<p>回答：泰国目前还没有签署联合国难民公约，它不承认难民地位。</p>
+<p>姜野飞的妻子楚玲说，联合国难民署官员一再要求他们低调，以免惹怒当局，但是没想到她的丈夫和董广平仍被遣返。她感到无奈：“说是上周五就被遣返，总共五个人。我就跟联合国难民署说，我尽了最大努力，你们要我们低调，说最近在谈判当中，怕惹怒泰方，我们一直配合你们，低调一点，我说结果就是这样，他们不说话”。</p>
+<p>姜野飞及董广平被泰国警察抓走后，海内外人士及人权机构共同发出呼吁。但是，泰国政府似乎没有理会外界的反应，继续遣返两位已被联合国难民署确认难民身份的中国异议人士。</p>
+<p>据报，姜野飞曾长期创作讽刺习近平的系列漫画，董广平曾参与“平反六四”和纪念中共前总书记赵紫阳的活动，被称为“郑州十君子”之一。外界认为，泰国当局是受到中国政府的压力，才作出上述行动。这令正在泰国寻求政治庇护的其他中国难民，感到不安。</p>
+<p>特约记者:乔龙 责编：胡汉强/寇天力</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%A7%9C%E9%87%8E%E9%A3%9E%E5%8F%8A%E8%91%A3%E5%B9%BF%E5%B9%B3%E8%A2%AB%E6%B3%B0%E5%9B%BD%E9%81%A3%E8%BF%94%E4%B8%AD%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%9C%E9%87%8E%E9%A3%9E/?category=18271" rel="tag">姜野飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%B0%E5%9B%BD%E9%81%A3%E8%BF%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91/?category=18271" rel="tag">泰国遣返中国公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD%E9%9A%BE%E6%B0%91%E7%BD%B2/?category=18271" rel="tag">联合国难民署</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%91%A3%E5%B9%BF%E5%B9%B3/?category=18271" rel="tag">董广平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%BE%E6%B0%91/?category=18271" rel="tag">难民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%85%95%E5%AE%B9%E8%80%81%E8%94%A1%EF%BC%9A%E3%80%90%E5%BE%AE%E5%B0%8F%E8%AF%B4%E3%80%91%E5%BE%8B%E5%B8%88%E6%9C%89%E4%BA%86%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E4%B9%8B%E5%90%8E/" target="cdt-mirror">慕容老蔡：【微小说】律师有了评级制度之后……</a>
 </h2>
 <p><p><strong>20XX年，天朝中央为律师行业设置了评级制度，律师界顿时欢乐了起来：</strong></p>
@@ -55,7 +135,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">从业资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E7%BA%A7%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">分级制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">评级制度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%B8%AD%E5%85%B1%E5%85%9A%E6%8A%A5%EF%BC%9A%E8%AE%A2%E9%98%85%E9%9D%A0%E5%BC%BA%E5%88%B6/" target="cdt-mirror">纽约时报 | 尴尬的中共党报：订阅靠强制</a>
 </h2>
@@ -672,106 +752,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%A7%82%E7%82%B9%EF%BC%9A%E9%81%A5%E6%9C%9B%E5%B7%B4%E9%BB%8E%E7%9A%84%E9%83%A8%E5%88%86%E4%B8%AD%E5%9B%BD%E4%BA%BA/" target="cdt-mirror">BBC中文网 | 王青雷：遥望巴黎的“部分”中国人</a>
-</h2>
-<p><p>作者：王青雷<br>
-中国资深媒体人、前央视制片人</p>
-<p>法国时间的11月13日，又一个被悲剧笼罩的“黑色星期五”，仅仅几十分钟整个巴黎就变成了比雨果笔下的小说更悲惨的世界。而远在三万公里之外的大多数中国人，由于时差原因是在第二天早上起来，才获悉这个美国“911事件”之后最残暴的恐怖袭击事件的。</p>
-<p>在中国的网络和社交媒体上，绝大部分人对法兰西这个国家、巴黎这座城市以及所有受害者和受到惊吓的人们，报以的是人道主义的同情和哀悼，而对于恐怖主义的声讨也充斥着周遭。在这里，你可以看到和世界上其他任何一个国家一样的人性的温暖，一种主流的普世价值观。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-15-at-%E4%B8%8B%E5%8D%886.04.28.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-15-at-%E4%B8%8B%E5%8D%886.04.28.png" alt="Screen Shot 2015-11-15 at 下午6.04.28" width="550" height="307"></a><br>
-上海“东方明珠塔”</p>
-<p>特别的声音</p>
-<p>然而，在互联网这个多元到让一些人口不择言的非现实环境里，你也能“看到”这样的声音：“伊斯兰教是邪恶的，铲除ISIS的根本是铲除伊斯兰教。”对于这样的观点和言论，西方社会其实也有，但任何一个民主国家的政府以及绝大多数理性的民众都不可能支持这样的观点。</p>
-<p>不过，这样的少数极端言论却显现了一个中国大多数人群所存在的问题：中国许多民众对于伊斯兰教不甚了解，根本不知道这个宗教的起源、演变、教义，以及目前的恐怖组织和伊斯兰教到底是什么样的关系。伊斯兰教，除了在少数地区对中国的世俗社会而言基本上是陌生的。</p>
-<p>当然，伊斯兰教历史的复杂性是全世界所公认的，要求一个普通的中国百姓像伊斯兰世界或者如法国一样的殖民地国家、移民国家的民众一样，了解伊斯兰教是不现实的。但中国人依然应该在人性的情感之外，多了解一些那个看似“危险而神秘的世界”。<br>
-而比这样的声音更值得观察的是另外一种典型的“中国思维”。《人民日报》旗下《环球时报》的“环球网”在巴黎恐怖事件之后进行了两个网络调查：</p>
-<p>1、 你愿意为法国恐袭遇难者默哀吗？截至北京时间的11月16日零点，有550票31%的人选择的是不愿意。（1210票，69%选择愿意）<br>
-2、 你怎么看上海“东方明珠塔”亮三色灯哀悼法遇难者？同一结点，竟然有2071票63%的人发对！（其余1228票，37%的人赞同）</p>
-<p>当然，这样的投票数量和比例并不能代表中国大多数普通民众的意愿，因为《环球时报》以及环球网被中国网民看作是为政党“叼盘子”的极左媒体，是逆时代潮流而令人不齿的宣传工具，除去它的拥趸之外，很多人根本不屑于被《环球时报》做这样的调查，因此这样的结果中很可能聚集了大量的“五毛党”。</p>
-<p>但是如果观察下面的评论留言，你会发现，在中国的现实社会中，即使很多并非“思想上的五毛者”，也会有相同的观点和认知，即“有因必有果”——正因为美法在中东世界的武力干预，才会遭到这样的灾难。</p>
-<p>思想的距离</p>
-<p>对于没有实现国家民主化的中国人来说，长期接受的是政府部门对于西方敌对势力从“和平演变”到“粗暴干涉他国内政”的政治宣传，一部分人不能够理解“人权大于主权”以及民主国家推动“普世价值”全球化的意义，因此参杂着长期以来由于国家关系的隔阂带来的对美国以及法国的成见，抱以反对的态度并不足为奇。</p>
-<p>西方社会不应该简单的认为，这些投反对票的中国人就是没有同情心甚至冷血的，这样的态度和问题是长期受政教宣传之后，产生的与民主社会的思维鸿沟。这样的鸿沟，在巴黎恐怖事件中表现出来的可能只是一种对美法言辞上的批评甚至嘲讽，而在中国自身的民主化道路上却是一道需要艰难跨越的阻碍。</p>
-<p>巴黎距离中国很远，但最远的不是地理的距离或人类的情感，而是在关切的遥望当中，思想被专制囚禁的“那部分中国人”，心中如极端宗教般的笃信。</p>
-<p>（责编：林杉）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%A7%82%E7%82%B9%EF%BC%9A%E9%81%A5%E6%9C%9B%E5%B7%B4%E9%BB%8E%E7%9A%84%E9%83%A8%E5%88%86%E4%B8%AD%E5%9B%BD%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">BBC中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99/?category=18271" rel="tag">伊斯兰教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E9%9D%92%E9%9B%B7/?category=18271" rel="tag">王青雷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E7%85%A4%E7%82%AD%E8%A1%8C%E4%B8%9A%E9%81%AD%E9%81%87%E5%AF%92%E5%86%AC/" target="cdt-mirror">金融时报 | 煤炭行业遭遇寒冬</a>
-</h2>
-<p><p>作者：詹姆斯•威尔逊</p>
-<p>2015年，煤炭行业似乎连连传出坏消息。</p>
-<p>反对化石燃料的活动人士持续不断地呼吁从煤炭生产公司撤资，同时煤炭价格和生产商的股价持续下降。下月在巴黎举行的全球气候变化会议，或许将使年尾出现更多反对煤炭和其他化石能源的活动。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-15-at-%E4%B8%8B%E5%8D%885.58.01.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-15-at-%E4%B8%8B%E5%8D%885.58.01.png" alt="Screen Shot 2015-11-15 at 下午5.58.01" width="474" height="291"></a></p>
-<p>自2011年以来，广泛作为全球基准的澳大利亚热煤价格已经下跌了约60%。在美国，沃尔特能源(Walter Energy)和阿尔法自然资源公司(Alpha Natural Resources)等知名煤矿企业已因无力应对煤炭价格的下跌，进入破产程序。</p>
-<p>并非所有生产这种充足但越来越不受欢迎的燃料的矿商都已做好认输的准备。但随着一些关键市场似乎开始不可阻挡地下跌，所有矿商都必须适应这个全球行业在形态和重要性方面发生的痛苦变化。</p>
-<p>考虑美国的例子，美国能源情报署(EIA)的最新数据表明，煤炭产量正处于至少2009年以来的最低水平：截至6月底的3个月里，煤炭产出比去年同期降低了14%。</p>
-<p>随着电力部门转向更便宜的天然气，煤炭消费量正在下降。同时，由于更严格的排放规则，预计会有更多燃煤发电厂关闭。</p>
-<p>今年4月，美国天然气发电首次超过了煤炭发电。</p>
-<p>根据国际能源署(IEA)的说法，到2019年，美国的煤炭需求量会回落到上世纪80年代初的水平。目前美国的煤炭出口也处于五年来的最低水平，而平均出口价格则从2011年的每吨150美元跌至每吨80美元。</p>
-<p>考虑到这样的预测，不难理解笼罩在美国煤炭矿商身上的阴霾。美国最大煤炭公司皮博迪能源(Peabody Energy)的股票在过去5年中下跌了97%。</p>
-<p>中国的煤炭使用也在快速变化。中国被位于巴黎的国际能源署称为“煤炭界的中心”。2013年，中国煤炭需求量占全球的一半以上。但随着中国经济减速并转为能源密集程度较低的发展模式，中国对煤炭的需求也在放缓。</p>
-<p>中国也开始认识到空气污染的环境问题。根据美国能源情报署的说法，中国的煤炭使用量“2014年基本与上年持平”。其数据表明，今年迄今中国的煤炭进口比去年同期降低30%。</p>
-<p>然而，预计世界上其他一些地方的煤炭使用量将快速增长。上月对东南亚的情况进行关注的国际能源署表示，接下来25年，该地区对煤炭的需求将成为所有能源来源中增长最快的，取代该地区能源组合中石油的地位。与世界其他地区的趋势相反，未来25年，在这个增长最快的地区，煤炭在发电中的比重预计将从今天的不到三分之一增长到50%左右。</p>
-<p>世界第二大煤炭进口国印度的煤炭需求预计将进一步强劲增长，煤炭使用从大西洋整体转移至太平洋盆地的趋势已经牢牢确立。</p>
-<p>“对许多国家来说，未来数年的能源选择将是煤炭，”世界煤炭协会(World Coal Association)首席执行官本杰明•斯波顿(Benjamin Sporton)表示。</p>
-<p>对于煤炭支持者来说，这意味着将更加需要能够降低这种燃料环境成本的技术——从更高效的发电站到碳捕获和封存技术等。</p>
-<p>然而，持不同意见的人士会在此时煤炭行业面临财务困境之际对其施加更多压力，以抑制产出。</p>
-<p>呼吁对煤炭行业撤资的活动人士声称，他们成功地促使一批投资基金同意减少或者终止对化石能源的投资，尽管这类承诺中许多只影响“纯粹”的煤炭矿业公司，而非更大型的多样化经营矿商，煤炭占后者盈利的比重更小。</p>
-<p>煤炭矿商的估值下降目前更多是与供过于求和需求乏力有关，而非因为上述呼吁撤资人士所声称取得的成功。</p>
-<p>然而，这些活动旨在对一些矿商施加更为持久的压力，在这些矿商试图稳住煤炭在全球能源组合中的地位之际，这是又一个使事情复杂的因素。</p>
-<p>译者/许雯佳</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E7%85%A4%E7%82%AD%E8%A1%8C%E4%B8%9A%E9%81%AD%E9%81%87%E5%AF%92%E5%86%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90/?category=18271" rel="tag">清洁能源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%82%AD/?category=18271" rel="tag">煤炭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%BD%E6%BA%90/?category=18271" rel="tag">能源</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%8D%93%E8%BE%BE%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%A5%E9%81%93/" target="cdt-mirror">【真理部】有关石家庄卓达公司的报道</a>
-</h2>
-<p><p>各地各网站：有关石家庄卓达公司的报道，一律撤出各网双首页及财经频道首页，作降温处理。有关此事的报道只用中央主要新闻单位及河北省主要新闻媒体稿件，商业网站不得自采，不要炒作。请各地各网站做好巡查和落实工作。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CTs-A6bUcAEJI5e.png" alt="CTs-A6bUcAEJI5e" width="600" height="450"></p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<p>附：无界新闻 河北省金融办正核查卓达民间融资事件</p>
-<p>无界新闻11月5日发表《卓达新材百亿融资术》后，引起众多投资者的高度关注。11月6日，河北省金融办综合处处长游明泉对无界新闻(微信ID:wujienews)记者表示，已经关注到此事，河北省金融办已经让石家庄市政府进行核查，调查清楚情况。此事涉及多方面的监管，需要石家庄几个相关部门配合起来进行核查。此事归属地管理，具体情况目前还没上报。</p>
-<p>翌日，无界新闻(微信ID:wujienews)致电石家庄市长专线，接线人员表示，石家庄市政府有关部门确实已经开始调查此事，但调查需要时间，过两天应该会有进展。</p>
-<p>此外，针对卓达集团11月6日在官方网站挂出的《关于“无界新闻”不实报道的回复》，无界新闻也进行了调查。</p>
-<p>该“回复”中宣称：“截至目前，卓达新材已收获逾2万亿元(RMB)订单，卓达正在加足马力生产，为全世界建设绿色、低碳、环保的健康建筑与家居。”</p>
-<p>这一数字曾多次出现，比如，在《燕赵晚报》2015年9月17日的C02版“专题报道”中也宣称：“在海外，卓达新材还热销俄罗斯、迪拜、马来西亚、毛里求斯、智利、刚果等国家和地区。截至目前，卓达新材已收获逾2万亿元订单……”</p>
-<p>这“2万亿元订单”包括哪些？</p>
-<p>卓达集团的“回复”称：“与俄罗斯签的每年约6000亿人民币(6.3735, 0.0000, 0.00%)新材供应”。</p>
-<p>这一数字已经超过去年中俄双边贸易的总和。根据中国海关总署2015年1月21日披露的数据，中国对俄罗斯联邦2014年的进出口总值是5851.88亿人民币，其中，出口总值3297.35亿元人民币。</p>
-<p>卓达集团的“回复”中说：“8月18日，有‘非洲心脏’之称的刚果民主共和国[下称刚果(金)]总统约瑟夫·卡比拉委托将军Brown Bonges Ifale、驻华广州领事馆总领事陈秀锐等人，来到卓达新材威海生产基地进行全面考察，并签署合作协议。根据协议：刚果民主共和国将使用卓达新材建设13.5 万套政府民生保障住房，其中首都金沙萨建1 万套，其他25 个省，每个省建5000 套，总计13.5 万套，总规模达到1350 万建筑平米，合同总金额达到81 亿美元，约合人民币486亿。”</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/U12717P31DT20151108195605.png" alt="U12717P31DT20151108195605" width="550" height="531"><br>
-广州市人民政府外事办公室2015年10月13日公布的《各国驻广州总领事馆一览表》(截至2015年9月1日)中，并没有刚果(金)驻广州总领事馆的记录。</p>
-<p>11月6日，刚果(金)驻华大使馆签证处刘女士在电话中告诉无界新闻(微信ID:wujienews)记者，如果广州有刚果(金)领事馆，在南方居住的市民就可以在广州领事馆办理去刚果(金)的签证，但目前的情况是，全国各地人员(包括港、澳、台居民)办刚果(金)签证，都要到刚果(金)位于北京的驻华大使馆进行办理。</p>
-<p>中国外交部官网今年7月份披露的数据显示，刚果(金)2014年国内生产总值仅为328.84亿美元，外债72.49亿美元。另据中国驻刚果(金)大使馆经济商务参赞处提供的信息，2015年头6个月，刚果(金)财政收入为22.3亿美元，支出为20.83亿美元，盈余1.47亿美元。</p>
-<p>刚果(金)是否有“驻华广州领事馆”？该国与卓达新材签订了什么协议？在后续报道中，无界新闻将继续求证。</p>
-<p>在卓达集团官方网站的“回复”中，还包括一篇名为《卓达新材：史上最强盈利模式》的文章，署名为“国务院发展研究中心《新经济导刊》执行总编辑朱敏、中国社会科学院可持续发展研究中心专家黄海平、北京大学[微博]品牌学部主任董彦峰”。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/U12717P31DT20151108195618.png" alt="U12717P31DT20151108195618" width="550" height="389"></p>
-<p>11月7日，无界新闻记者联系上卓达集团上述文章中第一署名的专家国务院发展研究中心《新经济导刊》执行总编朱敏。朱敏说：“此文非我所写，我对卓达新材项目不了解。卓达公司曾经邀请我去考察，我没有去，成文后给我看过，因为没有参加调研，我明确表示过我不能对文章负责，不允许署我名字。”</p>
-<p>当晚朱敏致电无界新闻表示，已要求卓达集团将其署名从文章中撤下。随后，无界新闻再度查阅卓达集团上述郑重声明，朱敏的名字已经删除。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/U12717P31DT20151108195630.png" alt="U12717P31DT20151108195630" width="550" height="401"></p>
-<p>第二署名的作者为“中国社会科学院可持续发展研究中心专家黄海平”。在中国社会科学院可持续发展研究中心官网上，研究人员以及特聘研究员的人员列表中，均无黄海平的名字。</p>
-<p>至于该文章第三署名的北京大学品牌学部主任董彦峰的身份，北京大学人事部的工作人员对无界新闻记者表示，北京大学没有“品牌学部”，人事职员名单中也没有董彦峰这个人。</p>
-<p>黄海平、董彦峰这两位署名作者的具体身份，我们将继续求证。</p>
-<p>卓达集团《关于“无界新闻”不实报道的回复》中宣称：(无界新闻记者)“道听途说，主观臆想(不排除别有用心！因此前曾勒索企业遭拒)”，对此，11月6日，无界新闻已郑重声明：“坚持媒体独立调查报道是无界的基本价值观，无界新闻没有任何人员与卓达集团发生经济利益往来，也没有任何人员向卓达集团提出任何经济方面的要求与暗示。卓达集团这一行为已构成民事侵权，甚至涉嫌刑事犯罪。无界新闻及相关记者保留一切法律权利，包括但不限于追究其法律责任。就卓达集团的《回复》与卓达集团相关部门及营业网点说法不一的情况，建议卓达集团开展内部调查，核实真相。无界新闻欢迎各兄弟媒体介入，独立客观对卓达集团相关事实进行调查报道。”</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%9C%89%E5%85%B3%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%8D%93%E8%BE%BE%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%A5%E9%81%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%93%E8%BE%BE%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">卓达公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%93%E8%BE%BE%E6%B0%91%E9%97%B4%E8%9E%8D%E8%B5%84%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">卓达民间融资事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -783,7 +763,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%93%E8%BE%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -793,5 +773,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%93%E8%BE%BE
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

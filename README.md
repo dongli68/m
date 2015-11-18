@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BB%B6%E5%AE%A1%E9%99%90%E6%9C%9F%E6%BB%A1-%E6%B3%95%E9%99%A2%E6%97%A0%E6%B6%88%E6%81%AF/" target="cdt-mirror">自由亚洲 | 浦志强案延审限期满 法院无消息</a>
+</h2>
+<p><p>被羁押18个月的北京维权律师浦志强，案件今年8月18日第一次延长审理到期，周三（18日）期满。（海蓝 报道）</p>
+<p>其代表律师尚宝军表示，律师没收到法院通知再度延长审理期限，他多次致电北京中院，没人接电话，浦志强也没有收到通知，但肯定已经被延期，按照法律规定，这次要向最高法院提出延长审限，估计已批准，否则便违法。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/201502280232china1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201502280232china1.jpg" alt="201502280232china1" width="550" height="309"></a></p>
+<p>律师周三上午到北京巿第一看守所会见，会面约1小时。尚宝军又指，浦志强身体还好，没太多变化，今天主要交流如何准备开庭的事情。</p>
+<p>尚宝军说：我们没有收到通知，但肯定会被延了，如果他不延期就违法。我们今天也没怎么聊身体，我们主要在谈万一要开庭，甚至是万一突然被开庭的话，我们怎样面对。</p>
+<p>记者曾致电北京中级法院，电话没人接听。</p>
+<p>去年5月3日，浦志强与十几名朋友召开“六四25周年”民间研讨会。翌日被警方传唤，5月6日被当局以涉嫌”寻衅滋事罪”刑拘。6月13日被北京巿公安局多加一条涉嫌”非法获取公民个人信息罪”逮捕。</p>
+<p>去年11月13日多加两条罪”移交检察院起诉，包括涉嫌煽动颠覆国家政权罪及煽动民族仇恨、民族歧视罪。案件两度退回公安机关补充侦查。案件今年5月18日被法院起诉，本身有3个月审理期限，其后8月18日法院首次延长审限。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BB%B6%E5%AE%A1%E9%99%90%E6%9C%9F%E6%BB%A1-%E6%B3%95%E9%99%A2%E6%97%A0%E6%B6%88%E6%81%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E6%8C%AA%E5%A8%81%E4%B8%A4%E4%BA%BA%E8%B4%A8/" target="cdt-mirror">法广 | 伊斯兰国“处决”中国挪威两人质</a>
+</h2>
+<p><p><strong>法新社从贝鲁特报道：“伊斯兰国”的杂志Dabiq周三宣布：被该组织在9月10日宣布扣押的两名中国人质和一名挪威人质已经被“处决”。</strong></p>
+<p>在“伊斯兰国”的杂志Dabiq第12期上，刊登了一些照片显示两位疑似人质满脸是血，照片上还印着醒目红色标语写道：“在被不忠诚的国家和组织抛弃后被处决”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/20150910105158152.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/20150910105158152.jpg" alt="20150910105158152" width="429" height="322"></a><br>
+“伊斯兰国”两名挪威和中国的人质 图片来自网络</p>
+<p>两个月前，伊斯兰国恐怖组织在其所办的一份英文杂志上公布了两位人质的详细信息并以“叫卖”的方式，拍卖挪威人质与中国人质。挪威官方拒绝交付赎金，该国外交大臣认为这将会使更多挪威人被IS以同样的方式绑架勒索。中国方面也承认有中国人被绑架的可能性。当时中国有报导说，证明樊京辉是樊京辉并不难，难的是中国政府如何处理这起突如其来的人质事件。从以往伊斯兰国恐怖组织处理人质事件的情况看，情况可能很糟糕。</p>
+<p>这名中国男子人质可能被确认为50岁的北京人樊京辉。樊京辉曾经是中学教师，后入广告行业，而且曾是央视的非正式员工。2001年时，樊京辉曾经接受过中国著名主持人，当时任电台主持人白岩松的采访当时时称：他追求“不安全感”。。</p>
+</p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%86%99%E9%95%BF%E7%AF%87%E8%AE%AE%E8%AE%BA%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/" target="cdt-mirror">破破的桥：为何不写长篇议论巴黎恐袭</a>
 </h2>
 <p><div>最近大家对ISIS和叙利亚突然来了兴趣，我也陆续收到来信问这问那，有人问我为啥不写点。因为此前三年，我大概每天花一小时阅读叙利亚战事相关材料，并不时在腾讯微博播报战况进展，平日人气惨淡，门可罗雀，如今该是摘桃子的时候了。然而我觉得还没到该动笔的时候。新浪和其它网站也有类似的志愿播报员，我们相互间比较熟悉，他们好像也没写。</div>
@@ -736,47 +766,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%AE%B6%E5%B1%9E%E8%8E%B7%E5%87%86%E8%A7%81%E5%B0%B8-%E5%BC%A0%E5%85%AD%E6%AF%9B%E7%94%9F%E5%89%8D%E7%96%91%E9%81%AD%E9%85%B7%E5%88%91/" target="cdt-mirror">维权网 | 家属获准见尸 张六毛生前疑遭酷刑</a>
-</h2>
-<p><p>（维权网信息员郑毅报道）2015年11月16日星期一，本网获悉：在震惊社会的“张六毛死亡事件”发生第12天后，在海内外舆论的强大压力下，在死者家属和律师的依法抗争下，11月16日死者张六毛的妹妹张唯楚（张七毛）终于在殡仪馆内见哥哥张六毛的遗体。张唯楚发现哥哥遗体许多疑遭酷刑的明显迹象，她已经授权律师向广东省高检提交刑事控告书，控告相关工作人员的罪行。</p>
-<p>张唯楚介绍详细今天的情况说：“家兄张六毛于2015年8月15日因涉嫌寻衅滋事罪被广州市黄村派出所刑事拘留，关押于广州市天河区看守所。11月4日获知死亡消息。</p>
-<p>2015年11月16日，他们答应我们家属去殡仪馆辨认遗体，早上十点我们到达殡仪馆的法医楼前，他们要求我们交出身上的手机等，我和律师表示反对，因为之前的协议中他们答应是可以拍照摄录的，一位石姓法医表示反对，我要求其出示工作证之类，他告诉我，他的警号是013759，广州市监管支队的张队长协调后，表示他们会遵守协议拍照摄录后给我们一份复制的视频材料。中断了争执，准备进内室。</p>
-<p>怀着悲痛的心情，我们进入到了内间，他们推出了一个平车，我哥哥平躺在上面，哥哥闭着眼睛，嘴巴大张着，里面只有几颗牙齿，似乎在向苍天呼喊。我们在遗体上看到很多疑点。我们要求拍照下来，石姓法医官断然拒绝，说没有这个义务，在内室在我哥哥的遗体旁，石姓法医官叫我们滚出去，说这是他的地盘，我们没有资格在这里，让我们能这样看已经是破例了。说我没有良心，言外之意，能让我细细的检查哥哥的遗体已是恩外开恩，而我们不识好歹还要找磋，还要留下永久性的视频资料。我们指出哥哥的脚踝上有狼牙铐留下的犬齿印，问他是不是上了手铐脚镣的，石法医不屑的说，这是很正常的事情。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4.jpg" alt="4" width="419" height="236"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2.jpg" alt="2" width="410" height="308"></a></p>
-<p>我哥哥是个很温和的人，央视中那个监管民警梁海平和武警医院的姚杰雄医生也都异口同声的有说我哥哥很温和，一个没有暴力的，身犯重病的病人，是什么原因值得用这么紧的镣铐？竟然在十多天后齿印还没有消，还有更多的疑点，石法医借口都是专业知识，都是正常情况，或是抢救时的留下的伤痕。为了留下有用的身躯在外面和他们斗争，不让他们找借口用新的刑九条抓我入监牢，所以我会去图书馆进一步查对法医的相关知识，把他们的谎言一步步揭穿，揭开这位石姓法医官的良心。看他如何昧着良心帮着其他人员掩盖罪行</p>
-<p>我已经授权律师向省高检提交刑事控告书，控告相关工作人员的罪行。</p>
-<p>而从医院拿到的病历中，以及上次去姚杰雄的盘问中，高度怀疑姚杰雄在这个事件中占有从犯的罪行，不排除下一步向检察院控告武警医院医生姚杰雄杀人罪。</p>
-<p>同时我也签下了授权申请书，如果他们以什么罪，或寻衅滋事，或刑九条抓我，我也会欣然前去。”</p>
-<p>覃臣寿律师详细介绍了张六毛遗体的体表所发现的问题：“探视张六毛遗体后看到的体表问题综合：右脚脚踝处有脚镣深痕；左脚小腿有两条十多厘米长明显淤青的（创伤性？）疤痕，有胶布贴过的痕迹，左小腿腿毛被刮。腹部全部淤青；肛门便血；左手手背明显红肿，没有看到针点；胸部明显几块血痕，有长方形，有弧形；右手臂有创伤性伤痕（？）；十个手指淤青，十个脚趾苍白；枕部有明显痕沟，枕头处都是血；脖子后背显红色；嘴巴张开很大，口腔、嘴唇有血迹、血疤（大出血？）；右肘内侧下方2厘米处有大块肿块，旁有深窝；左脚小腿有黄色条状，显出淤青；右耳下方有创口？淤血？”</p>
-<p>覃臣寿律师同时表示：“怀疑是怀疑，希望看到同步讯问录像。”</p>
-<p>对于张六毛死亡事件，本网将持续关注。</p>
-<p>此前报道链接：</p>
-<p>“张六毛死亡案”全记录（至2015年11月11日）——死亡原因仍不明朗、罪名为“颠覆国家政权罪”、因关注本案被打压公民达十四人（图）<br>
-http://wqw2010.blogspot.com/2015/11/20151111.html</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%AE%B6%E5%B1%9E%E8%8E%B7%E5%87%86%E8%A7%81%E5%B0%B8-%E5%BC%A0%E5%85%AD%E6%AF%9B%E7%94%9F%E5%89%8D%E7%96%91%E9%81%AD%E9%85%B7%E5%88%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E7%AC%AC%E4%B8%89%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">广州第三看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80%E5%91%BD%E6%A1%88/?category=18271" rel="tag">看守所命案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E7%BD%91/?category=18271" rel="tag">维权网</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%AE%98%E5%91%98%E9%A2%91%E8%87%AA%E6%9D%80%E4%B8%AD%E5%85%B1%E5%AE%98%E5%9C%BA%E9%9B%86%E4%BD%93%E6%8A%91%E9%83%81/" target="cdt-mirror">美国之音 | 官员频自杀,中共官场集体抑郁?</a>
-</h2>
-<p><p>华盛顿—据中国媒体报道，中国官场近来再现自杀热潮。自杀者中有党政干部、国企高管、还有金融官员；自杀方式包括跳楼、落水、自缢、以及办公室内“猝死”。对于死因，有关党政机构或者语焉不详，或者冠之以抑郁症。中共官场为何患上集体抑郁症？在“赖活”和“好死”之间，他们为什么毅然决然地选择了后者？什么是压断骆驼脊背的最后一根稻草？中国最高检察院为遏制自杀潮而公布的八项禁令为什么没有带来效果？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/image1.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/image1.jpeg" alt="image" width="477" height="471"></a><br>
-（图片来自网络）</p>
-<p>历史学者章立凡说，在出事者当中，有几位非常重要的人物，比如央企监事会主席时希平，中海油纪检组长张健伟，神华副总王品刚等。但是对于他们为什么自杀、或者“被自杀”，为什么“猝死”，他们自杀的背景是什么，他们带走了什么，他们的死给谁带来了好处等等，并没有一个确切的说法。一切都很神秘。</p>
-<p><strong>章立凡认为，在当前的反腐中，副省部级官员似乎最危险，主要因为：1）他们背景不够硬；2）他们官位不高，很容易成为牺牲品。最近那些不正常死亡的官员基本属于这类官员。中国官场现在是官不聊生，中层干部进入官场，贪了，可能马上被抛出来；不贪，没有前途。</strong></p>
-<p>明镜集团总裁何频说，中共官员频频非正常死亡，反映出体制有问题。很多西方国家也有腐败，官员也滥权，但是比例很小，贪污金额很少，这主要是权力来源透明且受民众监督；中国所有官员提拔都是黑箱操作，民众对权力运作一无所知，也无法参与。这个体制是培养腐败的基地，不改变，反腐都是空谈。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%AE%98%E5%91%98%E9%A2%91%E8%87%AA%E6%9D%80%E4%B8%AD%E5%85%B1%E5%AE%98%E5%9C%BA%E9%9B%86%E4%BD%93%E6%8A%91%E9%83%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80/?category=18271" rel="tag">官员自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">官员非正常死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">非正常死亡</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -788,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -798,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

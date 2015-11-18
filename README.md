@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,92 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%8B%89%E8%90%A8%E8%97%8F%E4%BA%BA%EF%BC%9A%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%80%E8%A1%8C%E6%89%80%E7%9C%8B%E5%88%B0%E7%9A%84%E8%83%8C%E7%A6%BB%E7%8E%B0/" target="cdt-mirror">自由亚洲 | 拉萨藏人：佩洛西一行所看到的背离现实</a>
+</h2>
+<p><p>美国国会众议院民主党领袖佩洛西近日率团在西藏首府拉萨展开访问并参观寺院等，居住拉萨的一位藏人则表示，佩洛西一行所看到的完全背离西藏现实状况，尽是被中国当局刻意制造出的假象而已。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/US-delegation-made-a-visit-to-Tibet.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/US-delegation-made-a-visit-to-Tibet.jpg" alt="US-delegation-made-a-visit-to-Tibet" width="550" height="365"></a></p>
+<p>美国国会众议院民主党领袖南希•佩洛西（Nancy Pelosi）上星期三（11月10日）率领包括她本人在内共七名国会议员组成的代表团展开西藏之行。这是自2008年西藏事件后，美国国会代表团首次获得中国官方的入藏许可。</p>
+<p>根据中国官媒《西藏日报》报道，佩洛西一行抵达西藏首府拉萨当天，受到西藏自治区党委书记陈全国、副书记白玛赤林和洛桑江村等官员的接待。双方在举行会谈时，陈全国表示，希望美方在涉藏问题上，恪守尊重中国主权和领土完整、不支持旨在分裂中国活动的承诺，不允许十四世达赖再次窜访，不为“藏独”势力分裂活动提供任何形式的支持和便利。</p>
+<p>《西藏日报》还称，佩洛西在拉萨访问期间，同政府官员和各寺代表会面，赞扬西藏发生的巨大变化，还赞扬中国政府在维护西藏宗教和文化自由方面所做的努力。</p>
+<p>另据美国媒体综合报道，佩洛西一行对西藏、北京和香港进行访问之后，于上星期五（11月13日）发表声明表示，与西藏当地官员谈到西藏自治、人权和宗教自由等问题，也表达了西藏精神领袖达赖喇嘛在美国受到国会及民众的强有力支持。佩洛西也于星期二（11月17日）在美国国会举行记者会表示，中方虽花巨资维修寺院，但他们对境内藏人的想法及所受教育等方面更感兴趣，同时认为只要中国政府认同达赖喇嘛支持的是自治，而不是独立这一事实，问题就有可能获得解决。</p>
+<p>随行的美国国会人权委员会主席麦戈文（Jim McGovern）也在记者会上表达了对西藏人权与宗教信仰权的关注，强调不要相信中国媒体所言。他并表示，希望中国政府允许美国在拉萨设立领事馆，允许更多议员和媒体访问西藏，重启与达赖喇嘛的对话来解决僵持已久的西藏问题。另有议员也谈到此次西藏之行受到中国官方的控制，约三十个保安人员跟随参访。</p>
+<p>居住西藏拉萨的一位藏人向本台表示，佩洛西一行所看到的完全背离西藏现实状况，尽是被中国当局刻意制造出的假象而已。</p>
+<p>“美国国会众议院民主党领袖佩洛西率团能够到访西藏是值得藏人庆喜，因为她是一位达赖喇嘛尊者的坚定支持者，但是她和随行成员们却完全没有看到真实状况。在她们到访的前一天，当局强制要求拉萨城关区各居委会十人、每个院子内的六民居民必须从11月10号的两、三天内集体转八廓街、寺院和林廓路，还要求寺院届时举行法事，这让美方代表看到的是，藏人不间断地转经、朝佛、磕长头等，以为藏人‘充分享有宗教信仰自由权’、‘各项宗教活动正常有序进行’，但这完全背离了现实状况，全是当局掩饰真相后，制造出的一种假象。”</p>
+<p>该名消息人士表示，这期间拉萨街头全副武装的军警被便衣取代，以制造出一幅“和谐稳定”的景象：“拉萨大昭寺及周围建立的多个安检站被撤掉，平时全副武装执勤巡逻的军警也不见了，取而代之的竟是随处可见的便衣警察。中国当局使用这种狡猾手段，企图蒙蔽外国代表团的眼睛，让他们误以为‘在西藏发生巨大变化的同时，宗教状况、人权状况得到改善和保障，藏民过上幸福安宁、自由自在的生活，社会变得更加和谐稳定。’因此，希望外界认清中共一贯的伎俩，也呼吁媒体揭发其面目。”</p>
+<p>佩洛西在担任美国民主党国会议员近30年时间，一直直言不讳地批评中国政府践踏西藏的基本人权。2008年3月21号，佩洛西率领九名国会议员访问印度达兰萨拉会见西藏精神领袖达赖喇嘛，并在数千人聚集的场合发表演说，对西藏局势表示关注，呼吁世界各国热爱和平的人们站出来疾声反对中共当局在西藏的镇压行动，也呼吁中国领导人同达赖喇嘛展开对话。</p>
+<p>（特约记者：丹珍 责编:寇天力）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%8B%89%E8%90%A8%E8%97%8F%E4%BA%BA%EF%BC%9A%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%80%E8%A1%8C%E6%89%80%E7%9C%8B%E5%88%B0%E7%9A%84%E8%83%8C%E7%A6%BB%E7%8E%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A9%E6%B4%9B%E8%A5%BF/?category=18271" rel="tag">佩洛西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%89%E8%90%A8/?category=18271" rel="tag">拉萨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98/?category=18271" rel="tag">美国国会议员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">西藏问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%A0%E5%81%87/?category=18271" rel="tag">造假</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%95%99%E8%82%B2%E9%83%A8%E6%96%B0%E8%A7%84%E8%A6%81%E6%B1%82%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC%E5%91%98%E5%BF%85%E9%A1%BB%E6%98%AF%E5%85%B1%E4%BA%A7/" target="cdt-mirror">自由亚洲 | 教育部新规要求高校辅导员必须是共产党员</a>
+</h2>
+<p><p>中国教育部近日草拟新规定，要求高校辅导员必须是共产党员、要密切关注学生的网络动态，引发舆论关注。有评论认为，中共正在加强对高校思想自由的钳制。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/8c0c6560-9049-4a55-a644-ed473bbe3df7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/8c0c6560-9049-4a55-a644-ed473bbe3df7.jpg" alt="8c0c6560-9049-4a55-a644-ed473bbe3df7" width="600" height="397"></a></p>
+<p>据人民网11月18号报道，中国教育部从2006年9月1号起颁发施行《普通高等学校辅导员队伍建设规定》，迄今已经实施近十年。教育部日前对该规定做了新的修改，并向各地教育行政部门及部属高校征求意见。新修改的规定在政治上对高校辅导员提出了更严格要求，明确提出高校辅导员应当是中国共产党员，要求高校辅导员“深入开展社会主义核心价值观教育，综合运用教育教学、实践养成、文化熏陶、研究宣传等方式，把社会主义核心价值观落实到学生日常管理服务各个环节，形成高校学生的日常行为准则，使高校学生自觉将社会主义核心价值观内化于心、外化于行。”新修改的规定还要求高校辅导员，构建网络思想政治教育阵地，加强与学生的网上互动交流，围绕学生关注的重点、难点、 热点进行有效舆论引导，及时了解网络舆情信息，密切关注学生的网络动态，敏锐把握一些苗头性、倾向性、群体性问题。</p>
+<p>中国教育部有关高校辅导员的新规引发舆论关注。截至记者发稿时，新浪网上有超过1.5万人参与讨论，但只显示80几条评论，网易网上有超过2万人参与讨论，只显示200多条评论。有网友指出“这是要给学生洗脑吗？”，有网友质疑“涉嫌违法，为何必须是党员，不是就业歧视吗？”，有网友感叹“党员就业又多条路，好处还真不少。”，有网友讽刺说“那中学老师更应该是党员，中学生正是世界观形成的时候。如果真的重视教育，应该从幼儿园抓起，所有教师都应该是党员”。</p>
+<p>现在美国纽约的项小吉律师对此评论说：</p>
+<p>“习近平上台以来，在加强思想政治教育方面狠下了一些功夫，尤其对高校青年思想的钳制方面加大了力度。教育部的规定要求辅导员必须是党员，辅导员本身就是做政治工作的，本身就是党的思想工作者，所以在他们看来，根本对聘用的平等机会不予考虑，根本不在这个范畴。”</p>
+<p>中国教育部新修改的规定还要求，在核定的编制总额内全校专职辅导员数不得少于辅导员总数的70%。教育部原来规定“新聘任的青年专业教师，原则上要从事一定时间的辅导员、班主任工作”，新规定则修改为“新聘任的青年专业教师，应该从事一定时间的辅导员、班主任工作，并与专业教师的职务（职称）评聘、相关考核挂钩。”</p>
+<p>对于中国高校的辅导员制度，纽约城市大学政治学教授夏明评论说：</p>
+<p>“中国高校过去60多年一直有辅导员制度，它从某种程度上说，是从中国军队的政委制度逐渐延伸到学生群体。辅导员制度有两项功能，一是洗脑，二是搜集情报，进行早期社会控制、政治控制。其实从89年以后到现在，高校辅导员制度一直在加强控制，现在加强的更厉害。现在加强控制的一个主要特征是，中国高校把政治思想工作、政工工作，作为学问来评定职称、进行表彰。甚至直接由大学的党委书记，所谓带博士生，专门做政治思想工作的‘博导’。这样就形成了‘专业化’的政工体系，来作为政治辅导员体系。”</p>
+<p>夏明认为，中国教育部有关高校辅导员的新规一旦实施，将造成严重危害。</p>
+<p>“在大学里面，如果把政工体系和学术体系全部打通的话，很明显这会破坏学术评价体系，同时让真正卓越的学术人才难以出头，往往会受到政工的打压。在这种情况下，我觉得中国整个高校的质量和校风全都可能被破坏。”</p>
+<p>中国教育部的新规定还要求，建立国家、省级和高校三级辅导员培训体系。确保每一名专职辅导员每5年参加1次国家级或省级培训。各高校负责对本校辅导员的系统培训，每年开展不少于4次的校级培训，积极选送辅导员参加校外培训。</p>
+<p>（记者：林坪 编辑：吴晶）</p>
+<p>——————————————————————</p>
+<p><strong>以下为中国数字时代编辑收集自新浪网友评论：</strong></p>
+<p><a href="http://weibo.com/u/2622377001">闗閼那個故事</a>：明东厂，西厂，锦衣卫的共同点是：监视，侦查，镇压。用尽了酷刑，制造了很多冤假错案。道路以目。可踪迹最终遁于无形。历史上凡罪恶的魔影，它的生命力不会久远，夭折是它的宿命。</p>
+<p><a href="http://weibo.com/2050532087" target="_blank">lucius-shawn</a>：防民之口胜于防川</p>
+<div><a href="http://weibo.com/shuchi" target="_blank">舒不里特</a><i title="微博达人"></i><i></i>：干脆没入党不准上大学，不就搞定了</div>
+<div></div>
+<div>
+<div><a href="http://weibo.com/1826598567" target="_blank">下雨不穿鞋</a>：这种做法太low了，想回到文革吗，出红卫兵</div>
+</div>
+<div></div>
+<div><a href="http://weibo.com/lancelotng" target="_blank">LanceNg_</a><i title="微博达人"></i><i></i>：黨委應該設在婦產科門口，我為dang提的一個小小建議……</div>
+<div></div>
+<div><a href="http://weibo.com/5616430632" target="_blank">浪浪有毛病</a>：从医院接生开始，妇科医生护士必须是党员，密切注意婴儿啼哭声，坚决防止嚎哭，乱哭，等自由化哭声的景象<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></div>
+<div></div>
+<div><a href="http://weibo.com/2182870863" target="_blank">Vamessilee</a>：看评论有人说:倒车请注意，倒车请注意。想想真是悲哀啊</div>
+<div></div>
+<div><a href="http://weibo.com/2953042431" target="_blank">呵呵-志</a>：呵呵，看来要从引导走向监控控制了。。。黑心包包黑心。</div>
+<div></div>
+<div><a href="http://weibo.com/3234887072" target="_blank">何言天道正</a>：其实大学内部舆情通报早就有了，现在继续加码，很快就能建成一批世界负一流大学</div>
+<div></div>
+<div><a href="http://weibo.com/yaok" target="_blank">YaoK</a>：这符合劳动法吗？当辅导员要先加入某特定党派？</div>
+<div></div>
+<div><a href="http://weibo.com/2234809527" target="_blank">hurrayah</a>：我发个朋友圈真的被辅导员谈话过</div>
+<div></div>
+<div><a href="http://weibo.com/1238871020" target="_blank">傅疯魔</a><i title="微博达人"></i>：国家奖学金，贫困补助都被导员分给了跟他们关系好的所谓的“贫困生”，然后这些“贫困生”再用来买iPhone和请导员吃饭</div>
+<div></div>
+<div><a href="http://weibo.com/3905445032" target="_blank">走一走a</a>：切实体会，我在一所三本的大学，辅导员能只手遮天，什么评优评奖入党资格往往与踏踏实实学习的同学无缘，而那些在辅导员面前鞍前马后的各种名利纷至沓来，我只是为那些同学抱一下不平，鼓励一下那些踏实同学吧，不要被这些绊住了手脚，忠于自己的心，也希望只是我们学校这样，那些好的学校能有一片净土</div>
+<div></div>
+<div><a href="http://weibo.com/3982681229" target="_blank">莉莉Lily莉莉Lily</a>：可以保证身份是党员，不过心是什么样的就不好说了，多数人入党只为名利，所以很多党员可能就是追名逐利的人。</div>
+<div></div>
+<div><a href="http://weibo.com/1072805395" target="_blank">-流浪星辰-</a><i title="微博达人"></i><i></i>：要先要禁止学生用微博，然后禁止体制内人员用微博，再关停微博，关停论坛，关博客，接下来禁止上网，直到信息全面封锁，慢慢来嘛，朝鲜在这方面就做得好，凡事都有个过程！</div>
+<div></div>
+<div><a href="http://weibo.com/2781396784" target="_blank">芋头老参</a>：从革命成功的那一刻起，就在注意对人们思想的控制。在改革开放前的二十几年中，祸从口出甚至株连九族，高压之下除了极少数敢于以命反抗外，确实让大家闭口了，但思想仍旧无法掌控住。在思想意识多元化和信息交流如此发达的今天，继续过去的做法，到底有多少成效呢？</div>
+<p> </p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%95%99%E8%82%B2%E9%83%A8%E6%96%B0%E8%A7%84%E8%A6%81%E6%B1%82%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC%E5%91%98%E5%BF%85%E9%A1%BB%E6%98%AF%E5%85%B1%E4%BA%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">大学改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">思想政治工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1/?category=18271" rel="tag">高校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC%E5%91%98/?category=18271" rel="tag">高校辅导员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BB%B6%E5%AE%A1%E9%99%90%E6%9C%9F%E6%BB%A1-%E6%B3%95%E9%99%A2%E6%97%A0%E6%B6%88%E6%81%AF/" target="cdt-mirror">自由亚洲 | 浦志强案延审限期满 法院无消息</a>
 </h2>
 <p><p>被羁押18个月的北京维权律师浦志强，案件今年8月18日第一次延长审理到期，周三（18日）期满。（海蓝 报道）</p>
@@ -704,68 +787,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B9%96%E5%8C%97%E8%80%81%E5%B8%88%E5%BC%A0%E7%88%B1%E5%98%89%E5%BE%AE%E4%BF%A1%E5%8F%91%E5%B8%96%E8%A2%AB%E6%8C%87%E5%BD%B1%E5%B0%84%E4%B9%A0%E8%BF%91/" target="cdt-mirror">自由亚洲｜湖北老师张爱嘉微信发帖被指影射习近平遭开除</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4a1aafab-35ea-494c-88ba-8af170712f07.jpg" alt="4a1aafab-35ea-494c-88ba-8af170712f07" width="551" height="366"></p>
-<div>
-<p>湖北一学校老师张爱嘉日前因在微信里转发了一则被认为是責骂习近平的网帖，遭到警方约谈。与此同时，学校也在教育局与派出所、网监的双重压力下宣布将其开除。</p>
-</div>
-<div>
-<p>湖北黄冈市红安国际育才学校的老师张爱嘉从没想过，自己在微信群里转发的一则网帖会让自己因此丢了工作。</p>
-<p>该帖子大意如下：没文化的人心里自卑，怕别人看不起，所以就要强装自己博学，掉书袋。草包就是这样的人。一个真有学问的人无需掉书袋背书名，而是将所读过的书，学过的知识自然而然地融入日常言谈举止之中，这是潜移默化的，不是强装的。孔乙己的“茴香豆”的茴字四种写法不是学问，徒添笑料耳。</p>
-<p>张爱嘉11月16日接受本台采访时表示，事情发生在3天前，她当时转发该帖的原意是以此为戒，但想不到却被警方带走讯问，学校也于翌日宣布将她开除，并要她立即搬出校舍。</p>
-<p>“最开始的时候是我们湖北省红安县金沙派出所他们警车开到学校来了，然后把我带走了，说我在微信群里发了一个帖子，说那是骂国家领导人的。但是我说那里面没有国家领导人的名字，为什么你们会这样想？他们就说了一大堆，他们接到上面的指示，那个帖子后面骂的草包什么的就是骂国家领导人习近平的，叫我以后不要再发这样的。我说你们太敏感了，就算是骂国家领导人又怎么样呢？难道现在还是一个皇帝制的社会吗？其实我最开始（转发帖子）的初衷就是：这个道理很好，我要鞭策自己，不要做这样的人。做了一个简单的笔录我就回来了，我以为没事了，但是学校就找到我做思想工作，第二天一早就说，学校已经开过会，统一决定要我立即走。”</p>
-<p>张爱嘉表示，她理解学校在警方及教育局的双重压力下将她开除，不过她要求学校出示书面的辞退通知并赔偿一个月工资的通知金，被校方拒绝。</p>
-<p>“他说上面一层层压下来的，教育局的已经打电话给他们了，给他们施压；派出所也来了，派出所和我们红安县的网监一起过来给学校施压；而且学校现在正在评安全管理学校，就是因为这个评不了。他们很有压力就要我理解，我说我可以走，但是我的要求你要满足，既然辞退我，你要有一个理由，你要写一个书面的辞退令，我要光明正大地出去，我不是说做了什么见不得人的事情被学校开除，这是我一个名誉。他说他们学校开除人从来不写这些东西的。他们找我谈话的时候说， 这个不要拍照发到网上去，他说大家都心知肚明，现在这样一个社会，我们开除你肯定不会说因为你在网上发了这些信息而开除你。”</p>
-<p>此前，有艺术家曾因恶搞习近平而被拘押，也有学生因为下载习近平身穿纳粹服装的照片被学校处分。对于地方当局这些过分敏感的行为，独立媒体人孙林向本台表示，这是对习近平不满，而意图架空他的“捧杀”之举。</p>
-<p>“我不维护他，但是我们站在公正的立场上，习近平从他上台开始直到现在，他所做的人们都有目共睹。想把习近平给架空，在我的观察当中是大有人在。他就是用一种捧杀的形式扶起另外一种邪恶势力。”</p>
-<p>张爱嘉说，她从几年前在网上看到宁波当局镇压市民反对PX项目的时候起，就开始关注民间维权的信息，现在终于要为自己维权。经历了这件事，自己也随之成长，更加成熟。</p>
-<p>（特约记者：扬帆／ 责编：胡汉强）</p>
-</div>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B9%96%E5%8C%97%E8%80%81%E5%B8%88%E5%BC%A0%E7%88%B1%E5%98%89%E5%BE%AE%E4%BF%A1%E5%8F%91%E5%B8%96%E8%A2%AB%E6%8C%87%E5%BD%B1%E5%B0%84%E4%B9%A0%E8%BF%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">习近平读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E7%88%B1%E5%98%89/?category=18271" rel="tag">张爱嘉</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8A%A8%E5%90%91-%E9%97%B5%E8%89%AF%E8%87%A3%EF%BC%9A%E9%A2%86%E8%A2%96%E7%8B%AC%E8%A3%81%EF%BC%8C%E8%87%A3%E6%B0%91%E6%81%90%E6%83%A7/" target="cdt-mirror">动向 | 闵良臣：领袖独裁，臣民恐惧</a>
-</h2>
-<p><p>今年十一月二十日是胡耀邦诞辰一百周年纪念日，从年初到现在，有不少知名人士公开发表文章纪念他，赞颂他，这也正如曾任毛泽东秘书的李锐先生诗云：“活在人心便永生”。对于像胡耀邦在晚年努力实事求是、拨乱反正的国家领导人而言，我们不应该过分地拔高他，说一些不实事求是的话，不然，不但与他的思想精神相背离，而且有辱这位值得后世敬仰的伟人。不仅如此，即使从胡耀邦晚年“只言片语”中也能感受到，像毛泽东的“群臣”一样，胡耀邦对“伟大领袖”同样也是佩服的，更不可能做到什么“无私无畏”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2013/04/huyaobang.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/04/huyaobang.jpg" alt="huyaobang" width="400" height="328"></a><br>
- <br>
-　　面对独裁，谁能“无畏”<br>
- <br>
-　　别看毛泽东晚年面对让他头疼的林彪，又重复早在一九五七年对即将到《人民日报》赴任的吴冷西讲出的“五不怕”，即“不怕撤职，不怕开除党籍，不怕老婆离婚，不怕坐牢，不怕杀头”，然而在他的一言九鼎、独裁淫威之下，中共党内，特别是中央高层，真正能做到这“五不怕”的几乎没有一人，即使耿直如彭德怀，甚至据说可以与毛“骂娘”，事实上也还是把他当作“伟大领袖”看待。<br>
- <br>
-　　之所以如此，中共在这一点上与苏联“老大哥”如出一辙。苏联斯大林大清洗前的苏共，人们相信“党的一切都是对的”，而在大清洗过后，变成相信“党的领袖一切都是对的”、“甚至认为斯大林如把自己杀了，也是有理的”，也是“革命的需要”、“维护领袖权威”的需要。中共在一九四九年获取政权后，毛泽东就成了中共代表，成为中共化身，他在任何时候任何地方发出的指示都可看作是“中共最高指示”，他的所有意见都是中共最高意见。一九五七年，在反击所谓“右派”前夕，毛泽东甚至可以把包括胡绩伟在内的一些官员召到他的寝室训话：“所谓百家，实为两家，资产阶级、无产阶级各一家。”（见李慎之《对反右派斗争史实的一点补充──致胡绩伟》）而后来摔死在蒙古温都尔汗的“接班人”林彪当时在笔记中说得更露骨：“党性遵命性（闵按：即遵上峰毛之命）也”“遵命乃大德、大勇、大智。”“勿讲真理而重迎合”“主席就是最大的群众，他一个人顶亿万人，所以和他的关系搞好了，就等于对群众搞好了，这是最大的选票。”“决议不好也同意──不然是书呆子。”（引自《林彪笔记中的官场策略》，作者吴思，见二○○九年第一期《报刊荟萃》）<br>
- <br>
-　　其实，从一九四九年到毛去世的二十七年间，不仅中共高层如此，整个国家也如同“封建王朝”，中华人民共和国只是一个名称而已。<br>
- <br>
-　　领袖淫威，耀邦也惧<br>
- <br>
-　　十月二十七日，被称作大陆思想网站的共识网挂出其网站老板周志兴一篇图文并茂的文章《敢于直言？耀邦如此，何况他人──二五一十的哲学》。文章问道：“而我们现在有言官吗？当然，从理论上说，从共产党的章程上说，每一个官员都要有大无畏的精神，为了人民的利益和党的利益敢于直言，但是实际上这样的人是少之又少的。人格伟大如耀邦者，在最后的岁月里还发出这样的感慨：有老婆孩子，不能舍得一身剐了。所以，耀邦夫人李昭坚定地把众人对耀邦评价中的『无私无畏』修改为『无私无愧』，并且把这四个字也刻成碑永远植在共青城的耀邦墓。耀邦如此，何况他人！”<br>
- <br>
-　　周志兴这几行文字，特别是文中胡耀邦夫人李昭的举动，证明了胡耀邦不是“超人”，更不是神，也不是毛泽东所说的那种“大无畏者”，在专制独裁者面前，胡耀邦也只能是乖乖地“照毛主席的指示办事”。当然，这里还有个认识问题，可即使认识到了，就真的敢“无畏”了吗？恐怕也未必。口说无凭，恰好这里还有一证据。<br>
- <br>
-　　十几年前，曾在广东省政协主办的《同舟共进》杂志二○○二年第六期读到原新华社副社长李普先生的《胡耀邦何以不敢想下去》，文章很短：一九七七年，胡耀邦还在“台下”时，说到一九五七年反右派以来，毛泽东不断搞阶级斗争，胡耀邦说：“自己也不是没有怀疑过，可是自己是个党的干部，还是个中央委员嘛，有疑惑也得遵守纪律啊，也得举手啊，往往不敢多想下去，反倒还不断反省这种疑惑是不是在阶级斗争面前的动摇呢，是不是对毛主席他老人家不忠呢……。”从《炎黄春秋》上一篇别人怀念胡耀邦的文章中引了这几句话后，李普先生接着感叹道：“胡耀邦是个肯用脑筋的人，是个有一颗赤子之心的人。后来他发动真理标准问题讨论和坚决平反冤假错案，证明他是个高瞻远瞩、敢做敢为的人。何以这样一个人尚且如此！按理说，中央委员更应当想问题，为什么反而更不敢想了呢？”<br>
- <br>
-　　李普先生的短文到此戛然而止。<br>
- <br>
-　　胡耀邦之所以“不敢多想下去”，正好证明，从那时，甚至从比那时更早的时候，“党内”就已经弥漫了“封建氤氲”，就有了专制独裁的影子。到一九五七年，中央绝大部分委员都早已忘记了自己的“身份”，甚至已经不能意识到自己是一个独立的人，那时与其说他们是一个党员或中央委员，不如说已经自觉不自觉地在潜意识中把自己放到了“臣”的位置。而中国两千多年来统治者一直倡导的不就是“君君臣臣”、“君为臣纲”吗？既为人臣，岂可不忠？……单从个人独立思考这一点来说，胡耀邦乃至整个中共中央官员都应该感到“脸红”。<br>
- <br>
-　　权威式微，方有“大胆”<br>
- <br>
-　　从李普先生的文章来看，好像胡耀邦在“主席”去世后忽然胆子大了起来，敢说敢干了。真是这样吗？自己不这样看。胡耀邦之所以敢那样大胆地平反冤假错案，之所以敢于开展真理标准大讨论，主要是不仅当时的领导人即华国锋没有毛泽东那样的权威，难以实行独裁，有些话甚至不能“算数”，尤其是有不少说话极有份量的中央“老同志”如叶剑英、李先念等，是支持他的，而他所做的也正是为了当时已得民心而后来证明是划时代的人物的复出，因此也就显得他好像是毫无畏惧、“敢作敢为”了。当然，现已盖棺论定，我也完全赞同李普先生所言：胡耀邦是“有一颗赤子之心的人”、“高瞻远瞩”的人，尤其在当时能有那种举动，实在难能可贵，没有一点胆识的人是做不出来的。但如果实事求是，为了我们的历史减少一点糊涂账，我们只要看胡耀邦“下台”后，又再一次处在一种至少不同于一九七七年的情形时，他不是就不再“敢作敢为”不再“有所作为”了吗？这自然是此一时彼一时也，但弄明白这一点，我们可以更加客观地评价一个人，包括评价像我十分敬仰的胡耀邦这样的人，同时这也是为了记录历史的真实。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8A%A8%E5%90%91-%E9%97%B5%E8%89%AF%E8%87%A3%EF%BC%9A%E9%A2%86%E8%A2%96%E7%8B%AC%E8%A3%81%EF%BC%8C%E8%87%A3%E6%B0%91%E6%81%90%E6%83%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8%E5%90%91%E3%80%8B/?category=18271" rel="tag">《动向》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">胡耀邦诞辰100周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B5%E8%89%AF%E8%87%A3/?category=18271" rel="tag">闵良臣</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -787,5 +808,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

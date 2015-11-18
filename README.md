@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%A6%81%E8%AF%B4%E5%A4%9A%E5%B0%91%E6%AC%A1%E4%BD%A0%E6%89%8D%E6%87%82%EF%BC%81%E5%A4%A9%E8%93%AC%E5%85%83%E5%B8%85%E6%98%AF%E7%8C%AA%E5%A4%B4/" target="cdt-mirror">【网络民议】天蓬元帅是猪头这是一级机密！</a>
+</h2>
+<p><p>自由亚洲昨日发布了一则关于湖北某中学教师的<a href="http://www.rfa.org/mandarin/yataibaodao/meiti/Yf3-11162015145345.html">报道</a>，由于事件内容过于魔幻而在墙内引来不少关注。报道称，该教师因在微信转发疑似影射习近平的内容而遭警方约谈，并被学校开除，涉事网帖的内容更是成为网民吐槽的焦点：</p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4a1aafab-35ea-494c-88ba-8af170712f07.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4a1aafab-35ea-494c-88ba-8af170712f07.jpeg" alt="4a1aafab-35ea-494c-88ba-8af170712f07" width="450" height="299"></a></p>
+<p>湖北一学校老师张爱嘉日前因在微信里转发了一则被认为是責骂习近平的网帖，遭到警方约谈。与此同时，学校也在教育局与派出所、网监的双重压力下宣布将其开除。</p>
+<p>湖北黄冈市红安国际育才学校的老师张爱嘉从没想过，自己在微信群里转发的一则网帖会让自己因此丢了工作。</p>
+<p>该帖子大意如下：没文化的人心里自卑，怕别人看不起，所以就要强装自己博学，掉书袋。草包就是这样的人。一个真有学问的人无需掉书袋背书名，而是将所读过的书，学过的知识自然而然地融入日常言谈举止之中，这是潜移默化的，不是强装的。孔乙己的“茴香豆”的茴字四种写法不是学问，徒添笑料耳。</p>
+<p>张爱嘉11月16日接受本台采访时表示，事情发生在3天前，她当时转发该帖的原意是以此为戒，但想不到却被警方带走讯问，学校也于翌日宣布将她开除，并要她立即搬出校舍。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/n/%E4%BD%8F%E5%9C%A8%E6%AD%A6%E8%97%8F%E4%B8%8A%E7%9A%84%E8%91%B5%E6%89%98%E5%88%A9?from=feed&loc=at" target="_blank">住在武藏上的葵托利</a>:╱( ◕‿‿◕ )╲ “要我说多少次你才懂！天蓬元帅是猪头这是一级机密！” <img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/u/1403766752" target="_blank">炼金术士gewesen</a>：不带这么黑包子的<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/n/%E5%A4%89%E6%85%8B%E7%AD%8B%E8%82%89?from=feed&loc=at" target="_blank">変態筋肉</a>:污蔑元首罪<img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
+<p><a href="http://weibo.com/kamikevin" target="_blank">风暴烈酒陈</a><i title="微博达人"></i>：泄漏国家机密罪<img title="[哆啦A梦吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]"></p>
+<p><strong>@Pro-Dylan：这已经和苏联笑话一样分不出真假了</strong></p>
+<p>@结衣社：圣上龙颜大怒，奴才诚惶诚恐。</p>
+<p>@姚广孝_wayne：一位年轻人在工作时抱怨道：“这种政府真差劲。”结果被一位秘密警察听到而遭逮捕。年轻人辩解说：“我根本没讲是哪个政府，你怎么可以随便逮捕我呢？”“你少骗人，”秘密警察咆哮道，“我在这里工作二十多年了，哪一个政府差劲我不会知道吗？”</p>
+<p>@6份H2O和4份CO2: 这他妈魔幻过头了</p>
+<p><a href="http://weibo.com/5240200822" target="_blank">Fisherman19841018</a>：此举在向偶像致敬，你们都没有看懂？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/2363697844" target="_blank">Chen大人驾到</a>：点赞会不会被抓的<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"></p>
+<p><a href="http://weibo.com/2115325034" target="_blank">峰少7V989</a><i title="微博达人"></i>：劳教没了，分分钟寻性姿势//<a href="http://weibo.com/n/%E5%AD%9F%E6%81%95%E5%8D%8E_2015?from=feed&loc=at" target="_blank">@孟恕华_2015</a>:麻痹，劳教三年，看你们再敢胡说<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@風痕四世：看来地方政府很知道今上是个什么东西啊。</p>
+<p>@霹靂小黑:真的不是@洋葱日报社 的新聞嗎！</p>
+<p>@只配叫猪_: 原来某人真的很在意啊。</p>
+<p>@下一站NewYork:癞痢头一般都忌讳听到“疤”、“癞”、“光”……</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2014/12/%E9%87%91%E4%B8%89%E8%83%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/12/%E9%87%91%E4%B8%89%E8%83%96.jpg" alt="金三胖" width="300" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%A6%81%E8%AF%B4%E5%A4%9A%E5%B0%91%E6%AC%A1%E4%BD%A0%E6%89%8D%E6%87%82%EF%BC%81%E5%A4%A9%E8%93%AC%E5%85%83%E5%B8%85%E6%98%AF%E7%8C%AA%E5%A4%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90%E5%B8%9D/?category=18271" rel="tag">包子帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AD%A6/?category=18271" rel="tag">网警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8F%B7%E7%A7%B0%E4%B8%8D%E8%A1%8C%E8%B4%BF%E7%9A%84%E9%A9%AC%E4%BA%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/" target="cdt-mirror">美国之音 | 号称不行贿的马云们如何处理政商关系</a>
 </h2>
 <p><div>
@@ -744,30 +777,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E6%83%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%85%9A%E5%AF%B9%E5%AA%92%E4%BD%93%E4%B8%8D%E6%94%BE%E5%BF%83-%E3%80%8C%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%87%B3/" target="cdt-mirror">东方日报｜傅桓：党对媒体不放心 「意识形态至上」</a>
-</h2>
-<p><p>新华网早已是展现内部权斗的「传声筒」。在过去几个月里，它不止一次替广东新任宣传部长传达信号，比如说南方报业投入更多力量加大党宣报道，暗示南方报业已经「听话」了。在最近，它又替「毛左」鼓与呼，传达国家意识形态中心成立了新媒体生力军。</p>
-<p>党对媒体不放心，所以几十年来，始终在媒体上推行「意识形态至上」的政治规矩。</p>
-<p>这个意识形态中心挂靠在中国社科院，是一个被极左与毛左深深盘踞的机构。这个中心毫不讳言地宣布，成立新媒体研究院就是为了「赢得新三十年意识形态斗争」，是打赢所谓「网络阵地战」的生力军。党的喉舌在向民众传达意识形态恐怖气氛上，不遗余力。</p>
-<p>大陆许多人对这个中心及其新媒体研究院不屑一顾。事实表明，在过去微博上的数次意识形态攻击中，这个中心尽管起到了中介与鼓动作用，但在微博式微、民众不易被洗脑的情况下，它所起的作用越来越小。大多数情况下，它所发动的攻击都是无疾而终。</p>
-<p>国家意识形态中心，这个称呼就像许多盛行大陆尤其是北京的骗子集团那样，喜欢给自己冠名一个巨大的名称，以暗示自己与中央有关系，从而为此后的骗术遮上「神秘」面纱，以便让骗子更顺利地实现目的。国家意识形态中心，并没有脱离这个命名逻辑。</p>
-<p>从该中心成立的新媒体研究院成员看，基本上网罗了时下活跃的毛派极左分子，也展现了高举毛派旗帜的党政军学机构。这在一定程度上展现了当前中国意识形态部门所拥有的「人才」与「资源」。从某种意义上讲，这个智库是毛派极左势力的集中展览。</p>
-<p>在很多方面讲，国家意识形态中心的目的都不是为了所谓的新媒体。网络新媒体现在属于网信办权力范围，历经反覆压制与清场，「两微一端」（微博微信客户端）早已经被驯服，没有什么有生力量可供「打击」。也只能说，意识形态中心醉翁之意不在酒。</p>
-<p>国家意识形态中心深谙党的行动策略，那就是无时无刻不在制造「敌人」，以实现自己的利益。新媒体研究院在成立缘由上，紧紧抱着「互联网已是意识形态争夺战的关键领域」这个标靶，以宣扬互联网威胁论，恐吓民众，并以此获取党政财力支持。</p>
-<p>所以，对毛派而言，成立这个新媒体研究院，用所谓的「新生力量」为名目，获取意识形态投入的项目，是一个目的；其次，则利用这个旗帜，占据毛左话语权的高地，以观后效。既是一门生意，又是一桩政治投机，国家意识形态中心这帮人摸准了党的 G 点。</p>
-<p>但是并不像网民所悲观的那样，这样的毛左建制化，除了制造「网络雾霾」之外，几乎达不到意识形态洗脑的目的。相较于媒体的快速变革，这个党的文宣成效始终低级，一直以来都没有改变「有人的地方没阵地，有阵地的地方没人」这个尴尬的现状。</p>
-<p>在牢牢监管住微博之后，微博衰败如草莽，变成了话语的荒地──然后，网信办宣布，他们占据了微博这个舆论高地。统治平台，进而统治话语，这是文宣始终在做的事情，但平台迅速集结与崩溃，话语迅速集合与碎片化，都超出了意识形态可以全然控制的范畴。</p>
-<p>党对媒体不放心，缺乏必要的手段，所以几十年来，始终在媒体上推行「意识形态至上」的政治规矩。好就好在，媒介旧格局崩溃，新格局未成，这让「意识形态至上」难以确切地稳定下来，处在动荡之中。以民间或学术身份伪装的国家意识形态中心，亦非那块「钢铁」。<br>
-＝<br><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%85%9A%E5%AF%B9%E5%AA%92%E4%BD%93%E4%B8%8D%E6%94%BE%E5%BF%83-%E3%80%8C%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%87%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">国家意识形态中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -779,7 +788,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -789,5 +798,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

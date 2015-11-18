@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%A6%81%E8%AF%B4%E5%A4%9A%E5%B0%91%E6%AC%A1%E4%BD%A0%E6%89%8D%E6%87%82%EF%BC%81%E5%A4%A9%E8%93%AC%E5%85%83%E5%B8%85%E6%98%AF%E7%8C%AA%E5%A4%B4/" target="cdt-mirror">【网络民议】天蓬元帅是猪头这是一级机密！</a>
@@ -95,7 +95,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%A1%8C%E8%B4%BF/?category=18271" rel="tag">“不行贿”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">政商关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E8%B4%BF/?category=18271" rel="tag">行贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/" target="cdt-mirror">德国之声 | 德语媒体：“北京继续允许酷刑”</a>
 </h2>
@@ -788,7 +788,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E6%83%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -798,5 +798,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E6%83%85
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

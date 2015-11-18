@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,113 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%86%99%E9%95%BF%E7%AF%87%E8%AE%AE%E8%AE%BA%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/" target="cdt-mirror">破破的桥：为何不写长篇议论巴黎恐袭</a>
+</h2>
+<p><div>最近大家对ISIS和叙利亚突然来了兴趣，我也陆续收到来信问这问那，有人问我为啥不写点。因为此前三年，我大概每天花一小时阅读叙利亚战事相关材料，并不时在腾讯微博播报战况进展，平日人气惨淡，门可罗雀，如今该是摘桃子的时候了。然而我觉得还没到该动笔的时候。新浪和其它网站也有类似的志愿播报员，我们相互间比较熟悉，他们好像也没写。</div>
+<div></div>
+<div>主要在新浪负责播报乌克兰战事的朋友<a href="http://weibo.com/n/%E8%B7%AF%E5%B0%98_%E6%8A%8A%E5%90%8D%E5%AD%97%E6%94%B9%E7%9F%AD">@路尘_把名字改短</a> 发了篇文章解释她为什么不愿说话，链接：<a href="http://weibo.com/p/1001603909236848505685">http://weibo.com/p/1001603909236848505685</a> 。里头有几句话我很赞同（尽管我自己通常做不到）：</div>
+<div>
+<blockquote><p>恐怕没有几个人会在上完初中物理第一节课以后就开始高谈阔论量子力学的影响和意义，但是起码90%的人现在相信，看完知乎上一两篇三四千字的“科普”文章，甚至是看两张恶搞漫画，就可以对国际政治事件指手画脚了。</p></blockquote>
+</div>
+<div>
+<blockquote><p>任何一个国际政治事件，都是不可能用两三句话解释清楚的，如果没有海量的信息打底，你得到的只能是偏见。任何人讲给你的国际政治都是自己产出的带有偏见的裁剪，因为原始事实可能需要上万字甚至数十万字来讲明，任何一个背景信息都可能影响到你最终对事件性质的判断，而所有的国际政治事件的最大特点就是，背景信息多达无限。</p></blockquote>
+</div>
+<div>
+<blockquote><p>如果说围绕一件事发生的全部相关事件为1000，而你听说过的只是其中的10，盲人摸象的故事大家都听过，这个时候你发表任何评论，都只能是胡说八道。</p></blockquote>
+</div>
+<div></div>
+<div>我说的直白一点：这几天微博、微信、知乎、以及各媒体上讲述恐袭背景的那些文章，特别是高转发、高赞成票的，事实错误一箩筐，多是记者、时评人、意见领袖和营销人员针对热点查了几个小时被严重污染的中文材料草就而成。看那些东西意思不大。（至于他们的观点，我不评价）</div>
+<div></div>
+<div>不过，本文不讲这些，还是只谈舆论。若你对战事感兴趣，可翻阅<a href="http://weibo.com/n/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5">@破破的桥</a> 15年11月14-15日的微博，里头有少量链接。</div>
+<div></div>
+<div><b>1.事情没有变，只是舆论变了，你跟着变了。</b></div>
+<div></div>
+<div>上世纪八九十年代，新闻联播最后五分钟的国际新闻，通常是留给巴以冲突的。</div>
+<div></div>
+<div>但CCTV的新闻播报非常有意思。一是体现在时机的选择上，比方说哈马斯往以色列发射火箭弹，它捏着不报，静静地等以色列报复，以色列一报复，它立刻报了：“今天，以色列再次炮击巴勒斯坦地区”。</div>
+<div></div>
+<div>二是体现在用词的选择上。比如伊斯兰圣战组织，它会用个九成观众不懂的译文：“杰哈德组织”。如果圣战者年轻或是童子军，它会强调是“少年”。哈马斯的兵工厂，它会改称“金属加工厂”。所以哪天以色列轰炸了哈马斯的兵工厂，你欣赏到的央视新闻就是：“今天，以色列再次轰炸了巴勒斯坦境内的一处金属加工厂，几名杰哈德组织的少年被炸身亡。”</div>
+<div></div>
+<div>老一辈被这种新闻灌输多年，所以他们臭骂以色列和支持金援巴勒斯坦就像吃饭喝水一样自然，即便巴勒斯坦人那时平均至少比中国富四五倍。可如今不一样了，再有类似的事情，巴勒斯坦会被骂死，老一辈的言论网上虽然还有，但不成气候，靠边站了。</div>
+<div></div>
+<div>是以色列和巴勒斯坦变了？有变化，但基本玩法没有根本性改变。那变的是观众？他们的知识储备和思维变了？也不尽然。是舆论改变了，媒体围绕着一套新的观念展开了新的宣传，因为控制舆论的那些人，他们的想法与利益发生了变化，公众只不过是跟班。大众的好恶，你的好恶，都是受舆论操纵的。无论是对巴、以，还是对美、日、俄，好时蜜里调油，恶时咬牙切齿。其根本原因可能只是你接纳到的宣传材料变了。</div>
+<div></div>
+<div><b>2.讨论得好像很热闹，其实大家都漠不关心。</b></div>
+<div></div>
+<div>“你被洗脑了。”如果有人在讨论问题时这么指责你，你一定很厌恶。有时还会愤怒反驳：“你怎么知道是我，而不是你，被洗脑？”其实是否被洗脑，是可以有客观标准的。以后我会专写长文论述，这里就简单讲讲吧。</div>
+<div></div>
+<div>自从俄罗斯介入叙利亚之后，我就看见这么一条热门微博，在各平台上林林总总转了几十万次吧，大意是：</div>
+<div>美国轰炸了ISIS一年多，还没有俄罗斯轰炸一个月的战果大，这说明了什么？</div>
+<div></div>
+<div>这说明了什么？说明你啥都不知道。</div>
+<div></div>
+<div>请静下心来，用最基本的认知方法，判断“美国轰炸ISIS一年多与俄罗斯轰炸一个月的战果大小”，想想应该做什么？</div>
+<div>(1).了解美国轰炸ISIS一年多以来的战果。</div>
+<div>(2).了解俄罗斯轰炸ISIS一个月来的战果。</div>
+<div>(3).对以上两个战果进行比较。</div>
+<div></div>
+<div>俄罗斯轰炸了ISIS哪些地方？每日平均架次多少？轰炸地区有几成在ISIS控制区？击中了哪些军事目标？改变了哪几场战役的走势？帮助占领了哪几处ISIS城镇？美国呢？这些问题，相信你一个都答不出来，即便能喷出一两个，仔细查考也都是谣言。但凡有一丁点儿了解，你多半不会去转这些胡说八道。然而，尽管你对基本事实完全无知，然而这个判断已经奇妙地驻留在你的大脑里了。</div>
+<div></div>
+<div>你真正要思考的问题是，它到底是怎么进入你的大脑的？</div>
+<div></div>
+<div>人们对远方发生的事情通常一无所知，因为不影响生活，此时观念是否正确，全仰赖信息源。当热门事件发生时，是你独立搜集资料、加强了解的好时机。只不过，国人通常把时间浪费在发泄情绪上，而且耗时特别长，该讨论的时候讨论不了，能冷静下来讨论了，已时过境迁，新热点又出现了。</div>
+<div></div>
+<div>先冒出几篇编造的诸如“法国政府对75事件的表态”的煽仇恨帖，浪费两天时间。估摸着接下来的桥段是西方媒体指责中国人煽动仇恨，然后类似文章再被转回国内，同一帮人满脸委屈，借此再煽动一轮仇恨：“西方媒体双重标准，戴有色眼镜看我们”。不过话说回来，即便煽动仇恨者肚里也没货，如果长期跟踪西方主流媒体报道，找几篇中国人抵触的真实文章毫无问题，毕竟在中国，要求公开审判、搞明白事态起因、出示证据之类的行为都会被认为是支持恐怖分子。但因为他们原本就漠不关心，需要煽动仇恨时，材料急躁之下找不着太多，手段就显得特别low，衬得转发者很蠢。所以，即便要达到煽动仇恨的目的，多掌握点材料也是好的。</div>
+<div></div>
+<div>对国内的事也同样漠不关心，75事件后，一帮人装模作样地分析什么“XX政府对中外恐怖事件的谴责在用词上的区别”，一堆胡说八道做得图文并茂，好像很学术的样子。大家并不想搞清问题，只是想借机攻击平时自己不喜欢的人。这在人性上很正常，但希望你依然记住：你的好恶也是被舆论操控的。</div>
+<div></div>
+<div><b>3.政治正确与错误归因。</b></div>
+<div></div>
+<div>很多自由派对美欧的“政治正确”很痛恨：明明是伊斯兰恐怖分子搞的，你们报道新闻时非要回避他们的宗教信仰，完全是鸵鸟政策，连实话也不能痛痛快快说了么？</div>
+<div></div>
+<div>西方的政治正确是不是过度了，这个我觉得有可能。但中国恐怕需要多一点政治正确，大家的文章、评论实在是太极端，上个网感觉绝大部分网民都是极右人士（那篇热传的、很合大家口味的《日本，没有穆斯林的社会》就是从国外极右翼网站上引进的，瞎掰的地方太多，我觉得先查证再译较好）。</div>
+<div></div>
+<div>政治正确的好处是防止错误归因。比如本镇黑人只占人口5%，但黑人犯罪却占案件总数的80%。报纸报道：“本镇大部分犯罪系黑人所为。黑人犯罪率居高不下。”这当然是一个“事实”，然而它也隐含一个“判断”。这个判断会被很多读者不加思考潜移默化地接受：</div>
+<div></div>
+<div>他们犯罪，是因为他们的种族（黑人）。</div>
+<div></div>
+<div>然而，犯罪率高也可能是因为黑人穷，黑人社区治安差，黑人后代无法得到良好的教育，黑人找工作受到歧视等等，而并非血统、基因所致。</div>
+<div></div>
+<div>要解决问题，首先找出原因，如果原因判断错了，那解决问题就无从说起。所以严肃媒体应当尽量在报道事实的同时，检查是否隐含了这类可能误导读者的前置判断。</div>
+<div></div>
+<div>这几天有个高频词叫“同治回乱”。讲的是同治年间几个省份的回汉种族仇杀，被不少人用于论证伊斯兰的危害。但这原本主要是个苛捐杂税无法承受的治理问题，被大清官员不负责任地引导成一个民族问题（也并非宗教问题），最终闹成大规模的种族仇杀。因为对官员来说，要解决治理问题，很难；搞群体仇杀，推卸责任，相对容易得多。</div>
+<div></div>
+<div><b>4.摆出交流的姿态，但又拒绝交流。</b></div>
+<div></div>
+<div>矛盾尖锐的群体间，找到有能力又有意愿相互交流的人是件很稀罕的事。像不少人在网上抓古兰经的Bug，其实没啥用。你真去找个穆斯林，准备好材料，摆好架势准备辩论，结果对方就在那里说车轱辘话：“我不懂宗教，我只知道我是个穆斯林，我很骄傲我是个穆斯林，我爱伊斯兰教！”你一点办法没有。</div>
+<div></div>
+<div>大家争相对事件表态，但并不提出任何可行的解决方案，各种要求、看法相互矛盾：</div>
+<div>(1).温和穆斯林应该和极端划出界限，声讨（其实到处都有，你不知道罢了）。/ 温和穆斯林只不过是伪装得很好的极端穆斯林。他们貌似谴责暴力，只是为了隐忍，私下扩大教徒比例，避免卡菲勒们警觉。</div>
+<div>(2).温和穆斯林应该和ISIS开战。（其实战斗在ISIS第一线的都是穆斯林）。/ 一个国家如果穆斯林教徒比例足够高，你以为这就是人间天堂了？不，他们很快会自相残杀。</div>
+<div></div>
+<div>对方当然不会再讨论什么，因为全是套套逻辑，怎么做都错。<a href="http://weibo.com/n/%E7%81%B0%E9%B8%BD%E5%AD%90%E9%93%B6%E6%B0%B4">@灰鸽子银水</a> 感叹过：“我曾经在微博贴出了一百多位阿訇和伊斯兰学者共同签名的谴责伊斯兰国的公开信。我收获的是谩骂。人们认为伊斯兰的真实面目是恐怖主义，这种宗教与文明无法并存——那些阿訇在为伊斯兰洗地，只有伊斯兰国和新浪微博网友懂得伊斯兰的真面目。我看不出继续讨论的必要。”我也觉得大家并不想交流，只是想发泄，但长年累月地发泄毫无益处。</div>
+<div></div>
+<div><b>5.绥靖与代价</b></div>
+<div></div>
+<div>最后对恐袭简短谈点看法。</div>
+<div></div>
+<div>对战事播报员来说，巴黎的悲剧每天都在交战国发生（叙利亚政府军的桶装炸弹，胜利阵线的汽车炸弹，ISIS的集体处决），每个月都在周边国家发生（如黎巴嫩、土耳其等，被恐袭多次），所以几乎无感。它迟早会来，数月前那辆火车上就该出大事，结果正好有两个警觉的美国海军陆战队士兵休假坐车，把事摆平了。但欧洲并未吸取多少教训。</div>
+<div></div>
+<div>在ISIS斩首美国记者后，美欧对ISIS宣战，采取瘫痪经济命脉，军援库尔德人，低烈度空袭等方式。这种战术性价比高，个人很欣赏，法国的积极性也无可指摘。问题出在宣战之前。</div>
+<div></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/56fc0caagw1ey57f4k9imj20sg0eejux.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/56fc0caagw1ey57f4k9imj20sg0eejux.jpg" alt="56fc0caagw1ey57f4k9imj20sg0eejux" width="600" height="304"></a></div>
+<div></div>
+<div>配图：二战后全球历年战争死亡人数统计</div>
+<div></div>
+<div>911之后可能是现代史以来最和平的十几年，欧洲更是承平日久。但和平有代价，此前代价主要由美国支付，对热点战区军事压制、政治重建、经济援助，美国为此亏损甚剧。随911影响逐步淡化，军事行动饱受批评，国内公众和奥巴马都转为保守，希望顺利撤军抽身。但保守过度就是绥靖，特别是多年来对叙利亚采取了口头支持反对派实际没行动的的策略，常年绝望的战争是极端组织的最好温床，恐袭就是这项鸵鸟政策的果实。当前要解决的问题既不是恐袭也不是难民，而是要掐掉源头。方法很简单，不停甄别并坚决地军援温和的军事与政治组织，尽快结束战争并帮助建设政体。问题是：代价很重，愿不愿意付？谁付？</div>
+<div></div>
+<div>至于什么欧洲绿化，我并不担心，大家看历史别只看最近几十年，这就不多辩了。</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%86%99%E9%95%BF%E7%AF%87%E8%AE%AE%E8%AE%BA%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%99%E5%88%A9%E4%BA%9A/?category=18271" rel="tag">叙利亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/?category=18271" rel="tag">巴黎恐袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%A6%82%E6%AD%A4%E6%85%88%E5%96%84%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%A6%82%E4%B8%8D%E7%AB%8B/" target="cdt-mirror">旧闻评论 | 宋志标：如此“慈善立法”不如不立</a>
 </h2>
 <p><p>慈善立法在业内传扬了很久，其草案近期在全国人大作了第一次审议，按照惯例，一次不算完，还要继续做开门立法状，不出意料地话，然后再扎进口袋，这事就算是成了。可是通读流传的草案文本，但凡对这个行业抱有希望的，都会觉得如此立法不如不立。</p>
@@ -673,28 +777,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E5%85%9A%E5%91%98%E7%9C%8B%E8%BF%87%E6%9D%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%8F%90%E9%86%92%E4%BD%A0%E4%BB%AC%E8%AF%BB%E5%85%9A%E6%8A%A5/" target="cdt-mirror">精读党报 | 党员看过来 中纪委提醒你们读党报</a>
-</h2>
-<p><p>中央纪委机关报《中国纪检监察报》今天刊发评论文章《党员就该读党报》。</p>
-<p>文章说，有些干部远离主流媒体，天天拿着手机浏览花边新闻、关注小道消息和八卦消息，对党的政策和部署并未放在心上。这种不良风气，在不少地方和单位存在已久，其弊不小。</p>
-<p>最近，曾长期做宣传工作的贵州省委书记陈敏尔（1999年12月至2001年12月，陈任浙江日报报业集团社长、党委书记）批评有的领导干部以不看党报为荣，他说，“有些领导干部自绝于主流媒体，自绝于党报，天天拿着手机浏览花边新闻，关注小道消息和八卦消息，这种情况不改变，党的好政策就不能落地生根、开花结果。”</p>
-<p>陈书记还专门说到，自己不是为哪张报纸发行说话，是为领导干部的学习能力、工作水平提要求。这不是过分的要求，是起码的要求。</p>
-<p>今天，《中国纪检监察报》直截了当说，“是党员就该读党报”。读报君再补充一句：优秀党员就该精读党报。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/dangbao.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/dangbao.png" alt="dangbao" width="549" height="370"></a></p>
-<p>如果还不明白中央精神，请看《中国纪检监察报》全文：</p>
-<blockquote><p>最近，一位省委书记在会上批评一些领导干部以不看党报为荣，对党的声音不上心，对八卦消息很关心，这样下去，迟早要出问题。这番话，其实点出了不少干部在学习上尤其是政治学习上的误区。</p>
-<p>今天，尽管媒体格局已经多元化，但主流媒体依然是中央的重要政策、决策、声音发布和传播的主渠道，干部坚持看主流媒体、看时政新闻，能够及时了解中央精神、获取权威信息，有利于明确要求、开展工作。然而，一直以来，有些干部远离主流媒体，天天拿着手机浏览花边新闻、关注小道消息和八卦消息，对党的政策和部署并未放在心上，学习起来也就是铺铺报纸、做做样子，根本没有当回事，更谈不上入脑入心了。这种不良风气，在不少地方和单位存在已久，其弊不小。</p>
-<p>知者行之始，行者知之成。<strong>是党员就该读党报</strong>，不认真阅读党报，就无法及时掌握党的政策理论，干起事来就会搞不清方向、摸不准路子，从而影响政策部署的落实效果，减弱了老百姓的获得感。就此而言，干部看不看党报和主流媒体，不是个人阅读兴趣的事情，而是一个事关政治学习的重要问题。我们讲遵守党的政治纪律，最核心的，就是坚持党的领导，坚持党的基本理论、基本路线、基本纲领、基本经验、基本要求，同党中央保持高度一致，自觉维护中央权威。没有对中央精神、中央政策、各项部署的扎实学习，就很难做政治上的明白人，也不可能把中央的各项要求真正落到实处。</p>
-<p>邓小平同志曾告诫各级干部：不注意学习，忙于事务，思想就容易庸俗化。如果说要变质，那么思想的庸俗化就是一个危险的起点。这些话今天依然很有警示意义。一些干部对政治学习不上心，有的喜欢关注八卦新闻，有的专心研究官场哲学，有的沉迷于琢磨权术、关系学。这些不良思想倾向，不仅影响本职工作，而且逐渐引起思想上的蜕化，有的甚至走向了贪污腐化的不归路。从近年来查处的贪腐案例看，一些落马官员平时不加强政治学习，不懂法律、不讲规矩的大有人在。这方面的教训值得引起注意。</p>
-<p>学海无涯，学无止境。对于领导干部来说，学习更是一种责任、一门必修课。现在改革发展的问题不少、挑战不小，反腐倡廉的任务也很重，更需要加强学习尤其是思想政治学习，努力在思想和行动上与党中央保持一致，才能明确方向、激发干劲，做忠诚、干净、担当的好干部。</p></blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E5%85%9A%E5%91%98%E7%9C%8B%E8%BF%87%E6%9D%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%8F%90%E9%86%92%E4%BD%A0%E4%BB%AC%E8%AF%BB%E5%85%9A%E6%8A%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%B2%BE%E7%A5%9E/?category=18271" rel="tag">中央精神</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +788,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +798,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

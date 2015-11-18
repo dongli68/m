@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%A6%82%E6%AD%A4%E6%85%88%E5%96%84%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%A6%82%E4%B8%8D%E7%AB%8B/" target="cdt-mirror">旧闻评论 | 宋志标：如此“慈善立法”不如不立</a>
+</h2>
+<p><p>慈善立法在业内传扬了很久，其草案近期在全国人大作了第一次审议，按照惯例，一次不算完，还要继续做开门立法状，不出意料地话，然后再扎进口袋，这事就算是成了。可是通读流传的草案文本，但凡对这个行业抱有希望的，都会觉得如此立法不如不立。</p>
+<p>提出慈善法立法动议据说有二十年，此前一直在民政部主导下，所以进展缓慢。这种“缓慢”被当作是立法效率不高的表现，现在郊游全国人大内政法务司主导，所以一年赶上十年，立法效能受到称赞。可是对照出来的草案文本看，如此简单地评价立法效率并不公平。</p>
+<p>民政部时期的立法之所以满，兴许是主管部门更了解此间立法的种种困难，会周全地评估立法条件是否成熟，业内大佬对立法的顾虑也能被倾听——这种立法上的慢，体现的是立法的慎重。相较于现在对立法效率的夸赞，可能掩盖的是立法的缺陷。</p>
+<p>自从慈善立法重启进程以来，公益界开过许多次民间务虚会，摆明是要为立法进言，北大等方面的公益立法公共知识分子还草拟了民间版本的慈善法草案，供立法机关参考。可是从现在的草案文本看，公益界的建言建议并未造成影响，立法在另一个轨道上行进。</p>
+<p>一言以蔽之，这个轨道就是慈善立法的轨道，而不是公益立法的轨道。慈善与公益的分野与分流本是大陆现成的格局，但从立法名称看，是要从慈善来涵盖公益，是要从慈善的定义限制公益的可能。这样的立法方向，罔顾现实国情，只剩下政治正确了。</p>
+<p>慈善是对财富的重新配置，公益是通过系列手段来改变社会。慈善是保守的，公益是进步的。相应地，与慈善对应的是对体制的呵护，公益是要长出社会新态。在这样的情况下，立法原则更多地被拉回慈善的旧领域，却对公益现实及探索，做出了不利的限制。</p>
+<p>草案一开始对慈善组织的界定，就显出了它不是要鼓励行业，而是要对行业既有的发展做出规训。可以想见，如果真的如此偏狭的口径立法，或许无改慈善存量，但对社会增量部分的公益事业，将是极大的损害。如果立法不是为了扶持，这样的立法有何意义？</p>
+<p>这还只是一个例子。通篇看下来，慈善草案的立法理念尚未脱离低级慈善的思路，回避了早就超越慈善2.0的公益思路。不客气地讲，这样的立法思路是落后的，甚至是愚昧的。这也是公益界强烈呼吁立法者变换思路的原因所在，也许更应该立一个公益促进法更有价值。</p>
+<p>这种建立在陈旧的慈善思路上的立法，甚至都不能回应慈善界已经发生的巨大变化。易言之，如此立法，不仅不能满足公益需求，甚至与慈善现实相脱节，这是立法者强行立法的后果之一。也就是说，只要这个法既遂，它从生效的时刻开始，就落伍了。</p>
+<p>大陆的慈善行业多有改观，其与公益的结合愈发深厚，而在慈善商业化及公益的资本化方面，都有了长足的探索——正是这些方面，需要立法方面的支持跟得上，给予精确的支撑。但要是按照现在这个草案硬行立下法去，不说慈善与公益创新毁于一旦，起码相当不利。</p>
+<p>尤其是在社会企业这一块，公益行业始终呼吁要放开门槛，放宽对盈利的刻板偏见，放松管制，以便让社会企业资本能够进入，从而搞活社会企业，从而解决包括教育、养老等在内的迫切问题——这些方面，政府无为，却又限制社会力量，这样的立法不是好事。</p>
+<p>还例如在筹资这块，慈善法草案的规定愚笨而又啰嗦。应该讲，以慈善与公益的实践而言，这一块的法制空白早就被恰当的具体协调行为所代替。不能公开筹资的NGO，可以借助有公募资格的慈善公益组织展开，草案画蛇添足地做事后追认，毫无必要。</p>
+<p>再如对待互联网的募资渠道上，草案僵硬地划出等级制，让互联网筹资渠道成为某种“特供”，只允许有资格的使用。这种僵化教条般的立法规定，不仅体现了对慈善公益立法的无知，也体现出对互联网的习惯性恐惧。人们不仅会问，这到底是一帮什么人在立法？</p>
+<p>总的来看，草案对这几年慈善与公益的社会创新态势，缺乏了解与认知，直接导致立法倾向错误，具体规定脱节实际，也与慈善公益的趋势格格不入。对照立法草案对社会创新的回避、规训、遏制、禁止等立场可见，该草案是用20世纪的法管21世纪的事。</p>
+<p>整体上看，现有的慈善立法一点儿也不“慈善”。其对开放社会所保持的警惕态度、对慈善公益创新所持的落后视野、对慈善公益趋势的无动于衷，都体现了它与它所宣扬的目的背道而驰。如果立法“硬顶上”，其与现实的巨大落差，必然要用慈善公益行业持久的痛苦去弥补。现今看来，终止立法进程，这已是慈善立法天大的“慈善”行为。</p>
+<p>2015/11/18</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%A6%82%E6%AD%A4%E6%85%88%E5%96%84%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%A6%82%E4%B8%8D%E7%AB%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7/?category=18271" rel="tag">全国人大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%88%E5%96%84%E7%95%8C%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">慈善界立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%88%E5%96%84%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">慈善立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%94%BF%E9%83%A8/?category=18271" rel="tag">民政部</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%AE%A2%E5%88%B0%E5%BA%95%E5%AF%B9isis%E5%8F%91%E8%B5%B7%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%8C%9B%E6%94%BB%EF%BC%9F/" target="cdt-mirror">“中国红客”到底对ISIS发起了什么样的“猛攻”？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A21.png" alt="红客1" width="400" height=""></a></p>
+<p>近日，微博知名自干五账号<a href="http://weibo.com/u/1828113247">@冰下有鱼</a> 发布了一条“正能量”的消息，称“中国红客”已向 ISIS 宣战，引来大量“爱国青年”的热情转发。数字时代编辑截图时，该条微博已收到6万多次转发和3万多次赞。@冰下有鱼 目前已将该微博删除，称自己曾作出转发过6万后自行删除的承诺。</p>
+<p>微博中流传的所谓“中国红客攻击ISIS”的画面截图和视频，基本都来自网络安全公司 Norse 制作的<a href="http://map.norsecorp.com/">Norse Attack Map</a>平台。甚至有人声称围观“攻击过程”让他／她“热泪盈眶”。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A24.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A24.png" alt="红客4" width="450" height="445"></a><p>(“围观”得“热泪盈眶”)</p></div>
+<p>然而事实是，<strong>从Norse Attack Map提供的信息中其实完全无法得知攻击者里是否包含所谓“中国红客”，有关被攻击方的信息更简略到只有所在城市，而且连任何可以用来分析的历史纪录都没有</strong>（相对其他类似平台，Norse提供的信息已经算相当详细了）。</p>
+<p>黑客组织 Anonymous 和 GhostSec 都曾<a href="http://www.ibtimes.co.uk/anonymous-exposes-us-uk-companies-hosting-pro-isis-websites-1495426">指责</a>过云服务提供商诸如 CloudFlare 在“保护”ISIS，因为 ISIS 的许多宣传网站都使用了CloudFlare的云服务，但该公司拒绝单就内容问题而关闭网站，认为那是<a href="http://www.theregister.co.uk/2015/11/18/cloudflare_ceo_rubbishes_anonymous_claims_of_terrorist_support/">审查行为</a>。</p>
+<p><strong>简单来说，就是ISIS的网站压根儿就不在一个固定的地区。</strong>那些声称“围观”了攻击过程的爱国青年，<strong>根本就不知道来自中国的攻击者是谁、到底都攻击了些什么东西</strong>(*)<strong>。</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/live-attacks.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/live-attacks.png" alt="live attacks" width="550" height="210"></a><p>(Norse Attack Map 网页截图)</p></div>
+<p>这里值得一提的是，Anonymous目前为止的行动基本<a href="https://twitter.com/opparisofficial">集中在</a>关闭与ISIS有关联的Twitter帐号上，而 GhostSec 则<a href="http://www.newsbtc.com/2015/11/14/isil-militants-linked-to-france-terrorist-attacks-had-a-bitcoin-address-with-3-million-dollars/">声称</a>该组织已成功入侵并关闭数个 ISIS 的比特币钱包。<strong>遗憾的是，目前还没有任何信息可以说明“中国红客”到底具体干了些什么。</strong></p>
+<p><em>附@中国红客联盟 证账号否认攻击ISIS的微博：</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A2%E5%BE%AE%E5%8D%9A%E5%A3%B0%E6%98%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A2%E5%BE%AE%E5%8D%9A%E5%A3%B0%E6%98%8E.png" alt="红客微博声明" width="550" height="242"></a></p>
+<p><em>制作黑客大战画面，请移步<a href="http://map.norsecorp.com/">Norse Attack Map</a>：</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A25.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A25.png" alt="红客5" width="575" height="366"></a></p>
+<p>更多不同风格的<strong>黑客大战画面素材</strong>（<a href="http://krebsonsecurity.com/2015/01/whos-attacking-whom-realtime-attack-trackers/">来源</a>）：</p>
+<ul><li>Norse Corp.公司的 <a title="http://map.ipviking.com/" href="http://map.ipviking.com/" target="_blank">IPViking</a></li>
+<li>FireEye 的 <a title="http://www.fireeye.com/cyber-map/threat-map.html" href="http://www.fireeye.com/cyber-map/threat-map.html" target="_blank">Cyber Threat Map</a></li>
+<li>Arbor Networks 的 <a title="http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=16434&view=map" href="http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=16434&view=map" target="_blank">Digital Attack map</a></li>
+<li>Kaspersky 的 <a title="http://cyberwar.kaspersky.com/" href="http://cyberwar.kaspersky.com/" target="_blank">Cyberthreat Real-time Map</a></li>
+<li>Anubis Networks 的 <a title="http://globe.cyberfeed.net/" href="http://globe.cyberfeed.net/" target="_blank">The Cyberfeed</a></li>
+<li>The Honeynet Project 的 <a title="http://map.honeynet.org/" href="http://map.honeynet.org/" target="_blank">Honey Map</a></li>
+<li>OpenDNS Security Labs 的 <a href="https://labs.opendns.com/global-network/">Global Network</a></li>
+<li><a href="http://ocularwarfare.com/ipew/?allfx=1">PewPew</a></li>
+</ul><p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A22.png" alt="红客2" width="500" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A23.png" alt="红客3" width="500" height=""></p>
+<blockquote><p><a href="http://weibo.com/1882820021/D4iGIiECB">@林沛满</a>：既然还有朋友at我，就再说几句：1.中国政府不允许一个真正有技术实力的民间红客联盟存在。2.红客和IS没有价值观冲突，就算有技术实力也不会攻击它。3.中国真正有良心有水平的黑客都喝过茶了。4.瞎编条假消息就有几万转发跪舔，不得不说墙内很多人被关傻了。</p></blockquote>
+<p><em>(*) 所谓“攻击方”，也包括来自被远程操控而不自知的“僵尸”电脑（<a href="http://krebsonsecurity.com/2015/01/whos-attacking-whom-realtime-attack-trackers/">来源</a>）</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%AE%A2%E5%88%B0%E5%BA%95%E5%AF%B9isis%E5%8F%91%E8%B5%B7%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%8C%9B%E6%94%BB%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%86%9B/?category=18271" rel="tag">中国网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%BA%A2%E5%AE%A2/?category=18271" rel="tag">网络红客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%95%99%E8%82%B2%E9%83%A8%E4%BF%AE%E8%AE%A2%E5%8D%81%E5%B9%B4%E5%89%8D%E8%A7%84%E5%AE%9A-%E6%8B%9F%E8%A6%81%E6%B1%82%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC/" target="cdt-mirror">澎湃新闻 | 教育部修订十年前规定 拟要求高校辅导员必须是党员</a>
 </h2>
 <p><p>教育部日前在官网公布了《普通高等学校辅导员队伍建设规定》的修订情况，并向各地教育行政部门及部属高校征求意见。记者了解到，与原规定相比，新规对高校辅导员队伍建设的要求和措施更加具体，对辅导员队伍的政治要求更严格，要求高校辅导员必须是中共党员，并且“不得有损害党和国家利益以及不利于学生健康成长的言行。”</p>
@@ -634,86 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E6%8D%8D%E5%8D%AB%E7%94%9F%E5%91%BD%E5%92%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E6%88%98-%E8%AF%84%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/" target="cdt-mirror">BBC | 捍卫生命和自由之战——评巴黎恐怖袭击</a>
-</h2>
-<p><p><strong>巴黎再次遭袭！恐怖分子疯狂滥杀无辜，造成严重的人员伤亡！法国历史上黑暗的一页，文明世界历史上严酷的一夜。或许，一些对情况不太了解的人们会再次将其简单地归结为文明的冲突，宗教的对立，法国的傲慢，但事实上， 这场屠杀所显示的是一场文明与野蛮的冲突，人性与反人性的抗衡，而法国正在进行的这场捍卫生命和自由价值的战役，其成败关系到法兰西共和模式的存亡，也必然关系到世界安危以及人类文明的未来。</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151115132806_french_flags_640x360_epa_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151115132806_french_flags_640x360_epa_nocredit.jpg" alt="爱丽舍宫法国国旗绑黑丝带，向暴利袭击事件中的遇难者表示哀悼。" width="600" height="337"></a><p>爱丽舍宫法国国旗绑黑丝带，向暴利袭击事件中的遇难者表示哀悼。</p></div>
-<p>前所未有的恐怖袭击</p>
-<p>很久以来，法国的反恐专家甚至是社会大众，对法国有一天可能会遭受这类恐怖攻击是有精神准备的：在法国电视二台的现场评论中，一个前特种部队的官员透露：从2001年开始，特种部队就已经有如何面对腰间捆旁炸带的自杀恐怖分子的训练。——这或许也就是昨日在特种部队冲进情况不明的剧场解救人质时，能够在恐怖分子将观众当作人墙向前推进，在离特种部队人员三米远的地方引爆炸弹的情况下，将其中一名击毙，且未伤及人质和自身，使其未能引爆炸弹，造成更大伤亡。</p>
-<p>但显然，鉴于法国这种自由开放的国家性质，希望法国从根本上避免遭受这种攻击是不现实的，尽管我们知道，反恐部门每日都在进行艰苦的斗争，偶尔，会有关于消除一次恐惧袭击的报道，但绝大多数情况下，即使是胜利，也都在无声的战场进行着的。</p>
-<p>11月13日夜晚发生的恐怖袭击，在法国历史上前所未有，在恐怖主义历史上也是少见。六处发生袭击，尤其是自杀式恐怖袭击，这在法国本土还是第一次。而且，最重要的是，恐怖分子滥杀无辜，选择球场，剧院，咖啡，饭店大开杀戒，试图造成社会的普遍恐惧，这不能不说，是恐怖主义的一种新的升级版。当这一切终于发生，人们心理上还是受到极大的震撼。</p>
-<p>在这些象征法兰西自由的生活方式的地点，选择在一个温馨的周末不分老幼妇孺进行攻击，这些恐怖分子以一种最极端的方式向世人再次清楚地展示他们反文明、反人性的特征。</p>
-<p><strong>伊斯兰与文明冲突</strong></p>
-<p>有人习惯性地将这类事情归结为宗教间的冲突，但实际是，伊斯兰宗教极端势力不仅敌视西方，也敌视任何在他们眼中所谓的异教者apostat，叛徒。他们杀害最多，迫害最多的，恰恰是伊斯兰世界那些不信服他们的教条，不服从他们统治的伊斯兰温和民众。不加区分地将伊斯兰整体地作为一种势力来看待，既不复合事实，也是极其危险的。</p>
-<p>一些恐怖分子，如鼓吹“第三种圣战”“全世界伊斯兰的抵抗”的恐怖主义策略家Abou Moussab Al-Souri 正是这样设想的：要在西方社会通过小股的恐怖活动造成恐怖氛围，将社会敌视伊斯兰的氛围推至极致，以便分裂社会，造成大规模的混乱，瓦解西方。此次袭击，恐怖分子要达成的目的之一，显然也是在此。</p>
-<p>但需要了解的是，世界上大部分的穆斯林民众并不赞同这种极端宗教思想，有些不仅身受其害，且也在通过各种形式在与其做艰苦的斗争。在那些广大的以伊斯兰文化为主体的地区，到处都有以伊斯兰为名滥杀无辜的极端恐怖主义者，也到处都有那些以伊斯兰的名义抗拒、抵制这些极端潮流，包括争取民主和自由的人们。在法国，占人口7—8% 具有穆斯林文化背景的民众，有些象在法国这种世俗社会里成长的其他宗教的一些人一样，已不再信教；有些即使信教，绝大多数也是遵纪守法的公民，接受并捍卫共和的价值，和平地生活，工作，为社会做着贡献。</p>
-<p>回顾一下年初“查理周刊”和犹太人小超市被袭事件时的几个细节，或许能让我们对此有更好的体认：当两个凶手袭击“查理周刊”后，在逃遁的路上残酷杀害的那个正在巡逻的警察Ahmed，正是出身穆斯林家庭。父亲早逝，他作为长子努力向上，照顾母亲，刚刚通过晋升高级警官的考试，将去履新……他的弟弟在追悼仪式上痛苦地呼吁人们不要将事情混淆，“那些疯狂的恐怖分子，即没有肤色，也没有宗教！”</p>
-<p>在那个被劫持的犹太人开设的小超市里，来自马里的无正式身份的穆斯林青年Lassana Bathily，因工作认真，与犹太老板建立了良好关系，老板特意在店中为他开辟一小室以便他每日的祈祷，在那危急的时刻，他冒生命危险掩护人质，利用所知通道只身到店外给警方传递信息……</p>
-<p>而更早两年前发生在图卢兹的恐怖袭击，恐怖分子Mohammed Merah 蓄谋屠杀的受害者之中也有一个穆斯林士兵，用以证明他对叛教者的惩罚。正如这次在Bataclan 剧场幸存的Europe 1 电台记者Julien Pearce 在接受记者采访时所说：“（恐怖分子）他们不管那被杀的是什么人，天主教徒，犹太人还是穆斯林，他们就是在那里乱杀人”。</p>
-<p><strong>死亡的意识形态</strong></p>
-<p>如果说年初“查理周刊”和犹太人Hyper Cacher市场人质劫持事件中，那些恐怖分子还试图以反犹和为受亵渎的先知报仇为口实，对恐怖行为辩解，此次，这些恐怖分子已毫不遮掩地露出其杀戮的本质 。——在巴黎11区街头饭店屠杀现场开车经过的一位妇女向记者展示那满是弹孔的汽车，她车上四位都是妇女，恐怖分子毫不犹豫地向她们射击！ 在Bataclan剧场，幸存者描述的恐怖分子冷血地杀戮观众的场面，超出正常人的想象！</p>
-<p>但也正因此，恐怖主义的谋划者或许某种程度要失算了：即使在伊斯兰世界，他们也只会日益孤立！整个伊斯兰世界的谴责，已经展示了这种前景。伊朗总统在就巴黎恐怖袭击的讲话中将这些行为直接称为“反人类罪”！</p>
-<p>对这些恐怖分子，死亡，造成尽可能多的死亡， 就是他们所有的目的，生存的目的以及死亡的目的。ISIS运动是一种具有死亡冲动、嗜血的极端运动。所有对ISIS的意识形态、宣传洗脑的话语有了解的人都知道，他们给年轻人洗脑、论证参加恐怖行动的主要论述就是两个：一可以免去许多人以往犯下的罪行和过错，二可以上天堂。这给那些在寻找生存意义的年轻人尤其是那些犯过各种刑事罪行的年轻人以某种精神解脱，赋予其某种存在的意义。这也是为何，在这类恐怖分子中，我们常看到类似的人生轨迹，前此袭击“查理周刊”的恐怖分子是如此，此次刚刚被鉴定出的一个参与了袭击的本土恐怖分子，也是一个有过八次刑事记录的罪犯。</p>
-<p>对这些恐怖分子，他人的死亡就是他们的意义所在。因此，他们每次都要想尽办法升级恐怖规模，如果能将人间变成地狱，就是他们想象的天堂或者是达至天堂之路。</p>
-<p>法国特种部队前负责人在参与电视评论时提及：对待一个就是想死，以死亡为其价值实现的恐怖分子，反恐的任务异常艰难。是的，这将会是一场持久的战役，也还会经受牺牲。但恐怖主义可以暂时达成某种目的，却永远不会最终得逞：因为，即使有一时的恐惧，但生命的力量终将会引导让人们继续向前，战胜恐惧，拥抱生活。法国人，所有世界上的文明人，都将别无选择，除了积极行动，以各种方式对抗恐怖主义者，更要以各自对生活、生命的热爱，战胜以死亡为宗旨的恐怖主义。</p>
-<p><strong>叙利亚的漩涡</strong></p>
-<p>在些混乱不堪的有关法国与伊斯兰世界、叙利亚的关系说法中，有些不知实情，常以“环球时报”的视角认识世界，受阴谋论宣传影响甚深的人觉得，任何地方发生抗议独裁政权的事件，都是西方的阴谋。是法国或西方要搞乱叙利亚，支持推翻阿萨德政权，现在是自讨苦吃。这显然是对事实毫无所知的臆断。</p>
-<p>事实上，法国的政治家们也不都是些不食人间烟火，全然不懂现实政治的幼稚家伙。中东和北非地区的稳定自然与法国的利益高度相关，法国政界不会轻率到去支持什么对这些国家政权的颠覆活动，尽管也并不乐见这些政权对人权的践踏。因为那样并不符合法国的利益。也因此，一些信奉现实主义政治原则的政治人物也一直主张要与伊斯兰世界的一些威权政府保持良好关系。或者人们已忘记，就是在08年，虽然遭许多人权人士的批评，阿萨德还曾应当时的总统萨尔科奇的邀请到访过法国。</p>
-<p>但是，当人们走上街头，这同一个阿萨德向抗议的民众大开杀戒，甚至动用国际禁止的毒气时，作为以主张民主和人权作为立国之本的法兰西，不去谴责屠杀，不去站到抗议的人民的一边，显然是不可想象的。在那种情形下，任何政治家都不可能不做这样的选择，那不仅关系道义，也关系到其在公众舆论中作为一个负责任的民主政治家的形象。</p>
-<p>这也同样适用利比亚：当卡达菲宣布放弃恐怖袭击，就以往恐怖袭击进行赔偿的后，也曾破例地到访过法国。但当利比亚人民走上街头抗议，面临屠杀时，法国不支持抗议的人们，那也显然不会是人们认定的法国。尽管我们知道，今天利比亚的转型面临严重的困难，但我们不能由此反证，任由卡达菲这些人去屠杀，袖手旁观会是一个道义上、政治上的正确选择。</p>
-<p>政治选择尤其是国际政治上的选择常常是两难的，也不见得能全然预估后果，这就是历史。但需要清楚的是：归根结底，这些国家今日转型出现的困难事实上根源都在转型之前，在垮台、动荡前的政权没能及时地回应人们的要求，进行必要的改革，以至于遗患后人。用脓疮破裂后的惨状来证明其破裂前的美好是不能成立的，最重要的教训，恰恰是要进行恰当适时的改革。否则将会酿成大的悲剧，对人民来讲是如此，对当政者亦如然。当然，对转型后具有的困难有更清醒地认识，更好的准备，也是一个值得各方高度重视的问题。</p>
-<p>当阿萨德政权在人们的抗议下摇摇欲坠的时候，象所有那些独裁统治者一样，阿萨德不惜一切以保政权，哪怕是最无耻的方式。此次巴黎遭袭后，他发表谈话说：是法国对叙政策助长了伊斯兰极端势力的扩张。而真实的情况是，是阿萨德为了维系其在国际政治格局中的地位，也阻挡西方对反对势力可能的支持，数月间按兵不动，任由力量本不大的ISIS组织在一些地区坐大，借此与国际社会讨价还价，抬高自己的价值。更可恶的是，为给国际社会制造麻烦，还大开监狱，释放在押的伊斯兰极端恐怖分子，——包括上面提及的原籍叙利亚、已被巴基斯坦情报机构逮捕，移交叙利亚的Abou Moussab Al-Souri。……时至今日，我们不能说阿萨德没有部分达成其目的。</p>
-<p>权力的真空、无政府的状态可以为极端势力趁势而起提供条件，但不给不同的利益以正常表达机会、习惯以镇压的方式统治的威权或极权政权，最终也都很可能从另一角度为各色各样的极端势力和观念准备土壤。叙利亚的事态和ISIS 的崛起，再次证明了这一点。再以Abou Moussab Al-Souri为例，这个学机械的青年学生，是在1982年阿萨德的父亲老阿萨德对叙利亚人的抗议展开大屠杀面前开始转而走向极端的。</p>
-<p>此次袭击巴黎，恐怖分子宣称是报复法国战机最近轰炸ISIS 在叙利亚的恐怖分子训练营。但那之前，袭击Hyper Cacher 的恐怖分子已声称是受IS 指示，而情报也显示，那些培训营里培训的恐怖分子相当一部分也是准备要来攻击法国的。早在八月中，法国反恐检察官Marc Trévidic 已受理了一个从叙利亚回来，接受指令要在剧场制造袭击的恐怖分子的案例。早先ISIS已发出号召，要一切到叙利亚参与其事的各不同国度的恐怖分子回归本国发动恐怖攻击，最近在黎巴嫩、也门等发生的包括此次对法国的袭击，或许都只是第一波。</p>
-<p><strong>现代性的新挑战</strong></p>
-<p>现代文明的本质是自由，自由的价值、生活方式和制度。如果我们从一个大历史的角度审视，或许，现代文明今天正面临二十世纪左右极权主义衰退后的一波新的挑战。柏林墙倒塌后的一个浪漫时代已经结束。</p>
-<p>也是从这个角度，或许我们可以更好地理解为什么宗教极端势力希望摧毁法国。因为，且不论历史上的种种过往利弊，某种意义上讲，法国的共和模式在政教分离原则，公民平等权利的确定上显现的更为彻底。也因此，因历史的原因在法生活具相当数量的伊斯兰族群如能通过自身的实践，推动伊斯兰文化成功地完成这种与现代原则的嫁接，形成某种新的现代伊斯兰生活方式，且影响伊斯兰世界，那将绝不是原教旨主义者所希望见到的。</p>
-<p>也是因同样原因，北非伊斯兰世界突尼斯的前途也同样意义重大，14日，在如此严峻的形势下，罗朗德依旧按计划在爱丽舍宫接待了到访的突尼斯总统，以示相互的支持。</p>
-<p>作为对极权主义世纪的反弹，认同意识的强化、主体意识的高涨是最近几十年一个世界性的趋势。一方面它强化了对自由、权利、民主的追求，但另一方面，也是在这种趋势中，各种文化中原教旨主义也趁势而起到处泛滥，在以共产主义为代表的左翼乌托邦思想世界性的退潮后，通过许诺一种宗教乌托邦诱惑吸引那些对现实不满、寻求存在意义的年轻人，给某些族群提供一种社会“理想”。</p>
-<p>只有从这个视角，我们才能更好地理解法国捍卫共和、世界范围内回应恐怖主义挑战所面临的任务之艰巨。近些年，有关法国的认同问题，如何捍卫政教分离的原则，如果处理好族群间的关系等一直是法国公共议题中最重要的论题之一，法国在捍卫自己的共和原则的同时，也面临各种体制更新，治理再造的挑战——这里顺便说一句，那个所谓 “法国禁止伊斯兰妇女佩带头巾”的说法完全是有意无意的误传和误解。当初制定那个法律确实与某些穆斯林团体和家庭，强迫女孩子们佩带头巾的趋势有关，但该法律是针对所有宗教，是禁止在公共机构如中小学佩带显著的宗教标识，非只针对伊斯兰，也不限日常生活，除了那种遮蔽整个妇女面孔和身体的黑袍之外。</p>
-<p>所有的文明都具有极端的因子，以现代历史来看，欧洲文化中出现纳粹，儒家文化背景的中国有过文革的疯狂，以革命为名的屠杀。因此，在传统文明向现代转换中，常常伴随激烈的变动，在何种因素的媒介刺激下，在何种情境中会产生极端化趋向？怎样吸收现代文明要素，进行文化更新？对许多文化来讲依然是些未完成的课题。某种意义上讲也会是一个普遍的恒久的话题。</p>
-<p>虽然我们可以说，将恐怖分子与伊斯兰划等号是荒谬的，但正如一些伊斯兰世界的改革知识分子所强调的那样，恐怖分子在试图绑架伊斯兰，伊斯兰如何完成现代转型，依然是伊斯兰世界最重大的挑战。当然，在一个全球化时代，外部如何处理与伊斯兰世界的复杂关系，更好地给这种转型提供帮助，也是需要深思的。</p>
-<p>近四十年前苏联出兵阿富汗，十几年前美国出兵伊拉克，都是伊斯兰世界地缘政治中影响深远的历史事件。前者激活新一波国际伊斯兰原教旨主义运动，后者在“九一一”刺激下、在新保守主义思潮指导下所作出的牛仔般的鲁莽反应，尤其是些策略上的失误——如解散伊拉克军队等，客观上给新一轮的恐怖主义扩张提供了条件：是在美军的战俘营里，基地组织和伊拉克军队的一些精英在民族主义和宗教的旗帜下完成了结盟，构成今日ISIS 领导层的主体。</p>
-<p>在这些各种力量发生巨大撞击得历史事件中，温和力量的边缘化，如阿富汗的民族英雄马苏德被极端势力暗杀，标志着这些地区伊斯兰现代化悲剧性的挫折，也为那些以这些地区为基地向世界输出恐怖主义的极端力量提供了可能。——马苏德被暗杀后数日，基地组织开始了对美国“九一一”袭击。</p>
-<p><strong>巴黎：一个二十一世纪的首都？</strong></p>
-<p>近八十年前，在躲避纳粹流亡巴黎的岁月里，德国思想家本杰明（Walter Benjamin）完成了他那部不朽的近代文化分析巨著“巴黎：十九世纪的首都”。年初，1月11日，当着几十个属于不同文化、甚至相互具冲突矛盾国家的元首、上百万巴黎人走上街头， 宣示他们反对对恐怖 主义的决心时，也曾有媒体称“今日巴黎是世界的首都”。</p>
-<p>现在，恐怖分子选择在当初游行时集聚了最多人众的伏尔泰大街，以族群的融洽、年轻人喜爱的小区下手，显然是对那场游行的一个象征性的报复。而巴黎，能否再次经受考验，不向死亡的威胁屈服，用她对生活、自由和美的热爱，用她的宽容精神，制度的更新调整，为世人确立一个新世纪的范式呢？</p>
-<p>这是一场特殊的战争，关系法兰西共和模式的存亡，也关系到她代表的某些价值的命运。星期一，罗朗德总统将在凡尔赛宫召集上下院所有议员集会，所有对法国历史有所了解的人都知道这意味着什么：那将是一场特殊的民族总动员。法国人已别无选择，象当年抵抗纳粹法西斯一样，迎战。可能还会有局部的牺牲和失败，但最终要用武器，也用笔、爱、美、文明去战胜死亡，代表死亡的恐怖主义。</p>
-<p>在这场战争中，世上谁能全然置身事外？请记住，这种极端宗教恐怖主义运动如同当初的纳粹法西斯运动一样，是一种国际性的，也绝不会仅满足于对西方的攻击，任何不共享他们的教义和生活方式的人们终将要成为他们攻击的对象，那只是个时间、机会、需要的问题。这是由他们的意识形态所决定的。因此，战胜这运动，也必须是国际性，国际性的支持与合作。那种心存”坐收鱼翁之利“的短视，最终会让人偿到苦果。历史早已证明这一点。</p>
-<p>从古至今，人类用文明应对死亡，战胜死亡，也在这过程中更新文明，用自由升华生命。在这场新世纪捍卫生命和自由的斗争中，我们都别无抉择！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E6%8D%8D%E5%8D%AB%E7%94%9F%E5%91%BD%E5%92%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E6%88%98-%E8%AF%84%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%99%E5%88%A9%E4%BA%9A/?category=18271" rel="tag">叙利亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/?category=18271" rel="tag">巴黎恐袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%85%A8%E9%9D%A2%E5%B0%81%E6%9D%80%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90-81%E4%B8%AA%E9%9D%9E%E6%B3%95%E5%BA%94%E7%94%A8/" target="cdt-mirror">网易新闻 | 广电总局全面封杀电视盒子 81个非法应用被屏蔽</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509047a41a_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509047a41a_550.jpg" alt="201511161509047a41a_550" width="550" height="823"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/2015111615090632584_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2015111615090632584_550.jpg" alt="2015111615090632584_550" width="550" height="865"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161512164dea2_550.jpg"><br></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509080f572_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509080f572_550.jpg" alt="201511161509080f572_550" width="550" height="876"></a></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161512164dea2_550.jpg" alt="201511161512164dea2_550" width="550" height="834"><a href="http://chinadigitaltimes.net/chinese/files/2015/11/20151116150912bd294_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/20151116150912bd294_550.jpg" alt="20151116150912bd294_550" width="550" height="271"></a></p>
-<p>近期，不少天猫魔盒的用户反映自己盒子上面的第三方直播应用已经消失不见，不要着急，其他的盒子早晚也跑不了。因为在时隔一年后，广电总局再对电视盒子“痛下杀手”。</p>
-<p>11月6日，广电总局为了管理电视盒子市场的混乱，推出行规首批屏蔽81个非法应用。这对于“内容为王”的互联网厂商推出的盒子的打击无疑是釜底抽薪。</p>
-<p>广电总局针对网络电视和电视盒子再次发布禁令，要求七大牌照商对照包括“电视机和盒子不能通过USB端口安装应用”在内的四点要求自查自纠。这四点要求如果厂商做不到就取消其播控权。</p>
-<p>四点具体要求是：2015年初以后发布的机型严禁支持USB安装应用;严禁内置可访问互联网的浏览器;严禁应用商店或其他手段推送聚合应用软件、视频网站客户端、电台应用软件;严禁应用商店或其他手段推送可通过手机间接遥控播放视频的遥控器应用。这对于已经“减肥”过数次的盒子再次遭到剐肉。消费者购买的盒子如今日渐沦为家庭中的摆设。</p>
-<p><strong>广电部门已经为互联网盒子挖好坟墓</strong></p>
-<p>其实，每个人在家中都有一个“专门用来看电视节目”广电数字机顶盒。但是随着互联网的发展，网速的加快以及互联网视频资源的丰富，都让这个广电的盒子的用处日益减弱。可以说，目前的互联网盒子如果在政策上支持的话，可以大部分甚至完全的取代传统的数字机顶盒的内容。</p>
-<p>广电总局在互联网智能电视以及盒子方面感到了无比的压力，虽然此次整顿活动为了净化网络环境，保证网络视频可管可控，但是业内有人士指出，这是广电总局为了争夺用户而不得不为之的留住用户的行为。广电总局的一系列措施的出台，也使得电视盒子从炙手可热变得逐渐沦为“鸡肋”。</p>
-<p>除了政策上的打压以外，广电总局还在积极探索自己的智能化道路，以期能够在未来追赶上互联网盒子的步伐，拉小差距甚至反超。</p>
-<p><strong>1.TVOS1.0的诞生</strong></p>
-<p>TVOS1.0是广电总局专门为智能电视以及盒子等设计的操作系统，兼顾了现有操作系统的技术，比如安卓等。TVOS1.0系统市场化后将对电视机上的应用进行可管可控，以后可能会强制目前的盒子厂商使用。但是其体验并不完善，而且封闭性比较高，不利于互联网盒子的快速发展，目前也并未得到大范围推广与普及，但是相信在政策的压力下，诸如小米、阿里等互联网盒子也要不得已而为之，而各家究竟有多大的选择权尚未可知。</p>
-<p><strong>2.DVB+OTT</strong></p>
-<p>构建DVB+OTT模式，是广电总局探索的一个新道路，目前看来前途也非常的光明。其模式就是在传统的广电资源内容中加入互联网的资源内容，目前已经在全国多地进行了试点。而包括歌华在内的数家牌照商，可以说再一次成为了香饽饽，这里就不再深究了。</p>
-<p>目前广电的做法引起了不少人的关注，尤其是互联网行业对于广电的政策动态非常关心，这也影响到了实实在在的消费者的体验。目前三网融合的大背景下，广电总局如何使用好自己的权利，避免选手与裁判员同时兼任留人话柄就要广电自己好好研究了。如何从承载各种互联网智能服务的盒子学习到对于用户需求的把握目前看来才更加重要。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%85%A8%E9%9D%A2%E5%B0%81%E6%9D%80%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90-81%E4%B8%AA%E9%9D%9E%E6%B3%95%E5%BA%94%E7%94%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86/?category=18271" rel="tag">电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%92%E5%AD%90/?category=18271" rel="tag">盒子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,79 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E6%80%BB%E7%BB%9F%E5%85%88%E7%94%9F-%E7%BE%8E%E4%B8%BD%E5%B1%B1%E6%B0%B4%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E6%82%B2%E4%BC%A4/" target="cdt-mirror">于建嵘：总统先生 美丽山水的背后是悲伤</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B1%9F%E4%B8%8A%E7%9A%84%E6%AF%8D%E4%BA%B2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%B1%9F%E4%B8%8A%E7%9A%84%E6%AF%8D%E4%BA%B2.png" alt="江上的母亲" width="301" height="441"></a></p>
+<p>总统先生，<br>
+美丽山水的背后是悲伤</p>
+<p>于建嵘</p>
+<p>5月18日下午，我应邀到德国驻中国大使馆，与正在访华的德国总统克勒进行小型的会晤。按照德国外交官事先的建议，我带上了一幅自己创作的油画。总统很高兴地接受了这个礼物，赞叹说“太美了”。赞美声入耳，却没有转化为高兴或得意之情，反而一种莫名的悲痛涌上了我的心头。</p>
+<p>这是幅用油画颜料画就的中国山水画，黑白双色，江上三座小山，三只江鸥，水波深流中的一页扁舟，一个持篙伫目凝望的人。或许是我笔力不逮，画面乍看可能有种安宁秀丽的错觉，但其中人物，却绝不是怡然自得的传统避世渔樵。在我落笔时，那个小小的背影，讲述的是悽悽惶惶、寻而不得的苦况；那三只江鸥，吟唱的是意外失母的连绵悲声。但可惜时机和时间都不合适，无法向总统讲述这副画背后的故事。会面结束，我于强压的悲伤中出得门来，正是风雨大作，仿佛老天也在发泄它积聚了一天的阴沉之气。</p>
+<p>这幅叫《江上的母亲》，是根据野夫先生散文《江上的母亲》创作的。上月末一个小型聚会上，他送我一本散文集《尘世·挽歌》。当时我并没有特别在意，但等到终于有空读完这篇文章，却禁不住“长叹息以掩涕”起来。</p>
+<p>野夫文章的副题为《母亲失踪十年祭》，说是失踪，实是投江自尽。十年过去，刻骨伤痛的儿子方能够收拾心情，写下了这篇纪念之文。母亲的一生是坎坷的，充满着艰难苦悲。战乱年代流离失所、被她国民党少将的父亲遗弃之痛；因血统原罪和耿直个性被打成右派之苦；贫穷困苦中挣扎着求生存之难；为儿子上学放下自尊求人之伤；苦尽甘来，却又被突然的变故更深地抛入忧患余生之悲；总算等回了儿子，却看着他在这个“冷漠的世界疲于奔命”之忧。母亲对儿子的入狱，并没有一句庸俗的怪责，这大概不仅出于盲目的爱子之情，更是她一贯人格的体现。可这时，她却再也无心无力面对生活的无常与无情，到底用自沉换来了最后的解脱，并实现了不再连累儿女的良苦用心。儿子在滚滚长江上盘旋了很多天，每天翻看江面的浮尸，孝情感动了码头上的工人，却没有感动老天。他没有找回母亲的尸体。姐姐们还曾抱有一丝希望，他却因母亲一生的自尊和刚烈决绝，接受了这个事实。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%BA%8E%E5%BB%BA%E5%B5%98.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%BA%8E%E5%BB%BA%E5%B5%98.png" alt="于建嵘" width="550" height="414"></a></p>
+<p>这让我想起自己当年的黑户岁月，我的妈妈扫米当我们的饭食，用麻袋布染黑给我做入学的新装，为躲避他人的欺辱带着我反复辗转于城市乡间。我们都是这样母亲的儿子，我们都是在这样母亲的护庇之下长大。母亲的善良、抗争和无奈，让我们这些儿女心胆俱裂，悲泣不已。正是在这种情绪下，我创作了一幅同题油画。</p>
+<p>过了几天，野夫来我宋庄的工作室做客，我把这幅画送给他。他看着一叶小舟在江面上孤独地寻觅，象征他姐弟三人的小鸟在天空中悲怆地呼唤，早已流下了滚烫的男儿之泪。在我眼中，这不是普通的“子欲养而亲不待”——那仅是面对无情时光的挫败与失落，也不仅仅是得到我理解的意外。他的眼泪是深刻的，混杂着不平、愤懑、自责、积郁、思念、怜悯、无奈等等在内的复杂情绪。</p>
+<p>因此，当我决定要送给德国总统礼物时，我又创作了同主题和意境的油画，并在画的背后签下了《江上的母亲——根据野夫先生的散文创作》的字样，同时我还把野夫先生送给我的书转送给了这位具有艺术才能的总统。</p>
+<p>当然，作为西方强国总统的克勒先生，是很难想到这美丽的山水背后，是这样深重而不可愈合的伤痛。由此，我甚至想，我们在赞美中国巨大进步的同时，是否看到繁荣背后的社会溃散。就像那幅画一样，今天的中国社会，表面上很美好，GDP增长的数字很振奋人心，高楼大厦、高速公路很先进，奥运会、世博会很提气长脸，充实的国库让政府能够承担更多国际责任很骄傲。可是在角落里，站立的却是或茫然或惶恐或自我麻醉、心灵无处安放的人们。背后更是无数个普通中国人的艰难生活和伤痛故事。</p>
+<p>这些故事是客观存在的。我也不是想用这些故事来否定我们所取得的成就。但是，我坚信，只有记住了这些故事，并从此出发，才能找到那真正的美丽，才能如愿地走进美好的明天。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%87%8E%E5%A4%AB%E7%9A%84%E5%AD%97.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%87%8E%E5%A4%AB%E7%9A%84%E5%AD%97.png" alt="野夫的字" width="450" height="515"></a><p>野哥的字</p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E6%80%BB%E7%BB%9F%E5%85%88%E7%94%9F-%E7%BE%8E%E4%B8%BD%E5%B1%B1%E6%B0%B4%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E6%82%B2%E4%BC%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E5%BB%BA%E5%B5%98/?category=18271" rel="tag">于建嵘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%9F%E7%BD%AA/?category=18271" rel="tag">原罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E6%84%9F/?category=18271" rel="tag">情感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B9%E7%94%BB/?category=18271" rel="tag">油画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%88%B7/?category=18271" rel="tag">黑户</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%90%AC%E9%97%BB%E4%BB%96%E8%A2%AB%E5%AE%B3%E4%BA%86-%E4%B8%BA%E4%BA%86%E4%BB%96%E4%B8%93%E9%97%A8%E7%BB%99%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87is/" target="cdt-mirror">新闻马赛克 | 听闻他被害了 为了他专门给恐怖组织IS打了电话</a>
+</h2>
+<p><p>半夜里手机里的一则推送把马赛君吓了一跳。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis.png" alt="isis" width="582" height="132"></a></p>
+<p>马赛君立马开启多国语言翻译模式，事件渐渐清晰。</p>
+<p>美联社消息：伊斯兰国（IS）11月18日（周三）宣布，他们已经杀害了一名中国人质和一名挪威人质，原因是两个月过去了，他们没有获得赎金。美联社还称，该组织在最新一期宣传册上公布了被认为是两人遗体的照片。</p>
+<p>然而，这一事件的真实性并未获得证实。与马赛君同样忙碌的，还有我外交部。很快，外交部网站上就出现了如下的对话：</p>
+<p>问：据报道，“伊斯兰国”组织声称杀害了此前被绑架的中国人质。中方能否证实?</p>
+<p>答：中方已注意到有关报道，对有关信息深感震惊。中国公民被绑架事件发生后，中国政府一直全力设法开展营救工作。我们将进一步核实相关情况。</p>
+<p>其实，被ISIS绑架的那名中国人质，马赛君一直有关注。在得知他被绑架后，马赛君还鼓足勇气，按照ISIS提供的电话号码打了过去……（此处应有掌声）</p>
+<p>结果？让我们来回顾一下当时发生了什么。</p>
+<hr><p>中东极端组织伊斯兰国（ISIS）昨天（9月9日）在其最新的一期网络杂志《DABIQ》登了两张照片，声称挟持了两名人质，来自中国和挪威。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis2.png" alt="isis2" width="550" height="598"></a></p>
+<p>照片被做成广告海报模样，写明人质被“出售“，底部还附有联系方式：“+964770564252”，以提供给“那些想要支付赎金来释放和转移人质的人士”。还说，此次出售有时间限制，但没有标明具体的金额。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9Xibb94ojE6R1weLl7dxtdxNqJTTb5gDYdFTQXkZ5SZZSbh1JYyzm6SDs6lGRNQ1LINXhCLcg6XpWVA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>从这照片上可以看到，他至少被打得不轻，可怜啊！</p>
+<p>马赛君向中国驻伊拉克大使馆求证，009647开头的就是伊拉克的电话，粉儿们不要怪马赛君大胆，<strong>马赛君还真的打了00964770564252这个电话，过程很诡异！今天下午2点多马赛君打的时候，这个电话都是嘟嘟嘟嘟响四声就自动断了，到了四点就是忙音！</strong></p>
+<p>而且964770564252这串数字是某社交软件的账户号码。随后，马赛君登录该社交软件并添加上述号码，对方名称显示为“ISIS”。</p>
+<p>今天下午4点多，马赛君向中国驻伊拉克大使馆，求证樊京辉一事是否真实。使馆工作人员说，他们正在进行核实，具体信息请以外交部消息为准。</p>
+<p>马赛君还联系了中国驻叙利亚大使馆，领事馆一位韩姓工作人员说，他们也是昨天下午从外媒上了解到的这一信息，使馆方面高度关注。“他是第一个传出来被IS绑架的中国公民。但使馆方面还不能确定IS所宣称的此事是否属实。”不过他也表示，北京的确有这样一个叫做樊京辉的人存在。在马赛君问到使馆方面是否掌握入 境叙利亚的中国籍公民信息时，韩先生给予了否定的回答。</p>
+<p>根据ISIS发布的消息，这是一名中国人质，家庭地址、姓名都有，想必他们不会把这最基本的国籍信息弄错。那么FAN JING HUI 这个拼音到底是什么名字，光姓都有可能是范或樊…怎么确定是谁？</p>
+<p>之前有媒体翻出，北京师大附中二附中在60周年校庆时公布过一组校友照片，其中一张名叫樊京辉的照片跟“拍卖广告”中的FAN JINGHUI照片极为相似。该组校友照片是北师大附中二附中的1984届高三2班毕业照，照片中的樊京辉圆脸戴着黑框眼镜。而且1984年高中毕业亦符合其1965年生的年龄。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis3.png" alt="isis3" width="444" height="599"></a></p>
+<p>对比下看像吗？</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9Xibb94ojE6R1weLl7dxtdxNqJTTb5gDYdFTQXkZ5SZZSbh1JYyzm6SDs6lGRNQ1LINXhCLcg6XpWVA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>马赛君今天和北京师大附中二附中校办的徐主任联系，她说目前学校并未听说此事。</p>
+<p>其实马赛君根据FAN JING HUI可能从事过广告业这个关键点来搜，第一时间就在百度搜到了一家叫“北京精彩因素广告有限公司”的广告公司，上面的业务联系人正是樊京辉，这家公司主要经营设计制作代理发布国内及外商来华广告、广告信息咨询、承办展览展示，组织文化艺术交流活动。从这一点上来看，也符合樊京辉可能会经常出国的特征。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis4.png" alt="isis4" width="600" height="307"></a></p>
+<p>马赛君发现，这家公司发布的信息中还标明：公司2002年4月5日在北京工商注册，董事长樊京辉，注册资本50万元。而且在全国企业信用信息公示系统查询， 就能找到一家名为“北京精彩因素广告有限公司”的公司，法定代表人为樊京辉，其注册地址正是为“北京市石景山区西井三区”4栋11单元502室，与ISIS“拍卖”广告信息显示的完全一致。</p>
+<p>据了解，樊京辉的这家公司已于2003年9月被吊销，曾经的办公电话目前被另一家企业使用。北京一些媒体朋友今天跑到这家公司的注册地址，敲门无人应答，据说一同探访的还有多家外国媒体记者。该楼一居民称“已经四五拨媒体来找过了”，另一名在该楼居住十多年的居民比对照片后表示从未见过樊京辉。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis5.png" alt="isis5" width="499" height="372"></a></p>
+<p>不过多位住户在看完IS发布的照片后表示，对照片中的人有印象。一位老人告诉记者，照片中人看起来像她认识的樊京辉，樊的妻子张某是其同事，在某中学任教，8月底她还在小区见过张某，但已很久未见过樊京辉。</p>
+<p>还有北京的媒体朋友联系到了樊的妻子张某，不过她表示现在很忙不想回答问题。她的一位同事说，张的丈夫确实叫樊京辉，目前家属很着急。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis6.png" alt="isis6" width="631" height="520"></a></p>
+<p>意外的是，央视主持人白岩松曾在2001年采访过樊京辉。白岩松当时还在中央人民广播电台主持《午间一小时》节目。采访樊京辉这期节目的主题是“飘着的感觉怎么样”。樊京辉在节目中说自己：</p>
+<p>大学毕业以后，我在中学教书六年，挣钱不多。94年就下海了，下海正好碰到的一家公司，是广告公司。做了一年以后，又去了一家台湾人开的百货公司，在前门那儿，做了一年，又去了中央电视台，给一个新闻中心的制片人做私人的助手，属于中央电视台的那个“黑人”，就是也不签协议，也没有正式的名头，属于“黑人”，私人帮忙的那种。</p>
+<p>当时樊京辉和一名叫做“逄飞”的嘉宾一起接受白岩松采访。北京的记者朋友还联系到了逄飞，逄飞说那年上完节目之后未联系过樊，但新闻图片中的人很像自己曾见过的樊京辉。不知白岩松是否还记得？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%90%AC%E9%97%BB%E4%BB%96%E8%A2%AB%E5%AE%B3%E4%BA%86-%E4%B8%BA%E4%BA%86%E4%BB%96%E4%B8%93%E9%97%A8%E7%BB%99%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87is/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/isis%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">ISIS处决中国人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A8%E5%8A%AB%E6%8C%81/?category=18271" rel="tag">人质劫持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A8%8A%E4%BA%AC%E8%BE%89/?category=18271" rel="tag">樊京辉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E8%B4%AA%E5%AE%98%E4%B8%AA%E4%B8%AA%E9%83%BD%E9%9A%90%E7%9E%92-%E8%B4%A2%E4%BA%A7%E7%94%B3%E6%8A%A5%E7%AC%91%E4%B8%80%E7%AC%91/" target="cdt-mirror">太阳报｜贪官个个都隐瞒 财产申报笑一笑</a>
 </h2>
 <p><p>官员财产申报是中共引以为傲的「反腐利器」，但从当局查处大小老虎的情况看，十个贪官九个瞒报。若非中纪委加强抽查力度，恐怕个个都能逍遥法外，所有不义之财都无法曝光。</p>
@@ -593,70 +663,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%85%95%E5%AE%B9%E8%80%81%E8%94%A1%EF%BC%9A%E3%80%90%E5%BE%AE%E5%B0%8F%E8%AF%B4%E3%80%91%E5%BE%8B%E5%B8%88%E6%9C%89%E4%BA%86%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E4%B9%8B%E5%90%8E/" target="cdt-mirror">慕容老蔡：【微小说】律师有了评级制度之后……</a>
-</h2>
-<p><p><strong>20XX年，天朝中央为律师行业设置了评级制度，律师界顿时欢乐了起来：</strong></p>
-<p>1</p>
-<p>老王律师50多了，近年来越来越发现自己对新的法律法规理解适用有点力不从心。回望自己这20多年的律师生涯，要么是接不到案件，要么就是本来该赢的案子却打输了，真是往事不堪回首。就在他寻思是不是要退出这个竞争激烈的行业时，听到了律师分级的制度。于是他戴上老花镜，对着报纸一项项比照，突然激动的大叫起来：“干了20多年，每人正眼瞧我，我终于成大律师啦！司法部真的是关爱老一代工作委员会啊！”</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWljjDWO3bibSShNy0EgUh5FyZqS5cbcMAGM5o2lWY0254jFN6Xo5daOA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>2</p>
-<p>在司法局律管处干了20年了，虽然顶着个副处的名头，却从没人把老张当领导。周一上班，处长转达局里的通知，为了落实上级关于律师评级的工作，认命老张为本市律师评级工作委员会办公室主任牵头相关工作。新官上任的老张激动不已，散会后拿起手机在朋友圈发布了这个消息，不到一小时，下面的留言超过了100条，而手机上的信息就更是多到不得了：“主任，晚上有空么？一起吃个饭聊聊我那个评级的事哈？”“主任，我早就知道您非等闲之辈，我的评级就全靠你啦”。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWE40l1BfnqBtlsBanjrrYdcpD1zwEbs4QreCj5ic6grGohL7uTUcaDlQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>3</p>
-<p>老丁自从40岁之后就依靠超凡的商业头脑成了商海大咖，基本从律师岗位上退了下来，但是一直没有注销律师证。就在他自己都差点忘了自己还有律师证这回事的时候，老同学的儿子登门了：“丁叔叔，恭喜您被评上大律师啦。不过您看您这个律师证放着也没啥用，我们现在几个年轻人开了律所，但是按照评级制度，我们有的法院不能去，您看看是不是把律师证租给我们？我们按照案子给您提成。”老丁一听还有这个好事，可转念一想会不会给自己惹麻烦：“我是没空办案子的，你们租过去我的律师证，可要有心理准备啊”“丁叔，您看您说的，您这么一大律师了都，哪里用去办案子，您只要挂个名做第一代理人，后面挂上我的名字，按照国家规定我就可以去高级法院啦，您都不用出面！”老丁听了心里乐开了花：寻思着我这退休后的生活权依靠这张大律师证了啊！</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWZuH5yCG5cJNVQxh2UhbwaklcqLZMJlYbkpzODw0GrlQEbpS9l8ice9Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>4</p>
-<p>区法院一个民事案子开庭，原告律师小王有理有据，发表的律师意见使得合议庭人员不断投以赞许的目光；被告律师老江却不以为然，“作为一名大律师，我办过的类似案子数以百计，从没有遇到过和小律师对庭的”“我以一名大律师的职业荣誉担保，原告的这些证据都是捏造的”“一名大律师通常对法律的理解不会比拟一位小律师还差吧？”……合议庭人员实听得昏昏欲睡……</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWO3icias8EDxpMshXLwZP9zXQ2fzLvWUTZMLnZngiadickK4iadk1djF3OYQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>5</p>
-<p>小李的老公被公安以涉嫌互联网犯罪为由带走了，心急如焚的小李满大街开始找律师楼。小李进了一家律所，律师老蒋接待她，小李将老公的事给老蒋仔细说了一遍，可这老蒋都几十岁的人了，哪里懂互联网这点事，但是眼见送上门的案子总不能不要啊，于是乎他对小李说：我们所有两种律师，比如我，是国家认可的大律师，当然还有其他小律师，我的收费是从20万元起，小律师们是10万元，不过看你和你老公感情这么好，这个年代也不容易了，还是个女人家，这样吧，这个案子我就便宜点收你10万元吧。小李一听感动不已，连忙签了合同，并再三感谢蒋大律师的帮忙。小李走后，老蒋拿起电话给隔壁办公室的小户律师电话：“小户啊，我这边有个互联网的案子，谈了10万律师费，你知道的，我对这种小案子不感兴趣，这样吧，我们合作一下，律师费我们一人一半如何？”小户正因为被国家定了个小律师的标签案源越来越少而郁闷呢，哪里有拒绝的份。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWzy0QItdRztPWuGEnSTGcyW9ZYvicLmqlk7uica8pUE6MbCGtO79fvwiaA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>6</p>
-<p>陈律师是出了名的直肠子，最近为一个职务犯罪案子很是纠结：明显是可以做无罪辩护的，但是据说开庭前一天纪委老大哥已经带着法官与公诉人和被告人见了面，被告人告诉老陈：他们说，放心吧，你的律师想保住他的大律师级别，不敢给你做无罪辩护的……老陈心里咯噔一下，难道他们是通过这种方式警告我？看来，是做无罪辩护一夜回到解放前做一名小律师，还是识时务地做罪轻求情辩护，真的是一个问题……开庭那天，审判长宣布因为辩护律师退出辩护，庭审延迟，被告人尽快重新委托律师……</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/h6SnzReQmZ0a52eQLtZhzXpunzHyFSiaWYIkcGdHxCTkDibM3dLFB6bJXWgmoEAt4sKchpBAMyUcw4wJP5PGSBnQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>7</p>
-<p>openlaw的小朱和无讼的老蒋最近挺郁闷，自己团队辛苦搞起来的互联网裁判文书大数据应用，因为把钦定大律师评为不建议委托律师，被告上了法庭，很有可能被“依法”停用。钦定大律师庭上那句“作为国家认定的大律师，我有义务维护国家的权威，与你们这种非法干扰市场的不法商人做坚决斗争”让小朱和老蒋心理包袱很大……</p>
-<p>8</p>
-<p>老朱和哥几个的律所开了二十年了，一直不温不火，大家寻思着该怎么突破发展？评级制度落实第二天，这家律所挂出了大横幅“本所清一色大律师提供服务”“大律师比例最高的律所值得委托”……</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%85%95%E5%AE%B9%E8%80%81%E8%94%A1%EF%BC%9A%E3%80%90%E5%BE%AE%E5%B0%8F%E8%AF%B4%E3%80%91%E5%BE%8B%E5%B8%88%E6%9C%89%E4%BA%86%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E4%B9%8B%E5%90%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">从业资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E7%BA%A7%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">分级制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">评级制度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%B8%AD%E5%85%B1%E5%85%9A%E6%8A%A5%EF%BC%9A%E8%AE%A2%E9%98%85%E9%9D%A0%E5%BC%BA%E5%88%B6/" target="cdt-mirror">纽约时报 | 尴尬的中共党报：订阅靠强制</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/13SINO-PAPERS-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/13SINO-PAPERS-articleLarge.jpg" alt="北京，一名男子在自行车修理铺旁一边等待一边阅读报纸。" width="600" height="400"></a><p>北京，一名男子在自行车修理铺旁一边等待一边阅读报纸。</p></div>
-<p>习近平主席治下，有损共产党官员政治前途的过错数不胜数，如今又新增了一条：订错报刊。</p>
-<p>中国东北部城市哈尔滨的党报《哈尔滨日报》发布了一篇措辞严厉的警示文章，<a title="Link: http://news.my399.com/local/content/2015-11/12/content_1692948.htm" href="http://news.my399.com/local/content/2015-11/12/content_1692948.htm" target="_blank" rel="nofollow">呼吁党员干部落实党报订阅工作</a>。这类呼吁是中国的党报为巩固发行量在每年年底进行的例行动作。党报可不是什么世上最引人入胜的读物。</p>
-<p>不过，或许是因为预感到越来越难吸引读者，《哈尔滨日报》发出了进行惩罚的威胁：不能完成任务的单位将被点名。</p>
-<p>“对征订进度过慢、屡催不进的单位，要给予全市通报，”该报在上周四发表的一篇文章中表示。</p>
-<p>（该报在头版突出位置刊出这样一篇文章，多少说明了吸引读者有多么困难。）</p>
-<p>早在1949年中华人民共和国建国前，报章在共产党的意识形态运动和政治生活中就扮演着重要的角色。这种状况持续了几十年。</p>
-<p>但最近几年，互联网侵蚀了纸媒的影响力，而想要节省开支的党政机关，一直在减少订阅无人问津的报纸。</p>
-<p>中国出版管理机构的数据显示，2014年报纸的利润比前一年下降了<a href="http://www.gapp.gov.cn/upload/files/2015/7/15164851185.pdf" target="_blank">12.8%</a>。他们没有将党报和其他报纸分开来统计。</p>
-<p>北京外国语大学新闻学教授展江表示，公众不感兴趣，导致党报订阅量大幅下滑。</p>
-<p>“过去，当地政府至少还会给部分党报一点面子，但现在很多都不愿意管订阅的事，”展江说。</p>
-<p>《哈尔滨日报》告诉党员干部，党报发行工作“是一项重要的政治任务”。</p>
-<p>“做好党报党刊发行，关乎意识形态安全、关乎中央精神落实、关乎主流舆论传播，”文中写到。</p>
-<p>它敦促哈尔滨各部门、各单位充分认清当前党报党刊发行工作的“新形势”，“不折不扣地”完成征订计划。</p>
-<p>新闻学教授展江表示，即使有大批强制订阅的读者，很多党报党刊也会夸大其发行量以吸引广告客户。他说，比如号称有800万订阅者的《四川日报》就曾名列全球发行量第三。</p>
-<p>展江估计，它很可能只有40万的订阅量，而其中能真正通读该报充斥政府报告和干部发言内容的读者，可能更少。</p>
-<p>尽管新闻在中国受到严格审查，但更加面向市场的媒体进行了更具创新精神的新闻实践，对读者更具吸引力，进一步挤占了党报党刊的市场份额。</p>
-<p>本周，中国西南部省份贵州省的省委书记陈敏尔<a title="Link: http://news.cyol.com/content/2015-11/12/content_11817851.htm" href="http://news.cyol.com/content/2015-11/12/content_11817851.htm" target="_blank" rel="nofollow">指责</a>一些官员对八卦消息很关心，对党的声音不上心。“迟早要出问题，”陈敏尔说。“这种情况不改变，党的好政策就不能落地生根、开花结果。”</p>
-<p>其他一些地方的政府也显示出支持党报订阅工作的决心。本月，江苏省一个县<a title="Link: http://www.jsdh.gov.cn/xinwenpindao/donghaixinwen/2015-11-06/36943.html" href="http://www.jsdh.gov.cn/xinwenpindao/donghaixinwen/2015-11-06/36943.html" target="_blank" rel="nofollow">禁止将党报党刊订阅经费用来</a>购买非党报党刊的出版物。今年10月，甘肃省一名官员<a href="http://gansu.gansudaily.com.cn/system/2015/10/29/015751355.shtml" target="_blank" rel="nofollow">宣称</a>，阅读党报可以帮助人们判断是非。</p>
-<p>北京的一名党报发行人员李平（音）表示，党报发行量多少一直由官方指令控制。</p>
-<p>“过去几年，来自政府机关单位的党报订阅量没有太大变化，因为上面有命令，”李平说。“但个人订阅量非常少，可能只有1%。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%B8%AD%E5%85%B1%E5%85%9A%E6%8A%A5%EF%BC%9A%E8%AE%A2%E9%98%85%E9%9D%A0%E5%BC%BA%E5%88%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%94%BF%E6%9C%BA%E5%85%B3/?category=18271" rel="tag">党政机关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E8%AE%A2%E9%98%85/?category=18271" rel="tag">强制订阅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A2%E9%98%85/?category=18271" rel="tag">订阅</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -668,7 +674,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -678,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

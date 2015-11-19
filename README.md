@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%85%B7%E5%88%91%E5%AE%A1%E8%AE%AE%E7%AD%94%E8%AF%A2-%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%85%B6%E4%B8%8D%E8%AF%9A/" target="cdt-mirror">美国之音｜中方就酷刑审议答询 人权人士称其不诚实</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg" alt="巴丢草：自由浦志强" width="415" height="581"></a><br><em>“自由浦志强” by 巴丢草</em></p>
+<p>华盛顿—</p>
+<p>联合国禁止酷刑委员会18日在日内瓦继续对中国履行禁止酷刑的国际公约情况进行审议。委员会的九名国际专家对中国团的答询表示质疑，人权团体认为中国代表团的说法不诚实。</p>
+<p>在前一日这场审议开始时，中国常驻联合国日内瓦办事处和瑞士其他国际组织的吴海龙大使表示，中国在反酷刑和保护人权方面的工作取得新进展。不过，鉴于中国近年来深入打压人权律师，长期拘禁异见者和活动人士等，委员会的九名国际专家对吴海龙的说法表示了质疑。</p>
+<p>委员会就中国对禁止酷刑的教育和培训、检察机关的独立性、律师权益的保障、器官的强行摘取及寻衅滋事的标准等提出了疑问。</p>
+<p>18日的审议中，中方代表团表示，政府为监狱警察、医护人员、检察官等提供持续的反酷刑培训。自2012年以来，共有24039名人员接受了这样的培训，其中有10000名是法官。同时，人民检察院是《宪法》明确规定的法律监督机关，不受行政机关、社会团体和个人的干涉。代表团说，虽然检察机关同时拥有公诉权和刑事执行监督权，但分属不同部门行使，因此可以保障其独立性和公正性。</p>
+<p>据中国维权律师关注组称，在律师权益方面，委员会问到了709律师大抓捕事件。代表团的回应指犯罪团伙利用北京锋锐律师所为平台，因此采取强制措施对犯罪嫌疑人进行立案侦查。目前案件还在侦办中。代表团强调，律师和其他人一样，要遵守法律。另外，代表团强调中国主管部门是针对违法行为依法办案，希望委员会严守自身职责，避免将审议政治化。</p>
+<p>香港支联会副主席蔡耀昌对美国之音说：“中国已经参与了这个禁止酷刑公约，所以中国政府是有法律责任去履行。所以专家委员会提出的一些问题和建议，肯定中国政府需要回应。另外，联合国的机制，这个委员会也可以写一些报告给联合国，尤其是人权理事会，也包括联合国大会，用各种各样的渠道，透过国际的舆论，希望能够真的让中国关注和改善人权。”</p>
+<p>不过，中方代表团对委员会的问询给出的答复并没有令很多人权人士满意，他们在推特上及时表达了他们的看法。</p>
+<p>在中方人员提到使用审讯椅并非惩罚，而是保护关押人员与公安时，CHRD人权捍卫者发表推文：“中国代表说审讯时给被审讯者戴刑拘是为了他们‘舒适’、‘防止自杀自残’！听众哗然。”</p>
+<p>人权观察组织(Human Rights Watch)中国事务负责人苏菲·理查森(Sophie Richardson)发推文说：“中国在禁止酷刑委员会中的答询既不专业，也没有建设性，又不诚实和尊重。”</p>
+<p>审议最后，中方代表团表示，欢迎各位委员在方便的时候访问中国。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%85%B7%E5%88%91%E5%AE%A1%E8%AE%AE%E7%AD%94%E8%AF%A2-%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%85%B6%E4%B8%8D%E8%AF%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%8B%89%E8%90%A8%E8%97%8F%E4%BA%BA%EF%BC%9A%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%80%E8%A1%8C%E6%89%80%E7%9C%8B%E5%88%B0%E7%9A%84%E8%83%8C%E7%A6%BB%E7%8E%B0/" target="cdt-mirror">自由亚洲 | 拉萨藏人：佩洛西一行所看到的背离现实</a>
 </h2>
 <p><p>美国国会众议院民主党领袖佩洛西近日率团在西藏首府拉萨展开访问并参观寺院等，居住拉萨的一位藏人则表示，佩洛西一行所看到的完全背离西藏现实状况，尽是被中国当局刻意制造出的假象而已。</p>
@@ -760,33 +782,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8F%AA%E6%9C%89%E5%82%BB%E5%AD%90%E6%89%8D%E4%BC%9A%E7%9B%B8%E4%BF%A1%E5%8C%97%E4%BA%AC/" target="cdt-mirror">德国之声｜德语媒体：“只有傻子才会相信北京”</a>
-</h2>
-<p><p>德国媒体从习马会的角度关注习近平最近的功绩，指出改革停滞不前让许多人感到失望。而且在习马流露真情，亲密接触的同时，台湾人不应该抱有幻想。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bj1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bj1.jpg" alt="bj1" width="550" height=""></a><br>
-(习近平在新加坡与马英九会晤现场)</p>
-<p>（德国之声中文网）《南德意志报》周一（11月16日）发表了题为”改革受阻”（Im Reformstau）的文章，其中指出，由于中国经济增长继续放缓，北京政府无法按时兑现加大市场自由度承诺。这抑制了国内外企业的发展，也会让贫困阶层蒙受损失。</p>
-<p>文章在开头写道：”在新加坡的握手对于中国国家主席习近平来说是一次成功的经历，也是过去几个月来少有的几次成功经历之一。和台湾总统马英九在一个中立的地方见面给许多人留下了积极的印象，好像这两个宿敌不再针锋相对，而是终于开始相互接近。 ”</p>
-<p>“就算对于实行威权统治的总书记习近平来说，在一些关键的政治领域取得进展也不是一件理所当然的事情。原本应该促进自由竞争，减少政府干预经济的改革进程到目前为止让许多人感到失望。北京方面不仅仅没有提速，反而退挂一档–经济发展的压力让许多决策者不敢有所作为。”</p>
-<p>文章随后写道：”不仅仅是外国企业已经开始失去耐心，而且这种强势干预本身也会给政府带来许多经济上的成本。中国的经济分析人士也呼吁应该加快市场自由化的进程，因为只有提升竞争压力才能提高国企管理人员的纪律性和企业的效率。同时，欧美政府又希望中国能够加速实现结构转型，因为它们认为自身的经济发展能够从中国的结构转型中获得新的动力。”</p>
-<p>作者指出：”有关中国改革的讨论从90年代中期就开始了。直到几年前，许多人还认为光说不做不是什么大问题。但现在时间紧迫。这一世界上第二大经济体的发展势头每年都有所减弱。虽然对于某些企业来说仍然非常有吸引力，仍然能够在自己的业务领域实现增长。但中国的社会稳定和发达国家水平的低速增长无法相依并存。（中国的）收入太低。所以必须对许多领域进行整改并重新规划，目的就是不让保证未来经济发展的因素继续受到限制。而且，2008年金融危机爆发后，几乎无条件的向政府机构提供贷款的做法让债务负担越来越重。”</p>
-<p>文章在结尾写道：”到目前为止，（改革）并不成功。在金融市场上，虽然出现了一些显著的改变，利率垄断逐渐瓦解，债券市场进一步发展，而且从2020年开始，人民币将可能实现自由兑换。但这所有的一切既不能减缓其它疲软领域和出口贸易所面临的压力，金融领域的改革也无法长期可持续地为经济发展增添动力。与之相补充的政治改革，比如说结束严格的户口体制，不再按国民的出生地给予其不同社会福利的改革，仍然没有到位。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bj2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bj2.jpg" alt="bj2" width="550" height=""></a><br>
-(“中国和台湾开始相互接近。谁不会为此高兴呢？”)</p>
-<p>“只有傻子才会相信北京”</p>
-<p>“习马会”落幕不久后，德国电视一台发表了题为”只有傻子才会相信北京”（Nur ein Narr würde Peking vertrauen）的评论文章。作者指出，中国和台湾的历史性会晤总体来说虽然友好。但借鉴香港的发展状况，台北应该有所警惕。因为”只有傻子才会相信中国的共产党们。”</p>
-<p>评论文章在开头写道：”中国和台湾开始相互接近。谁不会为此高兴呢？几十年来，这两个中国对手一直处于冷战状态，而这种冷战许多次都差点演变成真正的热战。北京有1500多枚飞弹对准台湾，直截了当的发出了入侵的威胁，前提是台湾宣布独立。而台湾则一直要求美国对台军售，为的就是在一定程度上抵御大陆不断增长的实力。一场台湾战争有可能让中美这两个大国陷入军事争端。一场噩梦。”</p>
-<p>“看到新的对话渠道正在打开，中国国家主席习近平打破禁忌，和台湾人正面相对。而且在和马英九会面的时候，几乎能感觉到双方的一种真情，是一件令人高兴的事情。在如今变得越来越不太平的世界里，看到人们能通过握手、对话与合作，心平气和的解决冲突，谁又会不为此而感到高兴呢？！这是一个好的发展势头。不是吗？许多台湾人对此次会晤和接近中国的政策持怀疑态度。他们有充分的理由这样想：中国维护领土主权，希望实现统一的诉求固然可以理解。双方确实在历史和文化上有着紧密的根源。但如今台湾所关注的不仅仅是国家和历史上的对抗，而是民主和自由。台湾是该地区内的一个榜样型民主国家。一个已经从蒋介石建立的独裁体制中摆脱出来的岛屿。”</p>
-<p>作者最后写到：”所以台湾人在解读这位北京强人（习近平）的表态时应该谨慎小心。在有关自由的问题上，相信中国共产党的人是一个傻子。（Ein Narr, der den chinesischen Kommunisten vertraut, wenn es um die Freiheit geht.）一大部分台湾人已经估计到了这一点。明年一月，这个岛屿将举行选举。民调结果显示，对中国明显更持批判态度的民进党有可能赢得大选。到那时，马英九的亲密路线也就走到头了。”</p>
-<p>“台湾目前能够争取到的最好状况就是保持现状：和大陆维持和平与经济往来，放弃名义上的独立，但也和北京保持政治上的距离。台湾只能希望，习近平会对此满意。”</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8F%AA%E6%9C%89%E5%82%BB%E5%AD%90%E6%89%8D%E4%BC%9A%E7%9B%B8%E4%BF%A1%E5%8C%97%E4%BA%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC%E4%BC%9A/?category=18271" rel="tag">习马会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">台湾政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%8B%B1%E4%B9%9D/?category=18271" rel="tag">马英九</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -798,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -808,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%A9%AC
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

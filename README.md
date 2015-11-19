@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%85%B7%E5%88%91%E5%AE%A1%E8%AE%AE%E7%AD%94%E8%AF%A2-%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%85%B6%E4%B8%8D%E8%AF%9A/" target="cdt-mirror">美国之音｜中方就酷刑审议答询 人权人士称其不诚实</a>
@@ -127,7 +127,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A9%E6%B4%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">大学改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">思想政治工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1/?category=18271" rel="tag">高校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC%E5%91%98/?category=18271" rel="tag">高校辅导员</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BB%B6%E5%AE%A1%E9%99%90%E6%9C%9F%E6%BB%A1-%E6%B3%95%E9%99%A2%E6%97%A0%E6%B6%88%E6%81%AF/" target="cdt-mirror">自由亚洲 | 浦志强案延审限期满 法院无消息</a>
 </h2>
@@ -157,7 +157,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
 <p>这名中国男子人质可能被确认为50岁的北京人樊京辉。樊京辉曾经是中学教师，后入广告行业，而且曾是央视的非正式员工。2001年时，樊京辉曾经接受过中国著名主持人，当时任电台主持人白岩松的采访当时时称：他追求“不安全感”。。</p>
 </p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%86%99%E9%95%BF%E7%AF%87%E8%AE%AE%E8%AE%BA%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/" target="cdt-mirror">破破的桥：为何不写长篇议论巴黎恐袭</a>
 </h2>
@@ -471,7 +471,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%8D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">信息控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86/?category=18271" rel="tag">封杀网络电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90/?category=18271" rel="tag">电视盒子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%92%E5%AD%90/?category=18271" rel="tag">盒子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">网络控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86/?category=18271" rel="tag">网络电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%A7%9C%E9%87%8E%E9%A3%9E%E5%8F%8A%E8%91%A3%E5%B9%BF%E5%B9%B3%E8%A2%AB%E6%B3%B0%E5%9B%BD%E9%81%A3%E8%BF%94%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">自由亚洲 | 姜野飞及董广平被泰国遣返中国</a>
 </h2>
@@ -793,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

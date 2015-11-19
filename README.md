@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,63 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%99%8B%E4%B8%AD%E5%B8%82%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E7%B3%BB%E7%BB%9F%E8%88%86%E6%83%85%E7%AE%A1%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A/" target="cdt-mirror">【真理部】晋中市关于加强系统舆情管控工作的通知</a>
+</h2>
+<p><p>晋中市政府关于加强全市政府系统舆情管控工作的通知</p>
+<p>各县（区、市）人民政府，开发区管委会，市直有关单位：</p>
+<p>为进一步畅通人民群众诉求渠道，及时发现人民群众反映强烈的民生热点问题，有效处理人民群众提出的意见和建议，切实保障人民群众切身利益，不断提高社会管理水平，维护社会和谐稳定，树立政府良好形象，做好全市舆情应对处置工作，现就加强全市政府系统舆情管控工作提出如下要求：</p>
+<p>一、加强组织领导</p>
+<p>市政府成立晋中市系统舆情管控工作领导组，负责协调指挥全市政府系统舆情应对处置工作。领导组办公室设在市政府大厅管理中心，负责晋中市政府系统舆情管控工作领导组日常工作。</p>
+<p>二、健全工作机制</p>
+<p>（1）实行舆情分级管理，各县（区、市）政府、开发区管委会和市直有关部门按照属地原则和职能分工，做好本区域、本部门的舆情应对处置工作。各级各部门要切实增强舆情敏感性，及时发现网络、媒体上的舆情信息，采取有效措施做出快速处置，避免负面舆情扩大或者造成不良影响。对于情况属实、责任清晰的负面舆情，要诚恳接受，有针对性地解释说明，及时发布整改信息。对于情况、责任不明的舆情信息，要及时表态，迅速组织喝茶，尽力消除公众疑虑。针对不实报道和错误信息，要及时发布评论信息，披露事实真相，并根据舆情的严重程度，直接组织、邀请、引导有关专家和媒体公开发表客观公正的意见，从第三方的角度澄清不实言论。对少数别有用心的攻击、挑拨的网络评论，可争取有关媒体主管部门的支持，及时封堵删除。对恶意攻击、诋毁党和政府的反面舆情，要及时查处、严肃追责。</p>
+<p>（2）实行舆情分类管控。根据舆情性质、影响程度、涉及范围等因素，将舆情分为一般舆情、较大舆情、重大舆情三个等级。对于一般舆情，各县（区、市）人民政府，开发区管委会，市直有关单位要及时发现、及时处置；对于较大或重大舆情，要在迅速处置同事报领导办公室，并及时报告处置进展情况；对于重大舆情，必须在第一时间向领导组报告，领导组将及时启动应急处置预案，协调指导开展舆情应对处置工作。</p>
+<p>（3）畅通群众诉求渠道。各级各部门要切实发挥好12345、12315、12319等便民服务热线以及市（县）长信箱作用，及时有效解答和处理群众反映的困难和问题，消除群众不良情绪，避免引发负面舆情。</p>
+<p>（4）强化部门职责分工。各县（区、市）人民政府，开发区管委会，市直有关单位要明确一名分管领导负责本区域、本部门的舆情管控工作，同时要明确专人具体承办舆情管控协调处置工作。各级各部门要结合区域特点和部门职责，对各类倾向性、苗头性、聚集性的舆情信息，制定科学合理的应急处置预案。同时要加强协调、及时沟通、实现信息资源共享，确保工作有序开展。</p>
+<p>三、强化信息报送</p>
+<p>各县（区、市）人民政府，开发区管委会，市直有关部门每周向领导组办公室报送一次本区域、本部门舆情收集处置情况。市政府系统舆情管控工作领导组办公室对各部门报送的舆情信息进行统计分析后，报市委、市政府。领导组办公室联系电话：3203020，</p>
+<p>晋中市人民政府办公厅</p>
+<p>2015年11月13日</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUGtBNgUYAAgvex.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUGtBNgUYAAgvex.png" alt="CUGtBNgUYAAgvex" width="600" height="800"></a></p>
+<p>
+</p><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%99%8B%E4%B8%AD%E5%B8%82%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E7%B3%BB%E7%BB%9F%E8%88%86%E6%83%85%E7%AE%A1%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%8B%E4%B8%AD%E5%B8%82/?category=18271" rel="tag">晋中市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%BB%A4/?category=18271" rel="tag">禁令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E6%83%85%E7%AE%A1%E6%8E%A7%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">舆情管控工作</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%9C%B4%E6%8A%B1%E4%B8%80%EF%BC%9A%E4%BD%A0%E4%B8%8A%E9%92%A9%E4%BA%86%E4%B9%8B%E4%B8%80/" target="cdt-mirror">朴抱一：你上钩了之一</a>
+</h2>
+<p><p>2015年11月13日，发生在法国巴黎的枪杀案震惊世界。随后，中文互联网一些势力上蹿下跳，释放出各种谣言，不断制造和穆斯林对立的氛围，身边不少人上当。</p>
+<p>我梳理了其中的几条谣言，努力还原真相。其实所谓真相，不过是一些简答的常识而已。</p>
+<p>这是这几天微博微信传得最多的一条信息：</p>
+<blockquote><p>以下为乌鲁木齐“7.5事件”后 法国政府的原话，我们将原话中的国家替换一下，现在还给法国人：对在巴黎发生的种族冲突感到遗憾，法国政府应该通过对话的方式与穆斯林群体进行沟通，而不 应对穆斯林维权人士的和平抗争进行打压！我们谴责所有发生的暴力行为，但这与法国政府一直有系统的迫害少数民族有关，粗暴压制他们的宗教信仰和生活方式， 才造成今天的局面。</p></blockquote>
+<p>另一种说法是，法国政府的这个声明是针对2014年5月22日的昆明事件的。</p>
+<p>我没有从法国外交部网站找到2009年的声明记录。但是维基百科“七五事件”词条下各国的反应中，法国的表态是：外交部发言人表示关注，并表示可能会有欧洲国家回应此事。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wd8w98gj20o204ojsq.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wd8w98gj20o204ojsq.jpg" alt="abd16213jw1ey4wd8w98gj20o204ojsq" width="585" height=""></a></p>
+<p>中国侨网在3天后的报道说，法国政府在回应七五事件时比较谨慎低调。法国外交部发言人7日下午在回答有关提问时仅表示“担心和忧虑”。据报道，收到“东突分子”扬言要抗议示威后，从7日起，法国警方增派警力，加强了中国驻法使馆的安保措施。</p>
+<p>一周后，法国驻华大使在接受新华社采访时称赞中国政府展现出公开透明的意愿，给他留下“深刻印象”。他同时表示，新疆暴力事件“令人痛心”。“伤者和死者中既有汉族人也有维吾尔组族人，这件事对这些受害者的家庭、亲属和朋友都是悲剧。”他最后强调，新疆问题属于中国内政。和谐的社会氛围对于新疆乃至全中国都非常重要。</p>
+<p>报道地址：http://news.sohu.com/20090713/n265189839.shtml</p>
+<p>关于2014年昆明流血袭击案，法国驻华大使馆网站上有公开声明，“任何理由都不能为类似行径辩解”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wb9g3k7j20o20a8q5t.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wb9g3k7j20o20a8q5t.jpg" alt="abd16213jw1ey4wb9g3k7j20o20a8q5t" width="585" height=""></a></p>
+<p>截图自法国大使馆网站</p>
+<p>到2014年的5·22乌鲁木齐袭击事件，法国政府称：向遇难人员及其家属表示哀悼，在这场悲痛事件中，法国向中国政府和人民表示支持。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wbw1cmwj20o209bmze.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wbw1cmwj20o209bmze.jpg" alt="abd16213jw1ey4wbw1cmwj20o209bmze" width="585" height=""></a></p>
+<p>截图自法国驻华使馆网站</p>
+<p>关于欧盟主席国要求旁听这件事，其实中国法律并不限制外国人的旁听，在著名的薄谷开来谋杀英国人尼尔伍德案审理时，英国使领馆的官员就进行了旁听。而且，英国方面还发表了一份声明，希望不要判薄谷开来死刑。道理也很简单，反对死刑是欧盟一贯立场。</p>
+<p>所以，欧盟提要求，中国不同意，欧盟遗憾一下就过去了。这是正常不过的外交流程而已。左愤为此把自己的屁股挪到恐怖分子的立场上去，真是愚蠢到家了。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%9C%B4%E6%8A%B1%E4%B8%80%EF%BC%9A%E4%BD%A0%E4%B8%8A%E9%92%A9%E4%BA%86%E4%B9%8B%E4%B8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/?category=18271" rel="tag">巴黎恐袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%85%B7%E5%88%91%E5%AE%A1%E8%AE%AE%E7%AD%94%E8%AF%A2-%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%85%B6%E4%B8%8D%E8%AF%9A/" target="cdt-mirror">美国之音｜中方就酷刑审议答询 人权人士称其不诚实</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg" alt="巴丢草：自由浦志强" width="415" height="581"></a><br><em>“自由浦志强” by 巴丢草</em></p>
@@ -157,7 +211,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
 <p>这名中国男子人质可能被确认为50岁的北京人樊京辉。樊京辉曾经是中学教师，后入广告行业，而且曾是央视的非正式员工。2001年时，樊京辉曾经接受过中国著名主持人，当时任电台主持人白岩松的采访当时时称：他追求“不安全感”。。</p>
 </p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%86%99%E9%95%BF%E7%AF%87%E8%AE%AE%E8%AE%BA%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/" target="cdt-mirror">破破的桥：为何不写长篇议论巴黎恐袭</a>
 </h2>
@@ -697,91 +751,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BF%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E4%B8%8D%E8%A6%81%E4%B8%BA%E5%B7%B4%E9%BB%8E%E7%A5%88%E7%A5%B7/" target="cdt-mirror">微信｜不要为巴黎祈祷</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl1.png" alt="bl1" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl2.png" alt="bl2" width="550" height=""></a></p>
-<p>“法国是一个古老的国度，在那里，爱人们可以自由亲吻。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl3.png" alt="bl3" width="301" height="377"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl4.png" alt="bl4" width="550" height=""></a></p>
-<p>“巴黎是我们的首都，我们爱音乐，我们爱喝酒，我们爱快乐。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl5.png" alt="bl5" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl6.png" alt="bl6" width="550" height=""></a></p>
-<p>“几个世纪以来，总有崇尚死亡的人试图让我们失去对生活的品味。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl71.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl71.png" alt="bl7" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl81.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl81.png" alt="bl8" width="550" height=""></a></p>
-<p>“但他们从未达成目标。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl91.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl91.png" alt="bl9" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl10.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl10.png" alt="bl10" width="550" height=""></a></p>
-<p>“最后，胜利总是属于那些有爱心的，热爱生活的人们！”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl11.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl11.png" alt="bl11" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl12.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl12.png" alt="bl12" width="550" height=""></a></p>
-<p>“多么美妙的巴黎座右铭：”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl13.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl13.png" alt="bl13" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl14.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl14.png" alt="bl14" width="550" height=""></a></p>
-<p>“风暴之海面，战舰不沉没。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl15.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl15.png" alt="bl15" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl16.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl16.png" alt="bl16" width="550" height=""></a></p>
-<p>“全世界的朋友们，谢谢你们为巴黎祈祷，但是我们不需要更多宗教！我们的信念在音乐、亲吻、生命、香槟和快乐中实现！巴黎，代表着一种生活之道。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl17.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl17.png" alt="bl17" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl18.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl18.png" alt="bl18" width="550" height=""></a></p>
-<p>“恐怖主义不是一个敌人。恐怖主义是一种操纵方式。如果总是重复：‘我们进入战争’ 而没有勇气指明敌人只能误入歧途。我们的敌人是那些热爱死亡的人，他们在各种形式的外衣包裹之下，他们一直存在。历史善于遗忘，而巴黎在这里站立，并对他们说：去你妈的！”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl19.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl19.png" alt="bl19" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl20.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl20.png" alt="bl20" width="550" height=""></a></p>
-<p>“今晚死去的人们本来只是出门去以巴黎的方式生活，去喝酒或者去唱歌，他们哪里知道自己会沦为宣布战争的受难者。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl21.png" alt="bl21" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl22.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl22.png" alt="bl22" width="550" height=""></a></p>
-<p>“其实相对于把我们生死相隔，你们反倒是提醒着我们最为宝贵的：什么是我们的生活之道。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl23.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl23.png" alt="bl23" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl24.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl24.png" alt="bl24" width="550" height=""></a></p>
-<p>“迷恋死亡的人们，如果上帝真的存在，他也会憎恨你们。你们已经迷失，从世间直到天庭。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/bl25.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/bl25.png" alt="bl25" width="550" height=""></a></p>
-<p>由《查理周刊》的法国漫画家Joann Sfar<br>
-于法国当地时间周五晚上创作的漫画，</p>
-<p>以及法国摄影家Willy Ronis所拍摄的40-80年代的法国。</p>
-<p>漫画稿照片提供 by Valentina</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E4%B8%8D%E8%A6%81%E4%B8%BA%E5%B7%B4%E9%BB%8E%E7%A5%88%E7%A5%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/?category=18271" rel="tag">巴黎恐袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%AC%A1%E9%9B%AA%E4%B8%AD%E9%80%81%E7%82%AD-%E4%BF%84%E8%8E%B7%E5%B7%A8%E9%A2%9D%E7%9F%B3%E6%B2%B9%E9%A2%84%E4%BB%98%E6%AC%BE/" target="cdt-mirror">美国之音｜中国再次雪中送炭 俄获巨额石油预付款</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/vr.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/vr.jpg" alt="vr" width="550" height=""></a><br>
-位于莫斯科的罗斯石油公司总部大楼。（美国之音白桦拍摄）</p>
-<p>白桦<br>
-2015.11.16 21:45</p>
-<p>莫斯科—俄罗斯最近收到了中国支付的巨额石油预付款。当地媒体称这是西方对俄制裁后所收到的最大一笔海外资金。这笔巨款能大大帮助俄罗斯主要国有企业运转并改善财务状况。中国已不止一次慷慨解囊，为俄罗斯雪中送炭。</p>
-<p>最大海外资金</p>
-<p>罗斯石油公司最近公布的财务报表显示，这家最大的俄罗斯石油企业第三季度收到了将近1万亿卢布（9965亿卢布）的石油预付款，这笔巨额资金大约相当于150亿到160亿美元。市场分析人士认为，这是中国所支付的购买俄罗斯石油的预付款。根据2013年双方所签订的政府间协议和石油交易合同，俄罗斯将在25年内向中国增加供应3.6亿吨原油，每年大约不到1千5百万吨，合同总金额高达2700亿美元。普京总统当时曾透露，中国要支付的预付款金额高达700亿美元。</p>
-<p>在西方对俄罗斯实施制裁之后，俄罗斯企业更难融资借贷，中国所支付的这笔巨额预付款对俄罗斯极其重要。俄罗斯媒体说，这是乌克兰危机爆发后俄罗斯企业所获得的最大一笔海外资金。这将有助于罗斯石油公司保持良好财务状况，并帮助这家公司偿还巨额贷款。罗斯石油公司两年前因为收购英国-秋明石油公司债务缠身。此外，在俄罗斯石油开采量不断下降的背景下，中国预付款也能帮助罗斯石油公司投资油田开发，履行向中国供应石油的合同义务。</p>
-<p>能源巨头获好处</p>
-<p>俄罗斯经济分析人士茹科夫斯基说，普京转向东方的外交政策，以及同中国日益接近为俄罗斯大企业和能源巨头们带来了很多好处。同中国的合作使它们能在一定程度上抵消因为西方制裁所造成的损失。</p>
-<p>茹科夫斯基：“据我所知，俄罗斯的国有大企业，天然气工业公司，罗斯石油公司，石油运输公司，俄罗斯铁道公司，还有其他的一些垄断企业，象俄罗斯储蓄银行，对外贸易银行，国家农业银行等，它们都有能力从中国获得资金，它们也在积极从事这方面的工作，而且中方提出的条件也都能让它们接受和满意。”</p>
-<p>帮普京打垮对手</p>
-<p>中国已不是第一次在关键时刻助普京一臂之力。2005年时，中国同样以支付石油预付款的方式向罗斯石油公司提供了60亿美元资金，从而使罗斯石油公司能在很短时间内顺利强行廉价收购尤科斯石油公司下属骨干企业，为普京集团打垮尤科斯石油公司提供了关键帮助。</p>
-<p>在这之前，中国进军俄罗斯能源市场，试图收购俄罗斯能源企业股权的尝试都接连碰壁，受到俄罗斯官方的阻挠。</p>
-<p>收钱同时与中国对手合作</p>
-<p>罗斯石油公司主要负责向中国出口石油，更是中国在俄罗斯能源领域的主要合作伙伴。但罗斯石油公司也同样与越南和日本，这两个与中国存在领土主权争执的国家密切合作。罗斯石油公司正联合越南，在有争议的南中国海大陆架地区积极勘探和开采油气资源。</p>
-<p>罗斯石油公司总裁谢钦不久前访问日本，参加俄日能源合作论坛会议时，高调欢迎日本参加罗斯石油公司的所有大型能源项目的开发，并希望日本能成为这家公司的战略伙伴。</p>
-<p>俄罗斯更需要中国</p>
-<p>经济分析人士茹科夫斯基认为，俄罗斯目前有求于中国的要超过中国对俄所需。</p>
-<p>茹科夫斯基：“中国现在是俄罗斯最主要的贸易伙伴。但对中国来说，俄罗斯并不是中国的主要贸易国，尽管俄罗斯在中国的贸易伙伴国中能排入前10名。虽然中国需要俄罗斯的能源，石油和天然气，但中国的能源进口多元化，俄罗斯也并非是中国唯一和主要的能源供应商。”</p>
-<p>茹科夫斯基说，虽然罗斯石油公司等企业能获得中国资金，但俄罗斯的金属，化工等领域，还有中小企业等基本无法从中国获得融资。由于从西方获得贷款的渠道都因为制裁被封死，许多企业的生存和经营将会日益困难。</p>
-<p>少数人获益 难判断谁吃亏</p>
-<p>一些俄罗斯分析人士批评虽然两国关系密切，但获得中国贷款很难，中国无法取代西方的地位。仅有少数人能从两国一些合作项目中获益，多数人无法从俄中友谊中获得好处。此外，也有人指责俄罗斯在与中国的能源合作中吃亏。反对派更批评普京向中国出卖俄罗斯国家利益，让中国在俄罗斯遇到困难时占便宜。</p>
-<p>有分析人士说，由于双方的能源合作项目不透明，很难判断哪一方在合作中获得更多好处。能源专家西蒙诺夫认为，两国的天然气项目是双赢。不过，在2013年俄罗斯与中国签订增加供应原油的合同时，当时每桶原油价格在100美元以上。中国现在支付石油预付款时，每桶原油价格已跌到50美元以下。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%AC%A1%E9%9B%AA%E4%B8%AD%E9%80%81%E7%82%AD-%E4%BF%84%E8%8E%B7%E5%B7%A8%E9%A2%9D%E7%9F%B3%E6%B2%B9%E9%A2%84%E4%BB%98%E6%AC%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%B3%E6%B2%B9/?category=18271" rel="tag">石油</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%B3%E6%B2%B9%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">石油外交</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -793,7 +762,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +772,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

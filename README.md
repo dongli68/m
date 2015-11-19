@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,130 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/ngocn-%E5%90%8C%E5%BF%97%E4%B8%8D%E8%AE%A4%E5%91%BD%EF%BC%9A%E8%89%BE%E6%BB%8B%EF%BC%8C%E8%87%AA%E6%9D%80%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%88%9B%E4%B8%9A%E7%9A%84%E4%BB%96/" target="cdt-mirror">NGOCN | 同志不认命：艾滋，自杀，如今创业的他</a>
+</h2>
+<p><p>关注NGOCN，公益视野从此大不同<br>
+原创·作者：小田</p>
+<blockquote><p>从49.9万到60.6万，从2012年底到2014年底，我国的社会组织以惊人的速度增长，而这还只是登记注册的数目。在二三线城市，在民间，一批初创NGO也正在默默地生根、发芽、茁壮，但他们的故事如“草根”一词，被深深埋在土里。2013年起，“和平台”（原“正荣微公益”）与8家平台型组织一起，陪伴一批二三线城市的初创期NGO成长，他们有的从单打独斗到建立团队，有的从游兵散将到组织化协作，人们往往只见草的弱小，却很少感受到它突破碎石、抵抗暴风雨的力量。为此，“和平台”与NGOCN合作，希望通过系列报道的形式，呈现一线最现实的问题以及“草根”最强韧的力量。<br>
+第一篇，我们为你介绍，一个在二线城市里，“不认命”的“同志”。</p></blockquote>
+<p>江西红丝带爱温暖家园互助工作组是全省首家为受艾滋病病毒影响人群服务的民间组织，2009年成立至今参与执行了多个国家级、省级艾滋病感染者关怀救助、心理支持、反歧视宣传项目。发起人刘九龙在南昌市建立了“爱温暖家园驿站”，为前来南昌就医的艾滋病感染者及其家属提供住宿和心理支持，今年中旬，刘九龙从南昌出发，骑行3000公里到北京，沿途开展艾滋病反歧视倡导，并为驿站筹得一年的运营经费。<br>
+江西红丝带爱温暖家园互助工作组至今仍是一个十分草根的组织，但靠着极小额的资助走了一段这么长的路，目前组织正在筹备注册，刘九龙说他的性格就是这样：决定了就一定要坚持。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.57.09.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.57.09.png" alt="Screen Shot 2015-11-19 at 下午1.57.09" width="397" height="262"></a></p>
+<p><strong>从受助者到公益人</strong></p>
+<p>刘九龙的微信名是“刘九龙同志”，大概第一次看到的人都不相信这个“同志”正是“那个意思”——同性恋者。刘九龙同志不仅是一个公开的同性恋者，还是一个公开的艾滋病感染者，敢于站出来，为的就是反歧视。</p>
+<p>2009年12月1日，刘九龙在南昌市的八一广场和沃尔玛超市门口开展了一个“真情拥抱艾滋”的活动，向路人科普并邀请与他拥抱，活动没有志愿者，刘九龙孤身一人举着写有“生命需要阳光——艾滋病人刘九龙”的横幅，不断跟路人解说。</p>
+<p>“虽然很遗憾我已经不记得她的模样了，可是这样一份温暖我一辈子不会忘记。”那天为数不多的愿意拥抱他的人当中，有一位80多岁的老奶奶，多年后刘九龙在博客中这么写道。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.57.49.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.57.49.png" alt="Screen Shot 2015-11-19 at 下午1.57.49" width="396" height="288"></a><br>
+横幅：生命需要阳光——艾滋病人刘九龙</p>
+<p>在刘九龙为艾滋反歧视走上街头之前，他是一名普普通通的打工者，接下来的轨迹，很可能是打工、回家娶媳妇、生娃、继续离家打工。2007年，他从赣州市疾病预防控制中心拿到的HIV检测报告彻底改变了他的人生轨迹。</p>
+<p>刘九龙拿着HIV抗体阳性检测确诊报告离开防控中心后，犹如拿着一份“死亡判决书”，在医生面前还能强装镇定，但一离开便大哭起来，他想到了自杀。</p>
+<p>感染艾滋病的事情，刘九龙没有告诉家人，他按照原计划来到东莞打工，却悄悄地分次购买安眠药，以备自杀用。几个月后，他决定到全国艾滋病治理最好的北京再做一次检检查——这时他已经下了决心，如果结果仍旧是阳性，那么就自杀。</p>
+<p>在北京的出租屋里，刘九龙真的自杀了。那天，一直在北京帮助刘九龙做检查的同性恋同伴教育志愿者来访，发现他已经自杀，便立刻冒着大雨把他送到医院抢救。当刘九龙苏醒过来时，床边又多了几位志愿者，其中包括一位艾滋病病人，这位同为感染者的志愿者陪伴刘九龙走过了这艰难的一程。</p>
+<p>“不希望江西的感染者，经历我那时一样的彷徨、茫然、绝望。”2009年下半年，刘九龙带着这样的原因再回到了江西，开始在南昌市筹划“江西红丝带爱温暖家园互助工作组”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.58.24.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.58.24.png" alt="Screen Shot 2015-11-19 at 下午1.58.24" width="397" height="237"></a><br>
+在高校课堂分享，右二为刘九龙</p>
+<p>由于江西省的艾滋病感染者人数并不多，这一块工作在当地并没有受到关注，当时江西省还没有其他来自民间的为受艾滋病毒影响人群服务的公益组织，这将是当地首家。同时，刘九龙开始站出来做艾滋反歧视工作，他以公开的男同性恋者和艾滋病感染者身份在大学做演讲，在南昌街头做活动。</p>
+<p><strong>艰难的“红丝带”公益</strong></p>
+<p>益心益意是南昌的民间支持性平台组织，为当地草根组织提供发展支持，也是“和平台”的合作平台组织，益心益意的负责人彭海惠说，从2011年便开始支持刘九龙的组织，“当时他基本上是一个人单打独斗”。</p>
+<p>刘九龙坦言，跟大多数议题类型的公益相比，做受艾滋病毒影响人群的公益要难很多。从大环境来看，公众还存在认知盲点，主流媒体报道偏向负面，艾滋病人受污名化仍然严重，会有诸如“得艾滋病是因为个人生活混乱”的观念，这样的环境下，想要得到公众捐款并不容易。此外，艾滋病感染者和家属因外部压力，绝大多数不愿被人知道，这导致机构在对外宣传的时候，很难有曾经的服务对象与大众媒体互动，受助后愿意成为志愿者甚至公益伙伴的只有少数。</p>
+<p>刘九龙的“爱温暖家园驿站”一直不能对外公开地址，一是担心房东和邻居知道后会要求他们搬走，二是担心会暴露受助人的隐私。令刘九龙欣喜的是，目前驿站所在的房东已经知道实情，对他们还是比较支持。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.59.13.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.59.13.png" alt="Screen Shot 2015-11-19 at 下午1.59.13" width="296" height="416"></a><br>
+驿站的宣传图片</p>
+<p>彭海惠指出，国内资助型基金会原本就不多，愿意资助性少数群体、艾滋病这类议题的则更少，不利于这些议题的NGO发展，益心益意的支持，除了资金，更主要是为刘九龙“出主意”，帮助他理清思路、确定发展方向和定位，日常工作中为他招募志愿者和宣传活动。此外，由于江西红丝带爱温暖家园互助工作组未登记注册，益心益意会提供财务托管，协助他申请项目。</p>
+<p>从2009年创办“江西红丝带爱温暖家园互助工作组”至今，刘九龙能感受到环境正在变好，一些国内基金会也开始愿意资助这一领域，刘九龙的项目就拿到了正荣基金会发起的和平台、爱德基金会的资助。同时倡导活动中得到的积极反馈也在增加。</p>
+<p>今年中旬，刘九龙在爱德基金会和益心益意的支持下，从南昌骑行3000公里到北京，在沿途27座城市开展反歧视倡导，为驿站筹得30017.47元，能支持驿站运行一年。</p>
+<p>骑行的旅途上，刘九龙既遇到过得知他是艾滋病感染者就拒绝提供住宿的旅馆老板，也遇到过因他身份而免住宿费用的旅馆。有一次，旅馆的房客知道他是艾滋病感染者后，就要求退房，旅馆老板表示，就算其他房客全部退房，他都要接待刘九龙一行人。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.59.47.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%881.59.47.png" alt="Screen Shot 2015-11-19 at 下午1.59.47" width="395" height="398"></a><br>
+骑行路上做倡导</p>
+<p>随着社会的发展，艾滋病感染者的需求也在发生变化，刘九龙分析，在2003年之前，艾滋病感染者最大的需求在于缺少治疗药物，2003年四免一关怀政策出台后，治疗药物的问题得到解决，感染者更需要得到用药知识的教育——感染者自行停药、不按时吃药导致耐药问题时有发生。而现在更多感染者的需求在于就业、就学、就医的平等对待。刘九龙说起当地一个10岁的艾滋病感染儿童的事例，由于其他孩子家长的反对，小学只能采取“隔离教学”的方法，专门为这个受感染孩子开一个班，请一个老师来“一对一”上课，刘九龙认为，这样的做法虽然保障了孩子能接受教育，但隔离的环境并不利于孩子成长，同时他也不建议孩子去“红丝带小学”上课，因为这些孩子终究要步入社会，不可能永远活在“隔离”的环境中，让艾滋病感染者得到平等的权利才是关键。</p>
+<p><strong>在海滩上捡石头</strong></p>
+<p>江西红丝带爱温暖家园互助工作组成立近五年了，但一直未能发展成一个更专业的公益机构，资源短缺是其中一个原因，拿到的资助经费以活动项目款为主，行政经费非常少，工资更是大问题，以致团队始终搭建不起来。2012年，刘九龙自己也因为经济压力实在无法坚持，关闭了“爱温暖家园驿站”外出打工。</p>
+<p>打工的两年里，跟驿站关系好的感染者偶尔会跟刘九龙说起对驿站的想念，而刘九龙自己也同样希望能继续为艾滋病感染者做点事。</p>
+<p>2014年，刘九龙又回来继续做江西红丝带爱温暖家园互助工作组，随后重开驿站。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%882.00.37.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%882.00.37.png" alt="Screen Shot 2015-11-19 at 下午2.00.37" width="398" height="222"></a><br>
+驿站重开</p>
+<p>对于江西红丝带爱温暖家园互助工作组这类关注边缘议题的草根组织发展，彭海惠认为有两大影响因素：一是外部的资助环境，想要更好的发展需要更多国内基金会愿意提供资助；二是组织的负责人能力要求高，很多草根组织都是负责人“一脚踢”，各类事情都要操心和学习：项目申请、项目执行和管理、组织发展和建设、筹资、宣传、志愿者招募和管理、财务等等，需要具备各种能力，对负责人来说是个极大的挑战。</p>
+<p>谈起发展计划，刘九龙已经画好了一个不错的蓝图：核心团队发展到4至5人，现成一个核心志愿者团队，能够为艾滋病感染者提供药物支持，同时正在筹备机构注册。不过，想要发展全职人员仍然很困难，刘九龙说，能够有3个全职人员是最理想的，但近乎奢望，目前组织发展主要处在团队搭建的阶段，这方面尤其需要对成员个人的支持，可是在资助项目行政经费偏低的情况下，很难实现。</p>
+<p>今年刘九龙拿到了“和平台”的小额资助，属于非限定性资助，能解决人员工资的问题。刘九龙表示，“和平台”的资助对他最大的帮助在于，可以促使有一个伙伴跟他一块工作。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%882.01.08.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%882.01.08.png" alt="Screen Shot 2015-11-19 at 下午2.01.08" width="397" height="297"></a><br>
+刘九龙在活动分享</p>
+<p>彭海惠认为，对草根组织来说，非限定性资助很重要，发展初期的草根组织用捉襟见肘形容他们最贴切。通过非限定性资助，草根组织负责人可以把资金用在当时对他来说最重要的地方：可以是筹资、项目、团队、行政费用。当然，不同的组织情况不同，比如，对于刘九龙来说，这次“和平台”的资助有一定建议性条件，希望这笔资助能够帮助他搭建起团队，这是经过对刘九龙个人特点和组织状况的长期观察，所得出的发展建议，“而之前我们对九龙的主要支持是个人的行政费用”。</p>
+<p>刘九龙对个人今后的发展定位则是做反歧视倡导，毕竟在中国大陆愿意公开身份的同志艾滋病感染者实在很少，他愿意走上街头，让公众看到真实的感染者，走进高校，去做知识普及。在这几年的倡导工作中，他遇到过听完讲座后，跟他出柜的大学生；曾经在街头跟路人聊完后，对方再次送上拥抱。这些细节让刘九龙看到改变的可能性，而研究数据也证明了在一个更接纳同志群体的地区，同志人群的艾滋病感染率更低。</p>
+<p>问到即将到来的世界艾滋病日有没有活动策划，刘九龙笑称我们每天都在过艾滋病日。虽然没有策划活动，但每一天都在做防艾的工作，他说自己的工作就像“在海滩上捡石子，能做一个是一个”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%882.02.05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%882.02.05.png" alt="Screen Shot 2015-11-19 at 下午2.02.05" width="397" height="263"></a><br>
+刘九龙在海滩举起象征同志权益的彩虹旗</p>
+<blockquote><p>和平台由正荣公益基金会、敦和基金会、南都公益基金会联合发起，旨在推动国内二三线城市的初创期NGO成长。和平台将携手区域平台型组织，采用创新、有效、及时的小额资助方式，为区域内初创期NGO提供小额资助、公益咨询以及资源对接等服务。项目同时倡导公益组织深根在地、互助合作、拓展本土资源，推动区域多元公益力量共同生长。</p></blockquote>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/ngocn-%E5%90%8C%E5%BF%97%E4%B8%8D%E8%AE%A4%E5%91%BD%EF%BC%9A%E8%89%BE%E6%BB%8B%EF%BC%8C%E8%87%AA%E6%9D%80%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%88%9B%E4%B8%9A%E7%9A%84%E4%BB%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">公益人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">公益组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%B9%9D%E9%BE%99/?category=18271" rel="tag">刘九龙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E5%8F%8D%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">艾滋反歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E7%97%85/?category=18271" rel="tag">艾滋病</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E4%B8%96%E7%95%8C%E5%8E%95%E6%89%80%E6%97%A5%EF%BC%8C%E4%BD%A0%E9%82%A3%E5%84%BF%E7%9A%84%E5%A5%B3%E5%8E%95%E5%A4%9F%E7%94%A8%E5%90%97%EF%BC%9F/" target="cdt-mirror">女权之声 | 世界厕所日，你那儿的女厕够用吗？</a>
+</h2>
+<p><p>11月19日是联合国设立的“世界厕所日”。</p>
+<p>是的， 你没有听错。厕所日听上去也许有点无厘头，但这却是个严肃又影响着每个人日常生活的话题。据联合国的统计，世界上仍有约近三分之一的人口因为没有合格的公共卫生和健康的如厕环境，而饱受疾病的折磨。</p>
+<p>还不止如此。联合国发现，学校缺乏隐秘安全的厕所是进入青春期的女生不再继续接受教育的一个重要原因。如果学校有安全干净的厕所，女生的入学率会提高11%。</p>
+<p>缺少公共厕所也会构成安全隐患，对妇女和女童来说尤为如此，因为很多起强奸案和暴力事件都是由于缺少公厕而发生的。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/jhl3jibZ0cBuAdv4kYsd2Unib1CvhK23GCuIyBZq2ibFsVY1DFHOiaR0EC1ojxe6NTRCM8LERPv2cGo9fGN9YFn16Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>2014年，“世界厕所日”的主题被定为“平等与尊严”，为的是为妇女和女童因失去如厕隐私而面临的性暴力威胁，和厕所使用权中出现的不平等这两个突出问题而寻求全球关注。</p>
+<p>中国目前的厕所状况如何？国内的多数城市和一些乡镇农村地区，通过这些年的建设与改造，“如厕难”问题得到较大程度的缓解。但依然存在公厕布局不合理、数量不足、管理滞后等问题，尤其突出的是厕所资源分配不合理。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/jhl3jibZ0cBuAdv4kYsd2Unib1CvhK23GCBPibyHah6kcxVPFCmw9SonFgc2L8DLF0wwdjcBSwUUcCJxH2LkQpqRQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>在旅游景点、学校、商场、火车站等人口密集的场所，经常看到的是：女厕所门前排长龙排，男厕所却空空。</p>
+<p>三年前曾发起“占领男厕所”活动的女权主义者李麦子(化名）在“世界厕所日”当天向国家旅游局寄出了一封来自10余个城市关注性别平等人士的联名建议信，呼吁完善《全国旅游厕所建设管理三年行动计划》，提高女厕位比例至1：2，并增设无性别厕所。</p>
+<section><section><section><section>国家旅游局扩建厕所，却未涉及男女厕位比例</section><section></section></section><section></section></section></section><p>2015年4月6日，国家旅游局印发的《全国旅游厕所建设管理三年行动计划》（后文简称《行动计划》）中指出：2015年到2017年，通过政策引导、资金补助、标准规范等方式持续推动，三年内全国共新建、改扩建旅游厕所5.7万座，其中新建3.3万座，改扩建2.4万座。<strong>可这一计划中却完全没有提到男女厕位比例。</strong></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/jhl3jibZ0cBuAdv4kYsd2Unib1CvhK23GCaXPk9qYfiamS3JLAvwyB9YzAefW5yV5TyyQHhInYhxrWiaib8F99Zk0lw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>“占领男厕所”发起人李麦子</p>
+<p>然而，目前公共场所的男女厕位比例依然不平衡，旅游景点经常出现女厕前排很长的队。如果遇到旅游高峰期，女性上厕所排队半个小时也是常有的时。于是，在2015年“世界厕所日”前夕，活动发起人李麦子发起了一个联名信，希望国家旅游管理局可以进一步细化《行动计划》，提高旅游景点的女厕位比例，并增设无性别厕所。</p>
+<section><section><section>女厕总排长龙，这是为什么</section><section></section></section><section></section></section><p>为什么总是出现女厕外面排长龙、男厕门口空空的现象？李麦子认为，出现这种情况正是厕所设计的不合理特别是男女厕位不均衡所导致的，女厕的厕位数量和面积亟需增加。这样的结论并不仅仅基于生活中的感性认识，她在建议信中提出了五个理由：</p>
+<section><section><section></section><section><section>女性如厕时间约为男性的两倍</section></section><section></section><section></section></section><section></section></section><p>由于男女使用厕所的方式不同导致使用时间的差异。1988年，美国弗吉尼亚理工大学的奥特曼斯和黛伊开展了一项研究，他们计算出女性从进入厕所到从厕所出来的总时间接近3分钟，而男性只需83．6秒。而美国康奈尔大学的基拉则计算出了两性小便时在厕所中的平均停留时间：女性为89秒，男性为39秒。不管怎么看，女性花费的时间都是男性的两倍。而在孕期或经期的妇女，上厕所则更为频繁，所花时间也更多。此外，一般小孩都跟母亲上女厕，又占用了一部分厕位。</p>
+<section><section><section></section><section><section>现有厕位“男多女少”加剧不平衡</section></section><section></section><section></section></section><section></section></section><p>2013年7月，李麦子和志愿者共同完成了《9城市公共厕所男女厕位状况调查报告》。报告选取了北京、天津、济南、兰州、西安、郑州、武汉、杭州、广州等9个城市的公共厕所进行调查，结果发现：重点城市女厕大多“拥堵”。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/jhl3jibZ0cBuAdv4kYsd2Unib1CvhK23GCrGH1PJNgK6BJlYz0gQkSYdKYSfvbzeCfpHxbao1BPYAmciblxssgxng/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt=""><br>
+2012年2月，北京“占领男厕所”活动在街边向路人发起调查</p>
+<p>调研显示：9城市公共厕所的男蹲(坐、站)位与女蹲(坐)位的比例均无一例外是<strong>男多女少</strong>，公共厕所门前总是女厕排长队，而男厕大部分厕位普遍闲置。其中厕位数量性别差距最大为广州市，其男厕位为525个、女厕位294个，男女厕位比例达到1.79∶1。厕位数量比例差距最小为北京市，男厕位600个、女厕位490个，男女厕位比例也达到1.2∶1。而西安、兰州等西部城市的男女厕位比例也不容乐观，均在1.5∶1左右。</p>
+<section><section><section></section><section><section>增加女厕位，国外早有先例</section></section><section></section><section></section></section><section></section></section><p>美国有12个州已于上世纪90年代初便通过了“将女厕所数量增加两倍”的法案；香港在2006年年初，把男女厕比例从当时的1∶1提高至1∶1.25。去年5月，特区政府再次调整男女厕所比例，由1∶1.25提升至1∶1.5；台湾地区在2006年修正了“建筑技术规则”，明确规定车站、学校、电影院的“男女公厕比例为1∶5”；上海世博会为解决园区如厕难，将厕所男女比例设定为1∶2.5；北京在2008年对地坛公园内外的60个临时厕所进行调整，比例由原来的男女厕位1∶1改为1∶4；厦门、珠海等地也对男女厕位进行调整，增加了女厕厕位。</p>
+<section><section><section></section><section><section>无性别厕所是未来趋势</section></section><section></section><section></section></section><section></section></section><p>无性别厕所是没有性别之分的厕所。部分长者或幼童可能因为行动不便而需要家人协助如厕。部分性少数人群对选择非男即女的厕所也十分困扰，无性别厕所的设立正好解决了他们为之困扰的问题。无性别厕所在一定程度上也能解决男女厕所的空间配置比例和如厕时间比例不均匀的问题，让整体使用上更加有弹性和效率，并节省空间使用。为了满足不同群体的需要和解决女厕所排长队等问题，北京、重庆、沈阳、杭州等地开始兴建或已启用无性别公厕。</p>
+<section><section><section>男女厕位比例1：2，何时才能落实</section><section></section></section><section></section></section><p><img src="http://mmbiz.qpic.cn/mmbiz/jhl3jibZ0cBuAdv4kYsd2Unib1CvhK23GCFNbSe84E025LUuQ2hdZ0XN0HIhicm4c59SnPxcyb4pP2jF9qTXTHNXQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""><br>
+2012年李麦子发起的“占领男厕所”行动</p>
+<p>自2012年“占领男厕所”活动以来，三年已经过去。卫生部出台的《公共厕所卫生标准》已经规定，在公共厕所服务区内男女人群数量相当情况下，男女厕位比例宜为1∶2。“但在落实上却还是很慢。”李麦子说，“而且很遗憾地看到国家旅游局的《行动计划》里竟然没有规定男女厕位比例。实际上女性上厕所需要的时间更长，如果没有注意到这一差异，没有明确的规定。我担心各地的旅游景点的新建厕所更难达到1：2。那女性在旅游的时候就会继续被排队上厕所的问题所困扰。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E4%B8%96%E7%95%8C%E5%8E%95%E6%89%80%E6%97%A5%EF%BC%8C%E4%BD%A0%E9%82%A3%E5%84%BF%E7%9A%84%E5%A5%B3%E5%8E%95%E5%A4%9F%E7%94%A8%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86%E7%94%B7%E5%8E%95%E6%89%80/?category=18271" rel="tag">占领男厕所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">女权之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AF%E5%8C%BA%E5%A5%B3%E5%8E%95%E6%89%80%E6%95%B0%E9%87%8F/?category=18271" rel="tag">景区女厕所数量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%BA%A6%E5%AD%90/?category=18271" rel="tag">李麦子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E6%B5%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B5%84%E9%87%91%E5%8E%BB%E4%BA%86%E5%93%AA%E5%84%BF%EF%BC%9F/" target="cdt-mirror">日经中文网 | 流出中国的资金去了哪儿？</a>
+</h2>
+<p><p>从中国流向海外的民间资金正在增多。一年的流出额高达2200亿美元，相当于中国外汇储备减少额的5成左右。在中国外汇储备减少的背后发生了什么？有观点认为从中国流出的资金进入欧美的股市、房地产和美术品等领域，今后可能在发达国家引发泡沫。</p>
+<p>20世纪初期的意大利画家阿梅迪奥·莫迪利阿尼的作品11月9日在纽约的拍卖行佳士得（CHRISTIE’S）拍出1亿7040万美元的价格。英国《金融时报》（FT）报道称，拍得这件作品的是一位中国富豪。</p>
+<p>此外还有消息称，购买美国住宅的外国人数方面，最近中国超过加拿大跃居首位。在全球的资产市场上，中国资金的存在感不断增强，让人联想到1980年代后半期的日本资金，当时日本资金借助日元升值，相继买下纽约摩天大楼和画坛巨匠的作品。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/1423026748_0413.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/1423026748_0413.jpg" alt="1423026748_0413" width="550" height="309"></a></p>
+<p><strong>大部分流入欧美</strong></p>
+<p>中国的外汇储备在2014年6月底达到峰值的3万9900亿美元，2015年9月底减少了4800亿美元，减至3万5100亿美元。</p>
+<p>伴随着民间资金流向国外，中国当局实施了旨在稳定本国货币的卖出外汇、买入本国货币的汇率介入举措，导致外汇储备的减少。换言之，外汇储备的减少意味着海外资产的保有者从国家变为个人。</p>
+<p>在中国，跨国境的股票和债券交易受到限制，表面上这些民间资金流向海外的规模难以掌握。受到关注的是国际收支统计项目之一的“误差与遗漏”项目。指的是从经常收支或资本收支流出的与海外的资金往来。</p>
+<p>据中国国家外汇管理局统计，中国的“误差与遗漏”自2009年转为净流出414亿美元之后，净流出额除2011年之外持续增加。</p>
+<p>从2014年6月之后的数据来看，截至2015年6月底的1年里累计净流出2200亿美元。这相当于2014年7月～2015年9月间外汇储备减少额的46%。</p>
+<p>这2000亿美元以上的资金究竟流向哪里了呢？三菱UFJ摩根士丹利证券的首席经济学家田坂圭子表示，考虑到从中国流出的资金会在他国被记录为“误差与遗漏”（净流入额）部分，因此对国际货币基金组织（IMF）的统计进行了确认，结果发现“去除不计算在内的‘避税天堂’外，流入美国和欧元区的可能性较高”。</p>
+<p><strong>流向日本股市和房地产？</strong></p>
+<p>如果是国家外汇储备的话，主要会被用来购买国债，但作为民间资金，则很容易流入股市和房地产市场等价格波动风险较高的产品。中国的“误差与遗漏”在2014年累计净流出1401亿美元，而2015年1～6月期的净流出额增至上年同期9倍的901亿美元，大幅超过2014年。加上中国经济减速，田坂表示“从中国流向海外风险资产的资金转移趋势今后将持续”。</p>
+<p>中国资金似乎也流入了日本。日本的对外、对内证券投资统计数据显示，中国对日本国内短期债券的投资额9月为买超7210亿日元，连续9个月净买入，从2015年初以来的累计净买额累计达4万3600亿日元，是2013年峰值（1万9600亿日元）的2倍以上。这些资金可能成为流向日本股市和房地产的待机资金。</p>
+<p><strong>   本文作者为日经QUICK新闻 编辑委员 永井洋一</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E6%B5%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B5%84%E9%87%91%E5%8E%BB%E4%BA%86%E5%93%AA%E5%84%BF%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">日经中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E9%87%91%E8%9E%8D/?category=18271" rel="tag">民间金融</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81/?category=18271" rel="tag">资金外流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E8%BD%AC%E7%A7%BB/?category=18271" rel="tag">资金转移</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E6%96%B0%EF%BC%9A%E6%B2%A1%E6%9C%89%E8%96%84%E7%86%99%E6%9D%A5%E7%9A%84%E8%96%84%E7%86%99%E6%9D%A5%E8%B7%AF%E7%BA%BF/" target="cdt-mirror">自由亚洲 | 高新：没有薄熙来的薄熙来路线</a>
 </h2>
 <p><p>笔者在本专栏的上篇文章《胡伯伯和白毛女，习大大的“怀旧经典”》的最后一段中已经提及：说到习近平夫妇到越南共同怀念他们的胡伯伯，就不能不说此二人的另一“怀旧经典”《白毛女》。</p>
@@ -673,101 +794,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%95%99%E8%82%B2%E9%83%A8%E4%BF%AE%E8%AE%A2%E5%8D%81%E5%B9%B4%E5%89%8D%E8%A7%84%E5%AE%9A-%E6%8B%9F%E8%A6%81%E6%B1%82%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC/" target="cdt-mirror">澎湃新闻 | 教育部修订十年前规定 拟要求高校辅导员必须是党员</a>
-</h2>
-<p><p>教育部日前在官网公布了《普通高等学校辅导员队伍建设规定》的修订情况，并向各地教育行政部门及部属高校征求意见。记者了解到，与原规定相比，新规对高校辅导员队伍建设的要求和措施更加具体，对辅导员队伍的政治要求更严格，要求高校辅导员必须是中共党员，并且“不得有损害党和国家利益以及不利于学生健康成长的言行。”</p>
-<div>原规定是2006年9月1日起颁发施行的，已经实施近十年。</div>
-<p><strong>高校辅导员必须是中共党员</strong></p>
-<p>新修改的规定在政治上对高校辅导员提出了更严格要求。新增加了“深入开展社会主义核心价值观教育，综合运用教育教学、实践养成、文化熏陶、研究宣传等方式，把社会主义核心价值观落实到学生日常管理服务各个环节，形成高校学生的日常行为准则，使高校学生自觉将社会主义核心价值观内化于心、外化于行。”</p>
-<p>新定还要求辅导员：努力学习思想政治教育的基本理论，运用理论分析、调查研究等方法开展思想政治教育工作的理论和实践研究。</p>
-<p>新修改的规定明确提出，高校辅导员应当是中国共产党党员。</p>
-<p><strong>密切关注学生的网络动态</strong></p>
-<p>新修改的规定要求高校辅导员，积极学习和运用现代信息技术，构建网络思想政治教育阵地，加强与学生的网上互动交流，围绕学生关注的重点、难点、热点进行有效舆论引导，丰富网上宣传内容，努力把握网络舆论的话语权和主导权；及时了解网络舆情信息，密切关注学生的网络动态，敏锐把握一些苗头性、倾向性、群体性问题。</p>
-<p><strong>新规更加具体、量化</strong></p>
-<p>新修改的规定明确提出，在核定的编制总额内全校专职辅导员数不得少于辅导员总数的70%。</p>
-<p>原规定“新聘任的青年专业教师，原则上要从事一定时间的辅导员、班主任工作。”修改为“新聘任的青年专业教师，应该从事一定时间的辅导员、班主任工作，并与专业教师的职务（职称）评聘、相关考核挂钩。”</p>
-<div>新规定要求，建立国家、省级和高校三级辅导员培训体系。确保每一名专职辅导员每5年参加1次国家级或省级培训。各高校负责对本校辅导员的系统培训，每年开展不少于4次的校级培训，积极选送辅导员参加校外培训。</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%95%99%E8%82%B2%E9%83%A8%E4%BF%AE%E8%AE%A2%E5%8D%81%E5%B9%B4%E5%89%8D%E8%A7%84%E5%AE%9A-%E6%8B%9F%E8%A6%81%E6%B1%82%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%85%E5%AF%BC%E5%91%98/?category=18271" rel="tag">辅导员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1/?category=18271" rel="tag">高校</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%A6%81%E8%AF%B4%E5%A4%9A%E5%B0%91%E6%AC%A1%E4%BD%A0%E6%89%8D%E6%87%82%EF%BC%81%E5%A4%A9%E8%93%AC%E5%85%83%E5%B8%85%E6%98%AF%E7%8C%AA%E5%A4%B4/" target="cdt-mirror">【网络民议】天蓬元帅是猪头这是一级机密！</a>
-</h2>
-<p><p>自由亚洲昨日发布了一则关于湖北某中学教师的<a href="http://www.rfa.org/mandarin/yataibaodao/meiti/Yf3-11162015145345.html">报道</a>，由于事件内容过于魔幻而在墙内引来不少关注。报道称，该教师因在微信转发疑似影射习近平的内容而遭警方约谈，并被学校开除，涉事网帖的内容更是成为网民吐槽的焦点：</p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4a1aafab-35ea-494c-88ba-8af170712f07.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4a1aafab-35ea-494c-88ba-8af170712f07.jpeg" alt="4a1aafab-35ea-494c-88ba-8af170712f07" width="450" height="299"></a></p>
-<p>湖北一学校老师张爱嘉日前因在微信里转发了一则被认为是責骂习近平的网帖，遭到警方约谈。与此同时，学校也在教育局与派出所、网监的双重压力下宣布将其开除。</p>
-<p>湖北黄冈市红安国际育才学校的老师张爱嘉从没想过，自己在微信群里转发的一则网帖会让自己因此丢了工作。</p>
-<p>该帖子大意如下：没文化的人心里自卑，怕别人看不起，所以就要强装自己博学，掉书袋。草包就是这样的人。一个真有学问的人无需掉书袋背书名，而是将所读过的书，学过的知识自然而然地融入日常言谈举止之中，这是潜移默化的，不是强装的。孔乙己的“茴香豆”的茴字四种写法不是学问，徒添笑料耳。</p>
-<p>张爱嘉11月16日接受本台采访时表示，事情发生在3天前，她当时转发该帖的原意是以此为戒，但想不到却被警方带走讯问，学校也于翌日宣布将她开除，并要她立即搬出校舍。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/%E4%BD%8F%E5%9C%A8%E6%AD%A6%E8%97%8F%E4%B8%8A%E7%9A%84%E8%91%B5%E6%89%98%E5%88%A9?from=feed&loc=at" target="_blank">住在武藏上的葵托利</a>:╱( ◕‿‿◕ )╲ “要我说多少次你才懂！天蓬元帅是猪头这是一级机密！” <img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/u/1403766752" target="_blank">炼金术士gewesen</a>：不带这么黑包子的<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/n/%E5%A4%89%E6%85%8B%E7%AD%8B%E8%82%89?from=feed&loc=at" target="_blank">変態筋肉</a>:污蔑元首罪<img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
-<p><a href="http://weibo.com/kamikevin" target="_blank">风暴烈酒陈</a><i title="微博达人"></i>：泄漏国家机密罪<img title="[哆啦A梦吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]"></p>
-<p><strong>@Pro-Dylan：这已经和苏联笑话一样分不出真假了</strong></p>
-<p>@结衣社：圣上龙颜大怒，奴才诚惶诚恐。</p>
-<p>@姚广孝_wayne：一位年轻人在工作时抱怨道：“这种政府真差劲。”结果被一位秘密警察听到而遭逮捕。年轻人辩解说：“我根本没讲是哪个政府，你怎么可以随便逮捕我呢？”“你少骗人，”秘密警察咆哮道，“我在这里工作二十多年了，哪一个政府差劲我不会知道吗？”</p>
-<p>@6份H2O和4份CO2: 这他妈魔幻过头了</p>
-<p><a href="http://weibo.com/5240200822" target="_blank">Fisherman19841018</a>：此举在向偶像致敬，你们都没有看懂？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/2363697844" target="_blank">Chen大人驾到</a>：点赞会不会被抓的<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"></p>
-<p><a href="http://weibo.com/2115325034" target="_blank">峰少7V989</a><i title="微博达人"></i>：劳教没了，分分钟寻性姿势//<a href="http://weibo.com/n/%E5%AD%9F%E6%81%95%E5%8D%8E_2015?from=feed&loc=at" target="_blank">@孟恕华_2015</a>:麻痹，劳教三年，看你们再敢胡说<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@風痕四世：看来地方政府很知道今上是个什么东西啊。</p>
-<p>@霹靂小黑:真的不是@洋葱日报社 的新聞嗎！</p>
-<p>@只配叫猪_: 原来某人真的很在意啊。</p>
-<p>@下一站NewYork:癞痢头一般都忌讳听到“疤”、“癞”、“光”……</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2014/12/%E9%87%91%E4%B8%89%E8%83%96.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/12/%E9%87%91%E4%B8%89%E8%83%96.jpg" alt="金三胖" width="300" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%A6%81%E8%AF%B4%E5%A4%9A%E5%B0%91%E6%AC%A1%E4%BD%A0%E6%89%8D%E6%87%82%EF%BC%81%E5%A4%A9%E8%93%AC%E5%85%83%E5%B8%85%E6%98%AF%E7%8C%AA%E5%A4%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90%E5%B8%9D/?category=18271" rel="tag">包子帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AD%A6/?category=18271" rel="tag">网警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8F%B7%E7%A7%B0%E4%B8%8D%E8%A1%8C%E8%B4%BF%E7%9A%84%E9%A9%AC%E4%BA%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/" target="cdt-mirror">美国之音 | 号称不行贿的马云们如何处理政商关系</a>
-</h2>
-<p><div>
-<div>作者：慕小易</div>
-</div>
-<div>
-<div>
-<p>“双11”打败京东狂圈912.17亿元销售额的阿里巴巴董事局主席马云最近又放豪言。他作为浙商总会首任会长，在第三届世界浙商大会上呼吁“浙商永远不参与任何行贿”。而中纪委机关报也适时回应说“永不行贿的马云们，好日子在后头”，俨然一出双簧戏。</p>
-<p>11月17日，中纪委机关报刊文为马云的“不行贿”点赞。文章还引述微信公众号“学习小组”11月15日发布的一篇文章说，“这三年，习近平为总书记的党中央可谓冒着政治风险，不知打破多少人的‘奶酪’，与各种利益集团、既得利益者决战。”</p>
-<p>过去三年，反腐运动的确是打下了不少“大老虎”和“小苍蝇”，牵扯其中的一些政商间利益输送链也被阻断。商人对官场的依赖有所消解，却仍顽固不化。万达地产创始人王健林也承认说“在中国政商关系这门学问比博士后还要高”。</p>
-</div>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2013/02/MAYUN.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/02/MAYUN.jpg" alt="MAYUN" width="295" height="325"></a></p>
-<div>
-<p><strong>中国微妙的政商关系</strong></p>
-<p>一百年前，德国著名社会学家、政治学家、经济学家马克斯·韦伯曾在其著作《经济与社会》中写道：“在中国的官僚制社会中，官府的独断专行对资本主义的发展机会伤害巨大。”因为统治者对资本的垄断和攫取阻碍了私有经济的发展也限制了经济创新。</p>
-<p>遗憾的是，在一百年后的今天，这种官僚传统在中国依然根深蒂固。1945年，美国学者费正清在他的书中如此描述政商关系，他写道：“中国的传统不是制造一个更好的捕鼠机，而是从官方取得捕鼠的特权。”</p>
-<p>大军智库主任仲大军认为，中国目前正处于转型期，行政的作为对企业盈利的影响很大。</p>
-<p>他说，“政商关系非常微妙。有的时候是政府的权力与资本结合起来、联起手来赚钱，就是说企业赚了钱也要输送给官员。有时候是一种联合起来赚钱的关系。也有的时候是被迫的……比如说这个事儿让你干，你就可以赚钱甚至是赚大钱；这个事儿不让你干，甚至不让你这样干，你就可能赚不着钱。”</p>
-<p>人在中国的社会观察家田奇庄也认为，企业在中国的大环境下“想做到出污泥而不染，恐怕是一厢情愿”。</p>
-<p>他说，“我曾经在七八家大中型国企、私企都干过。可以说很多企业我也在这个企业的要害部门包括领导部门工作。那可以说每天上班一个很重要的任务就是给政府官员怎么行贿，怎么去通融，怎么去打通关系。你不这样做根本行不通。”</p>
-<p>他谈到，中国的政府官员不受监督、财产不用公示，许多权力的自由裁量空间也非常大。在这种情况下，企业想按照自己的意愿推进是非常困难的。</p>
-<p>而对于马云“不行贿”的口号，田奇庄用周永康的下场举例说，“他当年反腐败惩治别人，也都是调子唱的比谁都高，结果一查出来好家伙比谁作恶都多，别人都比不了他们。我觉得恐怕马云的这些事，有朝一日有人给他兜底的话，他也是无法自圆其说的。”</p>
-<p><strong>他们说自己不行贿，你信吗？</strong></p>
-<p>宣称自己从不行贿的，马云不是第一人。</p>
-<p>万科董事长王石也曾在自己的书中写道：“从我到深圳创业开始，不行贿就是我做事的一个基本的原则和底线。”他今年5月做客新华网《思客讲堂》栏目时说，“整个社会流行的问题不是行贿，而是根本不相信你不行贿。”</p>
-<p>子非鱼，这也本不是一个信与不信的问题。</p>
-<p>从十八大以来反腐行动的成果来看，来自商界的朋友圈成为导致官员落马的一大陷阱。企业家谋求政策优惠，官员也有意结交商界的朋友。晚清发家的“红顶商人”胡雪岩的故事至今仍为一些国人津津乐道。</p>
-<p>今年1月，马云的阿里巴巴因为被抽检出假货而与工商总局“杠”上了。当时，工商局抽检了淘宝51件商品，得出正品率37%的结论。淘宝抗议工商局的抽检程序违规，许多卖家没有受到抽检结果通知，工商总局也没有告知当事人有申请复检的权利，就直接向社会公开。企业和政府间的这场大戏导致阿里巴巴股价暴跌，之后马云立即与工商总局局长会面，握手言和，事情就这样摆平了。“不行贿”的马云当时对这位局长施了何种法术，观者不得而知。但就事态发展来看，处理政商关系，“来硬的”是不行的。</p>
-<p>主张“亲近政府，远离政治”的万达集团董事长王健林10月29日在“哈佛公开课”上发表演讲时也曝出万达集团发展迅速是得益于其与总共高层的关系。他表示习近平的姐姐齐桥桥和邓家贵夫妇都曾是万达上市公司的股东。</p>
-<p>马云筹办的湖畔大学研究过企业走向死亡的原因。研究结果是，死亡率第一位是政商关系。原因首先是中国制度政策的不确定性大；其次是民营资本和国有资本的资源不对等，经常遭遇绞杀；最后是企业家和官员间微妙的“友情”。有媒体用《论语》中的话形容这种关系：“近之则不逊，远之则怨”。</p>
-</div>
-</div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8F%B7%E7%A7%B0%E4%B8%8D%E8%A1%8C%E8%B4%BF%E7%9A%84%E9%A9%AC%E4%BA%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%A1%8C%E8%B4%BF/?category=18271" rel="tag">“不行贿”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">政商关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E8%B4%BF/?category=18271" rel="tag">行贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -779,7 +805,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%A1%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -789,5 +815,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%A1%8C
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

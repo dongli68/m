@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,82 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E6%96%B0%EF%BC%9A%E6%B2%A1%E6%9C%89%E8%96%84%E7%86%99%E6%9D%A5%E7%9A%84%E8%96%84%E7%86%99%E6%9D%A5%E8%B7%AF%E7%BA%BF/" target="cdt-mirror">自由亚洲 | 高新：没有薄熙来的薄熙来路线</a>
+</h2>
+<p><p>笔者在本专栏的上篇文章《胡伯伯和白毛女，习大大的“怀旧经典”》的最后一段中已经提及：说到习近平夫妇到越南共同怀念他们的胡伯伯，就不能不说此二人的另一“怀旧经典”《白毛女》。</p>
+<p>就在习近平夫妇在河内深情缅怀他们的胡伯伯的当天，国内党媒开始为“彭丽媛任艺术指导，《白毛女》70年后再度全国巡演”大作宣传，官媒报道文章中直言文化部作出如此重大安排，完全是在贯彻和落实习近平的重要指示。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%8812.05.06.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-19-at-%E4%B8%8B%E5%8D%8812.05.06.png" alt="Screen Shot 2015-11-19 at 下午12.05.06" width="351" height="213"></a></p>
+<p>此后，一向在政治敏感问题上比较大胆的《博客日报》刊登一篇题目为《重演“白毛女”，难道是为了老戏新看？》，质疑中共政权似要重新倡导“阶级斗争”，向青年一代渲染仇恨。</p>
+<p>文中说：“白毛女”讲诉一个名叫“杨白劳”的穷苦农民，因为欠了财主“黄世仁”的账，在临近过年的时候，黄世仁来讨债，杨白劳还不起债，后来逼死了杨白劳，并且把杨白劳的女儿“喜儿”强拉回去抵债，再后来，黄世仁强暴了喜儿，喜儿又想方设法逃出了财主黄世仁的魔爪，一个人流落深山，好多年以后，她的头发都全白了，这就是白毛女。</p>
+<p>故事的后面还有，在共产党解放了这里之后，喜儿才得以走出深山，并且借助革命队伍的力量，彻彻底底的报了自己的深仇大恨。</p>
+<p>文章作者认为，当年白毛女剧目出台的一个重要目的，或者说是重要的政治目的，就是揭露劳动人民被万恶的地主老财逼迫的家破人亡、妻离子散，而这个仇恨就是“阶级仇、民族恨”；就是要让人们明白，我们与他们不共戴天；就是要用这个经过特殊渲染的故事激发人们的仇恨之心。</p>
+<p>我相信他们成功了，因为那个时候的我，对地富反坏右也常常充满了仇恨，尽管我以及我们全家都没有受到过这种侵害。</p>
+<p>那么，现在重演“白毛女”，到底有什么目的和意义呢？</p>
+<p>很多人都是持反对意见的，他们认为，这个现象表达了一个信号，那就是我们是不是要走回头路，重新点燃人们自相残杀的怒火。那个时候是充满“人治”的思想认识，谁都可以代表人民批判谁，谁都可以代表人民打倒谁，谁都可以代表人民枪毙谁。我记得某个戏剧的台词是这样说的：“我代表人民代表党，枪毙你这个反动恶霸”。一点不需要经过审判，一条人命就没了。可怕吗？</p>
+<p>文章作者说：现在，我顺着即将巡演的“白毛女”的思路想，会不会是这样一个目的，你看啊，现在的那些有权的、有钱的，他们哪一个不是比黄世仁更黑更狠，把我们百姓逼得更惨呢？看看强拆、自焚、挖掘机压死、汽车撞死、被精神病、拘留、判刑等等，你是不是仇恨满胸膛……</p>
+<p>“凯迪社区”网站发表的一篇评论文章中说：邓小平、叶剑英、胡耀邦、习仲勋、任仲夷、万里等改革开放领导人，是坚决反击左倾思想左倾文艺的，这极左文艺，就包括祸国殃民的四人帮搞的八个狗屁样板戏。在邓小平改革开放时代，是不容许搞四人帮的极左文艺的，八个样板戏是禁止的！《白毛女》要宣扬什么？为什么今天有左倾货色耗费民脂民膏来搞这个东西？</p>
+<p>一、杨白劳欠债不还，难道还有道理有天理？不是讲信誉吗？讲信用吗？讲契约法则吗？</p>
+<p>二、宣扬人与人之间的阶级斗争？宣扬革命和反抗？你今天要煽动谁来反抗谁？要忽悠谁来搞革命？阶级斗争思想是中华民族一大祸害，煽动暴力和革命，在今天就是赤裸裸的反人民反文明的行为。那些别有用心又在全国搞《白毛女》的左倾货色，到底心怀什么目的？是推动中华民族的民主法治文明进步吗？</p>
+<p>三、当今中国，必须防左反左。邓小平南巡讲话，再三告诫全党：要防左反左！极左阶级斗争理论和思维是中华民族最大祸害！凡是维护阶级斗争理论的狗屁艺术，都是反党反人民反中华民族的！</p>
+<p>与习近平同龄的中国大陆人大都知道，王昆是第一代“白毛女”，郭兰英是第二任“白毛女”……而彭丽媛则被中共官媒排序为“第三代‘白毛女’”。</p>
+<p>中共官媒报道说，王昆为当时的中共首脑们表演“白毛女”时，“毛主席流泪了”。有国内网友调侃说，彭丽媛表演“白毛女”时，“习主席也流泪了”。</p>
+<p>按照中共官方媒体的记载：1985年，为纪念反法西斯战争胜利40周年和《白毛女》上演40周年，中国歌剧舞剧院决定重排歌剧《白毛女》，邀请彭丽媛主演“喜儿”。</p>
+<p>排演《白毛女》，由唱歌改为唱歌剧，有那么多的台词要背，那么多的动作要练，对彭丽媛来说这是一场严峻的挑战。但彭丽媛坚持下来了。</p>
+<p>按照官方媒体回忆文章中的说法，当年复排的歌剧《白毛女》取得了很大成功，原作者贺敬之看完演出后连声称赞：“出乎意料，出乎意料！”演出后，彭丽媛受到中央政治局委员、书记处书记习仲勋的接见。此时，彭丽媛还不认识习近平。</p>
+<p>虽然彭丽媛出演“白毛女”后，“习主席也流泪了”纯属调侃，但如今由彭丽媛以国母身份出任艺术指导的“第四代‘白毛女’”即将在北京接受习主席“亲切接见”几乎是可以肯定的。</p>
+<p>按照中共官方的安排，“第四代‘白毛女’”从延安开始的“全国巡演”，最后一站是北京，时间是十二月中旬。届时将在北京连演三场。</p>
+<p>七十年前毛泽东发表了《在延安文艺座谈会上的讲话》不久即在延安首演的“第一代‘白毛女’”，毛泽东率江青、周恩来等均有到场。七十年后，中共宣传部门为配合习近平“在北京文艺座谈会上的讲话”刻意推出的“第四代‘白毛女’”，习近平岂有不亲率文武百官到场观看的道理。而身为此剧艺术指导的彭丽媛更是百分之百会到场。笔者只是好奇届时的彭丽媛的座次会被如何安排？</p>
+<p>余杰先生在他的评论文章中说道：。二零一五年十一月六日，由习近平夫人彭丽媛担任艺术指导的新版大型歌剧《白毛女》在“革命圣地”延安上演，拉开全国巡演的序幕……</p>
+<p>就在一周之前，新华社全文发布习近平在一年前所作的“在文艺座谈会上的讲话”，并发表《中共中央关于繁荣发展社会主义文艺的意见》。《意见》指出：“弘扬中国精神、传播中国价值、凝聚中国力量，是文艺工作者的神圣职责。”《意见》要求集中力量、集聚资源，推出一批“有筋骨、有道德、有深度、艺术震撼力强的大作力作”。习近平话音刚落，彭丽媛就闪亮登场，夫唱妇随，如同江青充当毛泽东发动文革的马前卒。既然习近平以毛泽东为父，彭丽媛就以江青为师。</p>
+<p>余杰先生的此番评论应该也是调侃的成份居多。平心而论，无论是比当年的江青，还是比当年的王光美、叶群等人，彭丽媛在政治上要比他们低调的太多太多。</p>
+<p>与毛泽东相比，习近平绝对也是野心勃勃，但若真是要把彭丽媛比作江青，有欠公允。若单就人品说人品，无论是彭丽媛还是在他之前的胡锦涛夫人、江泽民夫人，似乎都没有遭人诟病的“硬伤”。</p>
+<p>再说了，如果把“重演白毛女”的目的理解成习近平只是要为自己的夫人彭丽媛“站台”，那也真得的太小看了习近平了。</p>
+<p>笔者在过去的文章中曾经介绍过当年习近平以中央政治局常委身份到重庆为薄熙来的“唱红打黑”站台的故事。</p>
+<p>当时的中共官媒报道说：在重庆考察期间，习近平在薄熙来等人的陪同下观看“唱读讲传”汇报演出……习近平还在薄熙来等人的陪同上走上舞台，与大家合唱《歌唱祖国》。</p>
+<p>考察期间，习近平参观了重庆市的“唱读讲传”活动成果展，他语气坚定地说：“‘唱读讲传’活动，是对广大党员干部进行理想信念教育的良好载体，也是生动的群众工作……重庆‘唱读讲传’深入人心，值得称赞。”</p>
+<p>在听取重庆市委、市政府的工作汇报的时候，习近平再次称赞说：重庆近年来以“唱读讲传”活动为载体，弘扬主旋律，干部群众的精神面貌发生了新变化……很多经验具有示范意义。</p>
+<p>由此可见，如今的习近平实际上是在推行着一条“没有薄熙来的薄熙来路线”。</p>
+<p>(文章仅代表特约评论员个人立场和观点)</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E6%96%B0%EF%BC%9A%E6%B2%A1%E6%9C%89%E8%96%84%E7%86%99%E6%9D%A5%E7%9A%84%E8%96%84%E7%86%99%E6%9D%A5%E8%B7%AF%E7%BA%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%89%88%E5%A4%A7%E5%9E%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E7%99%BD%E6%AF%9B%E5%A5%B3%E3%80%8B/?category=18271" rel="tag">新版大型歌剧《白毛女》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5%E8%B7%AF%E7%BA%BF/?category=18271" rel="tag">薄熙来路线</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BB%8E%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%89%A7%E6%B3%95/" target="cdt-mirror">美国之音 | 从香港书商失踪看中国的境外执法</a>
+</h2>
+<p><p>莉雅<br>
+最后更新 2015.11.20 00:16</p>
+<p>华盛顿—从香港铜锣湾书店瑞典籍老板桂民海在泰国失踪到维权律师王宇未成年儿子包卓轩在缅甸被警察拦截，从中国特工人员在美国擅自进行“猎狐”到拥有难民身份的民权活动人士董广平和姜野飞被泰国当局遣返回中国，中国当局为什么要跨境执法？</p>
+<p>时事大家谈: 从香港书商的神秘失踪说起<br>
+这种做法是否触犯了国际法？泰国等国家为什么要冒天下之大不韪对中国提供司法协助？是不得已而为之还是另有所图？</p>
+<p>参加这个话题讨论的嘉宾分别是香港五七学社出版公司出版人武宜山先生、美国纽约城市大学政治学教授夏明先生以及纽约大学法学院亚美法研究所访问学者滕彪律师。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/20151111-073306_U1085_M101697_bc7b.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/20151111-073306_U1085_M101697_bc7b.png" alt="20151111-073306_U1085_M101697_bc7b" width="550" height="366"></a><br>
+铜锣湾书店</p>
+<p>有过被失踪经历的维权律师滕彪表示，中国的人权捍卫者和异议人士经常遭遇各种各样的非法对待，包括失踪、酷刑等，迄今为止中国还有很多维权律师处于被失踪的状态，而桂民海及其员工的情况则更为严重，因为桂民海是拥有瑞典籍的香港人，他在泰国基本上可以确定是被中国安全部门绑架并被遣送回国的。在他看来，这是极其严重的践踏国际法的行为。这位律师认为，从桂民海被绑架、维权律师王宇未成年儿子包卓轩与两位维权人士在缅甸被遣送回国到董广平和姜野飞被泰国当局遣返，这些动作发出了一个非常严重的信号，即中国政府把这种对人权的粗暴践踏在国外大量运用。当然，他指出，在习近平上台之前，也发生过民运人士王炳章被从越南绑架回国的先例，但是并不是特别多。在他看来，习近平上台之后，中国当局想要扩大镇压的水平和规模。从2012年底、2013年初以来，中共在国内进行了全面的、严厉的镇压，包括对维权律师、互联网、教会、大学、非政府组织以及意识形态的控制，在两三年抓捕的人远远超过之前的10年。与此同时，在国外同样也加强了镇压，对一些在国外的维权人士进行威胁、跟踪等，同时还利用孔子学院在全球的扩张，把侵犯言论自由的做法扩大到世界各地。</p>
+<p>香港的出版商武宜山认为，中国政府必须尊重桂民海作为一个外国公民的权利，不能在境外随便执法。他说，如果连自己的宪法和国际法都不尊重，将来会出现很大的问题，就像刘少奇践踏宪法结果自己也得不到宪法保护一样。他认为，这种做法最后会使包括习近平到普通百姓在内的人都生活在恐惧之中，没有一个人有安全感。他说他经常告诫来自中国大陆体制内的人，不要把监狱的墙越盖越高，否则很可能把自己就关进去了。他说，每一个人都应该遵守法律。他还认为，香港是中国的逃生门，如果这个门被堵死的话，将来受害的也是你们这些官员，不管是清官还是贪官，都是自断后路。他还呼吁香港政府关注香港出版商等人失踪的问题。他认为，香港政府、中联办以及北京当局都必须对这个问题加以澄清，确保香港人的安全以及香港的“一国两制”与高度自治。如果破坏香港的基本法，对中国当局的打击也会很大。</p>
+<p>夏明教授表示，中国当局是有钱就乱来，有权就任性。曾经在乘坐台湾中华航空公司航班前往印度、在广州停留期间被中国扣押、审讯的夏明认为，中国当局在境外抓人的做法当然是践踏国际法的行为，因为它是在享受一种治外法权，最根本的问题在于，它把你作为外国公民所做的事情作为罪证来治理。</p>
+<p>香港本来一直有不少出版被中国当局视为禁书或是敏感书籍的书店，当局为什么现在对桂民海及其书店采取行动呢？</p>
+<p>武宜山认为，这可能是因为很多大陆游客到香港来，中国当局不想让他们接受负面消息的书刊的所谓“污染”，同时因为有些八卦政治书籍也许不符合事实，或者有夸大或者歪曲之嫌，让他们很伤脑筋，从而对这些八卦书籍下手。他举例说，他出版了桂民海没有出版的书《双规》，到目前为止这本书的作者在国内还是安全的，而《墓碑》的作者杨继绳也是安全的，这是因为这些书符合事实，当局对他们也没有办法。</p>
+<p>不过维权律师滕彪和夏明教授不太同意这个看法。</p>
+<p>夏明认为，习近平的权力欲与肆意妄为达到了中国历届领导人之首。最根本的问题是可以不可以批评习近平。作为公众人物，大家的评论、批评是正常的。同时，如果中国官方自己写的东西，包括习近平写的东西，都不是真实的，他们有什么权力要求别人写的东西一定是真实的？他还认为，香港出版商姚文田出版了包括他在内的很多学者的严肃书籍，却被判10年徒刑。他认为，这些人被抓的背后还有一个动因，这就是习近平怀疑，他的权力遭到很大一个系统的威胁，即出版界是一个很大的利益集团，对他进行有组织、有系统、有预谋的倒习，因此他想通过抓捕这些出版商，想布一个更大的局，挖出一个倒习集团。他认为，这是中共党内权力斗争以及习近平的恐惧的一个延伸。</p>
+<p>滕彪表示，中国对香港书商的迫害，并不是因为他们出版了不真实的书籍，传播了谣言，而是出版了中国不满意的东西。他说，这些书的编辑和出版在香港，在国外，即使违反法律，也应该由香港和外国处理。其次，这些书籍并没有违反所在地所在国的法律。中国通过绑架的方式，这是践踏法治的行为。</p>
+<p>对于为什么中国能够得到泰国以及缅甸等国家的协助的问题，滕彪认为，这主要还是中国对周边邻国、一些小国和弱国仍然具有非常大的影响力。他说，泰国从原来的民主政府转变为现在的军政府，因此更加可以不考虑人权、民主等普世价值，而中国的经济实力和政治影响力也迫使这些国家不得不对中国低头。</p>
+<p></p><p><a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BB%8E%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%89%A7%E6%B3%95/"><em>点击这里查看嵌入的视频。</em></a></p><br>
+Youtube视频
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BB%8E%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%89%A7%E6%B3%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%8D%93%E8%BD%A9/?category=18271" rel="tag">包卓轩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E8%92%99%E8%92%99/?category=18271" rel="tag">包蒙蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%A8%E5%A2%83%E6%8A%93%E6%8D%95/?category=18271" rel="tag">跨境抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BD%91%E6%98%93%E4%BA%BA%E9%97%B4-%E6%B4%A5%E7%88%86%E7%99%BE%E6%97%A5%EF%BC%9A%E6%8F%A1%E4%B8%8D%E4%BD%8F%E7%9C%BC%E6%B3%AA%E7%9A%84%E6%9D%91%E5%BA%84/" target="cdt-mirror">网易人间 | 津爆百日：握不住眼泪的村庄</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/tianjingbaozha.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/tianjingbaozha.png" alt="tianjingbaozha" width="600" height="397"></a></p>
@@ -695,60 +768,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%A1%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/" target="cdt-mirror">德国之声 | 德语媒体：“北京继续允许酷刑”</a>
-</h2>
-<p><p>本周二（11月17日），联合国反酷刑委员会在日内瓦商讨关注中国监狱中的酷刑问题。中国政府代表也必须就此给予解释。德语媒体关注到，虽然中国的法律命令禁止刑讯逼供，但酷刑虐待在中国仍然是“家常便饭”。</p>
-<div><a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/a-18855952#" rel="nofollow"><img src="http://www.dw.com/image/0,,17939364_303,00.jpg" alt="Amnesty International - Copy of CHINA Report Trade tools of torture and repression" width="550" height="310" border="0"></a></div>
-<div>
-<div>
-<p>（德国之声中文网）德国《日报》本周二（11月17日）发表了题为”北京继续允许酷刑”（Peking lässt weiterhin foltern）的文章，认为中国虽然形式上取消了”劳教”制度，但仍然有受害者表示遭遇了系统性的酷刑。如今，联合国反酷刑委员会将关注商讨这一问题。</p>
-<p>生活在北京的作者在文章开头写道：”他在骗人吗？这是视而不见？还是他真的不知道这个国家的监狱里是什么情况？中国外交部发言人上周四否认系统性的实施酷刑在中国仍然是常规做法。在面对外国记者的提问时，他表示’中国法律命令禁止刑讯逼供……我们将继续改善有关人权和法律保护的规则，让每个人受到公平、平等的待遇。'”</p>
-<p>作者继续写道：”有关指责确实很严重。大赦国际组织上周公开的纪录记载了许多囚犯在狱中受酷刑的情况。这一人权组织的报告内容令人震惊。不仅仅是监狱的情况非常糟糕。嫌犯经常要面对数个小时的审讯，挨打挨踢。不让他们睡觉，也不给他们提供水、食物和药品。他们必须在事先起草好的认罪书上签名。如果不服，警察就会动用其它的酷刑。”</p>
-<p><b>中国官员必须做出回应</b></p>
-<p>本周二，联合国的反酷刑委员会在日内瓦关注中国监狱的现状。这个联合国委员会负责监督遵守联合国反酷刑公约的情况，将在讨论过程中注意到大赦国际以及其它人权组织的有关报告。中国1986年签署了反酷刑公约。所以，政府代表必须于本周三就相关指责做出回应。</p>
-<p>作者随后引述中国维权律师余文生在狱中遭遇酷刑的经历写道：”余文生不是个别现象。仅今年一年，中国安全部门就逮捕了大约300名律师和其工作人员。许多人都表示遭受了酷刑和严重的虐待。大赦国际的中国问题专家潘嘉伟（Patrick Poon）表示：’如果律师都会受到酷刑的话，那在这个体系中的被告们还能抱什么希望呢？'”</p>
-<div><a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/a-18855952#" rel="nofollow"><img title="在中国，律师也免不了受酷刑折磨（摆拍资料图片）" src="http://www.dw.com/image/0,,17736285_401,00.jpg" alt="Folter Asien Symbolbild Inszenierung UNSCHARF VERFREMDET" width="550" height="310" border="0"></a>在中国，律师也免不了受酷刑折磨（摆拍资料图片）
-</div>
-<p>文章指出：”中国国家领导人习近平三年前上台后，多次强调依法治国，承诺提高司法和政府机关的透明度。他取消了臭名昭著的’劳教所’。在那里盛行的酷刑手段本应一去不复返。但人权组织’人权观察’继续向中国发出严厉的指责。人权问题专家理查森（Sophie Richardson）批评称’酷刑仍然是中国的日常现实。’她呼吁中国政府回答，’为什么这些问题仍然存在’。”</p>
-<p><b>律师们遭遇的酷刑待遇</b></p>
-<p>《法兰克福汇报》不久前也发文关注中国监狱里的酷刑问题。该报指出，虽然官方严禁实施酷刑，但在中国的监狱和拘留所中，犯人仍然会饱受折磨，在暴力下被迫认罪。大赦国际组织11月12日公布的一份报告指出，中国司法体系仍然相信那些通过虐待和酷刑手段所签署的认罪书。同时，那些为异议人士和国家机关为所欲为的受害者辩护的律师们也成为了被实施酷刑的对象。</p>
-<p>随后作者详细列举了几个受害律师的经历。包括”律师唐吉田原本计划2014年考察一处劳改机构的现状，他被捕后被绑在一个铁板凳上，挨打直至失去意识。一个来自湖南的律师声称，他被挂在一块木板上好几个小时。另外一名律师说，被戴上手铐的他要面对难以忍受的疼痛。国际大赦组织在报告中提及了37名中国律师，他们受到了酷刑包括不准睡觉、不准进食进水。”</p>
-<p><em>[摘编自其他媒体的内容，不代表德国之声的立场或观点]</em></p>
-</div>
-</div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%BB%A7%E7%BB%AD%E5%85%81%E8%AE%B8%E9%85%B7%E5%88%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%8D%E9%85%B7%E5%88%91%E5%85%AC%E7%BA%A6%E3%80%8B/?category=18271" rel="tag">《反酷刑公约》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%96%87%E7%94%9F/?category=18271" rel="tag">余文生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%8B%B1/?category=18271" rel="tag">监狱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E6%9C%BA%E9%A1%B6%E7%9B%92%E8%A2%AB%E5%BA%9F%E6%AD%A6%E5%8A%9F-%E7%BD%91%E7%BB%9C%E6%8E%A7%E5%88%B6/" target="cdt-mirror">自由亚洲 | 网络电视机顶盒被“废武功” 网络控制力度几达顶峰</a>
-</h2>
-<p><p>网络电视机顶盒近年在中国大陆广受欢迎，但近日中国当局开始对境外电视网络接收设备进行全面封杀，再次加强针对舆论和网络的控制力度。</p>
-<p>中国当局目前已开展针对网络电视境外接收设备和软件的严厉打击行动。中国广电总局近日宣布，封禁81个智能电视盒子的应用程式，包括风云直播、泰捷视频和喜马拉雅等第三方视听应用。当局指这批应用程式“涉嫌传播违规有害内容”，包括提供美国之音、BBC等境外电视台直播或节目点播服务以及提供未经取得发行放映许可证的电影、电视剧。而被封杀的名单中还包括凤凰卫视、香港卫视等有中资背景的应用程式。</p>
-<p>对此，机顶盒用户、维权人士刘四仿接受本台采访时称，自上周开始，盒子内众多影视应用无法使用，当局尤其将海外网路传媒作为打击重点，显示对来自境外的消息格外恐惧，该行动虽然打着维护版权、净网的名义，但重点落在“国家安全”。</p>
-<p>刘四仿：“我也是一个使用网络机顶盒的用户。中国大陆的网民为什么会选择使用网络机顶盒，就是因为当局控制对媒体，特别是电视媒体的报导，没有民间媒体。所 以我们不愿意去看他的枯燥乏味的严重洗脑的政治宣传。我记得是从前天开始，就发现已经不能使用，弹出的介面就显示根据政府的指令，在升级当中，防止非法的 电视节目传播。在中国的网络能有什么非法的电视节目传播？中国大陆的互联网都是过滤的，还有什么东西政府的黑手没有伸到的地方呢？这个简直是无稽之谈。他 们是为了进一步的用他官方垄断媒体，他不希望国民脱离他的洗脑式宣传，的这才是最重要的。”</p>
-<p>在广电总局采取行动之前，本台上月就曾报道，有媒体人爆料指，中国将展开境外电视网络接收设备专项整治行动，曝光由公安部和广电总局等四个部门联合下发的《关于依法严厉打击非法电视网络接收设备违法犯罪活动的通知》显示，当局要求各部门，重点对包括对网络接收设备“电视棒”等定向接收软件或硬件机顶盒、网络软件、移动互联网客户端等进行查处。</p>
-<p>事实上，这已不是广电总局首次整治行动，广电总局曾先后禁止视频网站播放日本动漫、美剧等。但之后，央视却引进译制了《生活大爆炸》，经删减后播出。被网民抨击为“垄断”、“以权谋私博收视率”。</p>
-<p>除了加强控制网络电视内容之外，中国文化部上周宣布，从明年1月1日起实施网络音乐审查新规定，尤其针对音乐内容，必须经过审核通过后才可上线。</p>
-<p>对此，广西作家戚钦宏告诉本台，当局越是加强对海外网路的管控，越会导致民间反弹，且不少软件开发商也一直在研发各类翻墙应用，帮助民众获取被当局封锁的消息。</p>
-<p>戚钦宏：“现在的信息已经没办法封锁了，互联网已经很发达了。我在微信、微博QQ上看到，当局想控制的信息大家都可以了解了，比如在微信上大家都可以看到很多网民翻墙后转来的信息。这段时间大家关注张六毛事件，还可以看到高智晟的消息，所以说怎么封锁呢？这样的努力是徒劳的，网络的柏林墙现在已经被推翻了，觉醒的人已经很多了。”</p>
-<p>特约记者：忻霖 责编：胡汉强/吴晶</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509047a41a_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509047a41a_550.jpg" alt="201511161509047a41a_550" width="550" height="823"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/2015111615090632584_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2015111615090632584_550.jpg" alt="2015111615090632584_550" width="550" height="865"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161512164dea2_550.jpg"><br></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509080f572_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161509080f572_550.jpg" alt="201511161509080f572_550" width="550" height="876"></a></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201511161512164dea2_550.jpg" alt="201511161512164dea2_550" width="550" height="834"><a href="http://chinadigitaltimes.net/chinese/files/2015/11/20151116150912bd294_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/20151116150912bd294_550.jpg" alt="20151116150912bd294_550" width="550" height="271"></a></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E6%9C%BA%E9%A1%B6%E7%9B%92%E8%A2%AB%E5%BA%9F%E6%AD%A6%E5%8A%9F-%E7%BD%91%E7%BB%9C%E6%8E%A7%E5%88%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">信息控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86/?category=18271" rel="tag">封杀网络电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90/?category=18271" rel="tag">电视盒子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%92%E5%AD%90/?category=18271" rel="tag">盒子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">网络控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86/?category=18271" rel="tag">网络电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -760,7 +779,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -770,5 +789,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

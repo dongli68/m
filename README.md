@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,128 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E7%9A%84%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E9%9D%A2%E4%B8%B4%E6%89%B9%E8%AF%84/" target="cdt-mirror">美国之音 | 中国律师的评级制度面临批评</a>
+</h2>
+<p><p>作者：黄丽玲</p>
+<p>今年，中国因为打压维权律师而受到国际社会的批评。有报道称，政府可能计划进一步限制法律职业。</p>
+<p>中国媒体报道，曾帮助起草包括中国刑法修正案在内的法案的人民大学法学教授陈卫东说，当局可能很快就会推出一个给律师评级的机制，允许地方司法局依据资历给律师评级，并且仅允许一定等级的律师接手高等法院的一些重要案件。</p>
+<p>周末，陈卫东在广州的一个座谈会上说：“律师需要特定资格才能代理某些类型的案件，如死刑案。”</p>
+<p>目前该计划的细节尚未公布，包括这种机制如何运作，以及分级机构是否有独立性。但该计划已经引起对可能的滥用权力的担忧。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-20-at-%E4%B8%8A%E5%8D%8810.48.21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-20-at-%E4%B8%8A%E5%8D%8810.48.21.png" alt="Screen Shot 2015-11-20 at 上午10.48.21" width="550" height="307"></a><br>
+上海第一中级人民法院 (2010年3月 资料照片)</p>
+<p><strong>压制直言不讳的律师的工具？</strong></p>
+<p>维权律师陈建刚称，这种机制最终会变成一个授权政府进一步打压反对派和敢说真话律师的工具，他们当中许多维权律师被捕或被拘留，只是因为他们尽职做好份内工作。</p>
+<p>陈律师说：“一些律师已经被投入狱中，而另一些(像我这样的)人可能被进一步排除在他们的执业之外(根据新提案)。也就是说，在这样一个制度下，所有人权律师都将彻底消失。”</p>
+<p>陈建刚曾代理过反腐活动人士，其中包括新公民运动成员张宝成。陈建刚说，他现在已经很难接手代理案件，因为警察不断拒绝他和客户见面，或威胁把他关起来。</p>
+<p>他说，他执业的整体情况表明，中国公民权利的进步已经陷入困难。</p>
+<p>陈律师说：“中国从来就没有权力制衡。当局一直任意行事，这导致了广泛的司法误判。”</p>
+<p>但不是所有的律师都对此制度持批判态度。</p>
+<p>北京律师协会刑事诉讼委员会秘书长李肖霖说，这样的评级制度的动机可能是好的，能惩罚表现不好，不合格的律师。</p>
+<p>他说：“我们经常看到一些没有经验的律师接手他们处理不了的大案子，损害他们当事人的权利。”</p>
+<p>李肖霖还曾在著名演员刘晓庆的逃税案件中担任律师。他说，在这种情况下，一个公平的评级制度可以更好的指导当事人聘请律师为他们辩护。</p>
+<p>他说：“我认为一个适当的评级制度是合理的，但如何设计分级制度，事关重要。同时，有时侯，甚至大牌律师可也能没有做好自己的本职工作。”</p>
+<p>不过，李肖霖不同意当地司法部门应参与律师评级。相反，他说，包括律师在内的法律专业人士的意见应该被纳入考虑，原则上，这样一个制度应符合国际惯例。</p>
+<p>问题是，很少有给律师评级这样的国际先例。</p>
+<p>北京大学宪法学教授张千帆说，例如，英国没有律师评级制度，不过其中一些律师因擅长法庭辩护和诉讼而备受推崇。</p>
+<p>张教授说：“就我个人而言,我反对律师评级，因为他们的表现通常是由该行业评估。不论什么样的评级标准，或者不论谁来授予等级，滥用权力将不可避免。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E7%9A%84%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E9%9D%A2%E4%B8%B4%E6%89%B9%E8%AF%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%83%E5%B8%86/?category=18271" rel="tag">张千帆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%AE%9D%E6%88%90/?category=18271" rel="tag">张宝成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">律师评级制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">新公民运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E8%82%96%E9%9C%96/?category=18271" rel="tag">李肖霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%B3%95%E6%B2%BB%E8%AE%B2%E5%BA%A7%E8%A2%AB%E5%8F%96%E6%B6%88-%E4%BC%A0%E8%A2%AB%E5%A8%81%E8%83%81%E6%89%94%E9%9E%8B/" target="cdt-mirror">博谈网 | 贺卫方法治讲座被取消 传被威胁扔鞋</a>
+</h2>
+<p><p>（博谈网记者苏智敏报道）北京大学知名法学教授贺卫方在中国科技大学11月21日14点30分的讲座“法治国家的社会根基”突然被取消。贺卫方在微博上透露被阻止的原因，网络一片热议。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-20-at-%E4%B8%8A%E5%8D%8810.43.47.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-20-at-%E4%B8%8A%E5%8D%8810.43.47.png" alt="Screen Shot 2015-11-20 at 上午10.43.47" width="438" height="571"></a><br>
+贺卫方教授在合肥中国科技大学报告会《法治国家的社会根基》海报</p>
+<p><strong>反击</strong><br>
+网友“JING-TIME”19日在个人微博上，透露她的疑问：“说有同学到图书馆举报抵制贺卫方，扬言如不取消必到现场扔鞋；还有人说抵制；在海报上涂写称校方居然请这等人渣。好端端的讲座因此取消，为什么呢？”</p>
+<p>而中国科技大学网站11月18日公布的贺卫方讲座公告也悄悄撤下，但没有说明取消原因。</p>
+<p>据网友“JING-TIME”上传的宣传海报档案，讲座“法治国家的社会根基”的主要内容为：如果没有国民对于法治的尊崇，对合理社会构造的追求，纵然有好的法律规范，法治国家的建立仍是空话。因此贺卫方将通过对中西历史的比较，梳理法治国家的社会条件，为当今的法治建设提出新的思路。</p>
+<p>面对演讲被取消，贺卫方本人20日在微博上透露主办单位告知的取消原因，及他的感叹：“大冬天的，扔掉鞋，光脚走路，太不爱惜自己了！难以置信。昨天组织者告诉我取消讲座的原因是报告厅‘顶棚下塌’，有安全隐患。这个我倒是更相信一些（据观察，近来中国几乎所有大学的真正学术报告厅顶棚都下塌了）。期待‘顶棚’早日修复，俺再专访鼎鼎大名的中国科技大学。”</p>
+<p>同一天，贺卫方还发现一位网名“ustc快乐无罪”的人，19日在其个人微博上发表反对贺讲座的言论：“已经给校宣传部和图书馆去了电话，他们正在撤宣传，然后把贺卫方拒掉。就静等消息吧。”“组织现场去拉横幅轰走”</p>
+<p>贺卫方批评打电话施压与打横幅威胁的举动，他认为如果“ustc快乐无罪”真有自信，应是到演讲现场，在讨论阶段发表自己的道理。如果道理足以服人，贺卫方相信不仅现场听众，连他本人也会鼓掌。</p>
+<p>随即贺卫方又表示，“ustc快乐无罪”阻止演讲，是“立了功”，因此揭露他的真实身份，：“根据你微博信息和个性域名zoucs，你就是现任在合肥的清华大学公共安全研究院院长助理的邹春森博士。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-20-at-%E4%B8%8A%E5%8D%8810.42.40.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-20-at-%E4%B8%8A%E5%8D%8810.42.40.png" alt="Screen Shot 2015-11-20 at 上午10.42.40" width="548" height="364"></a><br>
+合肥清华大学公共安全研究院院长助理邹春森微博言论极端</p>
+<p>接着，贺卫方搜出邹春森曾在微博上发表的言论，并批评他满口污言秽语，并在网络上搞恐怖主义：“今年十月三日，他针对一则有关《易中天文集》首发式的报道，说‘带个炸弹过去，为民除害一把炸光’。十月六日又叫嚣”这些公吱要杀一批“。从刑法角度说，这已经是明显的犯意表示了。”并透露邹春森已把要丢炸弹的微博删除。</p>
+<p>目前“ustc快乐无罪”个人微博，最新的讯息只有“贺公公气急败坏的带着一帮水军来我的微博撒泼”。在他的微博上，除了阻止贺卫方讲座等讯息外，还可看到他转发了“@中国公知精神病总院：美国是邪恶轴心国家的带头大哥”，并对袁裕来律师微博被封一事表示：“看着公吱们一个一个被咔嚓真是有爽感，下面好期待。”另外，当美国总统民主党参选人希拉里就“跨太平洋伙伴关系协定（TPP）”表明她不支持该协定的新闻出来时，“ustc快乐无罪”留言说：“美狗们，你们的主子闹内讧了，你们是不是也要把狗头劈成两半分开吠”并在后面标注了贺卫方、演员孙海英及九江市公安局民警段兴焱“段郎说事”。</p>
+<p><strong>热议</strong><br>
+贺卫方讲座被取消一事，在网络上引来热议。有网友讽刺的表示，应授予那些学生“正能量楷模”或“爱国学生”等称号。也有人批评那些阻止演讲的人是“一群下跪的奴才，就是不肯站起来！你要让他站起来，它还要朝你扔鞋。”</p>
+<p>透露自己也是科大学生的“木谷1990”则表示：“我感觉每个学校都有那种严重被洗脑的，但是据我看大部分学生都有很强的独立思考能力，本人很欣赏贺教授的法治宪政精神。”</p>
+<p>长期研究宪政和法治的北京大学法学教授贺卫方，在今年1月被宁波市委宣传部徐岚撰文批评，题为“高校宣传思想工作难在哪里？”的文章刊在中共党刊《求是》杂志的官网《求是网》，文章批评中国一些高校教师运用知识权力影响青年人，利用大学讲台抹黑中国，并特别点出了贺卫方和陈丹青的名字。陈丹青是一位著名画家，曾任清华大学美术学院教授，2004年因为不满招生制度而离职。</p>
+<p>另外，在今年10月1日，贺卫方发微博称：“我的祖国可能是齐国，也许祖上本身就是外来人。无论如何，既然说祖国历史悠久，文明灿烂，那就绝对不是这个刚刚六十多年的国。事实不符，逻辑难通。古人知道朝廷如流水，故国河长在，但若用‘本朝’的传统说法，又仿佛至今仍是个帝国。诚是大难！”这则微博同样引来“祖国不等于中共统治的中国”这一话题的议论。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91-%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%B3%95%E6%B2%BB%E8%AE%B2%E5%BA%A7%E8%A2%AB%E5%8F%96%E6%B6%88-%E4%BC%A0%E8%A2%AB%E5%A8%81%E8%83%81%E6%89%94%E9%9E%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ustc%E5%BF%AB%E4%B9%90%E6%97%A0%E7%BD%AA/?category=18271" rel="tag">ustc快乐无罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E7%B2%AA/?category=18271" rel="tag">左粪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E8%AE%B2%E5%BA%A7%E9%81%AD%E5%8F%96%E6%B6%88/?category=18271" rel="tag">贺卫方中国科技大学讲座遭取消</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%B9%E6%98%A5%E6%A3%AE/?category=18271" rel="tag">邹春森</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%A8%8A%E4%BA%AC%E8%BE%89%E8%A2%ABis%E5%A4%84%E5%86%B3%E4%BA%86-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/" target="cdt-mirror">端传媒 | 樊京辉被IS处决了 中国人怎么看？</a>
+</h2>
+<p><p>中国人质樊京辉被伊斯兰国处决，深夜的即时新闻被撤回，次日清晨官方回应占据主流新闻版面，震惊、愤怒、惋惜、不解、同情以及淡漠，种种情绪从人们心中释放。</p>
+<p>骇人的消息在11月18日深夜传来，一名中国人质被伊斯兰国组织处决。新闻马上被尚未入眠的中国民众关注，然后在各自的发布界面上被莫名其妙地撤回，直到次日清晨来自官方表态和外交部的回应占据主流新闻版面，震惊、愤怒、惋惜、不解、同情以及淡漠，种种情绪从人们心中释放。最终，人们得知，一个陌生的中国人，就这样死了。</p>
+<p> </p>
+<p><strong>18日深夜 “IS杀了中国人”</strong></p>
+<p>伊斯兰国组织（IS）在其主办的英文电子刊物《Dabiq》上宣布杀死了一名中国人质和一名挪威人质。该杂志展示了两名人质的尸体照片，并声称“被异教国家和组织遗弃之后遭处决”。</p>
+<p>很多媒体记者立即联想到两个月前，伊斯兰国组织宣称扣押两名人质，并索要赎金。其中一名人质为中国公民，姓名拼写为“FAN JINGHUI”。之后，这名人质被确认为50岁的北京人樊京辉。</p>
+<p>中国各大新闻及门户网站均在当日23时左右，相继发布突发新闻，美联社（AP）的消息被大量引用：受害人质为中国公民Fan Jinghui（50岁）和挪威公民Ole Johan Grimsgaard-Ofstad（48岁）。消息在中文世界流传开来。</p>
+<p>不少网民表示震惊。过去两年中，IS抓获西方国家人质的新闻陆续付诸中国媒体报端，但中国尚未派一兵一卒参加国际联盟对IS的打击，此前也没有中国公民卷入绑架事件当中。对于IS，中国人一向是置身事外的态度。</p>
+<p>“中国的重心不在中东而在亚太。南海、新疆、朝鲜半岛、台湾、东南亚这才是跟中国利益相关的，只要极端组织没有打到阿富汗和中国的国境线，我们就不会把重心放到中东。”热门问答网站知乎的一位匿名网友如此评论。</p>
+<p>“什么怨，什么仇？”很多网友在微博等公众平台表示对杀害中国人质的不明就里。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-20-at-%E4%B8%8A%E5%8D%8810.36.32.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-20-at-%E4%B8%8A%E5%8D%8810.36.32.png" alt="Screen Shot 2015-11-20 at 上午10.36.32" width="550" height="367"></a><br><span>2015年11月12日，叙利亚，在对抗ISIS的战争阵亡的战士被葬于烈士墓园， 死者的家人到墓园悼念。摄：John Moore/GETTY</span></p>
+<p> </p>
+<p><strong>谁是樊京辉？</strong></p>
+<p>至19日清晨，此前只是零散呈现在小范围媒体记者视野中的樊京辉过往经历，包括他曾为中学教师、后来进入广告行业等细节被曝光。人们才知道，早有大陆媒体记者在两月前，就追查到他的家中，联系到其妻子，但采访均受阻或被拒绝。也有记者曾目睹北京外事办和公安部门人员到访樊家。</p>
+<p>搜索过往网络信息，人们发现，2001年樊京辉在广播电台接受主持人白岩松的采访时曾说，“从某种意义上来说，我要刻意追求这种不安全感，因为他能使我产生一种不安全以后的那种快感……一旦有一天，他们在自己的基本生活能够得到保证的情况下，我相信相当一部分人会选择飘流。”</p>
+<p>截止19日截稿时，樊京辉前往伊拉克的具体原因尚不得世人而知，但他的人格因这段访谈中的对话而被媒体放大。</p>
+<p>甚至在一篇署名为张敬伟的文章《ISIS“叫卖”中国人质 考验中国政治智慧》中，被害的樊京辉被批评是 “有些不负责任”。</p>
+<p>“莫名其妙跑到中东，仅仅是为了满足‘不安全以后的那种快感’？”文章公开指责。</p>
+<p>也有人批评媒体的报导倾向很冷血：“国内報導lS處死中國人質，標題均有追求不安全感等字樣，這是很混帳的。”</p>
+<p> </p>
+<p><strong>19日凌晨三点 “还以为是假新闻”</strong></p>
+<p>19日凌晨三时许，中国外交部网站发表回应：“中方已注意到有关报导……将进一步核实相关情况。”</p>
+<p>与此同时，国内各大门户网站和新闻平台正在筹备次日对人质被杀事件的报导，但有消息称，中国官方勒令删除相关新闻报导。各大媒体只得纷纷连夜将稿件撤下。这使得许多中国民众在清晨才发现不少新闻被删，一度以为樊京辉被害是假新闻。直到稍晚外交部的回应公布，人们才最终确信。</p>
+<p>端传媒记者在一些尚未删除的微博新闻内容下面发现，当夜不少网友在猜想甚至嘲讽中国方面可能出现的外交语言，例如“明天华春莹又得开复读机”（华春莹为外交部新闻发言人），“必须谴责，才配得上法美俄的狂轰滥炸”以及“估计不会谴责了，软的怕硬的，硬的怕不要命的”。</p>
+<p>有猜测指出，官方或因尚未确定被害者身份，担心引起恐慌，故暂时封锁消息。</p>
+<p> </p>
+<p><strong>19日上午十点 “《环球时报》出来走几步？”</strong></p>
+<p>19日上午10时许，中国外交部网站发表消息，确认中国公民樊京辉被伊斯兰国组织杀害。</p>
+<p>“中国政府有关部门第一时间启动应急机制，想方设法开展营救工作。但恐怖组织无视人类良知和道德底线，仍然采取惨无人道的暴力行径。中国政府对这一泯灭人性的暴行予以强烈谴责，一定要将犯罪分子绳之以法。”外交部发言人洪磊发表谈话称，“中国政府坚决反对一切形式的恐怖主义……中方将继续同国际社会加强反恐合作，维护世界和平与安宁。”</p>
+<p>此后，端传媒所观察到的绝大部分中文媒体报导，均引用外交部的发言。中国官方迅速掌握主流言论导向。</p>
+<p>一篇发表于2014年9月《环球时报》的旧文，《美国惹出ISIS麻烦 中国没必要也没能力替美操心》，陆续被网友挖出来广泛转发，用来嘲讽官方态度的前后矛盾。</p>
+<p>文章写道：“目前我们对‘伊斯兰国’真实情况知之甚少，很难轻易定性。‘伊斯兰国’固然是中东治理失败和美国政策失误的结果，但该组织兴起后，能够在伊叙两国迅速攻城略地，如果没有一点合理性成分，肯定说不过去。目前，西方媒体一味渲染该组织残杀俘虏、斩首西方人质的极端性一面，对该组织的其他侧面却鲜有提及。”</p>
+<p>拥有58万粉丝的实名微博账号“战争史研究WHS”发表评论说：“《环球时报》、胡锡进、田文林，出来走几步？”</p>
+<p> </p>
+<p><strong>19日上午十一点 “打IS又不是抢风头”</strong></p>
+<p>上午十一点，中国国家主席习近平就樊京辉被伊斯兰国组织杀害事件发表讲话，再次重申外交部立场。</p>
+<p>一个小时之后，中国国务院总理李克强发表讲话，表示“有关部门要协助家属做好善后工作”和“中国政府高度重视海外中国公民的安全”。</p>
+<p>但是，结合IS公布的图片和文字表述中特意强调，人质是被“遗弃”的这个表述，官方的表态反而令中国很多网友不满。</p>
+<p>“政府不采取措施么？听之任之？”</p>
+<p>“我真不明白了，养这么多军队，平时跟谁都不敢打。”有网友如此回应。</p>
+<p>“心情很不好，恐怖主义也打到中国人头上来了，”中国人民大学政治学教授张鸣在接受端传媒记者采访时说，“政府应该有更强硬的措施，必须动手，联合打击恐怖主义势在必行。但是现在社会的空气很‘左’，很多‘五毛’，反美、反西方，思想很乱。”</p>
+<p>“在国际问题上，谨慎是必要的，”北京外国语大学国际新闻与传播系教授展江对端传媒记者说，“被杀的人质不限于中国，这不代表挪威或者日本都要参与战争。IS是杀给中国人看的，有些东西已经永远改变了，这时候不可能站在第三方了。但如果说要有所行动，那是时间和方式的选择问题。”</p>
+<p>“一旦缴付赎金，那么以后中国公民将会成为恐怖分子重点绑架对象。”问答网站知乎的网友“马里奥”如是说。</p>
+<p>“如何了解伊斯兰国组织，本身是一个很漫长的过程。”展江补充，不久前，巴黎被袭击的新闻让中国民众开始更多地了解中东问题和IS的起源。但是，流传在网络上的普及性文章质量仍然参差不齐。</p>
+<p>更多网友表示“不能开战”。“有没有展开解救行动无法评价，毕竟这样的事情如果有也肯定是暗中操作，不会公布”；“中国不是世界警察，不会也不能直接投放大量兵力到中东进行军事干预”；“不到万不得已，千万别出兵，打IS又不是抢风头”……此类评论可以轻易在新浪微博及问答网站知乎上见到。</p>
+<p>“是谁给了你们被ISIS这种极端恐怖组织绑架了然后被救回才是常态的期望？”一位名为“王轶凡”的网友在知乎上回应。</p>
+<p>“IS宣布斩首中国人质樊京辉，觉悟甚高的网民们纷纷表示不能跟IS开战。”在柏林从事国际新闻报导的媒体人覃里雯在其个人微博上点评道，“上次日本人质被斩，日本年轻人在推特上发起了对IS战士的二次元轰炸。真是一场不同以往的世界大战。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%A8%8A%E4%BA%AC%E8%BE%89%E8%A2%ABis%E5%A4%84%E5%86%B3%E4%BA%86-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/isis%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">ISIS处决中国人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90/?category=18271" rel="tag">反恐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A8%8A%E4%BA%AC%E8%BE%89/?category=18271" rel="tag">樊京辉</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E5%8F%8D%E9%A9%B3%E8%81%94%E5%90%88%E5%9B%BD%E9%85%B7%E5%88%91%E5%A7%94%E5%91%98%E4%BC%9A%E8%B4%A8%E7%96%91/" target="cdt-mirror">纽约时报｜中国官员反驳联合国酷刑委员会质疑</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/TORTURE-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/TORTURE-articleLarge.jpg" alt="Ed Jones/Agence France-Presse — Getty Images 2012年，北京市第一看守所的看守。中国官员周三对联合国的一个委员会表示，监狱里的单独监禁“惩罚性措施”。" width="600" height="400"></a><p>2012年，北京市第一看守所的看守。中国官员周三对联合国的一个委员会表示，监狱里的单独监禁“惩罚性措施”。 Ed Jones/Agence France-Presse — Getty Images</p></div>
@@ -668,107 +787,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%8B%89%E8%90%A8%E8%97%8F%E4%BA%BA%EF%BC%9A%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%80%E8%A1%8C%E6%89%80%E7%9C%8B%E5%88%B0%E7%9A%84%E8%83%8C%E7%A6%BB%E7%8E%B0/" target="cdt-mirror">自由亚洲 | 拉萨藏人：佩洛西一行所看到的背离现实</a>
-</h2>
-<p><p>美国国会众议院民主党领袖佩洛西近日率团在西藏首府拉萨展开访问并参观寺院等，居住拉萨的一位藏人则表示，佩洛西一行所看到的完全背离西藏现实状况，尽是被中国当局刻意制造出的假象而已。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/US-delegation-made-a-visit-to-Tibet.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/US-delegation-made-a-visit-to-Tibet.jpg" alt="US-delegation-made-a-visit-to-Tibet" width="550" height="365"></a></p>
-<p>美国国会众议院民主党领袖南希•佩洛西（Nancy Pelosi）上星期三（11月10日）率领包括她本人在内共七名国会议员组成的代表团展开西藏之行。这是自2008年西藏事件后，美国国会代表团首次获得中国官方的入藏许可。</p>
-<p>根据中国官媒《西藏日报》报道，佩洛西一行抵达西藏首府拉萨当天，受到西藏自治区党委书记陈全国、副书记白玛赤林和洛桑江村等官员的接待。双方在举行会谈时，陈全国表示，希望美方在涉藏问题上，恪守尊重中国主权和领土完整、不支持旨在分裂中国活动的承诺，不允许十四世达赖再次窜访，不为“藏独”势力分裂活动提供任何形式的支持和便利。</p>
-<p>《西藏日报》还称，佩洛西在拉萨访问期间，同政府官员和各寺代表会面，赞扬西藏发生的巨大变化，还赞扬中国政府在维护西藏宗教和文化自由方面所做的努力。</p>
-<p>另据美国媒体综合报道，佩洛西一行对西藏、北京和香港进行访问之后，于上星期五（11月13日）发表声明表示，与西藏当地官员谈到西藏自治、人权和宗教自由等问题，也表达了西藏精神领袖达赖喇嘛在美国受到国会及民众的强有力支持。佩洛西也于星期二（11月17日）在美国国会举行记者会表示，中方虽花巨资维修寺院，但他们对境内藏人的想法及所受教育等方面更感兴趣，同时认为只要中国政府认同达赖喇嘛支持的是自治，而不是独立这一事实，问题就有可能获得解决。</p>
-<p>随行的美国国会人权委员会主席麦戈文（Jim McGovern）也在记者会上表达了对西藏人权与宗教信仰权的关注，强调不要相信中国媒体所言。他并表示，希望中国政府允许美国在拉萨设立领事馆，允许更多议员和媒体访问西藏，重启与达赖喇嘛的对话来解决僵持已久的西藏问题。另有议员也谈到此次西藏之行受到中国官方的控制，约三十个保安人员跟随参访。</p>
-<p>居住西藏拉萨的一位藏人向本台表示，佩洛西一行所看到的完全背离西藏现实状况，尽是被中国当局刻意制造出的假象而已。</p>
-<p>“美国国会众议院民主党领袖佩洛西率团能够到访西藏是值得藏人庆喜，因为她是一位达赖喇嘛尊者的坚定支持者，但是她和随行成员们却完全没有看到真实状况。在她们到访的前一天，当局强制要求拉萨城关区各居委会十人、每个院子内的六民居民必须从11月10号的两、三天内集体转八廓街、寺院和林廓路，还要求寺院届时举行法事，这让美方代表看到的是，藏人不间断地转经、朝佛、磕长头等，以为藏人‘充分享有宗教信仰自由权’、‘各项宗教活动正常有序进行’，但这完全背离了现实状况，全是当局掩饰真相后，制造出的一种假象。”</p>
-<p>该名消息人士表示，这期间拉萨街头全副武装的军警被便衣取代，以制造出一幅“和谐稳定”的景象：“拉萨大昭寺及周围建立的多个安检站被撤掉，平时全副武装执勤巡逻的军警也不见了，取而代之的竟是随处可见的便衣警察。中国当局使用这种狡猾手段，企图蒙蔽外国代表团的眼睛，让他们误以为‘在西藏发生巨大变化的同时，宗教状况、人权状况得到改善和保障，藏民过上幸福安宁、自由自在的生活，社会变得更加和谐稳定。’因此，希望外界认清中共一贯的伎俩，也呼吁媒体揭发其面目。”</p>
-<p>佩洛西在担任美国民主党国会议员近30年时间，一直直言不讳地批评中国政府践踏西藏的基本人权。2008年3月21号，佩洛西率领九名国会议员访问印度达兰萨拉会见西藏精神领袖达赖喇嘛，并在数千人聚集的场合发表演说，对西藏局势表示关注，呼吁世界各国热爱和平的人们站出来疾声反对中共当局在西藏的镇压行动，也呼吁中国领导人同达赖喇嘛展开对话。</p>
-<p>（特约记者：丹珍 责编:寇天力）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%8B%89%E8%90%A8%E8%97%8F%E4%BA%BA%EF%BC%9A%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%80%E8%A1%8C%E6%89%80%E7%9C%8B%E5%88%B0%E7%9A%84%E8%83%8C%E7%A6%BB%E7%8E%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A9%E6%B4%9B%E8%A5%BF/?category=18271" rel="tag">佩洛西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%89%E8%90%A8/?category=18271" rel="tag">拉萨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98/?category=18271" rel="tag">美国国会议员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">西藏问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%A0%E5%81%87/?category=18271" rel="tag">造假</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%95%99%E8%82%B2%E9%83%A8%E6%96%B0%E8%A7%84%E8%A6%81%E6%B1%82%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC%E5%91%98%E5%BF%85%E9%A1%BB%E6%98%AF%E5%85%B1%E4%BA%A7/" target="cdt-mirror">自由亚洲 | 教育部新规要求高校辅导员必须是共产党员</a>
-</h2>
-<p><p>中国教育部近日草拟新规定，要求高校辅导员必须是共产党员、要密切关注学生的网络动态，引发舆论关注。有评论认为，中共正在加强对高校思想自由的钳制。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/8c0c6560-9049-4a55-a644-ed473bbe3df7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/8c0c6560-9049-4a55-a644-ed473bbe3df7.jpg" alt="8c0c6560-9049-4a55-a644-ed473bbe3df7" width="600" height="397"></a></p>
-<p>据人民网11月18号报道，中国教育部从2006年9月1号起颁发施行《普通高等学校辅导员队伍建设规定》，迄今已经实施近十年。教育部日前对该规定做了新的修改，并向各地教育行政部门及部属高校征求意见。新修改的规定在政治上对高校辅导员提出了更严格要求，明确提出高校辅导员应当是中国共产党员，要求高校辅导员“深入开展社会主义核心价值观教育，综合运用教育教学、实践养成、文化熏陶、研究宣传等方式，把社会主义核心价值观落实到学生日常管理服务各个环节，形成高校学生的日常行为准则，使高校学生自觉将社会主义核心价值观内化于心、外化于行。”新修改的规定还要求高校辅导员，构建网络思想政治教育阵地，加强与学生的网上互动交流，围绕学生关注的重点、难点、 热点进行有效舆论引导，及时了解网络舆情信息，密切关注学生的网络动态，敏锐把握一些苗头性、倾向性、群体性问题。</p>
-<p>中国教育部有关高校辅导员的新规引发舆论关注。截至记者发稿时，新浪网上有超过1.5万人参与讨论，但只显示80几条评论，网易网上有超过2万人参与讨论，只显示200多条评论。有网友指出“这是要给学生洗脑吗？”，有网友质疑“涉嫌违法，为何必须是党员，不是就业歧视吗？”，有网友感叹“党员就业又多条路，好处还真不少。”，有网友讽刺说“那中学老师更应该是党员，中学生正是世界观形成的时候。如果真的重视教育，应该从幼儿园抓起，所有教师都应该是党员”。</p>
-<p>现在美国纽约的项小吉律师对此评论说：</p>
-<p>“习近平上台以来，在加强思想政治教育方面狠下了一些功夫，尤其对高校青年思想的钳制方面加大了力度。教育部的规定要求辅导员必须是党员，辅导员本身就是做政治工作的，本身就是党的思想工作者，所以在他们看来，根本对聘用的平等机会不予考虑，根本不在这个范畴。”</p>
-<p>中国教育部新修改的规定还要求，在核定的编制总额内全校专职辅导员数不得少于辅导员总数的70%。教育部原来规定“新聘任的青年专业教师，原则上要从事一定时间的辅导员、班主任工作”，新规定则修改为“新聘任的青年专业教师，应该从事一定时间的辅导员、班主任工作，并与专业教师的职务（职称）评聘、相关考核挂钩。”</p>
-<p>对于中国高校的辅导员制度，纽约城市大学政治学教授夏明评论说：</p>
-<p>“中国高校过去60多年一直有辅导员制度，它从某种程度上说，是从中国军队的政委制度逐渐延伸到学生群体。辅导员制度有两项功能，一是洗脑，二是搜集情报，进行早期社会控制、政治控制。其实从89年以后到现在，高校辅导员制度一直在加强控制，现在加强的更厉害。现在加强控制的一个主要特征是，中国高校把政治思想工作、政工工作，作为学问来评定职称、进行表彰。甚至直接由大学的党委书记，所谓带博士生，专门做政治思想工作的‘博导’。这样就形成了‘专业化’的政工体系，来作为政治辅导员体系。”</p>
-<p>夏明认为，中国教育部有关高校辅导员的新规一旦实施，将造成严重危害。</p>
-<p>“在大学里面，如果把政工体系和学术体系全部打通的话，很明显这会破坏学术评价体系，同时让真正卓越的学术人才难以出头，往往会受到政工的打压。在这种情况下，我觉得中国整个高校的质量和校风全都可能被破坏。”</p>
-<p>中国教育部的新规定还要求，建立国家、省级和高校三级辅导员培训体系。确保每一名专职辅导员每5年参加1次国家级或省级培训。各高校负责对本校辅导员的系统培训，每年开展不少于4次的校级培训，积极选送辅导员参加校外培训。</p>
-<p>（记者：林坪 编辑：吴晶）</p>
-<p>——————————————————————</p>
-<p><strong>以下为中国数字时代编辑收集自新浪网友评论：</strong></p>
-<p><a href="http://weibo.com/u/2622377001">闗閼那個故事</a>：明东厂，西厂，锦衣卫的共同点是：监视，侦查，镇压。用尽了酷刑，制造了很多冤假错案。道路以目。可踪迹最终遁于无形。历史上凡罪恶的魔影，它的生命力不会久远，夭折是它的宿命。</p>
-<p><a href="http://weibo.com/2050532087" target="_blank">lucius-shawn</a>：防民之口胜于防川</p>
-<div><a href="http://weibo.com/shuchi" target="_blank">舒不里特</a><i title="微博达人"></i><i></i>：干脆没入党不准上大学，不就搞定了</div>
-<div></div>
-<div>
-<div><a href="http://weibo.com/1826598567" target="_blank">下雨不穿鞋</a>：这种做法太low了，想回到文革吗，出红卫兵</div>
-</div>
-<div></div>
-<div><a href="http://weibo.com/lancelotng" target="_blank">LanceNg_</a><i title="微博达人"></i><i></i>：黨委應該設在婦產科門口，我為dang提的一個小小建議……</div>
-<div></div>
-<div><a href="http://weibo.com/5616430632" target="_blank">浪浪有毛病</a>：从医院接生开始，妇科医生护士必须是党员，密切注意婴儿啼哭声，坚决防止嚎哭，乱哭，等自由化哭声的景象<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></div>
-<div></div>
-<div><a href="http://weibo.com/2182870863" target="_blank">Vamessilee</a>：看评论有人说:倒车请注意，倒车请注意。想想真是悲哀啊</div>
-<div></div>
-<div><a href="http://weibo.com/2953042431" target="_blank">呵呵-志</a>：呵呵，看来要从引导走向监控控制了。。。黑心包包黑心。</div>
-<div></div>
-<div><a href="http://weibo.com/3234887072" target="_blank">何言天道正</a>：其实大学内部舆情通报早就有了，现在继续加码，很快就能建成一批世界负一流大学</div>
-<div></div>
-<div><a href="http://weibo.com/yaok" target="_blank">YaoK</a>：这符合劳动法吗？当辅导员要先加入某特定党派？</div>
-<div></div>
-<div><a href="http://weibo.com/2234809527" target="_blank">hurrayah</a>：我发个朋友圈真的被辅导员谈话过</div>
-<div></div>
-<div><a href="http://weibo.com/1238871020" target="_blank">傅疯魔</a><i title="微博达人"></i>：国家奖学金，贫困补助都被导员分给了跟他们关系好的所谓的“贫困生”，然后这些“贫困生”再用来买iPhone和请导员吃饭</div>
-<div></div>
-<div><a href="http://weibo.com/3905445032" target="_blank">走一走a</a>：切实体会，我在一所三本的大学，辅导员能只手遮天，什么评优评奖入党资格往往与踏踏实实学习的同学无缘，而那些在辅导员面前鞍前马后的各种名利纷至沓来，我只是为那些同学抱一下不平，鼓励一下那些踏实同学吧，不要被这些绊住了手脚，忠于自己的心，也希望只是我们学校这样，那些好的学校能有一片净土</div>
-<div></div>
-<div><a href="http://weibo.com/3982681229" target="_blank">莉莉Lily莉莉Lily</a>：可以保证身份是党员，不过心是什么样的就不好说了，多数人入党只为名利，所以很多党员可能就是追名逐利的人。</div>
-<div></div>
-<div><a href="http://weibo.com/1072805395" target="_blank">-流浪星辰-</a><i title="微博达人"></i><i></i>：要先要禁止学生用微博，然后禁止体制内人员用微博，再关停微博，关停论坛，关博客，接下来禁止上网，直到信息全面封锁，慢慢来嘛，朝鲜在这方面就做得好，凡事都有个过程！</div>
-<div></div>
-<div><a href="http://weibo.com/2781396784" target="_blank">芋头老参</a>：从革命成功的那一刻起，就在注意对人们思想的控制。在改革开放前的二十几年中，祸从口出甚至株连九族，高压之下除了极少数敢于以命反抗外，确实让大家闭口了，但思想仍旧无法掌控住。在思想意识多元化和信息交流如此发达的今天，继续过去的做法，到底有多少成效呢？</div>
-<p> </p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%95%99%E8%82%B2%E9%83%A8%E6%96%B0%E8%A7%84%E8%A6%81%E6%B1%82%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC%E5%91%98%E5%BF%85%E9%A1%BB%E6%98%AF%E5%85%B1%E4%BA%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AD%A6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">大学改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">思想政治工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1/?category=18271" rel="tag">高校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E8%BE%85%E5%AF%BC%E5%91%98/?category=18271" rel="tag">高校辅导员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BB%B6%E5%AE%A1%E9%99%90%E6%9C%9F%E6%BB%A1-%E6%B3%95%E9%99%A2%E6%97%A0%E6%B6%88%E6%81%AF/" target="cdt-mirror">自由亚洲 | 浦志强案延审限期满 法院无消息</a>
-</h2>
-<p><p>被羁押18个月的北京维权律师浦志强，案件今年8月18日第一次延长审理到期，周三（18日）期满。（海蓝 报道）</p>
-<p>其代表律师尚宝军表示，律师没收到法院通知再度延长审理期限，他多次致电北京中院，没人接电话，浦志强也没有收到通知，但肯定已经被延期，按照法律规定，这次要向最高法院提出延长审限，估计已批准，否则便违法。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/201502280232china1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201502280232china1.jpg" alt="201502280232china1" width="550" height="309"></a></p>
-<p>律师周三上午到北京巿第一看守所会见，会面约1小时。尚宝军又指，浦志强身体还好，没太多变化，今天主要交流如何准备开庭的事情。</p>
-<p>尚宝军说：我们没有收到通知，但肯定会被延了，如果他不延期就违法。我们今天也没怎么聊身体，我们主要在谈万一要开庭，甚至是万一突然被开庭的话，我们怎样面对。</p>
-<p>记者曾致电北京中级法院，电话没人接听。</p>
-<p>去年5月3日，浦志强与十几名朋友召开“六四25周年”民间研讨会。翌日被警方传唤，5月6日被当局以涉嫌”寻衅滋事罪”刑拘。6月13日被北京巿公安局多加一条涉嫌”非法获取公民个人信息罪”逮捕。</p>
-<p>去年11月13日多加两条罪”移交检察院起诉，包括涉嫌煽动颠覆国家政权罪及煽动民族仇恨、民族歧视罪。案件两度退回公安机关补充侦查。案件今年5月18日被法院起诉，本身有3个月审理期限，其后8月18日法院首次延长审限。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BB%B6%E5%AE%A1%E9%99%90%E6%9C%9F%E6%BB%A1-%E6%B3%95%E9%99%A2%E6%97%A0%E6%B6%88%E6%81%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -790,5 +808,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

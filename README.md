@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,69 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E5%8F%8D%E9%A9%B3%E8%81%94%E5%90%88%E5%9B%BD%E9%85%B7%E5%88%91%E5%A7%94%E5%91%98%E4%BC%9A%E8%B4%A8%E7%96%91/" target="cdt-mirror">纽约时报｜中国官员反驳联合国酷刑委员会质疑</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/TORTURE-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/TORTURE-articleLarge.jpg" alt="Ed Jones/Agence France-Presse — Getty Images 2012年，北京市第一看守所的看守。中国官员周三对联合国的一个委员会表示，监狱里的单独监禁“惩罚性措施”。" width="600" height="400"></a><p>2012年，北京市第一看守所的看守。中国官员周三对联合国的一个委员会表示，监狱里的单独监禁“惩罚性措施”。 Ed Jones/Agence France-Presse — Getty Images</p></div>
+<blockquote><p><strong>相关阅读</strong>：<a href="https://chinadigitaltimes.net/chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%85%B7%E5%88%91%E5%AE%A1%E8%AE%AE%E7%AD%94%E8%AF%A2-%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%85%B6%E4%B8%8D%E8%AF%9A/">美国之音｜中方就酷刑审议答询 人权人士称其不诚实</a></p></blockquote>
+<p>日内瓦——中国高级官员反驳了广泛使用酷刑的指控，这是对周三联合国专门委员会所提出问题的回应。该委员会要求中国履行对消除酷刑的承诺。但中国官员的反驳缺乏细节。</p>
+<p>在联合国禁止酷刑委员会(United Nations Committee Against Torture)一场听证会的开场发言中，中国常驻联合国日内瓦办事处大使声称，中国代表团提供的“详实的数据”，展现了在反酷刑方面“所取得的切实的和 可持续的”成就。中国大使吴海龙率领一个39人组成的代表团，参加了为期两天的听证会。</p>
+<p>人权倡导人士反驳说，官员们逃避了听证会提出的许多问题，<strong>对国际准则表现出的无视，几乎到了藐视的地步</strong>。他们形容，随着听证会的进行，<strong>在聆听代表团对质询的回应时，他们表现出了“怀疑和嘲笑”</strong>。</p>
+<p>中国公安部法制局副局长李文胜表示，“中国政府禁止酷刑，并会对任何滥用酷刑的国家机关人员予以公诉。”但他没有说明起诉的具体数字。</p>
+<p>为证明中国在遏制酷刑方面所取得的进步，最高人民法院法官李晓告诉委员会，中国法院在过去的两年半里，有2191人因证据不足或非法取证而被判决无罪。</p>
+<p>委员会还询问，自7月开始打压律师以来，有多少中国律师遭到了羁押，以及有多少律师因受到指控而遭到羁押。但代表团没有提供任何相关信息。代表团的确列举了一些“扰乱法庭秩序”的律师的最新案例，也提到了以“违反法庭纪律”为由驱逐律师的黎庆洪案。</p>
+<p>委员会也询问了西藏境内的政治犯人数的详细信息，西藏是中国的一个自治区。但是，国家民族事务委员会的一位副司长金春子，告诉委员会<strong>“没有政治犯这回事儿”</strong>。她补充说，“残酷对待少数民族犯罪嫌疑人的指摘是毫无根据的。”</p>
+<p>代表团对于囚犯待遇的解释引起了强烈的反应。委员会要求说明中国监狱内单独囚禁的详细情况，公安部的李文胜回应道，这是<strong>“一个管理问题，而不是一个惩罚性措施。”</strong></p>
+<p>禁止酷刑委员会主席克劳迪奥·格罗斯曼(Claudio Grossman)说，听到这个他很惊讶。“这肯定会被认为是一个惩罚，”他说。</p>
+<p>委员会成员还询问了使用铁制审讯椅的更多信息。人权团体报告，中国的几乎每个公安局都有这种椅子，囚犯们称，每次会被绑在上面鞭打数小时，甚至数天。委员会被告知，当局会对审讯进行录像和录音，“没有运用审讯椅实施酷刑的类似事情”。</p>
+<p>这种椅子称为“老虎凳”，意在“保证在押人员的安全，防止在押人员逃跑、自我伤害或攻击其他人，”李文胜说。“如果犯罪嫌疑人自杀，工作就难以继续。”</p>
+<p><strong>为了避免类似的问题，“有时椅子用软垫包裹，以增加舒适感，提高安全性，”他说。</strong></p>
+<p>听到这里，藏人僧侣果洛久美(Golog Jigme)说，“我真是不得不笑，我看着他的脸，笑了起来。”这名僧侣自2008年以来已被捕数次，并在今年得到瑞士的庇护，他表示他曾经在这样的椅子 上度过了几个月，伤疤仍在。“为了我的安全，”他说，“他们甚至把我吊在椅子上。”</p>
+<p>“我无言以对，震惊了，”他在听证会后接受采访时说。“像中国这种在国际社会受到高度重视的国家，来到这里并利用这个平台撒谎，真是难以置信。”</p>
+<p>人权组织也得出了大体相同的结论。“中国实际上是对一个关键的联合国机构说，我们会来出席，但我们不会遵守公约，”人权观察(Human Rights Watch)中国部主任索菲·理查森(Sophie Richardson)说。<strong>“中国对广泛认可的国际法和程序如此不屑一顾，这不是一件小事。”</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E5%8F%8D%E9%A9%B3%E8%81%94%E5%90%88%E5%9B%BD%E9%85%B7%E5%88%91%E5%A7%94%E5%91%98%E4%BC%9A%E8%B4%A8%E7%96%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E9%81%AD%E6%92%95%E7%A5%A8%E6%98%AF%E4%BF%84%E3%80%81%E6%B3%95%E5%AF%B9isis%E5%85%A8%E9%9D%A2%E6%89%93%E5%87%BB%E6%89%80/" target="cdt-mirror">侠客岛：中国人质遭撕票是俄、法对ISIS全面打击所致</a>
+</h2>
+<p><blockquote><p><strong>【编者注】James Foley事件</strong>（由数字时代编辑整理）：</p>
+<p>在James Foley事件引起巨大争议之前，面对被恐怖组织绑架的美国公民，政府的官方政策一直都是拒缴赎金，官方的或民间自筹的都不允许，认为那样反而会帮助对方。</p>
+<p>2012年11月22日，战地记者James Foley在叙利亚被ISIS绑架。谈判过程中，对方提出要求100万欧元的赎金。2014年7月初，美国国防部<a href="http://abcnews.go.com/Blotter/secret-mission-rescue-us-hostages-flawless-rescue/story?id=25077207">派出</a>精英部队前往ISIS据点之一，计划对Foley及其他人质进行救援。但当他们到达该据点时，发现人质已被转移。一个多月后，James Foley遭ISIS斩首。</p>
+<p>Foley的家人随后<a href="http://abcnews.go.com/International/government-threatened-foley-family-ransom-payments-mother-slain/story?id=25453963">公开表达</a>对美国政府的愤怒。他的母亲在接受电视节目采访时非常激动，指责政府禁止他们缴纳私人筹集的赎金，并称有国家安全委员会的官员为了阻止其家人缴纳赎金，以起诉相威胁。</p>
+<p>2015年6月24日，经过数个月的调查<em>（<a href="https://www.whitehouse.gov/sites/default/files/docs/report_on_us_hostage_policy_final.pdf">报告全文</a>）</em>，奥巴马<a href="https://www.whitehouse.gov/the-press-office/2015/06/24/fact-sheet-us-government-hostage-policy">宣布</a>美国政府在国际人质事件上进行了重大政策调整。通过下达总统决定指令<em>（<a href="https://www.whitehouse.gov/the-press-office/2015/06/24/presidential-policy-directive-hostage-recovery-activities">全文</a>）</em>和行政命令<em>（<a href="https://www.whitehouse.gov/the-press-office/2015/06/24/executive-order-and-presidential-policy-directive-hostage-recovery">全文</a>）</em>，美国建立了数个专门负责相关事务的部门小组，同时承诺将全力改善与人质家属的沟通合作，强调不会在人质家属最需要帮助的时候抛弃他们<em> (“We will not abandon families in their greatest time of need”)</em>。虽然国家拒缴赎金的官方政策不变，但人质家属自筹赎金将不会受到起诉。</p></blockquote>
+<p><strong>【注】“侠客岛”为人民日报海外版旗下微信公号， 邱永峥为大象智库执行总裁</strong></p>
+<p>问＝侠客岛<br>
+答＝邱永峥</p>
+<p><strong>问：9月ISIS宣布“拍卖”中国人质时，并没有公布具体的赎金要求和截止期限。</strong></p>
+<p>答：实际上在公布之前，ISIS就会通过不同的渠道，跟人质的家属、中国相关部门提出要求，中国也跟ISIS进行了沟通，希望对人质进行全力营救。我们甚至都知道人质的位置大概在伊拉克的安巴尔省，营救过程已经有了一定进展。<span><strong>但是最近俄罗斯、法国等国家对ISIS进行全面打击，一下打乱了ISIS的布局和它原先的计划，导致人质解救渠道中断，收不到钱，ISIS就撕票了。</strong></span></p>
+<p><strong>问：外交部9月在人质被绑架的时候就宣布中国已经启动了应急机制，开展救援工作，具体会有哪些工作？</strong></p>
+<p>答：全球任何一个主权国家，在面对恐怖组织绑架人质时，都会与之谈判，中国也不例外。虽然很多国家对外是宣称不谈判的，但迫于各方面的原因，一般的解决办法还是等时机成熟进行谈判。当然也有武力援救的，比如当年对索马里海盗，美国就出动了特种部队，发动突击，但大多数情况下，武力援救有困难。谈判会采取多种渠道，比如通过外交机构、民间渠道，跟部落长老、宗教领袖，与绑架者进行沟通，谈判手段经常用，主要是希望在确保人质安全的前提下，尽量少掏钱把人质解救回来。也有特别例外的，比如当年在浙江舟山，中国的渔船被索马里海盗绑架，耗时一年多，渔民明确表示没钱，地方政府那时跟索马里外交中断，找不到沟通渠道，但结果是索马里海盗直接把渔民放了，也没要钱，他觉得你又没钱，绑架还要提供食物，不如把你放了。大多数欧洲国家，比如西班牙、法国、德国，表面上说不掏钱，实际上最后都是跟绑架者讨价还价成交的。</p>
+<p><strong>问：所以谈判也是中国解救遭恐怖组织绑架人质的首要选择？</strong></p>
+<p>答：对，中国公民、企业现在走出去的多，在很多战乱地区就可能被扣为人质，中国从来没有通过武力解决。<span><strong>一方面是我们有不干涉他国内政的原则，另一方面出动军队到那么远的地方去，条件也不具备，所以一般不会采取武力解救。</strong></span>必要的时候可以跟当事国沟通，请当事国采取武力，比如中国人质之前在巴基斯坦伊斯兰堡被扣押，就是当地出军去解救的。</p>
+<p><strong>问：从9月到现在，国内对人质绑架一直是冷处理态度，这是什么原因？</strong></p>
+<p>答：<span><strong>只有淡化后，人质才有可能被营救。</strong></span>对这类事件，国家要保持低调，假如公开或者强化，跟绑架者讨价还价，他就会认为，你看得这么重要，多要一点钱吧。而且救援过程是很微妙的，充满变数，一旦大肆宣扬，最后可能不会成功。所以不只是中国，全世界在面对这种问题时，都会尽可能低调。而且从人质家属的角度考虑，媒体报道也会给他们带来心理压力。低调处理是综合考虑的结果。</p>
+<p><strong>问：现在人质被杀害后，有人认为中国要采取行动，对此国民应该有什么样的态度？</strong></p>
+<p>答：其实外交部这次回应表述得很清楚，一是强烈谴责，二是将与全球相关国家一样，积极打击恐怖分子行动，态度很明确。反恐形式有很多，民众的理解有时过于简单，认为我们应该派部队去伊拉克、叙利亚，派轰炸机去打击恐怖分子，不是这么简单的。其实对全球恐怖活动的情报交流，掌握恐怖组织的信息，跟全球金融机构进行配合，冻结恐怖组织的资产，限制他们的资金流动，都是很好的反恐行动。打击恐怖主义的行动是多方面的，综合来看中国做得很好。</p>
+<p><strong>问：人质最后没有救下来，但是可能民众并不知道政府采取了行动，这可能导致民众对政府的公信力下降，这种矛盾怎么处理？</strong></p>
+<p>答：最重要的，是要进行适当的信息公开，以换取民众的理解和支持。之前营救过程需要保密，为了保证人质安全不公开，很正常。但现在，我们应该让民众知道，政府是怎么做的，通过媒体报道，或者相关机构出来证明。<span><strong>还有，要让民众了解，面对这种情况，其它国家，比如美国、俄罗斯、法国怎么做的。</strong></span>要及时回应，不然会让民众误解。这次外交部反应很及时，这就很好。</p>
+<p><strong>问：对于本次事件，外交部回应了两次，习主席和李总理也及时发表讲话。</strong></p>
+<p>答：其实本届领导人跟历届领导人一样，对这种事从来没有例外，对恐怖行径一样重视。过去只要遇到类似事件，都及时站出来表明自己的立场。</p>
+<p><em><strong>以上为直接涉及到人质事件的问答内容。<a href="http://mp.weixin.qq.com/s?__biz=MzA3MDM2NTIwMA==&mid=400532338&idx=1&sn=117f561eb1e8365a314430d43463e4a8">原文链接</a></strong></em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E9%81%AD%E6%92%95%E7%A5%A8%E6%98%AF%E4%BF%84%E3%80%81%E6%B3%95%E5%AF%B9isis%E5%85%A8%E9%9D%A2%E6%89%93%E5%87%BB%E6%89%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">ISIS处决中国人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E6%B6%89%E5%86%85%E6%94%BF/?category=18271" rel="tag">干涉内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%96%B0%E7%96%86%E6%89%8B%E6%9C%BA%E8%BF%9Evpn%E7%BD%91%E7%BB%9C%E5%8D%B3%E8%A2%AB%E5%81%9C%E6%9C%BA-%E5%9B%9E%E6%B0%91%E6%8A%95%E8%AF%89%E7%BD%91/" target="cdt-mirror">自由亚洲｜新疆手机连VPN网络即被停机 回民投诉网络言论抹黑穆斯林</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis%E9%BE%99%E5%B2%97%E5%88%86%E5%BA%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis%E9%BE%99%E5%B2%97%E5%88%86%E5%BA%97.jpg" alt="isis龙岗分店" width="440" height="248"></a><p>（网络图片）</p></div>
@@ -709,122 +769,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E6%8C%AA%E5%A8%81%E4%B8%A4%E4%BA%BA%E8%B4%A8/" target="cdt-mirror">法广 | 伊斯兰国“处决”中国挪威两人质</a>
-</h2>
-<p><p><strong>法新社从贝鲁特报道：“伊斯兰国”的杂志Dabiq周三宣布：被该组织在9月10日宣布扣押的两名中国人质和一名挪威人质已经被“处决”。</strong></p>
-<p>在“伊斯兰国”的杂志Dabiq第12期上，刊登了一些照片显示两位疑似人质满脸是血，照片上还印着醒目红色标语写道：“在被不忠诚的国家和组织抛弃后被处决”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/20150910105158152.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/20150910105158152.jpg" alt="20150910105158152" width="429" height="322"></a><br>
-“伊斯兰国”两名挪威和中国的人质 图片来自网络</p>
-<p>两个月前，伊斯兰国恐怖组织在其所办的一份英文杂志上公布了两位人质的详细信息并以“叫卖”的方式，拍卖挪威人质与中国人质。挪威官方拒绝交付赎金，该国外交大臣认为这将会使更多挪威人被IS以同样的方式绑架勒索。中国方面也承认有中国人被绑架的可能性。当时中国有报导说，证明樊京辉是樊京辉并不难，难的是中国政府如何处理这起突如其来的人质事件。从以往伊斯兰国恐怖组织处理人质事件的情况看，情况可能很糟糕。</p>
-<p>这名中国男子人质可能被确认为50岁的北京人樊京辉。樊京辉曾经是中学教师，后入广告行业，而且曾是央视的非正式员工。2001年时，樊京辉曾经接受过中国著名主持人，当时任电台主持人白岩松的采访当时时称：他追求“不安全感”。。</p>
-</p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%86%99%E9%95%BF%E7%AF%87%E8%AE%AE%E8%AE%BA%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/" target="cdt-mirror">破破的桥：为何不写长篇议论巴黎恐袭</a>
-</h2>
-<p><div>最近大家对ISIS和叙利亚突然来了兴趣，我也陆续收到来信问这问那，有人问我为啥不写点。因为此前三年，我大概每天花一小时阅读叙利亚战事相关材料，并不时在腾讯微博播报战况进展，平日人气惨淡，门可罗雀，如今该是摘桃子的时候了。然而我觉得还没到该动笔的时候。新浪和其它网站也有类似的志愿播报员，我们相互间比较熟悉，他们好像也没写。</div>
-<div></div>
-<div>主要在新浪负责播报乌克兰战事的朋友<a href="http://weibo.com/n/%E8%B7%AF%E5%B0%98_%E6%8A%8A%E5%90%8D%E5%AD%97%E6%94%B9%E7%9F%AD">@路尘_把名字改短</a> 发了篇文章解释她为什么不愿说话，链接：<a href="http://weibo.com/p/1001603909236848505685">http://weibo.com/p/1001603909236848505685</a> 。里头有几句话我很赞同（尽管我自己通常做不到）：</div>
-<div>
-<blockquote><p>恐怕没有几个人会在上完初中物理第一节课以后就开始高谈阔论量子力学的影响和意义，但是起码90%的人现在相信，看完知乎上一两篇三四千字的“科普”文章，甚至是看两张恶搞漫画，就可以对国际政治事件指手画脚了。</p></blockquote>
-</div>
-<div>
-<blockquote><p>任何一个国际政治事件，都是不可能用两三句话解释清楚的，如果没有海量的信息打底，你得到的只能是偏见。任何人讲给你的国际政治都是自己产出的带有偏见的裁剪，因为原始事实可能需要上万字甚至数十万字来讲明，任何一个背景信息都可能影响到你最终对事件性质的判断，而所有的国际政治事件的最大特点就是，背景信息多达无限。</p></blockquote>
-</div>
-<div>
-<blockquote><p>如果说围绕一件事发生的全部相关事件为1000，而你听说过的只是其中的10，盲人摸象的故事大家都听过，这个时候你发表任何评论，都只能是胡说八道。</p></blockquote>
-</div>
-<div></div>
-<div>我说的直白一点：这几天微博、微信、知乎、以及各媒体上讲述恐袭背景的那些文章，特别是高转发、高赞成票的，事实错误一箩筐，多是记者、时评人、意见领袖和营销人员针对热点查了几个小时被严重污染的中文材料草就而成。看那些东西意思不大。（至于他们的观点，我不评价）</div>
-<div></div>
-<div>不过，本文不讲这些，还是只谈舆论。若你对战事感兴趣，可翻阅<a href="http://weibo.com/n/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5">@破破的桥</a> 15年11月14-15日的微博，里头有少量链接。</div>
-<div></div>
-<div><b>1.事情没有变，只是舆论变了，你跟着变了。</b></div>
-<div></div>
-<div>上世纪八九十年代，新闻联播最后五分钟的国际新闻，通常是留给巴以冲突的。</div>
-<div></div>
-<div>但CCTV的新闻播报非常有意思。一是体现在时机的选择上，比方说哈马斯往以色列发射火箭弹，它捏着不报，静静地等以色列报复，以色列一报复，它立刻报了：“今天，以色列再次炮击巴勒斯坦地区”。</div>
-<div></div>
-<div>二是体现在用词的选择上。比如伊斯兰圣战组织，它会用个九成观众不懂的译文：“杰哈德组织”。如果圣战者年轻或是童子军，它会强调是“少年”。哈马斯的兵工厂，它会改称“金属加工厂”。所以哪天以色列轰炸了哈马斯的兵工厂，你欣赏到的央视新闻就是：“今天，以色列再次轰炸了巴勒斯坦境内的一处金属加工厂，几名杰哈德组织的少年被炸身亡。”</div>
-<div></div>
-<div>老一辈被这种新闻灌输多年，所以他们臭骂以色列和支持金援巴勒斯坦就像吃饭喝水一样自然，即便巴勒斯坦人那时平均至少比中国富四五倍。可如今不一样了，再有类似的事情，巴勒斯坦会被骂死，老一辈的言论网上虽然还有，但不成气候，靠边站了。</div>
-<div></div>
-<div>是以色列和巴勒斯坦变了？有变化，但基本玩法没有根本性改变。那变的是观众？他们的知识储备和思维变了？也不尽然。是舆论改变了，媒体围绕着一套新的观念展开了新的宣传，因为控制舆论的那些人，他们的想法与利益发生了变化，公众只不过是跟班。大众的好恶，你的好恶，都是受舆论操纵的。无论是对巴、以，还是对美、日、俄，好时蜜里调油，恶时咬牙切齿。其根本原因可能只是你接纳到的宣传材料变了。</div>
-<div></div>
-<div><b>2.讨论得好像很热闹，其实大家都漠不关心。</b></div>
-<div></div>
-<div>“你被洗脑了。”如果有人在讨论问题时这么指责你，你一定很厌恶。有时还会愤怒反驳：“你怎么知道是我，而不是你，被洗脑？”其实是否被洗脑，是可以有客观标准的。以后我会专写长文论述，这里就简单讲讲吧。</div>
-<div></div>
-<div>自从俄罗斯介入叙利亚之后，我就看见这么一条热门微博，在各平台上林林总总转了几十万次吧，大意是：</div>
-<div>美国轰炸了ISIS一年多，还没有俄罗斯轰炸一个月的战果大，这说明了什么？</div>
-<div></div>
-<div>这说明了什么？说明你啥都不知道。</div>
-<div></div>
-<div>请静下心来，用最基本的认知方法，判断“美国轰炸ISIS一年多与俄罗斯轰炸一个月的战果大小”，想想应该做什么？</div>
-<div>(1).了解美国轰炸ISIS一年多以来的战果。</div>
-<div>(2).了解俄罗斯轰炸ISIS一个月来的战果。</div>
-<div>(3).对以上两个战果进行比较。</div>
-<div></div>
-<div>俄罗斯轰炸了ISIS哪些地方？每日平均架次多少？轰炸地区有几成在ISIS控制区？击中了哪些军事目标？改变了哪几场战役的走势？帮助占领了哪几处ISIS城镇？美国呢？这些问题，相信你一个都答不出来，即便能喷出一两个，仔细查考也都是谣言。但凡有一丁点儿了解，你多半不会去转这些胡说八道。然而，尽管你对基本事实完全无知，然而这个判断已经奇妙地驻留在你的大脑里了。</div>
-<div></div>
-<div>你真正要思考的问题是，它到底是怎么进入你的大脑的？</div>
-<div></div>
-<div>人们对远方发生的事情通常一无所知，因为不影响生活，此时观念是否正确，全仰赖信息源。当热门事件发生时，是你独立搜集资料、加强了解的好时机。只不过，国人通常把时间浪费在发泄情绪上，而且耗时特别长，该讨论的时候讨论不了，能冷静下来讨论了，已时过境迁，新热点又出现了。</div>
-<div></div>
-<div>先冒出几篇编造的诸如“法国政府对75事件的表态”的煽仇恨帖，浪费两天时间。估摸着接下来的桥段是西方媒体指责中国人煽动仇恨，然后类似文章再被转回国内，同一帮人满脸委屈，借此再煽动一轮仇恨：“西方媒体双重标准，戴有色眼镜看我们”。不过话说回来，即便煽动仇恨者肚里也没货，如果长期跟踪西方主流媒体报道，找几篇中国人抵触的真实文章毫无问题，毕竟在中国，要求公开审判、搞明白事态起因、出示证据之类的行为都会被认为是支持恐怖分子。但因为他们原本就漠不关心，需要煽动仇恨时，材料急躁之下找不着太多，手段就显得特别low，衬得转发者很蠢。所以，即便要达到煽动仇恨的目的，多掌握点材料也是好的。</div>
-<div></div>
-<div>对国内的事也同样漠不关心，75事件后，一帮人装模作样地分析什么“XX政府对中外恐怖事件的谴责在用词上的区别”，一堆胡说八道做得图文并茂，好像很学术的样子。大家并不想搞清问题，只是想借机攻击平时自己不喜欢的人。这在人性上很正常，但希望你依然记住：你的好恶也是被舆论操控的。</div>
-<div></div>
-<div><b>3.政治正确与错误归因。</b></div>
-<div></div>
-<div>很多自由派对美欧的“政治正确”很痛恨：明明是伊斯兰恐怖分子搞的，你们报道新闻时非要回避他们的宗教信仰，完全是鸵鸟政策，连实话也不能痛痛快快说了么？</div>
-<div></div>
-<div>西方的政治正确是不是过度了，这个我觉得有可能。但中国恐怕需要多一点政治正确，大家的文章、评论实在是太极端，上个网感觉绝大部分网民都是极右人士（那篇热传的、很合大家口味的《日本，没有穆斯林的社会》就是从国外极右翼网站上引进的，瞎掰的地方太多，我觉得先查证再译较好）。</div>
-<div></div>
-<div>政治正确的好处是防止错误归因。比如本镇黑人只占人口5%，但黑人犯罪却占案件总数的80%。报纸报道：“本镇大部分犯罪系黑人所为。黑人犯罪率居高不下。”这当然是一个“事实”，然而它也隐含一个“判断”。这个判断会被很多读者不加思考潜移默化地接受：</div>
-<div></div>
-<div>他们犯罪，是因为他们的种族（黑人）。</div>
-<div></div>
-<div>然而，犯罪率高也可能是因为黑人穷，黑人社区治安差，黑人后代无法得到良好的教育，黑人找工作受到歧视等等，而并非血统、基因所致。</div>
-<div></div>
-<div>要解决问题，首先找出原因，如果原因判断错了，那解决问题就无从说起。所以严肃媒体应当尽量在报道事实的同时，检查是否隐含了这类可能误导读者的前置判断。</div>
-<div></div>
-<div>这几天有个高频词叫“同治回乱”。讲的是同治年间几个省份的回汉种族仇杀，被不少人用于论证伊斯兰的危害。但这原本主要是个苛捐杂税无法承受的治理问题，被大清官员不负责任地引导成一个民族问题（也并非宗教问题），最终闹成大规模的种族仇杀。因为对官员来说，要解决治理问题，很难；搞群体仇杀，推卸责任，相对容易得多。</div>
-<div></div>
-<div><b>4.摆出交流的姿态，但又拒绝交流。</b></div>
-<div></div>
-<div>矛盾尖锐的群体间，找到有能力又有意愿相互交流的人是件很稀罕的事。像不少人在网上抓古兰经的Bug，其实没啥用。你真去找个穆斯林，准备好材料，摆好架势准备辩论，结果对方就在那里说车轱辘话：“我不懂宗教，我只知道我是个穆斯林，我很骄傲我是个穆斯林，我爱伊斯兰教！”你一点办法没有。</div>
-<div></div>
-<div>大家争相对事件表态，但并不提出任何可行的解决方案，各种要求、看法相互矛盾：</div>
-<div>(1).温和穆斯林应该和极端划出界限，声讨（其实到处都有，你不知道罢了）。/ 温和穆斯林只不过是伪装得很好的极端穆斯林。他们貌似谴责暴力，只是为了隐忍，私下扩大教徒比例，避免卡菲勒们警觉。</div>
-<div>(2).温和穆斯林应该和ISIS开战。（其实战斗在ISIS第一线的都是穆斯林）。/ 一个国家如果穆斯林教徒比例足够高，你以为这就是人间天堂了？不，他们很快会自相残杀。</div>
-<div></div>
-<div>对方当然不会再讨论什么，因为全是套套逻辑，怎么做都错。<a href="http://weibo.com/n/%E7%81%B0%E9%B8%BD%E5%AD%90%E9%93%B6%E6%B0%B4">@灰鸽子银水</a> 感叹过：“我曾经在微博贴出了一百多位阿訇和伊斯兰学者共同签名的谴责伊斯兰国的公开信。我收获的是谩骂。人们认为伊斯兰的真实面目是恐怖主义，这种宗教与文明无法并存——那些阿訇在为伊斯兰洗地，只有伊斯兰国和新浪微博网友懂得伊斯兰的真面目。我看不出继续讨论的必要。”我也觉得大家并不想交流，只是想发泄，但长年累月地发泄毫无益处。</div>
-<div></div>
-<div><b>5.绥靖与代价</b></div>
-<div></div>
-<div>最后对恐袭简短谈点看法。</div>
-<div></div>
-<div>对战事播报员来说，巴黎的悲剧每天都在交战国发生（叙利亚政府军的桶装炸弹，胜利阵线的汽车炸弹，ISIS的集体处决），每个月都在周边国家发生（如黎巴嫩、土耳其等，被恐袭多次），所以几乎无感。它迟早会来，数月前那辆火车上就该出大事，结果正好有两个警觉的美国海军陆战队士兵休假坐车，把事摆平了。但欧洲并未吸取多少教训。</div>
-<div></div>
-<div>在ISIS斩首美国记者后，美欧对ISIS宣战，采取瘫痪经济命脉，军援库尔德人，低烈度空袭等方式。这种战术性价比高，个人很欣赏，法国的积极性也无可指摘。问题出在宣战之前。</div>
-<div></div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/56fc0caagw1ey57f4k9imj20sg0eejux.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/56fc0caagw1ey57f4k9imj20sg0eejux.jpg" alt="56fc0caagw1ey57f4k9imj20sg0eejux" width="600" height="304"></a></div>
-<div></div>
-<div>配图：二战后全球历年战争死亡人数统计</div>
-<div></div>
-<div>911之后可能是现代史以来最和平的十几年，欧洲更是承平日久。但和平有代价，此前代价主要由美国支付，对热点战区军事压制、政治重建、经济援助，美国为此亏损甚剧。随911影响逐步淡化，军事行动饱受批评，国内公众和奥巴马都转为保守，希望顺利撤军抽身。但保守过度就是绥靖，特别是多年来对叙利亚采取了口头支持反对派实际没行动的的策略，常年绝望的战争是极端组织的最好温床，恐袭就是这项鸵鸟政策的果实。当前要解决的问题既不是恐袭也不是难民，而是要掐掉源头。方法很简单，不停甄别并坚决地军援温和的军事与政治组织，尽快结束战争并帮助建设政体。问题是：代价很重，愿不愿意付？谁付？</div>
-<div></div>
-<div>至于什么欧洲绿化，我并不担心，大家看历史别只看最近几十年，这就不多辩了。</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%86%99%E9%95%BF%E7%AF%87%E8%AE%AE%E8%AE%BA%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%99%E5%88%A9%E4%BA%9A/?category=18271" rel="tag">叙利亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/?category=18271" rel="tag">巴黎恐袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -836,7 +780,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -846,5 +790,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

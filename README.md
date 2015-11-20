@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/ngocn-%E5%90%8C%E5%BF%97%E4%B8%8D%E8%AE%A4%E5%91%BD%EF%BC%9A%E8%89%BE%E6%BB%8B%EF%BC%8C%E8%87%AA%E6%9D%80%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%88%9B%E4%B8%9A%E7%9A%84%E4%BB%96/" target="cdt-mirror">NGOCN | 同志不认命：艾滋，自杀，如今创业的他</a>
@@ -83,7 +83,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">公益人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">公益组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%B9%9D%E9%BE%99/?category=18271" rel="tag">刘九龙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E5%8F%8D%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">艾滋反歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E7%97%85/?category=18271" rel="tag">艾滋病</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E4%B8%96%E7%95%8C%E5%8E%95%E6%89%80%E6%97%A5%EF%BC%8C%E4%BD%A0%E9%82%A3%E5%84%BF%E7%9A%84%E5%A5%B3%E5%8E%95%E5%A4%9F%E7%94%A8%E5%90%97%EF%BC%9F/" target="cdt-mirror">女权之声 | 世界厕所日，你那儿的女厕够用吗？</a>
 </h2>
@@ -187,7 +187,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E7%BB%8F
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%89%88%E5%A4%A7%E5%9E%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E7%99%BD%E6%AF%9B%E5%A5%B3%E3%80%8B/?category=18271" rel="tag">新版大型歌剧《白毛女》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5%E8%B7%AF%E7%BA%BF/?category=18271" rel="tag">薄熙来路线</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BB%8E%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A2%83%E5%A4%96%E6%89%A7%E6%B3%95/" target="cdt-mirror">美国之音 | 从香港书商失踪看中国的境外执法</a>
 </h2>
@@ -805,7 +805,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -815,5 +815,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

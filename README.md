@@ -21,9 +21,76 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A3%B9%E8%AF%BB%EF%BD%9C%E5%88%98%E5%8D%81%E4%B9%9D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E8%A2%AB%E6%9D%80%EF%BC%8C%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%98%B4%E8%B0%8B%EF%BC%9F/" target="cdt-mirror">壹读｜刘十九：中国人质被杀，是美国人的阴谋？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6404.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6404.jpg" alt="640" width="550" height=""></a><br><em>图片来自网络</em></p>
+<p><strong>壹读微信号：yiduiread</strong></p>
+<p>凌晨，外媒报道了中国公民樊京辉被“伊斯兰国”极端组织残忍杀害的消息，然后在今天白天得到了中国官方的证实。</p>
+<p>网络上“虽远必诛”和“真理只在东风射程之内”的慷慨激昂，忽然毫无PS痕迹地转变画风，变成了“中国要理智”、“冲动是魔鬼”、“闷声发大财”。</p>
+<p>其中最有说服力的一种理论是：中国人质被处死，是美国一手策划的阴谋，美帝想用这种下三滥的手段把中国拖进战争的泥潭，阻碍中华民族的伟大复兴。所以我们不能上当。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/21.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/21.jpg" alt="2" width="500" height="394"></a></p>
+<p>这种阴谋论的思路当然非常熟悉，跟SARS是美国人的生物武器、前苏联为了卡我们脖子用铁圈套苹果差不多一个套路。反之，如果是我们的“阴谋”，就是“我兔腹黑”、“下一盘大棋”。</p>
+<p>壹读君（微信：yiduiread）今天要说的是，为什么这种思路总是很有市场？</p>
+<p><em>没心思害陛下的值班壹读君丨刘十九</em></p>
+<p><strong>首先声明我们不是标题党</strong></p>
+<p>为了避免被说是标题党，壹读君（微信：yiduiread）还是先探讨一下这个问题：中国人质被杀，到底是不是美国人的阴谋？</p>
+<p>壹读君（微信：yiduiread）不会说是，也不会说不是。严谨一点说，我们没法证明它是。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/3.jpg" alt="3" width="450" height=""></a></p>
+<p>大批键盘政治家目光如炬，不需要窃听，不需要获得秘密文件，不依靠国家多年辛苦建立的外交和情报系统，只靠几篇七手的网帖就能一眼洞悉美帝不可告人的龌龊行径。他们的逻辑非常简单清晰：美帝支持叙利亚反对派——ISIS和反对派谁是谁反正我搞不清楚——所以美帝支持ISIS，是背后金主——所以杀中国人质是美帝指使的。</p>
+<p>下面壹读君（微信：yiduiread）来还原一下这个推理的场景。</p>
+<p>ISIS杀死一个中国人质，有什么目的呢？</p>
+<p>要回答这个问题，你至少得理解什么是恐怖主义、恐怖主义的行为逻辑，中国对伊拉克、叙利亚地区各方势力的态度和政策。以及ISIS的政治目标、组织和决策方式，并且不能排除种种偶然性。显然，这些问题，对于信息来源有限的一些网民来说……</p>
+<p>超纲了。</p>
+<p>不过，对于这个超出了理解能力的问题，换了一个思路就简单清晰了：我看到同胞被杀，一面觉得他自己乱跑活该，一面觉得应该虽远必诛，所以中国搞不好会迫于舆论压力或者一时冲动加入战争；打仗就要花钱，就耽误闷声发大财……既然ISIS的幕后金主是美帝（你问我怎么知道？……我不管，反正就是美帝），那么一定是美帝想借战争拖垮中国，所以杀人是美帝指使的。</p>
+<p>一颗赛艇！</p>
+<p>对于这种低层次认知能力上展开的完美推理，壹读君（微信：yiduiread）认为只有这个画风比较配↓</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/41.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/41.jpg" alt="4" width="366" height="315"></a></p>
+<p><strong>为什么你无法说服一个阴谋论者</strong></p>
+<p>刚刚绕了半天，说的是阴谋论的一个特点：尽管从常识上看很荒谬，但你基本上无法证伪。</p>
+<p>你可以向一个不相信阴谋论的人说明，在统计学和基于统计学的科学视角下，阴谋论显然不正确；也可以向他解释，大国的博弈，不可能基于风险极高的阴谋，因为这意味着国家的兴衰完全是偶然。</p>
+<p>但是你很可能无法用同样的道理说服阴谋论者。</p>
+<p>当一个人认为“总有刁民想害朕”的时候，你永远无法向他证明“刁民们”并没有害他的兴趣。因为你举出来的所有证据，在他眼中都进一步证明了“刁民们”伪装得很深，显然是有组织有预谋的，所以一定是个大阴谋，一定是“刁民想害朕”。</p>
+<p>如果不是想害朕，你们伪装得那么无辜干嘛？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/5.jpg" alt="5" width="550" height=""></a></p>
+<p>这就是传说中循环论证的大杀器，也就是传说中“把你的xx拉到同一个层次然后用丰富的经验打败你”。</p>
+<p>是不是很郁闷？</p>
+<p>其实壹读君（微信：yiduiread）用一张图就可以化解你这种沮丧的感觉↓</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6.jpg" alt="6" width="550" height=""></a><br>
+△中国互联网络信息中心（CNNIC）今年7月份发布的权威调查数据</p>
+<p>壹读君（微信：yiduiread）没有任何别的意思，这张图只是想说明，网民整体学历结构偏低是一个客观事实。也就是说，其实大部分网民缺乏足够的知识和思维训练，来认识面临的重大事件和复杂现实。</p>
+<p><strong>为什么阴谋论这么流行？</strong></p>
+<p>阴谋论不是中国人的特色，全世界人民都喜欢阴谋论，比如著名的“共济会”、“罗斯柴尔德家族”、“登月造假”等等。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/7.jpg" alt="7" width="490" height="251"></a><br>
+△主张共济会阴谋论的著名学者何新老师曾指出，第六版人民币上暗藏着共济会的标志六芒星，暗示了共济会统治世界的证据</p>
+<p>为什么阴谋论如此受欢迎呢？</p>
+<p>面对复杂的世界，尤其是重大事件，人们本能地想要理解发生了什么，是怎样发生的，以此来决定自己将要做出什么样的反应。如果事情的原因很复杂，人们就会陷入困惑的紧张和焦虑之中，这时候，简单易懂的阴谋论，就提供了“不用很麻烦很累就明白了”的答案，消除困惑的焦虑感。</p>
+<p>同时，阴谋论本身就带有耸人听闻的戏剧性，吸引眼球。</p>
+<p>不过，从认识论来说，看似荒诞的阴谋论者其实比非阴谋论者更加“理性”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/8.jpg" alt="8" width="550" height=""></a></p>
+<p>他们倾向于相信一切问题都是有明确原因、可以明白解释的。不管现实世界多么复杂，所有的事情都可以通过人的精心算计而被控制，被纳入某种可控的秩序之中。</p>
+<p>这种“可以被控制”的感觉，在某种程度上让人摆脱了对偶然的、不可知的恐惧，反倒会让人觉得更加安全。</p>
+<p><strong>阴谋论一定是坏事吗？</strong></p>
+<p>美国学者谢尔默•迈克尔（Michael Shermer）相信，人们愿意相信阴谋理论，是因为人们更倾向于从无关的随机事件中寻找有意义的潜在关系，愿意相信世界是被一个隐形的幕后组织控制，他们断章取义地片面引用事实来证明自己已经认可的理论，并从结果反推原因和解释。</p>
+<p>换句话说，阴谋论者总是先通过直觉形成一个观点，然后从复杂的事件中寻找可以支持这个观点的碎片，来“逆向推测”出事情的原因。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9.jpg" alt="9" width="550" height=""></a></p>
+<p>不过，阴谋论是不是坏事呢？如果很多个阴谋论中，最终有一个真的揭示了某种阴谋呢？</p>
+<p>壹读君（微信：yiduiread）相信，一个有阴谋论者异想天开的世界，总是要比一个没有任何阴谋论，所有问题都只有一个标准答案的世界更加开放，更加自由。同时，阴谋论者的论调，也可以让不那么阴谋论的解释通过辩论变得更加清晰、可靠。</p>
+<p>而面对一个阴谋论的世界，壹读君（微信：yiduiread）建议，在相信一种说法之前，尽量不依靠直觉好情绪，而是使用自己的头脑，看看有没有充分的、经过验证的证据。</p>
+<p>与大家共勉。</p>
+<p>参考资料：</p>
+<p>《认知、伦理与世界观 ———认识论视域中的阴谋理论》，《浙江社会科学》，方环非 郑祥福，２０１３年第９期</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A3%B9%E8%AF%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A3%B9%E8%AF%BB.jpg" alt="壹读" width="300" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A3%B9%E8%AF%BB%EF%BD%9C%E5%88%98%E5%8D%81%E4%B9%9D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E8%A2%AB%E6%9D%80%EF%BC%8C%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%98%B4%E8%B0%8B%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/ngocn-%E5%90%8C%E5%BF%97%E4%B8%8D%E8%AE%A4%E5%91%BD%EF%BC%9A%E8%89%BE%E6%BB%8B%EF%BC%8C%E8%87%AA%E6%9D%80%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%88%9B%E4%B8%9A%E7%9A%84%E4%BB%96/" target="cdt-mirror">NGOCN | 同志不认命：艾滋，自杀，如今创业的他</a>
 </h2>
 <p><p>关注NGOCN，公益视野从此大不同<br>
@@ -759,41 +826,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%AE%A2%E5%88%B0%E5%BA%95%E5%AF%B9isis%E5%8F%91%E8%B5%B7%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%8C%9B%E6%94%BB%EF%BC%9F/" target="cdt-mirror">“中国红客”到底对ISIS发起了什么样的“猛攻”？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A21.png" alt="红客1" width="400" height=""></a></p>
-<p>近日，微博知名自干五账号<a href="http://weibo.com/u/1828113247">@冰下有鱼</a> 发布了一条“正能量”的消息，称“中国红客”已向 ISIS 宣战，引来大量“爱国青年”的热情转发。数字时代编辑截图时，该条微博已收到6万多次转发和3万多次赞。@冰下有鱼 目前已将该微博删除，称自己曾作出转发过6万后自行删除的承诺。</p>
-<p>微博中流传的所谓“中国红客攻击ISIS”的画面截图和视频，基本都来自网络安全公司 Norse 制作的<a href="http://map.norsecorp.com/">Norse Attack Map</a>平台。甚至有人声称围观“攻击过程”让他／她“热泪盈眶”。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A24.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A24.png" alt="红客4" width="450" height="445"></a><p>(“围观”得“热泪盈眶”)</p></div>
-<p>然而事实是，<strong>从Norse Attack Map提供的信息中其实完全无法得知攻击者里是否包含所谓“中国红客”，有关被攻击方的信息更简略到只有所在城市，而且连任何可以用来分析的历史纪录都没有</strong>（相对其他类似平台，Norse提供的信息已经算相当详细了）。</p>
-<p>黑客组织 Anonymous 和 GhostSec 都曾<a href="http://www.ibtimes.co.uk/anonymous-exposes-us-uk-companies-hosting-pro-isis-websites-1495426">指责</a>过云服务提供商诸如 CloudFlare 在“保护”ISIS，因为 ISIS 的许多宣传网站都使用了CloudFlare的云服务，但该公司拒绝单就内容问题而关闭网站，认为那是<a href="http://www.theregister.co.uk/2015/11/18/cloudflare_ceo_rubbishes_anonymous_claims_of_terrorist_support/">审查行为</a>。</p>
-<p><strong>简单来说，就是ISIS的网站压根儿就不在一个固定的地区。</strong>那些声称“围观”了攻击过程的爱国青年，<strong>根本就不知道来自中国的攻击者是谁、到底都攻击了些什么东西</strong>(*)<strong>。</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/live-attacks.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/live-attacks.png" alt="live attacks" width="550" height="210"></a><p>(Norse Attack Map 网页截图)</p></div>
-<p>这里值得一提的是，Anonymous目前为止的行动基本<a href="https://twitter.com/opparisofficial">集中在</a>关闭与ISIS有关联的Twitter帐号上，而 GhostSec 则<a href="http://www.newsbtc.com/2015/11/14/isil-militants-linked-to-france-terrorist-attacks-had-a-bitcoin-address-with-3-million-dollars/">声称</a>该组织已成功入侵并关闭数个 ISIS 的比特币钱包。<strong>遗憾的是，目前还没有任何信息可以说明“中国红客”到底具体干了些什么。</strong></p>
-<p><em>附@中国红客联盟 证账号否认攻击ISIS的微博：</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A2%E5%BE%AE%E5%8D%9A%E5%A3%B0%E6%98%8E.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A2%E5%BE%AE%E5%8D%9A%E5%A3%B0%E6%98%8E.png" alt="红客微博声明" width="550" height="242"></a></p>
-<p><em>制作黑客大战画面，请移步<a href="http://map.norsecorp.com/">Norse Attack Map</a>：</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A25.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A25.png" alt="红客5" width="575" height="366"></a></p>
-<p>更多不同风格的<strong>黑客大战画面素材</strong>（<a href="http://krebsonsecurity.com/2015/01/whos-attacking-whom-realtime-attack-trackers/">来源</a>）：</p>
-<ul><li>Norse Corp.公司的 <a title="http://map.ipviking.com/" href="http://map.ipviking.com/" target="_blank">IPViking</a></li>
-<li>FireEye 的 <a title="http://www.fireeye.com/cyber-map/threat-map.html" href="http://www.fireeye.com/cyber-map/threat-map.html" target="_blank">Cyber Threat Map</a></li>
-<li>Arbor Networks 的 <a title="http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=16434&view=map" href="http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=16434&view=map" target="_blank">Digital Attack map</a></li>
-<li>Kaspersky 的 <a title="http://cyberwar.kaspersky.com/" href="http://cyberwar.kaspersky.com/" target="_blank">Cyberthreat Real-time Map</a></li>
-<li>Anubis Networks 的 <a title="http://globe.cyberfeed.net/" href="http://globe.cyberfeed.net/" target="_blank">The Cyberfeed</a></li>
-<li>The Honeynet Project 的 <a title="http://map.honeynet.org/" href="http://map.honeynet.org/" target="_blank">Honey Map</a></li>
-<li>OpenDNS Security Labs 的 <a href="https://labs.opendns.com/global-network/">Global Network</a></li>
-<li><a href="http://ocularwarfare.com/ipew/?allfx=1">PewPew</a></li>
-</ul><p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A22.png" alt="红客2" width="500" height=""><br><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%BA%A2%E5%AE%A23.png" alt="红客3" width="500" height=""></p>
-<blockquote><p><a href="http://weibo.com/1882820021/D4iGIiECB">@林沛满</a>：既然还有朋友at我，就再说几句：1.中国政府不允许一个真正有技术实力的民间红客联盟存在。2.红客和IS没有价值观冲突，就算有技术实力也不会攻击它。3.中国真正有良心有水平的黑客都喝过茶了。4.瞎编条假消息就有几万转发跪舔，不得不说墙内很多人被关傻了。</p></blockquote>
-<p><em>(*) 所谓“攻击方”，也包括来自被远程操控而不自知的“僵尸”电脑（<a href="http://krebsonsecurity.com/2015/01/whos-attacking-whom-realtime-attack-trackers/">来源</a>）</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%AE%A2%E5%88%B0%E5%BA%95%E5%AF%B9isis%E5%8F%91%E8%B5%B7%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%8C%9B%E6%94%BB%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%86%9B/?category=18271" rel="tag">中国网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%BA%A2%E5%AE%A2/?category=18271" rel="tag">网络红客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -805,7 +837,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -815,5 +847,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

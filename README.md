@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E7%9A%84%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E9%9D%A2%E4%B8%B4%E6%89%B9%E8%AF%84/" target="cdt-mirror">美国之音 | 中国律师的评级制度面临批评</a>
@@ -168,7 +168,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E9%81%AD%E6%92%95%E7%A5%A8%E6%98%AF%E4%BF%84%E3%80%81%E6%B3%95%E5%AF%B9isis%E5%85%A8%E9%9D%A2%E6%89%93%E5%87%BB%E6%89%80/" target="cdt-mirror">侠客岛：中国人质遭撕票是俄、法对ISIS全面打击所致</a>
 </h2>
@@ -798,7 +798,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -808,5 +808,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

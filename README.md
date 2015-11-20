@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%96%B0%E7%96%86%E6%89%8B%E6%9C%BA%E8%BF%9Evpn%E7%BD%91%E7%BB%9C%E5%8D%B3%E8%A2%AB%E5%81%9C%E6%9C%BA-%E5%9B%9E%E6%B0%91%E6%8A%95%E8%AF%89%E7%BD%91/" target="cdt-mirror">自由亚洲｜新疆手机连VPN网络即被停机 回民投诉网络言论抹黑穆斯林</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis%E9%BE%99%E5%B2%97%E5%88%86%E5%BA%97.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis%E9%BE%99%E5%B2%97%E5%88%86%E5%BA%97.jpg" alt="isis龙岗分店" width="440" height="248"></a><p>（网络图片）</p></div>
+<p>法国遭遇恐怖袭击导致近五百个平民死伤。中国新疆地区网民发现，自11月13日巴黎遇袭开始，当局突然不再屏蔽涉及恐怖袭击内容的文字和图片，放任抹黑西方国家和穆斯林，在遭到回民投诉后，相关言论已被封锁。与此同时，有网民告诉本台，新疆手机用户使用VPN（虚拟专用网），一旦被检测到，会立即被停用， 须到派出所开解锁证明。</p>
+<p>法国遭遇宗教极端分子恐怖袭击，造成约132人惨死，300多人受伤。中国公安部微博除了在第二天发布“反恐胜利”的图文，还停止屏蔽来自境外的非官方反 恐消息。新疆一位不愿透露姓名的宋先生11月19日告诉本台，情况有点反常：“过去你想看（境外反恐）看不到，现在微信信息语言都用汉字，拼音也不用了， 有的直接注上英文，微信都要被过滤的。问题是‘长城’（防火墙）不防火了”。</p>
+<p>记者：什么时候开始的？</p>
+<p>回答：就是从巴黎袭击开始。现在火越烧越旺。过去我们发这样的信息很快就会被屏蔽。但是现在不屏蔽了。按照国家法律，所谓发虚假信息判刑七年。你看写什么 欧美国家和IS（伊斯兰国组织）是一伙的，这个怎么不抓呢？这是公开的忽悠人，你没有证据。第二，还有说以色列有高级将领在IS那里当指挥官，被伊拉克人 抓住。</p>
+<p>宋先生说，上述言论最后发展到攻击新疆的穆斯林，引起回民不满，向当局投诉：“前面没有封，后面我发现为什么会封呢？在国内的穆斯林回民，他举报。你不封他就告你”。</p>
+<p>与此同时，中国部分地区对手机用户使用简称VPN的虚拟专用网络加强监管，只要有人使用就会被当局停机。目前新疆出现此事。一位要求匿名的网络技术员19 日告诉本台：“主要在新疆那边，如果你电话下载了VPN软件，就会被停机，停机后要到警察局去申请解锁。当然跟巴黎恐怖袭击事件有点关系。主要是新疆的消 息，其他地方暂时没有报告”。</p>
+<p>记者多次致电乌鲁木齐各派出所，不是无人接听就是对方拿起电话就挂断。乌鲁木齐一位居民对记者说，如果手机被停机，要先到派出所接受盘问，还调查你的手机 下载了什么：“要去解锁，要你到派出所去开证明，肯定不是派出所给你解锁，他会问你消息哪里来的，发布了什么东西，你要把你的手机拿去，怎么会被锁住了？ 他们认为你发了一些敏感东西”。</p>
+<p>巴黎发生恐怖袭击的第二天，新浪微博公安部“打四黑除四害”发帖称，11月13日，新疆警方，历经五十六天追击，对暴恐分子发动总攻，取得重大战果。同时 发出多张特警在山区跋涉、巡逻及执行任务的照片。据网上图片显示，一张手写的现场情况记录，写道新疆警方对恐怖分子的追击于13日下午结束，恐怖分子的尸 体全部找到。不过，当局不但没有公布打死多少人，而且在消息发出三十分钟后，迅速删除。</p>
+<p>对此，本台维语部17日报道，在新疆拜城县铁热克镇润华煤矿袭击事件后，当局出动包括军警、老百姓，天空有直升飞机、无人机全天候巡逻，地上有坦克车、装 甲车把守山口，向躲藏在一个山洞里的三家维吾尔族男女老少17人，发射火箭弹，射杀于山洞内！其中年龄最小的刚满一岁，年长的60岁。</p>
+<p>当地一位知情者对记者说，当局至今不准在现场拍照：“那个地方是展开了大规模的搜捕，而且不准任何人在那里拍照，有汉族在那里拍照，当场叫你删除”。</p>
+<p>记者：到底死了多少人，说是46人？</p>
+<p>回答：数字差不多，但是矿上没有这么多人，是另外有一个地方。这里面出现一个他（官方）不想报和想报的原因。因为那天（9月18）事发不到两天，有一个政府网站发报道了，报了以后又删除了。他的原意认为有些人会拿此做文章。</p>
+<p>中国公安部早前在微博发布的相片将“听到疑有女人和小孩的声音”及在“润华煤矿”集结等字眼打格遮掩。也就是说，特警明知山洞中有儿童与妇女。</p>
+<p>特约记者:乔龙     责编：胡汉强/寇天力</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%96%B0%E7%96%86%E6%89%8B%E6%9C%BA%E8%BF%9Evpn%E7%BD%91%E7%BB%9C%E5%8D%B3%E8%A2%AB%E5%81%9C%E6%9C%BA-%E5%9B%9E%E6%B0%91%E6%8A%95%E8%AF%89%E7%BD%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">11.13法国巴黎恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/vpn/?category=18271" rel="tag">VPN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A3%B9%E8%AF%BB%EF%BD%9C%E5%88%98%E5%8D%81%E4%B9%9D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E8%A2%AB%E6%9D%80%EF%BC%8C%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%98%B4%E8%B0%8B%EF%BC%9F/" target="cdt-mirror">壹读｜刘十九：中国人质被杀，是美国人的阴谋？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6404.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6404.jpg" alt="640" width="550" height=""></a><br><em>图片来自网络</em></p>
@@ -800,32 +825,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%A6%82%E6%AD%A4%E6%85%88%E5%96%84%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%A6%82%E4%B8%8D%E7%AB%8B/" target="cdt-mirror">旧闻评论 | 宋志标：如此“慈善立法”不如不立</a>
-</h2>
-<p><p>慈善立法在业内传扬了很久，其草案近期在全国人大作了第一次审议，按照惯例，一次不算完，还要继续做开门立法状，不出意料地话，然后再扎进口袋，这事就算是成了。可是通读流传的草案文本，但凡对这个行业抱有希望的，都会觉得如此立法不如不立。</p>
-<p>提出慈善法立法动议据说有二十年，此前一直在民政部主导下，所以进展缓慢。这种“缓慢”被当作是立法效率不高的表现，现在郊游全国人大内政法务司主导，所以一年赶上十年，立法效能受到称赞。可是对照出来的草案文本看，如此简单地评价立法效率并不公平。</p>
-<p>民政部时期的立法之所以满，兴许是主管部门更了解此间立法的种种困难，会周全地评估立法条件是否成熟，业内大佬对立法的顾虑也能被倾听——这种立法上的慢，体现的是立法的慎重。相较于现在对立法效率的夸赞，可能掩盖的是立法的缺陷。</p>
-<p>自从慈善立法重启进程以来，公益界开过许多次民间务虚会，摆明是要为立法进言，北大等方面的公益立法公共知识分子还草拟了民间版本的慈善法草案，供立法机关参考。可是从现在的草案文本看，公益界的建言建议并未造成影响，立法在另一个轨道上行进。</p>
-<p>一言以蔽之，这个轨道就是慈善立法的轨道，而不是公益立法的轨道。慈善与公益的分野与分流本是大陆现成的格局，但从立法名称看，是要从慈善来涵盖公益，是要从慈善的定义限制公益的可能。这样的立法方向，罔顾现实国情，只剩下政治正确了。</p>
-<p>慈善是对财富的重新配置，公益是通过系列手段来改变社会。慈善是保守的，公益是进步的。相应地，与慈善对应的是对体制的呵护，公益是要长出社会新态。在这样的情况下，立法原则更多地被拉回慈善的旧领域，却对公益现实及探索，做出了不利的限制。</p>
-<p>草案一开始对慈善组织的界定，就显出了它不是要鼓励行业，而是要对行业既有的发展做出规训。可以想见，如果真的如此偏狭的口径立法，或许无改慈善存量，但对社会增量部分的公益事业，将是极大的损害。如果立法不是为了扶持，这样的立法有何意义？</p>
-<p>这还只是一个例子。通篇看下来，慈善草案的立法理念尚未脱离低级慈善的思路，回避了早就超越慈善2.0的公益思路。不客气地讲，这样的立法思路是落后的，甚至是愚昧的。这也是公益界强烈呼吁立法者变换思路的原因所在，也许更应该立一个公益促进法更有价值。</p>
-<p>这种建立在陈旧的慈善思路上的立法，甚至都不能回应慈善界已经发生的巨大变化。易言之，如此立法，不仅不能满足公益需求，甚至与慈善现实相脱节，这是立法者强行立法的后果之一。也就是说，只要这个法既遂，它从生效的时刻开始，就落伍了。</p>
-<p>大陆的慈善行业多有改观，其与公益的结合愈发深厚，而在慈善商业化及公益的资本化方面，都有了长足的探索——正是这些方面，需要立法方面的支持跟得上，给予精确的支撑。但要是按照现在这个草案硬行立下法去，不说慈善与公益创新毁于一旦，起码相当不利。</p>
-<p>尤其是在社会企业这一块，公益行业始终呼吁要放开门槛，放宽对盈利的刻板偏见，放松管制，以便让社会企业资本能够进入，从而搞活社会企业，从而解决包括教育、养老等在内的迫切问题——这些方面，政府无为，却又限制社会力量，这样的立法不是好事。</p>
-<p>还例如在筹资这块，慈善法草案的规定愚笨而又啰嗦。应该讲，以慈善与公益的实践而言，这一块的法制空白早就被恰当的具体协调行为所代替。不能公开筹资的NGO，可以借助有公募资格的慈善公益组织展开，草案画蛇添足地做事后追认，毫无必要。</p>
-<p>再如对待互联网的募资渠道上，草案僵硬地划出等级制，让互联网筹资渠道成为某种“特供”，只允许有资格的使用。这种僵化教条般的立法规定，不仅体现了对慈善公益立法的无知，也体现出对互联网的习惯性恐惧。人们不仅会问，这到底是一帮什么人在立法？</p>
-<p>总的来看，草案对这几年慈善与公益的社会创新态势，缺乏了解与认知，直接导致立法倾向错误，具体规定脱节实际，也与慈善公益的趋势格格不入。对照立法草案对社会创新的回避、规训、遏制、禁止等立场可见，该草案是用20世纪的法管21世纪的事。</p>
-<p>整体上看，现有的慈善立法一点儿也不“慈善”。其对开放社会所保持的警惕态度、对慈善公益创新所持的落后视野、对慈善公益趋势的无动于衷，都体现了它与它所宣扬的目的背道而驰。如果立法“硬顶上”，其与现实的巨大落差，必然要用慈善公益行业持久的痛苦去弥补。现今看来，终止立法进程，这已是慈善立法天大的“慈善”行为。</p>
-<p>2015/11/18</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%A6%82%E6%AD%A4%E6%85%88%E5%96%84%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%A6%82%E4%B8%8D%E7%AB%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7/?category=18271" rel="tag">全国人大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%88%E5%96%84%E7%95%8C%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">慈善界立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%88%E5%96%84%E7%AB%8B%E6%B3%95/?category=18271" rel="tag">慈善立法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%94%BF%E9%83%A8/?category=18271" rel="tag">民政部</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -837,7 +836,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -847,5 +846,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

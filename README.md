@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,94 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%A9%AC%E9%87%8C%E4%BA%BA%E8%B4%A8%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%87%B3%E5%B0%9127%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%85%B6%E4%B8%AD3%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC/" target="cdt-mirror">法广｜马里人质事件：至少27人死亡其中3名中国公民，马里全境进入紧急状态</a>
+</h2>
+<p><div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/000_Par8335422_0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/000_Par8335422_0.jpg" alt="马里特种部队解救人质，2015年11月20日。 法新社" width="585" height="330"></a><p>马里特种部队解救人质，2015年11月20日。 ／法新社</p></div>
+<p>在马里首都巴马科丽笙酒店周五发生人质事件并导致至少27人死亡之后，马里政府当天晚上宣布，在马里全境范 围内，实施紧急状态，为期10天。根据法国国防部长勒德里昂，原则上，没有法国人在事件中死亡。美国国务院说，死者中没有美国人。中国驻马里大使馆则证 实，有3名中国公民遇难。基地组织旗下的独立纳赛尔主义运动宣称为事件负责。</p>
+</div>
+<div>
+<p>在马里首都巴马科丽笙酒店周五发生人质事件之后，马里政府当天晚上在召开特别内阁会议后宣布，在马里全境范围内，实施紧急状态，为期10天。</p>
+<p>11月20日周五，马里酒店人质危机在历时9个小时后落幕，至少27人死亡。基地组织旗下的独立纳赛尔主义运动宣称为事件负责。</p>
+<p>马里军方消息人士在当地时间周五16点过后告诉法新社，激进枪手周五闯入马利首都巴马科（Bamako）丽笙酒店（Radisson Blu）挟持人质，在安全部队击毙两名伊斯兰激进枪手后，人质危机已落幕。</p>
+<p>联合国维和人员引用初步消息指出，马里首都巴马科（Bamako）丽笙酒店周五遭枪手闯入攻击后，联合国维和人员在酒店不同楼层发现27具遗体。</p>
+<p>联合国官员表示，联合国维和人员在酒店地下室见到12具遗体，另外在2楼又发现15具遗体。</p>
+<p>根据法国国防部长勒德里昂，原则上，没有法国人在事件中死亡。</p>
+<p>美国白宫周五对马里人质事件进行谴责。美国国务院说，死者中没有美国人。</p>
+<p>在恐怖分子挟持人质时，有10名中国公民曾一度是人质。据中国官方媒体央视的报道，中国驻马里大使馆证实，有3名中国公民遇难。</p>
+<p>周五晚间，盖达基地组织（al Qaeda）旗下的非洲圣战士团体–独立纳赛尔主义运动向卡塔尔半岛电视台发去声音文件表示，他们为马里首都巴马科（Bamako）丽笙酒店的人质事件负责。</p>
+<p>独立纳赛尔主义运动盘据马里北部、大部分由图阿雷格族（Tuareg）和阿拉伯人组成。</p>
+</div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%A9%AC%E9%87%8C%E4%BA%BA%E8%B4%A8%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%87%B3%E5%B0%9127%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%85%B6%E4%B8%AD3%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E7%AB%AF%E5%88%86%E5%AD%90/?category=18271" rel="tag">极端分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E9%87%8C%E4%BA%BA%E8%B4%A8%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">马里人质事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%8A%8A%E8%83%A1%E8%80%80%E9%82%A6%E5%A4%BA%E5%9B%9E%E6%9D%A5%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：把胡耀邦夺回来？</a>
+</h2>
+<p><blockquote><p>北京高调纪念胡耀邦百年诞辰。时评人长平认为，中共在舆论控制中争论历史人物的阐释权。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/017572730_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/017572730_30300.jpg" alt="0,,17572730_303,00" width="575" height=""></a></p>
+<p>（德国之声中文网）今天（11月20日）是中共前总书记胡耀邦诞辰一百周年，北京人民大会堂举行了座谈会，习近平等中共中央七常委悉数出席。在此之前，由中央文献编辑委员会编辑的《胡耀邦文选》高调出版。</p>
+<p>胡耀邦是中共体制内改革开放的标杆人物，在”文革”后平反冤假错案及发动真理标准大讨论中都深得人心。当上总书记以后，他朴实干练的风格，也在很大程度上扭转了中共的负面形象。1987年，他曾被邓小平认为反对”资产阶级自由化”不力，被逼辞去总书记职务。1989年他的去世成为 “六四”民主运动的导火线。</p>
+<p>在江泽民执政期间，胡耀邦的历史评价，让中共感到尴尬。但是，他毕竟不是被废黜的领导人，体制内的知识分子不敢谈论赵紫阳，就将胡耀邦作为一种理想的符号。此后，胡锦涛、温家宝作了另外的尝试，那就是主动出击，肯定胡耀邦的形象。这些举动，并没有给中共带来任何危险，反而赢得如潮掌声。试探大多停留在赞扬胡耀邦亲近民众、作风朴实方面。</p>
+<p>在此期间，中共舆论宣传完成了”去正义化”转型，也就是从伪装正义到强调利益。理想主义不再是年轻人的风尚，甚至遭到他们的嘲笑。《环球时报》等官媒主动谈及”六四”运动，辩称”没有当年的镇压就没有今天的经济发展”，得到新一代中很多人的认可。在控制中争夺历史和历史人物的阐释权，变得比简单的禁言更加可行。</p>
+<p><strong>“政治体制改革不是否定这个制度”</strong></p>
+<p>习近平上台之后，更以强势的专权姿态，随意阐释历史。他甚至不顾中共著名的历史决议，对包括”文革”在内的”前三十年”给出了自己的说法。今年年初，网络传言习近平批示高调纪念胡耀邦百年诞辰：”胡耀邦同志身份地位敏感，他的部分言行长期被敌对势力利用来反党反社会主义。通过纪念胡耀邦百年诞辰，要还原胡耀邦同志是一位坚定的马克思列宁主义者，是捍卫毛泽东思想的优秀党员，……总之，要把胡耀邦同志从对方手里夺回来。”</p>
+<p>不管这个批示传言是否属实，它真实反应或者准确猜度了习近平纪念胡耀邦的目的。另一个紧随而来的目的，是借机”宣传胡耀邦同志在反腐反四风端正党风严肃党的组织纪律方面的光辉业绩”，”有关党要管党、从严治党的思想理论”。换句话说，要胡耀邦为习近平的反腐败背书。</p>
+<p>中国官媒摘录了《胡耀邦文选》中的一些讲话，其中一段是关于胡耀邦最为人称颂的政治体制改革。在摘录中，胡耀邦说，”政治体制改革不是否定这个制度”，”社会主义制度是中国人民经过几十年努力奋斗、几千万人流血牺牲换来的，是由人民选择确立的”。</p>
+<p>不久前中共另一个改革代表万里去世，新华社悼词中把它塑造成”党的忠诚战士”。胡耀邦的儿子胡德平曾经说，邓小平改革是为了党，而胡耀邦是为了人民。但是，在官方媒体的宣传中，党和人民利益高度一致。胡耀邦之所以受到人民的爱戴，乃是因为他一生忠诚于党。</p>
+<p>这并不仅仅是党的宣传话语。很多自由知识分子的言论也异曲同工。他们试图劝说当权者，应该像胡耀邦那样进行政治改革，才能让党自我更新，从而长治久安。他们甚至阻止尖锐的批评意见，认为只有多多美言，诓哄着当权者，他们才会实行改革。事实上，当权者并没有这么孩子气，他们比谁都更清楚，这个六十年来欠下数千万命债的政党，之所以还能听到美言，是因为他们牢牢控制着权力。</p>
+<p>胡耀邦和他的追随者都怀着以改革推进中国发展的梦想，但是有一天会有人比他们更加勇敢地承认，真正的政治改革，不是党的自我更新，更加强大，而是让它变得更加柔弱，甚至在转型正义的历程中消失。<br><em><br>
+长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%8A%8A%E8%83%A1%E8%80%80%E9%82%A6%E5%A4%BA%E5%9B%9E%E6%9D%A5%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">八九学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E8%89%AF%E6%B4%BE/?category=18271" rel="tag">改良派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">纪念胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%9F%A5%E4%B9%8E%EF%BD%9Cdavid-rand%EF%BC%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8A%97%E8%AE%AE%E7%A4%BA%E5%A8%81%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%9F/" target="cdt-mirror">知乎｜David Rand：在美国抗议示威是什么样的经历？</a>
+</h2>
+<p><p>作者：David Rand<br>
+来源：知乎</p>
+<p>我参与抗议示威最火热的时光无疑是2003年美国攻击伊拉克的时候。当年，全世界反对这场战争的声音那么大，但是倔强的小布什以及操纵他的老大不理他们。美国国内反对战争和支持战争的比例大约50:50。我当年是哈佛大二狗，历史专业。因为那几年是9•11后段时间，我选了很多关于中东历史和政治的课程。教授每天在课堂里不但讲了历史，而且讲了目前情况。把历史和时事连接在一起，这就是为什么历史学是个有用的学科，了解过去的问题才能试图避免问题再出现。</p>
+<p>小布什给出的攻击伊拉克的理由我，同学们，老师们，亲朋好友大部分都拒绝了，认为是假理由。我的一位教授警告了小布什“你攻击伊拉克只会导致大祸临头”。大家看，现在是2015年，ISIS占领了伊拉克和叙利亚，这波恐怖分子比本拉登还恐怖，也是我国搞出来的烂摊子。2003年冬天我参与了几次抗议示威。第一次规模小，限于校内，学生，教授一起表示反对战争。在哈佛反对战争很正常，毕竟自由主义派占大约80%的学生，95%的教授。但是哈有几个大胆的保守派和共和党学生站在旁边吐槽我们，责怪我们是“共产主义者”，我们是“美奸”。</p>
+<p>第三次是2003年2月15日。这一天，全球60个国家，600个城市都同时举办目前为止世界规模最大的抗议示威，一共一千万个参与者。示威的组织方安排了几百辆大巴来波士顿接我们学生，免费送我们到纽约。美国150个城市都举办示威，但纽约是最大的（40万人，还少于世界最大的马德里150万）。</p>
+<p>接下来是2003年2月15日全球的示威照片<br>
+（照片来源：<a href="http://www.punchdown.org/rvb/F15/" target="_blank" rel="nofollow noreferrer">180 Pictures for over 125 F15 Protests<i></i></a>）</p>
+<p>华盛顿<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/c95e4ce630e6eb23472702923f02fd5e_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/c95e4ce630e6eb23472702923f02fd5e_b.jpg" alt="c95e4ce630e6eb23472702923f02fd5e_b" width="600" height="400"></a></p>
+<p>旧金山-各种群体，年龄都参加了—老人，小孩。。。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/622faca7b41b2bf0203deb89f3aabe98_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/622faca7b41b2bf0203deb89f3aabe98_b.jpg" alt="622faca7b41b2bf0203deb89f3aabe98_b" width="410" height="302"></a></p>
+<p>悉尼<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/55c1c70ca4742c5b02b24e008300507e_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/55c1c70ca4742c5b02b24e008300507e_b.jpg" alt="55c1c70ca4742c5b02b24e008300507e_b" width="343" height="450"></a></p>
+<p>很多示威者喜欢把布什做成木偶，这样象征性比较强<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/2c5b3a3ba8d4f55312f1c1d20fdcff41_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2c5b3a3ba8d4f55312f1c1d20fdcff41_b.jpg" alt="2c5b3a3ba8d4f55312f1c1d20fdcff41_b" width="321" height="450"></a></p>
+<p>基多 – 部分参与者烧了美国国旗<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/836f5e6ed5b5e12e24bf3651bfbbc050_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/836f5e6ed5b5e12e24bf3651bfbbc050_b.jpg" alt="836f5e6ed5b5e12e24bf3651bfbbc050_b" width="550" height=""></a></p>
+<p>好莱坞<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/dc1e20cb0d97f4e917de9b27167c1c73_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/dc1e20cb0d97f4e917de9b27167c1c73_b.jpg" alt="dc1e20cb0d97f4e917de9b27167c1c73_b" width="289" height="410"></a></p>
+<p>马德里<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/76755fd1172a27b4b7a0af8ba446f9fb_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/76755fd1172a27b4b7a0af8ba446f9fb_b.jpg" alt="76755fd1172a27b4b7a0af8ba446f9fb_b" width="272" height="410"></a></p>
+<p>维也纳 – 在这种大规模的抗议示威，会发现不同的利益集团和群体都会纠结在一起。比如这里看到“反对资本主义”的牌子。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/a2a3dd3e0d14cf4e073b430e45c7ceae_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/a2a3dd3e0d14cf4e073b430e45c7ceae_b.jpg" alt="a2a3dd3e0d14cf4e073b430e45c7ceae_b" width="410" height="310"></a></p>
+<p>阿姆斯特丹<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/3f9e56c51ed3279358aa52b43571af56_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/3f9e56c51ed3279358aa52b43571af56_b.jpg" alt="3f9e56c51ed3279358aa52b43571af56_b" width="410" height="269"></a></p>
+<p>巴黎<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/2aaee8c1dba2b8fa6b227df0a756f16e_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2aaee8c1dba2b8fa6b227df0a756f16e_b.jpg" alt="2aaee8c1dba2b8fa6b227df0a756f16e_b" width="277" height="409"></a></p>
+<p>台北<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/24f9be4b0a586ff6173b905d1e358d94_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/24f9be4b0a586ff6173b905d1e358d94_b.jpg" alt="24f9be4b0a586ff6173b905d1e358d94_b" width="324" height="220"></a></p>
+<p>巴拉圭<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/64e43822e269d7ceccdfdfcf59ccbefe_b.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/64e43822e269d7ceccdfdfcf59ccbefe_b.jpg" alt="64e43822e269d7ceccdfdfcf59ccbefe_b" width="410" height="273"></a><br>
+所以，问题来乐。。。那么多人团结起来反对战争有用吗？没有用。 我们还是太天真了。小布什不会听我们的。</p>
+<p>虽然示威者99.99%是和平的，但是在这种情况群体里面总是会有些坏蛋。这次示威就是有些无政府主义者（anarchists）惹了麻烦，引起特警来处理示威者。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/02d7d2037b685a5d6f8ba27661e02167_b.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/02d7d2037b685a5d6f8ba27661e02167_b.png" alt="02d7d2037b685a5d6f8ba27661e02167_b" width="600" height="401"></a></p>
+<p>对于了解美国1960年代历史的人来说，2003年这次示威和当年反对越南战争的抗议示威很像。都是老百姓反对政府的不道德战争。看过《阿甘正传》的人记得这个镜头吗？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/438c8166345e23da22338afa9cc8a358_b.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/438c8166345e23da22338afa9cc8a358_b.png" alt="438c8166345e23da22338afa9cc8a358_b" width="600" height="255"></a></p>
+<p>我这个年代的年轻人很羡慕我们父母那一代反对越战争的精神，觉得反对伊拉克战争是我们的“机会”，和我们的父母一样追求公德。<br>
+我母亲当年在伯克利读书参加了抗议示威，结果被警察的胡椒喷雾喷了，在鸡犬不宁的群体种被压伤了，如今她还有怕幽闭恐惧。</p>
+<p>示威能导致政府的改变其实可能性不大。示威更是人民发泄的方式。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%9F%A5%E4%B9%8E%EF%BD%9Cdavid-rand%EF%BC%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8A%97%E8%AE%AE%E7%A4%BA%E5%A8%81%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%88%98/?category=18271" rel="tag">反战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">暴力镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81%E6%B8%B8%E6%88%8F/?category=18271" rel="tag">示威游戏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C/?category=18271" rel="tag">非暴力不合作</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%B8%88%E7%9A%84%E8%AF%84%E7%BA%A7%E5%88%B6%E5%BA%A6%E9%9D%A2%E4%B8%B4%E6%89%B9%E8%AF%84/" target="cdt-mirror">美国之音 | 中国律师的评级制度面临批评</a>
 </h2>
 <p><p>作者：黄丽玲</p>
@@ -711,82 +796,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%99%8B%E4%B8%AD%E5%B8%82%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E7%B3%BB%E7%BB%9F%E8%88%86%E6%83%85%E7%AE%A1%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A/" target="cdt-mirror">【真理部】晋中市关于加强系统舆情管控工作的通知</a>
-</h2>
-<p><p>晋中市政府关于加强全市政府系统舆情管控工作的通知</p>
-<p>各县（区、市）人民政府，开发区管委会，市直有关单位：</p>
-<p>为进一步畅通人民群众诉求渠道，及时发现人民群众反映强烈的民生热点问题，有效处理人民群众提出的意见和建议，切实保障人民群众切身利益，不断提高社会管理水平，维护社会和谐稳定，树立政府良好形象，做好全市舆情应对处置工作，现就加强全市政府系统舆情管控工作提出如下要求：</p>
-<p>一、加强组织领导</p>
-<p>市政府成立晋中市系统舆情管控工作领导组，负责协调指挥全市政府系统舆情应对处置工作。领导组办公室设在市政府大厅管理中心，负责晋中市政府系统舆情管控工作领导组日常工作。</p>
-<p>二、健全工作机制</p>
-<p>（1）实行舆情分级管理，各县（区、市）政府、开发区管委会和市直有关部门按照属地原则和职能分工，做好本区域、本部门的舆情应对处置工作。各级各部门要切实增强舆情敏感性，及时发现网络、媒体上的舆情信息，采取有效措施做出快速处置，避免负面舆情扩大或者造成不良影响。对于情况属实、责任清晰的负面舆情，要诚恳接受，有针对性地解释说明，及时发布整改信息。对于情况、责任不明的舆情信息，要及时表态，迅速组织喝茶，尽力消除公众疑虑。针对不实报道和错误信息，要及时发布评论信息，披露事实真相，并根据舆情的严重程度，直接组织、邀请、引导有关专家和媒体公开发表客观公正的意见，从第三方的角度澄清不实言论。对少数别有用心的攻击、挑拨的网络评论，可争取有关媒体主管部门的支持，及时封堵删除。对恶意攻击、诋毁党和政府的反面舆情，要及时查处、严肃追责。</p>
-<p>（2）实行舆情分类管控。根据舆情性质、影响程度、涉及范围等因素，将舆情分为一般舆情、较大舆情、重大舆情三个等级。对于一般舆情，各县（区、市）人民政府，开发区管委会，市直有关单位要及时发现、及时处置；对于较大或重大舆情，要在迅速处置同事报领导办公室，并及时报告处置进展情况；对于重大舆情，必须在第一时间向领导组报告，领导组将及时启动应急处置预案，协调指导开展舆情应对处置工作。</p>
-<p>（3）畅通群众诉求渠道。各级各部门要切实发挥好12345、12315、12319等便民服务热线以及市（县）长信箱作用，及时有效解答和处理群众反映的困难和问题，消除群众不良情绪，避免引发负面舆情。</p>
-<p>（4）强化部门职责分工。各县（区、市）人民政府，开发区管委会，市直有关单位要明确一名分管领导负责本区域、本部门的舆情管控工作，同时要明确专人具体承办舆情管控协调处置工作。各级各部门要结合区域特点和部门职责，对各类倾向性、苗头性、聚集性的舆情信息，制定科学合理的应急处置预案。同时要加强协调、及时沟通、实现信息资源共享，确保工作有序开展。</p>
-<p>三、强化信息报送</p>
-<p>各县（区、市）人民政府，开发区管委会，市直有关部门每周向领导组办公室报送一次本区域、本部门舆情收集处置情况。市政府系统舆情管控工作领导组办公室对各部门报送的舆情信息进行统计分析后，报市委、市政府。领导组办公室联系电话：3203020，</p>
-<p>晋中市人民政府办公厅</p>
-<p>2015年11月13日</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUGtBNgUYAAgvex.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUGtBNgUYAAgvex.png" alt="CUGtBNgUYAAgvex" width="600" height="800"></a></p>
-<p>
-</p><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%99%8B%E4%B8%AD%E5%B8%82%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E7%B3%BB%E7%BB%9F%E8%88%86%E6%83%85%E7%AE%A1%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%8B%E4%B8%AD%E5%B8%82/?category=18271" rel="tag">晋中市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%BB%A4/?category=18271" rel="tag">禁令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E6%83%85%E7%AE%A1%E6%8E%A7%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">舆情管控工作</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%9C%B4%E6%8A%B1%E4%B8%80%EF%BC%9A%E4%BD%A0%E4%B8%8A%E9%92%A9%E4%BA%86%E4%B9%8B%E4%B8%80/" target="cdt-mirror">朴抱一：你上钩了之一</a>
-</h2>
-<p><p>2015年11月13日，发生在法国巴黎的枪杀案震惊世界。随后，中文互联网一些势力上蹿下跳，释放出各种谣言，不断制造和穆斯林对立的氛围，身边不少人上当。</p>
-<p>我梳理了其中的几条谣言，努力还原真相。其实所谓真相，不过是一些简答的常识而已。</p>
-<p>这是这几天微博微信传得最多的一条信息：</p>
-<blockquote><p>以下为乌鲁木齐“7.5事件”后 法国政府的原话，我们将原话中的国家替换一下，现在还给法国人：对在巴黎发生的种族冲突感到遗憾，法国政府应该通过对话的方式与穆斯林群体进行沟通，而不 应对穆斯林维权人士的和平抗争进行打压！我们谴责所有发生的暴力行为，但这与法国政府一直有系统的迫害少数民族有关，粗暴压制他们的宗教信仰和生活方式， 才造成今天的局面。</p></blockquote>
-<p>另一种说法是，法国政府的这个声明是针对2014年5月22日的昆明事件的。</p>
-<p>我没有从法国外交部网站找到2009年的声明记录。但是维基百科“七五事件”词条下各国的反应中，法国的表态是：外交部发言人表示关注，并表示可能会有欧洲国家回应此事。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wd8w98gj20o204ojsq.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wd8w98gj20o204ojsq.jpg" alt="abd16213jw1ey4wd8w98gj20o204ojsq" width="585" height=""></a></p>
-<p>中国侨网在3天后的报道说，法国政府在回应七五事件时比较谨慎低调。法国外交部发言人7日下午在回答有关提问时仅表示“担心和忧虑”。据报道，收到“东突分子”扬言要抗议示威后，从7日起，法国警方增派警力，加强了中国驻法使馆的安保措施。</p>
-<p>一周后，法国驻华大使在接受新华社采访时称赞中国政府展现出公开透明的意愿，给他留下“深刻印象”。他同时表示，新疆暴力事件“令人痛心”。“伤者和死者中既有汉族人也有维吾尔组族人，这件事对这些受害者的家庭、亲属和朋友都是悲剧。”他最后强调，新疆问题属于中国内政。和谐的社会氛围对于新疆乃至全中国都非常重要。</p>
-<p>报道地址：http://news.sohu.com/20090713/n265189839.shtml</p>
-<p>关于2014年昆明流血袭击案，法国驻华大使馆网站上有公开声明，“任何理由都不能为类似行径辩解”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wb9g3k7j20o20a8q5t.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wb9g3k7j20o20a8q5t.jpg" alt="abd16213jw1ey4wb9g3k7j20o20a8q5t" width="585" height=""></a></p>
-<p>截图自法国大使馆网站</p>
-<p>到2014年的5·22乌鲁木齐袭击事件，法国政府称：向遇难人员及其家属表示哀悼，在这场悲痛事件中，法国向中国政府和人民表示支持。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wbw1cmwj20o209bmze.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/abd16213jw1ey4wbw1cmwj20o209bmze.jpg" alt="abd16213jw1ey4wbw1cmwj20o209bmze" width="585" height=""></a></p>
-<p>截图自法国驻华使馆网站</p>
-<p>关于欧盟主席国要求旁听这件事，其实中国法律并不限制外国人的旁听，在著名的薄谷开来谋杀英国人尼尔伍德案审理时，英国使领馆的官员就进行了旁听。而且，英国方面还发表了一份声明，希望不要判薄谷开来死刑。道理也很简单，反对死刑是欧盟一贯立场。</p>
-<p>所以，欧盟提要求，中国不同意，欧盟遗憾一下就过去了。这是正常不过的外交流程而已。左愤为此把自己的屁股挪到恐怖分子的立场上去，真是愚蠢到家了。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%9C%B4%E6%8A%B1%E4%B8%80%EF%BC%9A%E4%BD%A0%E4%B8%8A%E9%92%A9%E4%BA%86%E4%B9%8B%E4%B8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E%E6%81%90%E8%A2%AD/?category=18271" rel="tag">巴黎恐袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD/?category=18271" rel="tag">法国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%85%B7%E5%88%91%E5%AE%A1%E8%AE%AE%E7%AD%94%E8%AF%A2-%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%85%B6%E4%B8%8D%E8%AF%9A/" target="cdt-mirror">美国之音｜中方就酷刑审议答询 人权人士称其不诚实</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg" alt="巴丢草：自由浦志强" width="415" height="581"></a><br><em>“自由浦志强” by 巴丢草</em></p>
-<p>华盛顿—</p>
-<p>联合国禁止酷刑委员会18日在日内瓦继续对中国履行禁止酷刑的国际公约情况进行审议。委员会的九名国际专家对中国团的答询表示质疑，人权团体认为中国代表团的说法不诚实。</p>
-<p>在前一日这场审议开始时，中国常驻联合国日内瓦办事处和瑞士其他国际组织的吴海龙大使表示，中国在反酷刑和保护人权方面的工作取得新进展。不过，鉴于中国近年来深入打压人权律师，长期拘禁异见者和活动人士等，委员会的九名国际专家对吴海龙的说法表示了质疑。</p>
-<p>委员会就中国对禁止酷刑的教育和培训、检察机关的独立性、律师权益的保障、器官的强行摘取及寻衅滋事的标准等提出了疑问。</p>
-<p>18日的审议中，中方代表团表示，政府为监狱警察、医护人员、检察官等提供持续的反酷刑培训。自2012年以来，共有24039名人员接受了这样的培训，其中有10000名是法官。同时，人民检察院是《宪法》明确规定的法律监督机关，不受行政机关、社会团体和个人的干涉。代表团说，虽然检察机关同时拥有公诉权和刑事执行监督权，但分属不同部门行使，因此可以保障其独立性和公正性。</p>
-<p>据中国维权律师关注组称，在律师权益方面，委员会问到了709律师大抓捕事件。代表团的回应指犯罪团伙利用北京锋锐律师所为平台，因此采取强制措施对犯罪嫌疑人进行立案侦查。目前案件还在侦办中。代表团强调，律师和其他人一样，要遵守法律。另外，代表团强调中国主管部门是针对违法行为依法办案，希望委员会严守自身职责，避免将审议政治化。</p>
-<p>香港支联会副主席蔡耀昌对美国之音说：“中国已经参与了这个禁止酷刑公约，所以中国政府是有法律责任去履行。所以专家委员会提出的一些问题和建议，肯定中国政府需要回应。另外，联合国的机制，这个委员会也可以写一些报告给联合国，尤其是人权理事会，也包括联合国大会，用各种各样的渠道，透过国际的舆论，希望能够真的让中国关注和改善人权。”</p>
-<p>不过，中方代表团对委员会的问询给出的答复并没有令很多人权人士满意，他们在推特上及时表达了他们的看法。</p>
-<p>在中方人员提到使用审讯椅并非惩罚，而是保护关押人员与公安时，CHRD人权捍卫者发表推文：“中国代表说审讯时给被审讯者戴刑拘是为了他们‘舒适’、‘防止自杀自残’！听众哗然。”</p>
-<p>人权观察组织(Human Rights Watch)中国事务负责人苏菲·理查森(Sophie Richardson)发推文说：“中国在禁止酷刑委员会中的答询既不专业，也没有建设性，又不诚实和尊重。”</p>
-<p>审议最后，中方代表团表示，欢迎各位委员在方便的时候访问中国。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%85%B7%E5%88%91%E5%AE%A1%E8%AE%AE%E7%AD%94%E8%AF%A2-%E4%BA%BA%E6%9D%83%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%85%B6%E4%B8%8D%E8%AF%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -798,7 +807,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -808,5 +817,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

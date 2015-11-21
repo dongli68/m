@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,140 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E5%B9%BF%E4%B8%9C%E8%A1%8C%E8%AE%B0%E8%80%85%E6%89%8B%E8%AE%B0%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%AE%A3%E9%98%9F%E4%BC%8D%E9%87%8C%E7%9A%84%E6%B4%8B%E9%9D%A2%E5%AD%94/" target="cdt-mirror">BBC｜广东行记者手记：中国外宣队伍里的洋面孔</a>
+</h2>
+<p><p><em>文／赵雅珊</em></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151120045540_guangdong_media_tour_624x624_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151120045540_guangdong_media_tour_624x624_bbcchinese_nocredit.jpg" alt="在饭桌上我问这些外国记者朋友，是否适应中国的新闻审查？他们莞尔一笑，有一位说：“我们知道游戏规则才来的。” " width="500" height=""></a><p>在饭桌上我问这些外国记者朋友，是否适应中国的新闻审查？他们莞尔一笑，有一位说：“我们知道游戏规则才来的。”</p></div>
+<p>在国际化的今天，那些对中国充满好奇和探索欲的欧美年轻人来到中国就职于中国的国家媒体，承担着宣传任务。</p>
+<p>他们从小接受着西方国家关于言论和新闻自由的教育，但做中国媒体的记者，难免会碰到新闻审查和宣传任务。那他们又是怎样在新闻真相和宣传工作的博弈中取得平衡？</p>
+<p>记者团到达广东惠州的时候，我所坐的大巴车上上来几位年轻俊朗的外国男记者和优雅和善的外国女记者。他们主动和车上的人打招呼和问好，并积极地介绍着自己并和邻座的人交换着名片。</p>
+<p>一接过名片我才发现他们的东家不是外国媒体。他们虽为西方面孔但为中国媒体工作。</p>
+<p>他们就职于中国网、《北京周报》、《今日中国》等媒体，是中国国家级外宣期刊，也是中国外文局旗下的出版物。</p>
+<p>中国有多家英文报纸和杂志。在中国国内被大众熟知的有《环球时报》英文版、《中国日报》、《上海日报》等。但多数时候写文章做报道的还是中国雇员。“外国专家”负责最后润色中国记者们的语言和修辞。坐在办公室改稿子的“外专”多，出来实地采访的少。</p>
+<p>所以这次的广东行看到“外专”组团来，还是稍感意外。</p>
+<p><strong>游戏规则</strong></p>
+<p>不可否认的是，外国同行的中文水平给我留下了极深刻的印象。他们几乎人人会流利的中文，有的甚至可以直接用中文采访地方官员。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151119015421_wang_yong_guangdong_976x549_bbcchinese.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151119015421_wang_yong_guangdong_976x549_bbcchinese.jpg" alt="151119015421_wang_yong_guangdong_976x549_bbcchinese" width="550" height=""></a><p>这次广东行的中国宣传队伍，来了很多外国面孔。</p></div>
+<figure></figure><p>中国外文局的带队领导闲聊时告诉我，本次参团来的老外都不算中文最好的。还有更好的没来。</p>
+<p>除开中文，他们多是三语甚至四语习得者。饭桌上一起用餐时，一位美国的小伙经常左右逢源，跟左边的同行用日语交流，转过头来跟我用英文讲，还跟斜对角的记者讲西班牙语。</p>
+<p>除开语言能力强，他们对中国新闻的运作思路也展现出了极强的适应性。</p>
+<p>在中国大陆做新闻的必经程序是新闻审查。新闻媒体的领导要把关，看文章的政治立场是否正确，也看有无媒体导向，是否起到宣传作用。</p>
+<p>在饭桌上我问这些外国记者朋友，是否适应中国的新闻审查？他们莞尔一笑，有一位说：“我们知道游戏规则才来的。”</p>
+<p>但怎样在中国的制度体制内玩好新闻规则则是他们要面临的挑战或者要做出的妥协。</p>
+<p>虽为中国媒体工作，他们显然和我一样，对某些企业或者官员对待外媒记者所持有的中式思维并不认同。</p>
+<p>比如，在参加广东惠州石化园区的欢迎仪式时，该园区的管委会副主任用这样的语句结束了她的欢迎辞。她说希望各位外媒朋友多给惠州做宣传，并做积极正面的报道。</p>
+<p>同桌的外国同行们与我交换了眼神，尔后相视一笑。我心想地方不懂外媒的心，外媒不是中共的宣传工具。</p>
+<p>同桌的他们是否在思考，什么才是正面的宣传报道？</p>
+<p><strong>地方上的小心思</strong></p>
+<p>今年已是“看广东”活动的第七年，主办方–广东省人民政府新闻办和广东省外办已经很有经验，不过行程非常紧凑，跟旅游团的境遇有得一拼。真可谓：“上车睡觉, 下车尿尿，景点拍照。”</p>
+<p>官方安排了采访惠州石化区，并带记者们领略了石化区附近的大亚湾美景。惠州地方政府的用意非常明显，他们想借此机会向外界宣传石化发展和环保并行。</p>
+<p>但可惜的是，该石化区展现给记者们看的园区空气实时监控数据是否可靠，以及石化区附近的大亚湾住宅的入住率到底有多少，还要打个问号。记者团只能远远眺望高楼，肉眼看不清具体的入住率。</p>
+<p>今年共有7家外媒机构，包括国际纽约时报(International New York Times)、彭博社（Bloomberg）、瑞士金融时报、日本广播协会（NHK）、日本读卖新闻、新加坡联合早报和BBC中文网参加了活动。到场的还有其它港澳媒体和中国的中央媒体和广东省的媒体记者。记者团前前后后扩充到40多人。</p>
+<p>但真正热闹的是中国的中央媒体记者和广东省的地方记者们。</p>
+<p>每到一处采访点，需要拍照宣传时，他们总会要求一个洋面孔出现。</p>
+<p>而我的外国同行们也非常配合当地政府的需要。比如在记者会上问安排好的问题。广东惠州的地方官员在回答外国记者提问时明显念稿。一个小问题，官员看着稿念，就能有条不紊、逻辑严密、数据详实地讲15分钟。</p>
+<p>多家采访行程中的企业邀请记者们一同合影留念。但外媒记者们似乎不太喜欢热闹，中国媒体记者和企业负责人合影时，我们早早在企业楼下等待离开。</p>
+<p><strong>外宣里的洋面孔</strong></p>
+<figure></figure><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151028080607_13th_five_year_plan__976x549_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151028080607_13th_five_year_plan__976x549_bbcchinese_nocredit.jpg" alt="请老外说唱的《十三五之歌》在中国的社交媒体上着实火了一把。 " width="550" height=""></a><p>请老外说唱的《十三五之歌》在中国的社交媒体上着实火了一把。</p></div>
+<p>中国近期的对外宣传出现了越来越多的外国面孔和声音。比如宣传中共十三五规划的《十三五之歌》用老外说唱的形式解释了十三五。</p>
+<p>以及中国国家主席习近平今年9月访美时，中共《人民日报》推出了《谁是习大大》的视频，采访了多名在北京的外国留学生，问他们对习近平的印象和评价。</p>
+<p>这两个视频的宣传效果在一定程度上是达到了。虽然这两个视频的受众应该是外国人，但似乎在中国国内的转发率和传唱度更高。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/150924042640_xi_dada_624x351_peopledaily_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/150924042640_xi_dada_624x351_peopledaily_nocredit.jpg" alt="在中国的外国留学生给出了她们对习近平的评价。 " width="550" height=""></a><p>在中国的外国留学生给出了她们对习近平的评价。</p></div>
+<figure></figure><p>启用洋面孔做外宣，而且动态的视频越来越多。</p>
+<p>这就让中国的外宣“动”起来和“洋”起来了。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E5%B9%BF%E4%B8%9C%E8%A1%8C%E8%AE%B0%E8%80%85%E6%89%8B%E8%AE%B0%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%AE%A3%E9%98%9F%E4%BC%8D%E9%87%8C%E7%9A%84%E6%B4%8B%E9%9D%A2%E5%AD%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A8%E5%B0%8F%E5%B9%B3%E7%A7%B0%E6%A8%8A%E4%BA%AC%E8%BE%89%E6%88%96%E6%9B%BE%E4%B8%BA%E7%8E%8B%E5%8A%9F%E6%9D%83%E3%80%81%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%B7%A5%E4%BD%9C%EF%BC%8C%E6%81%B0/" target="cdt-mirror">周小平称樊京辉或曾为王功权、许志永工作，遇害时机“蹊跷”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%81.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%81-e1448091388425.jpg" alt="不信抬头看苍天饶过谁" width="550" height="336"></a></p>
+<p><strong>周小平在微博发布新文：<a href="http://weibo.com/p/1001593911210373376814">到底是谁害死了中国人质?</a><br></strong></p>
+<blockquote><p>其实关于樊京辉这个人我此前是听说过一些的，据说樊京辉在辞职之后干过许多行业都不成功，直到他开始接触到一批网络上的”舆论领袖大V“，才开始声名鹊起。从他的微博看出那时他时常会转发一些“舆论领袖大V”的观点和文章。同时根据<strong>《北大商业评论》首席编辑的爆料称：“樊先后在王XX和许XX旗下工作过，（注：王XX、许XX是中国著名的“舆论领袖大V”，此二人和叙利亚、利比亚、突尼斯那群通过挑起暴动搞垮了国家，导致了无数人间惨剧的人是同一类。 ）</strong>，樊积极参加社会活动，因此也受到了相当程度的重视，甚至被成功运作上过某著名白姓主持人的节目，成为了一时的网络红人；但好景不长，在王XX和许XX被依法逮捕之后，他便一直失业在家。” ——<strong>虽然这些传言还未经官方证实，但从樊过去的微博来看，至少樊与他们在网上是有过接触的。</strong>若果真如此，那么樊选择的这种生活虽谈不上颠沛流离，却也着实令人唏嘘。</p>
+<p>在得知樊被抓之后，中国派出了人员赶赴叙利亚设法营救，但樊依然惨遭杀害。[…]樊在此时突然遇害，着实蹊跷。</p>
+<p>[…]尤其是欧洲从十字军东征至今，<strong>两个都宣扬“异教徒”概念的西方宗教已经持续争斗了千年，而中国的宗教从不宣扬“异教徒”概念，所以一直和双方都没有什么恩怨。</strong>[…]如果欧美能在这个时候把中国拉下水，让中国和伊斯兰国全面开战，那便是欧美最乐意看到的局面。</p>
+<p>[…]樊失踪时间已经很长了，被ISIS极端组织作为人质挂在网上也有两三月之久，此前他一直都没有被杀害，还有被救回或放回的可能，但这种可能却在巴黎发生暴恐、整个欧洲深陷ISIS极端组织暴恐威胁之时突然被终结了，这其中的深意恐怕不由得人不去联想。</p>
+<p>究竟谁害死了樊京辉？樊京辉失业期间都发生了些什么？是谁安排他去了叙利亚？又<strong>是谁让樊京辉恰好在这个时间点上被杀害</strong>？我想这些问题都必须要查个清楚。[…]</p>
+<p><strong>不信抬头看，苍天饶过谁。</strong></p></blockquote>
+<h4><strong>数字时代编辑总结了下此文大意：</strong></h4>
+<table><tbody><tr><td>
+<ul><li>ISIS仇恨的对象主要是欧美</li>
+</ul></td>
+</tr><tr><td>
+<ul><li>中国和ISIS没有什么恩怨</li>
+</ul></td>
+</tr><tr><td>
+<ul><li><strong>樊京辉曾为王功权和许志永工作</strong>，受重视后上了白岩松的节目<strong>——虽然官方尚未证实但总之他们是一伙儿的</strong></li>
+</ul></td>
+</tr><tr><td>
+<ul><li><strong>王功权和许志永“和叙利亚、利比亚、突尼斯那群通过挑起暴动搞垮了国家，导致了无数人间惨剧的人是同一类”</strong></li>
+</ul></td>
+</tr><tr><td>
+<ul><li>深陷中东乱局的欧美想拉中国下水</li>
+</ul></td>
+</tr><tr><td>
+<ul><li>中国已派人赶赴叙利亚营救樊京辉</li>
+</ul></td>
+</tr><tr><td>
+<ul><li>11.13巴黎恐袭前樊京辉还有被救回或“放回”的可能</li>
+</ul></td>
+</tr><tr><td>
+<ul><li>恐袭后樊“恰好”突然遇害了，时间点很“蹊跷”</li>
+</ul></td>
+</tr><tr><td>
+<ul><li><strong>这一切都是阴谋<del>！！！</del></strong></li>
+</ul></td>
+</tr></tbody></table><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%812.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%812.jpg" alt="不信抬头看苍天饶过谁2" width="259" height="194"></a></p>
+<p>但中共党媒人民日报海外版旗下的“侠客岛”近日才发文<strong>称<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E9%81%AD%E6%92%95%E7%A5%A8%E6%98%AF%E4%BF%84%E3%80%81%E6%B3%95%E5%AF%B9isis%E5%85%A8%E9%9D%A2%E6%89%93%E5%87%BB%E6%89%80/">樊京辉遭撕票是俄、法对ISIS全面打击所致</a>，</strong>而<strong>谈判是中国解救遭恐怖组织绑架人质的首要选择</strong>：</p>
+<blockquote><p>但是最近俄罗斯、法国等国家对ISIS进行全面打击，一下打乱了ISIS的布局和它原先的计划，导致人质解救渠道中断，收不到钱，ISIS就撕票了。</p>
+<p><strong>中国从来没有通过武力解决。</strong>一方面是我们有不干涉他国内政的原则，另一方面出动军队到那么远的地方去，<strong>条件也不具备</strong>，所以一般不会采取武力解救。<strong>必要的时候可以跟当事国沟通，请当事国采取武力</strong>，比如中国人质之前在巴基斯坦伊斯兰堡被扣押，就是当地出军去解救的。</p></blockquote>
+<p>附：2014、2015年在联合国关于叙利亚局势决议草案中投反对票的国家名单，请自行感受：</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%8F%8D%E5%AF%B9%E7%A5%A8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%8F%8D%E5%AF%B9%E7%A5%A8.png" alt="反对票" width="250" height="445"></a><p>中国数字时代制图</p></div>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9Cis%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%88%A0%E9%99%A4%E7%BD%91%E4%B8%8A%E7%83%AD%E8%AE%AE/">博谈网｜IS处决中国人质后，中国删除网上热议</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%A8%8A%E4%BA%AC%E8%BE%89%E8%A2%ABis%E5%A4%84%E5%86%B3%E4%BA%86-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/">端传媒 | 樊京辉被IS处决了 中国人怎么看？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E9%81%AD%E6%92%95%E7%A5%A8%E6%98%AF%E4%BF%84%E3%80%81%E6%B3%95%E5%AF%B9isis%E5%85%A8%E9%9D%A2%E6%89%93%E5%87%BB%E6%89%80/">侠客岛：中国人质遭撕票是俄、法对ISIS全面打击所致</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%A3%B9%E8%AF%BB%EF%BD%9C%E5%88%98%E5%8D%81%E4%B9%9D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E8%A2%AB%E6%9D%80%EF%BC%8C%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%98%B4%E8%B0%8B%EF%BC%9F/">壹读｜刘十九：中国人质被杀，是美国人的阴谋？</a></li>
+</ul></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E9%81%93%E5%A5%BD%E8%BD%AE%E5%9B%9E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E9%81%93%E5%A5%BD%E8%BD%AE%E5%9B%9E.jpg" alt="天道好轮回" width="365" height="300"></a></p>
+<h4><strong>以下评论由数字时代编辑收集自新浪微博：</strong></h4>
+<p><a href="http://weibo.com/n/%E6%B8%85%E6%B1%A4%E9%9D%A2%E6%88%90%E7%B2%A5?from=feed&loc=at" target="_blank">清汤面成粥</a>:对于鮑迪克先生来说，编造谎言是一种乐趣；而对于周小平同志来说，采用谎言也是一种乐趣<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p><a href="http://weibo.com/n/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5?from=feed&loc=at" target="_blank">破破的桥</a>: 前几天的文章写得准吧“悲剧发生后，大家并不想搞清问题，只是想借机攻击平时自己不喜欢的人。”先造个无脑谣言，再发动整个圈子传，相互传久了就是真的<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@随风飘去2024352911：按@周小平同志 的思路，应该是几个敌对大国要么绑架要么欺骗把樊京辉弄到ISIS去了，然后串通ISIS养活了他这么久之后杀掉，目的就是为了把中国拖入泥潭。这盘大棋 下得很有想象力，只可惜他们不懂行情，樊京辉名气太小。如果他们当初选中了@周小平同志 ，我国不惜陷入泥潭也要把这位国宝救回来的。</p>
+<p>@被遗忘者的长枪:这逻辑无法反驳，不过无法解释又被杀了三个～//@肖芳华律师:要是公知不宣扬自由，就没有国人向往自由，没人向往自由，自然就不会有人想出国，没人出国就不可能有国人在国外被打死，所以国人在国外被打死是公知害死的。</p>
+<p><a href="http://weibo.com/n/Yurivikyi-%E5%85%AB%E9%9B%B2%E7%B4%AB%E6%9C%AC%E5%91%BD?from=feed&loc=at" target="_blank">Yurivikyi-八雲紫本命</a>: 平心而論，帶魚同志平時飲水濁親，乃至屙屎唔出，都係大V同埋公知嘅錯呢~~~<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/1945996163" target="_blank">SYSU-歐悟</a><i title="微博达人"></i>：虽然没有直言因果，但行文隐晦的神逻辑是：因与舆论大v过从甚密，被重视而上了白岩松节目…舆论大v是社交网络时代的事，上白岩松节目都是2000年出头的事。这么赖好么<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p>@红星公社葡萄酒庄：文章开头这句“ 死难者尸骨未寒，而秃鹫却早已盘旋在上空。 ”用的不错。客观的说@周小平同志 还是蛮有文化的嘛，您看，人家知道有“不信抬头看，苍天饶过谁”这句话，并且还会活学活用在这篇文章结尾，了不起！</p>
+<p><a href="http://weibo.com/u/5691708862"> 大死兄</a>：虽然汉奸王功权不肯承认。但我二哥一眼就看出来了（我二哥说的话就是真理，谁敢反对他就是反对习主席），死掉的这个家伙是汉奸的跟班，死不足惜，所以朝廷不救他是正常的<img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"> 什么？王功权不承认？打断他的狗腿，看他承认不承认？<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
+<p><a href="http://weibo.com/1905277327" target="_blank">大雄-要成功</a><i title="微博达人"></i>：长鱼侯说了半天，除了满口谣言，看不出有啥逻辑性可言，有一种笑话叫做周小平<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">五毛界的智商真的很感人…</p>
+<p>@-风后-: 是哪个公知一边鼓吹公民运动一边宣扬圣战思想的？同时做这两件截然相悖的事情是有多分裂的人格啊？ //@千钧客:要我说，公知也是害死人质的凶手之一。他们整天鼓吹所谓公民运动，长期宣扬穆斯林圣战思想，误导一批人沦落为“民主”炮灰。</p>
+<p>@小童看天下:我真想好好写一篇彻底驳倒这厮的文章。但是，又感觉跟他辨论问题又太丢人了，因为这厮太无耻了，这是意识形态禽兽。有这样的货色是中国人的耻辱。</p>
+<p>@王祖哲:周小平认为ISIS一点责任没有——作恶到极端，就可以免于道德和法律的控制。天朝的王八羔子，为什么这么坏？</p>
+<p>@庭院里的小狗熊：原来时评是这么写的？证据是一张其它大v围脖截图，论证过程全是看上去言之凿凿的主观臆断。投机取巧，图谋不轨，文笔还粗糙。平论？哪周xx天可以写一个，平论｜为何超市少称我一两米。平论｜为何隔壁老王家的狗在我家门前拉屎。美帝指使的！</p>
+<p>@河北马庄2010：看了全文，本想说几句想起哥们的话：让傻逼在傻逼的道路上狂奔吧</p>
+<p>@用户78asxttpcq：既不发兵，又不付赎金，只是放屁，是一个付责任国家该有的表现吗？你抗议，谴责，有用吗？不是放屁吗？跟管不了，无能为力有什么区别？</p>
+<p>@忽埃木艾：开黄网的带带再次发声，力证都是网络大V害死了中国人质，这种胡扯能力之强大令人惊叹，但是这么有想象力怎么开黄网就失败了呢</p>
+<p>@苗宇光2835068261：真是阴阳怪气的文章，欧美惹怒了极端组织，所以报复它们，樊京辉受你说的那些大V们的蛊惑也惹了恐怖分子，所以他被杀死，这等同于大V杀了樊？什么逻辑？</p>
+<p>@that_is_my_tiger：人都死了，还被周王八蛋抹黑</p>
+<p>@ericfu1980：全靠评论压压惊啊</p>
+<p>@中庸的人生：问带鱼一句，领isis多少黑钱，为其开脱暴行？</p>
+<p>@走音天王：周小平，不信抬头看，苍天饶过谁。</p>
+<p>（以上扬子截图均来自网络）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A8%E5%B0%8F%E5%B9%B3%E7%A7%B0%E6%A8%8A%E4%BA%AC%E8%BE%89%E6%88%96%E6%9B%BE%E4%B8%BA%E7%8E%8B%E5%8A%9F%E6%9D%83%E3%80%81%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%B7%A5%E4%BD%9C%EF%BC%8C%E6%81%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">ISIS处决中国人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E6%B6%89%E5%86%85%E6%94%BF/?category=18271" rel="tag">干涉内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">西方势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81-%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%B6%E5%BA%A6%E5%8F%B2/" target="cdt-mirror">月下鹰翔：空中楼阁——建国以来房地产制度史</a>
 </h2>
 <p><p>作者：月下鹰翔，天涯ID蛮族勇士（转载请注明作者）</p>
@@ -791,72 +922,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%90%AC%E9%97%BB%E4%BB%96%E8%A2%AB%E5%AE%B3%E4%BA%86-%E4%B8%BA%E4%BA%86%E4%BB%96%E4%B8%93%E9%97%A8%E7%BB%99%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87is/" target="cdt-mirror">新闻马赛克 | 听闻他被害了 为了他专门给恐怖组织IS打了电话</a>
-</h2>
-<p><p>半夜里手机里的一则推送把马赛君吓了一跳。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis.png" alt="isis" width="582" height="132"></a></p>
-<p>马赛君立马开启多国语言翻译模式，事件渐渐清晰。</p>
-<p>美联社消息：伊斯兰国（IS）11月18日（周三）宣布，他们已经杀害了一名中国人质和一名挪威人质，原因是两个月过去了，他们没有获得赎金。美联社还称，该组织在最新一期宣传册上公布了被认为是两人遗体的照片。</p>
-<p>然而，这一事件的真实性并未获得证实。与马赛君同样忙碌的，还有我外交部。很快，外交部网站上就出现了如下的对话：</p>
-<p>问：据报道，“伊斯兰国”组织声称杀害了此前被绑架的中国人质。中方能否证实?</p>
-<p>答：中方已注意到有关报道，对有关信息深感震惊。中国公民被绑架事件发生后，中国政府一直全力设法开展营救工作。我们将进一步核实相关情况。</p>
-<p>其实，被ISIS绑架的那名中国人质，马赛君一直有关注。在得知他被绑架后，马赛君还鼓足勇气，按照ISIS提供的电话号码打了过去……（此处应有掌声）</p>
-<p>结果？让我们来回顾一下当时发生了什么。</p>
-<hr><p>中东极端组织伊斯兰国（ISIS）昨天（9月9日）在其最新的一期网络杂志《DABIQ》登了两张照片，声称挟持了两名人质，来自中国和挪威。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis2.png" alt="isis2" width="550" height="598"></a></p>
-<p>照片被做成广告海报模样，写明人质被“出售“，底部还附有联系方式：“+964770564252”，以提供给“那些想要支付赎金来释放和转移人质的人士”。还说，此次出售有时间限制，但没有标明具体的金额。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9Xibb94ojE6R1weLl7dxtdxNqJTTb5gDYdFTQXkZ5SZZSbh1JYyzm6SDs6lGRNQ1LINXhCLcg6XpWVA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>从这照片上可以看到，他至少被打得不轻，可怜啊！</p>
-<p>马赛君向中国驻伊拉克大使馆求证，009647开头的就是伊拉克的电话，粉儿们不要怪马赛君大胆，<strong>马赛君还真的打了00964770564252这个电话，过程很诡异！今天下午2点多马赛君打的时候，这个电话都是嘟嘟嘟嘟响四声就自动断了，到了四点就是忙音！</strong></p>
-<p>而且964770564252这串数字是某社交软件的账户号码。随后，马赛君登录该社交软件并添加上述号码，对方名称显示为“ISIS”。</p>
-<p>今天下午4点多，马赛君向中国驻伊拉克大使馆，求证樊京辉一事是否真实。使馆工作人员说，他们正在进行核实，具体信息请以外交部消息为准。</p>
-<p>马赛君还联系了中国驻叙利亚大使馆，领事馆一位韩姓工作人员说，他们也是昨天下午从外媒上了解到的这一信息，使馆方面高度关注。“他是第一个传出来被IS绑架的中国公民。但使馆方面还不能确定IS所宣称的此事是否属实。”不过他也表示，北京的确有这样一个叫做樊京辉的人存在。在马赛君问到使馆方面是否掌握入 境叙利亚的中国籍公民信息时，韩先生给予了否定的回答。</p>
-<p>根据ISIS发布的消息，这是一名中国人质，家庭地址、姓名都有，想必他们不会把这最基本的国籍信息弄错。那么FAN JING HUI 这个拼音到底是什么名字，光姓都有可能是范或樊…怎么确定是谁？</p>
-<p>之前有媒体翻出，北京师大附中二附中在60周年校庆时公布过一组校友照片，其中一张名叫樊京辉的照片跟“拍卖广告”中的FAN JINGHUI照片极为相似。该组校友照片是北师大附中二附中的1984届高三2班毕业照，照片中的樊京辉圆脸戴着黑框眼镜。而且1984年高中毕业亦符合其1965年生的年龄。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis3.png" alt="isis3" width="444" height="599"></a></p>
-<p>对比下看像吗？</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/nWibhjibibM9Xibb94ojE6R1weLl7dxtdxNqJTTb5gDYdFTQXkZ5SZZSbh1JYyzm6SDs6lGRNQ1LINXhCLcg6XpWVA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>马赛君今天和北京师大附中二附中校办的徐主任联系，她说目前学校并未听说此事。</p>
-<p>其实马赛君根据FAN JING HUI可能从事过广告业这个关键点来搜，第一时间就在百度搜到了一家叫“北京精彩因素广告有限公司”的广告公司，上面的业务联系人正是樊京辉，这家公司主要经营设计制作代理发布国内及外商来华广告、广告信息咨询、承办展览展示，组织文化艺术交流活动。从这一点上来看，也符合樊京辉可能会经常出国的特征。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis4.png" alt="isis4" width="600" height="307"></a></p>
-<p>马赛君发现，这家公司发布的信息中还标明：公司2002年4月5日在北京工商注册，董事长樊京辉，注册资本50万元。而且在全国企业信用信息公示系统查询， 就能找到一家名为“北京精彩因素广告有限公司”的公司，法定代表人为樊京辉，其注册地址正是为“北京市石景山区西井三区”4栋11单元502室，与ISIS“拍卖”广告信息显示的完全一致。</p>
-<p>据了解，樊京辉的这家公司已于2003年9月被吊销，曾经的办公电话目前被另一家企业使用。北京一些媒体朋友今天跑到这家公司的注册地址，敲门无人应答，据说一同探访的还有多家外国媒体记者。该楼一居民称“已经四五拨媒体来找过了”，另一名在该楼居住十多年的居民比对照片后表示从未见过樊京辉。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis5.png" alt="isis5" width="499" height="372"></a></p>
-<p>不过多位住户在看完IS发布的照片后表示，对照片中的人有印象。一位老人告诉记者，照片中人看起来像她认识的樊京辉，樊的妻子张某是其同事，在某中学任教，8月底她还在小区见过张某，但已很久未见过樊京辉。</p>
-<p>还有北京的媒体朋友联系到了樊的妻子张某，不过她表示现在很忙不想回答问题。她的一位同事说，张的丈夫确实叫樊京辉，目前家属很着急。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/isis6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/isis6.png" alt="isis6" width="631" height="520"></a></p>
-<p>意外的是，央视主持人白岩松曾在2001年采访过樊京辉。白岩松当时还在中央人民广播电台主持《午间一小时》节目。采访樊京辉这期节目的主题是“飘着的感觉怎么样”。樊京辉在节目中说自己：</p>
-<p>大学毕业以后，我在中学教书六年，挣钱不多。94年就下海了，下海正好碰到的一家公司，是广告公司。做了一年以后，又去了一家台湾人开的百货公司，在前门那儿，做了一年，又去了中央电视台，给一个新闻中心的制片人做私人的助手，属于中央电视台的那个“黑人”，就是也不签协议，也没有正式的名头，属于“黑人”，私人帮忙的那种。</p>
-<p>当时樊京辉和一名叫做“逄飞”的嘉宾一起接受白岩松采访。北京的记者朋友还联系到了逄飞，逄飞说那年上完节目之后未联系过樊，但新闻图片中的人很像自己曾见过的樊京辉。不知白岩松是否还记得？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%B0%E9%97%BB%E9%A9%AC%E8%B5%9B%E5%85%8B-%E5%90%AC%E9%97%BB%E4%BB%96%E8%A2%AB%E5%AE%B3%E4%BA%86-%E4%B8%BA%E4%BA%86%E4%BB%96%E4%B8%93%E9%97%A8%E7%BB%99%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87is/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/isis%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">ISIS处决中国人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A8%E5%8A%AB%E6%8C%81/?category=18271" rel="tag">人质劫持</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A8%8A%E4%BA%AC%E8%BE%89/?category=18271" rel="tag">樊京辉</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E8%B4%AA%E5%AE%98%E4%B8%AA%E4%B8%AA%E9%83%BD%E9%9A%90%E7%9E%92-%E8%B4%A2%E4%BA%A7%E7%94%B3%E6%8A%A5%E7%AC%91%E4%B8%80%E7%AC%91/" target="cdt-mirror">太阳报｜贪官个个都隐瞒 财产申报笑一笑</a>
-</h2>
-<p><p>官员财产申报是中共引以为傲的「反腐利器」，但从当局查处大小老虎的情况看，十个贪官九个瞒报。若非中纪委加强抽查力度，恐怕个个都能逍遥法外，所有不义之财都无法曝光。</p>
-<p>老百姓呼吁官员公布财产反被抓，贪官个个笑呵呵</p>
-<p>根据规定，内地县处级以上官员和国有企事业单位领导班子成员要集中填报十四项个人有关事项。其中涉及「家事」方面的有八项，主要包括本人的婚姻变化情况、配偶子女从业情况等；涉及「家产」方面的有六项，主要包括本人、配偶、共同生活的子女的房产、投资等情况。</p>
-<p>问题是，官员申报全靠自律，如实填报者少之又少。比如中央巡视组在抽查江西省原副省长姚木根个人有关事项时，姚申报了两套房产，结果被核实出十二套，而且大多地段好，价格不菲，与其家庭实际收入相差很大。这些问题线索成为查处姚木根的突破口。</p>
-<p>据不完全统计，去年至今，交通运输部十八人因房产、资产瞒报被取消考察对象资格。今年九月，杭州市有四名处级干部瞒报、漏报个人有关事项被暂缓提拔。例如有「房叔」之称、拥有二十多套房产的广州市城管局番禺分局原政委蔡彬，他出事前申报「本人持有房改房一套、儿子持有自建房一套」，年年蒙混过关，若不是有知情人在网上爆料，他也许至今还在逍遥法外。</p>
-<p>非不能也 实不为也</p>
-<p>事实上，很多地方的申报方式纯属走过场，充满漏洞。比如广东省官员财产申报表格，虽列明须填写名下房产套数、面积及具体位置等，但只有三到四行可填住房数量。由于有官员房产不止三四套，无法一一登记，有人请示领导后，答复竟是：「不知道怎么填，干脆就填一处。」其他官员心领神会，纷纷仿效。还有人发现，申报表格并无硬性要求官员申报直系亲属的财产状况，如房产、股票、各类投资等，亦无要求官员填报以领导身份兼任非官方职务的「灰色收入」，形成制度性漏洞。</p>
-<p>中共实施财产申报制度，在于通过登记官员财产的数量，接受公众及机构的监督，一旦财产与收入不符，即有腐败之嫌。然而，当局连申报表格这么简单的事都做不好，所谓申报当然毫无意义。其实，官员仅仅申报财产没有意义，必须同时公示，接受监督，才能杜绝官员弄虚作假。</p>
-<p>可惜，官员财产公示一直只闻楼梯响，不见人下来。就像可以让公众查阅的全国住房讯息联网，本来只是简单的技术，偏偏好事多磨，要等到二 ? 二 ? 年才有望实现。说穿了，相关措施触动权贵利益，会让他们来历不明的房产暴露，故在成功转移资产前，必然以各种借口一拖再拖。当局口说要接受人民监督，内心却担心人民监督， 可见财产公示非不能也，实不为也！</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E8%B4%AA%E5%AE%98%E4%B8%AA%E4%B8%AA%E9%83%BD%E9%9A%90%E7%9E%92-%E8%B4%A2%E4%BA%A7%E7%94%B3%E6%8A%A5%E7%AC%91%E4%B8%80%E7%AC%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%B4%A2%E4%BA%A7%E5%85%AC%E7%A4%BA/?category=18271" rel="tag">官员财产公示</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -868,7 +933,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -878,5 +943,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

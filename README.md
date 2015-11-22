@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91isis%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%E8%83%A1%E9%94%A1%E8%BF%9B%E5%90%8C%E5%BF%97%E7%9A%84%E4%B8%8D%E8%BE%9E%E8%BE%9B%E5%8A%B3/" target="cdt-mirror">【河蟹档案】ISIS不会忘记胡锡进同志的不辞辛劳</a>
@@ -299,7 +299,7 @@ And the wold will be as one 全世界就像一家人</p>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%97%8F/?category=18271" rel="tag">回族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%B1%89%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">回汉关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%B1%89%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">回汉婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%B1%89%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">回汉矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">民族关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">民族矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F%E5%AD%A6%E9%99%A2-%E5%BC%BA%E4%BA%BA%E6%94%BF%E5%BA%9C%E5%B8%A6%E6%9D%A5%E6%97%8F%E7%BE%A4%E5%92%8C%E5%B9%B3%EF%BC%9F%E5%8D%A2%E6%97%BA%E8%BE%BE%E7%9A%84/" target="cdt-mirror">敦伦政经学院 | 强人政府带来族群和平？卢旺达的反例</a>
 </h2>
@@ -1046,5 +1046,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis%E5%A4%84%E5%8
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

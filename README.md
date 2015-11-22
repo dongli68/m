@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E4%BD%A0%E4%BB%AC%E6%B1%89%E4%BA%BA%E7%9A%84%E5%BF%83%E5%9C%A8%E5%9C%B0%E7%8B%B1%E9%87%8C%EF%BC%81-%E5%9C%A8%E5%A4%A7%E6%98%AD%E5%AF%BA%E5%89%8D/" target="cdt-mirror">微信｜“你们汉人的心在地狱里！”—大昭寺前震撼心灵的对话</a>
@@ -884,7 +884,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ustc%E5%BF%AB%E4%B9%90%E6%97%A0%E7%BD%AA/?category=18271" rel="tag">ustc快乐无罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E7%B2%AA/?category=18271" rel="tag">左粪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E8%AE%B2%E5%BA%A7%E9%81%AD%E5%8F%96%E6%B6%88/?category=18271" rel="tag">贺卫方中国科技大学讲座遭取消</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%B9%E6%98%A5%E6%A3%AE/?category=18271" rel="tag">邹春森</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%A8%8A%E4%BA%AC%E8%BE%89%E8%A2%ABis%E5%A4%84%E5%86%B3%E4%BA%86-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/" target="cdt-mirror">端传媒 | 樊京辉被IS处决了 中国人怎么看？</a>
 </h2>
@@ -1038,7 +1038,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1048,5 +1048,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

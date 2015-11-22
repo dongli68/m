@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BC%9A%E5%9C%A8%E9%A9%AC%E9%87%8C%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%B8%AD%E9%81%87%E5%AE%B3%EF%BC%9F/" target="cdt-mirror">共识网 | 为什么中国人会在马里恐怖袭击中遇害？</a>
@@ -466,7 +466,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%83%A1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E4%B8%8B%E9%92%B1%E5%BA%84/?category=18271" rel="tag">地下钱庄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E9%87%91%E8%9E%8D/?category=18271" rel="tag">民间金融</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81/?category=18271" rel="tag">资金外流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81/?category=18271" rel="tag">非法资金外流</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E5%B9%BF%E4%B8%9C%E8%A1%8C%E8%AE%B0%E8%80%85%E6%89%8B%E8%AE%B0%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%AE%A3%E9%98%9F%E4%BC%8D%E9%87%8C%E7%9A%84%E6%B4%8B%E9%9D%A2%E5%AD%94/" target="cdt-mirror">BBC｜广东行记者手记：中国外宣队伍里的洋面孔</a>
 </h2>
@@ -1046,7 +1046,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1056,5 +1056,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

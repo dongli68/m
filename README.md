@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,68 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E4%BD%A0%E4%BB%AC%E6%B1%89%E4%BA%BA%E7%9A%84%E5%BF%83%E5%9C%A8%E5%9C%B0%E7%8B%B1%E9%87%8C%EF%BC%81-%E5%9C%A8%E5%A4%A7%E6%98%AD%E5%AF%BA%E5%89%8D/" target="cdt-mirror">微信｜“你们汉人的心在地狱里！”—大昭寺前震撼心灵的对话</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/tb1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/tb1.png" alt="tb1" width="550" height=""></a></p>
+<p>老威：可以和您说话吗？<br>
+旺吉：嘿嘿。</p>
+<p>老威：您挺高兴的。<br>
+旺吉：很高兴。嘿嘿。</p>
+<p>老威：我们认识一下，我叫老威。<br>
+旺吉：我叫旺吉。</p>
+<p>老威：您一开始拜佛，我就站在这儿数，您磕了81个长头。不累吗？</p>
+<p>旺吉：不累，我们的生命都是佛给的。我佛慈悲。不累。</p>
+<p>老威：这太阳，够火曝的，我站在这儿，头都晒晕了。我的一位同伴，在太阳下停了一刻钟，就中暑了。可你们藏族同胞，在明晃晃的阳光里，一大片一大片地磕长头，这么大的运动量，居然就没一个出问题……</p>
+<p>旺吉：喂，您的同伴在哪里？我领他找医生，我知道八角街最好的医生。</p>
+<p>老威：他吃了人丹，在阴凉地靠了一会儿，就缓解了。您的心肠真好，您自己的额头，还有这手，这膝盖，这胸脯，伤痕累累的，您该找一下医生，至少弄点药，要不会感染。</p>
+<p>旺吉：谢谢您。我们藏人不会感染，我们心中有佛，佛能治所有的病，脑子里的病，也能治。这西藏，是佛的国，好大好大，离天近得很。没有污染。</p>
+<p>老威：您是哪里人？住在啥地方？</p>
+<p>旺吉：我的家在白云那边，他们，这些拜佛的人，家都在白云那边，白云比太阳还飘的高，您骑马也赶不上。我们藏人死了都到白云那边，鹰把我们带去见佛。佛很大，很多化身，鸟，风，太阳，或者冰雪，或者山，雅鲁藏布江，都是佛，歌声也是佛。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/tb2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/tb2.png" alt="tb2" width="550" height=""></a></p>
+<p>老威：人也是吗？</p>
+<p>旺吉：人也是，您想帮助别人的时候，您就是佛。</p>
+<p>老威：那人与活佛的区别昵？</p>
+<p>旺吉：人很多时候不想帮助别人，还骗人，犯罪；活佛普渡众生，他一代又一代地轮回转世，是最大的善。现在，布达拉官暂时没有活佛，我们只有到大昭寺朝拜。</p>
+<p>老威：我是第一次到西藏，感触很深，这儿是明亮的阳光之国，河流和天空都像镜子一样，人走在路上，不，哪怕坐车，也觉得是在巨大的镜子之间。我的五脏六腑被洗了一遍，肠子都透明，这脑袋有点不属于自己，而是属于西藏的一部分，从风里飘来嵌在我脖子上。然后是刻着藏文的经幡。走在拉萨街头，藏族人都很友好，向陌生的汉族游客点头微笑打招呼，并教大家怎样转经，怎样祝福吉祥。旺吉，您也是好样的。</p>
+<p>旺吉：进了佛国的，都是兄弟。<br>
+老威：看您风尘仆仆的样子，不是拉萨人吧？</p>
+<p>旺吉：我是磕头来的，好几百里地。我是牧民，我卖了一些羊，一些牛，又用卖的钱换金子，一年换一点，五年能换好多金子。这次我全带来了，献给庙里，把佛像修得大大的。再过五年，我还能换更多的金子，献给佛。五年前，我就献过金子，那次，活佛为我摩了顶，我喜欢得哭了，我妻子，骑马伤了腿，活佛摩了我的顶，她的腿就好了。神佛保佑。</p>
+<p>老威：您家里几口人？</p>
+<p>旺吉：我家里五口人。一老妻，两个儿子，一个女儿。女儿出了嫁。我把两个儿子都送进庙里，侍奉佛。他们不识字，进大昭寺不够格，就先在我们本地寺庙呆了两年，然后进了小昭寺。太高兴了，他们不在外面惹祸、一心向佛，还学文化，每天学藏文。</p>
+<p>老威：您把儿子都送去当和尚了，家里不冷清？</p>
+<p>旺吉：能进寺院，是他们的造化，也是全家向佛修来的佛缘。我们藏族人，总是把家里最聪明最能干的孩子送到庙里去。</p>
+<p>老威：人都是要老的，将来您和您妻子怎么办？</p>
+<p>旺吉：佛自有安排。</p>
+<p>老威：您家里富裕吗？</p>
+<p>旺吉：除了吃的、用的和住的，财产都应该奉献给神佛。财产多余了，人就要产生贪心的念头，就会作恶。您看那根柱子下的老太太，牙都没有了，还边笑边吃糌杷，她比我还穷吧，可她活得高兴；因为她除了佛之外，就没多余的东西了。你们汉人可能不理解她为什么高兴？又脏，又无依无靠，吃东西都艰难，还高兴个啥。不相信？您过去问问她，您伸手要她的糌粑，她和糌粑的那只碗，她马上就会给您。因为您是在帮她，给她机会积德行善，这样她就接近佛，成佛了。她不会要您的钱，如果您扔在地上，她看都不会看……。她在笑呢，她知道我们在说她。她在这一带很有名，和许多外国游客照过相。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/tb3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/tb3.png" alt="tb3" width="550" height=""></a></p>
+<p>老威：老人家的眼睛非常有神，她穷得象乞丐，却笑得那样慈祥，我简单不敢看她。刚才，我逛了一回大昭寺，我没随其他游客的大流，而去走岔路，这寺里像迷宫一样，我不知不觉就沿着回形土梯上了顶，不是正殿的顶，而是靠西北角，庙后的一边。那儿没有金碧辉煌和照相留影的众多游客，连一个喇嘛也没有。四四方方的土围子内，只有一间小屋。我在那儿足足站了一刻钟，什么响动也没听见。风渐渐大了，我刚缩着脖子要下楼，却瞅见小屋内有双亮亮的眼睛望着我。我到底从小屋的暗处看清了那个老人，盘膝在卡垫上，面前的矮桌铺着经卷。他的白头发告诉我，他至少80多岁了。我猜想这老人抄了一辈子经卷。令我感动的依然是眼睛，像太阳下的水，一下子就涌到我的心里去了。他合掌对我说：“扎西德勒！”我也回了句：“扎西德勒！”他点点头，笑得跟孩子一样。不，比我们汉人的孩子还纯洁，他是天堂的孩子。那位老太太，也是天堂的孩子。我回到了自己的家园。我是不是搞错了？我是在世俗里陷得很深的汉人，却感到那抄经老人是我的父亲？真的，这一切像梦，又太熟悉了。</p>
+<p>旺吉：您的话我听不太懂，可您的眼睛告诉我！您有佛缘。其实，许多汉族人，还有许多外国人，都信我们的佛。不过，不少人把财产，把尘世看得太重，他们先是自己，然后才是佛，或者只有自己遇见了麻烦事，才想起佛来，这是得不了救的。我也做得不够，还有不少尘世的俗事。神佛保佑，我和妻子感情很好。如果有一天，她先于我进入天国，我就毁了房屋，放生牛羊，到山洞里去修行。有不少人去洞里面壁，听我儿子讲，在尼泊尔，还有西方人削发进洞的，一修就是一两年，不出洞，甚至连天日也不见。我没有经济条件去尼泊尔，可我到时候，准备选一座天葬台，在天葬石下掘个洞修行。</p>
+<p>老威：在天葬台下修行？太过分了吧？</p>
+<p>旺吉：那儿离天堂最近。在拉萨郊外，有个女尼就整日在天葬台下诵经，已经好几年了。</p>
+<p>老威：你们藏族同胞平时都极其和善，就是在天葬的时候很凶。昨天早晨我们去了，只想远远地感受一下气氛，藏胞们就从四面八方围过来，扔石头赶我们走。</p>
+<p>旺吉：你们外人不应该去，天葬是神的仪式，不是供参观的。否则，升向天国的灵魂会被打扰。</p>
+<p>老威：是啊，我们跑得非常远，才停下来，可我们还是看见一头鹰从铁青色的天幕后飞来，歇在山梁上，接着太阳从一个缺口露面，点燃了半边山和一片开阔地，鹰群飞来了，在空中盘旋，然后俯冲下去。我的毛发都竖起来了。</p>
+<p>旺吉：如果我们早认识，我可以替你们向死者家里人请求，让你们靠近，一起为亡灵祈祷。</p>
+<p>老威：您是个好人。我把地址留给您，欢迎您今后到成都我家做客。</p>
+<p>旺吉：我到过成都，到过内地的其它地方。</p>
+<p>老威：去佛庙里烧过香么？</p>
+<p>旺吉：烧过香，但我不相信汉人有佛。</p>
+<p>老威：您这是大藏族主义吧？都是释迦牟尼佛的信徒嘛。内地的佛教与藏传佛教只是分支、门派不一样，但源头是一样的。其实藏传佛教也有黄教和红教之别。归根结底，佛陀就是普渡众生，也不是只渡藏人，不渡汉人。成都的文殊院，无论普通节假口和佛教节曰，都挤得水泄不通，若遇公开讲经说法，收纳居士，佛堂根本容不下。单就信教的热情，汉人并不亚于藏人，只是风俗不同而已。</p>
+<p>旺吉：你们汉人信佛只为了自己，升官、发财、健康、儿女……反正世间所有俗事，都要求佛，都要许愿还愿。</p>
+<p>老威：内地有佛学院，专门研究经文，培养出家人。在历史上，因看穿红尘出家当和尚的名人也不少。有些明星还常去寺庙捐款，做佛的俗家弟子，他们可不为什么。</p>
+<p>旺吉∶不为什么？先生，在佛国里是不能撒谎的。你们汉人信佛都是看破红尘，当不了官，发不了财，健康有问题，儿女不孝顺，还有男女不相好了，觉得活着没意思了，于是想解脱，出家躲起来，人在寺庙里，心在外面。女的翦头发，男的剃头，还流眼泪，一副想不开的样子。你们把佛信得很痛苦，这是对佛大大的不敬。因为西方极乐世界，痛苦的人是永远进不去的。我们藏人信佛很快乐，从阿妈肚子里一出世，我们就是佛的人，佛国无边，哪有“红尘”？我们把金银珠宝都献给寺庙，把最聪明最有出息的孩子送去侍奉佛。我们一路磕长头来拉萨朝圣，高兴啦，心里一直唱着歌啦，头磕破了会长疤，只要身体还活着，血也没流完的时候。至于饿了渴了病了，都会过去，神佛保佑。你们汉人看不出我们心里有多快乐。来去都一丝不挂，可你们汉人想在世上留下的东西太多，佛是帮不了忙的。你们吃的、穿的、住的都比我们好，也比我们讲卫生，可你们痛苦，因为你们的心在地狱里。</p>
+<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E4%BD%A0%E4%BB%AC%E6%B1%89%E4%BA%BA%E7%9A%84%E5%BF%83%E5%9C%A8%E5%9C%B0%E7%8B%B1%E9%87%8C%EF%BC%81-%E5%9C%A8%E5%A4%A7%E6%98%AD%E5%AF%BA%E5%89%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9B%E6%95%99/?category=18271" rel="tag">佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA/?category=18271" rel="tag">藏人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BC%9A%E5%9C%A8%E9%A9%AC%E9%87%8C%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%B8%AD%E9%81%87%E5%AE%B3%EF%BC%9F/" target="cdt-mirror">共识网 | 为什么中国人会在马里恐怖袭击中遇害？</a>
 </h2>
 <p><p>作者：刘敏</p>
@@ -302,7 +361,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%97%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%8C%82%E5%B8%85/?category=18271" rel="tag">政治挂帅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C/?category=18271" rel="tag">经济下行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E6%96%87/?category=18271" rel="tag">译文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%80%9D%E4%B9%90%E4%B9%A6-%E5%AF%87%E5%BB%B6%E4%B8%81%EF%BC%9A%E6%97%A0%E5%8F%AF%E6%95%91%E8%8D%AF%E7%9A%84%E6%B8%A9%E5%92%8C%E5%BB%BA%E8%AE%BE%E8%80%85/" target="cdt-mirror">思乐书 | 寇延丁：“无可救药”的温和建设者</a>
 </h2>
@@ -382,7 +441,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%87%E5%BB%B6%E4%B8%81/?category=18271" rel="tag">寇延丁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%87%E5%BB%B6%E4%B8%81128%E5%A4%A9%E8%80%90%E5%8A%9B%E8%A1%8C%E8%B5%B0/?category=18271" rel="tag">寇延丁128天耐力行走</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E7%BB%84%E7%BB%87/?category=18271" rel="tag">民间组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E7%8E%89%E9%97%AA/?category=18271" rel="tag">郭玉闪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">颠覆国家政权罪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E7%8B%AC%E5%AE%B6%E8%A7%A3%E8%AF%BB%EF%BC%9A%E8%83%A1%E8%80%80%E9%82%A6%E8%AF%9E%E8%BE%B0%E7%99%BE%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%E8%83%8C%E5%90%8E/" target="cdt-mirror">端传媒 | 独家解读：胡耀邦诞辰百年纪念活动背后的博弈</a>
 </h2>
@@ -968,73 +1027,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/11-13%E6%B3%95%E5%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A3%B9%E8%AF%BB%EF%BD%9C%E5%88%98%E5%8D%81%E4%B9%9D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E8%A2%AB%E6%9D%80%EF%BC%8C%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%98%B4%E8%B0%8B%EF%BC%9F/" target="cdt-mirror">壹读｜刘十九：中国人质被杀，是美国人的阴谋？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6404.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6404.jpg" alt="640" width="550" height=""></a><br><em>图片来自网络</em></p>
-<p><strong>壹读微信号：yiduiread</strong></p>
-<p>凌晨，外媒报道了中国公民樊京辉被“伊斯兰国”极端组织残忍杀害的消息，然后在今天白天得到了中国官方的证实。</p>
-<p>网络上“虽远必诛”和“真理只在东风射程之内”的慷慨激昂，忽然毫无PS痕迹地转变画风，变成了“中国要理智”、“冲动是魔鬼”、“闷声发大财”。</p>
-<p>其中最有说服力的一种理论是：中国人质被处死，是美国一手策划的阴谋，美帝想用这种下三滥的手段把中国拖进战争的泥潭，阻碍中华民族的伟大复兴。所以我们不能上当。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/21.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/21.jpg" alt="2" width="500" height="394"></a></p>
-<p>这种阴谋论的思路当然非常熟悉，跟SARS是美国人的生物武器、前苏联为了卡我们脖子用铁圈套苹果差不多一个套路。反之，如果是我们的“阴谋”，就是“我兔腹黑”、“下一盘大棋”。</p>
-<p>壹读君（微信：yiduiread）今天要说的是，为什么这种思路总是很有市场？</p>
-<p><em>没心思害陛下的值班壹读君丨刘十九</em></p>
-<p><strong>首先声明我们不是标题党</strong></p>
-<p>为了避免被说是标题党，壹读君（微信：yiduiread）还是先探讨一下这个问题：中国人质被杀，到底是不是美国人的阴谋？</p>
-<p>壹读君（微信：yiduiread）不会说是，也不会说不是。严谨一点说，我们没法证明它是。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/3.jpg" alt="3" width="450" height=""></a></p>
-<p>大批键盘政治家目光如炬，不需要窃听，不需要获得秘密文件，不依靠国家多年辛苦建立的外交和情报系统，只靠几篇七手的网帖就能一眼洞悉美帝不可告人的龌龊行径。他们的逻辑非常简单清晰：美帝支持叙利亚反对派——ISIS和反对派谁是谁反正我搞不清楚——所以美帝支持ISIS，是背后金主——所以杀中国人质是美帝指使的。</p>
-<p>下面壹读君（微信：yiduiread）来还原一下这个推理的场景。</p>
-<p>ISIS杀死一个中国人质，有什么目的呢？</p>
-<p>要回答这个问题，你至少得理解什么是恐怖主义、恐怖主义的行为逻辑，中国对伊拉克、叙利亚地区各方势力的态度和政策。以及ISIS的政治目标、组织和决策方式，并且不能排除种种偶然性。显然，这些问题，对于信息来源有限的一些网民来说……</p>
-<p>超纲了。</p>
-<p>不过，对于这个超出了理解能力的问题，换了一个思路就简单清晰了：我看到同胞被杀，一面觉得他自己乱跑活该，一面觉得应该虽远必诛，所以中国搞不好会迫于舆论压力或者一时冲动加入战争；打仗就要花钱，就耽误闷声发大财……既然ISIS的幕后金主是美帝（你问我怎么知道？……我不管，反正就是美帝），那么一定是美帝想借战争拖垮中国，所以杀人是美帝指使的。</p>
-<p>一颗赛艇！</p>
-<p>对于这种低层次认知能力上展开的完美推理，壹读君（微信：yiduiread）认为只有这个画风比较配↓</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/41.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/41.jpg" alt="4" width="366" height="315"></a></p>
-<p><strong>为什么你无法说服一个阴谋论者</strong></p>
-<p>刚刚绕了半天，说的是阴谋论的一个特点：尽管从常识上看很荒谬，但你基本上无法证伪。</p>
-<p>你可以向一个不相信阴谋论的人说明，在统计学和基于统计学的科学视角下，阴谋论显然不正确；也可以向他解释，大国的博弈，不可能基于风险极高的阴谋，因为这意味着国家的兴衰完全是偶然。</p>
-<p>但是你很可能无法用同样的道理说服阴谋论者。</p>
-<p>当一个人认为“总有刁民想害朕”的时候，你永远无法向他证明“刁民们”并没有害他的兴趣。因为你举出来的所有证据，在他眼中都进一步证明了“刁民们”伪装得很深，显然是有组织有预谋的，所以一定是个大阴谋，一定是“刁民想害朕”。</p>
-<p>如果不是想害朕，你们伪装得那么无辜干嘛？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/5.jpg" alt="5" width="550" height=""></a></p>
-<p>这就是传说中循环论证的大杀器，也就是传说中“把你的xx拉到同一个层次然后用丰富的经验打败你”。</p>
-<p>是不是很郁闷？</p>
-<p>其实壹读君（微信：yiduiread）用一张图就可以化解你这种沮丧的感觉↓</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/6.jpg" alt="6" width="550" height=""></a><br>
-△中国互联网络信息中心（CNNIC）今年7月份发布的权威调查数据</p>
-<p>壹读君（微信：yiduiread）没有任何别的意思，这张图只是想说明，网民整体学历结构偏低是一个客观事实。也就是说，其实大部分网民缺乏足够的知识和思维训练，来认识面临的重大事件和复杂现实。</p>
-<p><strong>为什么阴谋论这么流行？</strong></p>
-<p>阴谋论不是中国人的特色，全世界人民都喜欢阴谋论，比如著名的“共济会”、“罗斯柴尔德家族”、“登月造假”等等。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/7.jpg" alt="7" width="490" height="251"></a><br>
-△主张共济会阴谋论的著名学者何新老师曾指出，第六版人民币上暗藏着共济会的标志六芒星，暗示了共济会统治世界的证据</p>
-<p>为什么阴谋论如此受欢迎呢？</p>
-<p>面对复杂的世界，尤其是重大事件，人们本能地想要理解发生了什么，是怎样发生的，以此来决定自己将要做出什么样的反应。如果事情的原因很复杂，人们就会陷入困惑的紧张和焦虑之中，这时候，简单易懂的阴谋论，就提供了“不用很麻烦很累就明白了”的答案，消除困惑的焦虑感。</p>
-<p>同时，阴谋论本身就带有耸人听闻的戏剧性，吸引眼球。</p>
-<p>不过，从认识论来说，看似荒诞的阴谋论者其实比非阴谋论者更加“理性”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/8.jpg" alt="8" width="550" height=""></a></p>
-<p>他们倾向于相信一切问题都是有明确原因、可以明白解释的。不管现实世界多么复杂，所有的事情都可以通过人的精心算计而被控制，被纳入某种可控的秩序之中。</p>
-<p>这种“可以被控制”的感觉，在某种程度上让人摆脱了对偶然的、不可知的恐惧，反倒会让人觉得更加安全。</p>
-<p><strong>阴谋论一定是坏事吗？</strong></p>
-<p>美国学者谢尔默•迈克尔（Michael Shermer）相信，人们愿意相信阴谋理论，是因为人们更倾向于从无关的随机事件中寻找有意义的潜在关系，愿意相信世界是被一个隐形的幕后组织控制，他们断章取义地片面引用事实来证明自己已经认可的理论，并从结果反推原因和解释。</p>
-<p>换句话说，阴谋论者总是先通过直觉形成一个观点，然后从复杂的事件中寻找可以支持这个观点的碎片，来“逆向推测”出事情的原因。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/9.jpg" alt="9" width="550" height=""></a></p>
-<p>不过，阴谋论是不是坏事呢？如果很多个阴谋论中，最终有一个真的揭示了某种阴谋呢？</p>
-<p>壹读君（微信：yiduiread）相信，一个有阴谋论者异想天开的世界，总是要比一个没有任何阴谋论，所有问题都只有一个标准答案的世界更加开放，更加自由。同时，阴谋论者的论调，也可以让不那么阴谋论的解释通过辩论变得更加清晰、可靠。</p>
-<p>而面对一个阴谋论的世界，壹读君（微信：yiduiread）建议，在相信一种说法之前，尽量不依靠直觉好情绪，而是使用自己的头脑，看看有没有充分的、经过验证的证据。</p>
-<p>与大家共勉。</p>
-<p>参考资料：</p>
-<p>《认知、伦理与世界观 ———认识论视域中的阴谋理论》，《浙江社会科学》，方环非 郑祥福，２０１３年第９期</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A3%B9%E8%AF%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A3%B9%E8%AF%BB.jpg" alt="壹读" width="300" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A3%B9%E8%AF%BB%EF%BD%9C%E5%88%98%E5%8D%81%E4%B9%9D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E8%A2%AB%E6%9D%80%EF%BC%8C%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%98%B4%E8%B0%8B%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1046,7 +1038,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1056,5 +1048,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

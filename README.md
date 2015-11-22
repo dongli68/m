@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F%E5%AD%A6%E9%99%A2-%E5%BC%BA%E4%BA%BA%E6%94%BF%E5%BA%9C%E5%B8%A6%E6%9D%A5%E6%97%8F%E7%BE%A4%E5%92%8C%E5%B9%B3%EF%BC%9F%E5%8D%A2%E6%97%BA%E8%BE%BE%E7%9A%84/" target="cdt-mirror">敦伦政经学院 | 强人政府带来族群和平？卢旺达的反例</a>
+</h2>
+<p><p>作者：小墙</p>
+<p>原标题：《族群与宗教冲突的政治经济学：三个国家的故事(上)》</p>
+<p dir="ltr">族群冲突与宗教冲突的新闻常常出其不意地攻陷我们的荧屏，播撒着恐惧的种子。愤怒而怯懦的旁观者有时会提出一种霍布斯式的解决的方案：如果有一个卡扎菲、巴沙尔式的世俗专制的政治强人独揽大权，这些惨剧就不会发生。但是对族群冲突和宗教政治的定量研究并不支持这种判断。</p>
+<p dir="ltr">一、卢旺达：“强人和平”的失败</p>
+<p dir="ltr"><strong>强人政治极少有维护族群和谐的动机。</strong>尽管“强人政治”的说法令人迷惑，但没有任何政权是一个人一手控制的、完全自主的超级利维坦。任何人的统治都依赖或大或小的统治联盟支持(de Mesquita & Smith 2011)。<strong>在族群割裂的国家，“强人”</strong><strong>政府通常依赖一个族群支持来维持统治，</strong><strong>如果仇恨和冲突帮助他们巩固这种支持，他们很乐意火上添油。</strong>近些年，对惨绝人寰的卢旺达大屠杀的计量经济学研究，让我们对这个规律有了更加深刻的认识。</p>
+<p dir="ltr">我们不妨先了解一下屠杀的背景。卢旺达长期存在占多数的胡图(Hutu)和占少数的图西(Tutsi)两个族群。臭名昭著的比利时殖民者通过扶植图西族加剧了两者的矛盾。卢旺达独立后胡图人掌握了政权。1973年，胡图人军队高官Habyarimana发动军事政变篡取了总统一职，并通过一系列“得票率”高达99%左右的作假“选举”延续了20年的独裁统治。Habyarimana的强人统治下，卢旺达的经济有点滴的改善，但这并没有使它脱离地球上最贫穷国家的行列。</p>
+<p dir="ltr"><strong>Habyarimana本人并不格外仇恨图西人，</strong><strong>他在执政早期有限地改善了两族人的关系。</strong><strong>然而威权政治的逻辑高于统治者的意愿</strong>，在他统治集团内部反图西势力的压力下，他一再让步。1990年，图西人组成了“卢旺达爱国阵线”，从乌干达向卢旺达进军，发起革命。内战爆发后，Habyarimana提出了“胡图力量”意识形态，以及“胡图十诫”，把通婚的胡图人斥为叛徒，煽动仇恨对抗图西人。1993年，Habyarimana在国际压力下同意停火讲和。次年，他乘坐的飞机被不明势力击落，他剩余的统治圈子立刻接管政权，在第二天发动了臭名昭著的种族屠杀。<strong>短短一百天内，80万人——</strong><strong>图西人口的百分之七十，卢旺达总人口的百分之二十——</strong><strong>在屠杀中丧命。</strong></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/0417_CLCNRJweb_Hotelrwanda.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/0417_CLCNRJweb_Hotelrwanda.jpg" alt="Best images for facebook timeline cover Hotel Rwanda Hotel,Rwanda" width="550" height="310"></a><p><span>(电影《卢旺达饭店》剧照 图片来自网络)</span></p></div>
+<p dir="ltr"><strong>近年的研究用数据勘察到卢旺达政治精英如何通过多个渠道策划、</strong><strong>指挥了这场暴行，其手段令人发指。</strong>如果看过电影《卢旺达饭店》，你大概会记得收音机中那个低沉邪恶的声音咒骂着图西“蟑螂”，威胁要除掉他们。这个政府要员控制的电台叫做RTLM，它真实地存在，也被广泛认为在屠杀前就散播对图西人的恐惧和仇恨。Yanagizawa-Drott(2014)发表在在<em>Quarterly Journal of Economics</em>的论文研究了RTLM对屠杀参与的影响。他采用无线通讯中常用的ITM/Longley-Rice算法，利用了卢旺达崎岖地势造成信号接收不均这一外生因素，从而估算出了RTLM信号接收对屠杀参与的影响。<strong>他发现RTLM协调了武装组织和军人的行动，</strong><strong>显著增加了屠杀的效率。</strong>他进而用估测到的参数进行模拟，发现假如联合国在屠杀开始时当机立断干扰RTLM讯号，屠杀中的死伤会减少十分之一。</p>
+<p dir="ltr">大众传媒并不是卢旺达政治精英激化矛盾的唯一手段。Bonnier, Jonas Poulsen, Rogall & Stryjan(2015)定量核实了“政治精英们用屠杀前的社区集会煽动仇恨”这一传言。Habyarimana执政期间恢复了卢旺达前殖民时代社区集会与社区工作的传统。这一政策结合了经济和意识形态考量。经济上，卢旺达是一个极度落后的国家，致力于修建和维护基础设施的社区集会对经济有促进作用。<strong>意识形态上，Habyarimana强调社区工作是对胡图族“</strong><strong>真正的卢旺达人”耕作传统的回归，</strong><strong>从而在意识形态上边缘化传说中具有牧人起源的图西族。</strong><strong>一些采访资料显示，政府可能利用这些集会鼓动对图西人的仇恨。</strong>这些社区活动在每个周六举行，强制村民参与。但因为多数社区工作是户外的，加上卢旺达的土路崎岖狭窄，降雨时泥泞难以行走，如果周六下雨很少有人会参加。出于缺乏社区集会数据，以及因果识别考量，论文作者通过周六的降雨间接考察了社区集会在屠杀中的角色。作者收集了卢旺达各地屠杀前四年的降雨GIS数据，发现周六降雨多的村落对屠杀的参与率显著较低。这一效应在控制了一周中其他日子的降雨后仍然稳健，并且其他日子的降雨对屠杀参与率毫无影响。<strong>这强烈指示政府组织的社区集会部分地对屠杀负责。</strong></p>
+<p dir="ltr"><strong>在屠杀过程中，政府军队的施压、强迫、煽动也起到了关键作用。</strong>Rogall (2014)研究了这一经过。作者考虑到，中央政府的军队调度可能是选择性的，因此简单的回归分析不能识别军队派遣对屠杀的因果关系。前文提到，卢旺达的道路主要是土路，尤其小路降雨后泥泞难行，连机动车都受到很大阻碍。出于效率考量，来动员屠杀的军队会尽量选择连接道路易于通行通行的村庄，从而保证他们在单位时间内访问尽可能多的村庄。Rogall博士利用这这一外生因素，通过工具变量回归，发现离主干道路远且降雨多的村庄较少被军队光顾，同时也有更低的屠杀参与率，而控制变量表明这并不是降雨本身或偏远本身造成的，两个因素同时出现才会对屠杀产生影响。<strong>模型模拟显示，</strong><strong>军队的参与、煽动和胁迫对百分之八十以上平民参与负责</strong>，如果联合国能够对主要军事基地进行干预，大屠杀或许可以避免。但国际社会在全过程中保持了可耻的静默。</p>
+<p dir="ltr">除了证实了军队动员在屠杀中的重要作用，Rogall博士在文中还揭示了数据中的一些重要模式，对进一步理解民众和政府在屠杀中的角色有启发。Rogall博士查看了村落人口组成和军队派遣的关系，建模分析表明军队的目标似乎并不是最大化杀死的图西族人数量，而是在试图最大化胡图族人对屠杀的参与。这核实了专家们的一个猜想，即<strong>卢旺达政府希望制造一种全民的道德沉默</strong>——如果每个人都是施害者，那就没人能对施害者掷出第一块石头。文章还发现，军队动员的努力在两族人民通婚多的地区受到了较大的阻力。<strong>总之，</strong><strong>卢旺达屠杀并不是一场暴民的狂欢，而是专制政府的杰作。</strong><strong>胡图和图西两族虽然存在民间仇恨，</strong><strong>但很可能不至于促使他们在这样的规模上拿起屠刀。面对族群冲突，</strong><strong>利维坦恶果并不小于无政府的混乱。</strong></p>
+<p dir="ltr">万幸，我们非生活在一个霍布斯式的“无政府-利维坦”二元世界。在政治制度的其他象限是否存在对族群和宗教冲突的解决方案？肯尼亚的族群之争和土耳其的宗教问题会对我们有所启发。敦伦政经将在即将发布的本文下篇中讲述这两个故事。</p>
+<p dir="ltr"><span>文献</span></p>
+<ul><li>
+<p dir="ltr"><span>Bonnier, E., Poulsen, J., Rogall, T., & Stryjan, M. (2015). Preparing for Genocide: Community Work in Rwanda.<em>Working paper.</em></span></p>
+</li>
+<li>
+<p dir="ltr"><span>de Mesquita, B. B., & Smith, A. (2011). The Dictator’s Handbook: Why Bad Behavior Is Almost Always Good Politics. <em>Public Affairs.</em></span></p>
+</li>
+<li>
+<p dir="ltr"><span>Rogall, T. (2014). Mobilizing the Masses for Genocide. <em>Working paper.</em></span></p>
+</li>
+<li>
+<p dir="ltr"><span>Yanagizawa-Drott, D. (2014). Propaganda and conflict: Evidence from the Rwandan genocide. <em>The Quarterly Journal of Economics</em>, 129(4), 1947-1994.</span></p>
+</li>
+</ul><hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F%E5%AD%A6%E9%99%A2-%E5%BC%BA%E4%BA%BA%E6%94%BF%E5%BA%9C%E5%B8%A6%E6%9D%A5%E6%97%8F%E7%BE%A4%E5%92%8C%E5%B9%B3%EF%BC%9F%E5%8D%A2%E6%97%BA%E8%BE%BE%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%97%BA%E8%BE%BE/?category=18271" rel="tag">卢旺达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">宗教矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E9%97%AE%E9%A2%98/?category=18271" rel="tag">宗教问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E4%BA%BA/?category=18271" rel="tag">强人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BC%BA%E4%BA%BA/?category=18271" rel="tag">政治强人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%8F%E7%BE%A4/?category=18271" rel="tag">族群</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%AE%97%E6%95%99/?category=18271" rel="tag">民族宗教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%AF%91%E8%AF%BB-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B2%BB%E4%B8%8B%EF%BC%9A%E6%94%BF%E6%B2%BB%E7%AC%AC%E4%B8%80%EF%BC%8C%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%BA%8C/" target="cdt-mirror">译读 | 习近平治下：政治第一，经济第二</a>
 </h2>
 <p><p>本文原载于<a href="https://www.foreignaffairs.com/articles/china/2015-10-14/lenin-s-chinese-heirs">Foreign Affairs</a></p>
@@ -900,31 +936,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E6%B5%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B5%84%E9%87%91%E5%8E%BB%E4%BA%86%E5%93%AA%E5%84%BF%EF%BC%9F/" target="cdt-mirror">日经中文网 | 流出中国的资金去了哪儿？</a>
-</h2>
-<p><p>从中国流向海外的民间资金正在增多。一年的流出额高达2200亿美元，相当于中国外汇储备减少额的5成左右。在中国外汇储备减少的背后发生了什么？有观点认为从中国流出的资金进入欧美的股市、房地产和美术品等领域，今后可能在发达国家引发泡沫。</p>
-<p>20世纪初期的意大利画家阿梅迪奥·莫迪利阿尼的作品11月9日在纽约的拍卖行佳士得（CHRISTIE’S）拍出1亿7040万美元的价格。英国《金融时报》（FT）报道称，拍得这件作品的是一位中国富豪。</p>
-<p>此外还有消息称，购买美国住宅的外国人数方面，最近中国超过加拿大跃居首位。在全球的资产市场上，中国资金的存在感不断增强，让人联想到1980年代后半期的日本资金，当时日本资金借助日元升值，相继买下纽约摩天大楼和画坛巨匠的作品。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/1423026748_0413.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/1423026748_0413.jpg" alt="1423026748_0413" width="550" height="309"></a></p>
-<p><strong>大部分流入欧美</strong></p>
-<p>中国的外汇储备在2014年6月底达到峰值的3万9900亿美元，2015年9月底减少了4800亿美元，减至3万5100亿美元。</p>
-<p>伴随着民间资金流向国外，中国当局实施了旨在稳定本国货币的卖出外汇、买入本国货币的汇率介入举措，导致外汇储备的减少。换言之，外汇储备的减少意味着海外资产的保有者从国家变为个人。</p>
-<p>在中国，跨国境的股票和债券交易受到限制，表面上这些民间资金流向海外的规模难以掌握。受到关注的是国际收支统计项目之一的“误差与遗漏”项目。指的是从经常收支或资本收支流出的与海外的资金往来。</p>
-<p>据中国国家外汇管理局统计，中国的“误差与遗漏”自2009年转为净流出414亿美元之后，净流出额除2011年之外持续增加。</p>
-<p>从2014年6月之后的数据来看，截至2015年6月底的1年里累计净流出2200亿美元。这相当于2014年7月～2015年9月间外汇储备减少额的46%。</p>
-<p>这2000亿美元以上的资金究竟流向哪里了呢？三菱UFJ摩根士丹利证券的首席经济学家田坂圭子表示，考虑到从中国流出的资金会在他国被记录为“误差与遗漏”（净流入额）部分，因此对国际货币基金组织（IMF）的统计进行了确认，结果发现“去除不计算在内的‘避税天堂’外，流入美国和欧元区的可能性较高”。</p>
-<p><strong>流向日本股市和房地产？</strong></p>
-<p>如果是国家外汇储备的话，主要会被用来购买国债，但作为民间资金，则很容易流入股市和房地产市场等价格波动风险较高的产品。中国的“误差与遗漏”在2014年累计净流出1401亿美元，而2015年1～6月期的净流出额增至上年同期9倍的901亿美元，大幅超过2014年。加上中国经济减速，田坂表示“从中国流向海外风险资产的资金转移趋势今后将持续”。</p>
-<p>中国资金似乎也流入了日本。日本的对外、对内证券投资统计数据显示，中国对日本国内短期债券的投资额9月为买超7210亿日元，连续9个月净买入，从2015年初以来的累计净买额累计达4万3600亿日元，是2013年峰值（1万9600亿日元）的2倍以上。这些资金可能成为流向日本股市和房地产的待机资金。</p>
-<p><strong>   本文作者为日经QUICK新闻 编辑委员 永井洋一</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E6%B5%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B5%84%E9%87%91%E5%8E%BB%E4%BA%86%E5%93%AA%E5%84%BF%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">日经中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E9%87%91%E8%9E%8D/?category=18271" rel="tag">民间金融</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81/?category=18271" rel="tag">资金外流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E8%BD%AC%E7%A7%BB/?category=18271" rel="tag">资金转移</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -936,7 +947,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E7%BB%8F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -946,5 +957,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E7%BB%8F
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

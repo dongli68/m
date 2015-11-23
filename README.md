@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E7%91%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%E5%89%8D%E8%A7%81%E5%BE%8B%E5%B8%88/" target="cdt-mirror">自由亚洲｜高瑜案二审开庭前见律师</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%BD%A0%E6%9C%89%E6%9E%AA-%E6%88%91%E6%9C%89%E7%AC%94-%E9%AB%98%E7%91%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%BD%A0%E6%9C%89%E6%9E%AA-%E6%88%91%E6%9C%89%E7%AC%94-%E9%AB%98%E7%91%9C.jpg" alt="巴丢草：你有枪 我有笔 #高瑜" width="400" height=""></a><br><em>（“你有枪 我有笔” by 巴丢草）</em></p>
+<p>北京资深媒体人高瑜案二审将于11月24日在北京法院开庭，据称法官当庭宣判的可能性较大。代理高瑜案的北京莫少平律师事务所主任律师莫少平和律师尚宝军，23日上午到看守所会见高瑜后表示，高瑜上周已接到开庭通知，并已做好出庭准备。因是闭门审理，高瑜的家人不能旁听。</p>
+<p>被北京中级法院一审判刑七年的资深媒体人高瑜案的二审，将于11月24日在北京法院开庭审理，但庭审过程不公开。高瑜的家人也不得旁听。一位接近高瑜家的人 士23日告诉本台：“明天开庭，会不会当庭宣判，律师也没有准确的消息，他说搞不清楚。但是，判刑，这次肯定要判，一个是当庭就判，中间休庭，然后再宣布 开庭，就判。这是一种形式，还有一个是改日再判，不一定开庭，到看守所宣布（刑期）就完了”。</p>
+<p>当天上午，代理此案的北京莫少平律师事务 所主任律师莫少平和律师尚宝军到看守所与当事人高瑜会面。莫少平律师说与高瑜交谈约四十分钟，高瑜称，已接到开庭通知：“如果不是死刑案子，不是检察院抗 诉的案子。大部分二审的案子是不开庭审理的。她（高瑜）也接到明天开庭的书面通知了，明天开庭”。</p>
+<p>记者：高瑜是什么态度？</p>
+<p>回答：开庭之前不方便讲。</p>
+<p>记者：她目前的身体状况，出庭行吗？</p>
+<p>回答：我问了一下，她说可以吧。应该是有医疗保障措施的。</p>
+<p>高瑜案另一位代理律师尚宝军说，这次会见主要是向当事人介绍二审程序：“主要是介绍明天开庭的程序和一些注意事项。高瑜也收到通知。她现在的身体状况马马虎虎，应该能够支撑庭审。我们也问她身体怎么样，她说应该还能支撑。其他的内容暂时不方便透露，明天开完庭再说吧”。</p>
+<p>尚宝军说，此次二审与一审相同，案件因涉及国家机密，法院不公开审理。</p>
+<p>71岁的高瑜患有多种疾病，被羁押期间多次因病，需要送医院治疗，其中10月3日凌晨，因突发心脏病，在药物无效的情况下，连续输液一个星期，情况才有所好转。她的律师曾透露，高瑜的身体状况堪忧，深受心脏病、高血压、美尼尔氏症等多种疾病的困扰。</p>
+<p>去 年4月24日，高瑜被公安刑事拘留。起诉书指高瑜向境外网站泄露中共九号文件。其内容包括要求高校教师不讲普世价值、新闻自由等，被称为“七不讲”文件。 今年4月17日，高瑜被法院以“为境外非法提供国家秘密罪”判处有期徒刑七年。高瑜不服判决，向北京市高级法院提出上诉。</p>
+<p>24日进行的二审，将对高瑜案全部内容进行审理，重点围绕上诉材料中指出的争议部分，进行辩论。莫少平律师说：“应该是对全案进行审理，也对上诉人提出的上诉或者是控辩双方争议大的部分，着重审理。围绕上诉人的上诉理由，围绕控辩双方争议的主要焦点，进行审理”。</p>
+<p>据称，控方坚持“高瑜泄露国家秘密”，法官即使减刑也不会改变这一指控。</p>
+<p>曾 任职中新社记者的高瑜，1989年担任《经济学周报》副总编，不久该报被停刊，同年6月3日，高瑜被捕。1990年8月28日获释。1993年10月2 日，再次被捕，1994年11月9日，由北京市中级人民法院以“泄露国家机密罪”，将其判处有期徒刑6年。1999年2月15日，以“保外就医的名义”获释。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E7%91%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%E5%89%8D%E8%A7%81%E5%BE%8B%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">”泄露国家机密”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D%E8%AE%B2/?category=18271" rel="tag">七不讲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E5%8F%B7%E6%96%87%E4%BB%B6/?category=18271" rel="tag">九号文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%AE%A9%E8%83%A1%E8%80%80%E9%82%A6%E9%87%8D%E5%9B%9E%E5%90%8D%E4%BA%BA%E5%A0%82%EF%BC%8C%E4%BD%BF%E4%BB%96%E5%BD%BB%E5%BA%95%E5%B1%9E%E4%BA%8E/" target="cdt-mirror">端传媒 | 让胡耀邦重回“名人堂”，使他彻底属于共产党</a>
 </h2>
 <p><p><span>虽然许多人记住胡耀邦、感念胡耀邦是因为他那些在共产党内显得不太“主流”的东西，但习近平讲话中的胡耀邦，就是中共高级领导人的“标准像”。</span></p>
@@ -1160,32 +1185,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%A9%AC%E9%87%8C%E4%BA%BA%E8%B4%A8%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%87%B3%E5%B0%9127%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%85%B6%E4%B8%AD3%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC/" target="cdt-mirror">法广｜马里人质事件：至少27人死亡其中3名中国公民，马里全境进入紧急状态</a>
-</h2>
-<p><div>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/000_Par8335422_0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/000_Par8335422_0.jpg" alt="马里特种部队解救人质，2015年11月20日。 法新社" width="585" height="330"></a><p>马里特种部队解救人质，2015年11月20日。 ／法新社</p></div>
-<p>在马里首都巴马科丽笙酒店周五发生人质事件并导致至少27人死亡之后，马里政府当天晚上宣布，在马里全境范 围内，实施紧急状态，为期10天。根据法国国防部长勒德里昂，原则上，没有法国人在事件中死亡。美国国务院说，死者中没有美国人。中国驻马里大使馆则证 实，有3名中国公民遇难。基地组织旗下的独立纳赛尔主义运动宣称为事件负责。</p>
-</div>
-<div>
-<p>在马里首都巴马科丽笙酒店周五发生人质事件之后，马里政府当天晚上在召开特别内阁会议后宣布，在马里全境范围内，实施紧急状态，为期10天。</p>
-<p>11月20日周五，马里酒店人质危机在历时9个小时后落幕，至少27人死亡。基地组织旗下的独立纳赛尔主义运动宣称为事件负责。</p>
-<p>马里军方消息人士在当地时间周五16点过后告诉法新社，激进枪手周五闯入马利首都巴马科（Bamako）丽笙酒店（Radisson Blu）挟持人质，在安全部队击毙两名伊斯兰激进枪手后，人质危机已落幕。</p>
-<p>联合国维和人员引用初步消息指出，马里首都巴马科（Bamako）丽笙酒店周五遭枪手闯入攻击后，联合国维和人员在酒店不同楼层发现27具遗体。</p>
-<p>联合国官员表示，联合国维和人员在酒店地下室见到12具遗体，另外在2楼又发现15具遗体。</p>
-<p>根据法国国防部长勒德里昂，原则上，没有法国人在事件中死亡。</p>
-<p>美国白宫周五对马里人质事件进行谴责。美国国务院说，死者中没有美国人。</p>
-<p>在恐怖分子挟持人质时，有10名中国公民曾一度是人质。据中国官方媒体央视的报道，中国驻马里大使馆证实，有3名中国公民遇难。</p>
-<p>周五晚间，盖达基地组织（al Qaeda）旗下的非洲圣战士团体–独立纳赛尔主义运动向卡塔尔半岛电视台发去声音文件表示，他们为马里首都巴马科（Bamako）丽笙酒店的人质事件负责。</p>
-<p>独立纳赛尔主义运动盘据马里北部、大部分由图阿雷格族（Tuareg）和阿拉伯人组成。</p>
-</div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%A9%AC%E9%87%8C%E4%BA%BA%E8%B4%A8%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%87%B3%E5%B0%9127%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%85%B6%E4%B8%AD3%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E7%AB%AF%E5%88%86%E5%AD%90/?category=18271" rel="tag">极端分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E9%87%8C%E4%BA%BA%E8%B4%A8%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">马里人质事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1197,7 +1196,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1207,5 +1206,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,105 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%AE%E8%A7%86%E7%AF%A1%E6%94%B9%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%8C%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E8%84%B8%E8%AE%A9%E6%97%A5/" target="cdt-mirror">【河蟹档案】央视篡改人民日报，还有什么脸让日本正视历史</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40SCMP_%E5%8D%97%E8%8F%AF%E6%97%A9%E5%A0%B1">SCMP_南華早報</a>：央视[胡耀邦]纪录片中出现了一份《人民日报》，头版标题是“胡耀邦任总书记邓小平任军委主席”，但时任中央政治局常委的赵紫阳的头像，被李先念的头像取代。//*<a href="https://freeweibo.com/weibo/%40%E8%94%A1%E6%96%AF%E5%9B%BE">@蔡斯图</a>:这么搞太恶心了，还有什么脸让日本人正视历史。 //*<a href="https://freeweibo.com/weibo/%40%E7%9F%B3%E6%89%89%E5%AE%A22014">@石扉客2014</a>:马云老师需要加大收购步伐啊。<em>相关阅读｜《南华早报<em>｜</em><a href="http://www.nanzao.com/sc/national/15132589f7f7a07/yang-shi-hu-yao-bang-ji-lu-pian-ren-min-ri-bao-tou-ban-bao-dao-zao-cuan-gai">央视胡耀邦纪录片 <人民日报>头版报道遭篡改</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/22.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/22.jpg" alt="22" width="546" height="751"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/33.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/33.png" alt="33" width="539" height="333"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4443.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4443.png" alt="444" width="538" height="308"></a><br><a href="https://freeweibo.com/weibo/3912318079364944" target="/weibo/391">2015年11月23日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：【穿内裤“反党”案今在深圳中院宣判】在深工伤受害者杨明玉煽动颠覆国家政权案羁押近两年半、开庭19个月后11月24日宣判。最可笑罪状是杨穿条内裤称“为了包着党的尊严，特来到深圳市委门口前抗议，如果共产党不要脸，我把底裤也脱下来”，照片被外媒刊登。杨此前还因辱骂公安被控妨害公务劳教一年。<em>相关阅读｜</em>《<em><a href="http://www.voachinese.com/content/yang-lin-shenzheng-rights-lawyer-charged-sedition/1727592.html">美国之音｜深圳维权人士杨林（原名杨明玉）被控“煽动颠覆国家政权罪”</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44429.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44429.jpg" alt="444" width="537" height="403"></a><br><a href="https://freeweibo.com/weibo/3912603354912303" target="/weibo/391">2015年11月24</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B0%A2%E8%8B%8F%E6%98%8E014">谢苏明014</a>：被再次“依法”延长三个月审期，您已经被不明不白关押了18个月多，延长三月审期到期日是2016年2月18日，农历正月初十一春节期间，情人节后第四天。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E5%8D%97%E6%A1%A5%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%EF%BC%8C%E6%AC%B2%E5%8A%A0%E4%B9%8B%E7%BD%AA%E5%A6%82%E4%BD%95%E6%94%B6%E5%9C%BA/">东网<em>｜</em>南桥：浦志强案，欲加之罪如何收场</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44431.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44431.jpg" alt="444" width="337" height="447"></a><br><a href="https://freeweibo.com/weibo/3912330616032976" target="/weibo/391">2015年11月23日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%98%E5%BE%AE%E5%8D%9A%E5%A3%AB">丘微博士</a>：三次延后，明天开庭复审。<em>相关阅读｜</em>《<em><a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E7%91%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%E5%89%8D%E8%A7%81%E5%BE%8B%E5%B8%88/">自由亚洲｜高瑜案二审开庭前见律师</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44430.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44430.jpg" alt="444" width="369" height="615"></a><br><a href="https://freeweibo.com/weibo/3912383044544581" target="/weibo/391">2015年11月23日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%93%9F%E5%A4%A7%E8%B1%AA%E7%88%B7">哟大豪爷</a>：雪蛤。<em>相关阅读｜</em>《<em><a href="http://cn.nytimes.com/china/20151021/c21sino-jiang/">纽约时报｜“膜蛤文化”盛行中国网络，或为影射习近平</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/3331.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/3331.jpg" alt="333" width="385" height="513"></a><br><a href="https://freeweibo.com/weibo/3912123568413395" target="/weibo/391">2015年11月22日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%AE%E8%A7%86%E7%AF%A1%E6%94%B9%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%8C%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E8%84%B8%E8%AE%A9%E6%97%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%A4%96%E5%A4%A7%E4%BD%AC/?category=18271" rel="tag">体制外大佬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%A7%94%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">军委主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">历史虚无主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%88%E5%BF%B5/?category=18271" rel="tag">李先念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%98%8E%E7%8E%89/?category=18271" rel="tag">杨明玉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%9E%97/?category=18271" rel="tag">杨林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BF%E5%86%85%E8%A3%A4%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">穿内裤反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AF%A1%E6%94%B9%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">篡改历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E8%AE%B0%E8%80%85/?category=18271" rel="tag">良心记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%B4%AB%E9%98%B3/?category=18271" rel="tag">赵紫阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E8%A6%81%E5%85%9A%E5%91%98%E5%AF%B9%E5%85%9A%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/" target="cdt-mirror">博谈网｜中央政治局会议要党员对党绝对忠诚</a>
+</h2>
+<p><p>（博谈网记者苏智敏报道）中共中央政治局11月23日召开会议，由中国国家主席习近平亲自主持，会议通过《关于打赢脱贫攻坚战的决定》、《关于加强和改进新形势下党校工作的意见》。会议中提到的“对党绝对忠诚是最重要的政治纪律”，引来网友讨论。</p>
+<p>对谁忠诚？</p>
+<p>《新华社》报导中提到，中共在改革开放后，实施扶贫开发“使7亿农村贫困人口摆脱贫困，取得了举世瞩目的伟大成就”。这场会议指出，要把精准扶贫、精准脱贫作为基本方略，目标到2020年中国现行标准下的农村贫困人口实现脱贫，贫困县全部摘帽，解决区域性整体贫困：“会议要求，到2020年通过产业扶持、转移就业、易地搬迁、教育支持、医疗救助等措施解决5000万人左右贫困人口脱贫，完全或部分丧失劳动能力的2000多万人口全部纳入农村低保制度覆盖范围，实行社保政策兜底脱贫。”</p>
+<p>“要振奋贫困地区广大干部群众精神，坚定改变贫困落后面貌的信心和决心。”会议提及实现全面建成小康社会的关键在党，要从严治党、依规治党，中央巡视组已经开展8轮巡视，巡视了149个地区和单位。报导中提到“对党绝对忠诚是最重要的政治纪律，管党治党责任是最根本的政治责任，守住纪律底线是最基本的政治要求。”</p>
+<p>《新华社》的这则新闻，人们关注的显然是“对党绝对忠诚是最重要的政治纪律”，中国媒体在微博上转发时，都在标题上如此强调。网友也对此提出质疑：不是为人民服务吗？甚致有人不满的表示“国家是谁的我不知道，但是党是谁的和人民绝对没关系。”</p>
+<p>另外，也有民众认为这样的宣示，听起来像邪教，更有人联想到极端恐怖组织“伊斯兰国”，网友“霜雪人间Vipsuper”就说：“绝对服从和忠诚组织的IS干出了丧尽天良惨无人道的恐怖事件。”</p>
+<p>贫富差距</p>
+<p>这场由习近平主持的会议，主要谈中国贫困地区的问题，中国政府希望能在2020年解决，离现在还有5年时间。然而中国的贫富差距之大，就跟这国家的人权现状一样，成了被外界诟病的问题之一。</p>
+<p>据中国社科院今年发表的蓝皮书显示，收入最低的20%中国城镇居民在2009年后收入增长速度有所上升，但同期收入最低的20%农村居民收入增速却在继续下降。这份报告将中国民众收入状况分为十组，1980年中国人平均收入落在第六组，2009年却落在第八组，说明越来越多的人收入低于平均水平，意味着中国的贫富悬殊状况不断加剧。</p>
+<p>今年3月，国际货币基金（IMF）发布最新研究报告也指出，中国贫富差距持续扩大。中国收入最高的20%人口，占总收入的近一半，而最贫穷的20%人口，连总收入5%都不到。该报告的二位作者塞维克（Serhan Cevik）和柯瑞亚－卡洛（Carolina Correa-Caro）皆认为，中国大部分经济发展的成果都被富人拿走。</p>
+<p>23日召开的这场会议还提到改革开放后，在扶贫开发上，“取得了举世瞩目的伟大成就”。但美国南卡州立大学教授谢田今年4月曾对《自由亚洲电台》表示：“改革开放以后中国的贫富悬殊一直在加剧。中国基尼系数0.4以后，中国政府就不再公布这个系数。一般估计现在可能超过了0.5，远远超过警戒线的水平，是世界上贫富悬殊最严重的国家之一。”</p>
+<p>谢田教授还指出中国贫富悬殊不断加剧激化的原因：“一般西方国家政府财政的大部份会用于社会保障和救济，包括教育、医疗和对低收入的补贴等。但中国不是，中国主要的支出用于政府营运，公务员和军费、维稳和政府投资。这等于扩大了社会贫富悬殊。”</p>
+<p>另外，贪污腐败也被认为是贫富悬殊拉大的根源之一，虽然23日会议上提出“要振奋贫困地区广大干部群众精神”，但中共当局以往在扶贫政策中，支出的救贫款，多数是落入地方官的口袋。国家级贫困县里出现豪华的办公大楼，在中国时有所闻。而在2012年，中国有27.7亿元救贫款被污走，这还是已曝光的冰山一角。</p>
+<p>关键词: 贫富差距 忠诚 共产党 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 苏智敏</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E8%A6%81%E5%85%9A%E5%91%98%E5%AF%B9%E5%85%9A%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A0%B8%E7%94%B5%E5%8A%A0%E9%80%9F%E5%BC%95%E5%8F%91%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7/" target="cdt-mirror">自由亚洲｜中国核电加速引发安全担忧</a>
+</h2>
+<p><p>中国于2015年重新启动核电建设项目，并将在未来大规模扩大核电比例。有外媒报道对中国核电站安全问题的关注。有专家认为，中国发展核电势在必行，但安全管理问题确实有重大隐忧。</p>
+<p>2011年日本发生特大地震引发海啸，导致日本福岛核电站发生放射性物质泄漏事故，为全球核电安全敲响警钟。包括中国在内的全球多个国家因此搁置了核电站的建设，并进行核电安全性检讨。2015年，中国政府决定重启核电建设项目，并预计未来几年在中国各地兴建更多核电站。然而，今年8.12天津化工品堆放仓库发生大爆炸，使得安全问题再次引起关注。</p>
+<p>美国《纽约时报》中文网11月23日发表报道指出，许多核电站附近民众和安全专家对未来中国的核电站的安全都表示担忧。有专家对设立在中国内陆地区的核电站的安全性尤其关注，因为一旦发生事故，这些在河流中上游的核电站可能会污染下游水源。</p>
+<p>旅居德国的核物理专家费良勇博士认为，中国在核电站选址的时候，确实应该极为小心，</p>
+<p>“不管怎么说，要留足够的空间，万一发生意外的话，周围十到二十公里有隔绝区。所以要建在没有人烟的地方，不能在人口密集的地方。”</p>
+<p>目前，中国大陆有30座核电站反应堆正在运行，几乎全部都在东部沿海地区。根据中国媒体的报道，未来十多年，中国一些中部省份的能源需求将大幅增长，因此不少核电站选址建在中国中部省份。</p>
+<p>费良勇博士指出，核电站反应堆需要大量冷却用水，因此通常选址必然在接近水源的地区。中国内陆地区大河和大湖，都和中国几条最重要的河流相关。他担心，中国政府在核电选址和建设过程中更多考虑经济效益，而不是安全性，</p>
+<p>“中国无限制追究效益，追求赚钱。不能说正常情况下是安全的，而是考虑在特殊情况，在极端情况下能否保证周围居民的安全。”</p>
+<p>中国媒体报道说，按照中国“十三五”规划，到2020年，中国运行核电装机容量将达到5800万千瓦，其中内陆核电建设将完全解冻。目前河南、湖南、江西、湖北等省市都有核电项目正在建设当中。中国专家保证说，中国内陆核电厂液态流出物排放标准比沿海更为严格，在目前的技术条件下不会造成污染，不会影响所在地区水资源的分配及用水安全。</p>
+<p>费博士认为，中国是一个能源缺乏的国家，和煤炭和燃油比较，发展核电可能更为安全高效，似乎是一种必然选择，</p>
+<p>“核电站实际上总体来说是安全的，现在核电技术已经相当成熟了，一般来说是比较安全。”</p>
+<p>有媒体报道说，中国进口和自主开发技术的核电设备生产能力，3年以前就已经过剩。大规模上马核电项目也无法解决产能过剩问题，因此中国核电设备将大规模向外出口。</p>
+<p>美国魏京生基金会负责人黄慈平也是核物理博士，曾在中国核工业部工作多年。她表示，即使当年在核工业部的实验室中，也常常发生各种核物质遗失和泄漏，</p>
+<p>“当年在研究所的时候，曾经发生放射水泄漏，整栋楼都是，要穿特别衣服才能进去。结果守楼的卫兵奇怪，就进去看，出来说什么都没有。还有比如放射碘，医学上用的。运输必须人物分开，结果有人跑进车里睡觉，出来就有问题了。”</p>
+<p>黄女士表示，核电设备只是核电站的一部分，核电安全问题更多涉及到安全管理的规范和执行。她担心在中国现有体制之下，安全管理会有很大漏洞，</p>
+<p>“中国就是这样的，那些规定和法律只是给当官的看的，下面经常并不执行。在核电项目上，这种情况也可能发生。”</p>
+<p>黄女士引用今年8月发生在天津的大爆炸事故为例说，中国对易燃易爆及有毒化工原料的安全管理措施十分严格，但人为疏忽造成的各种事故仍然常有发生。一旦在核电项目中发生类似意外，对居民和环境的影响将远远大于天津大爆炸。因此，她对中国大规模上马核电站项目极为担忧。</p>
+<p>（记者：石山；责编：嘉华）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A0%B8%E7%94%B5%E5%8A%A0%E9%80%9F%E5%BC%95%E5%8F%91%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5%E7%AB%99/?category=18271" rel="tag">核电站</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E8%B0%81%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%BB%BB%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9F/" target="cdt-mirror">东网｜老徐：谁将成为下一任中纪委书记？</a>
+</h2>
+<p><p>18大以后波澜壮阔的反腐硕果累累，令全世界对新一届的党中央刮目相看。站在改革发展、从严治党风口浪尖上的，除了一、二把手习、李之外，当属中纪委书记王岐山了。在中共历史上，中纪委从没有像今天这样名声显赫，其地位和作用也从没有像今天这样重要，在老百姓心目中的形象，更从没有像今天这样光采耀人。</p>
+<p>王岐山退任后，料栗战书接任中纪委书记的可能性最大。</p>
+<p>距离 19 大召开还有两年多时间， 19 大的人事布局已经拉开序幕。现有 7 个常委，除习、李留任外，其他 5 人将届满退休。谁来接替都是个谜。而大家最为关注的，恐怕就是谁来接替王岐山担任中纪委书记。</p>
+<p>在目前 25 名政治局委员中，除去将要退休的，能有希望更上一层楼的，也就那么屈指可数的几个人：胡春华、孙政才、赵乐际、汪洋、李源潮、马凯、栗战书等。当然也不排除从中央委员或者候补中央委员里产生「黑马」，以前这种情况时有发生。这些人选里，究竟谁将能成为下一任中纪委书记呢？<br>
+从目前传递出的信号来看，我认为栗战书接任中纪委书记的可能性最大。</p>
+<p>从栗战书的简历里可以看到， 1983 到 1985 年，这两年对于他一生的仕途非常关键。因为他在无极县委书记任上结识了比自己小三岁的习近平。两人一个是中央派下来的，一个是省里派下来的，同属交流干部。一个在正定，一个在无极，位置紧挨着。这两年的交往，应该使两人成了「哥们儿」，奠定了两人亲密无间的友谊基础。</p>
+<p>之后二人的仕途并无交集，一个去了福建发展，一个调回省城。应该说，栗战书在政坛起步算是比较早的，年仅 43 岁时就成为了副省级官员。但是之后的官运似乎一直不太顺，直到 2008 年才出任黑龙江省委副书记、省长，走上正部级领导岗位。也就是说栗战书在副省级岗位历练了长达 15 年，其中的酸甜苦辣应该感受很多。</p>
+<p>不过，栗战书官场真正质的飞跃，应该是上调中央接任中办主任之后。三年来，在中办系统大力清洗令计划的势力，确保中枢机构高效运转，推进中南海各项政务工作，成绩斐然。更重要的是，辅佐习近平内外主政，立下了汗马功劳。</p>
+<p>最近，栗战书连续在《人民日报》发表文章，强调反腐败斗争不能停步、不能放松，反腐斗争永远在路上，要求必须坚决撤换缺乏责任心、缺乏担当的党员干部，严重违纪违法的要绳之以法。在任中办主任走到前台，对纪检监察和干部工作提出明确要求，在党的历史上极为罕见，也意味深长，似乎在向外界传递某些信号。</p>
+<p>19 大时栗战书将年满 67 岁，属于「七上八下」里能够继续上一个台阶的上限。中纪委书记必须由敢于碰硬的「嫡系」担任，才能确保党风廉政建设和反腐败工作不会半途而废。应该说现有政治局委员里，符合这个条件的，非栗战书莫属。</p>
+<p>政治讲究的是利益平衡。 19 大距今还有两年多时间，不排除会有新的情况出现。但是，不管怎样变化，栗战书都应该是下一任中纪委书记最有实力的竞争者。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E8%B0%81%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%BB%BB%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%97%E6%88%98%E4%B9%A6/?category=18271" rel="tag">栗战书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E7%91%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%E5%89%8D%E8%A7%81%E5%BE%8B%E5%B8%88/" target="cdt-mirror">自由亚洲｜高瑜案二审开庭前见律师</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%BD%A0%E6%9C%89%E6%9E%AA-%E6%88%91%E6%9C%89%E7%AC%94-%E9%AB%98%E7%91%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%BD%A0%E6%9C%89%E6%9E%AA-%E6%88%91%E6%9C%89%E7%AC%94-%E9%AB%98%E7%91%9C.jpg" alt="巴丢草：你有枪 我有笔 #高瑜" width="400" height=""></a><br><em>（“你有枪 我有笔” by 巴丢草）</em></p>
@@ -952,239 +1048,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%83%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A8000%E4%BA%BF%E5%85%83%E9%9D%9E%E6%B3%95%E6%B5%81%E5%BE%80%E6%B5%B7%E5%A4%96/" target="cdt-mirror">德国之声 | 德语媒体：8000亿元非法流往海外</a>
-</h2>
-<p><p>周六德语媒体聚焦中国经济议题。《法兰克福汇报》报道，很多中国人因为担心人民币无法坚挺，而通过地下钱庄向海外转移资产；“明镜在线”则关注德国对中国出口的缩水。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/016383611_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/016383611_30300.jpg" alt="0,,16383611_303,00" width="550" height="310"></a></p>
-<p>（德国之声中文网）”中国公民似乎愈发失去对人民币坚挺的信心，从今年被警方发现的、向海外大规模非法汇款中可以看出这一点”，《法兰克福汇报》11月21日金融版一篇文章在开头这样写道。</p>
-<p>文章援引中国媒体周五报道称，发现了170起地下钱庄洗钱、跨境转移资金的案件，涉案金额达8000亿元人民币。</p>
-<p>“官方规定，中国公民每年只有5万美元的外汇兑换额度。尽管如此，在颇受中国人欢迎的澳大利亚悉尼、加拿大温哥华，当地的房地产价格强势上行，买家大部分是中国人。在美国，中国人早已是最大的外国买家团体。鉴于中国资本的数量之大，海外银行也常常为这些转帐提供帮助。而且这些中国顾客海外转帐的原因并非总是因为这些钱是在中国靠受贿非法所得、要来洗白。鉴于中国出口走弱，很多中国人认为，北京中央政府会让人民币对美元进一步贬值。”</p>
-<p>“18年来的首次下降”</p>
-<p>“在很长时间里，德国对中国的出口一直上涨，然而今年却面临1997年以来的首次下降”，”明镜在线”在周六的文章里援引路透社消息这样写道。今年1月至9月，德国对中国出口额缩水了近3%。</p>
-<p>文章写道，德国工商会的外贸负责人特莱尔（Volker Treier）称，”中国经济发展比想象的要差，这对德国企业造成影响，毕竟中国是我们最重要贸易伙伴之一”。</p>
-<p>“自2000年以来，德国对这个世界第二大经济体的出口额几乎增长8倍，在去年达到了750亿欧元。即便是处于世界经济危机中的2009年，这一出口额还是增长了9%，而2008年甚至增长了44%。”</p>
-<p>“对于很快恢复强劲增长，德国企业们并不抱太大希望。据德国商会（AHK）调查，30%的在华德企认为(中国）经济景气将会继续走弱，而只有17%认为会有所改观。”</p>
-<p>[摘编自其他媒体的内容，不代表德国之声的立场或观点]</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A8000%E4%BA%BF%E5%85%83%E9%9D%9E%E6%B3%95%E6%B5%81%E5%BE%80%E6%B5%B7%E5%A4%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E4%B8%8B%E9%92%B1%E5%BA%84/?category=18271" rel="tag">地下钱庄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E9%87%91%E8%9E%8D/?category=18271" rel="tag">民间金融</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81/?category=18271" rel="tag">资金外流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81/?category=18271" rel="tag">非法资金外流</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E5%B9%BF%E4%B8%9C%E8%A1%8C%E8%AE%B0%E8%80%85%E6%89%8B%E8%AE%B0%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%AE%A3%E9%98%9F%E4%BC%8D%E9%87%8C%E7%9A%84%E6%B4%8B%E9%9D%A2%E5%AD%94/" target="cdt-mirror">BBC｜广东行记者手记：中国外宣队伍里的洋面孔</a>
-</h2>
-<p><p><em>文／赵雅珊</em></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151120045540_guangdong_media_tour_624x624_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151120045540_guangdong_media_tour_624x624_bbcchinese_nocredit.jpg" alt="在饭桌上我问这些外国记者朋友，是否适应中国的新闻审查？他们莞尔一笑，有一位说：“我们知道游戏规则才来的。” " width="500" height=""></a><p>在饭桌上我问这些外国记者朋友，是否适应中国的新闻审查？他们莞尔一笑，有一位说：“我们知道游戏规则才来的。”</p></div>
-<p>在国际化的今天，那些对中国充满好奇和探索欲的欧美年轻人来到中国就职于中国的国家媒体，承担着宣传任务。</p>
-<p>他们从小接受着西方国家关于言论和新闻自由的教育，但做中国媒体的记者，难免会碰到新闻审查和宣传任务。那他们又是怎样在新闻真相和宣传工作的博弈中取得平衡？</p>
-<p>记者团到达广东惠州的时候，我所坐的大巴车上上来几位年轻俊朗的外国男记者和优雅和善的外国女记者。他们主动和车上的人打招呼和问好，并积极地介绍着自己并和邻座的人交换着名片。</p>
-<p>一接过名片我才发现他们的东家不是外国媒体。他们虽为西方面孔但为中国媒体工作。</p>
-<p>他们就职于中国网、《北京周报》、《今日中国》等媒体，是中国国家级外宣期刊，也是中国外文局旗下的出版物。</p>
-<p>中国有多家英文报纸和杂志。在中国国内被大众熟知的有《环球时报》英文版、《中国日报》、《上海日报》等。但多数时候写文章做报道的还是中国雇员。“外国专家”负责最后润色中国记者们的语言和修辞。坐在办公室改稿子的“外专”多，出来实地采访的少。</p>
-<p>所以这次的广东行看到“外专”组团来，还是稍感意外。</p>
-<p><strong>游戏规则</strong></p>
-<p>不可否认的是，外国同行的中文水平给我留下了极深刻的印象。他们几乎人人会流利的中文，有的甚至可以直接用中文采访地方官员。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151119015421_wang_yong_guangdong_976x549_bbcchinese.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151119015421_wang_yong_guangdong_976x549_bbcchinese.jpg" alt="151119015421_wang_yong_guangdong_976x549_bbcchinese" width="550" height=""></a><p>这次广东行的中国宣传队伍，来了很多外国面孔。</p></div>
-<figure></figure><p>中国外文局的带队领导闲聊时告诉我，本次参团来的老外都不算中文最好的。还有更好的没来。</p>
-<p>除开中文，他们多是三语甚至四语习得者。饭桌上一起用餐时，一位美国的小伙经常左右逢源，跟左边的同行用日语交流，转过头来跟我用英文讲，还跟斜对角的记者讲西班牙语。</p>
-<p>除开语言能力强，他们对中国新闻的运作思路也展现出了极强的适应性。</p>
-<p>在中国大陆做新闻的必经程序是新闻审查。新闻媒体的领导要把关，看文章的政治立场是否正确，也看有无媒体导向，是否起到宣传作用。</p>
-<p>在饭桌上我问这些外国记者朋友，是否适应中国的新闻审查？他们莞尔一笑，有一位说：“我们知道游戏规则才来的。”</p>
-<p>但怎样在中国的制度体制内玩好新闻规则则是他们要面临的挑战或者要做出的妥协。</p>
-<p>虽为中国媒体工作，他们显然和我一样，对某些企业或者官员对待外媒记者所持有的中式思维并不认同。</p>
-<p>比如，在参加广东惠州石化园区的欢迎仪式时，该园区的管委会副主任用这样的语句结束了她的欢迎辞。她说希望各位外媒朋友多给惠州做宣传，并做积极正面的报道。</p>
-<p>同桌的外国同行们与我交换了眼神，尔后相视一笑。我心想地方不懂外媒的心，外媒不是中共的宣传工具。</p>
-<p>同桌的他们是否在思考，什么才是正面的宣传报道？</p>
-<p><strong>地方上的小心思</strong></p>
-<p>今年已是“看广东”活动的第七年，主办方–广东省人民政府新闻办和广东省外办已经很有经验，不过行程非常紧凑，跟旅游团的境遇有得一拼。真可谓：“上车睡觉, 下车尿尿，景点拍照。”</p>
-<p>官方安排了采访惠州石化区，并带记者们领略了石化区附近的大亚湾美景。惠州地方政府的用意非常明显，他们想借此机会向外界宣传石化发展和环保并行。</p>
-<p>但可惜的是，该石化区展现给记者们看的园区空气实时监控数据是否可靠，以及石化区附近的大亚湾住宅的入住率到底有多少，还要打个问号。记者团只能远远眺望高楼，肉眼看不清具体的入住率。</p>
-<p>今年共有7家外媒机构，包括国际纽约时报(International New York Times)、彭博社（Bloomberg）、瑞士金融时报、日本广播协会（NHK）、日本读卖新闻、新加坡联合早报和BBC中文网参加了活动。到场的还有其它港澳媒体和中国的中央媒体和广东省的媒体记者。记者团前前后后扩充到40多人。</p>
-<p>但真正热闹的是中国的中央媒体记者和广东省的地方记者们。</p>
-<p>每到一处采访点，需要拍照宣传时，他们总会要求一个洋面孔出现。</p>
-<p>而我的外国同行们也非常配合当地政府的需要。比如在记者会上问安排好的问题。广东惠州的地方官员在回答外国记者提问时明显念稿。一个小问题，官员看着稿念，就能有条不紊、逻辑严密、数据详实地讲15分钟。</p>
-<p>多家采访行程中的企业邀请记者们一同合影留念。但外媒记者们似乎不太喜欢热闹，中国媒体记者和企业负责人合影时，我们早早在企业楼下等待离开。</p>
-<p><strong>外宣里的洋面孔</strong></p>
-<figure></figure><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151028080607_13th_five_year_plan__976x549_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151028080607_13th_five_year_plan__976x549_bbcchinese_nocredit.jpg" alt="请老外说唱的《十三五之歌》在中国的社交媒体上着实火了一把。 " width="550" height=""></a><p>请老外说唱的《十三五之歌》在中国的社交媒体上着实火了一把。</p></div>
-<p>中国近期的对外宣传出现了越来越多的外国面孔和声音。比如宣传中共十三五规划的《十三五之歌》用老外说唱的形式解释了十三五。</p>
-<p>以及中国国家主席习近平今年9月访美时，中共《人民日报》推出了《谁是习大大》的视频，采访了多名在北京的外国留学生，问他们对习近平的印象和评价。</p>
-<p>这两个视频的宣传效果在一定程度上是达到了。虽然这两个视频的受众应该是外国人，但似乎在中国国内的转发率和传唱度更高。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/150924042640_xi_dada_624x351_peopledaily_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/150924042640_xi_dada_624x351_peopledaily_nocredit.jpg" alt="在中国的外国留学生给出了她们对习近平的评价。 " width="550" height=""></a><p>在中国的外国留学生给出了她们对习近平的评价。</p></div>
-<figure></figure><p>启用洋面孔做外宣，而且动态的视频越来越多。</p>
-<p>这就让中国的外宣“动”起来和“洋”起来了。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E5%B9%BF%E4%B8%9C%E8%A1%8C%E8%AE%B0%E8%80%85%E6%89%8B%E8%AE%B0%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%AE%A3%E9%98%9F%E4%BC%8D%E9%87%8C%E7%9A%84%E6%B4%8B%E9%9D%A2%E5%AD%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A8%E5%B0%8F%E5%B9%B3%E7%A7%B0%E6%A8%8A%E4%BA%AC%E8%BE%89%E6%88%96%E6%9B%BE%E4%B8%BA%E7%8E%8B%E5%8A%9F%E6%9D%83%E3%80%81%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%B7%A5%E4%BD%9C%EF%BC%8C%E6%81%B0/" target="cdt-mirror">周小平称樊京辉或曾为王功权、许志永工作，遇害时机“蹊跷”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%81.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%81-e1448091388425.jpg" alt="不信抬头看苍天饶过谁" width="550" height="336"></a></p>
-<p><strong>周小平在微博发布新文：<a href="http://weibo.com/p/1001593911210373376814">到底是谁害死了中国人质?</a><br></strong></p>
-<blockquote><p>其实关于樊京辉这个人我此前是听说过一些的，据说樊京辉在辞职之后干过许多行业都不成功，直到他开始接触到一批网络上的”舆论领袖大V“，才开始声名鹊起。从他的微博看出那时他时常会转发一些“舆论领袖大V”的观点和文章。同时根据<strong>《北大商业评论》首席编辑的爆料称：“樊先后在王XX和许XX旗下工作过，（注：王XX、许XX是中国著名的“舆论领袖大V”，此二人和叙利亚、利比亚、突尼斯那群通过挑起暴动搞垮了国家，导致了无数人间惨剧的人是同一类。 ）</strong>，樊积极参加社会活动，因此也受到了相当程度的重视，甚至被成功运作上过某著名白姓主持人的节目，成为了一时的网络红人；但好景不长，在王XX和许XX被依法逮捕之后，他便一直失业在家。” ——<strong>虽然这些传言还未经官方证实，但从樊过去的微博来看，至少樊与他们在网上是有过接触的。</strong>若果真如此，那么樊选择的这种生活虽谈不上颠沛流离，却也着实令人唏嘘。</p>
-<p>在得知樊被抓之后，中国派出了人员赶赴叙利亚设法营救，但樊依然惨遭杀害。[…]樊在此时突然遇害，着实蹊跷。</p>
-<p>[…]尤其是欧洲从十字军东征至今，<strong>两个都宣扬“异教徒”概念的西方宗教已经持续争斗了千年，而中国的宗教从不宣扬“异教徒”概念，所以一直和双方都没有什么恩怨。</strong>[…]如果欧美能在这个时候把中国拉下水，让中国和伊斯兰国全面开战，那便是欧美最乐意看到的局面。</p>
-<p>[…]樊失踪时间已经很长了，被ISIS极端组织作为人质挂在网上也有两三月之久，此前他一直都没有被杀害，还有被救回或放回的可能，但这种可能却在巴黎发生暴恐、整个欧洲深陷ISIS极端组织暴恐威胁之时突然被终结了，这其中的深意恐怕不由得人不去联想。</p>
-<p>究竟谁害死了樊京辉？樊京辉失业期间都发生了些什么？是谁安排他去了叙利亚？又<strong>是谁让樊京辉恰好在这个时间点上被杀害</strong>？我想这些问题都必须要查个清楚。[…]</p>
-<p><strong>不信抬头看，苍天饶过谁。</strong></p></blockquote>
-<h4><strong>数字时代编辑总结了下此文大意：</strong></h4>
-<table><tbody><tr><td>
-<ul><li>ISIS仇恨的对象主要是欧美</li>
-</ul></td>
-</tr><tr><td>
-<ul><li>中国和ISIS没有什么恩怨</li>
-</ul></td>
-</tr><tr><td>
-<ul><li><strong>樊京辉曾为王功权和许志永工作</strong>，受重视后上了白岩松的节目<strong>——虽然官方尚未证实但总之他们是一伙儿的</strong></li>
-</ul></td>
-</tr><tr><td>
-<ul><li><strong>王功权和许志永“和叙利亚、利比亚、突尼斯那群通过挑起暴动搞垮了国家，导致了无数人间惨剧的人是同一类”</strong></li>
-</ul></td>
-</tr><tr><td>
-<ul><li>深陷中东乱局的欧美想拉中国下水</li>
-</ul></td>
-</tr><tr><td>
-<ul><li>中国已派人赶赴叙利亚营救樊京辉</li>
-</ul></td>
-</tr><tr><td>
-<ul><li>11.13巴黎恐袭前樊京辉还有被救回或“放回”的可能</li>
-</ul></td>
-</tr><tr><td>
-<ul><li>恐袭后樊“恰好”突然遇害了，时间点很“蹊跷”</li>
-</ul></td>
-</tr><tr><td>
-<ul><li><strong>这一切都是阴谋<del>！！！</del></strong></li>
-</ul></td>
-</tr></tbody></table><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%812.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%812.jpg" alt="不信抬头看苍天饶过谁2" width="259" height="194"></a></p>
-<p>但中共党媒人民日报海外版旗下的“侠客岛”近日才发文<strong>称<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E9%81%AD%E6%92%95%E7%A5%A8%E6%98%AF%E4%BF%84%E3%80%81%E6%B3%95%E5%AF%B9isis%E5%85%A8%E9%9D%A2%E6%89%93%E5%87%BB%E6%89%80/">樊京辉遭撕票是俄、法对ISIS全面打击所致</a>，</strong>而<strong>谈判是中国解救遭恐怖组织绑架人质的首要选择</strong>：</p>
-<blockquote><p>但是最近俄罗斯、法国等国家对ISIS进行全面打击，一下打乱了ISIS的布局和它原先的计划，导致人质解救渠道中断，收不到钱，ISIS就撕票了。</p>
-<p><strong>中国从来没有通过武力解决。</strong>一方面是我们有不干涉他国内政的原则，另一方面出动军队到那么远的地方去，<strong>条件也不具备</strong>，所以一般不会采取武力解救。<strong>必要的时候可以跟当事国沟通，请当事国采取武力</strong>，比如中国人质之前在巴基斯坦伊斯兰堡被扣押，就是当地出军去解救的。</p></blockquote>
-<p>附：2014、2015年在联合国关于叙利亚局势决议草案中投反对票的国家名单，请自行感受：</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%8F%8D%E5%AF%B9%E7%A5%A8.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%8F%8D%E5%AF%B9%E7%A5%A8.png" alt="反对票" width="250" height="445"></a><p>中国数字时代制图</p></div>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9Cis%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%88%A0%E9%99%A4%E7%BD%91%E4%B8%8A%E7%83%AD%E8%AE%AE/">博谈网｜IS处决中国人质后，中国删除网上热议</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%A8%8A%E4%BA%AC%E8%BE%89%E8%A2%ABis%E5%A4%84%E5%86%B3%E4%BA%86-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/">端传媒 | 樊京辉被IS处决了 中国人怎么看？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E9%81%AD%E6%92%95%E7%A5%A8%E6%98%AF%E4%BF%84%E3%80%81%E6%B3%95%E5%AF%B9isis%E5%85%A8%E9%9D%A2%E6%89%93%E5%87%BB%E6%89%80/">侠客岛：中国人质遭撕票是俄、法对ISIS全面打击所致</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%A3%B9%E8%AF%BB%EF%BD%9C%E5%88%98%E5%8D%81%E4%B9%9D%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E8%A2%AB%E6%9D%80%EF%BC%8C%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%98%B4%E8%B0%8B%EF%BC%9F/">壹读｜刘十九：中国人质被杀，是美国人的阴谋？</a></li>
-</ul></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E9%81%93%E5%A5%BD%E8%BD%AE%E5%9B%9E.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A9%E9%81%93%E5%A5%BD%E8%BD%AE%E5%9B%9E.jpg" alt="天道好轮回" width="365" height="300"></a></p>
-<h4><strong>以下评论由数字时代编辑收集自新浪微博：</strong></h4>
-<p><a href="http://weibo.com/n/%E6%B8%85%E6%B1%A4%E9%9D%A2%E6%88%90%E7%B2%A5?from=feed&loc=at" target="_blank">清汤面成粥</a>:对于鮑迪克先生来说，编造谎言是一种乐趣；而对于周小平同志来说，采用谎言也是一种乐趣<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p><a href="http://weibo.com/n/%E7%A0%B4%E7%A0%B4%E7%9A%84%E6%A1%A5?from=feed&loc=at" target="_blank">破破的桥</a>: 前几天的文章写得准吧“悲剧发生后，大家并不想搞清问题，只是想借机攻击平时自己不喜欢的人。”先造个无脑谣言，再发动整个圈子传，相互传久了就是真的<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@随风飘去2024352911：按@周小平同志 的思路，应该是几个敌对大国要么绑架要么欺骗把樊京辉弄到ISIS去了，然后串通ISIS养活了他这么久之后杀掉，目的就是为了把中国拖入泥潭。这盘大棋 下得很有想象力，只可惜他们不懂行情，樊京辉名气太小。如果他们当初选中了@周小平同志 ，我国不惜陷入泥潭也要把这位国宝救回来的。</p>
-<p>@被遗忘者的长枪:这逻辑无法反驳，不过无法解释又被杀了三个～//@肖芳华律师:要是公知不宣扬自由，就没有国人向往自由，没人向往自由，自然就不会有人想出国，没人出国就不可能有国人在国外被打死，所以国人在国外被打死是公知害死的。</p>
-<p><a href="http://weibo.com/n/Yurivikyi-%E5%85%AB%E9%9B%B2%E7%B4%AB%E6%9C%AC%E5%91%BD?from=feed&loc=at" target="_blank">Yurivikyi-八雲紫本命</a>: 平心而論，帶魚同志平時飲水濁親，乃至屙屎唔出，都係大V同埋公知嘅錯呢~~~<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/1945996163" target="_blank">SYSU-歐悟</a><i title="微博达人"></i>：虽然没有直言因果，但行文隐晦的神逻辑是：因与舆论大v过从甚密，被重视而上了白岩松节目…舆论大v是社交网络时代的事，上白岩松节目都是2000年出头的事。这么赖好么<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p>@红星公社葡萄酒庄：文章开头这句“ 死难者尸骨未寒，而秃鹫却早已盘旋在上空。 ”用的不错。客观的说@周小平同志 还是蛮有文化的嘛，您看，人家知道有“不信抬头看，苍天饶过谁”这句话，并且还会活学活用在这篇文章结尾，了不起！</p>
-<p><a href="http://weibo.com/u/5691708862"> 大死兄</a>：虽然汉奸王功权不肯承认。但我二哥一眼就看出来了（我二哥说的话就是真理，谁敢反对他就是反对习主席），死掉的这个家伙是汉奸的跟班，死不足惜，所以朝廷不救他是正常的<img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"> 什么？王功权不承认？打断他的狗腿，看他承认不承认？<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"><img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
-<p><a href="http://weibo.com/1905277327" target="_blank">大雄-要成功</a><i title="微博达人"></i>：长鱼侯说了半天，除了满口谣言，看不出有啥逻辑性可言，有一种笑话叫做周小平<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">五毛界的智商真的很感人…</p>
-<p>@-风后-: 是哪个公知一边鼓吹公民运动一边宣扬圣战思想的？同时做这两件截然相悖的事情是有多分裂的人格啊？ //@千钧客:要我说，公知也是害死人质的凶手之一。他们整天鼓吹所谓公民运动，长期宣扬穆斯林圣战思想，误导一批人沦落为“民主”炮灰。</p>
-<p>@小童看天下:我真想好好写一篇彻底驳倒这厮的文章。但是，又感觉跟他辨论问题又太丢人了，因为这厮太无耻了，这是意识形态禽兽。有这样的货色是中国人的耻辱。</p>
-<p>@王祖哲:周小平认为ISIS一点责任没有——作恶到极端，就可以免于道德和法律的控制。天朝的王八羔子，为什么这么坏？</p>
-<p>@庭院里的小狗熊：原来时评是这么写的？证据是一张其它大v围脖截图，论证过程全是看上去言之凿凿的主观臆断。投机取巧，图谋不轨，文笔还粗糙。平论？哪周xx天可以写一个，平论｜为何超市少称我一两米。平论｜为何隔壁老王家的狗在我家门前拉屎。美帝指使的！</p>
-<p>@河北马庄2010：看了全文，本想说几句想起哥们的话：让傻逼在傻逼的道路上狂奔吧</p>
-<p>@用户78asxttpcq：既不发兵，又不付赎金，只是放屁，是一个付责任国家该有的表现吗？你抗议，谴责，有用吗？不是放屁吗？跟管不了，无能为力有什么区别？</p>
-<p>@忽埃木艾：开黄网的带带再次发声，力证都是网络大V害死了中国人质，这种胡扯能力之强大令人惊叹，但是这么有想象力怎么开黄网就失败了呢</p>
-<p>@苗宇光2835068261：真是阴阳怪气的文章，欧美惹怒了极端组织，所以报复它们，樊京辉受你说的那些大V们的蛊惑也惹了恐怖分子，所以他被杀死，这等同于大V杀了樊？什么逻辑？</p>
-<p>@that_is_my_tiger：人都死了，还被周王八蛋抹黑</p>
-<p>@ericfu1980：全靠评论压压惊啊</p>
-<p>@中庸的人生：问带鱼一句，领isis多少黑钱，为其开脱暴行？</p>
-<p>@走音天王：周小平，不信抬头看，苍天饶过谁。</p>
-<p>（以上扬子截图均来自网络）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A8%E5%B0%8F%E5%B9%B3%E7%A7%B0%E6%A8%8A%E4%BA%AC%E8%BE%89%E6%88%96%E6%9B%BE%E4%B8%BA%E7%8E%8B%E5%8A%9F%E6%9D%83%E3%80%81%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%B7%A5%E4%BD%9C%EF%BC%8C%E6%81%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">ISIS处决中国人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E6%B6%89%E5%86%85%E6%94%BF/?category=18271" rel="tag">干涉内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">西方势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81-%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%B6%E5%BA%A6%E5%8F%B2/" target="cdt-mirror">月下鹰翔：空中楼阁——建国以来房地产制度史</a>
-</h2>
-<p><p>作者：月下鹰翔，天涯ID蛮族勇士（转载请注明作者）</p>
-<p><strong>题记</strong></p>
-<p>这个题目，我曾经在10年前写过一次，在天涯上发了一个长贴，引来一些和我一样的小年轻点了好多个赞。那个时候的我初出茅庐，在政府的房地产管理部门干着一些零零碎碎的小事，却是自以为掌握到了这个领域最精深的知识。十年过去了，我离开了政府，在地产开发和投资领域摸爬滚打，我见证了这十年来中国经济最深刻的变革以及倒退；我看到了财富浪潮的翻涌，以及退潮。我观察着这个领域的每一份制度的出台和废弃。现在我回过头来，再次写作房地产制度的变迁史，我认为我能写出一些和之前不一样的东西，一些更加触及本质的东西。<strong>房地产制度，是一切财富的根基，而倘若这根基不牢靠，那么所有的财富，都不过是空中楼阁罢了。</strong></p>
-<p>是以为记。</p>
-<ul><li>50年代——<strong>毁灭</strong></li>
-</ul><p>这一章的关键词，就是毁灭。我们今天重看1950年代，其实我们很难理解当时的荒谬。先从土改讲起。《土地改革法》于1950年6月 颁行，是新中国历史上第二部法律（第一部是婚姻法，呵呵）。《土地改革法》具有极高的历史地位，以至于我们今天完全无法跳过这部法律来谈房地产问题，甚至我们今天无数的拆迁纠纷和上访，乃至无数的人伦悲剧，都由此而来。土改法的主要内容是没收地主和资本家的土地，并分配给平民。这并不是重点，重点是：<strong>土改法的核心在于土地私有制！</strong>没收和分配的是什么？是土地的所有权！在土地改革完成后，将给新的业主颁发《土地所有权证》，并宣布此前民国政府或满清政府颁发的地契一律失效。我们必须注 意到，在那个时代，没有土地集体所有制和国有制这种东西，所有的土地的所有权都归属于某个私人。即便当时也有一些所谓的公地，也不过是将政府视为一个私人罢了，一个民事主体罢了。在此后，这种土地权属制度将历经变迁和轮回，整个过程犹如噩梦般的存在，令人不寒而栗。</p>
-<p>我们今天已经知道，土改过程进行的并不是特别顺利。所谓黑心地主和吸血资本家，无非是强行创造出来的敌人，老百姓清楚得很。富裕乡绅事实上大多是邻里之间能力、道德和文化素养最高的人，邻里争端要依靠他们来处断，社会秩序依靠他们来维护。在战争时期，创造出这种敌人的形象还有逻辑上的合理性，因为这个被围追堵截的政党需要通过发起群众斗争的方式进行社会动员，以获取资源，维持补给。然而进入和平时期，正式建国之后，民心初定，人心思安，却要强行推行群众斗 争，让老百姓将整个社会的稳定阀自行拔起，将最有素养的一批人置于死地，这种治理行为毫无逻辑，只能将之评价为一种惯性，一种延续战争期间的治民模式的惯 性。可惜的是，这种惯性治理的模式在此后并没有被遏止。这个国家在之后也没有梳理过自己的错误，更没有系统的思考过自己的治理逻辑，惯性、延续旧例，成为了这个国家在制定房地产法规，乃至一切法规上的常态。</p>
-<p>为了强行推进土改法的实施，新中国开始发起声势浩大的群众运动，1950年的“镇压反革命运动”和1952年 的“三反五反”运动就由此而来。我们今天不需要详细的去了解什么是反革命，什么是三，什么是五，我们只需要知道，所有这些运动所需要击败的敌人，大都是富裕士绅，大都是被创造出来的敌人。由于基层群众的抵触和不配合，我党开始实施一种极为高妙的制度：设定斗争指标。每个村、每个乡、每个街道，都必须抓出一 个镇反对象。倘若你不去斗争别人，那别人为了完成指标，就会来斗争你。基于这种激励，我们终于顺利的将这个国家的所有基层精英一网打尽，并自此进入了一个全新的时代：<strong>这个国家的基层自此丧失了自我调节和自我治理的能力。</strong>他们必须依赖于强大的政府之手来管控，来化解乡里矛盾，来维护生活秩序。而一旦政府无法再承担如此繁重和琐碎的任务，底层的秩序就会崩塌，就会暗无天日，就会一夜之间进入丛林社会。而这些，都已经在今天赤裸裸的表现出来，令善良的小清新无法直视。</p>
-<p>然而，吊诡的是，我们通过连续的群众运动才保证实施的《土地改革法》，<strong>只坚持了5年</strong>。从1955年开始，这个国家又转身抛弃了土地私有制，将农民刚刚通过各种内部斗争和倾轧拿到手里的土地，重新收了回去，开始组建“人民公社”，开始尝试真正的“公有制”。</p>
-<p>请想象一下，一群农民，刚刚经历了五年的内部斗争，被迫相互出卖，相互揭发，相互敌视，将人群中最有学识和修养，最有威望的人打为反革命，送进了地狱的最深处，并分掉了他的财产。刚刚回过头来，我们又要求这群抛掉了人性，丧失了底线的人，来建立相互合作相互信任相互负责的人民公社，社员不再有私产，吃喝拉撒，生老病死，都由公社解决。这会发生什么？</p>
-<p>1955年政务院（国务院的前身）颁发《农业合作化示范章程》，开始在国内推行合作社，这玩意不再承认私人的田地，要求以合作社为单位，统一耕种，统一收获，统一分配。一开始只是在个别地区尝试，并激起了很多的反抗。但是我党义无反顾。到1958年，中共通过《关于在农村建立人民公社问题的决议》，在全国范围内全面推行公社制度。必须注意的是：公社中拿出来共有的部分，是田地，而农民的住宅用地，仍然被视为其私人所有，享有完整的所有权。</p>
-<p>为了推行公社制度，这个国家当然会发起声势浩大的政治运动，将反对者送上批斗场。1956年的肃反运动和1959年的党内反右倾运动由此而来。已经习惯了相互出卖的民众很快就适应了一场接一场的运动，并接受了公社制度。而一场空前的灾难，则近在眼前。</p>
-<p>只有回顾历史，我们才能理解，为什么接下来的这场灾难，是一场彻彻底底的人祸，而不是天灾。在土地制度上的肆意妄为，朝令夕改，随意的在私有制与公有制之间反复变换，随意的鼓动民众相互斗争相互倾轧，将人类社会制度中最为珍贵的财产权一再视为无物，随意践踏，这一切发酵的结果，将是一场惊天的灾祸。</p>
-<ul><li>60年代——<strong>重生</strong></li>
-</ul><p>自私自利，是人性的根本出发点，也是一切社会科学的根本出发点。所有的社会制度设计，都必须建立在人性自私这一基础之上。然而无底线的自私必须予以遏制。<strong>人总是社会上的人，自利必须有界限。</strong>你必须收敛自己的贪婪的欲望，不能肆意侵害他人的利益。</p>
-<p>然而建国后前5年的土改运动，却是将人性的自私发挥到了极致。鼓动最底层的老百姓侵占富裕士绅的财产，抢夺富人的田地，以满足自己贪婪的欲望，这其实是一种传统的造反思 维。从陈胜吴广年代开始，劫富济贫，均贫富分田地，将眼中所见的富人全都踩在脚下，就是底层贫民的梦想。然而这种梦想与平稳治国之间，是有本质上的冲突的。放纵这种最为邪恶的抢夺欲望，将财富视为罪恶，将导致所有人都不愿意再积累财富，而只要有任何一个人尝试努力工作积累财富，他将会遭遇赤裸裸的抢劫， 全家都会被毫无理由杀戮，而整个国家，整个政权却会为之叫好。这种局面真是一种无法想象的噩梦，犹如地狱一般。<strong>所以中国历史上的朝代更替，只要乾坤初定，王朝军队就会立刻制止抢掠，剿灭原本是同盟的叛军，稳定社会秩序，促进财富增长。</strong>在很多时候，还必须将抢掠成性的开国功臣全部赐死，以彻底的告别动乱模式，期待真正的盛世降临。</p>
-<p><strong>在中国历史上，唯一一次由国家政权主导的劫富济贫全民抢掠，就是新中国。</strong>这个政权强迫每个人都抛弃道德和底线，将自私自利发挥到极致，去抢夺身边每一个富人的财富，去消灭他们的肉体，去占领他们的房子，去分掉他们的田地。我们将人活活的变成了兽。然而，无法理解的是：我们立刻就180度转弯，我们要让这帮獠牙上刚刚沾满了鲜血的野兽，建立一个大公无私的人民公社，建立一个没有私产的人间天堂。</p>
-<p>我们刚刚将正常的社会和经济秩序全部击溃，建立起一个极度自私的丛林社会。然后我们立刻宣布，要转身建立一个极度美好的极乐世界！社会秩序自此彻底崩塌，1959年到1961年，三年大饥荒，死亡人数以千万论。一般的说法是饿死3千万人。根据国家统计局的数据，1959年末全国人口总数为67207万人，到1961年末下降为65859万人。两年中即使没有一个婴儿出生，也还净减少了1348万人，这些净减少的人口当然都是非正常死亡，也就是饿死的。</p>
-<p>今天我们回头来看，3年大饥荒期间，自然灾害不能说完全没有，一些地方也发生了一些水旱灾害，但没有哪一次像98年全国范围大洪水那样，达到动摇国本的地步，而所谓苏联的逼债根本就没发生过，但是偏偏就是要饿死人。为什么？因为<strong>人性中的自私自利被放到了最大的国人，根本无法适应所谓的公有化制度。</strong>1958年强行实施人民公社化的结果，就是接下来的三年，整个农业生产都处于崩塌状态。<strong>农民的生产积极性根本无从谈起</strong>，庄稼成熟了直接就烂在地里，也没人理睬。为了调动农民的生产积极性，这个国家再次举起了社会运动的大旗，1960年的整风整社运动和新三反运动、1963年的新五反运动和四清运动陆续开展起来，我们现在同样不需要了解这些运动的具体内容，我们只需要知道，这些运动所指向的敌人，是公开抱怨公有制度的人，公然抵触共同生产的人，而对这些愿意袒露自己的反抗情绪的人，这个国家应对方式非常简单粗暴：予以坚定的肉体毁灭。</p>
-<p>然而，即使敢于公然挑战公有制度的人被消灭光了，人性中的自私因子仍然存在。我们必须记住：无底线的自私意味着人类退化成野兽，这是文明的倒退，但这是能够 实现的，是有可操作性的，土改的成功就证明了这一点。但是反过来，指望人类完全放弃私有财产的观念，变成彻底利他的圣人，则是不现实的，根本不具有可操作性。因此，这一次无论我党开展多少次政治运动，在肉体上消灭多少敌人，社会经济秩序完全没有恢复的迹象，一直处于崩塌状态。迫于无奈之下，1966年这个国家发起了直指人心的社会运动：文化大革命，试图彻底清洗和重建人性，以此实现整个国家的重生。</p>
-<p>几乎与文革同步进行的，则是工业上的<strong>三线建设</strong>。在农业生产秩序已经崩塌的情况下，农村的富余劳动力处于无所事事的状态，随时都能串联起来，危害国家安全，而将他们转移到工业的生产车间里，是最好的管理方式。因此自1964年开始，这个国家开始尝试将东部的工业企业，部分搬迁到中西部地区，并将千千万万青年农民转移进工厂车间，培训成新一代的产业工人。这种被迫为之的工业三线建设却产生了非常有意义的结果：整个国家由此完成了最基础的工业化，并为日后中国迎接国际产业大转移做好了准备。</p>
-<p>在三线建设的同时，中国开始实施另外一项影响深远的政策：<strong>知识青年上山下乡</strong>，将年青的学生送到农村去经受锻炼和改造，这项政策在1968年被全面推行。现在我们能够俯视历史，站在宏观和战略的角度上，我们当然能够理解这种人口流动上的必然性。三线建设，将东部城市的制造业工业岗位转移到了中 西部农村，将西部的年轻农民训练成了技术工人。那么东部城市当然已经无法提供足够的工作机会，因此东部新生代的年轻学生，唯一的选择，当然只能是下放到中西部农村地区，去填补农村劳动力留下的空缺。根据后来的统计，下放知青总人数约1500万，文革结束后，他们陆陆续续的回归了城市。在农村改造知青的同时，知青也在改变农村。传统的农业社会第一次遭受了知识的强大冲击，在此期间，中国基本解决了文盲问题，即便是小脚老太太，也学会了认几个字，计算一天的饭菜钱。全民脱盲，这当然也是日后能够承接国际产业大转移的有利条件之一。</p>
-<p><strong>在房地产制度上，整个60年代的主题，就是消灭私产。</strong>农村通过无孔不入的公社制度，逐渐剥夺了农民除了自身宅基地之外的余财，甚至连多种一棵树，多养一只鸡，都被视为反革命行为，要付出生命的代价。而城市，则在强制推行公租房制度。政务院对此出台了大量的文件，1961年《关于加速城市私人出租房屋社会主义改造工作的联合通知》、1963年《关于对华侨出租房屋进行社会主义改造问题的报告》；1964年《关于私有出租房屋社会主义改造问题的报告》、《关于对港澳同胞出租房屋进行社会主义改造问题的报告》及1965年《关于私房改造中处理典当房屋问题的意见》，这些文件我们今天也不需要再去认真的阅读，只需要记住一个词就行了：没收！城市富人手中的房屋基本上都被强行没收，集中到了政府手中，再由政府分配给平民居住。</p>
-<p>我们今天用法律的眼光来看，当时发生在农村和城市的大规模没收行为，当然没有任何的法律依据。人民公社的建立没有经过任何立法流程，只不过是中共层面的一纸通知罢了。而对于城市富人的房产没收，连规范性文件都算不上，只不过是一些报告和意见罢了。倘若今天有一个人，拿着依据新中国第二部法律《土地改革法》颁发的“土地所有权证”，来证明自己对某块住宅地拥有合法产权，我们根本无从在法理上予以驳斥。法律，当然高于党内通知和政务院层面的报告。即便我们抛开法 律，只讲人情事理，这种国家权力对私产的粗暴没收和占有，又哪里有什么情理可言？难道我们竟然可以认同国家可以肆意的侵占私产？关于这个问题，这个国家从 来没有进行过认真的梳理并给出过一个系统的解决方案。而今时今日，这个国家在土地征收领域遭遇到了日益强大的巨大抵抗，血拆案件不绝于耳，其根源就在于此。不过关于这个问题，我们姑且放到2000年代，再来讨论。</p>
-<p>60年代算是一个共产主义革命的年代。这个国家要重建人性，要没收私产，然而这绝无可能成功。整个60年代，这个国家的经济一直处于崩塌边缘，似乎随时都会迎来再一次的大饥荒，如果真的再来一次，这个国家无论如何都不可能撑得过去。同时，如果我们乐观一点的话，由于被迫为之的三线建设和知青下乡，这个国家却已做好了重生的准备。而重生，需要的是制度上的彻底变革。</p>
-<p>第三章：70年代——<strong>大变革</strong></p>
-<p>70年代初期，这个国家仍然处于噩梦之中，但越来越多的人开始从噩梦中醒来。我们必须时刻记住：自私是人类的天性。无论共产主义的革命口号叫得多么响，在涉及到剥夺自身利益的时候，所有人都会下意识的抵抗。吃大锅饭这种东西，在自私的人性面前，只能意味着大多数人吃不饱饭。</p>
-<p>首先我们要说的是自留地。对于自留地的粗暴侵占，算是触犯了中国农民的最后一条底线，并引发了随之而来的激烈对抗，黑幕由此拉开，光明也随之而来。自留地是人民公社化运动中留下的一条口子，在将农民手中的田地并入公社统一耕种之余，允许农民保留5-7%，自己经营，可以种种菜养养鸡啥的，作为贫穷生活的补充。农民们对于公田生产毫无积极性，但是对于自己的这一点点自留地，那可都是私田，是一定要精心打理的。可以说，如果不是有这条口子在，3年大饥荒死的人会多得多。</p>
-<p>然而到了1960年代末期，整个国家在荒谬的治国之路上越走越远，越来越罔顾人性。我们已经知道，60年代中国的法制关键词就是“没收”，没收了整整十年，到60年代末期已经没啥新的东西可供没收了。制度的惯性延续的结果，就是必须寻找到可供没收的新财富，虽然我们今天看来，这种制度的惯性极其的荒谬，但在当时，一切都理直气壮。从1960年末期开始，一场新的政治运动席卷而来：割资本主义尾巴。这一次针对的对象，当然只能是自留地。到1975年， 运动到了高潮，几乎所有的自留地都被并入公社，原来的一点点口子被彻底堵上，农民被禁止从事任何副业，不能再获取任何的额外收入。这是最黑暗的时刻。这个 国家的所有人都被彻底禁锢了起来，不再享有任何的私产。没有财产的结果，就是只要脱离组织生活，就会立刻饿死，这当然也意味着所有人都彻底丧失了自由。共 产主义到了这一刻，已经没有任何革命的余地。所有的财产权和人身权都已经被剥夺，<strong>弹簧被压到了极限，再革命下去，就只能遭遇反弹了。</strong></p>
-<p>1976年， 周与毛很及时的相继病逝，没有直接面对民众的怒火。举国上下，就借着悼念领袖的机会，大规模的集会游行，在京城的广场上都发生过好多次流血冲突事件。打倒四人帮和反文革的口号，第一次被公开喊了出来。中国人民开始发出怒吼，要求恢复正常的社会经济秩序，停止反人性的共产主义革命运动。到1976年10月，以四人帮被捕为标志，文化大革命结束，整个国家开始改弦更张，治理逻辑再次180度回转。剥夺私产的治国模式被抛弃。尊重私产，允许老百姓创造财富、拥有财富、交易财富的治国模式，逐渐建立起来。大变革时代，就此来临。</p>
-<p>到这里我们必须回顾一下从1950年到1976年的历史。这个国家自1949年建国，从1950年到1955年，5年的时间里，主要的任务是土地改革，<strong>治国逻辑是将人性的自私自利发挥到极致</strong>，以国家暴力为支撑，发动平民抢掠富人。而1955到1976年，21年的时间里，则在搞共产主义运动，<strong>治国逻辑是消灭人性中的自私成分</strong>，没收私产，剥夺平民财富充作公用。前者无非是用国家暴力逼出一个丛林社会，将好人统统变成坏人，将人变成嗜血的兽。由善入恶，走下坡路，其实很容易实现。所以只不过5年时间，这个国家就成功的完成了土改。但后者却是要将坏人变成圣人，将兽变成天使，由恶入大善，走的不仅仅是上坡路，简直称得上是天梯！这条路走不通，当然是逻辑上的必然。在将平民的财产彻底剥夺干净之后，就是这条天梯的尽头，接下来，整个治理系统一定会崩溃，会迎来一次巨大的危机。倘若这个国家能够顺应时势，及时变革，那政权还能延续。如果冥顽不灵，不能应时而变，那政权覆亡，只不过是在旦夕之间。幸运的是，我党内部各种自相残杀后，存活下来的少数精英， 敏锐的抓住了机会。</p>
-<p>1978年11月，安徽凤阳县小岗村18位农民签订生死状，约定将公社的田产分配给个人，是为包产到户，由此开启了大变革的窗口。我党在当时默许了这种行为，并未加以阻止。一时之间各地纷纷响应，人民公社名存实亡。到1982年，人民公社就彻底消失了。而包产到户的做法，则逐渐完善为家庭联产承包责任制， 关于这个东西，我们到后面再细说。现在我们回头来看，虽然当时在党内有着一些争议的声音，但在浩荡的大势面前，根本没有哪位官员敢于跳出来阻挡历史的进步，也没有任何一个党员敢去执行抓捕小岗村村民的任务。虐民模式已经到了极限，倘若当时我党真要阻止变革，那么结果一定是惨烈的民变，星星之火，便足以焚遍这一国。</p>
-<p>在城市，禁锢也在打开，具体表现为引入外资，促进工商业发展。1978年日本松下集团开始在国内投资建厂，是为改革开放后第一家进入中国的外企。当年底可口可乐进入中国，并在中国设立罐装厂。这意味着工商业领域一律国营的局面 被打破了。既然已经允许外资设厂，那么中国人自己当然也能经营工商业，也能挣钱，积累财富，并最终拥有房地产这种最高等级的财富。</p>
-<p><strong>缺口已经打开，大变革已经开始</strong>。任何试图阻挡变革的势力，都将被这变革的洪流扫入历史的垃圾堆。然而，正如本文一再强调的，这个国家的领袖从来没有系统的思考过治国逻辑，没有深刻反思过犯下的错误，我们所有的制度都是随意制定，随意更改，随意废弃。这个政权只不过是迫于70年代后期汹涌的民意而走上了变革之路，它从没有意识到自己错在何处，它不知道变革为何发生，更无法理解变革的方向。因此，在进入80年代之后，这个国家还将经历一系列的磨难。</p>
-<p>第四章：80年代——<strong>磨难</strong></p>
-<p>关于80年代，我们先从重修宪法说起。在新中国历史上，先后三次全面修订宪法。<strong>第一版宪法1954年制定，承认土地的私有制</strong>， 无论城市还是农村，土地原则上属于私人所有，国有土地只不过是例外。而且即便存在国有土地，也不过是将国家视为一个民事主体。在权力边界上，国家与私人没有任何区别，更不会有任何高人一等之处。当然，很快这个国家就进入共产主义革命阶段，所有的私产都被剥夺，宪法也就变成了一本废纸。到1975年，也就是文革后期，第二版宪法出台，这是一部集共产主义理论之大成的宪法，每个字都充斥着革命的酸腐味。<strong>在这部75宪法中，规定无论农村还是城市，所有的生产资料都必须实行公有制，并严厉的禁止私产。</strong>这个垃圾玩意当然无法适应变革的需求，因此1978年小规模修订了一次，79年和80年又连续进行了一些条文上的修改，但是禁止私产的宪法原则没有改变。</p>
-<p>在这个全新的变革时代，我党的领袖们已经认识到依法治国的必要性。人治是非常可怕的事情，指望某个饱读诗书的伟人拍着脑袋治国，只能把这个国家往悬崖里带， 现在要从悬崖里走出来，当然不能再把希望放到某一个领袖身上。因此在中央层面，将决策权分散，搞民主集中制，九老治国。邓老虽然号称核心，但只有一票否决 权，没有一票决定权。任何治国决策要获得通过，都需要相对多数的赞成票。而在实务层面，就推行依法治国，也就是法治。既然法律不再是废纸，而是各级政府和 机关都必须要予以执行的铁律，那宪法就必须适应新时代的需求进行修订，承认私产，承认民众的财产权利。全面修宪因此成为这个国家首要的任务。</p>
-<p><strong>1982</strong><strong>年，新宪法出台，这版宪法算是一个妥协的产物</strong>。 在这版宪法里，人民公社制度仍然得以保留，但已经不再是农村唯一的组织形式，新型的生产合作社等基于田地承包制而成型的组织形式，也得到了承认。由于放开了口子，人民公社这种反人性的组织形式，几乎是在一夜之间就消失得干干净净，成为中国农民只要一提起来就会在地上吐口水的丑恶记忆。在房地产方面，这版宪法规定城市的土地所有权一律属于国有，而农村的土地所有权则一律属于集体所有，坚决不承认土地私有制度。这种洋溢着共产味道的规定当然是一种惯性，一种对此前20余年治国模式的惯性延续，下意识的就试图否认私产。但完全的否认私产绝无可能，作为妥协，这部宪法又承认市民和农民对自己的房屋，拥有所有权，也就是部分承认私产。<strong>土地所有权与房屋所有权，自此被割裂开来。</strong>这种割裂现象当然是博弈和妥协的结果，根本谈不上符合法理。试想一下，你在国家所有的土地上建了房子，土地不是你的，但房子是你的，在遇到国家征收的时候， 你这个房子应该怎么算价钱？难道你的房子就只能按钢筋砖瓦的残值算钱吗？土地难道不能算钱？即使是以最朴素的最底层的思维来推想，也知道这种算法不合理， 老百姓绝对不会接受。自此之后，这种人为的割裂将长期困扰中国法律界，惹来无穷无尽的麻烦。即便是后来创设出“土地使用权”这样的名词，也无法解决这种割裂问题。</p>
-<p>在农业领域，“家庭联产承包责任制”逐渐完善，并最终确定下来。1982年1月1日，中共中央批转《全国农村工作会议纪要》，正式认可“包产到户”制度，农民在1955年 之后，终于能够正式拥有一块属于自己的田地，自主经营，自主耕耘。虽然此后由于侵犯私权的历史惯性，这个政府总是试图干涉农民的耕种问题，对于种什么类型的作物、啥时候播种、啥时候浇水，都会出台一些莫名其妙的全国性文件，并几乎是强制性的实施，不断的折腾农业生产，并对农业生产征收令人目瞪口呆的重税， 但总归是部分认可了农民对于田地的私权。土地所有权固然被定位“集体所有”，但村集体其实是一个虚构的组织概念， 并没有这么一个实体存在，在法律上啥叫村集体，其实是至今都没能解决的重大法理问题，你其实并不能把村委会这个管理机构等同于村集体，就好像公司的董事会 和公司本身并不是一码事，国务院和国家本身当然也不是一码事。因此事实上农民总能种自己的地，收自己的粮，纳自己的税，不用太担心突然冒出一个叫做“村集 体”的壮汉，把自己的田地给没收了。</p>
-<p><strong>然而工商领域的禁锢居然一如既往</strong>，被这个国家否定私产的统治惯性束缚着，死活不愿意向平民放开。外资已经可以进入中国开办各类工商企业，但是1980年，中国人年广九雇了十来个人炒瓜子儿卖，居然可以被认定为非法雇工，要被当成资本家抓去坐牢。后来虽然在邓老的刻意点名赞许之下，暂时逃过了一劫，但是到1991年，仍然被抓进去了坐了一年的牢。我们必须时刻记住，从1955年公社化运动，到1978年启动变革，23年的时间，这个国家一直处于共产主义革命运动之中，否定私产这种反人性的治理逻辑，具有极其强大的惯性。让外国人进来发财，外国人挣了钱无非是带回外国去， 中国政府从中收了税，这没啥，与否定私产的治理惯性不冲突。中国的平民最多只能进外企当个工人，无法从中得到啥了不起的好处，更无法积累足够的财富，去买房买地。这种制度安排的结果，在整个1980时代，没有任何商品房地产开发的法律法规出台，唯一的住房供应，只能是指望各种国有机构的福利分配。而福利分房的难度，不比买彩票中大奖的难度低多少。</p>
-<p>在当时城市的住房虽然被认定为私人所有，在法规上也允许交易，1983年出台的《城市私有房屋管理条例》还规定了房屋交易必须登记。但在住房供应极度紧张的情况下，其实也基本上不存在什么房屋交易。一个人要是把自己的房子给卖了，他要找到一套新的住房，比登天还难。整个社会的工商业都处于禁锢状态，房地产交易市场当然也不可能存在。</p>
-<p>然而毕竟窗口已经打开，这一国的国民对财富有了极度的渴望。普通老百姓固然被各种禁令堵在工商业之外，眼看着满大街都是挣钱机会，偏偏不得其门而入。从新疆买一车皮的棉花运到广东的港资纺织厂，利润能有10倍， 本来这其实是最为普通的商业行为，在今天看来，没有任何法律上的问题，但在当时，如果你老百姓敢去干一票，竟然算是“投机倒把罪”，坐牢能把牢底坐穿。这 真是令人匪夷所思的制度设计，然而我们回过头来一看，这也只不过是这个国家反人性的惯性罢了，根本没啥高深的道理在里面。</p>
-<p>但是令人难以忍受的地方在于，对于普通平民固然是禁锢重重，但是权贵阶层总有办法打破禁锢，轻轻松松的注册出各种红帽子企业，在各种工商领域挣大钱。这种差别待遇被愤怒的平民归结为“官倒”。权贵官僚面前是一条金光大道，他们能无视所有的法规、限制、禁令，大发横财。而平民百姓则在艰难的挣扎求生，眼前的独木桥朽烂不堪，随时垮塌，陷入牢狱之灾。<strong>这真是人世间最大的不公。</strong>在今天看来，这个国家竟然能设计出这样的治国模式，简直是匪夷所思，而在当时肩负着治国重任的九位元老，甚至可以称得上尸位素餐。这种极度的不公当然会带来激烈的反抗。很快，反抗就来了。</p>
-<p>从1985年开始，中国各大城市的学生发起“争民主”运动，到86年底，蔓延到全国，各高校的学生纷纷响应，并走上街头游行，是为第一次学潮。这次活动算是80年代后期街头政治的开端，此后这种街头政治运动此起彼伏。到1989年，发展到极致，全国高校全面罢课，反官倒，反双轨制，争民主，在北京的广场中聚众绝食。看不到改革，愤怒的学生情愿饿死。而全国的老百姓都为之鼓掌欢呼，和学生们站在了一起。</p>
-<p>老实说，老蛮我这十多年来摸爬滚打，经历了无数的挫折和失败，但是我仍然无法心平气和的回顾这段历史。请闭上眼睛思考一下，当时的平民百姓，在面对“官倒” 时，内心是多么的愤怒。中国人已经穷了三十多年，现在好不容易有了挣钱的机会，却毫无理由的要被官僚群体独占，所有的平民，只要胆敢涉足其中，就会立刻身 陷囹圄，永世不能翻身。这种愤怒根本无法遏制。这种治国逻辑实在是混账！而制定这种政策的决策者们，则只能用愚蠢昏聩来形容，没有任何借口来开释他们的愚蠢。</p>
-<p>然而这个国家并没有理会民众的愤怒。这个国家的领导者们迅速的使用铁血手段平息了反抗，压制了争议。他们竟然要维持荒谬的治国逻辑，坚决的不肯承认其中的错误。刚刚才获得一线生机的国家，就此再次走入死地。</p>
-<p>第五章：90年代——<strong>死地求活</strong></p>
-<p>中 国政府对学潮的铁血镇压带来了极其严重的后果。国际社会纷纷就此制裁中国，包括向中国的商品出口征收重税，或者直接禁止交易。其中武器禁运，高新技术、精密机床禁售等制裁措施，一直延续到今时今日。在国内，整个国家的政策开始转向文革时期，开始复辟共产主义革命那一套。傻子瓜子的年广九在91年被抓去坐了一年牢，背景就在于我党已经开始打算要否定私产了。</p>
-<p>在这种情况下，中国的经济当然是一路下滑，按我党当时的说法，就是经济硬着陆的风险越来越大，眼看就要闹出一次经济危机了。在当时我党可以说是内忧外患，国内民怨沸腾，国外则是一致封锁，真要爆发危机，我党一点应对的办法都没有，只能是等死。幸运的是这段倒行逆施的时间很短，到1992年2月份，邓老启程南巡， 连续发表声明，坚持改革开放，坚决不搞文革复辟，坚定的保护私产，并承诺逐步放开工商领域的禁锢。邓老这番表态也算是一种妥协。此前的官倒其实算是严重的 党内腐败，权贵官僚依靠自己的权势挣钱，这种行为极其的恶劣，并开了一个坏头，理应全面查禁，但真要查的话，这个党估计也剩不下几个人了。最后妥协的结果，就是随便抓了一两个官倒分子，以平息民愤。官倒企业都要脱下红帽子，变成民企，继续做生意发财。而针对民企的工商业禁锢也因此打开，平民百姓都能一起参与进来挣钱。由此皆大欢喜，一锤定音，从此这个国家再也不敢公然宣称要禁锢工商否定私产。私有财产神圣不可侵犯的理念，从这一年开始，慢慢的被国人理解和接受，在此后这个国家再试图侵占民众的利益，将会遭遇越来越剧烈的抵抗。</p>
-<p>然而即便只是短短的从89年到92年三年的倒行逆施，对经济已经造成了足以致命的伤害。现在我党虽然已经妥协了，认错了，开放工商领域了，但是要恢复经济的活力，那可不是一夜之间的事。在当时，我党除了印钱之外，对于百业萧条的局面，那也真是一点其它办法都没有。当然了，我们都知道，如果印钱就能够解决经济危机的话，那就根本不会有什么危机了！到1993年，印钱的恶果就爆发出来，按国家统计局公布的官方数据，商品零售价格指数，93年的涨幅13%，94年23%，95年都还有17%。连续三年物价暴涨！这真是噩梦一样的场景。</p>
-<p>在这个背景之下，我党陆续启动了一系列的改革，以应对危局。在财政上实施分税制，将地方政府的资金全部收归中央，统一调配使用。将大量经营不善的国企直接卖给私人，逼着上千万的国企职工下岗，去刚刚放开禁锢的工商领域自谋生路。这就是所谓抓大放小，以减轻财政负担，回收资金。同时，开始推进一项影响深远的改革：房地产商品化。而在当时我们其实并没有意识到，房地产商品化将会彻底的改变这个国家的经济结构。卖地将会成为中国地方政府最主要的收入来源，而买房， 则会成为所有中国人最深切的欲望，以及最沉重的负担。在中国经济的背上，将会自此留下地产经济的深刻烙印。</p>
-<p>在房地产制度建设方面，90年代已经基本成型。1990年5月份国务院颁发55号令，即《中华人民共和国城镇国有土地使用权出让和转让暂行条例》，这份文件是第一份关于地产市场管理的框架性文件，此后所有的法律法规都由此而来，没有超出这个框架。房地产制度领域最核心的法律问题，就是土地所有权与房屋所有权割裂的问题。房屋之所以被称为不动产，就是因为它必须建设在土地之上，不能随意移动，更不可能是空中楼阁。现在我们各种妥协之后的奇葩宪法非要将房与地割裂，只有国家和村集体才拥有土地的所有权，那么拥有房屋所有权的国人，对土地到 底有啥权利？这份文件给出了一个答复：受限制的土地使用权。对城市居民而言，他的土地使用权可以交易，受到的主要限制是使用年限，住宅70年，商业40年。而对农村村民的限制刚好反过来，他的宅基地使用权没有年限，但交易对象限制在本村村民以内，不允许随意交易。</p>
-<p>问题的核心在于：土地使用权，又是啥呢？考虑到55号令背后的编写团队其实是香港人，主笔人之一其实就是梁振英，这所谓的土地使用权，也就是抄袭的香港特有的土地批租制度，其实就是个租赁使用权。 在制度上，我们将国家和村集体当成了出租人，而国民则是承租人，租了一块地，拿来建房住。这么看起来，地主仍然是国家或村集体，你作为房主，只不过是个租客，地主想要赶走租客，那当然是想赶就能赶，你租客当然也没权利拒绝。这种制度设计贯穿到整个房地产制度体系中的结果，就是房屋产权这个东西，先天就畸 形，缺胳膊少腿的，称不上是完整的权利。在90年代还没啥感觉，到2000年之后，这种先天缺陷将会爆发出来，和我们此前提到过的诸多因素交集到一起，酿成无数的拆迁血案。</p>
-<p>然而不管怎么样，随着制度的完善，商品房地产就此出现。中国在1955年之后，已经有差不多40年没有房地产交易，现在禁锢终于打开，全国人民的热情都没法遏制。想想这一刻国人的心情吧：40年 来唯一的住房供应就只能指望单位的福利分房，现在终于有了另外一条路，不需要勾心斗角，不需要看领导的脸色，只需要一叠票子砸在开发商的桌子上，开发商就会点头哈腰满脸谄媚的把房子钥匙送上，这感觉真是前所未有，这辈子都没体验过，那还不赶紧买啊。一时之间，各路资金纷纷涌入房地产领域，带来了中国<strong>第一次地产泡沫</strong>。以泡沫最疯狂的海南为例，1991年房价1400，92年暴涨到5000，93年就到了7500。从93年年中开始，中国政府开始严厉打击地产泡沫，禁止银行向地产公司提供开发贷款之余，甚至直接停掉了刚刚开始尝试的银行按揭贷款业务。到1995年，地产泡沫破灭，中国房地产行业自此进入一段温和的发展期，一直要到2000年之后，才会再次爆发。</p>
-<p>90年代是一个拨乱反正的时代。它有一个倒行逆施的开端，但是它迅速认识到了错误，向民意妥协，放开了禁锢的工商领域，这令它最终成功的实现了死地求活。然而，它又留下了无数的问题，这些问题都将在接下来的21世纪爆发出来。它没能真正的查办官倒群体，这些群体将会成长为权贵资本集团，财倾天下，甚至足以撼动国本；它被迫实施的分税制，将把整个地方政府逼成惟利是图的守财奴；而房地产，则将会在新世纪迎来一个黄金十年。这些变化，我们还是放在本文的第六章，也就是最后一章来说吧。</p>
-<p>第六章：新世纪——<strong>最后的盛宴</strong></p>
-<p>新世纪的第一件大事无疑是加入WTO，中国自此终于摆脱了从90年代初期开始的大部分的国际制裁，开始能够将中国制造卖到全世界。中国经济在制造业的带领下突飞猛进，增长速度之快令外国人瞠目结舌。用数据来看，1990年我国制造业增加值占全球的比重为2.7%,2000年为6.0%，十年时间增长了3.3个百分点;到了2010年，居然暴增到19.8%！十年时间增长了13.8个百分点！前十年的增长幅度，仅仅相当于后十年的一个零头。这种经济成就真是令人印象深刻。</p>
-<p>我们现在回头来看，已经能够轻易理解这种增长差距的由来。1990年到2000的这十年里，中国人还在自己折腾自己，对于是否放开工商业的禁锢问题，我们还在自我纠结，自我否定，自我反复。今天我们很难理解为何90年代初期这个国家会在姓资还是姓社的问题上爆发出一场自上而下的巨大争论，甚至到了你死我活的程度，姓资的站在一边，姓社的站在另一边，双方都试图将对方的政治生命乃至物理生命彻底毁灭。然而这些所谓的争论并没有什么技术含量，那些个长篇大论统统肤浅无聊，粗陋不堪，之所以会出现这种寡淡无味的争论，无非是这个政权否定私产的历史惯性在作祟罢了。似乎这个国家的高层统治者中，总会有人情不自禁的认为，否定私产才是这个国家的本质，才是这个政权能够延续的根 本，而承认私产，放开工商，则会导致国家变色，政权覆亡。这种思路极其的莫名其妙，也不知道这其中的逻辑到底在哪里。然而接下来惨烈的通胀平息了争论，经 济危机的巨大阴影压制了各路魑魅魍魉，承认私产放开工商，成为这个政权唯一的选择。然而我们必须记住，争论并没有真正平息，否定私产的惯性依然存在，暂时的压制，意味着未来凶狠的反扑。</p>
-<p>2000年到2010年，算是中国平民的黄金岁月。这个政权毕竟放开了大部分的产业限制，对私产也表现出了足够的尊重。只要努力，平民们总能找到一条发财的路子，各种传奇的草根创业故事不绝于耳。<strong>在经济数据上，则是民营经济突飞猛进，迅速超越国有经济。</strong>2000年国有工业企业的主营业务收入2.17万亿，而民营工业企业仅仅只有4791亿，国有企业的整体规模是民营企业的4.5倍。但是到了2010年，数据逆转了过来。2010年国有工业企业的主营业务收入仅仅5.9万亿，而民营工业企业的主营业务收入高达20.8万亿，民营企业的规模是国有企业的3.5倍！从这些数据我们可以清楚的认识到，带动中国成为所谓制造业第一大国的，并不是国有企业，而是民营企业。</p>
-<p>在这种民营经济迅猛发展的背景下，房地产市场迎来了发展的黄金十年。这其中的逻辑关联非常容易理解：<strong>富裕起来的国人当然会第一时间改善自己的生活，购买舒适的安身之所。</strong>只要房地产市场的发展能和民营经济的发展保持同步，那么地产市场就说不上有泡沫。这一点与90年代初期的地产泡沫有着根本的不同。要知道那个时刻这个国家正处于倒行逆施之中，中国经济百业萧条，只能靠印钱吊着一口气。而这凭空印出来的钱涌入华南沿海，将北海、珠海、惠州和整个海南的房地产市场吹出一个个巨大的泡沫，然而在当时根本不可能指望能有大量富裕的国人前来买房，于是泡沫瞬间炸灭，留下满地的烂尾楼，一直到今时今日都没能完全消化。</p>
-<p>可是这一次的局面的完全不一样。中国经济正在蓬勃发展，看起来好像还能继续高速发展一百年，政权也处于收敛状态，除了喜欢创造一些核心理论和思想之外，基本上不太干涉民营经济的运行。老百姓对未来的预期高度乐观，坚定的相信未来会更好。在这种心理预期之下，大家伙纷纷的买房置业。越是配套齐备生活便利的大城市，就越能吸引期待着改善生活的富人群体前来购房。其它二三线城市也纷纷行动起来，启动新城区建设，提升市民的生活环境，以留下富人的住房购买力。</p>
-<p>我们现在冷眼看去，从1949年建国开始，一直到2000年，整个51年时间，这个国家一直在各种折腾，从来没让老百姓过过什么好日子，现在好日子其实只过了10年，老百姓居然就能好了伤疤忘了痛，幻想好日子将永远持续下去，实在是天真得可笑。就在这一片欣欣向荣里面，一些黑暗的种子其实已经发芽，并最终结出了让国人始料不及的恶果。</p>
-<p>经济发展不是纸面上的事，它要实实在在的体现出来，必须要一毛钱一毛钱的挣。对于中国这样的制造业大国来说，就必须建起一间间的厂房，制造出一批批的产品。 建厂，当然需要土地。那么，土地从哪里来？只能是征地，从农村村民，从城市市民手里，把土地征回来。土地征收，成为经济发展的前提性条件。在这个时刻，我们前面反复提到的，中国房地产制度上的先天缺陷，就此发作。</p>
-<p>我们先说农村。农村土地是所谓集体所有制，但“村集体”这种东西其实根本不存在，从来都没有一个能代表全村村民利益的实体组织。所谓村委会，虽然我们在法律上不承认，但在事实上，它算是一级政权架构，在绝大多数情况下，村委会的组成人员是需要乡镇基层政府批准的。没有镇长点头，你连村长的当选资格都没有。指望村委会去维护村民利益，去和政府进行激烈的利益博弈，这纯属扯淡。<strong>在权利主体事实缺位的情况下，这个国家制定的农村征地规则形同儿戏。</strong>对于“集体土地所有权”，也就是所谓的征地补偿款，根据《土地管理法》的规定，只不过是被征地块年产值的6-10倍。想想一亩田地一年哪怕能种出两千斤粮食呢，也就是四千块钱的产值，10倍也就是四万块钱。这点补偿款就跟打发叫花子没啥区别。而对于农村住宅，这个国家甚至没有制定过补偿标准。是的，你没看错，<strong>征收农村住宅没有法定补偿标准。</strong>补多少，乃至补不补，全都由基层官僚说了算。了不起补你一点钢筋水泥的残值，这已经算得上人道。这种匪夷所思的征地制度，当然是一种巨大的不公，在法理上根本站不住脚。要指望农民能够就此忍气吞声，那真是小看了中国农民的斗争精神。</p>
-<p>想想我们的农村现在是一个什么状况吧。我们已经完全消灭了农村的士绅阶层，也就是拔掉了整个农村的稳定阀。农村早已经丧失了自我治理能力，邻里纠纷完全依靠 基层政府的调处，而利益分配则要指望由上级政府委派的村委会的权威。然而伴随着经济蓬勃发展，征地几乎是时时刻刻都在发生。对农村利益的侵害，每时每刻都在加深。政府的权威或许能够一时压制村民的维权需求，但是它绝对不可能长期压制。站在农民的角度上来看，这个国家发展经济，牺牲的全是农民的利益。<strong>向农业征收匪夷所思的重税去补贴工业是一桩，廉价征地又是一桩</strong>，这真是岂有此理！ 00年代初期，基层政府的权威还能压制得住，我们还不太能听到农民闹事的新闻，到05年前后，抗税抗征事件不绝于耳。一开始农民还只是用自我伤害的方式表达愤怒，慢慢的开始进入到赤手空拳打架的阶段，然后动刀子，最后是有组织的集体对抗。2005年 底，在连续爆发村民冲击乡镇政府，殴打基层官僚的事件之后，这个国家取消了农业税。但是征地制度没有任何变化，官民之间的激烈对抗一直没有停止，从前几天 的新闻来看，已经发展到使用土制汽油炸弹抗征的程度了。有意思的是，关于抗争方式，还表现出了清晰的地域特征。广东的潮汕地区，湘西山区，四川山区，云南 贵州广西全省，都是暴力抗争事件的多发地，动不动就拔刀子一起上，把基层干部揍得生活不能自理。看起来，似乎是南中国的民风更加彪悍，而北方农民则普遍表 现得懦弱无能，至今都停留在自我伤害阶段，敢动手的不多，一般也就是上个访绝个食，了不起就愤而自焚，让人份外鄙视。</p>
-<p>与农村抗争事件大量爆发的节奏一致，城市的拆迁问题同样爆发出来。农村土地在制度上的麻烦是所有权人缺位，而城市的问题同样不小。城市土地所有权人直接就是国家，要知道在我们这里，国家和政府是划等号的。现在政府作为地主，要把上面的租户赶走，那补偿费要怎么算？现行法规的规定是按市场评估价来补偿，这个话 基本等于没说。评估？怎么评估？是评估建筑物那点子钢筋水泥的残值，还是连土地未来的升值情况一起评估进去？这些根本没有理清。如果房屋产权人同时也是地 主，拥有完整的产权，毫无疑问，评估应该包含土地价值，并且应该包含未来的升值在内。然而现在房屋产权人只不过是一个租户，租了政府的土地使用权罢了，租权这个东西，怎么认定价值都行，甚至认为价值为零，也没啥问题。但即便最有良心的地方政府，也不会在评估时计算土地未来的升值。了不起把当时的土地价值算进去，已经是天大的恩赐了。</p>
-<p>然而城市拆迁带来的土地升值，才是利益蛋糕中最大的一块。一个旧城区，交通不便管网不畅，停电积水是常事，所以土地价值很低。现在只要拆迁改造出来，立刻就 有爆发式的价值增长，作为房屋产权人，不说全部吃掉这一块蛋糕，好歹也能分享一点吧。按现在的制度规则，他居然完全不能享受。所以城市拆迁最常见的情况， 就是房屋产权人要么就被直接安置到偏远的郊区，要么拿着到手的一点补偿款，选了半天，最后还是只能跑到偏远的郊区去买房。看着原来的旧城区改造之后房价飙升，但是和自己一点关系都没有，内心愤怒得要命。</p>
-<p>我们现在已经知道，这个国家的房地产制度，乃至几乎所有的法律制度，从来都不是科学设计的结果，它的出台极其的随意，没有逻辑。现在这一套房地分裂的制度，只不过是80年代初期的妥协结果，在法理上等同于垃圾，但我们就这么坚持实施了下来。而这么实施的结果，就是这个国家的每一步发展，建起的每一间厂房，实施的每一次征地，背后都有着一批利益受损的农民或者市民。我们就这么公然以侵害一部分人的方式，支撑另一部分人富裕起来。<strong>无论这个政党是否承认，这就是它真实的治国逻辑：极端现实主义。</strong>为了实现整体经济增长，可以侵害小部分人的利益，说的更通俗一点，就是为达目的不择手段。这就不要说和谐社会了，基本上这就是赤裸裸的丛林社会。既然政府以 这种逻辑治国，那就不要指望本国国民会五讲四美三热爱，温良恭俭让的谦谦君子，基本上就只有被人鱼肉的命。人人惟利是图，将道德和底线踩在脚下，那才是这 个国家的新常态。所以被拐卖到偏远山区20年的妇女在村里做个代课老师，还能被评为感动中国的人物，被拍成了电影，让党员干部 观看学习，回去还要写心得。大家纷纷表示自己要学习这种随遇而安的精神，一心跟党走，永远不回头。你要敢公然表示这种事情恶心得要命，大家还会一起鄙视你，说你丫情商太低智商偏弱，一辈子都不会成功。</p>
-<p>现在我们再次回顾这个国家的历史：1950的中国，为了实现土地改革，强迫这个国家的所有人抛弃道德和底线，去抢夺富裕士绅的财产。而2000年之后的中国，则为了实现经济增长，则诱惑所有人抛弃道德和底线，去低价征收农民和旧城区市民的土地，去侵害小部分人的利益。<strong>这个国家的治国逻辑，就是不要道德和底线，只有纯粹的利益，赤裸裸的利益。</strong>而这种极端现实主义的治国逻辑，能十年、五十年、一百年的持续下去吗？一旦有一天，再也没有这种可供侵害的小部分人，这个国家又打算走向何处？现在已经是2015年，这场以血肉为食的财富盛宴已经连开15年，我们已经征光了所有能征的地，拆光了所有能拆的旧城。现在的农民已经提起砍刀来面对征地，而市民则举起了汽油弹。这场血肉盛宴，还能如何继续？</p>
-<p>或许，在这一场盛宴之后，两脚羊时代，就要到来了吧。</p>
-<p>（全文完）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81-%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%B6%E5%BA%A6%E5%8F%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E5%9C%B0%E7%A7%81%E6%9C%89%E5%88%B6/?category=18271" rel="tag">土地私有制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E6%94%B9/?category=18271" rel="tag">土改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">房产泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1196,7 +1059,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1206,5 +1069,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

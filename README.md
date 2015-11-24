@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%87%E5%B1%B1%E5%A8%83%EF%BC%9A%E6%A8%8A%E4%BA%AC%E8%BE%89%E5%A6%82%E4%BD%95%E5%9C%A8%E5%BE%AE%E5%8D%9A%E4%B8%80%E6%AD%A5%E6%AD%A5%E6%88%90%E4%B8%BA%E7%8E%8B%E5%8A%9F%E6%9D%83/" target="cdt-mirror">文山娃：樊京辉如何在微博“成为”王功权秘书、叙利亚带路党</a>
@@ -100,7 +100,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A0%B8%E7%94%B5%E5%8A%A0%E9%80%9F%E5%BC%95%E5%8F%91%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7/" target="cdt-mirror">自由亚洲｜中国核电加速引发安全担忧</a>
 </h2>
@@ -131,7 +131,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5%E7%AB%99/?category=18271" rel="tag">核电站</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E8%B0%81%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%BB%BB%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9F/" target="cdt-mirror">东网｜老徐：谁将成为下一任中纪委书记？</a>
 </h2>
@@ -384,7 +384,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 <p>我认为陈平原的态度更多地取决于他的性格而非他的身份——他一直是个「温和自由派」。我也不认为陈的文章难以捉摸。相反，争论如此复杂，温度如此之高，以致于原本友好相处、高智商的人们被归类到截然不同的「立场」和「阵营」，在这样的情况下，陈平原发出的是一种难得的、有节制的声音。</p>
 <p>陈平原的思考角度与众不同。他十分清楚北大政治环境的复杂与无常。他给我讲了若干年前他和一位北大副校长之间的谈话。在某次会议上，陈对校方行政管理层颇有微辞，斥其权力过大。会后，那个副校长把他拉到一旁对他说：北大校园里到处都是自由派和保守派，右派和左派，管理层必须在各派之间保持平衡，以避免出现更大的麻烦。从那以后，陈学会了去体谅做这种</p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8E%A5%E8%BF%9E%E9%81%AD%E5%8F%97%E6%81%90%E8%A2%AD%E6%B3%A2%E5%8F%8A-%E5%8C%97%E4%BA%AC%E5%85%A8%E9%9D%A2%E6%8F%90%E5%8D%87/" target="cdt-mirror">自由亚洲 | 中国人接连遭受恐袭波及 北京全面提升安保防控</a>
 </h2>
@@ -408,7 +408,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90/?category=18271" rel="tag">反恐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E4%BF%9D/?category=18271" rel="tag">安保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E9%87%8C%E9%85%92%E5%BA%97%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">马里酒店恐怖袭击</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD-%E5%8E%86%E5%8F%B2%E9%80%89%E6%8B%A9%E4%B8%8E%E5%85%AC%E6%B0%91%E9%80%89%E6%8B%A9%E4%B8%80%E4%B8%80%E6%9C%89%E6%84%9F%E4%BA%8E%E7%BC%85%E7%94%B8%E9%80%89/" target="cdt-mirror">民主中国 | 历史选择与公民选择一一有感于缅甸选举</a>
 </h2>
@@ -952,7 +952,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -962,5 +962,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
